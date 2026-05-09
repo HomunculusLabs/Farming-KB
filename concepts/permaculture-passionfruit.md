@@ -3,7 +3,7 @@ title: Passionfruit (Passiflora spp)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -63,30 +63,27 @@ Passionfruit vines require full sun (6+ hours daily) and well-drained soil with 
 
 ## Pests and Diseases
 
-Common pests include [[hamilton-pest-and-disease-control-organic]], aphids, and mealybugs. The most serious disease is passionfruit woodiness virus (PWV), transmitted by aphids. Brown spot (Alternaria passiflorae) affects fruit and leaves in humid conditions. Good air circulation, clean pruning tools, and removing infected material help manage disease pressure. Avoid planting near cucurbits, which can harbor shared pathogens.
-
-## Harvesting
-
-Fruit typically ripens 70-80 days after flowering. Vines begin bearing 12-18 months after planting from seed, or 6-9 months from grafted seedlings. Purple passionfruit is ready to harvest when it falls from the vine; yellow types can be picked when fully colored. Expect 15-25 kg of fruit per vine per year at maturity.
-
-## Propagation
-
-- Seed (fresh seed best; passing through animal digestive system aids germination)
-- Hydrochloric acid treatment sometimes used
-- Cuttings (most species)
-- Grafted cultivars available but rootstock can become nuisance (esp. P. caerulea)
-
-## Nutrition — Purple Passionfruit (per 100g)
-
-Calories 90, Moisture 75.1g, Protein 2.2g, Fat 0.7g, Carbohydrates 21.2g, Calcium 13mg, Phosphorous 64mg, Iron 1.6mg, Vitamin A 700 IU, Ascorbic acid 30mg
-
-## Related
-
-- [[permaculture-fruit-tree-guide]]
-- [[tropical-vs-temperate-fungal-diversity]]
+Common pests include [[permaculture-fruit-tree-guide]]
 - [[permaculture-beekeeping]]
-- [[mulch-producing-plants]]
 - [[permaculture-tree-crop-systems]]
-- [[organic-pest-and-disease-management]]
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[soft-fruit-growing-organic]]
+## Practical Considerations
+
+Successful implementation of Passionfruit (Passiflora spp) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

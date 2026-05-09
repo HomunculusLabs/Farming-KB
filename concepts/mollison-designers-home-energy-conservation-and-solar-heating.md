@@ -111,12 +111,8 @@ then it must be rejected. This is the "economics of extinction."
 
 ## Related Topics
 
-- [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]
-  - Passive cooling strategies
 - [[mollison-village-energy-systems-and-efficiency]] - Village-scale
   energy planning
-- [[mollison-thermal-mass-passive-building]] - Thermal mass in
-  building design
 - [[mollison-biogas-and-methane-production-from-sewage]] - Biogas for
   cooking fuel
 - [[mollison-greywater-domestic-water-recycling]] - Wastewater

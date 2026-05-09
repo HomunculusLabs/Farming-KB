@@ -56,8 +56,7 @@ dissolved metal concentrations, and elevated sulfate levels:
   sulfide precipitation, enhancing metal removal from AMD
 - Fungal EPS coatings on tailings surfaces create diffusion barriers
   that slow oxygen ingress and reduce sulfide oxidation rates
-- Certain fungal species including [[aspergillus-niger-in-fungal-bioleaching]] and
-  [[penicillium-entity]] species produce organic acids that can be harnessed
+- Certain fungal species including [[fungal-roles-soil-food-webs]] species produce organic acids that can be harnessed
   for selective metal leaching and recovery from AMD
 
 Integrated fungal-bacterial treatment systems combining fungal organic
@@ -98,13 +97,6 @@ wind and water erosion and immobilizes contaminants through root uptake
 and soil binding, is the most practical remediation approach for vast
 tailings areas:
 
-- [[mycorrhizal-inoculation]] dramatically improves seedling survival and
-  growth on tailings substrates by enhancing nutrient acquisition,
-  particularly phosphorus, which is severely limited in these materials
-- Ectomycorrhizal fungi including Pisolithus, Scleroderma, and
-  Suillus species are essential for establishing woody vegetation on
-  mine tailings, providing both nutritional benefits and metal
-  protection to host trees
 - [[arbuscular-mycorrhizal-fungi]] support herbaceous plant establishment
   for erosion control and initial site stabilization
 - Mycorrhizal fungi reduce metal translocation from roots to shoots,
@@ -146,5 +138,3 @@ mine tailings in the United Kingdom where ectomycorrhizal birch
 plantations achieved 80 percent canopy cover within five years, and gold
 mine tailings in South Africa where AMF-inoculated grasses reduced
 erosion rates by over 90 percent compared to unvegetated controls.
-
-Long-term monitoring shows that fungal-assisted restoration produces

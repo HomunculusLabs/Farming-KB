@@ -18,14 +18,7 @@ biological systems.
 
 ## The Problem
 
-Spacecraft carry biologically sensitive systems includ [[stamets-pinning-initiation-stages-environmental-control]] trol
-and Life Support Systems (ECLSS) waters and flight experiments. Crew members
-need to aseptically remove samples and products from these systems, as well
-as add materials to sterile or susceptible environments. However, every access
-event introduces contamination risk through the mating fixtures and ports that
-connect the external environment to the sterile interior.
-
-Traditional [[sterilization-techniques-mushroom-cultivation]] were inadequate for this application:
+Spacecraft carry biologically sensitive systems includ [[sterilization-techniques-mushroom-cultivation]] were inadequate for this application:
 
 - **Autoclaving**: Excessive thermal impact on vulnerable spacecraft systems.
   The high temperatures (121°C+) required could damage biological samples,
@@ -33,27 +26,7 @@ Traditional [[sterilization-techniques-mushroom-cultivation]] were inadequate fo
 - **Gamma irradiation**: Capable of sterilization but impractical for in-situ
   use during missions. Requires heavy shielding and specialized facilities.
 - **Chemical disinfection**: Introduces chemical contaminants into the very
-  systems being protected. Residual ethylene oxide, [[hydrogen-peroxide-tissue-culture-wild-polypores]], or
-  alcohols could compromise biological experiments or water supplies.
-- **UV irradiation**: Cannot effectively sterilize complex surface geometries
-  due to its line-of-sight limitation. Shadowed areas remain contaminated.
-
-## MSAP Architecture
-
-The MSAP consists of three integrated subsystems:
-
-### 1. In-Line Valve Port Assembly
-
-The valve port assembly is permanently installed on the spacecraft system
-being accessed. It serves as the interface between the sterile internal
-environment and the external access point. The assembly is designed with
-materials that are transparent to 2.45 GHz microwave radiation, allowing
-sterilization energy to reach all mating surfaces during the process.
-
-The valve mechanism ensures that the system remains sealed when not actively
-being accessed, maintaining sterility between operations.
-
-### 2. Portable [[microwave-sterilization]] Chamber
+  systems being protected. Residual ethylene oxide, [[microwave-sterilization]] Chamber
 
 This is the core innovation of the MSAP. The sterilization chamber is a
 portable unit that couples with the valve port assembly to deliver microwave
@@ -62,10 +35,7 @@ energy to all mating surfaces. Key design features include:
 - **Microwave-reflective materials**: Used to direct and contain the
   microwave energy within the chamber, ensuring efficient energy delivery.
 - **Microwave-transparent materials**: Used for the chamber walls and mating
-  surfaces, allowing [[microwave-penetration-elastomeric-materials]] to reach all contaminated areas.
-- **Controlled radiation patterns**: Antenna placement and chamber geometry
-  are engineered to ensure uniform energy distribution across all surfaces.
-- **[[trace-water-enhanced-microwave-surface-sterilization]] delivery**: A system for introducing the small quantity of
+  surfaces, allowing [[trace-water-enhanced-microwave-surface-sterilization]] delivery**: A system for introducing the small quantity of
   water (~9 µL/cm²) required for effective spore destruction.
 
 The chamber operates at 2.45 GHz with an exposure rate of 3.6 W/cm²,

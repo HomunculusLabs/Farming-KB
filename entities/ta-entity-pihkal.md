@@ -8,20 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TA
 
-PIHKAL entry #145. 2,3,4,5-TETRAMETHOXYAMPHETAMINE.
-
-## Chemical Name
-
-2,3,4,5-TETRAMETHOXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | probably above 50 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
+[[qualitative-comments-methodology-pihkal]]
 
 > (with 30 mg) Definite threshold. There was eye
 > dilation, and some unusual humor Q a completely wild day with
@@ -90,9 +77,7 @@ weight by referring to it with the dimension known as the stone. This
 is, as I remember, something like 14 pounds. So, if stones were the
 weight equivalent of 10 milligrams, the activity of TA would be
 several stone. And since the synthetic intermediate
-1-allyl-2,3,4,5-tetramethoxybenzene is one of the ten essential oils,
-the amination step from our hypothetical reaction in the human liver
-would make TA one of the so-called Ten and natural precursors.
+1-allyl-2,3,4,5-t [[essential-amphetamines-and-natural-precursors]] so-called Ten and natural precursors.
 
 ## Synthesis
 
@@ -108,32 +93,7 @@ K2CO3. All was extracted with 3x250 mL Et2O, and the removal of the
 solvent from the pooled extracts under vacuum gave 42 g of residue
 that appeared to be mainly phenol, with a little formate and aldehyde.
 This was dissolved in 200 mL of 10% NaOH, allowed to stand for 2 h at
-ambient temperature, washed with 2x75 mL CH2Cl2, acidified with HCl,
-and extracted with 3x100 mL Et2O. The pooled extracts were washed
-with saturated NaHCO3, and the solvent removed to give 34.7 g of
-2,3,4-trimethoxyphenol as an amber oil which was used without further
-purification. The infra-red spectrum showed no carbonyl group, of
-either the formate or the starting aldehyde.
-
-A solution of 11.4 g flaked KOH in 100 g EtOH was treated with 33.3 g
-2,3,4-trimethoxyphenol and 21.9 g allyl bromide. The mixture was held
-at reflux for 1.5 h, then poured into 5 volumes of H2O, made basic
-with the addition of 25% NaOH, and extracted with 3x200 mL CH2Cl2.
-Removal of the solvent from the pooled extracts gave about 40 g of a
-crude 2,3,4-trimethoxy-1-allyloxybenzene that clearly had unreacted
-allyl bromide as a contaminant.
-
-A 39 g sample of crude 2,3,4-trimethoxy-1-allyloxybenzene in a
-round-bottomed flask with an immersion thermometer was heated with a
-soft flame. At 225 deg C there was a light effervescence and at 240 deg C
-an exothermic reaction set in that raised the temperature immediately
-to 265 deg C. It was held there for 5 min, and then the reaction was
-allowed to cool to room temperature. GC and IR analysis showed the
-starting ether to be gone, and that the product was largely
-2,3,4-trimethoxy-6-allylphenol. It weighed 34.4 g.
-
-To a solution of 9.4 g KOH in 100 mL MeOH, there was added 33.3 g of
-2,3,4-trimethoxy-6-allylphenol and 21.2 g methyl iodide and the
+[[scythian-cannabis-steam-bath-ritual]] methyl iodide and the
 mixture was held on the steam bath for 2 h. This was poured into
 aqueous base, and extracted with 3x100 mL CH2Cl2. Removal of the
 
@@ -142,8 +102,6 @@ aqueous base, and extracted with 3x100 mL CH2Cl2. Removal of the
 ## Safety Notes
 
 ## See Also
-
-- [[2-4-dma-entity-pihkal]]
 
 - [[tma-2-entity-pihkal]]
 - [[idnna-entity-pihkal]]

@@ -122,7 +122,6 @@ corroborated his findings.
 
 ## See Also
 
-- [[bloomfield-fungal-reproduction-and-chemical-communication]]
 - [[plant-fungal-signaling-mycorrhiza]]
 - [[fungal-pheromones-and-sexual-signaling]]
 

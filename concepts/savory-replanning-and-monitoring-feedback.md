@@ -121,8 +121,6 @@ planning must be.
 
 ## See Also
 
-- [[savory-holistic-decision-making]]
 - [[savory-flexibility-in-management]]
-- [[savory-drought-planning-and-reserves]]
 - [[savory-livestock-grazing-planning]]
 - [[savory-land-monitoring]]

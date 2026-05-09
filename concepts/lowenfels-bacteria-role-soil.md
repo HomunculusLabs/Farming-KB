@@ -106,8 +106,6 @@ between bacteria (simple sugars, green material) and fungi (complex compounds,
 brown material) is fundamental to soil food web dynamics.
 
 ## See Also
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[lowenfels-aerobic-anaerobic-soil-conditions]]
-- [[lowenfels-fungi-role-soil]]
 - [[lowenfels-rhizosphere-bacteria-plant-interaction]]
 - [[savory-soil-organic-matter-and-decomposition-dynamics]]

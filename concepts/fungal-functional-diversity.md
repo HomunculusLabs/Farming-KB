@@ -3,28 +3,7 @@ title: Fungal Functional Diversity
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
----
-# Fungal Functional Diversity
-
-## Overview
-
-Fungal functional diversity encompasses the range of ecological roles, metabolic capabilities, and life history strategies exhibited by fungi. Fungi function as decomposers, mutualists, pathogens, parasites, endophytes, and environmental engineers. Their functional diversity far exceeds their taxonomic diversity, with individual species often performing multiple ecosystem functions depending on context.
-
-## Trophic Modes
-
-### Saprotrophs (Decomposers)
-
-Saprotrophic fungi obtain nutrients from dead organic matter, producing extracellular enzymes that break down complex polymers. This trophic mode is responsible for the majority of [[fungal-decomposition]] and [[fungal-decomposition-nutrient-cycling]]. Saprotrophs range from generalists capable of degrading diverse substrates to specialists adapted to specific materials (keratinophilic fungi, cellulolytic specialists, ligninolytic white-rot fungi).
-
-### Biotrophic Mutualists
-
-Fungi that form beneficial associations with living organisms:
-- **Mycorrhizal fungi**: Trade soil nutrients for plant carbohydrates; essential for most terrestrial plant ecosystems. See [[arbuscular-mycorrhizal-fungi]] and [[ectomycorrhizal-ecology]].
-- **Endophytic fungi**: Inhabit plant tissues without causing disease, providing protection against herbivores and pathogens. See [[endophytic-fungal-diversity]].
+tags: [[fungal-decomposition]] and [[arbuscular-mycorrhizal-fungi]] and [[endophytic-fungal-diversity]].
 - **Lichen-forming fungi**: Mutualistic associations with algae or cyanobacteria; important for soil stabilization and as bioindicators.
 - **Fungicolous fungi**: Fungi that grow on other fungi, including mycoparasites.
 
@@ -50,19 +29,7 @@ Hawksworth and colleagues (1998) noted the importance of nutritional metamorphos
 
 ## Life History Strategies
 
-The Cooke and Rayner (1984) C/S/R framework (see [[fungal-communities-succession]]) describes three primary fungal life strategies:
-- **Competitive (C)**: Fast-growing, resource-capture specialists dominant in low-stress, resource-rich environments
-- **Stress-tolerant (S)**: Slow-growing survivors adapted to persistent environmental stress
-- **Ruderal (R)**: Opportunistic colonizers of newly available resources, poor competitors
-
-These strategies are not mutually exclusive; individual species can manifest all three in different circumstances. Fungi frequently shift strategies during their life cycles.
-
-## Functional Guilds
-
-Fungi can also be classified by functional guild — groups of species that perform similar ecological functions regardless of taxonomic relatedness:
-- Wood decomposers (white rot, brown rot, soft rot)
-- Litter decomposers (sugar fungi, cellulolytic molds, lignin-modifiers)
-- [[coprophilous-fungi]] (dung specialists)
+The Cooke and Rayner (1984) C/S/R framework (see [[coprophilous-fungi]] (dung specialists)
 - Mycorrhizal guilds (arbuscular, ectomycorrhizal, ericoid, orchid)
 - Endophyte guilds (systemic grass endophytes, foliar endophytes, root endophytes)
 - Plant pathogens (biotrophic, hemibiotrophic, necrotrophic)
@@ -87,16 +54,12 @@ Changes in fungal functional diversity — through habitat alteration, climate c
 
 ## See Also
 
-- [[fungal-communities-succession]] — C/S/R life strategies
 - [[fungal-decomposition-nutrient-cycling]] — decomposition functions
-- [[mycorrhizal-fungi]] — mutualistic functions
 - [[endophytic-fungal-diversity]] — endophyte functions
-- [[fungal-ecosystem-services]] — services derived from functional diversity
 - [[fungal-roles-in-agriculture]] — agricultural functional groups
 
 ## Related
 
-- [[mycorrhizal-fungi]]
 - [[fungal-fungal-community-assembly]]
 
 ## Merged: Fungal Mycoviruses

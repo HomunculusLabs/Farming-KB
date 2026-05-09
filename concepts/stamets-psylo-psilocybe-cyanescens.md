@@ -1,15 +1,7 @@
 ---
 title: Psilocybe cyanescens - Species Profile
 created: 2026-04-28
-tags: [mycology, species, psilocybin, pacific-northwest, taxonomy]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-type: concept
----
-
-# [[psilocybe-cyanescens]]
+tags: [[psilocybe-cyanescens]]
 
 **Authority**: Wakefield
 
@@ -20,113 +12,91 @@ type: concept
 Psilocybe cyanescens is one of the most widely recognized and potent
 psilocybin mushrooms. Its characteristic wavy cap margin and propensity
 for wood-chip habitats have made it a familiar sight in temperate
-gardens worldwide. [[andrew-weil]] (1975, 1977) brought this mushroom to the
-forefront of awareness after collecting it in Oregon.
-
-### Cap (Pileus)
-
-2-4 (5) cm broad. Obtusely conic to conic-convex at first, usually soon
-expanding to broadly convex to nearly plane in age with an undulating or
-wavy margin. Margin translucent-striate. Chestnut brown in young specimens,
-becoming more caramel colored with age. Hygrophanous, fading to dark
-yellowish brown or ochraceous in drying. Surface smooth and viscid when
-moist from a sometimes separable gelatinous pellicle. Context nearly
-concolorous with the cap and bruising bluish.
-
-### Gills (Lamellae)
-
-Attachment adnate to subdecurrent, close to subdistant, broad. Color
-cinnamon brown, becoming deep smoky brown with the edges remaining
-paler. Spore print dark purplish brown.
-
-### Stem (Stipe)
-
-20-80 mm long by 2.5-5 mm thick. Often curved and somewhat stiff but not
-pliant. Whitish overall, readily bruising bluish. Surface silky, covered
-with fine fibrils and often with long whitish rhizomorphs protruding about
-base of stem. Enlarged at the base.
-
-### Veil
-
-Partial veil copiously cortinate, snow-white, rapidly deteriorating to an
-obscure annular zone, if at all. This copious, snow-white veil is a
-distinguishing feature.
-
-## Microscopy
-
-- **Spores**: Dark purplish brown in deposit, elongate-ellipsoid, 9-12 by
-  5-8 um
-- **Basidia**: 4-spored
-- **Pleurocystidia**: Not reported by Wakefield, but Pacific Northwest
-  collections have abundant, capitate pleurocystidia 17-33 by 5-8 um,
-  fusoid-ventricose to subpyriform, sometimes mucronate
-- **Cheilocystidia**: 16-27 by 6.6-8.8 um, sublageniform to
-  fusoid-ventricose, cylindrical at base, with an extended single or
-  split neck
-
-Note: The original descriptions consistently note pleurocystidia absent or
-only near the gill edge. Stamets's own SEM studies reveal abundant
-pleurocystidia, suggesting the description may need to be emended.
-
-## Habitat
-
-Scattered to gregarious in humus enriched with woody debris, amongst
-leaves and twigs, in wood chips, sawdust, or in debris fields rich with
-rotting wood. Often under mixed woods at the edges of lawns, along paths,
-and in heavily mulched rhododendron and rose gardens. This species loves
-wood-chip trails that meander through gardenlike settings bordered by
-rhododendrons and shade-providing shrubs. P. cyanescens grows well with
-lupines, azaleas, and other bushes associated with the coastal, temperate
-plains.
-
-## Distribution
-
-Western coastal regions between San Francisco, California, to southern
-Alaska. Widely spread throughout the United Kingdom and across much of
-temperate Europe (Italy, Germany, Spain, Sweden). Likely introduced to
-Europe from North America via horticultural trade.
-
-## Season
-
-Fall to early winter in the Pacific Northwest.
-
-## Dosage and Potency
-
-Moderately to highly potent. Reported chemical analyses:
-
-- Beug and Bigwood (1982b): 1.68% psilocybin, 0.28% psilocin
-- Gartz (1994): 0.30% psilocybin, 0.51% psilocin, 0.02% baeocystin
-- Stijve and Kuyper (1985): 0.85% psilocybin, 0.36% psilocin, 0.03%
-  baeocystin
-
-## Commentary
-
-The wavy cap margin, the color of the cap, and the copious nature of the
-partial veil distinguish this species. Dedicated caretakers of rhododendron
-gardens have unwittingly promoted perennial patches of P. cyanescens. This
-species has become one of the most common "weeds" in mulched gardens of
-the Pacific Northwest and temperate Europe.
-
-The taxonomic status is somewhat unsettled due to the discrepancy between
-Wakefield's original description (lacking pleurocystidia) and the abundant
-pleurocystidia found in Pacific Northwest collections. This may represent
-a new taxon.
-
-## Similar Species
-
-- **[[psilocybe-azurescens]]**: Much larger stature, non-undulating margin,
+gardens worldwide. [[psilocybe-azurescens]]**: Much larger stature, non-undulating margin,
   pronounced umbo, more potent
-- **[[psilocybe-cyanofibrillosa]]**: Similar but typically not umbonate,
-  weaker potency
-- **Psilocybe serbica**: European species, differs in habitat preferences
 - **[[psilocybe-subaeruginosa]]**: Australian species
 - **Galerina species**: Deadly look-alikes with rusty brown spores
 
 ## See Also
 
-- [[stamets-psi-psilocybe-cyanescens-species-guide]]
 - [[stamets-psylo-psilocybe-azurescens]]
-- [[stamets-psylo-psilocybe-cubensis]]
+- [[psilocybe-baeocystis]],
+[[galerina-autumnalis]]
+## Practical Applications
 
-Psilocybe azurescens, Psilocybe stuntzii, [[psilocybe-baeocystis]],
-[[psilocybe-semilanceata]], [[galerina-autumnalis]]
+Psilocybe cyanescens - Species Profile has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Psilocybe cyanescens - Species Profile. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

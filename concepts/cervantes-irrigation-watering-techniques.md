@@ -15,9 +15,7 @@ Proper irrigation is essential for healthy cannabis growth. Large
 plants use more water than small plants, but many variables beyond
 size dictate water consumption. This page covers irrigation
 fundamentals for soil and soilless growing. For hydroponic irrigation
-systems, see [[cervantes-drip-irrigation-systems]] and
-[[cervantes-hydroponic-systems]]. See also
-[[cannabis-advanced-growing-techniques]] and
+systems, see [[cervantes-hydroponic-systems]]. See also
 [[cervantes-moisture-meters-watering-technique]].
 
 ## Factors Affecting Water Consumption
@@ -66,48 +64,7 @@ Use plenty of water, and allow up to 10 percent runoff during each
 watering. The runoff prevents fertilizer from building up in the soil.
 Water early in the day so excess water will evaporate from the soil
 surface and the leaves. Leaving foliage and soil wet overnight invites
-a [[cervantes-downy-mildew-fungal-blight]].
-
-Apply about one-quarter to one-half as much water or fertilizer as
-the plant is expected to need, then wait 10 to 15 minutes for it to
-totally soak in. Apply more until the soil is evenly moist. If trays
-are underneath the pots, let excess water remain a few hours before
-removing it with a large turkey baster.
-
-## Wetting Agents
-
-Add a few drops (one drop per pint) of a biodegradable, concentrated
-liquid soap like Castile or Ivory to irrigation water. Detergent
-makes water penetrate the soil more thoroughly and guards against dry
-soil pockets. Most soluble fertilizers contain a wetting agent.
-
-## Soil Cultivation
-
-Cultivate the soil surface to allow water to penetrate evenly and
-guard against dry soil pockets. This also keeps water from running
-down the crack between the inside of the pot and the soil and out the
-drain holes. Gently break up and cultivate the top half inch of soil
-with your fingers or a salad fork. Be careful not to disturb tiny
-surface roots.
-
-## Overwatering
-
-Overwatering is a common problem, especially with small plants. Too
-much water drowns the roots by cutting off their supply of oxygen.
-One of the main causes of overwatering is poor air ventilation. The
-plants need to transpire water into the air. If humid air has nowhere
-to go, gallons of water are locked in the grow room air.
-
-Signs of overwatering include:
-- Leaves curled down and yellowed
-- Waterlogged and soggy soil
-- Fungal growth on soil surface
-- Slow growth
-- Wilting despite wet soil
-
-Sometimes parts of the soil are overwatered while other soil pockets
-remain bone-dry. Cultivating the soil surface and using a
-[[cervantes-moisture-meters-watering-technique]] will
+a [[cervantes-moisture-meters-watering-technique]] will
 overcome this problem. Symptoms of overwatering are often subtle and
 inexperienced gardeners may not see blatant symptoms for a long time.
 
@@ -140,3 +97,7 @@ pots in straight lines for easier tracking of watered pots.
 A 4 x 4-foot garden containing 16 healthy plants in 3-gallon pots
 needs 10 to 25 gallons of water per watering session. Having a readily
 accessible water source is very convenient and saves time and labor.
+
+## See Also
+
+- [[irrigation-watering-techniques]]

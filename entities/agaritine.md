@@ -104,14 +104,10 @@ Analytical considerations for agaritine research present additional challenges:
 
 ## See Also
 
-- [[agaricus-bisporus]] — Primary source species of agaritine in the human diet
 - [[ergosterol]] — Major sterol component of *Agaricus* cell membranes
-- [[beta-glucans]] — Immunomodulatory polysaccharides found in *Agaricus* species
 - [[ergothioneine]] — Antioxidant amino acid abundant in mushrooms, potentially counteracting agaritine toxicity
 - hydrazines — Chemical class to which agaritine belongs; other toxic hydrazines include gyromitrin from *Gyromitra* species
-- [[psilocybin-compound]] — Another fungal secondary metabolite with significant human pharmacological activity
 - [[gyromitrin]] — Volatile hydrazine toxin from false morel (*Gyromitra esculenta*) with acute hepatotoxic effects
 - monomethylhydrazine — Hydrolysis product of gyromitrin; structurally related to agaritine's hydrazine moiety
-- [[shiitake-strain-classification-and-substrate-formulas]] — *Lentinula edodes*, an edible mushroom containing trace agaritine and numerous beneficial compounds
 - [[amanita-phalloides]] — Death cap mushroom producing structurally distinct but similarly concerning fungal toxins (amatoxins)
 - [[macrolepiota-procera]]

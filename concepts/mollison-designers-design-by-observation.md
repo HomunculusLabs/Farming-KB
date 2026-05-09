@@ -1,31 +1,7 @@
 ---
 title: Design by Observation
 created: 2026-04-28
-tags: [permaculture, design-method, observation, site-analysis, fieldwork]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Design by Observation
-
-Design by observation is the method of expanding on direct observations of a
-site to develop design strategies. Unlike the analytic method, this approach
-starts on and around the site itself.
-
-## Why Observation Matters
-
-Short practice at refining field observation will convince you that no
-complex of map overlays, library, computer data, or remote analysis will
-ever supplant field observation for dependability and relevance. Observation
-is not easily directed and is therefore regarded as largely unscientific and
-individualistic, yet it is from the observation of processes and events that
-we can devise strategies of "least change."
-
-No static method can reveal processes or dynamic interactions. Process and
-events, as we encounter them on a real site, are never revealed just by maps
+tags: [[maps]]
 or other fixed data.
 
 ## Tools for Observation
@@ -123,7 +99,5 @@ desk-based analysis can discover.
 
 ## See Also
 
-- [[mollison-designers-design-methods-analysis]]
 - [[mollison-designers-site-analysis-mapping-observation]]
-- [[mollison-designers-design-methods-overview-process]]
 - [[mollison-designers-sector-analysis-wind-sun-fire]]

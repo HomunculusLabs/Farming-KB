@@ -75,14 +75,7 @@ Mexican strains have played a central role in the development of domestic hybrid
 
 ## Related Topics
 
-- [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
-- [[cannabis-hindu-kush-strain-description-clarke]] - Hindu Kush strain profile
 - [[cannabis-thai-strain-description-clarke]] - Thai strain profile
-- [[cannabis-breeding-basics]] - Breeding fundamentals
-
-## See Also
-
 - [[cannabis-african-indian-strain-descriptions-clarke]]
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]

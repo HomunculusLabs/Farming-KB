@@ -10,13 +10,11 @@ tags: [gardening, plants]
 
 # Multipurpose Plants for the Ecological Garden
 
-The concept of [[gaias-garden-stacking-functions-detailed]] -- where each element performs multiple roles -- is a core principle of the [[hemenway-ecological-garden-design]]. Nothing in nature has only one function. A shrub does not just cast shade; it feeds winter-starved birds with its berries, offers shelter, [[faires-permaculture-soil-and-sheet-mulching]] with its leaves, provides browse for deer and porcupines, blocks wind, holds soil with its roots, and channels rainwater to its root zone. By selecting plants with many functions, gardeners maximize the productivity and resilience of every square foot of their [[gaias-garden-backyard-ecosystem]].
+The concept of [[hemenway-ecological-garden-design]]. Nothing in nature has only one function. A shrub does not just cast shade; it feeds winter-starved birds with its berries, offers shelter, [[gaias-garden-backyard-ecosystem]].
 
 ## The Many Roles of a Tree
 
-[[polyculture-design-hemenway]] illustrates the multifunctional nature of plants through the example of a large oak tree, which performs an astonishing array of functions simultaneously:
-
-- **Transforms wind and sunlight** into daily-changing [[gaias-garden-net-and-pan-water-harvesting]] -- sunflecks, shade pockets, wind-sheltered zones, and humid understories
+[[gaias-garden-net-and-pan-water-harvesting]] -- sunflecks, shade pockets, wind-sheltered zones, and humid understories
 - **Harvests nutrients** from the immense volume of air and earth surrounding it, concentrating diffuse resources into a dense layer of fertility
 - **Builds soil** by concentrating carbon and minerals from thousands of cubic yards of air and soil into rich topsoil through leaf fall and root turnover
 - **Pumps and purifies air and water**, removing pollutants and releasing oxygen, while transpiring hundreds of gallons of water daily
@@ -30,28 +28,19 @@ The concept of [[gaias-garden-stacking-functions-detailed]] -- where each elemen
 
 ## Categories of Plant Functions
 
-Plants in the ecological garden serve many interconnected roles. Understanding these roles helps in [[gaias-garden-white-oak-hazelnut-guild-design]] and species selection, ensuring that every plant placed in the garden contributes multiple benefits.
-
-### Food Production
-Fruits, nuts, berries, leaves, shoots, roots, seeds, flowers, and nectar for human consumption. [[comparison-perennial-vegetables-vs-cover-crops]] are especially valuable as they produce food year after year with minimal maintenance. When selecting food plants, consider not just yield but also nutritional value, storage capacity, and harvest timing.
+Plants in the ecological garden serve many interconnected roles. Understanding these roles helps in [[comparison-perennial-vegetables-vs-cover-crops]] are especially valuable as they produce food year after year with minimal maintenance. When selecting food plants, consider not just yield but also nutritional value, storage capacity, and harvest timing.
 
 ### Habitat Creation
-Plants provide shelter, nesting sites, and food for [[gaias-garden-beneficial-birds-wildlife]], insects, amphibians, and other wildlife. Dense shrubs, grasses, and trees with varied heights create the layered habitat that supports maximum biodiversity. A garden designed primarily for human food production can still provide abundant wildlife habitat through thoughtful plant selection.
-
-### Soil Building
-Deep-rooted plants mine minerals from subsoil and bring them to the surface. [[comfrey-multifunctional-guild-plant]] like comfrey concentrate specific nutrients in their leaves, which can be cut and used as nutrient-rich mulch. [[hemenway-cover-crops-guide]] add organic matter and fix nitrogen. All plants contribute to [[hemenway-soil-food-web-garden]] health through root exudates -- the sugars and carbohydrates that roots release into the soil to feed beneficial microorganisms.
+Plants provide shelter, nesting sites, and food for [[comfrey-multifunctional-guild-plant]] like comfrey concentrate specific nutrients in their leaves, which can be cut and used as nutrient-rich mulch. [[hemenway-soil-food-web-garden]] health through root exudates -- the sugars and carbohydrates that roots release into the soil to feed beneficial microorganisms.
 
 ### Microclimate Modification
-Trees, shrubs, and even tall perennials modify [[gaias-garden-net-and-pan-water-harvesting]]. Evergreens provide year-round windbreaks. Deciduous vines shade in summer but allow light in winter. Ground covers cool the soil surface and reduce evaporation. This microclimate modification is essential for [[gaias-garden-living-plant-systems-insectary]] strategies.
+Trees, shrubs, and even tall perennials modify [[gaias-garden-living-plant-systems-insectary]] strategies.
 
 ### Pest Management
-[[gaias-garden-living-plant-systems-insectary]] attract predatory and parasitic insects that keep pest populations in check. Aromatic plants like garlic, marigolds, mint, and rosemary may repel certain pests. Trap crops draw pests away from desired plants. The key principle is that diverse plantings support diverse insect communities, and a balanced insect ecosystem keeps individual species from reaching pest proportions.
-
-### Water Management
-Plants slow runoff, increase infiltration, and reduce evaporation. Trees along [[gaias-garden-water-harvesting-swales-and-greywater]] stabilize banks and transpire stored groundwater. Deep-rooted perennials access water beyond the reach of annual crops. Plants also improve soil structure, increasing the soil's water-holding capacity.
+[[gaias-garden-water-harvesting-swales-and-greywater]] stabilize banks and transpire stored groundwater. Deep-rooted perennials access water beyond the reach of annual crops. Plants also improve soil structure, increasing the soil's water-holding capacity.
 
 ### Erosion Control
-Root systems of grasses, shrubs, and trees hold soil on slopes and in drainage areas. [[gaias-garden-nurse-plants]] can be placed thickly on eroding hillsides until permanent vegetation establishes. The Bullock brothers' use of [[gaias-garden-backyard-wetland-design]] demonstrates how plants can stabilize and rebuild degraded landscapes.
+Root systems of grasses, shrubs, and trees hold soil on slopes and in drainage areas. [[gaias-garden-backyard-wetland-design]] demonstrates how plants can stabilize and rebuild degraded landscapes.
 
 ### Nutrient Accumulation
 Some plants are exceptional at gathering specific nutrients from soil and concentrating them in their tissues. Comfrey accumulates potassium, phosphorus, and calcium from deep soil layers. Yarrow accumulates potassium and phosphorus. Buckwheat accumulates phosphorus from otherwise unavailable soil forms. These dynamic accumulators can be strategically placed and harvested as nutrient-rich mulch for neighboring plants.
@@ -71,7 +60,7 @@ Attracts bees, butterflies, and admiring humans with its exotic-looking, lemony-
 Over 1,580 human uses documented, including paper, flooring, poles, food, baskets, bridges, fences, hats, acupuncture needles, and xylophones. Thomas Edison used bamboo for the filament of his first successful lightbulb. In the garden, bamboo provides bird nesting habitat with its dense foliage, attracting bush tits, chickadees, and song sparrows. The canes supply an eternal supply of garden stakes, trellis uprights, temporary fences, and fishing poles. With tool skill, poles become furniture, flutes, wind chimes, and mats. Bamboo is deer-proof, roots do not expand in girth (safe over septic drain-fields), and it is a natural for erosion control. A bamboo grove, however small, is a meditative, restful space that quiets the outside world.
 
 ### Comfrey (Symphytum officinale)
-Premier [[comfrey-multifunctional-guild-plant]] and mulch producer, with deep taproots that mine potassium, phosphorus, and calcium from subsoil. Attracts pollinators with its bell-shaped flowers. Medicinal herb traditionally used for wound healing and bone setting. Deep taproot breaks compacted soil and brings up nutrients. Can be cut 4-6 times per season for nutrient-rich mulch. Acts as a [[gaias-garden-living-plant-systems-insectary]] for young fruit trees.
+Premier [[gaias-garden-living-plant-systems-insectary]] for young fruit trees.
 
 ### Sea Buckthorn (Hippophae rhamnoides)
 Nitrogen-fixing shrub producing orange berries extremely rich in vitamins A, C, and E, used for juices, oils, and supplements. Excellent erosion control plant for banks and slopes. Effective windbreak species. Valuable wildlife food source, especially for birds in winter. Ornamental silvery-blue foliage. Dioecious -- plant both male and female for fruit production.
@@ -110,7 +99,7 @@ When considering a new plant for the garden, score it on each of these functions
 
 ## Multipurpose Plants and the Food Forest
 
-In a [[hemenway-food-forest-design]], the principle of multipurpose plants reaches its fullest expression. Each of the [[gaias-garden-food-forest-layers]] of the forest contains plants selected for multiple functions:
+In a [[gaias-garden-food-forest-layers]] of the forest contains plants selected for multiple functions:
 
 - **Canopy trees**: Food (nuts, fruit), shade, microclimate, bird habitat, timber, leaf mulch
 - **Understory trees**: Food (fruit), partial shade, bird perches, pollinator forage
@@ -124,10 +113,7 @@ By selecting multipurpose plants for each layer, the food forest becomes a self-
 
 ## Related Concepts
 
-- [[gaias-garden-stacking-functions-detailed]] for the overarching design principle
 - [[gaias-garden-berry-bushes-guide]] as multipurpose food and habitat plants
-- [[comfrey-multifunctional-guild-plant]] as a premier multifunctional species
 - [[hemenway-cover-crops-guide]] for soil-building multipurpose plants
-- [[gaias-garden-interplanting-polyculture]] for combining multifunctional species in space
 - [[gaias-garden-food-forest-layers]] for vertical stacking of multipurpose plants
 - [[comparison-perennial-vegetables-vs-cover-crops]] for multipurpose food crops

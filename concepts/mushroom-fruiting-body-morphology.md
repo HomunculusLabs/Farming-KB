@@ -1,7 +1,7 @@
 ---
 title: Mushroom Fruiting Body Morphology
 created: 2026-04-28
-tags: [mycology, morphology, taxonomy, fungi]
+tags: [[mycology, morphology, taxonomy, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -120,8 +120,6 @@ and reliable species identification in both field and laboratory settings.
 
 - [[mushroom-flush-dynamics-variation-fruiting-cycles]]
 
-- [[fungal-spore-dispersal]]
 - [[mushroom-identification]]
-- [[biodiversity-basidiomycete-diversity-taxonomy]]
 - [[orchard-fungal-ecology]]
 - [[fungal-biodiversity]]

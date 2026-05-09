@@ -20,8 +20,7 @@ revisions in Bolbitiaceae taxonomy. The common names "the deadly
 Pholiota," "the deadly ringed cone head," and "the deadly ringed
 Conocybe" all emphasize the extreme danger this species poses.
 Unlike the psilocybin-active mushrooms it may resemble, P. filaris
-contains lethal amatoxins. See also [[galerina-autumnalis]] and
-[[amanita-phalloides]] for other amatoxin-containing species.
+contains lethal amatoxins. See also [[amanita-phalloides]] for other amatoxin-containing species.
 
 ## Macroscopic Features
 
@@ -33,57 +32,7 @@ nearly plane and often with a pronounced but broad umbo. The
 margin is slightly translucent-striate when moist. The cap color
 is orangish tawny brown. The surface is moist when wet, soon dry,
 and usually smooth overall. This small size and conic shape could
-potentially be confused with some [[tropisms-psilocybe-cubensis-gravitropism]] or Conocybe
-species by inexperienced collectors.
-
-### Gills
-
-Gill attachment is adnexed, close, moderately broad, and features
-one to three tiers of intermediate gills. The gills become rusty
-brown at maturity. This rusty brown spore color is an important
-distinguishing feature from psilocybin-active mushrooms, which
-typically have dark purplish brown to black spore prints. The rusty
-brown coloration aligns P. filaris with the genus Pholiotina
-and other Bolbitiaceae rather than with the Strophariaceae where
-most psilocybin mushrooms are classified.
-
-### Stem
-
-The stem measures 10 to 40 mm long by 1 to 2 mm thick. It is
-fibrous, equal to slightly enlarged upwards, and often curved at
-the base. The color is dingy yellowish brown to ochraceous. The
-partial veil is membranous, leaving a fragile, nonpersistent,
-often movable, collarlike membranous annulus. The annulus is rusty
-brown in color because of spore deposition in the median to lower
-regions of the stem. This movable annulus is a distinctive but
-not always reliable field identification feature.
-
-## Microscopic Features
-
-Spores are rusty brown in deposit, measuring 7.5 to 13 by 3.5 to
-5.5 micrometers. The basidia are both 2- and 4-spored.
-Pleurocystidia are absent. The rusty brown spore color and spore
-dimensions are consistent with the genus Pholiotina and help
-differentiate this species from the dark-spored psilocybin
-mushrooms. The absence of pleurocystidia further distinguishes it
-from many Panaeolus species that have prominent pleurocystidia.
-
-## Habitat and Distribution
-
-Pholiotina filaris grows scattered to gregarious in decayed wood
-substratum, in wood or bark chips, or on newly laid lawns and
-grassy areas that rest upon buried wood. It is reported throughout
-the Pacific Northwest, the British Isles, and Europe, and is
-suspected to be widely distributed beyond these areas. The
-preference for wood chip mulch and newly landscaped areas means
-P. filaris often appears in suburban and urban settings, where
-casual mushroom collectors may encounter it near homes and gardens.
-
-## Toxicity
-
-This species has been reported to contain the same deadly amatoxins
-as Amanita Phalloides and Galerina Autumnalis. Amatoxins
-include [[alpha-amanitin]] and beta-amanitin, which inhibit RNA
+potentially be confused with some [[alpha-amanitin]] and beta-amanitin, which inhibit RNA
 polymerase II, leading to severe hepatotoxicity and potentially
 fatal liver failure. Symptoms typically begin 6 to 24 hours after
 ingestion with a delayed onset that can provide a false sense of
@@ -135,5 +84,4 @@ warrants particular attention during any identification process.
 
 ## See Also
 
-- [[2c-b-compound-profile]]
 - [[2c-c-compound-profile]]

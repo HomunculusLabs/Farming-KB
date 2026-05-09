@@ -10,26 +10,16 @@ tags: [design, holzer]
 
 # Holzer Terraced Landscape Design
 
-Terraces are a central feature of [[sepp-holzer-method]], forming an "intricate network of terraces, raised beds, ponds, waterways and tracks" across the [[krameterhof-holzer-model-farm]]. Without terraces, Holzer considers it would have been impossible to cultivate the otherwise unproductive and inaccessible steep slopes of his farm in Lungau, Austria (1,100--1,500m above sea level).
+Terraces are a central feature of [[krameterhof-holzer-model-farm]]. Without terraces, Holzer considers it would have been impossible to cultivate the otherwise unproductive and inaccessible steep slopes of his farm in Lungau, Austria (1,100--1,500m above sea level).
 
 ## Functions and Benefits
 
 Terraces serve multiple simultaneous functions in Holzer's system:
 
-- **Erosion prevention**: Making steps in steep slopes stops valuable [[humus-formation-and-soil-organic-matter]] from being washed away. Well-designed terraces minimise the danger of landslides and mudslides.
-- **Increased cultivation area**: Terraces provide substantially larger areas for planting and gaining extra land, which is particularly important for [[small-scale-intensive-food-systems-mollison]].
+- **Erosion prevention**: Making steps in steep slopes stops valuable [[small-scale-intensive-food-systems-mollison]].
 - **Water retention**: Terraces store and hold moisture so that plants have access to rainwater and meltwater for longer.
 - **Access**: They are more pleasant to work and far easier to access than steep slopes, and can even accommodate medium-sized machinery.
-- [[microclimate-creation-permaculture]] creation: Combined with raised beds and ditches, terraces create niches sheltered from wind that work as suntraps.
-- **Visual barriers**: When planted with trees and shrubs, terraces work as hedges that protect land from pollution (emissions, dust, noise) and provide habitat for birds, hedgehogs, and insects.
-
-Human beings have known the benefits of terrace systems for millennia. In Asia, South America, Africa, and Europe people have used terraces to cultivate cereals, vegetables, coffee, tea, herbs, and grapes for thousands of years.
-
-## Design Principles
-
-### No Straight Lines
-
-Holzer emphasises following the principles of nature: there should be no straight lines, corners, or steep slopes (with the exception of [[holzer-raised-bed-techniques-hugelkultur]]). Keeping terrace and path lines rounded and winding prevents wind tunnels; curved shapes create sheltered niches. In particularly exposed places, Holzer also makes hills and hollows to lessen weather effects.
+- [[holzer-raised-bed-techniques-hugelkultur]]). Keeping terrace and path lines rounded and winding prevents wind tunnels; curved shapes create sheltered niches. In particularly exposed places, Holzer also makes hills and hollows to lessen weather effects.
 
 ### Continuous Belts
 
@@ -71,20 +61,25 @@ Large-scale projects are carried out gradually over a long period. In the first 
 
 ### Reshaping with Excavators
 
-According to Holzer [[sepp-holzer-method]] principles, mechanical diggers need only be used once during system setup. The depth depends on local soil conditions (20cm to two or three metres). Excavators loosen soil to greater depth and introduce organic biomass, removing unwanted plant growth and working it into the soil. The beneficial effects are long-lasting and the area will not need digging over every year.
-
-## Managing Terrace Culture
-
-Terraces can grow cereals, vegetables, coffee, tea, herbs, and grapes. Holzer grows strawberries, small [[grafting-fruit-trees]], pumpkins, and cereals on terraces. A [[holzer-polyculture-examples]] approach with different plant types at different heights prevents complete crop failure from late frost, since different varieties blossom at different times. A mixture of seeds (mustard, flax, comfrey, and potato) quickly produces valuable biomass on newly-built terraces.
-
-## Broader Applications
-
-Holzer has applied terracing principles internationally: in Burgenland (Austria), South Africa, northern Brazil, Colombia, and the Scottish Highlands. In degraded landscapes, pioneer forests of hardy, fast-growing trees can first protect slopes from erosion, after which more demanding fruit trees can grow safely amongst them. In Burgenland, narrow terraces around a pond can be flooded when required, with summer evaporation creating a beneficial microclimate in the hot, dry Pannonian climate.
-
-## See Also
-
-- [[holzer-raised-bed-techniques-hugelkultur]]
-- [[holzer-aquaculture-pond-construction]]
+According to Holzer [[grafting-fruit-trees]], pumpkins, and cereals on terraces. A [[holzer-raised-bed-techniques-hugelkultur]]
 - [[holzer-water-management-ponds-springs]]
-- [[holzer-climate-zone-microclimate-creation]]
 - [[sepp-holzer-method]]
+## Practical Considerations
+
+Successful implementation of Holzer Terraced Landscape Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

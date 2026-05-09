@@ -81,53 +81,20 @@ Powell's concept of "increased degrees of cognitive freedom" suggests that consc
 
 ## See Also
 
-- [[aldous-huxley]]
-
 - [[neo-shamanic-phenomenology-and-limits-of-science]]
 
-- [[consciousness-and-psychedelics]]
 - [[philosophical-implications-of-psychedelics]]
-- [[psilocybin-and-mystical-experience]]
 - [[psilocybin-and-mystical-experience]]
 
 ## Related
 
-- [[psilocybin-and-mystical-experience]]
 - [[psilocybin-and-mystical-experience]]
 
 ## Merged: Gaia Hypothesis And Psychedelic Shamanism
 
 # Gaia Hypothesis and Psychedelic Shamanism
 
-Simon G. Powell develops a sophisticated argument in "The Psilocybin Solution" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the psychedelic experience accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[psychedelic-mushrooms-species-and-identification]] termed the "Gaian Mind."
-
-## The Gaian Mind and Entheogenic Flora
-
-Powell frequently refers to the Other encountered in psychedelic experiences as the Gaian Mind, a term that captures the organic planetary character of entheogenic flora and the visions they often induce. Sacred plants and fungi, he argues, appear like carefully distributed organic "access codes" that allow a different set of informational relations to converge within the brain.
-
-Through this mechanism, one's meaning in the context of the rest of Nature gets shifted up a notch. As if tuning into the otherwise occluded "higher frequencies" of Nature, one can come to behold the numinous and intentional presence of the Other. Powell asks whether we can locate this Other here upon the Earth, somehow woven into the living fabric of the biosphere with its jungles, oceans, and electronic cities.
-
-## Evolution as Information-Gaining
-
-Central to Powell's argument is the claim that evolution is essentially an information-gaining process. Life has gone from simplicity to astounding complexity, from relatively simple arrangements of organic information to highly organised arrangements. This process, he argues, is the result of the Universal Software being fine-tuned to permit the evolution of carbon-based life.
-
-Information-gaining is strongly associated with intelligent systems, and Powell argues that Gaia — the biosphere — is just such an intelligent system. In its broadest sense, the evolutionary process is currently being channelled through human culture. Information and knowledge acquired by predecessors can be stored in books, folklore, music, dance, and computer networks, then passed directly to each successive generation.
-
-## Gaia as a Bio-Electronic Superorganism
-
-With the swift evolution of computerised telecommunications connecting up the Earth's store of information, Powell suggests that Gaia looks to be wiring itself up into a bio-electronic superorganism. Human bodies may no longer be evolving biologically, but human culture and technology are — especially digital communications technology.
-
-Just as the neurons in our brains transmit information to one another at astounding speed, humans can now electronically "synapse" with each other across the globe. This leads Powell to argue that the assertion that the human brain is the most complex organ we know of is a fallacy. The biospheric Gaian system in its interconnected totality is far more complex and integrated than a single human brain.
-
-## Natural Intelligence and Natural Selection
-
-Powell introduces the concept of "Natural Intelligence" — a contextually derived property of Nature that is most clearly expressed through evolution and the subsequent emergence of consciousness. He does not deny natural selection but reinterprets it: if we selectively breed dogs or cats, human intelligence governs the process. In the Gaian system at large, natural selection governs evolution over longer stretches of time.
-
-Where this is traditionally taken to mean that Nature is essentially dumb, random, and purposeless, Powell proposes that we can view Nature in its entirety as a form of active intelligence, though of an order of magnitude well above that displayed by the human species. Natural selection can be interpreted as Natural Intelligence at work — literally a response of Nature to its own significant contextual configuration.
-
-## Psychedelic Shamanism as Gaian Communication
-
-Powell's framework recasts [[ceremonial-shamanic-use-psychoactive-mushrooms]] as a form of communication with the Gaian intelligence. Traditional shamans who employ psychoactive flora to gain transcendental knowledge are, in his view, accessing information that is distributed throughout the biospheric system.
+Simon G. Powell develops a sophisticated argument in "The Psilocybin Solution" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the psychedelic experience accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[ceremonial-shamanic-use-psychoactive-mushrooms]] as a form of communication with the Gaian intelligence. Traditional shamans who employ psychoactive flora to gain transcendental knowledge are, in his view, accessing information that is distributed throughout the biospheric system.
 
 The psilocybin mushroom itself is presented as a legitimate natural product of Nature — an unusual piece of Gaian fabric, but no more artificial than the oxygen we breathe. Psilocybin mushrooms grow throughout Europe and North America, not just in Mexico. The Earth, Gaia, is described as "a far more efficient and ubiquitous supplier of entheogens than the lab-men at Sandoz," secretly churning out millions of psilocybin mushrooms across its skin.
 

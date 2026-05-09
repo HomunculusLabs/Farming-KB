@@ -119,10 +119,7 @@ actually practised.
 
 ## Related Topics
 
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
-  - Sabina's broader story
 - [[mazatec-mushrooms-of-language]] - Mazatec linguistic traditions
-- [[teonanacatl-history]] - the sacred mushroom in Aztec context
 - [[wasson-scholarly-critique-and-legacy]] - critique of Wasson's
   - methods
 - [[shroom-mazatec-tradition]] - broader Mazatec mushroom practices

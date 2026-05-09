@@ -22,7 +22,7 @@ Outdoor mushroom beds represent one of the most accessible and low-
 cost methods of mushroom cultivation. By inoculating beds of wood
 chips, straw, or other organic materials with mushroom spawn,
 cultivators can establish perennial patches that produce crops for
-years. This approach aligns with [[growing-gourmet-natural-culture-myco-landscaping]] and [[growing-gourmet-stametsian-permaculture-model]], transforming
+years. This approach aligns with [[growing-gourmet-stametsian-permaculture-model]], transforming
 gardens and landscapes into productive mushroom ecosystems.
 
 ## Site Selection
@@ -66,11 +66,7 @@ involves creating alternating layers of organic material and spawn:
 Outdoor beds can be inoculated in early spring or fall, depending on
 the species and local climate. For most saprophytic species, the
 mycelium colonizes through the warm months and fruits when
-temperature and moisture conditions trigger [[growing-gourmet-primordia-formation-pinning]] in the
-fall.
-
-The key to successful outdoor cultivation is matching species to
-local climate conditions. The [[growing-gourmet-king-stropharia-cultivation]]
+temperature and moisture conditions trigger [[growing-gourmet-king-stropharia-cultivation]]
 is particularly well-suited to outdoor beds in temperate climates,
 while Oyster mushrooms thrive in a wide range of conditions.
 
@@ -91,46 +87,10 @@ Outdoor beds can accommodate a diverse range of substrate materials:
   around ornamental plantings, can serve as mushroom substrate.
   The Wine Cap mushroom is frequently found in such settings.
 
-- **Agricultural residues:** Spent straw from [[growing-gourmet-species-sequencing-substrate-recycling]] can
-  be recycled into outdoor beds.
-
-## Advantages of Outdoor Beds
-
-Outdoor beds offer several significant advantages over indoor
-cultivation:
-
-- Lower startup and operating costs
-- No need for sterilization equipment or climate control systems
-- Perennial production from a single inoculation
-- Integration with existing gardens and landscapes
-- Natural biological buffering against contamination
-- The waste straw from previous crops can be mulched directly
-  into garden beds
-
-## Supplementation Considerations
-
-Supplementation of outdoor beds carries significant risk. Adding
-nutrient-rich materials like bran to outdoor substrates invites
-competitor organisms, particularly green molds and other fungi.
-Unlike indoor cultivation where substrates can be sterilized,
-outdoor beds rely on the competitive advantage of vigorous mushroom
-mycelium. Adding supplements tips this balance in favor of
-contaminants.
-
-## Mulch Bed Mycorrhizal Approach
-
-An advanced technique involves planting young trees adjacent to
-known mushroom-producing trees. The new seedlings become infected
-with the mycorrhizae of the neighboring parent tree. After several
-years, the second-generation trees carrying the mycorrhizal fungus
-can be uprooted and replanted in new environments. This low-tech
-approach has the longest tradition of success in Europe and is
-particularly relevant for [[growing-gourmet-tree-species-guide-mushroom-cultivation]].
+- **Agricultural residues:** Spent straw from [[growing-gourmet-tree-species-guide-mushroom-cultivation]].
 
 ## See Also
 
-- [[growing-gourmet-king-stropharia-cultivation]]
 - [[growing-gourmet-stump-totem-cultivation]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
 - [[growing-gourmet-stametsian-permaculture-model]]
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]

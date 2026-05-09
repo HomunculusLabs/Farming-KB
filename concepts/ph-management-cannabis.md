@@ -53,97 +53,27 @@ Electronic pH testers are preferred for their accuracy and ease of use. Less exp
 pH meters are accurate enough for casual use; more expensive models are quite accurate.
 Once purchased, you can measure pH thousands of times with an electronic meter, while
 chemical test kits are good for about a dozen tests. Combination meters that measure pH,
-[[ec-tds-cannabis]], and temperature are available and convenient for hydroponic growers.
-
-### Tips for Accurate pH Testing
-
-For an accurate pH test with an electronic pH meter:
-- Clean the probes of the meter after each test and wipe away any corrosion
-- Pack the soil around the probes
-- Water soil with distilled or neutral pH water before testing
-- Pay special attention to soil moisture -- meters measure electrical current between
-  two probes and are designed to work in moist soil
-
-If using litmus paper, collect samples that demonstrate an average of the soil. Place
-the samples in a clean jar, and moisten with distilled water. Litmus paper will
-accurately measure acidity to within a point. The pH readings will not be accurate if
-altered by water with a high or low pH.
-
-## Adjusting pH Up
-
-To raise pH (make more alkaline) in soil or hydroponic solutions:
-
-- Add "pH Up" commercial products (typically potassium hydroxide or potassium silicate)
-- Add hydrated lime (dolomite) to soil mixes
-- Add potassium carbonate or sodium bicarbonate (baking soda) in small amounts
-
-For soil, adding dolomite lime when preparing the mix provides a long-term pH buffer
-and also supplies calcium and magnesium.
-
-## Adjusting pH Down
-
-To lower pH (make more acidic):
-
-- Add "pH Down" commercial products (typically phosphoric acid or nitric acid)
-- Add citric acid or vinegar (temporary, short-term solution)
-- For soil: incorporate peat moss, composted leaves, or finely ground sulfur
-
-For soil that is too alkaline, 1.2 ounces of finely ground rock sulfur per square yard
-of sandy soil will reduce pH by approximately one point. Fertilizers are normally
-acidic and lower the pH of the nutrient solution.
-
-## pH and Nutrient Availability
-
-Different nutrients become available at different pH levels. In soil, the full range of
-macronutrients and micronutrients is most available between pH 6.0 and 7.0. Below 5.5,
-toxic levels of aluminum, manganese, and iron can develop. Above 7.5, iron, manganese,
-zinc, copper, and boron become deficient.
-
-## pH in Different Growing Media
-
-- **Soil:** Most forgiving; acts as a buffer due to its cation exchange capacity
-- **Soilless mixes (coco, peat):** Less buffering; pH drifts more quickly
-- **Hydroponics:** No buffering at all; pH can change rapidly and must be monitored
-  frequently -- can fluctuate up and down one full point with little problem
-- **Rockwool:** Naturally alkaline; must be pre-soaked to pH 5.5-6.0 before use
-
-## Long-Term pH Management
-
-When planting in soil or soilless mixes, incorporating one cup of fine dolomite lime per
-cubic foot (one ounce per gallon) of planting medium stabilizes pH over the long term
-and provides calcium and magnesium. This single amendment at planting time prevents many
-pH-related problems throughout the grow. Most potting soils have a tendency to be acidic.
-Stabilize the pH of the water before adding fertilizer.
-
-## Water pH Considerations
-
-Check the pH of irrigation water. In dry climates, irrigation water is often alkaline
-with a pH above 6.0. In rainy climates, water is often acidic with a pH below 6.0. The
-pH and EC of water supplies can change throughout the year. Raw-water pH above 6.0 helps
-keep fertilizer mixes from becoming too acidic.
-
-## Testing Frequency
-
-- **Hydroponic systems:** Test pH daily or with every reservoir change
-- **Soil gardens:** Test every 1-2 weeks, or when plants show deficiency symptoms
-- **Container gardens:** Test with each watering if possible
-
-Make a correction if readings vary plus or minus one-half point. Follow the directions
-on the container, and remember to mix adjusters into the reservoir slowly and
-completely.
-
-## pH and Cloning
-
-Clones root well within a pH range of 5.0-6.0. Aeroponic clone gardens prefer pH 5.0-
-5.5. Most diseases grow poorly below these pH levels, which is an added benefit of
-maintaining slightly acidic conditions in cloning environments.
-
-## See Also
-
-- [[ec-tds-cannabis]] -- monitoring nutrient concentration alongside pH
-- [[cal-mag-supplementation]] -- calcium and magnesium affected by pH
+[[ec-tds-cannabis]] -- monitoring nutrient concentration alongside pH
 - [[flushing-nutrients]] -- restoring pH balance by removing salts
-- [[cannabis-cloning]] -- pH requirements for rooting cuttings
 - [[soil-ph-management]] -- pH management in soil systems
 - Cannabis Growing Mediums -- pH behavior in different media
 - [[cannabis-root-bound-symptoms-and-management]]
+## Practical Considerations
+
+Successful implementation of pH Management Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

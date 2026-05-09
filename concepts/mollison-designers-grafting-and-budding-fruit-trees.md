@@ -41,43 +41,7 @@ a known variety to a rooted plant (rootstock). The rootstock provides:
 The scion determines fruit variety, quality, flavor, ripening time,
 and storage characteristics. The combination of rootstock and scion
 allows permaculture designers to match trees precisely to their
-[[mollison-permaculture-two-zone-planning-and-site-layout]] and zone three site conditions.
-
-## Whip Graft (Tongue Graft)
-
-The whip graft is used when scion and rootstock are of similar
-diameter (6-13mm). Both pieces are cut at a long slanting angle
-(25-35 degrees), then a tongue is made by cutting downward into each
-slanted surface about one-third from the tip. The tongues interlock,
-maximizing cambium contact for rapid healing. The graft union is bound
-with grafting tape or rubber budding strips and sealed with grafting
-wax.
-
-Whip grafting is typically done in late winter or early spring when
-both rootstock and scion are dormant but about to begin growth.
-Mollison recommends this technique for bench grafting in a workshop
-setting, where rootstock is lifted and grafted indoors during winter,
-then healed in a callusing room before spring planting.
-
-## Cleft Graft
-
-The cleft graft joins a smaller scion (pencil thickness) to a much
-larger rootstock or established tree branch. The rootstock is cut
-square across and split down the center with a clefting tool or heavy
-knife. The scion is cut to a long wedge shape (two cuts forming a V)
-and inserted into the cleft so that cambium layers align on at least
-one side.
-
-Cleft grafting is the primary technique for:
-
-- **Topworking:** Changing the variety of an established tree by
-  grafting new scions onto existing branches
-- **Repair grafting:** Replacing damaged tops of young trees
-- **Framework branching:** Adding additional varieties to a
-  multi-graft tree
-
-Timing is late winter to early spring, before bud break. Mollison
-describes topworking as a powerful tool for [[food-forest-design]] design,
+[[food-forest-design]] design,
 allowing rapid conversion of seedling trees to named varieties without
 waiting years for new plantings to bear.
 
@@ -97,9 +61,7 @@ T-budding advantages include:
 - Performed during summer when propagation work is otherwise slow
 - Suitable for a wide range of fruit species
 
-T-budding is typically done in mid-summer (June-August in [[fukuoka-natural-farming]]) when rootstock bark is slipping freely. Mollison recommends
-T-budding for large-scale nursery production of fruit trees for
-[[village-development-in-permaculture]] projects.
+T-budding is typically done in mid-summer (June-August in [[village-development-in-permaculture]] projects.
 
 ## Chip Budding
 
@@ -144,3 +106,7 @@ pear) often fail or are short-lived. Key timing considerations:
 Scion wood should be collected during dormancy, kept moist and cool,
 and grafted before bud break. Mollison recommends storing scion wood
 in sealed plastic bags with damp sphagnum moss in a refrigerator.
+
+## See Also
+
+- [[mollison-designers-grafting-fruit-tree-propagation]]

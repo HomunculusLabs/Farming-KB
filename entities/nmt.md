@@ -112,15 +112,9 @@ International control status varies; the compound is not listed on any UN drug s
 
 ## See Also
 
-- [[dmt]]
 - [[tryptamine]]
-- [[psilocin]]
-- [[psilocybin-compound]]
-- [[bufotenin]]
-- [[5-meo-dmt]]
-- [[harmine]]
+- [[psilocybin]]
+- [[5-meo-dmt-entity]]
 - [[harmaline]]
-- [[beta-carboline]]
 - [[mescaline-entity]]
-- [[argyreia-nervosa]]
 - [[acacia]]

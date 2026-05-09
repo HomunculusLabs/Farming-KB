@@ -139,12 +139,8 @@ severity of the initial defoliation, and the brittleness of the
 environment. In fast-growing conditions with adequate moisture, recovery
 might take only a few weeks. In brittle environments with marginal
 rainfall, recovery can require many months.
-
 ## Related
 
-- [[tryptamines-and-quantum-mechanics]] Concepts
-
 - [[savory-overgrazing-vs-overrest]]
-- [[savory-recovery-and-grazing-periods]]
 - [[savory-stock-density-vs-stocking-rate]]
 - [[savory-perennial-grass-and-desertification]]

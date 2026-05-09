@@ -43,12 +43,7 @@ Good drainage and lots of sunshine are essential. If your soil is
 light, work in plenty of well-rotted manure or compost and grow the
 plants in flat beds rather than raised beds. If you have heavy soil,
 raise the beds by working plenty of organic matter into the soil in
-the same way you would make a [[hamilton-deep-bed-system]]. Before
-planting, spread two handfuls of blood, fish, and bone meal per
-square yard, and lime if needed to raise the soil pH above 6.5.
-Asparagus performs best in slightly alkaline conditions with pH
-between 6.5 and 7.5. A soil test before planting helps determine
-exact lime requirements. See [[hamilton-liming-and-ph-management]]
+the same way you would make a [[hamilton-liming-and-ph-management]]
 for detailed pH adjustment guidance.
 
 ## Planting Crowns
@@ -72,8 +67,7 @@ year, repeat the application of fertilizer. In the fall, spread
 well-rotted compost or manure around the plants. This annual
 mulching is the primary means of maintaining soil fertility and
 moisture for the long-lived asparagus bed. See
-[[hamilton-composting-and-organic-matter-management]] for compost
-preparation and [[hamilton-mulching-materials-and-techniques]].
+[[hamilton-mulching-materials-and-techniques]].
 Hand-weed carefully around the crowns to avoid damaging the shallow
 root system. A thick organic mulch suppresses weeds effectively.
 
@@ -98,27 +92,8 @@ After cutting back, mulch around the plants with well-rotted compost
 or manure. After about seven or eight years, start another bed and,
 when that is in full production, discontinue the first one. The
 old bed area can be incorporated into the wider
-[[hamilton-crop-rotation-and-vegetable-planning]] scheme.
-
-## Pests and Diseases
-
-Asparagus is affected by slugs, asparagus rust, and asparagus beetles.
-The asparagus beetle feeds on both the shoots and foliage and can
-cause significant damage if populations build up. Hand-picking beetles
-is effective for small infestations. Asparagus rust appears as orange
-pustules on the stems and foliage; removing affected fronds in autumn
-helps reduce carry-over. Crown rot can occur in waterlogged soils,
-which is why excellent drainage is so important. See
 [[hamilton-organic-pest-control]] for treatment options and
-[[hamilton-soil-drainage-improvement]] for drainage solutions.
-
-## Renewing the Bed
-
-Asparagus beds have a productive life of approximately seven to eight
-years before yields begin to decline. Plan ahead by starting a new bed
-while the existing one is still productive. Once the new bed reaches
-full production, the old one can be cleared and the area used for
-other crops within the [[hamilton-crop-rotation-and-vegetable-planning]]
+[[hamilton-crop-rotation-and-vegetable-planning]]
 system. This succession planning ensures continuous asparagus supply
 without interruption to your spring harvest schedule.
 
@@ -142,7 +117,5 @@ Vigilant pest monitoring and timely bed renewal ensure sustained
 productivity from this most prized of perennial vegetables.
 
 ## See Also
-
-- [[hamilton-alpine-plants-growing]]
 
 - [[hamilton-garlic-growing-organic]]

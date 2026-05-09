@@ -22,8 +22,7 @@ produce a distinct syndrome of toxic delirium often called "deliriant"
 effects. The frighteningly adverse overdose profile usually precludes
 common recreational abuse of these plants.
 
-See also: [[hallucinogenic-plants-native-to-united-states]],
-[[amanita-muscaria-pharmacology]]
+See also: [[amanita-muscaria-pharmacology]]
 
 ## Pharmacology
 
@@ -49,17 +48,6 @@ Despite toxicity at recreational doses, these are important medications:
 ## Key Plant Species
 
 ### Datura stramonium (Jimson Weed)
-
-[[datura-stramonium]] is the most commonly encountered anticholinergic
-plant in the United States. It grows wild throughout the US except
-Wyoming and Alaska. All parts contain tropane alkaloids, with seeds
-being particularly toxic. Smoking or eating the leaves causes
-intoxication, but dangerous overdose is possible from any part of the
-plant. The name "jimson weed" derives from "Jamestown weed,"
-referencing a 1676 incident in Jamestown, Virginia, where soldiers
-consumed the plant and suffered severe delirium.
-
-### Atropa belladonna (Deadly Nightshade)
 
 [[atropa-belladonna]] contains both atropine and scopolamine. The name
 "belladonna" (beautiful lady) comes from the historical use of berry
@@ -145,3 +133,7 @@ generally serves as a strong natural deterrent to recreational use.
   Pharmacologic Basis of Therapeutics, pp. 155-174.
 - Ardila, A. & Moreno, C. (1991). Brain Cogn, 15, 236-245.
 - Arnett, A. (1995). Clin Toxicol Rev, 18, 1-2.
+
+## See Also
+
+- [[shamanism-and-hallucinogenic-plants]]

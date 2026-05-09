@@ -14,8 +14,6 @@ Earthbag and adobe are both earth-based building methods with thousands of years
 
 ## Core Technique
 
-[[earthbag-construction]] uses continuous polypropylene bags filled with damp mineral soil, stacked in courses like oversized bricks, with two strands of four-point barbed wire between each row for tensile reinforcement. Each bag is tamped flat with a long-handled plate tamper to create a dense, monolithic wall. The bags remain part of the wall structure permanently, concealed beneath plaster. Bags typically measure at least 17 inches wide and 30 inches long, with approximately 140 bags needed per 100 square feet of wall. A thousand bags can build roughly 700 square feet of wall.
-
 [[adobe-construction]] uses individual sun-dried bricks made from a clay-sand-straw mixture pressed into wooden moulds. Brick dimensions vary regionally but commonly measure 25 to 35 cm long, 12 to 15 cm wide, and 8 to 12 cm high. Straw or other fibrous material is added at 5 to 15 percent by volume for tensile strength and crack control. Bricks dry for 2 to 4 weeks before use. Walls are laid up with mud mortar in courses, similar to conventional masonry, with mortar beds 1 to 2 cm thick. The bricks themselves bear the structural load with no synthetic materials involved at any stage.
 
 ## Foundation Requirements
@@ -38,7 +36,7 @@ Adobe requires weeks or months of brick production before wall building even beg
 
 ## Structural Performance
 
-Earthbag walls are inherently monolithic and flexible, giving them exceptional earthquake resistance. The barbed wire courses provide continuous tensile reinforcement across every row, and the bagged soil can flex and redistribute energy without cracking. Earthbag buildings have survived major earthquakes in Nepal while surrounding conventional and adobe structures collapsed. Earthbag walls also offer bullet and blast resistance, making them uniquely useful for safe rooms and structures in conflict zones. Fire resistance is another notable strength; mineral-filled earthbag walls are inherently fireproof, a significant advantage over [[straw-bale-construction]] and [[cob-building]] in fire-prone areas.
+Earthbag walls are inherently monolithic and flexible, giving them exceptional earthquake resistance. The barbed wire courses provide continuous tensile reinforcement across every row, and the bagged soil can flex and redistribute energy without cracking. Earthbag buildings have survived major earthquakes in Nepal while surrounding conventional and adobe structures collapsed. Earthbag walls also offer bullet and blast resistance, making them uniquely useful for safe rooms and structures in conflict zones. Fire resistance is another notable strength; mineral-filled earthbag walls are inherently fireproof, a significant advantage over [[cob-building]] in fire-prone areas.
 
 Adobe walls are strong in compression but weak in tension and shear. They perform well under static vertical loads but are vulnerable to lateral forces and ground shaking. Unstabilised adobe walls should not exceed eight times their thickness in height. Seismic performance requires reinforced concrete bond beams, vertical steel reinforcement at corners and openings, and often cement or lime stabilisation of the bricks themselves at 4 to 10 percent by weight. Modern building codes in seismic zones impose strict requirements that add significant cost and complexity to adobe construction.
 
@@ -107,17 +105,8 @@ Earthbag structures have a shorter proven track record, with the oldest examples
 
 ## Permaculture Integration
 
-Both methods align closely with permaculture principles. Adobe uses the earth on which the building stands with minimal energy input, limited to soil extraction, mixing, and manual labour. Adobe buildings are non-toxic, breathable, and fully biodegradable. Their thermal mass integrates naturally with [[passive-solar-design]]; south-facing glazing in the northern hemisphere allows winter sun to heat adobe walls, which radiate warmth through the night.
-
-Earthbag construction shares these permaculture benefits while adding superior adaptability to diverse sites and climates. The ability to use on-site fill material without precise soil matching means earthbag buildings can go up on properties where adobe would require importing clay or sand. Earthbag's earthquake and flood resilience also supports permaculture ethics of building for long-term stability in an unpredictable climate.
-
-## See Also
-
-- [[earthbag-construction]]
-- [[adobe-construction]]
+Both methods align closely with permaculture principles. Adobe uses the earth on which the building stands with minimal energy input, limited to soil extraction, mixing, and manual labour. Adobe buildings are non-toxic, breathable, and fully biodegradable. Their thermal mass integrates naturally with [[earthbag-construction]]
 - [[cob-construction]]
-- [[rammed-earth]]
 - [[straw-bale-construction]]
-- [[natural-building]]
 - [[passive-solar-design]]
 - [[permaculture-housing-design]]

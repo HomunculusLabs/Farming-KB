@@ -23,34 +23,6 @@ or thermal mass is the priority for the building site.
 
 ## Straw Bale Construction
 
-[[straw-bale-construction]]
-
-Straw bale construction uses bales of straw (not hay) as either load-bearing
-walls or in-fill insulation within a structural frame. Straw bale building has
-been practiced since the late 19th century, and many original straw bale houses
-from the 1900s still stand in Nebraska and the American Plains. The method
-represents one of the most accessible natural building techniques, combining
-excellent insulation with low material cost and minimal environmental impact.
-
-The insulation performance of straw bale walls is exceptional. Standard bales
-are 14-18 inches thick, achieving approximately R-30 to R-45, far exceeding
-modern building code requirements for insulated walls. This high insulation
-value makes straw bale construction ideal for cold climates where retaining heat
-is the primary concern. Straw bale walls also provide substantial sound
-insulation and, counterintuitively, good fire resistance because compacted straw
-burns very poorly due to lack of air circulation within the dense bales.
-
-Two primary construction methods exist. Load-bearing (Nebraska style)
-construction uses the bales themselves to support the roof weight, requiring
-careful compression and simpler but more limited design options suitable for
-single-story buildings. Post-and-beam (in-fill) construction uses a timber frame
-for structural support with bales as insulation, allowing more architectural
-flexibility and multi-story designs. Both methods require a protective plaster
-or stucco finish to shield the straw from moisture, which is the primary enemy
-of straw bale buildings.
-
-## Adobe Construction
-
 [[adobe-construction]]
 
 Adobe construction uses sun-dried earth bricks made from a mixture of clay- rich
@@ -128,7 +100,9 @@ superior insulation for the sleeping area).
 
 ## See Also
 
-- [[straw-bale-construction]]
 - [[adobe-construction]]
-- [[timber-frame-basics]]
 - [[stone-cellar-building]]
+
+## See Also
+
+- [[comparison-straw-bale-vs-rammed-earth]]

@@ -1,7 +1,7 @@
 ---
 title: Straw-Based Oyster Mushroom Cultivation
 created: 2026-04-28
-tags: [mycology, pleurotus, straw-cultivation, pasteurization]
+tags: [[mycology, pleurotus, straw-cultivation, pasteurization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -122,8 +122,6 @@ with the first flush producing 60-70% of total yield.
 
 ## See Also
 
-- [[mushroom-training-oyster-straw-cultivation]]
 - [[oyster-mushroom-pasteurized-straw-cultivation]]
-- [[mushroom-training-straw-mushroom-cultivation]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]

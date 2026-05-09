@@ -10,35 +10,7 @@ sources: []
 
 Glucuronidation is a major conjugation pathway in which glucuronic acid is transferred to drugs, hormones, bilirubin, bile acids, pollutants, and other small molecules.
 
-The reaction usually increases water solubility and supports elimination in urine or bile, making it one of the most important forms of [[phase-ii-conjugation-reactions-drug-metabolism]].
-
-It is catalyzed by UDP-glucuronosyltransferase enzymes, abbreviated UGTs, which use UDP-glucuronic acid as the activated sugar donor.
-
-Although glucuronidation is commonly described as detoxification, it is better understood as biotransformation because some glucuronides retain activity or participate in toxicity.
-
-The pathway links carbohydrate metabolism, liver physiology, pharmacokinetics, neonatal medicine, toxicology, and clinical drug interaction analysis.
-
-## Chemical Logic
-
-Glucuronic acid is an oxidized sugar acid derived from glucose, and UDP-glucuronic acid provides an activated glucuronosyl group for transfer.
-
-UGT enzymes attach this group to nucleophilic atoms on substrates, commonly oxygen, nitrogen, sulfur, or carboxylate oxygen atoms.
-
-O-glucuronides are formed from alcohols, phenols, and carboxylic acids; N-glucuronides are formed from amines, amides, and heterocycles.
-
-S-glucuronides and acyl glucuronides are less common but can be toxicologically important because they may be chemically reactive.
-
-Formation of a glucuronide adds multiple hydrogen-bonding groups and a carboxylate, usually increasing polarity and lowering passive membrane permeability.
-
-## UDP-Glucuronosyltransferases
-
-Human UGTs are membrane-associated glycosyltransferases concentrated in the endoplasmic reticulum, especially in liver and intestine.
-
-The UGT1A and UGT2B families contain many clinically important isoforms with overlapping but distinct substrate preferences.
-
-UGT1A1 is central for bilirubin conjugation, while UGT1A4, UGT1A9, UGT2B7, UGT2B15, and UGT2B17 are important for many drugs and endogenous compounds.
-
-Tissue distribution matters because intestinal UGTs can reduce [[first-pass-metabolism-and-oral-bioavailability]] before a compound reaches systemic circulation.
+The reaction usually increases water solubility and supports elimination in urine or bile, making it one of the most important forms of [[first-pass-metabolism-and-oral-bioavailability]] before a compound reaches systemic circulation.
 
 Isoform overlap gives the pathway robustness, but it also makes prediction difficult when a drug is cleared by several UGTs at once.
 
@@ -112,39 +84,11 @@ Biliary glucuronides can be hydrolyzed by intestinal bacteria, releasing parent 
 
 Urinary glucuronides are useful biomarkers of exposure for drugs, environmental chemicals, hormones, and dietary compounds.
 
-[[fungal-siderophore-detection-analytical-methods]] often use enzymatic deconjugation or mass spectrometry to distinguish parent molecules from conjugated metabolites.
+[[knf-fish-amino-acid]] conjugation, and [[cytochrome-p450-enzyme-system]] can create hydroxylated metabolites that are then excellent UGT substrates.
 
-## Relationship to Other Phase II Pathways
-
-Glucuronidation often competes with sulfation, methylation, acetylation, [[knf-fish-amino-acid]] conjugation, and [[glutathione-biochemistry-and-redox-biology]] conjugation.
-
-High-capacity glucuronidation may dominate at higher substrate concentrations, while high-affinity sulfation may dominate at lower concentrations for some phenols.
-
-Phase I oxidation by [[cytochrome-p450-enzyme-system]] can create hydroxylated metabolites that are then excellent UGT substrates.
-
-This coupling means that phase I and phase II metabolism are not isolated stages but linked networks shaped by enzyme expression [[oyster-mushroom-ph-and-substrate-chemistry]].
-
-In toxicology, the balance between glucuronidation and oxidative activation can determine whether exposure remains safe or produces reactive intermediates.
-
-## Practical Significance
-
-For drug discovery, adding or removing glucuronidation sites can change clearance, bioavailability, duration of action, and metabolite safety.
-
-For medicine, impaired glucuronidation helps explain neonatal jaundice, bilirubin disorders, some adverse reactions, and variable drug response.
-
-For toxicology, glucuronide profiling helps distinguish detoxication, bioactivation, enterohepatic cycling, and route-specific excretion.
-
-For biochemistry, the pathway illustrates how activated sugar donors and membrane enzymes connect metabolism to chemical defense.
-
-## References
-
-Wikipedia: "Glucuronidation", "Glucuronosyltransferase", and "Drug metabolism" sections reviewed during this mining wave.
-
-General pharmacology [[fungal-poisons-and-toxicology]] literature on UGT isoforms, bilirubin conjugation, drug clearance, acyl glucuronides, and enterohepatic cycling.
-
+This coupling means that phase I and phase II metabolism are not isolated stages but linked networks shaped by enzyme expression [[fungal-poisons-and-toxicology]] literature on UGT isoforms, bilirubin conjugation, drug clearance, acyl glucuronides, and enterohepatic cycling.
 ## See Also
 
-[[phase-ii-conjugation-reactions-drug-metabolism]]
 [[cytochrome-p450-enzyme-system]]
 pharmacokinetics
 toxicology

@@ -26,87 +26,11 @@ The species forms **ectomycorrhizal associations** with coniferous trees, partic
 
 It is widely distributed across temperate regions of Europe and North America, often found fruiting in coniferous woodlands during late summer and autumn.
 
-Unlike its close relative [[paxillus-involutus]], *P. atrotomentosus* is not known to be dangerously toxic, though it is generally considered inedible due to its bitter taste and tough texture.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Boletales
-- **Family:** Paxillaceae
-- **Genus:** Paxillus
-- **Species:** P. atrotomentosus
-
-The species was first described as *Agaricus atrotomentosus* by Batsch in 1789.
-
-Elias Magnus Fries transferred it to the genus *Paxillus* in 1838.
-
-The epithet *atrotomentosus* combines the Latin *ater* (black) and *tomentum* (dense woolly covering), referring to the characteristic dark velvety stipe surface.
-
-**Cap:** 5–15 cm in diameter, convex to plano-convex, often with an inrolled margin when young.
-
-Surface is dry, velvety to tomentose, typically dark brown to olive-brown.
-
-The cap flesh is whitish to pale buff, firm, and does not change color significantly when cut.
-
-**Hymenophore:** Gills are adnate to slightly decurrent, crowded, and readily separable from the cap flesh — a key diagnostic feature of the genus.
-
-Gill color is initially pale ochraceous, darkening to rusty brown with age or when bruised.
-
-**Stipe:** 5–10 cm long, 1–3 cm thick, central, clavate to cylindrical, and covered in a distinctive dark brown to nearly black velvety tomentum.
-
-The stipe is solid and whitish internally, contrasting with the dark exterior surface.
-
-**Spores:** Spore print is rusty brown to ochre-brown. Basidiospores are ellipsoid, smooth, measuring 6.5–9 × 4–5.5 µm.
-
-## Distribution and Habitat
-
-*Paxillus atrotomentosus* is found across temperate Europe, including Scandinavia, the British Isles, Central Europe, and extending into parts of the Mediterranean region.
-
-In North America, it occurs primarily in northeastern and Pacific Northwest coniferous forests.
-
-The species is strictly associated with **coniferous trees**, forming ectomycorrhizal bonds primarily with *Pinus sylvestris* (Scots pine), *Picea abies* (Norway spruce), and occasionally *Abies* (fir) species.
-
-Fruiting occurs singly or in scattered groups on the ground in coniferous forests, woodland edges, and sometimes in parks with mature pine plantings.
-
-Season is typically **July to October** in temperate latitudes, favoring moist conditions following warm summer rains.
-
-## Ecological Role
-
-As an **ectomycorrhizal fungus**, *P. atrotomentosus* forms mutualistic symbiotic associations with the fine roots of coniferous host trees.
-
-The fungal mycelium sheaths the root tips and extends into the surrounding soil, increasing the effective absorptive surface area for water and mineral nutrient uptake.
-
-In exchange, the host tree supplies the fungus with carbohydrates derived from photosynthesis.
-
-This relationship is particularly important in nutrient-poor or sandy soils where conifers often grow, as the fungal partner enhances phosphorus and nitrogen acquisition.
-
-*P. atrotomentosus* contributes to soil carbon cycling through the decomposition of organic matter and the continuous turnover of its mycelial biomass.
-
-It is one of several [[ectomycorrhiza]]-forming species that play critical roles in maintaining the health and resilience of boreal and temperate coniferous forest ecosystems.
+Unlike its close relative [[ectomycorrhiza]]-forming species that play critical roles in maintaining the health and resilience of boreal and temperate coniferous forest ecosystems.
 
 ## Chemistry and Bioactivity
 
-Chemical investigations of *P. atrotomentosus* have identified several bioactive metabolites, though the species has received far less research attention than its relative [[paxillus-involutus]].
-
-The genus *Paxillus* is known to produce **involutine** pigments and various **atromentin** derivatives, which are tricyclic quinonoid compounds with reported antioxidant and antimicrobial activities.
-
-Atromentin, a key metabolic intermediate shared across boletoid fungi, is a precursor to thelephoric acid and other bioactive molecules with documented pharmacological properties.
-
-A **lectin** (PaatL) isolated from *P. atrotomentosus* has been characterized as a glucose/mannose-specific binding protein with hemagglutinating activity.
-
-This lectin has shown mitogenic activity toward human lymphocytes in vitro, suggesting potential immunomodulatory properties.
-
-Some studies have investigated its antifungal activity against pathogenic molds, with moderate inhibition observed against *Candida albicans* and *Aspergillus niger*.
-
-## Edibility
-
-*Paxillus atrotomentosus* is generally regarded as **inedible** due to its extremely bitter taste and tough, fibrous flesh that does not soften appreciably with cooking.
-
-While not considered lethally toxic like [[paxillus-involutus]] (which contains a thermolabile antigen responsible for a potentially fatal hemolytic syndrome), consumption of *P. atrotomentosus* is not recommended.
+Chemical investigations of *P. atrotomentosus* have identified several bioactive metabolites, though the species has received far less research attention than its relative [[paxillus-involutus]] (which contains a thermolabile antigen responsible for a potentially fatal hemolytic syndrome), consumption of *P. atrotomentosus* is not recommended.
 
 Some older European mycological texts describe it as "suspect" or advise against consumption, while more recent field guides simply classify it as inedible without elaboration.
 
@@ -114,23 +38,71 @@ The bitter taste alone serves as an effective natural deterrent, and there are n
 
 ## Similar Species
 
-The most commonly confused species is [[paxillus-involutus]] (brown roll-rim), which has a smoother, less velvety stipe and a cap margin that is more strongly inrolled.
-
-*Paxillus involutus* is associated primarily with hardwoods (Betula, Salix) while *P. atrotomentosus* is almost exclusively found with conifers — this habitat preference is the most reliable field distinction.
-
-The velvety black stipe of *P. atrotomentosus* is a diagnostic character not shared by any other European Paxillus species.
-
-Young specimens of *Hygrophoropsis aurantiaca* (false chanterelle) may superficially resemble the cap coloration but have clearly forking gills and a smooth stipe.
-
-Some dark-capped [[boletus-edulis-entity]] specimens could cause initial confusion, but true boletes always have a poroid hymenophore rather than gills.
+The most commonly confused species is [[boletus-edulis-entity]] specimens could cause initial confusion, but true boletes always have a poroid hymenophore rather than gills.
 
 ## See Also
 
-- [[paxillus-involutus]]
 - [[boletus-edulis-entity]]
-- [[laccaria-bicolor]]
 - [[mycorrhiza]]
-- [[ectomycorrhiza]]
 - [[scleroderma-citrinum]]
 - [[russula-cyanoxantha]]
 - pine
+## Practical Considerations
+
+When working with Paxillus atrotomentosus, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

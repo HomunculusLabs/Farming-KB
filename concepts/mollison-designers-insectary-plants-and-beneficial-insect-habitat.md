@@ -14,10 +14,7 @@ sources:
 type: concept
 ---
 
-# Insectary Plants and [[beneficial-insect-habitat]]
-
-Biological pest control through habitat creation is a cornerstone of
-[[permaculture-design]]. Rather than relying on pesticides, permaculture systems
+# Insectary Plants and [[permaculture-design]]. Rather than relying on pesticides, permaculture systems
 support populations of predatory and parasitic insects that regulate pest
 species naturally. Mollison emphasises that the most effective pest management
 strategy is to create conditions where beneficial insects thrive in sufficient
@@ -125,13 +122,10 @@ providing refuges for predators. In orchard systems, flowering ground covers
 beneath trees support pollinators during blossom period and predators
 throughout the season.
 
-In [[mollison-designers-food-forest-succession-design]], insectary plants are
-integrated at every layer of the food forest. In [[mollison-designers-market-garden-intensive-production-design]], insectary borders surround production
+In [[mollison-designers-market-garden-intensive-production-design]], insectary borders surround production
 beds. The principle is universal: every production system benefits from
 adjacent habitat for beneficial organisms.
 
 ## See Also
-
-- [[mollison-designers-internet-of-plants-information-sharing]]
 
 - [[hemenway-insectary-plants-and-beneficial-insects]]

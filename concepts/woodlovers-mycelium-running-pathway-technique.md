@@ -110,8 +110,6 @@ All major woodlovers respond well to running techniques:
 
 ## See Also
 
-- [[azurescens-outdoor-bed-preparation-woodchips]] — initial bed construction
 - [[outdoor-woodlover-bed-preparation]] — bed preparation methods
-- [[outdoor-wood-lover-cultivation]] — complete cultivation guide with maintenance
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]] — garden integration
 - [[fungal-ecosystem-roles]] — ecological role of mycelial networks

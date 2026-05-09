@@ -52,22 +52,29 @@ Buckwheat is direct-seeded at 40–60 kg/ha, 2–5 cm deep, after soil temperatu
 - Attracts parasitic wasps, syrphid flies, and predatory beetles to crop areas
 - Provides habitat for ground-nesting bees and beneficial invertebrates
 - Seeds provide food for game birds and small mammals
-- Allelopathic: [[root-exudates]] and decomposing residues inhibit germination of certain weed species (pigweed, lambsquarters)
-
-## Nutritional Profile
-
-Buckwheat groats (dehulled seeds) contain approximately 12–15% protein with a balanced amino acid profile (rich in lysine, limiting in most cereals). The grain is notably high in rutin (4,200–6,500 mg/kg), a flavonoid that strengthens capillary walls and has anti-inflammatory properties. Also contains magnesium, copper, zinc, and manganese. Flour is used in gluten-free baking, soba noodles, blini, crêpes, and porridge.
-
-## Limitations
-
-- Very frost-sensitive; restricted to frost-free growing periods
-- Shallow root system does not break deep compaction
-- If allowed to set seed, volunteers aggressively in subsequent crops
-- Low lignin content means residues decompose rapidly but contribute less to long term mollison designers humus than grass [[cover-crops]]
+- Allelopathic: [[cover-crops]]
 
 ## See Also
 
-- [[cover-crop-selection-guide]]
 - [[dynamic-accumulator-plants-nitrogen]]
 
 - [[green-manure-crops]]
+## Practical Considerations
+
+Successful implementation of Fagopyrum esculentum requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

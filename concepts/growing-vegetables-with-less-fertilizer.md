@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - raw/papers/growing-vegetables-west-of-the-cascades-steve-solomon.md
 ---
 # Growing Vegetables with Less Fertilizer
 
@@ -73,7 +74,7 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 ## Compost as Fertility
 
 ### What Compost Provides
-- Slow-release nutrients [[acid-and-alkaline-soil-management]] [[soil-conditioners-guide]] (1-1-1 to 3-2-1 depending on ingredients)
+- Slow-release nutrients [[soil-conditioners-guide]] (1-1-1 to 3-2-1 depending on ingredients)
 - Organic matter for soil structure
 - Microbial inoculation
 - Micronutrients (if diverse feedstocks used)
@@ -99,9 +100,6 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 - Keep soil covered (mulch, cover crops — prevent erosion and leaching)
 
 ## Related
-- [[soil-food-web-nutrient-cycling]] — for soil nutrient dynamics
 - [[plant-macronutrient-functions]] — for detailed NPK roles
-- [[compost-building-guide]] — for making compost
 - [[korean-natural-farming-imo-recipes]] — for KNF approach to fertility
-- [[aquaponics-guide]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

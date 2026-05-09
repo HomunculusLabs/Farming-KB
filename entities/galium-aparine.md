@@ -64,58 +64,7 @@ ovary. Flowering occurs from May to October in temperate regions.
 
 The fruit is a schizocarp consisting of two joined mericarps, 2–4 mm in
 diameter, covered in dense hooked bristles that facilitate zoochory (animal
-dispersal). Each mericarp contains a single [[fukuoka-seed-balls-and-direct-seeding|seed]].
-
-## Distribution and Habitat
-
-*Galium aparine* has a circumboreal distribution across temperate regions of
-the Northern Hemisphere. It is native to Europe, much of Asia, and North
-Africa, and has been widely naturalized in North America, South America,
-Australia, and New Zealand.
-
-It thrives in disturbed, nitrogen-rich habitats including cultivated fields,
-hedgerows, woodland edges, waste ground, riparian zones, and urban areas. It
-is commonly found growing through and over other vegetation, including crops,
-garden plants, and shrubs.
-
-The plant prefers moist, fertile soils with pH 5.5–7.5 and partial to full
-shade, though it tolerates a wide range of conditions. It is a spring-germinating
-annual, with seeds requiring cold stratification and light for germination.
-
-Seed persistence in soil is notable — seeds remain viable for 3–5 years,
-creating a persistent seed bank. A single plant can produce 100–400 seeds.
-
-## Traditional and Modern Herbal Use
-
-In traditional Western herbalism, *G. aparine* is classified as a cooling,
-alterative herb with primary affinity for the lymphatic system. It has been
-used for centuries as a "blood purifier" and lymphatic decongestant.
-
-The fresh aerial parts (stems, leaves, flowers) are used in tinctures,
-juices, and infusions. Dried herb is less potent due to loss of volatile
-constituents. Traditional indications include swollen lymph nodes, tonsillitis,
-eczema, psoriasis, and urinary tract irritation.
-
-Modern herbalists continue to use cleavers as a gentle lymphatic tonic and
-diuretic. It is often included in detoxification protocols and spring-cleaning
-herbal blends. The fresh juice is considered the most effective preparation.
-
-Phytochemical constituents include iridoid glycosides (asperuloside,
-monotropein), flavonoids (quercetin, kaempferol derivatives), tannins,
-caffeic acid derivatives, and silica. The iridoid glycosides are primarily
-responsible for mild laxative and anti-inflammatory activity.
-
-Some in vitro studies have demonstrated mild cytotoxic activity against
-cancer cell lines and antimicrobial effects, though clinical evidence remains
-limited.
-
-## Edible Uses and Foraging
-
-The young shoots and tips (top 10–15 cm of actively growing stems) are edible
-raw or cooked, with a mild, slightly sweet flavor reminiscent of green peas.
-They are best harvested in spring before the plant becomes tough and fibrous.
-
-The seeds can be roasted and used as a [[bloomfield-coffee-rust-and-crop-pathogens|coffee]] substitute, similar to the
+dispersal). Each mericarp contains a single [[bloomfield-coffee-rust-and-crop-pathogens|coffee]] substitute, similar to the
 related *Galium odoratum* (sweet woodruff). Historically, the seeds of several
 *Galium* species were used to curdle milk for cheese-making.
 
@@ -141,10 +90,7 @@ early-season nectar for pollinators.
 Chopped cleavers make an excellent addition to compost piles, contributing
 high-nitrogen green material. The silica-rich biomass improves compost quality
 and benefits subsequent crops when applied as mulch or compost amendment.
-
 ## See Also
-
-- [[medicinal-herb-growing]]
 
 - [[urtica-dioica]]
 - [[plantago-major]]

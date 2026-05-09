@@ -83,9 +83,7 @@ The rhizome network stabilizes stream banks and floodplain soils, reducing erosi
 
 Canebrakes function as biological filters, trapping sediments and absorbing nutrients from agricultural runoff before they reach waterways.
 
-Leaf litter from cane decomposition contributes significantly to soil organic matter, supporting diverse detritivore communities.
-
-## Ethnobotany and Cultural Significance
+Leaf litter from cane decomposition contributes significantly to [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]
 
 Indigenous peoples of the Southeast used river cane extensively for basketry, fishing weirs, blowguns, arrows, and structural framing.
 
@@ -95,19 +93,9 @@ Cane splits were also used to construct matting, shelters, and ceremonial object
 
 Early European settlers used cane for fishing poles, livestock forage, and as a source of thatch for roofing.
 
-The loss of canebrakes represents one of the most dramatic vegetative transformations in North American ecological history.
+The loss of canebrakes represents one of the most dramatic vegetative transformations in [[mollison-permaculture-two-zone-planning-and-site-layout]] ced in Zone 3 or 4 of permaculture zone planning, where its low-maintenance, perennial growth habit provides yields without intensive management.
 
-## Permaculture and Agroforestry Applications
-
-In permaculture design, *A. gigantea* serves multiple functions: erosion control on slopes and riparian zones, windbreak establishment, and wildlife corridor creation.
-
-The species is placed in Zone 3 or 4 of permaculture zone planning, where its low-maintenance, perennial growth habit provides yields without intensive management.
-
-Young shoots are edible when harvested in spring and prepared similarly to commercial bamboo shoots, though they are smaller and less commonly consumed.
-
-Culms can be harvested for garden stakes, trellising material, and small-scale construction projects within a homestead system.
-
-The plant acts as a nutrient pump, drawing minerals from deep soil layers and cycling them to the surface through leaf litter decomposition.
+Young shoots are edible when [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 
 When integrated with poultry systems, canebrakes provide shade, wind protection, and supplemental forage for free-range birds.
 
@@ -127,8 +115,6 @@ Prescribed fire stimulates new shoot production and suppresses woody competitors
 
 ## See Also
 
-- [[macrocybe-gigantea]]
-
 - [[food-forest-layers-and-species]]
 
 - [[calvatia-gigantea]]
@@ -137,6 +123,6 @@ Prescribed fire stimulates new shoot production and suppresses woody competitors
 - [black-locust-entity](black-locust-entity.md)
 - [elaeagnus-umbellata](elaeagnus-umbellata.md)
 - [tagasaste](tagasaste.md)
-- [permaculture](permaculture.md)
+- [[permaculture](permaculture.md)
 - [sambucus-nigra](sambucus-nigra.md)
 - [morus-alba](morus-alba.md)

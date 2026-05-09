@@ -140,11 +140,8 @@ characterized and heterologously expressed in other organisms.
 
 Technically non-toxic but considered inedible due to extremely tough,
 cartilaginous texture and intensely bitter, astringent taste.
-
 ## See Also
 
-- [[mycelium]]
 - [[pleurotus-ostreatus]]
-- [[mycoremediation]]
 - [[ganoderma-lucidum]]
 - [[beta-glucans]]

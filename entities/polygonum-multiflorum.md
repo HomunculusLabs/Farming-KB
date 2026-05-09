@@ -91,7 +91,7 @@ is 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) at 1.5–3.0% dry
 weight, responsible for most pharmacological activity. Anthraquinones include
 emodin, physcion, chrysophanol, and rhein — concentrated in raw root and
 partially degraded during processing. Tannins (gallic acid, catechin, and
-procyanidin oligomers), flavonoids (quercetin, kaempferol glycosides),
+procyanidin oligomers), flavonoids ([[kaempferol]] glycosides),
 phospholipids (lecithin), and immunomodulatory water-soluble polysaccharides
 are also present. The preparation process (steaming with black soybean
 decoction) significantly alters the profile: THSG decreases while free
@@ -143,6 +143,5 @@ required) or root division, trellis support for commercial root production, and
 
 ## See Also
 
-- [[dom]]
 - [[food-forest]]
 - [[permaculture]]

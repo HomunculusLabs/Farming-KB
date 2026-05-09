@@ -131,7 +131,5 @@ This is the opposite of the alienated labor characterizing industrial agricultur
 
 - [[fukuoka-soil-management-observations]]
 - fukuoka textdoc paddy ecosystem spider frog dragonfly balance
-- [[mollison-water-harvesting-management-permaculture]]
-
 - [[natural-farming]]
 - [[water-management]]

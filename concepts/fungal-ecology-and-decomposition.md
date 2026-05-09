@@ -1,7 +1,7 @@
 ---
 title: Fungal Ecology and Decomposition
 created: 2026-04-28
-tags: [mycology, ecology, decomposition, soil-science]
+tags: [[mycology, ecology, decomposition, soil-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -116,10 +116,6 @@ bacteria.
 
 ## See Also
 
-- [[serpula-lacrymans]]
-
 - [[mycelial-network-communication]]
-- [[soil-mycobiome-diversity]]
 - [[bloomfield-fungal-secondary-metabolites]]
-- [[mycorrhizal-symbiosis-mechanisms]]
 - [[bioluminescent-fungi]]

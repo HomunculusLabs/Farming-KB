@@ -140,11 +140,11 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 - **Air pollution** and acid deposition affecting forest floor chemistry
 - **Removal of leaf litter** in managed woodlands and parks
 - **Pesticide and herbicide use** in forest-edge habitats
+## See Also
+
+- [[agaricus-bisporus]]
+- [[lepista-sordida]]
 
 ## See Also
 
-- [[lepista-saeva]]
-
-- [[agaricus-bisporus]]
-- [[david-arora]]
-- [[lepista-sordida]]
+- [[edible-wild-mushrooms-foraging-guide]]

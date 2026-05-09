@@ -90,8 +90,6 @@ additional respiratory irritation.
 
 ## Related Topics
 
-- [[cannabis-and-asthma]]
 - [[blesching-endocannabinoid-system-overview]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-cannabis-administration-methods]]

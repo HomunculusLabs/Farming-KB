@@ -16,7 +16,7 @@ Approximately 2% of all plant species form ectomycorrhizal (ECM) associations, b
 
 The tree provides carbohydrates (sugars from photosynthesis) to the fungus, while the fungus provides water, phosphorus, nitrogen, and other minerals from the soil. This exchange dramatically enhances the tree's ability to access soil resources, particularly on nutrient-poor sites.
 
-The specificity of ECM partnerships varies from highly specific (one fungal species with one tree species) to broadly generalist (one fungal species with many tree species). This specificity determines which mushroom species can be expected in a given forest type. See [[ectomycorrhizal-ecology]] and [[mycorrhizal-fungi]] for mycorrhizal biology fundamentals.
+The specificity of ECM partnerships varies from highly specific (one fungal species with one tree species) to broadly generalist (one fungal species with many tree species). This specificity determines which mushroom species can be expected in a given forest type. See [[mycorrhizal-fungi]] for mycorrhizal biology fundamentals.
 
 ## Major Host Tree Families
 
@@ -26,7 +26,7 @@ The Pinaceae is the most important ectomycorrhizal host family, containing pines
 
 Pine forests support distinctive ECM fungal communities including Suillus species (slippery jacks), Tricholoma matsutake (matsutake), various bolete species, and truffle species in some regions. The genus Suillus is particularly associated with Pinaceae, with many species showing strong host specificity to particular pine species.
 
-The association between pines and matsutake is one of the most economically significant ECM partnerships. Matsutake fruiting is closely tied to the health and age of pine forests, and forest management practices that affect pine health directly impact matsutake productivity. See [[pine-mushroom-forestry-management]] and [[matsutake-mushroom]] for matsutake-pine relationships.
+The association between pines and matsutake is one of the most economically significant ECM partnerships. Matsutake fruiting is closely tied to the health and age of pine forests, and forest management practices that affect pine health directly impact matsutake productivity. See [[matsutake-mushroom]] for matsutake-pine relationships.
 
 ### Fagaceae (Beech and Oak Family)
 
@@ -40,7 +40,7 @@ Beech forests support diverse ECM communities including boletes (particularly Bo
 
 The Betulaceae includes birches (Betula), alders (Alnus), and hazelnuts (Corylus). Birches are important ECM hosts in boreal and temperate forests, supporting species such as Leccinum (birch boletes), various Amanita species, and Cantharellus species.
 
-Hazelnut (Corylus avellana) is particularly important as a host for truffle cultivation. Hazelnut forms mycorrhizal associations readily with Tuber melanosporum and grows quickly, making it the preferred host species for Perigord black truffle orchards in many regions. See [[truffle-inoculated-seedlings]] and [[truffle-orchard-design-establishment]] for hazelnut-truffle partnerships.
+Hazelnut (Corylus avellana) is particularly important as a host for truffle cultivation. Hazelnut forms mycorrhizal associations readily with Tuber melanosporum and grows quickly, making it the preferred host species for Perigord black truffle orchards in many regions. See [[truffle-orchard-design-establishment]] for hazelnut-truffle partnerships.
 
 ### Myrtaceae
 
@@ -66,48 +66,16 @@ Most commercially important edible ECM mushrooms fall in the middle of this spec
 
 Forest stands with higher tree species diversity generally support higher ECM fungal diversity. Mixed-species forests with oaks, pines, beeches, and birches support more mushroom species than monoculture stands of any single tree species.
 
-This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to pests and diseases. See [[ethnomycology]] and [[mycoforestry-forest-management-with-fungi]] for forest management approaches.
-
-## Partner Selection and Compatibility
-
-The formation of a mycorrhizal partnership involves a recognition process between the fungus and the host plant. Not all ECM fungi can form partnerships with all potential host trees, even within the same host family.
-
-Molecular signaling between fungal hyphae and root surfaces triggers the morphological changes that lead to mycorrhizal formation. The fungus must recognize compatible root exudates and respond by forming the mantle and Hartig net structures. Incompatible combinations result in the fungus failing to colonize the root or forming non-functional associations.
-
-This compatibility has practical importance for truffle cultivation, where the choice of host tree species and provenance affects the success of mycorrhizal establishment. Research has shown that certain tree provenances (geographic populations within a species) are more compatible with specific truffle strains than others, providing an avenue for optimizing cultivation success.
-
-## Host Tree Health and Fungal Partnership
-
-The health and vigor of the host tree directly affect the quality and productivity of the ECM partnership. Stressed trees (from drought, disease, nutrient deficiency, or competition) allocate fewer carbohydrates to their mycorrhizal partners, potentially reducing fungal growth and fruiting.
-
-Conversely, healthy, vigorously growing trees support active mycorrhizal networks that enhance the tree's own nutrient uptake and stress tolerance. This positive feedback loop is a key reason why mycorrhizal associations are so beneficial for tree growth and forest productivity.
-
-Tree age also affects ECM partnerships. Young trees with developing root systems support different fungal communities than mature trees with extensive root networks. Many commercially important mushroom species, including porcini, chanterelles, and matsutake, fruit most abundantly in association with mature trees, reflecting the time required for the mycorrhizal network to develop fully.
-
-## Implications for Cultivation and Forestry
-
-Understanding ECM host tree partnerships is essential for several applied objectives. Truffle cultivation requires selecting appropriate host tree species and provenances and ensuring successful mycorrhizal establishment. Forest management for mushroom production requires maintaining host tree species diversity and age structure that support target fungal species. Reforestation with ECM-dependent tree species requires attention to the availability of compatible ECM fungal inoculum, particularly on degraded or previously non-forested sites.
-
-The field of ECM host tree partnership research continues to advance, with molecular tools providing increasingly detailed understanding of the specificity, diversity, and function of these remarkable symbiotic relationships. See [[mycorrhizal-inoculation-techniques]] for applied inoculation methods.
+This relationship has practical implications for both mushroom foraging and forest management. Forests managed for maximum mushroom diversity should maintain or increase tree species diversity. Monoculture plantations, while efficient for timber production, support limited ECM fungal diversity and may be more vulnerable to pests and diseases. See ethnomycology and [[mycorrhizal-inoculation-techniques]] for applied inoculation methods.
 
 ## See Also
 
-- [[douglas-fir]]
 - [[mycorrhizal-tree-shrub-inoculation-guide]]
-
-- [[ectomycorrhizal-ecology]]
 
 - [[mycorrhizal-fungi]]
 
-- [[ectomycorrhizal-morphological-structures]]
-
-## Related
-
 - [[truffle-cultivation-basics]]
-
-- [[truffle-inoculated-seedlings]]
 
 - [[pine-mushroom-forestry-management]]
 
-- [[mycoforestry-forest-management-with-fungi]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

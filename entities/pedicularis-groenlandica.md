@@ -127,9 +127,6 @@ particularly given the species' restricted habitat and slow growth.
 
 - pedicularis densiflora
 - castilleja
-- [[melissa-officinalis]]
 - [[valeriana-officinalis]]
-- [[lobelia-inflata]]
 - [[passiflora-incarnata]]
-- [[scutellaria-lateriflora]]
 - [[leonurus-cardiaca-entity]]

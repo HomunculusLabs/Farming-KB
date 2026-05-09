@@ -14,27 +14,7 @@ sources:
 
 # Cactus Alkaloids Reference
 
-A comprehensive reference to the alkaloids found in psychoactive cacti, primarily those of the genus peyote-cultivation|lophophora (peyote), [[san-pedro-cactus-preparation]] (San Pedro and relatives), and various Mexican cacti used as peyote substitutes. These alkaloids belong mainly to two chemical classes: β-phenethylamines and tetrahydroisoquinolines.
-
-## Major β-Phenethylamine Alkaloids
-
-### Mescaline
-
-Mescaline (3,4,5-trimethoxy-β-phenethylamine) is the principal psychoactive alkaloid in [[ethnomycology]], [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[psychoactive-cacti-species-reference]]. It was first isolated from peyote by Arthur Heffter in 1896, making it the first hallucinogenic compound ever isolated from a natural source.
-
-In dried peyote buttons, mescaline content ranges from approximately one to six percent by weight, with an average around one percent. An average dried button the diameter of a quarter weighs about two grams. San Pedro contains less mescaline by percentage (0.3–1.2%) but its much larger size makes it a more economical source.
-
-See [[mescaline-compound-profile]] and [[mescaline-peyote-and-san-pedro-guide]] for detailed pharmacological profiles.
-
-### Macromerine
-
-Macromerine (N,N-dimethyl-3,4-dimethoxy-β-hydroxy-β-phenethylamine) is a nonphenolic β-phenethylamine found exclusively in *Coryphantha* species, particularly *C. macromeris* (Doñana). It is reputed to possess approximately one-fifth the potency of mescaline. The related alkaloid normacromerine shows less activity than macromerine in animal studies.
-
-### Other Phenethylamine Alkaloids
-
-- **Homoveratrilamine** (3,4-dimethoxy-β-phenethylamine): Found in San Pedro cactus and in the urine of certain types of schizophrenics. Has no activity by itself but may subtly alter the mescaline experience in combination.
-
-- **N-methylphenethylamine**: Recently found in [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with low toxicity.
+A comprehensive reference to the alkaloids found in psychoactive cacti, primarily those of the genus peyote-cultivation|lophophora (peyote), [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[mescaline-compound-profile]] and [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with low toxicity.
 
 - **Synephrine** (N-methyl-4-hydroxy-β-phenethylamine): Found in citrus plants, some cacti, and human urine. A well-known sympathomimetic agent and probable intermediary in the phytosynthesis of macromerine.
 
@@ -84,14 +64,30 @@ Different cactus genera have distinct alkaloid profiles:
 
 - *Pelecyphora aselliformis* (peyotillo): Contains traces of mescaline plus anhalidine, pellotine, hordenine, and N-methylmescaline, among others.
 
-See [[hallucinogenic-plant-chemistry]] and [[phenethylamine-chemistry-basics]] for broader chemical context.
+See [[phenethylamine-chemistry-basics]] for broader chemical context.
 
 ## See Also
 
-- [[morphine]]
-
 - [[mescaline-biosynthesis-and-precursor-enhancement]]
-- [[psychoactive-cacti-of-central-mexico]]
 - [[false-peyotes-mexican-cactus-ethnobotany]]
 - [[psychoactive-cacti-guide]]
-- [[ethnomycology]]
+- ethnomycology
+## Practical Considerations
+
+Successful implementation of Cactus Alkaloids Reference requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -118,8 +118,6 @@ face of persistent and evolving fungal threats to major crops.
 
 ## Related Topics
 
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-coffee-rust-and-crop-pathogens]]
-- [[bloomfield-fungal-plant-pathogens]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]

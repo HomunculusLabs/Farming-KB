@@ -137,8 +137,6 @@ remains dense enough to resist invasion.
 
 ## See Also
 
-- [[mollison-windbreak-design]]
 - [[mollison-tropical-mulch-systems-and-materials]]
-- [[mollison-gangammas-mandala-and-banana-circle-gardens]]
 - [[mollison-avenue-cropping-with-legumes]]
 - [[permaculture-designers-manual-tropical-climates]]

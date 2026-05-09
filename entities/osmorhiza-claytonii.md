@@ -109,10 +109,6 @@ The plant serves multiple functions in a designed ecosystem:
 
 ## See Also
 
-- [[symphytum-officinale]]
 - [[taraxacum-officinale]]
-- [[urtica-dioica]]
-- [[achillea-millefolium]]
 - [[plantago-major]]
-- [[allium-tuberosum]]
 - [[food-forest-permaculture]]

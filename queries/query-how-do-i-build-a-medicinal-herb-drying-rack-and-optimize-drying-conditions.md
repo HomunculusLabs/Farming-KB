@@ -17,18 +17,7 @@ type: query
 
 ## Why Proper Drying Matters for Medicinal Herbs
 
-Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, [[enzymatic-degradation-in-mycoremediation]] of medicinal constituents, or uneven curing that creates hot spots of decomposition.
-
-The goal is to remove moisture steadily and completely while preserving the maximum concentration of the phytochemicals you grew the herb for in the first place.
-
-## What Environmental Conditions Do Medicinal Herbs Need for Optimal Drying?
-
-| Factor | Ideal Range | Why It Matters |
-|--------|-------------|----------------|
-| **Temperature** | 70–95°F (21–35°C) | Low enough to prevent volatile oil evaporation; high enough to inhibit microbial growth |
-| **Humidity** | 40–55% RH | Below 40% dries too fast and shatters leaves; above 60% risks mold |
-| **Airflow** | Gentle, continuous | Stagnant air creates microclimates of high humidity around plant material |
-| **Light** | Dark or indirect | UV light degrades chlorophyll and photolabile compounds like certain alkaloids [[blesching-cannabis-terpenoids-and-flavonoids]] |
+Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, [[blesching-cannabis-terpenoids-and-flavonoids]] |
 | **Time** | 3–14 days (species-dependent) | Rushing with heat destroys quality; slow drying in humid conditions invites mold |
 
 Different herb categories have different sensitivities:
@@ -84,49 +73,7 @@ Preparation varies by plant part and affects drying speed and final quality:
 
 ### Roots
 
-- Wash thoroughly—roots grow [[singh-fungal-interactions-with-heavy-metals-in-soil]] and must be cleaned.
-- Slice roots ⅛–¼" thick for even drying. Thinner slices dry faster and more uniformly.
-- Large roots (marshmallow, valerian) may need to be split lengthwise before slicing.
-
-### Stems and aerial parts
-
-- Hang whole stems upside down in small bunches (4–6 stems per bunch).
-- Rubber bands work better than twine for bunching—stems shrink as they dry, and rubber bands tighten to match.
-- Keep bunches small enough that air can circulate through the center.
-
-## How Do I Know When Herbs Are Fully Dry?
-
-Test with multiple methods rather than relying on a single check:
-
-- **Snap test**: Leaves and small stems should crumble crisply between your fingers. If they bend or feel leathery, they need more time.
-- **Break test**: Roots should snap cleanly with an audible crack, not flex or feel rubbery inside.
-- **Stem test**: For whole-stem dried herbs, the main stem should snap rather than bend.
-- **Moisture meter** (optional): A pin-type wood moisture meter reading below 10% confirms dryness for most herbs.
-
-When in doubt, keep drying. Over-drying is always preferable to under-drying, which leads to mold in storage.
-
-## What Are the Best Storage Practices After Drying?
-
-Proper storage preserves months of growing effort:
-
-- **Container**: Glass mason jars with tight lids are the gold standard. Avoid plastic bags—they allow oxygen exchange and light penetration.
-- **Environment**: Cool (60–70°F), dark, and dry. A pantry or cabinet works well. A refrigerator extends shelf life further for heat-sensitive herbs.
-- **Whole vs. powdered**: Store herbs whole and crush or grind just before use. Powdered herbs lose potency 3–5× faster due to increased surface area exposed to air.
-- **Shelf life**: Most dried medicinal herbs retain useful potency for 12–18 months. Roots and barks can last 2–3 years. After that, efficacy declines but they rarely become dangerous—just weaker.
-- **Check regularly**: Open jars monthly for the first few months. If you smell any mustiness or see condensation inside the jar, re-dry the herbs immediately.
-
-## What Common Mistakes Should I Avoid?
-
-1. **Drying in direct sunlight**: UV light destroys flavonoids, alkaloids, and essential oils. Herbs bleach and lose medicinal value.
-2. **Stacking herbs too thickly**: Overcrowding traps moisture and creates mold. Always leave space for air movement between pieces.
-3. **Using an oven or microwave**: These generate far too much heat and destroy volatile compounds. Even the lowest oven setting (170°F) is too hot.
-4. **Drying herbs [[mycelium-running-forestry-practices-and-mushrooms]] in the same space**: Mushrooms release enormous amounts of spores during drying, which can contaminate herb batches and cause respiratory irritation.
-5. **Not labeling immediately**: Once dried, many herbs look similar. Label every jar with the herb name, harvest date, [[gottlieb-psilocybin-cultivation-harvesting-and-drying]] date.
-6. **Ignoring ambient humidity**: If you live in a humid climate (above 65% RH), passive air drying may not be sufficient. Use a dehumidifier in the drying space or a small fan with a desiccant packet system.
-
-## See Also
-
-- [[query-how-to-build-and-manage-a-root-cellar]]
-- [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
-- [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
+- Wash thoroughly—roots grow [[mycelium-running-forestry-practices-and-mushrooms]] in the same space**: Mushrooms release enormous amounts of spores during drying, which can contaminate herb batches and cause respiratory irritation.
+5. **Not labeling immediately**: Once dried, many herbs look similar. Label every jar with the herb name, harvest date, [[query-how-to-build-and-manage-a-root-cellar]]
+- [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-how-to-build-and-use-a-solar-food-dehydrator]]

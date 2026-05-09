@@ -21,12 +21,7 @@ sacraments in the United States. The legal status of these practices
 involves complex intersections of federal drug law, religious freedom
 protections, treaty obligations to indigenous peoples, and
 constitutional equal protection questions. The two principal categories
-are peyote use by the [[keewaydinoquay-native-american-mushroom-traditions]] and ayahuasca
-use by Brazilian-origin religions.
-
-## The Native American Church and Peyote
-
-The [[keewaydinoquay-native-american-mushroom-traditions]] (NAC) is the largest Native American
+are peyote use by the [[keewaydinoquay-native-american-mushroom-traditions]] (NAC) is the largest Native American
 faith, with approximately 300,000 members in the United States and
 Canada. It is pan-tribal. Peyote ceremonies are the central
 sacrament, typically held on Saturdays and holidays in a tipi under
@@ -138,13 +133,12 @@ concern about precedents extending to broader populations. As UDV
 litigation progresses, the fundamental question is whether the US legal
 system can accommodate sacramental psychedelic use outside federal
 Native American policy.
+## See Also
+
+- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
+
+- [[keewaydinoquay-native-american-mushroom-traditions]]
 
 ## See Also
 
-- [[psychedelic-plants-legal-status]]
-- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-
-- [[hallucinogenic-plants-native-to-united-states]]
-- peyote
-- ayahuasca
-- [[keewaydinoquay-native-american-mushroom-traditions]]
+- [[sacramental-religious-use-hallucinogenic-plants-united-states]]

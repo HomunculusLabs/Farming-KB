@@ -1,5 +1,5 @@
 ---
-title: pig husbandry
+title: Pig Husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,11 +7,11 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health, 
 sources: []
 ---
 
-# pig husbandry
+# Pig Husbandry
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
-can be harnessed for urban [[permaculture]] pig and tillage, and their manure is among
+can be harnessed for land clearing and tillage, and their manure is among
 the most nutrient-rich available. Pigs are intelligent and require secure
 fencing and thoughtful management.
 
@@ -19,7 +19,7 @@ fencing and thoughtful management.
 
 ### Heritage Breeds (Recommended for Homesteads)
 - **Berkshire** — Excellent meat quality, marbled, dark-fleshed. Known as
-  Kurobuta in japan. Good mothers, moderate growth rate.
+  Kurobuta in Japan. Good mothers, moderate growth rate.
 - **Tamworth** — Long-bodied, bacon-type. Excellent foragers, hardy, good
   mothers. Red-gold color.
 - **Large Black** — Docile, excellent foragers, good lard-type pigs. Black
@@ -51,7 +51,7 @@ fencing and thoughtful management.
 - Provide shade — pigs cannot sweat and are extremely heat-sensitive.
 
 ### Confinement (Not Recommended for Homesteads)
-- Concrete floors, slatted flooring, growing gourmet growing. Higher capital cost,
+- Concrete floors, slatted flooring, climate control. Higher capital cost,
   more disease pressure.
 
 ### Farrowing Housing
@@ -93,7 +93,7 @@ Pigs are notorious for testing and destroying fencing.
 ### Alternative Feeds
 - Dairy: whey, skim milk, clabber — excellent protein source.
 - Kitchen scraps and garden waste — up to 30% of diet if balanced.
-- Sprouted grains, [[tagasaste]] nurse crop.
+- Sprouted grains, fodder systems.
 - Composted food waste (not meat products in most areas — check regulations).
 
 ### Minerals
@@ -145,6 +145,43 @@ Pigs are notorious for testing and destroying fencing.
 - Farrowing typically takes 2-6 hours. Piglets born every 10-20 minutes.
 - Dry each piglet immediately, clear airways, ensure first colostrum.
 - Dip navels in iodine.
-## See Also
+- Process piglets (iron injection, clip needle teeth, dock tails, castrate
+  males) within first 3 days.
 
-- [[pig-husbandry-permaculture]]
+## Finishing
+
+### Grass-Fed/Pasture-Finished
+- Heritage breeds perform best on pasture-based systems.
+- Longer finishing period (8-12 months vs 5-6 months grain-fed).
+- Leaner meat, different flavor profile. Often commands premium price.
+- Supplement with grain for last 60-90 days to improve marbling.
+
+### Grain-Finished
+- Faster, more efficient. 5-6 months from birth to market.
+- Better marbling and conventional flavor.
+- Higher feed costs but shorter time to harvest.
+
+## Processing
+
+- Ideal harvest weight: 220-280 lbs live weight (160-200 lbs hanging).
+- On-farm slaughter is legal in most areas if done for personal use. See
+  [[animal-harvest-and-processing]].
+- Bacon, ham, sausage, lard, and hocks are high-value cuts.
+- Lard rendering: excellent cooking fat, soap making, and leather conditioning.
+
+## Manure and Byproducts
+
+- Pig manure is extremely nutrient-dense ("hot" manure). Must be composted
+  before garden use to avoid burning plants.
+- One pig produces roughly 10-15 lbs of manure per day.
+- Excellent nitrogen source for compost. Add to carbon-heavy piles.
+- Pig manure can be anaerobically digested for biogas production.
+
+## Links
+
+- [[goat-husbandry]]
+- [[cattle-husbandry]]
+- [[pasture-management]]
+- [[livestock-fencing-guide]]
+- [[livestock-feed-formulation]]
+- [[animal-harvest-and-processing]]

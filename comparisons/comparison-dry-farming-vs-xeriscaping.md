@@ -17,119 +17,84 @@ method for your climate, goals, and available resources.
 
 ## Overview
 
-**Dry Farming**, as developed and popularized by [[steve-solomon]], is a method of
-growing crops without irrigation by relying on stored soil moisture. The
-technique involves wide plant spacing so that individual root systems can
-access deep subsoil moisture reserves. Watering is deep and infrequent,
-applied only when absolutely necessary to carry plants through critical growth
-stages.
-
-Surface mulching reduces evaporation by 50-75%, conserving the soil moisture
-that accumulates from winter rains and seasonal precipitation. This approach
-works best in areas with moderate annual rainfall (typically 15-25 inches) and
-deep, moisture-retentive soils. Dry farming produces real vegetables and staple
-crops, though yields per square foot are lower than irrigated gardens.
-
-**Xeriscaping** is a comprehensive landscaping approach developed in arid
-regions that follows seven core principles: planning and design, soil
-improvement, practical turf areas, appropriate plant selection, efficient
-irrigation, mulching, and appropriate maintenance. It centers on hydrozoning,
-the practice of grouping plants by water needs into oasis zones (high water use
-near human activity areas), transition zones (moderate water use), and dry
-zones (minimal to no supplemental water).
-
-Plant selection emphasizes drought-tolerant native and adapted species, with
-efficient irrigation systems like drip lines and ollas used only during
-establishment. Heavy mulching at 3-4 inches depth conserves soil moisture.
-Xeriscaping is primarily ornamental, though oasis zones can incorporate edible
-plants. It requires a 2-3 year establishment period after which mature plants
-need minimal irrigation.
-
-## Key Differences
-
-| Aspect | Dry Farming | Xeriscaping |
-|--------|-------------|-------------|
-| Primary Focus | Food crop production | Ornamental landscape design |
-| Water Strategy | No irrigation; deep soil moisture | Efficient irrigation plus drought plants |
-| Plant Selection | Vegetables and staples adapted to dry | Native drought-tolerant ornamentals |
-| Establishment | Plant at right time; mulch immediately | 2-3 year establishment with irrigation |
-| Maintenance | Cultivation for dust mulch, weed control | Pruning, occasional deep watering |
-| Space Requirements | Wide spacing; lower yield per sq ft | Varies by design; fits small urban lots |
-| Climate Range | Moderate rainfall (15-25 inches) | Arid to semi-arid; adaptable broadly |
-| Food Production | Primary goal; diverse vegetable output | Limited; edibles in oasis zones only |
-
-## Dry Farming Techniques
-
-The success of dry farming depends on several interconnected techniques. Soil
-preparation begins the previous fall with deep cultivation or broadforking to
-break compaction and allow moisture penetration to maximum depth. Winter cover
-crops can be terminated early to preserve soil moisture for the main crop.
-Wide spacing is critical: tomatoes may be placed 4-6 feet apart, allowing each
-plant's root system to access a large soil volume.
-
-Surface cultivation creates a "dust mulch" layer that breaks capillary action
-and prevents moisture from wicking to the surface. This is typically done with
-a hoe or scuffle hoe after rains, creating a loose, dry surface layer. Organic
-mulches such as straw or leaves provide additional evaporation protection while
-adding organic matter. Some dry farmers use plastic mulch for the most
-moisture-sensitive crops like melons and peppers.
-
-## Xeriscaping Principles
-
-The seven principles of xeriscaping work together to create resilient, low-water
-landscapes. Planning and design come first, mapping sun exposure, drainage
-patterns, and existing vegetation. Soil improvement with compost increases water
-holding capacity even in sandy soils. Practical turf areas minimize or
-eliminate water-intensive lawns, replacing them with drought-adapted ground
-covers, gravel, or permeable hardscape.
-
-Appropriate plant selection is the most visible principle. Native plants are
-always the first choice because they are adapted to local rainfall patterns,
-soil types, and temperature extremes. The hydrozoning concept groups plants
-by water needs, allowing efficient irrigation of high-value areas while
-dry-zone plants receive no supplemental water at all. Efficient irrigation
-using drip systems, soaker hoses, or ollas delivers water directly to root
-zones with minimal evaporation loss.
-
-## When to Choose Dry Farming
-
-Dry farming is the right choice when your primary goal is producing food without
-irrigation infrastructure. It works well in Mediterranean climates, parts of the
-Pacific Northwest, and other regions with moderate winter rainfall and dry
-summers. You need adequate land for wide plant spacing and deep, reasonably
-fertile soil that holds moisture. Crops like tomatoes, potatoes, winter squash,
-dry beans, and grains perform well under dry farming conditions.
-
-## When to Choose Xeriscaping
-
-Xeriscaping is the appropriate choice for landscaping in arid and semi-arid
-regions where water conservation is critical. It transforms lawns and
-conventional landscapes into beautiful, water-efficient outdoor spaces. Choose
-xeriscaping if you want to reduce or eliminate landscape water use, create
-habitat for local wildlife, and design outdoor living spaces that thrive in
-your regional climate without constant irrigation.
-
-## Complementary Use
-
-Dry farming and xeriscaping can work together on the same property. A
-homesteader might xeriscape the zone closest to the house while dry farming a
-larger food-production area further out. The mulching techniques and water
-conservation principles overlap significantly, and knowledge from both
-approaches improves overall water management on any property.
-
-## Climate Adaptation
-
-Dry farming requires sufficient off-season rainfall to recharge deep soil
-moisture. In truly arid regions with less than 10 inches of annual rainfall,
-dry farming is not viable without modification. Xeriscaping, by contrast, can
-be adapted to virtually any climate zone by selecting appropriate regional
-plant palettes and adjusting hydrozone configurations. In humid regions,
-xeriscaping principles still reduce landscape maintenance and eliminate
-unnecessary irrigation.
-
-## See Also
-
-- [[solomon-watering-and-dry-farming]] for detailed dry farming techniques
-- [[xeriscaping-guide]] for comprehensive xeriscaping principles
+**Dry Farming**, as developed and popularized by [[solomon-watering-and-dry-farming]] for detailed dry farming techniques
 - [[comparison-xeriscaping-vs-drought-gardening]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
+## Practical Applications
+
+Dry Farming vs Xeriscaping has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Dry Farming vs Xeriscaping. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

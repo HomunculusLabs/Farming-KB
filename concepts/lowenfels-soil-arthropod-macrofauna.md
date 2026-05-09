@@ -118,15 +118,7 @@ Arthropod movement through soil pores mixes organic and mineral particles,
 promoting aggregate formation. The fecal pellets of earthworms, mites, and
 springtails act as microaggregates that are stable in soil. These structural
 improvements complement the chemical aggregation mediated by
-[[lowenfels-glomalin-soil-aggregation]] from fungal activity.
-
-## Macrofauna in the Food Web
-
-Soil arthropods connect the lower and upper levels of the soil food web.
-They consume microbes directly and are consumed by higher predators including
-birds, mammals, and larger arthropods. Their interactions with
-[[lowenfels-nematode-food-web-roles]], [[lowenfels-soil-fungi-decomposition]],
-and [[lowenfels-soil-protozoa-cycling]] create the complex trophic
+[[lowenfels-nematode-food-web-roles]], [[lowenfels-soil-protozoa-cycling]] create the complex trophic
 interactions that characterize a mature soil ecosystem.
 
 ## Supporting Soil Macrofauna

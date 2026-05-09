@@ -33,8 +33,6 @@ across tropical and temperate regions worldwide. Datura stramonium is
 one of the most widely recognized members and is closely related to
 several other psychoactive species including:
 
-- **[[datura-metel]]** L. — Hindu Datura, widely cultivated in India and
-  Southeast Asia for ceremonial and medicinal purposes.
 - **[[datura-innoxia]]** Mill. — prickly Datura, native to Mexico and the
   southwestern United States, used in traditional medicine.
 - **Datura ferox** L. — long-spined thorn apple, native to South
@@ -131,8 +129,6 @@ with a long debated medicinal history.
 
 ## See Also
 
-- [[cannabis-sativa]]
 - [[turbina-corymbosa]]
-- [[peganum-harmala]]
 - [[ipomoea-violacea]]
 - [[atropine]]

@@ -3,7 +3,7 @@ title: Permaculture Built Environment Design
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 # Permaculture Built Environment Design
@@ -105,11 +105,7 @@ Water is managed as an integral part of building design:
 
 ## See Also
 
-- [[passive-solar-design]]
 - [[permaculture-retrofitting-suburbs]]
-- [[permaculture-appropriate-technology-design]]
 - [[permaculture-emergy-accounting]]
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[permaculture-design-principles]]
-- [[root-cellaring-and-no-energy-food-storage]]
+- [[permaculture-farm-design-principles]]
 - [[earth-sheltered-structures-permaculture]]

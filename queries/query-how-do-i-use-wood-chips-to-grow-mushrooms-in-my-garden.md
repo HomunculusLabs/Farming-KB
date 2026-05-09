@@ -20,19 +20,7 @@ chips, mushroom spawn, and a suitable garden location.
 
 The quality and species composition of your wood chips significantly influence which mushrooms you can grow and how
 productive your beds will be. Fresh hardwood chips from tree-trimming services are widely available, often free or at
-very low cost, and make an excellent substrate for a wide range of garden mushroom species. The [[cotter-wood-chip-cultivation-outdoor-beds]] guide provides detailed specifications for optimal chip sourcing and preparation.
-
-Ideal hardwood species include oak, maple, birch, alder, poplar, willow, beech, sweetgum, and elm. These species provide
-a good balance of digestibility and longevity, supporting vigorous mycelial colonization while lasting long enough in
-the bed to produce multiple years of mushroom crops. Oak is often considered the gold standard for outdoor mushroom
-cultivation due to its density and slow decomposition rate.
-
-Avoid conifer chips from pine, spruce, fir, cedar, redwood, and juniper. These softwoods contain natural fungicidal
-resins and terpenes that inhibit or kill many gourmet mushroom species. Eucalyptus chips are also problematic due to
-their high tannin and essential oil content. If you must use mixed chips from a tree service, look for loads that are
-predominantly hardwood and pick out any visibly coniferous pieces.
-
-The [[chop-and-drop-mulching]] technique from permaculture can be combined with wood chip mushroom cultivation. By
+very low cost, and make an excellent substrate for a wide range of garden mushroom species. The [[chop-and-drop-mulching]] technique from permaculture can be combined with wood chip mushroom cultivation. By
 inoculating wood chip mulch in garden pathways, border beds, and orchard floors, you transform passive mulch layers into
 active food production zones that simultaneously build soil health and suppress weeds.
 
@@ -43,15 +31,7 @@ productive mushroom for wood chip cultivation. It fruits prolifically from sprin
 portobello-like caps up to 8 inches across, and tolerates a wide range of conditions including partial shade, variable
 moisture, and diverse wood chip compositions.
 
-Oyster mushrooms in the genus Pleurotus are another excellent choice for wood chip beds. The [[community-garden-mushroom-integration]] project demonstrated that Phoenix oyster (Pleurotus pulmonarius) and elm oyster (Hypsizygus
-ulmarius) perform well on fresh hardwood chip beds, producing multiple flushes during warm, humid periods. Oyster
-mushrooms are aggressive colonizers that can fruit within 2 to 3 months of inoculation.
-
-Shiitake (Lentinula edodes) can be grown on buried hardwood logs or on large wood chip beds supplemented with sawdust.
-While traditionally cultivated on logs, shiitake adapts well to wood chip substrates when the chips are supplemented
-with hardwood sawdust at a ratio of roughly 70 percent chips to 30 percent sawdust by volume.
-
-The [[cotter-mushroom-garden-design]] approach recommends creating a polyculture of multiple mushroom species in
+Oyster mushrooms in the genus Pleurotus are another excellent choice for wood chip beds. The [[cotter-mushroom-garden-design]] approach recommends creating a polyculture of multiple mushroom species in
 different garden zones. For example, Wine Cap in pathway beds, oyster mushrooms on freshly chipped stumps, and shiitake
 on buried logs in the shadier areas of the garden. This diversification strategy spreads the harvest across seasons and
 species while maximizing the productivity of every garden zone.
@@ -75,56 +55,7 @@ skip pasteurization with good results, especially when using fresh chips and hig
 
 Aged wood chips that have been sitting in piles for several months can also be used but may harbor established
 populations of competing fungi. If using aged chips, increase the spawn rate and consider supplementing with some fresh
-material. The [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] techniques for substrate preparation
-can be adapted for wood chip beds.
-
-## Building and Inoculating the Bed
-
-Select a location that receives dappled shade and consistent moisture. Good locations include along the north side of
-buildings, beneath deciduous trees, in garden pathways between raised beds, or alongside garden fences. The site should
-be accessible for watering during dry spells and large enough to accommodate the desired bed size.
-
-The simplest bed design is a ground-level mound of hydrated wood chips 4 to 6 inches deep and 3 to 4 feet wide. No
-borders or containment are strictly necessary, though wooden frames, stones, or logs can be used to define the bed edges
-and improve aesthetics. For King Stropharia, some growers dig a shallow trench 2 to 3 inches deep and fill it with chips
-to improve moisture retention.
-
-Inoculate by evenly distributing crumbled grain spawn or sawdust spawn throughout the wood chip bed at a rate of
-approximately 1 pound per 4 to 6 square feet. Layer the inoculation: spread a 2-inch layer of chips, scatter spawn
-evenly, add another 2-inch layer of chips, scatter more spawn, and finish with a final 2-inch chip layer on top. This
-layered approach ensures the spawn is distributed throughout the bed profile.
-
-After inoculation, cover the bed with a layer of damp cardboard or newspaper, then add a 2-inch layer of fresh chips on
-top as a protective mulch. This covering retains moisture, moderates temperature fluctuations, and discourages birds and
-insects from disturbing the inoculated material during the vulnerable colonization period.
-
-## Colonization and Fruiting
-
-Colonization time varies by species, temperature, and moisture conditions. King Stropharia typically takes 4 to 8 weeks,
-oyster mushrooms 2 to 4 weeks, and shiitake 6 to 12 weeks. During colonization, keep the bed consistently moist but not
-waterlogged. Check weekly and water if the surface feels dry to the touch. Look for white mycelial growth on the chip
-surfaces and between chips as colonization progresses.
-
-Fruiting is triggered by environmental cues that vary by species. For most garden mushrooms, significant rainfall or
-deep watering followed by a temperature drop of 10 to 15 degrees stimulates fruiting. Maintaining high humidity around
-the bed during the fruiting trigger period improves pin formation and yields. Some growers use shade cloth, straw, or
-leaf litter to maintain humidity.
-
-Mushrooms typically appear 3 to 7 days after the fruiting trigger, depending on temperature and species. Harvest when
-the caps are fully expanded but before the gills darken heavily and begin releasing large quantities of spores. Cut the
-stems at ground level with a sharp knife rather than pulling, which can damage the mycelial network and reduce future
-yields.
-
-Most wood chip beds produce mushrooms intermittently throughout the growing season whenever fruiting conditions occur
-naturally. With multiple species planted, you can extend the harvest from early spring through late fall. A well-
-maintained bed continues producing for 2 to 5 years before the original wood chips are fully decomposed and need
-replenishing with fresh material.
-
-## Maintenance and Troubleshooting
-
-The primary maintenance task is moisture management. During dry periods, water the bed deeply once or twice per week,
-providing 1 to 2 inches of water per session. Mulch the bed annually with 2 to 3 inches of fresh wood chips to replenish
-the substrate and maintain moisture levels. The [[comparison-mulching-guide-vs-green-manure-guide]] approach shows how
+material. The [[comparison-mulching-guide-vs-green-manure-guide]] approach shows how
 wood chip mulch doubles as a fungal substrate and soil amendment.
 
 Common problems include slug damage, competition from mold fungi, poor colonization, and failure to fruit. Slug damage
@@ -144,7 +75,5 @@ most important qualities for the wood chip mushroom cultivator.
 - Inoculate at 1 pound of spawn per 4 to 6 square feet for reliable colonization
 - Harvest mushrooms by cutting at the stem base to protect the mycelial network
 - Well-maintained wood chip beds produce for 2 to 5 years with annual chip replenishment
-
 ## Related Questions
-- [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
 - [[query-how-to-grow-wine-cap-mushrooms]]

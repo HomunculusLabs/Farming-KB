@@ -106,12 +106,8 @@ Field identification should always be confirmed with microscopic analysis, as mu
 
 ## See Also
 
-- [[psilocybe-mexicana]]
 - [[psilocybe-caerulescens]]
-- [[psilocybe-cubensis]]
 - [[psilocybe-natalensis]]
-- [[psilocybe-allenii]]
 - [[psilocybe-weilii]]
-- [[copelandia-cyanescens]]
 - [[gymnopilus-spectabilis-entity]]
 - [[pluteus-cyanopus]]

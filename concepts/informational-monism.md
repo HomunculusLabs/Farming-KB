@@ -86,14 +86,12 @@ The idea that information is fundamental is not unique to psychedelic philosophy
 
 The informational monism of psychedelic philosophy converges with developments in theoretical physics, suggesting that a complete understanding of reality requires understanding the nature of information itself. We can boldly refer to this reasoning as being but one corollary of the fantastic hypothesis that views reality as a meaningful and intelligent system.
 
-See also: [[psychedelic-consciousness-models]], [[natural-intelligence]], [[natural-intelligence]], [[ketamine-psychedelic-journey-guide]], [[natural-intelligence]], [[natural-intelligence]]
+See also: [[natural-intelligence]], [[ketamine-psychedelic-journey-guide]], [[natural-intelligence]]
 
 *Source: Powell, S.G. "The Psilocybin Solution" -- Chapters 6 and 7*
 
 ## Related
 
-- [[psychedelic-integration-guide]]
 - [[psilocybin-consciousness-as-information-in-process]]
-- [[permaculture-design-principles]]
 - [[mind-body-problem-and-psychedelics]]
 - [[computational-universe-and-natural-intelligence]]

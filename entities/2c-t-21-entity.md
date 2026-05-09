@@ -31,52 +31,84 @@ PIHKAL entry #49. The last of the 2C-T series to be completed, 2C-T-21 carries a
 
 ## Synthesis
 
-The synthesis follows the standard 2C-T pathway starting from [[phenethylamine-chemistry-basics]] (prepared as described under 2c-t-2-entity|2C-T-2):
-
-1. **Sulfide formation**: 2,5-Dimethoxythiophenol + 2-fluoroethyl bromide + KOH in MeOH → 2,5-dimethoxyphenyl 2-fluoroethyl sulfide (colorless oil, 17.2 g)
-2. **Vilsmeier-Haack formylation**: POCl3 + N-methylformanilide → aldehyde. Product recrystallized from MeOH to give pale ivory crystals (15.1 g)
-3. **Nitrostyrene condensation**: Benzaldehyde + nitromethane + NH4OAc, heated on steam bath for 70 min with TLC monitoring. Bright orange crystals (14.33 g)
-4. **LAH reduction**: Nitrostyrene reduced with LAH/H2SO4 in THF, followed by standard workup and distillation (145-160 °C at 0.4 mm/Hg) to give 3.91 g white oil. Converted to HCl salt in IPA, yielding 4.07 g glistening white crystals
-
-## Effects and Qualitative Comments
-
-At 6 mg, something undefined noticed within five minutes, definite awareness at 15 minutes, progressive increase over two hours with a plateau of about an hour. Talkative, good social interaction. No euphoria but also no body load, nausea, or nystagmus. Some mental confusion at peak and memory retrieval difficulty. After-images were quite intense in the evening and eyes felt tired the next day. Pleasant but without major insights.
-
-At 8 mg, comes on very gradually. Reasonably intense at two hours (++). Very pleasant material enhancing communication with clear thinking and good feeling. Closeness and bondedness with group grew steadily. Unusually, appetite was present only two hours in, and constant nibbling was enjoyed — contrary to the typical anorexic response.
-
-At 8 mg (second report), difficult to fix ascent/descent times. Some chilling during onset, yawning, and ear-popping. Easy on the body. Relaxed and somewhat lethargic. Visuals not pronounced. Excellent sleep.
-
-At 10 mg, can be used productively if energy directed purposefully; otherwise tendency toward being stoned and self-indulgent. Not out-of-body cosmic but a good ally with no hidden negatives.
-
-At 12 mg, full +3 established within the first hour, plateaued by end of second. Body felt safe with considerable energy push. Preference for passive activity (watching TV, rocking on couch). Mood faintly grim. Time slowing noted — first two hours seemed very long. No anorexia. Writing became appealing only by 5th hour. Sleep fine but next day slightly introverted and not spontaneous.
-
-## Structure-Activity Relationships
-
-The beta-fluoroethyl group was motivated by two lines of reasoning: imitation of potent serotonin agonists and the need for a potentially positron-emitter-labelable atom (fluorine-18, half-life just under 2 hours). The Berkeley Nuclear Medicine group's research is based on the analogy between halogen atoms and beta-fluoroethyl groups — if a bromine or iodine atom is present in a drug, the corresponding beta-fluoroethyl is a fair guess to also be active.
-
-In a sense, the chemically impossible idea of placing a bromine atom directly on the sulfur of the 2c-t-2-entity|2C-T family is elegantly satisfied by using the beta-fluoroethyl group instead. This makes 2C-T-21 a conceptual bridge between the sulfur-substituted 2C-T series and the halogen-substituted series like 2C-I.
-
-Compared to 2c-t-4-entity|2C-T-4 (isopropylthio, 8-20 mg, 12-18 h), 2C-T-21 is roughly twice as potent and substantially shorter in duration. The fluoroethyl group introduces both the steric bulk of a 2-carbon chain and the electronic effects of a fluorine atom, which together apparently enhance receptor affinity dramatically.
-
-## Extensions and Commentary
-
-2C-T-21 is "about as potent a phenethylamine as they come." A couple of compounds in the 2C-G family have similar potency but are much longer lived.
-
-The amphetamine analogue (ALEPH-21) was prepared to the nitrostyrene stage as yellow-orange crystals (mp 102-104 °C) but was not reduced to the amine at the time of PIHKAL publication. This would be 2,5-dimethoxy-4-(2-fluoroethylthio)amphetamine.
-
-Additional 2C-T analogues under exploration at the time of writing include:
-- **2C-T-19** (n-butylthio): taken to the nitrostyrene stage (mp 133-134 °C)
-- **2C-T-22** (2,2,2-trifluoroethylthio): taken to the benzaldehyde stage, but purification proved extremely difficult
-- **2C-T-21.5** (2,2-difluoroethylthio): proposed but not yet synthesized; Shulgin wagered it would be very potent, lying between the mono- and tri-fluoro compounds
-
-## Cautionary Notes
-
-Despite high potency, effects are manageable and not overwhelming. The energy push at 12 mg can be uncomfortable. Time distortion is pronounced. Post-experience introversion noted the following day.
-
-## See Also
-
-- [[2c-t-2-entity]] — the ethylthio parent of the 2C-T series
-- [[2c-t-4-entity]] — the isopropylthio analogue
+The synthesis follows the standard 2C-T pathway starting from [[2c-t-2]] — the ethylthio parent of the 2C-T series
 - [[2c-b-compound-profile]] — the brominated comparison compound
-- [[phenethylamine-chemistry-basics]] — overview of the 2C family chemistry
 - [[pihkal-introduction-and-methodology]] — Shulgin's research context
+## Practical Applications
+
+2C-T-21 has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+2C-T-21. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

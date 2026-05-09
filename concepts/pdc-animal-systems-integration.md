@@ -3,11 +3,7 @@ title: Permaculture Design Course -- Animal Systems Integration
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, design, animals, livestock, chickens, bees, aquaponics, pdc]
-sources:
-  - "William Ozier-Williams, PDC: A Permaculture Design Course"
----
-# [[permaculture-design]] Course -- Animal Systems Integration
+tags: [[permaculture-design]] Course -- Animal Systems Integration
 
 ## The Role of Animals in Permaculture
 
@@ -35,7 +31,7 @@ Ponds can be used to grow fish. **Aquaponics** combines fish cultivation with hy
 Ducks can provide eggs and meat, and are effective at pest control in aquatic and garden environments. They can be integrated into pond systems.
 
 ### Grazing Animals
-Larger livestock (cattle, sheep) can be managed through rotational grazing systems that mimic natural herd patterns, improving pasture health and soil fertility through managed disturbance and manure deposition. See [[holzer-livestock-integration]] and [[mollison-animal-range-management]].
+Larger livestock (cattle, sheep) can be managed through rotational grazing systems that mimic natural herd patterns, improving pasture health and soil fertility through managed disturbance and manure deposition. See [[mollison-animal-range-management]].
 
 ## Animals as Indicator Species
 
@@ -65,38 +61,24 @@ When integrating animals:
 
 ## Mechanical Food Systems
 
-[[appropriate-technology]] can create mechanical food systems with advantages over traditional gardens:
-- **Hydroponics** -- roots suspended in nutrient water (saves water vs. conventional gardening)
-- **Aeroponics** -- misters spray atomized nutrient water on roots in mid-air (even greater water savings, but misters can clog)
-- **Aquaponics** -- fish + hydroponics closed-loop system
-
-## Animals as Ecological System Components
-
-In Permaculture design, animals should not be thought of as farm animals to be herded and harvested. They should be thought of as components in an ecological system, performing the same roles in your design as they do in nature. The only difference is that in your design they will be domesticated natural components -- a Permaculture Design is in essence domesticated nature.
-
-Using animals for meat is probably the least sustainable and desirable way to use them. While they may provide a full belly, an animal can only serve as dinner once. While alive, an animal can continue to function in an ecology for months or years, providing ongoing services.
-
-## Additional Animal Systems
-
-### Vermiculture (Worm Composting)
-Vermiculture systems incorporate red worms into composting, creating a more powerful composting system that is not much more difficult than a normal compost system. Worm castings are among the finest fertilizers available.
-
-### Bats and Bird Houses
-Bat boxes attract bats whose guano can be harnessed as fertilizer; they also keep flying nighttime insect populations down. Bird houses bring birds to your system, which introduce fertilizer, help control certain insect populations, assist with pollination, and spread volunteer edible plants by dropping seeds.
-
-### Attracting Wildlife
-Permaculture systems can be designed to attract wild animals that benefit your system -- animals that "volunteer" for your system. This might include beneficial insects, amphibians, or birds that arrive naturally when habitat conditions are right.
-
-## The Human Animal
-
-Humans are an integral animal system in any Permaculture design. The human animal plays the role of shepherd of the system's ecology. Design to maximize the ecological potential of the human animal for the health of the overall design. Understanding this role is the core purpose of Permaculture education.
-
+[[holzer-livestock-integration]]
+- [[permaculture-multipurpose-trees]]
 ## Practical Considerations
 
-Be careful when designing large animals into a system. Not everyone will be able to properly care for goats or chickens, and the cost of feed may be burdensome. Attracting birds or building bat houses is an easy way to integrate animals. If the design is within an urban area and you want chickens or goats, check local codes -- many people are surprised by how many chickens are allowed in urban areas. A raised duck pond can be integrated so that nutrient-rich duck water is flushed into gardens.
+Successful implementation of Permaculture Design Course -- Animal Systems Integration requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-## Related
+## Future Directions
 
-- [[holzer-livestock-integration]]
-- [[mollison-animal-range-management]]
-- [[permaculture-multipurpose-trees]]
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

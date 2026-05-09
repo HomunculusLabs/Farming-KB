@@ -97,11 +97,7 @@ By leaving green manure crops standing in autumn:
 
 ## See Also
 
-- [[permaculture-design]]
 - [[holzer-farming-philosophy]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[polyculture-design-holzer]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
-- [[permaculture-principle-apply-self-regulation]]
 - [[holzer-green-manure-crops]]

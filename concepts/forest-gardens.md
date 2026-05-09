@@ -2,7 +2,7 @@
 
 ## Overview
 
-A forest garden (also called a [[food-forest]] or forest farming) is a multistoried edible landscape designed to mimic the structure and function of a natural woodland while producing food, fuel, fiber, medicine, and habitat for people and wildlife. Forest gardens integrate trees, shrubs, vines, herbaceous perennials, ground covers, and root crops into a cohesive, self-maintaining ecosystem. They represent the most complex expression of [[permaculture-design]] at the garden scale, combining guilds, polycultures, and ecological succession into a unified whole.
+A forest garden (also called a [[permaculture-design]] at the garden scale, combining guilds, polycultures, and ecological succession into a unified whole.
 
 The concept draws from millennia of traditional agroforestry practices, particularly the tropical home gardens of Southeast Asia, West Africa, and Latin America, where indigenous peoples have maintained highly productive multistoried food systems beneath forest canopies. Temperate-climate forest gardening is a newer field, with only a few mature examples existing in North America and Europe.
 
@@ -34,13 +34,7 @@ Smaller trees reaching 3–9 meters — dwarf and semi-dwarf fruit trees (plum, 
 Woody plants from 1–3 meters — berry bushes (blueberry, currant, gooseberry, raspberry, blackberry), flowering shrubs that attract pollinators (butterfly bush, ceanothus), and fruiting shrubs (elderberry, seaberry, goumi). The shrub layer is often the most productive layer per unit area in terms of food yield.
 
 ### 4. Herbaceous Layer
-Non-woody perennials — culinary herbs (thyme, oregano, mint, sage), medicinal herbs (comfrey, echinacea, yarrow), [[perennial-vegetables]] (asparagus, sorrel, Good King Henry, sea kale), and ornamental flowers that serve as insectary plants.
-
-### 5. Ground Cover Layer
-Low-growing plants that protect soil surface — clover, creeping thyme, strawberries, nasturtiums, vinca, and sweet woodruff. Ground covers suppress weeds, conserve moisture, moderate soil temperature, and provide habitat for ground-dwelling beneficial insects.
-
-### 6. Root Layer (Rhizosphere)
-Edible roots and tubers — potatoes (in sunny openings), [[jerusalem-artichoke]], daikon radish, oca, mashua, and yacon. Deep-rooted species like comfrey and dandelion also occupy this layer, mining minerals from deep soil.
+Non-woody perennials — culinary herbs (thyme, oregano, mint, sage), medicinal herbs (comfrey, echinacea, yarrow), [[jerusalem-artichoke]], daikon radish, oca, mashua, and yacon. Deep-rooted species like comfrey and dandelion also occupy this layer, mining minerals from deep soil.
 
 ### 7. Vine Layer
 Climbing plants that use trees and shrubs as support — hardy kiwi, grapes, passionflower, hops, climbing beans, honeysuckle, and trumpet vine. Vines exploit the vertical space between ground and canopy, producing food and flowers without requiring additional ground area.
@@ -77,47 +71,26 @@ The Bullock brothers' several-acre food forest on Orcas Island, Washington, demo
 - **Year-round harvest**: Every month brings fresh fruit or vegetables — cool-season salad greens in midwinter, berries in late spring, branch-breaking loads of fruit in summer and fall, and medlar fruits in December tasting like cinnamon-spiced pear butter.
 - **Abundance**: Twenty students grazing for three weeks in summer on plums, peaches, and berries, with tons of fruit remaining on the trees afterward.
 - **Biodiversity recovery**: Birds and animals returned that no one had seen in the area for years.
-- **Low maintenance**: Once established, the dense vegetation cover manages itself — suppressing weeds, [[building-soil]], and cycling nutrients.
-
-## Common Challenges
-
-- **Shade management**: Upper layers can cast too much shade for productive lower layers. Solution: space trees widely, use shade-tolerant species, and prune strategically.
-- **Establishment time**: Forest gardens take 5–15 years to reach full productivity. Solution: use fast-growing pioneer species (tagasaste, black locust, alder) as nurse trees while slower canopy trees mature.
-- **Competition for water**: During establishment, trees and shrubs compete for limited water. Solution: dense mulching, swales for water harvesting, and drip irrigation during the first few years.
-- **Access for harvesting**: Dense planting can make fruit hard to reach. Solution: plan access paths from the start, use dwarf varieties where appropriate, and design for seasonal access patterns.
-
-## Pioneer Species in Forest Garden Establishment
-
-Establishing a forest garden on bare ground is accelerated by planting fast-growing pioneer species that create the conditions favoring slower, longer-term trees. Pioneers are typically nitrogen-fixing, fast-growing, often short-lived, and adapted to harsh conditions. They serve as nurse trees:
-
-- **Shade provision**: Pioneers cast shade that protects tender seedlings from scorching sun and reduces soil moisture loss.
-- **Wind protection**: Dense pioneer growth shelters establishing trees from desiccating winds.
-- **Grass suppression**: Pioneers outcompete grasses that would otherwise stunt tree seedlings.
-- **Soil building**: Leaf litter from pioneers creates mulch and adds organic matter to the soil.
-- **Nitrogen fixation**: Leguminous pioneers convert atmospheric nitrogen into plant-available forms, enriching the soil for succession species.
-
-Common pioneer species for temperate forest gardens include tagasaste (tree lucerne), black locust, alder, Russian olive (Elaeagnus), Siberian pea shrub (Caragana), and various Acacia species in warmer climates. As the long-term canopy trees mature, they gradually outcompete and shade out the pioneers, which can then be coppiced for mulch, firewood, or removed entirely.
-
-This nurse-tree strategy can reduce forest garden establishment time from decades to 5–10 years by jumpstarting the successional process.
-
-## Forest Gardens at Any Scale
-
-Forest gardening principles apply regardless of total area. A small suburban yard can incorporate a mini forest garden — a few fruit trees with berry bushes, herbs, and ground covers beneath them. A balcony can hold container-grown dwarf fruit trees with trailing vines and shade-tolerant greens. Community food forests like the Beacon Food Forest in Seattle demonstrate the viability of larger collaborative projects. The essential principle — integrating multiple vertical layers of productive, mutually supportive species — remains constant.
-
-## Ecological Benefits Beyond Food
-
-Forest gardens provide ecosystem services extending well beyond their boundaries:
-
-- **Carbon sequestration**: Trees and perennials store significantly more carbon than annual crops or lawns
-- **Water purification**: Forest soils filter rainwater, reducing runoff and removing pollutants
-- **Pollinator support**: Diverse flowering plants across multiple seasons sustain pollinator populations
-- **Heat island mitigation**: Tree canopy reduces urban heat island effects through shading and transpiration
-- **Biodiversity corridors**: Connected forest gardens create stepping-stone habitat for wildlife movement
-
-## Sources
-
-- Hemenway, Toby. *Gaia's Garden: A Guide to Home-Scale Permaculture*. Chelsea Green, 2001.
-- Jacke, Dave with [[eric-toensmeier]]. *Edible Forest Gardens*. Chelsea Green, 2005.
+- **Low maintenance**: Once established, the dense vegetation cover manages itself — suppressing weeds, [[eric-toensmeier]]. *Edible Forest Gardens*. Chelsea Green, 2005.
 - Crawford, Martin. *Creating a Forest Garden*. Green Books, 2010.
 - Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari Publications, 1988.
 - Whitefield, Patrick. *How to Make a Forest Garden*. Permanent Publications, 1996.
+## Practical Considerations
+
+Successful implementation of Forest Gardens requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

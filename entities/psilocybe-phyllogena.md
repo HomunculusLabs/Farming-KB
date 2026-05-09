@@ -22,47 +22,13 @@ sources:
 
 ## Taxonomy and Classification
 
-- **Order:** [[agar]]icales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Authority:** Peck
-
-The species epithet *phyllogena* is derived from Greek *phyllon* (leaf) and *genos* (born of or on), suggesting an association with leaf litter or forest floor environments. Some mycological authorities have questioned whether *P. phyllogena* warrants species-level distinction or may represent a variant or synonym of other closely related taxa within the genus.
-
-## Morphology
-
-- **Cap (Pileus):** Small, ranging from 5 to 25 mm in diameter. Conic to convex when young, often becoming broadly convex or slightly umbonate with maturity. Surface is smooth, hygrophanous, and typically brown to reddish brown when moist, fading to a pale tan or ochraceous color upon drying.
-- **Gills (Lamellae):** Adnate to slightly sinuate. Grayish when young, developing a dark purplish brown color as spores mature. Gills are relatively close to subdistant.
-- **Stipe (Stem):** Slender and equal, 25 to 60 mm long, 1 to 2.5 mm thick. Whitish to pale brown, sometimes with a slight bluish discoloration at the base in mature specimens. Surface is smooth to finely pruinose near the apex.
-- **Spore Print:** Dark purplish brown to nearly black.
-- **Spores:** Ellipsoidal, smooth-walled, with a distinct germ pore. Spore dimensions typically fall within the range of 10 to 14 μm by 6 to 8 μm.
-- **Microscopic Features:** Cheilocystidia are ventricose to lageniform; pleurocystidia are less commonly observed but when present are similar in morphology to the cheilocystidia.
-
-## Habitat and Distribution
-
-*Psilocybe phyllogena* is a saprotrophic species found in temperate forest environments. It typically grows on:
-
-- Decaying wood debris, including twigs and small branches
-- Forest floor leaf litter, particularly in coniferous or mixed woodlands
-- Wood chips and mulch in landscaped areas near forests
-
-The species has been reported primarily from the Pacific Northwest of North America, including British Columbia, Washington, and Oregon. It fruits in autumn and early winter, often following sustained periods of rainfall. Its distribution may be wider than currently documented, as small brown Psilocybe species in forest litter are frequently overlooked.
-
-## Chemistry and Psychoactivity
-
-*P. phyllogena* was analyzed by Bigwood and Beug (1992) as part of their broad survey of psilocybin and psilocin concentrations:
-
-- **Psilocybin content:** Low, generally below 0.05% dry weight in analyzed specimens
-- **Psilocin content:** Very low or not detected
-- **Total [[tryptamine]] alkaloids:** Minimal, placing the species among the less active members of the genus
+- **Order:** [[tryptamine]] alkaloids:** Minimal, placing the species among the less active members of the genus
 
 The relatively low alkaloid content suggests that *P. phyllogena* is unlikely to produce significant psychoactive effects even in large quantities. This is consistent with its general obscurity and lack of documentation in ethnobotanical literature.
 
 ## Similar Species
 
-- **[[psilocybe-silvatica]]** — A closely related wood-inhabiting species with somewhat higher reported alkaloid content
 - **[[psilocybe-pelliculosa-entity]]** — Pacific Northwest conifer forest species, somewhat more active
-- **[[psilocybe-subaeruginosa]]** — Much more potent Australian and New Zealand species, visually similar when young
 - **[[psilocybe-montana]]** — Widespread temperate species, generally considered inactive
 
 ## Ethnobotanical and Legal Status
@@ -78,3 +44,62 @@ No established cultivation methods exist for *P. phyllogena*. As a wood-inhabiti
 - Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
 - Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
 - Stamets, P. (1996). Psilocybin Mushrooms of the World. Berkeley: Ten Speed Press.
+## Practical Considerations
+
+When working with Psilocybe phyllogena, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -112,15 +112,9 @@ Interactions with serotonergic medications (SSRIs, MAOIs) and opioid drugs are t
 
 ## See Also
 
-- [[ibogaine]]
 - [[noribogaine-entity]]
-- [[voacangine-entity]]
 - [[tabernanthe-iboga]]
-- [[voacanga-africana]]
 - [[tabernaemontana-divaricata]]
-- [[harmine]]
 - [[harmaline]]
-- [[lysergic-acid]]
 - [[ergotamine]]
-- [[tryptamine]]
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]

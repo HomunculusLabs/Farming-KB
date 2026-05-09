@@ -1,52 +1,7 @@
 ---
 title: "Soil Elements and the Periodic Table in Permaculture"
 created: 2026-04-26
-tags: [permaculture, soil, elements, chemistry]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Soil Elements and the Periodic Table in Permaculture
-
-## Overview
-
-Mollison presents a unique treatment of the periodic table of elements
-from a permaculture perspective, examining each element for its role
-in soils, plants, animals, and human health. This section (Chapter 8)
-provides practical guidance for soil management, water quality, and
-toxicity avoidance, connecting chemistry directly to design decisions.
-
-## Key Elements and Their Roles
-
-### Hydrogen (H)
-- An extremely mobile and reactive gaseous element
-- The number of free ions determines soil pH together with hydroxyl
-  (OH) radicals in alkaline areas
-- Some plants, especially algae and rushes, can transpire hydrogen
-  and break down halogenated hydrocarbons used in pesticides and
-  herbicides
-- Combined with carbon as methane (CH4), emitted by decaying humus
-  in anaerobic environments
-- A sulphurous smell in subsoils is a guide to wet-season
-  waterlogging
-
-### Boron (B)
-- A trace element necessary for brassicas and beets
-- Many detergents contain boron, causing boron pollution in gardens
-- Use soap instead, especially in drylands where citrus and grains
-  can be boron-poisoned in dry seasons
-- Borax at 160 g/ha used on beet and Brassica crops where soil
-  levels are low
-- Essential to sugar transport in plants, pollen formation, and
-  cell wall structure
-- Ideal at 0.75 ppm; 1.0 ppm can be toxic to plants
-
-### Carbon (C)
-- The basic building block of life forms with hydrogen and oxygen
-- Added to soils as humus, compost, and [[mollison-mulching-and-soil-health]]
+tags: [[mollison-mulching-and-soil-health]]
 - 10-20% humus ensures good structure in both clays and sands
 - More than 50% humus inhibits uptake of polluting heavy metals
 - Carbon in soils is about 58% of organic matter (combustible)
@@ -129,7 +84,5 @@ The element-by-element analysis leads to several key design principles:
 ## See Also
 
 - [[mollison-humus-and-organic-matter-in-soils]]
-- [[permaculture-soil-biota-and-earthworms]]
 - [[mollison-soil-formation-rates-and-erosion-costs]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[mollison-mulching-and-soil-health]]

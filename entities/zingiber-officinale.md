@@ -23,10 +23,9 @@ sources:
   - Chrubasik, S. et al. (2005). "Ginger for osteoarthritis." Arthritis & Rheumatism.
   - Phongpaichit, S. et al. (2005). "Antimicrobial activities of extracts from family Zingiberaceae." Songklanakarin J. Sci. Technol.
 ---
-
 # Zingiber officinale
 
-**Zingiber officinale** Roscoe (1807), commonly known as **ginger**, is a flowering plant in the family Zingiberaceae, cultivated worldwide for its rhizome, which is used universally as a spice, flavoring agent, and medicinal herb. One of the oldest and most extensively documented medicinal plants in human history, ginger has been used continuously for over 5,000 years in the traditional medicine systems of India (Ayurveda), China (TCM), Southeast Asia, and the Middle East. Its rhizome contains a complex mixture of volatile oils and pungent phenolic compounds responsible for its characteristic aroma, flavor, and diverse pharmacological activities.
+**Zingiber officinale** Roscoe (1807), commonly known as **ginger**, is a flowering plant in the family Zingiberaceae, cultivated worldwide for its rhizome, which is used universally as a spice, flavoring agent, and medicinal herb. One of the oldest and most extensively documented [[ingham-tannins-terpenes-phenolic-compounds]] responsible for its characteristic aroma, flavor, and diverse pharmacological activities.
 
 ## Taxonomy
 
@@ -70,7 +69,7 @@ Over 80 identified constituents, dominated by **zingiberene** (30–35%), **β-b
 ### Pungent Phenolic Compounds
 
 Responsible for ginger's pungency and most pharmacological activity:
-- **[6]-Gingerol** — most abundant; major contributor to pungency and anti-inflammatory effects
+- **[6]-Gingerol** — most abundant; major contributor to pungency and [[medicinal-mushroom-antioxidant-anti-inflammatory]] effects
 - **[8]-Gingerol** and **[10]-Gingerol** — homologs with different side chain lengths
 - **[6]-Shogaol** — dehydration product formed during drying/heating; more pungent than gingerols
 - **[6]-Paradol** — further metabolite with potent bioactivity
@@ -145,6 +144,5 @@ Ginger is generally safe at culinary and therapeutic doses (1–4 g/day dried):
 
 ## See Also
 
-- [[curcuma-longa]] — Turmeric, a closely related Zingiberaceae species
 - [[piper-nigrum-entity]] — Black pepper, combined with ginger in traditional formulations
 - [[ocimum-tenuiflorum-entity]] — Holy basil, another major Ayurvedic adaptogen

@@ -128,15 +128,9 @@ basidiocarps and may play a role in spore dispersal.
 
 ## See Also
 
-- [[entoloma-rhodopolium]]
-
 - [[amanita-phalloides]]
-- [[amanita-virosa]]
-- [[inocybe-tricolor]]
-- [[cortinarius-violaceus]]
+- [[archaeology-of-psychedelic-mushroom-use]]
 - [[chlorophyllum-molybdites]]
-- [[gyromitra-esculenta]]
 - [[tricholoma-terreum]]
-- [[conium-maculatus]]
 - [[cicuta-maculata]]
 - [[aconitum-napellus]]

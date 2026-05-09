@@ -138,13 +138,9 @@ The tree begins flowering and fruiting at approximately 5–8 years from seed.
 Yields of seed pods are variable, with mature trees producing 50–200 kg of pods per year.
 
 The species responds well to coppicing and pollarding for managed harvest of foliage and branches.
-
 ## See Also
 
-- [[moringa-oleifera]]
 - [[azadirachta-indica]]
-- [[tamarindus-indica]]
 - [[vetiveria-zizanoides]]
-- [[acacia]]
 - [[leucaena-leucocephala]]
 - [[gliricidia-sepium]]

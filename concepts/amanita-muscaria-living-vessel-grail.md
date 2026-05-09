@@ -9,44 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Living Vessel and the Grail
 
-The "living vessel" is a container -- cup, bowl, or jar -- that has been permanently colonized by [[amanita-muscaria-drying-and-preparation]] mycelium through repeated cycles of [[amanita-muscaria-resurrection-experiments]]. Once colonized, the vessel becomes a self-renewing source of sacramental material, requiring only periodic feeding with nutrient liquid to continue producing the "food of immortality" indefinitely. The author of "[[amanita-muscaria]]: Herb of Immortality" argues that this living vessel is the historical origin of the Holy Grail legend.
-
-## The Biology of the Living Vessel
-
-### How a Vessel Becomes "Living"
-
-When [[amanita-muscaria-drying-and-preparation]] pieces are extracted with a nutrient liquid (grape juice, boiled barley water, or honey water) and allowed to resurrect in a container, the [[mycelium]] does not merely grow on the mushroom pieces. It also colonizes the interior surfaces of the container itself:
-
-1. **First resurrection:** Mycelium grows primarily from the mushroom pieces
-2. **Second resurrection:** Mycelium begins to establish on container walls
-3. **Third and subsequent resurrections:** The container interior becomes thoroughly colonized
-4. **Mature living vessel:** The mycelium forms a continuous coating on the container's interior, feeding on residual nutrients absorbed into the container material
-
-### Container Materials
-
-**Terra cotta (clay):**
-- Traditional material used in ancient times
-- Absorbs nutrients, providing food reservoir for mycelium
-- Can become contaminated with other fungi or bacteria
-- Only solution for contamination is discarding the vessel
-- This may explain massive amounts of deliberately broken pottery at Eurasian archaeological sites -- breaking contaminated vessels prevented accidental reuse
-
-**Glass:**
-- Superior to terra cotta for modern use
-- Can be sterilized with heat and chemical methods
-- Non-porous, so mycelium grows only on the surface
-- Does not absorb nutrients, requiring more frequent feeding
-- The author recommends 1-gallon wide-mouth canning jars
-
-**Wood:**
-- Possible historical material
-- Absorbs nutrients like terra cotta
-- Difficult to sterilize
-- May develop contamination over time
-
-## The Living Vessel vs. The Living Bread
-
-The [[amanita-muscaria-living-bread-sacrament]] method and the living vessel method are complementary but distinct:
+The "living vessel" is a container -- cup, bowl, or jar -- that has been permanently colonized by [[amanita-muscaria-resurrection-experiments]]. Once colonized, the vessel becomes a self-renewing source of sacramental material, requiring only periodic feeding with nutrient liquid to continue producing the "food of immortality" indefinitely. The author of "[[amanita-muscaria-drying-and-preparation]] pieces are extracted with a nutrient liquid (grape juice, boiled barley water, or honey water) and allowed to resurrect in a container, the [[amanita-muscaria-living-bread-sacrament]] method and the living vessel method are complementary but distinct:
 
 | Feature | Living Vessel (Grail) | Living Bread |
 |---|---|---|

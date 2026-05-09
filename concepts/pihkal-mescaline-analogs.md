@@ -17,7 +17,6 @@ type: concept
 # Mescaline Analogs — Phenethylamine Psychedelics from PIHKAL
 
 Mescaline (3,4,5-trimethoxyphenethylamine) is the prototype
-[[phenethylamine-chemistry-basics]] psychedelic and the compound that inspired
 [[phenethylamine-chemistry-basics]]'s lifelong exploration of substituted
 phenethylamines. Extracted from peyote cactus (Lophophora
 williamsii) and used for millennia by indigenous peoples of the
@@ -133,18 +132,13 @@ psychedelic pharmacology:
 ## Relationship to Other Families
 
 The mescaline analogs serve as the structural ancestors of the 2C
-family ([[pihkal-2c-b-family]]) and the DOx compounds
-([[pihkal-doa-family]]). Removing one methoxy group from the
+family ([[pihkal-doa-family]]). Removing one methoxy group from the
 trimethoxy pattern and adding a 4-position substituent yields the 2C
 series. Adding an alpha-methyl group to a 2C compound yields the
 corresponding DOx compound. Understanding this structural genealogy is
 essential for grasping the logic of Shulgin's systematic exploration.
-
 ## See Also
 
-- [[4-prho-dmt]]
 - [[eth-ma]]
-- [[isoproscaline]]
-
 - [[pihkal-2c-b-family]] — 2C psychedelic phenethylamines
 - [[pihkal-doa-family]] — DOx amphetamine derivatives

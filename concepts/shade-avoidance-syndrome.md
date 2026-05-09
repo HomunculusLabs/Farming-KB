@@ -23,12 +23,7 @@ system detecting changes in the ratio of red to far-red light that occur when
 sunlight is filtered through or reflected from neighbouring plant canopies.
 
 Shade avoidance represents one of the most dramatic examples of adaptive
-phenotypic plasticity in the plant kingdom.
-
-## The Physics of Shade Detection
-
-Sunlight reaching the Earth's surface contains a relatively balanced spectrum,
-with red light (approximately 660 nm) being more abundant than far-red light
+phenotypic plasticity in the [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]0 nm) being more abundant than far-red light
 (approximately 730 nm). This yields a red to far-red (R:FR) ratio of
 approximately 1.1 to 1.2 in full sunlight.
 
@@ -133,18 +128,15 @@ synergistically to remodel plant architecture:
 - **Auxin**: Rapidly upregulated through the TAA1 pathway, promoting cell elongation in stems and inhibiting branching.
 - **Gibberellins**: GA levels increase, promoting DELLA degradation and synergising with auxin to drive internode elongation.
 - **Ethylene**: Production increases, contributing to stem elongation and leaf senescence.
-- **Brassinosteroids**: Steroid hormones promoting cell wall loosening and cell expansion, acting in parallel with auxin and gibberellins.
+- **Brassinos [[food-forest-understory-plants]] and gibberellins.
 
 ## Ecological Significance
 
 Shade avoidance drives competitive hierarchies and influences species composition. Shade-tolerant understory species have reduced SAS responses and invest in leaf efficiency, while shade-intolerant species exhibit strong SAS and grow rapidly to escape shade. Weeds and invasive species often display vigorous shade avoidance.
-
-## Agricultural Applications
+heritage and landrace crop varieties for small farmers al Applications
 
 Modern crop varieties bred for high planting densities have been selected for reduced SAS responses to minimise yield penalties from excessive elongation. In controlled environments, maintaining high R:FR ratios suppresses elongation, while far-red supplementation can control height without chemical growth regulators.
 
 ## See Also
 
-- [[phytochrome-red-far-red-switch-and-photoperiodism]] for the molecular basis of shade detection
-- [[phytochrome-molecular-switch-mechanism]] for Pr/Pfr interconversion details
-- [[cryptochrome-and-blue-light-photoreception]] for the complementary blue light system
+- [[julius-von-sachs-blue-light-phototropism-discovery]][[cryptochrome-and-blue-light-photoreception]] for the complementary blue light system

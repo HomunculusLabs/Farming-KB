@@ -135,10 +135,11 @@ Once you've mastered the basics, explore these directions:
 
 ## See Also
 
-- [[query-what-is-super-cropping-and-when-to-do-it]]
-- [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
+- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
+- [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
+- [[comparison-mead-vs-kvass-fermented-beverages]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 
-- [[query-how-do-i-start-making-kefir-at-home]]
+- fermented foods and beverages
 
-- [[query-how-do-i-start-farming-spirulina-at-home]]
+- query-how-do-i-start-farming-spirulina-at-home

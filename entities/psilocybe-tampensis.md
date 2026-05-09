@@ -99,18 +99,11 @@ Subsequent collections have confirmed the species' presence across a wider range
 
 ## See Also
 
-- [[psilocybe-cubensis]]
 - [[psilocybe-semilanceata]]
-- [[psilocybe-azurescens]]
 - [[psilocybe-mexicana]]
-- [[psilocybe-cyanescens]]
-- [[psilocybin-compound]]
-- [[psilocin]]
+- [[psilocybin]]
 - [[baeocystin]]
-- [[panaeolus-tropicalis]]
 - [[copelandia-cyanescens]]
-- [[panaeolus-subbalteatus]]
 - [[gymnopilus-luteofolius]]
-- [[inocybe-corydalina]]
 - [[conocybe-smithii]]
 - [[psilocybe-cyanescens]]

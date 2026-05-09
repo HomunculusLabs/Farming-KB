@@ -11,75 +11,13 @@ type: concept
 
 # Mycorrhiza-Mediated Plant Nutrient Uptake Pathways
 
-[[mycorrhizal-fungi]] fundamentally alter plant nutrient acquisition by extending
-the effective absorptive surface area of root systems and accessing nutrient
-pools unavailable to non-mycorrhizal roots. These [[mycorrhizal-mineral-weathering-nutrient-acquisition|mineral weathering]] and
-[[arbuscular-mycorrhizal-networks|network-based]] strategies are central to how fungi
-influence plant nutrition. Singh's treatment of mycorrhizal
-nutrient dynamics emphasizes the molecular and physiological mechanisms
-underlying this symbiosis, with particular attention to phosphate uptake,
-nitrogen forms, and micronutrient transport that together determine plant
-nutritional status and ecosystem-level nutrient cycling.
-
-## Phosphate Uptake via Mycorrhizal Pathways
-
-Phosphorus is the nutrient most dramatically affected by mycorrhizal
-symbiosis, as inorganic phosphate availability in most soils is extremely
-low due to high reactivity with iron, aluminum, and calcium minerals:
-
-- Mycorrhizal fungi access phosphate from soil beyond the phosphate
-  depletion zone that develops around non-mycorrhizal roots (typically
-  1 to 2 mm), with extraradical hyphae exploring soil volumes up to
-  several centimeters from the root surface
-- High-affinity phosphate transporters on fungal hyphal membranes,
-  belonging to the PHT1 family, absorb inorganic phosphate (Pi) at
-  soil solution concentrations as low as micromolar levels
-- Polyphosphate granules accumulate in vacuoles of hyphal cells,
-  providing intermediate storage and long-distance transport through
-  the hyphal network
-- At the arbuscular interface in [[arbuscular-mycorrhizal-colonization-patterns]] (AM) symbiosis,
+[[mycorrhizal-mineral-weathering-nutrient-acquisition|mineral weathering]] and
+[[arbuscular-mycorrhizal-colonization-patterns]] (AM) symbiosis,
   fungal phosphate transporters release Pi into the periarbuscular
   space, where plant phosphate transporters (also PHT1 family) absorb
   it into cortical root cells
 - The mycorrhizal phosphate uptake pathway accounts for the majority of
-  total plant [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]] in most natural ecosystems, with
-  AM-dependent plants receiving 50 to 90 percent of their phosphorus
-  through fungal pathways
-
-The plant regulates mycorrhizal phosphate uptake through transcriptional
-control of both fungal and plant phosphate transporters, with signaling
-mediated by phosphate status sensing pathways involving PHO2, SPX
-domain proteins, and microRNA399.
-
-## Nitrogen Uptake: Ammonium versus Nitrate
-
-Mycorrhizal fungi significantly enhance plant nitrogen acquisition,
-though the relative importance of different nitrogen forms varies by
-ecosystem and fungal type:
-
-- Ammonium uptake: AM fungi possess high-affinity ammonium transporters
-  (AMT family) on extraradical hyphae that absorb ammonium directly from
-  soil solution. Fungal glutamine synthetase and glutamate synthase
-  incorporate absorbed ammonium into amino acids for transport to the
-  plant. The arginine pathway is particularly important, with arginine
-  synthesized in extraradical hyphae, transported to intraradical
-  structures, and broken down to release ammonium at the plant-fungus
-  interface
-- Nitrate uptake: some AM fungal species express nitrate transporters
-  and possess nitrate reductase activity, enabling direct nitrate
-  absorption. However, nitrate uptake capacity varies widely among AMF
-  taxa, with some species relying primarily on ammonium and organic
-  nitrogen sources
-- Organic nitrogen: mycorrhizal fungi access organic nitrogen from soil
-  organic matter through extracellular protease and peptidase secretion.
-  Amino acids and small peptides absorbed by hyphae are metabolized and
-  transported to the plant as amino acids or ammonium
-- Ectomycorrhizal fungi are generally more effective at organic nitrogen
-  mobilization than AM fungi, producing proteases and oxidative enzymes
-  that release nitrogen from protein-tannin complexes and humus materials
-
-The nitrogen form preference of mycorrhizal fungi has implications for
-[[mycorrhizal-effects-on-plant-community-composition]], as species with different mycorrhizal
+  total plant [[mycorrhizal-effects-on-plant-community-composition]], as species with different mycorrhizal
 partners may access complementary nitrogen pools.
 
 ## Zinc Uptake and Transport
@@ -146,5 +84,4 @@ carbon from the plant is traded for nutrients from the fungus:
 - Plants allocate 10 to 20 percent of total photosynthetically fixed
   carbon to AM fungal partners, primarily as lipids (triacylglycerols)
   and sugars
-- The carbon cost to the plant is offset by the value of nutrients
 ## See Also

@@ -140,6 +140,5 @@ diet. But once these have been examined, they may be discarded.
 ## See Also
 
 - [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]

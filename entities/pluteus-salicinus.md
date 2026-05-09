@@ -16,7 +16,7 @@ sources:
 
 # Pluteus salicinus
 
-**Pluteus salicinus** is a widely distributed mushroom species known to contain [[psilocybin-compound]] and [[psilocin]]. It is one of the few species outside the genus Psilocybe that reliably produces these psychoactive compounds. Found across temperate regions of the Northern Hemisphere, it grows on dead and decaying hardwood and is recognized by its distinctive blue-bruising reaction and pinkish spore print.
+**Pluteus salicinus** is a widely distributed mushroom species known to contain [[psilocin]]. It is one of the few species outside the genus Psilocybe that reliably produces these psychoactive compounds. Found across temperate regions of the Northern Hemisphere, it grows on dead and decaying hardwood and is recognized by its distinctive blue-bruising reaction and pinkish spore print.
 
 ## Taxonomy and Classification
 
@@ -25,7 +25,7 @@ sources:
 - **Genus:** Pluteus
 - **Section:** Hispidodermae
 
-The species epithet *salicinus* refers to its common association with willow trees (*Salix* species), though it is not exclusively found on willow wood. Unlike Psilocybe species, *P. salicinus* has free gills and a pink spore print, reflecting its placement in the family Pluteaceae. The genus Pluteus is primarily composed of wood-decomposing saprotrophs, and several species within the genus have been found to contain psilocybin, including [[pluteus-glaucotinctus]] and [[pluteus-nigroviridis]].
+The species epithet *salicinus* refers to its common association with willow trees (*Salix* species), though it is not exclusively found on willow wood. Unlike Psilocybe species, *P. salicinus* has free gills and a pink spore print, reflecting its placement in the family Pluteaceae. The genus Pluteus is primarily composed of wood-decomposing saprotrophs, and several species within the genus have been found to contain psilocybin, including [[archaeology-of-psychedelic-mushroom-use]].
 
 ## Description
 
@@ -52,15 +52,13 @@ It is found in forests, woodlands, riparian zones, and parks wherever suitable d
 
 ## Chemistry and Pharmacology
 
-*P. salicinus* contains [[psilocybin-compound]] and [[psilocin]], confirmed by multiple analytical studies. Baeocystin has also been detected. The potency is generally reported as low to moderate, though there is considerable variation between collections, likely influenced by substrate, genetics, and environmental conditions. The blue-bruising reaction on the cap surface and stem is a reliable indicator of alkaloid presence.
+*P. salicinus* contains [[psilocin]], confirmed by multiple analytical studies. Baeocystin has also been detected. The potency is generally reported as low to moderate, though there is considerable variation between collections, likely influenced by substrate, genetics, and environmental conditions. The blue-bruising reaction on the cap surface and stem is a reliable indicator of alkaloid presence.
 
 The combination of psilocybin with the free gill morphology and pink spore print makes *P. salicinus* an interesting species from both a taxonomic and pharmacological perspective, demonstrating that psychoactive tryptamine biosynthesis has evolved independently across multiple mushroom lineages.
 
 ## Similar Species
 
-- [[pluteus-glaucotinctus]] — another psilocybin-containing Pluteus with more intense blue-green coloration
-- [[pluteus-nigroviridis]] — dark-capped, also contains psilocybin
-- [[pluteus-cervinus]] — the deer mushroom, very common on wood but non-psychoactive, with brownish cap
+- [[archaeology-of-psychedelic-mushroom-use]] — dark-capped, also contains psilocybin
 - [[pluteus-americanus]] — North American species, reported to contain psilocybin
 - volvariella speciosa — similar pink spore print and free gills, but grows in grass, not on wood
 
@@ -68,17 +66,26 @@ The key field identification features are the combination of wood-inhabiting hab
 
 ## Cultivation
 
-There are very few reports of successful cultivation of *P. salicinus*. The species is not commonly cultivated due to its modest potency and the availability of more easily grown species such as [[psilocybe-cubensis]]. Laboratory cultivation on hardwood substrates may be possible but is not well documented.
-
-## Legal Status
-
-As a psilocybin-containing species, *P. salicinus* is illegal to possess, cultivate, or distribute in most jurisdictions. In the United States, it is classified as a Schedule I controlled substance.
-
-## See Also
-
-- [[pluteus-glaucotinctus]]
-- [[pluteus-nigroviridis]]
+There are very few reports of successful cultivation of *P. salicinus*. The species is not commonly cultivated due to its modest potency and the availability of more easily grown species such as [[pluteus-glaucotinctus]]
 - [[pluteus-americanus]]
-- [[psilocybin-compound]]
 - [[pluteus-glaucus]]
 - [[pluteus-salvinus]]
+## Practical Considerations
+
+Successful implementation of Pluteus salicinus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -127,8 +127,6 @@ comparative reviews.
 
 ## See Also
 
-- [[og-kush]]
 - [[blue-dream-strain]]
-- [[granddaddy-purple]]
 - [[northern-lights]]
 - [[chemdawg]]

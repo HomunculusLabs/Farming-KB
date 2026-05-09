@@ -107,15 +107,10 @@ The distinction between *J. grandiflorum* and *J. officinale* in commercial perf
 
 ## See Also
 
-- [[rosa-damascena]]
 - [[pelargonium-graveolens]]
-- [[lavandula-angustifolia-entity]]
 - [[cymbopogon-citratus]]
-- [[vetiveria-zizanoides]]
 - [[pogostemon-cablin]]
-- [[citrus-aurantium]]
-- [[cinnamomum-verum]]
+- citrus aurantium
 - [[ocimum-sanctum]]
-- [[borago-officinalis]]
 - [[matricaria-chamomilla]]
 - [[calendula-officinalis]]

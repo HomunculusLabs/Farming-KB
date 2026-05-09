@@ -140,8 +140,6 @@ pharmacological applications.
 
 ## See Also
 
-- [[lysergic-acid]] — Carboxy derivative and parent of ergopeptines
 - [[ergotamine]] — Peptide ergot alkaloid derived from lysergic acid
-- [[ergometrine]] — Simplest ergopeptine; comparison of uterotonic potency
 - [[lsd-d-lysergic-acid-diethylamide]] — Semi-synthetic derivative with potent psychedelic activity
 - [[claviceps-purpurea]] — Ergot fungus producing agroclavine and related alkaloids

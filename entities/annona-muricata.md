@@ -118,10 +118,6 @@ Soursop nectar and juice are commercially produced in many tropical countries. T
 ## See Also
 
 - [[acacia-confusa]]
-- [[mimosa-hostilis]]
-- carica papaya
 - [[moringa-oleifera]]
-- [[passiflora-incarnata]]
 - [[camellia-sinensis-entity]]
-- [[hypericum-perforatum]]
 - [[eschscholzia-californica]]

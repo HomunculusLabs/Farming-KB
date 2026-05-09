@@ -108,7 +108,9 @@ This illustrates why calorie farming must be combined with soil-building practic
 
 ## See Also
 
-- [[biointensive-carbon-farming]]
 - [[solomon-garden-planning-calorie-production]]
-- [[jeavons-garden-planning-mini-farm-design]]
 - [[jeavons-diet-design-self-sufficiency]]
+
+## See Also
+
+- [[jeavons-carbon-farming]]

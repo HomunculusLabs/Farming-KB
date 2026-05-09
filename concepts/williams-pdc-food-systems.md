@@ -1,7 +1,7 @@
 ---
 title: "Food Systems in Permaculture Design"
 created: 2026-04-28
-tags: [permaculture, food-systems, gardening, edible-landscaping,
+tags: [[permaculture, food-systems, gardening, edible-landscaping,
        container-gardens, aquaponics, greenhouse, food-security]
 date: 2026-04-25
 updated: 2026-04-25
@@ -10,14 +10,7 @@ sources:
 type: concept
 ---
 
-# Food Systems in [[permaculture-design]]
-
-Food systems in permaculture encompass far more than traditional
-gardens; they represent the full integration of food production
-throughout every layer of a designed landscape, from the furthest
-edges of a site right up to, on, and inside of buildings. A
-permaculture food system weaves together gardens, food forests,
-orchards, animal systems, and [[appropriate-technology]] to create
+# Food Systems in [[appropriate-technology]] to create
 abundant, resilient sources of balanced nutrition.
 
 ## The Untapped Potential of Urban Food Production
@@ -84,9 +77,7 @@ Appropriate Technology can be used to create mechanical food systems
 that have many advantages over gardens. These systems allow crops to
 be better protected against critters and diseases, and you can
 control the environment better. Some mechanical food systems can
-themselves be [[composting-systems]]. It can also be easier to capture
-runoff water and reuse it. Examples include hydroponics systems,
-aeroponics, and [[aquaponics]].
+themselves be [[aquaponics]].
 
 Hydroponics suspend the roots of plants in water without soil.
 Aeroponics systems use misters to spray atomized, nutrient-rich water

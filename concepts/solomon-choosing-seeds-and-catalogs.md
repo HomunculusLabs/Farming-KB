@@ -9,73 +9,9 @@ sources:
 ---
 # Solomon on Choosing Seed Catalogs and Varieties
 
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
-
-## The Seed Company Problem
-
-Solomon writes from direct experience: he once owned Territorial Seed Company and understands the seed business from the inside. He identifies several problems that gardeners face when selecting seeds:
-
-### Nursery Seedlings Are Often Inferior
-
-Nursery seedlings are bred to look good at four weeks old in a plastic tray -- this is profitable for the nursery but doesn't predict garden performance. Many popular varieties sold as transplants were bred for commercial field production, not home garden conditions. The variety selected may not even be what is marked on the label.
-
-Some vegetables simply should not be transplanted at all. Beets, carrots, corn, radishes, beans, peas, and many root crops resent transplanting. The nursery can sell a variety bred to look good at four weeks old, but it may not perform well in the garden. Worse, some seedlings sold as "tomato" or "pepper" may actually be a similar but different variety substituted because the labeled variety was out of stock.
-
-### What to Buy as Transplants
-
-Solomon is generally skeptical of buying transplants. If you do, be selective. Some crops genuinely benefit from transplanting (tomatoes, peppers, eggplant, brassicas, onions). Others should always be direct-seeded. Lettuce can go either way but is generally better direct-seeded for the home gardener.
-
-## Choosing a Seed Company
-
-### Regional Adaptation Is Critical
-
-The most important factor in variety selection is adaptation to your local climate and season length. No book can tell you precisely which varieties work best in your specific district. Solomon recommends:
-
-1. Consult your local agricultural extension office for variety trial data.
-2. Ask experienced local gardeners and farmers.
-3. Look for seed companies that test varieties in conditions similar to yours.
-4. A seed company whose varieties all pass the test of reliable short-season maturity in their own trials is worth supporting.
-
-### Johnny's Selected Seeds
-
-Solomon specifically mentions Johnny's Selected Seeds as a company that sells an heirloom Jarrahdale pumpkin from Western Australia and other quality varieties. He respects companies that maintain their own trial programs.
-
-### Avoid Fads
-
-Gardening magazines, garden centers, and seed catalogs all promote the idea that appealing merchandise is useful and essential. Solomon warns against being drawn into growing difficult, fashionable vegetables that don't contribute meaningfully to self-sufficiency. Focus on crops that are easy to grow, nutritious, and well-suited to your conditions.
-
-## The Progressive Thinning Method
-
-Solomon details a specific technique for growing from seed that maximizes success:
-
-1. Sow seeds thickly in drills or stations
-2. Immediately after emergence, thin the densest clusters so survivors don't quite touch
-3. When seedlings lean away from each other (light competition), thin again so they don't quite touch
-4. A week or ten days later, when touching again, remove every other plant
-5. When touching a third time, cut every other one again -- these are salad material
-6. The survivors are now properly spaced to reach maturity
-
-This progressive thinning provides salad material at every stage and ensures the final plants are the strongest individuals.
-
-## Sowing Depth Guide
-
-Solomon provides clear depth guidelines:
-
-- **Tiny seeds** (celery, basil, sorrel, most herbs): Barely covered, pressed into soil cracks, covered with fine compost
-- **Ordinary small seeds** (brassicas, carrots, parsley, fennel): About half an inch (1.25 cm)
-- **Larger small seeds** (spinach, beet, chard, radish): About three-quarters of an inch (2 cm)
-- **Large seeds** (corn, beans, peas, cucurbits): About one inch (2.5 cm) or placed in hills
-
-In all cases, press the soil down after sowing to restore capillarity. Fine seeds should only be sown outdoors in mild temperatures, or the rows must be shaded temporarily until germination.
-
-## Related
-
-- [[solomon-gardening-when-it-counts-index]]
-- [[seed-saving-vegetables]]
+From [[solomon-gardening-when-it-counts-index]]
 - [[seed-saving-techniques]]
-- [[transplanting-techniques-solomon]]
 - [[complete-organic-fertilizer-recipes]]
-- [[home-garden-seed-saving]]
 - [[solomon-growing-beans-and-peas]]
 - [[seed-quality-and-selection-solomon]]
 
@@ -120,3 +56,62 @@ Solomon emphasizes the importance of selecting varieties adapted to local growin
 While the primary focus of Solomon's chapter is seed selection from catalogs, he also encourages gardeners to develop seed-saving skills. Saving seed from open-pollinated varieties allows gardeners to select for plants best adapted to their specific conditions, creating locally adapted populations over successive generations. Basic seed saving techniques vary by crop family: dry-seeded crops (beans, peas, lettuce, many herbs) require only harvesting mature seed and drying it properly; wet-seeded crops (tomatoes, cucumbers, squash) require fermentation or washing to remove gelatinous coatings that inhibit germination. Biennial crops (carrots, beets, onions, cabbage) require overwintering to produce seed in their second year. Solomon recommends beginning with easy-to-save species like beans, lettuce, and peas, then gradually expanding to more challenging crops as skills develop.
 
 ## Related Concepts
+## Practical Considerations
+
+When working with Solomon on Choosing Seed Catalogs and Varieties, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

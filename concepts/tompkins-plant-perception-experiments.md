@@ -136,14 +136,8 @@ males.
 
 ## See Also
 
-- [[tompkins-plant-music-sound]]
-
 - [[tompkins-albert-abrams-electronic-diagnosis]]
-- [[tompkins-electroculture-plant-growth]]
 - [[tompkins-soil-health-humus-connection]]
-- [[tompkins-luther-burbank-intuitive-breeding]]
-
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-perception]]
 - [[bacterial-endophytes-plant-roots]]
 - [[plant-fungal-signaling-mycorrhiza]]

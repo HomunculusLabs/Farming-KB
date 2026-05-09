@@ -77,15 +77,8 @@ A.B. Frank's observations and hypotheses about mycorrhizae in 1885 flew in the f
 
 ## Ancient Origins
 
-Fossil evidence (Remy et al. 1994) and DNA sequence analysis (Simon et al. 1993) suggest that [[arbuscular-mycorrhizal-network-visualization-anastomosis]] appeared 400-460 million years ago, when the first plants were colonizing land. The discovery of arbuscules in Aglaophyton major, an Early Devonian land plant, provides unequivocal evidence that mycorrhizae were established more than 400 million years ago.
-
-## See Also
-
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
-- [[endophytic-fungi-in-grasslands]]
+Fossil evidence (Remy et al. 1994) and DNA sequence analysis (Simon et al. 1993) suggest that [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
 - [[actinorhizal-symbiosis-frankia]]
-- [[ectomycorrhizal-mushroom-fruiting-ecology]]
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]

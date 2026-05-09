@@ -81,7 +81,7 @@ While not technically root crops, several nut-producing trees serve the same cal
 
 ## Design Considerations
 
-- Wetland root crops can be integrated into dam edges, [[permaculture-designers-manual-greywater-systems]], and constructed wetlands
+- Wetland root crops can be integrated into dam edges, [[graywater-systems]], and constructed wetlands
 - Multiple root crop species at different water depths maximise pond edge productivity
 - Rotation systems (e.g., water chestnut with rice) improve soil and yield diversity
 - Root crops grown in waterlogged areas expand productive land beyond what conventional crops can use
@@ -110,14 +110,9 @@ While not technically root crops, several nut-producing trees serve the same cal
 
 ## See Also
 
-- [[query-what-are-the-best-ferns-for-a-shade-garden-or-food-forest]]
-
 - [[pachyrhizus-erosus]]
-
-- [[lathyrus-tuberosus]]
 
 - [[permaculture-plants-insectary-bee-forage]]
 
-- [[perennial-vegetables]]
 - [[permaculture-design]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

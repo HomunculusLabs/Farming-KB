@@ -76,12 +76,8 @@ JADAM strongly urges a break from energy-intensive agriculture. The cost of oil 
 
 ## See Also
 
-- [[jadam-ultra-low-cost-agriculture]] -- the ultra-low-cost system
 - [[jadam-vision-four-aims]] -- detailed challenge analysis
-- [[jadam-vision-four-aims]] -- the SESE framework
 - [[jadam-farm-economics-market-viability]] -- farm economics
-- [[jadam-natural-pesticide-jnp]] -- self-made pesticides
 - [[jadam-making-organic-farming-inputs]] -- input self-sufficiency
-- [[jadam-vision-ultra-low-cost-philosophy]]
 - [[building-soil-fertility-long-term]]
 - [[natural-farming-soil-building]]

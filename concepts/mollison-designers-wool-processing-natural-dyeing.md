@@ -133,8 +133,6 @@ dramatically increase value per kilogram of raw fleece:
 - mollison designers value adding crafts
 - mollison designers local economies
 - mollison designers zone planning
-- [[mollison-designers-wool-insulation-and-natural-textiles]]
 - [[mollison-designers-food-processing-preservation-storage]]
-- [[mollison-designers-seed-dispersal-and-natural-regeneration]]
 - [[mollison-designers-lime-and-cement-natural-building]]
 - [[mollison-designers-neem-tree-as-natural-insecticide]]

@@ -85,17 +85,10 @@ accepted within alternative and integrative health communities.
 
 See Also:
 
-[[microdosing-guide]]
-
 [[psychedelic-microdosing]]
-
-[[psilocybin-mushroom-potency-and-dosage-guide]]
 
 [[psilocybin-compound-profile]]
 
-[[psilocybin-neuroscience]]
-
 [[psychedelic-dose-response]]
 
-[[psilocybin-psychological-mechanisms]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+[[hallucinogenic-mushroom-health-risks-and-harm-reduction]]

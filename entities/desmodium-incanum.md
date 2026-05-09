@@ -107,18 +107,10 @@ Root exudates from Desmodium species can enhance mycorrhizal colonization of nei
 
 ## See Also
 
-- [[desmodium-canadense]]
-
 - [[desmodium-uncinatum]] — silverleaf desmodium, push-pull technology species
-- [[canavalia-ensiformis]] — jack bean, tropical cover crop legume
 - [[lablab-purpureus]] — hyacinth bean, tropical forage legume
-- [[cajanus-cajan]] — pigeon pea, perennial grain legume
 - [[mucuna-pruriens]] — velvet bean, cover crop and medicinal legume
-- [[medicago-sativa]] — alfalfa, temperate forage legume comparison
 - [[pisum-sativum]] — field pea, cool-season legume
-- [[glycine-max]] — soybean, major grain legume
-- [[xylaria-polymorpha]] — fungal genus found in tropical pastures
-- [[hypoxylon-fuscum]] — endophytic Xylariaceae on tropical legumes
+- [[xylaria-polymorpha-entity]] — fungal genus found in tropical pastures
 - [[ophiocordyceps-unilateralis]] — entomopathogen affecting tropical insects
-- [[metarhizium-anisopliae]] — soil fungus in tropical agroecosystems
 - [[natural-farming-guide-biological-pest-control-predators]] — IPM strategies for pasture pest management

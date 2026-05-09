@@ -114,14 +114,9 @@ communities.
 
 ## See Also
 
-- [[allegro-amanita-muscaria-properties-and-pharmacology]]
 - [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[allegro-the-sacred-mushroom-amanita-identification]]
-
 - [[amanita-muscaria-cultural-history]] - congeneric species, similarly poor nematode food source
-- [[paxillus-involutus]] - ectomycorrhizal species, poor nematode food source
 - [[laccaria-laccata]] - ectomycorrhizal species, best nematode food source
 - suillus intermedius - ectomycorrhizal species stimulated by pine phenolics
-- [[cenococcum-geophilum]] - ectomycorrhizal species with moderate nematode food value
 - [[suillus-luteus]] - ectomycorrhizal species with heavy metal tolerance
 - marasmius androsaceus - saprotrophic fungus highly preferred by collembola

@@ -102,20 +102,12 @@ The species is also gaining recognition in the broader gourmet mushroom market. 
 
 ## See Also
 
-- [[sparassis-crispa]]
 - [[trametes-orientalis]]
-- [[trametes-versicolor]]
 - [[hericium-erinaceus]]
-- [[hericium-coralloides]]
 - [[grifola-frondosa]]
-- [[polyporus-umbellatus]]
 - [[sanghuangporus-linteus]]
-- [[sanghuangporus-vaninii]]
 - [[gloeophyllum-sepiarium]]
-- [[gloeophyllum-trabeum]]
 - [[fomes-fomentarius]]
-- [[hericium-americanum]]
 - [[lentinula-edodes]]
-- [[pleurotus-ostreatus]]
 - [[trametes-hirsuta]]
-- [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]

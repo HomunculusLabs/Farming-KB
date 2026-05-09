@@ -51,49 +51,8 @@ green manure crops. All vegetation is shredded to a fine material. The fact that
 this kills everything from the tiniest creatures up to ladybird-sized creatures
 is not considered. The shredded material dries out quickly and is blown or washed
 away, leaving the soil bare and defenceless against erosion.
-[[composting-humus-building-holzer]] | [[green-manure-crops]] |
-[[holzer-raised-bed-design-principles]] | [[cover-cropping-guide]] |
-[[sepp-holzer-method]]
-## Seed Mixtures for Different Conditions
-Holzer tailors his green manure seed mixtures to the specific conditions of each
-site. For poor, dry, sandy soils, he favors deep-rooted legumes like lupins
-(Lupinus spp.) and sweet clover (Melilotus spp.) that can access water and
-minerals far below the surface while fixing atmospheric nitrogen. For heavy clay
-soils, plants with fibrous root systems like daikon radish (Raphanus sativus var.
-longipinnatus) and buckwheat (Fagopyrum esculentum) break up compaction and
-improve drainage as their roots decompose. For nitrogen-depleted soils, a high
-proportion of legumes — vetch (Vicia spp.), field peas (Pisum sativum), crimson
-clover (Trifolium incarnatum), and lucerne (Medicago sativa) — restores
-fertility without imported fertilizers. For erosion-prone slopes, fast-growing
-species like mustard (Sinapis alba) and phacelia (Phacelia tanacetifolia) provide
-rapid ground cover while deeper-rooted species establish. The key principle is
-that diversity in the seed mixture creates diversity in root architecture,
-nutrient acquisition strategies, and ecological functions, producing a more
-stable and productive system than any single species could achieve alone.
-## Seasonal Timing of Green Manure Crops
-Timing is critical for effective green manure management. Spring-sown green
-manures such as crimson clover, buckwheat, and field mustard take advantage of
-warming soil and increasing day length to produce rapid biomass before summer
-main crops are planted. Summer-sown crops like cowpeas (Vigna unguiculata),
-sunnhemp (Crotalaria juncea), and soybeans fix nitrogen during the peak growing
-season and can be terminated before autumn planting. Autumn-sown winter-hardy
-species such as winter rye (Secale cereale), hairy vetch (Vicia villosa), and
-Austrian winter peas (Pisum sativum subsp. arvense) provide ground cover through
-the cold months, prevent winter erosion, and produce a burst of growth in early
-spring that can be incorporated before the main growing season. In Holzer's
-no-cut method, timing is simpler — the green manure plants are allowed to
-complete their full life cycle, flower, set seed, and die back naturally, creating
-a self-seeding permanent cover that requires no management beyond the initial
-sowing.
-## Integration with Livestock
-Holzer integrates green manure crops with his livestock systems to multiply the
-benefits. Pigs turned onto green manure areas root through the soil, consuming
-tubers (Jerusalem artichokes, turnips, potatoes) and above-ground biomass while
-simultaneously tilling, aerating, and fertilizing the soil with their manure.
-This integration replaces mechanical tillage with animal labor, producing better
-soil structure and higher fertility than machine cultivation. Chickens and ducks
-follow the pigs or graze directly on green manure areas, eating weed seeds,
-insect pests, and residual biomass while adding their own manure. The
+[[green-manure-crops]] |
+[[cover-cropping-guide]] |
 [[holzer-pig-keeping-paddock-system]] allows controlled grazing —
 animals are moved frequently between areas, preventing overgrazing while ensuring
 even distribution of manure and soil disturbance. This multi-species integration
@@ -133,10 +92,4 @@ cultivars. Holzer's approach demonstrates that soil improvement and food
 production are not separate activities but can be integrated into a single,
 multi-functional system.
 ## See Also
-- [[holzer-pig-keeping-paddock-system]]
-Related topics: [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]],
-[[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]],
-[[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]],
-[[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]],
-[[holzer-assessing-the-land]], [[holzer-terrace-construction-guide]],
-[[composting-humus-building-holzer]], [[cover-cropping-guide]], [[green-manure-crops]]
+- [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-raised-bed-design-principles]], [[holzer-microclimates-permaculture]], [[holzer-assessing-the-land]], [[composting-humus-building-holzer]], [[green-manure-crops]]

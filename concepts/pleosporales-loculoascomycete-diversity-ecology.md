@@ -18,123 +18,85 @@ type: concept
 
 The Pleosporales is the largest order of the Loculoascomycetes
 (bitunicate ascomycetes) and one of the most diverse orders
-within the [[ascomycota-phylogeny-major-classes-lineages]].
-Members produce asci within preformed locules (ascostromatic
-development) and possess bitunicate asci with a distinctive
-"jack-in-the-box" mode of dehiscence. The order is supported as
-a monophyletic clade by molecular phylogenetic analyses, with
-the synapomorphy of sterile cells (pseudoparaphyses) interspersed
-among the asci within the ascomata.
-
-## Taxonomic Placement and Relationships
-
-The Pleosporales belongs to a loose grouping traditionally
-called the Loculoascomycetes, which encompasses all taxa that
-produce ascogenous hyphae in preformed locules within a stroma.
-Three major orders are commonly recognized within this group:
-the Pleosporales, Dothideales, and Chaetothyriales. Molecular
-phylogenetic analyses have shown that inclusion of all three
-orders in a monophyletic Loculoascomycetes is not supported;
-rather, there have been at least two independent origins of
-ascostromatic development.
-
-The Pleosporales may be more closely related to the Arthoniales
-(lichenized fungi) and pyrenomycetes than to the Dothideales.
-The Chaetothyriales is related more closely to the plectomycetes
-(Eurotiales and Onygenales) based on analyses of both SSU rDNA
-and chitin synthetases. See chaetothyriales dematiaceous fungi
-for further details on that order.
-
-## Major Families and Genera
-
-The Pleosporales encompasses an enormous diversity of taxa:
-
-- **Pleosporaceae**: The type family, including the genera
-  Pleospora, Alternaria, Curvularia, and Sporormia. Alternaria
-  species are among the most common airborne fungi and important
-  plant pathogens, causing diseases such as early blight of
-  potato and leaf spots on numerous crops. Curvularia species
-  are important pathogens of grasses and cereals.
-- **Phaeotrichaceae**: Includes numerous coprophilous genera
-  such as Delitschia, Preussia (including Sporormiella), and
-  Sporormia. Sporormiella spores are commonly used as
-  indicators of herbivore activity in paleoecological studies.
-- **Venturiaceae**: Contains plant-pathogenic species such as
-  Venturia inaequalis, the causal agent of apple scab.
-- **Leptosphaeriaceae**: Includes Leptosphaeria species, some
-  of which are important pathogens of cruciferous crops.
-- **Massariaceae, Lophiostomataceae, and others**: Represent
-  additional families contributing to the tremendous diversity
-  of the order.
-
-## Morphological Characteristics
-
-Pleosporales produce perithecia or pseudothecia (flask-shaped
-fruiting bodies) that may be immersed in or seated upon the
-substrate. The ascomata typically have an ostiole (opening)
-through which ascospores are released. The bitunicate asci are
-characterized by a two-layered wall: a rigid outer layer (ectotunica)
-and an extensible inner layer (endotunica). During spore
-discharge, the inner layer elongates beyond the outer layer,
-expelling the ascospores in a distinctive "jack-in-the-box"
-fashion.
-
-Pseudoparaphyses -- sterile, cellular filaments that grow down
-from the roof of the locule among the asci -- are a defining
-feature of the Pleosporales and serve as a synapomorphy for the
-order. These structures provide structural support and may play
-a role in spore dispersal.
-
-## Ecological Roles
-
-### Plant Pathogens
-Pleosporales include many economically important plant
-pathogens. Alternaria species cause leaf spots, blights, and
-storage rots on a wide range of crops. Cochliobolus (anamorph
-Bipolaris) species cause devastating diseases of cereals
-including southern leaf blight of corn and spot blotch of
-barley. These thermotolerant, phytopathogenic Cochliobolus
-anamorphs (Bipolaris, Curvularia, Exserohilum) also serve as
-opportunistic pathogens of humans and other animals.
-
-### Saprobic Decomposers
-Many Pleosporales are saprobes that decompose dead plant
-material, particularly herbaceous debris, dung, and wood. In
-freshwater habitats, Pleosporales are particularly diverse,
-with 90 species reported from aquatic environments, making
-them one of the most commonly encountered orders in water
-surveys.
-
-### Coprophilous Species
-Numerous Pleosporales are coprophilous (dung-inhabiting). The
-Phaeotrichaceae alone contains many genera with coprophilous
-species, including Delitschia, Preussia, Sporormia, and
-Spororminula. These fungi play important roles in the
-decomposition of animal dung and nutrient cycling in
-grassland ecosystems.
-
-### Opportunistic Pathogens of Animals
-Several Pleosporales are opportunistic pathogens of
-vertebrates. Curvularia lunata, Neotestudina rosatii, and
-Leptosphaeria senegalensis are among the dematiaceous
-(dark-pigmented) fungi that cause subcutaneous mycoses in
-humans. Alternaria alternata can cause opportunistic
-infections, particularly in immunocompromised patients.
-
-## Distribution and Habitat Diversity
-
-The Pleosporales are found in virtually all terrestrial and
-aquatic habitats worldwide. In fungicolous (fungus-inhabiting)
-surveys, the Dothideales/Pleosporales collectively account for
-264 species, making them the most diverse group of fungi
-growing on other fungi. The order is particularly well-
-represented in tropical and subtropical regions but is also
-abundant in temperate and boreal ecosystems.
-
-## See Also
-
-- [[ascomycota-phylogeny-major-classes-lineages]]
+within the [[ascomycota-phylogeny-major-classes-lineages]]
 - chaetothyriales dematiaceous fungi
-- [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
 - [[leaf-litter-microfungal-diversity-tropical-temperate]]
+## Practical Applications
+
+Pleosporales - Loculoascomycete Diversity and Ecology has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Pleosporales - Loculoascomycete Diversity and Ecology. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

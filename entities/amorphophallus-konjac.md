@@ -101,20 +101,12 @@ Industrial applications include use as a film-forming agent in biodegradable pac
 
 ## See Also
 
-- [[colocasia-esculenta]]
 - [[xanthosoma-sagittifolium]]
-- [[dioscorea-alata]]
 - [[dioscorea-rotundata]]
-- [[pachyrhizus-erosus]]
 - [[moringa-oleifera]]
-- [[glycine-max]]
 - [[cajanus-cajan]]
-- [[arracacia-xanthorrhiza]]
 - [[smallanthus-sonchifolius]]
-- [[lablab-purpureus]]
 - [[pisum-sativum]]
-- [[vicia-faba]]
 - [[lupinus-albus]]
-- [[tamarindus-indica]]
 - [[canavalia-ensiformis]]
 - [[ceratonia-siliqua]]

@@ -95,13 +95,9 @@ Climbing varieties (Alderman, Tall Telephone, original Sugar Snap) allow more ex
 
 ## Related Concepts
 
-- [[weed-management-strategies]]
 - [[david-holmgren]]
-- [[solomon-complete-organic-fertilizer-guide]]
 - [[garden-nutrition-and-diet]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter on legumes
-- [[gaias-garden-cover-crops-soil-building]]
 - [[solomon-cover-crops-green-manure-guide]]
-- [[humus-formation-and-soil-organic-matter]]
 - [[holzer-green-manure-and-soil-building-plants]]

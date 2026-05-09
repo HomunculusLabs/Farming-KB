@@ -134,15 +134,8 @@ Mental-emotional states directly affect the immune system. Mental-emotional stat
 - Coordinate with rheumatologists and other specialists managing autoimmune conditions
 - CBD's immunomodulatory effects are generally more subtle than pharmaceutical immunosuppressants, but interactions are possible
 
-See also: [[cannabis-anti-inflammatory-applications]], doi entity, doi entity, [[cannabis-endocannabinoid-system]], [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-
-## Related
-
-- [[cannabis-musculoskeletal-conditions]]
-- [[cannabis-skin-conditions]]
+See also: [[cannabis-endocannabinoid-system]], [[cannabis-musculoskeletal-conditions]]
 - [[cannabis-for-inflammatory-conditions]]
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-neurological-conditions]]
-- [[cannabis-for-gastrointestinal-conditions]]
 - [[cannabis-chronic-pain-management]]
 - [[cannabis-immune-modulation]]

@@ -48,30 +48,7 @@ found in well water as well as removing chlorine from tap water.
 
 For growers using well water or municipal water with chlorine, hydrogen
 peroxide provides a way to purify the water supply before it reaches
-plants. See [[cannabis-advanced-growing-techniques]] for comprehensive
-water treatment guidance.
-
-## Hydroponic Applications
-
-Hydrogen peroxide is especially useful in hydroponics, where
-overwatering can be a problem. It prevents oxygen depletion in the
-water around the roots, leading to better root growth. In recirculating
-hydroponic systems, hydrogen peroxide helps maintain a clean reservoir
-by preventing the buildup of algae, pathogens, and organic sludge.
-
-When roots are deprived of oxygen in stagnant hydroponic solution, they
-become susceptible to root rot and other diseases. Adding hydrogen
-peroxide to the nutrient solution provides an immediate oxygen boost
-and kills anaerobic pathogens that thrive in low-oxygen conditions.
-
-## Seed Sterilization
-
-A solution of hydrogen peroxide can be used to sterilize seeds,
-resulting in better germination rates. Seed-borne pathogens on the
-seed coat can be killed without harming the embryo inside. This is
-particularly useful for older seeds or seeds that have been stored in
-less-than-ideal conditions. For detailed germination procedures, see
-[[cervantes-seed-germination]].
+plants. See [[cervantes-seed-germination]].
 
 ## Root Zone Treatment
 
@@ -114,33 +91,9 @@ One important consideration is that hydrogen peroxide does not
 distinguish between harmful and beneficial microorganisms. When
 applied to the root zone, it will kill pathogenic fungi but also
 beneficial organisms like mycorrhizae, trichoderma, and beneficial
-bacteria. See [[cervantes-trichoderma-beneficial-fungi]] for
-information on beneficial soil organisms.
+bacteria. See [[hydrogen-peroxide-tissue-culture-wild-polypores]] Concepts
 
-For this reason, avoid routine hydrogen peroxide use in living soil
-or organic systems that depend on a healthy microbiome. Reserve
-hydrogen peroxide for targeted interventions against specific
-pathogen outbreaks, and re-inoculate with beneficial organisms after
-treatment.
-
-## Hydrogen Peroxide in System Cleaning
-
-Between grows, hydrogen peroxide is excellent for cleaning hydroponic
-systems, reservoirs, and growing equipment. A 3% solution removes
-organic buildup and kills residual pathogens. This ensures a clean
-start for the next crop cycle and prevents carryover of diseases
-like pythium. Cleaning with hydrogen peroxide is especially important
-in recirculating systems.
-
-## Related
-
-- [[hydrogen-peroxide-tissue-culture-wild-polypores]] Concepts
-
-- [[cannabis-advanced-growing-techniques]] - comprehensive water
-  treatment
 - [[cervantes-seed-germination]] - seed sterilization and germination
-- [[cervantes-hydroponic-systems]] - hydroponic applications
-- [[cannabis-advanced-growing-techniques]] - water culture and oxygenation
-- [[cervantes-pest-disease]] - disease prevention and treatment
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water culture and oxygenation
 - [[cervantes-trichoderma-beneficial-fungi]] - beneficial organisms
   affected by H2O2

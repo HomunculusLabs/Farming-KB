@@ -7,9 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# Panaeolus Foenisecii: The Mower's [[psilocybin-mushroom-taxonomy]] Debate
-
-Panaeolus foenisecii (also known as [[panaeolina-foenisecii]]), commonly called the "mower's mushroom" or "haymaker's mushroom," is one of the most common mushrooms in the world -- yet its taxonomic status and psychoactive properties have been the subject of prolonged scientific debate. Found in virtually every lawn and pasture, this ubiquitous little mushroom sits at the intersection of several important questions in mycology.
+# Panaeolus Foenisecii: The Mower's [[panaeolina-foenisecii]]), commonly called the "mower's mushroom" or "haymaker's mushroom," is one of the most common mushrooms in the world -- yet its taxonomic status and psychoactive properties have been the subject of prolonged scientific debate. Found in virtually every lawn and pasture, this ubiquitous little mushroom sits at the intersection of several important questions in mycology.
 
 ## The Species
 
@@ -20,55 +18,7 @@ Panaeolus foenisecii is a small, inconspicuous mushroom:
 - **Cap:** 1-3 cm diameter, conic to campanulate, hygrophanous, brown when moist fading to tan when dry
 - **Gills:** Mottled (mixed colors due to simultaneous maturation of spores -- the defining feature of the Panaeolus genus)
 - **Stem:** Thin, fragile, 3-8 cm tall
-- **[[spore-print-collection]]:** Dark brown to black
-- **Habitat:** Extremely common in lawns, pastures, and grasslands worldwide
-- **Season:** Spring through autumn in temperate regions
-
-### Ubiquity
-
-P. foenisecii is one of the most widely distributed mushrooms on Earth:
-
-- Found on every continent except Antarctica
-- Present in virtually every temperate lawn and pasture
-- One of the first mushrooms children encounter
-- Often the only mushroom city-dwellers regularly see
-
-## The Taxonomy Debate
-
-### Panaeolus vs. Panaeolina
-
-The primary taxonomic debate concerns whether this species belongs in the genus Panaeolus or should be placed in a separate genus Panaeolina:
-
-**Arguments for Panaeolina:**
-- The spores are distinctly different from other Panaeolus species
-- The spores have a different ornamentation pattern
-- Some mycologists argue the morphological differences justify generic separation
-
-**Arguments for Panaeolus:**
-- The mottled gill pattern is characteristic of Panaeolus
-- The overall morphology is consistent with the genus
-- Genetic evidence is mixed
-- Maintaining it in Panaeolus simplifies classification
-
-### The Naming History
-
-The species has had a complex nomenclatural history:
-
-1. **Agaricus foenisecii** Persoon (1800) -- Original description
-2. **Panaeolus foenisecii** (Persoon) -- Transfer to Panaeolus
-3. **Panaeolina foenisecii** (Persoon) Maire -- Transfer to Panaeolina
-4. **Psathyrella foenisecii** -- Briefly placed in Psathyrella
-
-The current consensus favors Panaeolus foenisecii, though Panaeolina foenisecii remains in common use.
-
-## The Psychoactive Question
-
-### The Controversy
-
-Whether P. foenisecii contains psychoactive compounds has been debated for decades:
-
-**Evidence FOR psychoactivity:**
-- Early analyses reportedly detected trace amounts of [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
+- **[[query-what-is-the-difference-between-psilocybin-and-psilocin]]
 - Some recreational users report mild effects from large quantities
 - Its close relationship to definitively psychoactive Panaeolus species (P. cyanescens, P. subbalteatus) makes it plausible
 

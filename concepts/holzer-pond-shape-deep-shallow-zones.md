@@ -76,13 +76,10 @@ amphibians, and waterfowl each find their preferred niche.
 The area surrounding the pond should be planted with a diverse mix of trees,
 shrubs, and ground cover. Trees provide shade that moderates water
 temperature. Their roots help stabilise banks. Leaf fall adds organic matter
-to the water. The pond becomes the centrepiece of a [[holzer-water-landscapes]]
-system that supports the entire [[holzer-permaculture-landscape-design]].
+to the water. The pond becomes the centrepiece of a [[holzer-permaculture-landscape-design]].
 
 ## Related Topics
 
-- [[holzer-pond-construction-and-aquaculture]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
-- [[holzer-pond-lake-design]]
+- [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[holzer-aquaculture-fish-farming]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

@@ -107,10 +107,8 @@ Peak plasma concentrations following oral dosing are typically achieved within 3
 
 ## See Also
 
-- [[myrcene]]
 - [[linalool]]
-- [[caryophyllene-oxide]]
-- [[beta-caryophyllene]]
+- caryophyllene-oxide
 - [[limonene]]
 - [[cinnamomum-verum]]
 

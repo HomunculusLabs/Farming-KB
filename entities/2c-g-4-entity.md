@@ -94,11 +94,7 @@ Shulgin notes: "They will both be active compounds."
 
 ## Related Compounds
 
-- [[2c-g-entity]] -- 2,5-dimethoxy-3,4-dimethylphenethylamine
-
 - [[2c-g-3-entity]] -- the trimethylene bridge analogue
-
-- [[2c-g-5-entity]] -- the benzonorbornane analogue
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 - [[2c-g-n-entity]]

@@ -140,11 +140,8 @@ moderator.
 ## Connection to Farm Fertility
 
 The wood preserve functions as the fertility engine of the natural farm. As trees shed leaves, branches fall, and roots penetrate deep into the subsoil, the forest continuously generates organic matter. Rainwater carries dissolved nutrients and humic acids from the forest floor downhill into the farm fields and orchards below. This natural nutrient transport system means the farmer does not need to import fertilizers or prepare compost. Fukuoka's experience showed that when the entire farm ecosystem is designed as an integrated whole, the soil becomes progressively more fertile each year without any human intervention. The wood preserve is not an optional aesthetic feature but a functional necessity for truly sustainable, input-free agriculture.
-
 ## See Also
 
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]]
-- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]

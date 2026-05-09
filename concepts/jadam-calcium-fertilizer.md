@@ -28,39 +28,7 @@ taste of produce.
 - Egg shell powder: can be mixed with or substituted for oyster shell
 - Water: 10 parts by weight
 - Wild grass: some (optional, aids decomposition)
-- [[leaf-mold-composting]]: a handful (regardless of container size)
-
-### Method
-1. Fill container with 1 part oyster/egg shell powder
-2. Add water 10 times the weight of shell powder
-3. Add some wild grass and a handful of leaf mold
-4. Close lid, stir occasionally
-5. The longer it ages, the richer calcium content becomes
-6. Take out upper water when ready to use, refill with water
-7. Time: **3+ months**
-
-### Analysis (per 100 L: oyster shell 10 kg + leaf mold)
-| Parameter | Value |
-|-----------|-------|
-| pH | 8.1 |
-| EC (1:5) ds/m | 0.42 |
-| OM % | 0.04 |
-| T-N % | 0.01 |
-| P2O5 % | 0.002 |
-| K2O % | 0.007 |
-| CaO % | 0.021 |
-| MgO % | 0.003 |
-| Fe mg/kg | 4.757 |
-| Mn mg/kg | 0.154 |
-
-## Recipe 2: Quick Oyster Shell JLF (vinegar method, 1 day)
-
-For faster production when calcium is needed urgently:
-
-### Ingredients
-- Oyster shell powder: 1/10th the weight of the vinegar
-- Vinegar or wood vinegar: sufficient quantity
-- (Optional) [[jadam-natural-mineral-water]] as wetting agent
+- [[jadam-natural-mineral-water]] as wetting agent
 
 ### Method
 1. Prepare vinegar or wood vinegar
@@ -111,10 +79,7 @@ Note: The vinegar method extracts dramatically more minerals -- CaO jumps from
 
 ## Related
 
-- [[jadam-calcium-phosphate-fertilizer]] -- Ca + P from bone meal
 - [[jadam-chitosan-fertilizer]] -- chitosan also provides calcium
-- [[jadam-element-function-reference]] -- calcium functions and deficiency
 - [[jadam-mineral-water-jmw]] -- JADAM mineral water
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-coexisting-with-wild-grass]]

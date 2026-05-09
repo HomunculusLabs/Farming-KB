@@ -141,10 +141,11 @@ Outdoor cultivation of P. cyanescens is relatively straightforward, while indoor
 - **Psychological risks:** Include anxiety, paranoia, confusion ("bad trips"), and in rare cases, prolonged psychotic reactions in predisposed individuals
 - **Misidentification risk:** P. cyanescens can be confused with several toxic species, notably Galerina marginata (deadly galerina) and Inocybe species, which share similar habitat and general appearance; the blue bruising reaction is the key distinguishing feature
 - **Contraindications:** Personal or family history of psychotic disorders; use of serotonergic medications (SSRIs, MAOIs); cardiovascular conditions; pregnancy
+## See Also
+
+- [[psilocybe-azurescens]] — The most potent known psilocybian species
+- [[psilocin]] — Active metabolite of psilocybin
 
 ## See Also
 
-- [[psilocybe-cubensis]] — The most widely cultivated psilocybin mushroom
-- [[psilocybe-azurescens]] — The most potent known psilocybian species
-- [[psilocybin-compound]] — Primary psychoactive compound
-- [[psilocin]] — Active metabolite of psilocybin
+- [[psychedelic-terminology-hallucinogenic-entheogenic]]

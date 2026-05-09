@@ -34,27 +34,7 @@ What do people basically need to live? If a family has a quarter-acre of land on
 
 - It is a place where people can live a free and pleasant life
 
-This connects to [[fukuoka-farming-for-all-quarter-acre-vision]].
-
-## The Law That Would Change Everything
-
-Even though Japan is a small country, there is land enough to build houses. It is just that areas zoned as residential land are limited. If people in the cities were able to build their homes in the hills and mountains and in the rice paddies and fields, then there would be an infinite supply of land.
-
-- Land designated as "residential," on which houses may be built, must be serviced by a 13-foot road large enough for a fire truck and by a sewer system
-
-- The law does not allow houses to be built in mountain forests, meadows, or fields under cultivation
-
-- But one may build huts without electricity or tatami flooring wherever one pleases
-
-- If people in the cities took to life in the mountains, land prices would probably plummet
-
-- Only one law would suffice -- a law stating that houses not be clustered together, but built at least 100 yards from each other
-
-- Anyone would be free to build a straw-thatched hut or a bamboo dwelling wherever he pleased
-
-## City Children Cannot Adapt
-
-Fukuoka tried to turn the [[fukuoka-nelissen-farm]] into a utopia, but even if he were able to create an ideal village, there would be no one to live there.
+This connects to [[fukuoka-nelissen-farm]] into a utopia, but even if he were able to create an ideal village, there would be no one to live there.
 
 - Children from the cities are unable to sleep for fear in the mountain huts with shoji screens
 
@@ -118,19 +98,11 @@ Many of the young people who have come to Fukuoka's farm have held the earnest h
 
 ## See Also
 
-- [[fukuoka-village-self-sufficient-community]]
-
 - [[fukuoka-european-civilization-standstill]]
-
-- [[fukuoka-farming-for-all-quarter-acre-vision]]
 
 - [[fukuoka-nelissen-farm]]
 
-- [[fukuoka-road-back-to-nature-overview]]
-
 - [[fukuoka-european-civilization-standstill]]
-
-- [[fukuoka-change-come-over-westerners]]
 
 - [[fukuoka-critique-of-education-universities]]
 - [[fukuoka-natural-rice-barley-cultivation]]

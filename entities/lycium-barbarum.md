@@ -126,9 +126,6 @@ or windbreak, providing food, habitat, and ornamental value simultaneously.
 
 ## See Also
 
-- [[panax-ginseng]]
 - [[schisandra-chinensis]]
-- [[rhodiola-rosea]]
 - [[hippophae-rhamnoides]]
-- [[eleutherococcus-senticosus]]
 - [[moringa-oleifera]]

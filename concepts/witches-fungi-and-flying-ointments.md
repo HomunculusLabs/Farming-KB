@@ -3,7 +3,7 @@ title: Witches, Fungi, and Flying Ointments
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -13,37 +13,7 @@ Updated: 2026-04-18
 
 The historical connection between witches, fungi, and psychoactive substances represents one of the most fascinating intersections of mycology, anthropology, and European history. The "flying ointments" or "witches' salves" used by accused witches during the European witch craze (c. 1450-1750) likely contained psychoactive compounds from fungi and toxic plants, producing sensations of flight, transformation, and encounters with supernatural beings.
 
-Source: [[magic-mushroom-cultural-history]]
-
-***
-
-## The European Witch Craze Context
-
-During the early modern period, an estimated 40,000-60,000 people (predominantly women) were executed for witchcraft across Europe. Among the many accusations leveled against alleged witches were claims of:
-- Flying through the air to attend nocturnal sabbaths
-- Transforming into animals
-- Communing with demons and spirits
-- Causing illness and crop failures through magical means
-
-Many of these descriptions, when examined through the lens of modern pharmacology, closely match the effects of psychoactive substances.
-
-***
-
-## Flying Ointments: Composition and Effects
-
-### Documented Recipes
-
-Several surviving recipes for flying ointments have been found in historical texts, including:
-- The writings of Giovanni Battista della Porta (16th century)
-- Recipes recorded during witch trials in the 15th-17th centuries
-- Folk medicine texts from various European regions
-
-### Ingredients
-
-Flying ointment recipes typically included a combination of Mushroom Toxicity Identification Warnings and poisonous plants:
-
-**Fungal components:**
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (ergot) — contains ergotamine and lysergic acid amides, precursors to LSD
+Source: [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (ergot) — contains ergotamine and lysergic acid amides, precursors to LSD
 - Amanita species — containing ibotenic acid and muscimol
 
 **Plant components:**
@@ -97,16 +67,26 @@ The phenomenon of bioluminescent fungi (see bioluminescent-fungi|bioluminescent 
 
 ## Legacy
 
-The connection between witches and fungi highlights how psychoactive mushrooms and plants were woven into European folk traditions despite the prevailing mycophobia. While the intentional, ceremonial use of mushrooms flourished in cultures like the Aztec (see [[aztec-mushroom-feasts-and-revelations]]), in Europe such knowledge went underground — preserved by village healers and midwives but increasingly stigmatized as witchcraft.
-
-***
-
-## Related Topics
-
-- [[aztec-mushroom-feasts-and-revelations]] — Contrasting ceremonial mushroom use in Mesoamerica
-- [[siberian-fly-agaric-tradition]] — Psychoactive mushroom traditions in Siberian cultures
+The connection between witches and fungi highlights how psychoactive mushrooms and plants were woven into European folk traditions despite the prevailing mycophobia. While the intentional, ceremonial use of mushrooms flourished in cultures like the Aztec (see [[aztec-mushroom-feasts-and-revelations]] — Contrasting ceremonial mushroom use in Mesoamerica
 - [[fairy-rings-folklore-and-science]] — Supernatural beliefs about mushroom formations
-- [[wasson-mycophobia-mycophilia-theory]] — The cultural divide between mushroom fear and reverence
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] — The fungus behind both flying ointments and mass poisonings
-- [[amanita-muscaria-chemistry-and-pharmacology]] — Pharmacology of the fly agaric
 - [[mushroom-symbolism-western-art]] — Mushroom imagery in European visual culture
+## Practical Considerations
+
+Successful implementation of Witches, Fungi, and Flying Ointments requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

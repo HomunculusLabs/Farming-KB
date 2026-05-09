@@ -103,13 +103,8 @@ morphological adaptations.
 
 ## See Also
 
-- [[thelephora-terrestris]]
 - [[ectomycorrhizal-fungi]]
-- [[mycorrhizal-fungi]]
 - [[suillus-luteus]]
-- [[suillus-granulatus]]
 - [[laccaria-laccata]]
-- [[boletus-edulis-entity]]
 - [[hydnellum-aurantiacum]]
-- [[phellodon-niger]]
 - [[paxillus-atrotomentosus]]

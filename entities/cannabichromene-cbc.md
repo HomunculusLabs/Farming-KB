@@ -15,8 +15,7 @@ type: entity
 **Also known as:** CBC, cannabichromene
 
 ## Overview
-Cannabichromene (CBC) is a phytocannabinoid found in [[cannabis-sativa]]
-and [[cannabis-indica]]. It is one of the five major cannabinoids
+Cannabichromene (CBC) is a phytocannabinoid found in [[cannabis-indica]]. It is one of the five major cannabinoids
 identified in cannabis research, alongside THC, CBD, CBG, and CBN.
 Despite being classified as a "minor" cannabinoid due to its relatively
 low concentration in most strains, CBC has demonstrated significant
@@ -84,8 +83,6 @@ an untapped frontier in cannabis pharmacology, particularly for
 conditions where CB1/CB2 receptor activation is undesirable.
 
 ## See Also
-- [[cannabigerol-cbg]]
 - [[cannabidiol-cbd]]
-- [[tetrahydrocannabinol-thc]]
 - [[cannabinol-cbn]]
 - entourage effect

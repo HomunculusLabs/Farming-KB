@@ -125,9 +125,10 @@ garden.
 
 ## See Also
 
-- [[urban-permaculture-rainwater-harvesting-graywater]]
 - [[urban-permaculture-design]]
-- [[urban-permaculture-energy-cycling-principles]]
 - [[urban-permaculture-productive-yards]]
-- [[urban-permaculture-edge-effect-microclimate]]
 - [[urban-permaculture-design]]
+
+## See Also
+
+- [[permaculture-designers-manual-passive-solar-design]]

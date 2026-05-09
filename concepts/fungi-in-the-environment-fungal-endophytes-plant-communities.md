@@ -49,23 +49,7 @@ fungi colonizes plant tissues asymptomatically. These include:
 - Rhizoctonia endophytes of orchids, which serve as germination
   partners for dust seeds
 
-### Endophytic [[mycorrhizal-fungi]]
-
-The boundary between endophytes and mycorrhizal fungi is not always
-clear. Many mycorrhizal fungi have endophytic phases, and some fungi
-function as both endophytes and mycorrhizal partners depending on
-context. Vesicular-arbuscular endophytes in the Gramineae, documented
-by Nicholson in 1959, blur the distinction between arbuscular
-mycorrhizal fungi and foliar endophytes. This continuum challenges
-simple classification and reflects the functional diversity of
-plant-fungal fungi in the environment fungal endophytes plant communities.
-
-## Mycoheterotrophic Plants and Fungal Partners
-
-### The Mycoheterotrophic Strategy
-
-Over 400 achlorophyllous plant species, termed mycoheterotrophs, depend
-exclusively on fungi for their carbon by exploiting [[mycorrhiza]]-like
+### Endophytic [[mycorrhiza]]-like
 relationships. These plants have originated from multiple independent
 lineages of green plants and are found in approximately 90 genera ranging
 from liverworts to dicotyledons and monocotyledons. About 10 percent of
@@ -94,55 +78,6 @@ that obtain their carbon from adjacent autotrophic plants.
 DNA-based identification reveals that mycoheterotrophic plants exploit a
 wide phylogenetic breadth of fungi ranging from Glomeromycota to
 Basidiomycota and Ascomycota. Voyria species associate with Glomus Group
-A [[arbuscular-mycorrhizal-fungi]], Corallorhiza partners with Tomentella and
-Russula ectomycorrhizal fungi, Monotropa links to diverse Russulaceae and
-Boletales, and Gastrodia elata partners with the wood-decay fungus
-Armillaria mellea.
-
-## Hybridization and Speciation in Endophytes
-
-### Hybrid Origins of Asexual Endophytes
-
-The asexual Epichloe relatives in the genus Neotyphodium demonstrate how
-interspecific hybridization can produce instant speciation in fungal
-endophytes. These hybrids combine genomes from multiple parental species,
-creating novel genotypes with unique combinations of traits affecting host
-plant interactions. Such hybridization events, sometimes associated with
-polyploidy, represent a significant evolutionary mechanism distinct from
-gradual divergence through geographic isolation.
-
-This pattern is not unique to endophytes. Other plant-associated fungi
-including Fusarium, Botrytis, Ophiostoma, Melampsora, and Heterobasidion
-also form hybrids. The study of endophyte hybridization has contributed
-to broader understanding of speciation processes in fungi, including
-the recognition that hybridization followed by allopolyploidy can
-generate evolutionary novelty.
-
-### Implications for Plant Community Dynamics
-
-Hybrid endophytes may confer novel combinations of protective
-compounds and ecological adaptations to their host plants. Since many
-grass endophytes produce alkaloids that deter herbivores and improve
-stress tolerance, hybrid endophytes with combined or enhanced
-biochemical capabilities could significantly influence competitive
-outcomes in plant communities. The co-evolutionary dynamics between
-hybrid endophytes and their hosts represent an important but still
-poorly understood driver of grassland ecology.
-
-## Ecological Significance
-
-Fungal endophytes are pervasive in plant communities worldwide, yet the
-majority of environmental fungal species remain unculturable and therefore
-understudied. At best, perhaps only 5 percent of environmental fungi can
-be cultivated using traditional methods. The advent of DNA-based
-characterization techniques is revealing the true diversity of endophyte
-communities and their functional roles in ecosystems, including effects on
-herbivory, disease resistance, drought tolerance, and nutrient cycling
-that cascade through entire plant communities.
-
-## See Also
-
-- [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[fungi-in-the-environment-symbiotic-relationships]]
+A [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[fungi-in-the-environment-fungal-biodiversity]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

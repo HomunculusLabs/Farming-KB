@@ -104,17 +104,11 @@ The Crop Trust has identified mashua as a priority underutilized crop for geneba
 
 ## See Also
 
-- [[ullucus-tuberosus]]
 - [[smallanthus-sonchifolius]]
-- [[pachyrhizus-erosus]]
 - [[apios-americana]]
-- [[helianthus-tuberosus]]
 - [[caragana-arborescens]]
-- [[achillea-millefolium]]
-- [[comfrey]]
+- achillea-millefolium
 - [[tagasaste]]
-- [[moringa-oleifera]]
 - [[robinia-pseudoacacia]]
-- [[gleditsia-triacanthos]]
 - [[elaeagnus-umbellata]]
 - [[asimina-triloba]]

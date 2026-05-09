@@ -3,7 +3,7 @@ title: Mycorrhizal Proteomics
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: [papers/symbiotic-fungi.md]
 ---
 # Mycorrhizal Proteomics
@@ -102,11 +102,7 @@ Key areas for advancement in mycorrhizal proteomics include:
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-networks]] — The primary symbiosis type studied proteomically
 - [[functional-genomics-arbuscular-mycorrhiza]] — Broader context of genomic approaches to symbiosis
-- [[plant-fungal-signaling-mycorrhiza]] — Signal transduction pathways in mycorrhizal interactions
 - [[mycorrhizal-biocontrol]] — How defense responses relate to pathogen protection
-- [[symbiotic-fungi-arbuscular-mycorrhizal-proteomics-techniques]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[fungal-single-cell-protein-production]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

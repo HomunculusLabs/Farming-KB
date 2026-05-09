@@ -114,31 +114,11 @@ and causes GI distress) should be avoided.
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| [[cantharellus-cibarius-entity]] | True chanterelle; egg-yolk yellow, with blunt, forking ridges that resemble forked gills; more robust stature |
 | [[craterellus-tubaeformis]] | Yellowfoot; brown cap, dark stem, grows in fall/winter under conifers; smaller and darker |
-| [[craterellus-cornucopioides]] | Black trumpet; dark gray to black, funnel-shaped; lacks orange coloration entirely |
+| [[craterellus-odoratus]]
 
-## Ecology
-
-C. ignicolor is an obligate ectomycorrhizal species, meaning it requires
-a living host tree to complete its lifecycle. The mycorrhizal
-association benefits the host tree by extending the root's absorptive
-surface area and improving nutrient uptake, particularly phosphorus.
-
-The fungus plays a role in forest nutrient cycling by decomposing
-organic matter in the soil and transferring minerals to its host.
-Fruiting bodies are consumed by various forest animals, including
-slugs, deer, and small mammals, which may assist in spore dispersal.
-
-## See Also
-
-- [[craterellus-odoratus]]
-
-- [[cantharellus-cibarius-entity]] — Golden chanterelle, the most widely
-  recognized edible chanterelle
 - [[craterellus-tubaeformis]] — Yellowfoot chanterelle, a close
   relative with different habitat and season
-- [[craterellus-cornucopioides]] — Black trumpet, same genus
 - [[boletus-edulis-entity]] — Another prized mycorrhizal edible sharing
   oak forest habitat
 - [[laccaria-laccata]] — Common mycorrhizal associate in the same

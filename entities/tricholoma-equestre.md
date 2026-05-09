@@ -122,8 +122,6 @@ The reversal of its edibility status was controversial in mycological circles. S
 
 ## See Also
 
-- [[russula-virescens]] — Green-cracked russula, a visually confusing edible species in similar habitats
-- [[amanita-muscaria]] — Another prominent mycorrhizal mushroom of pine forests
-- [[gyromitra-esculenta]] — Another example of a historically consumed mushroom now known to be toxic
+- [[amanita-muscaria-entity]] — Another prominent mycorrhizal mushroom of pine forests
 - [[cortinarius-rubellus]] — Deadly poisonous mycorrhizal mushroom of coniferous forests
 - [[boletus-edulis-entity]] — Safe, prized edible mushroom of similar pine forest habitats

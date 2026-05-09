@@ -5,7 +5,8 @@ updated: 2026-05-06
 aliases: [porphyrin, porphine, heme, chlorophyll, cobalamin, vitamin b12, tetrapyrrole, photodynamic therapy]
 tags: [chemistry, biochemistry, bioinorganic, metabolism, pharmacology, spectroscopy]
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
@@ -141,8 +142,6 @@ metalation monitoring, and aggregation state determination.
 
 ## See Also
 
-- [[cytochrome-p450-enzymes-drug-metabolism]] — Heme-dependent drug metabolism enzymes
 - [[electron-transport-chain-mitochondrial-respiration]] — Cytochromes in oxidative phosphorylation
-- [[citric-acid-cycle-tca-krebs-cycle]] — Heme-containing enzymes in central metabolism
 - [[glutathione-biochemistry-and-redox-biology]] — Redox interactions with heme and porphyrins
 - [[glycolysis-embden-meyerhof-parnas-pathway]] — Connection to tetrapyrrole precursor metabolism

@@ -100,22 +100,13 @@ The essential oil is distilled on a small scale for use in aromatherapy and trad
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[alpinia-officinarum]]
-- [[alpinia-nigra]]
 - [[zingiber-officinale]]
-- [[elettaria-cardamomum]]
 - [[kaempferia-galanga]]
-- [[curcuma-longa]]
 - [[boesenbergia-rotunda]]
-- [[alpinia-zerumbet]]
 - [[camphor]]
-- [[curcumin]]
 - [[zingiber-zerumbet]]
-- [[amomum-subulatum]]
 - [[amomum-tsao-ko]]
-- [[hedychium-coronarium]]
 - [[curcuma-aromatica]]
-- [[curcuma-zedoaria]]
 - [[zingiber-cassumunar]]
 - [[kaempferia-parviflora]]

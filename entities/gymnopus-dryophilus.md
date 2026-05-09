@@ -123,12 +123,7 @@ Emerging research suggests *G. dryophilus* may interact with ectomycorrhizal fun
 
 ## See Also
 
-- [[xeromphalina-campanella]]
-
 - [[gymnopus-peronatus]]
 
-- [[gymnopus-liquidambaris]]
-
 - [[agar]]
-- [[cryptic-species]]
 - [[decomposition]]

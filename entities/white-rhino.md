@@ -95,8 +95,7 @@ genetics:
   hash-like spice. The flavor is generally described as rich and full-bodied rather than
   fruity or floral.
 
-The terpene profile is dominated by **myrcene** (contributing earthy, musky notes and
-sedative effects), **caryophyllene** (peppery, spicy), and **pinene** (woody, pine).
+The terpene profile is dominated by **[[pinene]]** (woody, pine).
 
 ## Cannabinoid Profile
 
@@ -140,9 +139,7 @@ for:
 ### Cultivation Overview
 ## See Also
 
-- [[critical-mass]]
 - [[northern-lights]]
-- [[sea-of-green]]
 - [[white-widow-entity]]
 - Indica
 - Medicinal Cannabis

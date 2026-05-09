@@ -2,26 +2,11 @@
 
 ## Overview
 
-Permaculture zones are a spatial planning tool used to organize a site according to the frequency of human attention and care required by different elements. The concept, developed by [[bill-mollison]] and [[david-holmgren]], divides a property into concentric zones radiating outward from the center of human activity — typically the home. Elements that require frequent visiting, intensive management, or daily harvest are placed closest to the center, while those needing less attention are positioned farther away.
+Permaculture zones are a spatial planning tool used to organize a site according to the frequency of human attention and care required by different elements. The concept, developed by [[david-holmgren]], divides a property into concentric zones radiating outward from the center of human activity — typically the home. Elements that require frequent visiting, intensive management, or daily harvest are placed closest to the center, while those needing less attention are positioned farther away.
 
 ## Zone 0: The Home
 
-Zone 0 encompasses the house or dwelling itself. It is the center of activity and includes indoor living spaces, kitchens, and associated infrastructure. Energy systems, water harvesting from rooftops, [[passive-solar-design]], and indoor food production (sprouts, herbs, fermentation) are all Zone 0 considerations. The home is the nexus from which all other zones are planned and accessed.
-
-## Zone 1: The Intensive Garden
-
-Zone 1 is the area immediately surrounding the home that receives daily or near-daily attention. This is the most intensively managed zone, containing elements that need frequent harvesting, watering, or observation:
-
-- Vegetable gardens and salad beds
-- Culinary herb gardens
-- Seedling nurseries and propagation areas
-- Small greenhouse or cold frame
-- Compost bins and worm farms
-- Frequently harvested fruits (strawberries, bush berries)
-- Shade trees close to the house for summer cooling
-- Clothesline and outdoor living areas
-
-Zone 1 is typically within 10–20 meters of the home. The proximity means gardeners can monitor plants daily, catch pest problems early, harvest at peak ripeness, and perform quick maintenance tasks while passing through. Mulching, [[succession-planting]], and intensive polyculture techniques are most practical here due to the ease of regular interaction.
+Zone 0 encompasses the house or dwelling itself. It is the center of activity and includes indoor living spaces, kitchens, and associated infrastructure. Energy systems, water harvesting from rooftops, [[succession-planting]], and intensive polyculture techniques are most practical here due to the ease of regular interaction.
 
 ## Zone 2: The Productive Orchard
 
@@ -30,11 +15,6 @@ Zone 2 requires weekly visits rather than daily attention. It contains elements 
 - Fruit trees (apples, pears, stone fruit)
 - Berry bushes and brambles
 - Beehives
-- [[composting-systems]] (larger scale than Zone 1)
-- Food-bearing shrubs
-- Pond or water feature
-- Pump house and water infrastructure
-- Small livestock (chickens, ducks)
 - [[perennial-vegetables]] (asparagus, rhubarb)
 
 Zone 2 extends roughly 20–50 meters from the home. Plants here are mostly perennial and require seasonal pruning, mulching, and harvesting rather than daily care. The orchard is a hallmark of Zone 2, providing abundant food with relatively low ongoing maintenance once established.

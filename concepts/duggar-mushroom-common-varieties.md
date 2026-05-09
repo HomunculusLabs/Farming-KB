@@ -11,22 +11,7 @@ updated: 2026-04-26
 
 # Common Cultivated Mushroom Varieties
 
-It is generally maintained that the only species of mushroom in cultivation is [[agaricus-campestris]], and doubtless this species is more commonly cultivated than any other. However, there are several species of Agaricus which vary so little in their characteristics that especially when grown under the forced conditions of mushroom production it is an extremely difficult matter to find distinguishing characteristics. There are from a half dozen to a dozen distinct forms frequently used in cultivation, and these must represent several species.
-
-## Cultivated Agaricus Species
-
-### Agaricus campestris (Field Mushroom)
-The typical form possesses gills which are at first bright pink, changing to bright reddish brown, and finally to brown-black. The annulus (ring) is single and relatively not much thickened as a rule. The cap is convex or plain, varying from white to brownish. The stem is equal and solid. Under vigorous production in cellars or mushroom houses, spawn from the typical field species may yield specimens in which the color and ring characteristics are not distinguishable from those commonly identified as A. arvensis.
-
-#### Trade Classification (Duggar, 1905)
-For trade purposes, a color-based classification was recommended:
-- **"Alaska"** — the smaller, practically pure white form
-- **"Columbia"** — the large cream colored form (sometimes grayish)
-- **"Bohemia"** — the typical brown variety of the English brick spawn
-
-This classification is no longer adequate, and there is great need for a careful study of varieties and species.
-
-### [[agaricus-arvensis]] (Horse Mushroom)
+It is generally maintained that the only species of mushroom in cultivation is [[agaricus-arvensis]] (Horse Mushroom)
 Formerly more commonly known as the Horse Mushroom, found in situations similar to A. campestris. Typical forms in the field are larger and stouter than the Field Mushroom, and are particularly distinguished by the possession of a double ring. Several varieties in cultivation may be properly referred to this species, including a thin capped brown variety with a double ring. Under cultivation the writer has been unable to find A. campestris better in flavor than A. arvensis.
 
 ### Agaricus fabaceus (A. subrufescens)
@@ -46,12 +31,6 @@ Some botanists would assign specific rank to such forms, which are among the int
 ### Coprinus (Ink Caps)
 Characterized by the deliquescence of gills and other parts into an inky black liquid when fully mature.
 
-- **[[coprinus-comatus-detailed]] (Shaggy Mane)** — Considered by many to be one of the best of the fungi. 6 to 8 inches in height with an almost cylindrical cap. Has excellent flavor but soft texture. Possesses a free, movable ring.
-- **Coprinus atramentarius (True Ink-Cap)** — Smaller than C. comatus with a distinctly shorter cap, invariably slaty gray. Found in clusters about sidewalks and paths. So rapidly deliquescent it should be put on ice as soon as gathered and promptly used.
-- **Coprinus micaceus** — Much smaller, occurring in solid phalanx covering several square feet about old stumps or decaying roots. When young the tan-colored cap is covered with glistening scales like minute particles of mica. Not so rapidly deliquescent as the larger forms.
-
-### Lepiota (Parasol Mushrooms)
-Resembling Agaricus but possessing white spores. Less stocky than Agaricus species. Among the larger edible species are:
 - **[[lepiota-procera]] (Parasol Mushroom)** — Among the most conspicuous of the edible agarics
 - **Lepiota naucinoides**
 
@@ -97,6 +76,5 @@ Several important rules apply to wild mushroom consumption:
 
 ## Related Concepts
 
-- [[duggar-mushroom-spawn-preparation]] - Spawn types and propagation methods
 - [[duggar-mushroom-history-and-overview]] - Origin and development of mushroom cultivation
 - [[substrate-preparation-mushroom-growing]] - Growing requirements for different varieties

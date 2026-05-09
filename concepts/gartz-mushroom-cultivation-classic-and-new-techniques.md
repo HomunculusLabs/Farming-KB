@@ -82,25 +82,18 @@ Cross-breeding experiments serve a dual purpose in mushroom cultivation.
 Beyond developing high-yield strains, they enable the determination of
 whether mushrooms from different locations belong to the same species.
 Gartz established through such experiments that mycelia from
-[[psilocybe-bohemica-central-european]] and [[psilocybe-cubensis-potency-variation-by-flush]] (collected in the U.S.) can never be fused together, confirming they are distinct species despite some morphological similarities.
+[[psilocybe-cubensis-potency-variation-by-flush]] (collected in the U.S.) can never be fused together, confirming they are distinct species despite some morphological similarities.
 
 ## Substrate and Environmental Challenges
 
-The choice of substrate depends on the species. [[psilocybe-cubensis-potency-variation-by-flush]], a subtropical species, fruits on a variety of organic materials including grain, straw, and composted manure. Temperate species such as [[psilocybe-semilanceata]] are far more challenging to cultivate, as they have very specific substrate and environmental requirements that are difficult to replicate indoors.
+The choice of substrate depends on the species. [[psilocybe-semilanceata]] are far more challenging to cultivate, as they have very specific substrate and environmental requirements that are difficult to replicate indoors.
 
-In Europe, cultivation of [[psilocybe-cubensis-potency-variation-by-flush]] using
-the Oss and Oeric method (rye grain substrate) has been attempted
-following translation of their booklet into several European languages.
-However, no data exists on the success rate of these experiments. Gartz
-notes that commonly occurring contaminants probably prevent fruiting of
-this subtropical species in European climates. [[psilocybe-cubensis-potency-variation-by-flush]], a temperate European species, would be a more logical choice for local cultivation.
+In Europe, cultivation of [[psilocybe-cubensis-potency-variation-by-flush]], a temperate European species, would be a more logical choice for local cultivation.
 
 ## Mycelial Characteristics
 
 Different species develop mycelia with distinctly different visual
-characteristics. [[psilocybe-cubensis-potency-variation-by-flush]] produces
-thick, visible mycelial strands called rhizomorphs that readily colonize
-wood debris. [[psilocybe-semilanceata]], by contrast,
+characteristics. [[psilocybe-semilanceata]], by contrast,
 develops comparatively thin strands that are hardly visible at all. During
 the dormant state, mycelium can weather droughts and cold winter
 temperatures, only to begin growing anew when conditions improve.
@@ -116,19 +109,11 @@ uncultivable.
 ## A Note on Psilocybe semilanceata Cultivation
 
 Despite being the most widely used psychoactive mushroom in Europe,
-[[psilocybe-semilanceata]] has proven extremely difficult
-to cultivate artificially. The species appears to have very specific
-requirements involving its natural grassland habitat and possibly
-symbiotic relationships with soil microorganisms that have not been
-successfully replicated in laboratory conditions. This has driven much of
-the interest in cultivating the more amenable [[psilocybe-cubensis-potency-variation-by-flush]], even in temperate European climates where it does not grow naturally.
+[[psilocybe-cubensis-potency-variation-by-flush]], even in temperate European climates where it does not grow naturally.
 
 The challenges of cultivating temperate psychoactive species means that
 for many enthusiasts, wild foraging remains the primary means of obtaining
 these mushrooms -- a practice that carries its own risks, as discussed in
-the context of [[magic-mushroom-cultivation-history]] and the dangers of misidentification with deadly species.
-- [[gartz-european-psychoactive-mushroom-species]]
-- [[mycorrhizal-networks-common-mycelial-network]]
+the context of [[gartz-european-psychoactive-mushroom-species]]
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[stamets-spore-germination-and-tissue-culture]]
 - [[sterile-technique-mushroom-cultivation]]

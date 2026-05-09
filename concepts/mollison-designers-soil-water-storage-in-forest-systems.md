@@ -19,7 +19,7 @@ type: concept
 In *Permaculture: A Designers' Manual*, Bill Mollison presents a
 detailed analysis of how forests function as immense water storage
 systems. Understanding soil water storage mechanisms is essential
-for [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]], [[mollison-earthworks-planning-and-post-earthworks-planting]], and all aspects of permaculture water management.
+for [[mollison-earthworks-planning-and-post-earthworks-planting]], and all aspects of permaculture water management.
 
 ## Forests as Living Water Reservoirs
 
@@ -58,7 +58,7 @@ storage per 30 cm of soil depth.
 ### Humus Storage
 Water stored as swollen mycorrhizal and spongy detritus in the
 humic content of soils. This is the most biologically active storage
-form and directly connects to [[mycorrhizal-networks]] and [[mollison-humus-and-organic-matter-in-soils]]. A lesser storage is as
+form and directly connects to [[mollison-humus-and-organic-matter-in-soils]]. A lesser storage is as
 chemically-bound water in combination with minerals in the soil.
 
 ## Infiltration and Percolation
@@ -98,10 +98,7 @@ design:
 - Tree planting is the most effective long-term strategy for water
   conservation on any site
 - Mulch and litter layers are critical components of the
-  infiltration system, connecting to [[mollison-mulching-and-soil-health]]
-- The root mat and humus layer are the primary storage; destroying
-  these through cultivation or compaction reduces capacity
-- Forest edges and [[mollison-designers-forest-condensation-and-micro-climate-rainfall]] enhance total precipitation
+  infiltration system, connecting to [[mollison-designers-forest-condensation-and-micro-climate-rainfall]] enhance total precipitation
 - Earthworks such as swales slow water movement and increase
   infiltration time, supporting [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - Soil rehabilitation through organic matter addition dramatically

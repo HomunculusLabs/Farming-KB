@@ -119,8 +119,6 @@ development on female plants.
 
 ## See Also
 
-- [[cervantes-hermaphrodism-intersexuality]]
 - [[cervantes-sex-determination-pre-flowering]]
-- [[cannabis-genetics-and-breeding]]
 - [[cervantes-backcross-breeding-methods]]
 - [[cervantes-seed-production-storage]]

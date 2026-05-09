@@ -11,15 +11,7 @@ type: concept
 # PF TEK Steam Sterilization Technique
 The PF TEK steam sterilization technique allows home cultivators to sterilize
 substrate jars using ordinary kitchen cookware, without the need for a pressure
-canner. This technique is part of the broader [[mushroom-cultivation-basics]] workflow. This is possible because the PF substrate contains no whole grain
-kernels that require high-pressure, high-temperature processing. The combination
-of a non-grain substrate and the dry vermiculite contaminant barrier makes
-simple boiling-steam sterilization effective and reliable.
-## Why Pressure Canning Is Not Required
-Traditional grain substrates contain whole kernels that require 15 PSI pressure
-cooking to destroy resistant endospores. The PF TEK circumvents this by using
-pulverized brown rice flour instead of whole grains. For a full overview of the PF
-method, see [[pf-tek-psilocybe-fanaticus]]. The fine flour has no
+canner. This technique is part of the broader [[pf-tek-psilocybe-fanaticus]]. The fine flour has no
 intact kernels with protective endospore shells, and the substrate is airy
 rather than dense. This allows steam at atmospheric pressure (212 degrees
 Fahrenheit) to fully penetrate and sterilize the substrate in a standard
@@ -83,34 +75,11 @@ must be adjusted accordingly.
 ## Alternative: Pressure Canner Sterilization
 For cultivators who have access to a pressure canner, PF substrate jars can be
 sterilized more quickly. The recommended setting is 12 PSI for 20 minutes for
-half-pint PF substrate jars. See [[cotter-pasteurization-sterilization-methods]] for
-other sterilization approaches. While faster, pressure canning introduces safety
-concerns. [[psilocybe-fanaticus]] stressed that pressure canners can be dangerous
+half-pint PF substrate jars. See [[psilocybe-fanaticus]] stressed that pressure canners can be dangerous
 if used incorrectly, and cultivators should always refer to the manufacturer's
 manual. If a used canner has no manual, the manufacturer should be contacted
 for a replacement before use.
 ## Control Jar Technique
 To verify that the steam sterilization process is effective, the PF TEK
 recommends the control jar technique. For broader inoculation hygiene, see
-[[cotter-inoculation-techniques-and-hygiene]]. After jars are steam sterilized and
-cooled, tighten the lids and set aside one or more jars uninoculated for
-several days. Watch for any colored growths or changes in substrate appearance.
-Loosen the lid and check for the telltale rancid odor of bacteria.
-If contamination appears in the control jars, the sterilization technique
-needs adjustment. Most commonly, the sterilization time is too short and should
-be extended. If the control jars remain clean and unchanged, the sterilization
-is confirmed successful and the jars are ready for inoculation.
-## Jar Size Considerations
-The steam sterilization technique is optimized for half-pint (8 ounce, 250 ml)
-canning jars. Jars larger than half-pint are explicitly described as
-"unreliable for the PF TEK and fail easily." The smaller jar size ensures that
-steam can fully penetrate the substrate within the one-hour timeframe. The
-low-form Kerr half-pint canning jar is recommended as the most versatile option
-due to its compact dimensions.
-## Lid Preparation and Storage
-Before sterilization, canning lids are prepared by punching four holes inside
-the rubber sealing edge using a sharpened 3-penny nail held with vise-grip
-pliers. The lid goes on rubberized edge up (jagged hole edges facing down).
-Professional-grade masking tape covers the holes during steaming.
-## See Also
-- [[pf-tek-desiccant-drying-technique]]
+[[pf-tek-desiccant-drying-technique]]

@@ -77,53 +77,14 @@ Harvest occurs in late winter or early spring when moisture content drops below 
 
 ### Carbon Sequestration
 
-Miscanthus is among the most efficient [[mycorrhizal-carbon-sequestration]] crops, sequestering 1.5–3.5 tonnes of CO₂ equivalent per hectare per year below ground through extensive rhizome systems.
+Miscanthus is among the most efficient [[agroforestry]] systems as a fast-growing understory or boundary species.
 
-Above-ground biomass also represents a carbon pool that can be converted to long-lived products or biochar.
-
-### Soil Health
-
-The perennial root system prevents soil erosion and improves soil structure over time.
-
-Leaf litter and root turnover add organic matter, increasing soil carbon and microbial activity.
-
-The crop requires minimal fertilizer after establishment (40–60 kg N/ha/year) compared to annual crops.
-
-### Biodiversity
-
-Harvested stands provide winter habitat and cover for birds, small mammals, and invertebrates.
-
-Unharvested strips serve as wildlife corridors in agricultural landscapes.
-
-## Bioenergy Applications
-
-Miscanthus is primarily used as a combustion fuel for electricity and heat generation.
-
-It can be co-fired with coal in existing power plants or used in dedicated biomass facilities.
-
-Emerging applications include cellulosic ethanol production, biogas (anaerobic digestion), and pelletized fuel for residential heating.
-
-Ash content is relatively low (3–5%), producing fewer combustion residues than straw or other agricultural residues.
-
-## Permaculture and Agroforestry
-
-In permaculture design, miscanthus serves multiple functions: biomass production, windbreak, wildlife habitat, and nutrient cycling.
-
-It can be integrated into [[agroforestry]] systems as a fast-growing understory or boundary species.
-
-The dried stems are useful as mulch, [[biochar]] feedstock, and building material (thatching, fencing).
-
-Stands can serve as [[hugelkultur]] fill material when decomposed, adding carbon-rich organic matter.
+The dried stems are useful as mulch, [[hugelkultur]] fill material when decomposed, adding carbon-rich organic matter.
 
 ## See Also
 
-- [[miscanthus-sinensis]] — Parent species of the hybrid
 - [[arundo-donax]] — Giant reed, another high-yield bioenergy grass
-- [[biochar]] — Carbon-rich product from biomass pyrolysis
 - [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]] — Renewable energy from biological sources
-- [[mycorrhizal-carbon-sequestration]] — Carbon capture in soils and biomass
 - [[permaculture]] — Sustainable design framework
-- [[agroforestry]] — Integrated land-use systems
 - [[hugelkultur]] — Mound-based growing technique
-- [[symphytum-officinale]] — Comfrey, complementary dynamic accumulator
 - [[alnus-glutinosa]] — Black alder, nitrogen-fixing agroforestry tree

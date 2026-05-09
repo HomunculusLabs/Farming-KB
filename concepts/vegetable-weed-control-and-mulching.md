@@ -15,51 +15,8 @@ gardens, based on Purdue Extension guidelines. Effective weed control
 is essential because weeds compete with vegetables for water,
 fertilizer, and sunlight while harboring insects and diseases.
 
-Related: [[vegetable-garden-guide]], [[garden-location-and-soil-preparation]],
-[[vegetable-watering-and-thinning]]
-
-## Why Weed Control Matters
-
-Nothing is more disheartening than a well-prepared garden overrun by
-weeds. If allowed to grow, weeds compete with vegetable plants for
-water, fertilizer, and sunlight while harboring insects and diseases.
-The best time to control weeds is when they are small.
-
-## Mechanical Weed Control
-
-### Hoeing
-
-Weed with a sharp hoe, using a shallow shaving stroke, not a chop.
-Cultivate no deeper than 1/4 to 1/2 inch. Deeper cultivation may
-bring weed seeds to the surface where they can sprout and may also
-damage plant roots.
-
-### Cultivation Equipment
-
-For large garden plots, a wheel hoe with knives or power equipment
-is well worthwhile. A long-handled, wheeled cultivator can also be
-used for weed control during the season.
-
-### Hand Pulling
-
-Do not cultivate too closely to plants. Prevent stem and root injury
-by hand pulling close weeds while they are still very small. Hand
-pulling is especially important within the plant row where mechanical
-tools cannot reach without risking damage to vegetable roots.
-
-## Herbicide Use
-
-For large plantings of specific vegetables, an herbicide may be
-applied, but always follow label directions. No one herbicide controls
-all weeds in all crops, and proper application is critical. Because of
-these limitations, herbicides are not feasible for most home vegetable
-growers with diverse, small-scale plantings.
-
-## Mulching for Weed Control
-
-Mulches control weeds and offer other advantages. A 2 to 4-inch layer
-of organic matter will control most weeds. Mulching is one of the
-most effective and labor-saving [[weed-management-strategies]] available.
+Related: [[garden-location-and-soil-preparation]],
+[[weed-management-strategies]] available.
 
 ## Benefits of Mulching
 
@@ -125,9 +82,6 @@ pressure while improving overall garden health.
 
 ## See Also
 
-- [[vegetable-watering-and-thinning]] — Watering and thinning
 - [[vegetable-insect-and-disease-control]] — Pest management
-- [[garden-location-and-soil-preparation]] — Site selection and soil
-  prep
 - [[vegetable-garden-guide]] — Comprehensive vegetable gardening
   reference

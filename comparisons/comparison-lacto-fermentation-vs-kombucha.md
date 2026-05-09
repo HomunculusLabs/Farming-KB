@@ -21,29 +21,7 @@ Both lacto-fermentation and kombucha are anaerobic fermentation processes that p
 
 | Feature | Lacto-Fermentation | Kombucha |
 |---------|-------------------|----------|
-| **Primary organism** | [[lactic-acid-bacteria]] (LAB) | SCOBY (bacteria + yeast consortium) |
-| **Key microbes** | *Lactobacillus*, *Leuconostoc*, *Pediococcus* | *Komagataeibacter*, *Zygosaccharomyces*, *Saccharomyces* |
-| **Substrate** | Vegetables, fruits, dairy, grains | Sweetened tea (Camellia sinensis) |
-| **Primary acid** | Lactic acid | Acetic acid + gluconic acid |
-| **pH range** | 3.4–4.5 | 2.5–3.5 |
-| **Ethanol production** | Minimal (<0.5%) | Moderate (0.5–3.0%) |
-| **Carbon dioxide** | Moderate (creates effervescence in some products) | Significant (especially in secondary fermentation) |
-| **Salt requirement** | Usually essential (2–5% brine) | None (sugar is the key additive) |
-| **Oxygen needs** | Strictly anaerobic (after initial phase) | Aerobic phase → anaerobic phase |
-| **Temperature range** | 60–75°F (16–24°C) | 72–80°F (22–27°C) |
-| **Typical duration** | 3–21 days (vegetables); 12–48 hours (dairy) | 7–14 days primary; 1–5 days secondary |
-| **Starter culture** | Optional (wild fermentation is standard) | Required (SCOBY + starter liquid) |
-| **Shelf stability** | Excellent (months at cool temperatures) | Moderate (weeks refrigerated) |
-
-## Microbial Ecology
-
-### Lacto-Fermentation
-
-Lacto-fermentation is driven primarily by **lactic acid bacteria (LAB)** — a diverse group of Gram-positive, facultatively anaerobic bacteria that convert sugars into lactic acid via homolactic or heterolactic fermentation. The process typically follows a natural succession:
-
-1. **Early stage** — *Leuconostoc* species initiate fermentation, producing CO₂, lactic acid, and some ethanol (heterolactic pathway). This creates the initial anaerobic conditions and lowers pH.
-2. **Mid stage** — *Lactobacillus* species dominate as acidity increases, producing predominantly lactic acid (homolactic pathway).
-3. **Late stage** — More acid-tolerant species like *[[lactobacillus-plantarum]]* complete fermentation, achieving final pH of 3.4–4.5.
+| **Primary organism** | [[lactobacillus-plantarum]]* complete fermentation, achieving final pH of 3.4–4.5.
 
 No yeast is intentionally involved, though wild yeasts may be present in small numbers. The fermentation relies on bacteria naturally present on the vegetable surface (hence the importance of organic, unwashed produce for wild fermentation).
 
@@ -144,6 +122,5 @@ Both methods produce probiotics, but the organisms and their potential benefits 
 | **Survival through GI tract** | Well-studied; many strains show good survival | Less studied; acetic acid environment may reduce viability |
 ## See Also
 
-- [[comparison-perlite-vs-vermiculite]]
 - [[comparison-vinegar-vs-lacto-fermentation]]
 - [[comparison-kombucha-vs-kefir]]

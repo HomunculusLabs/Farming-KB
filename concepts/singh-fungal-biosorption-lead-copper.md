@@ -127,8 +127,6 @@ effective for lead-contaminated mixed-waste streams.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-biosorption-cadmium]]
-- [[fungal-metal-biosorption]]
 - [[mycoremediation-heavy-metals-detailed]]
 - [[fungal-binary-ternary-biosorption]]

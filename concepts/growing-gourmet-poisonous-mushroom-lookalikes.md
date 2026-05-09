@@ -36,51 +36,20 @@ which are deadly bear two asterisks.
 The most dangerous groups include:
 
 ### The Deadly Galerinas
-[[galerina-autumnalis]] and allies are deadly poisonous. These
-small, brown mushrooms frequently grow in the same wood chip
-beds, stumps, and logs where cultivators grow gourmet species.
-Galerina autumnalis is especially insidious because it can
-resemble certain stages of [[growing-gourmet-enoki-cultivation]]
-([[flammulina-velutipes]]) when both grow on wood debris.
-
-The mushrooms in the Galerina autumnalis and Pholiotina
-filaris groups are deadly poisonous. Some species in the
-genus Psilocybe contain psilocybin and psilocin, compounds
-which often cause uncontrolled laughter, hallucinations, and
-sometimes spiritual experiences. Outdoor cultivators must
-hone their skills at [[mushroom-identification]] to avert the
+[[growing-gourmet-enoki-cultivation]]
+([[mushroom-identification]] to avert the
 accidental ingestion of undesired mushrooms.
 
 ### Other Poisonous Lookalikes
   - Red-Staining Lepiotas (Lepiota spp.) -- deadly
   - The Deadly Ringed Cone Heads (Pholiotina filaris)
-  - Green-Gilled Clustered Woodlover ([[hypholoma-fasciculare]])
-  - Clitocybe spp. -- mildly poisonous
-  - Coprinus atramentarius -- causes adverse reactions
-    when consumed with alcohol
-
-### Mycorrhizal Poisonous Genera
-Many other poisonous species are not listed here because they
-are mycorrhizal and do not typically colonize wood chip beds.
-However, the poisonous mycorrhizal Amanita, Hebeloma,
-Inocybe, and [[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
+  - Green-Gilled Clustered Woodlover ([[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
 species can inhabit the same plot of ground where a cultivator
 may lay down wood chips, even if the host tree is far removed.
 
 ## Specific Cultivation Hazards
 
-### Galerina in [[enoki-cultivation]]
-Natural stump culture of Enoki mushrooms should not be
-encouraged for those who cannot distinguish Enoki from the
-small, wood-decomposing poisonous mushrooms such as the
-deadly members of the Genus Galerina or Gonocybe. The
-similarity in size, color, and habitat makes this a
-particularly dangerous confusion.
-
-### Hypholoma fasciculare
-The Green-Gilled Clustered Woodlover (Hypholoma fasciculare)
-grows in the same wood chip environments as the edible
-[[hypholoma-capnoides]] and H. sublateritium. Its green gills
+### Galerina in [[hypholoma-capnoides]] and H. sublateritium. Its green gills
 are a distinguishing feature, but careless harvesters could
 easily confuse species within this genus.
 
@@ -90,29 +59,7 @@ alongside cultivated species include Galerina autumnalis,
 a mushroom that does kill, and other unidentified toxic
 species. Flammulina velutipes (Enoki) and Galerina species
 can co-occur on the same stump. The cultivator must be
-adept at [[growing-gourmet-mushrooms-civilization-history]]
-to avoid disaster.
-
-## Essential Safety Practices
-
-  - Never harvest from outdoor beds without positive
-    species identification
-  - Learn the key distinguishing features of deadly
-    Galerina species: brown spore print, rusty-brown
-    gills, annulus (ring) on stem
-  - Consult recommended mushroom field guides and
-    mushroom identification courses
-  - When in doubt, do not eat the mushroom
-  - Keep a reference collection of both cultivated and
-    wild species for comparison
-  - Teach all harvest workers the differences between
-    target species and lookalikes
-
-## Recommended Resources
-
-Recommended mushroom field guides and mushroom
-identification courses are essential for outdoor cultivators.
-The ability to distinguish between an edible [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
+adept at [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 and a deadly Galerina, or between a prized Chanterelle and
 a toxic Omphalotus, can literally be a matter of life and
 death. This knowledge is not optional for outdoor growers;
@@ -125,3 +72,22 @@ pervades every culture, and this fear is not without basis.
 Outdoor cultivators must respect this danger and develop
 expert-level identification skills before consuming any
 mushroom from an outdoor patch.
+## Practical Considerations
+
+Successful implementation of Poisonous Mushroom Lookalikes in Cultivation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

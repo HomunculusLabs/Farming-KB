@@ -2,35 +2,7 @@
 title: Gymnosporangium Cedar-Apple Rust: Heteroecious Life Cycle on Hawthorn and Juniper
 created: 2026-04-28
 tags:
-  - mycology
-  - plant-pathology
-  - gymnosporangium
-  - cedar-apple-rust
-  - rust-fungi
-  - heteroecious
-  - hawthorn
-  - juniper
-  - teleospore
-  - basidiomycota
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
-type: concept
----
-
-# Gymnosporangium Cedar-Apple Rust
-
-## Overview
-
-Gymnosporangium globosum, the cause of hawthorn rust (cedar-hawthorn
-rust), is a basidiomycete fungus requiring two completely different
-host plants to complete its life cycle. On hawthorns and fruit trees
-it produces yellow-spotted leaves and galled berries covered with
-horn-like spore structures. On evergreens including cedars and
-junipers it produces entirely different spores. This alternation
-between two unrelated hosts, called heteroecism, is characteristic
-of many rust fungi and represents one of the most complex life
+  - [[rust-fungi]] and represents one of the most complex life
 cycles in the fungal kingdom.
 
 ## Disease Symptoms on Hawthorn
@@ -133,7 +105,5 @@ memorable plant diseases.
 
 ## See Also
 
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]

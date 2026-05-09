@@ -33,108 +33,84 @@ been proposed. The most widely recognized subdivisions include:
 
 - **Cannabis sativa** var. sativa — tall, loosely branched plants
   of warm temperate origin.
-- **[[cannabis-indica]]** Lam. — pyramidal or conical in form, typically
-  under 4 to 5 ft (120 to 150 cm), with broader leaflets and denser
-  foliage.
-- **Cannabis ruderalis** Janisch. — small, weedy, never cultivated;
-  found in Central Asia and parts of Eastern Europe.
-
-The taxonomic status of these forms remains debated. Some authorities
-treat them as distinct species, while others regard them as a single
-highly polymorphic species. The genus Cannabis has become very
-polymorphic through centuries of human selection for fiber, seed, and
-psychoactive resin production.
-
-## Description
-
-Cannabis sativa is a rank, robust, erect, loosely branched annual herb
-that under favorable conditions can sometimes attain heights of up to
-18 ft (5.4 m). The root system consists of a prominent taproot with
-lateral branches. Stems are angular, ridged, and typically green but may
-develop purple pigmentation, especially in indica-type plants.
-
-The species is normally dioecious, meaning male and female flowers are
-borne on separate plants, though monoecious individuals are known to
-occur under certain conditions. Male (staminate) plants tend to be
-taller and less bushy, maturing earlier. Female (pistillate) plants are
-shorter, branchier, and produce the coveted resinous flower clusters
-known as sinsemilla when unpollinated.
-
-Leaves are membranaceous, palmately digitate, with 3 to 15 (usually
-7 to 9) linear-lanceolate, serrated segments measuring 2.25 to 4 in
-(6 to 10 cm) in width. The leaflets have serrate margins and are borne
-on long petioles. The upper surface is darker green and slightly rough,
-while the underside is lighter.
-
-Flowers are borne in axillary or terminal clusters. They are small and
-inconspicuous, dark green, yellow-green, or brownish purple in color.
-Male flowers consist of five sepals and five stamens. Female flowers
-are enclosed in a green bracteal sheath (calyx) that is covered with
-glandular trichomes producing the psychoactive resin.
-
-The fruit is an ovoid, slightly compressed achene (commonly called a
-seed), 0.12 to 0.2 in (3 to 5 mm) long, grayish-brown with a mottled
-pattern, containing a single oily seed.
-
-## Distribution and Habitat
-
-Cannabis sativa is believed to have originated in Central Asia, likely
-in the region spanning the Altai Mountains to the Himalayas. It is now
-widely naturalized and cultivated throughout warm-temperate and
-subtropical zones worldwide. The plant thrives in open, disturbed
-habitats, along roadsides, and in cultivated fields. It prefers
-well-drained soils with ample sunlight and moderate moisture.
-
-## Chemistry
-
-The psychoactive properties of Cannabis are primarily attributed to a
-group of terpenophenolic compounds known as cannabinoids. The principal
-psychoactive constituent is delta-9-tetrahydrocannabinol (THC). Other
-notable cannabinoids include cannabidiol (CBD), cannabigerol (CBG), and
-cannabinol (CBN). The resin is produced in glandular trichomes
-concentrated on the bracts and leaves of female flowers.
-
-The plant also contains a complex mixture of terpenes and flavonoids
-that contribute to the characteristic aroma and may modulate the
-pharmacological effects through entourage interactions.
-
-## Ethnobotanical Uses
-
-Cannabis has one of the longest documented histories of human use of
-any psychoactive plant. The earliest Chinese herbal, the Pen-ts'ao-ching,
-attributed to the legendary Emperor Shen Nung (c. 2700 BCE), stated
-that the flowers "could enable one to see spirits and, when taken in
-excess, cause one to stagger madly." This ancient text prescribed
-cannabis for numerous ailments including malaria, constipation, and
-rheumatic pain.
-
-In India, cannabis has been used for millennia in religious and
-medicinal contexts. Bhang (a preparation from dried leaves and flowering
-tops), ganja (resinous flowering tops), and charas (hand-rubbed resin)
-are consumed in various forms during Hindu festivals such as Holi and
-Maha Shivaratri, where the plant is associated with the deity Shiva.
-
-In Mexico, Cannabis is known by the Nahuatl-derived name Zacatechichi,
-meaning "bitter grass." The Chontal Indians of Oaxaca prepare a tea
-from crushed dried leaves, which they use as a hallucinogen and as an
-aid in divination. The plant was likely introduced to the Americas
-following the Spanish conquest, though some theories propose earlier
-trans-Pacific contact.
-
-## History
-
-Cannabis fiber (hemp) was among the earliest plant fibers used by
-humans for textile production, with archaeological evidence dating back
-more than 10,000 years in Asia. The Scythians used hemp in funeral
-rites, as described by Herodotus. Cannabis spread along trade routes
-from Asia to the Middle East, Africa, and eventually Europe and the
-Americas. It was widely cultivated for fiber, seed oil, and medicine
-until restrictive legislation in the 20th century limited its use in
-many countries.
-
-## See Also
-
-- [[datura-stramonium]]
-- [[turbina-corymbosa]]
+- **[[datura-stramonium]]
 - [[ipomoea-violacea]]
 - [[peganum-harmala]]
+## Practical Applications
+
+Cannabis sativa L. has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Cannabis sativa L.. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

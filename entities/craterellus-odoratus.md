@@ -103,19 +103,11 @@ Successful cultivation of *Craterellus* species remains experimental. Inoculatio
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]]
 - [[cantharellus-tubaeformis]]
-- [[craterellus-cornucopioides]]
 - [[boletus-edulis-entity]]
-- [[laccaria-bicolor]]
 - [[pleurotus-ostreatus]]
-- [[suillus-luteus]]
 - [[hericium-erinaceus]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[fomes-fomentarius]]
-- [[trametes-versicolor]]
 - [[stropharia-rugosoannulata]]
-- [[russula-virescens]]
 - [[morchella-esculenta]]
-- [[polyporus-umbellatus]]
 - [[grifola-frondosa]]

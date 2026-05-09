@@ -74,60 +74,11 @@ Plant roots secrete very mild acids that break bonds holding nutrients onto humu
 5. Microbes excrete additional food for plants in their waste
 6. Many fungi secrete antibiotics that protect plants from disease
 
-This creates a truly [[symbiosis-art-of-living]] relationship. Many plants have become dependent on particular microbial partners and grow poorly without them.
-
-## Mineralization
-
-Organic compounds are converted to inorganic plant food (phosphate, nitrate, sulfate, etc.) — the same chemicals found in bags of fertilizer. This process is called **mineralization**.
-
-### The Problem with Soluble Fertilizers
-
-- Minerals are tiny, mobile molecules that dissolve easily in water and leach out quickly
-- Plant roots occupy only a tiny fraction of soil, so most minerals and chemical fertilizers never contact roots directly
-- Unless snapped up by humus or soil organisms, minerals wash into groundwater
-- Plants typically use only 10% of applied fertilizer, rarely more than 50%
-- The rest pollutes wells with toxic nitrate levels
-- Plants grown on organic-matter-rich soil are more disease-resistant
-
-## The Carbon-Nitrogen Balance
-
-### C:N Ratio in Decomposition
-
-As organic matter decomposes, carbon drifts into the atmosphere as CO2 while nitrogen stays behind. The carbon-to-nitrogen ratio decreases.
-
-### Nitrogen Immobilization
-
-Wood shavings and straw are high in carbon, low in nitrogen (C:N of 80:1 and 60:1 respectively). When mixed into soil, decomposer organisms (needing ~20-30:1 C:N) go on a "carbon-fueled rampage," consuming all available nitrogen and leaving none for plants.
-
-### Common C:N Ratios
-
-| Material | C:N Ratio |
-|----------|-----------|
-| Fish scraps | 4:1 |
-| Bonemeal | 3.5:1 |
-| Cottonseed meal | 5:1 |
-| Young alfalfa hay | 13:1 |
-| Fresh grass clippings | 15:1 |
-| Finished compost | 16:1 |
-| Clover (vegetative) | 16:1 |
-| Dry grass clippings | 19:1 |
-| Legume/grass hay | 25:1 |
-| Corn stover | 60:1 |
-| Grain hulls and chaff | 80:1 |
-
-High-carbon materials are fine as surface mulch but should not be tilled in without added nitrogen.
-
-## See Also
-
-- [[gaias-garden-soil-food-web-ecology]]
+This creates a truly [[soil-food-web-and-building-living-soil]]
 
 - [[gaias-garden-humus-soil-chemistry]]
 
-- [[gaias-garden-perennial-vegetables]]
-
-- [[composting-and-soil-biology]] — compost chemistry and the soil food web
-- [[soil-food-web-structure]] — structure of the soil food web
+- [[ozier-pdc-composting-and-soil-building]] — compost chemistry and the soil food web
 - [[soil-food-web-nutrient-cycling]] — nutrient cycling through the food web
-- [[fungal-roles-soil-food-webs]] — fungal roles in soil food webs
 - [[mollison-composting-methods]] — Mollison's composting methods
 - [[sepp-holzer-composting-and-humus-building]] — Holzer's approach to humus building

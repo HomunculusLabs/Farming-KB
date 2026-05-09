@@ -1,21 +1,7 @@
 ---
 title: Permaculture
 created: 2026-04-28
-tags: [permaculture, ecological-design, sustainability, gardening]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
-type: concept
----
-
-# Permaculture
-
-Permaculture is a set of techniques and principles for designing
-sustainable human settlements. The word, a contraction of both
-"permanent culture" and "permanent agriculture," was coined by Bill
-Mollison, a forester, schoolteacher, and field naturalist, and his
-student David Holmgren. Mollison says the original idea came to him in
+tags: [[david-holmgren]]. Mollison says the original idea came to him in
 1959 when he was observing marsupials browsing in the forests of
 Tasmania, and jotted in his diary, "I believe that we could build
 systems that would function as well as this one does."
@@ -132,7 +118,5 @@ functions.
 
 ## See Also
 
-- [[ecological-gardening-principles]]
 - [[zone-system]]
-- [[natives-vs-exotics]]
 - [[permaculture-food-forests-design-course]]

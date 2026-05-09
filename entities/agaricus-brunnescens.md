@@ -24,14 +24,8 @@ significant margin. It forms the foundation of the global commercial mushroom in
 a multi-billion dollar enterprise spanning every inhabited continent.
 
 Note that A. brunnescens is the older taxonomic name for what is now widely known as
-[[agaricus-bisporus]]. Many cultivators and older mycological literature continue to use
-the name A. brunnescens, and both names refer to the same species. The name
-"brunnescens" refers to the browning tendency of the flesh when bruised or cut, a
-characteristic feature of this species.
-
-In the cultivation literature, A. brunnescens is referenced in several contexts: as a
-species producing classically rhizomorphic mycelia (alongside [[psilocybe-cubensis]],
-[[psilocybe-cyanescens]], [[hypholoma-capnoides]] and [[hypholoma-sublateritium]]), and
+[[psilocybe-cubensis]],
+[[hypholoma-capnoides]] and [[hypholoma-sublateritium]]), and
 as a marketing comparison point for agrocybe-aegerita|Pioppino.
 
 ## Description

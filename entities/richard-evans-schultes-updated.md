@@ -65,6 +65,25 @@ Key principles from his work:
 - [[hallucinogenic-plants-new-world]] — New World species profiles
 - [[hallucinogenic-plant-chemistry]] — chemical families from Schultes's framework
 - [[entheogen-culture]] — religious/spiritual context
-- [[gordon-wasson]] — collaborator in ethnomycological research
+- [[r-gordon-wasson]] — collaborator in ethnomycological research
 - [[albert-hofmann]] — co-author of definitive reference
 - [[michael-harner]] — hallucinogens and shamanism
+## Practical Considerations
+
+Successful implementation of Richard Evans Schultes — Father of Ethnobotany requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

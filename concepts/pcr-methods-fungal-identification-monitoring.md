@@ -100,11 +100,7 @@ Uses two primers instead of one:
 
 ## See Also
 
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[dna-barcoding-fungal-identification]]
-- [[fungal-phylogeny-kingdom-classification]]
 - [[ribosomal-rna-sequencing-yeast-identification]]
-- [[fungal-rdna-primers-molecular-identification]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[molecular-fungal-taxonomy]]
 - [[fungal-culture-media-formulas-applications]]

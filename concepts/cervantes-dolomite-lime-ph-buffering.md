@@ -115,11 +115,8 @@ medium, especially in organically amended soils.
 
 ## See Also
 
-- [[cervantes-copper-micronutrient-management]]
 - [[cervantes-hydrated-lime-quicklime-ph-adjustment]]
 
-- [[cervantes-nutrient-management]] for nutrient deficiency symptoms
 - [[cannabis-ph-management-and-soil-flushing]]
-- [[cervantes-organic-amendments-chart]] for organic nutrient sources
 - [[cervantes-macronutrient-deficiency-toxicity]]
 - [[cervantes-secondary-nutrient-deficiency]]

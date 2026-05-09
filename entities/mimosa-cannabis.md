@@ -19,20 +19,12 @@ sources:
 
 # Mimosa (Cannabis Strain)
 
-**Mimosa** is a sativa-dominant hybrid cannabis strain renowned for its uplifting, energizing effects and distinctive citrus-forward aroma. A cross between **Clementine** and **Purple Punch**, Mimosa has rapidly gained popularity since its introduction for its balanced yet predominantly cerebral high that is well-suited for daytime use. The strain's name reflects both its bright orange-citrus terpene profile and its mood-elevating, "rise and shine" character.
-
-## Genetic Lineage
-
-**Clementine (Mother)**
-- Sativa-dominant hybrid
-- Cross of *Tangerine* × *Lemon Skunk*
-- Known for intense tangerine/citrus aroma and focused, uplifting effects
-- High limonene and myrcene content
+**Mimosa** is a sativa-dominant hybrid cannabis strain renowned for its uplifting, energizing effects and distinctive citrus-forward aroma. A cross between **Clementine** and **[[limonene]] and myrcene content
 - Provides Mimosa's energetic, creative mental stimulation
 
 **Purple Punch (Father)**
 - Indica-dominant hybrid
-- Cross of *Granddaddy Purple* × *Larry OG*
+- Cross of *[[larry-og]]*
 - Famous for sweet grape and blueberry flavors with relaxing body effects
 - High caryophyllene and myrcene content
 - Contributes body relaxation, berry undertones, and enhanced resin production
@@ -63,9 +55,7 @@ sources:
 | **Limonene** | 1.0–2.5% | Mood elevation, stress relief, anti-anxiety |
 | **Myrcene** | 0.5–1.5% | Relaxation, sedation (at higher levels), anti-inflammatory |
 | **β-Caryophyllene** | 0.3–0.8% | Anti-inflammatory, pain relief via CB2 receptor binding |
-| **Linalool** | 0.1–0.4% | Calming, anxiolytic, sleep support |
-| **Pinene (α+β)** | 0.1–0.3% | Focus, alertness, bronchodilation |
-| **Humulene** | 0.1–0.2% | Appetite suppression, anti-inflammatory |
+| **[[humulene]]** | 0.1–0.2% | Appetite suppression, anti-inflammatory |
 
 The limonene-dominant profile is the defining characteristic — Mimosa consistently ranks among the most citrus-forward strains available.
 
@@ -140,11 +130,7 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The entourage effect 
 **Clementine-dominant:** Taller, brighter orange aroma, more cerebral, longer flowering (up to 10 weeks).
 
 **Purple Punch-dominant:** Shorter/bushier, purple calyxes, sweeter grape flavor, more body relaxation, faster flowering (7–8 weeks).
-
 ## See Also
 
 - [[cannabis-blue-dream]]
-- [[granddaddy-purple]]
-- [[green-crack]]
-
 - [[cannabis-blue-dream]] — similar sativa-dominant hybrid with balanced effects

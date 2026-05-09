@@ -3,7 +3,7 @@ title: Fungal Oxalate Production Metal Transformation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Oxalate Production and Metal Transformation
@@ -111,11 +111,7 @@ Fungal oxalate production has wide-ranging ecological significance:
 - Secondary mineral formation affects long-term soil development
 
 Related topics:
-- [[fungal-biogeochemistry]]
 - [[fungal-weathering-rocks-minerals]]
-- [[fungal-roles-in-metal-biogeochemistry]]
 - [[ectomycorrhizal-ecology]]
-- [[fungal-soil-aggregation]]
 - [[mycorrhizal-mineral-weathering-nutrient-acquisition]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungal-nutrient-cycling-forests]]

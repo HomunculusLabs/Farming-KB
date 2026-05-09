@@ -13,7 +13,7 @@ tags: [phenethylamine, shulgin]
 
 ## Overview
 
-2C-G is a unique member of the [[2c-family-chemistry-and-sar-pihkal]] with a 3,4-dimethyl substitution pattern (instead of the typical 4-substituted pattern). It holds a special place in [[phenethylamine-pharmacology]] as the first example where the phenethylamine (2-carbon) and amphetamine (3-carbon) forms have approximately equal potency -- breaking the usual pattern where amphetamines are significantly more potent. Its extremely long duration (18-30 hours) and insight-enhancing qualities make it both intriguing and impractical for casual use.
+2C-G is a unique member of the [[phenethylamine-pharmacology]] as the first example where the phenethylamine (2-carbon) and amphetamine (3-carbon) forms have approximately equal potency -- breaking the usual pattern where amphetamines are significantly more potent. Its extremely long duration (18-30 hours) and insight-enhancing qualities make it both intriguing and impractical for casual use.
 
 ## Chemical Information
 
@@ -69,7 +69,6 @@ Synthesized from 2,3-xylenol via methylation to 2,3-dimethylanisole, oxidation t
 ## Comparison to Related Compounds
 
 - **GANESHA** (2,5-dimethoxy-3,4-dimethylamphetamine): The amphetamine homologue. Remarkably similar in potency, duration, and character to 2C-G -- the first case of phenethylamine-amphetamine parity.
-- [[2c-d-pihkal-entry-23]]: Both share a gentle quality at lower doses, but 2C-G is dramatically longer-acting (18-30h vs 4-6h) and more insight-oriented.
 - [[2c-d-pihkal-entry-23]]: 2C-E is more visually intense, more challenging, and shorter-acting. 2C-G is more of a "slow burn" insight enhancer.
 - [[2c-d-pihkal-entry-23]]: 2C-B is more sensual, more erotic, far shorter-acting, and more recreational. 2C-G is more contemplative and demanding.
 - [DOM: DOM shares the extremely long duration but is more classically psychedelic with stronger visual effects.
@@ -82,8 +81,7 @@ Synthesized from 2,3-xylenol via methylation to 2,3-dimethylanisole, oxidation t
 - Anorexic effects -- eat well before dosing.
 - The compound's psychotherapy potential is noted but the 30-hour duration makes therapeutic use impractical in most settings.
 - Milligram-accurate scales essential (20-35 mg active range).
-- See [[harm-reduction-guide]] for general psychedelic safety principles.
-- The [[set-and-setting-framework]] is critical given the extreme duration.
+- See [[set-and-setting-framework]] is critical given the extreme duration.
 - See [legal context for jurisdictional status.
 
 ## Practical Context
@@ -108,8 +106,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[phenethylamine-pharmacology]]
-- [[psilocybin-compound]]
-- [[psychedelic-safety-and-harm-reduction]]
+- [[psilocybin]]
 - [[psychedelic-harm-reduction-philosophy]]
 - [[powell-psilocybin-harm-reduction]]

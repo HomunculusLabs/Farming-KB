@@ -103,13 +103,8 @@ A succession of fungi appears over time. The chamber should be examined frequent
 
 ## See Also
 
-- [[fruiting-body-development]]
-
 - [[fungal-culture-media-formulas-applications]]
-- [[fungal-specimen-preparation-herbarium-management]]
 - [[coprophilous-fungi-ecology-diversity]]
-- [[mycetozoans-slime-molds]]
 - [[water-activity-osmophilic-fungal-media-preparation]]
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 - [[coprophilous-fungi-ecology-succession]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

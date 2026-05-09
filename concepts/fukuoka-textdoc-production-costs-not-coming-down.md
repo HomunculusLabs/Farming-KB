@@ -85,39 +85,6 @@ abundantly when he works in harmony with her processes.
 
 ## Contrast with Natural Farming
 
-In [[fukuoka-textdoc-energy-wasteful-modern-agriculture]], Fukuoka shows that
-natural farming requires only one man-day of labor to recover 130 pounds of
-rice, or 200,000 kilocalories of food energy, from a quarter-acre of land. The
-energy input needed is merely the 2,000 kilocalories required to feed one
-farmer for one day. Mechanized agriculture requires ten to fifty times this
-energy expenditure, with no corresponding improvement in food quality or
-availability.
-
-## The Real Economic Question
-
-The question is not whether technology can produce more food but whether
-natural food production, requiring minimal inputs, can sustain human
-populations when practiced widely. Fukuoka's answer is unequivocally yes: a
-quarter-acre of land, worked with natural methods, can support a family. The
-so-called efficiencies of scientific agriculture are false economies that
-conceal enormous hidden costs in energy, environmental degradation, and human
-health.
-
-## Implications for Food Policy
-
-The persistent belief that technology will eventually lower food costs has
-driven agricultural policy for decades. Governments subsidize technological
-inputs, fund research into increasingly artificial production methods, and
-structure trade agreements around the assumption that scientific farming
-represents the future of food. Fukuoka's analysis suggests this entire
-framework is built on a false premise. Rather than making food cheaper,
-technological agriculture makes food more expensive while externalizing its
-true costs onto the environment and public health.
-
-## See Also
-
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-increased-production-not-increased-yields]]
+In [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
-- [[fukuoka-mu-economics]]
 - [[fukuoka-critique-of-scientific-agriculture]]

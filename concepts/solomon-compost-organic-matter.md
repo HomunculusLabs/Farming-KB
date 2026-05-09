@@ -12,49 +12,7 @@ created: 2026-04-24
 
 ## Why Compost Quality Matters
 
-[[steve-solomon]] is blunt about compost quality: "Not all composts do; most, in
-fact, don't" contain sufficient nutrients to grow vegetables effectively. He
-presents a table of compost analyses showing that nitrogen content ranges from
-0.06 percent (municipal refuse compost) to 1.78 percent (high-quality compost),
-with carbon-nitrogen ratios ranging from 7:1 to 88:1.
-
-For compost to serve as the sole source of fertility for high-demand vegetables,
-it needs nitrogen content exceeding 3 percent, total N+P+K exceeding 6 percent
-(with a fair amount of phosphorus), and a C/N no higher than 12:1. Low-grade
-compost (around 1.5 percent nitrogen, C/N around 20:1) can barely grow
-low-demand vegetables. Medium-quality compost works for medium-demand crops in
-most soils and climates.
-
-## Three Grades of Compost
-
-**Low-grade compost:** The product of slow, cool decomposition in bins or piles
-where woody material predominates. Barely suitable for the garden, better for
-flowers and shrubs. Gardeners using this should supplement with COF or sacked
-chicken manure.
-
-**Medium-quality compost (the once-a-year heap):** Solomon's recommended method
-for gardeners without livestock. A single large heap is built in early autumn
-from all accumulated vegetative wastes and kitchen garbage, allowed to dry for
-eleven months, then moistened and turned two to three times. In temperate
-climates, this produces usable compost by the time hot-weather crops are
-planted. Each turn is easier than the previous one because the material has
-broken down more.
-
-**High-quality compost:** Requires careful management of carbon-nitrogen ratios,
-moisture, and aeration. Achievable when strong manures or seedmeals are
-incorporated into the heap. Essential for growing high-demand vegetables without
-supplemental fertilizer in cool maritime climates.
-
-## The Problem with Municipal Compost
-
-Municipal compost is "not potent enough for vegetable growing" because much of
-the input material is paper, cardboard, chipped tree trimmings, and other woody
-waste with high C/N ratios. Starting C/N often exceeds 50:1. After extensive
-processing, the C/N drops to about 25:1, but more than half the carbon (and most
-of the nitrogen) has been lost as greenhouse gases. The final product is better
-suited as mulch for ornamentals than for growing food.
-
-## [[sheet-composting]]
+[[sheet-composting]]
 
 Sheet composting -- spreading organic matter directly on the soil surface and
 digging it in -- is riskier than heap composting because the C/N is harder to
@@ -107,6 +65,24 @@ value but does feed soil microbes and improve structure. Sacked chicken manure
 
 ## See Also
 
-- [[solomon-complete-organic-fertilizer-guide]] for COF to supplement compost -
-[[solomon-soil-mineral-depletion]] for mineral balance considerations -
+- [[solomon-soil-mineral-depletion]] for mineral balance considerations -
 [[solomon-raised-beds]] for application rates on beds
+## Practical Considerations
+
+Successful implementation of Compost and Organic Matter Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

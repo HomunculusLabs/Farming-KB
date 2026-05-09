@@ -81,44 +81,13 @@ When E. coli-free compost is used and the tea remains aerobic, no amount of mola
 
 ## See Also
 
-- [[compost-tea-aact]]
 - [[aact-brewing-ingredients-ingham]]
-- [[aact-aeration-oxygen-management-ingham]]
-
 - [[aact-fungal-dominant-tea]]
-- [[aact-disease-suppression-recipes]]
 - [[compost-tea-for-specific-crops]]
 
 ## Related
 
-- [[ingham-fungal-food-selection]]
 - [[ingham-nutrient-cycling-soil-food-web]]
-- [[ingham-root-disease-treatment]]
-
-## Practical Context
-Aact Bacterial Dominant Tea is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]]
-- [[ingham-coli-compost-tea-food-safety]]
 - [[aact-aeration-oxygen-management-ingham]]
-- [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
 - [[query-what-is-humic-acid-and-when-should-i-use-it]]

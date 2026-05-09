@@ -30,55 +30,10 @@ enhancing cellular energy.
 
 ## Key Adaptogens
 
-### [[ashwagandha-growing-guide]] (Withania somnifera)
-
-Nervine tonic, anxiolytic, anti-inflammatory, sleep aid. Withanolides are
-key constituents. Dosage: 300-600mg extract (2.5-5% withanolides) 1-2x
-daily, or 1-2ml tincture 3x daily. Caution: nightshade sensitivity,
-hyperthyroidism. Traditional use in warm milk.
-
-### Rhodiola (Rhodiola rosea)
-
-Stimulating adaptogen, mental performance, fatigue reduction, endurance.
-Rosavin and salidroside are key. Dosage: 200-600mg standardized extract
-(3% rosavins, 1% salidroside) daily, morning only. Caution: bipolar
-disorder, insomnia. Do not take before bed.
-
-### Reishi ([[ganoderma-lucidum]])
+### [[ganoderma-lucidum]])
 
 Deep immune tonic, anti-inflammatory, hepatoprotective, calming. Beta-glucans
-and triterpenoids ([[ganoderic-acids]]). Dosage: 1-3g powder or 2-4ml dual
-extract tincture 2x daily. Caution: mild anticoagulant effect. Best as
-decoction or dual extract.
-
-### Cordyceps (Cordyceps militaris)
-
-Increases ATP production, oxygen utilization, athletic performance, kidney
-and lung support. Cordycepin and adenosine. Dosage: 1-3g powder daily.
-Caution: autoimmune conditions, blood-thinners. Best taken morning or before
-exercise. C. militaris is cultivated and affordable.
-
-### Holy Basil / Tulsi (Ocimum sanctum)
-
-Gentle daily adaptogen, anxiolytic, anti-inflammatory, blood sugar support.
-Eugenol, ursolic acid, rosmarinic acid. Dosage: 300-600mg capsules 2x daily,
-2-3 cups tea, or 2-3ml tincture 2x daily. Caution: mild anticoagulant.
-Excellent as daily tea; very safe.
-
-### Eleuthero (Eleutherococcus senticosus)
-
-Stimulating adaptogen, endurance, mental clarity, immune support. Eleutherosides.
-Dosage: 300-1200mg extract or 2-4ml tincture 2x daily. Caution: high blood
-pressure. Formerly called Siberian ginseng.
-
-### Schisandra (Schisandra chinensis)
-
-Liver tonic, adaptogen, mental focus, anti-fatigue, antioxidant. Schisandrins
-and lignans. Dosage: 1-3g dried berries as tea, 2-4ml tincture 2x daily, or
-500mg extract 2x daily. Caution: acid reflux, epilepsy. "Five-flavor berry"
-(sweet, sour, salty, bitter, pungent).
-
-### Lion's Mane ([[hericium-erinaceus]])
+and triterpenoids ([[hericium-erinaceus]])
 
 NGF stimulator, cognitive enhancement, neuroprotective, mood support.
 Hericenones, erinacines, beta-glucans. Dosage: 500-3000mg dual extract daily.
@@ -103,24 +58,31 @@ alcohol) for full spectrum.
 ## Historical and Cross-Cultural Context
 
 Adaptogenic herbs have deep roots in multiple traditional medical systems, though the formal concept of "adaptogenesis" is relatively modern. In Ayurveda, herbs classified as *rasayana* (rejuvenatives) — including ashwagandha, shatavari, and holy basil — share the characteristics now described as adaptogenic: they nourish the body, increase resistance to stress, and promote longevity without specific disease-targeting action. Traditional Chinese Medicine (TCM) uses the concept of *tonics* (*qi* and *jing* tonics) that similarly strengthen foundational physiological resilience; Panax ginseng, eleuthero (wujia), and reishi (lingzhi) are classic examples. Siberian indigenous peoples used eleuthero and rhodiola for stamina and resilience in extreme cold, practices that attracted Soviet scientific attention in the 1940s. The Soviet research program, led by Brekhman and Dardymov, systematized the adaptogen concept partly to develop performance-enhancing substances for military and athletic use. This Cold War origin explains both the rigorous pharmacological standards applied to adaptogen classification and the initial Western skepticism toward the concept. Modern research has increasingly validated the molecular mechanisms underlying traditional use, particularly through studies on HPA axis regulation, NF-κB pathway modulation, and mitochondrial function enhancement.
-
 ## See Also
 
 - [[rhodiola-rosea]]
 
-- [[immune-modulating-mushrooms-and-herbs]] — Medicinal mushrooms and immune
-  herbs with adaptogenic overlap
 - [[nervine-herbs-and-anxiety-relief]] — Nervine herbs for acute anxiety
   relief (complementary to adaptogens)
-- [[medicinal-plant-preparations-tinctures-salves-teas]] — Preparation methods
-  for adaptogenic herbs
-
-## Related
-
 - [[nervine-herbs-and-anxiety-relief]]
-- [[immune-modulating-mushrooms-and-herbs]]
 - [[nootropic-herbs-guide]]
-- [[herbal-medicine-history]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[gynostemma-pentaphyllum]]
+
+## Merged: What Are Adaptogenic Herbs and How Do I Grow Them?
+
+## See Also
+
+- [[query-how-to-grow-moringa-and-what-are-its-benefits]]
+
+- [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for processing adaptogens into medicine
+- [[query-how-to-make-herbal-salves-and-balms-at-home]] for topical preparations
+- [[query-what-are-the-best-mushrooms-for-medicinal-use]] for adaptogenic mushroom species
+
+## Merged: What Is Breadfruit and How Can I Grow It in a Tropical Food Forest?
+
+# What Is Breadfruit and How Can I Grow It in a Tropical Food Forest?
+
+> A practical FAQ for adding this high-yield staple tree to your tropical food forest.
+
+---

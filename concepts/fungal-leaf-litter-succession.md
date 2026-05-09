@@ -3,7 +3,7 @@ title: Fungal Leaf Litter Succession
 created: 2026-04-10
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -117,11 +117,7 @@ unprecedented resolution.
 
 ## Related
 
-- [[fungal-decomposition-kinetics]]
 - [[fungal-stable-isotope-ecology]]
-- [[fungal-metagenomics]]
 - [[fungal-quorum-sensing-autoregulation]]
-- [[fungal-life-history-strategies]]
 - [[fungal-enzyme-activity-nutrient-availability]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[humus-formation-and-soil-organic-matter]]

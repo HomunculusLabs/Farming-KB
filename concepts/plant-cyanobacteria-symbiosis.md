@@ -16,15 +16,7 @@ Geosiphon pyriforme is a unique coenocytic soil fungus that forms the only known
 
 Geosiphon is significant as a potential model system for understanding arbuscular mycorrhiza, as both systems involve endocytobiotic nutrient exchange.
 
-Key differences from [[lichens]] include that Geosiphon represents an endocytobiotic consortium (photobiont living inside the fungal cell), does not survive water loss, is sensitive to high temperatures, and grows only in moderate light conditions.
-
-## Bryophyte-Cyanobacteria Symbiosis
-
-Liverworts such as Anthoceros, Notothylas and Blasia possess cyanobacteria (Nostoc) as symbiotic partners. The endophyte colonizes mucilage cavities on the ventral side of the thallus. With maturity, the mucilage dries to form air-filled chambers that become invaded by Nostoc, which produces more heterocysts than in the free-living condition, indicating active nitrogen fixation.
-
-Within the cavity, Anthoceros produces branched hypha-like filaments interspersed with the algal colony, facilitating transport and exchange of materials between partners.
-
-Bryophyte-cyanobacteria symbioses are particularly important in boreal and subarctic ecosystems where they contribute significantly to the [[composting-and-soil-biology]], fixing atmospheric nitrogen in nutrient-poor bog and tundra habitats where few other nitrogen-fixing organisms thrive.
+Key differences from [[ozier-pdc-composting-and-soil-building]], fixing atmospheric nitrogen in nutrient-poor bog and tundra habitats where few other nitrogen-fixing organisms thrive.
 
 ## Azolla-Anabaena Symbiosis
 
@@ -38,7 +30,7 @@ Cycads, the only gymnosperms known to form symbiotic relationships with nitrogen
 
 The unique positioning of cyanobacteria in the midcortical zone creates a specialized microenvironment that balances the conflicting requirements of photosynthesis (needing light) and nitrogen fixation (needing low oxygen).
 
-The cyanobacteria in cycad roots also contribute to [[mycorrhizal-nutrient-uptake]] dynamics when cycads form associations with [[mycorrhizal-fungi]] in their regular root systems.
+The cyanobacteria in cycad roots also contribute to [[mycorrhizal-fungi]] in their regular root systems.
 
 ## Cyanobacteria as Nitrogen Fixers
 
@@ -72,16 +64,8 @@ The ability of these symbioses to function without chemical nitrogen inputs make
 
 Cyanobacterial symbioses are among the oldest known plant-microbe interactions, with fossil evidence suggesting their existence for hundreds of millions of years.
 
-The ubiquity of cyanobacteria as symbionts across diverse plant lineages points to an ancient origin predating the evolution of more specialized [[rhizobium-legume-symbiosis]] partnerships.
-
-The repeated independent establishment of cyanobacterial associations in different host lineages provides a valuable evolutionary framework for understanding the convergent evolution of nitrogen-fixing symbioses.
-
-## See Also
-
-- [[rhizobium-legume-symbiosis]]
-- [[actinorhizal-symbiosis-frankia]]
+The ubiquity of cyanobacteria as symbionts across diverse plant lineages points to an ancient origin predating the evolution of more specialized [[rhizobium-legume-symbiosis]]
 - [[mycorrhizal-fungi]]
-- [[nitrogen-fixing-trees-and-shrubs]]
 - [[mycorrhizal-nutrient-transport]]
 
 ## References
@@ -89,3 +73,22 @@ The repeated independent establishment of cyanobacterial associations in differe
 - Das A, Varma A (2009) Symbiosis: The Art of Living. In: Varma A, Kharkwal AC (eds) Symbiotic Fungi, Soil Biology 18. Springer.
 - Schussler A, Kluge M (2001) Geosiphon pyriforme. Prog Bot 62:185-203.
 - Peters GA (1977) The Azolla-Anabaena azollae relationship. IV. Physiol Plant 40:84-90.
+## Practical Considerations
+
+Successful implementation of Plant Symbiosis with Cyanobacteria requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -135,12 +135,8 @@ strain's association with premium, high-powered effects.
 
 ## See Also
 
-- [[sour-diesel]]
 - [[chemdog]]
-- [[nyc-diesel]]
 - [[og-kush]]
-- [[myrcene]]
 - [[beta-caryophyllene]]
-- [[limonene]]
 - [[super-lemon-haze]]
 - [[jack-herer]]

@@ -16,10 +16,8 @@ type: concept
 
 # Biological Services and Working Animals in Permaculture
 
-[[david-holmgren]] emphasises that specific non-consuming services gained directly from
-plants and animals are central to [[permaculture-design]]. These biological services
-range from microbial [[nutrient-cycling-in-soil]] to the work of domesticated animals,
-and represent a fundamental strategy within [[holmgren-renewable-resources-detailed]]
+[[permaculture-design]]. These biological services
+range from microbial [[holmgren-renewable-resources-detailed]]
 for reducing dependence on non-renewable energy and materials.
 
 ## Nature's Renewable Services
@@ -127,6 +125,5 @@ modern technology in combination with animals, exemplify Permaculture in action
 as much as the horticulturalist saving heirloom varieties or maintaining grafting
 skills.
 
-See also: [[holmgren-livestock-animal-systems]],
-[[holmgren-integrate-segregate-detailed]],
+See also: [[holmgren-integrate-segregate-detailed]],
 [[holmgren-renewable-resources-detailed]]

@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Water plants are among the most productive crops in permaculture systems. Many aquatic species produce enormous biomass yields per hectare and provide food, fodder, fibre, water purification, and wildlife habitat simultaneously. They are essential components of any [[permaculture-aquaculture-design]] or [[permaculture-pond-and-water-garden]].
+Water plants are among the most productive crops in permaculture systems. Many aquatic species produce enormous biomass yields per hectare and provide food, fodder, fibre, water purification, and wildlife habitat simultaneously. They are essential components of any [[permaculture-pond-and-water-garden]].
 
 ## Floating and Emergent Vegetables
 
@@ -71,61 +71,11 @@ Other uses: Oil can be pressed from the seed. The leaves yield a soft fibre used
 
 **Family:** ARACEAE
 
-Widely cultivated in tropical and subtropical regions. The corm is the main edible part, cooked like potatoes. Leaves can also be eaten when cooked. Requires wet or waterlogged conditions. A staple food across the Pacific, Southeast Asia and Africa. See [[permaculture-taro-guide]] for detailed cultivation.
-
-### Oryza sativa (Floating Rice)
-
-**Family:** POACEAE
-
-This species floats on water up to 6 m deep, although the seed is usually broadcast onto dry or damp soil before flooding occurs. The plants will withstand being flooded for up to 30 days.
-
-## Grain and Seed Crops
-
-### Zizania aquatica (Wild Rice)
-
-**Family:** POACEAE
-
-A native to the north western USA and southern Canada, this broad-leaved grass grows on stream banks, marshes and shallow ponds. The plant may grow to 3 m and is best suited to fresh water about 1 m deep. The wild rice seed is high in vitamin B and is easily digested. The green seed requires no cooking and it is sufficient to pour boiling water over it, but the dried seed has to be cooked for an hour. The American Indians ate it boiled with blueberries or maple syrup.
-
-## Utility Grasses
-
-### Phragmites spp (Reed Grass, Trinius)
-
-**Family:** POACEAE
-
-Found growing in water depths to 1.5 metres, this perennial, emergent, narrow-leaf grass grows to heights of up to 4 m. It is a good habitat for fish and wildlife although unchecked it can become invasive. Uses include thatching and building, reed mats and fodder.
-
-### Phragmites australis (Common Reed Grass)
-
-A cosmopolitan plant common in Australia where it is usually found growing in dense clumps at the margins of swamps, lakes and water courses. Tolerant of brackish water. This tall (2-3 m) grass has edible shoots eaten like bamboo sprouts or pickled, said to taste like asparagus. Native North Americans made a marshmallow-like confection from the dried stems, and also ate the rhizome boiled or roasted like potatoes. Dried young leaves are mixed with cereal flour to make dumplings in Japan. A sugary gum which exudes from the stem can be rolled into balls and eaten as a sweet. The grain is difficult to remove from its hull but is claimed to be nutritious.
-
-## Water Margin Plants
-
-### Mentha spp (Mints)
-
-Medicinal and aromatic. Useful around pond margins.
-
-### Pennisetum spicatum (Pearl Millet)
-
-Probably a native of Africa, this annual plant has been cultivated for its seed for over 300 years. Yields of 100 tonnes/ha have been recorded and it requires about 120 days to mature. The seed is said to be immune to weevil attack and can be stored for up to seven years.
-
-### Vaccinium spp (Blueberry)
-
-Many blueberry species grow well at water margins and tolerate wet soils.
-
-## Permaculture Integration
-
-- Water plants are among the most productive biomass generators known -- kang kong yields up to 90,000 kg/ha
-- [[permaculture-aquaculture-guide]] systems benefit from duckweed and water plants as fish and animal feed
+Widely cultivated in tropical and subtropical regions. The corm is the main edible part, cooked like potatoes. Leaves can also be eaten when cooked. Requires wet or waterlogged conditions. A staple food across the Pacific, Southeast Asia and Africa. See [[permaculture-aquaculture-guide]] systems benefit from duckweed and water plants as fish and animal feed
 - Cattail (Typha) is one of the most multi-functional plants: food, fibre, water purification, wildlife habitat, bank stabilisation
 - Arrow-head tubers provide potato-like crops from water margins
 - Lotus provides edible seeds, roots, and leaves from a single perennial plant
-- Use in [[permaculture-designers-manual-wetland-treatment]] for greywater and runoff purification
-- Integrate with [[permaculture-duck-pond-systems]] for duck forage
+- Use in [[permaculture-duck-pond-systems]] for duck forage
 - Water cress provides winter greens in cool flowing water zones
 - Wild rice provides a high-value grain from shallow water without annual ploughing
-- See also [[permaculture-designers-manual-aquatic-plants]] for comprehensive aquatic species lists
-
-## See Also
-
-- [[permaculture-date-palm-guide]]
+- See also [[permaculture-date-palm-guide]]

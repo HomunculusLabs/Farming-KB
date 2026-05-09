@@ -3,20 +3,7 @@ title: Permaculture Design Course -- Community Design and Social Structures
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, design, community, ecovillage, social-structures, invisible-structures, pdc]
-sources:
-  - "William Ozier-Williams, PDC: A Permaculture Design Course"
----
-# Permaculture Design Course -- Community Design and Social Structures
-
-## Invisible Structures
-
-The world is shaped by both visible and invisible structures. Invisible structures are forces that govern behavior -- they cannot be pointed at as discrete things, but they manifest through physical structures. Examples include seasons (natural) and the 8-hour work day (human-made). Every invisible structure has a concurrent physical structure, and every physical structure creates invisible structures (like ripples of cause and effect).
-
-Invisible structures include:
-- Systems of governance and rules
-- Cultural traditions
-- Economic patterns (see [[pdc-economics-and-livelihoods]])
+tags: [[pdc-economics-and-livelihoods]])
 - Legal structures (zoning ordinances, building codes)
 - Social patterns and community norms
 
@@ -91,12 +78,9 @@ While Permaculture's principles were developed for ecological design, they apply
 
 ## Related
 
-- [[pdc-economics-and-livelihoods]]
 - [[pdc-urban-and-suburban-applications]]
 
 ## See Also
 
-- [[natural-farm-permaculture-ethics-principles]]
 - [[pdc-site-analysis-and-mapping]]
-- [[permaculture-pattern-language]]
 - [[bioregional-organization]]

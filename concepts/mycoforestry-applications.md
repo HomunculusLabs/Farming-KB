@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Mycoforestry Applications
 
@@ -113,11 +114,7 @@ Mycoforestry combines fungal and plant remediation capabilities:
 
 ## See Also
 
-- [[radioactive-contamination-and-fungi]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[mycoforestry]]
-- [[fungal-ecology]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- [[fungal-soil-aggregate-formation-glomalin]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

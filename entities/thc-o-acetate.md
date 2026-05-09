@@ -121,9 +121,7 @@ The legal ambiguity in the United States stems from the 2018 Farm Bill's definit
 
 ## See Also
 
-- [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
-- [[cannabis-sativa]]
 - [[lsd]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - delta 8 thc

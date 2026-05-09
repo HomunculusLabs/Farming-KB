@@ -131,8 +131,6 @@ The ecological requirements of wild psilocybin species, particularly the need fo
 
 ## Related Pages
 
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-hallucinogenic-mushroom-european-species-distribution]]
-- [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]

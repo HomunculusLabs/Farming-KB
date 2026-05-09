@@ -122,11 +122,7 @@ The species is suitable for organic cultivation and shows good pest resistance d
 
 ## See Also
 
-- [[melissa-officinalis]]
 - [[verbena-officinalis]]
-- [[salvia-officinalis]]
 - [[rosmarinus-officinalis-entity]]
-- [[thymus-vulgaris-entity]]
 - [[origanum-vulgare-entity]]
-- [[mentha-piperita]]
 - [[ocimum-sanctum]]

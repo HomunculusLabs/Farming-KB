@@ -104,13 +104,8 @@ In horticulture, the ornamental forms are valued for their late summer bloom per
 
 ## See Also
 
-- [[astragalus-membranaceus]]
 - [[panax-ginseng]]
-- [[panax-notoginseng]]
 - [[codonopsis-pilosula]]
-- [[glycyrrhiza-uralensis]]
 - [[schisandra-chinensis]]
-- [[scutellaria-baicalensis]]
 - [[rehmannia-glutinosa]]
-- [[polygonatum-biflorum]]
 - [[angelica-sinensis]]

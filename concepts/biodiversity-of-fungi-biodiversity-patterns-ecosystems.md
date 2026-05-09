@@ -15,9 +15,7 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11, 13, and related 
 
 ## Introduction
 
-Understanding fungal biodiversity patterns across different ecosystem types is essential for agriculture because surrounding landscapes provide inoculum sources, influence pest and pathogen pressure, and contribute to regional ecosystem services such as pollination, water purification, and climate regulation. The diversity and composition of fungal communities vary dramatically across biomes, with important consequences for agricultural systems embedded within or adjacent to natural and semi-natural habitats. See [[fungal-biodiversity]] for a general overview.
-
-See also: [[fungal-biodiversity]], [[fungal-biogeography]], [[fungal-biodiversity-by-ecosystem]]
+Understanding fungal biodiversity patterns across different ecosystem types is essential for agriculture because surrounding landscapes provide inoculum sources, influence pest and pathogen pressure, and contribute to regional ecosystem services such as pollination, water purification, and climate regulation. The diversity and composition of fungal communities vary dramatically across biomes, with important consequences for agricultural systems embedded within or adjacent to natural and semi-natural habitats. See [[fungal-biodiversity]], [[fungal-biodiversity-by-ecosystem]]
 
 ## Grassland and Pasture Fungi
 
@@ -31,38 +29,7 @@ Key characteristics of grassland fungal communities:
 - Adaptation to periodic disturbance (grazing, fire, drought)
 - Significant contribution to soil carbon storage through root-derived organic matter
 
-See also: [[fungal-biodiversity-grassland]], [[fungal-roles-grassland-ecosystems]], [[mycorrhizal-grasses-lawns]]
-
-### Agricultural Pastures
-
-Managed pastures represent modified grassland ecosystems where:
-- Intensive grazing can reduce fungal biomass compared to ungrazed grasslands
-- Fertilizer application shifts community composition
-- Introduction of improved grass species (often with endophytes) alters fungal communities
-- Soil compaction from livestock affects hyphal network integrity
-
-### Clavicipitaceous Endophytes in Pastures
-
-The symbiosis between cool-season grasses and clavicipitaceous endophytes (Epichloe/Neotyphodium) is one of the most important fungal-plant interactions in pasture agriculture. These endophytes:
-- Produce alkaloids that deter insect herbivores
-- May enhance drought tolerance and nutrient acquisition
-- Can cause animal health problems (fescue toxicosis, ryegrass staggers)
-- "Novel endophytes" have been selected to provide insect deterrence without animal toxicity
-
-See also: [[clavicipitaceous-grass-endophytes]], [[fungal-endophytes-plant-fitness]]
-
-## Forest Ecosystems
-
-### Temperate and Boreal Forests
-
-Temperate and boreal forests harbor extremely diverse fungal communities. The Wisconsin surveys found more than 476 taxa in northern conifer-hardwood forests and more than 210 taxa in southern wet-mesic hardwood forests. Key features:
-
-- **Litter layer**: Supports distinct fungal communities tied to the overlying plant species composition
-- **Humus layer**: Characterized by specialized decomposers adapted to acidic, phenolic-rich conditions
-- **Mineral soil**: Lower diversity but harbors persistent propagule banks
-- **Wood debris**: Supports specialized wood-decay fungal communities (white-rot, brown-rot, soft-rot)
-
-See also: [[fungal-biodiversity-forest-ecosystems]], [[fungal-biodiversity-forest-floor]], [[fungal-dead-wood-diversity]]
+See also: [[fungal-roles-grassland-ecosystems]], [[clavicipitaceous-grass-endophytes]], [[fungal-biodiversity-forest-ecosystems]], [[fungal-dead-wood-diversity]]
 
 ### Tropical Forests
 
@@ -70,13 +37,7 @@ Tropical forests are the most diverse terrestrial ecosystems, and their fungal d
 
 ### Ectomycorrhizal Dominance
 
-In many temperate and boreal forests, [[ectomycorrhizal-ecology]] dominates the fungal community. Ectomycorrhizal fungi:
-- Form extensive mycelial networks connecting trees
-- Play key roles in nutrient cycling (especially nitrogen and phosphorus)
-- Produce fruiting bodies (mushrooms) that support wildlife food webs
-- Contribute significantly to soil carbon through hyphal turnover and exudates
-
-See also: [[ectomycorrhizal-fungal-ecology]], [[ectomycorrhizal-host-tree-partnerships]], [[ectomycorrhizal-mushroom-fruiting-ecology]]
+In many temperate and boreal forests, [[ectomycorrhizal-fungal-ecology]], [[ectomycorrhizal-mushroom-fruiting-ecology]]
 
 ## Agricultural Landscapes as Fungal Habitats
 
@@ -91,7 +52,7 @@ Factors reducing fungal diversity in croplands:
 - Pesticides kill non-target fungi
 - Clean fallows eliminate living root hosts
 
-See also: [[fungal-diversity-agricultural-systems]], [[fungal-roles-in-agriculture]]
+See also: [[fungal-roles-in-agriculture]]
 
 ### Edge Effects and Landscape Context
 
@@ -109,34 +70,11 @@ Agroforestry combines trees with crops or livestock, creating habitat for divers
 - Shaded conditions favor different fungal communities than open fields
 - Greater structural complexity creates more microhabitats
 
-See also: [[ethnomycology]], [[fungal-conservation-biology]]
-
-## Disturbance and Succession
-
-### Primary Succession
-
-Fungal communities undergo predictable succession during primary succession (e.g., after volcanic eruption, glacier retreat):
-- Early colonizers are typically opportunistic, fast-growing species with broad substrate ranges
-- Later successional stages show increasing diversity and specialization
-- Mycorrhizal fungi establish as plant communities develop
-- Community composition converges toward that of mature ecosystems over decades to centuries
-
-### Secondary Succession
-
-After disturbance (fire, cultivation, abandonment), fungal communities recover through secondary succession:
-- Soil propagule banks (spores, sclerotia) provide the inoculum for recolonization
-- Mycorrhizal networks can persist in soil and rapidly recolonize plant roots
-- Recovery time depends on disturbance severity and landscape context
-- Active inoculation can accelerate recovery of beneficial fungal communities
-
-See also: [[fungal-succession-patterns]], [[fungal-soil-aggregation]], [[fungal-communities-succession]]
+See also: ethnomycology, [[fungal-succession-patterns]], [[fungal-communities-succession]]
 
 ### Agricultural Disturbance
 
-Cultivation represents a recurring disturbance that resets fungal community succession. See [[soil-disturbance-mycorrhizal-impact]] for how tillage affects mycorrhizal communities:
-- Each tillage event disrupts hyphal networks and redistributes organic matter
-- Fungal communities recover partially between tillage events
-- No-till systems allow successional development of more mature fungal communities. See [[composting-and-soil-biology]] for no-till approaches.
+Cultivation represents a recurring disturbance that resets fungal community succession. See [[ozier-pdc-composting-and-soil-building]] for no-till approaches.
 - The degree of disturbance affects the balance between r-selected (weedy) and K-selected (competitive) fungal species
 
 ## Biogeographic Patterns

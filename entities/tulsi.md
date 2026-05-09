@@ -136,15 +136,11 @@ Tulsi excels in permaculture food forests and herb spirals for:
 - Pest repellent properties (aphids, whiteflies, mosquitoes)
 - Companion planting with tomatoes, peppers, and nightshades
 - Low input requirements and volunteer self-seeding behavior
-
 ## See Also
 
 - holy basil tulsi guide
 
-- [[ashwagandha]]
 - [[ocimum-basilicum]]
-- [[fish-amino-acid-faa]]
-- adaptogens
 - [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]
 - lamiaceae
 - [[permaculture-herb-spiral-details]]

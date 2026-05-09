@@ -121,7 +121,9 @@ Less common admixtures include *Justicia pectoralis*, *Ilex guayusa* (for caffei
 
 ## See Also
 
-- [[5-meo-dmt-entity]] — the non-visionary DMT analog found in some ayahuasca preparations and *Anadenanthera* spp.
 - [[amanita-muscaria-entity]] — another culturally significant psychoactive fungus with different pharmacology
-- [[salvia-apiana]] — North American sacred plant used in smudging ceremonies, providing a contrast in ethnobotanical context
 - [[4-aco-dmt]] — synthetic prodrug of DMT with clinical research applications
+
+## See Also
+
+- [[ayahuasca-and-banisteriopsis-caapi]]

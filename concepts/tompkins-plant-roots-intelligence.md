@@ -129,8 +129,6 @@ internal gyroscope.
 
 ## See Also
 
-- [[bacterial-endophytes-plant-roots]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-perception]]
 - [[plant-fungal-signaling-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]

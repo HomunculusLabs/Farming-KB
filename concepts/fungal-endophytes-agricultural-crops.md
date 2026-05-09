@@ -3,7 +3,7 @@ title: Fungal Endophytes in Agricultural Crops
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Endophytes in Agricultural Crops
@@ -94,15 +94,11 @@ Fungal endophytes are prolific producers of secondary metabolites with potential
 
 ## Interactions with Mycorrhizal Fungi
 
-Endophytic fungi often coexist with [[arbuscular-mycorrhizal-fungi]] in the root zone, creating complex tripartite associations between the plant, endophyte, and mycorrhizal fungus. These interactions can be synergistic or antagonistic depending on the species involved and environmental conditions. Understanding how [[dark-septate-endophytes]] interact with mycorrhizal networks is an active area of research with implications for crop management.
+Endophytic fungi often coexist with [[dark-septate-endophytes]] interact with mycorrhizal networks is an active area of research with implications for crop management.
 
 ## See Also
 
-- [[fungal-endophytes-plant-fitness]]
 - [[endophyte-isolation-techniques]]
-- [[dark-septate-endophytes]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[endophytic-fungi]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
-- [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]

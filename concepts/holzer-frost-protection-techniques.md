@@ -50,14 +50,7 @@ in autumn and create a natural mulch around the sensitive plant. This
 strategy saves the labour of manual mulching while providing wind
 protection through the tree's canopy.
 
-At the [[krameterhof-holzer-model-farm]], Holzer grows lemons
-and grapes using this method. The upper parts of the plant may die in a
-heavy frost, but the ground does not freeze and the plant grows new shoots
-from the roots.
-
-## Water Retention Spaces for Temperature Moderation
-
-[[holzer-water-landscapes-retention]] moderate
+At the [[holzer-water-landscapes-retention]] moderate
 temperature extremes through their thermal mass:
 - During the day, water warms up and heat is subsequently released at
   night
@@ -108,30 +101,11 @@ insulating benefit.
 
 ## The Crater Garden as Frost Protection
 
-[[holzer-crater-gardens-hugelkultur]] provide inherent
-frost protection:
-- Built into the ground, closer to groundwater and its moderating
-  temperature influence
-- Protected from wind, so snow stays longer providing additional
-  insulation
-- Less stress for plants from wind exposure
-- The curved, terraced shape creates varied microclimates, some naturally
-  warmer than others
-- In heavy frost, upper parts may die but roots survive and resprout
-
-## Comprehensive Frost Protection Strategy
-
-A well-designed Holzer landscape combines multiple frost protection
-techniques:
-
-1. **Site selection:** Use contours and existing features to locate
-   sensitive plants in naturally sheltered positions
-2. **Water bodies:** Create [[holzer-pond-construction-and-aquaculture]]
+[[holzer-pond-construction-and-aquaculture]]
    for thermal mass
 3. **Stone placement:** Distribute rocks strategically throughout growing
    areas
-4. **Wind protection:** Use [[holzer-high-beds-property-boundaries]], hedges, and tree plantings to reduce wind chill
-5. **Plant stacking:** Use [[holzer-intercropping-by-height-suntraps]] to shelter shorter, sensitive ones
+4. **Wind protection:** Use [[holzer-intercropping-by-height-suntraps]] to shelter shorter, sensitive ones
 6. **Mulch:** Maintain organic ground cover through plants or manual
    application
 7. **Suntrap orientation:** Position frost-sensitive plants away from

@@ -5,12 +5,7 @@ updated: 2026-04-24
 sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 type: concept
-tags: [mushroom-cultivation, mushrooms, species]
----
-
-# Magic Mushroom Species of Asia and Oceania
-
-Gartz documents psychoactive mushroom [[psilocybin-mushroom-image-guide-lookalike-species]] across Asia and Oceania,
+tags: [[psilocybin-mushroom-image-guide-lookalike-species]] across Asia and Oceania,
 noting that while indigenous mushroom use is not well documented prior to
 the discovery of Mexican species, the region harbors rich psychoactive
 mycoflora. Thailand is identified as the country with the largest
@@ -22,9 +17,7 @@ Japan's relationship with psychoactive mushrooms extends deep into its
 cultural history:
 
 - **Stropharia venenata** (formerly Stropharia caerulescens) Imai: Now
-  classified within [[psilocybe-genus-diversity-and-taxonomy]] as a close relative of P. cubensis. Grows
-  on wood and dung. First documented intoxication in 1929 when a woman
-  mistakenly served it as honey mushroom ([[armillaria-mellea]]). Singer and
+  classified within [[armillaria-mellea-entity]]). Singer and
   Smith mistakenly cited these incidents as examples of fatal effects,
   unjustly branding the species as highly dangerous for decades.
 
@@ -38,11 +31,7 @@ cultural history:
   century. Effects were comparable to Psilocybe species from other
   continents at similar dosages.
 
-- **[[panaeolus-subbalteatus]]**: Grows on several Japanese islands.
-
-Japanese folklore features "maitake" (Dancing Mushrooms) and "waraitake"
-(Laughing Mushrooms), though the original species thought responsible
-(Panaeolus papilionaceus and [[gymnopilus-spectabilis-entity]]) are now known not to
+- **[[gymnopilus-spectabilis-entity]]) are now known not to
 contain psychoactive substances. Mushroom cultivation in Japan has a
 2,000-year tradition.
 

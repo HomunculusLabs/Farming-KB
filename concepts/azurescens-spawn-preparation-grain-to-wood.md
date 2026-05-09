@@ -116,11 +116,7 @@ The system allows exponential expansion:
 
 ## See Also
 
-- [[comparison-grain-spawn-vs-sawdust-spawn]]
-
 - [[chen-maitake-strain-selection-spawn-preparation]]
 
-- [[mushroom-grain-spawn-preparation]] — detailed grain spawn methods
 - [[azurescens-outdoor-bed-preparation-woodchips]] — using spawn to build outdoor beds
-- [[outdoor-woodlover-mushroom-cultivation]] — complete cultivation overview
 - [[laminar-flow-hood-guide]] — sterile technique equipment

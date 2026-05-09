@@ -20,32 +20,6 @@ while monotubs produce faster yields in weeks with more active management.
 Both are valuable methods that suit different growers, climates, and goals.
 
 ## Mushroom Log Cultivation
-[[mushroom-log-cultivation]]
-
-Log cultivation is a low-tech, sustainable method that uses freshly cut
-hardwood logs as substrate. Best log species include oak, maple, beech, and
-sweetgum, cut during dormancy (December through March) when sap sugar content
-is highest and bark adheres tightly. Logs should be 4-8 inches in diameter
-and 3-4 feet long, inoculated within 2-6 weeks of cutting for best results.
-
-Inoculation involves drilling holes in a diamond pattern, filling them with
-plug spawn or sawdust spawn, and sealing each hole with food-grade wax. Logs
-are then stacked in shade (crib, lean-to, or A-frame configurations) for a
-spawn run lasting 6-18 months. Once fully colonized, fruiting is triggered
-by soaking logs in cold water for 12-24 hours (force fruiting) or by natural
-seasonal changes in temperature, rainfall, and humidity.
-
-Shiitake on oak logs is the gold standard, producing approximately 0.25 to
-0.5 pounds per log per year over a 4-6 year lifespan. Oyster mushrooms fruit
-faster (3-6 months) on softer woods but logs last only 2-3 years. Lion's
-mane, maitake, nameko, and reishi are other popular log species. The method
-requires minimal infrastructure: logs, a drill, spawn, wax, and shade. Once
-established, maintenance is limited to occasional soaking and protecting logs
-from excessive drying during long dry spells. Logs can also produce
-unexpected bonus species from naturally occurring fungi present in the
-environment, adding diversity to the harvest.
-
-## Monotub Cultivation
 [[monotub-cultivation]]
 
 The monotub is a modified plastic storage bin (typically 54-110 quarts) that
@@ -115,8 +89,6 @@ improve success with more demanding log-based cultivation of species like
 maitake and nameko that require precise moisture and temperature management.
 
 ## See Also
-- [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]
 - [[comparison-monotub-vs-martha-tent]]
-- [[comparison-dwc-vs-ebb-and-flow]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]

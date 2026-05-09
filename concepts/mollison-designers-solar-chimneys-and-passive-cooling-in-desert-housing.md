@@ -111,12 +111,8 @@ houses.
 
 ## Related Topics
 
-- [[mollison-desert-house-cooling-heating]] - Comprehensive desert
-  house design
 - [[mollison-cross-ventilation-passive-cooling]] - Passive cooling
   principles
-- [[mollison-thermal-mass-passive-building]] - Thermal mass in
-  building design
 - [[mollison-reactive-house-and-sustainable-structures]] - Sustainable
   building approaches
 - [[mollison-designers-home-energy-conservation-and-solar-heating]]

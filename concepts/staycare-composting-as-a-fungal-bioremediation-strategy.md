@@ -8,37 +8,7 @@ sources: [raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Composting as a [[fungal-bioremediation]] Strategy
-
-Composting is a biological treatment process in which organic matter is
-decomposed by diverse microbial communities under controlled aerobic
-conditions. Fungi play essential roles in composting by degrading complex
-plant polymers including cellulose, hemicellulose, and lignin. When
-contaminated materials are incorporated into compost piles, the combined
-metabolic activities of bacteria, actinomycetes, and fungi can transform
-or mineralize a wide range of organic pollutants, making composting a
-cost-effective bioremediation strategy.
-
-## Role of Fungi in the Composting Process
-
-Fungi dominate the later thermophilic and mesophilic phases of composting
-when temperatures decrease from peak thermophilic values. Thermophilic
-fungi are active during the heating phase, tolerating temperatures up to
-60 degrees C, while mesophilic fungi become predominant during the cooling
-and maturation phases. The fungal community composition shifts
-significantly throughout the composting process. Early stages are dominated
-by bacteria and actinomycetes, but as the process progresses and more
-recalcitrant materials remain, fungi become increasingly important due to
-their ability to produce extracellular enzymes capable of degrading lignin
-and other complex aromatic compounds.
-
-## Key Fungal Groups in Composting
-
-[[thermophilic-fungi]] commonly isolated from [[composting-systems]] include
-Thermomyces lanuginosus, Myriococcum thermophilum, and Talaromyces
-thermophilus. Mesophilic compost fungi include diverse Aspergillus,
-Penicillium, Trichoderma, and Mucor species. White rot fungi such as
-[[phanerochaete-chrysosporium]], [[trametes-versicolor]], and [[pleurotus-ostreatus]]
+# Composting as a [[thermophilic-fungi]] commonly isolated from [[phanerochaete-chrysosporium]], [[pleurotus-ostreatus]]
 have been specifically inoculated into compost systems to enhance
 degradation of recalcitrant pollutants. These ligninolytic fungi contribute
 unique enzymatic capabilities that most compost bacteria lack.
@@ -141,6 +111,5 @@ organic compounds while stabilizing nutrient cycling.
 
 ## See Also
 
-- [[staycare-solid-state-fermentation-for-bioremediation]]
 - [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
 - [[lowenfels-composting-science-microbiology]]

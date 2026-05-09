@@ -9,7 +9,7 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 
-"The Psychedelic Experience" (1964) by [[timothy-leary]], Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
+"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
 
 ### Central Thesis: Set and Setting
 

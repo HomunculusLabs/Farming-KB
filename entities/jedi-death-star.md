@@ -29,24 +29,8 @@ sources:
 
 # Jedi Death Star
 
-**Lineage:** Death Star × Jedi Kush
-**Type:** Indica-dominant hybrid (~70/30 indica/sativa)
-
-Jedi Death Star is a heavy-hitting indica-dominant hybrid created by crossing two Death Star
-descendants, effectively backcrossing and intensifying the legendary Death Star genetics.
-With THC levels reaching 28%, it delivers euphoric cerebral effects that transition into
-deep physical sedation. Known for its pungent diesel-garlic aroma and devastatingly strong
-body high, Jedi Death Star is reserved for experienced consumers and evening use.
-
-## Lineage and Genetics
-
-- **Direct cross:** Death Star × Jedi Kush
-- **Death Star:** [[sour-diesel]] × Sensi Star (bred by Empire Genetics, Ohio)
-- **Jedi Kush:** Death Star × SFV OG Kush (created by TH Seeds, Amsterdam)
-- **Genetic structure:** Backcross — Jedi Kush itself contains Death Star as a parent,
-  producing a plant heavily concentrated with Death Star's signature traits
-- **Alternate notation:** Death Star × (Death Star × SFV OG)
-- **Ancestral contributors:** Sour Diesel, Sensi Star, SFV OG Kush
+**Lineage:** Death Star × [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × Sensi Star (bred by Empire Genetics, Ohio)
+- **Jedi Kush:** Death Star × [[og-kush]]
 - **Origin:** Pacific Northwest / California — West Coast creation combining
   Midwestern and European-bred Death Star lines
 
@@ -143,8 +127,10 @@ look elsewhere.
 - Popular among West Coast medical patients for reliable potency and sedation
 - Sought after by experienced users as a creeper strain with devastating effects
 - Represents the trend of backcrossing proven genetics rather than novel combinations
+## See Also
+
+- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
 
 ## See Also
 
-- [[schultes-datura-holy-flower-north-star]]
-- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

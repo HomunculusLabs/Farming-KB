@@ -13,37 +13,7 @@ Updated: 2026-04-18
 
 Soil disturbance is one of the most significant threats to mycorrhizal fungal populations in agricultural and horticultural settings. Activities such as tilling, plowing, grazing, and construction physically destroy the delicate mycelial networks that connect plants to their fungal partners, reducing crop nutrient uptake and requiring long recovery periods.
 
-Source: [[teaming-with-microbes-fungi]]
-
-***
-
-## The Vulnerability of Mycorrhizal Networks
-
-### Shallow Distribution
-
-Arbuscular mycorrhizal fungi are concentrated in the top 6 to 15 inches (15 to 38 centimeters) of soil. This shallow distribution means they are directly exposed to virtually all surface disturbances. The hyphal networks that extend from colonized roots into the surrounding soil are fragile and easily torn apart.
-
-### Physical Damage Mechanisms
-
-Soil disturbance damages mycorrhizal communities through multiple pathways:
-
-1. **Direct hyphal destruction** — tilling tears apart the mycelial network
-2. **Spore displacement** — spores are moved deeper into the soil profile where they may be unreachable by roots or root exudates
-3. **Root damage** — disturbance damages host plant roots, reducing carbon supply to fungi
-4. **Soil compaction** — heavy equipment compacts soil, reducing air and water movement through the mycelial network
-5. **Delayed germination** — displaced spores in deeper, cooler soil may have delayed or failed germination
-
-***
-
-## Types of Soil Disturbance
-
-### Tilling
-
-Tilling is the most damaging common agricultural practice for mycorrhizal fungi:
-- Physically destroys hyphal networks
-- Buries spores below the effective root zone
-- Exposes soil to drying and temperature extremes
-- Disrupts the soil aggregate structure maintained by [[glomalin-and-soil-carbon]]
+Source: [[glomalin-and-soil-carbon]]
 - Fall tilling is particularly destructive — damaged hyphae won't be available for cover crops or spring planting
 
 ### Plowing
@@ -120,30 +90,6 @@ Maintaining living roots in the soil through cover crops:
 
 After soil disturbance, inoculation can help rebuild mycorrhizal populations:
 - Apply inoculum at planting time
-- Use [[mycorrhizal-inoculation-formulations]] for the situation
-- Ensure good contact between propagules and plant roots
-- Avoid high-phosphorus fertilizers that inhibit colonization
-
-***
-
-## The Phosphorus Penalty
-
-After soil disturbance destroys mycorrhizal networks, the amount of phosphorus available for the next crop is reduced until a new network forms. This creates a cycle where:
-1. Tilling destroys mycorrhizal networks
-2. Reduced phosphorus uptake by crops
-3. Farmers apply more phosphorus fertilizer to compensate
-4. Excess phosphorus further inhibits mycorrhizal recovery
-5. The cycle repeats, with increasing fertilizer dependence
-
-Breaking this cycle requires either reducing tillage or consistently inoculating after disturbance.
-
-***
-
-## Related Topics
-
-- [[mycorrhizal-fungi-basics-lowenfels]]
-- [[agricultural-chemicals-mycorrhizal-impact]]
-- Crop rotation for mycorrhizal health
+- Use [[mycorrhizal-fungi-basics-lowenfels]]
 - [[mycorrhizal-inoculation-methods-agriculture]]
-- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

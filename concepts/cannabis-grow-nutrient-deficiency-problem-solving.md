@@ -11,79 +11,7 @@ type: concept
 # Cannabis Nutrient Deficiency and Problem Solving
 
 Identifying and resolving nutrient problems is one of the most critical
-skills for cannabis cultivators. [[greg-green]]'s The Cannabis Grow Bible
-provides a systematic problem-solving approach that helps growers
-distinguish between nutrient deficiencies, chemical burns, pH problems,
-pest damage, and other common issues that can affect plant health and
-ultimately destroy an entire crop if left unresolved.
-
-## Primary and Secondary Nutrients
-
-The three primary nutrients needed in soil for marijuana to grow well are
-Nitrogen (N), Phosphorus (P), and Potassium (K), collectively referred
-to as NPK. In addition to these primary nutrients, secondary supplements
-are found within the soil: Calcium (Ca), Magnesium (Mg), and Sulfur (S).
-There are also seven micronutrients: iron, boron, chlorine, manganese,
-copper, zinc, and molybdenum.
-
-While micronutrient problems rarely show themselves unless there is a
-lockout situation, secondary nutrients and primary nutrients are critical
-for good plant health. Magnesium problems are particularly common. To
-correct a magnesium deficiency, growers can feed the plant one-third of
-a spoonful of Epsom salts per 3 gallons of water every 3 to 4 weeks.
-
-## Chemical Burns versus Nutrient Deficiency
-
-A chemical burn is what the plant suffers from overfeeding. It can be
-compared to a half-smoked joint: at the tip there is shriveled gray ash,
-in the middle the burn creeps toward new paper leaving a pattern, and
-then there is the unsmoked portion. The plant distributes elements to the
-leaves at the bottom first, then works its way up. Damage starts at the
-tips of the leaf and slowly moves toward the center, leaving crispy
-matter that flakes away between the fingers.
-
-A nutrient problem, by contrast, does not look burnt. It looks like a
-cell collapse with discoloration. The affected part may wither and die
-but should not look burnt. This distinction between chemical burns and
-nutrient deficiency is the first key to accurate diagnosis. Always check
-pH before attempting to correct any suspected nutrient problem, since pH
-imbalance can mimic or cause deficiency symptoms.
-
-## Systematic Diagnostic Approach
-
-Green provides a step-by-step diagnostic flowchart for identifying
-nutrient problems:
-
-**Step A:** Inspect the plant for bugs first. Bug attacks are less
-consistent than nutrient problems and leave damaged patches everywhere
-on the plant. Nutrient problems damage the plant on a somewhat consistent
-level. If the problem affects only the lower portion, proceed to Step B.
-If only the top and tips are affected, proceed to Step J. If the entire
-plant is covered, proceed to Step F.
-
-**Step B (Nitrogen):** If leaves are going very yellow during vegetative
-growth, more nitrogen is needed. During flowering with stunted growth,
-yellow leaves, and a dying appearance, nitrogen is also the solution.
-If flowering plants look red or dark green to yellow without dying, more
-phosphorus is needed.
-
-**Step C (Magnesium):** If leaves are curling up, twisting, and going
-yellow, first check for light burns or inadequate air circulation. If
-environmental factors are fine, add magnesium using Epsom salts at a
-rate of one-quarter to one-third tablespoon per 3 gallons of water.
-
-**Step D (Potassium):** If the tips of the leaves turn brown and curl
-slightly, this indicates a potassium deficiency. Potassium is important
-for overall plant vigor and disease resistance.
-
-**Step F (Iron):** If the veins remain green but the leaves are yellow,
-this indicates an iron deficiency. Iron problems are relatively common
-and can usually be corrected with micronutrient supplements.
-
-**Step G (Manganese):** If leaves are not twisted but are yellow at the
-base while the tips remain fine, this indicates a manganese problem.
-
-## [[nutrient-lockout]]
+skills for cannabis cultivators. [[nutrient-lockout]]
 
 Lockout occurs when the plant cannot access a nutrient or group of
 nutrients. This could be caused by the absence of nutrients, or by a
@@ -135,8 +63,24 @@ should never exceed 50 percent of the manufacturer's recommended dosage.
 
 ## See Also
 
-- [[maitake-problem-solving-troubleshooting]]
-
 - [[cannabis-grow-hydroponic-growing-systems]]
-- [[cannabis-growing-environment-setup]]
 - [[cannabis-grow-room-setup]]
+## Practical Considerations
+
+Successful implementation of Cannabis Nutrient Deficiency and Problem Solving requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

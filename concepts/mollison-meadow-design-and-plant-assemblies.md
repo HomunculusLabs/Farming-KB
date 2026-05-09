@@ -11,53 +11,7 @@ type: concept
 
 # Meadow Design and Plant Assemblies
 
-In [[permaculture]]: A Designers' Manual, Mollison treats meadows not as
-simple grass monocultures but as complex, self-maintaining plant
-communities that include grasses, legumes, bulbs, herbaceous forbs,
-and woody browse species. A meadow is as much maintained by its
-pollinators, browsers, burrowers, and their predators as it is by
-plant growth alone.
-
-## The Plant Groups of Meadow Systems
-
-In constructing, rehabilitating, or producing a seed resource for mixed
-meadows, Mollison identifies the following broad plant groups:
-
-### Grasses
-
-Mainly perennial, bunch, or tussock species, but with some annuals.
-Some are of great value to settlement as food grains. Examples include
-ricegrasses, Panicum species, and rushes used for thatch and matting.
-Grasses provide the bulk of the meadow biomass and are the primary
-forage for grazing livestock.
-
-### Legumes
-
-The grain or pasture legumes including clovers, vetches, lupins, and
-tares. Also included are bulbous or deep-rooted legumes, some of use
-for foods as tubers, and some twining species. Legumes fix nitrogen and
-provide high-protein forage, making them essential for meadow fertility
-and livestock nutrition.
-
-### Bulbs, Corms, and Tubers
-
-Perennial flowering plants as bulbs, rhizomes, or tuberous root masses.
-Many are dug as food in winter. Species include sunroot (Helianthus
-sp.), breadroot (Psoralia sp.), crocus, camass, mariposa or sego lily,
-a variety of orchids, and all the onion group. These provide critical
-winter food resources for both humans and livestock.
-
-### Herbaceous and Perennial Forbs
-
-Nettles, daisies, and species of the families Umbelliferae (fennel,
-dill) or Compositae generally, as well as many flowering plants of
-meadows (poppies, forget-me-nots, watercress, buttercups). A few are
-annuals, and many have a wide range of uses including forage,
-medicines, and insect habitat.
-
-### Spike-Rooted Flatweeds
-
-Species such as [[permaculture-dandelion]], thistles generally, plantains, docks, and
+In [[permaculture-dandelion]], thistles generally, plantains, docks, and
 chicory. These are all high-value browse species and some are used as
 salad plants and vegetables. They are features of mixed pastures,
 meadows, and grasslands, and provide deep-rooted nutrition cycling.
@@ -130,20 +84,6 @@ With the seed, trace elements, major nutrients, and water-retaining
 gels can be trickled into the shallow furrows. Typical seed mixes may
 include clovers chosen for site, pH, and drainage; spikeroots such as
 dandelion, plantain, and chicory; woody browse species and medicinal
-species such as wormwood, [[tagasaste]], Elaeagnus, pines, willows, or
-poplars; and grasses chosen for the specific site and soil factors.
-
-## Coastal Pasture Establishment
-
-Mollison gives a specific example of coastal pasture establishment
-using minimal tillage to prevent the spread of round-rush (Juncus),
-which would colonise ploughed marshy coasts. Clover at 0.7 kg/ha is
-sod-seeded after a slash of brush and rushes and an autumn burn. About
-a ton of dolomite per year is added. This is another instance of how
-high energy use causes cost and work later, as ploughed marshy coasts
-often result in pH so low that uneconomical amounts of dolomite are
-## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+species such as wormwood, [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 
 - [[mollison-desert-cluster-housing-and-street-design]]

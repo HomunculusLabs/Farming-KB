@@ -1,17 +1,7 @@
 ---
 title: Introduction to Permaculture Philosophy
 created: 2026-04-28
-tags: [permaculture, philosophy, ethics, design, bill-mollison]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Introduction to Permaculture Philosophy
-
-Permaculture, as articulated by Bill Mollison, is far more than a set of
+tags: [[bill-mollison]], is far more than a set of
 agricultural techniques. It is a comprehensive design philosophy rooted in a
 sense of personal responsibility for earth care. The philosophy emerges from
 values and ethics, and from a deep conviction that we are in danger of
@@ -117,7 +107,5 @@ global nation.
 
 ## See Also
 
-- [[mollison-designers-permaculture-principles-and-ethics]]
 - [[mollison-designers-design-methods-overview-process]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-designers-design-methods-analysis]]

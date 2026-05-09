@@ -115,19 +115,11 @@ possible causative or contributing elements.
 
 ## Related Topics
 
-- [[blesching-cannabis-hiv-aids]] - Comprehensive cannabis and HIV/AIDS
-  coverage
 - [[blesching-cannabis-fungal-infections-candida]] - Fungal
   opportunistic infections including candidiasis
-- [[blesching-cannabis-herpes-hsv]] - Herpes as an opportunistic
-  infection in AIDS patients
 - [[blesching-cannabis-hepatitis]] - Hepatitis as an AIDS-related
   complication
-- [[blesching-cannabis-anorexia-cachexia]] - AIDS-related wasting
-  syndrome management
 - [[blesching-cannabis-immune-system-modulation]] - Cannabis immune
   modulation in immunocompromised states
-- [[blesching-cannabis-neuropathic-pain]] - Neuropathy management in
-  AIDS patients
 - [[blesching-cannabis-palliative-care]] - Palliative approaches for
   advanced AIDS

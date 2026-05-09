@@ -19,34 +19,6 @@ The tension between these approaches reflects a fundamental question in
 agriculture: does biological diversity increase or decrease overall productivity
 and system resilience?
 ## Companion Planting
-[[companion-planting-reference]]
-Companion planting leverages synergistic relationships between plants to improve
-growth, repel pests, attract beneficial insects, and maximize space utilization.
-The practice has ancient roots: the Three Sisters polyculture of corn, beans,
-and squash has been cultivated in Mesoamerica for thousands of years. In this
-system, corn provides a trellis for climbing beans, beans fix atmospheric
-nitrogen that feeds the corn and squash, and squash shades the soil, suppresses
-weeds, and deters pests with prickly vines. Plant corn first (6 inches tall),
-then beans 2 weeks later, and squash 1 week after beans, spacing corn 12 inches
-apart with squash every 3-4 feet.
-Other proven companion pairings include basil with tomatoes (repels hornworms,
-aphids, and whiteflies while potentially improving tomato flavor), marigolds
-throughout the garden (French marigolds release compounds that repel root-knot
-nematodes, and their strong scent deters whiteflies and cabbage moths), and
-garlic or chives with roses (repels aphids and Japanese beetles). Companion
-planting also uses trap crops strategically: nasturtiums attract aphids away
-from tomatoes and brassicas, radishes draw flea beetles away from eggplant and
-cabbage, and Blue Hubbard squash lures squash vine borers away from zucchini.
-The approach requires more planning and knowledge than monoculture, as effective
-companion combinations depend on understanding plant families (avoid planting
-beans near alliums or beets), nutrient needs, growth habits, canopy heights, and
-pest relationships. Notable incompatible pairings include tomatoes with fennel
-(fennel is allelopathic), tomatoes with potatoes (shared susceptibility to late
-blight), beans with onions or garlic (alliums inhibit nitrogen fixation), and
-cabbage with strawberries (mutual antagonism). Companion planting works best at
-the garden and small-farm scale where diverse interplanting is manageable and
-where labor for different harvest timings is available.
-## JADAM Monoculture Critique
 [[jadam-monoculture-critique]]
 JADAM, founded by Cho Han-kyu, challenges the widely accepted principle that
 repeated monoculture necessarily degrades soil and requires crop rotation. The
@@ -120,9 +92,6 @@ could have marigold borders for nematode control, basil interplanted at row
 ends, and a diverse hedgerow of insectary plants (yarrow, dill, fennel) around
 the perimeter. This maintains the equipment and harvesting efficiency of
 ## See Also
-- [[comparison-fruit-tree-guilds-vs-companion-planting]]
 - [[comparison-companion-planting-vs-polyculture]]
-- [[comparison-companion-planting-vs-intercropping]]
 - [[comparison-polyculture-vs-intercropping]]
-- [[comparison-mulch-vs-cover-crops]]
 - [[comparison-living-mulch-vs-cover-crops]]

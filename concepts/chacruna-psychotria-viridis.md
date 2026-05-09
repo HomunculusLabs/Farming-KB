@@ -123,7 +123,9 @@ pharmacological properties of *Psychotria viridis*.
 
 ## See Also
 
-- [[ayahuasca-preparation-brew]]
 - [[plant-mothers-spirits]]
-- [[vegetalista-shamanism]]
 - [[icaros-power-songs]]
+
+## See Also
+
+- [[schultes-psychotria-chacruna-dmt-admixture]]

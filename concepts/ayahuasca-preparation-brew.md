@@ -1,37 +1,6 @@
 ---
 title: Ayahuasca Brew Preparation
-source: Pablo Amaringo - Ayahuasca Visions
-topics:
-  - ayahuasca
-  - banisteriopsis-caapi
-  - chacruna
-  - psychotria-viridis
-  - amazonian-shamanism
-  - brew-preparation
-  - dieta
-  - ceremony
----
-
-# Ayahuasca Brew Preparation
-
-## Overview
-Ayahuasca, known as *La Purga* in the Amazonian tradition, is a sacred
-psychoactive brew central to the shamanic practices documented by Pablo
-Amaringo in *Ayahuasca Visions*. The preparation is far more than a
-botanical extraction — it is a ritual process imbued with spiritual
-discipline, dietary rigor, and deep reverence for the plant teachers
-whose consciousness the brew reveals. Amaringo's paintings provide an
-unparalleled window into the meticulous methods practiced by vegetalistas
-throughout the Peruvian Amazon.
-
-## Core Botanical Ingredients
-
-### Banisteriopsis caapi — The Ayahuasca Vine
-
-The foundational ingredient is *Banisteriopsis caapi*, a woody liana
-growing throughout the Amazon basin. In Quechua, *ayahuasca* translates
-to "vine of the soul," reflecting the profound spiritual journeys it
-facilitates. The vine contains harmine and harmaline, beta-carboline
+source: Pablo Amaringo - [[beta-carboline]]
 alkaloids that function as monoamine oxidase inhibitors (MAOIs). These
 compounds are pharmacologically essential, allowing DMT from the
 companion plant to become orally active. Amaringo describes the vine as
@@ -56,11 +25,7 @@ Vegetalistas frequently add additional plants, each contributing
 specific spiritual and therapeutic qualities based on the healer's
 training and guidance from plant spirits.
 
-- **Diplopterys cabrerana** (chaliponga): Used alongside chacruna,
-  providing additional DMT and a unique spirit presence.
-- **Brunfelsia grandiflora** (chiricaspi): Added for purgative and
-  healing properties, cleansing the body of spiritual contamination.
-- **Tobacco** (*Nicotiana rustica*): Sacred tobacco strengthens the
+- **[[nicotiana-rustica]]*): Sacred tobacco strengthens the
   brew; its smoke cleanses during ceremonies.
 - **Toe** (*Brugmansia suaveolens*): May be added in minute quantities
   with extreme caution due to toxicity.
@@ -143,8 +108,6 @@ liquid containing countless spirits, serpents, and cosmic beings. His
 art captures the moment when ayahuasca opens a portal between ordinary
 and extraordinary worlds, revealing the vast plant intelligence
 cultivated for millennia.
-
 ## See Also
-- [[vegetalismo-amazonian-plant-medicine]]
-- [[icaros-shamanic-power-songs]]
+- [[ayahuasca-plant-spirits]]
 - [[ayahuasca-plant-spirits]]

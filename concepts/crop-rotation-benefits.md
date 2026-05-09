@@ -9,27 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Crop Rotation Benefits
 
-Crop rotation is the practice of growing different types of vegetables in different areas of the garden from year to year. It is one of the most fundamental principles of [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]], helping to maintain soil fertility, reduce pest and disease problems, and make the best use of organic matter and fertilizers.
-
-## Why Rotate Crops
-
-### Disease Prevention
-
-The most important reason for crop rotation is to delay the build-up of soil-borne disease spores. Many serious vegetable diseases — such as clubroot in cabbages — persist in the soil for years. If the same crop (or a related one from the same family) is grown in the same spot year after year, disease organisms multiply and eventually cause serious problems.
-
-By rotating crops so that at least two years pass before the same family returns to the same plot, the gardener breaks the disease cycle. Spore levels decline naturally in the absence of a host plant.
-
-### Pest Management
-
-Rotation helps reduce certain soil-dwelling pests, such as onion fly and carrot fly larvae. However, rotation is not a guarantee against all pests. Many insect pests can fly considerable distances, and disease spores can travel on boots, tools, and even in wind-blown soil. Rotation should be seen as one tool among many in an integrated pest management approach.
-
-### Nutrient Balance
-
-Different crops make different demands on the soil. Legumes (peas and beans) actually add nitrogen through their root nodules. Brassicas (cabbages, broccoli) are heavy feeders that benefit from nitrogen-rich soil. Root vegetables (carrots, parsnips) need less nitrogen but benefit from well-drained, stone-free soil. Rotation ensures no one type of demand is placed on the same area year after year.
-
-### Efficient Use of Organic Matter
-
-In a rotation system, organic matter and [[hamilton-animal-manure-types-and-use]] can be directed to the crops that need it most. Heavy-feeding crops like brassicas follow legumes, which have enriched the soil with nitrogen. This natural sequence reduces the need for additional fertilizers.
+Crop rotation is the practice of growing different types of vegetables in different areas of the garden from year to year. It is one of the most fundamental principles of [[hamilton-animal-manure-types-and-use]] can be directed to the crops that need it most. Heavy-feeding crops like brassicas follow legumes, which have enriched the soil with nitrogen. This natural sequence reduces the need for additional fertilizers.
 
 ## The Three-Year Rotation System
 
@@ -50,51 +30,9 @@ One practical approach uses four plots:
 - **Plot C**: Single-dug bed in the third year
 - **Plot D**: Permanent crops (asparagus, perennial herbs, soft fruit)
 
-Each year, the crop groups move to the next plot. Potatoes, as a "cleaning crop," are often grown first on newly cultivated or weed-infested ground. Their dense foliage and regular [[garden-bed-preparation]] suppress weeds such as couch grass and ground elder.
-
-## Crop Families to Rotate
-
-- **Brassicaceae**: Cabbage, cauliflower, broccoli, Brussels sprouts, kale, radish, turnip, swede, mustard
-- **Solanaceae**: Potato, tomato, pepper, aubergine
-- **Alliaceae**: Onion, garlic, leek, shallot
-- **Fabaceae**: Peas, beans (all types)
-- **Umbelliferae**: Carrot, parsnip, celery, parsley
-- **Chenopodiaceae**: Beetroot, spinach, Swiss chard
-
-## Limitations of Rotation
-
-Rotation is a valuable tool but not a complete solution:
-
-- Many pests can fly, so rotation alone will not prevent insect attack from neighboring gardens
-- Disease spores can be carried on tools, boots, and clothing
-- In small gardens, true rotation may be impractical due to space constraints
-- Greenhouse crops are often grown in the same border year after year, requiring other strategies like soil replacement or greenhouse-growing|growing bags
-
-## Related Topics
-
-- [[garden-bed-preparation]] — preparing beds for each rotation year
-- [[green-manure-cover-crops]] — filling gaps between rotation crops
+Each year, the crop groups move to the next plot. Potatoes, as a "cleaning crop," are often grown first on newly cultivated or weed-infested ground. Their dense foliage and regular [[garden-bed-preparation]] — preparing beds for each rotation year
 - [[animal-manure-guide]] — manure application in rotation
-- [[dig-vs-no-dig-gardening]] — cultivation methods for rotated beds
-
-## Source
-
-Based on *Organic Gardening* by Geoff Hamilton.
-
-## Merged: Brassicas Growing Guide
-
-# Brassicas Growing Guide
-
-updated: 2026-04-18
-
-The brassicas (cabbage family) are able to store large amounts of water in their leaves, making them fleshy and succulent. Because they are biennials, they also store nutrients during the first year of growth and these are available to us if the crops are harvested before they flower and seed. Many leaf vegetables in this family are especially rich in iron and vitamins.
-
-The brassicas are prone to a wide range of pests and diseases, but correct cultivation techniques and strict crop rotation benefits will prevent many of these problems.
-
-## Soil Preparation for Brassicas
-
-- Lime the soil if necessary to raise the pH to between 6.5 and 7.0
-- Dig in well-rotted [[organic-composting-methods]] or manure if available
+- [[organic-composting-methods]] or manure if available
 - Add two handfuls of blood, fish and bone meal per square yard/meter
 - The soil for brassicas should be firm
 - If using a crop rotation benefits, grow all brassicas in Plot C
@@ -136,3 +74,22 @@ It is possible to harvest cabbages throughout the entire year if the right sprin
 These easy-to-grow brassicas produce spears like individual florets of cauliflower. Calabrese is simply broccoli that matures in summer.
 
 **Varieties:** For summer harvest: Hydra (abundant sideshoots after main head cut), Romanesco (creamy yellow heads, superb flavor in late summer/fall). For winter harvest: Early Purple Sprouting and White Sprouting provide spears from midwinter to late spring.
+## Practical Considerations
+
+Successful implementation of Crop Rotation Benefits requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

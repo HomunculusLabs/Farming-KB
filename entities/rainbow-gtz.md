@@ -104,18 +104,12 @@ The strain's genetics have also been incorporated into several crosses in the co
 
 ## See Also
 
-- [[zkittlez]]
 - [[grape-ape]]
 - triangle kush
 - og triple og
-- [[runtz-entity]]
 - [[gelato-cannabis]]
-- [[kush-mints]]
-- exotic strains
 - [[cannabis-extraction-basics]]
-- [[oner-cannabis-water-extraction-ice-water-hash]]
 - [[cannabis-genetics-and-breeding]]
-- [[cannabis-terpene-profiles]]
 - [[cannabis-breeding-basics]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
 - californian cannabis

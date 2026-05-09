@@ -138,8 +138,6 @@ Kava's safety profile has been debated since a 2001 German regulatory action (si
 
 ## See Also
 
-- [[piper-nigrum-entity]] — Black pepper, a close relative
 - [[mitragyna-speciosa]] — Another anxiolytic/analgesic ethnobotanical
-- [[passiflora-incarnata]] — Herbal anxiolytic
 - [[valeriana-officinalis]] — Sedative herb
 - [[st-johns-wort-guide]] — Herbal anxiolytic and antidepressant

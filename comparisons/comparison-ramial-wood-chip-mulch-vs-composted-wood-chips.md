@@ -138,10 +138,7 @@ Composted wood chips are wood chips that have undergone a controlled aerobic dec
 **Winner: Composted wood chips.**
 ## See Also
 
-- [[ramial-chipped-wood]]
-
 - [[cation-exchange-capacity]]
-- [[composting]]
 - [[decomposition]]
 
 ## See Also

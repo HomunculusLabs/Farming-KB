@@ -103,9 +103,7 @@ Harvest by grasping the entire cluster at the base and pulling. Trim off any sub
 
 ## Related Topics
 
-- [[mushroom-substrates]] for sawdust substrate formulations
 - [[oyster-mushroom-spawn-production]] for grain spawn preparation
-- [[mushroom-harvesting-storage-methods]] for post-harvest handling
 - [[king-stropharia-wine-cap-cultivation]] for comparison with outdoor cultivation
 - [[maitake-cultivation]] for another wood-decomposing mushroom
 ## Merged: Collybia and Marasmius Species Identification

@@ -8,9 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 type: concept
 ---
 
-# [[arbuscular-mycorrhizal-fungi]] in Hydrocarbon Remediation
-
-Arbuscular [[mycorrhizal-fungi]] (AMF) form symbiotic associations with the
+# [[mycorrhizal-fungi]] (AMF) form symbiotic associations with the
 roots of the vast majority of terrestrial plant species and play crucial
 roles in nutrient uptake, particularly phosphorus acquisition. In
 hydrocarbon-contaminated soils, AMF contribute to bioremediation
@@ -89,46 +87,8 @@ compounds:
   particles, improving soil aggregation and potentially influencing
   the bioavailability and distribution of hydrocarbon contaminants.
 
-## [[glomus-mosseae]] in Contaminated Soils
-
-Glomus mosseae has been specifically studied for its ability to
-colonize plants in hydrocarbon-contaminated soils. Inoculation of
-alfalfa (Medicago sativa) with G. mosseae in soil plots treated
-with hydrocarbon-containing sludges dramatically increased root
-colonization compared to non-inoculated controls: 41% versus 5%
-after 3 months, and 70% versus 15% after 12 months. These results
-demonstrate that inoculation with selected AMF strains can
-significantly enhance mycorrhizal establishment on contaminated
-sites, supporting plant growth and potentially improving remediation
-outcomes.
-
-## Metal Contamination and AMF Tolerance
-
-AMF are also found on plants colonizing soils contaminated with heavy
-metals and metalloids. There is evidence that AMF evolve resistances
-to metal contaminants, enabling them to colonize mine wastes. AMF
-strains isolated from arsenic-contaminated mine spoils have been
-shown to further enhance arsenate resistance of already-tolerant
-grass species, suggesting that metal-resistant AMF may confer
-additional protective benefits to their host plants beyond basic
-nutrient acquisition.
-
-## Limitations and Research Needs
-
-AMF cannot be cultured in the absence of their host plant, which
-complicates research and large-scale inoculum production. The
-extracellular hyphal network of AMF associations is less extensive
-than that of ectomycorrhizal fungi, potentially limiting their direct
-impact on contaminated soil volumes. The POP-degrading activities of
-AMF remain largely unexplored, and their primary contribution to
-hydrocarbon remediation appears to be through plant support rather
-than direct metabolism of contaminants.
-
-See also: mycorrhiza|mycorrhizas and hydrocarbons,
-Mycorrhizal Soil Bioremediation,
-and Bioavailability of Pollutants in [[fungal-bioremediation]].
+## [[fungal-bioremediation]].
 
 ## See Also
 
-- [[mycorrhizal-fungi-hydrocarbon-remediation]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]

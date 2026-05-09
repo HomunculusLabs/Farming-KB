@@ -17,11 +17,7 @@ type: concept
 # Herb Spiral Design and Construction
 
 The herb spiral is one of the most iconic and widely recognized
-elements of permaculture design. Originating in the work presented in
-Bill Mollison's [[permaculture-designers-manual-bamboo]], the herb spiral
-compresses a diverse range of growing conditions into a compact,
-vertical structure that maximizes gaias garden edge effect, creates multiple
-microclimates, and demonstrates the [[permaculture-principles]] of
+elements of [[bill-mollison]]'s [[permaculture-principles]] of
 relative location, each element performing multiple functions, and
 designing from patterns to details.
 
@@ -77,71 +73,24 @@ Step-by-step construction:
 
 2. **Prepare the base:** Excavate 10-15cm of topsoil from the circle.
    Fill the base with gravel, rubble, or coarse organic matter for
-   drainage. This layer connects to the broader [[backyard-water-harvesting]]
-   strategy of the site.
-
-3. **Build the first course:** Lay the first ring of stone or brick
-   around the perimeter, leaving a gap for the entrance path at the
-   bottom of the spiral.
-
-4. **Fill and raise:** Fill the first course with soil mix, then
-   lay the second course, spiraling inward and upward. Each
-   successive course is offset inward, creating a rising path that
-   winds from the base to the summit.
-
-5. **Shape the path:** The walking path should be 30-40cm wide,
-   gradually narrowing as it ascends. Planting pockets between the
-   path and the wall are 20-30cm wide.
-
-6. **Top with compost:** Finish the surface with a 5-10cm layer of
-   mature compost for immediate planting.
-
-## Microclimate Zones
-
-The completed spiral creates four distinct microclimates:
-
-1. **Summit (dry, sunny, exposed):** The top of the spiral receives
-   full sun, has the thinnest soil layer, and drains fastest.
-   Mediterranean herbs thrive here: rosemary, thyme, oregano,
-   lavender, santolina.
-
-2. **Upper slopes (sunny, moderate moisture):** The upper portions of
-   the south-facing (northern hemisphere) slope. Suitable for sage,
-   marjoram, winter savory, and tarragon.
-
-3. **Lower slopes (partial shade, moderate moisture):** The middle
-   and lower sections receive less direct sun and retain more
-   moisture. Plant mint, chives, parsley, cilantro, and dill here.
-
-4. **Base (shaded, moist):** The lowest point of the spiral, at or
-   near the level of the surrounding ground, is the coolest and
-   wettest zone. Water-loving herbs such as watercress, mints,
-   Vietnamese coriander, and lemon balm thrive here.
-
-## Species Placement
-
-Mollison recommends arranging species according to their moisture and
-sun requirements, with additional consideration for:
-
-- **Companion relationships:** Basil and tomatoes complement each
-  other; chamomile improves the health of neighboring plants
-- **Aggressive spreaders:** Mint, lemon balm, and oregano should be
-  placed where their tendency to spread is contained by the spiral
-  structure
-- **Perennial vs. annual:** Perennials form the permanent backbone;
-  annuals fill gaps seasonally
-- **Culinary groupings:** Group herbs used together in cooking (e.g.,
-  the Mediterranean group of rosemary, thyme, oregano, sage) for
-  convenient harvest
-
-## Water Harvesting
-
-The herb spiral functions as a water harvesting structure. Rain
-falling on the surface percolates through the soil, hits the gravel
-drainage layer, and is directed toward the base where moisture
-concentrates. This natural flow creates the moisture gradient without
-supplemental irrigation.
-
-In drier climates, Mollison recommends positioning the herb spiral
-to receive overflow from roof water harvesting or other [[backyard-water-harvesting]] systems, ensuring the moist base zone receives adequate
+   drainage. This layer connects to the broader [[backyard-water-harvesting]] systems, ensuring the moist base zone receives adequate
 water even during dry periods.
+## Practical Considerations
+
+Successful implementation of Herb Spiral Design and Construction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

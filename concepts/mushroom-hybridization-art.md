@@ -107,8 +107,6 @@ The combination of traditional breeding methods with modern genetic tools repres
 
 ## See Also
 
-- [[agar-culture-technique]] — Agar culture and isolation methods
 - [[cotter-grain-spawn-production]] — Grain spawn production for cultivation
-- [[growing-gourmet-spore-germination-strain-isolation]] — Strain selection and isolation methods
 - [[mushroom-cultivator-substrate-preparation]] — Substrate preparation techniques
 - [[mycelium-running-urban-mushroom-projects]] — Applied mycology projects

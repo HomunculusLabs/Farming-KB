@@ -36,19 +36,11 @@ Fukuoka's principle of continuous ground cover is especially important in tropic
 
 ## Comparison with Tropical Permaculture
 
-Bill Mollison's [[permaculture-principles]] drew significant inspiration from tropical ecosystems, particularly Southeast Asian polyculture systems. Both Fukuoka's natural farming and tropical permaculture emphasize multi-layered planting, nitrogen-fixing ground covers, and the elimination of synthetic inputs. However, Mollison retained the design and planning element that Fukuoka's mu philosophy rejects. In practice, the two approaches often converge in tropical food forests and home gardens.
-
-## Tropical Crops Suited to Natural Farming
-
-Many tropical crops align naturally with [[fukuoka-natural-farming]] methods. Taro and cassava thrive in mulched, untilled tropical soils. Bananas and plantains benefit from companion planting with leguminous ground covers. Coconut and breadfruit form productive polycultures with understory vegetables. Traditional tropical rice varieties perform well in no-till, direct-seeded systems. Pigeon pea and cowpea enrich soil while providing food.
+Bill Mollison's [[fukuoka-natural-farming]] methods. Taro and cassava thrive in mulched, untilled tropical soils. Bananas and plantains benefit from companion planting with leguminous ground covers. Coconut and breadfruit form productive polycultures with understory vegetables. Traditional tropical rice varieties perform well in no-till, direct-seeded systems. Pigeon pea and cowpea enrich soil while providing food.
 
 ## Mycorrhizal Networks in Tropical Soil Building
 
-The role of [[mycorrhizal-fungi]] is critical for tropical natural farming success. Tropical soils often have rapid nutrient cycling but limited organic matter retention. Mycorrhizal networks extend the effective root zone, accessing phosphorus and micronutrients unavailable in highly weathered tropical soils. Natural farming practices -- continuous ground cover, [[natural-way-of-farming-guide]], and the absence of chemical fertilizers -- create ideal conditions for mycorrhizal colonization. The [[mulching-guide]] approach Fukuoka advocated preserves hyphal networks that conventional tilling destroys.
-
-## Traditional Pacific and Southeast Asian Practices
-
-Many traditional farming systems across the Pacific Islands and Southeast Asia already embodied principles Fukuoka articulated. The Javanese home garden (pekarangan) combines tree crops, vegetables, and medicinal plants in multi-layered systems requiring minimal external inputs. Philippine swidden systems, at appropriate scales, followed natural succession patterns similar to Fukuoka's revegetation methods. His [[fukuoka-indian-agriculture-observations]] noted similar alignments in South Asian traditional agriculture, where mixed cropping, legume integration, and residue recycling predated modern organic farming by millennia.
+The role of [[natural-way-of-farming-guide]], and the absence of chemical fertilizers -- create ideal conditions for mycorrhizal colonization. The [[fukuoka-indian-agriculture-observations]] noted similar alignments in South Asian traditional agriculture, where mixed cropping, legume integration, and residue recycling predated modern organic farming by millennia.
 
 ## Rice Paddy Methods in the Tropics
 
@@ -86,43 +78,11 @@ Fukuoka addressed pest and disease pressure through his fundamental principle: h
 
 In the Philippines, Gil Carandang of Herbana Farms developed natural farming techniques using indigenous microorganism (IMO) cultures that complement Fukuoka's seed ball and mulching approaches. In Thailand, farmers in Isan province have combined natural farming with local rice varieties to achieve stable yields without chemical inputs.
 
-Natural farming systems demonstrate remarkable climate resilience: continuous ground cover and deep root systems of polyculture farms resist both drought and flooding more effectively than monocultures. During extreme weather, diverse plantings ensure some species survive even if others fail. This resilience connects to Fukuoka's broader [[fukuoka-desert-greening-techniques-detailed]] work, recognizing that healthy tropical vegetation creates microclimates that moderate temperature extremes and maintain rainfall patterns.
-
-## The Green Revolution in the Tropics
-
-Fukuoka was sharply critical of the Green Revolution's impact on tropical agriculture. The introduction of high-yielding varieties dependent on chemical fertilizers, pesticides, and irrigation replaced diverse traditional systems with monocultures that degraded soils and increased farmer dependence on external inputs. Countries like the Philippines, Indonesia, and India saw initial yield increases followed by soil degradation, water depletion, and social disruption.
-
-Fukuoka's observation that "agriculture is the root of culture" applies with particular force in tropical regions, where traditional rice-growing cultures had developed sophisticated systems for maintaining soil fertility and biodiversity over millennia.
-
-## The Philippines and Southeast Asia
-
-Practitioners in the Philippines and other Southeast Asian countries were among the earliest international adopters of Fukuoka's methods. The tropical climate allowed for year-round experimentation and the existing traditions of rice culture provided a foundation for adaptation. The key was combining Fukuoka's no-till, no-input philosophy with local plant species and cropping patterns.
-
-## Scaling Challenges in Commercial Agriculture
-
-The greatest obstacle to expanding tropical natural farming is the scale of commercial agriculture. Plantation monocultures of oil palm, rubber, sugarcane, and banana dominate tropical landscapes. Transitioning these to natural farming would require fundamental changes in land tenure, market structures, and consumer expectations. Nevertheless, the growing regenerative agriculture movement in tropical countries suggests increasing interest in alternatives.
-
-## Succession in Tropical Revegetation
-
-For tropical areas that have been degraded -- deforested, overgrazed, or converted to monoculture -- Fukuoka's succession principles apply with accelerated timelines. The seed ball method using locally adapted pioneer species, legumes, and climax forest species can restore tropical vegetation more rapidly than in temperate zones, given adequate moisture.
-
-## The Natural Farming Advantage
-
-Fukuoka noted that Westerners who had lost faith in conventional agriculture were particularly drawn to natural farming: "They have nowhere else to go, so they try this." In tropical countries where conventional methods had failed to deliver sustainable prosperity, natural farming offered not just an alternative technique but a fundamentally different relationship with the land.
-
-## See Also
-
-- [[fukuoka-natural-farming]]
-
-- [[fukuoka-desert-greening-techniques-detailed]]
+Natural farming systems demonstrate remarkable climate resilience: continuous ground cover and deep root systems of polyculture farms resist both drought and flooding more effectively than monocultures. During extreme weather, diverse plantings ensure some species survive even if others fail. This resilience connects to Fukuoka's broader [[fukuoka-natural-farming]]
 
 - [[fukuoka-natural-farming-in-arid-regions]]
 
-- [[fukuoka-african-agriculture-observations]]
-
 - [[permaculture-principles]]
-
-- [[mycorrhizal-fungi]]
 
 - [[natural-way-of-farming-guide]]
 

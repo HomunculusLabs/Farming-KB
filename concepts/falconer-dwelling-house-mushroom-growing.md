@@ -29,20 +29,7 @@ a part of it with boards and make the beds in this.
 
 ## Preparing the Manure for Indoor Use
 
-The [[falconer-preparation-of-the-manure]] should be prepared away from the house,
-and when ready for making into beds it can be spread out
-thin, so as to become perfectly cool and free from steam.
-When it has lain for two days in this condition it may be
-brought into the cellar and made into beds. Having been
-well sweetened by previous preparation, it is now cool and
-free from steam, and almost odorless.
-
-After a few days it will warm up a little, and may then be
-spawned and earthed over at once. Do not bury the spawn
-in the manure, merely set it in the surface of the manure;
-this saves the spawn from being destroyed by too great a
-heat, should the bed become unduly warm. The coating
-of [[falconer-loam-for-mushroom-beds]] prevents the escape of any further steam or
+The [[falconer-loam-for-mushroom-beds]] prevents the escape of any further steam or
 odor from the manure.
 
 ## Odorless Cultivation
@@ -139,6 +126,5 @@ mushrooms throughout the winter months.
 
 ## See Also
 
-- [[falconer-mushroom-growing-house-design]]
 - [[mushroom-growing-house-construction-low-cost]]
 - [[oyster-mushroom-growing-house-site-selection]]

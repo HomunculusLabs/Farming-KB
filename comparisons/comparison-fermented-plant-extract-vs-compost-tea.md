@@ -23,38 +23,6 @@ between them depends on whether you need targeted nutrient delivery with minimal
 equipment or broad microbial inoculation with proven soil restoration capacity.
 
 ## Fermented Plant Extract
-[[fermented-plant-extract-fpe]]
-
-Fermented Plant Extract (FPJ for plant material, FFJ for fruits) is a core
-input in Korean Natural Farming developed by Master Han Kyu Cho. The process
-involves layering fresh plant material with an equal weight of brown sugar in a
-glass jar and allowing it to ferment for seven to fourteen days. The sugar draws
-out plant sap through osmotic pressure, and lactic acid bacteria naturally
-present on the plant surfaces initiate fermentation. The result is a
-nutrient-rich, enzymatically active liquid that provides bioavailable plant
-nutrients, growth hormones, and beneficial microorganisms in a concentrated,
-shelf-stable form.
-
-The strength of FPE lies in its specificity and accessibility. Different
-source plants contribute different properties: mugwort provides minerals and
-medicinal compounds, bamboo shoots supply silicon for structural strength,
-comfrey offers potassium for flowering and fruiting, and fast-growing weeds
-deliver vigorous vegetative energy. KNF practitioners select plants based on the
-growth stage of their crops, applying nitrogen-rich FPJ during vegetative growth
-and fruit-based FFJ during flowering and fruiting. The preparation is simple,
-requires no special equipment beyond glass jars and sugar, and costs nearly
-nothing when using locally abundant wild plants.
-
-FPE is fundamentally a nutrient extraction and delivery system rather than a
-microbial inoculant. While it does contain some beneficial organisms from the
-fermentation process, primarily lactic acid bacteria and yeasts, its primary
-value is the concentrated plant-derived nutrients, enzymes, and hormones it
-delivers in readily available forms. It is typically diluted at 1:500 to 1:1000
-and applied as a soil drench or foliar spray. FPJ stores for 6 to 12 months
-refrigerated, making it a convenient, pre-made input that can be prepared in
-batches during peak growing season.
-
-## Compost Tea
 [[compost-tea-guide]]
 
 Actively Aerated Compost Tea (AACT) is a liquid extract of finished compost
@@ -111,8 +79,7 @@ the shortfall precisely. FPE is also excellent for small-scale growers who
 cannot invest in brewing equipment, and for those who want to leverage locally
 abundant wild plants as fertilizer sources. The long shelf life and simplicity
 make it practical for anyone, regardless of scale. Backpack sprayers can apply
-FPJ over large areas with minimal effort. See [[knf-preparations]] for the full
-KNF input system and [[knf-input-application-timing]] for scheduling guidance.
+FPJ over large areas with minimal effort. See [[knf-input-application-timing]] for scheduling guidance.
 
 ## When to Choose Compost Tea
 Compost tea is the better choice when the goal is rapid soil biology
@@ -122,8 +89,7 @@ foliar disease suppression when sprayed directly onto leaf surfaces at sunset.
 Commercial growers, orchardists, and anyone with an existing high-quality
 compost supply will get the most from AACT brewing. It is also the preferred
 approach for remediation projects where introducing a complete soil food web is
-necessary to jumpstart nutrient cycling. See [[compost-tea-brewing-methods]] for
-detailed brewing protocols and [[compost-tea-application-rates]] for application
+necessary to jumpstart nutrient cycling. See [[compost-tea-application-rates]] for application
 guidance.
 
 ## Hybrid Approaches
@@ -140,10 +106,6 @@ then maintain it with regular FPE applications for crop-specific nutrition.
 
 ## See Also
 
-- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
-
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
-- [[knf-vs-jadam-vs-em]]
 - [[compost-tea-recipe-guide]]
-- [[compost-tea-aact]]
 - [[soil-food-web]]

@@ -98,34 +98,10 @@ flatten out on the slope. Cultivation parallel to this keyline, rather than
 along the contour, gently directs runoff from valleys toward ridges,
 distributing moisture more evenly across the landscape. This approach
 complements the swale systems described above and can be integrated with
-[[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] techniques for comprehensive catchment management.
-
-## Rainwater Collection from Roofs
-
-In addition to earthworks and soil-based storage, roof catchment systems
-provide a direct source of clean water for irrigation and household use. A
-1,000-square-foot roof in a region with 30 inches of annual rainfall can
-capture roughly 18,000 gallons of water per year. This water is free of the
-minerals and contaminants found in well or municipal water and is ideal for
-watering seedlings and sensitive plants. First-flush diverters should be
-installed to discard the initial runoff that carries dust, pollen, and bird
-droppings from the roof surface. Storage tanks can range from simple rain
-barrels for small gardens to large cisterns that hold thousands of gallons.
-The key principle is to size the storage to the dry season demand: in
-Mediterranean climates, this means capturing enough winter and spring rain to
-sustain the garden through the dry summer months.
-
-## See Also
-
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[gaias-garden-net-and-pan-water-harvesting]]
+[[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[gaias-garden-backyard-wetland]]
-- [[gaias-garden-microclimates]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[fukuoka-soil-fertility-straw-mulch]]
-- [[humus-formation-and-soil-organic-matter]]
 - [[building-soil-fertility-long-term]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

@@ -61,57 +61,27 @@ The method was first used for alcoholism treatment, simulating the life-changing
 
 ### Leary's Consciousness Expansion
 
-Timothy Leary, Frank Barron, and Richard Alpert at Harvard shifted focus from treating pathology to exploring consciousness expansion in healthy individuals using relatively unstructured, supportive settings. Leary introduced the [[lsd-set-and-setting-framework|set and setting]] hypothesis, recognizing that internal set (intention, expectation, motivation) and external setting are the primary determinants of psychedelic experience.
+Timothy Leary, Frank Barron, and Richard Alpert at Harvard shifted focus from treating pathology to exploring consciousness expansion in healthy individuals using relatively unstructured, supportive settings. Leary introduced the [[metzner-psycholytic-psychedelic-therapy-models]]
 
-## Key Differences Between Models
-
-| Feature | Psycholytic | Psychedelic |
-|---------|-------------|-------------|
-| Number of sessions | Many (dozens) | Few (one to three) |
-| Dosage per session | Low to moderate | High |
-| Primary mechanism | Defense loosening | Peak/mystical experience |
-| Patient population | Neurotic disorders | Alcoholism, terminal illness |
-| Theoretical basis | Freudian psychoanalysis | Existential, humanistic |
-| Geographic origin | Central Europe | United Kingdom, United States |
-| Therapeutic style | Analytic, verbal | Supportive, experiential |
-
-## Five Shared Fundamental Conclusions
-
-Despite their differences, Metzner identifies five conclusions shared by both models:
-
-1. **Profoundly expanded consciousness**: Both models recognize that hallucinogen-assisted therapy involves states transcending ordinary self-concepts and views of reality
-2. **Set and setting are primary**: The drug plays the role of catalyst while set and setting are the crucial determinants of experience quality
-3. **Amplifier and microscope analogies**: The drug acts as a nonspecific amplifier of psychic contents through lowered sensory thresholds, or as a microscope revealing hidden realms of the mind
-4. **Therapist's personal experience essential**: Without prior psychedelic experience, communication between therapist and client in an altered state is severely limited
-5. **Access to transpersonal dimensions**: Patients regularly accessed realms of experience beyond biographical and perinatal material, suggesting fundamental dimensions of consciousness
-
-## Phenethylamine Extension: Empathogens
-
-Alexander Shulgin's discovery of phenethylamines including MDA, MDMA, and 2-CB extended the field significantly. These substances amplify emotional awareness with minimal perceptual changes, earning the name "empathogens." MDMA was used with impressive success in psychotherapy, facilitating relationship communication and trauma healing. Its action differs from classical hallucinogens because it amplifies emotional experience without producing dramatic perceptual alterations.
-
-## Decline and Prohibition
-
-Both therapeutic models were effectively shut down by the late 1960s and early 1970s. The combination of Leary's sensational media campaign, widespread recreational use, and political backlash led to the classification of LSD and other classical psychedelics as Schedule I substances. Research programs were defunded, clinical trials were halted, and promising therapeutic work was abandoned for decades.
-
-Metzner notes the irony that the very qualities that made psychedelics valuable therapeutically (their capacity to challenge established worldviews and institutions) were also what made them politically threatening. The suppression of psychedelic research was not primarily based on scientific evidence of danger but on cultural and political factors.
-
-## Modern Revival
-
-The contemporary revival of psychedelic-assisted therapy draws on both historical models:
-
-- **Psycholytic elements**: Modern microdosing protocols echo the psycholytic approach of low-dose, repeated sessions
-- **Psychedelic elements**: Current clinical trials for PTSD, depression, and end-of-life anxiety use single or few high-dose sessions with therapeutic support, directly descended from the psychedelic model
-- **Integration**: Modern protocols combine elements of both models, incorporating preparatory sessions (psycholytic), peak experiences (psychedelic), and extensive integration work afterward
-
-The distinction between psycholytic and psychedelic approaches remains clinically relevant as the field develops nuanced protocols for different conditions and patient populations.
-
-## See Also
-
-- [[metzner-psycholytic-psychedelic-therapy-models]]
-
-- [[lsd-set-and-setting-framework|Set and Setting Framework]]
 - [[psychedelic-consciousness-expansion|Psychedelic Consciousness Expansion]]
-- [[metzner-four-paradigms-entheogenic-healing|Four Paradigms of Entheogenic Healing]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals|Hybrid Shamanic Therapeutic Rituals]]
-- [[stanislav-grof|Holotropic Breathwork]]
 - [[metzner-mdma-assisted-therapy-research|MDMA-Assisted Therapy Research]]
+## Practical Considerations
+
+Successful implementation of Psycholytic and Psychedelic Therapy Models requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

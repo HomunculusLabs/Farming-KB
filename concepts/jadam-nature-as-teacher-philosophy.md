@@ -86,21 +86,12 @@ The "ask nature" principle has broader implications for agriculture and environm
 - It connects farming practice to ecological understanding
 
 ## See Also
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[jadam-liquid-fertilizer-philosophy]]
-- [[fukuoka-philosophy-of-mu-and-nature]]
 - [[jadam-making-organic-farming-inputs]]
-- [[jadam-leaf-mold-soil-method]]
-
 - [[jadam-natural-farming-philosophy]]
-- [[jadam-sese-philosophy]]
 - [[jadam-monoculture-critique]]
-- [[jadam-compost-free-approach]]
 - [[jadam-soil-management-principles]]
-- [[jadam-rice-bran-problems]]
 - [[jadam-patent-free-revolution]]
-- [[fukuoka-observation-based-farming]]
 - [[fukuoka-nature-god-limits-of-knowledge]]
-- [[jadam-natural-farming-philosophy]]
 - [[jadam-liquid-fertilizer-philosophy]]
 - [[jadam-natural-nitrogen-fertilizer]]

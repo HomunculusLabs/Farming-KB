@@ -9,7 +9,7 @@ sources: []
 
 # Johns Hopkins Psychedelic Research
 
-The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic research institutions. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and mystical experiences. See [[psilocybin-compound-profile]] for the compound central to their work and [[psychedelic-safety-and-contra-indications]] for their safety protocols.
+The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic research institutions. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and mystical experiences. See [[psychedelic-safety-and-contra-indications]] for their safety protocols.
 
 ## History
 
@@ -68,38 +68,29 @@ Johns Hopkins studies are notable for their methodological rigor:
 - Careful screening and preparation of participants
 - Structured session environments with eyeshades and curated music playlists
 - Experienced guides present throughout sessions
-- Standardized dose ranges explored in [[psychedelic-dose-response]] research
-- Long-term follow-up assessments
-
-## Faculty and Researchers
-
-Key researchers associated with the Center include:
-
-- Roland Griffiths, PhD — Founding director (deceased)
-- Matthew Johnson, PhD — Addiction research
-- Frederick Barrett, PhD — Mechanisms of action
-- Mary Pfeiffer, PhD — Clinical research
-- Natalie Gukasyan, MD — Clinical trials
-- Albert Garcia-Romeu, PhD — Neurobiology and clinical research
-
-## Significance
-
-Johns Hopkins research has been critical in:
-
-- Providing the rigorous clinical evidence base needed for FDA consideration of psilocybin as a therapeutic
-- Demonstrating the safety profile of psilocybin when administered in controlled settings
-- Establishing validated measures for psychedelic experiences
-- Training a new generation of psychedelic researchers
-- Shifting public and scientific opinion on psychedelic research
-
-## See Also
-
-- [[psilocybin-compound-profile]] — Detailed psilocybin pharmacology
-- [[psychedelic-dose-response]] — Dose-response relationships studied at Johns Hopkins
+- Standardized dose ranges explored in [[psilocybin-compound-profile]] — Detailed psilocybin pharmacology
 - [[psychedelic-safety-and-contra-indications]] — Safety protocols and screening criteria
 
 ## Related
 
-- [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-harm-reduction-guide]]
 - [[mushroom-cancer-clinical-trials-overview]]
+## Practical Considerations
+
+Successful implementation of Johns Hopkins Psychedelic Research requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

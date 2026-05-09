@@ -12,22 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Research from The [[cannabis-health-index]] documents evidence for cannabinoids in several mental health conditions including depression, anxiety, PTSD, bipolar disorder, ADHD, and schizophrenia. The relationship between cannabis and mental health is complex -- cannabinoids can be both therapeutic and, in vulnerable individuals, potentially problematic.
-
-## Depression
-
-### Key Studies
-**Jiang et al. (2005)**: "Cannabinoids promote embryonic and adult hippocampus neurogenesis and produce anxiolytic- and antidepressant-like effects." Journal of Clinical Investigation 115(11):3104-16.
-
-This landmark study showed that cannabinoids promote the growth of new neurons in the hippocampus -- the brain region associated with mood and memory. This neurogenesis produces antidepressant effects, paralleling the mechanism of conventional antidepressants.
-
-**McLaughlin et al. (2007)**: "Local enhancement of cannabinoid CB1 receptor signalling in the dorsal hippocampus elicits an antidepressant-like effect." Behavioural Pharmacology 18(5-6):431-38.
-
-**Bambico et al. (2007)**: "Cannabinoids elicit antidepressant-like behavior and activate serotonergic neurons through the medial prefrontal cortex." Journal of Neuroscience 27(43):11700-11.
-
-Cannabinoids activated serotonergic neurons (the same pathway targeted by SSRIs), providing a biological basis for antidepressant effects.
-
-**El-Alfy et al. (2010)**: "Antidepressant-like effect of delta9-tetrahydrocannabinol and other cannabinoids isolated from [[cannabis-sativa]] L." Pharmacology Biochemistry and Behavior 95(4):434-42.
+Research from The [[cannabis-sativa]] L." Pharmacology Biochemistry and Behavior 95(4):434-42.
 
 ### Food-as-Medicine for Depression
 - **Chocolate**: "Food or drug?" -- contains compounds that enhance mood (Bruinsma and Taren, 1999)
@@ -65,9 +50,7 @@ This Nature paper demonstrated that the emotional valence (positive/negative) of
 ## Bipolar Disorder
 
 ### Key Studies
-**Ashton, Moore, Gallagher, and Young (2005)**: "Cannabinoids in bipolar affective disorder: A review and discussion of their [[metzner-ayahuasca-therapeutic-potential]]." Journal of Psychopharmacology 19(3):293-300.
-
-**Grinspoon and Bakalar (1998)**: "The use of cannabis as a mood stabilizer in bipolar disorder: Anecdotal evidence and the need for [[reishi-ganoderma-cancer-clinical-research]]." Journal of Psychoactive Drugs 30(2):171-77.
+**Ashton, Moore, Gallagher, and Young (2005)**: "Cannabinoids in bipolar affective disorder: A review and discussion of their [[reishi-ganoderma-cancer-clinical-research]]." Journal of Psychoactive Drugs 30(2):171-77.
 
 Anecdotal evidence suggests cannabis may function as a mood stabilizer -- reducing both manic and depressive episodes.
 
@@ -87,19 +70,7 @@ Childhood trauma is associated with more severe bipolar illness course, connecti
 
 **Gururajan, Taylor, and Malone (2012)**: "Cannabidiol and clozapine reverse MK-801-induced deficits in social interaction and hyperactivity." Journal of Psychopharmacology 26(10):1317-32.
 
-**Lafenetre, Chaouloff, and Marsicano (2009)**: "Bidirectional regulation of novelty-induced behavioral inhibition by the [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]." Neuropharmacology 57(7-8):715-21.
-
-The endocannabinoid system bidirectionally regulates behavioral inhibition, suggesting a role in ADHD's core deficit.
-
-**Castelli et al. (2011)**: "Loss of striatal cannabinoid CB1 receptor function in attention-deficit/hyperactivity disorder mice."
-
-### Meditation as Alternative
-**Tang et al. (2007)**: "Short-term meditation training improves attention and self-regulation." PNAS 104(43):17152-56.
-
-## Schizophrenia
-
-### The Paradox
-Cannabis is often cited as a risk factor for schizophrenia, yet CBD shows antipsychotic properties. The key distinction is THC vs. [[cbd-to-thc-isomerization-chemistry]]**: Can trigger psychotic symptoms in vulnerable individuals (especially those with COMT val158met genetic variant)
+**Lafenetre, Chaouloff, and Marsicano (2009)**: "Bidirectional regulation of novelty-induced behavioral inhibition by the [[cbd-to-thc-isomerization-chemistry]]**: Can trigger psychotic symptoms in vulnerable individuals (especially those with COMT val158met genetic variant)
 - **CBD**: Shows antipsychotic effects comparable to conventional antipsychotic medications
 
 ### Key Studies
@@ -139,7 +110,4 @@ For mental health conditions, CBD-dominant preparations are generally preferred:
 THC should be used cautiously in mental health contexts:
 - Can trigger anxiety at higher doses
 - May worsen psychotic symptoms in vulnerable individuals
-- [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]] may increase psychosis risk in genetically susceptible people
-
-## See Also
 - [[cannabis-health-endo-cannabinoid-system]]

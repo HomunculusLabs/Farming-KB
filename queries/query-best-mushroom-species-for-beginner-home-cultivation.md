@@ -14,7 +14,7 @@ created: 2026-05-07
 type: query
 ---
 
-# What Are the Best Mushroom Species for Beginner Home Cultivation?
+# What Are the [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]?
 
 Home mushroom cultivation ranges from simple countertop kits to advanced indoor grow rooms.
 Selecting the right species is the single most important decision for a beginner. This guide
@@ -24,33 +24,8 @@ covers the top five species with practical details on substrates, timing, yields
 
 | Species | Difficulty | Time to Harvest | Expected Yield | Best Substrate | Indoor/Outdoor |
 |---|---|---|---|---|---|
-| Oyster (*P. ostreatus*) | ★☆☆☆☆ Easy | 2–4 weeks | 0.5–1.5 lb/lb sub | Straw, coffee grounds | Both |
-| Wine Cap (*S. rugosoannulata*) | ★★☆☆☆ Easy | 6–12 weeks | 1–2 lb/lb sub | Wood chips, straw mulch | Outdoor |
-| Shiitake (*L. edodes*) | ★★★☆☆ Moderate | 8–16 weeks | 0.5–1 lb per log | Hardwood logs/sawdust | Both |
-| Lion's Mane (*H. erinaceus*) | ★★★☆☆ Moderate | 4–8 weeks | 0.25–0.75 lb/lb sub | Hardwood sawdust | Indoor |
-| King Oyster (*P. eryngii*) | ★★☆☆☆ Easy–Mod | 3–6 weeks | 0.5–1 lb/lb sub | Straw/sawdust mix | Indoor |
-
-## 1. Oyster Mushrooms (*Pleurotus* spp.)
-
-The undisputed champion for beginners. Multiple species — Pearl (*P. ostreatus*), Blue
-(*P. columbinus*), Pink (*P. djamor*), and Golden (*P. citrinopileatus*) — share aggressive
-growth habits and broad substrate tolerance.
-
-**Pros:**
-- Fastest colonization and fruiting of any gourmet mushroom
-- Wide substrate tolerance: pasteurized straw, coffee grounds, cardboard, sawdust
-- Spawn is widely available and affordable; many species fruit at room temperature
-- High yield-to-substrate ratio
-
-**Cons:**
-- Delicate fruits with short shelf life (3–7 days refrigerated)
-- Susceptible to Trichoderma (green mold) contamination with poor hygiene
-- Pink and Golden varieties require warm temperatures (70–80°F)
-
-**Equipment:** Spray bottle, fruiting chamber (perforated tote), thermometer. No pressure
-cooker needed — hot-water pasteurization (160–170°F, 60 min) suffices.
-
-**Substrate Options:** Pasteurized wheat straw (most common), spent coffee grounds, paper
+| Oyster (*P. ostreatus*) | ★☆☆☆☆ Easy | 2–4 weeks | 0.5–1.5 lb/lb sub | Straw, coffe [[query-how-do-i-grow-king-oyster-mushrooms]] lb/lb sub | Hardwood sawdust | Indoor |
+| King Oyster (*P. eryngii [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] ed wheat straw (most common), spent coffee grounds, paper
 pellets, hardwood sawdust supplemented with bran.
 
 ## 2. Wine Cap / Stropharia rugosoannulata
@@ -144,6 +119,5 @@ Mix (sawdust + soy hulls) produces the best results.
   chamber 2–4 times daily.
 ## See Also
 
-- [[mushroom-cultivation-basics]]
 - [[mushroom-substrate-comparison]]
 - [[contamination-identification-prevention]]

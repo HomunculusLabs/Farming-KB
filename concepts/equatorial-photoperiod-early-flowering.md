@@ -129,12 +129,10 @@ these equatorial lines as valuable genetic resources.
 
 ## See Also
 
-- [[cannabis-photoperiodism-and-light-cycles]]
-- [[phototropism-photoperiodism-discovery-phytochrome]]
+- [[darwin-phototropism-discovery-plant-light-perception]]
 
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[cannabis-photoperiod-flowering-cycle]]
 
 - [[trainwreck-generational-breeding]]
-- [[cannabis-photoperiodism]]
-- [[sativa-domestication]]
+- cannabis photoperiodism
+- sativa domestication

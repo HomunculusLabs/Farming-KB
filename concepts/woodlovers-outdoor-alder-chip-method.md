@@ -98,8 +98,6 @@ Alder chips work well for all major woodlovers:
 
 ## See Also
 
-- [[azurescens-outdoor-bed-preparation-woodchips]] — general bed prep with wood chips
 - [[azurescens-spawn-preparation-grain-to-wood]] — spawn production methods
-- [[outdoor-woodlover-bed-preparation]] — beech-based method comparison
 - [[mushroom-substrates]] — broader substrate options
 - [[outdoor-wood-lover-cultivation]] — complete outdoor cultivation guide

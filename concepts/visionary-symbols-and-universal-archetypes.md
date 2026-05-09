@@ -80,31 +80,7 @@ Jung proposed that beneath the personal unconscious of each individual lies a de
 
 These inherited structures, which Jung called archetypes, manifest in dreams, myths, fairy tales, and religious visions as recurring patterns and images.
 
-Jung himself was keenly interested in the relationship between archetypal imagery and [[psilocybin-and-mystical-experience]], though he never personally experimented with psychedelic substances.
-
-The psychedelic experience, by temporarily dissolving the ego and releasing the contents of the unconscious, provides direct access to the archetypal layer of the psyche, making visible patterns that normally remain hidden.
-
-## The Language of Symbols
-
-Powell introduces the concept of a higher language of the psyche, a language not of words but of visual symbols and images.
-
-In this higher language, meaning is conveyed not through the sequential processing of verbal syntax but through the simultaneous apprehension of richly structured visual patterns.
-
-Seeing, in this framework, is the most direct form of perception, which is why one comes to see the truth and why visual art can communicate meaning with a power that often exceeds that of words.
-
-The visionary experience can be understood as immersion in this symbolic language, in which the Other, whether conceived as the collective unconscious, Mind at Large, or the Gaian intelligence, communicates with the individual through choreographed sequences of archetypal imagery.
-
-## The Snowflake Analogy
-
-Powell uses the formation of snowflakes as an analogy for the emergence of visionary symbols.
-
-Water molecules organize themselves into specific crystalline patterns determined by the molecular structure of H2O and the physical conditions under which freezing occurs.
-
-Every snowflake is unique in its specific details, yet all snowflakes share the same fundamental hexagonal structure.
-
-Similarly, visionary symbols may vary in their specific details from one individual or culture to another, yet they share fundamental structural patterns determined by the shared architecture of the human brain and the universal features of human experience.
-
-[[psilocybin-compound]]ybin molecule acts as the freezing temperature does for water: it creates the conditions under which the information embodied in neuronal activity naturally crystallizes into structured symbolic forms.
+Jung himself was keenly interested in the relationship between archetypal imagery and [[psilocybin]]ybin molecule acts as the freezing temperature does for water: it creates the conditions under which the information embodied in neuronal activity naturally crystallizes into structured symbolic forms.
 
 ## Implications for Understanding Religion
 
@@ -112,12 +88,6 @@ The universality of visionary symbols has significant implications for understan
 
 The fact that essentially the same symbolic images appear in the visionary experiences of shamans, mystics, and psychedelic users across all cultures and historical periods suggests that religious experience is rooted in universal features of human psychology rather than being merely a cultural invention.
 
-This does not necessarily reduce religion to brain chemistry, but it does suggest that the psychedelic state provides a privileged window into the psychological foundations of religious experience and the [[psychedelic-spirituality-and-religion]] that has characterized human culture throughout its history.
-
-## See Also
-
-- [[information-paradigm-of-consciousness]]
-
-- [[psilocybin-and-mystical-experience]]
+This does not necessarily reduce religion to brain chemistry, but it does suggest that the psychedelic state provides a privileged window into the psychological foundations of religious experience and the [[information-paradigm-of-consciousness]]
 
 - [[psychedelic-spirituality-and-religion]]

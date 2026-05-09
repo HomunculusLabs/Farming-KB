@@ -44,7 +44,7 @@ Because azadirachtin works on growth regulation rather than as a direct neurotox
 | Neem oil | Spider mites, fungus gnats, aphids |
 | Both | Powdery mildew (fungistat), rust fungi |
 
-Neem powder is most effective against soft-bodied immature insects. Neem oil is particularly effective against [[spider-mites-cannabis]] and is also effective against [[aphids-cannabis]] and [[fungus-gnats-cannabis]]. Both forms have fungistatic properties against [[powdery-mildew-cannabis]].
+Neem powder is most effective against soft-bodied immature insects. Neem oil is particularly effective against [[aphids-cannabis]] and [[powdery-mildew-cannabis]].
 
 Note: Neem powder is not as effective against spider mites as neem oil.
 
@@ -74,7 +74,7 @@ Two primary application methods are used:
 - **Foliar spray frequency**: Every few days for active infestations, to catch hatching larvae
 - **Avoid spraying** the last few days before harvest -- some growers report a foul taste when neem is applied just before harvest
 
-See [[cannabis-harvest-timing-visual-cues]] and [[cannabis-flushing-before-harvest]] for harvest timing guidance.
+See [[cannabis-flushing-before-harvest]] for harvest timing guidance.
 
 ## Toxicity and Safety
 
@@ -82,31 +82,7 @@ See [[cannabis-harvest-timing-visual-cues]] and [[cannabis-flushing-before-harve
 
 - Not toxic to honeybees, fish, or earthworms (neem powder)
 - Not toxic to beneficial insects at normal concentrations that kill target pests (neem powder)
-- Neem oil has reported toxicity to some beneficial insects -- use caution when combining with [[beneficial-insects-cannabis]]
-- Not toxic to humans (both forms)
-
-### Personal Safety
-
-- Wear a mask and gloves when handling and applying
-- Cover exposed skin, hair, and eyes
-- Avoid contact with eyes, nose, lips, and ears
-- Irritates eyes -- wear protective goggles
-- Work in a well-ventilated area
-
-## Forms Available
-
-Neem products are available primarily as emulsifiable concentrates. The cold-pressed oil form is preferred because heat processing degrades azadirachtin content. Always verify the product is cold-pressed before purchase.
-
-## Neem in the Nutrient Solution
-
-When applied as a soil drench or added directly to the nutrient solution, neem becomes a systemic treatment. The plant absorbs neem compounds through the roots and distributes them throughout vascular tissue. This means:
-
-- New growth is protected from within, not just from surface contact
-- Pests that feed on any part of the plant ingest neem
-- Protection continues even if foliar surfaces are washed or degraded
-- Systemic activity lasts up to one month from a single root application
-
-This method is particularly useful during flowering when foliar spraying risks moisture on buds, which can lead to [[bud-rot-cannabis]].
+- Neem oil has reported toxicity to some beneficial insects -- use caution when combining with [[bud-rot-cannabis]].
 
 ## Additional Organic Spray Ingredients
 
@@ -119,10 +95,4 @@ Cervantes notes several homemade spray ingredients that can complement or be use
 - **Vegetable (canola) oil**: Comprised mainly of fatty acids and glycerides; mix with rubbing alcohol to emulsify in water
 - **Citrus oils**: Effective insect-killing ingredient
 
-These ingredients can be combined into potent homemade sprays. For recipes and detailed mixing instructions, see [[jadam-pest-control-recipes]].
-
-## Integration with Other Controls
-
-Neem products fit well within an [[integrated-pest-management]] strategy. They can be rotated with [[permaculture-pyrethrum-daisy]] (pyrethrum) sprays to prevent pest resistance. Avoid combining neem oil applications with releases of predatory mites or parasitoids due to potential toxicity to beneficials.
-
-For additional organic pest control options, see cannabis pest management, [[hamilton-organic-pest-control]], and [[jadam-pest-control-recipes]].
+These ingredients can be combined into potent homemade sprays. For recipes and detailed mixing instructions, see [[integrated-pest-management]] strategy. They can be rotated with [[hamilton-organic-pest-control]], and [[jadam-pest-control-recipes]].

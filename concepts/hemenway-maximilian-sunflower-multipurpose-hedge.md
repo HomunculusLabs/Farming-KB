@@ -37,25 +37,7 @@ barrier that deters hungry animals from strolling up a slope to
 munch on more desirable plantings. In winter, the stalks can be
 trimmed to about 4 feet high, and the deer really hate the stiff
 spikes that remain. This makes the plant a functional
-alternative or complement to a formal [[gaias-garden-deer-deflecting-food-hedges]].
-
-## Wildlife Habitat
-
-The late-season blooms provide critical nectar and pollen for
-bees and butterflies at a time when few other flowers are
-available. This extends the foraging season for beneficial
-insects well into autumn. The dense growth also provides cover
-and nesting habitat for birds and small mammals. The seed heads
-feed birds through winter if left standing.
-
-## Soil Building
-
-As a perennial with deep roots, the Maximilian sunflower
-contributes to soil building in several ways. The root system
-helps break up compacted soil and improves soil structure. The
-annual dieback of tops and roots adds organic matter to the
-soil. The dense colony shades the ground, reducing weed growth
-and moisture loss, functioning as a [[gaias-garden-living-mulches-ground-covers]] system.
+alternative or complement to a formal [[gaias-garden-living-mulches-ground-covers]] system.
 
 ## Ornamental Value
 
@@ -77,7 +59,7 @@ provides late-season color visible from the house, builds soil
 on the slope, and supports beneficial insects that also serve
 the mixed border.
 
-The plant can also be integrated into [[polyculture-design-hemenway]] plantings and [[hemenway-guild-design-roles-and-assembly]]. Its late-season bloom complements
+The plant can also be integrated into [[hemenway-guild-design-roles-and-assembly]]. Its late-season bloom complements
 earlier-flowering insectary plants, ensuring a continuous food
 source for pollinators and predators throughout the growing
 season.
@@ -96,13 +78,7 @@ consider not just its primary use but all the roles it can play:
 - Does it provide visual interest through multiple seasons?
 - Does it repel pests or serve as a trap crop?
 
-[[gaias-garden-multipurpose-plants]] are the backbone of the ecological
-garden because they create dense networks of connections
-between garden elements. The more functions each plant
-performs, the more resilient and self-maintaining the garden
-becomes. A hedge of Maximilian sunflowers, for example,
-replaces what might otherwise require separate installations:
-a fence for deer, a pollinator garden, a [[hemenway-cover-crops-guide]], and an ornamental border.
+[[hemenway-cover-crops-guide]], and an ornamental border.
 
 ## Potential Drawbacks
 
@@ -111,12 +87,5 @@ in small gardens. It is best suited to larger properties where
 its rhizomatous spread can be managed or is even desirable. In
 smaller spaces, consider confining it with root barriers or
 choosing less aggressive [[gaias-garden-deer-deflecting-food-hedges]]
-species.
-
-## See Also
-
-- [[gaias-garden-deer-deflecting-food-hedges]]
-- [[gaias-garden-multipurpose-plants]]
 - [[gaias-garden-host-plants-beneficial-insects]]
-- [[gaias-garden-hedgerows-and-windbreaks]]
 - [[gaias-garden-living-mulches-ground-covers]]

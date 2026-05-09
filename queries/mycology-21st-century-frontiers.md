@@ -94,7 +94,7 @@ Modern mycology from genomics to conservation, covering the scientific advances,
 - [[fungal-evolution]] — phylogeny, fossil record, and molecular dating
 - [[psychedelic-mushroom-history]] — parallel timeline of psychoactive fungi
 - [[historical-mushroom-cultivation]] — cultivation-focused history
-- [[ethnomycology]] — Victorian-era fungal taxonomy and the Woolhope Club
+- [[victorian-mycology]] — Victorian-era fungal taxonomy and the Woolhope Club
 - [[fungal-ecology]] — fungi as keystone ecosystem engineers
 
 ## Related

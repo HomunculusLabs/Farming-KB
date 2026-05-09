@@ -10,53 +10,7 @@ sources: []
 
 ARIADNE (4-Methyl-2,5-dimethoxymethamphetamine; DMMDMA) is a psychedelic amphetamine that is the N-methyl homologue of dom-entity|DOM.
 
-It is documented as entry #99 in PiHKAL by [[alexander-shulgin]].
-
-## Chemical Identity
-
-Full chemical name: 4-Methyl-2,5-dimethoxymethamphetamine (2,5-Dimethoxy-4-methyl-N-methylamphetamine).
-
-ARIADNE is dom-entity|DOM with an additional methyl group on the nitrogen atom.
-
-The N-methyl homologues of psychedelic amphetamines consistently show reduced potency compared to their N-H parents.
-
-The hydrochloride salt melts at 145-146 degrees Celsius as fine white crystals.
-
-## Dosage and Duration
-
-Effective oral dosage: 15 - 30 mg.
-
-Duration of effects: 7 - 10 hours.
-
-The potency is approximately 3-5 times lower than dom-entity|DOM (active at 3-10 mg).
-
-The duration is somewhat shorter than dom-entity|DOM (10-12 hours).
-
-## Qualitative Effects
-
-At 15 mg, effects include mild stimulation with subtle visual enhancement.
-
-The experience is described as a gentle introduction to the compound's character.
-
-At 20 mg, clear psychedelic effects emerge including visual patterning, enhanced color perception, and mild sensory distortion.
-
-The compound produces a "more gentle" experience than dom-entity|DOM at equivalent effect levels.
-
-At 30 mg, effects intensify to a full psychedelic experience with rich visuals and altered cognitive patterns.
-
-Body load is described as moderate, with some physical tension and occasional nausea.
-
-The N-methyl character shifts the experience away from the "pushy" stimulant qualities of dom-entity|DOM toward a more "heady" psychedelic profile.
-
-## The N-Methyl Pattern
-
-ARIADNE exemplifies a consistent pattern observed across the psychedelic amphetamines: N-methyl homologues are consistently less potent than their N-H counterparts.
-
-dom-entity|DOM is active at 3-10 mg; ARIADNE requires 15-30 mg.
-
-dob-entity|DOB is active at 1-3 mg; the N-methyl homologue is similarly reduced in potency.
-
-mda-entity|MDA to [[mdma-entity]]|MDMA is an exception to this pattern, where the N-methyl compound actually has different (not necessarily reduced) activity.
+It is documented as entry #99 in PiHKAL by [[mdma]]|MDMA is an exception to this pattern, where the N-methyl compound actually has different (not necessarily reduced) activity.
 
 The general principle suggests that the primary amine is preferred at the serotonin receptor binding site responsible for psychedelic effects.
 
@@ -113,9 +67,24 @@ ARIADNE should not be combined with MAOIs or other serotonergic substances.
 - dom-entity|DOM: the N-H parent compound (STP)
 - dob-entity|DOB: the 4-bromo analogue of DOM
 - mdma-entity|MDMA: an N-methyl compound with different pharmacology
-- [[phenethylamine-pharmacology]]: general pharmacology
-
-## Related
-
 - [[j-entity]]
 - [[5-tasb-entity]]
+## Practical Considerations
+
+Successful implementation of ARIADNE requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

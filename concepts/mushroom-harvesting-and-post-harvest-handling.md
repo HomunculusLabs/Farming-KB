@@ -1,7 +1,7 @@
 ---
 title: Mushroom Harvesting and Post-Harvest Handling
 created: 2026-04-28
-tags: [mycology, harvesting, post-harvest, quality]
+tags: [[mycology, harvesting, post-harvest, quality]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -112,8 +112,6 @@ most operations. Some growers also freeze mushrooms after brief blanching or sau
 for value-added products.
 
 ## See Also
-- [[functional-foods-medicinal-mushrooms]]
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]]
-- [[agaricus-bisporus-cultivation-biology]]
 - [[staycare-lentinula-edodes-in-bioremediation]]
 - [[query-how-to-grow-oyster-mushrooms-at-home]]

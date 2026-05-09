@@ -27,9 +27,7 @@ missing out on the pest philosophy of the future.
 ## Palliatives versus Solutions
 
 Bug picking, garlic spray, red pepper, herbal concoctions,
-and all [[coleman-pest-management]] are temporary solutions at best. The
-same goes for synthetic chemicals: DDT, Malathion, Parathion,
-Rotenone, Sevin, [[cervantes-pyrethrum-pyrethroid-insecticides]], and the thousands of unpronounceable
+and all [[cervantes-pyrethrum-pyrethroid-insecticides]], and the thousands of unpronounceable
 compounds in the agricultural chemist's lexicon. Whether chemical
 or "organic," these techniques are all palliatives. The word
 palliative, derived from the Latin pallium (a cloak), means an
@@ -55,26 +53,7 @@ communicating that conditions are not conducive to its optimum
 growth. If the plants are to be healthier next year, the soil
 must be improved.
 
-Coleman calls this the first rule of [[coleman-deep-organic-farming]]:
-"Nature makes sense." If something is not working, it is the
-farmer's fault, not Nature's. The farmer has made the mistake.
-You must have faith in the rational design of the natural world
-and an expectation of success. To succeed, restate Darwin more
-correctly as "the un-survival of the unfit."
-
-## Diagnostic Questions
-
-To grow "fit" plants, Coleman recommends asking yourself a series
-of diagnostic questions when pest or disease problems appear:
-
-- Is the soil ready for that crop, or should the rotation or
-  choice of cultural practices be changed? Some crops like
-  brassicas benefit from higher nitrogen; others like tomatoes
-  will produce all leaves and no fruit with extra nitrogen.
-- How long ago were green-manure-[[cover-crop-guide-detailed]]s or crop residues turned under?
-  Three weeks is the minimum. Soil bacteria need time to digest
-  green matter and return the soil to balanced state.
-- Was the [[coleman-compost-and-organic-fertility-management]] mature? Immature compost can cause a wide range
+Coleman calls this the first rule of [[coleman-compost-and-organic-fertility-management]] mature? Immature compost can cause a wide range
   of problems. Testing kits are available.
 - What was the preceding crop? If it was a heavy feeder, are
   more nutrients necessary?
@@ -100,24 +79,11 @@ sorrel, and dandelions. The conventional approach would be to
 purchase herbicides and fertilizers to suppress weed competition.
 The biological approach studies the optimum conditions for the
 desired grasses, then creates those conditions through compost,
-[[cervantes-organic-mineral-amendments]], peat moss, manure, aeration, drainage, or whatever
-is indicated. Wild vegetation on undisturbed land demonstrates
-that differing soil conditions favor different plants.
-
-On the market garden, close observation of the plants, insects,
-diseases, and every aspect of the garden is essential. Are all
-plants equally affected, or are those at one end of a row or
-along one edge not showing symptoms? What is the soil difference
-in those areas? Was compost from a different windrow used? Was
-the area chisel-plowed or left untilled? If no clues are found,
-try different soil-building techniques next year: different types
-of organic matter, rock powders, trace elements, more compost,
-or changed [[crop-rotation-principles]].
+[[crop-rotation-principles]].
 
 ## The Aphid Example
 
-The one plant pest consistently noted in the winter [[coleman-cool-greenhouse]] is
-[[cervantes-aphids-identification-control]], which appear on spinach starting in early to mid-February.
+The one plant pest consistently noted in the winter [[cervantes-aphids-identification-control]], which appear on spinach starting in early to mid-February.
 At first, a few aphids were tolerable since they washed off easily
 during cleaning. But then aphid predators appeared, and the
 carcasses of preyed-upon aphids stuck to the back of spinach

@@ -143,7 +143,9 @@ PIHKAL entry #156. 4-TM; 4-THIOMESCALINE;.
 ## Extensions and Commentary
 The dosage range has been broadened to
 ## See Also
-- [[qualitative-comments-methodology-pihkal]]
 - [[pihkal-qualitative-effects-themes]]
-- [[psilocybin-mushroom-dosage-and-acute-effects]]
 - [[greg-green-temperature-and-humidity-control]]
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

@@ -120,10 +120,7 @@ every subsequent drug crisis.
 
 ## See Also
 
-- [[mckenna-nostalgia-for-paradise]]
 - [[mckenna-dionysus-dying-god-archetype]]
-- [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[ethnomycology]]
-- [[mckenna-exploitation-cycles-drug-diplomacy]]
+- ethnomycology
 - [[mckenna-symbiosis-and-human-plant-relationships]]

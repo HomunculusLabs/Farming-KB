@@ -37,39 +37,14 @@ significantly.
 
 ## Cleanliness Requirements
 
-As with [[mushroom-cultivation-fundamentals]] in mushroom cultivation, cleanliness is
-critical in brewing. Although brewing is more forgiving than sterile tissue
-culture, contamination can accumulate across batch expansions and alter the
-fermentation dynamics. All equipment should be thoroughly sanitized before
-use. The same principles of hygienic practice that govern [[agar-work-guide]] apply to the brewing process.
+As with [[agar-work-guide]] apply to the brewing process.
 
 ## Yeast Culture Management
 
 Yeast strains for brewing should be sourced from reliable suppliers. Liquid
 cultures are more active if delivered within one to three days, while dry
 yeast is better for remote locations. Like mushroom cultures, yeast strains
-are subject to cannabis-genetics-and-breeding|strain senescence when expanded indefinitely on the same medium. Maintaining master yeast cultures and backups, alternating growing media, and keeping strains in cold storage are all practices directly transferable from [[spawn-generation-techniques]].
-
-## Forms of Mushroom Addition
-
-### Powdered Dried Mushrooms
-
-The preferred form for most homebrewers. Powdered mushrooms have high
-surface area, facilitating extraction of both flavor and medicinal compounds
-during the brewing process. The powder can be gently roasted before adding to
-impart unique flavor profiles through Maillard reactions.
-
-### Fresh Mushrooms
-
-Fresh mushroom tissues carry active yeasts and bacteria that may affect beer
-quality. The wort temperature of 160 degrees Fahrenheit (71 degrees Celsius)
-is not high enough to sterilize fruitbodies. Fresh mushrooms should be
-autoclaved at 250 degrees Fahrenheit (121 degrees Celsius) for one hour
-before addition to eliminate contamination risk.
-
-### Mushroom Extracts
-
-Alcohol-based [[duggar-mushroom-spawn-preparation]] are preferred over hot water extracts
+are subject to cannabis-genetics-and-breeding|strain senescence when expanded indefinitely on the same medium. Maintaining master yeast cultures and backups, alternating growing media, and keeping strains in cold storage are all practices directly transferable from [[duggar-mushroom-spawn-preparation]] are preferred over hot water extracts
 for brewing because alcohol better releases beta-glucans and other molecules
 trapped in the chitin matrix. Extracts can be added at any stage but Cotter
 recommends adding at kegging or bottling to preserve maximum potency.
@@ -98,41 +73,24 @@ judgment calls should be made patiently.
 
 ### Aroma
 
-Many mushrooms, such as [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]], contain vibrantly aromatic
-essential oils that mix and bind with hop oils. Species with pungency and
-sweetness suit brown ales and lagers, while savory and hearty species pair
-better with stouts and darker brews.
-
-### Medicinal Properties
-
-Species like reishi and shiitake are commonly chosen for their documented
-health benefits. Cotter recommends consuming mushroom beer weekly rather than
-daily, and alternating recipes to expose the body to different mushroom
-properties. Medicinal mushroom compounds should not be consumed continuously
-without breaks, as with any supplement.
-
-### Bitterness Values
-
-Some mushrooms, particularly polypores, are naturally hoppy and can
-supplement or partially replace hops. Wild species like *Tylopilus* spp. are
-extremely bitter and should be used sparingly. Testing bitterness involves
-chewing a fresh mushroom piece for sixty seconds before evaluating.
-
-### Cost
-
-Powdered mushrooms and extracts are more cost-effective than fresh, as less
-material is needed to achieve the same concentration of active compounds.
-
-## Sourcing Organic Ingredients
-
-Organic malted grains are increasingly available and worth the premium for
-mushroom-infused beer, which is about quality rather than quantity consumed.
-Organic hops are expensive due to powdery mildew vulnerability, but can be
-homegrown from rhizomes planted in early spring with beneficial insect
-management.
-
-## See Also
-
-- [[mushroom-infused-honey-preparation]] for simpler mushroom delivery systems
-- [[duggar-mushroom-spawn-preparation]] for extraction methods used in brewing
+Many mushrooms, such as [[mushroom-infused-honey-preparation]] for simpler mushroom delivery systems
 - [[mycorrhizal-edible-mushroom-species-overview]] for powder preparation techniques
+## Practical Considerations
+
+Successful implementation of Mushroom-Infused Beer Brewing Principles requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

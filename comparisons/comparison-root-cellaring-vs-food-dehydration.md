@@ -1,7 +1,7 @@
 ---
 title: Root Cellaring vs Food Dehydration
 created: 2026-04-28
-tags: [food-preservation, storage, comparison, homesteading]
+tags: [food-preservation, storage, comparison, [[homesteading]]]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
@@ -142,9 +142,6 @@ unexpectedly in a mild winter, or moisture gets into a dehydrator batch), the ot
 method preserves a portion of the harvest. It also maximizes the variety of
 preserved foods available throughout the year, combining the convenience of
 cellar-stored fresh roots with the longevity and portability of dehydrated goods.
-
 ## See Also
-- [[root-cellaring-guide]] for detailed cellar design and crop-specific storage
 - [[food-dehydration-guide]] for equipment, temperatures, and drying times
-- [[canning-and-preserving]] for heat-based preservation methods
 - [[food-fermentation-guide]] for another low-energy preservation approach

@@ -107,15 +107,8 @@ In Scandinavian folklore, birch was associated with renewal and the spring festi
 
 ## See Also
 
-- [[alnus-glutinosa]]
 - [[quercus-robur]]
-- [[fagus-sylvatica]]
-- betulin
-- methyl salicylate
 - [[mycorrhiza]]
-- [[food-forest]]
 - [[gaias-garden-nurse-plants]]
-- [[holmgren-ecological-succession-design|ecological succession]]
 - [[permaculture-plants-dynamic-accumulators]]
-- [[piptoporus-betulinus]]
 - [[chondrostereum-purpureum]]

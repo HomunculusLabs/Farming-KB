@@ -85,10 +85,6 @@ Commercial seed costs represent a significant portion of farming expenses, parti
 
 ## See Also
 
-- [[ultra-low-cost-pest-control]]
-
 - [[ultra-low-cost-farming-overview]]
-- [[biointensive-seed-saving]]
 - [[seed-starting-methods-comparison]]
-- [[natural-farming-methods-comparison]]
 - [[cover-crop-species-comparison]]

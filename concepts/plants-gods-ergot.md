@@ -12,12 +12,7 @@ type: concept
 
 ## Overview
 
-Ergot ([[claviceps-purpurea]]) is a fungal parasite of cereal grasses,
-primarily rye, that produces some of the most pharmacologically
-significant alkaloids known to science. While it has never been
-purposefully utilized as a hallucinogen, Ergot has profoundly shaped
-human history through mass poisonings known as ergotism, its role in
-the [[eleusinian-mysteries]] of ancient Greece, and its contribution to
+Ergot ([[eleusinian-mysteries]] of ancient Greece, and its contribution to
 modern medicine. Most importantly, the ergoline alkaloids derived from
 Ergot are the chemical basis of lysergic acid diethylamide (LSD), the
 most potent hallucinogen known. Ergot alkaloids or derivatives of them
@@ -74,7 +69,7 @@ pharmacologically active constituents of Ergot:
   found in Morning Glory seeds.
 - **Lysergic acid diethylamide** (LSD): A synthetic derivative of
   ergot, the most potent hallucinogen known, first synthesized by
-  [[albert-hofmann]] in 1938 from ergotamine.
+  gordon-wasson in 1938 from ergotamine.
 
 The psychoactive constituents of Morning Glory seeds (Ololiuqui) are
 found only in this unrelated group of fungi containing Ergot, making
@@ -129,8 +124,6 @@ pharmacological properties.
 
 ## See Also
 
-- [[plants-gods-ololiuqui]] for Morning Glory seeds, which contain
-  ergoline alkaloids chemically related to Ergot
 - [[plants-gods-fly-agaric]] for another ancient hallucinogen proposed
   as the Eleusinian kykeon ingredient
 - [[plants-gods-psilocybin-mushrooms]] for comparison with fungal

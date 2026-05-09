@@ -10,17 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Grifolan
 
-Grifolan is a beta-1,3-glucan with beta-1,6-glucosidic branches extracted from the fruiting body of [[grifola-frondosa]] (maitake). It is a potent immunomodulatory polysaccharide with well-documented anti-tumor activity, primarily through activation of innate immune responses.
-
-## Chemical Structure
-
-Grifolan is a high-molecular-weight polysaccharide composed primarily of beta-D-glucopyranose residues linked by beta-1,3-glycosidic bonds with beta-1,6-linked branch points occurring approximately every third residue along the main chain. The molecular weight ranges from 500 kDa to over 2000 kDa depending on extraction conditions.
-
-The triple-helical conformation of grifolan in aqueous solution is critical for its biological activity. Denaturation (e.g., by alkaline treatment or high temperature) significantly reduces immunomodulatory potency.
-
-## Extraction and Isolation
-
-Grifolan is extracted from [[grifola-frondosa]] fruiting bodies using hot water extraction followed by ethanol precipitation. Further purification typically involves:
+Grifolan is a beta-1,3-glucan with beta-1,6-glucosidic branches extracted from the fruiting body of [[grifola-frondosa]] fruiting bodies using hot water extraction followed by ethanol precipitation. Further purification typically involves:
 - Protein removal (Sevag method or protease treatment)
 - Dialysis against water
 - Gel filtration chromatography (Sephacryl S-500 or Sepharose CL-4B)
@@ -72,14 +62,7 @@ Grifolan demonstrated activity against:
 
 ## Clinical Applications
 
-Grifolan is commercially available as a dietary supplement, often marketed as "Maitake D-fraction" or similar formulations. While clinical trial data remains limited compared to PSK or [[polysaccharide-peptide-psp]], preliminary human studies suggest:
-- Improved immune parameters in cancer patients
-- Reduced chemotherapy side effects (fatigue, nausea, immunosuppression)
-- Enhanced quality of life scores
-
-## D-Fraction
-
-D-Fraction is a proprietary standardized extract of [[grifola-frondosa]] containing grifolan and related beta-glucans, developed by Dr. Hiroaki Nanba. It is standardized to contain a specific ratio of protein-bound to protein-free beta-glucan fractions. The D-Fraction preparation is claimed to have superior oral bioavailability compared to crude grifolan extracts, though independent verification remains limited.
+Grifolan is commercially available as a dietary supplement, often marketed as "Maitake D-fraction" or similar formulations. While clinical trial data remains limited compared to PSK or [[grifola-frondosa]] containing grifolan and related beta-glucans, developed by Dr. Hiroaki Nanba. It is standardized to contain a specific ratio of protein-bound to protein-free beta-glucan fractions. The D-Fraction preparation is claimed to have superior oral bioavailability compared to crude grifolan extracts, though independent verification remains limited.
 
 MD-Fraction represents a further refinement with improved purity and reported higher immunomodulatory potency. Both preparations are widely available as dietary supplements.
 
@@ -94,7 +77,7 @@ Research on grifolan structure-activity relationships has established:
 
 ## Synergistic Combinations
 
-Grifolan shows synergistic effects when combined with Polysaccharide-Krestin|PSK (enhanced anti-tumor activity through complementary receptor activation), conventional chemotherapy agents such as 5-FU and doxorubicin (reduced side effects with maintained efficacy), and vitamin c (improved beta-glucan bioavailability and immune cell activation). Combinations with [[cordyceps-sinensis]] extracts and [[polysaccharide-peptide-psp]] have demonstrated enhanced NK cell and macrophage activation.
+Grifolan shows synergistic effects when combined with Polysaccharide-Krestin|PSK (enhanced anti-tumor activity through complementary receptor activation), conventional chemotherapy agents such as 5-FU and doxorubicin (reduced side effects with maintained efficacy), and vitamin c (improved beta-glucan bioavailability and immune cell activation). Combinations with [[polysaccharide-peptide-psp]] have demonstrated enhanced NK cell and macrophage activation.
 
 ## Veterinary Applications
 
@@ -106,9 +89,9 @@ Ongoing research on grifolan includes large-scale randomized controlled trials f
 
 ## Comparison with Other Mushroom Beta-Glucans
 
-| Property | Grifolan | [[lentinan]] | [[schizophyllan]] | PSK |
+| Property | Grifolan | [[schizophyllan]] | PSK |
 |---|---|---|---|---|
-| Source | [[grifola-frondosa]] | [[lentinula-edodes]] | [[schizophyllum-commune]] | [[trametes-versicolor]] |
+| Source | [[lentinula-edodes]] | [[trametes-versicolor-entity]] |
 | Main linkage | beta-1,3 | beta-1,3 | beta-1,3 | beta-1,4/1,3 |
 | Branching | beta-1,6 | beta-1,6 | beta-1,6 | beta-1,6 |
 | Clinical use | Supplement | Cancer adjuvant | Cancer adjuvant | Cancer adjuvant |
@@ -116,11 +99,7 @@ Ongoing research on grifolan includes large-scale randomized controlled trials f
 
 ## See Also
 
-- [[medicinal-mushroom-immune-modulation]]
-
 - [[beta-glucans]]
-- [[grifola-frondosa]]
 - [[psk-polysaccharide-krestin]]
-- [[polysaccharide-peptide-psp]]
 - [[lentinan]]
 - [[grifola-umbellata]]

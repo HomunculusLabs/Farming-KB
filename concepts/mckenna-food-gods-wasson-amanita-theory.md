@@ -23,11 +23,11 @@ type: concept
 
 ## Overview
 
-R. Gordon Wasson's theory that the Vedic [[mckenna-food-gods-soma-vedic-enigma|Soma]] was the fly agaric mushroom, [[amanita-muscaria]], represents one of the most influential — and controversial — hypotheses in the history of ethnopharmacology. First proposed in his 1968 article and fully elaborated in *Soma: Divine Mushroom of Immortality* (1971), Wasson's argument fundamentally shaped subsequent scholarship on the identity of the mysterious Vedic sacrament. Terence McKenna, while deeply respectful of Wasson's contributions as the founder of ethnomycology, ultimately found the Amanita theory untenable and documented the extensive objections to it in *Food of the Gods*.
+R. Gordon Wasson's theory that the Vedic [[amanita-muscaria-entity]], represents one of the most influential — and controversial — hypotheses in the history of ethnopharmacology. First proposed in his 1968 article and fully elaborated in *Soma: Divine Mushroom of Immortality* (1971), Wasson's argument fundamentally shaped subsequent scholarship on the identity of the mysterious Vedic sacrament. Terence McKenna, while deeply respectful of Wasson's contributions as the founder of ethnomycology, ultimately found the Amanita theory untenable and documented the extensive objections to it in *Food of the Gods*.
 
 ## The Founders of Ethnomycology
 
-Gordon and Valentina Wasson are credited with founding ethnomycology — the study of human uses of and lore concerning mushrooms and other fungi. Their pioneering work extended beyond the Soma question: they also discovered the existence of still-active shamanic mushroom cults in the mountains of the Sierra Mazateca of Oaxacan Mexico. Gordon Wasson brought samples of these [[mckenna-food-gods-mesoamerican-mushrooms|Mexican mushrooms]] to Albert Hofmann, the Swiss pharmaceutical chemist and [[lsd|LSD]] discoverer, thus setting the stage for the characterization and isolation of psilocybin in 1957.
+Gordon and Valentina Wasson are credited with founding ethnomycology — the study of human uses of and lore concerning mushrooms and other fungi. Their pioneering work extended beyond the Soma question: they also discovered the existence of still-active shamanic mushroom cults in the mountains of the Sierra Mazateca of Oaxacan Mexico. Gordon Wasson brought samples of these [[lsd|LSD]] discoverer, thus setting the stage for the characterization and isolation of psilocybin in 1957.
 
 ## The Case for Fly Agaric
 
@@ -89,26 +89,6 @@ A professional psychotherapist and neurophysiologist described fly agaric intoxi
 
 Despite publicly championing the Amanita theory, Wasson privately expressed significant doubts. In his last published work, *Persephone's Quest*, he characterized fly agaric as "the supreme entheogen of all time" — apparently on faith alone, since he admitted it was disappointing and only reported attaining shamanic ecstasy through psilocybin, which he never introduced into the Soma puzzle.
 
-Most tellingly, Wasson acknowledged that [[stropharia-cubensis]] grew in cattle dung in India, was "easily identified and effective," yet he could not conceive that it could be the Soma he sought. He asked himself whether it could have been "a contributing reason for abandoning Soma" — and then ignored his own question.
-
-## Social Factors Behind the Blind Spot
-
-McKenna attributes Wasson's reluctance to consider psilocybin mushrooms as Soma to several factors:
-
-- **Aversion to "hippies"**: Wasson was deeply troubled by the migration of spiritual seekers and sensationalists that followed his revelations of Mexican mushroom cults
-- **Class consciousness**: References to "the lower orders" and "riffraff" mark a break from Wasson's usual egalitarianism
-- **Theological bias**: His preference for the term "entheogen" over "psychedelic" reflected a desire to distance these substances from the counterculture
-- **Unconscious motivations**: McKenna suggests "many considerations, some of them unconscious, shaped Wasson's words"
-
-In 1977, Wasson wrote to McKenna acknowledging that "inebriation from Str. cubensis and the other psilocybin species is clearly, in my opinion, superior to Amanita muscaria" and promising to develop this idea in a future book — but he ultimately contradicted this position in his published work.
-
-## Legacy
-
-Wasson's Amanita theory, despite its weaknesses, accomplished something revolutionary: it forced serious scholars to consider that the foundational sacrament of Indo-European religion was a hallucinogenic mushroom. This insight opened the door to all subsequent inquiry, including McKenna's argument that the original Soma was a psilocybin-containing species intimately connected with cattle and the worship of the Great Goddess.
-
-## See Also
-
-- [[mckenna-food-gods-soma-vedic-enigma]]
-- [[mckenna-food-gods-peganum-harmala-soma]]
+Most tellingly, Wasson acknowledged that [[mckenna-food-gods-soma-vedic-enigma]]
 - [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
 - [[mckenna-food-gods-tryptamine-pharmacology-indoles]]

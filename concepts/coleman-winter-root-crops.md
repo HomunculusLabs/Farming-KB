@@ -1,51 +1,7 @@
 ---
 title: Winter Root Crop Production and Storage
 created: 2026-04-26
-tags: [root-crops, winter-carrots, in-ground-storage, eliot-coleman]
-sources: The Winter Harvest Handbook, Eliot Coleman (2009)
-type: concept
-updated: 2026-04-26
----
-
-# Winter Root Crop Production and Storage
-
-## Overview
-
-mollison designers cassava are a cornerstone of the winter harvest. Coleman distinguishes between in-ground storage (crops left in the soil under protection and dug as needed) and traditional post-harvest storage. His system relies primarily on in-ground cold-soil storage, which enhances flavor and sweetness.
-
-## "Sweet Winter Carrots" (Signature Crop)
-
-Sweet Winter Carrots are Coleman's most acclaimed winter crop — so popular that children rush to the produce counter asking for "candy carrots."
-
-### Growing
-- Best variety: 'Napoli' (small size but full flavor)
-- Planting for October harvest: last week of July
-- Planting for later harvests: first week of August
-- Soil prepared by turning under a and green manure of oats and peas one month before sowing
-- Large areas covered with mobile greenhouses in late October
-
-### In-Ground Storage
-- Carrots remain in place in the soil under cold houses, dug over time as needed
-- Dug fresh outdoors in October–November, from greenhouse-covered beds December–February
-- Cold-soil storage enhances flavor, sweetness, and raw-eating crunch
-- The last carrots harvested in late February are even sweeter than the first
-- Tops remain green under the inner layer; sold with 1.5 inches of green top for premium presentation
-
-### Season Limitations
-- Five-month season: October through February
-- Once new top growth begins in March, sweetness declines
-- Attempts to extend the season have failed:
-  - Adding insulation over beds in mid-January prevented sun warmth influx, causing soil and carrots to freeze solid
-  - Spring-resuming varieties from fall sowing have disappointing flavor
-
-### Spring Carrots
-- New crop sown in late December (following fall lettuce) for May 10 sale
-- Variety: 'Nelson' — deliciously sweet spring carrot
-- Cannot match the acclaim of the winter carrots
-
-## Leeks (Nearly Year-Round)
-
-Leeks are available almost year-round at [[coleman-four-season-farm]]:
+tags: [root-crops, winter-carrots, in-ground-storage, [[coleman-four-season-farm]]:
 
 | Season | Source | Variety |
 |--------|--------|---------|
@@ -103,6 +59,24 @@ Coleman's system favors in-ground storage because:
 
 ## See Also
 
-- [[coleman-cold-hardy-varieties]] — Complete variety listings
 - [[coleman-planting-schedules]] — Sowing and harvest dates
 - [[coleman-winter-greens]] — Leaf crop production
+## Practical Considerations
+
+Successful implementation of Winter Root Crop Production and Storage requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

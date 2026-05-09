@@ -133,11 +133,7 @@ pollinate the majority of a crop.
 
 ## See Also
 
-- [[oner-cannabis-breeding-fundamentals]]
 - [[cannabis-male-plant-management]]
-- [[cannabis-seed-production]]
 - [[cannabis-pollen-collection]]
-- [[cannabis-sinsemilla-life-cycle]]
 - [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-photoperiodism-and-light-cycles]]

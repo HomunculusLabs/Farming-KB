@@ -108,13 +108,8 @@ Geographic origin significantly affects chemical profile. Zhejiang-sourced mater
 
 ## See Also
 
-- [[panax-ginseng]]
 - [[glycyrrhiza-uralensis]]
-- [[glycyrrhiza-glabra]]
 - [[eleutherococcus-senticosus]]
-- [[schisandra-chinensis]]
 - [[angelica-sinensis]]
-- [[panax-notoginseng]]
 - [[rhodiola-rosea]]
-- [[withania-somnifera]]
 - [[centella-asiatica]]

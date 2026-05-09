@@ -1,7 +1,7 @@
 ---
 title: Psilocybe stuntzii Blue Ringers Guide
 created: 2026-04-28
-tags: [mycology, psilocybe, species-guide, pacific-northwest]
+tags: [[mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
@@ -93,40 +93,9 @@ is slender and paler, is recognized as P. stuntzii var. tenuis. The P.
 stuntzii group encompasses a great variety of forms growing in varied
 habitats, making it a taxonomically complex group.
 
-## Danger: [[galerina-autumnalis]] Confusion
-
-, a deadly mushroom, has the same overall
-appearance as P. stuntzii and would look identical to a color-blind
-person. The orangish brown cap and rusty brown spores are the major
-differences visible to the unaided eye. Stamets emphasizes that this
-similarity is extremely dangerous and that foragers must be thoroughly
-familiar with both species before attempting to collect P. stuntzii.
-
-## Related Species
-
-- - Japanese species in the same group
-- - more potent Pacific Northwest species
-- - conifer-inhabiting relative
-- - wood-chip inhabiting species
-- - deadly look-alike
-
-## Taxonomic Notes
-
-Two taxonomically similar species are,
-reported from Uruguay and Brazil, and, collected
-in Oaxaca, Mexico. The P. stuntzii group is part of a larger complex
-of wood-inhabiting Psilocybes that includes species from North America,
-Central America, South America, and Asia, suggesting an ancient and
-widely distributed lineage.
-
-## See Also
-
-- [[psilocybe-stuntzii]]
-
-- [[stamets-psylo-psilocybe-stuntzii]]
+## Danger: [[psilocybe-stuntzii]]
 
 - [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
-- [[stamets-psi-psilocybe-mexicana-species-guide]]
 - [[stamets-psi-psilocybe-cubensis-species-guide]]
 
 - - deadly look-alike genus and safety guidelines

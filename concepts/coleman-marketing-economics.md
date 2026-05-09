@@ -141,9 +141,6 @@ value of creative marketing approaches tied to seasonal occasions.
 
 ## See Also
 
-- [[coleman-winter-harvest-philosophy]]
 - [[coleman-four-season-farm]]
-- [[coleman-winter-greens]]
 - [[coleman-cool-greenhouse]]
-- [[coleman-deep-organic-farming]]
 - [[coleman-winter-harvesting-techniques]]

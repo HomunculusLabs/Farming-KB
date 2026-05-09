@@ -143,7 +143,9 @@ Comprehensive bioremediation assessment may include:
   activity in treated samples, particularly important for azo dye
   degradation products (aromatic amines)
 
-- [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
 - [[singh-pah-biodegradation-fungi-soils-bioreactors]]
+
+## See Also
+
+- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]

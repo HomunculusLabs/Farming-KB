@@ -19,7 +19,6 @@ during this vulnerable period establishes the foundation
 for healthy, vigorous plants throughout the entire life
 cycle.
 
-See also: [[cervantes-seed-germination]]
 See also: [[cervantes-vegetative-phase]]
 
 ## Seedling Development
@@ -49,66 +48,7 @@ The seedling stage is over when rapid foliage growth
 starts. At this point, plants need more room to grow
 and should be transplanted into larger containers.
 
-See also: [[cannabis-advanced-growing-techniques]]
-
-## Light Requirements
-
-Seedlings need at least 16 hours of light daily. They
-require less intense light than older plants and grow
-well under fluorescent tubes for the first two to three
-weeks:
-
-- **Fluorescent tubes:** Position 2 to 4 inches (5 to
-  10 cm) above seedlings
-- **Compact fluorescent lights (CFL):** Position 12 to
-  18 inches (30 to 45 cm) above seedlings
-- **HID lights (MH or HPS):** Position 3 to 4 feet
-  (90 to 120 cm) above seedlings
-
-Seedlings can be burned by intense light. Start with
-lower light intensity and gradually increase as plants
-develop more foliage. Providing the proper amount of
-blue spectrum light during the seedling stage encourages
-compact, bushy growth rather than stretching.
-
 See also: [[cervantes-lighting-systems]]
-See also: [[cervantes-light-spectrum-photomorphogenesis]]
-
-## Temperature and Humidity
-
-The new, fragile root system is very small and requires
-a small but constant supply of water and warmth. Ideal
-conditions for seedlings:
-
-- **Temperature:** 72 to 80 degrees F (22 to 27
-  degrees C) during the day
-- **Humidity:** 60 to 70 percent relative humidity
-- **Root zone warmth** promotes rapid root development
-  and overall vigor
-
-Too much water will drown seedling roots, often leading
-to root rot and damping-off. Lack of water causes the
-infant root system to dry up. A little extra warmth
-helps nurture small seedlings to a strong start.
-
-## Water and Nutrients
-
-Seedlings are sensitive to both overwatering and
-nutrient strength. Key watering guidelines:
-
-- Keep the growing medium moist but not soggy
-- Water when the surface feels dry to the touch
-- Use plain water or very dilute nutrient solution
-  (one-quarter strength or less)
-- Avoid nutrient solutions for the first one to two
-  weeks unless growing in inert hydroponic media
-- Do not let the medium dry out to the point of wilt
-
-Over-fertilization is a common mistake with seedlings.
-Their small root systems are easily burned by
-concentrated nutrient solutions. Less is more during
-this stage.
-
 See also: [[cervantes-overwatering-underwatering]]
 
 ## Selecting and Thinning Seedlings
@@ -144,5 +84,4 @@ Conversely, warm temperatures, stress, high potassium,
 and long daylight hours tend to produce more male
 plants.
 
-See also: [[cervantes-sex-determination-pre-flowering]]
 See also: [[cervantes-indica-sativa-ruderalis-differences]]

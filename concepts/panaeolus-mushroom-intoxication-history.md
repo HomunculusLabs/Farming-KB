@@ -131,8 +131,6 @@ clinically significant effects.
 
 ## See Also
 
-- [[everard-brande-1799-european-mushroom-discovery]]
 - [[gartz-european-psychoactive-mushroom-species]]
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[mycophilia-mycophobia-european-mushroom-history]]
 - [[gartz-magic-mushrooms-global-distribution-patterns]]

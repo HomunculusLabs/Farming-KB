@@ -138,13 +138,8 @@ compact shape. In permaculture and companion planting, rue is sometimes
 used as an insect-repellent border plant, though evidence for efficacy is
 largely anecdotal. Rue should not be planted near culinary herbs, as its
 strong volatile oils can taint nearby plants.
-
 ## See Also
 
-- [[anethum-graveolens]]
-
 - [[artemisia-absinthium]]
-- [[tanacetum-parthenium]]
 - [[thymus-vulgaris-entity]]
-- [[rosmarinus-officinalis-entity]]
 - [[origanum-vulgare-entity]]

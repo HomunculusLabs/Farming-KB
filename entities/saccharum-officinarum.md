@@ -102,19 +102,11 @@ Modern commercial cultivars (called "noble canes" in breeding terminology) are t
 
 ## See Also
 
-- [[eleusine-coracana]]
 - [[manihot-esculenta]]
-- [[panicum-virgatum]]
 - [[vigna-radiata]]
-- [[cymbopogon-citratus]]
 - [[amaranthus-caudatus]]
-- [[chenopodium-quinoa]]
 - [[crotalaria-juncea]]
-- [[moringa-oleifera]]
 - [[prosopis-juliflora]]
-- [[colocasia-esculenta]]
 - [[dioscorea-alata]]
-- [[phaseolus-vulgaris]]
 - [[glycine-max]]
-- [[pachyrhizus-erosus]]
 - [[lathyrus-tuberosus]]

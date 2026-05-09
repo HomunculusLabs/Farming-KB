@@ -73,18 +73,10 @@ Cost is another important consideration. Rockwool and peat moss are relatively i
 
 ## See Also
 
-- [[cannabis-hydroponic-systems]]
-
 - [[cannabis-soil-and-nutrient-requirements]]
-
-- [[cannabis-plant-nutrition]]
 
 - [[cannabis-living-soil-guide]]
 
-- [[cannabis-cloning-and-mother-plants]]
-
 - [[cannabis-seed-germination-methods]]
-
-- [[cannabis-indoor-growing-basics]]
 
 - [[cannabis-vegetative-stage-management]]

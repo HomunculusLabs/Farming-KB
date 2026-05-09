@@ -142,8 +142,6 @@ herb gardens and permaculture systems.
 ## Permaculture and Agroforestry Applications
 ## See Also
 
-- [[panax-ginseng]]
 - [[panax-quinquefolius]]
-- [[ashwagandha]]
 - [[rhodiola-rosea]]
 - [[schisandra-chinensis]]

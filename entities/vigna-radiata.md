@@ -112,10 +112,7 @@ The crop residue (straw and husks) provides valuable mulch and animal fodder, su
 
 ## See Also
 
-- [[glycine-max]]
 - [[mycorrhiza]]
-- [[agaricus-subrufescens]]
 - [[anethum-graveolens]]
-- [[ocimum-sanctum]]
 - [[artemisia-dracunculus]]
 - [[ashwagandha-withania-somnifera]]

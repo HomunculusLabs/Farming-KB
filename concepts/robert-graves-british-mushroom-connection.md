@@ -19,7 +19,7 @@ type: concept
 Robert Graves (1895-1985) occupies an idiosyncratic position in the
 story of the magic mushroom. The eccentric poet, novelist, and
 Professor of Poetry at Oxford played a vital if largely forgotten role
-in alerting [[gordon-wasson]] to the existence of Mexican mushroom rituals
+in alerting gordon-wasson to the existence of Mexican mushroom rituals
 and subsequently in promoting the idea that hallucinogenic mushrooms
 had been used in ancient European cultures. His influence extended to
 the British psychedelic underground through his widely read books.
@@ -80,32 +80,7 @@ goddess and beseech her for poetic inspiration.
 Graves first tried the mushrooms in January 1960, while a guest at
 Wasson's New York apartment. Wasson hosted mushroom soirees for invited
 friends, at which he acted as hierophant, served up pills of dried
-mushrooms (in this instance [[psilocybe-hoogshagenii]]) and directed the
-experience with slides of Sabina and recordings of her bemushroomed
-chanting. Solemnly, he began each session by advising his congregation
-to achieve a state of grace.
-
-Graves entered into the experience fully expecting to be granted a
-vision of paradise. He had become convinced that the reason there were
-so many "similarities" between ancient descriptions of Elysium was
-that a common hallucinogenic experience lay behind them. Armed with
-this expectation, he had exactly the paradisiacal encounter he craved.
-Writing to thank Wasson afterwards, he declared it "not merely a
-red-letter day but a day marked with the colours of a celestial
-rainbow."
-
-## The Paradise Vision
-
-His account, buried in his Oxford Addresses on Poetry, stands
-alongside those of De Quincey and Huxley as one of the finest pieces
-of psychedelic prose in the English canon. His visions were vivid: he
-found himself moving through a marble grotto replete with jewels,
-grimacing masks and nakedly dancing caryatids. He grasped the fruit
-of the tree of good and evil, feeling his mind become "so agile and
-unfettered" that he felt capable of solving any problem, with
-immediate access to all knowledge everywhere.
-
-He was enraptured by the words of the curandera Maria Sabina, who
+mushrooms (in this instance [[maria-sabina]], who
 became for him the embodiment of the Muse. "Each song was followed by
 a pause," he wrote. "Always I waited in a lover's agony for her to
 begin again, burning at my eyelids." He watched as her words flowed
@@ -139,11 +114,6 @@ Daevid Allen, visionary leader of the uber-hippy psychedelic band
 Gong, were among the more famous visitors received at Graves's home.
 Young, attractive "hippy-chicks" were especially welcomed. Graves was
 always happy to talk about magic mushrooms, and it seems probable that
-he led some people to the British [[psilocybin-compound]] mushroom through these
-conversations and his printed speculations.
-
-## Related Topics
-
-- [[gordon-wasson-mushroom-discovery]] - Wasson's Mexico expeditions
+he led some people to the British [[gordon-wasson-mushroom-discovery]] - Wasson's Mexico expeditions
 - [[wasson-mycophobia-mycophilia-theory]] - the theory Graves
   - championed

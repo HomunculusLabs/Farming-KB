@@ -71,7 +71,7 @@ Lac insects are polyphagous but perform best on specific host tree species. The 
 | *Ziziphus mauritiana* | Ber / Indian Jujube | India, SE Asia | 1–2 | Standard |
 | *Ficus religiosa* | Sacred Fig | India, Sri Lanka | 1–2 | Lower grade |
 | *Acacia catechu* | Khair | India, Myanmar | 1–3 | Good |
-| *Cajanus cajan* | Pigeon Pea (shrub) | India | 0.5–1 | Standard |
+| *[[cajanus-cajan]]* | Pigeon Pea (shrub) | India | 0.5–1 | Standard |
 | *Ficus benghalensis* | Banyan | India | 1–2 | Standard |
 
 ### Host Plant Requirements
@@ -107,7 +107,7 @@ Two distinct crops are harvested annually:
 - **Brood lac selection**: Only healthy, undamaged brood with visible living insects is used. Dead or parasitized brood is discarded.
 - **Density management**: Over-inoculation stresses host trees; recommended density is 30–50 brood bundles per tree.
 - **Crop rotation**: Alternate host species between crops to maintain tree health.
-- **Integrated pest management**: Parasitic wasps, predators, and fungal pathogens are managed through cultural practices and biological controls.
+[[integrated-pest-management]] ment**: Parasitic wasps, predators, and fungal pathogens are managed through cultural practices and biological controls.
 
 ## Processing: From Stick Lac to Shellac
 

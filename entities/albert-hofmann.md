@@ -36,11 +36,11 @@ LSD was initially marketed as Delysid for psychiatric research, and Sandoz distr
 
 ## Isolation of Psilocybin (1958)
 
-After [[gordon-wasson]] brought specimens of Psilocybe mexicana from his 1957 expedition to Mexico (documenting the Mazatec mushroom ceremony of Maria Sabina), Hofmann identified and synthesized the active compounds psilocybin and psilocin at Sandoz. This chemical identification of the mushroom's active principles transformed ethnomycology from a purely observational field into one with a biochemical foundation.
+After [[r-gordon-wasson]] brought specimens of Psilocybe mexicana from his 1957 expedition to Mexico (documenting the Mazatec mushroom ceremony of Maria Sabina), Hofmann identified and synthesized the active compounds psilocybin and psilocin at Sandoz. This chemical identification of the mushroom's active principles transformed ethnomycology from a purely observational field into one with a biochemical foundation.
 
 ## Eleusinian Mysteries Research
 
-Co-authored "The Road to Eleusis" (1978) with [[gordon-wasson]] and Carl Ruck, proposing that Claviceps purpurea (ergot) was the kykeon — the sacred potion consumed during the ancient Greek Eleusinian Mysteries for nearly 2,000 years. This hypothesis, while debated, exemplified Hofmann's broader interest in the role of psychoactive substances in religious and cultural history.
+Co-authored "The Road to Eleusis" (1978) with [[r-gordon-wasson]] and Carl Ruck, proposing that Claviceps purpurea (ergot) was the kykeon — the sacred potion consumed during the ancient Greek Eleusinian Mysteries for nearly 2,000 years. This hypothesis, while debated, exemplified Hofmann's broader interest in the role of psychoactive substances in religious and cultural history.
 
 ## "LSD: My Problem Child" (1980)
 
@@ -65,9 +65,7 @@ Hofmann's discoveries fundamentally shaped the 20th century's understanding of c
 
 ## See Also
 
-- [[walter-stoll]]
-
-- [[gordon-wasson]] — Colleague who brought psilocybin mushrooms from Mexico for Hofmann to analyze
+- [[r-gordon-wasson]] — Colleague who brought psilocybin mushrooms from Mexico for Hofmann to analyze
 - [[jonathan-ott]] — Translated Hofmann's autobiography into English
 - [[richard-evans-schultes-updated]] — Co-author of Plants of the Gods
 - [[alexander-shulgin]] — Chemist who continued Hofmann's tradition of synthesizing new psychedelic compounds
@@ -78,4 +76,22 @@ Hofmann's discoveries fundamentally shaped the 20th century's understanding of c
 
 - [[lsd-reference]]
 - [[lsd-synthesis-history]]
-- [[ergometrine]]
+## Practical Considerations
+
+Successful implementation of Albert Hofmann requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

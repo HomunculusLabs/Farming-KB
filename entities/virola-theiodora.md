@@ -113,17 +113,13 @@ Virola theiodora represents one of the most important psychoactive plants of the
 
 Virola theiodora can be compared with other DMT-containing plants used in indigenous practices:
 
-- [[diplopterys-cabrerana]] — DMT source for Ayahuasca, used orally with MAO inhibitor
 - [[psychotria-viridis]] — Chacruna, the most common Ayahuasca DMT admixture
-- [[anadenanthera-peregrina]] — Yopo, another DMT-containing snuff from the Amazon
 - [[acacia]] — African Acacia species with reported DMT content
 
 The key distinction of V. theiodora is its use as a snuff rather than as an oral preparation. This route of administration produces rapid onset of effects but shorter duration compared to Ayahuasca.
 
 ## See Also
 
-- [[diplopterys-cabrerana]] — another DMT-rich Amazonian plant used in Ayahuasca
 - [[anadenanthera-peregrina]] — Yopo, another Amazonian psychoactive snuff
-- [[banisteriopsis-caapi]] — the Ayahuasca vine
 - [[psychotria-viridis]] — Chacruna, DMT source for Ayahuasca
 - myristica-fragrans — Nutmeg, another Myristicaceae plant with psychoactive properties

@@ -127,17 +127,10 @@ laboratory, industrial, or cultivation settings.
 
 ## See Also
 
-- [[thermally-gentle-microwave-surface-sterilization]]
-
 - [[microwave-surface-sterilization-core-concept]]
 
-- [[challenge-microorganisms-microwave-surface-sterilization]]
-
 - [[microwave-surface-sterilization-technology]]
-- [[surface-sterilization-methods-comparison]]
 - [[trace-water-enhanced-microwave-surface-sterilization]]
-- [[pasteurization-vs-sterilization]]
 - [[sterilization-techniques-mushroom-cultivation]]
-- [[microwave-steam-flash-sterilization-mechanism]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[microwave-2-45-ghz-water-dipolar-coupling]]

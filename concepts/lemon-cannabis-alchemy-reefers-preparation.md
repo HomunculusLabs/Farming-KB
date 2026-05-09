@@ -120,9 +120,6 @@ Several practical factors affect the quality of oil-impregnated reefers:
 
 ## Related
 
-- [[lemon-cannabis-alchemy-hashish-preparation]]
-
 - [[lemon-cannabis-alchemy-tinctures-and-edibles]]
-- [[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-direct-vaporization]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]

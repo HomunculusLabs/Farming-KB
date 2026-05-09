@@ -124,15 +124,9 @@ Key incubation principles:
 
 ## See Also
 
-- [[spawn-production]]
-
 - [[mushroom-cultivator-grain-selection-moisture]]
 
-- [[stamets-spawn-making-and-grain-culture]] -- Stamets' detailed grain culture chapter
 - [[grain-spawn-preparation]] -- general grain spawn preparation
-- [[grain-to-grain-transfer]] -- grain transfer techniques
 - [[stamets-agar-media-preparation]] -- agar media for starter cultures
-- [[mushroom-cultivator-substrate-preparation]] -- preparing substrates for spawning
 - [[mushroom-cultivator-bulk-substrate]] -- spawning into bulk substrates
-- [[mushroom-sawdust-bran-spawn-preparation]]
 - [[mushroom-grain-spawn-preparation]]

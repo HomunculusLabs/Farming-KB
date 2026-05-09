@@ -117,9 +117,6 @@ Solomon provides a rough economic comparison that frames the manure question pra
 
 ## See Also
 
-- [[solomon-manure-types-and-nutrient-values|Manure Types and Nutrient Values]]
 - [[solomon-complete-organic-fertilizer-guide|Seedmeal as Organic Fertilizer]]
-- [[solomon-complete-organic-fertilizer-guide|Complete Organic Fertilizer Recipe]]
 - [[solomon-composting-methods|Composting Methods]]
-- [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil|Nitrogen Immobilization in Soil]]
 - [[oyster-substrate-carbon-nitrogen-ratio|Carbon to Nitrogen Ratio]]

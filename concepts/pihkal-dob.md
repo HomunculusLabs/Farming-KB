@@ -131,8 +131,6 @@ US and controlled internationally.
 
 ## See Also
 
-- [[pihkal-dom]]
 - [[pihkal-2c-b]]
-- [[pihkal-mescaline]]
 - [[pihkal-mda]]
 - [[pihkal-cautionary-note-and-legal-context]]

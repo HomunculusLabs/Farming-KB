@@ -61,21 +61,7 @@ Immune-supporting herbs including echinacea, elderberry, and astragalus work wel
 
 Nervine and calming herbs such as lemon balm, chamomile, skullcap, and passionflower produce good glycerites. The alcohol-free nature is appropriate for the calming indications of these herbs, where alcohol would be counterproductive.
 
-Adaptogenic herbs including ashwagandha, holy basil (tulsi), and reishi mushroom extract adequately into glycerin, though a blended menstruum may improve extraction of some constituents. See [[adaptogenic-herbs-overview]] for more on adaptogen preparation considerations.
-
-Bitter digestive herbs can be made more palatable as glycerites. The sweetness partially masks the bitterness while still allowing enough bitter taste to trigger the digestive reflex. This approach is particularly useful for children who need digestive support but reject bitter preparations.
-
-## Dosage and Storage
-
-Glycerite dosing is similar to tincture dosing, typically 30 to 60 drops (one-half to one dropperful) two to three times daily. For children, the dose is reduced based on weight: Clark's rule divides the child's weight in pounds by 150 to determine the fraction of the adult dose.
-
-Store glycerites in amber glass dropper bottles in a cool, dark place. Refrigeration extends shelf life but is not strictly necessary if the glycerin concentration is adequate (75 percent or higher). Label each preparation with the herb name, date, glycerin concentration, and any specific dosing instructions.
-
-Glycerites that show signs of mold, unusual cloudiness, or off-odors should be discarded. Using clean equipment, properly dried herbs, and adequate glycerin concentration minimizes spoilage risk. See [[herbal-formulation-principles]] for comprehensive dosing information and [[herbal-medicine-making-basics]] for foundational preparation principles.
-
-## Specific Herb Monographs for Glycerites
-
-Several common herbs have well-documented glycerite profiles that guide preparation decisions. Echinacea purpurea root glycerite is one of the most popular preparations, used for immune support during cold and flu season. The polysaccharide fraction (well-extracted by glycerin) provides immunostimulating activity, while the alkylamide fraction (poorly extracted by glycerin) provides the characteristic tingling sensation associated with echinacea quality. For this reason, a blended menstruum echinacea preparation captures a broader range of actives than glycerin alone. Elderberry (Sambucus nigra) glycerite is widely used for its antiviral properties, particularly against influenza viruses. The anthocyanin pigments responsible for elderberry's dark purple color are water-soluble and well-preserved in glycerin. Marshmallow root (Althaea officinalis) is perhaps the ideal glycerite herb — its primary active constituents are mucilaginous polysaccharides that dissolve readily in the glycerin-water solution, producing a thick, soothing preparation excellent for sore throats, digestive irritation, and respiratory inflammation. See [[medicinal-mushroom-immune-modulation]] for more on immune-supporting preparations.
+Adaptogenic herbs including ashwagandha, holy basil (tulsi), and reishi mushroom extract adequately into glycerin, though a blended menstruum may improve extraction of some constituents. See [[herbal-formulation-principles]] for comprehensive dosing information and [[medicinal-mushroom-immune-modulation]] for more on immune-supporting preparations.
 
 ## Combining Glycerites with Other Preparations
 
@@ -91,22 +77,11 @@ Unlike pharmaceutical products, herbal glycerites are not subject to standardize
 
 Glycerites have found a significant application in veterinary herbal medicine, where alcohol-based tinctures are often contraindicated. Dogs, cats, horses, and other animals vary widely in their tolerance for alcohol, and many species metabolize it poorly or not at all. The sweet taste of glycerin makes it more readily accepted by animals than bitter tinctures, and it can be easily mixed into food or water. Dosage for animals is typically calculated based on body weight, with smaller species receiving proportionally smaller doses.
 
-Common veterinary glycerite preparations include echinacea for immune support, chamomile for digestive calm, valerian-glycerite blends for anxiety (useful for travel, veterinary visits, and thunderstorm phobia in dogs), and dandelion root for liver support. The [[digestive-herbs-and-bitters]] used in human medicine often translate well to veterinary applications. Practitioners should research each herb for species-specific contraindications before administering to animals, as some herbs safe for humans are toxic to certain animals (for example, garlic and onion are toxic to dogs and cats).
-
-## Glycerites vs. Other Alcohol-Free Preparations
-
-Glycerites are one of several alcohol-free herbal preparation options, each with distinct advantages. Honey-based preparations (oxymels and elixirs) combine honey with vinegar or water to create sweet, palatable extracts. Honey has its own preservative and antimicrobial properties and has been used medicinally for thousands of years. Vinegar extracts (acetracts) use apple cider vinegar as a solvent, which is particularly good at extracting minerals and alkaloids from herbs. Compared to glycerites, vinegar extracts have a sharper, more acidic taste that some patients find unpleasant but that can be masked in culinary preparations. Aloe vera gel can also serve as a base for topical herbal preparations, providing soothing and moisturizing properties alongside herbal actives. For practitioners building a comprehensive apothecary, offering a range of alcohol-free options allows patients to choose the preparation that best suits their taste preferences, health conditions, and therapeutic needs. See [[honey-based-herbal-preparations]] for detailed guidance on honey-based methods and [[herbal-medicine-preparation-methods]] for a comprehensive comparison of all preparation types.
-
-## Regulatory and Safety Considerations
-
-In the United States, herbal glycerites sold commercially are regulated as dietary supplements under the Dietary Supplement Health and Education Act (DSHEA) of 1994. Manufacturers must follow current Good Manufacturing Practices (cGMP) and are prohibited from making disease-treatment claims on labels. Glycerin is Generally Recognized as Safe (GRAS) by the FDA and is widely used in food products, which gives glycerites a favorable safety profile for commercial distribution. However, individual herbs carry their own safety considerations, contraindications, and potential drug interactions that must be researched independently of the extraction solvent. See [[herbal-medicine-preparation-methods]] for comprehensive safety guidelines.
+Common veterinary glycerite preparations include echinacea for immune support, chamomile for digestive calm, valerian-glycerite blends for anxiety (useful for travel, veterinary visits, and thunderstorm phobia in dogs), and dandelion root for liver support. The [[honey-based-herbal-preparations]] for detailed guidance on honey-based methods and [[herbal-medicine-preparation-methods]] for comprehensive safety guidelines.
 
 ## Related Topics
 
-- [[herbal-tinctures-guide]] — Alcohol-based tincture preparation methods
 - [[honey-based-herbal-preparations]] — Alternative alcohol-free preparations
-- [[herbal-medicine-preparation-methods]] — Comprehensive preparation overview
 - [[herbal-medicine-making-basics]] — Foundational medicine-making skills
-- [[childrens-herbal-medicine]] — Pediatric herbal medicine considerations
 - [[herbal-formulation-principles]] — Detailed dosing recommendations
 - holy basil tulsi guide

@@ -101,9 +101,7 @@ important ecological roles:
   and keratin in aquatic environments
 - Parasitism of algae, other fungi, and invertebrates
 - Symbiotic associations with plant roots and animal guts
-- The [[bloomfield-chytrid-fungi-early-fungal-evolution]] and its role in global amphibian decline
-
-The [[anaerobic-rumen-fungi-biology-herbivore-digestion]] (Neocallimastigales) are a specialized chytrid lineage
+- The [[anaerobic-rumen-fungi-biology-herbivore-digestion]] (Neocallimastigales) are a specialized chytrid lineage
 inhabiting the rumen and hindgut of herbivorous mammals, where
 they play a critical role in fiber digestion.
 
@@ -121,20 +119,11 @@ Based on currently available data:
 
 ## Relationship to Crown Fungi
 
-The [[kingdom-fungi-phylogeny]] clade,
-comprising Glomales, Ascomycota, and Basidiomycota, represents the
-most derived, higher monophyletic grouping within Kingdom Fungi.
-The timing of the appearance of this clade probably coincided with
-the origin and diversification of land plants. An estimated 80%
-of all plant species are associated with [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] (Glomales), indicating their importance for
+The [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] (Glomales), indicating their importance for
 life on land.
 
 ## See Also
 
-- [[kingdom-fungi-phylogeny]]
-
 - [[fungal-phylogeny-kingdom-classification]]
-- [[fungal-phylogeny-systematics]]
 - [[chytrid-fungi-guide]]
-- [[anaerobic-rumen-fungi-biology-herbivore-digestion]]
 - [[fungal-evolution]]

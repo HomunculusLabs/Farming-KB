@@ -125,12 +125,8 @@ yungensis, which occurs in this region.
 
 ## Related Topics
 
-- [[plants-of-the-gods-psilocybe-species-teonanacatl]] —
-  the mushroom species identified in the archaeological record
 - [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] —
   other Mesoamerican sacred plants depicted in codices
-- [[plants-of-the-gods-geography-hallucinogenic-plants]] —
-  geographic distribution of hallucinogenic plants
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]] —
   overview of hallucinogenic plant use patterns
 - [[plants-of-the-gods-cannabis-ancient-cultures]] —

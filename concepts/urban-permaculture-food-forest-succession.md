@@ -3,13 +3,13 @@ title: Food Forest Succession and Year-Round Eating
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, urban-agriculture]
+tags: [[permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
 # Food Forest Succession and Year-Round Eating
 
-[[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] mature through ecological succession, and the skilled permaculture gardener designs for [[pdc-food-forest-layers-and-succession]] at every stage. Successional eating means selecting crops and varieties that ripen in sequence, ensuring that something is always ready to harvest.
+[[pdc-food-forest-layers-and-succession]] at every stage. Successional eating means selecting crops and varieties that ripen in sequence, ensuring that something is always ready to harvest.
 
 ## Successional Eating: No Hungry Seasons
 
@@ -98,17 +98,7 @@ A food forest passes through predictable successional stages:
 - Soil building with sheet mulch, cover crops, and green manures
 - Fast-growing annuals and short-lived perennials
 - Nitrogen-fixing trees and shrubs establish the nitrogen economy
-- [[comparison-sheet-mulching-vs-chop-and-drop]] builds organic matter rapidly
-
-**Year 3-5: Establishment phase**
-- Fruit trees and berry bushes begin producing
-- Perennial vegetables and herbs fill the herbaceous layer
-- Nitrogen fixers still dominant but fruit trees growing fast
-- Canopy begins to close, creating shade for understory species
-
-**Year 5-15: Productive phase**
-- Fruit and nut trees in full production
-- Diverse [[mollison-permaculture-two-earth-houses-plant-shelters]] are self-maintaining
+- [[mollison-permaculture-two-earth-houses-plant-shelters]] are self-maintaining
 - Ground covers suppress weeds without intervention
 - System produces more than it consumes
 
@@ -133,14 +123,11 @@ The goal is a landscape that feeds you through every season, with preservation s
 
 ## See Also
 
-- [[pdc-food-forest-layers-and-succession]]
 - [[permaculture-forest-garden-design]]
-- [[forest-garden-design-principles]]
 - [[comparison-sheet-mulching-vs-chop-and-drop]]
 - Nitrogen-Fixing Plants Guide
 
 ---
 Updated: 2026-04-18
-- [[urban-permaculture-nitrogen-fixing-green-manures]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[gaias-garden-fruit-tree-selection]]

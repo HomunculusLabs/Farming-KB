@@ -30,11 +30,7 @@ sources:
 ## Overview
 
 Guaiol (pronounced GWAH-yol) is a bicyclic sesquiterpene alcohol (C₁₅H₂₆O) found in
-the essential oils of several plant species, most notably guaiacwood (*Guaiacum
-officinale* and *G. sanctum*), cypress, and cannabis (*Cannabis sativa* L.). It is a
-structural isomer of cedrol and belongs to the eudesmane (selinane) sesquiterpene
-skeleton. Guaiol contributes to the woody, piney, and slightly rose-like aroma
-profiles of cannabis strains and has demonstrated anti-inflammatory, anticancer,
+the [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]], anticancer,
 and antimicrobial activities in preclinical studies. Its growing recognition as a
 minor but pharmacologically significant cannabis terpene has spurred research into
 its therapeutic potential.
@@ -51,16 +47,7 @@ its therapeutic potential.
 - **Solubility**: Lipophilic; soluble in ethanol, ether, and fixed oils; insoluble
   in water.
 - **Density**: ~0.97 g/cm³ at 20°C.
-- **Optical rotation**: [α]D²⁰ = -10° to -15° (varies by source and purity).
-
-## Natural Sources
-
-Guaiol occurs in the essential oils of numerous plant species across diverse
-families:
-
-- **Cannabis sativa** (Cannabaceae): A minor-to-moderate terpene in certain
-  cannabis chemovars, particularly those with woody, earthy aromas. Concentrations
-  typically range from trace to ~0.5% of total essential oil.
+- **Optical rotation**: [[permaculture-designers-manual-essential-oil-plants]].
 - **Guaiacum spp.** (Zygophyllaceae): The primary commercial source. Guaiacwood
   oil from *G. officinale* and *G. sanctum* contains 30–60% guaiol. The wood has
   been used for centuries in traditional medicine and as a premium incense and
@@ -81,17 +68,7 @@ Preclinical research on guaiol has revealed several notable bioactivities:
   macrophages. The mechanism involves suppression of IκBα phosphorylation and
   subsequent nuclear translocation of NF-κB. These effects are observed at
   non-cytotoxic concentrations (10–50 µM in vitro).
-- **Anticancer activity**: Guaiol induces apoptosis in multiple cancer cell lines
-  through mitochondrial pathways. Studies on human lung carcinoma (A549), breast
-  cancer (MCF-7), and pancreatic cancer (PANC-1) cells show dose-dependent
-  growth inhibition (IC₅₀ values of 15–40 µM). The mechanism involves
-  caspase-3/7 activation, cytochrome c release, and cell cycle arrest at G2/M
-  phase. Synergistic effects with conventional chemotherapeutics (paclitaxel,
-  doxorubicin) have been reported.
-- **Antimicrobial**: Exhibits moderate antibacterial activity against
-  Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*
-  (MIC values 50–100 µg/mL). Weaker activity against Gram-negative organisms.
-  Also demonstrates antifungal activity against *Candida albicans* and
+- **Anticancer activity [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] fungal activity against *Candida albicans* and
   *Aspergillus niger*.
 - **Antioxidant**: Scavenges DPPH and ABTS radicals in vitro, though activity is
   modest compared to reference antioxidants (α-tocopherol, ascorbic acid).
@@ -141,6 +118,5 @@ profiles vary significantly by growing conditions and chemovar.
 
 ## See Also
 
-- [[aspergillus-niger]]
 - [[bacillus-subtilis]]
 - [[candida-albicans]]

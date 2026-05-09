@@ -120,12 +120,8 @@ The appetite-stimulating effects are beneficial for patients experiencing nausea
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[sunset-sherbet]]
-- [[thin-mint-cookies]]
 - [[girl-scout-cookies]]
-- [[og-kush]]
 - [[runtz-entity]]
-- [[wedding-cake-cannabis]]
 - [[kush-mints]]
 - [[animal-cookies]]

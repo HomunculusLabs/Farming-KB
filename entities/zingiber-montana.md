@@ -100,22 +100,13 @@ Industrial applications include use as a natural fragrance ingredient and as a s
 
 ## See Also
 
-- [[zingiber-officinale]]
 - [[zingiber-zerumbet]]
-- [[zingiber-mioga]]
 - [[zingiber-cassumunar]]
-- [[alpinia-galanga]]
 - [[curcuma-longa]]
-- [[kaempferia-galanga]]
 - [[boesenbergia-rotunda]]
-- [[elettaria-cardamomum]]
 - [[alpinia-officinarum]]
-- [[curcumin]]
 - [[camphor]]
-- [[alpinia-nigra]]
 - [[amomum-subulatum]]
-- [[amomum-tsao-ko]]
 - [[hedychium-coronarium]]
-- [[curcuma-aromatica]]
 - [[alpinia-zerumbet]]
 - [[curcuma-zedoaria]]

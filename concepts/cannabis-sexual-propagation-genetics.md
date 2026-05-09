@@ -11,23 +11,7 @@ type: concept
 
 # Cannabis Sexual Propagation and Genetics
 
-Cannabis can be propagated either sexually through [[cervantes-feminized-seed-production]] or
-asexually through vegetative cloning. Understanding the genetic
-principles underlying sexual propagation is essential for any breeding
-program, as Robert Connell Clarke thoroughly documented in Marijuana
-Botany: An Advanced Study. The unique characteristics of each plant
-result from the combination of genes in chromosomes present in each
-cell, collectively known as the genotype. The expression of a genotype,
-as influenced by the environment, creates the visible characteristics
-termed the phenotype.
-
-## Sexual versus Asexual Propagation
-
-Sexual propagation involves the union of staminate pollen and pistillate
-ovule, the formation of viable seed, and the creation of individuals
-with newly recombinant genotypes. Because sexual propagation involves
-recombination of genetic material from two parents, variation among
-seedlings and offspring is expected. Asexual [[plant-propagation-methods]]
+Cannabis can be propagated either sexually through [[plant-propagation-methods]]
 including cuttage, layerage, and root division allow exact replication
 of the parental plant without genetic variation, theoretically
 preserving strains unchanged through many seasons.
@@ -138,8 +122,6 @@ staminate plants preserved for breeding, but they must be evaluated
 with the same rigor applied to pistillate selections.
 
 ## See Also
-
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]
 
 - [[cannabis-flowering-cycles]] for photoperiodic control of sexual
   expression

@@ -80,7 +80,7 @@ requests for LSD which had become uncontrollable, the pharmaceutical
 management of Sandoz decided to stop immediately all further production
 and distribution of LSD. The same policy applied to all derivatives or
 analogues of LSD with hallucinogenic properties as well as to
-[[wasson-rediscovery-of-psilocybin]], [[psilocin-and-psilocybin-chemistry]], and their hallucinogenic congeners.
+[[psilocin-and-psilocybin-chemistry]], and their hallucinogenic congeners.
 
 ## Aftermath and Consequences
 
@@ -134,14 +134,6 @@ chapters in pharmaceutical history. For nearly two decades, a major
 pharmaceutical company had distributed a powerful psychoactive substance
 free of charge to researchers worldwide, in the belief that its value to
 science and medicine outweighed commercial considerations. The
-[[sandoz-delysid-research-program]], as it was known, had
-generated thousands of scientific publications and had launched the
-modern era of psychopharmacology and psychedelic therapy.
-
-## See Also
-
-- [[hofmann-lsd-sandoz-research-program]]
-- [[sandoz-delysid-research-program]]
+[[hofmann-lsd-sandoz-research-program]]
 - [[hofmann-lsd-black-market-and-dangers]]
-- [[hofmann-lsd-clinical-research-early-studies]]
 - [[lsd-discovery-and-history]]

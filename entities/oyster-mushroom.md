@@ -142,8 +142,6 @@ Oyster mushrooms are **lignicolous** (wood-decomposing) but remarkably adaptable
 - **Cardboard and paper:** Viable for hobby cultivation; lower nutrition
 ## See Also
 
-- [[oyster-mushroom-lifecycle-and-reproduction]]
 - [[oyster-mushroom-spent-substrate-recycling]]
-- [[oyster-mushroom-hypocrea-disease]]
 - [[oyster-mushroom-nutritional-composition]]
 - [[oyster-mushroom-viral-diseases]]

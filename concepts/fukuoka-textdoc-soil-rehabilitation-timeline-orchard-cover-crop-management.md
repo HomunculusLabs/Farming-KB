@@ -134,16 +134,10 @@ farming methods is that they take too long. But if farmland
 were to be correctly understood as a legacy to be preserved for
 future generations, the general opinion of natural farming
 would improve.
-
 ## See Also
 
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
   for detailed clover lifecycle analysis
-- [[fukuoka-natural-farming-philosophy]]
-  for black wattle specifics
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
   for the weed succession process
-- [[fukuoka-textdoc-natural-soil-management]] for broader
-  soil management philosophy
 - [[fukuoka-natural-farming-philosophy]] for
-  earthworm contributions

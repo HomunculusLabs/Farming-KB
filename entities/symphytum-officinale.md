@@ -22,7 +22,7 @@ sources:
 
 # Symphytum officinale
 
-**Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in [[permaculture-design]], organic agriculture, and traditional [[herbal-medicine]], renowned for its deep taproot that mines nutrients from subsoil layers and its remarkable biomass production capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
+**Symphytum officinale**, commonly known as **comfrey**, is a perennial herbaceous plant in the family Boraginaceae. It is one of the most important plants in [[herbal-medicine]], renowned for its deep taproot that mines nutrients from subsoil layers and its remarkable biomass production capacity. Its dual role as a dynamic nutrient accumulator and medicinal plant makes it indispensable in sustainable growing systems.
 
 ## Taxonomy and Classification
 
@@ -141,10 +141,8 @@ Comfrey contains hepatotoxic **pyrrolizidine alkaloids (PAs)**, primarily symphy
 - **Hardiness:** USDA Zones 3–9; fully cold-hardy
 - **Water:** Moderate; drought-tolerant once established
 - **Maintenance:** Cut to ground level after flowering; divide every 5–7 years
-
 ## See Also
 
-- [[dynamic-accumulators]] — Plants that mine deep soil nutrients
 - [[nitrogen-fixing-plants]] — Complementary soil fertility strategy
 - [[permaculture-plant-guilds]] — Polyculture design patterns
 - boraginaceae — Borage family botanical overview

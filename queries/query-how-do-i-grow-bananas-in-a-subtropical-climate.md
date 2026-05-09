@@ -58,25 +58,7 @@ Subtropical climates challenge bananas in several ways:
 
 ### Find or Create a Warm Microclimate
 
-- **North-facing wall** ([[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]: south-facing) — a brick, stone, or stucco wall that absorbs heat during the day and radiates it at night. Plant bananas 1–2 m from the wall
-- **Near buildings, paved areas, or pools** — thermal mass warms surrounding air and reduces frost risk
-- **Against fences or hedges** — wind protection is essential; use as a windbreak on the windward side
-- **Low-lying areas** — cold air drains downhill; avoid frost pockets at the bottom of slopes
-- **Near water bodies** — lakes, large ponds, or the ocean moderate temperature extremes
-- **Under evergreen canopy** — light shade from a tall evergreen tree reduces frost damage by slowing radiative cooling
-
-### Wind Protection
-
-- Plant or install a windbreak on the prevailing wind side before planting bananas
-- Shorter varieties (Dwarf Cavendish, Rajapuri) are inherently more wind-resistant
-- In very windy sites, consider growing bananas in sheltered courtyard or patio settings
-
-## Soil and Planting
-
-### Soil Preparation
-
-- Bananas need **excellent drainage** — this is non-negotiable in subtropical climates where wet, cold soil causes root rot
-- On heavy clay: plant on mounds or in [[raised-beds-vs-in-ground-vs-containers]] 30–50 cm high
+- **North-facing wall** ([[raised-beds-vs-in-ground-vs-containers]] 30–50 cm high
 - Incorporate generous compost (a full wheelbarrow per planting hole)
 - Aim for pH 5.5–6.5; acidify if necessary with elemental sulfur
 - Mulch heavily — 15–30 cm of organic mulch insulates roots from cold and retains moisture
@@ -85,54 +67,7 @@ Subtropical climates challenge bananas in several ways:
 
 - **Plant in late spring** (after last frost risk) to maximize the warm growing season ahead
 - In frost-prone areas, plant near the warmest microclimate spot you can find
-- **Sword suckers** establish faster than [[tissue-culture-cloning]] plants in marginal climates
-- Space plants 2–3 m apart; closer spacing provides mutual wind protection but may slow growth if light is limited
-- Water deeply and regularly — never let the soil dry out completely during the growing season
-
-## Winter Protection
-
-This is where subtropical banana growing differs most from tropical cultivation. How you handle winter determines whether you get fruit or just ornamental foliage.
-
-### Mild Frost (0 to −2°C / 32–28°F)
-
-- **Pile mulch 30–50 cm deep** around the base of the pseudostem before first frost. This insulates the corm
-- **Wrap pseudostems** with frost cloth, burlap, or bubble wrap. Do not use plastic directly against leaves (it conducts cold)
-- **String Christmas lights** (the old incandescent type, not LEDs) through the pseudostem — they generate enough heat to prevent light frost damage
-- **Cover with a frost blanket** on clear, calm nights when radiative frost is predicted
-
-### Moderate Frost (−2 to −5°C / 28–23°F)
-
-- All of the above, plus:
-- **Build a frame** (PVC hoops, wire cage) around the pseudostem and fill with dry leaves or straw as insulation
-- **Water the ground thoroughly** before a freeze — moist soil holds more heat than dry soil
-- **Move potted bananas** into a garage or shed for the night
-
-### Hard Freeze (Below −5°C / 23°F)
-
-- The pseudostem will die, but **the corm can survive** if heavily mulched
-- Pile mulch 50+ cm deep over the corm area
-- In spring, the corm will send up new suckers. Growth will restart but you lose the current bunch
-- Accept that in Zone 8b, bananas are a "push your luck" crop — some years you'll get fruit, others you won't
-
-### Recovery After Frost Damage
-
-- Don't cut back damaged pseudostems immediately — the dead tissue provides some insulation to the living parts beneath
-- Wait until all frost risk has passed in spring, then cut dead tissue back to where green remains
-- The corm will push new suckers when soil warms above ~18°C
-- A frost-killed pseudostem sets production back by 6–12 months
-
-## Nutrition in Subtropical Climates
-
-- **Bananas are heavy feeders** — poor nutrition combined with cool temperatures compounds stress
-- Apply compost liberally: 5–10 kg per mat, 2–3 times per year
-- **Potassium is critical** for cold tolerance and fruit quality — apply wood ash, kelp meal, or sulfate of potash
-- **Nitrogen drives growth** — composted manure, blood meal, or feather meal during the warm growing season only (don't push nitrogen in autumn, which produces soft growth vulnerable to frost)
-- **Stop fertilizing 2 months before expected first frost** to allow growth to harden off
-- **Micronutrients:** Bananas in alkaline subtropical soils often show iron and zinc deficiency — apply chelated iron and zinc sulfate as foliar sprays
-
-## Water Management
-
-- **Growing season:** Keep soil consistently moist but not waterlogged. [[drip-irrigation-cannabis]] is ideal
+- **Sword suckers** establish faster than [[drip-irrigation-cannabis]] is ideal
 - **Winter:** Reduce watering significantly — cold, wet soil is the enemy. Only water enough to prevent the corm from completely desiccating
 - **Mulch** is your best water management tool — it retains moisture in summer and insulates in winter
 - In Mediterranean climates with dry summers, expect to irrigate 2–3 times per week during hot periods
@@ -144,6 +79,5 @@ This is where subtropical banana growing differs most from tropical cultivation.
 - Fruit quality can be excellent in subtropical climates — cool nights can enhance sweetness in some varieties
 ## See Also
 
-- [[query-how-to-grow-pomegranate-in-different-climates]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]

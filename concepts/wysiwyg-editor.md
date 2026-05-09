@@ -15,78 +15,8 @@ WYSIWYG (pronounced "wiz-ee-wig") stands for "What You See Is What You Get." A
 WYSIWYG editor is a document or content editing interface that presents users
 with a rendering of the final output during the editing process, allowing them
 to manipulate content visually rather than through markup or code. WYSIWYG
-editors are central to word processing applications like [[microsoft-word]],
-web content management systems, email clients, and design tools.
-
-## Origins and History
-
-The concept of on-screen document preview dates to the early 1970s. The Bravo
-editor developed at Xerox PARC (1974) is widely considered the first WYSIWYG
-text editor, displaying formatted text on a bitmap display that closely matched
-the output of a Xerox laser printer. Charles Simonyi, one of Bravo's creators,
-later brought the WYSIWYG paradigm to Microsoft, where it became a defining
-feature of Word.
-
-The Apple Macintosh (1984) popularized WYSIWYG editing for personal computing,
-with MacWrite and MacPaint demonstrating that visual editing could be intuitive
-for non-technical users. Microsoft Word for Macintosh (1985) and later Word for
-Windows (1989) brought WYSIWYG word processing to the broader PC market,
-contributing significantly to Word's eventual dominance over markup-based
-competitors like WordPerfect.
-
-## Implementation Approaches
-
-WYSIWYG editors use several underlying rendering strategies. Desktop
-applications like Word maintain an internal document model (a tree of elements
-representing paragraphs, runs, tables, etc.) that is rendered to screen using
-platform graphics APIs. The rendering engine handles layout calculations
-including text wrapping, pagination, column flow, and floating element
-positioning.
-
-Web-based WYSIWYG editors typically work by making a `contenteditable` HTML
-element editable and manipulating the DOM directly in response to user actions.
-Libraries like TinyMCE, CKEditor, Quill, and ProseMirror provide abstraction
-layers over `contenteditable` that handle cross-browser inconsistencies and
-provide richer editing models. A fundamental challenge of web WYSIWYG editors
-is the mismatch between the flat HTML model and the structured content models
-that applications require.
-
-## The "Lies" Problem
-
-A well-known critique of WYSIWYG editors is that they are never truly WYSIWYG.
-The output medium (printed page, web browser, mobile device, PDF) inevitably
-differs from the editing viewport in resolution, font availability, color
-space, layout engine, and rendering behavior. This gap between the editing
-experience and the final output has been humorously described by the acronym
-WYSIAYG ("What You See Is All You Get") or WYSIWYGMOF ("What You See Is What
-You Get — Maybe On a Good Day").
-
-The rise of responsive web design exacerbated this problem, as a single HTML
-document renders differently across screen sizes. Modern editors address this
-with preview modes, device-frame simulations, and adaptive editing interfaces
-that show content in multiple viewport configurations simultaneously.
-
-## WYSIWYG vs. Markup Editing
-
-The tension between WYSIWYG and markup-based editing (e.g., markdown,
-latex, HTML source editing) is a persistent debate in document authoring.
-WYSIWYG proponents argue that visual editing lowers barriers to entry and
-enables non-technical users to produce formatted content. Markup proponents
-argue that direct access to source provides precision, reproducibility, version
-control friendliness, and separation of content from presentation.
-
-Hybrid approaches have emerged as a practical compromise. Many modern editors
-provide both WYSIWYG and source modes, split-pane views, or "block editors"
-that combine visual manipulation with structured content models. Notion,
-Ghost, and craft are examples of editors that blend WYSIWYG editing with
-structured, non-HTML content models.
-
-## See Also
-
-- [[williams-pdc-electricity-in-permaculture]]
-- [[query-how-do-i-make-jadam-natural-pesticide-jnp]]
+editors are central to word processing applications like [[williams-pdc-electricity-in-permaculture]]
 - [[homestead-scale-assessment]]
-- [[geoff-hamilton-organic-techniques]]
 - [[luther-burbank-plant-breeding-methods]]
 
 - word processing — History of word processors and WYSIWYG evolution
@@ -94,3 +24,81 @@ structured, non-HTML content models.
 - markdown — Lightweight markup language alternative to WYSIWYG
 - latex — Markup-based academic document preparation
 - rich text editor — Web-based rich text editing libraries and approaches
+## Practical Applications
+
+WYSIWYG Editor has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+WYSIWYG Editor. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -18,42 +18,7 @@ a problem, growers turn to additional methods: negative
 ion generators, deodorizing liquids, gels, pucks, or
 sprays, ozone generators, activated charcoal filters,
 or a combination of two or more of these solutions.
-See also: [[cervantes-air-quality-ventilation]]
-## Deodorizing Products
-Products such as Odor Killer, Ona, VaporTek, and Ozium
-are made from essential oils that kill odors by creating
-a neutral atmosphere at the molecular level. These
-products change odor structure at the atomic level. They
-are usually available in gel and spray forms. Many
-growers prefer gel for the long term and spray for
-emergency situations, such as unexpected guests during
-harvest.
-Deodorizers can be set out in the room, around the
-house, and near doorways. Several companies offer wall
-mount products that stick to surfaces. One ingenious
-grower stuck a deodorizing puck to the inside of the
-front door below the mail slot to keep the house fresh.
-Other products attach directly to ventilation ductwork
-to treat air before it is expelled. Aerosol spray cans
-with periodic dispensers are also available.
-## Negative Ion Generators
-Negative ion generators are small and somewhat
-efficient devices that control odors, smoke, airborne
-pollen, mold, dust, and static electricity. They pump
-negative ions into the atmosphere. These negative ions
-are attracted to positive ions containing odors and
-other airborne pollutants. When the ions attach, the
-odor becomes neutralized and particles fall to the
-floor, creating a fine covering of dust on the ground,
-walls, and objects in the room.
-These devices work fairly well for small grow rooms
-with minimal odor problems. The generator uses very
-little electricity and plugs into a regular 115-volt
-current. Visually check the filter every few days and
-keep it clean.
-## Ozone Generators
-Ozone has many applications including food and water
-[[sterilization]] and removing odors from air at the
+See also: [[sterilization]] and removing odors from air at the
 molecular level. Some growers even use high levels of
 ozone to exterminate grow room pests.
 Ozone generators neutralize odors by converting oxygen
@@ -119,5 +84,8 @@ other pollutants from the air.
    allows just enough airflow for adequate dwell
    time so odors are absorbed.
 ## See Also
-- [[cannabis-odor-control-and-carbon-filters]]
 - [[cervantes-ozone-generators-negative-ion-odor]]
+
+## See Also
+
+- [[cervantes-neem-oil-organic-pest-control]]

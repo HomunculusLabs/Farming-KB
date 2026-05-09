@@ -4,13 +4,10 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
-# [[fungal-biodiversity]] Data Analysis
-
-## Overview
-
-Analyzing [[fungal-biodiversity-forest-floor]] data presents unique challenges due to the cryptic nature of fungi, episodic fruiting, methodological dependencies, and the difficulty of defining fungal individuals. This page covers quantitative approaches for assessing growing gourmet global, drawn from Chapter 5 of "Biodiversity of Fungi" (Zak and Willig).
+# [[fungal-biodiversity-forest-floor]] data presents unique challenges due to the cryptic nature of fungi, episodic fruiting, methodological dependencies, and the difficulty of defining fungal individuals. This page covers quantitative approaches for assessing growing gourmet global, drawn from Chapter 5 of "Biodiversity of Fungi" (Zak and Willig).
 
 ## Types of Biodiversity Data
 
@@ -101,9 +98,7 @@ Spatial scale is a primary consideration when developing lichen air quality:
 - **Fine scale**: Individual substrata, microhabitats
 - **Intermediate scale**: Stands, plots, transects
 - **Landscape scale**: Sites, regions, biomes
-- **Geographic scale**: Continental, [[soil-fungal-diversity]]
-
-Different fungal groups operate at different scales. Microfungi on a single log vs. [[mycorrhiza]]l networks spanning entire forest stands.
+- **Geographic scale**: Continental, [[mycorrhiza]]l networks spanning entire forest stands.
 
 ### Spatial Pattern Analysis
 
@@ -145,3 +140,7 @@ Statistical approaches for detecting change over time:
 - **Cluster analysis**: Hierarchical grouping of similar communities
 - **Indicator Species Analysis**: Species characteristic of particular groups
 - **Multi-Response Permutation Procedures (MRPP)**: Testing group differences
+
+## See Also
+
+- [[lichen-biodiversity-sampling-protocols-data-analysis]]

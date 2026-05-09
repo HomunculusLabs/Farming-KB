@@ -56,11 +56,7 @@ The genus *Daldinia* contains approximately 20 described species worldwide. *D. 
 - **Asci**: Cylindrical, 8-spored, unitunicate, approximately 150–200 × 8–10 µm
 - **Spores**: Ellipsoidal to fusiform, brown to dark brown, unicellular, smooth-walled
 - **Spore dimensions**: 20–28 × 9–13 µm (a key diagnostic feature)
-- **Spore print**: Not obtainable in the traditional sense; spores are ejected from ostioles
-
-### Cultural Features
-
-On malt extract agar, *D. concentrica* produces initially white, rapidly spreading mycelium that darkens to gray-black. Growth rate is moderate (3–5 mm/day at 25°C). Colonies develop characteristic dark stromatic crusts in culture after 2–3 weeks. Anamorphic (asexual) conidial states belonging to the *Nodulisporium* type are frequently observed in culture.
+- **[[malt-extract-agar]], *D. concentrica* produces initially white, rapidly spreading mycelium that darkens to gray-black. Growth rate is moderate (3–5 mm/day at 25°C). Colonies develop characteristic dark stromatic crusts in culture after 2–3 weeks. Anamorphic (asexual) conidial states belonging to the *Nodulisporium* type are frequently observed in culture.
 
 ## Distribution and Habitat
 
@@ -82,7 +78,7 @@ On malt extract agar, *D. concentrica* produces initially white, rapidly spreadi
 | **Daldinols** | Daldinol A–C | Antimicrobial, antioxidant |
 | **Pigments** | Melanin derivatives | UV protection, radical scavenging |
 
-Extracts of *D. concentrica* have shown activity against *Staphylococcus aureus*, *Bacillus subtilis*, and *Candida albicans* in vitro. The cytochalasin compounds have attracted interest from pharmaceutical researchers for their microfilament-disrupting properties, though clinical applications remain investigational.
+Extracts of *D. concentrica* have shown activity against *Staphylococcus aureus*, *[[candida-albicans]]* in vitro. The cytochalasin compounds have attracted interest from pharmaceutical researchers for their microfilament-disrupting properties, though clinical applications remain investigational.
 
 ## Ethnobotanical and Practical Uses
 
@@ -107,25 +103,6 @@ The common name "King Alfred's cakes" references the legend of King Alfred burni
 |---------|------------------------|
 | *Daldinia eschscholzii* | Tropically distributed; stromata smaller, less prominently zonate; spores smaller (15–22 µm) |
 | *Daldinia vernicosa* | Found in North America; stromata more concentrically layered with reddish-brown tones |
-| *Hypoxylon fragiforme* | Stromata pinkish to reddish when young, becoming dark; much smaller (0.5–2 cm); spores smaller |
-| *Hypoxylon rubiginosum* | Stromata with a distinct rust-red granular surface when young; spores ellipsoid and smaller |
-| *Annulohypoxylon multiforme* | Stromata surface rough with conspicuous pore-like ostioles; internal zoning less pronounced |
-
-## Field Identification Tips
-
-1. Look on dead hardwood branches and stumps, especially ash and beech
-2. Hard, black, hemispherical stromata with a cracked, carbonaceous surface
-3. Cut or break open to reveal diagnostic concentric zonation
-4. Check spore size (20–28 µm) under a microscope for definitive identification
-5. Young stromata may have a purplish or reddish-brown surface before maturing to black
-6. The fungus is inedible — the carbonaceous texture makes it essentially rock-hard
-
-## Conservation Status
-
-Not evaluated by IUCN. *Daldinia concentrica* is common and widespread with no significant conservation concerns. It benefits from the presence of dead and decaying hardwood in forest ecosystems; removal of dead wood (sanitation logging) can reduce local populations. Its presence is generally considered an indicator of healthy forest deadwood dynamics.
-
-## See Also
+| *[[xylaria-hypoxylon]]
 - [[xylaria-hypoxylon]]
-- [[xylaria-polymorpha-entity]]
-- [[xylaria-hypoxylon]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

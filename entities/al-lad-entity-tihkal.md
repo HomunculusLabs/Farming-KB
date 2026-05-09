@@ -62,7 +62,7 @@ AL-LAD shows a clear dose-response progression from mild perceptual shifts at 50
 
 ## Comparison with Related Lysergamides
 
-AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to [[lsd-entity-tihkal]], it is less potent (80–160 ug vs. 50–200 ug) but frequently described as more pleasant. Compared to [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect receptor binding. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
+AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect receptor binding. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
 
 ## Physical Properties
 
@@ -74,9 +74,7 @@ AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to 
 
 ## See Also
 
-- [[eth-lad-entity-tihkal]] — 6-ethyl analogue, slightly more potent than LSD
 - [[lsd-entity-tihkal]] — the parent compound
-- [[alexander-shulgin]] — primary author of TiHKAL
 - [[5-meo-dipt-entity-tihkal]] — another tryptamine with erotic enhancement properties
 
 ## Related

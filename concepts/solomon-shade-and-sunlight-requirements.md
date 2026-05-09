@@ -123,8 +123,6 @@ Understanding sunlight requirements has direct practical implications:
 
 ## Related Concepts
 
-- [[solomon-climate-zones-and-growing-seasons]]
 - [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-crop-rotation-and-garden-planning]]
 - [[solomon-growing-vegetables-essentials]]
 - [[solomon-thinning-spacing-and-direct-seeding]]

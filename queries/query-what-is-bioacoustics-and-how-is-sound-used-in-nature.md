@@ -104,37 +104,10 @@ Bioacoustic methods have become indispensable tools in modern conservation biolo
 - The emerging field of **ecoacoustics** treats entire soundscapes as ecological indicators, analyzing the full spectrum of biological, geophysical, and anthropogenic sounds to assess ecosystem integrity and detect degradation before it becomes visible through traditional biodiversity metrics.
 - **Anti-poaching:** Real-time acoustic sensors detect gunshots, chainsaw activity, or vehicle engines in protected areas, alerting rangers to illegal activity within minutes. Systems like Rainforest Connection deploy recycled smartphones in forest canopies for this purpose.
 - **Marine mammal protection:** Hydrophone arrays and PAM buoys monitor whale and dolphin presence near shipping lanes and offshore energy developments, triggering speed reductions or operational shutdowns when animals are detected. These measures reduce the risk of vessel strikes and harmful noise exposure.
-- **[[species-specific-cold-shock-response-psilocybe]] monitoring:** Automated classifiers can identify individual species from audio recordings, enabling population trend estimation for endangered taxa such as the northern spotted owl, African forest elephants, and indri lemurs.
-- **Climate change monitoring:** Long-term acoustic datasets allow researchers to track shifts in species phenology — changes in the timing of breeding choruses or migration correlated with warming temperatures and altered precipitation patterns.
-- **Habitat restoration assessment:** Bioacoustic surveys before and after habitat restoration projects (e.g., reforestation, wetland creation) provide quantitative measures of ecological recovery, as returning vocal species signal improving ecosystem function.
+- **[[query-how-do-i-identify-and-control-common-garden-pests-organically]]
 
-## How Does Anthropogenic Noise Affect Wildlife?
-
-Human-generated noise has become a pervasive form of environmental pollution with significant ecological consequences across taxa and ecosystems:
-
-- **Shipping lanes:** Commercial vessel traffic fills the ocean with chronic low-frequency noise that has roughly doubled in many ocean basins since the pre-industrial era. This noise masks whale communication over vast areas. Studies show that right whales and other baleen whales increase call amplitude (the Lombard effect) or shift call frequencies in response. The International Maritime Organization has recognized underwater noise as a form of marine pollution.
-- **Road traffic:** Vehicle noise reduces the effective communication distance of birds and frogs near roads. Some bird species shift the pitch of their songs upward to avoid masking by low-frequency traffic noise, while others experience reduced breeding success near busy highways. Great tits in urban areas sing at higher frequencies than their rural counterparts — a well-documented case of acoustic adaptation.
-- **Wind turbines:** Operational wind farms produce low-frequency and infrasound noise that may disturb marine mammals, bats, and migrating birds. Bat fatalities at wind turbines are partly attributed to barotrauma from rapid pressure changes near blade tips. Experimental "acoustic deterrents" emitting high-frequency signals have shown promise in reducing bat mortality at wind energy facilities.
-- **Masking of calls:** Anthropogenic noise masks biologically important signals — alarm calls may go unheard, mating displays may fail to attract partners, and parent–offspring communication may be disrupted. Chronic noise exposure has been linked to elevated stress hormones, reduced foraging efficiency, and habitat abandonment.
-- **Seismic surveys:** Airgun pulses used in offshore oil and gas exploration produce intense, repeated sounds that can injure marine mammals' hearing and displace fish populations over areas spanning thousands of square kilometers.
-- **Urban noise and sensory ecology:** In cities, chronic noise not only masks communication but can alter entire ecological networks. Studies have shown that noise pollution reduces the efficiency of acoustic predator detection by prey species and can shift community composition as noise-sensitive species abandon disturbed areas while noise-tolerant species persist.
-
-## What Tools Do Bioacoustics Researchers Use?
-
-Modern bioacoustics relies on a sophisticated toolkit spanning hardware, software, and computational methods that have transformed the scale and precision of acoustic research:
-
-- **Spectrograms:** Visual representations of sound displaying frequency over time, with amplitude indicated by color or intensity. Spectrograms remain the foundational analytical tool, allowing researchers to identify species, measure call parameters (frequency, duration, modulation rate), and compare vocalizations quantitatively.
-- **Autonomous recording units (ARUs):** Battery- or solar-powered field devices equipped with microphones (or hydrophones for aquatic environments) that record audio on schedules or continuously. Modern ARUs can operate for months in remote locations, capturing seasonal and diurnal acoustic patterns.
-- **Hydrophones:** Specialized underwater microphones used in marine bioacoustics to record whale song, dolphin clicks, fish sounds, and ambient ocean noise. Arrays of synchronized hydrophones enable localization of sound sources using time-difference-of-arrival and beamforming methods.
-- **Machine learning classification:** Convolutional neural networks (CNNs) and other deep learning models are trained on labeled audio datasets to automatically detect and classify species by their vocalizations. Open-source platforms like BirdNET, Kaleidoscope, and Arbimon process large acoustic datasets that would be impractical to annotate manually.
-- **Acoustic analysis software:** Dedicated programs such as Raven Pro, Audacity, Sonic Visualiser, and the R packages *seewave*, *soundgen*, and *warbleR* provide researchers with tools for recording playback, spectral analysis, signal measurement, and statistical comparison of acoustic features across individuals and populations.
-- **Playback experiments:** Researchers use calibrated speakers to broadcast recorded or synthesized sounds in field or laboratory settings, testing how animals respond to specific acoustic cues — a critical method for establishing the behavioral function of vocalizations.
-- **Sound level meters and acoustic calibration:** Precise measurement of sound pressure levels (SPL) in the field is essential for quantifying signal amplitude, environmental noise, and the impact of anthropogenic noise. Calibration ensures comparability across studies and recording systems.
-- **Standardized protocols** exist for both terrestrial and marine acoustic measurements, including ANSI and IEC standards for microphone and hydrophone calibration. These standards ensure that measurements taken by different research groups worldwide are directly comparable.
+- [[query-what-are-the-best-fig-varieties-for-different-climates]]
 
 ## See Also
 
-- [[query-how-do-i-identify-and-control-common-garden-pests-organically]]
-
-- [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
-- [[query-what-are-the-best-fig-varieties-for-different-climates]]
+- [[query-what-is-a-wavelet-transform-used-for]]

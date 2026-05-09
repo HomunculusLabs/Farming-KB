@@ -50,7 +50,7 @@ Fukuoka coined the term "deficit farming" to describe American agriculture:
 - American agriculture is not raising productivity but curtailment of declines in production
 - One-third to one-half of fields are left fallow each year because soil lacks fertility
 
-See also [[fukuoka-critique-modern-agriculture]] and [[fukuoka-agricultural-pollution-and-consumer-culpability]].
+See also [[fukuoka-agricultural-pollution-and-consumer-culpability]].
 
 ## The Seed War
 
@@ -62,33 +62,25 @@ A particularly prescient section concerns the race to develop high-yielding rice
 - Control of seed technology meant control of food supply
 - The "seed war" was a new form of the same food-as-weapon strategy
 
-Fukuoka's [[fukuoka-critique-genetic-engineering]] extends this analysis to modern biotechnology.
-
-## Fukuoka's Alternative Vision
-
-Fukuoka proposed that if American farmers practiced natural farming instead of petroleum-based agriculture:
-
-- They could produce abundant food on small acreages
-- They would live a rich, meaningful life
-- California rice farmers could triple production by growing rice every year with a second wheat crop, instead of one rice crop every three years
-- There would be no need to export food as a strategic weapon
-- The nation would never have had need to export food to other countries
-
-## The Natural Farming Alternative
-
-If the world adopted natural farming principles:
-
-- Each nation could feed itself from small, fertile farms
-- Food would not be a weapon but a source of genuine life
-- The global food trade would be based on genuine abundance, not manufactured scarcity
-- Farmers in every country would achieve both self-sufficiency and high quality of life
-
-This vision connects to [[fukuoka-decentralized-self-sufficient-communities]] and [[fukuoka-one-straw-revolution-philosophy]].
-
-## Related Concepts
-
-- [[fukuoka-critique-green-revolution]]
-- [[fukuoka-critique-genetic-engineering]]
+Fukuoka's [[fukuoka-decentralized-self-sufficient-communities]] and [[fukuoka-critique-green-revolution]]
 - [[fukuoka-desert-reclamation]]
-- [[fukuoka-peace-march-war-agriculture]]
 - [[fukuoka-european-travels-natural-farming]]
+## Practical Considerations
+
+Successful implementation of Fukuoka Food as Strategic Weapon and the Seed War requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

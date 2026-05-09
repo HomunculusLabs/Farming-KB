@@ -120,8 +120,6 @@ symptoms may appear.
 
 ## Related Topics
 
-- [[cervantes-micronutrient-deficiency-chelation]]
 - [[cervantes-iron-manganese-zinc-micronutrients]]
-- [[cervantes-rare-micronutrients-boron-cobalt-nickel]]
 - [[cervantes-ph-management-testing]]
 - [[cervantes-troubleshooting-guide]]

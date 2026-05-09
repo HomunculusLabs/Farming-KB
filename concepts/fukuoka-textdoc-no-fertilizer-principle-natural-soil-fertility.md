@@ -9,30 +9,8 @@ sources:
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# [[fukuoka-no-fertilizer-principle]] and Natural Soilmasanobu-fukuokanobu Fukuoka's no-fertilizer principle asserts that crops do not require
-chemiquery-what-are-the-best-mushrooms-for-beginners-to-growtilizers to grow productively, and that the entire practice of
-fertilization is a response to problems created by human intervention in natural
-soil systems. The principle does not claim that fertilizers are worthless in an
-absolute sense, but [[mollison-sewage-treatment-natural-processes]] need to apply them when farming in
-accordance with nat [[fukuoka-critique-laws-agricultural-science]] Why No-Fertilizer Tests Are Never Run
-
-Fukuoka points out a remarkable gap in agricultural science: scientists hardly
-ever run experiments on no-fertilizer cultivation. In Japan, only a handful of
-reports have been published over the years on the cultivation of fruit trees
-without fertilizer in small concrete enclosures and earthen pots. Some tests
-have been done on rice and other grains, but only as controls.
-
-The reason why no-fertilizer tests are not performed is all too clear.
-Scientists work from the basic premise that crops are to be grown with
-fertilizer. They ask why experiment with such an idiotic and dangerous method of
-cultivation. The standard on which fertilizer experiments should be based is no-
-fertilizer tests, but three-element tests using nitrogen, phosphorus, and
-potassium are the standard actually used.
-
-Scientists claim that a tree grows only about half as much without fertilizer as
-when various types of fertilizer are used, and the common belief is that yields
-are terrible. However, the conditions under which these no-fertilizer
-experiments were conducted have little in common with true [[natural-farming]]. When
+# [[mollison-sewage-treatment-natural-processes]] need to apply them when farming in
+accordance with nat [[natural-farming]]. When
 crops are planted in small earthenware pots or artificial enclosures, the soil
 in which they grow is dead soil.
 
@@ -93,19 +71,7 @@ constantly poured onto it.
 
 ## The Composting Question
 
-Fukuoka extends his critique to organic [[composting]] practices. Research on the
-preparation and use of organic composts appears at first glance to be of value.
-When compost such as straw, grasses and trees, or seaweed is applied directly to
-a field, it takes a while for this to decompose and trigger a fertilizer
-response in the crops.
-
-All the trouble taken during preparation of the compost to speed up the rate of
-fertilizer response, such as frequent turning of the pile, methods for
-stimulating the growth of aerobic bacteria, the addition of water and
-nitrogenous fertilizers, lime, super-phosphate, rice bran, manure, and so forth,
-all this trouble is taken just for a slight acceleration in response.
-
-Because the net effect of these efforts is to speed up [[decomposition]] by at most
+Fukuoka extends his critique to organic [[decomposition]] by at most
 ten to twenty percent, this can hardly be called necessary, especially since
 there already was a method of applying straw that achieved outstanding results.
 Fukuoka firmly believes that, while compost itself is not without value, the

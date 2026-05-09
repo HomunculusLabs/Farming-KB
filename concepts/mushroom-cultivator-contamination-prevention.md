@@ -133,11 +133,7 @@ The Mushroom Cultivator identifies over 30 specific contaminants including:
 
 ## See Also
 
-- [[stamets-contamination-identification-and-control]] -- Stamets' contaminants chapter
 - [[mushroom-contaminant-identification-key]] -- contaminant identification
-- [[mushroom-contamination-control-strategies]] -- identification key
 - [[stamets-sterile-laboratory-design]] -- laboratory design details
-- [[mushroom-cultivation-fundamentals]] -- sterile technique overview
 - [[bacteria-and-microorganisms-in-mushroom-fruiting]] -- bacteria in fruiting
-- [[mycelium-running-pest-control-with-fungi]]
 - [[sterile-technique-mushroom-cultivation]]

@@ -12,48 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow and most are extremely decorative plants that help attract useful predators, as well as pollinating insects like bees. They can be planted around shrubs as ground cover to aid [[common-homestead-weeds]], in mixed borders, on their own in a traditional herb garden, or in containers and hanging baskets. Most herbs originate from the Mediterranean, so they thrive in warm sunshine.
-
-## Planning an Herb Garden
-
-It is worth planning a planting scheme on paper before choosing and planting herbs. In traditional herb gardens, plants are arranged in formal patterns, with each herb or group of herbs enclosed by a low hedge of box (Buxus sempervirens) or lavender (Lavandula sp.). The main reason for these designs is that most herbs are annuals or perennials that die down in winter, so the area needs to look interesting year-round.
-
-Locate the herb garden in the sunniest part of the garden. Ensure good access with pathways or stepping stones so each plant can be reached without stepping off the path -- herbs will be harvested more regularly than most other plants.
-
-### Herb Collection -- Key Species
-
-**Annual herbs:**
-- Borage (Borago officinalis) -- reaches 2ft 6in (75cm). Attractive blue flowers, attracts bees
-- Chervil (Anthriscus cerefolium) -- reaches 2ft (60cm). Prefers shade. Spicy, aniseed flavor
-- Dill (Anethum graveolens) -- reaches 2ft 6in (75cm). Feathery leaves and yellow flowers
-- Sweet basil (Ocimum basilicum) -- reaches 2ft (60cm). Grown as annual in temperate areas
-- Summer savory (Satureja hortensis) -- annual, attracts bees
-
-**Biennial herbs:**
-- Parsley (Petroselinum crispum) -- reaches 12in (30cm). Prefers some shade. Crisp or French types
-
-**Perennial herbs:**
-- Chives (Allium schoenoprasum) -- reaches 8in (20cm). Distinctive globular lilac flowers
-- Balm/Melissa (Melissa officinalis) -- reaches 3ft (90cm). Pleasant lemon flavor, attracts bees
-- Spearmint (Mentha spicata) -- reaches 3ft (90cm). Prefers semi-shade. Can be invasive
-- Winter savory (Satureja montana) -- evergreen shrub, reaches 12in (30cm)
-- Sorrel (Rumex acetosa) -- reaches 18in (45cm). Broad-leaved, prefers semi-shade
-- French tarragon (Artemisia dracunculus) -- reaches 2-3ft (60-90cm). Cannot be grown from seed
-- Fennel (Foeniculum vulgare) -- reaches 5ft (1.5m). Decorative, aniseed taste. Do not plant near dill
-- Lovage (Levisticum officinale) -- reaches 8ft (2.5m). Very tall, for back of garden
-- Pot marjoram (Origanum onites) -- reaches 15in (35cm)
-- Horseradish (Armoracia rusticana) -- reaches 2ft (60cm). Hot-flavored tap root
-
-**Shrubby herbs:**
-- Lemon thyme (Thymus citriodorus) -- reaches 8in (20cm). Attracts bees
-- Sage (Salvia officinalis) -- reaches 2ft (60cm). Hardy, decorative, aromatic
-- Rosemary (Rosmarinus officinalis) -- reaches 3ft (90cm). Aromatic evergreen
-- Bay (Laurus nobilis) -- reaches 20ft (6m). Frost tender, needs greenhouse protection in cold areas
-- Juniper (Juniperus communis) -- reaches 10ft (3m). Blue-black berries
-
-## Soil Preparation for Herbs
-
-Ideally, the soil should be well-drained and light. With good preparation, herbs will grow well in heavier soils. Double dig the area, breaking up the subsoil and working in plenty of well-rotted manure or [[compost-building-guide]]. Since most herbs prefer a soil pH of 7.0-7.5, spent mushroom compost is ideal.
+Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow and most are extremely decorative plants that help attract useful predators, as well as pollinating insects like bees. They can be planted around shrubs as ground cover to aid [[compost-building-guide]]. Since most herbs prefer a soil pH of 7.0-7.5, spent mushroom compost is ideal.
 
 The one thing most herbs cannot stand is bad drainage. If your soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and organic matter, build a raised bed at least 12in (30cm) high using brick, stone, or old railroad ties.
 
@@ -131,9 +90,6 @@ Herbs play an important role in organic gardens as companion plants. Their stron
 Source: Geoff Hamilton, Organic Gardening (Nick Hamilton, ed.), 2010
 ## See Also
 
-- [[medicinal-herbs-for-livestock]]
 - [[companion-planting-deterrents]]
-- [[propagation-methods-organic]]
 - [[organic-composting-methods]]
-- [[geoff-hamilton-organic-techniques]]
 - [[cold-frame-construction]]

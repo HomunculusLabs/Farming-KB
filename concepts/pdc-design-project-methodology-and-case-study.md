@@ -4,21 +4,11 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, design-process]
----
-
-# PDC Design Project Methodology and Case Study Approach
-
-The Williams PDC culminates in a comprehensive design project that serves as the capstone assessment. This project requires students to apply every element of the course to a real site with a real client, moving from analysis through design to presentation. The methodology mirrors professional [[permaculture-design]] practice.
+tags: [[permaculture-design]] practice.
 
 ## The Design Project as Capstone
 
-Williams structures the PDC so that all learning exercises, readings, and discussions build toward the final design project. The project is not theoretical -- it requires an actual client and an actual site. The best way to find clients, Williams advises, is to be part of a community and join your local [[permaculture-guild-design]].
-
-The design project demonstrates that the student can:
-- Perform comprehensive site analysis
-- Conduct an effective client interview
-- Apply [[permaculture-principles]] to site-specific conditions
+Williams structures the PDC so that all learning exercises, readings, and discussions build toward the final design project. The project is not theoretical -- it requires an actual client and an actual site. The best way to find clients, Williams advises, is to be part of a community and join your local [[permaculture-principles]] to site-specific conditions
 - Integrate multiple design elements into a coherent whole
 - Communicate complex design ideas clearly to a client and audience
 
@@ -30,14 +20,6 @@ Design projects are conducted in teams, mirroring professional design practice. 
 
 Teams should include people with expertise or interest in:
 - Animal systems
-- [[appropriate-technology]]
-- Community organization
-- Composting
-- Earthworks
-- Electrical systems
-- Food systems and gardening
-- Forestry and trees
-- Hydrology and water
 - [[williams-pdc-invisible-structures]] (economics, governance)
 - Passive design
 - Plant knowledge
@@ -59,7 +41,7 @@ Each Design Steward receives the working base map and client interview, then tak
 
 ## Case Study Method: Learning from Existing Sites
 
-Williams integrates case studies throughout the PDC, drawing from real projects to illustrate [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. The case study approach follows a specific methodology:
+Williams integrates case studies throughout the PDC, drawing from real projects to illustrate [[permaculture-design-principles]]. The case study approach follows a specific methodology:
 
 ### Site Selection for Case Studies
 

@@ -22,32 +22,6 @@ choose the right species for their goals, space, and experience level.
 
 ## Shiitake
 
-[[shiitake-cultivation-guide]]
-
-Shiitake (*Lentinula edodes*) is the second most cultivated mushroom worldwide, native
-to East Asia with a cultivation history spanning over 1,000 years. It is a
-wood-decomposing saprotrophic basidiomycete that relies on hardwood substrates for
-nutrition. Growers choose between two primary methods: traditional log-based
-cultivation and modern sawdust block production, each with distinct advantages and
-tradeoffs.
-
-Log-based cultivation involves selecting hardwood species such as oak, sugar maple, or
-ironwood, then drilling a diamond pattern of holes into the wood. Spawn is inserted
-into each hole and sealed with wax to prevent contamination. Logs are then left to
-incubate for 6 to 18 months depending on strain, temperature, and log size. Once
-colonized, logs produce crops for 2 to 6 years with proper management, making this a
-long-term investment that rewards patience with sustained yields.
-
-Strain selection is critical for shiitake success. Wide-range strains fruit at 50-80F
-and offer flexibility across seasons, cold-weather strains prefer 50-65F for reliable
-spring and autumn flushes, and warm-weather strains thrive at 65-80F for summer
-production. Fruiting typically requires a soaking or shocking process to stimulate the
-mycelium into forming mushrooms. The slower colonization rate demands patience and
-outdoor space, but the extended productive life rewards dedicated growers with years
-of harvests from a single inoculation effort.
-
-## Oyster
-
 [[cotter-oyster-mushroom-cultivation]]
 
 Oyster mushrooms (*Pleurotus* spp.) are widely regarded as the easiest and most
@@ -138,13 +112,8 @@ substrate as a supplement for outdoor shiitake log beds, recycling nutrients and
 reducing waste. This dual approach smooths out cash flow for small commercial
 operations and ensures a continuous supply of fresh mushrooms throughout the year
 regardless of seasonal limitations.
-
 ## See Also
 
-- [[comparison-ashwagandha-vs-rhodiola-cultivation]]
-
 - [[comparison-oyster-vs-wine-cap-cultivation]]
-
-- [[comparison-oyster-vs-shiitake-cultivation]]
 
 - [[shiitake-cultivation-guide]]

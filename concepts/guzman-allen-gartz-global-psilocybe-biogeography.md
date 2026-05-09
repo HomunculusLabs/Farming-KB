@@ -136,14 +136,9 @@ the famous "teonanacatl" (divine mushroom).
 
 ## See Also
 
-- [[natto-making]]
 - [[neotropical-psilocybin-mushrooms]]
-- [[psychedelic-mushrooms-species-and-identification]]
 - [[ethnomycology-as-discipline]]
-- [[copelandia-genus-species-guide]]
 - [[gymnopilus-purpuratus-profile]]
-- [[amanita-muscaria-cultural-history]]
 - [[ergot-fungus]]
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[inocybe-aeruginascens-profile]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

@@ -10,10 +10,7 @@ type: concept
 
 # Physarum Computation
 
-Physarum computation uses the slime mold *Physarum polycephalum* as a biological
-computing substrate. Despite being a single-celled organism (a plasmodial slime
-mold), *Physarum* exhibits remarkable problem-solving abilities that have made it
-a model organism in [[unconventional-computing]] research. Its ability to solve
+Physarum computation uses the slime mold *[[unconventional-computing]] research. Its ability to solve
 complex spatial problems through simple physical processes has attracted
 attention from mathematicians, computer scientists, and biologists alike.
 
@@ -78,39 +75,6 @@ absence (representing FALSE), with light barriers as control signals.
 ### Memory
 The organism exhibits habituation: repeated exposure to a harmless stimulus
 (like light) causes a decreasing response, and this "memory" persists for
-hours. This has been proposed as a form of [[biological-memory-non-neural]].
-Critically, the habituation can be "refreshed" by a gap between stimulations,
-paralleling the spacing effect in human learning.
-
-## Mathematical Models
-
-The behavior of *Physarum* can be described by the **Physarum solver**, a
-mathematical model that simulates the organism's adaptive network dynamics:
-
-1. Each tube has a conductivity that changes based on flow rate.
-2. Flow follows a pressure gradient (analogous to Kirchhoff's laws for
-   electrical circuits).
-3. Tubes carrying more flow increase in conductivity (positive feedback).
-4. Tubes carrying less flow shrink (negative feedback / decay).
-
-This model has been applied to solve minimum spanning tree problems,
-steiner tree problems, and network flow optimization. The solver
-converges to near-optimal solutions without any explicit optimization objective
-— the behavior emerges from local interaction rules.
-
-## Limitations
-
-- Results are probabilistic — repeated runs produce varying solutions.
-- No native arithmetic or symbolic processing capability.
-- Environmental sensitivity makes reproducibility challenging.
-- Scaling to arbitrarily large problems is constrained by physical size.
-- The organism requires constant moisture and nutrient supply.
-- Computation speed is limited by biological growth rates.
-
-## See Also
-
-- [[mycelial-network-computation]]
+hours. This has been proposed as a form of [[mycelial-network-computation]]
 - biological computing
-- [[unconventional-computing]]
-- minimum spanning tree
 - [[bio-electronic-interfaces]]

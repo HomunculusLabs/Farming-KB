@@ -122,8 +122,6 @@ integration is a model for modern permaculture design.
 
 ## See Also
 
-- [[mollison-animal-integration-permaculture-design]]
 - [[mollison-animal-range-management]]
-- [[mollison-arid-lands-aquatic-species]]
 - [[permaculture-designers-manual-tropical-climates]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]

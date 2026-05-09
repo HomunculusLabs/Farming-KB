@@ -24,7 +24,7 @@ sources:
 
 # Edge Effect and Microclimate
 
-Edges are the interfaces between two systems or media, and they are where the most diversity, productivity, and exchange occur. Holmgren's Principle 11 ("Use Edges and Value the Marginal") and Mollison's pattern understanding both emphasise edge as a primary design tool. See [[permaculture-design]] for how edge analysis fits the design process.
+Edges are the interfaces between two systems or media, and they are where the most diversity, productivity, and exchange occur. Holmgren's Principle 11 ("Use Edges and Value the Marginal") and Mollison's pattern understanding both emphasise edge as a primary design tool. See [[permaculture-design-methods]] for how edge analysis fits the design process.
 
 ## The Theory of Edge
 
@@ -112,7 +112,7 @@ Holmgren cites old English farm landscapes as the archetypal edge-rich design: "
 ## Related Pages
 - [[food-forest-design]] -- Edge-maximizing forest layouts
 - [[patterns-in-nature]] -- Edge as a pattern phenomenon
-- [[permaculture-design]] -- How edge analysis fits design process
+- [[permaculture-design-methods]] -- How edge analysis fits design process
 - [[permaculture-plant-catalog]] -- Low-fire-potential species for hedgerows
 - [[fungal-biodiversity]] -- (if exists) diversity principles
 - [[pond-and-aquaculture]] -- Pond edge design

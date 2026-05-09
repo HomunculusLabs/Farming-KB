@@ -32,7 +32,7 @@ aeration without mechanical agitation.
 ## Mycelial Pellet Formation and Properties
 
 Fungal mycelia can be grown as pellets that are subsequently used in
-bioreactor systems. [[phanerochaete-chrysosporium]] and [[trametes-versicolor]]
+bioreactor systems. [[trametes-versicolor-entity]]
 have been grown on pelleted substrates for effluent treatment. Alginate
 hydrogels containing fungal biomass provide a convenient immobilization
 matrix. Temperature affects pellet performance, with non-pelleted P.
@@ -129,7 +129,5 @@ extended bioreactor operation periods.
 
 ## See Also
 
-- [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]
-- [[staycare-solid-state-fermentation-for-bioremediation]]
 - [[fungal-biofilm-bioremediation]]

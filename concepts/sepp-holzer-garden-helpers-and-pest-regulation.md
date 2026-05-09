@@ -105,12 +105,6 @@ Holzer emphasises the therapeutic and educational value of gardens, especially f
 - Town gardens should use terraces, raised beds, microclimates, and vertical surfaces
 - Masonry stove effect from house walls enables growing heat-loving fruit (peach, apricot) as espaliers
 
-See also:,, [[permaculture-garden-design-process]], [[sepp-holzer-soil-fertility-and-green-manure]],, [[permaculture-companion-planting]]
-
-## Related
-
-- [[sepp-holzer-method]]
-- [[beneficial-insect-habitat]]
+See also:,, [[sepp-holzer-soil-fertility-and-green-manure]],, [[sepp-holzer-method]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[holzer-earthworm-breeding-soil-helpers]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

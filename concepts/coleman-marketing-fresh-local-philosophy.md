@@ -3,7 +3,7 @@ title: Marketing Philosophy — Fresh, Local, and Beyond Organic
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - Eliot Coleman
+    title: The Winter Harvest Handbook - [[eliot-coleman]]
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -121,7 +121,5 @@ day-by-day planting calendar from them.
 
 ## See Also
 
-- [[coleman-direct-marketing-and-csa-models]]
 - [[coleman-four-season-farm]]
-- [[coleman-deep-organic-farming]]
 - [[coleman-deep-organic-history-and-philosophy]]

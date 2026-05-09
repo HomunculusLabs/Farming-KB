@@ -81,29 +81,7 @@ An alternative strategy for reducing resin acid contamination is the
 biological pretreatment of wood chips prior to pulping. Fungal pretreatment
 with resin acid-degrading species can remove toxic resins from wood before
 they enter the pulping process, thereby reducing the resin acid load in
-resulting effluents. This approach is analogous to [[biobleaching-of-pulp-by-white-rot-fungi]] strategies that use fungi to modify wood composition
-before conventional pulping. Pretreatment of wood chips offers the
-advantage of targeting the problem at its source, reducing both the
-concentration and volume of resin acids that must be managed in wastewater
-treatment systems.
-
-## Comparison with Bacterial Resin Acid Degradation
-
-Bacterial degradation of resin acids has been well documented, particularly
-among aerobic bacteria isolated from pulp mill effluent treatment systems.
-Bacterial pathways typically involve initial oxidation of the acid side
-chain followed by ring cleavage and eventual mineralization. In contrast,
-fungal transformation appears to focus more on hydroxylation and
-conjugation reactions rather than complete mineralization. The fungal
-approach may be more effective for rapid detoxification, while bacterial
-systems may achieve more complete degradation. Combined fungal-bacterial
-treatment strategies that leverage the complementary strengths of both
-groups could provide the most effective approach for resin acid removal.
-
-## Relationship to Kraft Pulp Effluent Treatment
-
-Resin acid degradation is closely related to the broader context of
-[[kraft-pulp-bleach-effluent-fungal-treatment]]. In pulp mill effluents,
+resulting effluents. This approach is analogous to [[kraft-pulp-bleach-effluent-fungal-treatment]]. In pulp mill effluents,
 resin acids co-occur with chlorinated lignin fragments, chlorophenols, and
 other pollutants. The treatment of these complex effluent streams requires
 organisms capable of degrading multiple pollutant classes simultaneously.
@@ -115,8 +93,6 @@ reduce treatment costs compared to sequential specialized treatment steps.
 
 ## Related Concepts
 
-- [[kraft-pulp-bleach-effluent-fungal-treatment]] for effluent treatment
 - [[biobleaching-of-pulp-by-white-rot-fungi]] for wood pretreatment
-- [[fungal-enzyme-systems-in-bioremediation]] for enzymatic mechanisms
 - [[white-rot-fungi-bioremediation]] for oxidative enzyme systems
 - [[fungal-lignocellulose-degradation-mechanisms]] for wood decay processes

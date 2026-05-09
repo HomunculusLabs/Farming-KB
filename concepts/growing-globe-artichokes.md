@@ -111,13 +111,9 @@ The opposite problem exists with Brussels sprouts, which dislike light soils. In
 
 ## Related Concepts
 
-- [[soil-fertility-management]]
 - [[building-soil-fertility-long-term]]
-- [[transplanting-techniques-solomon]]
 - [[permaculture-climate-zones-and-strategies]]
 
 Sources: Steve Solomon, *Gardening When It Counts*
-- [[parsley-celery-herbs-growing-guide]]
 - [[transplanting-techniques-low-input]]
-- [[solomon-gardening-when-it-counts-index]]
 - [[permaculture-cold-climate-strategies]]

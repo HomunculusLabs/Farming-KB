@@ -31,10 +31,7 @@ This means:
 ### General Method (Any Crop)
 1. Collect residues from your target crop during/after harvest
 2. Include diseased fruits -- do not worry about diseases
-3. Once [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] is acquired,
-   disease-causing organisms cannot gain dominance
-4. Fill half the container with water
-5. Add a handful of [[leaf-mold-composting]]
+3. Once [[leaf-mold-composting]]
 6. Put crop residues into water until container is full
 7. Close lid, leave at ambient temperature
 8. Time: **1+ month** (varies by material)
@@ -91,49 +88,9 @@ This means:
 ### Principle
 Microorganisms that naturally associate with a crop in your specific climate
 and soil are the best adapted to help that crop grow. JADAM captures these
-through the [[jadam-microorganism-grain-medium]] method.
+through the [[jadam-microorganism-diversity-over-disinfection]]
 
-### Crop-Specific Strategies
-- **Fruit crops:** Use fruit residues of the same species
-- **Leafy vegetables:** Use leaf residues of the same species
-- **Root crops:** Use potato/carrot bodies or leaves
-- **Grain crops:** Use rice bran, perilla pulp, other press cakes
-- **Rice specifically:** Rice bran JLF is great for rice
-
-### Location Matters
-- Place grain medium in the field where the target crop grows
-- Microbes from that specific microclimate will colonize
-- Different fields yield different microbial communities
-- Edge habitats (hedgerows, tree lines) have highest diversity
-
-## Combining Customization Approaches
-
-The most powerful approach combines:
-1. **Custom JLF** from same-species crop residues (perfect nutrition)
-2. **Local JMS** cultured in the same field (adapted microbes)
-3. **GC-JLF** from wild grass + crop residues (broad spectrum base)
-4. **Sea water** for trace minerals (83+ elements)
-
-This creates a self-sustaining cycle where each year's farming produces next
-year's inputs.
-
-## Application
-
-| Parameter | Value |
-|-----------|-------|
-| Dilution | x20 to x300 |
-| When to apply | Throughout growth |
-| How to apply | Soil or foliar |
-| What to expect | Balanced growth |
-
-## Related
-
-- [[jadam-microorganism-diversity-over-disinfection]]
-
-- [[jadam-microorganism-solution-jms]] -- culturing local microbes
 - [[jadam-microorganism-grain-medium]] -- grain medium method
-- [[jadam-liquid-fertilizer]] -- base JLF method
 - [[fermented-plant-extract-fpe]] -- KNF approach to similar concept
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-ambient-temperature-principle]]

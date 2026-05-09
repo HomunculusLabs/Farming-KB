@@ -8,17 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-# JADAM Seed Treatment and [[nursery-management]]
-
-## Overview
-
-JADAM seed treatment and nursery management focus on establishing strong microbial diversity from the very beginning of a plant's life. Rather than using chemical seed disinfectants, JADAM uses natural methods -- JADAM sulfur (JS) immersion and JADAM microorganism solution (JMS) soaking -- to protect seeds and seedlings while promoting vigorous root settlement.
-
-## JADAM Seed Treatment
-
-### Rice Seed Disinfection (Bakanae Disease Control)
-
-Developed by Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, and [[youngsang-cho]].
+# JADAM Seed Treatment and [[youngsang-cho]].
 
 **Recipe:**
 - JADAM sulfur (JS) -- 5 L (1.3 gal)
@@ -98,6 +88,5 @@ Apply mixed with water or undiluted before rain for open fields. For greenhouses
 
 ## See Also
 
-- [[natural-farming-philosophy]]
 - [[soil-food-web-nutrient-cycling]]
 - [[compost-tea-recipe-guide]]

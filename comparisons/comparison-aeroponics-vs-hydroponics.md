@@ -28,44 +28,10 @@ maintenance required.
 
 ## Aeroponics
 
-[[aeroponics-guide]]
-
-Aeroponics suspends plant roots in a closed chamber and delivers nutrient
-solution as a fine mist or fog at regular intervals, typically every three to
-five seconds in high-pressure systems or every few minutes in low- pressure
-configurations. The roots hang in open air between misting cycles, absorbing
-atmospheric oxygen directly rather than depending on dissolved oxygen in water.
-This maximum oxygen exposure at the root zone drives explosive root growth,
-producing dense, bushy root masses that support accelerated above- ground
-development. Growth rates can exceed hydroponics by 20 to 50 percent under
-optimal conditions.
-
-The strengths of aeroponics are compelling for experienced growers. Exceptional
-oxygen availability eliminates the root zone bottleneck that limits plant growth
-in other systems. Water efficiency can exceed 95 percent compared to traditional
-soil growing, and 80 percent or more compared to standard hydroponics, because
-the nutrient solution is delivered precisely to the roots with minimal waste.
-The enclosed chamber design minimizes evaporation. Root systems are fully
-visible for inspection without disturbing the plant, making it easy to spot
-problems early. Aeroponic systems are also highly space-efficient, with vertical
-configurations stacking multiple growing chambers.
-
-However, aeroponics demands significantly more from the grower in terms of
-equipment and maintenance. The system is extremely vulnerable to failures: even
-a few minutes without misting can cause root desiccation, and longer outages can
-kill plants. Nozzle clogging from nutrient salt buildup or mineral precipitation
-is a persistent maintenance challenge that requires regular cleaning with acidic
-solutions. Pumps, timers, pressure switches, and solenoid valves add multiple
-failure points that must be monitored and maintained. The initial cost of
-quality aeroponic equipment is substantially higher than basic hydroponic
-setups, and the systems require more frequent attention to prevent problems.
-
-## Hydroponics
-
 [[hydroponic-growing-basics]]
 
 Hydroponics encompasses several methods that deliver nutrient solution directly
-to plant roots without soil, including [[deep-water-culture]], [[nutrient-film-technique]], [[ebb-and-flow]] (flood and drain), drip irrigation, and wick systems. In
+to plant roots without soil, including [[nutrient-film-technique]], [[ebb-and-flow]] (flood and drain), drip irrigation, and wick systems. In
 all hydroponic methods, roots are in direct contact with nutrient solution,
 either through continuous submersion in DWC, periodic flooding in ebb and flow,
 continuous thin film flow in NFT, or regular dripping in drip systems. Dissolved

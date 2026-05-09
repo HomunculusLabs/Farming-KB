@@ -94,11 +94,7 @@ The first experiment sampled plants **eight weeks post-harvest**, meaning root t
 
 ## See Also
 
-- [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
-
 - [[cannabis-microbiome-cultivar-specificity]]
-- [[cannabis-two-tier-microbiome-selection]]
 - [[two-tier-selection-model-root-microbiome-assembly]]
-- [[proteobacteria-dominance-cannabis-endorhiza]]
 - [[endorhiza-bacterial-communities]]
 - [[otu-differential-abundance-cannabis-microbiome]]

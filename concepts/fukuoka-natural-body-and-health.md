@@ -12,21 +12,7 @@ Updated: 2026-04-18
 
 In this chapter from "The Road Back to Nature," Fukuoka connects natural farming philosophy to human health and physical well-being, arguing that malady arises from what is unnatural and that the road to health is through relaxation and return to a natural state.
 
-The connection between farming and health is not incidental but essential to [[fukuoka-natural-farming-philosophy]]. Just as the farm degraded by chemical inputs loses its natural vitality, the human body degraded by unnatural living loses its natural resilience. The same principles that guide natural farming — minimal intervention, trust in natural processes, rejection of artificial inputs — apply equally to human health.
-
-## The Natural Body
-
-Fukuoka draws from several sources to argue for a relaxed, natural approach to the body:
-
-- Dr. Keizo Hashimoto (chiropractor): "People ought to live pleasantly and die pleasantly." His method is simply to make the patient comfortable through relaxation
-
-- A physical education professor at Nihon University demonstrated that just letting the limbs dangle causes inner organs to exercise by themselves — "The human body acts as if it were made of Jello"
-
-- Build bodies "as flexible and strong as a whip"
-
-The principle underlying all three sources is the same: the body knows how to maintain itself if given the chance. Just as soil knows how to grow plants without chemical fertilizers, the human body knows how to maintain health without medical intervention. The task is not to add something but to remove the obstacles — tension, stress, artificial habits — that prevent the body from functioning naturally.
-
-This parallels the approach of [[fukuoka-soil-building-approach]], where the goal is not to add nutrients to the soil but to create conditions in which the soil's own fertility can express itself.
+The connection between farming and health is not incidental but essential to [[fukuoka-soil-building-approach]], where the goal is not to add nutrients to the soil but to create conditions in which the soil's own fertility can express itself.
 
 ## Malady Arises from the Unnatural
 
@@ -52,9 +38,7 @@ The prescription — "lighten the heart and live easily" — sounds simple but i
 
 - The alternative: allow that person to amuse himself with total abandon, or cast him into the mountains and leave him there to himself
 
-The infant metaphor connects this chapter to [[fukuoka-innocence-of-children]]. Just as children possess a natural capacity for farming that adults have lost, infants possess a natural vitality that adults have suppressed. The problem is that one cannot return to the infant state by trying — the effort itself prevents the return.
-
-This paradox is central to [[fukuoka-do-nothing-farming-and-spiritual-life]]: the practice of doing nothing is itself an effort, and any effort is already a departure from the natural state. Fukuoka's solution — throwing someone into the mountains — removes the possibility of effort and forces a direct encounter with nature that bypasses the thinking mind.
+The infant metaphor connects this chapter to [[fukuoka-do-nothing-farming-and-spiritual-life]]: the practice of doing nothing is itself an effort, and any effort is already a departure from the natural state. Fukuoka's solution — throwing someone into the mountains — removes the possibility of effort and forces a direct encounter with nature that bypasses the thinking mind.
 
 ## Easy Zen at Dogo Hot Springs
 
@@ -72,35 +56,13 @@ Fukuoka suggests an unconventional approach to meditation:
 
 Fukuoka's preference for the hot spring over the meditation cushion reveals his pragmatism. He is not interested in spiritual practices for their own sake but in whatever actually works to reconnect people with their natural state. If lying in a hot spring is more effective than sitting in formal meditation, then the hot spring is the better practice.
 
-The observation about oriental medicine moving toward doing nothing mirrors his observation about agriculture: the most advanced approaches in both fields converge on the principle of minimal intervention. [[natural-farming-food-philosophy]] extends this principle to diet: the best food is food that requires the least processing and preparation.
-
-## Therapy on the Farm
-
-People who come to stay at Fukuoka's farm experience a natural healing process:
-
-- After a week, they lose track of time
-
-- What was to have been a week turns into two, then three
-
-- After three months, staying for a year or two becomes natural
-
-The farm functions as a therapeutic environment not because of any specific treatment but because immersion in a naturally functioning ecosystem gradually restores the visitor's own natural rhythms. The loss of track of time is significant — it indicates a shift from clock-time to natural time, from the anxious scheduling of modern life to the unhurried pace of the seasons.
-
-This experience connects to [[fukuoka-nature-as-teacher]]: nature heals not through specific interventions but through the sheer fact of being present in a living, self-organizing system. The visitor does not need to do anything; they simply need to be there long enough for nature's influence to take effect.
+The observation about oriental medicine moving toward doing nothing mirrors his observation about agriculture: the most advanced approaches in both fields converge on the principle of minimal intervention. [[fukuoka-nature-as-teacher]]: nature heals not through specific interventions but through the sheer fact of being present in a living, self-organizing system. The visitor does not need to do anything; they simply need to be there long enough for nature's influence to take effect.
 
 ## The Unity of Health and Farming
 
-For Fukuoka, there was ultimately no distinction between farming the land and caring for the body. Both are expressions of the same principle: trust the natural intelligence of living systems and intervene as little as possible. The healthy farm and the healthy body are mirror images of each other, both reflecting the deeper unity of human beings with the natural world explored in [[fukuoka-god-nature-and-man-as-one]].
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]
-
-- [[fukuoka-natural-farming-philosophy-of-mu]]
+For Fukuoka, there was ultimately no distinction between farming the land and caring for the body. Both are expressions of the same principle: trust the natural intelligence of living systems and intervene as little as possible. The healthy farm and the healthy body are mirror images of each other, both reflecting the deeper unity of human beings with the natural world explored in [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
 - [[fukuoka-nature-as-teacher]]
-
-- [[fukuoka-innocence-of-children]]
 
 - [[fukuoka-god-nature-and-man-as-one]]
 

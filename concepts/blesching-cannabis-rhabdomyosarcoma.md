@@ -93,10 +93,7 @@ the child's innate capacity for healing.
 
 ## See Also
 
-- [[blesching-cannabis-brain-cancer-glioblastoma]]
 - [[cannabis-and-bone-cancer]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-leukemia-lymphoma]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[blesching-cannabis-neuroprotection]]

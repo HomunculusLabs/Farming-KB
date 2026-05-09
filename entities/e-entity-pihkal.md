@@ -8,56 +8,13 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # E (ESCALINE)
 
-[[al-pihkal-entry-2]] #72. 3,5-DIMETHOXY-4-ETHOXYPHENETHYLAMINE.
-Also known as: ESCALINE.
-
-## Chemical Name
-
-3,5-DIMETHOXY-4-ETHOXYPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 40 - 60 mg. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 40 mg) This is a powerful and complex
-> intoxicant -- I could not have coordinated any rational muscular
-> activity. I could not walk; I could not tie my shoe-laces. There is
-> analgesia and an incoordination that I cannot shake. My menstrual
-> flow started a bit ahead of time, but it was light.
->
-> (with 50 mg) I felt that the body tensions outweighed the
-> psychological and sensory rewards, in that I had a lot of dehydration
-> and my sleep had a nightmare quality. This pretty much offset the few
-> virtues that I felt I had obtained.
->
-> (with 60 mg) There is a quality of rational analysis and insight that
-> is totally impressive. Many subtle factors in my life can be viewed
-> with insight, and usefully dissected. I got into a deep discussion,
-> but I was not argumentative or even defensive and I remained detached
-> and kept a tone of cool impersonality. I had a good appetite. But I
-> also had some tachycardia and muscular tension. There was
-> unquestionable sensory enhancement, but without an intellectual
-> component. Overall it was most pleasant.
->
-
-## Extensions and Commentary
-
-In an isolated situation, there is easy fantasy, but little synthesis of external sensory inputs such as music or visual stimulae. A gradual decline brings the subject back to a restful baseline somewhere before the 12th hour. The following day is often seen as one of tiredness and [[low-energy-futures-in-permaculture]]. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to thmescalineloride salt.
+[[low-energy-futures-in-permaculture]]. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to thmescalineloride salt.
 
 The replacement of that one methyl group with an ethyl group leads to a nice jeu de mots. The play on words depends on a remarkable coincidence. The name of the alkaloid mescaline stems from an ancient Nahuatl word for a drink (Mexcalli) which also provided the source of the term Mescal (an Agave of entirely different pharmacology). The prefix for the simplest, the one carbon organic radical, is methyl. This is from the Greek word "methy" and represents wine from wood. Such is, indeed, methyl alcohol, or methanol, or wood alcohol, the simplest one-carbon drink and a rather dangerous one for the human animal. And this is the group that is on the central oxygen of mescaline.
 
 It is customary to refer to homologs (bigger-by-one) of methanol by their classical chemical names, so the natural extension of methyl is ethyl, and that of mescaline would be escaline. One carbon-chain on
 
-the 4-position oxygen becoming a two-carbon chain. This is all entymologically appealing, but there is no botanical support for any of it. The ethyl group is much more rare [[fukuoka-textdoc-no-cause-and-effect-in-nature]]. It is just a happy coincidence that mescaline (the plant), and methyl (the alkyl group involved), and methoxy (the group on the 4-position of the aromatic ring) all happen to start with the letter RMS.
-
-Very few of the homomescaline phenethylamines have been synthesized as their three-carbon chain counterparts, the corresponding analogues of amphetamine. And only three of them have been explored in man (four, if you count the amphetamine analogue of mescaline itself, TMA). The obvious names for these compounds have, unfortunately, already been used. It would be logical to use the letter M for a methoxy, and the letter E for ethoxy, etc. and simply read the groups from around the ring. But this is the naming system for the 2,4,5-trisubstituted amphetamines. MEM is, for example, 2,5-dimethoxy-4-ethoxyamphetamine (in sequence, methoxy, ethoxy, methoxy reading around the ring, and a fascinating compound talked about at length in this book), so this term cannot represent 3,5-dimethoxy-4-ethoxyamphetamine.
-
-A truly simple code employs the length of the carbon chain. The [[phenethylamine-chain-length-effects]] is two carbons long, and the amphetamine chain is three carbons long.
+the 4-position oxygen becoming a two-carbon chain. This is all entymologically appealing, but there is no botanical support for any of it. The ethyl group is much more rare [[phenethylamine-chain-length-effects]] is two carbons long, and the amphetamine chain is three carbons long.
 
 If a drug has been initially developed (and initially named) as an amphetamine derivative (three carbon chain) then the two-carbon chain analogue will use the original name (or a symbolic part of it) with the term 2C ahead of it. The two-carbon analogue of DOB (a three-carbon chain compound) will become 2C-B. DOI becomes 2C-I, DON becomes 2C-N, and DOET becomes 2C-E. Each of these is a substituted amphetamine derivative lacking one carbon atom, thus becoming a phenethylamine derivative. Most of these have 2,4,5-substitution patterns.
 
@@ -83,14 +40,67 @@ Synthesis from syringaldehyde: A well-stirred suspension of 21.9 g syringaldehyd
 
 ## Safety Notes
 
-E is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
+E is a research chemical documented in PIHKAL. Dosage data [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related phenethylamines: mescaline, escaline
+## Practical Considerations
+
+When working with E -- 3,5-DIMETHOXY-4-ETHOXYPHENETHYLAMINE -- PIHKAL Entry #72, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

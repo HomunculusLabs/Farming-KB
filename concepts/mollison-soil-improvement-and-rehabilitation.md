@@ -3,13 +3,7 @@ title: Mollison Soil Improvement and Rehabilitation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-# Mollison Soil Improvement and Rehabilitation
-
-Mollison presents a comprehensive approach to soil rehabilitation, drawing from P.A. Yeomans (Keyline), Geoff Wallace, and [[fukuoka-do-nothing-farming-and-spiritual-life]] no-till methods.
+tags: [[fukuoka-do-nothing-farming-and-spiritual-life]] no-till methods.
 
 ## The Problem
 
@@ -73,16 +67,30 @@ Fukuoka maintained this no-dig cycle for 25 years with soil improving, no fertil
 
 ## See Also
 
-- [[permaculture-soil-rehabilitation]]
-
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] — Fukuoka's philosophy
-- [[mollison-permaculture-design-philosophy]] — design philosophy
 - [[mollison-broadscale-landscape-analysis]] — landscape analysis
-- [[composting-systems]] — composting methods
 - [[grain-cultivation-small-scale]] — grain growing details
 
 ## Related
 
-- [[arid-landscape-permaculture]]
 - [[edge-effect-in-permaculture]]
 - [[mollison-tropical-soils-and-granitic-sands]]
+## Practical Considerations
+
+Successful implementation of Mollison Soil Improvement and Rehabilitation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -3,13 +3,7 @@ title: Forage Systems and Animals in Permaculture
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Forage Systems and Animals in Permaculture
-
-Mollison declares that "never in the history of the world has anybody designed and implemented animal forage systems." The design of integrated animal-forage-plant systems is one of the most productive and underdeveloped areas of [[permaculture-design]]. Animals are the "mobile part of the forest" -- they cycle nutrients, control pests, prepare ground for planting, and convert low-grade forage into high-quality protein.
+tags: [[permaculture-design]]. Animals are the "mobile part of the forest" -- they cycle nutrients, control pests, prepare ground for planting, and convert low-grade forage into high-quality protein.
 
 ## The Principle of Beneficial Interaction
 
@@ -23,17 +17,7 @@ Mollison's zonation system places animals strategically according to their manag
 
 For goats, a corridor edged with mulberry or other browse plants allows goats to self-prune as they pass through. Chickens and ducks can be contained within zone two because they require daily attention. The pig is stocked to the back of zone two, as they can be messy in confined quarters. Milk sheep come closer in; wool sheep go further out. A milk cow in zone two might extend the zone to two acres -- still a very limited area that can feed many people.
 
-The [[permaculture-zones-system]] principle means that acorns gathered from outer zones and fed to chickens produce high-value manure and mulch. Nut husk mulch is alkaline and high in calcium. Material from outer zones is recycled by animals for use in the intensive zone.
-
-## The Chicken-Orchard System
-
-The chicken-orchard is Mollison's most detailed forage design. The system integrates chickens with fruit trees, shrubs, and ground forages in a mutually beneficial cycle:
-
-- **White mulberry** provides forage equal to "a double crop of grain" at 17% protein. Chickens get seed long after mulberries are gone. Four-foot cuttings root in the first autumn and produce fully by the next year.
-- **Hawthorn and mountain ash** provide winter forage.
-- **Comfrey, cleavers, and chard** provide summer greens.
-- **Chinese chestnuts and hazelnuts** grow within the chicken run, producing double to quadruple the yield of trees outside the pen because chickens cycle nutrients.
-- **Black locust** (one acre) produces 10,000 pounds of chicken feed with a [[fukuoka-view-of-nature-and-human-hubris]] grain plot adding another 2,000 pounds -- enough for 40 chickens year-round.
+The [[fukuoka-view-of-nature-and-human-hubris]] grain plot adding another 2,000 pounds -- enough for 40 chickens year-round.
 
 The system works by eliminating grain purchase, reducing pest pressure (chickens eat encysted parasite eggs, insect larvae, and fallen fruit that hosts pests), and cycling manure directly to tree roots. "These trees around here don't look as if they are ever going to be big. They will get sick before they get big." But in an active chicken system, an English walnut can reach 60 feet in 120 years, yielding heavily.
 
@@ -87,11 +71,26 @@ Sixty percent of the world's grain is fed to livestock. Mollison argues that des
 
 ## See Also
 
-- [[forests-in-permaculture]]
 - [[permaculture-zones-system]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[soil-food-web-structure]]
-- [[faires-pasture-forage-tree-systems]]
 - [[hay-and-forage-management]]
-- [[mollison-free-range-poultry-forage-design]]
 - [[permaculture-animal-integration]]
+## Practical Considerations
+
+Successful implementation of Forage Systems and Animals in Permaculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -99,29 +99,11 @@ This process continues over multiple generations, with the breeder
 roguing out undesirable individuals at each stage. Eventually, the
 population breeds true for the selected characteristics and can be
 considered an inbred line or IBL. See
-[[cervantes-seed-population-types-ibl-hybrid]] for details on IBLs.
-
-## Commercial Implications
-
-F1 seed production has benefits for both breeders and growers. True-
-breeding seed can be easily reproduced by open-pollination, which is
-not in the commercial interest of most seed companies. By releasing
-only F1 hybrids of their pure lines, seed banks ensure customers return
-each season to purchase new seed, while also protecting their breeding
-investment from competitors who might reproduce their work.
-
-There is at least one drug-type cannabis clone registered for plant
-protection in Holland. The clone registered as 'Medsins' is owned by a
-pharmaceutical company licensed to grow cannabis for pharmaceutical
-production. This represents a rare example of formal intellectual
-property protection for a cannabis variety. See
 [[cervantes-seed-population-types-ibl-hybrid]] for more on variety
 types and their commercial characteristics.
 
 ## See Also
 
-- [[cervantes-hybrid-vigor-inbreeding-depression]] - F1 vigor effects
 - [[cervantes-dominance-recessive-traits-alleles]] - F2 segregation
-- [[cervantes-seed-population-types-ibl-hybrid]] - IBLs and populations
 - [[cervantes-selfing-single-seed-descent]] - Alternative to filial
 - [[cannabis-genetics-and-breeding]] - Breeding fundamentals

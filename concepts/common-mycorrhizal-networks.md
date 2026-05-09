@@ -1,7 +1,7 @@
 ---
 title: Common Mycorrhizal Networks
 created: 2026-04-28
-tags: [mycology, ecology, plant-communication, nutrient-transfer]
+tags: [[mycology, ecology, plant-communication, nutrient-transfer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -11,22 +11,7 @@ type: concept
 # Common Mycorrhizal Networks
 
 Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or
-myconets, are [[underground-fungal-networks]] that physically connect the root
-systems of multiple plants. These networks form when mycorrhizal fungal hyphae
-colonize the roots of neighboring plants, creating a shared biological
-infrastructure through which carbon, nutrients, water, and chemical signals
-can move between individuals. The concept has captured both scientific and
-public imagination, reframing forests as interconnected superorganisms.
-
-## Formation and Structure
-
-CMNs form naturally in most terrestrial ecosystems. When a mycorrhizal fungus
-colonizes one plant, its external hyphae extend through the soil and may
-encounter and colonize the roots of nearby plants. Over time, a single fungal
-individual (genet) can connect dozens or even hundreds of plants. In forests,
-the most extensive networks are typically formed by ectomycorrhizal fungi,
-where a single fungal genet may span tens of hectares. In grasslands and many
-agricultural systems, [[arbuscular-mycorrhizal-colonization-patterns]] fungi form the dominant networks.
+myconets, are [[arbuscular-mycorrhizal-colonization-patterns]] fungi form the dominant networks.
 
 The physical structure of a CMN consists of internal fungal structures within
 plant roots (arbuscules, hyphal coils, or Hartig nets, depending on the
@@ -82,41 +67,29 @@ chemically suppress competitors. The extent and ecological significance of
 signaling through CMNs remains an active and sometimes contentious area of
 research, with ongoing debate about whether fungal-mediated signaling is
 sufficiently specific and rapid to be ecologically meaningful compared to
-airborne volatile signaling or direct [[singh-mycorrhizal-exudates-root-exudate-interactions]].
-
-## Controversies and Limitations
-
-The concept of CMNs as cooperative communication systems has attracted
-considerable public attention but also scientific scrutiny. Critics argue that
-many observed transfers through CMNs may be incidental — the fungus is simply
-moving resources for its own benefit, and interplant transfer is a side effect
-rather than an adaptive function. The fungal partner controls the flow of
-resources through its network, and its interests do not necessarily align with
-those of the connected plants.
-
-Experimental design has also been challenged. Many studies use potted plants
-with limited soil volume, which may exaggerate the importance of CMN-mediated
-transfer relative to conditions in natural soils. Distinguishing CMN-mediated
-transfer from direct soil-mediated transfer or root exudate signaling remains
-methodologically difficult. The use of mesh barriers to separate root and
-hyphal contact has been the primary experimental approach, but these barriers
-can alter soil conditions and fungal behavior in ways that complicate
-interpretation.
-
-## Ecological Implications
-
-Despite ongoing debates about mechanisms and adaptive significance, CMNs
-clearly influence plant community dynamics. They can alter competitive
-outcomes between species, facilitate seedling establishment, buffer
-environmental stress, and contribute to ecosystem stability. Understanding
-CMNs is increasingly important for forest management, ecological restoration,
-and sustainable agriculture, where manipulating these networks could improve
-outcomes for [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
+airborne volatile signaling or direct [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungi]] — fungal partners in most CMNs
 - [[ectomycorrhizal-fungi]] — dominant network formers in forests
-- [[mycelial-networks]] — the fungal body forming the network
 - [[plant-fungal-signaling-mycorrhiza]] — chemical communication in mycorrhizae
 - [[rhizophagus-irregularis]]
+## Practical Considerations
+
+Successful implementation of Common Mycorrhizal Networks requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

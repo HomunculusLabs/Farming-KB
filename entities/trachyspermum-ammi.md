@@ -105,13 +105,9 @@ In **folk medicine** across South Asia, ajwain is given for colic in infants (di
 
 ## See Also
 
-- [[foeniculum-vulgare]]
 - [[crocus-sativus]]
-- [[zingiber-officinale]]
 - [[pimpinella-anisum]]
-- [[nigella-sativa]]
-- [[coriandrum-sativum]]
+- nigella-sativa
 - [[ferula-assafoetida]]
-- [[eugenia-caryophyllata]]
 - [[cinnamomum-verum]]
 - [[borago-officinalis]]

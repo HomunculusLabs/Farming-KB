@@ -3,14 +3,14 @@ title: Microfungi on Wood and Plant Debris
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Microfungi on Wood and Plant Debris
 
 ## Overview
 
-Microfungi on wood and plant debris represent one of the most species-rich and ecologically important groups of fungi. They are responsible for the [[decomposition]] of lignocellulose -- the most abundant organic polymer on Earth -- and play critical roles in [[nutrient-cycling-in-soil]], carbon flow, and ecosystem functioning. Their diversity is enormous but poorly documented, with most studies limited to temperate regions.
+Microfungi on wood and plant debris represent one of the most species-rich and ecologically important groups of fungi. They are responsible for the [[nutrient-cycling-in-soil]], carbon flow, and ecosystem functioning. Their diversity is enormous but poorly documented, with most studies limited to temperate regions.
 
 ## Species Diversity at Large Scales
 
@@ -117,7 +117,7 @@ Fungal communities on decomposing plant material change over time:
 ### Baiting
 
 - Place substratum baits in natural settings to attract specific fungal groups
-- Useful for aquatic fungi, [[coprophilous-fungi]], and [[nematophagous-fungi]]
+- Useful for aquatic fungi, [[nematophagous-fungi]]
 - Selective baits attract specific ecological groups
 
 ## Challenges in Diversity Assessment
@@ -144,6 +144,6 @@ Fungal communities on decomposing plant material change over time:
 - Molecular methods are revealing previously undetectable cryptic species
 - Lack of trained taxonomists limits inventory efforts
 
-## Ecological Significance
-
 ## See Also
+
+- [[microfungi-wood-plant-debris-diversity-trophic-biogeography]]

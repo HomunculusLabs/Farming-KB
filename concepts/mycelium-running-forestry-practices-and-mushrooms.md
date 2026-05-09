@@ -10,43 +10,9 @@ tags: [forest-garden, mushroom-cultivation, mushrooms, mycelium]
 
 # Mycoforestry: Forest Management with Mushrooms
 
-[[mycelium-natures-internet]] presents [[mycoforestry]]
+[[mycoforestry]]
 as the use of fungi to sustain forest communities. Stamets argues that
-without fungi, there are no forests, and that [[mycoforestry-principles-stamets]] can accomplish preservation of native forests, recovery of
-woodland debris, enhancement of replanted trees, strengthening ecosystem
-sustainability, and economic diversity.
-
-## The Foundation: Fungi and Forest Nutrient Cycles
-
-Mushrooms contribute phosphorus and other ecological benefits to forest
-ecosystems. They become launching platforms for explosive bacterial
-population growth, many bacteria critical for plant health. Mycelium
-absorbs phosphorus, moves mineral salts over distances, and releases
-them when mushrooms rot or mycelium dies. Like salmon carcasses,
-mushroom carcasses fertilize the ecosystem through this cycling.
-
-A large portion -- one-tenth to one-fifth -- of the total biomass in the
-topsoil of a healthy Douglas fir forest may be mycelium. This proportion
-increases when including endomycorrhizae and ectomycorrhizae thriving in
-the canopy.
-
-## Recycled Wood Debris and Forest Recovery
-
-After clear-cutting, mycorrhizal fungal communities die back. Vast
-debris fields of stumps, brush, and unmarketable trees remain, with
-biomass locked away from the food web. To stimulate decomposition and
-trigger habitat recovery, key saprophytic mushroom species can be
-selectively introduced.
-
-Wood chips are quickly consumed by fungal mycelium compared to whole
-logs. Stamets recommends creating a matrix of variably sized wood
-fragments to let mycelium quickly grab and invade the wood. Chips should
-be no smaller than 1/8 inch and piled no more than a foot deep to avoid
-suffocating aerobic fungi.
-
-## The Cortes Island Mycoforestry Experiment
-
-In 2003, Stamets established a long-term [[mycoforestry-forest-restoration]] research project on Cortes Island, British Columbia. The
+without fungi, there are no forests, and that [[mycoforestry-forest-restoration]] research project on Cortes Island, British Columbia. The
 clear-cut portion was divided into test plots with 35,000 Douglas fir
 and cedar seedlings. Treatments included:
 
@@ -61,25 +27,7 @@ the short timeframe.
 
 ## Guiding Principles of Mycoforestry
 
-Stamets articulates these [[mycoforestry-practices]]:
-
-- Use native species of fungi in habitats needing restoration
-- Amplify saprophytic fungi based on available wood substrates
-- Select species known to help plant communities
-- Select species that attract insects whose larvae feed fish and birds
-- Select species according to interactions with bacteria and plants
-- Choose species that compete with disease rot fungi (Armillaria,
-  Heterobasidion annosum) using mycorestorative saprophytes like
-  Hypholoma, Psilocybe, Trametes, Ganoderma, and Sparassis
-- Choose species of known medicinal or culinary value to incentivize
-  preservation
-- Promote ground contact with fallen trees for reentry into the soil
-  food chain
-- Leave snags to sustain bird and insect populations
-- Use spored oils in chain saws and chippers for immediate
-  decomposition
-- Retain wood debris on-site; place around newly planted trees and
-  along roads for [[mycofiltration-silt-erosion-control]]
+Stamets articulates these [[mycofiltration-silt-erosion-control]]
 - Only burn wood debris as a last-ditch disease control measure
 - Use mycorrhizal spore inoculum when replanting forestlands
 
@@ -118,12 +66,26 @@ and firs.
 
 ## See Also
 
-- [[mycelium-running-stamets-mushrooms-as-medicine]]
-
 - [[mycoforestry]] -- existing related page
-- [[mycoforestry-applications]] -- practical applications
 - [[mycoforestry-spored-oil-techniques]] -- spored oil method
-- [[mycelium-running-rot-fungi-wood-decomposition]] -- wood decay
 - [[mycelium-running-conservation-biology-and-fungi]] -- conservation
-- [[mycelium-running-partnerships-with-plants]] -- fungal partnerships
 - [[forest-ecology-basics]] -- forest ecosystem fundamentals
+## Practical Considerations
+
+Successful implementation of Mycoforestry: Forest Management with Mushrooms requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

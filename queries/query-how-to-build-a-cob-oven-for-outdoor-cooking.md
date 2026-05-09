@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Cob Oven for Outdoor Cooking"
 created: 2026-04-28
-tags: [query, natural-building, cob, outdoor-cooking, permaculture]
+tags: [query, [[permaculture]]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
@@ -141,10 +141,7 @@ As the oven cools over the next several hours, the dropping temperature range is
 - Proper curing with gradual fires prevents cracking in the oven walls
 - Firebrick floors provide a durable, heat-resistant cooking surface
 - A well-built cob oven can last for decades with minimal maintenance
-
 ## Related Pages
 
-- [[natural-building-overview]]
 - [[cob-building]]
-- [[rocket-stove-design]]
 - [[cob-oven-construction]]

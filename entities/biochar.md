@@ -134,10 +134,6 @@ Biochar fits naturally into permaculture design as a long-term soil investment. 
 
 ## See Also
 
-- [[terra-preta]]
-
 - [[hugelkultur]]
-- [[comfrey]]
 - [[keyline-design]]
-- [[imo-indigenous-microorganisms]]
 - [[mycoremediation]]

@@ -16,7 +16,7 @@ Equisetum arvense is a perennial herbaceous plant belonging to the family Equise
 It is one of the oldest surviving vascular plant lineages on Earth, often described as a living fossil.
 The genus Equisetum is the single extant genus of the order Equisetales, which dominated landscapes during the Carboniferous period approximately 300 million years ago.
 Common horsetail is widely recognised for its hollow, jointed, silica-rich stems and its dual shoot system producing distinct fertile and sterile growth.
-It has a long history of use in traditional herbal medicine and is valued in permaculture systems as a dynamic mineral accumulator.
+It has a long history of use in traditional [[permaculture]] systems as a dynamic mineral accumulator.
 Dried sterile stems contain 5–8% silica (silicon dioxide) by weight, making it one of the richest plant sources of this mineral.
 ## Taxonomy & Classification
 - **Kingdom:** Plantae
@@ -34,52 +34,7 @@ Equisetum arvense produces two distinct types of annual shoots from a perennial 
 **Fertile (reproductive) shoots** emerge in early spring, reaching 10–25 cm in height.
 - These are pale brownish or pinkish, unbranched, and non-photosynthetic.
 - Each bears a spore-producing cone (strobilus) at the tip, 1–4 cm long.
-- The cone releases green elaters that aid in spore dispersal by responding to humidity changes.
-- Fertile shoots wither after spore release.
-**Sterile (vegetative) shoots** emerge later in spring and persist through summer into autumn.
-- These are green, photosynthetic, and reach 20–60 cm in height.
-- Stems are hollow, jointed at nodes, and arranged in whorls of 6–14 branches at each node.
-- Stem surfaces are rough due to high silica deposition, giving them an abrasive texture.
-- Reduced scale-like leaves are fused into sheaths at each node, with black teeth at the margins.
-The extensive rhizome system can reach depths of 1–2 metres and spreads horizontally, enabling vigorous vegetative reproduction.
-## Distribution & Habitat
-Equisetum arvense has a cosmopolitan distribution across the temperate Northern Hemisphere.
-- Native to Europe, Asia, North America, and parts of North Africa.
-- Widely naturalised in temperate regions of the Southern Hemisphere, including New Zealand and parts of Australia and South America.
-- Found from sea level to subalpine elevations up to approximately 2,500 metres.
-It is a pioneer species that colonises disturbed and nutrient-poor soils.
-Typical habitats include roadsides, railway embankments, riverbanks, gravel pits, pastures, forest margins, and waste ground.
-Prefers moist to wet, acidic to neutral soils but tolerates a wide range of conditions.
-Often functions as a ruderal species, rapidly establishing in disturbed areas.
-## Traditional & Herbal Medicine
-Horsetail has been used medicinally since antiquity, recorded in the texts of Dioscorides, Galen, and later in medieval European herbals.
-**Primary therapeutic applications:**
-- Diuretic: increases urine output, traditionally used for urinary tract infections, kidney stones, and oedema.
-- Wound healing: silica promotes collagen synthesis and connective tissue repair; applied externally as a poultice or compress.
-- Silica supplementation: supports hair, skin, and nail strength; used for brittle nails and hair loss.
-- Osteoporosis support: silica contributes to bone mineralisation; horsetail preparations are used as adjunct therapy for bone density maintenance.
-- Haemostatic: mild astringent properties aid in stopping minor bleeding.
-- Anti-inflammatory: used topically for arthritis, sprains, and inflammatory skin conditions.
-In modern herbal practice, the dried sterile stems (herba equiseti) are the standard plant part used.
-Preparations include infusions, decoctions, tinctures, fluid extracts, and encapsulated powdered herb.
-The German Commission E and European Medicines Agency (EMA) have published positive monographs supporting its use as a diuretic and for minor wound healing.
-## Active Compounds
-The pharmacological activity of Equisetum arvense is attributed to a combination of mineral and organic constituents.
-- **Silica / Silicic acid:** 5–8% in dried sterile stems; primary structural component responsible for connective-tissue and bone-support effects.
-- **Flavonoids:** including isoquercetin, quercetin, kaempferol, and luteolin glycosides; contribute diuretic and antioxidant activity.
-- **Alkaloids:** trace amounts of nicotine and palustrine; present at low levels in the aerial parts.
-- **Saponins:** including equisetonin; contribute to mild diuretic and expectorant effects.
-- **Phenolic acids:** caffeic acid, ferulic acid, and their derivatives.
-- **Minerals:** potassium, calcium, magnesium, manganese, and aluminium, accumulated from the soil.
-## Phytochemistry
-The silica in horsetail occurs primarily as amorphous hydrated silica (opal phytoliths) embedded in the cell walls of the epidermis.
-Silicon uptake is biologically mediated through silicon transporters, making horsetail a silica hyperaccumulator unique among vascular plants.
-The flavonoid profile is dominated by flavonol glycosides, with significant variation depending on harvest time and growing conditions.
-The alkaloid content is low and generally considered non-toxic at typical therapeutic doses, though raw consumption introduces additional risk factors.
-Oxalic acid is present in moderate quantities and may contribute to the plant's astringent taste.
-Water-soluble polysaccharides from the rhizome fraction have demonstrated immunomodulatory activity in vitro.
-## Permaculture & Ecological Role
-Equisetum arvense is one of the most important dynamic accumulators in temperate permaculture systems.
+- The cone releases green elaters that aid in [[dynamic-accumulators]] in temperate permaculture systems.
 - Accumulates silica, potassium, calcium, magnesium, iron, and aluminium from deep subsoil layers via its extensive rhizome network.
 - Harvested sterile stems are used to make silica-rich compost tea, liquid fertiliser, or mulch for crops requiring silicon (e.g., tomatoes, cucumbers, grains).
 - Compost tea made from horsetail is also applied as a foliar spray to strengthen plant cell walls and increase resistance to fungal diseases.
@@ -122,7 +77,6 @@ Horsetail has been utilised by humans for thousands of years across multiple cul
 - **Construction:** prehistoric and medieval builders reportedly used horsetail in daub and wattle construction for its binding properties.
 - **Native American uses:** several Indigenous peoples of North America used horsetail as a urinary remedy, a styptic for bleeding, and a sanding material for woodworking.
 ## See Also
+
 - [[urtica-dioica]] — Nettle; companion dynamic accumulator and medicinal herb with overlapping diuretic uses.
-- [[taraxacum-officinale]] — Dandelion; deep-rooted accumulator species used in permaculture and herbal medicine.
-- [[achillea-millefolium]] — Yarrow; wound-healing herb and permaculture companion plant.
 - [[comfrey]] — Comfrey (Symphytum spp.); premier dynamic accumulator of potassium and other minerals for permaculture systems.

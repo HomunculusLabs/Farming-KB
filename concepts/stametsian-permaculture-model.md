@@ -87,8 +87,6 @@ The ultimate vision is a landscape where mushroom cultivation is seamlessly wove
 
 ## See Also
 
-- [[catastrophia-substrate-supplier]]
 - [[growing-gourmet-natural-culture-myco-landscaping]]
-- [[growing-gourmet-stump-totem-cultivation]]
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
 - [[growing-gourmet-bioremediation-mycofiltration]]

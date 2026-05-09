@@ -121,8 +121,6 @@ when two sulfur atoms are present.
 
 ## See Also
 
-- [[dom-entity]]
 - [[do-family-compounds-pihkal]]
-- [[aleph-pihkal-entry-3]]
 - [[2c-t-pihkal-entry-39]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]

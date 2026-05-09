@@ -103,14 +103,8 @@ reducing the soil's ability to maintain itself; the degraded soil then appears
 to
 "need" further cultivation to maintain structure. Breaking this cycle by
 stopping
-cultivation is the first step toward genuine [[teaming-with-microbes-no-till-benefits]]
-soil fertility].
-
-See also:
-- [[teaming-with-microbes-no-till-gardening-soil-health]] — evidence for no-cultivation benefits
-- [[teaming-with-microbes-tilling-damage-to-fungal-networks]] — how tillage damages fungal networks
+cultivation is the first step toward genuine [[teaming-with-microbes-no-till-gardening-soil-health]] — evidence for no-cultivation benefits
 - [[teaming-with-microbes-compost-biology]] — building soil biology without cultivation
-- [[white-clover-ground-cover]] — living mulch approach
 - [[teaming-with-microbes-soil-food-web-overview]] — the soil ecosystem cultivation disrupts
 ## Merged: Fukuoka Soil Microorganisms Fertilizer Damage
 

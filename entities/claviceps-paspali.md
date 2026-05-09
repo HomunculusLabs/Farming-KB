@@ -117,10 +117,6 @@ Unlike the dramatic ergotism epidemics caused by *C. purpurea* on cereal crops �
 Research use of *C. paspali* strains is generally unrestricted in academic and institutional settings, though standard biosafety guidelines for handling toxin-producing fungi should be followed (BSL-1 or BSL-2 depending on institutional policy). Collection of wild specimens from public or private land should comply with local regulations regarding plant pathogen transport and movement.
 Some of the ergoline-type alkaloids produced by *C. paspali* could potentially fall under drug precursor or controlled substance analogue regulations in certain countries, though this is rarely enforced for research-scale quantities. Lysergic acid amide (LSA), a compound structurally related to *C. paspali* clavines, is controlled in some jurisdictions (e.g., scheduled in parts of the US under the Controlled Substances Analogue Enforcement Act). There are no specific agricultural quarantine regulations targeting *C. paspali*, though it is recognized as a pasture pest in affected regions and some extension services recommend management practices to reduce livestock exposure.
 ## See Also
-- [[claviceps-purpurea]] — The classic cereal ergot fungus producing peptide ergot alkaloids; causative agent of ergotism
 - [[ergotamine]] — Principal peptide ergot alkaloid of *C. purpurea*; major pharmaceutical agent used in migraine treatment
-- [[psilocybin-compound]] — Indole alkaloid from psilocybian mushrooms; distinct chemotaxonomic context within fungal alkaloid diversity
 - [[lysergic-acid-amide]] — Ergoline alkaloid found in several *Claviceps* and *Ipomoea* species; close structural relative of *C. paspali* clavines
-- [[fomes-fomentarius]] — Polypore fungus (tinder conk); included for cross-reference in mycological taxonomy and general mycology
-- Additional related topics: ergot alkaloid biosynthesis, indole-diterpenoid natural products, clavicipitaceous endophytes of grasses, veterinary mycotoxicology
 - [[ergometrine]]

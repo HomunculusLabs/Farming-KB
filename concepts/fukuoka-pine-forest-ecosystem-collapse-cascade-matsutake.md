@@ -1,6 +1,6 @@
 ---
-title: "Pine Forest [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]: The Cascade from Reforestation to Matsutake Loss"
-source: "[[masanobu-fukuoka]] — The [[natural-way-of-farming-guide]] [[fukuoka-theory-three-ways-of-farming]]: The Theory"
+title: "Pine Forest fukuoka pine forest ecosystem collapse cascade matsutake: The Cascade from Reforestation to Matsutake Loss"
+source: "[[natural-way-of-farming-guide]] [[fukuoka-theory-three-ways-of-farming]]: The Theory"
 tags: [ecosystem-collapse, pine-forest, matsutake, mycorrhizal-cascade, acid-rain, biodiversity-loss, forest-ecology, fukuoka, ecological-chain-reaction]
 created: 2026-05-08
 ---
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Masanobu Fukuoka provides one of the most lucid descriptions of ecosystem cascade failure in agricultural and ecological literature. In *The Natural Way of Farming: The Theory*, he traces the chain of consequences from commercial logging and monoculture reforestation through soil acidification, mycorrhizal disruption, insect outbreak, and ultimately the loss of the prized [[matsutake-mushroom]]. This cascade illustrates his central thesis: that human intervention [[pdc-patterns-in-nature]] triggers chain reactions that cannot be predicted or controlled, and that attempting to fix symptoms only deepens the crisis.
+Masanobu Fukuoka provides one of the most lucid descriptions of ecosystem cascade failure in agricultural and ecological literature. In *The Natural Way of Farming: The Theory*, he traces the chain of consequences from commercial logging and monoculture reforestation through soil acidification, mycorrhizal disruption, insect outbreak, and ultimately the loss of the prized [[pdc-patterns-in-nature]] triggers chain reactions that cannot be predicted or controlled, and that attempting to fix symptoms only deepens the crisis.
 
 ## The Cascade Chain
 
@@ -21,11 +21,7 @@ Fukuoka traces the collapse through a series of cause-and-effect linkages, each 
 - Species of economic value — specifically pine and cedar — are planted in large numbers.
 - This is called "forestry conservation" despite destroying the original diverse forest ecosystem.
 
-### Step 2: Forest Soil [[pdc-climate-and-microclimate]] Changes
-
-Altering tree cover produces cascading environmental changes:
-
-- **Soil characteristics change**: Different tree species produce different [[fungal-succession-leaf-litter]], root exudates, and mycorrhizal associations.
+### Step 2: Forest Soil [[fungal-succession-leaf-litter]], root exudates, and mycorrhizal associations.
 - **Understory plants and animals shift**: The plants and animals adapted to the original mixed forest disappear or decline.
 - **Air and temperature qualities change**: The microclimate of the forest is subtly altered.
 - **Microbial world affected**: Soil microbial communities restructure in response to the new plant species and changed conditions.
@@ -43,11 +39,7 @@ Altering tree cover produces cascading environmental changes:
 ### Step 5: Nematode-Vector Pathogen Attack on Pines
 
 - Beetles carry nematodes that attack red pines.
-- The nematodes feed on parasitic Bo [[matsutake-mushroom]] e trunks of pine trees.
-
-### Step 6: Matsutake Mushroom Decline
-
-- The edible matsutake mushroom (*[[tricholoma-matsutake]]*) lives symbiotically on the roots of red pines as an ectomycorrhizal partner.
+- The nematodes feed on parasitic Bo [[tricholoma-matsutake]]*) lives symbiotically on the roots of red pines as an ectomycorrhizal partner.
 - This beneficial fungus dies off as a result of an increase in harmful Botrytis fungus in the soil.
 
 ### Step 7: Soil Acidification

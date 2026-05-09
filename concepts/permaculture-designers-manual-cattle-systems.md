@@ -3,7 +3,7 @@ title: Cattle Systems
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, animal-husbandry, livestock-health, permaculture]
+tags: [[permaculture, animal-husbandry, livestock-health, permaculture]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -105,12 +105,8 @@ Tree forage and tall grass can be hand-fed to domestic stock in dry periods.
 
 ## Related Topics
 
-- [[permaculture-designers-manual-sheep-grazing]] - Multi-species grazing systems
 - [[permaculture-designers-manual-goat-management]] - Goat integration
-- [[permaculture-designers-manual-animal-forage-systems]] - Forage design
 - [[permaculture-designers-manual-arid-climates]] - Arid zone strategies
 - Trees with livestock
-- [[soil-erosion-control]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- [[permaculture-designers-manual-strategic-planning]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]

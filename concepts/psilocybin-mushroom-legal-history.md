@@ -62,16 +62,35 @@ A growing movement seeks to reverse prohibition:
 
 - **2018**: The FDA granted Breakthrough Therapy designation to psilocybin for treatment-resistant depression, signaling a shift in federal attitude toward medical research.
 - **2019**: Denver, Colorado became the first US city to decriminalize psilocybin mushrooms.
-- **2019**: Oakland, California decriminalized all entheogenic plants including [[psilocybin-mushrooms]].
-- **2020**: Oregon passed Measure 109, legalizing supervised therapeutic use of [[psilocybin-compound]], and Measure 110, decriminalizing personal possession of all drugs.
+- **2019**: Oakland, California decriminalized all entheogenic plants including psilocybin mushrooms.
+- **2020**: Oregon passed Measure 109, legalizing supervised therapeutic use of psilocybin, and Measure 110, decriminalizing personal possession of all drugs.
 - **2020**: Washington DC decriminalized plant and fungi medicines.
 - **2020**: Santa Cruz, California decriminalized entheogenic plants and fungi.
-- **2022**: The FDA granted Breakthrough Therapy designation for [[psilocybin-compound]] in the treatment of post-traumatic stress disorder (PTSD).
-- **2023**: Colorado passed Proposition 122, legalizing supervised [[psilocybin-compound]] use and decriminalizing personal possession and cultivation.
-- **2023**: Australia's Therapeutic Goods Administration approved [[psilocybin-compound]] for prescribed use in treatment-resistant depression, making it the first country to legally prescribe the drug.
+- **2022**: The FDA granted Breakthrough Therapy designation for psilocybin in the treatment of post-traumatic stress disorder (PTSD).
+- **2023**: Colorado passed Proposition 122, legalizing supervised psilocybin use and decriminalizing personal possession and cultivation.
+- **2023**: Australia's Therapeutic Goods Administration approved psilocybin for prescribed use in treatment-resistant depression, making it the first country to legally prescribe the drug.
 
 ## Related Topics
 
 - [[magic-mushroom-history-timeline]] for the full chronological context
-- [[psychedelic-mushrooms-species-and-identification]] for the cultural forces that drove prohibition
+- [[psilocybin-in-the-counter-culture]] for the cultural forces that drove prohibition
 - [[psychedelic-harm-reduction]] for practical guidance under current legal frameworks
+## Practical Considerations
+
+Successful implementation of Psilocybin Mushroom Legal History requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

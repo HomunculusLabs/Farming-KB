@@ -18,7 +18,7 @@ Chicken tractors are portable floorless enclosures that concentrate chickens on 
 
 Both approaches seek to integrate poultry into productive landscapes, but they differ fundamentally in scale, design philosophy, and labor requirements.
 
-See [[chicken-tractor-systems]] for detailed tractor plans and [[free-range-poultry-forage-design-mollison]] for forage system design.
+See [[free-range-poultry-forage-design-mollison]] for forage system design.
 
 ## Key Differences
 
@@ -118,6 +118,5 @@ Choose the chicken tractor for immediate, concentrated impact on a small scale. 
 
 ## See Also
 
-- [[chicken-keeping]] for general poultry management
 - [[chicken-integration-permaculture-guide]] for broader strategies
 - [[pasture-management]] for rotational grazing principles

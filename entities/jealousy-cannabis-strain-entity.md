@@ -132,18 +132,12 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 ### Reported Effects (Positive)
 ## See Also
 
-- [[mochi-cannabis]]
-
 - [[jealousy]]
 
-- [[mochi-cannabis-strain]]
 - [[starfighter]]
 
-- [[gelato-cannabis]] — parent strain
 - [[girl-scout-cookies]] — foundational lineage
 - sunset sherbert — parent strain
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]] — dominant terpene
 - [[runtz-entity]] — related Cookies-family hybrid
-- [[wedding-cake-cannabis]] — another Gelato-descended strain
 - [[cannabis-sativa]] — sativa species reference
 - [[cannabis-indica]] — indica species reference

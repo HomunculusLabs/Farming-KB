@@ -16,18 +16,7 @@ sources:
 
 # Malassezia restricta
 
-**Malassezia restricta** is a lipophilic (lipid-dependent) [[basidiomycota-classification-major-clades]] yeast that is a dominant component of the human scalp microbiome and a member of the skin fungal community. See also [[malassezia-commensal-pathogenic-yeasts]]. It is one of the most abundant fungal species found on human skin, particularly on the scalp, where it can reach population densities of millions of cells per square centimeter. While typically existing as a harmless [[fungal-commensal-vertebrate-associations]], *M. restricta* is implicated in several dermatological conditions when its population becomes dysregulated. The species has also gained attention for its presence in the gut microbiomes of certain beetle species.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Malasseziomycetes
-- **Order:** Malasseziales
-- **Family:** Malasseziaceae
-- **Genus:** Malassezia
-
-The genus *Malassezia* was historically difficult to culture and study due to its lipid dependence, but molecular techniques have revolutionized understanding of its diversity. Currently, 18 species are recognized within the genus, based on a combination of morphological, physiological, and molecular criteria. *M. restricta* was described as a distinct species based on its unique molecular profile, physiological characteristics, and ecological preferences. See also [[biodiversity-yeast-diversity-ecology]].
+**Malassezia restricta** is a lipophilic (lipid-dependent) [[malassezia-commensal-pathogenic-yeasts]]. It is one of the most abundant fungal species found on human skin, particularly on the scalp, where it can reach population densities of millions of cells per square centimeter. While typically existing as a harmless [[biodiversity-yeast-diversity-ecology]].
 
 ## Morphology and Physiology
 
@@ -74,31 +63,7 @@ The most distinctive physiological characteristic of *Malassezia* species is the
 ### Pathogenesis Mechanisms
 - **Lipase Activity:** Hydrolysis of sebum lipids produces free fatty acids that are irritating to the skin
 - **Immune Activation:** *Malassezia* cell wall components (mannans, beta-glucans) can activate innate immune responses through pattern recognition receptors
-- **Biofilm Formation:** Some *Malassezia* species can form biofilms on skin surfaces, potentially contributing to pathogenicity and antifungal resistance. See [[gadd-fungal-biofilms-quorum-sensing]].
-- **Enzyme Production:** Production of proteases, phospholipases, and other enzymes may contribute to tissue damage and inflammation
-
-## Genomics
-
-The genome of *Malassezia restricta* has been sequenced:
-
-- **Genome Size:** Approximately 7 to 9 Mb, one of the smallest genomes among free-living fungi
-- **Gene Content:** Approximately 4,000 to 4,500 predicted protein-coding genes
-- **Missing Genes:** The absence of fatty acid synthase genes confirms its obligate lipid dependence. Other metabolic pathway reductions reflect its adaptation to the nutrient-rich skin surface environment
-- **Horizontal Gene Transfer:** Evidence of horizontal gene transfer from bacteria, particularly genes involved in lipid metabolism and stress tolerance
-- **Comparative Genomics:** Genome comparisons among *Malassezia* species have revealed both shared adaptations to the skin niche and species-specific differences that may underlie their distinct ecological preferences and disease associations
-
-## Antifungal Susceptibility
-
-Treatment of *Malassezia*-associated conditions involves antifungal agents:
-
-- **Topical Azoles:** Ketoconazole, clotrimazole, and miconazole are first-line treatments, available as shampoos, creams, and other topical formulations
-- **Other Topicals:** Ciclopirox olamine, selenium sulfide, zinc pyrithione, and coal tar preparations have anti-*Malassezia* activity and are used in dandruff treatment
-- **Oral Therapy:** For severe or refractory cases, oral itraconazole or fluconazole may be used
-- **Maintenance Therapy:** Many *Malassezia*-associated conditions are chronic and require long-term maintenance therapy to prevent recurrence
-
-## Research Directions
-
-- **Microbiome Studies:** Metagenomic and metatranscriptomic analyses are elucidating the interactions between *M. restricta*, other skin microorganisms, and the host immune system. See [[fungal-commensal-vertebrate-associations]].
+- **Biofilm Formation:** Some *Malassezia* species can form biofilms on skin surfaces, potentially contributing to pathogenicity and antifungal resistance. See [[fungal-commensal-vertebrate-associations]].
 - **Strain-Level Diversity:** Multilocus typing and whole-genome sequencing are revealing previously unrecognized strain-level diversity within *M. restricta*
 - **Functional Genomics:** RNA sequencing and proteomic studies are characterizing the gene expression programs of *M. restricta* under different skin conditions
 - **Probiotic Approaches:** Investigation of bacterial probiotics that can modulate *Malassezia* populations on the skin
@@ -130,8 +95,6 @@ The economic significance of *Malassezia*-associated scalp conditions is conside
 
 ## See Also
 
-- [[malassezia-commensal-pathogenic-yeasts]]
 - [[fungal-commensal-vertebrate-associations]]
-- [[basidiomycota-classification-major-clades]]
 - [[biodiversity-yeast-diversity-ecology]]
 - [[gadd-fungal-biofilms-quorum-sensing]]

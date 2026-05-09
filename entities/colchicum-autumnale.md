@@ -31,11 +31,7 @@ perennial herbaceous plant in the family Colchicaceae (formerly Liliaceae).
 Native to Europe and the British Isles, it is one of the most pharmacologically
 significant toxic plants in Western herbal tradition.
 
-The plant produces colchicine, a potent alkaloid used for over 1,500 years to
-treat gout flares. Despite its medicinal value, all parts of the plant are
-highly toxic, and colchicine has a narrow therapeutic index.
-
-Confusion with true saffron (*Crocus sativus*) has historically caused
+The plant produces [[crocus-sativus]]*) has historically caused
 fatal poisonings, as the two plants share the common name "saffron" and bloom
 at similar times in some regions.
 
@@ -135,16 +131,17 @@ handling. Never grow near vegetable gardens or areas accessible to children.
 The autumn crocus is not a true crocus (*Crocus* spp.). True autumn crocuses
 (*C. speciosus*, *C. sativus*) belong to Iridaceae and do not contain
 colchicine. Historical confusion with saffron has caused fatal poisonings.
-
 ## See Also
-
-- [[herbal-medicine-making-basics]]
 
 - [[fungal-poisons-and-toxicology]]
 
-[[colchicine]]
+colchicine
 crocs sativus
 gout
 tubulin
 mitotic inhibitor
 familial mediterranean fever
+
+## See Also
+
+- [[plants-of-the-gods-claviceps-ergot-alkaloids]]

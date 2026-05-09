@@ -76,9 +76,7 @@ Powell repeatedly emphasizes the significance of psilocybin being a naturally oc
 ## See Also
 
 - psilocybin vs other psychedelics
-- [[psychedelic-dose-response]]
 - [[tryptamine-family-overview]]
-- [[beta-carboline-chemistry]]
 - [[archaic-revival-philosophy]]
 
 ## Merged: [[psilocybin-neuroscience]]: 5-HT2A and the Raphe System

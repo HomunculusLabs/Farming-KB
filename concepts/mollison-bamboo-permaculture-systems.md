@@ -91,49 +91,6 @@ self-sown weeds with very little help or none at all.
 
 ## Integration in Tropical Polycultures
 
-In the [[mollison-tropical-and-coastal-permaculture-design]], a pioneer crop of quick-growing tree Acacias,
-bananas, legumes such as lablab, deep-rooting comfrey, and a
-grove of bamboo and palms will provide continuous mulch for
-gardens and main crops, fruit trees and valued plants. Bamboo
-and palm fronds, along with grasses, Vetiver grass, comfrey,
-Aleurites species, and Cinnamomum species form the mulch crop
-and fodder plantings above the borders of terrace systems.
-
-Bamboo on borders provides trellis material for vine crop off
-bund faces, along with rot-resistant timbers. Chayote,
-cucurbits, beans, passionfruit, and kiwifruit can all be
-trained on bamboo supports. The stems serve as poles, stakes,
-and construction elements throughout the tropical and
-subtropical garden system.
-
-In bamboo nursery operations, together with canegrasses and
-large clump grasses, this is identified as a currently
-neglected forestry enterprise. The divisions are among the
-first plants set out on newly prepared house sites or
-earthworks, competing very well with self-sown weeds with
-very little help or none at all. A broadscale scatter of mixed
-seed, raked in, will prepare the way for permanent placements.
-
-## Fire Management
-
-For fire control, it pays to rake under bamboo and clump canes,
-and re-route the leaf mulch through animal bedding or poultry
-strawyards. Branches of legumes and forage trees may also be
-used in the same way, on their path to the garden. While bamboo
-groves can carry fire in dry conditions, their green interior
-growth and the mulch management practices recommended by
-Mollison reduce this risk significantly.
-
-## Multi-Functional Design
-
-As a fast-growing, clump-forming grass, bamboo fits into many
-niches in the permaculture landscape. It serves as a living
-fence, a windbreak, a mulch source, a structural material, an
-erosion control plant, and a wildlife habitat. Its rapid growth
-and perennial nature make it ideal for the early phases of
-system establishment, where quick canopy closure and soil
-protection are priorities.
-
 In the [[mollison-tropical-earth-shaping-polyculture-economics]] context, bamboo divisions, banna grass, pampas
 grass, aloes, agave, and New Zealand hemp are all recommended
 for immediate planting on newly prepared slopes to prevent
@@ -141,7 +98,5 @@ erosion and invasion by unwanted volunteer plants.
 
 ## See Also
 
-- [[mollison-earth-constructs-and-banks]]
 - [[mollison-hedgerow-barrier-species-selection]]
-- [[mollison-windbreak-design]]
 - [[mollison-terracing-slope-management]]

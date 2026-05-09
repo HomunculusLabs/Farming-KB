@@ -119,15 +119,8 @@ Because of the presence of several phenolic alkaloids, peyote cacti do not spoil
 and may be kept in their fresh form for several weeks after harvesting. For longer
 storage they must be refrigerated, frozen, or dried. The enzymes which cause the
 harvested plant to eventually decompose also destroy the mescaline and other alkaloids.
-- [[psychoactive-cacti-of-central-mexico]]
 - [[mescaline-peyote-san-pedro-cactus]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[psychoactive-cacti-species-reference]]
-- [[mescaline-peyote-and-san-pedro-guide]]
-
-## See Also
-
 - [[gottlieb-peyote-legal-status-and-conservation]]
-- [[gottlieb-peyote-cultivation-from-seed]]
 - [[gottlieb-peyote-traditional-use-and-history]]
 - [[gottlieb-peyote-extraction-and-preparation-methods]]

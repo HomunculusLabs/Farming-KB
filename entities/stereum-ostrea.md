@@ -25,29 +25,7 @@ created: 2026-04-28
 
 It is among the most widespread wood-decay fungi in temperate and subtropical forests worldwide, fruiting as semicircular to fan-shaped shelves on dead hardwood.
 
-Despite its resemblance to **[[trametes-versicolor]]**, S. ostrea is readily distinguished by its smooth hymenium (lacking pores) and tendency to form tightly adnate, zonate fruiting bodies that curl away from the substrate.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Russulales
-- Family: Stereaceae
-- Genus: Stereum
-- Species: S. ostrea
-
-**Authority:** (Blume & T. Nees) Fr. (1838).
-
-**Synonyms:** S. hirsutum var. ostrea (Blume & T. Nees) Sacc., Thelephora ostrea Blume & T. Nees.
-
-**Fruiting body:** Semiflattened to reflexed, 1–6 cm wide, fan-shaped or dimidiate, typically overlapping in dense clusters.
-
-**Upper surface (pileus):** Hairy to tomentose when young, becoming glabrous with age. Concentrically zonate in shades of ochre, tan, brown, and orange-brown.
-
-**Hymenium (fertile surface):** Smooth to wrinkled, lacking pores or gills. Pale cream to buff, bruising reddish-brown. This is the key diagnostic character separating Stereum from pore-forming genera like **[[trametes-hirsuta]]**.
+Despite its resemblance to **[[trametes-hirsuta]]**.
 
 **Flesh:** Tough, leathery, and corky. 0.5–2 mm thick, indistinctly two-layered. No distinctive odor.
 
@@ -65,7 +43,7 @@ Common substrates include fallen branches, standing dead trunks, and cut logs of
 
 Fruiting occurs year-round in mild climates but peaks in autumn through early spring in temperate zones.
 
-It frequently co-occurs with **[[trametes-ochracea]]** and **[[coriolopsis-gallica]]** on the same logs, forming mixed decomposer communities.
+It frequently co-occurs with **[[coriolopsis-gallica]]** on the same logs, forming mixed decomposer communities.
 
 ## Ecology and Pathogenicity
 
@@ -83,17 +61,11 @@ Its enzymatic profile has attracted research interest for bioremediation of lign
 
 ## Similar Species
 
-S. ostrea is most commonly confused with **[[trametes-versicolor]]** (true turkey tail).
-
-Key distinction: T. versicolor has a pored hymenium, while S. ostrea has a smooth hymenium.
-
-**[[stereum-hirsutum]]** is very similar but typically has a more distinctly hairy upper surface and occurs more commonly on conifer wood.
+S. ostrea is most commonly confused with **[[stereum-hirsutum]]** is very similar but typically has a more distinctly hairy upper surface and occurs more commonly on conifer wood.
 
 S. ostrea tends toward broader, more fan-shaped fruiting bodies on hardwoods.
 
-**[[trametes-trogii]]** has larger pores and a more robust, triquetrous fruiting body.
-
-**[[xylaria-polymorpha]]** (dead man's fingers) is morphologically distinct but may share similar substrates.
+**[[xylaria-polymorpha-entity]]** (dead man's fingers) is morphologically distinct but may share similar substrates.
 
 Microscopically, Stereum species lack clamp connections, which separates them from many lookalike crust fungi.
 
@@ -111,11 +83,7 @@ Dye extraction from S. ostrea fruiting bodies yields tan-to-brown colorants, sim
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[stereum-hirsutum]]
-- [[trametes-hirsuta]]
 - [[coriolopsis-gallica]]
-- [[ganoderma-applanatum]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[fomes-fomentarius]]
+- [[laetiporus-sulphureus]]
 - [[trametes-trogii]]

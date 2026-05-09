@@ -347,7 +347,7 @@ While the pairwise coevolution model (one plant species coevolving with one disp
 
 ### Anachronistic Fruits
 
-The concept of anachronistic fruits, developed by Daniel Janzen and Paul Martin in the 1980s, proposes that some modern fruit traits are evolutionary "ghosts" — adaptations to dispersers that have gone extinct. The most famous example is the avocado (*[[persea-americana-entity]]*), which produces an enormous, lipid-rich fruit that appears adapted for dispersal by very large Pleistocene mammals (gomphotheres, giant ground sloths) that went extinct approximately 10,000–13,000 years ago.
+The concept of anachronistic fruits, developed by Daniel Janzen and Paul Martin in the 1980s, proposes that some modern fruit traits are evolutionary "ghosts" — adaptations to dispersers that have gone extinct. The most famous example is the avocado (*[[persea-americana]]*), which produces an enormous, lipid-rich fruit that appears adapted for dispersal by very large Pleistocene mammals (gomphotheres, giant ground sloths) that went extinct approximately 10,000–13,000 years ago.
 
 Other putative anachronistic fruits include:
 

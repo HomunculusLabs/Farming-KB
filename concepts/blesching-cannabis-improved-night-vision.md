@@ -55,33 +55,7 @@ effect on retinal function suggests potential therapeutic applications not only
 for night vision enhancement but possibly for retinitis pigmentosa and other
 retinal degenerative conditions.
 
-The [[blesching-endocannabinoid-system-overview]] in the eye is an emerging
-area of research that may have implications for multiple ocular conditions
-including [[blesching-cannabis-age-related-macular-degeneration]] and
-[[blesching-cannabis-glaucoma]].
-
-## Mind-Body Medicine and Night Vision
-
-Deep relaxation increases parasympathetic tone and with it the dilation of the
-pupils, allowing more light to enter. This natural mechanism may complement
-the cannabinoid-mediated improvements in scotopic (low-light) sensitivity.
-
-The capacity to see in the dark carries metaphorical significance in many
-traditions -- the ability to perceive what is hidden, to navigate uncertainty,
-and to find one's way when external illumination is unavailable. Cannabis has
-been used in various shamanic and spiritual traditions to enhance perception
-and awareness, including in low-light or altered states of consciousness.
-
-Consider that relaxation techniques, breathwork, and mindfulness practices can
-also support enhanced sensory perception by reducing sympathetic nervous system
-activation and allowing the pupils to dilate naturally.
-
-## Strain-Specific Considerations
-
-The study examined oral THC (Marinol) and smoked kif. THC binds relatively
-equally with both CB1 and CB2 receptors. Sativas and sativa-dominant strains
-generally contain a higher THC:CBD ratio, which may favor the CB1-mediated
-effects observed in retinal tissue. See
+The [[blesching-cannabis-age-related-macular-degeneration]] and
 [[blesching-cannabis-dosing-strategies]] for detailed guidance.
 
 ## Potential Applications
@@ -115,15 +89,8 @@ cannabis tinctures reported improved night vision that facilitated their work.
 ## Broader Ophthalmological Implications
 
 The finding that cannabinoids affect retinal function has implications beyond
-night vision. The [[blesching-endocannabinoid-system-overview]] in the eye may
-play roles in:
-
-- Protecting retinal cells from light-induced damage
-- Modulating intraocular pressure (relevant to
-  [[blesching-cannabis-glaucoma]])
-- Reducing retinal inflammation (relevant to [[blesching-cannabis-uveitis]])
-- Supporting retinal pigment epithelial cell health (relevant to
-  [[blesching-cannabis-age-related-macular-degeneration]])
+night vision. The [[blesching-cannabis-glaucoma]])
+- Reducing retinal inflammation (relevant to [[blesching-cannabis-age-related-macular-degeneration]])
 - Potentially slowing retinal degenerative diseases
 
 ## Clinical Considerations

@@ -22,33 +22,6 @@ approaches are frequently combined for maximum remediation effectiveness.
 
 ## Bioaugmentation
 
-[[bioaugmentation-strategies]]
-
-Bioaugmentation involves the controlled addition of specific microorganisms to
-contaminated environments to enhance the degradation, transformation, or
-immobilization of pollutants. The introduced organisms augment the metabolic
-capabilities of the indigenous microbial community, providing catabolic pathways or
-enzymatic activities that may be absent or insufficient in the native population.
-
-The fundamental rationale is that indigenous communities may lack the genetic
-potential to degrade certain contaminants, possess the genes but express them
-insufficiently, or face contaminant concentrations exceeding their tolerance. This
-occurs when contaminants are synthetic (xenobiotic) with no natural microbial
-degraders, when contamination is acute and overwhelms native populations, or when
-environmental conditions are suboptimal for native degrader activity.
-
-Approaches include single-strain inoculation (introducing one demonstrated strain),
-consortium inoculation (mixtures of complementary strains), genetically modified
-organisms engineered with specific catabolic genes, and biofilm-based systems using
-immobilized cells on carriers. Introduced organisms must survive, establish, and
-express degradative functions under site-specific conditions, which remains the
-primary challenge. Carrier materials like biochar, alginate beads, and clay minerals
-improve survival rates. Bioaugmentation has been applied successfully to petroleum
-hydrocarbons, chlorinated solvents, explosives (TNT), pesticides, and polycyclic
-aromatic hydrocarbons.
-
-## Biostimulation
-
 [[biostimulation-techniques]]
 
 Biostimulation involves stimulating the indigenous microbial population at a
@@ -124,8 +97,6 @@ creates the conditions for that capability to be expressed.
 
 ## See Also
 
-- [[mycoremediation-basics]]
 - [[phytoremediation]]
-- [[rhizofiltration]]
 - [[white-rot-fungi]]
 - [[comparison-biochar-vs-mycoremediation]]

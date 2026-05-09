@@ -133,18 +133,11 @@ mycorrhizal formation and function.
 | Year | Researchers | Finding |
 |------|------------|---------|
 | 1990 | Rühling and Söderström | L. laccata is the most heavy metal tolerant ECM fungus |
-| 1994 | Seegmüller and Rennenberg | Synergistic growth with oak under elevated CO2 |
 ## See Also
-
-- [[biodiversity-fungi-ectomycorrhizal-diversity]]
 
 - [[mycorrhiza]]
 
-- [[laccaria-bicolor]]
-
 - [[paxillus-involutus]] - fellow ectomycorrhizal species, poor nematode food source
-- [[pisolithus-tinctorius]] - ectomycorrhizal species used in mine reclamation
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal species with strong organic N utilization
-- [[suillus-bovinus]] - ectomycorrhizal species with mineral weathering capacity
 - [[cenococcum-geophilum]] - widely distributed ectomycorrhizal fungus
 - [[mycena-galopus]] - saprotrophic fungus that competitively suppresses decomposition

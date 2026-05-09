@@ -53,30 +53,12 @@ Some compression of the straw into the container is desirable because cropping e
 
 The most frequent issue with straw pasteurization is insufficient drainage after the hot water bath. Straw that retains too much water creates anaerobic zones where bacteria thrive and mycelium cannot grow. A simple squeeze test should yield only a few drops of water from a handful of straw. Another common problem is using straw that is too old or moldy. Fresh, bright golden straw with no visible mold or darkening produces the best results.
 
-Contamination during spawning is also common because straw substrates are spawned in open air. Working quickly, using a high spawn rate (10-20% by volume), and maintaining a clean work area all help reduce contamination rates. See [[mushroom-contamination-control-strategies]] for detailed spawning hygiene practices.
-
-## Hot Water Bath Method
-
-The hot water bath is the most accessible pasteurization method for small-scale growers:
-
-1. **Prepare straw:** Cut wheat or oat straw into 2-4 inch pieces. Remove any seed heads or grain. Soak straw in clean water for 12-24 hours to fully hydrate — dry straw floats and won't pasteurize evenly.
-2. **Prepare water bath:** Fill a large container (55-gallon drum, cooler, or stock pot) with water. Heat to 160-170°F (71-77°C). A propane burner or turkey fryer works well for this purpose.
-3. **Submerge straw:** Place hydrated straw in a mesh bag or wire basket for easy removal. Submerge completely in the hot water bath. Use a weight to keep it from floating.
-4. **Maintain temperature** at 160-170°F for 60-90 minutes. Use a thermometer to monitor. If temperature drops below 150°F, beneficial thermophilic organisms may not establish properly. If it exceeds 180°F, you risk killing too many beneficials and creating a sterile (not pasteurized) substrate.
-5. **Drain and cool:** Remove straw and spread on a clean surface. Drain for 30-60 minutes until no water drips freely. The straw should be at field capacity — squeeze firmly and only a few drops of water should emerge. Target core temperature below 90°F before spawning.
-
-This method is described in detail in Pasteurization Vs Sterilization alongside the key differences between pasteurization and full sterilization.
-
-## Lime Bath Method
-
-The cold lime pasteurization method eliminates the need for heat entirely, making it popular with off-grid and low-energy growers:
-
-1. **Mix lime solution:** Add hydrated lime (calcium hydroxide) to water at a rate of 1 cup per 10 gallons of water. Stir thoroughly to dissolve. The high pH (10-12) kills most contaminants while leaving beneficial [[fungi-in-composting-and-agricultural-waste-conversion]] relatively unharmed.
+Contamination during spawning is also common because straw substrates are spawned in open air. Working quickly, using a high spawn rate (10-20% by volume), and maintaining a clean work area all help reduce contamination rates. See [[fungi-in-composting-and-agricultural-waste-conversion]] relatively unharmed.
 2. **Soak straw:** Submerge cut, hydrated straw in the lime solution for 12-18 hours. Weight down to ensure full submersion.
 3. **Drain and rinse (optional):** Some growers rinse with clean water to reduce pH; others proceed directly. Rinsing helps if the straw will be used with sensitive species, but adds a contamination risk from rinse water.
 4. **Drain to field capacity** as described above.
 
-The lime bath method is particularly effective for [[oyster-mushroom-substrate-preparation]] and [[straw-cultivation-methods]], as Pleurotus species tolerate higher pH levels well.
+The lime bath method is particularly effective for [[straw-cultivation-methods]], as Pleurotus species tolerate higher pH levels well.
 
 ## Drum Pasteurization
 
@@ -95,15 +77,8 @@ For medium-scale operations, a 55-gallon drum provides an efficient pasteurizati
 - **Inconsistent hydration** causes dry pockets where mycelium cannot colonize and wet pockets where anaerobic bacteria thrive. Always check field capacity in multiple spots after draining.
 - **Recontamination during cooling** is the most common failure point. Cool in a clean environment with filtered air or a covered space. Never cool on dirty ground or near compost piles.
 
-For the complete substrate preparation workflow, see [[bulk-substrate-preparation]] and [[grain-spawn-preparation]]. For contamination identification after pasteurization, see [[mushroom-cultivation-pests-and-contamination]].
-
-## Related
-
-- [[mushroom-pasteurization]]
-- [[bulk-substrate-preparation]]
+For the complete substrate preparation workflow, see [[grain-spawn-preparation]]. For contamination identification after pasteurization, see [[mushroom-pasteurization]]
 - [[mushroom-substrate-supplementation]]
-- [[straw-cultivation-methods]]
 - [[pasteurization-vs-sterilization]]
-- [[oyster-mushroom-substrate-preparation]]
 - [[monotub-cultivation]]
 - [[bulk-substrate-field-capacity]]

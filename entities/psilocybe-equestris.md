@@ -142,9 +142,8 @@ jurisdictions, including the United States under the Controlled
 Substances Act. The species is therefore illegal to possess, cultivate,
 or distribute in most countries. Legal status varies by jurisdiction;
 some countries and municipalities have decriminalized or deprioritized
-enforcement for personal possession of psilocybin mushrooms.
 ## See Also
-- [[psilocybe-semilanceata]]
 - [[psilocybe-pelliculosa-profile]]
-- [[psilocybe-strictipes-entity]]
 - [[psilocybe-cyanescens]]
+
+See also: [[psychedelic-mushrooms-species-and-identification]]

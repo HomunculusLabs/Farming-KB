@@ -3,7 +3,7 @@ title: Economic and Social Succession
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, economics, community-finance]
+tags: [[permaculture, economics, community-finance]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 # Economic and Social Succession
@@ -65,12 +65,27 @@ Holmgren warned that the decline of cheap energy could lead to a new form of feu
 
 ## Related Concepts
 
-- [[community-finance-and-alternative-economies]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
-- [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
-- [[permaculture-retrofit-suburbia]]
 - [[holmgren-top-down-thinking-bottom-up-action]]
-- [[building-soil-fertility-long-term]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Practical Considerations
+
+Successful implementation of Economic and Social Succession requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

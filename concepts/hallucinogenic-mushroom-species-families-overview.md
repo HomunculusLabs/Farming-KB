@@ -140,8 +140,6 @@ boundaries within the Psilocybe genus in particular.
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-european-species-distribution]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
-- [[oyster-mushroom-species-overview]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[psilocybin-mushroom-species-overview]]

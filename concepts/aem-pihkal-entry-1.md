@@ -116,8 +116,6 @@ elongation.
 
 ## See Also
 
-- [[pihkal-mescaline]]
 - [[pihkal-mescaline-analogs]]
-- [[mescaline-derivatives-pihkal]]
 - [[pihkal-introduction-and-methodology]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]

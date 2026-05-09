@@ -110,26 +110,12 @@ While Syrian Rue is the most well-known Old World plant containing
 beta-carboline MAOI alkaloids, other plants in the same chemical category
 exist. *Banisteriopsis caapi* and related species from the Amazon are the
 most important New World MAOI plants, used as the basis of ayahuasca. See
-[[golden-guide-ayahuasca-and-caapi]] for detailed information on these
-species. The presence of beta-carboline alkaloids across such widely
-separated plant families and geographical regions raises interesting
-questions about the evolutionary pressures that led to the independent
-development of these compounds.
+[[plants-gods-syrian-rue]]
 
-## See Also
-
-- [[plants-gods-syrian-rue]]
-
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-ayahuasca-and-caapi]]
-- [[golden-guide-hallucinogenic-plants-dmt-containing-species]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
-- [[golden-guide-datura-and-nightshade-deliriants]]
+- [[beta-carboline-alkaloids]], [[ayahuasca-botany-and-preparation]], [[syrian-rue-peganum-harmala-ethnobotany]] for related chemistry and ethnobotany.
 
-See also [[beta-carboline-alkaloids]], [[ayahuasca-pharmacology]], [[ayahuasca-botany-and-preparation]], [[tryptamine]], and [[syrian-rue-peganum-harmala-ethnobotany]] for related chemistry and ethnobotany.
-
-[[harmala-alkaloids]] — detailed chemistry of harmine, harmaline, and related beta-carboline compounds
 [[mao-inhibitors-and-psychedelics]] — pharmacology of MAO inhibition and its interaction with psychedelic tryptamines
-[[ayahuasca-preparation-and-ceremony]] — traditional Amazonian ayahuasca practices and the role of beta-carboline vines
 [[naranjo-harmaline-yage-experiment]] — Claudio Naranjo's clinical research on harmaline and its visionary effects
 [[ethnobotany-of-psychedelic-fungi]] — broader ethnobotanical context for psychoactive plant use across cultures

@@ -111,8 +111,6 @@ FPJ is normally used at a dilution of **1:800 to 1:1000** in water. When combine
 
 ## See Also
 
-- [[knf-fermented-fruit-juice]]
 - [[natural-farming-lab-preparation]]
-- [[natural-farming-imo-collection-and-cultivation]]
 - [[natural-farming-knf-overview]]
 - [[natural-farming-ohn-preparation]]

@@ -127,10 +127,7 @@ Clarke's strongest contributions are explanatory, historical, and botanical.
 
 ## See Also
 
-- [[jorge-cervantes]]
 - [[cannabis-botany-and-taxonomy]]
-- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
 - [[clarke-marijuana-botany-flowering-and-photoperiodism]]
-- [[cannabis-sexual-propagation-genetics]]
 - [[cannabis-hashish-production]]
 - [[cannabis-phenotype-and-genotype-guide]]

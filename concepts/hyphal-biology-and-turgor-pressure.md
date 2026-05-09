@@ -68,17 +68,13 @@ A Michigan specimen covered 15 hectares, and an English individual in
 the Peak District has been estimated to weigh roughly 100 tons.
 
 These organisms spread through forests for thousands of years, feeding
-on organic matter in the soil and invading tree roots. Mycelia
+on org anic-matter in the soil and invading tree roots. Mycelia
 typically adopt a toroidal (doughnut-shaped) growth pattern, expanding
 outward from their origin and leaving dead cells at the center.
 
 This pattern is responsible for fairy rings in pastures and lawns,
 where mushrooms appear annually above the active growing perimeter of
-the mycelium.
-
-## Invasive Growth and Mechanical Force
-
-Fungal hyphae grow by extending their tips and branching to form new
+the [[fungal-hyphae]] grow by extending their tips and branching to form new
 filaments. This tip growth is driven by the polarized delivery of
 membrane-bound vesicles to the hyphal apex, where they fuse with the
 plasma membrane, adding new cell surface and releasing enzymes and
@@ -142,8 +138,5 @@ injury site, demonstrating a surprising level of irritability for an
 organism lacking a nervous system.
 ## Related Topics
 
-- [[fungal-spore-discharge-mechanisms]]
 - [[human-fungal-pathogens]]
-- [[aquatic-fungi-and-zoospore-biology]]
-- fungal melanism and stress resistance
-- mushroom fruiting body development
+- [[fruiting-body-development]]

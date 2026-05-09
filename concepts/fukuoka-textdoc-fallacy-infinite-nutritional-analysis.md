@@ -84,47 +84,6 @@ A year-round supply of high-grade meat, eggs, milk, bread, vegetables and other 
 
 Can we really have a balanced diet by gathering together many different foods at all times of the year, as if there were no seasons? The plants of the mountains and streams always grow and mature while maintaining the best possible nutrient balance. Out-of-season vegetables and fruit are unnatural and incomplete.
 
-The eggplants, tomatoes, and cucumbers grown by natural farming methods under the open sun twenty or thirty years ago are no longer to be found. Without a distinct fall or winter it is hardly surprising that the eggplants and tomatoes produced in greenhouses no longer have the flavor or fragrance they used to. One should not expect these to be packed with vitamins and minerals.
-
-Scientists see themselves as working to ensure that people get all the nourishment they need anywhere and anytime, but this is having the opposite effect of making it increasingly difficult to obtain anything but incomplete nourishment. Nutritionists are unable to grasp the root cause of this contradiction for they do not suspect that the first cause for error lies in the analysis of nutrition and the combination of different nutrients.
-
-## The Complete Food Delusion
-
-A complete food for man that includes all the necessary nutrients in sufficient quantity must, in addition to containing every one of the components in the roots, leaves, and fruits of vegetation growing on the earth, in the flesh of all birds and beasts, fish and shellfish, and in all grains, must also have added to it some as yet unknown ingredients.
-
-Creating such a complete food would require incredibly huge expenditures of capital for research and production, not to mention long hours and great labor in sophisticated plants. The end product would be horrendously expensive, and far from being as compact as a pill, would probably be extremely bulky.
-
-## Craving-Driven Development: The Infinite Spiral
-
-The desire to create ever more refined, "complete" foods is itself driven by craving — the very thing a proper diet is supposed to resolve. When food is developed to satisfy artificial appetites rather than genuine bodily need, each new product generates a new craving, which in turn demands a new product. This is the infinite spiral that nutritional science has set in motion.
-
-First we remove the bran from rice because white rice is softer and more pleasant. Then we discover we have lost vitamins, so we fortify the white rice with synthetic nutrients. Then we find the synthetic nutrients are not absorbed properly, so we develop new delivery methods. Each correction produces a new deficiency; each remedy breeds a new problem.
-
-The food industry, rather than questioning the fundamental direction, simply accelerates the cycle. New flavor enhancers compensate for the tastelessness of processed ingredients. New preservatives extend shelf life so that out-of-season food can be shipped globally. New marketing campaigns convince consumers that the latest product is healthier than the last.
-
-This is not progress toward a complete diet but a retreat into ever-greater fragmentation. The more we analyze, the more components we discover we are missing. The more components we isolate, the further we drift from the wholeness that was always available in a simple bowl of brown rice.
-
-## The Instant Food Trap
-
-Some even expect to see the day when one small food tablet a day will fill the stomach and sustain physical health. What utter nonsense. This "instant" food that panders to consumer cravings and was created for greater rationality and convenience in the diet has already deviated far from its original goal.
-
-Food today is thought of less as something that supports life than as something to please the human palate and titillate the senses. Because it is "convenient" and "quick and easy to prepare," it is highly valued and produced in large quantities.
-
-The problem with instant and processed foods runs deeper than mere nutritional deficiency. These foods sever the connection between eater and source. When a meal arrives in a plastic wrapper from a factory on another continent, there is no relationship to the soil, the season, or the farmer who grew it. The act of eating becomes mere consumption rather than communion with nature.
-
-Processed foods also disrupt the body's innate ability to regulate appetite. Engineered combinations of salt, sugar, and fat override the natural signals of hunger and satiety, leaving the eater perpetually unsatisfied. No amount of fortification or enrichment can restore what was lost when food ceased to be whole.
-
-## The Path Back to Wholeness
-
-People must realize that a diet of surfeit which relies on foods from far-off lands leads the world astray and invites human ills. The proper path is to eat cooked and salted food, to consume all things in moderation, to gather foods of the seasons that grow close at hand.
-
-What one must then do is to devote oneself fully to the principles of holism, the inseparability of the body from the land, and a simple local diet. This means not only changing what we eat but changing how we think about food — moving from a mindset of calculation and control to one of trust and participation in the natural order.
-
-All things exist in nature. Nothing is lacking; nothing is present in excess. The foods of nature are complete and whole in and of themselves. It should always be remembered that nature too is a single, harmonious whole, ever complete and perfect.
-
-## See Also
-
-- [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
-- [[fukuoka-textdoc-matter-spirit-unity-food]]
+The eggplants, tomatoes, and cucumbers grown by [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]

@@ -14,21 +14,7 @@ sources:
 type: concept
 ---
 
-# [[dark-septate-endophytes]] and Root-Colonizing Fungi
-
-Dark septate endophytes (DSE) and other nonmycorrhizal root-colonizing
-fungi represent a widespread but poorly understood guild of
-symbiotic microfungi. These fungi form melanized, septate hyphae
-within root tissues of plants ranging from alpine perennials to
-forest trees. Their ecological roles span mutualism, commensalism,
-and latent pathogenicity, and they may be among the most abundant
-and broadly distributed root-associated fungi on Earth.
-
-## Definition and Characteristics
-
-Dark septate endophytes are characterized by melanized, septate
-hyphae that colonize root cortices and sometimes vascular tissue.
-Unlike [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], they do not form specialized nutrient-exchange
+# [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], they do not form specialized nutrient-exchange
 structures such as arbuscules. Instead, hyphae in roots appear
 rhizoctonialike with "monilioid hyphae" (barrel-shaped cells
 resembling those of Rhizoctonia) and frequently produce a loose
@@ -84,37 +70,7 @@ of Mycelium radicis atrovirens and Penicillium species.
 Holdenrieder and Sieber (1992) compared populations of endophytic
 fungi colonizing Picea abies roots in relation to site and soil
 characteristics. Of 120 taxa recovered, MRA, Penicillium species,
-[[cylindrocarpon-destructans]], and Cryptosporiopsis species were
-isolated most frequently.
-
-## Host Range and Specificity
-
-Host range is apparently broad, based on inoculation studies. P.
-fortinii and MRA have been isolated from roots of hardwoods
-(Fagus sylvatica), conifers (Abies alba, Picea abies, Pinus
-sylvestris, P. resinosa, P. contorta), and various alpine
-perennials. This broad distribution suggests DSE are generalist
-root colonists rather than host specialists.
-
-## Ectomycorrhizalike Structures
-
-Hyphae associated with conifer hosts sometimes form
-ectomycorrhizalike structures in which the intercellular colony
-resembles a Hartig net. Root morphology, depending on the extent
-of fungal infection, is described as ectomycorrhizal,
-ectendomycorrhizal, pseudomycorrhizal, nonmycorrhizal, or
-possibly pathogenic. Species designations are based on
-morphotypes, which are not very informative.
-
-## Identification Challenges
-
-The paucity of morphological characters and difficulty of inducing
-sporulation in root fungi contribute substantially to
-identification problems. A current trend is to use biochemical
-or genetic markers to distinguish host- or site-specific strains.
-This approach is exemplified by restriction-fragment-length
-polymorphism analyses of sterile P. fortinii isolates from various
-alpine hosts and of E-strain [[mycorrhizal-fungi]].
+[[mycorrhizal-fungi]].
 
 Sterile, basidiomycetous root endophytes have been reported but
 typically are not melanized. Too little is known about basidiomycete
@@ -123,27 +79,4 @@ involvement in DSE communities to generalize.
 ## Ecological Significance
 
 The ecological role of most DSE species remains unknown, although
-some may form [[mycorrhizal-pathogen-resistance-mechanisms]] or be
-root pathogens. Inoculation experiments on host responses to MRA
-infections have produced contradictory and inconclusive results
-ranging from beneficial to pathogenic.
-
-In addition to ericoid hosts, P. fortinii and MRA commonly are
-isolated from roots of hardwoods and conifers, suggesting these
-fungi play important but poorly understood roles in forest root
-communities. Their abundance, geographic range, and host breadth
-indicate they may be one of the most significant groups of root-
-associated fungi in terrestrial ecosystems.
-
-## Endophytic Penicillia
-
-Penicillium nodositatum forms specialized root associations
-("myconodules") with Alnus incana and A. glutinosa. These
-structures resemble actinorhizae but are confined to the outer
-cortical root layer. The fungus invades and eventually kills
-cortical cells as its branched hyphal mass expands. P. janczewskii
-reportedly forms similar structures on A. glutinosa.
-
-## See Also
-
-- [[dark-septate-endophytes-stressed-environments]]
+some may form [[dark-septate-endophytes-stressed-environments]]

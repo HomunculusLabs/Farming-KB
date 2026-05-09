@@ -130,12 +130,7 @@ in storage as their ever-expanding root systems explore new territory.
 
 ## Related
 
-- [[solomon-gardening-pest-philosophy-and-resilience]] Concepts
-
 - [[solomon-watering-and-dry-farming]]
-- [[solomon-irrigation-water-scarce]]
 - [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-rainwater-harvesting-for-gardens]]
 - [[solomon-weed-management-without-chemicals]]
-- [[water-conservation]]
 - [[mycorrhizal-drought-and-temperature-tolerance]]

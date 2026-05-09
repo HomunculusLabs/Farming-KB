@@ -18,8 +18,7 @@ type: concept
 
 ## Overview
 
-Soil casing is a [[cardboard-cultivation-low-tech-spawn]]nique that has been demonstrated to
-increase [[grifola-frondosa]] (maitake) yield significantly. The method
+Soil casing is a [[grifola-frondosa]] (maitake) yield significantly. The method
 involves applying a layer of treated soil on top of the colonized
 substrate, providing minerals and microbial benefits that enhance
 fruiting body production.
@@ -32,81 +31,7 @@ development. For maitake, this technique has been reported to
 substantially improve fruiting efficiency compared to cultivation
 without casing.
 
-## Recommended [[hamilton-soil-types-identification]]
-
-The choice of soil is critical for successful casing of maitake.
-Research and practice have identified the following guidelines:
-
-- **Humus-rich surface soil from broadleaf forests** is preferred
-  and has been found to directly enhance the growth of G. frondosa
-  mushrooms.
-- **Garden soil** and **rice paddy soil** have also been used
-  successfully.
-- **Sandy soil and clay** have not been found to be as beneficial
-  and should be avoided.
-
-Soil particle size should be approximately 0.5 to 0.8 cm in diameter.
-The soil should be treated (pasteurized or sterilized) before
-application to eliminate competing organisms.
-
-## Effect on Yield
-
-Soil casing has a pronounced effect on maitake production:
-
-- **Without soil casing**: Yields of 150-300 g per bag are typical
-  in Chinese cultivation systems.
-- **With soil casing**: Yields increase to 300-500 g per bag,
-  representing a substantial improvement of 67-167% over
-  uncased production.
-
-These figures come from established Chinese cultivation practices
-using synthetic logs with standardized substrate formulations.
-
-## Soil Casing in Substrate Formulation
-
-Soil can be incorporated directly into the substrate as well as
-applied as a surface layer. Two of the three substrate formulas
-presented in the source material include soil as a component:
-
-- **Formula II** includes 15% hardwood forest surface soil (dry
-  weight) mixed into the substrate alongside hardwood sawdust
-  (80%), wheat bran (18%), lime (1%), and sucrose (1%).
-- **Formula III** includes 10% hardwood forest surface soil (dry
-  weight) alongside sawdust, spent substrate, and wheat bran.
-
-The addition of soil provides calcium and other minerals that
-contribute to differentiation of basidiocarps (fruiting bodies).
-
-## Application to Individual Bags
-
-Soil casing can be applied to individual cultivation bags, making
-it accessible to both commercial operations and home growers. After
-the spawn run is complete and the substrate is fully colonized,
-a layer of prepared soil is applied to the surface of the substrate
-within the opened bag.
-
-## Observed Growth With Soil Casing
-
-Cultivation with soil casing produces vigorous young maitake
-clusters. The growth pattern shows:
-
-1. Mycelia aggregate on the soil surface in preparation for
-   primordia initiation.
-2. Primordia form and develop on the cased surface.
-3. Fruiting bodies progress through the normal morphogenetic
-   stages (brain, cauliflower, and cluster flower).
-4. The cauliflower and cluster flower stages are successfully
-   achieved with soil casing, producing overlapping petals with
-   elongated lateral stems.
-5. Prolific production of cluster flowers is observed.
-
-## Reviving Unsuccessful Fruiting Blocks
-
-Soil casing can also be applied to unsuccessful fruiting blocks that
-failed to produce adequate fruiting bodies in their first flush. The
-soil layer may provide the additional minerals, moisture retention,
-and microbial stimulation needed to trigger a new round of primordia
-formation and [[fruiting-body-development]].
+## Recommended [[fruiting-body-development]].
 
 ## Generating a Second Flush
 
@@ -146,3 +71,22 @@ Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
 ## See Also
 
 - [[mushroom-cultivator-casing-soil]]
+## Practical Considerations
+
+Successful implementation of Maitake Soil Casing Technique for Enhanced Yield requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -118,11 +118,7 @@ As with all high-THC strains, individuals with low tolerance should approach wit
 
 ## See Also
 
-- [[animal-cookies]]
 - [[girl-scout-cookies]]
-- [[biscotti-cannabis]]
 - [[wedding-cake-cannabis]]
-- [[gelato-cannabis]]
 - [[runtz-entity]]
-- [[kush-mints]]
 - [[zookies-cannabis]]

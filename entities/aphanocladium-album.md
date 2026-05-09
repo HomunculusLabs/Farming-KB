@@ -83,20 +83,7 @@ infects mushroom sporocarps and reduces yield in cultivated
 mushroom operations. In Australia, it has been identified as a
 recurring problem in mushroom farms (van Zaayen and Gams 1982),
 where it causes spotting, deformation, and reduced quality of
-cultivated mushrooms such as [[agaricus-bisporus]].
-
-### Enzymatic Arsenal
-The A. album complex produces diverse cell-wall-degrading
-enzymes: large amounts of endo- or exochitinases depending on the
-inducing substratum (Srivastava et al. 1985a; Studer et al.
-1992), and beta-1,3-D-endo-mannanase that specifically lyses the
-germ pore plug in urediniospores of rust fungi (Langen et al.
-1992). The ability to modulate enzyme production in response to
-different substrates suggests sophisticated regulatory control.
-
-### Powdery Mildew Parasitism
-A. album has also been reported as an active mycoparasite on
-[[biodiversity-powdery-mildews]] (Hijwegen and Buchenauer 1984), growing on the
+cultivated mushrooms such as [[biodiversity-powdery-mildews]] (Hijwegen and Buchenauer 1984), growing on the
 superficial mycelium and within the host structures. However, it
 is much less common on powdery mildews than the specialized
 Ampelomyces quisqualis, which dominates this particular niche as
@@ -118,11 +105,8 @@ evolution and host specialization.
 
 ## See Also
 
-- [[sphaerotheca-fuliginea]]
-Related: [[linum-album-piriformospora-indica-co-culture-system]], [[biodiversity-rust-fungi-urediniomycetes]], [[rust-fungi-biodiversity-life-cycles]]
+- [[linum-album-piriformospora-indica-co-culture-system]], [[rust-fungi-biodiversity-life-cycles]]
 
-- [[mushroom-cultivation-fundamentals]]
-- puccinia graminis
 - [[eudarluca-caricis]]
 - [[ampelomyces-quisqualis]]
 - byssostilbe stilbigera

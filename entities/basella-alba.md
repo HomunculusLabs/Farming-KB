@@ -108,13 +108,8 @@ In traditional agricultural systems, Malabar spinach is often intercropped with 
 ## See Also
 
 - [[spinacia-oleracea]]
-- [[amaranthus-tricolor]]
 - [[talinum-fruticosum]]
-- [[vigna-unguiculata]]
 - [[colocasia-esculenta]]
-- [[momordica-charantia]]
 - [[ocimum-basilicum]]
-- [[xanthosoma-sagittifolium]]
 - [[abelmoschus-esculentus]]
-- [[manihot-esculenta]]
 - [[psophocarpus-tetragonolobus]]

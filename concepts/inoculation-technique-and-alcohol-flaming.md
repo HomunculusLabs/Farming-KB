@@ -29,12 +29,7 @@ Before beginning inoculation, several conditions must be met:
 
 - **Lid tightness**: Ensure the jar lid is tightened securely.
 
-- **[[spore-printing-and-syringe-preparation]]**: Shake the syringe well before use. This shaking is
-  critical because it redistributes the spores throughout the water solution.
-  Without shaking, spores may settle at the bottom and not be evenly
-  delivered.
-
-## [[mushroom-spore-syringe-and-inoculation]] Inoculation Procedure
+- **[[mushroom-spore-syringe-and-inoculation]] Inoculation Procedure
 
 ### Step 1: Expose the Needle Holes
 
@@ -143,8 +138,10 @@ If spores fail to germinate, consider these common causes:
    shipping.
 
 4. **Freezing damage**: Extreme low temperatures may destroy spores.
+## See Also
+
+- [[incubation-and-colonization]]
 
 ## See Also
 
-- [[jar-preparation-and-sterilization]]
-- [[incubation-and-colonization]]
+- [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]

@@ -13,14 +13,7 @@ Maxwell's equations are the four foundational equations of classical electromagn
 unifying electric fields, magnetic fields, electric charge, and electric current into
 a single coherent framework. Together with the Lorentz force law, they form the basis
 of all classical electromagnetic phenomena, from static charges and magnets to radio
-[[turbulence-modeling-fluid-dynamics|wave]]s, light, and X-rays. The equations were developed by James Clerk Maxwell between
-1855 and 1865, building on the experimental work of Michael Faraday, André-Marie Ampère,
-and Carl Friedrich Gauss. Their prediction that light is an electromagnetic wave —
-traveling at speed c = 1/√(μ₀ε₀) — is one of the greatest unifications in physics.
-
-## Historical Development
-
-Faraday's 1831 discovery of [[electromagnetic-induction-faraday-law]] — changing magnetic fields
+[[electromagnetic-induction-faraday-law]] — changing magnetic fields
 produce electric fields — provided the conceptual foundation. Maxwell formalized these
 ideas in his 1865 paper "A Dynamical Theory of the Electromagnetic Field," originally
 using 20 quaternion equations. In 1884, Heaviside and Hertz reformulated them into the
@@ -147,4 +140,5 @@ Additional methods include FIT (CST Studio), TLM, and Discontinuous Galerkin.
 In **SI units** (engineering standard), ε₀ and μ₀ appear explicitly with **E** in V/m
 and **B** in Tesla. In **Gaussian CGS** (theoretical physics), ε₀ = μ₀ = 1, **E**
 and **B** share dimensions, and c appears explicitly in Faraday's and Ampère's laws.
-The Lorentz force also differs: **F** = q(**E** + **v**×**B**) in SI versus **F** =
+
+See also: [[seed-saving-and-plant-breeding]]

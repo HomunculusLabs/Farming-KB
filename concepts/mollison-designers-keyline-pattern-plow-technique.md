@@ -1,18 +1,7 @@
 ---
 title: "Keyline Pattern Plow Technique"
 created: 2026-04-26
-tags: [permaculture, keyline, subsoil, water-distribution, yeomans]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-type: concept
----
-
-# Keyline Pattern Plow Technique
-
-The keyline system, developed by P.A. Yeomans in Australia and extensively
-referenced by Bill Mollison in Permaculture: A Designers' Manual, is a
+tags: [[bill-mollison]] in Permaculture: A Designers' Manual, is a
 landscape management approach that uses patterned subsoil cultivation to
 redistribute water across slopes, improve soil structure, and increase
 pasture and tree growth without the need for earthworks like dams or
@@ -103,46 +92,7 @@ Keyline cultivation addresses several soil and water problems:
 ## Integration with Swales and Dams
 
 Mollison emphasises that keyline cultivation works in combination with
-other [[pdc-water-harvesting-earthworks-design]] earthworks:
-
-- Above dams: keyline cultivation of the catchment area above farm dams
-  increases runoff into the dam while simultaneously improving the soil
-  and pasture in the catchment
-- Between swales: keyline cultivation of the inter-swale zone improves
-  water distribution between swales, extending the moisture lens
-- On steep slopes: keyline is preferred over swales where slopes exceed
-  15%, as it avoids the erosion risk of earthworks on steep ground
-- In established orchards: keyline cultivation between tree rows improves
-  moisture availability without disturbing tree roots or surface mulch
-
-## Timing and Frequency
-
-Keyline cultivation timing affects its effectiveness:
-
-- Cultivate when soil moisture is moderate: too dry and the shanks cannot
-  penetrate; too wet and the soil smears rather than fractures
-- In seasonal rainfall areas, cultivate at the start of the wet season so
-  that the first rains infiltrate into the fractured subsoil
-- On pasture land, cultivate every 3-5 years as needed; the soil will
-  gradually re-compact, especially under grazing pressure
-- In arid areas, a single cultivation may last many years if the soil is
-  not heavily trafficked by livestock or vehicles
-
-## Limitations
-
-- Keyline does not store water; it only improves infiltration and
-  distribution. In very dry climates, supplementary water storage
-  (dams, tanks) is still needed.
-- Very rocky or shallow soils may not allow deep subsoil penetration
-- The technique requires understanding of contour and landform to
-  identify the correct keyline and cultivation pattern
-- On very gentle slopes (< 2%), the lateral water distribution effect
-  is minimal as water moves slowly in any direction
-
-## Related Concepts
-
-- [[mollison-designers-swale-spacing-and-contour-interval]]
-- [[pdc-water-harvesting-earthworks-design]]
+other [[mollison-designers-swale-spacing-and-contour-interval]]
 - [[mollison-soil-improvement-and-rehabilitation]]
 - [[pasture-management]]
 - contour planning

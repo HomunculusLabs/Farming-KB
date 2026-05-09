@@ -5,7 +5,8 @@ tags: [thermal-engineering, heat-transfer, fluid-dynamics, thermodynamics, engin
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md"
 ---
 
 ## Overview
@@ -93,44 +94,9 @@ This sounds simple but is difficult when heat losses, contact resistance, radiat
 Guard heaters, calorimeters, heat-flux sensors, and inverse conduction methods are used to improve estimates.
 Thermocouple placement can bias results because the wall, coating, and fluid may not share a single temperature.
 In electronics cooling, junction-to-case and case-to-ambient thermal resistances may be more useful than a local h.
-In [[computational-fluid-dynamics]], h can be extracted from simulated wall heat flux and selected reference temperature.
-Mesh resolution near the wall is then critical because the wall gradient controls the answer.
-Empirical correlations remain valuable because they summarize validated experiments in compact form.
-A correlation should be used only within its stated Reynolds-number, Prandtl-number, geometry, and property ranges.
-Extrapolation outside those ranges can be worse than a conservative hand estimate.
-
-## Design Uses
-
-Heat-transfer coefficients help size heat exchangers, radiators, cooling jackets, heat sinks, condensers, and insulation systems.
-They turn complex thermal-fluid behavior into algebraic sizing equations during early design.
-In a shell-and-tube exchanger, the engineer chooses flow rates and tube geometry to obtain an acceptable U and pressure drop.
-In electronics, h links airflow management to device junction temperature and reliability.
-In buildings, related U-values describe heat loss through windows, walls, and roofs.
-In chemical reactors, h controls whether exothermic heat can be removed safely.
-In engines and turbines, local coefficients guide cooling passages and thermal-barrier coating requirements.
-For cryogenic and high-temperature systems, coefficient estimates influence both performance and material stress.
-The same parameter therefore appears in energy efficiency, process safety, mechanical integrity, and product lifetime calculations.
-It is a bridge between first-principles heat transfer and practical engineering judgment.
-
-## Common Pitfalls
-
-Do not treat h as constant when flow regime, fluid properties, or phase state change over the operating range.
-Do not mix local coefficients with area-averaged coefficients without checking how the average was formed.
-Do not apply a flat-plate correlation to a finned heat sink, tube bundle, or rotating surface without justification.
-Do not ignore fouling, oxidation, scale, dust, biofilm, or condensate drainage in long-lived equipment.
-Do not combine Celsius temperature differences with absolute-temperature radiation formulas without care.
-Do not assume that increasing velocity is free; pressure drop and pump or fan power often rise quickly.
-Do not infer a universal coefficient from one successful prototype if manufacturing tolerances alter surface contact or flow distribution.
-Do not forget that coefficients in boiling and condensation may collapse during dryout, flooding, or film formation.
-A defensible calculation states the correlation, reference temperature, characteristic length, property evaluation temperature, and uncertainty margin.
-Those details make the coefficient reproducible rather than merely plausible.
-
-## Related Concepts
-
-[[navier-stokes-equations-fluid-dynamics]] provides the momentum equations behind convective flow fields.
+In [[navier-stokes-equations-fluid-dynamics]] provides the momentum equations behind convective flow fields.
 boundary layer theory fluid dynamics explains why near-wall gradients dominate heat flux.
 reynolds number and flow regimes helps classify laminar, transitional, and turbulent regimes.
-[[exergy-analysis]] connects heat-transfer temperature differences to thermodynamic irreversibility.
 [[phase-change-materials-thermal-energy-storage]] illustrates systems where apparent coefficients interact with latent heat.
 Future pages that would deepen this cluster include Nusselt number, Prandtl number, fouling resistance, and heat exchanger design.
 
@@ -139,3 +105,7 @@ Future pages that would deepen this cluster include Nusselt number, Prandtl numb
 Research basis: Wikipedia articles on heat transfer coefficient and convection, consulted 2026-05-02.
 Standard engineering context: Incropera-style heat transfer notation for h, Nu, and thermal resistance networks.
 Practical interpretation: common heat exchanger, electronics cooling, building U-value, and phase-change design usage.
+
+## See Also
+
+- [[heat-transfer-mechanisms]]

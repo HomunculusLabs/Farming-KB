@@ -120,13 +120,8 @@ Propagation is typically from seed (which requires cold stratification) or by le
 
 ## See Also
 
-- [[allium-ursinum]]
-- [[arctium-lappa]]
-- [[asclepias-syriaca]]
+- [[arctium-lappa-entity]]
 - [[glycyrrhiza-glabra]]
-- [[cichorium-intybus]]
 - [[hypericum-perforatum]]
-- [[valeriana-officinalis]]
 - [[scutellaria-baicalensis]]
-- [[artemisia-absinthium]]
 - [[artemisia-vulgaris-entity]]

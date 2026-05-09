@@ -135,10 +135,6 @@ Traditional farming knowledge encoded chemical plant interactions:
 
 ## See Also
 
-- [[tompkins-mitogenetic-rays-plant-cell-communication]]
-
 - [[plant-hormones-and-chemical-signaling-systems]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[plant-perception]]
-- [[bacterial-endophytes-plant-roots]]
 - [[plant-fungal-signaling-mycorrhiza]]

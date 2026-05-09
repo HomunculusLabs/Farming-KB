@@ -133,10 +133,6 @@ notice.
 
 ## See Also
 
-- [[mushroom-preservation-methods]]
-
 - [[palmer-specific-mushroom-species-guide]]
-- [[palmer-mushroom-cooking-culinary-uses]]
 - [[palmer-about-mushrooms-cooking-and-preservation]]
-- [[falconer-victorian-mushroom-cooking-recipes]]
 - [[palmer-medicinal-mushroom-uses-historical]]

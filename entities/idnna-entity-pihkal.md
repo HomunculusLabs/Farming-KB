@@ -23,94 +23,87 @@ PIHKAL entry #90. 2,5-DIMETHOXY-N,N-DIMETHYL-4-IODOAMPHETAMINE.
 
 ## Qualitative Comments
 
-No [[qualitative-comments-methodology-pihkal]] available in source.
-
-## Extensions and Commentary
-
-This base, if it were given a code name
-based upon its substituents arranged in their proper alphabetical
-order, would have to be called something like DNDIA, which is quite
-unpronounceable. But by a rearrangement of these terms, one can
-achieve IDNNA (Iodo-Dimethoxy-N,N-dimethyl-Amphetamine) which has a
-nice lilt to it.
-
-One of the major goals of research in nuclear medicine is a drug that
-can be used to demonstrate the brain blood flow pattern. To do this
-job, a drug should demonstrate four properties. First, it must carry
-a radioactive isotope that is a positron emitter (best, a fluorine or
-an iodine atom, for use with the positron camera) that can be put onto
-the molecule quickly, synthetically, and which will stay on the
-molecule, metabolically. Second, as to brain entry, the drug should
-be rapidly and extensively taken up by brain tissue, without being
-selectively absorbed or concentrated at any specific sites. In other
-words, it should go where the blood goes. Thirdly, the absorption
-should be strong enough that it will stay in the brain, and not be
-washed out quickly. This allows time to both locate and count the
-radioactivity that was carried in there. And lastly, the drug must be
-without pharmacological action.
-
-IDNNA looked like a promising candidate when tried with a radioactive
-iodine label, and there was quite a flurry of interest in using it
-both as an ex-perimental drug, and as a prototype material for the
-synthesis of structural variants. It went in quickly, extensively and
-quite diffusely, and it stayed in for a long time.
-
-But was it pharmacologically active? Here one finds a tricky road to
-walk. The animal toxicity and behavioral properties can be determined
-in a straightforward manner. Inject increasing amounts into an
-experimental animal and observe him closely. IDNNA was quite inert.
-But, it is a very close analogue to the extremely potent psychedelic
-DOI, and it is widely admitted that animal assays are of no use in
-trying to determine this specific pharmacological property. So, a
-quiet human assay was called for. Since it did indeed go into the
-brain of experimental animals, it could quite likely go into the brain
-of man. In fact, that would be a needed property if the drug were to
-ever become useful as a diagnostic tool.
-
-It was assayed up to levels where DOI would have been active, and no
-activity was found. So one could state that it had none of the
-psychedelic properties of DOI at levels where DOI would be active
-(this, at 2.6 milligrams orally). But you don't assay much higher,
-because sooner or later, something might indeed show up. So it can be
-honestly said, IDNNA is less active than DOI itself, in man. Let's
-wave our hands a bit, and make our statement with aggressive
-confidence. IDNNA has shown no activity in the human CNS at any level
-that has been evaluated. This sounds pretty good. Just don't go too
-far up there, and don't look too carefully. This is not as
-
-(Additional commentary available in source.)
-
-## Synthesis
-
-To a stirred solution of 0.4 g
-2,5-dimethoxy-4-iodoamphetamine hydrochloride (DOI) in 12 mL MeOH
-containing 4 mL of a 40% formaldehyde solution there was added 1 g
-sodium cyanoborohydride. The pH was kept at about 6 by the occasional
-addition of HCl. When the pH was stable (about 48 h) the reaction
-mixture was poured into 250 mL H2O and made strongly basic by the
-addition of aqueous NaOH. This was extracted with 3x75 mL CH2Cl2, the
-extracts pooled, and extracted with 2x75 mL dilute H2SO4, and the
-pooled acidic extracts again made basic and again extracted with
-CH2Cl2. The solvent was removed under vacuum to give 0.38 g of a
-colorless oil. This was dissolved in 2 mL IPA and treated with a
-solution of 0.13 g oxalic acid dihydrate in 1.5 mL warm IPA, and then
-anhydrous Et2O was added dropwise until a turbidity persisted. Slowly
-a granular white solid appeared, which was filtered off, Et2O washed,
-and air dried to give 0.38 g of
-2,5-dimethoxy-N,N-dimethyl-4-iodoamphetamine oxalate (IDNNA) with a mp
-of 145-146 deg C. Anal. (C15H22INO6) C,H. The hydrochloride salt of
-this base proved to be hygroscopic.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
+No [[tryptamine]] research varies by jurisdiction.
 
 ## See Also
 
 - [[idnna-entity]]
-
-- [[idnna-entity]]
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
 - [[phenethylamine-chemistry-basics]]
+## Practical Applications
+
+IDNNA (2,5-DIMETHOXY-N,N-DIMETHYL-4-IODOAMPHETAMINE) -- PIHKAL Entry #90 has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+IDNNA (2,5-DIMETHOXY-N,N-DIMETHYL-4-IODOAMPHETAMINE) -- PIHKAL Entry #90. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -42,11 +42,7 @@ Spores are smooth, bean-shaped (phaseoliform) to broadly elliptical, measuring a
 
 Inocybe geophylla has a broad distribution across temperate regions of the Northern Hemisphere, including virtually all of Europe (from Scandinavia to the Mediterranean), North America (from coast to coast and from boreal forests to temperate woodlands), and parts of Asia including Japan. It has also been reported from parts of South America, Australia, and New Zealand, though it is less common in the Southern Hemisphere.
 
-The species is a mycorrhiza|mycorrhizal associate, forming obligate symbiotic relationships with the roots of forest trees. It is found primarily under deciduous and coniferous trees in a wide range of forest types. It frequently grows on forest floors among leaf litter, moss, and humus-rich soils. It is particularly common under oaks, birches, beeches, [[pine-mushroom-forestry-management]], and spruces, and can be one of the most abundant mushroom species in certain forest types. Fruiting occurs from late summer through autumn, typically from August to November depending on the region and local weather conditions. It can also appear in parks, gardens, and other cultivated areas where suitable host trees are present.
-
-## Toxicity
-
-**Inocybe geophylla is poisonous and should never be consumed.** It is one of the primary causes of mushroom poisoning by muscarine-containing species in Europe and North America. The mushroom contains significant concentrations of [[muscarine]], a toxic quaternary ammonium alkaloid that acts as a direct parasympathomimetic agent, stimulating muscarinic acetylcholine receptors in the autonomic nervous system.
+The species is a mycorrhiza|mycorrhizal associate, forming obligate symbiotic relationships with the roots of forest trees. It is found primarily under deciduous and coniferous trees in a wide range of forest types. It frequently grows on forest floors among leaf litter, moss, and humus-rich soils. It is particularly common under oaks, birches, beeches, [[muscarine]], a toxic quaternary ammonium alkaloid that acts as a direct parasympathomimetic agent, stimulating muscarinic acetylcholine receptors in the autonomic nervous system.
 
 ### Symptoms of Poisoning
 Symptoms of muscarine|muscarine poisoning typically begin within 30 minutes to 2 hours after ingestion and include:
@@ -76,15 +72,7 @@ The pale lilac coloration of I. geophylla can sometimes lead to confusion with e
 - **Inocybe calamistrata** — Distinguished by its prominently scaly cap surface, darker brown coloration, and generally larger overall size and more robust stature.
 - **Clitopilus prunulus** — An edible species with a similar cap shape and pinkish tones, but possessing a distinctive pink spore print and very different gill structure (decurrent gills that are not fimbriate, and a mealy odor).
 - **Inocybe coelestium** — A European species that may contain low levels of psilocybin|psilocybin in addition to muscarine, with a similar overall morphology and lilac coloration.
-- **[[inocybe-haemacta]]** — Another European species with confirmed psilocybin content, reddish-brown cap, and similar size, found in similar forest habitats.
-
-## Ecological Role
-
-As a mycorrhizal species, I. geophylla forms obligate symbiotic associations with the roots of forest trees. Through this partnership, the fungus facilitates nutrient exchange between the soil and its host plant, helping trees absorb phosphorus, nitrogen, and trace minerals while receiving carbohydrates produced by photosynthesis. The extensive mycelial network contributes to soil health, soil structure stability, and nutrient cycling in forest ecosystems. Despite its toxicity to humans, the mushroom plays an important and irreplaceable ecological role in maintaining the health of forest communities.
-
-## Chemical Analysis
-
-Chemical analysis of I. geophylla collections has confirmed the presence of [[muscarine]] as the primary and dominant toxic principle. Unlike some other Inocybe species that may contain trace amounts of psilocybin|psilocybin or psilocin|psilocin (such as [[inocybe-corydalina-entity]], [[inocybe-aeruginascens-profile]], [[inocybe-haemacta]], and I. coelestium), I. geophylla is not known to contain any psychoactive compounds. Its toxicity profile is dominated by muscarine alone, which makes it consistently and predictably dangerous rather than unpredictably variable in its effects.
+- **[[muscarine]] as the primary and dominant toxic principle. Unlike some other Inocybe species that may contain trace amounts of psilocybin|psilocybin or psilocin|psilocin (such as [[inocybe-aeruginascens-profile]], [[inocybe-haemacta]], and I. coelestium), I. geophylla is not known to contain any psychoactive compounds. Its toxicity profile is dominated by muscarine alone, which makes it consistently and predictably dangerous rather than unpredictably variable in its effects.
 
 ## Notes
 

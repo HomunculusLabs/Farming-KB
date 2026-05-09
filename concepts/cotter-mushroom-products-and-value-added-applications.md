@@ -126,8 +126,6 @@ year without dying.
 
 ## See Also
 
-- [[cotter-mushroom-nutrition-medicinal-compounds]]
 - [[cotter-oyster-mushroom-cultivation]]
-- [[cotter-recycling-composting-vermicomposting-mushrooms]]
 - [[mushroom-cultivation-troubleshooting]]
 - [[cotter-substrate-preparation]]

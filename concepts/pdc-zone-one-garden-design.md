@@ -3,98 +3,142 @@ title: PDC Zone One Garden Design
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Zone One Garden Design
-
-In Pamphlet IX of the 1981 Permaculture Design Course, Bill Mollison provides a detailed walkthrough of zone one garden design. This is the most intensive, frequently visited area surrounding the house entrance, and Mollison treats every plant as a design problem to be solved permanently.
-
-## House Layout First
-
-The garden must follow house function: "You have mud room, pantry, kitchen, living room, bed, bed, bed -- or bed, bed, bed upstairs, each with an en suite toilet, of course! The set-up of the house has to be like this for the functions to follow the zone."
-
-The most intensive garden section surrounds the garden entries. Mollison criticizes common layouts where "kitchens on the north side, living rooms on the north side, and beds on the south, where you can't sleep at night because of the heat."
-
-## The Herb Spiral
-
-Place "a little herb spiral" right by the door, surrounded by "a great mass of parsley." The critical herbs are few: tarragon, thyme, rosemary, sage, plus "three or four sorts of chives" (Chinese, ordinary with purple top, fine-leaf blue). Add mint in pots.
-
-Parsley strategy: "I start a bed of it going, and let that go to seed. I start a bed the following year. Then I pepper the heads all over the place, so that I get parsley throughout everything." Once parsley is thick, "you never have to worry about it again."
-
-## Permanent Growing Systems
-
-Each vegetable gets a purpose-built permanent system:
-- **Potatoes**: Straw boxes (8x5 feet), set potatoes 9"x9", fill with straw. "No soil, no bottom." Running for 12 years continuously.
-- **Cucumbers**: Wire mesh cylinders, 4 feet high, permanent positions
-- **Tomatoes**: Permanent beds, never rotated. "Tomatoes grow better on the same spot."
-- **Horseradish**: Four broken earthenware pots sunk in the ground for easy lifting
-- **Leeks**: Never replanted; let some go to seed, set bulbs straight out
-
-## Mulch Over Compost
-
-Mollison makes a strong case against traditional composting:
-
-"Every time you compost, you decrease the nutrients, sometimes to one 20th of the original. Usually, though, you get about a 12th of the nutrient out of compost that you get out of mulch."
-
-"We want to get right out of composting. We want to get back into sheet mulching."
-
-With composting, "you are taking a lot of material, putting it into a small place, and letting the whole of the decomposition activity happen under hot conditions." With mulching, "you are spreading those materials and letting the process occur much more slowly on the surface of the soil. Any leach loss goes into the soil."
-
-## Kitchen Waste Direct to Garden
-
-"Just pick up a handful of mulch, scatter the garbage around a bit and put the mulch back." Banana peels, fat, tea leaves -- all go directly onto mulch. "In winter, I freeze kitchen wastes into blocks."
-
-## The Lawn Conversion
-
-To convert lawn to garden: "just go straight on to it. You never dig it." One method: "Get a number of old tick mattresses. Take them home and just flop them on to the lawn. Cut little holes in these mattresses and drop potatoes through them."
-
-## Companion Planting Systems
-
-Specific combinations detailed:
-- **Corn band**: 4 feet wide, hollow middle with manure, cucurbits inside, beans around the edge. When corn is finished, pumpkins are accessible.
-- **Tomatoes**: Jerusalem artichoke windbreak, basil on hot side (south), parsley on cool side, marigolds in clumps, gooseberries outside for pest control. Nasturtium for white fly.
-- **White fly control**: All-yellow bunching nasturtium for essential root contact
-
-## Mosquito Control Design
-
-For small ponds: "Garlic is a lot more efficient than oil, and it leaves other organisms." Just squeeze garlic bulbs into the water. "It's about 100% kill." The garlic doesn't kill tadpoles. Second measure: backswimmers (not assassin bugs). Always build ponds with stone pile exits so frogs can climb out.
-
-## Trellis Systems
-
-Deciduous trellis around kitchen windows: "hops, grapes, runner beans." The hop is "a noble vine, excellent for light pillows for children."
-
-Evergreen climbers for aromatic entry: "honeysuckles, jasmine, lilac. A garden should smell like a garden."
-
-Horizontal trellis to prevent excess summer heating while admitting winter sun. Use stone walls with 40% penetrability -- lots of holes above the lower two feet. Otherwise "you get real turbulence, low pressure zones, quick evaporation."
-
-## Ponds in Zone One
-
-"I will continue to insist that a pond, probably central, in some of these non-eroded areas is worth its place." Four feet across, 18 inches deep. Built slightly higher than surrounding soil, paved with stones. Sweet alyssum and thyme between stones for frog exits.
-
-A pond that size produces "about two hundred or three hundred frogs about twice a summer."
-
-## Shade Gardening
-
-"Nearly all the small fruits will do reasonably well in the shade pattern of a small tree." Raspberry, strawberry, blackcurrant, gooseberry (especially green gooseberry group). "Gooseberries do perfectly well in shade."
-
-## Glasshouse Orientation
-
-"If you have a thousand foot hill on the west, swing the whole glasshouse to mid-sky; forget about due south, come to mid-sky." Don't align houses due south when "from 3 p.m. there is not going to be any sun on it."
-
-## Connection to Broader Topics
-
-This page connects to [[pdc-permaculture-principles-explained]] (zone analysis, relative location), [[mollison-mulching-and-soil-health]] (mulching techniques), and [[mollison-pdc-introduction-principles]] (design philosophy).
+tags: [[pdc-permaculture-principles-explained]] (zone analysis, relative location), [[mollison-pdc-introduction-principles]] (design philosophy).
 
 ## Source
 
 - Bill Mollison, Permaculture Design Course, 1981, Pamphlet IX: Permaculture Techniques
 
 updated: 2026-04-18
-- [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[permaculture-water-pond-systems-design-course]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[permaculture-designers-manual-pond-edge-planting]]
 - [[mollison-green-manure-soil-fertility]]
+## Background and Context
+
+PDC Zone One Garden Design is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

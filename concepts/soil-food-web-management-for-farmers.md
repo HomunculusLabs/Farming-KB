@@ -83,23 +83,7 @@ Quality compost is the most direct way to add diverse biology:
 - Apply 1/4 to 1/2 inch of finished compost annually
 - Ensure compost is aerobic, mature, and biologically diverse
 - Compost provides both organisms and the food to sustain them
-- Compost extracts and ACT ([[compost-tea-brewing]]) can extend compost benefits over larger areas
-
-### 4. Mulching
-Surface mulch maintains moisture, moderates temperature, and provides food for fungi:
-- Woody mulches (wood chips, bark): Favor fungal growth
-- Green mulches (grass clippings, leaves): Feed both bacteria and fungi
-- Living mulches (low-growing ground covers): Provide continuous root exudates
-
-### 5. Avoid Practices That Harm Biology
-- **Synthetic fertilizers**: Particularly high-N and high-P fertilizers suppress mycorrhizal fungi and reduce organism diversity
-- **Pesticides**: Many fungicides, insecticides, and herbicides are toxic to non-target soil organisms
-- **Compaction**: Reduces oxygen availability, favoring anaerobic organisms
-- **Excessive cultivation**: Destroys hyphal networks and soil structure
-- **Chlorinated irrigation water**: Kills organisms at the soil surface
-
-### 6. Compost Tea Applications
-Regular ACT applications (see [[compost-tea-brewing]]) can rapidly establish beneficial biology:
+- Compost extracts and ACT ([[compost-tea-brewing]]) can rapidly establish beneficial biology:
 - Foliar applications for disease suppression
 - Soil drenches for root zone biology
 - Fungal teas for perennial systems
@@ -124,11 +108,7 @@ Regular ACT applications (see [[compost-tea-brewing]]) can rapidly establish ben
 
 ## Related Concepts
 
-- [[compost-tea-brewing]] -- detailed ACT brewing instructions
 - [[soil-food-web-structure]] -- the soil food web concept
-- [[fukuoka-natural-farming-philosophy-of-mu]] -- natural farming philosophy aligned with these principles
 - [[fukuoka-crop-rotation-and-natural-weeds]] -- natural farming practices for crop management
-- [[bacterial-vs-fungal-soil]] -- detailed ratio guidance
 - [[fungal-chromogens-and-color-change]]
-- [[bacterial-to-fungal-soil-succession]]
-- [[composting-and-soil-biology]]
+- [[ozier-pdc-composting-and-soil-building]]

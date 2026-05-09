@@ -101,13 +101,8 @@ Many varieties have arisen by chance cross-pollination on the Krameterhof. From 
 
 ## See Also
 
-- [[holzer-seed-autonomy-preserving-old-varieties]]
-
 - [[mollison-seed-resources-and-sovereignty]] — Mollison on seed resources
-- [[holzer-ancient-cereals-growing]] — ancient cereal cultivation
 - [[holzer-green-manure-crops]] — green manure and cover crops
-- [[holzer-farming-philosophy]] — Holzer's overall farming philosophy
 - [[holzer-green-manure-crop-compendium]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

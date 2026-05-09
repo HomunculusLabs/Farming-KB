@@ -121,9 +121,6 @@ implications for consciousness studies:
 
 ## Related
 
-- [[quantum-mechanics-fundamentals]] Concepts
-
-- [[dmt-experience-and-hyperspace-entities]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
+- [[mckenna-dmt-experience-and-hyperspace]]
 - [[tryptamine-consciousness-theory]]
 - [[terence-mckenna-tryptamine-hypothesis]]

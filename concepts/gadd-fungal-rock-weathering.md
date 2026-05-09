@@ -78,29 +78,16 @@ A combination of biotic and abiotic factors leads to deposition of birnessite, M
 
 ## See Also
 
-- [[ectomycorrhizal-fungal-ecology]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-- [[fungal-metal-biosorption-comparative]]
 - [[bioavailability-in-fungal-bioremediation]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-
 - [[gadd-fungal-biodegradation-bioremediation]]
-
-- [[gadd-fungal-biodiversity-conservation]]
 
 - [[gadd-fungal-cell-structure]]
 
-- [[gadd-fungal-ecology-endophytes]]
-
 - [[gadd-fungal-ecology-pathogens]]
 
-- [[gadd-fungal-ecology-saprotrophs]]
-
 - [[gadd-fungal-extremophiles]]
-
-- [[gadd-fungal-nutrition-metabolism]]
 
 - [[gadd-fungal-reproduction-spores]]
 

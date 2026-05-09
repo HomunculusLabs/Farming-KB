@@ -117,11 +117,7 @@ The compound's cognitive, insight-oriented effects profile anticipated the moder
 
 ## Related Compounds
 
-- [[phenethylamine-pharmacology]] -- general pharmacology
-
 - [[2c-family-compounds-overview]] -- 2C family overview
-
-- [[pihkal-introduction-and-methodology]] -- PIHKAL context
 
 - [[dob-entity]] -- 2,5-dimethoxy-4-bromoamphetamine (potent amphetamine analogue)
 

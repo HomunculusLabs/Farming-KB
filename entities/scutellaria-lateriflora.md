@@ -70,80 +70,10 @@ Eclectic physicians used skullcap for:
 
 ### Modern Herbal Practice
 
-Contemporary Western herbalism continues to use S. lateriflora as a primary nervine tonic and anxiolytic, often in combination with other calming herbs such as *[[passiflora-incarnata]]*, *[[valeriana-officinalis]]*, *[[melissa-officinalis]]*, and *Avena sativa* in nervine formulas.
-
-## Phytochemistry
-
-The pharmacological activity of S. lateriflora is attributed to several classes of bioactive compounds:
-
-### Flavonoids (Primary Active Constituents)
-
-- **Baicalin** (baicalein-7-O-glucuronide): The major flavone glucuronide, 1–5% dry weight. Converted to **baicalein** (aglycone) by gut microbiota. Potent anxiolytic and GABAergic activity.
-- **Scutellarin** (scutellarein-7-O-glucuronide): Characteristic flavone of the genus, 0.3–1.5% dry weight. Vasodilatory and neuroprotective properties.
-- **Wogonin** (5,7-dihydroxy-8-methoxyflavone): Selective anxiolytic without sedation or muscle relaxation at therapeutic doses. Binds to the benzodiazepine site of GABA_A receptors with subtype selectivity (prefers α2/α3 over α1), potentially avoiding sedation and dependence.
-- **Oroxylin A**: A methoxyflavone with reported anxiolytic and antidepressant-like effects in animal models.
-- **Apigenin** and **luteolin**: Additional flavonoids with anxiolytic and anti-inflammatory properties.
-
-### Other Constituents
-
-- **Volatile oils** (0.05–0.1%): Including germacrene D, β-caryophyllene, and δ-cadinene
-- **Iridoid glycosides**: Catalpol and related compounds
-- **Tannins**: Condensed tannins at 2–4%
-- **Diterpenoids**: Minor constituents with potential biological activity
-- **Phenolic acids**: Including caffeic and chlorogenic acid derivatives
-
-## Pharmacology and Clinical Evidence
-
-### GABAergic Activity
-
-The flavonoids in S. lateriflora, particularly baicalein and wogonin, modulate the GABAergic system through multiple mechanisms:
-
-- Positive allosteric modulation of GABA_A receptors at the benzodiazepine binding site
-- Wogonin shows subtype selectivity (α2/α3-preferring), which may provide anxiolysis without sedation or tolerance
-- Enhancement of GABA tone without the side effects associated with classical benzodiazepines
-- No significant effect on motor coordination at anxiolytic doses
-
-### Anxiolytic and Sedative Effects
-
-Animal models consistently demonstrate anxiolytic-like effects of skullcap extracts and isolated flavonoids in elevated plus maze, light-dark box, and open field tests. Human clinical evidence, while limited, includes:
-
-- A randomized, double-blind, placebo-controlled study showed significant reductions in anxiety scores with S. lateriflora extract over 2 weeks
-- Traditional use is strongly supported by consistent preclinical pharmacology
-
-### Neuroprotective Effects
-
-Baicalein and scutellarin demonstrate neuroprotective properties in models of:
-
-- Cerebral ischemia/reperfusion injury
-- Oxidative stress-induced neuronal death
-- Amyloid-β toxicity
-- Inflammatory neurodegeneration
-
-### Anti-inflammatory and Antioxidant
-
-Baicalein inhibits NF-κB signaling, COX-2 expression, and pro-inflammatory cytokine production. Antioxidant activity is mediated through Nrf2 pathway activation and direct free radical scavenging.
-
-## Preparation and Dosage
-
-- **Dried herb infusion**: 1–2 g dried aerial parts in 150 mL hot water, 2–3 times daily
-- **Tincture (1:5, 45% ethanol)**: 2–4 mL, 2–3 times daily
-- **Fluid extract (1:1)**: 1–2 mL, 2–3 times daily
-- **Standardized extract**: 250–500 mg, 1–2 times daily (standardized to baicalin or total flavonoids)
-
-The herb should be harvested when in flower for maximum flavonoid content. Aerial parts (leaf and flower) are the primary plant parts used medicinally.
-
-## Safety and Contraindications
-
-S. lateriflora has an excellent safety profile with no significant toxicity in traditional or clinical use:
-
-- No known drug interactions at normal doses (though theoretical potentiation of GABAergic drugs exists)
-- Safe in pregnancy at traditional doses (widely used in pregnancy teas in Western herbalism)
-- Generally well-tolerated; rare cases of mild gastrointestinal discomfort
-- Should not be confused with *Scutellaria baicalensis* (Chinese skullcap), which has a different phytochemical profile and traditional usage context
-- Cases of adulteration with *Teucrium canadense* (American germander) have been reported in commercial products; germander contains hepatotoxic diterpenoids. Source verification is essential.
-
-## Cultivation
-
-Hardy to USDA zones 4–9. Propagation by seed (stratification recommended), division, or stem cuttings. Prefers moist, rich soils in partial shade. Space plants 30–45 cm apart. Harvest aerial parts during flowering for peak potency. Overwintering survival is excellent once established. [[companion-planting]] with other moisture-loving Lamiaceae members works well.
+Contemporary Western herbalism continues to use S. lateriflora as a primary nervine tonic and anxiolytic, often in combination with other calming herbs such as *[[valeriana-officinalis]]*, *[[companion-planting]] with other moisture-loving Lamiaceae members works well.
 
 ## See Also
+
+## See Also
+
+- [[herbal-medicine-making]]

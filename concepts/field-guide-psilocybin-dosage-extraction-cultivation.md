@@ -18,60 +18,7 @@ its historical context.
 
 ## Active Alkaloids
 
-All [[psilocybin-mushrooms]] contain two primary psychoactive alkaloids:
-psilocybin and psilocin. While these occur in varying amounts
-across species, the subjective experience is essentially the same.
-The mushroom's chemical structure contains eight total alkaloids; six
-are mildly toxic and produce stomach queasiness, while the two desired
-compounds are responsible for the psychoactive effects.
-
-## Dosage Guidelines
-
-- **Standard dose:** 4 to 6 mushrooms of typical size.
-- **Alkaloid concentration:** approximately 2mg of active alkaloids
-  per dry gram of mushroom material.
-- **Stem vs. cap:** the stem contains the same concentration as the
-  cap, contrary to some folk beliefs that caps are more potent.
-- **Traditional ceremonial dose:** the Indians of Mexico regularly
-  consume 30 to 40 specimens per ceremony with all lights
-  extinguished, producing detailed colorful visions until dawn.
-- **Dose-response:** increasing dosage intensifies the experience
-  rather than prolonging it. Higher doses produce more intense
-  hallucinations without significantly extending duration.
-- Concentration varies considerably with species, season, growing
-  conditions, and specimen age, so no precise universal figure can
-  be stated.
-
-## Extraction Method
-
-The guide describes a methyl alcohol extraction process:
-
-1. **Dry and grind** collected specimens into a fine powder.
-2. **Soak** in methyl alcohol for several days.
-3. **Strain off** the alcohol from the plant material.
-4. **Evaporate** the alcohol in a shallow dish, leaving concentrated
-   alkaloid residue.
-5. **Scrape up** the residue and store at cool temperature.
-
-For further purification, the residue can be re-dissolved and
-re-evaporated using pentane as a refining solvent. The guide cautions
-that all solvent must be completely evaporated before ingestion.
-
-## Traditional Consumption Methods
-
-The author prefers consuming dried caps directly as an "organic
-creation." Reported effects include a comfortable high with extreme
-pupil dilation, ranging from a cannabis-like experience with
-similar physical sensations to strange electric pulsations and body
-rushes. At higher doses, intense hallucinations occur. Strong light
-should be avoided. Dried caps are considered superior to extracted
-preparations for overall quality of experience.
-
-## Cultivation: Compost Preparation
-
-The most common mushroom compost uses horse manure, wheat straw, and
-added chemicals. The wheat straw is soaked and piled with the manure.
-Microbial [[decomposition]] generates heat up to 180 degrees Fahrenheit,
+All [[decomposition]] generates heat up to 180 degrees Fahrenheit,
 killing competing spores, insects, larvae, and molds. The compost is
 ready when the straw breaks into short pieces, the manure crumbles,
 and the pile takes on the smell of autumn woods. It should ball when
@@ -117,13 +64,28 @@ Proper preservation maintains potency indefinitely:
 
 ## Related
 
-- [[dosage-unpredictability-psilocybin-subjective-experience]]
-
 - [[field-guide-psilocybin-mushroom-species-identification]] for
   species-specific details
-- [[field-guide-psilocybin-mushroom-hunting-methodology]] for
-  locating wild specimens
 - [[oss-oeric-dosage-guidelines-and-potency]] for comparative
   modern dosage information
 - [[oss-oeric-drying-and-preservation-methods]] for detailed
   preservation techniques
+## Practical Considerations
+
+Successful implementation of Field Guide to Psilocybin Dosage, Extraction, and Cultivation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

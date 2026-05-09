@@ -1,15 +1,10 @@
 ---
-title: Maria Sabina Mazatec Mushroom Curandera
+title: [[maria-sabina]] Mazatec Mushroom Curandera
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
 sources: magic-mushrooms-around-the-world-gartz.md
-tags: [mycology, mushrooms]
----
-
-# Maria Sabina: The Mazatec Mushroom Curandera
-
-Maria Sabina (c. 1894-1985) was a Mazatec curandera (healer/shaman) from Huautla de Jimenez, Oaxaca, Mexico, who became internationally known as the result of R. Gordon Wasson's 1955 expedition that introduced psychoactive mushroom ceremonies to the Western world. Her veladas (all-night mushroom ceremonies) represented the oldest continuous tradition of psychedelic practice known to humanity, stretching back thousands of years to the mushroom stone cultures documented in [[mexican-mushroom-stones-archaeological-evidence]].
+tags: [[mexican-mushroom-stones-archaeological-evidence]].
 
 ## The Wasson Expedition of 1955
 
@@ -87,7 +82,7 @@ Wasson's Life Magazine article made Maria Sabina internationally famous:
 
 - Her name and photograph were published worldwide
 - Huautla de Jimenez became a destination for psychedelic tourists
-- Scientists (including [[albert-hofmann]]) visited to study the mushrooms
+- Scientists (including gordon-wasson) visited to study the mushrooms
 - Counter-culture figures (including Bob Dylan, John Lennon) reportedly visited
 
 ### The Invasion
@@ -121,7 +116,7 @@ The Mexican authorities eventually cracked down on mushroom use:
 
 ### Hofmann's Visit
 
-Albert Hofmann visited Huautla de Jimenez in 1957 and was hosted by Maria Sabina. He collected specimens of the mushrooms used in the ceremonies, which led to the identification of the active compounds [[query-what-is-the-difference-between-psilocybin-and-psilocin]] and [[query-what-is-the-difference-between-psilocybin-and-psilocin]].
+Albert Hofmann visited Huautla de Jimenez in 1957 and was hosted by Maria Sabina. He collected specimens of the mushrooms used in the ceremonies, which led to the identification of the active compounds [[query-what-is-the-difference-between-psilocybin-and-psilocin]].
 
 ### The Naming
 
@@ -135,7 +130,7 @@ The type specimens of Psilocybe mexicana and several other psychoactive Psilocyb
 
 ### The Mazatec Tradition
 
-The [[mazatec-mushroom-tradition]] is one of the last surviving examples of the ancient Mesoamerican mushroom cult documented by the [[mexican-mushroom-stones-archaeological-evidence]] of Guatemala and Mexico. The continuity between the archaeological evidence and the living tradition represents one of the longest continuous religious practices in human history.
+The [[mexican-mushroom-stones-archaeological-evidence]] of Guatemala and Mexico. The continuity between the archaeological evidence and the living tradition represents one of the longest continuous religious practices in human history.
 
 ### The Ethical Questions
 

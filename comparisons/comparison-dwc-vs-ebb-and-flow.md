@@ -20,37 +20,13 @@ oxygen into the root zone with each cycle. Understanding these differences
 helps growers select the right system for their space, experience level,
 and cultivation goals.
 ## Deep Water Culture
-[[deep-water-culture]]
-Deep water culture is the simplest active hydroponic system in principle.
-Plants are suspended in net pots above a reservoir of nutrient solution,
-with their roots growing down into the liquid. Air stones connected to air
-pumps continuously bubble oxygen through the solution, keeping the roots
-aerated and preventing root rot. There are no timers, flood cycles, or
-drain mechanisms to manage; the air pumps run 24 hours a day and the
-roots remain submerged at all times.
-This simplicity makes DWC an attractive entry point for growers
-transitioning from hand-watering to active hydroponics. A single bucket
-system can be built for under fifty dollars using a five-gallon bucket, a
-net pot lid, an air pump, and an air stone. Fewer points of mechanical
-failure compared to more complex systems is another advantage. As
-described in [[cannabis-hydroponic-systems]], DWC scales well from
+[[cannabis-hydroponic-systems]], DWC scales well from
 single-bucket setups to multi-bucket recirculating configurations.
 The continuous submersion of roots in nutrient solution means plants have
 constant access to water and nutrients, which can produce very fast growth
 rates, particularly in the vegetative stage. The high dissolved oxygen
 levels maintained by the air pumps support vigorous root development and
 nutrient uptake. DWC is frequently compared favorably to hand-watering in
-[[green-cannabis-grow-bible-hydroponics-and-the-bubbler]] for its growth
-speed and simplicity.
-However, DWC has notable limitations. The nutrient solution must be
-carefully maintained: temperature should stay between 65 and 70 degrees
-Fahrenheit to prevent pathogen growth, pH must be monitored and adjusted
-regularly, and the solution should be changed periodically to prevent
-nutrient salt accumulation. Root health is entirely dependent on the air
-pump, and any pump failure can rapidly lead to root suffocation and plant
-death. The open reservoir also means higher evaporation rates and greater
-water consumption than some other systems.
-## Ebb and Flow
 [[ebb-and-flow]]
 Ebb and flow, also known as flood and drain, works by periodically
 flooding a growing tray or table with nutrient solution from a reservoir
@@ -66,8 +42,7 @@ between floods, and buffers roots from rapid environmental changes. This
 buffering makes ebb and flow more forgiving than DWC, as the medium
 retains moisture and nutrients between cycles, giving a wider margin of
 error.
-Ebb and flow systems are well documented in [[cervantes-hydroponic-systems]]
-and [[cannabis-grow-hydroponic-growing-systems]] as versatile platforms
+Ebb and flow systems are well documented in [[cannabis-grow-hydroponic-growing-systems]] as versatile platforms
 for a wide range of plant sizes. They work particularly well for cannabis
 because the periodic drying encourages healthy root development and helps
 prevent waterlogged conditions that can lead to root rot in continuously
@@ -105,20 +80,7 @@ transitioning from soil or hand-watered coco to active hydroponics.
 DWC also excels in dedicated vegetative spaces where maximizing growth
 rate is the primary goal. The continuous nutrient availability and high
 dissolved oxygen levels support rapid biomass accumulation. Growers
-running [[cannabis-deep-water-culture-guide]] systems for mother plants
-often report exceptional growth rates compared to other configurations.
-## When to Choose Ebb and Flow
-Ebb and flow is the better choice for growers who want a versatile system
-that can accommodate different plant sizes, growth stages, and growing
-media in the same setup. The medium buffering provides a wider margin of
-error, making it more forgiving for less experienced growers or those who
-cannot monitor their garden daily.
-The ability to use moisture-retaining media like rockwool or coco coir
-makes ebb and flow well suited for starting seeds and clones, then
-vegetating and flowering in the same system. This versatility is valuable
-for small operations where one table must serve multiple purposes. Ebb
-and flow also integrates well with
-[[cervantes-top-feed-hydroponic-systems]] for supplemental top-feeding.
+running [[cervantes-top-feed-hydroponic-systems]] for supplemental top-feeding.
 ## Hybrid Approaches
 Some growers combine elements, such as DWC buckets connected to a central
 ebb and flow controller that periodically refreshes the nutrient solution.
@@ -126,9 +88,6 @@ Others use ebb and flow tables with supplementary air stones in the
 reservoir to maintain higher dissolved oxygen levels. Both approaches
 capture benefits of each system while mitigating individual weaknesses.
 ## See Also
-- [[comparison-kratky-vs-dwc]]
 - [[comparison-nft-vs-dwc]]
-- [[comparison-nft-vs-ebb-and-flow]]
 - [[comparison-living-soil-vs-hydroponic]]
-- [[cannabis-hydroponic-systems]]
 - [[hydroponic-growing-basics]]

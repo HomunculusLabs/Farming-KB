@@ -124,8 +124,6 @@ This aligns with ecological concepts of succession, disturbance, and reorganizat
 
 ## See Also
 
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[green-philosophy]]
 - [[non-causality-in-nature]]

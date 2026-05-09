@@ -127,12 +127,8 @@ habitat restoration projects.
 
 ## See Also
 
-- [[miscanthus-giganteus]]
-
 - [[angelica-sinensis]]
 
-- [[arundo-donax]] — giant reed, another high-yielding bioenergy grass
 - [[moringa-oleifera]] — multipurpose permaculture tree for tropical systems
-- [[comfrey-symphytum-officinale]] — dynamic accumulator for nutrient cycling
 - [[robinia-pseudoacacia]] — black locust, nitrogen-fixing permaculture tree
 - [[caragana-arborescens]] — Siberian peashrub, cold-hardy nitrogen fixer

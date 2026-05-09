@@ -81,11 +81,7 @@ The most important concept in JADAM soil fertility is nutritional balance. Crops
 
 ## See Also
 
-- [[ultra-low-cost-farming-overview]]
 - [[ultra-low-cost-integrated-farming]]
-- [[building-soil-fertility-long-term]]
 - [[organic-nutrients-vs-synthetic-nutrients]]
-- [[bacterial-vs-fungal-soil-dynamics]]
 - [[biofertilizers-and-soil-inoculants]]
-- [[cover-crop-species-comparison]]
 - [[compost-building-guide]]

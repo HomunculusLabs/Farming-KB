@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [composting, mushroom-cultivation, mycology, soil-science]
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---
 title: Phase I Compost Preparation for Agaricus
@@ -142,9 +143,6 @@ For outdoor composting without Phase II rooms:
 Mesophilic bacteria and fungi (below 90F) initiate decomposition.
 Thermophilic fungi, actinomycetes, and bacteria dominate at 90-160F.
 Above 165F, decomposition is mainly chemical (humification and
-caramellization). Studies showed compost from the 120-135F zone
-produces the highest yielding crops. Approximately 20-30% of dry
 ## See Also
-- [[decomposition]]
 - [[composting]]
 - [[thermophilic-fungi]]

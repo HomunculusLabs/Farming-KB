@@ -53,12 +53,7 @@ Whole-plant cannabis products that contain THC, CBD, and therapeutic terpenes ma
 ### Insomnia Secondary to Pain
 - Cannabis's analgesic properties make it particularly effective for pain-related insomnia
 - Patients with chronic pain who use cannabis often report improved sleep as a primary benefit
-- This application overlaps significantly with [[cannabis-for-chronic-pain]]
-
-### Insomnia Secondary to Anxiety
-- CBD's anxiolytic properties make it useful for anxiety-related sleep disturbances
-- The calming effect of CBD on autonomic stress responses (reducing heart rate, promoting relaxation) can facilitate sleep onset
-- This application connects to [[cannabis-anti-inflammatory-applications]] pathways, as anxiety and inflammation are closely linked
+- This application overlaps significantly with [[cannabis-anti-inflammatory-applications]] pathways, as anxiety and inflammation are closely linked
 
 ### PTSD-Related Sleep Disturbances
 - THC's REM-suppressing effects may reduce nightmares in PTSD patients
@@ -97,11 +92,7 @@ Whole-plant cannabis products that contain THC, CBD, and therapeutic terpenes ma
 - CBD is generally well-tolerated and carries minimal risk of dependence
 
 ## Related
-- [[cannabis-endocannabinoid-system]] -- receptor biology and sleep regulation
 - [[cannabis-anti-inflammatory-applications]] -- inflammation and sleep connection
-- [[cannabis-for-chronic-pain]] -- pain-related insomnia
 - [[cannabis-neurological-conditions]] -- neurological aspects of sleep
-- [[cannabis-therapeutic-index-overview]] -- evidence framework
 - [[cannabis-terpene-entourage-effect-profiles]]
-- [[cannabis-sleep-disorders-and-insomnia]]
 - [[cannabis-terpene-entourage-effect]]

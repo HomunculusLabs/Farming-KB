@@ -16,8 +16,7 @@ type: concept
 
 # Permaculture Education, Training and the PDC
 
-[[david-holmgren]] provides a detailed analysis of Permaculture education,
-tracing the evolution of the [[permaculture-design]] Course (PDC), the
+[[permaculture-design]] Course (PDC), the
 tensions within the movement about training standards, and the broader
 relationship between formal education and effective learning for energy
 descent.
@@ -121,7 +120,5 @@ consequences have provided myriad opportunities for overcoming the
 limitations of direct experience, but the current system often channels
 creativity toward narrowly defined, short-term goals.
 
-See also [[holmgren-action-learning-loop]],
-[[holmgren-wholistic-design-thinking]],
-[[permaculture-design]],
+See also [[holmgren-wholistic-design-thinking]],
 [[holmgren-design-science-discipline]].

@@ -25,26 +25,6 @@ While both methods are forms of bioconversion, their biological differences lead
 
 ## Black Soldier Fly Composting
 
-[[black-soldier-fly-composting]] uses the larvae of *Hermetia illucens* to break down organic waste into protein-rich feed and nutrient-dense frass. The BSF lifecycle has four stages: egg (3-4 days), larva (14-21 days), prepupa (self-harvesting phase), and adult (5-8 days). The entire cycle completes in roughly 3-4 weeks under optimal conditions, allowing multiple generations per growing season.
-
-### Strengths
-
-BSF larvae are remarkably versatile feeders. They process meat, dairy, oily waste, and kitchen scraps that would harm earthworm systems. Processing speed is approximately 10 times faster than vermicomposting, making BSF ideal for operations generating large volumes of diverse organic waste. A well-managed BSF colony can process several pounds of waste per square foot daily.
-
-The harvested prepupae serve as high-protein animal feed for poultry, fish, and livestock, containing roughly 40% protein by dry weight. This creates a direct revenue stream or cost offset for livestock feed. Frass, the residual material, is an excellent soil amendment rich in nitrogen and chitin, which supports plant immune responses.
-
-BSF composting also produces very little odor compared to traditional composting when managed properly. The larvae consume waste so quickly that anaerobic conditions rarely develop. This makes BSF suitable for settings where neighbor complaints or regulatory concerns about smell might otherwise prevent on-site composting.
-
-### Requirements and Limitations
-
-BSF systems require warm conditions with an optimal range of 70-95 degrees Fahrenheit, which suits tropical and subtropical climates best. They need relatively little space compared to earthworm setups, and the self-harvesting behavior of prepupae simplifies collection significantly.
-
-Adult BSF do not bite, sting, or eat, reducing nuisance concerns in populated areas. They live only 5-8 days as adults, focusing solely on reproduction. However, maintaining breeding colonies requires careful temperature management and periodic restocking of adult flies. In cooler climates, supplemental heating may be necessary year-round, which adds to operational costs.
-
-BSF systems scale well from small bins to commercial facilities. The larvae naturally migrate out of the waste when ready to pupate, allowing passive harvesting through ramps or collection trays. This behavior makes automated harvesting feasible at larger scales. However, the initial learning curve for managing breeding cages and ensuring consistent egg production can be steep for newcomers.
-
-## Earthworm Breeding
-
 [[earthworm-breeding]] centers on three primary species, each serving a distinct ecological role. Brandling worms (*Eisenia fetida*) are compost specialists that thrive in decomposing organic matter. Red worms (*Lumbricus rubellus*) improve soil aeration and are commonly found in garden beds. Common earthworms (*Lumbricus terrestris*) create deep vertical burrows that enhance subsoil drainage, root penetration, and nutrient cycling from deeper soil layers.
 
 ### Strengths
@@ -115,16 +95,6 @@ When designing a hybrid system, consider placing BSF bins in the warmest availab
 
 ## See Also
 
-- [[comparison-earthworm-ecology-vs-earthworm-breeding]]
-
-- [[black-soldier-fly-composting]]
-- [[earthworm-breeding]]
-
-## Summary
-
-Black soldier fly composting and earthworm breeding each address distinct needs within organic waste management. BSF offers speed, versatility in waste types, and a protein byproduct, making it the choice for high-volume processing and warm climates. Earthworm breeding delivers superior soil amendments with minimal inputs, suited for gardeners, cool climates, and plant-based waste streams.
-
-The most resilient waste management systems often incorporate both methods in sequence. BSF handles the heavy lifting on diverse waste, and earthworms polish the output into a premium soil product. This complementary pairing extracts maximum value from organic waste while building long-term soil health.
+- [[black-soldier-fly-larvae-as-feed]]
 - [[comparison-bokashi-vs-hot-composting-method]]
-- [[comparison-green-manure-vs-composting]]
 - [[composting-methods-comparison]]

@@ -102,19 +102,12 @@ Without additional archaeological evidence — such as textual references linkin
 
 ## See Also
 
-- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
 - [[mckenna-wasson-soma-contradictions-and-doubts]]
-- [[mckenna-catal-huyuk-natufian-link]]
 - [[mckenna-minoan-crete-mushroom-religion]]
-- [[mckenna-dionysus-dying-god-archetype]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
-- [[mckenna-abandonment-of-mystery-four-stages]]
 - [[mckenna-myth-of-glaukos-honey-preservation-mushroom]]
-- [[mckenna-eleusinian-mysteries]]
 - [[mckenna-ergot-and-witches-sabbath-theory]]
-- [[mckenna-minoan-crete-eleusinian-mysteries]]
-- [[mckenna-dominican-inquisition-against-mushroom-religion]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- [[mckenna-tassili-cave-mushroom-shaman]]
-- [[mckenna-habit-creode-and-cognitive-evolution]]
+- mckenna tassili cave mushroom shaman
+- mckenna habit creode and cognitive evolution
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]

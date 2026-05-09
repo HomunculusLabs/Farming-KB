@@ -29,48 +29,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627535/
 ---
 
-# Damiana (*Turnera diffusa*)
-
-> *"The herb of love" — a revered Mexican botanical prized since Aztec times for its relaxing, mood-elevating, and aphrodisiac properties.*
-
-## Overview
-
-**Damiana** (*Turnera diffusa* Willd. ex Schult.) is a small aromatic shrub in the family Passifloraceae (formerly Turneraceae), native to southern Texas, Mexico, Central America, South America, and the Caribbean. It has been used for centuries in traditional Mexican and Central American medicine as an aphrodisiac, nerve tonic, and general wellbeing herb. Damiana remains widely popular today in herbal teas, tinctures, liqueurs, and smoking blends, valued for its mild anxiolytic and mood-enhancing effects. The leaves contain a complex phytochemical profile including flavonoids, terpenoids, cyanogenic glycosides, and aromatic essential oils.
-
-## Botanical Description
-
-| Rank | Classification |
-|------|---------------|
-| **Kingdom** | Plantae |
-| **Clade** | Tracheophytes → Angiosperms → Eudicots → Rosids |
-| **Order** | Malpighiales |
-| **Family** | Passifloraceae (historically Turneraceae) |
-| **Genus** | *Turnera* L. |
-| **Species** | *T. diffusa* Willd. ex Schult. |
-
-- **Growth habit:** Small, woody, aromatic shrub reaching 30–100 cm in height.
-- **Stems:** Mature stems are woody and branching; younger stems may be herbaceous.
-- **Leaves:** Small, grayish-green, 13–16 mm long and 4.5–5.5 mm wide, obtuse at the apex, strongly aromatic when crushed. The aroma is spice-like, reminiscent of chamomile, due to volatile essential oil compounds.
-- **Flowers:** Small, bright yellow, five-petaled flowers borne in the leaf axils. Blooming occurs in early to late summer.
-- **Fruit:** Small capsular fruits that follow flowering, reportedly tasting similar to figs.
-- **Synonyms:** *Turnera aphrodisiaca* Ward (a nomenclatural synonym reflecting its traditional reputation); *Turnera microphylla* Desv.
-- **Common names:** Damiana, Mexican damiana, old woman's broom, herba de la pastora, mizib-coc.
-
-## Traditional Uses
-
-**Aztec and Maya medicine:** Damiana was used by the Aztec (Nahuatl: *mizib-coc*) and Maya civilizations as a sexual tonic and aphrodisiac. It was prescribed to enhance libido in both men and women, and to address reproductive disorders including impotence and infertility.
-
-**Mexican folk medicine:** A staple of Mexican herbalism (*herbolaria*), damiana has been traditionally used as a nerve tonic (*tónico nervino*), digestive aid, and remedy for nervous exhaustion, anxiety, and mild depression. It was included in several 19th-century patent medicines, most notably Pemberton's French Wine Coca — the precursor to Coca-Cola (damiana was omitted from the non-alcoholic version).
-
-**Cultural uses:** Damiana is a key ingredient in traditional Mexican liqueur produced in the Los Cabos region of Baja California Sur. Folklore holds it was used in the "original" margarita. The damiana margarita remains popular in the region. It has also been historically used as a smoking herb for relaxation.
-
-## Phytochemistry
-
-Damiana leaves contain a diverse array of bioactive compounds:
-
-**Flavonoids (22 identified):** Apigenin, acacetin, luteolin, quercetin, and their glycosides. Apigenin and acacetin are particularly notable for their anxiolytic and CNS-modulating activity. Flavonoids are considered primary contributors to damiana's relaxing effects.
-
-**Terpenoids and essential oils:** 1,8-Cineole (eucalyptol), α-pinene, β-pinene, p-cymene, thymol, and various sesquiterpenoids. These volatile compounds account for the characteristic aromatic scent and contribute to mild psychoactive effects when smoked.
+# Damiana (*[[eucalyptol]]), α-pinene, β-pinene, p-cymene, thymol, and various sesquiterpenoids. These volatile compounds account for the characteristic aromatic scent and contribute to mild psychoactive effects when smoked.
 
 **Phenolic compounds:** Arbutin (hydroquinone β-D-glucoside), a notable antimicrobial and antioxidant phenolic glycoside. Also present are tannins and various phenolic acids.
 
@@ -140,11 +99,7 @@ Damiana is generally well-tolerated at typical herbal doses. Side effects are ra
 **Drug interactions:** Additive sedation with CNS depressants (benzodiazepines, barbiturates, alcohol). Theoretically may interact with anticoagulants due to flavonoid content.
 
 **Dosage ceiling:** No established upper limit, but excessive doses (>10 g dried leaf/day) may cause mild toxicity from cyanogenic glycoside content.
-
 ## See Also
 
-- [[damiana]]
-
 - [[rhodiola-rosea]]
-- [[ashwagandha]]
 - [[bacopa-monnieri]]

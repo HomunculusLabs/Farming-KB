@@ -132,8 +132,6 @@ agents, making it a model system for studying plant-fungus-
 mycoparasite interactions in soil.
 
 ## See Also
-Related: [[lichens-primary-production-soil-formation-dighton]], [[query-how-does-crop-rotation-improve-soil-health]], [[jadam-cover-crop-soil-temperature-management]]
-- [[talaromyces-flavus]]
-- [[clonostachys-rosea]]
+Related: [[query-how-does-crop-rotation-improve-soil-health]], [[talaromyces-flavus]]
 - [[verticillium-biguttatum]]
 - [[rhizoctonia-solani]]

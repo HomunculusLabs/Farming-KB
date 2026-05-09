@@ -22,13 +22,7 @@ In his 2005 book *Gardening When It Counts: Growing Food in Hard Times*, Steve S
 
 ## From Intensive Advocate to Dissident
 
-Solomon's critique carries unusual weight because he was once a leading proponent of the very methods he later rejected. In 1979 he founded Territorial Seed Company, which he ran until selling it in 1986. During those years he was deeply immersed in the John Jeavons-style [[intensive-gardening-critique-solomon|intensive biointensive movement]], promoting close plant spacing, double-dug raised beds, and heavy compost inputs as the path to maximum yields on minimal land. He distributed seed catalogs and gardening advice that reflected this orthodoxy, and he personally practiced intensive methods for years.
-
-His conversion came through hands-on experimentation over many growing seasons. He established trial plots comparing intensively spaced vegetables against the same varieties grown at wider intervals under otherwise identical conditions. The results consistently surprised him: the well-separated plants grew significantly larger, produced fruit that tasted noticeably better, and yielded equal or greater harvest per unit of garden space. The closely spaced plants competed aggressively for moisture, light, and soil nutrients, resulting in stressed crops with smaller root systems and diminished flavor.
-
-This evidence directly contradicts the theoretical yield-per-square-foot advantages claimed by intensive methods. The intensive advocates had focused on above-ground spacing while largely ignoring the below-ground reality of root competition for water and minerals.
-
-See also [[root-competition-plant-spacing-solomon|root competition and plant spacing]] for Solomon's detailed analysis of how close spacing undermines root development and overall plant health, and why the theoretical models of intensive advocates fail to account for below-ground competition.
+Solomon's critique carries unusual weight because he was once a leading proponent of the very methods he later rejected. In 1979 he founded Territorial Seed Company, which he ran until selling it in 1986. During those years he was deeply immersed in the John Jeavons-style [[root-competition-plant-spacing-solomon|root competition and plant spacing]] for Solomon's detailed analysis of how close spacing undermines root development and overall plant health, and why the theoretical models of intensive advocates fail to account for below-ground competition.
 
 ## The Jeavons Versus Solomon Divide
 
@@ -46,11 +40,7 @@ When petroleum becomes expensive or scarce, the entire logistics chain supportin
 
 ## Complete Organic Fertilizer as a Middle Path
 
-Rather than abandon fertility management entirely, Solomon developed his [[complete-organic-fertilizer-recipes|Complete Organic Fertilizer (COF)]] recipe as a practical alternative to massive compost applications. The COF formula combines seed meal as a nitrogen source, agricultural lime to adjust soil pH, rock phosphate for phosphorus, and kelp meal for trace minerals and micronutrients. This blend can be produced in bulk, stored indefinitely, and applied at modest rates to widely spaced row crops — representing a fraction of the input cost, labor, and logistics of intensive bed systems.
-
-The COF approach aligns with his broader philosophy: use measurable, repeatable inputs at appropriate rates rather than attempting to generate the massive volumes of compost that intensive methods demand. It also allows gardeners to precisely tailor fertility to crop needs, avoiding the over-application that often accompanies heavy composting regimens.
-
-See [[composting-science-solomon|composting science]] for Solomon's detailed comparison of COF against compost-centric approaches, including the nutrient analysis that demonstrates COF's superiority for row-crop vegetable production.
+Rather than abandon fertility management entirely, Solomon developed his [[composting-science-solomon|composting science]] for Solomon's detailed comparison of COF against compost-centric approaches, including the nutrient analysis that demonstrates COF's superiority for row-crop vegetable production.
 
 ## Dry Gardening Without Irrigation
 
@@ -74,34 +64,6 @@ Solomon's wide-spacing approach has direct implications for garden tool selectio
 
 The emphasis on simple hand tools is itself a resilience strategy. Power tillers require fuel, maintenance, and replacement parts — all of which become scarce during hard times. A well-made digging fork, hoe, and rake can last a lifetime with minimal care and can maintain a large garden plot efficiently when plants are arranged in widely spaced rows.
 
-See [[garden-hand-tools-solomon|garden hand tools]] for Solomon's specific recommendations on tool selection, maintenance, and technique for wide-spacing row cultivation.
-
-## Historical Models for Resilient Gardening
-
-Solomon draws on two powerful historical examples to support his case for larger-scale, lower-input food production, demonstrating that his wide-spacing approach is not theoretical but proven under conditions of genuine scarcity.
-
-### Cuban Urban Agriculture Post-Soviet Collapse
-
-When the Soviet Union dissolved in 1991, Cuba lost its primary source of petroleum, synthetic fertilizers, and agricultural chemicals almost overnight. The resulting "Special Period" forced a rapid national transition to localized food production. Within a few years, roughly half of Havana's fresh produce was being grown within the city limits, using organoponicos and parcelas — urban garden plots that emphasized wide-row spacing, local composting, and manual cultivation.
-
-The Cuban experience demonstrated that urban populations can feed themselves through low-input gardening at scale, but critically, the model that emerged was far closer to Solomon's wide-spacing row approach than to the intensive raised-bed methods promoted in Western organic gardening literature. The Cuban gardeners had no choice but to work with the resources at hand, and the system they developed reflects the practical constraints that Solomon identifies as central to genuine food self-sufficiency.
-
-### British Wartime Allotments
-
-During World War II, the British government mandated that local authorities provide allotment gardens with a minimum size of 2,700 square feet (approximately 250 square meters) per household. This was not an arbitrary figure — it represented the minimum area needed for a family to grow a meaningful proportion of their own calories and nutrition using traditional row-crop methods. The "Dig for Victory" campaign produced substantial quantities of food during years of severe rationing and supply disruption, but it did so through large plots with standard row spacing, not through intensive mini-farming on raised beds.
-
-## Clay Soil Limitations
-
-Solomon devotes significant attention to the practical failures of intensive methods on clay soils, which are common across much of North America and Europe. Double-dug raised beds on clay are enormously laborious to create and tend to collapse back into a compacted state within a single growing season. The fine clay particles migrate into and fill the pore spaces created by deep cultivation, rapidly undoing the aeration benefits that double-digging was meant to provide.
-
-Close spacing on clay soils further exacerbates drainage problems and creates waterlogged root zones during wet periods, promoting root diseases and reducing yields. Intensive methods that work reasonably well on sandy loams become counterproductive on heavy clay soils, yet many gardening guides present them as universally applicable without acknowledging this limitation.
-
-Wide spacing on rows, by contrast, allows each plant to develop a root system large enough to penetrate and exploit clay soils effectively. The spaces between rows also provide drainage channels during heavy rain and can be cultivated to prevent surface crusting. For gardeners working with clay — a substantial portion of the gardening population — the intensive bed approach creates more problems than it solves.
-
-## Seed Quality in a Low-Input System
-
-Solomon's emphasis on wide spacing and low inputs makes seed quality more important, not less. When plants must access soil moisture and nutrients without intensive irrigation or heavy fertilization, genetic vigor becomes critical. He advocates for selecting varieties adapted to local conditions and saving seed from the best-performing plants to develop locally adapted strains over time.
-
 See [[seed-quality-and-selection-solomon|seed quality and selection]] for Solomon's approach to choosing and breeding vegetables for resilience under low-input conditions, including his recommendations for open-pollinated varieties over hybrids.
 
 ## Implications for Hard Times
@@ -112,18 +74,7 @@ The wide-spacing model trades theoretical maximum yield per square foot for robu
 
 ## A Potato Case Study
 
-Solomon's [[potato-growing-guide-solomon|potato growing guide]] illustrates the wide-spacing philosophy in concrete terms. He recommends spacing potato seed pieces 12 to 15 inches apart in rows that are 36 inches wide, far more generous than the tight spacing often recommended. The result is larger tubers per plant, better disease resistance due to improved airflow, and the ability to grow potatoes without supplemental irrigation in many climates. The potato example encapsulates his broader argument: more space per plant means healthier plants, better harvests, and lower input requirements.
-
-## Summary: The Core Trade-off
-
-Solomon's debate with the intensive gardening establishment ultimately comes down to a single trade-off: land area versus input dependency. Intensive methods minimize land but maximize reliance on compost, water, and petroleum. Wide-spacing methods require more land but minimize external dependencies. For gardeners with access to sufficient ground, and especially for those planning for conditions of scarcity, Solomon's position is clear: choose the method that works when everything else stops working.
-
-## Related Concepts
-
-- [[intensive-gardening-critique-solomon|Intensive Gardening Critique]]
-- [[composting-science-solomon|Composting Science and Solomon's Approach]]
+Solomon's [[intensive-gardening-critique-solomon|Intensive Gardening Critique]]
 - [[complete-organic-fertilizer-recipes|Complete Organic Fertilizer Recipes]]
-- [[root-competition-plant-spacing-solomon|Root Competition and Plant Spacing]]
 - [[potato-growing-guide-solomon|Potato Growing Guide]]
-- [[seed-quality-and-selection-solomon|Seed Quality and Selection]]
 - [[garden-hand-tools-solomon|Garden Hand Tools]]

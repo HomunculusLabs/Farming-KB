@@ -1,15 +1,7 @@
 ---
 title: Tropical Animal Integration Pest Control and Recycling
 created: 2026-04-26
-tags: permaculture, animal-integration, pest-control, tropical-agriculture, recycling]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Tropical [[permaculture-animal-integration-design]], Pest Control, and Recycling
+tags: [[permaculture-animal-integration-design]], Pest Control, and Recycling
 
 Perhaps the main function of animal species in the tropics
 is to "recycle" plant wastes and to help control the rampant
@@ -36,40 +28,7 @@ Ground foragers perform essential recycling and pest control:
   fruit and larval insect infestations.
 
 - Chickens are especially valuable in weed control in
-  pineapple, ginger, and taro, and will control comfrey and
-  Tradescantia if needed.
-
-- The problem of kikuyu grass is eased by domestic guinea
-  pigs on range (in small houses); these free trees from
-  grass competition and provide manures.
-
-## Leaf and Canopy Foragers
-
-Leaf foragers attend to infestations in the canopy:
-
-- Birds and frogs attend to insect infestations in the
-  canopy.
-
-- A variety of small skink lizards also forage in the
-  canopy.
-
-- Tiliqua lizards forage for snails and slugs at ground
-  level, as do ducks.
-
-- Pasture grubs are eagerly sought out by a variety of
-  birds and small mammalian and marsupial insectivores.
-
-## Aquatic and Semi-Aquatic Recyclers
-
-- Tropical land crabs seek larval insects in mulch and
-  provide useful food themselves.
-
-- Small fish and insect predators such as notonectids
-  (backswimmers) in open and water systems assist in pest
-  control.
-
-- Mulch and water systems can combine fats or oils (e.g.,
-  lecithin), a poison ([[neem]] oil), and an infective agent
+  pineapple, ginger, and taro, and will control [[neem]] oil), and an infective agent
   (Bacillus thuringensis) for [[integrated-pest-management]].
 
 ## Animal Integration in Palm Groves

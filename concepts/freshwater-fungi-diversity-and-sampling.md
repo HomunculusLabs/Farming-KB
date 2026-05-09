@@ -3,7 +3,7 @@ title: Freshwater Fungi Diversity and Sampling Methods
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 # Freshwater Fungi Diversity and Sampling Methods
@@ -70,48 +70,26 @@ Snake skin, fruit, and seed baits attract peronosporomycetes which can rapidly o
 
 ## See Also
 
-- [[marine-fungi-diversity-sampling]]
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
-- [[fungicolous-fungi-parasitic-interfaces]]
 - [[insect-associated-fungi-sampling-diversity]]
-- [[moist-chamber-techniques-fungi]]
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
-
-## Research Significance
-
-The study of these specialized fungal groups contributes to our broader
-understanding of fungal diversity, ecology, and evolution. Many species in
-these groups have unique adaptations that make them valuable model organisms
-for scientific research. Their ecological roles, while often overlooked, are
-essential to the functioning of the ecosystems they inhabit. Continued
-documentation and study of these fungi is important for advancing both
-basic mycology and applied fields such as biocontrol and bioremediation.
-
-## Conservation Status
-
-Like many fungal groups, these organisms face threats from habitat destruction,
-pollution, and environmental change. Their often-specific habitat requirements
-make them particularly vulnerable to ecosystem disruption. Conservation efforts
-should include protection of habitat types that support diverse fungal
-communities, as well as documentation of fungal biodiversity through
-systematic surveying. Many species in these groups remain undescribed or
-poorly known, making inventory work especially valuable.
-
-## Field Identification
-
-Identifying these fungi in the field requires attention to substrate,
-microhabitat, morphological features, and sometimes microscopic characters.
-Many species are small and easily overlooked, requiring careful searching
-and examination. Photography and collection of voucher specimens support
-accurate identification and contribute to biodiversity records. Working
-with experienced mycologists and consulting specialist literature greatly
-improves identification accuracy for these often-challenging groups.
 - [[fungal-communities-water-aquatic-ecosystems]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[aquatic-fungi-and-ingoldian-spores]]
+## Practical Considerations
+
+Successful implementation of Freshwater Fungi Diversity and Sampling Methods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

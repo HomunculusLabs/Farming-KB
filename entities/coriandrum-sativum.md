@@ -141,7 +141,6 @@ intense flavor to soups and curry pastes.
 
 ## See Also
 
-[[foeniculum-vulgare-entity]], [[anethum-graveolens]], petroselinum crispum,
-[[ocimum-basilicum]], [[rosmarinus-officinalis-entity]], [[origanum-vulgare-entity]],
-[[borago-officinalis]], allium tricoccum, and [[piper-nigrum-entity]] for
+[[anethum-graveolens]], petroselinum crispum,
+[[rosmarinus-officinalis-entity]], [[borago-officinalis]], allium tricoccum, and [[piper-nigrum-entity]] for
 comparison with other culinary herbs and companion plants.

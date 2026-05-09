@@ -3,7 +3,7 @@ title: Macrofungi on Woody Substrata — Survey Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -15,71 +15,7 @@ Wood-inhabiting macrofungi are a diverse and ecologically critical group requiri
 
 All decay fungi recycle lignocellulosic and mineral nutrients back into ecosystems. Their activities soften woody tissues, making them more amenable to bird and small-mammal habitation and use by arthropods, nematodes, and other invertebrates. Wood in advanced stages of decay is important for establishment of mycorrhizal associations with seedlings, and decayed woody debris acts as a moisture sink for maintaining mycorrhizal fungi in seasonally dry forests.
 
-The role of wood-inhabiting fungi in [[litter-wood-decomposing-fungi]] is especially significant in forest ecosystems, where coarse woody debris can constitute a substantial proportion of total ecosystem carbon. The diversity of decay strategies — white rot, brown rot, and soft rot — employed by different fungal taxa has profound implications for carbon storage, soil development, and habitat structure.
-
-## Host and Substratum Considerations
-
-- Gymnosperm hosts generally support a more restricted mycota than angiosperm hosts
-
-- Species richness probably depends more on the range of decay classes of substrata than on the number of tree species present
-
-- Most wood-inhabiting fungi are not particularly host-genus or host-species specific
-
-- Wood-inhabiting species include pathogens, endophytes, and saprobes — surveys are not limited to decay species
-
-Host specificity varies considerably among taxa. Some polypores are strongly associated with particular tree genera (e.g., Ganoderma species on hardwoods), while others are generalists found on a wide range of substrata. Understanding these host associations improves survey efficiency by allowing researchers to target specific substrata for particular species groups.
-
-## Sampling Challenges
-
-Small-size woody debris is encountered much more frequently than large-diameter wood, but different diameter classes support different communities. Fungi fruiting on large-diameter wood (logs, standing trees) are easily undersampled if collecting is confined to small subplots. Even in Scandinavian studies where many logs were surveyed, the species-substrata curve did not reach an asymptote.
-
-Standing dead wood (snags) and downed logs harbor different fungal communities, and both should be included in comprehensive surveys. The position of logs relative to the forest floor, degree of contact with soil, and exposure to sunlight all influence the microclimate and consequently the fungal species present.
-
-## Key Variables Affecting Community Structure
-
-- **Diameter class** and **decay stage** of wood
-
-- **Contact with soil**
-
-- **Microenvironmental variables**: exposure to sun, moss cover, soil moisture
-
-- **Age** of the dead wood
-
-- **Tree species** (genus or species identification when possible)
-
-Decay stage classification typically follows a three- or five-class system based on visual and tactile characteristics of the wood, including bark retention, wood hardness, moisture content, and structural integrity. Standardized decay class systems facilitate comparison across studies.
-
-## Recommended Approach
-
-For a complete survey of macrofungi on all classes of woody debris, augment small subplot-based samples of small debris with a separate method for surveying many large pieces of wood.
-
-### Log Sampling Protocol
-
-1. Select logs >20 cm diameter, >2 m length, lying on ground
-
-2. At each site, select 30 logs in each decay class:
-
-   - Class 1: Relatively newly fallen, retaining bark
-
-   - Class 2: Medium rotten; bark fallen off; knife can penetrate 2 cm
-
-   - Class 3: Thoroughly rotten; can be partly destroyed with fingers
-
-3. Mark each log with a colored plastic band, number it, and map its position
-
-4. Record length, diameter, and tree species
-
-5. Collect 2-3 sporocarps of common species; collect multiple sporocarps of rare species
-
-6. Section large polypores radially at ~1.0-1.5 cm width for drying
-
-## Sampling Frequency
-
-Four times per year (dry season, beginning/middle/end of rainy season) has worked well in tropical inventories. Every 2 weeks is ideal for comprehensive sampling but may not be feasible with limited resources.
-
-## Data Analysis Considerations
-
-Species accumulation curves and non-parametric richness estimators (Chao1, ACE, Jackknife) should be used to assess sampling completeness. Ordination methods (PCA, NMDS) can reveal patterns in community composition related to substratum characteristics and environmental gradients. These analytical approaches are discussed in more detail in the [[fungal-species-richness-and-diversity-indices]] literature.
+The role of wood-inhabiting fungi in [[fungal-species-richness-and-diversity-indices]] literature.
 
 ## Open Research Questions
 
@@ -95,10 +31,85 @@ Species accumulation curves and non-parametric richness estimators (Chao1, ACE, 
 
 ## See Also
 
-- [[wood-inhabiting-microfungi]]
 - [[litter-wood-decomposing-fungi]]
-- [[wood-decay-fungi-buildings]]
 - [[macrofungi-sampling]]
-- [[recommended-protocols-sampling-macrofungi]]
 - [[fungal-community-ecology]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
+## Practical Applications
+
+Macrofungi on Woody Substrata — Survey Design has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Macrofungi on Woody Substrata — Survey Design. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

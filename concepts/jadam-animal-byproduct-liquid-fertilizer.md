@@ -82,11 +82,8 @@ For utilizing fish processing waste:
 ## Integration with JADAM System
 
 Animal by-product JLFs fit within the broader JADAM approach:
-- [[jadam-liquid-fertilizer-philosophy]] -- the philosophy behind homemade fertilizers
 - [[jadam-liquid-fertilizer]] -- general JLF principles
-- [[jadam-food-waste-liquid-fertilizer]] -- plant-based alternatives
 - [[jadam-natural-nitrogen-fertilizer]] -- nitrogen-focused approaches
-- [[jadam-customized-microorganism-medium]] -- using indigenous microbes
 - [[jadam-ultra-low-cost-agriculture]] -- the overall cost-reduction philosophy
 
 ## Practical Considerations
@@ -100,8 +97,6 @@ Animal by-product JLFs fit within the broader JADAM approach:
 
 ## Related Concepts
 
-- [[jadam-liquid-fertilizer]]
 - [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-microorganism-solution-jms]]
 - [[jadam-soil-management-principles]]
 - [[jadam-natural-farming-philosophy]]

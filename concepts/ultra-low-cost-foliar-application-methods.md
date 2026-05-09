@@ -46,48 +46,6 @@ deliver beneficial microorganisms directly to leaf surfaces. The guide
 notes that JMS applied foliarly can help control powdery mildew and other
 fungal diseases. For foliar application, JMS should be diluted over 20
 times and always mixed with [[ultra-low-cost-jadam-natural-pesticide-jnp]]
-wetting agent (JWA).
-
-The dilution ratio for foliar JMS is 3 litres of JWA per 500 litres of
-water (approximately 0.8 gallons per 132 gallons). After running JMS
-through a hose, clean water should be run through to prevent residue
-buildup.
-
-## Liquid Fertiliser Foliar Sprays
-
-The JADAM system includes a range of liquid fertilisers that can be applied
-as foliar sprays. The guide provides detailed tables specifying the
-application method (soil, foliar, or both) for each input. Most JADAM
-liquid fertilisers support both soil and foliar application, giving the
-farmer flexibility in how they address crop needs.
-
-Key liquid fertilisers for foliar use include:
-
-- **Leaf mold extract**: Made from decomposed leaf material, providing a
-  broad spectrum of nutrients. The solid material keeps sinking and
-  requires regular stirring. Application method: both soil and foliar.
-
-- **Sea water solution**: Provides trace minerals. Dilution ratios vary
-  by crop stage and sensitivity. Application method: both soil and
-  foliar.
-
-- **Oyster shell and egg shell powder**: Calcium sources that can be
-  dissolved and applied foliarly for calcium-deficient crops.
-
-- **Phyllite solution**: A mineral-based input providing silica and
-  trace elements for foliar strengthening.
-
-## Temperature Considerations
-
-The guide specifies that both microorganism solution and liquid fertiliser
-should be made at ambient temperature. This is important for maintaining
-the viability of beneficial microorganisms in JMS. Extreme temperatures
-can kill the microorganisms and reduce the effectiveness of both JMS and
-liquid fertiliser preparations.
-
-## Integration with JADAM Natural Pesticide
-
-Foliar application serves as the primary delivery method for [[ultra-low-cost-jadam-natural-pesticide-jnp]]
 (JNP). The JADAM wetting agent (JWA) is essential for effective foliar
 coverage, ensuring that pesticide and nutrient solutions coat leaves
 evenly and penetrate pest organisms.
@@ -138,8 +96,6 @@ to be produced with commonly available materials.
 ## Related Concepts
 
 - Jadam Ultra Low Cost Microorganism Solution And Soil Foundation
-- [[ultra-low-cost-jadam-natural-pesticide-jnp]]
 - [[ultra-low-cost-soil-fertility]]
-- [[ultra-low-cost-integrated-farming]]
 - [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]]
 - [[jadam-ultra-low-cost-methods]]

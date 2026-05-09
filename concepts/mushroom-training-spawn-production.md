@@ -3,16 +3,11 @@ title: Mushroom Spawn Production — Grain Spawn and Tissue Culture
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, cultivation, spawn, tissue-culture, mushrooms]
-sources:
-  - "Mushroom Cultivation for People with Disabilities — A Training Manual (FAO RAP Publication 2001/12, Hanko)"
----
-
-# Mushroom [[spawn-production]] — Grain Spawn and Tissue Culture
+tags: [[spawn-production]] — Grain Spawn and Tissue Culture
 
 Complete spawn production workflow from the FAO training manual: PDA medium preparation, tissue culture selection, PDA-to-PDA transfer, and grain spawn multiplication on sorghum seeds. This is the most technically demanding part of mushroom cultivation.
 
-See also: [[mushroom-training-adapted-cultivation]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-pest-disease-management]], [[gourmet-medicinal-mushroom-spawn-grain-production]]
+See also: [[mushroom-training-oyster-straw-cultivation]], [[gourmet-medicinal-mushroom-spawn-grain-production]]
 
 ## Overview
 

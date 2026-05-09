@@ -1,7 +1,7 @@
 ---
 title: "Guild Planting Systems"
 created: 2026-04-28
-tags: [permaculture, polyculture, companion-planting, plant-guilds]
+tags: [[permaculture, polyculture, companion-planting, plant-guilds]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -43,44 +43,7 @@ climate or purpose.
 - **Nitrogen fixers**: Legumes and other nitrogen-fixing plants convert
   atmospheric nitrogen into forms available to companion plants. Examples
   include clover, lupine, alder, and locust trees.
-- **[[dynamic-accumulators]]**: Deep-rooted plants mine minerals from
-  subsoil layers and bring them to the surface through leaf drop. Comfrey,
-  dandelion, yarrow, and chicory are classic accumulators.
-- **Insectary plants**: Species that attract beneficial insects for
-  pollination and pest control. Dill, fennel, umbellifers, and many
-  native wildflowers serve this role.
-- **Ground covers and mulch producers**: Low-growing plants that suppress
-  weeds, retain moisture, and add organic matter. Strawberries, creeping
-  thyme, and sweet potato vine work well.
-- **Canopy or overstory plants**: The primary productive element, often a
-  fruit or nut tree, that provides the main harvest and creates microclimate
-  conditions for understory species.
-
-## Classic Guild Examples
-
-### The Apple Tree Guild
-
-This is one of the most widely cited guilds in permaculture literature. An
-apple tree serves as the central element, surrounded by:
-- Comfrey beneath the canopy drip line for dynamic accumulation
-- Garlic chives or daffodils to deter rodents from the trunk
-- Clover or alfalfa as a nitrogen-fixing ground cover
-- Dill or fennel to attract parasitic wasps that control codling moth
-- Nasturtiums as a pest-repelling ground cover
-- A nitrogen-fixing understory tree like Russian olive or sea buckthorn
-
-### The Three Sisters
-
-An ancient Indigenous American polyculture that Mollison frequently
-referenced:
-- Corn provides structural support
-- Beans fix nitrogen and climb the corn stalks
-- Squash shades the soil, suppresses weeds, and reduces moisture loss
-
-This guild produces three staple crops simultaneously while improving soil
-fertility and reducing pest pressure.
-
-### [[herb-spiral]] Guilds
+- **[[herb-spiral]] Guilds
 
 Herb spirals consolidate multiple microclimates into a compact space.
 The top is dry and sunny (rosemary, thyme), the middle is moderate
@@ -124,10 +87,7 @@ natives and nurse plants that create shade and improve soil.
 
 ## See Also
 
-- [[permaculture-chicken-forage-systems-design-course]]
-
 - [[apple-centered-guild-design]]
 - perennial polycultures
 - Food Forests And Forest Gardens
-- [[succession-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] guide

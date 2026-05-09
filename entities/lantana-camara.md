@@ -110,11 +110,7 @@ Integrated management combining biological control with mechanical clearing and 
 
 ## See Also
 
-- [[glycyrrhiza-glabra]] — hepatoprotective herbal alternative
 - [[artemisia-annua]] — medicinal plant with antimalarial properties
-- [[azadirachta-indica]] — invasive-tolerant tree with insecticidal uses
 - [[silybum-marianum]] — hepatoprotective plant for liver support
-- [[arctium-lappa-entity]] — medicinal plant for skin conditions
 - [[moringa-oleifera]] — multi-purpose tropical medicinal plant
-- [[calendula-officinalis]] — wound-healing medicinal plant
 - [[glycine-max-soybean-permaculture]] — nitrogen-fixing plant for tropical systems

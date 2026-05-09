@@ -113,36 +113,8 @@ Nematodes need a film of water to move through soil pores. Apply when soil is mo
 
 ## Compatibility
 
-**Safe to combine with:** [[mycorrhiza]]l inoculants, compost tea (on alternate days), BTi drenches, and beneficial fungi like *Trichoderma*.
+**Safe to combine with:** [[query-how-do-soil-aggregates-form-and-why-do-they-matter]] Topics
 
-**Avoid combining with:** Synthetic insecticides, copper-based fungicides, sulfur, high-nitrogen synthetic fertilizers, and soil solarization.
-
-## Fungus Gnat Control for Indoor Growers
-
-*Steinernema feltiae* is the preferred species for container growing because it thrives at moderate temperatures and moist conditions:
-
-1. Apply 5 million per 100 square feet as a soil drench when introducing new plants
-2. Reapply every 2 to 3 weeks during vegetative growth
-3. Monitor adults with yellow sticky traps — increase frequency when counts rise
-4. Combine with BTi drenches on alternating weeks for layered control
-5. Allow the top inch of soil to dry between waterings to disrupt the gnat life cycle
-
-## Troubleshooting Poor Results
-
-- **Soil too dry:** Top 2 inches must stay moist for at least a week after application
-- **Full sun application:** UV kills nematodes in minutes — apply at dusk
-- **Chlorinated water:** Always dechlorinate or use alternative water sources
-- **Wrong species:** *S. feltiae* will not control grubs — match species to pest
-- **Expired product:** Check use-by date; old product has declining viability
-- **Chemical residues:** Wait 2 weeks after any chemical pesticide or fertilizer application
-
-## Related
-
-- [[query-how-do-soil-aggregates-form-and-why-do-they-matter]] Topics
-
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[query-how-to-make-compost-tea-for-my-plants]]
-- [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
-- [[query-what-is-integrated-pest-management-for-organic-gardens]]
 - [[query-how-to-control-fungus-gnats-organically]]

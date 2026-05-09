@@ -3,7 +3,7 @@ title: Fungal Roles Grassland Ecosystems
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Roles in Grassland Ecosystems
@@ -124,11 +124,7 @@ grasslands, more so than in forest ecosystems where decomposition of
 aboveground litter can be decoupled from current plant productivity.
 
 Related topics:
-- [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[fungal-soil-aggregation]]
-- [[fungal-feeding-invertebrates-fungivory]]
 - [[fungal-biomass-estimation-methods]]
-- [[fungal-nutrient-cycling-forests]]
 - [[fungal-decomposition-kinetics]]
-- [[fungal-leaf-litter-succession]]
 - [[fungal-respiration-carbon-flux]]

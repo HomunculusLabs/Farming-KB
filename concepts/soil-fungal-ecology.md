@@ -1,7 +1,7 @@
 ---
 title: Soil Fungal Ecology
 created: 2026-04-28
-tags: [mycology, ecology, soil-science, decomposition]
+tags: [[mycology, ecology, soil-science, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -29,56 +29,7 @@ nutritional strategies:
   mushrooms) are especially important for lignin degradation.
 - **Mycorrhizal fungi**: Form mutualistic symbioses with plant roots,
   exchanging soil nutrients (phosphorus, nitrogen) for plant-derived
-  carbon. [[arbuscular-mycorrhizal-fungi]] (Glomeromycota) associate with
-  most herbaceous plants, while ectomycorrhizal fungi (primarily
-  Basidiomycota) associate with trees in temperate and boreal forests.
-- **Plant pathogens**: Soil-borne fungal pathogens (e.g., Fusarium,
-  Rhizoctonia, Verticillium) cause root and crown diseases that can
-  devastate agricultural crops and natural plant populations.
-- **Endophytes**: Fungi colonizing root and belowground stem tissues
-  asymptomatically, blurring the line between saprotrophs, pathogens,
-  and mutualists.
-- **Nematophagous fungi**: Specialized predators and parasites of soil
-  nematodes, contributing to biological pest regulation.
-- **Fungal parasites**: Fungi that parasitize other fungi, including
-  mycoparasites like Trichoderma species used in biocontrol.
-
-## Soil Horizons and Vertical Distribution
-
-Fungal communities change dramatically with soil depth. The organic
-horizons (O layers) at the surface harbor the highest biomass and
-diversity, dominated by saprotrophs decomposing fresh litter. Deeper
-mineral horizons show decreasing diversity but shifts in community
-composition: mycorrhizal fungi and dark-septate endophytes become more
-prominent, and some specialized fungi are found exclusively in deep soil
-or subsoil layers.
-
-## Drivers of Community Composition
-
-Soil fungal communities are shaped by interacting factors:
-
-- **Vegetation type**: Plant community composition is the strongest
-  predictor of soil fungal community structure, reflecting the
-  dependence of mycorrhizal and endophytic fungi on specific host
-  plants.
-- **Soil pH**: A major driver at broad geographic scales. Many fungal
-  groups show strong pH preferences, with acidic soils supporting
-  distinct communities from neutral or alkaline soils.
-- **Moisture and temperature**: Seasonal and climatic variation drives
-  temporal dynamics in fungal activity and community composition.
-- **Soil texture and organic matter**: Sandy soils, clay soils, and
-  organic-rich soils each support distinct fungal assemblages.
-- **Disturbance**: Agricultural practices, fire, and land-use change
-  dramatically alter soil fungal communities, often reducing diversity
-  and shifting composition toward disturbance-tolerant species.
-
-## The Mycelial Network
-
-Soil fungi exist primarily as filamentous mycelia -- networks of
-hyphae that extend through soil particles, decomposing organic matter,
-transporting nutrients, and connecting plants. In many forest soils,
-mycorrhizal mycelial networks (often called "common mycorrhizal
-networks" or "[[wood-wide-web]]s") physically connect multiple trees,
+  carbon. [[wood-wide-web]]s") physically connect multiple trees,
 facilitating carbon and nutrient transfer between individuals. These
 networks can be vast, with individual mycelial genets spanning
 hectares.
@@ -138,7 +89,5 @@ Soil fungal ecology employs a range of complementary methods:
 
 ## See Also
 
-- [[fungal-biodiversity-estimates]]
 - [[mycorrhizal-network-diversity]]
-- [[fungal-endophytes]]
 - [[fungal-secondary-metabolites-environment]]

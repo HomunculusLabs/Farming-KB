@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushrooms - Compounds and Benefits
+title: Medicinal Mushrooms Compounds And Benefits
 created: 2026-04-28
 tags: [mushrooms, medicinal, health, compounds, mycology]
 date: 2026-04-28
@@ -19,24 +19,7 @@ regularly.
 
 ## Major Bioactive Compound Classes
 
-### [[beta-glucans]]
-
-Beta-glucans are polysaccharides found in the cell walls of fungi.
-They are the most extensively studied compounds in medicinal mushrooms
-and are primarily responsible for immunomodulatory effects. Beta-glucans
-bind to specific receptors on immune cells (Dectin-1, CR3, TLRs),
-activating both innate and adaptive immune responses.
-
-Different mushroom species produce beta-glucans with different molecular
-structures, which affects their bioactivity. Beta-(1,3)-D-glucan with
-beta-(1,6) branches, found in reishi and maitake, appears to have the
-strongest immunomodulatory activity. Beta-(1,3)-(1,4)-D-glucan from
-shiitake has different receptor binding properties.
-
-### Triterpenes
-
-Triterpenes are a class of secondary metabolites found predominantly in
-Ganoderma species (reishi). [[ganoderic-acids]], the primary triterpenes in
+### [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]], the primary triterpenes in
 reishi, have demonstrated anti-inflammatory, hepatoprotective, and
 anti-tumor properties in laboratory studies. Over 150 different
 ganoderic acids have been identified, each with slightly different
@@ -55,13 +38,7 @@ suggesting it plays an important physiological role. Unlike most
 antioxidants, ergothioneine does not undergo redox cycling, which means
 it does not become a pro-oxidant under certain conditions.
 
-Shiitake, oyster, and king oyster mushrooms are particularly rich in
-ergothioneine. Regular consumption appears to accumulate the compound
-in tissues where it provides long-lasting antioxidant protection.
-
-### Hericenones and Erinacines
-
-These compounds are unique to Lion's mane mushroom (Hericium erinaceus)
+Shiitake, oyster, and king [[hericium-erinaceus]])
 and have attracted significant attention for their potential
 neuroprotective effects. Hericenones are found in the fruiting body,
 while erinacines are found primarily in the mycelium. Both stimulate
@@ -147,3 +124,7 @@ anticoagulant effects.
 ## See Also
 
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
+
+## See Also
+
+- [[medicinal-mushroom-compounds-and-health-benefits]]

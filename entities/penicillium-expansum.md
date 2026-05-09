@@ -131,8 +131,6 @@ sanitation, careful handling, and appropriate storage conditions.
 
 ## See Also
 
-- [[penicillium-chrysogenum]]
 - [[aspergillus-flavus]]
-- [[botrytis-cinerea]]
 - [[trichoderma-viride]]
 - [[colletotrichum-gloeosporioides]]

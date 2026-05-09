@@ -3,7 +3,7 @@ title: Fungal Contributions to Soil Structure
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Contributions to Soil Structure
@@ -77,14 +77,7 @@ Fungal-mediated soil structure influences:
 
 ## See Also
 
-- [[fungal-feeding-invertebrates-fungivory]] for the physical substrate of fungal soil effects
 - [[fungal-decomposition-processes]] for organic matter dynamics
-- [[soil-food-web-structure]] for the soil community context
-
-## Related
-
 - [[fungal-role-in-carbon-cycling]]
-- [[fungal-succession]]
 - [[fungal-bacterial-interactions]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-soil-aggregate-formation-glomalin]]

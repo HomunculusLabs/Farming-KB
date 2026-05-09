@@ -17,8 +17,6 @@ appear first near the top of the weakest plant in the garden
 and then move downward on the plant or fly off to infest
 other plants. Whiteflies can cause significant damage to
 cannabis crops if left unchecked, reducing both yield and
-[[cervantes-photosynthesis-chlorophyll-plant-science]]. For a
-broader overview of cannabis pest management strategies, see
 [[integrated-pest-management]].
 
 ## Identification
@@ -43,12 +41,7 @@ signs of stress or reduced vigor.
 
 ## Damage Symptoms
 
-Whiteflies cause damage similar to [[thrips-cannabis|thrips]] and spider mites, producing
-visible symptoms on affected foliage:
-
-- White speckles or stipple marks appear on the upper
-  leaf surfaces
-- Loss of [[cervantes-photosynthesis-chlorophyll-plant-science]] reduces overall plant
+Whiteflies cause damage similar to [[cervantes-photosynthesis-chlorophyll-plant-science]] reduces overall plant
   energy
 - Plant vigor diminishes progressively as the infestation
   worsens
@@ -83,18 +76,7 @@ whitefly populations without chemicals:
 Yellow sticky traps are simple to make and remarkably
 effective. They capture adult whiteflies continuously,
 reducing the breeding population without any chemical
-inputs. See [[cervantes-sticky-traps-pest-monitoring]] for detailed construction guidance.
-
-## Biological Control
-
-The parasitic wasp Encarsia formosa is the most effective
-biological control for whiteflies. Important considerations
-for using this parasite:
-
-- The wasps are small, about 0.125 inch (3 mm) long,
-  smaller than the whitefly itself
-- They only attack whiteflies and do not sting people
-- All toxic [[cervantes-pyrethrum-pyrethroid-insecticides]] must be completely washed off plants before
+inputs. See [[cervantes-pyrethrum-pyrethroid-insecticides]] must be completely washed off plants before
   introducing parasites
 - The wasp lays an egg inside the whitefly larva that
   hatches and consumes the larva from the inside out
@@ -109,18 +91,11 @@ The fungus Verticillium lecanii, also known as
 Cephalosporium lecanii (trade name Mycotal), is also very
 effective against whiteflies and can be used as a
 supplement to parasitic wasps. Other common cannabis pests
-like [[spider-mites-cannabis]] and [[thrips-cannabis]] require
+like [[thrips-cannabis]] require
 similar integrated approaches combining biological and chemical
-controls. For predatory insect allies, see [[beneficial-insects-cannabis]].
-
-## Chemical and Spray Control
-
-Whiteflies are relatively easy to control with natural spray
-programs when biological controls are insufficient. For broader pest
-management strategies on cannabis, see [[ultra-low-cost-pest-control]]:
+controls. For predatory insect allies, see [[ultra-low-cost-pest-control]]:
 
 - Homemade sprays applied at five to ten day intervals
-- [[cervantes-neem-oil-organic-pest-control]] applied at five to ten day intervals
 - [[cervantes-pyrethrum-pyrethroid-insecticides]]
   aerosol formulations applied at five to ten day intervals
 - Neem oil provides both contact and systemic protection
@@ -138,7 +113,5 @@ Preventing whitefly introduction is easier than eradicating
 an established infestation. Inspect all new plants carefully
 before bringing them into the grow room. Quarantine new
 additions for at least two weeks. Maintain proper
-[[cervantes-air-quality-ventilation]] and avoid
-overcrowding, which creates the sheltered microclimates
-whiteflies prefer. Other common cannabis pests like [[aphids-cannabis|aphids]]
+[[aphids-cannabis|aphids]]
 require similar preventive vigilance.

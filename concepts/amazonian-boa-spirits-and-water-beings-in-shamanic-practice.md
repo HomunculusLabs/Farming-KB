@@ -96,13 +96,10 @@ The boa/anaconda embodies:
 
 In Amaringo's cosmology, the ability to work with boa spirits -- whether as healer or sorcerer -- marks the highest level of shamanic accomplishment.
 
-## Related Topics
+## Related
 
 - [[yakuruna-water-spirits-of-the-amazon]] -- the yakuruna water people
-- [[sachamama-the-mother-of-the-forest]] -- the earth serpent
 - [[amazonian-shamanic-battles-and-defensive-powers]] -- boas in combat
-- [[amazonian-ship-aceropunta-and-visionary-cosmology]] -- the cosmic context
 - [[holmgren-trees-nature-solar-power-plants]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[amazonian-sorcery-illness-and-curing-practices]]
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

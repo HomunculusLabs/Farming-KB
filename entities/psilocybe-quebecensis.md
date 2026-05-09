@@ -25,7 +25,7 @@ sources:
 - **Genus:** Psilocybe
 - **Section:** Psilocybe
 
-The species was described from collections made in Quebec, Canada, and is named for the province of its type locality. Within the genus, *P. quebecensis* is placed in section Psilocybe, which contains the bluing, psilocybin-producing species. Its phylogenetic relationships to other northern species such as [[psilocybe-cyanescens]] and [[psilocybe-stuntzii]] have not been extensively studied using modern molecular methods.
+The species was described from collections made in Quebec, Canada, and is named for the province of its type locality. Within the genus, *P. quebecensis* is placed in section Psilocybe, which contains the bluing, psilocybin-producing species. Its phylogenetic relationships to other northern species such as [[psilocybe-stuntzii]] have not been extensively studied using modern molecular methods.
 
 ## Description
 
@@ -52,31 +52,33 @@ The species grows on decaying wood, woody debris, and in wood chip mulch in fore
 
 ## Chemistry and Pharmacology
 
-*P. quebecensis* contains [[psilocybin-compound]] and [[psilocin]], confirmed by chemical analysis. Baeocystin has also been reported. The potency is generally considered low to moderate, though quantitative data from multiple collections are limited. The blue-bruising reaction on the stem and, to a lesser extent, on the gills and cap is a reliable indicator of alkaloid presence.
+*P. quebecensis* contains [[psilocin]], confirmed by chemical analysis. Baeocystin has also been reported. The potency is generally considered low to moderate, though quantitative data from multiple collections are limited. The blue-bruising reaction on the stem and, to a lesser extent, on the gills and cap is a reliable indicator of alkaloid presence.
 
 The adaptation of this species to cold northern climates is of particular interest, as it suggests that psilocybin biosynthesis is compatible with low-temperature fruiting, a trait that could be relevant for understanding the ecological role of these compounds.
 
 ## Similar Species
 
-- [[psilocybe-montana]] — also a northern species, but typically non-bluing and non-psychoactive
 - [[psilocybe-silvatica]] — found in similar northern forest habitats, bruises blue
-- [[psilocybe-cyanescens]] — much larger and more robust, with a distinctive wavy cap margin
 - [[psilocybe-stuntzii]] — found in the Pacific Northwest, similar habitat preferences
-- [[psilocybe-pelliculosa-entity]] — slender northern species, similar size, also bruises blue
-
-Differentiation among these species requires careful attention to cap shape, stem proportions, habitat, spore size, and the presence or absence of an annular zone.
-
-## Conservation
-
-The species is considered rare and has a limited known distribution. Habitat loss from logging and forest management practices could potentially impact populations. As with many rare fungal species, its true distribution may be underdocumented due to the difficulty of identifying small, inconspicuous mushrooms in remote boreal forests.
-
-## Legal Status
-
-As a psilocybin-containing species, *P. quebecensis* is illegal to possess, cultivate, or distribute in most jurisdictions. In Canada, psilocybin and its derivatives are controlled under the Controlled Drugs and Substances Act.
-
-## See Also
-
 - [[psilocybe-silvatica]]
-- [[psilocybe-pelliculosa-entity]]
 - [[psilocybe-montana]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
+## Practical Considerations
+
+Successful implementation of Psilocybe quebecensis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

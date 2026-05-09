@@ -119,11 +119,7 @@ wisdom.
 
 ## Related
 
-- [[psychedelic-mushroom-set-and-setting]]
 - [[psychedelic-therapy-set-and-setting]]
-- [[psychedelic-experience-preparation]]
 - [[psychedelic-harm-reduction]]
-- [[phenethylamine-set-and-setting]]
-- [[mushroom-cultivation-fundamentals]]
-- [[psychedelic-therapy-current-research]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psychedelic-safety-and-harm-reduction]]

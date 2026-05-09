@@ -38,22 +38,7 @@ exceeds 55 to 60%, particularly during the dark period when temperatures drop
 and the air holds less moisture, condensation can form inside the buds. This
 creates the ideal conditions for Botrytis spores, which are always present in
 the air, to germinate and colonize the plant tissue. Managing humidity through
-proper [[cannabis-environment-control]] is the single most important factor in
-bud rot prevention.
-
-Poor air circulation compounds the humidity problem. When plants are spaced
-too closely together or branches are not trained to allow light and air to
-penetrate the canopy, stagnant air pockets develop around the densest buds.
-Oscillating fans should be positioned to create gentle but constant airflow
-across and through the canopy, not just blowing on the plant tops. In indoor
-grows, adequate exhaust ventilation is necessary to exchange humid air for
-fresh, drier air. The relationship between temperature and humidity, measured
-as vapor pressure deficit, is also important. Cool nights combined with high
-humidity create the worst-case scenario for bud rot development.
-
-Plant architecture plays a significant role in susceptibility. Large, tightly
-packed colas are far more prone to bud rot than open, airy bud structures.
-This is where [[cannabis-pruning-and-defoliation-guide]] techniques become a
+proper [[cannabis-pruning-and-defoliation-guide]] techniques become a
 critical prevention tool. Strategic defoliation, removing select fan leaves
 during the early and mid-flowering stages, opens up the canopy to better
 airflow and light penetration. Lollipopping, which removes the lower growth
@@ -92,11 +77,7 @@ environment that inhibits fungal germination. However, no sprays should be
 applied once buds are well into the flowering stage, as residues on the final
 product are undesirable. The most effective approach is environmental
 management throughout the grow, supported by the broader principles of
-[[cannabis-mold-and-mildew-prevention]].
-
-Post-harvest handling also matters. Buds that enter the drying phase with
-elevated moisture content or inadequate airflow can develop bud rot during the
-cure. Proper [[cannabis-drying-and-curing]] techniques, including slow drying
+[[cannabis-drying-and-curing]] techniques, including slow drying
 at moderate humidity with good ventilation, are the final safeguard against
 losing your harvest to this persistent pathogen.
 
@@ -104,21 +85,12 @@ losing your harvest to this persistent pathogen.
 - Bud rot is caused by the fungus Botrytis cinerea and is triggered primarily
   by high humidity above 55% combined with poor air circulation and cool
   temperatures during flowering
-- Maintaining proper [[cannabis-environment-control]] with adequate
-  ventilation, oscillating fans, and humidity management is the most effective
-  prevention strategy
-- Strategic [[cannabis-pruning-and-defoliation-guide]] opens the canopy,
+- Maintaining proper [[cannabis-pruning-and-defoliation-guide]] opens the canopy,
   improves airflow around dense buds, and reduces the microclimates where bud
   rot thrives
 - Daily inspection during late flowering is essential: look for yellowing
   leaves at the bud base and internal mushiness, and remove any affected buds
   immediately
-- Proper [[cannabis-drying-and-curing]] after harvest prevents late-stage rot
-  and preserves the quality of your final product
-
-## Related Questions
-- [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
-- [[query-how-to-manage-humidity-cannabis-grow-room]]
+- Proper [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
-- [[query-what-is-defoliation-and-when-should-i-defoliate-cannabis]]
 - [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

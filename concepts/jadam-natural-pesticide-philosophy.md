@@ -124,9 +124,6 @@ providing practical tools for farmers to navigate it.
 
 ## Related Concepts
 
-- [[jadam-wetting-agent-jwa]]
 - [[jadam-sulfur-js]]
-- [[jadam-herb-solution-jhs]]
 - [[jadam-local-material-resource-cycling]]
-- [[jadam-ultra-low-cost-agriculture]]
 - [[jadam-combined-pesticide-programs-jwa-js-jhs]]

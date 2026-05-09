@@ -81,11 +81,7 @@ Mulching involves spreading a layer of organic matter over the soil surface. It 
 
 ## Related
 
-- [[composting-systems]] for producing mulch materials
 - [[soil-food-web-structure]] for soil biology
-- [[weed-management-strategies]] for weed suppression
 - [[cover-cropping-guide]] for living mulch options
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
 - [[gaias-garden-cover-crops-soil-building]]

@@ -108,13 +108,7 @@ JADAM recommends using both observation methods and periodic lab tests, but prio
 ## The Soil Foundation Work Response
 
 Once diagnosis identifies compaction and/or contamination, JADAM prescribes "soil foundation work":
-- Apply [[jadam-microorganism-solution-jms]] intensively before planting (when unlimited water can be applied)
-- Apply sea salt and phyllite solution for mineral diversity
 - Apply [[jadam-liquid-fertilizer]] from crop residues and wild grass
-- Use [[jadam-cover-crop-method]] to break compaction and build organic matter
-- Address the compaction layer through biological means rather than mechanical subsoiling
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-wild-grass-liquid-fertilizer]]
+- Use [[jadam-leaf-mold-soil-method]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
-- [[jadam-leaf-mold-as-ideal-soil]]
 - [[jadam-coexisting-with-wild-grass]]

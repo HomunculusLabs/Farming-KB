@@ -31,22 +31,7 @@ understanding of nature that Japanese farmers had largely lost. They
 could read the weather by observing bird behavior, knew which weeds
 indicated healthy or depleted soil, and understood the relationships
 between trees, crops, and livestock in ways that aligned closely with
-[[fukuoka-road-do-nothing-farming]].
-
-## The Green Revolution's Impact
-
-Fukuoka was deeply critical of the Green Revolution's effects on India.
-He observed that the introduction of chemical-dependent rice varieties
-had created a cycle of debt for small farmers. Where once they saved
-their own seed, they now had to purchase new seed each year along with
-the fertilizers and pesticides those varieties required. The soil was
-deteriorating, and the traditional crop diversity -- which had provided
-food security through multiple varieties adapted to local conditions --
-was being replaced by monocultures vulnerable to disease and weather.
-
-## Connection to Hindu Philosophy
-
-Fukuoka found strong resonance between his philosophy of [[fukuoka-road-do-nothing-farming]] (nothingness or non-action) and Hindu concepts of detachment and surrender. The idea that one should not try to control nature but rather align with it paralleled Hindu teachings about the illusion of the separate self and the wisdom of accepting the divine order.
+[[fukuoka-road-do-nothing-farming]] (nothingness or non-action) and Hindu concepts of detachment and surrender. The idea that one should not try to control nature but rather align with it paralleled Hindu teachings about the illusion of the separate self and the wisdom of accepting the divine order.
 
 He was particularly moved by the traditional Indian view of the cow as
 sacred. While Western observers saw this as irrational superstition,
@@ -103,22 +88,8 @@ destructive path.
 
 ## Natural Farming Experiments in India
 
-During his visit, Fukuoka demonstrated his [[fukuoka-sowing-seed-ball-desert-revegetation]] technique and discussed the principles of natural farming with interested farmers and activists. He emphasized that India's traditional farming wisdom already contained many of the insights of natural farming -- what was needed was not a new method but a recovery of what had been lost.
-
-He suggested that India, with its remaining traditional knowledge and
-relatively intact village systems, was better positioned than Japan to
-transition to truly natural farming. The challenge was to resist the
-pressure to modernize and instead build on the existing foundation of
-ecological wisdom.
-
-## See Also
-
-- fukuoka india visit agriculture spirituality
-- [[fukuoka-forty-days-africa]]
-- [[fukuoka-desert-revegetation-seed-diversity]]
+During his visit, Fukuoka demonstrated his [[fukuoka-forty-days-africa]]
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]
-- [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-seed-ball-technique]]
-- [[fukuoka-desert-revegetation-natural-farming]]
 - [[what-natural-farming-method-should-i-use]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]

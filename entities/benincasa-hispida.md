@@ -107,14 +107,8 @@ Common pests include fruit flies (*Bactrocera* spp.), aphids, and red pumpkin be
 
 ## See Also
 
-- [[momordica-charantia]]
 - [[lagenaria-siceraria]]
-- [[cucurbita-moschata]]
-- [[cucurbita-maxima]]
 - [[tropaeolum-majus]]
-- [[abelmoschus-esculentus]]
 - [[psophocarpus-tetragonolobus]]
-- [[vigna-unguiculata]]
 - [[ipomoea-batatas]]
-- [[manihot-esculenta]]
 - [[moringa-oleifera]]

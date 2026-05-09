@@ -11,17 +11,7 @@ type: concept
 # Oyster Mushroom Substrate Carbon Nitrogen Ratio
 
 The carbon-to-nitrogen (C/N) ratio is a critical factor determining substrate
-suitability for [[cotter-oyster-mushroom-cultivation]]. Oyster mushrooms (Pleurotus spp.)
-are white-rot fungi that derive their nutrition primarily from cellulose,
-hemicellulose, and lignin in lignocellulosic materials. They require
-substantially more carbon than nitrogen, and the balance between these two
-elements directly influences mycelial growth rate, colonization speed, yield,
-and contamination resistance.
-
-## Optimal C/N Ratios
-
-The optimal C/N ratio for oyster mushroom cultivation differs significantly
-from that of button mushrooms. While [[agaricus-bisporus]] requires an optimal C/N
+suitability for [[agaricus-bisporus]] requires an optimal C/N
 ratio of approximately 17 after composting, oyster mushrooms prefer a much
 higher ratio. Most agricultural waste substrates suitable for Pleurotus have
 C/N ratios ranging from 32 to 600, with pH values between 5.0 and 7.5. The
@@ -125,8 +115,5 @@ Different Pleurotus species show varying responses to substrate C/N ratio:
 
 ## See Also
 
-- [[oyster-straw-substrate-preparation]]
 - [[oyster-substrate-fermentation]]
-- [[oyster-spent-substrate-recycling]]
-- Oyster Juncao Grass Substrate
 - [[oyster-mushroom-nutritional-composition]]

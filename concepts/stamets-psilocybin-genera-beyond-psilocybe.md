@@ -139,10 +139,6 @@ every suitable ecological niche worldwide.
 
 ## See Also
 
-- [[psilocybin-containing-genera-beyond-psilocybe]]
-
 - [[stamets-psilocybin-habitats-ecology]]
-- [[stamets-mushrooms-world-identification-safety]]
 - [[stamets-mushrooms-world-chemistry-potency]]
-- [[gartz-global-psilocybin-mushroom-distribution]]
 - [[stamets-mushrooms-world-cubensis]]

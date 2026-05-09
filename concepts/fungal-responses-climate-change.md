@@ -3,7 +3,7 @@ title: Fungal Responses Climate Change
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Responses to Climate Change
@@ -76,59 +76,8 @@ physically disrupt mycelial networks and redistribute organic matter.
 Nitrogen Deposition Effects
 
 Atmospheric nitrogen deposition from industrial and agricultural sources
-significantly alters fungal communities. Other atmospheric pollutants also affect fungi — see [[fungal-sulfur-dioxide-effects]] for the impacts of this common industrial pollutant. In forest ecosystems, nitrogen
-addition generally reduces fungal biomass, particularly ectomycorrhizal
-fungal biomass. This occurs because:
-- Nitrogen reduces the plant's need for mycorrhizal nutrient uptake
-- Nitrogen directly inhibits some fungal enzymes (especially ligninases)
-- Nitrogen favors bacterial over fungal decomposers
-
-Ectomycorrhizal community composition shifts under nitrogen addition, with
-species richness declining and community structure simplifying. Cortinarius
-and other taxa associated with low-nitrogen soils decline, while
-nitrogen-tolerant species like Laccaria may increase.
-
-Lignin degradation is particularly sensitive to nitrogen addition. Lignin
-peroxidase and manganese peroxidase activities are suppressed by elevated
-nitrogen, leading to reduced lignin degradation and increased accumulation
-of partially decomposed organic matter. This may contribute to observed
-increases in soil carbon storage under nitrogen deposition.
-
-Interactions Among Climate Change Factors
-
-Climate change factors rarely act in isolation. Warming and drought may
-interact synergistically to reduce fungal activity more than either factor
-alone. Elevated CO2 may partially offset drought effects by increasing
-belowground carbon allocation. Nitrogen deposition may interact with CO2
-enrichment to alter mycorrhizal responses.
-
-Waldrop et al. (2004) demonstrated that combined warming and nitrogen
-addition had non-additive effects on enzyme activities in forest soils.
-Phenol oxidase activity showed complex responses to combined treatments that
-could not be predicted from single-factor experiments. These interaction
-effects complicate predictions of fungal-mediated ecosystem processes under
-future climate scenarios.
-
-Consequences for Ecosystem Function
-
-Climate-driven changes in fungal communities have cascading effects on
-ecosystem function:
-- Altered decomposition rates affect soil carbon storage
-- Shifts in mycorrhizal communities affect plant nutrient uptake and
-  productivity
-- Changes in fungal biomass affect soil food webs and faunal communities
-- Modified enzyme profiles change the chemical composition of soil organic
-  matter
-- Altered fungal respiration contributes to or mitigates atmospheric CO2
-  increases
-
-Related topics:
-- [[fungal-respiration-carbon-flux]]
-- [[fungal-decomposition-kinetics]]
+significantly alters fungal communities. Other atmospheric pollutants also affect fungi — see [[fungal-respiration-carbon-flux]]
 - [[fungal-feeding-invertebrates-fungivory]]
-- [[fungal-leaf-litter-succession]]
 - [[fungal-nutrient-cycling-forests]]
-- [[ectomycorrhizal-ecology]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-enzymatic-diversity-decomposition]]
 - [[fungal-decomposition-nutrient-cycling]]

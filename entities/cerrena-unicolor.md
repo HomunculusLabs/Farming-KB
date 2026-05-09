@@ -106,15 +106,9 @@ The fungus has demonstrated ability to decolorize industrial dyes from textile e
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[irpex-lacteus]]
-- [[bjerkandera-adusta]]
 - [[fomes-fomentarius]]
-- [[ganoderma-lucidum]]
 - [[lentinula-edodes]]
-- [[pleurotus-ostreatus]]
 - [[agaricus-bisporus]]
-- [[phellinus-igniarius-entity]]
 - [[boletus-edulis-entity]]
-- [[suillus-luteus]]
 - [[cantharellus-cibarius-entity]]

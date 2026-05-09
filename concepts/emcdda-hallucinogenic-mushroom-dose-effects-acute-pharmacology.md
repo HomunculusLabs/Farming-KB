@@ -1,35 +1,7 @@
 ---
 title: EMCDDA Hallucinogenic Mushroom Dose, Effects, and Acute Pharmacology
 created: 2026-04-28
-tags: [mycology, psilocybin, pharmacology, emcdda, hallucinogenic-mushrooms, dose-response, acute-effects]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Hallucinogenic Mushrooms: An Emerging Trend Case Study, EMCDDA Thematic Papers (2006)"
-type: concept
----
-
-# EMCDDA Hallucinogenic Mushroom Dose, Effects, and Acute Pharmacology
-
-## Overview
-
-The 2006 EMCDDA thematic paper on hallucinogenic mushrooms provided a detailed summary of the pharmacological profile of psilocybin-containing fungi, covering potency variation, dosing practices, routes of administration, onset and duration of action, and acute psychological and physiological effects. This report represents one of the most comprehensive European public health assessments of recreational mushroom use in the early 2000s period.
-
-## Potency and Dosage
-
-The psychoactive potency of hallucinogenic mushrooms is highly variable, depending on species, growing conditions, age of the specimen, and preparation method. The EMCDDA identified several key factors:
-
-### Species Variation
-
-Different species contain markedly different concentrations of psilocybin and psilocin. [[psilocybe-semilanceata]] (liberty caps), the most common wild European species, typically contains higher concentrations of active compounds than many other species. [[psilocybe-cubensis]], the most commonly cultivated and marketed species, shows significant variation between the many named varieties (Mexican, Thai, Colombian, Amazonian, and others).
-
-### Unpredictable Potency
-
-The EMCDDA emphasized that **potency is fundamentally unpredictable** in recreational settings. Users cannot reliably determine the strength of mushrooms they obtain, whether wild-picked or purchased. This unpredictability is a significant risk factor, as users accustomed to one batch may receive a much stronger or weaker preparation from the same source on a subsequent occasion.
-
-### Common Dosage Ranges
-
-A typical recreational dose consists of approximately 10 to 30 fresh specimens of [[psilocybe-cubensis]] or 1 to 3 grams of dried material. However, the wide variation in potency means that these figures serve only as very rough guides. Dried mushrooms are typically described as being approximately 10 percent of the fresh weight, with the implication that active compound concentration increases proportionally upon drying, though degradation of alkaloids during drying and storage complicates this assumption.
+tags: [[psilocybe-semilanceata]] (liberty caps), the most common wild European species, typically contains higher concentrations of active compounds than many other species. [[psilocybe-cubensis]] or 1 to 3 grams of dried material. However, the wide variation in potency means that these figures serve only as very rough guides. Dried mushrooms are typically described as being approximately 10 percent of the fresh weight, with the implication that active compound concentration increases proportionally upon drying, though degradation of alkaloids during drying and storage complicates this assumption.
 
 ## Routes of Administration
 
@@ -38,7 +10,7 @@ Recreational users employ several methods of ingestion:
 - **Fresh mushrooms**: Eaten directly, often chopped and mixed with food to mask the taste.
 - **Dried mushrooms**: Consumed whole, chopped, or ground into a powder and encapsulated.
 - **Tea preparation**: Mushrooms are brewed in hot water, sometimes with flavoring agents. The liquid is consumed and the mushroom material discarded. This method may alter onset time and bioavailability.
-- **Sclerotia consumption**: Species such as [[psilocybe-mexicana]] and [[psilocybe-tampanensis-entity]] form hardened masses of mycelium called sclerotia, marketed as "truffles" or "philosopher's stones," which are consumed similarly to mushroom fruiting bodies.
+- **Sclerotia consumption**: Species such as [[psilocybe-tampanensis-entity]] form hardened masses of mycelium called sclerotia, marketed as "truffles" or "philosopher's stones," which are consumed similarly to mushroom fruiting bodies.
 
 ## Onset and Duration
 
@@ -110,15 +82,10 @@ The structural similarity to serotonin is not coincidental. The tryptamine backb
 The EMCDDA report contextualized mushroom risks by comparing them to other substances commonly used in recreational settings:
 
 - Compared to cannabis, mushrooms have significantly lower prevalence and lower rates of habitual use.
-- Compared to [[ecstasy-mdma-guide]] (MDMA), mushrooms produce less predictable effects and are less sociable, limiting their use in dance music settings.
 - Compared to [[lsd]], mushrooms offer a shorter duration of action and are perceived as more "natural," which contributed to their appeal during the "return to nature" trend of the late 1990s.
-- Compared to [[amanita-muscaria]], psilocybin mushrooms carry lower toxicity risk. The active compounds in Amanita (muscimol, ibotenic acid, and muscarine) are chemically unrelated to psilocybin and carry substantial toxicity risks, with some closely related Amanita species being potentially fatal.
-
-The EMCDDA noted that the legislative trend of banning psilocybin mushrooms in the 2000s was followed by increased retailer interest in marketing [[amanita-muscaria]] as a legal alternative, a development the agency regarded with concern given the higher toxicity profile of Amanita species.
+- Compared to [[amanita-muscaria-entity]] as a legal alternative, a development the agency regarded with concern given the higher toxicity profile of Amanita species.
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
-- [[psilocybin-psilocin-stability-degradation-volatility-fungi]]
 - [[distribution-of-neurotropic-fungi]]

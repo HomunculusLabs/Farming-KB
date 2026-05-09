@@ -1,5 +1,4 @@
 ---
-title: Permaculture Energy Descent Planning
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -68,7 +67,7 @@ Prioritize resources that can be sustained indefinitely:
 - Biological fertility instead of synthetic fertilizers
 - Human and animal labor instead of fossil-fueled machines
 - Local materials instead of transported goods
-- [[permaculture-design-principles|Use and value renewable resources and services]]
+- [[permaculture-principle-use-and-value-renewable-resources|Use and value renewable resources and services]]
 
 ## The Retrofit Approach
 
@@ -108,13 +107,11 @@ Holmgren suggests that energy descent will not be a sudden collapse but a steppe
 - Prioritize investments that provide value regardless of energy availability
 - Focus on knowledge and skills that become more valuable as energy declines
 
-## Related
-
-- [[energy-efficiency-in-agriculture]] Concepts
+## Related Concepts
 
 - [[permaculture-principles]]
-- [[permaculture-design-principles|Use creativity to respond to change]]
-- [[permaculture-design-principles|Obtain a yield]]
+- [[permaculture-principle-creatively-use-and-respond-to-change|Use creativity to respond to change]]
+- [[permaculture-principle-obtain-a-yield|Obtain a yield]]
 - [[permaculture-principle-design-from-patterns-to-details|Design from patterns to details]]
 - [[permaculture-community-resilience]]
 - [[permaculture-climate-adaptation]]

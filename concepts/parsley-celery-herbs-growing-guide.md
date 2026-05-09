@@ -84,15 +84,9 @@ Solomon places fruit trees and herbs at the fringes of the garden. The prime veg
 
 ## Related Concepts
 
-- [[herb-gardening-organic]]
 - [[herb-garden-design]]
-- [[transplanting-techniques-solomon]]
 - [[growing-globe-artichokes]]
-- [[solomon-complete-organic-fertilizer-guide]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapters on parsley, celery, and garden layout
 - [[gaias-garden-cover-crops-soil-building]]
-- [[solomon-gardening-when-it-counts-index]]
 - [[solomon-cover-crops-green-manure-guide]]
 
 ## See Also

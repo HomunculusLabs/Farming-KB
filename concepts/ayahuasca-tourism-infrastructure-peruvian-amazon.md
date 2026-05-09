@@ -135,8 +135,6 @@ short-term visitors.
 
 ## Related Concepts
 
-- [[ayahuasca-tourism-peru-retreat-landscape]]
 - [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
-- [[ayahuasca-tourism-ethics-and-commodification]]
 - [[ayahuasca-interactions-with-prescription-medications]]
 - [[icaros-power-songs]]

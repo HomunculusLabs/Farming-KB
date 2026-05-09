@@ -81,46 +81,11 @@ production through intermittent dry periods. E. glandulosa is among the first
 fungal colonizers of freshly dead twigs, preparing substrate for subsequent
 decomposer communities.
 
-Its ecological niche overlaps with [[auricularia-auricula-judae]], which
-colonizes larger dead wood with more prominent ear-shaped fruiting bodies.
-
-## Similar Species
-
-E. glandulosa is part of a complex of dark Exidia species that can be
-difficult to distinguish in the field.
-
-**Exidia plana** forms more expanded pellicular fruiting bodies and lacks the
-pronounced papillae. **Exidia truncata** produces larger basidiocarps and
-prefers oak. **Exidia recisa** is more brownish with a smoother surface and a
-preference for willow (Salix).
-
-**Auricularia auricula-judae** is larger, distinctly ear-shaped, and grows on
-larger-diameter dead wood. Microscopic examination of spore size and basidial
-morphology is often necessary for definitive identification.
-
-## Edibility
-
-E. glandulosa is considered edible but rarely collected due to its small size,
-gelatinous texture, and insipid flavor. Some guides list it as "edible but not
-worthwhile." There are no reports of toxicity and no known poisonous compounds.
-
-## Bioactive Compounds
-
-Like many jelly fungi, E. glandulosa produces polysaccharides with reported
-immunomodulatory and antioxidant activities. Exopolysaccharides from related
-Exidia species have demonstrated anti-inflammatory effects in vitro.
-
-The species also produces melanin pigments contributing to its dark coloration
-and potential UV protection. Research into E. glandulosa bioactive compounds
-remains limited compared to commercially significant species like [[tremella--fuciformis]] and [[auricularia-auricula-judae]].
+Its ecological niche overlaps with [[auricularia-auricula-judae]].
 
 ## See Also
 
-- [[auricularia-auricula-judae]]
 - [[tremella-fuciformis-entity]]
-- [[tremella-mesenterica]]
 - [[lentinula-edodes]]
-- [[trametes-versicolor]]
 - [[coriolopsis-gallica]]
-- [[stropharia-rugosoannulata]]
 - [[pleurotus-ostreatus]]

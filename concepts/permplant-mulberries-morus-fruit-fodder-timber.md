@@ -21,8 +21,7 @@ Mulberries (Morus spp) form small to medium-sized, long-lived (up to
 easily propagated and transplanted trees are both hardy and drought
 resistant. They are frost tolerant, well suited to cool areas, tolerant
 of shade, and adapted to most soils and sites. Mulberries are a
-[[permaculture-tree-lupin]] providing fruit, livestock fodder,
-poultry forage, timber, and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] benefits.
+[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] benefits.
 
 ## Fruit Production
 
@@ -72,30 +71,7 @@ carving.
 
 ## Key Species
 
-### White Mulberry ([[morus-alba]])
-Named after its white fruit, native to China where leaves were
-traditionally fed to silkworms. It is a fast-growing shade tree reaching
-25 metres, tolerating a wide range of conditions although preferring
-deep soil, good drainage, and full sun. The dried fruit is used for
-human food in Afghanistan where it is ground and mixed with ground
-almonds as a staple food.
-
-### Black Mulberry (Morus nigra)
-Also known as English mulberry or Persian mulberry, native to Persia.
-This is a small rounded tree seldom exceeding 12 metres with a broad
-rounded crown. The timber is prized for turnery and carving.
-
-### Red Mulberry (Morus rubra)
-Native to eastern and central United States. Ripe fruits are eaten fresh
-or made into preserves, jellies, and pies. Dried fruit is mixed with
-almond meal to make a confectionery. The young shoots and unfolded
-leaves are eaten raw or boiled.
-
-## Companion Planting
-
-Mulberries are considered a good companion plant for grapes, for which
-they also form a natural trellis. This multi-strata combination
-maximises vertical space use in [[comparison-food-forest-design-vs-backyard-orchard-design]], with mulberries providing shade and structure while
+### White Mulberry ([[comparison-food-forest-design-vs-backyard-orchard-design]], with mulberries providing shade and structure while
 grapes utilise the lower canopy.
 
 ## Resilience Characteristics
@@ -111,39 +87,15 @@ factors:
 - Long-lived: productive for up to 300 years
 
 This combination of resilience traits makes mulberries one of the
-lowest-risk tree plantings in [[mollison-town-permaculture-urban-food-systems]].
-
-## Propagation
-
-Mulberries are among the easiest fruit trees to propagate. They can be
-grown from:
-
-- Hardwood cuttings (taken in winter)
-- Softwood cuttings (taken in summer)
-- Layering (simple or air layering)
-- Seed (though seedlings may not breed true to type)
-- Transplanting of suckers
-
-## Pruning and Management
-
-Annual pruning is recommended to maintain a bushy, productive form and
-to provide a regular supply of fodder. The coppicing ability allows for
-sustainable harvest of poles and small timber on rotation. Pruned
-branches can be fed directly to livestock or used as [[comparison-sheet-mulching-vs-chop-and-drop]].
+lowest-risk tree plantings in [[comparison-sheet-mulching-vs-chop-and-drop]].
 
 ## Culinary and Integration
 
-In [[comparison-food-forest-design-vs-backyard-orchard-design]] design, mulberries serve as a productive
-canopy element with multiple yields. Their shade tolerance allows
-placement in diverse light conditions, and their role as a grape
-companion demonstrates effective [[permaculture-plant-stacking-vertical-guilds]]. The combination of fruit, fodder, timber, and poultry forage
+In [[permaculture-plant-stacking-vertical-guilds]]. The combination of fruit, fodder, timber, and poultry forage
 from a single long-lived tree represents exceptional functional stacking.
 Fresh fruit is eaten raw, dried, made into preserves, jellies, and pies,
 or used as self-harvest pig and poultry feed.
-
 ## See Also
-
-- [[morus-nigra]]
 
 - [[ben-law]]
 

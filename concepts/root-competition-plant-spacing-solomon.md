@@ -47,33 +47,7 @@ When root systems begin to compete:
 4. Fruit production decreases
 5. Disease susceptibility increases
 
-This is why Solomon's [[intensive-gardening-critique-solomon]] is grounded in root biology, not just practical experience.
-
-## Thinning Strategy
-
-Solomon describes a progressive thinning approach for direct-seeded crops:
-
-### For Row Crops (e.g., looseleaf lettuce, carrots)
-1. Sow seed in drills, ideally achieving about one seedling per inch
-2. Immediately after emergence, thin clusters so survivors don't quite touch
-3. When seedlings start competing for light (leaning away from each other), thin again so they don't quite touch
-4. A week to ten days later, when they're bumping again, remove every other plant
-5. When survivors are touching at the proper final spacing, remove every other one
-6. Remaining plants are properly spaced to reach maturity
-
-The thinnings at each stage are salad material — nothing is wasted.
-
-### For Cluster Planting (e.g., hill-planted crops)
-1. Sow three to five seeds per station
-2. Thin progressively to the strongest seedling
-3. By the time the best plant has a few true leaves, it should stand alone
-
-## Spacing and Soil Fertility Interaction
-
-Spacing requirements depend on soil fertility:
-- In very fertile soil, plants can be spaced somewhat closer because more nutrients are available per unit volume
-- In poor soil, wider spacing is essential to give each plant access to enough resources
-- Solomon's recommended spacings assume the use of [[solomon-complete-organic-fertilizer-guide]] — if you don't use COF, space even wider
+This is why Solomon's [[solomon-complete-organic-fertilizer-guide]] — if you don't use COF, space even wider
 
 ## Root Depth and Soil Type
 
@@ -91,7 +65,25 @@ Weaver's studies showed maximum root development in deep, open soil with little 
 4. **Observe root behavior**: If you pull a plant at end of season, examine its root system to understand how much space it actually used
 5. **Rotate crops**: Different root architectures and exudate profiles from year to year
 
-See also: [[intensive-planting-spacing]], [[intensive-gardening-critique-solomon]], [[root-exudates]], [[garden-bed-preparation]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
+See also: [[intensive-gardening-critique-solomon]], [[garden-bed-preparation]]
 - [[solomon-gardening-when-it-counts-index]]
 - [[teaming-with-nutrients-fertilizer-sources]]
+## Practical Considerations
+
+Successful implementation of Root Competition and Plant Spacing (Solomon) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

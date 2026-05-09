@@ -29,28 +29,6 @@ reliable winter freezing and access to harvestable ice or natural springs.
 
 ## Root Cellar
 
-[[root-cellar-design-and-construction]]
-
-A root cellar uses the natural insulating properties of soil to maintain
-temperatures between 32 and 40 degrees Fahrenheit with 85 to 95 percent humidity,
-ideal for storing root vegetables, squash, alliums, and apples for two to eight
-months. The design relies on passive ventilation through low and high vents to
-regulate temperature and remove ethylene gas, which accelerates ripening. A
-well-designed dual-zone cellar provides a cool, moist zone for root crops and a
-warmer, drier zone for squash, onions, and garlic requiring different storage
-conditions for maximum shelf life.
-
-Construction options range from basement cellars (simplest, though often warmer
-than ideal) to hillside standalone structures (eight by eight to eight by ten
-feet, sufficient for a family of four), earth-bag domes, and straw-bale builds
-offering R-30 or higher insulation. The critical requirements are well-drained
-soil, a site above the water table, and a north-facing aspect where possible.
-Storage capacity is large, and no processing of food is required beyond selecting
-unblemished specimens. Potatoes store four to six months, carrots four to six
-months in damp sand, and onions and garlic six to eight months in the dry zone.
-
-## Ice House
-
 [[ice-house-and-spring-house]]
 
 An ice house stores winter-harvested ice from ponds or lakes, maintaining
@@ -123,8 +101,9 @@ technologies remain highly relevant for modern self-sufficient living.
 
 ## See Also
 
-- [[comparison-solar-dehydrator-vs-root-cellar]]
-
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
-- [[root-cellaring-and-no-energy-food-storage]]
 - [[ice-house-and-spring-house]]
+
+## See Also
+
+- [[comparison-root-cellaring-vs-food-dehydration]]

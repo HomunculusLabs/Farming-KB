@@ -3,7 +3,7 @@ title: Cancer Prevention Through Dietary Mushroom Intake
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Cancer Prevention Through Dietary Mushroom Intake
@@ -86,19 +86,13 @@ Key areas requiring further investigation include:
 
 ## See Also
 
-- [[psk-gastric-cancer-clinical-trials]]
 - [[psp-phase-clinical-trials]]
-- [[mushroom-adjunct-immunotherapy-combinations]]
 - [[mushroom-apoptosis-mechanisms]]
-- [[chaga-mushroom-research]]
 - [[agaricus-blazei-murill-research]]
 
 - [[dom-compound-profile]]
-- [[dom-compound-profile]]
-- [[2c-d-pihkal-entry-23]]
 - [[functional-foods-medicinal-mushrooms]]
-- [[mushroom-cancer-clinical-trials-overview]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 ## Related
 

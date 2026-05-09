@@ -127,9 +127,7 @@ Zkittlez has won or placed in numerous major cannabis competitions, establishing
 
 ## See Also
 
-- [[runtz-entity]] — award-winning Zkittlez × Gelato offspring
 - [[gelato-cannabis]] — parent of Runtz and popular Zkittlez cross partner
-- [[granddaddy-purple]] — grandparent strain contributing purple coloration and indica effects
 - [[gorilla-glue]] — another high-THC award-winning modern hybrid for comparison
 - [[og-kush]] — foundational West Coast breeding stock often crossed with Zkittlez descendants
 

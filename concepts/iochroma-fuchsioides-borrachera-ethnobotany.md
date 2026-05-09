@@ -5,7 +5,8 @@ tags: [ethnobotany, colombia, sibundoy, solanaceae, hallucinogenic-plants,
   south-america, schultes, borrachera]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -126,9 +127,6 @@ consciousness.
 
 ## See Also
 
-- [[culebra-borrachera-methysticodendron-amesianum]]
 - [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
-- [[golden-guide-datura-and-nightshade-deliriants]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
 - [[golden-guide-hallucinogenic-plants-overview]]

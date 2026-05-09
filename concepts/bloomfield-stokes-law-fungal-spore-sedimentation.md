@@ -135,8 +135,6 @@ This relationship has direct implications for the spread of
 
 ## See also
 
-- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[bloomfield-buller-experimental-mycology]]
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]

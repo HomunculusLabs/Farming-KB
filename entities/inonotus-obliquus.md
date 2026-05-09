@@ -138,12 +138,8 @@ yields while contributing to forest succession dynamics.
 
 ## See Also
 
-- [[amanita-muscaria]]
 - [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
 - [[hericium-erinaceus]]
-- [[fomes-fomentarius]]
 - [[pleurotus-ostreatus]]
 - betulinic acid
-- [[psilocybin-compound]]
 - [[baeocystin]]

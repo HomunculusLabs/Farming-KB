@@ -122,8 +122,6 @@ Forms facultative ectomycorrhizal associations with a broad range of hardwood an
 
 ## See Also
 
-- [[morchella-esculenta]] — The common yellow morel, most widely foraged
 - [[morchella-elata]] — The black morel, classic conifer forest associate
-- [[morchella-importuna]] — Taxonomically related, urban-landscaped morel
 - [[trichoderma-harzianum]] — Common contaminant in morel cultivation
 - [[beta-glucans]] — Key bioactive polysaccharides in morel fruiting bodies

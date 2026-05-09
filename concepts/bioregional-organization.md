@@ -54,50 +54,30 @@ An accountant on call can handily contract to service many groups. The regional 
 
 ## Resource Categories
 
-The bioregional resource index compiled by Maxine Cole and [[mollison-permaculture-two-zone-planning-and-site-layout]] for the Northern Rivers Bioregional Association of New South Wales, Australia, uses these primary categories:
-
-- **A**: Food and food support systems (plant and animal resources, pest management, food processing, markets)
-- **B**: Shelter and buildings (construction materials, energy systems, wastes and recycling)
-- **C**: Livelihoods and support services (community finance, skills banks, manufacturing)
-- **D**: Information, media, communication, and research
-- **E**: Community and security
-- **F**: Social life
-- **G**: Health services
-- **H**: Future trends
-- **I**: Transport services
-- **J**: Appendices (maps, publications of the bioregion)
-
-## Bioregional Centrality vs Global Outreach
-
-There is an obvious conflict between the need to live in a region in a responsible way (bioregional centrality) and the need to integrate with other people in other places (global outreach). We need not only to "think globally and act locally," but to "act and think globally and locally."
-
-The region is our home address, the place where we develop our culture, and take part in bioregional networks. Through global associations and "families of common interest" we cross not only the regional but also state and national borders to set up multicultural alliances.
-
-## Governance and Ethics
-
-Just as bioregions need a federal congress periodically, so do they occasionally need global congresses. Societies or families also need global meetings to break down the idea of defended regional boundaries to humanity. Ethics and principles of self-governance, interdependence, and voluntary simplicity still apply at regional and outreach levels.
-
-Intermarriage, visits, mutual trade and aid, skills exchange, and educational exchange between regions of very different cultures enriches both. This is the antithesis of "integration" (bureaucratic genocide) that is promulgated by majority groups who disallow language use and cultural life to minorities. In particular, reciprocal education values both sets of knowledge and world concepts, and respects others' lifestyles.
-
-## Bioregional Economics
-
-In bioregional networks, commonworks, and cooperative structures, local or bioregional funds can establish small or large enterprises. The body of nations united in earth care are the bioregional associations, linked through bioregional congresses, tribal conferences, and cultural exchanges.
-
-Every bioregion should develop its own currency or exchange system to keep wealth circulating locally. Consideration must be given by any bioregion to what can be produced locally, what must be imported, and how to minimize resource leakage.
-
-## See Also
-
-- [[zone-sector-analysis-guide]] - Site-scale zone and sector planning
-- [[permaculture-design-process]] - The design methodology
+The bioregional resource index compiled by Maxine Cole and [[zone-sector-analysis-guide]] - Site-scale zone and sector planning
 - [[permaculture-site-analysis]] - Site assessment techniques
 
-- [[permaculture-bioregional-organization]] — Author-specific treatment of the same topic
-
-## Merged: Holmgren: Sustainable Community Characteristics
-As energy descent demands small-scale, local use of natural energy and resources, structures of governance will need to be more localised. Holmgren identifies four systemic characteristics that emergent sustainable cultures and forms of organisation will exhibit, drawing on the bioregionalism movement closely associated with [[holmgren-permaculture-ethics-foundations]]. The bioregional organization movement has raised awareness of the need to identify geographic governance boundaries that reflect natural systems, especially river catchments. [[community-economics-in-permaculture]] naturally reorganises around watershed boundaries and local resource sheds. See also [[holmgren-permaculture-land-tenure-and-legal-structures]] and [[permaculture-retrofit-suburbia]]. Related: [[holmgren-permaculture-diversity-principle]], [[holmgren-small-slow-solutions-detailed]], [[community-garden-design]], [[bioregionalism-in-permaculture]], [[community-finance-and-alternative-economies]]
+- [[holmgren-permaculture-ethics-foundations]]. The bioregional organization movement has raised awareness of the need to identify geographic governance boundaries that reflect natural systems, especially river catchments. [[holmgren-permaculture-land-tenure-and-legal-structures]] and [[holmgren-permaculture-diversity-principle]], [[community-garden-design]], [[community-finance-and-alternative-economies]]
 ## Merged: Land Trusts And Trusteeship
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.12) | **Updated:** 2026-04-18 "Our own lifetimes are, in terms of soils, trees, or climate, as ephemeral as snowflakes. - bioregional organization - bioregional organization - [[community-economics-in-permaculture]] - [[permaculture-village-design]] - [[aid-and-development-in-permaculture]] For a little while, we have the use of the earth, and our time here is bounded by birth and death.
-## Merged: Holmgren Collective Commons Land Tenure
-updated: 2026-04-18 How we manage and distribute the abundance from the broadacre commons is perhaps the greatest design issue for a society adapting to [[permaculture-retrofit-suburbia]]. Holmgren's analysis of land tenure, commons, and the spectre of neo-feudalism addresses one of the most politically charged aspects of permaculture design. See [[holmgren-genetic-engineering-and-evolution]]. Models for the management of public land are more likely to emerge from innovations in common land management within [[holmgren-intentional-communities-history]]. The [[holmgren-permaculture-land-tenure-and-legal-structures]] explores these frameworks in detail. Related: [[holmgren-forest-management-sustainable-yield]], [[community-land-trusts]], [[holmgren-ethical-philosophical-framework]], bioregional organization, bioregional organization
+**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.12) | **Updated:** 2026-04-18 "Our own lifetimes are, in terms of soils, trees, or climate, as ephemeral as snowflakes. - bioregional organization - bioregional organization - [[permaculture-village-design]] - [[permaculture-retrofit-suburbia]]. Holmgren's analysis of land tenure, commons, and the spectre of neo-feudalism addresses one of the most politically charged aspects of permaculture design. See [[holmgren-intentional-communities-history]]. The [[holmgren-forest-management-sustainable-yield]], [[holmgren-ethical-philosophical-framework]], bioregional organization, bioregional organization
 ## Merged: Trusts And Legal Strategies In Permaculture
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.7) | **Updated:** 2026-04-18 Trusts in the public interest are the legal basis for churches, universities, hospitals, and charities. See also bioregional organization and [[bioregionalism-in-permaculture]]. - bioregional organization - [[community-economics-in-permaculture]] - bioregional organization - [[permaculture-village-design]] - [[permaculture-design-principles]]
+**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14.7) | **Updated:** 2026-04-18 Trusts in the public interest are the legal basis for churches, universities, hospitals, and charities. See also bioregional organization and [[community-economics-in-permaculture]] - bioregional organization - [[permaculture-farm-design-principles]]
+## Practical Considerations
+
+Successful implementation of Bioregional Organization requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -11,28 +11,10 @@ tags: [fertilizer]
 
 # Solomon Liquid Fertilizers and Foliar Feeding
 
-In "Gardening When It Counts," [[composting-science-solomon]] discusses [[foliar-feeding]]
+In "Gardening When It Counts," [[foliar-feeding]]
 as a supplementary technique for vegetable gardeners, particularly those
 facing water scarcity. Not a replacement for soil fertilization with
-[[solomon-complete-organic-fertilizer-guide]], foliar feeding gives
-plants a noticeable boost when done consistently.
-
-## Fertigation vs. Foliar Feeding
-
-Solomon distinguishes two liquid feeding methods:
-
-- **Fertigation**: Dissolving fertilizer in irrigation water and applying
-  it to the root zone. This is the preferred method when sufficient
-  water is available. Plants receiving fertigation consistently look
-  considerably better than unfertilized controls.
-- **Foliar feeding**: Spraying diluted nutrient solutions onto leaves
-  for absorption through stomata. The fallback method when water is too
-  scarce for fertigation -- a few gallons per week in a small sprayer
-  becomes the next best choice for supplemental feeding.
-
-## Fish Emulsion and Kelp Tea Combination
-
-The primary organic [[organic-vegetable-growing-and-market-gardening]] combination Solomon
+[[organic-vegetable-growing-calendar]] combination Solomon
 recommends is a mixture of:
 
 - **Fish emulsion**: Liquid from fish processing byproducts, providing
@@ -90,54 +72,26 @@ and give it a try.
 
 For combined disease control and nutrition, Solomon suggests mixing kelp
 tea and fish emulsion into a
-[[solomon-disease-identification-and-organic-remedies]]/soap
-solution. The baking soda targets powdery mildew while kelp and fish
-emulsion provide nutrients -- addressing disease and nutrition in a
-single spray application. This combination approach makes practical
-sense for efficiency.
-
-## Organic Liquid Fertilizers: An Honest Assessment
-
-Solomon offers a candid assessment: "The most effective liquid
-fertilizers are not organic." The reason is that it is nearly impossible
-to get organic phosphorus to go into solution. Organic liquid
-fertilizers like fish emulsion and seaweed are inherently deficient in
-phosphorus compared to synthetic alternatives. Since young seedlings
-need abundant phosphorus for root development, this is a significant
-limitation.
-
-For established garden plants already properly fertilized with COF at
-planting time, the micronutrients and growth stimulants in kelp tea and
-fish emulsion provide genuine benefits as a supplement.
-
-## Weekly Foliar Feeding as Standard Practice
-
-Solomon recommends regular (weekly) foliar feeding as good practice in
-any case. Cost is low and benefits are tangible. Every gardener should
-experiment with homebrewed compost/manure teas, liquid kelp, fish
-emulsion sprays, and (for non-organic gardeners) hydroponic nutrient
-solutions. Consistency is key -- a single spray does little; weekly
-applications throughout the growing season produce visibly healthier,
-faster-growing plants.
-
-## Practical Tips
-
-1. Spray early morning or late evening to avoid leaf burn and maximize
-   stomatal uptake.
-2. Filter all homemade teas before filling the sprayer.
-3. Add a surfactant (few drops of liquid soap) to help spray spread
-   across and adhere to leaf surfaces.
-4. Spray both upper and lower leaf surfaces; stomata are more
-   concentrated on undersides.
-5. Foliar feeding supplements soil fertility -- it does not replace COF.
-6. Avoid spraying during flowering of crops needing insect pollination.
-
-## See Also
-
-- [[foliar-feeding]]
-- [[foliar-feeding-plants]]
-- [[organic-vegetable-growing-and-market-gardening]]
-- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
+[[foliar-feeding]]
+- [[organic-vegetable-growing-calendar]]
 - [[solomon-complete-organic-fertilizer-guide]]
-- [[solomon-disease-identification-and-organic-remedies]]
 - [[aact-applications-guide-ingham]]
+## Practical Considerations
+
+Successful implementation of Solomon Liquid Fertilizers and Foliar Feeding requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

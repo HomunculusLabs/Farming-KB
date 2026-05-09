@@ -3,7 +3,7 @@ title: Sorghum Growing and Molasses Making
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
 
@@ -45,15 +45,7 @@ Sorghum is direct-seeded after soil has warmed to at least 65°F (18°C). Plant 
 
 ## Companion Planting
 
-Sorghum works well in Permaculture Cover Crops Guide rotations in warm climates, following nitrogen-fixing legumes. In [[permaculture-design-principles]], sorghum provides windbreak protection for shorter crops and serves as a [[permaculture-wildlife-corridors]] biomass producer. It pairs well with cowpeas, mung beans, and peanuts as companion crops. Sorghum's tall growth habit provides a living trellis for climbing beans. Avoid planting near other Sorghum species to prevent cross-pollination if saving seed. As [[urban-permaculture-fodder-trees-livestock]] annual equivalent, mature sorghum provides substantial animal feed.
-
-## Culinary Uses
-
-Sorghum grain is gluten-free and can be ground into flour for breads, flatbreads, and porridges. In African cuisine, sorghum is fermented into traditional beers and used in injera (Ethiopian flatbread). Popped sorghum is a nutritious popcorn alternative. Sorghum molasses has a distinctive earthy-sweet flavor, used on biscuits, pancakes, and in baking. The syrup can also be fermented into sorghum beer or distilled. Sorghum flour is increasingly available as a gluten-free baking ingredient.
-
-## Pests and Diseases
-
-Sorghum is susceptible to several pests and diseases. Sorghum midge can destroy developing seed heads — plant early-maturing varieties to avoid peak midge populations. Birds are major seed predators as grain matures, requiring netting or scare devices. Aphids, especially sugarcane aphid, have become a serious problem in recent years. Fungal diseases include grain mold, anthracnose, and downy mildew. Crop rotation and selecting disease-resistant varieties are the primary management strategies. The [[organic-pest-and-disease-management]] approach uses beneficial insects and neem-based sprays.
+Sorghum works well in Permaculture Cover Crops Guide rotations in warm climates, following nitrogen-fixing legumes. In [[permaculture-wildlife-corridors]] biomass producer. It pairs well with cowpeas, mung beans, and peanuts as companion crops. Sorghum's tall growth habit provides a living trellis for climbing beans. Avoid planting near other Sorghum species to prevent cross-pollination if saving seed. As [[organic-pest-and-disease-management]] approach uses beneficial insects and neem-based sprays.
 
 ## Harvesting as Grain
 
@@ -85,11 +77,7 @@ Plants cannot be used as fodder until at least 18 inches (0.5 m) tall. Young sho
 
 ## See Also
 
-- [[sorghum-vs-millet-comparison]]
-
 - [[permaculture-grain-crops]]
-
-- [[grain-harvesting-and-storage]]
 
 - [[permaculture-climate-strategies]]
 

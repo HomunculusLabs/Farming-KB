@@ -112,11 +112,7 @@ Genetic resistance to multiple downy mildew races is typically pyramided by comb
 
 ## See Also
 
-- [[beta-vulgaris]]
 - [[chenopodium-quinoa]]
-- [[amaranthus-caudatus]]
 - [[portulaca-oleracea]]
-- [[cichorium-intybus]]
 - [[daucus-carota]]
-- [[taraxacum-officinale]]
 - [[plantago-major]]

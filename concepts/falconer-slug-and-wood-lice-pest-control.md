@@ -1,22 +1,7 @@
 ---
 title: Falconer Slug and Wood Louse Pest Control for Mushrooms
 created: 2026-04-28
-tags: [mushroom-cultivation, pest-control, slugs, wood-lice, mites, victorian-gardening, integrated-pest-management]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - ~/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
-
-# Slug, Wood Louse, and Mite Pest Control for Mushrooms
-
-Beyond the major threats of maggots and fungal diseases, Falconer
-identified several other pests that plagued Victorian mushroom growers.
-Slugs, wood lice, mites, mice, and rats each required specific
-detection and control strategies. His detailed observations on trapping
-techniques and the limitations of various remedies provide valuable
-insights into integrated pest management in historical mushroom
+tags: [[integrated-pest-management]] in historical mushroom
 cultivation.
 
 ## Slugs as Mushroom Pests
@@ -139,7 +124,5 @@ was more effective than either method.
 
 ## See Also
 
-- [[falconer-mushroom-insect-enemies]] for maggots, black spot, and flock
 - [[falconer-mushroom-diseases-treatment]] for disease management
-- [[falconer-manure-water-and-fertilizer-application]] for salt as insecticide
 - [[falconer-mushroom-bed-boxing-and-protection]] for physical bed protection

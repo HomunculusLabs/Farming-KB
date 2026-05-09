@@ -106,16 +106,10 @@ If we ignore the material needs of humans in our urban and suburban landscapes, 
 
 ## See Also
 
-- [[gaias-garden-super-guild-design]]
 - [[gaias-garden-three-sisters-guild]]
-- [[gaias-garden-interplanting-polyculture]]
 - [[hemenway-guild-design-roles-and-assembly]]
-- [[polyculture-design-hemenway]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[teaming-with-microbes-mulch-and-soil-food-web]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
-- [[growing-vegetables-with-less-fertilizer]]
 - [[gaias-garden-living-plant-systems-insectary]]
 - [[gaias-garden-three-sisters-guild]]

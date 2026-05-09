@@ -99,22 +99,12 @@ As a nectar source, carqueja supports pollinator populations including bees and 
 
 ## See Also
 
-- [[plantago-major]]
-- [[achillea-millefolium]]
-- [[arctium-lappa]]
-- [[taraxacum-officinale]]
+- [[arctium-lappa-entity]]
 - [[solidago-virgaurea]]
-- [[mentha-piperita]]
 - [[glycyrrhiza-glabra]]
-- [[borago-officinalis]]
 - [[leonurus-cardiaca-entity]]
-- [[scutellaria-baicalensis]]
 - [[verbascum-thapsus]]
-- [[monarda-fistulosa]]
 - [[houttuynia-cordata]]
-- [[eucalyptus-globulus]]
 - [[mentha-spicata]]
-- [[leonurus-sibiricus]]
 - [[sambucus-nigra]]
-- [[urtica-dioica]]
 - [[hypericum-perforatum]]

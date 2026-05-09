@@ -20,7 +20,7 @@ psilocybine and psilocine, which are structurally related to serotonin
 and exert profound effects on consciousness. At least twenty-four species
 are employed at the present time in southern Mexico for magico-religious
 purposes. The discovery and isolation of their active principles by
-[[albert-hofmann]] in 1958 marked a watershed moment in psychopharmacology.
+gordon-wasson in 1958 marked a watershed moment in psychopharmacology.
 
 ## Botanical Description
 
@@ -31,59 +31,12 @@ genera Conocybe, Panaeolus, and Stropharia. Key species documented in
 
 - **Psilocybe mexicana** Heim (Teonanacatl): The type species first
   studied by Hofmann. Found in subtropical grasslands of Mexico.
-- **[[psilocybe-cubensis]]** (Earle) Sing. (San Isidro): Known in Oaxaca as
-  Hongo de San Isidro, the Mazatec name is Di-shi-tjo-le-rra-ja
-  ("divine mushroom of manure"). Attains 4-8 cm in height with a cap
-  2-5 cm in diameter, golden yellow to pale tan, becoming cyanaceous
-  with age or injury. Nearly cosmopolitan in tropical zones.
 - **[[psilocybe-cyanescens]]** Wakefield (Wavy Cap): Identified by its wavy
   brown cap 2-4 cm wide. Grows on decaying plants, coniferous mulch,
   and humus-rich earth in Central Europe and North America. Contains
   approximately 1% tryptamine alkaloids. Very closely related to
-  [[psilocybe-azurescens]] and [[psilocybe-bohemica]].
-- **[[psilocybe-semilanceata]]** (Fr.) Quelet (Liberty Cap): Found in
-  temperate grasslands of Europe and North America.
-
-The gills of these mushrooms vary from whitish to deep gray-violet or
-purple-brown. Spores are ellipsoid and purple-brown. Many species
-exhibit blue bruising when injured, a characteristic indicating the
-presence of psilocybine.
-
-## Traditional and Indigenous Use
-
-The religious use of mushrooms in Mexico and Guatemala is ancient and
-was firmly established among the Aztec Indians at the time of the
-Spanish Conquest. The Aztecs called them Teonanacatl, a Nahuatl term
-meaning "god's flesh" or "divine mushroom." Ethnologists found Indian
-tribes in southern Mexico using mushrooms in their religious ceremonies,
-a practice that has survived to the present day among the Mazatec,
-Mixtec, Zapotec, and other indigenous groups.
-
-The Mazatec shaman Maria Sabona brought the use of sacred mushrooms
-to international attention in the 1950s. As one Mazatec practitioner
-described: "The more you go inside the world of Teonanacatl, the more
-things are seen. He who knows to the end the secret of Teonanacatl can
-even see that infinite clockwork."
-
-Not all shamans will use Psilocybe cubensis, demonstrating the tendency
-among shamans to use a surprisingly limited number of the many
-psychoactive species available. Mushrooms are typically eaten fresh or
-dried, often in ceremonial nighttime settings guided by a curandero or
-shaman.
-
-## Chemical Constituents
-
-The two principal psychoactive compounds are:
-
-- **Psilocybine** (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine):
-  The primary alkaloid, a stable phosphorylated prodrug. The greater
-  part of the active content is psilocybine, typically comprising 0.1
-  to 0.6 percent of the dry weight of plant tissue.
-- **Psilocine** (4-hydroxy-N,N-dimethyltryptamine): Usually present
-  only in traces, though some species like Conocybe cyanescens contain
-  up to 1.2% psilocine and 0.6% psilocybine, the highest content
-  found in hallucinogenic mushrooms.
-- **Baeocystine**: Found in [[panaeolus-cyanescens]] at 0.46%, along with
+  [[psilocybe-bohemica]].
+- **[[panaeolus-cyanescens-entity]] at 0.46%, along with
   serotonin and 5-hydroxy-tryptophane.
 
 The chemical structure of these compounds is closely related to
@@ -135,10 +88,6 @@ trials and decriminalization efforts are advancing rapidly.
 
 ## See Also
 
-- [[psilocybin-mushrooms]]
-
 - [[plants-gods-peyote]] for another major Mexican hallucinogen
-- [[plants-gods-ololiuqui]] for the Morning Glory seeds also used in
-  Aztec ceremonies
 - [[schultes-salvia-divinorum]] for another Mazatec psychoactive
   plant

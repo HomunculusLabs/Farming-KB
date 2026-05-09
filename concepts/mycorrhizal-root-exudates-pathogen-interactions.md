@@ -128,7 +128,9 @@ soil-borne pathogens within the mycorrhizosphere.
 
 ## See Also
 
-- [[mycorrhiza-induced-resistance-defense-priming]]
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
-- [[root-exudates-rhizosphere]]
 - [[bacterial-associates-amf-structures-biocontrol]]
+
+## See Also
+
+- [[dighton-mycorrhizae-pathogen-biocontrol-interactions]]

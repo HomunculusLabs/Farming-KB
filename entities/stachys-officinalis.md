@@ -124,10 +124,7 @@ for pollinator-friendly plantings.
 ## See Also
 
 - [[leonurus-cardiaca-entity]]
-- [[lamium-album]]
 - [[prunella-vulgaris]]
-- [[melissa-officinalis]]
 - [[hypericum-perforatum]]
-- [[ajuga-reptans]]
 - [[verbascum-thapsus]]
 - [[salvia-officinalis]]

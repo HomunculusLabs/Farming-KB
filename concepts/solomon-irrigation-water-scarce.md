@@ -8,11 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# [[irrigation-systems]] for Water-Scarce Gardens
-
-## The Myth of Drought
-
-[[steve-solomon]] opens his chapter on watering with a striking historical
+# [[steve-solomon]] opens his chapter on watering with a striking historical
 observation: before the 1930s, few farms had electricity, and before 1880, over
 90 percent of North Americans lived on family farms or in small villages. In
 those days, the vast majority of vegetable gardens were grown without running
@@ -101,8 +97,5 @@ methods increasingly important.
 
 ## See Also
 
-- [[wide-spacing-dry-gardening-low-irrigation-solomon]]
-
 - [[solomon-raised-beds]] for bed types suited to different water availability -
-[[solomon-compost-organic-matter]] for compost tea fertigation recipes -
 [[solomon-complete-organic-fertilizer-guide]] for COF-based fertigation solutions

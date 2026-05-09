@@ -125,11 +125,6 @@ principles:
 
 ## See Also
 
-- [[oner-cannabis-breeding-fundamentals]]
-- cannabis-backcrossing|Backcrossing
-- cannabis-hybridization|Hybridization
 - [[cannabis-landrace-strains]]
-- [[cannabis-genetic-stability]]
 - [[autoflowering-cannabis]]
-- [[cannabis-autoflower-guide]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]

@@ -101,11 +101,9 @@ observances.
 
 ## Related
 
-- [[wasson-rediscovery-of-psilocybin]] -- Wasson and the rediscovery of
-  psilocybin mushrooms
-- [[shroom-mazatec-tradition]] -- The [[mazatec-mushroom-tradition]] and
-  Maria Sabina
-- [[shroom-wasson-valentina-expedition]] -- R. Gordon Wasson and the
+- [[psilocybin-mushrooms]]
+- [[mazatec-mushroom-tradition]] and
+  [[shroom-wasson-valentina-expedition]] -- R. Gordon Wasson and the
   Valentina expedition
 
 ## Source

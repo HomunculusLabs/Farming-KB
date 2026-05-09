@@ -134,13 +134,8 @@ Sweet potato has the lowest overall labor requirement, making it ideal for small
 
 ## See Also
 
-- [[comparison-potato-vs-sweet-potato-cultivation]]
-
-- [[comparison-oca-vs-potato]]
-
 - [[comparison-breadfruit-vs-cassava]]
 
-- [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
-- [[solomon-growing-beans-and-peas]]
+- comparison cassava vs taro vs sweet potato vs yam
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 - [[comparison-arid-vs-tropical-permaculture]]

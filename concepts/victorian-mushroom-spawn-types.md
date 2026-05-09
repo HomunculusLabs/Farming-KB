@@ -9,9 +9,7 @@ created: 2026-05-07
 type: concept
 ---
 
-# Victorian [[mushroom-spawn]] Types
-
-In the late 19th century, mushroom spawn was obtained through several distinct channels, each with unique characteristics regarding preparation, appearance, vigor, and availability. [[william-falconer]] documented these in detail in *Mushrooms: How to Grow Them* (1891), providing the most comprehensive English-language account of the spawn trade during the Victorian era.
+# Victorian [[william-falconer]] documented these in detail in *Mushrooms: How to Grow Them* (1891), providing the most comprehensive English-language account of the spawn trade during the Victorian era.
 
 ## Overview of Spawn Categories
 
@@ -123,16 +121,5 @@ Falconer was emphatic about the importance of using fresh spawn. Given that it t
 
 ## The Spawn Trade
 
-The Victorian mushroom spawn trade was a significant commercial enterprise. Leading importers in major American cities handled thousands of pounds annually. The demand was described as "unprecedented," with some leading importers selling out their supply before November. Market growers, rather than private gardeners, drove the demand, as they had discovered there was substantial profit in [[mushroom-cultivation]].
-
-The spawn trade was characterized by secrecy. Market growers zealously guarded their cultivation methods, and spawn makers kept their manufacturing processes confidential. This secrecy contributed to the mystique surrounding mushroom growing and made reliable information difficult to obtain for beginners.
-
-## Historical Significance
-
-The Victorian spawn types represent an important transitional period in mushroom cultivation, between the entirely empirical methods of earlier centuries and the scientific pure-culture spawn that would emerge in the early 20th century. The reliance on natural spawn and empirically manufactured bricks and flakes would soon be superseded by laboratory-produced pure culture spawn, but the basic principles of spawn selection, storage, and handling established during this era remained relevant to mushroom cultivation.
-
-## See Also
-
-- [[falconer-mushroom-spawn-types-and-merits]]
-- [[grain-spawn-preparation]]
+The Victorian mushroom spawn trade was a significant commercial enterprise. Leading importers in major American cities handled thousands of pounds annually. The demand was described as "unprecedented," with some leading importers selling out their supply before November. Market growers, rather than private gardeners, drove the demand, as they had discovered there was substantial profit in [[falconer-mushroom-spawn-types-and-merits]]
 - [[mushroom-cultivation-basics]]

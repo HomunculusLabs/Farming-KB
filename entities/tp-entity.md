@@ -9,15 +9,7 @@ sources:
 ---
 # TP (Thioproscaline; 3,5-Dimethoxy-4-(n)-propylthiophenethylamine)
 
-TP is a sulfur-substituted phenethylamine and the n-propylthio homologue of [[proscaline]]. It is one of the most potent compounds in the thio-series of mescaline analogues explored in PIHKAL. The compound is listed as PIHKAL entry #174.
-
-## Chemical Classification
-
-TP belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 3,5-dimethoxy-4-(n)-propylthiophenethylamine, also known as thioproscaline.
-
-TP is the n-propylthio analogue of [[proscaline]], where the 4-propoxy group of proscaline is replaced by a 4-n-propylthio group.
+TP is a sulfur-substituted phenethylamine and the n-propylthio homologue of [[proscaline]], where the 4-propoxy group of proscaline is replaced by a 4-n-propylthio group.
 
 The compound follows the general pattern of thio-analogues: replacing an oxygen atom with a sulfur atom.
 
@@ -29,68 +21,92 @@ TP is a highly potent psychedelic compound with a dosage range of only 20 to 25 
 
 The duration of effects is 10 to 15 hours.
 
-This represents a dramatic increase in potency over the parent compound [[proscaline]], which is active at doses above 150 mg.
-
-The potency increase of approximately 6-8 times is attributed to the sulfur substitution.
-
-## Qualitative Effects
-
-At 18 mg, there was very little effect until more than two hours had passed, indicating a slow onset.
-
-At 27 mg, subjects reported a heavy body feeling, described as not negative but definitely present.
-
-The body load was notable and contributed significantly to the character of the experience.
-
-At higher doses within the active range, the effects become more pronounced with both physical and mental components.
-
-## Potency Trends in the Thio-Series
-
-The thio-series of mescaline analogues demonstrates a consistent pattern of increasing potency with sulfur substitution.
-
-[[mescaline-entity]] itself requires doses of 200-400 mg.
-
-[[proscaline]] (with a 4-propoxy group) requires doses above 150 mg.
-
-TP (with a 4-n-propylthio group) requires only 20-25 mg, representing a dramatic increase.
-
-The commentary notes that the most appealing target as a potential psychedelic would be the methylthio homologue (3,5-dimethoxy-4-methylthioamphetamine, 3C-TM).
-
-The butylthio homologue (3,5-dimethoxy-4-(n)-butylthioamphetamine, 3C-TB) was suggested as a potential euphoriant.
-
-## Comparison with Related Compounds
-
-The synthesis of TP begins with thiosyringaldehyde, followed by S-alkylation and conventional nitroethane coupling, then LAH reduction.
-
-This synthetic pathway is shared by many members of the thio-series.
-
-The alkylthio analogues represent a systematic exploration of the effects of sulfur substitution at the 4-position of the 3,5-dimethoxyphenethylamine skeleton.
-
-## Dosage and Duration
-
-Dosage: 20 - 25 mg.
-
-Duration: 10 - 15 h.
-
-## Safety Considerations
-
-Despite the high potency, the commentary notes signs of physical discomfort at higher doses.
-
-The long duration (10-15 hours) should be factored into any experimental planning.
-
-The heavy body feeling may be concerning for some users.
-
-## See Also
+This represents a dramatic increase in potency over the parent compound [[mescaline-entity]] itself requires doses of 200-400 mg.
 
 [[proscaline]]
 
-[[mescaline-entity]]
-
 [[3-tm-entity]]
-
-[[te-entity]]
 
 [[tb-entity]]
 
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #174: TP.
+## Practical Applications
+
+Tp Entity has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Tp Entity. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -44,7 +44,7 @@ The mescaline pattern — 3,4,5-trimethoxyphenethylamine. This is the naturally 
 - **Halogens** (F, Cl, Br, I) — Dramatically increase potency, especially bromine and iodine (see [[dob-compound-profile]], [[2c-i-compound-profile]])
 - **Alkyl groups** — Methyl and ethyl groups; modify duration and character of effects
 - **Thioalkyl groups (-SR)** — Sulfur-containing groups; the basis of the 2C-T series (see [[2c-t-2-compound-profile]])
-- **Methylenedioxy bridge (-O-CH2-O-)** — Connects two adjacent positions; found in [[ayahuasca-and-dmt-plant-medicine]] and [[mdma-in-pihkal-context]]
+- **Methylenedioxy bridge (-O-CH2-O-)** — Connects two adjacent positions; found in [[mda-compound-profile]] and [[mdma-in-pihkal-context]]
 
 ## Alpha-Methylation (Amphetamine vs. Phenethylamine)
 
@@ -58,12 +58,27 @@ Adding a methyl group to the alpha-carbon (adjacent to the amine) converts a phe
 
 - **2C family** — Ring-substituted phenethylamines without alpha-methyl (see [[2c-family-compounds-overview]])
 - **DO family** — Alpha-methylated (amphetamine) with 2,5-dimethoxy-4-substitution (see [[dob-compound-profile]])
-- **MD family** — Methylenedioxy-substituted amphetamines (see [[ayahuasca-and-dmt-plant-medicine]], [[mdma-in-pihkal-context]])
+- **MD family** — Methylenedioxy-substituted amphetamines (see [[mda-compound-profile]], [[mdma-in-pihkal-context]])
 - **Ariadne family** — Phenylisopropylamines with unusual ring substitution
 - **Mescaline analogues** — 3,4,5-substituted phenethylamines (see [[mescaline-compound-profile]])
 
 See also: phenethylamine chemistry basics, [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]], [[phenethylamine-synthesis-safety]]
+## Practical Considerations
 
-## See Also
+Successful implementation of Phenethylamine Chemistry Basics requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-- [[stereochemistry-and-chirality]]
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

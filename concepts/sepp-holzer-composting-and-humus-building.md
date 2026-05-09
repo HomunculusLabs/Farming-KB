@@ -126,12 +126,6 @@ Green manure sown in autumn decomposes over winter. The decomposition process:
 ### The No-Dig Principle
 Once mulching has been established for a while, digging over or loosening soil in spring is unnecessary. Soil life maintains structure. Digging disrupts fungal networks and earthworm tunnels.
 
-See also: [[sepp-holzer-composting-mulching-and-liquid-fertiliser]], [[sepp-holzer-soil-fertility-and-green-manure]], [[sepp-holzer-terrace-systems-and-raised-beds]],
-
-## Related
-
-- [[sepp-holzer-method]]
-- [[holzer-green-manure-and-soil-building-plants]]
+See also: [[sepp-holzer-soil-fertility-and-green-manure]], [[sepp-holzer-method]]
 - [[holzer-kitchen-garden-layout-and-traditional-gardening]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[organic-vegetable-garden-rotation-deep-beds]]

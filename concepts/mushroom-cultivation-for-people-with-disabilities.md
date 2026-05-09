@@ -1,22 +1,7 @@
 ---
-title: Mushroom Cultivation for People with Disabilities
+title: Mushroom Cultivation For People With Disabilities
 aliases: [accessible mushroom farming, disability-inclusive agriculture, FAO mushroom training]
-tags: [mycology, cultivation, accessibility, disability, rural-development, FAO]
-created: 2026-05-08
-source: "Mushroom Cultivation by People with Disabilities (FAO, 2001)"
----
-
-# Mushroom Cultivation for People with Disabilities
-
-Mushroom cultivation is uniquely suited as a livelihood activity for people with disabilities. The FAO publication "Mushroom Cultivation for People with Disabilities: A Training Manual" (RAP Publication 2001/12), written by Johanne Hanko, presents mushroom growing as a vehicle for rehabilitation, economic self-reliance, and social integration. The manual was developed from FAO technical cooperation program TCP/THA/8821(A) in Thailand.
-
-## Why Mushroom Cultivation?
-
-Mushroom cultivation offers several advantages for people with disabilities compared to traditional agriculture:
-
-- **Low physical demand** — No heavy lifting, plowing, or prolonged standing required when systems are properly adapted.
-- **Small space requirements** — A 15–30 m² growing house can support a viable micro-enterprise.
-- **Short production cycle** — Oyster mushrooms fruit within 30–45 days from inoculation, providing quick income returns.
+tags: [[oyster-mushrooms]] fruit within 30–45 days from inoculation, providing quick income returns.
 - **Low startup cost** — Basic materials (substrate bags, simple growing structure) are affordable.
 - **Year-round production** — With environmental control, mushrooms can be grown continuously regardless of season.
 - **High value crop** — Mushrooms command premium prices compared to staple vegetables.
@@ -32,51 +17,7 @@ The FAO manual proposes a "three-in-one" training model that integrates three ob
 - Encouraging social interaction and reducing isolation.
 
 ### 2. Mushroom Cultivation Skills
-- Complete technical training from spawn production through harvesting and marketing.
-- Hands-on practice at every stage of the cultivation cycle.
-- Problem-solving skills for troubleshooting contamination, pests, and environmental issues.
-
-### 3. Enterprise Development
-- Basic business skills: bookkeeping, pricing, cost calculation, profit margins.
-- Marketing training: identifying buyers, negotiating prices, maintaining quality for repeat customers.
-- Financial literacy: managing income, savings, and reinvestment.
-
-This integrated approach ensures that trainees don't just learn a technical skill but develop the full capacity to run a sustainable small business.
-
-## Trainee Selection
-
-### Criteria
-
-- **Physical ability** — Evaluating what tasks the trainee can perform with or without adaptation.
-- **Motivation** — Genuine interest in mushroom cultivation is essential.
-- **Living situation** — Access to suitable space at or near their home.
-- **Support network** — Family or community members available to assist.
-- **Geographic accessibility** — Reachable for follow-up visits.
-
-### Group Size
-
-Optimal training groups are 8–15 people. Smaller groups don't justify the training infrastructure; larger groups reduce individual attention. The manual emphasizes gender equality in selection.
-
-### Problems to Avoid
-
-- Selecting individuals without genuine motivation.
-- Including people whose disabilities are too severe for any adaptation.
-- Grouping vastly different learning needs without adequate support.
-- Failing to assess home environment suitability before acceptance.
-
-## Training Structure
-
-### Motivational Sessions
-
-**First series** (pre-training): Building confidence, sharing success stories, introducing mushroom farming as business, addressing fears.
-
-**Second series** (during training): Reinforcing motivation, celebrating milestones, peer support.
-
-### Training Schedule
-
-- **Week 1** — Introduction to mushrooms, hygiene, basic concepts.
-- **Week 2** — Spawn production (PDA medium, tissue culture).
-- **Week 3** — Substrate preparation and bagging.
+- Complete technical training from [[substrate-preparation]] preparation and bagging.
 - **Week 4** — Pasteurization, inoculation, incubation.
 - **Week 5** — Bag opening, fruiting management, environmental control.
 - **Week 6** — Harvesting, packaging, marketing.
@@ -143,7 +84,5 @@ The FAO three-in-one approach represents a model for disability-inclusive rural 
 
 ## See Also
 
-- [[mushroom-spawn-production]]
 - [[substrate-pasteurization-methods]]
-- [[mushroom-house-design-and-accessibility]]
 - [[mushroom-processing-and-preservation]]

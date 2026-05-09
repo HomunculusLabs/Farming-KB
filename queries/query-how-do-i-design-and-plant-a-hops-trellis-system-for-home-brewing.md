@@ -9,15 +9,7 @@ tags:
   - perennial-crops
   - garden-design
   - diy-projects
-  - humulus-lupulus
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "For the Love of Hops, Stan Hieronymus (2012)"
-  - "The Homebrewer's Garden, Joe Fisher & Dennis Fisher (2012)"
-  - "Hops — USDA Natural Resources Conservation Service plant guide"
-  - "American Homebrewers Association — growing hops at home"
-  - "Permaculture: A Designers' Manual, Bill Mollison (1988)"
+  - [[bill-mollison]] (1988)"
 created: 2026-04-28
 type: query
 ---
@@ -138,6 +130,5 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3�
 
 ## See Also
 
-- [[compost-tea-brewing]]
 - [[compost-tea-brewing-equipment-ingham]]
 - [[compost-tea-brewing-methods]]

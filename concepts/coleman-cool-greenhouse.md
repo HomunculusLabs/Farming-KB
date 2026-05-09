@@ -128,10 +128,7 @@ to maximize winter income per square foot.
 
 ## See Also
 
-- [[coleman-unheated-greenhouse-design]]
 - [[coleman-winter-harvest-philosophy]]
-- [[coleman-winter-greens]]
 - [[coleman-greenhouse-soil-management]]
-- [[coleman-four-season-farm]]
 - [[coleman-succession-planting]]
 - [[coleman-marketing-economics]]

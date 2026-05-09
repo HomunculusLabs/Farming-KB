@@ -127,8 +127,6 @@ San Pedro is a common ornamental plant and is generally permissible to use for n
 horticultural purposes. This distinguishes it from peyote, which is illegal under US
 federal law. However, attempting to use San Pedro for psychedelic purposes or
 extracting mescaline from it could result in prosecution.
-- [[turner-psychedelic-combination-experience-reports]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[mescaline-peyote-san-pedro-cactus]]
 - [[first-time-grower-common-mistakes]]
 - [[faires-plant-catalog-notable-species]]

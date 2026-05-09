@@ -120,8 +120,6 @@ surrendered to, the mystery of being.
 
 ## See Also
 
-- [[stropharia-cubensis-as-ur-plant]]
 - [[psilocybin-in-human-evolution]]
-- [[exopheromones-and-cross-species-communication]]
 - [[partnership-versus-dominator-culture]]
 - [[strophariaceae-in-ethnomycology]]

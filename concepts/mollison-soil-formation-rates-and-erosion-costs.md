@@ -122,10 +122,7 @@ The permaculture approach to soil is guided by several values:
 
 ## Integration with Permaculture Systems
 
-- [[mollison-soil-erosion-control]] for specific erosion control
-  techniques.
 - [[mollison-soil-rehabilitation]] for restoring degraded soils.
-- [[mollison-mulching-and-soil-health]] for mulch-based soil building.
 - [[mollison-green-manure-soil-fertility]] for biological soil
   improvement.
 - [[mollison-no-tillage-grain-systems]] for cropping without tillage.

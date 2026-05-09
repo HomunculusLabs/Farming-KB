@@ -1,45 +1,26 @@
 ---
 title: stump-inoculation-techniques for oyster-mushroom-cultivation-economics
 created: 2026-04-28
-tags: [mycology, inoculation, sterile-technique, agar-transfer, Stamets]
+tags: [[mycology, inoculation, sterile-technique, agar-transfer, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
 type: concept
 ---
 
-# [[growing-gourmet-outdoor-log-inoculation-techniques]] for [[mushroom-cultivation]]
+# [[mushroom-cultivation]]
 
 ## Overview
 
 Successful inoculation is the critical transfer point where pure mushroom
-[[mycelium]] is introduced into fresh media. The inoculation step is where
-contamination is most likely to be introduced, making proper technique
-essential. Stamets details several [[inoculation-methods]] across different
+[[inoculation-methods]] across different
 culture stages, each with specific procedures to maximize success rates.
 
 ## Agar-to-Agar Transfers
 
 ### Purpose
 
-Agar-to-agar transfers are used for isolating pure [[growing-gourmet-iconic-types-mushroom-mycelium]] away
-from contaminants, expanding mycelial mass, and maintaining stock cultures.
-This is the most fundamental [[agar-to-grain-wedge-transfer-technique]] in [[mycophiles-and-mushroom-culture]].
-
-### Standard Technique
-
-1. Flame sterilize an agar knife or scalpel until red hot
-2. Cool the tool by touching it to the agar surface away from the target
-   mycelium
-3. Cut a wedge-shaped section from the leading edge of the mycelium
-4. Lift the wedge and transfer it to a fresh petri dish
-5. Place the wedge mycelium-side-down on the fresh agar surface
-6. Seal the dish and label with species, date, and media type
-
-### Multiple Transfer Method
-
-Experienced cultivators use two simultaneously sterilized scalpels to speed
-the transfer process. While one tool cools after flame [[sterilization]], the
+Agar-to-agar transfers are used for isolating pure [[agar-to-grain-wedge-transfer-technique]] in [[sterilization]], the
 other is being used for transfers. This reduces waiting time and improves
 efficiency.
 

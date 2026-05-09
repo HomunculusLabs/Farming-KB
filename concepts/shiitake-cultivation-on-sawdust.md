@@ -59,61 +59,25 @@ grain spawn at a 5-10% rate.
 
 Inoculated bags are incubated at 20 to 25 degrees C in darkness. Full
 colonization typically takes 30 to 60 days, significantly longer than
-oyster mushrooms. Shiitake [[mycelium]] is slower-growing but more tenacious
-than Pleurotus species. The fully colonized substrate turns brown as the
-mycelium produces extracellular enzymes that degrade the wood.
-
-## Browning Phase
-
-A distinctive feature of shiitake cultivation is the browning phase, during
-which the white mycelium gradually turns a rich brown color as it digests
-the lignin in the sawdust. This browning is essential for proper fruiting
-and contributes to the characteristic texture and flavor of the mushrooms.
-Incomplete browning often results in poor-quality fruiting bodies.
-
-The browning phase occurs naturally after full colonization and can be
-encouraged by exposing the blocks to light and maintaining appropriate
-temperatures. Some growers move colonized blocks to a slightly cooler area
-(15 to 20 degrees C) with ambient light to promote even browning.
-
-## Fruiting Induction
-
-Shiitake requires specific triggers for fruiting. After the browning phase
-is complete (typically 60 to 90 days total from inoculation), blocks are
-soaked in cold water for 12 to 24 hours. This cold shock simulates natural
-rain events and triggers the formation of primordia (mushroom pins).
-
-After soaking, blocks are placed in a fruiting environment with high
-humidity (85-95%), fresh air exchange, indirect light, and temperatures
-appropriate to the strain. Primordia typically appear within 7 to 14 days
-after soaking. The mushrooms grow to harvestable size in another 5 to 10
-days.
-
-## Cropping Cycles
-
-Each shiitake block typically produces 4 to 6 flushes over a 3 to 6 month
-cropping period. Between flushes, blocks require a resting period of 2 to 3
-weeks to rebuild nutrient reserves. The resting blocks are maintained at
-warm temperatures with moderate humidity. After resting, blocks are soaked
-again to trigger the next flush.
-
-First and second flushes generally produce the highest yields. Later flushes
-decline in both quantity and mushroom size. Total biological efficiency on
-supplemented sawdust typically ranges from 75 to 125%, lower than oyster
-mushrooms but offset by the higher market value of shiitake.
-
-## Common Problems
-
-Contamination during colonization is the most frequent issue, usually caused
-by inadequate sterilization or poor inoculation technique. Green molds
-(Trichoderma species) are the primary competitors. During fruiting, the
-most common problems are inadequate humidity causing cracked caps, poor air
-exchange leading to stem elongation and small caps, and bacterial blotch
-from water sitting on mushroom surfaces.
-
-## See Also
-
-- [[mushroom-substrate-preparation]]
-- [[grain-spawn-production]]
+oyster mushrooms. Shiitake [[mushroom-substrate-preparation]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-fruiting-chamber-design-parameters]]
+## Practical Considerations
+
+Successful implementation of Shiitake Cultivation on Sawdust requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

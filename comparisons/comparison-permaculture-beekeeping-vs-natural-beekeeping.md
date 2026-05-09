@@ -23,9 +23,7 @@ colony biological health and autonomy, often minimizing routine human interventi
 
 ## Permaculture Beekeeping
 
-[[permaculture-beekeeping]]
-
-Permaculture beekeeping treats bees as essential producers within a [[permaculture-design]] system. Without their pollination, producing enough food would be impossible,
+[[permaculture-design]] system. Without their pollination, producing enough food would be impossible,
 and they additionally produce honey, beeswax, propolis, and royal jelly. The approach
 focuses on ensuring adequate forage, proper hive placement within the broader
 landscape, and integration with other elements including water harvesting, windbreaks,
@@ -47,25 +45,7 @@ pollination as the primary yield and honey as a secondary yield.
 
 ## Natural Beekeeping
 
-[[natural-beekeeping-practices]]
-
-Natural beekeeping, articulated by practitioners like Sepp Holzer, considers bees
-the most important insects for human survival and prioritizes colony health above
-honey yield. The approach emerged in response to massive bee die-offs: in the US,
-several bee species are extinct and others have shrunk to 4% of former numbers.
-Holzer identifies three primary causes: pesticides (particularly neonicotinoids
-that disturb bee communication), overexploitation (extracting too much honey and
-replacing it with inadequate sugar water), and excessive hive interference (frequent
-opening stresses colonies and promotes disease).
-
-Natural beekeeping emphasizes understanding bee biology and working with natural
-behaviors. Key principles include leaving sufficient honey for winter survival
-without supplemental feeding, minimizing inspections to reduce stress, allowing bees
-to build natural comb (natural wax has antibacterial properties that plastic and
-metal frames lack), and respecting propolis production (resin that strengthens bee
-immune systems and protects against mites and disease).
-
-Natural beekeepers often use alternative hive designs including log hives, [[top-bar-hive]], and Warre hives that allow bees to build comb freely and maintain their own
+[[top-bar-hive]], and Warre hives that allow bees to build comb freely and maintain their own
 internal architecture. The approach accepts lower honey yields in exchange for
 healthier, more resilient colonies. Winter bees are recognized as a distinct,
 robust generation maintaining hive temperature at 25 to 27 degrees Celsius through
@@ -101,14 +81,7 @@ Natural beekeeping is ideal for those prioritizing bee conservation over honey
 production. It suits landowners with abundant natural forage who want to support
 pollinator populations with minimal intervention. It is particularly appropriate
 where pesticide exposure is a concern, as stronger colonies resist disease and
-environmental stressors better. Natural beekeeping aligns with [[zone-5-wilderness]]
-conservation goals and holistic land stewardship where bees are valued partners.
-
-## Hybrid Approaches
-
-Many practitioners combine both approaches. Permaculture-designed forage systems
-provide abundant food supporting natural beekeeping methods by reducing or eliminating
-supplemental feeding. Using [[top-bar-hive]] within permaculture zones allows natural
+environmental stressors better. Natural beekeeping aligns with [[top-bar-hive]] within permaculture zones allows natural
 comb building while benefiting from systematic placement. The key insight from both
 is that healthy bees are more productive bees: minimal intervention, adequate honey
 reserves, and natural comb improve long-term viability of any apiary regardless of
@@ -116,10 +89,6 @@ management philosophy.
 
 ## See Also
 
-- [[comparison-natural-beekeeping-vs-standard-beekeeping]]
-
 - [[beekeeping-basics]]
-- [[top-bar-hive]]
 - [[bee-forage-plants]]
-- [[bee-forage-systems-design]]
 - [[beneficial-insects-guide]]

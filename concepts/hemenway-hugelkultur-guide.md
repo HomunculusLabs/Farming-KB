@@ -1,7 +1,7 @@
 ---
 title: "Hugelkultur Guide"
 created: 2026-04-28
-tags: [permaculture, soil-building, water-conservation, hugelkultur, organic-matter]
+tags: [[permaculture, soil-building, water-conservation, hugelkultur, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
@@ -103,24 +103,8 @@ The advantages of hugelkultur beds are substantial:
 
 Hugelkultur integrates naturally with other permaculture techniques. The mounds
 can be placed on contour to function as swales, catching and infiltrating
-runoff. They pair well with [[hemenway-sheet-mulching-guide]] to prepare the
-surrounding area. The slow nutrient release complements
-[[hemenway-cover-crops-guide]] planted between mounds. Over time, hugelkultur
-beds contribute to [[hemenway-soil-food-web-garden]] development by creating
-diverse microbial habitats as different wood types decompose at varying rates.
-
-## Long-Term Evolution
-
-A hugelkultur bed is a dynamic, evolving system. In the first year or two, the
-bed may need supplemental water as the wood begins to decompose. By year three
-to five, the decomposing wood reaches peak moisture-holding capacity, and the
-bed becomes largely self-watering. Over a decade or more, the wood fully
-transforms into humus, leaving behind a deep, fertile berm of exceptional soil.
-
-## See Also
-
-- [[hemenway-soil-as-water-storage]] for complementary water retention
+runoff. They pair well with [[hemenway-cover-crops-guide]] planted between mounds. Over time, hugelkultur
+beds contribute to [[hemenway-soil-as-water-storage]] for complementary water retention
   strategies
-- [[hemenway-sheet-mulching-guide]] for preparing planting areas
 - [[hemenway-soil-food-web-garden]] for the biology underlying decomposition
 - [[hemenway-zone-and-sector-planning]] for optimal placement of mounds

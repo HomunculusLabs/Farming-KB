@@ -18,8 +18,7 @@ type: concept
 
 The Parisian maraicher system (la culture maraichere) represents one of
 the most impressive models of intensive vegetable production in
-[[magic-mushroom-cultural-history]]. Operating in and around Paris during the second
-half of the [[nineteenth-century-mushroom-cultivation]], these market gardeners demonstrated that
+[[nineteenth-century-mushroom-cultivation]], these market gardeners demonstrated that
 small-scale, space-efficient farming could feed a major city year-round
 with extraordinary productivity and quality.
 
@@ -103,48 +102,5 @@ cold nights.
 
 ## Louis Savier: A Twentieth-Century Maraicher
 
-In fall 1974, Eliot Coleman visited Louis Savier's 2.5-acre market
-garden in Banvilliers, nine miles south of Paris. Savier's operation
-clearly showed the influence of the nineteenth-century maraichers. The
-garden was surrounded by a 6-foot-high wall (south-facing walls offer
-a warm microclimate). Savier had returned to organic methods after
-displeasure with his father's chemical inputs, later moving to
-biodynamics.
-
-Crops included lettuces, endive, escarole, mache, radishes, leeks,
-carrots, celery, spinach, chard, turnips, onions, and parsley. Every
-bed was part of a planned rotation with ingenious interplantings
-(leek/carrot, mache/onion, radish/romaine). A unique feature was
-30-inch-wide lightweight rail tracks with pushcarts for delivering
-compost, moving harvested produce, and a self-propelled irrigation
-cart.
-
-## British Transplant Attempt
-
-In 1869, William Robinson was the first English writer to enthuse
-about the Parisian system in Parks and Gardens of Paris. Prince Peter
-Kropotkin praised the maraichers in Fields, Factories and Workshops
-(1899). After British growers visited Paris in 1905, interest surged.
-Joseph Fels bought 600 acres at Mayland, Essex for intensive
-French-style mini-farms. Multiple instruction books followed, but
-many gardens failed through incompetence or unrealistic expectations.
-The high level of expertise and long hours were lost in glowing
-descriptions.
-
-## Decline
-
-By 1915, the rise of tractors, chemical fertilizers, and automobiles
-replacing horses made horse manure scarce and expensive. Urban
-expansion priced land out of agriculture. The maraichers moved to
-outskirts but were eventually priced out entirely. Yet the techniques
-and inspiration survived in old books and the hands of a few
-growers who continued to the end of the twentieth century.
-
-## Relevance
-
-The factors that distinguished the Parisian maraichers -- location,
-sustainability, quality, and productivity -- are the same factors
-that bring economic success to twenty-first-century market gardeners.
-See also [[coleman-french-intensive-bed-method]],
+In fall 1974, [[coleman-french-intensive-bed-method]],
 [[coleman-moveable-greenhouse-system]], and
-[[coleman-winter-harvest-philosophy]].

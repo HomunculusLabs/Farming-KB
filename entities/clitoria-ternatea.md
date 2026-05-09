@@ -120,9 +120,11 @@ sources:
 
 ## See Also
 
-- [[clitoria-ternatea-entity]]
+- clitoria ternatea
 
-- [[centella-asiatica]] — another Ayurvedic medhya rasayana herb for cognitive support
 - [[bacopa-monnieri]] — complementary Ayurvedic nootropic used alongside Clitoria in traditional brain-tonic formulations
-- [[mimosa-pudica]] — related Fabaceae species with medicinal properties
 - [[ocimum-sanctum]] — complementary adaptogenic herb in Ayurvedic practice
+
+## See Also
+
+- [[permaculture-plants-medicinal-herbs-healing]]

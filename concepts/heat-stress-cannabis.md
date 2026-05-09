@@ -30,8 +30,7 @@ Temperatures above 85°F (29°C) are not recommended even when using CO2 enrichm
 - **Stunted growth**: Growth slows dramatically during heat events
 - **Dwarfing**: Young plants can be permanently dwarfed by heat stress (roots cook in hot conditions, arresting development)
 - **Reduced vigor**: Overall plant health declines as the plant diverts energy to cooling
-- **Increased pest vulnerability**: Heat-stressed plants are more susceptible to [[spider-mites-cannabis]] and other pests
-- **Disease susceptibility**: Heat-damaged roots are very susceptible to rot, wilts, and [[fungus-gnats-cannabis]] attacks
+- **Increased pest vulnerability**: Heat-stressed plants are more susceptible to [[fungus-gnats-cannabis]] attacks
 - **Calyx stretching**: Heat stress makes calyxes stretch up and grow beyond a compact bud, reducing bud density
 - **Leaf cupping**: Leaves may cup upward or downward depending on the severity and type of heat stress
 
@@ -66,40 +65,7 @@ Root zone temperature is critical for hydroponic growers:
 - **Maximum**: Never let nutrient solution climb above 85°F (29°C)
 - Above 85°F (29°C), the solution holds little dissolved oxygen
 - Roots are easily damaged by temperatures 85°F and above — essentially cooking the root system
-- Heat-damaged roots are susceptible to [[cannabis-root-rot-prevention-and-treatment]], wilts, and fungus gnat attacks
-- Maintaining solution around 60°F (15°C) helps control transpiration and humidity while promoting nutrient uptake
-- Reservoir chillers or ice bottles can be used to maintain solution temperature in warm environments
-- Water and heat stress can cause young plants to be permanently dwarfed when roots cook in hot conditions
-
-## Causes of Heat Stress
-
-- **HID lamp heat**: Primary heat source in indoor gardens; both radiant heat and convective heat from the bulb contribute
-- **Poor ventilation**: Inadequate air exchange allows heat to build up; lack of ventilation also stifles leaves and causes slow growth
-- **Summer weather**: Heat buildup during warm weather can catch growers off guard; ambient room temperature rises compound with lamp heat
-- **Vacation neglect**: Many crops are lost to heat stroke when growers leave ventilation unattended during trips
-- **Poor insulation**: Rooms in direct sunlight or uninsulated spaces heat rapidly; upstairs rooms are particularly vulnerable in summer
-- **CO2 generators**: Produce heat as a by-product of combustion, adding to the overall heat load
-- **Multiple lamps**: Each additional lamp adds significant heat to the enclosed space
-- **Small grow spaces**: Less air volume means heat accumulates faster
-
-## Prevention and Management
-
-- **Ventilation**: Install vent fans large enough to remove hot air quickly; this is the most important heat management tool
-- **Air conditioning**: Most effective heat control for sealed rooms; most air conditioners can be set to a specific temperature and humidity level
-- **Air-cooled reflectors**: Use air-cooled hoods to remove lamp heat directly before it enters the grow space
-- **Light movers**: Distribute heat more evenly across the canopy, preventing hot spots directly under fixtures
-- **Reservoir chillers**: Maintain nutrient solution temperature in optimal range for hydroponic systems
-- **Baseline monitoring**: Use maximum/minimum thermometers in several locations to track temperature patterns
-- **Emergency planning**: Ensure ventilation continues when away from the garden; consider backup power or temperature alarms
-- **Timing**: Run lights during cooler nighttime hours to reduce heat load during the day
-- **Exhaust and intake**: Ensure passive or active intake provides fresh, cool air to replace hot exhausted air
-- **Clean water and complete nutrients**: Avoid nutrient problems by using fresh planting mix, clean water, and a complete nutrient solution
-
-## Relationship to Other Problems
-
-Heat stress rarely occurs in isolation. It commonly interacts with:
-
-- **[[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]**: Excessive proximity to HID lamps causes both heat and light stress simultaneously
+- Heat-damaged roots are susceptible to [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]**: Excessive proximity to HID lamps causes both heat and light stress simultaneously
 - **Nutrient problems**: Heat increases transpiration, concentrating nutrients and potentially causing lockout or toxicity
 - **Pest proliferation**: Spider mites reproduce faster in hot conditions; heat-stressed plants are more vulnerable
 - **Disease susceptibility**: Heat-damaged roots are entry points for root rot pathogens
@@ -131,10 +97,7 @@ When temperatures spike unexpectedly:
 
 ## See Also
 
-- [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] — closely related excessive light intensity problem
 - [[humidity-cannabis-growing]] — heat-humidity interaction
-- [[nutrient-lockout]] — heat can worsen nutrient availability problems
 - [[spider-mites-cannabis]] — reproduce faster in hot conditions
-- [[cannabis-root-rot-prevention-and-treatment]] — heat-damaged roots are vulnerable to fungal infection
 - [[cannabis-pest-management-guide]] — comprehensive plant health
 - [[nutrient-movement-through-soil-to-plant-roots]]

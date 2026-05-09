@@ -113,9 +113,7 @@ The Cheese genetic line has been extensively used in breeding programs, producin
 
 ## See Also
 
-[[blue-cheese]] [[skunk-1]] [[og-kush]] [[chemdawg]]
-[[northern-lights]] [[white-widow-entity]] [[jack-herer]]
-[[myrcene]] [[beta-caryophyllene]] [[limonene]]
-[[tetrahydrocannabinol-thc]] [[cannabidiol-cbd]]
-[[amnesia-haze]] [[purple-haze]] [[ak-47-cannabis]]
-[[gelato-cannabis]] [[girl-scout-cookies]] [[sfv-og]]
+[[skunk-1]] [[chemdawg]]
+[[white-widow-entity]] [[myrcene]] [[limonene]]
+[[cannabidiol-cbd]]
+[[purple-haze]] [[gelato-cannabis]] [[sfv-og]]

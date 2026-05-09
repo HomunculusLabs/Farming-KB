@@ -35,15 +35,7 @@ Research specifically on cannabis for kidney disease is very limited. However, t
 
 ## Mechanisms of Action
 
-The [[cannabis-endocannabinoid-system]] is present in the kidneys and may influence renal function through several pathways:
-
-- **CB1 receptor signaling in renal tissue:** CB1 receptors are expressed in renal vasculature, glomeruli, and tubules. Activation of CB1 receptors can affect renal blood flow, glomerular filtration rate, and sodium reabsorption. However, chronic CB1 activation may promote renal fibrosis and inflammation, suggesting a complex relationship that requires careful consideration.
-
-- **CB2 receptor-mediated renoprotection:** CB2 receptors are found on renal immune cells and may play a protective role. CB2 activation reduces pro-inflammatory cytokine production and may help mitigate the chronic inflammation that drives CKD progression. Pre-clinical studies have suggested that CB2 activation may protect against diabetic nephropathy and drug-induced nephrotoxicity.
-
-- **Endocannabinoid system dysregulation in CKD:** Patients with chronic kidney disease show altered endocannabinoid profiles, with elevated levels of certain endocannabinoids in circulation. This dysregulation may contribute to CKD-associated symptoms and complications, suggesting that modulation of the endocannabinoid system could be therapeutic.
-
-- **Anti-inflammatory effects:** Chronic inflammation is a key driver of CKD progression. The [[cannabis-anti-inflammatory-applications]] of cannabinoids, particularly through CB2 receptor activation, may help slow disease progression by reducing renal inflammation and fibrosis.
+The [[cannabis-anti-inflammatory-applications]] of cannabinoids, particularly through CB2 receptor activation, may help slow disease progression by reducing renal inflammation and fibrosis.
 
 - **TRPV1 receptor involvement:** TRPV1 receptors are expressed in renal sensory nerves and may play a role in renal pain sensation and inflammation. Modulation of TRPV1 by cannabinoids like CBD could have relevance for kidney disease-related pain and inflammation.
 
@@ -68,7 +60,7 @@ Cannabis may help manage symptoms commonly experienced by kidney disease patient
 - Anxiety and depression related to chronic illness
 - Poor appetite and weight loss
 
-The [[cannabis-for-nausea-and-appetite-stimulation]] and [[cannabis-chronic-pain-management]] evidence bases are directly relevant to kidney disease symptom management.
+The [[cannabis-chronic-pain-management]] evidence bases are directly relevant to kidney disease symptom management.
 
 ## Dosage and Administration
 
@@ -76,35 +68,25 @@ For kidney disease patients considering cannabis therapy, several factors are re
 
 - Start with very low doses and titrate slowly, given altered drug metabolism in CKD
 - Vaporization is preferred over smoking to minimize exposure to combustion byproducts
-- [[cannabis-edibles-guide]] recommendations should be followed, with attention to the fact that oral cannabinoid bioavailability may be altered in CKD patients
-- Patients should consult [[cannabis-dosing-guidelines]] and be aware of [[cannabis-drug-interactions-and-contraindications]] with medications commonly prescribed for CKD (antihypertensives, immunosuppressants, erythropoiesis-stimulating agents)
-
-## Strain-Specific Considerations
-
-If cannabis is used for kidney disease-related symptoms (pain, nausea, sleep disturbance), strains with balanced THC:CBD ratios may provide analgesic and anti-emetic effects while minimizing psychoactive impact. Indica strains may be preferred for nighttime pain and sleep support.
-
-Strains with [[cannabis-minor-cannabinoids]] like CBG may offer anti-inflammatory benefits relevant to CKD management. The [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects, with myrcene (sedative, analgesic) and beta-caryophyllene (anti-inflammatory) being particularly relevant.
-
-## Complementary Approaches
-
-- **Dietary management:** Low-sodium, low-protein diets for advanced CKD; plant-based diets may slow CKD progression
-
-- **Herbal support:** Astragalus has shown potential for supporting kidney function in traditional medicine; some clinical evidence supports its use for diabetic nephropathy
-
-- **Hydration:** Adequate water intake (as appropriate for stage of disease)
-
-- **Blood pressure control:** Strict blood pressure management is critical for slowing CKD progression
-
-- **Avoidance of nephrotoxins:** NSAIDs, certain antibiotics, and contrast dyes should be used cautiously
-
-## Limitations of Current Research
-
-The evidence for cannabis in kidney disease is extremely limited, consisting primarily of pre-clinical studies and case reports. No clinical trials have evaluated cannabis specifically for kidney disease treatment. The dual role of CB1 receptors (potentially harmful with chronic activation) and CB2 receptors (potentially protective) makes it difficult to predict the net effect of whole-plant cannabis on kidney function. Patients with kidney disease should work closely with their nephrologists and should not use cannabis as a substitute for standard medical treatment.
-
-## Related Topics
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-nausea-and-appetite-stimulation]]
+- [[cannabis-dosing-guidelines]] and be aware of [[cannabis-minor-cannabinoids]] like CBG may offer anti-inflammatory benefits relevant to CKD management. The [[cannabis-endocannabinoid-system]]
 - [[cannabis-chronic-pain-management]]
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-cardiovascular-health]]
+## Practical Considerations
+
+Successful implementation of Cannabis and Kidney Disease requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -140,11 +140,8 @@ Burdock is an exceptional permaculture plant with multiple functions:
 - **Yield:** 1–3 kg roots per plant under good conditions
 - **Invasiveness:** Burs spread aggressively — remove flower heads
   before seed set if naturalization is undesired
-
 ## See Also
 
-- [[comfrey-symphytum-officinale]]
 - [[taraxacum-officinale]]
-- [[dynamic-accumulators]]
 - [[food-forest-permaculture]]
 - [[yarrow]]

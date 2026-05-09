@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Coco Coir for Cannabis
 
-Coconut coir (also called coco peat or coconut fiber) is an excellent Cannabis Growing Mediums for cannabis cultivation. It is a natural, renewable product derived from the fibrous husk of coconuts. Coco coir is versatile enough to be used in passive [[cervantes-passive-wick-hydroponic-systems]], active [[cervantes-passive-wick-hydroponic-systems]], and as a soil amendment in outdoor gardens.
+Coconut coir (also called coco peat or coconut fiber) is an excellent Cannabis Growing Mediums for cannabis cultivation. It is a natural, renewable product derived from the fibrous husk of coconuts. Coco coir is versatile enough to be used in passive [[cervantes-passive-wick-hydroponic-systems]], and as a soil amendment in outdoor gardens.
 
 ## What is Coco Coir
 
@@ -41,24 +41,14 @@ Rinse expanded coir with fresh water before use to remove any residual salts or 
 
 ## Using Coco Coir as a Growing Medium
 
-Growing in coconut coir is similar to growing in any other [[cannabis-soilless-grow-media]]. Coconut coir may stay a little too wet and require more ventilation and air circulation than some other mediums. Growers should monitor moisture levels carefully, especially in passive systems.
-
-### Pure Coco Coir
-
-Coconut coir can be used by itself as a standalone growing medium. It is compressed into slabs and packaged in plastic for hydroponic slab systems. When using pure coco, ensure adequate drainage in containers.
-
-### Coco Coir Mixes
-
-Growers commonly mix coconut coir with other amendments:
-- **50/50 with perlite or expanded clay**: Adds extra drainage to the mix. This is one of the most popular coco-based growing mixes.
-- **With vermiculite**: [[vermiculite-cannabis]] adds water retention and nutrient buffering.
+Growing in coconut coir is similar to growing in any other [[vermiculite-cannabis]] adds water retention and nutrient buffering.
 - **With soilless mix**: Blends coco peat with commercial soilless mixes for improved structure.
 
 ## Coco Coir in Different Systems
 
 ### Hydroponic Systems
 
-Coco coir is widely used in [[ebb-and-flow]], [[coleman-drip-irrigation-and-water-management]], and top-feed hydroponic systems. In drip irrigation, coco coir is typically irrigated four or five times daily. It works well in both recirculating and run-to-waste configurations.
+Coco coir is widely used in [[coleman-drip-irrigation-and-water-management]], and top-feed hydroponic systems. In drip irrigation, coco coir is typically irrigated four or five times daily. It works well in both recirculating and run-to-waste configurations.
 
 ### Slab Systems
 
@@ -66,11 +56,7 @@ Coco is compressed into slabs and packaged in plastic. The plastic wrapper is pi
 
 ### Wick Systems
 
-[[cervantes-passive-wick-hydroponic-systems]] use soilless mixes heavy in coco peat to wick up nutrient solution from a reservoir. Coco coir's natural wicking ability makes it ideal for this application.
-
-### As a Top Dressing
-
-Some growers sprinkle coconut coir on top of [[rockwool-cannabis]] blocks to keep the top from drying out between irrigations.
+[[rockwool-cannabis]] blocks to keep the top from drying out between irrigations.
 
 ## Coco Coir in Soil Mixes
 

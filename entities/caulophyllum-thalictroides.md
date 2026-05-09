@@ -97,24 +97,7 @@ saponins concentrated in the rhizome:
   activity
 
 The alkaloid profile is of particular concern: N-methylcytisine has
-nicotinic receptor activity comparable to [[nicotine]], and anagyrine is a
-documented teratogen causing contracted foal syndrome in cattle.
-
-## Traditional Medicinal Use
-
-Indigenous peoples of eastern North America, including the Iroquois,
-Cherokee, and Penobscot, used blue cohosh extensively in women's medicine.
-
-**Historical applications:**
-- Stimulating uterine contractions during labor
-- Promoting menstruation in cases of amenorrhea
-- Easing menstrual cramps and pelvic congestion
-- Reducing rheumatic and arthritic pain (anti-inflammatory)
-- As a diaphoretic for fevers and respiratory infections
-
-Eclectic physicians of the 19th century included blue cohosh in "Partus
-Praeparator" (labor-preparing) formulations, typically combined with black
-cohosh (*[[actaea-racemosa]]*) and raspberry leaf (*Rubus idaeus*).
+nicotinic receptor activity comparable to [[actaea-racemosa]]*) and raspberry leaf (*Rubus idaeus*).
 
 **Modern safety concerns:**
 The FDA classifies blue cohosh as an herb of "undefined safety." Multiple
@@ -143,8 +126,6 @@ reliable.
 Space plants 30–45 cm apart in shaded woodland gardens. The plant is
 long-lived once established, persisting for decades in undisturbed sites.
 Mulch with leaf litter to maintain consistent soil moisture and acidity.
-
-Blue cohosh is rarely affected by pests or diseases. Its alkaloid content
-provides natural deterrence against herbivory.
-
-## Permaculture Applications
+## See Also
+- [[teaming-with-microbes-soil-food-web-overview]]
+- [[teaming-with-nutrients-essential-plant-nutrients]]

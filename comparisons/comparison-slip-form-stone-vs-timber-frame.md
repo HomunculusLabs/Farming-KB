@@ -43,7 +43,7 @@ Timber framing requires large-dimension timber that is increasingly expensive an
 
 ## Climate Performance
 
-In hot-dry climates, slip form stone excels. The massive walls absorb daytime heat and release it at night, maintaining comfortable indoor temperatures with minimal mechanical cooling. This passive thermal regulation is the same principle behind [[adobe-construction]] and [[rammed-earth]] architecture. A stone wall with 18 inches of thermal mass can buffer temperature swings of 30 degrees or more.
+In hot-dry climates, slip form stone excels. The massive walls absorb daytime heat and release it at night, maintaining comfortable indoor temperatures with minimal mechanical cooling. This passive thermal regulation is the same principle behind [[rammed-earth]] architecture. A stone wall with 18 inches of thermal mass can buffer temperature swings of 30 degrees or more.
 
 In cold climates, timber framing with insulative infill outperforms stone significantly. Straw bale walls achieve R-30 to R-40, while hempcrete provides R-2 to R-2.5 per inch. By contrast, a solid stone-concrete wall offers only about R-0.2 per inch. A slip form stone wall in a cold climate requires supplementary insulation via rigid foam board, double-wall construction with an insulated cavity, or an interior framed wall with an air gap, all of which add complexity and cost while reducing interior floor space.
 
@@ -111,13 +111,8 @@ Alternatively, a timber frame can be enclosed with stone veneer or slip form sto
 
 Slip form stone and timber framing are not competitors but complementary approaches to natural building, each optimized for different conditions. The choice depends primarily on site resources (stone availability, timber access), climate (thermal mass versus insulation priority), and the builder's temperament and skills. A builder with a rocky hillside in a warm climate will naturally gravitate toward slip form stone, while a woodworker in a northern forest with cold winters will find timber framing more practical and rewarding. Both methods produce homes that outlast conventional construction by generations.
 
-- [[slip-form-stone-construction]]
 - [[timber-frame-basics]]
-- [[cob-construction]]
 - [[straw-bale-construction]]
-- [[cordwood-construction]]
 - [[rammed-earth]]
-- [[adobe-construction]]
 - [[reciprocal-roof-frame]]
-- [[organic-vegetable-growing-and-market-gardening]]
 - [[building-with-natural-materials]]

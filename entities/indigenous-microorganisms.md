@@ -10,32 +10,7 @@ sources: [/Usenatural-farmingaw/papers/chos-global-natural-farming.md]
 
 # Indigenous Microorganisms
 
-**Indigenous Microorganisms (IMO)** are locally sourced, naturally occurring microbial communities collected and cultured using the [[korean-natural-farming]] (KNF) methods developed by Master Han Kyu Cho. IMO preparations form the foundation of the KNF system, providing a diverse inoculum of beneficial bacteria, fungi, actinomycetes, and yeasts adapted to the local environment. The core philosophy is that microorganisms native to a specific location are already optimally adapted to local soil conditions, climate, and plant communities, making them more effective than commercially produced microbial products.
-
-## IMO Collection Stages
-
-The IMO preparation process involves a progressive cultivation through four numbered stages, each building microbial biomass and diversity:
-
-### IMO 1: Collection
-
-Microorganisms are collected from a pristine natural environment using cooked rice as a selective medium:
-
-1. **Site selection:** A location with undisturbed, healthy soil — typically under mature trees in a forest, near a bamboo grove, or in an area with rich, dark topsoil and active decomposition. The site should have diverse vegetation and show no signs of chemical contamination.
-2. **Rice preparation:** White rice is cooked until firm but fully gelatinized (not mushy). Short-grain or medium-grain rice is preferred for its starch content and water-holding capacity.
-3. **Placement:** The cooked rice is placed in a shallow bamboo basket or wooden box (never plastic), covered with breathable cloth or paper (newspaper, cotton), and placed on the forest floor in contact with the soil surface.
-4. **Incubation:** The rice is left for 5–7 days, during which local microorganisms colonize the starch substrate. Successful colonization is indicated by:
-   * White, fuzzy growth (fungi and actinomycetes) covering the rice
-   * Sweet, earthy, or fruity aroma (indicating beneficial fermentation)
-   * The rice grains should not be slimy or foul-smelling (which indicates putrefactive bacterial contamination)
-5. **Color indicators:** Different microbial communities produce distinct colors:
-   * Predominantly white: Balanced fungal and bacterial community (ideal)
-   * Predominantly gray or black: Excessive bacterial growth, possibly anaesubstrate-preparation Colored spots (yellow, orange, green, pink): May indicate specific fungal groups or contamination; use judgment
-
-### IMO 2: Propagation
-
-The collected microorganisms are propagated on a bulk substrate:
-
-1. **[[substrate-preparation]]:** Brown rice bran (or a mix of rice bran and wheat bran) is moistened to 65–70% moisture content (holds shape when squeezed but no water drips out).
+**Indigenous Microorganisms (IMO)** are locally sourced, naturally occurring microbial communities collected and cultured using the [[substrate-preparation]]:** Brown rice bran (or a mix of rice bran and wheat bran) is moistened to 65–70% moisture content (holds shape when squeezed but no water drips out).
 2. **Mixing:** IMO 1 rice is crumbled and mixed thoroughly with the bran at approximately 1:10 ratio (rice to bran).
 3. **Container:** The mixture is placed in a breathable container (straw box, wooden crate, or earthenware pot) lined with cloth. Depth should not exceed 10–15 cm to maintain aerobic conditions.
 4. **Incubation:** Covered and kept at 20–30°C for 5–7 days. The mixture is stirred once daily to ensure even colonization and prevent anaerobic pockets.
@@ -94,7 +69,6 @@ Regular IMO application contributes to soil health through:
 IMO is typically used in combination with other KNF preparations:
 
 * **Fermented Plant Juice (FPJ):** Provides plant-derived nutrients and growth factors that feed both plants and microorganisms
-* **[[oriental-herbal-nutrient-ohn]]:** Provides antimicrobial and growth-promoting compounds from medicinal herbs
 * **[[fish-amino-acid]] (FAA):** Provides nitrogen and amino acids that support rapid microbial growth and plant protein synthesis
 * **Water-Soluble Calcium (WCA):** Provides calcium that strengthens plant cell walls and supports microbial cell membrane integrity
 
@@ -109,6 +83,5 @@ Visual and olfactory indicators of good IMO quality:
 
 ## See Also
 
-* [[lactic-acid-bacteria]] — Core microbial group in IMO preparations
 * [[fermented-plant-juice]] — KNF nutrient input used alongside IMO
 * [[oriental-herbal-nutrient]] — KNF herbal preparation for plant health

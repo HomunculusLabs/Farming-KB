@@ -22,30 +22,13 @@ Endophytic fungi are defined by their lifestyle within plants:
 - They spend part or all of their life cycle within roots, stems, leaves, or seeds
 - Unlike pathogens, they do not harm their hosts and often provide significant benefits
 - Virtually every plant species examined hosts one or more endophyte species
-- The [[endophytic-fungi]] page covers their diversity, biology, and ecological roles
-
-Endophytes are distinct from mycorrhizal fungi, which form specialized root structures, and from [[bacterial-endophytes-plant-roots]], which serve similar internal roles as bacteria rather than fungi.
+- The [[bacterial-endophytes-plant-roots]], which serve similar internal roles as bacteria rather than fungi.
 
 ## Stress Tolerance and Drought Resistance
 
 One of the most well-documented endophyte benefits is enhanced abiotic stress tolerance:
 
-- [[endophyte-mediated-plant-stress-tolerance]] demonstrates improvements in drought, heat, and salinity
-- Endophytes produce osmoprotectants that help plant cells retain water under dry conditions
-- They modulate plant hormone signaling to trigger drought response pathways
-- Some endophytes alter root architecture for deeper rooting and better water access
-- Inoculated crops often outperform uninoculated plants under water-limited conditions
-
-## Disease Suppression and Biocontrol
-
-Endophytic fungi protect plants from pathogens through multiple mechanisms:
-
-- **Competition:** They compete with pathogens for space and nutrients within plant tissues
-- **Antimicrobial production:** Many endophytes produce compounds that inhibit pathogen growth
-- **Immune priming:** They activate systemic acquired resistance throughout the plant
-- **Physical barriers:** Dense endophyte colonization can block pathogen entry points
-
-The [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]] framework describes how endophytes provide protection not just at the colonization site but systemically throughout the entire plant. This biocontrol function is particularly valuable in organic agriculture where synthetic fungicides are not used.
+- [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]] framework describes how endophytes provide protection not just at the colonization site but systemically throughout the entire plant. This biocontrol function is particularly valuable in organic agriculture where synthetic fungicides are not used.
 
 ## Nutrient Acquisition and Growth Promotion
 
@@ -56,21 +39,13 @@ Endophytes contribute to plant nutrition in several ways:
 - **Hormone production:** They produce growth-promoting hormones like auxins and gibberellins
 - **Root stimulation:** These hormones stimulate root development for better nutrient access
 
-[[piriformospora-indica]] is a well-studied root endophyte that colonizes a wide range of plant species and provides growth-promoting effects similar to arbuscular mycorrhizal fungi without forming classic arbuscular structures.
-
-## Dark Septate Endophytes
-
 [[dark-septate-endophytes]] are a particularly important group:
 
 - Found in stressed environments including arctic, alpine, and metal-contaminated soils
 - They form distinctive dark, septate hyphae within root cells
 - Their melanin pigmentation protects against UV radiation and oxidative stress
 - They can accumulate heavy metals, reducing toxicity to their host plants
-- [[dark-septate-endophytes-stressed-environments]] research shows they are critical for plant survival in extreme habitats
-
-## Grass Endophytes and Herbivore Defense
-
-[[clavicipitaceous-grass-endophytes]] represent a specialized endophyte class:
+- [[clavicipitaceous-grass-endophytes]] represent a specialized endophyte class:
 
 - Species in the genus Epichloe produce alkaloid compounds toxic to herbivorous insects
 - These endophytes are transmitted through seeds from parent to offspring
@@ -90,18 +65,31 @@ Growers can work with endophytic fungi to improve crop health:
 
 ## Key Points
 
-- [[endophytic-fungi]] live inside plant tissues without causing disease and provide multiple benefits
-- Endophytes enhance drought, heat, and salinity tolerance through hormonal and physiological mechanisms
 - [[endophytic-fungi-and-plant-health]] benefits include disease suppression through competition, antimicrobials, and immune priming
-- [[dark-septate-endophytes]] are particularly important in extreme environments and contaminated soils
 - [[clavicipitaceous-grass-endophytes]] produce alkaloids that defend against herbivores but can affect livestock
 
 ## Related
 
-- [[query-what-is-the-role-of-fungi-in-decomposition]]
-
 - [[query-what-is-the-role-of-protozoa-in-soil-health]] Questions
 
-- [[query-how-mycorrhizal-fungi-help-plants]]
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
+## Practical Considerations
+
+Successful implementation of What Is the Role of Endophytic Fungi in Plant Health? requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

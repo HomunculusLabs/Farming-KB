@@ -117,8 +117,6 @@ A whole-room emergency kill switch, accessible from the room entrance, allows al
 
 ## See Also
 
-- [[cervantes-indoor-grow-room-setup]] for basic room construction
 - [[cervantes-air-quality-ventilation]] for ventilation design
-- [[cervantes-lighting-systems]] for lamp selection
 - [[cervantes-co2-enrichment]] for CO2 augmentation
 - [[sea-of-green]] for high-density planting methods

@@ -13,9 +13,7 @@ Neurospora species are heterothallic ascomycetes that fruit on heat-treated subs
 
 ## Natural History
 
-Neurospora species are [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]] associated with burned vegetation in the humid tropics and subtropics. They are common on charred sugarcane stems and other fire-affected plant material. Heterothallic Neurospora species require mating between opposite mating types to produce perithecia. The majority of phoenicoid ascomycetes appearing after prairie fires tend to be coprophilous, and Neurospora is among the first colonizers of burned vegetation, taking advantage of the temporary reduction in competition following fire.
-
-The genus played a central role in the development of fungal genetics, with Neurospora crassa serving as a model organism for one-gene-one-enzyme studies (Beadle and Tatum, 1941). Species of Neurospora have also been important in studying [[fungal-species-concept-and-taxonomy]] and mating type systems.
+Neurospora species are [[fungal-species-concept-and-taxonomy]] and mating type systems.
 
 ## Baiting Methods
 
@@ -55,11 +53,7 @@ A selective medium specifically designed for isolation of Neurospora species fro
 
 Neurospora species are readily identified by their orange-to-pink colony color, rapid growth rate, and production of characteristic conidia (macroconidia and microconidia) and ascospores in perithecia. The genus name literally means "nerve spore," referring to the longitudinal striations on the ascospores.
 
-Species differentiation relies on mating type compatibility tests, ascospore morphology, colony characteristics, and molecular markers. [[fungal-sensitivity-testing-identification]] using benomyl or cycloheximide can provide supplementary characters for distinguishing Neurospora from other orange-pigmented fungi.
-
-## Ecological Significance
-
-The heat-stimulated germination of dormant ascospores in soil, combined with the release of furfural from charred plant material, creates a narrow ecological window for Neurospora establishment. Neurospora occupies the [[fungi-in-stressful-environments]] niche created by fire, functioning as an r-selected species that exploits the temporary resource availability before competitive species re-establish. The effects of fire on the fruiting of macrofungi can persist for a significant period, so investigators should maintain collecting schedules for up to 4 years following a forest burn.
+Species differentiation relies on mating type compatibility tests, ascospore morphology, colony characteristics, and molecular markers. [[fungi-in-stressful-environments]] niche created by fire, functioning as an r-selected species that exploits the temporary resource availability before competitive species re-establish. The effects of fire on the fruiting of macrofungi can persist for a significant period, so investigators should maintain collecting schedules for up to 4 years following a forest burn.
 
 ## Fruiting Periods After Fire
 
@@ -71,22 +65,27 @@ Following forest fires, phoenicoid fungi are assigned to groups based on timing 
 
 ## See Also
 
-- [[neurospora-crassa]]
-
 - [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
-- [[fungi-in-stressful-environments]]
 - [[fungal-sensitivity-testing-identification]]
-- [[fungal-species-concept-and-taxonomy]]
-
-## Sources
-
-- Chapter 14, Fungi in Stressful Environments (Zak and Wildman) in Biodiversity of Fungi
-- Chapter 17, Fungicolous Fungi (Gams et al.) in Biodiversity of Fungi
-- Pandit, A. and Maheshwari, R. 1996. Life-history of Neurospora
-- Perkins, D.D. et al. 1976. Collection of Neurospora
-- Warcup, J.H. 1951a. Soil steaming
-- Dix, N.J. and Webster, J. 1995. Fungal Ecology
 - [[fungi-forest-fire-succession-litter-dighton]]
-- [[biodiversity-of-fungi-soil-isolation-methods]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[molecular-fungal-taxonomy]]
+## Practical Considerations
+
+Successful implementation of Neurospora Baiting and Isolation Methods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

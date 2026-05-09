@@ -141,10 +141,11 @@ mycorrhizal networks and contributes to nutrient cycling. No commercial
 cultivation exists, but preserving oak mycorrhizal communities during
 agroforestry site preparation maintains this ecologically important
 species.
+## See Also
+
+- [[russula-cyanoxantha]]
+- [[hygrophorus-russula]]
 
 ## See Also
 
-- [[lactarius-deliciosus]]
-- [[russula-cyanoxantha]]
-- [[boletus-reticulatus]]
-- [[hygrophorus-russula]]
+- [[mycorrhizal-edible-mushroom-species-overview]]

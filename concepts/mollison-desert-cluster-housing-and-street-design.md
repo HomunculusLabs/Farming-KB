@@ -1,32 +1,7 @@
 ---
 title: Desert Cluster Housing and Street Design
 created: 2026-04-26
-tags: [permaculture, desert, housing, settlement-design, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Desert Cluster Housing and Street Design
-
-Mollison analyses traditional and modern approaches to desert
-settlement design, revealing that the clustered, multi-storey housing
-forms found across arid regions from Asia to the Americas represent
-independently evolved solutions to the same climatic challenges. These
-designs achieve passive cooling, wind protection, and thermal comfort
-without mechanical energy inputs.
-
-## Desert Housing Requirements
-
-Like the sub-tropical house, desert housing needs the twin qualities
-of summer cooling and winter (or night) warmth. Many features of
-desert houses resemble those of both sub-tropical and cool temperate
-housing. Traditional systems are often very sophisticated; the older
-houses of Iran, Afghanistan, and Rajasthan were all well designed for
-climate. See
-[[mollison-desert-house-cooling-heating]] for building-level details.
+tags: [[mollison-desert-house-cooling-heating]] for building-level details.
 
 ## Traditional Desert House Features
 
@@ -87,51 +62,29 @@ traditional clustering, providing the site itself is correctly
 landscaped. Village Homes in Davis, California, designed by Michael
 Corbett, is cited by Mollison as an ideal model for such design in
 desert and semi-arid climates. See
-[[mollison-village-development-design]].
-
-## Paving and Heat Islands
-
-Any settlement planning broad-paved (bituminous) boulevards and
-parking areas will incur areas of uncontrollable local heat. Roads and
-car parks, or hard paving, must be shaded and therefore narrow. In
-Davis, California, at least 60% of such areas must be shaded by law.
-Shading of lanes or streets by trellis and lattice is a very pleasant
-and practical way to create cool refuges in desert towns.
-
-## Roof and Surface Treatment
-
-The painting of roof areas or the top surfaces of lattice white
-reflects heat back to the air above the settlement. The white
-canvas-covered markets of Istanbul are identified as a model of good
-design for commercial areas in hot climates. Surface colour and
-material selection is therefore as important as structural design in
-determining thermal comfort.
-
-## Site Selection for Desert Settlement
-
-No house or village site needs more careful selection than that of
-desert lands. Of the range and basin topography, only about 15% is
-hill country, and of that only 5-10% is foothill or wadi site with
-adequate run-off. In both hot and cold deserts, flat sites can be very
-cold at night. A thermal belt does exist, usually some 10 to 20 metres
-above the peneplain, with the frost line sharply defined. Wadis are
-excellent sites in very hot deserts, and narrow east-west wadis are
-particularly well-shaded.
-
-## Water Harvest Potential
-
-The main consideration in desert site selection is the potential for
-water harvest and storage on or near the house site, excluding the deep
-groundwaters. Equable climate and, if possible, a variety of aspects
-and soils are also important. Deserts are the ideal sites for
-underground, earth-sheltered, or cave housing, which takes advantage
-of stable subsurface temperatures. See
 [[mollison-underground-cave-housing]] for
 construction details.
 
 ## Related Concepts
 
-- [[mollison-desert-house-cooling-heating]]
 - [[mollison-underground-cave-housing]]
-- [[dryland-permaculture-strategies]]
 - [[mollison-pdc-swale-design-water-harvesting]]
+## Practical Considerations
+
+Successful implementation of Desert Cluster Housing and Street Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

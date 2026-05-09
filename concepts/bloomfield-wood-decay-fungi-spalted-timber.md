@@ -129,7 +129,9 @@ compatible mycelia or rejecting incompatible ones with defensive barriers.
 
 ## See Also
 
-- [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
-- [[bloomfield-fungal-sex-pheromones-mating-communication]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
+
+## See Also
+
+- [[singh-wood-rot-fungi-structural-timber-decay]]

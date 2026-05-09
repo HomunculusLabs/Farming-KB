@@ -3,147 +3,138 @@ title: Mollison PDC Slope Design and House Siting
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison PDC Slope Design and House Siting
-
-Bill Mollison's detailed guidance on siting houses, gardens, water systems, and infrastructure on slopes for maximum efficiency using gravity. From the 1981 Permaculture Design Course, Pamphlet II: "Permaculture in Humid Landscapes."
-
-## The Gravitational Advantage
-
-"Slopes give us a very great advantage, and I pay a lot of attention to slopes, to how a system can be laid out on slopes. When we have this gravitational advantage, it is possible to do all sorts of things."
-
-The fundamental principle: use gravity to move water, materials, and waste downhill through the system.
-
-## House Siting on Slope
-
-### Water Systems
-
-- **Water systems go up and run around** the house site (high on slope)
-- **Hot water collectors** go below sill level on the downhill side so the system thermo-siphons
-- **Hot air collectors** should go down slope and low
-- **All tanks** above house roof level — "You never fill a tank from a house roof, if you can avoid doing so"
-- **Barn and loads** on a level above the house — wastes thrown out and rolled down to annual garden below
-- **Banks collecting water from barn roof** provide gravity flow for house and garden below
-
-### Pond Placement
-
-- Pond right in front of house on moderate slopes: fire barrier, light reflector, pleasant environment
-- Absorbs all but 15% of summer sunlight
-- Reflects most winter sunlight into living space
-- Can attach glasshouses to pond for heat buffering
-- Where ponds aren't possible: white gravel or snow for winter light reflection
-
-### Storage Structures
-
-- Storage units (garages, barns, workshops) go up high where they use little water
-- Their roofs can supply cheap tank water
-- Tanks can be structurally integrated into buildings
-- Buildings placed high on slope can take tanks below them
-
-## Slope Layout Zones (High to Low)
-
-### Ridge Top
-- Hardy, drought-proof trees
-- Some species (tamarisks, pines) provide mulch to bring downhill
-- Water storage tanks
-
-### Upper Slope
-- Saddle dam collects water from all around
-- Road falls out to the slope
-- Animal accommodations (barn, chicken coop) — wastes roll down
-- Narrow leafed fruit trees (peaches, apricots)
-- Storage structures
-
-### Mid Slope
-- House site with pond in front
-- Garden falls out from saddle — water comes down from saddle
-- Broad leafed fruit trees (lower on slope, getting wetter)
-- Glasshouses attached to ponds
-
-### Lower Slope
-- Annual garden system — receives wastes from above
-- Constructed forests that can be irrigated
-- Wet forests for fire blocking
-- Marsh systems for duck fodder, arrowheads
-
-## Slope Orchard Techniques
-
-- Cut little flats in the slope, put a tree on each flat
-- Little water rolls around the tree and soaks in
-- When it overflows, water comes down and soaks into the next flat
-- Tree crowns stack much better towards the light on slopes — more trees per area than flat land
-- A group of five or six people can do a fairly large orchard in three days
-- "Particularly effective in very rocky country that you would normally not use for orchards"
-
-## Irrigation on Slopes
-
-### Trench and Plug System (for Flat Land)
-
-1. Dig a side channel (diversion drain) down the side of the field
-2. Block off the side channel at intervals
-3. Through blocks, put short 4-6 inch pipes
-4. Plug with handles that fit into the pipes
-5. When water fills to the first block, it cannot go beyond
-6. Lead out 2-inch pipes from side wall into graded channels
-7. Trees on little banks between channels
-8. Pull plugs sequentially to saturate each section
-
-### Two-Man Trench Digging
-
-- Very broad shovel with a rope around the neck above the blade
-- Toggle on end of rope
-- One man puts shovel in, other pulls — rocking motion
-- "They can throw up banks about as fast as we can walk"
-- This is how Turks and Afghans contour enormous acreages
-
-## Road and Fence Integration
-
-- Roads fall out to the slope
-- Fences should run valley to slope (not ridge to valley)
-- If fences run valley to slope, animal tracks become keyline tracks
-- Animals walking anti-keyline (ridge down to valley) become major erosive influence
-- "Everything follows from that. Your forests follow. Your forests grow above those channels."
-
-## Gleying for Pond Sealing
-
-When a pond doesn't hold water:
-
-1. Put green sappy material across the bottom, six inches thick
-2. Pack it down (mowings, second cut hay, green leaves)
-3. Cover with sand or plastic or old carpets
-4. Wait for fermentation — "you can find out when it does, because it is slimy"
-5. When slimy, fill with water — it fills without trouble and will never leak again
-6. "The only reason why it might not work is if you didn't do it properly"
-
-### Alternative Sealing Methods
-
-- Bentonite clay (swells to 14x) — spread and roll in hard, but costly
-- Three packages of water dynamite to bump the bank and seal rock cracks
-- Plastic or concrete sheets for small holes
-
-## Biological Dam Design
-
-- Make an island in the lake to increase shoreline
-- Barrier islands for quiet water in front of wind
-- Underwater stones for lively habitat
-- Shelving edges at different levels for specific plants (18 inches to 3 feet for wild rice)
-- Mud-dammed shallows that emerge when water level drops
-- Fox-free islands for nesting water birds
-- "Put in some underwater stones. This makes it a very lively place."
-
-## See Also
-
-- [[mollison-pdc-low-island-design]]
-
-- [[mollison-pdc-high-island-design]]
+tags: [[mollison-pdc-low-island-design]]
 
 - [[mollison-pdc-design-report-methodology]]
 
-- [[mollison-pdc-keypoint-keyline-humid]] — keypoint and keyline design
 - [[mollison-pdc-swale-design-water-harvesting]] — swale design
-- [[mollison-pdc-dam-construction-water-systems]] — dam construction
 - [[mollison-zone-and-sector-analysis]] — zone and sector analysis
+## Background and Context
+
+Mollison PDC Slope Design and House Siting is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

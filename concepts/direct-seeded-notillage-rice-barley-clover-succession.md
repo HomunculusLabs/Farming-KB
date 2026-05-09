@@ -139,8 +139,6 @@ disruption from human intervention.
 
 ## See Also
 
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-no-tillage-rice-barley-succession]]
 - [[no-till-rice-barley-succession]]
 - [[fukuoka-rice-and-barley-natural-farming]]

@@ -110,11 +110,7 @@ Supplementation at casing uses soy bean meal, cottonseed meal, ground rye, wheat
 
 ## See Also
 
-- [[mushroom-cultivator-substrate-preparation]] -- preparing composted and non-composted substrates
 - [[mushroom-cultivator-grain-spawn-production]] -- producing grain spawn
-- [[stamets-spawning-and-spawn-running]] -- Stamets' spawning chapter
 - [[mushroom-cultivator-casing-soil]] -- applying casing after spawn run
-- [[mushroom-cultivator-fruiting-conditions]] -- environmental conditions for fruiting
 - [[mushroom-substrate-supplementation]] -- substrate supplementation techniques
-- [[mushroom-growing-trays-and-shelves]]
 - [[lichens-primary-production-soil-formation-dighton]]

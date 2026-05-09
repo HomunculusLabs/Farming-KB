@@ -122,8 +122,6 @@ can be stacked to minimize footprint in space-constrained urban environments.
 
 ## See Also
 
-- [[cotter-cropping-containers-for-mushroom-cultivation]]
 - [[cotter-oyster-mushroom-cultivation]]
-- [[cotter-seven-stages-of-mushroom-cultivation]]
 - [[cotter-recycling-composting-vermicomposting-mushrooms]]
 - [[cotter-mushroom-garden-design]]

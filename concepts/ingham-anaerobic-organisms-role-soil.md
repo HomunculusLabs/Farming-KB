@@ -32,76 +32,7 @@ safe cutoff level. Below 5.5 to 6 mg/L we often see production of
 substances that can cause leaf curl, root death, and burning of the
 plants. The exact cutoff depends on which problematic organisms you
 have in your soil or compost. The more pathogens that were killed
-during the composting operation, the less you have to worry about
-during the tea brewing cycle.
-
-## Why Aerobic Organisms Win
-
-Aerobic enzymes are better at grabbing foods than enzymes produced
-by facultative or true anaerobes. This is a generalization, but
-few anaerobic organisms can outcompete aerobes. Those that can are
-found at the bottom of the ocean or in thermal pools. Other
-environmental factors keep them out of your soil, unless you have
-extreme pH 3 soil, high reduced iron, or high sulfate conditions.
-
-Almost all disease organisms do much better when oxygen is reduced,
-because the beneficial organisms that normally prevent the pathogens
-from doing well are no longer able to compete. It is simple
-competition: when the good guys are present in aerobic conditions,
-they outcompete the disease organisms for food and space.
-
-## Biofilms and Anaerobic Pockets
-
-There are anaerobic and facultative anaerobic organisms in compost.
-They are not active in aerobic conditions, so no problems occur in
-well-aerated water. But when organisms attach to the surface of the
-brewer tank, other organisms attach on top, and more on top, until
-oxygen does not diffuse into the lower layers of the biofilm. If
-there happen to be dormant stages of anaerobes or facultative
-anaerobes in those lower layers, they start functioning anaerobically.
-This is why cleaning biofilms at the end of each run is necessary.
-
-## Fermentative vs. Putrefactive Anaerobes
-
-If you have fermentative bacteria instead of putrefying bacterial
-species, there is less immediate problem. Really bad substances are
-not produced, but you are still setting the stage on plant surfaces
-and in the soil for conditions that are less than beneficial for
-the plants.
-
-The beneficial fungi are all strict aerobes. With fermentative
-bacteria, you may not have alcohol production, but you have low pH
-organic acids produced, which harm the fungi, kill the protozoa and
-beneficial nematodes. The effect is not so much a direct burn of
-plant tissue as a slow decline in soil health, as you lose the
-organisms that combat Pythium, Phytophthora, Rhizoctonia, and
-other disease organisms.
-
-## Products of Anaerobic Metabolism
-
-Lack of oxygen results in growth of anaerobic bacteria, and the
-products of anaerobic metabolism kill roots. These products include
-organic acids, alcohols, and various toxic compounds. Anaerobic
-bacteria produce materials that harm beneficial organisms while
-potentially encouraging disease organisms. This is why maintaining
-aerobic conditions is the single most important factor in compost
-tea production.
-
-## Recovery from Anaerobic Conditions
-
-If you have good soil structure, then when the soil goes anaerobic
-temporarily, oxygen returns and the normal set of organisms revive.
-Life goes on, only a little hammered. But if you do not have good
-soil structure, seeds and roots are in trouble. This is why building
-soil structure through the full food web is essential for long-term
-soil health. Can't happen with anaerobic teas. That is why you must
-have aerobic tea.
-
-With good teas over time, you should be able to stop spraying
-weekly or even monthly, because you will have gotten the soil back
-into a condition of health. This cannot happen with anaerobic teas,
-which set back soil health rather than advancing it. The goal is to
-reduce inputs over time as the [[soil-food-web]] becomes self-sustaining.
+during the [[ingham-microscope-identification-soil-biology]] becomes self-sustaining.
 
 ## Anaerobic Pockets in Soil
 
@@ -121,30 +52,35 @@ organisms that can switch between aerobic and anaerobic metabolism,
 suggest that the soil experiences frequent or prolonged periods of
 low oxygen. This is a warning sign that soil structure, drainage,
 or organic matter management needs attention. Regular monitoring of
-the soil food web can detect these shifts before they cause visible
-plant health problems.
-
-## The Transition Zone
-
-Between fully aerobic and fully anaerobic conditions exists a
-transition zone where oxygen is limited but not absent. In this zone,
-both aerobic and anaerobic organisms compete, and the outcome
-depends on available food resources, moisture, temperature, and the
-composition of the existing microbial community. Managing compost
-tea and soil conditions to stay well within the aerobic range
-provides a safety margin that prevents the system from tipping into
-the transition zone where problems begin.
-
-## Compost Tea Aeration as Prevention
-
-Active aeration in compost tea brewing prevents the development of
+[[compost-tea-brewing]] prevents the development of
 anaerobic conditions and the associated problems. Maintaining
 dissolved oxygen above 6 mg per liter ensures that aerobic organisms
 remain dominant and that anaerobic metabolites are not produced.
 This is the fundamental distinction between actively aerated compost
 tea and passive methods that allow anaerobic conditions to develop.
+## See Also
+
+- [[ingham-microscope-identification-soil-biology]]
 
 ## See Also
 
-- [[microscope-identification-soil-organisms]]
-- [[ingham-microscope-identification-soil-biology]]
+- [[lowenfels-fungi-role-soil]]
+## Practical Considerations
+
+Successful implementation of Anaerobic Organisms and Their Role in Soil Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

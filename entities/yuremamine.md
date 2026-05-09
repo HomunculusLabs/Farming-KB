@@ -112,10 +112,8 @@ intermediates) could eventually provide sufficient quantities for systematic pha
 
 ## See Also
 
-- [[mimosa-tenuiflora]]
-- [[n-n-dimethyltryptamine]]
-- [[harmine]]
+- [[dmt]]
 - [[harmaline]]
-- [[β-carbolines]]
+- [[beta-carboline]]
 - ayahuasca
 - [[tryptamine]]

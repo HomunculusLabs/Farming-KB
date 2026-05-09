@@ -140,10 +140,6 @@ subsequent correspondence until Lloyd's death in 1926.
 
 ## See Also
 
-- [[bloomfields-orchard-mushroom-hunting-and-identification]]
 - [[bloomfields-orchard-fungal-biology-and-ecology]]
-- [[mr-bloomfields-ah-reginald-buller-and-experimental-mycology]]
 - [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
-- [[fungal-pathogens-human-disease]]
-
 - [[rust-fungi]]

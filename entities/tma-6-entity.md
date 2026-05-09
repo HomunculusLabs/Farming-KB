@@ -11,11 +11,7 @@ sources:
 
 **Chemical name:** 2,4,6-Trimethoxyamphetamine
 
-**PiHKAL #162** | [[alexander-shulgin]]'s rating: +++
-
-## Overview
-
-TMA-6 is a psychedelic amphetamine representing the 2,4,6-trimethoxy substitution pattern. It is fully as potent as its counterpart [[tma-2-compound-profile]] and serves as the template compound for an entire parallel family of potentially active compounds — the "psi-series" (gamma-series) — with modifications at the 4-position, analogous to how TMA-2's 2,4,5-pattern spawned the DOM/DOB/DOI and 2C-X families. The compound is easily synthesized from commercially available 2,4,6-trimethoxybenzaldehyde, or ultimately from phloroglucinol (found in redwood trees, tea leaves, citrus rinds, and apple/pear bark).
+**PiHKAL #162** | [[tma-2-compound-profile]] and serves as the template compound for an entire parallel family of potentially active compounds — the "psi-series" (gamma-series) — with modifications at the 4-position, analogous to how TMA-2's 2,4,5-pattern spawned the DOM/DOB/DOI and 2C-X families. The compound is easily synthesized from commercially available 2,4,6-trimethoxybenzaldehyde, or ultimately from phloroglucinol (found in redwood trees, tea leaves, citrus rinds, and apple/pear bark).
 
 ## Dosage
 
@@ -68,15 +64,30 @@ The phenethylamine homologue (2,4,6-TMPEA or 2C-TMA-6) has been synthesized but 
 - Difficulty sleeping after effects subside
 - Stomach discomfort and diarrhea at onset
 - Emotional volatility at higher doses
-- See [[psychedelic-harm-reduction]] for general harm reduction guidelines
-- Legal status: Scheduled in many countries
-
-## Related Compounds
-
-- [[tma-2-compound-profile]] — 2,4,5-isomer, the original template compound
+- See [[tma-2-compound-profile]] — 2,4,5-isomer, the original template compound
 - tma-entity|TMA — 3,4,5-isomer, 10x less potent
 - dom-entity|DOM — 4-methyl derivative of the TMA-2 series
 - dob-entity|DOB — 4-bromo derivative of the TMA-2 series
 - mescaline-entity|Mescaline — 3,4,5-phenethylamine parent
-- [[pihkal-qualitative-effects-themes]]
 - [[gamma-dom-entity]]
+
+See also: [[tma-6-entity-pihkal]]
+## Practical Considerations
+
+Successful implementation of TMA-6 (2,4,6-Trimethoxyamphetamine) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

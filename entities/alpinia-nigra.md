@@ -105,16 +105,10 @@ Compared to greater galangal, black galangal has a darker rhizome, less pungent 
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[alpinia-officinarum]]
-- [[alpinia-zerumbet]]
 - [[alpinia-purpurata]]
-- [[kaempferia-galanga]]
 - [[boesenbergia-rotunda]]
-- [[zingiber-officinale]]
 - [[curcuma-longa]]
-- [[hedychium-coronarium]]
 - [[zingiber-mioga]]
-- [[elettaria-cardamomum]]
 - [[zingiber-cassumunar]]
 - [[hedychium-gardnerianum]]

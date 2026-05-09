@@ -110,9 +110,7 @@ individual testing of isomers could clarify this.
 
 ## See Also
 
-- [[pihkal-mdma]]
 - [[pihkal-mda]]
-- [[pihkal-mda-family]]
 - [[bod-pihkal-entry-14]]
 - [[bob-pihkal-entry-13]]
 

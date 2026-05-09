@@ -13,74 +13,13 @@ sources:
 The heart of Allegro's argument in *The Sacred Mushroom and the Cross* is his
 claim that the Bible -- both Old and New Testaments -- contains numerous names,
 epithets, and phrases that are actually disguised references to the
-[[amanita-muscaria-cultural-history]] mushroom, encoded through
-multilingual word-play. He proposed that the biblical writers used three
-linguistic levels simultaneously: Greek (surface), Semitic/Aramaic
-(intermediate), and Sumerian (fundamental cultic meaning).
-
-## The Three-Level Encoding System
-
-Allegro identified what he considered a consistent pattern of triple-layered
-meaning throughout the biblical texts:
-
-1. **Greek surface**: The plain meaning of the text as read in its transmitted
-   language, presenting stories of patriarchs, prophets, and Jesus.
-2. **Semitic word-play**: Underlying Aramaic or Hebrew words that pun on the
-   Greek, revealing secret plant or mushroom names.
-3. **Sumerian cultic base**: The ultimate derivation of the key words in
-   Sumerian, exposing the fundamental mushroom-cult theology.
-
-He argued that the presence of "pseudo-translations" in the New Testament --
-where a foreign (Aramaic) word is given an apparently incorrect Greek gloss --
-is the smoking gun proving deliberate encoding. If even one such phrase is
-correctly decoded as a mushroom reference, he claimed, the entire surface
-narrative is undermined.
-
-## Key New Testament Cryptograms
-
-### Boanerges (Mark 3:17)
-Jesus names James and John "Boanerges, that is, Sons of Thunder." Allegro
-derives this from Sumerian *GEShPU-AN-UR*, "strong man (holding up) the sky"
--- the mushroom stem supporting its canopy. Both "Sons of Thunder" and the
-Aramaic *Benê Regesh* (related to "storm" and "arousal") independently
-describe the mushroom. This pseudo-translation, Allegro argues, demonstrates
-deliberate deceit: both glosses point to the same mushroom but pretend to be
-explaining a different word.
-
-### Jesus (Iesous)
-The name Jesus derives from Hebrew *Yehoshua* (Joshua), which Allegro traces
-to Sumerian *JA-U-ShUShA*, "semen, which saves, restores, heals." The Greek
-*Iason* (Jason), used by Hellenized Jews for Joshua, connects to *iason*
-("healer") and *iaomai* ("heal"). "Physician, heal thyself" (Luke 4:23) and
-the title "Saviour" (*Soter*) all reflect the same Sumerian root *ShU*,
-"save." See [[allegro-jesus-name-as-mushroom-epithet]].
+[[allegro-jesus-name-as-mushroom-epithet]].
 
 ### Peter (Cephas/Petros)
 The name Peter, Allegro argues, is a play on the Semitic *pitrā'* meaning
 "mushroom," related to the Aramaic *pitra'* and the Greek *petra* ("rock").
 The "rock" upon which the church is built is the mushroom itself. See
-[[allegro-key-of-the-kingdom-and-peter-as-mushroom]].
-
-### Akeldama (Acts 1:19)
-The "Field of Blood" bought with Judas's thirty pieces of silver is given the
-Aramaic name *Akeldama*. The text glosses this as "field of blood" (*khaqal
-demâ'*), but Allegro reads it as *'akal dâmê*, "food of price, compensation"
--- fitting the pattern of mushroom epithets as compensatory offerings to the
-earth.
-
-## Old Testament Mushroom Names
-
-### The Ten Commandments
-The "two tablets" of stone derive from the two halves of the split mushroom
-volva. Their "bun-shape" matches the primitive clay tablet. The Sumerian
-*TAB-BA-R/LI* gave Greek *tabula* and our "tablet." The number of
-commandments ("Ten Words") comes from the fuller Sumerian form
-*MASh-TAB-BA-RI*, read as "five words" -- five on each tablet.
-
-### The Tree of Life (Enoch)
-The apocryphal book of Enoch describes the Tree of Life with "the height of a
-fir, leaves like a carob, and fruit like a vine-cluster." Each comparison
-bears upon the [[amanita-muscaria-cultural-history]]: the fir
+[[amanita-muscaria-cultural-history]]: the fir
 (denizen of conifer forests), the carob (a "pod" name shared with the
 mushroom), and the vine-cluster (the red cap). The "vine of the field" (II
 Kgs 4:38) where Elisha's disciples found "death in the pot" is a folk-name
@@ -137,9 +76,6 @@ the central point of scholarly dispute.
 
 ## See Also
 
-- [[allegro-main-thesis]] -- Overview of the full theory
 - [[allegro-philological-methodology]] -- Method and its limitations
-- [[allegro-new-testament-names-as-mushroom-cryptograms]] -- Encoded NT names
 - [[allegro-biblical-references-to-mushrooms-and-fungi]] -- OT mushroom references
-- [[allegro-old-testament-figures-as-fertility-deities]] -- Patriarchs decoded
 - [[allegro-bible-as-cryptogram]] -- Bible as encoded text

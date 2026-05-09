@@ -13,7 +13,7 @@ type: comparison
 
 ## Overview
 
-The [[mandala-garden-design]] and [[permaculture-designers-manual-keyhole-garden]] both draw on 
+The [[permaculture-designers-manual-keyhole-garden]] both draw on 
 circular geometry to maximize growing efficiency, but they operate at 
 fundamentally different scales and serve different design contexts. The mandala 
 garden is a landscape-scale pattern incorporating multiple beds, radiating 
@@ -120,11 +120,8 @@ improved moisture management in dry climates.
 
 ## See Also
 
-- [[mandala-garden-design]] for full layout principles and construction methods
 - [[permaculture-designers-manual-keyhole-garden]] for detailed building instructions
-- [[herb-spiral]] for another circular Zone 1 garden feature
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]] for Hemenway's integrated 
 approach
-- [[zone-1-intensive-garden]] for overall intensive garden planning
 - [[mandala-garden-design]] for the original design 
 manual reference

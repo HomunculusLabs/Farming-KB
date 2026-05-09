@@ -108,14 +108,10 @@ growing house.
 
 ## Related
 
-- [[query-how-do-i-start-a-small-home-vineyard-for-table-grapes]]
-
-- [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
+- query-how-do-i-start-a-small-home-vineyard-for-table-grapes
 
 - [[query-how-to-start-a-small-scale-snail-farm]]
 
-- [[query-how-to-start-a-worm-farm-for-profit]] Questions
-[[query-how-to-start-growing-mushrooms-at-home]]
-[[query-how-to-set-up-a-monotub-mushroom-grow]]
+- [[query-how-to-start-growing-mushrooms-at-home]]
 [[mushroom-market-and-economics]]
 [[mushroom-foraging-safety-guide]]

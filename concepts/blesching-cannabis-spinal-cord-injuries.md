@@ -77,44 +77,8 @@ THC and Dronabinol both bind with CB1 and CB2.
   and CB2 receptors
 - Sativas or sativa-heavy strains tend to produce higher THC:CBD ratios
 - The Basel study recommends minimum 15-20 mg/day THC for measurable
-  spasm reduction (see [[blesching-cannabis-dosing-strategies]])
-- Higher doses may be needed for severe spasticity; titrate slowly upward
-  from the minimum effective dose
-- Inhaled cannabis provides rapid onset for acute spasm episodes
-- Oral or rectal THC provides longer-lasting baseline spasm control
-
-### Mind-Body Medicine and Spinal Cord Injuries
-
-The spinal cord contains neural pathways connecting a trillion cells. It
-is analogous to a highway for electrical signals that control the entire
-body. Spinal cord injuries are like a sinkhole or collapsed bridge that
-blocks traffic in both directions, isolating previously connected
-communities. Paralysis patients often express an immobilizing terror or the
-feeling of being frozen with fear. Patients may say they are giving up
-external exploration of the world and focusing instead on their inner
-development.
-
-Paralysis may draw attention to a prior inability to relax the affected
-parts and spur consideration of what those parts represent. Paralyzed legs
-may represent issues of progress or a shift in priorities. They may also
-relate to steadfastness or the ability to stand up for oneself. Paralysis
-below the belly button involves issues of sexuality and the release of
-stool and urine, and so love must be raised from the genitals to the
-heart. Paralysis reduces vertical height by half and challenges one to ask
-for help and receive help. It may require a reassessment of the meaning of
-pride, humiliation, humility, and self-worth.
-
-Spasms (ranging from minor twitching to serious cramps) may be reflective
-of a life force trying to shake up and wake up affected body parts. They
-may indicate a physical manifestation of contracting and fearful thoughts,
-emotions, and/or underlying beliefs.
-
-### Related Topics
-
-- [[blesching-cannabis-multiple-sclerosis]]
-- [[blesching-cannabis-neuropathic-pain]]
+  spasm reduction (see [[blesching-cannabis-multiple-sclerosis]]
 - [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-dosing-strategies]]
 
 ### Key Takeaways

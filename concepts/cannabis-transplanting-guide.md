@@ -108,11 +108,7 @@ For outdoor soil grows:
 
 ## Related Topics
 
-- [[cannabis-pot-selection-and-container-sizing]] — container sizing reference
 - [[cannabis-root-bound-symptoms-and-management]] — recognizing when transplant is needed
-- [[cannabis-indoor-soil-mix-and-preparation]] — soil mix recipes for containers
 - [[cannabis-watering-techniques-and-frequency]] — post-transplant watering
-- [[cannabis-vegetative-stage]] — vegetative growth management
 - [[cannabis-outdoor-growing]] — outdoor transplanting considerations
-- [[cannabis-hermaphrodite-prevention-and-management]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

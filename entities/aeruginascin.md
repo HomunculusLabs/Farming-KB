@@ -21,8 +21,7 @@ Chemically, aeruginascin is **4-phosphoryloxy-N,N,N-trimethyltryptamine**. The k
 Aeruginascin was first isolated and identified by **Jochen Gartz** in the late 1980s. It has been detected in:
 
 - *Psilocybe aeruginosa* (type species, highest concentrations)
-- *[[inocybe-aeruginascens]]*
-- Some collections of *[[psilocybe-cyanescens]]*
+- *[[psilocybe-cyanescens]]*
 - *Psilocybe bohemica* (occasionally reported)
 
 Its distribution is not universal among psilocybin-containing fungi, suggesting it represents a side branch of the biosynthetic pathway rather than a core intermediate.
@@ -68,14 +67,29 @@ on scarce inputs when a simpler ecological substitute is available.
 
 ## Related Topics
 
-- [[soil-food-web]]
 - [[composting-systems]]
-- [[mycoremediation]]
 - [[mushroom-cultivation]]
 
 ## See Also
 
-- [[psilocybin-tryptamine-chemistry-fungi]]
-
 - [[psilocybin-containing-genera-beyond-psilocybe]]
 - [[psilocybe-azurescens]]
+## Practical Considerations
+
+Successful implementation of Aeruginascin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

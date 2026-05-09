@@ -112,13 +112,8 @@ The fully aromatic β-carboline skeleton of norharmane distinguishes it from the
 
 ## See Also
 
-- [[harmine]]
 - [[harmaline]]
-- [[harmane]]
 - [[tetrahydroharmine]]
-- [[dmt]]
 - [[peganum-harmala]]
-- [[banisteriopsis-caapi]]
 - [[golden-guide-syrian-rue-and-maoi-plants]]
-- [[beta-carboline-alkaloids]]
 - [[ayahuasca-botany-and-preparation]]

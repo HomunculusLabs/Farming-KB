@@ -62,7 +62,7 @@ This is the plight of the research pharmacologist trying to plot the in vivo cou
 
 Sales of melatonin boomed in health food stores in the mid-1990s. Genzyme estimated 20 million first-time buyers in the US in 1995, with retail sales of $200-350 million/year. Available in tablets from 300 mcg to 10 mg. Shulgin noted the irony of one brand offering 120 tablets of 300 mcg each labeled "University Tested Strength" and "Preferred Dosage" -- "an example of drug-abuse at the corporate level."
 
-Shulgin predicted that melatonin would eventually become illegal, passing through the classic pattern: availability, promotion, broadcast usage, spectacular claims, prohibition, illegality. He noted that compounds such as [[bufotenin-entity-tihkal]] and [[dmt-entity-tihkal]] are normal components of the nervous system but are Schedule I drugs.
+Shulgin predicted that melatonin would eventually become illegal, passing through the classic pattern: availability, promotion, broadcast usage, spectacular claims, prohibition, illegality. He noted that compounds such as [[dmt-entity-tihkal]] are normal components of the nervous system but are Schedule I drugs.
 
 ## Serotonin Connection
 
@@ -80,10 +80,7 @@ From 5-methoxyindole via oxalyl chloride to the glyoxylamide (mp 245-247 C, 55% 
 
 ## See Also
 
-- [[5-meo-dmt-entity-tihkal]] -- 5-methoxy-N,N-dimethyltryptamine; O-methylbufotenine
 - [[bufotenin-entity-tihkal]] -- 5-hydroxy-DMT; N,N-dimethylserotonin
-- [[tryptamine-entity-tihkal]] -- the parent compound; entry #53
 - [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic psychedelic
-- [[harmaline-entity-tihkal]] -- beta-carboline relevant to melatonin's tryptamine chemistry
 - [[eschscholzia-californica]]
 - [[portulaca-oleracea]]

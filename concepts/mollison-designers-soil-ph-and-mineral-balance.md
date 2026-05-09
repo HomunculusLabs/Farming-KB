@@ -85,54 +85,8 @@ CEC because humic and fulvic acids carry abundant negative charges.
 Mollison emphasizes that building organic matter is the most effective long-
 term strategy for improving CEC in any soil type. Regular applications of
 compost, green manures, and mulch increase both the quantity and the quality
-of cation exchange sites. See [[composting-systems]] for
-methods of producing high-quality organic amendments.
-
-## Liming and pH Adjustment
-
-Liming is the practice of applying calcium or magnesium carbonate materials to
-raise soil pH. Mollison cautions against routine or indiscriminate liming,
-advising instead that soil tests should always guide application rates.
-
-Key liming materials include:
-
-- **Agricultural limestone (calcitic lime)**: Pure calcium carbonate.
-  Effective at raising pH and supplying calcium. Fineness of grind
-  determines speed of reaction.
-- **Dolomitic limestone**: Contains both calcium and magnesium carbonates.
-  Use only when a soil test indicates magnesium deficiency. Overuse creates
-  the structural problems described above.
-- **Quicklime (CaO) and hydrated lime (Ca(OH)2)**: Extremely reactive.
-  Useful for rapid pH correction but can burn plants if over-applied.
-  Rarely recommended in permaculture systems.
-- **Wood ash**: Contains calcium, potassium, and trace minerals. Useful
-  as a mild liming agent but can raise pH excessively if applied heavily.
-
-Acidification of alkaline soils is more challenging. Elemental sulfur, applied
-at rates determined by soil test, is the most common method. Acidifying organic
-materials such as pine needles, peat moss, and sawdust can provide modest pH
-reduction over time.
-
-## Micronutrient Availability
-
-While macronutrients (N, P, K, Ca, Mg, S) receive most attention, micronutrients
-are equally critical for plant health. Iron, manganese, zinc, copper, boron,
-molybdenum, and chlorine are required in small quantities but deficiencies
-cause distinct and often severe symptoms.
-
-Micronutrient availability is strongly influenced by pH. The general pattern is
-that iron, manganese, zinc, and copper become less available as pH rises above
-6.5, while molybdenum becomes more available. Boron is unusual in being
-moderately available across a wide pH range but prone to leaching in sandy
-soils.
-
-Mollison advocates addressing micronutrient deficiencies through biological
-rather than chemical means. Deep-rooted perennials and Mollison Designers  [[nitrogen-fixing-trees]] can access minerals from subsoil layers and bring them
-to the surface through leaf fall. [[mycorrhizal-fungi]] dramatically extend the
-effective root zone and improve micronutrient uptake. Composting with diverse
-feedstocks ensures a broad spectrum of trace minerals in finished compost.
-
-## Mineral Cycling in [[permaculture-design]]
+of cation exchange sites. See [[nitrogen-fixing-trees]] can access minerals from subsoil layers and bring them
+to the surface through leaf fall. [[permaculture-design]]
 
 The permaculture approach to soil minerals is fundamentally cyclical rather
 than linear. Instead of mining soil fertility and replacing it with synthetic
@@ -145,5 +99,4 @@ renewing system where external mineral inputs become unnecessary over time.
 
 ## See Also
 
-- [[mollison-designers-soil-ph-and-mineral-amendments]]
 - [[mollison-designers-soil-water-storage-and-field-capacity]]

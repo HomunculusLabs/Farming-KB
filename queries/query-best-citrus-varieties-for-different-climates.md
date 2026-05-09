@@ -134,11 +134,7 @@ All citrus perform well. Irrigation is essential. Use iron chelate (EDDHA) for a
 
 ## See Also
 
-- [[query-what-are-the-best-fig-varieties-for-different-climates]]
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]
-- [[query-what-are-the-best-mushrooms-for-medicinal-use]]
-
-- citrus cultivation and variety guide
-- [[query-how-to-grow-citrus-in-cold-climates]]
+- [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[comparison-citrus-vs-mango-cultivation]]
 - microclimate design for garden and farm

@@ -85,66 +85,13 @@ loose cap in a draft-free place for a few days to dehumidify, as residual
 moisture will remain on the spores and glass. Then seal the jar with tape.
 
 Store the spore print jar at room temperature in a dark place away from
-sunlight. Do not store in a refrigerator. [[psilocybe-cubensis]] spores begin to
-degrade a few months after collection. After approximately 1.5 years,
-germination will be greatly reduced or will not occur at all.
-
-## Making a Spore Syringe
-
-### Equipment List
-
-1. Spore print in jar
-2. Sterile syringe with water (for injecting into the spore print jar)
-3. Sterile syringe for loading spore solution out of the jar
-4. Small Pyrex glass stirring rod (science/lab supply)
-5. Alcohol, tequila shot glass, and eye dropper
-6. Lid with two holes: one center hole for the stirring rod, one edge hole
-   for a syringe needle
-
-### Syringe Sterilization
-
-Boil a pot of water. Draw boiling water into a syringe and squirt it out
-several times. Refill the syringe with boiling water, replace the needle
-guard, and wrap the syringe in tin foil. Prepare several syringes this way.
-Drop the wrapped syringes into the boiling water and boil for one hour. Let
-them cool before using.
-
-### Spore Syringe Procedure
-
-The main objective is to expose the interior of the jar to as little room air
-as possible. Always protect the holes in the lid with tin foil or sterile
-surgical tape before and after the procedure.
-
-1. Inject sterile water into the spore print jar through the needle hole in
-   the lid.
-
-2. Flame sterilize the glass stirring rod and let it cool for a minute.
-   Insert the rod through the center lid hole and scrape spores into the
-   water using the rod end.
-
-3. Insert the sterile syringe needle through the small hole at the edge of
-   the lid. Tilt the jar until the water comes up to the needle tip and draw
-   the spore water into the sterile syringe.
-
-### Syringe Storage
-
-Store the prepared spore syringe at cool temperatures in the dark. A properly
-prepared spore syringe will remain viable for several months and potentially
-up to a year or more. Resterilize the needle with an alcohol flame
-immediately before each use.
-
-## The Complete Life Cycle
-
-The spore printing and syringe preparation process completes the PF TEK life
-cycle: [[substrate-preparation]], sterilization, inoculation, colonization,
+sunlight. Do not store in a refrigerator. [[substrate-preparation]], sterilization, inoculation, colonization,
 fruiting, harvesting, spore printing, and syringe preparation. Each syringe
 can inoculate 10 jars (1 cc per jar), and each jar can produce multiple
 mushrooms for spore printing, creating an ongoing self-sustaining cycle.
-
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-guide]]
+- psilocybin mushroom cultivation guide
 
-- [[inoculation-technique-and-alcohol-flaming]]
 - [[contaminant-identification-and-prevention]]
 - [[pf-tek-overview-and-history]]

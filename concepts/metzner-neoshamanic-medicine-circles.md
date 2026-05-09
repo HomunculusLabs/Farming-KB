@@ -137,11 +137,7 @@ experience.
 
 ## See Also
 
-- [[metzner-four-paradigms-entheogenic-healing]]
-- [[metzner-hallucinogens-psychotherapy-shamanism]]
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
-- [[metzner-spirit-beings-multiple-realities-entheogens]]
 - [[metzner-entheogen-terminology-and-worldview-paradigms]]
-- [[metzner-psycholytic-psychedelic-therapy-models]]
 - [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]

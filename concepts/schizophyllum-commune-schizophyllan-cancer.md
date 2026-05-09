@@ -92,11 +92,9 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 - Further large-scale clinical trials are needed to optimize dosing protocols
 
 ## See Also
+
 - [[medicinal-mushroom-guide-chaga]]
-- [[medicinal-mushroom-guide-meshima]]
 - [[maitake-cancer-clinical-research]]
-- [[beta-glucan-receptor-binding]]
 - [[fungal-immunology-overview]]
-- [[turkey-tail-trametes-versicolor]]
 - [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-medicinal-research]]

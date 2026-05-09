@@ -1,41 +1,6 @@
 ---
 title: Reductive and Oxidative Metal Precipitation by Fungi
-tags: [mycology, biogeochemistry, metal-precipitation,
-  fungi-in-the-environment, bioremediation, mineral-transformations]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-type: concept
-created: 2026-04-28
----
-
-# Reductive and Oxidative Metal Precipitation by Fungi
-
-Fungi possess remarkable abilities to transform metal species through both
-reductive and oxidative precipitation — processes that alter the
-solubility, mobility, and toxicity of metals in terrestrial and aquatic
-environments. These transformations are central to fungal roles in
-biogeochemical cycling, mineral formation, and bioremediation of
-contaminated sites. This concept is drawn from the chapter on fungal
-involvement in metal transformations in *Fungi in the Environment* (Gadd,
-Watkinson & Dyer, 2006).
-
-## Reductive Precipitation
-
-Reductive precipitation involves the reduction of soluble metal ions to
-insoluble lower-valence states. This process converts mobile, often toxic
-metal species into immobile precipitates that are far less bioavailable.
-Fungi achieve this through enzymatic and non-enzymatic mechanisms.
-
-### Enzymatic Reduction
-
-Several groups of fungi enzymatically reduce metals as part of their normal
-metabolism. The most studied examples involve uranium and other actinides:
-
-**Uranium (VI) to Uranium (IV)**: Soluble hexavalent uranium (UO₂²⁺,
-uranyl) is reduced to insoluble tetravalent uranium (UO₂, uraninite) by
-fungi including *Aspergillus niger*, *Penicillium* species, and *Rhizopus*
+tags: [[aspergillus-niger]]*, *Penicillium* species, and *Rhizopus*
 species. The precipitated uraninite forms nanocrystalline deposits
 associated with fungal biomass, often at the cell wall or within
 extracellular polymeric substances.
@@ -141,10 +106,7 @@ authigenic mineral phases. The ability of fungi to transform metals through
 both reductive and oxidative pathways gives them a unique role in
 biogeochemical cycling that complements the activities of bacteria and
 archaea.
-
 ## See Also
 
-- [[fungal-metal-transformations]]
 - [[mycogenic-mineral-precipitation]]
-- [[fungal-biogeochemistry]]
 - [[fungi-in-the-environment-fungal-mineral-weathering]]

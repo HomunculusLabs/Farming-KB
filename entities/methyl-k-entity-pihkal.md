@@ -120,15 +120,9 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[pe-entity-pihkal]]
-
 - [[p-entity]]
 
-- [[ethyl-j-entity-pihkal]]
-
 - [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
 
 - [[pihkal-introduction-and-methodology]]
 

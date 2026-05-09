@@ -18,26 +18,7 @@ sources:
 
 ## Common Names
 
-[[ololiuqui]], Coaxihuitl, Badoh Blanco, Morning Glory Vine, Snake Plant.
-
-## Taxonomy
-
-**Family:** Convolvulaceae (Morning Glory Family)
-**Order:** Solanales
-**Genus:** Turbina
-**Species:** T. corymbosa (L.) Raf.
-
-**Synonym:** Rivea corymbosa (L.) Hallier f.
-
-The species has undergone considerable taxonomic revision. It was
-originally described as Convolvulus corymbosus by Linnaeus, later
-transferred to the genus Rivea, and more recently placed in Turbina
-by Rafinesque. The synonym Rivea corymbosa remains widely used in
-ethnobotanical and phytochemical literature, and the two names are
-frequently encountered interchangeably.
-
-Turbina corymbosa is closely related to other psychoactive members of
-the Convolvulaceae, including [[ipomoea-violacea]] (Tlililtzin) and
+[[ipomoea-violacea]] (Tlililtzin) and
 Argyreia nervosa (Hawaiian Baby Woodrose). All contain ergoline
 alkaloids in their seeds. Turbina corymbosa is often confused or
 synonymized with Ipomoea violacea in the literature, though the two
@@ -133,7 +114,5 @@ Oaxaca and other regions of southern Mexico to the present day.
 
 ## See Also
 
-- [[ipomoea-violacea]]
 - [[cannabis-sativa]]
-- [[datura-stramonium]]
 - [[peganum-harmala]]

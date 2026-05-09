@@ -1,15 +1,7 @@
 ---
 title: Fungal Spore Dispersal Ecology
 created: 2026-04-24
-tags: [mycology, spores, dispersal, ecology, vectors, arthropods]
-sources: Biodiversity of Fungi (Mueller & Bills)
-type: concept
-updated: 2026-04-26
----
-
-# Fungal Spore Dispersal Ecology
-
-Spore dispersal is fundamental to [[fungal-ecology]], population biology, and evolution. Fungi employ diverse strategies for spore dispersal, ranging from passive wind dispersal to elaborate animal- and water-mediated mechanisms. The dispersal strategy profoundly influences fungal community structure, gene flow, and biogeography.
+tags: [[fungal-ecology]], population biology, and evolution. Fungi employ diverse strategies for spore dispersal, ranging from passive wind dispersal to elaborate animal- and water-mediated mechanisms. The dispersal strategy profoundly influences fungal community structure, gene flow, and biogeography.
 
 ## Wind Dispersal
 
@@ -47,15 +39,7 @@ Many fungi depend on arthropods for spore dispersal, ranging from obligate mutua
 
 ## Animal Dispersal (Mammals and Birds)
 
-- **Mammalian mycophagy**: Most mammals, including carnivores, excavate and eat [[sequestrate-fungi]]. Spores pass unharmed through digestive tracts and are deposited in feces near receptive host roots
-- **Aromatic attraction**: Sequestrate fungi produce species-specific combinations of aromatic compounds and pheromones that attract mammals when spores mature
-- **Visual signals**: Some sequestrate fungi (e.g., Paurocotylis pila in New Zealand) have brightly colored peridia that mimic fruits to attract birds
-- **Slime mold beetles**: Beetles in three or more families ("slime-mold beetles") have body surfaces resembling egg cartons with spore-size depressions for efficient spore transport
-
-## Water Dispersal
-
-- **Ingoldian hyphomycetes**: Produce tetraradiate or sigmoid spores adapted to flow in streams and rivers, maximizing surface area for attachment to substrata
-- **[[zoosporic-fungi]]**: Chytrids and oomycetes produce motile zoospores that actively swim toward hosts or substrata using chemotaxis
+- **Mammalian mycophagy**: Most mammals, including carnivores, excavate and eat [[zoosporic-fungi]]**: Chytrids and oomycetes produce motile zoospores that actively swim toward hosts or substrata using chemotaxis
 - **Rain splash**: Spores of some fungi are dispersed by raindrop impact, especially those fruiting close to ground level
 
 ## Passive and Environmental Dispersal
@@ -117,7 +101,6 @@ ecosystem productivity and plant community composition.
 
 ## See Also
 
-- [[biodiversity-fungi-insect-symbiosis]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-aquatic-environments]]
 

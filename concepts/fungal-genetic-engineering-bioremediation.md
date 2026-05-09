@@ -3,24 +3,11 @@ title: Fungal Genetic Engineering Bioremediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-# Fungal Genetic Engineering for Bioremediation
-
-Genetic engineering of fungi for enhanced bioremediation capabilities represents an emerging frontier in [[cotter-mycoremediation-overview]] research. By modifying fungal genomes to increase enzyme production, expand substrate ranges, or enhance stress tolerance, genetic engineering can potentially overcome limitations of natural fungal strains for environmental cleanup applications.
+tags: [[cotter-mycoremediation-overview]] research. By modifying fungal genomes to increase enzyme production, expand substrate ranges, or enhance stress tolerance, genetic engineering can potentially overcome limitations of natural fungal strains for environmental cleanup applications.
 
 ## Motivation for Genetic Engineering
 
-Natural fungal strains used in [[fungal-bioremediation]] often exhibit limitations that constrain their practical application. These include insufficient enzyme production rates, narrow substrate specificity, sensitivity to environmental stressors, poor competitive ability in non-sterile environments, and the inability to completely mineralize certain pollutants.
-
-Genetic engineering offers the potential to address these limitations by introducing or modifying specific genes that control degradative enzyme production, pollutant uptake, stress responses, and other traits relevant to bioremediation performance.
-
-## Enzyme Overproduction
-
-One of the most straightforward applications of genetic engineering in fungal bioremediation is the overproduction of degradative enzymes. The [[ligninolytic-enzymes-bioremediation]] produced by [[white-rot-fungi-bioremediation]], including lignin peroxidase, manganese peroxidase, and [[brown-rot-fungi-biodegradation]], are primary targets for genetic engineering.
+Natural fungal strains used in [[ligninolytic-enzymes-bioremediation]] produced by [[brown-rot-fungi-biodegradation]], are primary targets for genetic engineering.
 
 Heterologous expression of fungal laccase genes in other organisms, particularly yeasts, has been achieved to facilitate large-scale enzyme production. Recombinant laccases can be produced at higher titers and with improved properties compared to native enzymes.
 
@@ -28,19 +15,7 @@ Nie et al. investigated the stability of recombinant and native peroxidases from
 
 ## Expanding Substrate Range
 
-Genetic engineering can expand the range of pollutants that fungi can degrade by introducing genes encoding enzymes with novel substrate specificities. This is particularly relevant for [[fungal-pah-degradation-mechanisms]], where the ability to degrade high-molecular-weight PAHs is limited in many fungal species.
-
-The introduction of cytochrome P450 monooxygenase genes from pollutant-degrading organisms can enhance the initial oxidation of recalcitrant compounds by [[fungal-cytochrome-p450-biodegradation]] systems. Engineering of [[fungal-laccase-mediator-systems]] components can extend the effective substrate range of laccase-mediated degradation.
-
-## Host Organisms for Recombinant Enzyme Production
-
-Several fungal and non-fungal hosts have been used for recombinant production of bioremediation enzymes:
-
-### Yeast Systems
-
-Saccharomyces cerevisiae and Pichia pastoris are commonly used as hosts for recombinant protein production due to their well-characterized genetics, ease of cultivation, and ability to perform eukaryotic post-translational modifications including glycosylation.
-
-The glycosylated nature of [[ligninolytic-enzymes-bioremediation]] increases the stability of the enzymes, making fungal expression systems preferable to bacterial systems for recombinant enzyme production. Glycosylation patterns may differ between native and recombinant enzymes, potentially affecting enzyme activity and stability.
+Genetic engineering can expand the range of pollutants that fungi can degrade by introducing genes encoding enzymes with novel substrate specificities. This is particularly relevant for [[fungal-cytochrome-p450-biodegradation]] systems. Engineering of [[ligninolytic-enzymes-bioremediation]] increases the stability of the enzymes, making fungal expression systems preferable to bacterial systems for recombinant enzyme production. Glycosylation patterns may differ between native and recombinant enzymes, potentially affecting enzyme activity and stability.
 
 ### Filamentous Fungal Systems
 
@@ -96,18 +71,10 @@ The translation of laboratory-scale genetic engineering successes to practical f
 
 Future research in fungal genetic engineering for bioremediation is likely to focus on several areas: systems biology approaches to understand global gene regulation during pollutant degradation, synthetic biology tools for constructing novel metabolic pathways, directed evolution of enzymes with improved properties, and development of contained-use systems where engineered fungi are applied in controlled bioreactor environments rather than released directly into the environment.
 
-The integration of [[ligninolytic-enzymes-bioremediation]] with genetic engineering will enable better monitoring of engineered strains during bioremediation applications, addressing concerns about environmental tracking and risk assessment.
+The integration of [[genetic-engineering-of-fungi-for-mycoremediation]]
 
-## See Also
-
-- [[genetic-engineering-of-fungi-for-mycoremediation]]
-
-- [[fungal-bioremediation]]
 - [[cotter-mycoremediation-overview]]
-- [[ligninolytic-enzymes-bioremediation]]
 - [[brown-rot-fungi-biodegradation]]
-- [[white-rot-fungi-bioremediation]]
 - [[fungal-pah-degradation-mechanisms]]
-- [[fungal-cytochrome-p450-biodegradation]]
 - [[fungal-laccase-mediator-systems]]
 - [[ligninolytic-enzymes-bioremediation]]

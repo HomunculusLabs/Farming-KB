@@ -73,15 +73,11 @@ The thesis also tends toward a romanticization of prehistoric life, presenting t
 
 ## McKenna's Stoned Ape Theory
 
-The "Stoned Ape" hypothesis, articulated most fully in *Food of the Gods* (1992), proposes that the incorporation of psilocybin-containing mushrooms into the diet of early hominids in Africa was a primary driver of human cognitive evolution. McKenna suggested that as climate change caused forests to contract into savannah, early hominids followed herds of ungulates whose dung provided the substrate for [[psilocybe-mushroom-species-guide]] and related species. At low doses, he argued, psilocybin improves visual acuity (an advantage for hunting and gathering); at moderate doses, it increases sexual arousal and social bonding; and at higher doses, it produces the ecstatic visionary states that gave rise to religious experience, language, and symbolic thought.
-
-The theory remains highly controversial. While there is anthropological evidence for prehistoric mushroom use (Tassili cave paintings dating to approximately 7000-9000 BP depicting mushroom-headed figures), the specific claims about enhanced visual acuity and language emergence lack empirical support. Mainstream evolutionary biologists have criticised the hypothesis as speculative and unfalsifiable. However, recent research on the effects of [[psilocybin-compound-profile]] on neuroplasticity, default mode network suppression, and serotonin receptor modulation has led some researchers to revisit the possibility that psychedelic compounds played some role in human cognitive evolution, even if McKenna's specific claims were overstated.
+The "Stoned Ape" hypothesis, articulated most fully in *Food of the Gods* (1992), proposes that the incorporation of psilocybin-containing mushrooms into the diet of early hominids in Africa was a primary driver of human cognitive evolution. McKenna suggested that as climate change caused forests to contract into savannah, early hominids followed herds of ungulates whose dung provided the substrate for [[psilocybin-compound-profile]] on neuroplasticity, default mode network suppression, and serotonin receptor modulation has led some researchers to revisit the possibility that psychedelic compounds played some role in human cognitive evolution, even if McKenna's specific claims were overstated.
 
 ## The Archaic Revival
 
-The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[plants-of-the-gods-geography-hallucinogenic-plants]], shamanic practice, and ecological stewardship constitutes a vast library of human experience that modern civilisation has dismissed or actively suppressed. The Archaic Revival is not a call to abandon technology but to integrate the wisdom of pre-modern cultures with the tools of modernity.
-
-McKenna saw the psychedelic renaissance of the 1960s as the first stirring of this revival, and he positioned his own work as an effort to articulate and transmit the insights of the mushroom experience to a Western audience. The Archaic Revival concept influenced the deep ecology movement, the modern interest in indigenous plant medicine, and the [[ayahuasca-vision-art-and-shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
+The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-Shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
 
 ## Novelty Theory and Timewave Zero
 
@@ -107,15 +103,11 @@ McKenna's work has been criticised from multiple perspectives:
 
 ## Legacy
 
-Despite these criticisms, McKenna's influence on contemporary psychedelic culture is immense. His articulation of the psychedelic experience as a source of genuine insight into consciousness, ecology, and human potential helped sustain interest in [[psychedelic-safety-and-harm-reduction]] during the decades when scientific research was largely prohibited. His integration of ethnobotany, philosophy, and personal testimony created a model for public intellectual engagement with psychedelics that has been adopted by subsequent generations of advocates and researchers. The current [[psychedelic-therapy-current-research]] in clinical research owes an intellectual debt to McKenna's insistence that these substances deserve serious attention, even if the specific claims he made have not all survived scrutiny.
+Despite these criticisms, McKenna's influence on contemporary psychedelic culture is immense. His articulation of the psychedelic experience as a source of genuine insight into consciousness, ecology, and human potential helped sustain interest in [[psychedelic-therapy-current-research]] in clinical research owes an intellectual debt to McKenna's insistence that these substances deserve serious attention, even if the specific claims he made have not all survived scrutiny.
 
 ## See Also
 
-- [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-transcendent-other-and-exopheromones]]
 - [[cultural-evolution-and-psychoactive-substances]]
-- [[consciousness-and-psychedelics]]
-- [[ethnomycology]]
 - [[mckenna-cannabis-culture-history]]
 - [[mckenna-diet-symbiosis-human-evolution]]

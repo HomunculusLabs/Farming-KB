@@ -32,36 +32,6 @@ their efforts.
 
 ## Morels
 
-See the full guide: [[morel-mushroom-guide]]
-
-Morels (*Morchella* spp.) are among the most sought-after wild
-mushrooms in North America and Europe. Their distinctive honeycomb-like
-caps make them visually unmistakable once you learn the form. The genus
-was substantially revised in 2012 and is now understood to include
-dozens of species across several clades.
-
-The three main groups are:
-
-- **Yellow morels** (*M. esculenta* clade): Found in hardwood forests
-  near ash, tulip poplar, dying elms, and old apple orchards. Season
-  runs March through May.
-- **Black morels** (*M. elata* clade): Prefer conifer forests and
-  fire-affected areas. Season extends March through June.
-- **Half-free morels** (*M. punctipes*): Less sought after due to
-  milder flavor and smaller size.
-
-Morels have a meaty texture and rich, earthy, nutty flavor that holds
-up well to sauteeing, frying, and drying. Fresh prices range from
-$30 to $80+ per pound, reflecting their short spring season and high
-demand.
-
-Because morels are saprotrophic, there has been some success with
-outdoor cultivation, though most supply still comes from wild foraging.
-Dried morels rehydrate well and concentrate in flavor, making them a
-pantry staple.
-
-## Chanterelles
-
 See the full guide: [[chanterelle-guide]]
 
 Chanterelles (*Cantharellus* and *Craterellus* spp.) are prized for
@@ -130,11 +100,7 @@ stuffing, creates layered complexity: the earthy depth of morels
 paired with the bright fruitiness of chanterelles.
 
 ## See Also
-- [[cantharellus-cinereus]]
-
 - [[morel-mushroom-guide]]
-- [[chanterelle-guide]]
 - [[growing-gourmet-lions-mane-cultivation]]
-- [[lions-mane-indoor-cultivation]]
 - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
 - [[termitomyces-titanicus]]

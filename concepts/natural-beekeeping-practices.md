@@ -117,25 +117,9 @@ success.
 
 Bee health is directly connected to landscape health. Pesticides in the
 environment weaken bees regardless of hive management. Loss of
-[[biodiversity-fungi-soil-fungal-communities]] reduces the variety of pollen and
-nectar sources. [[desertification-causes-reversal]] and
+[[desertification-causes-reversal]] and
 monoculture eliminate the diverse flowering plants bees need. Restoring the
-[[holzer-tamera-water-landscape-project]] and planting diverse
-vegetation are prerequisite steps for healthy bee populations.
-
-## Economic Perspective
-
-Natural beekeeping with happy bees produces the highest yields. Healthy bees
-in traditional hives produce 50-80kg of honey without the input costs of
-sugared water feeding, medication, or frame replacement. The honey is of
-superior quality and the bees maintain their own health, reducing labour
-and expense for the beekeeper.
-
-## See Also
-
-- [[biodiversity-soil-life]] for the broader ecosystem context
-- [[holzer-water-landscapes-retention]] for landscape restoration that
-  supports bees
+[[biodiversity-soil-life]] for the broader ecosystem context
 - [[holzer-ten-step-plan-world-hunger]] for the agricultural system change
   needed
 - [[permaculture-multipurpose-trees]] for bee-forage tree planting

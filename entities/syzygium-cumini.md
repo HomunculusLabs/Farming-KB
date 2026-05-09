@@ -116,11 +116,7 @@ Most commercial cultivation relies on seedling trees from selected mother plants
 
 ## See Also
 
-- [[syzygium-aromaticum]]
 - [[terminalia-chebula]]
-- [[moringa-oleifera]]
 - [[ocimum-sanctum]]
-- [[mangifera-indica]]
 - [[azadirachta-indica]]
-- [[cinnamomum-verum]]
 - [[eugenol]]

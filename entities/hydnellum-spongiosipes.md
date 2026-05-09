@@ -111,11 +111,7 @@ Conservation recommendations include maintaining continuous forest canopy cover,
 
 ## See Also
 
-- [[hydnellum-peckii]]
 - [[phellodon-niger]]
-- [[mycorrhiza]]
 - [[laccaria-laccata]]
-- [[trametes-versicolor]]
 - [[fomes-fomentarius]]
-- [[boletus-edulis-entity]]
 - [[cantharellus-cibarius-entity]]

@@ -81,12 +81,7 @@ Almond cultivars are classified into three groups:
 
 ## Permaculture Integration
 
-- Almonds can serve as [[permaculture-windbreak]] components when planted in rows
-- Fallen leaves contribute to [[permaculture-design]]
-- Intercrop young trees with [[permaculture-green-manure-crops]] between rows
-- Kernel yields of 4-12 kg/tree over 50+ years provide reliable calorie production
-- Hulls can be used as [[permaculture-composting]] material or animal feed
-- Pair with [[permaculture-chestnut]] for diverse nut production
-- [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-pruning-and-training-fruit-trees]]
+- Almonds can serve as [[permaculture-design]]
+- Intercrop young trees with [[permaculture-composting]] material or animal feed
+- Pair with [[gaias-garden-cover-crops-soil-building]]
 - [[holzer-fruit-tree-planting-method]]

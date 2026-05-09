@@ -19,21 +19,7 @@ sources:
   - Boulos, L. & Francis, F. (2022). "Sustainable Color: Advances in Fungal Pigment Extraction for Textile Applications." *Dyes and Pigments*, 198, 110412.
 type: query
 ---
-# How to Extract [[jadam-microbial-solution-jms-preparation-and-use]] Fungal Pigments for Natural Dyeing
-
-Fungal pigments offer a remarkable and often overloolichensette for natural dyers. Mushrooms and lichens can produce vivid yellows, deep reds, rich blues, and earthy greens that rival any plant-based dye. This guide covers everything you need to get started, from selecting species to query-what-is-the-strongest-psilocybin-mushroom-speciesg color on fiber.
-
- 
-
-## Which mushroom species produce the best dyes?
-
-Some of the most reliable and vivid dye mushrooms include:
-
-- **Cortinarius species** (especially C. sanguineus and C. semisanguineus): Intense reds and oranges. These are among the most celebrated dye fungi worldwide.
-- **Phaeolus schweinitzii**: Produces strong yellows, golds, and greens depending on the mordant. Widely available on conifer stumps.
-- **Hapalopilus nidulans**: Yields vivid purples and pinks, one of the few fungi to produce these colors.
-- **[[pisolithus-tinctorius]]**: The "dyeball" mushroom gives rich yellows, oranges, and tans. Common in disturbed soils and along roadsides.
-- **[[lobaria-pulmonaria]]** and other lichens: Produce browns, tans, and sometimes yellows through boiling.
+# How to Extract [[pisolithus-tinctorius]]**: The "dyeball" mushroom gives rich yellows, oranges, and tans. Common in disturbed soils and along roadsides.
 - **[[hydnellum-peckii]]** and other "bleeding" tooth fungi: Offer deep reds and burgundies from their exuded pigments.
 
 Beginners should start with Phaeolus schweinitzii or Pisolithus tinctorius, as they are abundant, easy to identify, and forgiving in the dye pot.
@@ -75,8 +61,8 @@ Yes, several dye fungi can be cultivated, making the craft more sustainable and 
 
 - **Phaeolus schweinitzii** and **Ganoderma species** can be grown on inoculated conifer wood chips or logs using plug spawn or sawdust spawn.
 - **Pisolithus tinctorius** associates with tree roots and can be introduced to soil near compatible tree species (especially pines and oaks).
-- **[[oyster-mushroom]] s ([[pleurotus-ostreatus]])**, while not a traditional dye species, can produce soft yellow-tan dyes and are very easy to grow on straw or hardwood sawdust.
-- **[[trametes-versicolor]]** (turkey tail) grows readily on hardwood logs and produces yellows and golds.
+- **[[pleurotus-ostreatus]])**, while not a traditional dye species, can produce soft yellow-tan dyes and are very easy to grow on straw or hardwood sawdust.
+- **[[trametes-versicolor-entity]]** (turkey tail) grows readily on hardwood logs and produces yellows and golds.
 
 Purchase spawn from reputable mycology suppliers. Inoculate outdoor wood chip beds in spring or fall and expect fruiting within 6-18 months depending on species and conditions.
 

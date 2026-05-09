@@ -3,7 +3,7 @@ title: Holmgren Genetic Engineering, Post-Darwinian Evolution, and System Evolut
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
+tags: [[permaculture, design, sustainability]
 sources: ["papers/david-holmgren-permaculture-principles-pathways-beyon.md"]
 ---
 
@@ -86,12 +86,6 @@ If a Conservation phase lasts a long time and survives several disturbance cycle
 ## Human-Made Risks as New Forces of Nature
 "We are unable to stop the accumulation of risk of catastrophic change resulting from nuclear radiation, the greenhouse effect or genetic engineering." These out-of-control forces have simply replaced, in the human psyche, some of the high-order, large-scale forces of nature and/or gods that previously precipitated catastrophic change as well as bestowing gifts of abundance.
 
-See also: [[holmgren-ecosynthesis-and-weedscape-ecology]], [[holmgren-emergence-and-long-term-cycles]], [[holmgren-permaculture-change-principle]],,
-- [[permaculture-design-principles]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+See also: [[holmgren-emergence-and-long-term-cycles]], [[permaculture-farm-design-principles]]
 - [[permaculture-ecosynthesis-novel-ecosystems]]
-- [[teaming-with-microbes-old-growth-forest]]
-
-## See Also
-
 - [[holmgren-gigantism-intermediate-technology-and-small-scale]]

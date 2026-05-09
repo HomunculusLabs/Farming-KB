@@ -23,29 +23,7 @@ combine both for maximum soil-building benefit.
 
 ## Stinging Nettle
 
-[[query-how-to-grow-and-use-stinging-nettle]]
-
-Nettle is a herbaceous perennial that spreads aggressively through rhizomes,
-forming dense stands in moist, nitrogen-rich soils. It typically grows 1 to 2
-meters tall and produces multiple harvests per season when cut back. The plant
-is both a food crop and a medicinal herb: young leaves are rich in protein,
-iron, calcium, and vitamins A, C, and K, making them one of the most nutritious
-wild greens available. Nettle leaf tea is a traditional remedy for allergies,
-anemia, and inflammation, while nettle root extract is clinically validated for
-benign prostatic hyperplasia.
-
-As a dynamic accumulator, nettle excels at pulling nitrogen, iron, calcium,
-magnesium, and potassium from the soil. Fermented nettle tea (made by steeping
-fresh nettle in water for 2 to 4 weeks) produces a nitrogen-rich liquid
-fertilizer that promotes vigorous leafy growth. Nettle's spreading root system
-stabilizes soil and its foliage supports over 40 insect species, including
-several butterflies whose larvae feed exclusively on it. The primary
-disadvantages are its aggressive spread via rhizomes and its painful stinging
-hairs, which require gloves for handling.
-
-## Comfrey
-
-[[comfrey-as-dynamic-accumulator]]
+[[mollison-designers-dynamic-accumulators-comfrey]]
 
 Comfrey is a deep-rooted perennial that produces enormous quantities of
 biomass from a dense, clumping root system. The roots can extend 2 meters or
@@ -120,8 +98,8 @@ growth stages.
 
 ## See Also
 
-- [[dynamic-accumulators-overview]]
+- [[comparison-comfrey-vs-aloe-vera]]
+
 - [[chop-and-drop-mulching]]
-- [[comparison-comfrey-vs-yarrow]]
 - [[comparison-comfrey-vs-dandelion]]
 - [[comparison-dynamic-accumulators-vs-cover-crops]]

@@ -22,7 +22,8 @@ related:
   - diabetes-mellitus
   - hypoglycemia
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
 ## Overview and Biological Significance
@@ -35,54 +36,7 @@ GNG is indispensable for survival. The human brain consumes approximately 120 g 
 
 ### 1. Pyruvate to Oxaloacetate (Pyruvate Carboxylase)
 
-Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxaloacetate (OAA) using ATP and bicarbonate. PC requires biotin as a covalently bound cofactor and acetyl-CoA as a potent allosteric activator. Acetyl-CoA signals a high-energy, low-carbohydrate state (e.g., beta-oxidation of [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]), effectively telling the cell to divert pyruvate toward glucose synthesis rather than oxidation. This is a key committed step and a major point of regulation.
-
-### 2. Oxaloacetate to Phosphoenolpyruvate (PEP Carboxykinase)
-
-PEP carboxykinase (PEPCK) decarboxylates and phosphorylates OAA to form phosphoenolpyruvate (PEP), consuming GTP. In humans, PEPCK exists as both a cytosolic (PEPCK-C) and mitochondrial (PEPCK-M) isoform. The relative contribution of each isoform varies by tissue and metabolic state. The conversion of OAA to PEP is thermodynamically unfavorable in the reverse direction, which is why glycolysis uses pyruvate kinase instead.
-
-### 3. Fructose-1,6-bisphosphate to Fructose-6-phosphate (Fructose-1,6-bisphosphatase)
-
-Fructose-1,6-bisphosphatase (FBPase-1) catalyzes the hydrolysis of fructose-1,6-bisphosphate (F1,6BP) to fructose-6-phosphate (F6P), releasing inorganic phosphate. This bypasses the highly exergonic phosphofructokinase-1 (PFK-1) reaction of glycolysis. FBPase-1 is a major regulatory node — it is inhibited allosterically by AMP and fructose-2,6-bisphosphate (F2,6BP) and stimulated by ATP and citrate. The opposing regulation of PFK-1 and FBPase-1 by F2,6BP is a central feature of hepatic metabolic control.
-
-### 4. Glucose-6-phosphate to Glucose (Glucose-6-phosphatase)
-
-Glucose-6-phosphatase (G6Pase) hydrolyzes glucose-6-phosphate (G6P) to free glucose and inorganic phosphate. This enzyme is confined to the endoplasmic reticulum lumen and is expressed almost exclusively in the liver, kidney cortex, and pancreatic beta-cells — not in skeletal muscle or brain. This tissue restriction explains why muscle cannot release free glucose into the bloodstream. G6Pase deficiency causes glycogen storage disease type Ia (von Gierke disease), characterized by severe fasting hypoglycemia, hepatomegaly, and lactic acidosis.
-
-### Shared Reversible Steps
-
-The seven remaining steps are direct reversals of glycolytic reactions, catalyzed by the same enzymes operating in reverse: enolase, phosphoglycerate mutase, phosphoglycerate kinase, glyceraldehyde-3-phosphate dehydrogenase, triose phosphate isomerase, aldolase, and phosphoglucose isomerase. Notably, phosphoglycerate kinase and glyceraldehyde-3-phosphate dehydrogenase each consume one NADH (produced during earlier steps), contributing to the pathway's energy demands.
-
-## Gluconeogenic Precursors
-
-### Lactate
-
-Lactate, produced by anaerobic glycolysis in skeletal muscle and erythrocytes, is transported to the liver via the bloodstream. In hepatocytes, lactate is oxidized back to pyruvate by lactate dehydrogenase (LDH), regenerating NADH needed for the glyceraldehyde-3-phosphate dehydrogenase step. Lactate is quantitatively the most important gluconeogenic precursor during exercise and in the immediate postprandial period.
-
-### Glycerol
-
-Glycerol is released during lipolysis of triglycerides in adipose tissue. Hepatic glycerol kinase phosphorylates glycerol to glycerol-3-phosphate, which is then oxidized by glycerol-3-phosphate dehydrogenase to dihydroxyacetone phosphate (DHAP), a glycolytic intermediate that enters GNG directly. Glycerol contribution increases substantially during prolonged fasting as lipolysis accelerates.
-
-### Glucogenic Amino Acids
-
-Amino acids with carbon skeletons that can be converted to pyruvate or TCA cycle intermediates are glucogenic. Alanine, the most important glucogenic amino acid, is produced in muscle by transamination of pyruvate (the glucose-alanine cycle) and transported to the liver. In hepatocytes, alanine aminotransferase (ALT) converts alanine back to pyruvate. Other significant glucogenic amino acids include glutamine (important for renal GNG), serine, threonine, glycine, valine, and the branched-chain amino acids after conversion in muscle.
-
-## Cori Cycle and Alanine Cycle
-
-### Cori Cycle (Lactate Cycle)
-
-The Cori cycle describes the shuttling of lactate from muscle to liver, its conversion to glucose via GNG, and the return of glucose to muscle for glycolysis. This cycle costs 6 ATP per glucose molecule in the liver but allows muscle to continue anaerobic glycolysis without accumulating lactate. During intense exercise, the Cori cycle can account for 10-20% of total hepatic glucose output.
-
-### Glucose-Alanine Cycle
-
-Alanine serves as a nitrogen carrier from muscle to liver. Muscle proteolysis during fasting generates amino acids, which are transaminated to alanine using pyruvate as the amino acceptor. In the liver, alanine is deaminated to pyruvate (entering GNG) and the amino group enters the urea cycle. The newly synthesized glucose returns to muscle, where it can be used for energy or transaminated again. This cycle simultaneously manages nitrogen disposal and glucose production.
-
-## Regulation of Gluconeogenesis
-
-### Allosteric Regulation
-
-- **Acetyl-CoA** allosterically activates pyruvate carboxylase, linking GNG to fatty acid oxidation.
-- **AMP** inhibits both FBPase-1 and PEPCK, signaling low [[adenosine-triphosphate-and-cellular-energy]] and suppressing GNG.
+Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxaloacetate (OAA) using ATP and bicarbonate. PC requires biotin as a covalently bound cofactor and acetyl-CoA as a potent allosteric activator. Acetyl-CoA signals a high-energy, low-carbohydrate state (e.g., beta-oxidation of [[adenosine-triphosphate-and-cellular-energy]] and suppressing GNG.
 - **Fructose-2,6-bisphosphate (F2,6BP)** is the most potent regulator of the FBPase-1/PFK-1 pair: it activates PFK-1 and inhibits FBPase-1, strongly suppressing GNG.
 - **ATP and citrate** activate FBPase-1, promoting GNG when energy is abundant.
 
@@ -140,9 +94,5 @@ Impaired gluconeogenesis contributes to hypoglycemia in multiple clinical settin
 
 ## Evolutionary Conservation
 
-Gluconeogenesis is an ancient, evolutionarily conserved pathway present in virtually all life forms — bacteria, plants, fungi, [[permaculture-interaction-of-plants-and-animals]]. The fundamental enzymatic steps are remarkably preserved across species, reflecting the essential nature of glucose homeostasis. [[diffusion-osmosis-and-active-transport-in-plants]], GNG is critical for [[seed-germination-techniques-solomon]] (converting stored lipids and proteins to sugars) and the synthesis of cell wall components. In C4 and CAM plants, specialized GNG pathways contribute to carbon concentration mechanisms for photosynthesis. The conservation of the key bypass enzymes (PC, PEPCK, FBPase, G6Pase) across all domains of life underscores their early evolutionary origin and fundamental metabolic importance.
-## Related Topics
-
-- [[glycolysis-embden-meyerhof-parnas-pathway]]
-- [[primary-metabolic-precursors-to-the-shikimate-pathway]]
+Gluconeogenesis is an ancient, evolutionarily conserved pathway present in virtually all life forms — bacteria, plants, fungi, [[diffusion-osmosis-and-active-transport-in-plants]], GNG is critical for [[glycolysis-embden-meyerhof-parnas-pathway]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]

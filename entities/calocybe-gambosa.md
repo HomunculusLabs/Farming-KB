@@ -139,12 +139,8 @@ is the key distinguishing character.
 
 Declining across Europe due to agricultural intensification and
 nitrogen deposition. Protected in some jurisdictions.
-
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[boletus-edulis-entity]]
-- [[cantharellus-cibarius-entity]]
 - [[morchella-esculenta]]
-- [[permaculture]]
 - [[ergothioneine]]

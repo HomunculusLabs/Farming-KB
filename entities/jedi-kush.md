@@ -121,13 +121,8 @@ potassium during mid-to-late flowering.
 
 ## See Also
 
-- [[sfv-og]]
 - [[og-kush]]
-- [[hindu-kush]]
 - [[master-kush]]
-- [[chemdawg]]
 - [[afghan-kush]]
-- [[cannabis-blue-dream]]
 - [[purple-kush]]
-- [[bubba-kush]]
 - [[skunk-1]]

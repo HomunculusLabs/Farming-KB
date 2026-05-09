@@ -5,15 +5,7 @@
 Pioneer plants are the first species to colonize disturbed, degraded, or bare
 land. In nature, they appear at the edge between grassland and forest,
 preparing the ground for longer-lived species. Permaculture designers
-deliberately use pioneers to accelerate ecological succession and restore
-damaged landscapes.
-
-## The Ecological Role of Pioneers
-
-The pattern of forest stepping out into grassland is one of the most important
-natural patterns for permaculture designers. On the edge of grassland and
-forest, a set of species exists that we call pioneers. These species perform
-critical ecological functions that make the land habitable for more demanding
+deliberately use pioneers to accelerate [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] manding
 plants.
 
 Pioneers are usually nitrogen fixing, fast growing, and often short lived.
@@ -47,48 +39,19 @@ restoration. The key is to manage them strategically: plant them densely to
 perform their nurse functions, then gradually thin them as the succession
 species mature.
 
-## Key Characteristics of Pioneer Species
-
-Pioneer plants share several adaptive traits that make them effective at
-colonizing difficult sites. Understanding these traits helps the designer
-select the right species for specific conditions.
-
-Rapid growth is the most obvious pioneer trait. Pioneers allocate energy to
-quick height gain and leaf production, racing to capture light before slower
-species can establish. This rapid growth often comes at the cost of short
-lifespan, but the pioneer's job is temporary.
-
-Nitrogen fixation is common among pioneer legumes. By converting atmospheric
-nitrogen into plant-available form, pioneers enrich the soil for the
-heavy-feeding trees and shrubs that will follow. Without this nitrogen input,
-succession on nitrogen-poor sites would be extremely slow.
+## Key Characteristics of [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]].
 
 Drought tolerance allows pioneers to survive on degraded, compacted, or eroded
 soils where water retention is poor. Deep root systems and water-efficient
 metabolism enable them to persist where other species would fail.
 
-Seed abundance ensures that pioneers can colonize new areas rapidly. Many
-produce seeds that remain viable in the soil for years, germinating when
-conditions improve. This seed bank strategy means that disturbed sites often
-regenerate with pioneers without any human intervention.
-
-## Tagasaste ([[chamaecytisus-palmensis]])
+Seed abundance e [[chamaecytisus-palmensis]])
 
 Tagasaste, also called tree lucerne, is a nitrogen fixing legume native to the
 Canary Islands and one of the most useful pioneer species. It grows to 7
 meters and is capable of productive growth in areas of low rainfall (300mm).
 
-Drought tolerance improves with [[phosphorus-availability]], so liberal
-application of rock phosphate at planting time works well. Tagasaste is a fast
-growing, highly productive stock feed with high nutrition levels, low toxicity,
-and high palatability.
-
-Its crude protein content ranges from 17 to 31 percent of dry matter,
-exceeding lucerne, rye grass, and wheat grain. In Western Australia, 50,000
-hectares of mostly marginal farmland have been planted to tagasaste.
-
-To maximize stock feed potential, trees should be trimmed at an early age to
-encourage bushy growth rather than erect form. This keeps foliage accessible
+Drought tolerance improves with [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]] foliage accessible
 to stock and virtually eliminates ring barking.
 
 Well-fenced hedgerows can be constantly grazed. Tagasaste is also valuable as
@@ -147,4 +110,3 @@ challenges. Plan for the transition from pioneer to climax community.
 Ensure succession species are planted before pioneers need removal. Stack
 functions by selecting pioneers that provide multiple yields: fodder, mulch,
 bee forage, timber, and soil building all contribute to system productivity
-while the pioneer performs its primary nurse function.

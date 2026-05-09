@@ -39,8 +39,7 @@ pharmaceutical production of atropine.
 
 ## Chemistry of Deadly Nightshade
 
-The three solanaceous plants Atropa, [[schultes-henbane-hyoscyamus-oracle-delphi]],
-and [[schultes-mandrake-mandragora-officinarum]] contain
+The three solanaceous plants Atropa, [[schultes-mandrake-mandragora-officinarum]] contain
 the same active principles: primarily the alkaloids hyoscyamine,
 atropine, and scopolamine. The difference is only one of relative
 concentration. Belladonna contains little scopolamine, but this
@@ -121,11 +120,6 @@ capable of inducing hallucinations.
 ## Related Nightshade Hallucinogens
 
 Deadly Nightshade belongs to the broader category of
-[[plants-of-the-gods-nightshade-hexing-herbs]] of the
-Solanaceae family. These include [[schultes-datura-holy-flower-north-star]]
-species (Thorn Apple, Toloache), [[schultes-henbane-hyoscyamus-oracle-delphi]]
-(Henbane), [[schultes-mandrake-mandragora-officinarum]]
-(Mandrake), and [[plants-of-the-gods-brugmansia-angels-trumpet]]
-(Angel's Trumpet). All share the tropane alkaloid chemistry that
-produces the characteristic deliriant intoxication. The
-[[schultes-witches-ointments-flying-salves]] were primarily composed of these solanaceous plants.
+[[schultes-datura-holy-flower-north-star]]
+species (Thorn Apple, Toloache), [[schultes-mandrake-mandragora-officinarum]]
+(Mandrake), and [[schultes-witches-ointments-flying-salves]] were primarily composed of these solanaceous plants.

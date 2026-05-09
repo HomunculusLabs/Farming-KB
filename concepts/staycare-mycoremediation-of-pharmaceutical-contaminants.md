@@ -55,20 +55,11 @@ Several classes of pesticides share structural features with pharmaceuticals and
 
 - **Alachlor**: Degrading white rot fungi Ceriporiopsis subvermispora, Phlebia tremellosa, P. chrysosporium showed ~10% degradation, suggesting co-metabolic transformation (Ferry et al., 1994)
 - **Metolachlor**: Co-metabolized by bacteria and fungi, including white rot fungi, with dechlorination to varying extent (Liu, Freyer & Bollag, 1991)
-- **Linuron, isoproturon, diuron**: [[rhizoctonia-solani]] achieved >70% degradation for all three; Bjerkandera adusta and Oxysporus sp. were the most effective micromycete degraders (Vrouwsia et al., 1996; Khadrani et al., 1999)
-- **Propachlor**: Degraded by Aspergillus ustus, [[fusarium-solani]], F. oxysporum, Penicillium sp. and T. viride (Kaufman & Blake, 1973)
+- **Linuron, isoproturon, diuron**: [[fusarium-solani]], F. oxysporum, Penicillium sp. and T. viride (Kaufman & Blake, 1973)
 
 #### Triazine Herbicides
 
-- **Atrazine**: P. chrysosporium produced hydroxylated and/or N-dealkylated metabolites in liquid culture (Mougin et al., 1994); also transformed in contaminated soils (Shelton et al., 1996; Newcombe & Crowley, 1999). Approximately 30% immobilized as bound residue (Hickey, Fuster & Lamar, 1994). Nine [[mycorrhizal-fungi]] demonstrated atrazine degradation through carbon incorporation into tissue (Donnelly et al., 1993).
-
-#### Chlorophenoxyacetate Herbicides
-
-- **2,4-D and 2,4,5-T**: P. chrysosporium degraded the persistent 2,4,5-T in nitrogen-limited liquid cultures and contaminated soil supplemented with corn cob mixture (Ryan & Bumpus, 1989). Mixtures of 2,4-D and 2,4,5-T were degraded at higher rates than individually (Yadav & Reddy, 1993), demonstrating the advantage of broad-spectrum fungal degraders.
-
-#### Fungicides
-
-- **Triadimefon**: Stereospecifically reduced to less fungitoxic triadimenol by T. versicolor, [[botrytis-cinerea]], Cladosporium cucumerinum, and Fusarium culmorum (Deas & Clifford, 1982; Deas, Clark & Carter, 1984)
+- **Atrazine**: P. chrysosporium produced hydroxylated and/or N-dealkylated metabolites in liquid culture (Mougin et al., 1994); also transformed in contaminated soils (Shelton et al., 1996; Newcombe & Crowley, 1999). Approximately 30% immobilized as bound residue (Hickey, Fuster & Lamar, 1994). Nine [[botrytis-cinerea]], Cladosporium cucumerinum, and Fusarium culmorum (Deas & Clifford, 1982; Deas, Clark & Carter, 1984)
 - **Anilazine**: P. chrysosporium aided biodegradation and remobilization in humic soil fractions (Liebich, Buranel & Fuhr, 1999)
 
 ## Mechanisms of Pharmaceutical Transformation
@@ -103,20 +94,10 @@ Mycorrhizal fungi can degrade pharmaceuticals and pesticides through incorporati
 
 ## See Also
 
-- [[mycoremediation-environmental-contaminants]]
-
 - [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-fungal-consortia-for-enhanced-pollutant-removal]]
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-- [[staycare-trametes-versicolor-bioremediation-applications]]
-
-## References
-
-- Deas, A.H.B. & Clifford, D.R. (1982). Stereoselective reduction of the fungicide triadimefon.
-- Donnelly, P.K., Entry, J.A. & Crawford, D.L. (1993). Degradation of herbicides by mycorrhizal fungi.
-- Ferry, J. et al. (1994). Fungal degradation of the herbicide alachlor.
-- Hickey, W.J., Fuster, D. & Lamar, R.T. (1994). Transformation of atrazine in soil by [[phanerochaete-chrysosporium]].
-- Hoff, T., Liu, S.Y. & Bollag, J.M. (1985). Polymerization of chloroanilines by laccase of [[trametes-versicolor]].
+- [[phanerochaete-chrysosporium]].
+- Hoff, T., Liu, S.Y. & Bollag, J.M. (1985). Polymerization of chloroanilines by laccase of [[trametes-versicolor-entity]].
 - Khadrani, A. et al. (1999). Degradation of phenylurea herbicides by micromycetes.
 - Maloney, S.E. Chapter 8: Pesticide degradation by fungi. In Staycare.
 - Mougin, C. et al. (1994). Biotransformation of atrazine by Phanerochaete chrysosporium.

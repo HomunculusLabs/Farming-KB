@@ -104,8 +104,6 @@ McKenna self-identified as an "explorer rather than a scientist," adopting a Bac
 
 ## See Also
 
-- [[tryptamine-consciousness-theory]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- [[dmt-black-hole-effect-and-shamanic-practice]]
 - [[mckenna-shamanic-meme]]
 - [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]

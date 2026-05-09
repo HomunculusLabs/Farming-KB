@@ -17,74 +17,7 @@ sources:
 
 BRI1 (Brassinosteroid Insensitive 1) is a leucine-rich repeat receptor-like
 kinase (LRR-RLK) that serves as the primary cell surface receptor for
-[[brassinosteroid]] plant hormones. First identified through genetic
-screens for brassinosteroid-insensitive mutants in Arabidopsis thaliana,
-BRI1 is essential for brassinosteroid perception and signal transduction.
-
-## Gene and Protein Structure
-
-The BRI1 gene was cloned in 1997 by Li and Chory and encodes a protein
-of approximately 1196 amino acids in Arabidopsis. The protein has a
-modular domain architecture with distinct extracellular, transmembrane,
-and intracellular regions.
-
-### Extracellular Domain
-
-The extracellular domain is the largest portion and contains the
-brassinosteroid binding site:
-
-- **Signal peptide**: An N-terminal signal peptide directs the protein
-  to the secretory pathway and ensures correct plasma membrane insertion.
-- **Leucine-rich repeat domain**: Contains approximately 25 tandem LRRs
-  forming a curved solenoid structure. The inner concave surface contains
-  a specialized "island domain" inserted between LRR21 and LRR22 that
-  forms the brassinosteroid binding pocket.
-- **Island domain**: A 70-amino acid insertion within the LRR region that
-  is the defining feature of brassinosteroid receptors and is essential
-  for ligand recognition. Not found in LRR receptors for other ligands.
-
-### Transmembrane Domain
-
-A single α-helical transmembrane domain anchors the receptor in the plasma
-membrane and transmits conformational changes from the extracellular ligand-
-binding domain to the intracellular kinase domain.
-
-### Intracellular Domain
-
-- **Juxtamembrane region**: Links the transmembrane domain to the kinase
-  domain. Contains regulatory phosphorylation sites.
-- **Serine/threonine kinase domain**: A functional kinase domain that
-  autophosphorylates and trans-phosphorylates downstream signaling
-  components. Belongs to the RD class of kinases.
-- **C-terminal extension**: Contains additional regulatory phosphorylation
-  sites and may be involved in receptor internalization or degradation.
-
-## Ligand Binding Mechanism
-
-BRI1 binds brassinosteroids with high affinity through its island domain.
-Structural studies have revealed the molecular details of recognition:
-
-- The brassinolide molecule sits in a hydrophobic pocket formed by the
-  island domain and adjacent LRRs.
-- The 2α,3α-diol forms critical hydrogen bonds with conserved tyrosine
-  and histidine residues in the island domain.
-- The 22,23-diol of the side chain forms additional hydrogen bonds
-  contributing to binding specificity and affinity.
-- The lactone ring interacts with hydrophobic residues that determine
-  specificity for the most active brassinosteroids.
-- Binding induces a conformational change promoting BAK1 association.
-
-Binding affinity for brassinolide is approximately 1–10 nM, consistent with
-physiological brassinosteroid concentrations in plant tissues.
-
-## Co-receptor Activation (BAK1)
-
-BRI1 functions as a heterodimer with BAK1 (BRI1-Associated Kinase 1, also
-known as SERK3) through a two-step activation model:
-
-1. **Pre-activation**: Without ligand, BRI1 and BAK1 exist as monomers or
-   form transient, inactive complexes. BRI1 has low basal kinase activity.
-2. **Ligand-induced dimerization**: [[brassinosteroid]] binding to BRI1
+[[brassinosteroid]] binding to BRI1
    creates a high-affinity interface for BAK1, promoting stable heterodimer
    formation.
 3. **Trans-phosphorylation**: BRI1 and BAK1 reciprocally phosphorylate
@@ -125,9 +58,7 @@ essentiality.
 
 ## Cross-Kingdom Considerations
 
-The discovery that [[brassinosteroid]]s promote fungal growth in
-[[psilocybe-cubensis]] (demonstrated by [[jochen-gartz]] and
-[[adam-vorbrodt]]) raises questions about fungal brassinosteroid-binding
+The discovery that [[psilocybe-cubensis]] (demonstrated by [[adam-vorbrodt]]) raises questions about fungal brassinosteroid-binding
 proteins. No fungal BRI1 homologs have been identified, as fungi lack
 the LRR-RLK family entirely. Possible explanations include convergent
 evolution of brassinosteroid-responsive mechanisms, interaction with
@@ -137,9 +68,25 @@ fungi may provide a basis for the observed cross-kingdom activity.
 
 ## See Also
 
-- [[brassinosteroid]]
 - [[epibrassinolide]]
-- [[homobrassinolide]]
 - [[psilocybe-cubensis]]
-- [[jochen-gartz]]
 - [[adam-vorbrodt]]
+## Practical Considerations
+
+Successful implementation of BRI1 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

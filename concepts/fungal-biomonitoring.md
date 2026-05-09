@@ -3,7 +3,7 @@ title: Fungal Biomonitoring
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Biomonitoring
@@ -94,10 +94,5 @@ Microscopical analyses of phototrophic epilithic microbial communities from the 
 
 A persistent challenge in fungal biomonitoring is the reliance on morphological and physiological identification of cultivable species, which will never elucidate the inherent complexities of community dynamics. The majority of environmental species are refractory to laboratory cultivation, including biotrophs (rust and smut fungi), many basidiomycetes, arbuscular endomycorrhizas (Glomerales), and rock-dwelling fungi with low metabolic activity (Thorn et al., 1996; Sterflinger et al., 1998). This has led to systematic underestimation of fungal community complexity and diversity. DNA-based characterization techniques are becoming increasingly important for addressing these limitations, although bias in nucleic acid extraction yields remains a problem because lysis efficiency may vary between different species and between spores and mycelia (Prosser, 2002).
 
-## See also: [[fungal-community-ecology]], [[fungal-ecology]], [[fungal-role-in-nitrogen-cycling]], [[fungal-biogeochemistry]], [[fungal-weathering-rocks-minerals]]
-
-## Related
-
-- [[fungal-chromogens-and-color-change]]
-- [[fungal-stress-responses]]
+## See also: [[fungal-ecology]], [[fungal-biogeochemistry]], [[fungal-chromogens-and-color-change]]
 - [[fungal-sensitivity-testing-identification]]

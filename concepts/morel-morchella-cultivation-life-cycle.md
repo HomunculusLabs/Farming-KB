@@ -83,25 +83,8 @@ Sclerotia can be dried to the point of flammability without losing viability. Up
 rehydration, cells swell and spring to life, transforming into a mushroom fruiting body
 or a new mycelial network. Morel mycelium produces sclerotia naturally on peat moss,
 sand, and straw. Other sclerotia-forming species include *Collybia tuberosa*, *Conocybe
-cyanopus*, *Psilocybe mexicana*, *P. tampanensis*, *Polyporus umbellatus*, *Pleurotus
-tuber-regium*, and *Poria cocos*.
-
-### Asexual Phase
-
-The Morel also reproduces asexually via sterile cells on short hyphal branches,
-oidia-like in appearance. These form a powdery mildew growth classified as *Costantinella
-cristata* (Constantin, 1936), now recognized as the anamorphic stage of *Morchella*.
-
-## History of Indoor Cultivation
-
-The first successful controlled indoor cultivation of Morels was achieved by **Ron
-Ower** in 1982. His discovery was partly accidental, influenced by prior experience
-growing *Psilocybe* species and Stamets' casing formula from the 1978 book *Psilocybin
-Mushrooms of the World*. Ower was awarded patents jointly with G. Mills.
-
-## Stamets' Outdoor Method
-
-Paul Stamets developed an outdoor cultivation approach leveraging natural environmental
+cyanopus*, *[[polyporus-umbellatus]]*, *Pleurotus
+tuber-regium*, and *[[paul-stamets]] developed an outdoor cultivation approach leveraging natural environmental
 cycles:
 
 1. Disperse *M. angusticeps* mycelium into outdoor burn-sites
@@ -126,6 +109,5 @@ mushrooms, making cultivation work a sensory reward even before fruiting occurs.
 
 ## See Also
 
-- [[sclerotia-cultivation]] — Related sclerotia-based cultivation methods
-- [[comparison-morel-vs-chanterelle]] — Comparison of prized wild edible mushrooms
+- [[morchella-elata]] — Comparison of prized wild edible mushrooms
 - [[morchella-elata]] — Morchella species profile

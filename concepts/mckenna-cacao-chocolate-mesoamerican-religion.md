@@ -130,9 +130,6 @@ imperial expansion.
 
 ## See Also
 
-- [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-sugar-slavery-and-dominance]]
-- [[mckenna-food-gods-mesoamerican-mushrooms]]
 - [[mckenna-caffeine-coffee-and-industrial-revolution]]
-- [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]

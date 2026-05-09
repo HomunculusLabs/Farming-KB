@@ -25,41 +25,6 @@ approaches.
 
 ## Mulch
 
-[[mulch-types-and-effects]]
-
-Conventional mulch encompasses a broad category of dead organic materials 
-applied
-as a surface layer 2 to 3 inches deep, ranging from green grass clippings to
-woody bark chips, straw, shredded leaves, and composted materials. Its primary
-mechanisms are physical: blocking light to suppress weed germination, reducing
-evaporative moisture loss from the soil surface, and moderating soil temperature
-fluctuations between day and night and across seasons. Beyond these mechanical
-benefits, mulch feeds the soil food web as it decomposes, and the choice of
-material allows gardeners to deliberately shift the bacterial-to-fungal ratio of
-their soil biology to match the plants being grown.
-
-Green mulches such as grass clippings, alfalfa meal, and young succulent plant
-material have higher nitrogen content and moisture, favoring rapid bacterial
-colonization. These are well-suited to annual vegetable beds and early 
-succession
-soils where bacterial dominance supports fast-growing crops. Brown mulches
-including autumn leaves, wood chips, shredded bark, and straw have higher lignin
-and lower moisture content, promoting fungal communities that benefit 
-perennials,
-shrubs, and trees. Surface mulch tends to support fungal dominance because
-fungal hyphae can travel from soil up into the mulch layer more easily than
-bacteria can access the surface material.
-
-The key strength of conventional mulch is its immediacy and controllability. A
-thick layer of wood chips can transform a bare, compacted area into a moisture-
-retentive, microbially active surface within hours. Mulch requires no
-establishment period, can be applied at any time of year, and is highly
-versatile in material selection. However, mulch is a consumable input that must
-be replenished as it decomposes, and very thick layers can smother mycorrhizal
-fungi and block air and moisture exchange with the soil beneath.
-
-## Living Mulch
-
 [[living-mulch-systems-guide]]
 
 Living mulch uses actively growing, low-growing plants as permanent ground cover
@@ -141,10 +106,7 @@ during crop establishment to suppress weeds while the living mulch fills in. As
 the living mulch matures and provides adequate ground cover, dead mulch
 applications can be reduced or eliminated. In orchard systems, wood chip mulch
 around tree trunks provides immediate fungal dominance while clover between rows
-provides nitrogen fixation and soil structure improvement.
-
 ## See Also
 
 - [[comparison-living-mulch-vs-cover-crops]]
-- [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-no-till-vs-conventional-tillage]]

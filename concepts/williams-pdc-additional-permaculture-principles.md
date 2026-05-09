@@ -1,7 +1,7 @@
 ---
-title: Additional Permaculture Principles Beyond Holmgren's 12
+title: Williams Pdc Additional Permaculture Principles
 created: 2026-04-28
-tags: [permaculture, principles, stacking-functions, problem-solution,
+tags: [[permaculture, principles, stacking-functions, problem-solution,
       ecology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,9 +10,7 @@ sources:
 type: concept
 ---
 
-# Additional [[permaculture-principles]] Beyond Holmgren's 12
-
-While [[david-holmgren]]'s 12 principles form the core of permaculture
+# Additional [[david-holmgren]]'s 12 principles form the core of permaculture
 design philosophy, several additional principles are widely recognized
 and practiced throughout the permaculture community. These principles
 expand upon Holmgren's framework and provide additional guidance for
@@ -68,61 +66,7 @@ be applied to your whole life:
 
 The point is not the specific suggestions but the representation of
 how this principle can be applied to all aspects of design and life.
-[[permaculture-design]] is about how you design your life habits, and
-your life habits are shaped by your infrastructures.
-
-## Everything is an Ecology
-
-When we use the word "ecology" most people assume the Earth's
-biosphere. The permaculture designer understands that an ecology is a
-system where each element affects and supports each other element,
-creating a dynamic stable system.
-
-Your car is an ecology. Your living room is an ecology. Your
-interactions with friends are an ecology. Your stomach and whole body
-is an ecology. Everything is an ecology. If you mess with one element
-in the system, all other elements are affected.
-
-### Implications for Design
-
-Once you understand the atmospheric cycle, hydro-cycle, nutrient
-cycle, and microclimates, it becomes clear how anything, no matter
-how innocuous seeming, has a continuous effect on the ecology of the
-Earth's biosphere. Each micro-ecology affects every element of the
-Earth.
-
-If everything is an ecology, and permaculture design is about
-designing ecologies, then the principles and techniques of permaculture
-can be used to design anything: a house, a car, a living room, a
-relationship with friends, anything.
-
-### Understanding Cycles
-
-Understanding something as an ecology is about understanding its
-cycles, particularly its consumption/excretion cycles. Every system
-takes in resources, transforms them, and outputs byproducts. A good
-design ensures those byproducts become inputs for another element,
-closing the loop.
-
-## Inter-Generational Tyranny
-
-Architect William McDonough coined the phrase "inter-generational
-tyranny," which occurs when people of the current generation build
-infrastructures relying on nonrenewable resources. This is tyranny
-because consuming resources now condemns future generations to live in
-resource scarcity, unable to meet their needs. By valuing and using
-renewable resources, we leave as many resources for future generations
-as we had for ourselves.
-
-## The Triple Bottom Line
-
-The Triple Bottom Line expands the traditional financial bottom line to
-include social and environmental performance. A truly sustainable
-design must be economically viable, socially beneficial, and
-ecologically sound. All three must be satisfied for a design to be
-considered successful in permaculture terms.
-
-## Principle 10: [[use-and-value-renewable-resources]]
+[[use-and-value-renewable-resources]]
 
 The key word is "use" as an imperative. Go out and use renewable
 resources; their value is in their usefulness. It is not ecologically
@@ -143,3 +87,5 @@ maximizes efficiency, the problem is the solution transforms obstacles
 into opportunities, and everything is an ecology expands the scope of
 permaculture thinking to all systems. Together they form a complete
 toolkit for creating regenerative designs.
+
+See also: [[fukuoka-natural-farming-philosophy]]

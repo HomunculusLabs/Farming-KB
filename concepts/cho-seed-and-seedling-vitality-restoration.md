@@ -130,12 +130,8 @@ structure rapidly.
 
 ## See Also
 
-- [[cho-nutritive-cycle-theory]]
 - [[cho-natural-farming-inputs-overview]]
-- [[cho-imo-collection-bamboo-stump-and-paddy-field]]
 - [[cho-fermented-plant-juice-preparation]]
-- [[cho-oriental-herbal-nutrient-preparation]]
 - [[cho-brown-rice-vinegar-preparation]]
-- [[cho-lactic-acid-bacteria-preparation]]
 - [[cho-fish-amino-acid-preparation]]
 - [[natural-farming]]

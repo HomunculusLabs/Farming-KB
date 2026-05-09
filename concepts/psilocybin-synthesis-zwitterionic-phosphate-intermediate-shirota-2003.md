@@ -138,7 +138,5 @@ This compound was formed by treating the acetyl-protected indole with oxalyl chl
 ## See Also
 
 - [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 - [[shirota-psilocin-psilocybin-synthesis]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]

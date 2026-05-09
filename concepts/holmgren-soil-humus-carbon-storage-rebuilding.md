@@ -26,119 +26,88 @@ human civilisation.
 
 Soil is the most important storage for nutrients in temperate climates. Humus
 increases the capacity of soils to store mineral nutrients, water, and carbon.
-The veneration of humus in the organic, biodynamic, and [[holmgren-living-soil-ethic]]
-movements reflects deep ecological wisdom, though in the wet tropics, natural
-systems rely more on nutrient storage in living plants, especially long-lived trees.
-
-The storage of mineral nutrients in both soil humus and living plants is
-co-dependent on the primary storages of organic carbon produced by photosynthesis
-in green plants. Ecosystems with actively growing plants can accumulate several
-tonnes of carbon per hectare every year. Trees are especially significant as carbon
-stores because of their ability to keep accumulating carbon as wood for hundreds
--- even thousands -- of years.
-
-## Carbon in Human Systems
-
-For humankind, the storage of carbon in living plants and soil humus is much more
-than disposal of unwanted atmospheric carbon dioxide. Carbon in staple food crops
-provides body fuel needs and is literally "the staff of life". But the small
-quantities of carbon in human food are minor compared to the larger quantities of
-carbon in fibrous fodder plants that sustain grazing animals, which in turn provide
-protein-rich foods, wool, and horsepower.
-
-Particular forms of cellulose and lignin from plants provide materials for fabrics,
-paper, ropes, and the myriad diversity of timber for every imaginable use. Perhaps
-most important to the post-fossil fuel age, plants and trees provide renewable fuel
-for cooking, heating, smelting, and other tasks. Timber and fuel forests can grow
-on marginal soils which lack the depth, structure, or fertility to support human
-food crops.
-
-## The Burning of Young Coal
-
-We have burnt nearly half the world's fossil carbon in oil and somewhat less of
-the coal. Simultaneously, we have "burnt" over half the soil carbon in the world's
-farmlands. This invisible burning of "young coal" has been caused by ploughing
-that inverts the soil and the use of artificial soluble fertilisers. These
-accelerate losses created from export without recycling of organic material from
-farmland.
-
-Wes Jackson of the Land Institute in Kansas referred to the loss of ancient humus
-from American prairie cropping soils as "the mining of young coal" -- a phrase
-that captures both the enormity and the irreversibility of what industrial
-agriculture has accomplished.
-
-## Building Soil Organic Matter
-
-Mainstream agricultural research now recognises the loss of organic matter from
-cropping soils as one of the greatest threats to agricultural sustainability.
-The problem of how to describe, measure, and value differing forms of soil organic
-matter leads to much confusion. Most soil-testing laboratories measure Total
-Organic Matter rather than attempting to distinguish differing forms and their
-relative age and turnover time.
-
-Soils with a build-up of partially decomposed mulch and compost may indicate a
-mineral imbalance. Soils that have no visible compost layer but are very dark
-and well structured may have a high humus content, reflecting past "digestion" of
-large amounts of organic matter. Where supplies of organic materials are abundant,
-a favourable mineral balance and microbial population are the critical factors
-that enable soils to digest organic matter.
-
-## The Humus Balance Problem
-
-Agricultural crop waste, especially grain straw, could theoretically provide a
-huge renewable source of carbon for fuel and fibreboard products. Although such
-schemes might be preferable to burning grain stubble, they amount to "robbing
-Peter to pay Paul". To maintain, let alone increase, the level of soil humus,
-cropland everywhere needs full recycling of crop waste, either through grazing
-animals or directly by soil microbes, or both.
-
-The example of north Germany is illustrative: grain straw is burnt in
-high-efficiency furnaces to heat buildings as "renewable energy" replacing fossil
-fuel. Traditionally this straw would have been used as feed and bedding for
-livestock, with the resulting compost returned to fields in spring, maintaining
-humus content and fertility. Today, slurry washings stored in tanks and sprayed
-onto fields provide some organic matter but not enough to maintain soil humus or
-prevent leaching of nutrients into groundwater.
-
-## Methods for Rebuilding Humus
-
-Holmgren outlines several practical methods for rebuilding agricultural soil
-humus levels:
-
-- Return all organic wastes to productive garden and agricultural soils
-- Eliminate intensive forms of livestock husbandry or factory farming, which
-  consume excessive fossil fuels and reduce soil humus
-- Provide for reduced meat consumption in rich countries from conservative
-  management of natural rangelands and extensive management of grazing animals
-  to build soil humus through perennial pastures
-- Use rotations of leguminous pastures to build arable soil humus rather than
-  continuous cropping supported by herbicides
-- Replace soluble fertilisers aimed at crop feeding with rock mineral
-  fertilisers and coal humus for soil feeding
-- Establish large-scale tree systems as an integral part of all farm landscapes
-
-## Soil Humus as Carbon Sink
-
-Alan Yeomans, manufacturer of the Yeomans soil-conditioning plough, has argued
-that loss of humus from agricultural soils is as large a contributor to greenhouse
-gas emissions as motor cars, and that achievable increases in humus across the
-world's farming soils could reabsorb the whole of the damaging imbalance of
-carbon dioxide in the atmosphere.
-
-The greenhouse issue gives us another good reason to get on with the job of
-rebuilding the natural capital of soil humus as essential for humanity's survival
-in the post-fossil fuel era. When the earth beneath our feet is less like a dead
-concrete slab and more like a dark, moist living sponge, then we know we are on
-the right track.
-
-## The Catch-and-Store Framework
-
-Rebuilding soil humus fits within the broader [[holmgren-catch-and-store-energy-detailed]]
+The veneration of humus in the organic, biodynamic, and [[holmgren-catch-and-store-energy-detailed]]
 framework. The key landscape storages of natural capital are grouped under four
 broad headings: water, living soil, trees, and seed. Each represents a strategy
 for catching and storing energy in forms that will be available to future
-generations during [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].
-
-See also: [[holmgren-mineral-fertilizers-soil-building]],
-[[holmgren-living-soil-ethic]], [[holmgren-trees-nature-solar-power-plants]],
+generations during [[holmgren-mineral-fertilizers-soil-building]],
+[[holmgren-trees-nature-solar-power-plants]],
 [[holmgren-renewable-resources-detailed]]
+## Practical Applications
+
+Soil Humus as Carbon Storage and Rebuilding Natural Capital has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Soil Humus as Carbon Storage and Rebuilding Natural Capital. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

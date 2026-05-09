@@ -129,7 +129,6 @@ represented an important data point in the lysergamide series.
 
 Modern interest has resurfaced alongside the broader research chemical movement, though
 it remains far less common than LSD, 1P-LSD, ALD-52, or ETH-LAD.
-
 ## Related Compounds
 
 - **LSD (Lysergic acid diethylamide):** Parent compound; more potent and widely studied
@@ -140,11 +139,7 @@ it remains far less common than LSD, 1P-LSD, ALD-52, or ETH-LAD.
 
 ## See Also
 
-- [[lsd]]
 - [[1p-lsd]]
-- [[ald-52]]
 - [[eth-lad-entity-tihkal]]
-- [[psilocybin-compound]]
 - [[mescaline-entity]]
-- [[dimethyltryptamine]]
 - [[ergotamine]]

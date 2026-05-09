@@ -126,9 +126,7 @@ processes coupled with biological treatment.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-degradation-dyes]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]
 
 - fungal biofilm reactors wastewater treatment

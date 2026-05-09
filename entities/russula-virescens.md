@@ -97,8 +97,7 @@ confused with:
   has a volva (cup at base), a ring on the stem, and white gills that are always
   free (not adnexed). Any green mushroom collected for the table must be checked
   carefully for volval remains.
-- ***Chlorophyllum molybdites* (green-spored parasol):** Much larger, with a
-  greenish cap that does not crack; gills turn green at maturity; spore print is
+- ***[[spore-print]] is
   green (not white). Causes severe gastrointestinal poisoning.
 
 ## Ecological Significance
@@ -122,7 +121,5 @@ identified in confirmed *R. virescens* specimens.
 
 ## See Also
 
-- [[russula-emetica]] — acrid red russula for contrast
 - [[boletus-edulis-entity]] — porcini, another prized ectomycorrhizal edible
-- [[cantharellus-cibarius-entity]] — chanterelle, often found in the same habitat
 - [[amanita-phalloides]] — death cap, the critical lookalike to distinguish

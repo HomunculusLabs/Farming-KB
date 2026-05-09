@@ -17,15 +17,7 @@ type: concept
 # Holzer High Beds as Property Boundaries
 
 A large property usually needs wind and noise protection, as well as a screen
-for privacy. The [[holzer-raised-bed-techniques-hugelkultur]] serves all these
-functions simultaneously while also creating multiple microclimates and more
-than doubling the area available for cultivation.
-
-## Construction Principles
-
-Soil is banked up to 3 metres high all around the property perimeter. The
-high bed is shaped like a dam with two terraces in step formation. Unlike a
-[[holzer-crater-gardens-hugelkultur]], the centre is made of soil
+for privacy. The [[holzer-crater-gardens-hugelkultur]], the centre is made of soil
 rather than being filled with biomass. This distinction is important because
 the high bed must retain its shape and structural integrity as a boundary
 feature.
@@ -108,15 +100,7 @@ protection against some insects and diseases.
 
 ## Earthworm Integration
 
-The [[holzer-earthworm-breeding-soil-helpers]] is the best helper
-in the garden. Place a flat rock in a bed and water will condensate
-underneath, attracting worms and woodlice that increase humus production.
-
-## Connection to Other Elements
-
-The excavated area left from building the high bed becomes a naturally
-protected, warm, moist hollow. If deep enough and near groundwater, it can
-become a lake. Combined with [[holzer-crater-gardens-hugelkultur]] within the property, the high bed boundary creates a comprehensive
+The [[holzer-crater-gardens-hugelkultur]] within the property, the high bed boundary creates a comprehensive
 perimeter system of diverse growing environments.
 
 ## Neighbourhood Cooperation
@@ -124,13 +108,6 @@ perimeter system of diverse growing environments.
 A boundary high bed is most effective when neighbours collaborate. A digger
 can be rented collectively and both sides of the high bed used. The
 property boundary can run along the top of the high bed, marked by a row of
-fruit trees. This cooperative approach mirrors [[holzer-ten-step-plan-world-hunger]] of community-based
-agricultural transformation.
-
-## Related Concepts
-
-- [[sepp-holzer-permaculture-and-rebel-farming]] - Raised bed design principles
-- [[holzer-crater-gardens-hugelkultur]] - Crater gardens and hugelkultur
+fruit trees. This cooperative approach mirrors [[sepp-holzer-terrace-systems-and-raised-beds]] - Raised bed design principles
 - [[holzer-microclimate-creation]] - Microclimate creation techniques
-- [[holzer-terrace-systems]] - Terrace systems for slopes
 - [[contour-line-water-management]] - Contour-based water management

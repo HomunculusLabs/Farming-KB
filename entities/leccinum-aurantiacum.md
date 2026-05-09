@@ -99,25 +99,13 @@ The species bioaccumulates heavy metals from soil, particularly lead and cadmium
 
 ## See Also
 
-- [[leccinum-scabrum]]
 - [[boletus-edulis-entity]]
-- [[suillus-luteus]]
 - [[suillus-grevillei]]
-- [[xerocomellus-chrysenteron]]
-- [[amanita-muscaria]]
-- [[lactarius-deliciosus]]
+- [[amanita-muscaria-entity]]
 - [[russula-vesca]]
-- [[cantharellus-cibarius-entity]]
 - [[piptoporus-betulinus]]
-- [[mycorrhiza]]
 - [[mycorrhizal-fungi]]
-- [[ectomycorrhiza]]
-- mushroom
-- foraging
 - [[ergosterol]]
-- [[food-forest]]
-- polypore
 - [[cantharellus-cinnabarinus]]
-- [[trametes-versicolor]]
-- [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]
 - [[mycoremediation]]

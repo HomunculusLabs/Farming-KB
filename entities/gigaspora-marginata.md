@@ -60,16 +60,7 @@ The genus *Gigaspora* is characterized by its large spores formed at the tips of
 
 *Gigaspora marginata* has been studied using stable isotope techniques to understand its ecological role:
 
-- **Nitrogen Isotopes (d15N):** AM fungi exhibit distinct d15N signatures that differ from both saprotrophic and [[ectomycorrhizal-fungi]]. The d15N values of *Gigaspora* and other AM fungi provide information about their nitrogen sources and cycling pathways in soil
-- **Carbon Isotopes (d13C):** d13C values can reveal information about the carbon sources and metabolic pathways of AM fungi. Stable isotope studies help distinguish between AM fungi and other functional groups of soil fungi in food web analyses
-- **Ecosystem Studies:** Stable isotope probing (SIP) techniques have been used to track the flow of carbon and nitrogen through AM fungal mycelial networks and into host plants and soil pools
-
-## Ecological Significance
-
-*Gigaspora marginata* contributes to several important ecosystem processes:
-
-- **Plant Diversity:** AM fungal communities, including *Gigaspora* species, can influence plant species coexistence and community diversity through differential effects on plant growth
-- **Soil Structure:** The extensive hyphal network of *Gigaspora* species contributes to soil aggregation through physical binding of soil particles and production of [[glomalin-and-soil-carbon]]-related soil proteins
+- **Nitrogen Isotopes (d15N):** AM fungi exhibit distinct d15N signatures that differ from both saprotrophic and [[glomalin-and-soil-carbon]]-related soil proteins
 - **Nutrient Cycling:** By facilitating phosphorus and nitrogen uptake, *G. marginata* plays a role in the cycling of these limiting nutrients in terrestrial ecosystems
 - **Plant Community Dynamics:** Different AM fungal species can differentially affect plant growth, potentially influencing competitive outcomes between plant species and shaping plant community composition
 - **Carbon Sequestration:** AM fungi contribute to long-term carbon sequestration in soils through the production of recalcitrant compounds (glomalin) and hyphal residues
@@ -124,7 +115,6 @@ Specialized techniques are required for studying *Gigaspora marginata*:
 
 ## See Also
 
-- [[glomus-intraradices]]
 - [[glomus-mosseae]]
 - [[glomus-versiforme]]
 - arbuscular-mycorrhizas

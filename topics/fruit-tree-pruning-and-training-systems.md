@@ -316,7 +316,7 @@ A modern training system that combines elements of espalier and spindle. Branche
 
 - Sterilize tools between trees with 70% isopropyl alcohol or a 10% bleach solution (1 part bleach to 9 parts water)
 - Remove and destroy diseased wood (fire blight strikes, cankers, black knot) immediately
-- Do not prune in wet weather when bacterial and fungal spores are actively dispersing
+- Do not prune in wet weather when bacterial and [[fungal-spores]] are actively dispersing
 - Paint or seal pruning cuts is generally **not recommended** — trees compartmentalize wounds best when left to their own defenses (exceptions: oak wilt-prone areas, large cuts on susceptible species)
 
 ## Common Mistakes
@@ -377,7 +377,7 @@ In permaculture food forests and orchard guilds, pruning can be lighter and more
 
 ## See Also
 
-- [[chestnut-cultivation-and-restoration|Chestnut Cultivation and Restoration]]
-- [[fruit-tree-care-and-orchard-management|Fruit Tree Care and Orchard Management]]
-- [[forest-gardening-and-food-forests|Forest Gardening and Food Forests]]
-- [[companion-planting-and-polycultures|Companion Planting and Polycultures]]
+- [[chestnut-cultivation-and-restoration]]
+- [[fruit-tree-care-and-orchard-management]]
+- [[forest-gardening-and-food-forests]]
+- [[companion-planting-and-polycultures]]

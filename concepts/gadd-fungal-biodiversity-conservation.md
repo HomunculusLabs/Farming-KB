@@ -76,21 +76,13 @@ Sequestrate (truffle-like) fungi are particularly important for conservation att
 
 ## See Also
 
-- [[fungal-biodiversity-forest-ecosystems]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[biodiversity-fungi-endophytes-tropical-plants]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 
-- [[alpha-beta-gamma-diversity-fungi]]
 - [[fungal-biodiversity-conservation-status]]
-- [[fungal-biodiversity-by-ecosystem]]
 - [[fungal-biodiversity-biogeography]]
-- [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-biodiversity-forest-ecosystems]]
-- [[fungal-biodiversity-forest-floor]]
 - [[fungal-biodiversity-grassland]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-biodiversity-in-soil-ecosystems]]
-- [[mycelium-running-conservation-biology-and-fungi]]
 - [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-extremophiles]]

@@ -3,7 +3,7 @@ title: Duck Pond Systems
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, ducks, water-management]
+tags: [[permaculture, ducks, water-management]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -87,11 +87,7 @@ The development of lawns traces back to short-cropped vistas created by geese an
 
 ## Related Topics
 
-- [[permaculture-designers-manual-aquatic-plants]] - Water plants for pond systems
 - [[permaculture-designers-manual-chinampa-systems]] - Integrated water-garden systems
-- [[permaculture-designers-manual-dam-construction]] - Earthworks for pond creation
 - [[permaculture-designers-manual-animal-forage-systems]] - Forage design for livestock
-- [[permaculture-designers-manual-bioregional-planning]] - Zone and sector planning
 - [[permaculture-designers-manual-aquaculture-species]]
-- [[permaculture-designers-manual-grazing-animals]]
 - [[permaculture-designers-manual-animal-housing-detailed]]

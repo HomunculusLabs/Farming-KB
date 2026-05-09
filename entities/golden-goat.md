@@ -107,15 +107,10 @@ Less common effects include mild anxiety or paranoia at high doses, especially i
 ## See Also
 
 - island sweet skunk
-- [[skunk-1]]
 - [[girl-scout-cookies]]
-- [[sour-diesel]]
 - [[jack-herer]]
-- [[super-lemon-haze]]
 - [[myrcene]]
-- [[pinene]]
 - [[humulene]]
-- [[caryophyllene-oxide]]
-- [[tangie-cannabis]]
+- caryophyllene-oxide
 - [[beta-caryophyllene]]
 - [[linalool]]

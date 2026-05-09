@@ -1,20 +1,6 @@
-# [[cannabis-anointing-oil]] and Blessing Rituals
+# [[turner-brief-history-psychedelics-ancient-to-modern]] neopagan ceremonies, cannabis has served as a sacrament believed to open spiritual gateways and facilitate connection [[marijuana-magick-historical-witches-and-cannabis]] describes several specific rituals involving [[gaian-psychotherapy-and-entheogenic-plants]] used in spiritual practice.
 
-The use of cannabis-infused oils in spiritual and healing rituals spans many cultures and traditions.
-
-From ancient anointing practices [[turner-brief-history-psychedelics-ancient-to-modern]] neopagan ceremonies, cannabis has served as a sacrament believed to open spiritual gateways and facilitate connection [[marijuana-magick-cannabis-sacred-spatial-preparation]]
-
-The practitioner's guide to [[marijuana-magick-historical-witches-and-cannabis]] describes several specific rituals involving [[cannabis-oil-capsules-preparation]], each designed for a particular purpose: healing, blessing, and spiritual transformagaian-psychotherapy-and-entheogenic-plantsamental Role of Cannabis
-
-Cannabis occupies a unique position among [[gaian-psychotherapy-and-entheogenic-plants]] used in spiritual practice.
-
-Unlike many [[cultural-evolution-and-psychoactive-substances]] used ceremonially, cannabis is a gentle, widely available herb that has been integrated into daily life as well as special occasions across numerous cultures.
-
-In Rastafarianism, cannabis (referred to as ganja) is considered a holy sacrament used in reasoning sessions and religious ceremonies.
-
-Evidence suggests cannabis may have played a role in early Christian practices as well, possibly as an ingredient in sacred anointing oils.
-
-The perspective of the practitioner tradition holds that any substance, used responsibly and intentionally, can have a role in [[fukuoka-do-nothing-farming-and-spiritual-life]].
+Unlike many [[fukuoka-do-nothing-farming-and-spiritual-life]].
 
 Just as wine serves a sacred function in Christian communion, and peyote and ayahuasca serve ceremonial roles in Native American traditions, cannabis can be integrated into worship in a positive and healthy manner.
 

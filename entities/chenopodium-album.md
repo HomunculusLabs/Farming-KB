@@ -137,10 +137,6 @@ Not commercially cultivated at scale but easily grown: direct seed in spring (ge
 
 ## See Also
 
-- [[linum-album-piriformospora-indica-co-culture-system]]
-
-- amaranthus — Amaranth, a related and culturally significant genus
 - [[taraxacum-officinale]] — Dandelion, another dynamic accumulator and edible weed
-- [[urtica-dioica]] — Stinging nettle, complementary dynamic accumulator
 - [[permaculture]] — Permaculture design principles
 - [[beta-glucans]] — Polysaccharides found in related species

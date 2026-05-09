@@ -3,7 +3,7 @@ title: Fungal Chlamydospore Formation and Survival
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -117,11 +117,7 @@ Their production requires less carbon and energy investment than sclerotium form
 
 ## Related Concepts
 
-- [[fungal-sclerotia-and-resting-structures]]
 - [[fungal-conidia-and-spore-types]]
-- [[fungal-spore-biology]]
 - [[fungal-melanin-in-ecology-and-stress-protection]]
-- [[fungal-stress-responses]]
 - [[fungal-communities-succession]]
-- [[the-soil-food-web]]
 - [[fungal-ecosystem-processes-overview]]

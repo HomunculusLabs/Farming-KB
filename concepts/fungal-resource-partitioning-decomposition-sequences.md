@@ -18,22 +18,8 @@ type: concept
 
 Fungi function as primary, secondary, and tertiary decomposers in the
 often complex process of degrading mollison designers humus. The sequence of
-fungal species appearing during [[decomposition]] reflects resource
-partitioning based on the types of substrata, carbohydrates, cellulose,
-and lignins used by each species. Competition from other organisms and
-availability of specific nutrients and substrates may modify the strict
-linear progression of decomposition succession. This process is a key
-component of the [[biodiversity-of-fungi-decomposition-nutrient-cycling]] and connects
-to the broader [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
-
-## Decomposition as a Multi-Stage Process
-
-Decomposition of organic matter by fungi is not a single event but a
-complex, multi-stage process involving sequential waves of fungal
-species. In the total litter and humus of a forest, including woody
-debris and dead roots, basidiomycetes accounted for approximately 60%
-of the total living microbial biomass, underscoring their dominant
-role in decomposition. For broader context on [[biodiversity-fungi-soil-ecosystems]], see that page. The decomposition sequence follows a general
+fungal species appearing during [[biodiversity-of-fungi-decomposition-nutrient-cycling]] and connects
+to the broader [[biodiversity-fungi-soil-ecosystems]], see that page. The decomposition sequence follows a general
 pattern:
 
 ### Primary Colonizers
@@ -115,19 +101,7 @@ with taxa introduced by the agricultural process.
 
 ### Hyphal Interference
 
-A phenomenon termed hyphal interference occurs when the [[mycelium]] of
-one fungus, growing either close to (within 50 mm) or in contact with
-that of another species, reduces the growth rate and causes cytoplasmic
-disruption of the second fungus. Electron microscopy studies have
-revealed vacuolation, or an abundance of lipid droplets and
-invaginations of the host plasmalemma at the point of contact. This
-localized phenomenon usually has been observed only in dual culture in
-vitro but is believed to occur in nature.
-
-### Antibiotic Production
-
-Some fungi produce diffusible antibiotics that restrict the growth of
-competing and faster-growing species. [[trichoderma]] species exhibit
+A phenomenon termed hyphal interference occurs when the [[trichoderma]] species exhibit
 various modes of interspecific interaction mediated by volatile and
 nonvolatile metabolites. Members of the Chaetomiaceae and
 Sporormiaceae produce a number of diffusible compounds that may act as

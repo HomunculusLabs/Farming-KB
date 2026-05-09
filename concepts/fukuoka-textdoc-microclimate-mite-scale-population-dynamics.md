@@ -126,9 +126,6 @@ The cottony-cushion scale case is particularly instructive: one introduction of 
 
 ## See Also
 
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-black-wattle-fertilizer-tree-method]]
-- [[fukuoka-natural-pest-balance]]
 - [[fukuoka-pest-management-without-chemicals]]
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-matsutake-artificial-cultivation-attempt]]

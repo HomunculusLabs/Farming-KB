@@ -122,4 +122,4 @@ Prevention through early detection and rapid response remains the most cost-effe
 
 ## See Also
 
-[[robinia-pseudoacacia]] · [[paulownia-tomentosa]] · [[morus-alba]] · [[glycyrrhiza-glabra]] · [[arctium-lappa]] · [[dynamic-accumulators]] · [[permaculture]] · [[companion-planting]] · [[phytoremediation]] · [[alnus-glutinosa]]
+[[paulownia-tomentosa]] · [[glycyrrhiza-glabra]] · [[dynamic-accumulators]] · [[companion-planting]] · [[alnus-glutinosa]]

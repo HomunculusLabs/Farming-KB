@@ -21,24 +21,8 @@ Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 4, 17
 
 ## Introduction
 
-Nitrogen transfer between plants through [[common-mycorrhizal-networks]] (CMNs) is a
-process of fundamental importance in terrestrial ecosystems. Mycorrhizal hyphae
-interconnecting root systems of different plants facilitate direct nitrogen movement
-that bypasses soil pathways, with practical implications for agriculture, forestry,
-and ecological restoration. Related research on [[dighton-mycorrhizal-networks-carbon-transfer]]
-examines the parallel role of [[mycorrhizal-networks]] in moving carbon between plants.
-
-Nitrogen transfer is relevant to global concerns about:
-
-- Nitrogen excess in agricultural systems
-- Nitrogen limitation in natural ecosystems
-- Plant performance in N-limited habitats
-- Seedling establishment during forest succession
-- Species coexistence and community composition
-
-## Common Mycorrhizal Networks
-
-CMNs form when extraradical hyphae from [[mycorrhizal-fungi]] colonizing one plant extend
+Nitrogen transfer between plants through [[dighton-mycorrhizal-networks-carbon-transfer]]
+examines the parallel role of [[mycorrhizal-fungi]] colonizing one plant extend
 and connect to roots of neighboring plants through anastomosis (hyphal fusion).
 
 Network characteristics:
@@ -147,4 +131,7 @@ Limitations of the 15N enrichment method:
 Reciprocal N transfer demonstrated between:
 
 - Non-N2-fixing Eucalyptus maculata and N2-fixing Casuarina cunninghamiana
-- Linked by ectomycorrhizal fungus Pisolithus sp.
+
+## See Also
+
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

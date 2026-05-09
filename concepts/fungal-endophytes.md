@@ -1,7 +1,7 @@
 ---
 title: Fungal Endophytes
 created: 2026-04-28
-tags: [mycology, symbiosis, plant-biology, ecology]
+tags: [[mycology, symbiosis, plant-biology, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -117,10 +117,6 @@ predictable patterns that reflect changing tissue chemistry and vulnerability.
 
 ## See Also
 
-- [[epichloe-typhina]]
-
 - [[fungal-species-estimates]]
-- [[mycorrhizal-networks]]
 - [[bloomfield-fungal-secondary-metabolites]]
-- [[mycorrhizal-symbiosis]]
 - [[fungal-ecology]]

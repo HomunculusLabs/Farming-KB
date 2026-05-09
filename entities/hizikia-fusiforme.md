@@ -104,16 +104,10 @@ Environmental monitoring programs in Japan regularly test wild populations for h
 
 ## See Also
 
-- [[undaria-pinnatifida]]
 - [[saccharina-latissima]]
-- [[laminaria-digitata]]
 - [[sargassum-fusiforme]]
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
-- [[gracilaria-verrucosa]]
 - [[palmaria-palmata]]
-- [[kappaphycus-alvarezii]]
 - [[gelidium-amansii]]
-- [[eucheuma-denticulatum]]
 - [[chlorella-vulgaris]]
 - [[caulerpa-lentillifera]]

@@ -18,15 +18,7 @@ Photoperiod cannabis plants need 18 hours of light and 6 hours of darkness durin
 
 Cannabis is a photoperiodic plant, meaning it uses dark period length as a signal to transition between growth phases.
 
-Understanding [[cannabis-photoperiodism-and-light-cycles]] is fundamental to getting the timing right.
-
-In nature, cannabis flowers when days shorten below approximately 12.5 hours of light in late summer and autumn.
-
-Indoor growers replicate this by manually adjusting their timer settings.
-
-## Vegetative Stage Lighting (18/6)
-
-During the [[cannabis-vegetative-stage]], the standard recommendation is an 18/6 schedule:
+Understanding [[cannabis-vegetative-stage]], the standard recommendation is an 18/6 schedule:
 - 18 hours of light
 - 6 hours of uninterrupted darkness
 
@@ -43,22 +35,6 @@ The dark period allows plants to:
 - Develop stronger cellular structures
 
 ## Vegetative Stage Management
-
-The [[cannabis-vegetative-stage-management]] guide explains how to optimize your environment during this phase.
-
-Key considerations during vegetative growth:
-- Light intensity: 200-400 PPFD
-- Temperature: 70-85 degrees F (day) / 65-75 degrees F (night)
-- Humidity: 60-70% (higher for seedlings, lower as plants mature)
-- Training techniques (LST, topping, scrog) work in tandem with light
-
-A well-managed vegetative period of 4-8 weeks (depending on desired final plant size) sets the foundation for heavy yields.
-
-## Triggering Flowering (12/12)
-
-When ready to trigger flowering, switch to a 12/12 light schedule:
-- 12 hours of light
-- 12 hours of complete, uninterrupted darkness
 
 The [[cannabis-flowering-stage]] page covers what to expect during this transition.
 
@@ -90,10 +66,6 @@ During flowering:
 - Supports resin and terpene production
 - Enhances flower density and size
 
-The [[cannabis-light-spectrum-and-color-bands]] reference breaks down how different wavelengths affect plant morphology.
-
-## Choosing the Right Grow Light
-
 The [[cannabis-lighting-guide]] provides comprehensive recommendations for light selection.
 
 Common grow light technologies:
@@ -109,38 +81,7 @@ Modern LED fixtures are the most popular choice for both vegetative and flowerin
 
 ## Autoflowering Cannabis Light Schedules
 
-For growers using [[cannabis-autoflower-guide]] genetics, the light schedule is more flexible.
-
-Autoflowering cannabis contains Cannabis ruderalis genetics that trigger flowering based on plant age rather than photoperiod.
-
-Recommended autoflower schedules:
-- **18/6** - most common, good balance of growth and rest
-- **20/4** - popular for maximizing growth rate
-- **24/0** - possible but not recommended (plants benefit from dark period)
-
-Most autoflower growers use 18/6 or 20/4 from seed through harvest.
-
-Autoflowers typically finish in 8-12 weeks from seed regardless of light schedule.
-
-## Light Intensity (PPFD)
-
-Light intensity matters as much as photoperiod:
-
-| Growth Stage | Target PPFD | DLI (mol/m2/day) |
-|---|---|---|
-| Seedling/clone | 100-200 | 8-12 |
-| Early vegetative | 200-400 | 12-18 |
-| Late vegetative | 400-600 | 18-25 |
-| Early flowering | 600-800 | 25-35 |
-| Late flowering | 800-1000 | 30-40 |
-
-Exceeding these levels without adequate CO2 supplementation (above 1000 PPFD) can cause light stress and reduced yields.
-
-## Key Points
-
-- Photoperiod cannabis uses 18/6 for veg and 12/12 for flowering
-- The dark period must be completely uninterrupted to prevent stress and hermaphroditism
-- [[cannabis-autoflower-guide]] varieties thrive under 18/6 or 20/4 from seed to harvest
+For growers using [[cannabis-autoflower-guide]] varieties thrive under 18/6 or 20/4 from seed to harvest
 - Blue spectrum supports vegetative growth; red spectrum promotes flowering
 - Light intensity (PPFD) should be matched to growth stage for best results
 

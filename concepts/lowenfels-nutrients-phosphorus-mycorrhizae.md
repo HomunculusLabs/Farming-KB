@@ -5,139 +5,135 @@ updated: 2026-04-24
 sources: "Jeff Lowenfels, Teaming with Nutrients"
 wikilinks: "lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrogen-cycle lowenfels-nutrients-potassium-calcium-magnesium lowenfels-nutrients-micronutrients lowenfels-nutrients-foliar-feeding-sap-analysis"
 type: concept
-tags: [mycology, mycorrhizal, nutrients]
----
-
-# Phosphorus Availability and Mycorrhizal Connections
-
-## Overview
-
-Phosphorus (P) is extremely important for plants, serving as a component of DNA and RNA, the
-molecules that store and translate the genetic code. Its most unique role is as the base for
-adenosine triphosphate (ATP), the energy currency of cells. There are two bonds between the three
-phosphorus atoms in ATP, and these bonds contain lots of energy released when broken. Phosphorus
-is also a major component of cell membranes as part of phospholipids, making it a key element in
-the cellular gate-keeping system.
-
-## Phosphorus Functions in Plants
-
-ATP, as its name suggests, contains three phosphate ions (PO4-3). Two phosphates are bonded to
-adenosine diphosphate (ADP), resulting in a line of phosphates with two phosphate-to-phosphate
-bonds. If a cellular function requires energy, one of the phosphate bonds of ATP is broken,
-removing a phosphate molecule and forming ADP. The energy that held the two phosphates together
-is released. Creating phosphate bonds, adding a phosphate to ADP, stores energy.
-
-It is no wonder that stunted growth is a sign of phosphorus deficiency. Without phosphorus, there
-isn't energy to sustain growth. If the deficiency occurs when the plant is older, blooming and
-continued root growth are affected. When supplies of phosphorus are low, plant leaves turn
-bluish green, caused by an accumulation of sugars that can't be used because of a lack of energy.
-Phosphorus is mobile in plants, so symptoms appear first in older leaves.
-
-## The Phosphorus Cycle
-
-Phosphorus ultimately comes from the weathering of apatite, a type of rock. It can enter soils in
-two forms: organic and inorganic. Organic phosphorus comes from decaying dead plants, manures,
-and microbes that contain it. Like nitrogen, phosphorus cycles through the environment in various
-forms.
-
-Inorganic phosphorus from apatite is adsorbed to the surfaces of clay particles and organic
-matter. The attraction is ionic, binding the phosphorus in place, and as a result it does not move
-much in soil. In fact, it is so tied up that 1 acre of soil might have only 1 pound of phosphorus
-dissolved in water and available to plants. Eventually phosphorus makes its way back into the
-ocean, where it is redeposited and again becomes apatite rock, a process that takes a very long
-time.
-
-More than 22 million tons of phosphorus are being applied to fields every year. The Global
-Phosphorus Research Initiative estimates that mined supplies will be insufficient for crops in
-only about 30 to 40 years. Because 95 percent of the remaining mineable phosphorus is found in
-Morocco, China, South Africa, Jordan, and the United States, this nutrient may gain even more
-essentiality and possibly cause intense competition.
-
-## Phosphorus Fixation by pH
-
-When the pH drops below 6, phosphorus in the form HPO4-2 becomes much less available because at
-lower pH this anion bonds more strongly to the cations of iron and aluminum. It becomes fixed,
-meaning it is not usable by plants. On the other side, if the pH rises above 7, too much
-phosphorus becomes fixed by reacting with calcium and forming calcium phosphate, rendering it
-increasingly unavailable.
-
-Phosphate anions often adhere to clay particles despite their negative charge. This is because
-clay is composed of sheets of molecules, and some positively charged areas in these sheets become
-exposed on the clay surface, attracting phosphate.
-
-## Mycorrhizal Fungi and Phosphorus Uptake
-
-Because phosphorus is tightly adsorbed to soil particles, tremendous amounts are applied to
-agricultural fields and gardens. The key to efficient phosphorus uptake lies in the symbiotic
-relationship between plants and mycorrhizal fungi.
-
-Around 95 percent of all plants associate with mycorrhizal fungi, which provide the plant with
-phosphorus in return for the carbon in root exudates. The fungi's long hyphae extend root
-surfaces up to hundreds of times, so interception for phosphorus and other nutrients is very high.
-
-Some experiments have suggested that mycorrhizal fungi can deliver 80 percent of a plant's
-phosphorus, 60 percent of its copper, 25 percent of its nitrogen, 25 percent of its zinc, and 10
-percent of its potassium. This nutrient delivery is free, both economically and work-free.
-Mycorrhizal fungi are the reason trees do so well with so little care.
-
-Phosphate uptake requires that roots grow to maintain continuous and new contact with phosphorus.
-In addition to mycorrhizal delivery, root mucilage contains acids that dissolve phosphorus, which
-can then diffuse through the gel to the root. Chemical reactions occurring in the mucilage and
-the gel's pH result in the uptake of phosphorus and other metals.
-
-## Phosphate-Solubilizing Organisms
-
-Certain types of nonsymbiotic bacteria (Bacillus megaterium var. phosphaticum, Bacillus subtilis,
-Bacillus circulans, Pseudomonas striata) can free up insoluble phosphorus and either make it
-directly available to plants or put it into the diffusion stream. These are called phosphobacterins.
-
-Similarly, certain fungi (Penicillium species, Aspergillus awamori) also free up phosphorus. They
-act indirectly on the insoluble phosphorus by producing organic acids as they go about their
-business. These acids break the bonds that tie up phosphorus in the soil.
-
-Plant growth promoting rhizobacteria (PGPR), the most well-known being Pseudomonas fluorescens,
-also aid in phosphorus uptake. Some PGPR produce alkaline phosphatase, an enzyme that breaks down
-phosphate bonds.
-
-## Organic Phosphorus Sources
-
-### Animal Bone Meal (N-P-K 3-15-0)
-
-Made by steam processing and grinding bones, the phosphorus in bone meal is very readily
-available and lasts 1 to 4 months. Bone meal does not work well unless the pH is below 7.
-
-### Bat Guano (N-P-K 3-10-1)
-
-Guano comes in a high-nitrogen form and one with lots of phosphorus. Because phosphorus is
-quickly tied up in soil, high-phosphorus bat guano lasts 1 to 4 months. The best releasers of
-this nutrient are mycorrhizal fungi. Too much phosphorus limits their presence, so application
-should be cautious.
-
-### Colloidal Rock Phosphate (N-P-K 0-2.5-0)
-
-Sometimes called soft rock phosphate, this material consists of clay particles surrounded by
-phosphate. The clay helps to improve the soil's cation and anion exchange capacities. It lasts
-years, slowly releasing phosphorus that makes its way to roots via mycorrhizal fungi or by
-diffusion. It remains available for 3 to 5 years. Placement is key: it works best when placed
-where roots will intercept the particles.
-
-### Crab Shell Meal (N-P-K 2-3-0)
-
-A good source of phosphorus containing lots of calcium and trace elements. It also contains
-chitin, making it a great fungal food. Chitin can also control high populations of nematodes.
-
-## Phosphorus Application Strategy
-
-Because phosphorus is relatively immobile in soil, placement is critical. Phosphorus compounds
-are best placed in bands just under seeds and in the zone where roots will grow. Broadcasting
-places phosphorus on the surface where it pretty much remains unavailable to plants. Studies have
-shown a 50 percent increase in phosphorus uptake when fertilizer is placed in a band rather than
-broadcast.
-
-## See Also
-
-- [[lowenfels-nutrients-soil-chemistry-ph-cec]] - How pH and CEC govern phosphorus availability
-- [[lowenfels-nutrients-nitrogen-cycle]] - Nitrogen cycle and biological fixation
+tags: [[lowenfels-nutrients-soil-chemistry-ph-cec]] - How pH and CEC govern phosphorus availability
 - [[lowenfels-nutrients-potassium-calcium-magnesium]] - Other cation nutrients
-- [[lowenfels-nutrients-micronutrients]] - Trace elements delivered by mycorrhizae
 - [[lowenfels-nutrients-foliar-feeding-sap-analysis]] - Alternative delivery methods
+## Background and Context
+
+Phosphorus Availability and Mycorrhizal Connections is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

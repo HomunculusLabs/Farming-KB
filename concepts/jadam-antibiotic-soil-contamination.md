@@ -49,7 +49,7 @@ Antibiotic contamination compounds the soil compaction problem:
 - This residue is highly detrimental to crop roots
 - Combined with antibiotic destruction of microbes, the soil becomes increasingly hostile to plant life
 
-See [[jadam-soil-hardening-prevention]] and [[jadam-root-soil-assessment]] for the physical dimension of this crisis.
+See [[jadam-root-soil-assessment]] for the physical dimension of this crisis.
 
 ## The Root-Soil Connection
 
@@ -68,29 +68,28 @@ JADAM uses pepper (chili) cultivation as an illustrative example:
 - The root cause is not new diseases but degraded soil from chemical inputs
 - Pepper roots no longer settle properly because soil microorganism communities have been destroyed
 
-See [[jadam-root-soil-assessment]] for the detailed root assessment methodology.
-
-## JADAM's Recommended Solutions
-
-1. Stop using factory-produced livestock manure containing antibiotics
-2. Minimize use of chemical fertilizer and pesticide
-3. Use light vehicles instead of heavy tractors to prevent soil compaction
-4. If tractors must be used, prevent wheels from running over crop-growing areas
-5. Apply [[jadam-seed-treatment-leaf-mold]] to restore microbial diversity
-6. Use [[jadam-microorganism-solution-jms]] to rebuild soil biology
-
-## The Broader Agricultural Crisis
-
-This issue connects to JADAM's larger critique:
-- [[jadam-vision-four-aims]] -- the systemic challenges
-- [[jadam-ultra-low-cost-agriculture]] -- the economic dimension
+See [[jadam-seed-treatment-leaf-mold]] to restore microbial diversity
+6. Use [[jadam-vision-four-aims]] -- the systemic challenges
 - [[jadam-transition-conventional-to-organic]] -- the path forward
-- [[jadam-sese-philosophy]] -- the philosophical foundation
-
-## Related Concepts
-
 - [[jadam-soil-management-principles]]
-- [[jadam-soil-hardening-prevention]]
 - [[jadam-root-soil-assessment]]
-- [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-natural-farming-philosophy]]
+## Practical Considerations
+
+Successful implementation of Jadam Antibiotic Soil Contamination requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

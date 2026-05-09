@@ -1,14 +1,13 @@
 ---
-title: ashwagandha growing guide
+title: Ashwagandha Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia]
-sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
+sources: []
 ---
 
-# ashwagandha growing guide (Withania somnifera)
+# Ashwagandha Growing Guide (Withania somnifera)
 
 ## Overview
 
@@ -27,7 +26,7 @@ shrub increasingly cultivated in temperate regions as a summer annual.
 - Hardiness: USDA zones 8-11 (grown as annual in cooler zones)
 - Lifecycle: Tender perennial, grown as annual in most climates
 - Height: 2-3 feet, spreading 2-3 feet
-- growing season: 150-180 days for root maturity
+- Growing season: 150-180 days for root maturity
 
 Ashwagandha produces dull green, elliptical leaves, small green bell-shaped
 flowers, and orange-red berries enclosed in papery calyxes. The extensive
@@ -62,7 +61,7 @@ Preparation methods:
 - Decoction: Simmer 1 teaspoon dried root in 8 oz water for 15 minutes.
 
 Safety notes: Generally safe for most adults. Avoid during pregnancy (may
-have abortifacient properties). Use cautiously in blesching cannabis health.
+have abortifacient properties). Use cautiously in autoimmune conditions.
 May interact with thyroid medications, sedatives, and immunosuppressants.
 
 ## Subtropical Cultivation
@@ -97,7 +96,7 @@ From seed (primary method):
 - Direct seeding is possible in warm zones (sow after soil has warmed to
   70+ degrees F)
 
-from cuttings: Softwood cuttings root in warm, humid conditions but seed
+From cuttings: Softwood cuttings root in warm, humid conditions but seed
 is the standard method.
 
 ### Spacing
@@ -142,9 +141,46 @@ Harvesting method:
 5. Avoid breaking the root; handle gently
 6. Shake off loose soil; do not wash until ready to process
 
+## Processing and Storage
+
+- Wash roots thoroughly, removing all soil
+- Cut larger roots into 1/4-1/2 inch pieces for faster drying
+- Dry on screens at 95-105 degrees F with good air circulation
+- Roots are fully dry when they snap with no flexible center (5-14 days
+  depending on thickness)
+- Powder dried roots in a blender or spice mill
+- Store powder or dried pieces in airtight containers in a cool, dark place
+- Potency lasts 1-2 years
+
+Traditional Ayurvedic preparation:
+- Mix 1/2 teaspoon ashwagandha powder in a cup of warm milk
+- Add 1/2 teaspoon ghee and honey to taste
+- Drink before bed for sleep and stress support
+
+## Pests and Diseases
+
+Ashwagandha is relatively pest-free due to its pungent compounds. Watch for:
+- Root rot: Caused by overwatering or poor drainage; prevent by ensuring
+  well-drained soil and moderate watering
+- Aphids: Occasionally on new growth; spray with water or insecticidal soap
+- Spider mites: In hot, dry conditions; increase humidity around plants
+- Fusarium wilt: Practice crop rotation; avoid planting in soil where other
+  Solanaceae family members have had disease issues
+
+## Yields
+
+Under good conditions, expect:
+- Fresh root weight: 0.5-1.5 lbs per plant
+- Dried root weight: 0.15-0.5 lbs per plant
+- Approximately 3-5 lbs of dried root per 10-foot row
+
+## See Also
+
+- [[turmeric-growing-guide]] -- another subtropical medicinal root crop with
+  complementary adaptogenic and anti-inflammatory properties
+- [[holy-basil-tulsi-guide]] -- fellow Ayurvedic adaptogen; pair with
+  ashwagandha for comprehensive stress support
+
 ## Related
 
-- [[adaptogenic-herbs-guide]]
-- herbal plant remedies
-- [[solomon-seed-saving-guide|seed saving]]
-- [[ashwagandha]]
+- [[gotu-kola-growing-guide]]

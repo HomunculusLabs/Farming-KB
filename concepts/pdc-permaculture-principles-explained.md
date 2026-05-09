@@ -3,14 +3,7 @@ title: Pdc Permaculture Principles Explained
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Permaculture permaculture-ethics|Principles Explained
-
-The 1981 Permaculture [[urban-permaculture-edge-effect-and-design-principles]] Course by Bill permaculture-design|Mollison presents permaculture principles not as a numbered list but woven throughout every lecture, demonstrated through landscape analysis, design examples, and case studies. This page extracts and organizes the core principles as they appear across the 15 pamphlets.
+tags: [[urban-permaculture-edge-effect-and-design-principles]] Course by Bill permaculture-design|Mollison presents permaculture principles not as a numbered list but woven throughout every lecture, demonstrated through landscape analysis, design examples, and case studies. This page extracts and organizes the core principles as they appear across the 15 pamphlets.
 
 ## Energy Principles (Pamphlet I)
 
@@ -103,8 +96,6 @@ Increase edge to increase productivity. "Without reducing the oxygen surface of 
 - Bill Mollison, Permaculture Design Course, 1981, Pamphlets I, II, VIII
 
 updated: 2026-04-18
-- [[fukuoka-natural-farming-transcends-time-space]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
-- [[permaculture-food-forests-design-course]]
 - [[fukuoka-weed-diversity-soil-nutrients]]
 - [[fukuoka-relative-merits-natural-scientific-agriculture]]

@@ -108,20 +108,11 @@ The ultimate goal is producing hybrid strains that breed true for all desired ch
 
 ## See Also
 
-- [[cannabis-botany-and-taxonomy]]
-
 - [[root-cellaring-guide]]
-- [[cannabis-genetics-and-breeding]]
 - [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-phenotype-and-genotype-guide]]
 - [[cannabis-backcrossing-breeding]]
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 - [[cannabis-hybridization]]
-- [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-breeding-fundamentals]]
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
 - [[cannabis-seed-storage-and-viability]]
-- [[cannabis-sinsemilla-life-cycle]]
 - [[cannabis-plant-anatomy]]

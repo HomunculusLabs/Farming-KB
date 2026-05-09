@@ -117,8 +117,9 @@ cultural mind-set of planetary civilization.
 
 ## See Also
 
-- [[mckenna-suppression-psychedelic-research-lsd-therapy]] - earlier suppression
-- [[mckenna-legalization-debate-and-archaic-revival]] - legalization arguments
 - [[mckenna-drugs-governments-and-intelligence-agencies]] - government drug involvement
-- [[mckenna-dominator-vs-partnership-society-model]] - dominator culture analysis
 - [[mckenna-consciousness-expansion-and-drug-war]] - consciousness and prohibition
+
+## See Also
+
+- [[mckenna-food-gods-genesis-first-drug-bust]]

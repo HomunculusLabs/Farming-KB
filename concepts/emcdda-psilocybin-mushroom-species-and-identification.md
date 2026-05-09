@@ -14,43 +14,9 @@ sources:
 type: concept
 ---
 
-# [[psilocybin-compound]] Mushroom Species and Identification
-
-## Overview
-
-There are more than 100 known hallucinogenic mushrooms worldwide.
-The complexity of their mycological classification, together with their
-different chemical makeup and varying effects, may lead to
-inconsistencies and confusion in their description. The subject of the
-EMCDDA thematic study is psilocybin and psilocin-containing fungi, which
-belong mainly to four fungal families.
-
-## Taxonomic Classification
-
-Psilocybin-containing mushrooms belong to several families:
-
-- **Strophariaceae family** (genus *Psilocybe*): the predominant genus
-  in terms of recreational use
-- **Bolbitiaceae family** (genus *Conocybe*)
-- **Coprinaceae family** (genera *Copelandia* and *Panaeolus*)
-- **Cortinariaceae family** (genus *Inocybe*)
-
-The list of species and their geographical distribution is constantly
-critically revised by mycologists. The genus *Psilocybe* is predominant
-in recreational use, followed by genus *Panaeolus*.
-
-## Common Recreational Species
-
-The most common species used recreationally include:
-
-- ***[[psilocybe-cubensis]]*** (also known as *[[stropharia-cubensis]]*): the
-  most frequently marketed species, available in varieties such as
-  Mexican, Thai, Colombian, and Amazonian
-- ***[[psilocybe-semilanceata]]*** (liberty caps): the most common wild
+# [[psilocybe-cubensis]]*** (also known as *[[psilocybe-semilanceata]]*** (liberty caps): the most common wild
   European hallucinogenic mushroom
-- ***[[psilocybe-cyanescens]]*** (wavy caps): found both in Europe and
-  elsewhere
-- ***Psilocybe mexicana*** and ***[[psilocybe-tampanensis-entity]]***: these form
+- ***[[psilocybe-tampanensis-entity]]***: these form
   sclerotia and are known as "truffles" or "philosopher's stone"
 
 Sclerotia are hardened masses of mycelium which are more resistant to
@@ -65,41 +31,7 @@ grassy fields and uncultivated pastures. Key species by region:
 
 - ***Psilocybe semilanceata***: found in the UK, Norway, and Germany
 - ***Psilocybe cyanescens***: also found in Europe
-- ***[[psilocybe-bohemica]]*** and ***Psilocybe moravica***: particularly
-  reported in the Czech Republic
-
-The most commonly sold species by smartshops are *Psilocybe cubensis*
-varieties, none of which are reported to grow wild in Europe. These are
-cultivated specifically (mostly in the Netherlands) to produce a
-marketable drug, mainly because they are easy to grow in terrariums and
-possess a low water content that allows them to stay fresh for 7-10
-days.
-
-## Identification Features
-
-Nearly all psilocybin-containing mushrooms are small brown or tan
-mushrooms. They could easily be mistaken for a number of
-non-psychoactive, inedible, or poisonous mushrooms in the wild. The
-primary distinguishable feature of most psilocybin-containing mushrooms
-is that they bruise blue when handled.
-
-This blueing reaction is due to the oxidation of psilocybin and
-psilocin compounds. However, some toxic mushrooms can also exhibit
-blueing, so this feature alone is not a reliable identification marker.
-
-## Non-Psilocybin Hallucinogenic Mushrooms
-
-Other hallucinogenic mushrooms not covered in the EMCDDA psilocybin
-study include those of the Agaric family (Agaricaceae), with *Amanita
-muscaria* (fly agaric) being the best known representative. The active
-chemicals contained in this group (muscimol, ibotenic acid, and
-muscarin) are totally different from psilocybin-containing mushrooms and
-carry substantial toxicity risks. Some closely related *Amanita* species
-are highly toxic and could cause fatal poisoning, which partly explains
-their lower popularity.
-
-After prohibition of psilocybin mushrooms in the UK, retailers began
-marketing *[[amanita-muscaria]]* and *Amanita pantherina* (panther cap) as
+- ***[[amanita-muscaria-entity]]* and *Amanita pantherina* (panther cap) as
 legal alternatives, raising safety concerns.
 
 ## Wild Foraging
@@ -122,11 +54,26 @@ inedible, or poisonous species.
 
 ## Related
 
-- [[mushroom-identification-myth-infallible-tests]] Topics
-
 - [[emcdda-psilocybin-pharmacology-and-chemistry]] for the chemical
   composition and pharmacological mechanisms
-- [[emcdda-hallucinogenic-mushroom-health-risks]] for toxicity and
-  health concerns including misidentification risks
 - [[emcdda-hallucinogenic-mushroom-markets]] for how species
   availability connects to retail markets
+## Practical Considerations
+
+Successful implementation of Psilocybin Mushroom Species and Identification requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

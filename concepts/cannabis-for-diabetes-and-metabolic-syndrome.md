@@ -53,20 +53,7 @@ The reduction in retinal oxidative stress observed in the study suggests that ca
 
 ## Metabolic Syndrome and the Endocannabinoid System
 
-Metabolic syndrome — the cluster of conditions including insulin resistance, abdominal obesity, hypertension, and dyslipidemia — is intimately connected to the [[cannabis-endocannabinoid-system]]. Overactivation of the CB1 receptor has been associated with increased fat deposition, insulin resistance, and dyslipidemia, leading to the development of rimonabant (a CB1 antagonist) as an anti-obesity drug (later withdrawn due to psychiatric side effects).
-
-The connection between CB1 overactivation and metabolic dysfunction suggests that approaches favoring CB2 over CB1 activation may be more appropriate for metabolic conditions. This pharmacological insight has implications for strain selection in patients with metabolic syndrome or diabetes, favoring CBD-rich indica strains over THC-dominant sativa varieties.
-
-## Safety Considerations for Diabetic Patients
-
-Diabetic patients considering cannabis therapy should be aware of several important considerations. Cannabis can stimulate appetite, which may require adjustment of dietary management. The blood sugar-lowering effects reported by some patients need to be monitored carefully to prevent hypoglycemia.
-
-The potential for cannabis to interact with diabetes medications, particularly oral hypoglycemics and insulin, requires medical supervision. Any cannabis-based approach should be integrated into an existing diabetes management plan with the knowledge and oversight of the patient's healthcare team.
-
-## Related
-
-- [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-cardiovascular-health]]
+Metabolic syndrome — the cluster of conditions including insulin resistance, abdominal obesity, hypertension, and dyslipidemia — is intimately connected to the [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-for-hepatitis-and-liver-conditions]]
 
 ## Historical Context
@@ -83,14 +70,9 @@ The withdrawal of rimonabant due to psychiatric side effects highlighted the ris
 
 ## See Also
 
-- [[cannabis-for-aging-and-anti-aging]]
 - [[cannabis-for-bacterial-infections-and-mrsa]]
 
-[[cannabis-for-hepatitis-and-liver-conditions]] — cannabis effects on liver health.
-
 [[cannabis-endocannabinoid-system]] — overview of the endocannabinoid system.
-
-[[cannabis-immune-modulation]] — cannabis effects on immune function.
 
 [[cannabis-plant-nutrition]] — cannabis nutrition and plant science.
 

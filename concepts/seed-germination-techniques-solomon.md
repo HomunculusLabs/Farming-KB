@@ -117,9 +117,6 @@ As a general rule, sow seeds at a depth roughly equal to 2-3 times their diamete
 
 The most common error with small seeds is sowing too deep. The emerging shoot exhausts its energy reserves before reaching light.
 
-See also: [[seed-starting-indoors-solomon]], [[seed-quality-and-selection-solomon]], [[seed-starting-reference]]
-- [[solomon-gardening-when-it-counts-index]]
-- [[solomon-root-systems-and-spacing-science]]
+See also: [[seed-quality-and-selection-solomon]], [[solomon-gardening-when-it-counts-index]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[root-competition-plant-spacing-solomon]]
 - [[solomon-thinning-spacing-and-direct-seeding]]

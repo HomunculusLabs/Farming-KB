@@ -133,10 +133,8 @@ herd effect provides the disturbance needed to maintain soil health.
 
 ## See Also
 
-- [[savory-water-cycle-management]] for infiltration and runoff
 - [[savory-mineral-cycle-management]] for surface-to-underground
   nutrient movement
-- [[savory-animal-impact-and-herd-effect]] for breaking crusts
 - [[savory-plant-succession-and-community-dynamics]] for surface
   effects on succession
 - [[savory-rest-as-management-tool]] for how rest creates capping

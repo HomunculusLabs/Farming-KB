@@ -19,34 +19,7 @@ type: concept
 
 # McKenna on the Rediscovery of Mexican Magic Mushrooms
 
-In [[mckenna-food-of-the-gods-thesis]], Terence McKenna devotes considerable attention to
-the chain of discovery that brought the psilocybin-containing mushrooms of Mexico back to
-scientific attention in the twentieth century. This story — spanning decades, continents,
-and disciplines — is presented as a key episode in the broader history of humanity's
-relationship with visionary fungi. The rediscovery was not the work of a single individual
-but a collaborative, often accidental, and frequently interrupted process that ultimately
-connected an Austrian expatriate in Oaxaca to a Swiss chemist in Basel.
-
-## Blas Pablo Reko: The Austrian Expatriate
-
-McKenna introduces Blas Pablo Reko (born Blasius Paul Reko) as "a person of
-wide-ranging interests" whose "wandering life took him to the United States, to Ecuador,
-and finally to Oaxacan Mexico." Reko's significance lies in his status as an astute
-observer of plant usages among the native people with whom he lived. In 1919, in rebuttal
-to an article by William Safford, Reko wrote that it was a hallucinogenic mushroom, and
-not peyote, that shamans of the Mixtec and Mazatecan people still used in a traditional
-way to induce visions.
-
-Safford, a prominent botanist, had argued that the teonanacatl described in Spanish
-chronicles was not a mushroom at all but peyote. Reko's rebuttal was significant because
-it correctly identified the continued use of psychoactive mushrooms in living indigenous
-communities — a practice that Safford and the academic establishment had dismissed as
-mythological. McKenna presents this correction as characteristic of the pattern whereby
-indigenous knowledge, dismissed by metropolitan science, is later vindicated.
-
-In 1937, Reko sent Henry Wassen, an anthropologist and curator of the ethnographical
-museum in Gothenburg, Sweden, a package containing collections of two plants. One was
-piule seed, the visionary morning glory seeds of [[ipomoea-violacea]] containing
+In [[ipomoea-violacea]] containing
 hallucinogenic indoles related to LSD. The other sample, "unfortunately too decomposed
 to be identified to species," was a fragment of teonanacatl — the first specimen of a
 psilocybin-containing mushroom to be brought to scientific attention.
@@ -120,7 +93,6 @@ Gordon Wasson's famous 1957 Life magazine article and Albert Hofmann's 1958 isol
 and synthesis of psilocybin. The work of Reko, Wassen, Johnson, Schultes, and La Barre
 created the intellectual foundation upon which these later breakthroughs were built.
 
-See also [[gordon-wasson-mushroom-discovery]] for Wasson's expeditions,
-[[mckenna-discovery-and-impact-of-lsd]] for Hofmann's role, and
+See also [[mckenna-discovery-and-impact-of-lsd]] for Hofmann's role, and
 [[schultes-peyote-and-mescaline]] for Schultes's broader contributions to
 ethnopharmacology.

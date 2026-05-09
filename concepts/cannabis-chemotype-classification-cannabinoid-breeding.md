@@ -82,11 +82,7 @@ The type of high associated with different strains results from varying levels o
 
 ## Related Topics
 
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] - Biosynthetic pathway details
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-terpene-profile]] - Terpene profiles and aromatic compounds
 - [[cannabis-strain-selection-guide]] - Strain selection guidance
-- [[cannabis-landrace-and-heirloom-varieties]] - Landrace variety descriptions
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-african-indian-strain-descriptions-clarke]]

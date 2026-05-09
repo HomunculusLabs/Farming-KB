@@ -78,7 +78,7 @@ moderately thick smooth wall. Dimensions approximately 11 to 14 μm by 7 to 9 μ
 
 **Bruising:** Most collections do not exhibit significant bluing when damaged. Some
 collections may show very slight bluish discoloration on the stem base, but this is
-generally much less pronounced than in confirmed psychoactive species like [[panaeolus-cinctulus]] or [[panaeolus-cyanescens]]. The absence of reliable bluing means this
+generally much less pronounced than in confirmed psychoactive species like [[panaeolus-cyanescens-entity]]. The absence of reliable bluing means this
 character should not be used as the sole identification criterion.
 
 **Microscopic features:** Basidia are typically two-spored, though four-spored basidia
@@ -90,52 +90,12 @@ The pileipellis is a cutis of narrow, parallel hyphae. Clamp connections are abs
 Panaeolus fimicola is one of the most cosmopolitan mushroom species:
 
 - **Europe:** Ubiquitous across the continent, from the Mediterranean to Scandinavia
-- **North America:** Widespread throughout the [[hallucinogenic-plants-native-to-united-states]] and southern Canada
-- **South America:** Common in tropical and temperate regions
-- **Asia:** Documented from Japan, China, India, and [[fungi-of-southeast-asia]]
+- **North America:** Widespread throughout the [[fungi-of-southeast-asia]]
 - **Africa:** Widespread in tropical and subtropical regions
-- **Oceania:** Common in Australia and [[allen-new-zealand-psychoactive-fungi]]
-
-The species is primarily coprophilous, growing on:
-
-- Horse dung (most commonly reported substrate)
-- Cow and cattle dung
-- Sheep and goat dung
-- Rabbit and deer droppings
-- Occasionally on enriched soil near animal enclosures
-- Rarely on well-rotted straw in nitrogen-rich environments
-
-Fruiting occurs from spring through autumn in temperate regions, with peak abundance in
-warm, wet conditions. In tropical and subtropical areas, fruiting may occur year-round.
-The species is often one of the first mushrooms to appear on fresh dung, fruiting within
-days to weeks of deposition, and may produce multiple flushes from the same deposit over
-several weeks.
-
-## Chemistry
-
-The chemistry of P. fimicola is of particular interest as it represents an intermediate
-between clearly psychoactive and non-psychoactive species. Chemical studies have yielded
-variable results:
-
-- Some collections contain very low concentrations of [[psilocybin-compound]] and/or [[psilocin]],
-  typically well below the threshold for noticeable psychoactive effects
-- Other collections from different regions have tested negative for psilocybin entirely
-- The presence of [[serotonin]] has been confirmed and is common among coprophilous fungi
+- **Oceania:** Common in Australia and [[psilocybin]] and/or [[serotonin]] has been confirmed and is common among coprophilous fungi
 - Urea and other simple nitrogenous compounds have been detected
-- [[tryptamine]] itself has been reported in trace amounts
-
-The variability suggests either genetic variation affecting alkaloid biosynthesis, or
-environmental factors influencing production, or that the current species concept
-encompasses multiple cryptic taxa with differing chemical profiles.
-
-## Similar Species
-
-Panaeolus fimicola can be confused with numerous other small, dark-spored, dung-inhabiting
-mushrooms:
-
 - [[panaeolus-acuminatus]]: More acutely conic cap, more slender, non-psychoactive
-- [[panaeolus-cinctulus]]: Banded cap, more pronounced bluing, confirmed psychoactive
-- [[panaeolus-cyanescens]]: Robust, dramatic bluing, tropical species
+- [[panaeolus-cyanescens-entity]]: Robust, dramatic bluing, tropical species
 - Coprinus species: Share dung habitat but have deliquescent (melting) gills
 
 ## Ecological Role

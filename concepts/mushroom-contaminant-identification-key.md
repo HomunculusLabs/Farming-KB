@@ -1,7 +1,7 @@
 ---
 title: Mushroom Contaminant Identification Key
 created: 2026-04-26
-tags: [mycology, mushroom-cultivation, contaminants, identification, stamets]
+tags: [[mycology, mushroom-cultivation, contaminants, identification, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -13,23 +13,7 @@ type: concept
 Chapter XIII of The Mushroom Cultivator provides a comprehensive system
 for identifying the major contaminants encountered in mushroom culture.
 This key, combined with the contaminant descriptions, is one of the most
-practical tools available to cultivators for [[mushroom-cultivator-contamination-prevention]].
-
-## Classification of Contaminants
-
-Contaminants fall into two well-defined groups:
-
--   **Pathogens** — attack the mushroom fruitbody directly. Include
-    molds, bacteria, viruses, and pests.
--   **Indicators (competitors)** — compete for the substrate without
-    directly parasitizing the mushroom. Always fungi of some sort.
-
-Not all microorganisms are harmful. Several are **beneficial** and are
-actively encouraged:
--   *Humicola*, *Torula*, *Actinomyces*, *Streptomyces*
--   Select *Pseudomonas* and *Bacillus* species
-
-These thermophilic organisms thrive during [[stamets-compost-preparation]] and are rarely seen in agar or grain
+practical tools available to cultivators for [[stamets-compost-preparation]] and are rarely seen in agar or grain
 culture.
 
 ## The Five Vectors of Contamination
@@ -116,11 +100,8 @@ Starting with "Contaminant not parasitizing the fruitbody":
 
 ## See Also
 
--   [[mushroom-cultivator-contaminants-identification]] — detailed
-    contaminant profiles
 -   [[mushroom-cultivator-contamination-prevention]] — prevention
     strategies
--   [[troubleshooting-mushroom-contamination]] — troubleshooting guide
--   [[mushroom-cultivation-fundamentals]] — sterile technique
+-   [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — sterile technique
     fundamentals
 -   [[trichoderma-forest-green-mold-guide]] — Trichoderma-specific guide

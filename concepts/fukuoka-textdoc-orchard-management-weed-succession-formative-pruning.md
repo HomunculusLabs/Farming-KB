@@ -114,9 +114,6 @@ This progressive reduction in labor requirements is the opposite of what happens
 
 ## Related Topics
 
-- [[fukuoka-textdoc-natural-form-fruit-trees]] for the natural form theory
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]] for why pruning destroys natural form
-- [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]] for cover crop management
 - [[fukuoka-textdoc-orchard-terracing-slope-management]] for detailed terracing techniques
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] for the full soil rehabilitation timeline
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]] for the soil building context

@@ -1,44 +1,8 @@
----
-title: Bamboo in Permaculture and Construction
-subtitle: A Comprehensive Guide to Species Selection, Cultivation, Building,
-  and Ecological Integration
-tags:
-  - permaculture
-  - bamboo
-  - natural-building
-  - sustainable-construction
-  - agroforestry
-  - bamboo-joinery
-  - ecological-engineering
-  - renewable-materials
-date: 2026-04-30
-updated: 2026-04-30
-sources:
-  - Permaculture: A Designers' Manual (Mollison)
-  - Gaia's Garden (Hemenway)
-  - Korean Natural Farming (Cho)
-related_concepts:
-  - bamboo-as-building-material
-  - bamboo-construction
-  - bamboo-growing-guide
-  - bamboo-permaculture-design
-  - bamboo-species-guide
-  - mollison-designers-bamboo-construction-uses
-  - mollison-designers-bamboo-structure-construction-joinery
-  - mollison-designers-bamboo-treatment-preservation
-  - permaculture-designers-manual-bamboo-building
-  - permaculture-designers-manual-bamboo-species-uses
-  - permaculture-plants-bamboo-varieties-uses
-  - gaias-garden-bamboo-permaculture
-  - mollison-bamboo-permaculture-systems
-  - cho-imo-collection-bamboo-stump-and-paddy-field
-  - urban-permaculture-cows-bamboo-integration
----
 
 # Bamboo in Permaculture and Construction
 
 Bamboo is one of the most versatile and rapidly renewable resources available
-to permaculture designers and natural builders. Belonging to the grass family
+to [[permaculture-designers-manual-animal-forage-systems]] and natural builders. Belonging to the grass family
 Poaceae, subfamily Bambusoideae, bamboo comprises over 1,400 species distributed
 across tropical, subtropical, and temperate regions worldwide. Its extraordinary
 growth rate — some species gaining up to 91 centimetres (36 inches) per day —
@@ -74,7 +38,7 @@ into whole-system designs. The cow-bamboo-lake integration model, in which
 bamboo mediates between livestock areas and aquatic systems, exemplifies the
 multifunctional thinking that characterises mature permaculture practice.
 
-This article provides a comprehensive overview of bamboo as it relates to
+This article provides a comprehensive overview of [[bamboo-as-building-material]] it relates to
 permaculture design and natural building, covering species selection and
 characteristics, cultivation and propagation methods, construction techniques
 and joinery systems, treatment and preservation, ecological applications
@@ -147,7 +111,7 @@ water pipes, and as a striking landscape element.
 
 *Guadua angustifolia* var. *bitungo* (also referred to as *G. apus* in some
 regional literature) is a clumping species valued for its strength and
-straightness in Southeast Asian construction.
+straightness in [[southeast-asian-mushroom-tourism-bali]] construction.
 
 ### Ornamental Species
 
@@ -232,7 +196,7 @@ compost tea, and green mulch.
 
 Bamboo rarely flowers and sets seed — many species flower on cycles of 60 to
 120 years, with entire populations flowering and dying simultaneously.
-Therefore, vegetative propagation is the standard method:
+Therefore, [[vegetative-propagation-methods-mollison]] is the standard method:
 
 - **Division**: Separating culms with attached root ball from the parent
   clump. This is the most reliable and common propagation method. Culms of
@@ -500,7 +464,7 @@ livestock paddocks and water features. Manure and urine from grazing animals
 are washed downslope into the bamboo root zone, where nutrients are absorbed
 and incorporated into biomass. The bamboo filters the water before it reaches
 the lake, preventing eutrophication while converting waste nutrients into
-useful timber and mulch. This model exemplifies the permaculture principle of
+useful timber and mulch. This model exemplifies the [[permaculture-principle-apply-self-regulation]] of
 each element serving multiple functions.
 
 ### Carbon Sequestration
@@ -565,7 +529,7 @@ Edible bamboo shoots are a significant food source across Asia, harvested
 seasonally from many species. Shoots of *Phyllostachys edulis* (Moso) are
 particularly prized. Bamboo leaves are used in traditional medicine and as
 wrapping material for food preparation. Bamboo vinegar (liquid produced during
-bamboo charcoal production) has applications in agriculture as a pest
+bamboo [[charcoal-production-for-cooking]]) has applications in agriculture as a pest
 deterrent and soil amendment.
 
 ### Energy and Fuel
@@ -586,20 +550,20 @@ dependency.
 
 ## See Also
 
-[[permaculture-design-principles]]
+permaculture design principles
 [[natural-building]]
-[[sustainable-forestry]]
-[[erosion-control-techniques]]
-[[windbreak-design]]
+sustainable forestry
+erosion control techniques
+windbreak design
 [[korean-natural-farming]]
-[[carbon-sequestration-in-agriculture]]
-[[earthquake-resistant-design]]
-[[agroforestry-systems]]
-[[riparian-buffer-design]]
-[[biochar-and-soil-amendment]]
-[[greywater-treatment-systems]]
-[[cob-and-strawbale-construction]]
-[[living-fences-and-hedges]]
+carbon sequestration in agriculture
+earthquake resistant design
+agroforestry systems
+riparian buffer design
+biochar and soil amendment
+greywater treatment systems
+cob and strawbale construction
+[[living-fences-vs-conventional-fencing]]-and-hedges
 
 ## References
 
@@ -613,7 +577,7 @@ dependency.
 
 3. Cho, Han-Kyu. *Korean Natural Farming: Indigenous Microorganisms and
    Natural Farming*. Published proceedings and manuals. Documentation of
-   bamboo stump IMO collection methodology.
+   bamboo stump [[imo-collection-multi-stage-cultivation]] methodology.
 
 4. Janssen, Jules J. A. *Building with Bamboo: A Handbook*. Intermediate
    Technology Publications, 2000. Technical reference on bamboo structural

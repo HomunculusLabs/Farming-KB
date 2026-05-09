@@ -109,12 +109,8 @@ Nori protein extracts are gaining attention as plant-based protein ingredients i
 
 ## See Also
 
-- [[porphyra-umbilicalis]]
 - [[ulva-lactuca]]
-- [[chondrus-crispus]]
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[gracilaria-verrucosa]]
 - [[kappaphycus-alvarezii]]

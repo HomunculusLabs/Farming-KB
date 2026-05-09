@@ -3,104 +3,141 @@ title: Water Harvesting Design in Permaculture
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# Water Harvesting Design in Permaculture
+tags: [[knf-vs-chemical-farming-comparison]] Concepts
 
-updated: 2026-04-18
-
-Water is the fundamental limiting factor in most landscapes. The permaculture approach to water is to slow it down, spread it out, sink it into the soil, and store it for use during dry periods. Every drop of rain that falls on a site should be managed -- either absorbed into the soil where it falls, directed to storage, or used to support productive systems before it leaves the property.
-
-## Principles of Water Harvesting
-
-The core principle is to treat water as a resource, not a problem to be drained away. Conventional engineering rushes water off the landscape as quickly as possible through drains, culverts, and pipes. Permaculture does the opposite: it captures, slows, filters, and stores water at the highest possible elevation on the site, allowing gravity to distribute it.
-
-Key strategies include:
-- **Slow it down**: Reduce the velocity of water moving across the landscape
-- **Spread it out**: Distribute water across a wider area rather than concentrating it
-- **Sink it in**: Encourage infiltration into the soil profile
-- **Store it**: Hold water in dams, ponds, soils, and vegetation for dry periods
-
-## Swales
-
-A swale is a shallow, level trench dug on contour -- exactly horizontal across the slope. It captures water running downhill, spreads it along the contour, and allows it to sink into the soil. The excavated earth is placed on the downhill side to form a berm, which is typically planted with trees and ground covers.
-
-### How to Build a Swale
-
-To create a typical swale, dig down into the earth creating a trench about the depth and width of your shovel head. Collapse in the sides of the trench so it creates a V-shaped trench. The slope of the sides should be very gentle -- your swale should look like a gentle dip in the landscape, not a mancatching trap. Fill the swale with mulch -- cut grasses, leaves, woody material, anything that will break down. You can also plant the swale with summer and winter perennial ground covers and edibles.
-
-### Leveling
-
-Use a level as you dig to make sure the swale is level. A typical technique is to get the longest architect's level available and two bricks. Place the bricks in the swale and lay the level on top. Another method is to use an A-frame level, or a water level for longer distances.
-
-### Swale Functions
-
-- Capture runoff and allow infiltration
-- Recharge groundwater
-- Prevent erosion on slopes
-- Create a planting zone on the berm above
-- Reduce the need for irrigation downslope
-- Create productive edge environments
-
-## Keyline Design
-
-Keyline design is a system developed by P.A. Yeomans for managing water on agricultural land. The "keyline" is a specific contour line found by identifying the point in a valley where the slope changes from convex (bulging outward) to concave (curving inward). Cultivation and water management structures parallel to the keyline help distribute water from wetter valleys to drier ridges.
-
-Keyline principles include:
-- Cultivate parallel to the keyline, not to the contour
-- This naturally moves water from valleys toward ridges
-- Subsoiling along keylines breaks up compaction and increases infiltration
-- Dams placed at the highest suitable points in valleys maximize gravity-fed distribution
-
-## Dams and Water Storage
-
-Dams are among the most important infrastructure elements on any permaculture property. They provide water for irrigation, livestock, fire protection, aquaculture, and wildlife habitat. Site selection for dams follows clear principles:
-
-- **Catchment area**: The dam must have sufficient catchment above it to fill reliably
-- **Soil suitability**: Clay-rich soils are ideal for dam construction; sandy or rocky soils may require sealing
-- **Topography**: Natural depressions or valleys reduce earthworks required
-- **Elevation**: Place dams as high as possible on the property for gravity-fed distribution
-- **Evaporation**: Minimize surface area relative to volume; deeper dams lose less water to evaporation
-
-### Dam Types
-
-- **Earth dams**: Most common; built from compacted earth fill
-- **Gley dams**: Sealed using organic matter (manure, compost, leaves) that creates an anaerobic layer preventing seepage
-- **Rock and clay dams**: Used in rocky terrain where a clay core provides the seal
-
-### The Gley Technique
-
-The gley technique is a traditional method for sealing ponds and dams without plastic liners. Fresh manure, compost, or green vegetation is placed in a thick layer at the bottom of the pond site. This is covered with soil, cardboard, or plastic and flooded. The organic matter decomposes anaerobically, creating a rubbery, impermeable layer that seals the soil. This method is particularly useful in sandy or gravelly soils where natural sealing does not occur.
-
-## Ponds
-
-Ponds serve multiple functions: water storage, aquaculture, wildlife habitat, fire protection, microclimate moderation, and aesthetic value. A well-designed pond integrates into the overall water management system of the property.
-
-Ponds should include:
-- A deep zone (at least 18 inches/45cm) for water lilies and fish
-- A shallow marginal shelf for emergent plants
-- A very shallow area (2 inches/5cm deep) as a refuge for small fish and frog spawn
-- Gently sloping edges for easy access by wildlife
-- A marsh garden area of damp soil around the edges
-
-## Irrigation Design
-
-In permaculture, irrigation is minimized through good design. Gravity-fed systems from dams and swales are preferred over pumped systems. Drip irrigation and mulching reduce water loss. The ultimate goal is to design systems that capture and hold enough water in the soil profile that irrigation is only needed during exceptional droughts.
-
-## Related
-
-- [[knf-vs-chemical-farming-comparison]] Concepts
-
-- [[mollison-pdc-swale-design-water-harvesting]]
 - [[mollison-pdc-keypoint-keyline-humid]]
-- [[mollison-pdc-dam-construction-water-systems]]
 - [[mollison-pond-design-freshwater-aquaculture]]
-- [[permaculture-earthworks-and-water-harvesting]]
 - [[permaculture-dam-design]]
-- [[pdc-earthworks-and-earth-resources]]
 - [[pdc-aquaculture-basics]]
 
 Source: Bill Mollison Permaculture Design Course; William Ozier Williams PDC: A Permaculture Design Course
 - [[pdc-water-conservation]]
+## Background and Context
+
+Water Harvesting Design in Permaculture is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

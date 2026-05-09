@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [composting, soil]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 # Organic Composting Methods
 
@@ -67,11 +68,7 @@ Woody material such as prunings from shrubs and trees should not be composted di
 
 ## Sheet Composting (No-Turn Method)
 
-An alternative to the traditional heap is sheet composting, where organic material is spread directly on the soil surface in thin layers and left to decompose in place. This approach requires no turning or bin construction and feeds the soil food web directly. See [[sheet-composting]] for the full technique.
-
-## Compost Tea and Liquid Compost
-
-Water drained from the bottom of a compost heap or wormery makes an excellent liquid fertilizer. Dilute 10:1 with water and use as a foliar feed or soil drench. This "compost tea" contains soluble nutrients and beneficial microorganisms. See [[organic-vegetable-growing-and-market-gardening]] for detailed instructions on making and using liquid feeds from compost and other organic materials.
+An alternative to the traditional heap is sheet composting, where organic material is spread directly on the soil surface in thin layers and left to decompose in place. This approach requires no turning or bin construction and feeds the soil food web directly. See [[organic-vegetable-growing-calendar]] for detailed instructions on making and using liquid feeds from compost and other organic materials.
 
 ## Hot Composting vs. Cold Composting
 
@@ -98,17 +95,11 @@ Water drained from the bottom of a compost heap or wormery makes an excellent li
 
 ## Related
 
-- [[complete-organic-fertilizer-recipes]]
-
 - [[composting-systems]] for system-level composting design
-- [[vermicomposting]] for worm-based composting
 - [[soil-food-web-structure]] for soil biology
-- [[cover-cropping-guide]] for green manure alternatives
 - [[gaias-garden-cover-crops-soil-building]]
 
 ## See Also
-
-- [[query-what-is-the-kratky-method-for-growing-cannabis]]
 
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 

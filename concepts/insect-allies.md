@@ -32,7 +32,7 @@ sources:
 
 # Insect Allies
 
-Beneficial insects are the backbone of any ecological pest management strategy. Rather than eradicating all insects, the goal is to build balanced predator-prey populations where pests stay below economic damage thresholds. See cannabis pest management for crop-specific IPM protocols.
+Beneficial insects are the backbone of any ecological pest management strategy. Rather than eradicating all insects, the goal is to build balanced predator-prey populations where pests stay below economic damage thresholds. See [[cannabis-pest-management]] for crop-specific IPM protocols.
 
 ## Key Beneficial Insects
 
@@ -121,10 +121,10 @@ Biological controls work within an Integrated Pest Management framework:
 3. **Intervene** — start with least-toxic options; biological controls before chemicals
 4. **Evaluate** — assess control success; adjust approach
 
-See cannabis pest management for cannabis-specific scouting thresholds and product rotation schedules.
+See [[cannabis-pest-management]] for cannabis-specific scouting thresholds and product rotation schedules.
 
 ## Related
 
 - [[plant-defense-mechanisms]]
-- cannabis pest management
+- [[cannabis-pest-management]]
 - [[companion-planting-reference]]

@@ -21,35 +21,6 @@ savings over traditional agriculture but differ in complexity, cost, reliability
 the type of output they produce.
 
 ## Aquaponics
-[[aquaponics-guide]]
-Aquaponics creates a recirculating ecosystem where fish (typically tilapia, goldfish,
-trout, or catfish) produce ammonia waste that nitrifying bacteria (Nitrosomonas and
-Nitrobacter) convert first to nitrite and then to nitrate, which plants absorb as
-fertilizer. The cleaned water returns to the fish tank, creating a closed loop that
-uses approximately 90 percent less water than traditional agriculture. System designs
-include media beds (flood and drain with gravel or expanded clay), deep water culture
-rafts where roots float directly in water, nutrient film technique channels, and
-vertical towers that maximize space utilization.
-
-The appeal of aquaponics is dual production: both fish protein and vegetables from the
-same system with a single input of fish food. Leafy greens, herbs, and fruiting
-vegetables grow rapidly in the nutrient-rich water. A typical media bed system maintains
-a one-to-one ratio of grow bed volume to fish tank volume, with water quality
-parameters tightly controlled: pH 6.8 to 7.2, ammonia and nitrite at zero ppm, and
-dissolved oxygen at five to eight mg per liter. Temperature must be managed for both
-fish species and plant preferences.
-
-The challenges are significant. Systems require a four to six week cycling period before
-fish can be added, during which ammonia-processing bacteria colonize the biofilter.
-Water chemistry demands daily monitoring of pH, ammonia, nitrite, nitrate, and
-temperature. Power failures can kill fish within hours if backup aeration is not
-available. The pH compromise between fish needs (higher pH around 7.0) and plant
-needs (lower pH around 6.0) means neither species performs at its absolute optimum.
-Root vegetables are difficult to grow, and fish disease management adds veterinary
-complexity. Startup costs for a practical family system range from two thousand to five
-thousand dollars or more.
-
-## Aeroponics
 [[aeroponics-guide]]
 Aeroponics is the most technically advanced soilless method, suspending plant roots in
 a dark, enclosed chamber and misting them with nutrient solution at intervals of three
@@ -123,8 +94,6 @@ not yet commercially established as a standard practice.
 
 ## See Also
 
-- [[comparison-bioponics-vs-aquaponics]]
 - [[comparison-aeroponics-vs-aquaponics]]
-- [[comparison-dwc-vs-ebb-and-flow]]
 - [[comparison-nft-vs-ebb-and-flow]]
 - [[comparison-living-soil-vs-hydroponic]]

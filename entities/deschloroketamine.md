@@ -131,20 +131,17 @@ Visual effects are less pronounced while dissociative depth is comparable at equ
 
 DCK is synthesized from cyclopentanone derivatives via Grignard reaction with phenylmagnesium bromide followed by reductive amination with methylamine.
 The absence of the chlorination step simplifies manufacturing, contributing to gray-market availability.
-
 ## Related Compounds
 
 | Compound | Key Difference |
 |----------|---------------|
 | Ketamine | Contains 2-chloro phenyl group; shorter duration, more stimulating |
 | 2-Fluorodeschloroketamine (2F-DCK) | Fluorine at the 2-position; higher potency, longer duration |
-| 3-Methoxy-PCE (3-MeO-PCE) | Methoxy substitution; significantly more potent |
-| 3-Methoxy-PCP (3-MeO-PCP) | Piperidine ring; much longer duration, higher potency |
+| 3-Methoxy-PCE ([[3-meo-pcp]]) | Piperidine ring; much longer duration, higher potency |
 | Methoxetamine (MXE) | N-Ethyl group + 3-methoxy; higher affinity, once popular, now controlled |
 | Eticyclidine (PCE) | Piperidine ring parent compound; highly potent, long-acting |
 
 ## See Also
 
-- [[ketamine]] — Parent compound with extensive clinical research and FDA-approved antidepressant indication
 - [[methoxetamine]] — Previously popular arylcyclohexylamine research chemical
 - [[dextromethorphan]] — Over-the-counter dissociative with NMDA antagonist properties

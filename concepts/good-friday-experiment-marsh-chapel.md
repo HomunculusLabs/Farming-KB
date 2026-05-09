@@ -18,9 +18,7 @@ It demonstrated that a naturally occurring compound could reliably induce genuin
 
 The experiment was conducted on Good Friday, April 20, 1962, at Boston University's Marsh Chapel.
 
-It was designed by Walter Pahnke, a graduate student in psychology at Harvard University, working under the supervision of Timothy Leary and other members of the [[leary-harvard-psilocybin-project]].
-
-Pahnke's doctoral thesis aimed to determine whether [[psilocybin-compound-profile]] could produce experiences meeting the criteria for genuine mystical experience as defined by the philosophy of William James and described in the writings of mystics across religious traditions.
+It was designed by Walter Pahnke, a graduate student in psychology at Harvard University, working under the supervision of Timothy Leary and other members of the [[psilocybin-compound-profile]] could produce experiences meeting the criteria for genuine mystical experience as defined by the philosophy of William James and described in the writings of mystics across religious traditions.
 
 The timing was deliberate: Good Friday is among the most solemn and spiritually charged days in the Christian calendar, providing a maximally receptive setting for participants who were all theology students.
 
@@ -32,11 +30,7 @@ This selection ensured that participants possessed both religious inclination an
 
 The study employed a rigorous double-blind methodology.
 
-Ten subjects received [[psilocybin-compound-profile]] while the other ten received an active placebo containing nicotinic acid, which produces a harmless flushing sensation, creating the impression that one has received the active substance.
-
-Neither the subjects nor the experimenters monitoring them knew who had received which substance until after the study was completed.
-
-Five rooms in the basement of Marsh Chapel were prepared for the experiment, each designed to provide a calm, supportive environment consistent with established [[psychedelic-therapy-set-and-setting]] principles.
+Ten subjects received [[psychedelic-therapy-set-and-setting]] principles.
 
 ## The Experience
 
@@ -106,11 +100,7 @@ The Good Friday Experiment remains a landmark study for several reasons.
 
 It was among the first attempts to bring rigorous scientific methodology to the study of mystical and religious experience.
 
-It demonstrated that [[psilocybin-and-mystical-experience]] was not merely a hallucinatory aberration but could produce experiences meeting the criteria for genuine mystical states as defined across religious traditions.
-
-It showed that under appropriate conditions of set and setting, ordinary individuals could have profoundly meaningful spiritual experiences with psilocybin, without adverse psychological consequences.
-
-The study foreshadowed the methodology of modern [[psilocybin-clinical-trials]] at institutions like Johns Hopkins, which have replicated and extended its findings with far more sophisticated measurement tools including brain imaging technology.
+It demonstrated that [[psilocybin-clinical-trials]] at institutions like Johns Hopkins, which have replicated and extended its findings with far more sophisticated measurement tools including brain imaging technology.
 
 ## Relationship to Modern Research
 

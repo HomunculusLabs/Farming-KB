@@ -9,23 +9,7 @@ tags: [psilocybin, mushrooms]
 
 # Accidental Ingestion of Psilocybin Mushrooms: Documented Cases
 
-The accidental ingestion of [[query-what-is-the-difference-between-psilocybin-and-psilocin]]-containing mushrooms -- usually through misidentification of psychoactive species as edible ones -- has produced a significant body of case reports that illuminate both the [[psilocybin-toxicity-and-safety-profile]] of these mushrooms and the [[mushroom-identification-taxonomic-confusion]] faced by foragers worldwide.
-
-## The Green Park Incident (1799)
-
-### The First Documented Case
-
-The [[green-park-incident-1799-psilocybin]] of October 3, 1799, in London represents the earliest documented case of accidental psilocybin ingestion in Europe. A family of six collected [[psilocybe-semilanceata]] (liberty caps) that they mistook for edible mushrooms.
-
-### Outcome
-
-All affected family members recovered completely without lasting harm. The eight-year-old child who ate the largest quantity experienced the most severe symptoms (immoderate laughter, dilated pupils, stupor) but recovered within hours.
-
-## Kenya Cases (1945)
-
-### The Cullinan and Henry Report
-
-In 1945, Cullinan and Henry described 22 cases of intoxication in Nairobi, Kenya, caused by mistaken identification of a yellow Stropharia species as a culinary mushroom. The "yellow Stropharia" was likely [[psilocybe-cubensis-potency-variation-by-flush]] or a close relative.
+The accidental ingestion of [[psilocybin-toxicity-and-safety-profile]] of these mushrooms and the [[green-park-incident-1799-psilocybin]] of October 3, 1799, in London represents the earliest documented case of accidental psilocybin ingestion in Europe. A family of six collected [[psilocybe-cubensis-potency-variation-by-flush]] or a close relative.
 
 ### Significance
 
@@ -35,31 +19,13 @@ These cases demonstrate that accidental psilocybin ingestion is not limited to t
 
 ### The Stropharia Venenata Incidents
 
-In 1929 and 1931, Japanese families consumed [[stropharia-rugoso-annulata-mycofiltration]] that they mistook for honey mushrooms (Armillaria mellea). The 1929 case involved a woman who served the mushrooms to her family, producing hallucinations and other psychoactive effects.
-
-### Outcome
-
-All affected persons recovered completely. The attending physician initially panicked, running 1,200 feet to consult a colleague, but by the next morning all symptoms had resolved.
-
-### The Taste Factor
-
-The fresh fruiting bodies of S. venenata were bitter, a taste that disappeared after cooking. Had the mushrooms been eaten raw, the bitter taste might have prevented consumption of dangerous quantities -- a natural safety mechanism.
-
-## London Heathrow Airport Case
-
-### The Smuggled Mushrooms
-
-Gartz documents a case in which a traveler arriving at London Heathrow Airport was found to be carrying dried [[psilocybe-cubensis-potency-variation-by-flush]] mushrooms. The case illustrates the international trade in psychoactive mushrooms and the legal consequences of possession.
+In 1929 and 1931, Japanese families consumed [[psilocybe-cubensis-potency-variation-by-flush]] mushrooms. The case illustrates the international trade in psychoactive mushrooms and the legal consequences of possession.
 
 ## Southeast Asia Cases
 
 ### Bali
 
-In Bali, accidental ingestion is essentially impossible because the [[panaeolus-cyanescens-bali-omelette]] are intentionally consumed. However, tourists unfamiliar with the mushrooms' effects have reportedly been surprised by the experience, having not understood what "magic mushroom omelettes" contained.
-
-### Thailand
-
-In Thailand, cases of accidental ingestion have been documented among tourists who consumed mushroom dishes without realizing they contained psychoactive species. The widespread availability of [[psilocybe-cubensis-potency-variation-by-flush]] in Thai pastures means that confusion with edible species is possible.
+In Bali, accidental ingestion is essentially impossible because the [[psilocybe-cubensis-potency-variation-by-flush]] in Thai pastures means that confusion with edible species is possible.
 
 ## Patterns Across Cases
 

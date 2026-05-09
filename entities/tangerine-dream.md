@@ -137,14 +137,9 @@ climates. Plants are moderately resistant to mold and pests but benefit
 from good air circulation due to dense bud formation. The citrus aroma
 can be pungent during late flowering, requiring odor management in
 discreet grows.
-
 ## See Also
 
-- [[calea-zacatechichi-dream-herb-ethnobotany]]
-
 - [[amnesia-haze]] — another award-winning Amsterdam sativa-dominant hybrid
-- [[super-lemon-haze]] — citrus-forward sativa-dominant strain with
-  similar terpene profile
 - [[tangie-cannabis]] — pure sativa with intense tangerine aroma
 - [[chemdawg]] — influential parent strain contributing diesel terpenes
   to many hybrids

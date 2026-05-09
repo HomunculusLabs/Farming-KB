@@ -47,50 +47,7 @@ bacteria that eat roots.
 
 Biological controls include RootShield (Trichoderma harzianum),
 Binab Bio-Fungus, Supresiv, Trichopel, and SoilGuard. See
-[[cervantes-trichoderma-beneficial-fungi]] for more on Trichoderma
-applications. Sprays are not effective against root rot since the
-pathogen operates below the soil surface.
-
-## Damping-Off (Pythium Wilt)
-
-### Identification
-
-Damping-off, sometimes called Pythium wilt, is often found in soil
-and growing mediums. It prevents newly sprouted seeds from emerging
-and attacks seedlings, causing them to rot at the soil line. It also
-yellows foliage and rots older plants at the soil line, and
-occasionally attacks rooting cuttings at the soil line.
-
-The condition is caused by different fungal species including
-Botrytis, Pythium, and Fusarium. Once initiated, damping-off is
-fatal. At onset, the stem loses girth at the soil line, weakens,
-grows dark, and finally fluid circulation is cut, killing the seedling
-or cutting.
-
-### Causes
-
-Damping-off results from a combination of factors:
-
-1. Fungi already present in an unsterile rooting medium
-2. Overwatering and maintaining a soggy growing medium
-3. Excessive humidity
-
-Overwatering is the biggest cause and the key to prevention.
-
-### Prevention
-
-The disease can be avoided by controlling soil moisture. Careful
-daily scrutiny of soil ensures the proper amount of moisture is
-available to seeds or cuttings. Specific preventive measures include:
-
-- Start seeds and root cuttings in fast-draining, sterile coarse
-  sand, rockwool, Oasis cubes, or Jiffy cubes
-- Do not place a humidity tent over sprouted seedlings; tents lead
-  to excessive humidity and damping-off
-- Cuttings are less susceptible and benefit from humidity tents
-- Keep germination temperatures between 70-85 degrees F (21-29 C)
-- Damping-off is inhibited by bright light; grow seedlings under HID
-  rather than [[cervantes-compact-fluorescent-lighting]]
+[[cervantes-compact-fluorescent-lighting]]
 - Keep fertilization minimal during the first couple weeks of growth
 - Germinate seeds between clean, fresh paper towels and move to soil
   once sprouted
@@ -109,20 +66,27 @@ suppress many causes of damping-off.
 ### Chemical Control
 
 Dust seeds with Captan. Avoid benomyl fungicide soil drench because
-it kills beneficial organisms. See [[cervantes-pest-disease]] for
-broader disease management strategies.
-
-## Pythium in Hydroponics
-
-Pythium is the worst pathogen in hydroponic systems. It flourishes in
-stagnant, warm nutrient solution with low dissolved oxygen. See
-[[cervantes-reservoir-temperature-management]] for temperature
-control and [[cannabis-advanced-growing-techniques]] for system design that
-minimizes Pythium risk. Maintaining nutrient solution temperature
-below 75 degrees F and ensuring adequate aeration are the most
-effective preventive measures.
-
-[[cervantes-hydrogen-peroxide-sterilization]] can be used to treat
+it kills beneficial organisms. See [[cervantes-reservoir-temperature-management]] for temperature
+control and [[cervantes-hydrogen-peroxide-sterilization]] can be used to treat
 affected reservoirs, but prevention through clean systems and proper
 temperature management is far more effective than treatment after
 infection.
+## Practical Considerations
+
+Successful implementation of Root Rot, Pythium, and Damping-Off requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/laminar-flow-hood-construction-1.md]
 ---
 # DIY Laminar Flow Hood Construction
 
-A laminar flow hood is the single most important piece of [[mushroom-grow-equipment]] for reliable [[sterile-technique-mushroom-cultivation]] in mushroom cultivation. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and spore handling.
+A laminar flow hood is the single most important piece of [[sterile-technique-mushroom-cultivation]] in mushroom cultivation. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and spore handling.
 
 ## How It Works
 
@@ -116,14 +116,9 @@ Before working in the flow hood:
 
 ## See Also
 
-- [[laminar-flow-hood-construction-hepa-filter]]
-
 - [[laminar-flow-hood-guide]] — laminar flow hood usage guide
-- [[mushroom-cultivation-fundamentals]] — sterile technique overview
 - [[mushroom-sterile-technique-detailed]] — detailed sterile procedures
-- [[agar-work-guide]] — agar work procedures
 - [[mushroom-grow-equipment]] — equipment guide
-- [[hepa-filter-selection-and-testing]] — HEPA filter specifications and testing
 - [[mushroom-laminarar-flow-hood]] — laminar flow hood overview
 
 ## Multi-Station Design (Forister & Burger)

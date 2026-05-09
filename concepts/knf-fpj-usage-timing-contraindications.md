@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Fermented Plant Juice (FPJ) is one of the most widely used inputs in [[korean-natural-farming]], but its effectiveness depends critically on proper timing and awareness of contraindications. [[cho-han-kyu-life-and-philosophy]] provided detailed guidance on when to use FPJ, when to avoid it, and how to match specific plant sources to specific growth stages.
+Fermented Plant Juice (FPJ) is one of the most widely used inputs in [[cho-han-kyu-life-and-philosophy]] provided detailed guidance on when to use FPJ, when to avoid it, and how to match specific plant sources to specific growth stages.
 
 ## Growth Stage Timing
 
@@ -70,19 +70,11 @@ Use FPJ made from winter-hardy plants:
 
 Cho Han-kyu identified several conditions under which FPJ should NOT be applied:
 
-1. **Overgrowth symptoms:** If plants are already showing excessive vegetative growth (large, dark green leaves, elongated stems), FPJ will worsen the condition. Apply [[water-soluble-calcium-wca]] or [[water-soluble-calcium-wca]] instead to redirect energy toward reproductive growth.
+1. **Overgrowth symptoms:** If plants are already showing excessive vegetative growth (large, dark green leaves, elongated stems), FPJ will worsen the condition. Apply [[water-soluble-calcium-wca]] instead to redirect energy toward reproductive growth.
 
 2. **Same-crop FPJ:** Do NOT use FPJ made from the same species as the target crop. For example, do NOT use rice FPJ on rice, or tomato FPJ on tomatoes. This can cause hormonal confusion and excessive vegetative growth.
 
-3. **Acidic soil conditions:** FPJ should not be applied when soil pH is too low. Acidic conditions reduce microbial activity and nutrient availability, making FPJ ineffective. Correct soil pH first with [[knf-loess-powder]] or lime.
-
-4. **Excessive moisture:** Do NOT apply FPJ during periods of heavy rain, waterlogging, or very high humidity. Plants cannot absorb foliar sprays effectively under these conditions, and the added moisture can promote fungal growth.
-
-5. **Approaching reproductive stage:** If plants are about to flower or set fruit, reduce or stop FPJ application. Continued FPJ during this stage promotes vegetative growth at the expense of flowers and fruit.
-
-## FPJ Combined with Other Inputs
-
-FPJ works synergistically with other [[knf-preparations]]:
+3. **Acidic soil conditions:** FPJ should not be applied when soil pH is too low. Acidic conditions reduce microbial activity and nutrient availability, making FPJ ineffective. Correct soil pH first with [[knf-preparations]]:
 
 ### FPJ + WCA (Water-Soluble Calcium)
 - Use during mid-vegetative stage to strengthen cell walls

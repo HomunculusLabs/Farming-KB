@@ -126,11 +126,6 @@ accumulated salts from the root zone.
 
 ## See Also
 
-- [[cervantes-ec-tds-nutrient-solution-strength]]
-
 - [[cervantes-hydroponic-systems]] - overview of all system types
-- [[cervantes-nutrient-solution-reservoir-management]] - reservoir
-  maintenance
-- [[cannabis-advanced-growing-techniques]] - water-based growing methods
-- [[cervantes-pest-disease]] - disease prevention in hydroponics
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water-based growing methods
 - [[cervantes-ph-management-testing]] - pH and EC monitoring

@@ -3,7 +3,7 @@ title: Fungal Enzymatic Diversity Decomposition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Enzymatic Diversity in Decomposition
@@ -110,11 +110,7 @@ The diversity of fungal enzymes has profound ecological consequences:
   community composition
 
 Related topics:
-- [[fungal-decomposition-kinetics]]
 - [[fungal-decomposition-of-wood]]
-- [[fungal-leaf-litter-succession]]
 - [[fungal-feeding-invertebrates-fungivory]]
-- [[fungal-nutrient-cycling-forests]]
 - [[fungal-respiration-carbon-flux]]
-- [[fungal-decomposition-nutrient-cycling]]
 - [[fungal-succession-wood]]

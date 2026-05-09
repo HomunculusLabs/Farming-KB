@@ -140,10 +140,6 @@ The young people who come from the cities live in crude huts among chickens and 
 
 ## See Also
 
-- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
 - [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-village-philosophy-disappearance]]
-
 - [[natural-farming]]

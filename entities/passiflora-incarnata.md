@@ -115,7 +115,9 @@ The plant is cold-hardy to approximately -15°C (USDA Zone 5b) and prefers well-
 
 ## See Also
 
-- [[banisteriopsis-caapi]] — another vine used in traditional medicine, with psychoactive β-carboline alkaloids in common
 - [[stinging-nettle]] — another North American native plant with both medicinal and ecological permaculture applications
-- [[lemon-balm-melissa-officinalis]] — complementary nervine herb with anxiolytic properties via GABA modulation
 - [[comfrey-symphytum-officinale]] — another vigorous perennial with permaculture and medicinal applications
+
+## See Also
+
+- [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]

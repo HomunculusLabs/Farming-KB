@@ -82,12 +82,8 @@ Turner's metaphysical framework describing "CydelikSpace" — a universal state 
 
 ## See Also
 
-- [[psychedelic-paradigm-shifting-and-reality-reconception]]
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]]
 
-- [[turner-further-explorations-and-future-of-psychedelics]] — future of psychedelics
 - [[dmt-dimethyltryptamine-experience-guide]] — DMT experiences
-- [[ketamine-psychedelic-journey-guide]] — ketamine
 - [[psychedelic-safety-and-harm-reduction]] — safety
-- [[psychedelic-harm-reduction]]
 - [[turner-psychedelic-combination-experience-reports]]

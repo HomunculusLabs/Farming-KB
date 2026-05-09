@@ -12,8 +12,7 @@ type: concept
 # Society and Culture Guideline
 
 The society and culture guideline tests all actions and their associated tools for how
-they serve the [[savory-holistic-goal-definition]]. Production and landscape goals and
-all the rest of [[savory-holistic-management-overview]] are aimed at the quality of
+they serve the [[savory-holistic-management-overview]] are aimed at the quality of
 life, so this guideline governs holistic management in its broadest sense. Will an
 action really lead to the quality of life we seek, and what will it do to that of
 others?
@@ -63,8 +62,7 @@ governing public or communal lands.
 
 Suppose you have a farm and contemplate building a dam. Your production and landscape
 goals foresee establishment of duck and fish breeding habitat. For five years the
-required funds have failed to pass other [[savory-testing-and-management-guidelines]].
-Now [[dam-construction]] passes them all, and you look at it in the context of personal
+required funds have failed to pass other [[dam-construction]] passes them all, and you look at it in the context of personal
 quality of life as well as society and culture.
 
 As you think about your life, you realize that building the dam may not justify

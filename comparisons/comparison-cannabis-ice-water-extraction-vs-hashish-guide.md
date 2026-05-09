@@ -18,32 +18,6 @@ pressed forms. Understanding the relationship between these two topics helps gro
 the right extraction approach based on available equipment, desired quality, and the time
 and effort they are willing to invest in the process.
 ## Cannabis Ice Water Extraction
-[[cannabis-ice-water-extraction]]
-Ice water extraction separates resin glands from cannabis foliage using cold water agitation
-and progressively smaller mesh filters. The technique is based on straightforward physics:
-cannabis resin is oil-based and heavier than water, while plant foliage is water-based and
-lighter. When plant material is agitated in very cold water, the trichome heads become brittle
-and detach easily from the stalks. The cold temperature is critical because it hardens the
-resin glands, making them more likely to snap off intact rather than smear or dissolve into
-the water. The suspended trichomes then sink through a series of filter bags with progressively
-smaller micron openings, separating different grades of resin based on gland size.
-The standard equipment for ice water extraction is a set of Ice-O-Lator bags or similar
-micron filter bags, typically ranging from 220 micron down to 25 micron. The process involves
-filling a bucket with ice-cold water, nesting the filter bags inside one another with the
-largest micron bag on the outside, adding frozen chopped cannabis material and additional ice,
-then agitating the mixture gently with wooden paddles or spoons. After a settling period, each
-bag is lifted individually and the collected resin is scraped from the screen surface. It is
-important to use paddles rather than blender blades, as mechanical blades can shred plant
-material and contaminate the hash with green plant matter, reducing both quality and flavor.
-The result is multiple grades of hash ranging from full-melt quality (typically collected in
-the 25 to 73 micron bags, which contains the most intact, mature trichome heads) to lower
-grades suitable for cooking or pressing (collected in the larger 120 to 220 micron bags). The
-cold water can typically be reused for up to 5 batches before the water becomes too saturated
-with dissolved plant compounds to be effective. Ice water extraction is valued for producing
-some of the purest solventless concentrates available, requiring no chemicals beyond water
-and producing hash that can reach full-melt quality when processed carefully with premium
-starting material.
-## Hashish Guide
 [[cannabis-hashish-guide]]
 The hashish guide is a comprehensive reference covering all methods of hashish production
 throughout history and across cultures. It encompasses traditional dry sift techniques, where
@@ -119,9 +93,6 @@ water extraction to create bubble hash, then press it using traditional heat-pre
 described in the hashish guide to create dense, homogeneous hash blocks that age and store
 beautifully over time.
 ## See Also
-- [[comparison-cannabis-kief-collection-vs-hashish-guide]]
 - [[cannabis-ice-water-extraction]]
-- [[cannabis-hashish-guide]]
 - [[comparison-cannabis-kief-collection-vs-hashish-guide]]
-- [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
 - [[psychedelic-substances-comparison]]

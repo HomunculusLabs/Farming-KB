@@ -3,30 +3,7 @@ title: Permaculture Village Design
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Permaculture Village Design and Community Development
-
-updated: 2026-04-18
-
-Bill Mollison's Permaculture Designers Manual (Chapter 14) provides a comprehensive framework for designing villages that integrate food production, energy, shelter, and social structures into self-reliant communities. Village design is the practical application of permaculture ethics at the community scale.
-
-## Village Design Aims
-
-1. **Reduce the need to earn**: Food, energy, and shelter self-reliance
-2. **Earn within the village**: Local economy, local employment
-3. **Produce surplus**: For trade, gifts, and investment
-4. **Provide non-material needs**: Education, recreation, social connection, spiritual life
-5. **Cooperate in enterprises**: Shared resources, commonwork systems
-
-## Village Scale
-
-- **30-200 houses** can support essential services (school, clinic, store)
-- Isolated nuclear families cannot achieve self-reliance
-- The ideal village works as a set of [[williams-pdc-community-design]] connected to other villages
+tags: [[williams-pdc-community-design]] connected to other villages
 - Each village is ideally 20 families/tribes of ~1,000 people within a nation of ~30,000
 
 ## Urban Planning Critique
@@ -52,46 +29,7 @@ Traditional indigenous models where land is held in common by clans or tribes.
 Groups of people pool capital to purchase and develop land for community use.
 
 ### Self-Convened Groups
-People find each other and form intentional communities, often using [[mollison-bioregional-organisation-and-resource-index]] principles.
-
-## Development Economics
-
-### The 30% Rule
-30% of land titles cover all land and development costs. For 100 titles:
-- 60% sold at best prices
-- Remainder allocated for community access, profits, gifts, and labor equity
-- This enables community infrastructure without external financing
-
-### Personal Accountability Principle
-Group purchasers are held totally and individually responsible for payment. "This stops 'I've got a bright idea' and 'let's get it' approaches -- ideas must be paid for." If the idea is good, it pays itself off through lease over time.
-
-### Co-Investment Examples
-- Group water storages or energy systems
-- Group refrigeration facilities
-- Co-ownership of fishing vessel or coastal holiday home
-- Shared workshop or tool library
-
-These are not working cooperatives but projects that save money or provide wider resources than individual funding allows.
-
-## Group Work Organization
-
-### The Cell System
-Work to smaller autonomous groups of 1-3 people cells, trusted to do the job. Replaced only if persistently failing. This:
-- Eliminates control by inactive people
-- Allows dissenters to set up parallel work groups
-- Creates "WORK-NETTING" via cells
-
-### Village Success Factors
-
-**"Voluntary simplicity" as an ethic. Frugality is the most important habit.**
-
-Other success factors include:
-- Common vision and agreed ethics
-- Clear decision-making processes
-- Multiple enterprises per person (not single jobs)
-- Shared infrastructure and equipment
-- Local food production as foundation
-- [[community-finance-and-alternative-economies]]
+People find each other and form intentional communities, often using [[community-finance-and-alternative-economies]]
 
 ## Out-Migration and Community Resilience
 
@@ -117,18 +55,30 @@ The permaculture designer working with communities must:
 2. Facilitate community visioning, not impose designs
 3. Start with water and food systems as foundation
 4. Design for energy efficiency and self-reliance
-5. Create [[mollison-bioregional-organisation-and-resource-index]] opportunities
-6. Plan for long-term stewardship, not just initial development
-
-## Related Topics
-
-- [[permaculture-land-access-and-trusts]]
-- [[permaculture-commonwork-and-livelihoods]]
+5. Create [[permaculture-land-access-and-trusts]]
 - [[mollison-permaculture-community-legal-structure]]
-- [[community-finance-and-alternative-economies]]
 - [[ethical-investment-and-earth-banking]]
 
 ## Source
 
 Bill Mollison, Permaculture: A Designers Manual (1988), Chapter 14: The Permaculture Alternative
 - [[mollison-permaculture-two-community-self-reliance]]
+## Practical Considerations
+
+Successful implementation of Permaculture Village Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

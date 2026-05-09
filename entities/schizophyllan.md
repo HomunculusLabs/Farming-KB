@@ -90,8 +90,6 @@ mushrooms to grow in liquid culture, making schizophyllan production
 relatively accessible through fermentation methods.
 
 ## See Also
-- [[lentinan]]
 - [[psk-polysaccharide-krestin]]
-- [[polysaccharide-peptide-psp]]
 - [[schizophyllum-commune]]
 - [[grifola-frondosa]]

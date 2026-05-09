@@ -1,7 +1,7 @@
 ---
 title: "grain-spawn-preparation and inoculation-methods"
 created: 2026-04-28
-tags: [mushroom-cultivation, grain-spawn, mycelium, inoculation, spawn-production]
+tags: [[mushroom-cultivation, grain-spawn, mycelium, inoculation, spawn-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -142,9 +142,8 @@ Hot jars cooling suck in air with airborne contaminants. An average room has
 10,000 particulates per cubic foot versus fewer than 100 in a sterile lab.
 
 1. Clean the pressure cooker exterior before entering the sterile room
-2. Inoculate jars immediately after cooling to room temperature -- never leave
 ## See Also
-- [[grain-spawn-types-and-preparation]]
 - [[mushroom-grain-spawn-preparation]]
-- [[magic-mushroom-preparation-and-consumption-methods]]
 - [[azurescens-spawn-preparation-grain-to-wood]]
+
+See also: [[mushroom-cultivator-grain-spawn-production]]

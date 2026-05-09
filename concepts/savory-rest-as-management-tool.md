@@ -126,14 +126,9 @@ rest of any form should be avoided.
 
 ## See Also
 
-- [[savory-fire-as-management-tool]]
-
 - [[savory-overgrazing-vs-overrest]] for the distinction between
   overgrazing and overrest damage
-- [[savory-brittle-environments]] for the brittleness scale
 - [[savory-animal-impact-and-herd-effect]] for the disturbance
   brittle environments need instead of rest
-- [[savory-plant-succession-and-community-dynamics]] for how rest
-  shifts successional direction
 - [[savory-desertification-causes]] for the consequences of chronic
   rest

@@ -10,24 +10,9 @@ tags: [fungi]
 
 # Fungi in Folklore and Mythology
 
-Fungi have occupied a peculiar place [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]] imagination for centuries. As
-[[nicholas-money]] notes, many people "giggle at the mention of these organisms,
-drawing on vague notions about hallucinogens and poisons, fairy tales, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
-erectile behavior [[antiviral-properties-of-mushrooms]]." Mr. Bloomfield's Orchard traces how this
-cultural fascination intertwines with real fungal biology, from [[victorian-mycology-and-fairy-rings]] to
-witch trials to the stinkhorn mythology that drove a French sect to attack a
-priest.
-
-## Fairy Rings: From Superstition to Science
-
-Fairy rings -- circular patterns of mushrooms in pastures and lawns -- have
-spawned centuries of folklore across Europe. In folk tradition, the rings were
-believed to be dancing grounds for fairies, portals to other worlds, or the
-sites of supernatural gatherings. To step inside a fairy ring was to risk being
-transported to the fairy realm or cursed with bad luck.
-
-John Aubry (1626-1697) commented upon the similarity between ringworm patterns
-on skin [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] growth of fairy rings in his Natural History of Wiltshire (written
+Fungi have occupied a peculiar place [[ingold-cecil-t]] notes, many people "giggle at the mention of these organisms,
+drawing on vague notions about hallucinogens and poisons, fairy tales, [[antiviral-properties-of-mushrooms]]." Mr. Bloomfield's Orchard traces how this
+cultural fascination intertwines with real fungal biology, from [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] growth of fairy rings in his Natural History of Wiltshire (written
 between 1656 and 1691, published posthumously in 1847). The resemblance between
 the fungal rings and skin disease reinforced supernatural interpretations of both
 phenomena.
@@ -35,26 +20,7 @@ phenomena.
 The scientific explanation is elegant: mycelia spread outward from their point
 of origin, leaving an ever-widening circle of dead and dying cells at their core.
 This distinctive torus-shaped growth pattern creates annual flushes of mushrooms
-above the active perimeter [[allegro-colour-and-consistency-of-the-amanita-muscaria]] mycelium. Large mycelia belonging to
-Armillaria (honey fungus) can travel through a forest for thousands of years,
-with one Michigan specimen spreading over 15 hectares (37 acres) and equaling
-the mass of a blue whale. An Oregon specimen may cover more than 2,200 acres and
-is estimated at 2,400 to 7,200 years old, holding the title of World's Largest
-Organism.
-
-### Morel Cycles and Local Beliefs
-
-Local folklore often misrepresents mushroom fruiting cycles. Money recounts an
-elderly Ohio woodsman who, drawing on eighty years of experience, assured him that
-a magnificent morel harvest appeared every three years. Four years later, Money
-was still waiting. The reality: mycelia are exhausted by a year of exuberance
-and demand time to restore their biomass. People who would never venture into the
-woods for any other reason will get up before dawn to collect morels in the
-pouring rain, guided by folk beliefs about cycles that have no scientific basis.
-
-## Stinkhorn Mythology and the Erotic Fungus
-
-The phallic appearance of [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]] (Phallus species) has generated some
+above the active perimeter [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]] (Phallus species) has generated some
 of the richest fungal folklore across cultures. In 1926, members of a French sect
 became convinced that these "obscene fungi" arose from bird droppings and
 afflicted those who inhaled their odors with "horrible diseases." They attacked
@@ -65,22 +31,7 @@ discusses this and related mythology in Fungi, Folklore, Fiction, & Fact (1982).
 The biology reinforces the folklore: stinkhorns emerge from egg-shaped structures
 (2-3 centimeters in diameter) buried underground. Inside, a central receptacle
 runs pole-to-pole through the center, surrounded by a green-black cushion of
-spores called the gleba. When the receptacle absorbs [[water-management]] and ruptures the skin,
-it carries the spore-bearing gleba upward. The tissue expands by absorbing water
-through its spongy interior -- a mechanism explicitly compared to the engorgement
-of erectile tissue, which has made stinkhorns a source of fascination, revulsion,
-and ribald humor across cultures.
-
-Receptacles were once eaten as delicacies in parts of Europe. In his
-autobiographical account, Money describes eating rings cut from expanded
-receptacles that were "delicious," noting the delicate construction built from
-the same inflated cells as a newborn baby's brain. Cage stinkhorns (Clathrus
-species) unfurl multiple receptacles into a cage-like structure with spores on
-the inside of its bars.
-
-## Fly Agaric in Literature, Ritual, and Popular Culture
-
-The fly agaric ([[amanita-muscaria]]) -- "the choice of fairy tale illustrators" with
+spores called the gleba. When the receptacle absorbs [[amanita-muscaria-entity]]) -- "the choice of fairy tale illustrators" with
 its bright red cap splattered with white scales -- is "associated with a rich
 history of ritual use and abuse, and has played center stage in numerous fiction
 and nonfiction books." Its visual hallucinations, caused by muscimol and
@@ -103,7 +54,7 @@ traditions:
 
 ## Ergotism and the Salem Witch Trials
 
-The [[ergot-fungus]] ([[claviceps-purpurea]]), a pathogen of rye, has left perhaps the
+The [[claviceps-purpurea]]), a pathogen of rye, has left perhaps the
 darkest mark on fungal-human interaction. Its toxins cause vasoconstriction so
 powerful that hands and feet become gangrenous. An eighteenth-century English
 report referred to "a singular calamity" in which six family members lost their

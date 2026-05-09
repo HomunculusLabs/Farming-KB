@@ -13,7 +13,8 @@ categories:
   - aerodynamics
   - engineering
 tags: [profile]
-sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 # Ludwig Prandtl
 
@@ -24,7 +25,7 @@ and provided the mathematical foundation for understanding drag, lift, and
 streamlined body design. Over five decades at the University of Gottingen,
 he developed lifting-line theory, the mixing-length turbulence model, thin
 airfoil theory, and the Prandtl number, while training an extraordinary
-generation of students who dominated [[navier-stokes-equations-fluid-dynamics]] worldwide.
+generation of students who dominated  worldwide.
 
 ## Early Life and Education
 
@@ -96,7 +97,7 @@ drag rise known as the "sound barrier."
 ### The Prandtl Number
 
 The **Prandtl number** (Pr = v/alpha = cp*mu/k) is a fundamental
-dimensionlheat-transfer-coefficient]] in convective heat transfer representing the ratio
+dimensionlheat-transfer-coefficient in convective heat transfer representing the ratio
 of momentum to thermal diffusivity. For air Pr ~ 0.71; for water Pr ~ 7.0.
 It appears alongside Reynolds, Nusselt, and Grashof numbers in virtually
 every convective heat transfer analysis.
@@ -140,9 +141,10 @@ accommodating the regime to preserve his research.
 Prandtl died on **15 August 1953** in Gottingen. He received the **Daniel
 Guggenheim Medal** (1928), was elected Foreign Member of the **Royal
 Society** (1929), and held honorary doctorates from Munich, Prague, Zurich,
-and Istanbul. The **ludwig prandtl-Ring** (Germany's highest aerospace
-award), the Prandtl number, a lunar crater, and the Prandtl-Glauert
-singularity all bear his name. Virtually every modern aircraft, turbine,
-and fluid-flow device embodies his theoretical insights.
+## See Also
 
 ## See Also
+- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
+- [[euler-bernoulli-beam-theory]]
+
+See also: [[fukuoka-natural-farming-philosophy]]

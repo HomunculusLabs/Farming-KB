@@ -14,33 +14,12 @@ type: concept
 
 The Seed/Seedling Solution (SES) treatment is a fundamental practice in
 Dr. Cho's Korean Natural Farming. It restores seed vitality through brief
-exposure to [[cho-natural-farming-inputs-overview]]
-rather than the prolonged soaking and chemical treatments used in
-conventional agriculture.
-
-## Philosophy
-
-Cho argues that seeds grown under harsh natural conditions are tougher
-with superior adaptability. Commercial seeds, bred artificially and
-treated with chemicals, depend on human protection. Natural Farming aims
-to maximize each seed's inherent strength through a brief, nutrient-rich
-treatment. Unlike conventional pre-soaking (which causes nutrient loss),
-SES uses short exposure to revitalize seeds while preserving internal
-reserves.
-
-## SES Solution Recipe
-
-### Base Recipe (per 1000 ml water)
-
--   [[cho-fermented-plant-juice-preparation]]: 2 ml
--   [[knf-brown-rice-vinegar]]: 2 ml
+exposure to [[cho-fermented-plant-juice-preparation]]: 2 ml
 -   [[knf-oriental-herbal-nutrient]]: 1 ml
 -   Water: 1000 ml
 
 ### Optional Additions
 
--   [[cho-fish-amino-acid-preparation]]: 1 ml — when seedlings are
-    small and weak (nitrogen boost).
 -   [[cho-water-soluble-calcium-and-potassium]]: 1 ml — when
     seedlings are overgrown and soft (calcium firms tissue).
 
@@ -94,13 +73,6 @@ Soil Treatment Solution applied before planting:
 
 ## Loess Powder Addition
 
-[[cho-loess-powder-in-natural-farming]] at 20-30 g per liter
-of water provides trace elements and growth factors that strengthen
-seedlings against canker and leaf fungus.
-
-## Integration with Growth Stages
-
-The SES treatment is the first step in the
 [[cho-plant-growth-stage-treatments]]. After seed
 treatment, the vegetative, cross-over, and reproductive stage treatments
 build upon this foundation.
@@ -116,10 +88,6 @@ build upon this foundation.
 
 ## See Also
 
-- [[cho-seed-and-seedling-vitality-restoration]]
-
--   [[knf-seed-treatment-and-soil-foundation]]
--   [[jadam-seed-treatment-and-nursery-management]]
+- [[knf-seed-treatment-and-soil-foundation]]
 -   [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
--   [[cho-loess-powder-in-natural-farming]]
-- [[knf-soil-treatment-solution]]
+-   [[knf-soil-treatment-solution]]

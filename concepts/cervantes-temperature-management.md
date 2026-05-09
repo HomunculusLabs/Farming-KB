@@ -19,7 +19,6 @@ Cervantes emphasizes that maintaining proper
 temperature ranges throughout all growth stages is
 essential for maximum yield and quality.
 
-See also: [[cervantes-indoor-grow-room-setup]]
 See also: [[cervantes-grow-room-design-advanced]]
 
 ## Ideal Temperature Ranges
@@ -55,30 +54,7 @@ narrower optimal ranges:
   (21 degrees C) for slow, even drying that preserves
   terpenes and prevents mold.
 
-See also: [[cervantes-vegetative-phase]]
 See also: [[cervantes-flowering-phase]]
-See also: [[cervantes-drying-buds-methods]]
-
-## Root Zone Temperature
-
-The root zone temperature should be slightly warmer
-than the ambient air temperature. A warmer substrate
-increases underground chemical activity and nutrient
-uptake, while lower air temperature slows
-transpiration and helps plants retain moisture.
-
-- **Optimal root zone:** 75 to 80 degrees F (24 to 27
-  degrees C)
-- **Keep air 5 to 10 degrees F (3 to 5.5 degrees C)
-  cooler** than the substrate temperature.
-
-Growing medium temperatures above 85 degrees F
-(29 degrees C) will cause damage. A warmer growing
-medium coupled with cooler ambient temperature slows
-diseases and conserves moisture. This principle is
-especially important during cloning and seedling
-stages.
-
 See also: [[cervantes-cloning]]
 See also: [[cervantes-seed-germination]]
 

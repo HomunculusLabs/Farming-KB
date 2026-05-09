@@ -90,17 +90,8 @@ Holzer has crossed domestic pigs with wild boar to create hardy, self-sufficient
 
 ## Fish and Waterfowl
 
-Beyond the pond construction described in [[sepp-holzer-pond-construction]], Holzer integrates fish and waterfowl throughout his water systems. Ducks control snail populations that can carry liver flukes, while their manure fertilises pond edges. Geese serve as effective alarm systems and grazers. Fish species are selected to create self-sustaining populations that feed on natural pond productivity rather than artificial feed.
+Beyond the pond construction described in [[permaculture-domestic-animals]] for broader discussion.
 
-## Animal Health Philosophy
+See also: [[permaculture-domestic-animals]], [[permaculture-integrated-animal-systems]], [[holzer-natural-animal-husbandry]]
 
-Holzer's approach to animal health prioritises prevention over treatment. Animals with access to diverse forage, clean water, natural shelter, and appropriate social groups rarely fall ill. He avoids routine medication and vaccination, instead relying on genetic robustness and environmental quality. When health issues arise, he first addresses environmental factors -- diet, stress, housing -- before considering interventions. See [[permaculture-domestic-animals]] for broader discussion.
-
-See also: [[permaculture-animal-integration]], [[permaculture-domestic-animals]], [[sepp-holzer-method]], [[backyard-poultry-and-integrated-animal-systems]], [[forage-systems-animals-permaculture]]
-
-## Related
-
-- [[holzer-natural-animal-husbandry]]
-
-- [[pdc-forage-systems-animal-integration]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]

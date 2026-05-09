@@ -1,7 +1,7 @@
 ---
 title: "Mushroom Spore Dispersal Mechanisms"
 created: 2026-04-28
-tags: [mycology, spores, dispersal, fungal-reproduction]
+tags: [[mycology, spores, dispersal, fungal-reproduction]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -59,33 +59,7 @@ individual ecological strategies.
 ## Insect Vectors
 
 Many species of mushrooms use insects to carry spores. The scent of
-the birch polypore ([[piptoporus-betulinus]]) attracts beetles that
-burrow into the mushrooms, piercing the spore-rich underlayer to
-feast on the soft internal flesh. In doing so, the beetles become
-covered with spores. When the beetle travels to another tree and
-burrows into its bark to lay eggs, the tree is inoculated with
-spores of the birch polypore. The emerging fungus provides the
-beetle's developing larvae with food. The tree softens as mycelium
-grows into it, and soon woodpeckers arrive in search of beetle
-grubs and other insects attracted to the myceliated wood.
-
-Once the woodpeckers leave, carrying spores with them, other birds
-and insects take up residence. An entire ecosystem spirals from the
-pockmarked tree, which can become a launching platform for more
-fungi, insects, and birds. Bears also spread mushroom spores through
-scratchings on trees where they mark their territories, creating
-apt habitats for spore entry. These intersecting cycles sustain
-biodiversity across the forest landscape.
-
-## Animal and Bird Dispersal
-
-Larvae of certain flies and beetles consume mushrooms and then grow
-up to carry spores with them to new locations. Some spores survive
-digestion and are deposited in new habitats through animal waste.
-Spotted owls have been found to harbor viable truffle spores,
-assuring wider dispersal of these underground fungi through the
-forest. The interdependence between animals and fungal spore
-dispersal is one reason why so many [[mycorrhizal-fungi]] have evolved
+the birch polypore ([[mycorrhizal-fungi]] have evolved
 relationships with specific animal partners.
 
 ## The Spore Slurry Method
@@ -121,6 +95,5 @@ from elder mushrooms.
 
 ## See Also
 
-- [[mushroom-life-cycle-stamets]]
 - [[mycelium-running-insect-fungal-mutualism]]
 - [[mycelium-running-mycorrhizal-mushroom-gardens]]

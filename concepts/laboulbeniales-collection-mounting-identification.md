@@ -103,11 +103,7 @@ Parasitized insects stored in 70% alcohol with glycerol added to retard evaporat
 
 ## Related Topics
 
-- [[trichomycetes-gut-fungi-arthropods]] — another group of arthropod-associated fungi
 - [[bark-beetle-fungi-ophiostomatales-collection-isolation]] — fungi associated with beetle hosts
-- [[fungal-biodiversity-measurement-methods]] — broader survey methodology
 - [[fungal-molecular-identification]] — molecular approaches to identification
-- [[insect-fungi-gardening-symbioses]] — mutualistic insect-fungus associations
 - [[myxomycetes-slime-molds]] — fungal-like organisms sometimes dispersed by arthropods
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[microscope-identification-soil-organisms]]

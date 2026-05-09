@@ -11,8 +11,7 @@ type: concept
 
 # Ergot and the Eleusinian Kykeon in Food of the Gods
 
-In *Food of the Gods*, [[terence-mckenna]] provides a detailed examination
-of the ergot hypothesis for the [[eleusinian-mysteries]], the theory
+In *Food of the Gods*, [[eleusinian-mysteries]], the theory
 that the sacred kykeon consumed by initiates at Eleusis was a beer
 brewed from grain infected with the ergot fungus *Claviceps purpurea*.
 McKenna presents this theory, developed by R. Gordon Wasson, Albert
@@ -120,9 +119,6 @@ historical evidence of the sacrament's tangible nature.
 
 ## See Also
 
-- [[peyote]]
-
 - [[eleusinian-mysteries]]
-- [[mckenna-food-gods-graves-psilocybin-eleusis]]
 - [[mckenna-food-gods-fall-consciousness]]
 - [[mckenna-food-gods-partnership-dominator]]

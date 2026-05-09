@@ -1,5 +1,5 @@
 ---
-title: "Growing Cucurbits: Squash, Cucumber, Melon - steve-solomon"
+title: Solomon Growing Cucurbits Guide
 created: 2026-04-26
 tags:
   - gardening
@@ -55,69 +55,13 @@ cucurbits is especially worthwhile. Solomon's method:
    bag at warm room temperature (at least 70F / 21C).
 5. Begin checking after two days; plant before roots exceed one inch.
 
-For more on chitting, see [[solomon-chitting-and-presprouting-techniques]].
-
-## Soil and Fertility
-
-Cucurbits grow fast in full sun and fertile soil (most fruiting plants do).
-Their root systems are mainly shallow but at least as extensive as their
-tops. With bush summer squash, the roots may spread significantly more
-than the leaves do. The entire area the vines will ultimately cover should
-be made fertile. Additionally, sow seeds in a hill with extra fertility
-beneath it to get seedlings off to a fast start.
-
-## Spacing: One Plant Per Hill
-
-On hot sunny afternoons, gardeners often shrug off temporary wilting of
-cucurbits as unimportant. This is not correct. Any wilting is a big stress
-that greatly reduces plant health and overall yield. Cucurbits do not wilt
-on hot days when only one plant grows in each hill and does not share its
-root zone.
-
-Therefore, where squash borer is not a problem (and it rarely troubles
-cucumber and melons), do not grow two or three plants per hill. Start
-three seeds but thin to one by the time the vines start to run.
-
-Watermelons are intolerant of heavy soils and need particularly good
-drainage.
-
-## Pests and Diseases
-
-The cucurbit family is susceptible to several serious pests and diseases:
-
-- **Squash bugs**: Easily recognized, about five-eighths of an inch long.
-  They suck plant sap and can devastate crops. See
-  [[solomon-pest-management-without-chemicals]].
+For more on chitting, see [[solomon-disease-identification-and-organic-remedies]].
 - **Squash vine borer**: A major pest of squash and pumpkins. Rarely a
   problem with cucumbers and melons. After harvest, promptly burn winter
   squash vines to destroy overwintering larvae.
 - **Powdery mildew**: Common on cucurbits, especially late in the season
   when weather gets cool and damp. See
-  [[solomon-disease-identification-and-organic-remedies]].
-- **Cucumber beetles**: Feed on cucumbers and can spread bacterial wilt.
-
-## Harvest and Storage
-
-### Summer Squash (Zucchini)
-
-Everyone says zucchini stops yielding much after a month or so, but this
-need not be the case. If you give plants adequate growing room, they will
-produce more growing branches, more flowers will form, and yield will
-steadily increase until weather turns against the crop. Do not crowd them.
-Solomon has grown bush varieties in hills on five-foot (150 cm) centers
-with great results.
-
-Remove all overlooked oversized fruit from summer squash and cucumber vines
-because the burden of forming seed reduces formation of new fruit.
-
-### Winter Squash and Pumpkin
-
-Winter squash do not taste great until fully ripe. They have reached that
-state when the stem attaching fruit to vine has shriveled and become brittle,
-revealing that it no longer passes vascular fluid.
-
-Storage potential varies by species:
-- *Cucurbita pepo* (acorn, delicata) do not store as long.
+  [[cucurbita-pepo]]* (acorn, delicata) do not store as long.
 - *C. maxima* (Hubbard, buttercup) and *C. moschata* (butternut) store
   much longer.
 
@@ -144,7 +88,6 @@ For summer squash, the old OP Yellow Crookneck (vining) is best-tasting
 and resists pests better than most hybrids. For winter squash, Solomon
 recommends Sweet Meat (from Harris Seeds or Territorial) for long keeping.
 The old "apple" or "lemon" cucumber adapts to lower fertility. Hybrid
-melon seed is expensive; in maritime climates only the earliest hybrids
-produce anything, and only on black plastic.
-
 ## See Also
+
+- [[vegetable-growing-guide]]

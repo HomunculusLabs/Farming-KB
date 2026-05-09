@@ -1,7 +1,7 @@
 ---
 title: Coppice and Forest Management Systems
 created: 2026-04-28
-tags: [permaculture, coppice, forest-management, timber, pole-wood, 
+tags: [[permaculture, coppice, forest-management, timber, pole-wood, 
 dry-distillation, firewood, bamboo, windbreak, wildlife-habitat, 
 sustainable-harvest]
 date: 2026-04-25
@@ -125,10 +125,7 @@ forest clouds, not sea clouds.
 
 ## See Also
 
-- [[mollison-pdc-forest-management-products]]
-
 - [[mollison-course-keyline-water-harvesting-dams]] for water systems in
   forested landscapes
-- [[mollison-course-zone-planning-and-design]] for placing forest zones
 - [[mollison-course-swales-and-earthworks-design]] for forest earthworks
 - [[ozier-pdc-forest-succession-and-food-forests]] for succession concepts

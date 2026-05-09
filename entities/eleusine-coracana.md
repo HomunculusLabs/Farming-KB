@@ -111,12 +111,8 @@ Insect pests include the shoot fly (*Atherigona soccata*), stem borer (*Chilo pa
 
 ## See Also
 
-- [[panicum-virgatum]]
 - [[miscanthus-giganteus]]
-- [[moringa-oleifera]]
 - [[azadirachta-indica]]
-- [[gliricidia-sepium]]
 - [[leucaena-leucocephala]]
-- [[symphytum-officinale]]
 - [[medicago-sativa]]
 - [[spartina-alterniflora]]

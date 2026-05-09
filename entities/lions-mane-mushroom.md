@@ -18,31 +18,7 @@ created: 2026-05-07
 
 Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group, family Hericiaceae. It is native to North America, Europe, and Asia, where it grows on hardwood trees — particularly oaks, walnuts, and beeches — in late summer and autumn. The mushroom is instantly recognizable by its cascading white spines that resemble a lion's mane, hence its common name.
 
-Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism, primarily as a tonic for the digestive system and as a cognitive enhancer. In recent decades, it has attracted significant scientific attention for its neuroprotective and neuroregenerative properties, making it one of the most studied [[medicinal-mushrooms]] in modern mycological research.
-
-## Taxonomy and Classification
-
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Fungi |
-| Division | Basidiomycota |
-| Class | Agaricomycetes |
-| Order | Russulales |
-| Family | Hericiaceae |
-| Genus | *Hericium* |
-| Species | *H. erinaceus* |
-
-Several other species in the *Hericium* genus are similar in appearance and properties, including *H. coralloides* (Coral Hedgehog Mushroom) and *H. americanum* (Bear's Head Tooth). True Lion's Mane is distinguished by its long, unbranched spines and tendency to grow as a single mass rather than branching clusters.
-
-## Morphology
-
-The fruiting body of *Hericium erinaceus* is composed of a dense cluster of soft, hanging spines (spicules) that can reach 1–5 cm in length. Key morphological features include:
-
-- **Fruiting body**: Ranges from 5–25 cm in diameter, spherical to irregular in shape
-- **Color**: Pure white when young, turning yellowish-brown with age
-- **Spines**: Soft, pendulous, downward-pointing; the key identifying feature
-- **Flesh**: White, firm when fresh, becoming tough and fibrous when dried
-- **[[spore-print]]**: White to cream-colored
+Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism, primarily as a tonic for the digestive system and as a cognitive enhancer. In recent decades, it has attracted significant scientific attention for its neuroprotective and neuroregenerative properties, making it one of the most studied [[spore-print]]**: White to cream-colored
 - **Odor**: Mild, pleasant, slightly mushroomy
 - **Taste**: Often compared to lobster or crab meat when cooked
 
@@ -110,13 +86,7 @@ Lion's Mane can be cultivated both commercially and at home using several method
 
 ### Growing Methods
 
-1. **Indoor cultivation on supplemented sawdust blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a [[fruiting-chamber]] with high humidity (85–95%), fresh air exchange, and indirect light.
-
-2. **Log cultivation**: Hardwood logs (oak, beech) are inoculated with plug spawn and left outdoors in shaded areas. Fruiting typically occurs 6–12 months after inoculation and continues for several years.
-
-3. **Toilet paper / straw method**: A low-tech approach suitable for beginners. Sterilized straw or toilet paper rolls serve as substrate.
-
-### [[fruiting-conditions]]
+1. **Indoor cultivation on supplemented sawdust blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a [[fruiting-conditions]]
 
 | Parameter | Optimal Range |
 |-----------|--------------|
@@ -139,11 +109,6 @@ Lion's Mane is considered a gourmet edible mushroom with a firm, meaty texture a
 - Using as a meat substitute in vegetarian and vegan dishes
 ## Related
 
-- [[hericium-erinaceus]]
 - [[mushroom-cultivation-basics]] Species
 
-- **[[hericium-coralloides]]**: Coral Hedgehog — branching spines, similar medicinal properties
-- **Hericium americanum**: Bear's Head Tooth — native to North America, larger branching habit
-- **Hericium abietis**: Conifer Coral — found on conifers in western North America
-- **Hericium erinaceus var. alba**: A white-cultivated strain selected for commercial production
-- [[cotter-mushroom-life-cycle-mycelium-biology]]
+- **[[cotter-mushroom-life-cycle-mycelium-biology]]

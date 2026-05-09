@@ -115,12 +115,7 @@ When brewing with herbs, several general principles apply:
 
 ## See Also
 
-- [[gruit-beer-and-herbs]] for the classic European herbal bittering tradition
 - [[sacred-brewing-traditions]] for the spiritual context of herbal brewing
-- [[beer-brewing-basics]] for general brewing technique
-- beer styles overview for modern beer categories
 - [[hops-history-and-brewing]] for the herb that replaced most others
-- [[history-of-beer-and-brewing]] for the historical development
 - [[root-beer-making]] for non-alcoholic herbal brewing
-- [[valerian-growing-guide]] for one medicinal brewing herb
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

@@ -101,8 +101,6 @@ To determine the best possible therapeutic window, seek advice from peers with M
 Both sativa and indica strains contain cannabinoids that activate CB1 and CB2. However, sativas or sativa-heavy strains tend to produce higher THC:CBD ratios than indica strains. The THC:CBD combination in Sativex has shown particular efficacy for MS symptoms through simultaneous CB1 and CB2 activation.
 
 ## See Also
-- [[blesching-cannabis-health-index-autoimmune-conditions]]
 - [[cannabis-health-strains-sativa-indica]]
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]

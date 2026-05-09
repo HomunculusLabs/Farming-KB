@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Polyploidy and Colchicine Treatment"
+title: Cannabis Polyploidy [[colchicine]] Treatment Clarke
 created: 2026-04-28
 tags: [cannabis, genetics, polyploidy, breeding, Clarke]
 date: 2026-04-25
@@ -141,10 +141,7 @@ enable geneticists to determine and manipulate the important
 characteristics contained in the gene pool. For each trait the number
 of genes in control will be known, which chromosomes carry them, and
 where they are located along those chromosomes.
-
 ## See Also
 
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-- [[cannabis-sex-determination-floral-biology]]
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]

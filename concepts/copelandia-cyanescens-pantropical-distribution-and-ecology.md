@@ -139,11 +139,9 @@ a naturalized or introduced species:
 - **Great Britain**: Keay and Brown (1990).
 ## See Also
 
-- [[copelandia-cyanescens]]
 - [[copelandia-genus]]
 - [[copelandia-genus-species-guide]]
 
 - [Copelandia Genus Species Guide](copelandia-genus-species-guide.md)
-- [Copelandia Panaeoloideae Neurotropic Fungi](copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution.md)
-- [Psilocybe Cubensis Distribution and Ecology](psilocybe-cubensis-distribution-and-ecology.md)
+- [Copelandia Panaeoloideae Neurotropic Fungi]([[psilocybe-cubensis-distribution-and-ecology]](psilocybe-cubensis-distribution-and-ecology.md)
 - [Neurotropic Fungi Biogeographic Patterns](neurotropic-fungi-biogeographic-patterns.md)

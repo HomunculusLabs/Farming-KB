@@ -41,16 +41,7 @@ Two primary decay strategies exist among wood-decaying basidiomycetes:
 **White rot fungi** degrade both cellulose and lignin simultaneously or
 selectively. They employ lignin peroxidase, manganese peroxidase, and laccase
 enzymes to break down the lignin polymer, exposing cellulose fibers for
-further degradation. Examples include [[phanerochaete-velutina]], Coriolus
-versicolor, and Resinicium bicolor. Connolly et al. (1998) demonstrated that
-Resinicium bicolor can utilize strontium from strontianite sand and deposit
-it in calcium oxalate crystals, suggesting pathways for radionuclide
-translocation.
-
-**Brown rot fungi** primarily degrade cellulose while modifying lignin
-through non-enzymatic Fenton chemistry involving hydrogen peroxide and iron,
-leaving a characteristic brown, cracked residue. This strategy is
-[[energy-efficient-house-design]], rapidly releasing cellulose-derived carbon while leaving a
+further degradation. Examples include [[energy-efficient-house-design]], rapidly releasing cellulose-derived carbon while leaving a
 lignin-rich residue.
 
 **Aquatic analogues**: In stream ecosystems, where true white and brown rot
@@ -133,13 +124,7 @@ important in tropical forests with high rainfall.
 The formation of persistent mycelial mats represents significant long-term
 carbon storage. Hysterangium setchellii mats may account for 45-55% of total
 soil organic biomass (Cromack et al., 1979; Fogel and Hunt, 1983). The
-below-ground allocation to [[mycorrhiza]] and decomposer fungal components may
-serve as an important carbon sink in climate change scenarios, though this is
-rarely adequately quantified in carbon budget models.
-
-## Ecological Functions Beyond Carbon Cycling
-
-fungal wood decay types mycoremediation singh singh brown rot singh [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to ecosystem processes beyond carbon and nutrient
+below-ground allocation to [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to ecosystem processes beyond carbon and nutrient
 cycling:
 
 - **Pollutant degradation**: Phanerochaete chrysosporium degrades toxic

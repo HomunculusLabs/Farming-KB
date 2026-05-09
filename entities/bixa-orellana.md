@@ -103,18 +103,11 @@ The residual seed meal after extraction contains approximately 13-15% protein an
 
 ## See Also
 
-- [[carthamus-tinctorius]]
 - [[curcuma-longa]]
-- [[capsicum-annuum]]
 - [[zingiber-officinale]]
-- [[cinnamomum-verum]]
 - [[eugenia-caryophyllata]]
-- [[pimenta-dioica]]
 - [[myristica-fragrans]]
-- [[piper-nigrum-entity]]
 - [[vanilla-planifolia]]
-- [[ilex-paraguariensis]]
 - [[theobroma-cacao]]
-- [[allium-sativum-entity]]
-- [[foeniculum-vulgare]]
+- [[foeniculum-vulgare-entity]]
 - [[coriandrum-sativum]]

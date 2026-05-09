@@ -107,12 +107,8 @@ potential to serve multiple functions simultaneously.
 
 ## Related Topics
 
-- [[mollison-pond-edge-configuration-and-yield]] - Detailed edge
-  design strategies
 - [[mollison-pond-systems-layouts-and-connectivity]] - Pond
   arrangement in the landscape
-- [[mollison-pond-furniture-and-structures]] - Habitat structures
-  within ponds
 - [[mollison-aquatic-polyculture-and-pond-culture]] - Species mixes
   for productive ponds
 - [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]

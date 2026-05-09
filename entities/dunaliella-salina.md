@@ -98,17 +98,9 @@ The genus *Dunaliella* contains approximately 30 described species occupying div
 
 ## See Also
 
-- [[chlorella-vulgaris]]
 - [[haematococcus-pluvialis]]
-- [[nannochloropsis-gaditana]]
 - [[arthrospira-platensis]]
-- [[saccharomyces-cerevisiae]]
 - [[glycine-max]]
-- [[aquaculture]]
-- [[permaculture]]
-- [[sustainability]]
-- [[climate-change]]
-- [[photosynthesis]]
-- [[nutrition]]
-- [[anti-inflammatory]]
-- [[fermentation]]
+- aquaculture
+- [[cannabis-anti-inflammatory-applications]]
+- fermentation

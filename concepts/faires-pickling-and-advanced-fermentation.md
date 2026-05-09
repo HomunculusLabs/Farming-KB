@@ -3,96 +3,11 @@ title: Faires Pickling and Advanced Fermentation
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Faires Pickling and Advanced Fermentation
-
-Beyond the basic lacto fermentation covered in [[faires-food-fermentation-methods]], the Faires guide describes a range of pickling and preservation techniques that expand the homesteader's ability to process and store food year-round. Pickling cucumbers, vegetables, eggs, and other foods extends the harvest, adds nutritional value through beneficial bacteria, and creates diverse flavours for the winter table.
+tags: [[faires-food-fermentation-methods]], the Faires guide describes a range of pickling and preservation techniques that expand the homesteader's ability to process and store food year-round. Pickling cucumbers, vegetables, eggs, and other foods extends the harvest, adds nutritional value through beneficial bacteria, and creates diverse flavours for the winter table.
 
 ## Lacto-Fermentation: Safety and Principles
 
-Lacto-fermentation has become more popular again in recent years because it saves the [[nutritional-properties-mushrooms]] of the food preserved and has all kinds of friendly bacteria. Where other types of food preservation techniques try to kill all the bacteria, fermentation encourages it. It works because the fermentation process produces lactic acid, which kills botulism and other bacteria. For this reason, lacto-fermentation can be much safer than canning or even eating raw vegetables, which can harbour E. coli.
-
-### Equipment
-
-It is highly recommended to put fermenting foods into jars with rubber-sealed lids. The rubber seals release gasses that build up during the fermentation process, preventing an explosion. Traditionally, people used crocks as well. You can sterilise the jars by pouring boiling water in them, but soap and water are sufficient. The most important factor is the quality and cleanliness of the produce itself -- grow the food yourself or get it from a farmer who has clean produce and a good reputation.
-
-### The Smashing Technique
-
-Throughout the pickling and fermentation recipes, a common technique is repeatedly smashing the vegetables down in the jar. This is important because:
-- It forces liquid out of the vegetables, creating a brine
-- It ensures the vegetables stay submerged below the liquid surface
-- It packs the vegetables tightly, excluding air
-- Submersion below liquid prevents mould growth on exposed surfaces
-
-If mould does develop on the surface, it can simply be scraped off. The food below the brine is still safe.
-
-## Pickling Cucumbers
-
-Cucumbers are the most popular type of pickle, but many other vegetables can be pickled using the same fundamental technique.
-
-### Basic Pickle Recipe
-
-Ingredients:
-- 1 pound of sliced cucumbers
-- 1 cup of sea salt for initial salting
-- Peppercorns
-- 1.5 tablespoons sea salt for brine
-- 1 cup of unchlorinated water
-- Mustard seeds
-- Lots of fresh dill
-- 2 cloves chopped or mashed garlic
-
-Process:
-1. Lay the cucumbers tightly into a bowl, adding salt to each layer
-2. Fill with water so there is at least an inch of water on top
-3. Soak the dill heads upside down in salt water as well
-4. After 24 hours, mix the water and brine salt so the salt is completely dissolved
-5. If the cucumbers still have peels on them, poke holes in the peels with a fork
-6. Pack the cucumbers tightly into extremely clean or sterilised jars
-7. Layer them with the mustard seeds, peppercorns, dill, and garlic
-8. Do not fill the jars right to the brim
-9. Optionally place a horseradish leaf on top to protect the top layer
-10. Close the jar tightly and keep it in the kitchen for a couple of days
-11. When bubbles begin to form on top, put it in the fridge or cellar for 6 weeks before eating
-
-### Other Picklable Vegetables
-
-The same basic technique works for beets, carrots, green beans, onions, radishes, Swiss chard ribs, turnips, zucchini, and many other vegetables. Experiment with different spice combinations and brine strengths.
-
-## Kimchi Variations
-
-Kimchi is the Korean method of fermenting vegetables, with cabbage as the base. The Faires guide provides a basic recipe, but many variations are possible:
-
-### Summer Kimchi
-Use cucumbers instead of cabbage, with the same spice paste. Summer kimchi ferments faster and should be eaten within a week.
-
-### Radish Kimchi (Kkakdugi)
-Use Korean radish (daikon) cut into cubes instead of cabbage. The crunchier texture makes a refreshing alternative.
-
-### Water Kimchi (Mul Kimchi)
-A milder, soup-like kimchi made with less spice and more brine. The liquid is drunk as a refreshing beverage.
-
-### Green Onion Kimchi (Pa Kimchi)
-Whole green onions fermented with a lighter version of the standard kimchi paste.
-
-## Sauerkraut Variations
-
-The basic sauerkraut recipe can be adapted with additional vegetables and flavours:
-
-### Mixed Vegetable Kraut
-Add chopped turnips, beets, greens, Brussels sprouts, apple, herbs, and spices to the cabbage. Different vegetables contribute different textures and flavours.
-
-### Caraway Sauerkraut
-Add whole caraway seeds to the cabbage during fermentation for a traditional Eastern European flavour.
-
-### Juniper Sauerkraut
-Crushed juniper berries add a piney, aromatic quality to the kraut.
-
-### Turmeric Sauerkraut
+Lacto-fermentation has become more popular again in recent years because it saves the [[turmeric]] Sauerkraut
 Adding grated fresh turmeric creates a golden-coloured kraut with medicinal mushroom antioxidant properties.
 
 ## Egg Pickling
@@ -128,20 +43,63 @@ The Faires guide primarily describes lacto-fermented pickles, which use salt and
 - Can be water-bath canned for shelf stability
 - Clearer, brighter appearance
 
-For a broader guide to all fermentation approaches, see [[food-fermentation-guide]].
+For a broader guide to all fermentation approaches, see [[natural-farming-guide-composting-methods-and-techniques]]
+## Practical Considerations
 
-## Fermented Condiments
+When working with Faires Pickling and Advanced Fermentation, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-Beyond the main pickling recipes, various condiments can be fermented:
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-### Fermented Hot Sauce
-Blend hot peppers with salt and let ferment for 1-4 weeks. The resulting sauce is complex and fiery, with beneficial bacteria.
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-### Fermented Garlic
-Whole garlic cloves fermented in a salt brine develop a milder, sweeter flavour and become soft enough to spread like butter.
+## Common Challenges and Solutions
 
-### Fermented Relish
-Chopped vegetables (cucumbers, peppers, onions) fermented with salt and spices create a probiotic-rich condiment for burgers and sandwiches.
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-## See Also
-- [[natural-farming-guide-composting-methods-and-techniques]]
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

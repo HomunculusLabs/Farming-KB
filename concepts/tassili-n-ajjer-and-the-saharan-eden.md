@@ -135,16 +135,10 @@ Characterized by loss of objectivity, temporal distortion, and mild hallucinatio
 
 Pfeiffer argued that the prevalence of this susceptibility "argues for its evolutionary importance" and that "there must have been an enormous selective premium on the twilight state during prehistoric times."
 
-McKenna noted that Pfeiffer neglected to discuss psychoactive plants as a possible mechanism for inducing twilight states, a significant omission given the evidence from the Tassili paintings.
-
 ## See Also
 
 - [[indole-hallucinogens-and-human-evolution]]
-- [[partnership-and-dominator-models]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 
-- [[stoned-ape-hypothesis]]
 - [[partnership-and-dominator-models]]
-- [[shamanism-as-archaic-technique-of-ecstasy]]
 - [[stropharia-cubensis]]
-- Archaic Revival

@@ -76,25 +76,7 @@ In Europe, it is particularly common in deciduous woodlands dominated by
 oak, beech, and spruce. In North America, it occurs primarily in the
 Pacific Northwest and northeastern hardwood forests.
 
-The species is [[ectomycorrhizal-fungi|ectomycorrhizal]], forming mutualistic associations with
-tree roots. It fruits from late summer through autumn (July–October in the
-Northern Hemisphere), typically appearing on forest floors with rich organic
-soil.
-
-Prefers moist, well-drained sites under mature canopy. Often found along
-forest edges, old trails, and in mixed stands with conifers and hardwoods.
-
-## Bioactive Compounds
-
-*R. formosa* contains several bioactive metabolites that contribute to
-its toxicity profile:
-
-- **Ramariol** — a sesquiterpene compound isolated from the basidiocarp,
-  implicated in gastrointestinal irritation.
-- **Formosin** — a furanoid compound found in extracts, contributing to
-  the bitter acrid taste.
-- **Ergosterol derivatives** — standard fungal membrane sterols, not
-  directly toxic but present in significant concentrations. See [[ergosterol]] for fungal sterol chemistry.
+The species is [[ergosterol]] for fungal sterol chemistry.
 
 The toxic principle responsible for gastrointestinal poisoning has not been
 fully characterized but is suspected to involve multiple sesquiterpene and
@@ -116,8 +98,6 @@ dehydration may require medical attention.
 Confusion with edible coral fungi is the primary risk factor for poisoning.
 *R. formosa* is most commonly mistaken for:
 
-- *[[ramaria-botrytis|Ramaria botrytis]]* — larger, white-to-pink branches, mild odor, edible
-  when thoroughly cooked.
 - *[[ramaria-stricta|Ramaria stricta]]* — smaller, tan-colored, generally considered
   inedible but not notably toxic.
 - *Clavulina cristata* — delicate white branching, edible though
@@ -147,3 +127,7 @@ acidification, declining in areas with intensive agricultural runoff or
 air pollution.
 
 ## See Also
+
+## See Also
+
+- [[coprophilous-fungi-ecology-diversity]]

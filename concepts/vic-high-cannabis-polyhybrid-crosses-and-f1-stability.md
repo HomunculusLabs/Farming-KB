@@ -121,8 +121,6 @@ Vic High's practical advice for preserving complex traits from a special individ
 - Generational inbreeding with full-sib selection is more effective than cubing for polygenic trait fixation.
 - A heterozygous source cannot be fully stabilised through backcrossing alone.
 - The distinction between reproducing a phenotype and creating a true breeding strain determines the entire breeding strategy.
-- [[vic-high-cannabis-genetics-mendelian-inheritance]]
 - [[vic-high-true-breeding-strain-development-stabilization]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[clarke-marijuana-botany-genetics-breeding]]

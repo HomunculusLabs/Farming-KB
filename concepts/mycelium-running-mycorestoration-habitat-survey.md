@@ -18,7 +18,7 @@ disaster, saprophytic, endophytic, mycorrhizal, and in some cases parasitic
 fungi can aid recovery. The practice involves surveying damaged habitats,
 selecting appropriate fungal species, and deploying mycelial inoculum to steer
 ecological recovery. Mycorestoration encompasses four primary methods:
-[[mycofiltration-silt-erosion-control]], [[mycoforestry]], [[mycoremediation-heavy-metals-detailed]], and [[mycopesticides]].
+[[mycoforestry]], [[mycopesticides]].
 
 ## The Concept of Habitat Immune Systems
 
@@ -90,9 +90,7 @@ species alone. The art of mycorestoration lies in:
 Multiple techniques exist for expanding a helpful mushroom's domain in a
 damaged habitat:
 
-- **[[bunker-spawn-method]]**: Myceliated burlap bags stacked like
-  sandbags to introduce beneficial fungi, especially effective for
-  [[mycofiltration-silt-erosion-control]]
+- **[[mycofiltration-silt-erosion-control]]
 - **Stem butt transfers**: Harvested mushroom stem bases placed in new
   locations to regrow mycelium
 - **Spore slurries**: Water suspensions of spores collected from mature
@@ -105,46 +103,14 @@ damaged habitat:
 ## Creating Mycelial Mats
 
 The essential strategy is to grow mats of mycelium matched to the scale of the
-contamination or restoration need. By creating a [[permaculture-sheet-mulch-detailed-guide]]
-inoculated with mycelium, the mycofiltration properties of the mycelium and the
-surface area of substrate particles capture pathogens, sediment, and
-contaminants. The mat can be customized with mosaics of different mycelial
-species to address multiple restoration goals simultaneously.
-
-## Matching Habitat with Species
-
-The choice of species depends on the specific restoration context:
-
-- **Watershed protection**: Species that form thick mycelial mats effective at
-  filtering surface water
-- **Soil building**: Saprophytes that break down woody debris and build soil
-  organic matter
-- **Plant partnerships**: [[arbuscular-mycorrhizal-fungi]] that associate with target plant
+contamination or restoration need. By creating a [[arbuscular-mycorrhizal-fungi]] that associate with target plant
   communities
-- **Toxin degradation**: [[white-rot-fungi]] for organic pollutants, specific
-  species for heavy metals
-- **Pest control**: Entomopathogenic fungi for insect pest management
-
-## Integration with Companion Planting
-
-Mycorestoration strategies integrate with companion planting to set the stage
-for emerging oases in lifeless landscapes. Each succeeding mycelial mat
-provides different components as the ecosystem is steered toward recovery. The
-future widespread practice of customizing mycological landscapes might one day
-affect microclimates by increasing moisture and precipitation, creating oasis
-environments that continue to expand as mycelium creates soil.
-
-## Long-Term Vision
-
-Mycorestoration represents a new paradigm borrowed from nature's age-old
-methods. See [[mycorestoration-overview]] for foundational concepts. By learning from natural recovery patterns and accelerating them through
+- **Toxin degradation**: [[mycorestoration-overview]] for foundational concepts. By learning from natural recovery patterns and accelerating them through
 thoughtful species selection, mycologists can design landscapes for both human
 and natural benefit. The goal is to work within natural succession patterns,
 using fungi as keystone organisms that enable entire ecological communities to
 recover and thrive.
-
 ## See Also
 
-[[mycoremediation-stamets-approach]] provides Stamets' comprehensive framework for fungal remediation.
 [[mycorestoration-overview]] covers the foundational concepts of using fungi for ecological recovery.
 [[mycelium-running-filtering-water-with-fungi]] details the water filtration applications.

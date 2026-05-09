@@ -27,7 +27,7 @@ sources:
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 
-*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across temperate regions of the Northern Hemisphere, it fruits in autumn and early winter in leaf litter, compost heaps, and conifer needle beds. Despite being one of the most visually distinctive edible mushrooms in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration and permaculture integration. See [[tricholoma-terreum]] for a similarly earthy woodland species and [[lepiota-procera]] for another autumn woodland edible.
+*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across temperate regions of the Northern Hemisphere, it fruits in autumn and early winter in leaf litter, compost heaps, and conifer needle beds. Despite being one of the most visually distinctive edible mushrooms in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration and permaculture integration. See [[lepiota-procera]] for another autumn woodland edible.
 
 ## Taxonomy and Nomenclature
 
@@ -117,33 +117,6 @@ The Wood Blewit is one of the more straightforward edible mushrooms to identify 
 
 The Wood Blewit is an excellent edible mushroom with a devoted following among foragers:
 
-- **Flavor:** Rich, earthy, and savory with a distinct aromatic quality that intensifies with cooking. The flavor has been described as similar to [[tricholoma-terreum]] (Truffle) with floral undertones from its unique aromatic compounds.
-- **Texture:** Firm, meaty, and substantial — holds its shape well during cooking, making it suitable for a wide range of preparations
-- **Culinary uses:** Excellent sautéed in butter, in risottos, soups, stews, omelets, and pasta dishes; pairs well with cream, garlic, thyme, and white wine; can be pickled, dried, or frozen for later use
-- **Important preparation note:** Raw or undercooked blewits can cause gastrointestinal upset in some individuals. **Always cook thoroughly before eating.** Some people are sensitive even to well-cooked specimens — try a small amount first if you have not eaten them before.
-- **Drying:** Dries well, concentrating flavor; reconstitute in warm water or broth before use
-
-## See Also
-
-In permaculture and forest garden systems, *C. nuda* offers several valuable functions:
-
-- **Organic matter decomposition:** As a saprotroph, it efficiently breaks down leaf litter and woody debris, cycling nutrients back into the soil food web
-- **Compost integration:** Blewits readily colonize compost heaps and mulch piles, improving decomposition efficiency and providing an edible yield from waste materials
-- **Forest garden understory:** Can be introduced to food forests and woodland edges as a perennial food crop that requires minimal maintenance
-- **Biodiversity support:** Fungal fruiting bodies provide food for invertebrates and small mammals; mycelium contributes to soil structure and microbial diversity
-- **Indicator species:** The presence of *C. nuda* indicates healthy, organic-rich soils with active decomposition cycles
-
-## See Also
-
-- **Always cook thoroughly** — raw or undercooked blewits can cause gastrointestinal distress (nausea, vomiting, diarrhea) in susceptible individuals
-- **Always make a spore print** — the pink spore print is the critical safety feature distinguishing edible blewits from potentially lethal purple *Cortinarius* species
-- **Avoid collecting from polluted sites** — like many saprotrophs, *C. nuda* can accumulate heavy metals and environmental contaminants
-- **If you are new to blewit foraging**, consult an experienced mycologist and use multiple identification resources; do not rely on any single feature
-
-## See Also
-
-- [[agaricus-campestris]] — Meadow mushroom, another autumn saprotroph
-- [[tricholoma-terreum]] — Truffle-like woodland mushroom with similar earthy flavor
+- **Flavor:** Rich, earthy, and savory with a distinct aromatic quality that intensifies with cooking. The flavor has been described as similar to [[agaricus-campestris]] — Meadow mushroom, another autumn saprotroph
 - [[lepiota-procera]] — Parasol mushroom, woodland edible
-- [[coprinus-comatus-detailed]] — Shaggy mane, autumn grassland edible
 - [[calvatia-gigantea]] — Giant puffball, another distinctive autumn mushroom

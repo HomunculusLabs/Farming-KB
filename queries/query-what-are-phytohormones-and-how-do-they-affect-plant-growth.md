@@ -25,37 +25,8 @@ type: query
 
 ## Quick Answer
 
-Phytohormones ([[plant-hormones-and-chemical-signaling-systems]]) are naturally occurring organic compounds that regulate plant growth, development, and responses to environmental stimuli. Unlike animal hormones, which are produced in specific glands and transported through the bloodstream, phytohormones are produced in many plant tissues and can act locally or be transported through the phloem, xylem, or even cell-to-cell diffusion. Even trace concentrations (nanomolar to micromolar) trigger significant physiological responses.
-
-There are five classical phytohormone classes — **auxins, gibberellins, cytokinins, ethylene, and abscisic acid** — along with newer recognized classes including **brassinosteroids, jasmonates, salicylates, strigolactones, and nitric oxide**. Understanding these compounds helps growers manipulate [[cannabis-sativa-morphology-and-plant-architecture]], flowering, fruiting, rooting, and [[lichen-poikilohydry-and-drought-stress-responses]].
-
----
-
-## The Five Classical Phytohormones
-
-### 1. Auxin (IAA — Indole-3-Acetic Acid)
-
-**Primary roles:**
-- **Cell elongation:** Auxin stimulates cells in the shoot apex to elongate, driving upward growth (phototropism and [[gravitropism]])
-- **Apical dominance:** The auxin-rich apical bud suppresses lateral bud growth — this is why pinching the growing tip ([[topping-cannabis]], pruning tomatoes) causes lateral branching
-- **Root initiation:** Synthetic auxins (IBA, NAA) are the active ingredients in rooting powders and gels used for cuttings
-- **Fruit development:** Auxin promotes fruit set and prevents premature fruit drop
-- **Vascular differentiation:** Auxin directs the formation of xylem and phloem tissue
-
-**How growers use it:**
-- **Cloning/propagation:** Rooting powders contain synthetic auxins (indole-3-butyric acid or naphthaleneacetic acid) to stimulate root formation on cuttings
-- **Topping and pruning:** Removing the apical bud (the auxin source) releases lateral buds from suppression, creating bushier plants
-- **Fruit thinning:** Synthetic auxin sprays can thin excessive fruit set in orchard crops
-- **Herbicides:** Synthetic auxins (2,4-D, dicamba) cause uncontrolled growth in broadleaf weeds, killing them while grasses tolerate the dose
-
-**Key fact:** Auxin moves in a polar fashion — always from the shoot tip downward (basipetal transport). This unidirectional flow is what creates the concentration gradient that controls branching.
----
-
-### 2. Gibberellins (GAs)
-
-**Primary roles:**
-- **Stem elongation:** Gibberellins dramatically increase internode length — dwarf varieties of many crops are GA-deficient mutants
-- **[[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]:** Gibberellins produced by the embryo signal the seed to break dormancy and begin germination by stimulating enzymes that break down stored starches
+Phytohormones ([[cannabis-sativa-morphology-and-plant-architecture]], flowering, fruiting, rooting, and [[gravitropism]])
+- **Apical dominance:** The auxin-rich apical bud suppresses lateral bud growth — this is why pinching the growing tip ([[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]:** Gibberellins produced by the embryo signal the seed to break dormancy and begin germination by stimulating enzymes that break down stored starches
 - **Bolting and flowering:** GAs trigger the transition from vegetative to reproductive growth in long-day plants and biennials
 - **Fruit development:** Applied to seedless grapes to increase berry size; used in malting barley to promote uniform germination
 
@@ -134,16 +105,9 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 - In cannabis, jasmonate signaling is involved in trichome and cannabinoid production
 ## See Also
 
-- [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
-
 - [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
 
-- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
-
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
-- [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
-- [[cannabis-plant-stress-types-and-recovery|Plant Anatomy and Physiology]]
 - [[plant-propagation-techniques|Plant Propagation Techniques]]
-- [[ingham-compost-tea-application-rates-and-timing|Compost Tea and Biological Extracts]]
 - [[cannabis-disease-pest-resistance-breeding-clarke|Cannabis Pest Disease Troubleshooting]]

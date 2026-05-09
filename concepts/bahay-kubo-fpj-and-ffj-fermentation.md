@@ -8,7 +8,7 @@ sources: ["raw/papers/bahay-kubo-indigenous-microorganisms_.md"]
 ---
 # Bahay Kubo — FPJ and FFJ Fermentation Methods
 
-Gil Carandang's bionutrient fermentation system transforms plant and fruit materials into potent biological extracts through controlled microbial fermentation. These preparations serve as foliar fertilizers, soil drenches, animal feed supplements, and food for beneficial microorganisms. The fundamental principle is that fermentation is superior to simple extraction because microorganisms break down complex materials and create enzymes. See [[bionutrients-lab-fermented-plant-juice-fpj]] and [[bionutrients-lab-fermented-fruit-juice-ffj]] for the lab-formatted versions.
+Gil Carandang's bionutrient fermentation system transforms plant and fruit materials into potent biological extracts through controlled microbial fermentation. These preparations serve as foliar fertilizers, soil drenches, animal feed supplements, and food for beneficial microorganisms. The fundamental principle is that fermentation is superior to simple extraction because microorganisms break down complex materials and create enzymes. See [[bionutrients-lab-fermented-fruit-juice-ffj]] for the lab-formatted versions.
 
 ## Fermentation vs. Extraction
 
@@ -125,12 +125,10 @@ In practice, beneficial indigenous microorganisms and bionutrients are mixed tog
 - Together they create a complete biological fertility system
 - Adding fermented plant and fruit juices, ginger-garlic nutrients, brown rice vinegar, and fish amino acid to BIM makes it more effective
 - This combination addresses soil fertility, pest control, and plant health simultaneously
-- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[bionutrients-lab-lactic-acid-bacteria-serum]]
 - [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
 - [[fukuoka-vegetable-growing-natural-method]]
 
 ## See Also
 
-- [[comparison-fpj-vs-ffj]]
+- comparison-fpj-vs-ffj

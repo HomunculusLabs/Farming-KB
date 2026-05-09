@@ -1,7 +1,7 @@
 ---
 title: Fungi in Grassland Ecosystems
 created: 2026-04-28
-tags: [mycology, grasslands, prairie, soil-fungi, fungal-ecology]
+tags: [[mycology, grasslands, prairie, soil-fungi, fungal-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -115,8 +115,6 @@ provided by grassland fungi.
 
 ## See Also
 
-- [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-glomeromycota-diversity]]
-- [[biodiversity-of-fungi-endophytic-fungi]]
 - [[fungal-role-in-carbon-cycling]]
 - [[fungal-succession-in-decomposition]]

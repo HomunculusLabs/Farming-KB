@@ -18,28 +18,6 @@ communities. In Winston et al. (2014), both weighted and unweighted UniFrac
 metrics revealed that soil type dominates community composition while
 cultivar primarily affects abundance structure. These patterns provide
 critical evidence for the
-[[cultivar-cannabis-microbiome-two-tier-selection-model]].
-
-## Experiment 1: Three Cultivars, One Soil
-
-The first experiment compared endorhiza, rhizosphere, and bulk soil from
-Burmese, Bookoo Kush, and Sour Diesel grown in the same soil.
-
-### Compartment Clustering (Unweighted UniFrac)
-
-- **Endorhiza**: ADONIS R2 = 0.26, p = 0.001 (significantly distinct)
-- **Bulk soil**: ADONIS R2 = 0.14, p = 0.001 (significantly distinct)
-- **Rhizosphere**: ADONIS R2 = 0.07, p = 0.07 (not significant)
-
-Weighted UniFrac produced stronger effects: endorhiza R2 = 0.59, bulk
-soil R2 = 0.29 (both p = 0.001), but rhizosphere remained non-significant
-(R2 = 0.09, p = 0.10).
-
-### Strain-Level Clustering
-
-Division of all communities by strain was not significant (weighted:
-R2 = 0.11, p = 0.25; unweighted: R2 = 0.11, p = 0.15). However,
-endorhiza-only strain differences were highly significant (see
 [[cannabis-cultivar-microbiome-specificity]]), confirming compartment-
 specific cultivar effects.
 
@@ -135,8 +113,6 @@ cultivar determines abundance structure.
 
 ## See Also
 
-- [[rhizosphere-microbiome-selection-model]] for the theoretical framework
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar-level effects
-- [[soil-edaphic-factors-microbial-communities]] for soil drivers
 - [[microbial-alpha-diversity-soil-plant-gradient]] for diversity patterns
 - [[otu-differential-abundance-cannabis-microbiome]] for OTU-level analysis

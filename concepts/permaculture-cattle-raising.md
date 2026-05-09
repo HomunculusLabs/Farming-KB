@@ -3,17 +3,11 @@ title: Permaculture Cattle Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
-sources: []
----
-
-# Permaculture Cattle Raising
-
-Cows can be integrated into [[permaculture-design]] systems for dairy, meat, and manure, grazing in orchards and pastures while improving soil fertility.
+tags: [[permaculture-design]] systems for dairy, meat, and manure, grazing in orchards and pastures while improving soil fertility.
 
 ## Role in the System
 
-Cows can graze in the [[permaculture-zone-planning]] orchard after at least 7 years if [[permaculture-sheep-raising]] have done well without harming trees. They should not clear vegetation but simply graze to control grass. They need fresh, clean water at all times and a weather-sheltered salt block.
+Cows can graze in the [[permaculture-sheep-raising]] have done well without harming trees. They should not clear vegetation but simply graze to control grass. They need fresh, clean water at all times and a weather-sheltered salt block.
 
 ### Pasture
 
@@ -63,13 +57,7 @@ A cow can have a calf every year and provide milk almost the entire year, until 
 
 ## Milking
 
-Keep her milked at least once daily to prevent mastitis. Expect at least a gallon per milking. First 4 days after birth is colostrum for the calf. A family needs about a gallon per day; a couple of extra cows can produce a small profit. Care and milking is the same as for [[permaculture-goat-raising]].
-
-Weaning: when the calf shows interest in other foods, use a creep feeder (structure with tempting food only calves can enter). Wean by 4-5 months. During summer they need at least an acre of good pasture. In winter a weaned calf eats about 2 pounds hay per 100 pounds body weight daily. Three pounds of cornstalks and cobs equals one pound of hay.
-
-## Pasture Management for Cattle
-
-Cattle are powerful tools for pasture improvement when managed through [[permaculture-grazing-and-pasture]] systems. Their large hooves break soil crust, incorporate organic matter, and press seeds into contact with soil -- a natural form of aeration that reduces the need for mechanical intervention.
+Keep her milked at least once daily to prevent mastitis. Expect at least a gallon per milking. First 4 days after birth is colostrum for the calf. A family needs about a gallon per day; a couple of extra cows can produce a small profit. Care and milking is the same as for [[permaculture-grazing-and-pasture]] systems. Their large hooves break soil crust, incorporate organic matter, and press seeds into contact with soil -- a natural form of aeration that reduces the need for mechanical intervention.
 
 Rotational grazing principles for cattle:
 

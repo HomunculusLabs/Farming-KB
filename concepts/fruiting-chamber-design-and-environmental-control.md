@@ -1,7 +1,7 @@
 ---
 title: Fruiting Chamber Design and Environmental Control
 created: 2026-04-28
-tags: [mycology, cultivation, fruiting, humidity, environmental-control]
+tags: [[mycology, cultivation, fruiting, humidity, environmental-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -13,23 +13,10 @@ type: concept
 The transition from vegetative mycelial growth to fruiting body production is
 triggered by environmental cues. A fruiting chamber is any enclosed space that
 allows the grower to manipulate these cues — primarily humidity, fresh air
-exchange, temperature, [[what-a-plant-knows-plant-vision-and-light-perception]] — to initiate and sustain pinning and fruit
-maturation.
-
-## The Four Fruiting Triggers
-
-**Fresh air exchange (FAE)** is the most critical trigger [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] one most
-often neglected by beginners. As mycelium colonizes a [[substrate-ph-management]], it produces
-carbon dioxide as a metabolic byproduct. High CO2 concentrations (above 1000
-ppm, roughly triple atmospheric levels) suppress pin [[teaming-with-microbes-humus-formation-and-glomalin]] encourage
+exchange, temperature, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] one most
+often neglected by beginners. As mycelium colonizes a [[teaming-with-microbes-humus-formation-and-glomalin]] encourage
 vegetative growth. Introducing fresh air drops CO2 levels and signals the
-organism that it has reached a substrate surface where [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]] is
-possible — the evolutionary purpose of fruiting.
-
-**High humidity** (85 to 95 percent relative humidity) prevents developing pins
-from desiccating. Mushrooms are 80 to 90 percent [[water-management]] by weight, [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] thin
-tissue of primordia is extremely vulnerable to drying. However, standing water
-on fruiting surfaces promotes bacterial blotch [[allen-gymnopilus-and-other-psychoactive-genera]] diseases.
+organism that it has reached a substrate surface where [[water-management]] by weight, [[allen-gymnopilus-and-other-psychoactive-genera]] diseases.
 
 **Temperature drop** of 5 to 10 degrees Celsius below colonization temperature
 signals seasonal change and initiates pinning for many species. Cold shock —
@@ -122,6 +109,5 @@ more important than hitting exact setpoints.
 
 ## See Also
 
-- [[substrate-preparation-and-pasteurization]]
 - [[grain-spawn-production]]
 - [[medicinal-mushroom-compounds-and-health-benefits]]

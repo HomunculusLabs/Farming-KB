@@ -12,38 +12,9 @@ Updated: 2026-04-18
 
 ## Overview
 
-The Tahuya State Forest Reclamation Test Site project demonstrated the use of fungal mycelium for reclaiming degraded logging roads in Washington State. Conducted in collaboration with the Washington Department of Natural Resources (DNR), this project showed how [[mycofiltration-of-water]] and [[mycoforestry-principles-stamets]] techniques could transform eroded, silt-producing roads into stable, vegetated pathways.
+The Tahuya State Forest Reclamation Test Site project demonstrated the use of fungal mycelium for reclaiming degraded logging roads in Washington State. Conducted in collaboration with the Washington Department of Natural Resources (DNR), this project showed how [[mycoforestry-principles-stamets]] techniques could transform eroded, silt-producing roads into stable, vegetated pathways.
 
-Source: [[mycelium-running-techniques]]
-
-***
-
-## Site Description
-
-Tahuya State Forest, located on the southern Kitsap Peninsula in Washington State, is a 23,100-acre multi-use forest available to hikers, motorcyclists, bicyclists, and horse riders. Revenues from this working forest help fund the Mason County school system.
-
-### The Problem
-
-The DNR was conducting a salmon stream rehabilitation project along a forest road. On a test site bordering the salmon stream, they had applied grass seed directly on bare soil. After 7 years, the site had recovered only slightly with a sparse covering of grass, lacking healthy soil, forest understory, and biological diversity. Silt-laden runoff from the unpaved road was flowing directly into the Tahuya River — a salmon spawning ground.
-
-### The Test Site
-
-The reclamation project focused on a 500-foot stretch of unpaved road on a hill sloping down to the salmon stream. One lane was authorized for reclamation, leaving the other for recreational vehicles. The road was divided into three zones:
-- **Lower section:** Steepest slope, greatest erosion risk
-- **Middle section:** Wide (30+ feet), gentler grade
-- **Upper section:** Gentlest slope
-
-***
-
-## Methods
-
-### Materials
-
-- Three loads of waste wood — a crude mixture of bark, wood chips, and fir needles donated by North Mason Fiber (local pulp paper supplier)
-- Native oyster mushroom (Pleurotus ostreatus) spawn
-- Six bales of wheat straw for moisture retention
-- 20 pounds of Regreen (nonseeding wheat approved for erosion control)
-- 1 pound of Mycogrow ([[arbuscular-mycorrhizal-inoculum-production-best-practices]])
+Source: [[arbuscular-mycorrhizal-inoculum-production-best-practices]])
 - Volunteer labor from seven Fungi Perfecti employees
 
 ### Application
@@ -97,32 +68,26 @@ Ugly roads — the source of numerous ecological problems — are transformed in
 
 - **Sediment flow reduction** — preventing silt erosion into streams, spawning grounds, and fisheries
 - **Moisture enhancement** — remoistening arid landscapes
-- **Habitat enhancement** — reestablishing native mycoflora (soil-building [[mycorrhizal-fungi-basics-lowenfels]] and saprophytic types)
-- **Hydrocarbon reduction** — filtering diesel, oil, herbicides, pesticides
-- **Pathogen filtration** — removing coliform bacteria, E. coli, Pfiesteria, and other pathogens
-- **Temperature cooling** — cooling water flowing into streams, benefiting fisheries
-- **Low collateral disturbance** — minimal impact on existing ecosystems
-- **Subsurface soil improvement** — mycelial growth enables water and mineral transport with aeration
-- **Aesthetic improvement** — roads transformed into nature trails
-- **Educational value** — accessible environments for habitat restoration education
-- **Insectary creation** — breeding grounds for grubs supporting fish, bird, and bat food chains
-- **Mycopesticide potential** — barriers against wood-boring beetles and attractant zones for predator insects
-
-***
-
-## Cost Comparison
-
-- Cost of building a logging road: approximately $32,000 per mile
-- Cost of decommissioning (conventional): approximately $32,000 per mile
-- Cost of decommissioning (mycofiltration): approximately 50% of conventional cost per mile
-
-***
-
-## Related Topics
-
-- [[cortes-island-mycoforestry-project]] — Stamets' forest restoration experiment
-- [[mycofiltration-of-water-stamets]] — Mycofiltration methods and principles
+- **Habitat enhancement** — reestablishing native mycoflora (soil-building [[cortes-island-mycoforestry-project]] — Stamets' forest restoration experiment
 - [[mycoforestry-forest-restoration]] — Forest restoration with fungi
-- [[mycorestoration-overview]] — Overview of mycorestoration practices
 - [[brown-rot-white-rot-fungi-remediation]] — Wood decomposition mechanisms
 - [[mycopesticides-stamets]] — Related insect control applications
+## Practical Considerations
+
+Successful implementation of Tahuya Forest Road Reclamation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

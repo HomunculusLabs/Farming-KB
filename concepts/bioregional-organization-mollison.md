@@ -94,22 +94,9 @@ Both are valid. The place to start change is first with the individual (oneself)
 
 ## See Also
 
-- [[bioregional-organization]]
 - [[bioregionalism-in-permaculture]]
-- [[permaculture-bioregional-architecture]]
 - [[permaculture-legal-structures]]
-- [[holmgren-permaculture-land-tenure-and-legal-structures]]
 - [[bioregional-organization]]
-- [[permaculture-community-building]]
 - [[permaculture-village-design]]
-- [[permaculture-social-design]]
 - [[right-livelihood-and-permaculture-business]]
-- [[aid-and-development-in-permaculture]]
-
-## Source
-
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 14: The Alternative Nation
-
-## Related
-
 - [[holmgren-energy-descent-culture-adaptation]]

@@ -3,49 +3,7 @@ title: Fungal Decolorization and Degradation of Dyes (Singh)
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, remediation, research]
-sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
----
-
-# Fungal Decolorization and Degradation of Dyes (Singh)
-
-## Dye Contamination in the Environment
-
-Textile dyeing, printing, and finishing industries discharge large volumes of colored wastewater containing synthetic dyes. Key facts:
-- Over 100,000 commercially available dyes with annual production exceeding 700,000 tonnes
-- Approximately 10-15% of dyes used in textile processing are released into effluents
-- Dye-containing effluents are highly colored, reducing light penetration and affecting aquatic photosynthesis
-- Many dyes and their degradation products are toxic, mutagenic, or carcinogenic
-- Dyes are designed to be chemically stable and resistant to fading, making them persistent in the environment
-
-## Classification of Dyes
-
-- **Azo dyes**: Largest group (60-70% of all dyes); contain one or more azo (-N=N-) chromophores
-- **Anthraquinone dyes**: Second largest group; polycyclic aromatic structure with quinone groups
-- **Phthalocyanine dyes**: Metal complexes with high stability
-- **Triphenylmethane dyes**: Include malachite green and crystal violet; toxic to aquatic organisms
-- **Indigo dyes**: Used primarily for denim dyeing
-- **Heterocyclic dyes**: Contain heterocyclic ring systems
-- **Polymeric dyes**: High-molecular-weight dyes
-
-## Alternative Treatment Technologies
-
-### Physicochemical Methods
-- Activated carbon adsorption: Effective but expensive; regeneration required
-- Chemical oxidation (ozone, Fenton's reagent, UV/H2O2): Effective but costly; may produce toxic by-products
-- Coagulation/flocculation: Removes color but concentrates dyes in sludge
-- Membrane filtration: Effective but membrane fouling is problematic
-- Ion exchange: Limited to ionic dyes; resin regeneration needed
-
-### Biological Methods
-- Bacterial degradation: Effective for some azo dyes under anaerobic conditions; produces aromatic amines requiring further treatment
-- Fungal degradation: White-rot fungi offer the most versatile biological dye treatment approach
-
-## Fungal Dye Decolorization
-
-### White-Rot Fungi
-White-rot fungi are the most effective organisms for dye decolorization because their [[fungal-ligninolytic-enzyme-systems-overview]] are non-specific and can attack the diverse chemical structures of synthetic dyes:
+tags: [[fungal-ligninolytic-enzyme-systems-overview]] are non-specific and can attack the diverse chemical structures of synthetic dyes:
 
 Key species:
 - **Phanerochaete chrysosporium**: Most studied; effective for many azo, anthraquinone, and triphenylmethane dyes
@@ -126,11 +84,7 @@ While primarily an industrial concern, dye contamination affects agricultural en
 
 ## Related Topics
 
-- [[mycoremediation-of-textile-dyes]]
 - [[fungal-ligninolytic-enzyme-systems-overview]]
-- [[fungal-treatment-of-industrial-wastewaters]]
 - [[fungal-bioremediation]]
-- [[staycare-fungal-agricultural-waste-conversion]]
 - [[fungi-in-composting-and-agricultural-waste-conversion]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]

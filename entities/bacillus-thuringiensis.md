@@ -21,7 +21,6 @@ sources:
   - Schnepf, E., et al. (1998). "Bacillus thuringiensis and its pesticidal crystal proteins." Microbiology and Molecular Biology Reviews, 62(3), 775-806.
   - FAO/WHO. (2021). "Pesticide residues in food — Joint Meeting on Pesticide Residues (JMPR)." JMPR Report.
 ---
-
 # Bacillus thuringiensis
 
 ## Taxonomy
@@ -81,15 +80,7 @@ sources:
 | B. thuringiensis san diego | Btsd | Coleoptera | Colorado potato beetle, elm leaf beetle |
 | B. thuringiensis morrisoni | Btm | Various | Some strains active against Lepidoptera and Coleoptera |
 
-## Agricultural and Permaculture Significance
-
-- Most widely used biological insecticide worldwide
-- Registered for organic agriculture in the US (OMRI listed), EU, and most other countries
-- **Transgenic Bt crops:** Bt cotton, Bt corn, Bt soy, Bt eggplant — engineered to express Cry genes
-  - First commercial Bt crop: Bt cotton approved in the US in 1996
-  - >80% of US corn and cotton acreage is Bt varieties as of 2024
-  - Significant yield gains and reduction in synthetic insecticide use documented
-- **Foliar Bt sprays:** Standard tool in organic and integrated pest management (IPM) programs
+## Agricultural [[integrated-pest-management]] (IPM) programs
 - **Resistance management:** High-dose/refuge strategy mandated by EPA; stacked/pyramided traits (multiple Cry genes) delay resistance evolution
 - Compatibility with biological control: minimal impact on parasitoids, predators, and pollinators
 
@@ -130,13 +121,7 @@ sources:
 
 - Natural component of soil microbiomes; density correlated with insect population density
 - Some strains colonize plant roots as endophytes, providing systemic protection
-- Plant growth-promoting properties reported in some strains: [[indole]]-3-acetic acid (IAA) production, phosphate solubilization
-- Can synergize with entomopathogenic nematodes and other biocontrol agents
-- Spore persistence in soil creates a natural reservoir; crop residue incorporation returns Bt to soil
-- Horizontal gene transfer of cry plasmids to B. cereus and other soil bacteria occurs in nature, though ecological significance is debated
-
-## See Also
-
-- [[integrated-pest-management]]
+- Plant growth-promoting properties reported in some strains: [[query-how-do-legumes-add-nitrogen-to-soil]]
+- Horizontal gene transfer of cry plasmids to B. cereus and other soil bacteria occurs [[integrated-pest-management]]
 - [[permaculture]]
 - soil arthropods

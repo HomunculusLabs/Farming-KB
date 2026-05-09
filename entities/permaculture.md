@@ -129,16 +129,10 @@ the most influential approaches to sustainable development.
 
 ## See Also
 
-- [[bill-mollison]] — co-originator of permaculture
 - [[david-holmgren]] — co-originator, articulator of the 12 principles
-- [[masanobu-fukuoka]] — pioneer of natural farming
-- [[sepp-holzer]] — Austrian permaculture innovator
-- [[toby-hemenway]] — author of *Gaia's Garden*
+- [[sepp-holzer-entity]] — Austrian permaculture innovator
 - [[robert-hart]] — pioneer of forest gardening
-- [[geoff-lawton]] — permaculture teacher and practitioner
 - [[eliot-coleman]] — four-season farming innovator
-- [[polygonum-multiflorum]]
 - [[crataegus-monogyna]]
-- [[arthrospira-platensis]]
 - [[agrimonia-eupatoria]]
 - [[nasturtium-officinale]]

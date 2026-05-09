@@ -1,19 +1,17 @@
 ---
 title: "Telepathine, Harmala Alkaloids, and the MAO Inhibitor Discovery"
 created: 2026-04-28
-tags: [telepathine, [[harmine]], harmala, MAO-inhibitor, [[ayahuasca]], Banisteriopsis, McKenna, food-of-the-gods, psychopharmacology]
+tags: [telepathine, [[ayahuasca]], Banisteriopsis, McKenna, food-of-the-gods, psychopharmacology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of-the-gods.md
 type: concept
 ---
-# Telepathine, [[harmala-alkaloids-and-ayahuasca-preparation]], and the MAO Inhibitor Discovery
-
-In *Food of the Gods*, [[terence-mckenna]] recounts the remarkable story of "telepathine" — a
+# Telepathine, [[terence-mckenna]] recounts the remarkable story of "telepathine" — a
 compounamazonian-ayahuasca-purge-and-diet-practicesd from the Amazonian ayahuasca vine and named for its reputed
 telepharmineducing properties — and its later identification as harmine, a beta-carboline
-alkaloid found in *[[peganum-harmala]]* ([[syrian-rue]]). This narrative illuminates a crucial
+alkaloid found in *[[syrian-rue]]). This narrative illuminates a crucial
 pharmacological discovery: the mechanism of monoamine oxidase inhibition (MAOI), which
 indigenous Amazonian peoples had exploited for centuries in their preparation of
 ayahuasca. The story of telepathine exemplifies the tension between indigenous knowledge
@@ -25,46 +23,7 @@ The story begins with the nineteenth-century explorer-naturalists. In the 1850s,
 Richard Spruce and Alfred Russel Wallace traveled in the Amazon drainage. On the upper
 reaches of the Rio Negro, Spruce observed a group of Indians preparing an unfamiliar
 hallucinogen. The main ingredient was a liana, a woody climbing vine, which he named
-*Banisteria caapi* (later reclassified as *[[banisteriopsis-caapi]]*). Several years later,
-while traveling in western Ecuador, Spruce saw the same plant being used to make a
-hallucinogen called ayahuasca.
-
-Spruce's observations represented the first scientific documentation of what would become
-one of the most important psychoactive plant preparations in the world. Ayahuasca has
-continued to the present day to be a central part of the spiritual life of many tribes in
-the montane rain forest of South America. Immigrants into the Amazon basin have also
-adopted ayahuasca and created their own ethnobotanical-medical systems for using the
-psychedelic visions it imparts to promote healing.
-
-## The Word Ayahuasca and Its Meanings
-
-McKenna notes that "ayahuasca" is a Quechua word roughly translating as "vine of the dead"
-or "vine of souls." The term refers both to the prepared hallucinogenic beverage and to one
-of its main ingredients, the woody liana itself. This linguistic detail is significant:
-the name of the preparation embeds the indigenous understanding that the vine provides
-access to realms of the dead, to ancestral spirits, and to dimensions of reality
-ordinarily inaccessible to the living.
-
-The tissues of *Banisteriopsis caapi* are rich in alkaloids of the beta-carboline type.
-The most important beta-carboline occurring in the vine is harmine. McKenna emphasizes
-that harmine is an indole, but it is not overtly psychedelic unless taken in amounts that
-approach what is considered a toxic dose. However, at well below toxic levels, harmine is
-an effective short-acting monoamine oxidase inhibitor.
-
-## The Pharmacological Genius of Indigenous Amazonians
-
-The MAOI mechanism is the key to understanding the sophistication of indigenous ayahuasca
-preparation. A hallucinogen such as DMT, which would normally be inactive if taken orally
-because monoamine oxidase enzymes in the gut destroy it before it can reach the
-bloodstream, is rendered highly psychoactive when taken orally in combination with harmine.
-The harmine inhibits the MAO enzymes, allowing the DMT to pass through the digestive
-system intact, enter the bloodstream, cross the blood-brain barrier, and reach the brain,
-where it competes with serotonin for synaptic bonding sites.
-
-McKenna stresses the extraordinary nature of this discovery: "Native peoples of the
-Amazon region have brilliantly exploited these facts in their search for techniques to
-access the magical dimensions crucial to shamanism." By combining DMT-containing plants
-with plants that contain MAO inhibitors in their [[ayahuasca-preparation]] s, indigenous
+*Banisteria caapi* (later reclassified as *[[ayahuasca-preparation]] s, indigenous
 peoples "have long exploited a pharmacological mechanism, MAO inhibition, not described by
 Western science until the 1950s."
 

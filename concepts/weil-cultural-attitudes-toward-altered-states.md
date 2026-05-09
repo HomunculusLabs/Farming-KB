@@ -121,9 +121,6 @@ This reclamation involves several steps:
 
 ## Related
 
-- [[weil-the-natural-mind-altered-states-normalcy]] — The overarching thesis
 - [[weil-drug-use-as-innate-human-drive]] — Evidence for the universality of the drive
-- [[weil-intoxication-and-consciousness-theory]] — The theoretical framework
 - [[weil-psychedelic-experience-set-and-setting]] — How cultural context shapes experience
-- [[weil-the-mind-drug-relationship-paradigm]] — The Western paradigm Weil critiques
 - [[mandrake-plant]] — Author biography

@@ -1,22 +1,3 @@
----
-title: "Macadamia Nut Cultivation and Uses"
-tags: [macadamia, nut-crops, subtropical, tree-crops, perennial, agroforestry, permaculture]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Stephenson, R.A. and Gallagher, E.C. (1987). "Effects of temperature on growth of macadamia seedlings." *Scientia Horticulturae*, 31(3-4): 275-283.
-  - O'Hare, P.J. and Vock, N.T. (1999). *Macadamia Grower's Handbook*. Queensland Department of Primary Industries, Information Series QI99017.
-  - Nagao, M.A. and Hirae, H.H. (1992). "Macadamia: Cultivation and physiology." *Horticultural Reviews*, 14: 339-381.
-  - Peace, C. (2005). "Macadamia." In: Litz, R.E. (ed.), *Biotechnology of Fruit and Nut Crops*, pp. 401-418. CAB International.
-  - Duke, J.A. (1983). *Handbook of Energy Crops*. Purdue University Center for New Crops and Plant Products.
-  - Wall, M.M. (2010). "Macadamia nuts (Macadamia integrifolia and M. tetraphylla)." In: Schieber, A. and Weber, F. (eds.), *Handbook of Plant Food Phytochemicals*, pp. 325-338. Wiley-Blackwell.
-  - Trueman, S.J. and Turnbull, C.G.N. (1994). "Effects of cross-pollination on fruit set of two macadamia cultivars." *Scientia Horticulturae*, 59(1): 57-64.
-  - Mafoko, P.J. et al. (2020). "A review of macadamia nut processing and its by-products." *Notulae Botanicae Horti Agrobotanici Cluj-Napoca*, 48(2): 401-416.
-  - Huett, D.O. and Vock, N.T. (1990). "Macadamia nutrition: a review." *Australian Journal of Experimental Agriculture*, 30(6): 819-834.
-  - Food and Agriculture Organization of the United Nations (FAO) (2023). *FAOSTAT: Crops and livestock products*. faostat.fao.org.
-  - Hardner, C.M. et al. (2009). "Genetic parameters for nut and kernel traits in macadamia." *Tree Genetics & Genomes*, 5: 729-737.
-  - Bell, H.F.D. et al. (2022). "Macadamia (Macadamia integrifolia) husk spot disease caused by Pseudocercospora macadamiae." *Plant Pathology*, 71(3): 612-623.
----
 
 # Macadamia Nut Cultivation and Uses
 
@@ -77,7 +58,7 @@ Macadamia trees are subtropical to tropical in their requirements:
 | Drainage | Critical; waterlogging kills feeder roots within days |
 | Salinity | Low tolerance; avoid saline soils and irrigation water |
 
-Macadamias are particularly sensitive to poor drainage. Sites with impermeable clay subsoils, high water tables, or a history of waterlogging should be avoided or extensively modified with raised beds and drainage systems. See [[swales]] and [[contour farming]] for drainage management techniques.
+Macadamias are particularly sensitive to poor drainage. Sites with impermeable clay subsoils, high water tables, or a history of waterlogging should be avoided or extensively modified with [[raised-beds-vs-in-ground-vs-containers]] and drainage systems. See swales and contour farming for drainage management techniques.
 
 ## Propagation Methods
 
@@ -101,7 +82,7 @@ Micropropagation through tissue culture has been developed for macadamia but is 
 
 ### Tree Spacing
 
-Spacing depends on cultivar, rootstock, soil fertility, and management system:
+Spacing depends on cultivar, rootstock, [[soil-fertility-building-gradient-solomon]], and management system:
 
 | System | Spacing | Trees per hectare |
 |--------|---------|-------------------|
@@ -113,11 +94,11 @@ High-density planting produces earlier economic returns but requires aggressive 
 
 ### Pollinator Interplanting
 
-Most macadamia cultivars are partially self-incompatible. Cross-pollination between compatible cultivars significantly improves nut set and kernel quality. Orchards should include at least two compatible cultivars in a systematic interplanting pattern, typically alternating rows or every third tree. See [[pollinator habitat]] for complementary planting strategies.
+Most macadamia cultivars are partially self-incompatible. Cross-pollination between compatible cultivars significantly improves nut set and kernel quality. Orchards should include at least two compatible cultivars in a systematic interplanting pattern, typically alternating rows or every third tree. See pollinator habitat for complementary planting strategies.
 
 ### Windbreaks
 
-Windbreaks are essential on exposed sites. Suitable windbreak species include [[casuarina]], [[bamboo]], and various [[agroforestry]] timber trees. Windbreaks should be established 1–2 years before planting the orchard.
+Windbreaks are essential on exposed sites. Suitable windbreak species include casuarina, bamboo, and various [[agroforestry]] timber trees. Windbreaks should be established 1–2 years before planting the orchard.
 
 ## Irrigation and Nutrition Requirements
 
@@ -128,9 +109,9 @@ Irrigation is critical for consistent yields, even in high-rainfall areas. Key i
 - **Pre-flowering (early spring)**: Moderate irrigation to support bud initiation
 - **Flowering and fruit set (spring)**: Consistent moisture prevents flower drop and improves set
 - **Nut filling (summer to autumn)**: Peak water demand; water stress at this stage reduces kernel size and oil content
-- **Post-harvest (winter)**: Reduced irrigation; some moisture stress encourages uniform flowering
+- **[[post-harvest-handling-marketing-mushrooms]] (winter)**: Reduced irrigation; some moisture stress encourages uniform flowering
 
-Micro-irrigation (drip or micro-sprinklers) is preferred over overhead irrigation, which promotes fungal diseases. Irrigation scheduling should be guided by soil moisture monitoring or evapotranspiration-based methods. See [[drip irrigation]] for system design details.
+Micro-irrigation (drip or micro-sprinklers) is preferred over overhead irrigation, which promotes fungal diseases. Irrigation scheduling should be guided by soil moisture monitoring or evapotranspiration-based methods. See drip irrigation for system design details.
 
 ### Nutrition
 
@@ -150,7 +131,7 @@ Macadamias have specific nutritional requirements that differ from many other tr
 
 Leaf analysis is the standard method for assessing nutritional status. Samples should be collected in mid-summer from the most recent mature flush of leaves.
 
-Composted organic matter, [[comfrey]] mulch, and cover crops within [[alley cropping]] systems contribute to soil fertility and reduce synthetic fertilizer dependence.
+Composted organic matter, [[comfrey]] mulch, and cover crops within alley cropping systems contribute to soil fertility and reduce synthetic fertilizer dependence.
 
 ## Pruning and Canopy Management
 
@@ -187,7 +168,7 @@ Pruning is best done after harvest and before the spring growth flush. Avoid pru
 | Macadamia felted coccid (*Eriococcus ironsidei*) | Sucks sap from branches; heavy infestations cause dieback | Biological control with parasitic wasps; horticultural oil |
 | Banana weevil borer | Damage to trunk bases in young trees | Cultural controls; protect trunk bases with guards |
 
-Integrated pest management (IPM) approaches are standard in commercial macadamia production. Biological control agents, monitoring, and cultural practices are emphasized over routine chemical applications. See [[integrated pest management]] for general IPM principles.
+Integrated pest management (IPM) approaches are standard in commercial macadamia production. Biological control agents, monitoring, and cultural practices are emphasized over routine chemical applications. See integrated pest management for general IPM principles.
 
 ### Major Diseases
 
@@ -203,7 +184,7 @@ Integrated pest management (IPM) approaches are standard in commercial macadamia
 
 ### Flowering
 
-Macadamia trees flower in spring (September–November in the Southern Hemisphere; March–May in the Northern Hemisphere). Inflorescences are erect racemes, 10–30 cm long, bearing 100–300 tiny cream-white flowers. Each flower has four tepals and a single pistil.
+Macadamia trees flower in spring (September–November in the [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]; March–May in the Northern Hemisphere). Inflorescences are erect racemes, 10–30 cm long, bearing 100–300 tiny cream-white flowers. Each flower has four tepals and a single pistil.
 
 Flowering is photoperiod- and temperature-dependent. A period of cool temperatures (approximately 12–18 °C) during winter promotes inflorescence initiation. Warm, dry conditions during flowering promote good pollinator activity and pollen viability.
 
@@ -248,7 +229,7 @@ Processing macadamia nuts from harvest to market-ready kernel involves several s
 
 ### 1. Husking
 
-The fibrous husk is removed within 24 hours of harvest to prevent heating and mold development. Husks comprise approximately 50% of the fresh weight of the nut-in-husk. Mechanical huskers (dehuskers) are standard; small-scale operations may use hand cracking. Husks can be composted, used as [[mulch]], or processed as stock feed.
+The fibrous husk is removed within 24 hours of harvest to prevent heating and mold development. Husks comprise approximately 50% of the fresh weight of the nut-in-husk. Mechanical huskers (dehuskers) are standard; [[small-scale-dairy-guide]] operations may use hand cracking. Husks can be composted, used as mulch, or processed as stock feed.
 
 ### 2. Drying
 
@@ -307,27 +288,27 @@ Macadamia trees integrate well into [[permaculture]] and [[agroforestry]] design
 
 ### Canopy Layer
 
-As a tall evergreen tree, macadamia occupies the upper canopy layer. It provides shade and wind protection for understory crops. In subtropical [[food forest]] designs, macadamia serves as an overstory element analogous to the role of [[oak]] or [[walnut]] in temperate systems.
+As a tall evergreen tree, macadamia occupies the upper canopy layer. It provides shade and wind protection for understory crops. In subtropical food forest designs, macadamia serves as an overstory element analogous to the role of oak or walnut in temperate systems.
 
 ### Understory Compatibility
 
 - **Shade-tolerant crops** — Coffee, cacao, turmeric, ginger, and [[comfrey]] grow beneath macadamia canopies where light levels are reduced to 30–50% of full sun.
-- [[Mulberry]] can be interplanted as a mid-canopy crop providing supplementary fruit and livestock feed.
-- [[comfrey]] planted as a living mulch accumulates nutrients from deep soil layers and provides biomass for surface mulching.
+- Mulberry can be interplanted as a mid-canopy crop providing supplementary fruit and livestock feed.
+- [[comfrey]] planted as a [[living-mulch-systems-guide]] accumulates nutrients from deep soil layers and provides biomass for surface mulching.
 
 ### Windbreaks and Erosion Control
 
-Macadamia's dense root system and evergreen canopy make it effective for soil stabilization on slopes and as a component of windbreak systems in [[alley cropping]] configurations.
+Macadamia's dense root system and evergreen canopy make it effective for soil stabilization on slopes and as a component of windbreak systems in alley cropping configurations.
 
 ### Wildlife Habitat
 
-Mature macadamia trees provide habitat for birds and beneficial insects. Flowers are a nectar source for bees, supporting [[pollinator habitat]] objectives.
+Mature macadamia trees provide habitat for birds and [[beneficial-insects-cannabis]]. Flowers are a nectar source for bees, supporting pollinator habitat objectives.
 
 ### Limitations in Permaculture
 
 - Long juvenile period (4–5 years minimum before first crop)
 - Large mature size requires significant space
-- Intensive management needs (nutrition, irrigation, pest control) may conflict with low-input permaculture principles
+- Intensive management needs (nutrition, irrigation, pest control) may conflict with [[low-input-vegetable-gardening]] permaculture principles
 - Requires frost-free sites, limiting geographic applicability
 
 ## Economic Considerations
@@ -410,20 +391,20 @@ Numerous locally selected cultivars and advanced breeding lines are grown in the
 
 ### Climate Change
 
-Changing temperature and rainfall patterns pose risks to established macadamia-growing regions. Increasing frequency of extreme heat events, droughts, and storms can damage trees, reduce yields, and disrupt harvest logistics. Breeding for heat tolerance and drought resilience is an active research priority. See [[climate adaptation]] for broader strategies.
+Changing temperature and rainfall patterns pose risks to established macadamia-growing regions. Increasing frequency of extreme heat events, droughts, and storms can damage trees, reduce yields, and disrupt harvest logistics. Breeding for heat tolerance and drought resilience is an active research priority. See climate adaptation for broader strategies.
 
 ## See Also
 
 - [[agroforestry]]
-- [[alley cropping]]
+- alley cropping
 - [[permaculture]]
-- [[food forest]]
-- [[pollinator habitat]]
+- food forest
+- pollinator habitat
 - [[comfrey]]
-- [[mulberry]]
-- [[drip irrigation]]
-- [[integrated pest management]]
-- [[contour farming]]
-- [[swales]]
-- [[mulch]]
-- [[climate adaptation]]
+- mulberry
+- drip irrigation
+- integrated pest management
+- contour farming
+- swales
+- mulch
+- climate adaptation

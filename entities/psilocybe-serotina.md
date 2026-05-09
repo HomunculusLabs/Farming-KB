@@ -83,40 +83,9 @@ It grows gregariously or scattered on decaying hardwood debris, leaf litter, and
 
 Quantitative analyses of *P. serotina* are limited in published literature, owing to the rarity of collections.
 
-The alkaloid profile is consistent with section *Psilocybe* members, though total tryptamine content is reported as low to moderate compared to better-known species like [[psilocybe-cubensis]].
+The alkaloid profile is consistent with section *Psilocybe* members, though total tryptamine content is reported as low to moderate compared to better-known species like [[psilocybe-tampensis]]
 
-### Non-Psychoactive Constituents
-
-The species contains typical fungal sterols (ergosterol), fatty acids, and polysaccharides common to Basidiomycota. No unique non-psychoactive secondary metabolites have been isolated.
-
-## Effects
-
-Psychoactive effects are consistent with other psilocybin-containing mushrooms, though the species' rarity means anecdotal reports are extremely scarce.
-
-Expected effects at typical doses (1–2 g dried material) would include visual alterations, altered time perception, enhanced pattern recognition, and emotional shifts. Duration is approximately 4–6 hours.
-
-⚠️ **Important:** This species is rare and should not be collected for recreational purposes. Identification requires microscopic examination and should only be performed by experienced mycologists.
-
-## Similar Species
-
-| Feature | *P. serotina* | *P. stuntzii* | *P. pelliculosa* |
-|---------|---------------|---------------|-------------------|
-| Fruiting season | Late autumn | Autumn | Autumn |
-| Habitat | Hardwood litter | Conifer debris | Conifer debris |
-| Stipe annulus | Evanescent | Persistent | Weak |
-| Spore size | 10–12 × 6–7 µm | 9–12 × 5–7.5 µm | 9–12 × 5–7 µm |
-
-Can be confused with non-psychoactive *Psilocybe* species and potentially toxic Galerina species.
-
-## See Also
-
-- [[psilocybe-tampensis]]
-
-- [[psilocybe-cubensis]] — The most widely cultivated psilocybian mushroom
 - [[psilocybe-semilanceata]] — Liberty cap, the most common wild psilocybian species in Europe
-- [[psilocybe-cyanescens]] — Wavy-capped psilocybe, a potent temperate species
 - [[psilocybe-azurescens]] — The most potent known psilocybian mushroom
-- [[psilocybin-compound]] — Primary psychoactive compound produced by this species
 - [[psilocin]] — Active metabolite of psilocybin
-- [[gymnopilus-spectabilis-entity]] — Big laughing gym, an unrelated psilocybian genus
-- [[panaeolus-cyanescens]] — Blue meanies, a tropical psilocybian coprophilous species
+- [[panaeolus-cyanescens-entity]] — Blue meanies, a tropical psilocybian coprophilous species

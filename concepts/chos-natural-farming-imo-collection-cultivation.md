@@ -4,12 +4,7 @@ source: chos-global-natural-farming.md
 tags: [natural-farming, IMO, microorganisms, soil-health, cho-han-kyu, KNF]
 ---
 
-# [[indigenous-microorganisms]] (IMO) Collection and Cultivation
-
-## Overview
-
-Indigenous Microorganisms (IMOs) form the foundation of Dr. Cho Han Kyu's Korean Natural
-Farming (KNF) system, developed at the Janong [[natural-farming]] Institute in South Korea
+# [[indigenous-microorganisms]] (IMOs) form the foundation of Dr. [[natural-farming]] Institute in South Korea
 beginning in the 1960s. Rather than importing commercial microbial inoculants, KNF
 practitioners collect microorganisms adapted to the local environment over many generations.
 Dr. Cho argues that organisms found under the sun differ from those in shaded areas like
@@ -55,8 +50,7 @@ and colonized rice transferred to a jar as IMO-1.
 After rice harvest, rice-filled wooden boxes are placed face-down over cut paddy stumps
 so rice contacts the stumps directly. Steel wire netting deters rodents. After about a
 week, mostly anaerobic microorganisms are collected, including Bacillus licheniformis
-(breaks down proteins, fats, carbohydrates) and [[bacillus-subtilis]] (decomposes straw and
-strong fibers). These species are particularly valuable for crop residue decomposition.
+(breaks down proteins, fats, carbohydrates) and [[decomposition]].
 
 ## IMO-2: Sugar Fermentation
 
@@ -103,7 +97,7 @@ and rain. Convection currents created through the gaps between containers provid
 air exchange without the need for active ventilation or turning.
 
 Before using IMO-4 in the field, the moisture content should be readjusted to 65–70%
-by adding nutrient liquids from Natural Farming inputs. This reactivation step "wakes up"
+by adding nutrient liquids from [[natural-farming]] inputs. This reactivation step "wakes up"
 the dormant microbes and prepares them for rapid colonization when applied to the soil.
 
 ## Utilization Principles

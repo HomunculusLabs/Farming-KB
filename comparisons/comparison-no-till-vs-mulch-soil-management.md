@@ -27,28 +27,6 @@ Gardeners who master both practices gain the ability to diagnose soil problems a
 
 ## No-Till
 
-[[teaming-with-microbes-no-till-gardening-soil-health]]
-
-No-till gardening eliminates mechanical soil disturbance such as rototilling, double-digging, and excessive cultivation. The soil food web approach identifies tilling as one of the most damaging practices in gardening because it destroys fungal networks, displaces soil biota, and initiates a compaction spiral that degrades soil structure season after season.
-
-Fungal network destruction is the single most significant consequence of tilling. Mycorrhizal fungi form vast underground networks that connect plant roots, transport water and dissolved minerals, and protect plants from pathogens. These networks take months to years to establish and are severed instantly by a tiller pass.
-
-When fungal hyphae are chopped apart, the nutrient transport highways they built collapse completely. Plants are left temporarily dependent on bacterial nutrient cycling, which favors annual weeds and fast-growing opportunistic species over perennials and woody plants. The ecological succession that took years to build is reset in minutes.
-
-The compaction spiral is another critical mechanism of tillage damage. When soil is tilled, worm tunnels and macropores between soil aggregates are blown apart. The soil appears fluffy immediately, but the first rainfall begins compaction that continues with each subsequent watering or foot traffic event.
-
-Tilling also exposes buried weed seeds to light, triggering germination en masse. Surface organic matter gets buried where it decomposes anaerobically, producing compounds toxic to roots. The burst of bacterial activity after tilling consumes organic matter faster than it can be replaced, effectively mining soil carbon.
-
-Worm tunnel preservation is one of the greatest long-term benefits of no-till management. Over time, earthworms create permanent vertical channels that improve drainage, aeration, and root penetration. These tunnels persist indefinitely under no-till management and become the primary infrastructure for water infiltration and root exploration.
-
-Each tillage event destroys these tunnels, forcing worms to rebuild from scratch. Rebuilding a mature worm tunnel network can take an entire growing season, during which the soil is more vulnerable to compaction, poor drainage, and reduced fertility.
-
-No-till management relies on surface applications of compost, compost tea, and organic matter to feed the soil food web from above. Worms and other organisms incorporate materials gradually at their own pace, maintaining natural soil structure, preserving fungal networks, and building long-term soil carbon.
-
-The transition from tilled to no-till soil typically requires one to three years as the soil food web rebuilds complexity. During this period, compost tea applications can accelerate recolonization by introducing diverse microbial communities directly onto the soil surface and into the mulch layer.
-
-## Mulch
-
 [[teaming-with-microbes-mulch-and-soil-food-web]]
 
 Mulch is any material placed on top of the soil surface to reduce evaporation, suppress weeds, insulate plants, and feed soil organisms. For soil food web gardeners, organic mulches serve the additional critical function of providing food and habitat for the microbial and macrofaunal communities that drive nutrient cycling.
@@ -128,9 +106,6 @@ The result is a garden that becomes more productive and self-sufficient with eac
 
 ## See Also
 
-- [[comparison-solarization-vs-occultation]]
-
 - [[comparison-no-till-vs-conventional-tillage]]
-- [[comparison-mulch-vs-cover-crops]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
 - [[teaming-with-microbes-soil-food-web-overview]]

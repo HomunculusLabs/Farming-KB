@@ -19,28 +19,7 @@ type: concept
 Estimating fungal biodiversity from limited sampling presents significant
 challenges because fungi are diverse, patchily distributed, and often
 ephemeral in their fruiting. Large numbers of species inhabit small
-areas, and studies of [[fungal-biodiversity]] tend to focus on fairly narrow
-taxonomic or ecological groups. When estimates of total species richness
-are sought, statistical extrapolation methods become essential tools for
-deriving meaningful diversity estimates from incomplete samples.
-
-## Species-Effort Curves
-
-Species-effort curves (also called species-accumulation curves) plot the
-cumulative number of species observed against increasing sampling effort.
-For a given landscape, stand, or habitat, the number of species tends to
-increase steeply with initial sampling and then levels off as fewer new
-taxa are encountered. The shape of these curves provides information
-about sampling adequacy: when the curve approaches an asymptote, most
-species have likely been detected.
-
-Applying species-effort techniques to macrofungi has demonstrated that
-the area required to adequately sample fungi is typically larger than
-that required for plants. Studies have shown continuous increases in
-mycorrhizal species richness over 5 years of sampling, and one 21-year
-study continued to detect similar numbers of new species during each
-year. This persistent discovery of new taxa highlights the difficulty of
-achieving complete inventories of [[fungal-communities-succession]] without sustained,
+areas, and studies of [[fungal-communities-succession]] without sustained,
 long-term sampling effort.
 
 ## Complementarity Analysis
@@ -100,14 +79,7 @@ estimation in fungal biodiversity studies.
 Schmit and colleagues examined the utility of the jackknife, Chao 2,
 and other estimators applied to macrofungal inventory data. They found
 that none of the currently used extrapolation techniques was robust when
-applied to their data from a northwest Indiana [[fungal-biodiversity-forest-ecosystems]] sampled over a 3-year period. This sobering result suggests that fungal
-communities may present unique challenges for richness estimation due to
-high species turnover, ephemeral fruiting, and the large proportion of
-rare species typically encountered.
-
-## Meta-Analysis of Sampling Studies
-
-A meta-analysis of plot-based [[fungal-biodiversity-inventory-design]] that measured diversity of both
+applied to their data from a northwest Indiana [[fungal-biodiversity-inventory-design]] that measured diversity of both
 macrofungi and trees examined 25 studies involving 184 plots across
 North America, Europe, China, and Costa Rica. The analysis determined
 that although plots contained more macrofungi than trees, the
@@ -120,31 +92,4 @@ of results.
 
 ## Factors Influencing Estimated Richness
 
-Diversity at a site depends on habitat type ([[fungal-biodiversity-grassland]] or forest,
-successional stage), plant diversity (especially hosts), substratum
-diversity, geographic location (latitude, elevation), soil types, and
-climate. Natural and anthropogenic disturbance, management practices,
-and pollution exposure compound site factors. Sampling protocols also
-directly impact observed diversity. Temporal considerations are critical:
-10 years of sampling would be desirable for adequate documentation, with
-5-10 years commonly recommended. Most studies incorporate only 1-3 years
-due to funding constraints. Cumulative richness versus years sampled can
-estimate adequate duration.
-
-## Practical Recommendations
-
-Sampling design should be treated as an iterative process. Data from
-early efforts should be used to make decisions about modifying later
-sampling. If the occurrence of most taxa in multiple plots is observed,
-sample area could potentially be reduced. Conversely, if most samples
-include unique taxa, sampling intensity should be increased. A minimum of
-five plots per community type is recommended, with plots of 1000 m2 in
-forest or 500 m2 in grasslands.
-
-Pilot studies are essential for determining the intensity of sampling
-required to achieve study goals. Such studies also provide insight into
-the numbers of specimens likely to be acquired and the taxonomic
-Extrapolation techniques should be used to
-supplement, not replace, thorough field sampling. The greatest constraint
-on [[fungal-biodiversity]] estimation remains the paucity of taxonomic
-## See Also
+Diversity at a site depends on habitat type ([[fungal-biodiversity-species-estimation]]

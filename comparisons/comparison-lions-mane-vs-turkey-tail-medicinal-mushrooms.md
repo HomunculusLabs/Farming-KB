@@ -2,33 +2,11 @@
 title: "Lion's Mane vs Turkey Tail Medicinal Mushrooms"
 tags:
   - medicinal-mushroom
-  - [[lions-mane-hericium-erinaceus]]
-  - turkey-tail
-  - hericium
-  - trametes
-  - comparison
-  - nootropic
-  - immunomodulation
-  - beta-glucan
-  - functional-food
-date: 2026-05-03
-updated: 2026-05-03
-sources:
-  - Stamets, P. (2000). Growing Gourmet & Medicinal Mushrooms. Ten Speed Press.
-  - Wong, K.H. et al. (2012). "Hericium erinaceus: A valuable edible and medicinal mushroom." Food Chemistry, 135(2), 609-614.
-  - Wasser, S.P. (2014). "Medicinal mushroom science: History, current status, future trends." Int J Med Mushrooms, 16(3), 237-256.
-  - Lemieszek, M.K. et al. (2014). "Trametes versicolor: A promising medicinal mushroom." Nutrition & Cancer.
-  - Tada, R. et al. (2020). "β-Glucans from Trametes versicolor: Structure, immunomodulation, and therapeutic potential." Carbohydrate Polymers.
-  - Mori, K. et al. (2009). "Improving effects of Yamabushitake on mild cognitive impairment." Phytotherapy Research, 23(3), 367-372.
-created: 2026-05-03
-type: comparison
----
-
-# Lion's Mane vs Turkey Tail [[medicinal-mushrooms]]
+  - [[medicinal-mushrooms]]
 
 ## At a Glance
 
-| Feature | Lion's Mane (*[[hericium-erinaceus]]*) | Turkey Tail (*[[trametes-versicolor]]*) |
+| Feature | Lion's Mane (*[[trametes-versicolor-entity]]*) |
 |---------|-----------------------------------|-------------------------------------|
 | **Primary use** | Cognitive support, neuroprotection | Immune modulation, adjunctive cancer therapy |
 | **Key compounds** | Hericenones, erinacines (neurotrophic) | PSK, PSP, β-glucans (immunomodulatory) |
@@ -126,9 +104,7 @@ Both mushrooms demonstrate significant antioxidant and anti-inflammatory activit
 | Fruiting temp | 16–20°C (cool) | 18–27°C (wide range) |
 | Humidity needs | Very high (85–95% RH) | Moderate-high (75–90% RH) |
 | FAE requirements | Very high — critical | Moderate |
-| [[biological-efficiency]] | 75–150% | 50–100% (less relevant as not culinary) |
-| Contamination resistance | Moderate | High — very vigorous colonizer |
-| Difficulty | Moderate — demanding [[fruiting-conditions]] | Easy — forgiving and adaptable |
+| [[fruiting-conditions]] | Easy — forgiving and adaptable |
 | Time to first fruit | 4–8 weeks from inoculation | 3–6 weeks from inoculation |
 
 Turkey Tail is significantly easier to grow and more tolerant of suboptimal conditions. Lion's Mane requires precise environmental control during fruiting for good results.
@@ -144,6 +120,5 @@ Turkey Tail is significantly easier to grow and more tolerant of suboptimal cond
 - General nootropic stack component
 ## See Also
 
-- [[lions-mane-hericium-erinaceus]]
 - [[turkey-tail-trametes-versicolor]]
 - [[medicinal-mushroom-extraction]]

@@ -35,8 +35,8 @@ sources:
 
 - **Common name:** American ginseng
 - **Family:** Araliaceae (ginseng family)
-- **Origin:** [[polypore-fungi-eastern-north-america]] le-mushrooms-north-america]]
-- **Native range:** [[bolete-fungi-appalachian-region]] (southern to central), Great Lakes region, Ontario (Canada)
+- **Origin:**  le-mushrooms-north-america
+- **Native range:**  (southern to central), Great Lakes region, Ontario (Canada)
 - **Growth habit:** Herbaceous perennial; 30–50 cm tall at maturity
 - **Root:** Fleshy, spindle-shaped taproot, often with anthropomorphic branching
 - **Leaves:** Compound, palmately divided into 3–5 leaflets per leaf
@@ -62,12 +62,12 @@ sources:
 - **Authority:** Linnaeus (1753)
 - **Close relatives:** *P. ginseng* (Asian), *P. notoginseng* (Tienchi), *P. trifolius* (dwarf ginseng)
 
-## [[guzman-magic-mushrooms-chemical-constituents]]
+## 
 
 - **Primary actives:** Ginsenosides (dammarane-type triterpene saponins)
   - **Rb1:** Most abundant ginsenoside in *P. quinquefolius* (~3–6% dry root weight); higher than in *P. ginseng*
   - **Re:** Second most abundant; significant immunomodulatory activity
-  - **Rd:** [[medicinal-mushroom-antioxidant-anti-inflammatory]]; neuroprotective properties
+  - **Rd:** ; neuroprotective properties
   - **Rc:** Sedative and anxiolytic effects
   - **Rg1:** Present at lower concentrations than in *P. ginseng*
   - **F11 (pseudoginsenoside F11):** Marker compound unique to American ginseng
@@ -78,7 +78,7 @@ sources:
   - Polyacetylenes (panaxynol, panaxydol) — antitumor activity
   - Essential oil (trace amounts)
 
-## Traditional & [[bee-product-medicinal-uses]]
+## Traditional & 
 
 ### Indigenous North American Uses
 - Root used by Cherokee, Creek, Iroquois, Menominee, Ojibwa, and other peoples
@@ -104,7 +104,7 @@ sources:
 ## Cultivation & Ecology
 
 ### Habitat Requirements
-- **Soil:** Well-drained, loamy, high organic matter; pH 5.5–6.5
+- **Soil:** Well-drained, loamy, high org anic-matter; pH 5.5–6.5
 - **Light:** 70–80% shade; dappled woodland canopy ideal
 - **Moisture:** Consistent; prefers 35–50 inches annual precipitation
 - **Temperature:** Cold stratification required; winter dormancy essential
@@ -134,17 +134,19 @@ sources:
 - **Category:** Medicinal plant species
 - **Intersection with wiki topics:**
   - Medicinal herbs and ethnobotanical knowledge
-  - Sustainable woodland cultivation and permaculture integration
-  - Adaptogenic and nootropic plant compounds
-  - Conservation of economically important species
-  - Comparative pharmacognosy with related *Panax* species
-  - Trade dynamics in traditional and modern [[herbal-medicine]] markets
-
 ## See Also
 
-- [[panax-ginseng]] — Asian ginseng (*Panax ginseng*)
-- [[panax-notoginseng]] — Tienchi ginseng (*Panax notoginseng*)
+-  — Asian ginseng (*[[panax-notoginseng]]*)
 - araliaceae — Ginseng family overview
 - adaptogens — Adaptogenic herbs and compounds
 - ginsenosides — Active triterpene saponins
 - woodland botanicals — Forest-grown medicinal plants
+
+## See Also
+- panax ginseng
+- panax notoginseng
+- [[teaming-with-nutrients-essential-plant-nutrients]]
+
+## See Also
+
+- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]

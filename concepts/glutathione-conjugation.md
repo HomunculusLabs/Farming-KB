@@ -20,7 +20,7 @@ creates an electrophile. A conjugation reaction can intercept that electrophile 
 or membrane lipids. When the pathway is overwhelmed, covalent binding and oxidative stress become much more
 likely.
 
-GSH conjugation belongs beside [[phase-ii-metabolism]] and [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] in any account of xenobiotic defense. Phase I oxidation can expose or create reactive sites,
+GSH conjugation belongs beside [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] in any account of xenobiotic defense. Phase I oxidation can expose or create reactive sites,
 whereas GSH conjugation supplies a nucleophilic sulfur atom that neutralizes many of those sites.
 
 ## Chemical Basis
@@ -84,57 +84,7 @@ exposure margins, species differences, and clinical monitoring strategies.
 
 ## Toxicological Importance
 
-Glutathione conjugation protects cells from electrophiles and contributes to defense against [[reactive-oxygen-species-and-oxidative-stress]]. It complements antioxidant enzymes by removing secondary products such
-as lipid-derived aldehydes that arise after oxidative membrane damage.
-
-Capacity is finite. GSH stores can fall during overdose, inflammation, malnutrition, mitochondrial injury, or
-sustained chemical exposure. Once stores decline, electrophiles persist longer, protein adducts accumulate,
-and stress signaling shifts from adaptation toward cell death.
-
-Genetic polymorphisms in GST enzymes can change susceptibility to carcinogens, solvents, and therapeutic
-drugs. These associations are often modest because exposure, diet, other enzymes, transporters, and repair
-systems also contribute. Still, GST variation is a recurring theme in molecular epidemiology.
-
-## Endogenous Substrates
-
-Although often discussed as a xenobiotic pathway, GSH conjugation also handles endogenous electrophiles.
-Products of lipid peroxidation, oxidized catechols, and reactive aldehydes can be conjugated. This links the
-pathway to inflammation, aging, ischemia reperfusion injury, and chronic metabolic stress.
-
-Leukotriene C4 biosynthesis is a specialized example in which GSH is conjugated to an endogenous lipid
-mediator. In that context the reaction is not detoxification; it creates a signaling molecule involved in
-bronchoconstriction and inflammation.
-
-The same chemistry therefore supports both protection and physiology. The meaning of a GSH conjugate depends
-on substrate identity, tissue context, transport route, and downstream metabolism.
-
-## Transport and Excretion
-
-GSH conjugates are often recognized by ATP-binding cassette transporters and moved into bile, urine, or
-extracellular fluid. Transport prevents intracellular accumulation and connects conjugation to whole-body
-clearance. Without export, conjugation alone would merely shift a reactive problem into a trapped
-intracellular product.
-
-Biliary excretion can deliver conjugates to the intestine, where microbial or host enzymes may transform them
-further. Enterohepatic cycling, deconjugation, and reabsorption can complicate exposure estimates. Urinary
-excretion is usually easier to sample, which is why mercapturic acids are popular exposure biomarkers.
-
-Transport competition also matters. Multiple conjugates may share efflux routes, so disease or drug
-interactions that impair transport can change apparent conjugation capacity.
-
-## Related Concepts
-
-GSH conjugation sits at the intersection of metabolism, redox biology, and chemical safety. It links
-electrophile chemistry to organ injury, carcinogenesis, environmental exposure, and drug design.
-
-The pathway is best understood as a network: GSH synthesis maintains supply, GSTs accelerate reaction, phase I
-enzymes generate many substrates, transporters remove conjugates, and downstream peptidases create urinary
-metabolites. Weakness at any node can alter toxicity.
-
-## See Also
-
-- [[phase-ii-metabolism]]
-- [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]]
+Glutathione conjugation protects cells from electrophiles and contributes to defense against [[phase-ii-metabolism]]
 - [[reactive-oxygen-species-and-oxidative-stress]]
 - [[idiosyncratic-drug-toxicity]]
 

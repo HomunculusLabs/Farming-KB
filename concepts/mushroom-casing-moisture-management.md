@@ -1,7 +1,7 @@
 ---
 title: Casing Moisture Management
 created: 2026-04-28
-tags: [mycology, casing, moisture, substrate, Stamets]
+tags: [[mycology, casing, moisture, substrate, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -131,8 +131,6 @@ the humidity, the less water will be lost to evaporation.
 
 ## Related Concepts
 
-- [[stamets-casing-layer-design]]
 - [[mushroom-casing-scratching]]
-- [[mushroom-overlay-problems]]
 - [[stamets-crop-watering-flushing-management]]
 - [[stamets-non-composted-substrates]]

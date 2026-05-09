@@ -83,8 +83,6 @@ Harmine is prepared by oxidative dehydrogenation of harmaline: harmaline HCl is 
 
 ## See Also
 
-- [[harmaline-entity-tihkal]] — the dihydro (reduced) analogue, more psychoactive in its own right
 - [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmine
-- [[ibogaine-entity-tihkal]] — another complex indole alkaloid from Apocynaceae
 - [[banisteriopsis-caapi]] — the ayahuasca vine, primary natural source of harmine
 - [[psychedelic-harm-reduction]] — dietary restrictions required with MAOIs

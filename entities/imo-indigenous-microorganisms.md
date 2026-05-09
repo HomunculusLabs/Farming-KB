@@ -79,12 +79,7 @@ While the IMO concept has not been extensively studied in controlled scientific 
 
 ## See Also
 
-- [[bionutrients-lab-indigenous-microorganisms-imo]]
 - [[indigenous-microorganisms-imo]]
-- [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
 - [[indigenous-microorganisms]]
-- [[beneficial-indigenous-microorganisms-bim]]
-
 - [[lactobacillus]] — key bacterial genus in IMO preparations
-- [[fermented-plant-juice-fpj]] — complementary KNF input for plant nutrition
 - [[lactic-acid-bacteria-serum-labs]] — concentrated lactic acid bacteria preparation in KNF

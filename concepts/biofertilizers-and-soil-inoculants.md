@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Biofertilizers and Soil Inoculants
@@ -48,28 +49,7 @@ Azotobacter and Azospirillum live in the soil and around root surfaces (the rhiz
 - Pseudomonas striata
 - Called "phosphobacterins" — free up insoluble phosphorus and make it available to plants
 
-These bacteria produce organic acids (such as gluconic acid and citric acid) that dissolve mineral phosphates, converting them into forms that plants can absorb. This is particularly valuable in soils where phosphorus is abundant but locked in unavailable mineral forms — a common problem identified through [[interpreting-soil-test-results]].
-
-### Phosphate-Solubilizing Fungi
-
-- Penicillium species
-- Aspergillus awamori
-- Work indirectly by producing organic acids that solubilize insoluble phosphorus
-
-Fungal phosphate solubilizers are often more effective than bacterial ones because fungi can extend hyphae into soil microenvironments that bacteria cannot reach. They work synergistically with mycorrhizal fungi to improve overall phosphorus nutrition.
-
-## Mycorrhizal Fungi
-
-Mycorrhizal fungi deliver phosphorus, copper, zinc, molybdenum, and nitrogen to plant roots in exchange for carbon from the plant. They are the largest single source of carbon in soils.
-
-### Types of Mycorrhizae
-
-Two main types are relevant to gardeners:
-
-- **Arbuscular mycorrhizal fungi (AMF)**: Associate with most vegetables, annuals, grasses, and many perennials; penetrate root cells forming arbuscules for nutrient exchange
-- **Ectomycorrhizal fungi**: Associate primarily with trees (oak, pine, birch, beech); form a sheath around roots without penetrating cells
-
-The [[mycorrhizal-nutrient-uptake]] mechanism works through a vast network of fungal hyphae that extend far beyond the root zone, effectively increasing the root's absorptive surface area by 100-1000 times. This dramatically improves access to immobile nutrients like phosphorus.
+These bacteria produce organic acids (such as gluconic acid and citric acid) that dissolve mineral phosphates, converting them into forms that plants can absorb. This is particularly valuable in soils where phosphorus is abundant but locked in unavailable mineral forms — a common problem identified through [[mycorrhizal-nutrient-uptake]] mechanism works through a vast network of fungal hyphae that extend far beyond the root zone, effectively increasing the root's absorptive surface area by 100-1000 times. This dramatically improves access to immobile nutrients like phosphorus.
 
 ### When to Inoculate
 
@@ -112,18 +92,8 @@ Beyond nitrogen fixers and phosphate solubilizers, a diverse group of beneficial
 4. Earthworm castings concentrate nutrients and create humus — excellent natural biofertilizer
 5. Growth-promoting rhizobacteria form symbiotic relationships that aid nitrogen synthesis
 6. Avoid high-phosphorus fertilizers that suppress mycorrhizal colonization
-7. Maintain living roots in the soil year-round through [[green-manure-crops]] to sustain microbial populations
-
-## See Also
-
-- [[glomalin-and-soil-carbon]]
-- [[natural-fertilizer-sources-and-application]]
+7. Maintain living roots in the soil year-round through [[glomalin-and-soil-carbon]]
 - [[nutrient-cycling-in-soil]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[soil-microbiology-basics]]
-- [[composting-and-soil-biology]]
-
-## Related
-
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
 - [[symbiotic-fungi-piriformospora-indica]]

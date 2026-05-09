@@ -134,9 +134,6 @@ products, contributing to food sovereignty in tropical smallholder systems.
 
 ## See Also
 
-- [[mangifera-indica]] — mango, fellow Anacardiaceae tree in tropical agroforestry
-- spondias mombin — hog plum, related tropical Anacardiaceae fruit tree
 - [[glycyrrhiza-glabra]] — licorice, root crop with similar anti-inflammatory compounds
-- [[comfrey-permaculture]] — comfrey, dynamic accumulator for tropical food forests
-- [[persea-americana-entity]] — avocado, complementary evergreen food-forest tree
+- [[persea-americana]] — avocado, complementary evergreen food-forest tree
 - [[morus-alba]] — mulberry, multi-purpose tree in tropical polyculture systems

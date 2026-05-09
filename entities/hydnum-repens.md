@@ -110,11 +110,7 @@ Foragers should avoid specimens growing near roadsides or contaminated sites, as
 ## See Also
 
 - hydnum umbilicatum
-- [[cantharellus-cibarius-entity]]
 - [[cantharellus-cinnabarinus]]
-- [[tricholoma-terreum]]
 - [[russula-delica]]
-- [[cystoderma-amianthinum]]
 - [[mycorrhizal-fungi]]
-- [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]

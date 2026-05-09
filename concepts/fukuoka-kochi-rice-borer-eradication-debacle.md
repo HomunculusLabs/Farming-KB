@@ -26,16 +26,7 @@ losses are no more than twenty percent. More importantly, the
 reduction in final yield is almost always under ten percent, and
 often even less than five percent.
 
-Damage by disease and [[jadam-insect-pest-management]]s is usually highly localized.
-Even in a large regional outbreak of rice borer, close examination
-reveals widely differing degrees of infestation; there may be some
-fields with thirty percent damage and others with virtually no
-damage at all. Science prefers to overlook those fields that have
-been spared and focus instead on severely infested fields. Natural
-farming, on the other hand, devotes its attention to the fields
-that escape damage.
-
-## [[jeavons-natural-pest-control]] Concentration
+Damage by disease and [[jeavons-natural-pest-control]] Concentration
 
 If one small section of a large rice field contains rice grown with
 lots of fertilizer, rice borers congregate on this soft, vulnerable
@@ -125,6 +116,5 @@ toward a natural way of farming.
 
 ## See Also
 
-- [[fukuoka-natural-seeding-volunteer-rice-discovery]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-rice-and-barley-natural-farming]]

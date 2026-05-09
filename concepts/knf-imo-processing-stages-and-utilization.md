@@ -8,9 +8,7 @@ type: concept
 tags: [reference]
 ---
 # IMO Processing Stages and Utilization
-Indigenous Microorganisms (IMOs) in [[korean-natural-farming]] progress
-through four distinct processing stages, each serving a specific
-purpose in building soil [[natural-farming]]tem transforms collected wild
+Indigenous Microorganisms (IMOs) in [[natural-farming]]tem transforms collected wild
 microorganisms from IMO-1 through IMO-4, gradually increasing their
 population, adapting them to field conditions, and preparing them for
 soil application.
@@ -117,5 +115,6 @@ The source provides three key principles for effective IMO use:
 - Building fertile, healthy soil through continuous IMO application
 - Soil treatment before seeding or transplanting (7 to 14 days
 ## See Also
-- [[knf-imo-diversity-and-best-practices]]
 - [[chos-global-natural-farming-input-reduction-methods]]
+
+See also: [[chos-natural-farming-imo-collection-cultivation]]

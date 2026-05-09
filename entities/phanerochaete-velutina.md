@@ -134,14 +134,8 @@ aggregation, and carbon flow by connecting spatially separated
 resource patches.
 
 ## See Also
-Related: [[mycelial-foraging-strategies-nutrient-translocation]], [[fungal-nutrient-translocation-mycelial-systems]], [[mycorrhizal-networks-common-mycelial-network]]
-
-- [[query-difference-between-white-rot-and-brown-rot-fungi]]
-- [[fungal-wood-decay-types]]
-
+Related: [[fungal-nutrient-translocation-mycelial-systems]], [[query-difference-between-white-rot-and-brown-rot-fungi]]
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-- [[staycare-phanerochaete-sordida-in-bioremediation]]
-
 - [[hypholoma-fasciculare]]
 - resinicium bicolor
 - stropharia caerulea

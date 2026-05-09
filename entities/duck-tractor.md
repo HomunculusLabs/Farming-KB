@@ -134,13 +134,8 @@ Selective placement and timing of tractor rotations are essential.
 
 ## See Also
 
-- [[chicken-tractor-systems]]
 - [[silvopasture]]
-- [[permaculture]]
 - [[vermicomposting]]
-- [[swale]]
 - [[hugelkultur]]
-- [[cover-cropping-systems]]
 - [[comfrey]]
-- [[food-forest]]
 - [[dynamic-accumulators]]

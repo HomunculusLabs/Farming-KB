@@ -34,65 +34,7 @@ name "black mold."
 Aspergillus niger is a ubiquitous soil fungus with remarkable
 metabolic versatility that enables it to thrive in diverse
 ecological
-niches. In [[john-dighton]]'s treatment of fungi in ecosystem
-processes,
-A. niger is highlighted for its dual roles in rock weathering and
-bioremediation. The species contributes significantly to mineral
-dissolution and nutrient release from geological substrates,
-while also
-demonstrating considerable capacity for biosorption of
-radionuclides
-and heavy metals.
-
-The fungus is commonly isolated from agricultural soils, forest
-soils,
-rock surfaces, and indoor environments. Its ability to produce a
-wide
-range of organic acids, including citric, oxalic, and gluconic
-acids,
-underlies many of its ecological and industrial activities. A.
-niger
-is also a well-known industrial workhorse, employed in commercial
-production of citric acid and various enzymes.
-
-# Rock Weathering and Mineral Solubilization
-
-One of the most significant ecological contributions of
-Aspergillus
-niger documented in Dighton's textbook is its capacity for rock
-weathering and mineral solubilization. The fungus has been
-demonstrated
-to release cations from a variety of mineral substrates,
-including
-amphibolite, biotite, and orthoclase. In controlled culture
-experiments, A. niger effectively solubilized fluorapatite, a
-calcium
-phosphate mineral, demonstrating its ability to access phosphorus
-from
-insoluble mineral sources.
-
-The mechanism of mineral dissolution primarily involves the
-excretion
-of organic acids, which chelate metal cations and lower the pH of
-the
-microenvironment surrounding fungal hyphae. Oxalic acid forms
-stable
-complexes with calcium, aluminum, and iron ions, thereby
-mobilizing
-these elements from rock and mineral matrices. This mycorrhizal-
-like
-activity of free-living A. niger contributes to soil formation
-processes and the long-term cycling of mineral nutrients in
-terrestrial ecosystems.
-
-# Bioremediation and Biosorption
-
-Aspergillus niger has attracted considerable attention for its
-biosorption capabilities, particularly with respect to
-radionuclide
-remediation. In comparative studies discussed by Dighton, A.
-niger and
-[[rhizopus-arrhizus]] were found to be more efficient biosorbers of
+niches. In [[rhizopus-arrhizus]] were found to be more efficient biosorbers of
 radiothorium than Penicillium italicum and P. chrysogenum. The
 fungal
 biomass can be palletized to create physical forms comparable to
@@ -140,10 +82,5 @@ formation, particularly in arid and semi-arid regions.
 
 # See Also
 
-- [[cladosporium-cladosporioides]]
 - [[trichoderma-viride]]
-- [[chaetomium-globosum]]
-
-## See Also
-
 - [[guaiol]]

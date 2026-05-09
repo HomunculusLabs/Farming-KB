@@ -74,36 +74,11 @@ dominance. This is because:
 
 ## Human Practices That Alter the Ratio
 
-- [[fukuoka-rice-barley-no-till-method]] breaks up fungal hyphae and shifts soil
-  toward bacterial dominance
-- Chemical fertilizers are salts that kill fungi and bacteria
-- Compaction crushes fungal tubes
-- Pesticides and fungicides destroy fungal communities
-- Adding [[compost-biology-soil-food-web-inoculation]] or fine, wet, green
+- [[compost-biology-soil-food-web-inoculation]] or fine, wet, green
   mulches favors bacteria
-- Adding [[compost-biology-soil-food-web-inoculation]] or coarse, dry, brown
-  mulches favors fungi
-
-## The Succession Continuum
-
-Soil biology follows a natural succession from bacterial to fungal dominance,
-mirroring plant succession: from weeds (bacterial) to grasses (mixed) to shrubs
-(fungal) to old-growth forest (highly fungal). Understanding this continuum
-allows gardeners to manage their soil food web to match the plants they are
-growing.
-
-See also: [[soil-food-web-structure]], [[mycorrhizal-networks-explained]],
-[[root-exudates-rhizosphere]], [[mulch-types-effects-soil-biology]]
-
-Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-
-[[soil-food-web-structure]] describes the trophic hierarchy that determines how bacterial and fungal channels channel energy and nutrients through decomposer food webs.
-
-[[mycorrhizal-networks-explained]] illustrates how fungal-dominated soils support extensive mycelial networks that connect plants and facilitate nutrient exchange.
+- Adding [[soil-food-web-structure]], [[root-exudates-rhizosphere]], [[soil-food-web-structure]] describes the trophic hierarchy that determines how bacterial and fungal channels channel energy and nutrients through decomposer food webs.
 
 [[bacterial-to-fungal-soil-succession]] explains the natural progression from bacterially dominated pioneer soils to fungally dominated mature ecosystems.
 
-[[mulch-types-effects-soil-biology]] details how different mulch materials selectively feed either bacterial or fungal communities, offering a practical lever for managing the F:B ratio.
-
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]

@@ -29,9 +29,7 @@ According to Uwe Blesching's Cannabis Health Index (CHI), the evidence-based
 confidence level for cannabis in treating rheumatoid arthritis is based on 3
 studies reviewed with a total CHI value of 10, yielding a CHI score of 3.33.
 
-See also: [[blesching-cannabis-arthritis]],
-[[cannabis-autoimmune-conditions-detailed]],
-[[cannabis-chronic-pain-management]],
+See also: [[cannabis-autoimmune-conditions-detailed]],
 [[blesching-cannabis-neuropathic-pain]],
 [[cannabis-and-fibromyalgia]]
 

@@ -23,38 +23,6 @@ hydrate landscapes and prevent erosion, but they differ in their analytical
 framework, implementation philosophy, and scale of application.
 
 ## Keyline Design
-[[keyline-design]]
-
-Keyline design is a systematic landscape management system that identifies a
-specific contour line, called the keyline, at the point where a valley floor
-transitions from convex to concave shape. This line becomes the reference for
-all subsequent earthworks and cultivation. The key insight, discovered by
-Yeomans, is that by plowing parallel to the keyline rather than strictly on
-contour, water is gently redirected from wet valleys toward dry ridges,
-distributing moisture more evenly across the landscape and transforming
-unproductive ridges into fertile land.
-
-The system involves identifying the keypoint (the highest point where the
-valley profile changes from steep to flat), drawing the keyline contour through
-that point, and then cultivating all subsequent lines parallel to it. As these
-lines move up the ridges, they drift off-contour progressively, causing water
-that would naturally concentrate in valley channels to spread toward the ridges.
-This off-contour cultivation is counterintuitive but remarkably effective: it
-prevents valley erosion from concentrated water flow while irrigating dry ridge
-areas that would otherwise be unproductive.
-
-Keyline design also incorporates a tree-planting system that follows the same
-parallel geometry, with trees placed on the upper side of cultivation lines to
-access water flowing downslope. Dams and ponds are placed at the keypoint where
-valleys naturally constrict, maximizing water storage with minimal earthworks.
-Irrigation channels follow keyline patterns to gravity-feed water across the
-property without pumping. The approach is analytical and geometric, providing a
-reproducible methodology that can be applied systematically to any property with
-measurable topography. Yeomans also developed the Keyline Plow, a subsoil shank
-that loosens compacted soil without inversion, further enhancing water
-infiltration.
-
-## Contour Line Water Management
 [[contour-line-water-management]]
 
 Contour line water management, as practiced by Sepp Holzer, is an
@@ -116,19 +84,7 @@ approach for ranches, broadacre farms, and large rural properties. The parallel
 cultivation pattern works particularly well with mechanical equipment like the
 Keyline Plow. Keyline is also valuable when the primary goal is evening out
 moisture distribution across varied terrain, turning dry ridges into productive
-land while preventing valley erosion. See [[keyline-design-water-management]]
-for detailed implementation guidance.
-
-## When to Choose Contour Line Water Management
-Holzer's contour approach excels in complex, varied terrain where each site
-requires individual assessment. It is ideal for permaculture farms, homesteads,
-and restoration projects where the goal is working intimately with existing
-natural patterns. The method requires no specialized surveying equipment and
-relies on observational skills that can be developed over time. It integrates
-naturally with Holzer's broader approach to terracing, raised beds, and mixed
-animal-plant systems. Sites with naturally occurring impermeable layers benefit
-most, as water retention features can be placed without artificial sealing. See
-[[swale-design-construction]] for practical earthwork techniques.
+land while preventing valley erosion. See [[swale-design-construction]] for practical earthwork techniques.
 
 ## Hybrid Approaches
 Many permaculture designers combine elements of both systems to capitalize on
@@ -142,9 +98,5 @@ systems share the fundamental principle that water should be spread and
 infiltrated across the landscape rather than concentrated and discharged. Mark
 Shepard's Restoration Agriculture explicitly combines keyline cultivation
 patterns with Holzer-style pond systems in broadacre food-forest design. See
-[[permaculture-water-systems]] for integrated design approaches.
-
-## See Also
-- comparison keyline vs contour
-- [[swale-design]]
+[[swale-design]]
 - hugelkultur vs terracing

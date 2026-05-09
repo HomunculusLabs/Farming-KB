@@ -1,7 +1,7 @@
 ---
 title: "Sterile Technique and agar Culture in Mushroom Cultivation"
 created: 2026-04-28
-tags: [mushroom-cultivation, sterile-technique, agar-media, mycology, contamination-control]
+tags: [[mushroom-cultivation, sterile-technique, agar-media, mycology, contamination-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -23,8 +23,7 @@ make sterile technique difficult unless proper precautions are taken.
 2. **The culture medium** -- improperly sterilized substrates harbor latent organisms
 3. **The culturing equipment** -- tools, containers, and surfaces that contact media
 4. **The cultivator and their clothing** -- the human body carries bacteria, mites,
-   and [[fungal-spores]] at all times
-5. **The mushroom spores or [[mycelium]] itself** -- wild specimens carry associated
+   and [[mycelium]] itself** -- wild specimens carry associated
    organisms that must be isolated away from
 
 Mushrooms and all living organisms compete for available nutrients. In creating a
@@ -104,46 +103,5 @@ mycelium, which is preferred for its fast growth rate.
 ## pH and Sterilization
 
 Most mycelia grow well in the 5.5-7.5 pH range. Species of Psilocybe prefer
-6.0-7.0, while [[agaricus-brunnescens]] grows better near neutral. Sterilize media
-in a pressure cooker for 30 minutes at 15 psi (250 degrees F). Exceeding 250
-degrees caramelizes sugar, inhibiting mycelial growth and promoting mutations.
-
-At higher elevations, higher pressures are needed due to Boyle's Law. At 5000
-feet, increase to 20 psi. Doubling pressure roughly halves sterilization time.
-
-## Antibiotic Control
-
-For high bacterial contamination rates, add 0.10 grams of gentamycin sulfate per
-liter of media prior to sterilization. It survives autoclaving and is effective
-against a broad range of bacteria. Use sparingly as a temporary measure only.
-
-## Tissue Culture Protocol
-
-Tissue culture preserves exact genetic character of a living mushroom. Specimens
-must be used within 24-48 hours of picking. The entire mushroom is compressed
-mycelia, so viable tissue can come from any part.
-
-1. Wipe surface with alcohol-soaked cotton swab
-2. Break cap or stem to expose interior hyphae
-3. Flame scalpel until red-hot, cool in media-filled petri dish
-4. Cut into flesh, removing a small tissue fragment
-5. Transfer quickly to center of nutrient-filled petri dish
-6. Repeat into 3-5 dishes; label with species, date, medium type
-7. Mycelial growth appears in 3-7 days if successful
-
-A 10% contamination rate is tolerable; 25% is common for wild specimens.
-Bacteria are the most common contaminants in tissue culture.
-
-## Key Principles
-
-- Sterile work demands concentration, attention to detail, and a steady hand
-- The cultivator's attitude toward cleanliness matters more than any equipment
-- Give the first attempt the best possible effort with immaculate hygiene
-- Preserve purity once established; discard all contaminated cultures
-- Agar culture rapidly multiplies mycelial mass while monitoring purity
-
-## See Also
-
-- [[working-with-agar-pouring-plates-and-sterile-technique]]
-- [[cultivator-strain-selection-and-stock-culture]]
+6.0-7.0, while [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[stamets-spore-germination-and-tissue-culture]]

@@ -119,8 +119,6 @@ sclerotium powder into bread to increase protein content.
 
 ## Related Concepts
 
-- [[oyster-mushroom-harvesting-post-harvest]]
 - [[oyster-mushroom-cultivation-economics]]
-- [[oyster-mushroom-marketing-economics]]
 - [[mushroom-poverty-alleviation-developing-countries]]
 - [[oyster-mushroom-spent-substrate-recycling]]

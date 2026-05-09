@@ -121,11 +121,7 @@ The vulnerability of artificial cultivation lies in its total dependence on them
 
 ## See Also
 
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[fukuoka-textdoc-food-synthesis-petrochemical]]
-- [[fukuoka-textdoc-food-quality-decline-petroleum]]
-- [[fukuoka-textdoc-energy-efficiency-natural-farming]]
+- fukuoka textdoc food quality decline petroleum
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
-- [[fukuoka-textdoc-chemical-fertilizer-soil-death]]
 - [[fukuoka-mu-nothingness-philosophy]]

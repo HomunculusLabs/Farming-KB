@@ -76,26 +76,7 @@ Naturalized in North America (northern California, British Columbia).
 Host range varies by subspecies:
 - Subsp. *album*: broad host range on deciduous trees — apple (*Malus*),
   poplar (*Populus*), willow (*Salix*), linden (*Tilia*), oak (*Quercus*)
-- Subsp. *abietis*: restricted to silver fir (*Abies alba*)
-- Subsp. *maritimum*: restricted to several *Pinus* species
-
-Parasitism reduces host growth increment by 10–40% in heavy infestations.
-Light infections rarely cause significant harm to healthy trees.
-
-## Phytochemistry
-
-*Viscum album* produces a unique array of bioactive compounds:
-
-- **Viscotoxins (A₁, A₂, A₃, B, 1-PS)** — small (~5 kDa) cationic
-  thionin peptides; cytotoxic, immunomodulatory, induce apoptosis
-  in tumor cells via membrane pore formation
-- **Lectins (ML-I, ML-II, ML-III)** — type II ribosome-inactivating
-  proteins; the most significant anticancer compounds. ML-I
-  (viscumalbumin A₁) is the primary pharmacological agent in
-  standardized extracts. Binds galactose residues on cell surfaces,
-  enters cells, and depurinates 28S rRNA, inhibiting protein synthesis
-- **Alkaloids** — traces of tyramine and related β-phenylethylamines
-- **Flavonoids** — [[quercetin]], homoeriodictyol, and rhamnetin glycosides
+- Subsp. *abietis*: restricted to silver fir (*[[quercetin]], homoeriodictyol, and rhamnetin glycosides
 - **Polysaccharides** — β-1,3/1,6-glucans with immunostimulatory activity
 - **Viscin** — complex polysaccharide matrix enabling seed adhesion
 
@@ -139,12 +120,7 @@ is among the most enduring images in European ethnobotany.
 
 Cultivation is uncommon; most commercial material is wild-harvested.
 Harvest during dormancy (November–March) when lectin content peaks.
-Host tree species significantly influences phytochemical profile —
-*V. album* from *Malus* (apple) contains higher viscotoxin levels
-than material from *Populus* (poplar). All licensed pharmaceutical
-preparations use fermented aqueous extracts, which increase lectin
-bioavailability and reduce toxicity.
-
 ## See Also
 
-- [[chenopodium-album]]
+- [[aphanocladium-album]]
+- [[lamium-album]]

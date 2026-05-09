@@ -40,35 +40,9 @@ blade of grass, a chip of wood, a log, or stump. They are
 typically fast-growing, sending out ropey strands of mycelium
 that quickly attach to and decompose plant tissue. Most of the
 decomposers degrade wood. Hence, the majority of these saprophytes
-are woodland species, such as [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]
-(Pleurotus species),
-[[shiitake-mushroom-cultivation-and-medicinal-properties]]
+are woodland species, such as [[shiitake-mushroom-cultivation]]
 (Lentinula edodes), and
-[[growing-gourmet-king-stropharia-cultivation]]
-(Stropharia rugoso-annulata). However, each species has developed
-specific sets of enzymes to break down lignin-cellulose, the
-structural components of most plant cells.
-
-Once the enzymes of one mushroom species have broken down the
-lignin-cellulose to its fullest potential, other saprophytes
-utilizing their own repertoire of enzymes can reduce this material
-even further.
-
-### Secondary Decomposers
-
-Secondary decomposers rely on the previous activity of other
-fungi to partially break down a substrate to a state wherein they
-can thrive. They typically grow from composted material. The
-actions of other fungi, actinomycetes, bacteria, and yeasts all
-operate within a compost. As plant residue is degraded by these
-microorganisms, the mass, structure, and composition of the
-compost is reduced. Heat, carbon dioxide, ammonia, and other
-gases are emitted as by-products.
-
-Once these microorganisms (especially actinomycetes) have
-completed their life cycles, the compost is susceptible to
-invasion by a select secondary decomposer. A classic example is
-the [[growing-gourmet-button-mushroom-agaricus-cultivation]]
+[[growing-gourmet-button-mushroom-agaricus-cultivation]]
 (Agaricus brunnescens), the most commonly cultivated mushroom.
 Another example is Stropharia ambigua, which invades outdoor
 mushroom beds after wood chips have been first decomposed by a
@@ -135,15 +109,8 @@ prolonged exposure to direct sunlight.
 Understanding whether a mushroom is a primary, secondary, or
 tertiary decomposer is fundamental to selecting appropriate
 substrates. See
-[[growing-gourmet-selecting-candidate-cultivation]]
-for a categorized list of species and their preferred habitats.
+[[saprophytic-mushrooms]]
 
-## See Also
-
-- [[saprophytic-mushrooms]]
-
-- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
 - [[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
-- [[growing-gourmet-substrate-materials-wood-types]]
 - [[growing-gourmet-selecting-candidate-cultivation]]
 - [[growing-gourmet-species-sequencing-substrate-recycling]]

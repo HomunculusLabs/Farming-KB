@@ -71,7 +71,6 @@ Water and sodium hydroxide extracts are 60% and 90% effective, respectively, aga
 - Calcium: 42 mg; potassium: 2083 mg; iron: 22.9 mg; sodium: 63 mg
 
 ## Related Topics
-- [[mushroom-substrates]] for sawdust formulations
 - [[oyster-mushroom-spawn-production]] for grain and sawdust spawn
 - mushroom cloning tissue culture for strain isolation
 - mushroom fruiting conditions for environmental parameters
@@ -80,8 +79,6 @@ Water and sodium hydroxide extracts are 60% and 90% effective, respectively, aga
 
 In Japan, nameko is a staple ingredient in miso soup and nabemono (hot pot dishes), where its glutinous coating acts as a natural thickener. The global market for nameko remains concentrated in East Asia, though interest is growing among specialty mushroom growers in North America and Europe.
 
-The mushroom's sensitivity to moisture and CO2 levels during fruiting makes it more challenging for beginners than oyster mushrooms ([[cotter-oyster-mushroom-cultivation]]) but easier than many other gourmet species. Its ability to fruit on conifer substrates makes it attractive for growers with access to softwood sawdust, a resource often underutilized in mushroom cultivation. For growers interested in diversifying beyond oyster mushrooms, nameko offers a unique combination of culinary value, manageable cultivation difficulty, and substrate versatility. See [[gourmet-mushroom-species-guide]] for market trends and mushroom-substrates|substrate options for formulation details.
-- [[oyster-mushroom-species-fruiting-parameters]]
+The mushroom's sensitivity to moisture and CO2 levels during fruiting makes it more challenging for beginners than oyster mushrooms ([[gourmet-mushroom-species-guide]] for market trends and mushroom-substrates|substrate options for formulation details.
 - [[stamets-mushroom-growing-parameters-by-species]]
-- [[gourmet-mushroom-enriched-sawdust-cultivation]]
 - [[stamets-outdoor-natural-culture-methods]]

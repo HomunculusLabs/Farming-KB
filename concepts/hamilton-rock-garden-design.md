@@ -93,15 +93,8 @@ In their natural habitat, alpines are covered with snow that protects them in th
 
 ## Related
 
-- [[hamilton-cottage-garden-design]] Concepts
-
 - [[hamilton-perennial-flowers-organic]]
-- [[hamilton-shade-garden-plants]]
 - [[hamilton-wildflower-meadow]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book
 - [[gaias-garden-cover-crops-soil-building]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[hamilton-garden-planning-and-site-assessment]]
 - [[holzer-stone-fruit-varieties-and-growing]]

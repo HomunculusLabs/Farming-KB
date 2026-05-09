@@ -1,7 +1,7 @@
 ---
 title: Log Cultivation of Mushrooms
 created: 2026-04-28
-tags: [mycology, mushroom-cultivation, log-cultivation, wood-decay]
+tags: [[mycology, mushroom-cultivation, log-cultivation, wood-decay]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -133,7 +133,7 @@ vulnerable to competing fungi and insects.
 
 ## See Also
 
-- [[spawn-preparation]]
 - [[shiitake-cultivation-guide]]
-- [[london-outdoor-ridge-mushroom-cultivation]]
 - [[fungi-in-the-environment-decomposition-wood-decay]]
+
+See also: [[mushroom-log-cultivation]]

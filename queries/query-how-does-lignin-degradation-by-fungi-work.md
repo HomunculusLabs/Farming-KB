@@ -25,15 +25,7 @@ Lignin is one of the most abundant organic polymers on Earth:
 - Most organisms including bacteria cannot degrade lignin at all
 - Its persistence is why woody materials last for years in the environment
 
-The [[biochemistry-of-ligninolytic-fungi-bioremediation]] field studies how certain fungi have evolved to overcome this challenge.
-
-## White-Rot Fungi: The Primary Lignin Degraders
-
-White-rot fungi are the most effective lignin degraders known in nature:
-
-- They produce a suite of extracellular enzymes called lignin-modifying enzymes (LMEs)
-- These enzymes work outside the fungal cell because lignin molecules are too large to enter
-- The [[singh-ligninolytic-enzymes-fungal-bioremediation]] reference details the enzyme systems
+The [[singh-ligninolytic-enzymes-fungal-bioremediation]] reference details the enzyme systems
 
 The three key enzyme families are:
 
@@ -50,14 +42,6 @@ The three key enzyme families are:
 **Laccase:**
 - A multicopper oxidase that oxidizes phenolic lignin components
 - Can work with mediator molecules to attack non-phenolic structures
-- The [[bioremediation-laccase-mediator-systems]] approach enhances laccase effectiveness
-
-## The Radical-Based Mechanism
-
-Lignin degradation operates through a unique radical-based chemistry:
-
-- Fungal enzymes generate highly reactive free radicals rather than directly breaking bonds
-- This radical mechanism is nonspecific, which is advantageous for attacking irregular lignin
 - The [[fungal-enzyme-systems-in-bioremediation]] framework explains how this same radical chemistry also degrades environmental pollutants
 - White-rot fungi can break down PAHs, PCBs, dioxins, and other recalcitrant compounds using the same enzymes
 - Hydrogen peroxide is required as a co-substrate for peroxidase enzymes
@@ -72,15 +56,13 @@ Brown-rot fungi use a fundamentally different strategy:
 - Lignin is modified and partially broken but not fully mineralized
 - The result is a characteristic brown, crumbly wood residue
 
-The [[brown-rot-fungi-biodegradation]] pathway is energy-efficient, allowing brown-rot fungi to access cellulose without the metabolic cost of full lignin mineralization. The [[bioremediation-fenton-chemistry-brown-rot-fungi]] reference covers the Fenton chemistry in detail.
+The [[mycoremediation]] reference covers the Fenton chemistry in detail.
 
 ## Ecological Significance
 
 Lignin degradation is essential for global carbon cycling:
 
 - Without fungal lignin degradation, forest carbon would remain locked in woody debris indefinitely
-- The [[comparison-white-rot-vs-brown-rot-fungi]] shows how these two decay strategies complement each other in nature
-- White-rot fungi dominate in hardwood forests; brown-rot fungi are more common in conifer forests
 - The [[cellulase-enzyme-systems-in-fungi]] often work alongside lignin-modifying enzymes for complete decomposition
 
 ## Practical Applications
@@ -96,12 +78,6 @@ Lignin-degrading fungi have important practical uses:
 
 - Lignin is an extremely resistant polymer that only certain fungi can degrade, primarily white-rot species
 - White-rot fungi use lignin peroxidase, manganese peroxidase, and laccase to break lignin via radical chemistry
-- [[brown-rot-fungi-biodegradation]] employs Fenton chemistry to modify lignin and access cellulose without fully mineralizing lignin
-- The [[biochemistry-of-ligninolytic-fungi-bioremediation]] has practical applications in pollution cleanup and industrial processing
-- [[cellulase-enzyme-systems-in-fungi]] work alongside lignin-degrading enzymes to completely decompose plant material
-
-## Related Questions
-
+- [[biochemistry-of-ligninolytic-fungi-bioremediation]] has practical applications in pollution cleanup and industrial processing
 - [[query-difference-between-white-rot-and-brown-rot-fungi]]
-- [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 - [[query-can-fungi-clean-up-oil-spills]]

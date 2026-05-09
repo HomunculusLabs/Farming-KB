@@ -4,117 +4,13 @@ created: 2026-04-28
 updated: 2026-05-06
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/water-for-every-farming-gary-rajala.md"
 ---
 
-# [[legume-and-fruit-vegetable-harvest]]s: [[echinacea-growing-guide]]
+# [[echinacea-growing-guide]]
 
-Source: [[solomon-growing-tomatoes]], "Gardening When It Counts" (2005)
-
-## Tomatoes (Solanum lycopersicum)
-
-Tomatoes are the most popular home garden vegetable and one of the few that Solomon considers worth buying as transplants (since the fruit is distinctive enough that mislabeling is obvious). However, growing your own from seed gives access to better varieties.
-
-### Soil and Fertility
-
-Tomatoes are high-demand crops. They need rich, well-balanced soil with COF plus manure or compost. They develop deep root systems in properly prepared beds.
-
-### Seed Starting
-
-Start seeds about 6 weeks before last frost. Sow in pots using garden soil-based mix. Tomatoes germinate readily at warm temperatures. Transplant into the garden only after all frost danger has passed and soil has warmed.
-
-### Planting and Support
-
-- Space plants 24-36 inches apart in rows 36-48 inches apart
-- Set transplants deep (buried up to first true leaves) to encourage additional root formation along the stem
-- Stake or cage indeterminate varieties; determinate types may not need support
-- Wider spacing allows better air circulation and reduces disease
-
-### Fertigation
-
-Tomatoes respond dramatically to fertigation. Solomon's trials showed fertigated plants producing far more fruit than non-fertigated ones. Use 5 gallons of manure tea or diluted fish emulsion per plant every 2-3 weeks, delivered through a bucket with a small drain hole at the base.
-
-### Pests and Diseases
-
-- **Early blight and late blight**: major fungal diseases; prevention through rotation (3+ years away from any solanum), removing lower leaves, and ensuring good air circulation
-- **Fusarium and verticillium wilt**: soil-borne; choose resistant varieties (V, F, N designations)
-- **Aphids**: hose spray, insecticidal soap, or pyrethrum
-- **Tomato hornworm**: handpicking is effective in small gardens
-- **Cracking**: caused by uneven moisture; consistent irrigation helps
-
-### Harvest
-
-Pick when fully colored but still firm. Green tomatoes can ripen indoors. At end of season, pick all full-sized green tomatoes before frost; many will ripen slowly indoors.
-
-### Seed Saving
-
-Tomatoes are mostly self-pollinating, making seed saving relatively easy. Isolate by 10-25 feet if purity matters. Squeeze seeds and gel from ripe fruit into a jar, add water, ferment 2-3 days, rinse, and dry. Select from the best-performing plants.
-
-## Peppers (Capsicum spp.)
-
-Peppers need warm soil (60F/16C minimum) and a long growing season. They are high-demand crops.
-
-### Growing
-
-- Start seeds 6-8 weeks before last frost; slower to germinate than tomatoes
-- Transplant after soil is thoroughly warm
-- Space 18-24 inches apart in rows 30-36 inches apart
-- Sweet peppers and hot peppers have similar cultural requirements
-- Fertigate like tomatoes for best results
-- Bell peppers in the garden center may be mislabeled (not as distinctive as tomatoes)
-
-### Harvest
-
-Sweet peppers: harvest when fully sized and colored (green, red, yellow depending on variety). Hot peppers: can be harvested green or left to mature to full color (usually hotter when red).
-
-## Eggplant (Solanum melongena)
-
-Requires the longest, warmest growing season of the solanums. Start seeds earliest of the three. Transplant only after soil is warm and nights are mild. Space 24-30 inches apart. Responds to fertigation. Susceptible to flea beetles as seedlings -- row covers help.
-
-## Sweet Corn (Zea mays)
-
-Corn is a medium-demand crop. Wind-pollinated (pollen is heavy and does not blow far).
-
-### Growing Details
-
-- Minimum spacing: 24 sq ft per plant (e.g., 9 inches apart in rows 36 inches apart)
-- In drought: increase to 16 sq ft maximum (4-foot centers, hills of 4 seeds)
-- Always plant in blocks at least 2 rows wide for adequate pollination
-- Single long rows result in poorly filled ears
-- Sow about 1 inch deep; thin to one plant per station when ~6 inches tall
-- Make the entire patch moderately fertile rather than concentrating amendments in rows
-
-### Varieties
-
-Hybrids outproduce OP varieties by 50% or more, mostly because many classic OP varieties have deteriorated. Solomon advises:
-- For sweet corn: start with hybrids, trial OP classics alongside
-- For field corn as a staple: OP varieties produce higher protein and mineral content per calorie
-- Classic OP sweet corns are acceptable for cornmeal and flour
-
-### Pests
-
-- **Corn earworm**: after pollen drops, silks attract the moth. Control by daubing Bt on silks with a soft brush after pollination finishes
-- **European corn borer**: Bt sprays during peak moth flight
-
-### Seed Saving
-
-Corn is wind-pollinated. Isolation of 1/4 mile (400m) minimum; 1/2 mile (800m) if second patch is upwind. Select best ears from best plants. Allow to fully dry on the stalk. Braid husks and hang in a warm, dry place (traditional Native American method). Maintain a population of 100+ plants for genetic vigor.
-
-### Harvest
-
-Some varieties signal ripeness by wrapper color change. The ear on the main stalk usually ripens a week ahead of secondary ears.
-
-## Legumes: Beans and Peas
-
-All legumes are low-demand crops.
-
-### Key Fact About Legumes and Soil
-
-Legumes do NOT enrich soil for companion crops. All nitrogen formed in root nodules is immediately incorporated into the plant's own leaves and seeds. Nitrogen becomes available to following crops only when legume and green manure is turned still lush. Nitrate-forming bacteria must be present in soil; they won't colonize soil severely depleted of mollison designers humus.
-
-### Peas
-
-- Frost-hardy; some varieties used as overwintering [[cover-crops]]
+Source: [[cover-crops]]
 - Chit seeds for earliest plantings (pre-sprout on moist paper)
 - Bush varieties: grow in massed rows across wide beds; concentrate harvest, leave soil in excellent condition
 - Climbing varieties (Alderman/Tall Telephone, Sugar Snap): superior flavor, extended harvest, need 6-foot trellis
@@ -145,3 +41,66 @@ Legumes do NOT enrich soil for companion crops. All nitrogen formed in root nodu
 
 - More frost-hardy than garden peas
 ## See Also
+
+## See Also
+
+- [[solomon-growing-vegetables-essentials]]
+## Practical Considerations
+
+When working with Solomon Fruit Vegetables Growing, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

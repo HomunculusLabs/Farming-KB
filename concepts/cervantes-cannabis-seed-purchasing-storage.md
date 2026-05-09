@@ -132,8 +132,6 @@ methods.
 
 ## See Also
 
-- [[cervantes-seed-germination]]
 - [[cervantes-seed-production-storage]]
-- [[cervantes-strain-selection]]
 - [[cervantes-grow-room-security-law-enforcement]]
 - [[cervantes-open-pollinated-heirloom-seeds]]

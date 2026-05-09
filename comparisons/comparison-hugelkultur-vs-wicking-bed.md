@@ -1,7 +1,7 @@
 ---
 title: Hugelkultur vs Wicking Beds
 created: 2026-04-28
-tags: [permaculture, water-management, garden-beds, soil-building]
+tags: [[permaculture, water-management, garden-beds, soil-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
@@ -50,13 +50,7 @@ Wicking beds work at full capacity from the first day. Fill the reservoir, plant
 
 ## Soil Building vs Soil Containment
 
-Hugelkultur builds soil. The decomposing wood creates humus, feeds microbial communities, and supports [[mycorrhizal-fungi]]. Over years, the bed transforms raw wood and organic matter into deep, rich topsoil. This is a regenerative approach that improves the land beneath it.
-
-Wicking beds contain soil. The soil mix sits in a lined box above a water reservoir. While you can maintain soil health with compost top-dressing, the bed does not generate new soil from within. The liner prevents interaction with the ground below, which is an advantage on contaminated sites but a limitation for long-term soil building.
-
-## Space and Design Flexibility
-
-Hugelkultur beds are mounded, free-form structures that can be built on slopes, in swales, along contour lines, or on marginal land. They can be any size and shape, limited only by your material supply. Their mounded shape adds vertical growing space and works well in larger gardens and [[permaculture]] designs.
+Hugelkultur builds soil. The decomposing wood creates humus, feeds microbial communities, and supports [[permaculture]] designs.
 
 Wicking beds are rectangular containers best suited to flat surfaces, patios, and small spaces. The 3-4 foot width limit for reachability means larger growing areas require multiple beds. They work well on concrete, rooftops, and in urban settings where in-ground gardening is not possible.
 
@@ -108,24 +102,13 @@ Wicking beds, being contained and more uniform, have fewer pest habitat niches. 
 
 ## When to Choose Hugelkultur
 
-You have access to free woody material, you are building a long-term garden, you want to improve poor or marginal land, you have space for mounded beds, and you value soil building over immediate results. Hugelkultur is the better choice for homesteads, [[comparison-food-forest-vs-orchard]], and [[permaculture-zone-0-house-design]] plantings where low long-term maintenance matters more than first-year yields.
+You have access to free woody material, you are building a long-term garden, you want to improve poor or marginal land, you have space for mounded beds, and you value soil building over immediate results. Hugelkultur is the better choice for homesteads, [[permaculture-zone-0-house-design]] plantings where low long-term maintenance matters more than first-year yields.
 
 ## When to Choose Wicking Beds
 
-You need a working garden immediately, you have limited space (patio, balcony, rooftop), you want precise moisture control, you are in an arid climate, or you need a contained system that does not interact with potentially contaminated ground. Wicking beds excel in [[mollison-designers-climate-zone-1-intensive-garden]] intensive gardens, urban settings, and for gardeners who travel and cannot water regularly.
+You need a working garden immediately, you have limited space (patio, balcony, rooftop), you want precise moisture control, you are in an arid climate, or you need a contained system that does not interact with potentially contaminated ground. Wicking beds excel in [[comparison-hugelkultur-vs-chinampas]]
 
-## Hybrid Approaches
-
-Some gardeners combine elements of both: building a hugelkultur-style mound within a waterproof-lined container, or adding a small reservoir to the base of a hugel bed. These hybrids can capture the soil-building benefits of hugelkultur with the reliability of wicking action, though they add complexity and cost. Another hybrid uses woody debris in the wicking medium zone, where it decomposes slowly in the constant moisture and contributes both wicking capacity and long-term nutrient release.
-
-## See Also
-
-- [[comparison-hugelkultur-vs-chinampas]]
-
-- [[hugelkultur-bed-construction-detailed]]
 - [[wicking-bed-construction]]
-- [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-swale-design-vs-hugelkultur]]
-- [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
 - [[comparison-hugelkultur-vs-syntropic-agriculture]]

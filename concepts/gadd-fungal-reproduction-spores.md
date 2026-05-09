@@ -75,17 +75,11 @@ Fungal spores are remarkably resilient structures adapted for long-term survival
 
 ## See Also
 
-- [[fungal-spores]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
-- [[mushroom-cultivation-fundamentals]]
-
-- [[fungal-sexual-reproduction]]
 - [[ascomycete-phylum-guide]]
 
-- [[spore-syringe-vs-liquid-culture]]
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
-- [[aquatic-fungi-and-ingoldian-spores]]
 - [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-ecology-endophytes]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]
 - [[gadd-fungal-biodiversity-conservation]]

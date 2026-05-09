@@ -115,8 +115,6 @@ Fatalities have been documented, particularly in cases involving children, elder
 
 ## See Also
 
-- [[amanita-phalloides]] — another deadly European mushroom with different toxin profile (amatoxins)
-- [[amanita-muscaria]] — contains muscimol and ibotenic acid, often confused with muscarine-containing species
-- [[muscarine]] — the toxic alkaloid responsible for *I. erubescens* poisoning
+- [[amanita-muscaria-entity]] — contains muscimol and ibotenic acid, often confused with muscarine-containing species
 - [[inocybe-calamistrata]] — related Inocybe species with distinctive morphology
 - [[clitopilus-prunulus]] — edible species with pink spore print, contrasting identification approach

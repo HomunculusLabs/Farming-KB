@@ -96,37 +96,7 @@ poor growth. Corn can replace Sudan grass in some applications.
 
 ## Rapeseed (Rapes)
 
-Rapes are among the most common [[green-manure-crops]] with no part wasted.
-After oil is pressed from seeds, the pulp can be mixed with urine and
-excrement to produce organic fertilizer. Rapeseed honey is a premium product
-harvestable in April and May. Rapes can be double-cropped with rice: harvest
-rapeseed in early June and transplant rice seedlings around June 20.
-
-Sowing season is early October at a rate of 0.5 kg (1.1 lb) per 0.1 ha.
-In rice paddies, drainage is necessary to prevent winter moisture damage.
-Optimum germination temperature is 20-25 degrees C (68-77 degrees F); the
-lowest tolerable is 0-2 degrees C. Rapes are vulnerable to cold and grow
-primarily in southern regions. Sowing after October 20 risks cold damage.
-
-## Mixing Strategies
-
-JADAM recommends mixing hairy vetch and rye in a three-to-one ratio to
-supplement rye's low nitrogen content. Similarly, mixing hairy vetch with
-wheat or barley at a three-to-one ratio is effective. Crops should be
-returned to soil immediately before the heading stage.
-
-## The JADAM Cover Crop Philosophy
-
-JADAM emphasizes that the amount of organic matter obtainable through cover
-crop cultivation is enormous. In addition to providing organic matter, cover
-crops address multiple soil problems simultaneously: softening compacted soil
-layers, reducing salinity, boosting microbial activity, suppressing disease
-and nematodes, and fixing nitrogen. Leguminous cover crops like hairy vetch
-and milk vetch can provide the entire nitrogen requirement for fruit trees
-or rice crops, eliminating the need for purchased nitrogen fertilizers.
-
-## See Also
+Rapes are among the most common [[fukuoka-weed-succession-crop-selection-guide]]
 
 - [[solomon-cover-crops-green-manure-guide]]
-- [[cover-crop-selection-guide]]
 - [[jadam-green-manure-crops-for-soil-salinity-reduction]]

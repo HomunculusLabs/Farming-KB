@@ -58,7 +58,7 @@ The use of Latue was deeply embedded in Mapuche spiritual practice. The plant wa
 
 ### Mapuche Shamanism
 
-The Mapuche shamanic tradition, known as machitun, is one of the oldest continuously practiced spiritual systems in South America. The machi (shaman), who has historically been more often female than male, serves as a healer, diviner, and intermediary between the human and spirit worlds. Psychoactive plants like Latue, [[desfontainia-spinosa]] (Taique), and [[lobelia-tupa]] (Tabaco del Diablo) were important tools in the machi's pharmacopoeia.
+The Mapuche shamanic tradition, known as machitun, is one of the oldest continuously practiced spiritual systems in South America. The machi (shaman), who has historically been more often female than male, serves as a healer, diviner, and intermediary between the human and spirit worlds. Psychoactive plants like Latue, [[lobelia-tupa]] (Tabaco del Diablo) were important tools in the machi's pharmacopoeia.
 
 ## Chemistry
 
@@ -116,17 +116,13 @@ The plant's restricted range makes it particularly vulnerable to habitat loss. C
 
 L. pubiflora can be compared with other hallucinogenic members of the Solanaceae family:
 
-- [[brugmansia-sanguinea]] — Blood-Red Angel's Trumpet, a tree used in Andean shamanism
 - [[brugmansia-aurea]] — Golden Angel's Trumpet, widely used in South American ceremonies
-- [[datura-stramonium]] — Jimsonweed, used historically in both Old and New Worlds
 - [[datura-innoxia]] — another Datura species with tropane alkaloids
 
 The key distinguishing feature of L. pubiflora is its extreme rarity and geographic restriction. While other Solanaceae hallucinogens are widely distributed and well-characterized chemically, Latua remains one of the most poorly understood members of this pharmacologically important plant family.
 
 ## See Also
 
-- [[desfontainia-spinosa]] — Taique, used for similar shamanic purposes in southern Chile
 - [[brugmansia-sanguinea]] — Blood-Red Angel's Trumpet, another Chilean hallucinogen
-- [[lobelia-tupa]] — Tabaco del Diablo, used by Mapuche Indians
 - [[datura-stramonium]] — Jimsonweed, another tropane-containing Solanaceae
 - [[brugmansia-aurea]] — another widely used Andean hallucinogenic plant

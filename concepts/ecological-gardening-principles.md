@@ -55,8 +55,7 @@ Conventional gardens mimic immature ecosystems, dominated by early-
 succession pioneer plants. This means gardeners are attempting to keep
 their yards at an early stage of ecological development, which
 guarantees constant work. Ecological gardeners instead hop aboard the
-successionary freight train, using techniques like [[nurse-plants]]
-and [[cover-crops]] to accelerate succession and create mature, low-
+successionary freight train, using techniques like [[cover-crops]] to accelerate succession and create mature, low-
 maintenance landscapes quickly.
 
 ## Biodiversity
@@ -97,15 +96,7 @@ else, connected in life and death to many other species.
 
 ## Applying the Principles
 
-By filling a garden with [[multipurpose-plants]] and other elements,
-gardeners create a dense web full of many niches for wildlife and a
-rich place for humans. With a nudge here and a tweak there, we can
-actually accelerate succession, using nature to help a garden mature
-much faster than it otherwise would.
-
-For example, using [[nurse-plants]] and [[nitrogen-fixing-plants]]
-can jumpstart soil building and create shade microclimates for
-sensitive species. [[sheet-mulching]] establishes mature soil
+By filling a garden with [[nurse-plants]] and [[sheet-mulching]] establishes mature soil
 conditions quickly. These techniques mimic what nature does on its
 own timescale, but compress decades of natural succession into months
 or a few years.
@@ -115,8 +106,6 @@ stack functions vertically as well as horizontally.
 
 ## See Also
 
-- [[permaculture]]
 - [[soil-life]]
-- [[nurse-plants]]
 - [[biodiversity-fungicolous-mycoparasitic-fungi]]
 - [[permaculture-food-forests-design-course]]

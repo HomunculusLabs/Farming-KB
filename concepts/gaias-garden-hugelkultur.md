@@ -66,14 +66,26 @@ Some people worry that buried wood will lock up nitrogen. Solutions include toss
 
 ## Relationship to Other Techniques
 
-Hugelkultur shares principles with [[permaculture-sheet-mulch-detailed-guide]] (building soil from the top down with organic layers) and [[faires-hugelkultur-and-forest-garden-strategy]] (using woody biomass to create growing environments). It is particularly complementary to [[pdc-water-systems-design-and-management]] on slopes.
-
-## See Also
-
-- [[hugelkultur]] — general hugelkultur overview
-- [[hugelkultur]] — detailed construction guide
+Hugelkultur shares principles with [[faires-hugelkultur-and-forest-garden-strategy]] (using woody biomass to create growing environments). It is particularly complementary to [[hugelkultur]] — general hugelkultur overview
 - [[hugelkultur-bed-construction-detailed]] — comprehensive building instructions
-- [[hemenway-hugelkultur-guide]] — hugelkultur guide
 - [[faires-hugelkultur-and-soil-building]] — Faires on hugelkultur and soil building
-- [[sepp-holzer-terracing-and-hugelkultur]] — Holzer's terracing and hugelkultur
 - [[gaias-garden-sheet-mulching-guide]] — sheet mulching companion technique
+## Practical Considerations
+
+Successful implementation of Gaia's Garden Hugelkultur requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

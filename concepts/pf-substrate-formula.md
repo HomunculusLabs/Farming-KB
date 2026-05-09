@@ -103,23 +103,7 @@ difference in results.
 
 Distilled or filtered drinking water is used. The water content is critical:
 too much produces a wet, sloppy substrate prone to contamination and poor
-growth; too little leads to dried substrate and halted mycelial colonization.
-If the formulation results in a really wet substrate, use less water. The
-water holding capacity depends directly on the vermiculite coarseness.
-
-## Measurement Accuracy
-
-If measuring cup specifications are inaccurate, the formulas will be off,
-setting up certain failure or diminished growth. Verification is essential:
-1 cup should equal 237 milliliters, which is 1/2 pint or 8 liquid ounces.
-There are 2 cups in a pint, 2 pints in a quart, and 4 cups in a quart.
-
-## Canning Lid Preparation
-
-The canning lid is prepared by placing it rubber sealing edge upwards on a
-supporting surface. Using a sharpened 3-penny nail held with vise grip pliers,
-punch 4 holes inside the periphery of the rubber sealing edge. These holes
-serve as inoculation points for the spore syringe needle.
+growth; too little leads to dried substrate and halted [[spore-syringe]] needle.
 
 ## The Dry Vermiculite Barrier
 
@@ -131,11 +115,5 @@ jar is filled with plain dry vermiculite. This layer:
 - Absorbs and regulates moisture transpiration and condensation
 - Acts as a sterile filter during inoculation
 
-This is described as a [[psilocybe-fanaticus]] original discovery and is critical
-to the success of the technique without a laminar flow hood or glove box.
-
-## See Also
-
-- [[pf-tek-overview-and-history]]
-- [[jar-preparation-and-sterilization]]
+This is described as a [[pf-tek-overview-and-history]]
 - [[incubation-and-colonization]]

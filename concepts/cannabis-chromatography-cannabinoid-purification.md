@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 # Cannabis Chromatography for Cannabinoid Purification
 
@@ -65,13 +64,9 @@ Modern flash chromatography systems have automated much of the column chromatogr
 
 ## Related Topics
 
-- [[cannabis-winterization-filtration]] for simpler purification methods
 - [[cannabis-fractional-distillation-cannabinoids]] for alternative advanced purification
-- [[cannabis-oil-purification-techniques]] for overview of purification approaches
 - [[cannabis-oil-isomerization]] for CBD-to-THC conversion
-- [[cbd-to-thc-isomerization-chemistry]] for detailed isomerization chemistry
 - [[cannabis-honey-oil-production]] for charcoal-based purification
-- [[cannabis-concentrates-and-extracts]] for products of purification processes
 - [[cannabis-testing-and-quality]] for analytical methods including chromatography
 
 ## Thin-Layer Chromatography for Quick Analysis

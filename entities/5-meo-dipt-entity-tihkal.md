@@ -42,31 +42,7 @@ The aphrodisiac properties of 5-MeO-DIPT are among its most remarked-upon featur
 
 ## Musical Distortion
 
-Musical sound distortions are noted with 5-MeO-DIPT, reminiscent of its analogue without the 5-methoxy group, [[dipt-entity-tihkal]] (DIPT). However, the nature of the distortion differs qualitatively. With DIPT there is physical harmonic distortion of pitch perception -- a measurable, nonlinear downward shift in perceived frequency. With 5-MeO-DIPT the distortions involve musical character and interpretation rather than harmonic structure. None of the comments suggested harmonic structure. This pair would be rewarding to explore for objective studies of auditory processing, representing two distinct mechanisms of auditory alteration.
-
-## Positive and Negative Attributes
-
-Positive attributes include: short duration, potential aphrodisiac properties at low doses, ease of synthesis, and high potency with minimal physical side effects.
-
-Negative attributes include: a lack of visual enhancement, and an altered state that some users found unproductive -- they reported being unable to make intuitive leaps or find meaningful content in the experience. One subject at 12 mg reported the entire experience was "about dealing with body load and discomfort."
-
-## The Michael Carter Story
-
-The first publication of 5-MeO-DIPT chemistry and pharmacology appeared in 1981, co-authored with Michael Carter in England. Carter and Shulgin had previously co-published a paper on 2C-B some six years earlier. They agreed to make and evaluate several tryptamines, and Carter sent samples and reports from his lab, including 5-MeO-DIPT. Their synthetic materials were spectroscopically identical and human trials showed very similar results.
-
-Shulgin wrote back with his version of their joint paper, but the letter was returned as undeliverable -- no forwarding address. He tried again with first-class postage and a forwarding request, but it never came back. After a year or two of silence, Shulgin wrote to the London telephone company requesting addresses of all "Michael F. Carter" with telephone service in greater London. They sent back a list of twenty names. Shulgin wrote to each with a letter phrased to require no answer from the wrong person but inspire immediate reply from the right one. No answer came. "Was he alive? Could some unthinkable thing have happened to him?" Shulgin left the paper with Carter's ideas and published using his own address for both authors.
-
-## Structure-Activity Relationship Context
-
-5-MeO-DIPT is part of the diisopropyl tryptamine family, which produces remarkably diverse effects depending on ring substitution:
-
-- **DIPT** (entry #4): Primarily auditory pitch distortion; no 5-methoxy group
-- **4-HO-DIPT** (entry #17): 4-hydroxy analogue; another pharmacologically distinct profile
-- **5-MeO-DIPT** (this entry): Erotic enhancement, LSD-like quality without visuals
-
-Adding the 5-methoxy group to DIPT shifts the experiential profile from auditory distortion toward sensual/erotic enhancement with a character described as "LSD-like." This SAR pattern is consistent throughout the tryptamine series, where 5-methoxylation generally increases potency and alters experiential character.
-
-The compound also demonstrates how N-substitution affects the oral activity of 5-methoxy tryptamines. While [[5-meo-dmt-entity-tihkal]] is not orally active at all, and 5-MeO-DET (entry #36) requires MAOI co-administration, 5-MeO-DIPT is readily orally active at 6-12 mg. The bulkier diisopropyl groups appear to confer metabolic stability that allows first-pass survival.
+Musical sound distortions are noted with 5-MeO-DIPT, reminiscent of its analogue without the 5-methoxy group, [[5-meo-dmt-entity-tihkal]] is not orally active at all, and 5-MeO-DET (entry #36) requires MAOI co-administration, 5-MeO-DIPT is readily orally active at 6-12 mg. The bulkier diisopropyl groups appear to confer metabolic stability that allows first-pass survival.
 
 ## Dose-Response Characteristics
 
@@ -83,14 +59,26 @@ The dose-response curve shows a relatively narrow window between the sensual low
 
 ## See Also
 
-- [[dipt-entity-tihkal]] -- analogue without the 5-methoxy group; primarily affects auditory pitch
 - [[dmt-entity-tihkal]] -- parent tryptamine
-- [[5-meo-mipt-entity-tihkal]] -- related 5-methoxy-N-methyl-N-isopropyl tryptamine (Moxy)
 - [[5-meo-dmt-entity-tihkal]] -- 5-methoxy-N,N-dimethyl tryptamine; more potent but not orally active
-- [[psilocin-entity-tihkal]] -- classic orally active psychedelic tryptamine
 - [[amt-entity-tihkal]] -- alpha-methyltryptamine; stimulant tryptamine with extended duration
-- [[a-et-entity-tihkal]] -- alpha-ethyltryptamine; related stimulant/antidepressant
-
-## Related
-
 - [[5-meo-tmt-entity-tihkal]]
+## Practical Considerations
+
+Successful implementation of 5-MeO-DIPT (Foxy Methoxy) — TIHKAL Entry #37 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

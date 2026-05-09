@@ -18,48 +18,7 @@ type: concept
 
 Marcello Malpighi (1628–1694) was an Italian physician, biologist, and
 microscopist whose *Anatome Plantarum* (1675) established him as one of
-the two founders of [[cannabis-plant-anatomy]], alongside the English botanist Nehemiah
-Grew. Malpighi's work on plant microanatomy represented a decisive break
-from the purely descriptive and taxonomic botany that had preceded it,
-introducing a structural and functional approach to the study of plants
-that anticipated modern plant physiology.
-
-## Life and Career
-
-Malpighi was born in Crevalcore, near Bologna, and studied medicine at the
-University of Bologna, where he later served as professor of theoretical
-medicine. His career spanned both biology and medicine, and he made
-foundational contributions to both fields. In anatomy, he discovered the
-capillary network connecting arteries and veins, confirming William
-Harvey's theory of blood circulation. In embryology, his studies of chick
-development laid the groundwork for modern embryology. But it was his
-botanical work, conducted primarily in the 1670s, that earned him a place
-among the founders of plant science.
-
-## Anatome Plantarum (1675)
-
-Malpighi's *Anatome Plantarum* (Anatomy of Plants) was published in
-London in 1675 and remains one of the most important works in the history
-of botany. The text was accompanied by extraordinarily detailed
-illustrations showing plant tissues at microscopic scale. Malpighi used a
-simple compound microscope to examine sections of stems, leaves, roots,
-and seeds, producing images that revealed the cellular and vascular
-structure of plants with unprecedented clarity.
-
-His drawings of wood sections showed the arrangement of vessels, fibers,
-and parenchyma cells, effectively providing the first detailed maps of
-plant internal architecture. Malpighi recognized that plants were composed
-of distinct structural elements organized in specific patterns, a concept
-that seems elementary today but was revolutionary in the seventeenth
-century, when most botanists focused on the external morphology and
-classification of plants.
-
-## Key Contributions to Plant Science
-
-Malpighi's botanical investigations yielded several important insights:
-
-- **Cellular structure of plants**: Although the cell theory would not be
-  formally articulated until the [[nineteenth-century-mushroom-cultivation]] by Schleiden and
+the two founders of [[nineteenth-century-mushroom-cultivation]] by Schleiden and
   Schwann, Malpighi's observations of the cellular composition of plant
   tissues represented an early recognition that plants were built from
   repeating structural units.
@@ -111,7 +70,6 @@ remain accessible to modern students and researchers.
 
 ## See Also
 
-- [[nehemiah-grew-plant-anatomy]]
 - [[stephen-hales-plant-physiology]]
 - [[history-of-plant-science]]
 

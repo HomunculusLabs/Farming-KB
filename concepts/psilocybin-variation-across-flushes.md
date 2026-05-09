@@ -13,54 +13,7 @@ type: concept
 
 ## Overview
 
-Unlike the progressive accumulation pattern seen with [[psilocin]], [[psilocybin-compound]] levels in [[psilocybe-cubensis]] show no consistent upward or downward trend across successive flushes. Instead, psilocybin concentrations fluctuate unpredictably, varying by a factor of four or more even under tightly controlled growing conditions with identical substrate, genetics, and environmental parameters.
-
-## Measured Variation in Controlled Cultures
-
-In the Bigwood and Beug (1982) study, three separate minicultures of the same Amazonian strain were grown under rigorously identical conditions. The psilocybin levels (mg/g dry weight) across flushes were:
-
-### Miniculture 1
-
-| Flush | Psilocybin (mg/g) | Psilocin (mg/g) |
-|-------|-------------------|-----------------|
-| 1 | 8.3 | 0.5 |
-| 2 | 6.5 | 1.5 |
-| 3 | 13.3 | 1.0 |
-| 4 | 4.8 | 2.6 |
-| 5 | 5.2 | 2.2 |
-| 6 | 6.8 | 0.5 |
-
-### Miniculture 2
-
-| Flush | Psilocybin (mg/g) | Psilocin (mg/g) |
-|-------|-------------------|-----------------|
-| 1 | 5.1 | 0 |
-| 2 | 7.0 | 0 |
-| 3 | 4.7 | 1.7 |
-| 4 | 3.7 | 2.9 |
-| 5 | 5.2 | 1.7 |
-
-### Miniculture 3
-
-| Flush | Psilocybin (mg/g) | Psilocin (mg/g) |
-|-------|-------------------|-----------------|
-| 1 | 7.6 | 0 |
-| 2 | 6.2 | 0 |
-| 3 | 5.3 | 0.9 |
-| 4 | 3.2 | 1.8 |
-| 5 | 6.7 | 1.7 |
-
-### Key Statistical Observations
-
-- No clear trend exists across flushes. Some cultures peaked in early flushes, others in later ones.
-- The range spans from 3.2 to 13.3 mg/g dry weight, representing a variation factor greater than four.
-- Individual flushes within the same culture can swing dramatically (e.g., 4.8 to 13.3 mg/g between flushes 4 and 3 in miniculture 1, a 2.8-fold difference between consecutive flushes).
-- The mean psilocybin level remains roughly constant from the first to the last flush within each culture.
-- The inter-culture variability is as large as the intra-culture variability, suggesting that even nominally identical cultures produce substantially different results.
-
-## Street Sample Variability
-
-Five street samples of dried [[psilocybe-cubensis]] were analyzed for comparison. These represented material obtained from unknown sources, grown under unknown conditions, and harvested at unknown flush numbers:
+Unlike the progressive accumulation pattern seen with [[psilocybin]] levels in [[psilocybe-cubensis]] were analyzed for comparison. These represented material obtained from unknown sources, grown under unknown conditions, and harvested at unknown flush numbers:
 
 | Sample | Psilocybin (mg/g) | Psilocin (mg/g) |
 |--------|-------------------|-----------------|
@@ -82,7 +35,7 @@ Notably, psilocin was consistently low or absent in all street samples, which ma
 
 ## Contrast With Psilocin
 
-The behavior of [[psilocybin-compound]] and [[psilocin]] across flushes is fundamentally different:
+The behavior of [[psilocin]] across flushes is fundamentally different:
 
 | Property | Psilocybin | Psilocin |
 |----------|-----------|----------|
@@ -130,17 +83,10 @@ Older mycelium may allocate resources differently between growth, maintenance, r
 
 ## Implications for Dosage and Standardization
 
-The unpredictability of psilocybin levels means that consuming a fixed dry weight of [[psilocybe-cubensis]] mushrooms provides no reliable indication of actual [[tryptamine]] dosage. This fourfold variation under controlled conditions — expanding to tenfold in uncontrolled settings — has serious implications for both recreational and therapeutic use.
+The unpredictability of psilocybin levels means that consuming a fixed dry weight of [[tryptamine]] dosage. This fourfold variation under controlled conditions — expanding to tenfold in uncontrolled settings — has serious implications for both recreational and therapeutic use.
 
-Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) must account for this inherent variability through analytical testing of each batch. The subjective experience variation stems not only from the well-established effects of [[set-and-setting]] but also from genuine and substantial differences in chemical potency that are largely unpredictable.
-
-## See Also
-
-- [[psilocybin-level-stability-across-flushes]]
+Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) must account for this inherent variability through analytical testing of each batch. The subjective experience variation stems not only from the well-established effects of [[psilocybin-level-stability-across-flushes]]
 
 - [[psilocin-accumulation-pattern-across-flushes]]
-
-- [[psilocin-accumulation-pattern-across-flushes]]
-- [[cap-vs-stem-alkaloid-distribution]]
 - [[hplc-analysis-of-tryptamine-alkaloids]]
 - [[psilocybe-cubensis-miniculture-method]]

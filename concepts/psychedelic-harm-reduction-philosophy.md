@@ -87,24 +87,17 @@ It rejects both the prohibitionist position that all psychedelic use is inherent
 
 Instead, it offers a balanced, informed, and compassionate approach to navigating the complex landscape of altered consciousness.
 
-See Also: [[psychedelic-harm-reduction]]
-
 See Also: [[psychedelic-safety-and-harm-reduction]]
-
-See Also: [[psychedelic-harm-reduction-guide]]
 
 See Also: [[psychedelic-safety-and-contra-indications]]
 
-See Also: [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-
 See Also: [[harm-reduction-guide]]
 
-See Also: [[psychedelic-crisis-response-protocol]]
-- [[psychedelic-drug-testing-and-adulterant-screening]]
+See Also: [[psychedelic-drug-testing-and-adulterant-screening]]
 
 ### Dose Awareness and Titration Principles
 
-A fundamental principle of psychedelic harm reduction is that dose determines both the character and the intensity of the experience. Turner's intensity scale (1-10) provides a practical framework: levels 1-2 produce mild perceptual enhancement without significant alteration of thought patterns; levels 3-5 create noticeable visual and emotional effects while the user maintains the ability to navigate ordinary reality; levels 6-7 involve significant ego softening and profound experiences that may be challenging to integrate; and levels 8-10 produce complete ego dissolution and experiences of cosmic scope that can be terrifying or transcendent depending on preparation and set. The critical harm reduction principle is to start low and increase gradually — always beginning with a dose at the lower end of the expected range and waiting for the full effects to manifest before considering taking more. This is especially important for substances with slow onset like LSD, where impatience during the waiting period can lead to dangerous re-dosing. Dose-response relationships are not linear: doubling the dose of psilocybin does not simply double the effects but can produce a qualitatively different experience that enters entirely new phenomenological territory. Individual sensitivity varies enormously due to body weight, metabolism, prior psychedelic experience, and genetic factors affecting serotonin receptor density. Experienced practitioners develop personal dose calibrations over time, but even experienced users should exercise caution with new compounds or new batches of unfamiliar substances. See [[psychedelic-dose-response]] for compound-specific dosing guidelines and [[psychedelic-safety-and-contra-indications]] for individual factors that affect dose sensitivity.
+A fundamental principle of psychedelic harm reduction is that dose determines both the character and the intensity of the experience. Turner's intensity scale (1-10) provides a practical framework: levels 1-2 produce mild perceptual enhancement without significant alteration of thought patterns; levels 3-5 create noticeable visual and emotional effects while the user maintains the ability to navigate ordinary reality; levels 6-7 involve significant ego softening and profound experiences that may be challenging to integrate; and levels 8-10 produce complete ego dissolution and experiences of cosmic scope that can be terrifying or transcendent depending on preparation and set. The critical harm reduction principle is to start low and increase gradually — always beginning with a dose at the lower end of the expected range and waiting for the full effects to manifest before considering taking more. This is especially important for substances with slow onset like LSD, where impatience during the waiting period can lead to dangerous re-dosing. Dose-response relationships are not linear: doubling the dose of psilocybin does not simply double the effects but can produce a qualitatively different experience that enters entirely new phenomenological territory. Individual sensitivity varies enormously due to body weight, metabolism, prior psychedelic experience, and genetic factors affecting serotonin receptor density. Experienced practitioners develop personal dose calibrations over time, but even experienced users should exercise caution with new compounds or new batches of unfamiliar substances. See [[psychedelic-safety-and-contra-indications]] for individual factors that affect dose sensitivity.
 
 ### Integration and Long-Term Practice
 

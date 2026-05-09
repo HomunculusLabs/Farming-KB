@@ -120,29 +120,10 @@ A **foundation species** in tropical permaculture: fast growth (3–5 m/year), d
 ## Industrial Uses
 
 - **Ben oil**: 38–40% seed oil, rich in behenic acid (~9%) and oleic acid (~70%). Used in cosmetics, precision lubricants, and food applications
-- **Biodiesel**: Meets ASTM D6751 and EN 14214 standards; ~1,000–1,500 L/ha competitive with [[jatropha-curcas-entity]]
-- **Animal fodder**: Leaf meal (20–40% inclusion) improves milk yield, weight gain, and protein digestibility
-
-## Safety and Contraindications
-
-- **Root bark**: Contains cytotoxic spirochin and pterygospermin — **do not consume**
-- **Pregnancy**: Root bark is traditionally abortifacient; avoid concentrated supplements (culinary leaf amounts considered safe)
-- **Goitrogenic potential**: Thiocyanates may interfere with iodine uptake in deficient individuals
-- **Drug interactions**: May potentiate antihypertensive and antidiabetic medications
-
-## See Also
-
-- [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
-- [[query-how-to-grow-moringa-and-what-are-its-benefits]]
-
+- **Biodiesel**: Meets ASTM D6751 and EN 14214 standards; ~1,000–1,500 L/ha competitive with [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
 - [[adaptogenic-herbs-guide]]
 
-- [[comparison-moringa-oleifera-vs-moringa-stenopetala]]
-
-- Ayurveda — Traditional Indian medicine system
 - [[permaculture]] — Sustainable design framework
-- [[agroforestry]] — Integrated land-use management
-- Glucosinolates — Sulfur-containing secondary metabolites
 - [[homestead-water-purification]] — Methods and technologies for potable water
 - Biodiesel — Renewable diesel fuel from biological sources
 - [[jatropha-curcas-entity]] — Tropical oilseed species

@@ -127,11 +127,7 @@ The oldest radiocarbon-dated specimens are approximately 1,200–1,800 years old
 
 ## See Also
 
-- [[tamarindus-indica]]
 - [[hibiscus-sabdariffa]]
-- [[ceratonia-siliqua]]
 - [[moringa-oleifera]]
-- [[manihot-esculenta]]
 - [[vigna-unguiculata]]
-- [[pennisetum-glaucum]]
 - [[tylosema-esculentum]]

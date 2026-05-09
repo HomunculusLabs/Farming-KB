@@ -108,14 +108,9 @@ It was placed under Schedule I in the United States in 1970 with the passage of 
 
 ## See Also
 
-- [[mdma]]
 - [[lsd]]
-- [[mescaline-entity]]
 - [[dmt]]
-- [[2c-b]]
 - [[dom]]
-- [[methylone]]
 - [[6-mapb]]
-- [[5-mapb]]
 - [[harmine]]
 - [[dpt]]

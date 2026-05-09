@@ -36,8 +36,7 @@ making them the single most important product category.
 A 2001 study of young people aged 12 and above in the Netherlands found that 64% of those
 aged 18 and older who had used magic mushrooms in the previous year had purchased them in
 smartshops. Smartshops also sold related products including sclerotia (marketed as
-philosopher's stones or truffles), particularly from [[psilocybe-mexicana]] and
-[[psilocybe-tampanensis-entity]]. Some coffee shops, headshops (which sell drug paraphernalia),
+philosopher's stones or truffles), particularly from [[psilocybe-tampanensis-entity]]. Some coffee shops, headshops (which sell drug paraphernalia),
 and grow shops (for home cannabis cultivation) also sold hallucinogenic mushrooms. In some
 areas, paddo cabs operated home delivery services for hallucinogenic mushrooms, reflecting
 the degree of commercial sophistication in the Dutch market.
@@ -45,13 +44,7 @@ the degree of commercial sophistication in the Dutch market.
 ## Product Range and Marketing
 
 The primary hallucinogenic mushroom species sold by smartshops are cultivated
-[[psilocybe-cubensis]] varieties, most notably the Mexican strain. These are sold both
-fresh and dried, along with sclerotia, spore prints, spawn bags, and growkits for home
-cultivation. Mushrooms and related products are often marketed under the general label of
-herbal highs, a trend that emerged in the late 1990s reflecting consumer preference for
-natural and organic products. Other products sold under this label include herbal ecstasy
-(typically containing ephedra alkaloids from Sida cordifolia, guarana, caffeine, Siberian
-ginseng, and kola nut) and [[salvia-divinorum]].
+[[salvia-divinorum]].
 
 The term philosopher's stone is used commercially to describe the sclerotia of certain
 hallucinogenic mushrooms, a hardened mass of mycelium that serves as a defence mechanism
@@ -74,62 +67,29 @@ English, French, and German) to attract foreign customers, and a range of produc
 fresh mushrooms to cultivation supplies. Website statistics for one Dutch online shop
 showed that between May 2004 and February 2006, visitors came primarily from the Netherlands
 (73%), followed by Belgium (14%), Germany (2%), and France (2%). Prices for fresh
-[[psilocybe-cubensis]] ranged from approximately 8.5 to 45 EUR per 30 grams, while growkits
-sold for 25 to 100 EUR. Spore prints sold for 9 to 28 EUR.
-
-## UK Market Before Prohibition
-
-Prior to the July 2005 change in legal status, an estimated 300 shops and market stalls
-across the UK sold hallucinogenic mushrooms. The UK Treasury collected sales tax on
-hallucinogenic mushroom sales estimated to be worth up to 175,000 GBP (approximately
-255,000 EUR) per year on a turnover of around 1 million GBP (approximately 1.46 million
-EUR) per annum. According to the 2004 Mixmag survey, 54.6% of UK mushroom users reported
-purchasing their last batch from a club, shop, or stall, 16% obtained them from a friend,
-and 4.2% purchased them via the internet.
-
-## Legal Challenges and Evolution
-
-The smartshop model operated within legal grey areas. In the Netherlands, the Supreme Court
-ruled in 2002 that the Opium Act applied to hallucinogenic mushrooms that had been dried,
-mashed, or processed into food, but not to fresh mushrooms. This created a loophole that
-smartshops exploited by selling fresh mushrooms. Other countries faced similar challenges:
-some controlled mushrooms only if treated or prepared, while others struggled with the
-question of whether a fungus counted as a plant under existing legislation. Germany
-ultimately amended its law in 2005 to change the definition of controlled substance from
-plant to organism, specifically to close this loophole for mushrooms.
-
-Following legislative changes in the UK (2005) and Ireland (2006), smartshops and online
-retailers adapted by pivoting to legal alternatives such as [[amanita-muscaria]] (fly agaric)
-and [[amanita-pantherina]] (panther cap), or products like Purple Ohms capsules containing
-Hawaiian Baby Woodrose (Argyreia nervosa) seeds with lysergic acid amide (LSA). The UK
-Mixmag survey conducted in 2005, shortly after the imposition of stricter controls, found
-that 67% of respondents reported that mushrooms were less available than previously,
-suggesting the legislation had an immediate impact on availability.
-
-## Risk Information and Consumer Warnings
-
-The quality and completeness of risk information provided by smartshops varies considerably.
-A 2006 survey of 21 online shops found that most warned against combining mushrooms with
-medication, alcohol, or other drugs. Approximately two-thirds warned against use by people
-with depression or psychosis. About half provided dosage information and safe use practices
-(such as consuming on an empty stomach, staying hydrated, and using in a safe quiet
-environment).
-
-However, the vast majority of retailers emphasised positive effects while excluding or
-minimising information about negative side effects such as nausea, panic attacks, and the
-potential for bad trips. Only a minority of sites explicitly mentioned common adverse
-effects. As a rule, information leaflets provided no information about maximum shelf life,
-the nature of possible side-effects, or the proportion of active substances ([[psilocybin-compound]]
-and [[psilocin]]). Smartshop product labels in the Netherlands typically warned that persons
-under 18 should not use the product, and advised against use when pregnant, using
-medication, suffering from mental illness, when driving or operating machines, or in
-combination with alcohol.
-
-## See Also
-
-- [[smartshops-and-hallucinogenic-mushroom-retail]]
+[[amanita-muscaria-entity]] (fly agaric)
+and [[psilocybin]]
+and [[smartshops-and-hallucinogenic-mushroom-retail]]
 
 - Hallucinogenic mushrooms
-- [[psilocybe-cubensis]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
 - [[salvia-divinorum]]
+## Practical Considerations
+
+Successful implementation of Smartshops requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

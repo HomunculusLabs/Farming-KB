@@ -71,18 +71,10 @@ The two-currency model allows communities to capture and retain the value of loc
 
 ## See Also
 
-[[permaculture-economics]]
-
 [[permaculture-currency-and-economics]]
-
-[[permaculture-household-economics]]
 
 [[permaculture-village-design]]
 
-[[permaculture-community-design]]
-
 [[permaculture-social-design]]
-
-[[permaculture-legal-structures]]
 
 [[permaculture-design]]

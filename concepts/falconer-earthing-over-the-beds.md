@@ -1,25 +1,7 @@
 ---
 title: Falconer Earthing Over the Beds
 created: 2026-04-26
-tags: [mushroom-cultivation, casing, loam, mycelium, victorian-gardening]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
-
-# Falconer Earthing Over the Beds
-
-Chapter XIII of William Falconer's *Mushrooms: How to Grow Them* (1891)
-covers the critical operation of casing (earthing over) spawned mushroom
-beds with a coating of loam. Falconer considered this "an important
-operation in mushroom-growing, and the one for which loam is
-indispensable."
-
-## Purpose of Casing
-
-The loam casing served several essential functions. The [[falconer-mushroom-spawn-preparation]] spread through the manure and rose up into
+tags: [[falconer-mushroom-spawn-preparation]] spread through the manure and rose up into
 the casing, where most young mushrooms developed and all found a firm
 foothold. The loam contributed to their sustenance, protected the manure
 and spawn from sudden temperature fluctuations, and preserved the bed
@@ -97,7 +79,5 @@ rounded or ridge beds.
 
 ## See Also
 
-- [[falconer-topdressing-with-loam]]
 - [[falconer-loam-for-mushroom-beds]]
-- [[falconer-mushroom-bed-construction]]
 - [[falconer-spawning-the-beds]]

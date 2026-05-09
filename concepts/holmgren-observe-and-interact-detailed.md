@@ -131,9 +131,7 @@ This is why observation must precede and follow every design action. The designe
 
 ## See Also
 
-- [[holmgren-ethical-philosophical-framework]]
 - [[holmgren-catch-and-store-energy-detailed]]
-- [[holmgren-obtain-a-yield-detailed]]
 - [[apply-self-regulation-permaculture-principle]]
-- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[permaculture-design-principles]]
 - [[zone-and-sector-analysis]]

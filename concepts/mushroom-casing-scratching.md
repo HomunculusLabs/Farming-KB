@@ -1,7 +1,7 @@
 ---
 title: Casing Scratching Techniques
 created: 2026-04-28
-tags: [mycology, casing, overlay, pinning, Stamets]
+tags: [[mycology, casing, overlay, pinning, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -135,8 +135,6 @@ areas before the final pre-pinning waterings.
 
 ## Related Concepts
 
-- [[mushroom-overlay-problems]]
 - [[mushroom-casing-moisture-management]]
-- [[stamets-casing-layer-design]]
 - [[stamets-pinning-initiation-stages-environmental-control]]
 - [[stamets-crop-watering-flushing-management]]

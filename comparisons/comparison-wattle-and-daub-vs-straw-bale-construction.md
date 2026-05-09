@@ -23,31 +23,6 @@ sets required.
 
 ## Wattle and Daub
 
-[[comparison-wattle-and-daub-vs-cob-construction]]
-
-Wattle and daub begins with a framework of vertical wooden stakes
-interwoven with horizontal branches or split saplings, forming a woven
-panel called the wattle. The daub — a mixture of clay-rich subsoil,
-sand, and chopped straw or animal hair — is then packed by hand onto
-both sides of the wattle, enclosing it within a solid earthen wall that
-typically ranges from 100 to 200 mm thick.
-
-This technique has been used continuously for over 6,000 years across
-Europe, Africa, Asia, and the Americas. Half-timbered buildings
-throughout medieval Europe relied on wattle and daub infill between
-exposed timber frames. The materials are extraordinarily local: the
-wood can come from coppiced hazel, willow, or oak, and the daub mix
-uses subsoil dug from the building site itself.
-
-Wattle and daub walls are moderately insulating (R-2 to R-4 depending
-on mix), excel at thermal mass, and provide excellent sound dampening.
-They breathe naturally, regulating indoor humidity. However, they
-require significant labor for the daub application, are vulnerable to
-moisture damage if not properly detailed with good roof overhangs and
-foundations, and have lower insulating values than straw bale walls.
-
-## Straw Bale Construction
-
 [[natural-building]]
 
 Straw bale construction stacks standard agricultural bales of wheat,
@@ -133,8 +108,6 @@ plaster for added weather protection and aesthetic texture.
 ## See Also
 
 - [[comparison-wattle-and-daub-vs-cob-construction]]
-- [[natural-building]]
 - [[earth-plaster-and-natural-finishes]]
-- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[comparison-wattle-and-daub-vs-cob-construction]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]

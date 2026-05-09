@@ -3,7 +3,7 @@ title: Reference Trees and Plant Species
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, food-forest, orchard]
+tags: [[permaculture, food-forest, orchard]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -93,11 +93,7 @@ Mollison emphasises several principles for species selection:
 
 ## Related Topics
 
-- [[permaculture-designers-manual-designer-reference-species]] - Species tables and data
 - [[permaculture-designers-manual-plant-nursery]] - Propagation of reference species
-- [[permaculture-designers-manual-climatic-zones-tropical]] - Tropical species selection
 - [[permaculture-designers-manual-animal-forage-systems]] - Forage species reference
-- [[permaculture-designers-manual-beekeeping-plants]] - Bee fodder species
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[soil-erosion-control]]
 - [[permaculture-designers-manual-bamboo-species-uses]]

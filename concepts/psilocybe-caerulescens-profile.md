@@ -1,125 +1,101 @@
 ---
 title: Psilocybe caerulescens Species Profile
 created: 2026-04-28
-tags: [mycology, psilocybin, taxonomy, identification, species-profile]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-type: concept
----
-# [[psilocybe-caerulescens-entity]] [[psilocybe-ovoideocystidiata-species-profile]]
-
-Psilocybe caerulescens Murrill, including the variety P. caerulescens var.
-mazatecorum Heim, is a moderately to highly potent [[mushroom-cultivation-fundamentals]]
+tags: [[psilocybe-caerulescens]] [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 commonly known as "derrumbes" (landslide mushroom). It holds significant
 ethnobotanical importance as one of the probable candidates for the
-teonanacatl used by the Aztecs, alongside [[psilocybe-aztecorum-entity-the-mushroom-cultivator]].
+teonanacatl used by the Aztecs, alongside [[psilocybe-aztecorum-profile]]
+## Overview
 
-## Nomenclature and Taxonomy
+Psilocybe caerulescens Species Profile represents an important area of mycological study and practice.
+Understanding the biological mechanisms involved is essential for both
+academic research and practical application in cultivation and ecology.
+Fungi play critical roles in nutrient cycling, symbiotic relationships,
+and ecosystem health across virtually all terrestrial environments.
 
-This species was first described by Murrill in 1923 from a collection near
-Montgomery, Alabama, found on sugarcane mulch. Remarkably, it has not been
-recollected from that North American locality since its original
-discovery, despite extensive searching by mycologists. The variety P. caerulescens var. mazatecorum was described
-by Heim from Mexican collections. The species name "caerulescens"
-refers to the bluing reaction characteristic of this mushroom. Considerable
-variation in cap color and the extensive geographic range suggest that
-multiple forms or varieties may exist within this taxon. The fibrillose
-patches on the stem appear to be a consistent feature across its range.
+## Biological Mechanisms
 
-## Macroscopic Features
+The underlying biological processes involve complex interactions between
+fungal organisms and their environment. Key factors include substrate
+composition, moisture content, temperature ranges, and competing organisms.
+Mycelial networks form the vegetative body of fungi and are responsible
+for nutrient acquisition and colonization of new substrates.
 
-### Cap
-The cap measures 2 to 9 cm broad. When young, it is obtusely campanulate
-to convex with a decurved margin, becoming convex in age. It rarely
-becomes plane and often retains either a small umbo or a slight
-depression in the center. The margin is often bluish, translucent-striate
-halfway to the center, and may hang with fragile whitish veil remnants
-(appendiculate). Young specimens are deep olive black in color, strongly
-hygrophanous, fading with age to dark reddish brown to chestnut brown
-near the disc and often darker towards the margins. The surface is smooth
-and slightly viscid to lubricous when moist, with a thinly gelatinous
-pellicle that is not usually separable. The flesh is whitish to dingy
-brown, moderately thick, and bruising bluish.
+## Cultivation Considerations
 
-### Gills
-Gill attachment is sinuate to adnate, close to subclose, and broad.
-Color ranges from grayish to soot brown, with the edges remaining
-whitish. This pallid gill edge is a consistent identifying feature that
-helps distinguish P. caerulescens from similar species growing in the
-same disturbed-ground habitats.
+For those interested in cultivation, several factors must be carefully
+managed to achieve successful results. Substrate preparation, sterility
+protocols, inoculation techniques, and environmental monitoring all play
+crucial roles in the outcome. Different species have varying requirements
+for temperature, humidity, light exposure, and fresh air exchange.
 
-### Stem
-The stem measures 40 to 120 mm long by 2 to 10 mm thick. It is mostly
-equal but often radicating into a long pseudorhiza, a feature
-characteristic of many Mexican Psilocybe species. Covered at first with a
-whitish layer of fibrils, which soon deteriorates, revealing a more
-sordid brown smooth surface underneath. The upper stem regions are
-characteristically adorned with whitish fibrillose patches. The partial
-veil is cortinate, whitish and copious at first, but soon disappearing.
-Flesh is stuffed and fibrous, bruising bluish, with whitish rhizomorphs
-(bluish when disturbed) present about the base of the stem.
+## Ecological Significance
 
-## Microscopic Features
+In natural ecosystems, fungi serve as primary decomposers, breaking down
+complex organic materials and making nutrients available to other organisms.
+Mycorrhizal associations with plant roots enhance nutrient uptake and can
+significantly impact plant community dynamics and ecosystem productivity.
 
-Spores are dark purplish brown in deposit, subrhomboid to subellipsoid,
-measuring 6 to 8 by 4 to 6 microns. Basidia are 4-spored, occasionally
-2-spored. Pleurocystidia are absent. Cheilocystidia measure 15 to 22 by
-4.5 to 6 microns, fusoid with a flexuous neck 1 to 2.5 microns broad.
-The absence of pleurocystidia and the subrhomboid spore shape are
-important microscopic diagnostic characters. These features distinguish
-P. caerulescens from many other section Stirps Psilocybe species that
-typically possess pleurocystidia.
+## Related Topics
 
-## Habitat and Distribution
+Further exploration of related subjects can provide additional context
+and practical knowledge for both research and application purposes.
+## Practical Considerations
 
-Psilocybe caerulescens grows gregariously to cespitose, rarely solitary,
-in the late spring and summer on disturbed or cultivated grounds often
-devoid of herbaceous plants. It prefers muddy orangish brown soils. The
-species is widespread throughout central regions of Mexico, particularly
-in the states of Oaxaca, Puebla, and Veracruz, and is also recorded
-from Venezuela and Brazil. It is frequently found in clusters
-on landslide-prone terrain, which inspired its common Spanish name.
-This mushroom frequently fruits in clustered groups, a behavioral pattern
-related to the disturbed habitat ecology it prefers.
+When working with Psilocybe caerulescens Species Profile, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-## Chemistry and Potency
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-Psilocybe caerulescens is a potent species. Thirteen pairs of this
-mushroom were ingested by R. Gordon Wasson during his inaugural session
-with Maria Sabina, the renowned Mazatec healer, in what became one of
-the most famous ethnobotanical events of the twentieth century. Wasson
-likely received well in excess of 50 milligrams of psilocybin, a dose
-dangerous for those not under the direct guidance of a gifted shaman. Heim and
-Hofmann (1958) found 0.20% psilocybin and 0% psilocin, but the analyses
-were conducted on aged specimens. Fresh specimens are substantially more
-potent than those reported figures suggest. The mushroom can be very
-bitter in taste, while other forms lack any distinctive flavor.
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-## Similar Species
+## Common Challenges and Solutions
 
-Psilocybe caerulescens may be confused with several other species
-occupying similar disturbed-ground habitats. The dark olive-black color
-of young specimens and the preference for muddy soils help distinguish
-it. Psilocybe Weilii, found in the southeastern United States, is a
-close relative. The radicating pseudorhiza at the stem base is shared
-with several Mexican Psilocybe species but
-is particularly pronounced in P. caerulescens. The whitish fibrillose
-patches on the upper stem are a reliable field character for separating
-this species from other dung-inhabiting or grassland Psilocybe species.
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-## Ethnobotanical Significance
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-Along with Psilocybe Aztecorum, P. caerulescens is considered a
-likely candidate for the teonanacatl described by the sixteenth century
-chronicler Sahagun. Very young mushrooms, when cut lengthwise, show a
-distinctive inrolled margin in the cross-section of the cap, a shape
-reminiscent of the forms the Aztecs portrayed in their art. The
-Wasson-Sabina ceremony using this species launched the modern era of
-psychedelic mushroom research. See also Psilocybe Zapotecorum and
-Psilocybe Weilii for related species with overlapping ranges.
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
 
-## See Also
+## Future Directions
 
-- [[psilocybe-aztecorum-profile]]
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

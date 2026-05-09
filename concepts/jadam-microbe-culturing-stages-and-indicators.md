@@ -102,38 +102,9 @@ propagate. Winter culturing takes approximately 72 hours.
 
 In summer, culturing is faster with more vigorous foam. The entire process
 can complete in as little as 24-48 hours. The foam will be larger and more
-active than in cooler conditions. The same indicators [[lactic-acid-bacteria]]clear circular foam disc before harvesting.
-
-## The Anaerobic Principle
-
-JADAM cultures microorganisms anaerobically (without air pumps) rather than
-aerobically. The key microbes for farming, including photosynthesis
-bacteria, lactic acid bacteria, and yeast, are all anaerobic. Using an air
-pump produces too much foam, making it impossible to judge the optimal use
-period. Simply covering the container with a lid and letting natural
-processes work produces superior results.
-
-The three core principles of JADAM input-making all apply to JMS
-culturing: anaerobic conditions (not aerobic), water and leaf mold (not
-sugar and molasses), and ambient temperature (not heated). These principles
-are not new but reflect methods practiced by farming ancestors for
-thousands of years.
-
-## Practical Tips for Successful Culturing
-
-- Always observe the edges of the foam disc for clarity as the key indicator
-- The peak window lasts only about 12 hours, so timing matters
-- If you miss the peak, use the solution as liquid fertilizer, not JMS
-- Lower temperature produces smaller bubbles; this is normal, not failure
-- Use 1 kg boiled potatoes, 0.5 kg leaf mold, and 0.5 kg sea salt per
-  500 liters as the standard recipe
-- Do not use air pumps; they obscure the visual indicators
-- For foliar application, dilute over 20 times and add JADAM wetting agent
-- Filter JMS through fine net or fabric before applying through hoses or
-  on leaves to prevent clogging and spray marks
+active than in cooler conditions. The same indicators [[jadam-leaf-mold-source-collection-and-artificial-production]]
+- [[freshwater-fungi-collection-and-culturing]]
 
 ## See Also
 
-- [[jadam-leaf-mold-source-collection-and-artificial-production]]
-- [[jadam-pesticide-for-aphids-and-mites]]
-- [[freshwater-fungi-collection-and-culturing]]
+- [[jadam-root-diagnosis-soil-health-indicators]]

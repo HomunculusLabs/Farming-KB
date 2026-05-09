@@ -16,57 +16,7 @@ sources:
     title: "The Natural Way of Farming"
 type: concept
 ---
-Masanobu Fukuoka challenged one of the most fundamental assumptions of
-fruit growing: that pruning is essential. After decades of
-experimentation, he concluded that if fruit trees are allowed to grow
-in their natural form from the very start, the pruning shears become
-unnecessary. The key is understanding what the natural form of each
-tree species actually is, and then protecting the young tree so it
-can assume that form without human interference.
-## The Cascade of Pruning
-Fukuoka demonstrated that pruning creates a self-perpetuating cycle of
-damage. As long as shoots on a tree emerge in an orderly fashion
-according to the natural law for that species, there is no crossing
-or entangling of branches. But if the tip of just one branch is
-pinched off, several adventitious buds emerge from the wound and
-grow into branches. These superfluous branches crowd and become
-entangled with other branches, bending, twisting, and spreading
-confusion as they grow.
-Even lightly pinching new buds on a pine seedling totally alters the
-shape of the emerging branches. The gardener prunes young shoots on
-a pine, and the second year several suckers grow from each wound.
-Again he cuts the tips, and by the third year the branches become
-entangled and crooked, taking on an incredibly complex shape. Once
-the pruning shears have been taken to a tree and branches emerge in
-complicated shapes, the tree can no longer be left alone. Unless it
-is carefully tended each year and each branch meticulously trained
-and pruned, the branches entangle, causing some to weaken and die.
-This is precisely what happens with fruit trees. A sapling is dug up,
-its roots trimmed, the stem cut back to one or two feet, and planted.
-This first pruning operation alone robs the tree of its natural form.
-The sapling begins putting out buds and suckers in a complex and
-confused manner that requires the grower to always be ready with
-pruning shears. Just by nipping one bud at the tip of a sapling, what
-should have grown into a straight pine with one trunk develops into a
-complex tree with several leaders. If the branches of a pear tree are
-made to crawl along a trellis, pruning becomes indispensable. But if
-the tree is allowed to grow up straight and tall like a cedar,
-initial pruning is no longer necessary.
-## Natural Forms of Different Trees
-Fukuoka observed that when a tree is left to grow under natural
-circumstances, its branches never cross or entangle. The trunks of
-pines and cedars in natural forests never branch or twist as long as
-they are not cut or harmed. Branches on the right and left do not run
-up against each other or cross. There are no dense lower branches that
-die back. Upper and lower branches do not grow so close that sunlight
-cannot reach leaves. Every leaf, shoot, and branch grows in an orderly
-and regular arrangement. This is governed by a fixed law called
-phyllotaxy.
-In a given plant, leaves always grow either alternately or
-oppositely. The direction and angle at which a leaf grows is always
-the same. If the angle between one leaf on a fruit tree branch and the
-next is 72 degrees, then all subsequent leaves will emerge at 72
-degrees. The sixth leaf on peach, persimmon, mandarin orange, and
+[[persimmon]], mandarin orange, and
 cherry branches is always directly above the first. Two leaves will
 not overlap within any five-inch length along the branch.
 Fukuoka determined that the natural form of most deciduous fruit trees
@@ -134,17 +84,5 @@ A low, twisted pine on a windswept seashore is not the natural form.
 A lone cryptomeria with branches drooping in all directions may not
 show its true form either. Plants grow under an incredible diversity
 of conditions and respond to injury from bird, beast, and insect.
-Garden trees, like the camphor tree transplanted into a garden or
-the flowering camellia buffeted by high winds on an exposed coast,
-show forms shaped by disturbance rather than nature. A mountain pine
-grows straight and true, its central trunk rising with branches at
-equal vertical spacings in a radial arrangement. A garden pine may
-look similar from a distance, but closer inspection reveals a
-confused and complicated shape artificially modified to allow
-sunlight to reach each branch, while the natural pine achieves the
-same goal without any help from man. The question of natural versus
-artificial form in fruit trees is directly analogous.
-See also: [[natural-farming]], [[orchard-management]],
-[[do-nothing-farming]]
-
+Garden trees, like the [[natural-farming]], [[do-nothing-farming]]
 ## See Also

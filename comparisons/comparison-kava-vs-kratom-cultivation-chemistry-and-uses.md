@@ -1,7 +1,7 @@
 ---
 title: Kava vs Kratom — Cultivation, Chemistry, and Uses
 tags:
-  - kava-kava-[[entheogen-etymology-and-terminology]]-chemistry|kava]]
+  - kava-kava-chemistry|kava]]
   - kratom
   - piper-methysticum
   - mitragyna-speciosa
@@ -25,61 +25,10 @@ sources:
 
 ## At a Glance
 
-| Feature | Kava (*[[piper-methysticum-entity]]*) | Kratom (*[[mitragyna-speciosa]]*) |
+| Feature | Kava (*[[mitragyna-speciosa]]*) |
 |---------|---------------------------|------------------------------|
 | **Family** | Piperaceae (pepper) | Rubiaceae (coffee) |
-| **Origin** | Vanuatu / western Pacific | [[fungi-of-southeast-asia]] (Thailand, Indonesia, Malaysia) |
-| **Active compounds** | [[kavalactones]] (6 major) | [[mitragynine]], 7-hydroxymitragynine, speciociliatine |
-| **Primary effects** | Anxiolytic, relaxant, mild euphoria | Stimulant (low dose), analgesic/sedative (high dose) |
-| **Legal status (US)** | Legal (dietary supplement) | Legal federally; banned in 6+ states |
-| **Legal status (global)** | Mostly legal; restricted in some EU/ANZ | Banned in Thailand, Malaysia, Australia, several EU nations |
-| **Dependence risk** | Very low; no addiction potential | Moderate; opioid-like dependence possible |
-| **Traditional use** | ~3,000+ years in Oceania | ~200+ years in Southeast Asia |
-| **Propagation** | Stem cuttings (sterile) | Seeds and cuttings |
-| **Maturation** | 3–5 years | 2–5 years |
-| **Climate** | Tropical; no frost tolerance | Tropical/subtropical; slightly more cold-tolerant |
-| **Liver safety** | Controversial; noble root is safe | Rare hepatotoxicity; primarily CNS concerns |
-
-## Botany and Cultivation
-
-### Growth Habit
-
-**Kava** is an erect, branching shrub reaching 2–4 m. It produces thick, fleshy underground lateral roots that are the harvested organ. The plant is functionally sterile and propagated only by stem cuttings. It requires consistent warmth (20–35°C), high humidity, and well-drained volcanic soils. Partial shade from canopy trees is preferred.
-
-**Kratom** is a tree reaching 7–25 m in height in its native habitat, though cultivated trees are typically smaller. Leaves are large, glossy, dark green, ovate-acuminate (15–25 cm long). It can be propagated by seed (fresh seeds have short viability) or cuttings, though cuttings are notoriously difficult to root compared to kava. Kratom tolerates slightly cooler conditions than kava but still requires frost-free environments.
-
-### Cultivation Difficulty
-
-| Factor | Kava | Kratom |
-|--------|------|--------|
-| **Propagation ease** | Moderate; cuttings root in 3–6 weeks | Difficult; cuttings often fail; seeds lose viability quickly |
-| **Pest pressure** | Moderate (nematodes, shoot dieback) | Low to moderate (spider mites, scale insects) |
-| **Disease risk** | Moderate-high (Pythium root rot) | Low |
-| **Soil requirements** | Specific (volcanic, well-drained, pH 5.5–6.5) | Adaptable (prefers rich, well-drained, pH 5.5–6.5) |
-| **Water needs** | High; intolerant of drought | Moderate; somewhat drought-tolerant once established |
-| **Yield timeline** | 3–5 years to harvest | 2–4 years for leaf harvest |
-| **Yield per plant** | 3–10 kg fresh root | 2–5 kg dried leaf per year (perennial harvest) |
-| **Overall difficulty** | Moderate | Moderate (propagation is the main challenge) |
-
-## Chemistry
-
-### Active Compound Profiles
-
-**Kava's kavalactones** work primarily through GABA_A receptor modulation, sodium/calcium channel blockade, and mild cannabinoid receptor (CB1) interaction. The six major kavalactones are kavain, dihydrokavain (DHK), methysticin, dihydromethysticin (DHM), yangonin, and desmethoxyyangonin. Noble varieties contain 3–8% total kavalactones.
-
-**Kratom's alkaloids** — over 40 identified — work primarily through mu-opioid receptor agonism (partial agonist). Mitragynine is the dominant alkaloid (66–80% of total alkaloid content), while 7-hydroxymitragynine is far less abundant but 10–46× more potent at opioid receptors. Other notable alkaloids include speciociliatine (speciofoline), paynantheine, and mitraphylline.
-
-### Pharmacological Comparison
-
-| Property | Kava | Kratom |
-|----------|------|--------|
-| **Primary receptor target** | GABA_A (allosteric modulation) | Mu-opioid receptor (partial agonist) |
-| **Secondary targets** | Voltage-gated Na+/Ca2+ channels, CB1, MAO-B | Delta/kappa opioid, adrenergic, serotonergic |
-| **Onset** | 15–30 minutes | 15–45 minutes |
-| **Duration** | 2–4 hours | 3–6 hours |
-| **Dose-response** | Linear; more = more relaxed | Biphasic: stimulating (1–5 g), sedating (7–15 g+) |
-| **Tolerance development** | Minimal; reverse tolerance reported | Moderate; develops with regular use |
-| **Withdrawal** | None to minimal | Possible; [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]], insomnia, muscle pain (opioid-like) |
+| **Origin** | Vanuatu / western Pacific | [[kavalactones]] (6 major) | [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]], insomnia, muscle pain (opioid-like) |
 
 ### Safety Concerns
 

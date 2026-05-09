@@ -3,19 +3,13 @@ title: Fungal Specimen Collection and Herbarium Management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
 # Fungal Specimen Collection and Herbarium Management
 
-Preservation of voucher specimens resulting from biodiversity surveys is extremely important for scientific studies. Voucher specimens and their accompanying field notes document the existence of a fungus at a given place and time and provide the raw data from which [[fungal-species-concept-and-taxonomy]] are constructed.
-
-## Herbarium Functions
-
-Herbaria serve as conservatories of voucher specimens. Early fungal herbaria (e.g., those of E. Fries and C. H. Persoon) contained one or very few collections of a wide range of taxa. Modern herbaria now strive to obtain specimens representing all developmental stages and geographic ranges, reflecting the incorporation of evolutionary concepts into systematic theory.
-
-Herbaria contain the historical information necessary to examine changes in species compositions and abundances, fruiting patterns, host associations, and effects of human activities. Specimens also provide materials for chemical and [[molecular-methods-fungal-taxonomy-and-diversity]].
+Preservation of voucher specimens resulting from biodiversity surveys is extremely important for scientific studies. Voucher specimens and their accompanying field notes document the existence of a fungus at a given place and time and provide the raw data from which [[molecular-methods-fungal-taxonomy-and-diversity]].
 
 Major fungal herbaria worldwide hold hundreds of thousands to millions of specimens. These collections are increasingly being digitized, with high-resolution photography and database records making specimen data accessible to researchers globally. Online portals such as MycoPortal and GBIF (Global Biodiversity Information Facility) aggregate herbarium records for broad-scale analyses of fungal distribution and phenology.
 
@@ -97,20 +91,9 @@ Strict protocols govern removal of material for DNA analysis:
 
 7. The herbarium must be acknowledged in publications
 
-Destructive sampling for [[dna-barcoding-fungal-identification]] has become one of the most common reasons for accessing herbarium specimens. Standardized protocols have been developed to minimize damage while maximizing the quality and quantity of extracted DNA, even from century-old specimens.
+Destructive sampling for [[fungal-electronic-specimen-catalogues]]
 
-## Digital Documentation and Imaging
-
-Modern herbarium management increasingly relies on digital infrastructure. High-resolution imaging systems capture specimen morphology, while databases track loans, accessions, and annotations. Digital collections complement physical specimens and greatly facilitate remote research, education, and conservation planning.
-
-## See Also
-
-- [[fungal-electronic-specimen-catalogues]]
-
-- [[fungal-herbarium-collection]]
 - [[fungal-type-specimens]]
-- [[fungal-species-concept-and-taxonomy]]
 - [[fungal-dna-barcoding]]
-- [[fungal-dna-extraction-methods]]
 - [[lichen-biodiversity-sampling-protocols-data-analysis]]
 - [[plant-micronutrients-and-their-essential-functions]]

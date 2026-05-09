@@ -103,11 +103,6 @@ The technique is particularly relevant for community-based mushroom projects whe
 
 ## See Also
 
-- [[non-sterilized-wheat-straw-oyster-cultivation]]
-
 - [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
-- [[oyster-mushroom-sunflower-seed-hull-substrate]]
-
 - [[oyster-mushroom-substrate-preparation]]
-- [[mushroom-cultivation-basics]]
 - [[contamination-identification-prevention]]

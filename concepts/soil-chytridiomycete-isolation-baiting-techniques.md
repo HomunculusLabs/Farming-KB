@@ -99,11 +99,7 @@ Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile z
 
 ## See Also
 
-- [[particle-filtration-dilution-plating-microfungal-isolation]]
 - [[soil-fungal-isolation-techniques]]
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[fungal-phylogeny-kingdom-classification]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]

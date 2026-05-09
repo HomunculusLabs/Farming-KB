@@ -127,14 +127,7 @@ The authors acknowledge several caveats to this hypothesis:
 
 ## See Also
 
-- [[southern-hemisphere-origin-of-neurotropic-fungi]]
 - [[psilocybe-southern-hemisphere-origin-hypothesis]]
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
-- [[guzman-allen-gartz-neurotropic-fungi-africa]]
-
-- Mexico as Northern-Southern Mycobiotic Convergence Zone
-- Mycological Exploration Bias and Underexplored Regions
-- Cosmopolitan and Endemic Neurotropic Species
 - [[psilocybe-zapotecorum]]
 - Neurotropic Fungi Diversity and Vegetation Types

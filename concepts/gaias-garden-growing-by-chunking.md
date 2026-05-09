@@ -1,21 +1,7 @@
 ---
 title: "Gaia's Garden - Growing by Chunking"
 created: 2026-04-26
-tags: [permaculture, design-strategy, implementation, garden-development]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Growing by Chunking
-
-## The Strategy of Incremental Expansion
-
-One of the most practical and important strategies
-in [[ecological-garden-design]] is what [[hemenway-accelerated-succession]]
-calls "growing by chunking." [[integrate-rather-than-segregate]] attempting
+tags: [[ecological-garden-design]] is what [[integrate-rather-than-segregate]] attempting
 to transform an entire landscape at once, the
 gardener starts small, establishes one thriving
 area, and then expands outward from that nucleus of

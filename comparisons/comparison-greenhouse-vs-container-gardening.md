@@ -24,38 +24,8 @@ budget, climate, and the degree of environmental control needed for the crops
 you want to grow.
 
 ## Greenhouse Growing
-[[greenhouse-growing]]
-
-A greenhouse is a permanent or semi-permanent structure that creates a
-protected growing environment by trapping solar radiation and allowing
-temperature, ventilation, and humidity management. Greenhouses serve multiple
-purposes simultaneously: raising seedlings for later transplant, growing tender
-crops that cannot survive local climate extremes, overwintering frost-sensitive
-plants, and producing early yields of vegetables and fruits. Even an unheated
-greenhouse can extend the growing season by four to six weeks in temperate
-climates, while a heated greenhouse enables year-round production.
-
-The primary advantage is environmental control. Heating systems (electric,
-gas, or solid fuel) maintain minimum night temperatures, ventilation systems
-prevent overheating and manage humidity to prevent fungal diseases, and shading
-reduces light intensity during peak summer. This control allows cultivation of
-crops impossible outdoors in the local climate, and significantly earlier
-harvests of seasonal crops like tomatoes, peppers, cucumbers, and melons.
-Greenhouses also protect plants from wind, rain, hail, and most insect pests,
-reducing crop losses and eliminating the need for some pest management measures.
-
-The drawbacks are significant. A quality greenhouse represents a substantial
-capital investment in structure, glazing, heating, and ventilation equipment,
-ranging from a few hundred dollars for a small poly tunnel to tens of thousands
-for a glass house. The controlled environment requires active daily management:
-temperatures must be monitored, ventilation adjusted for weather changes, and
-humidity managed. Pests that do enter a greenhouse, particularly aphids, red
-spider mites, and whitefly, can multiply rapidly in the absence of natural
-predators and the controlled environment. See [[greenhouse-design]] for
-structural planning and [[greenhouse-growing-essentials]] for crop management.
-
-## Container Gardening
-[[container-gardening-guide]]
+[[greenhouse-design]] for
+structural planning and [[container-gardening-guide]]
 
 Container gardening grows plants in pots, tubs, window boxes, hanging
 baskets, and any vessel with adequate drainage. It transforms patios, balconies,
@@ -140,11 +110,5 @@ soil. Greenhouse benches filled with containers also allow efficient use of
 vertical space and easy crop rotation by swapping containers between greenhouse
 and outdoor positions as seasons change. A cold frame can serve as an
 intermediate step, providing some environmental protection without the full
-investment of a greenhouse. See [[raised-beds-vs-in-ground-vs-containers]] for
-comparing growing medium options.
-
-## See Also
-- greenhouse vs cold frame
-- [[raised-beds-vs-in-ground-vs-containers]]
-- [[indoor-vs-outdoor-cannabis]]
+investment of a greenhouse. See [[raised-beds-vs-in-ground-vs-containers]]
 - [[extending-growing-season]]

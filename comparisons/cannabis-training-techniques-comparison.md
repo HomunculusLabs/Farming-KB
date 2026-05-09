@@ -16,15 +16,13 @@ sources: []
 ---
 # Cannabis Training Techniques Comparison
 
-Plant training manipulates cannabis canopy structure to increase light exposure, improve airflow, and maximize yield per plant or per square foot. Techniques range from gentle, continuous bending to aggressive structural cuts that fundamentally alter plant architecture. Choosing the right technique — or combination of techniques — depends on grow space constraints, experience level, strain characteristics, and time available for vegetative growth. For vegetative stage management fundamentals, see [[cannabis-vegetative-stage-management]]. Plant anatomy relevant to training is covered in [[cannabis-plant-anatomy]].
+Plant training manipulates cannabis canopy structure to increase light exposure, improve airflow, and maximize yield per plant or per square foot. Techniques range from gentle, continuous bending to aggressive structural cuts that fundamentally alter plant architecture. Choosing the right technique — or combination of techniques — depends on grow space constraints, experience level, strain characteristics, and time available for vegetative growth. For vegetative stage management fundamentals, see [[cannabis-plant-anatomy]].
 
 ## Technique Comparison Table
 
 | Technique | Difficulty | Yield Impact | Veg Time Needed | Stress on Plant | Recovery Time | Best For | Equipment Needed |
 |-----------|-----------|-------------|----------------|-----------------|--------------|----------|-----------------|
-| **LST ([[low-stress-training]])** | Low | +10-30% | +1-2 weeks | Low | None (continuous) | Beginners, small spaces, any setup | Soft wire ties, garden wire, stakes |
-| **Topping** | Low-Moderate | +15-40% | +1-2 weeks | Moderate | 3-7 days | Most setups, bushier plants | Clean scissors |
-| **[[fimming]]** | Low-Moderate | +10-25% | +1-2 weeks | Low-Moderate | 3-7 days | Similar to topping but less precise | Clean scissors |
+| **LST ([[fimming]]** | Low-Moderate | +10-25% | +1-2 weeks | Low-Moderate | 3-7 days | Similar to topping but less precise | Clean scissors |
 | **SCRoG (Screen of Green)** | Moderate | +20-50% | +2-4 weeks | Low-Moderate | Ongoing (daily management) | Indoor grows, horizontal light distribution | Screen/mesh, ties |
 | **Mainlining (Manifold)** | High | +25-60% | +4-8 weeks | High | 2-3 weeks per node level | Experienced growers, maximizing yield per plant | Scissors, patience |
 | **Super Cropping** | Moderate | +10-20% | +1 week | Moderate-High | 3-7 days | Taller plants, reducing height, strengthening stems | Fingers (technique-based) |
@@ -101,13 +99,10 @@ Strategic removal of leaves — typically large fan leaves that shade bud sites,
 
 ## Verdict
 
-Every cannabis grower should master LST first — it is the safest, most versatile technique with the best effort-to-reward ratio. Topping adds significant yield improvement with minimal additional complexity and should be learned next. SCRoG is the most effective technique for indoor growers with fixed lighting who want to maximize yield per square foot. Mainlining produces the most impressive single-plant yields but demands extended vegetative time and experience. Defoliation is a useful complement to any training technique when canopies become dense. Super cropping is a niche technique most valuable for height management and branch strengthening. The most effective approach for most indoor growers combines LST with topping and optional defoliation. For outdoor growers, LST and topping are generally sufficient. See [[cannabis-vegetative-stage-management]] for timing guidance and [[cannabis-plant-anatomy]] for understanding the growth responses that make training effective.
+Every cannabis grower should master LST first — it is the safest, most versatile technique with the best effort-to-reward ratio. Topping adds significant yield improvement with minimal additional complexity and should be learned next. SCRoG is the most effective technique for indoor growers with fixed lighting who want to maximize yield per square foot. Mainlining produces the most impressive single-plant yields but demands extended vegetative time and experience. Defoliation is a useful complement to any training technique when canopies become dense. Super cropping is a niche technique most valuable for height management and branch strengthening. The most effective approach for most indoor growers combines LST with topping and optional defoliation. For outdoor growers, LST and topping are generally sufficient. See [[cannabis-plant-anatomy]] for understanding the growth responses that make training effective.
 
 ## Related
 
-- [[water-in-permaculture]]
 - [[cannabis-environment-control]]
-- [[cannabis-screen-of-green-scrog-guide]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
-- [[cannabis-plant-stress-types-and-recovery]]
 - [[cannabis-super-cropping-technique]]

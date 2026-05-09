@@ -113,10 +113,8 @@ The EMCDDA noted that beyond the absence of dependence, there was "no systematic
 
 The consistently low numbers of medical presentations across EU countries (single-digit annual cases in most reporting countries, 30-40 calls annually in Sweden as the highest reporter) confirmed that the non-addictive profile translated into a minimal emergency healthcare burden. This contrasts sharply with substances of dependence that generate ongoing treatment demand and repeated emergency presentations.
 
-## Related Pages
+## Related
 
 - [[emcdda-hallucinogenic-mushroom-entactogenic-comparison-ecstasy]]
-- [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
-- [[emcdda-psilocybin-pharmacology-and-chemistry]]
 - [[psilocybin-tolerance-cross-tolerance]]

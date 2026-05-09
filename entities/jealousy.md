@@ -107,15 +107,9 @@ Among cannabis competition circles, Jealousy earned recognition at multiple even
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[sunset-sherbet]]
-- [[og-kush]]
 - [[cannabis-blue-dream]]
-- [[sour-diesel]]
 - [[jack-herer]]
-- [[northern-lights]]
 - [[granddaddy-purple]]
-- [[girl-scout-cookies]]
-- [[ashwagandha]]
-- [[curcumin]]
+- [[withania-somnifera]]
 - [[l-theanine]]

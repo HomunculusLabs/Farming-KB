@@ -1,64 +1,16 @@
 ---
 title: "Field Guide to Psilocybin Bluing Reaction and Identification"
 created: 2026-04-28
-tags: [mycology, identification, psilocybin, bluing-reaction, safety]
+tags: [[mycology, identification, psilocybin, bluing-reaction, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
 type: concept
 ---
 
-# Field Guide to [[psilocybin-bluing-reaction]] and Identification
-
-The bluing reaction is the most reliable field identification tool for
-psilocybin-containing mushrooms. This page covers the oxidation
-mechanism, practical testing procedure, known exceptions, and the
-comprehensive field identification checklist from F.C. Ghouled's 1972
-field guide.
-
-## The Oxidation Process
-
-All psilocybin mushroom species described in this guide share a key
-biochemical feature: an enzyme that co-occurs with the active
-alkaloids psilocybin and psilocin. When the flesh of the
-mushroom is damaged, this enzyme initiates an oxidation process that
-produces a distinctive blue coloration. The reaction is a direct
-indicator of the presence of the target alkaloids and serves as the
-primary field test for identification.
-
-The blue color is described as being similar to blue ink. If the
-flesh of the mushroom has a yellowish tone, the resulting oxidation
-color will appear blue-green rather than pure blue. This color
-variation is normal and does not indicate a different or
-non-psychoactive species.
-
-## Timing of the Bluing Reaction
-
-The oxidation process is not instantaneous. The guide specifies that
-the reaction takes from **20 to 120 minutes** to fully develop after
-the flesh is damaged. This timing range is important for the field
-mycologist to understand:
-
-- The reaction may begin as a faint discoloration within the first
-  20 minutes, but a negative result at 15 minutes is not conclusive.
-- Some specimens react faster than others. The inside flesh of a
-  broken stem of [[psilocybe-cubensis]] typically yields the fastest
+# Field Guide to [[psilocybe-cubensis]] typically yields the fastest
   bluing reaction.
-- [[panaeolus-subbalteatus]] shows the bluing most prominently in the
-  stem rather than the cap.
-- Patience is essential. The full color may take up to two hours to
-  develop.
-
-The guide notes that certain chemicals can accelerate the oxidation
-process, but these reagents are unstable, difficult to work with in
-the field, and generally not worth the trouble for most hunters.
-
-## How to Perform the Bluing Test
-
-Select a fresh specimen, crack or bruise the stem to expose the inner
-flesh, and observe the damaged area over 20 to 120 minutes. The stem
-is the best location to observe the reaction. The cap may also show
-blueing with age or handling, particularly in [[psilocybe-caerulescens-entity]],
+- [[psilocybe-caerulescens]],
 but the stem crack test is more definitive.
 
 ## Reliability of the Bluing Reaction
@@ -137,8 +89,6 @@ queasiness even from genuine psilocybin mushrooms.
 
 ## Related
 
-- [[field-guide-psilocybin-mushroom-species-identification]] for
-  complete species descriptions and visual characteristics
 - [[field-guide-psilocybin-mushroom-hunting-methodology]] for
   seasonal and habitat guidance
 - [[field-guide-psilocybin-dosage-extraction-cultivation]] for

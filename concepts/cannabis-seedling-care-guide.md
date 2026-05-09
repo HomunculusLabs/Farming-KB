@@ -114,25 +114,8 @@ Transplant from starter containers (rockwool cubes, small cups) when:
 - The plant is visibly too large for its container
 - Growth rate has slowed
 
-See [[cannabis-transplanting-guide]] for the transplanting procedure.
-
-## Timeline Summary
-
-| Days | Stage |
-|------|-------|
-| 1–3 | Seed cracks, taproot emerges |
-| 3–7 | Seedling pushes through soil surface, cotyledons unfurl |
-| 7–10 | First set of true leaves appears |
-| 10–14 | Second set of true leaves |
-| 14–21 | Third to fifth sets of true leaves — entering vegetative stage |
-
-## Related Topics
-
-- [[cannabis-germination-techniques]] — germination methods
-- [[cannabis-seed-scuffing-and-preparation]] — seed preparation
+See [[cannabis-germination-techniques]] — germination methods
 - [[cannabis-vegetative-stage]] — transitioning to vegetative growth
-- [[cannabis-transplanting-guide]] — when and how to transplant
 - [[cannabis-indoor-soil-mix-and-preparation]] — soil mixes
-- [[cannabis-nutrient-burn-and-toxicity]] — managing nutrient damage
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-soil-and-nutrient-requirements]]

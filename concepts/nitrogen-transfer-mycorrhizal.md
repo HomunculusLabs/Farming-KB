@@ -117,12 +117,8 @@ In mixed-species forests, CMN-mediated nitrogen transfer:
 
 ## See Also
 
-- [[mycorrhizal-networks-common-mycelial-network]] — The physical networks enabling interplant nutrient transfer
-- nitrogen-fixation — Biological N2 fixation by symbiotic bacteria
 - [[arbuscular-mycorrhizal-networks]] — The AMF symbiosis type most commonly involved in agricultural N transfer
 - ectomycorrhizal-ecology|ectomycorrhiza — Ectomycorrhizal networks in forest nitrogen cycling
-- [[soil-food-web-nutrient-cycling]] — Broader context of element cycling in ecosystems
 - [[mycorrhizal-nitrogen-transfer-between-plants]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

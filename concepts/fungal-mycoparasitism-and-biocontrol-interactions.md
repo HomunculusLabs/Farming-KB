@@ -3,7 +3,7 @@ title: Fungal Mycoparasitism and Biocontrol Interactions
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -113,19 +113,11 @@ Advances in understanding the molecular mechanisms of mycoparasitism, combined w
 
 ## Related
 
-- [[trichoderma-atroviride]]
-
 - [[mycorrhizal-carbon-sequestration]] Concepts
 
-- [[fungal-allelopathy-mechanisms-and-ecological-effects]]
 - [[fungal-invasive-species-and-exotic-pathogens]]
-- [[fungal-competition-antagonism-soil]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[fungal-bacterial-interactions]]
 - [[fungal-communities-succession]]
-- [[bioremediation-fungal-vs-bacterial]]
 - [[fungal-decomposition-processes]]
-- [[ectomycorrhizal-fungal-ecology]]
 - [[fungal-ecosystem-processes-overview]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[mycoparasitic-fungi-biocontrol-agents]]

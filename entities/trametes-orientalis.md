@@ -105,17 +105,10 @@ Climate change may affect distribution patterns, as the species is adapted to wa
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[trametes-hirsuta]]
-- [[trametes-trogii]]
 - [[coriolopsis-gallica]]
-- [[coriolopsis-polyzona]]
 - [[daedaleopsis-confragosa]]
-- [[lenzites-betulina]]
 - [[gloeophyllum-trabeum]]
-- [[gloeophyllum-sepiarium]]
 - [[schizophyllum-commune]]
-- [[sanghuangporus-linteus]]
 - [[sanghuangporus-vaninii]]
-- [[fomes-fomentarius]]
 - [[bjerkandera-adusta]]

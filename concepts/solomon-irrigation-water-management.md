@@ -89,8 +89,6 @@ Rototilling creates a hard "plow pan" a few inches below the surface, blocking r
 
 ## See Also
 
-- [[water-storage-techniques]]
 - [[ultra-low-cost-irrigation-methods]]
-- [[organic-vegetable-growing-and-market-gardening]]
 - [[drip-irrigation-cannabis]]
 - [[permaculture-water-systems]]

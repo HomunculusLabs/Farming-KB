@@ -119,7 +119,6 @@ Metzner identifies as existing in practice.
 ## See Also
 
 - [[metzner-ibogaine-addiction-treatment]]
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 - [[iboga-and-the-bwiti-cult-initiation]]
 
 - Metzner Ibogaine and Addiction Treatment

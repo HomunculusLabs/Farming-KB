@@ -128,7 +128,9 @@ frequency-plant combinations could lead to precision sonic agriculture.
 
 ## Related Concepts
 
-- [[plant-perception]]
 - [[plant-bioelectricity]]
-- [[plants-and-electromagnetism]]
 - [[marcel-vogel-plant-communication]]
+
+## See Also
+
+- [[tompkins-plant-music-sound]]

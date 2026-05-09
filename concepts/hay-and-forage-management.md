@@ -1,20 +1,19 @@
 ---
-title: hay and forage management
+title: Hay and Forage Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
-sources:
-  - /Users/t3rpz/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+sources: []
 ---
 
-# hay and forage management
+# Hay and Forage Management
 
 Producing and managing high-quality hay and forage is essential for any
 livestock homestead. Winter feeding typically represents 40-60% of annual
 feed costs, and hay quality directly affects animal health, reproduction, and
 production. Understanding hay types, cutting timing, storage, and nutritional
-value allows homesteaders to maximize for self sufficiency and reduce purchased
+value allows homesteaders to maximize self-sufficiency and reduce purchased
 feed inputs.
 
 ## Hay Types
@@ -70,7 +69,8 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - **Vegetative (pre-boot):** Highest quality. 18-22% protein (alfalfa),
   14-18% (grass). Low yield. Best for young animals and lactating stock.
 - **Early boot:** Grass heads just beginning to emerge. Excellent quality.
-  14-20% protein (legumes), 12-15% (grass). Good compromise of quality and yield.
+  14-20% protein (legumes), 12-15% (grass). Good compromise of quality and
+  yield.
 - **Boot stage:** Grass heads fully enclosed in sheath. Good quality for
   general feeding. 12-16% protein (legumes), 10-13% (grass).
 - **Early heading:** Heads emerging. Quality declining. 10-14% protein.
@@ -142,8 +142,57 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - Plastic-wrapped baleage/bale silage: 40-60% moisture, anaerobic
   fermentation. Requires specialized wrapper and plastic. Excellent feed
   quality if properly sealed.
-## Related
 
-- [[cover-crop-species-comparison]]
-- [[homesteading-livestock-comparison]]
-- [[homesteading]]
+### Hay Storage Management
+- Inventory hay in fall: calculate total tons needed based on number of
+  animals and days of feeding.
+- Rule of thumb: 1 ton of hay per cow-calf pair per winter (120-150 days).
+- Sheep: 1 ton per 5-6 adult sheep per winter.
+- Goats: similar to sheep.
+- Always have a 20% buffer for unexpected cold or longer winter.
+- Feed oldest hay first.
+
+## Nutritional Value
+
+### Key Measurements
+- **Crude Protein (CP):** Most important quality indicator.
+  - Alfalfa: 15-22% (early cut) to 8-12% (late cut).
+  - Grass hay: 8-18% (early cut) to 5-8% (late cut).
+- **Total Digestible Nutrients (TDN):** Energy value.
+  - Good hay: 55-65% TDN. Poor hay: 45-50%.
+- **Acid Detergent Fiber (ADF):** Lower is better. Indicates digestibility.
+  - Premium: <30%. Good: 30-35%. Fair: 35-40%. Poor: >40%.
+- **Neutral Detergent Fiber (NDF):** Indicates intake potential.
+  - Premium: <40%. Good: 40-50%. Fair: 50-60%. Poor: >60%.
+- **Relative Feed Value (RFV):** Composite score based on ADF and NDF.
+  - Premium: >151. Good: 125-150. Fair: 101-124. Poor: 77-100.
+
+### Forage Testing
+
+- The only way to know actual nutritional value. Send samples to a certified
+  lab (Dairy One, Ward Laboratories, local extension).
+- Use a forage probe to take 15-20 cores from random bales in each lot.
+  Mix and submit the composite sample.
+- Test for: CP, TDN, ADF, NDF, moisture, minerals.
+- Test each cutting and field separately. Cost: $15-30 per sample.
+
+### Matching Hay to Animal Needs
+- Lactating dairy cows/ewes: 15%+ CP, 60%+ TDN.
+- Growing calves/lambs: 14%+ CP, 58%+ TDN.
+- Dry cows/ewes: 10-12% CP, 52-55% TDN.
+- Maintenance: 8-10% CP, 50%+ TDN.
+- Horses: moderate to high quality, free of mold and dust.
+
+### Hay Feeding Strategies
+
+- Use feeders to minimize waste (25-45% without, 5-15% with feeders).
+- Supplement poor-quality hay with grain or protein blocks. See
+  [[livestock-feed-formulation]].
+- Transition gradually between hay types. Monitor body condition to ensure
+  quality meets needs.
+
+## Links
+
+- [[pasture-management]]
+- [[livestock-feed-formulation]]
+- [[sheep-husbandry]]

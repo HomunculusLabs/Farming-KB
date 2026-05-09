@@ -139,7 +139,9 @@ Cultivation of *L. indigo* has proven challenging due to its ectomycorrhizal dep
 
 ## See Also
 
-- [[lactarius-deliciosus]] — Saffron milk cap, the European counterpart
 - [[russula-emetica]] — A poisonous Russulaceae member
-- [[suillus-luteus]] — Slippery jack, another ectomycorrhizal associate
 - [[cantharellus-cibarius-entity]] — Chanterelle, companion species in mixed forests
+
+## See Also
+
+- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]

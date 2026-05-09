@@ -131,9 +131,7 @@ Odia-speaking regions. Market prices can reach 3–5 times those of common
 cultivated mushrooms due to limited seasonal availability.
 ## Related Species
 
-- ***Termitomyces titanicus***: Produces the largest fruiting body of any agaric,
-  with caps exceeding 1 meter in diameter. Found in West and Central Africa.
-- ***Termitomyces clypeatus***: Smaller species with a conspicuous persistent
+- ***[[termitomyces-clypeatus]]***: Smaller species with a conspicuous persistent
   annulus; common in South and Southeast Asia.
 - ***Termitomyces microcarpus***: Small species (cap 2–5 cm), widespread in
   tropical Africa; often confused with *T. heimii* but distinguished by smaller
@@ -141,9 +139,6 @@ cultivated mushrooms due to limited seasonal availability.
 
 ## See Also
 
-- [[termitomyces-eurrhizus]]
-
 - [[termitomyces-african-mushrooms]]
 
-- [[roger-heim]]
 - [[spore-print]]

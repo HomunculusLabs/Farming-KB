@@ -1,7 +1,7 @@
 ---
 title: "Ascospore Discharge Mechanisms in Ascomycetes"
 created: 2026-04-28
-tags: [mycology, ascomycetes, ascospore-discharge, fungal-reproduction, spore-biology]
+tags: [[mycology, ascomycetes, ascospore-discharge, fungal-reproduction, spore-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -31,51 +31,7 @@ when a lid at the tip flaps open at the moment of discharge.
 
 ## Cordyceps: The Insect-Pathogen Cannon
 
-The ascocarp of [[medicinal-mushroom-guide-cordyceps]] species contains tiny flask-shaped
-chambers called perithecia, in which the asci develop. A single
-perithecium holds many asci, and each ascus contains eight ascospores.
-When each ascus matures, it elongates, pushes its tip through the
-opening in the pimple, perforates at its apex, and fires its clutch of
-thread-shaped spores one at a time before retracting. Each spore spans
-half a millimeter and is built from 100 or more segments that fragment
-in the air or upon impact. This is the ultimate fungal weapon: a
-missile with numerous warheads.
-
-Because the number of spore segments is multiplied by the number of
-ascospores, and then by the number of asci per perithecium and the
-number of perithecia, a single fruiting body can dispense millions of
-infectious particles. This staggering disease-causing potential is the
-result of an arms race between Cordyceps and insects that has probably
-been waged for hundreds of millions of years. Evolution of the
-monstrous Cordyceps gunnii likely involved progressive elongation of
-the fruiting body stalk so the pathogen could escape the deepest graves
-of its victims.
-
-## Yeast Asci: A Gentler Approach
-
-Unlike Cordyceps, the yeast saccharomyces-cerevisiae does not expel
-its spores with a cannon but spills them from the ascus when its wall
-dissolves. The whole organism, existing as a single cell, is converted
-into an ascus. There are two mating strains of Saccharomyces, called
-alpha and beta, that signal to one another using chemicals called
-pheromones, make contact, fuse, and develop ascospores inside the
-shared wall. Each spore germinates to produce an alpha or beta yeast.
-
-## Predacious Yeasts and Their Harpoon Spores
-
-Some yeasts have evolved dramatically modified ascospore discharge
-mechanisms. Species of predacious yeasts attack insects and crustaceans
-like brine shrimp by lancing them with needle-shaped ascospores. Some
-live in the flowers of Hibiscus and morning glory that open for just
-one or two days. Their asci are elongated spore guns that discharge
-pairs of spores decorated with spirally arranged barbs pointing away
-from the tip. Although the act of assault has not been directly
-witnessed, these spores seem perfectly suited for harpooning beetles
-that visit the flowers.
-
-## Dipodascus: The Mucilaginous Launcher
-
-Dipodascus, a yeast that grows in mucus trails left by [[slime-molds]],
+The ascocarp of [[slime-molds]],
 produces upright, tapered asci that fill with ascospores. Each spore is
 wrapped in a thick, mucilaginous coat. When the tip of the ascus
 ruptures, the heavily lubricated spores slide out and form a loose
@@ -131,8 +87,6 @@ less than the estimated 7 trillion spores that can smolder from a
 single giant puffball.
 
 ## See Also
-
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 
 - [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 

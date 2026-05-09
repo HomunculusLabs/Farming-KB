@@ -113,17 +113,9 @@ mushroom nutrition.
 
 ## See Also
 
-- [[mushroom-growing-methods-comparison]]
-
-- duggar mushroom growing history and methods
-
 - [[history-of-mushroom-cultivation]]
-- [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-bulk-substrates]]
 
-- [[duggar-mushroom-spawn-preparation-techniques]]
 - [[duggar-mushroom-house-construction-and-management]]
-- [[duggar-mushroom-bed-preparation-and-casing]]
 - [[falconer-mushroom-cultivation-victorian-methods]]
-- [[falconer-mushroom-cellar-management]]
 - [[falconer-mushroom-cultivation-history]]

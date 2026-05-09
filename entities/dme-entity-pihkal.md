@@ -42,6 +42,26 @@ A well-stirred suspension of 4.7 g LAH in 500 mL anhydrous Et2O was brought up t
 
 finely ground under 5 mL CH3CN. There remained, after refiltration and air drying, 0.85 g of 3,4-dimethoxy-beta-hydroxyphenethylamine hydrochloride, DME, with a mp of 170-172 deg C.
 
+## Chemical Properties and Dosage
+
+| Property | Value |
+|----------|-------|
+| Molecular Formula | C10H15NO3 |
+| Molecular Weight | 197.23 g/mol |
+| Compound Class | Beta-hydroxy phenethylamine (BOX) |
+| Isolation | HCl salt, mp 170-172 deg C |
+DME is structurally analogous to norepinephrine with both phenolic hydroxyls
+methylated. The beta-hydroxy group is critical for adrenergic receptor activation,
+but O-methylation of ring hydroxyls blocks central psychoactive activity, making
+DME peripherally active but centrally inactive. Tested at 115 mg orally with only
+faint nausea and mild alertness — no psychedelic effects observed. Higher doses
+were not explored due to adrenolytic toxicity concerns. At 115 mg, effects were
+limited to faint nausea at one hour and possibly heightened alertness. No visual,
+cognitive, or emotional changes were noted. Nausea is consistent with peripheral
+adrenergic stimulation of the gastrointestinal tract. The compound remains of
+interest primarily as a reference point in the pharmacology of beta-hydroxylated
+phenethylamines.
+
 ## Safety Notes
 
 DME is a research chemical documented in PIHKAL. Dosage data and
@@ -50,11 +70,12 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[dme-entity]]
-
 - [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related phenethylamine compounds in PIHKAL
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

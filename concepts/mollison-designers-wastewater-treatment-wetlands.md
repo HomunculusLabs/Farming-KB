@@ -16,12 +16,7 @@ type: concept
 
 # Wastewater Treatment Wetlands
 
-Wastewater is not waste. In [[permaculture-design]], every outflow from one
-system becomes an input for another. Bill Mollison was an early and
-forceful advocate for ecological wastewater treatment, arguing that the
-conventional approach of mixing human waste with clean water and discharging
-it into waterways is both wasteful and polluting. Constructed wetlands and
-[[permaculture-designers-manual-greywater-systems]] transform sewage into clean water and productive biomass
+Wastewater is not waste. In [[graywater-systems]] transform sewage into clean water and productive biomass
 while recycling valuable nutrients back into the landscape.
 
 ## The Problem with Conventional Systems
@@ -48,45 +43,7 @@ Mollison draws a clear distinction between greywater and blackwater:
 
 The permaculture approach treats these streams separately. Greywater can be
 treated and reused on-site with simple systems. Blackwater requires either
-[[composting-toilets]] (which eliminate the wastewater stream entirely) or more
-robust treatment systems before land application.
-
-## Greywater Systems
-
-Simple greywater systems route household washwater to mulch basins, planted
-beds, or small constructed wetlands. Mollison describes several approaches:
-
-**Mulch basins**: The simplest greywater system. Water from a bathroom or
-laundry outlet is piped to a basin filled with woodchip mulch and planted
-with water-loving species such as banana, willow, or comfrey. The mulch
-filters particles, supports microbial decomposition, and distributes water
-to plant roots. No standing water is present, eliminating mosquito habitat.
-
-**Branched drain systems**: Greywater is split through a series of branching
-pipes to multiple mulch basins, distributing the load across a larger area.
-This prevents waterlogging and allows a greater number of plants to benefit.
-
-**Laundry-to-landscape systems**: Washing machine discharge is directed
-through a hose to a mulch basin or orchard. The pump in the washing machine
-provides distribution pressure. This is the simplest system for renters or
-those who cannot modify plumbing permanently.
-
-Key principles for all greywater systems: keep it simple, avoid storing
-greywater (it goes anaerobic within 24 hours), use biodegradable cleaning
-products, and direct water below the soil surface to prevent human contact.
-
-## Constructed Wetlands
-
-For more comprehensive wastewater treatment, constructed wetlands use
-engineered shallow basins planted with aquatic and semi-aquatic plants to
-purify water through natural biological processes. Mollison describes two
-primary types:
-
-**Surface flow wetlands**: Water flows slowly across the surface of a
-shallow basin planted with emergent macrophytes such as reeds (Phragmites),
-cattails (Typha), bulrushes (Scirpus), and iris. Treatment occurs through
-settling of solids, microbial decomposition in the aerobic water column and
-anaerobic sediments, [[root-anatomy-structure-and-nutrient-uptake]] by plants.
+[[root-anatomy-structure-and-nutrient-uptake]] by plants.
 
 **Subsurface flow wetlands**: Water flows horizontally through a gravel or
 sand substrate planted with reeds and other emergent species. The water level
@@ -94,14 +51,7 @@ is maintained below the gravel surface, preventing mosquito breeding and
 human exposure. Subsurface systems provide more consistent treatment because
 water is in constant contact with the biofilm on gravel surfaces.
 
-Subsurface flow wetlands are generally preferred [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
-because they are more compact, do not create standing water, and produce
-less odour. They are, however, more expensive to construct due to the gravel
-substrate requirement.
-
-## Reed Bed Design Parameters
-
-Mollison provides the following [[gaias-garden-polyculture-design-guidelines]] for subsurface flow reed
+Subsurface flow wetlands are generally preferred [[gaias-garden-polyculture-design-guidelines]] for subsurface flow reed
 beds:
 
 - **Sizing**: Allow approximately 2 to 5 square metres per person for
@@ -147,4 +97,3 @@ or leafy greens eaten raw.
 
 The biomass produced by wetland plants (reeds, cattails) can be harvested
 for mulch, compost, or biofuel, closing the nutrient loop and returning
-captured fertility to the [[mollison-designers-multi-strata-canopy-design]].

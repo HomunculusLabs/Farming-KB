@@ -1,7 +1,7 @@
 ---
 title: Amatoxin Poisoning Mechanism
 created: 2026-04-28
-tags: [mycology, toxicology, amanita, poisons]
+tags: [[mycology, toxicology, amanita, poisons]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
@@ -135,8 +135,6 @@ the rule is simple: do not eat it.
 
 ## See Also
 
-- [[bloomfield-buller-experimental-mycology]]
 - [[psilocybin-mushroom-poisoning-treatment]]
-- [[amanita-poisoning-identification-antidotes-palmer]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[palmer-amanitine-poison-mechanism]]

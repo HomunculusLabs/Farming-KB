@@ -14,9 +14,7 @@ sources:
 type: concept
 ---
 
-# Lawn Reform and Alternatives in Permaculture Design
-
-Bill Mollison's *Permaculture: A Designers' Manual* contains one of the
+# Lawn Reform and Alternatives in [[bill-mollison]]'s *Permaculture: A Designers' Manual* contains one of the
 most thorough critiques of lawn culture in the design literature. In
 Section 12.12, "The Lawn," Mollison documents the enormous
 environmental cost of ornamental lawns and proposes permaculture
@@ -143,7 +141,5 @@ approaches for lawn reform:
 
 ## The Emerging Ethic
 
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[permaculture-designers-manual-grazing-animals]]

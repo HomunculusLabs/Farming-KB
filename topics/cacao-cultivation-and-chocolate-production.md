@@ -1,15 +1,3 @@
----
-title: Cacao Cultivation and Chocolate Production
-tags: [cacao, chocolate, theobroma, tropical-crops, food-forest, fermentation, agroforestry]
-date: 2026-05-03
-updated: 2026-05-03
-sources:
-  - Wood, G.A.R. & Lass, R.A. (2001). Cacao. 4th ed. Blackwell Science.
-  - Beckett, S.T. (2019). The Science of Chocolate. 3rd ed. Royal Society of Chemistry.
-  - Purdy, L.H. & Schmidt, R.A. (1996). "Status of Cacao Witches' Broom." Plant Disease, 80(7), 688-693.
-  - International Cocoa Organization (ICCO). Quarterly Bulletin of Cocoa Statistics.
-  - Afoakwa, E.O. (2016). Chocolate Science and Technology. 2nd ed. Wiley-Blackwell.
----
 
 ## Introduction
 
@@ -82,7 +70,7 @@ Cacao prefers deep, well-drained, loamy soils with:
 
 ### Shade
 
-In its natural habitat, cacao is an understory tree. Cultivated cacao benefits from 25–50% shade, particularly during the first 3–4 years. Shade trees (commonly [[Inga]] spp., Gliricidia sepium, Erythrina spp., or fruit trees like banana and plantain) reduce temperature stress, protect from wind, improve soil through nitrogen fixation and leaf litter, and can provide additional income. Some modern full-sun production systems achieve higher yields but require intensive irrigation, fertilization, and pest management.
+In its natural habitat, cacao is an understory tree. Cultivated cacao benefits from 25–50% shade, particularly during the first 3–4 years. Shade trees (commonly Inga spp., Gliricidia sepium, Erythrina spp., or fruit trees like banana and plantain) reduce temperature stress, protect from wind, improve soil through nitrogen fixation and [[leaf-litter-microfungal-diversity-tropical-temperate]], and can provide additional income. Some modern full-sun production systems achieve higher yields but require intensive irrigation, fertilization, and pest management.
 
 ## Propagation Methods
 
@@ -92,7 +80,7 @@ Seeds must be planted fresh — viability drops rapidly after 2 weeks. Seeds are
 
 ### Clonal Propagation
 
-Vegetative propagation preserves the exact genetic characteristics of selected mother trees:
+[[vegetative-propagation-methods-mollison]] preserves the exact genetic characteristics of selected mother trees:
 
 - **Cuttings:** Softwood or semi-hardwood cuttings (15–25 cm) with 2–3 leaves, treated with rooting hormone (IBA 3,000–5,000 ppm), under mist in a shaded nursery. Rooting success ranges 60–80% after 6–8 weeks. This is the simplest clonal method but produces trees with less robust root systems.
 
@@ -112,7 +100,7 @@ Land is cleared, contoured where necessary, and shade trees established 1–2 ye
 
 ### Spacing and Layout
 
-- **Standard spacing:** 3 × 3 m to 4 × 4 m (625–1,111 trees/ha) depending on soil fertility and shade intensity
+- **Standard spacing:** 3 × 3 m to 4 × 4 m (625–1,111 trees/ha) depending on [[soil-fertility-building-gradient-solomon]] and shade intensity
 - **Agroforestry systems:** 4 × 4 m to 5 × 5 m with interplanted shade and companion crops
 - **Rows oriented north-south** to maximize light interception where shade is managed
 
@@ -123,7 +111,7 @@ Planting holes (40 × 40 × 40 cm) are dug and partially filled with topsoil mix
 Cacao is ideally suited to multistrata agroforestry systems:
 
 - **Upper canopy:** Timber trees (Cordia alliodora, Terminalia ivorensis) or fruit trees (Mangifera indica, Persea americana)
-- **Mid canopy:** Shade and nitrogen-fixing trees (Inga edulis, Gliricidia sepium, Erythrina poeppigiana)
+- **Mid canopy:** Shade and [[nitrogen-fixing-plants]] trees (Inga edulis, Gliricidia sepium, Erythrina poeppigiana)
 - **Lower canopy:** Cacao, with possible understory crops (banana, plantain, pineapple, taro)
 - **Ground cover:** Leguminous cover crops (Arachis pintoi, Calopogonium mucunoides)
 
@@ -147,7 +135,7 @@ Cacao has high nutrient demands, particularly for potassium (K), nitrogen (N), a
 
 - **Young trees (0–3 years):** 50–100 g N, 25–50 g P₂O₅, 50–100 g K₂O per tree annually, split into 2–3 applications
 - **Bearing trees (4+ years):** 100–150 g N, 25–50 g P₂O₅, 150–200 g K₂O per tree annually, plus 25–50 g MgO
-- **Organic alternatives:** Composted cacao pod husks, poultry manure, green manure from shade trees, rock phosphate, wood ash
+- **Organic alternatives:** Composted cacao pod husks, poultry manure, [[green-manure-cover-crops]] from shade trees, rock phosphate, wood ash
 
 Leaf tissue analysis is the most reliable method for determining nutrient status. Deficiency symptoms include interveinal chlorosis (Mg), leaf bronzing (K), stunted growth with pale leaves (N), and internal bark necrosis (B).
 
@@ -279,8 +267,8 @@ Cacao is exceptionally well-suited to permaculture and food forest design:
 - **Nitrogen-fixer association:** Benefits from interplanted nitrogen-fixing shade trees (Inga, Gliricidia, Erythrina)
 - **Biodiversity support:** Cacao agroforests support significantly higher biodiversity than monocultures, including birds, bats, insects, and epiphytes
 - **Income diversification:** Combining cacao with fruit trees (banana, citrus, avocado), spices (vanilla, allspice, black pepper), and timber provides multiple income streams throughout the year
-- **Soil building:** Leaf litter from shade trees and cacao pruning material builds soil organic matter
-- [[Agroforestry and Alley Cropping]] systems with cacao as the primary crop are among the most studied and productive tropical polycultures
+- **[[soil-building-ecological-garden]]:** Leaf litter from shade trees and cacao pruning material builds soil organic matter
+- Agroforestry and Alley Cropping systems with cacao as the primary crop are among the most studied and productive tropical polycultures
 
 ## Economic Considerations
 
@@ -319,18 +307,18 @@ Research priorities for cacao include:
 - **Climate adaptation:** Development of drought- and heat-tolerant varieties, and identification of new suitable growing zones
 - **Grafting and clonal propagation improvements:** Scaling up access to improved planting material
 - **Precision fermentation:** Using microbial cultures to standardize and improve fermentation quality
-- **Regenerative cacao:** Integrating soil health, biodiversity, and carbon sequestration into cacao production systems
+- **Regenerative cacao:** Integrating [[soil-health-and-management]], biodiversity, and carbon sequestration into cacao production systems
 - **Direct trade and bean-to-bar movement:** Shortening supply chains to improve farmer incomes and quality
 
 Cacao remains one of the most culturally significant and economically important tropical crops, connecting ancient Mesoamerican traditions with a global industry worth over $130 billion. Its cultivation, when practiced sustainably within agroforestry systems, offers a model for productive, biodiverse, and equitable tropical agriculture.
 
 ## See Also
 
-- [[Agroforestry and Alley Cropping]]
-- [[Fermented Foods and Beverages]]
-- [[Forest Gardening and Food Forests]]
-- [[Silvopasture Systems Design and Management]]
-- [[Vanilla Cultivation and Orchid Ecology]]
-- [[Companion Planting and Polycultures]]
-- [[Terra Preta and Anthrosols]]
-- [[The Soil Food Web]]
+- Agroforestry and Alley Cropping
+- Fermented Foods and Beverages
+- [[food-forests-and-the-seven-story-garden]]
+- Silvopasture Systems Design and Management
+- Vanilla Cultivation and Orchid Ecology
+- Companion Planting and Polycultures
+- Terra Preta and Anthrosols
+- The Soil Food Web

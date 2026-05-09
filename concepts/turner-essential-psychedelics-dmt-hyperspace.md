@@ -117,19 +117,8 @@ the mind entirely.
 
 ## Related
 
-- [[turner-essential-psychedelics-ketamine-anaesthetic-realm]] Concepts
-
-- tryptamine consciousness
-- ego dissolution
-- discarnate entities
-- ayahuasca brew
-- harmala alkaloid potentiation
-- clear light experience
 - [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
-- [[turner-harmala-psychedelic-potentiation-signature]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]
-- [[holmgren-trees-nature-solar-power-plants]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]
-- [[yopo-anadenanthera-peregrina-snuff]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[fukuoka-nature-transcends-human-knowledge]]

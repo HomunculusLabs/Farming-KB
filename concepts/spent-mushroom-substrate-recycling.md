@@ -3,17 +3,7 @@ title: Spent Mushroom Substrate Recycling
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
----
-# Spent Mushroom Substrate Recycling
-
-After several flushes of mushroom harvest, the growing material is considered "spent." Far from being waste, Spent Mushroom Substrate (SMS) contains enough digestible nutrition — primarily decomposed by mushroom mycelium — to have significant value as animal feed, soil amendment, and bioremediation material. Recycling SMS increases both farm sustainability and economic returns.
-
-## Handling and Safety
-
-SMS must be **heat-treated before being removed** from the growing chamber to prevent re-contamination of subsequent crops. Without proper treatment, contaminated SMS can spread pathogens such as [[oyster-mushroom-green-mold-disease]] back to the growing facility. Some growers choose to dispose of contaminated SMS far from the farm rather than invest in heat treatment, but this represents a significant loss of potential value.
+tags: [[oyster-mushroom-green-mold-disease]] back to the growing facility. Some growers choose to dispose of contaminated SMS far from the farm rather than invest in heat treatment, but this represents a significant loss of potential value.
 
 ## Nutritional Composition
 
@@ -93,14 +83,9 @@ The invasive water hyacinth (*Eichhornia crassipes*) chokes waterways across sou
 
 ## Related
 
-- [[spent-mushroom-substrate]] Topics
-
-- [[mushroom-cultivation-fundamentals]] — compost-based substrates for mushroom cultivation
-- [[oyster-mushroom-bag-cultivation]] — bag cultivation methods that produce SMS
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — compost-based substrates for mushroom cultivation
 - [[bulk-substrate-preparation]] — preparing substrates for oyster mushroom growth
 
 > **Source:** Chapter 9, "Post-harvest Management — Recycling of Spent Oyster Mushroom Substrate" by Danny L. Rinker, ZERI Foundation, and Seung Woo Kang, in Oyster Mushroom Cultivation (MushWorld, 2004).
-- [[fungal-treatment-of-olive-mill-wastewater]]
 - [[oyster-mushroom-harvesting-post-harvest]]
-- [[fungal-olive-mill-wastewater-treatment]]
 - [[oyster-mushroom-spent-substrate-recycling]]

@@ -1,32 +1,7 @@
----
-title: Psilocybin Mushrooms
-aliases: [magic mushrooms, psilocybe, teonanacatl, sacred mushrooms, psilocybin fungi]
-tags: [mycology, ethnobotany, psilocybin, hallucinogens, entheogens, mesoamerica]
-created: 2026-05-08
-source: "A Golden Guide to Hallucinogenic Plants — Richard Evans Schultes (1976)"
----
 
 # Psilocybin Mushrooms
 
-Psilocybin mushrooms are fungi containing the psychoactive compounds psilocybin and psilocin, which produce profound alterations in perception, cognition, and mood. Richard Evans Schultes's "Golden Guide to Hallucinogenic Plants" (1976) documents the deep cultural roots of these mushrooms in Mesoamerican civilization and their significance in the broader study of hallucinogenic plants.
-
-## The Active Compounds
-
-### Psilocybin
-
-- **Chemical name**: O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine.
-- **Classification**: Tryptamine alkaloid, specifically a phosphorylated indolethylamine.
-- **Mechanism**: Psilocybin is a prodrug — it is dephosphorylated in the body to psilocin, the pharmacologically active form. Psilocin is a serotonin (5-HT2A) receptor agonist.
-- **Effects onset**: 20–60 minutes after ingestion.
-- **Duration**: 4–6 hours.
-- **Potency**: 10–20 mg psilocybin produces a full psychedelic experience in most individuals.
-
-### Psilocin
-
-- **Chemical name**: 4-hydroxy-N,N-dimethyltryptamine (4-HO-DMT).
-- The active metabolite of psilocybin; structurally similar to DMT (N,N-dimethyltryptamine).
-- Binds to serotonin 5-HT2A receptors with high affinity, producing the characteristic hallucinogenic effects.
-- Also has affinity for 5-HT1A, 5-HT2C, and other serotonin receptor subtypes.
+Psilocybin mushrooms are fungi containing the psychoactive compounds psilocybin and psilocin, which produce profound alterations in perception, cognition, and mood. Richard Evans Schultes's "[[serotonin-receptor-interference-psychedelic-mechanism]] subtypes.
 
 ### Baeocystin and Norbaeocystin
 
@@ -51,15 +26,8 @@ Schultes documents that modern Mexican Indians in Oaxaca and surrounding regions
 
 ### The Wasson Expedition
 
-R. Gordon Wasson, a banker and amateur mycologist, brought Mesoamerican mushroom use to worldwide attention:
-
-- His 1957 article "Seeking the Magic Mushroom" in *Life* magazine introduced psilocybin mushrooms to the Western public.
-- Albert Hofmann, the Swiss chemist who discovered LSD, subsequently isolated and synthesized psilocybin and psilocin from specimens collected by Wasson.
-- This sequence — ethnobotanical discovery → chemical isolation → widespread popularization — parallels the history of many psychoactive plants.
-
-## Species
-
-The Golden Guide describes several psilocybin-containing mushroom genera and species:
+R. [[magic-mushroom-british-underground-1970s]]" in *Life* magazine introduced psilocybin mushrooms to the Western public.
+- [[psilocybin-containing-genera-beyond-psilocybe]] mushroom genera and species:
 
 ### Psilocybe
 
@@ -67,32 +35,7 @@ The primary genus, containing over 100 species worldwide:
 
 - **Psilocybe mexicana** — The species Wasson encountered in Mexico; one of the first chemically analyzed.
 - **Psilocybe cubensis** — The most widely cultivated species; large, robust, and relatively potent. Distributed in subtropical and tropical regions worldwide.
-- **Psilocybe semilanceata** (liberty cap) — Common in temperate grasslands of Europe and North America. One of the most potent species per dry weight.
-- **Psilocybe azurescens** — Native to the Pacific Northwest coast of North America; among the most potent known species.
-- **Psilocybe cyanescens** — Widespread in wood chip mulch in temperate regions; known for its wavy cap margin.
-
-### Other Genera
-
-Psilocybin also occurs in several other mushroom genera:
-
-- **Panaeolus** — *Panaeolus cyanescens* (blue meanies) is a potent tropical/subtropical species.
-- **Gymnopilus** — Some species contain psilocybin; typically orange-to-brown, growing on wood.
-- **Inocybe** — Several species contain psilocybin but are difficult to identify and potentially confused with toxic species.
-- **Pluteus** — A few species contain psilocybin; wood-inhabiting.
-
-### Identification Features
-
-Psilocybin mushrooms share some common characteristics but no single feature is diagnostic:
-
-- **Bluing reaction** — Many (not all) psilocybin mushrooms bruise blue when handled due to oxidation of psilocin. However, some non-psychoactive mushrooms also blue, and some potent species don't.
-- **Spore print** — Dark purple-brown to black spore print.
-- **Habitat** — Many grow on dung (coprophilous) or in enriched grassland soils. Others grow on decaying wood.
-- **Gill attachment** — Adnexed to adnate gills in most *Psilocybe* species.
-- **Stem** — Often slender, with a partial veil that may form a fragile annulus.
-
-## Distribution
-
-Schultes notes the global distribution of hallucinogenic mushrooms:
+- **Psilocybe semilanceata** ([[global-distribution-of-neurotropic-fungi]] of hallucinogenic mushrooms:
 
 - **Mesoamerica** — The cultural heartland of ceremonial mushroom use. Over 30 species documented in Mexico alone.
 - **South America** — Species found in Colombia, Ecuador, Peru, and Brazil. Some Amazonian peoples may use them, though this is less documented than ayahuasca use.
@@ -116,7 +59,25 @@ The study of psilocybin mushrooms bridges ethnobotany, chemistry, psychology, an
 
 ## See Also
 
-- [[amanita-poisoning-and-historical-treatment]]
 - [[peyote-and-mescaline]]
 - [[ayahuasca-and-banisteriopsis-caapi]]
-- [[fly-agaric-as-hallucinogen]]
+- fly agaric as hallucinogen
+## Practical Considerations
+
+Successful implementation of Psilocybin Mushrooms requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

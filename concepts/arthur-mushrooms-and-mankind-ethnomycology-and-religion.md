@@ -105,19 +105,11 @@ The primary purpose of Arthur's investigation is to explain these hidden meaning
 
 ## See Also
 
-- [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
 - [[amanita-muscaria-cultural-history]]
-- [[amanita-muscaria-ethnobotany]]
 - [[amanita-muscaria-guide]]
-- [[fly-agaric-santa-claus-myth]]
 - [[fly-agaric-siberian-shamanic-practice]]
-- [[fly-agaric-ethnobotany]]
 - [[christmas-mushroom-symbolism]]
-- [[sacred-mushroom-and-the-cross]]
 - [[john-allegro]]
-- [[soma-haoma-hypothesis]]
 - [[gordon-wasson-comparative-method-ethnomycology]]
-- [[ethnomycology-wasson-discovery-narrative]]
 - [[rammed-earth]]
-- [[entheogenic-knowledge-secret-societies]]
 - [[entheogen-culture]]

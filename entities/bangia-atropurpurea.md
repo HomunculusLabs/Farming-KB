@@ -106,17 +106,10 @@ Climate warming may extend the species' range northward in both the Atlantic and
 
 ## See Also
 
-- [[porphyra-umbilicalis]]
 - [[pyropia-yezoensis]]
-- [[gracilaria-verrucosa]]
 - [[gelidium-amansii]]
-- [[chondrus-crispus]]
 - [[palmaria-palmata]]
-- [[eucheuma-denticulatum]]
 - [[ulva-lactuca]]
-- [[fucus-vesiculosus]]
 - [[kappaphycus-alvarezii]]
-- [[caulerpa-lentillifera]]
 - [[laminaria-digitata]]
-- [[sargassum-fusiforme]]
 - [[alaria-esculenta]]

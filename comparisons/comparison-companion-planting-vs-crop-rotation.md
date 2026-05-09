@@ -23,37 +23,6 @@ on external inputs.
 
 ## Companion Planting
 
-[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-Companion planting involves growing different plant species in close
-proximity for mutual agricultural benefit. These benefits include natural
-pest deterrence through volatile compounds or physical barriers, improved
-pollination by attracting beneficial insects, enhanced nutrient cycling
-through complementary root architectures, and physical support structures.
-The classic example is the Three Sisters method, where corn provides a
-trellis for climbing beans, beans fix atmospheric nitrogen for the corn,
-and squash shades the soil to suppress weeds and retain moisture.
-
-Other well-documented companion combinations include tomatoes with basil,
-where basil repels tomato hornworms and may improve fruit flavor; carrots
-with onions, where each masks the other from their respective pest insects;
-and marigolds interplanted with vegetables, where marigold root exudates
-repel root-knot nematodes. These relationships range from scientifically
-validated pest suppression to traditional practices supported by grower
-experience. The mechanism varies by combination: some companions release
-repellent chemicals, others attract predatory insects that control pests,
-and some simply occupy different soil niches to reduce competition.
-
-Companion planting operates within a single growing season and requires
-careful spatial planning at planting time. Its effectiveness depends on
-proper species selection, timing, and density. While some claims lack
-rigorous scientific support, the core principles of biodiversity,
-polyculture, and ecological integration are well-established in
-agroecology and contribute measurably to reduced pest pressure and
-improved growing conditions in diverse planting schemes.
-
-## Crop Rotation
-
 [[crop-rotation-benefits]]
 
 Crop rotation is the practice of growing different crop families in
@@ -91,60 +60,25 @@ crop rotation plans as a fundamental soil management practice.
 | Dimension | Spatial (same time, shared space) | Temporal (same space, different time) |
 | Time scale | Single growing season | Multiple years |
 | Primary mechanism | Interspecies interactions | Breaking pest and disease cycles |
-| Pest management | Repellence, [[trap-cropping]] | Host removal, cycle breaking |
-| Nutrient role | Complementary root niches | Family-based nutrient demands |
-| Planning horizon | Before each planting | Multi-year rotation design |
-| Complexity | Moderate (pairing combinations) | High (multi-year sequences) |
-| Evidence base | Mixed (some validated, some traditional) | Strong (extensively researched) |
-| Scale suitability | Gardens to small farms | All scales, essential at farm scale |
-| Soil impact | Indirect through root diversity | Direct through nutrient cycling |
-
-## When to Choose Companion Planting
-
-Companion planting is most valuable in diversified gardens and small-scale
-farms where intimate interplanting is practical. It suits intensive
-planting schemes where maximizing production per square foot is a priority
-and where manual management allows fine-tuned spatial arrangements.
-Companion planting provides immediate benefits within a single season,
-making it accessible to new growers who can experiment with pairings and
-observe results without committing to multi-year planning.
-
-Choose companion planting when targeting specific pest problems with known
-biological solutions, such as interplanting nasturtiums to trap aphids
-away from brassicas or placing alliums near susceptible crops to repel
-carrot rust flies. It integrates naturally with raised bed and square foot
-gardening systems where diverse species share confined growing spaces.
-
-## When to Choose Crop Rotation
-
-Crop rotation is essential for any grower cultivating the same ground
-year after year, whether at garden or farm scale. It provides the
-foundation for long-term soil health and is the single most effective
-organic strategy for preventing soil-borne disease buildup. Rotation
-becomes critical as the scale of cultivation increases, since larger
-monoculture areas amplify pest and disease risks that only temporal
-diversification can address.
-
-Choose crop rotation when managing fields or beds that are replanted
-season after season. It is non-negotiable in organic farming systems
-where synthetic disease controls are not used. Even small gardens benefit
-from simple two- or three-year rotation plans, and the practice becomes
-more powerful as rotation sequences grow more sophisticated and
-longer-term soil health data accumulates.
-
-## Hybrid Approaches
-
-Integrating companion planting within a crop rotation creates a
-multidimensional management system. A gardener might rotate legumes,
-brassicas, and solanums across beds over four years while simultaneously
-companion-planting each bed with beneficial herbs, flowers, and trap
-crops. This spatial-temporal integration maximizes biodiversity at every
-level, creating resilient growing systems that suppress pests, cycle
-nutrients efficiently, and build soil health through both immediate and
-cumulative effects.
-
-## See Also
-- [[comparison-trap-cropping-vs-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+| Pest management | Repellence, [[comparison-trap-cropping-vs-companion-planting]]
 - [[crop-rotation-benefits]]
 - [[polyculture-design-hemenway]]
+## Practical Considerations
+
+Successful implementation of Companion Planting vs Crop Rotation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

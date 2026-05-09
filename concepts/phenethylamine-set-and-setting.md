@@ -25,7 +25,7 @@ Shulgin's research methodology explicitly addresses set:
 The qualitative comments in PIHKAL repeatedly demonstrate how pre-existing emotional states shape the experience:
 - Positive, relaxed states tend to produce more pleasant and insightful experiences
 - Anxious or fearful states can amplify into challenging experiences
-- Unresolved psychological material may surface, particularly with compounds like [[2c-e-compound-profile]] and [[ayahuasca-and-dmt-plant-medicine]]
+- Unresolved psychological material may surface, particularly with compounds like [[2c-e-compound-profile]] and [[mda-compound-profile]]
 
 ### Intention
 Shulgin's approach combined scientific curiosity with personal exploration:

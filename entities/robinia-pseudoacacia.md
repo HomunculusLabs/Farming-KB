@@ -114,7 +114,9 @@ A mature 25-year-old coppice stool can produce 50–100 kg of fresh wood per har
 
 ## See Also
 
-- [[biological-nitrogen-fixation-agriculture]]
 - [[food-forest]]
-- [[mollison-designers-fuelwood-forestry-coppice-pollard]]
 - [[agroforestry]]
+
+## See Also
+
+- [[pioneer-species-selection-for-permaculture-systems]]

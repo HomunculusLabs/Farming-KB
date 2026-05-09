@@ -81,12 +81,12 @@ The figure appears across cultures under different names, suggesting deep antiqu
 
 ## Critical Assessment
 
-The Christmas-mushroom connection is visually striking and the parallels are numerous. However, [[andy-letcher]] in "Shroom" (2006) is critical, finding no credible historical evidence directly linking Santa Claus to Siberian mushroom-shamanism. The theory remains popular in ethnomycological circles but is contested by academic folklorists. See [[ethnomycology]] for Letcher's critique of the broader Siberian mushroom-shamanism narrative.
+The Christmas-mushroom connection is visually striking and the parallels are numerous. However, [[andy-letcher]] in "Shroom" (2006) is critical, finding no credible historical evidence directly linking Santa Claus to Siberian mushroom-shamanism. The theory remains popular in ethnomycological circles but is contested by academic folklorists. See [[siberian-shamanism-and-amanita]] for Letcher's critique of the broader Siberian mushroom-shamanism narrative.
 
 ## See Also
 
 - [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological theory
-- [[ethnomycology]] — Siberian Amanita traditions and critiques
+- [[siberian-shamanism-and-amanita]] — Siberian Amanita traditions and critiques
 - [[amanita-muscaria-guide]] — Biology, chemistry, and identification
 - [[entheogen-culture]] — Entheogens across religious traditions
 - [[mushroom-folklore-and-culture]] — Broader folklore and cultural significance

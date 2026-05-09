@@ -16,12 +16,7 @@ Fermented Mixed Compost (FMC) is the primary soil amendment in Korean Natural Fa
 
 ## Overview
 
-FMC is made from a mixture of organic materials fermented with [[knf-indigenous-microorganism-culture]] and other KNF inputs. Two methods exist:
-
-- **Method-1:** Temperature-monitored composting with specific turning schedule (20 days)
-- **Method-2:** Simpler method combining IMO-4 with existing compost at 1:10 ratio to create IMO-5 (7-14 days)
-
-This page covers Method-1 in detail. See [[knf-fermented-mixed-compost]] for materials, timing, and place selection.
+FMC is made from a mixture of organic materials fermented with [[knf-fermented-mixed-compost]] for materials, timing, and place selection.
 
 ## Temperature Control: The Critical Factor
 
@@ -116,34 +111,7 @@ The pile must be turned at specific times based on temperature readings:
 
 ## Relationship to IMO Progression
 
-FMC Method-1 typically uses [[knf-indigenous-microorganism-culture]] as the microbial inoculant:
-
-1. **IMO-1:** Collected from native soil (rice box method)
-2. **IMO-2:** Multiplied with brown sugar
-3. **IMO-3:** Mass-cultivated on rice bran/soil mixture
-4. **IMO-4:** Field-applied formulation with additional soil and organic matter
-5. **FMC (Method-1):** IMO-4 is mixed into the compost pile as the microbial starter
-
-The IMO provides the beneficial microorganism community that drives the composting process. Without IMO, the compost relies on whatever microbes happen to be present, which may include undesirable organisms.
-
-## FMC Method-2: IMO-5 (Brief Overview)
-
-For a simpler, faster approach:
-
-1. Combine IMO-4 with existing compost at 1:10 ratio (IMO-4 to compost)
-2. Mix thoroughly
-3. Ferment for 7-14 days at 23-25C
-4. The resulting mixture is called IMO-5
-5. Apply in the same manner as Method-1 FMC
-
-Method-2 is faster and requires less monitoring but may produce lower-quality compost than the carefully controlled Method-1 process.
-
-## Combination with Other Inputs
-
-FMC can be enhanced by adding other KNF inputs during preparation:
-
-- [[knf-fish-amino-acid]]: Adds nitrogen and amino acids (use sparingly to avoid ammonia odor)
-- [[knf-oriental-herbal-nutrient]]: Adds trace minerals and herbal compounds
+FMC Method-1 typically uses [[knf-fish-amino-acid]]: Adds nitrogen and amino acids (use sparingly to avoid ammonia odor)
 - [[lactic-acid-bacteria-knf]]: Accelerates fermentation and suppresses pathogens
 - [[knf-yeast-preparation-detailed]]: Completes the fermentation process
 ## See Also

@@ -91,8 +91,6 @@ Solomon, as a former seedsman, emphasizes that mass-market seed packets and gard
 
 ## See Also
 
-- [[home-vegetable-garden-planning]]
 - [[vegetable-harvest-and-storage-guide]]
-- [[growing-tomatoes-organically]]
 - [[growing-food-in-hard-times]]
 - [[zone-1-intensive-garden]]

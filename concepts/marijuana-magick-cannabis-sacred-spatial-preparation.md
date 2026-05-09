@@ -140,7 +140,9 @@ The act of closing carries explicit philosophical significance in the text. The 
 
 ## See Also
 
-- [[marijuana-magick-ancient-ritual-use-cannabis]]
 - [[marijuana-magick-cannabis-incense-and-preparation]]
-- [[marijuana-magick-scrying-and-divination-cannabis]]
 - [[marijuana-magick-historical-witches-and-cannabis]]
+
+## See Also
+
+- [[marijuana-magick-ancient-ritual-use-cannabis]]

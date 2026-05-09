@@ -10,44 +10,7 @@ type: concept
 
 Composting is the controlled decomposition of organic materials by soil
 microorganisms, and in *Teaming With Microbes*, Lowenfels and Lewis describe it
-as an indispensable tool for managing the [[lowenfels-earthworms-soil-food-web]]. At the heart of every composting system are
-the microorganisms whose metabolic activity creates the heat and by-products
-that make composting work. Understanding the science behind composting allows
-gardeners to produce compost tailored to the specific needs of their plants,
-whether bacterially or fungally dominated.
-
-## The Four Requirements
-
-Successful composting requires four elements beyond soil microbes: heat, water,
-air, and organic materials with the right amounts of carbon and nitrogen.
-[[lowenfels-bacteria-role-soil]] and
-[[lowenfels-fungi-role-soil]] seek carbon from organic matter to fuel
-their metabolism and nitrogen to build enzymes and proteins.  Moisture provides
-the environment for microbe activity and transport. Air is needed because
-beneficial decomposers are aerobic and require oxygen.  Heat comes not from the
-sun but from microbial metabolic activity, mostly from bacteria, and creates
-temperature changes that drive succession of different organism groups through
-the composting cycle.
-
-## Mesophilic Stage
-
-The first phase of composting is mesophilic, with organisms thriving at moderate
-temperatures between 68 and 104 degrees Fahrenheit (20 to 40 degrees Celsius).
-Even in this early stage, work begins on the difficult chains of cellulose,
-which bacteria break into smaller glucose chains through depolymerization. Brown
-rot fungi and certain bacteria like *Bacillus* and *Heliospirillum* species are
-active breaking down resistant materials. These microbes produce endospores that
-survive the next, hotter phase. If a pile starts in cold conditions,
-psychrophilic bacteria that operate at temperatures as low as 32 degrees
-Fahrenheit begin the process and generate enough heat to activate the mesophilic
-organisms.
-
-## Thermophilic Stage
-
-The second phase involves thermophilic organisms that withstand temperatures of
-104 to 150 degrees Fahrenheit (40 to 65 degrees Celsius) and higher. Complex
-carbohydrates are fully broken down, proteins are decomposed, and hemicelluloses
-are decayed. Additional bacteria including *Arthrobacter*, *Pseudomonas*, and
+as an indispensable tool for managing the [[lowenfels-bacteria-role-soil]] and
 [[lowenfels-soil-enzymes-decomposition]] join the process. Their
 metabolic heat causes temperatures to continue rising, and these high
 temperatures also kill off pathogens. A properly made pile should reach 135
@@ -64,9 +27,6 @@ down. Actinomycetes continue attacking difficult-to-digest remnants, producing
 the earthy smell of good compost through their decay of cellulose, lignin,
 chitin, and protein.  Basidiomycete fungi are also active in this final stage.
 Physical decomposers including
-[[lowenfels-earthworms-soil-food-web]], nematodes, springtails,
-centipedes, ants, snails, and slugs work through the pile, shredding organic
-matter and coating particles with mucus that binds them into
 [[lowenfels-soil-structure-aggregates]].
 
 ## Carbon to Nitrogen Ratio

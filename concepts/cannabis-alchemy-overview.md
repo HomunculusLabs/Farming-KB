@@ -90,12 +90,7 @@ synthetic single-compound pharmaceuticals.
 
 ## See Also
 
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]
 - [[lemon-cannabis-alchemy-direct-vaporization]]
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]
-
 - [[hashish-production-methods]]
-- [[cannabis-extraction-solvents]]
 - [[spagyric-cannabis-preparation]]
-- [[cannabis-chromatography-cannabinoid-purification]]
 - [[rosin-pressing-technology]]

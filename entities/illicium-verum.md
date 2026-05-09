@@ -104,13 +104,8 @@ Yields vary significantly with tree age and management. Mature trees (10+ years)
 
 ## See Also
 
-- [[elettaria-cardamomum]]
 - [[zingiber-officinale]]
-- [[cinnamomum-verum]]
 - [[cinnamomum-cassia]]
-- [[foeniculum-vulgare]]
 - [[pimpinella-anisum]]
-- [[glycyrrhiza-glabra]]
 - [[curcuma-longa]]
-- [[alpinia-galanga]]
 - [[boesenbergia-rotunda]]

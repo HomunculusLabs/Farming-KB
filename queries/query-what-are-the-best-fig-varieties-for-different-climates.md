@@ -137,14 +137,9 @@ Fig rust, mosaic virus, and root-knot nematodes are the most common fig afflicti
 The most important rule: **plant what grows well for your neighbors**. Local nurseries, university extensions, and community fruit-growing groups are your best resources for variety-specific advice tailored to your microclimate. Figs are forgiving trees — even a "wrong" choice will often produce fruit. But the right variety in the right zone will reward you with minimal effort and abundant harvests.
 
 *Last updated: 2026-04-28*
-
 ## See Also
 
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 
-- [[query-best-citrus-varieties-for-different-climates]]
-
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]
-- [[query-what-are-the-best-indicator-plants-for-soil-health]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
-- [[query-what-are-the-best-mushroom-species-for-bioremediation]]

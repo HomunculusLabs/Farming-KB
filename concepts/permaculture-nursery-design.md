@@ -3,15 +3,7 @@ title: Permaculture Nursery Design
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources: []
----
-
-# Permaculture Nursery Design
-
-updated: 2026-04-18
-
-The nursery is the engine of any permaculture system. Bill Mollison's [[permaculture-design]] course covers nursery design as a critical infrastructure element, with functional groupings, integration with other systems, and practical management techniques.
+tags: [[permaculture-design]] course covers nursery design as a critical infrastructure element, with functional groupings, integration with other systems, and practical management techniques.
 
 ## Functional Groupings
 
@@ -62,21 +54,7 @@ Stock ponds within the nursery provide:
 - Worm farms process organic waste into vermicompost
 - Compost teas for liquid fertilization
 
-## [[nursery-management]]
-
-### Propagation Techniques
-- **Seed propagation**: Direct sowing, stratification, scarification
-- **Cuttings**: Softwood, semi-hardwood, hardwood
-- **Division**: For clumping perennials, grasses, bamboos
-- **Layering**: Air layering for difficult-to-root species
-- **Grafting**: For fruit trees, combining rootstock and scion
-- **Tissue culture**: For large-scale production of uniform plants
-
-### Potting Mix Design
-Permaculture nurseries use locally sourced materials:
-- Compost as base
-- Sand or perlite for drainage
-- [[biochar]] for water retention and nutrient availability
+## [[biochar]] for water retention and nutrient availability
 - Worm castings for microbial activity
 - Local mineral sources (rock dust, clay)
 - Coconut coir or leaf mold for organic matter
@@ -92,8 +70,7 @@ The critical transition from protected nursery to field conditions:
 
 ### Multi-Purpose Species
 Priority species for permaculture nurseries:
-- **Nitrogen fixers**: Leguminous trees for soil improvement ([[acacia]], mesquite, [[carob]], [[tagasaste]], albizia)
-- **Food producers**: Fruit trees, nut trees, berry bushes, [[perennial-vegetables]]
+- **Nitrogen fixers**: Leguminous trees for soil improvement ([[carob]], [[perennial-vegetables]]
 - **Pioneer species**: Fast-growing species for site restoration
 - **Windbreak species**: For shelter and microclimate creation
 - **Animal fodder**: Species for livestock feed systems
@@ -144,7 +121,5 @@ From backyard to commercial:
 - Start with species you know well
 - Expand as demand develops
 - Specialize in locally-adapted varieties
-- Develop a reputation for quality and reliability
-
 ## Related
 - [[query-how-do-i-start-a-small-permaculture-nursery]]

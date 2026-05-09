@@ -130,11 +130,9 @@ Forced fruiting produces more predictable and abundant harvests:
 - Twist or cut at base; never pull (damages bark and future fruiting sites)
 - Trim woody stem base, handle gently to avoid bruising
 ## Related
+
 - [[mushroom-substrates]]
-- [[log-cultivation-methods]]
 - [[gourmet-mushroom-cultivation]]
-- [[mushroom-cultivation-overview]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
-- [[gourmet-mushroom-enriched-sawdust-cultivation]]
 - [[mushroom-cultivation-wood-logs]]
 - [[mushroom-post-harvest-handling]]

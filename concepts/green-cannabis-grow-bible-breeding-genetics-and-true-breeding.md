@@ -14,9 +14,7 @@ sources:
 type: concept
 ---
 # Cannabis Breeding, Genetics, and True Breeding
-Chapter 15 of [[greg-green-sinsemilla-and-pollination]]'s Cannabis Grow Bible provides a thorough
-introduction to cannabis breeding techniques, covering Mendelian genetics, the
-[[cannabis-hardy-weinberg-equilibrium]], test crosses, cubing, backcrossing, and the
+Chapter 15 of [[cannabis-hardy-weinberg-equilibrium]], test crosses, cubing, backcrossing, and the
 process of creating true-breeding strains (IBLs).
 ## Simple Breeding
 ### Making Seeds
@@ -110,5 +108,8 @@ The second backcross (using the same cloned parent) is called
 "squaring." If all offspring become MM, the trait is true-breeding.
 ### Cubing
 ## See Also
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
+
+## See Also
+
+- [[cannabis-breeding-and-genetics]]

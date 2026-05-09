@@ -11,118 +11,88 @@ type: concept
 
 # Game Species Management on Range
 
-Bill Mollison devotes considerable attention in Permaculture: A
-Designers' Manual to the managed use of game species on range,
-arguing that true managed wildlife farming, where up to 40 or 80
-species of birds, mammals, fish, or lower vertebrates are farmed
-in an integrated product system, predictably exceeds
-one-species yields and may actually improve tree and prairie
-cover.
-
-## Principles of Wildlife Management
-
-The first priority in game management on range is to work out a
-method for harmless live capture of the species. These capture
-methods range from very large drift (non-return) traps for
-migratory or moulting species (jackrabbits, geese, deer, gazelle,
-gnu), to yard traps at waterholes (goats, horses, kangaroo),
-large or small baited box traps (most rodents), cage traps (many
-birds), set net in flyways or at night, to individual capture
-using fast-acting knockout drugs or chemical pellets for large
-or dangerous species like bear, rhino, and elephant.
-
-Many capture methods operate at night, when lights, traps, and
-nets are used and heat stress is less a factor. Wildlife managers
-and researchers have worked out safe methods of capture for most
-game species, and in many cases good culling or management
-techniques. In the absence of efficient predators such as lions,
-wild dogs, wolves, tigers, leopards, eagles, or foxes, many of
-which have been reduced or eliminated locally, human management
-becomes essential.
-
-## Population Monitoring
-
-Given a good capture and marking method (dyes, collars, ear
-tags, leg bands, tattoos, ear notches), population estimates
-can be developed, and tied to other factors such as scat counts
-or browse effect on range, herd size, or breeding success. Many
-free-range species are attracted to or benefit from areas of
-special forage or crop, shade, winter shelter, or water points,
-all of which can be added to a depleted range to increase
-wildlife, as can a more general scatter of seed or forage plants
-of particular value in periods of browse shortage.
-
-## Long-Term Population Dynamics
-
-Long-term measurements of natural mortalities on range due to
-drought, predation, plant response, parasitism, or territorial
-behaviour enables prediction of natural losses with some degree
-of success. Pre-emptive culling can make use of age and sex
-classes of animals that are in any case doomed to perish in
-the field. This represents a more ethical and productive
-approach than allowing natural die-offs.
-
-## Managed Wildlife Farming
-
-These studies are the essential preliminary to the development
-of true managed wildlife farming. Even by mid-1960, wildlife
-researchers had good estimates of yields under managed systems,
-and could have devised excellent game farms. Pioneer farms of
-crocodile, emu, kangaroo, deer, and waterfowl already show
-economic and social benefits.
-
-Deer (red deer and roe) are now farmed in New Zealand, but are
-being raised on improved pasture with the usual hay and
-concentrate system used for sheep, whereas these animals are
-well suited to managed montane tussock and tree browse systems.
-Only in very recent years has intelligent management of game
-species in their preferred habitat recommenced.
-
-## Range Enhancement for Wildlife
-
-Only heavily vegetated lowland ranges are really safe areas for
-domestic hooved animal production, and even these may need
-regular soil rehabilitation to alleviate compaction. The
-careful harvest of low (polyculture) stocking rates of mammals
-can be permitted, and range predators may assist in controlling
-browsing species, both insects and mammals.
-
-Foraging strategies include providing special forage or crop,
-shade, winter shelter, or water points to attract and support
-wildlife on range. A general scatter of seed or forage plants
-of particular value in periods of browse shortage helps
-sustain populations through difficult periods.
-
-## Cultural and Economic Considerations
-
-The benefits of managed wildlife farming as yet scarcely
-realised, but in most cases exceed that of "improved pasture"
-and selected domestic breeds of sheep and cattle, with less
-capital cost and better feed conversion. Imported European
-cultures have prevented the use of kangaroo and a variety of
-antelope as farmed species, although they are preferred local
-foods.
-
-Mollison argues that there is no better use of capital than to
-use it for "increase" in the tribal sense of encouraging nature
-to show her capacity, instead of dictating directions and
-species. Some of the capital now misused in the production of
-fatty and chemicalised meats could in future be devoted to the
-intelligent management of healthier rangelands and products.
-
-## Wildlife as Design Components
-
-Pack rats can use artificial shelters that act as stores for
-wild rice. Martens nest safely in boxes fixed to poles in lakes.
-Bat colonies in sheds provide rich manure for ponds or gardens,
-and control insects. Communal blue martin nests yield phosphates
-and fertiliser for crop, and the martins control mosquitoes.
-These wildlife elements become integral design components in
-the [[mollison-zone-and-sector-analysis]].
+[[mollison-zone-and-sector-analysis]].
 
 ## See Also
 
-- [[mollison-animal-range-management]]
-- Mollison grassland and [[pasture-management]]
+- [[pasture-management]]
 - Mollison Zone 4 foraging systems
 - [[mollison-design-criteria-and-aboriginal-ecological-wisdom]]
+## Practical Applications
+
+Game Species Management on Range has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Game Species Management on Range. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

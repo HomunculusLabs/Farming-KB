@@ -81,49 +81,8 @@ Compost improves structure, increases CEC, buffers sodium, and supports microbia
 ### Halophytes
 Species like *Salicornia*, *Atriplex* (saltbush), and *Suaeda* extract and accumulate salts. Plant during reclamation, then harvest and remove biomass to permanently extract salt.
 
-### Salt-Tolerant Cover Crops
-Barley, triticale, and tall wheatgrass tolerate moderate salinity (EC up to ~8 dS/m). They protect the surface, reduce evaporation-driven salt concentration, and add organic matter when terminated.
-
-### [[mycorrhizal-inoculation]]
-Arbuscular [[mycorrhizal-fungi]] (AMF) improve nutrient uptake under saline stress and enhance soil aggregation. Inoculate cover crop seed; most effective with organic matter present.
-
-## 5. Leaching Techniques
-
-Leaching flushes excess salts below the root zone with irrigation water.
-
-- **Leaching requirement:** Apply 15–30% excess water beyond crop ET needs, depending on irrigation water salinity.
-- Use intermittent ponding (flood irrigation) — moves salts deeper per unit of water than light sprinkling.
-- Ensure drainage exists — leaching without drainage raises the water table and spreads salinity.
-- Garden beds: flush with 2–3× soil volume in water over several sessions; redirect runoff.
-
-## 6. Step-by-Step Restoration
-
-### For Farmers (Field Scale)
-1. **Test soil** — EC, SAR, ESP, pH, texture, organic matter.
-2. **Install drainage** if water table is shallow or internal drainage is poor.
-3. **Apply gypsum** at the lab-calculated rate (based on SAR and CEC).
-4. **Deep rip** to 40–60 cm to break compaction and incorporate gypsum into subsoil.
-5. **Apply compost** at 20–50 t/ha and incorporate.
-6. **Leach** with ponded irrigation to flush salts below 60 cm.
-7. **Plant salt-tolerant cover crop** (barley, triticale) to stabilize and build organic matter.
-8. **Monitor** — re-test EC and SAR at 3, 6, and 12 months.
-9. **Transition** to cash crops once EC < 4 dS/m and SAR < 13. Expect 1–3 years for moderate cases.
-
-### For Gardeners (Small Scale)
-1. **Collect soil sample** — university extensions offer affordable salinity testing.
-2. **Improve drainage** — grade beds; add gravel or coarse sand below raised beds.
-3. **Apply gypsum** at 0.5–2 kg/m² and work into top 10 cm.
-4. **Add compost** — 5–10 cm layer, mixed in thoroughly.
-5. **Flush with water** — 2–3 volumes per soil volume over multiple sessions.
-6. **Plant salt-tolerant species** — barley, ryegrass, or native halophytes as green manure.
-7. **Mulch** heavily (5–8 cm) to reduce evaporation and salt wicking.
-8. **Retest** after 2–3 months; repeat amendments if needed.
-
-## 7. Monitoring and Timeline
-
-| Phase | Duration | Key Actions | Target Metrics |
-|---|---|---|---|
-| Assessment | Week 1–2 | [[soil-testing]], site evaluation | Baseline EC, SAR, ESP |
+### Salt-Tolerant [[mycorrhizal-inoculation]]
+Arbuscular [[soil-testing]], site evaluation | Baseline EC, SAR, ESP |
 | Physical + Chemical | Month 1–2 | Drainage, ripping, gypsum, compost | EC trending down |
 | Leaching | Month 2–4 | Ponded irrigation, drainage flow | EC < 6 dS/m in root zone |
 | Biological | Month 3–12 | Cover crops, halophytes, mulch | SAR < 13, structure improving |
@@ -144,7 +103,6 @@ Mild saline soils: 1–2 seasons. Sodic with severe compaction: 2–5 years. Sev
 ## Summary
 
 Restore saline and compacted soil systematically: **diagnose accurately, address physical barriers first (drainage, compaction), apply correct chemical amendments (gypsum for sodic, leaching for saline), support biological recovery (halophytes, cover crops, organic matter), and monitor with regular soil testing.** Prevention through good irrigation management, organic matter maintenance, and minimal tillage is far cheaper than remediation.
-
 ## See Also
 
 - [[arbuscular-mycorrhizal-fungi]]

@@ -3,19 +3,13 @@ title: Irrigation Methods
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Irrigation Methods
-# Permaculture Designers Manual - Garden [[irrigation-systems]]
+tags: [[irrigation-systems]]
 
 updated: 2026-04-18
 
 ## Overview
 
-Water use in unguarded or unsheltered garden plots is wasteful, as a 10% increase in evaporation is possible on the edges of such plots. There is no doubt that trickle, drip, or seepage irrigation is the most effective dryland garden watering method. The permaculture approach to irrigation emphasizes efficiency, water conservation, integration with [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]], and the use of [[appropriate-technology]] matched to site conditions and resources.
+Water use in unguarded or unsheltered garden plots is wasteful, as a 10% increase in evaporation is possible on the edges of such plots. There is no doubt that trickle, drip, or seepage irrigation is the most effective dryland garden watering method. The permaculture approach to irrigation emphasizes efficiency, water conservation, integration with [[appropriate-technology]] matched to site conditions and resources.
 
 ## Drip Irrigation Systems
 
@@ -110,32 +104,7 @@ These techniques prevent water loss by soil absorption and are essentially hydro
 
 ## Flood Irrigation
 
-Flood irrigation of swales, or flood and soak regimes to orchards, can be effective where water is abundant. For every irrigated orchard, there is a [[permaculture-designers-manual-ponds-and-dams]] system that provides flood irrigation capacity. A pan system (a dish that fills up and holds water) is a great help in flood-irrigated orchards.
-
-Flood irrigation under conditions that leach salt is one of two methods used to reclaim saline soils. Both methods involve either leaching salts below root zone or planting salt-tolerant species.
-
-## Sprinkler Systems
-
-Conventional sprinkler systems are the least efficient method but have their place:
-- Useful for establishing ground covers and pasture
-- Necessary for some frost protection strategies
-- Combined with pattern design (circle gardens, spiral gardens), sprinkler efficiency increases dramatically
-- A 4m row of crop needs three 1.2m sprinklers, while a circle of 0.6m radius (4m circumference) needs only one 1.2m sprinkler, saving 2/3 of water
-
-## Automatic Irrigation
-
-In areas where electronic sensors are impractical or expensive, permaculture systems use:
-- Timer taps on simple driplines
-- Float valves on tanks
-- Gravity-fed systems from elevated tanks
-- Wicking beds and self-watering containers
-- Swales and earthworks that distribute water passively
-
-## Water Sources for Irrigation
-
-Irrigation water can come from multiple integrated sources:
-- [[permaculture-designers-manual-rainwater-harvesting-detailed]]
-- [[permaculture-designers-manual-ponds-and-dams]]
+Flood irrigation of swales, or flood and soak regimes to orchards, can be effective where water is abundant. For every irrigated orchard, there is a [[permaculture-designers-manual-rainwater-harvesting-detailed]]
 - [[permaculture-designers-manual-crafts-and-income]]
 - Well or bore water
 - Stream diversion

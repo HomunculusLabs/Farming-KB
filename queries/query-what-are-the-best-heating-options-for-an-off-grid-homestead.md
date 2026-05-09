@@ -18,19 +18,7 @@ type: query
 
 | Your Situation | Best Primary Heat | Backup / Supplement |
 |---------------|-------------------|-------------------|
-| **Woodland property, [[cold-climate-permaculture-guide]]** | [[rocket-mass-heater-design]] or [[masonry-heater-design]] | Propane wall heater |
-| **Mild climate (Zone 7+), good solar access** | [[passive-solar-design]] + [[comparison-windbreak-vs-thermal-mass]] | Small woodstove |
-| **Limited firewood, sunny site** | Active solar thermal + thermal mass | Mini-split with PV |
-| **Budget build, DIY-capable** | Rocket mass heater (cob bench) | Propane radiant heater |
-| **Professional build, high budget** | Masonry heater | In-floor hydronic (solar + wood) |
-| **Mobile / tiny home** | Mini woodstove (cubic mini) | Propane or diesel heater |
-| **Very cold (Zone 3–4), high wind** | Masonry heater + passive solar | Backup generator + electric |
-
-## Heating Options Compared
-
-### 1. Rocket Mass Heater
-
-**How it works**: A J-tube [[rocket-stove]] combustion core with exhaust routed through a cob or masonry bench (thermal mass). Burns wood with 80–92% efficiency. One to two hours of burning heats a cob bench that radiates warmth for 12–24 hours.
+| **Woodland property, [[rocket-mass-heater-design]] or [[passive-solar-design]] + [[rocket-stove]] combustion core with exhaust routed through a cob or masonry bench (thermal mass). Burns wood with 80–92% efficiency. One to two hours of burning heats a cob bench that radiates warmth for 12–24 hours.
 
 **Pros**:
 - Extremely efficient — uses 25–40% of the wood a conventional woodstove requires
@@ -147,4 +135,3 @@ type: query
 |--------|--------------------|--------------|
 | Small rocket mass heater (6") | 20,000–40,000 BTU/hr | 400–800 sq ft, well-insulated |
 | Large rocket mass heater (8") | 40,000–70,000 BTU/hr | 800–1,500 sq ft |
-| Small EPA woodstove | 25,000–40,000 BTU/hr | 400–800 sq ft |

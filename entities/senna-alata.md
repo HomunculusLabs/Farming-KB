@@ -104,19 +104,11 @@ Despite these cautions, *Senna alata* has a long history of safe use in traditio
 
 ## See Also
 
-- [[senna-alexandrina]]
 - [[aloe-vera]]
-- [[rheum-palmatum]]
 - [[glycyrrhiza-glabra]]
-- [[quercetin]]
 - [[kaempferol]]
-- [[hypericin]]
 - [[forage-systems-animals-permaculture]]
-- [[agroforestry]]
 - [[companion-planting]]
-- [[silvopasture]]
 - [[robinia-pseudoacacia]]
-- [[gleditsia-triacanthos]]
 - [[chamaecrista-fasciculata]]
-- [[medicago-sativa]]
 - [[melilotus-officinalis]]

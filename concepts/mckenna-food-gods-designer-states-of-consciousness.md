@@ -92,17 +92,7 @@ beautiful, and self-fulfilling ways. This creative, connective function
 stands in direct opposition to the fragmenting, homogenizing effects
 of mass culture.
 
-## The Role of Shamanism
-
-McKenna argues that the shamanic response to the crisis of manufactured
-consciousness should be to "locate the art pedal and push it to the
-floor." This is one of the primary functions of shamanism, and it is
-tremendously synergized by the psychedelics. Art, imagination, and
-visionary experience are the antidotes to the beige fascism of consumer
-culture, and the shamanic tradition provides the techniques for
-accessing these states in a structured and purposeful way.
-
-If people are serious about what McKenna calls the [[mckenna-food-gods-archaic-revival]], then they need a new paradigmatic image that can carry them rapidly forward and through what he calls the "historical choke point" that impedes a more expansive, humane, and caring dimension of existence.
+## The Role of [[mckenna-food-gods-archaic-revival]], then they need a new paradigmatic image that can carry them rapidly forward and through what he calls the "historical choke point" that impedes a more expansive, humane, and caring dimension of existence.
 
 ## The Unsung Heroes
 
@@ -119,7 +109,5 @@ human dignity by ignoring the potential of psychedelics.
 
 ## See Also
 
-- [[mckenna-food-gods-archaic-revival]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]
-- [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]

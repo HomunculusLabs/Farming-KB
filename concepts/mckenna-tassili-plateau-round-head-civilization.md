@@ -95,33 +95,16 @@ The rock art of the Tassili n'Ajjer does not exist in isolation. Similar traditi
 The Tassili paintings also bear intriguing similarities to pre-Columbian art from the Americas, particularly the mushroom stones of Guatemala and the textile art of the Paracas and Nazca cultures of Peru. These similarities have been cited as evidence for the deep antiquity and wide geographical distribution of mushroom-based shamanism, though they could also reflect convergent cultural responses to similar psychedelic experiences.
 
 See also:
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[mckenna-psychedelic-shamanism]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[dominator-culture-and-partnership-society]]
-- [[mckenna-mushroom-stones-of-guatemala]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-ur-plant-hypothesis]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
+- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
-
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
-- [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

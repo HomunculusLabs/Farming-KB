@@ -18,39 +18,7 @@ nervous systems, they nevertheless demonstrate the ability to retain
 information about past experiences and use that information to guide future
 behavior. Plant memory operates through fundamentally different mechanisms
 than animal memory -- relying on changes in gene expression, hormonal
-signaling, and epigenetic modification [[integrate-rather-than-segregate]] synaptic plasticity --
-but the functional outcome is remarkably similar: plants remember, and
-their memories shape their lives.
-
-## Defining Memory in a Plant Context
-
-Memory, in its broadest biological sense, is the persistence of a
-stimulus-induced change beyond the duration of the stimulus itself. By
-this definition, plants clearly possess memory. A plant that has been
-exposed to drought stress retains elevated levels of abscisic acid and
-closed stomata for hours after water becomes available again. A plant
-that has experienced herbivore attack maintains heightened defensive
-readiness long after the attacker has departed. A plant that has perceived
-a period of cold retains a molecular record of that chilling that
-fundamentally alters its developmental trajectory.
-
-These examples span different timescales and involve different molecular
-mechanisms, but they share a common feature: information about a past
-event is encoded, stored, and later retrieved to influence behavior. The
-key distinction from animal memory is not the presence or absence of
-information retention but the substrate on which that retention occurs.
-
-## Short-Term Memory: Signal Persistence
-
-The simplest form of plant memory involves the persistence of biochemical
-signals beyond the original stimulus. When a plant is touched, for example,
-the calcium wave triggered by mechanosensitive ion channels takes several
-minutes to fully dissipate. During this window, the plant is in a
-sensitized state: subsequent stimuli produce amplified responses, a
-phenomenon analogous to short-term sensitization in animal neural circuits.
-
-Phytochrome signaling provides another example. As discussed in
-[[what-a-plant-knows-plant-vision-and-light-perception]],
+signaling, and epigenetic modification [[what-a-plant-knows-plant-vision-and-light-perception]],
 the phytochrome photoreceptor exists
 in two interconvertible forms: a red-light-absorbing form (Pr) and a far-
 red-light-absorbing form (Pfr). When a plant receives a flash of red
@@ -108,14 +76,7 @@ poised state ready for rapid reactivation.
 Herbivore priming operates through similar principles but involves
 jasmonic acid rather than salicylic acid signaling. Plants that have
 experienced insect feeding produce higher baseline levels of defensive
-attacks. This defense memory interacts with [[plant-olfaction-and-chemical-sensing]] between plants, as volatile
-signals from a stressed neighbor can prime the receiver's defenses.
-
-## Habituation: Learning to Ignore Irrelevant Stimuli
-
-Habituation, the simplest form of learning recognized in animal
-psychology, also occurs in plants. Repeated exposure to a stimulus that
-proves harmless leads to a diminished response over time. [[mimosa-pudica]],
+attacks. This defense memory interacts with [[mimosa-pudica]],
 famous for its rapid leaf-folding response to touch, gradually stops
 closing its leaves when touched repeatedly if no harmful consequence
 follows. This behavioral adaptation persists for days and can be
@@ -141,9 +102,6 @@ modifications that are transmitted through seeds.
 
 The implications are profound: plant populations carry a molecular record
 of ancestral environmental experiences, enabling more rapid adaptation to
-recurring stresses. This phenomenon undeniably expands our understanding
-of what plants are capable of remembering.
-
 ## See Also
 
 - [[plant-olfaction-and-chemical-sensing]]

@@ -113,11 +113,8 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[2-br-4-5-mda-entity-pihkal]]
 - [[2c-b-entity-pihkal]]
-- [[2c-c-entity-pihkal]]
 - [[2c-d-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[ariadne-entity-pihkal]] -- ARIADNE (PIHKAL #8)
 - [[b-entity-pihkal]] -- B (PIHKAL #10)

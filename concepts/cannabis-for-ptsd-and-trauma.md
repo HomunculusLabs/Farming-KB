@@ -15,25 +15,13 @@ Post-traumatic stress disorder (PTSD) is characterized by persistent re-experien
 
 ## The Endocannabinoid System and Trauma
 
-The [[cannabis-endocannabinoid-system]] plays a critical role in emotional processing and stress response. PTSD patients consistently show reduced levels of anandamide (AEA) -- the body's primary endogenous cannabinoid -- and altered CB1 receptor density, suggesting a fundamental ECS dysfunction. The CB1 receptor is heavily concentrated in the amygdala, hippocampus, and prefrontal cortex, all brain regions centrally involved in fear conditioning and emotional memory. This ECS dysfunction represents a form of clinical endocannabinoid deficiency (CED), where the body loses both its baseline regulatory capacity and its ability to mount adequate phasic responses to physiological threats.
-
-The endocannabinoid system is a bridge between body and mind, and this connection is particularly evident in PTSD, where unresolved trauma manifests simultaneously as psychological symptoms (flashbacks, hypervigilance, emotional numbing) and physical symptoms (elevated heart rate, sleep disruption, chronic pain, autoimmune flares).
-
-## Memory Extinction and Reconsolidation
-
-One of the most promising mechanisms by which cannabis may help PTSD is through facilitation of fear memory extinction. When a traumatic memory is recalled, it enters a labile state (reconsolidation window) during which it can be modified. CBD has been shown to enhance the extinction of fear memories by boosting endocannabinoid signaling in the amygdala-prefrontal cortex circuit. This is particularly relevant because PTSD patients often show impaired fear extinction -- they retain fear responses even when the original threat is no longer present.
-
-THC administered shortly after trauma exposure may also interfere with the initial consolidation of traumatic memories, though timing is critical. The ECS supports neuroplasticity -- the brain's ability to reorganize and form new neural connections -- which underlies learning, adaptation, and recovery from traumatic experiences. See [[cannabis-endocannabinoid-system]] for detailed coverage of anandamide's role in fear processing.
+The [[cannabis-endocannabinoid-system]] for detailed coverage of anandamide's role in fear processing.
 
 ## Anandamide and Fear Processing
 
 Anandamide acts as a key regulator of the fear response. When released in the amygdala, it dampens the fear signal by activating CB1 receptors, essentially providing an "emotional brake." Its emotional keyword -- "I am at ease" -- reflects its role in bliss, relaxation, and social bonding. In PTSD, this system is compromised: FAAH (the enzyme that breaks down anandamide) is often overactive, leading to anandamide deficiency. CBD inhibits FAAH, effectively raising anandamide levels and restoring the brain's capacity to modulate fear responses.
 
-Anandamide levels are boosted naturally through exercise (the "runner's high" phenomenon), meaningful social interactions, and meditation practices. The presence of corticosteroids stimulates the body's production of anandamide, which may account for the antidepressant effects of physical exercise. For PTSD patients, these natural anandamide-boosting activities may complement cannabinoid therapy. This mechanism connects PTSD directly to the broader [[cannabis-for-anxiety-disorders]] therapeutic picture.
-
-## Sleep Architecture Improvements
-
-Sleep disruption is a core feature of PTSD, characterized by nightmares, fragmented sleep, and hyperarousal during the night. THC-dominant preparations before bedtime have been shown to reduce nightmare frequency and improve sleep continuity by increasing time spent in deep (slow-wave) sleep. CBD contributes by reducing anxiety-related sleep onset difficulties. The Blesching source documents research on insomnia from Nicholson et al. (2004), showing that delta-9-THC and CBD together improved nocturnal sleep and early-morning behavior in young adults. See [[cannabis-for-sleep-disorders]] for comprehensive sleep-related applications.
+Anandamide levels are boosted naturally through exercise (the "runner's high" phenomenon), meaningful social interactions, and meditation practices. The presence of corticosteroids stimulates the body's production of anandamide, which may account for the antidepressant effects of physical exercise. For PTSD patients, these natural anandamide-boosting activities may complement cannabinoid therapy. This mechanism connects PTSD directly to the broader [[cannabis-for-sleep-disorders]] for comprehensive sleep-related applications.
 
 ## Hyperarousal Reduction
 
@@ -88,18 +76,7 @@ The Blesching framework emphasizes that healing from trauma involves both bioche
 
 ## Related
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-anxiety-disorders]]
-- [[cannabis-for-sleep-disorders]]
 - [[cannabis-for-mental-health]]
-- [[cannabis-cardiovascular-health]]
-
-## Key Sources
-
-- Blesching, U. *The Cannabis Health Index*. Sections on anxiety, insomnia, and the endocannabinoid system's role in stress response and emotional processing.
-- Witkin, J.M. et al. (2005). A role for cannabinoid CB1 receptors in mood and anxiety disorders. *Behav Pharmacol* 16(5-6):315-31.
-- Nicholson, A.N. et al. (2004). Effect of Delta-9-THC and CBD on nocturnal sleep and early-morning behavior. *J Clin Psychopharmacol* 24(3):305-13.
-- Cornell Medical Center case study on repressed emotions and hypertension (Blesching, pp. 9284-9322).
 - [[deep-relaxation-and-mind-body-healing]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
 - [[mushroom-cytokine-production-immune-activation]]

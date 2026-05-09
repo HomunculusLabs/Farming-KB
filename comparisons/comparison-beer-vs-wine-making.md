@@ -25,37 +25,6 @@ the desired balance between active brewing labor and patient aging.
 
 ## Beer Brewing
 
-[[beer-brewing-basics]]
-
-Beer brewing transforms malted grains into alcohol through a complex process
-that converts starches to fermentable sugars, then ferments those sugars with
-yeast. The two main approaches are extract brewing, which uses concentrated malt
-extract to simplify the process, and all-grain brewing, which starts from raw
-malted barley and offers complete control over flavor and ingredients. All-
-grain brewing is the natural choice for homesteaders who grow their own grains
-and hops, as it allows full use of on-farm ingredients.
-
-The brewing process involves several distinct stages. First, malted barley is
-mashed in hot water (148-158 degrees Fahrenheit) to activate enzymes that
-convert starches to sugars. The sweet liquid (wort) is separated from the grain
-bed through sparging, then boiled with hops for 60-90 minutes. Hops provide
-bitterness to balance the malt sweetness, along with flavor and aroma compounds.
-After boiling, the wort is cooled, transferred to a fermenter, and pitched with
-yeast. Primary fermentation takes 1-2 weeks, followed by conditioning for
-another 1-4 weeks depending on the style. The entire process from raw grain to
-drinkable beer typically takes 4-8 weeks.
-
-Beer brewing rewards precision and attention to detail. Water chemistry, mash
-temperature, boil duration, and fermentation temperature all profoundly affect
-the final product. The ingredient palette is broad: base malts, crystal malts,
-roasted malts, specialty malts, dozens of hop varieties, and numerous yeast
-strains all contribute to a virtually infinite combination of flavors and
-styles. This complexity makes beer brewing an engaging, creative craft, but it
-also demands more equipment (kettle, mash tun, fermenter, bottling equipment)
-and more active labor per batch than wine making.
-
-## Wine Making
-
 [[wine-making-from-grapes]]
 
 Wine making begins with pressing fruit, most commonly grapes, to extract juice
@@ -130,8 +99,5 @@ bottles) make diversifying between beer and wine practical and cost-effective.
 
 ## See Also
 
-- [[wine-cap]]
-
 - [[vinegar-making]]
-- [[tempeh-making]]
 - [[wild-fermentation-vs-cultured-yeast]]

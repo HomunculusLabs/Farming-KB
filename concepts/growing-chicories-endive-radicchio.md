@@ -75,14 +75,10 @@ Chicories are biennials. After overwintering, the plants put up tall jointed sta
 
 ## Related Concepts
 
-- [[growing-lettuce-salad-greens]]
 - [[winter-gardening-season-extension]]
-- [[david-holmgren]]
 - [[weed-management-strategies]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter on chicories
 
-- [[solomon-gardening-when-it-counts-index]]
 - [[home-garden-seed-saving]]
-- [[solomon-hybrid-vs-open-pollinated]]
 - [[solomon-growing-salad-greens]]

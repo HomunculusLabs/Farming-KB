@@ -36,22 +36,11 @@ who have attempted to characterize it.
 The practical implication is clear: specimens that have been heavily
 bruised during collection and handling will be measurably less potent
 than carefully harvested ones. This is particularly relevant for
-species high in psilocin, such as [[psilocybe-cyanescens]] and
-[[psilocybe-baeocystis]], which lose significant potency upon bruising.
-In contrast, species like [[psilocybe-semilanceata]] that are high in
-psilocybin but low in psilocin rarely bruise bluish, and their potency
-is not adversely affected by handling in the same way.
-
-## Species-Specific Bluing Patterns
-
-Different psilocybin species exhibit markedly different bluing
-behaviors:
-
-- **Strong bluing:** [[psilocybe-azurescens]] exhibits one of the
+species high in psilocin, such as [[psilocybe-baeocystis]], which lose significant potency upon bruising.
+In contrast, species like [[psilocybe-azurescens]] exhibits one of the
   strongest bluing reactions known, with flesh becoming indigo-black.
   psilocybe-cyanescens, psilocybe-baeocystis, and psilocybe--bohemica also show strong, rapid bluing.
-- **Moderate bluing:** [[psilocybe-cubensis]] bruises bluish on the
-  stem and veil. [[psilocybe-stuntzii]] is named for its blue-stained
+- **Moderate bluing:** [[psilocybe-stuntzii]] is named for its blue-stained
   partial veil. psilocybe-caerulipes (blue foot) shows variable
   bluing that may take hours to appear.
 - **Weak or absent bluing:** psilocybe-semilanceata is high in
@@ -130,12 +119,6 @@ reliable identification methods combine:
 
 ## See Also
 
-- [[stamets-psi-psilocybin-potency-comparative-scale]]
 - [[psilocybin-bluing-reaction]]
-- [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
-
-- psilocybin-potency - comparative alkaloid concentrations
-- psilocybe-azurescens - strongest bluing reaction
-- psilocybe-semilanceata - notable for not bluing
 - [[mushroom-identification]] - comprehensive identification methods
 - Galerina - deadly species that may appear to blue

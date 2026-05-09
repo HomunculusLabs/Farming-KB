@@ -87,37 +87,8 @@ Manicuring produces valuable byproducts:
 - **Table resin** - Manicure over a fine silkscreen or glass table. Scrape
   up fallen resin glands and press into blocks of hash
 - **Trim for hash** - All trimmed leaf material can be processed into
-  [[cervantes-hash-making-extracts]] using ice water
-  extraction or other methods
-
-## Harvesting Leaf Material
-
-Large fan leaves can be harvested separately before cutting the main plant.
-Cut the entire leaf including the petiole and place in paper bags (which
-breathe) rather than plastic bags (which must be left open). Store leaf bags
-at 40 to 60 percent humidity and 60 to 70 degrees F (15 to 21 degrees C).
-Stir leaves once or twice daily. Leaves should be dry to the touch in five to
-seven days and can then be frozen for ice-water hash extraction.
-
-## Automatic Trimming Machines
-
-Automatic trimmers have become increasingly popular for larger operations:
-- **Tumble trimmers** - Gently tumble buds against a grate or screen to
-  remove leaf material
-- **Vacuum-assisted trimmers** - Use suction to pull leaves away from buds
-- The vacuum hose from trimmers can be placed in a freezer; accumulated
-  resin shakes out easily after an hour of chilling
-
-## Handling Tips for Maximum Potency
-
-- Handle buds as gently as possible to avoid rupturing trichomes
-- Avoid fondling or excessive touching of buds
-- Work in a cool environment below 70 degrees F (21 degrees C) to prevent
-  essential oil volatilization
-- Keep the manicuring area well-ventilated to manage odors
-- See [[cervantes-air-quality-ventilation]] for
+  [[cervantes-air-quality-ventilation]] for
   odor control during manicuring
 
-See also: [[cannabis-advanced-growing-techniques]],
-[[cervantes-harvest-timing-trichome-ripeness]],
-[[cannabis-advanced-growing-techniques]], [[cervantes-hash-making-extracts]], [[cervantes-drying-buds-methods]]
+See also: [[cervantes-harvest-timing-trichome-ripeness]],
+[[cervantes-hash-making-extracts]], [[cervantes-drying-buds-methods]]

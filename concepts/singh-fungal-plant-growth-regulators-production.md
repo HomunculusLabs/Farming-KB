@@ -60,34 +60,9 @@ IAA production occurs through multiple biosynthetic pathways:
 - **Tryptamine pathway**: Tryptophan decarboxylation to tryptamine, followed by
   oxidative deamination to IAAld and oxidation to IAA.
 
-[[mycorrhizal-fungi]] produce IAA that stimulates lateral root formation and root
-hair elongation, expanding the absorptive surface area. In
 [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]], this root
 system enhancement increases the volume of contaminated soil accessible for
-remediation. Endophyte-produced IAA contributes to [[singh-endophytic-fungi-plant-protection-mechanisms]] by modulating plant defense responses.
-
-## Cytokinin Production
-
-Fungal cytokinins include isoprenoid types (zeatin, dihydrozeatin, iP) and,
-less commonly, aromatic types. Species of Fusarium, Penicillium, Rhizopus, and
-mycorrhizal fungi have been documented as cytokinin producers. Fungal
-cytokinins delay leaf senescence, promote cell division, and enhance nutrient
-mobilization in host plants.
-
-The concentration of fungal-produced cytokinins in plant tissues is typically
-lower than auxin levels, but cytokinins play critical regulatory roles in shoot
-development and source-sink relationships. In mycorrhizal plants, fungal
-cytokinins contribute to the "growth response" phenotype where colonized plants
-show enhanced shoot growth despite carbon costs of maintaining the symbiosis.
-
-## Ethylene Modulation
-
-Some fungi produce the ethylene precursor 1-aminocyclopropane-1-carboxylic acid
-(ACC) deaminase, which cleaves ACC to alpha-ketobutyrate and ammonia. By
-reducing ACC levels, these fungi lower ethylene production in stressed plants,
-preventing growth inhibition caused by stress-induced ethylene accumulation.
-Trichoderma species and certain endophytes possess this mechanism, linking to
-[[singh-trichoderma-biocontrol-mechanisms-applications]] and plant stress
+remediation. Endophyte-produced IAA contributes to [[singh-trichoderma-biocontrol-mechanisms-applications]] and plant stress
 amelioration.
 
 ## Biostimulant Effects and Commercial Applications
@@ -104,26 +79,6 @@ commercial products:
   phosphorus and micronutrients.
 - **Endophyte consortia**: Multi-strain endophyte inoculants for improving
   crop performance under abiotic stress, leveraging hormone production alongside
-  the mechanisms described in [[singh-endophytic-fungi-plant-protection-mechanisms]].
-
-The regulatory landscape for fungal biostimulants varies globally. In the
-European Union, plant biostimulants have a dedicated regulatory framework that
-requires characterization of active substances including phytohormone content.
-Standardization of fungal inoculant quality, viability, and efficacy remains a
-challenge for the industry.
-
-## Hormonal Crosstalk in Symbiotic Interactions
-
-Fungal phytohormone production interacts with endogenous plant hormone
-signaling in complex ways. The balance between auxin and cytokinin supplied by
-fungal partners influences root-to-shoot ratio, mycorrhizal colonization
-intensity, and resource allocation patterns. This hormonal crosstalk represents
-a molecular language through which fungi and plants negotiate the terms of
-their symbiotic relationship.
-
-## Related Concepts
-
-- [[singh-endophytic-fungi-plant-protection-mechanisms]]
-- [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
+  the mechanisms described in [[singh-endophytic-fungi-plant-protection-mechanisms]]
 - [[singh-trichoderma-biocontrol-mechanisms-applications]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]

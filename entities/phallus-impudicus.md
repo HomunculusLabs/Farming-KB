@@ -106,8 +106,6 @@ The species is not toxic but is generally avoided due to its appearance and odor
 
 ## Similar Species
 
-[[dictyophora-indusiata]] (veiled lady mushroom) is a closely related Phallaceae species with a distinctive net-like skirt (indusium).
-
 [[clathrus-archeri]] (octopus stinkhorn) has a similar foul-smelling gleba but a dramatically different star-shaped fruiting body with red arms.
 
 *Phallus hadriani* is a similar species distinguished by a purple-tinted volva and preference for sandy coastal soils.
@@ -116,10 +114,7 @@ The species is not toxic but is generally avoided due to its appearance and odor
 
 ## See Also
 
-- [[dictyophora-indusiata]] — veiled lady, bamboo fungus with edible immature stage
 - [[clathrus-archeri]] — devil's fingers, star-shaped stinkhorn
-- [[gyromitra-esculenta]] — false morel, another fungus with edibility concerns
 - [[helvella-crispa]] — elfin saddle, woodland saprotrophic ascomycete
-- [[trametes-versicolor]] — turkey tail, common wood-decomposing polypore
 - [[hugelkultur]] — permaculture technique utilizing woody debris where stinkhorns commonly fruit
 - [[mycoremediation]] — fungal decomposition applied to environmental cleanup

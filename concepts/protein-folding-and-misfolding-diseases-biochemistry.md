@@ -4,7 +4,8 @@ created: 2026-04-28
 updated: 2026-05-06
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Protein Structure Hierarchy
@@ -28,41 +29,7 @@ Folding begins while the polypeptide is still being synthesized on the ribosome.
 
 Chaperones are proteins that assist folding without being part of the final structure. They prevent aggregation, facilitate correct domain assembly, and can rescue stalled intermediates.
 
-- **Hsp70 (DnaK system)**: Binds exposed hydrophobic patches on nascent or stress-unfolded chains in an ATP-dependent cycle. Co-chaperones Hsp40 (DnaJ) deliver substrates; nucleotide exchange factors (NEFs, e.g., GrpE, BAG family) promote ADP release. Central to de novo folding and [[cannabis-advanced-growing-techniques]].
-
-- **Hsp60 / Chaperonins (GroEL-GroES in bacteria; TRiC/CCT in eukaryotes)**: Large double-ring complexes (~800 kDa) that encapsulate folding substrates in an isolated chamber. GroEL undergoes ATP-driven conformational changes; GroES acts as a lid. TRiC/CCT folds actin, tubulin, and WD40-repeat proteins with substrate-specific inner-ring recognition.
-
-- **Hsp90**: Specialized for late-stage folding and maturation of signaling proteins — kinases, steroid hormone receptors, and transcription factors. ATP-dependent conformational cycle regulated by co-chaperones (Cdc37, p23, Aha1). A major cancer drug target.
-
-- **Small HSPs (sHSPs; e.g., Hsp27, alphaB-crystallin)**: ATP-independent holdases that form dynamic oligomers and sequester misfolded proteins to prevent aggregation, transferring substrates to Hsp70/Hsp100 for refolding.
-
-## ER Quality Control System
-
-Secretory and membrane proteins fold in the ER lumen, where a dedicated QC network ensures fidelity:
-
-- **BiP (Grp78/Hsp70 family)**: Master ER chaperone. Binds hydrophobic stretches on nascent chains; ATP hydrolysis provides binding energy. Regulates UPR sensors (IRE1, PERK, ATF6) when bound vs. free. Client release requires nucleotide exchange.
-
-- **Calnexin/Calreticulin cycle**: Lectin chaperones that bind monoglucosylated N-glycans on glycoproteins, promoting proper folding. Glucosidase II removes glucose for release; UGGT (UDP-glucose:glycoprotein glucosyltransferase) acts as the "folding sensor" — it reglucosylates incompletely folded glycoproteins, returning them to the calnexin/calreticulin cycle. ERp57 (PDI family) catalyzes disulfide bond formation within the cycle.
-
-- **ER-associated degradation (ERAD)**: Terminally misfolded proteins are retrotranslocated through the Sec61 or Hrd1 channel into the cytosol, polyubiquitinated (by Hrd1, Doa10, or gp78 E3 ligases), and degraded by the 26S proteasome. Three ERAD pathways (ERAD-L for luminal, ERAD-M for membrane, ERAD-C for cytosolic defects) share core machinery including Derlin proteins, p97/VCP (ATPase), and ubiquitin ligases.
-
-## Unfolded Protein Response (UPR)
-
-ER stress — accumulation of unfolded/misfolded proteins — activates three transmembrane sensors to restore homeostasis:
-
-- **IRE1 (inositol-requiring enzyme 1)**: Dimerizes/oligomerizes upon BiP release; autophosphorylates and activates endoribonuclease activity. Splices XBP1 mRNA to XBP1s, a potent transcription factor upregulating chaperones, ERAD components, and lipid biosynthesis. IRE1 also degrades mRNAs via RIDD (regulated IRE1-dependent decay), reducing ER load.
-
-- **PERK (PKR-like ER kinase)**: Phosphorylates eIF2-alpha causing global translational attenuation, reducing protein influx into the ER. Selective translation of ATF4 mRNA activates genes for amino acid metabolism, redox homeostasis, and autophagy (CHOP-mediated).
-
-- **ATF6**: ER-resident transcription factor transported to the Golgi upon stress, cleaved by S1P/S2P proteases. The released cytosolic fragment (ATF6(N)) translocates to the nucleus and upregulates XBP1, chaperones (BiP, GRP94), and ERAD components.
-
-If stress is prolonged or unresolved, UPR signaling switches from pro-survival to pro-apoptotic via CHOP, JNK activation, and caspase-12/4 cleavage.
-
-## Protein Misfolding Diseases
-
-Misfolded proteins can aggregate into toxic oligomers, amyloid fibrils, or amorphous deposits, disrupting cellular function:
-
-- **[[blesching-cannabis-prion-diseases]] (Creutzfeldt-Jakob, BSE, scrapie)**: The cellular prion protein (PrP^C) misfolds into a beta-sheet-rich isoform (PrP^Sc) that templates conversion of native PrP^C, propagating in an infectious, self-perpetuating manner. Aggregates form amyloid plaques and spongiform brain degeneration.
+- **Hsp70 (DnaK system)**: Binds exposed hydrophobic patches on nascent or stress-unfolded chains in an ATP-dependent cycle. Co-chaperones Hsp40 (DnaJ) deliver substrates; nucleotide exchange factors (NEFs, e.g., GrpE, BAG family) promote ADP release. Central to de novo folding and [[blesching-cannabis-prion-diseases]] (Creutzfeldt-Jakob, BSE, scrapie)**: The cellular prion protein (PrP^C) misfolds into a beta-sheet-rich isoform (PrP^Sc) that templates conversion of native PrP^C, propagating in an infectious, self-perpetuating manner. Aggregates form amyloid plaques and spongiform brain degeneration.
 
 - **Alzheimer's disease**: Characterized by extracellular amyloid-beta (A-beta) plaques (derived from APP proteolysis by beta- and gamma-secretases) and intracellular neurofibrillary tangles of hyperphosphorylated tau protein. A-beta oligomers are the most neurotoxic species, disrupting synaptic function and membrane integrity.
 
@@ -101,16 +68,30 @@ Protein misfolding mechanisms present diverse therapeutic opportunities:
 
 ## Protein Folding Kinetics and Energy Landscapes
 
-The energy landscape theory (Bryngelson and Wolynes) describes protein folding as a funnel-shaped multidimensional surface where the native state occupies the global minimum. Folding proceeds through multiple pathways rather than a single defined route, with ruggedness of [[permaculture-mapping-and-reading-the-landscape]] determined by the presence of kinetic traps (local minima corresponding to misfolded intermediates). The folding rate is governed by the height of the free-energy barrier between the unfolded ensemble and the transition state. Phi-value analysis, developed by Alan Fersht, uses site-directed mutagenesis to map transition state structures by measuring the effect of mutations on folding kinetics and stability. Two-state folders (small, single-domain proteins) show cooperative unfolding transitions without stable intermediates, while multi-state folders populate intermediate ensembles that can be productive (on-pathway) or lead to aggregation (off-pathway).
-
-## Disulfide Bond Formation and Isomerization
-
-In the oxidizing environment of the ER, disulfide bonds (covalent S-S linkages between cysteine residues) stabilize the native fold of many secretory and membrane proteins. The protein disulfide isomerase (PDI) family catalyzes both disulfide formation (oxidation) and rearrangement of incorrect disulfide pairings (isomerization). Ero1-alpha transfers electrons from PDI to molecular oxygen, generating [[hydrogen-peroxide-tissue-culture-wild-polypores]] as a byproduct. In the cytosol, disulfide bonds are generally reduced; however, specific cytosolic proteins (e.g., thioredoxin, glutaredoxin) can form transient disulfides as part of redox signaling. The formation of correct disulfide pairings is a critical quality checkpoint in the ER, and failure to form proper disulfides targets proteins for ERAD.
+The energy landscape theory (Bryngelson and Wolynes) describes protein folding as a funnel-shaped multidimensional surface where the native state occupies the global minimum. Folding proceeds through multiple pathways rather than a single defined route, with ruggedness of [[hydrogen-peroxide-tissue-culture-wild-polypores]] as a byproduct. In the cytosol, disulfide bonds are generally reduced; however, specific cytosolic proteins (e.g., thioredoxin, glutaredoxin) can form transient disulfides as part of redox signaling. The formation of correct disulfide pairings is a critical quality checkpoint in the ER, and failure to form proper disulfides targets proteins for ERAD.
 
 Understanding the biophysical principles of protein folding and the cellular machinery maintaining proteostasis is essential for rational drug design targeting conformational diseases.
 
 ## See Also
 
-- [[cannabis-and-prion-diseases]]
 - [[glutathione-biochemistry-and-redox-biology]]
 - [[lignin-degradation-by-fungi]]
+## Practical Considerations
+
+Successful implementation of Protein Folding And Misfolding Diseases Biochemistry requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

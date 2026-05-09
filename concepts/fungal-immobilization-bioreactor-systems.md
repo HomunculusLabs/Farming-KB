@@ -18,13 +18,10 @@ wastewater. Rather than using free mycelia in suspension, immobilization
 techniques entrap or attach fungal biomass to solid supports, dramatically
 increasing the effective biomass concentration within reactors and enabling
 continuous or semi-continuous treatment processes. This approach is central to
-[[staycare-fungal-pellet-bioreactors-for-effluent-treatment]] and draws on principles of
 [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]].
 
-White-rot fungi such as [[staycare-trametes-versicolor-bioremediation-applications]] and
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]] produce extracellular
-ligninolytic enzymes including [[staycare-laccase-enzymes-in-bioremediation]],
-[[staycare-lignin-peroxidase-and-pollutant-degradation]], and
+White-rot fungi such as [[staycare-phanerochaete-chrysosporium-in-bioremediation]] produce extracellular
+ligninolytic enzymes including [[staycare-lignin-peroxidase-and-pollutant-degradation]], and
 [[staycare-manganese-peroxidase-in-fungal-bioremediation]] that can degrade a wide
 spectrum of recalcitrant pollutants. Immobilization allows these organisms to
 maintain high enzyme-producing biomass within reactor systems over extended

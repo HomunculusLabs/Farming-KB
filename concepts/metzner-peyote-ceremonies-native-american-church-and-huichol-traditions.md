@@ -113,7 +113,6 @@ radical difference between indigenous and Western worldviews.
 ## See Also
 
 - [[halpern-sacramental-peyote-and-native-american-church]]
-- [[keewaydinoquay-native-american-mushroom-traditions]]
 - [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 
 - Metzner Four Paradigms of Entheogenic Healing

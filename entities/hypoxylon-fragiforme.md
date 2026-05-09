@@ -109,14 +109,8 @@ Field identification is most reliable when both substrate (beech) and stroma mat
 
 ## See Also
 
-- [[hypoxylon-fuscum]]
-
 - [[fomes-fomentarius]] — Co-occurring polypore on beech wood
-- [[xylaria-polymorpha]] — Related Xylariaceae on dead wood
 - [[inonotus-obliquus]] — Another beech-associated sterile conk
-- [[fagus-sylvatica]] — Primary host tree species
-- [[armillaria-mellea]] — Competing decomposer on hardwood stumps
-- [[cortinarius-violaceus]] — Another mycorrhizal beech associate
+- [[armillaria-mellea-entity]] — Competing decomposer on hardwood stumps
 - [[stropharia-rugosoannulata]] — Cultivated saprotroph for wood chip beds
-- [[pleurotus-ostreatus]] — Cultivated alternative for beech wood decomposition
 - [[ganoderma-lucidum]] — Medicinal polypore found on similar hardwood substrates

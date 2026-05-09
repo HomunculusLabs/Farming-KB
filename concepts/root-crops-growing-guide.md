@@ -108,12 +108,8 @@ An excellent winter alternative to potatoes with all the flavor of globe articho
 **Harvesting:** Cut stems in mid-fall to leave 12in (30cm). Dig up tubers as required. Leave some in the ground to replace the crop for next season.
 ## See Also
 
-- [[growing-alliums-organically]]
 - [[soil-building-permaculture]]
-- [[crop-rotation-benefits]]
 - [[salad-crops-growing-guide]]
-- [[composting-materials-alternative]]
 - [[soil-building-permaculture]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[gaias-garden-cover-crops-soil-building]]

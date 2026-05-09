@@ -24,15 +24,7 @@ subject for investigating plant sensitivity, electrical signalling, and
 perception. Mimosa pudica's dramatic visible response to touch, its
 leaflets collapsing when disturbed, made it an ideal candidate for
 early plant electrophysiology research and later for investigations into
-the [[plant-perception]] hypothesis.
-
-## The Sensitive Plant as Research Subject
-
-Mimosa pudica's leaves are so sensitive that they collapse when touched.
-This visible response made it the plant of choice for early researchers
-investigating whether plants possessed attributes previously thought
-exclusive to animals, such as irritability, electrical signalling, and
-nervous-system-like behaviour. The [[cleve-backster-plant-perception-experiments]]
+the [[cleve-backster-plant-perception-experiments]]
 later expanded these investigations into the realm of consciousness and
 perception.
 
@@ -136,11 +128,8 @@ to acknowledge.
 
 ## Related Concepts
 
-- [[cleve-backster-plant-perception-experiments]]
 - [[plant-perception]]
-- [[tompkins-jagadis-bose-plant-response-crescograph]]
 - [[tompkins-plant-electrical-signals]]
-- [[tompkins-plant-growth-regulators]]
 - [[tompkins-plant-chemical-communication]]
 
 ## See Also

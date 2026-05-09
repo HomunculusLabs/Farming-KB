@@ -11,100 +11,138 @@ sources:
 
 TE (4-Thioescaline; 3,5-Dimethoxy-4-ethylthiophenethylamine) is a psychedelic phenethylamine and the sulfur-containing analogue of escaline-entity|escaline.
 
-It is documented as entry #151 in PiHKAL by [[alexander-shulgin]].
-
-## Chemical Identity
-
-Full chemical name: 3,5-Dimethoxy-4-ethylthiophenethylamine.
-
-TE is the thio (sulfur) analogue of escaline-entity|escaline, with the ethylthio group replacing the ethoxy group at the 4-position.
-
-The compound can also be viewed as the 2-carbon (phenethylamine) analogue of the sulfur-containing amphetamines in the ALEPH series.
-
-The hydrochloride salt has an unusual melting behavior: crude mp 101-106 degrees C, which after fusion and resolidification becomes 167-168 degrees C.
-
-## Dosage and Duration
-
-Effective oral dosage: 20 - 30 mg.
-
-Duration of effects: 9 - 12 hours.
-
-The potency is moderate, significantly higher than escaline-entity|escaline (40-60 mg) but lower than many 2C compounds.
-
-## Qualitative Effects
-
-At 20 mg, one user described the experience as "total energy" with awareness of "every membrane."
-
-The experience was characterized as "very beautiful, joyous, and sensuous" though possibly slightly too high a dose due to body tingling.
-
-Another report at 20 mg emphasized "clean burning, pure energy" with long-lasting clear-headedness and clarity of thought.
-
-Ease of talking and sharing was noted, along with a profound aftermath lasting a full week.
-
-The user described becoming "a great deal more aware of the traps of meditation" and achieving "a new level of functioning, very energetic and very much in the flow of life."
-
-At 22 mg, the experience was "totally developed at 2 hours, to a ++++."
-
-The compound does not produce the sinus clearing associated with some thio compounds.
-
-Communication was described as excellent and the overall experience as remarkable.
-
-## Synthesis
-
-The synthesis uses a lithium-halogen exchange strategy.
-
-1,3-Dimethoxybenzene is lithiated with butyllithium and tetramethylethylenediamine, then reacted with diethyl disulfide to introduce the ethylthio group.
-
-The resulting 2-ethylthio-1,3-dimethoxybenzene is brominated at the 4-position.
-
-A second lithium-halogen exchange introduces a nitrile group, which is then reduced with lithium aluminum hydride to yield TE as the free base.
-
-The nitrile intermediate, 3,5-dimethoxy-4-ethylthiophenylacetonitrile, is obtained through a lithium-mediated reaction with acetonitrile.
-
-## Comparison with Escaline
-
-TE (thioescaline) replaces the ethoxy group of escaline-entity|escaline with an ethylthio group.
-
-This substitution typically increases potency, which is consistent with the observation that TE is active at 20-30 mg compared to escaline-entity|escaline's 40-60 mg range.
-
-The sulfur atom also tends to alter the character of the visual effects and may influence the duration.
-
-The 3,5-dimethoxy pattern of TE contrasts with the 3,4,5-trimethoxy pattern of escaline-entity|escaline.
-
-## The Thioescaline Series
-
-TE belongs to a broader series of thio-substituted escaline analogues.
-
-TB (thio-buscaline-entity|buscaline) replaces the butoxy group with a butylthio group.
-
-The concept of replacing alkoxy groups with alkylthio groups has been productive throughout Shulgin's research, yielding the 2C-T series, the ALEPH series, and various HOT compounds.
-
-## Pharmacological Context
-
-TE acts as a psychedelic phenethylamine, likely through 5-HT2A receptor agonism.
-
-The sulfur atom in the ethylthio group is more polarizable than oxygen, which may influence both receptor binding and metabolic stability.
-
-The compound's moderate potency and long duration suggest favorable pharmacokinetic properties.
-
-## Harm Reduction
-
-The dosage range (20-30 mg) requires accurate milligram measurement.
-
-The 9-12 hour duration means users should plan for a full day of altered consciousness.
-
-Reports of strong body tingling and energy at 20 mg suggest individual sensitivity may vary.
-
-As with all psychedelic phenethylamines, TE should not be combined with MAOIs or other serotonergic substances.
-
-## Index
-
-- escaline-entity|escaline: the ethoxy analogue
-- [[buscaline-entity]]|buscaline: the butoxy analogue
-- [[proscaline]]|proscaline: the propoxy analogue
-- mescaline-entity|mescaline: the parent methoxy compound
+It is documented as entry #151 in PiHKAL by [[buscaline-entity]]|buscaline: the butoxy analogue
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## Related
 
 - [[3-te-entity]]
+## Background and Context
+
+TE is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

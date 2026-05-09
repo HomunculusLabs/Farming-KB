@@ -3,7 +3,7 @@ title: Fungal Treatment of Olive Mill Wastewater
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -115,16 +115,10 @@ Fermentation follows Monod kinetics on COD or TOC as substrate. Removal of pheno
 
 ## See Also
 
-- [[singh-olive-mill-wastewater-fungal-treatment]]
-
 - [[white-rot-fungi-bioremediation]]
-
-- [[enzymatic-degradation-in-mycoremediation]]
 
 - [[laccase-catalyzed-degradation]]
 
-- [[fungal-bioremediation]]
 - [[fungal-olive-mill-wastewater-treatment]]
-- [[fungal-industrial-wastewater-treatment]]
 - [[white-rot-fungi-effluent-decolorization]]
 - [[fungal-extracellular-enzyme-production]]

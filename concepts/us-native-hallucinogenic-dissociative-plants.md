@@ -14,79 +14,88 @@ John H. Halpern's 2004 review article in *Pharmacology & Therapeutics* provides 
 
 ## DMT-Containing Plants
 
-Several common US plants contain appreciable amounts of [[5-meo-dmt-compound-profile]]:
+Several common US plants contain appreciable amounts of [[beta-carboline-chemistry]] combines DMT-containing plants with MAOI-rich Banisteriopsis caapi vine, comparable preparations can theoretically be made from US-sourced plants using Peganum harmala (Syrian rue, 2-4% MAOI by dry weight, introduced to the western US) or [[psilocybin-mushrooms-and-ecology]] (*Psilocybe cubensis* and other species) grow throughout much of the United States. They are coprophagous, found on cow and horse manure from Florida through the southern Gulf States to Texas, in grain fields, and along the Pacific Northwest coastline from California into Canada.
 
-- **Phalaris arundinacea, P. tuberosa, P. aquatica** (reed canary grass) — found in fallow fields, sidewalk cracks, and lawns across the entire United States. DMT content is highly variable among strains, but high-percentage varieties are available through specialty suppliers. Simple juice extraction yields usable material.
-
-- **Desmanthus illinoensis** (prairie bundleflower) — wide American distribution as a prairie legume. Root bark contains approximately 0.34% DMT by dry weight.
-
-DMT itself is not orally active without MAOI inhibition. While Amazonian [[beta-carboline-chemistry]] combines DMT-containing plants with MAOI-rich Banisteriopsis caapi vine, comparable preparations can theoretically be made from US-sourced plants using Peganum harmala (Syrian rue, 2-4% MAOI by dry weight, introduced to the western US) or [[ololiuhqui-morning-glory-ergot-alkaloid-connection]] (passionflower, approximately 1% MAOI, growing throughout the Southeast and Midwest).
-
-## Psilocybin-Containing Mushrooms
-
-[[psilocybin-mushrooms-and-ecology]] (*Psilocybe cubensis* and other species) grow throughout much of the United States. They are coprophagous, found on cow and horse manure from Florida through the southern Gulf States to Texas, in grain fields, and along the Pacific Northwest coastline from California into Canada.
-
-The most common species, *Psilocybe cubensis*, typically contains 10-12 mg psilocybin per gram dried mushroom. Psilocybin is metabolized in the gut into [[5-meo-dmt-compound-profile]], the actual intoxicating compound. A threshold intoxication occurs at approximately 40 μg psilocybin/kg body weight; typical recreational doses range from 1-2 g dried mushroom (4-20 mg psilocybin).
-
-While the mushrooms themselves are Schedule I, spore prints remain legal in most states (except California), and cultivation supplies are widely available. The primary risk is misidentification — ingesting poisonous lookalike species.
-
-## Mescaline-Containing Cacti
-
-**Peyote** (*Lophophora williamsii*) grows in a narrow strip of desert along the Texas-Mexico border, containing approximately 1.5% mescaline by dry weight along with over 60 other alkaloids. It is consumed as fresh or dried buttons, powder, or tea. The [[peyote-ceremony-guide]] (NAC) has approximately 300,000 members and holds constitutionally protected sacramental peyote ceremonies.
+The most common species, *Psilocybe cubensis*, typically contains 10-12 mg psilocybin per gram dried mushroom. Psilocybin is metabolized in the gut into [[peyote-ceremony-guide]] (NAC) has approximately 300,000 members and holds constitutionally protected sacramental peyote ceremonies.
 
 Two South American cacti widely grown as ornamentals in the US also contain mescaline: *Trichocereus pachanoi* (San Pedro, 0.33-2.375% mescaline) and *Trichocereus peruvianus* (Peruvian torch, 0-0.82%). These are readily available from garden shops and are typically boiled into a soup for ingestion.
 
 ## Salvia divinorum
 
-[[salvia-divinorum-profile]], a member of the mint family (Lamiaceae), contains the neoclerodane diterpene salvinorin-A. Unlike most hallucinogens that act at 5-HT2A serotonin receptors, salvinorin-A is the first known naturally occurring non-nitrogenous κ-opioid receptor agonist — an entirely novel pharmacological mechanism.
-
-Traditionally consumed by Mazatec Indians of Oaxaca, Mexico by chewing fresh leaves or drinking leaf juice, the plant is now widely grown and sold in the US. Smoked salvinorin-A is psychoactive for approximately 15 minutes at doses of 200-500 μg. The DEA has monitored it as a potentially emerging drug of abuse. Related Lamiaceae plants including *Coleus blumei* and *Coleus pumilus* are chewed as substitutes by Mazatec practitioners.
-
-## LSA-Containing Plants
-
-Lysergic acid amide (LSA, ergine) is found in seeds of several common plants:
-
-- **Argyreia nervosa** (Hawaiian baby woodrose) — 0.14% LSA by dry weight of seeds. Five to ten seeds yield an average hallucinogenic dose.
-
-- **Ipomoea violacea** (morning glory) — 0.02% LSA by dry weight. One hundred fifty to two hundred seeds (3-6 g) provide an effective dose. Historically used in Central American shamanic ceremonies.
-
-- **Stipa robusta** (sleepygrass) — grows in the US Southwest and contains the highest LSA concentrations known, though it has no history of shamanic use.
-
-Commercial morning glory seeds are typically coated with emetic poisons to discourage ingestion. LSA provides a 4-8 hour intoxication with both quantitative and qualitative differences from [[lsd-compound-profile]].
+[[lsd-compound-profile]].
 
 ## Anticholinergic Plants
 
-Atropine and scopolamine are found in several [[datura-metel-old-world-ethnobotany]] plants growing wild throughout most of the US:
-
-- *Datura stramonium* (Jimson weed) — wild throughout the US except Wyoming and Alaska
-- *Atropa belladonna* (deadly nightshade)
-- *Hyoscyamus niger* (henbane)
-- *Mandragora officinarum* (mandrake)
-
-These are competitive antagonists of muscarinic cholinergic receptors and central nervous system depressants. In overdose they produce toxic delirium marked by anterograde amnesia, confusion, hallucinations, and an excited affect. Intoxication can last for days, and overdose can be lethal. Their frightening adverse profile generally precludes common recreational use, though they have a history of [[european-witchcraft-hallucinogenic-plants]] among Native American and other indigenous peoples.
+Atropine and scopolamine are found in several [[european-witchcraft-hallucinogenic-plants]] among Native American and other indigenous peoples.
 
 ## Amanita Species
 
-[[amanita-muscaria-pharmacology-dosing-guide]] (fly agaric) and *Amanita pantherina* (panther cap) contain muscimol (a GABA receptor agonist) and ibotenic acid (an excitatory amino acid at glutamate receptors). Effects range from sedation to powerful hallucinations, slurred speech, nausea, and deep sleep. Ibotenic acid decarboxylates to muscimol during drying, and most ibotenic acid is excreted unmetabolized into urine — historically, intoxication occurred through drinking the urine of someone who consumed the mushrooms.
-
-The primary risk is misidentification: deadly poisonous species such as *Amanita phalloides* (death cap) grow in close proximity.
-
-## Sacramental Religious Use
-
-Halpern's review documents the legal landscape surrounding religious use of these plants. The NAC has federally protected rights for Native American peyote use, grounded in treaty obligations rather than religious freedom law. Two Brazilian-origin religions — the Santo Daime and Uniao do Vegetal (UDV) — syncretize Christianity with [[ayahuasca-preparation-and-ceremony]] use and are actively seeking legal protection in US courts.
+[[ayahuasca-preparation-and-ceremony]] use and are actively seeking legal protection in US courts.
 
 The UDV obtained a preliminary injunction barring DEA enforcement against their sacramental use, arguing that prosecution amounts to religious persecution. This raises the prospect that the US may need to accommodate a hallucinogen-using religion open to all citizens — a significant expansion beyond the racially delimited NAC exemption.
 
 ## Public Health Implications
 
-Halpern argues that drug education should expand to cover these botanical sources, many of which can be located by determined individuals growing wild or in gardens. While recreational abuse of most reviewed plants remains minimal compared to cocaine or opiates, the rise of [[salvia-divinorum-profile]] illustrates how a shamanic tool can become harmful when used outside cultural context. The Internet has dramatically accelerated dissemination of identification and preparation information.
-
-## See Also
-
-- [[mescaline-peyote-and-san-pedro-guide]]
-- [[mescalero-apache-peyote-use]]
-- [[ethnomycology]]
+Halpern argues that drug education should expand to cover these botanical sources, many of which can be located by determined individuals growing wild or in gardens. While recreational abuse of most reviewed plants remains minimal compared to cocaine or opiates, the rise of [[mescaline-peyote-and-san-pedro-guide]]
 - [[datura-metel-old-world-ethnobotany]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[richard-evans-schultes-updated]]
 - [[hallucinogenic-mushrooms-european-trends]]
+## Practical Considerations
+
+When working with US-Native Hallucinogenic and Dissociative Plants, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

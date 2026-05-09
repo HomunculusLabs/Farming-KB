@@ -92,13 +92,9 @@ Rather than raising all transplants at once, stagger your sowings:
 
 ## Related Concepts
 
-- [[solomon-seed-starting-transplanting]]
 - [[weed-management-strategies]]
-- [[solomon-complete-organic-fertilizer-guide]]
 - [[growing-globe-artichokes]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapters 4-5
-- [[solomon-gardening-when-it-counts-index]]
 - [[soil-preparation-organic-gardens]]
-- [[garden-care-and-succession-planting]]
 - [[root-competition-plant-spacing-solomon]]

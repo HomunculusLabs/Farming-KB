@@ -62,65 +62,32 @@ JADAM's two greatest inventions are:
 
 Other major inputs include:
 
-- [[jadam-microbial-solution-jms-preparation-and-use]]
-  (JMS): Microorganism solution from leaf mold
 - [[jadam-herb-solution-jhs]] (JHS): Boiled herb extracts
   for insect control
-- [[jadam-liquid-fertilizer]]: Made without sugar or
-  molasses, using wild grass fermentation
 - [[jadam-mineral-water-jmw]] (JMW): Mineral extraction
   from leaf mold and rocks
-- [[jadam-water-softener]] (JWS): Machine that converts
-  hard water to soft for pesticide applications
-
-## Pesticide Programs
-
-JADAM has developed targeted natural pesticides for:
-- Aphids and mites
-- Tobacco moths and armyworms
-- Stinkbugs and thrips
-- Fungal diseases (powdery mildew, downy mildew)
-- Canker and leaf spot
-- Slugs and snails
-- Rice bakanae disease
-
-These are combined into systematic pesticide programs:
-JHS pesticide (JHS + JWA), JMS pesticide (JMS + JWA),
-JMS-JHS pesticide (JMS + JHS + JWA), and the universal
-JADAM Natural Pesticide (JNP: JWA + JS + JHS).
-
-## Soil Management
-
-JADAM emphasizes [[jadam-soil-management-without-tillage]]
-and [[jadam-cover-crop-method]] as foundational practices.
-The system rejects unnecessary tillage, promotes
-[[jadam-leaf-mold-soil-method]] as ideal soil, and uses
-[[jadam-wild-grass-management]] as a resource rather than
-treating it as an enemy.
-
-## Economic Impact
-
-JADAM has been proven by thousands of farms across Korea.
-With nearly 60,000 members and workshop graduates, the
-network continues to expand internationally. The system
-has thrived for nearly thirty years, demonstrating that
-ultra-low-cost organic farming is not only possible but
-practical and scalable.
-
-## Global Expansion and Vision
-
-JADAM's methods have spread beyond Korea through
-workshops, books, and online resources at en.jadam.kr.
-Cho's vision is that all farmers of the world will network,
-share knowledge, and advance ultra-low-cost agriculture
-together. The system is not static but constantly evolving
-through farmer experimentation and feedback.
-
-## See Also
-
-- [[jadam-microbial-solution-jms-preparation-and-use]]
-- [[jadam-ultra-low-cost-agriculture]]
+- [[jadam-soil-management-without-tillage]]
+and [[jadam-leaf-mold-soil-method]] as ideal soil, and uses
+[[jadam-microbial-solution-jms-preparation-and-use]]
 - [[jadam-soil-management-principles]]
-- [[korean-natural-farming]]
 - [[jadam-oriental-herb-nutrient]]
 - [[jadam-ultra-low-cost-philosophy]]
+## Practical Considerations
+
+Successful implementation of JADAM Farming Method requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -10,7 +10,7 @@ sources:
 
 # Pine Blight and Matsutake as Portent of Desertification
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] presents pine blight and the decline of the matsutake mushroom as a case study in how human interference with natural systems cascades into ecological collapse. He frames these phenomena as portents of broader [[desertification]].
+In *The Road Back to Nature*, [[desertification]].
 
 ## Pine Blight: A Case Study of Nature under Attack
 
@@ -27,14 +27,7 @@ Fukuoka elevates pine decline from a forestry problem to a civilizational warnin
 
 - Pine death is not an isolated phenomenon but a symptom of systemic ecological collapse
 - The same patterns of soil degradation and vegetation loss that killed the pines are at work across entire landscapes
-- Pine forests are the last defense against [[desertification]]; when they die, desertification accelerates
-- The connection between pine health and fukuoka pine blight matsutake portent is direct
-
-## Artificial Cultivation of the Matsutake
-
-The decline of the matsutake mushroom is particularly significant:
-
-- Matsutake grows only in association with living pine roots — it is a [[ectomycorrhizal-fungal-ecology]]
+- Pine forests are the last defense against [[ectomycorrhizal-fungal-ecology]]
 - When the pines die, the matsutake disappears
 - Fukuoka told the California forestry director that "a single matsutake mushroom fetched a higher price than a large log"
 - This economic observation illustrates the hidden value of intact ecosystems
@@ -53,11 +46,10 @@ Fukuoka critiques both Japanese and American scientific explanations:
 For Fukuoka, pine blight exemplifies a broader pattern:
 
 - Modern forestry practices (clear-cutting, monoculture replanting) have weakened forest ecosystems
-- [[fukuoka-critique-modern-agriculture]] has degraded the soil biology that supports tree health
-- The loss of [[lowenfels-earthworms-soil-food-web]] diversity removes natural disease suppression
+- [[lowenfels-earthworms-soil-food-web]] diversity removes natural disease suppression
 - The pine-matsutake relationship, once a model of ecological partnership, is breaking down
 
-See also: [[fukuoka-pine-blight-matsutake-research]], [[fukuoka-pine-blight-matsutake-research]], [[fukuoka-america-drying-up]], [[fukuoka-desert-succession-ecology]]
+See also: [[fukuoka-pine-blight-matsutake-research]], [[fukuoka-desert-succession-ecology]]
 
 ## Key Points
 
@@ -69,7 +61,7 @@ See also: [[fukuoka-pine-blight-matsutake-research]], [[fukuoka-pine-blight-mats
 
 ## See Also
 
-[[fukuoka-pine-blight-matsutake-research]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]]
+[[fukuoka-machine-culture-doomed]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-no-weeding-no-pesticides]]
 
 ## Practical Applications
 

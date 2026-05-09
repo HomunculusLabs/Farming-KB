@@ -119,11 +119,9 @@ when proper formulas are chosen.
 
 ## See Also
 
-- [[cotter-oyster-mushroom-cultivation]]
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-- [[medicinal-mushroom-guide-oyster]]
+- [[biological-efficiency]]
 
-- Oyster Post-Harvest Handling
-- Oyster Mushroom Nutrition
-- Oyster Fruiting Conditions
-- Oyster Mushroom [[biological-efficiency]]
+## See Also
+
+- [[mushroom-storage-and-processing-methods]]

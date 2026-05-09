@@ -116,8 +116,6 @@ crops in the warmest spots and using cold-hardy crops in cooler areas.
 
 ## Related Concepts
 
-- [[solomon-choosing-seeds-and-catalogs]]
 - [[solomon-vegetable-varieties-self-sufficiency]]
-- [[winter-gardening-season-extension]]
 - [[solomon-crop-rotation-and-garden-planning]]
 - [[solomon-harvesting-techniques-and-timing]]

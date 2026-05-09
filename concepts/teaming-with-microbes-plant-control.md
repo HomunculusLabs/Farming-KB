@@ -10,11 +10,7 @@ sources:
 
 # Teaming with Microbes — Plants Control the Soil Food Web
 
-In *Teaming with Microbes*, one of the book's most revolutionary claims is that plants are in control of the [[lowenfels-earthworms-soil-food-web]] — not the other way around. This inverts the conventional understanding of the plant-soil relationship.
-
-## Root Exudates
-
-The mechanism of plant control is [[solomon-root-exudates-and-allelopathy]]:
+In *Teaming with Microbes*, one of the book's most revolutionary claims is that plants are in control of the [[solomon-root-exudates-and-allelopathy]]:
 - A great deal of the energy from photosynthesis is used to produce chemicals secreted through roots
 - Exudates include carbohydrates (sugars) and proteins
 - Their presence "wakes up, attracts, and grows specific beneficial bacteria and fungi"
@@ -31,9 +27,9 @@ The rhizosphere is the zone of interaction:
 ## The Microbial Loop
 
 The process works as a cycle:
-1. Plants produce exudates that attract [[teaming-with-microbes-overview]] and [[teaming-with-microbes-overview]]
+1. Plants produce exudates that attract [[teaming-with-microbes-overview]]
 2. Bacteria and fungi absorb nutrients (including nitrogen) and immobilize them in their bodies
-3. [[teaming-with-microbes-overview]] and [[teaming-with-microbes-overview]] eat the bacteria and fungi
+3. [[teaming-with-microbes-overview]] eat the bacteria and fungi
 4. They digest what they need and excrete the excess as plant-available nutrients
 5. Plant roots absorb these mineralized nutrients right in the rhizosphere
 
@@ -61,11 +57,7 @@ If plants control the soil food web, then:
 - Healthy soil food webs make plants less stressed and more disease-resistant
 - The organisms in the soil food web "will do most of the work of maintaining plant health"
 
-See also: [[root-exudates]], [[teaming-with-microbes-overview]], [[soil-food-web-structure]], rhizosphere
-
-## See Also
-
-[[teaming-with-microbes-bacteria]], [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-protozoa]], [[teaming-with-microbes-compost-mulch-tea]], [[teaming-with-microbes-classic-soil-science]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fungi]]
+See also: [[teaming-with-microbes-overview]], [[teaming-with-microbes-bacteria]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-compost-mulch-tea]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fungi]]
 
 ## Practical Applications
 

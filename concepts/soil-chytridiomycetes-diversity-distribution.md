@@ -16,18 +16,7 @@ type: concept
 
 # Soil Chytridiomycetes
 
-[[chytrid-fungi-guide]] are distributed widely in soils from the Arctic
-to the tropics and appear abundantly in soils when specialized
-enrichment methods are used to detect them (Gaertner 1954;
-Sparrow 1960; Booth and Barrett 1976; Powell 1993). Despite
-their ubiquity, chytrids remain among the most understudied
-groups of soil fungi, largely because their microscopic size and
-motile zoospore stage require specialized techniques for
-detection and isolation.
-
-## Taxonomic Position
-
-The [[chytridiomycota-phylogeny-diversity]] are the only
+[[chytridiomycota-phylogeny-diversity]] are the only
 true fungi that produce motile flagellated cells (zoospores)
 at some stage in their life cycle. This characteristic
 distinguishes them from all other fungal phyla and reflects
@@ -70,53 +59,11 @@ ecosystems.
 ## Ecological Roles
 
 Soil chytrids play several important ecological roles within the
-broader context of [[fungal-biodiversity-in-soil-ecosystems]]:
-
-- Decomposition: Many soil chytrids are saprotrophic,
-  decomposing plant debris, pollen grains, and other organic
-  materials. Their zoospores are chemotactic, swimming toward
-  nutrient sources in soil water films
-
-- Parasitism: Some chytrids are parasites of other fungi,
-  algae, or soil invertebrates. These parasitic chytrids can
-  influence populations of their hosts and contribute to
-  [[fungal-competition-respiration-decomposition]] dynamics
+broader context of [[fungal-competition-respiration-decomposition]] dynamics
 
 - Nutrient cycling: By decomposing recalcitrant substrata
   such as chitin, keratin, and cellulose, chytrids contribute
-  to [[fungal-enzyme-systems-and-nutrient-cycling]] in soils
-
-- Food web connections: Chytrid zoospores and thalli serve as
-  food for soil microfauna, including nematodes and protozoa,
-  linking fungal production to higher trophic levels
-
-## Detection and Isolation Methods
-
-Specialized methods are required to detect soil chytrids because
-they are not recovered by standard dilution-plating techniques
-used for other soil fungi. The most effective approaches include:
-
-- Baiting techniques: Substrata such as pollen grains,
-  chitin, cellulose, or insect exuviae are placed in soil
-  samples or soil-water suspensions. Chytrid zoospores
-  are attracted to and colonize the baits, which are then
-  examined microscopically for characteristic sporangia
-  and rhizoids
-
-- Direct examination: Soil-water suspensions are examined
-  under the microscope for motile zoospores or attached
-  thalli. This method is labor-intensive but reveals
-  active chytrid populations
-
-- Selective enrichment: Soil samples are baited with
-  specific substrata under controlled moisture and
-  temperature conditions to favor growth of particular
-  chytrid species
-
-## Relationship to Other Soil Fungi
-
-Chytrids represent a distinct component of the
-[[soil-fungal-community-composition]] that is missed by most
+  to [[soil-fungal-community-composition]] that is missed by most
 standard isolation methods. Their unique zoospore-based
 reproduction and dispersal strategy sets them apart from
 the mitosporic fungi and ascomycetes that dominate most
@@ -126,19 +73,7 @@ obtaining complete pictures of soil fungal diversity.
 
 ## Conservation and Research Needs
 
-[[fungal-biodiversity-overview]] highlights that soil chytrids are among the most poorly known components of
-soil biodiversity. The development of molecular techniques,
-particularly environmental DNA sequencing, has begun to
-reveal their true diversity, which likely far exceeds the
-number of described species. Systematic surveys using both
-traditional baiting methods and molecular approaches are
-needed to document chytrid diversity across ecosystems.
-
-## See Also
-
-- [[chytridiomycota-phylogeny-diversity]]
-- [[soil-fungal-community-composition]]
+[[chytridiomycota-phylogeny-diversity]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-parasites-predators-rotifers-invertebrates]]
 - [[biodiversity-of-fungi-saprobic-soil-fungi]]

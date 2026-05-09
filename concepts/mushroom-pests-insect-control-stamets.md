@@ -1,7 +1,7 @@
 ---
 title: Mushroom Pests and Insect Control
 created: 2026-04-26
-tags: [mycology, mushroom-cultivation, pests, integrated-pest-management, stamets]
+tags: [[mycology, mushroom-cultivation, pests, integrated-pest-management, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -15,18 +15,7 @@ in mushroom culture. Mushroom flies and midges are present wherever fungi
 are found in nature, attracted by the odor of decomposing matter and
 growing mycelium. Their larvae cause the most extensive damage, either by
 feeding on mycelial cells or tunneling through fruitbodies. A commercial
-mushroom farm is always under siege by these pests. For [[growing-gourmet-spawn-laboratory-design]]
-considerations related to pest prevention, see that page.
-
-Stamets emphasizes that insecticides are not recommended -- they are costly,
-hazardous to human health, and represent a short-term fix rather than a
-solution. The answer to pest control in mushroom growing is **strict
-hygiene**, for which there can be no substitute.
-
-## General Fly Control Measures
-
-1.  **Pasteurization** must be sufficient to kill all insect stages --
-    140°F for 2 hours in composts or bulk substrates. See [[cultivator-compost-preparation-phase-methods]]
+mushroom farm is always under siege by these pests. For [[cultivator-compost-preparation-phase-methods]]
     for proper pasteurization protocols.
 2.  **Airtight rooms** — Phase II, spawning, spawn running, and cropping
     rooms must be sealed. Spawn running rooms should be the most secure,
@@ -124,18 +113,7 @@ bacterial infections; known carrier of mites.
 Spider-like arthropods living in decomposing vegetable matter. Optimum
 breeding: moist and warm conditions. Certain mites can transform into a
 dispersal stage called **hypopus** -- flattened body with a sucker plate
-for attaching to moving objects (especially flies). The [[falconer-mushroom-insect-enemies]]
-literature provides additional detail on mite identification and control.
-
-### Key Species
-
--   **Straw Mites** (*Tyrophagus putrescentiae*) — soft, pinkish/yellowish,
-    500 eggs per female lifetime. Feed on molds and mycelium.
--   **Long-Legged Mushroom Mite** (*Linopodes antennaepe*) — predatory on
-    other mite species; not directly injurious.
--   **Mushroom Loving Mite** (*Tarsonemus myceliophagus*) — 180-190 microns,
-    causes reddish-brown stem discoloration. Survives normal pasteurization
-    temperatures. Can carry virus disease to *[[agaricus-brunnescens]]*.
+for attaching to moving objects (especially flies). The [[agaricus-brunnescens]]*.
 -   **Red Pepper Mites** (*Pygmephorus* sp.) — 250 microns, swarming
     masses on caps or casing. Associated with *Penicillium* and
     *Trichoderma* molds, upon which they feed.
@@ -147,3 +125,5 @@ literature provides additional detail on mite identification and control.
 | Egg        |    6    |   11    |
 | Larva      |    2    |    8    |
 | Protonymph |    2    |    6    |
+
+See also: [[mushroom-cultivation-fundamentals]]

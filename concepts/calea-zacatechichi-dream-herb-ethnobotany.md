@@ -5,7 +5,8 @@ tags: [ethnobotany, hallucinogenic-plants, oneirogen, mexico, chontal,
   compositae, traditional-medicine, schultes]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -134,9 +135,6 @@ dream research and consciousness studies.
 
 ## See Also
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
-- [[golden-guide-salvia-divinorum-and-diviner-sage]]
 - [[golden-guide-coleus-and-other-mild-psychoactives]]
-- [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]
 - [[tangerine-dream]]

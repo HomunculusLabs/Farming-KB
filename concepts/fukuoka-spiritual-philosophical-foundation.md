@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[fukuoka-living-soil]]'s farming method is inseparable from his philosophical and spiritual worldview. His approach to [[fukuoka-natural-vegetable-growing]] exemplifies these [[williams-pdc-permaculture-ethics-and-principles-in-practice]]. Unlike most agricultural reformers who offer improved techniques, Fukuoka presented a complete worldview that challenges the foundations of modern civilization. His [[natural-farming-guide-permaculture-design-for-small-holdings]] is not a technique but a way of life rooted in an understanding of the relationship between humanity and nature.
+[[fukuoka-natural-vegetable-growing]] exemplifies these [[natural-farming-guide-permaculture-design-for-small-holdings]] is not a technique but a way of life rooted in an understanding of the relationship between humanity and nature.
 
 ## The Moment of Insight
 
@@ -58,29 +58,7 @@ This reasoning is circular: it analyzes what already exists and calls the analys
 
 Fukuoka uses the parable of the blind men and the elephant to illustrate the problem:
 - Each blind man touches a different part of the elephant and believes he understands the whole
-- Similarly, each agricultural scientist studies one aspect (soil, breeding, [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]) and believes he understands farming
-- "The whole is greater than the sum of its parts"
-- No matter how many fragmentary laws are collected, they can never equal the great source principle
-
-### Inductive vs. Deductive Reasoning
-
-Fukuoka contrasts two approaches to agricultural knowledge:
-
-**Inductive (scientific):** Observe many facts, draw general propositions, apply as standards
-- Can only analyze what already exists, not create something new
-- Produces standards useful only for explaining results after the fact
-- Cannot predict next year's growing conditions
-- Results in "aimless wandering" because causal relationships are too entangled
-
-**Deductive (Fukuoka's):** Form broad conclusions from intuitive understanding, draw narrow conclusions for specific circumstances
-- Based on a holistic understanding of nature's principles
-- Adapted to specific time and place
-- Does not require exhaustive analysis of individual factors
-- Starts from the whole and works toward the parts
-
-### The Principle of Non-Causality
-
-Fukuoka's most radical philosophical position: causality does not exist [[fukuoka-textdoc-no-cause-and-effect-in-nature]].
+- Similarly, each agricultural scientist studies one aspect (soil, breeding, [[fukuoka-textdoc-no-cause-and-effect-in-nature]].
 
 "Viewed up close, organic causal relationships can be resolved into causes and effects, but when examined holistically, no effects and causes are to be found. There is nothing to get ahold of, so all measures are futile."
 
@@ -119,31 +97,4 @@ Fukuoka distinguishes between two types of knowledge:
 - Categorizes, classifies, and distinguishes
 - Creates distinctions between crop and weed, beneficial and harmful
 - Leads to action -- intervention, control, manipulation
-- Moves away [[fukuoka-learning-about-nature-distances-one-from-nature]] toward "somethingness"
-
-**Non-discriminating knowledge (the knowledge of nature):**
-- Sees wholeness and interconnectedness
-- Recognizes that distinctions are artificial
-- Leads to non-action -- allowing nature to take its course
-- Moves toward nature, toward "nothingness"
-
-## The Cultural Critique
-
-Fukuoka extended his critique beyond agriculture to modern civilization:
-
-- **Japan's Basic Agriculture Law of 1961** prioritized efficiency over food self-sufficiency, leading to food self-sufficiency below 30%
-- Mechanization displaced farmers from the land, destroying rural communities
-- The shift from food production to "starch production" reduced rice from a sacred gift to a commercial commodity
-- Modern education produces specialists who can only see parts, never the whole
-- The profit motive corrupts everything it touches, including farming
-
-## The Role of the Farmer
-
-In Fukuoka's vision, the farmer's role is fundamentally different from the modern conception:
-
-- The farmer is not a producer but a participant in nature's processes
-- The farmer does not grow crops; nature does
-- The farmer's work is "service to God" -- gratitude and participation, not production and control
-- The ideal farmer does less and less as the farm becomes more self-sustaining
-## See Also
-- [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
+- Moves away [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]

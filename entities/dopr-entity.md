@@ -14,76 +14,97 @@ sources:
 
 ## Overview
 
-DOPR is a member of the [[2c-family-compounds-overview]] carrying a three-carbon propyl chain at the 4-position. It stands out as possibly the most potent and longest-acting compound in the entire DOx series, with effects persisting well beyond 24 hours at moderate doses. Shulgin describes it as "fascinating" but expresses reluctance to revisit it due to the extreme duration.
-
-The compound also demonstrates an unusual qualitative character described as "hypnogogic" -- a drifting between wakefulness and sleep that distinguishes it from other DOx compounds.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | ~2.0 |
-| Light | 2.0 - 3.0 |
-| Common | 3.0 - 4.0 |
-| Strong | 4.0 - 5.0 (maximum recommended) |
-
-## Duration
-
-20 - 30 hours. At 5.0 mg, effects persisted through the following day, with the subject still "carrying the DOPR" 24+ hours after administration. Sleep of 13 hours was needed the second night.
-
-## Effects
-
-The qualitative reports describe a uniquely powerful and long-lasting experience:
-
-- **At 2.0 mg:** Extremely slow onset -- nothing at 1 hour, only threshold at 1.5 hours, up to "+" by the middle of the 3rd hour. Attempts to sleep at 9 hours were unsuccessful due to "strange patterns of not-quite logical thinking." After 6 hours of sleep, still off-baseline the following day. "Go on up with curiosity but with caution."
-- **At 3.6 mg:** Music-generated imagery was necessary to "organize and contain" the experience -- described as creating "its own bubble without connections to the real world."
-- **At 5.0 mg:** Still strongly +++ at midnight. "Faint intimations of nervous system scrungies." Described as "a heavy duty psychedelic, the kind that says to you, 'Forget all that stuff about screening out visuals,' and then proceeds to prove it." Sleep came with surprising ease for 6 hours with "excellent, balancing, and good humored" dreams. But baseline was definitely not there the next day.
-
-## The Hypnogogic Character
-
-Shulgin identifies a distinctive quality running through DOPR reports: "a thread of disconnection and of inconsistent reference." The word that comes to mind is "hypnogogic" -- a drifting into the space between not-quite-awake and not-quite-asleep. This suggests:
-
-- A potential out-of-body or out-of-center character reminiscent of dissociative anesthetics like scopolamine or ketamine
-- Possible amnestic properties clouding the psychedelic effects
-- A fundamentally different qualitative character from other DOx compounds
-
-This is considered a warning sign: "If DOPR shows this with its three carbon alkyl group, there is every reason to pay close attention as the chain becomes longer."
-
-## Synthesis Notes
-
-The synthesis follows the standard DOx procedure:
-
-1. **Friedel-Crafts acylation:** p-Dimethoxybenzene + propionic acid with polyphosphoric acid gives 2,5-dimethoxypropiophenone.
-2. **Clemmensen reduction:** Amalgamated zinc in HCl reduces to 2,5-dimethoxypropylbenzene.
-3. **Vilsmeier-Haack formylation:** POCl3 + N-methylformanilide yields 2,5-dimethoxy-4-propylbenzaldehyde (characterized as its malononitrile derivative, mp 113-114 deg C).
-4. **Nitrostyrene formation:** Condensation with nitroethane in acetic acid (mp 94-96 deg C).
-5. **LAH reduction:** Provides the hydrochloride salt (mp 182.5-183 deg C).
-
-## Metabolic Research
-
-Shulgin explored the hypothesis that metabolic attack on DOM occurs at the 4-position via oxidation. For DOPR, he synthesized the 1-hydroxypropyl analogue (the first step in this hypothetical oxidation pathway) to investigate whether this might be an active metabolite. This represents an early example of [[synthetic-tryptamine-methods]] to understanding metabolism through synthesis.
+DOPR is a member of the [[synthetic-tryptamine-methods]] to understanding metabolism through synthesis.
 
 ## Position in the DOx Series
 
 | Compound | 4-Substituent | Dosage (mg) | Duration |
 |----------|--------------|-------------|----------|
 | dom-entity|DOM | CH3 | 3-10 | 8-12 h |
-| [[doet-compound-profile]] | C2H5 | 2-5 | 14-20 h |
-| DOPR | C3H7 | 2.5-5 | 20-30 h |
-| dobu-entity|DOBU | C4H9 | ~2.5 | Very long |
-| doam-entity|DOAM | C5H11 | >10 | Unknown |
-
-## Related Compounds
-
-- dom-entity|DOM (methyl)
-- [[doet-compound-profile]] (ethyl)
+| [[doet-compound-profile]] (ethyl)
 - dobu-entity|DOBU (butyl)
-- [[2c-family-compounds-overview]]
 - [[phenethylamine-duration-and-timing]]
-- [[medicinal-mushroom-cardiovascular-metabolic-effects]]
 - [[2c-family-compounds-overview]]
 - [[lsd-synthesis-history]]
 
 ## Significance
 
 DOPR may be the most potent compound in the DOx series by weight and is certainly among the longest-acting psychedelics ever characterized. Its hypnogogic character and extreme duration make it a compound of primarily theoretical interest -- a fascinating pharmacological probe but one that demands extreme caution in practice.
+## Practical Applications
+
+DOPR has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+DOPR. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

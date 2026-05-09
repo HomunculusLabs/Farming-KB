@@ -104,10 +104,8 @@ Standard organic certification requires 120 days between application of raw manu
 
 Ingham's overall stance: "Healthy respect for microbes, yes, but we can keep them in control by managing their habitat." The key is maintaining aerobic conditions, using quality compost, and testing periodically. There is no need for "paranoia or fear" — but there IS need for knowledge and vigilance.
 
-See also: [[aact-definitions-and-types-ingham]], [[aact-aeration-oxygen-management-ingham]], [[compost-quality-standards]], [[compost-tea-aact]]
-- [[ingham-weed-control-through-biology]]
+See also: [[aact-aeration-oxygen-management-ingham]], [[compost-tea-aact]]
 - [[compost-biology-soil-food-web-inoculation]]
-- [[aact-compost-quality-standards-ingham]]
 - [[teaming-with-microbes-plant-control]]
 
 ## Practical Context
@@ -132,8 +130,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[elaine-ingham]]
 - [[composting]]
-- [[aact-compost-quality-standards-ingham]]
 - [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
 - [[ingham-coli-compost-tea-food-safety]]

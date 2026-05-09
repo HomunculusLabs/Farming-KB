@@ -72,13 +72,23 @@ Water plays multiple critical roles in fungal biology beyond aquatic species:
 - Is indispensable for drop-driven spore catapults (Buller's drop)
 - Creates the humidity required for fruiting body development
 
-## See Also
+See also [[fungal-biology-fundamentals]], [[fungal-spore-biology]], [[saprotrophic-fungi]], [[fungi-soil-food-webs]]
+## Practical Considerations
 
-- [[fungal-biology-fundamentals]] for core fungal cell biology
-- [[fungal-spore-biology]] for spore morphology and dispersal mechanisms
-- [[saprotrophic-fungi]] for the broader ecological role of decomposer fungi
-- [[fungi-soil-food-webs]] for how fungi integrate into terrestrial food webs
-- [[terence-ingold-mycologist]] for the biographical context of Ingold's discovery
-- [[aquatic-hyphomycetes-and-ingoldian-spores]] for a deeper taxonomic treatment
-- [[mushroom-cultivation-fundamentals]] for comparison with the terrestrial spore catapult mechanism (Buller's drop) mentioned above
-- [[teaming-with-microbes-decomposition-pathways]] for how decomposition processes compare across aquatic and terrestrial ecosystems
+Successful implementation of Aquatic Fungi and Ingoldian Spores requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

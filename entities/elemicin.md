@@ -134,8 +134,7 @@ along with myristicin and other compounds.
   monitoring in some jurisdictions
 
 ## See Also
-- [[myristicin-entity]]
 - [[mescaline-entity]]
-- [[safrole]]
-- eugenol
-- [[psilocybin-compound]]
+- [[psilocybin]]
+
+See also: [[peyote-and-psychoactive-cacti]]

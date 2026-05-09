@@ -128,7 +128,6 @@ for *H. erinaceus*, though the species is less commercially developed.
 - **Primary challenges:** Slow colonization compared to *H. erinaceus*;
   susceptibility to Trichoderma contamination; limited commercial strain
   availability outside New Zealand
-
 ## Related Species
 
 | Species | Key Differences |
@@ -140,11 +139,7 @@ for *H. erinaceus*, though the species is less commercially developed.
 
 ## See Also
 
-- [[hericium-erinaceus]]
 - [[hericium-coralloides]]
-- [[fomes-fomentarius]]
-- [[trametes-versicolor]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
 - [[pleurotus-ostreatus]]
-- [[hericium-erinaceus]]
 - [[medicinal-mushrooms]]

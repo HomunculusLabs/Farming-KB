@@ -23,29 +23,6 @@ flexible design language for whole-site ecological integration that can be appli
 to any property regardless of size or climate.
 
 ## Biointensive
-[[biointensive-gardening-overview]]
-GROW BIOINTENSIVE, developed by John Jeavons at Ecology Action starting in 1972, is a
-closed-loop mini-farming method practiced in over 150 countries. Its goal is to grow
-complete diets in minimal space while building soil fertility entirely on-site,
-replicating natural ecosystems within garden beds. The system is defined by eight
-interdependent components: deep soil preparation through double-digging to 24 inches,
-close hexagonal plant spacing, thermophilic composting of all crop residues, carbon
-farming with dedicated compost crops, calorie farming with root crops and grains,
-companion planting, open-pollinated seed saving, and whole-system integration. All
-eight components must work synergistically; partial implementation yields partial
-results because the components depend on each other for full effectiveness.
-
-The results are impressive: two to six times higher yields per square foot than
-conventional farming, 60 to 80 percent less water use, 99 percent less energy, and
-the ability to feed one person from as little as 2,800 to 4,000 square feet compared
-to 10,000 to 22,000 square feet for conventional organic production. Biointensive
-builds approximately one inch of topsoil per year, whereas conventional agriculture
-loses one to two millimeters per year. However, roughly 60 percent of growing area
-must be devoted to compost and carbon crops rather than edible crops, all eight
-components must work together for full benefits, and the method is highly labor-
-intensive with no viable path to mechanization at scale.
-
-## Permaculture
 [[permaculture-design]]
 Permaculture, co-founded by Bill Mollison and David Holmgren in 1978, is a design
 system for creating sustainable human habitats. Rather than prescribing specific growing
@@ -116,7 +93,5 @@ systems in outer zones, pairing immediate calorie production with long-term pere
 systems.
 
 ## See Also
-- [[comparison-biodynamic-vs-permaculture]]
 - [[comparison-biodynamic-vs-biointensive]]
-- [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-biointensive-vs-square-foot-gardening]]

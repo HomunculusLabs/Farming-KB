@@ -39,23 +39,7 @@ Currants are divided into three types:
 - **Red currants** (*R. rubrum*) — Tart berries on long strigs; excellent for jellies; upright habit.
 - **White/pink currants** (*R. rubrum* cultivars) — Sweeter, milder versions of red currants; same culture.
 
-All share similar growing requirements but differ in pruning needs and fruiting wood. See [[query-how-to-grow-black-currants-at-home]] for black currant specifics.
-
-## What Climate Zones Do They Grow In?
-
-Gooseberries and currants are extremely cold-hardy, thriving in USDA zones 3-8 with some cultivars hardy to zone 2. They require 800-1,600 chill hours below 45°F (7°C) for proper bud break. In warmer zones (8-9), afternoon shade and careful variety selection are essential; they are not recommended in zones 9+ except at high elevation. Gooseberries break bud early and are vulnerable to late frosts — choose late-flowering varieties for frost-prone sites.
-
-## What Soil Do They Need?
-
-All *Ribes* species prefer:
-
-- **pH**: 5.5-7.0 (slightly acidic to neutral); black currants tolerate pH down to 5.0.
-- **Texture**: Loam to sandy loam; tolerate heavier clay if drainage is adequate.
-- **Organic matter**: High; incorporate 2-4 inches of compost or well-rotted manure before planting.
-- **Drainage**: Critical. Saturated soil during dormancy causes root rot and crown gall.
-- **Moisture**: Consistent, especially during fruit development. Mulch heavily (3-4 inches).
-
-Avoid sites with poor drainage, or plant on raised mounds 6-12 inches high. See [[query-how-do-i-improve-soil-drainage-in-my-garden]] for drainage techniques.
+All share similar growing requirements but differ in pruning needs and fruiting wood. See [[query-how-do-i-improve-soil-drainage-in-my-garden]] for drainage techniques.
 
 ## When and How Should I Plant?
 
@@ -86,26 +70,7 @@ Pruning is the most important maintenance task and differs significantly between
 - **Year 1**: Cut all stems to 2-3 buds above ground after planting.
 - **Year 2+**: Each winter, remove about a quarter of the oldest stems at ground level. Keep 8-12 strong stems of mixed ages (1-3 years). No permanent framework is maintained.
 
-Always prune during dormancy. Remove dead, diseased, and crossing branches first. See [[query-how-do-i-prune-fruit-trees-naturally]] for general pruning principles.
-
-## What Are the Common Pests and Diseases?
-
-**Key pests**:
-
-- **Gooseberry sawfly** — Defoliates bushes in spring. Check leaf undersides for green caterpillars; remove by hand or use Bt (*Bacillus thuringiensis*).
-- **Aphids** — Curl leaves and transmit viruses. Blast off with water or use insecticidal soap.
-- **Currant borer** — Larvae tunnel into stems. Remove and destroy affected wood immediately.
-- **Birds** — The most persistent pest. Net bushes before fruit ripens using a frame to keep netting off canes.
-- **Spider mites** — Common in hot, dry conditions. Increase humidity with mulch; use predatory mites.
-
-**Key diseases**:
-
-- **White pine blister rust** — Affects both *Ribes* and white pines. Check local regulations; black currants are banned in some states. Plant resistant varieties.
-- **Powdery mildew** — White fungal coating on leaves and fruit. Improve air circulation, avoid nitrogen excess, choose resistant varieties. Milk spray (1:10) is an effective organic treatment.
-- **Anthracnose** — Brown leaf spots causing premature defoliation. Remove affected leaves; apply copper fungicide preventively in early spring.
-- **Botrytis** — Affects fruit in wet conditions. Ensure good air flow; avoid overhead watering near harvest.
-
-See [[query-how-do-i-identify-and-control-common-garden-pests-organically]] for organic pest management strategies.
+Always prune during dormancy. Remove dead, diseased, and crossing branches first. See [[query-how-do-i-identify-and-control-common-garden-pests-organically]] for organic pest management strategies.
 
 ## How Do I Propagate Gooseberries and Currants?
 
@@ -146,5 +111,3 @@ Choose disease-resistant varieties — they dramatically reduce maintenance for 
 ## Can You Grow Gooseberries and Currants in Containers?
 
 Yes, both grow well in containers — an excellent option for small gardens, patios, or poor soil areas.
-
-**Container requirements**: Minimum 18-24 inches diameter/depth for gooseberries; 16-20 inches for currants. Use loam-based potting mix with 20% perlite for drainage. Ensure drainage holes are clear; raise pots on feet.

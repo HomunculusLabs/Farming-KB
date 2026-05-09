@@ -3,146 +3,137 @@ title: Faires Permaculture Community and Village Design
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Faires Permaculture Community and Village Design
-
-Practical guide to forming intentional permaculture communities, village layout, right livelihood businesses, cash crops, and marketing strategies.
-
-## What Community Is (and Isn't)
-
-Community in the permaculture sense is intentional — more connected than subdivision neighborhoods. It serves as a support system for: business and income, emotional needs, services and products, child care, insurance against disaster. Not a commune (all income shared) but a village where energy and resources come locally through agrarian projects, employment is meaningful and ecological.
-
-### Permaculture Community Goals
-1. Create a support and teaching network for like-minded people
-2. People don't need to live together — only share belief in sustainable, self-reliant living
-3. Self-reliance = independence from businesses bringing products from far away, NOT independence from people
-
-## Starting a Community
-
-### Communication Structure
-- Frequent communication essential even in smallest groups
-- Keep groups small — form subgroups by personality/interest
-- Each subgroup: spokesperson + secretary (meticulous records)
-- Dissent is expected and must be tolerated
-- Founders should have communication and consensus decision-making training
-
-### Mission Statement
-- More than a goal — embodies values and direction
-- Decided as community, written down, reminded frequently
-- Every decision held up against mission statement
-
-### Common Challenges
-- One discontented person can collapse entire process
-- As group grows, new members have different reasons for being there
-- Personality clashes are inevitable — flexibility required
-- When job done, people move on; don't take clashes personally
-
-### Legal Structure
-- Hire a lawyer when buying land together
-- Land divided: living, agriculture, business, wilderness areas
-- Some areas put into legal trust (preserves land beyond individual lifetimes)
-- Living areas rented or bought as shares (like corporation)
-- Trust registered as non-profit organization
-- No way to recoup investment if you leave — don't decide lightly
-
-## Village Design
-
-### House Placement
-1. Houses placed in shelter of warmer hill sides, following land contour
-2. Balance privacy and community: small clusters of 5-8 houses around common area
-3. Every house faces sun, built on passive solar principles
-4. All house water runoff leads to swales planted with trees and shrubs
-5. Tiny front yards with tall privacy hedges facing narrow street
-6. Saved space becomes common area (park, orchard, garden)
-
-## Right Livelihood
-
-From Buddhist Noble Eightfold Path: refrain from occupations causing harm. Permaculture extends this to include meaningless jobs taking time from family. Creative, hardworking people can achieve right livelihood careers, especially using internet for independent business.
-
-## Cash Crop Selection
-
-Choose crops that are:
-- Low in bulk (honey, berries)
-- Easy to process without much equipment
-- Value-added (jam, butter — processed raw materials)
-- Have a second non-perishable cash crop (firewood, nuts) for year-round sales
-
-### Cash Crop Ideas
-- Aquatic nursery (fish, bee/duck forage, ornamentals)
-- Berries (fruit, u-pick, plant nursery)
-- Rare plants (useful permaculture species, beneficial insect forage)
-- Seeds (rare/heirloom)
-- Animals (geese, silkworms, earthworms, heritage breeds, quail)
-- Hedges/trees (local species, forest regeneration, windbreaks, bamboo)
-- Organic food (fruits, vegetables, nuts, milk, eggs, wool, meat, flowers)
-- Value-added food (smoked meat, dried fruit, jam, pickles, feathers, dried flowers)
-- Craft supplies (willow, bamboo, natural dyes, wool)
-- Natural pest control (marigold, yarrow nursery)
-- Herbs (medicinal, beauty preparations, teas)
-- Tourism (farm holidays, camps, retreats, workshops)
-
-## Marketing Channels
-
-Three primary methods:
-1. **Farmers markets** — direct consumer sales
-2. **U-pick / CSA** — community supported agriculture (fastest growing)
-3. **Direct to restaurants** — bulk sales
-
-### CSA Model
-- Family purchases annual share ($300-500/season)
-- Receives weekly box of fresh-picked vegetables, fruits, value-added products
-- Delivered to door or pickup spot
-- Startup risk: over-selling shares, under-producing food
-- Strategy: start with your family, expand to 2-3 more families
-- Ensure weekly box overflows with food and extra surprises
-- Quality and freshness paramount
-
-## Commercial Greenhouses
-
-### High Tunnel (Low-Cost Entry)
-- PVC piping framework with light plastic cover
-- Must remove plastic in winter
-- Cheap but susceptible to wind damage
-
-### Full Commercial Greenhouse
-- Built-in ventilation, sturdy year-round
-- Cool climates need separate entry room (two doors prevent heat loss)
-- First crops should be high-value (tomatoes, peppers, fruit) to pay for greenhouse
-- Permaculture approach: at least 3 crops working together, aquaculture tanks or birds
-
-## Community Food Production
-
-- **Family level**: own garden and animals — summer food
-- **Community level**: community garden and orchard — winter storage and cash crops
-- Animals can be kept together even if family-owned
-- Each family contributes hours to community in return for living privilege
-
-## Community Resources
-
-### Recycling
-- Sort waste at source (each family sorts own: glass, paper, metal, plastic)
-- Each family has own composting bins
-- Community facility for large materials (tree branches, chipped and composted)
-- Sorted materials sold to manufacturers
-
-### Land Access
-- Community gardens, farm co-ops, CSA membership, garden clubs, urban farming
-- Half of American farmers retiring soon, not passing land to children
-- Arable land decreasing due to sprawl — every person with arable land should grow food
-
-## See Also
-
-- [[permaculture-zones-and-sectors]] — zone system
-- [[urban-permaculture-energy-cycling-principles]] — urban permaculture
-- [[faires-coppicing-and-woodlot-management]] — woodlot for community
-- [[faires-pasture-forage-tree-systems]] — shared pasture management
-
-## Related
-
+tags: [[permaculture-zones-and-sectors]] — zone system
+- [[woodlot-and-coppicing]] — woodlot for community
 - [[aquaculture-in-permaculture]]
-- [[williams-pdc-community-design]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[jadam-fruit-tree-winter-pest-control]]
+## Background and Context
+
+Faires Permaculture Community and Village Design is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

@@ -95,11 +95,7 @@ The best treatment for trace-element deficiencies is to prevent them from occurr
 
 ## See Also
 
-- [[cannabis-plant-nutrition]]
 - [[geoff-hamilton-organic-techniques]]
-- [[plant-micronutrients-and-their-essential-functions]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]

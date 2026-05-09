@@ -10,16 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe graecia
 
-**Psilocybe graecia** is a bluing [[psilocybin-compound]]-containing mushroom species found in the Mediterranean region, primarily in Greece. It is a relatively recently described species within the Psilocybe genus and belongs to a group of southern European psilocybian fungi adapted to Mediterranean climate conditions.
-
-## Taxonomy
-
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Authority:** Noordeloos, S. & Guil. (2001)
-
-The specific epithet *graecia* refers to Greece, the country where the species was first documented and described. The taxonomy of Mediterranean Psilocybe species has undergone significant revision, with several taxa previously lumped under [[psilocybe-semilanceata]] being recognized as distinct species.
+**Psilocybe graecia** is a bluing [[psilocybe-semilanceata]] being recognized as distinct species.
 
 ## Description
 
@@ -80,19 +71,14 @@ The specific epithet *graecia* refers to Greece, the country where the species w
 **P. graecia** contains the classic psilocybian alkaloid profile shared with other members of the genus.
 
 ### Alkaloid Content
-- [[psilocybin-compound]]: 0.3 to 1.0% dry weight
 - [[psilocin]]: trace to 0.15% dry weight
-- [[baeocystin]]: present in minor quantities
-
-The psychoactive potency is comparable to [[psilocybe-semilanceata]], though analytical data is limited due to the rarity of collected specimens.
+- [[psilocybe-semilanceata]], though analytical data is limited due to the rarity of collected specimens.
 
 ## Similar Species
 
 Several European Psilocybe species could be confused with **P. graecia**:
 
-- **[[psilocybe-semilanceata]]** — more northern distribution; generally more conical cap; found in cooler, more oceanic climates.
 - **[[psilocybe-galindoi]]** — reported from Spain; differs in spore morphology and cheilocystidia shape.
-- **[[psilocybe-hispanica]]** — Iberian species with a preference for higher elevations; microscopic differences in cystidia.
 - **[[psilocybe-gallaeciae]]** — northwestern Iberian species; smaller overall and found in Atlantic rather than Mediterranean climates.
 
 ## Identification Notes
@@ -101,30 +87,11 @@ Definitive identification of **P. graecia** requires microscopic examination of 
 
 Key diagnostic features include:
 - Mediterranean distribution
-- Spore dimensions larger than [[psilocybe-semilanceata]]
-- Absence of clamp connections
-- Strong bluing reaction
-
-## Cultural and Ethnobotanical Significance
-
-There is no well-documented history of traditional use of **P. graecia** in Greek or Mediterranean culture. The psychoactive properties of Greek Psilocybe species were identified through modern mycochemical analysis.
-
-The species is of interest primarily to mycologists studying the biogeography of psilocybian fungi in the Mediterranean basin, a region that has received less attention than northern Europe or the Americas in terms of psychedelic mushroom diversity.
-
-## Conservation Status
-
-**P. graecia** has not been formally assessed for conservation status. Its restricted known range in Greece and potential vulnerability to habitat changes (agricultural intensification, climate change, overgrazing) suggest that population monitoring may be warranted.
-
-## Legal Status
-
-As a [[psilocybin-compound]]-containing species, **P. graecia** is subject to drug control legislation in most countries. In Greece, the collection and possession of psilocybian mushrooms is restricted under national drug laws.
+- Spore dimensions larger than [[psilocybin]]-containing species, **P. graecia** is subject to drug control legislation in most countries. In Greece, the collection and possession of psilocybian mushrooms is restricted under national drug laws.
 
 ## See Also
 
-- [[psilocybe-genus-diversity-and-taxonomy]]
-
 - [[psilocybe-semilanceata]] — the most widespread European liberty cap
-- [[psilocybe-hispanica]] — related Iberian species
-- [[psilocybin-compound]] — primary psychoactive compound
+- [[psilocybin]] — primary psychoactive compound
 - gastón-guzmán — taxonomist who catalogued global psilocybian fungi
 - [[magic-mushroom-global-distribution]] — key reference for global distribution data

@@ -136,15 +136,10 @@ The original Indiana Bubblegum remains the most sought-after cut. Serious
 Seeds' version is the most commercially available. Notable crosses include
 Bubblegum Kush (× OG Kush), Blue Bubblegum (× Blueberry), and various
 auto-flowering versions by Dutch Passion.
-
 ## See Also
 
-- [[afghan-kush]]
 - [[amnesia-haze]]
-- [[super-silver-haze]]
 - [[blue-cheese]]
-- [[cinex]]
 - [[chemdawg]]
-- [[strawberry-cough]]
 - [[beta-caryophyllene]]
 - [[myrcene]]

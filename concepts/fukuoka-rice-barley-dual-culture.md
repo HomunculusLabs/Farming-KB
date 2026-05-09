@@ -78,23 +78,8 @@ The entire system rests on returning all straw and chaff to the field. Fukuoka c
 
 ## Water Management
 
-Water management is the most critical part of crop management in rice cultivation. Fukuoka's intermittent irrigation approach -- passing water through the field once every 7-10 days rather than maintaining standing water -- is essential to the system. Prolonged flooding rots roots and creates conditions favoring disease. The brief flooding in June to suppress clover is the only time standing water is used. See [[fukuoka-orchard-floor-management]] for how similar principles apply in orchard settings.
-
-## Labor Efficiency
-
-The system is extraordinarily labor-efficient. Once seeds are sown and straw is spread, "there is nothing left to do until the harvesting of the winter grain." One or two people can manage a quarter-acre, and even including harvesting and threshing, five people are plenty. This stands in stark contrast to conventional rice farming, which requires transplanting, continuous irrigation management, weeding, fertilizer application, and pesticide spraying throughout the season.
-
-## See Also
-
-- [[fukuoka-seed-ball-methods-advanced]] — clay pellet preparation for rice
-- [[fukuoka-natural-fertility-cycle]] — how the system maintains soil fertility
+Water management is the most critical part of crop management in rice cultivation. Fukuoka's intermittent irrigation approach -- passing water through the field once every 7-10 days rather than maintaining standing water -- is essential to the system. Prolonged flooding rots roots and creates conditions favoring disease. The brief flooding in June to suppress clover is the only time standing water is used. See [[fukuoka-seed-ball-methods-advanced]] — clay pellet preparation for rice
 - [[fukuoka-weed-ecology]] — the clover weed suppression strategy
-- [[natural-way-of-farming-guide]] — modern no-till agriculture movement
 - [[duck-rice-paddy]] — integrating ducks into the rice paddy
-- [[fukuoka-natural-farming-method]] — the broader philosophy and principles
-
-## Related
-
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
-- [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-water-management]]

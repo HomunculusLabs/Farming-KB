@@ -1,15 +1,7 @@
 ---
 title: Psilocybe cubensis - Species Profile
 created: 2026-04-28
-tags: [mycology, species, psilocybin, coprophilic, taxonomy]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-type: concept
----
-
-# [[psilocybe-cubensis]]
+tags: [[psilocybe-cubensis]]
 
 **Authority**: (Earle) Singer
 
@@ -121,16 +113,11 @@ differing only in smaller spores (9.9-13 by 6.1-7.1 um).
 
 ## Similar Species
 
-- **[[psilocybe-subcubensis]]**: Virtually identical, smaller spores
-- **[[panaeolus-cyanescens]]**: Similar habitat but black spores, more
+- **[[panaeolus-cyanescens-entity]]**: Similar habitat but black spores, more
   slender
 - **Psilocybe coprophila**: Smaller, less robust
 
 ## See Also
 
-- [[stamets-psi-psilocybe-cubensis-species-guide]]
 - [[stamets-psylo-psilocybe-azurescens]]
-- [[stamets-psylo-psilocybe-cyanescens]]
-
-[[psilocybe-semilanceata]], [[psilocybe-cyanescens]], Panaeolus cyanescens,
-[[panaeolus-subbalteatus]]
+- [[psilocybe-semilanceata]], [[panaeolus-subbalteatus]]

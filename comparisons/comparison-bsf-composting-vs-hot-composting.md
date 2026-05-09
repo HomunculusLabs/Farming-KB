@@ -27,29 +27,6 @@ Black soldier fly composting and hot composting both convert organic
     production is desired.
 
 ## Black Soldier Fly Composting
-[[black-soldier-fly-composting]]
-
-Black soldier fly (Hermetia illucens) larvae are voracious
-    bioconverters that process organic waste through a 14 to 21 day larval
-    feeding cycle. A mature colony processes one to two kilograms of waste per
-    day per square meter, accepting an exceptionally wide range of inputs
-    including kitchen scraps, meat, dairy, manure, and restaurant waste that
-    traditional composting cannot handle. The dual-output system produces
-    protein-rich larvae suitable as poultry or fish feed, plus nitrogen-rich
-    frass that serves as a chitin-laden soil amendment stimulating plant
-    immunity.
-
-The bin design centers on a feeding chamber with a 45-degree
-    self-harvesting ramp that exploits the prepupal migration instinct: mature
-    larvae climb the ramp seeking dry pupation sites and fall into a
-    collection bucket with no manual intervention. Startup requires purchasing
-    five thousand to ten thousand larvae and maintaining optimal conditions of
-    27 to 30 degrees Celsius with 60 to 70 percent moisture. The primary
-    constraint is temperature sensitivity, as larvae die below 15 degrees
-    Celsius and enter diapause below 10 degrees, making overwintering the
-    central challenge in temperate climates.
-
-## Hot Composting
 [[hot-composting-method]]
 
 Hot composting accelerates decomposition through thermophilic microbial
@@ -125,9 +102,6 @@ The most productive homestead systems run both in parallel. BSF
 
 ## See Also
 
-- [[comparison-bsf-composting-vs-earthworm-breeding]]
-
 - [[comparison-aerobic-vs-anaerobic-composting]]
-- [[comparison-bokashi-vs-hot-composting-method]]
 - [[comparison-vermicomposting-vs-hot-composting]]
 - [[comparison-black-soldier-fly-vs-vermicomposting]]

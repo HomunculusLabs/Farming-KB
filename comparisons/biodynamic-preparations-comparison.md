@@ -117,9 +117,6 @@ Dried *Equisetum arvenum* herb is decocted (simmered 20â€“30 min), diluted 1:20â
 
 ## See Also
 
-- [[natural-farming-philosophy-and-principles]]
 - [[hamilton-soil-biology-and-microorganisms]]
-- [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
 - [[soil-food-web]]
-- [[biofertilizers-and-soil-inoculants]]
 - [[regenerative-agriculture]]

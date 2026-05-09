@@ -27,7 +27,7 @@ sources:
 
 # Mushroom Substrate Comparison
 
-Choosing the right substrate is the single most important factor in successful mushroom cultivation. Different substrates suit different species, skill levels, and growing environments. This comparison covers the major substrate categories used by home growers, synthesized from [[mushroom-substrates]], [[psilocybin-cultivation]], and cultivation method pages.
+Choosing the right substrate is the single most important factor in successful mushroom cultivation. Different substrates suit different species, skill levels, and growing environments. This comparison covers the major substrate categories used by home growers, synthesized from [[mushroom-substrates]], [[psilocybin-mushroom-cultivation]], and cultivation method pages.
 
 The key tradeoff is contamination risk vs. yield. Unsupplemented substrates (straw, plain coir) are resistant to contamination but produce lower yields. Supplemented substrates (bran + sawdust) yield heavily but require sterilization. Grain spawn, while nutrient-rich, is virtually always used as inoculum rather than a direct fruiting substrate due to high contamination risk.
 
@@ -87,7 +87,7 @@ Per Nwanze et al. (2005), no single grain is universally best — grain choice i
 
 ## Verdict
 
-For beginners, start with the CVG monotub method for [[psilocybin-cultivation]] or pasteurized straw for oyster mushrooms — both are forgiving and require minimal equipment. Wheat straw costs nearly nothing and can be pasteurized with hot water. Coir-based substrates are the easiest indoor option thanks to the bucket tek method.
+For beginners, start with the CVG monotub method for [[psilocybin-mushroom-cultivation]] or pasteurized straw for oyster mushrooms — both are forgiving and require minimal equipment. Wheat straw costs nearly nothing and can be pasteurized with hot water. Coir-based substrates are the easiest indoor option thanks to the bucket tek method.
 
 For advancing, move to supplemented sawdust blocks for gourmet species (shiitake, lion's mane, reishi). The yield jump from 100% to 200-300% BE justifies the pressure cooker investment. For outdoor/low-tech cultivation, fresh hardwood chips in beds are unbeatable — [[outdoor-mushroom-bed]] cultivation with wine cap or [[outdoor-wood-lover-cultivation]] with psilocybe species can produce for years from a single inoculation.
 

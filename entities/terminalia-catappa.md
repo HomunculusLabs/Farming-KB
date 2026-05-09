@@ -110,13 +110,8 @@ It is used locally for construction, boat building, furniture, and firewood. Alt
 
 ## See Also
 
-- [[terminalia-chebula]]
 - [[terminalia-arjuna]]
-- [[terminalia-bellirica]]
 - [[azadirachta-indica]]
-- [[moringa-oleifera]]
 - [[pachyrhizus-erosus]]
-- [[leucaena-leucocephala]]
 - [[glycyrrhiza-glabra]]
-- [[centella-asiatica]]
 - [[acacia-confusa]]

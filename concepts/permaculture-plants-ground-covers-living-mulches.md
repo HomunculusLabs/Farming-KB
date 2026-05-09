@@ -10,50 +10,7 @@ tags: [culture, mulch, permaculture, plants]
 
 # Permaculture Ground Covers and Living Mulches
 
-Ground covers are essential elements in [[permaculture-design]], protecting soil from erosion, suppressing weeds, conserving moisture, moderating soil temperature, and providing habitat for beneficial organisms. Living mulches go further by actively contributing nitrogen, organic matter, or forage while performing these functions. This page covers specific ground cover species and living mulch systems from the source.
-
-## Coastal Ground Covers
-
-The source provides an extensive list of ground cover species for coastal environments:
-
-### Arctostaphylos uva-ursi (Bearberry, Kinnikinik)
-A trailing or creeping shrub rarely exceeding 75 cm, native to northern temperate regions. Hardy to frost. Red berries fairly bland and mealy, usually eaten cooked, preserved, or made into jams, jellies, marmalades, sauces, and pastes. Dried leaves used as tea in parts of Russia.
-
-### Arctotis stoechadifolia (African Daisy)
-Bushy, creeping perennial to 25 cm, native to South Africa. Half-hardy to frost. Extremely good sand binder. In sand it builds organic matter well. Survives hot dry summers. Proven to stabilise heavy soils such as dam walls.
-
-### Armeria maritima (Sea Pink)
-Hardy, perennial, creeping, frost-hardy native shrub of Eurasia. Covers sand banks readily.
-
-### Carpobrotus spp (Pigface, Karkalla)
-Succulent ground cover. The succulent young leaves can be eaten.
-
-### Helianthemum spp (Sunrose)
-Low-growing, drought-tolerant ground covers for dry sandy soils.
-
-### Myoporum spp
-Australian native ground covers and low shrubs, useful for erosion control.
-
-### Sedum spp
-Stonecrop species, succulent ground covers for rocky or sandy situations.
-
-### Vinca spp (Periwinkle)
-Shade-tolerant ground cover for full sun or shade. Dense, evergreen carpet.
-
-### Tetragonia tetragonioides (Warrigal Cabbage, New Zealand Spinach)
-Shrubby, creeping herb common to sheltered beaches, saltmarshes, arid woodlands, and plains of Australia and New Zealand coast.
-
-### Other Coastal Ground Covers
-- **Apium prostratum** (sea celery) -- small squat herb on coastal headlands and dunes, used as parsley to allay scurvy; potential to be bred as a vegetable
-- **Batis maritima** (saltwort, beachwort) -- spreading prostrate shrub in mangrove swamps and salt marshes, native to Florida
-- **Calluna vulgaris** (heather) -- traditional ground cover and bee forage
-- **Kennedia spp** (running postman) -- Australian native nitrogen-fixing ground cover vine
-- **Rhagodia spp** (saltbush) -- prostrate forms useful as ground covers in saline areas
-- **Rosmarinus officinalis prostratus** (prostrate rosemary) -- dual-purpose ground cover and culinary herb
-
-## Nitrogen-Fixing Ground Covers and Living Mulches
-
-### [[tagasaste]] as Living Mulch
+Ground covers are essential elements in [[tagasaste]] as Living Mulch
 Tagasaste can be managed as a low hedge providing both nitrogen fixation and stock fodder. When trimmed to keep foliage within stock reach, it functions as a productive living fence and ground cover system.
 
 ### Tree Lupin (Lupinus arboreus)
@@ -101,10 +58,26 @@ Species for saline and coastal environments:
 
 ## See Also
 
-- [[ajuga-reptans]]
-
 - [[ulmus-rubra]]
 
-- [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers
 - [[permaculture-plants-nitrogen-fixing-trees]] - nitrogen-fixing trees to pair with ground covers
 - [[permaculture-plants-aquatic-and-wetland-species]] - wetland ground covers
+## Practical Considerations
+
+Successful implementation of Permaculture Ground Covers and Living Mulches requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

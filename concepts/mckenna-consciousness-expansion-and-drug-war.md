@@ -89,11 +89,8 @@ The emerging legal framework for psychedelic access — including Oregon's Measu
 Internationally, the reclassification of psilocybin in Australia (approved for therapeutic use in 2023), the opening of psychedelic therapy clinics in the Netherlands and Canada, and Brazil's long-standing legal tolerance of ayahuasca use in religious contexts all point toward a global shift away from prohibition and toward regulated access. McKenna, who died in 2000, did not live to see these developments, but they represent a vindication of his core argument: that the drug war was unsustainable, that psychedelics have genuine therapeutic and spiritual value, and that the suppression of consciousness-expanding substances was a historical anomaly rather than a permanent feature of civilization.
 
 See also:
-- [[mckenna-drug-war-and-human-freedom]]
 - [[mckenna-discovery-and-impact-of-lsd]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-cannabis-culture-history]]
-- [[mckenna-dissolution-of-the-dominator-culture]]
 - [[mckenna-archaic-revival]]
 
 ## Key Points
@@ -101,23 +98,12 @@ See also:
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
 - The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
-
-## Significance in Psychedelic Thought
-
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
+- The [[psychedelic-therapy-current-research]].
 
 ## Related McKenna Topics
 
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
-
-## See Also
-
-- [[mckenna-war-as-vector-of-addiction]]
-- [[mckenna-spice-trade-and-medieval-drug-scarcity]]
+McKenna's analysis fits within his broader framework of the [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-war-as-vector-of-addiction]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-archaic-revival]]
 - [[psychedelic-mushroom-history]]
-- [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

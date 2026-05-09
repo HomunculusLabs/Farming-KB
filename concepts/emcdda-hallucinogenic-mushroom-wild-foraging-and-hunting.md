@@ -133,12 +133,8 @@ being by far the most commonly sought.
 
 ## See Also
 
-- [[hygrophorus-marzuolus]]
-
 - [[emcdda-wild-mushroom-foraging-misidentification-hazards]]
 
-- [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]

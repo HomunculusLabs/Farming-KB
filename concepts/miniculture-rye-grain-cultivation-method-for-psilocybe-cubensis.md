@@ -17,11 +17,7 @@ created: 2026-04-28
 
 # Miniculture Rye Grain Cultivation Method for Psilocybe cubensis
 
-The miniculture system developed by Bigwood and Beug (1982) is a scaled-down cultivation approach using half-pint jars of rye grain that enables controlled, reproducible fruiting of [[psilocybe-cubensis]] with multiple flushes over 20 or more weeks. Originally designed for alkaloid variation research, this method is a foundational precursor to modern small-scale mushroom cultivation techniques.
-
-## Historical Context
-
-The method was adapted from the rye-grain technique described by San Antonio (1971) for [[agaricus-bisporus]] cultivation, further refined by Oss and Oeric (1976) in their well-known grower's guide, and then miniaturized by Bigwood and Beug for use as a controlled experimental platform. The key innovation was scaling the system down to individual half-pint jars, enabling replicated experiments with minimal space and materials. The Amazonian strain used originated from a spore print collected near Pucalpa, Peru, in the Amazon basin (Repke et al., 1977). Mycelium from this print was maintained as a stock culture on various agar media.
+The miniculture system developed by Bigwood and Beug (1982) is a scaled-down cultivation approach using half-pint jars of rye grain that enables controlled, reproducible fruiting of [[agaricus-bisporus]] cultivation, further refined by Oss and Oeric (1976) in their well-known grower's guide, and then miniaturized by Bigwood and Beug for use as a controlled experimental platform. The key innovation was scaling the system down to individual half-pint jars, enabling replicated experiments with minimal space and materials. The Amazonian strain used originated from a spore print collected near Pucalpa, Peru, in the Amazon basin (Repke et al., 1977). Mycelium from this print was maintained as a stock culture on various agar media.
 
 ## Materials and Preparation
 
@@ -71,7 +67,7 @@ The total yield of 2.7 g per jar, while modest by commercial standards, was suff
 - **Experimental control**: Each jar serves as an independent replicate, enabling statistical analysis of treatments and reducing confounding variables.
 - **Space efficiency**: Multiple cultures can be maintained in a small area such as a shelved closet or growth chamber, making the method accessible to researchers with limited laboratory space.
 - **Contamination isolation**: If one jar becomes contaminated, it does not affect the others, preserving the integrity of remaining replicates.
-- **Sequential harvests**: Flushes can be harvested individually for time-series analysis of [[alkaloid-biosynthesis]] changes, which was the primary motivation for the method's development.
+- **Sequential harvests**: Flushes can be harvested individually for time-series analysis of alkaloid biosynthesis changes, which was the primary motivation for the method's development.
 - **Low material cost**: Only 10 g of rye grain per jar makes this one of the most economical cultivation methods available.
 
 ## Limitations
@@ -116,8 +112,6 @@ Cultivators interested in adapting the miniculture method for contemporary use m
 
 ## See Also
 
-- [[psilocybe-cubensis-cultivation]]
 - [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
-- [[psilocybin-stability-across-flushes]]
 - [[psilocin-accumulation-pattern-across-flushes]]
 - [[gourmet-medicinal-mushroom-casing-layer-techniques]]

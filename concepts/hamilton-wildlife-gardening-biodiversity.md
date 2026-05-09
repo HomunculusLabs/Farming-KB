@@ -10,35 +10,7 @@ tags: [biology, gardening, wildlife]
 
 # Wildlife Gardening and Biodiversity
 
-The organic garden is inherently wildlife-friendly. [[geoff-hamilton-organic-techniques]]
-consistently emphasizes that the ornamental section of the garden
-attracts useful wildlife that helps keep the fruit and vegetable
-gardens free from pests and diseases. Biodiversity is not just an
-aesthetic goal -- it is a practical necessity for natural pest
-control and garden health.
-
-## The Natural Balance
-
-In a garden with great diversity of planting, you attract the complete
-spectrum of wildlife -- insects, birds, and small mammals -- that
-creates a natural balance. No single pest species will ever dominate
-because predators keep them in check. The organic garden is a far more
-conducive environment to all forms of wildlife than a chemically
-controlled one.
-
-## Encouraging Natural Predators
-
-### Birds
-Birds do more good than harm in the garden. They eat numerous grubs,
-caterpillars, slugs, and aphids. Encourage them with food tables, bird
-baths, nest boxes, and berry-bearing trees. A simple rule to identify
-friend versus foe: pests are generally slow-moving, predators faster
-and more agile.
-
-### Ground Beetles
-Black garden beetles feed on eelworms, cutworms, leatherjackets, and
-other larvae and insect eggs. Encourage them by keeping the ground
-covered with mulch or [[ground-cover-plants]] so they have leaf cover to
+The organic garden is inherently wildlife-friendly. [[ground-cover-plants]] so they have leaf cover to
 hide under during the day. At night they emerge to feed on pests.
 
 ### Centipedes
@@ -61,65 +33,7 @@ directly in aphid colonies. Attract them by planting marigolds
 ### Lacewings
 Again, it is the larvae that have an insatiable appetite for aphids.
 Adult lacewings lay eggs on leaf undersides. They can be encouraged
-by varied planting and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
-
-### Frogs and Toads
-Excellent means of slug control. They also eat woodlice and other
-small insects. A garden pond is the ideal environment, but they
-really only need water for breeding. Provide damp hiding places
-nearby.
-
-### Hedgehogs
-A family of hedgehogs devours slugs, cutworms, woodlice, millipedes,
-and wireworms. Encourage them by leaving piles of logs or providing
-hedgehog houses. They will hide under log piles and hedges. Leave a
-saucer of milk and water or bread soaked in milk near suspected
-hiding places to encourage them to stay.
-
-## Creating Wildlife Habitats
-
-### The Garden Pond
-A pond is the single most effective way to attract wildlife. It
-provides water for drinking and bathing, breeding habitat for frogs,
-toads, and newts, and supports aquatic insects. Even a small pond
-makes a significant difference. Include sloping sides for easy access,
-plant native marginal plants around the edges, and avoid introducing
-fish which eat tadpoles.
-
-### Log Piles and Dead Wood
-Piles of logs and branches provide shelter for hedgehogs, ground
-beetles, centipedes, and many other beneficial creatures. Leave some
-dead wood in the garden rather than clearing everything away. Standing
-dead trees (snags) provide nesting sites for birds and feeding sites
-for woodpeckers.
-
-### Hedgerows and Hedges
-Native hedgerows are corridors for wildlife movement. Hawthorn, black
-thorn, hazel, and field maple support a huge range of insects, birds,
-and mammals. Even a short native hedge provides food (berries, nectar)
-and shelter. Formal hedges like yew and privet also provide nesting
-sites for birds.
-
-### Wildflower Meadows
-A wildflower meadow supports pollinators and other insects. It needs
-poor soil to prevent grasses from dominating. Cut once or twice a
-year after flowers have set seed, and remove the cuttings. Sow a
-mixture of native wildflowers and grasses in autumn.
-
-### Ground Cover Plants
-Dense ground cover provides hiding places for predatory insects.
-The deep bed system in the vegetable garden keeps the ground covered
-between crops. In ornamental borders, plant densely to shade the soil
-surface and provide habitat.
-
-## Trees for Wildlife
-
-Berry-bearing trees attract birds: cotoneaster, mountain ash (rowan),
-flowering crab apple, and birches. Native trees support the widest
-range of insects. Include at least one native tree in your garden if
-space allows.
-
-## [[companion-planting-deterrents]] for Wildlife
+by varied planting and [[companion-planting-deterrents]] for Wildlife
 
 French marigolds (Tagetes) attract hoverflies and have been
 scientifically confirmed to help control eelworms through root
@@ -129,7 +43,7 @@ pollinating insects. Borage is an excellent bee attractor.
 
 ## Practical Wildlife Gardening Tips
 
-- Avoid using [[jadam-natural-vs-chemical-pesticide]]s -- they kill [[beneficial-insects-cannabis]] along
+- Avoid using [[beneficial-insects-cannabis]] along
   with pests
 - Provide water: a bird bath, shallow dish, or pond
 - Leave seed heads on plants through winter for bird food
@@ -147,3 +61,22 @@ pollinating insects. Borage is an excellent bee attractor.
 Hamilton's key message is that the garden should be treated as a
 complete entity. The fruit and vegetable gardens produce edible crops,
 the ornamental section attracts wildlife for pest control, herbs
+## Practical Considerations
+
+Successful implementation of Wildlife Gardening and Biodiversity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

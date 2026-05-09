@@ -4,17 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, construction, design, homestead-crafts, food]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Cob Oven Construction
 
-A comparison solar cooking (also called an earth oven, clay oven, or [[wood-fired-hot-tub]] bread oven) is an outdoor baking structure built from [[building-with-natural-materials]]: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
+A cob oven (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from natural materials: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
 
 ## Cob Basics
 
-Cob is an ancient [[bamboo-as-building-material]] made from:
+Cob is an ancient building material made from:
 
 - **Clay** — the binder. Acts like glue. Source from your subsoil (dig 12-24 inches below topsoil) or purchase powdered clay.
 - **Sand** — the aggregate. Provides structure and prevents cracking. Sharp sand (builder's sand) works best.
@@ -37,7 +36,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 ### Simple Foundation (Temporary Installations)
 1. Dig a shallow pad 4-6 inches deep, slightly wider than the oven base
 2. Fill with compacted gravel or crushed rock
-3. Top with a layer of [[landscape-fabric-alternatives]] and 2-3 inches of sand, leveled
+3. Top with a layer of landscape fabric and 2-3 inches of sand, leveled
 
 ### Permanent Foundation
 1. Pour a concrete pad or lay concrete blocks (CMUs)

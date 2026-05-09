@@ -1,7 +1,7 @@
 ---
 title: Mycorrhizal Fungi and Fruit Trees
 created: 2026-04-28
-tags: [mycology, agriculture, symbiosis, ecology]
+tags: [[mycology, agriculture, symbiosis, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -118,8 +118,6 @@ function during critical periods of the growing season.
 
 ## See Also
 
-- [[orchard-fungal-ecology]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-fruit-tree-diseases]]
 - [[biodiversity-fungi-soil-fungal-communities]]
 - [[fukuoka-orchard-floor-management]]

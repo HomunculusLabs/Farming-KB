@@ -14,7 +14,7 @@ Fungi produce a variety of organic acids that play crucial roles in
 metal solubilization, leaching from contaminated matrices, and
 biogeochemical cycling of elements. Citric acid, oxalic acid, and
 gluconic acid are the principal organic acids involved in fungal metal
-mobilization, with [[aspergillus-niger]] and [[penicillium-simplicissimum]]
+mobilization, with [[penicillium-simplicissimum]]
 being the most commonly used species for biohydrometallurgical
 applications.
 
@@ -118,7 +118,5 @@ strategies.
 
 ## See Also
 
-- [[staycare-fungal-biosorption-of-heavy-metals]]
 - [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]
-- [[bioremediation-fungal-metal-metalloid-transformations]]
 - [[staycare-fungal-heterotrophic-leaching-biosorption]]

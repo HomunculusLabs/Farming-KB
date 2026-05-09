@@ -88,11 +88,6 @@ make it potentially relevant for menopausal symptom management.
 - Hormonal interactions: Cannabis may affect hormone levels including estrogen and progesterone
 - Fertility: Both excessive and deficient endocannabinoid signaling may affect fertility
 
-See also: doi entity, doi entity, [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-dosing-guidelines-by-condition]], [[cannabis-endocannabinoid-system]]
-
-## Related
-
-- [[cannabis-for-breast-cancer]]
-- [[cannabis-topical-applications]]
+See also: doi entity, doi entity, [[cannabis-dosing-guidelines-by-condition]], [[cannabis-for-breast-cancer]]
 - [[cannabis-anxiety-and-ptsd-treatment]]
 - [[cannabis-anti-inflammatory-applications]]

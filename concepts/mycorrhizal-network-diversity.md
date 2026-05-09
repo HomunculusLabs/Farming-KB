@@ -1,7 +1,7 @@
 ---
 title: Mycorrhizal Network Diversity
 created: 2026-04-28
-tags: [mycology, ecology, symbiosis, mycorrhiza]
+tags: [[mycology, ecology, symbiosis, mycorrhiza]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -77,12 +77,8 @@ forest management and restoration.
 
 ## See Also
 
-- [[mycorrhizal-diversity-assessment]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-
 - [[fungal-kingdom-diversity]]
-- [[fungal-endemism-and-biogeography]]
 - [[environmental-dna-fungal-survey]]
 - Cryptic Speciation in Fungi
 - [[undescribed-fungal-taxa]]

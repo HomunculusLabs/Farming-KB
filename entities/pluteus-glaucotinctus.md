@@ -17,9 +17,7 @@ sources:
 # Pluteus glaucotinctus
 
 **Pluteus glaucotinctus** is a wood-inhabiting mushroom in the family
-Pluteaceae known to contain [[psilocybin-compound]]. It is one of several species
-within the genus Pluteus documented as psychoactive, though it remains
-relatively obscure compared to better-known members like [[pluteus-salicinus]].
+Pluteaceae known to contain [[pluteus-salicinus]].
 The species is notable for its characteristic blue-green (glaucous) tints and
 its association with decaying hardwood in temperate forests.
 
@@ -87,25 +85,16 @@ considered uncommon to rare in most of its range.
 
 ## Chemistry and Bioactive Compounds
 
-P. glaucotinctus has been confirmed to contain [[psilocybin-compound]] and [[psilocin]]
+P. glaucotinctus has been confirmed to contain [[psilocin]]
 through TLC, GC-MS, and HPLC analysis. The concentration is generally low to
 moderate, with reports suggesting approximately 0.1 to 0.3% psilocybin by dry
 weight, though data from multiple independent collections is limited. The
 bluish-green discoloration is associated with psilocin oxidation, though the
 reaction in Pluteus tends to be less intense than in Psilocybe species.
 
-Among Pluteus, psychoactive species include [[pluteus-salicinus]] (most
-common), [[pluteus-nigroviridis]], [[pluteus-americanus]], and Pluteus
-glaucotinctus. These share lignicolous growth, section Celluloderma
-placement, and bluish discoloration to varying degrees.
-
-## Similar Species
-
-[[pluteus-salicinus]] shares the lignicolous habit and bluing potential but
+Among Pluteus, psychoactive species include [[archaeology-of-psychedelic-mushroom-use]], [[pluteus-salicinus]] shares the lignicolous habit and bluing potential but
 typically has a more grayish cap with less glaucous tinting and more
-consistent bluing. [[pluteus-cervinus]] (deer mushroom) is very common and
-non-psychoactive, lacking any bluish discoloration with a brown to gray-brown
-cap. [[pluteus-romellii]] has a yellowish cap and larger stature. Various
+consistent bluing. [[pluteus-romellii]] has a yellowish cap and larger stature. Various
 Entoloma species may share the habitat and pink spore print but are
 distinguished by angular spores visible under microscopy.
 
@@ -131,10 +120,7 @@ cap and stipe.
 
 ## See Also
 
-- [[pluteus-umbrosus]]
-
 - [[pluteus-salicinus]] — the most commonly encountered psychoactive Pluteus
-- [[pluteus-nigroviridis]] — another bluing, psilocybin-containing Pluteus
-- [[psilocybin-compound]] — the primary psychoactive alkaloid produced by this species
+- [[psilocybin]] — the primary psychoactive alkaloid produced by this species
 - Pluteaceae — the family containing Pluteus and Volvariella
 - [[psilocin]] — the dephosphorylated, bluing-inducing metabolite

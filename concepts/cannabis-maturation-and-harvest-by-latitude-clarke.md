@@ -102,12 +102,8 @@ Since ancient times, planting and harvest dates based on moon cycles have been o
 
 ## Related Topics
 
-- [[cannabis-harvest-timing-visual-cues]] - Visual harvest indicators
 - [[cannabis-harvest-and-curing]] - Harvest and curing methods
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype and breeding
 - [[cannabis-glandular-trichome-types-resin-production-clarke]] - Trichome types and resin
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-mexican-strain-description-clarke]]
-- [[cannabis-colombian-strain-description-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-curing-storage-post-harvest-clarke]]

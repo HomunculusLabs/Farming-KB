@@ -132,10 +132,7 @@ sacred symbiosis rather than profane addiction.
 
 ## See Also
 
-- [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-archaic-revival]]
-- [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-nostalgia-for-paradise]]
-- [[mckenna-agriculture-and-the-fall-from-paradise]]
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-symbiosis-and-human-plant-relationships]]

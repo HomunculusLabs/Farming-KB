@@ -105,12 +105,8 @@ Yield: 1/2 to 2 lbs mushroom per 5-7 lbs of sterilized, enriched hardwood sawdus
 
 ## Related
 
-- [[chicken-of-the-woods]] Topics
 - [[mushroom-substrates]] for sawdust formulations
-- [[medicinal-mushroom-extraction-preparation]] for D-fraction extraction
 - [[mushroom-cultivation-fruiting-chambers]] for environmental triggers
-- [[oyster-mushroom-spawn-production]] for spawn methods
 - [[gourmet-mushroom-enriched-sawdust-cultivation]]
-- [[casing-layer-preparation]]
 - [[oyster-mushroom-species-fruiting-parameters]]
 - [[mushroom-sawdust-bran-spawn-preparation]]

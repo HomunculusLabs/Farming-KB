@@ -142,8 +142,6 @@ Lion's Mane is commercially cultivated on hardwood substrates:
 - **Substrate:** Hardwood sawdust (oak, beech, maple) supplemented with wheat bran (10–20%). Soy hull supplementation improves yield significantly.
 ## See Also
 
-- [[reishi-mushroom-medicinal-research]] — Another medicinal mushroom with immunomodulatory properties
 - [[cordyceps-militaris]] — Medicinal mushroom for energy and respiratory health
-- [[chaga-inonotus-obliquus-medicinal-profile]] — Antioxidant-rich medicinal fungus
 - [[fatigue-crack-growth]] — Detailed overview of NGF biology
 - [[beta-glucans]] — Immunomodulatory polysaccharides found in medicinal mushrooms

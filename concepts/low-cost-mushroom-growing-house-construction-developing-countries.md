@@ -3,7 +3,7 @@ title: Low-Cost Mushroom Growing House Construction for Developing Countries
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom-cultivation, growing-house, low-cost, developing-countries,
+tags: [[mushroom-cultivation, growing-house, low-cost, developing-countries,
        appropriate-technology, poverty-alleviation, construction]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
@@ -122,8 +122,6 @@ an undersized house limits revenue below the grower's potential.
 
 ## See Also
 
-- [[mushroom-growing-house-construction-low-cost]]
 - [[oyster-mushroom-growing-house-types]]
-- [[oyster-mushroom-growing-house-site-selection]]
 - [[mushroom-poverty-alleviation-developing-countries]]
 - [[tropical-mushroom-house-construction]]

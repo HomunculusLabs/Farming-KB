@@ -131,11 +131,6 @@ Change becomes real when it seeps into us like water."
 
 ## Related
 
-- [[query-how-do-i-make-jadam-natural-pesticide-jnp]] Concepts
-
-- Jadam Ultra Low Cost Microorganism Solution And Soil Foundation
 - [[ultra-low-cost-farming-overview]]
-- [[jadam-ultra-low-cost-methods]]
 - [[ultra-low-cost-pest-control]]
-- [[ultra-low-cost-integrated-farming]]
 - [[integrated-pest-management]]

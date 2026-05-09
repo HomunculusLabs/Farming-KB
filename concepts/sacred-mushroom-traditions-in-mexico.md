@@ -134,16 +134,9 @@ an image of Christ flanked by sun and moon, regarded by local indigenous
 people as a saint.
 ## See Also
 
-- [[mushroom-foraging-traditions-europe]]
 - [[andrija-puharich-sacred-mushroom-1959]]
-- [[sacred-mushroom-and-the-cross]]
 - [[sacred-mushroom-ceremonies]]
-- [[sacred-meal-ancient-traditions]]
-
 - [[entheogen-culture]]
 - [[psilocybe-diversity-in-mexico]]
-
-- [[psilocybe-diversity-in-mexico]]
-- [[neurotropic-fungi-classification]]
 - [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]
 - [[psilocybe-cubensis-distribution-and-ecology]]

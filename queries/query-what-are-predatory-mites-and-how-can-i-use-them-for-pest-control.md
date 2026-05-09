@@ -60,28 +60,7 @@ The McMurtry classification (2013) categorizes phytoseiid feeding strategies int
 
 **Type IV — Pollen/generalist feeders:** Feed primarily on pollen and plant-derived material with limited predatory behavior. Least commonly used for targeted pest control programs. However, they can contribute to overall mite community diversity and may indirectly benefit pest control by maintaining a balanced arthropod ecosystem on the crop.
 
-Understanding these four feeding types is essential for selecting the right predator species for your [[specific-pest-management-solomon]] complex and production environment.
-
-A crucial factor is **developmental synchrony with prey**. Most predatory mites develop at roughly the same rate as their preferred prey at moderate temperatures. At elevated temperatures (above 25 °C), some predators develop faster than spider mites, gaining a numerical advantage over time. Females consume significantly more prey than males and lay more eggs when prey is abundant, allowing rapid population buildup when pests are present.
-
-## Key Species for Common Pests
-
-| Species | Target Pests | Optimal Temp | Humidity Range | Release Rate |
-|---|---|---|---|---|
-| *P. persimilis* | Two-spotted spider mite, carmine spider mite | 20–27 °C | 60–90% RH | Preventive: 2–5/m²; Curative: 10–50/m² |
-| *N. californicus* | Spider mites (multiple spp.), broad mite, russet mite | 22–28 °C | 40–80% RH | Preventive: 10–25/m²; Curative: 25–50/m² |
-| *N. cucumeris* | Western flower thrips, onion thrips, broad mite | 20–25 °C | 65–85% RH | Broadcast: 50–100/m²; Sachets: 1–2/m² |
-| *A. swirskii* | Thrips, greenhouse whitefly, silverleaf whitefly, broad mite | 25–28 °C | 60–80% RH | Broadcast: 50–100/m²; Sachets: 1 per 1–2 m² |
-| *G. occidentalis* | Spider mites in hot/dry conditions | 25–33 °C | 30–60% RH | 10–25/m²; Orchard: 5,000–10,000/acre |
-| *T. pyri* | European red mite, apple rust mite, two-spotted spider mite | 18–25 °C | 50–80% RH | 50–100 per tree (orchard) |
-
-**Detailed species notes:**
-
-***P. persimilis*** — The gold standard for spider mite outbreaks in greenhouses worldwide. An extraordinarily voracious specialist that can decimate dense spider mite colonies within 1–2 weeks. Requires high humidity (above 60% RH) and dies off once prey is exhausted. Each female consumes up to 20 spider mites per day and lays 50–60 eggs in her lifetime. Does not diapause, making it active year-round in heated greenhouses. Best used as a curative treatment directed at confirmed hotspots.
-
-***N. californicus*** — Tolerates lower humidity than *P. persimilis* and survives extended periods on pollen. Feeds on all life stages of spider mites and also attacks broad mite and russet mite. Less aggressive but far more persistent. Excellent for preventive programs, especially in crops where spider mite pressure is predictable but intermittent. Can be combined with *P. persimilis* for a dual approach.
-
-***N. cucumeris*** — The primary workhorse for thrips control in greenhouse vegetables, herbs, and ornamentals. Most commonly sold in slow-release breeder sachets providing continuous emergence over 4–6 weeks. Prefers cooler conditions than *A. swirskii*; well-suited to spring and fall production. Also effective against broad mite and cyclamen mite. Enters diapause under [[short-day-and-long-day-plant-classification]] lengths, reducing effectiveness in winter without supplemental lighting.
+Understanding these four feeding types is essential for selecting the right predator species for your [[short-day-and-long-day-plant-classification]] lengths, reducing effectiveness in winter without supplemental lighting.
 
 ***A. swirskii*** — Thrives in warm greenhouse conditions (above 22 °C) and is effective against multiple pest types simultaneously. The preferred choice for pepper, cucumber, eggplant, and gerbera. Feeds on whitefly eggs and first-instar larvae as well as thrips larvae and broad mite. Relatively inactive below 18–20 °C. Produces best results in crops that provide some pollen naturally.
 
@@ -118,7 +97,7 @@ Predatory mites are living organisms highly sensitive to many pesticides. Integr
 - Azadirachtin/neem oil — low to moderate impact on adults; minimize contact with sachets
 - Insecticidal soaps and horticultural oils — minimal residual but kill on contact; never spray sachets
 - Sulfur fungicides (caution: phytotoxic above 30 °C, may harm some species)
-- *Beauveria bassiana* and *Metarhizium anisopliae* [[entomopathogenic-fungi-and-biological-pest-control]] — generally safe but check labels
+- *Beauveria bassiana* and *Metarhizium anisopliae* entomopathogenic fungi and biological pest control — generally safe but check labels
 
 **Products to avoid:**
 
@@ -134,16 +113,5 @@ Predatory mites are living organisms highly sensitive to many pesticides. Integr
 Predatory mites are available from specialized biological control suppliers:
 
 - **Koppert Biological Systems** (koppert.com) — global supplier offering Spidex (*P. persimilis*), Swirski-Mite (*A. swirskii*), Cal-Mite (*N. californicus*), Thripex (*N. cucumeris*), and more. Comprehensive documentation and multi-language grower support. One of the oldest and most established suppliers in the industry.
-- **Biobest** (biobestgroup.com) — Belgium-based with [[worldwide-distribution-psilocybin-mushrooms]]. Full range of species in sachet, blister pack, and loose formats.
-- **ARBICO Organics** (arbico-organics.com) — US-based, ships with cold packs. Good for smaller-scale commercial growers and home gardeners.
-- **Planet Natural** (planetnatural.com) — US retailer with competitive small-quantity pricing for hobby greenhouse and garden use.
-- **Rincon-Vitova Insectaries** (rinconvitova.com) — California-based, specializes in organic and sustainable agriculture inputs.
-- **Biocontrol Network** (biconet.com) — carries multiple brands, useful for comparing products and availability.
-
-Always order for overnight or two-day maximum delivery. Predatory mites are perishable and should be released immediately upon arrival. If immediate release is not possible, store cool (8–10 °C) in the dark for no more than 1–2 days. Most suppliers include a "use by" date on the packaging — do not release mites past this date as viability drops sharply.
-
-## See Also
-
-- [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Biobest** (biobestgroup.com) — Belgium-based with [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]

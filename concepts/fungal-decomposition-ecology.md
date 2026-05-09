@@ -21,27 +21,7 @@ uptake by plants and other organisms.
 
 Fungi occupy a unique ecological niche as decomposers due to their combination
 of extracellular enzymatic capabilities, filamentous growth form, and ability
-to translocate resources across their [[mycelial-networks]]. Unlike bacteria, which
-are restricted to consuming soluble substrates at the cell surface, fungi can
-secrete enzymes remotely and transport hydrolysis products back to growing
-tips. This "exoenzymatic" strategy allows fungi to decompose insoluble
-polymers like lignin and cellulose.
-
-## Enzymatic Arsenal
-
-Fungal decomposers produce a diverse suite of extracellular enzymes tailored to
-different substrate types:
-
-- **Cellulases:** Enzyme complexes (endoglucanases, exoglucanases,
-  beta-glucosidases) that hydrolyze cellulose, the most abundant organic
-  polymer on Earth, into glucose monomers. White-rot basidiomycetes and many
-  ascomycetes produce highly efficient cellulase systems.
-
-- **Lignin-Modifying Enzymes:** Lignin peroxidase, manganese peroxidase, and
-  laccase are oxidative enzymes that depolymerize lignin, the complex phenolic
-  polymer that provides structural rigidity to plant cell walls. These enzymes
-  generate free radicals that non-specifically attack lignin bonds, making
-  [[lignin-degradation]] inherently inefficient but essential for carbon cycling.
+to translocate resources across their [[lignin-degradation]] inherently inefficient but essential for carbon cycling.
 
 - **Hemicellulases:** Xylanases, mannanases, and other enzymes that break down
   hemicellulose, a heterogeneous group of polysaccharides that cross-link
@@ -62,7 +42,7 @@ decomposition strategies:
 
 ### White-Rot Fungi
 
-White-rot basidiomycetes (e.g., [[phanerochaete-chrysosporium]], [[trametes-versicolor]]) are the only organisms capable of substantial lignin
+White-rot basidiomycetes (e.g., [[trametes-versicolor-entity]]) are the only organisms capable of substantial lignin
 degradation. They employ an aggressive, non-selective decay strategy using
 Fenton chemistry (hydrogen peroxide + iron) and lignin-modifying enzymes to
 break down all major wood components simultaneously. Their name derives from

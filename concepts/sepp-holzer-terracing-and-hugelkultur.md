@@ -96,11 +96,7 @@ Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in
 - Ponds at intervals for water storage and microclimate
 
 ## Related
-- [[permaculture-earthworks-and-water-harvesting]] — for broader earthworks
 - [[permaculture-slope-analysis-and-reading]] — for slope analysis
-- [[permaculture-sheet-mulch-detailed-guide]] — for sheet mulching
 - [[sepp-holzer-livestock-integration]] — for Holzer's animal integration
-- [[arid-landscape-permaculture]]
 - [[faires-hugelkultur-and-soil-building]]
-- [[holzer-alpine-farming-techniques]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

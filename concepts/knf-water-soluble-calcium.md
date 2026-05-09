@@ -76,32 +76,9 @@ Water Soluble Calcium is extracted from eggshells, animal bones, or seashells us
 - Keep in cool, shaded place
 - No direct sunlight
 
-## Application Rates and Timing
-
-Water-soluble calcium (WSC) is most effective when applied to plants
-showing signs of calcium deficiency: blossom end rot in tomatoes and
-peppers, tip burn in lettuce, bitter pit in apples, and stunted root
-development. The standard dilution rate is 1:500 to 1:1000 (WSC to
-water), applied as a foliar spray during the early morning or late
-evening. For severely deficient plants, the stronger 1:500 dilution
-can be used, while 1:1000 is sufficient for maintenance applications.
-Application frequency is typically every 7-14 days during periods of
-rapid growth or fruit development.
-
-Calcium is an immobile nutrient in plants — once deposited in cell
-walls, it cannot be redistributed to new growth. This immobility is
-why deficiency symptoms appear first in new leaves and developing fruit.
-Foliar application of WSC is particularly effective for calcium because
-it delivers the nutrient directly to the tissues that need it, bypassing
-the soil chemistry issues that can make calcium unavailable for root
-uptake (high potassium levels, low soil pH, or inconsistent moisture).
-WSC made from eggshells is preferred for foliar use because the calcium
-carbonate in eggshells is highly bioavailable, while WSC from animal
-bones provides both calcium and phosphorus in a slower-release form
-better suited to soil drench applications.
 ## See Also
 
-- [[knf-water-soluble-phosphoric-acid-wspa]]
+- [[knf-water-soluble-phosphoric-acid]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-fermented-fruit-juice]]
 - [[knf-fish-amino-acid]]

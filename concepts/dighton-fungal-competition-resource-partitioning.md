@@ -119,10 +119,6 @@ litter deposits.
 
 ## See Also
 
-- [[fungal-resource-partitioning-decomposition-sequences]]
-
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
-- [[fungal-interactions-soil-fauna]]
 - [[dighton-fungal-succession-resource-decomposition]]
-- [[fungal-community-ecology]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]

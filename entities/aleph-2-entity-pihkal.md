@@ -138,12 +138,6 @@ back to room temperature with stirring. There was added 1.4 mL H2O
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
 ## See Also
 
-- [[pihkal-aleph-2]]
-
 - [[al-entity-pihkal]]
-- [[aleph-4-entity-pihkal]]
 - [[aleph-6-entity-pihkal]]
-- [[aleph-7-entity-pihkal]]
-
-- PIHKAL (the source book)
 - [[aleph-entity-pihkal]] -- ALEPH (PIHKAL #3)

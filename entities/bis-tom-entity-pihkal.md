@@ -86,63 +86,33 @@ thermal rearrangement of the N,N-dimethylthioncarbamate. The impure
 
 ## See Also
 
-- [[bis-tom-pihkal-entry-12]]
-
 - [[tp-entity-pihkal]]
-
-- [[tomso-entity-pihkal]]
 
 - [[tmpea-entity-pihkal]]
 
-- [[tma-entity-pihkal]]
-
 - [[tma-6-entity-pihkal]]
-
-- [[tma-5-entity-pihkal]]
 
 - [[tma-4-entity-pihkal]]
 
-- [[tma-3-entity-pihkal]]
-
 - [[tma-2-entity-pihkal]]
-
-- [[tm-entity-pihkal]]
 
 - [[te-entity-pihkal]]
 
-- [[tb-entity-pihkal]]
-
 - [[ta-entity-pihkal]]
-
-- [[sb-entity-pihkal]]
 
 - [[propynyl-entity-pihkal]]
 
-- [[pea-entity-pihkal]]
-
 - [[p-entity-pihkal]]
-
-- [[ortho-dot-entity-pihkal]]
 
 - [[mpm-entity-pihkal]]
 
-- [[mp-entity-pihkal]]
-
 - [[methyl-ma-entity-pihkal]]
-
-- [[methyl-k-entity-pihkal]]
 
 - [[methyl-j-entity-pihkal]]
 
-- [[meta-dot-entity-pihkal]]
-
 - [[mepea-entity-pihkal]]
 
-- [[mem-entity-pihkal]]
-
 - [[mee-entity-pihkal]]
-
-- [[5-tom-entity-pihkal]]
 
 - [[5-tme-entity-pihkal]]
 

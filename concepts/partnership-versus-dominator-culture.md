@@ -135,8 +135,6 @@ to be plundered.
 
 ## See Also
 
-- [[shamanic-ecstasy-and-techniques]]
 - [[psilocybin-in-human-evolution]]
-- [[exopheromones-and-cross-species-communication]]
 - [[stropharia-cubensis-as-ur-plant]]
 - [[1960s-counterculture-and-magic-mushrooms]]

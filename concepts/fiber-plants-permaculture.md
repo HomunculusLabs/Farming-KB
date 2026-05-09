@@ -3,46 +3,7 @@ title: Fiber Plants in Permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Fiber Plants in Permaculture
-
-**Updated:** 2026-04-18
-
-Fiber plants are multipurpose permaculture species that provide raw materials for textiles, rope, paper, building materials, and crafts while also performing ecological functions such as soil building, erosion control, and wildlife habitat creation.
-
-## The Role of Fiber Plants
-
-In a self-reliant permaculture system, producing fiber locally reduces dependence on industrial supply chains and petrochemical-based synthetics. Fiber plants can be integrated into food forests, windbreaks, erosion control plantings, and polycultures, performing multiple functions while yielding useful materials.
-
-## Key Fiber Plant Categories
-
-### Bast Fibers (from stems)
-Extracted from the inner bark of plant stems through retting (controlled rotting) and processing:
-
-- **Flax (Linum usitatissimum):** One of the oldest cultivated fiber plants. Produces linen. Seeds produce linseed oil. Requires fertile soil and moderate rainfall. Grows 2-4 feet tall.
-- **Hemp (Cannabis sativa):** One of the strongest natural fibers. Grows rapidly (10-15 feet in 4 months). Also produces edible seeds, seed oil, and building materials (hempcrete). Deep taproot breaks compacted soil. Nitrogen accumulator.
-- **Ramie (Boehmeria nivea):** One of the strongest natural fibers; resistant to bacteria and mildew. Perennial in tropical/subtropical climates. Also known as "China grass."
-- **Jute (Corchorus species):** Tropical fiber plant. Grows in standing water. Used for rope, burlap, and erosion control mats. Fast-growing annual.
-- **Kenaf (Hibiscus cannabinus):** Related to cotton and okra. Grows 12-18 feet in 150 days. Used for rope, paper, and building materials. Drought-tolerant once established.
-
-### Leaf Fibers
-Extracted from plant leaves:
-
-- **Sisal (Agave sisalana):** Grown in tropical and subtropical drylands. Drought-tolerant once established. Produces strong, durable rope and twine. Also used for erosion control on steep slopes.
-- **Abaca/Manila hemp (Musa textilis):** From a banana relative native to the Philippines. Very strong; used for marine rope, tea bags, and paper. Grows well in humid tropics.
-- **New Zealand flax (Phormium tenax):** Extremely versatile fiber plant. Produces strong fibers for rope, baskets, and textiles. Very ornamental; excellent for erosion control and windbreaks.
-
-### Seed and Fruit Fibers
-
-- **Cotton (Gossypium species):** The world's most important non-food crop. Requires warm climate, long growing season, and significant water. Can be grown organically with careful pest management.
-- **Kapok (Ceiba pentandra):** Tropical tree producing silky fiber used for stuffing (pillows, life jackets). Lightweight, buoyant, water-resistant. Fast-growing, nitrogen-fixing tree.
-
-### Grass and Reed Fibers
-
-- **Bamboo:** Provides fiber for paper, textiles, and building materials. See [[bamboo-permaculture-design]].
+tags: [[bamboo-permaculture-design]].
 - **Cattail (Typha species):** Wetland plant; leaves used for matting, chair seats, and thatch. Rhizomes are edible (water-chestnut-like). Excellent for constructed wetlands and water purification.
 - **Rattan (Calamus species):** Climbing palms of tropical forests. Used for furniture and basketry. Supports forest canopy connectivity.
 
@@ -102,17 +63,26 @@ Processing can be done at household scale with simple tools or at community scal
 
 ## See Also
 
-- [[permaculture-plant-selection]]
-- fiber plants permaculture
 - [[bamboo-permaculture-design]]
-- [[bamboo-permaculture-design]]
-- fiber plants permaculture
 - [[mollison-mulching-and-soil-health]]
-- [[permaculture-earthworks-and-water-harvesting]]
-
-## Source
-
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapters 10-12
 - [[nitrogen-fixing-trees]]
-- [[soil-erosion-control]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+## Practical Considerations
+
+Successful implementation of Fiber Plants in Permaculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

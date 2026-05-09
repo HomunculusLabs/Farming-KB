@@ -95,11 +95,11 @@ The resulting THC mixture is then purified by fractional distillation to isolate
 - Roger Adams, "Studies on the Chemistry of Marihuana," Journal of the American Chemical Society, Vol. 62, p. 198 (1940)
 - Wollner, Matchett, Levine, Loewe (1942) — further cannabinoid isolation work
 
-See also [[cannabis-oil-isomerization]], [[cannabis-oil-purification-techniques]], [[cannabis-chromatography-cannabinoid-purification]], and [[cannabis-honey-oil-production]].
+See also [[cannabis-oil-purification-techniques]], [[cannabis-honey-oil-production]].
 
 ## See Also
 
-[[cannabis-fractional-distillation-cannabinoids]], [[cannabis-for-mental-health]], [[cannabis-ph-management-and-soil-flushing]], [[cannabis-for-atherosclerosis]], [[cannabis-flowering-stage-management]], [[cannabis-drug-interactions-and-contraindications]], [[cannabis-for-crohns-and-ibd]], [[cannabis-delivery-methods-comparison]]
+[[cannabis-for-mental-health]], [[cannabis-for-atherosclerosis]], [[cannabis-drug-interactions-and-contraindications]], [[cannabis-delivery-methods-comparison]]
 
 ## Practical Applications
 

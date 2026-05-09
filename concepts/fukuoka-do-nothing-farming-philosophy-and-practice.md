@@ -132,14 +132,8 @@ they cared, and left when ready.
 
 ## See Also
 
-- [[fukuoka-natural-farming-weed-and-insect-philosophy]]
-
 - [[fukuoka-four-principles-natural-farming]]
-- [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
-- [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]

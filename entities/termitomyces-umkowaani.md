@@ -118,7 +118,6 @@ The economic value of this species has prompted interest in semi-cultivated
 approaches, such as managing termite mounds on agricultural land to promote
 natural fruiting. This practice aligns with traditional low-input farming
 systems in the region.
-
 ## Related Species
 
 *Termitomyces umkowaani* is part of a complex of African *Termitomyces* species
@@ -140,11 +139,7 @@ slightly smaller and more delicate than *T. umkowaani*.
 
 ## See Also
 
-- [[termitomyces-eurrhizus]]
 - [[pleurotus-tuber-regium]]
-- [[lentinula-edodes]]
-- [[amanita-muscaria]]
-- [[psilocybe-cubensis]]
+- [[amanita-muscaria-entity]]
 - [[ganoderma-lucidum]]
-- [[fomes-fomentarius]]
 - [[stropharia-rugosoannulata]]

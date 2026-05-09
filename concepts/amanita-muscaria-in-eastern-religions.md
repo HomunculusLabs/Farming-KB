@@ -9,13 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria in Eastern Religions
 
-The Herb of Immortality source argues that [[amanita-muscaria-drying-and-preparation]] is not merely the source of the Christian Eucharist and the Holy Grail, but is the original sacrament underlying virtually all Indo-European religions, including Hinduism, Buddhism, Zoroastrianism, and the Vedic traditions. The author traces linguistic, mythological, and pharmacological evidence connecting the mushroom to the major religious traditions of the East.
-
-## Soma and the Rig Veda
-
-### The Soma Question
-
-The identity of Soma -- the divine substance revered in the Rig Veda as both a god and a sacrament -- has been debated for centuries. The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. Gordon Wasson in "Soma: Divine Mushroom of Immortality" (1968), identifies the fly agaric as the original Soma plant.
+The Herb of Immortality source argues that [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. Gordon Wasson in "Soma: Divine Mushroom of Immortality" (1968), identifies the fly agaric as the original Soma plant.
 
 The Herb of Immortality author extends Wasson's argument by providing:
 
@@ -35,49 +29,7 @@ The Rig Veda describes Soma as being:
 - Described as "the king of plants"
 - Associated with the moon and with immortality
 
-The [[amanita-muscaria-resurrection-experiments]] technique described in the source -- where dried Amanita muscaria returns to life as mycelium when rehydrated -- provides a mechanism for the "ever-renewing" quality attributed to Soma.
-
-## Buddhism and the Mushroom
-
-### The Bodhi Tree Connection
-
-The author argues that the Bodhi tree, under which the Buddha achieved enlightenment, may be a symbolic representation of the mushroom. Key points:
-
-- The mushroom emerges from the ground (the earth/nature) and grows upward toward the light
-- The mushroom's cap provides shade (like a tree) from a cosmic perspective
-- The Buddha's enlightenment experience -- characterized by expanded consciousness, vision of interconnected reality, and freedom from suffering -- matches the known effects of Amanita muscaria at appropriate doses
-- The Buddhist concept of "Bodhi" (awakening) maps onto the mushroom experience
-
-### The Laughing Buddha
-
-The author connects the "Laughing Buddha" (Budai/Hotei) figure to the effects of Amanita muscaria:
-
-- The characteristic euphoria and laughter associated with the mushroom
-- The Buddha's "belly" (the rounded shape resembles a mushroom cap)
-- The association with abundance and good fortune
-- The practice of rubbing the Buddha's belly (touching the mushroom)
-
-### Nirvana and the Mushroom State
-
-The Buddhist concept of Nirvana -- cessation of suffering, liberation from the cycle of rebirth, and experience of ultimate reality -- is interpreted by the author as a description of the mushroom state:
-
-- Dissolution of ego boundaries (anatta/no-self)
-- Experience of interconnectedness (dependent origination)
-- Liberation from suffering (the mushroom eliminates fear and anxiety)
-- Direct experience of reality beyond ordinary perception
-
-## Zoroastrianism and Haoma
-
-### The Haoma Sacrifice
-
-Zoroastrianism's Haoma is the Iranian cognate of Vedic Soma. The Haoma ritual involves:
-
-- Pressing a plant to extract its juice
-- Mixing the juice with milk
-- Offering it as a sacrifice to the gods
-- Consuming it for healing, immortality, and spiritual power
-
-The author argues that Haoma, like Soma, was originally prepared from Amanita muscaria. The Zoroastrian emphasis on purity -- ritual cleanliness, avoidance of contamination -- maps onto the careful [[amanita-muscaria-sacramental-wine-preparation]] required for successful Amanita culture.
+The [[amanita-muscaria-sacramental-wine-preparation]] required for successful Amanita culture.
 
 ### The Indo-European Connection
 

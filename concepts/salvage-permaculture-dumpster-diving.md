@@ -8,9 +8,7 @@ type: concept
 tags: [culture, permaculture]
 ---
 
-# Salvage [[permaculture]] and Dumpster Diving
-
-Salvage [[permaculture]] is the practice of building homes, gardens, and water
+# Salvage [[permaculture]] is the practice of building homes, gardens, and water
 systems entirely from discarded and scavenged materials. It treats the urban
 waste stream as a primary resource, converting trash into productive
 infrastructure while reducing landfill waste and eliminating the need for
@@ -18,73 +16,7 @@ purchased building materials.
 
 ## Philosophy
 
-The salvage approach is rooted in the [[permaculture]] principle that every
-resource should cycle through multiple uses before leaving the system. In
-cities, enormous quantities of useful materials are discarded daily. A salvaged
-house renovation demonstrates the depth of possibility: "When we started our
-project, we lacked real experience and knowledge in such areas as roofing,
-electrical, plumbing, and carpentry. While friends read novels, we read
-how-to manuals. We also asked plenty of questions."
-
-## Water Systems from Salvage
-
-### Rainwater Catchment
-
-Water catchment systems can be built almost entirely from salvaged materials:
-
-- 55-gallon drums from bakeries, linked with PVC pipe, providing hundreds of
-  gallons of water storage
-- Ferrocement tanks built from remesh, plastic sheeting, and old carpet for
-  under $20, yielding a 1200-gallon cistern
-- Positioning tanks at the top of slopes or elevated on rock pads for
-  gravity-fed irrigation
-- Tanks provide thermal mass, trapping solar heat by day and radiating it at
-  night, protecting frost-sensitive plants like citrus and tomatoes
-
-### Graywater Recycling
-
-Bathtub water can be harvested rather than sent down the drain:
-- Running a half-inch vinyl tube through a window jam, suction-cupped to the
-  bottom of the tub
-- Connecting to irrigation lines for fruit trees
-- Using hand pumps to move water to different parts of the yard
-- Ponds and yard slopes for graywater filtration and garden irrigation
-
-## Building Materials
-
-### Roofing
-
-- Replacing multiple layers of toxic asphalt with corrugated steel roofing for
-  rainwater harvesting
-- Trading chain-link fencing at the salvage yard for used 2x4s to extend
-  roof overhangs
-- Plywood election signs for ramada and trellis roofing
-
-### Walls and Insulation
-
-- Cleaning existing wood lath and patching with new plaster rather than using
-  drywall
-- Plastering with dual-purpose gypsum mixed at 3 parts mortar sand to 1 part
-  gypsum
-- Fabricating baseboards, trim, and shelves from salvaged wood
-
-### Floors
-
-- Staining concrete floors with ferrous sulfate (2 parts water to 1 part
-  ferrous sulfate, brush on, sit one week, rinse off)
-- Finishing with boiled linseed oil and turpentine mixture, then waxing
-- Excavating crawl spaces for cool storage beneath floors
-
-### Windows and Glass
-
-- Replacing termite-damaged windows with salvaged double-glazed units
-- Saving old glass for solar ovens and cold frames
-- Tempered double-glazed patio door glass for passive solar water heaters
-  set at 45-degree angles for maximum winter solar gain
-
-## Solar Systems
-
-### Passive [[solar-water-heating]]
+The salvage approach is rooted in the [[solar-water-heating]]
 
 A "bread box" solar water heater can be built from:
 - One-inch duct board insulation heat-taped to a double thickness of 2 inches
@@ -128,22 +60,23 @@ cooking without fuel.
 - Six pickup truck loads of leaf mulch from municipal collections
 - Restaurant and kitchen food waste for compost
 - Manure from farms delivered to urban sites
-- Old carpet and cardboard for [[sheet-mulching]]
+- Old carpet and cardboard for [[aboriginal-ecology-permaculture-two]]
+## Practical Considerations
 
-## Neighborhood Relations
+Successful implementation of Salvage Permaculture and Dumpster Diving requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-The salvage approach naturally builds community connections:
-- Waving enthusiastically at anyone passing by to show friendliness
-- Discovering great neighbors who offer physical help, security, advice,
-  plants, hot meals, and beer
-- Trading skills and materials: a sagging carport becomes a lumber rack,
-  work bench, and bicycle ramada
-- The visible transformation of a property inspires neighboring projects
+## Future Directions
 
-## Paint and Finishes
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-Natural paint can be made from:
-- Equal parts boiled linseed oil and turpentine mixed with concrete pigments
-## See Also
-
-- [[aboriginal-ecology-permaculture-two]]

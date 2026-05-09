@@ -117,11 +117,7 @@ be confused with L. chrysorrheus in the field.
 
 ## See Also
 
-- [[lactarius-deliciosus]]
 - [[lactarius-indigo]]
-- [[lactarius-torminosus]]
 - [[lactarius-volemus]]
-- [[lactarius-quietus]]
 - [[russula-emetica]]
-- [[boletus-edulis-entity]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]

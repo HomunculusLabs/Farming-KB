@@ -99,8 +99,6 @@ Natural culture follows the rhythms of the seasons. Spring is the time for inocu
 
 ## See Also
 
-- [[stametsian-permaculture-model]]
 - [[growing-gourmet-stump-totem-cultivation]]
-- [[catastrophia-substrate-supplier]]
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
 - [[growing-gourmet-bioremediation-mycofiltration]]

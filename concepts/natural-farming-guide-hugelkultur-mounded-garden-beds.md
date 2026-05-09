@@ -49,25 +49,7 @@ in the ground as a raised bed than to make a big pile and wait for years for it
 to rot. Fresh wood still absorbs water and irrigates the bed for you. However,
 because decomposing wood robs the soil of nitrogen, you must add something to
 the soil to break down the wood faster and add needed nitrogen. The key
-ingredient is urine. If you have a separating [[natural-farming-guide-composting-methods-and-techniques]],
-you can divert household liquids to the hugelkultur beds. Straw gathered from
-animal bedding can be added as a mulch layer. The urine helps break down the
-wood and provides nitrogen to the soil. The other key component is fungi, which
-will naturally grow and help speed the process.
-
-## Steps to Building a Hugelkultur Bed
-
-1. Remove a strip of sod the size of your bed. This sod will be used as a mulch
-   layer later.
-
-2. Lay down your wood layer, at least a couple of feet deep.
-
-3. Sandwich several layers of mulch and soil, including leaves, grass clippings,
-   compost, old straw, and moldy hay. Take the layer of sod removed in the first
-   step, flip it upside down and lay it on top. Add another layer of soil over
-   it. You can use rocks to line the side of the bed to prevent erosion.
-
-4. The first time you use the bed, grow a [[natural-farming-guide-cover-cropping-and-green-manures]] such as clover.
+ingredient is urine. If you have a separating [[natural-farming-guide-cover-cropping-and-green-manures]] such as clover.
    Clover fixes nitrogen and makes it available for other plants. If planted in
    early spring, you will have time to plant root vegetables next: potatoes,
    carrots, radishes, and more.
@@ -75,26 +57,7 @@ will naturally grow and help speed the process.
 ## Integration With Other Systems
 
 Hugelkultur lends itself readily to incorporation into two other systems. A
-hugelkultur bed can be used similarly to a [[comparison-swale-design-vs-contour-swale-irrigation-design]], with trees planted in
-between beds to take advantage of the water. On a larger scale it can also be
-applied to chinampas|chinampa systems.
-
-## Forest Floor Process
-
-Hugelkultur mimics what happens on the forest floor. In all natural ecosystems,
-plants grow at different heights. A forest has big trees forming a canopy over
-smaller trees, which cover shade-loving shrubs, which shade groundcover herbs. On
-the edges, edible plants that like the sun form a self-sufficient community.
-
-A tree is a huge biomass that affects everything around it. By its sheer size it
-provides homes for many creatures and insects. The roots have fungi that benefit
-the soil, and trunks and leaves provide shelter from the wind. A large oak tree
-can transpire 40,000 gallons of water per year, cooling surrounding air and
-helping create precipitation.
-
-## Companion Planting With Hugelkultur
-
-[[apple-centered-guild-design]] has been used for thousands of years. The "Three Sisters"
+hugelkultur bed can be used similarly to a [[apple-centered-guild-design]] has been used for thousands of years. The "Three Sisters"
 are corn, beans, and squash. The corn provides support for beans, and the squash
 shades the ground, preventing weeds. Together they produce much more food per
 square foot than they could when spread out on their own.

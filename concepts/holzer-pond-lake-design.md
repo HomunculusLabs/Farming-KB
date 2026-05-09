@@ -20,21 +20,7 @@ Sepp Holzer has developed a detailed methodology for designing and building
 ponds and lakes that work with nature to create self-cleansing, biodiverse
 water bodies. His approach contrasts sharply with conventional pond
 construction that produces static, deteriorating water. This is part of his
-broader [[holzer-tamera-water-landscape-project]] system.
-
-## Natural Shape and Self-Cleansing
-
-A man-made pond should look natural, as if it had been there all along.
-Holzer avoids artificial, rectangular, or perfectly round shapes and steep
-banks. He chooses the flowing, meandering shapes that nature makes. The shape
-of a pond or lake should fulfil three requirements:
-
-1. Support the self-cleansing properties of water through natural
-   decomposition of organic matter by microorganisms, which requires oxygen.
-   The more strongly water moves, the more it oxygenates. Good oxygenation
-   guarantees good decomposition.
-
-2. Promote [[biodiversity-fungi-soil-fungal-communities]] by attracting as many
+broader [[biodiversity-fungi-soil-fungal-communities]] by attracting as many
    plants and animals as possible. Deep and shallow zones support ecological
    balance.
 
@@ -118,8 +104,5 @@ regulation by ducks.
 
 ## See Also
 
-- [[holzer-water-landscapes-retention]] for the system of multiple connected
-  water bodies
 - [[contour-line-water-management]] for placement principles
-- [[holzer-livestock-integration]] for animal integration around water
 - [[mollison-animal-range-management]] for related animal management concepts

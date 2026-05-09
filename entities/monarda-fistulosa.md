@@ -133,12 +133,8 @@ substitute.
 
 ## See Also
 
-- [[ocimum-basilicum]]
 - [[cymbopogon-citratus]]
-- [[agastache-foeniculum]]
 - [[leonurus-cardiaca-entity]]
 - solidago canadensis
-- [[asclepias-syriaca]]
 - [[echinacea-purpurea]]
-- [[hypericum-perforatum]]
 - [[inonotus-obliquus]]

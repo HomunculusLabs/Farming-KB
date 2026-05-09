@@ -20,7 +20,7 @@ type: concept
 
 The principal psychoactive compounds found in neurotropic fungi are
 psilocybin and psilocin. Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine)
-was first isolated from Psilocybe mexicana by [[albert-hofmann]] in 1958 at
+was first isolated from Psilocybe mexicana by gordon-wasson in 1958 at
 Sandoz Laboratories in Basel, Switzerland. Psilocin
 (4-hydroxy-N,N-dimethyltryptamine) is the active dephosphorylated metabolite
 and is responsible for the primary hallucinogenic effects. Both compounds
@@ -33,17 +33,7 @@ Beyond psilocybin and psilocin, several related tryptamine compounds have
 been identified in neurotropic fungi:
 
 - **Baeocystin**: 4-phosphoryloxy-N-methyltryptamine, a methylated analog
-  of psilocybin. First isolated from [[psilocybe-baeocystis]] by Leung and
-  Paul in 1968. It is found in many psilocybin-containing species and may
-  contribute to the overall psychoactive profile, though its individual
-  pharmacological activity is less well characterized than psilocybin.
-
-- **Norbaeocystin**: 4-phosphoryloxytryptamine, the demethylated precursor
-  of baeocystin. Its pharmacological significance remains uncertain, but it
-  has been detected in multiple Psilocybe and Copelandia species.
-
-- **Aeruginascin**: 4-phosphoryloxy-N,N,N-trimethyltryptamine, a quaternary
-  ammonium compound discovered by Gartz in 1989 in [[inocybe-aeruginascens]]
+  of psilocybin. First isolated from [[inocybe-aeruginascens]]
   and subsequently in Psilocybe aeruginascens. This compound is of
   particular interest because it appears to modify the psychoactive
   experience, potentially reducing or altering the typical effects of
@@ -62,9 +52,7 @@ and in higher doses, delirium. Muscarine, once thought to be the primary
 active compound, is present in trace amounts and contributes minimally to
 the psychoactive effects.
 
-## Ergot Alkaloids ([[claviceps-purpurea]])
-
-Claviceps purpurea, the [[ergot-fungus]] parasitic on grasses and cereals,
+## Ergot Alkaloids ([[ergot-fungus]] parasitic on grasses and cereals,
 produces a complex mixture of alkaloids including ergotamine, ergocristine,
 ergocryptine, ergoclavine, and lysergic acid derivatives. Lysergic acid
 diethylamide (LSD) was first synthesized from ergotamine by Albert
@@ -80,23 +68,7 @@ Psychoactive compound concentrations vary significantly between species,
 populations, and even individual fruiting bodies. Factors influencing
 concentration include genetics, substrate composition, environmental
 conditions (temperature, humidity, light), stage of development, and
-post-harvest handling. [[psilocybe-azurescens]] is among the most potent
-species, with reported psilocybin concentrations up to 1.78% dry weight.
-P. semilanceata also ranks highly. In contrast, species like P.
-mexicana have relatively low concentrations. The ratio of psilocybin to
-psilocin varies among species and may influence the onset and duration of
-effects.
-
-## Biosynthetic Pathways
-
-Psilocybin biosynthesis involves the methylation and phosphorylation of
-tryptophan-derived intermediates. The pathway proceeds from tryptophan
-through tryptamine, N-methyltryptamine, N,N-dimethyltryptamine (DMT),
-and finally to 4-hydroxy-N,N-dimethyltryptamine (psilocin), which is
-phosphorylated to produce psilocybin. The enzymatic steps are catalyzed
-by specific decarboxylases, methyltransferases, and hydroxylases. The
-genes encoding these enzymes were first identified and characterized in
-[[psilocybe-cubensis]] in 2017, confirming the fungal origin of these
+post-harvest handling. [[psilocybe-cubensis]] in 2017, confirming the fungal origin of these
 compounds.
 
 ## Analytical Detection Methods
@@ -121,7 +93,5 @@ neurotropic species that do not exhibit blueing.
 
 ## See Also
 
-- [[neurotropic-fungi-classification]]
-- amanita-muscaria-and-ibotenic-acid-fungi
 - [[ergot-fungi-claviceps-ergot-alkaloids]]
 - [[psilocybe-genus-diversity-and-taxonomy]]

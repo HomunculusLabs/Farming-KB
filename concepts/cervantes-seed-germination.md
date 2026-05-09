@@ -8,9 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# Cannabis Seed Germination and Seedling Care
-
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
+# [[jorge-cervantes]]
 
 ## Seed Selection
 
@@ -77,7 +75,6 @@ Plant germinated seeds directly into pre-drilled holes in rockwool or fine, ligh
 Of ten quality seeds, some will be male, some weak, and two or three will grow into strong "super females." The most robust and potent female is selected as the mother of countless clones.
 
 ## Related Topics
-- [[cervantes-cloning]] — Cloning and mother plant management
 - [[cervantes-growing-medium]] — Growing medium selection
 - [[cervantes-nutrient-management]] — Nutrient management for seedlings
 

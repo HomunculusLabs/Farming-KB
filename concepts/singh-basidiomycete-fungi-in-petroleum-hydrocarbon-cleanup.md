@@ -69,75 +69,25 @@ contaminated soils:
 Despite these challenges, several basidiomycete species establish
 vigorous mycelial networks in contaminated soils:
 
-- [[phanerochaete-chrysosporium]] colonizes oil-contaminated soil and
-  degrades aliphatic and aromatic fractions simultaneously.
-
-- [[trametes-versicolor]] and [[pleurotus-ostreatus]] produce laccase and
-  MnP in situ, attacking both aliphatic and aromatic hydrocarbons.
-
-- Irpex lacteus demonstrates strong colonization capacity and PAH
-  mineralization in soil microcosms.
-
-- Bjerkandera adusta degrades BTEX compounds and alkylbenzenes
-  through peroxidase and laccase activity.
-
-## Degradation Mechanisms
-
-The Singh source describes several mechanisms by which basidiomycetes
-degrade petroleum hydrocarbons:
-
-- Extracellular enzymatic oxidation: Lignin-modifying enzymes (laccase,
-  MnP, LiP) generate radicals that attack hydrocarbon molecules,
-  particularly aromatic and polycyclic aromatic components.
-
-- Cytochrome P450-mediated oxidation: Intracellular monooxygenases
-  introduce oxygen into aliphatic chains, producing alcohols that are
-  further oxidized to fatty acids and ultimately mineralized.
-
-- Biosurfactant production: Some basidiomycetes produce extracellular
-  glycolipids or hydrophobins that increase hydrocarbon bioavailability
-  by reducing surface tension and enhancing substrate solubilization.
-
-- Cometabolism: Hydrocarbon degradation often occurs as a secondary
-  metabolic process, with the ligninolytic system being induced by
-  nutrient limitation rather than hydrocarbon presence.
-
-## BTEX Degradation
-
-BTEX compounds are particularly significant targets due to their
-toxicity and mobility. Basidiomycetes degrade BTEX through:
-
-- Initial hydroxylation by cytochrome P450 enzymes, producing
-  benzyl alcohols.
-
-- Further oxidation to carboxylic acids and ring cleavage.
-
-- Laccase-mediated oxidation of toluene and xylene isomers,
-  enhanced by mediator compounds.
-
-The Singh source notes that fungal BTEX degradation rates are
-generally lower than those of specialized bacteria but that fungi
-offer advantages in mixed-contaminant scenarios where PAHs and
-BTEX co-occur.
-
-## Field Applications and Challenges
-
-- Bioaugmentation with basidiomycete inoculum has shown promise in
-  bench-scale studies but faces challenges in field-scale deployment.
-
-- Competition with indigenous soil microorganisms and predation by
-  soil fauna can limit fungal establishment.
-
-- Moisture and aeration management are critical for maintaining
-  aerobic conditions necessary for ligninolytic metabolism.
-
-- Combination approaches (fungal-bacterial consortia, phytoremediation
-  with fungal inoculation) may offer the most practical solutions
-  for large-scale petroleum cleanup.
-
-## See Also
-
-- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]
+- [[trametes-versicolor-entity]] and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]
 - microcosm and mesocosm studies mycorrhizal remediation
+## Practical Considerations
+
+Successful implementation of Basidiomycete Fungi in Petroleum Hydrocarbon Cleanup requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

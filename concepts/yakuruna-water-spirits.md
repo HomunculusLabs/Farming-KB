@@ -18,34 +18,7 @@ type: concept
 
 The yakuruna are underwater beings who inhabit a complex subaquatic
 world beneath Amazonian rivers and lakes. They are central figures in
-the cosmology of [[amazonian-plant-teachers-doctores]],
-appearing in visions as both allies of healers and dangerous beings
-who kidnap humans. The yakuruna world contains cities of great
-splendour, enchanted forests, and palaces inhabited by mermaids and
-other aquatic spirits.
-
-## The Subaquatic World
-
-The world of the yakuruna is accessed through openings in the bottoms
-of rivers. It is divided into three regions:
-
-- **First region**: Belongs to the fair-haired mermaids, the pink
-  and black dolphins, and the white yakurunas
-- **Second region**: Belongs to the red yakurunas, the Hitrodos,
-  and the blue and red mermaids
-- **Third region**: Belongs to the black yakurunas, the pato-bufeos
-  (duck-dolphins), and the black mermaids
-
-Within this world lie cities of great beauty, airports for
-extraterrestrial spaceships from Jupiter, Ganymede, Venus, Saturn,
-and Mars, and enchanted realms of aromatic fragrances.
-
-## Types of Yakuruna
-
-Several distinct types of yakuruna are described in Amaringo's
-visions:
-
-- **Masha yakuruna**: An ally of the [[banco-sumiruna-muraya]]
+the cosmology of [[banco-sumiruna-muraya]]
   who teaches them how to rescue people lost in the watery depths. He
   smokes a pipe made from an encanto (magical stone) in the form of
   a shoe, with a stem made from the bone of a tuyuyo (Jabiru
@@ -89,62 +62,29 @@ family and cannot return to earth.
 
 ## The Muraya and the Underwater World
 
-The [[banco-sumiruna-muraya]] is the type of shaman
-specialised in entering the underwater world. He travels to the
-bottom of the river and is received by two mermaids who serve as
-guides to the golden city beneath the waters. Guardian animals -- the
-tibemama (osprey), the sarara (Anhinga anhinga), and the tibe negro
-(cormorant) -- go before him. The Yakumamas (water boa mothers) guard
-the city gates with magnetic power in their tongues, capturing anyone
-who tries to enter by force. The muraya uses the Yakumama to descend
-to the deepest part of the river, where she transforms into a
-beautiful submarine.
-
-## The Town of the Witches
-
-Within the subaquatic world lies the town of the witches, surrounded
-by a great serpent called purahua. No one can enter without passing
-through the serpent's tunnel-like mouth. Arrivals come by boat, and
-the guardians standing in the animal's mouth receive them. The town
-has radar defences, and here witches receive instruction in all the
-malign sciences. Extraterrestrial spaceships from various planets
-dock at an underwater airport nearby.
-
-## Sumillakta and the City of the Sumis
-
-Sumillakta is the beautiful and enchanting city of the sumis, where
-one can learn great magical parapsychic arts. Near it lies the great
-bath of the sumis with its gilded crystal stairway and sapphire-blue
-waters. The Atun-llipian-llakta (great brilliant city) is the meeting
-place of masters who gather to receive the wisdom of the ancient
-ones, revealed through a celestial opening in the dark clouds above
-the underwater hut where medicine men sit in full trance.
-
-## Water-Related Illness and Curing
-
-The yakuruna world is also the source of water-related illness.
-Mal aire del agua (evil breeze from the water) is cured by the icaro
-of the supay-caiman. The mermaids with two tails emerge in sublime
-trances to cure sicknesses of the water caused by the Yakumama, the
-yaku-caballo (water horse), the rayamama (ray mother), the dolphin,
-and the anguila mama (electric eel). The quiruma-supay (tree stump
-spirit) kidnaps people with the help of aquatic genies, taking
-victims to the bottom where the black yakurunas live.
-
-## The Yana-yakumama
-
-The yana-yakumama (black boa, mother of the waters) is a particularly
-powerful aquatic being. It has a white stripe on its forehead that
-distinguishes it from other black boas. It lives in the depths of
-black-water lakes and comes up for sun-baths at midday to fill itself
-with solar energies, powering its electromagnetism. When used by a
-witch, a big electrified tornado rises from it, releasing flying
-animals and beings with red eyes -- the yana-puma-runa (black
-tiger-like people) who are shitaneros (sorcerers).
+The [[banco-sumiruna-muraya]] -- The muraya who enters the underwater
+  world
+- [[curandero-healing-ayahuasca]] -- Curing water-related illness
 
 ## See Also
 
-- [[banco-sumiruna-muraya]] -- The muraya who enters the underwater
-  world
-- [[spirit-mothers-of-plants]] -- Plant spirits related to water
-- [[curandero-healing-ayahuasca]] -- Curing water-related illness
+- [[yakuruna-water-spirits-of-the-amazon]]
+## Practical Considerations
+
+Successful implementation of Yakuruna (Water Spirits) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

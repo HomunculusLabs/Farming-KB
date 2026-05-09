@@ -39,7 +39,7 @@ Rotational systems maintain more uniform defoliation across paddocks. When lives
 
 ### Soil Compaction
 
-Continuous grazing can lead to significant [[soil-compaction-solutions-ingham]], especially in high-traffic areas near water sources, shade structures, and gates. Livestock trampling the same areas repeatedly destroys soil aggregates and reduces pore space, limiting water infiltration and root penetration. Rotational grazing distributes hoof impact more evenly across paddocks. Brief, intense grazing periods followed by long rest allow [[soil-structure-and-aggregate-ecology]] to recover between events. In well-managed rotational systems, moderate hoof disturbance can actually be beneficial by incorporating litter and breaking surface crusts.
+Continuous grazing can lead to significant [[fungal-bioturbation-and-soil-aggregate-formation]] to recover between events. In well-managed rotational systems, moderate hoof disturbance can actually be beneficial by incorporating litter and breaking surface crusts.
 
 ### Root Growth and Microbial Activity
 
@@ -99,15 +99,7 @@ However, the learning curve and management intensity mean results vary widely am
 
 Continuous grazing typically supports lower stocking rates (0.5–2.0 animal units per acre) because animals selectively graze the best forage while much of the pasture is either overgrazed or wasted. Overstocked continuous systems degrade rapidly, while understocked systems leave significant forage unutilized.
 
-Rotational grazing enables higher stocking densities (2.0–6.0+ animal units per acre) by forcing uniform utilization and capturing forage that would otherwise mature and become unpalatable. The key metric in rotational systems is stock density — animals per acre at any given moment — which can be very high (50,000–100,000+ lbs per acre) in intensive mob-grazing scenarios. High stock density provides additional benefits for litter incorporation, [[weed-suppression-strategies]], and even manure distribution across the paddock.
-
-## Best Use Cases and Scenarios
-
-### When Continuous Grazing Makes Sense
-
-- Operations with limited labor availability or management capacity
-- Very large rangelands where fencing costs are prohibitive
-- [[low-input-vegetable-gardening]] operations with low stocking rates
+Rotational grazing enables higher stocking densities (2.0–6.0+ animal units per acre) by forcing uniform utilization and capturing forage that would otherwise mature and become unpalatable. The key metric in rotational systems is stock density — animals per acre at any given moment — which can be very high (50,000–100,000+ lbs per acre) in intensive mob-grazing scenarios. High stock density provides additional benefits for litter incorporation, [[low-input-vegetable-gardening]] operations with low stocking rates
 - Situations where simplicity and low overhead are the priority
 - Arid or semi-arid environments with inherently low forage productivity
 - Hobby farms or operations where livestock are secondary to other land uses
@@ -120,7 +112,7 @@ Rotational grazing enables higher stocking densities (2.0–6.0+ animal units pe
 - Operations with high-value livestock where superior nutrition matters
 - Properties with riparian areas, wetlands, or waterways needing protection
 - Any operation looking to reduce supplemental feed and input costs
-- Producers interested in [[regenerative-agriculture-overview]] and carbon market opportunities
+- Producers interested in regenerative agriculture overview and carbon market opportunities
 
 ## Hybrid Approaches: Adaptive Multi-Paddock (AMP) Grazing
 
@@ -133,8 +125,6 @@ AMP systems typically use high stock density, short grazing periods (1–3 days)
 Rotational grazing offers clear advantages over continuous grazing in forage production, soil health, animal performance, parasite management, water quality, biodiversity, and long-term profitability. The scientific and practical evidence consistently supports rotational management as the superior approach for most livestock operations. However, continuous grazing remains appropriate for certain extensive operations where simplicity and low cost are paramount, and where land is abundant relative to livestock numbers. Many producers find that a gradual transition — starting with simple paddock divisions and progressively refining the system — provides the most practical path toward improved pasture and livestock outcomes. The investment in learning and infrastructure typically pays for itself within 2–5 years for operations that commit to the process. Ultimately, the best grazing system is one that matches the operator's goals, resources, and willingness to engage in adaptive management over time.
 
 ## See Also
-
-- [[comparison-annual-vs-perennial]]
 
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[query-how-do-i-plan-rotational-grazing-for-soil-health]]

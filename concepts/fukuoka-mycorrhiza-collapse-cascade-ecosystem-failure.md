@@ -139,7 +139,9 @@ spurious nature." He viewed the matsutake as "a forest sprite
 that protects Japan's mountains and forests." His microscope went
 back into the closet.
 
-See also: [[fukuoka-pine-blight-matsutake-research]],
-[[fukuoka-pine-rot-root-cause]],
-[[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]],
+See also: [[fukuoka-pine-rot-root-cause]],
 [[fukuoka-matsutake-culture-medium-appendix]]
+
+## See Also
+
+- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]

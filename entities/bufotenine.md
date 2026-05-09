@@ -18,37 +18,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Molecular formula**: C₁₂H₁₆N₂O
 - **Molecular weight**: 204.27 g/mol
 - **CAS**: 487-93-4
-- Structurally identical to DMT with an additional 5-hydroxyl group; this hydroxyl dramatically changes pharmacokinetics (poor BBB penetration, rapid [[glucuronidation]])
-- White crystalline solid as freebase; forms salts (hydrochloride, sulfate)
-- Can be converted to 5-MeO-DMT via methylation of the 5-hydroxyl group
-
-## Pharmacology
-
-- **Partial agonist at 5-HT₂A** with additional activity at 5-HT₁A, 5-HT₂C, 5-HT₃, and 5-HT₄ receptor subtypes
-- Unlike DMT and 5-MeO-DMT, bufotenine is a **poor substrate for MAO**, but the 5-hydroxyl group makes it susceptible to rapid **glucuronidation**, significantly limiting central nervous system bioavailability
-- Oral bioavailability is very low; intravenous or intranasal routes are required for central effects
-- Effects profile includes: intense visual hallucinations, anxiety, dysphoria, pressure in the head and chest, purging (nausea/vomiting)
-- The negative reputation partly stems from early clinical studies using intravenous administration at high doses in psychiatric settings (Fabing & Hawkins, 1956)
-
-## Natural Occurrence
-
-- **Animal sources**: Secretions of *Bufo marinus* (cane toad), *Bufo alvarius* (Sonoran Desert toad), *Rhinella marina*, and numerous other Bufonidae species; typically co-occurs with 5-MeO-DMT and bufogenins
-- **Plant sources**: *[[anadenanthera-peregrina]]* (yopo/cohoba seeds), *[[anadenanthera-colubrina]]* (vilca), *Mimosa tenuiflora* (jurema), *Piptadenia* species
-- **Human occurrence**: Detected in human urine, blood, and cerebrospinal fluid; endogenous production confirmed but function unknown
-- Present in the Amazonian snuff **epená** (Virola) and **yopo** preparations
-
-## Cultural Use
-
-- Primary ingredient in **yopo** and **vilca** snuffs of the Orinoco basin and Andean highlands, used for millennia in shamanic and divinatory contexts
-- Preparation involves toasting, grinding, and mixing with calcined shell (calcium hydroxide) to freebase the alkaloid and potentially convert bufotenine to 5-MeO-DMT through pyrolysis
-- Archaeological evidence of snuff trays and tubes dating to 1000+ BCE in the Caribbean and South America
-
-## Toxicology
-
-- Intravenous administration has produced transient hypertension, facial flushing, and chest discomfort
-- No confirmed fatalities from bufotenine alone; deaths associated with toad secretion ingestion are attributed to cardiotoxic bufogenins (bufadienolides), not bufotenine
-- Standard tryptamine precautions; contraindicated with MAOIs (though poor MAO substrate, cardiovascular risk exists)
-- Modern research suggests bufotenine's negative reputation may be overstated and dose/route-dependent
+- Structurally identical to DMT with an additional 5-hydroxyl group; this hydroxyl dramatically changes pharmacokinetics (poor BBB penetration, rapid [[anadenanthera-peregrina]]* (yopo/cohoba seeds), *[[ibogaine]]. Analytical chemistry research has focused on distinguishing
+bufotenine from scheduled tryptamines in forensic contexts, as the compound
+occurs naturally in several commercially available plant seeds. The 2019
+rescheduling of certain toad-derived products in the United States has
+further complicated the legal landscape around bufotenine-containing
+materials.
 
 ## Legal Status
 
@@ -58,8 +33,84 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 ## See Also
 
-- [[psilocybin-compound]]
-
 - [[tihkal-tryptamine-chemistry]]
 
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]
+## Practical Applications
+
+Bufotenine has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Bufotenine. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

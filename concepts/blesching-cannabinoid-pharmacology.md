@@ -100,24 +100,13 @@ of neurodegenerative illness.
 
 An oil-based solution of CBD has been documented as effective for pediatric
 patients suffering from epileptic seizures who failed to respond to traditional
-pharmaceutical anti-seizure medications. See [[cannabis-for-epilepsy-and-seizure-disorders]] for a detailed review of the evidence. CBD may also be useful in preventing
-nerve damage associated with alcohol poisoning.
-
-### CBD and Psychological Disorders
-
-In addition to providing neuroprotection, CBD appears to calm autonomic
-responses to stress (such as rapid heart rates) by engaging receptors that
-select serotonin to achieve a calming effect. Cannabidiol's therapeutic
-potential in psychological disorders is based on its antipsychotic, anxiolytic,
-and antidepressant effects. CBD is able to reduce symptoms of acute paranoid
-schizophrenia as well as the pharmaceutical drug Amisulpride, which (unlike CBD)
-has significant adverse side effects. See [[cannabis-anxiety-research]] for more on cannabinoid-based psychiatric applications.
+pharmaceutical anti-seizure medications. See [[cannabis-anxiety-research]] for more on cannabinoid-based psychiatric applications.
 
 ### CBD and Inflammatory Conditions
 
 CBD has been shown to have a clear and measurable therapeutic impact on
 inflammatory and anti-inflammatory regulation mechanisms such as in inflammatory
-bowel disease, arthritis, periodontitis, and atherosclerosis. See [[cannabis-autoimmune-conditions-detailed]] and [[blesching-cannabis-inflammatory-bowel-disease]] for condition-specific evidence.
+bowel disease, arthritis, periodontitis, and atherosclerosis. See [[blesching-cannabis-inflammatory-bowel-disease]] for condition-specific evidence.
 
 ### CBD and Cancer
 
@@ -141,4 +130,4 @@ dietary plant-based cannabinoid might present a new and additional therapeutic
 strategy in the treatment of a multitude of diseases associated with
 inflammation and oxidative stress, both underlying factors in a host of
 different pathologies. Additional research has shown that (E)-beta-caryophyllene
-may also protect against microbes, pain, and cancer. See [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for more on cannabinoid-terpene synergy.
+may also protect against microbes, pain, and cancer. See [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]

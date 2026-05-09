@@ -3,16 +3,7 @@ title: Mushroom Spawn Preparation — PDA Medium, Tissue Culture, and Sorghum Gr
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, cultivation, spawn, tissue-culture, PDA, sorghum, sterilization, mushrooms]
-sources:
-  - "Mushroom Cultivation for People with Disabilities — A Training Manual (FAO RAP Publication 2001/12, Hanko)"
----
-
-# Mushroom Spawn Preparation — PDA Medium, Tissue Culture, and Sorghum Grain Spawn
-
-Complete spawn preparation workflow from the FAO training manual for mushroom cultivation by people with disabilities. Covers PDA (Potato Dextrose Agar) medium production, tissue culture isolation, PDA-to-PDA transfer for multiplication, and grain spawn multiplication on sorghum seeds. This is the most technically demanding part of mushroom cultivation and requires careful sterile technique.
-
-See also: [[mushroom-training-spawn-production]], [[mushroom-training-substrate-preparation]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-adapted-cultivation]], [[mushroom-agar-media-recipes]], [[mushroom-cultivation-fundamentals]]
+tags: [[mushroom-training-spawn-production]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-agar-media-recipes]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 ## Overview
 

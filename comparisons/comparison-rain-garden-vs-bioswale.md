@@ -87,39 +87,7 @@ Rain gardens generally outperform bioswales in pollutant removal because water c
 - You have a defined, small drainage area (single roof downspout, short driveway, small patio)
 - Your site has well-draining soils (or you can amend them) and you want maximum infiltration
 - Aesthetics are important — rain gardens look like ornamental garden beds when not actively ponding
-- You want to create [[pollinator-habitat]] and integrate stormwater management with ornamental landscaping
-- Space is limited but you have a suitable flat or gently sloped area
-- You're working in a residential setting where a bowl-shaped garden bed fits naturally into the landscape
-
-## When to Choose a Bioswale
-
-- You need to move water from one area to another while treating it along the way
-- Your site has a long, linear impervious surface generating runoff (road, parking lot, long driveway)
-- You have a moderate slope (1–5%) that can drive gravity-fed conveyance
-- The drainage area is larger than what a single rain garden can handle
-- You're designing a comprehensive stormwater management plan for a commercial or municipal site
-- You want to connect multiple treatment areas in series (bioswale feeding into a rain garden or constructed wetland)
-
-## Combining Both in a System
-
-The most effective stormwater designs often use rain gardens and bioswales together:
-
-1. **Bioswale as conveyance**: A bioswale collects and channels runoff from a long impervious surface, slowing the flow and removing coarse sediment.
-2. **Rain garden as endpoint**: The bioswale discharges into a rain garden at its terminus, where final infiltration and pollutant removal occur.
-3. **Series treatment**: Multiple rain gardens connected by short bioswale segments create a "treatment train" that progressively improves water quality.
-
-This approach maximizes both the conveyance function of bioswales and the infiltration/treatment capacity of rain gardens.
-
-## Maintenance Comparison
-
-| Task | Rain Garden | Bioswale |
-|------|------------|----------|
-| **Weeding** | Regular during establishment; reduces over time | Less frequent if turf-dominated |
-| **Mulching** | Annual (2–3" hardwood mulch) | Not typically mulched; grass self-maintains |
-| **Sediment removal** | Every 2–5 years from soil surface | More frequent; check dams trap sediment; clean annually |
-| **Plant replacement** | As needed; replace dead plants promptly to prevent erosion | Reseed bare spots; replace failed check dams |
-| **Erosion repair** | Rare if properly designed | Common issue; check channel banks and check dams after heavy rain |
-| **[[soil-testing]]** | Every 3–5 years to assess infiltration capacity | Less critical but monitor for compaction |
+- You want to create [[soil-testing]]** | Every 3–5 years to assess infiltration capacity | Less critical but monitor for compaction |
 | **Inlet/outlet clearing** | Clean overflow outlet annually | Clear inlet and outlet points; remove debris after storms |
 
 ## Common Mistakes to Avoid
@@ -129,6 +97,5 @@ This approach maximizes both the conveyance function of bioswales and the infilt
 
 ## See Also
 
-- [[comparison-rain-garden-vs-constructed-wetland]]
 - [[comparison-rain-garden-vs-swale]]
 - [[rain-garden-design]]

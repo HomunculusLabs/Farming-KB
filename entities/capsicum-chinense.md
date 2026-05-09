@@ -108,13 +108,8 @@ Capsaicin also demonstrates antimicrobial properties against foodborne pathogens
 
 ## See Also
 
-- [[capsicum-annuum]]
-- [[solanum-lycopersicum]]
-- [[zingiber-officinale]]
-- [[piper-nigrum]]
-- [[allium-sativum]]
+- [[solanum-tuberosum]]
+- [[piper-nigrum-entity]]
 - [[curcuma-longa]]
-- [[glycine-max]]
 - [[phaseolus-vulgaris]]
-- [[solanum-melongena]]
 - [[beta-vulgaris]]

@@ -107,10 +107,6 @@ consistently depleted.
 
 ## See Also
 
-- [[fungal-symbioses-in-mineral-weathering-and-biogeochemistry]]
-
 - [[fungal-mineral-weathering]]
-- [[rock-penetrating-fungi]]
 - [[endolithic-fungi-rock-colonizing-communities]]
-- [[lichen-ecology-and-soil-formation]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]

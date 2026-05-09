@@ -1,5 +1,4 @@
 ---
-title: King Oyster Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -130,7 +129,7 @@ King Oyster is valued for its:
 
 ## See Also
 
-- [[cotter-oyster-mushroom-cultivation|oyster mushroom cultivation]]
+- [[oyster-mushroom-cultivation|oyster mushroom cultivation]]
 - [[oyster-mushroom-species-guide|oyster mushroom species comparison]]
 - [[bulk-substrate-preparation|bulk substrate preparation]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

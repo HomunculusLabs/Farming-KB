@@ -120,11 +120,7 @@ The cinnabar chanterelle's role in **forest ecosystem health** — nutrient cycl
 
 - [[cantharellus-subalbidus]]
 
-- [[cantharellus-cibarius-entity]] — golden chanterelle, the most widely known chanterelle species
 - [[craterellus-tubaeformis]] — winter chanterelle, a related edible species
-- [[craterellus-cornucopioides]] — horn of plenty, a dark-colored chanterelle relative
 - [[boletus-edulis-entity]] — king bolete, another prized mycorrhizal edible mushroom
-- [[lactarius-deliciosus]] — saffron milk cap, another colorful mycorrhizal edible
 - [[amanita-jacksonii]] — American caesar's mushroom, another brightly colored edible species
-- [[suillus-luteus]] — slippery jack, a common mycorrhizal mushroom of pine forests
 - [[russula-cyanoxantha]] — charcoal burner, an abundant edible Russula species

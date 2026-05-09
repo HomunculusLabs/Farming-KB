@@ -10,7 +10,7 @@ tags: [cannabis, plants]
 
 # Mother Plant Cannabis
 
-A mother plant is a female cannabis plant maintained in perpetual [[vegetative-phase-cannabis]] to serve as a consistent source of cuttings for [[cannabis-cloning]]. Mother
+A mother plant is a female cannabis plant maintained in perpetual [[cannabis-cloning]]. Mother
 plants are the genetic foundation of a cloning program -- every clone taken from a mother
 is an exact genetic replica, inheriting her potency, growth characteristics, flavor, and
 disease resistance.
@@ -119,15 +119,7 @@ clones.
 Ruderalis Indica and Ruderalis Skunk do not make suitable mother plants due to their
 auto-flowering capability. Outdoor strains with a slight tendency to pre-sex in an
 18-hour photoperiod include Early Girl and Early Skunk, but early flowering does not
-exclude them as mother plants. See [[autoflowering-cannabis]] for more on auto-flowering
-varieties.
-
-## Mother Plant Environment
-
-Mother plants thrive under the same conditions as vegetative plants: 70-85 degrees F
-(21-29 degrees C), 50-70 percent humidity, and 18-24 hours of light daily. Metal
-halide or fluorescent lighting is sufficient and economical for the mother room.
-Proper [[ph-management-cannabis]] and regular fertilization keep mothers healthy and
+exclude them as mother plants. See [[ph-management-cannabis]] and regular fertilization keep mothers healthy and
 productive.
 
 ## DNA and Clone Fidelity
@@ -141,9 +133,6 @@ different grow rooms will often look different.
 
 ## See Also
 
-- [[cannabis-cloning]] -- taking and rooting cuttings from mothers
 - [[vegetative-phase-cannabis]] -- the stage mothers are kept in
-- [[ph-management-cannabis]] -- maintaining proper pH for mothers
 - [[autoflowering-cannabis]] -- why autoflowers cannot serve as mothers
-- [[flushing-nutrients]] -- periodic flushing for mother plant health
 - [[ec-tds-cannabis]] -- monitoring nutrient levels for mothers

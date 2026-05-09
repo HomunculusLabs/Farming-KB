@@ -28,25 +28,7 @@ dephosphorylated form.
 Baeocystin (4-PO-NMT) and nor-baeocystin are closely related to psilocin
 and may be active (Gartz 1992), though they are present in lesser
 concentrations than psilocybin and psilocin. The name baeocystin derives
-from [[psilocybe-baeocystis]] where it was first discovered, though the alkaloid
-has NOT been proven toxic in commonly consumed dosages.
-
-## The Psilometric Scale
-
-Stamets presents a "psilometric scale" for comparing potency of selected
-Psilocybe species based on maximum detected concentrations (% dry weight):
-
-  Species                Psilocybin  Psilocin  Baeocystin  Source
-  P. azurescens          1.78        0.38      0.35       Stamets & Gartz 1995
-  P. bohemica            1.34        0.11      0.02       Gartz & Muller 1989
-  P. semilanceata        0.98        0.02      0.36       Gartz 1994
-  P. baeocystis          0.85        0.59      0.10       Repke et al. 1977
-  P. cyanescens          0.85        0.36      0.03       Stijve & Kuyper 1985
-  P. tasmaniana          0.68        0.32      n/a        Gartz 1994
-  P. cubensis            0.63        0.60      0.025      Gartz 1994
-  P. weilii (prox.)      0.61        0.05      0.30       Guzman, Tapia & Stamets 1996
-  P. hoogshagenii        0.60        0.10      n/a        Heim & Hofmann 1958
-  [[panaeolus-subbalteatus]] 0.36        0.12      0.02       Beug & Bigwood 1982
+from [[panaeolus-subbalteatus]] 0.36        0.12      0.02       Beug & Bigwood 1982
   P. cyanofibrillosa     0.21        0.00      n/a        Stamets et al. 1980
   P. stuntzii            0.16        0.005     0.02       Stijve & Kuyper 1985
 
@@ -94,30 +76,6 @@ sun, water-soaked, frozen, or old vary unpredictably in potency.
 
 Psilocybin content is not adversely affected by the drying process in
 P. semilanceata. Its high psilocybin and low psilocin content accounts for
-excellent long-term storage life. [[stamets-mushrooms-world-azurescens]] also degrades slowly, retaining approximately the same alkaloid
-content after six months of storage. Most species stored longer than one year
-show significant potency loss, especially in psilocin.
-
-### Dosage Guidelines
-
-For the average adult male weighing 80 kg: a manageable dose is approximately
-20 mg of psilocybin/psilocin (.25 mg/kg); a high dose is 40 mg (.5 mg/kg);
-an extreme dose is 80 mg (1 mg/kg). The threshold dose for pharmacological
-effects is 2-4 mg. Moderate "entheogenic" effects are inspired above 6 mg
-for psilocin and 10 mg for psilocybin. All figures are based on dry weight.
-
-## Ecological Role of Psilocybin
-
-The biological function of psilocybin in these mushrooms remains debated.
-Some consider it a waste product; others hypothesize it is a survival compound
-actively spreading throughout the order Agaricales. The production of
-psilocybin may be selected as a beneficial evolutionary trait. The fact that
-so many diverse species produce this unique tryptamine suggests a common
-biological role that is not yet fully understood.
-
-## See Also
-
-- [[stamets-mushrooms-world-cubensis]]
-- [[stamets-mushrooms-world-semilanceata]]
+excellent long-term storage life. [[stamets-mushrooms-world-cubensis]]
 - [[stamets-mushrooms-world-azurescens]]
 - [[stamets-mushrooms-world-identification-safety]]

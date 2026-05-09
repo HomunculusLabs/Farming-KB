@@ -20,9 +20,7 @@ type: concept
 
 Fruiting abnormalities are a common challenge in mushroom cultivation,
 arising from suboptimal environmental conditions during the critical
-period of [[growing-gourmet-primordia-formation-pinning]] and fruitbody
-development. These malformations reduce yield, lower market quality,
-and can indicate systemic problems in the [[growing-gourmet-indoor-growing-environment]]. Understanding the
+period of [[growing-gourmet-indoor-growing-environment]]. Understanding the
 causes enables cultivators to diagnose and correct problems quickly.
 
 ## Common Abnormalities and Their Causes
@@ -97,40 +95,8 @@ bacteria, and even flies.
 The layer collapse phenomenon occurs when aerial mycelium suddenly
 dehydrates. As the mycelial layer collapses, primordia at various
 stages of development are damaged or destroyed. This is particularly
-problematic when [[growing-gourmet-casing-soils-mushroom-cultivation]] are not properly maintained.
+problematic when [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]
 
-## Species-Specific Abnormalities
-
-- **Enoki (Flammulina velutipes):** Deliberately cultured under high
-  CO2 and low light to produce the characteristic long-stemmed form.
-  Abnormalities occur when conditions are not precisely controlled.
-- **Hypsizygus tessulatus:** Certain strains produce abnormal forms
-  that have confused cultivators. Bottle culture in narrow-mouth
-  containers helps control form.
-- **Lion's Mane (Hericium erinaceus):** Particularly sensitive to
-  bacterial blotch; spine development is easily disrupted by
-  environmental stress.
-
-## Diagnostic Framework
-
-When fruiting abnormalities appear, cultivators should systematically
-check:
-
-1. Carbon dioxide levels (should be below 1000 ppm for most species
-   during fruiting)
-2. Light intensity and duration (species-specific requirements)
-3. Humidity stability (avoid sudden drops below 90% during early
-   development)
-4. Temperature consistency (avoid fluctuations during the critical
-   primordia formation window)
-5. Air exchange patterns (ensure uniform distribution)
-
-## See Also
-
-- [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]
-
-- [[growing-gourmet-primordia-formation-pinning]]
 - [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-indoor-growing-environment]]
 - [[growing-gourmet-growing-room-ventilation-air-exchange]]
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]

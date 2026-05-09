@@ -73,35 +73,9 @@ the lifecycle footprint of synthetic N is considerably larger. BNF, powered enti
 photosynthate, is effectively carbon-neutral and can be carbon-negative when legumes
 build soil organic matter.
 
-**[[nitrous-oxide]] (N₂O).** N₂O is a greenhouse gas with ~265× the global warming potential
-of CO₂ over 100 years and is also the leading ozone-depleting substance emitted today.
-Synthetic fertilizers are the dominant anthropogenic source of N₂O, driven by excess
-nitrogen cycling through denitrifying bacteria. BNF systems release less N₂O per unit of
-nitrogen because fixation is demand-driven — the plant regulates nodule activity to match
-actual needs, reducing surplus nitrogen available for denitrification.
-
-**Water Pollution.** Synthetic fertilizer runoff is the leading cause of eutrophication in
-freshwater and coastal ecosystems, creating hypoxic "dead zones" such as the Gulf of
-Mexico's annual 15,000 km² zone. Nitrate leaching into groundwater also poses human
-health risks, particularly methemoglobinemia in infants. BNF produces nitrogen in-situ,
-with markedly lower leaching potential, especially in perennial or agroforestry systems.
-
-**Energy Consumption.** The Haber-Bosch process consumes roughly 1–2% of global energy
-supply. BNF requires no external energy beyond sunlight, making it the only scalable
-nitrogen source compatible with a post-fossil energy future.
-
-## Soil Health
-
-Synthetic nitrogen application at high rates over multiple seasons has been shown to
-acidify soils, suppress mycorrhizal colonization, reduce soil organic carbon
-accumulation, and decrease microbial diversity. Long-term reliance on synthetic N creates
-a feedback loop where soils become less capable of cycling nutrients independently — a
-"nitrogen trap" that undermines system resilience.
-
-BNF systems, particularly legume-based rotations and intercropping, actively build soil
-organic matter through [[root-exudates]], nodule turnover, and biomass incorporation. They
+**[[root-exudates]], nodule turnover, and biomass incorporation. They
 support diverse microbial communities, improve soil aggregation and water infiltration,
-and enhance [[phosphorus-availability]] through [[mycorrhizal-networks]]. Cover-crop legumes
+and enhance [[mycorrhizal-networks]]. Cover-crop legumes
 (crimson clover, hairy vetch, field peas, cowpeas) add both nitrogen and substantial
 carbon to the soil profile.
 
@@ -144,7 +118,6 @@ environmentally low-impact, and regenerative of soil health, but slower and lowe
 total nitrogen output. Synthetic fertilizer delivers large, immediate nitrogen doses that
 have enabled industrial-scale food production but at steep environmental and energetic
 costs. The most resilient agricultural systems combine both strategically: using BNF as
-the foundational nitrogen source in rotations and cover crops, reserving synthetic
+the foundational nitrogen source in rotations and [[cover-crops]], reserving synthetic
 applications for targeted supplementation when genuine deficits arise. As climate
 pressure intensifies and fossil energy costs rise, transitioning toward BNF-dominant
-systems represents a critical lever for reducing agriculture's climate footprint,

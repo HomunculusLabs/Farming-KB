@@ -1,15 +1,7 @@
 ---
 title: "Agaricus Bitorquis Cultivation Guide"
 created: 2026-04-28
-tags: [mushroom-cultivation, agaricus, species-guide, compost-cultivation]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - the-mushroom-cultivator-stamets.md
-type: concept
----
-
-# [[agaricus-bitorquis]] Cultivation Guide
+tags: [[agaricus-bitorquis]] Cultivation Guide
 
 Agaricus bitorquis (Rodman's Agaricus) is a temperate species naturally
 found in lawns, gardens, roadside areas, pastures, and on hard-packed
@@ -128,8 +120,5 @@ the moment of spore germination, similar to A. brunnescens.
 
 ## See Also
 
-- [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]
-
 - [[agaricus-bisporus-cultivation-biology]]
-- [[agaricus-species-guide]]
 - [[spawn-running-in-bulk-substrates]]

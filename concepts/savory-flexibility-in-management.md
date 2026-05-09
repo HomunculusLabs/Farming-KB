@@ -12,23 +12,7 @@ type: concept
 # Flexibility in Management
 
 Putting holism into practice means accepting the fact that any resource management
-problem has many solutions. Like so many other aspects of [[savory-holistic-management-overview]],
-this apparently trite homily, if taken seriously, has rather radical implications in
-the context of most modern cultures.
-
-Our faith in science and the mechanistic view it has brought about has caused us to
-commit enormous effort trying to invent perfect systems. But the ideal of the well-
-oiled machine maintained according to a manual of operations cannot exist, as the
-vagaries of life prove every second. Not only is every whole in the natural world
-unique today but it is also unique tomorrow in a different way.
-
-## The Flexibility Guideline
-
-The flexibility guideline states simply: As the natural world is composed of
-interdependent wholes in a state of constant change, a mechanical approach to its
-management can never succeed. This means that preconceived management systems have to
-end, as do quick fix answers. Management always has to be based on the
-[[savory-holistic-goal-definition]] and the whole it encompasses, and you must be
+problem has many solutions. Like so many other aspects of [[savory-holistic-goal-definition]] and the whole it encompasses, and you must be
 free from rules, systems, and restraints to manage the whole effectively.
 
 Given this degree of flexibility, people often don't know what to do with it. Like
@@ -41,16 +25,9 @@ broad levels for planning and management purposes.
 At the strategic level we plan those things that have truly long-term consequence and
 that cannot be changed easily on a whim. The most common examples are:
 
-1. Formation of the more permanent [[savory-holistic-goal-definition]] that will
-   guide all future decisions.
-2. Planning for the conservation of wealth from generation to generation, as
-   covered in [[savory-ranch-financial-planning]].
+1. Formation of the more permanent [[savory-ranch-financial-planning]].
 3. Planning the long-term physical layout of land for management, including
-   [[savory-land-planning-and-grazing-cell-design]], on farms, ranches, forests,
-   tribal lands, and national parks.
-
-These are infrequent operations, generally applied once per century or more, with
-long-term consequences not covered by other [[savory-testing-and-management-guidelines]].
+   [[savory-testing-and-management-guidelines]].
 
 ## Tactical Flexibility
 
@@ -74,32 +51,14 @@ but replan immediately with a completely new look.
 ### Drought Response
 
 Droughts creep up on people, and most consider them acts of God rather than matters
-for timely replanning. Each growing season, especially in [[savory-brittle-environments]],
-is a potential drought. Impressive improvement of ranges and ranch economics results
-when people planned and replanned according to the tactical flexibility guideline.
-
-All initial planning should automatically include a time reserve against potential
-drought, as covered in [[savory-drought-planning-and-reserves]]. If that drought
+for timely replanning. Each growing season, especially in [[savory-drought-planning-and-reserves]]. If that drought
 persists, you face a whole growing season that may not produce enough feed. You can
 do a lot about that only if you replan without delay.
 
 Think particularly about all of the tools that you could apply to improve the
 effectiveness of any rain that should fall. Fire clearly should be avoided, likewise
-[[savory-rest-as-management-tool]]. Very high [[savory-animal-impact-and-herd-effect]]
-without any overgrazing is commonly a good booster of the [[savory-water-cycle-management]].
-Every ounce of forage grown per square yard amounts to over three million pounds on a
-twenty-thousand-acre ranch.
-
-## Operational Flexibility
-
-Operational flexibility deals with day-to-day management toward long-term goals while
-meeting immediate needs. This is where the plan-monitor-control-replan sequence operates
-continuously. Monitoring progress against the plan, controlling deviations as soon as
-possible, and replanning whenever necessary are all part of operational flexibility.
-
-The [[savory-livestock-grazing-planning]] chart and the [[savory-land-monitoring]]
-procedures provide the tools for operational management. When monitoring reveals that
-growth rates have changed or that [[savory-recovery-and-grazing-periods]] need
+[[savory-animal-impact-and-herd-effect]]
+without any overgrazing is commonly a good booster of the [[savory-livestock-grazing-planning]] chart and the [[savory-recovery-and-grazing-periods]] need
 adjustment, the operational level is where those changes are made.
 
 A common mistake is to confuse operational flexibility with the absence of planning.
@@ -111,10 +70,7 @@ needed, and the knowledge of when to replan versus when to control.
 ## Amalgamating Herds for Greater Flexibility
 
 One powerful tactical move is amalgamating herds when conditions demand it. By combining
-herds, [[savory-stock-density-vs-stocking-rate]] increases dramatically, enabling
-higher animal impact on fewer acres for shorter periods while the remaining land enjoys
-longer recovery. This can make the difference between surviving a drought and suffering
-catastrophic loss, while simultaneously advancing [[savory-plant-succession-and-community-dynamics]]
+herds, [[savory-plant-succession-and-community-dynamics]]
 on the rested portions of the land.
 
 ## Flexibility and the [[savory-weak-link-analysis]]

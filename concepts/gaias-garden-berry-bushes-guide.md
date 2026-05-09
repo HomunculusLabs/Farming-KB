@@ -3,17 +3,7 @@ title: Berry Bushes Guide in Gaia's Garden
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, gardening]
-sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
----
-# Berry Bushes Guide in Gaia's Garden
-
-> Catching the sunlight farther down, dancing with birds, are flowering shrubs and berry bushes. -- Toby Hemenway, Gaia's Garden
-
-## Overview
-
-Berry bushes occupy the shrub layer of the [[gaias-garden-food-forest-layers]], one of the most productive and wildlife-friendly tiers in the food forest. Hemenway emphasizes that berry bushes provide food for people, habitat and forage for birds, beneficial insects, and other wildlife, and can be integrated throughout the garden design -- from dedicated hedgerows to scattered plantings beneath fruit trees. Many berry bushes are shade-tolerant, making them excellent understory plants that still produce abundant crops with less direct sun.
+tags: [[gaias-garden-food-forest-layers]], one of the most productive and wildlife-friendly tiers in the food forest. Hemenway emphasizes that berry bushes provide food for people, habitat and forage for birds, beneficial insects, and other wildlife, and can be integrated throughout the garden design -- from dedicated hedgerows to scattered plantings beneath fruit trees. Many berry bushes are shade-tolerant, making them excellent understory plants that still produce abundant crops with less direct sun.
 
 ## Berry Bushes in the Forest Garden Design
 
@@ -87,9 +77,7 @@ Broadleaf evergreens such as holly and large bamboo offer winter shelter, summer
 
 ## See Also
 
-- [[hawthorn-berry-guide]]
-
-[[gaias-garden-food-forest-layers]], [[permaculture-berry-crops]], [[hemenway-food-forest-design]], [[gaias-garden-interplanting-polyculture]], [[beneficial-insect-habitat]], [[pollinator-habitat]], [[backyard-orchard-design]]
+- [[gaias-garden-food-forest-layers]], [[hemenway-food-forest-design]], [[beneficial-insect-habitat]], [[backyard-orchard-design]]
 
 ## Source
 

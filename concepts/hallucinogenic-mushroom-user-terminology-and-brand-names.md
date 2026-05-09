@@ -117,7 +117,9 @@ These dynamics are particularly relevant for hallucinogenic mushrooms, where the
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
 - [[emcdda-psilocybin-mushroom-species-and-identification]]
+
+## See Also
+
+- [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]

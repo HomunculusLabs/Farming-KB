@@ -93,8 +93,7 @@ ambient light.
 
 Chemical analyses of Pluteus villosus have detected the presence of psilocybin and
 psilocin, though at concentrations considerably lower than those found in the more
-strongly psychoactive members of the genus such as [[pluteus-salicinus]] and
-[[pluteus-nigroviridis]]. Total tryptamine content is estimated at less than 0.01% per
+strongly psychoactive members of the genus such as [[archaeology-of-psychedelic-mushroom-use]]. Total tryptamine content is estimated at less than 0.01% per
 dry weight, making it impractical to produce significant psychoactive effects from
 normal consumption amounts. The species is included in listings of psilocybin-containing
 fungi primarily based on limited bioassay reports and thin-layer chromatography screening
@@ -115,12 +114,8 @@ and subsequently lost in many lineages.
 Pluteus villosus can be distinguished from other Pluteus species by the following
 features:
 
-- [[pluteus-salicinus]] has a smoother cap surface and is typically more bluish-gray,
-  with higher psilocybin content
 - [[pluteus-cervinus]], the deer shield, is much larger with a smooth brown cap and is
   not known to contain psychoactive compounds
-- [[pluteus-glaucotinctus]] has a distinct blue-green tinting and different cystidial
-  morphology
 - [[pluteus-americanus]] is similar but has different spore characteristics and
   distribution
 
@@ -137,8 +132,6 @@ on wood, which have sinuate gills and angular spores visible under magnification
 barcoding of the ITS region is increasingly used for accurate Pluteus species
 
 psilocybe and amanita, and systematic chemical analysis of its many species
-- [[pluteus-salicinus]] — a more strongly psychoactive Pluteus species with bluish
-- [[pluteus-nigroviridis]] — another psychoactive Pluteus species with darker
-- [[pluteus-cervinus]] — the common deer shield mushroom, a larger non-psychoactive
-- [[psilocybin-compound]] — the primary psychoactive compound found in this species
+- [[archaeology-of-psychedelic-mushroom-use]] — another psychoactive Pluteus species with darker
+- [[psilocybin]] — the primary psychoactive compound found in this species
 - [[pluteus-glaucotinctus]] — a Pluteus species with distinctive blue-green coloration

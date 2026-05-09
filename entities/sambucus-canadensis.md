@@ -117,13 +117,10 @@ Established plantings produce 5–12 kg of berries per plant at maturity (3–5 
 
 ## See Also
 
-- [[sambucus-nigra]]
+- [[sambucus-cerulea]]
+
 - [[vaccinium-myrtillus]]
-- [[viburnum-opulus]]
 - [[calendula-officinalis]]
-- [[hypericum-perforatum]]
-- [[achillea-millefolium]]
 - [[plantago-major]]
-- [[urtica-dioica]]
 - [[taraxacum-officinale]]
 - [[passiflora-incarnata]]

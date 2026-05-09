@@ -102,22 +102,15 @@ Several coprinoid mushrooms resemble C. disseminatus but can be distinguished by
 
 ## See Also
 
-- [[coprinellus-micaceus]]
 - [[coprinopsis-atramentaria]]
 - psathyrella
 - agaricales
-- [[saprotrophic-fungi]]
 - [[wood-decay-fungi]]
 - coprinoid mushrooms
 - mycena
 - psathyrellaceae
-- [[trametes-versicolor]]
-- coprinellus truncorum
 - [[psychedelic-fungi-taxonomy]]
-- [[basidiomycota-classification-major-clades]]
 - [[coprinus-comatus-detailed]]
 - coprinellus
-- [[challenges-neurotropic-fungi-identification-chemical-analysis]]
 - [[spore-print]]
-- [[mycology]]
 - [[mollison-humus-and-organic-matter-in-soils]]

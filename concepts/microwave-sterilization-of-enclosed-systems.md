@@ -89,57 +89,6 @@ exposed to the sterilization agent (as with UV), the system designer can
 use microwave-transparent materials at strategic points to allow energy to
 reach enclosed surfaces.
 
-The MSAP (Microwave Sterilizable Access Port) design exploits this by using
-a combination of:
-
-- **Microwave-transparent elastomers** at seal points, allowing energy to
-  reach internal mating surfaces.
-- **Microwave-reflective metals** for structural components and radiation
-  containment, ensuring that energy is directed where it is needed.
-- **Controlled radiation patterns** from dipole and waveguide antennas that
-  maximize energy delivery to the target surfaces.
-
-## Applications
-
-The ability to sterilize enclosed systems through microwave penetration has
-broad applicability:
-
-### Spacecraft Life Support
-
-ECLSS water recycling systems on the International Space Station and future
-missions require periodic sampling and maintenance. Microwave sterilization
-through port fittings allows aseptic access without introducing
-contamination.
-
-### Pharmaceutical Manufacturing
-
-Sterile filling lines and bioreactor sampling ports can be sterilized
-in-place, reducing the need for disassembly and autoclaving cycles that
-interrupt production.
-
-### Medical Device Processing
-
-Implantable devices packaged in sterile pouches with elastomeric seals could
-potentially be re-sterilized through the packaging material if validated for
-the specific application.
-
-### Laboratory Biosafety
-
-Culture vessels, sampling ports on fermenters, and connections in
-laminar-flow cabinets can be sterilized between uses without exposure to
-chemical agents that might affect subsequent cultures.
-
-## Limitations
-
-The penetration depth of 2.45 GHz microwaves through elastomeric materials
-is finite. Very thick elastomeric barriers will absorb most of the energy
-before it reaches the enclosed surface, reducing sterilization efficacy.
-System designers must account for material thickness and dielectric loss
-properties when specifying seal geometries for microwave-sterilizable
-applications.
-
-## See Also
-
-- microwave-surface-sterilization for the core technology
-- [[microwave-sterilizable-access-port]] for the engineered system using this capability
-- [[trace-water-enhanced-microwave-sterilization]] for the steam generation mechanism
+The MSAP ([[microwave-sterilizable-access-port]] for the engineered system using this capability
+- [[microwave-exposure-system-architecture-surface-sterilization]]
+- [[microwave-sterilization-system-hardware-architecture]]

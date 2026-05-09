@@ -19,19 +19,7 @@ The development of Masanobu Fukuoka's no-tillage, direct-seeding method for wint
 
 Barley and other winter grains present a particular challenge for no-tillage methods. In conventional farming, the field is plowed and harrowed before seeding, creating a fine seedbed that ensures good seed-to-soil contact and reliable germination. In Fukuoka's natural approach, seeds must be sown directly onto the soil surface or into a mulch of rice straw, relying entirely on natural processes for germination and establishment.
 
-The challenge is compounded by the need to grow barley in succession with rice in the same field, creating a continuous year-round cropping cycle. Early attempts at direct seeding produced erratic results. [[seed-germination-techniques-solomon]] was uneven, bird damage was severe, weed competition was heavy, and yields were unreliable. Fukuoka spent years refining his technique, learning through careful observation and patient experimentation what worked and what did not.
-
-## Stage One: Clay Seed Balls and Straw Mulch
-
-The first stage of Fukuoka's barley cultivation evolution centered on solving the problem of seed protection and germination. His initial approach involved coating barley seeds in balls of clay, which served multiple purposes.
-
-The clay coating protected seeds from being eaten by birds and insects, prevented premature germination during warm spells, and provided a moist micro-environment that encouraged germination when conditions were right. The technique was straightforward: mix barley seeds with moist clay and form small balls, roughly the size of a large marble.
-
-These seed balls were then broadcast over the field before or during the rice harvest, when the ground was still covered with rice straw. The straw provided a protective mulch that retained soil moisture, suppressed weed growth, and created a humid microclimate favorable to seed germination.
-
-Results from this first stage were promising but inconsistent. Germination rates varied considerably from year to year depending on weather conditions, particularly rainfall patterns in the critical weeks after sowing. In dry autumns, the clay balls did not receive enough moisture to soften and release the seeds. In very wet autumns, some seeds germinated too early and were killed by frost.
-
-The fundamental insight of this stage was that [[clay-seed-pellet-production-method-concrete-mixer]] balls combined with straw mulch could work in principle, but the timing and method needed refinement.
+The challenge is compounded by the need to grow barley in succession with rice in the same field, creating a continuous year-round cropping cycle. Early attempts at direct seeding produced erratic results. [[clay-seed-pellet-production-method-concrete-mixer]] balls combined with straw mulch could work in principle, but the timing and method needed refinement.
 
 ## Stage Two: Green Manure and Cover Crop Integration
 
@@ -43,29 +31,7 @@ The suppressed clover then served as a green manure, decomposing on the soil sur
 
 The straw not only protected the seeds but also provided a habitat for beneficial microorganisms and insects that helped control pests. As the barley grew, the straw decomposed gradually, providing a steady supply of nutrients without the sudden flush that comes from applying chemical fertilizers.
 
-The key lesson of stage two was that fertility maintenance did not require external inputs of any kind. By managing the natural relationships between barley, clover, straw, and [[soil-microorganisms-natural-fertility]], the field could maintain its own productivity indefinitely. This represented a fundamental break with conventional agriculture, where declining soil fertility is assumed and addressed through synthetic fertilizers.
-
-## Stage Three: The Mature Natural Method
-
-The third stage represents Fukuoka's mature barley cultivation method, refined through decades of patient observation. In this stage, all the elements of the system work together in a stable, self-sustaining pattern.
-
-The rice straw from the summer harvest remains on the field. Barley seeds are broadcast in the autumn, protected by clay seed balls. Clover grows through the winter as a living mulch. In spring, the barley grows rapidly, supported by the decomposing straw and the nitrogen fixed by the clover. After the barley harvest in early summer, the rice is transplanted into the same field without plowing.
-
-One of the most important insights of the third stage was the understanding that nature's timing is always superior to man's timing. The exact date of seeding was less important than the overall pattern of the system. Because seeds were protected by clay and straw, they could germinate when conditions were naturally right rather than according to a rigid schedule.
-
-Some seeds germinated in the autumn, some in late winter, and some in early spring. This staggered germination turned out to be an advantage rather than a problem, as it spread the risk of crop failure across multiple germination events.
-
-## The Straw Connection Between Rice and Barley
-
-The continuous cycling of rice straw between the rice and barley crops is the keystone of Fukuoka's rotation system. After the rice harvest, the straw is not removed from the field but is spread evenly across the surface. This straw serves as the primary organic input for the barley crop. After the barley harvest, the barley straw in turn feeds the soil during the rice-growing season.
-
-No compost is prepared separately, no fertilizer is applied, and no organic matter is imported from outside the system. This cycling of straw has multiple benefits beyond simple nutrient supply. The straw mulch moderates soil temperature, keeping it warmer in winter and cooler in summer. It prevents soil erosion from heavy rain. It suppresses weed germination by blocking light. And it provides a continuous food source for soil microorganisms, maintaining the soil's biological activity at a high level throughout the year.
-
-The result is a soil that grows more fertile with each passing season rather than being depleted by continuous cropping.
-
-## No-Tillage Benefits for Soil Structure
-
-The avoidance of plowing in Fukuoka's barley system has profound implications for [[soil-structure-and-aggregate-ecology]]. Conventional plowing destroys the soil's natural aggregation, disrupts fungal networks, and exposes organic matter to rapid oxidation. In Fukuoka's system, the soil is never disturbed.
+The key lesson of stage two was that fertility maintenance did not require external inputs of any kind. By managing the natural relationships between barley, clover, straw, and [[fungal-bioturbation-and-soil-aggregate-formation]]. Conventional plowing destroys the soil's natural aggregation, disrupts fungal networks, and exposes organic matter to rapid oxidation. In Fukuoka's system, the soil is never disturbed.
 
 Earthworms and other soil organisms maintain soil structure through their natural activities, creating channels for air and water movement and stable aggregates that resist erosion. Over years of no-tillage management, Fukuoka observed that his soil became increasingly porous, well-structured, and rich in organic matter.
 
@@ -79,7 +45,7 @@ The reason he concentrated on a method of biennial cultivation that begins by so
 
 The cover of green manure makes three-dimensional use of space in the field, while straw mulching and the breakdown of materials in the soil encourage revitalization of the natural ecosystem. These can be thought of as manifestations of an effort to approach the ultimate goal of a do-nothing nature.
 
-Whether the method of cultivation Fukuoka proposes, a direct-seeding no-[[no-tillage-rice-barley-succession-cropping]]-barley succession in a ground cover of green manure, is a true prototype of nature must be judged according to whether it is a methodless method that approaches closer to nature.
+Whether the method of cultivation Fukuoka proposes, a direct-seeding no-barley succession in a ground cover of green manure, is a true prototype of nature must be judged according to whether it is a methodless method that approaches closer to nature.
 
 ## Yields and Comparison with Conventional Methods
 
@@ -111,6 +77,7 @@ It demanded the patience to let nature take its course and the humility to accep
 
 ## See Also
 
+- [[fukuoka-textdoc-epilogue-barley-philosophy]]
+
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]

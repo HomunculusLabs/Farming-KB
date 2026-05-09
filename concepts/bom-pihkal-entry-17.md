@@ -115,8 +115,6 @@ of beta-substituted phenethylamines.
 
 ## See Also
 
-- [[pihkal-mescaline]]
 - [[pihkal-mescaline-analogs]]
-- [[mescaline-derivatives-pihkal]]
 - [[bod-pihkal-entry-14]]
 - [[bob-pihkal-entry-13]]

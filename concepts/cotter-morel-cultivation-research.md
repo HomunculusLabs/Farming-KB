@@ -24,19 +24,7 @@ observation and local testing.
 
 ### Classification and Associations
 
-Morels have been classified as both saprophytic and [[mycorrhizal-fungi]], and in
-some cases both at different points in their life cycle, making them arguably
-obligate on living trees at times. Morel mycelium has evolved to interact with
-soil microbes specific to the root zones (rhizosphere) of particular host
-trees. Evidence also exists of bacterial endosymbionts living inside morel
-hyphae as part of the Hartig net, the site of nutrient exchange between plant
-and fungus.
-
-### Spore Dispersal
-
-Morels are not gilled or pored but have cups lined with tightly bundled tubes
-(asci) that "hiss" or vent concentrated bursts of spores. Morel spores
-germinate much more rapidly than [[white-rot-fungi]] (shiitake, oyster), with a
+Morels have been classified as both saprophytic and [[white-rot-fungi]] (shiitake, oyster), with a
 growth rate rivaling some molds -- over 1 inch per day.
 
 ### Sclerotia Formation
@@ -143,6 +131,8 @@ doubled compared to controls. The electrical charge may trigger a defense
 mechanism causing more prolific fruiting. This may explain the phenomenon of
 ## See Also
 
-- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-
 - [[cotter-oyster-mushroom-cultivation]]
+
+## See Also
+
+- [[benjamin-minge-duggar-mushroom-cultivation-research]]

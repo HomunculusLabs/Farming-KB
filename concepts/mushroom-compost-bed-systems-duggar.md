@@ -3,7 +3,7 @@ title: Mushroom Compost and Bed Systems — Ridge vs Flat Beds, Casing, and Subs
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mushroom-cultivation, bulk-substrate, compost, equipment]
+tags: [[mushroom-cultivation, bulk-substrate, compost, equipment]
 sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
 
@@ -127,11 +127,7 @@ Duggar's strongest sanitation recommendation: never reuse old compost or spent s
 
 ## Related Pages
 
-- [[bulk-substrate-preparation]]
 - [[mushroom-compost-fermentation-duggar-method]]
-- [[mushroom-bed-installation-spawning-duggar-1915]]
 - [[mushroom-nutrition-science-duggar-1915]]
-- [[agaricus-bisporus-cultivation-biology]]
 - [[agaricus-phase-i-composting]]
-- [[mushroom-growing-reference]]
 - [[mushroom-nutrition-manure-fermentation]]

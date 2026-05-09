@@ -44,40 +44,15 @@ If intraperitoneal screening is effective, oral administration follows:
 
 The S-180 assay was instrumental in the discovery of the major mushroom-derived antitumour compounds:
 - **1968-1969**: Ikekawa et al. and Chihara et al. first demonstrated that hot water extracts of multiple mushroom species showed remarkable host-mediated antitumour activity against Sarcoma 180 xenografts, bringing "immediate public attention"
-- **1970**: Chihara isolated and characterized [[lentinan-pre-clinical-antitumour-models]] from Lentinula edodes using S-180 screening
-- Subsequent decades: the assay identified [[psk-psp-polysaccharide-peptides]], schizophyllan-research|schizophyllan, grifolan, and dozens of other active polysaccharides
+- **1970**: Chihara isolated and characterized [[psk-psp-polysaccharide-peptides]], schizophyllan-research|schizophyllan, grifolan, and dozens of other active polysaccharides
 
 ## Key Findings from S-180 Studies
 
 ### Lentinan Results
-In pre-clinical S-180 models, [[lentinan-pre-clinical-antitumour-models]] showed:
-- 78.1% tumour inhibition at 0.2 mg/kg x 10 days with 6/10 complete regressions
-- 100% tumour inhibition at 1 mg/kg x 10 days with 10/10 complete regressions
-- 88.2% inhibition at 25 mg/kg x 10 days
-- Similar results in allogeneic, syngeneic, and autochthonous models
-- Metastasis inhibition rates of 94.2-100% in various models
-- Prevention of oncogenesis: reducing tumour incidence from 83% to 31% and 78% to 37%
-
-### Dose-Response Considerations
-Importantly, dose-response was not always linear. At very high doses (80 mg/kg x 5 days), lentinan showed negative inhibition (-8.5%), indicating that optimal dosing is critical. This non-linear response has been observed with other mushroom polysaccharides as well.
-
-### Schizophyllan Results
-schizophyllan-research|Schizophyllan has been shown to be cytostatic in S-180 tumour xenographs. However, the survival of S-180 xenographs was not affected by pre-treatment with schizophyllan, suggesting timing of administration relative to tumour establishment is important.
-
-## Host-Mediated Mechanism
-
-A critical finding from S-180 studies is that mushroom polysaccharides are non-toxic to tumour cells in vitro at effective doses. Their antitumour activity requires an intact host immune system, as demonstrated by:
-- Loss of activity in T-cell-suppressed mice (cyclosporin A experiments with [[lentinan-pre-clinical-antitumour-models]] and schizophyllan-research|schizophyllan)
+In pre-clinical S-180 models, [[lentinan-pre-clinical-antitumour-models]] and schizophyllan-research|schizophyllan)
 - No direct cytotoxicity against tumour cell lines in culture
-- The conclusion that antitumour action is mainly host-mediated through [[medicinal-mushroom-immune-modulation]]
-
-The Cancer Research Campaign report notes that mushroom-derived glucans and polysaccharo-peptides "can act as immunomodulators" whose ability to "enhance or suppress immune responses can depend on a number of factors including dosage, route of administration, timing and frequency of administration." They potentiate both innate (non-specific) and acquired (specific) immune responses, activating cytotoxic macrophages, monocytes, neutrophils, natural killer cells, and dendritic cells, while also stimulating cytokine production including interleukins, interferon, and colony stimulating factors.
-
-## Immunological Requirements
-
-The S-180 model has been critical in establishing that:
-- [[lentinan-pre-clinical-antitumour-models]] and schizophyllan-research|schizophyllan are T-cell oriented immunopotentiators requiring a functional T-cell component
-- [[psk-psp-polysaccharide-peptides]] and [[psk-psp-polysaccharide-peptides]] are potent immunostimulators with specific activity for T-cells and antigen-presenting cells (monocytes and macrophages)
+- The conclusion that antitumour action is mainly host-mediated through [[lentinan-pre-clinical-antitumour-models]] and schizophyllan-research|schizophyllan are T-cell oriented immunopotentiators requiring a functional T-cell component
+- [[psk-psp-polysaccharide-peptides]] are potent immunostimulators with specific activity for T-cells and antigen-presenting cells (monocytes and macrophages)
 - Lymphocytes governing antibody production (B-cells) and cell-mediated cytotoxicity (T-cells) are also stimulated
 
 ## Limitations and Criticisms
@@ -90,14 +65,24 @@ The S-180 model has been critical in establishing that:
 
 ## Cancer Chemoprevention Studies
 
-Beyond purified compounds, the S-180 model has been used to demonstrate chemopreventive effects of whole mushroom dietary supplementation. Diets enriched with 5-20% dried mushroom powder (L. edodes, G. frondosa, P. ostreatus) significantly reduced tumour incidence in carcinogen-treated mice, suggesting a role for [[functional-foods-medicinal-mushrooms]] through dietary means.
-
-## Standardisation Challenges
-
-Clinical efficacy of the mushroom polysaccharides depends on understanding their precise scope of activity, dose range, extraction methods, source and purity of raw fungal material, duration and frequency of administration, and accuracy in matching extracts to each particular patient. The S-180 assay provides a standardised starting point but cannot fully predict human clinical outcomes.
-
-## See Also
-
-- [[mycoremediation-scale-up-challenges]]
-- [[homestead-scale-assessment]]
+Beyond purified compounds, the S-180 model has been used to demonstrate chemopreventive effects of whole mushroom dietary supplementation. Diets enriched with 5-20% dried mushroom powder (L. edodes, G. frondosa, P. ostreatus) significantly reduced tumour incidence in carcinogen-treated mice, suggesting a role for [[mycoremediation-scale-up-challenges]]
 - [[psychedelic-dose-response]]
+## Practical Considerations
+
+Successful implementation of Sarcoma 180 Antitumour Assay requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

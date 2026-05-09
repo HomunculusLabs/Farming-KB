@@ -29,34 +29,7 @@ require a period of freezing before germinating.
 
 By sowing seeds under cloches you can start sowing outside in early
 spring. Place cloches in position two weeks or so before sowing to
-warm the soil up. See [[hamilton-cloches-and-frost-protection]].
-
-## Soil Preparation
-
-Normal organic methods of soil preparation will produce a good,
-workable structure. Rake the soil level, sprinkle fertilizer at the
-recommended rate, and compress by walking over the surface with your
-weight on your heels. Rake down to a fine tillage before sowing.
-
-## Encouraging Germination
-
-Some seeds have extremely hard coats and germinate more successfully
-if soaked overnight in water. Very hard seeds can be filed with a nail
-file to assist water entry. Others, such as beets, have a natural
-germination inhibitor; remove it by washing under the cold tap or
-soaking overnight.
-
-## Depth and Distance
-
-The main cause of seeds failing to germinate is sowing too deeply.
-Seeds have a reserve of food enabling the shoot to reach the surface,
-but if the reserve runs out before emergence, the seedling never
-appears. Hamilton recommends making "shallow" rows, a furrow as
-shallow as possible.
-
-Space seeds and rows correctly to avoid overcrowding. Root crops will
-"fork" if transplanted, so sow them directly at the recommended
-distances. With [[hamilton-deep-bed-system]], adopt a
+warm the soil up. See [[hamilton-deep-bed-system]], adopt a
 block-sowing technique.
 
 ## Sowing Techniques Outdoors
@@ -116,8 +89,6 @@ seedlings, harden them off gradually in a cold frame.
 
 ## See Also
 
-- [[hamilton-organic-seed-saving-propagation]]
 - [[hamilton-deep-bed-system]]
-- [[hamilton-cloches-and-frost-protection]]
 - [[organic-propagation-methods]]
 - [[hamilton-vegetative-propagation]]

@@ -33,7 +33,7 @@ covers scavenge residual soil nitrogen, preventing leaching to groundwater.
 All cover crops add organic matter when terminated and incorporated, feeding
 soil organisms and building humus.
 
-Living [[root-exudates]] feed [[mycorrhizal-networks]] and soil microbial communities.
+Living [[mycorrhizal-networks]] and soil microbial communities.
 Above-ground biomass acts as a mulch layer when terminated, conserving moisture
 and moderating soil temperature. Diverse cover crop mixtures support a wider
 range of soil organisms than monocultures, building more resilient soil food
@@ -116,24 +116,5 @@ as a mulch mat through which the cash crop is direct-drilled.
 Mollison emphasises that cover crops should be planned as integral phases of
 the rotation, not as afterthoughts. A typical temperate vegetable rotation
 might include: winter cover crop, spring vegetables, summer cover crop, autumn
-vegetables. In broadacre systems, ley farming (see [[mollison-designers-broadacre-grain-and-pasture-design]]) integrates multi-year pasture phases
-that function as extended green manures.
-
-Living mulches, where low-growing covers persist between crop rows during the
-growing season, provide continuous soil protection and nitrogen fixation.
-White clover between fruit trees, subterranean clover under maize, and
-periwinkle in orchards are examples. Management involves mowing or grazing to
-prevent competition with the primary crop.
-
-## Species Mixtures
-
-Mixtures of three to eight species outperform monocultures in most situations.
-A typical mixture might combine a grass for biomass and soil structure, a
-legume for nitrogen fixation, and a brassica or broadleaf for nutrient
-scavenging and biofumigation. Each species occupies a different niche in the
-root zone and canopy, maximising resource capture and biological diversity.
-
-## See Also
-
-- [[hamilton-green-manure-crops-and-cover-cropping]]
+vegetables. In broadacre systems, ley farming (see [[hamilton-green-manure-crops-and-cover-cropping]]
 - [[mollison-designers-trout-and-cool-water-aquaculture-species]]

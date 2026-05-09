@@ -118,8 +118,10 @@ its content exceeds all prior categories of understanding.
 
 ## See Also
 
-- [[tryptamine-hypercontinuum]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - mckenna dmt phenomenology and cognitive dissonance of wonder
-- [[dmt-endogenous-production]]
 - [[tryptamine-receptor-pharmacology]]
+
+## See Also
+
+- [[mckenna-endogenous-dmt-rapid-onset-versus-lsd-body-retention]]

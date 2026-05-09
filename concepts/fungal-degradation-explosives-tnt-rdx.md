@@ -3,12 +3,12 @@ title: Fungal Degradation of Explosives: TNT, RDX, and Related Compounds
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Degradation of Explosives: TNT, RDX, and Related Compounds
 
-Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent [[mycoremediation-environmental-contaminants]] found at munitions manufacturing facilities, testing ranges, and disposal sites. These nitroaromatic and nitramine compounds are highly toxic, mutagenic, and carcinogenic, creating urgent need for effective [[fungal-bioremediation]] strategies.
+Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent [[fungal-bioremediation]] strategies.
 
 ## TNT: Properties and Environmental Concerns
 
@@ -24,23 +24,7 @@ TNT is the most widely studied explosive compound in fungal bioremediation resea
 
 - Found at contaminated military sites as both soil and groundwater pollution, and in waste streams known as "pink water"
 
-TNT contamination is particularly problematic because the compound can persist for decades in soil environments. The challenge for [[fungal-bioremediation]] is to overcome TNT's toxicity to the organisms intended to degrade it.
-
-## Fungal Transformation Mechanisms for TNT
-
-Fungi transform TNT through several distinct mechanisms that differ from bacterial pathways:
-
-### Nitro Group Reduction
-
-The primary route of TNT transformation by fungi is the stepwise reduction of nitro groups:
-
-- TNT is reduced to 2-hydroxylamino-4,6-dinitrotoluene and then to 4-amino-2,6-dinitrotoluene
-
-- Further reduction can produce diaminonitrotoluenes and eventually triaminotoluene
-
-- These reduction products may be more toxic or equally toxic compared to the parent compound
-
-- In [[phanerochaete-chrysosporium]], TNT degradation was inhibited by these intermediate metabolites rather than by TNT itself, creating a self-limiting transformation process
+TNT contamination is particularly problematic because the compound can persist for decades in soil environments. The challenge for [[phanerochaete-chrysosporium]], TNT degradation was inhibited by these intermediate metabolites rather than by TNT itself, creating a self-limiting transformation process
 
 ### Oxidative Ring Cleavage
 
@@ -54,7 +38,7 @@ Some fungi can oxidatively attack the aromatic ring of TNT:
 
 ### Laccase-Mediated Coupling
 
-[[fungal-enzyme-systems-xenobiotic-degradation]] can catalyze the coupling of TNT metabolites to [[humus-formation-and-soil-organic-matter]]:
+[[humus-formation-and-soil-organic-matter]]:
 
 - Dawel et al. (1997) described the structure of a laccase-mediated coupling product of 2,4-diamino-6-nitrotoluene and guaiacol
 
@@ -66,27 +50,7 @@ Some fungi can oxidatively attack the aromatic ring of TNT:
 
 P. chrysosporium has been the most extensively studied fungus for TNT degradation, but with mixed results:
 
-- TNT inhibits MnP production, which is a key enzyme in the [[mycoremediation-enzymology]]|ligninolytic system
-
-- Agitated cultures were preferred when TNT was added at the start of incubation, as agitation improved mass transfer of the poorly soluble compound
-
-- Under nitrogen-limiting conditions, TNT degradation was limited by the accumulation of toxic intermediates
-
-- However, P. chrysosporium immobilized on rotating biological contactor discs effectively removed TNT from pink water to allowable limits
-
-- The fungus also effectively removed RDX simultaneously with TNT in mixed waste treatment systems
-
-These results illustrate a general principle: performance in controlled bioreactor systems can differ significantly from performance in simple liquid cultures.
-
-## Other Fungal Species for TNT Degradation
-
-Several fungal species beyond P. chrysosporium have shown promise:
-
-- **Phlebia radiata** -- removed 22% of TNT and 76% of amino-dinitrotoluene metabolites. Also effective in solid-state cultivation systems, which may be more practical for field applications
-
-- **Nematoloma frowardii** -- notably not inhibited by intermediary metabolites that limit P. chrysosporium, making it a potentially superior candidate for sustained TNT transformation
-
-- **Suillus variegatus** -- an [[mycorrhizal-fungi-basics-lowenfels]] that demonstrated TNT reduction, with intact mycelia showing enhanced transformation compared to cell-free extracts
+- TNT inhibits MnP production, which is a key enzyme in the [[mycorrhizal-fungi-basics-lowenfels]] that demonstrated TNT reduction, with intact mycelia showing enhanced transformation compared to cell-free extracts
 
 - **Penicillium and Aspergillus species** -- various strains show tolerance and transformation capacity for nitroaromatic compounds
 

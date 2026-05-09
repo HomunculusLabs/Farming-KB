@@ -136,8 +136,6 @@ Olive growing is a long-term, low-maintenance investment. A well-planned 10-tree
 
 ## See Also
 
-- [[query-how-do-i-start-a-small-home-vineyard-for-table-grapes]]
 - [[query-what-is-agroforestry-and-how-can-i-start]]
-- [[query-how-to-start-growing-mushrooms-at-home]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
 - [[query-how-to-grow-sprouts-and-microgreens-at-home]]

@@ -117,16 +117,8 @@ Plants pull nutrients from deep subsoil and deposit them at the surface through 
 
 ## See Also
 
-- [[gaias-garden-nut-trees-home-garden]]
-
 - [[gaias-garden-stacking-functions]] — stacking functions and redundancy
-- [[gaias-garden-design-process]] — the design process
 - [[gaia-garden-plant-guilds]] — plant guild design
-- [[gaias-garden-soil-food-web-and-humus]] — soil food web details
 - [[mollison-observation-design]] — observation in permaculture design
-- [[holzer-farming-philosophy]] — Holzer's ecological farming philosophy
-
-## Related
-
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[gaias-garden-cover-crops-soil-building]]

@@ -133,13 +133,7 @@ nutrients released by autumn leaf and needle fall.
 
 ## See Also
 
-- [[clitocybe-geotropa]]
-
-- tricholomataceae
-- nebularin
-- [[trametes-versicolor]]
-- [[lentinula-edodes]]
+- [[trametes-versicolor-entity]]
 - [[boletus-edulis-entity]]
-- [[coprinopsis-atramentaria]]
-- [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]
 - [[mycorrhizal-fungi]]

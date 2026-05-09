@@ -114,22 +114,9 @@ was most likely a Gymnopilus species closely related to G. purpuratus.
 The discovery of psilocybin in Gymnopilus purpuratus was the first time this
 substance had been found in a member of the family Cortinariaceae. This finding,
 combined with the later identification of psilocybin in
-[[inocybe-aeruginascens-profile]] (also Cortinariaceae),
-demonstrated that psilocybin biosynthesis had evolved independently multiple
-times across distantly related fungal lineages.
+[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
 
-No cases of accidental intoxication or self-experiments involving Gymnopilus
-purpuratus were known to Gartz at the time of writing.
-
-## See Also
-
-- [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
-
-- [[inocybe-aeruginascens-profile]] — Another Cortinariaceae member containing psilocybin
 - [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] — Tiny European psychoactive mushroom
-- [[stamets-psi-psilocybe-cyanescens-species-guide]] — Potent wood-inhabiting species
 - [[psilocin-and-psilocybin-chemistry]] — The active compounds
-- [[gartz-european-psychoactive-mushroom-species]]
 - [[psilocybin-mushroom-microscopic-identification]]
-- [[psilocybe-mushroom-species-guide]]
 - [[gartz-magic-mushrooms-global-distribution-patterns]]

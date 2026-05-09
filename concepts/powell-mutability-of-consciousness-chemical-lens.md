@@ -127,24 +127,7 @@ into a burning point of clarity. The psychedelic state is not a
 distortion but a sharpening, revealing aspects of reality that were always
 present but previously invisible to the constrained mind.
 
-This connects to broader discussions of [[psychedelic-therapy-current-research]]
-where patients consistently report gaining access to perspectives and
-insights that feel more authentic and meaningful than their ordinary
-awareness.
+This connects to broader discussions of [[powell-psilocybin-consciousness]] Concepts
 
-## Criticism and Limitations
-
-Powell acknowledges that if the enterprise of investigating entheogens
-should prove spurious and built of nothing more than ephemeral
-imagination, it would still demonstrate that the human imagination under
-certain chemical circumstances is extraordinarily creative. However, he
-maintains his belief that entheogenic agents unleash a form of
-consciousness better able to grapple with ultimate questions about reality.
-## Related
-
-- [[powell-psilocybin-consciousness]] Concepts
-
-- [[default-mode-network-and-ego-dissolution]]
 - [[powell-psilocybin-solution-ecological-cognition-theory]]
-- [[powell-psilocybin-solution-psychedelics-and-problem-solving]]
 - [[powell-psilocybin-brain-plasticity]]

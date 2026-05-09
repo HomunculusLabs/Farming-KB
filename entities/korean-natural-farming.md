@@ -142,8 +142,6 @@ KNF principles have been adapted for:
 
 ## See Also
 
-- [[fukuoka-one-straw-revolution-philosophy]] — Masanobu Fukuoka's natural farming philosophy
 - [[effective-microorganisms-em]] — Teruo Higa's microbial inoculant system
-- [[indigenous-microorganisms]] — Detailed guide to IMO collection and propagation
 - [[regenerative-agriculture]] — Broader regenerative farming movement
 - [[permaculture]] — Holistic design system for sustainable human habitats

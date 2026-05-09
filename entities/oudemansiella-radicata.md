@@ -110,12 +110,7 @@ The epithet *radicata* refers to the characteristically long rooting stipe.
 
 ## Permaculture Applications
 
-- **Stump decomposition:** Accelerates breakdown of hardwood stumps in food
-  forest systems, freeing nutrients for successor plantings
-- **Natural fungicide potential:** Oudemansin compounds have applications as
-  natural crop protection agents in organic farming
-- **Indicator species:** Presence indicates active buried hardwood decomposition,
-  useful for soil health assessment in permaculture design
+- **Stump [[permaculture-design]]
 
 ## Similar Species
 
@@ -123,11 +118,9 @@ The epithet *radicata* refers to the characteristically long rooting stipe.
 |---------|------------------------|
 | Oudemansiella canarii | Larger, more robust; tropical distribution |
 | Oudemansiella mucida | On living beech; thick glutinous slime on cap |
-| Xerula furfuracea | Darker cap, radicate stipe, dry cap surface |
-| Armillaria mellea | Clusters, rhizomorphs, bitter taste |
+| [[armillaria-mellea-entity]] | Clusters, rhizomorphs, bitter taste |
 
 ## See Also
 
-- [[armillaria-mellea]] — Related wood-decomposing agaric
-- [[pleurotus-ostreatus]] — Common saprotrophic edible on hardwood
+- armillaria mellea — Related wood-decomposing agaric
 - [[xylaria-polymorpha-entity]] — Competing wood-decomposing fungus

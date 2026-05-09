@@ -122,8 +122,6 @@ with shallow-rooted neighbors for surface moisture.
 
 ## See Also
 
-- [[helianthus-annuus-entity]] — Sunflower, fellow tall prairie Asteraceae
 - [[symphytum-officinale]] — Comfrey, another deep-rooted dynamic accumulator
-- [[asclepias-syriaca]] — Common milkweed, companion in prairie plantings
 - [[echinacea-angustifolia]] — Narrow-leaved coneflower, prairie medicinal
 - [[solidago-virgaurea]] — Goldenrod, prairie pollinator species

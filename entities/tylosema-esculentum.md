@@ -115,12 +115,8 @@ The dual harvest of seeds and tubers provides year-round food production from a 
 ## See Also
 
 - [[moringa-oleifera]]
-- [[acacia-senegal]]
 - [[prosopis-juliflora]]
-- [[pachyrhizus-erosus]]
 - [[manihot-esculenta]]
-- [[lablab-purpureus]]
 - [[canavalia-ensiformis]]
-- [[comfrey]]
 - [[hugelkultur]]
 - [[vetiveria-zizanoides]]

@@ -79,42 +79,7 @@ Succinate dehydrogenase oxidizes succinate to fumarate,
 reducing FAD to FADH2. Unique among TCA cycle enzymes, it is
 embedded in the inner mitochondrial membrane and serves as
 Complex II of the electron transport chain chain, directly linking
-the cycle to [[oxidative-phosphorylation-mitochondrial-respiration]].
-
-### Fumarate to Malate
-
-Fumarase adds water across the double bond of fumarate to
-produce L-malate. Fumarase is among the most efficient
-enzymes known, with a turnover number approaching the
-diffusion-controlled limit.
-
-### Malate to Oxaloacetate
-
-Malate dehydrogenase oxidizes malate to oxaloacetate,
-producing the third NADH and regenerating the four-carbon
-acceptor. Though thermodynamically unfavorable, continuous
-removal of oxaloacetate by citrate synthase pulls the
-reaction forward.
-
-## Energy Yield and Regulation
-
-Each acetyl-CoA yields approximately 10 ATP (from three
-NADH, one FADH2, and one GTP). For a glucose molecule, two
-acetyl-CoA entries yield approximately 20 ATP, combined with
-glycolysis and pyruvate oxidation giving a theoretical
-maximum of 30-32 ATP per glucose.
-
-The cycle is regulated at three allosteric enzymes: citrate
-synthase, isocitrate dehydrogenase, and alpha-ketoglutarate
-dehydrogenase. High ATP/ADP and NADH/NAD+ ratios inhibit the
-cycle; ADP and Ca2+ activate key dehydrogenases during
-energy demand.
-
-## Anaplerotic Reactions
-
-TCA cycle intermediates are continuously drawn off for
-biosynthesis: oxaloacetate for gluconeogenesis, alpha-
-ketoglutarate for [[knf-fish-amino-acid]] synthesis, succinyl-CoA for
+the cycle to [[knf-fish-amino-acid]] synthesis, succinyl-CoA for
 heme synthesis, and citrate for fatty acid synthesis. These
 cataplerotic withdrawals must be replenished by anaplerotic
 reactions, principally pyruvate carboxylase (pyruvate to
@@ -134,6 +99,5 @@ promoting tumor progression.
 
 ## See Also
 
-- [[glycolysis-embden-meyerhof-parnas-pathway]]
 - [[enzyme-kinetics-michaelis-menten-model]]
 - [[glutathione-biochemistry-and-redox-biology]]

@@ -10,47 +10,7 @@ tags: [culture, harvesting, permaculture, water]
 # Water Harvesting and Management in Permaculture
 
 Water is the central organising element in Mollison's permaculture
-design. Pamphlet XI ("[[water-in-permaculture]]") of the 1981 Design
-Course provides extensive guidance on water harvesting, storage,
-aquaculture, and the design of productive water systems.
-
-## The Global Water Crisis
-
-Mollison presents alarming statistics: less than 1% of all fresh
-water moves (in rivers, lakes, soils, and atmosphere); 75% is
-unavailable (locked in ice caps and deep storage). The water table
-everywhere is falling rapidly. In many towns, water runs at 700
-parts per million dissolved salts -- at the limit of human kidney
-tolerance. At 1,100 ppm, fainting and tissue water accumulation
-occur.
-
-Half a million gallons fall annually on an average roof, yet people
-can be very short of water unless they build tanks or surface
-storages. The problem is not scarcity of rainfall but failure to
-store and slow water through productive systems.
-
-## Three Methods of Water Storage
-
-1. **In soils:** Treated with the Wallace plow and swales to
-   increase infiltration and water-holding capacity
-2. **In surface earth tanks:** Far cheaper than concrete -- 250,000
-   gallons can be stored in earth tanks for the same cost as 5,000
-   gallons in concrete tanks
-3. **In sealed catchments:** Roof tanks for domestic drinking water
-
-The design principle: store water where it falls, as high in the
-landscape as possible, and run it through as many productive uses
-as possible before letting it go. "Had the engineers stored the
-water where it came from, then they could have run it through all
-sorts of systems before they let it escape into the valley."
-
-## Swales and Keyline Systems
-
-Throughout urban areas, swales are identified as very appropriate
-for reducing runoff and storing water in soils. Swales are level
-ditches on contour that catch water, slow it, spread it, and sink
-it into the soil. Combined with the keyline system of P.A. Yeomans,
-swales form part of a comprehensive landscape [[water-management]]
+design. Pamphlet XI ("[[water-management]]
 strategy.
 
 ## Pond Design for Production
@@ -144,6 +104,8 @@ prismatic eyes seeing spectral yellow as a band, not the red-plus-
 green mixture humans see as yellow. Spectral yellow traps must be
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

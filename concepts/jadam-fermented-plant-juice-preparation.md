@@ -109,18 +109,11 @@ Grow Jerusalem artichoke, ginkgo, Korean pasque flower, and red spider lily arou
 
 ## Related
 
-- [[jadam-natural-pesticide-recipes]]
 - [[jadam-herb-solution-jhs]]
-- [[jadam-jhs-herb-selection-guide]]
 - [[jadam-jhs-nutritional-analysis]]
-- [[jadam-wetting-agent-jwa]]
 - [[jadam-pesticide-mixing-guidelines]]
 - jadam-jinap-daeng-saeng-fermented-plant-juice
-- [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]
 - [[korean-natural-farming-fpj-and-ffp-recipes]]
-- [[korean-natural-farming-lab-and-ohn-recipes]]
 - [[cho-fermented-plant-juice-preparation]]
-- [[jadam-natural-vs-chemical-pesticide]]
 - [[jadam-pesticide-for-aphids-and-mites]]
-- [[korean-natural-farming-imo-recipes]]
 - [[jadam-natural-pesticide-recipes]]

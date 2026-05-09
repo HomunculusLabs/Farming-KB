@@ -1,7 +1,7 @@
 ---
 title: Fruiting Conditions and Pinning
 created: 2026-04-28
-tags: [mycology, cultivation, fruiting, pinning]
+tags: [[mycology, cultivation, fruiting, pinning]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -112,19 +112,7 @@ flesh. Cooler temperatures produce denser, meatier mushrooms with longer
 shelf life but slower development. Many growers use the lower end of
 the temperature range for the highest quality product.
 
-## [[water-management]]
+## [[fruiting-conditions-for-mushrooms]]
 
-Maintaining proper hydration during fruiting requires a balance between
-high ambient humidity (to prevent drying) and adequate evaporation (to
-stimulate growth). Misting is used to replenish surface moisture, but
-excessive misting can waterlog the substrate surface and promote
-bacterial blotch. The goal is a glistening surface with no standing
-water droplets.
-
-## See Also
-
-- [[fruiting-conditions-for-mushrooms]]
-
-- [[azurescens-fruiting-seasons-and-conditions]]
 - [[fruiting-conditions-and-harvesting]]
 - [[oyster-mushroom-fruiting-conditions]]

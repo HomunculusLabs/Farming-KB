@@ -138,10 +138,6 @@ pollutant degradation.
 
 ## See Also
 
-- [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]]
-
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
-- [[fungal-laccase-redox-mediators]]
 - [[fungal-manganese-peroxidase-remediation]]
-- [[mycoremediation-enzymology]]
 - [[mycoremediation-of-pahs]]

@@ -101,22 +101,6 @@ This theory has direct agricultural implications:
 
 ## Relationship to Mu Philosophy
 
-The Dharma Wheel Theory connects to Fukuoka's concept of [[fukuoka-natural-farming-philosophy-of-mu]]: when one sees and operates within transcendent time and space, it is the unity of all things that is perceived, not their divisions. The theory rejects the discriminating, analytical knowledge that Fukuoka saw as the fundamental error of Western science.
-
-## The Cave of the Intellect Connection
-
-The Dharma Wheel Theory directly opposes what Fukuoka called "the cave of the intellect" — his brush-and-ink illustration showing two men toiling in a pit swinging pickaxes that represent the human intellect. The more they swing, the deeper the pit gets and the harder it is to escape. Darwin's theory of evolution, which breaks nature into fragments and classifies them in linear sequence, is itself an example of digging deeper into the cave of the intellect. Outside the cave, a person relaxes in sunlight, free from the drudgery of trying to understand nature through analysis, simply enjoying life while providing necessities through natural farming.
-
-## Fukuoka's Conversation with Fritjof Capra
-
-The Dharma Wheel Theory was informed by Fukuoka's meeting with Fritjof Capra, a professor of theoretical physics at UC Berkeley who was troubled that current theories of subatomic particles appeared incomplete. Capra had found hints in the Taoist concept of yin and yang and had likened the dance of subatomic particles to the dance of the Indian god Shiva, but could not find the fundamental principle.
-
-Fukuoka suggested the problem was in believing that human knowledge could fully comprehend nature. When he mentioned this limitation, Capra countered: "I've written more than ten books, but haven't you written books, too, thinking knowledge was useful?" Fukuoka responded that he wrote his books believing they were not useful at all, while Capra wrote believing they would help others. Both were investigating nature and yearning for a return to it, but on the question of affirming or negating human knowledge, they were moving in opposite directions.
-
-## See Also
-
-- [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-dharmic-law-all-things-return-to-one]]
+The Dharma Wheel Theory connects to Fukuoka's concept of [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]

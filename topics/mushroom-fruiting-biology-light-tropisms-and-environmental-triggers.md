@@ -24,7 +24,7 @@ related_concepts:
   - [[the-soil-food-web]]
   - [[mycorrhizal-fungi]]
   - [[endophytic-fungi-hidden-symbionts-within-plants]]
-  - [[working-with-agar]]
+  - [[working-with-agar-guide]]
 ---
 
 # Mushroom Fruiting Biology: Light, Tropisms, and Environmental Triggers
@@ -294,7 +294,7 @@ Future research directions include the molecular identification of the blue-ligh
 - [[mushroom-cultivation-fundamentals]] for practical cultivation techniques
 - [[mycelium-networks-and-fungal-ecology]] for the role of mycelial networks in ecosystems
 - [[fungal-decomposition-and-the-global-carbon-cycle]] for the ecological context of fungal fruiting
-- [[working-with-agar]] for strain isolation and mycelial selection techniques
+- [[working-with-agar-guide]] for strain isolation and mycelial selection techniques
 - [[tryptamine-chemistry-and-psychedelic-pharmacology]] for the biochemistry of fungal secondary metabolites
 - [[the-soil-food-web]] for the microbial ecology of substrates that support mushroom growth
 - [[fungal-decomposition-and-the-global-carbon-cycle]] for the broader ecological context of fungal life cycles

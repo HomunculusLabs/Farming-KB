@@ -74,16 +74,7 @@ distortion (analgesia is a loss, not a distortion) or visual effect. Perhaps
 
 The 3,5-dimethoxy-4-bromo substitution pattern represents a less common
 isomer of the more familiar 2,5-dimethoxy-4-bromo pattern found in
-[[dob-entity]]. The dramatic difference in pharmacological profile between these
-isomers -- analgesic versus psychedelic -- illustrates how subtle changes in
-substitution pattern can completely alter the nature of a compound's central
-activity.
-
-## Related Compounds
-
-- [[dob-entity]] -- 2,5-dimethoxy-4-bromoamphetamine (the 2,5-isomer)
-
-- [[dom-entity]] -- 2,5-dimethoxy-4-methylamphetamine
+[[dob-entity]] -- 2,5-dimethoxy-4-bromoamphetamine (the 2,5-isomer)
 
 - [[don-entity]] -- 2,5-dimethoxy-4-nitroamphetamine
 

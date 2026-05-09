@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM stone fruit tree care management combines deep [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] work before budding/sprouting with a complete [[ultra-low-cost-jadam-natural-pesticide-jnp]] system. The approach yields remarkable results -- documented cases include a single grape vine covering 900 sq m with 3,000 fruits (Deokhyeon Do's farm in Gochang) and kiwi farming with organic methods producing high yields (Chanmo Gim's farm in Goseong).
+JADAM stone fruit tree care management combines deep [[ultra-low-cost-jadam-natural-pesticide-jnp]] system. The approach yields remarkable results -- documented cases include a single grape vine covering 900 sq m with 3,000 fruits (Deokhyeon Do's farm in Gochang) and kiwi farming with organic methods producing high yields (Chanmo Gim's farm in Goseong).
 
 ## Soil Foundation for Fruit Trees
 
@@ -28,22 +28,14 @@ This is the most critical moment -- high yield is determined at the early stage.
 
 **Soil Foundation Builder:**
 - JMS -- 500 L (132 gal)
-- [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]] -- 1.5 kg (3.3 lb)
-- Phyllite solution -- 60 L (16 gal)
-- GC-JLF ([[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]/[[ultra-low-customized-crop-residue-fertilizers]] JLF) -- 60 L (16 gal)
-
-Apply mixed with [[water-management]] for generous deep soaking. For open fields, also apply undiluted before rain. For trees, you can apply directly on trunks.
+- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]/[[water-management]] for generous deep soaking. For open fields, also apply undiluted before rain. For trees, you can apply directly on trunks.
 
 ### During Growth
 - Apply JMS with seawater/salt and phyllite solution 3-4 times per month
 - 500 L of JMS can cover 0.1 to 3.3 ha
 - Apply before rain for open fields; with generous water for greenhouses
 
-## [[cover-crops]] in Orchards
-
-### Rye Between Fruit Trees
-- Broadcast rye seeds before harvesting fruit
-- Seeds sprout under the [[tree-canopy-fungal-sampling-techniques]]
+## [[tree-canopy-fungal-sampling-techniques]]
 - Tree leaves fall between rye plants and are not blown away
 - Complete nutrient recycling -- "This is a perfect fertilizer program"
 - Rye has low nitrogen content, maintaining nutrient balance
@@ -131,18 +123,7 @@ Effective against soil nematodes, verticillium wilt, virus diseases:
 
 When culturing JMS, add 1 kg of the specific fruit's material to the potato medium:
 - Grape farms: add grapes to culture microbes that help grapes
-- [[persimmon]]: add persimmon
-- Strawberry: add strawberry
-- Apple: add apple
-- This is the same principle as "selective medium" used in laboratories
-
-## Key JADAM Principles for Fruit Trees
-
-1. **Soil foundation before sprouting is everything:** This single application determines the year's yield
-2. **The tree's own leaves are its best fertilizer:** Return all fallen leaves to the soil
-3. **Co-exist with grass:** Wild grass under and between trees keeps soil moist, fertile, and disease-free
-4. **Root area = money:** The underground part should be larger than the aboveground part
-5. **From disinfection to diversity:** Prevent disease through microbial abundance, not chemical [[sterilization]]
+- [[sterilization]]
 6. **Balance vegetative and reproductive growth:** Use calcium to control excessive growth, potassium to promote fruit
 
 ## See Also

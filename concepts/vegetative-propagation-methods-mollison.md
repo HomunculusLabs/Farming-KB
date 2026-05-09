@@ -3,7 +3,7 @@ title: Vegetative Propagation Methods (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, gardening, plants]
+tags: [[permaculture, design, gardening, plants]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -92,13 +92,8 @@ For transplanting seedlings into compost-rich soils, a dibble (a pointed stick) 
 
 ## See Also
 
-- [[mollison-water-filtration-methods]]
-
 - [[seed-saving-seed-resources-mollison]]
-- [[grafting-fruit-trees]]
 - [[pruning-fruit-trees]]
-- [[cool-climate-home-garden-mollison]]
 - [[farm-forestry-design-mollison]]
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
 - [[permaculture-designers-manual-seed-saving-varieties]]
 - [[permaculture-designers-manual-plant-propagation]]

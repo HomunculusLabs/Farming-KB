@@ -3,28 +3,7 @@ title: Magic Mushrooms in Japan
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, mushrooms]
-sources: []
----
-# Magic Mushrooms in Japan
-
-The history, species, and cultural context of psychoactive mushroom use in Japan, from medieval legends of "laughing mushrooms" to modern mycological discoveries.
-
-## Medieval Legends: The Dancing and Laughing Mushrooms
-
-Tales about the infamous "Laughing Mushroom" date as far back as the Japanese Middle Ages.
-
-A famous account from the 11th century describes several lumberjacks from Kyoto who got lost in the woods and encountered four or five Buddhist nuns.
-
-Instead of meditating in quiet quest for Nirvana, the nuns were dancing and laughing uncontrollably.
-
-The nuns had dealt with their hunger by eating delicious mushrooms they found in the forest.
-
-The lumberjacks ate the same mushrooms and soon succumbed to overwhelming fits of laughter and the urge to dance.
-
-Since that time, the mushrooms have been referred to in Japanese as "maitake" (Dancing Mushrooms) and later as "waraitake" (Laughing Mushrooms).
-
-For a long time, the species thought responsible were identified as Panaeolus papilionaceus and [[gymnopilus-purpuratus-profile]] ("giant laughing mushroom").
+tags: [[gymnopilus-purpuratus-profile]] ("giant laughing mushroom").
 
 However, Panaeolus papilionaceus is a European and North American species containing no psychoactive substances.
 
@@ -58,7 +37,7 @@ In 1932, S. Imai described intoxication cases from 1929 and 1931 involving his n
 
 The species was later named Stropharia venenata Imai and grows on top of wood and dung.
 
-Today it is classified within the genus [[psilocybe-genus-classification]] as a close relative of [[psychedelic-mushrooms-species-and-identification]].
+Today it is classified within the genus [[psychedelic-mushroom-set-and-setting]].
 
 On June 21, 1929, a 43-year-old woman collected about 13 oz of mushrooms she erroneously thought were honey mushrooms and served them to her family.
 
@@ -92,10 +71,9 @@ Panaeolus subbalteatus is known to grow on several Japanese islands.
 
 The body of knowledge about psychotropic mushroom species in Japan continues to grow as more mycological research is conducted.
 
-See also: [[gymnopilus-purpuratus-profile]], [[psychedelic-mushrooms-species-and-identification]], [[magic-mushroom-cultural-history]], [[psychedelic-mushrooms-species-and-identification]]
+See also: [[psychedelic-mushroom-set-and-setting]], [[psychedelic-mushroom-set-and-setting]]
 
 ## Related
 
-- [[japanese-laughing-mushroom-tradition]]
 - [[stropharia-rugoso-annulata-mycofiltration]]
 - [[gartz-european-psychoactive-mushroom-species]]

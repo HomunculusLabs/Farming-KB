@@ -103,10 +103,6 @@ This technique allows indefinite patch expansion without laboratory-grade spawn.
 
 ## See Also
 
-- [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
-
 - [[outdoor-woodlover-bed-preparation]] — general woodlover bed preparation
-- [[outdoor-woodlover-mushroom-cultivation]] — complete cultivation cycle
 - [[outdoor-mushroom-bed-preparation]] — broader outdoor bed methods
-- [[azurescens-spawn-preparation-grain-to-wood]] — spawn production
 - [[psilocybe-azurescens-profile]] — species profile

@@ -119,15 +119,9 @@ Cannabinoids have been explored for headache and migraine pain, with both pain-r
 
 ## See Also
 
-- [[cannabis-endocannabinoid-system-overview]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 - [[blesching-cannabis-neuropathic-pain]]
-- [[cannabis-and-fibromyalgia]]
 - [[cannabis-and-migraines]]
-- [[cannabis-and-arthritis]]
 - [[cannabis-topical-applications]]
-- [[cannabis-administration-methods-comparison]]
 - [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- [[cannabis-mind-body-medicine-integration]]
 - [[cannabis-safety-profile-and-overdose-risk]]

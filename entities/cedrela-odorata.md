@@ -130,12 +130,8 @@ Mixed-species plantations with diverse canopies show reduced Hypsipyla damage co
 ## See Also
 
 - [[tabebuia-avellanedae]]
-- [[azadirachta-indica]]
 - [[leucaena-leucocephala]]
-- [[gliricidia-sepium]]
 - [[moringa-oleifera]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[ganoderma-lucidum]]
-- [[hericium-erinaceus]]
 - [[permaculture]]
 - [[agroforestry]]

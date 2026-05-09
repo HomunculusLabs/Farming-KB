@@ -84,50 +84,8 @@ crime in America in 1966, and overnight many hundreds of research projects were 
 [Wasson's Life article had revealed [Maria Sabina's name and whereabouts, and the trickle of visitors to Oaxaca became a flood. Hippy culture arrived
 with a fundamentally different set of ideas from traditional indigenous practices. For hippies, mushrooms were
 "psychedelic" -- bound up with notions of authenticity, freedom, individualism, bohemianism, and rebellion.
-Used to seeing [[history-psychedelics-ancient]] as drugs rather than deities, many expected to buy and consume mushrooms as
-and when they wished, irrespective of local sensibilities.
-
-This cultural collision devastated the Mazatec community. One American hippy visitor was recorded as saying:
-"Look, man. You can go for that curandero bit if you want to." Wasson, who later berated the hippies for
-their irreverence, had himself acted no differently. The Mexican government responded by deporting mushroom
-seekers and criminalising the trade.
-
-## Mexico's Own Counterculture
-
-Mexico developed its own urban counterculture, La Onda, modelled upon the American movement. Many of the
-hippies who went to Huautla were Mexican rather than American. The impact on indigenous communities was
-profound, though Letcher cautions against the myth of pre-Wasson Oaxaca as an Edenic paradise. At the time
-of Wasson's arrival, most of the indigenous population scraped a living from subsistence farming, and
-Mazatec society was marked by petty blood feuds and alcohol-related problems.
-
-## Psychedelia as Fashion
-
-Letcher emphasises that the number of people actually using psychedelics in the 1960s was a fraction of
-those doing so today. Psychedelia was as much a fashion or a craze as it was a direct response to personal
-drug experiences. But what the cultural phenomenon did was open up and broadcast a new and favourable way of
-understanding the strange effects produced by magic mushrooms, and so it was only a matter of time before the
-freaks and hippies started seeking out the strange hallucinogenic fungi for themselves. The magic mushroom
-"tipped" on both sides of the Atlantic in the 1970s, having arrived in the wake of LSD. For the first time in
-Western history, the effects of magic mushrooms -- the colours and hallucinations, the bodily perturbations,
-the sexual excitation -- had become desirable.
-
-## Leary's Legacy Questioned
-
-Letcher is critical of Leary's self-mythologising. The troubled author Arthur Koestler walked out of his
-psilocybin session, later writing that "chemically induced raptures may be frightening or wonderfully
-gratifying, but in either case they are in the nature of confidence tricks played on one's own nervous
-system." Leary's Concord Prison experiment, widely cited as proof of the transformative power of psilocybin,
-was later revisited by Rick Doblin of MAPS, who found that Leary had used unorthodox statistical methods.
-When the distortions were properly ironed out, psilocybin had had no statistically significant effect upon
-recidivism rates. "Just like Wasson, Leary was too eager to fit the facts to his theory."
-
-## See Also
-
-- [[wasson-rediscovery-of-psilocybin]]
-- [[timothy-leary]]
-- [[mushroom-cultivation-fundamentals]]
-- [[magic-mushroom-prohibition-history]]
-- [[mushroom-cultivation-fundamentals]]
-- [[mushroom-home-cultivation-history]]
+Used to seeing [[wasson-rediscovery-of-psilocybin]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
 - [[mexican-inquisition-against-mushroom-cults]]

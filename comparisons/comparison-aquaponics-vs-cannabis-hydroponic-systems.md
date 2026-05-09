@@ -21,37 +21,6 @@ Both methods offer faster growth and higher yields than soil-based growing, but
 they serve different goals and require different levels of commitment.
 
 ## Aquaponics
-[[aquaponics]]
-
-Aquaponics is a recirculating system that combines aquaculture (fish farming)
-with hydroponic plant cultivation in a symbiotic relationship. Fish waste
-produces ammonia, which is converted by beneficial bacteria (Nitrosomonas and
-Nitrobacter species) first into nitrite and then into nitrate, the primary form
-of nitrogen that plants can absorb. The plants take up these nutrients,
-effectively filtering the water before it returns to the fish tank. This creates
-a closed-loop ecosystem where fish feed plants and plants clean water for fish.
-
-The primary advantages of aquaponics are sustainability and the dual output of
-both fish and produce. The system uses significantly less water than traditional
-farming (90-95% less) and eliminates the need for synthetic fertilizers. The
-organic nutrient source produces plants with robust flavor profiles, and the
-integrated ecosystem is largely self-regulating once established. Common fish
-species include tilapia, koi, goldfish, and catfish, chosen for their hardiness
-and adaptability to recirculating systems. Leafy greens and herbs are
-traditional aquaponic crops, but cannabis can also be grown successfully with
-proper system design.
-
-The challenges are considerable. Aquaponics requires managing three living
-systems simultaneously: fish, bacteria, and plants, each with different optimal
-parameters. The cycling process (establishing bacterial colonies) takes 4-6
-weeks before plants can be added. Nutrient levels are less precise than
-hydroponics, making it harder to target specific NPK ratios for different growth
-stages. pH management is more complex because fish, bacteria, and plants each
-prefer different pH ranges (typically settling around 6.8-7.0 as a compromise).
-System failures affect both fish and plants, and the startup cost is higher due
-to the need for fish tanks, biofilters, and additional monitoring equipment.
-
-## Hydroponics
 [[cannabis-hydroponic-systems]]
 
 Hydroponics delivers pre-formulated nutrient solutions directly to plant roots,
@@ -120,9 +89,6 @@ herbs, leveraging the strengths of each method for appropriate crops.
 
 ## See Also
 
-- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
 - [[aeroponics-guide]]
-- [[cannabis-indoor-growing-basics]]
 - [[biofertilizers-and-soil-inoculants]]
-- [[living-soil-cannabis]]
 - [[aquaponics-plant-selection]]

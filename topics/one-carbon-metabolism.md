@@ -137,12 +137,12 @@ The most accurate view is of an adaptable metabolic hub that integrates nutritio
 
 ## Related Concepts
 
-- [[one-carbon-metabolism]]
+- one carbon metabolism
 - [[glutathione-biochemistry-and-redox-biology]]
 - [[glutathione-conjugation]]
 - [[phase-ii-metabolism]]
 - [[enzyme-inhibition]]
-- [[cancer-metabolism]]
+- one carbon metabolism
 
 ## References
 

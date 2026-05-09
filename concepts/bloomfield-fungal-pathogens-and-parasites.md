@@ -9,8 +9,7 @@ sources:
 ---
 # Fungal Pathogens and Parasites
 ## Overview
-Fungi cause devastating diseases in plants, animals, and humans. From the potato blight that triggered the Irish famine to the brain-infecting Cryptococcus that kills immunocompromised patients, fungal pathogens have shaped human history and continue to pose serious medical and agricultural challenges. [[nicholas-money]]'s "Mr. Bloomfield's Orchard" provides vivid accounts of several major fungal pathogens.
-## [[cryptococcus-neoformans]]
+Fungi cause devastating diseases in plants, animals, and humans. From the potato blight that triggered the Irish famine to the brain-infecting Cryptococcus that kills immunocompromised patients, fungal pathogens have shaped human history and continue to pose serious medical and agricultural challenges. [[cryptococcus-neoformans]]
 A yeast that causes cryptococcal meningitis, primarily in immunocompromised patients:
 ### Biology
 - Found worldwide in soil and pigeon droppings
@@ -74,8 +73,7 @@ An oomycete (water mold) pathogen affecting mammals:
 - Most people exposed without symptoms; fungus becomes encapsulated in calcified lung nodules
 - In immunocompromised patients, can spread from lungs to any tissue in the body
 - Most Ohioans carry the dormant fungus in their lungs
-## Ergotism ([[claviceps-purpurea]])
-The [[ergot-fungus]], a pathogen of rye:
+## Ergotism ([[ergot-fungus]], a pathogen of rye:
 ### Toxins
 - **Ergotamine**: causes powerful vasoconstriction, leading to gangrene of extremities — patients lose nails, then hands or feet
 - **Isoergine (lysergic acid amide)**: a less potent relative of LSD, causes terrifying hallucinations
@@ -103,12 +101,4 @@ Ascomycete fungi that parasitize and kill insects:
 - Marketed as dietary supplement for bodybuilding, fatigue, kidney/lung function, and sexual potency
 - Cordyceps gunnii (Australian species) has fruiting bodies as fat as a garden hose
 - Each perithecium holds many asci; each ascus contains eight segmented ascospores — a single fruiting body can dispense millions of infectious particles
-## [[candida-albicans]]
-- Normally a commensal organism on human skin and mucosal linings
-- Up to 1,000 cells per gram of feces
-- Causes vaginal thrush, oral thrush (once a major cause of infant mortality)
-- Can switch from budding yeast to invasive hyphal form, digging into solid tissues
-- Fluconazole is effective but drug-resistant strains are emerging
-- Protease disruption has not reduced virulence — there is no single magic bullet enzyme
-## See Also
-- [[bloomfield-coffee-rust-and-crop-pathogens]]
+## [[bloomfield-coffee-rust-and-crop-pathogens]]

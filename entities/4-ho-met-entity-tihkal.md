@@ -16,44 +16,17 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, 4-hydroxy substituted, N-ethyl-N-methyl
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: 10-20 mg orally
-
-- Duration: 4-6 hours
-
-- Active routes: oral
-
-## Qualitative Effects
-
-At 20 mg: "Qualitatively a lot like [[psilocin-entity-tihkal]]."
+- Source: [[psilocin-entity-tihkal]]."
 Effects begin within the first half hour, with alteration of color, form,
 time, and sound. The experience is wave-like — alternating between near-normal
 perception one moment and being swept up in altered concepts the next. This
-wave-like character closely mirrors the [[psilocin]] experience.
-
-## Synthesis
-
-From 4-acetoxyindole via oxalyl chloride to the glyoxyl chloride intermediate,
-then treatment with methylethylamine. The resulting glyoxylamide (mp 179-180°C)
-is reduced with LAH in THF. The product 4-HO-MET (mp 118-119°C) is obtained
-in 41% yield.
-
-## Pharmacological Notes
-
-Some earlier observations suggested 4-HO-MET might be more potent than psilocin
-and more dramatic, but at the bottom line, Shulgin doubts that this ethyl
-homologue — or the isopropyl homologue [[4-ho-dipt-entity-tihkal]]
+wave-like character closely mirrors the [[4-ho-dipt-entity-tihkal]]
 for that matter — could be distinguished from the methyl counterpart psilocin
 in any blind clinical study.
 
 From a practical standpoint, the cost and availability of the secondary amine
 (methylethylamine vs. dimethylamine) would be a factor. Dimethylamine is
-"dirt cheap" but is a recognized precursor to [[alpha-n-dmt-entity-tihkal]] and
-thus difficult to obtain. Methylethylamine and methylisopropylamine are available
-but expensive. In any event, the dimethyl compound ([[alpha-n-dmt-entity-tihkal]])
+"dirt cheap" but is a recognized precursor to [[amt-entity-tihkal]])
 is widely available in the mycological arena, making it the simplest option.
 
 ## Chemical Family and Context
@@ -132,7 +105,7 @@ feel are consistently reported by experienced users.
 
 ## Legal Status
 
-4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin-compound]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive Substances Act (2016) covers it as a psychoactive substance.
+4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive Substances Act (2016) covers it as a psychoactive substance.
 
 ## Cultural and Historical Significance
 

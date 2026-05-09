@@ -27,9 +27,7 @@ created: 2026-04-28
 
 Elymoclavine (8,9-didehydro-6-methylergoline) is a clavine-type ergot
 alkaloid produced by fungi of the Clavicipitaceae family, particularly
-*Claviceps purpurea* and various *Aspergillus* and *Penicillium*
-species. It is a key biosynthetic intermediate in the pathway leading
-to lysergic acid amide (LSA) and more complex ergopeptines.
+*[[lysergic-acid-amide]] (LSA) and more complex ergopeptines.
 
 The compound exhibits mild psychedelic and uterotonic activity, though
 its psychoactive potency is significantly lower than that of LSD or
@@ -80,47 +78,8 @@ development of more specific ergot derivatives such as methylergometrine.
 
 Hepatic metabolism occurs via N-dealkylation and aromatic hydroxylation.
 The elimination half-life is approximately 2–3 hours. Elymoclavine can
-serve as a substrate for the cytochrome P450 enzyme system, with
-potential for drug interactions.
-
-## Effects and Dosage
-
-The psychoactive effects of elymoclavine are mild compared to other
-ergoline psychedelics. Subjective reports describe gentle perceptual
-enhancement, mild euphoria, and relaxed body sensation without the
-intense visual hallucinations characteristic of LSD.
-
-Onset occurs within 30–60 minutes following oral administration, with
-effects peaking at 2–3 hours and lasting 4–6 hours. The experience is
-generally described as calmer and less cognitively demanding than
-lysergic acid amide or LSD.
-
-Dosage data is limited and primarily derived from anecdotal reports.
-Estimated oral active doses range from 2–10 mg, though reliable
-dose-response studies have not been conducted. Individual sensitivity
-varies significantly.
-
-Common side effects include mild nausea, dizziness, and transient
-blood pressure changes. At higher doses, vasoconstriction and muscle
-tension may occur. The therapeutic index appears wider than for
-lysergic acid amide, reflecting lower potency.
-
-## Biosynthesis and Occurrence
-
-Elymoclavine occupies a central position in the ergot alkaloid
-biosynthetic pathway. It is synthesized from the precursor
-chanoclavine-I via the intermediate agroclavine through an
-NADPH-dependent oxidation catalyzed by cloA cytochrome P450
-monooxygenase.
-
-The conversion of elymoclavine to lysergic acid, catalyzed by
-elymoclavine oxidase (EAS), is the rate-limiting step in the pathway
-to complex ergopeptines. This step involves oxidation at C-17 to form
-the carboxylic acid group characteristic of lysergic acid.
-
-Natural sources include *Claviceps purpurea* (ergot fungus) infecting
-cereal grasses, *Ipomoea* spp. (morning glories), *Argyreia nervosa*
-(Hawaiian baby woodrose), and various endophytic fungi in the
+serve as a substrate for the [[ergot-fungus]]) infecting
+cereal grasses, *Ipomoea* spp. (morning glories), *[[endophytic-fungi]] in the
 *Epichloë* and *Neotyphodium* genera. Industrial production employs
 submerged fermentation of selected *Claviceps* or *Aspergillus*
 strains optimized for elymoclavine accumulation.
@@ -136,11 +95,9 @@ The compound is regulated as a precursor chemical in some nations due
 to its conversion potential to lysergic acid derivatives. International
 shipping and commercial trade are subject to varying restrictions
 depending on the destination country.
-
 ## See Also
 
-- [[ergot-fungi-claviceps-ergot-alkaloids]]
-- [[lysergic-acid]]
+- [[morning-glory-lsa-and-ergoline-alkaloids]]
 - [[morning-glory-lsa-and-ergoline-alkaloids]]
 
 - [Agroclavine](agroclavine.md)

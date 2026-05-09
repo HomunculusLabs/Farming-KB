@@ -31,8 +31,7 @@ dilution, making it one of the most cost-effective biological inputs
 available to farmers.
 
 In the broader context of natural farming, LAB work synergistically
-with other inputs including [[imo-collection-multi-stage-cultivation]]
-and [[cho-fermented-plant-juice-preparation]]. When used together
+with other inputs including [[cho-fermented-plant-juice-preparation]]. When used together
 with mixed compost or IMO, the fermentation process occurs rapidly and
 effectively, with LAB preventing fermented compost from decaying. The
 comprehensive functionality of LAB - from soil improvement to plant
@@ -65,86 +64,25 @@ LAB accelerate root growth during transplanting and effectively enhance
 the initial growth of plants. This makes them valuable for all
 transplanting operations, from vegetable seedlings to tree seedlings.
 The enhanced root establishment reduces transplant shock and improves
-survival rates, especially when combined with [[water-soluble-calcium-wca]] applications.
-
-### Temperature Tolerance
-
-LAB are resistant to high temperatures and can survive with or without
-oxygen, adapting to varying soil conditions. This resilience makes them
-reliable across tropical and temperate climates.
-
-### Ammonia Gas Neutralization
-
-LAB can reduce damage from ammonia gas by neutralizing it where
-immature compost has been applied. This function is critical because
-ammonia volatilization from decomposing organic matter can burn plant
-tissues and create toxic conditions in the root zone. By converting
-ammonia to less harmful forms, LAB protect plants during the
-vulnerable early stages of compost integration.
-
-### Fruit Quality and Storage
-
-When LAB is used during the vegetative growth period of fruiting
-vegetables, higher quality plants result that can be kept for longer
-periods in storage. LAB are extremely effective in making fruits and
-leaves large, though the amount used should be reduced approaching the
-later stages of growth, as excessive LAB decreases sweetness in
- harvested produce.
-
-### Disease Tolerance and Fungal Resistance
-
-LAB can adjust plant fluids, increasing disease tolerance and hardening
-tissues during rainy seasons. LAB demonstrate about one week of
-resistance to some fungi but have no significant effect on insect
-damage or most diseases.
-
-## LAB Preparation Method
-
-### Stage One: Rice-Washed Water Capture
-
-Pour rice-washed water into a clay jar to 15-20 cm deep (two-thirds
-volume). Cover with porous paper at 23-25 degrees Celsius in shade.
-After 3-4 days, three layers form: floating matter, clear liquid, and
-dregs. The clear middle layer, emitting a characteristic sour smell,
-contains the LAB pure stock. Use only this layer for the next stage.
-
-### Stage Two: Milk Fermentation
-
-Pour milk into a large clay jar at a 10:1 milk-to-rice-water ratio.
-After 5-7 days at 23-25 degrees Celsius, starch, protein, and fat float
-to the surface as cheese, while light yellow LAB serum remains below.
-Remove the cheese promptly - if left, it undergoes secondary reactions.
-Filter and refine the LAB serum for storage.
-
-### Storage
-
-Store refined LAB serum at 1-15 degrees Celsius away from sunlight.
-For room temperature storage, mix with equal brown sugar.
-
-## Applications
-
-### Compost Acceleration
-
-LAB used together with IMO or mixed compost accelerates the
-fermentation process and prevents decay. LAB function to prevent the
-fermented mixed compost from putrefying, ensuring that nutrients are
-preserved in plant-available forms rather than lost to volatilization.
-
-### Livestock Health
-
-LAB diluted at 1:500 with FPJ at 1:300 serves as livestock drinking
-water, recovering digestive function.
-
-### Weed Management
-
-When spraying LAB on rice paddy fields, more weeds appear. This is
-considered a positive indicator in natural farming, as weed presence
-reflects improved soil biology and ecological balance. The increased
-weed growth indicates that soil conditions support diverse plant life.
-
-## References
-
-- Cho, H.K. [[master-cho]]'s KNF Recipe Book. [[korean-natural-farming]]
+survival rates, especially when combined with [[master-cho]]'s KNF Recipe Book. [[korean-natural-farming]]
   Institute. Section 6 on Lactic Acid Bacteria (LAB) preparation
   and application methods.
-- Cho, H.K. Korean Natural Farming: Lactic Acid Bacteria. KNF
+## Practical Considerations
+
+Successful implementation of Lactic Acid Bacteria in Natural Farming requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

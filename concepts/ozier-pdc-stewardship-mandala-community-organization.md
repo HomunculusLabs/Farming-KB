@@ -8,26 +8,7 @@ topics: community, organization, governance, permaculture, intentional-community
 # Stewardship Mandala: A Non-Hierarchical Community Organization Model
 
 The Stewardship Mandala is a non-hierarchical organizational and decision-making
-structure developed by William Ozier as part of his [[permaculture-design]] Course
-framework. It provides both individual autonomy and collective oversight,
-modeled after natural systems where decentralized nodes cooperate toward the
-health of the whole organism.
-
-## Core Philosophy
-
-The model draws from the permaculture principle of integrating rather than
-segregating. Rather than a top-down hierarchy or a purely consensus-based
-collective, the Stewardship Mandala creates semi-autonomous functional lobes
-connected through a coordinating council. Each person in the community belongs
-to a functional team, ensuring fair share of both bounty and labor.
-
-## Structure: Lobes and Stewards
-
-The organization is composed of individual **lobes**, each headed by a
-**Steward**. Each lobe represents a specific community function:
-
-- **Food Strategy** — gardens, kitchens, food co-ops, food preservation
-- **Building Projects** — construction, maintenance, [[natural-building]]
+structure developed by William Ozier as part of his [[natural-building]]
 - **Education** — courses, workshops, skill-sharing
 - **Events and Outreach** — community gatherings, public engagement
 - **Administration** — finances, communications, coordination
@@ -85,41 +66,7 @@ Communication** for group decision-making:
    heard and diverse ideas are integrated rather than segregated
 5. **Resolution** — Decisions are synthesized from the full range of input
 
-## Integration with [[permaculture-ethics]]
-
-The Stewardship Mandala directly embodies the three permaculture ethics:
-
-- **Earth Care** — Lobes can include ecological stewardship functions
-- **People Care** — The structure ensures everyone has meaningful participation
-- **Fair Share** — Membership requires contributing labor; surplus benefits all
-
-## Advantages Over Traditional Models
-
-Compared to hierarchical organizations:
-- Greater individual autonomy and creative freedom
-- Less bottlenecks; decisions happen at the appropriate scale
-- More resilient — if one lobe struggles, others continue functioning
-
-Compared to pure consensus collectives:
-- More efficient decision-making at the lobe level
-- Clear accountability through Steward roles
-- Avoids "committee paralysis" on routine operational decisions
-
-## Setting Up a Stewardship Mandala
-
-1. **Define the community's Mission and Vision** — 3-4 sentences each
-2. **Identify necessary functions** — What work needs doing?
-3. **Create lobes for each function** — Assign or elect Stewards
-4. **Establish the Stewardship Council** — Regular meeting cadence
-5. **Define financial flows** — Income generation and fund distribution
-6. **Adopt communication protocols** — Synergistic Communication process
-7. **Iterate** — Adjust lobe boundaries and membership as the community
-   evolves
-
-## Application Beyond Intentional Communities
-
-The Stewardship Mandala can be applied to:
-- Permaculture design groups
+## Integration with [[permaculture-design]] groups
 - Business organizations seeking sustainable governance
 - Clubs and event organizations
 - Cooperative housing arrangements
@@ -128,3 +75,7 @@ The Stewardship Mandala can be applied to:
 The key principle is that every member participates in a fair share of the
 work, everyone has a clear role with autonomy, and the whole system is
 coordinated through gentle oversight rather than rigid control.
+
+## See Also
+
+- [[savory-community-organization-and-shared-grazing]]

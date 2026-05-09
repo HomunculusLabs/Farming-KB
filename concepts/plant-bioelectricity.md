@@ -131,15 +131,6 @@ plants and humans, suggesting it operates beyond the known spectrum.
 Plant bioelectricity measurements can serve as biological sensors for
 environmental monitoring, threat detection, and the study of consciousness.
 Understanding plant electrical responses has implications for agriculture,
-[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], and developing non-invasive methods for assessing
-plant health. The existence of cellular-level bioelectricity suggests new
-avenues for medical research and our understanding of the fundamental
-nature of life.
-
-## Related Concepts
-
-- [[cleve-backster-plant-perception-experiments]]
-- [[marcel-vogel-plant-communication]]
+[[cleve-backster-plant-perception-experiments]]
 - [[jagadis-chandra-bose-plant-research]]
-- [[plants-and-electromagnetism]]
 - [[piezoelectric-materials-and-transducers]]

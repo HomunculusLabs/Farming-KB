@@ -27,33 +27,6 @@ each for the tasks they excel at.
 
 ## Cattle Husbandry
 
-[[cattle-husbandry]] involves raising large ruminants on pasture, typically requiring 2 to 5
-acres per cow-calf pair under a rotational grazing regimen. Stocking density varies based on
-climate, forage quality, and whether you supplement with hay during winter months.
-
-Popular beef breeds for homesteads include Angus, Hereford, Dexter, and Highland. Dexter and
-Highland cattle are especially favored on smaller properties due to their compact size,
-hardiness, and lower feed requirements compared to standard beef breeds. Dairy breeds like
-Jersey and Guernsey are excellent choices for families seeking a steady milk supply, with
-Jerseys being particularly efficient converters of forage to milk.
-
-Cattle provide multiple products: meat, milk, and even draft power for small-scale farming
-operations. Their long gestation period of 283 days means a slower reproductive cycle
-compared to smaller livestock, which translates to longer intervals between calving and
-fewer offspring per year.
-
-Handling facilities are essential for cattle and include a squeeze chute, working alleys,
-head catch, and sturdy corrals for safe veterinary care, hoof trimming, and general
-management. These facilities represent a significant upfront investment but are critical
-for safe animal handling.
-
-Fencing for cattle must be physically substantial, though cattle generally respect electric
-fencing well once trained. A single strand of hot wire at nose height can often contain
-trained cattle within a larger perimeter fence. Their size means infrastructure costs run
-higher upfront, but per-animal output in meat or milk is also significantly greater.
-
-## Goat Husbandry
-
 [[goat-husbandry]] centers on raising smaller, highly adaptable ruminants suited to a wider
 range of property sizes and terrain types. The diversity of goat breeds is remarkable: dairy
 breeds include Nigerian Dwarf, Nubian, and Alpine; meat breeds include Boer and Kiko; and
@@ -138,10 +111,8 @@ both species will be secure.
 
 ## See Also
 
-- [[cattle-husbandry]]
 - [[goat-husbandry]]
 - rotational grazing
 - multi species grazing
-- [[livestock-fencing-guide]]
 - [[homestead-dairy-equipment]]
 - [[pasture-management]]

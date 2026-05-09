@@ -140,11 +140,11 @@ Vines die back to ground in zones 5–7 and regrow from rootstock. Requires trel
 | Standardized extract | 250–500 mg, 2–3× daily |
 
 **Precautions**: Well-tolerated with wide safety margin. Enhances effects of other CNS depressants. Avoid during pregnancy (historically used as abortifacient). Rare allergic contact dermatitis. Not for children under 6 without supervision.
+## See Also
+
+- [[passiflora-incarnata]]
+- [[valeriana-officinalis]] — Valerian, commonly combined for sleep
 
 ## See Also
 
-- [[passiflora-incarnata-entity]]
-- [[passiflora-incarnata]]
-- [[passionflower-growing-guide]]
-
-- [[valeriana-officinalis]] — Valerian, commonly combined for sleep
+- [[permaculture-plants-climbers-and-vines]]

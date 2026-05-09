@@ -13,19 +13,11 @@ sources:
 type: comparison
 ---
 
-# Grafting vs Budding Fruit Trees
-
-## Quick Comparison
-
-| Criterion | Grafting | Budding |
-|-----------|----------|---------|
-| Material used | Scion (dormant stem, 2–6 buds) | Single bud (active or dormant) |
-| Best season | Late winter / early spring (dormant) | Late summer / early autumn (active growth) |
+# Grafting vs Budding [[coleman-overwintered-onions-and-early-spring-crops]] Late winter / early spring (dormant) | Late summer / early autumn (active growth) |
 | Rootstock condition | Dormant or just beginning growth | Active growth (bark slipping) |
 | Skill level | Moderate to high | Low to moderate |
 | Scion wood needed | 15–30 cm per graft | 1 bud per union |
-| Time per union | 2–5 minutes | 1–2 minutes |
-| Success rate | 70–95% (with skill) | 80–98% (with skill) |
+| Time per union | 2–5[[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] ith skill) | 80–98% (with skill) |
 | Best for | Top-working mature trees, changing varieties | Large-scale nursery production, beginner grafters |
 | Wind strength | Strong (if whip-and-tongue) | Moderate (needs protection) |
 
@@ -75,51 +67,7 @@ A T-shaped cut is made in the rootstock bark, and a bud shield is slid underneat
 
 ### Chip Budding
 
-A chip of wood containing the bud is removed from the scion and matched to a corresponding chip removed from the rootstock. Both cuts must be identical.
-
-- **When:** Late summer to early autumn; can also work in spring
-- **Best for:** All deciduous fruit trees; especially useful when bark is not slipping freely
-- **Advantage:** Works over a longer season than T-budding; stronger initial union; can be done in spring for same-year growth
-- **Disadvantage:** More skill-intensive than T-budding; precise matching of cuts is essential
-
-### Patch Budding
-
-A rectangular patch of bark with a bud is exchanged between scion and rootstock. Less common but effective.
-
-- **When:** Mid-summer (bark slipping)
-- **Best for:** Walnut, pecan, and species with thick bark
-- **Advantage:** Large contact area; good for thick-barked species
-- **Disadvantage:** Slow; requires careful patch alignment; mostly replaced by chip budding
-
-## Species Suitability
-
-| Species | Preferred Grafting Method | Preferred Budding Method |
-|---------|--------------------------|--------------------------|
-| Apple, Pear | Whip-and-tongue, cleft | T-budding, chip budding |
-| Peach, Nectarine | Whip-and-tongue | T-budding (best) |
-| Cherry, Plum | Whip-and-tongue, cleft | T-budding, chip budding |
-| Citrus | Cleft, bark graft | T-budding (standard) |
-| Walnut, Pecan | Bark graft | Patch budding, chip budding |
-| Avocado | Cleft, bark graft | Chip budding |
-| Grape | Cleft, whip-and-tongue | T-budding, chip budding |
-
-## When to Choose Grafting vs Budding
-
-**Choose grafting when:**
-- Top-working an established tree to change varieties
-- The rootstock and scion are both dormant (late winter)
-- You need a strong union quickly (whip-and-tongue)
-- Working with large-diameter branches or trunks (cleft, bark graft)
-- You want the scion to grow immediately in the same season
-
-**Choose budding when:**
-- Producing large numbers of trees in a nursery setting
-- Budwood is scarce and you need maximum propagation from limited material
-- You are a beginner (T-budding is the easiest to learn)
-- Working during mid-summer to autumn window
-- You want the bud to remain dormant and push growth the following spring
-
-## Common Mistakes
+A chip of wood containing the bud is removed from the scion and matched to a corresponding ch [[first-time-grower-common-mistakes]]
 
 1. **Mismatched cambium:** The green layer just under the bark must align on at least one side. This is the single most common cause of failure.
 2. **Dried-out scion wood:** Collect scions during dormancy, keep moist (refrigerated in damp newspaper/plastic), and graft before bud break.
@@ -130,8 +78,6 @@ A rectangular patch of bark with a bud is exchanged between scion and rootstock.
 7. **Incompatible varieties:** Some combinations are biologically incompatible (e.g., some quince rootstocks with certain pear varieties). Always verify compatibility before grafting.
 
 ## See Also
-
-- [[fruit-tree-guild-roles]]
 
 - [[mollison-designers-grafting-and-budding-fruit-trees]]
 - [[grafting-fruit-trees]]

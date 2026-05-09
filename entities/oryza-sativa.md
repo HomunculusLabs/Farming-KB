@@ -104,17 +104,10 @@ African rice (*O. glaberrima*) is being crossed with *O. sativa* through the NER
 
 ## See Also
 
-- [[zea-mays]]
 - [[cucurbita-pepo]]
-- [[glycine-max]]
 - [[vigna-radiata]]
-- [[phaseolus-vulgaris]]
 - [[arachis-hypogaea]]
-- [[manihot-esculenta]]
 - [[ipomoea-batatas]]
-- [[zingiber-officinale]]
 - [[curcuma-longa]]
-- [[piper-nigrum-entity]]
 - [[allium-sativum-entity]]
-- [[beta-vulgaris]]
 - [[spinacia-oleracea]]

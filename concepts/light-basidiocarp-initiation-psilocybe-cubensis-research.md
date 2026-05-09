@@ -1,7 +1,7 @@
 ---
 title: "Light and Basidiocarp Initiation in Psilocybe Cubensis"
 created: 2026-04-28
-tags: [mycology, photobiology, fruiting-research, basidiocarp, psilocybe]
+tags: [[mycology, photobiology, fruiting-research, basidiocarp, psilocybe]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-effect-of-light-upon-basidiocarp-initiation-psilocybe-cubensis.md]
@@ -117,12 +117,6 @@ scientific interest and potential ecological investigation.
 
 ## Related Topics
 
-- [[oss-oeric-growing-parameters-cubensis]] for cultivation conditions
 - [[oss-oeric-terrarium-design-and-humidity]] for fruiting chambers
-- [[oss-oeric-harvesting-and-crop-management]] for crop management
 - [[psilocybin-biosynthetic-metabolic-pathway]]
-- [[oss-oeric-psilocybe-cubensis-strain-guide]]
-
-## See Also
-
 - [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]

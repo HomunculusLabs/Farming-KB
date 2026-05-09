@@ -3,15 +3,7 @@ title: Permaculture Disaster Resilience
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Permaculture Disaster Resilience
-
-Permaculture disaster resilience is the design approach that prepares households, communities, and landscapes to withstand and recover from natural and human-caused disruptions.
-
-Drawing from both [[permaculture-design]]'s design principles and david holmgren's emphasis on self-reliance and energy descent, disaster resilience in permaculture integrates preparedness into everyday system design rather than treating it as a separate concern.
+tags: [[permaculture-design]]'s design principles and david holmgren's emphasis on self-reliance and energy descent, disaster resilience in permaculture integrates preparedness into everyday system design rather than treating it as a separate concern.
 
 The fundamental insight from permaculture is that the same design strategies that create sustainable, productive systems also create resilient ones.
 
@@ -81,15 +73,11 @@ The vulnerability of modern society is so great that a series of events could le
 
 ## Practical Strategies
 
-Practical permaculture strategies for disaster resilience include storing diverse food preserves, maintaining seed collections through [[permaculture-seed-saving]], and building multiple water supply systems.
+Practical permaculture strategies for disaster resilience include storing diverse food preserves, maintaining seed collections through [[permaculture-building-design]] for extreme weather, and establishing local food production through [[permaculture-community-resilience]] networks and reducing dependence on single supply chains provides community-level protection.
 
-Keeping fuel wood stores, designing [[permaculture-building-design]] for extreme weather, and establishing local food production through [[homestead-permaculture-design]] all contribute to household resilience.
+The [[permaculture-climate-adaptation]] addresses the growing frequency of climate-related disruptions.
 
-Creating [[permaculture-community-resilience]] networks and reducing dependence on single supply chains provides community-level protection.
-
-The [[permaculture-energy-descent-planning]] approach extends disaster preparedness from single events to long-term systemic change, while [[permaculture-climate-adaptation]] addresses the growing frequency of climate-related disruptions.
-
-Fire control strategies from [[fire-control-in-permaculture]] and building retrofit from [[faires-house-design-and-retrofit]] provide specific technical guidance.
+Fire control strategies from [[faires-house-design-and-retrofit]] provide specific technical guidance.
 
 Self-reliance as political action works as a more generalized and invisible consumer boycott, undermining market share of centralized economies that support dysfunctional behavior. This invisibility confounds efforts to track and control processes that might undermine the interests of centralized power.
 

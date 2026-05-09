@@ -111,11 +111,7 @@ The compound re-emerged around 2005–2007 through online research chemical vend
 
 ## See Also
 
-methylone [[ethylone]] eutylone pentylone
-[[mdma-entity]] [[mescaline-entity]] [[harmine]]
-[[n-n-dimethyltryptamine]] [[psilocin]] mephedrone
-[[alpha-n-dmt-entity-tihkal]] [[4-aco-dmt]] [[5-meo-dmt]]
-[[salvinorin-a-entity]] [[muscimol-compound]] [[ibogaine]]
-[[harmaline]] [[tetrahydroharmine]] [[bufotenin]]
-[[ketamine]] [[psilocybin-compound]]
-[[baeocystin]] [[norbaeocystin]] [[aeruginascin]]
+methylone [[mdma]] [[harmine]]
+[[psilocin]] mephedrone
+[[4-aco-dmt]] [[salvinorin-a-entity]] [[ibogaine]]
+[[tetrahydroharmine]] [[ketamine]] [[baeocystin]] [[aeruginascin]]

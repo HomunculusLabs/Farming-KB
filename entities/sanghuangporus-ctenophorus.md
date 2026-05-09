@@ -110,13 +110,8 @@ From **S. linteus** (formerly Phellinus linteus), S. ctenophorus differs in its 
 
 ## See Also
 
-- [[sanghuangporus-sanghuang]]
 - [[sanghuangporus-linteus]]
-- [[sanghuangporus-baumii]]
 - [[sanghuangporus-vaninii]]
-- [[inonotus-obliquus]]
 - [[phellinus-igniarius-entity]]
-- [[trametes-versicolor]]
 - [[ganoderma-lucidum]]
-- [[poria-cocos]]
 - [[fomes-fomentarius]]

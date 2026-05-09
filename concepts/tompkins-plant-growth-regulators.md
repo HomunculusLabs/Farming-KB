@@ -86,8 +86,6 @@ Ehrenfried Pfeiffer developed sensitive chromatographic methods to visualize the
 
 ## See Also
 
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[plant-perception]]
-- [[bacterial-endophytes-plant-roots]]
 - [[plant-fungal-signaling-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]

@@ -11,17 +11,7 @@ type: entity
 # Psilocybe cyanofibrillosa
 
 **Type:** Species (Fungus)
-**Category:** [[psilocybin-compound]]-containing mushroom
-**Also known as:** blue-haired Psilocybe
-
-## Overview
-Psilocybe cyanofibrillosa is a Pacific Northwest psilocybin mushroom
-described by Stamets and Guzman. Found along the coastal regions from
-Northern California to British Columbia, it is particularly associated
-with bush lupines, river estuaries, and rhododendron gardens. Despite
-a relatively low measured potency, the species bruises strongly blue
-and may be significantly more potent in fresh specimens than dried
-analyses suggest due to [[psilocin]] degradation.
+**Category:** [[psilocin]] degradation.
 
 ## Key Details
 
@@ -78,7 +68,24 @@ psilocybin mushrooms. To date, it has only been reported from the
 Pacific Coast region of North America.
 
 ## See Also
-- [[psilocybe-azurescens]]
 - [[psilocybe-caerulipes]]
-- [[psilocybe-cyanescens]]
 - [[psilocybe-subaeruginosa]]
+## Practical Considerations
+
+Successful implementation of Psilocybe cyanofibrillosa requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

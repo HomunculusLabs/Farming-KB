@@ -28,54 +28,7 @@ dual-purpose input for mid-to-late stage crop management.
 ### Ingredients
 - Bone meal (powdered): 1 part by weight (10 kg per 100 L)
 - Water: 10 parts by weight
-- [[leaf-mold-composting]]: a handful (regardless of container size)
-
-### Method
-1. Fill container with 1 part bone meal powder
-2. Add water 10 times the weight of bone meal
-3. Add a handful of leaf mold
-4. Close lid, stir regularly
-5. Time: **3+ months**
-6. Bone powder sinks -- must stir regularly to keep in suspension
-7. Take out upper water and refill when ready to use
-
-### Analysis (per 100 L: bone meal 10 kg + leaf mold)
-| Parameter | Value |
-|-----------|-------|
-| pH | 7.4 |
-| EC (1:5) ds/m | 2.58 |
-| OM % | 0.88 |
-| T-N % | 0.16 |
-| P2O5 % | 0.065 |
-| K2O % | 0.023 |
-| CaO % | 0.016 |
-| MgO % | 0.012 |
-| Fe mg/kg | 3.942 |
-| Mn mg/kg | 0.061 |
-
-## Application
-
-| Parameter | Value |
-|-----------|-------|
-| Dilution | x50 to x500 |
-| When to apply | Mid to late growth |
-| How to apply | Soil or foliar |
-| What to expect | Controls growth, strengthens buds |
-
-## Additional Uses
-
-- **Winter pest control:** Apply to branches or stems
-- **Strengthen lower buds:** Apply through irrigation or spray on soil in later
-  fruit growth stages
-- **Growth control:** Helps prevent excessive vegetative growth in late season
-
-## Source Materials
-
-- Any animal bones: cattle, pig, chicken, fish
-- Fish by-products (heads, bones) are especially effective
-- Bones must be dried and ground into powder before use
-- Fish by-product JLF also yields calcium and phosphorus as bones dissolve over
-  extended fermentation (see [[jadam-natural-nitrogen-fertilizer]])
+- [[jadam-natural-nitrogen-fertilizer]])
 
 ## Tips for Success
 
@@ -88,15 +41,67 @@ dual-purpose input for mid-to-late stage crop management.
 
 ## Integration with JADAM Program
 
-Use alongside [[jadam-calcium-fertilizer]] and
-[[jadam-potassium-fertilizer]] for complete mid-late stage
-nutrition. See [[jadam-nutritional-balance-fertilizer]] for combining strategy.
-
-## Related
-
-- [[jadam-liquid-fertilizer]] -- base JLF method
-- [[jadam-calcium-fertilizer]] -- pure calcium JLF
+Use alongside [[jadam-potassium-fertilizer]] for complete mid-late stage
+nutrition. See [[jadam-liquid-fertilizer]] -- base JLF method
 - [[jadam-potassium-fertilizer]] -- potassium JLF
-- [[jadam-natural-nitrogen-fertilizer]] -- fish JLF (also provides Ca and P)
 - [[jadam-element-function-reference]] -- P and Ca functions
 - [[jadam-leaf-mold-soil-method]]
+## Practical Considerations
+
+When working with JADAM Calcium Phosphate Liquid Fertilizer, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

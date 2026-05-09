@@ -3,7 +3,7 @@ title: Growing Room Design for Gourmet Mushroom Cultivation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mushroom-cultivation, species-guide, equipment]
+tags: [[mushroom-cultivation, species-guide, equipment]
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
@@ -16,11 +16,7 @@ Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Appendix I
 
 ## Overview
 
-The growing room is the controlled environment where mushroom fruiting occurs. Unlike the spawn laboratory (constant temperature/humidity), the growing room's environment is actively fluctuated during mushroom crop development. These changes are specific and sometimes radical, triggering the switch-over from mycelial growth to mushroom formation. See also [[environmental-control-mushroom-growing]], [[stamets-mushroom-growing-room-design]], [[stamets-sterile-laboratory-design]].
-
-## Historical Context
-
-First indoor mushroom cultivation was in caves in France late 18th century, ideal for Button Mushroom (Agaricus brunnescens): constant cool temperature, high humidity, darkness. Cave culture is still widely practiced -- one of the world's largest mushroom farms uses extensive cave networks in Butler County, Pennsylvania. However, cave culture has one major drawback for gourmet mushrooms: darkness. All gourmet mushrooms are phototropic, requiring light, which presents a financial obstacle to retrofitting button mushroom farms. See [[agaricus-bisporus-cultivation-biology]].
+The growing room is the controlled environment where mushroom fruiting occurs. Unlike the spawn laboratory (constant temperature/humidity), the growing room's environment is actively fluctuated during mushroom crop development. These changes are specific and sometimes radical, triggering the switch-over from mycelial growth to mushroom formation. See also [[stamets-mushroom-growing-room-design]], [[agaricus-bisporus-cultivation-biology]].
 
 ## Structures Suitable for Retrofit
 
@@ -111,10 +107,9 @@ Airplane hangers, army barracks, barns, basements, bomb shelters, car washes, ca
 - Bug zappers, sticky traps, circular black light traps with central fan creating negative-pressure vortex
 - Wash growing rooms twice daily
 - Small tree frogs as natural pest control (no pesticides advocated)
-- See [[oyster-mushroom-pest-insect-identification-guide]], [[stamets-contamination-identification-and-control]]
+- See [[stamets-contamination-identification-and-control]]
 
 ## Farm Environment
 
-Room/activity scheduling is essential. No caustic chemicals should be used. The laboratory complex design is detailed in Appendix II (see [[stamets-sterile-laboratory-design]]). A successful farm coordinates spawn laboratory output with growing room capacity, cycling crops through colonization, primordia formation, and fruiting stages in a continuous production stream.
-- [[tropical-mushroom-spawn-production-materials]]
+Room/activity scheduling is essential. No caustic chemicals should be used. The laboratory complex design is detailed in Appendix II (see [[tropical-mushroom-spawn-production-materials]]
 - [[oyster-mushroom-species-fruiting-parameters]]

@@ -3,14 +3,9 @@ title: Macrofungi Sampling
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-# Macrofungi Sampling
+tags: [[fungal-zoospore-biology-and-flagellate-motility]] because sporocarp production is episodic, influenced by weather and season, and often poorly correlated with the actual presence and distribution of fungal mycelia in the environment.
 
-Approaches to sampling macrofungi have developed considerably over the past several decades, driven by the need to document fungal diversity in forests and other ecosystems. Macrofungi — fungi that produce visible, fleshy, or woody sporocarps — present unique challenges for [[fungal-zoospore-biology-and-flagellate-motility]] because sporocarp production is episodic, influenced by weather and season, and often poorly correlated with the actual presence and distribution of fungal mycelia in the environment.
-
-This page summarizes protocols and considerations for sampling macrofungi, drawing on the work of O'Dell, Lodge, Mueller, and colleagues as part of broader efforts in [[fungal-biodiversity-inventory-design]] and [[the-soil-food-web]].
+This page summarizes protocols and considerations for sampling macrofungi, drawing on the work of O'Dell, Lodge, Mueller, and colleagues as part of broader efforts in [[soil-food-web-nutrient-cycling]].
 
 ## Inventorying Versus Monitoring
 
@@ -112,18 +107,6 @@ Voucher specimens are essential for addressing taxonomic problems and authentica
 
 ## Challenges
 
-Several persistent challenges complicate macrofungal sampling. For background on the field, see [[mycological-terms-glossary]].
-
-Annual fluctuations in sporocarp occurrence and abundance make it difficult to distinguish true absence from temporary non-fruiting. A species may be present as dormant propagules or active but non-fruiting mycelium.
-
-Limited taxonomic expertise, especially for difficult groups such as corticioid fungi and small ascomycetes, constrains the accuracy of species determinations.
-
-Sporocarps represent an unknown fraction of total fungal biomass, which also includes vegetative mycelium, sclerotia, mycorrhizae, and rhizomorphs. Molecular analyses have shown that substantial numbers of species present on host roots at some sites rarely fruit.
-
-Most studies incorporate only 1 to 3 years of sampling, although 5 to 10 years would be more appropriate for assessing true diversity.
-
-Protocols continue to converge, but differences in plot sizes, subplot configurations, and sampling frequency still interfere with direct comparisons between studies.
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
+Several persistent challenges complicate macrofungal sampling. For background on the field, see [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[fungal-monitoring-long-term-studies]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]

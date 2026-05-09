@@ -124,8 +124,6 @@ and why it can modulate the effects of THC.
 
 ## Related Concepts
 
-- [[blesching-cannabis-endocannabinoid-mind-body]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-mind-body-medicine]]
 - [[blesching-cannabis-mental-disorders]]

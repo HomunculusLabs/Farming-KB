@@ -15,7 +15,7 @@ AMD is one of the most significant environmental impacts of the mining industry,
 
 Passive treatment systems use natural and enhanced biological and chemical processes to treat AMD without continuous energy input or chemical addition, offering sustainable long-term treatment alternatives for abandoned and post-closure mine sites.
 
-This topic complements the broader [[bioremediation-monitoring-and-assessment]] and [[factors-affecting-mycoremediation-efficiency]] discussions.
+This topic complements the broader [[factors-affecting-mycoremediation-efficiency]] discussions.
 
 ## Chemistry of Acid Mine Drainage
 
@@ -57,25 +57,7 @@ Aerobic wetlands are effective for net alkaline or low-acidity AMD but cannot tr
 
 The iron hydroxide precipitates that accumulate in aerobic wetlands (ochre) eventually fill pore spaces and reduce treatment capacity, requiring periodic maintenance or system expansion.
 
-[[constructed-wetlands-wastewater-treatment]] describes the broader application of constructed wetlands for water quality improvement.
-
-## Anaerobic Wetlands and Compost Reactors
-
-Anaerobic wetlands incorporate an organic substrate layer (typically spent mushroom compost, peat, or other organic material) that promotes sulfate reduction and metal sulfide precipitation.
-
-The organic substrate serves as both a carbon source for sulfate-reducing bacteria and a source of alkalinity through fermentation and decomposition reactions.
-
-Sulfate-reducing bacteria (Desulfovibrio, Desulfotomaculum, and others) use sulfate as a terminal electron acceptor, reducing it to sulfide while oxidizing organic matter.
-
-The generated sulfide reacts with dissolved metal ions to form insoluble metal sulfide precipitates, which are highly stable under anaerobic conditions and do not readily re-dissolve.
-
-Metal sulfide precipitation removes metals from solution at lower pH values than hydroxide precipitation, making anaerobic systems effective for more acidic AMD.
-
-The generation of bicarbonate alkalinity during organic matter decomposition raises the pH of treated water, providing additional capacity for metal hydroxide precipitation in downstream aerobic zones.
-
-Compost reactors, also called reducing and alkalinity producing systems (RAPS), combine anaerobic treatment with limestone dissolution to provide both metal sulfide precipitation and pH adjustment.
-
-Spent mushroom compost, as described in [[staycare-spent-mushroom-compost-bioremediation]], is a particularly effective substrate for anaerobic AMD treatment because it contains residual nutrients, active microorganisms, and organic matter in various stages of decomposition.
+[[staycare-spent-mushroom-compost-bioremediation]], is a particularly effective substrate for anaerobic AMD treatment because it contains residual nutrients, active microorganisms, and organic matter in various stages of decomposition.
 
 ## Limestone Drains and Diversion Wells
 
@@ -101,13 +83,9 @@ Sulfate-reducing bacteria are the key organisms in anaerobic treatment systems, 
 
 Fungi contribute to passive treatment through metal biosorption, organic acid production that can enhance mineral dissolution, and decomposition of organic substrates that maintain treatment capacity.
 
-[[fungal-metal-biosorption]] and [[fungal-biosorption-mechanisms]] describe the metal binding capacities of fungal biomass relevant to AMD treatment.
+[[fungal-biosorption-mechanisms]] describe the metal binding capacities of fungal biomass relevant to AMD treatment.
 
-The role of mycorrhizal fungi in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycorrhizal-fungi-bioremediation]].
-
-Methanogenic archaea in anaerobic systems contribute to organic matter decomposition and may influence the performance of sulfate-reducing bacteria through competition for substrates.
-
-[[bioremediation-monitoring-and-assessment]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
+The role of mycorrhizal fungi in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
 
 ## Design Considerations and Long-Term Performance
 
@@ -121,11 +99,10 @@ Freeze-thaw cycles in cold climates can damage treatment infrastructure and redu
 
 Sequential treatment systems that combine multiple passive technologies (anoxic limestone drain, anaerobic wetland, aerobic wetland) in series provide the most comprehensive treatment for complex AMD.
 
-Integration of passive treatment with [[factors-affecting-mycoremediation-efficiency]] and [[fungal-bioaugmentation-inoculation]] approaches can enhance treatment performance and extend system longevity.
+Integration of passive treatment with [[fungal-bioaugmentation-inoculation]] approaches can enhance treatment performance and extend system longevity.
 
 ## Related
 
-- [[constructed-wetland-design]]
 - [[heavy-metal-bioremediation]]
 - index-bioremediation
 

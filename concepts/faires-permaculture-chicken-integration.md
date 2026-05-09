@@ -3,19 +3,7 @@ title: Permaculture Chicken Integration
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, equipment, pest-management, plant-growth, fruit-tree, homesteading]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Permaculture Chicken Integration
-
-**Source:** The Ultimate Guide to Natural Farming & Sustainable Living (Nicole Faires, 2012)
-**Updated:** 2026-04-18
-
-## How Chickens Fit into the System
-
-The goal is to feed chickens from [[mollison-permaculture-two-zone-planning-and-site-layout]] and profit from them in Zone 1, and so they are located on the very edge of Zone 1 or as close as possible to it. They provide meat, eggs, feathers, fertilizer, pest control, and weed control. The chickens live in a coop, which has an attached pen that runs along the border of the Zone 1 gardens and the Zone 2 orchard. It should also have a second pen for chicks, surrounded by spiny shrubs to protect them from hawks. The trees and ground in their pen should be well mulched with straw, corn stalks, sawdust, yard waste, or bark, with wire mesh around the trees holding the mulch in. The chicken run can be planted with fruit trees (which will drop fruit on the ground), grains, corn, sunflowers, and greens. When weeding the garden, the waste can just be thrown over the fence into the chicken run.
+tags: [[mollison-permaculture-two-zone-planning-and-site-layout]] and profit from them in Zone 1, and so they are located on the very edge of Zone 1 or as close as possible to it. They provide meat, eggs, feathers, fertilizer, pest control, and weed control. The chickens live in a coop, which has an attached pen that runs along the border of the Zone 1 gardens and the Zone 2 orchard. It should also have a second pen for chicks, surrounded by spiny shrubs to protect them from hawks. The trees and ground in their pen should be well mulched with straw, corn stalks, sawdust, yard waste, or bark, with wire mesh around the trees holding the mulch in. The chicken run can be planted with fruit trees (which will drop fruit on the ground), grains, corn, sunflowers, and greens. When weeding the garden, the waste can just be thrown over the fence into the chicken run.
 
 The run is divided into several pens planted in succession, so the chickens can be rotated when the plants are ready, and each pen also has a log on the ground. The log is left to sit for a while and can then be flipped over to reveal all the pill bugs and worms. The fence dividing these pens and keeping the chickens from your other gardens should be at least five feet high.
 
@@ -117,14 +105,8 @@ Chickens also stop laying just because they get old. However, chickens are amazi
 
 ## Seasonal Integration
 
-- In the spring, remove [[comparison-sheet-mulching-vs-chop-and-drop]] from the Zone 1 gardens to allow soil to warm up.
-- Let ducks into the Zone 1 gardens at appropriate times.
-- Chickens can run in the garden at certain times of the year when plants are established enough.
-- The quickest way to shelter the Zone 1 garden from wind is to build a trellis extending from the corners of the house and plant climbing vines that grow up and cover them.
-- [[faires-permaculture-soil-and-sheet-mulching]]
-- [[permaculture-chicken-forage-systems-design-course]]
+- In the spring, remove [[faires-permaculture-soil-and-sheet-mulching]]
 - [[urban-permaculture-food-forest-succession]]
-- [[urban-permaculture-trees-water-cycling]]
 - [[jadam-fruit-tree-winter-pest-control]]
 
 ## See Also

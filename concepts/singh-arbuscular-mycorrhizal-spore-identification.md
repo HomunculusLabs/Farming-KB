@@ -22,8 +22,7 @@ identification and taxonomic classification. Since AM fungi cannot be
 cultured axenically and their vegetative structures are morphologically
 conservative, spore morphology remains the cornerstone of AM fungal
 identification despite advances in molecular approaches. Singh's coverage
-of AM spore biology connects to [[singh-mycorrhizal-network-carbon-transfer-plants]]
-and [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
+of AM spore biology connects to [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
 
 ## Overview of Glomeromycota Spore Diversity
 
@@ -107,37 +106,7 @@ have germination shields inside the spore with complex surface patterns.
 ## Spore Extraction Methods
 
 ### Wet Sieving and Decanting
-The standard method for extracting AM [[fungal-spores]] from soil involves
-wet sieving through a series of sieves (typically 250, 100, and 50
-micrometer mesh sizes). Soil is suspended in water, agitated, poured
-through the sieves, and material retained on each sieve is collected.
-Spores are then separated from organic debris under a stereomicroscope.
-This method recovers most intact spores but may miss small or fragile
-species.
-
-### Sucrose Density Gradient Centrifugation
-For higher recovery efficiency, particularly from clay soils or samples
-with high organic matter, the wet-sieving residue is subjected to sucrose
-gradient centrifugation (typically 20 to 70 percent sucrose at 2000 rpm
-for 2 minutes). Spores float in the sucrose layer while mineral particles
-sink. This method greatly increases spore recovery but may damage
-delicate spore wall structures.
-
-### Other Methods
-Pipette extraction from soil cores, trap cultures using host plants grown
-on field soil, and membrane filter techniques complement the standard
-methods. Molecular approaches using DNA extracted directly from soil
-(samples of spores and hyphae) provide complementary identification
-independent of spore morphology.
-
-## Species Identification Keys
-
-Morphological identification relies on dichotomous or polytomous keys
-based on combinations of spore characters. Key characters include spore
-color and size, number and properties of wall layers, Melzer's reaction,
-surface ornamentation, subtending hypha characteristics, and germination
-structure morphology. The International Culture Collection of Arbuscular
-[[mycorrhizal-fungi]] (INVAM) and the Blaauw laboratory collections provide
+The standard method for extracting AM [[mycorrhizal-fungi]] (INVAM) and the Blaauw laboratory collections provide
 reference material and online identificaticryptic-speciesolecular barcoding
 using the SSU rRNA gene region and the ITS/LSU regions increasingly
 complements morphological identification.
@@ -146,5 +115,4 @@ complements morphological identification.
 
 Spore-based identification faces several challenges. Spores of different
 species may be morphologically indistinguishable ([[cryptic-species]]), a
-single species may produce polymorphic spores depending on environmental
 ## See Also

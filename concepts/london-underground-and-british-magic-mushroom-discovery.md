@@ -115,10 +115,7 @@ to small numbers of hippies, mainly in London and southeast England.
 
 ## Related Topics
 
-- [[liberty-cap-rediscovery-in-britain]] - the Liberty Cap story
-- [[psychedelic-mushrooms-species-and-identification]] - broader counterculture context
-- [[1960s-counterculture-and-magic-mushrooms]] - sixties mushroom
-  - culture
+- [[psychedelic-mushroom-set-and-setting]] - broader counterculture context
 - [[mushroom-music-psychedelic-underground]] - music and underground
   - culture
 - [[mushroom-cultivation-underground-history]] - cultivation history

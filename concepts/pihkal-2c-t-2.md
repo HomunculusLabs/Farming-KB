@@ -125,8 +125,6 @@ jurisdictions worldwide.
 
 ## See Also
 
-- [[pihkal-2c-b]]
 - [[pihkal-2c-i]]
-- [[pihkal-2c-e]]
 - [[pihkal-2c-t-7]]
 - [[pihkal-introduction-and-methodology]]

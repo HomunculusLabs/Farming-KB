@@ -18,18 +18,13 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry.
 created: 2026-04-28
 ---
-# [[durban-poison-cannabis-strain]]
+# 
 
-**Durban Poison** is a pure [[cannabis-strain-guide-reference]] race cannabis strain originating from the South African port city of Durban. One of the few commercially available true landrace strains, it is celebrated for its uplifting, energetic ef [[terpene-profile-chemotaxonomy]] istinct anise and citrus terpene prof [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] a foundational genetic pillar in modern cannabis breeding, contributing to numerous hybrid cultivars.
+**Durban Poison** is a pure  race cannabis strain originating from the South African port city of Durban. One of the few commercially available true landrace strains, it is celebrated for its uplifting, energetic ef  istinct anise and citrus terpene prof  a foundational genetic pillar in modern cannabis breeding, contributing to numerous hybrid cultivars.
 
 ## Genetic Lineage
 
-### Landcervantes-landrace-cannabis-populations]] Poison originates from the **KwaZulu-Natal** province of South Africa, where indigenous cannabis populations have grown for centuries. The strain was first brought to the United States in the late 1970s by cannabis enthusiast and breeder **Ed Rosenthal**, who reportedly received seeds from a South African contact.
-
-Key characteristics of the landrace:
-
-- **Purity:** Considered one of the purest Sativa landraces available commercially
-- **Region of origin:** Coastal subtropical climate of Durban, South Africa (31°S latitude)
+### Landcervantes-landrace-cannabis-populations Poison originates from the **KwaZulu-Natal** province of South Africa, where indigenous cannabis populations have grown for centuries. The strain was first brought to the [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] of origin:** Coastal subtropical climate of Durban, South Africa (31°S latitude)
 - **Local use:** Historically cultivated by Zulu communities and traded through the Durban port
 - **Genomic profile:** Distinct African chemotype with unique terpene and cannabinoid ratios
 
@@ -121,9 +116,9 @@ Durban Poison is relatively straightforward to cultivate but requires attention 
 
 ### Cultivation Recommendations
 
-- **Training:** Essential for indoor grows; LST (low-stress training), SCROG ([[screen-of-green]]), or topping recommended to manage height
+- **Training:** Essential for indoor grows; LST (low-stress training), SCROG (), or topping recommended to manage height
 - **Climate:** Warm, Mediterranean-like conditions (21–29°C day, 15–20°C night)
-- **Nutrients:** Moderate feeder; slightly higher nitrogen in vegetative stage
+- **Nutrients:** Moder [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] nitrogen in vegetative stage
 - **Humidity:** 50–60% during vegetative; reduce to 40–50% during flowering to prevent mold
 - **Light:** Thrives under full-spectrum lighting; 18/6 vegetative, 12/12 flowering
 - **Pest resistance:** Good natural resistance due to landrace genetics and thick resin
@@ -139,9 +134,5 @@ While genetically stable, some phenotype variation exists:
 ## Notable Hybrids
 
 Durban Poison is extensively used in breeding:
-- **[[girl-scout-cookies]] (GSC):** Durban Poison × [[og-kush]] — foundation of the modern "Cookie" lineage
-- **Durban Thai:** × Thai landrace — pure Sativa cross
-
-## Cultural Significance
-
-Durban Poison holds a unique position in cannabis culture as a bridge between indigenous African traditions and modern Western breeding. Its preservation as a relatively unhybridized landrace makes it valuable for genetic conservation, pure Sativa breeding programs, scientific research into cannabinoid profiles, and understanding the historical spread and domestication of cannabis.
+- ** (GSC):** Durban Poison ×  — foundation of the [[durban-poison-cannabis-strain]]
+- [[african-landrace-sativa-strains]]

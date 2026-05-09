@@ -1,14 +1,7 @@
 ---
 title: Three Shamanic Ranks in Amazonian Vegetalismo — Muraya, Sumiruna, and Banco
 source: amaringo-p-ayahuasca-visions.md
-tags: [ayahuasca, shamanism, vegetalismo, muraya, sumiruna, banco, amazon, plant-medicine]
----
-
-# Three Shamanic Ranks in Amazonian Vegetalismo
-
-The Muraya, Sumiruna, and Banco are the three highest degrees in the
-traditional vegetalista medicine of the Amazon, as described by Pablo
-Amaringo in *[[ayahuasca-visions]]*. These ranks represent ascending levels
+tags: [ayahuasca, [[ayahuasca-visions]]*. These ranks represent ascending levels
 of spiritual power, esoteric knowledge, and genuine metaphysical capacity.
 They are not merely honorific titles but denote real abilities cultivated
 through years of rigorous dieting, fasting, and communion with plant
@@ -121,3 +114,7 @@ and direct experiential knowledge of the plant spirits.
   murayas and bancos specialized in high alchemy.
 - **Vision 21** — The Sublimity of the Sumiruna: Detailed depiction of
   a sumiruna's journey from subaquatic worlds to outer space.
+
+## See Also
+- [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]
+- [[teaming-with-microbes-plant-control]]

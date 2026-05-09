@@ -1,62 +1,14 @@
 ---
-title: "mollison-designers-plant-nursery-propagation-bed-design and mollison-designers-temperate-zone-food-forest-design Propagation"
+title: "mollison-designers-plant-nursery-propagation-bed-design and [[mollison-designers-temperate-zone-food-forest-design]] Propagation"
 created: 2026-04-28
-tags: [permaculture, grafting, fruit-trees, propagation, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Grafting and [[fruit-tree-propagation]]
+tags: [[fruit-tree-propagation]]
 
 Mollison covers grafting extensively in Permaculture: A Designer's Manual as a
 critical skill for permaculture practitioners. Grafting allows the combination
 of a desired fruiting variety (the scion) with a root system adapted to local
 soil and climate conditions (the rootstock), enabling the cultivation of
 varieties that would otherwise fail or underperform. It is central to
-establishing productive [[food-forest-design-guide]] and orchard
-systems.
-
-## Why Graft
-
-Seed-grown fruit trees exhibit enormous genetic variability. A seed from a
-good apple may produce a tree with mediocre or inedible fruit. Grafting
-preserves the exact genetic characteristics of the parent variety. Additionally,
-rootstocks can be selected for specific traits: dwarfing, disease resistance,
-tolerance of wet or dry soils, early bearing, or compatibility with the scion
-variety.
-
-Grafting also allows a single tree to bear multiple varieties (topworking), a
-useful technique for extending harvest seasons, ensuring cross-pollination, or
-testing new varieties without planting separate trees.
-
-## Rootstock Selection
-
-Rootstock choice is as important as scion selection. Mollison emphasizes that
-the rootstock determines tree size, soil adaptation, disease resistance, and
-longevity.
-
-Common fruit tree rootstocks:
-
-**Apple:** Malling (M) and Malling-Merton (MM) series. M9 and M26 produce
-dwarf trees (2-3 m), suitable for intensive plantings. MM106 and MM111 produce
-semi-dwarf to standard trees (3-5 m), more appropriate for permaculture
-systems where larger canopies provide shade, mulch, and habitat.
-
-**Pear:** Quince rootstocks (Quince A, Quince C) produce dwarf trees. Seedling
-pear or Pyrus calleryana for full-size trees.
-
-**Stone fruits (peach, plum, cherry):** Various Prunus species rootstocks.
-Myrobalan plum is widely compatible and adaptable. St. Julien A for semi-dwarf
-plums. Mahaleb and Mazzard for cherries.
-
-**Citrus:** Trifoliate orange (Poncirus trifoliata) for cold tolerance and
-dwarfing. Rough lemon and Carrizo citrange for vigorous growth in warm
-climates.
-
-Select rootstocks suited to local conditions. In [[permaculture-design]], standard
+establishing productive [[permaculture-design]], standard
 and semi-dwarf rootstocks are generally preferred because larger trees
 contribute more to the overall system -- more leaf fall for mulch, more shade
 for understory crops, more biomass for chop-and-drop mulching.
@@ -146,5 +98,4 @@ A [[mollison-designers-plant-nursery-propagation-bed-design]] should include
 a dedicated grafting bench with tools, supplies, and cold storage for scion
 wood. Mollison encourages practitioners to maintain a collection of local and
 heritage fruit varieties grafted onto adapted rootstocks as a community
-resource. Grafting skills also enable repair of damaged trees, topworking of
 ## See Also

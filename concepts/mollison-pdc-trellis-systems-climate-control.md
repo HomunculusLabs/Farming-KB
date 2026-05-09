@@ -127,20 +127,6 @@ row covers or other artificial measures.
 
 ## Connection to Permaculture Design Principles
 
-The trellis system illustrates several core [[permaculture-principles]].
-Every element serves multiple functions: the trellis supports crops,
-modifies climate, manages wind, and provides wildlife habitat. The
-design works with natural forces rather than against them, using plant
-growth patterns and solar geometry to create desired conditions. Energy
-cycling is improved because vertical growing captures more sunlight per
-unit area. And the integration of trellises with other garden elements
-like paths, water features, and seating areas creates a multifunctional
-landscape that is more productive and more pleasant than a conventional
-flat garden.
-
-## See Also
-
-- [[mollison-pdc-zone-one-vegetable-bed-design]]
-- [[permaculture-zone-one-design]]
+The trellis system illustrates several core [[mollison-pdc-zone-one-vegetable-bed-design]]
 - [[mollison-windbreak-design]]
 - [[mollison-microclimate-creation]]

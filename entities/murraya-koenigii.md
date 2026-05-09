@@ -98,23 +98,14 @@ Several other Murraya species occur in tropical Asia and Australia, though none 
 
 ## See Also
 
-- [[cinnamomum-verum]]
 - [[eugenia-caryophyllata]]
-- [[zingiber-officinale]]
 - [[cymbopogon-citratus]]
-- [[piper-nigrum-entity]]
 - [[boesenbergia-rotunda]]
-- [[alpinia-galanga]]
 - [[turmeric]]
-- [[curcumin]]
-- [[ginger]]
 - [[capsicum-annuum]]
-- [[allium-sativum-entity]]
 - [[ocimum-sanctum]]
-- [[curcuma-longa]]
 - [[azadirachta-indica]]
-- [[mangifera-indica]]
 - [[berberine]]
-- [[ricinus-communis]]
+- ricinus communis
 - [[aloe-vera]]
-- [[jatropha-curcas]]
+- jatropha curcas

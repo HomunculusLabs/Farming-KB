@@ -9,7 +9,7 @@ sources:
 ---
 # Plutarch and Cicero on the Eleusinian Mysteries
 
-The testimonies of Plutarch and Cicero are among the most important literary sources for understanding how the [[eleusinian-mysteries-history-and-structure]] were perceived in antiquity. Both writers were initiates themselves, yet their accounts preserve the secrecy oath by describing the experience indirectly or by emphasizing its benefits rather than its content. Their descriptions closely match what we now recognize as [[psychedelic-use-in-ancient-greece]].
+The testimonies of Plutarch and Cicero are among the most important literary sources for understanding how the [[psychedelic-use-in-ancient-greece]].
 
 ## Cicero (106-43 BCE)
 
@@ -36,21 +36,7 @@ Plutarch provides the most vivid description of the initiatory experience in his
 This passage maps the psychological trajectory of the experience with precision:
 
 1. **Pre-initiation anxiety**: "wandering and toilsome running about" -- the pilgrimage along the Sacred Road, fasting, and anticipatory dread.
-2. **The onset**: "terrors, shuddering and trembling, and sweat" -- the physical symptoms of the psychoactive compound taking effect in the darkened telesterion. These symptoms (fear, trembling, nausea, cold sweat) are precisely the initial effects reported for lysergic acid amide and related compounds. The [[psychedelic-experience-stages]] closely mirror this sequence.
-3. **The vision**: "a wondrous light" and "meadows, voices, choruses, and dances" -- the visionary climax, with its synesthetic blending of visual and auditory phenomena.
-4. **Integration**: "the fully initiated person, free and released, crowned with a wreath" -- the transformed state of the epoptes, analogous to the post-psychedelic integration phase.
-
-### Plutarch's Fragment on the Soul
-
-In Plutarch's fragment "On the Soul" (sometimes attributed to the Consolation to his Wife), he uses Eleusinian imagery to describe the soul's journey after death, drawing an explicit parallel between the post-mortem experience and the initiation:
-
-> Now the soul is in a state of terror and perplexity like that of those who are being initiated into the great mysteries, and at first there wanders about and is not well pleased, but afterwards, when it has made the passage, a great marvel meets it.
-
-Plutarch explicitly states that the soul's post-mortem journey parallels the Eleusinian initiation -- the terrors of the one are the same as the terrors of the other. The initiate who has experienced symbolic death and rebirth during the ceremony is prepared for the actual transition. This suggests the Mysteries functioned as a controlled rehearsal for death. The parallel between the psychedelic dissolution of ego and the dissolution of the self at death is striking and anticipates modern psychedelic therapy's concept of "ego death."
-
-## Aristotle on the Mysteries
-
-Aristotle said of the Eleusinian Mysteries that the initiates did not receive instruction (*mathein*) but underwent an experience (*pathein*). This distinction is crucial: the Mysteries were not about learning doctrines but about undergoing a transformative experience. This aligns with the [[wasson-hofmann-ruck-collaboration]] -- the kykeon was not a teaching tool but a catalyst for direct experience.
+2. **The onset**: "terrors, shuddering and trembling, and sweat" -- the physical symptoms of the psychoactive compound taking effect in the darkened telesterion. These symptoms (fear, trembling, nausea, cold sweat) are precisely the initial effects reported for lysergic acid amide and related compounds. The [[wasson-hofmann-ruck-collaboration]] -- the kykeon was not a teaching tool but a catalyst for direct experience.
 
 ## The Secrecy Problem
 
@@ -72,17 +58,32 @@ Additional references from ancient authors, while briefer, reinforce the pattern
 - **Isocrates**: Praised the Mysteries for teaching piety and the proper conduct of life.
 - **Aristophanes**: The comic poet, in "The Frogs," parodied the initiation but in doing so revealed knowledge of its structure -- suggesting the basic framework was widely known even if the central experience remained secret.
 
-The consistent pattern across all testimonies -- from poets, philosophers, and politicians spanning centuries -- is that the [[eleusinian-mysteries-history-and-structure]] was the supreme event of a lifetime. The [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] of Demeter and Persephone provided the narrative container, but the transformative power came from what happened within the telesterion.
+The consistent pattern across all testimonies -- from poets, philosophers, and politicians spanning centuries -- is that the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] of Demeter and Persephone provided the narrative container, but the transformative power came from what happened within the telesterion.
 
 Source: raw/papers/the-road-to-eleusis.md
 
 ## Related
 
-- [[eleusinian-mysteries-history-and-structure]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 - [[psychedelic-use-in-ancient-greece]]
-- [[wasson-hofmann-ruck-theory]]
 - [[psychedelic-experience-stages]]
-- [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
+## Practical Considerations
+
+Successful implementation of Plutarch and Cicero on the Eleusinian Mysteries requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

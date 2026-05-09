@@ -19,41 +19,7 @@ sources:
   - Gilroy, S., et al. (2016). Plant behavior and communication. *American Journal of Botany*, 103(5), 765-771.
   - Novoplansky, A. (2019). Plant-environment interactions: perception, proximate processing and multi-level responses. *Plant, Cell & Environment*, 42(3), 747-764.
   - Falik, O., et al. (2011). Plant root foraging obeys Darwinian conflict between siblings. *PLoS ONE*, 6(9), e23507.
-  - Song, Y. Y., et al. (2010). Interplant communication of tomato plants through underground [[common-mycorrhizal-networks]]. *PLoS ONE*, 5(10), e13324.
-type: query
-created: 2026-04-28
----
-# How Do Plants Communicate and Respond to Stress?
-
-## Quick Answer
-
-Plants communicate and respond to stress through an astonishing array of mechanisms: **[[fungal-volatile-organic-compounds]] (VOCs)** released into mycorrhizal-biocontrol-phytophthora-[[root-exudates]] ot exudates** secreted into soil, **electrical signals** that travel through tissues, **hormonamycorrhizal-fungal-diversityreprogram gene expression, and **mycorrhizal fungal networks** that connect plants underground. Far from being passive organisms, plants actively perceive their environment, warn neighbors of danger, recruit bodyguards, share resources, and make sophisticated foraging decisions — all without a nervous system.
-
-## The Main Communication Channels
-
-### 1. Volatile Organic Compounds (Airborne Signals)
-
-Plants emit a complex bouquet of volatile organic compounds (VOCs) that serve as airborne signals:
-
-**Herbivore-Induced Plant Volatiles (HIPVs):**
-When a plant is attacked by herbivores, it releases a specific blend of volatiles that differs from its normal emissions. This blend serves multiple functions:
-
-- **Warning neighbors:** Undamaged neighboring plants detect HIPVs and preemptively activate their own defense responses — producing more defensive compounds, toughening leaves, or releasing their own warning signals. This "eavesdropping" has been demonstrated in sagebrush (*Artemisia tridentata*), where neighboring tobacco plants exposed to clipped-sagebrush volatiles suffered significantly less herbivore damage.
-- **Recruiting predators (indirect defense):** HIPVs attract natural enemies of the herbivore. For example, maize plants attacked by caterpillars release a blend of terpenoids and indole that attracts parasitoid wasps (*Cotesia* spp.), which then lay eggs in the caterpillars. The plant essentially calls for an air strike.
-- **Plant-plant signaling within species and across species:** HIPV eavesdropping works both within and between species. Lima bean plants exposed to HIPVs from damaged conspecifics activate defensive genes. The response is specific — plants can distinguish between mechanical damage (wind, hail) and herbivore damage (which includes insect saliva cues like **elicitors** such as volicitin and β-glucosidase).
-
-**Key VOC classes:**
-- **Terpenoids (isoprenoids):** The largest class. Includes monoterpenes (α-pinene, limonene), sesquiterpenes (β-caryophyllene, nerolidol), and homoterpenes (DMNT, TMTT). Synthesized via the MEP (methylerythritol phosphate) and MVA (mevalonate) pathways.
-- **Green leaf volatiles (GLVs):** C₆ aldehydes, alcohols, and esters (hexanal, (Z)-3-hexenal, (Z)-3-hexenol). Released immediately upon tissue damage, regardless of cause. Serve as rapid "damage alarms."
-- **Phenylpropanoids/benzenoids:** Methyl salicylate (MeSA), methyl jasmonate (MeJA), benzaldehyde. Important in systemic acquired resistance (SAR) and long-distance signaling.
-- **Nitrogen-containing compounds:** Indole, ethylene, nitric oxide (NO). Often released during herbivore attack.
-
-### 2. Root Exudates (Soil Chemical Signals)
-
-Roots release a staggering diversity of chemicals into the rhizosphere — up to 10–20% of photosynthetically fixed carbon:
-
-**Root exudate functions in communication:**
-- **Allelopathy:** Plants release compounds that inhibit the growth of competitors. Black walnut (*[[juglans-nigra]]*) releases juglone; sorghum releases sorgoleone; spotted knapweed releases catechin.
+  - Song, Y. Y., et al. (2010). Interplant communication of tomato plants through underground [[juglans-nigra]]*) releases juglone; sorghum releases sorgoleone; spotted knapweed releases catechin.
 - **Sibling recognition:** Roots can distinguish between self and non-self. Plants invest more root growth in pots with strangers than with siblings, suggesting kin recognition mediated by root exudate profiles.
 - **Microbial recruitment:** Roots release specific exudates to attract beneficial microbes. Legumes release flavonoids that trigger *Rhizobium* nodulation genes. Maize roots release benzoxazinoids that shape the root microbiome.
 - **Nematode and pathogen defense:** Roots release compounds that repel parasitic nematodes or stimulate antagonistic microbes. Some plants release **exudate traps** that lure pathogenic fungi to their roots and then kill them with localized oxidative bursts.
@@ -62,18 +28,7 @@ Roots release a staggering diversity of chemicals into the rhizosphere — up to
 
 Plants generate and propagate electrical signals analogous to (but simpler than) animal action potentials:
 
-- **Action potentials (APs):** Rapid depolarization waves (1–10 cm/sec) triggered by wounding, cold shock, or osmotic stress. In *[[mimosa-pudica]]* (sensitive plant), APs trigger rapid leaf closure.
-- **Variation potentials (VPs) / slow wave potentials:** Slower signals (1–10 mm/sec) triggered by severe wounding, burning, or salt stress. VPs propagate through the xylem and can travel throughout the entire plant within minutes.
-- **System potentials (SPs):** Hyperpolarization waves that precede VPs and may prime tissues for defense responses.
-
-**What electrical signals do:**
-- Rapidly transmit wound information from damaged leaves to undamaged tissues (within seconds to minutes — far faster than hormonal signals).
-- Trigger systemic defense responses: jasmonic acid production, protease inhibitor synthesis, volatile emission.
-- In carnivorous plants (*Venus flytrap*, *Sundew*), APs trigger trap closure.
-
-### 4. Mycorrhizal Networks (The "Wood Wide Web")
-
-Plants connected through **common [[mycorrhizal-networks]] (CMNs)** — shared fungal hyphae linking multiple plant root systems — can exchange:
+- **Action potentials (APs):** Rapid depolarization waves (1–10 cm/sec) triggered by wounding, cold shock, or osmotic stress. In *[[mycorrhizal-networks]] (CMNs)** — shared fungal hyphae linking multiple plant root systems — can exchange:
 
 - **Carbon:** Trees in shaded understory positions receive photosynthate from sun-exposed canopy trees through CMNs. "Mother trees" preferentially transfer carbon to their own seedlings.
 - **Nitrogen and phosphorus:** Nutrients are moved between plants through fungal hyphae, often from nutrient-rich to nutrient-poor individuals.
@@ -146,4 +101,4 @@ Plants exhibit a form of "memory" called **priming**: after experiencing one str
 ## See Also
 
 - [[plant-sensory-biology]]
-- [[plant-defense-chemistry-and-secondary-metabolites]]
+- plant defense chemistry and secondary metabolites

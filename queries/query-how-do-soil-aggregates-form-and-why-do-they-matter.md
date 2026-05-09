@@ -139,11 +139,8 @@ This is why building aggregates (through no-till, cover crops, and organic amend
 
 ## See Also
 
-- [[fungal-contributions-soil-structure]]
 - [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
 
-- [[lowenfels-soil-structure-aggregates]] — comprehensive topic page on soil aggregates
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]] — the living organisms that build and maintain aggregates
-- [[no-till-cannabis]] — practices that preserve aggregates
 - [[mycorrhizal-fungi]] — key aggregate-building organisms
 - [[cover-crops]] — feeding the aggregate builders

@@ -1,19 +1,14 @@
 ---
 title: "Compost Preparation and Phase Methods for Mushroom Cultivation"
 created: 2026-04-28
-tags: [mushroom-cultivation, composting, substrate, phase-composting, soil-science]
+tags: [[mushroom-cultivation, composting, substrate, phase-composting, soil-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 type: concept
 ---
 
-# [[stamets-compost-preparation]] and Phase Methods
-
-## Purpose of Composting
-
-The purpose of composting is to prepare a nutritious medium that promotes mushroom
-[[mycelium]] growth to the practical exclusion of competitor organisms. Specifically:
+# [[mycelium]] growth to the practical exclusion of competitor organisms. Specifically:
 
 1. Create a physically and chemically homogeneous substrate
 2. Create a selective substrate where mushroom mycelium thrives better than
@@ -26,30 +21,7 @@ The purpose of composting is to prepare a nutritious medium that promotes mushro
 
 ### Phase I: Outdoor Composting
 
-Involves the mixing and primary [[decomposition]] of raw materials. This is where the
-bulk of the microbial activity occurs, breaking down complex organic materials
-into simpler compounds available to mushroom mycelium.
-
-### Phase II: Indoor Conditioning
-
-Carried out in specially designed rooms, the compost is pasteurized and
-conditioned within strict temperature zones. This phase eliminates pathogens,
-pests, and competing organisms while preparing the compost for inoculation.
-
-## Basic Raw Materials
-
-### Straw (Primary Base Ingredient)
-
-Cereal straw from wheat, rye, oat, barley, and rye grass serves as the primary
-structural component. Wheat straw is preferred due to its resilient nature. Oat
-and barley straw tend to flatten and waterlog, leading to anaerobic conditions.
-Rye grass straw is more resistant to decomposition, taking longer to compost.
-
-Wheat straw composition: 36% cellulose, 25% pentosan, 16% lignin. Cellulose and
-pentosan are carbohydrates yielding simple sugars for microbial growth. Lignin
-changes during composting to a "nitrogen-rich-lignin-humus-complex" providing
-protein. Straw provides both the structural and chemical properties ideal for
-[[mushroom-compost-bed-systems-duggar]].
+Involves the mixing and primary [[mushroom-compost-bed-systems-duggar]].
 
 ### Horse Manure
 

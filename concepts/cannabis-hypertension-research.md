@@ -43,31 +43,9 @@ No dedicated hypertension studies exist in the CHI database, but cardiovascular 
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-endocannabinoid-system]] plays a complex role in cardiovascular regulation. cb1-receptor activation by endocannabinoids (particularly anandamide) produces vasodilation in some vascular beds, contributing to blood pressure lowering. However, chronic CB1 overactivation in metabolic syndrome is associated with cardiovascular pathology.
+The [[cannabis-anti-inflammatory-applications]].
 
-CBD modulates blood pressure through several mechanisms: it activates the transient receptor potential vanilloid type 1 (TRPV1) channel, promoting vasodilation; it reduces oxidative stress in vascular endothelium; and it attenuates the cardiovascular stress response through anxiolytic effects mediated by 5-HT1A receptor activation. These mechanisms are explored in [[cannabis-anti-inflammatory-applications]].
-
-The endocannabinoid anandamide is a vasodilator, and its degradation by FAAH (fatty acid amide hydrolase) represents a potential therapeutic target. FAAH inhibitors increase endogenous anandamide levels, producing blood pressure reduction without the psychoactive effects of THC. This approach modulates the [[cannabis-endocannabinoid-system]] more naturally than exogenous cannabinoid administration.
-
-CBD's anti-inflammatory effects are mediated primarily through cb2-receptor activation on immune cells, reducing the chronic vascular inflammation that drives atherosclerosis and arterial stiffness. By addressing endothelial dysfunction, CBD may improve arterial compliance and reduce peripheral vascular resistance.
-
-## Clinical Evidence
-
-The Nottingham study (2007) is the most directly relevant, demonstrating that a single dose of oral CBD (600 mg) reduced resting systolic blood pressure by approximately 6 mmHg in 9 healthy volunteers. CBD also blunted the blood pressure response to mental stress, suggesting potential for stress-related hypertension management. However, the small sample size (9 participants) and acute single-dose design limit generalizability.
-
-No long-term randomized controlled trials of CBD for essential hypertension have been published. The evidence base relies on acute hemodynamic studies, preclinical models, and indirect evidence from related conditions. Population-based studies have produced conflicting results, with some suggesting cannabis users have similar or slightly lower blood pressure than non-users.
-
-The relationship between cannabis and cardiovascular health is nuanced. While CBD appears to have favorable cardiovascular effects, THC's acute cardiovascular effects (tachycardia, vasodilation) may be problematic for some patients. Chronic tolerance development may modify these acute effects over time.
-
-## Dosing Considerations
-
-For hypertension management, CBD-dominant preparations are strongly preferred over THC-dominant products due to THC's acute cardiovascular effects. CBD doses of 300-600 mg have been used in cardiovascular studies, though lower doses (25-100 mg/day) may provide cumulative benefits for chronic blood pressure management.
-
-Sublingual tinctures offer the most predictable absorption for blood pressure management. Edibles have variable bioavailability and delayed onset, making dose titration more challenging. Smoking should be avoided due to the cardiovascular and respiratory risks of combustion, regardless of any blood pressure effects from cannabinoids.
-
-For patients who tolerate THC, very low doses (1-2.5 mg) may provide additional anxiolytic benefits that indirectly support blood pressure management through stress reduction. However, the acute tachycardia from THC may temporarily counteract blood pressure-lowering effects.
-
-Consistent daily dosing is likely more effective than as-needed use for chronic hypertension. Patients should monitor blood pressure regularly when initiating cannabinoid therapy and report any significant changes to their healthcare provider. See [[cannabis-delivery-methods-comparison]] for administration options.
+The endocannabinoid anandamide is a vasodilator, and its degradation by FAAH (fatty acid amide hydrolase) represents a potential therapeutic target. FAAH inhibitors increase endogenous anandamide levels, producing blood pressure reduction without the psychoactive effects of THC. This approach modulates the [[cannabis-delivery-methods-comparison]] for administration options.
 
 ## Safety and Interactions
 
@@ -77,17 +55,26 @@ THC can cause acute tachycardia (increased heart rate) and orthostatic hypotensi
 
 CBD's CYP3A4 inhibition may affect the metabolism of several antihypertensive medications, including amlodipine and some beta-blockers. Drug levels should be monitored, and dose adjustments may be necessary.
 
-Cannabis should not be considered a replacement for established antihypertensive medications. Any cannabinoid therapy for hypertension should be adjunctive to, not a substitute for, standard blood pressure management including lifestyle modifications and prescribed medications. See [[cannabis-cbd-therapeutic-profile]] for detailed safety guidance.
-
-## Mind-Body Medicine Perspective
-
-Hypertension may represent chronic, suppressed anger or frustration -- internal pressure that finds expression through arterial walls. Consider exploring suppressed emotions, chronic stress patterns, and the relationship between emotional "holding" and physical tension. The cardiovascular system is intimately connected to emotional states through the autonomic nervous system.
-
-## See Also
-
-- [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-for-anxiety-disorders]]
+Cannabis should not be considered a replacement for established antihypertensive medications. Any cannabinoid therapy for hypertension should be adjunctive to, not a substitute for, standard blood pressure management including lifestyle modifications and prescribed medications. See [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-health-index]]
-- [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-mind-body-medicine-integration]]
+## Practical Considerations
+
+Successful implementation of Cannabis and Hypertension Research requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

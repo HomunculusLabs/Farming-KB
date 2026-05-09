@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Pulp and Paper Effluent Treatment
 
@@ -12,7 +13,7 @@ sources: []
 
 The pulp and paper industry is one of the primary users of wood resources globally. Chemical pulping (Kraft process) dissolves lignin from cellulose fibers using sodium hydroxide and sodium sulfide, yielding <50% pulp that requires extensive bleaching. Conventional bleaching employs chlorine species, producing chlorinated phenols, chlorinated hydrocarbons, and other toxic byproducts. The resulting effluents are highly colored, with the first alkaline extraction stage (E1) contributing ~80% of color, 30% of BOD, and 60% of COD of total mill discharge.
 
-This topic extends [[fungal-wastewater-treatment]] and connects to [[white-rot-fungi-bioremediation]].
+This topic extends [[white-rot-fungi-bioremediation]].
 
 ## Effluent Characteristics
 
@@ -84,9 +85,6 @@ Color removal involves both **adsorption** and **biodegradation**:
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
 - [[fungal-enzyme-systems-in-bioremediation]]
-- [[fungal-biodegradation-chlorinated-aromatics-and-btex]]
 - [[fungal-bioremediation-mechanisms]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
 - [[fungal-treatment-of-pulp-mill-effluents]]

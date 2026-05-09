@@ -47,17 +47,6 @@ conditions with poor air circulation. Prevention is far more effective than
 treatment: use a sterile seed-starting mix rather than garden soil, maintain
 temperatures above 70 degrees Fahrenheit, ensure good air circulation with a
 small fan, and avoid overwatering. The
-[[cervantes-damping-off-seedling-disease-prevention]] covers these strategies in detail. Some growers sprinkle cinnamon or a
-light layer of perlite on the soil surface to create a dry barrier against
-fungal spores.
-
-Nutrient burn from feeding too early is another extremely common mistake.
-Cannabis seeds contain enough stored nutrients to sustain the seedling through
-its first two to three weeks of life. Adding nutrients before the seedling has
-developed its second or third set of true leaves almost always causes more harm
-than good. Young roots are extremely sensitive to salt concentrations, and even
-mild nutrient solutions can burn the delicate root tips, causing leaf tips to
-curl downward and turn yellow or brown. The
 [[cannabis-seedling-care-guide]] emphasizes using plain
 water with a pH between 6.0 and 6.5 for the first few weeks.
 
@@ -70,25 +59,7 @@ burn seedling leaves, especially from intense LED panels placed too close.
 Seedlings need gentle light: fluorescent tubes or low-power LEDs positioned 18
 to 24 inches above the canopy are ideal for the first week, gradually moving
 closer as the plant hardens off. For guidance on choosing appropriate lighting,
-see the [[query-how-to-choose-right-grow-light-cannabis]].
-
-Temperature extremes are particularly dangerous for seedlings. Cold temperatures
-below 65 degrees Fahrenheit slow growth dramatically and make seedlings more
-susceptible to damping-off and other fungal diseases. Temperatures above 85
-degrees Fahrenheit cause heat stress, excessive transpiration, and rapid drying
-of the small soil volume. Root zone temperature is especially important: cold
-soil slows root development and nutrient uptake even if air temperatures are
-acceptable. A seedling heat mat under the propagation tray can maintain optimal
-root zone temperatures of 72 to 78 degrees during germination and early growth.
-
-Wind stress from fans placed too close can cause seedling stems to bend and
-develop weak structural tissue. While gentle air movement is important for
-strengthening stems and preventing fungal problems, seedlings should not be
-battered by strong airflow. Oscillating fans should be positioned far enough
-away that leaves move gently rather than being blown flat. As seedlings grow and
-stems thicken, fan intensity can gradually increase. This process of gradually
-introducing environmental stress is part of the broader concept of
-[[cervantes-seedling-care-early-growth]] that prepares
+see the [[cervantes-seedling-care-early-growth]] that prepares
 young plants for the more demanding conditions of later growth stages.
 
 For seedlings that are already struggling, the first response should always be
@@ -114,8 +85,6 @@ efficient to start fresh with a new seed.
   strong wind
 
 ## Related Questions
-- [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - query what causes cannabis seedlings to die and how to save them
-- [[query-how-to-choose-right-grow-light-cannabis]]
 - [[query-what-are-the-stages-of-cannabis-growth]]

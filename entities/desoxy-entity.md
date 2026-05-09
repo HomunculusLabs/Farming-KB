@@ -74,9 +74,7 @@ The difference between DESOXY (2-carbon, 3,5-dimethoxy) and 2c-d-entity|2C-D (2-
 - dom-entity|DOM (the amphetamine analogue)
 - 2c-d-entity|2C-D (2,5-dimethoxy isomer)
 - dob-entity|DOB (bromo amphetamine analogue)
-- [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
 - [[pihkal-introduction-and-methodology]]
-- [[phenethylamine-synthesis-safety]]
 - [[thc-acetate-synthesis-and-pharmacology]]
 - [[2c-family-compounds-overview]]
 

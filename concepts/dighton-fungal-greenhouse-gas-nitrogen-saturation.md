@@ -108,9 +108,7 @@ regulation of greenhouse gas fluxes.
 
 ## See Also
 
-- [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]
 - [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
-- [[dighton-fungi-elevated-co2-global-carbon-cycling]]
 - [[dighton-fungal-responses-climate-change]]
 - [[dighton-fungi-climate-change-feedback]]
 

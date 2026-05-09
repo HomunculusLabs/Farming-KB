@@ -24,13 +24,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md, /Users/t3rpz/wiki/ra
 - **Solubility:** Soluble in ethanol, DMSO, and dilute acids; moderately soluble in water
 - **Stability:** Relatively stable as a solid under cool, dark, dry storage. The acetoxy group is susceptible to hydrolysis in aqueous solution, particularly under acidic or basic conditions.
 
-Structurally, 4-AcO-DMT is identical to [[psilocin]] with the 4-hydroxyl group replaced by an acetoxy (acetyloxy) group. This substitution — replacing a hydroxyl (-OH) with an acetoxy (-OCOCH₃) — is the same structural relationship that exists between heroin and morphine: the acetylated analog serves as a lipophilic prodrug that is deacetylated in vivo to the active compound.
-
-## Pharmacology
-
-4-AcO-DMT functions primarily as a prodrug of psilocin:
-
-- **Prodrug mechanism:** After oral administration, esterases in the body — primarily in the liver, blood plasma, and intestinal mucosa — hydrolyze the acetoxy ester bond, converting 4-AcO-DMT to [[psilocin]] (4-HO-DMT) and acetic acid. This conversion is rapid and efficient, meaning the subjective experience is essentially that of psilocin.
+Structurally, 4-AcO-DMT is identical to [[psilocin]] (4-HO-DMT) and acetic acid. This conversion is rapid and efficient, meaning the subjective experience is essentially that of psilocin.
 - **Primary receptor activity (via psilocin):** Partial agonist at the 5-HT₂A serotonin receptor — the primary site responsible for classical psychedelic effects.
 - **Additional receptor interactions:** 5-HT₁A (partial agonist), 5-HT₂C (agonist), and 5-HT₂B (weak agonist) — all mediated through the psilocin metabolite.
 - **Direct receptor activity:** Some evidence suggests 4-AcO-DMT may have weak direct receptor affinity before deacetylation, though this is considered negligible compared to its activity as a prodrug.
@@ -121,10 +115,8 @@ Legal status varies significantly by jurisdiction and has evolved rapidly:
 
 ## See Also
 
-- [[psilocin]] — The active deacetylated metabolite of 4-AcO-DMT
-- [[psilocybin-compound]] — The natural prodrug of psilocin found in psychedelic mushrooms
-- [[dmt]] — The non-hydroxylated parent tryptamine
-- [[5-meo-dmt]] — The 5-methoxy analog with distinct pharmacological profile
+- [[psilocybin]] — The natural prodrug of psilocin found in psychedelic mushrooms
+- [[5-meo-dmt-entity]] — The 5-methoxy analog with distinct pharmacological profile
 - 4 ho met — A closely related synthetic tryptamine with similar properties
 - [[tryptamine]] — The parent compound class
 - shulgin — Alexander Shulgin, whose work documented tryptamine chemistry

@@ -19,7 +19,7 @@ Sepp Holzer's method is a practical, observation-based approach to agriculture d
 
 Both approaches reject synthetic chemicals and seek to work with natural processes, but they differ fundamentally in philosophy, core practices, and accessibility.
 
-See [[sepp-holzer-method]] for landscape design techniques and [[biodynamic-agriculture-and-steiner]] for preparations and spiritual framework.
+See [[biodynamic-agriculture-and-steiner]] for preparations and spiritual framework.
 
 ## Key Differences
 
@@ -126,6 +126,5 @@ Biodynamic drawbacks include the esoteric philosophical framework that challenge
 
 ## See Also
 
-- [[biodynamic-preparations]] for detailed preparation instructions
 - [[composting-methods-comparison]] for soil-building strategies
 - [[fukuoka-no-till-grain-production-method]] for surface-based soil management

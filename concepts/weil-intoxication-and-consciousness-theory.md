@@ -116,9 +116,6 @@ Weil's consciousness theory has practical implications for individuals intereste
 
 ## Related
 
-- [[weil-the-natural-mind-altered-states-normalcy]] — The opening thesis of the book
 - [[weil-drug-use-as-innate-human-drive]] — The biological drive argument
-- [[weil-psychedelic-experience-set-and-setting]] — How context shapes subjective experience
 - [[weil-the-mind-drug-relationship-paradigm]] — The paradigm Weil's theory challenges
-- [[weil-cultural-attitudes-toward-altered-states]] — Cultural frameworks for consciousness alteration
 - [[mandrake-plant]] — Author biography

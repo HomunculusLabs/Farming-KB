@@ -86,58 +86,9 @@ natural leveling of water flow across gentle depressions.
 The replacement of earthen levees with concrete represents one of
 the most destructive aspects of modern paddy construction. Earthen
 levees harbor a rich community of soil organisms including
-[[mycorrhizal-fungi]], nitrogen-fixing bacteria, earthworms, and
-countless microorganisms that cycle nutrients between the paddy
-water, the soil, and the surrounding farmland. Concrete eliminates
-this living interface entirely, creating a sterile barrier that
-prevents the natural exchange of organic material between field
-and border.
-
-The loss of these microbial highways means that nutrients no
-longer flow naturally into and out of the paddy. The farmer must
-then compensate with chemical fertilizers, which further degrade
-the soil biology in a vicious cycle of dependency. Heavy machinery
-compaction compounds the problem by destroying soil structure and
-reducing porosity, leading to water stagnation and root disease.
-
-## Terraced Gardens on Hillsides
-
-The first task in setting up a garden on a hillside is to build a
-series of lateral embankments or stone walls running across the
-slope of the hill. Knowledge of the soil and the ability to build
-earthen embankments that do not crumble or to skillfully lay stones
-dug up from the field can be a determining factor in the success
-of a garden. Whether the individual terraces are level or slightly
-graded makes a large difference in crop returns and the efficiency
-of farming work.
-
-## Soil Activation Through Terracing
-
-The most basic method for improving soil in a terraced garden is
-to bury coarse organic matter in deep trenches. Another good
-method is to pile soil up to create high ridges. This can be done
-using the soil brought up while digging contour trenches with a
-shovel. The dirt should be piled around coarse organic material.
-Better aeration allows soil in a pile of this sort to mature more
-quickly than soil in a trench. Such methods soon activate the
-latent fertility of even depleted, granular soil, rapidly preparing
-it for fertilizer-free cultivation.
-
-## The True Cost of Mechanized Land Preparation
-
-Modern land preparation appears efficient in terms of labor hours
-but creates hidden costs that accumulate over decades. The loss
-of topsoil through erosion on bulldozed slopes, the destruction
-of microbial communities through concrete levee construction, and
-the ongoing expense of chemical inputs to replace lost biological
-fertility all represent debts that the land cannot repay. The
-traditional farmer who built his paddy by hand invested human labor
-once and received perpetual returns. The modern farmer who clears
-with machinery borrows against future fertility and pays compound
-interest in the form of degraded soil and increased input costs.
+[[fukuoka-natural-farming]]
+- [[fukuoka-nelissen-farm]]
 
 ## See Also
 
-- [[fukuoka-natural-farming]]
-- [[fukuoka-touching-the-great-spirit]]
-- [[fukuoka-nelissen-farm]]
+- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]

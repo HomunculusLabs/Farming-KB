@@ -127,7 +127,9 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 
 ## See Also
 
-- [[comparison-ashwagandha-vs-rhodiola-cultivation|Ashwagandha vs. Rhodiola Cultivation]]
 - [[comparison-ashwagandha-vs-tulsi|Ashwagandha vs. Tulsi]]
-- [[medicinal-mushroom-guide-reishi|Medicinal Mushroom Cultivation]]
 - [[mushroom-log-stump-cultivation-tree-species-guide|Stinging Nettle Cultivation]]
+
+## See Also
+
+- [[comparison-ashwagandha-vs-rhodiola-cultivation]]

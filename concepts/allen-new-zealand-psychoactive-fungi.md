@@ -140,8 +140,6 @@ lineages within the psilocybin-containing fungi.
 
 ## See Also
 
-- [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-pans-cyanescens-australia-distribution]]
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
 - [[allen-psilocybin-potency-australian-species]]
 - [[allen-subtropical-australia-hunting-techniques]]

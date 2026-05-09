@@ -131,11 +131,7 @@ Winnowing separates the chaff (husks) from the grain:
 
 ## Related Topics
 
-- [[no-till-grain-growing]] — growing grain without tilling
 - [[duck-rice-paddy]] — rice-specific production
-- [[fukuoka-seed-ball-technique]] — Fukuoka's seed ball method
 - [[fukuoka-natural-farming]] — natural farming principles
-- [[permaculture-food-storage-and-preservation]] — storing harvested food
 - [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-barley-winter-grain-method]]
 - [[fukuoka-natural-rice-farming-steps]]

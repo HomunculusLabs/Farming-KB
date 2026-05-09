@@ -19,39 +19,11 @@ Evaluating and selecting mushroom strains is the foundation of any successful mu
 
 When a mushroom is brought into culture from the wild, little is known about its performance until trials are conducted. Even within the same species, mushroom strains vary to surprising degrees in growth rate, yield, flavor, appearance, and environmental sensitivity. The cultivator develops an intimate, co-dependent relationship with every strain, learning to recognize its unique "personality" through daily observation of the culture's transformations.
 
-A [[strain-isolation-from-wild-specimens]] must be characterized across all stages of the cultivation process before being committed to production. Once familiar with a particular culture, variations from the norm alert the cultivator to possible genetic decline or mutation. One of the first signs of strain failure is "mushroom aborts" — primordia that fail to develop to maturity.
-
-## Core Evaluation Features
-
-### 1. Recovery (Leap-Off)
-
-The time for a mushroom strain to recover from the concussion of inoculation is a primary indicator of vigor. Oyster and Morel strains are renowned for quick leap-off, evident in as little as 24 hours. Strains showing poor recovery are difficult to grow commercially unless re-invigorated through [[mushroom-sectoring-strain-development]] and media improvement.
+A [[mushroom-sectoring-strain-development]] and media improvement.
 
 ### 2. Rate of Growth
 
-Strains differ substantially in their rate of growth at all stages. Once the mycelium achieves momentum, proper management can greatly shorten colonization and ultimately the production cycle. Morels are among the fastest colonizers of petri dishes. Strains taking more than 3 weeks to colonize nutrified agar, grain, or bulk mushroom-substrates|substrates are highly susceptible to [[contamination-identification-prevention]].
-
-### 3. Mycelial Mat Quality
-
-Under ideal conditions, the mycelial mat expands and thickens with numerous hyphal branches. A properly matched strain and substrate form a mat that is tenacious in character, unifying with the substrate so that considerable strength is required to rip them apart. This is especially true of [[cotter-oyster-mushroom-cultivation]], [[king-stropharia-wine-cap-cultivation]], and Psilocybe mushrooms. Seven distinct mycelial types are recognized: linear, rhizomorphic, cottony, zonate, matted, powdered, and unique formations.
-
-### 4. Substrate Adaptability
-
-Some strains are well known for their adaptability to a variety of substrates. Oyster mushrooms can grow on cereal straws, corn stalks, sugar cane bagasse, coffee leaves, and paper. However, many strains are narrowly specific in their substrate requirements for mushroom production, even though they may grow vegetatively on a wide range of materials.
-
-### 5. Speed to Fruiting
-
-Strains fall into two categories: those producing mushrooms directly after colonization (Oysters, [[medicinal-mushroom-guide-lions-mane]]), and those requiring a sustained resting period (Woodlovers like Hypholoma). Understanding this timing is critical for [[mushroom-crop-scheduling]].
-
-## Environmental Sensitivity Features
-
-### 6. Microflora Dependence
-
-Some species require living communities of microorganisms and will not produce on sterilized substrates unless microflora are introduced. [[agaricus-bisporus-cultivation-biology]], King Stropharia, and Zhu Ling (*Polyporus umbellatus*) benefit from microbially enriched [[mushroom-cultivator-bulk-substrate]].
-
-### 7. Photosensitivity
-
-Most gourmet and medicinal mushrooms require and favorably react to light. Primordia form when exposed to light, but without sustained secondary exposure, mushrooms like [[cotter-oyster-mushroom-cultivation]] will malform — stems elongate while caps remain undeveloped. Shiitake, Reishi, and Oysters all demonstrate strong photosensitivity.
+Strains differ substantially in their rate of growth at all stages. Once the mycelium achieves momentum, proper management can greatly shorten colonization and ultimately the production cycle. Morels are among the fastest colonizers of petri dishes. Strains taking more than 3 weeks to colonize nutrified agar, grain, or bulk mushroom-substrates|substrates are highly susceptible to [[cotter-oyster-mushroom-cultivation]], [[medicinal-mushroom-guide-lions-mane]]), and those requiring a sustained resting period (Woodlovers like Hypholoma). Understanding this timing is critical for [[agaricus-bisporus-cultivation-biology]], King Stropharia, and Zhu Ling (*Polyporus umbellatus*) benefit from microbially enriched [[cotter-oyster-mushroom-cultivation]] will malform — stems elongate while caps remain undeveloped. Shiitake, Reishi, and Oysters all demonstrate strong photosensitivity.
 
 ### 8–9. Temperature Requirements
 
@@ -77,40 +49,34 @@ The ideal harvest stage is when the cap margin is midway between incurved and de
 
 ### 19. Necrosis Protection
 
-Some species like [[mushroom-training-shiitake-cultivation]] form a tough outer coat of cells on harvested stem butts that protects against predator infestation and prevents deep penetration. Oyster strains lacking this defense require careful harvest technique to leave no dead tissue.
-
-## Advanced Features
-
-### 20. Genetic Stability
-
-All strains eventually senesce. Warning signs include delayed fruiting schedules, increasing disease susceptibility, inability to colonize substrate, and declining primordia populations. Multiple backup [[gourmet-mushroom-stock-culture-management]] cultures in cold storage limit cell division rates and protect against mutation.
+Some species like [[gourmet-mushroom-stock-culture-management]] cultures in cold storage limit cell division rates and protect against mutation.
 
 ### 21–23. Flavor, Texture, and Aroma
 
-Strains of the same species differ substantially in these qualities. Younger mushrooms are generally better-flavored. [[king-stropharia-wine-cap-cultivation]] is exquisite when young but quickly loses flavor with maturity. The aroma of each species is a distinctive signature — Oyster mycelium emits a sweet, slightly anise odor; Shiitake smells like fresh crushed mushrooms; Chicken-of-the-Woods has a butterscotch fragrance.
-
-### 24. Essential Element Sensitivity
-
-Gray Leatham (1989) demonstrated that nanograms of tin and nickel were critical to Shiitake fruitbody formation. Without these trace elements, mycelium cannot fruit. These compounds are abundant in nature but may be absent in artificial wood-free media formulations.
-
-### 25–26. Competitive Ability and Nutrition
-
-Strains vary substantially in their ability to resist competitor fungi, bacteria, and insects. Oyster mushrooms are recognized for nematode-trapping abilities. Nutritional composition varies between strains due to different conversion efficiencies of substrate components.
-
-### 27–28. Metabolite and Medicinal Compound Production
-
-Strain selection can focus on yields of specific [[medicinal-mushroom-compounds-and-health-benefits]] like lentinan (Shiitake), FVP (Enokitake), and grifolan (Maitake). These cell wall polysaccharides enhance the human immune system and are more concentrated in the compact mushroom form than in loose mycelial networks.
+Strains of the same species differ substantially in these qualities. Younger mushrooms are generally better-flavored. [[medicinal-mushroom-compounds-and-health-benefits]] like lentinan (Shiitake), FVP (Enokitake), and grifolan (Maitake). These cell wall polysaccharides enhance the human immune system and are more concentrated in the compact mushroom form than in loose mycelial networks.
 
 ## Strain Degeneration Pattern
 
-Healthy strains begin with rhizomorphic mycelium, then after months of transfers the culture sectors, forming diverging fans of linear, cottony, and appressed mycelium. Aerial tufts appear. The unstable center sends forth mutation-ridden chains of cells. The strain's ability to form volunteer [[mushroom-primordia-formation-triggers]] declines, growth decelerates, and eventually the strain dies — prone to disease attack by parasitic bacteria.
-
-## See Also
-
-- [[mushroom-genetics-strain-selection]]
-- [[mushroom-genetics-strain-improvement]]
+Healthy strains begin with rhizomorphic mycelium, then after months of transfers the culture sectors, forming diverging fans of linear, cottony, and appressed mycelium. Aerial tufts appear. The unstable center sends forth mutation-ridden chains of cells. The strain's ability to form volunteer [[mushroom-genetics-strain-selection]]
 - [[gourmet-mushroom-strain-selection]]
-- [[mushroom-cultivator-strain-selection]]
 - [[mushroom-stock-culture-preservation]]
-- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-yield-optimization]]
+## Practical Considerations
+
+Successful implementation of Mushroom Strain Evaluation — Stamets 28-Feature Framework requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

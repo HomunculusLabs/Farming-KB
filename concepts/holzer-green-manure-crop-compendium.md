@@ -10,7 +10,7 @@ sources:
 
 # Holzer Green Manure Crop Compendium
 
-A reference list of [[green-manure-crops]] recommended by [[sepp-holzer]], drawn from his practices at the Krameterhof and in his advisory work. This compendium complements [[holzer-green-manure-and-soil-building-plants]] and supports [[holzer-vegetable-garden-polycultures]], [[holzer-grafting-fruit-forest]], and [[sepp-holzer-terrace-systems-and-raised-beds]].
+A reference list of [[sepp-holzer-entity]], drawn from his practices at the Krameterhof and in his advisory work. This compendium complements [[holzer-vegetable-garden-polycultures]], [[sepp-holzer-terrace-systems-and-raised-beds]].
 
 ## Legumes (Nitrogen Fixers)
 

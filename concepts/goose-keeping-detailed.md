@@ -82,11 +82,7 @@ Difficult without practice. Flip upside down and examine vent. Less accurate met
 
 ## See Also
 
-- [[faires-duck-and-goose-keeping]]
 - [[duck-keeping-guide-detailed]]
-- [[permaculture-integrated-animal-systems]]
 - [[chicken-integration-permaculture-guide]]
-- [[permaculture-livestock-forage-systems]]
 - [[growing-vegetables-with-less-fertilizer]]
-- [[faires-permaculture-chicken-integration]]
 - [[gaias-garden-cover-crops-soil-building]]

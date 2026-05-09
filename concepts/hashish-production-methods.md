@@ -89,11 +89,7 @@ Hashish quality is traditionally assessed by several criteria:
 
 ## See Also
 
-- [[cannabis-hashish-making-methods]]
 - [[oner-cannabis-hashish-production]]
-- [[gottlieb-psilocybin-production-extraction-methods]]
-
 - [[cannabis-alchemy-overview]]
-- [[cannabis-chromatography-cannabinoid-purification]]
 - [[rosin-pressing-technology]]
 - [[cannabis-trichome-types-and-development]]

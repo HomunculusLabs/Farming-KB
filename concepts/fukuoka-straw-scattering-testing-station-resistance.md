@@ -24,7 +24,7 @@ Fukuoka's method of returning rice straw to the fields is deceptively simple but
 
 - It has to be scattered loosely
 
-This is connected to [[fukuoka-scattering-straw-technique]] and [[fukuoka-straw-mulch-system]].
+This is connected to [[fukuoka-straw-mulch-system]].
 
 ## The Composting Fallacy in Hokkaido
 
@@ -92,11 +92,7 @@ It took five years for other plant pathologists to come to the same conclusion F
 
 Fukuoka described his complete method in detail:
 
-- In early October, take no more than a pint of [[fukuoka-white-clover-ground-cover]] seed and scatter it between the fingertips
-
-- The seeds fly a couple of yards, so an hour is all it takes to sow a quarter-acre
-
-- A week or two [[cannabis-flushing-before-harvest]]ing the rice, take four to ten quarts of barley seed, place it in a basket, and scatter it over the field
+- In early October, take no more than a pint of [[cannabis-flushing-before-harvest]]ing the rice, take four to ten quarts of barley seed, place it in a basket, and scatter it over the field
 
 - This also takes about an hour
 
@@ -130,20 +126,4 @@ Fukuoka noted that the method getting the highest yields at the Ehime Prefectura
 
 - It took researchers in Ehime and Aichi Prefecture a while, but a few finally gave it a try
 
-## Testing Stations Still Resist [[fukuoka-road-to-natural-farming]]
-
-Despite these results, agricultural testing stations persist in modifying Fukuoka's methods.
-
-- They add that yields might be improved if a little pesticide were sprayed
-
-- They mention that it might be convenient to use a bit of chemical fertilizer
-
-- What they are trying to do is to clothe natural farming in the robes of chemical agriculture
-
-- Fukuoka pointed out ten years ago that transplanting rice seedlings is totally unnecessary
-
-- It has taken the amount of transplanting done to drop by half over the past few years
-
-- The prospects seem to have receded with the advent of mechanized rice planters, but this is only temporary
-
-- No matter how you look at it, yields with direct seeding methods are better than when transplanting is used
+## Testing Stations Still Resist [[fukuoka-straw-scattering-controversy-plant-pathology]]

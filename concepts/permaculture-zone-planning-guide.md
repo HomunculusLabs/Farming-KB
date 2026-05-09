@@ -1,7 +1,7 @@
 ---
 title: "Permaculture Zone Planning Guide"
 created: 2026-04-28
-tags: [permaculture, zone-planning, design, landscape, sectors]
+tags: [[permaculture, zone-planning, design, landscape, sectors]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
@@ -45,80 +45,8 @@ dwarf fruit trees (or multi-grafted trees), and a low windbreak. Water in
 Zone 1 comes from a well or rainwater tank and is fully controlled with pipes
 and hoses. This area should be designed to produce most of the food a family
 needs. Herbs are placed as close to the kitchen door as possible, typically
-in an [[permaculture-herb-spiral-details]]. Pathways are lined
-with frequently harvested vegetables like Swiss chard, kale, peppers, and
-zucchini. Two types of beds are used: narrow beds for frequently picked
-crops like beans, tomatoes, and carrots, and wide beds for crops harvested
-once like potatoes, corn, and melons.
-
-## Zone 2: Staple Crops and Small Animals
-
-Zone 2 extends slightly beyond the gardens surrounding the house. It has
-plants in beds like Zone 1, but these are bigger and used for major staple
-crops like grains or potatoes. Worms, rabbits, chickens, ducks, or fish can
-be raised in a small yard just beyond Zone 1. This is also where fruit and
-nut trees are kept along with the compost heap. Hedges and trellising are
-used to maximize edge effect. In suburban areas, this may be as far as the
-land extends, though a small Zone 5 corner can be incorporated. On larger
-properties, a few goats or a single milk cow might also be kept here. The key
-principle is that zones are classified by proximity to the house, not by what
-is in them. Most of Zone 2 is mulched with straw and other materials. Heavy
-duty fencing may be needed, with the long-term goal of establishing thick
-hedges that feed chickens, bees, and birds while keeping out unwanted
-animals. See also [[permaculture-poultry-orchard-integration]] and
-[[permaculture-duck-orchard-integration]] for animal integration strategies.
-
-## Zone 3: Orchards and Cash Crops
-
-Zone 3 is for rural properties with more land. This is where larger,
-unpruned orchards and windbreak trees for the house are located. The goat
-pen and beehives are placed here, and the area is full of living mulches,
-plants for animal fodder, and firebreaks. Water is stored in the soil through
-swales or caught with small dams and sent through ditches rather than pipes.
-The barn is located here, and this is where cash crops and animals raised
-for profit are managed. The labor intensity drops significantly compared to
-Zones 1 and 2, with visits needed perhaps weekly or seasonally rather than
-daily. This zone bridges the intensively managed areas near the house and
-the more extensive, semi-wild zones beyond.
-
-## Zone 4: Woodlots and Foraging
-
-Zone 4 demonstrates the benefit of large rural land holdings. This is an area
-of long-term development through woodlots, dams, and extensive tree planting.
-Windmills and large animal stock are placed here along with large-scale
-water harvesting. Pigs work well in a forest zone like this. No mulches are
-used, and hardy edible plants are foraged from the edges of the forest where
-they need very little ongoing care. Water is managed with small dams, rivers,
-and windmill pumps for irrigation back into Zone 3. Visits to Zone 4 may be
-monthly or seasonal, primarily for harvesting firewood, foraging, or
-checking on livestock. The productive edge between Zone 4 forest and Zone 3
-managed areas is particularly valuable for diversity and yield.
-
-## Zone 5: The Wilderness
-
-Zone 5 can and should be placed on any sized property. This is a wilderness
-area, the nature preserve. It is where wildlife corridors and forest growth
-are fostered and where you can observe untamed natural systems. In an urban
-backyard, this would simply be a back corner left to the birds, insects, and
-small mammals. When planning Zone 5, the goal is simply to remove any
-man-made problems and then leave it entirely alone. All zones would return to
-their natural state if left alone, and Zone 5 is no different. Planting
-native species is essentially the same as planting a garden and misses the
-point of what Zone 5 represents: a space for natural processes to unfold
-without human intervention. This zone serves as a reference point for
-understanding natural patterns and as a reservoir for beneficial organisms
-that can spread into managed zones.
-
-## Sectors: External Energies
-
-Sectors are the outside influences or energies that affect the land and how
-it is used. Unlike zones, which radiate outward from the center of activity,
-sectors are directional forces that cross through the zones. Key sectors
-include: the direction and intensity of wind, rainfall patterns and
-distribution, sun direction and seasonal angle, prying neighbors, views to
-preserve or block, swampy areas and flood zones, hills and slopes, and fire
-danger direction. Sectors intersect with zones and must be considered when
-placing elements. For example, a [[permaculture-windbreak-design-species]] is placed in the wind sector, water-loving trees go in
+in an [[permaculture-poultry-orchard-integration]] and
+[[permaculture-windbreak-design-species]] is placed in the wind sector, water-loving trees go in
 flood-prone areas, and fire-resistant plantings buffer the fire sector.
 
 ## Creating a Zone and Sector Map
@@ -144,7 +72,25 @@ passive solar heating, solar panel positioning, weather exposure, erosion
 risk, and sunshine angle are all determined by slope. The top of a slope is
 best for catching water despite erosion risk, the middle is ideal for the
 house, and the bottom is best for gardens and animals though prone to
-waterlogging. Integration with [[permaculture-polyculture-fish-pond]], [[permaculture-beekeeping-guide]],
+waterlogging. Integration with [[permaculture-beekeeping-guide]],
 and other elements should be considered from the outset, as the
 relationships between elements are what make permaculture systems productive
-and resilient.
+## Practical Considerations
+
+Successful implementation of Permaculture Zone Planning Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

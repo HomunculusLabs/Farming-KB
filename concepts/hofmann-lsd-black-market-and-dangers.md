@@ -81,37 +81,7 @@ unknown provenience.
 
 ## Psychotic Reactions
 
-Like the other [[mckenna-tryptamine-hallucinogens-and-consciousness]], LSD is dangerous in an entirely
-different sense from addicting narcotics. While the psychic and physical
-dangers of opiates, amphetamines, and similar substances appear only with
-chronic use, the possible danger of LSD exists in every single experiment.
-This is because severe disoriented states can appear during any LSD
-inebriation. LSD crises resemble psychotic attacks with a manic or
-depressive character.
-
-### Manic Reactions
-
-In the manic, hyperactive condition, the feeling of omnipotence or
-invulnerability can lead to serious casualties. Such accidents have
-occurred when inebriated persons, believing themselves to be invulnerable,
-walked in front of a moving automobile or jumped out a window in the
-belief that they were able to fly. This type of casualty is not as common
-as sensational media reports suggest, but they serve as serious warnings.
-
-### Depressive Reactions
-
-A different danger arises when the LSD-induced disorientation exhibits a
-depressive rather than manic character. Frightening visions, death agony,
-or the fear of becoming insane can lead to a threatening psychic
-breakdown or even to suicide. In such cases the LSD trip becomes a
-"horror trip."
-
-## Set and Setting
-
-The conditions for the positive outcome of an LSD experiment, with little
-possibility of a psychotic derailment, reside on the one hand in the
-individual (set) and on the other hand in the external milieu of the
-experiment ([[lsd-set-and-setting-framework]]). The beauty of a
+Like the other [[lsd-set-and-setting-framework]]). The beauty of a
 living room or of an outdoor location is perceived with particular force
 because of the highly stimulated sense organs during LSD inebriation, and
 such amenity has a substantial influence on the course of the experiment.
@@ -128,10 +98,6 @@ event of an emergency is an indispensable psychological assurance.
 
 ## See Also
 
-- [[hofmann-ernst-junger-lsd-literary-dialogue]]
-
 - [[hofmann-lsd-pharmacology-and-effects]]
-- [[lsd-discovery-and-history]]
 - [[lsd-set-and-setting-framework]]
-- [[hofmann-lsd-clinical-research-early-studies]]
 - [[hofmann-lsd-psychiatric-research]]

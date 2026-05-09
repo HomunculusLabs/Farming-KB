@@ -127,7 +127,7 @@ In each case, cannabis serves as an accelerant that helps the practitioner reach
 
 ## Safety and Set-and-Setting Considerations
 
-The guide implicitly incorporates principles of responsible psychedelic practice, particularly the concept of "[[set-and-setting]]" popularized by [[timothy-leary]] and others in the 1960s:
+The guide implicitly incorporates principles of responsible psychedelic practice, particularly the concept of "[[timothy-leary]] and others in the 1960s:
 
 - **Set (mindset)**: The guide consistently instructs practitioners to enter rituals with clear intentions, specific goals, and an attitude of reverence. The Vortex ritual's instruction to "recite your wishes and demands as well as grievances" channels the altered state toward productive self-examination rather than unstructured wandering
 - **Setting (environment)**: The elaborate attention to physical space preparation (dark rooms, altars, mirrors, fog, candles, music) creates a controlled, supportive environment for altered-state work that maximizes the potential for positive experience
@@ -136,6 +136,5 @@ The guide implicitly incorporates principles of responsible psychedelic practice
 
 ## See Also
 
-- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
 - [[marijuana-magick-ancient-ritual-use-cannabis]]
 - [[marijuana-magick-cannabis-incense-and-preparation]]

@@ -68,18 +68,12 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[psilocin]]
 - [[serotonin]]
-- [[tryptophan]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 
 ## See Also
 
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[fungal-enzyme-induction-and-regulation]]
 
-- [[psid-enzyme]] — upstream decarboxylase producing the tryptamine scaffold
 - [[psih-enzyme]] — hydroxylase producing PsiK's substrate, 4-hydroxytryptamine
-- [[psim-enzyme]] — downstream methyltransferase acting on PsiK's product
-- norbaeocystin entity — the direct product of PsiK catalysis
-- [[baeocystin-entity]] — the next intermediate after PsiM methylation of norbaeocystin
+- [[baeocystin]] — the next intermediate after PsiM methylation of norbaeocystin

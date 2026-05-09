@@ -3,7 +3,7 @@ title: Food Forest Design and Layers
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, food-forest, agroforestry]
+tags: [[permaculture, food-forest, agroforestry]
 sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
 
@@ -124,14 +124,9 @@ Climbing plants using vertical space:
 
 ## See Also
 
-- [[comparison-food-forest-vs-orchard]]
-
 - [[food-forest-design]]
-- [[food-forest-layers-and-species]]
 - [[food-forest-plant-palette]]
-- [[canopy-layer-design-food-forests]]
 - [[backyard-food-forest-design]]
-- [[permaculture-food-forest-design-principles]]
 - [[permaculture-forest-garden-establishment]]
 - [[permaculture-succession]]
 

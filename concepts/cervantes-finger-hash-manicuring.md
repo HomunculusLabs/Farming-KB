@@ -118,8 +118,10 @@ maximum finger hash recovery.
 
 ## See Also
 
-- [[cervantes-manicuring-trimming-buds]]
 - [[cervantes-hand-rubbed-hash-charas]]
-- [[cervantes-hash-making-extracts]]
-- [[cannabis-advanced-growing-techniques]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+
+## See Also
+
+- [[cervantes-washing-machine-hash]]

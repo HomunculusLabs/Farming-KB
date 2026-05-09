@@ -64,14 +64,6 @@ The tryptamine family shares an indole ring structure. Key subfamilies:
 - Ibogaine has cardiac risk; ketamine has addiction potential at frequent use
 - Legal status varies globally; most are Schedule I in the US
 
-## Pharmacological Mechanisms
-
-Psychedelic compounds exert their primary effects through interactions with serotonin receptors, particularly the 5-HT2A receptor subtype. Classic psychedelics (LSD, psilocybin, DMT, mescaline) are all partial agonists at 5-HT2A, though their receptor binding profiles differ significantly beyond this shared mechanism. LSD has additional activity at 5-HT1A, 5-HT2C, and dopamine D2 receptors, contributing to its uniquely long duration and complex effects. DMT shows rapid onset and short duration due to rapid metabolism by monoamine oxidase (MAO). Mescaline, as a phenethylamine, has comparatively simpler pharmacology but a longer duration than DMT due to slower metabolism. The receptor-level differences explain why these compounds, despite sharing the "psychedelic" classification, produce subjectively very different experiences.
-
-## Harm Reduction Principles
-
-Responsible use of psychedelic compounds requires attention to set (mindset and expectations), setting (physical and social environment), and substance (purity, dose, and source). Testing substances using reagent kits (Ehrlich's for indoles, Marquis for tryptamines and phenethylamines) provides basic but important purity verification. Starting with lower doses, particularly with a new substance or batch, allows users to assess potency and individual sensitivity. Having a trusted sober companion ("trip sitter") present is especially important for first-time experiences. Combining psychedelics with certain medications — particularly SSRIs, MAOIs, and lithium — carries significant risks and should be approached with extreme caution or avoided entirely. The MAPS and Zendo Project guidelines provide evidence-based frameworks for psychedelic harm reduction.
-
 ## See Also
 
 [[cannabis-oil-isomerization]]

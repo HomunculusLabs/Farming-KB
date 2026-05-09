@@ -3,16 +3,7 @@ title: Rock-Eating Fungi and Mineral Weathering
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
----
-
-# Rock-Eating Fungi and Mineral Weathering
-
-Certain fungi possess the ability to actively degrade and solubilize rock minerals, a process sometimes called "rock-eating." This biological weathering has profound implications for soil formation, nutrient cycling, and mycorrhizal plant nutrition. The phenomenon was dramatically documented by Jongmans et al. (1997) in Nature, where ectomycorrhizal fungi were shown tunnelling through mineral grains.
-
-Fungal mineral weathering represents a critical intersection between geology and biology, demonstrating that living organisms can fundamentally alter the mineralogical composition of the Earth's surface. This process operates over timescales from days to millennia and contributes significantly to the global biogeochemical cycles of major elements including silicon, aluminum, iron, calcium, potassium, and phosphorus. See [[soil-food-web-nutrient-cycling]] for background on soil-forming processes.
+tags: [[soil-food-web-nutrient-cycling]] for background on soil-forming processes.
 
 ## Evidence of Mineral Tunnelling
 
@@ -98,42 +89,8 @@ Some fungi produce extracellular enzymes that directly attack mineral structures
 
 Paxillus involutus synthesizes oxalic acid and solubilizes calcium from mineral matrices. Leyval et al. (1993) demonstrated mobilization of phosphorus and cadmium from rock phosphates by rhizosphere microorganisms including ectomycorrhizal fungi. The intimate contact between hyphae and mineral surfaces maximizes weathering efficiency.
 
-The weathering capacity of ectomycorrhizal fungi is particularly important in forest ecosystems, where these fungi form dense hyphal mats that explore vast volumes of soil. The [[the-soil-food-web]] page describes the forest floor context where this weathering occurs.
-
-## Saprotrophic and Rock-Inhabiting Fungi
-
-Beyond mycorrhizal fungi, free-living saprotrophic and rock-inhabiting fungi contribute to mineral weathering:
-
-- **Aspergillus niger**: Used industrially for bioleaching of metals from ores; produces exceptionally high concentrations of citric and oxalic acids
-
-- **Penicillium species**: Common in rock surfaces and soil, contribute to silicate dissolution in diverse environments
-
-- **Black meristematic fungi**: Found on rock surfaces in extreme environments (deserts, arctic), slow-growing but persistent weathering agents
-
-- **Lichenized fungi**: Lichen symbioses combine fungal acid production with algal photosynthesis
-
-## Applications and Implications
-
-Fungal mineral weathering has practical applications:
-
-- **Bioleaching**: Industrial recovery of metals from low-grade ores using fungal acids
-
-- **Soil restoration**: Accelerating soil formation on mine tailings through fungal inoculation
-
-- **Enhanced weathering for carbon capture**: Fungal-accelerated silicate weathering draws down atmospheric CO2
-
-## See Also
-
-- rock eating fungi and mineral weathering
-
-- [[soil-food-web-nutrient-cycling]]
-
-- [[the-soil-food-web]]
+The weathering capacity of ectomycorrhizal fungi is particularly important in forest ecosystems, where these fungi form dense hyphal mats that explore vast volumes of soil. The [[soil-food-web-nutrient-cycling]]
 
 - [[gadd-fungal-metal-interactions]]
 
-- [[mycorrhiza-soil-bioremediation]]
-
-## Merged: Tassili Rock Art and the Mushroom Debate
-The Tassili plateau of southern Algeria contains some of the most discussed — and contested — rock art in the history of psychedelic research. The images, dating from the Neolithic to the start of the Common Era, have been interpreted by some as evidence of prehistoric mushroom use, though this interpretation is far from settled. This image was popularized by [[psychedelic-mushrooms-species-and-identification]], who reproduced it in two widely read books. - [[psychedelic-mushrooms-species-and-identification]] - [[archaeology-of-psychedelic-mushroom-use]] - [[archaeology-of-psychedelic-mushroom-use]] - [[amanita-muscaria-guide]] - [[gordon-wasson-mushroom-discovery]] --- Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3 Updated: 2026-04-18 - rock eating fungi and mineral weathering
-- [[plate-tectonics]]
+- [[psychedelic-mushroom-set-and-setting]], who reproduced it in two widely read books. - [[archaeology-of-psychedelic-mushroom-use]] - [[amanita-muscaria-guide]] - [[plate-tectonics]]

@@ -74,7 +74,7 @@ Common around wood stoves, [[rocket-stove]], [[mud-oven]], and during canning. C
 
 ## Herbal and Natural Remedies
 
-Many homesteaders incorporate [[herbal-medicine]] as a complement to conventional first aid. These are not replacements for professional care but can be useful for minor issues:
+Many homesteaders incorporate herbal medicine as a complement to conventional first aid. These are not replacements for professional care but can be useful for minor issues:
 
 - **Plantain (Plantago spp.)** — crush leaves and apply to insect stings, minor wounds, and rashes. Anti-inflammatory and mildly antimicrobial.
 - **Yarrow (Achillea millefolium)** — dried leaves or powder sprinkled on wounds to stop bleeding. Has documented astringent and antiseptic properties.

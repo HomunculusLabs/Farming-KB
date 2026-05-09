@@ -109,12 +109,8 @@ In traditional Chinese medicine, adzuki beans are considered a "cooling" food th
 ## See Also
 
 - [[vigna-radiata]]
-- [[vigna-unguiculata]]
 - [[vigna-mungo]]
-- [[glycine-max]]
 - [[phaseolus-vulgaris]]
-- [[arachis-hypogaea]]
 - [[pisum-sativum]]
-- [[pennisetum-glaucum]]
 - [[sorghum-bicolor]]
 - [[clitoria-ternatea]]

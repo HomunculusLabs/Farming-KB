@@ -65,7 +65,7 @@ Trees valued primarily for P.F.D. may also provide timber, shade, wind protectio
 
 ## Relationship to Existing Systems
 
-This concept parallels the grazing day calculations used in [[urban-permaculture-fodder-trees-livestock]] and [[broadscale-permaculture-techniques-mollison]]. It provides a quantitative framework for comparing different forage species and making informed planting decisions.
+This concept parallels the grazing day calculations used in [[broadscale-permaculture-techniques-mollison]]. It provides a quantitative framework for comparing different forage species and making informed planting decisions.
 
 ## Limitations
 
@@ -88,9 +88,6 @@ Mollison anticipates that as more data accumulates, comprehensive P.F.D. tables 
 
 ## See Also
 
-- [[mollison-free-range-poultry-forage-design]]
 - [[free-range-poultry-forage-design-mollison]]
-- [[permaculture-chicken-tractors]]
 - [[urban-permaculture-trees-water-cycling]]
-- [[permaculture-designers-manual-water-quality]]
 - [[permaculture-designers-manual-temperate-climate-design]]

@@ -126,17 +126,9 @@ postpartum hemorrhage, though dosing was imprecise and dangerous.
 
 | Compound | Key Difference | Primary Use |
 |----------|---------------|-------------|
-| [[ergotamine]] | Ala→Ala, Phe→Phe, Pro→Pro (identical tripeptide, different stereochemistry) | Migraine treatment |
 | [[ergometrine]] | No cyclol tripeptide (simple amide of lysergic acid) | Postpartum hemorrhage |
-| [[lsd]] | Diethylamide substitution, no cyclol | Psychedelic research |
 | [[lysergic-acid-amide]] | Simple amide of lysergic acid | Natural lysergamide |
-| [[aeruginascin]] | Unrelated tryptamine derivative | Fungal metabolite |
-
-## See Also
-
-- [[ergotamine]] — Most pharmacologically significant ergopeptine
-- [[ergometrine]] — Simpler ergot alkaloid, used obstetrically
+| [[ergotamine]] — Most pharmacologically significant ergopeptine
 - [[lsd]] — Semisynthetic psychedelic derived from lysergic acid
-- [[lysergic-acid-amide]] — Natural lysergamide, related compound
-- [[psilocybin-compound]] — Contrasting tryptamine-class fungal alkaloid
+- [[psilocybin]] — Contrasting tryptamine-class fungal alkaloid
 - [[aeruginascin]] — Related bioactive fungal alkaloid

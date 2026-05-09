@@ -12,9 +12,7 @@ sources: []
 
 ## Overview
 
-Calocybe indica is a tropical edible mushroom native to the Indian subcontinent, widely known as the Milky Mushroom or Dudh Chatta (Hindi: "milk umbrella"). It belongs to the family Lyophyllaceae within the order Agaricales. Among commercially cultivated mushrooms, C. indica is one of the few species that thrives at high ambient temperatures (25–35°C), which gives it a distinct advantage over temperate species like [[agaricus-subrufescens]] in tropical and subtropical regions. The species was first described from material collected in India and has since become an important crop in several South and Southeast Asian countries, as well as in parts of Africa.
-
-Its common name derives from the milky white coloration of both cap and stem, which persists throughout most of the fruiting body's development. The mushroom is valued for its firm texture, mild flavor, and relatively long shelf life compared to other tropical cultivated species such as [[volvariella-volvacea]]. In domestic markets it commands a price premium over paddy straw mushroom due to its meatier consistency and longer post-harvest viability.
+Calocybe indica is a tropical edible mushroom native to the Indian subcontinent, widely known as the Milky Mushroom or Dudh Chatta (Hindi: "milk umbrella"). It belongs to the family Lyophyllaceae within the order Agaricales. Among commercially cultivated mushrooms, C. indica is one of the few species that thrives at high ambient temperatures (25–35°C), which gives it a distinct advantage over temperate species like [[volvariella-volvacea]]. In domestic markets it commands a price premium over paddy straw mushroom due to its meatier consistency and longer post-harvest viability.
 
 ## Taxonomy and Naming
 
@@ -76,10 +74,7 @@ C. indica is one of the easiest tropical mushrooms to cultivate on a commercial 
 - **Casing:** Not strictly required, but a thin casing layer of sterilized soil or coir pith can improve pinning uniformity and yield by 10–20%.
 - **Fruiting temperature:** 28–35°C; no cold shock needed. Relative humidity 80–95%.
 - **Crop cycle:** 50–60 days from spawning to final harvest. Two to three flushes are typical, with the first flush producing 60–70% of total yield.
-- **Biological efficiency:** 60–100% on supplemented paddy straw, comparable to [[pleurotus-eryngii]] on optimized substrates.
-- **Pests and diseases:** Mite infestations (especially *Rhizoglyphus* spp.) and bacterial soft rot are the most common problems. Competitor molds such as *Trichoderma* can be managed through proper pasteurization and hygiene.
-- **Post-harvest handling:** Mushrooms should be harvested before the veil tears for best market quality. Pre-cooling immediately after harvest extends shelf life significantly.
-- **Shelf life:** 3–5 days at room temperature; up to 10–12 days under refrigeration (4–8°C), which is notably longer than [[volvariella-volvacea]].
+- **Biological efficiency:** 60–100% on supplemented paddy straw, comparable to [[volvariella-volvacea]].
 
 ## Nutritional Value
 
@@ -94,28 +89,13 @@ Calocybe indica is a nutritious food source with a favorable protein-to-carbohyd
 
 Vitamin content includes appreciable amounts of thiamine (B1), riboflavin (B2), and niacin (B3). Fat-soluble vitamin D2 (ergocalciferol) is present at low levels and increases with UV exposure post-harvest.
 
-The protein contains all essential amino acids, with lysine and leucine present in relatively high proportions. Tryptophan and methionine are the limiting amino acids. Mineral content is notable for potassium, phosphorus, and calcium. Bioactive compounds including phenolics and β-glucans have been documented, suggesting potential antioxidant and immunomodulatory properties, though clinical data remain limited. Compared to [[lentinula-edodes]], C. indica has similar protein content but higher moisture content in fresh specimens.
-
-## Similar Species
-
-| Feature | C. indica | C. gambosa | Tricholoma album | Volvariella volvacea |
-|---|---|---|---|---|
-| Cap color | Pure white to cream | White to buff | Pure white | Grayish brown to white |
-| Habitat | Tropical grassland/fields | Temperate meadows | Temperate forest | Tropical compost/straw |
-| Temperature range | 25–35°C | 10–20°C | 10–18°C | 28–35°C |
-| Volva | Absent | Absent | Absent | Present (membranous) |
-| Odor | Mild, mealy | Strong mealy (cucumber) | Farinaceous | Mild |
-| Spore size (µm) | 5.5–7.5 × 4–5.5 | 5–7 × 3.5–5 | 5.5–7.5 × 4–5.5 | 6–9 × 4–6 |
-| Edibility | Edible, cultivated | Edible, wild-harvested | Edible, caution advised | Edible, widely cultivated |
-| Clamps | Absent | Absent | Present | Absent |
-
-The most dangerous potential confusion is with toxic white Tricholoma species in temperate regions, though habitat and geographic range effectively separate them from C. indica. Within its tropical range, the absence of a volva distinguishes it from [[volvariella-volvacea]] in the button stage.
+The protein contains all essential amino acids, with lysine and leucine present in relatively high proportions. Tryptophan and methionine are the limiting amino acids. Mineral content is notable for potassium, phosphorus, and calcium. Bioactive compounds including phenolics and β-glucans have been documented, suggesting potential antioxidant and immunomodulatory properties, though clinical data remain limited. Compared to [[volvariella-volvacea]] in the button stage.
 
 In cultivation settings, contaminants such as *Coprinus* spp. or other weed mushrooms may appear on poorly prepared substrate but are readily distinguished by their different growth habits and spore colors.
 
 ## Relevance
 
-Calocybe indica occupies a significant niche in tropical mushroom cultivation as one of the few high-yield species adapted to consistently warm conditions. Its cultivation requires lower capital investment than [[agaricus-subrufescens]] or [[lentinula-edodes]] because it needs no climate-controlled growing rooms in tropical zones. This makes it accessible to smallholder farmers and rural cooperatives across South and Southeast Asia.
+Calocybe indica occupies a significant niche in tropical mushroom cultivation as one of the few high-yield species adapted to consistently warm conditions. Its cultivation requires lower capital investment than [[lentinula-edodes]] because it needs no climate-controlled growing rooms in tropical zones. This makes it accessible to smallholder farmers and rural cooperatives across South and Southeast Asia.
 
 The species is increasingly recognized as a vehicle for rural women's empowerment in India, where self-help groups have adopted milky mushroom cultivation as a primary income-generating activity. Low substrate costs and minimal infrastructure requirements lower barriers to entry compared to most other commercially cultivated fungi.
 
@@ -127,8 +107,6 @@ Medicinal mushroom research has also examined its spent substrate as a biofertil
 
 ## See Also
 
-- [[volvariella-volvacea]] — Paddy straw mushroom, another tropical cultivated species
 - [[pleurotus-eryngii]] — King oyster mushroom, temperate cultivation comparison
-- [[lentinula-edodes]] — Shiitake, nutritional and medicinal benchmark
 - [[agaricus-subrufescens]] — Almond mushroom, temperate button mushroom relative
 - [[ganoderma-lucidum]] — Reishi, medicinal mushroom research context

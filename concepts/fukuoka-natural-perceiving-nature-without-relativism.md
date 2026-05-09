@@ -117,13 +117,11 @@ of nature, not break it down from without. It has no interest in conquering
 nature, but seeks instead to obey it. To the selfless, nature is always
 beautiful and sweet, always constant. Because all is fundamentally one.
 
-This philosophy of [[fukuoka-natural-farming-philosophy-of-mu]] connects directly to the [[fukuoka-natural-farming-philosophy-of-mu]], where the practitioner cultivates the ability to perceive
+This philosophy of [[fukuoka-natural-farming-philosophy-of-mu]], where the practitioner cultivates the ability to perceive
 the unity behind apparent opposites and the perfection within apparent
 imperfection.
 
 ## See Also
 
-- [[fukuoka-textdoc-no-good-or-evil-in-nature]]
 - [[fukuoka-god-nature-and-man-as-one]]
-- [[fukuoka-natural-farming-global-influence]]
 - [[fukuoka-natural-protective-forests-appendix]]

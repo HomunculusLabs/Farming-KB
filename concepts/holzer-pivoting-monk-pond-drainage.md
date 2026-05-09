@@ -60,16 +60,13 @@ concentric pipes to allow water to be drawn from different depths:
 - This allows the operator to select water from the warm surface layer or the
   cool deep zone depending on needs.
 
-This is particularly useful for [[holzer-fish-farming]] where temperature
-control is important, and for managing the "fridge effect" of deep and
-shallow zones in [[holzer-pond-shape-deep-shallow-zones]].
+This is particularly useful for [[holzer-pond-shape-deep-shallow-zones]].
 
 ## Application in Water Landscapes
 
 The pivoting monk and pipe-in-pipe system are standard components in Holzer's
 water landscape designs. They provide the fine control needed to maintain
-healthy water bodies that support [[holzer-aquaculture-fish-farming]],
-waterfowl, and diverse [[holzer-water-landscapes]] ecosystems.
+healthy water bodies that support [[holzer-water-landscapes]] ecosystems.
 
 These inventions demonstrate Holzer's approach of observing natural systems and
 creating simple mechanical solutions that work with nature rather than against
@@ -99,19 +96,6 @@ year-round, losing the ecological benefits of seasonal fluctuation.
 ## Integration with Earthworks
 
 The pivoting monk is typically installed during the construction of
-[[holzer-pond-construction-and-aquaculture]] and must be positioned
-carefully within the dam structure. The pipe is bedded in compacted clay at the
-base of the dam to prevent seepage along the pipe exterior. The pivot
-mechanism is housed in a protective chamber at the downstream face of the dam,
-accessible for adjustment but protected from livestock, debris, and frost.
-
-The outflow from a pivoting monk can be directed into a secondary water
-feature such as a smaller pond, a constructed wetland, or an irrigation
-channel. This cascading design multiplies the benefits of stored water across
-the landscape. The gentle overflow from one pond becomes the input for the
-next, and each step in the cascade supports a different ecological niche, from
-open water to marsh to wet meadow. This principle of cascading water through
-multiple retention spaces is central to Holzer's broader strategy of
 [[holzer-water-landscapes-retention]] that hydrate
 entire valleys rather than isolated points.
 
@@ -126,8 +110,6 @@ prevent water from pooling and freezing around the mechanism.
 
 ## Related Topics
 
-- [[holzer-pond-construction-and-aquaculture]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
-- [[holzer-pond-lake-design]]
+- [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[holzer-aquaculture-pond-construction]]
 - [[holzer-fish-farming]]

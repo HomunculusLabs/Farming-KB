@@ -1,46 +1,14 @@
 ---
 title: "Mushroom Preservation Methods"
 created: 2026-04-28
-tags: [mushroom-cultivation, preservation, drying, freezing, storage, post-harvest]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - the-mushroom-cultivator-stamets.md
-type: concept
----
-
-# Mushroom [[fungal-culture-preservation-methods]]
+tags: [[fungal-culture-preservation-methods]]
 
 Mushrooms are approximately 90% water and must be preserved within a few
 hours of harvest or they will be consumed by fly larvae and bacteria.
 Stamets and Chilton outline four primary preservation methods: air
 drying, freezing, freeze drying, and canning. Each method has distinct
 advantages and limitations regarding flavor retention, nutritional
-value, storage life, and suitability for different [[psilocybe-mushroom-species-guide]] and
-chemical constituents.
-
-## Air Drying: The Most Widely Used Method
-
-Air drying is the method most widely used by home cultivators and field
-hunters. Provided mushrooms are placed in a flow of warm dry air, the
-large water fraction soon evaporates. Dried mushrooms are smaller,
-lighter, and less fragrant than fresh ones. Once dried, they should be
-sealed in airtight moisture-proof plastic containers and refrigerated.
-Properly stored, mushrooms will be preserved for years. When needed,
-simply rehydrate in water before cooking; they regain much of their
-original size and flavor.
-
-Commercially available food dehydrators are well suited for mushroom
-drying, though their trays are often too close together, necessitating
-cutting large mushrooms into thin slices. Alternatively, one can build
-a dehydrator customized to individual needs. A good dryer should
-complete drying in 24-48 hours by passing warm air no hotter than 110
-degrees F. Open-air drying at room temperature is also feasible using
-dehumidifiers in combination with air circulation fans.
-
-"Flash" drying at high temperatures should be avoided because mushrooms
-lose much of their nutritive value and, for species containing
-psilocybin, much of their active alkaloid content. The 110 degrees F
+value, storage life, and suitability for different [[psilocybin]], much of their active alkaloid content. The 110 degrees F
 maximum temperature guideline preserves both nutritional and
 pharmacological constituents. For home cultivators without dedicated
 dehydrators, placing mushrooms on screens in a warm dry area with a
@@ -143,8 +111,6 @@ oxidation of flavor compounds and nutritional constituents.
   storage
 - Always label containers with species, origin, date, and identifier
 - Young mushrooms preserve better than old ones in all methods
-
 ## See Also
 
-- [[mushroom-drying-storage]]
 - [[mushroom-harvesting-techniques]]

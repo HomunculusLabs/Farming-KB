@@ -127,7 +127,6 @@ The genus Inocybe contributes significantly to ectomycorrhizal diversity in
 temperate forests, with species varying in host specificity. I. rimosa is
 considered a generalist associate, contributing to soil fungal networks
 across diverse forest types.
-
 ## Related Species
 
 I. rimosa is part of the I. rimosa complex, which includes several
@@ -145,6 +144,5 @@ morphology, cystidia shape, and presence or absence of clamp connections.
 
 ## See Also
 
-[[paxillus-involutus]], [[amanita-muscaria]], [[clitocybe-gibba]],
-[[russula-virescens]], [[russula-brevipes]], [[armillaria-mellea]],
-[[boletus-edulis-entity]], [[lactarius-indigo]], [[hericium-erinaceus]],
+[[amanita-muscaria-entity]], [[russula-virescens]], [[armillaria-mellea-entity]],
+[[lactarius-indigo]], [[hericium-erinaceus]],

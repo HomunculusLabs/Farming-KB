@@ -124,8 +124,6 @@ the face of modernization and external religious pressure.
 
 ## See Also
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
-- [[golden-guide-peyote-and-mescaline-cacti]]
 - [[golden-guide-ayahuasca-and-caapi]]
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

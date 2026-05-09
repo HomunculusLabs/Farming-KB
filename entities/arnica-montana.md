@@ -87,7 +87,9 @@ have declined significantly due to agricultural intensification.
   potency but improved tolerability.
 - **Dihydrohelenalin acetate:** Acetylated derivative; contributes to
   anti-edema effects.
-- **Flavonoids:** [[quercetin]], lute kaempferol
-
-- [[hypericum-perforatum]] — Co-occurring European meadow herb with
+- **Flavonoids:** [[hypericum-perforatum]] — Co-occurring European meadow herb with
   overlapping anti-inflammatory applications
+
+## See Also
+- [[teaming-with-microbes-soil-food-web-overview]]
+- [[teaming-with-microbes-plant-control]]

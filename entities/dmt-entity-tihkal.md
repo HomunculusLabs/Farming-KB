@@ -67,17 +67,7 @@ The roots of Mimosa hostilis are reputed to be the source of the drink jumera, o
 
 ## Extensions and Commentary
 
-DMT is one of the primary active components in Amazonian snuffs (cohoba/vilca) from Piptadenia/Anadenanthera species, and in the brew ayahuasca when combined with a MAO-inhibiting plant (see [[harmaline-entity-tihkal]]). It has been reported as an endogenous component of the human brain, found in urine and blood, and a methylating enzyme capable of forming DMT has been found in plasma.
-
-DMT was taken through FDA/DEA approval processes for modern human clinical studies at the University of New Mexico, making it one of the few Schedule I drugs under active clinical investigation. The fumarate salt is the FDA-approved form for i.v. injection.
-
-### The Intravenous Dose-Response Curve
-
-The i.v. dose-response curve shows a clear progression: 4 mg (placebo level), 8 mg (physical effects only), 15 mg (threshold psychedelic), 30 mg (overwhelming). No tolerance was observed with repeated dosing (50 mg i.m., twice daily for 5 days).
-
-### Why DMT Is Not Orally Active
-
-The principal reason DMT must be administered parenterally is rapid metabolism by monoamine oxidase (MAO) to inactive indoleacetic acid. The dialkylamines higher than methyl (DET, DPT, DIPT) are all orally active, as the MAO systems do not efficiently metabolize them. This is the pharmacological basis for ayahuasca, where [[harmaline-entity-tihkal]] or other beta-carbolines inhibit MAO long enough for oral DMT to reach the brain.
+DMT is one of the primary active components in Amazonian snuffs (cohoba/vilca) from Piptadenia/Anadenanthera species, and in the brew ayahuasca when combined with a MAO-inhibiting plant (see [[harmaline-entity-tihkal]] or other beta-carbolines inhibit MAO long enough for oral DMT to reach the brain.
 
 ## Physical Properties
 
@@ -97,18 +87,12 @@ DMT can be synthesized by multiple routes: from indole via oxalyl chloride/dimet
 
 ## See Also
 
-- [[5-meo-dmt-entity-tihkal]] — the 5-methoxy analogue, more potent and with a different character
 - [[psilocin-entity-tihkal]] — the 4-hydroxy analogue (psilocybin's active metabolite)
-- [[harmaline-entity-tihkal]] — beta-carboline MAOI used to enable oral DMT activity
 - [[det-entity-tihkal]] — the diethyl homologue, orally active
-- [[dipt-entity-tihkal]] — the diisopropyl homologue, primarily auditory effects
 - [[5-meo-dmt-compound-profile]] — additional compound profile
-- [[alexander-shulgin]] — co-author of TiHKAL
 - [[ayahuasca-brewing-guide]] — traditional preparation using DMT-containing plants
 
 ## Related
 
-- [[a-o-dms-entity-tihkal]]
 - [[2-me-dmt-entity-tihkal]]
-- [[5-mes-dmt-entity-tihkal]]
 - [[a-et-entity-tihkal]]

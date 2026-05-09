@@ -125,7 +125,9 @@ relationship between consciousness and the natural world.
 
 ## See Also
 
-- [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
 - [[powell-psilocybin-consciousness]]
-- [[powell-gaian-mind-and-entheogenic-flora]]
 - [[powell-mutability-of-consciousness-chemical-lens]]
+
+## See Also
+
+- [[psilocybin-psilocin-chemistry-serotonin-5HT2A-mechanism-emcdda-2006]]

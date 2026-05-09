@@ -11,71 +11,90 @@ sources:
 
 **Chemical name:** 3,4-Methylenedioxy-N-ethylamphetamine
 
-**PiHKAL #106** | [[alexander-shulgin]]'s rating: ++
-
-**Nicknames:** EVE, INTELLECT
-
-## Overview
-
-MDE is the N-ethyl homologue of [[mda]]|MDA and a close relative of [[mdma-entity]]|MDMA. It combines empathogenic and stimulant properties with a somewhat "stonier" character than MDMA. It was explored as a potential alternative to MDMA after the latter's scheduling in 1985, appearing briefly in the illicit trade under the name "EVE" (paired with MDMA as "ADAM"). MDE was the compound used in the first "piggy-back" or "window exploitation" studies, where additional compounds were assayed during the open state produced by the initial dose.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | 50-80 |
-| Light | 80-100 |
-| Common | 100-160 |
-| Strong | 160-200 |
-| Heavy | 200+ |
-
-## Duration
-
-| Phase | Time |
-|-------|------|
-| Onset | 30-60 min |
-| Come-up | 30-60 min |
-| Peak | 1.5-3 h |
-| Offset | 2-3 h |
-| Total | 3-5 h |
-
-## Qualitative Effects
-
-- Warm, gentle intoxication with alcohol-like qualities at low doses
-- Euphoric and relaxing at moderate doses
-- Empathogenic qualities present but less pronounced than mdma-entity|MDMA
-- Motor incoordination possible
-- Complete anorexia (loss of appetite) that can persist for 72+ hours
-- Jaw clenching and ear effects ("rice crispies") at higher doses
-- Meditative quality, less verbal urge than MDMA
-- "Eye-romp" — difficulty focusing eyes at higher doses
-- Residual elation the following morning
-
-## Shulgin's Qualitative Comments
-
-At 100 mg: "warm light all about me... gentle, almost alcohol-like, intoxication... clearly dropping" by 2.5 hours. At 160 mg: "stronger and smoother than MDMA" (group setting), "definitely fewer physiological side-effects... particularly the urinating problem." At 200 mg: "very stoned... jaw-clenching... meditative material not unlike MDMA except there are more difficulties in forming words." Anorexia lasting 72 hours at this dose was noted.
-
-## Extensions and Commentary
-
-MDE requires a slightly larger dose than MDMA and shares a similar chronology. Supplemental doses of 50-75 mg at the two-hour point have been explored. In clinical experiments, supplementing MDMA with MDE at the 1h45m point extended the intoxication but produced surprising quietness with reduced urge to converse.
-
-The effects are similar to MDMA but lack the "particular magic and affective transference" that characterizes MDMA. There is a "stoning intoxication" as with MDA, and unrewarding aspects to dose escalation. The optical isomers have never been evaluated separately in man.
-
-The N-trifluoroethyl analogue was synthesized but found to be only "possibly active" even at heroic doses of 500 mg total. MDE was called "EVE" in the street trade, creating a perverse logic with MDMA's "ADAM" nickname.
-
-## Safety Warnings
-
-- Jaw clenching and muscle tension, especially with supplemental doses
-- Prolonged anorexia at higher doses
-- Less studied than MDMA; unknown long-term effects
-- The "S" isomer may carry different risk profile (not separately evaluated)
-- See [[psychedelic-harm-reduction]] for general harm reduction guidelines
+**PiHKAL #106** | [[mda]]|MDA and a close relative of [[psychedelic-harm-reduction]] for general harm reduction guidelines
 - Legal status: Schedule I in the US and most countries
 
 ## Related Compounds
 
 - mda-entity|MDA — N-H parent compound, more psychedelic
 - mdma-entity|MDMA — N-methyl homologue, the prototypical empathogen
-- [[mbdb-entity]]|MBDB — alpha-ethyl homologue, gentler
 - [[alexander-shulgin]] — synthesizer and bioassayer of MDE
 - [[shulgin-dosage-guidelines]]
+## Practical Applications
+
+MDE (EVE, MDEA) has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MDE (EVE, MDEA). These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

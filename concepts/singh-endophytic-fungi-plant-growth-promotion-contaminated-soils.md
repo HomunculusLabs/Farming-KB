@@ -128,13 +128,7 @@ contaminants:
 
 ## See Also
 
-- [[singh-fungal-bioaugmentation-contaminated-soils]]
 - [[singh-fungal-composting-bioremediation-contaminated-soils]]
-- [[singh-pah-biodegradation-fungi-soils-bioreactors]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[singh-mycorrhizal-fungi-rhizosphere-remediation]]
-
-- mycorrhizal fungi heavy metal phytostabilization
-- fungal plant interactions contaminated environments
 - [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]
 - [[fungal-bioremediation-mechanisms]]

@@ -1,7 +1,7 @@
 ---
 title: "Coffee Rust and Fungal Crop Pathogens"
 created: 2026-04-28
-tags: [mycology, coffee-rust, hemileia, plant-pathogen, crop-disease, rust-fungi]
+tags: [[mycology, coffee-rust, hemileia, plant-pathogen, crop-disease, rust-fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -60,22 +60,7 @@ wheat-growing regions has also been effective, since the absence of the
 alternate host retards the evolution of new strains or races of the
 fungus.
 
-## Prospects for [[genetic-engineering-fungal-bioremediation]]
-
-Prospects for genetically engineered varieties of crops with customized
-biochemical pathways for antifungal defense are both exciting and
-terrifying. On one hand, genetic engineering could provide durable
-resistance to rust diseases. On the other, the ecological consequences
-of widespread deployment of engineered crops remain uncertain. The
-arms race between fungal pathogens and their host plants has been
-waged for millions of years, and human intervention adds another layer
-of complexity to this evolutionary contest.
-
-## Rice Blast Disease
-
-Since rice ranks as the second largest crop on Earth and is a staple
-food for more than half the world's population, its enemies deserve
-serious investigation. A rice field infected by magnaporthe grisea [[functional-genomics-arbuscular-mycorrhiza]] rice blast looks
+## Prospects for [[functional-genomics-arbuscular-mycorrhiza]] rice blast looks
 as if it has been struck by a bomb, which accounts for the common name
 "rice blast." The fungus usually infects the leaves of the rice plant
 and spreads as an invasive mycelium, consuming plant tissues and
@@ -92,7 +77,7 @@ disease.
 
 ## The Appressorium: Nature's Most Powerful Pathogen
 
-The rice blast fungus [[magnaporthe-grisea]] uses an [[fungal-appressorium-and-infection-structures]] that
+The rice blast fungus [[fungal-appressorium-and-infection-structures]] that
 is arguably the most powerful infection structure in the fungal kingdom.
 Within a few hours of landing on a leaf, the appressorium becomes
 blackened with melanin, fills with glycerol, and becomes highly
@@ -114,21 +99,4 @@ diseases affect virtually every crop species. Banana Panama disease,
 grape powdery mildew, and corn smut are just a few examples of fungal
 diseases that threaten food security. Understanding the biology of
 these pathogens is essential for developing sustainable disease
-[[mollison-grasslands-and-range-management-strategies]] that reduce dependence on chemical fungicides
-while maintaining crop yields sufficient to feed a growing global
-population.
-
-## The Evolutionary Arms Race
-
-Each of these fungal crop pathogens has been engaged in an evolutionary
-arms race with its host plant for millions of years. The rust fungi
-have evolved elaborate life cycles involving multiple spore types and
-alternate hosts. Magnaporthe has evolved the extraordinary appressorium
-mechanism. Hemileia has streamlined its life cycle to specialize on
-coffee. These diverse strategies reflect the incredible adaptability of
-fungi as pathogens and underscore the ongoing challenge of protecting
-crops from fungal diseases in a changing global environment.
-
-## See Also
-
-- [[bloomfield-fungal-pathogens-and-parasites]]
+[[bloomfield-fungal-pathogens-and-parasites]]

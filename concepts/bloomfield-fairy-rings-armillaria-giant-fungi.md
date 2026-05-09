@@ -121,12 +121,8 @@ living infrastructure that predates and outlasts the trees above.
 
 ## Related Topics
 
-- [[bloomfield-fungal-biology-and-hyphal-growth]] for detailed
-  discussion of hyphal structure and growth
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
   fungal relationships with living plants
-- [[bloomfield-fungal-spore-discharge-and-dispersal]] for how
-  fairy ring fungi reproduce and spread
 - [[bloomfields-orchard-fungal-biology-and-ecology]] for the role of
   fungi in nutrient cycling
 

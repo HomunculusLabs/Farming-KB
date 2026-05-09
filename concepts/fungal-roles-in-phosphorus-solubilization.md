@@ -3,7 +3,7 @@ title: Fungal Roles In Phosphorus Solubilization
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -68,18 +68,10 @@ A third mechanism is proton extrusion, where fungi release H+ ions through plasm
 ## Related
 
 - [[fungal-role-in-phosphorus-cycling]]
-- [[fungal-role-in-phosphorus-cycling]]
-- [[fungal-oxalate-production-metal-transformation]]
 - [[fungal-mineral-weathering]]
-- [[mycorrhizal-nutrient-transport]]
 - [[mycorrhizal-nutrient-uptake]]
-- [[fungal-enzyme-activity-nutrient-availability]]
 - [[fungal-biogeochemistry]]
-- [[ectomycorrhizal-ecology]]
-
-## Mycorrhizal Phosphorus Uptake
-
-Mycorrhizal fungi are arguably the most important biological agents in plant phosphorus nutrition. Arbuscular mycorrhizal fungi (AMF) form symbiotic associations with the roots of over 80 percent of terrestrial plant species, extending hyphal networks far beyond the root depletion zone to access phosphorus that roots alone cannot reach. Ectomycorrhizal fungi, associated primarily with forest trees, produce dense mycelial mats and secreting organic acids that solubilize mineral phosphorus. The [[arbuscular-mycorrhizal-fungi]] association can supply up to 80 percent of a plant's phosphorus requirements, particularly in low-phosphorus soils. This symbiosis represents one of the oldest and most widespread mutualisms on Earth, dating back over 400 million years.
+- [[arbuscular-mycorrhizal-fungi]] association can supply up to 80 percent of a plant's phosphorus requirements, particularly in low-phosphorus soils. This symbiosis represents one of the oldest and most widespread mutualisms on Earth, dating back over 400 million years.
 
 ## Phosphatase Enzymes
 
@@ -87,7 +79,5 @@ Fungi produce both acid and alkaline phosphatase enzymes that cleave phosphate g
 
 ## See Also
 
-- [[soil-fertility-management]] — Nutrient management practices leveraging fungal activity
 - [[fungal-nutrient-cycling-forests]] — Broader nutrient cycling roles of forest fungi
-- [[arbuscular-mycorrhizal-fungi]] — Another major mycorrhizal type involved in phosphorus uptake
 - [[nutrient-cycling-in-soil]] — Overview of soil nutrient cycling processes

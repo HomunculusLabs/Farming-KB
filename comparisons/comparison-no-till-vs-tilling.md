@@ -25,34 +25,6 @@ inflicts on soil structure, microbial communities, and fungal networks.
 
 ## No-Till
 
-[[teaming-with-microbes-no-till-benefits]]
-
-No-till gardening preserves the soil food web by eliminating mechanical
-disturbance. The soil food web approach, as described in "Teaming with
-Microbes," explicitly recommends against tilling: "Neither till the vegetable
-garden nor turn over the soil in the annual beds." Instead, amendments are
-applied to the soil surface and biological processes transport nutrients
-downward through the actions of roots, worms, microbes, and fungal hyphae.
-
-The benefits of no-till accumulate over time. Fungal hyphal networks, which can
-take weeks or months to establish and serve as the plant's nutrient- gathering
-extension system, remain intact and grow larger with each passing season. Soil
-aggregates, the crumb-like structures created by bacterial glues, fungal hyphae,
-and earthworm activity, are preserved rather than destroyed. Earthworm tunnels
-that aerate the soil and allow water infiltration remain open and functional.
-The microbial communities that fix nitrogen, suppress disease, and cycle
-nutrients are not disrupted by violent mechanical action.
-
-No-till also addresses weed management differently. Rather than burying weed
-seeds (which tilling does, bringing fresh seeds to the surface in subsequent
-passes), no-till uses thick mulch layers to suppress weed germination. The soil
-surface remains covered, reducing moisture evaporation, moderating soil
-temperature, and providing habitat for surface-dwelling organisms. Over several
-seasons, no-till soils develop a distinct stratification with a rich organic
-layer on top and increasingly complex biological communities below.
-
-## Tilling
-
 [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 
 Tilling has been the dominant agricultural practice for centuries because it
@@ -129,7 +101,9 @@ recommended by the soil food web approach.
 
 ## See Also
 
-- [[teaming-with-microbes-no-till-gardening-soil-health]]
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[teaming-with-microbes-soil-food-web-overview]]
 - [[bacterial-vs-fungal-soil]]
+
+## See Also
+
+- [[comparison-no-till-vs-raised-bed]]

@@ -16,37 +16,6 @@ Non-chemical pest control relies on building ecological resilience through biodi
 
 ## The IPM Framework
 
-The [[integrated-pest-management]] framework is the foundation of effective non-chemical pest control.
-
-IPM does not seek to eradicate all insects. Instead, it keeps pest populations below damage thresholds through a hierarchy:
-
-1. **Prevention** - cultural practices that reduce pest pressure
-2. **Monitoring** - regular scouting to detect problems early
-3. **Biological control** - natural enemies that eat or parasitize pests
-4. **Targeted intervention** - least-toxic effective method, only when needed
-
-The key insight: pests are generally opportunists that attack stressed, weakened, or nutrient-imbalanced plants.
-
-## Prevention Through Soil Health
-
-Healthy plants growing in healthy soil are significantly more resistant to pest damage.
-
-Plants with strong defenses have:
-- Thick cell walls that resist insect feeding
-- Robust immune responses to pathogen attack
-- Complex chemical defenses (terpenes, alkaloids, phenolics)
-- Balanced nutrition that supports all metabolic functions
-
-Building soil health is the first line of defense:
-- Compost annually for biology and nutrients
-- Cover crop to maintain living roots year-round
-- Mulch to moderate temperature and retain moisture
-- Avoid synthetic pesticides that kill beneficial organisms
-
-## Beneficial Insect Habitat
-
-Creating habitat for beneficial insects is one of the most powerful strategies.
-
 The [[insectary-plants-for-pest-control]] guide explains how specific plants attract predators.
 
 Key beneficial insects and what they eat:
@@ -68,25 +37,6 @@ Plant families that attract beneficials:
 
 ## Companion Planting for Pest Deterrence
 
-The [[companion-planting-deterrents]] approach uses plant relationships to manage pests.
-
-How companion planting works:
-- **Masking scent** - aromatic herbs hide crop plants from pests
-- **Repellency** - some plants release pest-deterrent compounds
-- **Trap cropping** - sacrificial plants attract pests away from crops
-- **Disguise** - mixed plantings make it harder for pests to locate hosts
-
-Effective companion planting combinations:
-- Basil near tomatoes (repels tomato hornworms and whiteflies)
-- Marigolds throughout the garden (deters nematodes and some beetles)
-- Nasturtiums near squash (trap crop for aphids)
-- Garlic near roses and fruit trees (repels aphids and Japanese beetles)
-- Borage near tomatoes and strawberries (attracts pollinators, repels hornworms)
-
-Companion planting is most effective as part of a multi-layered strategy, not a standalone solution.
-
-## Korean Natural Farming Pest Control
-
 The [[knf-pest-control-methods]] include several natural preparations:
 
 - **Fermented plant juice (FPJ)** from pest-repellent plants
@@ -98,7 +48,7 @@ KNF pest control focuses on creating unfavorable surface conditions on plants th
 
 ## JADAM Pest Management
 
-The [[jadam-all-purpose-pesticide]] is a notable natural farming approach. The [[jadam-insect-pest-management]] system emphasizes that healthy plants naturally resist pests, and that pesticide applications should be targeted and minimal. Use locally available, free materials: ferment plant material in water, add canola oil as a surfactant, dilute and spray on affected plants.
+The [[jadam-insect-pest-management]] system emphasizes that healthy plants naturally resist pests, and that pesticide applications should be targeted and minimal. Use locally available, free materials: ferment plant material in water, add canola oil as a surfactant, dilute and spray on affected plants.
 
 ## Physical Barriers and Exclusion
 
@@ -131,14 +81,5 @@ These tools target specific pests while leaving beneficial organisms unharmed.
 
 ## Key Points
 
-- [[integrated-pest-management]] prioritizes prevention and monitoring over spraying
-- [[insectary-plants-for-pest-control]] and [[companion-planting-deterrents]] create ecological defenses
-- [[knf-pest-control-methods]] and [[jadam-all-purpose-pesticide]] offer natural farming approaches
-- Healthy soil and healthy plants are your first and best defense against pests
-- Biological controls and physical barriers target specific pests without harming beneficials
-
-## Related Questions
-
-- [[what-natural-farming-method-should-i-use]]
-- [[first-time-grower-common-mistakes]]
+- [[insectary-plants-for-pest-control]] and [[knf-pest-control-methods]] and [[what-natural-farming-method-should-i-use]]
 - [[query-how-to-control-fungus-gnats-organically]]

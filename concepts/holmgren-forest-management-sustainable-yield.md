@@ -3,12 +3,7 @@ title: Holmgren: Forest Management and Sustainable Yield
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-Holmgren's approach to forest management demonstrates how obtaining a yield ([[holmgren-obtain-a-yield-detailed]]) can actually increase the long-term productive capacity of forest ecosystems, challenging conventional assumptions about conservation versus use.
+tags: [[holmgren-obtain-a-yield-detailed]]) can actually increase the long-term productive capacity of forest ecosystems, challenging conventional assumptions about conservation versus use.
 
 ## Sustainable Forest Yield
 
@@ -20,17 +15,7 @@ Like yabbies in a dam, the total canopy cover in a forest is limited, but that c
 
 Put simply: "remove little trees to grow big trees." This is often counter-intuitive for people who have experience at reforestation but none in managing established or existing forest.
 
-Even with very little understanding of forests and forestry, one can go into the forest with the question "What does the forest have to give?" Using observation skills including the decision-making loop ([[permaculture-principles]]), it will become evident that small stunted individuals of the dominant canopy species are abundant and can be removed without much risk of adverse effects.
-
-## Incremental Approach
-
-The skill needed to fell small trees is not great and the effort to process them for use is not onerous. Yields from thinning might only be firewood and mulch but could include posts or craftwood. In the process of obtaining a yield, we improve the capacity of the forest to catch and store energy in larger, more valuable trees.
-
-In practice, limitation on the capacity and cost of thinning is more of an issue than whether the selection criteria could be improved. Failure to thin regrowth forest because we are not sure it is a good idea will only encourage future owners and managers to pick the eyes out of the poor inheritance we have left them.
-
-## Fryers Forest Eco-Village
-
-At [[holmgren-permaculture-village-and-community-design]], a 100-hectare native eucalypt forest of Box species is being thinned in a way that obtains a yield adequate to cover costs while increasing future timber and other forest values. The continuing development draws on best examples from the past and the latest practices in European nature-based forestry (Prosilva Network).
+Even with very little understanding of forests and forestry, one can go into the forest with the question "What does the forest have to give?" Using observation skills including the decision-making loop ([[holmgren-permaculture-village-and-community-design]], a 100-hectare native eucalypt forest of Box species is being thinned in a way that obtains a yield adequate to cover costs while increasing future timber and other forest values. The continuing development draws on best examples from the past and the latest practices in European nature-based forestry (Prosilva Network).
 
 ## Hunting for Sustainable Yield
 
@@ -54,54 +39,64 @@ In contrast, sanctity in indigenous cultures was founded on the premise of very 
 
 The 64,000 ha Wombat Forest in central Victoria was completely devastated in the gold rush between 1860 and 1890. A complete ban on cutting sawlogs until the 1930s and continuous thinning for firewood and later short lengths for hard board manufacture helped create a valuable and diverse forest. Unfortunately bad State government policies and management since the 1970s resulted in over cutting for sawlogs and pulpwood from mature forest and created large stands of dense, unthinned regrowth.
 
-Related: [[holmgren-household-energy-storages]], [[holmgren-ecological-succession-and-pulsing]], [[holmgren-trees-nature-solar-power-plants]]
+Related: [[holmgren-ecological-succession-and-pulsing]], [[bioregional-organization]]
+- [[permaculture-farm-design-principles]]
+## Practical Considerations
 
-Source: David Holmgren, Permaculture: Principles and Pathways Beyond Sustainability (2002), Principle 3: Obtain a Yield, pp. 97-102
+When working with Holmgren: Forest Management and Sustainable Yield, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-Holmgren elaborates that Sustainable forest management requires understanding forest ecosystems as dynamic, self-regulating systems rather than timber factories. Holmgren emphasizes that buying timber from local forests provides better feedback loops and influence over management practices than purchasing through distant supply chains we cannot affect. This principle of 'use and value renewable resources' extends to all forest products.
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-From the source text:
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-f-ups). In buying timber harvested from local forests,
-we have a better chance of understanding the complex issues and of influencing timber
-providers and forest managers than when we buy timber from overseas via systems that
-we cannot influence.
-In describing feedback as one of the essential principles of the industrial design revolution,
-Amory Lovins used the example of the factory taking its water supply from downstream
-from its wastewater outlet as an incentive to reduce pollution to zero. Perhaps his most
-dramatic example of the power of feedback is a car with the exhaust fed back into the
-passenger compartment, rather than being aimed at the pedestrians.
-Feedback fosters personal responsibility and personal responsibility builds in feedback.
-Principle | j | | | 85
-The individual as a whole system
-The fourth reason for personal responsibility is the need to develop the whole-system
-thinking that is central to design for energy descent. Learning to think wholistically requires an
-overriding, or reversal, of much of the cultural heritage of the last few hundred years. With little experience of
+## Common Challenges and Solutions
 
-## Monitoring and Adaptive Management
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-Sustainable yield calculations require ongoing monitoring to remain
-accurate as forest conditions change. Key metrics include growth rates
-(by species and diameter class), mortality rates, regeneration success,
-and stand structure changes over time. Permanent sample plots, measured
-every 5-10 years, provide the data needed to adjust yield estimates
-and harvest schedules. Without monitoring, foresters risk either
-under-utilizing the forest resource or, more seriously, exceeding
-sustainable harvest levels and degrading future productive capacity.
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-Holmgren emphasizes that sustainable forest management is not just
-about timber — it includes maintaining wildlife habitat, protecting
-water quality in forest streams, preserving soil stability on steep
-slopes, and ensuring genetic diversity within tree populations. A truly
-sustainable approach might mean harvesting less than the maximum
-biologically sustainable yield to maintain these other forest values.
-The concept of "ecological forestry" recognizes that forests provide
-multiple simultaneous benefits and that management decisions must
-balance timber production with biodiversity conservation, carbon
-sequestration, recreation, and watershed protection. This broader
-definition of sustainability requires more nuanced decision-making
-than simple volume-based yield calculations.
-## Related
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
 
-- [[bioregional-organization]]
-- [[permaculture-design-principles]]
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

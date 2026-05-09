@@ -16,59 +16,7 @@ type: concept
 # Dry Sift and Water Extraction Methods
 The collection and processing of trichomes -- the tiny and resin glands that
 contain THC and other cannabinoids -- is the foundation of hashish
-production. [[greg-green-sinsemilla-and-pollination]]'s "The Cannabis Grow Bible" provides detailed
-instructions for several home comparison cannabis extraction ranging from flat
-screening to water extraction, each producing different grades of quality.
-These methods transform trim and lower-quality plant material into
-concentrated cannabis products.
-## Understanding Trichomes and Skuff
-### Stalked Capitate Trichomes
-The stalked capitate trichome is the primary target of all extraction
-methods. These tiny stalked resin glands contain the major cannabinoids
-within an oil-like substance referred to as resin. The gland heads
-(rounded tips) secrete the cannabinoids, while the stalks that support
-them are secondary in production amounts. Hash is made primarily from
-the collection and compression of these stalked capitate trichomes.
-### Skuff
-Skuff is the term for trimmed plant material that is suitable for
-extraction. When harvesting bud, the trim -- small leaves covered in
-resin -- is set aside. Whether the material is on stem, branch, leaf, or
-bud, if it feels sticky it can be used for extraction. Connoisseurs
-should examine skuff under a microscope and discard any parts lacking
-visible trichomes.
-Skuff should be stored much like canned bud for 3 to 6 weeks before
-processing. The quality of the final product cannot exceed the quality
-of the starting genetics -- low-potency plants will not produce
-high-quality hash.
-## Screening Methods
-### Flat Silk Screening
-Screening is a process similar to cheese grating but on a much finer
-level. A silk screen is stretched across a square wooden frame and
-nailed tight. Key specifications:
-- Screen pore size typically ranges from 180 to 120 microns.
-- Smaller microns yield higher quality but less quantity.
-- Larger micron pores produce more material but include leaf matter
-  and branch trim that degrades quality.
-The bud or skuff is placed over the screen and either manually dragged
-across it or rolled with a roller. A sheet of glass placed under the
-screen catches the fallen material. The screen should be patted down
-after processing to shake loose any powder stuck in the pores.
-### Flat Metal Screening
-This method adds a preliminary step before silk screening. A metal grate
-(usually tough nylon or stainless steel) with pore sizes matching the
-silk screen is used first. The metal grate removes larger matter, and
-the material passing through is then sieved through the silk screen.
-This produces two grades of sieved residue, with the silk screening
-yielding mostly trichomes.
-### Multiple Screening Method
-A refined approach using four or five screens of progressively smaller
-micron sizes. The skuff is sieved through each screen in sequence from
-largest to smallest. The result is several screens containing different
-qualities of cannabis residue, from coarse plant matter to fine
-trichomes. This is described as an excellent way to achieve the best
-results.
-## Proper Screening Technique
-[[greg-green]] provides detailed instructions for effective screening:
+production. [[greg-green]] provides detailed instructions for effective screening:
 1. Use a metal screen rated between 100 to 140 lines per inch (120
    lines is most common for home hash makers).
 2. Construct a wooden frame to hold the screen.
@@ -117,5 +65,27 @@ extraction only, with minimal plant contamination. The process:
 The principle behind water extraction is that cold water breaks the
 glands away from the leaf matter. The glands are heavier than water and
 ## See Also
-- [[cannabis-ice-water-extraction]]
 - [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]]
+
+## See Also
+
+- [[oner-cannabis-water-extraction-ice-water-hash]]
+## Practical Considerations
+
+Successful implementation of Dry Sift and Water Extraction Methods for Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

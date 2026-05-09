@@ -17,30 +17,6 @@ spectrum. The choice between them depends largely on how many substrates you pla
 fruit simultaneously and how much environmental control you require.
 
 ## Monotub
-[[monotub-cultivation]]
-
-A monotub is a single plastic storage bin, typically ranging from 50 to 110 quarts,
-modified with polyfill-stuffed holes that provide passive fresh air exchange (FAE).
-The substrate is usually a CVG mix of coconut coir, vermiculite, and gypsum,
-inoculated at a spawn-to-substrate ratio of 1:2 to 1:3. Colonization typically takes
-7 to 14 days at temperatures between 70 and 78°F.
-
-Monotubs are prized for their simplicity and reliability. The sealed environment is
-highly resistant to contamination during colonization, and the passive FAE design
-means no external equipment is required during fruiting. A standard 66-quart tub can
-produce predictable yields of 4 to 10 ounces dry, making it an excellent benchmark
-for home growers. The self-contained nature of the tub also means you can easily
-move it between rooms or locations as needed.
-
-The main limitations of monotubs are relatively modest capacity and less precise
-environmental control. Side pinning can occur if humidity gradients form inside the
-tub, and each tub is limited to a single substrate block. At $20 to $40 per setup,
-however, the low barrier to entry makes monotubs the default starting point for most
-cultivators. Because each tub is independent, you also gain a degree of
-compartmentalization: a contamination event in one tub does not necessarily affect
-the others.
-
-## Martha Tent
 [[martha-tent-mushroom-growing]]
 
 A Martha tent is a freestanding zippered vinyl greenhouse, typically 48 to 72 inches
@@ -123,10 +99,7 @@ mini-greenhouses or humidity domes over individual blocks inside a Martha tent t
 create microclimates for species that need higher humidity than the rest of the tent.
 
 ## See Also
-- [[monotub-cultivation]]
 - [[martha-tent-mushroom-growing]]
-- [[fruiting-chamber-setup]]
 - [[bulk-substrate-preparation]]
-- [[oyster-substrate-carbon-nitrogen-ratio]]
 - [[growing-gourmet-growing-room-ventilation-air-exchange]]
 - [[stamets-cultivator-humidity-management-fogging-systems]]

@@ -119,12 +119,8 @@ Peyote buttons, conducted around a crescent-shaped altar.
 
 ## Related Topics
 
-- [[plants-of-the-gods-trichocereus-san-pedro-chemistry]] —
-  another mescaline-containing cactus of the Andes
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
   chemical structures of mescaline and related compounds
-- [[plants-of-the-gods-conocybe-psychoactive-mushrooms]] —
-  other Mexican hallucinogenic fungi
 - [[plants-of-the-gods-amanita-muscaria]] — another major
   sacred hallucinogen with deep cultural roots
 - [[plants-of-the-gods-geography-hallucinogenic-plants]] —

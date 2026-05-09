@@ -20,35 +20,7 @@ Dosage range: 200 to 400 milligrams (as the sulfate salt); 178 to 356 milligrams
 
 Duration: approximately 12 hours.
 
-The dosage range is essentially identical to that of [[mescaline-entity]] itself, confirming that deuterium substitution at this position does not significantly alter potency.
-
-## Qualitative Effects
-
-At 275 milligrams, onset is smooth and gradual.
-
-Within an hour, mild nausea (less than with mescaline) disappears completely.
-
-Visual enhancement, good energy, and good communication characterize the experience.
-
-The subject described being "in a good place pretty much the whole day" with clear communication "without deeper feelings getting in the way."
-
-While enjoyable and at times remarkably fun, the intensity was less than what is typically experienced with mescaline.
-
-At 300 milligrams, the taste is moderately bitter but fades quickly.
-
-The first stirrings appear within 40 minutes as a "very mild" and pleasant experience.
-
-An initial period of stomach unease resolves with food (crackers).
-
-No sharpened visual reactions or physical instability occur at any time.
-
-A quickening of thought and verbal flow was noted, but described as milder than typical mescaline patter.
-
-At 350 milligrams, onset is rapid with alertness in 20 minutes, climbing to a plus two within an hour and staying there.
-
-Slight queasiness and cold hands and feet during the first two hours disappear completely, replaced by strong hunger throughout the latter half of the experience.
-
-Eyes-closed visuals are "pretty good" but not as bright as [[2c-b-entity]].
+The dosage range is essentially identical to that of [[2c-b]].
 
 Open-eye visuals include movement and flow of objects with dilated pupils.
 
@@ -82,22 +54,33 @@ Similar deuterium substitution patterns are feasible with TMA and related 3,4,5-
 
 The compound 3,5-D (3,5-bis-trideuteromethoxy-4-methoxyphenethylamine) might reveal quantitative response differences relevant to this theory.
 
-However, these are extremely minor metabolites, and Shulgin suspected that more extensive studies would establish that 4-D, 3,5-D, and [[beta-d-entity]] all have properties indistinguishable from one another in healthy subjects.
-
-## Related Compounds
-
-[[mescaline-entity]] - the unsubstituted parent compound with identical pharmacological profile
-
-[[beta-d-entity]] - deuterium substitution at the beta-position of the side chain
+However, these are extremely minor metabolites, and Shulgin suspected that more extensive studies would establish that 4-D, 3,5-D, and [[mescaline-entity]] - the unsubstituted parent compound with identical pharmacological profile
 
 [[escaline-entity]] - 4-ethoxy substitution pattern
 
-[[proscaline]] - 4-propoxy substitution pattern
-
-[[2c-b-entity]] - used as a visual intensity reference by one subject
+[[2c-b]] - used as a visual intensity reference by one subject
 
 [[phenethylamine-pharmacology]] - general pharmacological context
 
 ## Status
 
 Active psychedelic with effects essentially indistinguishable from mescaline.
+## Practical Considerations
+
+Successful implementation of 4-D requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

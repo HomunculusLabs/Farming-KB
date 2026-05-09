@@ -116,15 +116,11 @@ His daughter, historian Erika Dyck, has become a leading scholar of psychedelic 
 
 ## See Also
 
-- [[leary-psychedelic-bardo-model]]
-
 - [[psychedelic-therapy-current-research]]
-
-- [[psilocybin-clinical-research-history]]
 
 - [[aldous-huxley]]
 - abram hoffer
 - john smythies
 - psychedelic therapy
 - adrenochrome
-- [[2c-b-compound-profile]] · [[lsd-compound-profile]] · [[mescaline-compound-profile]]
+- [[lsd-compound-profile]] · [[mescaline-compound-profile]]

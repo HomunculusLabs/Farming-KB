@@ -19,7 +19,7 @@ Piriformospora indica (Hymenomycetes, Basidiomycota, family Sebacinaceae) is the
 
 Inoculation with the fungus and application of fungal culture filtrate promotes plant growth and biomass production. Due to its ease of culture, P. indica provides a model organism for the study of beneficial plant-microbe interactions and a new tool for improving plant production systems.
 
-See also: [[piriformospora-indica-in-plant-fungal-co-culture]], [[fungal-endophytes-plant-fitness]]
+See also: [[fungal-endophytes-plant-fitness]]
 
 ## Growth Promotion Across Diverse Hosts
 
@@ -63,7 +63,7 @@ Similarly to arbuscular mycorrhizal fungi, P. indica:
 - Promotes growth of seedlings and stimulates nitrogen accumulation
 - Stimulates expression of genes for nitrate reductase and the starch-degrading enzyme glucan-water dikinase (SEX1) in roots
 
-See also: [[biofertilizers-and-soil-inoculants]], [[fungal-roles-in-phosphorus-solubilization]]
+See also: [[fungal-roles-in-phosphorus-solubilization]]
 
 ### Bioprotector (Disease Resistance)
 
@@ -76,7 +76,7 @@ The systemically altered "defense readiness" is associated with:
 
 Since P. indica can be easily propagated in the absence of a host plant, the fungus could be exploited to increase disease resistance as well as yield in crop plants (Waller et al. 2005).
 
-See also: [[mushroom-cultivation-fundamentals]], [[mycorrhizal-pathogen-resistance]]
+See also: [[mycorrhizal-pathogen-resistance]]
 
 ### Stress Tolerance
 
@@ -86,7 +86,7 @@ Recent experiments have amply demonstrated that P. indica provides resistance ag
 - **Chemical stress**: Protection against various chemical stresses
 - **Thermal and physical stress**: General stress tolerance enhancement
 
-See also: [[fungal-stress-responses]], [[fungal-salt-tolerance-and-ion-homeostasis]]
+See also: [[fungal-salt-tolerance-and-ion-homeostasis]]
 
 ### Bioregulator
 

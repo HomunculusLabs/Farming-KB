@@ -3,7 +3,7 @@ title: Fungal Ecosystem Processes Overview
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 
@@ -113,16 +113,10 @@ Molecular tools for identifying fungal species in situ, isotope tracer technique
 
 ## Related Concepts
 
-- [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[fungal-ecosystem-roles]]
-- [[fungal-ecosystem-services]]
 - [[fungal-decomposition-processes]]
-- [[fungal-nitrogen-mineralization-pathways]]
 - [[fungal-saprotrophic-enzymatic-strategies]]
-- [[fungal-resource-translocation-in-mycelial-networks]]
 - [[fungal-microaggregate-formation-and-soil-stability]]
-- [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
-- [[fungal-invasive-species-and-exotic-pathogens]]
 - [[fungal-radionuclide-accumulation-and-bioremediation]]
 - [[fungal-carbon-substrate-utilization-efficiency]]

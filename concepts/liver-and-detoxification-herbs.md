@@ -32,31 +32,7 @@ Cholagogues stimulate the release of stored bile from the gallbladder, while cho
 
 Dandelion root (Taraxacum officinale) is a primary cholagogue and bitter tonic that supports liver function and promotes bile flow. It is gentle enough for daily use as a liver and digestive tonic. Dandelion root is prepared as a decoction, tincture, or roasted as a coffee substitute. The root's bitter principles stimulate bile production, while its inulin content supports beneficial gut flora.
 
-The permaculture plant selection literature notes that dandelion is a perennial plant available through long seasons, making it accessible for consistent liver support. Its leaves provide additional diuretic support that complements the root's liver actions. See [[herbal-materia-medica]] for the complete dandelion profile.
-
-Artichoke leaf (Cynara scolymus) is a powerful choleretic whose cynarin content increases bile production by the liver. Artichoke leaf extract has been shown to reduce cholesterol, improve fat digestion, and relieve dyspeptic symptoms. It is one of the best-documented choleretic herbs in European phytotherapy.
-
-Burdock root (Arctium lappa) is a traditional liver tonic and alterative that supports detoxification through multiple mechanisms. Its inulin content provides prebiotic fiber that supports gut health (important because the gut microbiome plays a significant role in detoxification). Burdock root is prepared as a decoction or tincture.
-
-Yellow dock (Rumex crispus) is a bitter cholagogue traditionally used for sluggish liver function, constipation associated with poor bile flow, and skin conditions linked to liver congestion. Its anthraquinone glycosides provide mild laxative effects that complement its bile-stimulating properties. Yellow dock should be used with caution in pregnancy and by individuals with kidney stones due to its oxalic acid content.
-
-## Alterative Herbs for Detoxification
-
-Alteratives (also called blood purifiers) are herbs that gradually improve the body's eliminative functions, supporting detoxification through the liver, kidneys, lymphatic system, and skin. They are traditionally used for chronic conditions associated with toxicity including skin diseases, chronic infections, and autoimmune conditions.
-
-Red clover (Trifolium pratense) is a widely used alterative with mild blood-thinning and estrogen-modulating properties. It supports lymphatic drainage and is traditionally used for chronic skin conditions, respiratory conditions, and as a general detoxification aid. Red clover is prepared as an infusion or tincture.
-
-Nettle (Urtica dioica) is a nutrient-dense alterative that supports detoxification while providing vitamins, minerals, and anti-inflammatory compounds. Nettle's diuretic action promotes elimination through the kidneys, complementing the liver's detoxification pathways. Nettle is also used for allergies, arthritis, and as a general tonic.
-
-Cleavers (Galium aparine) is a gentle alterative and lymphatic tonic that supports the body's eliminative functions. It is traditionally used for swollen lymph nodes, skin conditions, and as a spring tonic for detoxification after winter. Cleavers is best prepared as a fresh juice or cold infusion, as its medicinal properties are diminished by drying.
-
-Oregon grape root (Mahonia aquifolium) contains berberine, an alkaloid with hepatoprotective, antimicrobial, and anti-inflammatory properties. It stimulates bile secretion and supports liver detoxification. Oregon grape is an effective alternative to goldenseal, which is threatened in the wild due to overharvesting.
-
-## Bitter Herbs and Liver Function
-
-The bitter taste reflex, triggered by bitter herbs contacting taste receptors on the tongue, has a direct and rapid effect on liver function and bile production. Bitter stimulation increases bile flow within minutes, making bitters an effective acute remedy for sluggish digestion after fatty meals.
-
-For ongoing liver support, bitter herbs taken before meals condition the liver and digestive system for optimal function. This practice is deeply embedded in European digestive traditions (aperitif bitters) and in Ayurvedic medicine. See [[digestive-herbs-and-bitters]] for detailed information on bitter herbs and the bitter taste reflex.
+The permaculture plant selection literature notes that dandelion is a perennial plant available through long seasons, making it accessible for consistent liver support. Its leaves provide additional diuretic support that complements the root's liver actions. See [[digestive-herbs-and-bitters]] for detailed information on bitter herbs and the bitter taste reflex.
 
 ## Detoxification Support Practices
 
@@ -70,14 +46,8 @@ Liver support formulas typically combine a hepatoprotective herb (milk thistle),
 
 Most liver-supportive herbs are safe for general use, but some cautions apply. Individuals with bile duct obstruction or active gallbladder disease should not use cholagogue herbs without medical supervision, as stimulating bile flow against an obstruction can be dangerous. Pregnant women should avoid strong cholagogues and laxative herbs.
 
-Herbs that affect liver function can alter the metabolism of pharmaceutical drugs that are processed by the liver's cytochrome P450 enzyme system. Milk thistle may actually protect the liver from drug-induced damage but can also affect drug metabolism. Always consult the [[herb-drug-interactions]] page when combining liver herbs with medications. See [[herbal-medicine-safety]] for general safety principles and [[herbal-formulation-principles]] for dosing recommendations.
-
-## Related Topics
-
-- [[digestive-herbs-and-bitters]] — Bitters and their effect on liver and bile
-- [[herbal-materia-medica]] — Individual herb profiles for liver herbs
+Herbs that affect liver function can alter the metabolism of pharmaceutical drugs that are processed by the liver's cytochrome P450 enzyme system. Milk thistle may actually protect the liver from drug-induced damage but can also affect drug metabolism. Always consult the [[herbal-medicine-safety]] for general safety principles and [[digestive-herbs-and-bitters]] — Bitters and their effect on liver and bile
 - [[herb-drug-interactions]] — Liver enzyme interactions with medications
-- [[herbal-formulation-principles]] — Liver inflammation and herbal support
 - [[herbal-formulation-principles]] — Designing liver support formulas
 - [[herbal-formulation-principles]] — Dosing for hepatoprotective herbs
 - liver and detoxification herbs

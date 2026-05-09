@@ -25,30 +25,7 @@ surfaces before fall planting. This translates to approximately 2 to
 4 cubic yards per 100 square feet of bed area. The compost is
 incorporated into the top 4 to 6 inches of soil using a garden fork
 or through the broadforking process described in
-[[coleman-minor-tillage-bed-preparation]].
-
-The compost serves multiple functions: it supplies a balanced range of
-macronutrients and micronutrients, improves soil structure and water-
-holding capacity, feeds beneficial soil organisms, and provides a slow-
-release nutrient source that sustains crops through the winter months
-when microbial activity is reduced.
-
-Coleman insists on fully finished compost for fall applications.
-Partially decomposed material will continue breaking down during
-winter, but the decomposition process generates heat that can be
-wasted and may create anaerobic pockets in cold, wet soil. Well-cured
-compost, aged 6 to 12 months, provides stable nutrition without
-undesirable side effects.
-
-## Mineral Amendments
-
-In addition to compost, Coleman applies mineral amendments based on
-soil test results. Key amendments for winter crop beds include:
-- **Limestone:** To adjust pH to the 6.2 to 6.8 range preferred by
-  most winter greens. Agricultural limestone or dolomitic limestone
-  is applied in fall to allow time for pH adjustment before planting.
-- **Phosphorus:** Rock phosphate or bone meal incorporated at
-  planting to support root development. [[phosphorus-availability]]
+[[phosphorus-availability]]
   decreases in cold soil, so adequate levels must be present before
   temperatures drop.
 - **Potassium:** Greensand or sulfate of potash-magnesia (sul-po-mag)
@@ -104,43 +81,6 @@ Coleman supports soil biology through consistent compost additions,
 minimal tillage, and the avoidance of synthetic fertilizers and
 pesticides that disrupt microbial communities. Cover cropping during
 fallow periods maintains living roots in the soil, which feed
-[[mycorrhizal-networks]] and other beneficial organisms.
-
-## Pre-Planting Fertility Assessment
-
-Before each fall planting season, Coleman conducts soil tests to
-assess nutrient levels, pH, organic matter content, and cation
-exchange capacity. These tests guide amendment rates and identify
-deficiencies that could limit winter crop performance. Regular testing
-over multiple years reveals trends and helps refine the fertility
-program.
-
-Organic matter levels are particularly important for winter production.
-Soils with less than 3 percent organic matter have poor water-holding
-capacity and are more prone to compaction and temperature extremes.
-Coleman targets 5 percent or higher organic matter in his production
-beds through consistent composting and cover cropping.
-
-## Moisture Management Before Winter
-
-Adequate soil moisture at planting time is critical for germination
-and establishment. Beds should be watered thoroughly after seeding
-or transplanting. Once crops are established, irrigation frequency
-decreases as cooler temperatures and lower evapotranspiration reduce
-water demand.
-
-Excessive soil moisture in winter promotes root rot and other diseases.
-Good bed drainage, achieved through proper shaping and adequate organic
-matter, prevents waterlogging. Coleman monitors soil moisture throughout
-winter and adjusts row cover management to prevent excessive
-condensation and trapped moisture within the growing environment.
-
-## Cover Cropping Exposed Beds
-
-Beds that are not planted to winter crops should be cover cropped to
-protect the soil. Winter rye, field peas, crimson clover, or oats
-provide ground cover, scavenge residual nutrients, and add organic
-matter when terminated in spring. This is especially relevant in the
 [[coleman-moveable-greenhouse-system]] where beds are periodically
 exposed to open conditions and need active soil building.
 

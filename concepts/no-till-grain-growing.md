@@ -107,12 +107,8 @@ Understanding when grain is ready:
 
 ## Related Topics
 
-- [[duck-rice-paddy]] — detailed rice paddy construction
 - [[grain-harvesting-and-storage]] — harvest and storage methods
-- [[fukuoka-seed-ball-technique]] — Fukuoka's seed ball method
 - [[pasture-management-and-forage]] — rotational land use
-- [[composting-and-soil-biology]] — no-till principles in vegetable gardens
 - [[fukuoka-natural-farming]] — Fukuoka's philosophy and methods
-- [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-vegetable-growing-natural-method]]
 - [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]

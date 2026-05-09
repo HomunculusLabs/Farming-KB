@@ -21,35 +21,7 @@ sources:
 
 ## Overview
 
-**Oudemansiella mucida** (Schrad.) Höhn., commonly known as the porcelain mushroom or poached egg fungus, is a basidiomycete fungus in the family Physalacriaceae. It is one of the most visually distinctive mushrooms of temperate European forests, producing clusters of translucent, white to cream-colored fruiting bodies on the dead or dying branches of living beech trees (*[[fagus-sylvatica]]*).
-
-The species is both saprotrophic and weakly parasitic, colonizing the bark of living beech trees and eventually contributing to branch dieback. Its translucent, jelly-like appearance when fresh — combined with its habit of growing in overlapping clusters on exposed beech branches — makes it one of the more recognizable woodland fungi. The porcelain mushroom is edible and highly regarded in some European countries, particularly in Central and Eastern Europe.
-
-## Taxonomy and Morphology
-
-### Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Physalacriaceae
-- **Genus:** Oudemansiella
-- **Species:** O. mucida
-
-The species was originally described by Heinrich Schrader in 1794 as *Agaricus mucidus*, the epithet referring to the slimy or mucilaginous cap surface. It was transferred to *Oudemansiella* by Franz von Höhnel in 1910. The genus name honors the Dutch mycologist Cornelius Anton Jan Abraham Oudemans. Some authorities place the species in *Armillaria* or *Xerula*, but molecular phylogenetic studies support its placement in *Oudemansiella* within the Physalacriaceae.
-
-### Macroscopic Features
-
-**Cap:** 3–10 cm diameter, convex to plano-convex, sometimes with a slight umbo. Surface is strikingly translucent when fresh and wet, appearing almost gelatinous or porcelain-like. Color is white to pale cream or ivory, often with a slightly darker center. The entire cap surface is covered with a thick, clear, glutinous slime layer (pellicle) that is characteristically slippery and viscid.
-
-**Gills:** Sinuate to adnate-decurrent, relatively distant to subdistant. White to cream-colored, often with a faint pinkish tinge. The gills are thick, waxy-looking, and partially protected from the cap slime by the stipe.
-
-**Stipe:** 4–8 cm tall, 0.5–1.5 cm thick, cylindrical and often curved. Surface is white and covered with a distinct ring (annulus) in the upper third, below which the stipe may be scaly or fibrillose. The stipe is solid and fibrous. The annulus is persistent, membranous, and often slimy on the upper surface.
-
-**Flesh:** White, firm, and rubbery in texture. Odor is mild, pleasant, and mushroomy. Taste is mild and slightly sweet.
-
-**[[spore-print]]:** White.
+**Oudemansiella mucida** (Schrad.) Höhn., commonly known as the porcelain mushroom or poached egg fungus, is a basidiomycete fungus in the family Physalacriaceae. It is one of the most visually distinctive mushrooms of temperate European forests, producing clusters of translucent, white to cream-colored fruiting bodies on the dead or dying branches of living beech trees (*[[spore-print]]:** White.
 
 ### Microscopic Features
 
@@ -121,12 +93,5 @@ In regions where beech forests are declining, *O. mucida* populations are corres
 
 ## Similar Species
 
-- ***[[armillaria-mellea]]*** (honey fungus): Also grows in clusters on wood but has a honey-colored cap, a distinct ring, and firm white flesh that does not have the translucent, slimy quality.
-- ***Oudemansiella canarii***: A tropical species with a brownish cap and more robust stature.
-- ***Xerula radicata*** (rootling shank): Has a long, rooting stipe and a more umbonate, less slimy cap. Found growing from buried wood rather than on exposed branches.
-
-## See Also
-
-- [[lions-mane-hericium-erinaceus]]
-- [[mushroom-cultivation-basics]]
-- [[amanita-muscaria]]
+- ***[[lions-mane-hericium-erinaceus]]
+- [[amanita-muscaria-entity]]

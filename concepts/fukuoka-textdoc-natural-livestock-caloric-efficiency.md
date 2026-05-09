@@ -138,8 +138,6 @@ a clear priority over the development of superior methods for catching fish.
 
 ## See Also
 
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-duck-rice-fish-polyculture]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]

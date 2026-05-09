@@ -21,7 +21,7 @@ tags:
 
 # AACT Aerobic vs Anaerobic Brew Comparison — Ingham Framework
 
-Dr. [[elaine-ingham]]'s systematic comparison of aerobic (AACT) versus anaerobic (FCT — Fermentative Compost Tea) brewing methods, evaluating both against five criteria for beneficial soil amendments. The framework demonstrates why [[actively-aerated-compost-tea]] is fundamentally different from and superior to anaerobic fermentative teas for soil and plant health.
+Dr. [[actively-aerated-compost-tea]] is fundamentally different from and superior to anaerobic fermentative teas for soil and plant health.
 
 ## The Five Criteria for Beneficial Amendments
 
@@ -76,25 +76,7 @@ Anaerobic brews cannot perform nutrient cycling:
 1. **No beneficial fungi**: Strictly aerobic; cannot survive anaerobic conditions.
 2. **No flagellates or amoebae**: The primary nutrient cyclers cannot survive without oxygen.
 3. **No nematodes**: Killed by anaerobic conditions.
-4. **Nutrient volatilization**: Nitrogen is lost as ammonia and [[nitrous-oxide]] (a potent greenhouse gas). Sulfur is lost as hydrogen sulfide (rotten-egg smell).
-5. **Acidic pH**: Organic acids drive pH down, further disrupting nutrient availability.
-
-Nutrients become locked in bacterial biomass without protozoa and nematodes to release them, while simultaneously being lost to the atmosphere.
-
-## Criterion 3: Soil Nutrient Levels
-
-AACT adds soluble nutrients extracted from compost, plus additional nutrients from amendments (kelp for micronutrients, fish hydrolysate for nitrogen, humic acid for carbon). These are delivered in biological forms that resist leaching.
-
-Anaerobic brews deplete soil nutrients. Nitrogen, sulfur, and phosphorus are converted to gaseous forms and lost. Applied to soil, anaerobic materials can create localized nutrient sinks.
-
-## Criterion 4: Soil Structure
-
-### Aerobic Structure Building
-
-AACT builds soil structure through a multi-scale process:
-
-1. **Bacteria produce glues** binding particles into microaggregates (<0.25mm).
-2. **[[fungal-hyphae]] produce glues** binding microaggregates into macroaggregates (>0.25mm), with hyphae physically enmeshing soil particles.
+4. **Nutrient volatilization**: Nitrogen is lost as ammonia and [[fungal-hyphae]] produce glues** binding microaggregates into macroaggregates (>0.25mm), with hyphae physically enmeshing soil particles.
 3. **Protozoa, nematodes, and microarthropods** create pores as they move through soil, forming channels for air and water.
 4. **Earthworms** create macropores that function as water reservoirs against gravity.
 
@@ -133,4 +115,4 @@ Proponents of anaerobic teas cite plate count studies showing pathogen inhibitio
 
 - Ingham, E.R. (2004). *The Field Guide I for Actively Aerated Compost Tea (AACT)*. Sustainable Studies Institute.
 - Nelson, E.B. (Cornell University) — plate count vs. disease suppressiveness research.
-- Ingham, E.R. et al. (1985). Ecological Monograph — foundational [[soil-food-web]] research.
+- Ingham, E.R. et al. (1985). Ecological Monograph — foundational [[ingham-worm-leachate-versus-aact-comparison]]

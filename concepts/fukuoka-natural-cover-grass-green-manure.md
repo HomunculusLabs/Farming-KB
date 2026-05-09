@@ -43,21 +43,7 @@ some weaken other plants, and some die while others thrive as undergrowth.
 
 By studying and making use of the properties of weeds, one weed can be used
 to drive out a large number of other weeds. If the farmer were to grow
-grasses or [[green-manure-crops]] that take the place of undesirable weeds and
-are beneficial to him and his crops, then he would no longer have to weed. In
-addition, the green manure would enrich the soil and prevent its erosion.
-
-## Orchard Application
-
-By "killing two birds with one stone" in this way, growing fruit trees and
-tending an orchard can be made easier and more advantageous than normal
-methods. In fact, from direct experience, there is no question that weeding
-in orchards is not only useless, it is positively harmful. The ground cover
-provides multiple simultaneous benefits: soil protection, nitrogen fixation,
-organic matter accumulation, moisture retention, and habitat for beneficial
-organisms.
-
-This approach contrasts sharply with conventional [[orchard-management]], which
+grasses or [[orchard-management]], which
 insists on maintaining bare soil between tree rows through repeated herbicide
 application or mechanical cultivation. Bare soil is exposed to erosion, loses
 organic matter rapidly, and becomes dependent on chemical inputs to maintain
@@ -107,29 +93,9 @@ shrubs as slowing the growth of trees, one should feel instead a sense of
 wonder and amazement at the ability of these plants to grow together in this
 way.
 
-The [[fukuoka-natural-weed-management]] philosophy of
-natural farming asks farmers to shift from an adversarial relationship with
-weeds to one of observation, understanding, and strategic use. The
-[[fukuoka-white-clover-cover-crop-system]] is one
+The [[fukuoka-white-clover-cover-crop-system]] is one
 practical expression of this principle, providing a template for how
-[[fukuoka-natural-orchard-management]] can work with
-rather than against the natural tendency of plants to form diverse, mutually
-supportive communities.
-
-## Practical Guidelines for Ground Cover
-
-When establishing a ground cover system, several principles apply. First,
-observe what plants naturally appear on the land and work with these rather
-than imposing a predetermined cover crop. Second, understand that succession
-is natural: early pioneer species will give way to more permanent covers over
-time. Third, avoid the temptation to eliminate all "weeds" selectively;
-instead, allow a diverse plant community to develop.
-
-The ground cover serves as a biological mulch that regulates soil
-temperature, retains moisture, prevents erosion, and provides a continuous
-supply of organic matter as plants die back and decompose. Leguminous covers
-such as clover fix atmospheric nitrogen, reducing or eliminating the need for
-external nitrogen inputs. The root systems of [[ground-cover-plants]] create
+[[ground-cover-plants]] create
 channels for water infiltration and air exchange, improving soil structure
 without any mechanical cultivation.
 
@@ -147,4 +113,3 @@ into the earth loosens the soil. When the roots die, this adds to the humus,
 allowing soil microbes to proliferate and enrich the soil. Rainwater
 percolates through the soil and air is carried deep down, supporting
 earthworms, which eventually attract moles. Weeds and grasses are absolutely
-essential for a soil to remain organic and alive.

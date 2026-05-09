@@ -110,13 +110,8 @@ sustainable source of berberine for small-scale herbal production.
 
 ## See Also
 
-- [[berberine]]
 - [[mahonia-aquifolium]]
-- [[coptis-chinensis]]
 - [[berberis-vulgaris]]
-- [[hydrastis-canadensis]]
 - [[sanguinaria-canadensis]]
-- [[scutellaria-baicalensis]]
 - [[glycyrrhiza-glabra]]
-- [[panax-ginseng]]
 - [[azadirachta-indica]]

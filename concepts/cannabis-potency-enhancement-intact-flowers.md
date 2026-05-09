@@ -64,13 +64,11 @@ The flowers are now coated with intensified oil and can be over 12× their origi
 - Medical applications requiring precise dosing with enhanced material
 - Maximizing the value of a given harvest
 
-See also [[cannabis-oil-isomerization]], [[cannabis-thc-acetate-preparation]], [[cannabis-extraction-basics]], and [[cannabis-hash-making-from-extracted-oil]].
+See also [[cannabis-thc-acetate-preparation]], [[cannabis-hash-making-from-extracted-oil]].
 
 ## See Also
 
-- [[lemon-cannabis-alchemy-potency-enhancement]]
-
-[[cannabis-potency-enhanced-flowers]], [[cannabis-potency-maximization]], [[cannabis-microbial-terpene-enhancement]], [[cannabis-for-mental-health]], [[cannabis-ph-management-and-soil-flushing]], [[cannabis-for-atherosclerosis]], [[cannabis-flowering-stage-management]], [[cannabis-drug-interactions-and-contraindications]]
+- [[cannabis-potency-enhanced-flowers]], [[cannabis-microbial-terpene-enhancement]], [[cannabis-ph-management-and-soil-flushing]], [[cannabis-flowering-stage-management]], [[cannabis-drug-interactions-and-contraindications]]
 
 ## Practical Applications
 

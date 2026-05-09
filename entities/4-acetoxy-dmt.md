@@ -142,8 +142,10 @@ As interest in psychedelic-assisted psychotherapy expands, 4-AcO-DMT is being co
 - **Advantages over psilocybin:** Greater chemical stability (psilocybin is sensitive to oxidation and hydrolysis); potentially better oral bioavailability due to increased lipophilicity; easier and more economical to synthesize at scale; more consistent dosing without the variability inherent in natural mushroom material
 ## See Also
 
-- [[psilocybin-compound]] — Natural phosphate prodrug of psilocin, the primary psychedelic compound in magic mushrooms
 - [[psilocin]] — Active metabolite of both psilocybin and 4-AcO-DMT
-- [[4-po-dmt]] — Alternative name for psilocybin
 - [[dmt]] — N,N-Dimethyltryptamine, the parent compound of the 4-substituted tryptamines
-- [[5-ht2a-receptor]] — Primary receptor target mediating psychedelic effects
+- 5 ht2a receptor — Primary receptor target mediating psychedelic effects
+
+## See Also
+
+- [[psychedelic-drug-testing-and-adulterant-screening]]

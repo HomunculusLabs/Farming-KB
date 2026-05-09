@@ -12,10 +12,7 @@ type: concept
 # KNF Chitosan Preparation
 
 Chitosan is a natural bioactive compound derived from the exoskeletons of
-crustaceans such as crabs and shrimp. In [[korean-natural-farming]] (KNF),
-chitosan serves as a plant strengthening agent, disease suppressant, and
-growth regulator. It is prepared by extracting chitin from roasted shells
-using [[knf-brown-rice-vinegar]] (BRV) as a solvent. The
+crustaceans such as crabs and shrimp. In [[knf-brown-rice-vinegar]] (BRV) as a solvent. The
 resulting chitosan solution is applied throughout the cultivation period to
 improve plant vigor, enhance disease resistance, and support overall crop
 health.
@@ -35,16 +32,7 @@ systems where synthetic chemical pesticides are avoided.
 ## Materials Needed
 
 - Crab shells or shrimp shells (fresh or dried)
-- [[knf-brown-rice-vinegar]] (BRV)
-- A well-ventilated roasting area or oven
-- Clay jar or glass container for extraction
-- Grinding tool (mortar and pestle or mill)
-
-## Roasting the Shells
-
-The first and most critical step is roasting the shells to remove organic
-residues and make the chitin accessible for extraction. The roasting process
-is similar to that used for making [[water-soluble-calcium-wca]] from eggshells, but it takes considerably longer for crab and
+- [[water-soluble-calcium-wca]] from eggshells, but it takes considerably longer for crab and
 shrimp shells due to their thicker structure. The shells should be roasted
 until they become brittle and their color brightens noticeably from the
 original dark hue, similar to how eggshells whiten when properly roasted.
@@ -68,24 +56,7 @@ amber-colored liquid is the chitosan solution ready for use.
 ## Application Guidelines
 
 Dilute the chitosan solution with water at a ratio of 1:1,000 and apply as
-a foliar spray or soil drench. It can be mixed with other [[korean-natural-farming]] inputs during the entire cultivation period. Key application
-points include:
-
-- During vegetative growth to strengthen cell walls and improve structural
-  integrity of stems and leaves.
-
-- At the onset of flowering to support reproductive development and improve
-  fruit set.
-
-- During periods of disease pressure, as chitosan's elicitor properties can
-  activate plant defense responses against fungal pathogens.
-
-- As a general tonic throughout the growing season, particularly when plants
-  show signs of stress or weakness.
-
-## JADAM Approach to Chitosan
-
-In the [[jadam-making-organic-farming-inputs]] system, chitosan is produced through a
+a foliar spray or soil drench. It can be mixed with other [[jadam-making-organic-farming-inputs]] system, chitosan is produced through a
 microbial decomposition method rather than acid extraction. Crab and shrimp
 shell powder is combined with water (1:10 ratio by weight), wild grass, and
 a handful of leaf mold. This mixture ferments for more than three months as
@@ -104,7 +75,7 @@ enhanced disease resistance particularly against fungal pathogens; stronger
 stem and leaf structure; improved fruit quality including better taste and
 aroma; regulated growth patterns preventing excessive vegetative expansion;
 and synergistic effects when combined with other KNF inputs such as
-[[knf-oriental-herbal-nutrient]] and [[knf-fermented-plant-juice]].
+[[knf-fermented-plant-juice]].
 
 ## Nutritional Analysis
 
@@ -120,11 +91,10 @@ JADAM systems.
 ## Integration with Natural Farming Programs
 
 Chitosan fits naturally into comprehensive input programs. In KNF systems,
-it can be tank-mixed with [[lactic-acid-bacteria-knf]] and
-[[query-how-do-i-use-beneficial-indigenous-microorganisms]] solutions for enhanced disease protection.
+it can be tank-mixed with [[query-how-do-i-use-beneficial-indigenous-microorganisms]] solutions for enhanced disease protection.
 In JADAM programs, chitosan liquid fertilizer is applied from mid to late
 growth stages to control excessive growth and improve crop quality. When
 combined with seawater, humus soil liquid fertilizer, and phyllite solution,
 chitosan contributes to an integrated approach that addresses mineral
 nutrition, microbial activity, and plant defense simultaneously. See also
-[[knf-input-application-timing]] and [[knf-nutritive-cycle-theory]].
+[[knf-nutritive-cycle-theory]].

@@ -3,7 +3,7 @@ title: Permaculture Food Forests (Design Course)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -75,13 +75,8 @@ These elements can **inextricably mix** in patchwork — not separate blocks.
 
 ## Related
 
-- [[permaculture-beginners-guide-food-forests-introduction]] Topics
-
 - [[permaculture-food-forest-design-principles]]
-- [[forests-in-permaculture]]
 - [[permaculture-tree-crop-systems]]
-- [[permaculture-succession]]
 - [[urban-permaculture-food-forest-succession]]
-- [[mollison-food-forests-and-structural-forests]]
 - [[mollison-how-much-land-for-self-sufficiency]]
 - [[fukuoka-orchard-soil-building-without-fertilizers]]

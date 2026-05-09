@@ -135,16 +135,12 @@ germinate reliably.
 Prefers partial to full shade, moist organic soil, and a cool root run.
 Establishes slowly but forms long-lived, dense clumps. Excellent choice
 for shade gardens, woodland borders, and naturalistic plantings. Minimal
-pest or disease problems when properly sited.
-
 ## See Also
 
 - [[steve-solomon]]
-- [[garden-hand-tools-solomon]]
 - [[solomon-raised-beds]]
 
 [[convallaria-majalis]]
 polygonatum biflorum
 polygonatum biflorum
 diosgenin
-steroidal saponin

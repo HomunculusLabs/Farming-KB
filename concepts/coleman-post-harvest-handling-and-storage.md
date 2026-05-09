@@ -112,12 +112,8 @@ pleasant way of doing any job."
 
 ## Related Concepts
 
-- [[coleman-direct-marketing-and-csa-models]] — how packaging and
-  presentation build brand loyalty
 - [[coleman-winter-harvesting-techniques]] — harvest methods that
   influence post-harvest quality
-- [[coleman-marketing-economics]] — pricing strategy and market
-  positioning
 - [[coleman-year-round-marketing-calendar]] — seasonal demand affecting
   packing volumes
 - [[coleman-small-farm-equipment-and-tools]] — harvest knives, spinners,

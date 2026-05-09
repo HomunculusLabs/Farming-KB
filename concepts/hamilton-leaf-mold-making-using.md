@@ -18,18 +18,7 @@ type: concept
 
 Leaf mold is one of the finest soil conditioners available to the organic
 gardener, yet it requires nothing more than patience and autumn leaves.
-Unlike conventional [[hamilton-composting-and-organic-matter-management]],
-which relies primarily on bacterial activity, leaf mold is broken down by
-fungi that need more light and less air than bacteria. This slower fungal
-decomposition produces a dark, crumbly material that is exceptionally good
-for soil structure, moisture retention, and as a potting medium.
-
-## Why Make Leaf Mold
-
-Leaves contain lignin, a tough structural compound that makes them slow to
-rot. While this means you must wait longer than for ordinary compost, the
-resulting leaf mold is well worth the patience. Leaf mold is generally
-considered too valuable simply for [[hamilton-mulching-materials-and-techniques]]
+Unlike conventional [[hamilton-mulching-materials-and-techniques]]
 or digging into beds — its finest use is as a component of potting and
 seed-sowing compost. When fully decomposed, leaf mold has a lovely friable
 texture that holds moisture while remaining well-drained, making it ideal
@@ -90,10 +79,7 @@ and improves drainage. A layer of leaf mold worked into the top few
 inches of soil will noticeably improve its workability and fertility
 over time.
 
-Leaf mold also serves as an excellent [[hamilton-mulching-materials-and-techniques]]
-around ornamental plants, helping to suppress weeds, conserve moisture,
-and maintain an even soil temperature. For the vegetable garden, it can
-be incorporated into the [[hamilton-vegetable-bed-preparation]]
+Leaf mold also serves as an excellent [[hamilton-vegetable-bed-preparation]]
 process to add organic matter without the relatively high nutrient load
 of fully mature garden compost.
 
@@ -121,7 +107,6 @@ requires minimal effort — simply collect autumn leaves, pile them in a
 simple enclosure, and wait. The resulting material is among the finest
 soil conditioners available, providing excellent structure, moisture
 retention, and a perfect medium for potting and seed sowing. Combined
-with [[hamilton-composting-and-organic-matter-management]]
-and [[hamilton-animal-manure-types-and-use]], leaf mold
+with [[hamilton-animal-manure-types-and-use]], leaf mold
 completes the organic gardener's toolkit for building and maintaining
 healthy, fertile soil.

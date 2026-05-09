@@ -64,39 +64,28 @@ spore. Some even ingest organic matter directly, contributing to decomposition.
 
 Arguably the most important function of nematodes (at least the bacterivores
 and fungivores) is mineralization. Nematodes need less nitrogen than
-[[protozoa-roles-in-soil]], so those that eat fungi and bacteria
-release even more of the previously immobilized nitrogen into the rhizosphere
-in ammonium form. If nitrogen-fixing bacteria populations are low (pH below
-7), the mineralized nitrogen remains predominantly as ammonium rather than
-converting to nitrate.
-
-## Bacterial and Fungal Transport
-
-Nematodes play an important role in transporting bacteria and fungi to new
-locations. Bacteria attach to nematode skin and are spread as the nematode
-moves through soil -- a "taxi service" for otherwise immobile bacteria. Fungi
-can also hitch a ride, sometimes as parasites on the nematode itself.
-
-## Food Finding
-
-Despite having no eyes, nematodes locate food through:
-
-- Sensing minute temperature variations and moving along temperature gradients
-- Detecting specific chemicals associated with food sources and acting like
-  heat-seeking missiles
-
-## Soil Requirements
-
-Nematodes require porous soils to travel through. Compacted or poorly textured
-soil blocks their movement, reducing their numbers and diminishing the flow of
-nitrogen to plants.
-
-See also: [[protozoa-roles-in-soil]], [[soil-food-web-structure]],
-[[bacterial-vs-fungal-soil-dynamics]]
+[[protozoa-roles-in-soil]], [[bacterial-vs-fungal-soil-dynamics]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[teaming-with-microbes-plant-control]]
+## Practical Considerations
+
+Successful implementation of Nematode Roles in Soil requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Amazonian Vegetalista Shamanism Degrees and Hierarchy
@@ -76,13 +77,8 @@ Through repeated dietas, the shaman accumulates an arsenal of plant allies, each
 
 ## Related Topics
 
-- [[amazonian-sorcery-illness-and-curing-practices]]
-
 - [[ayahuasca-preparation-and-ceremony]] -- the primary plant-teacher of the vegetalista
-- [[shipibo-icaros-healing-songs]] -- detailed treatment of icaros
 - [[hallucinogens-and-shamanism-harner-anthology]] -- tobacco as a fundamental tool in vegetalismo
 - Mariri And Yachay Magical Phlegm And Knowledge -- the magical substances of the shaman
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 - [[amazonian-ayahuasca-purge-and-diet-practices]]
-- [[fukuoka-learning-about-nature-distances-one-from-nature]]
 - [[teaming-with-microbes-plant-control]]

@@ -57,66 +57,25 @@ The human body produces at least five identified endocannabinoids:
 
 ### Tetrahydrocannabinol (THC)
 
-The primary psychoactive constituent of [[cannabis-plant-anatomy]], whose chemical structure was discovered in 1964 by Raphael Mechoulam and Yechiel Gaoni. THC mimics anandamide by binding equally to CB1 and CB2 receptors. Beyond its psychoactive effects, THC demonstrates:
-
-- Heart-protective properties (reduces heart attack size, protects cells against hypoxia)
-- Bronchodilation (enlargement of airways)
-- Weight gain promotion in conditions like COPD
-- Neuroprotective effects via CB1 activation
-
-THC content varies by strain, growing conditions (indoor vs. outdoor), freshness, and storage. Fresh cannabis contains non-psychoactive THC-carboxylic-acid, which becomes psychoactive THC through decarboxylation by heat during drying or combustion. THC degrades over time with exposure to UV light, heat, and moisture.
-
-### Cannabidiol (CBD)
-
-A non-psychoactive cannabinoid with greater affinity for CB2 than CB1 receptors. CBD's therapeutic influence largely stems from its ability to inhibit fatty acid amide hydrolase (FAAH), the enzyme that breaks down anandamide. By suppressing FAAH, CBD keeps anandamide active at higher concentrations and for longer durations. CBD also modulates the psychoactive effects of THC, allowing patients to benefit from THC's therapeutic properties at higher concentrations. CBD shows particular promise for:
-
-- Neurodegenerative illness treatment
-- Inflammatory conditions
-- Cancer therapy
-- Epilepsy and seizure management
-
-### (E)-beta-Caryophyllene ((E)-BCP)
-
-A dietary cannabinoid found in black pepper, cloves, and other spices that selectively activates CB2 receptors. As a common dietary component, it represents an everyday source of cannabinoid receptor activation.
-
-## Physiological Functions of the ECS
-
-The endocannabinoid system is involved in a wide range of critical biological processes:
-
-### Neurogenesis and Neuroplasticity
-
-The ECS initiates the production of new nerve cells (neurogenesis), essential for recovery from brain damage, memory function, and learning. It supports neuroplasticity, the brain's ability to form new connections and adapt to experiences. When individuals try new things, they literally change brain functions for the better through ECS-mediated processes.
-
-### Immune System Regulation
-
-The ECS balances and strengthens immune system function, initiating protective responses against pathogens while preventing excessive inflammation that can damage tissues.
-
-### Pain Control
-
-Through both CB1 (CNS) and CB2 (peripheral) receptor activation, the ECS modulates pain signaling pathways, providing natural analgesic effects.
-
-### Cancer Protection
-
-When properly activated, the ECS is capable of suppressing numerous types of cancers. Anandamide and other endocannabinoids have demonstrated anti-tumor properties across multiple cancer types.
-
-### Mind-Body Connection
-
-The ECS demonstrates measurable connections between emotional states and physical health. A frame of mind producing guilt or shame negatively impacts immune function, while positive states like open-mindedness, creativity, humor, gratitude, and forgiveness are associated with beneficial physiological changes.
-
-## Synthetic Cannabinoids
-
-Pharmaceutical cannabinoids include Sativex (plant-derived tincture), Dronabinol, Marinol, and Nabilone. These are FDA-approved for conditions including AIDS-related anorexia, chemotherapy-induced nausea, neurological disorders, inflammatory conditions, and PTSD. However, with the exception of Sativex, they lack the full spectrum of biologically active cannabis components.
-
-## Research Landscape
-
-Over 15,000 studies on cannabinoids exist in the U.S. National Library of Medicine, with approximately ten new studies published monthly examining the ECS. Major medical organizations supporting medical cannabis research include Kaiser Permanente, the California Medical Association, and the American Nurses Association.
-
-## See Also
-
-- [[cannabis-minor-cannabinoids]]
-- [[tetrahydrocannabinol-thc]]
+The primary psychoactive constituent of [[cannabis-minor-cannabinoids]]
 - [[cannabidiol-cbd]]
-- [[anandamide-aea]]
-- [[cannabis-therapeutics]]
-- neuroplasticity
 - [[cannabis-health-index]]
+## Practical Considerations
+
+Successful implementation of Endocannabinoid System requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

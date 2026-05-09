@@ -99,23 +99,13 @@ The flowers attract a wide range of pollinators, including bees, butterflies, an
 
 ## See Also
 
-- [[taraxacum-officinale]]
 - [[rumex-acetosa]]
-- [[centaurea-cyanus]]
 - [[plantago-major]]
-- [[plantago-lanceolata]]
 - [[trifolium-pratense]]
-- [[medicago-sativa]]
 - [[borago-officinalis]]
-- [[achillea-millefolium]]
-- [[rosmarinus-officinalis-entity]]
+- achillea-millefolium
 - [[valeriana-officinalis]]
-- [[glycyrrhiza-glabra]]
-- [[chicory]]
 - [[dandelion]]
-- [[rumex-crispus]]
 - [[nasturtium-officinale]]
-- [[levisticum-officinale]]
 - [[anethum-graveolens]]
-- [[foeniculum-vulgare]]
 - [[petroselinum-crispum]]

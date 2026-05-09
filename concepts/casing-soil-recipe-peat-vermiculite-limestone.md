@@ -1,7 +1,7 @@
 ---
 title: "Casing Soil Recipe and Sterilisation Debate in Small-Scale Mushroom Cultivation"
 created: 2026-05-06
-tags: [mycology, casing-soil, peat, vermiculite, limestone, sterilisation, pasteurisation, mushroom-cultivation, contamination]
+tags: [[mycology, casing-soil, peat, vermiculite, limestone, sterilisation, pasteurisation, mushroom-cultivation, contamination]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
@@ -132,8 +132,6 @@ casing maintenance throughout the fruiting cycle.
 
 ## Related Concepts
 
-- [[grass-seed-substrate-preparation]]
 - [[casing-soil-sterilisation-debate-mushroom-cultivation]]
-- [[cotter-casing-soils-microbial-triggers]]
 - [[fruiting-chamber-design-and-environmental-control]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

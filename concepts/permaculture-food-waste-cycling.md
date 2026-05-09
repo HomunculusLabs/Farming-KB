@@ -9,13 +9,13 @@ sources: []
 
 # Permaculture Food Waste Cycling
 
-Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "produce no waste" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and [[building-soil]] fertility.
+Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "produce no waste" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and building soil fertility.
 
 ## The Waste Hierarchy
 
 1. **Reduce** — minimize waste through better planning, preservation, and storage
 2. **Feed to animals** — direct conversion of food scraps to eggs, meat, and manure
-3. **Compost** — biological [[decomposition]] into stable humus
+3. **Compost** — biological decomposition into stable humus
 4. **Vermicompost** — worm-processed compost, higher in nutrients
 5. **Bokashi** — anaerobic fermentation for including meat and dairy
 6. **Biogas** — anaerobic digestion producing methane for cooking/heating

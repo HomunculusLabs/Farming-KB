@@ -128,4 +128,4 @@ Our future lies in the mind; our weary planet's only hope of survival is that we
 
 Change, more radical by magnitudes than anything that has yet been experienced, is coming. The tryptamine dimension, accessed through DMT, represents the frontier of that journey into the unknown.
 
-See also: [[mckenna-dmt-experience-and-hyperspace]], [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]], [[mckenna-overmind-and-vegetable-mind]], [[mckenna-transcendent-other-and-exopheromones]], [[mckenna-octopus-intelligence-and-archaic-mind]]
+See also: [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], [[mckenna-overmind-and-vegetable-mind]], [[mckenna-octopus-intelligence-and-archaic-mind]]

@@ -3,7 +3,7 @@ title: Marine Fungi — Diversity and Sampling Methods
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -96,11 +96,7 @@ In multiple habitats, a predictable zonation occurs from marine (near water/sedi
 
 ## See Also
 
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[fungal-species-richness-and-diversity-indices]]
-- [[soil-fungal-isolation-techniques]]
 - [[fungicolous-fungi-parasites-associates]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[insect-associated-fungi-sampling-diversity]]
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[fungal-nutrient-cycling-forests]]

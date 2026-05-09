@@ -8,10 +8,7 @@ type: concept
 tags: [gardening]
 ---
 
-# Container and [[raised-bed-gardening]]
-
-Container gardening is ideal for small gardens, patios, balconies, and for
-growing plants that require special soil conditions. [[geoff-hamilton]]
+# Container and [[geoff-hamilton]]
 emphasizes that containers are not just a substitute for garden beds --
 they offer unique opportunities for creative planting and for catering to
 specific plant needs.
@@ -127,5 +124,5 @@ top of the existing soil and plant directly into this. This avoids
 disturbing the soil structure and preserves the activity of soil
 organisms. Particularly effective for heavy clay soils.
 
-See also: [[hamilton-organic-soil-management]], [[hamilton-herb-garden-design]],
-[[hamilton-vegetable-planning-rotation]], [[hamilton-organic-fruit-growing]]
+See also: [[hamilton-herb-garden-design]],
+[[hamilton-organic-fruit-growing]]

@@ -15,17 +15,7 @@ sources:
 
 An area of grass is a highly desirable garden feature. It makes an excellent feeding place for birds, a comfortable playing surface for children, and a superb "foil" to the plants in the borders. When planning a lawn you will also be shaping the flower borders. Long, sweeping curves of grass make the garden look bigger and are easier to cut. A small patch left to grow tall with sown wildflowers creates a miniature meadow attracting useful insect predators.
 
-[[geoff-hamilton-organic-techniques]] believed that the organic lawn should be a living ecosystem rather than a sterile green carpet. A lawn managed without synthetic chemicals supports earthworms, beneficial fungi, and a diverse population of soil organisms that keep the turf naturally healthy.
-
-## Preparing the Site
-
-Begin with a stale seedbed: cultivate the area a few weeks before sowing so dormant weed seeds germinate, then hoe them out. This eliminates the vast majority of weed competition before the grass is sown.
-
-1. Rake the area roughly with the back of a fork to level out local undulations.
-
-2. If soil is light or lacks organic matter, apply a 2in (5cm) layer of compost and rake it in. For heavy soil, use coarse sand instead.
-
-3. Rake in two handfuls of [[mollison-aquaculture-harvest-and-fish-nutrition]] per square yard/meter.
+[[mollison-aquaculture-harvest-and-fish-nutrition]] per square yard/meter.
 
 4. Walk over the whole area with your weight on your heels to consolidate the soil, preventing later sinking.
 
@@ -63,11 +53,7 @@ Mow only during the growing season. Begin by raking earthworm casts around the l
 
 4. Never mow too close—this encourages bare patches colonized by moss and weeds.
 
-5. Always leave grass 1/2in (1cm) long and remove cuttings. Grass cuttings are the best possible [[mycelium-running-mycelium-soil-building]].
-
-6. Rake with a spring-tine rake at least once a year in spring to remove dead grass (thatch) before mowing begins.
-
-During [[hamilton-drought-gardening]], raise the cutting height to reduce stress on the grass. Leaving clippings on the lawn temporarily can help conserve moisture, though they should not be left so thickly that they smother the turf beneath.
+5. Always leave grass 1/2in (1cm) long and remove cuttings. Grass cuttings are the best possible [[hamilton-drought-gardening]], raise the cutting height to reduce stress on the grass. Leaving clippings on the lawn temporarily can help conserve moisture, though they should not be left so thickly that they smother the turf beneath.
 
 ## Maintaining Established Lawns
 
@@ -77,25 +63,7 @@ Proper drainage is essential. If the soil is waterlogged, air cannot reach roots
 
 ### Feeding
 
-Use slow-release [[mollison-aquaculture-harvest-and-fish-nutrition]] once or twice a year: early spring and optionally early summer. Alternatively, use a liquid manure feed high in nitrogen for instant greening results.
-
-For lawns showing signs of [[hamilton-nutrient-deficiencies-and-treatment]], such as yellowing or poor growth, a dressing of [[hamilton-organic-fertilizers-and-plant-nutrition]] in spring followed by a top-dressing of sieved compost in autumn will restore vigour without resorting to synthetic lawn feeds.
-
-### Weeding
-
-If grass grows well and is cut regularly, weed problems are minimal. Rosetted weeds (dandelions, daisies) can be controlled by cutting them out with a knife, or by dropping ordinary table salt on the growing point—this causes them to shrivel and die overnight.
-
-Moss is a common problem in damp, shaded, or poorly drained lawns. Address the underlying cause: improve drainage, thin overhanging trees, or apply a dressing of sharp sand mixed with phosphorus-availability|lime if the soil is acidic.
-
-### Repairing Coarse Patches
-
-Score the coarse patch in a criss-cross fashion with a penknife and reseed using an equal-parts mixture of seed, moist peat, and good soil.
-
-## Lawns in the Organic Garden
-
-The lawn area should be shaped to complement the border planting. In cottage-garden style, avoid formality: lay out edges in long, sweeping curves producing borders of varying widths. Allow space for a small patch to grow tall with wildflowers and bulbs to attract wildlife. The lawn should never run straight across the plot or straight down the middle in a small, informal garden.
-
-The [[hamilton-garden-layout-beds-borders-paths]] should integrate the lawn with surrounding borders so that it feels like part of a unified design rather than an isolated area of grass. Edging the lawn with low-growing [[hamilton-perennial-flowers-organic]] or [[hamilton-annual-flowers-organic]] softens the transition between turf and border.
+Use slow-release [[hamilton-nutrient-deficiencies-and-treatment]], such as yellowing or poor growth, a dressing of [[hamilton-garden-layout-beds-borders-paths]] should integrate the lawn with surrounding borders so that it feels like part of a unified design rather than an isolated area of grass. Edging the lawn with low-growing [[hamilton-annual-flowers-organic]] softens the transition between turf and border.
 
 ## Alternative Lawns
 
@@ -103,19 +71,11 @@ For areas where conventional grass struggles—deep shade, very dry conditions, 
 
 ## Related
 
-- [[soil-building-permaculture]]
-
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]
-
-- [[fertilizers-and-mycorrhizae]]
 
 - [[hamilton-drought-gardening]]
 
-- [[hamilton-nutrient-deficiencies-and-treatment]]
-
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
-
-- [[phosphorus-availability]]
 
 - [[hamilton-garden-layout-beds-borders-paths]]
 

@@ -24,77 +24,7 @@ Micropropagation is an alternative to seed and vegetative propagation for the pr
 
 Value can be added by exploiting the benefits of biological inoculants to protect plants at establishment, reduce production losses, and promote growth. If the benefits of inoculant are carried forward to improve field performance, this should command a higher selling price.
 
-See also: [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
-
-## The Weaning Problem
-
-### Physiological Challenges
-
-Stage 3 of micropropagation prepares microplants for weaning (termed in vitro weaning), which involves strategies to induce functionality in leaf and root function. Key problems include:
-
-- **Poor water relations**: Malfunctional stomata and thin cuticles where cuticular wax deposition has been impaired lead to desiccation
-- **Poor photosynthesis**: Underdeveloped photosystems sensitive to high light intensity
-- **Limited energy reserves**: Limited reserves may restrict expression of inducible defences
-- **Root dysfunction**: Newly formed roots may lack adequate function for water and nutrient uptake
-
-### Biological Vacuum Problem
-
-Micropropagules are produced in a biological vacuum in sterile laboratory conditions. Upon transplanting to a growing medium for weaning, they are immediately exposed to various microorganisms including:
-- Pathogens and facultative pathogens that cause damping-off
-- Beneficial organisms absent from the sterile weaning substrate
-
-Adding beneficial microorganisms to the weaning substrate may protect micropropagules against biotic and abiotic stress.
-
-## Available Inoculant Types
-
-### Arbuscular Mycorrhizal Fungi (AMF)
-
-AMF belong taxonomically to the phylum Glomeromycota and form symbiotic relationships with more than 80% of land plant species. Benefits include:
-- Increased plant growth through improved nutrient uptake, especially phosphorus
-- Improved water relations and drought tolerance
-- Alleviation of biotic and abiotic stress
-- Improved soil aggregation
-- Possible interaction with plant hormonal systems
-
-AMF function as:
-- **Biofertilizers**: Improvers of nutrient and water uptake
-- **Biocontrol agents**: Protection against pathogens
-- **Bioregulators**: Modulators of plant physiology
-
-The plant pays a price of 10-20% of net photosynthates for mycorrhizal formation, maintenance, and function.
-
-See also: [[arbuscular-mycorrhizal-fungi]], [[arbuscular-mycorrhizal-colonization-patterns]]
-
-### Plant Growth-Promoting Rhizobacteria (PGPR)
-
-PGPR are non-nitrogen-fixing rhizobacteria, specifically Pseudomonas and Bacillus species, that promote plant growth through various mechanisms:
-- Production of plant growth hormones (auxins, gibberellins, cytokinins)
-- Solubilization of minerals (phosphate, potassium)
-- Nitrogen fixation (in some strains)
-- Production of siderophores for iron acquisition
-- Antibiotic production against pathogens
-- Induced systemic resistance
-
-See also: [[biofertilizers-and-soil-inoculants]], [[rhizosphere-fungal-community-analysis-rrna-rdna]]
-
-### EPA-Approved Biocontrol Microorganisms
-
-For commercial application, several microorganisms have received EPA approval in the US:
-
-**Fungal species**:
-- Aspergillus flavus (2 isolates)
-- Candida oleophila (1 isolate)
-- Coniothyrium minitans (1 isolate)
-- Gliocladium (2 species, 2 isolates)
-- Trichoderma harzianum (3 isolates)
-
-**Bacterial species**:
-- Agrobacterium radiobacter (2 isolates)
-- Bacillus (3 species, 6 isolates)
-- Pseudomonas (5 species, 5 isolates)
-- Streptomyces griseoviridis (1 isolate)
-
-See also: [[mushroom-cultivation-fundamentals]], [[mycoparasitic-fungi-biocontrol-agents]]
+See also: [[arbuscular-mycorrhizal-fungi]], [[biofertilizers-and-soil-inoculants]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], [[mycoparasitic-fungi-biocontrol-agents]]
 
 ## Mode of Action and Safety
 

@@ -1,127 +1,120 @@
----
-title: Pasteurization vs Sterilization
-created: 2026-04-28
-tags: [mycology, cultivation, sanitation, pasteurization, sterilization]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
-type: concept
----
-
 # Pasteurization vs Sterilization
 
-These two heat treatment methods are foundational to mushroom cultivation,
-but they serve fundamentally different purposes. Understanding when to use each
-is critical to producing healthy, uncontaminated mushroom crops. Using the
-wrong method — pasteurizing when you should sterilize, or vice versa — leads
-to contamination, reduced yields, or unnecessary energy costs.
-
-Pasteurization and sterilization differ in temperature, pressure, duration,
-and biological effect. The choice depends primarily on the substrate type:
-un-supplemented agricultural waste can be pasteurized, while any substrate
-containing added nitrogen supplements must be sterilized.
-
-## Core Difference
-
-**Pasteurization** selectively kills unwanted organisms while preserving
-beneficial microorganisms. It uses lower temperatures (60-80°C) for shorter
-durations. The goal is to create a biological advantage for mushroom mycelium
-by knocking back competitors without creating a completely sterile environment.
-
-**Sterilization** eliminates all living organisms including bacterial
-endospores. It uses high temperature (121°C at 15 PSI) or chemical methods.
-The goal is to create a completely clean slate for [[mycelium-colonization]].
-
-The key distinction: pasteurization works *with* biology, creating a
-competitive advantage for the desired fungus. Sterilization works *against*
-biology, wiping the slate clean and relying on the inoculated culture to
-dominate before contaminants can establish.
-
-## Pasteurization
-
-### Steam Pasteurization
-Steam at 65-80°C for 60-120 minutes in a sealed chamber. More even heat
-distribution than hot water, does not leach nutrients, and is scalable.
-Requires a steam source (pressure cooker, steam generator, or wall steam).
-
-### Hot Water Pasteurization
-Submerge substrate in 65-80°C water for 60-90 minutes. The simplest method —
-only requires a large pot, barrel, or cooler. Preserves beneficial
-thermotolerant bacteria (*Bacillus*, *Thermoactinomyces*) that help protect
-against mold. Works well for straw and agricultural waste. Not sufficient
-for supplemented substrates.
-
-### Steam Pasteurization
-Steam at 65-80°C for 60-120 minutes in a sealed chamber. More even heat
-distribution than hot water, does not leach nutrients, and is scalable.
-Requires a steam source (pressure cooker, steam generator, or wall steam).
-Less water waste than hot water but more complex equipment.
-
-### Cold Water Lime Treatment (Alkaline Pasteurization)
-Substrate is soaked in hydrated lime water at pH 12-13 for 12-18 hours.
-The extreme pH kills most mold spores while oyster mycelium tolerates it.
-No heat required — extremely low cost, effective in tropical climates.
-Use 1-2 tablespoons hydrated lime per gallon of water. Do not rinse after
-soaking — residual lime protects against early contamination. Lime handling
-requires safety precautions (skin and eye irritation).
+Pasteurization and sterilization are two distinct processes used to
+reduce or eliminate microorganisms from materials. While often
+confused, they differ fundamentally in their intensity, mechanisms,
+and outcomes. Understanding the difference is essential in mycology,
+food science, medicine, and biotechnology, where the choice between
+the two methods has significant practical implications.
 
 ## Sterilization
 
-### Pressure Sterilization (Autoclaving)
-Substrate heated to 121°C at 15 PSI for 60-120 minutes in a pressure vessel.
-Essential for grain spawn and supplemented substrates — nutrients would
-otherwise feed surviving contaminants. Load into autoclavable containers
-(jars, filter patch bags) with 0.5 micron filters. Larger bags need longer
-times: 60 min for quart jars, 90 min for 2-5 kg bags, 120+ min for larger.
-Allow pressure to drop naturally — fast depressurization boils substrate and
-bursts bags. Cool to below 30°C before inoculation (overnight is best).
+Sterilization is the complete elimination of all microorganisms,
+including bacteria, viruses, fungi, and their spores. A sterilized
+object is free from all viable life forms. This is the highest
+standard of microbial control and is required for applications
+where any microbial presence would be problematic.
 
-Kills all organisms including bacterial endospores, but also eliminates
-beneficial microorganisms, leaving substrate defenseless against
-contamination introduced after sterilization. Requires a pressure vessel
-investment and careful safety practices.
+### Methods of Sterilization
 
-## Decision Matrix
+- **Autoclaving (steam under pressure)**: The most common method
+  in mycology laboratories. Uses saturated steam at 121°C (250°F)
+  and 15 psi pressure for 15-60 minutes, depending on load size.
+  The combination of heat, moisture, and pressure ensures
+  destruction of even the most resistant bacterial endospores
+  (e.g., Geobacillus stearothermophilus).
 
-| Factor | Pasteurization | Sterilization |
-|--------|---------------|---------------|
-| Substrate | Straw, agricultural waste | Grain, supplemented sawdust |
-| Temperature | 60-80°C | 121°C |
-| Pressure | Ambient | 15 PSI |
-| Duration | 60-90 min | 60-120 min |
-| Beneficial microbes | Preserved | Eliminated |
-| Equipment cost | Low | Moderate to high |
-| Energy cost | Low | High |
-| Species | Oyster, Wine Cap | Shiitake, all grain-based |
+- **Dry heat sterilization**: Uses hot air at 160-170°C for 2-4
+  hours. Effective but requires higher temperatures and longer
+  times than autoclaving because dry heat is less effective at
+  penetrating and killing microorganisms.
 
-### When to Pasteurize
-- Straw, hay, or other agricultural waste without supplements
-- Low-nitrogen substrates where beneficial microbes aid colonization
-- Hobby-scale operations with limited equipment
-- Tropical climates where lime treatment is viable
+- **Chemical sterilization**: Uses chemicals such as ethylene
+  oxide gas, hydrogen peroxide plasma, or glutaraldehyde to
+  kill all microorganisms. Often used for heat-sensitive
+  instruments and materials.
 
-### When to Sterilize
-- Any substrate with added nitrogen (bran, grain, soy meal)
-- [[grain-spawn-production]] (non-negotiable)
-- Contamination-sensitive species (Shiitake, Lion's Mane, Maitake)
-- Commercial operations where consistency is paramount
+- **Radiation sterilization**: Uses gamma rays, electron beams,
+  or X-rays. Commonly used for disposable medical devices and
+  pharmaceutical products.
 
-## Common Mistakes
+- **Filtration**: Removes microorganisms by passing liquids or
+  gases through membrane filters with pore sizes small enough
+  to trap bacteria (typically 0.22 micrometers).
 
-1. **Pasteurizing supplemented substrate:** supplements feed surviving
-   contaminants. Always sterilize supplemented substrates.
-2. **Insufficient sterilization time:** large bags need much longer than
-   small jars. The center must reach 121°C for the full duration.
-3. **Fast depressurization:** causes substrate to boil inside containers,
-   wetting filters and creating contamination vectors.
-4. **Inoculating before cooling:** kills mycelium and creates condensation
-   that promotes bacterial growth. Cool overnight for best results.
-5. **Not monitoring internal temperature:** surface temperature differs
-   greatly from the core. Always use a probe thermometer.
+- **Microwave sterilization**: Uses microwave energy with trace
+  water to achieve surface sterilization. Developed by NASA for
+  spaceflight applications, this method offers advantages for
+  thermally labile systems and complex surface geometries.
+
+## Pasteurization
+
+Pasteurization is a milder heat treatment that reduces the number
+of viable microorganisms but does not achieve complete sterility.
+It is designed to destroy pathogenic organisms and significantly
+reduce spoilage organisms while preserving the quality of the
+treated material. Spores and some thermophilic organisms typically
+survive pasteurization.
+
+### Methods of Pasteurization
+
+- **Standard pasteurization**: Heating to 63°C for 30 minutes
+  (low-temperature long-time, or LTLT method).
+- **High-temperature short-time (HTST)**: Heating to 72°C for
+  15 seconds. This is the most common method in the dairy
+  industry.
+- **Ultra-high temperature (UHT)**: Heating to 135-150°C for
+  2-5 seconds. While technically achieving commercial sterility
+  in some applications, UHT-treated products are not considered
+  fully sterilized in the laboratory sense.
+
+- **Fractional (tyndallization)**: Repeated heating to below
+  boiling (80-100°C) for 30 minutes on three consecutive days.
+  This process kills vegetative cells on the first heating,
+  allows surviving spores to germinate, then kills the
+  germinated cells on subsequent heatings.
+
+## Key Differences
+
+| Parameter | Sterilization | Pasteurization |
+|-----------|--------------|----------------|
+| Microbial kill | All organisms + spores | Pathogens + most vegetatives |
+| Spore survival | None | Many survive |
+| Temperature | 121°C+ (autoclave) | 63-80°C typical |
+| Time | 15-60+ minutes | Seconds to 30 minutes |
+| Material impact | May degrade heat-sensitive materials | Preserves quality better |
+| Equipment needed | Autoclave, specialized equipment | Simpler heating equipment |
+| Validation required | Biological indicators | Routine monitoring |
+
+## Application in Mycology
+
+In mushroom cultivation, the choice between sterilization and
+pasteurization depends on the substrate and application:
+
+**Sterilization is required for grain spawn**: Grain substrates
+are nutrient-rich and highly susceptible to contamination. Only
+full sterilization (autoclaving at 121°C for 60-120 minutes)
+provides adequate microbial kill for grain-based substrates.
+A pressure cooker is the minimum equipment needed; boiling water
+alone is insufficient.
+
+**Pasteurization can be used for bulk substrates**: Bulk substrates
+such as straw, compost, and coco coir are less nutrient-dense and
+can often be successfully pasteurized rather than sterilized.
+Pasteurization at 65-80°C for 1-2 hours kills most competitors
+while preserving beneficial thermophilic organisms that can help
+defend against subsequent contamination.
+
+**Casing soil debate**: Some cultivators pasteurize casing soil to
+preserve beneficial microorganisms, while others sterilize it for
+maximum contamination control. Empirical results with grass seed
+substrates favor sterilization, as pasteurized casing has been
+associated with higher contamination rates in indoor cultivation
+environments.
 
 ## See Also
 
-- [[oyster-mushroom-substrates]]
-- [[mushroom-spawn-production]]
-- [[laminar-flow-hood-diy-construction]]
-- [[fungal-lignocellulose-degradation-mechanisms]]
+- [[mushroom-grain-sterilization]]
+- [[mushroom-casing-preparation]]
+- autoclave sterilization
+- [[contamination-prevention-mycology]]

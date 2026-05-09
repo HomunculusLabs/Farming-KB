@@ -122,10 +122,7 @@ active compounds psilocybin and psilocin.
 
 ## See Also
 
-- [[wasson-hofmann-ruck-theory]] - The expeditions' organiser
-- [[mushroom-cultivation-fundamentals]] - The Mazatec curandera
-- [[psychedelic-mushroom-history]] - Broader history of psilocybin mushrooms
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] - The Mazatec curandera
 - [[psychedelic-1960s-counterculture]] - The cultural revolution that followed
-- [[amanita-muscaria-ethnobotany]] - Wasson's other major mushroom research
 - [[psychedelic-mushroom-chemistry]] - Chemistry of psilocybin mushrooms
 - [[allegro-soma-mushroom-thesis]] - A related but very different mushroom theory

@@ -128,11 +128,8 @@ essential safety information that guided human clinical research.
 
 ## Related Topics
 
-- [[lsd-pharmacology]] for human pharmacological properties
 - [[hofmann-lsd-pharmacology-serotonin-brain]] for serotonin and dopamine
   interactions
-- [[hofmann-lsd-sandoz-research-program]] for the Sandoz pharmacological
-  department context
 - [[hofmann-lsd-clinical-research-early-studies]] for translation to human
   subjects
 - [[hofmann-lsd-discovery-bicycle-day]] for the original discovery that led to

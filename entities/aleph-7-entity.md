@@ -9,17 +9,7 @@ sources:
 ---
 # ALEPH-7
 
-ALEPH-7 is the n-propylthio homologue of [[aleph-1-entity]] and a member of the ALEPH series of substituted amphetamines. It is one of the most potent and longest-lasting psychedelic amphetamines explored in PIHKAL. The compound is listed as PIHKAL entry #7.
-
-## Chemical Classification
-
-ALEPH-7 belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 2,5-dimethoxy-4-(n)-propylthioamphetamine.
-
-ALEPH-7 is the n-propylthio analogue of the classic 2,5-dimethoxy-4-substituted amphetamine pattern.
-
-It is the higher homologue of [[aleph-1-entity]] (methylthio), with the sulfur chain extended from one to three carbons.
+ALEPH-7 is the n-propylthio homologue of [[aleph-1-entity]] (methylthio), with the sulfur chain extended from one to three carbons.
 
 The compound was first synthesized and explored by Alexander Shulgin.
 
@@ -97,17 +87,11 @@ Sleep disruption is significant and should be planned for.
 
 ## See Also
 
-[[aleph-1-entity]]
-
 [[aleph-2-entity]]
-
-[[aleph-4-entity]]
 
 [[2c-t-entity]]
 
-[[2c-t-2-entity]]
-
-[[dom-entity]]
+[[dom]]
 
 ## References
 

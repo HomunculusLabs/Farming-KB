@@ -3,7 +3,7 @@ title: Insect and Arthropod-Associated Fungi — Biodiversity and Sampling
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -77,14 +77,10 @@ Termitomyces species cultivated by Macrotermitinae termites in tropical Africa a
 
 ## See Also
 
-- [[fungicolous-fungi-parasites-associates]]
 - [[soil-fungal-isolation-techniques]]
-- [[fungal-culture-preservation-methods]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 
 ## Related
 
-- [[anaerobic-rumen-fungi-biology-herbivore-digestion]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[insect-associated-fungi-sampling-diversity]]
 - [[bark-beetle-fungi-ophiostomatales-collection-isolation]]

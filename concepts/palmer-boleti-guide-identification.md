@@ -89,8 +89,7 @@ tubes were easily separable, it was specifically a boletus.
 
 Of all the major families of toadstools, Palmer expressed the greatest
 confidence in the fundamental safety of the Boleti. While he urged
-caution with the [[agaricus-species-guide]] (gill-bearing
-fungi), and respected the dangerous [[amanita-genus-morphology]] family, he stated that he did not believe a student would ever eat one of the Boleti containing truly nauseous elements, because the offending varieties were so unappetizing in appearance and taste that they would naturally be rejected.
+caution with the [[amanita-genus-morphology]] family, he stated that he did not believe a student would ever eat one of the Boleti containing truly nauseous elements, because the offending varieties were so unappetizing in appearance and taste that they would naturally be rejected.
 
 ## Cooking and Preparation
 
@@ -105,7 +104,7 @@ the common cultivated mushroom when properly cooked.
 
 ## The Lactarii and Russulae Compared
 
-Palmer frequently discussed the Boleti alongside the [[russula-edible-species]] and lactarius-rufus|Lactarii, noting that foreign textbooks often branded all three families as "poisonous" indiscriminately. He considered this a grave injustice. While the [[amanita-genus-morphology]] was truly deadly, the Boleti, Russulae, and Lactarii were at worst "simply disagreeable, or having acrid properties subdued by heat." The practical distinction was enormous: one family killed, while the others merely discomforted.
+Palmer frequently discussed the Boleti alongside the [[amanita-genus-morphology]] was truly deadly, the Boleti, Russulae, and Lactarii were at worst "simply disagreeable, or having acrid properties subdued by heat." The practical distinction was enormous: one family killed, while the others merely discomforted.
 
 ## European vs American Usage
 
@@ -118,5 +117,4 @@ to the general American ignorance of all fungi beyond the common
 cultivated mushroom, and hoped that wider knowledge would eventually
 bring American usage into line with European practice.
 
-See also: [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]],
-[[boletus-edulis-entity]], [[porcini-boletus-guide]], [[palmer-mushroom-taxonomy-classification-system]]
+See also: [[boletus-edulis-entity]], [[palmer-mushroom-taxonomy-classification-system]]

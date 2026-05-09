@@ -47,38 +47,12 @@ The prepared broth is poured into a clean glass jar fitted with a modified lid t
 exchange while preventing contaminants from entering. Self-healing injection ports (made from
 silicone) and filtered vent holes (using polyfill, Tyvek, or micropore tape) are standard
 features of LC lids. Once filled and sealed, the jar must be sterilized using a pressure cooker
-or autoclave. Proper [[sterilization-techniques-mushroom-cultivation]] is absolutely essential
-because the nutrient-rich liquid is an ideal medium for bacteria and mold as well. Most
-cultivators sterilize LC jars at 15 PSI for 20 to 30 minutes. Over-sterilizing at high pressure
-for extended durations can cause the malt sugars to caramelize or Maillard-brown, turning the
-broth dark and rendering it unusable for fungal growth.
-
-### Inoculation Under Sterile Conditions
-
-After the sterilized LC jar has cooled to room temperature (usually 18 to 24 hours), it is ready
-for inoculation. The inoculant should always come from a verified clean source. The gold standard
-is transferring a small piece of colonized [[agar-culture-technique]] mycelium directly into the
+or autoclave. Proper [[agar-culture-technique]] mycelium directly into the
 broth. This can be done by cutting a small wedge from a healthy agar plate in front of a laminar
-flow hood or inside a still-air box using strict [[sterile-technique-mushroom-cultivation]].
-Alternatively, you can inoculate LC from a clean [[tissue-culture-cloning]] sample taken from a
+flow hood or inside a still-air box using strict [[tissue-culture-cloning]] sample taken from a
 fresh mushroom fruit body, which is an excellent way to capture the genetics of a particularly
 desirable specimen. Some cultivators also inoculate LC with a small amount of already-colonized
-[[grain-spawn-preparation]], though this carries slightly higher contamination risk since grain is
-more exposed to the open environment during handling compared to the sealed environment of an
-agar plate.
-
-### Colonization and Maintenance
-
-Once inoculated, the LC jar should be placed on a magnetic stir plate if available, or gently
-agitated by hand once or twice daily. Stirring or shaking breaks up the mycelium into smaller
-fragments and distributes it throughout the broth, dramatically speeding up colonization by
-creating dozens of new inoculation points. Incubation temperatures should match the preferred
-range for the target species, typically between 68°F and 78°F (20°C to 26°C). Within a few days,
-you should see thin white strands of mycelium beginning to radiate from the inoculation point.
-Over the following one to three weeks, these strands multiply into a dense, cloudy network of
-mycelial biomass. If the broth turns cloudy in an off-white, greenish, or pinkish way, or if you
-detect sour or foul odors upon opening, the culture is likely contaminated and should be discarded
-immediately to avoid spreading [[substrate-contamination]] throughout your grow space.
+[[substrate-contamination]] throughout your grow space.
 
 ### Using Liquid Culture
 
@@ -88,10 +62,6 @@ spawn jars or bags. This approach is extremely efficient, as each 60 mL syringe 
 to 10 quart-sized grain jars. LC can also be poured directly onto sterilized grain or used to
 inoculate additional LC jars for further expansion, allowing cultivators to scale production
 rapidly. Paul Stamets discusses spawn production methodologies extensively in
-[[stamets-spawn-making-and-grain-culture]], and many of those principles translate directly to
-liquid culture work. For long-term storage, small aliquots of LC can be refrigerated, which slows
-mycelial metabolism to near-dormancy and preserves viability for several months. Cultivators
-interested in archiving genetics long-term should consider transferring LC mycelium to
 [[stamets-slant-culture-strain-preservation]] slants, which can preserve viable cultures for
 years under refrigeration.
 
@@ -104,16 +74,12 @@ from either insufficient sterilization or poor inoculation technique. Another co
 caramelized broth, which occurs when too much sugar is used or when the pressure cooker is run
 too long or too hot; the resulting dark brown liquid will not support healthy mycelial growth.
 Slow colonization can indicate old or weak genetics, insufficient nutrients, or temperatures
-outside the optimal range. If your LC fails repeatedly, revisit your [[sterilization-techniques-mushroom-cultivation]] protocol and consider practicing with [[working-with-agar-pouring-plates-and-sterile-technique]] to build confidence in your aseptic procedures before attempting LC again.
+outside the optimal range. If your LC fails repeatedly, revisit your [[working-with-agar-pouring-plates-and-sterile-technique]] to build confidence in your aseptic procedures before attempting LC again.
 
 ## Key Points
 
 - Liquid culture is a sugar-based nutrient broth inoculated with clean mycelium, used to rapidly
-  expand mushroom cultures for large-scale inoculation of [[grain-spawn-preparation]].
-- Light malt extract at approximately 1 gram per 100 mL of water is the standard recipe; avoid
-  excessive sugar concentrations that caramelize during sterilization and inhibit growth.
-- Sterilize LC jars at 15 PSI for 20 to 30 minutes and always practice rigorous
-  [[sterile-technique-mushroom-cultivation]] during inoculation to prevent contamination.
+  expand mushroom cultures for large-scale inoculation of [[sterile-technique-mushroom-cultivation]] during inoculation to prevent contamination.
 - Inoculate LC from clean agar wedges, tissue culture samples, or verified grain spawn; never
   inoculate from untested spore syringes directly into LC, as contamination risk is extremely
   high when spores must germinate in liquid medium.
@@ -122,18 +88,11 @@ outside the optimal range. If your LC fails repeatedly, revisit your [[steriliza
 - Monitor cultures closely for signs of bacterial or fungal contamination, and discard any jars
   showing off-colors, unusual odors, or abnormal growth patterns to protect your entire grow.
 - For strain preservation beyond what refrigerated LC can offer, transition genetics to
-  [[stamets-slant-culture-strain-preservation]] for reliable long-term archival storage.
-- Liquid culture is an excellent bridge between agar work and grain inoculation, complementing
-  traditional methods described in [[stamets-spawn-making-and-grain-culture]].
+  [[stamets-spawn-making-and-grain-culture]].
 
 ## Related
 
-- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] Questions
-
 - [[agar-culture-technique]]
-- [[sterilization-techniques-mushroom-cultivation]]
 - [[grain-spawn-preparation]]
-- [[tissue-culture-cloning]]
 - [[stamets-slant-culture-strain-preservation]]
-- [[substrate-contamination]]
 - [[stamets-spore-germination-and-tissue-culture]]

@@ -125,8 +125,6 @@ in some Levantine regions.
 
 ## See Also
 
-- [[permaculture]] — Broader context for integrating staghorn sumac into designed ecosystems
 - [[food-forest]] — Staghorn sumac as a functional shrub layer component
-- [[comfrey-symphytum-officinale]] — Complementary dynamic accumulator and ground cover
 - [[robinia-pseudoacacia]] — Black locust, complementary nitrogen-fixing pioneer tree
 - [[biochar]] — Soil amendment complementary to pioneer species plantings

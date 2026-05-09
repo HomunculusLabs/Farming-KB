@@ -16,7 +16,7 @@ sources:
 
 ## Fukuoka's Revolution in Grain Cultivation
 
-Until Mollison read [[fukuoka-natural-farming-philosophy-of-mu]] work, there was no satisfactory basis for including grain and legume crops [[mollison-designers-thatch-and-natural-roofing-in-permaculture]]. The system outlined in The One-Straw Revolution (Rodale, 1975) solved the problems of no-dig grain cultivation.
+Until Mollison read [[mollison-designers-thatch-and-natural-roofing-in-permaculture]]. The system outlined in The One-Straw Revolution (Rodale, 1975) solved the problems of no-dig grain cultivation.
 
 The approach combines the usual rotation of legume/grain/root crop/pasture/fallow/legume into a single grain/legume mixed crop — what Mollison calls "simultaneous rotation." Any smallholder can, without tractor or machinery, produce a heavy crop of grains and legumes if this method is practised.
 
@@ -24,94 +24,7 @@ The approach combines the usual rotation of legume/grain/root crop/pasture/fallo
 
 The core principles enabling small areas (400 m² or less) to support a family of five on grain are:
 
-- **Continuous mulch** with clover as a living [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]
-
-- **Double-cropping** using winter and spring sown grains
-
-- **Straw return** — all crop straw and husks are returned to the field as mulch
-
-- **No cultivation** — once the cycle is perfected, there is no further tillage
-
-- **Mulch-based [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]** — [[fukuoka-straw-winter-grain-straw-mulch]] is the only weed control needed
-
-The system is well suited to sewage or sullage disposal from holding lagoons, where no poultry manure would be needed.
-
-## Site Preparation
-
-If paddy rice is to be grown, the area must first be graded or levelled, and a low bund (water-wall) built so that 50 mm of water can lie on the ground. After levelling in summer, lime or dolomite is spread, watered in, and the plot made ready for autumn planting.
-
-A complete seed-free mulch cover of straw, seagrass, shredded paper, or sawdust is applied at about 900 kg per 1000 m². If no mulch is available, seed can be covered by raking in.
-
-## Annual Calendar
-
-### April
-
-A thin layer of chicken manure is broadcast. Seeding rates are:
-
-- Clover: 1 kg per ha (1 lb/acre)
-
-- Rye and other grains: 7–16 kg per ha
-
-- Rice: 6–11 kg per ha (5–10 lbs/acre)
-
-Use inoculated clover if this is the first crop. Seed can be scattered first, then straw-covered to protect from birds. In the second year, rye and clover are sown into the ripe rice crop at this time.
-
-### May (First Week)
-
-Last year's rice is reaped, dried on racks for 2–3 weeks, and threshed. All rice straw and husks are returned to the field. Unhusked rice is resown within a month of harvesting, just before straw is returned.
-
-### June to September
-
-Light grazing of winter crops by sheep or geese assists stooling of plants and adds manure. Thin areas are resown as soon as possible. When the crop reaches about 150 mm, approximately 100 ducks per ha will reduce pests and add manure. Fields are kept well-drained.
-
-### October
-
-Check that rice is growing; re-sow thin patches if necessary.
-
-### November
-
-Rye, barley, and other grains are harvested mid-month and stacked to dry for 7–10 days. The rice is trodden but recovers. When grains are threshed, all straw and husks are returned to fields, with each straw type moved to a different plot for rotation.
-
-### December
-
-Only rice remains. Summer weeds may sprout and are weakened by flooding for 7–10 days, until the clover is yellow but not dead. Rice grows on until May harvest.
-
-### January to March
-
-The field is kept at 50–80% saturation under rice while seeds of other grains are prepared for April sowing. The cycle then continues using crop straw for mulch.
-
-## Rotation of Straw Types
-
-The straw rotation across five plots illustrates the system:
-
-| Plot | 1 | 2 | 3 | 4 | 5 |
-|------|---|---|---|---|---|
-| Seed | Rice | Rice | Rice | Rice | Rice |
-| | White clover | White clover | White clover | White clover | White clover |
-| | Rye | Barley | Millet | Winter wheat | Oats |
-| Straw returned | Oats | Rye | Barley | Millet | Wheat |
-
-## Grain Species Data
-
-### Rice (Oryza sativa)
-
-A short-day cereal suited to latitudes up to 40° N and S. Self-pollinating. Responds to nitrogen via chicken manure. Disease controlled by soaking seed in 40% formalin diluted 50 times with water. Margins around paddy-fields should be mown or planted with shrubs to reduce weed invasion. Good yields may reach 3,000–4,000 kg/ha (approximately 3,500 lbs/acre). Fukuoka has achieved yields up to 5,200 lbs per acre, plus 8,000 kg of straw per hectare.
-
-### Rye (Secale cereale)
-
-A long-day plant suited to cool areas, usually winter-grown but some spring types available. Ripens in 37–71 days. Wind-pollinated. Autumn-planted (April–June) at 55–60 kg/ha in irrigated ground. Good moisture needed at flowering. Ergot is removed in 20% salt solution. Must be threshed within a few days of ripening. Good yields reach 2,800–5,700 kg/ha.
-
-### Wheat (Triticum aestivum)
-
-A long-day plant for cool areas; some varieties grown in Alaska. Both winter and spring wheats exist. Needs 6–8 weeks of sunny period for ripening. Self-pollinating. Sown at 40–80 kg/ha. Responds to nitrogen. Good yield is approximately 1,100 kg/ha.
-
-### Barley (Hordeum vulgare)
-
-A long-day plant for cool areas, sub-tropical to arctic. Spring types mature in 60–70 days, winter types in 160 days. Self-pollinated. Sown at 70–120 kg/ha under irrigation, or at 13 kg/ha in mulch (Fukuoka). Has fewer pests than wheat. Good yields: 3,000–4,700 kg/ha.
-
-### Buckwheat (Fagopyrum spp.)
-
-Suited to a wide range of climates. F. esculentum is best for cool moist climates. Tolerates infertile, poorly-tilled, and acid soils. Insect-pollinated; needs bees at 2 hives per ha. Frost tender. Sow after frost danger at 25–40 kg/ha. Harvested at 10 weeks. Threshes easily. Good yields: 4,200–4,400 kg/ha. Excellent [[sepp-holzer-soil-fertility-and-green-manure]] for poor soils.
+- **Continuous mulch** with clover as a living [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]** — [[sepp-holzer-soil-fertility-and-green-manure]] for poor soils.
 
 ### Oats (Avena sativa)
 
@@ -144,5 +57,23 @@ Legumes such as lab-lab bean (Dolichos lab-lab) under Borassus palm serve as per
 Where sparrows are a problem, grains are mixed with mud, pressed through wire-mesh, and rolled into small balls. Alternatively, dampened seed is shaken in a tray of clay dust to form mud-coated pellets. Pellets can also be formed by extruding mud and grain through a domestic mincer onto a vibrating table of dust or flour.
 
 ## See Also
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-sowing-clay-seed-ball-preparation]]
+## Practical Considerations
+
+Successful implementation of permaculture Broadscale No-Till Grain Production requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

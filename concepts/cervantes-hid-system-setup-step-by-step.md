@@ -129,11 +129,7 @@ circuit stays below 80% of its rated capacity.
 
 ## See Also
 
-- [[cervantes-ballasts-hid-electrical]]
 - [[cervantes-grow-room-electricity-basics]]
-- [[cervantes-electricity-consumption-cost-management]]
 - [[cervantes-lighting-systems]]
-- [[cervantes-high-pressure-sodium-lighting]]
 - [[cervantes-metal-halide-lighting-systems]]
-- [[cervantes-indoor-grow-room-setup]]
 - [[cervantes-reflective-hoods-light-distribution]]

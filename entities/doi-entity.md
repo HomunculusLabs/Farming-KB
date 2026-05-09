@@ -11,11 +11,7 @@ sources:
 
 **Chemical name:** 2,5-Dimethoxy-4-iodoamphetamine
 
-**PiHKAL #67** | [[alexander-shulgin]]'s rating: +++
-
-## Overview
-
-DOI is an extremely potent psychedelic amphetamine of the DO series. Along with [[dob-compound-profile]], it is one of the most potent orally active psychedelics known. The large iodine atom at the 4-position makes DOI particularly valuable as a radiolabeled research tool for studying [[phenethylamine-receptor-pharmacology]] distribution and binding in the human brain.
+**PiHKAL #67** | [[dob-compound-profile]], it is one of the most potent orally active psychedelics known. The large iodine atom at the 4-position makes DOI particularly valuable as a radiolabeled research tool for studying [[phenethylamine-receptor-pharmacology]] distribution and binding in the human brain.
 
 ## Dosage
 
@@ -75,34 +71,17 @@ At 3.0 mg, a clear, clean psychedelic with excellent eyes-closed imagery — cle
 
 ## Extensions and Commentary
 
-DOI has an extremely high binding affinity for the [[phenethylamine-receptor-pharmacology]], making it one of the most important research tools in psychedelic pharmacology. As with every other psychedelic amphetamine with a chiral center that has been resolved, the "R" isomer is more potent — the same pattern seen with [[dob-compound-profile]], [[dom-compound-profile]], and MDA. The only exception noted was MDMA (which is more stimulant than psychedelic).
+DOI has an extremely high binding affinity for the [[dob-compound-profile]], [[dom-compound-profile]], and MDA. The only exception noted was MDMA (which is more stimulant than psychedelic).
 
 A number of animal studies with DOI have mapped 5-HT2 receptor subtypes, which have been subdivided based on which compounds interact most tightly with each site. Radiolabeled DOI ([¹²⁵I]-DOI) is used extensively in autoradiography and PET imaging to study serotonin receptor distribution in the brain.
 
-The heavy iodine atom and slow pharmacokinetics contribute to the extremely long duration. As with [[dob-compound-profile]], the drug may accumulate in the lungs before reaching the brain, suggesting pulmonary first-pass metabolism may be required for activation.
-
-## Safety Warnings
-
-- **Extremely potent** — active at 1-3 mg; accurate milligram scales essential
-- **Extremely long duration** — 16-30 hours; plan accordingly
-- Very slow onset creates redosing danger — effects continue building for hours
-- Some reports of depressive emotional tone, especially at lower doses (1-2 mg)
-- At higher doses, fantasy takeover can make it difficult to distinguish reality from imagination
-- Heavy atom pharmacology may have unique toxicological considerations
-- The "R" isomer is roughly 4x more potent than the "S" isomer; racemic mixtures should be treated with extra caution
-- See [[psychedelic-harm-reduction]] for general harm reduction guidelines
+The heavy iodine atom and slow pharmacokinetics contribute to the extremely long duration. As with [[psychedelic-harm-reduction]] for general harm reduction guidelines
 - Legal status: Schedule I in the US and most countries
 
 ## Related Compounds
 
-- [[dob-compound-profile]] — bromine analogue, very similar profile
 - [[dom-compound-profile]] — methyl analogue (STP), less potent
-- [[doc-compound-profile]] — chlorine analogue
-- 2C-I — phenethylamine analogue (no alpha-methyl)
-- aleph-1-entity|ALEPH — methylthioamphetamine analogue
 - [[phenethylamine-chemistry-basics]] — overview of substitution patterns and SAR
-- [[cannabis-neurological-conditions]]
 - [[2-5-dma-entity]]
-- [[2c-i-entity]]
 - [[cannabis-skin-conditions]]
 - [[cannabis-thc-cbd-ratio-guide-for-conditions]]

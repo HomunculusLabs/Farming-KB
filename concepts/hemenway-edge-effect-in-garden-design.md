@@ -1,21 +1,7 @@
 ---
 title: "Edge Effect in Garden Design"
 created: 2026-04-28
-tags: [permaculture, edge-effect, garden-design, biodiversity, microclimate]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Edge Effect in Garden Design
-
-Edge is where the action is in ecology. The boundary between two
-ecosystems or habitats, such as where forest meets meadow or water meets
-land, is typically more productive and diverse than either of the
-adjacent systems alone. This "edge effect" is a powerful design tool in
-[[hemenway-ecological-garden-design]], allowing gardeners to maximize
+tags: [[hemenway-ecological-garden-design]], allowing gardeners to maximize
 biodiversity, productivity, and habitat in limited space.
 
 ## Understanding Edge
@@ -74,24 +60,11 @@ short ones achieve the same effect.
 
 Edges of garden beds and rows of shrubs and trees can be sculpted into
 undulating shapes containing cooler, windier lobes and protected, warm
-bays. A [[hemenway-keyhole-bed-design]] can be pointed south to create
-a sun-trap that captures and holds warmth.
-
-### Water/Soil Edge
-
-The shape of a garden pond affects how many plants fit at its margin. A
-perfectly round pond has the least edge, whereas a pond with lobes and
-bays, or in a starburst pattern, can hold an enormous number of bog
-plants and moisture lovers. Fingers of land extending into the pond will
-be drier at their raised centers while boggy species grow at the squishy
-margins. Varying pond depth makes room for more types of fish and water
-plants. This principle connects directly to
-[[hemenway-water-harvesting-and-pond-design]].
+bays. A [[hemenway-water-harvesting-and-pond-design]].
 
 ## When to Decrease Edge
 
-Sometimes it pays to minimize edge. With the [[herb-spiral-design-guide]]
-and [[hemenway-keyhole-bed-design]], edge translates into wasted space
+Sometimes it pays to minimize edge. With the [[hemenway-keyhole-bed-design]], edge translates into wasted space
 and more work, since the compact forms are designed to reduce path
 requirements and improve access. The decision to increase or decrease
 edge depends on what lies on either side and what the designer wants
@@ -114,17 +87,9 @@ The general pattern is straightforward:
 Encouraging plantings of varying heights is a simple way to increase
 edge. A transition between lawn and trees should be gradual, softened
 with increasingly large perennials and shrubs to increase habitat and
-variety. This principle supports [[forest-garden-layers]] by
-creating more transitional zones between the canopy, understory, and
-herb layers.
-
-Edge also connects to [[hemenway-guild-design-roles-and-assembly]], since
+variety. This principle supports [[hemenway-guild-design-roles-and-assembly]], since
 guilds are essentially designed edge communities where multiple species
-interact at their boundaries. The [[hemenway-food-forest-design]] maximizes
-edge by creating sunny clearings within a tree canopy, producing the
-light-dappled margins where the greatest diversity of plants can thrive.
-
-In [[hemenway-zone-and-sector-planning]], understanding edge helps locate
+interact at their boundaries. The [[hemenway-zone-and-sector-planning]], understanding edge helps locate
 elements where they can benefit from transition zones, such as placing
 frost-tender plants near the warm edge of a stone wall or water-loving
 plants at the margin of a pond and swale system.

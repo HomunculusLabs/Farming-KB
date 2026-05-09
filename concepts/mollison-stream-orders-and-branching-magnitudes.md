@@ -134,8 +134,6 @@ designs that can absorb disturbance without structural failure.
 
 ## See Also
 
-- [[mollison-fractals-branching-and-conduit-design]]
 - [[mollison-water-harvesting-management-permaculture]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-pdc-swale-design-water-harvesting]]
 - [[mollison-dam-types-landscape-placement]]

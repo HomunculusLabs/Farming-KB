@@ -1,5 +1,4 @@
 ---
-title: Mushroom Spore Syringe Making
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,7 +15,7 @@ sources:
 
 ## Overview
 
-A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[biodiversity-fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
+A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
 
 ## Materials and Equipment
 
@@ -102,7 +101,7 @@ Spore syringes can inoculate grain jars/bags directly:
 3. Shake the jar to distribute spores
 4. Incubate at appropriate temperature
 
-Note: Spore inoculation of grain is slower and less reliable than using [[mushroom-cultivation-fundamentals|agar-cultured mycelium]], because spores must germinate (a process that can take days to weeks) and the resulting mycelium is genetically diverse rather than cloned.
+Note: Spore inoculation of grain is slower and less reliable than using [[mushroom-cultivation-cloning-isolation|agar-cultured mycelium]], because spores must germinate (a process that can take days to weeks) and the resulting mycelium is genetically diverse rather than cloned.
 
 ## Spore Syringe Storage
 
@@ -126,7 +125,7 @@ Common contamination sources in spore syringe preparation:
 - [[mushroom-spore-syringe-preparation|spore syringe preparation guide]]
 - [[fungal-spore-print-guide|spore print guide]]
 - [[mushroom-spore-printing-and-storage|spore printing and storage]]
-- [[mushroom-cultivation-fundamentals|sterile technique in mushroom cultivation]]
+- [[mushroom-cultivation-sterile-technique|sterile technique in mushroom cultivation]]
 
 ## Related
 

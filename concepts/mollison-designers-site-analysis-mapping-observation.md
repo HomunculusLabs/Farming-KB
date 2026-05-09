@@ -16,23 +16,7 @@ type: concept
 
 # Site Analysis, Mapping and Observation
 
-Site analysis is the essential first step in [[permaculture-design]]. Bill
-Mollison insists that thorough observation and documentation of existing
-conditions must precede any design work. The permaculture maxim "protracted
-and thoughtful observation rather than protracted and thoughtless labor"
-captures this principle. Site analysis produces the base map and understanding
-that inform all subsequent design decisions including [[mollison-designers-sector-analysis-wind-sun-fire]], [[permaculture-slope-analysis-and-reading]], and zone placement.
-
-## The Observation Period
-
-Mollison recommends spending at least one full year observing a site before
-committing to major design decisions. A full year reveals seasonal patterns
-in water flow, temperature, wind, frost, wildlife, and plant growth that
-shorter observation periods miss. Key observations include:
-
-**Water**: Where does water flow during heavy rain? Where does it pond? Where
-are springs, seeps, or wet areas? How does the water table fluctuate seasonally?
-What is the quality of any water sources? See [[backyard-water-harvesting]].
+Site analysis is the essential first step in [[mollison-designers-sector-analysis-wind-sun-fire]], [[backyard-water-harvesting]].
 
 **Sun and shade**: Track sun and shade patterns through the day and across
 seasons. Note frost pockets and microclimates. Identify the warmest and
@@ -92,8 +76,7 @@ Topography determines water movement, microclimate, access, and land use.
 Create a contour map at intervals appropriate to scale (0.5m to 5m). Methods
 include A-frame levels (simple, inexpensive for contour marking), laser
 levels (modern, accurate for larger sites), and professional surveys for
-complex sites. Topographic maps are the basis for [[permaculture-slope-analysis-and-reading]],
-[[keyline-design]], and earthwork placement.
+complex sites. Topographic maps are the basis for [[keyline-design]], and earthwork placement.
 
 ## Existing Vegetation Survey
 
@@ -121,19 +104,13 @@ A complete water assessment includes:
 - Testing water quality (pH, turbidity, contaminants, biological activity)
 - Identifying existing water infrastructure (tanks, dams, pipes, bores)
 - Calculating water requirements for proposed uses
-- Designing water storage and distribution systems using [[keyline-design]]
-  and [[backyard-water-harvesting]] principles
+- Designing water storage and distribution systems using [[backyard-water-harvesting]] principles
 
 ## Access, Infrastructure and Base Map
 
 Map all existing access features -- roads, tracks, pathways, buildings,
 utility connections, fencing, and gates. Access design follows the principle
-of minimizing energy expenditure. See [[permaculture-access-design]].
-
-The base map synthesizes all analysis data onto a single scaled drawing:
-property boundaries, contour lines, existing vegetation, water features,
-structures, roads, soil zones, erosion features, sector overlays, and
-proposed zone boundaries. It is the foundation for all [[mollison-designers-design-methods-overview-process]] work. Mollison emphasizes systematic documentation: photographs,
+of minimizing energy expenditure. See [[mollison-designers-design-methods-overview-process]] work. Mollison emphasizes systematic documentation: photographs,
 field notes with dates and conditions, factor overlays, climate and soil
 records, and historical information to support ongoing management and future
 design refinements.

@@ -142,8 +142,6 @@ steaming pot.
 
 ## Related Concepts
 
-- [[pf-tek-steam-sterilization-technique]] for the standard steaming method
 - [[pf-substrate-formula]] for substrate preparation details
-- [[pf-tek-non-germination-troubleshooting]] for diagnosing sterilization failures
 - [[sterilization-techniques-mushroom-cultivation]] for broader sterilization context
 - [[mushroom-grain-sterilization]] for grain-based sterilization approaches

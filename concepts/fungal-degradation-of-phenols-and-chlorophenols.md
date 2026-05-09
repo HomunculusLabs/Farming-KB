@@ -3,17 +3,7 @@ title: Fungal Degradation of Phenols and Chlorophenols
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
----
-# Fungal Degradation of Phenols and Chlorophenols
-
-## Overview
-
-Phenols and halogenated phenols arise as wastes from numerous industries including wood preservation, pulp bleaching, petroleum refining, and chemical manufacturing. Phenol is ranked among the 40 most produced chemicals in the United States (4.77 billion pounds in 1998). Pentachlorophenol (PCP) is a general biocide whose use in timber preservation has caused severe contamination. The U.S. EPA has set a drinking water limit of 1 μg/L for PCP and 600 μg/L for phenol as a 24-hour average for freshwater aquatic life.
-
-This topic relates to [[mycoremediation-of-petroleum-hydrocarbons]] and [[fungal-enzyme-systems-in-bioremediation]].
+tags: [[mycoremediation-of-petroleum-hydrocarbons]] and [[fungal-enzyme-systems-in-bioremediation]].
 
 ## Fungal Metabolism of Phenols
 
@@ -99,9 +89,6 @@ Among 1044 strains, the highest proportion of phenol-degrading fungi belong to M
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
 - [[fungal-culture-preservation]]
-- [[fungal-responses-climate-change]]
 - [[fungi-in-climate-change]]
-- [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]

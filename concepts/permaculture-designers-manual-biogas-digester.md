@@ -3,20 +3,7 @@ title: Biogas Digester - Permaculture Designers Manual
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Biogas Digester
-
-From Permaculture: A Designers' Manual by Bill Mollison.
-
-## Overview
-
-Biogas is a mixture of methane (CH4), carbon dioxide (CO2), and ammonia gas (NH3), with traces of nitrous sulphide or marsh gas. It is produced by anaerobic digestion of organic wastes and is a useful fuel gas for engines or cooking gas for homes. Biogas is also a gaseous component of the atmosphere creating the greenhouse effect and thus should be used rather than released to air.
-
-The Designers' Manual provides detailed technical guidance on biogas digester design, pond-based sewage treatment systems, and the integration of methane production with broader permaculture strategies including [[permaculture-designers-manual-composting-toilet-design]] and nutrient cycling.
+tags: [[permaculture-designers-manual-composting-toilet-design]] and nutrient cycling.
 
 ## Digester Design and Sizing
 
@@ -107,36 +94,7 @@ For biogas applications, septic tank effluent, weeds, and aquatic crops can serv
 
 ## Sludge Utilisation
 
-Sludge from digesters and weed-free manures provide excellent fertiliser. The anaerobic process not only produces energy but stabilises the organic material, reducing pathogen load and weed seed viability. This sludge can be applied to tree crops, fuelwood plantations, or integrated into [[permaculture-designers-manual-composting-toilet-design]] for further processing.
-
-## Practical Integration
-
-### Farm Scale
-On farms, household sewage, animal manures, and crop wastes can all feed a biogas system. The gas provides cooking fuel, space heating, or electricity. The effluent irrigates food forests or fuelwood plantations. This creates a closed-loop system where waste becomes energy and fertility.
-
-### Community Scale
-The Werribee system in Australia demonstrates community-scale sewage treatment with energy recovery. Towns of any size can scale the pond dimensions proportionally. The system requires gravity flow from one pond to the next, minimal mechanical input, and produces both energy and irrigation water.
-
-### Integration with Aquaculture
-The aerobic ponds produce rich algal growth suitable for fish food. Duckweed (Lemna) and other aquatics can be harvested from the final ponds as livestock feed or mulch, creating additional yields from the treatment chain.
-
-## Integrated Flow-Down System
-
-The biogas digester is part of a larger integrated flow-down system:
-tree forage > animal protein > manures > alcohol > biogas > water crop (plants) > forage-fish
-
-Side cycles to worms, notonectids, or Daphnia give better utilization and a yield at every step. Alcohol recovery and subsequent biogas digestion of green feed, tubers or starchy food, manures, and wastes produces a flow-on slurry not one whit less fertile than the original substances.
-
-## Small-Scale Systems
-
-Every home and farm should consider biogas production. The motor supplies the heat for the digester process, and also compresses the gas for digester agitation, and for energy supply. Even small-scale systems can produce significant quantities of methane for domestic cooking and lighting.
-
-## See Also
-
-- [[pdc-energy-systems-and-appropriate-technology]]
-- [[permaculture-designers-manual-energy-systems]]
+Sludge from digesters and weed-free manures provide excellent fertiliser. The anaerobic process not only produces energy but stabilises the organic material, reducing pathogen load and weed seed viability. This sludge can be applied to tree crops, fuelwood plantations, or integrated into [[pdc-energy-systems-and-appropriate-technology]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
-- [[permaculture-designers-manual-composting-toilet-design]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
-- [[permaculture-designers-manual-greenhouse-integration]]
 - [[mollison-permaculture-two-sewage-waste-treatment]]

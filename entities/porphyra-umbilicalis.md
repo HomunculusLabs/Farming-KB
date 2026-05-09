@@ -107,16 +107,12 @@ The taxonomic distinction between *Porphyra* and *Pyropia* has implications for 
 
 ## See Also
 
-- [[palmaria-palmata]]
+- [[porphyra-yezoensis]]
+
 - [[undaria-pinnatifida]]
-- [[laminaria-digitata]]
 - [[ulva-lactuca]]
-- [[agaricus-bisporus]]
 - [[pleurotus-ostreatus]]
-- [[eryngium-foetidum]]
 - [[mentha-spicata]]
-- [[ocimum-basilicum]]
 - [[coriandrum-sativum]]
-- [[zingiber-officinale]]
 - [[allium-sativum-entity]]
 - [[piper-nigrum-entity]]

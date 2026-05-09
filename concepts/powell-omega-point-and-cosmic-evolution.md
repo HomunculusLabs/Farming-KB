@@ -17,37 +17,7 @@ framework for understanding the ultimate direction of cosmic evolution. Powell
 argues that the Universal Computation
 is not merely running down but is progressing toward a climactic state of
 maximum informational integration, a point at which the Other
-or [[natural-intelligence]] will have fully expressed itself through consciousness.
-
-## Teilhard de Chardin's Vision
-
-Teilhard de Chardin was one of those rare Christian thinkers whose faith
-increased through knowledge about the evolutionary process, an orientation
-that eventually led to his excommunication. He believed that evolution was a
-purposeful process destined to reach a climax at some future time: the Omega
-Point, representing a totally integrated state of life. This future state was
-considered by Teilhard to somehow send influences back in time, as though the
-Omega Point were an eternal sun able to shine its light upon the surface of
-human history. Although his thinking was deeply mystical, it was respected by
-evolutionary theorist Julian Huxley, though most mainstream scientists
-dismissed him as a "mystic dreamer."
-
-## The Omega Point as Attractor
-
-Powell reframes the Omega Point using the concept of an "attractor," a term
-from dynamical systems theory describing a state toward which physical systems
-are inevitably drawn. Just as a swinging pendulum is drawn toward its rest
-state, and a game of chess progresses toward checkmate, the Universe may be
-drawn toward a final state of informational unification. Rather than a
-super-concentration of matter, this attractor represents an integrated state
-of information or meaning. When human culture and consciousness have realised
-their true role within reality, and when the Other has fully transformed
-within the totality of Gaia, this will represent the final stage of the
-reality process as we know it.
-
-## McKenna's Eschaton
-
-[[psychedelic-mushrooms-species-and-identification]] echoed Teilhard's mystical claims, assuming the role of
+or [[psychedelic-mushroom-set-and-setting]] echoed Teilhard's mystical claims, assuming the role of
 "psychedelic prophet" by consistently predicting that human history would be
 utterly transformed. His "fractal theory of time" viewed time as a cyclical
 patterning process involving continual "ingression of novelty" with a
@@ -123,9 +93,4 @@ life. Following Fritjof Capra's observation that the Chinese character for
 now have an opportunity to reappraise our relationship to the Earth and
 realise our true purpose at the hands of Natural Intelligence.
 
-See also: [[powell-natural-intelligence-and-the-universal-computation]],
-[[powell-the-other-and-sentient-presence]], [[powell-gaian-mind-and-entheogenic-flora]]
-
-## See Also
-
-- [[omega-point-and-psychedelic-eschatology]]
+See also: [[powell-the-other-and-sentient-presence]], [[omega-point-and-psychedelic-eschatology]]

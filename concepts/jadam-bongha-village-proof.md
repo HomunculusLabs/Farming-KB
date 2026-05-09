@@ -76,44 +76,8 @@ The Bongha village project achieved outcomes that challenge the widespread assum
 
 Rice paddies in Bongha village maintained yields comparable to chemically farmed neighbors while eliminating synthetic fertilizer and pesticide inputs. Pepper production, a high-value crop in Korean agriculture, showed particular success — JADAM-grown peppers developed thicker cell walls and denser flavor profiles attributed to the natural nutrient cycling of the JADAM system. Cabbage crops, grown for Korea's staple kimchi production, achieved market-grade quality with zero chemical residues. Persimmon orchards under JADAM management showed improved fruit set and reduced disease pressure compared to chemically managed orchards in the region.
 
-The most significant outcome may be the sustained nature of these results. Rather than showing the yield declines in later years that some organic systems experience as soil nutrient reserves are depleted, Bongha village farms have maintained or improved productivity over time. This suggests that the JADAM microbial approach — particularly the use of [[jadam-microorganism-solution-jms]] — builds soil biological fertility progressively, creating a self-reinforcing system rather than one dependent on imported inputs.
-
-## The Role of Jadam Microbial Solutions (JMS)
-
-Jadam Microbial Solution (JMS) is the biological foundation of the JADAM farming system and a key factor in Bongha village's success. JMS is produced by fermenting leaf mold and soil microorganisms with boiled potato water and sea salt, creating a concentrated microbial inoculant that is diluted and applied to soil, plant foliage, and livestock housing. The production cost is negligible — the ingredients are freely available on any farm — yet the microbial diversity it introduces to the farming system is substantial.
-
-In Bongha village, JMS replaced both synthetic fertilizers and many pesticide applications. Applied to soil, the diverse microbial community in JMS decomposes organic matter, fixes atmospheric nitrogen, solubilizes phosphorus, and suppresses soil-borne pathogens through competitive exclusion. Applied to foliage, JMS coats leaf surfaces with beneficial microorganisms that occupy the ecological niches that plant pathogens would otherwise exploit. This dual action — building soil health and protecting plant surfaces — is why JADAM can eliminate both fertilizer and pesticide inputs simultaneously.
-
-The community-scale production of JMS in Bongha village illustrates a key advantage of the JADAM system at scale. A single batch of JMS can be propagated indefinitely from the original mother culture, meaning the village's initial microbial inoculation investment has continued to multiply without additional cost. This stands in stark contrast to conventional systems where every growing season requires new purchases of chemical inputs.
-
-## Yield Comparison with Conventional Farming
-
-Direct yield comparisons between JADAM and conventional farming in Bongha village show competitive results across all major crops:
-
-- **Rice**: JADAM paddies achieved 95-105% of conventional yields after the initial transition year, with grain quality rated equal or superior by local buyers. The absence of chemical residues commanded a modest price premium in organic markets.
-- **Pepper**: Yields were comparable to conventional farms, with farmers reporting reduced disease losses during wet seasons attributed to improved plant health from JMS applications.
-- **Cabbage**: Head weights and compactness were equivalent to conventional production, with significantly lower incidence of insect damage despite the absence of chemical insecticides.
-- **Persimmon**: Fruit set increased by approximately 10-15% compared to the village's conventional baseline, attributed to improved soil biology and pollinator health from the chemical-free environment.
-
-These results are consistent with JADAM's broader claim that natural farming achieves 90-100% of conventional yields while reducing input costs by 90-98%. The slightly lower input-to-output efficiency in some crops is more than offset by the elimination of input costs and the premium prices available for certified organic produce.
-
-## Economic Analysis of the Jadam Approach
-
-The economic case for JADAM farming in Bongha village extends far beyond the headline pesticide cost savings of $7 per acre. A full economic accounting reveals savings across virtually every input category:
-
-Conventional farming in the region typically requires $300-500 per acre in annual input costs (fertilizer, pesticides, herbicides, machinery maintenance, fuel). Bongha village JADAM farms reduced this to approximately $30-50 per acre, primarily consisting of seed costs and minimal supplementary nutrients. This represents a total input cost reduction of approximately 90%.
-
-The labor profile shifts significantly under JADAM. Chemical spraying operations are replaced by JMS and JNP preparation and application, which require similar time commitments but different skills. However, the elimination of time-intensive activities such as herbicide application and the reduced need for pest scouting partially offset the labor of JMS production. For Bongha village as a cooperative, shared equipment and knowledge further reduced per-household labor requirements.
-
-The net economic impact on participating households has been substantial. Eliminating $300-450 per acre in input costs while maintaining yields effectively doubles the net income per hectare for most farms. For a typical 2-hectare Korean farm, this represents an annual income improvement of approximately $6,000-9,000 USD — a transformative amount in rural Korean communities. The cooperative structure of the Bongha village project also enabled shared marketing, reducing transaction costs and improving market access for organic produce.
-
-## See Also
-
-- [[jadam-ultra-low-cost-agriculture]] - Cost philosophy and $100/acre target
-- [[jadam-natural-pesticide-jnp]] - Pesticide production system
+The most significant outcome may be the sustained nature of these results. Rather than showing the yield declines in later years that some organic systems experience as soil nutrient reserves are depleted, Bongha village farms have maintained or improved productivity over time. This suggests that the JADAM microbial approach — particularly the use of [[jadam-ultra-low-cost-agriculture]] - Cost philosophy and $100/acre target
 - [[jadam-wetting-agent-jwa]] - Core pesticide ingredient
-- [[jadam-sulfur-js]] - Core germicide ingredient
 - [[jadam-herb-solution-jhs]] - Herbal insecticide production
-- [[fukuoka-vegetable-growing-natural-method]]
 - [[jadam-natural-farming-philosophy]]
 - [[jadam-vision-ultra-low-cost-philosophy]]

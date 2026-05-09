@@ -1,142 +1,121 @@
----
-title: "Brassinosteroid Fungal Growth Promotion"
-created: 2026-04-28
-tags: [brassinosteroid, fungal-growth, psilocybe-cubensis, mycelium, fruiting, phytohormone, yield-enhancement, gartz]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
-type: concept
----
-
 # Brassinosteroid Fungal Growth Promotion
 
-In 1990, J. Gartz, G. Adam, and H.-M. Vorbrodt published the first documented
-study of brassinosteroid effects on fungal growth in Naturwissenschaften. The
-paper demonstrated that [[22S-23S-homobrassinolide]], a synthetic
-brassinosteroid phytohormone, dramatically accelerates mycelial growth and
-enhances fruiting body production in [[psilocybe-cubensis]] (Earle) Singer
-cultures when applied at extremely low concentrations.
+The discovery that brassinosteroids — a class of steroidal plant
+hormones — can dramatically accelerate fungal growth represents a
+significant finding in mycology and plant-fungal interactions.
+This cross-kingdom effect was first documented in a 1990 study by
+Gartz, Adam, and Vorbrodt, who observed that 22S,23S-
+homobrassinolide promoted mycelial growth and fruiting in the
+fungus Psilocybe cubensis.
 
-## Brassinosteroid Background
+## The Original Study
 
-Brassinosteroids represent a class of steroidal plant growth regulators
-recognized as a distinct group of phytohormones. By 1990, approximately 30
-members had been detected across a wide variety of higher plants including
-angiosperms, gymnosperms, and a green alga. Their growth-promoting activity
-involves complex physiological effects including increased cell elongation
-and cell division. Application in agriculture had shown promising results for
-higher crop yields and anti-stress effects. However, no prior studies on the
-occurrence or activity of brassinosteroids in fungi had been published before
-this investigation.
+The research was conducted using two cultivation systems: malt
+agar plates and a horse dung/rice grain substrate. Both systems
+contained 5 g of KH2PO4 per liter as a nutrient supplement. The
+brassinosteroid used was synthetic 22S,23S-homobrassinolide,
+prepared from stigmasterol, applied at a concentration of 0.01
+ppm. Ten experimental runs were conducted for each condition.
 
-## Experimental Design
+## Effects on Mycelial Growth
 
-The study used a strain of Psilocybe cubensis characterized by high stability,
-cultivated in two parallel systems to assess brassinosteroid effects across
-different substrate types. The synthetic compound
-[[22S-23S-homobrassinolide]], prepared from stigmasterol by Adam and
-Marquardt at the Institute of Plant Biochemistry of the Academy of Sciences
-of the GDR in Halle/Saale, was applied at a concentration of 10 to the power
-of minus 2 ppm. Both cultivation systems included 5 grams of monopotassium
-phosphate (KH2PO4) per liter in the substrate.
+On malt agar, the brassinosteroid-treated cultures showed mycelial
+growth rates two to three times faster than untreated controls.
+This acceleration was consistent across all ten replicate runs,
+demonstrating a robust and reproducible effect. The increased
+growth rate suggests that brassinosteroids either directly
+stimulate fungal metabolism or enhance nutrient uptake and
+assimilation mechanisms.
 
-**Malt agar system:** Mycelium was cultivated on 6% malt agar plates, with ten
-replicate experimental runs and corresponding control series without steroid.
+The rapid colonization of the substrate by treated mycelium has
+practical implications for cultivation efficiency, as faster
+colonization reduces the window of vulnerability to competitor
+organisms and contamination. In commercial mushroom cultivation,
+reducing colonization time by even 30-50% would represent a
+significant improvement in production efficiency.
 
-**Dung and grain system:** A horse dung and rice grain mixture in water was
-used to produce fruiting bodies, also with ten replicate runs and controls.
+## Effects on Fruiting Body Formation
 
-## Mycelial Growth Acceleration
+Perhaps the most striking observation was the effect on fruiting
+body (mushroom) production. On the dung/grain substrate, the first
+flush of fruit bodies appeared remarkably earlier in brassinosteroid-
+treated cultures. While control cultures required 4-5 weeks to
+produce the first sporocarps, brassinosteroid-treated cultures
+fruited within only 3-3.5 weeks — a reduction of approximately
+25% in the time to first harvest.
 
-In the malt agar cultivation system, mycelial growth in the brassinosteroid
-treated series proceeded two to three times faster than in the untreated
-control series across all ten experimental runs. This substantial rate
-increase was consistent and reproducible, indicating that the brassinosteroid
-acts on fundamental cellular processes of mycelial extension rather than
-through sporadic stimulation. The magnitude of the effect is notable given
-the extremely low concentration of applied compound.
+The number of fruit bodies per flush was also significantly
+increased. In the first flush, brassinosteroid-treated cultures
+produced 4-7 mushrooms compared to only 1-3 in the controls. This
+2-3x increase in first-flush productivity suggests that
+brassinosteroids enhance the fruiting initiation process itself,
+not merely accelerate mycelial growth.
 
-## Fruiting Body Enhancement
+Total dry mass yield was also improved: brassinosteroid-treated
+cultures produced 3.4-3.9 g dry weight per 10 g of substrate,
+compared to 2.3-2.9 g for controls. This represents an
+approximately 35-50% increase in biological efficiency.
 
-The dung and grain substrate system revealed even more pronounced effects on
-the reproductive phase of the fungal life cycle. The first flush of fruit
-bodies appeared remarkably earlier in brassinosteroid treated cultures,
-maturing at 3 to 3.5 weeks after inoculation compared to 4 to 5 weeks in the
-control series. This represents a time reduction of approximately 25 to 30%
-for the first harvest.
+## Reduction of Abnormalities
 
-The number of fruit bodies produced in the first flush was substantially
-higher with brassinosteroid treatment: four to seven mushrooms per culture
-compared to one to three in the control. This increase in first-flush yield is
-particularly significant for commercial cultivation, where the first flush
-typically accounts for the largest proportion of total harvestable biomass.
+An unexpected finding was that the formation of incomplete fruit
+bodies (aborts), normally present in mushroom cultivation, was
+almost completely suppressed by brassinosteroid treatment. This
+reduction in aborts contributes to the overall yield improvement
+and suggests that brassinosteroids promote more uniform and
+complete fruiting body development.
 
-Across five flushes during the complete fruiting period, brassinosteroid
-treated cultures produced a remarkably higher dry mass than controls. Treated
-cultures yielded 3.4 to 3.9 grams of dry material per 10 grams of substrate,
-compared to 2.3 to 2.9 grams in control cultivations. This represents a dry
-mass increase of approximately 35 to 48% over the total fruiting cycle.
+Additionally, the morphology of the fruit bodies was altered:
+treated cultures produced mushrooms that lacked the typical
+membranous annulus (ring) on the stems. This morphological change
+suggests that brassinosteroids influence not only growth rate but
+also developmental patterning during fruiting body formation.
 
-## Morphological Effects
+## Possible Mechanisms
 
-The brassinosteroid treatment produced a distinctive morphological change in
-the fruiting bodies: the treated specimens lacked the typical membranous
-annulus (ring) on the stems that is characteristic of Psilocybe cubensis.
-This suggests that brassinosteroid influence extends beyond growth rate and
-yield to affect developmental patterning of fruit body structures, possibly
-through interaction with fungal steroid receptor systems or membrane
-processes involved in annulus formation.
+Several hypotheses have been proposed to explain the cross-kingdom
+activity of brassinosteroids on fungi:
 
-Additionally, the formation of incomplete fruit bodies, a common problem in
-mushroom cultivation where primordia fail to develop into mature sporocarps,
-was almost completely suppressed by the brassinosteroid. This reduction in
-abortive fruiting represents a significant improvement in cultivation
-efficiency, as energy and substrate resources that would otherwise be wasted
-on incomplete development are instead directed to producing harvestable
-mushrooms.
+**Structural mimicry of fungal sterols**: Brassinosteroids share
+structural similarity with ergosterol, the primary sterol in
+fungal cell membranes. This similarity may allow brassinosteroids
+to interact with fungal sterol-binding proteins or receptors,
+influencing membrane properties or signaling pathways.
 
-## Proposed Biological Significance
+**Membrane effects**: As amphipathic molecules, brassinosteroids
+may alter membrane fluidity or permeability, potentially
+enhancing nutrient transport across the cell membrane and
+stimulating metabolic activity.
 
-The authors proposed that the strong growth-promoting effect of
-[[22S-23S-homobrassinolide]] in mycelial cultures of Psilocybe cubensis
-suggests that brassinosteroids could play a physiological role in higher
-fungi. This hypothesis extends the known biological distribution of
-brassinosteroids beyond the plant kingdom and raises questions about whether
-endogenous fungal brassinosteroids or brassinosteroid-like compounds might
-exist and function as growth regulators in basidiomycete fungi.
+**Metabolic activation**: Brassinosteroids may activate fungal
+enzyme systems involved in growth metabolism, possibly through
+interaction with sterol-sensing regulatory proteins.
 
-The observation that a plant-derived steroidal growth regulator at
-phytohormone concentrations produces dramatic effects on fungal development
-is consistent with the shared evolutionary history of sterol biosynthesis
-pathways between plants and fungi. Both kingdoms utilize similar isoprenoid
-precursor pathways and share steroidal structural motifs, making
-cross-kingdom hormonal activity biologically plausible.
+**Hormone receptor conservation**: It is possible that fungi
+possess receptors or signaling components that are evolutionarily
+related to plant brassinosteroid receptors, allowing recognition
+of these plant compounds.
 
-## Context in Mycological Research
+## Implications for Mushroom Cultivation
 
-This study was conducted within the broader research program of J. Gartz on
-the biochemistry and physiology of Psilocybe cubensis cultivation, building
-on his earlier published work on substrate optimization and cultivation
-methodology. The authors noted that further studies, including investigation
-of commercially important fungal species, were in progress. The extremely
-low effective concentration (0.01 ppm) and the absence of prior research on
-brassinosteroid-fungal interactions made this a novel finding at the
-intersection of plant physiology and mycology.
+The observed effects have potential practical applications in the
+cultivation of edible and medicinal mushrooms. If brassinosteroid
+treatment proves effective across a range of commercially important
+species, it could significantly improve production efficiency
+through faster colonization, earlier fruiting, higher yields, and
+reduced abort rates.
 
-## Implications for Cultivation
-
-The demonstrated effects of brassinosteroid supplementation on Psilocybe
-cubensis, including accelerated mycelial growth, earlier fruiting, increased
-first-flush yield, higher total dry mass, reduced abortive fruiting, and
-suppressed incomplete fruit body formation, collectively suggest significant
-potential for cultivation optimization. The low effective dose and the
-steroid's stability make it a practical candidate for integration into
-controlled cultivation protocols, although the annulus suppression effect
-warrants further investigation regarding its impact on spore production and
-species identification characteristics.
+However, the morphological changes observed (loss of the annulus)
+and the need for regulatory approval for hormone-treated food
+products present challenges for commercial adoption. Further
+research is needed to optimize brassinosteroid application methods,
+determine effective concentrations for different species, and
+assess any effects on mushroom nutritional composition or
+bioactive compound profiles.
 
 ## See Also
 
-- [[brassinosteroid]]
-- [[homobrassinolide]]
+- [[22s-23s-homobrassinolide]]
+- mycelial growth factors
 - [[mushroom-cultivation]]
+- [[ergosterol]]

@@ -24,11 +24,8 @@ The concept of Effective Microorganisms (EM/EM1) was introduced by T. Higa and
 G.N. Wididana, describing an inoculant of multiple beneficial microorganism
 species providing: suppression of plant pathogens and diseases, conservation of
 energy in plants, solubilization of soil minerals, soil microbial-ecological
-balance, photosynthetic efficiency, and biological [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]].
-
-This approach aligns with [[natural-farming-fpj-preparation]] philosophy, which also
-relies on indigenous microorganisms and fermented inputs to build [[fungal-soil-food-web]]
-health. The [[knf-lactic-acid-bacteria-serum]] production method described below
+balance, photosynthetic efficiency, and biological [[natural-farming-fpj-preparation]] philosophy, which also
+relies on indigenous microorganisms and fermented inputs to build [[knf-lactic-acid-bacteria-serum]] production method described below
 is one of the core inputs in both systems.
 
 The original EM blend included lactic acid bacteria, purple bacteria, yeast,
@@ -77,15 +74,7 @@ terpene biosynthesis through a direct biochemical pathway.
 
 ### Cannabinoid Biosynthesis Pathway
 
-Cannabinoids are terpenophenolic compounds composed of part [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] and part
-phenol group. The biosynthetic pathway proceeds as follows:
-
-1. **Olivetolic acid production** -- increases when Cannabis is subjected to
-   UV-B spectrum light (the basis for UV-enhanced trichome production claims)
-2. **Olivetolic acid + Geranyl Pyrophosphate** -- combine to form acidic
-   cannabinoids (cannabidiolic acid, tetrahydrocannabinolic acid)
-3. **Decarboxylation** -- removal of the -COOH group converts acidic cannabinoids
-   to their neutral forms ([[cannabis-health-thc-tetrahydrocannabinol]], CBD). This occurs during curing or heating.
+Cannabinoids are terpenophenolic compounds composed of part [[cannabis-health-thc-tetrahydrocannabinol]], CBD). This occurs during curing or heating.
 
 ### Hexanoyl-CoA as the Critical Intermediate
 

@@ -28,8 +28,6 @@ The decomposition mechanism is largely biochemical. Successive waves of bacteria
 actinomycetes, and fungi each specialize in breaking down different fractions of the
 organic material. Aerobic conditions must be maintained through regular turning to
 sustain the thermophilic phase. For detailed setup instructions, see the
-[[compost-building-guide]].
-### Vermicomposting (Mesophilic)
 [[vermicomposting]] takes a completely different approach, using epigeic earthworms
 — most commonly Eisenia fetida (red wigglers) — to process organic material. Worms
 consume partially decomposed matter and pass it through their digestive tracts, where
@@ -39,16 +37,7 @@ The process operates at mesophilic temperatures of 55 to 77 degrees Fahrenheit (
 to 25 degrees Celsius), which is why worm bins must be protected from extreme heat
 and cold. Freezing temperatures can be lethal, and temperatures above 85 degrees
 Fahrenheit cause worms to flee or die. The underlying biology of these organisms is
-explored in [[earthworm-ecology]].
-## Time Frames
-Traditional composting typically takes 3 to 12 months from raw inputs to finished,
-stable compost, depending on pile size, turning frequency, carbon-to-nitrogen ratio,
-and material mix. A well-managed hot pile with frequent turning can produce finished
-compost in as little as 6 to 8 weeks, but this demands significant labor.
-Vermicomposting can produce finished castings in 2 to 4 months, making it faster for
-small-scale operations. Processing time depends on worm population density, feeding
-rate, temperature, and the particle size of input materials. A full comparison of
-timelines is available in [[composting-methods-comparison]].
+explored in [[composting-methods-comparison]].
 ## Nutrient Content Comparison
 Vermicompost generally outperforms traditional compost in several measurable areas:
 - **Plant-available nutrients:** Worm castings contain higher levels of nitrate,
@@ -70,8 +59,7 @@ Vermicompost generally outperforms traditional compost in several measurable are
   finished castings. Research has shown that even small additions of vermicompost
   (5 to 10 percent by volume) can significantly improve seedling vigor and yield.
 The organisms responsible for these benefits are described in
-[[compost-biology-organisms]], and their role in the broader garden ecosystem is
-covered in [[soil-food-web]].
+[[soil-food-web]].
 ## Input Materials Each Can Handle
 Traditional compost piles can handle a wide range of coarse materials including woody
 branches (when chipped), large volumes of fall leaves, grass clippings, straw, and
@@ -93,8 +81,7 @@ Vermicomposting requires very little space and can be done entirely indoors. A
 standard worm bin occupies roughly 2 square feet of floor space and fits under a
 kitchen sink, in a closet, or on a balcony. This makes it ideal for apartments,
 classrooms, offices, and urban settings. Various container designs are compared in
-[[worm-bin-types-comparison]], and detailed build instructions are provided in
-[[composting-and-soil-biology]].
+[[ozier-pdc-composting-and-soil-building]].
 ## Effort Level
 Traditional composting demands periodic turning, monitoring of moisture and
 temperature, and attention to the carbon-to-nitrogen ratio. It is moderately
@@ -134,7 +121,5 @@ excels at processing large volumes of diverse materials with effective pathogen
 control through heat.
 
 ## See Also
-
-- [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]
 
 - [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]

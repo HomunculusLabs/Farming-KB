@@ -117,13 +117,8 @@ Its fruiting bodies are occasionally consumed by arboreal mammals, though it is 
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[laricifomes-officinalis]]
-- [[ganoderma-lucidum]]
 - [[fomes-fomentarius]]
-- [[phellinus-linteus]]
-- coriolopsis capitata
 - [[bjerkandera-adusta]]
-- [[xylaria-polymorpha]]
 - [[daldinia-concentrica]]
 - [[chondrostereum-purpureum]]

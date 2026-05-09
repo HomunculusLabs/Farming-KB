@@ -30,32 +30,7 @@ worldwide. Despite its small and unassuming appearance, this species contains th
 amatoxins that make the Death Cap and Destroying Angel among the most lethal organisms on Earth.
 
 In the cultivation literature, galerina autumnalis is specifically cited as a deadly
-poisonous lookalike of [[hypholoma-capnoides]] that shares the same conifer stump habitat.
-Stamets warns: "I can imagine how overly enthusiastic mycophiles, in their lust for
-delectable fungi, could mistake Galerina autumnalis, a deadly poisonous mushroom sharing
-the same habitat, for H. capnoides."
-
-This warning underscores a critical point: the mushroom is the primary reason cultivators
-should exercise extreme caution when foraging conifer stump mushrooms, and why indoor
-cultivation on sterilized substrates is strongly recommended for species like
-[[hypholoma-capnoides]] and [[hypholoma-sublateritium]].
-
-## Description
-
-The cap of galerina autumnalis measures 1.5 to 4 cm in diameter and is hygrophanous,
-meaning it changes color significantly depending on moisture content. When moist, the
-cap is brown to orange-brown, fading to a pale tan or buff color as it dries. This
-color-shifting property can make identification challenging for inexperienced foragers.
-
-The cap margin often bears remnants of the white partial veil, appearing as a thin,
-fibrous fringe or zone at the edge. The cap surface itself is smooth when young but may
-develop slight radial wrinkles with age. The overall form is initially convex, becoming
-broadly convex to nearly flat as the mushroom matures.
-
-The gills are attached to the stem (adnate) and are brownish when young, becoming a
-distinctive rusty brown color as spores mature. This rusty brown spore coloration is
-a critical diagnostic feature that distinguishes Galerina species from the
-purple-brown spored [[hypholoma-capnoides]].
+poisonous lookalike of [[hypholoma-capnoides]] and [[hypholoma-capnoides]].
 
 The stem is slender, measuring 3 to 6 cm long and 2 to 4 mm thick. A distinct annular
 ring zone from the partial veil is typically present on the upper stem, though this
@@ -83,11 +58,7 @@ in some regions.
 
 The mushroom frequently grows in the same habitat as edible Woodlover mushrooms of the
 genus Hypholoma, which is the primary reason for its danger to foragers. It has been
-observed growing alongside [[hypholoma-capnoides]] on the same conifer stump, making
-visual distinction between the two species critically important.
-
-galerina autumnalis has also been reported growing in proximity to
-[[psilocybe-cyanescens]] and other wood-inhabiting species, further complicating the
+observed growing alongside [[psilocybe-cyanescens]] and other wood-inhabiting species, further complicating the
 identification landscape for foragers exploring woody debris habitats.
 
 ## Cultivation

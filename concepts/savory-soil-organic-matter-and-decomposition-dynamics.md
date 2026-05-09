@@ -15,8 +15,7 @@ Soil organic matter is the foundation of the mineral cycle management.
 It provides crumb structure for water infiltration, nutrient-holding
 capacity that prevents leaching, and energy for soil organisms that
 drive decomposition and nutrient cycling. Understanding organic matter
-dynamics is essential to [[savory-soil-carbon-sequestration]] and reversing
-[[desertification]] causes.
+dynamics is essential to [[desertification]] causes.
 
 ## What Is Soil Organic Matter?
 
@@ -101,35 +100,6 @@ to plants and animals may lie beyond shallow roots' reach.
 Small animals play important roles in nutrient uplift and organic
 incorporation: earthworms in moist environments create channels for
 aeration; termites in dry areas build structures and process material;
-bacteria and fungi are primary decomposers; [[mycorrhizal-fungi]] extend
-effective root zones. Agricultural chemicals destroy many organisms and
-inhibit others, including nitrogen-fixing bacteria. Monoculture reduces
-root diversity and the soil environments supporting microorganism
-populations.
-
-## Animal Impact and Organic Matter
-
-In brittle environments, large animal disturbance is essential:
-
-- Animal impact lays mulch and litter on soil, incorporating it.
-- Trampling breaks soil surfaces, allowing decomposer access.
-- Dung and urine add fresh organic material and concentrated nutrients.
-- Grazing removes old material while trampling incorporates it.
-
-Without adequate animal impact, plant spacings enlarge, soil becomes
-exposed, and few forces decompose old material or hold it in place.
-
-## Monitoring Soil Organic Matter
-
-Changes can be monitored through visual assessment of soil structure
-and color, earthworm counts, organic content testing, litter
-decomposition rate observation, and changes in water infiltration.
-
-## See Also
-
-- mineral cycle management - The broader nutrient cycling framework
-- [[savory-soil-carbon-sequestration]] - Organic matter as carbon storage
+bacteria and fungi are primary decomposers; [[savory-soil-carbon-sequestration]] - Organic matter as carbon storage
 - brittle environments - Where decomposition dynamics are critical
-- [[savory-soil-surface-and-capping]] - Surface conditions affecting organic
-  matter
 - [[savory-water-cycle-management]] - How organic matter affects infiltration

@@ -98,11 +98,7 @@ Understanding root pressure helps explain several phenomena:
 
 ## Related Topics
 
-- [[xylem-and-phloem-transport-systems-in-plants]] -- the vascular transport context
 - [[water-pathways-through-plants]] -- the complete water movement picture
-- [[diffusion-osmosis-and-active-transport-in-plants]] -- osmotic pressure principles
 - [[root-anatomy-structure-and-nutrient-uptake]] -- where root pressure originates
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[temperature-effects-plant-nutrient-uptake]]
-- [[plant-nutrient-uptake-mechanisms]]
 - [[stomata-transpiration-and-plant-water-regulation]]

@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
 # Grain Processing and Milling Guide
@@ -97,7 +98,5 @@ Three options for home milling:
 - Finest setting: cake flour
 - Generally, 1 cup of grain makes 1.5 cups of flour
 
-See also: [[small-scale-grain-growing]], [[grain-harvesting-and-storage]], [[grain-milling-at-home]], [[faires-grain-harvesting-and-processing]], [[saving-seeds]]
-- [[fukuoka-barley-winter-grain-method]]
-- [[stamets-harvesting-drying-and-storage]]
+See also: [[grain-harvesting-and-storage]], [[faires-grain-harvesting-and-processing]], [[fukuoka-barley-winter-grain-method]]
 - [[home-garden-seed-saving]]

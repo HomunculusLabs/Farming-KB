@@ -87,7 +87,9 @@ Psilocybe semilanceata, for example, has been reported from increasingly souther
 
 ## Related Topics
 
-- [[neurotropic-fungi-biogeographic-patterns]]
 - [[psilocybe-species-diversity-and-biogeographic-origin]]
-- [[psilocybin-mushroom-discovery-historical-periods]]
 - [[distribution-of-neurotropic-fungi]]
+
+## See Also
+
+- [[global-distribution-of-neurotropic-fungi]]

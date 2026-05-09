@@ -3,7 +3,7 @@ title: Fungal Glomalin And Soil Carbon
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -73,19 +73,11 @@ Interestingly, this pathway was more strongly associated with fine roots common 
 
 ## See Also
 
-[[fungal-soil-aggregation]]
-
 [[arbuscular-mycorrhizal-fungi]]
-
-[[fungal-carbon-storage-mycorrhizal-pathways]]
 
 [[fungal-role-in-carbon-cycling]]
 
-[[lichen-ecology-and-soil-formation]]
-
 [[fungal-community-assembly]]
-
-[[arbuscular-mycorrhizal-networks]]
 
 [[mycorrhizal-carbon-nitrogen-economics]]
 

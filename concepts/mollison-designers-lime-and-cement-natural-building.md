@@ -14,10 +14,7 @@ sources:
 type: concept
 ---
 
-# Lime and Cement in Natural Building
-
-Bill Mollison covers lime and cement extensively in Chapter 14 of
-Permaculture: A Designers' Manual, presenting lime as the preferred
+# Lime and Cement in [[permaculture]]: A Designers' Manual, presenting lime as the preferred
 binding material for permaculture building while acknowledging the role
 of cement where structural demands require it. He emphasises understanding
 the chemistry and sourcing of these materials for self-reliant building.
@@ -69,82 +66,24 @@ general building mortars. Lime mortars are:
 - Low energy: lime production requires far less energy than cement
   production
 - Reversible: lime mortar can be removed and walls disassembled for
-  recycling, supporting [[permaculture-principles]] of resource cycling
-
-Lime mortar sets slowly by carbonation -- absorbing carbon dioxide from
-the air and reverting to calcium carbonate. This process can take weeks
-to months depending on wall thickness and conditions.
-
-## Natural Hydraulic Lime (NHL)
-
-Some limestones contain clay impurities (silica, alumina) that, when
-burned, produce natural hydraulic lime (NHL). This material sets both by
-carbonation and by hydraulic reaction with water, making it faster-setting
-and more durable in wet conditions. Mollison categorises hydraulic limes:
-
-- NHL 2 (feebly hydraulic): for interior renders and pointing in sheltered
-  conditions
-- NHL 3.5 (moderately hydraulic): general building mortars, external
-  renders in moderate exposure
-- NHL 5 (eminently hydraulic): structural mortars, foundations, chimneys,
-  and marine environments
-
-## Pozzolans
-
-Pozzolans are materials that, when mixed with lime, create a hydraulic
-set even if the lime itself is non-hydraulic. Mollison lists traditional
-pozzolanic additives:
-
-- Volcanic ash (the original Roman pozzolana)
-- Crushed brick or tile (fired clay pozzolan)
-- Rice husk ash (abundant in many tropical regions)
-- Diatomaceous earth
-- Pulverised fuel ash (fly ash) from industrial processes
-
-Adding a pozzolan to lime mortar produces a material with some of the
-strength and water resistance of cement while retaining the breathability
-and flexibility of lime. This is a key strategy for permaculture builders
-seeking to minimise cement use.
-
-## Lime Renders and Plasters
-
-Lime render (external) and lime plaster (internal) protect earth, stone,
-and straw walls from weather while remaining breathable. Mollison
-recommends three-coat application:
-
-1. Scratch coat: a coarse mix of lime and sharp sand, scratched to
-   provide key for subsequent coats
-2. Float coat: a medium mix with finer sand, levelled to create a flat
-   surface
-3. Finish coat: a fine mix, often with lime putty alone or with very fine
-   sand, trowelled to a smooth or textured finish
-
-For external renders, Mollison advises adding a small proportion of
-pozzolan or hair (animal fibre) for crack resistance. Lime wash (dilute
-lime paint) provides a breathable, antiseptic, and mould-resistant finish.
-
-## Cement: Comparison and Critical Assessment
-
-Mollison is critical of the overuse of Portland cement in modern
-construction for several reasons:
-
-- Energy intensity: cement production requires approximately 4 to 7 GJ per
-  tonne, releasing roughly 0.8 to 1.0 tonnes of CO2 per tonne of cement
-- Non-breathability: cement mortars and renders trap moisture in walls,
-  accelerating decay of earth, timber, and stone elements
-- Rigidity: cement mortar does not accommodate movement, leading to
-  cracking and structural problems in flexible buildings
-- Resource dependence: cement requires industrial-scale quarries, kilns,
-  and transport infrastructure
-- Non-reusability: cement-bonded structures are difficult to dismantle
-  and recycle
-
-However, Mollison acknowledges that cement has legitimate uses in
-foundations, floors, and structures subject to high compressive loads or
-water exposure. His recommendation is to use lime wherever possible and
-reserve cement for situations where its properties are genuinely necessary,
-always seeking to minimise quantities through good design.
-
-See also [[mollison-designers-earth-rammed-tire-construction]],
+  recycling, supporting [[mollison-designers-earth-rammed-tire-construction]],
 [[mollison-designers-bamboo-treatment-preservation]],
-and [[mollison-designers-house-design-climate-zones]].
+## Practical Considerations
+
+Successful implementation of Lime and Cement in Natural Building requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

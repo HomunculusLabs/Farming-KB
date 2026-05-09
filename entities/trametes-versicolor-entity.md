@@ -140,11 +140,8 @@ The most important feature is the **concentrically zoned cap** with multiple col
 - **Trametes hirsuta** — similar but uniformly gray-brown, hairy cap without distinct zoning
 - **Stereum ostrea** (false turkey tail) — smooth pore-less underside (hymenium is smooth, not poroid)
 - **Lenzites betulina** — gill-like folds rather than true pores
-
 ## See Also
 
-- [[ganoderma-lucidum]] — Reishi — polypore medicinal mushroom with complementary immunomodulatory properties
 - [[grifola-frondosa]] — Maitake — polypore with similar immunomodulatory glucans
-- [[coriolus-versicolor]] — Historical taxonomic synonym
 - [[trametes-sanguinea]]
 - [[trametes-trogii]]

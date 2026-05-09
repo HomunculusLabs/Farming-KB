@@ -65,64 +65,7 @@ Both species prefer well-drained, slightly acidic to neutral soils but differ in
 | **Drainage** | Moderate to good; tolerates periodic waterlogging | Must be excellent; root rot is a major cause of death |
 | **Fertility** | Moderate; responds to organic matter | Moderate to high; heavier feeder than soursop |
 | **Salinity** | Low tolerance | Very low tolerance |
-Both species develop relatively shallow root systems compared to many fruit trees. [[raised-beds-vs-in-ground-vs-containers]] or mounding is recommended for cherimoya in areas with imperfect drainage.
-
-## Propagation
-
-### Soursop
-
-- **Seed**: Seeds lose viability quickly (2–4 weeks). Sow 1 cm deep in warm, moist medium. Germination in 15–30 days at 25–30°C. Seedling trees are highly variable in fruit quality.
-- **Grafting**: Patch budding and cleft grafting onto seedling rootstocks. Grafted trees fruit in 3–4 years versus 4–6 for seedlings.
-- **Cuttings**: Hardwood cuttings can root under mist but success is inconsistent (20–40%).
-
-### Cherimoya
-
-- **Seed**: Seeds are recalcitrant and should be planted immediately after extraction. Germination in 3–5 weeks at 20–25°C. High genetic variability in seedling trees.
-- **Grafting**: The standard propagation method. Chip budding, side-veneer, and cleft grafting are all used. Grafted trees fruit in 2–4 years.
-- **Cuttings**: Semi-hardwood cuttings under mist with rooting hormone. Success rates of 50–80% reported.
-
-**Key difference**: Cherimoya benefits more from clonal propagation because seedling trees are extremely variable and often produce inferior fruit. Named cultivars (e.g., 'Booth', 'Pierce', 'White', 'Fino de Jete') are essential for commercial quality.
-
-## Planting and Establishment
-
-| Factor | Soursop | Cherimoya |
-|--------|---------|-----------|
-| **Spacing** | 6–8 m (25–30 trees/ha) | 5–7 m (30–40 trees/ha) |
-| **Planting hole** | 50 cm³ with compost | 60 cm³ with compost and bonemeal |
-| **Wind protection** | Moderate wind tolerance | Requires windbreaks; brittle branches |
-| **Mulching** | Beneficial, especially for moisture retention | Essential; shallow roots benefit greatly |
-| **Establishment irrigation** | Regular for first 2 years | Critical for first 3 years; cherimoya is less forgiving |
-
-## Pollination and Fruit Set
-
-### Soursop
-
-Soursop is partially self-fertile and benefits from insect pollination (small beetles, particularly nitidulids). In many growing regions, natural pollination is sufficient for adequate fruit set. Hand pollination is rarely necessary. Flowers are protogynous (female phase precedes male phase within the same flower), but this is less problematic than in cherimoya because the flowering period is longer and insects are more active in the warm, humid conditions where soursop grows.
-
-### Cherimoya
-
-Pollination is the **most challenging aspect of cherimoya cultivation**. The flowers are protogynous with a narrow receptivity window — the female phase opens in the evening and lasts only a few hours, while the male phase (anther dehiscence) occurs the following afternoon. In its native habitat, small beetles (*Nitidulidae*) pollinate the flowers, but these natural pollinators are absent or scarce in most commercial growing regions (California, Spain, Chile, Australia).
-
-**Hand pollination is essential** for consistent, high-quality fruit production in most commercial settings. This involves collecting pollen from male-phase flowers in the afternoon and applying it to female-phase flowers in the early evening using a small brush. This labor-intensive process is one of the main reasons cherimoya commands premium prices — the cost of hand pollination is significant.
-
-Without hand pollination, cherimoya fruit is often small, misshapen, and has fewer seeds with poorly developed flesh (a condition known as "finger fruiting").
-
-## Nutrition and Irrigation
-
-### Fertilization
-
-| Growth Stage | Soursop | Cherimoya |
-|-------------|---------|-----------|
-| **Young tree (1–3 yr)** | 100–200 g NPK 10-10-10, 3–4×/year | 200–300 g balanced NPK, 4–6×/year |
-| **Bearing tree** | 1–2 kg NPK per tree/year, split applications | 0.5–1 kg N per tree + P & K based on soil test |
-| **Key nutrients** | N, K most important | N, K, Ca, and B (boron deficiency causes fruit cracking) |
-| **Organic approach** | Compost + mulch, annual top-dressing | Compost + mulch + seaweed foliar spray |
-
-### Irrigation
-
-Soursop requires consistent moisture for best production but tolerates some dry periods. Mature trees need approximately 30–50 mm of water per week during the growing season.
-
-Cherimoya has a more critical need for regular irrigation, especially during flowering and fruit development. Water stress during these periods causes excessive flower drop and small fruit. [[drip-irrigation-cannabis]] is strongly recommended. Avoid waterlogging at all costs.
+Both species develop relatively shallow root systems compared to many fruit trees. [[drip-irrigation-cannabis]] is strongly recommended. Avoid waterlogging at all costs.
 
 ## Pests and Diseases
 
@@ -132,18 +75,5 @@ Both species are susceptible to:
 - **Annona seed borer** (*Bephratelloides* spp.): Larvae bore into seeds, causing premature fruit drop
 - **Mealybugs** (*Planococcus* spp.): Sap-sucking; promote sooty mold
 - **Root rot** (*Phytophthora*, *Pythium* spp.): Major cause of tree death, especially in poorly drained soils
-- **Anthracnose** (*[[colletotrichum-gloeosporioides]]*): Fruit rot, leaf spots
-
-### Species-Specific Issues
-
-| Problem | Soursop | Cherimoya |
-|---------|---------|-----------|
-| **Fruit fly** | Major pest in tropical regions; requires bagging or bait sprays | Less problematic in cooler climates |
-| **Red mite** | Occasional in hot, dry periods | Significant in some growing areas |
-| **Wasp larvae** (*Bephratelloides cubensis*) | Primary fruit pest in the Americas | Less prevalent |
-| **Blossom blight** | Rare | Can be problematic in humid conditions |
-## See Also
-
-- [[comparison-grafting-vs-budding-fruit-trees]]
-- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+- **Anthracnose** (*[[comparison-grafting-vs-budding-fruit-trees]]
 - [[permaculture-plants-fruit-trees-subtropical]]

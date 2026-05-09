@@ -137,14 +137,8 @@ The high myrcene-to-pinene ratio is a key driver of its sedative character.
 | Master Kush | Hindu Kush × Skunk #1 | Master Kush has more cerebral effects, different terpene balance |
 | Skywalker OG | OG Kush × Blueberry | Skywalker adds berry sweetness; Kosher is more pungent/earthy |
 | Tahoe OG | OG Kush phenotype | Tahoe is more cerebral initially; Kosher is heavier body sedation |
-
 ## See Also
-- [[og-kush]]
 - [[hindu-kush]]
-- [[granddaddy-purple]]
 - [[girl-scout-cookies]]
-- [[blue-dream-strain]]
 - [[northern-lights]]
-- [[myrcene]]
-- [[caryophyllene-oxide]]
 - [[limonene]]

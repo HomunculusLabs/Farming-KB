@@ -11,11 +11,11 @@ sources: []
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup [[mollison-designers-citrus-growing-and-care]]. Indoor cultivsalvia-divinorum-entityanpsychotria-viridisar-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and [[banisteriopsis-caapi]].
+Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and Banisteriopsis caapi.
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 
-## San Pedro Cactus ([[trichocereus-pachanoi]])
+## San Pedro Cactus (Trichocereus pachanoi)
 
 ### Setup Requirements
 - Light: Full sun equivalent — grow lights (full spectrum LED or MH/HPS) at 200–400 µmol/m²/s, 12–14 hours/day
@@ -42,7 +42,8 @@ Note: Growing these plants is legal in most jurisdictions when done for ornament
 6. Gradually remove humidity cover over 2–3 months
 7. Growth rate from seed is slow: 1–2 inches per year for the first few years
 
-### CarneemFertilize monthly during the growing season (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
+### Care
+- Fertilize monthly during the growing season (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
 - Reduce or stop watering and fertilizing in winter (dormancy period)
 - Watch for pests: mealybugs, scale, spider mites — treat with neem oil or insecticidal soap
 - Rotate pots quarterly for even growth
@@ -70,8 +71,8 @@ Salvia rarely produces viable seeds. Propagation is by stem cuttings:
 3. Remove lower leaves, leaving 2–4 pairs at the top
 4. Place the cutting in a glass of water (or moist potting soil)
 5. Keep in a warm, humid, bright indirect light location
-6. Roots form in 2–4 weeks [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
-7. Once roots are 1–2 inches long, transplant [[query-how-do-legumes-add-nitrogen-to-soil]]
+6. Roots form in 2–4 weeks in water
+7. Once roots are 1–2 inches long, transplant to soil
 8. Maintain high humidity during the transition — a humidity dome or misting system helps
 
 ### Care
@@ -106,7 +107,7 @@ From seed:
 4. Germination: 3–8 weeks (can be erratic)
 5. Seedlings are slow-growing initially
 
-[[query-how-to-propagate-woody-herbs-from-cuttings]]:
+From cuttings:
 1. Take semi-hardwood cuttings 4–6 inches long
 2. Dip in rooting hormone
 3. Place in moist propagation mix under high humidity
@@ -147,3 +148,38 @@ From cuttings:
 
 ### Care
 - Provide a sturdy trellis or support structure — the vine will climb aggressively
+- Maintain high humidity consistently
+- Keep warm year-round — even brief cold exposure can be fatal
+- Water when the top inch of soil is dry — do not let soil become waterlogged
+- Fertilize monthly during the growing season with balanced tropical plant fertilizer
+- Prune to manage size — B. caapi can grow 30+ feet in tropical conditions
+- Harvest can be done by pruning sections of mature vine (1+ inch diameter)
+
+### Growth Rate
+- Slow indoors: 1–3 feet per year under good conditions
+- Vine diameter of 1+ inch typically requires 3–5 years of growth
+- A mature, harvestable plant requires significant space and commitment
+
+## General Indoor Entheogen Growing Tips
+
+### Environment Control
+- Use a grow tent or dedicated grow space for consistent conditions
+- A thermometer/hygrometer is essential — monitor conditions daily
+- Automated timers for lights
+- Humidifiers and fans for air circulation
+
+### Pest Management
+- Quarantine new plants for 2 weeks before adding to your grow space
+- Inspect regularly for pests — early detection is key
+- Neem oil, insecticidal soap, and biological controls (ladybugs, predatory mites) are effective organic options
+- Avoid systemic pesticides on plants that may eventually be consumed
+
+### Legal Awareness
+- Growing these plants is generally legal as ornamentals in most jurisdictions
+- However, cultivating with the intent to consume for psychoactive effects may be illegal
+- Be discreet and informed about your local laws — see [[psychedelic-plants-legal-status]]
+
+## Related Topics
+
+- [[entheogen-vendors-and-sources]] — where to obtain plants, seeds, and cuttings
+- [[san-pedro-cactus-preparation]] — what to do with your harvested San Pedro

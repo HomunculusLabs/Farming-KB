@@ -22,36 +22,18 @@ and cultivated environments across multiple continents.
 Several species documented in the guide are coprophilous (dung-
 dwelling):
 
-- [[psilocybe-cubensis]]: photographed growing on dung heaps in
-  Jacksonville, Florida; one of the most widely distributed
-  dung-associated psilocybin mushrooms worldwide. Commonly found
-  on bovine dung in tropical and subtropical pastures
 - [[panaeolus-subbalteatus]] (=cinctulus): documented growing
   directly on horse dung in the Black Forest, Germany. Also found
   in compost and enriched grassland soils
 - Psilocybe coprophila: the species name ("dung-loving") indicates
   its primary substrate association
-- [[psilocybe-samuiensis]]: documented from manured soil in rice
-  paddies on Koh Samui, Thailand. Represents a transitional
-  habitat between direct dung and enriched agricultural soils
-
-### Wood-Inhabiting Species (Lignicolous)
-
 - [[psilocybe-cyanescens]] (Wavy Caps): documented growing on alder
   wood chips in multiple locations; thrives in landscaped areas
   using hardwood chip mulch. Photographed in the Black Forest of
   Germany and northern California
-- [[psilocybe-azurescens]]: found on alder wood chips near Stuttgart,
-  Germany. Known to form large fairy rings in wood chip beds
 - [[gymnopilus-spectabilis-entity]] (Big Laughing Gym): photographed growing
   on stumps, tree bark, and wood in Mendocino, California.
   Typically found on dead or dying hardwoods
-- [[psilocybe-pelliculosa-entity]] (Conifer Psilocybe): as the common name
-  indicates, associated with conifer forests in the Pacific
-  Northwest
-
-### Grassland and Meadow Species
-
 - [[psilocybe-semilanceata]] (Liberty Cap): documented in grass
   clumps, lawns, and pastures across Europe. Photographed in the
   Black Forest region of Germany and in Southern Norway (growing
@@ -64,76 +46,64 @@ dwelling):
 
 ### Moss-Associated Species
 
-- [[psilocybe-baeocystis]] (potent psilocybe): documented growing
-  directly on moss. This mossy substrate association is
-  characteristic of its preferred Pacific Northwest coniferous
-  forest habitat
-
-## Geographic Distribution from the Guide
-
-### North America
-
-- United States -- California: P. cyanescens (northern CA, Black
-  Forest region collections), G. spectabilis (Mendocino),
-  P. cubensis (Jacksonville, Florida)
-- Seasonality: P. cyanescens photographed in northern California
-  in December through January; G. spectabilis collections from
-  Mendocino (season unspecified)
-
-### Europe
-
-- Germany: P. cyanescens (Black Forest, southwest Germany,
-  photographed in early November); P. semilanceata (Black Forest,
-  early November); P. subbalteatus (Black Forest, October); P.
-  azurescens (near Stuttgart, October)
-- Norway: P. semilanceata (Southern Norway, September)
-
-### Asia and Pacific
-
-- Thailand: P. cubensis (Koh Samui, including "Giant" strains
-  from Ban Hua Thanon); P. samuiensis (Koh Samui, rice paddies);
-  P. subcubensis (Koh Samui)
-- Hawaii: C. cambodgeniensis (Oahu Island, noted as very common
-  there)
-
-### Mexico
-
-- P. hoogshagenii var. hoogshagenii (specific Mexican origin)
-
-## Cultivated Habitats
-
-The guide includes an extensive cultivation section documenting
-P. cubensis grown on:
-
-- PF-style rice flour/vermiculite substrate cakes
-- Mycelium colonized in jars (21 days after inoculation)
-- Fruiting in perlite-lined grow chambers
-- Agar petri dish cultures for mycelium propagation
-
-## Seasonal Clues
-
-Habitat searches are most productive during specific seasons:
-
-- Autumn (September-November): peak season for European species;
-  P. cyanescens and P. semilanceata photographed in early
-  November in Germany; P. subbalteatus found in October
-- Winter (December-January): P. cyanescens continues fruiting
-  in northern California's mild coastal winters
-- Tropical species: P. cubensis and P. samuiensis fruit year-
-  round in warm, humid climates without strong seasonal restriction
-
-## Habitat as a Primary Identification Filter
-
-Knowing the expected substrate immediately narrows identification
-possibilities. A mushroom growing on alder chips in a garden bed
-is far more likely to be P. cyanescens than P. cubensis. One
-found on horse dung is unlikely to be P. semilanceata. The guide's
-photographic documentation of species in their actual growing
-environments provides this critical context for field
-identification.
-
-## See Also
-
 - [[gartz-magic-mushrooms-global-distribution-patterns]]
-- [[psilocybin-mushroom-image-guide-identification-methods]]
 - [[psilocybin-mushroom-image-guide-lookalike-species]]
+## Practical Considerations
+
+When working with Psilocybin Mushroom Habitat Clues from the Image Guide, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

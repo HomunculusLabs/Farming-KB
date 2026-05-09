@@ -65,28 +65,9 @@ Never apply lime to soil that has just been manured because it will
 combine with the manure to form ammonia gas, releasing nitrogen
 into the air and wasting valuable fertility. This timing
 requirement means careful planning within your
-[[hamilton-crop-rotation-and-vegetable-planning]] schedule.
-
-## How Much Lime to Apply
-
-The amount depends on your soil type. Heavy clay soils need more
-lime than light sandy ones. As a rough guide, to increase the pH
-of a sandy soil by one unit, apply 2lb (1kg) lime per 100 square
-yards. Sandy loam needs 4lb (2kg), medium loam about 6lb (3kg),
-and heavy clay roughly 8lb (4kg) per 100 square yards. In practice,
-the pH level is not so critical that your plants will die if you
-do not get it exactly right; recommended pH levels are a guide.
-
-## Lowering Soil pH
-
-Few garden soils are so limy that they will not grow vegetables at
-all. Liberal doses of [[hamilton-composting-and-organic-matter-management]]
+[[hamilton-composting-and-organic-matter-management]]
 applied by organic gardeners will usually lower the pH sufficiently.
-For very chalky soils, grow vegetables on the [[hamilton-deep-bed-system]],
-which raises the growing area and prevents surrounding alkaline water
-from draining into it. Heavy spreadings of organic matter, annual
-digging-in of manure or compost, and regular
-[[hamilton-mulching-materials-and-techniques]] all help acidify soil.
+For very chalky soils, grow vegetables on the [[hamilton-mulching-materials-and-techniques]] all help acidify soil.
 
 ## pH and Nutrient Availability
 
@@ -94,8 +75,6 @@ Soil pH affects the availability of many plant nutrients. At very
 low or very high pH values, essential nutrients become locked in
 forms that plant roots cannot absorb. This is why maintaining pH
 around 6.5 is important for most crops. See
-[[hamilton-nutrient-deficiencies-and-treatment]] for specific
-deficiency symptoms related to pH imbalances, and
 [[hamilton-organic-fertilizers-and-plant-nutrition]] for nutrient
 management in relation to soil acidity.
 

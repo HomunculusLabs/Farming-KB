@@ -37,44 +37,7 @@ away during heavy rains.
 
 ## Slope Stability
 
-In the context of [[mollison-tropical-earth-shaping-and-terrace-systems]],
-vetiver grass is listed as a primary slope stability tool alongside
-lemongrass and banna grass (Pennisetum). The roots of vetiver grass
-prevent soil movement downslope, while the above-ground clump catches
-and slows overland water flow.
-
-For terrace bund stabilisation, Mollison recommends contour strips of
-vetiver grass and lemongrass on the bund faces and borders of terraced
-gardens. These grasses clump readily, have few seeds (reducing weediness),
-provide mulch, and hold soil in place.
-
-## Mulch Production
-
-Vetiver grass, lemongrass, and related clumping grasses are cut 3-5 times
-annually for mulch. The mulch crop serves multiple functions: it covers
-bare soil, suppresses weeds, retains moisture, and as it decomposes,
-builds soil humus. In garden barrier systems, vetiver is one of the key
-clump grasses that prevents weed re-invasion of mulched gardens.
-
-## Garden Barriers
-
-Around annual, mulched gardens laboriously freed of weeds, a band of
-grass-barrier plants prevents weed re-invasion. Mollison identifies four
-to five forms of effective barrier plants:
-
-- A deep-rooted broadleaf (e.g. comfrey)
-- A clump grass which does not seed down or is not browsed (e.g.
-  lemongrass, vetiver grass)
-- A carpeting plant such as sweet potato, nasturtium, or Impatiens
-- A dense low shrub (Oncoba, Coprosma, Echium)
-- A bulb such as Canna or Agapanthus
-
-In total, the same plants can form a fire barrier, provide ample mulch
-for the garden, and if initially cared for, establish in one season.
-
-## Gully Stabilisation
-
-In [[mollison-wet-dry-tropical-design-strategies]], Mollison describes
+In the context of [[mollison-wet-dry-tropical-design-strategies]], Mollison describes
 the use of vetiver grass for stabilising gullies and check dams. All weirs
 need vetiver grass or some such tough plant barrier to hold erosion on the
 gully sides. At the Assomada project in Cape Verde (Sahel), terrace
@@ -122,9 +85,6 @@ forming a dense continuous hedge.
 
 ## Related Concepts
 
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - [[mollison-tropical-earth-shaping-and-terrace-systems]]
-- [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-barrier-plants-in-garden-design]]
-- [[mollison-wet-dry-tropical-design-strategies]]
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]

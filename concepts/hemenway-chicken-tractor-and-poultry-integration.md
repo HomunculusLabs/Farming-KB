@@ -1,7 +1,7 @@
 ---
 title: "Chicken Tractor and Poultry Integration"
 created: 2026-04-28
-tags: [permaculture, poultry, chickens, animal-integration, small-livestock]
+tags: [[permaculture, poultry, chickens, animal-integration, small-livestock]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
@@ -95,23 +95,6 @@ supported by multiple elements.
 
 ## Zone Placement
 
-[[hemenway-zone-and-sector-planning]] informs animal placement. Small
-animals such as chickens, rabbits, and bees find their best homesite at the
-Zone 1/Zone 2 boundary, where they can be checked daily and fed kitchen
-scraps on the way to the garden. If the chicken coop is on the path to a
-vegetable bed, you can toss kitchen scraps to the birds as you head out to
-weed, and on the return trip give the weeds to the eager birds in exchange
-for eggs. Why make three trips?
-
-## Other Backyard Animals
-
-### Ducks
-Excellent for slug control in damp climates. Duck ponds can serve double duty
-as garden water features and wildlife habitat.
-
-### Rabbits
-Rabbits produce valuable manure that can go directly on plants without
-composting (unlike chicken manure). See
 [[hemenway-worm-bin-rabbit-integration]] for integration strategies.
 
 ### Pigeons and Quail
@@ -133,12 +116,7 @@ they can be too noisy for urban settings.
 - **Rotation:** Move tractors regularly to prevent over-concentration of
   manure in one spot and to give the birds fresh forage
 - **Water access:** Animals need clean water daily, which can be integrated
-  with garden [[irrigation-systems]]
-
-## See Also
-
-- [[hemenway-zone-and-sector-planning]] for optimal animal placement
-- [[hemenway-worm-bin-rabbit-integration]] for rabbit-specific systems
+  with garden [[hemenway-zone-and-sector-planning]] for optimal animal placement
 - [[hemenway-garden-design-process-observation-and-visioning]] for
   integrating animals into the overall design
 - [[hemenway-greywater-design-philosophy]] for water systems that can support

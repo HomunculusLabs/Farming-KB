@@ -25,9 +25,7 @@ sources:
 rod-shaped bacteria in the family Pseudomonadaceae. With over 270 named
 species, it is one of the most ecologically versatile bacterial genera,
 inhabiting soil, water, plant surfaces, and animal tissues. Members play
-critical roles in [[soil-food-web]] dynamics,
-[[plant-growth-promoting-rhizobacteria]], [[mushroom-cultivation-fundamentals]],
-bioremediation, and [[mushroom-cultivation]].
+critical roles in [[plant-growth-promoting-rhizobacteria]], [[mushroom-cultivation]].
 
 ## Taxonomy and Characteristics
 
@@ -49,22 +47,7 @@ sources, underpinning their bioremediation importance.
 ## Plant Growth-Promoting Rhizobacteria (PGPR)
 
 Many *Pseudomonas* species are among the most important
-[[plant-growth-promoting-rhizobacteria]]:
-
-- **Phosphate solubilization:** Produce organic acids (gluconic,
-  2-ketogluconic) that solubilize insoluble phosphate, improving plant
-  phosphorus availability.
-- **Phytohormone production:** Many strains produce indole-3-acetic acid
-  (IAA), cytokinins, and gibberellins stimulating root growth.
-- **ACC deaminase:** Lowers plant ethylene under stress, reducing
-  stress-induced growth inhibition.
-- **Siderophore production:** Powerful iron-chelators (pyoverdine,
-  pyochelin) improve plant iron nutrition while depriving pathogenic fungi
-  of iron — central to biocontrol.
-
-## Biocontrol
-
-*Pseudomonas* species are among the most widely studied [[mushroom-cultivation-fundamentals]]
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 bacteria. Mechanisms include:
 
 - **Antibiotic production:** Phenazine, pyoluteorin, DAPG, pyrrolnitrin,
@@ -84,54 +67,13 @@ fluorescens* A506 (BlightBan) and CHA0.
 
 ## Role in Mushroom Cultivation
 
-*Pseudomonas* has a dual role in [[mushroom-cultivation]]:
-
-### Beneficial
-- *P. putida* and *P. fluorescens* promote [[agaricus-bisporus]]
+*Pseudomonas* has a dual role in [[agaricus-bisporus]]
   mycelial growth through hormone production and nutrient mobilization.
 - Act as mycorrhizal helper bacteria, facilitating nutrient exchange.
 - Suppress competitors in casing soil as biocontrol agents.
 
 ### Pathogenic
-- **P. tolaasii** causes brown blotch disease on [[agaricus-bisporus]]
-  caps — one of the most economically damaging mushroom diseases. Produces
-  tolaasin, a lipopeptide toxin forming pores in cell membranes. Symptoms:
-  brown, sunken cap lesions. Exacerbated by high humidity and poor air
-  circulation.
-- **P. reactans** causes similar blotch symptoms.
-- Management: improved ventilation, reduced humidity, chlorinated water,
-  bacteriophage applications.
-
-## Bioremediation
-
-Key organisms for bioremediation of contaminated environments:
-- **Hydrocarbon degradation:** *P. putida* and *P. fluorescens* degrade
-  alkanes, BTEX, and PAHs in petroleum-contaminated soils.
-- **Pesticide degradation:** Organophosphates, carbamates, and other
-  synthetic pesticides.
-- **Heavy metals:** Biosorption, efflux pumps, enzymatic reduction
-  (chromate reduction by *P. fluorescens*).
-- **PCBs:** Engineered *P. putida* strains for enhanced breakdown.
-
-## Key Species
-
-- ***P. fluorescens*** — Model PGPR/biocontrol organism; fluorescent
-  pigment; found in soil and water worldwide.
-- ***P. putida*** — Hydrocarbon degradation model; GRAS status; used
-  in industrial biocatalysis and bioremediation.
-- ***P. aeruginosa*** — Major opportunistic human pathogen; hospital-
-  acquired infections, cystic fibrosis; highly antibiotic-resistant.
-  Important distinction from beneficial soil pseudomonads.
-- ***P. syringae*** — Plant pathogen with 60+ pathovars; produces
-  ice-nucleation proteins causing frost damage.
-- ***P. chlororaphis*** — Biocontrol agent producing phenazine
-  antibiotics; effective against *Fusarium* and *Pythium*.
-- ***P. tolaasii*** — Brown blotch disease agent in mushroom
-  cultivation.
-
-## Soil Food Web Interactions
-
-Pseudomonads interact extensively with the [[soil-food-web]]: competing with
+- **P. tolaasii** causes brown blotch disease on [[soil-food-web]]: competing with
 and inhibiting pathogenic fungi, cooperating with mycorrhizal fungi as
 helper bacteria, cycling nitrogen alongside azotobacter, and serving
 as prey for protozoa and nematodes. In [[composting]], they are dominant

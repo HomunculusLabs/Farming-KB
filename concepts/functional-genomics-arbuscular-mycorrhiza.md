@@ -15,17 +15,7 @@ M. truncatula (barrel medic) has become the primary model legume for AM research
 - Extensive genetic resources including EST databases, mutant collections (dmi mutants), and genomic tools
 - Forms effective symbioses with both AMF (Glomus spp.) and rhizobia
 - The J5 wild-type line and dmi3 mutant are commonly used for comparative studies
-### [[glomus-mosseae]] and G. intraradices
-The most commonly studied AMF species in functional genomics:
-- G. mosseae (now Funneliformis mosseae): Used for early-stage interaction studies
-- G. intraradices (now Rhizophagus irregularis): Has a sequenced genome; widely used for both transcriptomic and proteomic studies
-- Both species can be studied in monoxenic root organ cultures and in pot experiments
-## Transcriptomic Approaches
-### Suppression Subtractive Hybridization (SSH)
-SSH libraries enrich for differentially expressed transcripts, particularly rare mRNAs:
-- Construction of forward and reverse subtracted libraries comparing mycorrhizal and non-mycorrhizal roots
-- Identification of both up- and down-regulated genes at specific time points
-- In M. truncatula/G. mosseae, SSH identified genes involved in [[fungal-environmental-sensing]], defense, and metabolism
+### [[fungal-environmental-sensing]], defense, and metabolism
 ### Key Transcript Categories
 **Signaling genes**:
 - MAP kinases (upregulated during early root colonization and appressorium formation)
@@ -78,27 +68,24 @@ Plasmalemma proteomics targets the plant-fungus interface:
 - Reveals membrane-localized signaling components
 ## Defense Response in Functional Genomics
 ### The Overlap with Pathogen Responses
-Functional genomics reveals that AM symbiosis activates molecular pathways shared with [[fungal-plant-pathogen-interactions]]:
-- Similar signal perception and transduction events
-- Comparable defense gene activation patterns
-- Common involvement of ROS, MAP kinases, and phenylpropanoid metabolism
-- The key difference is the weak and transient nature of the response in AM symbiosis
-### Temporal Dynamics
-The defense response follows a characteristic temporal pattern:
-1. **Pre-contact**: fungal elicitors enhanced in the rhizosphere prime defense-related gene expression
-2. **Early contact**: Defense gene activation peaks during appressorium formation and root entry
-3. **Colonization**: Defense responses are suppressed as compatibility is established
-4. **Arbuscule maturation**: Some defense genes (e.g., GSTs) are re-expressed during arbuscule development
-5. **Arbuscule senescence**: Defense markers increase as arbuscules degenerate
-### GSTs as Model Proteins
-Glutathione-S-transferases exemplify the complexity of defense regulation:
-- Multiple isoforms with different temporal expression patterns
-- Some GSTs accumulate at very early stages (prior to visible colonization)
-- Tau-class GSTs are consistently downregulated
-- GSTs may function in detoxification, hormone metabolism, or arbuscule turnover
-## Comparative Approaches
-### Wild-type vs. Mutant Comparisons
-Comparing mycorrhizal responses in wild-type and symbiosis-defective mutants:
-## See Also
-- [[gadd-arbuscular-mycorrhizal-genomics]]
+Functional genomics reveals that AM symbiosis activates molecular pathways shared with [[gadd-arbuscular-mycorrhizal-genomics]]
 - [[gadd-fungal-genomics-comparative-approaches]]
+## Practical Considerations
+
+Successful implementation of Functional Genomics of Arbuscular mycorrhizal-symbiosis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

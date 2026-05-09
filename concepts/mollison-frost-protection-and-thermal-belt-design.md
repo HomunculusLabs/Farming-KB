@@ -113,30 +113,8 @@ ground air layer.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-windbreak-design]] for species that provide both wind and
-  frost protection.
 - [[mollison-microclimate-creation]] for broader microclimate
   modification strategies.
-- [[mollison-climate-site-analysis-permaculture]] for site assessment
-  techniques.
 - [[mollison-zone-and-sector-analysis]] for placing frost-sensitive
   components in optimal zones.
-- [[mollison-cold-climate-strategies-detailed]] for comprehensive cold
-  climate approaches.
-
-## Key Principles
-
-1. Frost is the primary limiting factor for plant hardiness -- identify
-  frost zones first.
-2. Cold air drains like water: place sensitive species above the frost
-  pool zone.
-3. Tree canopies prevent bare-ground radiation and exclude advected
-  frost.
-4. Thermal belts on hillsides are the premium locations for gardens.
-5. Use earth mounds, stone walls, and water bodies to moderate extremes.
-6. Hardy overstory species create the frost-free conditions needed by
-  tender understory crops.
-
-## See Also
-
 - [[mollison-designers-sun-trap-and-frost-pocket-design]]

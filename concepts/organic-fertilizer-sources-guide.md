@@ -12,33 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Natural fertilizers are derived from plant and animal by-products as well as rock. They feed the [[lowenfels-earthworms-soil-food-web]] that creates soil structure and cycles nutrients to plants. Unlike synthetic fertilizers, nutrients in natural fertilizers (except the most soluble) are only available when mineralized by soil food web organisms.
-
-## Nitrogen Sources
-
-| Source | N-P-K | Release Speed | Duration | Notes |
-|--------|-------|--------------|----------|-------|
-| Alfalfa meal | 2-1-3 | Medium | 1-4 months | Contains growth hormones; can contain weed seeds; feeds bacteria, fungi, protozoa |
-| Bat guano (high-N) | 10-3-1 | Fast | 4-6 months | Soluble, readily available; read labels (also comes in high-P form); ensure sustainable harvesting |
-| Blood meal | 12-0-0 | Fast | 1-4 months | Very high N, readily available; unpleasant odor; attracts dogs/cats; repels deer |
-| Cottonseed meal | 6-0.4-1.5 | Slow | ~4 months | Contains trace elements (Zn, Cu, Mn, Mo); slightly acidic; pesticide residues and GMO concerns |
-| Corn gluten meal | 9-0-0 | Medium | 1-4 months | Prevents root hair development on seedlings -- do not use when germinating seeds; GMO concerns |
-| Feather meal | 7-12-0 | Very slow | 6+ months | High in keratin protein, requires more microbial digestion; may attract dogs, raccoons, bears |
-| Fish emulsion | 5-2-2 | Fast | 1-4 months | Soluble, concentrated; full of micronutrients; dilute before use; smells like rotting fish |
-| Fish meal | 10-6-2 | Medium | 1-4 months | Good phosphorus source; less soluble than emulsion; heat-processed (some nutrient loss) |
-| Fish powder | 12-0.25-1 | Very fast | ~1 month | Highly soluble, can leach; acts almost as quickly as synthetics |
-| Hydrolyzed fish | 4-2-2 | Medium | Up to 5 months | Enzymatically digested (not heat-processed); retains more proteins and compounds |
-| Human hair | 18-0-0 | Very slow | 1-2 years | Extremely high N; not readily soluble, won't harm soil food web; free source |
-| Human urine | 15-2-2 | Fast | 1-2 weeks | Sterile when produced; contains urea (pure = 46-0-0); dilute 8:1 minimum; concerns about heavy metals and antibiotics; do not use on food crops |
-| Soybean meal | 7-2-1 | Medium | 3-4 months | Excellent all-purpose fertilizer; supplies carbon and N; attracts fungi and bacteria; GMO concerns |
-| Chilean nitrate | 16-0-0 | Very fast | 1-2 weeks | Natural mined nitrate; contains 26% sodium; not technically organic; does not improve soil tilth; limit use |
-
-## Phosphorus Sources
-
-| Source | N-P-K | Release Speed | Duration | Notes |
-|--------|-------|--------------|----------|-------|
-| Animal bone meal | 3-15-0 | Fast | 1-4 months | Very readily available P; requires pH below 7; attracts animals initially |
-| Bat guano (high-P) | 3-10-1 | Medium | 1-4 months | Best releasers are [[mycorrhizal-fungi-basics-lowenfels]]; too much P limits their presence |
+Natural fertilizers are derived from plant and animal by-products as well as rock. They feed the [[mycorrhizal-fungi-basics-lowenfels]]; too much P limits their presence |
 | Colloidal rock phosphate | 0-2.5-0 | Very slow | 3-5 years | Clay particles surrounded by phosphate; improves CEC; works better 2nd and 3rd years; placement near roots is key |
 | Crab shell meal | 2-3-0 | Slow | Varies | Good P source plus calcium and trace elements; contains chitin (fungal food; controls nematodes) |
 
@@ -100,12 +74,6 @@ Live agents that produce or are involved in producing plant nutrients:
 1 part soybean meal or chicken litter meal, 1 part granulated molasses. A 50-lb bag of each fertilizes 2000 sq ft of lawn.
 
 ## Related Topics
-- [[organic-fertilizer-recipes]]
 - [[complete-organic-fertilizer-recipes]]
-- [[soil-nutrient-cycling]]
 - [[soil-testing-and-analysis]]
-- [[biofertilizers-and-soil-inoculants]]
-
-## Source
-- Lowenfels, Jeff. "Teaming with Nutrients: The Organic Gardener's Guide to Ending Synthetic Fertilizers and Rebuilding Soil Fertility." Chapter on natural fertilizers.
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

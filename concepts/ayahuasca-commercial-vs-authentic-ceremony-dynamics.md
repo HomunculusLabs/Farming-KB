@@ -133,8 +133,6 @@ and authentic divide by offering tiered services.
 
 ## See also
 
-- [[ayahuasca-tourism-ethics-and-commodification]]
 - [[ayahuasca-tourism-peru-retreat-landscape]]
-- [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 - [[ayahuasca-preparation-and-ceremony]]
 - [[campa-ayahuasca-ceremony]]

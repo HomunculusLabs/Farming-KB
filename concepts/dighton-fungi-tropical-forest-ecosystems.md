@@ -24,45 +24,7 @@ and ecosystem stability. With high plant biomass, continuous litter
 input, and warm humid conditions, tropical forest ecosystems present
 unique opportunities and challenges for fungal activity. Fungi in these
 systems are critical mediators of fungal-decomposition|decomposition
-and [[fungal-nutrient-cycling-mineral-transformations]],
-with significant implications for global carbon and nutrient budgets.
-
-## Litter Dynamics and Fungal Decomposition
-
-### Litter Input and Quality
-
-In tropical forests, plant biomass is very high and litter fall is
-substantial, but litter on the soil surface is sparse, indicating a
-combination of climatic conditions conducive to decomposition and high
-resource quality. Hedger et al. (1993) showed that in tropical forest
-ecosystems the input of litter is more important than in temperate
-forests as a nutrient return to the system. Tropical forests have a
-continuous rather than seasonal litter input, and the quantity of
-litter can be triple that of temperate forests (9 tonnes per hectare
-per year tropical; 3 tonnes per hectare per year temperate).
-
-The importance of litter in tropical regions is so great that some 75%
-of phosphorus and 41% of potassium flux occurs in the litter in
-tropical regions. The diversity of litter types in forests, including
-leaves (55%), fruits and flowers (10%), twigs (20%), branches (10%),
-and insect frass (5%), creates a complex resource base that supports
-diverse fungal communities.
-
-### Fungal Biomass and Nutrient Reservoirs
-
-Lodge (1993) discussed the role of fungi in nutrient cycling in
-tropical forest ecosystems. These systems have large nutrient capital
-in plant biomass but are frequently limited by nutrient supply from
-soil, because phosphorus binds to aluminum and iron oxides, reducing
-plant availability. Due to high rainfall, nitrogen and potassium are
-likely to be leached from the rooting zone.
-
-Fungal biomass in tropical soils (5 to 5 mg per gram litter and 2.5
-to 3 mg per gram soil; reports of 8 to 333 g per square meter) contains
-a large reservoir of nutrients slowly released upon death and
-decomposition. The concentration of phosphorus in fungal tissues can
-reach 5 to 36 mg per gram, and the phosphorus content of leaf litter
-can increase tenfold due to [[fungal-mineral-nutrient-immobilization]].
+and [[fungal-mineral-nutrient-immobilization]].
 Fungi represent significant proportions of extractable soil nutrients:
 22.2% of phosphorus and 23.6% of calcium are contained in fungal
 biomass in wet tropical soils (Lodge, 1993).
@@ -129,8 +91,6 @@ nutrient cycling that characterize these productive ecosystems.
 
 - dighton fungi tropical forest ecosystems
 
-- [[fungal-decomposition]]
 - [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[fungal-biodiversity-forest-ecosystems]]
 - [[dighton-fungal-litter-trapping-canopy-soil-formation]]
 - [[fungal-nutrient-cycling-mineral-transformations]]

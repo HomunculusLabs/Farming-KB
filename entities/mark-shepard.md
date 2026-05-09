@@ -113,11 +113,7 @@ Mark Shepard is an American farmer, author, and pioneering figure in the restora
 
 ## See Also
 
-- [[richard-perkins]]
 - [[bill-mollison]]
-- [[david-holmgren]]
-- [[sepp-holzer]]
-- [[robert-hart]]
+- [[sepp-holzer-entity]]
 - [[permaculture]]
-- [[food-forest]]
 - [[keyline-design]]

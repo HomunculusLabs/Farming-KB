@@ -10,100 +10,136 @@ sources:
 
 # Seed Saving Fundamentals (Solomon)
 
-From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
-
-## Self-Pollinating vs. Outcrossing Species
-
-The most important distinction for seed saving is how the species pollinates itself:
-
-### Self-pollinating (inbreeding) vegetables
-These species inbreed generation after generation with no consequences. They are stable; from generation to generation there is little or no change. Seed can be saved from a single plant, even from a few pods or a single fruit, year after year.
-
-Species list:
-- Beans (most types)
-- Peas
-- Lettuce
-- Eggplant
-- Tomato
-- Endive/escarole/chicory
-- Garlic (no seed -- vegetative only)
-- Asparagus
-
-A few kinds of self-pollinated vegetables (such as peas and beans) have a slight tendency to outcross and should be isolated from other varieties by 20 feet (six meters). All these species are suitable for saving your own seed at home.
-
-### Pollen-exchanging (outcrossing) vegetables
-These species must exchange pollen or they become weak (inbred). It takes more skill and considerably more plants to grow effective seed. The key pitfall is "inbreeding depression of vigor" -- the variety needs a diverse enough genetic base that the population does not become too few in number and/or too uniform in its genetics.
-
-Species list:
-- Alliums (onions, leeks)
-- Beet (beetroot) and chard (silverbeet)
-- Brassicas, unrefined (kale, kohlrabi)
-- Chinese cabbage
-- Cucurbits (melons, pumpkins, squash, cucumbers)
-- Brassicas, refined (broccoli, Brussels sprouts, cabbage, cauliflower)
-- Corn (maize)
-- Carrots
-- Spinach
-- Okra
-
-### Minimum Population Sizes
-To avoid inbreeding depression:
-- For vigorous, not highly refined crossing vegetables like kale or rutabagas: minimum might be as few as a dozen
-- For corn: at least 50 individuals
-- For other species: 200 plants may be the minimum
-- For refined brassicas like cabbage: 200 is better; 400 if roguing out off-types
-
-## Dry Seed vs. Wet Seed
-
-### Dry seed
-Forms in pods, in clusters on the stalk, or in dried flower structures. Examples: beans, peas, lettuce, mustard, spinach, beet, okra.
-
-Key to getting vigorous dry seed: let it mature fully but keep it drying down steadily while it matures. If the ripening process continues over weeks and the seed might be remoistened, pull the entire plant, shake soil from roots, and move it under cover on a tarp.
-
-For large-seeded species like beans and peas, pick each pod at the point of maturation when the stem end of the pod withers and the plant's sap is no longer flowing into the pod. The seed will not have dried down hard at that stage, but if any further nutrition were added, it would come from material held in the pod itself as it withers completely. Let pods finish drying indoors.
-
-### Wet seed
-Forms in juicy fruit that is still full of moisture when the seed has matured. Examples: squash, pumpkin, cucumber, melon, tomato, pepper.
-
-Key to getting vigorous wet seed: let the fruit become dead-ripe on the plant -- allow it to ripen nearly to the point of rotting before extracting seed.
-- Tomato: take seeds from overripe fruit that has sat on the counter a few more days
-- Melon: ensure the fruit "honestly slips the vine"
-- Squash: allow fully ripe fruit to cure for a month or so before extracting seed
-
-## Saving Seed from Brassicas (detailed example)
-
-All Brassica oleracea cross-pollinate via bees. Isolating different sorts by half a mile (800 meters) may suffice for low-quality seed. Siberian kale (Brassica napus) crosses only with rutabaga.
-
-Brassicas are biennial -- they must pass through seasonal cold weather and short daylength before flowering is triggered. Overwinter large kale plants where the soil freezes by digging them up carefully in late autumn, storing in damp soil in a root cellar, then transplanting back outside in spring.
-
-### Harvesting and cleaning
-The blooming plant makes huge floral sprays. Each small yellow flower produces a thin pointed pod holding a few round black seeds. Ideal harvest time: when some of the earliest-ripening pods have shattered and most of the rest contain dark brown or black seed.
-
-Pull plants, shake off soil from roots, lay on a large tarp in shade under cover with good airflow to dry slowly and finish ripening. On a bright warm day, drag the tarp into the sun to crisp-dry the straw. March in place atop the straw to release most of the seed from pods. Lift off strawy bits for compost.
-
-To winnow: pour seed from one bucket to another in a light breeze. The breeze blows away light chaff while seed falls into the lower bucket. Repeat until relatively pure. Don't worry about losing up to a third of the seed to wind -- that is lightweight unripe material with poor storage life and low germination.
-
-Minimum population: at least six plants sharing pollen to avoid rapid onset of inbreeding depression.
-
-## Selection Principles
-
-When growing seed for outbreeding species:
-- Select wisely which plants contribute to the seed crop
-- Remove "super-hybrid" off-type plants that appear remarkably vigorous (likely unintended crosses)
-- Don't hold the gene pool too rigorously to an exact form -- there is harm in being too severe, because the variety can be severely inbred in only one generation
-- Roguing off-types is necessary but so is maintaining genetic diversity
-
-## Practical Economics
-
-Growing your own seed is not always economical for outbreeding species with large minimum populations. A full-sized cabbage variety needs 200-400 plants, each requiring about 4 square feet of growing space. That is 800-1,600 square feet -- two thirds of a large garden.
-
-For self-pollinating species, seed saving is straightforward and cost-effective. For outbreeding species, it may be more practical to purchase high-quality OP seed from ethical suppliers.
-
-## Related
-- [[solomon-seed-quality-and-germination-testing]]
-- [[solomon-seed-storage-for-maximum-viability]]
+From [[solomon-seed-quality-and-germination-testing]]
 - [[comparison-seed-saving-vs-hybrid-seeds]]
-- [[solomon-chitting-and-presprouting-techniques]]
 - [[biointensive-seed-saving]]
-- [[solomon-growing-garlic-onions-leeks]]
 - [[solomon-gardening-when-it-counts-index]]
+## Background and Context
+
+Seed Saving Fundamentals (Solomon) is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

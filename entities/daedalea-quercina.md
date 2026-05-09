@@ -110,12 +110,8 @@ The variable pore morphology of *D. quercina* can cause confusion, as individual
 
 ## See Also
 
-- [[fomes-fomentarius]]
 - [[ganoderma-applanatum]]
-- [[bjerkandera-adusta]]
-- [[xylaria-polymorpha]]
-- [[trametes-hirsuta]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
+- [[xylaria-polymorpha-entity]]
+- [[laetiporus-sulphureus]]
 - [[polypore-fungi-eastern-north-america]]
 - [[mycoremediation]]

@@ -1,7 +1,7 @@
 ---
 title: European Truffles
 created: 2026-04-28
-tags: [mycology, truffles, tuberaceae, ascomycetes, gastronomy]
+tags: [[mycology, truffles, tuberaceae, ascomycetes, gastronomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -117,10 +117,7 @@ been grown to a limited extent on sterilized roots of
 
 ## See Also
 
-- [[tuber-melanosporum]]
-
 - [[termitomyces-african-mushrooms]]
-- [[mushroom-food-value]]
 - [[wild-mushroom-markets]]
 - [[mushroom-classification-basidiomycete-families]]
 

@@ -141,10 +141,11 @@ beneficial insects find habitat among diverse flowers, and the soil food
 web remains active year-round. This approach stands in direct contrast to
 monoculture row cropping and represents one of the most practical
 applications of permaculture principles at the home garden scale.
+## See Also
+
+- [[mollison-pdc-trellis-systems-climate-control]]
+- [[jeavons-companion-planting]]
 
 ## See Also
 
-- [[mollison-pdc-sheet-mulching-versus-composting]]
-- [[mollison-pdc-trellis-systems-climate-control]]
-- [[permaculture-zone-one-design]]
-- [[jeavons-companion-planting]]
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]

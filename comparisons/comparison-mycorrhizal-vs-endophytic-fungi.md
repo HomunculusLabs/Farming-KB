@@ -22,34 +22,6 @@ metabolite production.
 
 ## Mycorrhizal Fungi
 
-[[arbuscular-mycorrhizal-fungi]]
-
-Mycorrhizal fungi are a diverse group of fungi that form mutualistic associations with the roots of
-approximately 90% of all terrestrial plant species. The symbiosis is primarily focused on nutrient
-exchange: the fungal hyphae extend far beyond the root's nutrient depletion zone to scavenge phosphorus,
-nitrogen, micronutrients, and water from soil volumes that roots alone cannot access. In return, the
-plant supplies the fungus with carbohydrates (primarily glucose and fructose) produced through
-photosynthesis. This bidirectional exchange occurs through specialized structures including arbuscules in
-arbuscular mycorrhizal associations and the Hartig net in ectomycorrhizal associations.
-
-The external mycelial network of mycorrhizal fungi is a defining characteristic that fundamentally
-distinguishes them from endophytic fungi. These hyphal networks can extend centimeters to meters from the
-root surface and explore soil pores too small for root hairs to penetrate. The network also connects
-multiple plants simultaneously, creating common mycorrhizal networks through which carbon, nutrients,
-water, and chemical defense signals can be transferred between individuals. This interplant resource
-sharing has been shown to buffer plants against environmental stress, with healthier or more established
-individuals subsidizing younger or stressed neighbors.
-
-Mycorrhizal fungi also play critical roles in soil aggregation and stabilization through glomalin
-production (in AMF associations), long-term soil carbon sequestration, disease suppression through
-physical barriers and biochemical interactions with pathogens, and ecosystem-level nutrient cycling. They
-are particularly important in phosphorus-limited soils, which are common in both natural ecosystems and
-agricultural systems worldwide. Most mycorrhizal associations are obligate, meaning both partners depend
-on the relationship for optimal fitness, though plants can survive without mycorrhizae under
-high-fertility conditions.
-
-## Endophytic Fungi
-
 [[symbiotic-fungi-endophytic-fungi-in-plants]]
 
 Endophytic fungi inhabit the internal tissues of plants, including leaves, stems, roots, seeds, and
@@ -138,10 +110,6 @@ single application.
 
 ## See Also
 
-- [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
-
- [[arbuscular-mycorrhizal-fungi]]
- [[symbiotic-fungi-endophytic-fungi-in-plants]]
+- [[arbuscular-mycorrhizal-fungi]]
  [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
  [[beneficial-insects-guide]]

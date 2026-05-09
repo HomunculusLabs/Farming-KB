@@ -22,15 +22,7 @@ these methods involves tradeoffs between labor, time, soil
 biology preservation, and speed of results.
 
 ## Sheet Mulching
-[[sheet-mulching]]
-
-Sheet mulching is a no-till bed preparation technique that creates new
-garden beds by layering organic materials directly on top of existing
-ground, typically starting with a weed-suppressing base of cardboard
-or newspaper, followed by alternating layers of compost, manure, green
-materials, and finished mulch. As these layers decompose over months,
-they break down into rich, friable soil that supports vigorous plant
-growth. The method is a standard practice in [[permaculture-design]] and
+[[permaculture-design]] and
 aligns with the principle of working with natural soil-building
 processes rather than imposing mechanical force on the soil.
 
@@ -54,7 +46,6 @@ down, potentially requiring supplemental nitrogen for early plantings
 in partially decomposed beds.
 
 ## Double Digging
-[[jeavons-double-digging-bed-preparation]]
 [[solomon-double-digging]]
 
 Double digging is an intensive bed preparation method that loosens
@@ -145,6 +136,5 @@ subsequent bed maintenance. This captures the immediate productivity of
 double-dug beds while preserving soil biology and reducing labor in
 later seasons. Some growers also use a broadfork to aerate soil to 12
 to 16 inches without full inversion, striking a middle ground.
-
 ## See Also
 - [[comparison-double-digging-vs-no-till]]

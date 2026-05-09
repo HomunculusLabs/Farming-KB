@@ -34,35 +34,7 @@ The taxonomic history of *P. merdaria* is intertwined with several other small, 
 - **Cap (Pileus):** Very small, typically 3 to 15 mm in diameter. Conic to hemispherical when young, expanding to convex with age but rarely becoming fully plane. Surface is smooth, hygrophanous, and brownish ochre to reddish brown when moist, fading to a pale straw color or nearly white when dry. The cap margin is often translucent-striate when wet.
 - **Gills (Lamellae):** Adnate to broadly adnate. Pale gray to brownish when young, darkening with maturity to a dark purplish brown. Gill spacing is close to subdistant.
 - **Stipe (Stem):** Very slender, 15 to 45 mm long and 0.5 to 1.5 mm thick. Surface is smooth, whitish to pale brown, sometimes with a slight pruinose coating near the apex. The base may have a small mycelial tuft attached to the dung substrate.
-- **[[spore-print]]:** Dark purplish brown to blackish purple.
-- **Spores:** Ellipsoidal to slightly amygdaliform, smooth, with a visible germ pore. Spore dimensions typically range from 8 to 12 μm by 5 to 7 μm.
-- **Microscopic Features:** Cheilocystidia are ventricose to cylindrical; pleurocystidia may be present but are sparse. No chrysocystidia have been reliably documented.
-
-## Habitat and Distribution
-
-*Psilocybe merdaria* is an obligate or strong preference coprophilous species, found almost exclusively on herbivore dung. Specific habitat details include:
-
-- Fresh to aged dung of cattle, horses, sheep, and other grazing animals
-- Pastures, meadows, and agricultural fields
-- Occasionally on heavily manured soil
-
-The species has a wide distribution across temperate Europe and has also been reported from North America. It fruits primarily in late summer through autumn and may appear in spring in some locations. Multiple flushes can occur on the same dung pat over several weeks.
-
-## Chemistry and Psychoactivity
-
-Chemical analysis of *P. merdaria* has consistently shown very low levels of psychoactive compounds:
-
-- **Psilocybin content:** Minimal, typically below 0.02% dry weight or not detected in many collections
-- **Psilocin content:** Not detected in most analyses
-- **Baeocystin:** Not reported
-- **Bluing reaction:** Absent or extremely faint; does not develop the characteristic blue bruising of more potent Psilocybe species
-
-The negligible alkaloid content effectively precludes any psychoactive effects from *P. merdaria*. It is classified as a weakly active or effectively inactive species. The Bigwood and Beug (1992) data placed it among the lowest-scoring species in their survey of psilocybin-containing mushrooms.
-
-## Similar Species
-
 - **[[psilocybe-coprophila]]** — Very similar dung-inhabiting species; the two are frequently confused in the field
-- **[[psilocybe-fimetaria]]** — Also coprophilous but reported to have somewhat higher alkaloid content
 - **[[psilocybe-cubensis]]** — Much larger and more potent dung-inhabiting species; the most well-known psychoactive coprophilous mushroom
 - **deconica coprophila** — A non-psychoactive dung species that may be confused with inactive Psilocybe specimens
 
@@ -79,3 +51,62 @@ No cultivation protocols exist for *P. merdaria*. Its coprophilous nature would 
 - Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
 - Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
 - Stamets, P. (1996). [[psilocybin-mushrooms]] of the World. Berkeley: Ten Speed Press.
+## Practical Considerations
+
+When working with Psilocybe merdaria, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -28,7 +28,7 @@ Several emitter types are available for different applications, each with specif
 3. **Spray emitters (mini-sprinklers)**: Spray nutrient solution over the top of the growing medium to aerate and disperse it evenly. Available as individual units for each plant site.
 4. **Spaghetti tubes**: Flexible delivery tubes (typically 1/8 inch diameter) that carry solution from the main manifold to individual plants. Can be fitted with various emitter tips.
 
-A single application point is common when growing in absorbent growing mediums such as [[rockwool-cannabis]] and [[coco-coir-cannabis]]. Expanded clay works best when nutrient solution is applied via a large round emitter, several single emitters, or a spray emitter.
+A single application point is common when growing in absorbent growing mediums such as [[coco-coir-cannabis]]. Expanded clay works best when nutrient solution is applied via a large round emitter, several single emitters, or a spray emitter.
 
 Emitter selection should match the growing medium: absorbent mediums work well with a single point, while fast-draining mediums benefit from multiple delivery points or spray emitters for even coverage.
 
@@ -44,13 +44,7 @@ Emitter selection should match the growing medium: absorbent mediums work well w
 ## Drip Irrigation in Different Media
 
 The irrigation frequency and volume vary by growing medium:
-- **Coco coir**: Drip irrigation is applied four or five times daily in [[coco-coir-cannabis]].
-- **Fast-draining mediums** (expanded clay): May require nearly continuous irrigation, cycling 24 hours a day in some setups.
-- **Soil and soilless mixes**: Typically watered one to three times daily depending on plant size and environmental conditions.
-- **Rockwool slabs**: Irrigated via drip emitters from the top, with solution percolating through the slab.
-- perlite-cannabis|Perlite amendments improve drainage and help prevent soggy conditions that can lead to salt buildup.
-
-In fast-draining mediums, overhead irrigation can be nearly continuous. Fibrous mediums with irregular surfaces, such as [[vermiculite-cannabis]], drain slowly and require less frequent watering, often just once per day.
+- **Coco coir**: Drip irrigation is applied four or five times daily in [[vermiculite-cannabis]], drain slowly and require less frequent watering, often just once per day.
 
 ## Setting Up a Drip System
 
@@ -65,7 +59,7 @@ Drip irrigation kits are available at garden stores and building centers. Grower
 
 ## Important Considerations
 
-- **Drainage**: Ensure the growing medium drains freely to prevent soggy soil and [[cannabis-nutrient-deficiency-guide]] that can lead to [[cannabis-nutrient-lockout-and-ph]].
+- **Drainage**: Ensure the growing medium drains freely to prevent soggy soil and [[cannabis-nutrient-lockout-and-ph]].
 - **Uniformity**: If growing clones of the same age and size, a drip system works very well. Different varieties may need different fertilizer regimens, making uniform drip delivery problematic.
 - **Monitoring**: Check several pots daily to ensure they are watered evenly and all soil gets wet. Spot-check different areas of the garden.
 - **Time away**: Do not leave a drip system unattended for more than four consecutive days, or you could return to a surprise. Even with automation, unexpected failures can occur.
@@ -79,19 +73,9 @@ Drip systems facilitate fertigation, the practice of injecting fertilizer into t
 
 ## Drip Systems in Top-Feed Hydroponics
 
-Drip irrigation is the delivery method used in [[cervantes-top-feed-hydroponic-systems]]. In these configurations, nutrient solution is metered out in specific doses and delivered via spaghetti tubing or emitters placed at the base of individual plants. Aerated nutrient solution flows into the growing medium and is taken up by roots. Runoff is directed back to the reservoir.
+Drip irrigation is the delivery method used in [[rockwool-cannabis]] or [[comparison-coco-coir-vs-peat]] slabs are placed on the floor or on elevated tables. Drip emitters deliver nutrient solution to each plant site on the slab surface. Solution percolates through the slab to the root zone and excess drains from the bottom.
 
-Top-feed slab systems use drip emitters to deliver nutrient solution to [[rockwool-cannabis]] or [[coco-coir-cannabis]] slabs. Individual blocks can be irrigated via spaghetti tubes connected to emitters pressed into rockwool cubes. Top-feed systems cycle for about five minutes or longer and should be irrigated at least three times daily.
-
-## Vertical Drip Systems
-
-Vertical gardens can increase overall yield more than ten-fold over a flat garden. Vertical drip systems position substrate bags, tubes, or slabs vertically around a light source. Short plants are placed in the medium and fed individually with a drip emitter. The runoff drains through the growing medium and back to the reservoir for recirculation. Vertical systems save space but require more maintenance and can be tricky to fine-tune.
-
-## Top-Feed Slab Systems
-
-Top-feed slab systems are a specialized form of drip irrigation used extensively in commercial cannabis cultivation. rockwool-cannabis|Rockwool or [[comparison-coco-coir-vs-peat]] slabs are placed on the floor or on elevated tables. Drip emitters deliver nutrient solution to each plant site on the slab surface. Solution percolates through the slab to the root zone and excess drains from the bottom.
-
-Individual blocks of growing medium can be irrigated via spaghetti tubes connected to emitters pressed into the top of each block. Top-feed systems typically cycle for about five minutes or longer and should be irrigated at least three times daily during the [[cannabis-vegetative-growth-stage]], increasing to four or five times during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
+Individual blocks of growing medium can be irrigated via spaghetti tubes connected to emitters pressed into the top of each block. Top-feed systems typically cycle for about five minutes or longer and should be irrigated at least three times daily during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
 
 ## Maintenance Tips
 
@@ -116,13 +100,8 @@ Individual blocks of growing medium can be irrigated via spaghetti tubes connect
 
 ## See Also
 
-- [[hydroponic-cannabis]]
 - [[ebb-and-flow]]
-- [[deep-water-culture]]
 - [[coco-coir-cannabis]]
-- [[rockwool-cannabis]]
 - [[cannabis-watering-schedule-and-frequency]]
-- [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-growing-mediums]]
-- [[drip-irrigation-guide]]
 - [[cannabis-nutrient-deficiency-guide]]

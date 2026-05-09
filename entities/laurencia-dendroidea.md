@@ -110,11 +110,7 @@ Vegetative propagation via fragmentation is the primary method for maintaining l
 
 ## See Also
 
-- [[caulerpa-racemosa]]
 - [[ceramium-virgatum]]
-- [[fucus-vesiculosus]]
 - [[gelidium-amansii]]
-- [[gracilaria-verrucosa]]
 - [[sargassum-fusiforme]]
-- [[secondary-metabolites]]
 - [[ulva-lactuca]]

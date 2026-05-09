@@ -3,7 +3,7 @@ title: Trees and Water Cycling
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, urban-agriculture]
+tags: [[permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
@@ -90,23 +90,10 @@ White or red-coloured roof vines over tiles can effectively lower summer tempera
 
 For permaculture designers, the implications are clear:
 
-- Plant trees as early as possible in any design -- they take years to reach full water-cycling function (see [[keyline-design]] for strategic placement)
-- Preserve existing forest edges -- they are critical infrastructure
-- Design windbreaks with 40% permeability for optimal rainfall effects
-- Use evergreen species for year-round condensation in fog-prone areas
-- Protect uphill forests that provide water for downslope agriculture
-- Recognize that deforestation is not just an aesthetic loss but a hydrological catastrophe
-
-## See Also
-
-- [[urban-permaculture-fodder-trees-livestock]]
+- Plant trees as early as possible in any design -- they take years to reach full water-cycling function (see [[urban-permaculture-fodder-trees-livestock]]
 
 - [[permaculture-water-systems]]
 [microclimate design
 - [[edge-effect-in-permaculture]]
 - [Keyline Design
-- [[swale-design]]
-
----
-Updated: 2026-04-18
 - [[herb-spiral-design-guide]]

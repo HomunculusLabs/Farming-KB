@@ -22,41 +22,7 @@ Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 12, 16, 18
 ## Introduction
 
 Fungal endophytes in grassland ecosystems participate in complex multipartite
-interactions involving [[mycorrhizal-fungi]], soil bacteria, and plant communities.
-The mycorrhizosphere -- the soil volume influenced by mycorrhizal fungal hyphae --
-supports distinct microbial communities that profoundly affect plant fitness, nutrient
-cycling, and ecosystem function.
-
-Roots release 10-20% of total net fixed carbon as low-molecular-weight compounds,
-forming the basis for the rhizosphere environment. Its specific conditions lead to
-selection of distinct microbial communities.
-
-## The Mycorrhizosphere Concept
-
-The fungal hyphae emanating from mycorrhizas release a substantial amount of acquired
-plant carbon to the soil, creating the mycorrhizosphere (Foster and Marks 1967). This
-energy-rich environment promotes bacterial growth and survival (Hobbie 1992).
-
-Mycorrhizosphere organisms influence plant development through multiple pathways:
-
-- Production of plant growth regulators
-- Increasing root branching rate or root permeability
-- Improving nitrogen or phosphate availability
-- Supporting survival in contaminated soils
-- Assisting plant resistance against pathogens through biological control
-- Direct effects on soil quality
-- Enrichment of microorganisms that improve plant fitness
-
-## Mycorrhiza Helper Bacteria
-
-Mycorrhiza helper bacteria (MHB, Garbaye 1994) directly promote mycorrhiza formation.
-A strong correlation exists between induction of fungal growth in dual cultures and
-mycorrhization helper effect.
-
-Types of mycorrhizosphere bacteria:
-
-- Intrahyphal bacteria in ectomycorrhizal fungi (Bertaux et al. 2003)
-- Intra-spore bacteria in [[arbuscular-mycorrhizal-fungi]] (Bianciotto et al. 1996)
+interactions involving [[arbuscular-mycorrhizal-fungi]] (Bianciotto et al. 1996)
 - Bacterial species colonizing hyphal surfaces and mycorrhizal roots
 - Gram-negative species: Pseudomonas, etc. (Gryndler and Vosatka 1996)
 - Gram-positive species: Streptomyces, etc. (Ames 1989; Maier et al. 2004)
@@ -72,29 +38,7 @@ demonstrates the dual action of helper bacteria:
   - Armillariella obscura
   - Heterobasidion annosum
 
-This dual action -- promoting beneficial [[mycorrhizal-symbiosis]] while suppressing
-pathogenic fungi -- represents an important application potential for plant
-production systems.
-
-## Fungus-Bacterium Interaction Dynamics
-
-Three co-culture methods are commonly used:
-
-1. **Direct agar co-culture**: bacteria next to fungus; diffusible molecule interactions
-2. **Cellophane membrane method**: membrane below fungal material; 10 kDa cut-off
-   allows small soluble metabolites and volatiles but not macromolecules
-3. **Cross-walled Petri dishes**: confirms volatile-mediated effects
-
-Key factors influencing interaction outcomes:
-
-- **Media composition**: AcH 505/A. muscaria mutualistic on MMN but antagonistic
-  on ISP2 (AcH 505 sporulates more strongly on ISP2, antifungal metabolites dominate)
-- **Inoculum size**: fine balance between too small (no effect), adequate (promotion),
-  and excess (no influence or antagonism)
-- **Fungal growth rate**: bacteria compensate for poor growth but may not increase
-  maximum growth under optimal conditions
-- **Temperature**: 10 degrees C (normal for temperate/boreal forest soils) maximizes
-  reproducibility of [[laccaria-bicolor]]-Pseudomonas fluorescens dual cultures
+This dual action -- promoting beneficial [[laccaria-bicolor]]-Pseudomonas fluorescens dual cultures
 
 The slowest-growing Amanita muscaria strain was most responsive to helper
 streptomycetes AcH 505 and AcH 1003.
@@ -146,5 +90,3 @@ understanding of these interactions remains limited.
 ## Tropical Forest Restoration Applications
 
 AM fungi serve as important tools in ecological restoration:
-
-- Use as additional tool in restoration has proved effective

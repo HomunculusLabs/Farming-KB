@@ -137,8 +137,6 @@ week. Long-time growers can germinate all 10 at once.
 
 ## See Also
 
-- [[cannabis-seedling-care-guide]]
 - [[cannabis-seed-germination]]
-- [[cannabis-seed-germination-methods]]
 - [[cannabis-cloning]]
 - [[cannabis-endocannabinoid-system]]

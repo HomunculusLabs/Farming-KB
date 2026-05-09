@@ -125,10 +125,6 @@ selection model:
 
 ## See Also
 
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
-
 - [[rhizosphere-microbiome-selection-model]] for the assembly framework
-- [[endorhiza-bacterial-communities]] for the filtered endorhiza community
 - [[cellvibrio-and-root-decay-microbiome]] for post-harvest diversity effects
-- [[16s-rrna-sequencing-microbiome-analysis]] for the sequencing methods
 - [[cannabis-microbiome-research]] for the complete study overview

@@ -89,14 +89,8 @@ Large-scale single crops are possible if the crop needs little work after planti
 
 ## See Also
 
-- [[faires-forest-garden-design]]
 - [[faires-mimicking-forests]]
-- [[faires-plant-communities-and-guilds]]
 - [[faires-hugelkultur-and-forest-garden-strategy]]
-- [[faires-ecological-succession-and-edge-design]]
 - [[faires-zone-and-sector-planning]]
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
 - [[faires-hugelkultur-and-forest-garden-strategy]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- gaias garden herb spiral and natural patterns
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

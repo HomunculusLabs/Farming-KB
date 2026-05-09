@@ -22,21 +22,14 @@ Dighton's book systematically examines how fungi drive ecosystem processes acros
 The book uses a unifying framework of ecosystem services (Table 2.1 / Table 3.1) to organize the diverse roles of fungi in ecosystems:
 
 **Soil Formation**
-- Rock dissolution by [[lichens-primary-production-soil-formation-dighton]], fungal-decomposition|saprotrophs, and [[mycorrhizal-fungi-primary-production-dighton]]
+- Rock dissolution by [[mycorrhizal-fungi-primary-production-dighton]]
 - Particle binding by saprotrophs and mycorrhizae
 - Lichen-dominated biological soil crusts in arid ecosystems stabilize surfaces and fix nitrogen
 
 **Soil Fertility**
-- Decomposition of organic residues by saprotrophs, [[ericoid-mycorrhiza-heathland-ecosystems]], and [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
+- Decomposition of organic residues by saprotrophs, [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 - Nutrient mineralization and nutrient retention within ecosystems
-- Soil stability through aggregate formation by [[arbuscular-mycorrhizal-fungi]]
-- Glomalin production by AM fungi for long-term soil carbon storage
-
-**Primary Production**
-- Direct production by lichens (carbon fixation in arctic, desert, forest canopy, and tropical ecosystems)
-- Nutrient accessibility and plant yield via mycorrhizae
-- Defense against pathogens by mycorrhizae, endophytes, and saprotrophs
-- Defense against herbivory by [[clavicipitaceous-grass-endophytes]]
+- Soil stability through aggregate formation by [[clavicipitaceous-grass-endophytes]]
 - Dark septate endophytes enhancing phosphate acquisition in stressed environments
 
 **Plant Community Structure**
@@ -82,9 +75,7 @@ Dighton's own research features prominently throughout the text:
 
 The book has particular relevance for understanding:
 
-- How [[fungal-decomposition]] rates are controlled by climate, litter quality, and soil biota composition — critical for managing crop residue decomposition and nutrient release timing
-- The role of mycorrhizal diversity in plant nutrition and stress tolerance — diversity itself (not just species identity) improves plant performance
-- Effects of [[fungal-biodiversity-by-ecosystem]] on ecosystem function — with direct implications for biodiversity-friendly farming
+- How [[fungal-biodiversity-by-ecosystem]] on ecosystem function — with direct implications for biodiversity-friendly farming
 - Post-harvest residue decomposition and nutrient immobilization in cropping systems — C:N ratio determines whether residues release or tie up nitrogen
 - Impacts of agricultural disturbance on soil fungal communities — tillage, fertilization, and pesticide use shift fungal:bacterial ratios
 - Salinity effects from irrigation on mycorrhizal function — potentially limiting crop performance in irrigated systems
@@ -102,26 +93,14 @@ Several themes recur across all chapters:
 
 ## Related
 
-- [[dighton-fungus-cultivation-ants-termites-bark-beetles]]
-
 - [[acremonium-strictum]]
-- [[cylindrocarpon-destructans]]
 - [[dactylaria-brochopaga]]
-- [[mortierella-alpina]]
 - [[phoma-exigua]]
-- [[sarcodon-imbricatus]] Pages
-
 - [[lichens-primary-production-soil-formation-dighton]]
-- [[mycorrhizal-fungi-primary-production-dighton]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[endophytic-fungi-plant-defense-dighton]]
 - [[fungi-forest-fire-succession-litter-dighton]]
-- [[fungi-grassland-agricultural-ecosystems-dighton]]
 - [[fungal-biodiversity-ecosystem-function]]
-- [[fungal-decomposition-nutrient-cycling]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-fungal-ecology]]
 - [[fungal-contributions-soil-structure]]
-- [[fungal-biodiversity-forest-floor]]
 - [[fungal-community-ecology]]
 - [[fungal-decomposition-wood-litter]]

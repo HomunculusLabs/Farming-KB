@@ -103,19 +103,11 @@ The kavain-to-DHK ratio is considered a key quality marker for noble kava cultiv
 
 ## See Also
 
-- [[piper-methysticum]]
 - [[harmine]]
-- [[harmaline]]
 - [[tetrahydroharmine]]
-- [[myristicin-entity]]
 - [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
 - [[melissa-officinalis]]
-- [[scutellaria-baicalensis]]
 - [[leonurus-cardiaca-entity]]
-- [[rhodiola-rosea]]
 - [[schisandra-chinensis]]
-- [[eleutherococcus-senticosus]]
 - [[bacopa-monnieri]]
-- [[withania-somnifera]]
 - [[ocimum-sanctum]]

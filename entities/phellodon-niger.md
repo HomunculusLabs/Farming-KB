@@ -131,13 +131,8 @@ mycorrhizal preferences.
 
 ## See Also
 
-- [[hydnellum-spongiosipes]]
-
 - [[hydnum-repandum]]
-- [[scleroderma-citrinum]]
 - [[suillus-luteus]]
-- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
-- [[russula-vesca]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]
 - [[coriolopsis-gallica]]

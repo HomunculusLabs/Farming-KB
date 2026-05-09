@@ -3,7 +3,7 @@ title: Fungal Amber Fossils
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Amber Fossils
@@ -46,24 +46,7 @@ Advantages for fungal preservation:
 - The oldest known mushroom fruiting bodies, preserved in Turonian-age amber (~90 million years)
 - Gilled mushroom structures with clearly visible gills and spores
 - Spores show the **hilar appendix** — the critical feature for the
-  [[bullers-drop-spore-discharge]]
-- This proves the spore catapult mechanism was already operational during the age of dinosaurs
-
-### Coprophilous Fungi
-- Fungi preserved on or near fossil insect dung in amber
-- Suggests the spore dispersal mutualism between fungi and beetles is ancient
-- Some specimens show fruiting bodies developing on beetle-transported dung
-
-### Fungal Associations with Insects
-- **Ambrosia fungi:** Preserved in association with wood-boring beetles, showing the ancient
-  origin of fungus gardening
-- **Laboulbeniales:** Parasitic fungi on insect exoskeletons, beautifully preserved
-- **Entomopathogenic fungi:** Fungi that infect and kill insects, some showing the
-  characteristic "death grip" posture of infected ants
-
-### Mycorrhizal Associations
-- Amber from the Eocene Baltic deposits shows fungal hyphae associated with plant roots
-- Provides evidence for the antiquity of [[mycorrhizal-siderophores-iron-acquisition]]
+  [[mycorrhizal-siderophores-iron-acquisition]]
 
 ### Lichen Fossils
 - Fossil lichens preserved in Baltic and Dominican amber
@@ -110,14 +93,10 @@ Amber fossils help calibrate molecular clock analyses of fungal evolution:
 
 ## Related Topics
 
-- [[bullers-drop-spore-discharge]] - The mechanism preserved in amber fossils
 - [[mushroom-spore-catapult-mechanism]] - Physics of the ancient mechanism
-- [[fungal-spore-biology]] - Spore structure and evolution
 - [[fungal-spore-biology]] - Ancient and modern dispersal
-- [[siderophores-mycorrhizal-fungi]] - Symbiosis visible in fossils
 - [[faires-low-energy-cooking-and-food-preservation]] - General amber science
 
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 5.
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

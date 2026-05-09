@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Hand Watering the Garden
 
-Techniques for watering gardens with a hose and nozzle or watering can, as described in [[steve-solomon]]'s *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
+Techniques for watering gardens with a hose and nozzle or watering can, as described in Steve Solomon's *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
 
 ## The Fan Nozzle Method
 
@@ -79,7 +79,3 @@ All soils lose water at about the same rate through evapotranspiration, regardle
 - [[irrigation-systems]] — Sprinkler systems and fertigation
 - [[drought-gardening]] — Gardening with minimal irrigation
 - [[intensive-planting-spacing]] — How spacing affects water needs
-
-## Practical Implementation
-
-Successful implementation requires attention to local conditions including climate zone, soil type, and available resources. Start with a small test area before scaling. The approach works best integrated with existing systems rather than in isolation. Regular observation and adaptive management are key. Results typically improve over time as soil biology establishes and ecological relationships mature.

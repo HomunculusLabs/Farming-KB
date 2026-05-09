@@ -7,9 +7,7 @@ tags: [cultivation, mycology, technique]
 sources:
   - "Indoor Mushroom Growing Technique for the Boil-A-Bag by D H Jarrold"
 ---
-# Jarrold Boil-a-Bag [[oyster-mushroom-cultivation-economics]] Method
-
-The Boil-a-Bag technique is a complete indoor [[mushroom-cultivation]] method developed by D.H. Jarrold. It uses heat-resistant plastic bags as both the [[oyster-mushroom-ph-and-substrate-chemistry]] and growing vessel, with a homemade filter can for gas exchange during colonisation. The method is notable for its low cost, use of readily available materials, and complete lifecycle from [[spore-print]] to harvest.
+# Jarrold Boil-a-Bag [[mushroom-cultivation]] method developed by D.H. Jarrold. It uses heat-resistant plastic bags as both the [[spore-print]] to harvest.
 
 ## Equipment Required
 
@@ -140,8 +138,6 @@ Designed for cold climates. A container with water, lid, and input fan; multiple
 
 - **Low cost**: Bags cost approximately £2.50 per pack of 50; most other materials are household items
 - **Self-contained**: Each bag is an independent growing unit, reducing cross-contamination risk
-- **Complete lifecycle**: The method covers the full cycle from spore print to harvest to new spore print
-- **Scalable**: Multiple bags can be processed simultaneously
 ## See Also
 
 - [[straw-substrate-boil-a-bag-cultivation-method]]

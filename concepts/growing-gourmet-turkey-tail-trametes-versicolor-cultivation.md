@@ -1,7 +1,7 @@
 ---
 title: Turkey Tail Trametes versicolor Cultivation Methods
 created: 2026-04-28
-tags: [mushroom-cultivation, trametes-versicolor, turkey-tail, medicinal-mushrooms, polypore]
+tags: [[mushroom-cultivation, trametes-versicolor, turkey-tail, medicinal-mushrooms, polypore]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -126,8 +126,6 @@ into drilled holes or placed in contact with exposed wood surfaces.
 
 ## See Also
 
-- [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
-- [[turkey-tail-trametes-versicolor]]
 - [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
 - [[growing-gourmet-mushroom-dehydration-methods-equipment]]

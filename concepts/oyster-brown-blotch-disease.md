@@ -123,12 +123,8 @@ in ambiguous cases.
 
 ## See Also
 
-- [[oyster-viral-disease]]
-
 - [[oyster-mushroom-brown-blotch-disease]]
 
 - Oyster Disease Management
-- [[oyster-green-mold-disease]]
-- Oyster Contamination Control
 - [[oyster-insect-pests]]
 - Oyster Fruiting Conditions

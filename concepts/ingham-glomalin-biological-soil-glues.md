@@ -80,12 +80,8 @@ To promote glomalin and biological glue production:
 ## See Also
 
 - [[glomalin-and-soil-carbon]]
-- [[glomalin-and-soil-carbon]]
-- [[fungal-glomalin-and-soil-carbon]]
 - [[fungal-soil-aggregate-formation-glomalin]]
-- [[ingham-calcium-fungi-relationship]]
 - [[nutrient-cycling-in-soil]]
-- [[soil-food-web-nutrient-cycling]]
 - [[ingham-field-guide-overview]]
 
 ## Related

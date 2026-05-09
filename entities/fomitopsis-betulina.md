@@ -130,10 +130,7 @@ Wild harvesting remains the most common source, though sustainable collection pr
 
 ## See Also
 
-- [[fomes-fomentarius]]
 - [[fomitopsis-pinicola]]
-- [[piptoporus-betulinus]]
-- [[trametes-versicolor]]
-- [[agaricus-subrufescens]]
+- [[trametes-versicolor-entity]]
 - [[agaricus-campestris]]
 - [[mycorrhiza]]

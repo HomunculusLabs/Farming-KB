@@ -99,4 +99,4 @@ Following Holzer's general approach to tree propagation:
 
 This direct-sowing method produces trees that are genetically adapted to the specific site conditions, resulting in more resilient and self-sufficient trees than imported nursery stock.
 
-See also: [[holzer-grafting-fruit-forest]], [[holzer-fruit-tree-planting-method]], [[holzer-microclimate-creation]], [[holzer-terrace-systems]], [[holzer-browsing-protection-methods]], [[holzer-green-manure-and-soil-building-plants]], [[holzer-livestock-integration]], [[holzer-fruit-growing-marginal-climates]]
+See also: [[holzer-fruit-tree-planting-method]], [[holzer-terrace-systems]], [[holzer-green-manure-and-soil-building-plants]], [[holzer-fruit-growing-marginal-climates]]

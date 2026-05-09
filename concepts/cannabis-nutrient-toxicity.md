@@ -124,16 +124,8 @@ Nutrient toxicity occurs when any essential element is present in excess, causin
 - Use smaller, more frequent fertilizer applications rather than large doses
 - Monitor EC (electrical conductivity) of nutrient solution and runoff
 - Keep reservoirs full to minimize nutrient concentration fluctuations
-- See [[cannabis-nutrient-solution-preparation]] for proper mixing guidelines
-- Desirable EC range: 0.75-2.0 mS (500-1300 ppm TDS)
-
-## See Also
-
-- [[cannabis-nutrient-deficiency-guide]]
-- [[cannabis-nutrient-solution-preparation]]
+- See [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-foliar-feeding]]
-- [[cannabis-chemical-fertilizers]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
 - [[cannabis-indoor-soil-mix-and-preparation]]
 - [[cannabis-nutrient-burn-and-toxicity]]

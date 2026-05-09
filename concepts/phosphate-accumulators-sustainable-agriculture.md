@@ -28,21 +28,11 @@ Dynamic accumulator plants offer a biological solution.
 
 Plants access soil phosphorus through several mechanisms.
 
-[[root-exudates]], particularly organic acids, can solubilize mineral-bound phosphorus by lowering pH at the root-soil interface.
-
 [[mycorrhizal-fungi]] form symbiotic associations with plant roots, extending hyphal networks far beyond the root zone to mine phosphorus from soil volumes that roots alone cannot reach.
 
 Some plants are especially effective at these phosphorus-acquisition strategies, absorbing phosphorus from soil pools that other plants cannot access and concentrating it in their tissues.
 
-When their biomass decomposes, this phosphorus becomes available to other plants — the basis of phosphorus management through [[dynamic-accumulators]].
-
-## Legumes as Phosphate Accumulators
-
-Legumes are among the most important phosphate accumulators.
-
-Their root systems, working in concert with rhizobia bacteria and mycorrhizal fungi, are highly effective at accessing and cycling soil phosphorus.
-
-Alfalfa ([[medicago-sativa]]) is a particularly powerful phosphorus accumulator.
+When their biomass decomposes, this phosphorus becomes available to other plants — the basis of phosphorus management through [[medicago-sativa]]) is a particularly powerful phosphorus accumulator.
 
 When alfalfa is left in the field as a green manure, there is a measurable, gradual improvement in the soil's supply of available phosphorus.
 
@@ -50,7 +40,7 @@ This occurs because alfalfa's deep taproot reaches phosphorus reserves in subsoi
 
 Upon decomposition, this phosphorus becomes available in the topsoil for shallow-rooted crops.
 
-Clovers, including red clover ([[trifolium-pratense]]), white clover ([[trifolium-repens]]), and alsike clover (Trifolium hybridum), also serve as effective phosphate accumulators.
+Clovers, including red clover ([[trifolium-repens]]), and alsike clover (Trifolium hybridum), also serve as effective phosphate accumulators.
 
 Their extensive root networks and association with nitrogen-fixing bacteria make them dual-purpose [[cover-crops]], building both nitrogen and phosphorus reserves simultaneously.
 
@@ -147,4 +137,3 @@ This closed-loop cycling reduces external inputs and builds long-term soil ferti
 - Cocannouer, Joseph. Weeds: Guardians of the Soil. New York: Devin-Adair, 1950.
 - Pfeiffer, Ehrenfried. Weeds and What They Tell. Springfield, IL: BioDynamic Farming and Gardening.
 - Rateaver, Gargyla and Gylver. The Organic Method Primer. Pauma Valley, CA: B. and G. Rateaver, 1973.
-- Brooks, R. R. "Plants that Accumulate Heavy Metals." Missouri Botanical Garden Bulletin, Jan. 1978.

@@ -135,16 +135,10 @@ Common side effects include dry mouth and dry eyes, typical of high-THC cannabis
 Higher doses may cause dizziness, mild paranoia, or couch-lock in sensitive individuals.
 
 The strong cerebral onset can be disorienting for novice users.
-
 ## See Also
 
-- [[chemdog]]
 - [[sfv-og]]
-- [[og-kush]]
 - [[sour-diesel]]
-- [[girl-scout-cookies]]
 - [[gelato-cannabis]]
-- [[wedding-cake-cannabis]]
 - [[jack-herer-cannabis-strain]]
-- [[super-lemon-haze]]
 - [[tangie-cannabis]]

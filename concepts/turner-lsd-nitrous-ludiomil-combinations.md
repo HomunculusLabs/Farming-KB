@@ -92,7 +92,7 @@ Turner theorizes that Ludiomil creates a time-delay buffer zone that modulates t
 
 ## Comparisons with Other Turner Combinations
 
-The LSD + Ludiomil combination occupies a unique niche among [[turner-psychedelic-combination-experience-reports]]. Unlike the synergistic 2C-B + ketamine pairing or the problematic 2C-B + mushroom interference pattern, Ludiomil appears to modulate the psychedelic experience quantitatively (doubling intensity) while adding a qualitative dimension (the membrane perception, dream enhancement). For those interested in exploring this territory, [[turner-ketamine-combinations-and-cydelikspace-navigation]] document additional Ludiomil interactions that may further illuminate the mechanism.
+The LSD + Ludiomil combination occupies a unique niche among [[turner-ketamine-combinations-and-cydelikspace-navigation]] document additional Ludiomil interactions that may further illuminate the mechanism.
 
 ## Safety Notes
 
@@ -106,15 +106,9 @@ The LSD + Ludiomil combination occupies a unique niche among [[turner-psychedeli
 
 ## Related
 
-- [[nitrous-oxide]] Topics
-
 - [[turner-multiple-combinations-cosmic-synergism]] - Multi-substance combinations including LSD
-
-- [[turner-psychedelic-combination-experience-reports]] - Other combination reports
 
 - [[psychedelic-safety-guidelines-turner]] - Safety guidelines
 
-- [[psychedelic-combination-guide]] - General combination guidance
 - [[turner-cydelikspace-and-psychedelic-reality]]
-- [[turner-multiple-combinations-specific-reports]]
 - [[first-time-grower-common-mistakes]]

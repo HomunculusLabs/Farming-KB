@@ -3,11 +3,7 @@ title: fungal-culture-preservation — Long-Term Storage Methods
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-
-# Fungal Culture Preservation — Long-Term Storage Methods
+tags: [[fungal-culture-preservation]] — Long-Term Storage Methods
 
 long term preservation of international transport regulation is essential for maintaining viable reference material, preventing genetic drift, and ensuring reproducibility of research. Multiple methods are available, each with advantages and limitations.
 
@@ -16,8 +12,7 @@ long term preservation of international transport regulation is essential for ma
 The most widely used method for long-term preservation. Developed for fungi by Alexander and colleagues in the 1960s.
 
 ### Protocol
-1. Grow cultures in liquid medium (static or shake) or on [[agar]]
-2. Harvest young, vigorously growing [[mycelium]] or spores
+1. Grow cultures in liquid medium (static or shake) or on [[mycelium]] or spores
 3. Suspend in sterile skim milk (10%) or other protectant (sucrose, inositol, honey, serum)
 4. Transfer to lyophilization ampoules
 5. Freeze at -40C to -80C
@@ -142,8 +137,6 @@ Mineral oil overlay on agar slants: simple, mushroom growing house, effective fo
 | Freezing -80C | Low | Low | 5-10 years | General use |
 | Silica gel | Low | Low | 4-11 years | Genetic stocks, sporulating fungi |
 | Oil overlay | Very low | Very low | 1-5 years | Short-term backup |
-
 ## See Also
 
-- [[fungal-culture-media-formulas-applications]]
 - [[fungal-culture-preservation-methods]]

@@ -75,54 +75,13 @@ The overstory should be chosen primarily for the gap in mature canopy between tr
 - Full-sized cherries
 - Chestnuts (Chinese chestnuts are smaller and more manageable)
 - Walnuts, especially open-spreading varieties like heartnut and buartnut
-- [[nitrogen-fixing-trees-and-shrubs]]: black locust, mesquite, alder, tagasaste, and carob — these build soil fertility while providing flowers for insect habitat
-
-### Low-Tree Layer in Detail
-
-In addition to dwarf and semi-dwarf versions of canopy fruits, this layer includes naturally small trees and shade-tolerant species:
-
-- Naturally small: apricot, fig, nectarine, almond, mulberry
-- Shade-tolerant fruit: persimmon, pawpaw
-- Ornamental and functional: dogwood, mountain ash, golden-chain tree, silk tree (*Albizia julibrissin*), mountain mahogany
-- In small gardens, these low trees may serve as the entire canopy
-
-### Shrub Layer in Detail
-
-Shrubs are remarkably versatile and can fill edges, openings, and niches throughout the garden. Key species include:
-
-- **Food-producing**: blueberry, hazelnut, serviceberry, Siberian pea shrub, Elaeagnus species (autumn olive, goumi, silverberry)
-- **Wildlife-attracting**: butterfly bush, rose (especially rugosa rose for hips), bamboo
-
-Shade-tolerant shrubs thrive under the canopy while sun-loving ones colonize openings and edges, creating a dynamic mosaic of conditions across the garden.
-
-### Vine Layer in Detail
-
-Vines exploit vertical space on trees, fences, trellises, and arbors. Productive vining species include:
-
-- Hardy kiwi and fuzzy kiwi
-- Grapes (table, wine, and juice varieties)
-- Hops for brewing
-- Passionflower
-- Scarlet runner beans
-- Squash, cucumbers, and melons (annual vines)
-
-Perennial vines such as kiwi can be vigorous and should be managed carefully to prevent them from smothering trees. Annual vines are easier to control and provide quick yields while young trees are establishing.
-
-### Root Layer in Detail
-
-The soil beneath the forest garden offers a productive growing zone at various depths. Root crops include:
-
-- **Shallow and easy to dig**: garlic, onions, potatoes
-- **Deep-rooted but easy to harvest**: Jerusalem artichokes, daikon radish
-- **Perennial roots**: horseradish, licorice, dahlias
-
-Daikon radish deserves special mention: its long taproot can often be pulled with one tug, and if left unharvested, the blossoms attract [[gaias-garden-host-plants-beneficial-insects]] while the decomposing roots add humus to subsoil layers.
+- [[gaias-garden-host-plants-beneficial-insects]] while the decomposing roots add humus to subsoil layers.
 
 ## History of Forest Gardening
 
-Tropical forest gardens have existed for millennia across Southeast Asia, West Africa, and Central and South America, where indigenous peoples have long managed multi-layered food-producing landscapes that mimic natural forest structure. The concept was transplanted to temperate climates by [[polyculture-design-hemenway]], who developed a small forest garden at his home in Shropshire, England, beginning in the 1980s. Hart drew on his study of tropical agroforestry and the work of Japanese farmer-philosopher [[fukuoka-natural-farming-philosophy-of-mu]].
+Tropical forest gardens have existed for millennia across Southeast Asia, West Africa, and Central and South America, where indigenous peoples have long managed multi-layered food-producing landscapes that mimic natural forest structure. The concept was transplanted to temperate climates by [[fukuoka-natural-farming-philosophy-of-mu]].
 
-Patrick Whitefield further popularized temperate forest gardening in his book *How to Make a Forest Garden*, providing practical guidance for home gardeners. [[polyculture-design-hemenway]] brought forest gardening to a wide American audience through *Gaia's Garden*, integrating it with broader [[permaculture-design-course-methodology]] principles.
+Patrick Whitefield further popularized temperate forest gardening in his book *How to Make a Forest Garden*, providing practical guidance for home gardeners. [[permaculture-design-course-methodology]] principles.
 
 ## Benefits of the Seven-Layer Model
 
@@ -130,19 +89,13 @@ A fully developed forest garden exploiting all seven layers offers several profo
 
 - **Maximum habitat**: Three-dimensional vegetation provides the greatest possible range of niches for birds, insects, fungi, and other organisms
 - **Largest crop yields per space**: Multiple harvests from each vertical zone multiply total production per unit area
-- **Greatest edge and diversity**: The interfaces between layers create extensive edge zones, following the [[edge-effect-in-permaculture]] that diversity increases at boundaries
-- **Self-mulching**: Leaf fall from every layer builds soil naturally, eliminating the need for imported mulch or compost
-- **Natural soil building**: Roots from all layers exude carbohydrates that feed soil life, and decomposition of dead material creates humus continuously
-- **No tilling**: The permanent planting of perennials means soil is never disturbed — [[teaming-with-microbes-no-till-gardening-soil-health]] by design
+- **Greatest edge and diversity**: The interfaces between layers create extensive edge zones, following the [[teaming-with-microbes-no-till-gardening-soil-health]] by design
 - **Low maintenance**: Once established, a mature forest garden requires far less labor than a conventional vegetable garden, as the ecosystem largely maintains itself
 
 ## Related Concepts
 
-- [[backyard-food-forest-design]] -- practical application of the seven-layer model
 - [[fruit-tree-guild-roles]] -- guilds are the building blocks within each tree's zone of influence
-- [[polyculture-design-hemenway]] -- how to combine species productively within each layer
 - [[chop-and-drop-mulching]] -- the self-mulching cycle that sustains forest garden soil
-- [[permaculture-ground-cover-plants]] -- ground cover species for the lowest layers
 - [[edge-effect-in-permaculture]] -- why layer interfaces boost diversity and productivity
 
 - [[forest-garden-design-principles]]

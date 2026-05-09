@@ -115,12 +115,8 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 
 ## See Also
 
-- [[fomitopsis-officinalis-entity]]
-- [[lavandula-angustifolia-entity]]
-- [[salvia-officinalis]]
+- [[lavandula-angustifolia]]
 - [[thymus-vulgaris-entity]]
-- [[mentha-pulegium]]
 - [[ocimum-sanctum]]
-- [[permaculture]]
 - [[vitex-agnus-castus]]
 - rosmarinus officinalis entity

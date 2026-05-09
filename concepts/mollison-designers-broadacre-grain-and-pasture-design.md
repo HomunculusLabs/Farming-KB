@@ -16,42 +16,7 @@ type: concept
 
 # Broadacre Grain and Pasture Design
 
-Broadacre [[permaculture-design]] adapts the principles of permanent agriculture to
-large-scale grain and pasture systems. While permaculture is often associated
-with smallholdings, Mollison emphasised that its principles apply equally to
-farm-scale operations. The goal is to integrate trees with cropping, use ley
-farming cycles, select appropriate pasture species, and manage water at the
-farm scale while reducing or eliminating external inputs.
-
-## Integrating Trees with Cropping
-
-Agroforestry and alley cropping systems place rows of productive or shelter
-trees within grain and pasture paddocks. In temperate broadacre systems, tagasaste (Chamaecytisus proliferus), carob, honey locust, and oaks provide
-fodder, nitrogen fixation, and wind shelter. In tropical systems, leguminous
-trees such as leucaena, gliricidia, and sesbania intercrop with maize, sorghum,
-or millet. Tree rows spaced 15 to 30 metres apart allow conventional machinery
-passes while providing shade that reduces evapotranspiration and heat stress on
-pastures and livestock.
-
-Alley cropping on contour maximises water capture. Leaf litter from tree rows
-adds organic matter to adjacent crop rows. Root systems of deep-rooted trees
-bring nutrients from subsoil layers into the cycling system. Mollison stresses
-that tree-crop integration is the primary strategy for converting conventional
-broadacre farms toward permanent agriculture.
-
-## Ley Farming Systems
-
-Ley farming alternates periods of perennial pasture (leys) with arable crop
-phases. A typical rotation might include three to five years of mixed pasture
-followed by two to three years of grain crops. During the ley phase, perennial
-legumes and grasses build soil structure, fix nitrogen, break pest and disease
-cycles, and add organic matter. When the ley is ploughed (or preferably,
-cropped in directly), the stored fertility supports grain production without
-synthetic nitrogen inputs.
-
-The key to successful ley farming is selecting pasture species that match the
-soil and climate while providing maximum nitrogen fixation and ground cover.
-See [[mollison-designers-cover-crops-and-green-manure-species]] for detailed
+Broadacre [[mollison-designers-cover-crops-and-green-manure-species]] for detailed
 species selection guidance.
 
 ## Pasture Species Selection
@@ -97,10 +62,7 @@ Cover crops between grain phases protect the soil surface and add organic
 matter. The use of roller-crimpers to terminate cover crops without herbicides
 is increasingly viable. Residue retention on the soil surface reduces
 evaporation, moderates soil temperature, suppresses weeds, and feeds soil
-biology. See [[mollison-designers-cover-crops-and-green-manure-species]] for
-cover crop integration strategies.
-
-## Farm-Scale [[water-management]]
+biology. See [[water-management]]
 
 Broadacre water management follows the keyline principle of storing water high
 in the landscape and distributing it via gentle contour channels. Swales on
@@ -137,5 +99,4 @@ crops, livestock, and grain products.
 
 ## See Also
 
-- [[mollison-designers-snow-ice-and-winter-design-strategies]]
 - [[mollison-designers-climate-classification-and-design-zones]]

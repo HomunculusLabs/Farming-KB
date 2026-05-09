@@ -89,16 +89,8 @@ Research suggests that a therapeutic window exists which may depend on individua
 ## Strain-Specific Considerations
 
 - THC is the primary antiemetic cannabinoid, acting via CB1 receptors
-- [[cannabis-cbd-therapeutic-profile]] provides additional renal protection and anti-inflammatory benefits
-- Sativa strains with higher THC content may be preferred for daytime antiemetic use
-- Indica strains may be preferred when nausea accompanies sleep difficulties
-
-## Related Topics
-
 - [[cannabis-for-cancer-patients]]
-- [[cannabis-cancer-symptom-management]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-dosing-guidelines-by-condition]]
 
 ## Key Considerations
@@ -107,9 +99,6 @@ With a CHI value of 104 from 24 studies, cannabis for chemotherapy-induced nause
 
 ## See Also
 
-- [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]
-- [[2c-d-pihkal-entry-23]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]
-- [[cannabis-for-cancer-patients]]
 - [[psp-phase-clinical-trials]]

@@ -21,53 +21,7 @@ softening technology.
 ## Understanding Hard Water
 
 Hard water is water with high content of dissolved calcium (Ca),
-magnesium (Mg), and iron (Fe). When [[ultra-low-jadam-wetting-agent-jwa]]
-is mixed in hard water, the calcium and magnesium ions react with the
-surfactant molecules, causing the solution to become murky and
-producing little foam. The wetting agent effectively breaks down,
-losing its ability to coat plant surfaces evenly.
-
-Without proper wetting power, pesticide breaks into droplets on the
-leaf surface, forming spots of high concentration. These concentrated
-spots cause "concentration stress" that damages plant tissue, leaves
-unsightly marks on produce, and reduces overall pest control
-effectiveness. Even commercial chemical pesticides are affected by hard
-water, though synthetic wetting agents are somewhat less susceptible.
-
-## The Water Test
-
-Before making or applying pesticide, always test your water with JWA.
-The test is simple:
-
-1. Take a sample of your water in a clear container.
-2. Add a few drops of JADAM Wetting Agent.
-3. Observe: the water should remain completely clear.
-4. Shake the container: abundant foam should form.
-
-If the water turns murky like milk and produces little or no foam, it
-is hard water and should not be used for pesticide. The more foam and
-the clearer the water, the better the water quality for pesticide
-application. This simple test should be performed every time before
-mixing pesticide.
-
-## Sources of Soft Water
-
-Several options exist for obtaining soft water:
-
-**Rainwater**: The most readily available soft water source. Collect
-rainwater at least 30 minutes after rainfall begins. The first 30
-minutes contain pollutants from the atmosphere and should be discarded.
-Rainwater is naturally soft and produces excellent foam with JWA. It
-also washes clothes well and leaves skin feeling smooth after washing.
-
-**Well water**: Some wells produce naturally soft water, especially in
-areas with sandy or granite geology. Test well water with JWA before
-use.
-
-**Municipal water**: Quality varies by region. Some municipal water
-supplies are adequately soft; others are hard. Always test with JWA.
-
-## [[jadam-water-softener]]
+magnesium (Mg), and iron (Fe). When [[jadam-water-softener]]
 
 For farmers who cannot access naturally soft water, JADAM has developed
 an affordable water softener based on ion-exchange resin technology.
@@ -126,7 +80,5 @@ optional but essential for effective pesticide application.
 
 ## See Also
 
-- [[ultra-low-jadam-wetting-agent-jwa]] - Wetting agent for pesticides
 - [[ultra-low-cost-jadam-natural-pesticide-jnp]] - Complete pesticide system
-- [[ultra-low-jadam-herb-solution-jhs]] - Herbal pesticide component
 - [[ultra-low-jadam-sulfur-js]] - Sulfur fungicide component

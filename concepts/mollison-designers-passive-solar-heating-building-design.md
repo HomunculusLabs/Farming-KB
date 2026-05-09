@@ -74,39 +74,11 @@ Mollison describes the thermal mass cycle:
 4. At night, mass releases stored heat, warming the interior
 
 Effective thermal mass materials include concrete, stone, brick,
-rammed earth ([[earth-building-permaculture]]), water, and earthen plaster. Mass
-should be:
-
-- Located in direct sunlight (sunlit floor areas, Trombe walls) or
-  indirectly illuminated
-- Distributed throughout the living space, not concentrated in one
-  area
-- Sufficient in quantity: approximately 4-6 times the glazing area
-  in square meters for masonry, or 0.15-0.25 m3 of water per m2 of
-  glazing
-- Dark-colored to maximize solar absorption
-- Covered with tiles, stone, or dark-stained concrete for direct-gain
-  floors
-
-## Trombe Wall (Thermal Mass Wall)
-
-The Trombe wall is a south-facing masonry wall (150-300mm thick)
-covered with glass, separated by a 50-100mm air space. The wall
-absorbs solar radiation, heats up, and radiates heat into the interior
-with a time delay of 8-12 hours, delivering warmth in the evening and
-night. Variations include ventilated Trombe walls (with convective
-vents), water walls, and water-filled Trombe walls. Trombe walls work
-well with [[mollison-designers-straw-bale-building-techniques]] and [[earth-building-permaculture]] methods.
-
-## Attached Greenhouse (Sunspace)
-
-An attached greenhouse on the south side provides solar heat
-collection, [[permaculture-zone-one-design]] food production, and a buffer zone that
+rammed earth ([[mollison-designers-straw-bale-building-techniques]] and [[permaculture-zone-one-design]] food production, and a buffer zone that
 reduces heat loss. Design approaches include direct gain sunspaces,
 thermal storage walls, and convective loop vents. Summer overheating
 is prevented through ventilation, shading, and thermal mass. Mollison
-integrates attached greenhouses with [[food-forest-design]] edge design and
-[[aquaculture-in-permaculture]] systems.
+integrates attached greenhouses with [[aquaculture-in-permaculture]] systems.
 
 ## Overheating Prevention
 
@@ -147,4 +119,3 @@ Well-designed passive solar buildings can provide 50-100% of heating
 needs in temperate climates, reducing or eliminating fossil fuel
 dependence. Mollison views passive solar design as inseparable from
 [[permaculture-design]] -- it requires no ongoing energy input,
-relies on observation and understanding of natural cycles, and creates

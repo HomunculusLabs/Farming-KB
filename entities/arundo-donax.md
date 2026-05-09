@@ -128,7 +128,5 @@ particularly in the Americas, Australia, and South Africa.
 ## See Also
 
 - [[moringa-oleifera|Moringa oleifera]]
-- [[paulownia-tomentosa|Paulownia tomentosa]]
 - [[glycine-max-soybean-permaculture|Glycine max (permaculture)]]
-- [[alfalfa-medicago-sativa|Alfalfa (Medicago sativa)]]
 - [[tagasaste|Tagasaste]]

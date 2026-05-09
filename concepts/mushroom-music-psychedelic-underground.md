@@ -3,13 +3,7 @@ title: Mushroom Music and the Psychedelic Underground
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
----
-# Mushroom Music and the Psychedelic Underground
-
-The relationship between [[psychedelic-mushroom-decriminalization]]
+tags: [[psychedelic-mushroom-decriminalization]]
 and music has been a defining feature of the mushroom music psychedelic underground since the 1960s. From the first rock songs
 to reference mushroom experiences to the electronic dance music of contemporary
 festivals, mushrooms have shaped and been shaped by musical culture in profound
@@ -66,19 +60,7 @@ nature, mysticism, and pre-industrial culture aligned naturally with the
 perception of mushrooms as "natural" and "authentic" psychoactive substances.
 
 Artists in this tradition drew on the same cultural currents that produced the
-[[fly-agaric-literary-history]] in Victorian
-fairy tales, creating a music that evoked the enchanted, otherworldly
-quality associated with mushroom experiences.
-
-## Rave Culture and Mushrooms
-
-The transition from the 1960s psychedelic rock scene to the 1990s rave culture
-saw mushrooms remain central to the musical underground. The emphasis shifted
-from introspective, improvisational music to the driving beats of electronic
-dance music, but mushrooms continued to be valued as a "natural" alternative
-to synthetic drugs like MDMA and amphetamines.
-
-At the [[telluride-mushroom-festival-modern-mycological-culture]] that developed
+[[telluride-mushroom-festival-modern-mycological-culture]] that developed
 around rave and trance music, mushrooms became the preferred psychedelic for
 many dancers. Their effects, perceived as more "organic" and less predictable
 than LSD, were considered more compatible with the communal, nature-oriented
@@ -92,31 +74,11 @@ Day-Glo colours, became a shorthand signifier for the psychedelic experience
 across multiple musical genres.
 
 This visual culture overlapped with and drew upon the broader tradition of
-[[psychedelic-mushroom-art-and-iconography]],
-creating a feedback loop in which musical and visual mushroom culture
-reinforced each other.
-
-## The Mushroom as Musical Metaphor
-
-Beyond explicit references, the mushroom experience has served as a metaphor
-for musical creation and appreciation. The sense of boundary dissolution,
-the perception of hidden patterns and connections, the experience of time as
-fluid and non-linear: all of these aspects of the mushroom experience have
-been invoked to describe the effects of music, particularly in psychedelic,
-ambient, and experimental genres.
-
-## Contemporary Scene
-
-In the twenty-first century, mushroom culture continues to intersect with
-music. The resurgence of interest in psychedelics has been accompanied by a
-new wave of music that explicitly engages with the mushroom experience.
-Psychedelic therapy playlists, designed to accompany [[metzner-mdma-assisted-therapy-research]] sessions, represent a new chapter
+[[metzner-mdma-assisted-therapy-research]] sessions, represent a new chapter
 in the relationship between mushrooms and music.
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]] - Existing broader page on the topic
 - [[psychedelic-1960s-counterculture]] - The 1960s context
-- [[modern-mushroom-festival-culture]] - Contemporary festival culture
 - [[psychedelic-mushroom-art-and-iconography]] - Visual culture
 - [[magic-mushroom-cultural-history]] - Full cultural history

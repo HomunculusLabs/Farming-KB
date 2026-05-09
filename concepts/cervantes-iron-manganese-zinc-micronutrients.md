@@ -137,8 +137,6 @@ Leaves should green up in four or five days.
 
 ## Related Topics
 
-- [[cervantes-micronutrient-deficiency-chelation]]
 - [[cervantes-rare-micronutrients-boron-cobalt-nickel]]
-- [[cervantes-ph-management-testing]]
 - [[cervantes-nutrient-management]]
 - [[cervantes-troubleshooting-guide]]

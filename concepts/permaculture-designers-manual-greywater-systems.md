@@ -3,19 +3,7 @@ title: Greywater Systems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Greywater Systems
-# Permaculture Designers Manual - Wastewater Utilization in Design
-
-updated: 2026-04-18
-
-## Overview
-
-Greywater (wastewater from kitchen, bathroom, and laundry) represents a significant and often wasted resource in conventional settlement design. The permaculture approach treats greywater as a valuable resource for garden irrigation, [[permaculture-designers-manual-charcoal-production]], and nutrient cycling, rather than as a disposal problem. The Designers Manual emphasizes that using wastewater intelligently promotes yield while cleaning up water for downstream users.
+tags: [[permaculture-designers-manual-charcoal-production]], and nutrient cycling, rather than as a disposal problem. The Designers Manual emphasizes that using wastewater intelligently promotes yield while cleaning up water for downstream users.
 
 The fundamental principle is that the wastewaters of upstream settlements are the drinking waters of downstream areas, so our duty is to release only water of sufficiently good quality to be safely usable by others.
 
@@ -68,15 +56,7 @@ In critical areas, especially in arid or delicate environments:
 
 ### Swale Systems
 
-Every roof tank overflow, and some greywater wastes can be led to [[permaculture-designers-manual-swale-design-detailed]] (if boron detergents are not used). Swales interpenetrating suburban development can accept all road and excess roof runoff while supporting productive trees.
-
-### Banana Circles
-
-Banana circles and papaya circles are ideal recipients of greywater, particularly from handbasins and showers. The high organic matter and biological activity in these systems rapidly processes the wastewater.
-
-### Wet Food Patches
-
-Clean water and [[permaculture-designers-manual-waste-management]] combined can grow wet crops such as kangkong, watercress, and Chinese water chestnut. The bank is planted to dry staple foods that benefit from the additional moisture.
+Every roof tank overflow, and some greywater wastes can be led to [[permaculture-designers-manual-waste-management]] combined can grow wet crops such as kangkong, watercress, and Chinese water chestnut. The bank is planted to dry staple foods that benefit from the additional moisture.
 
 ### Dirty Water Patch
 
@@ -125,8 +105,6 @@ Biological treatment of common contaminants is stressed. The only water safe for
 
 ## Related
 
-- [[permaculture-designers-manual-composting-toilet-design]]
 - [[permaculture-designers-manual-soap-making]]
-- [[permaculture-designers-manual-triage-first-aid-design]]
 - [[permaculture-designers-manual-banana-circles]]
 - [[permaculture-designers-manual-water-quality]]

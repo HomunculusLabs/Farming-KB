@@ -11,140 +11,89 @@ type: concept
 
 # Foliar Application of Compost Tea
 
-Foliar application of [[compost-tea-aact]] is one of the primary methods
-for delivering beneficial organisms to plant surfaces. According to
-[[aact-troubleshooting-ingham]]'s [[ingham-field-guide-overview]], foliage generally needs tea that is as
-fungal as possible, since leaves in natural systems are typically
-dominated by [[fungal-communities-succession]]. The foliar approach targets disease
+Foliar application of [[aact-troubleshooting-ingham]]'s [[fungal-communities-succession]]. The foliar approach targets disease
 suppression on leaf surfaces, improved nutrient uptake through
 stomatal opening, and pest deterrence through multiple biological
 mechanisms.
 
 ## Why Apply Tea to Foliage
 
-The primary reason most growers use foliar [[compost-tea-aact]] is
-disease suppression. When beneficial bacteria and fungi occupy the
-leaf surface, there is no space or food available for disease
-organisms to establish. This is not a pesticide effect -- it is
-competitive exclusion. The beneficial organisms occupy infection
-sites, consume the foods that pathogens would otherwise use, and
-in some cases directly consume the disease organisms.
+The primary reason most growers use foliar [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]
+## Practical Applications
 
-Secondary benefits include improved plant nutrition. Microbes on
-leaf surfaces respire and release CO2, which elevates CO2
-concentration in the leaf surface atmosphere. This speeds stomatal
-opening and increases the time stomates stay open, improving uptake
-of foliar nutrients. As weather gets drier and microbes have less
-water, they respire less -- a self-regulating biological system.
+Foliar Application of Compost Tea has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
 
-Third, foliar applications help with pest management. Nearly every
-grower working with Ingham notes that foliar insects "go away" when
-they start spraying with AACT, though hard scientific documentation
-remains limited.
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
 
-## Coverage Requirements
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
 
-For effective disease prevention on leaf surfaces, Ingham
-recommends:
+## Key Considerations
 
-- 60-70% of leaf surface covered by bacteria for routine
-  protection
-- At minimum, 65% bacterial coverage and 5% fungal coverage
-- When disease pressure is high, fungal coverage of 2-5% becomes
-  critical for prevention
-- Fungi provide long-term holding sites for subsequent organism
-  applications
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
 
-The main agent of protection seems to be coverage. If beneficial
-organisms are already present on the leaf surface, disease fungi
-cannot push them out of the space. The enzymatic ability of many
-leaf pathogens is so weak that they cannot outcompete other
-organisms when the surface is occupied.
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
 
-## Application Timing and Frequency
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
 
-Standard foliar programs follow this pattern:
+## Common Challenges
 
-- First application: two weeks before bud break in spring
-- During active growth: every 10-14 days depending on disease
-  severity
-- Minimum once per month during the growing season
-- Fall application before leaf drop to establish decomposing
-  organisms on leaves
+Practitioners commonly encounter several challenges when working with
+Foliar Application of Compost Tea. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
 
-Compost tea is a preventative, not a pesticide. A single spray will
-not be adequate. In the first year of application, tea should be
-applied once every 7-10 days. After about 4 months, back off to
-monthly applications. Then three times per growing season for
-maintenance.
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
 
-When disturbance occurs (pesticide drift, compaction, extreme
-weather), application frequency may need to increase again to once
-per week until the foodweb recovers.
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
 
-## Sticker-Spreaders and Attachment
+## Integration and Future Development
 
-Organisms need about 20 minutes to firmly attach to leaf surfaces.
-Bacteria must make glue material; fungi produce substances like
-glomulin that bind them to surfaces. The organisms must be active
-and growing when they land on leaves to produce these adhesives.
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
 
-Recommended sticker-spreaders include:
-- Saponin and Nu-Film (without preservatives)
-- Unsulfured molasses at 5% concentration
-- Fish hydrolysate (careful of concentration -- too much oil
-  smothers)
-- Yucca extract
-- Aloe vera (avoid the inner leaf layer, which is detrimental to
-  life)
-- Lignin in various liquid forms
-- Pine sap (dilute BEFORE adding to tea)
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
 
-Paul Wagner confirmed that if you have good organism growth in the
-tea, bacteria and fungi generally stick well on their own. But
-spreaders provide insurance, especially on waxy leaf surfaces.
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
 
-## Rain and Weather Considerations
-
-Light rain or mist is actually beneficial for foliar application --
-the moisture helps organisms attach to leaf surfaces. However, in a
-downpour, a spreader sticker is recommended. As long as organisms
-have about 20 minutes to attach, they will remain through
-subsequent rainfall.
-
-Temperatures do not need to be warm. As long as temperatures are not
-freezing, AACT can be applied. Even if temps drop to freezing at
-night, organisms that reached the soil before freezing will provide
-benefits.
-
-For mid-day sun applications: if droplet sizes are large enough
-(such as from pivot irrigation or airplane equipment), you do not
-need to worry about UV damage. Larger drops mean less coverage per
-application but more flexibility in timing.
-
-## Specific Disease Targets
-
-Ingham's field guide documents successes against multiple foliar
-diseases:
-- Black spot: easily prevented through coverage; the pathogen's
-  enzymatic ability is too weak to outcompete surface organisms
-- Powdery mildew: controlled on vines and strawberries with AACT
-- Apple scab: prevented when fungal biomass is adequate on leaf
-  surfaces
-- Leaf curl (Taphrina): shut down with beneficial fungal tea
-- Anthracnose (foliar): preventable with bacterial tea
-- Sooty mold: prevented when beneficial organisms consume the
-  honeydew that sooty mold grows on
-- Fusarium (snow mold): prevented with just bacterial tea
-- Some Rhizoctonia species: require full bacterial plus fungal tea
-
-## Application Rates
-
-Standard rates from the field guide:
-- 5 gallons of tea per acre for foliar application
-- Up to 10 gallons per acre during severe disease pressure (e.g.,
-  mildew alerts)
-- Water serves as carrier; ensure adequate volume to cover the
-## See Also
-
-- [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]

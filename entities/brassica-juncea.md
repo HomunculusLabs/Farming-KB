@@ -110,11 +110,7 @@ Indian breeding programs have focused on combining high yield potential with res
 
 ## See Also
 
-- [[sinapis-alba]]
 - [[raphanus-sativus]]
-- [[nasturtium-officinale]]
 - [[arachis-hypogaea]]
-- [[glycine-max]]
 - [[cicer-arietinum]]
-- [[coriandrum-sativum]]
 - [[zingiber-officinale]]

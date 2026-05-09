@@ -20,15 +20,7 @@ dead wood rather than in pastures or grassland like many other psychoactive spec
 Within the Pluteaceae family, approximately 45 European species of the genus
 Pluteus exist, some of which produce psilocybin. Historically, the Pluteus species
 were classified as belonging to the Amanitaceae family (alongside
-[[amanita-genus-morphology]] species), but were later reclassified into
-their own family based on distinctive morphological and genetic characteristics.
-
-Pluteus salicinus has been identified in several European countries and grows on
-dead wood, particularly willow (Salix), from which its species name derives.
-The species has also been reported in North America, suggesting a wide
-distribution across temperate regions of the Northern Hemisphere.
-
-The Pluteaceae family also includes [[amanita-genus-morphology]] species,
+[[amanita-genus-morphology]] species,
 which are mycorrhizal, but Pluteus itself is saprophytic, obtaining nutrients
 from decaying wood — a fundamental ecological difference that separates the two
 genera despite their taxonomic proximity.
@@ -45,7 +37,6 @@ Pluteus salicinus displays several distinguishing features:
   staining at the base
 - **Gills:** Free from the stem (a characteristic of the Pluteaceae family),
   turning pink as spores mature — unlike the dark spore prints of
-  [[psilocybe-genus-diversity-and-taxonomy]] and
   [[panaeolus-subbalteatus-profile]] species
 - **Stem:** 3–6 cm long, 2–5 mm thick, cylindrical, white to pale gray,
   sometimes with blue-green staining at the base. No ring or volva present
@@ -66,27 +57,12 @@ Pluteus salicinus displays several distinguishing features:
 ## Chemistry
 
 Chemical analysis of Pluteus salicinus has confirmed the presence of psilocybin,
-[[query-what-is-the-difference-between-psilocybin-and-psilocin]], and
 [[amanita-muscaria-chemistry-and-pharmacology]], placing it firmly
 among the psychoactive mushroom species.
 
 The presence of urea is notable from a chemo-taxonomical perspective. Among the
 species discussed in Gartz's work, urea is present only in
-[[panaeolus-subbalteatus-profile]] and Pluteus species. Urea was
-detected incidentally during thin-layer chromatography testing intended to
-discover indole compounds. While its levels are trivial in terms of psychoactivity,
-urea serves as a potential marker for distinguishing these genera.
-
-## Habitat and Ecology
-
-Unlike the pasture and grassland species such as
 [[psilocybe-semilanceata]] or the dung-inhabiting
-[[panaeolus-subbalteatus-profile]], Pluteus salicinus
-is a wood-inhabiting species. It grows saprophytically on decaying hardwood,
-particularly willow (Salix species), but also on other fallen timber including
-elm, ash, and beech.
-
-This habitat preference places it in a similar ecological niche to
 [[stamets-psi-psilocybe-cyanescens-species-guide]], which also colonizes wood
 debris, though the two species are not closely related taxonomically. Fruiting
 occurs from late summer through autumn.
@@ -121,9 +97,6 @@ relationship.
 
 ## See Also
 
-- [[stamets-psi-psilocybe-cyanescens-species-guide]] — Another wood-inhabiting psychoactive species
 - [[psilocybe-semilanceata]] — Europe's most common psychoactive mushroom
-- [[panaeolus-subbalteatus-profile]] — Dung-inhabiting European psychoactive species
 - [[psilocin-and-psilocybin-chemistry]] — The active compounds
-- [[gartz-european-psychoactive-mushroom-species]]
 - [[pluteus-cervinus]]

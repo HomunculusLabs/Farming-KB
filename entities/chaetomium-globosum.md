@@ -116,14 +116,7 @@ nutrient enhancement cycle contributes to overall soil fertility.
 ## See Also
 
 - [[soil-food-web-nutrient-cycling]]
-
-- [[the-soil-food-web]]
-- [[compost-building-guide]]
-
-- fusarium lateritium - saprotrophic fungus preferred by earthworms but fails gut passage
-- mucor heimalis - saprotrophic fungus with reduced germination after earthworm passage
 - [[lactarius-rufus]] - ectomycorrhizal fungus, best nematode food source
-- [[laccaria-laccata]] - ectomycorrhizal fungus with high nematode support
 - [[paxillus-involutus]] - ectomycorrhizal fungus, very poor nematode food source
 - agrocybe gibberosa - saprotrophic fungus preferred by Aporrectodea longa
 - aporrectodea longa - earthworm species that enhances C. globosum spore germination

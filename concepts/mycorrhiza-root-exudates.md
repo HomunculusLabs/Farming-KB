@@ -140,8 +140,6 @@ the complex interactions between mycorrhizal exudates and soil biology.
 
 ## See Also
 
-- [[fungal-plant-defense]]
 - [[mycorrhiza-nutrient-exchange]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[mycorrhizal-networks]]
 - [[mycorrhizal-symbiosis]]

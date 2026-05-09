@@ -3,7 +3,7 @@ title: Fungal Roles in Aquatic Environments
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Roles in Aquatic Environments
@@ -61,8 +61,7 @@ Marine fungi inhabit coastal and open-ocean environments, colonizing submerged w
 ## Fungal Roles in Nutrient Cycling in Aquatic Systems
 
 - **Carbon cycling**: Fungi decompose complex organic matter (lignocellulose, chitin) that bacteria cannot efficiently process, converting particulate organic carbon into dissolved and fungal biomass carbon
-- **Nitrogen cycling**: Saltmarsh ascomycetes may benefit from potential consortia with dinitrogen-fixing bacteria and potential uptake of nitrogen from flooding-tidal waters (White and Howes, 1994; Newell, 1996, 2001a, 2002). See [[fungal-role-in-nitrogen-cycling]]
-- **Mineral transformations**: Fungi in aquatic sediments contribute to metal cycling and mineral dissolution, paralleling their roles in terrestrial soils. See [[fungal-biogeochemistry]]
+- **Nitrogen cycling**: Saltmarsh ascomycetes may benefit from potential consortia with dinitrogen-fixing bacteria and potential uptake of nitrogen from flooding-tidal waters (White and Howes, 1994; Newell, 1996, 2001a, 2002). See [[fungal-biogeochemistry]]
 
 ## Methodological Approaches
 
@@ -82,10 +81,5 @@ DNA-based characterization techniques are becoming increasingly important for ec
 
 Fungi in aquatic environments engage in complex interactions with bacteria, algae, invertebrates, and other fungi. In saltmarsh systems, cordgrass ascomycetes may form consortia with dinitrogen-fixing bacteria and green microalgae on blade surfaces. Fungal biomass serves as food for detritivorous invertebrates, linking microbial decomposition to higher trophic levels. Competition between fungi and bacteria for resources in aquatic sediments influences decomposition rates and nutrient release patterns.
 
-## See also: [[fungal-ecology]], [[fungal-community-ecology]], [[fungal-biogeochemistry]], [[fungal-role-in-nitrogen-cycling]], [[fungal-biomonitoring]]
-
-## Related
-
-- [[fungal-spore-biology-dispersal]]
-- [[fungal-stress-responses]]
+## See also: [[fungal-community-ecology]], [[fungal-role-in-nitrogen-cycling]], [[fungal-spore-biology-dispersal]]
 - [[lichen-biology-guide]]

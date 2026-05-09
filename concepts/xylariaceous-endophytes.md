@@ -90,18 +90,7 @@ Xylariaceous endophytes show interesting biogeographic patterns:
 
 ## Related Topics
 
-- [[fungal-endophytes-plant-fitness]]
 - [[endophyte-isolation-techniques]]
-- [[ascomycete-phylum-guide]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[fungal-biodiversity-forest-floor]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 12: Endophytic Fungi
-- Petrini, O. et al. 1995. Xylariaceous endophytes
-- Whalley, A.J.S. 1993. Tropical Xylariaceae: their ecology and systematics
-- Rogers, J.D. 2000. Thoughts and musings on tropical Xylariaceae
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[tropical-vs-temperate-fungal-diversity]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]

@@ -1,60 +1,14 @@
 ---
 title: "Microgreens vs Shoots — Growing Methods Comparison"
 created: 2026-04-28
-tags: [microgreens, shoots, cut-and-come-again, [[no-till-grain-growing-methods]], indoor-farming, urban-agriculture, comparison]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - title: "Microgreens: A New Crop for Urban Agriculture"
-    author: "Xiao, Z., Lester, G.E., Luo, Y., & Wang, Q."
-    journal: "Journal of Vegetable Science"
-    year: 2016
-    doi: "10.1080/19315260.2015.1103729"
-  - title: "Microgreens: Production, Shelf Life, and Bioactive Components"
-    author: "Di Gioia, F., & Santamaria, P."
-    journal: "HortScience"
-    year: 2015
-    doi: "10.21273/HORTSCI.50.12.1687"
-  - title: "Assessment of Vitamin and Carotenoid Concentrations of Emerging Food Products"
-    author: "Xiao, Z., et al."
-    journal: "Journal of Agricultural and Food Chemistry"
-    year: 2012
-    doi: "10.1021/jf204765f"
-  - title: "University of Massachusetts Extension — Microgreens Production Guide"
-    author: "UMass Amherst Center for Agriculture, Food and the Environment"
-    url: "https://ag.umass.edu/greenhouse-floriculture/fact-sheets/microgreens-production-guide"
-    year: 2023
-  - title: "ATTRA — Specialty Crops: Microgreens and Shoots"
-    author: "National Center for Appropriate Technology (NCAT)"
-    url: "https://attra.ncat.org/attra-pub/summaries/summary.php?pub=408"
-    year: 2024
-  - title: "Johnny's Selected Seeds — Shoots and Microgreens Growing Guide"
-    author: "Johnny's Selected Seeds"
-    url: "https://www.johnnyseeds.com/growers-library/seed-starting/shoots-microgreens"
-    year: 2025
-type: comparison
----
-# Microgreens vs Shoots — [[mushroom-growing-methods-comparison]]
+tags: [microgreens, shoots, cut-and-come-again, [[mushroom-growing-methods-comparison]]
 
-This guide compares two closely related but distinct categories of young edible greens: **microgreens** and **shoots** (also called *leafy shoots* or *cut-and-come-again greens*). Bosingh-[[fungal-interactions-with-microbes]]-with-[[singh-fungal-biosorption-reactors-heavy-metals]]-in-soilgrown in soil or soilless medium with light exposure — they are **not** sprouts, which are germinated [[ingoldian-hyphomycetes-spore-dispersal-in-water]] without light.
-
-## Key Definitions
-
-| Term | Definition |
-|------|-----------|
-| **Microgreens** | Harvested at the first true leaf stage (cotyledons fully open, first true leaves just emerging). Grown 7–21 days. Single harvest. |
-| **Shoots** | Allowed to develop 2–4 true leaves [[cannabis-flushing-before-harvest]]. Grown 14–35 days. Often supports multiple harvests (cut-and-come-again). |
+This guide compares two closely related but distinct categories of young edible greens: **microgreens** and **shoots** (also called *leafy shoots* or *cut-and-come-again greens*). Bosingh-with-in-soilgrown in soil or soilless medium with light exposure — they are **not** sprouts, which are germinated [[cannabis-flushing-before-harvest]]. Grown 14–35 days. Often supports multiple harvests (cut-and-come-again). |
 
 ## Quick Comparison Table
 
 | Attribute | Microgreens | Shoots |
 |-----------|-------------|--------|
-| **[[cervantes-green-algae-growing-medium]]** | Soil, coconut coir, hemp mats, hydroponic pads | Soil preferred (deeper root zone needed), coir works |
-| **Medium depth** | 1–2 cm (½–¾ in) | 3–5 cm (1–2 in) |
-| **Light requirements** | Moderate — 12–16 hrs/day, 2000–5000 lux | Higher — 14–16 hrs/day, 4000–8000 lux |
-| **Light type** | T5, LED strips adequate | Full-spectrum LED recommended for denser foliage |
-| **Seed density** | Dense: 10–50 seeds/sq in depending on variety | Moderate: 5–15 seeds/sq in (more spacing needed) |
-| **Blackout period** | 3–5 days (weighted cover for sturdy stems) | 3–5 days; lighter weight, longer stems OK |
 | **[[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]** | 7–21 days from sowing | 14–35 days from sowing |
 | **Harvest stage** | First true leaf emerging | 2–4 true leaves developed |
 | **Harvest method** | Cut once at soil level with shears or knife | Cut at 1–2 in above soil; regrows for 2–4 cuts |

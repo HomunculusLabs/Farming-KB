@@ -1,5 +1,4 @@
 ---
-title: Permaculture Slope Analysis And Reading
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -138,9 +137,9 @@ Mollison distinguishes between two landform profiles:
 ## Related Concepts
 
 - [[keyline-design]]
-- [[permaculture-water-harvesting-earthworks]]
+- [[permaculture-earthworks-guide]]
 - [[permaculture-earthworks]]
-- [[organic-vegetable-growing-and-market-gardening]]
+- [[swale-construction-guide]]
 - [[permaculture-water-harvesting]]
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-mapping-and-reading-the-landscape]]

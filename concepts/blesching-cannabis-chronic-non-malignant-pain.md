@@ -32,9 +32,7 @@ According to the Cannabis Health Index, the evidence for cannabis in treating
 chronic non-malignant pain is based on 2 studies reviewed with a total CHI
 value of 5, yielding a CHI score of 2.50.
 
-See also: [[cannabis-chronic-pain-management]],
-[[blesching-cannabis-neuropathic-pain]],
-[[blesching-cannabis-arthritis]],
+See also: [[blesching-cannabis-neuropathic-pain]],
 [[blesching-cannabis-spinal-cord-injuries]],
 [[blesching-cannabis-dosing-strategies]]
 

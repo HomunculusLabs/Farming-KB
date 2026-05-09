@@ -109,12 +109,8 @@ Genomic studies have revealed that L. minor possesses one of the smallest known 
 
 ## See Also
 
-- [[azolla-filiculoides]] — Azolla, another nitrogen-fixing floating aquatic fern
 - [[nasturtium-officinale]] — Watercress, edible aquatic plant
-- [[trifolium-repens]] — White clover, alternative protein-rich ground cover
 - [[portulaca-oleracea]] — Purslane, another fast-growing nutritional plant
-- [[plantago-major]] — Broadleaf plantain, common wetland medicinal plant
 - [[glycine-max-soybean-permaculture]] — Soybean, protein crop for comparison
-- [[moringa-oleifera]] — Moringa, another fast-growing protein-rich plant for permaculture
 - [[aloe-vera]] — Aloe vera, another medicinal plant with topical applications
 - [[lotus-corniculatus]] — Birdsfoot trefoil, leguminous forage alternative

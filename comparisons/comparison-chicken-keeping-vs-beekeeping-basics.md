@@ -21,28 +21,6 @@ management expertise. Comparing them helps new homesteaders decide which
 animal best fits their land, schedule, and goals.
 
 ## Chicken Keeping
-[[chicken-keeping]]
-Chicken keeping centers on raising a small flock of poultry for egg
-production, meat, or both, with breeds selected for specific purposes.
-Egg-layer breeds like Leghorns and Rhode Island Reds produce 250 to 300
-eggs per year, while dual-purpose breeds like Orpingtons and Plymouth
-Rocks offer moderate egg production with decent meat yield. Heritage
-breeds preserve genetic diversity and often demonstrate better foraging
-ability and disease resistance, though at lower production volumes than
-commercial hybrids.
-
-The infrastructure requirements are straightforward and relatively
-affordable: a secure coop with roosting bars, nesting boxes,
-ventilation, and predator protection, plus an attached run or access to
-free-range pasture. A stationary coop works for small flocks on limited
-land, while chicken tractors (movable coops) allow birds to fertilize
-and prepare new ground as they are rotated across the property. The deep
-litter method simplifies bedding management by allowing manure and
-carbon material to compost in place, generating heat and reducing
-cleaning frequency.
-
-Chickens provide direct integration with garden systems through their
-manure, which is a nitrogen-rich amendment when properly composted. See
 [[chicken-tractor-systems]] for mobile coop designs. They
 also consume kitchen scraps, garden waste, and insect pests, closing
 nutrient loops within the homestead. Daily tasks include feeding,
@@ -53,31 +31,7 @@ management in cold climates, and maintaining flock health through
 biosecurity practices.
 
 ## Beekeeping
-[[beekeeping-basics]]
-Beekeeping (apiculture) is the management of honey bee colonies for
-pollination services, honey, beeswax, and the ecological benefits of
-supporting a keystone pollinator species. A single healthy hive contains
-30,000 to 60,000 worker bees organized in a complex social structure
-with a single queen, thousands of female workers performing age-graded
-tasks, and seasonal male drones. The colony follows an annual cycle
-driven by nectar flows: spring buildup, summer peak population and honey
-production, fall preparation, and winter clustering.
-
-Hive selection is the first major decision, with Langstroth hives
-(stacked rectangular boxes with removable frames) being the most common
-choice for beginners due to standardized equipment availability,
-interchangeable parts, and extensive community knowledge. Top bar hives
-offer a more natural approach with less heavy lifting, while Warre hives
-prioritize minimal disturbance of the colony. Each system has distinct
-trade-offs in honey yield, management intensity, and cost. Essential
-equipment includes a smoker, hive tool, protective suit, and feeder.
-
-Beekeeping demands a steeper learning curve than chicken keeping.
-Colonies require regular inspections every one to two weeks during the
-active season to monitor for disease, swarm preparations, queen health,
-and adequate food stores. Varroa mite management is the single greatest
-challenge facing modern beekeepers and requires proactive monitoring and
-treatment. See [[beekeeping-problems-and-solutions]] for troubleshooting. Unlike chickens, bees cannot be temporarily neglected during
+[[beekeeping-problems-and-solutions]] for troubleshooting. Unlike chickens, bees cannot be temporarily neglected during
 vacations or busy periods without risking colony collapse. However, the
 pollination services that bees provide to nearby gardens, orchards, and
 wild plants create an ecological impact that far exceeds the footprint
@@ -147,4 +101,3 @@ pollinator-dependent crops and chicken coops near garden beds that
 benefit from manure application. The two animals rarely conflict as long
 as chicken coops are not placed immediately adjacent to hive entrances,
 where bird activity could stress the colony. Together, they represent a
-complete approach to small-scale animal integration that provides

@@ -113,11 +113,7 @@ Home growers interested in malting barley should consider:
 
 ## See Also
 
-- [[malt-and-malting-process]] for turning barley into malt
 - [[beer-brewing-basics]] for using malt in the brewing process
-- [[small-scale-grain-growing]] for growing grain at home
 - [[grain-cultivation-small-scale]] for grain farming fundamentals
-- [[history-of-beer-and-brewing]] for how barley varieties shaped brewing history
 - [[ale-vs-lager-fermentation]] for how barley choice affects fermentation
-- [[fukuoka-barley-clover-cultivation]] for natural farming approaches to barley
 - [[fukuoka-natural-rice-barley-cultivation]]

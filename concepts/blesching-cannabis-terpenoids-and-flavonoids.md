@@ -12,9 +12,7 @@ type: concept
 # [[cannabis-terpenoid-profiles-detailed]]s and Flavonoids
 
 Beyond the well-known [cannabinoids,
-the [[cannabis-plant-nutrition]] produces a rich array of non-cannabinoid compounds including
-terpenoids and flavonoids that contribute significantly to its therapeutic
-properties. *The [[cannabis-health-index]]* emphasizes that the full therapeutic
+the [[cannabis-health-index]]* emphasizes that the full therapeutic
 potential of cannabis extends far beyond THC and CBD, encompassing hundreds of
 [[cordyceps-cancer-bioactive-compounds]] that work synergistically through the
 [entourage effect.
@@ -23,13 +21,7 @@ potential of cannabis extends far beyond THC and CBD, encompassing hundreds of
 
 Terpenoids (also called terpenes) are the aromatic compounds responsible for
 the distinctive fragrance and flavor profiles of cannabis and countless other
-plants. These volatile organic compounds serve the plant's [[plant-defense-mechanisms]]
-against pests and pathogens, and when consumed by humans, they produce a wide
-range of therapeutic effects.
-
-### (E)-Beta-Caryophyllene: The Dietary Cannabinoid
-
-The most extensively documented terpenoid in Blesching's work is [[cannabis-beta-caryophyllene-dietary-cannabinoid]] ((E)-BCP), a dietary cannabinoid that activates CB2 receptor
+plants. These volatile organic compounds serve the plant's [[cannabis-beta-caryophyllene-dietary-cannabinoid]] ((E)-BCP), a dietary cannabinoid that activates CB2 receptor
 sites and initiates potent anti-inflammatory actions and protection from
 oxidative stress. The FDA has approved (E)-BCP as a dietary cannabinoid, making
 it a legally accessible form of cannabinoid therapy available through common

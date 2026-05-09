@@ -3,7 +3,7 @@ title: Fungi in Stressful Environments — Thermophilic, Psychrotropic, Xerophil
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -92,11 +92,7 @@ Microorganisms with pH optima exceeding 8 (usually 9-10). Though mostly prokaryo
 
 ## See Also
 
-- [[saprobic-soil-fungi-ecology-survey]]
 - [[soil-fungal-isolation-techniques]]
-- [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
 - [[microfungal-species-diversity-large-areas]]
-- [[fungal-species-richness-and-diversity-indices]]
 - [[fungal-diversity-arid-environments]]
-- [[fungal-communities-water-aquatic-ecosystems]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

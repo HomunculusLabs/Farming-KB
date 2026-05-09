@@ -115,10 +115,7 @@ The Takasago process is notable for using the first industrially applied asymmet
 
 ## See Also
 
-- [[camphor]] — Structurally related bicyclic monoterpene ketone with counterirritant properties
 - [[eucalyptol]] — Monoterpene ether from eucalyptus with overlapping decongestant use
-- [[thujone]] — Monoterpene ketone with GABA_A antagonism (contrasts menthol's positive modulation)
 - [[mentha-piperita]] — Primary natural source plant for menthol production
-- [[mentha-spicata]] — Spearmint, carvone-dominant relative lacking significant menthol
 - [[linalool]] — Monoterpene alcohol with sedative rather than cooling properties
 - [[salvia-officinalis]] — Sage, another Lamiaceae source of terpene-rich essential oils

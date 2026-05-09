@@ -3,12 +3,7 @@ title: Fungal Biodegradation of Pesticides -- Organochlorines to Triazines
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-# Fungal Biodegradation of Pesticides
-
-Fungi can degrade a remarkably wide range of pesticide classes through diverse enzymatic mechanisms. While [[white-rot-fungi-effluent-decolorization]] with their ligninolytic systems receive the most attention, many other fungal groups contribute to pesticide degradation in soil ecosystems.
+tags: [[white-rot-fungi-effluent-decolorization]] with their ligninolytic systems receive the most attention, many other fungal groups contribute to pesticide degradation in soil ecosystems.
 
 ## Advantages of Fungi Over Bacteria for Pesticide Bioremediation
 
@@ -81,11 +76,8 @@ Catabolic genes responsible for degrading several pesticides have been identifie
 
 ## See Also
 
-- [[mycoremediation-pesticides]]
 - [[fungal-bioremediation-organic-pollutants]]
-- [[fungal-pcb-degradation-pathways]]
 - [[fungal-enzyme-systems-in-bioremediation]]
-- [[fungal-methylation-oxidative-coupling]]
 - [[fungal-bioremediation-case-studies]]
 ## Merged: Trichothecene Mycotoxins and Biological Warfare
 

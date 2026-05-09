@@ -1,7 +1,7 @@
 ---
 title: Galerina Deadly Look-alikes and Mushroom Safety
 created: 2026-04-28
-tags: [mycology, safety, toxicology, galerina, identification]
+tags: [[mycology, safety, toxicology, galerina, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
@@ -16,32 +16,7 @@ The genus contains some of the most dangerous mushrooms
 encountered by psilocybin mushroom foragers. Several Galerina species
 closely resemble tropisms psilocybe-cubensis|phototropism mushrooms and can be deadly if
 consumed. The deadly Galerinas contain amatoxins (cyclopeptides), the
-same class of toxins found in lethal [[amanita-poisoning-identification-antidotes-palmer]] species such as
-,, and. Understanding the differences between Galerinas and
-Psilocybes is essential knowledge for anyone foraging for wild
-psychoactive mushrooms.
-
-## Dangerous Galerina Species
-
-The primary deadly species that resemble Psilocybes include:
-
-- **** - Perhaps the most commonly encountered
- dangerous species. Stamets notes that G. autumnalis can be considered
- an indicator species: when this poisonous mushroom is present,
- Psilocybe species are likely growing nearby. The two can be found
- literally touching each other in the wild.
-- **** - Another widely distributed deadly
- species that occupies similar habitats to active Psilocybes.
-- **** - A particularly dangerous species whose
- name (meaning "venomous") reflects its lethality.
-
-## How to Distinguish Galerina from Psilocybe
-
-The general form of Galerinas closely parallels that of the
-Psilocybes, differing to the unaided eye primarily in:
-
-1. **Spore color:** Galerina spores are rusty brown in deposit, while
- [[tropisms-psilocybe-cubensis-phototropism]] spores are purplish brown. This distinction is
+same class of toxins found in lethal [[tropisms-psilocybe-cubensis-phototropism]] spores are purplish brown. This distinction is
  critical but can be difficult to perceive, especially when caps are
  dried and/or frozen. Making a spore print is essential.
 
@@ -111,31 +86,7 @@ proper identification resources. Stamets notes that the impetus to
 write his field guide came partly from finding deadly Galerinas and
 active Psilocybes growing intertwined in the same habitats.
 
-## The [[baeocystin]] Misconception
-
-A 1962 case in which a child died after allegedly consuming was later shown to be erroneous. Examination of the
-photographs of the alleged toxic species clearly showed mushrooms
-resembling, not P. baeocystis. The identifying
-mycologist, Alexander Smith, retracted his identification upon
-confrontation with the photographic evidence. Other mushroom species
-were present in the yard but were not kept for analysis. This case
-spurred the discovery of baeocystin, which has not been proven toxic
-at commonly consumed dosages.
-
-## Safety Guidelines for Foragers
-
-1. Always make a spore print before consuming any wild mushroom
-2. Learn to distinguish purplish brown (Psilocybe) from rusty brown
- (Galerina) spore deposits
-3. Be especially cautious when species grow in mixed colonies
-4. Never consume mushrooms that have not been positively identified
-5. People who are color impaired should not make critical spore color
- decisions
-6. When in doubt, throw it out
-
-## See Also
-
-- [[galerina-steglichii]]
+## The [[galerina-steglichii]]
 
 - stamets-psi [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
 

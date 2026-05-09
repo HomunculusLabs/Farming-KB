@@ -119,8 +119,6 @@ Permaculture principles directly inform ecological design decisions:
 
 ## See Also
 
-- [[gaia-garden-design-process]]
 - [[faires-permaculture-ethics-and-design-principles]]
-- [[mollison-pdc-design-report-methodology]]
 - [[ozier-pdc-forest-succession-and-layers]]
 - [[ozier-pdc-composting-and-soil-building]]

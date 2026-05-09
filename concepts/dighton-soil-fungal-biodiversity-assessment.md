@@ -8,23 +8,7 @@ type: concept
 tags: [biology, fungi, soil]
 ---
 
-# Soil [[fungal-biodiversity]] Assessment
-
-Dighton (2003) addresses the challenges of assessing fungal biodiversity in
-ecosystems, the relationship between diversity and function, and the
-implications for ecosystem management. Hawksworth (1991) estimates
-approximately 3 million fungal species may exist on Earth, yet our knowledge
-of taxonomic diversity in ecosystems and of fungal physiology remains severely
-limited. We know very little about the relationship between fungal
-biodiversity and ecological function.
-
-## The Scale of Unknown Diversity
-
-Bills and Polishook (1994) isolated 78-134 fungal species per leaf litter
-sample from four Costa Rican sites (281-599 isolates per sample). Rarefaction
-analysis showed actual species numbers considerably exceeding predictions from
-random subsamples of 200 isolates, demonstrating that sampling intensity
-dramatically affects [[decomposition]]imates and that conventional sampling
+# Soil [[decomposition]]imates and that conventional sampling
 substantially underestimates true diversity.
 
 Miller (1995) lists 21 ecosystem functions performed by fungi, spanning
@@ -106,44 +90,6 @@ to ecosystem function:
 
 Major challenges in fungal biodiversity assessment include:
 
-- **Culturing limitations**: Most ECM[[fungal-hyphae]]l fungi are difficult or
-  impossible to culture, limiting physiological characterization. The vast
-  majority of fungal species have never been grown in pure culture.
-
-- **Scale mismatch**: Fungal hyphae act at micrometer scales, yet community
-  effects extend to meter and landscape scales. Bridging scales of resolution
-  respore a key challenge. Fungal hyphal diameter is less than 5 micrometers,
-  but translocation through cord systems can occur over 75 cm.
-
-- **Identification barriers**: AM fungal identification relies on spore
-  anatomy since they do not produce large fruiting structures. Many species
-  cannot be identified from vegetative structures.
-
-- **Inadequate tools**: Miller (1995) notes we lack adequate tools and
-  expertise to consistently link taxonomic diversity and function.
-
-## Methods and Approaches
-
-Dighton advocates approaches that increase ecological realism while
-maintaining experimental control:
-
-- **Mesocosms** (Odum, 1984): More complex than microcosms, allowing
-  complex interspecific interactions to develop while maintaining some
-  experimental control. Increasing system complexity increases functional
-  diversity of component organisms and improves prediction of rate-
-  determining factors.
-
-- **Hierarchy theory** (O'Neill et al., 1991): Uses the organizational
-  levels at which different processes occur to dissect functional
-  contributions of individual species or groups, aiding hypothesis
-  generation.
-
-- **Multi-scale studies**: Studying the same process at multiple levels of
-  scale, from micrometer hyphal interactions to ecosystem-level nutrient
-  fluxes, to enable seamless transcending of resolution scales.
-
-## See Also
-
-- [[fungal-biodiversity-assessment-methods]]
+- **Culturing limitations**: Most ECM[[fungal-biodiversity-assessment-methods]]
 
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

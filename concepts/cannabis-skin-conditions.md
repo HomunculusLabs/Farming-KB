@@ -103,7 +103,6 @@ Emerging research suggests cannabinoids may influence wound healing:
 - Consult dermatologist before using cannabis for undiagnosed skin conditions
 - Cannabis should complement, not replace, conventional dermatological treatments
 
-See also: [[cannabis-anti-inflammatory-applications]], [[cannabis-autoimmune-conditions]], doi entity, [[fruit-tree-grafting-guide]], [[cannabis-administration-methods-comparison]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+See also: [[cannabis-autoimmune-conditions]], doi entity, [[cannabis-administration-methods-comparison]]
 - [[medicinal-plant-preparations-tinctures-salves-teas]]
 - [[cannabis-cancer-pain-research]]

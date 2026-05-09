@@ -48,12 +48,6 @@ No modern cannabis studies specifically for tinnitus exist in the CHI database. 
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-endocannabinoid-system]] is present throughout the auditory pathway, from the cochlea to the auditory cortex. cb1-receptor are found in the dorsal cochlear nucleus, inferior colliculus, and auditory cortex -- all regions involved in sound processing and tinnitus generation. This anatomical distribution provides a biological basis for cannabinoid involvement in tinnitus.
-
-However, the relationship between cannabinoids and tinnitus is complex and potentially paradoxical. While CB1 receptors in auditory pathways could theoretically modulate tinnitus perception, animal studies have shown that CB1 activation in the dorsal cochlear nucleus may actually increase tinnitus-like responses. This suggests that THC (a CB1 agonist) could potentially worsen tinnitus in some individuals.
-
-CBD's relevance to tinnitus is primarily indirect. CBD's cb2-receptor-mediated anti-inflammatory effects may address neuroinflammation in auditory pathways that contributes to tinnitus generation. More importantly, CBD's well-documented anxiolytic effects address the anxiety-tinnitus cycle, where tinnitus causes anxiety, which amplifies tinnitus perception, which causes more anxiety.
-
 The [[cannabis-for-mental-health]] implications are significant for tinnitus patients. The psychological impact of tinnitus -- anxiety, depression, sleep disruption, and reduced quality of life -- is often more debilitating than the tinnitus itself. By addressing these secondary effects, CBD may substantially improve tinnitus-related quality of life even if it does not directly reduce the perceived sound.
 
 The endocannabinoid anandamide modulates sensory gating mechanisms that filter irrelevant sensory input. Dysfunction in sensory gating may contribute to the brain's inability to "tune out" the tinnitus signal, and restoring balanced endocannabinoid tone through CBD may improve this filtering capacity.
@@ -78,19 +72,7 @@ Sublingual tinctures offer the most predictable dosing and can be used both as a
 
 THC should be avoided or used with extreme caution. If THC is used, microdoses (1 mg or less) combined with CBD may provide relaxation benefits while minimizing CB1 activation in auditory pathways. Patients who notice tinnitus worsening after THC use should discontinue immediately.
 
-Topical CBD preparations applied behind the ears or to the neck may provide localized anti-inflammatory effects with minimal systemic absorption, though evidence for this approach is anecdotal. See [[cannabis-delivery-methods-comparison]] for administration options.
-
-Timing of doses relative to tinnitus severity patterns is important. Many tinnitus patients experience worse symptoms in quiet environments (particularly at bedtime), suggesting evening CBD dosing may be most beneficial. A consistent daily regimen may provide better results than as-needed use.
-
-## Safety and Interactions
-
-Tinnitus patients often take multiple medications, and cannabinoid interactions should be considered. CBD may interact with antidepressants (commonly prescribed for tinnitus-related depression and anxiety), gabapentin (sometimes used for tinnitus), and blood pressure medications. CYP450 enzyme inhibition by CBD may increase levels of these medications.
-
-The potential for THC to worsen tinnitus is the most unique safety consideration for this condition. Unlike most conditions where THC is at worst neutral, tinnitus patients may experience active worsening of their primary symptom. This risk should be clearly communicated to any tinnitus patient considering THC-containing products.
-
-Hearing-related safety considerations include the importance of protecting hearing from further damage. While cannabinoids may offer neuroprotective effects for auditory pathways (as suggested by preclinical data), they do not replace hearing protection or address the underlying cause of tinnitus in most cases.
-
-Cannabis should be viewed as an adjunctive approach for tinnitus management, potentially helpful for secondary symptoms (anxiety, insomnia, depression) but not a treatment for the tinnitus perception itself. Patients should continue standard tinnitus management approaches including sound therapy, cognitive behavioral therapy, and hearing aids when indicated. See [[cannabis-cbd-therapeutic-profile]] for comprehensive safety information.
+Topical CBD preparations applied behind the ears or to the neck may provide localized anti-inflammatory effects with minimal systemic absorption, though evidence for this approach is anecdotal. See [[cannabis-cbd-therapeutic-profile]] for comprehensive safety information.
 
 ## Mind-Body Medicine Perspective
 
@@ -98,7 +80,5 @@ Tinnitus may represent an unconscious pattern of inner sound that demands attent
 
 ## See Also
 
-- [[cannabis-chronic-pain-management]]
 - [[cannabis-for-anxiety-disorders]]
-- [[cannabis-for-sleep-disorders]]
 - [[cannabis-health-index]]

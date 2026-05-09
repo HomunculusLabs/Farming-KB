@@ -83,11 +83,7 @@ Initiation usually begins within a week; young roots appear within four weeks. A
 
 ## Related Topics
 
-- [[cannabis-propagation-sexual-vs-asexual-clarke]] - Sexual vs. asexual overview
 - [[cannabis-cloning-and-mother-plants]] - Modern cloning techniques
-- [[cannabis-seed-germination-methods]] - Seed propagation
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - Breeding techniques
-- [[cannabis-seed-germination-viability-breeding-clarke]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-seed-selection-and-strain-types]]

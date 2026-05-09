@@ -21,31 +21,6 @@ maximum benefit.
 
 ## Stinging Nettle
 
-[[stinging-nettle]]
-
-Stinging nettle is a tall (100–200 cm) herbaceous perennial in the
-family Urticaceae, native to temperate regions worldwide. It spreads
-aggressively through creeping rhizomes extending 2+ meters
-horizontally, forming dense clonal colonies. Nettle thrives in
-nitrogen-rich soils and is a classic ruderal species, commonly found
-along riverbanks, forest edges, and disturbed ground.
-
-Nettle is among the most nutritious wild edible plants. Young spring
-shoots provide exceptional levels of vitamin A (~200% DV), vitamin C
-(~370% DV), vitamin K (~500% DV), iron (41.8 mg per 100 g — higher
-than spinach), calcium (481 mg — five times that of milk), and
-potassium. Leaves must be cooked or dried to neutralize stinging
-trichomes before consumption.
-
-Medicinally, nettle is best known for treating benign prostatic
-hyperplasia (BPH), allergic rhinitis, and arthritis. In permaculture,
-nettle excels as a dynamic accumulator — its deep roots mine
-nitrogen, iron, calcium, and potassium from subsoil. Nettle tea
-(fermented leaf extract) is a popular organic foliar spray and soil
-drench, providing readily available nutrients to garden plants.
-
-## Yarrow
-
 [[yarrow-achillea-millefolium]]
 
 Yarrow is a compact (20–100 cm) herbaceous perennial in the family
@@ -140,11 +115,8 @@ Both can be harvested for medicinal use — nettle for teas and
 nutrient extracts, yarrow for wound care and digestive tinctures.
 Together they form a foundation of the herbaceous layer in temperate
 permaculture designs.
-
 ## See Also
 
-- [[comfrey]] — Another dynamic accumulator with deeper nutrient mining
 - [[comparison-comfrey-vs-yarrow]] — Comfrey compared with yarrow
-- [[comparison-nettle-vs-comfrey]] — Nettle compared with comfrey
 - [[calendula-officinalis]] — Wound-healing companion plant
 - [[comparison-calendula-vs-chamomile]] — Related herb comparison

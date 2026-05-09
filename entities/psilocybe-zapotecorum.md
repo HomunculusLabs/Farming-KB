@@ -89,55 +89,14 @@ the cleared, moist, clay-rich soils found in these agroecosystems.
 
 *Psilocybe zapotecorum* is moderately to highly active as a psychoactive
 species. Chemical analyses have revealed variable but significant levels of
-psilocybin and [[psilocin-and-psilocybin-chemistry]]:
-
-- Brazilian specimens yielded up to 0.30% psilocybin and 0.30% psilocin
-  (Stijve and de Meijer 1993).
-- Albert Hofmann reported 0.6% psilocybin and 0.10% psilocin from cultivated
-  specimens of *P. semperviva*.
-
-These values place *P. zapotecorum* among the more potent members of the genus,
-particularly the cultivated *P. semperviva* material analyzed by Hofmann.
-
-## Cultural Significance
-
-The species is deeply embedded in the ethnopharmacological traditions of
-southern Mexico. Its common name, *pajaritos de monte* (little birds of the
-woods), evokes the visual impression of small, pointed mushrooms sprouting from
-the forest floor like birds alighting on the earth. Indigenous communities in
-Oaxaca, Puebla, and Chiapas have historically used this mushroom in ceremonial
-and divinatory contexts. The Zapotec people are among the cultures with the
-longest documented traditions of psychoactive mushroom use in Mesoamerica.
-
-## Similar Species
-
-*Psilocybe zapotecorum* can be confused with several other papillate,
-psilocybin-containing species of section Zapotecorum:
-
-- *Psilocybe hoogshagenii* is closely related with a similar papillate cap.
-  The variety *P. hoogshagenii* var. *convexa* is only lightly umbonate with a
-  convex cap and is considered conspecific with [[psilocybe-southeast-asia-pacific]]. This
+psilocybin and [[psilocybe-southeast-asia-pacific]]. This
   variety is most common in Puebla, Mexico. Volunteers report massive flushes
   coming up in unison and just as suddenly disappearing.
-- [[psilocybe-southeast-asia-pacific]] is treated by many authorities as conspecific with
-  *P. zapotecorum*, and the chemical profiles overlap substantially.
 - [[psilocybe-brasiliensis]] is reported from Brazil and occupies a similar
   ecological niche in subtropical South American forests.
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]] is a more northern species with a smaller stature and
-  different habitat preferences; it is the species from which Albert Hofmann
-  first isolated and named psilocybin.
-
-Careful examination of microscopic features is required to reliably
-distinguish among these taxa.
-
-## See Also
-
-- psilocybe zapotecorum
 - [[psilocybe-stuntzii-profile]]
 
-- [[psilocybe-hoogshagenii]]
 - [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-brasiliensis]]
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
 - psilocybin
 - [[psilocin-and-psilocybin-chemistry]]

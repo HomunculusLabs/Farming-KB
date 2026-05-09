@@ -11,66 +11,7 @@ tags: [cannabis]
 
 # Cannabis Cloning
 
-Cloning is the asexual propagation of cannabis by taking cuttings from a [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]] and rooting them to produce genetically identical copies. A clone
-is an exact genetic replica of its mother, carrying the same cannabinoid and terpene
-profiles, growth characteristics, and potency. Cloning is fundamental to commercial
-and serious home cannabis cultivation.
-
-## What Is a Clone
-
-A clone is a branch tip that has been cut from a mother plant and rooted to form a new
-independent plant. Technically, cloning refers to promoting growth from a single cell,
-but cannabis growers commonly use the term for any rooted cutting. Rooted cuttings are
-called "clones." Clones take 10-20 days to develop a strong, healthy root system.
-
-Marijuana can be reproduced (propagated) sexually or asexually. Seeds are the product
-of sexual propagation; cuttings or clones are the result of asexual or vegetative
-propagation. In its simplest form, taking a cutting or clone involves cutting a growing
-branch tip and rooting it.
-
-## Advantages of Cloning
-
-- **Genetic consistency:** Every clone is identical to the mother -- predictable
-  growth, potency, and flowering time
-- **Guaranteed females:** Clones from verified female mothers are always female
-- **Reduced time to harvest:** Clones skip the seedling stage; flowering can begin
-  sooner
-- **Perpetual harvest:** Continuous cloning enables harvesting a ripe plant every few
-  days
-- **Preservation of genetics:** Maintain favorite strains indefinitely through mother
-  plants
-- **Experimental consistency:** Genetically identical clones respond the same to
-  different stimuli, such as fertilizer, light, and bending
-
-A six-month old plant produces more cannabinoids than a one-month old plant. By
-cloning, a horticulturist is planting a THC-potent plant that will continue to grow in
-potency at a very rapid rate. A month-old rooted clone acts exactly like a four-month-
-old plant and can be induced easily to flower with a 12-hour photoperiod.
-
-## Taking Cuttings
-
-Select healthy branch tips 3-6 inches long with at least two sets of leaves. Make a
-clean 45-degree cut below a node using a sterile razor or scalpel. Remove lower leaves
-to expose nodes where roots will form. Some growers make an additional vertical slit in
-the stem base to encourage rooting. Take cuttings under water to prevent air embolisms.
-
-Clones from lower branches root the easiest because they contain more of the proper
-hormones. Carbohydrate and hormonal content is highest in lower, older, more mature
-branches. Any plant can be cloned, regardless of age or growth stage. Take clones from
-mother plants that are at least two months old.
-
-## Rooting Hormones
-
-Root-inducing hormones speed the transformation of stem cells into root cells. Three
-synthetic substances stimulate this process: NAA (naphthaleneacetic acid), IBA
-(indolebutyric acid), and 2,4-DPA. Commercial rooting products contain one, two, or
-all three of these, often with a fungicide. Products are available as gels, powders, and
-liquids. Give cuttings a 5-15 second dip in concentrated solutions of IBA and NAA,
-500-20,000 ppm.
-
-## Rooting Medium
-
-Common rooting media include [[rockwool-cannabis]] cubes, peat pellets, Oasis cubes,
+Cloning is the asexual propagation of cannabis by taking cuttings from a [[rockwool-cannabis]] cubes, peat pellets, Oasis cubes,
 and aeroponic clone machines. Rockwool should be pre-soaked to pH 5-6 before use. The
 medium must hold adequate moisture while providing enough air for root development.
 
@@ -134,11 +75,8 @@ Skunk do not make suitable mother plants due to their auto-flowering capability.
 
 ## See Also
 
-- [[mother-plant-cannabis]] -- source plants for cuttings
 - [[vegetative-phase-cannabis]] -- stage where clones grow after rooting
-- [[ph-management-cannabis]] -- pH for rooting success
 - [[rockwool-cannabis]] -- common rooting medium
 - banisteriopsis caapi -- aeroponic cloning systems
-- [[first-time-grower-common-mistakes]]
 - [[cannabis-propagation-sexual-vs-asexual-clarke]]
 - [[fungal-culture-preservation-long-term-methods]]

@@ -1,7 +1,7 @@
 ---
 title: "Casing Layer Materials and Buffering Agents"
 created: 2026-04-28
-tags: [mycology, casing-soil, substrate-preparation, mushroom-cultivator,
+tags: [[substrate-preparation]], mushroom-cultivator,
       peat-moss, buffering-agents, pH-management]
 date: 2026-04-25
 updated: 2026-04-25
@@ -141,10 +141,7 @@ drying a 100-gram sample at 200 degrees Fahrenheit.
 
 The general rule: the more mushrooms expected per square foot, the
 deeper the casing layer. Agaricus growers use minimum 1 inch to
-maximum 2 inches. Substrate depths of 6-8 inches are cased 1.25 to
-1.5 inches deep; substrates deeper than 8 inches are cased 1.5 to
-2 inches. An absolute minimum depth on bulk substrates is 1 inch.
+## See Also
 
-- [[growing-gourmet-casing-soils-mushroom-cultivation]]
-- [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]
-- [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]
+- [[mushroom-cultivation-basics]]
+- [[mushroom-cultivator-casing-soil]]

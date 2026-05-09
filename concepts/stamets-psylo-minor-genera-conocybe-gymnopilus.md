@@ -1,43 +1,7 @@
 ---
 title: Minor Psilocybin Genera - Conocybe and Gymnopilus
 created: 2026-04-28
-tags: [mycology, taxonomy, psilocybin, minor-genera, identification]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-type: concept
----
-
-# Minor Psilocybin Genera: Conocybe and Gymnopilus
-
-## Overview
-
-Among the lesser-known psilocybin-containing genera, Conocybe and
-Gymnopilus contain active species but pose significant identification
-challenges. Collectors are strongly urged to develop expertise before
-attempting to identify or consume species from either genus.
-
-## The Genus Conocybe
-
-Conocybes have a long, thin, fragile stem. Habitats vary from slung and
-grass to decayed wood. Species with a well-developed partial veil are
-placed into subgenus Pholiotina. Pholiotina filaris is known to contain
-toxins similar to those in the most deadly Amanitas and Galerinas.
-
-### Key Identification Feature
-
-A sure way for telling Galerina from Conocybe is by the microscopic
-nature of the cap cuticle. Galerinas (and Psilocybes) have filamentous
-cap cuticles that look like woven fibers under the microscope, whereas
-Conocybes (and Panaeoli) have cap cuticles composed of inflated rounded
-cells resembling cobblestones. Only the most accomplished experts can
-visually distinguish these by the reflective quality of the cap in moist
-fresh specimens.
-
-### Active Species
-
-Two species are detailed by Stamets: **[[conocybe-cyanopus]]** and
+tags: [[conocybe-cyanopus]]** and
 **Conocybe smithii**. Two others are probably psilocybin-active:
 
 - **Conocybe siligineoides**: Found in Mexico by Heim and Wasson,
@@ -104,19 +68,6 @@ sawdust, stumps. May-September. **Distribution**: Much of the US,
 central to northern Europe, Japan. **Potency**: Moderately active.
 Bitter taste, slight oily farinaceous odor with hints of anise.
 
-### [[gymnopilus-luteofolius]] (Peck) Singer
-
-Cap 2-6 (8) cm, dark red to reddish brown, sometimes bruising bluish
-green. Gills adnate to sinuate, yellow then rusty orange with serrated
-edges. Stem 30-80 mm by 3-10 mm. Spores rusty orange, roughened,
-5.5-8.5 by 3.5-4.5 um.
-
-**Habitat**: Woody debris and wood chips, June-November.
-**Distribution**: California to British Columbia, widely scattered
-across US. **Potency**: Mildly active per anecdotal reports. Bluing
-may be temperature driven. Easily cultivated on hardwood logs and wood
-chips.
-
 ### [[gymnopilus-purpuratus]] (Cooke and Mass.) Singer
 
 Cap 1-5 cm, reddish purplish brown with tinges of yellow and green.
@@ -127,24 +78,7 @@ by 2-4 mm, stout. Spores bright rusty orange, 6.5-8 by 4.5-5.2 um.
 south Australia. **Potency**: Weakly to moderately active. 0.23-0.25%
 psilocybin, 0.21-0.33% psilocin, 0.03-0.05% baeocystin.
 
-### [[gymnopilus-spectabilis-entity]] (Fries) Singer
-
-"Big gym, giant laughing mushroom." Cap 5-40 cm, bright yellowish
-orange to rusty orange. Dry, fibrillose scales. Gills adnate to sinuate,
-pale yellow to rusty brown. Stem 30-250 mm by 1-10 mm. Well-formed
-membranous annulus. Spores rusty orange, ovoid to ellipsoid, roughened,
-7-10.5 by 4.5-6 um.
-
-**Habitat**: Widely distributed. Clusters around trees and stumps.
-**Potency**: Varies substantially by region. Inactive in Europe but
-active in Japan and parts of the US. Extremely bitter. Many collections
-are actually G. ventricosus, an inactive look-alike.
-
-## See Also
-
-- [[gymnopilus-earlei]]
-
-- [[gymnopilus-validipes]]
+### [[gymnopilus-earlei]]
 
 - [[stamets-psylo-minor-genera-inocybe-pluteus]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]

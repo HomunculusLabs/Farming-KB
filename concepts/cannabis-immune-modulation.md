@@ -119,11 +119,7 @@ Negative emotional and mental states (lack of support, insecurity, mistrust, fea
 
 ## Related
 
-- [[cannabis-endocannabinoid-system]] -- The biological system underlying immune modulation
 - [[cannabis-autoimmune-conditions]] -- Autoimmune applications of immune modulation
-- [[cannabis-for-inflammatory-conditions]] -- Anti-inflammatory pathways
 - [[cannabis-anti-inflammatory-applications]] -- Clinical anti-inflammatory evidence
-- [[cannabis-cancer-symptom-management]] -- Cancer immunology and cannabinoids
 - [[cannabis-terpene-profile]] -- Terpenes with immunomodulatory properties
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]

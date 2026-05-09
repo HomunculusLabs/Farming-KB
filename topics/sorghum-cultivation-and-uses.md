@@ -1,27 +1,7 @@
----
-title: Sorghum Cultivation and Uses
-tags:
-  - sorghum
-  - grain-crops
-  - drought-tolerant-crops
-  - cereals
-  - biofuel
-  - regenerative-agriculture
-  - small-scale-farming
-  - animal-feed
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - FAO. "Sorghum and Millets in Human Nutrition." Food and Agriculture Organization of the United Nations, 1995.
-  - Rooney, L.W., and S.O. Serna-Saldivar. "Sorghum." In Encyclopedia of Grain Science, 2nd ed., Academic Press, 2016.
-  - House, L.R. "A Guide to Sorghum Breeding." 2nd ed. ICRISAT, 1995.
-  - Miller, F.R., and K.J. Kebede. "Genetic Contributions to Yield Gains in Sorghum, 1950 to 1980." Crop Science, 1984.
-  - USDA-NRCS. "Plant Guide: Sorghum bicolor." Natural Resources Conservation Service, 2020.
----
 
 # Sorghum Cultivation and Uses
 
-*Sorghum bicolor* (L.) Moench is one of the world's most versatile and climate-resilient cereal crops. A staple grain for over 500 million people across sub-Saharan Africa and South Asia, sorghum is increasingly valued in temperate regions for its drought tolerance, low input requirements, and diverse end uses spanning human food, animal feed, biofuel production, and building materials. As the fifth most-produced cereal globally, sorghum occupies a critical niche in [[carbon farming]] and [[regenerative agriculture]] systems where water scarcity and heat stress constrain other grain crops.
+*Sorghum bicolor* (L.) Moench is one of the world's most versatile and climate-resilient cereal crops. A staple grain for over 500 million people across sub-Saharan Africa and South Asia, sorghum is increasingly valued in temperate regions for its drought tolerance, [[low-input-vegetable-gardening]] requirements, and diverse end uses spanning human food, animal feed, biofuel production, and building materials. As the fifth most-produced cereal globally, sorghum occupies a critical niche in carbon farming and regenerative agriculture systems where water scarcity and heat stress constrain other grain crops.
 
 ## Botanical Overview
 
@@ -52,11 +32,11 @@ Grain sorghum (also called milo in the Americas) is grown primarily for its edib
 | Guinea | Brown/black | High | Traditional porridge, malt | Moderate-High |
 | Kafir | White/red | Low | Feed, industrial | High |
 
-Modern hybrid grain sorghums dominate commercial production in the United States, Argentina, and Australia. These hybrids offer improved yield potential (4–8 t/ha under irrigation), earlier maturity, and standability. Open-pollinated varieties remain important in Africa and South Asia, where [[seed-saving]] practices are common and hybrid seed access is limited.
+Modern hybrid grain sorghums dominate commercial production in the United States, Argentina, and Australia. These hybrids offer improved yield potential (4–8 t/ha under irrigation), earlier maturity, and standability. Open-pollinated varieties remain important in Africa and South Asia, where [[seed-saving-in-permaculture]] practices are common and hybrid seed access is limited.
 
 ### Sweet Sorghum
 
-Sweet sorghum varieties accumulate high concentrations of soluble sugars (sucrose, glucose, fructose) in the stem pith, reaching Brix levels of 15–23%. Popular cultivars include 'Dale', 'M81-E', 'Theis', and 'Topper 76-6'. Sweet sorghum is primarily pressed for syrup production (often called "sorghum molasses" in the southern United States) and is increasingly researched as a feedstock for [[biofuel]] and bioethanol production due to its high biomass yield and dual-purpose grain + stalk harvest.
+Sweet sorghum varieties accumulate high concentrations of soluble sugars (sucrose, glucose, fructose) in the stem pith, reaching Brix levels of 15–23%. Popular cultivars include 'Dale', 'M81-E', 'Theis', and 'Topper 76-6'. Sweet sorghum is primarily pressed for syrup production (often called "sorghum molasses" in the southern United States) and is increasingly researched as a feedstock for biofuel and bioethanol production due to its high biomass yield and dual-purpose grain + stalk harvest.
 
 ### Forage Sorghum
 
@@ -64,7 +44,7 @@ Forage types are bred for maximum biomass production and include:
 
 - **Forage sorghum:** Tall (3–4 m), single-cut, high dry matter yield
 - **Sudangrass (*S. bicolor* × *S. drummondii*):** Fine-stemmed, multi-cut regrowth, excellent for grazing
-- **Sorghum × sudangrass hybrids:** Intermediate characteristics, widely used as [[cover crops]] and summer annual forage
+- **Sorghum × sudangrass hybrids:** Intermediate characteristics, widely used as cover crops and summer annual forage
 
 Forage sorghum can produce 15–25 t/ha of dry matter, making it one of the highest-yielding summer annual forages. However, all sorghum forages contain **dhurrin**, a cyanogenic glucoside that converts to prussic acid (hydrogen cyanide) under stress conditions (drought, frost, herbicide damage). Grazing management must account for this risk.
 
@@ -78,7 +58,7 @@ Sorghum is adapted to hot, semi-arid to sub-humid tropical and subtropical envir
 
 - **Temperature:** Optimum growth at 25–35°C; can tolerate maximum temperatures above 40°C. Germination requires soil temperatures above 15°C (optimum 20–25°C). The crop is killed by frost.
 - **Rainfall:** Mature grain types can produce a crop on 300–400 mm of seasonal rainfall. Irrigated yields peak at 600–800 mm total water availability. Sweet sorghum requires 400–600 mm for optimal sugar production.
-- **Photoperiod:** Traditional African varieties are strongly photoperiod-sensitive (short-day plants), flowering in response to shortening days. Modern temperate hybrids are photoperiod-insensitive, allowing flexible planting dates.
+- **Photoperiod:** Traditional African varieties are strongly photoperiod-sensitive ([[short-day-and-long-day-plant-classification]] plants), flowering in response to shortening days. Modern temperate hybrids are photoperiod-insensitive, allowing flexible planting dates.
 - **Growing season:** 90–140 days for grain types depending on maturity class; 60–90 days for early-maturing types; 120–150 days for sweet and forage types.
 
 ### Heat Tolerance Mechanisms
@@ -95,14 +75,14 @@ Sorghum outperforms maize and wheat under heat stress through multiple mechanism
 Sorghum tolerates a wide range of soil conditions:
 
 - **Soil type:** Adapted to sandy loams through heavy clays. Performs best on well-drained, fertile loams with pH 5.5–7.5. More tolerant of saline and alkaline soils than maize.
-- **Soil fertility:** Moderate nitrogen requirements (80–120 kg N/ha for grain production, depending on expected yield). Responsive to phosphorus on low-P soils. Good potassium scavenger.
+- **[[soil-fertility-building-gradient-solomon]]:** Moderate nitrogen requirements (80–120 kg N/ha for grain production, depending on expected yield). Responsive to phosphorus on low-P soils. Good potassium scavenger.
 - **Seedbed preparation:** Firm, weed-free seedbed is essential. Sorghum seedlings are slow to establish compared to crops like maize, making early weed competition particularly damaging.
 
 ## Planting and Establishment
 
 ### Seedbed Preparation
 
-A fine, firm seedbed improves seed-to-soil contact and germination uniformity. Conventional tillage or no-till systems both work; no-till sorghum is increasingly adopted in conservation systems, particularly when following a winter [[cover crops]] such as cereal rye or [[clover]].
+A fine, firm seedbed improves seed-to-soil contact and germination uniformity. Conventional tillage or no-till systems both work; no-till sorghum is increasingly adopted in conservation systems, particularly when following a winter cover crops such as cereal rye or clover.
 
 ### Planting Depth
 
@@ -176,7 +156,7 @@ For irrigated production, deficit irrigation strategies work well with sorghum. 
 | **Grain mold** | *Fusarium*, *Curvularia*, *Alternaria* spp. | Rainy harvest, high humidity | Resistant varieties; timely harvest; grain drying below 13% moisture |
 | **Head smut** | *Sporisorium reilianum* | Cool soils at planting | Treated seed; resistant hybrids; crop rotation |
 | **Anthracnose** | *Colletotrichum sublineola* | Warm, humid conditions | Resistant varieties; residue management; fungicide seed treatment |
-| **Downy mildew** | *Peronosclerospora sorghi* | Cool, wet conditions | Resistant hybrids; seed treatment; crop rotation |
+| **[[downy-mildew-biology-diversity-peronosporales]]** | *Peronosclerospora sorghi* | Cool, wet conditions | Resistant hybrids; seed treatment; crop rotation |
 | **Charcoal rot** | *Macrophomina phaseolina* | Drought stress, post-flowering | Crop rotation; avoid excessive plant populations; irrigation management |
 | **Striga** (*witchweed*) | *Striga hermonthica*, *S. asiatica* | Parasitic weed, severe in Africa | Resistant varieties; trap crops (cowpea, soybean); hand-pulling; herbicide seed coating (imidazolinone) |
 
@@ -186,7 +166,7 @@ Sorghum seedlings grow slowly during the first 3–4 weeks, making early-season 
 
 - **Pre-emergence:** S-metolachlor (Dual Magnum) or atrazine provide grass and broadleaf control
 - **Post-emergence:** 2,4-D (after sorghum reaches the 5-leaf stage), atrazine, halosulfuron (for nutsedge and broadleaves)
-- **Cultural:** Crop rotation, narrow rows (increased canopy closure), and [[cover crops]] that suppress weed seed banks
+- **Cultural:** Crop rotation, narrow rows (increased canopy closure), and cover crops that suppress weed seed banks
 
 In organic systems, rotary hoeing at the white thread stage of weed germination (before sorghum emergence and again 7–10 days later) provides effective control. Interrow cultivation can continue until sorghum reaches 60 cm tall.
 
@@ -266,19 +246,19 @@ Sorghum integrates well into diverse farming systems:
 - **Strip intercropping:** Alternating strips of sorghum and legumes (soybean, mung bean) in mechanized systems
 - **Relay cropping:** Sweet potato or pumpkin planted into maturing sorghum in Central American milpa systems
 
-Sorghum also serves as a [[living mulch]] nurse crop for establishing perennial grass pastures, and as a windbreak for more sensitive vegetable crops in hot climates.
+Sorghum also serves as a [[living-mulch-systems-guide]] [[nurse-crop-species-permaculture]] for establishing perennial grass pastures, and as a windbreak for more sensitive vegetable crops in hot climates.
 
 ## Role in Regenerative Agriculture
 
 Sorghum's attributes align well with regenerative farming principles:
 
 - **Low water footprint:** Highest water-use efficiency among major cereals, making it ideal for regions facing increasing water scarcity due to climate change
-- **Soil health benefits:** Deep root systems improve soil structure, increase organic matter at depth, and enhance [[mycorrhizal fungi]] networks
+- **Soil health benefits:** Deep root systems improve soil structure, increase organic matter at depth, and enhance mycorrhizal fungi networks
 - **Carbon sequestration:** High biomass production (particularly forage types) contributes significant root and above-ground carbon inputs
 - **Pesticide reduction:** Many grain sorghum hybrids have built-in pest resistance, reducing insecticide requirements
 - **Diversification:** Provides a warm-season C4 cereal option in rotation with cool-season C3 crops, breaking pest cycles and diversifying farm income
 
-In dryland [[crop rotation]] systems, sorghum fits well following winter wheat or a legume, and before a [[cover crops]] of winter cereals or cool-season legumes.
+In dryland crop rotation systems, sorghum fits well following winter wheat or a legume, and before a cover crops of winter cereals or cool-season legumes.
 
 ## Challenges and Limitations
 
@@ -292,7 +272,7 @@ In dryland [[crop rotation]] systems, sorghum fits well following winter wheat o
 
 ### United States
 
-The United States is the world's largest sorghum exporter, with production concentrated in Kansas, Texas, Oklahoma, and Colorado. Grain sorghum is primarily used for livestock feed and ethanol production. Sweet sorghum syrup is a regional specialty in the southern Appalachians and Ozarks.
+The United States is the world's largest sorghum exporter, with production concentrated in Kansas, Texas, Oklahoma, and Colorado. Grain sorghum is primarily used for [[livestock-feed-formulation]] and ethanol production. Sweet sorghum syrup is a regional specialty in the southern Appalachians and Ozarks.
 
 ### Sub-Saharan Africa
 

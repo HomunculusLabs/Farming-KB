@@ -421,10 +421,10 @@ individual property owners can accomplish alone.
 [[keyline-design]] - P.A. Yeomans' system for landscape water management and
 gravity-fed irrigation
 
-[[swale-construction]] - Detailed guidance on building contour swales for water
+[[swale-construction-guide]] - Detailed guidance on building contour swales for water
 infiltration
 
-[[rainwater-harvesting]] - Roof and ground catchment systems for water storage
+[[rainwater-harvesting-systems]] - Roof and ground catchment systems for water storage
 
 [[contour-line-water-management]] - Holzer's approach to reading and working with
 contour patterns
@@ -432,7 +432,7 @@ contour patterns
 [[dam-construction]] - Site selection, design, and construction of permaculture
 dams and ponds
 
-[[gabion-structures]] - Gabions and stone weirs for gully control and erosion
+[[williams-pdc-structures]] - Gabions and stone weirs for gully control and erosion
 repair
 
 [[chinampas]] - Aztec-inspired floating garden systems for productive wetland
@@ -447,7 +447,7 @@ recovery
 [[mollison-designers-earthworks-for-erosion-control]] - Contour banks, diversion
 drains, and grade stabilization structures
 
-[[permaculture-designers-manual-keyline-design]] - Keyline design from Mollison's
+[[permaculture-designers-manual-keyhole-garden]] - Keyline design from Mollison's
 Designers' Manual
 
 [[mollison-designers-gabions-and-stone-weirs-for-gully-control]] - Gabion

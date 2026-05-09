@@ -25,22 +25,7 @@ sources:
 
 ## Overview
 
-**[[mimosa-tenuiflora]]** (Willd.) Poiret, known as jurema preta, tepezcohuite, or carbonal, is a perennial shrub or small tree in the family Fabaceae (leguminosae). Native to northeastern Brazil and extending into Central America and southern Mexico, it occupies a unique position at the intersection of ethnobotany, psychoactive plant medicine, traditional dermatology, and ecological restoration.
-
-The root bark of M. tenuiflora is one of the richest natural sources of N,N-dimethyltryptamine (DMT), containing 0.5–1.0% DMT by dry weight. This property has made jurema central to the psychoactive traditions of northeastern Brazil for centuries, and more recently to the global entheogenic community as a key ingredient in ayahuasca analog preparations.
-
-## Taxonomy and Nomenclature
-
-- **Kingdom:** Plantae
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Mimosoideae
-- **Genus:** Mimosa
-- **Species:** M. tenuiflora (Willd.) Poiret
-
-### Synonyms and Common Names
-
-- **[[mimosa-hostilis]]** (Benth.) — widely used synonym, though M. tenuiflora is the currently accepted name
+**[[mimosa-hostilis]]** (Benth.) — widely used synonym, though M. tenuiflora is the currently accepted name
 - **Jurema preta** — northeastern Brazil (Tupi-Guarani origin)
 - **Tepezcohuite** — Mexico (Nahuatl: *tepetl* "hill" + *cuahuitl* "tree")
 - **Carbonal** — Mexico, referring to charcoal-like inner bark
@@ -105,13 +90,7 @@ In Mexico, M. tenuiflora is used primarily for dermatological purposes, with no 
 - **Burn treatment:** The inner bark powder is applied topically to burns, promoting rapid re-epithelialization and reducing scarring. This use became internationally known after the 1984 San Juan Ixhuatepec gas explosion in Mexico City, where burn victims were treated with tepezcohuite
 - **Wound healing:** Applied to cuts, abrasions, and skin ulcers
 - **Anti-inflammatory:** Bark decoctions used for inflammatory skin conditions
-- **Antimicrobial:** Demonstrated in vitro activity against Staphylococcus aureus, Escherichia coli, and [[candida-albicans]]
-
-## Modern Entheogenic Use
-
-M. tenuiflora root bark has become a primary DMT source in the global entheogenic community, used in several preparation methods:
-
-- **Ayahuasca analogs:** Combined with [[peganum-harmala]] ([[syrian-rue]]) or Banisteriopsis caapi to create orally active DMT preparations (anahuasca, jurema)
+- **Antimicrobial:** Demonstrated in vitro activity against Staphylococcus aureus, Escherichia coli, and [[peganum-harmala]] ([[syrian-rue]]) or Banisteriopsis caapi to create orally active DMT preparations (anahuasca, jurema)
 - **Pharmahuasca:** The extracted DMT is combined with pharmaceutical harmine/harmaline
 - **Changa:** DMT extracted from root bark is infused onto smokable herb blends with harmala alkaloids
 - **Freebase extraction:** DMT is extracted using standard acid-base extraction techniques (typically with sodium hydroxide and naphtha)
@@ -146,5 +125,3 @@ M. tenuiflora coppices vigorously and can be harvested repeatedly for root bark,
 - Maintaining parent plants for continued nitrogen fixation
 
 ## Legal Status
-
-The legal status of M. tenuiflora varies by jurisdiction. In Brazil, the plant is not scheduled, and indigenous use of jurema is protected. In the United States, the plant itself is not controlled, but extracted DMT is a Schedule I substance. Several European countries restrict the sale or import of the root bark. Mexico protects wild populations and regulates commercial harvest.

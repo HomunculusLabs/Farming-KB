@@ -136,11 +136,7 @@ and provide reliable, repeated harvests throughout the growing season.
 
 ## See Also
 
-- [[allium-sativum-entity]] — Garlic, the most widely cultivated Allium species
-- allium tuberosum — Common chives, the tubular-leaved relative
 - [[ocimum-tenuiflorum-entity]] — Holy basil, another Asian culinary herb
-- [[mentha-piperita]] — Peppermint, a compatible companion herb
 - [[taraxacum-officinale]] — Dandelion, a dynamic accumulator neighbor
-- [[borago-officinalis]] — Borage, a pollinator-supporting companion plant
 - [[calendula-officinalis]] — Calendula, a pest-deterring companion flower
 - [[permaculture]] — Permaculture design principles and practices

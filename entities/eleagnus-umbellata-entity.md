@@ -137,6 +137,5 @@ For land managers seeking to balance utility with containment:
 ## See Also
 
 - [[permaculture-plants-nitrogen-fixing-trees]]
-- [[permaculture-windbreak-design-detailed]]
 - [[permaculture-soil-rehabilitation]]
 - [[permaculture-plants-ground-covers-and-accumulators]]

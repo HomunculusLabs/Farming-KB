@@ -82,51 +82,9 @@ Bacterial biofilms on root surfaces serve as a physical and chemical barrier
 against soil-borne pathogens. Beneficial bacteria in these biofilms compete
 with pathogens for space and nutrients, produce antimicrobial compounds, and
 can trigger induced systemic resistance in the plant. The concept of
-disease-suppressive soils, as discussed in [[lowenfels-soil-food-web-succession]],
-is largely driven by the antagonistic activities of rhizosphere bacterial
-communities. A diverse and healthy rhizosphere bacterial population is one of
-the best defenses against plant disease.
-
-## Managing the Rhizosphere
-
-Gardeners and farmers can support rhizosphere health through practices that
-feed soil biology rather than just the plant. [[lowenfels-cover-crops-soil-biology]]
+disease-suppressive soils, as discussed in [[lowenfels-cover-crops-soil-biology]]
 describe how living roots year-round maintain exudate flow. Adding
-[[lowenfels-compost-tea-brewing]] inoculates the rhizosphere with diverse
-beneficial bacteria. Minimizing tillage preserves established bacterial
-networks and biofilm structures. The key insight from Lowenfels and Lewis is
-that feeding the soil food web, starting with bacteria in the rhizosphere,
-ultimately feeds the plant more effectively than direct fertilization.
-
-## Quorum Sensing and Bacterial Communication
-
-Bacteria in the rhizosphere communicate through quorum sensing, a chemical
-signaling mechanism that allows them to coordinate behavior based on population
-density. When bacterial populations reach a threshold concentration, signaling
-molecules called autoinducers accumulate and trigger coordinated gene
-expression. This communication enables biofilm formation, virulence factor
-production, and collective nutrient acquisition. Plants can intercept and
-disrupt these signals, a strategy called quorum quenching, which allows them
-to manipulate bacterial behavior in the rhizosphere. This chemical dialogue
-between plants and bacteria adds another layer of sophistication to the
-rhizosphere interaction.
-
-## The Rhizosphere Effect in Different Soil Types
-
-The intensity of the rhizosphere effect varies with soil conditions. In sandy
-soils with low organic matter, the rhizosphere effect is more pronounced
-because bacteria are more concentrated near roots relative to the nutrient-poor
-bulk soil. In clay-rich soils with high organic matter, the contrast between
-rhizosphere and bulk soil communities is less dramatic. Soil pH also influences
-rhizosphere dynamics; some plants acidify their rhizosphere to solubilize
-phosphorus, while others maintain neutral pH. These modifications of rhizosphere
-chemistry create distinct microbial habitats that vary among plant species.
-
-## Connections to the Soil Food Web
-
-The rhizosphere is the entry point of energy into the soil food web. Carbon
-fixed by plants flows downward through exudates, fueling bacterial growth.
-These bacteria are then consumed by [[lowenfels-soil-protozoa-cycling]], which
+[[lowenfels-soil-protozoa-cycling]], which
 release plant-available nitrogen through the microbial loop. Fungi in the
 rhizosphere, particularly [[lowenfels-mycorrhizal-network-nutrient-sharing]],
 extend the nutrient-gathering reach far beyond the root zone. The entire soil

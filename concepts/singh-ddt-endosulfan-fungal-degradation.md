@@ -118,14 +118,8 @@ pesticide containment and degradation.
 
 ## See Also
 
-- [[trichloroethylene-fungal-degradation]]
-
 - [[singh-melanoidin-degradation-mechanisms]]
 
-- [[chlorobenzene-chlorophenoxy-fungal-degradation]]
-
 - [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]
-- [[singh-chlorpyrifos-organophosphate-fungal-degradation]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]
 - [[fungal-pesticide-and-herbicide-degradation]]

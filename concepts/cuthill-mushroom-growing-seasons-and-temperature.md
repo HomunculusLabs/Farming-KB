@@ -5,22 +5,7 @@ updated: 2026-04-24
 sources:
   - raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
-tags: [mushroom-cultivation]
----
-
-# Cuthill on Mushroom Growing Seasons and Temperature
-
-Temperature management and seasonal timing were fundamental to Cuthill's
-cultivation system. His instructions are rooted in close observation of
-natural cycles and practical experimentation with heat control.
-
-## The Natural Seasonal Cycle
-
-Cuthill observed that the natural law of mushroom production was simple:
-
-- At the end of August and during September, the days are hot and the
-  nights are cool.
-- Under these conditions, [[cuthill-mushroom-spawn-preparation-historical]] runs rapidly and quickly forms into
+tags: [[cuthill-mushroom-spawn-preparation-historical]] runs rapidly and quickly forms into
   mushrooms.
 - Moisture and dews during this period greatly assist the process.
 - "Let us therefore study Nature, and follow her laws."
@@ -31,9 +16,7 @@ contrary, the finest crops are produced in a dry summer."
 
 ## Ideal Bed Temperature
 
-Cuthill specified precise [[cervantes-temperature-management]] targets:
-
-- Surface temperature of a [[cuthill-mushroom-bed-preparation-and-manure]]: 60-70 degrees F, described as
+Cuthill specified precise [[cuthill-mushroom-bed-preparation-and-manure]]: 60-70 degrees F, described as
   "September heat."
 - This could always be maintained by hay and mats.
 - Milk heat (approximately 98 degrees F) was the target when preparing
@@ -75,10 +58,7 @@ The typical timeline from spawning to first mushrooms was:
 
 ## Summer Cultivation
 
-Cuthill was particularly proud of his [[cuthill-mushroom-cultivation-history-19th-century]] achievements:
-
-- On July 12, 1856, during very hot weather (shade temperature 80-90
-  degrees F), he grew mushrooms in a span-roofed [[cuthill-mushroom-house-construction-and-management]] fully
+Cuthill was particularly proud of his [[cuthill-mushroom-house-construction-and-management]] fully
   exposed to the sun, entirely free from [[falconer-mushroom-insect-enemies]]s.
 - His method: cover beds with straw, water the covering every night to
   keep the interior cool.

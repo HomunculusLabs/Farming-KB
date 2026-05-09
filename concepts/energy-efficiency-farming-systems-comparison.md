@@ -120,13 +120,9 @@ The ratio is staggering: natural farming requires one calorie of human energy to
 
 ## See Also
 
-- [[mollison-village-energy-systems-and-efficiency]]
 - [[comparison-fukuoka-vs-jadam-farming]]
-- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - [[comparison-silvopasture-systems-vs-pasture-management]]
-- [[natural-farming-methods-comparison]]
-
-- [[fukuoka's-four-principles-of-natural-farming]]
+- [[fukuoka-four-principles-of-natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - Natural Livestock Grazing Methods
 - Ecological Energetics of Food Systems

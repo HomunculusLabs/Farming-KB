@@ -80,7 +80,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 
 ## Ecological Role
 
-*Laricifomes officinalis* is a **brown rot fungus** — its enzymes break down cellulose in wood but do not degrade lignin, leaving behind a characteristic brown, crumbly, cubically fractured residue. It begins as a heart rot pathogen in living trees, entering through wounds and slowly decaying the heartwood while the tree remains alive. After the host dies, it continues as a saprotroph. The cavities it creates in standing trees serve as critical nesting and denning habitat for cavity-nesting birds (woodpeckers, owls) and mammals (bats, squirrels, martens). Its perennial conks also serve as microhabitats for insects and other fungi. See [[brown-rot-and-white-rot-fungi-in-mycoremediation|brown-rot and white-rot fungi in mycoremediation]] and [[the-soil-food-web]] for broader context on decay fungi.
+*Laricifomes officinalis* is a **brown rot fungus** — its enzymes break down cellulose in wood but do not degrade lignin, leaving behind a characteristic brown, crumbly, cubically fractured residue. It begins as a heart rot pathogen in living trees, entering through wounds and slowly decaying the heartwood while the tree remains alive. After the host dies, it continues as a saprotroph. The cavities it creates in standing trees serve as critical nesting and denning habitat for cavity-nesting birds (woodpeckers, owls) and mammals (bats, squirrels, martens). Its perennial conks also serve as microhabitats for insects and other fungi. See [[soil-food-web-nutrient-cycling]] for broader context on decay fungi.
 
 ## Historical Uses
 
@@ -114,7 +114,7 @@ Laricifomes officinalis is a rare, long-lived perennial polypore mushroom and th
 - The antiviral compounds appear to be novel — not previously described antivirals
 - Multiple distinct compounds from different chemical fractions show activity, suggesting a diverse antiviral arsenal
 - As of 2024, no agarikon-derived drug has reached clinical trials
-- See [[stamets-inventions-and-innovations]] and [[stamets-antimicrobial-mushroom-charts]] for details
+- See [[stamets-antimicrobial-mushroom-charts]] for details
 
 ### Antimicrobial and Immunomodulatory Properties
 - Cold-water mycelial extracts showed strong antibacterial activity against *E. coli* and *Staphylococcus aureus* in Stamets’ experiments
@@ -143,8 +143,6 @@ The full complement of bioactive compounds is not yet fully characterized. Chemi
 - In the U.S. Pacific Northwest, it is a Survey and Manage species under the Northwest Forest Plan
 - Paul Stamets has called it “the most endangered medicinal mushroom in North America”
 - Its extremely slow growth rate (decades to produce fruiting bodies) makes population recovery very slow after disturbance
-- See [[fungal-roles-in-old-growth-forests]] and [[mycelium-running-conservation-biology-and-fungi]]
+- See [[mycelium-running-conservation-biology-and-fungi]]
 
 ## Cultivation
-
-- Cultivation is extremely difficult and not commercially viable as of 2024

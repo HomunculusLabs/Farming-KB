@@ -59,30 +59,19 @@ Common soil and soilless mix ratios incorporating perlite:
 
 ## Perlite in Hydroponic Systems
 
-Perlite is not commonly used as a standalone medium in active [[cervantes-passive-wick-hydroponic-systems]] for several reasons:
-- It is very light and tends to float when flooded with water, which can cause containers to tip over in [[ebb-and-flow]] systems.
+Perlite is not commonly used as a standalone medium in active [[ebb-and-flow]] systems.
 - It has no buffering capacity and cannot hold nutrients for later uptake.
 - Its fast drainage means it requires very frequent irrigation.
 
-However, perlite can be mixed with other media to improve their properties in hydroponic systems. A blend of perlite with [[vermiculite-cannabis]] or [[coco-coir-cannabis]] can create an effective hydroponic medium.
+However, perlite can be mixed with other media to improve their properties in hydroponic systems. A blend of perlite with [[coco-coir-cannabis]] can create an effective hydroponic medium.
 
 ## Perlite for Cloning
 
-Coarse sharp sand, fine vermiculite, and perlite work well together to root cuttings. Sand and perlite are fast-draining, while vermiculite adds moisture retention. A mix of fine perlite and fine vermiculite is a common rooting medium for [[cannabis-clone-rooting-and-transplanting]].
-
-## Perlite Compared to Other Media
-
-### Perlite vs. Vermiculite
-
-Perlite and [[vermiculite-cannabis]] are often used together but have opposite properties. Perlite promotes drainage and aeration, while vermiculite promotes water retention. Perlite holds more air (30% air space vs. 10% for vermiculite) but less water.
+Coarse sharp sand, fine vermiculite, and perlite work well together to root cuttings. Sand and perlite are fast-draining, while vermiculite adds moisture retention. A mix of fine perlite and fine vermiculite is a common rooting medium for [[vermiculite-cannabis]] are often used together but have opposite properties. Perlite promotes drainage and aeration, while vermiculite promotes water retention. Perlite holds more air (30% air space vs. 10% for vermiculite) but less water.
 
 ### Perlite vs. Rockwool
 
-Both have zero CEC, but [[rockwool-cannabis]] retains more water within its fibrous structure. Perlite drains much faster and provides more aeration but less consistent moisture.
-
-### Perlite vs. Coco Coir
-
-[[coco-coir-cannabis]] retains much more water than perlite and has a higher CEC. Coco is better suited as a primary growing medium, while perlite functions best as an amendment.
+Both have zero CEC, but [[coco-coir-cannabis]] retains much more water than perlite and has a higher CEC. Coco is better suited as a primary growing medium, while perlite functions best as an amendment.
 
 ## Advantages of Perlite
 
@@ -123,10 +112,7 @@ Perlite is a naturally occurring volcanic material that is mined and processed w
 
 ## See Also
 
-- [[vermiculite-cannabis]]
 - [[coco-coir-cannabis]]
-- [[rockwool-cannabis]]
 - [[cannabis-growing-mediums]]
-- [[cannabis-soilless-grow-media]]
 - [[soil-amendment-reference]]
 - [[cannabis-clone-rooting-and-transplanting]]

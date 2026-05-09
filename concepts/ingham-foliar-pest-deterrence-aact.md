@@ -85,26 +85,17 @@ The effectiveness of AACT for pest deterrence depends on maintaining diverse mic
 
 ## Compost Tea Biology and Organism Balance
 
-The specific composition of microbial communities in AACT determines its effectiveness for different pest deterrence applications. Ingham's [[aact-compost-quality-standards-ingham]] specify target organism levels: bacterial-dominated teas (with active bacterial biomass exceeding fungal biomass) are most effective for foliar applications on brassicas, leafy greens, and annual vegetables, while fungal-dominated teas (with fungal biomass exceeding bacterial biomass) are preferred for perennials, trees, and woody plants. This distinction matters because the foliar microbial community needs to complement the plant's natural defensive strategies. Bacteria-dominated teas provide rapid colonization and fast consumption of pest-attractant compounds, while fungal-dominated teas create longer-lasting surface coatings that physically obstruct insect feeding and provide sustained competitive exclusion of pathogens.
-
-The [[bacterial-vs-fungal-compost-teas]] in the tea can be adjusted by modifying the brewing process: shorter brew times (12-24 hours), moderate aeration, and bacterial food sources (molasses, fish hydrolysate) favor bacterial growth, while longer brew times (24-36 hours), gentle aeration, and fungal food sources (humic acids, kelp meal) favor fungal biomass. The compost source material also matters — composts made from deciduous leaf litter and woody materials harbor more diverse fungal communities than composts from manure or green waste alone.
+The specific composition of microbial communities in AACT determines its effectiveness for different pest deterrence applications. Ingham's [[bacterial-vs-fungal-compost-teas]] in the tea can be adjusted by modifying the brewing process: shorter brew times (12-24 hours), moderate aeration, and bacterial food sources (molasses, fish hydrolysate) favor bacterial growth, while longer brew times (24-36 hours), gentle aeration, and fungal food sources (humic acids, kelp meal) favor fungal biomass. The compost source material also matters — composts made from deciduous leaf litter and woody materials harbor more diverse fungal communities than composts from manure or green waste alone.
 
 ## Integration with Holistic Pest Management
 
-AACT foliar applications are most effective when integrated into a broader pest management strategy. Ingham recommends combining tea applications with practices that support the [[ingham-nutrient-cycling-soil-food-web]], since plant health originates in the root zone. Plants growing in biologically active soil with adequate organic matter and proper nutrient cycling naturally resist pest pressure more effectively than plants in depleted soils, regardless of foliar treatments.
-
-Timing of foliar applications should align with pest life cycles and plant growth stages. Young plants and rapidly growing tissues are most vulnerable to pest attack and benefit most from protective foliar sprays. Applications during periods of new leaf flush, flowering, and fruit set provide the greatest return on effort. Spraying should be done in the early morning or late evening to avoid UV damage to applied microorganisms and to take advantage of natural dew that helps organisms adhere to leaf surfaces. The [[ingham-compost-tea-application-rates-and-timing]] must be sufficient to coat both upper and lower leaf surfaces, as many pests feed from the undersides of leaves where microbial coverage is often thinnest.
+AACT foliar applications are most effective when integrated into a broader pest management strategy. Ingham recommends combining tea applications with practices that support the [[ingham-compost-tea-application-rates-and-timing]] must be sufficient to coat both upper and lower leaf surfaces, as many pests feed from the undersides of leaves where microbial coverage is often thinnest.
 
 ## See Also
 
-- [[foliar-pest-deterrence-aact-mechanisms]]
-
 - [[ingham-aact-disease-suppression]]
-- [[compost-tea-aact]]
 - [[compost-tea-application-rates]]
-- [[bacterial-vs-fungal-compost-teas]]
 - [[ingham-nutrient-cycling-soil-food-web]]
-- [[ingham-field-guide-overview]]
 - [[mushroom-cultivation-pests-and-contamination]]
 
 - [[foliar-feeding]]

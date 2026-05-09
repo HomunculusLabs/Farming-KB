@@ -8,7 +8,7 @@ tags:
   - nicotiana
   - history-of-science
   - garner-allard
-  - [[phytochrome]]
+  - phytochrome
   - flowering
 date: 2026-04-28
 updated: 2026-04-28
@@ -20,8 +20,7 @@ type: concept
 # Maryland Mammoth Tobacco and the Discovery of Photoperiodism
 
 The Maryland Mammoth tobacco strain was the unlikely key that unlocked one
-of the most fundamental discoveries in plant biology: [[clarke-marijuana-botany-flowering-and-photoperiodism]],
-the ability of plants to measure day length and use that information to
+of the most fundamental discoveries in plant biology: [[coleman-winter-day-length-and-persephone-months]] and use that information to
 trigger flowering. This discovery, made by Wightman W. Garner and Harry
 A. Allard at the United States Department of Agriculture in 1918,
 transformed commercial agriculture and fundamentally altered our
@@ -61,10 +60,7 @@ did not know when to stop making leaves and start flowering. Their
 experimental approach was elegantly simple but profoundly informative.
 They planted Maryland Mammoth in pots and divided them into two groups:
 
-1. One group remained outside in the fields under natural daylight
-   conditions throughout the growing season
-2. The second group was placed in the field during the day but moved to
-   a dark shed every afternoon, artificially shortening the perceived
+1. One group remained outside in the fields under natur [[mollison-designers-day-length-and-flowering-response]] ly shortening the perceived
    day length
 
 The results were definitive. Simply limiting the amount of light the
@@ -83,42 +79,7 @@ mutation.
 
 ## The Concept of Photoperiodism
 
-Garner and Allard named this phenomenon [[clarke-marijuana-botany-flowering-and-photoperiodism]]. Their
-discovery established several foundational principles:
-
-- **Short-day plants**: These species flower only when the continuous
-  dark period exceeds a critical length. In practice, this means they
-  flower in late summer or autumn as days shorten. Examples include
-  chrysanthemums, soybeans, and Maryland Mammoth tobacco
-- **Long-day plants**: These species require nights shorter than a
-  critical length to initiate flowering. They typically bloom in spring
-  or early summer. Examples include irises, barley, and spinach
-- **Day-neutral plants**: Flowering is regulated by factors other than
-  day length, such as plant age or temperature. Examples include
-  tomatoes, rice, and corn
-
-The discovery meant that farmers could manipulate flowering to fit their
-schedules by controlling the light environment. The implications for
-commercial horticulture were immediately apparent and widely adopted.
-
-## Agricultural Applications
-
-The photoperiodism concept quickly found practical application in
-commercial greenhouse horticulture. Chrysanthemum farmers faced a
-particular challenge: Mother's Day falls in spring, but chrysanthemums
-naturally flower in autumn as days shorten.
-
-Using photoperiod manipulation, greenhouse growers solved this by keeping
-chrysanthemums from flowering. They turned on overhead lights for a few
-minutes each night throughout autumn and winter. The brief mid-night
-illumination was sufficient to break the long-night signal. Then,
-approximately two weeks before Mother's Day, the lights were turned off,
-the uninterrupted dark period finally exceeded the critical threshold,
-and all plants flowered simultaneously.
-
-Florida tobacco farmers also applied the principle, growing Maryland
-Mammoth for many months in their frost-free climate. The plants would
-eventually flower naturally in midwinter when days were shortest,
+Garner and Allard named this phenomenon [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] eventually flower naturally in midwinter when days were shortest,
 allowing seed harvest at a different time of year than northern growers.
 
 ## Measuring Night, Not Day
@@ -139,12 +100,9 @@ sufficient to cancel the flowering signal.
 ## Connection to Phytochrome
 
 The Maryland Mammoth experiments laid the groundwork for the discovery
-of maryland mammoth tobacco and the discovery of photoperiodism, the photoreceptor pigment responsible for red and
-far-red light perception in plants. Research by Harry Borthwick and
-colleagues in the same USDA laboratory led to the finding that plants
-respond specifically to red and far-red light in regulating their
+of maryland mammoth tobacco and the [[phytochrome-red-far-red-switch-and-photoperiodism]][[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] nd specifically to red and far-red light in regulating their
 photoperiodic responses.
 
-The [[chamovitz-photoperiodism-phytochrome-plant-vision|phytochrome system]] acts as a biological switch: red light activates one molecular
+The phytochrome system acts as a biological switch: red light activates one molecular
 form, far-red light reverts it to another. In nature, the last light at
 dusk contains more far-red wavelengths, effectively turning off the

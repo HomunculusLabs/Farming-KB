@@ -129,8 +129,6 @@ Failure analysis should ask whether the root cause was material selection, surfa
 
 ## See Also
 
-- [[fracture-mechanics-engineering-materials]]
-- creep deformation high temperature materials
 - [[dislocation-theory-crystal-plasticity]]
 - [[heat-transfer-mechanisms]]
 - reynolds number and flow regimes
@@ -141,3 +139,5 @@ Failure analysis should ask whether the root cause was material selection, surfa
 - Wikipedia, "Friction," accessed 2026-05-02.
 - Wikipedia, "Wear," accessed 2026-05-02.
 - Wikipedia, "Lubrication," accessed 2026-05-02.
+
+See also: [[natural-building-techniques]]

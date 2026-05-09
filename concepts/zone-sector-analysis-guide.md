@@ -43,7 +43,6 @@ Elements:
 - Berry patches
 - Larger composting area
 - Pond or water feature
-- [[perennial-vegetables]]
 - [[beneficial-insect-habitat]]
 - Chicken forage area
 
@@ -141,9 +140,6 @@ The power of zone/sector analysis comes from integrating them:
 
 ## See Also
 
-- [[zone-and-sector-analysis]]
 - [[permaculture-design-process]]
-- [[permaculture-site-analysis]]
 - [[ecological-garden-design]]
-- [[permaculture-design-principles]]
 - [[urban-permaculture-design]]

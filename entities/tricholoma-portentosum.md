@@ -141,8 +141,6 @@ if native mycorrhizal networks are preserved during site preparation.
 
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
-- [[lactarius-deliciosus]]
 - [[cantharellus-cibarius-entity]]
 - [[hygrophorus-russula]]

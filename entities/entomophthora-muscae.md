@@ -117,15 +117,9 @@ entomopathogenic taxa.
 
 ## See Also
 
-- [[metarhizium-anisopliae]] — broad-spectrum entomopathogenic fungus used
-  in biocontrol programs
 - [[ophiocordyceps-unilateralis]] — zombie ant fungus with behavioral
   manipulation of Formicidae
-- [[beauveria-bassiana]] — widely used mycoinsecticide for agricultural pest
-  management
 - [[purpureocillium-lilacinum]] — nematophagous fungus for plant-parasitic
   nematode control
-- [[cordyceps-militaris]] — medicinal entomopathogenic fungus with
-  cordycepin production
 - [[entoloma-sinuatum]] — toxic agaric causing the majority of fatal fungal
   poisonings in Europe

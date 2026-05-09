@@ -5,21 +5,7 @@ updated: 2026-04-24
 sources:
   - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 type: concept
-tags: [mushroom-cultivation, mushrooms, species]
----
-
-# Magic Mushroom Species of Africa
-
-Africa's psychoactive mycoflora remains largely unknown and only
-peripherally studied, according to Gartz. Nevertheless, the continent
-holds the distinction of hosting the oldest known evidence of human
-interaction with psychoactive mushrooms -- rock art dating to 7,000-10,000
-B.C. in the Sahara Desert.
-
-## The Oldest Known Mushroom Cult
-
-The most significant discovery documented by Gartz comes from the work of
-Italian mycologist Giorgio Samorini and [[terence-mckenna]], who independently
+tags: [[terence-mckenna]], who independently
 found evidence of the oldest known mushroom cult in Africa during the
 late 1980s.
 
@@ -35,9 +21,7 @@ The most striking image at Tin-Tazarift, Tassili District, shows masked
 beings engaged in ecstatic dancing with dashed lines connecting a mushroom
 to the center of the head -- representing a "flow of energy" and the
 mushroom's influence on the human soul. The rock drawings consistently
-show two kinds of mushroom shapes: one resembling [[psilocybe-genus-diversity-and-taxonomy]] semilanceata
-(with an acute umbo) and another resembling larger Amanita or Stropharia
-[[psilocybin-mushroom-image-guide-lookalike-species]]. Some mushrooms were drawn in blue, possibly representing the
+show two kinds of mushroom shapes: one resembling [[psilocybin-mushroom-image-guide-lookalike-species]]. Some mushrooms were drawn in blue, possibly representing the
 bluing phenomenon.
 
 Gartz notes that as early as 9,000-7,000 years ago, the head was
@@ -47,16 +31,6 @@ include relatives of P. cubensis and P. cyanescens (dung-inhabiting), P.
 semilanceata (nitrophilic), and P. cyanescens (wood-debris inhabiting).
 
 ## Documented African Species
-
-- **[[psilocybe-cyanescens]]** Wakefield (or P. mairei Singer): First
-  collected by R. Maire on October 24, 1912, at Chrea Pass near Blida,
-  south of Algiers, Algeria. Found growing on raw compost under cedar
-  trees. Maire collected additional specimens annually until 1926 and
-  published the species as Hypholoma cyanescens in 1928. G. Malencon
-  classified similar specimens from the Central Atlas Mountains of Morocco
-  as belonging to this species. Krieglsteiner considered it identical
-  with the European P. cyanescens, confirming that bluing Psilocybe
-  species can still be found in Africa today.
 
 - **[[psilocybe-natalensis]]** Gartz, Reid, Ecker & Smith: Discovered in
   January 1994 by Gartz and M. Smith in Natal Province, South Africa --

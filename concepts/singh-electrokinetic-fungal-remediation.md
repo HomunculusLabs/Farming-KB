@@ -49,19 +49,13 @@ effects that exceed the sum of individual technologies:
 Many soil contaminants, particularly hydrophobic organic compounds and
 strongly sorbed metals, are poorly bioavailable to fungi. Electrokinetic
 processes desorb and mobilize these contaminants, bringing them into contact
-with fungal hyphae. For [[singh-fungal-biosorption-heavy-metals]], electromigration
-concentrates metal ions near fungal biomass at the cathode, improving
-removal efficiency. For [[singh-fungal-petroleum-hydrocarbon-metabolism]] degradation,
+with fungal hyphae. For [[singh-fungal-petroleum-hydrocarbon-metabolism]] degradation,
 electroosmotic flow increases aqueous-phase hydrocarbon concentrations in
 fungal colonization zones.
 
 ### Controlled Nutrient and Inoculum Delivery
 
-Electrokinetic transport can deliver [[fungal-bioaugmentation-inoculation]] inocula,
-nitrogen, phosphorus, and other nutrients uniformly throughout low-permeability
-soil zones. Fungal spores and conidia, carrying surface charges, migrate
-under electrophoresis to colonize deeper soil layers. This addresses a major
-limitation of conventional [[singh-soil-fungal-bioremediation-strategies]] where
+Electrokinetic transport can deliver [[singh-soil-fungal-bioremediation-strategies]] where
 inoculant distribution is restricted to the near-surface.
 
 ### pH Management
@@ -76,31 +70,16 @@ enhancing metal solubility and fungal biosorption capacity.
 ### Electro-Stimulation of Fungal Metabolism
 
 Low-intensity electric fields may directly stimulate fungal metabolic activity.
-Evidence suggests that weak electric currents enhance [[ligninolytic-enzymes-bioremediation]]
-production by white-rot fungi, increase [[fungal-laccase-mediator-systems]] activity, and
-promote [[fungal-cytochrome-p450-biodegradation]] expression. The mechanisms may involve
-membrane polarization effects, enhanced proton motive force, or
-upregulation of stress-response pathways.
-
-## Applications to Specific Contaminant Classes
-
-### Heavy Metal Contamination
-
-Electrokinetic-fungal systems are particularly effective for metals. Metals
-migrate toward the cathode where [[singh-fungal-biosorption-reactors-heavy-metals]] or
-biosorption zones concentrate and immobilize them. [[singh-fungal-biosorption-lead-copper]]
-and [[singh-fungal-biosorption-cadmium]] processes are enhanced by electrokinetic
-pre-concentration. [[singh-fungal-transformation-metals-metalloids]] through reduction,
-oxidation, or methylation can be coupled with electrochemical redox control.
-[[singh-chromium-bioremediation-fungi]] benefits from electrochemical reduction of Cr(VI)
+Evidence suggests that weak electric currents enhance [[fungal-laccase-mediator-systems]] activity, and
+promote [[singh-fungal-biosorption-reactors-heavy-metals]] or
+biosorption zones concentrate and immobilize them. [[singh-fungal-biosorption-cadmium]] processes are enhanced by electrokinetic
+pre-concentration. [[singh-chromium-bioremediation-fungi]] benefits from electrochemical reduction of Cr(VI)
 to less toxic Cr(III) followed by fungal biosorption.
 
 ### Petroleum Hydrocarbons
 
 For petroleum-contaminated soils, electroosmotic flow distributes nutrients
 and oxygen while mobilizing hydrocarbons toward fungal treatment zones.
-[[singh-fungal-biosurfactants-pollutant-removal]] production may be enhanced by electro-stimulation,
-further improving hydrocarbon bioavailability. Integration with
 [[singh-fungal-rhizodegradation-petroleum-contaminated-soils]] approaches is
 possible by using electrokinetics to distribute plant growth-promoting
 fungal inocula in the root zone.
@@ -119,22 +98,7 @@ Key design parameters for electrokinetic-fungal remediation include:
 
 - **Electrode configuration**: Vertical rod electrodes, horizontal plate
   electrodes, or electrode arrays can be configured based on contamination
-  depth and geometry. [[mycoremediation-bioreactor-design]] principles apply to electrode
-  spacing and power supply selection.
-- **Voltage gradient**: Higher gradients increase transport rates but may
-  generate excessive heat, pH extremes, or harmful electrochemical byproducts.
-- **Processing fluid**: Conditioning solutions at electrodes control pH and
-  provide nutrients. Supercritical CO2 or biodegradable chelating agents
-  can enhance metal extraction while remaining compatible with fungal biology.
-- **Treatment duration**: Typical applications require weeks to months,
-  depending on soil volume, contamination level, and target cleanup goals.
-
-## Limitations and Challenges
-
-Electrokinetic-fungal remediation faces several practical limitations:
-
-- Energy costs for electrokinetic processing can be significant for large
-  soil volumes, affecting [[singh-cost-analysis-fungal-bioremediation]] of remediation feasibility.
+  depth and geometry. [[singh-cost-analysis-fungal-bioremediation]] of remediation feasibility.
 - Electrode corrosion and byproduct generation (chlorine gas, hydrogen gas)
   require safety management.
 - Soil heterogeneity creates preferential flow paths that reduce treatment
@@ -146,5 +110,4 @@ Electrokinetic-fungal remediation faces several practical limitations:
 
 Current research explores pulsed electric fields to reduce energy consumption,
 bioelectrochemical systems coupling [[microbial-fuel-cells-remediation]] with fungal
-remediation, and [[singh-omics-approaches-fungal-bioremediation]] to understand fungal gene expression
 ## See Also

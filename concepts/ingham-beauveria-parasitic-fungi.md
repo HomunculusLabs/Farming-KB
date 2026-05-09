@@ -12,123 +12,87 @@ sources:
 
 Extracted from Elaine Ingham's AACT Field Guide, covering insect-attacking
 fungi including Beauveria and related
-organisms for [[ingham-pest-management-aact]].
+organisms for [[beauveria-bassiana]]
 
-## The Role of Parasitic Fungi in AACT
-
-The general diversity of fungi in aerobic compost includes a "herd" of
-nematode trapping and parasitic fungi. These fungi are naturally present
-in good compost but can be enhanced through specific inoculation. SFI is
-not aware of commercial inocula available on the market yet, but several
-companies are working on them.
-
-## Beauveria bassiana
-
-Beauveria is the most discussed insect-attacking fungus in the Field
-Guide. It is a naturally occurring soil fungus that infects and kills
-insect larvae.
-
-### Fruit Fly Larvae Control
-
-For fruit fly larvae control, the protocol is:
-
-1. Get Beauveria that attacks the specific fruit fly larvae into the
-   compost tea
-2. Apply the compost tea as a soil drench around the trees in fall
-   (150 L/HA)
-3. Apply again in spring (another 150 L/HA)
-4. Spray foliage with compost tea containing beneficial bacteria that
-   repel the flies
-
-**Timing is critical:** Beauveria does not get into the maggot inside the
-apple. The time to get Beauveria into your soils is NOW (fall). Apply the
-fungus in fall so it has all winter to chew up the larval stages of the
-insects you don't want.
-
-### Root Grub and Wireworm Control
-
-AACT typically contains fungi parasitic on insect larvae, especially the
-beetles whose larvae consume roots. Beauveria may be available as an
-inoculum and can be added to AACT so it is active and ready to attack
-root grubs and wireworms on contact.
-
-## Beauveria and Humic Acid
-
-Beauveria does well in the competitive environment of compost and soil.
-Certain humic acids seem to be very important in making it happy. This
-suggests that adding humic acid to AACT or to the soil alongside
-Beauveria applications may improve establishment and effectiveness.
-
-## Entomophaga
-
-Entomophaga is another genus of insect-attacking fungi mentioned by
-Ingham. Like Beauveria, it attacks the cuticles of insects -- something
-bacteria cannot do. Bacteria do not attack and consume the cuticles of
-most insects; you need these specialized fungi.
-
-### Natural Sources
-
-If you have put paper or cardboard into your compost, and have any
-natural source of these fungi in the organic matter you add to your
-compost, these fungi will typically be present. Paper and cardboard
-provide the cellulose-rich environment where these fungi naturally occur.
-
-## Specificity Considerations
-
-There is some specificity between insect-attacking fungus and the insect
-you want reduced to less than economic impact level. Bruce Elliott has
-been working on different fungal species to deal with different insect and
-fungal diseases and pests.
-
-**Do not assume one strain of Beauveria works on all insects.** Match the
-fungus to the pest.
-
-## Nematode-Trapping Fungi
-
-Beyond insect-attacking fungi, aerobic compost contains fungi that trap
-and consume nematodes. These are part of the natural defense system
-against root-feeding nematodes. When combined with bacterial-feeding,
-fungal-feeding, and predatory nematodes, these fungi have been shown to
-reduce root-feeders from near 100 per gram to less than detectable within
-6 months.
-
-## Chitin as Fungal Food
-
-Chitin can help if you have the right fungi. The fungi that chitin feeds
-can turn around and solubilize the chitin-outer layers of nematodes and
-other insects. But you must make sure you have the microbes that will use
-that food and perform the function you want. Adding chitin without the
-right fungi is like paying your phone company to deliver an overnight
-package -- the wrong organism for the job.
-
-## Sources and Contacts
-
-- Bruce Elliott: bruce@fish-world.com (Beauveria and other biological
-  controls)
-- SFI Europe lab (Holland): K.L.Eigenraam@inter.NL.net (European
-  bacteria sources)
-- Holmes Environmental (US): holmesenviro@attbi.com (bacterial inocula)
-- Bio-Start: Australia and New Zealand
-
-## Key Takeaways
-
-- Beauveria is the primary insect-attacking fungus for AACT applications
-- It attacks insect cuticles -- bacteria cannot do this
-- Apply as soil drench in fall for overwintering larval control
-- Humic acids improve Beauveria establishment and competitiveness
-- Specificity matters -- match the fungus strain to the target pest
-- Paper/cardboard in compost provides natural habitat for these fungi
-- Nematode-trapping fungi in compost complement insect-attacking fungi
-- Chitin feeds the right fungi only if those fungi are already present
-
-## See Also
-
-- [[beauveria-bassiana]]
-
-- [[ingham-trichoderma-biocontrol-fungi-aact]]
 - [[ingham-calcium-fungi-relationship]]
-- [[fungicolous-fungi-parasitic-interfaces]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
-- [[humic-acids-soil-biology-ingham]]
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[teaming-with-microbes-compost-tea-and-inoculation]]
+## Practical Applications
+
+Beauveria and Parasitic Fungi from Ingham AACT Field Guide has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Beauveria and Parasitic Fungi from Ingham AACT Field Guide. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

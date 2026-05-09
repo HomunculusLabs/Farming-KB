@@ -1,7 +1,7 @@
 ---
 title: "Grass Seed Substrate Species Compatibility for Psilocybe and Panaeolus Cultivation"
 created: 2026-05-06
-tags: [mycology, grass-seed, substrate, psilocybe-mexicana, psilocybe-tampanensis, psilocybe-cubensis, panaeolus-subbalteatus, cultivation]
+tags: [[mycology, grass-seed, substrate, psilocybe-mexicana, psilocybe-tampanensis, psilocybe-cubensis, panaeolus-subbalteatus, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
@@ -134,9 +134,6 @@ provides adequate humidity.
 
 ## Related Concepts
 
-- [[grass-seed-substrate-preparation]]
-- [[sclerotia-formation-psilocybe-species]]
-- [[psilocybe-tampanensis-cultivation]]
+- [[sclerotia-formation-in-psilocybe-species]]
 - [[casing-soil-preparation-mushroom-cultivation]]
-- [[cold-shocking-mushrooms]]
 - [[fruiting-chamber-design-and-environmental-control]]

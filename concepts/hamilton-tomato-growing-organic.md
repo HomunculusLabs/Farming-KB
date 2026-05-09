@@ -40,8 +40,7 @@ Gardener's Delight and Sweet Million have superb flavor.
 Tomatoes need sun and a well-manured soil that retains moisture and
 plant nutrients. They prefer a pH of about 6.0. Incorporate plenty
 of well-rotted compost or manure before planting. If you are using
-a [[hamilton-three-year-crop-rotation]], grow tomatoes in Plot A.
-Tomatoes are ideal subjects for the [[hamilton-deep-bed-system]];
+a [[hamilton-deep-bed-system]];
 plant them 20in (50cm) apart in deep beds for intensive production.
 
 ## Sowing and Planting
@@ -52,7 +51,6 @@ apart, in mid-spring. Transfer seedlings into 3in (9cm) pots at the
 seed-leaf stage. Harden off in the cold frame in late spring and
 plant at the beginning of summer. Set the plants 2ft (60cm) square
 and plant climbing varieties against poles. See
-[[hamilton-seed-sowing-techniques]] and
 [[hamilton-cold-frames-and-hardening-off]] for detailed guidance.
 
 ## Greenhouse Cultivation
@@ -92,27 +90,14 @@ Tomatoes may be affected by whitefly, aphids, leaf mold, red spider
 mites, potato blight, and virus diseases. Hose down daily and shake
 supporting wires to move pollen around. Remove bottom leaves when
 they turn yellow but do not remove leaves above the ripening fruit
-cluster. See [[hamilton-organic-pest-control]] for comprehensive
-treatment options and [[hamilton-greenhouse-management-organic]] for
+cluster. See [[hamilton-greenhouse-management-organic]] for
 greenhouse-specific pest management.
 
 ## Harvesting
 
 Pick fruits as soon as they are ripe to get the sweetest flavor and
 encourage the production of more fruits at the end of the season.
-Covering bush tomatoes with [[hamilton-cloches-and-frost-protection]]
-at the end of the growing season extends the harvesting period by
-helping to ripen green fruit. Lay upright varieties flat on straw and
-cover with cloches for late-season ripening.
-
-## Greenhouse Pollination and Environment
-
-Greenhouse tomatoes need help with pollination since there are no
-insects or wind. Spray the flowers with water daily to maintain
-humidity, and gently tap or shake the supporting wires to distribute
-pollen. Ventilation is important; open doors and vents on warm days
-to prevent overheating and reduce humidity that favors fungal
-diseases. See [[hamilton-greenhouse-management-organic]] for detailed
+Covering bush tomatoes with [[hamilton-greenhouse-management-organic]] for detailed
 environmental management. Remove bottom leaves when they yellow but
 preserve foliage above ripening clusters to protect fruit from sun
 scald in hot conditions.

@@ -134,14 +134,11 @@ For Fukuoka, desert greening was not merely a technical challenge but a spiritua
 
 ## See Also
 
-- [[fukuoka-one-straw-revolution-philosophy]]
 - [[fukuoka-seed-ball-technique]]
-- [[fukuoka-natural-farming]]
 - [[fukuoka-clay-pellet-desert-greening]]
 - Desertification Reversal
 
 ## Related
 
-- [[alpha-n-o-tms-entity-tihkal]]
 - [[2c-g-pihkal-entry-27]]
 - [[doet-pihkal-66]]

@@ -12,15 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Fukuoka's approach to establishing and managing [[fukuoka-natural-fruit-tree-pest-control]] follows entirely different principles from conventional orchardry. He advocated a three-dimensional orchard that includes fruit trees, green manure trees, vegetables, livestock, and beneficial insects as an integrated community.
-
-## Site Selection
-
-The most pleasant location for an orchard is slightly elevated, well-drained land with access to water. Sites at the foot of mountains where trees receive protection from winds are ideal. Abundant firewood, vegetables, and other crops can be gathered on the slopes.
-
-## No Clearing with Bulldozers
-
-A natural orchard should be developed without clearing the land. When land is cleared with a bulldozer, irregular surface features on a slope are flattened and smoothed. Mechanization really only facilitates fertilizer and pesticide application. Since picking ripened fruit is the only major operation in [[fukuoka-natural-farming-philosophy-of-mu]], there is no need to clear steep slopes.
+Fukuoka's approach to establishing and managing [[fukuoka-natural-farming-philosophy-of-mu]], there is no need to clear steep slopes.
 
 A natural orchard can be established without heavy initial capital outlay or large debts.
 
@@ -30,14 +22,7 @@ A natural orchard can be established without heavy initial capital outlay or lar
 Four to five years after planting fruit trees, eulalia and other weeds grow thickly among brush and assorted trees. Weeding is not easy and sometimes hard to locate the fruit trees. Despite irregular growth and sometimes poor harvests, there was very little damage from disease and insects — even fruit trees growing in the shadow of other trees were spared attack.
 
 ### Stage 2: Underbrush Management (Years 5-8)
-With continued cutting back of underbrush, non-fruit trees recede and weeds such as bracken, mugwort, and kudzu grow up in their place. At this point, broadcasting [[fukuoka-white-clover-ground-cover]] over the entire orchard controls or suppresses weed growth.
-
-### Stage 3: Terracing and Maturation (Years 5-6+)
-When trees begin bearing fruit, dig up earth on the uphill side of fruit trees with a hoe and construct terrace-like steps and a road on the orchard slope. Once terraces are built and original weeds replaced — first with soft weeds (chickweed, knotweed, crabgrass), then with clover — the orchard begins to look like an orchard.
-
-## Fruit Tree Selection
-
-Fukuoka favored indigenous and naturalized fruit varieties over commercial cultivars bred for appearance and shipping durability. He planted mandarin oranges, shaddock (pomelo), loquat, persimmon, Chinese pear, and various citrus varieties suited to the local climate. For the natural orchard, selecting varieties adapted to local conditions is more important than choosing popular commercial varieties. Disease-resistant varieties that can thrive without spraying are essential, as chemical pest control contradicts the principles of [[fukuoka-natural-farming-philosophy-of-mu]]. Fukuoka observed that trees grown from seed (rather than grafted) developed deeper root systems and greater disease resistance, though they took longer to bear fruit. Mixed plantings of many species rather than monoculture blocks reduced pest pressure through natural biodiversity.
+With continued cutting back of underbrush, non-fruit trees recede and weeds such as bracken, mugwort, and kudzu grow up in their place. At this point, broadcasting [[fukuoka-natural-farming-philosophy-of-mu]]. Fukuoka observed that trees grown from seed (rather than grafted) developed deeper root systems and greater disease resistance, though they took longer to bear fruit. Mixed plantings of many species rather than monoculture blocks reduced pest pressure through natural biodiversity.
 
 ## Integration with Vegetable Growing
 
@@ -50,20 +35,7 @@ Fukuoka's ideal orchard includes multiple layers:
 - **Canopy layer**: Large trees and shrubs including climbing fruit vines (grapevine, akebia, Chinese gooseberry)
 - **Main fruit layer**: Deciduous fruit trees together with evergreen fruit trees
 - **Green manure trees**: Black wattle, myrtle, alder, podocarpus interplanted among fruit trees
-- **Ground cover**: [[fukuoka-white-clover-cover-crop-system]] plants and herbs
-- **Forage and vegetables**: Semi-wild vegetables and forage crops grown in abundance
-- **Animals**: Poultry and livestock grazing freely
-
-## Avoiding Monoculture
-
-Monoculture of fruit trees should be avoided. Interplanting evergreens with deciduous trees is effective against pest infestation. The planting of manure trees and windbreak trees, and the combination of evergreens and deciduous trees, diminishes damage.
-
-## Fruit Tree Disease and Pest Resistance
-
-Some fruit trees possess natural resistance and can be grown without pesticides:
-- Trees listed under "moderate" and "strong resistance" need no spraying if attention is given to a few specific diseases and pests
-- Resistant types include peach, pear, grape, and Satsuma orange
-- The [[fukuoka-vegetable-disease-insect-resistance]] should be thoroughly familiar with important diseases and pests
+- **Ground cover**: [[fukuoka-vegetable-disease-insect-resistance]] should be thoroughly familiar with important diseases and pests
 
 ## Orchard as Garden
 
@@ -89,6 +61,24 @@ Interplanting manure trees such as black wattle, myrtle, alder, and podocarpus a
 ---
 
 Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
-- [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
-- [[gaias-garden-cover-crops-soil-building]]
+- [[fukuoka-citrus-orchard-natural-development]]
+## Practical Considerations
+
+Successful implementation of Natural Orchard Development requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

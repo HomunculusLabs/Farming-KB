@@ -43,34 +43,7 @@ explicit instructions for mushroom bed preparation.
 
 ## The Oldacre Legacy
 
-Purpose-built [[mushroom-growing-houses]] in England began
-with Mr. Oldacre, gardener to the Emperor of Russia, who
-returned to England and introduced shelf-based enclosed
-houses at Sir Joseph Banks' estate. These became the standard
-for serious cultivation. Cuthill noted he was "never so lucky
-as to have an Oldacre house," using converted vineries, sheds,
-and pits instead.
-
-## The Mushroom as Food
-
-Mushrooms held elevated culinary status in Victorian England.
-Cuthill described them as "second only to beef and mutton" and
-"the last and connecting link between the vegetable and the
-animal creation." Their meat-like qualities justified high
-prices, especially during winter scarcity.
-
-### Market Economics
-
-Thirty years before 1870, one pottle could realise ten
-shillings. At writing, a pound occasionally sold for five
-shillings in Covent Garden Market. Mushrooms, sea-kale, and
-asparagus were all native British plants commanding premium
-prices due to limited cultivation knowledge.
-
-### Catsup Production
-
-Mushroom catsup was a significant commercial product. See
-[[mushroom-cooking-catsup]] for details on production and
+Purpose-built [[mushroom-cooking-catsup]] for details on production and
 quality concerns surrounding London catsup.
 
 ## Cuthill's Cultivation System
@@ -80,13 +53,7 @@ approach:
 
 ### Conservative Watering
 
-Unlike many growers, Cuthill advocated minimal [[mushroom-crop-sustaining-flushing-watering-harvesting]], observing that the finest crops appeared after dry
-summers. He did not water until the sixth week after spawning
-and never more than once every three weeks thereafter.
-
-### Natural Spawn Preference
-
-While using artificial brick [[mushroom-spawn]] as insurance,
+Unlike many growers, Cuthill advocated minimal [[mushroom-spawn]] as insurance,
 Cuthill preferred natural spawn from summer droppings. He
 considered Mill Track spawn, naturally produced by horses'
 feet mixing droppings with road-sand, the finest variety.
@@ -95,30 +62,7 @@ feet mixing droppings with road-sand, the finest variety.
 
 His late-career discovery of spawning at 100 degrees and
 immediately applying cold mould, driving heat downward,
-produced crops two weeks earlier. See [[mushroom-forcing-techniques]].
-
-### Summer Cultivation
-
-Cuthill achieved what many considered impossible: maggot-free
-summer mushrooms. By watering straw coverings to cool bed
-surfaces through evaporative cooling, he maintained July
-production and uninterrupted supply for three years.
-
-## Social Mission
-
-A strong reform impulse ran through Cuthill's writing. He
-addressed cottagers specifically, showing how a small bed
-could save a shilling or two weekly during winter. His
-instructions for collecting highway droppings, saving spawn
-from old beds, and using simple structures reflected genuine
-concern for making cultivation accessible beyond wealthy
-households. He noted employers considered 5s. too much for
-spawn he had proved worth ten pounds to them.
-
-## Pest Management Innovation
-
-Cuthill's discovery of the boiling water method for
-[[mushroom-pests-woodlice]] was among his most practical
+produced crops two weeks earlier. See [[mushroom-pests-woodlice]] was among his most practical
 contributions. After years of failed experiments with arsenic,
 toads, and bantams, this simple technique transformed pest
 management for generations of growers.
@@ -136,7 +80,7 @@ classes.
 ## Legacy
 
 Cuthill's methods embody principles still relevant: careful
-temperature management, minimal watering, quality [[gourmet-medicinal-mushroom-spawn-grain-production]] selection, and attention to [[mushroom-soil-mould]].
+temperature management, minimal watering, quality [[mushroom-soil-mould]].
 His achievement of uninterrupted year-round production through
 continual bed rotation remains impressive, and his social
 mission of democratising mushroom knowledge resonates with

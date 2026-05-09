@@ -124,7 +124,5 @@ through competition and smother crops rather than eradication.
 ## See Also
 
 - [[fukuoka-weed-management-and-green-manure]]
-- [[fukuoka-white-clover-cover-crop-system]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
-- [[fukuoka-textdoc-no-weeding-no-fertilizer-no-pruning-orchard-conclusion]]
 - [[fukuoka-textdoc-natural-soil-management]]

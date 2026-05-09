@@ -1,7 +1,7 @@
 ---
 title: "Honey Locust Pod Fodder and Timber Production"
 created: 2026-04-28
-tags: [permaculture-plants, fodder-trees, timber, nitrogen-fixing]
+tags: [[permaculture-plants, fodder-trees, timber, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -129,10 +129,7 @@ in a permaculture farm design.
 
 ## See Also
 
-- [[permaculture-honey-locust-pod-fodder-system]]
-
 - [[permplant-mulberries-morus-fruit-fodder-timber]]
 
-- [[cannabis-honey-oil-production]]
 - [[mollison-designers-beekeeping-honey-production-permaculture]]
 - [[holzer-beekeeping-and-honey-production]]

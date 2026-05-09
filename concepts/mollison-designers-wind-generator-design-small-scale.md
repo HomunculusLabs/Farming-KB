@@ -5,20 +5,7 @@ tags:
   - wind-energy
   - appropriate-technology
   - renewable-energy
-  - permaculture-design
-  - off-grid-systems
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Wind Generator Design - Small Scale
-
-Small-scale wind generators (50 watts to 10 kilowatts) are featured
-in [[bill-mollison]]'s Permaculture: A Designers Manual as [[appropriate-technology]]
-for on-site electricity generation. Wind energy complements [[permaculture-solar-energy-inventions]]
+  - [[bill-mollison]]'s Permaculture: A Designers Manual as [[permaculture-solar-energy-inventions]]
 systems by producing power during storms, at night, and in winter
 when solar input is reduced.
 
@@ -32,51 +19,7 @@ a 5 m/s site.
 
 Ingham soil food include:
 
-- Local meteorological records and wind maps
-- Observation of wind-affected vegetation (flagging, tossing)
-- Anemometer readings at proposed tower height over 12+ months
-- Cloud patterns and prevailing wind indicators in the landscape
-
-Coastal sites, hilltops, ridgelines, and open plains offer the best
-wind resources. Urban and forested sites generally have poor wind
-conditions due to turbulence and obstruction. A minimum average wind
-speed of 3.5-4 m/s is needed for economical small-scale generation.
-
-## Horizontal Axis Wind Turbines (HAWT)
-
-The most common small wind turbine design, with blades rotating around
-a horizontal axis. Mollison describes both commercial and build-it-
-yourself designs for horizontal axis machines:
-
-- Two or three blade rotors are most efficient; three blades reduce
-  vibration and are quieter
-- Blade materials range from carved wood (traditional) to fiberglass
-  and carbon fiber composites
-- Upwind designs (blades face into the wind with a tail vane for
-  orientation) are simpler for small systems
-- Downwind designs allow blade coning for reduced stress but may
-  suffer from tower shadow effects
-
-## Vertical Axis Wind Turbines (VAWT)
-
-Mollison discusses two main VAWT types for small-scale applications:
-
-**Savonius rotor:** An S-shaped drag device made from split cylinders.
-Extremely simple to build from salvaged drums, sheet metal, or
-plastic. Low efficiency (15-20%) but robust, quiet, and accepts wind
-from any direction without orientation. Suitable for water pumping
-and low-power battery charging where reliability outweighs efficiency.
-The Savonius rotor starts at low wind speeds and operates in turbulent
-conditions where horizontal axis turbines fail.
-
-**Darrieus rotor:** A lift-type vertical axis turbine with curved
-airfoil blades in an eggbeater or H-rotor configuration. Higher
-efficiency than Savonius (25-35%) but requires higher wind speeds
-to start. Darrieus turbines do not need orientation mechanisms and
-have lower noise profiles. However, they experience high cyclic
-stresses on the blades and require more precise engineering.
-
-Mollison generally recommends Savonius rotors for [[appropriate-technology]]
+- Local meteorological records and wind [[appropriate-technology]]
 and DIY applications due to their simplicity, while Darrieus designs
 suit sites with steady, moderate-to-high wind speeds.
 
@@ -146,5 +89,4 @@ electrical connections; and monitoring battery health. And safety considerations
 for lightning protection, braking or furling mechanisms to prevent
 overspeed in storms, and sufficient clearance from dwellings and
 paths.
-
 ## See Also

@@ -10,14 +10,7 @@ sources:
 
 # The Seed War and Rice as a Weapon
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] warns about the emerging geopolitical struggle over seed resources, framing it as a new form of warfare where control of genetic material becomes a strategic weapon.
-
-## The Seed War Is On
-
-Fukuoka declares that "the seed war is on" — a battle for control of the world's genetic resources:
-
-- Seeds are being collected, patented, and controlled by nations and corporations
-- This represents a new form of [[fukuoka-food-as-strategic-weapon]]
+In *The Road Back to Nature*, [[fukuoka-food-as-strategic-weapon]]
 - Control of seeds means control of the food supply
 - The war is fought not with guns but with patents, breeding programs, and export restrictions
 
@@ -37,26 +30,11 @@ The specific case of rice illustrates the dynamic:
 - Japan and the US were competing in development of high-yielding rice varieties
 - Control of superior rice genetics gave leverage in Asian markets
 - Rice seed became a tool of political influence in Southeast Asia
-- The [[fukuoka-critique-green-revolution]]'s high-yielding varieties were part of this strategic game
-
-## Japan's Vulnerability
-
-Fukuoka highlights Japan's precarious position:
-
-- The Japanese Ministry of Agriculture was cowed by "a stern word of warning from the U.S. Government"
-- Japan's food dependency (importing 60-70% of food) makes it strategically vulnerable
-- The country cannot assert food sovereignty while dependent on American imports
-
-## The Natural Farming Alternative
-
-Fukuoka suggests that [[fukuoka-natural-farming-philosophy-of-mu]] offers an alternative:
+- The [[fukuoka-natural-farming-philosophy-of-mu]] offers an alternative:
 
 - If American farmers practiced natural farming, they could "produce abundant food on small acreages"
 - Natural farming eliminates the need for strategic food exports
-- [[fukuoka-seed-selection-methods]] protects genetic diversity from corporate control
-- Food self-sufficiency becomes achievable at the community level
-
-See also: [[fukuoka-food-as-strategic-weapon]], [[fukuoka-critique-green-revolution]], [[fukuoka-seed-selection-methods]], [[fukuoka-specter-food-scarcity]], [[fukuoka-critique-genetic-engineering]]
+- [[fukuoka-food-as-strategic-weapon]], [[fukuoka-seed-selection-methods]], [[fukuoka-critique-genetic-engineering]]
 
 ## Key Points
 
@@ -68,9 +46,7 @@ See also: [[fukuoka-food-as-strategic-weapon]], [[fukuoka-critique-green-revolut
 
 ## See Also
 
-- [[fukuoka-oil-companies-international-seed-war]]
-
-[[fukuoka-peace-march-war-agriculture]], [[fukuoka-rice-barley-annual-calendar]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-insects-create-new-rice-varieties]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-rice-barley-no-till-method]], [[fukuoka-tasty-rice-illusion]]
+- [[fukuoka-peace-march-war-agriculture]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-rice-barley-no-till-method]], [[fukuoka-tasty-rice-illusion]]
 
 ## Practical Applications
 

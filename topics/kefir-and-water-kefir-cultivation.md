@@ -59,7 +59,7 @@ Despite their superficial similarity, milk kefir grains and water kefir grains a
 | Texture | Firm, rubbery, irregular | Soft, gelatinous, more uniform |
 | Primary substrate | Dairy milk | Sugar water or fruit juice |
 | Core bacteria | *Lactobacillus kefiranofaciens*, *L. kefiri*, *L. parakefiri* | *Lactobacillus hilgardii*, *L. nagelii*, *L. hordei* |
-| Core yeasts | *Saccharomyces cerevisiae*, *Kluyveromyces marxianus*, *Torulaspora delbrueckii* | *Saccharomyces cerevisiae*, *Zygosaccharomyces florentinus* |
+| Core yeasts | *[[saccharomyces-cerevisiae]]*, *Kluyveromyces marxianus*, *Torulaspora delbrueckii* | *Saccharomyces cerevisiae*, *Zygosaccharomyces florentinus* |
 | Alcohol production | 0.5–2% ABV typical | 0.5–3% ABV typical |
 
 ### Milk Kefir Microbial Community
@@ -71,7 +71,7 @@ A typical milk kefir grain harbors 40–60 microbial species, though metagenomic
 - *Lactobacillus kefiri* — major lactic acid producer
 - *Lactobacillus parakefiri* — contributes to flavor development
 - *Lactobacillus acidophilus* — well-known probiotic strain
-- *Lactobacillus plantarum* — versatile lactic acid bacterium
+- *[[lactobacillus-plantarum]]* — versatile lactic acid bacterium
 - *Leuconostoc mesenteroides* — produces diacetyl (buttery flavor) and CO₂
 - *Lactococcus lactis* subsp. *lactis* and *cremoris* — classic dairy starters
 - *Streptococcus thermophilus* — acid and flavor production

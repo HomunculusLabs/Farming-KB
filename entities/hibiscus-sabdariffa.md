@@ -30,7 +30,7 @@ sources:
 ## Overview
 
 *Hibiscus sabdariffa*, commonly known as roselle or red sorrel, is an annual or
-[[gaias-garden-perennial-vegetables|perennial]] shrub in the family Malvaceae. It is cultivated worldwide in [[fukuoka-natural-farming-in-tropical-regions|tropical]]
+[[medicinal-herbs-for-livestock]]
 and subtropical regions primarily for its fleshy calyces, which are used to make
 beverages, preserves, and traditional medicines.
 
@@ -92,7 +92,7 @@ O-sambubioside and delphinidin-3-O-sambubioside, which account for the red
 pigmentation and contribute significantly to antioxidant capacity.
 
 Other constituents include organic acids (hibiscus acid, hydroxycitric acid,
-protocatechuic acid, citric acid), flavonoids (quercetin, kaempferol,
+protocatechuic acid, citric acid), flavonoids ([[kaempferol]],
 myricetin derivatives), polysaccharides, and mucilage.
 
 The most well-documented pharmacological effect is antihypertensive activity.
@@ -125,11 +125,9 @@ Nutritionally, dried calyces contain approximately 9 g protein, 12 g dietary
 fiber, and 280 mg vitamin C per 100 g dry weight. They are low in calories
 and contain notable amounts of calcium, iron, and magnesium.
 
-## Permaculture and Agroforestry Applications
+## [[agroforestry]] Applications
 
-In permaculture design, *H. sabdariffa* serves multiple functions. Its deep
-taproot improves soil structure and accesses subsoil nutrients. The plant
-provides chop-and-drop mulch material with a favorable C:N ratio of
+In [[chop-and-drop]] mulch material with a favorable C:N ratio of
 approximately 20:1.
 
 It functions as a temporary hedge or windbreak in annual cropping systems. The
@@ -144,7 +142,6 @@ excessive sun and wind while generating income from calyx sales.
 Seeds contain 18–22% oil rich in linoleic acid (38–44%) and oleic acid
 (20–28%), with potential for soap-making and biodiesel. The pressed seed cake
 is a nutritious animal feed supplement.
-
 ## See Also
 
 - [[medicinal-herbs-for-livestock]]

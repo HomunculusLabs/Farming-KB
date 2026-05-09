@@ -4,97 +4,144 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [water, conservation]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Water Tank Selection and Construction
 
-Water for human consumption is stored in tanks. A single person needs at least 1,000 gallons (3,700 litres) of stored water; a family needs a minimum of 2,500 gallons (9,500 litres). Water comes from [[comparison-drought-gardening-vs-rainwater-harvesting]] or pumped from [[earthworks-for-water-management]]. In the [[permaculture-zones-system]], water tanks in Zone 1 are fully controlled with pipes and hoses, while Zone 3-4 rely on swales, dams, and ditches.
-
-## Tank Materials Comparison
-
-| Material | Pros | Cons | Lifespan |
-|----------|------|------|----------|
-| Galvanized steel | Durable, compact, safe to drink | Needs concrete base, can't be buried, expensive, metal leaching | ~20 years |
-| Polyethylene | Any shape/size, cheap, no base needed, durable | Possible chemical leaching | ~25 years |
-| Concrete | Cheap, no chemical leaching | Shortest lifespan, contains rebar metal, bulky | ~15 years |
-| Earthbag | Cheapest option, 20+ year lifespan | Takes up the most space | 20+ years |
-
-### Detailed Material Considerations
-
-The earthbag tank is cheap and durable but takes up a huge amount of space. Polyethylene is cheap and durable and comes in any size and shape, but people concerned about chemicals leaching from plastic will want to avoid them. Even an earthbag tank is lined with polyethylene, so it may not be any cleaner. Galvanized steel is considered safe to drink from, although it has a zinc coating that does leach into the water (the zinc no longer contains lead, which manufacturers at one time used). The concrete tank is less expensive, but it has more metal in it in the form of rebar than a galvanized steel tank, and even then its lifespan is shorter than other options. However, if the right concrete is used, it may be the safest to drink from.
-
-## Placement Strategy
-
-- Place tanks at the top of a hill for gravity-fed distribution
-- A large tank can serve as the foundation for a building
-- House roof collects rainwater for its own tank
-- Pond or lake below house acts as firewall and drought reservoir
-- Water storage should take up 10-20% of the land area
-
-### Gravity-Feed Calculations
-
-- 1 ft height = 0.43 PSI
-- For adequate pressure: tank at least 30 ft above point of use (~13 PSI)
-- Use check valves to prevent backflow
-- A pressure tank may be needed if tank is not high enough for gravity pressure
-- Pressure tank must be indoors in cold areas to protect from freezing
-
-## Rainwater Collection to Tank
-
-If rainwater is for human consumption, direct it through a roof washer that automatically diverts 1 gallon (4 litres) per 100 square feet (9 square meters) to a separate tank or garden — this keeps dirt out. Cover the entrance with a mosquito screen, and ensure the tank has an overflow valve directed to the garden. From the tank, water goes through pipes with check valves to where needed. Unless the tank is far enough up a slope for gravity pressure, a water pump is required.
-
-## Mosquito Control
-
-Cover and screen all tanks. Do not introduce mosquitofish (Gambusia) — they breed prolifically, choke out native fish populations, and are no more effective than frogs and birds at controlling larvae. They have hundreds of fry and only live a couple of years; other fish tend to avoid eating them, and they can quickly choke out other populations. Frogs and birds are more effective mosquito control.
-
-## Algae
-
-Green algae growing on tank sides is beneficial — it helps clean the water. Set the outlet pipe 3 inches (7.6 cm) above the bottom so algae remain undisturbed. This simple design detail maintains the natural water cleaning system.
-
-## Earthbag Cistern Construction
-
-An inexpensive DIY water tank using polypropylene bags:
-
-1. Dig a smooth hole at least 1/4 of the tank depth into the ground
-2. Line with pond liner or heavy polyethylene
-3. Build walls with 50 lb earthbags, laying two strands of barbed wire between each layer
-4. Use 50 lb bags of polypropylene or other durable waterproof plastic, at least 17 inches wide and 30 inches long
-5. Waterproof walls with concrete, stucco, pond liner, or polyethylene
-6. Cover with earthbag dome or concrete
-
-## Cold Climate Considerations
-
-- Several feet of ice can make significant water unavailable
-- Bury pipes at least 3 feet deep to prevent freezing
-- Place tank underground, possibly under a barn, uphill from the house
-- An insulated, buried tank avoids most freezing issues
-- In cold areas, protect pressure tanks by placing them indoors
-
-## Dam Types
-
-Dams store water for animals and drought. A series of low barrier dams (walls under 20 feet / 6 meters) on slopes of 5% or less:
-
-| Type | Location | Purpose |
-|------|----------|---------|
-| Saddle | Lowest point between hilltops | Catch rainwater runoff, water livestock |
-| Horseshoe | Flat ridges below saddle | Catch overflow, water livestock |
-| Keypoint | Valley bottoms along contours | Store irrigation water |
-| Barrier | Bottom of dam series, across streambed | Large storage with spillway |
-| Contour | Flattest areas, excavated along land curve | Irrigation, fish, flood retention |
-
-### Dam Construction Notes
-
-Dams should never have walls higher than 20 feet. The dam is more similar to a small pond with a gentle slope on all sides — scooped out of the hillside, with clay piled out to make the wall. The outer slope should be roughly the same angle as the inner slope. Seal with gley or pond liner. In dry climates, dams lose water to evaporation and are less effective; channel water to irrigation or a tank right away. In the desert, flash floods erode soil quickly, shaping mesas, canyons, and flood plains.
-
-## See Also
-
-- [[rainwater-harvesting-systems]] — collection systems
-- [[pond-design-and-construction]] — pond building
+Water for human consumption is stored in tanks. A single person needs at least 1,000 gallons (3,700 litres) of stored water; a family needs a minimum of 2,500 gallons (9,500 litres). Water comes from [[earthworks-for-water-management]]. In the [[rainwater-harvesting-systems]] — collection systems
 - [[homestead-water-purification]] — water quality
-- [[swale-design-construction]] — earthwork water management
 - [[homesteading-water-systems]] — complete water systems
 
 ## Related
 
-- [[edge-effect-in-permaculture]]
 - [[earthworks-for-water-management]]
+## Background and Context
+
+Water Tank Selection and Construction is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

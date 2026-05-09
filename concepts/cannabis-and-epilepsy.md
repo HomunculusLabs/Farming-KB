@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Epilepsy affects approximately 50 million people worldwide. One-third of patients are refractory to conventional antiepileptic drugs. Cannabis, particularly CBD-rich preparations, has emerged as a promising adjunctive therapy, especially for treatment-resistant seizure disorders. See also [[blesching-cannabis-alzheimers-disease]], [[cannabis-for-parkinsons-disease]], and cannabinoid-receptors.
+Epilepsy affects approximately 50 million people worldwide. One-third of patients are refractory to conventional antiepileptic drugs. Cannabis, particularly CBD-rich preparations, has emerged as a promising adjunctive therapy, especially for treatment-resistant seizure disorders. See also [[cannabis-for-parkinsons-disease]], and cannabinoid-receptors.
 
 ## Clinical Evidence
 
@@ -78,12 +78,7 @@ The case of Charlotte Figi (Dravet syndrome) brought widespread attention to CBD
 
 ## Related Topics
 
-- [[blesching-cannabis-alzheimers-disease]]
 - [[cannabis-for-parkinsons-disease]]
-- [[cannabis-and-multiple-sclerosis]]
-- cannabinoid-receptors
 - [[cannabis-and-insomnia]]
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-safety-profile-and-overdose-risk]]
-- [[cannabis-for-epilepsy-and-seizure-disorders]]
 - [[fungal-monitoring-long-term-studies]]

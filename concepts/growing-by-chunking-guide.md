@@ -115,15 +115,7 @@ After 3-5 years of consistent chunking, most gardeners are amazed at how product
 ## See Also
 
 - growing by chunking guide
-- [[permaculture-design-process]]
 - [[ecological-garden-design]]
-- [[sheet-mulching-guide]]
 - [[permaculture-garden-design-process]]
-- [[zone-and-sector-analysis]]
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 3
 - [[growing-vegetables-with-less-fertilizer]]
-- [[first-time-grower-common-mistakes]]
 - [[soil-building-ecological-garden]]

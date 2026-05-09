@@ -12,7 +12,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 Oriental Herbal Nutrients (OHN) is a natural antibiotic and tonic preparation used in Korean Natural Farming, originally derived from a recipe using ginger, garlic, and traditional Chinese herbs. OHN serves as both a preventive medicine and a treatment for fungal, bacterial, and pest problems in plants and animals. The preparation method involves alcohol extraction similar to herbal tinctures in homeopathy, which extracts the final active ingredients after an initial fermentation stage.
 
-Related preparations include [[bionutrients-lab-lactic-acid-bacteria-serum]], [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fermented-fruit-juice-ffj]], [[bionutrients-lab-fish-aminos]], and [[bionutrients-lab-calcium-phosphate-calamansi]].
+Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], and [[bionutrients-lab-calcium-phosphate-calamansi]].
 
 ## Original Korean Recipe
 

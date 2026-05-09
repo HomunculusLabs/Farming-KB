@@ -26,7 +26,7 @@ However, the Convention controls the chemical compounds, not the biological orga
 
 ### Denmark (July 2001)
 
-The first EU country to specifically address mushrooms in drug legislation. Added "Mushrooms or spores of [[psilocybe-semilanceata]], [[psilocybe-cubensis]] or other fungi/spores containing psilocin or psilocybin, including grown, dried or processed in any other manner" as a controlled substance.
+The first EU country to specifically address mushrooms in drug legislation. Added "Mushrooms or spores of [[psilocybe-cubensis]] or other fungi/spores containing psilocin or psilocybin, including grown, dried or processed in any other manner" as a controlled substance.
 
 ### Netherlands (November 2002)
 
@@ -108,7 +108,7 @@ A 2000 Dutch National Criminal Intelligence Service (CRI) investigation found no
 
 Reports from the UK suggest that the 2005 prohibition had an immediate impact on both the availability of mushrooms and the overall volume of internet sales. The Mixmag 2005 survey found 67% of respondents reporting reduced availability post-prohibition.
 
-However, legislation also created unintended consequences: retailers shifted to selling [[amanita-muscaria]] (fly agaric) and other potentially more dangerous alternatives, as well as products like Purple Ohms capsules containing [[argyreia-nervosa]] (Hawaiian Baby Woodrose) with LSA.
+However, legislation also created unintended consequences: retailers shifted to selling [[argyreia-nervosa]] (Hawaiian Baby Woodrose) with LSA.
 
 ## Risk Reduction Information
 
@@ -122,7 +122,5 @@ Smartshop labels in the Netherlands typically warned against use by persons unde
 
 ## See Also
 
-- [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological trends prompting legislation
 - [[smartshop-and-online-mushroom-markets]]: commercial infrastructure affected by legal changes
-- [[psilocybin-and-psilocin-chemistry]]: controlled compounds
-- [[amanita-muscaria]]: species that emerged as a legal alternative post-prohibition
+- [[amanita-muscaria-entity]]: species that emerged as a legal alternative post-prohibition

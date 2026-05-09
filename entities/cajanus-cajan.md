@@ -136,15 +136,8 @@ permaculture:
 - **Multi-yield:** Grain, forage, fuelwood, stakes, green leaf manure
 - **Erosion control:** Effective on contour bunds and degraded slopes
 - **Agroforestry:** Compatible under mango, cashew canopies; suited to
-  alley cropping and hedgerow systems
-- **Drought resilience:** Reliable under erratic rainfall where cowpea
-  and groundnut fail
-
-## See Also
-
-- [[lablab-purpureus]] — Hyacinth bean, complementary nitrogen-fixing
+  [[lablab-purpureus]] — Hyacinth bean, complementary nitrogen-fixing
   legume for tropical permaculture
-- [[vicia-villosa]] — Hairy vetch, temperate nitrogen-fixing cover crop
-- [[tagasaste]] — Tree lucerne, woody leguminous fodder for drylands
+- [[cover-crop]]
 - [[moringa-oleifera]] — Multipurpose permaculture tree pairing well
   with pigeon pea in tropical food forests

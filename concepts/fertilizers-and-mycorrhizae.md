@@ -10,25 +10,7 @@ sources:
 
 # Fertilizers and Mycorrhizae
 
-The relationship between fertilizers and [[arbuscular-mycorrhizal-fungi]] is one of the most important practical considerations for anyone managing soil health. Excessive or inappropriate fertilizer use can undermine the very mycorrhizal networks that naturally supply plants with nutrients.
-
-## How Phosphorus and Nitrogen Affect Mycorrhizal Formation
-
-The amount of phosphorus or nitrogen in soil greatly affects the germination and formation of arbuscular mycorrhizal fungi. With too much of either nutrient, mycorrhizal spores are less likely to germinate and mycorrhizal growth is hindered.
-
-Too much phosphorus or nitrogen will not necessarily kill mycorrhizal fungi, but it will slow or limit their growth and colonization of plant roots. In general, mycorrhizal fungi improve plant growth in low-nutrient soils, especially those with limited phosphorus. As more fertilizer is added, mycorrhizal colonization generally declines. As fungal colonies decrease, the concentration of phosphorus in plant tissues also decreases.
-
-Some experts recommend that to establish and maintain arbuscular mycorrhizae, less than 80 parts per million of phosphorus should be present in soil or growing media. These numbers are in contention, however, as some plants readily form arbuscular mycorrhizae even in the presence of high phosphorus; studies are being conducted to arrive at new figures for specific plant types.
-
-## The Phosphorus Saturation Problem
-
-Many farmers saturate soil with synthetic chemical phosphate fertilizers because phosphorus binds to soil and becomes unavailable. The rationale is that once all soil exchange sites are full of phosphorus ions, excess nutrients will be more readily available to plants.
-
-This practice creates a huge excess of phosphorus that inhibits mycorrhizae from forming. It can take decades for phosphorus levels to reduce to the point where arbuscular mycorrhizal fungi can thrive again.
-
-Excess phosphorus can also be problematic for organic farmers who amend soils with animal manures containing high levels of phosphate salts, often exceeding 1000 parts per million. Under natural conditions, soil amended with manure may still result in excess phosphorus 100 years after application.
-
-Fertilizer costs, especially phosphorus, are rising because phosphorus is a nonrenewable resource with supply constraints. Arbuscular mycorrhizal plants often grow two to three times larger if less fertilizer is used. Scientists have demonstrated that plants increase their phosphorus and nitrogen uptake when arbuscular mycorrhizal fungi are maintained. See [[plant-nutrient-deficiency-guide]] for details on reading fertilizer labels.
+The relationship between fertilizers and [[plant-nutrient-deficiency-guide]] for details on reading fertilizer labels.
 
 ## Organic vs. Inorganic Fertilizer Compatibility
 
@@ -46,49 +28,19 @@ The phosphorus number represents phosphorus pentoxide (P₂O₅), and the potass
 
 - Actual potassium = K₂O × 0.83
 
-Understanding these conversions is essential for managing phosphorus levels below the threshold that discourages mycorrhizal formation. See [[plant-nutrient-uptake]] for more on how plants acquire nutrients.
-
-## Compost Considerations
-
-Compost is free of mycorrhizal spores. It contains no live roots to support mycorrhizae, and the temperatures used to produce compost kill mycorrhizal propagules.
-
-Additionally, manures included in compost mixes can have very high levels of phosphorus. It is crucial that phosphorus levels in compost be low enough to not discourage inoculum germination and mycorrhizal formation.
-
-The best soil and compost blends ensure that pathogens will not prevail and that proper nutrients and microbes will be available to the plant and the mycorrhizal fungi. The needed microbes include nitrogen-fixing bacteria and phosphate solubilizers that produce requisite hormones and control plant diseases.
-
-## Potting Mixes and Commercial Media
-
-Some manufacturers of commercial potting and growing mixes sterilize their media, rendering them free from microbes including mycorrhizal fungi. This destroys any chance of mycorrhizal establishment.
-
-Other manufacturers now add mycorrhizal propagules to their blends. If propagules have not been added to the mix, they should be added at planting time.
-
-Mycorrhizae do not establish in beneficial numbers if ample phosphorus is already available in the planting media. Nurseries often use premixes with enough phosphorus and other nutrients for plants to grow at the nursery and at home for a while, which prevents mycorrhizal colonization.
-
-## Agricultural Chemicals and Mycorrhizae
-
-Some fungicides, inoculants, fumigants, and fertilizers—especially those with high phosphorus content—can destroy or reduce arbuscular mycorrhizal formation by impacting the soil food web upon which they rely. See [[mycorrhizal-agricultural-practices]] for more on managing these interactions.
+Understanding these conversions is essential for managing phosphorus levels below the threshold that discourages mycorrhizal formation. See [[mycorrhizal-agricultural-practices]] for more on managing these interactions.
 
 Timing and rate of application of fungicides determine whether chemicals will affect mycorrhizae. Spraying plant leaves has far less impact than drenching soil with fungicide as mycorrhizae are beginning to form. Not all fungicides impact arbuscular mycorrhizal fungi; some, like those containing metalaxyl, actually stimulate mycorrhizal formation by eliminating competing fungi.
 
 Herbicides and pesticides are not usually toxic to mycorrhizal fungi but have nonselective reach. If a mycorrhizal host plant is killed after an herbicide application, spore counts in the soil can be reduced. Some agricultural chemicals can impact mycorrhizae positively—for example, certain pesticides result in higher colonization, perhaps by killing pests and producing healthier plants with more exudates.
-
 ## See Also
-
-- [[plant-nutrient-deficiency-guide]]
 
 - [[mycorrhizal-agricultural-practices]]
 
-- [[arbuscular-mycorrhizal-fungi]]
-
 - [[plant-nutrient-uptake]]
 
-- [[phosphorus-availability]]
-
 - [[soil-fertility-management]]
-- [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- fertilizers and mycorrhizae
 - [[hamilton-concentrated-organic-fertilizer-products]]
-- [[cannabis-plant-nutrition]]
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]
 
 ## Merged: Hamilton Bone Meal Blood Meal And Fish Products

@@ -109,13 +109,8 @@ The sedating body effects make it a candidate for insomnia management, with pati
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[girl-scout-cookies]]
-- [[og-kush]]
 - [[biscotti-cannabis]]
-- [[runtz-entity]]
 - [[wedding-cake-cannabis]]
-- [[zookies-cannabis]]
 - [[gary-payton-cannabis]]
-- [[jealousy]]
 - [[georgia-pie]]

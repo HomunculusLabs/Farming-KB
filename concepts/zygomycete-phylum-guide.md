@@ -1,18 +1,15 @@
 ---
 title: Zygomycete Phylum Guide
-created: 2026-05-06
-updated: 2026-05-06
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
-tags: []
+tags: [fungi, mycology, taxonomy, species-profiles, ecology, biology, microbes]
 sources: []
 ---
 
----
-ti
-
 # Zygomycete Phylum Guide
 
-The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. Zygomycetes include fast-growing molds like bread mold (Rhizopus), while Glomeromycota are the [[mycorrhizal-fungi]] (AMF) essential to terrestrial plant ecology. Modern classification has split these into several phyla, but they are often discussed together due to shared historical classification.
+The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. Zygomycetes include fast-growing molds like bread mold (Rhizopus), while Glomeromycota are the arbuscular mycorrhizal fungi (AMF) essential to terrestrial plant ecology. Modern classification has split these into several phyla, but they are often discussed together due to shared historical classification.
 
 ## Zygomycota (sensu lato)
 
@@ -30,7 +27,7 @@ The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. 
 Rhizopus stolonifer is the common bread mold, spreading rapidly across bread surfaces with dark sporangia. Rhizopus species are also used in food production: R. oligosporus ferments tempeh from soybeans, and R. oryzae is used in Asian fermented foods. However, some species (notably R. arrhizopus, reclassified as Lichtheimia) cause mucormycosis, a serious infection in immunocompromised individuals.
 
 #### Mucor
-Similar to Rhizopus but lacks rhizoids (root-like structures). Mucor species grow rapidly on bread, fruit, and soil. Mucor circinelloides is used in food fermentation but can also cause infections. [[mucor-hiemalis]] is a common soil fungus found in cooler environments.
+Similar to Rhizopus but lacks rhizoids (root-like structures). Mucor species grow rapidly on bread, fruit, and soil. Mucor circinelloides is used in food fermentation but can also cause infections. Mucor hiemalis is a common soil fungus found in cooler environments.
 
 #### Absidia
 Found in soil and decaying plant material. Absidia corymbifera can cause mucormycosis. Some Absidia species have been investigated for production of biologically active compounds.
@@ -57,7 +54,7 @@ Soil fungi, some of which produce arachidonic acid, an omega-6 fatty acid import
 - Form arbuscular mycorrhizae (AM): intracellular structures (arbuscules) in plant root cells
 - Coenocytic hyphae with multinucleate spores (often 200-800 micrometers, very large)
 - Asexual reproduction only (no known sexual stage)
-- Ancient symbiosis: fossils show AMF-plant associations from ovglomus-intraradices ago
+- Ancient symbiosis: fossils show AMF-plant associations from over 400 million years ago
 - Associated with approximately 80% of all terrestrial plant species
 
 ### Key Genera
@@ -78,8 +75,9 @@ Contains F. mosseae, one of the most common AMF worldwide. It is widely used in 
 
 1. Fungal hyphae extend from plant roots into surrounding soil, greatly increasing the absorptive surface area
 2. Hyphae enter root cells and form highly branched arbuscules, the site of nutrient exchange
-3. The fungus provides the plant with phosphorus, nitrogen, zinc, and other nutrient guides the fungus with carbohydrates (sugars) produced through photosynthesis
-5. External hyphae (extraradical mycelium) can connect multiple plants, creating [[common-mycorrhizal-networks]]
+3. The fungus provides the plant with phosphorus, nitrogen, zinc, and other nutrients
+4. The plant provides the fungus with carbohydrates (sugars) produced through photosynthesis
+5. External hyphae (extraradical mycelium) can connect multiple plants, creating common mycorrhizal networks
 
 ### Benefits to Plants and Ecosystems
 
@@ -114,3 +112,7 @@ Mucormycosis is a rare but serious fungal infection caused by Mucorales (especia
 - [[fungal-biology-fundamentals]]
 - [[fungal-biology-fundamentals]]
 - [[mold-identification-guide]]
+
+## See Also
+
+- [[ascomycete-phylum-guide]]

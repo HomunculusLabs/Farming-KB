@@ -97,22 +97,8 @@ Life's a Blast, a Bubble, and a Span."
 - Shroom Wasson Antiquity Debate -- The debate on ancient mushroom
   use
 - Shroom Art Literature -- Mushrooms in art and literature
-- [[shroom-scientific-study]] -- Scientific understanding of
-  psychoactive fungi
-
-## Source
-
-Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
-HarperCollins, 2006. Lines 560-710, 5250-5550.
-
-## See Also
-
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 
-- [[shroom-leary-harvard]]
-
 - [[shroom-cultural-history-mushroom-art-and-iconography]]
-
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
 
 - [[shroom-prohibition]]

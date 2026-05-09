@@ -49,7 +49,7 @@ This means the entire edifice of fertilizer science rests on comparisons between
 The few no-fertilizer experiments that have been conducted are deeply compromised by their methodology:
 
 ### Dead Soil Conditions
-Crops are planted in small earthenware pots or artificial concrete enclosures. The soil in such containers is dead soil — devoid of the microbial communities, [[mycorrhizal-networks-and-forest-communication]], earthworm populations, and organic matter cycling that characterize [[living-soil-cannabis]].
+Crops are planted in small earthenware pots or artificial concrete enclosures. The soil in such containers is dead soil — devoid of the microbial communities, [[living-soil-cannabis]].
 
 ### Root Confinement
 The growth of trees whose roots are boxed in by concrete is "highly unnatural." A tree's root system in a pot bears no resemblance to its root system in natural soil, where roots can extend many meters in multiple directions, interacting with countless soil organisms.
@@ -61,14 +61,7 @@ Fukuoka writes: "It is unreasonable to claim that because plants grown without f
 
 ## True No-Fertilizer Conditions
 
-No-fertilizer [[natural-farming-animal-husbandry]], as Fukuoka defines it, means "the natural cultivation of crops without fertilizers in a soil and environment under totally natural conditions." This means no-fertilizer tests under "condition-less" conditions — conditions where the full complexity of natural soil ecosystems is intact.
-
-Such experiments present an inherent difficulty for conventional science because they require:
-
-- **Living soil**: Soil with intact microbial communities, earthworm populations, organic matter cycling
-- **Natural ecosystem context**: The presence of weeds, insects, birds, and other organisms
-- **Absence of prior disturbance**: Soil that has not been previously plowed, chemically treated, or otherwise degraded
-- **Long time frames**: Natural [[soil-fertility-management]] operates on timescales of years and decades, not single growing seasons
+No-fertilizer [[soil-fertility-management]] operates on timescales of years and decades, not single growing seasons
 
 These conditions are, as Fukuoka acknowledges, "out of the reach of scientists, and indeed impossible to perform" within the experimental frameworks of agricultural research stations. The conditions that would make a valid no-fertilizer test possible are precisely the conditions that agricultural science is designed to control away.
 
@@ -129,6 +122,5 @@ The ultimate test, as Fukuoka frames it, is not laboratory results but the harve
 
 ## See Also
 
-- [[mycorrhiza]]
 - [[mycorrhizal-networks]]
 - [[natural-farming]]

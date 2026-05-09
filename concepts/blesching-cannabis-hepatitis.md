@@ -38,77 +38,16 @@ that cannabinoids can influence multiple aspects of liver physiology:
 
 This dual receptor involvement explains why the effects of cannabis on
 liver health are complex and dose-dependent, as explored in
-[[blesching-endocannabinoid-system-overview]].
-
-## Direct Antiviral Effects of THC and Anandamide
-
-One of the most intriguing findings reviewed by Blesching is the potential
-for direct antiviral activity of cannabinoids against hepatitis viruses.
-Research suggests that both THC and the endogenous cannabinoid anandamide
-may inhibit hepatitis virus replication through several mechanisms:
-
-- **THC**: Delta-9-tetrahydrocannabinol has demonstrated the ability to
-  interfere with viral replication cycles. In vitro studies suggest THC
-  may inhibit hepatitis C virus (HCV) RNA replication, potentially by
-  modulating cellular pathways that the virus co-opts for its own
-  replication machinery.
-
-- **Anandamide**: The endogenous cannabinoid anandamide has shown
-  antiviral properties that may be relevant to hepatitis treatment.
-  Elevated anandamide levels have been observed in liver tissue during
-  hepatitis infection, suggesting the body may naturally upregulate
-  endocannabinoid signaling as a defense mechanism.
-
-These findings are preliminary and primarily from in vitro studies, but
-they open an important avenue for future research into cannabinoids as
-direct antiviral agents rather than merely symptomatic treatments.
-
-## Managing Interferon and Ribavirin Side Effects
-
-Perhaps the most immediately practical application of cannabis in hepatitis
-treatment is its role in managing the debilitating side effects of standard
-antiviral therapy. Interferon-alpha and ribavirin, the backbone of hepatitis
-C treatment for many years, are associated with severe side effects that
-often limit treatment adherence:
-
-- **Flu-like symptoms**: Fever, chills, muscle aches, and fatigue are
-  common with interferon therapy. Cannabis may help alleviate these
-  symptoms through its analgesic and anti-inflammatory properties.
-
-- **Depression and anxiety**: Interferon-induced neuropsychiatric symptoms
-  affect a significant proportion of patients. The mood-stabilizing and
-  anxiolytic effects of CBD may be particularly valuable, as discussed in
-  [[blesching-cannabis-ptsd-anxiety]].
+[[blesching-cannabis-ptsd-anxiety]].
 
 - **Nausea and appetite loss**: These side effects can lead to weight loss
   and nutritional deficiency during treatment. Cannabis's well-established
   antiemetic and appetite-stimulating effects, covered in
-  [[blesching-cannabis-chemotherapy-nausea]] and
   [[blesching-cannabis-anorexia-cachexia]], directly
   address these concerns.
 
 - **Insomnia**: Sleep disturbances during interferon therapy can compound
-  fatigue and mood problems. See [[blesching-cannabis-sleep-disorders]] for
-  related evidence.
-
-By improving tolerability of antiviral treatment, cannabis may indirectly
-improve treatment outcomes by enabling patients to complete full treatment
-courses rather than discontinuing due to intolerable side effects.
-
-## Anti-inflammatory and Antifibrotic Effects
-
-Chronic hepatitis infection leads to progressive liver inflammation and
-fibrosis, which can culminate in cirrhosis and hepatocellular carcinoma.
-Cannabinoids may help slow this progression through several mechanisms:
-
-- CB2 receptor activation reduces inflammatory cytokine production in
-  Kupffer cells, decreasing the inflammatory drive that promotes fibrosis
-- Cannabinoids may inhibit hepatic stellate cell activation, the key
-  event in liver fibrosis development
-- CBD's antioxidant properties may protect hepatocytes from oxidative
-  damage caused by chronic inflammation
-- The anti-inflammatory effects connect to broader evidence in
-  [[blesching-cannabis-immune-system-modulation]]
+  fatigue and mood problems. See [[blesching-cannabis-immune-system-modulation]]
 
 ## Caution: Cannabis and Liver Health
 

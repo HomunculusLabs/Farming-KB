@@ -21,20 +21,12 @@ sources:
 ---
 
 # Amanita regalis
-**Royal Fly Agaric / Brown Fly Agaric**
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Amanitaceae
-- **Authority:** (Fr.) Michael (1914)
-- **Synonyms:** Amanita muscaria var. regalis (Fr.) Neville & Poumarat
+**Royal [[amanita-muscaria-entity]] var. regalis (Fr.) Neville & Poumarat
 
 ## Overview
 Amanita regalis is a large basidiomycete closely related to the fly agaric
 (A. muscaria) but distinguished by its darker brown cap, more robust
-stature, and higher concentrations of ibotenic acid and muscimol. Found
-in boreal and sub-boreal forests of northern Europe and Asia, it forms
-ectomycorrhizal associations with conifers and birch. Consumed
+stature, and higher concentrations of [[ectomycorrhizal-associations]] with conifers and birch. Consumed
 historically in Siberian and Scandinavian shamanic traditions after
 careful parboiling, A. regalis is considered toxic raw and can cause
 pronounced gastrointestinal and neurological symptoms. The species epithet
@@ -47,29 +39,7 @@ it was elevated to species rank by Michael in 1914.
 - **Cap:** 8–20 cm, hemispherical to plano-convex; golden-brown to dark
   umber-brown; viscid when wet; covered with thick, persistent white
   warts; margin striate at maturity
-- **Gills:** Free, crowded, white to creamy; spore print white
-- **Stem:** 8–20 × 1.5–3 cm, cylindrical with basal bulb; white to
-  cream; membranous pendant ring in upper third
-- **Volva:** 3–5 concentric rows of ragged cream scales at bulb base
-- **Flesh:** White, firm, thick; no color change on exposure
-- **Odor:** Mildly radish-like
-
-### Microscopic Features
-- **Spores:** Globose to subglobose, 7–10 × 6–9 µm, smooth, amyloid
-- **Basidia:** Clavate, 4-spored, 35–50 × 10–14 µm
-- **Cheilocystidia:** Clavate to saccate, abundant, forming sterile edge
-- **Pileipellis:** Interwoven hyphae with inflated terminal cells
-
-## Habitat and Distribution
-### Geographic Range
-- **Europe:** Scandinavia (Finland, Sweden, Norway), Denmark, northern
-  Germany, Poland, Baltic states; rare in British Isles and alpine regions
-- **Asia:** Siberia, Russian Far East, Hokkaido, Korea, northern China
-- **North America:** Rare; reported from Alaska and possibly Pacific NW
-
-### Ecology
-- **Substrate:** Ectomycorrhizal with Picea abies, Pinus sylvestris,
-  Betula pendula/pubescens; occasionally Abies and Larix
+- **Gills:** Free, crowded, white to creamy; [[betula-pendula]]/pubescens; occasionally Abies and Larix
 - **Habitat:** Boreal and sub-boreal coniferous and mixed forests,
   mossy acidic soils
 - **Season:** Late summer to autumn (July–October)
@@ -118,8 +88,5 @@ sensitive to atmospheric nitrogen deposition and may serve as a
 bioindicator of forest soil health in northern European monitoring.
 
 ## See Also
-- [[amanita-muscaria-entity]]
-- amanita regalis entity
-- amanita regalis entity
 - [[muscimol-entity]]
 - amanita-muscaria-and-ibotenic-acid-fungi

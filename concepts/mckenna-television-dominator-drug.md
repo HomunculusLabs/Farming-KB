@@ -127,10 +127,7 @@ function is to deliver audiences to advertisers; its cultural function is to
 
 ## See Also
 
-- [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-dominator-vs-partnership-society-model]]
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-sugar-coffee-tea-chocolate]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]

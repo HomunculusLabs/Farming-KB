@@ -127,8 +127,6 @@ Crimson clover is highly palatable and nutritious as livestock forage (16–22% 
 
 ## See Also
 
-- [[trifolium-pratense]]
 - [[biological-nitrogen-fixation-agriculture]]
-- [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[dynamic-accumulators]]
 - [[trifolium-repens]]

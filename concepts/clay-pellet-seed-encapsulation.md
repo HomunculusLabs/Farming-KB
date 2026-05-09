@@ -71,68 +71,10 @@ quarter- to a half-inch in size. For large quantities, a concrete mixer
 can be used. Topsoil-containing clay may also be used, but if pellets
 crumble too early in spring, seeds will be devoured by rodents and
 other pests.
-## The Happy Hill Rice Strain
-Fukuoka created, together with the insects in his fields, a new strain
-of rice he called "Happy Hill." This is a hardy strain carrying the
-blood of wild rice variants, yet it is also one of the highest yielding
-strains of rice in the world. The strain embodies Fukuoka's principle
-that nature, not human breeding programs, produces the most resilient
-and productive crops. Happy Hill rice grows vigorously without
-chemical fertilizers or pesticides, thriving under the conditions of
-natural farming.
-The name reflects Fukuoka's philosophy of joy and abundance through
-cooperation with nature rather than domination of it. The rice plants
-put out strong, deep roots and produce heavy panicles. Their wild
-ancestry gives them resistance to disease and insect pressure that
-cultivated varieties often lack. Happy Hill rice demonstrates that
-yield and resilience are not opposing goals when farming works within
-natural systems rather than against them.
-## Mathematical Spread Potential
-Fukuoka calculated the remarkable multiplying potential of Happy Hill
-rice. A single head of Happy Hill rice contains approximately 5,000
-grains. If one head were sent to a country where food is scarce and
-sown over a ten-square-yard area, a single grain would yield 5,000
-grains in one year's time. There would be enough grain to sow a
-half-acre the following year, fifty acres two years hence, and 7,000
-acres in the fourth year.
-This exponential growth means that a single handful of grain could
-become the seed rice for an entire nation. The calculation illustrates
-how natural seed saving and propagation, unmediated by commercial seed
-systems, can rapidly scale food production. Fukuoka saw in this
-mathematics a path to food independence for starving peoples. The
-clay pellet technique makes this possible even in challenging
-environments, as the pellets protect seeds during transport and
-storage, and ensure they germinate only when conditions are right.
-## Practical Applications
-In Fukuoka's rice and barley succession system, clay pellets serve a
-specific and essential function. After harvesting rice and scattering
-the straw uncut over the field, he forms clay pellets containing seed
-rice and scatters the pellets over the straw before the New Year. The
-pellets protect the rice seed through the winter months. Without the
-clay coating, seeds would be eaten by birds and rodents. With it, the
-seed remains dormant until spring warmth and moisture trigger
-germination, at which time the seedlings emerge through the straw
-mulch and clover cover.
-Beyond grain cultivation, Fukuoka envisioned clay pellets as a tool
-for ecological restoration at a global scale. For desert application,
-the pellets would contain seeds of drought-resistant trees such as
-black wattle, nitrogen-fixing legumes, and tough grasses. Once
-scattered by hand over barren terrain, the hard clay shells prevent
-seed predation and delay germination until rain falls. A year later,
-some plants would survive, giving clues about what is suited to the
-local climate and land. As vegetation establishes, it would help bring
-back the rains through improved moisture retention and the creation
-of microclimates.
-The technique requires no machinery beyond what is needed to mix and
-shape the pellets. It needs no irrigation, no plowing, and no ongoing
-maintenance. This makes it accessible even in regions with minimal
-infrastructure, offering a practical path toward ecological recovery
-where conventional approaches are too expensive or complex to deploy.
-See also: [[natural-farming]], No Tillage Rice Barley Succession,
+## The [[natural-farming]], No Tillage Rice Barley Succession,
 Green Manure Cover Cropping
 
 ## See Also
 
-- [[desert-revegetation]]
 - [[desertification]]
 - [[masanobu-fukuoka]]

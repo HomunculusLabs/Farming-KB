@@ -113,18 +113,11 @@ establishing causation between a microbe and a disease:
 
 ## Related
 
-- [[cultivar-endorhiza-bacterial-communities-cannabis]] Topics
-
 - [[blesching-cannabis-mrsa]] - Detailed coverage of cannabis against
   methicillin-resistant Staphylococcus aureus
-- [[blesching-cannabis-gonorrhea]] - Cannabis and gonorrhea research
 - [[blesching-cannabis-viral-infections]] - Viral infection counterparts
-- [[blesching-cannabis-immune-system-modulation]] - Immune modulation
-  through cannabinoids
 - [[blesching-cannabis-hiv-aids]] - Bacterial infections in
   immunocompromised patients
-- [[blesching-cannabis-wound-care]] - Topical antibacterial applications
-  of cannabis
 - [[blesching-cannabinoid-pharmacology]] - Cannabinoid antibacterial
   mechanisms of action
 - [[blesching-endocannabinoid-system-overview]] - ECS role in bacterial

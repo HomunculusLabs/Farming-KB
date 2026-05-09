@@ -89,11 +89,7 @@ Understanding endophytic bacterial flora opens new biotechnological opportunitie
 
 ## Related Topics
 
-- [[amf-biocontrol-phytophthora-root-exudate-modification]] - AMF-mediated biocontrol
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - PGPR and mycorrhizal combinations
-- [[endophytic-fungi-and-plant-health]] - Rhizosphere microbiome
 - [[endophytic-fungi-plant-interactions]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[bacterial-endophytes-plant-roots]]

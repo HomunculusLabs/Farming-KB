@@ -321,3 +321,10 @@ Phytoremediation is a long-term strategy. Realistic timelines by contaminant and
 - **Petroleum hydrocarbons**: 1–5 years of rhizodegradation with grasses and legumes
 - **Chlorinated solvents**: 5–15 years with deep-rooted trees; often combined with monitored natural attenuation
 - **Explosives (TNT, RDX)**: 2–5 years with appropriate plant species and rhizosphere enhancement
+
+## Merged: How Does [[phytoremediation]] Work and What Plants Are Best for It?
+Phytoremed [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]] s the use of living plants to clean up contaminated soil, water, and air. Plants naturally absorb water, nutrients, and minerals from their environment—and in doing so, they can take up, stabilize, degrade, or filter out pollutants including heavy metals, [[fungal-volatile-organic-compounds]], pesticides, and even some radionuclides. It is a low-cost, solar-driven, and environmentally friendly alternative to traditional excavation or chemical treatment.
+Plants absorb contaminants (primarily heavy metals) through their roots and translocate them into above-ground shoots and leaves. The biomass is then harvested and safely disposed of or processed for metal recovery. This is the most widely studied mechanism for metal-contaminated soils.
+Plants reduce the mobility and bioavailability of contaminants in soil by immobilizing them through root adsorption, precipitation, or changes in soil chemistry. The contaminant stays in place but becomes less likely to leach into groundwater or enter the food chain. Ideal for large areas with low-to-moderate contamination where removal is impractical.
+Plants take up organic pollutants and break them down internally through metabolic enzymes (cytochrome P450, peroxidases, etc.) into less toxic or non-toxic compounds. Works well for petroleum hydrocarbons, solvents, and some pesticides.
+Plant roots absorb and adsorb contaminants from water (surface water, groundwater, or wastewater). Often used in constructed wetlands or hydroponic systems. Sunflowers famously were used for rhizofiltration of radioactive cesium and strontium after Chernobyl.

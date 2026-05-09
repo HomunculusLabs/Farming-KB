@@ -3,28 +3,7 @@ title: Mycoforestry: Forest Management with Fungi
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-
-# Mycoforestry: Forest Management with Fungi
-
-## Overview
-
-Mycoforestry is the use of fungi to sustainably manage forest ecosystems, a concept developed and popularized by mycologist Paul Stamets. The approach recognizes fungi as essential partners in forest health -- not merely decomposers but active ecosystem engineers that mediate nutrient cycling, protect trees from disease, filter water, and create underground networks connecting forest plants. Mycoforestry integrates fungal biology into every stage of forest management, from planting to harvest to restoration.
-
-## Fungi in Forest Ecosystems
-
-Forests are fungal systems as much as they are tree systems. The forest floor is underlain by vast mycelial networks that:
-
-- Decompose woody debris and recycle nutrients back to plant-available forms
-- Form mycorrhizal associations with tree roots, extending the effective root zone by 10-100x
-- Connect individual trees into shared resource networks (the "wood wide web")
-- Produce enzymes that break down complex organic compounds (lignin, cellulose, toxins)
-- Filter pathogens and pollutants from water moving through the soil profile
-
-Understanding these roles is the foundation of mycoforestry. See [[cotter-mycoremediation-overview]] for how these same capabilities apply to environmental cleanup.
+tags: [[cotter-mycoremediation-overview]] for how these same capabilities apply to environmental cleanup.
 
 ## Mycorrhizal Inoculation for Tree Planting
 
@@ -55,7 +34,7 @@ After timber harvest, tree stumps represent both a waste disposal problem and a 
 ### Suitable Species
 
 - **Shiitake (Lentinula edodes)**: Inoculate oak, alder, maple, beech stumps. Drill holes and plug with spawn. Harvest begins in 6-12 months.
-- **Oyster mushroom (Pleurotus ostreatus)**: Very aggressive colonizer; works on most hardwood stumps. See [[cotter-oyster-mushroom-cultivation]] for cultivation details, and [[gourmet-mushroom-cultivation]] for broader species coverage.
+- **Oyster mushroom (Pleurotus ostreatus)**: Very aggressive colonizer; works on most hardwood stumps. See [[gourmet-mushroom-cultivation]] for broader species coverage.
 - **Lion's mane (Hericium erinaceus)**: Inoculate hardwood stumps, especially oaks and beeches. Slower colonizer but high-value harvest.
 - **Reishi (Ganoderma lucidum)**: Grows on stumps of oaks and other hardwoods. Medicinal rather than culinary.
 
@@ -105,19 +84,6 @@ Fungal corridors are connected networks of woody debris, inoculated substrates, 
 
 ## Integration with the Soil Food Web
 
-Mycoforestry works within the broader [[soil-food-web-structure]] -- fungal networks interact with bacteria, protozoa, nematodes, microarthropods, and higher organisms. Healthy mycoforestry practices support the entire soil food web, which in turn supports tree health, nutrient cycling, and ecosystem resilience.
-
-## Limitations and Considerations
-
-- Mycoforestry is not a replacement for sound silvicultural practices -- it enhances, not replaces, good forest management
-- Inoculation success depends on environmental conditions (moisture, temperature, substrate quality)
-- Some introduced fungal species may become invasive; prefer native species when possible
-- Regulatory restrictions may apply to intentional fungal introductions in some jurisdictions
-- Long-term monitoring is needed to assess the effectiveness of mycoforestry interventions
-
-## Related
-
-- [[fungal-soil-aggregation]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+Mycoforestry works within the broader [[fungal-soil-aggregation]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]

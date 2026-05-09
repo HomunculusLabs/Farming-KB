@@ -103,18 +103,7 @@ Edible rhizomes used as food for millennia:
 - Flowers used as garnishes or in salads
 - Seeds extremely hard; roasted as coffee substitute; valued for ornamental bead-making
 
-## Phytoremediation and Water Treatment
-
-One of the most effective species for constructed wetlands:
-
-- **Constructed wetlands:** Widely used for municipal and industrial wastewater treatment
-- **Nutrient removal:** Efficient nitrogen and phosphorus uptake
-- **BOD/COD reduction:** Root zone microorganisms significantly reduce oxygen demand
-- **Heavy metals:** Absorbs Cu, Zn, Cd, Pb, concentrating them in root tissues
-- **Pollutant removal:** BOD₅ 70–90%, Total N 50–80%, Total P 60–85%, TSS 75–95%
-- **Applications:** Stormwater bioswales, aquaculture effluent, greywater recycling, industrial effluent
-
-## Permaculture Applications
+## [[permaculture]] Applications
 
 *Canna indica* exemplifies "stacking functions":
 
@@ -144,6 +133,5 @@ Can become aggressive in tropical/subtropical climates — spreads via rhizome f
 
 ## See Also
 
-- [[food-forest]]
 - [[hugelkultur]]
 - [[moringa-oleifera]]

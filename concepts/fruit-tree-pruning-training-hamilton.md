@@ -78,32 +78,15 @@ Branches are bent into severe curves to restrict sap flow and encourage fruiting
 
 ## Related
 
-- [[fruit-tree-pruning-training]] Topics
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
-- [[pruning-fruit-trees-and-bushes]]
 - [[organic-fruit-tree-care-calendar]]
-- [[fruit-tree-propagation]]
-
-## Source
-- Hamilton, Geoff & Nick Hamilton. "Organic Gardening." Planting and Training Fruit Trees and Bushes section, pp. 207-210.
 - [[pruning-techniques-organic]]
-- [[hamilton-pruning-and-training-fruit-trees]]
 - [[holzer-fruit-tree-planting-method]]
-- [[fukuoka-no-prune-fruit-tree-method]]
-
-## See Also
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[composting]]

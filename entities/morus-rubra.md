@@ -26,7 +26,7 @@ created: 2026-04-28
 
 It produces sweet, dark reddish-purple berries that have been used as food by Indigenous peoples for millennia.
 
-Red mulberry is closely related to the white mulberry (**[[morus-alba]]**) and black mulberry (**[[morus-nigra]]**), but is distinguished by its larger, sandpaper-textured leaves and deeper fruit color.
+Red mulberry is closely related to the white mulberry (**[[morus-nigra]]**), but is distinguished by its larger, sandpaper-textured leaves and deeper fruit color.
 
 The species is ecologically significant as a food source for birds, mammals, and insects, and is increasingly valued in permaculture and food-forest design.
 
@@ -74,27 +74,9 @@ It tolerates a range of soil types including clay, loam, and sandy soils, but pe
 
 Red mulberry is shade-tolerant in youth but becomes more light-demanding as it matures.
 
-It frequently occurs as an understory component of mixed hardwood forests alongside **[[tilia-cordata]]**, oaks, hickories, and **[[corylus-avellana]]**.
+It frequently occurs as an understory component of mixed hardwood forests alongside **[[corylus-avellana]]**.
 
-Hybridization with introduced **[[morus-alba]]** (white mulberry) is widespread and threatens the genetic integrity of pure M. rubra populations.
-
-## Ecology and Wildlife Value
-
-Red mulberry fruit is a critical food resource for numerous bird species including robins, cedar waxwings, thrushes, orioles, and tanagers.
-
-Mammalian consumers include foxes, raccoons, opossums, squirrels, and deer, which disperse seeds through their droppings.
-
-The foliage serves as a larval host plant for the wild silk moth (*Hyalophora cecropia*) and several sphinx moth species.
-
-The tree provides nesting sites and cover for cavity-nesting birds and small mammals.
-
-In riparian corridors, red mulberry contributes to streambank stabilization and shade regulation for aquatic ecosystems.
-
-Its deep root system helps prevent soil erosion on slopes and floodplain margins.
-
-## Edibility and Culinary Use
-
-The berries of M. rubra are sweet and pleasant, with a flavor similar to but more complex than that of **[[morus-nigra]]**.
+Hybridization with introduced **[[morus-nigra]]**.
 
 They can be eaten fresh, dried, or processed into jams, jellies, pies, wines, and syrups.
 
@@ -122,7 +104,7 @@ Trees begin bearing fruit at 5–10 years of age when grown from seed.
 
 In permaculture design, red mulberry serves multiple functions: food production, wildlife habitat, erosion control, and shade.
 
-It integrates well into food-forest guilds with nitrogen-fixing companions like **[[robinia-pseudoacacia]]** and ground-layer plants such as **[[comfrey]]**.
+It integrates well into food-forest guilds with nitrogen-fixing companions like **[[comfrey]]**.
 
 The extended fruiting period provides a reliable food source during the mid-summer gap between spring berries and fall fruit.
 
@@ -130,13 +112,8 @@ Compared to white mulberry, red mulberry is more cold-hardy and produces larger,
 
 ## See Also
 
-- [[morus-nigra]]
 - [[morus-alba]]
-- [[maclura-pomifera]]
 - [[pawpaw]]
-- [[persimmon]]
 - [[tilia-cordata]]
-- [[corylus-avellana]]
 - [[robinia-pseudoacacia]]
-- [[comfrey]]
 - [[castanea-mollissima]]

@@ -3,11 +3,7 @@ title: Permaculture Design Course -- Urban and Suburban Applications
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, design, urban, suburban, small-space, pdc]
-sources:
-  - "William Ozier-Williams, PDC: A Permaculture Design Course"
----
-# [[permaculture-design]] Course -- Urban and Suburban Applications
+tags: [[permaculture-design]] Course -- Urban and Suburban Applications
 
 ## The Untapped Potential of Urban Landscapes
 
@@ -52,9 +48,7 @@ These systems allow better control of environment, pest protection, easier amend
 
 We have destroyed untold acres of forest to create urban habitats. Urban forestry is the planting of indigenous trees to rejuvenate something close to original forest conditions. With proper design, trees and forests can be interwoven with urban infrastructure -- trees lining roads, delineating property lines, with shrubs and ground covers recreating forest layers around their bases.
 
-## Urban [[water-management]]
-
-Cities are often designed to flood: hardscape pavement prevents infiltration, storm sewers clog, long straight streets enable torrential flows. [[permaculture-principles]] applied to urban design -- rainwater catchment, permeable pavement, rain-sensitive landscaping -- would prevent most floods. Every roof is a potential water catchment surface.
+## Urban [[permaculture-principles]] applied to urban design -- rainwater catchment, permeable pavement, rain-sensitive landscaping -- would prevent most floods. Every roof is a potential water catchment surface.
 
 ## Disaster-Proof Food Systems
 
@@ -70,20 +64,7 @@ Food systems extend beyond what you grow at home:
 
 ## Urban Forests
 
-Urban forests are a critical component of [[urban-permaculture-design]]. A city can be thought of as a forest -- buildings are like trees that provide vertical structure, streets are like forest paths, and parks and gardens are like clearings. Designing cities to function more like forests means maximizing the beneficial interactions between all elements.
-
-Trees in urban environments provide shade (reducing cooling costs), intercept stormwater, filter air pollution, provide habitat for birds and beneficial insects, and produce food (fruit and nut trees). Selecting the right tree species for urban conditions -- tolerant of pollution, compacted soils, and restricted root space -- is essential.
-
-## Wildcrafting in Urban and Suburban Areas
-
-Urban and suburban environments offer surprising opportunities for wildcrafting -- harvesting wild edible and medicinal plants. Dandelions, plantain, chickweed, and many other useful plants grow readily in lawns, vacant lots, and along roadsides. However, care must be taken to avoid areas that may be contaminated with heavy metals, pesticides, or other pollutants.
-
-## Water in Urban Design
-
-Urban Permaculture places special emphasis on water management:
-- Rain barrels and cisterns capture roof runoff for garden use
-- Rain gardens and bioswales slow and filter stormwater
-- [[permaculture-designers-manual-greywater-systems]] recycle water from sinks, showers, and laundry for landscape irrigation
+Urban forests are a critical component of [[graywater-systems]] recycle water from sinks, showers, and laundry for landscape irrigation
 - Permeable surfaces (gravel, permeable pavers) allow rain to infiltrate rather than running off
 
 ## Building Community Resilience
@@ -97,6 +78,5 @@ One of the most important aspects of urban Permaculture is building community re
 
 ## Related
 
-- [[permaculture-multipurpose-trees]]
 - [[permaculture-plants-fruit-trees-selection]]
 - [[food-preservation-canning]]

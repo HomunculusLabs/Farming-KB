@@ -18,15 +18,7 @@ that approximately 10 to 15 percent of the dyes produced end up in
 industrial effluents. Azo dyes are the predominant group, accounting for
 roughly 50 percent of all industrial dyes produced worldwide. These
 compounds are recalcitrant to conventional wastewater treatment and
-persist in the environment, making [[fungal-bioremediation]] an attractive
-alternative approach.
-
-## Azo Dye Degradation by White Rot Fungi
-
-Azo dyes are of particular environmental concern because they can be
-reduced in mammals to carcinogenic aromatics, which are subsequently
-oxidized to N-hydroxy derivatives and electrophiles capable of forming
-covalent linkages with DNA amines. [[phanerochaete-chrysosporium]] has been
+persist in the environment, making [[phanerochaete-chrysosporium]] has been
 reported to decolorize azo dyes including Congo Red, Orange II, and
 Tropaeolin. Crude lignin peroxidase (LiP) preparations decolorized all
 dyes tested except Congo Red, suggesting involvement of enzymes other
@@ -54,19 +46,7 @@ system.
 
 ## Manganese Peroxidase Contributions
 
-MnPs from B. adusta and [[pleurotus-eryngii]] were reported to be involved
-in decolorization of multiple reactive dyes. Interestingly, MnP from B.
-adusta oxidized dyes in an Mn-independent manner, whereas Mn was shown
-to be critical for the activity of MnPs from a number of other organisms.
-P. chrysosporium MnP showed low activity towards industrial dyes in both
-the presence and absence of Mn. These findings highlight the diversity
-of MnP enzyme properties across different fungal species and their
-varying capacities for dye decolorization.
-
-## Laccase-Mediated Dye Decolorization
-
-Laccase activity has been directly correlated with decolorization
-capacity. Studies with [[pleurotus-ostreatus]] and Trametes hispida
+MnPs from B. adusta and [[pleurotus-ostreatus]] and Trametes hispida
 demonstrated that only laccase activity correlated with decolorization
 activity of crude extracts from these organisms. This suggests laccases
 can serve as the primary enzymatic agents for dye degradation in certain
@@ -105,26 +85,6 @@ bleach plant effluents containing chlorophenols, chlorolignols, and other
 pollutants. MnPs were shown to play the primary role in bleach plant
 effluent decolorization by P. chrysosporium, with chelated Mn serving as
 the primary oxidant. In contrast, laccases appear to play the primary
-role in effluent decolorization by [[trametes-versicolor]]. Several T.
-versicolor laccases were shown to dechlorinate toxic polychlorinated
-phenols that are major constituents of bleach plant effluents. These
-findings suggest different fungal species may be optimal for different
-industrial effluent compositions.
-
-## Enzyme Immobilization for Dye Treatment
-
-Selected dye-decolorizing enzymes from white rot fungi are considered
-good candidates for immobilization and use in bioremediation applications.
-Immobilized laccases, in particular, have shown promise for continuous
-treatment of dye-contaminated wastewater. Immobilization enhances enzyme
-stability, allows reuse over multiple treatment cycles, and facilitates
-separation from treated effluent. The development of enzyme-based
-bioreactors for dye removal represents a practical approach for
-implementing fungal bioremediation at industrial scale.
-
-## See Also
-
-- [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
-- [[staycare-lignin-peroxidase-and-pollutant-degradation]]
+role in effluent decolorization by [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
 - [[staycare-fungal-pellet-bioreactors-for-effluent-treatment]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]

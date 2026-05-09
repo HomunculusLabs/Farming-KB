@@ -138,8 +138,6 @@ direction for on-farm pesticide waste management.
 
 ## See Also
 
-- [[singh-fungal-degradation-pesticides]]
 - [[fungal-pesticide-and-herbicide-degradation]]
-- [[mycoremediation-pesticides]]
 - [[fungal-enzymatic-assays-identification-characterization]]
 - [[fungal-biosensors-environmental-monitoring]]

@@ -46,28 +46,13 @@ grasses, respectively).
 
 ## Northern Hemisphere Species
 
-[[amanita-muscaria]], Cordyceps spp., [[psilocybe-pelliculosa-entity]], and P. silvatica
+[[psilocybe-pelliculosa-entity]], and P. silvatica
 are characteristic northern hemisphere species. Amanita muscaria grows in
 mycorrhizal association with Pinus and Betula in northern forests, and has
 been introduced to pine plantations in tropical regions including Brazil,
 Colombia, Tanzania, Australia, and New Zealand. This introduction pattern
 demonstrates how human forestry practices can extend natural distribution
-ranges of [[mycorrhizal-fungi]].
-
-## Eurasian and Trans-Pacific Connections
-
-Several neurotropic species show Eurasian distributions, with Amanita
-muscaria as the primary example. More remarkable are the trans-Pacific
-connections: P. graveolens, P. muliercula, P. pintonii, and P. zapotecorum
-from the Americas are closely related to P. argentipes and P. subcaerulipes
-from Japan. Similarly, P. samuiensis (Thailand) and P. makarorae (New
-Zealand) are closely related to P. mexicana (Mexico and Guatemala). These
-relationships suggest ancient dispersal events or vicariance patterns
-connecting the mycotas of Southeast Asia, Australasia, and the Americas.
-
-## Tropical and Subtropical Species
-
-[[psilocybe-cubensis]], P. subcubensis, and Copelandia spp. are primarily
+ranges of [[psilocybe-cubensis]], P. subcubensis, and Copelandia spp. are primarily
 tropical and subtropical, with some exceptions. C. cyanescens sometimes
 grows in disturbed zones of temperate regions. The tropical concentration
 of psilocybin-containing species aligns with the broader pattern of higher
@@ -98,11 +83,7 @@ Raman, respectively.
 
 ## Amphiatlantic and Amphipacific Species
 
-[[psilocybe-cyanescens]], P. fimetaria, P. pelliculosa, P. semilanceata, and P.
-silvatica are common both in North America and Europe, representing an
-amphiatlantic distribution pattern. P. stuntzii is restricted to the Pacific
-Northwest of North America, while P. coprinifacies and P. serbica are
-European endemics. [[psilocybe-semilanceata]] has the widest temperate
+[[psilocybe-semilanceata]] has the widest temperate
 distribution, known from Europe, India, Russia, Canada, USA, Chile, Peru,
 New Zealand, Australia, and Tasmania, but is surprisingly absent from Mexico.
 

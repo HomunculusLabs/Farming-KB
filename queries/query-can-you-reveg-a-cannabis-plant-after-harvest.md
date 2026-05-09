@@ -31,24 +31,7 @@ particularly impressive phenotype, take additional cuttings from a prized
 genetic individual,
 or simply get a second harvest from the same established root mass. Only 
 photoperiod
-cannabis strains can be reliably revegged; [[autoflowering-cannabis]] plants 
-flower based on
-age rather than light cycle and cannot be reverted through light schedule 
-manipulation.
-
-The revegging process begins at harvest. Instead of chopping the entire plant at
- the base,
-the grower leaves a significant portion of healthy foliage intact. Ideally, 
-retain the lower
-30 to 50 percent of the plant structure including several healthy lower branches
- with their
-fan leaves. Some growers leave a few small lower buds on the plant during 
-harvest, as these
-help sustain the plant through the revegging transition. After harvesting the 
-main colas,
-switch the light cycle back to 18 hours on and 6 hours off (or 24/0) to signal 
-vegetative
-growth. The [[cannabis-photoperiod-flowering-cycle]] page explains how 
+cannabis strains can be reliably revegged; [[cannabis-photoperiod-flowering-cycle]] page explains how 
 photoperiodism
 controls the flowering and vegetative transition in cannabis.
 
@@ -64,16 +47,6 @@ branching. The odd leaf morphology during early revegging is sometimes called
 "whorled
 phyllotaxy" and results from the hormonal shift from flowering back to 
 vegetative. The
-[[cannabis-photoperiodism-and-light-cycles]] page covers the hormonal basis for 
-these
-morphological changes during light cycle transitions.
-
-Nutrient management during revegging requires a shift back to vegetative 
-feeding. After
-harvest, the plant needs nitrogen to support new leaf and stem growth. 
-Transition from your
-bloom nutrient formula back to a grow or vegetative formula with higher nitrogen
- content. The
 [[vegetative-phase-cannabis]] page covers optimal vegetative nutrient profiles 
 for cannabis.
 Start at half strength and gradually increase as the plant shows active new 
@@ -90,7 +63,7 @@ established root mass, which accelerates the revegging process and allows for a
 faster second
 flowering cycle. However, the plant may become rootbound if left in the same 
 container for
-too long. The [[cannabis-transplanting-guide]] and [[cannabis-advanced-growing-techniques]]
+too long. The [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 pages cover up-potting techniques if the root system needs more space for a 
 second run.
 
@@ -100,8 +73,7 @@ after harvest and rooting them as clones. This is often more reliable than full-
 plant
 revegging because young clones recover faster and grow more vigorously than a 
 stressed,
-partially harvested mother. The [[cannabis-cloning]] and
-[[cannabis-clone-rooting-and-transplanting]] pages detail proper cloning 
+partially harvested mother. The [[cannabis-clone-rooting-and-transplanting]] pages detail proper cloning 
 techniques. A
 cutting taken from a harvested plant will grow normally without the unusual leaf
  morphology
@@ -141,8 +113,6 @@ more productive than waiting for a plant to recover from the revegging process.
 
 ## Related
 
-- [[query-can-you-kombucha-ferment-things-other-than-tea]] Questions
 - [[query-how-to-clone-cannabis-plants-step-by-step]]
-- [[query-how-to-transition-cannabis-from-vegetative-to-flowering]]
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
 - [[query-how-to-run-perpetual-cannabis-harvest-cycle]]

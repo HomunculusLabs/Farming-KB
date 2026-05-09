@@ -1,12 +1,3 @@
----
-title: "Flavor Philosophy and Spiritual Alienation from Food"
-created: 2026-04-28
-tags: [fukuoka, food-philosophy, flavor, diet, spirituality, natural-diet]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
-type: concept
----
 
 Fukuoka's philosophy of flavor goes far beyond the simple
 question of what tastes good. He argues that modern man has
@@ -24,41 +15,7 @@ depending on when and where it is eaten. The scientist
 investigates the ingredients of food and correlations
 between minerals extracted and the five tastes: sweet, sour,
 bitter, salty, and hot. But flavor cannot be understood by
-relying on the results of chemical analysis or the
-sensations at the tip of the tongue.
-
-Even were the five tastes perceived by five different
-organs, a person would be unable to sense the true flavor
-if his instincts themselves were confused. Flavor must be
-in consonance with the spirit. People who think that flavor
-originates in the food itself eat only with the tip of the
-tongue and are easily deceived by the flavor of instant
-cooking.
-
-## The Loss of Instinctive Taste
-
-Evidence that the human sense of flavor has gone haywire is
-difficult to find, but one thing is certain: people today
-chase after flavor because they have lost it. If this sense
-were intact, they would judge accurately for themselves.
-Natural man gathers his food without discrimination. His
-instincts are intact so he eats properly in accordance with
-natural laws. Everything is delicious, nourishing, and
-therapeutic. Modern man, on the other hand, bases his
-judgments on mistaken knowledge and searches with his five
-deranged senses. His diet is chaotic, the gap between likes
-and dislikes deepens, and he hurtles toward an even more
-unbalanced diet. The problem is that man has become
-spiritually alienated from food. True flavor can be
-perceived only with the five senses, the mind, and the
-spirit. When the spirit is confused, the senses cannot
-function properly.
-
-## Eating with the Mind
-
-An adult who has lost his instinctive sense of taste no
-longer appreciates the taste of rice. He eats white rice
-prepared by polishing brown rice to remove the bran. To
+relying on the results of [[brown-rice-flour-substrate]] to remove the bran. To
 make up for the loss in flavor, he adds meat sauce or eats
 it with sashimi. Tasty rice thus becomes rice that is easy
 to flavor and season, and people delude themselves into
@@ -124,27 +81,9 @@ culture born of human recreation and vanity that is divorced
 from nature cannot become a true culture. True culture arises
 from within nature, and is pure, modest, and simple. Were
 this not so, then man would surely be destroyed by that
-culture. When mankind forsakes a natural diet for a civilized
-diet, he turns away from a true culture and sets off on the
-road to decline.
-
-## The Staff of Life
-
-Taste and nutrition should not be separated. What is
-nourishing and good for the human body should stimulate the
-human appetite of its own accord and serve as delicious
-food. Flavor and nutrition must be one.
-
-Not so long ago, farmers in this area enjoyed simple meals
-of barley and rice with unrefined soy sauce and pickled
-vegetables. This gave them strength and long life. Rather
-than thinking in terms of "drawing nutrition," it makes
-more sense to say that working hard in the fields made one
-hungry, which is why coarse fare tasted delicious. A strong
-body can draw sustenance from a simple diet.
-
-## See also
-
-[[fukuoka-textdoc-nature-of-food]]
-[[fukuoka-food-spirit-united]]
+culture. When mankind forsakes a [[fukuoka-natural-diet-philosophy]]
 [[fukuoka-natural-diet-philosophy]]
+
+## See Also
+
+- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]

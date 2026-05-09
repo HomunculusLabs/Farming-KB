@@ -74,8 +74,23 @@ Palmer recommended two methods:
 
 He also dried mushrooms for winter: "No better substitute for meat than fungus can be found. Neither its odor when cooking, nor the gravy it makes, resembles any form of vegetable food. This is but natural, since the plant absorbs oxygen from the air, after the manner of animals."
 
-See also: [[mushroom-cultivation-basics]] | [[mushroom-cultivation-fundamentals]] | [[julius-palmer]] | [[nineteenth-century-mushroom-identification]]
+See also: [[mushroom-cultivation-basics]] | [[mushroom-compost-substrates]] | [[julius-palmer]] | [[nineteenth-century-mushroom-identification]]
+## Practical Considerations
 
-## See Also
+Successful implementation of Nineteenth-Century Mushroom Cultivation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-- [[nineteenth-century-mycology-public-ignorance]]
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

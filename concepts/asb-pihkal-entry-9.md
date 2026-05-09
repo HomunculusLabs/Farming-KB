@@ -123,8 +123,6 @@ be "tetrakis-."
 
 ## See Also
 
-- [[pihkal-mescaline]]
 - [[pihkal-mescaline-analogs]]
-- [[mescaline-derivatives-pihkal]]
 - [[pihkal-qualitative-effects-themes]]
 - [[dosage-ambiguity-fuzzy-numbers-pihkal]]

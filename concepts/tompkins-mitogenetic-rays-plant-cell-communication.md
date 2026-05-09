@@ -127,11 +127,11 @@ those absorbed by matter fields of classical physics.
 
 ## Related Topics
 
-- [[tompkins-cleve-backster-primary-perception]] for the Backster
-  Effect that Lawrence helped investigate
 - [[tompkins-marcel-vogel-plant-human-communication]] for Vogel's
   parallel experiments on plant-human interaction
-- [[tompkins-jagadis-bose-plant-response-crescograph]] for Bose's
-  earlier demonstrations of plant sensitivity
 - [[tompkins-photosynthesis-biophotons]] for research on light
   emissions from living organisms
+
+## See Also
+
+- [[tompkins-plant-chemical-communication]]

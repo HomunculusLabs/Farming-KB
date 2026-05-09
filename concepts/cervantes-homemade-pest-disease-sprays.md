@@ -25,9 +25,7 @@ smelly odor, and a desiccating powder or liquid are the main
 ingredients in home-brewed pesticide and fungicide potions.
 
 These sprays discourage and control many pests including
-[[cervantes-aphids-identification-control]],
 [[cervantes-thrips-pest-control]],
-[[cervantes-spider-mites-identification-control]],
 [[cervantes-mealybugs-scale-insect-control]], and many
 others. They are particularly valuable for organic growers who
 want to avoid synthetic chemicals on consumable crops.
@@ -139,11 +137,8 @@ washed off by watering or rain. Apply at five to ten day
 intervals for ongoing pest pressure. Avoid spraying within four
 hours of lights off, as excess moisture sitting on foliage
 fosters fungal growth.
-
 ## Related Topics
 
-- [[cervantes-neem-oil-organic-pest-control]] - neem-based
-  organic control
 - [[cervantes-pyrethrum-pyrethroid-insecticides]] - natural
   pyrethrum sprays
 - [[cervantes-biological-pest-control-predators]] - living

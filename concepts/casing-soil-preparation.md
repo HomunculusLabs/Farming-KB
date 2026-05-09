@@ -3,7 +3,7 @@ title: Casing Soil Preparation for Mushroom Cultivation
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom-cultivation, casing, peat, vermiculite, fruiting, pinning]
+tags: [[mushroom-cultivation, casing, peat, vermiculite, fruiting, pinning]
 sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
@@ -12,9 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__e
 A casing layer is a non-nutritive material applied to the surface of fully
 colonized substrate to create the microclimate necessary for mushroom
 formation (pinning). The casing soil recipe and preparation method described
-here has been proven effective for [[psilocybe-mexicana]],
-[[psilocybe-tampanensis]], and [[panaeolus-subbalteatus]]. See
-[[grass-seed-substrate-preparation]] for the underlying substrate method.
+here has been proven effective for [[psilocybe-tampanensis-cultivation]], and [[grass-seed-substrate-preparation]] for the underlying substrate method.
 
 ## Purpose of Casing
 
@@ -131,7 +129,6 @@ strains like Ecuador cubensis do not require this treatment.
 ## See Also
 
 - [[grass-seed-substrate-preparation]] — the substrate beneath the casing
-- [[sclerotia-production]] — species that fruit without casing
 - [[fruiting-chamber-design]] — simple setups for mushroom production
 - [[pinning-triggers]] — environmental conditions that initiate fruit body
   formation

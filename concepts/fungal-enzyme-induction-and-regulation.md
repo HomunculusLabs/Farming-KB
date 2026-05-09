@@ -3,7 +3,7 @@ title: Fungal Enzyme Induction and Regulation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -111,18 +111,11 @@ Understanding enzyme induction and regulation is therefore central to predicting
 
 ## Related
 
-- [[electromagnetic-induction-faraday-law]]
-
 - [[international-transport-regulation-fungal-cultures]] Concepts
 
-- [[fungal-saprotrophic-enzymatic-strategies]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[fungal-enzyme-activity-nutrient-availability]]
 - [[fungal-enzyme-kinetics]]
-- [[fungal-enzyme-systems]]
 - [[fungal-decomposition-resource-quality-determinants]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-cellulose-decomposition-fungal-enzymes]]
-- [[fungal-carbon-substrate-utilization-efficiency]]
 - [[fungal-nitrogen-mineralization-pathways]]
 - [[fungal-ecosystem-processes-overview]]

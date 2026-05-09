@@ -11,27 +11,7 @@ tags: [reference]
 
 # Bubbleponics for Cannabis
 
-Bubbleponics is a hybrid hydroponic growing method that combines elements of [[deep-water-culture]] (DWC) and top-feed drip irrigation. The term describes systems in which nutrient solution is actively delivered to the top of the root zone via drip emitters while the lower root mass remains submerged in an aerated nutrient solution reservoir. Air stones provide continuous aeration, creating the characteristic "bubbling" action that gives the method its name.
-
-## How Bubbleponics Works
-
-A typical bubbleponics system consists of a reservoir containing aerated nutrient solution with plants supported above in net pots. The system incorporates two nutrient delivery mechanisms working simultaneously:
-
-1. **Top-feed drip delivery**: A water pump pushes nutrient solution through tubing to drip emitters positioned at the base of each plant. This ensures the upper root zone and growing medium receive consistent moisture and nutrients, even before roots have grown long enough to reach the reservoir below.
-
-2. **Bottom aeration and submersion**: An air pump connected to air stones in the reservoir continuously bubbles air through the nutrient solution. As roots grow down from the net pots, they enter the oxygenated solution and can absorb nutrients directly.
-
-This dual-delivery approach solves a key limitation of standard DWC: in conventional DWC, young plants must wait for their roots to grow down into the reservoir before receiving adequate nutrition. Bubbleponics feeds plants from the top from day one, accelerating early growth.
-
-## Components of a Bubbleponics System
-
-1. **Reservoir**: A container (typically five gallons or larger) that holds the nutrient solution.
-2. **Lid with net pot holes**: Supports plants and blocks light from the solution.
-3. **Net pots**: Hold growing medium and anchor plants while allowing root growth into the reservoir.
-4. **Water pump**: Delivers nutrient solution to the top-feed drip emitters.
-5. **Air pump and air stones**: Provides continuous aeration to the reservoir, maintaining dissolved oxygen levels.
-6. **Drip emitters or tubing**: Deliver nutrient solution to the base of each plant.
-7. **Growing medium**: expanded clay pellets, [[rockwool-cannabis]] starter cubes, or other inert media in the net pots.
+Bubbleponics is a hybrid hydroponic growing method that combines elements of [[rockwool-cannabis]] starter cubes, or other inert media in the net pots.
 
 ## Advantages of Bubbleponics
 
@@ -67,7 +47,6 @@ While bubbleponics uses top-feed drip delivery, it differs from standard [top-fe
 
 The net pots in a bubbleponics system can be filled with:
 - expanded clay pellets (hydroton): The most popular choice. Excellent drainage, reusable, and provides good support.
-- [[rockwool-cannabis]] cubes or plugs: Good for starting seedlings and clones. Place a rockwool starter cube in the net pot and surround with expanded clay.
 - [[coco-coir-cannabis]]: Can be used but may retain too much moisture for the top-feed application.
 
 ## Cannabis Cultivation in Bubbleponics
@@ -126,12 +105,8 @@ A five-gallon (19 L) reservoir per plant is standard for bubbleponics. Smaller r
 
 ## See Also
 
-- [[deep-water-culture]]
 - [[banisteriopsis-caapi]]
-- [[drip-irrigation-cannabis]]
 - [[hydroponic-cannabis]]
-- [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-growing-mediums]]
-- [[cannabis-clone-rooting-and-transplanting]]
 - [[cannabis-root-rot-prevention-and-treatment]]
 - [[cannabis-watering-schedule-and-frequency]]

@@ -53,11 +53,36 @@ Sandoz's role in the discovery of LSD represents one of the most consequential a
 
 ## See Also
 
-- [[sandoz-psilocybin-distribution-program]]
 - [[sandoz-delysid-research-program]]
-- [[hofmann-lsd-sandoz-research-program]]
 - [[hofmann-sandoz-crisis-lsd-withdrawal]]
 
-- [[albert-hofmann]] — the discoverer of LSD
-- [[lsd-d-lysergic-acid-diethylamide]] — the compound discovered at Sandoz
+- gordon-wasson — the discoverer of LSD
 - [[ergot-fungi-and-ergotism-claviceps-purpurea]] — the ergot fungus that was the starting material
+
+## Key Products Beyond Psychedelics
+
+Sandoz's pharmaceutical portfolio extended well beyond its famous LSD program.
+The company developed numerous commercially significant drugs across multiple
+therapeutic areas. Clozapine (Clozaril), introduced in the 1970s, was a
+revolutionary atypical antipsychotic that became the gold standard for
+treatment-resistant schizophrenia despite its risk of agranulocytosis.
+Octreotide (Sandostatin) addressed acromegaly and neuroendocrine tumors.
+Bromocriptine became a mainstay treatment for Parkinson's disease and
+hyperprolactinemia, demonstrating the therapeutic potential of ergot
+derivatives beyond migraine.
+
+The company's expertise in ergot alkaloid chemistry, originally developed
+for LSD research, proved broadly applicable to drug discovery across
+neurology, endocrinology, and gastroenterology. This exemplifies how basic
+research programs can yield unexpected therapeutic dividends.
+
+## Sandoz and Psilocybin
+
+In addition to LSD, Sandoz played a role in the early history of synthetic
+psilocybin. Following Albert Hofmann's identification of psilocybin and
+psilocin as the active principles of Psilocybe mushrooms in 1958-1959,
+Sandoz produced synthetic psilocybin under the name Indocybin for research
+purposes. The company distributed psilocybin to investigators studying its
+potential therapeutic applications in psychiatry, much as it had done with
+LSD under the Delysid program. See [[sandoz-delysid-research-program]],
+[[hofmann-sandoz-crisis-lsd-withdrawal]]

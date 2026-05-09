@@ -53,41 +53,8 @@ The combination of low dose (6-10 mg), slow onset (2-3 hours), and long duration
 - Deep philosophical and introspective thought
 - Significant time distortion
 - Long, gradual comedown
-- More intense than [[2c-d-compound-profile]] or [[2c-c-compound-profile]]
-- Approaches the character of [[dom-compound-profile]] in depth despite being a phenethylamine
-- Physical discomfort at lower doses (back pain, body tension) that some subjects attributed to pre-existing conditions
-- Prolonged aftereffects -- one subject reported beneficial internal processes continuing for a week
-- Can be physically exhausting despite the phenethylamine skeleton (no stimulant)
-- Not recommended for group settings -- "it would lend itself too easily to hypnotic power-games"
-
-## Pharmacology
-
-The extended propyl chain at the 4-position provides high lipophilicity, which contributes to both the long duration and high potency. The compound is a 5-HT2A agonist. See [[phenethylamine-receptor-pharmacology]] and [[phenethylamine-chemistry-basics]].
-
-### Detailed Pharmacological Profile
-
-2C-P acts primarily as a serotonin 5-HT2A receptor agonist, the same receptor target responsible for the psychedelic effects of LSD, psilocin, and mescaline. The propyl substitution at the 4-position significantly modulates its pharmacokinetic properties:
-
-- **Binding affinity**: The 4-n-propyl chain increases lipophilicity compared to shorter chain homologues (2C-B, 2C-C, 2C-D), resulting in higher membrane permeability and greater blood-brain barrier penetration. This increased lipophilicity directly contributes to the compound's high potency -- the effective dose is 6-10 mg, compared to 12-24 mg for 2C-B and 20-80 mg for 2C-D
-- **Duration mechanism**: The extended duration of 2C-P (10-16 hours) is unusual for a phenethylamine and is attributed to the propyl chain's resistance to hepatic monoamine oxidase (MAO) degradation. Shorter alkyl chains at the 4-position are metabolized more rapidly, which is why 2C-D (4-methyl) lasts only 4-6 hours and 2C-B (4-bromo) lasts 4-8 hours. The propyl chain's bulk creates a steric hindrance that slows enzymatic breakdown
-- **Receptor selectivity**: While 5-HT2A agonism is the primary mechanism, 2C-P likely has activity at other serotonin receptor subtypes (5-HT2C, 5-HT1A) that contribute to its complex subjective effects. The compound's stimulant-like body load at lower doses may reflect 5-HT2C receptor activation, which is associated with anxiety and physical discomfort
-- **Onset characteristics**: The unusually slow onset of 2-3 hours reflects both the time required for gastrointestinal absorption and the compound's pharmacokinetic profile. The high lipophilicity means the compound partitions into fatty tissue before reaching equilibrium with the central nervous system
-
-### Comparative Analysis with Related 2C Compounds
-
-2C-P occupies a specific position within the 2C family based on its 4-position alkyl chain length:
-
-| Compound | 4-Position Substituent | Effective Dose | Duration | Notes |
-|----------|----------------------|---------------|----------|-------|
-| 2C-D | Methyl | 20-80 mg | 4-6 hours | Mildest 2C, "pharmacological tofu" |
-| 2C-C | Chloro | 20-40 mg | 4-8 hours | Moderate, good body feel |
-| 2C-B | Bromo | 12-24 mg | 4-8 hours | Most popular 2C, empathogenic qualities |
-| 2C-P | n-Propyl | 6-10 mg | 10-16 hours | Most potent and longest-lasting 2C |
-| 2C-I | Iodo | 14-22 mg | 6-10 hours | More visual, heavier body load |
-| 2C-T-2 | Ethylthio | 5-20 mg | 6-10 hours | Thiophene, stimulant qualities |
-| 2C-T-7 | Propylthio | 10-30 mg | 8-15 hours | Dangerous, associated with fatalities |
-
-The relationship between chain length and pharmacological effect follows a pattern: increasing alkyl chain length generally increases potency and duration up to a point, after which the compounds become too bulky for efficient receptor binding. 2C-P represents a near-optimal balance where the propyl chain maximizes duration and potency without eliminating receptor affinity. The comparison with the thioether series (2C-T-2, 2C-T-7) is instructive: replacing the alkyl chain with a sulfur-containing chain produces compounds with even longer durations but also greater toxicity, as evidenced by the serious adverse events associated with 2C-T-7. See [[2c-family-chemistry-and-sar-pihkal]] for a detailed structure-activity relationship analysis.
+- More intense than [[2c-c-compound-profile]]
+- Approaches the character of [[phenethylamine-receptor-pharmacology]] and [[2c-family-chemistry-and-sar-pihkal]] for a detailed structure-activity relationship analysis.
 
 ## Overdose Note
 
@@ -111,10 +78,5 @@ The synthesis of 2C-P from PIHKAL reveals several notable challenges for the che
 - The final LAH (lithium aluminium hydride) reduction step is described as "stubborn" with the propyl substrate, requiring H2SO4 activation to achieve reasonable yields. This suggests that the propyl chain creates steric hindrance that impedes the reduction of the nitrostyrene intermediate to the amine
 - The nitrostyrene condensation with nitromethane and ammonium acetate is a standard procedure across the 2C series, but the physical properties of the propyl intermediate make isolation and purification less straightforward than for shorter chain analogues
 - The overall synthesis requires standard organic chemistry laboratory equipment (Friedel-Crafts apparatus, distillation setup, inert atmosphere for LAH reduction) and is not considered accessible to amateur chemists without significant training and facilities
-- Related: [[2c-c-compound-profile]], [[2c-d-compound-profile]], [[2c-b-compound-profile]]
-
-## Related
-
-- [[doet-compound-profile]]
-- [[doc-compound-profile]]
+- Related: [[2c-d-compound-profile]], [[doet-compound-profile]]
 - [[2c-t-7-compound-profile]]

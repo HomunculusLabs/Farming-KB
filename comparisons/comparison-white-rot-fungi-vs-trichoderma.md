@@ -16,7 +16,7 @@ type: comparison
 
 ## Overview
 
-[[white-rot-fungi]] and [[trichoderma-harzianum]] represent two of the most functionally important groups of fungi in environmental and agricultural science. While both are decomposers, they occupy fundamentally different ecological niches, employ distinct biochemical strategies, and serve different human applications.
+[[trichoderma-harzianum]] represent two of the most functionally important groups of fungi in environmental and agricultural science. While both are decomposers, they occupy fundamentally different ecological niches, employ distinct biochemical strategies, and serve different human applications.
 
 White rot fungi are basidiomycetes renowned for their unique ability to degrade lignin, the recalcitrant polymer that gives wood its rigidity. Trichoderma species are ascomycetes celebrated as biological control agents that protect crops from pathogenic fungi. Understanding the differences between these two fungal groups is essential for selecting the right organism for bioremediation, agriculture, or industrial biotechnology applications.
 
@@ -98,11 +98,7 @@ White rot fungi excel in environmental cleanup. Their non-specific oxidative enz
 - Pharmaceutical compounds and endocrine disruptors
 - Agricultural pesticides and herbicides
 
-This makes them invaluable in [[comparison-biochar-remediation-vs-phytoremediation]] strategies for contaminated soils and water. The non-specific nature of their enzyme systems means they can tackle complex pollutant mixtures that would require multiple specialized bacterial strains.
-
-### Biological Control in Agriculture
-
-Trichoderma harzianum is effective against major soilborne and foliar pathogens including *Rhizoctonia solani*, [[integrated-pest-management]] spp., and *Sclerotinia sclerotiorum*. Available formulations include seed treatments, soil drenches, and foliar sprays.
+This makes them invaluable in [[integrated-pest-management]] spp., and *Sclerotinia sclerotiorum*. Available formulations include seed treatments, soil drenches, and foliar sprays.
 
 Trichoderma is compatible with mycorrhizal fungi in integrated pest management systems and is a cornerstone of organic farming practices worldwide. Its multi-mode action reduces the likelihood of pathogens developing resistance compared to single-mechanism chemical fungicides.
 
@@ -133,8 +129,4 @@ Trichoderma-based biocontrol products are marketed worldwide under various trade
 
 While these fungi serve different primary functions, their capabilities can be complementary in integrated systems. White rot fungi can precondition lignocellulosic crop residues, making nutrients more accessible to subsequent decomposers, while Trichoderma protects plant roots from pathogens in the same soil environment. In some agricultural waste management scenarios, white rot fungi initiate the breakdown of woody residues that Trichoderma subsequently completes as the substrate becomes less recalcitrant.
 
-However, direct competition can also occur between these groups. For more on this dynamic, see [[trichoderma-forest-green-mold-guide]] which details cases where aggressive Trichoderma colonization interferes with mushroom cultivation, a direct conflict between these two fungal groups in commercial settings. Understanding both the cooperative and competitive interactions between these fungi is essential for designing effective integrated management strategies in agriculture and forestry.
-
-## See Also
-
-- [[comparison-trichoderma-vs-bacillus]]
+However, direct competition can also occur between these groups. For more on this dynamic, see [[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]]

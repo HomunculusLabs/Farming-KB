@@ -126,16 +126,9 @@ It remains a benchmark strain used to evaluate new cultivars and breeding progra
 Chemdawg's influence is comparable to that of foundational wine grape varieties like Pinot Noir in viticulture.
 
 ## See Also
-- [[sour-diesel|Sour Diesel]]
 - [[og-kush|OG Kush]]
-- [[girl-scout-cookies|Girl Scout Cookies]]
 - [[gorilla-glue|Gorilla Glue]]
-- [[cannabis-sativa|Cannabis sativa]]
 - [[cannabis-indica|Cannabis indica]]
-- [[headband|Headband]]
 - [[myrcene|Myrcene]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid|Caryophyllene]]
-- Sunset Sherbet
 - [[sfv-og]]
-- [[stardawg]]
 - [[skywalker-og]]

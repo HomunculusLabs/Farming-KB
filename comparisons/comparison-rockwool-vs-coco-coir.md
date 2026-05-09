@@ -15,40 +15,6 @@ impact, and overall grower experience. Understanding the strengths and
 weaknesses of each medium is essential for selecting the right substrate
 for your specific grow style, system type, and operational goals.
 ## Rockwool
-[[rockwool-cannabis]]
-Rockwool is an inert, sterile, porous, non-degradable growing medium
-produced by melting volcanic basalt rock at extreme temperatures and
-spinning it into fine fibers. It is the most popular hydroponic substrate
-worldwide, prized across commercial and hobbyist grows for its exceptional
-consistency and predictability from batch to batch.
-With approximately 90% porosity, rockwool provides an excellent
-water-to-air ratio that promotes dense, healthy root development.
-The fibrous structure wicks nutrient solution evenly while maintaining
-air pockets around root zones. However, rockwool has zero cation-exchange
-capacity (CEC), meaning it cannot hold, store, or buffer nutrients
-in any way. Roots must be constantly bathed in nutrient solution
-to access what they need, making feeding schedules critical.
-Rockwool is available in cubes, blocks, and slabs sized for all growth
-stages, from small propagation cubes for seedlings to large slabs for
-mature flowering plants. It is compatible with all major hydroponic
-systems including ebb-and-flow, drip, NFT, and DWC.
-Key advantages of rockwool:
-- Completely sterile and pathogen-free straight out of the package
-- Highly consistent and predictable across every batch and manufacturer
-- Acts as a powerful diagnostic tool since nutrient deficiencies
-  directly reflect solution composition without any interference
-  from the medium itself
-- Excellent drainage and aeration properties that reduce overwatering risk
-- Readily available in pre-formed shapes tailored to every growth stage
-Drawbacks of rockwool:
-- Zero nutrient buffering means any interruption in feeding
-  immediately stresses plants
-- High natural pH of 7.0 to 8.0 requires pre-conditioning
-  in pH-adjusted water before use
-- Non-biodegradable material that contributes to landfill waste
-- Fibrous dust is highly irritating to skin, eyes, and lungs
-  without protective gloves and mask
-## Coco Coir
 [[coco-coir-cannabis]]
 Coco coir is a natural, renewable growing medium made from the fibrous
 husks of coconuts. It is suitable for hydroponic, soilless, and
@@ -120,6 +86,5 @@ leverages rockwool's cleanliness for the vulnerable propagation phase and
 coco coir's buffering capacity, sustainability, and forgiving moisture
 retention for the vegetative and flowering stages.
 ## See Also
-- [[comparison-coco-coir-vs-peat]]
 - [[comparison-perlite-vs-vermiculite]]
 - [[cannabis-growing-mediums]]

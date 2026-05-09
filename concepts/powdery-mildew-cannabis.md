@@ -125,11 +125,7 @@ When powdery mildew appears:
 
 ## See Also
 
-- [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] — another common cannabis fungal disease
 - [[cannabis-root-rot-prevention-and-treatment]] — fungal disease affecting the root system
-- [[cannabis-pest-management-guide]] — comprehensive IPM strategies
 - [[humidity-cannabis-growing]] — environmental management
-- [[cannabis-disease-guide]] — broader disease reference
 - [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[hamilton-pest-and-disease-control-organic]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]

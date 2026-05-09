@@ -60,17 +60,7 @@ The classic food forest model, as articulated by Robert Hart, organizes plants i
 - Function: Dense berry production, wildlife habitat, nitrogen fixation (eleagnus, caragana), pollinator forage
 ### 4. Herbaceous Layer (0.3–1.5 meters)
 - Perennial herbs, vegetables, and medicinal plants
-- Species: [[comfrey]] (*Symphytum* spp.), [[ashwagandha]] (*Withania somnifera*), [[melissa-officinalis]] (*Melissa officinalis*), mint, lovage, Good King Henry, perennial kale, sea kale, sorrel, artichoke, cardoon
-- Function: Nutrient cycling (dynamic accumulators), culinary and medicinal harvests, pollinator attraction, ground cover
-
-### 5. Ground Cover Layer (0–15 cm)
-- Low-growing, spreading plants that form a living mulch
-- Species: Creeping thyme, wild strawberry (*Fragaria vesca*), creeping jenny, clover (*Trifolium repens*), wintergreen, Corsican mint, sweet woodruff
-- Function: Weed suppression, soil moisture retention, nitrogen fixation (clovers), erosion control, living mulch
-
-### 6. Root Layer (0–60+ cm depth)
-- Edible root crops and tubers occupying the underground niche
-- Species: Jerusalem artichoke (*Helianthus tuberosus*), [[moringa-oleifera]] roots, groundnut (*Apios americana*), licorice (*Glycyrrhiza glabra*), arrowhead (*Sagittaria* spp.), yacon (*Smallanthus sonchifolius*), mashua, oca, earthnut pea
+- Species: [[withania-somnifera]] (*Withania somnifera*), [[moringa-oleifera]] roots, groundnut (*Apios americana*), licorice (*Glycyrrhiza glabra*), arrowhead (*Sagittaria* spp.), yacon (*Smallanthus sonchifolius*), mashua, oca, earthnut pea
 - Function: Underground food production, deep soil penetration, soil aeration, nutrient mining from deep layers
 
 ### 7. Vine/Climber Layer (vertical, using other layers for support)
@@ -134,16 +124,10 @@ Sector analysis maps external energies (sun, wind, fire risk, wildlife corridors
 ### Establishment Timeline
 ## See Also
 
-- [[permaculture]] — The design framework underlying food forest principles
 - [[hugelkultur]] — Mound-based bed-building technique often used in food forest establishment
-- [[dynamic-accumulators]] — Plants that mine nutrients from deep soil layers for food forest guild design
 - [[comfrey]] — Key dynamic accumulator and mulch crop in temperate food forests
-- [[mycoforestry]] — Integration of fungi into forest management systems
 - [[robert-hart]] — Pioneer of the modern temperate food forest concept
-- [[geoff-lawton]] — Permaculture designer and food forest practitioner
 - [[rhus-typhina]]
-- [[polygonum-multiflorum]]
 - [[punica-granatum]]
-- [[morinda-citrifolia]]
 - [[arctostaphylos-uva-ursi]]
 - [[thuja-occidentalis]]

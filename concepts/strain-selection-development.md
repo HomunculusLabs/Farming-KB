@@ -10,21 +10,7 @@ sources:
 
 # Strain Selection and Development
 
-Strain selection and development is the process by which [[cotter-outdoor-mushroom-garden-mulch-beds]] cultivators identify, isolate, and improve genetic lines for optimal fruiting performance. paul stamets devotes significant attention to this topic in The Mushroom Cultivator, particularly in the context of sectoring and mycelial morphology.
-
-## Mycelial Types
-
-As mycelium grows on nutrient agar, it can display remarkable diversity of form. Two major classes of mycelial sectors are recognized:
-
-- **Rhizomorphic (strandy) mycelium**: Characterized by twisted strands of interwoven hyphae. Hyphae are larger and branch less frequently than cottony types. Rhizomorphic mycelium runs faster, forms more primordia, and yields more mushrooms.
-
-- **Tomentose (cottony) mycelium**: A slower-growing, fluffy type. There is a correlation between cottony mycelium on agar and the later occurrence of "stroma" — a dense mat-like growth on the casing which rarely produces mushrooms. Primordia rarely form on somatically disposed cottony mycelium.
-
-- **Linear (intermediate) mycelium**: Grows longitudinally radial but lacks the twisted strands of rhizomorphic hyphae. Can produce abundant primordia, but usually only after forming rhizomorphs.
-
-## The Importance of Rhizomorphism
-
-A single wedge of mycelium transferred to a petri dish may produce both strandy and cottony sectors. The stringy sector forms abundant primordia while the cottony sector does not — an event common in [[agar-culture-techniques-detailed]]. Primordia frequently form along generatively oriented rhizomorphs.
+Strain selection and development is the process by which [[agar-culture-techniques-detailed]]. Primordia frequently form along generatively oriented rhizomorphs.
 
 ## Strain Degeneration
 
@@ -36,8 +22,7 @@ Stamets outlines five strategies for preventing strain degeneration:
 
 1. **Propagate only rhizomorphic sectors** and avoid cottony ones.
 2. **Alter the media regularly** using different agar formulas. Growing a strain on the same formula exerts selective influence on enzyme capability. By varying media, the strain's enzyme system remains broadly based.
-3. **Limit transfers** — only grow out the mycelium needed for [[mushroom-grain-spawn-preparation]] and return the strain to storage when not in use. After many cell divisions and continual transfers, a sub-strain may be selected that distantly resembles the original in vitality, appearance, and fruiting potential.
-4. **Re-isolate new substrains** from [[spore-syringe-production]] germinations when efforts to preserve a vital strain fail.
+3. **Limit transfers** — only grow out the mycelium needed for [[spore-syringe-production]] germinations when efforts to preserve a vital strain fail.
 5. **Create hybrid strains** by mating dikaryotic mycelia of two genetically distinct parents. Experiments with agaricus-brunnescens have shown most hybrids yield less than both contributing strains, but a minority result in more productive strains.
 
 ## Nutritional Influence on Sectoring
@@ -69,9 +54,7 @@ For long-term preservation, a thin layer of sterile mineral oil over live myceli
 
 ## See Also
 
-- [[mushroom-genetics-strain-selection]]
 - [[mushroom-sectoring-strain-development]]
-- [[agar-culture-techniques-detailed]]
 - [[wild-specimen-isolation]]
 - [[grain-to-grain-transfer]]
 

@@ -125,11 +125,8 @@ levels.
 
 ## See Also
 
-- [[afghan-kush]]
 - [[og-kush]]
-- [[bubba-kush]]
 - [[master-kush]]
-- [[cannabis-indica]]
 - [[cannabis-sativa]]
 - hashish
 - charas

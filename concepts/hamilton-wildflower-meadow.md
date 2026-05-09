@@ -72,15 +72,9 @@ Do not buy forget-me-not (Myosotis alpestris) seeds. Simply pull up a seeded pla
 
 ## Related Concepts
 
-- [[hamilton-annual-flowers-organic]]
 - [[hamilton-perennial-flowers-organic]]
-- [[hamilton-rock-garden-design]]
 - [[hamilton-shade-garden-plants]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book
 - [[fukuoka-vegetable-growing-natural-method]]
-- [[garden-myths-native-plants-and-invasive-species]]
 - [[organic-lawn-care-hamilton]]
 
 ## Establishment Timeline and Management

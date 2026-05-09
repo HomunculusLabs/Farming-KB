@@ -115,11 +115,7 @@ allowing nature to recover its ability to nurture all forms of life.
 
 ## See Also
 
-- [[do-nothing-farming]]
 - [[natural-farming]]
-- [[masanobu-fukuoka]]
 - [[green-manure-cover-crops]]
-- [[no-till-agriculture]]
-- [[seed-balls]]
 - [[natural-diet]]
-- [[desert-greening]]
+- desert greening

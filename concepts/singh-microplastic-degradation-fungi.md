@@ -42,23 +42,8 @@ Fungi deploy several enzyme classes to attack synthetic polymers:
   effective against similar synthetic bonds. *Fusarium solani* cutinase
   was among the first shown to degrade PET.
 - **Laccases**: These multicopper oxidases, central to
-  [[singh-fungal-laccase-enzymes-bioremediation]], oxidize phenolic structures
-  in polystyrene and aromatic polymers through radical generation.
-- **Peroxidases**: Including [[singh-manganese-peroxidase-mnp-biodegradation]] and
-  [[singh-lignin-peroxidase-lip-fungal-degradation]], these generate reactive radical
-  species capable of attacking polyolefins (PE, PP).
-- **Lipases and proteases**: Broad-specificity enzymes hydrolyzing
-  aliphatic polyester chains and polyamide (nylon) bonds.
-
-### Non-Enzymatic Mechanisms
-
-Beyond direct enzymatic attack, fungi contribute through:
-
-- **Acid production**: Oxalic, citric, and other organic acids chemically
-  erode plastic surfaces, increasing bioavailability for enzymes
-- **Hyphal penetration**: Physical penetration into microcracks
-  mechanically disrupts polymer structure
-- **Biofilm formation**: [[singh-fungal-biofilms-in-contaminated-environments]] create localized
+  [[singh-manganese-peroxidase-mnp-biodegradation]] and
+  [[singh-fungal-biofilms-in-contaminated-environments]] create localized
   microenvironments with concentrated enzyme activity
 
 ## Key Fungal Species for Microplastic Degradation
@@ -74,61 +59,9 @@ enzymes.
 
 *Fusarium oxysporum* and *F. solani* are particularly effective against
 PET and PUR through cutinase production. They also produce
-[[singh-cytochrome-p450-fungal-bioremediation]] participating in oxidative
-degradation of polymer additives.
-
-### White-Rot Fungi
-
 [[singh-white-rot-fungi-lignin-modifying-enzymes]] such as *Phanerochaete chrysosporium*,
 *Pleurotus ostreatus*, and *Trametes versicolor* deploy their
-[[singh-ligninolytic-enzymes-fungal-bioremediation]] against recalcitrant
-polymers. Their nonspecific radical-based oxidation attacks chemically
-inert polyolefins that resist enzymatic hydrolysis.
-
-### *Penicillium* and *Trichoderma* spp.
-
-*Penicillium funiculosum* shows extensive surface pitting of polyethylene.
-*Trichoderma reesei* cellulase cocktails cross-react with cellulose-acetate
-blends and modified bioplastics.
-
-## Factors Affecting Degradation
-
-### Polymer Properties
-
-- **Crystallinity**: Highly crystalline polymers resist enzymatic access;
-  amorphous regions degrade preferentially
-- **Molecular weight**: Higher molecular weight chains are more resistant
-- **Additives**: Plasticizers and stabilizers can inhibit or facilitate
-  fungal colonization
-- **Surface area**: Thin films and microplastic particles degrade faster
-
-### Environmental Conditions
-
-Optimal degradation occurs at species-specific temperatures (typically
-25-30 degrees C for mesophiles) with adequate moisture. Pre-treatments
-including UV exposure, thermal treatment, or chemical oxidation can
-pre-condition plastic surfaces for enhanced fungal attack.
-
-## Measurement and Assessment
-
-Degradation is assessed through multiple complementary methods:
-
-- **Weight loss measurement**: Gravimetric analysis of residual plastic
-  mass
-- **Scanning electron microscopy (SEM)**: Surface morphology changes
-  including pitting, cracking, and hyphal attachment
-- **FTIR spectroscopy**: Detection of carbonyl and hydroxyl groups
-  indicating polymer oxidation
-- **Gel permeation chromatography (GPC)**: Reduction in molecular weight
-  distribution
-- **GC-MS**: Identification of oligomeric degradation products
-- **CO2 evolution assays**: Mineralization through respirometry
-
-## Integration with Remediation Systems
-
-Fungal microplastic degradation integrates with
 [[singh-fungal-composting-bioremediation-contaminated-soils]] of contaminated organic waste,
-[[singh-fungal-bioreactor-types-configurations]] for effluent treatment, and
 [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]] for contaminated soils.
 
 ## Challenges and Future Outlook
@@ -143,8 +76,6 @@ Fungal microplastic degradation integrates with
    environments
 5. **Nanoplastic formation**: Biodegradation may generate nanoplastics
    with unknown environmental behavior
-
 ## See Also
 
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]

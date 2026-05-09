@@ -125,8 +125,6 @@ psychoactive substance design.
 
 ## See Also
 
-- [[lsd]]
 - [[lsd-entity-tihkal]]
-- [[ergine-lsa]]
 - [[lsz-entity]]
 - [[eth-lad-entity-tihkal]]

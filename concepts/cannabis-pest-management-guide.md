@@ -10,9 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, [[greg-green]] (Ch. 15)
-
-Pest management is an essential skill for cannabis growers. Pests can quickly devastate a crop if not identified and treated promptly. Green emphasizes prevention first, with [[integrated-pest-management]] (IPM) as the standard approach.
+Source: The Cannabis Grow Bible, [[integrated-pest-management]] (IPM) as the standard approach.
 
 ## Prevention (First Line of Defense)
 
@@ -47,27 +45,7 @@ The most effective pest management is preventing pests from entering your grow s
 
 **Treatment**:
 - **Spray with water**: A strong blast of water can dislodge mites (temporary)
-- **[[neem]] oil**: Diluted neem oil spray (per label directions) applied to leaf undersides
-- **Insecticidal soap**: Effective against mites, less toxic than chemical sprays
-- **Predatory mites**: Release predatory mites (Phytoseiulus persimilis) as biological control
-- **Chemical miticides**: As a last resort — follow label directions and respect pre-harvest intervals
-- **Repeat treatments**: Spider mites have a rapid life cycle (7 days) — repeat treatments every 3–5 days until eliminated
-
-### Fungus Gnats
-
-**Identification**: Small (2–3mm) dark flying insects around the soil surface. Larvae live in the soil and feed on roots.
-
-**Signs**:
-- Tiny flies hovering around plants and soil surface
-- Small white larvae visible in the soil
-- Poor plant growth from root damage
-- Yellowing leaves from root stress
-
-**Treatment**:
-- **Yellow sticky traps**: Catch flying adults and monitor populations
-- **Allow soil to dry**: Larvae need moist soil — letting the top inch dry between waterings reduces populations
-- **Neem oil drench**: Water with diluted neem oil to kill larvae in soil
-- **BTI (Bacillus thuringiensis israelensis)**: Mosquito dunks or Gnatrol added to water — kills larvae
+- **[[bacillus-thuringiensis]] israelensis)**: Mosquito dunks or Gnatrol added to water — kills larvae
 - **Sand layer**: Apply a thin layer of sand or diatomaceous earth on the soil surface to prevent egg-laying
 
 ### Thrips
@@ -122,7 +100,7 @@ The most effective pest management is preventing pests from entering your grow s
 
 **Treatment**:
 - Hand-picking (for small numbers)
-- BTI spray (Bacillus thuringiensis)
+- BTI spray (bacillus thuringiensis)
 - Spinosad spray
 - Physical barriers (row covers)
 
@@ -146,3 +124,7 @@ Green favors organic methods:
 
 ## See Also
 - cannabis pest management guide
+
+## See Also
+
+- [[natural-farming-guide-integrated-pest-management]]

@@ -23,33 +23,6 @@ suitability for different climates and budgets.
 
 ## Walipini (Underground Greenhouse)
 
-[[underground-greenhouse-walipini]]
-
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-
-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing
-temperatures year-round. By digging the growing area 6 to 8 feet below grade and
-covering it with a glazed roof, the walipini harnesses passive solar heating combined
-with geothermal insulation. The earth below the frost line maintains approximately 50
-to 60 degrees F year-round, insulating the growing space on three sides.
-
-The walipini uses three thermal processes: earth sheltering (geothermal insulation from
-surrounding earth), passive solar heating (south-facing angled roof capturing low-
-angle winter sunlight), and thermal mass (earth walls and floor absorb heat during day
-and release it at night). Temperature performance ranges from 60 to 80 degrees F on
-sunny winter days (even when outside is 0 to 20 degrees F) to 40 to 55 degrees F at
-night, maintaining 10 to 25 degrees above outside temperature without supplementary
-heating.
-
-Design principles include facing south (Northern Hemisphere), angling the glazing at
-latitude plus 10 to 15 degrees for maximum winter solar capture, ensuring proper
-drainage to prevent flooding, and providing adequate ventilation to prevent
-overheating in summer. Construction materials include pond liner for waterproofing,
-lumber or metal for framing, and rigid polycarbonate or glass for glazing. The main
-challenge is moisture management: waterproofing must be excellent, and condensation
-can be problematic without proper ventilation.
-
-## Greenhouse
-
 [[greenhouse-growing]]
 
 A conventional greenhouse is a structure with glazed walls and roof that captures
@@ -116,14 +89,8 @@ partial earth sheltering on the north wall while maintaining glazed walls on the
 remaining sides, balancing thermal performance with light access. Adding thermal mass
 (water barrels, stone walls) to a conventional greenhouse approximates some walipini
 thermal stability without excavation. A walipini can be built with additional glazed
-wall sections on the south face to increase light penetration. [[cold-frame-gardening]] structures attached to a walipini or greenhouse extend the system further.
+wall sections on the south face to increase light penetration. [[comparison-high-tunnel-vs-walipini]]
 
-## See Also
-
-- [[comparison-high-tunnel-vs-walipini]]
-
-- [[greenhouse-growing]]
 - [[cold-frame-gardening]]
-- [[passive-solar-design]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]

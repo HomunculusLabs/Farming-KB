@@ -68,19 +68,7 @@ degrees C from MeOH).
 
 (7) LAH reduction with H2SO4 modification to give 2,5-dimethoxy-3,4-
 (trimethylene)phenethylamine hydrochloride (2C-G-3) with mp 214-216 degrees C
-with decomposition (1.16 g).
-
-## Extensions and Commentary
-
-The positives of a completely intriguing altered state free from apparent
-physical threats, are here coupled with the negative of having to invest such a
-long period of time. There is a merry nuttiness which can give a joyous
-intoxication, but with the underlying paranoia of how it looks to others. There
-is an ease of communication, but only within surroundings that are well-known
-and friendly. This might be a truly frightening experience if it were in an
-unfamiliar or unstructured environment.
-
-The numbering of this compound, and all the extensions of [[ganesha-entity]],
+with [[ganesha-entity]],
 have been made on the basis of the nature of the stuff at the 3,4-position.
 Here there are three atoms (the trimethylene bridge) and so 2C-G-3 seems
 reasonable. With this logic, the dimethylene bridge would be 2C-G-2 (and the
@@ -96,10 +84,6 @@ concept discussed under IDNNA. It has never been tasted by anyone.
 
 ## Related Compounds
 
-- [[2c-g-entity]] -- 2,5-dimethoxy-3,4-dimethylphenethylamine
-
 - [[2c-g-5-entity]] -- the benzonorbornane analogue
-
-- [[ganesha-entity]] -- the amphetamine version (3,4-trimethylene)
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology

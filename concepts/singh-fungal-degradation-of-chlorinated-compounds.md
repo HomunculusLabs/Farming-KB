@@ -30,9 +30,8 @@ industrial applications before their ban under the Stockholm Convention. Their
 chemical stability and hydrophobicity make them extremely persistent in soil
 and sediment matrices.
 
-White-rot fungi such as [[phanerochaete-chrysosporium]], [[trametes-versicolor]], and
-[[pleurotus-ostreatus]] degrade PCBs through their lignin-modifying enzyme (LME)
-systems (see [[singh-white-rot-fungi-lignin-modifying-enzymes]]). Lignin
+White-rot fungi such as [[trametes-versicolor-entity]], and
+[[singh-white-rot-fungi-lignin-modifying-enzymes]]). Lignin
 peroxidase (LiP) and manganese peroxidase (MnP) initiate oxidation of PCBs
 through one-electron transfers, generating aryl radicals that undergo further
 reactions including hydroxylation, ring opening, and dechlorination.
@@ -80,46 +79,7 @@ degradation pathways include:
   dehydrochlorination and ring opening. Mucor, Fusarium, and Trichoderma
   species have demonstrated lindane transformation.
 - **Endosulfan**: Oxidation to endosulfan sulfate and hydrolysis to endosulfan
-  diol, with subsequent degradation. [[trichoderma-harzianum]] shows notable
-  endosulfan degradation capacity.
-
-## Reductive Dechlorination by Fungi
-
-Under anaerobic or microaerophilic conditions, some fungi can reductively
-dechlorinate organochlorine compounds. This process involves replacement of
-chlorine substituents with hydrogen atoms, progressively reducing both the
-toxicity and persistence of the parent compound. Reductive dechlorination is
-particularly important for highly chlorinated congeners that resist oxidative
-attack.
-
-## Factors Affecting Fungal Degradation
-
-Key factors influencing fungal degradation of chlorinated compounds include
-bioavailability (often limited by sorption to soil organic matter), oxygen
-availability for oxidative enzymatic systems, nutrient status (especially
-nitrogen limitation for inducing ligninolytic enzymes), pH, temperature, and
-the presence of co-substrates that stimulate ligninolytic metabolism.
-
-## Environmental Factors Affecting Degradation
-
-Beyond the basic factors listed above, several environmental conditions
-specifically influence fungal degradation of chlorinated compounds:
-
-- **Bioavailability limitations**: Highly hydrophobic chlorinated compounds
-  (log Kow > 5) strongly sorb to soil organic matter, limiting access to
-  fungal enzymes. Surfactant addition or soil organic matter reduction can
-  improve bioavailability but may also affect fungal physiology.
-- **Soil moisture**: Optimal moisture content (50-70% water-holding capacity)
-  supports fungal growth and enzyme diffusion. Waterlogged conditions limit
-  oxygen availability for oxidative enzymes.
-- **Competing substrates**: Natural organic matter competes for enzyme active
-  sites, potentially reducing degradation rates of target chlorinated compounds.
-  However, co-substrates can also induce ligninolytic enzyme systems.
-
-## Bioremediation Applications
-
-Field applications of fungal chlorinated compound degradation include
-composting of contaminated soils, [[singh-bioreactor-design-for-fungal-bioremediation]] systems for treating groundwater, and direct inoculation of
+  diol, with subsequent degradation. [[singh-bioreactor-design-for-fungal-bioremediation]] systems for treating groundwater, and direct inoculation of
 contaminated sites with white-rot fungi. Combination approaches pairing
 fungal oxidative degradation with bacterial reductive dechlorination offer
 promising strategies for complete mineralization of recalcitrant chlorinated
@@ -127,8 +87,5 @@ pollutants.
 
 ## Related
 
-- [[fungal-chlorinated-aromatic-degradation]] Concepts
-
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
-- [[singh-bioreactor-design-for-fungal-bioremediation]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]

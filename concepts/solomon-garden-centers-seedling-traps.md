@@ -103,41 +103,12 @@ their structural tissues are not reinforced. Commercial seedling growers
 crank up the heat (there is no wind inside a hothouse) and after four
 weeks, move these large-looking seedlings directly to the sales bench.
 
-These soft seedlings have not been [[solomon-transplanting-and-hardening-off]].
-When planted directly into the garden, they suffer severe transplant shock,
-wilting, sunburn, and often death.
-
-## The Economic Case for Growing Your Own
-
-The vegetable garden can be an astonishingly sensible economic venture.
-Even where the winter is hard, the garden can supply the kitchen for
-several more months than most people expect. But for all these good things
-to happen, the garden has to be given the same degree of attention that
-other enthusiasts give to selecting fishing lures, modifying automobiles,
-or refining golf swings.
-
-Growing your own seedlings costs a fraction of buying them. A packet of
-quality seed costs two to five dollars and produces dozens or hundreds of
-plants. Buying the same number of seedlings at a garden center might cost
-fifty to two hundred dollars. More importantly, you control the variety,
-the timing, and the hardening-off process.
-
-## The Better Approach
-
-Solomon's alternative is straightforward:
-
-1. Buy quality open-pollinated seed from reputable catalogs. See
-   [[solomon-choosing-seeds-and-catalogs]].
+These soft seedlings have not been [[solomon-choosing-seeds-and-catalogs]].
 2. Start your own seedlings at the right time using proper techniques.
-   See [[solomon-seed-starting-transplanting]].
-3. Harden off seedlings properly before setting them out.
-4. Direct-seed crops that do not transplant well. See
-   [[solomon-thinning-spacing-and-direct-seeding]].
+   See [[solomon-thinning-spacing-and-direct-seeding]].
 
 ## Related Topics
 
-- [[solomon-seed-starting-transplanting]]
 - [[solomon-transplanting-and-hardening-off]]
-- [[solomon-choosing-seeds-and-catalogs]]
 - [[solomon-thinning-spacing-and-direct-seeding]]
 - [[solomon-hybrid-vs-open-pollinated]]

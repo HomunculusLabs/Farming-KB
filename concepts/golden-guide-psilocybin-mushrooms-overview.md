@@ -127,8 +127,6 @@ intoxication.
 
 ## See Also
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-amanita-muscaria-and-soma]]
-- [[golden-guide-morning-glory-and-ololiuqui]]
 - [[golden-guide-peyote-and-mescaline-cacti]]
 - [[golden-guide-datura-and-nightshade-deliriants]]

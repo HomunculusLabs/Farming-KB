@@ -115,8 +115,6 @@ This stands in stark contrast to conventional hillside agriculture, which tends 
 
 ## Related Topics
 
-- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]] for integrating gardens with orchards
 - [[fukuoka-textdoc-orchard-terracing-slope-management]] for terracing techniques
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]] for wood preserve integration
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]] for soil building without chemicals
 - [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]] for cover crop management

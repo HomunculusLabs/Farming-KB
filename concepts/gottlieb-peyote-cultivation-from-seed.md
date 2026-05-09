@@ -136,8 +136,6 @@ It is also possible to increase the macromerine and nor-macromerine content of
 Coryphantha macromeris (Donana) cacti using tyramine or DL-norepinephrine as
 precursors. Injections should be given 20-25 days before harvesting. Series of
 injections can be given 45 days apart for higher alkaloid accumulation.
-- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
 - [[jadam-leaf-mold-soil-method]]
-- [[mescaline-peyote-san-pedro-cactus]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[gottlieb-peyote-botany-and-mescaline-content]]

@@ -30,55 +30,9 @@ sources:
 # Allicin
 
 Allicin (diallyl thiosulfinate) is an organosulfur compound responsible for the characteristic pungent aroma
-and many of the bioactive properties of freshly crushed garlic (*Allium sativum*). It does not exist as a
-stable molecule in intact garlic cloves but is enzymatically generated within seconds of tissue disruption
-when the enzyme alliinase (EC 4.4.1.4) converts the non-proteinogenic amino acid alliin (S-allyl-L-cysteine
-sulfoxide) into allicin. First isolated and characterized by Cavallito and Bailey in 1944, allicin remains
-one of the most studied plant-derived antimicrobial compounds, with demonstrated activity against a broad
-spectrum of pathogens and significant cardiovascular and immunomodulatory effects.
-
-## Chemical Properties
-
-- **Molecular formula:** C₆H₁₀OS₂
-- **Molecular weight:** 162.27 g/mol
-- **IUPAC name:** prop-2-ene-1-sulfinothioic acid S-allyl ester
-- **Structure type:** Thiosulfinate (R-S(O)-S-R') with two allyl groups
-- **Appearance:** Colorless to pale yellow oily liquid at room temperature
-- **Odor:** Intensely pungent, characteristic fresh garlic smell detectable at ppb concentrations
-- **Solubility:** Moderately soluble in water (2.4 mg/mL); readily soluble in ethanol, ether, and chloroform
-- **Stability:** Highly reactive and unstable; half-life of ~16 hours at 23°C in aqueous solution,
-  degrading to diallyl sulfide, diallyl disulfide, ajoene, and other polysulfides
-- **Reactivity:** Strong electrophile that reacts with free thiol (-SH) groups on cysteine residues and
-  glutathione; this thiol reactivity is central to its biological mechanism of action
-
-## Biosynthesis and Formation
-
-Allicin is not stored pre-formed in garlic but is produced through a two-compartment defense system that
-has evolved as a chemical deterrent against herbivores and pathogens. In intact garlic cloves, alliin
-(S-allyl-L-cysteine sulfoxide) is stored in the mesophyll cells at concentrations of 5–14 mg/g fresh
-weight, while alliinase is compartmentalized in vacuole-bound vesicles. Mechanical damage (crushing,
-chopping, or chewing) ruptures the cellular compartments, bringing alliin into contact with alliinase.
-
-The enzymatic conversion is extremely rapid: approximately 80% of available alliin is converted to allicin
-within 20 seconds at room temperature. The reaction produces two molecules of allicin, pyruvate, and
-ammonia. Maximum allicin yield requires thorough crushing (not just slicing) and approximately 10 minutes
-of incubation at room temperature before cooking, as heat rapidly denatures alliinase (inactivation begins
-at ~45°C, complete at ~80°C).
-
-## Pharmacology and Mechanism of Action
-
-Allicin's bioactivity is primarily mediated through its potent electrophilic reactivity with biological
-thiols, which allows it to modify critical cysteine residues in enzymes, structural proteins, and
-signaling molecules.
-
-### Antimicrobial Activity
-Allicin exhibits broad-spectrum antimicrobial activity through thiol-dependent mechanisms:
-- Reacts with thiol-containing enzymes essential for microbial metabolism, including alcohol dehydrogenase,
-  thioredoxin reductase, and cysteine proteases
-- Disrupts bacterial cell wall biosynthesis by inhibiting SH-dependent enzymes in peptidoglycan synthesis
-- Active against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*, MRSA at
+and many of the bioactive properties of freshly crushed garlic (*[[bacillus-subtilis]]*, MRSA at
   MIC values of 8–32 µg/mL), Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*,
-  *Helicobacter pylori*), fungi (*Candida albicans*, *Cryptococcus neoformans*), and parasites
+  *Helicobacter pylori*), fungi (*[[cryptococcus-neoformans]]*), and parasites
   (*Giardia lamblia*, *Entamoeba histolytica*)
 - Demonstrates synergistic antimicrobial effects with conventional antibiotics, partially reversing
   methicillin resistance in MRSA by disrupting efflux pump function
@@ -131,20 +85,6 @@ Garlic serves as a multifunctional companion plant in permaculture and organic a
   effective as broad-spectrum insecticide at 1–2% extract concentrations
 - **Fungicidal properties:** Soil drenches suppress Fusarium, Pythium, and Rhizoctonia; seed treatment
   reduces damping-off by 40–60%
-- **Companion planting:** Interplanting with roses, tomatoes, peppers, and brassicas reduces pest pressure
-  through volatile allicin release; the alliinase defense system is constitutively active
-- **Soil health:** Garlic accumulates sulfur efficiently, enriching soil sulfur availability for subsequent crops
+- **[[candida-albicans]]
 
-## Safety
-
-Allicin is GRAS at dietary levels. Excessive raw garlic (>4–5 cloves/day) causes GI irritation and nausea.
-Topical application causes contact dermatitis and skin burns. Potentiates anticoagulants (warfarin, aspirin);
-discontinue 7 days pre-surgery. Not mutagenic in Ames testing.
-
-## See Also
-
-- [[candida-albicans]]
-
-- [[allium-sativum-entity]] — garlic, the biological source of allicin
-- alliin — precursor amino acid sulfoxide stored in intact garlic cloves
 - [[curcumin]] — polyphenol with overlapping anti-inflammatory and cardiovascular mechanisms

@@ -16,43 +16,8 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, N-monomethyl substituted
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: No established oral active dose
-
-- Smoked: 50-100 mg reported to produce brief visuals lasting ~15 seconds
-
-- Duration: Very short (smoked)
-
-- Active routes: smoked (reports); oral activity not established
-
-## Natural Occurrence
-
-NMT is an alkaloid found in the bark, shoots, and leaves of several species
-of Virola, [[acacia]], and Mimosa. However, the major snuffs associated with
-these plants also contain [[5-meo-dmt-entity-tihkal]] and are discussed
-under that entry. NMT's N-hydroxy analogue has also been noted in plants,
-in what Shulgin calls the "DMT is Everywhere" chapter.
-
-## Synthesis
-
-The simplest synthesis is the formamide reduction: tryptamine is refluxed
-with butyl formate to give N-formyltryptamine (mp 170-190°C at 0.1 mm/Hg
-as a glass, 77% yield), which is then reduced with LAH in THF to give NMT
-(bp 135-145°C at 0.1 mm/Hg, mp 90°C, 70% yield). The product darkens rapidly
-on exposure to air.
-
-Alternative syntheses include: reacting 3-(2-bromoethyl)indole with methylamine;
-methylation of tryptamine with methyl iodide followed by benzoylation and
-hydrolysis; and the oxalyl chloride route from indole through N-methylglyoxylamide
-(mp 223-224°C, 68% yield) reduced with LAH (75% yield).
-
-## Nomenclature Note
-
-N-methyltryptamine has occasionally been called MMT, but this creates ambiguity
-since MMT could also mean methyl-methyl tryptamine (which is [[alpha-n-dmt-entity-tihkal]]).
+- Source: [[acacia]], and Mimosa. However, the major snuffs associated with
+these plants also contain [[amt-entity-tihkal]]).
 The convention used in TIHKAL reserves the two letters before "T" for the
 two alkyl groups. N-methyl (mono-substituted) becomes NMT, while dimethyl
 stays as DMT. This avoids confusion.
@@ -66,7 +31,7 @@ systematic variation of N-alkyl substitution, and understanding this progression
 is fundamental to the broader exploration of tryptamine structure-activity
 relationships.
 
-In nature, NMT is found alongside DMT and [[5-meo-dmt]] in a variety of plant
+In nature, NMT is found alongside DMT and [[5-meo-dmt-entity]] in a variety of plant
 species, particularly in the Virola genus (used in South American snuff
 preparations) and various Acacia species (Australian native plants). The
 co-occurrence of NMT with DMT suggests that NMT serves as a biosynthetic
@@ -146,5 +111,4 @@ could potentially be treated as a DMT precursor or analogue under certain
 interpretations. The compound's natural occurrence in numerous plant species
 complicates regulatory approaches. Some jurisdictions may regulate it as a
 precursor chemical.
-
 ## See Also

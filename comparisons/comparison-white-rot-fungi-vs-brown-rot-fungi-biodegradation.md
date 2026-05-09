@@ -21,37 +21,6 @@ decay mechanisms have profound implications for wood ecology, bioremediation
 potential, mushroom cultivation, and forest management.
 
 ## White Rot Fungi
-[[white-rot-fungi]]
-
-White rot fungi are a diverse group of basidiomycetes that possess the unique
-ability to completely mineralize lignin, the complex aromatic polymer that makes
-up 20-30% of wood and is notoriously resistant to biological degradation. This
-capability comes from their extracellular lignin-modifying enzymes, primarily
-lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase, which use
-oxidative reactions to break the ether bonds and carbon-carbon linkages in the
-lignin polymer. This enzymatic system is remarkably non-specific, meaning white
-rot fungi can also degrade a wide range of xenobiotic compounds including PAHs,
-PCBs, dioxins, and synthetic dyes.
-
-Common white rot genera include Phanerochaete (particularly P. chrysosporium,
-the most studied white rot species), Trametes (including T. versicolor, turkey
-tail), Pleurotus (oyster mushrooms), and Lentinula (shiitake). Many commercially
-important edible mushrooms are white rot fungi, including oyster mushrooms
-(Pleurotus ostreatus), shiitake (Lentinula edodes), and enoki (Flammulina
-velutipes). The ability to degrade lignin is what makes these mushrooms
-effective at colonizing and fruiting on hardwood logs and wood-based substrates.
-
-In bioremediation, white rot fungi are among the most promising organisms for
-degrading persistent organic pollutants. Their lignin-modifying enzyme system,
-evolved to break down one of nature's most recalcitrant polymers, can also
-oxidize a broad spectrum of environmental contaminants. White rot fungi have
-been successfully applied to the degradation of polycyclic aromatic hydrocarbons
-(PAHs) in contaminated soils, decolorization of textile dyes in industrial
-wastewater, and degradation of explosive compounds like TNT. Their ability to
-grow on inexpensive lignocellulosic substrates makes large-scale applications
-economically feasible.
-
-## Brown Rot Fungi
 [[brown-rot-fungi-biodegradation]]
 
 Brown rot fungi employ a fundamentally different decay strategy, using a non-
@@ -127,8 +96,6 @@ species. Understanding both decay types is essential for comprehensive forest
 management and wood protection strategies.
 
 ## See Also
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[wood-decay-fungi]]
-- [[bioremediation-using-fungi]]
 - [[oyster-mushroom-cultivation-methods]]
 - [[wine-cap-mushroom-cultivation]]

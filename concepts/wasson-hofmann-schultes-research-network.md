@@ -7,9 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/hofmann-a-lsd-my-problem-child.md"
 ---
-# The Wasson-Hofmann-Schultes [[chaga-mushroom-research]] Network
-
-The identification and characterisation of [[psychedelic-mushroom-dosage-guide]]s in the 1950s and 1960s resulted from a remarkable
+# The Wasson-Hofmann-Schultes [[psychedelic-mushroom-dosage-guide]]s in the 1950s and 1960s resulted from a remarkable
 collaboration between [Robert Gordon Wasson, the French
 mycologist Roger Heim, Albert Hofmann of Sandoz
 Laboratories, and Richard Evans Schultes
@@ -129,6 +127,5 @@ strained his relationships with more empirically minded colleagues.
 
 ## See Also
 
-- [[wasson-hofmann-psilocybin-connection]]
 - [[hofmann-lsd-clinical-research-early-studies]]
 - [[hofmann-lsd-psychiatric-research]]

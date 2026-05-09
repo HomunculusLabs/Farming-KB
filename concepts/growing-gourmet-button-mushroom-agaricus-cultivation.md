@@ -136,12 +136,8 @@ employed to disguise the actual price per pound.
 
 ## Related
 
-- [[growing-gourmet-compost-phase-i-phase-ii-agaricus]]
-
 - [[growing-gourmet-light-requirements-mushroom-fruiting]] Topics
 
-- [[growing-gourmet-casing-soils-mushroom-cultivation]]
 - [[growing-gourmet-atmospheric-steam-sterilization]]
-- [[growing-gourmet-species-sequencing-substrate-recycling]]
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-contamination-prevention]]

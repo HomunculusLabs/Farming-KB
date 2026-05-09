@@ -15,7 +15,7 @@ Every 1,000 square feet (92 square meters) of roof surface area will gather
 on your property can be used to collect rainwater. The best roofing material
 for this purpose is metal because it is relatively clean. You will also need
 to install gutters with a leaf screen. Rainwater harvesting is a cornerstone
-of and [[albert-hofmann]]
+of and gordon-wasson
 design.
 
 ## Collection System Components
@@ -92,9 +92,7 @@ right concrete mix is used, they may be the safest to drink from.
 
 Gravity is the most energy-efficient way to move water. By positioning
 storage tanks at elevation, water flows to gardens and buildings without
-pumps. This principle extends throughout the [[permaculture-design]]: gentle
-slopes and drains lead water from streams, valleys, roofs, and roads to
-storage, [[irrigation-systems]], and swales. A dam or water
+pumps. This principle extends throughout the [[irrigation-systems]], and swales. A dam or water
 tank at the top of a slope provides water pressure for the entire property
 below without any energy input.
 
@@ -104,43 +102,5 @@ Rainwater harvesting connects to by providing
 top-up water for ponds during dry seasons. It feeds 
 when combined with household water use. can
 include rainwater collection from roof surfaces. The harvested water also
-supports [[urban-rooftop-gardening-and-sheet-mulching]] efforts by keeping garden beds moist. Together
-these systems create a closed-loop water cycle on the property, minimizing
-waste and maximizing the utility of every drop of water that falls on the
-land.
-
-## Sizing Your System
-
-To properly size a rainwater harvesting system, calculate your roof area and
-annual rainfall. A 1,000 square foot roof in a region receiving 30 inches of
-rain annually can collect approximately 18,000 gallons per year. Compare this
-to your household water needs: a frugal family of five with a waterless
-and no dishwasher uses about 940 gallons per
-week, or roughly 49,000 gallons per year. This means supplementing with
-other water sources or reducing consumption is usually necessary. Every
-gallon captured from the roof is one less gallon drawn from wells or
-municipal supplies.
-
-## Seasonal Considerations
-
-In regions with distinct wet and dry seasons, rainwater harvesting is most
-valuable during transitions. Large tanks capture surplus during wet months
-for use during dry periods. In areas with year-round rainfall, smaller tanks
-with frequent turnover may be more practical. In cold climates, tanks must
-be protected from freezing, either by burying them below the frost line or
-by installing insulation. Gutters should be designed to handle snow and ice
-loads without damage.
-
-## Water Quality
-
-Rainwater collected from metal roofs is generally clean, but first-flush
-diverters are important for removing dust, bird droppings, and other debris
-that accumulates on the roof between rains. Regular cleaning of gutters and
-screens ensures good water quality. For drinking water, additional
-purification through filtration, UV treatment, or distillation may be needed
-depending on local air quality and roof conditions.
-
-## See Also
-
-- [[mushroom-cultivator-harvesting-storage]]
+supports [[mushroom-cultivator-harvesting-storage]]
 - [[rainwater-harvesting-systems]]

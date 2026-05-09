@@ -116,15 +116,9 @@ TBI may represent a physical manifestation of the body's attempt to integrate a 
 
 - cannabis tbi research
 
-- [[cannabis-neuroprotection]]
-
 - [[cannabis-health-index]]
-
-- [[cannabis-for-stroke-recovery]]
 
 - [[cannabis-chronic-pain-management]]
 
-- [[cannabis-cbd-therapeutic-profile]]
 - [[blesching-cannabis-neuropathic-pain]]
-- [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-anti-inflammatory-applications]]

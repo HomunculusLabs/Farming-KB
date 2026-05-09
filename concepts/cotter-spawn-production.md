@@ -3,7 +3,7 @@ title: Spawn Production for Mushroom Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, spawn, cultivation, grain, sawdust]
+tags: [[mycology, spawn, cultivation, grain, sawdust]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Spawn Production for Mushroom Cultivation
@@ -127,8 +127,6 @@ Spawn is mycelium that is ready to be planted into a growing medium. It serves a
 
 ## See Also
 
-- [[mushroom-grain-spawn-preparation]]
 - [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-bulk-substrates]]
 - [[contamination-identification-prevention]]
 - [[mycoremediation-stamets-approach]]

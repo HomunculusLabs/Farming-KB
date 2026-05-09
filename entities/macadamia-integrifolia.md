@@ -105,16 +105,10 @@ The tree also has applications in agroforestry systems. Its deep root system hel
 
 ## See Also
 
-- [[bertholletia-excelsa]]
 - [[glycine-max]]
-- [[arachis-hypogaea]]
 - [[theobroma-cacao]]
-- [[canavalia-ensiformis]]
 - [[vigna-radiata]]
-- [[mangifera-indica]]
 - [[punica-granatum]]
-- [[vigna-unguiculata]]
 - [[mucuna-pruriens]]
-- [[pisum-sativum]]
 - [[vicia-faba]]
 - [[crotalaria-juncea]]

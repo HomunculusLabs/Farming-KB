@@ -54,7 +54,7 @@ Causative relations are found between leukemia and prior chemotherapies for canc
 
 Conventional leukemia treatments include chemotherapy, bone marrow transplants, and radiation. These treatments carry significant risks and side effects. Cannabis may serve as a complementary therapy both for its direct anti-leukemia properties and for managing treatment side effects including nausea, pain, and loss of appetite.
 
-See [[cannabis-for-chemotherapy-nausea]] and [[cannabis-cancer-symptom-management]] for side effect management.
+See [[cannabis-cancer-symptom-management]] for side effect management.
 
 ## Strain Considerations
 
@@ -64,23 +64,11 @@ The anti-proliferative effects of cannabinoids on immune cell cancers suggest th
 
 ## Safety Considerations
 
-Leukemia patients have compromised immune systems and are often on intensive chemotherapy regimens. Cannabis may interact with chemotherapy agents and other medications. CBD may affect the metabolism of pharmaceuticals through cytochrome P450 enzyme interactions. See [[cannabis-drug-interactions-and-contraindications]] for detailed interaction information.
-
-Any cannabis use should be coordinated with the oncology team managing the patient's treatment.
-
-## Related Topics
-
-- [[cannabis-for-cancer-patients]] for broader cancer applications
-
-- [[cannabis-cancer-symptom-management]] for symptom palliation
+Leukemia patients have compromised immune systems and are often on intensive chemotherapy regimens. Cannabis may interact with chemotherapy agents and other medications. CBD may affect the metabolism of pharmaceuticals through cytochrome P450 enzyme interactions. See [[cannabis-for-cancer-patients]] for broader cancer applications
 
 - [[cannabis-for-chemotherapy-nausea]] for treatment side effects
 
-- [[cannabis-immune-modulation]] for immune system effects
-
 - [[cannabis-cbd-therapeutic-profile]] for CBD anti-cancer properties
-
-- [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms
 
 - [[cannabis-health-index]] for the CHI methodology
 

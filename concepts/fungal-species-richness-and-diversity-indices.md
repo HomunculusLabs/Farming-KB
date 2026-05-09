@@ -3,7 +3,7 @@ title: Fungal Species Richness and Diversity Indices
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -100,14 +100,10 @@ Power analysis is crucial for experimental design, helping to evaluate relations
 
 ## See Also
 
-- [[alpha-beta-gamma-diversity-fungi]]
 - [[fungal-community-ecology]]
-- [[macrofungi-sampling]]
 - [[fungal-species-estimates-taxonomy]]
 
 ## Related
 
-- [[microfungi-wood-plant-debris-survey]]
 - [[fungal-diversity-indices-community-analysis]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[fungal-beta-diversity-species-turnover]]

@@ -142,8 +142,6 @@ ecosystem.
 
 ## See also
 
-[[fukuoka-microbial-ecology-decomposition]]
 [[fukuoka-compost-unnecessary-philosophy]]
-[[fukuoka-straw-healing-the-earth]]
 [[fukuoka-straw-mulch-system]]
 [[fukuoka-living-soil]]

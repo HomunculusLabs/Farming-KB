@@ -11,25 +11,17 @@ sources:
 Humus is the relatively stable, dark, organic fraction of soil that
 remains after active decomposition is largely complete. It is the
 endpoint of the decomposition process described in
-[[teaming-with-microbes-decomposition-pathways]] and the foundation of
-soil fertility. Humus gives soil its characteristic dark color, improves
-water retention, increases [[fungal-contributions-soil-structure]], and provides long-term nutrient storage.
+[[fungal-contributions-soil-structure]], and provides long-term nutrient storage.
 
 ## What Is Humus
 
 Humus is not a single chemical compound but rather a complex mixture of
 partially decomposed organic materials and microbial synthesis products.
 It forms gradually as the most resistant plant compounds --
-[[fungal-decomposition-ecology]],
 [[fungal-cellulose-decomposition-fungal-enzymes]],
-[[fungal-chitin-decomposition-nutrient-cycling]], and tannins --
-are progressively broken down and recombined by microbial activity.
-
-The transformation from fresh organic matter to humus involves:
-1. Mechanical shredding by [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] and other
+[[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] and other
    organisms, increasing surface area
-2. Enzymatic breakdown by [[teaming-with-microbes-bacteria]] and
-   [[teaming-with-microbes-fungi]]
+2. Enzymatic breakdown by [[teaming-with-microbes-fungi]]
 3. Microbial resynthesis -- microbes recombine breakdown products into
    new, more stable compounds
 4. Chemical interactions with soil minerals
@@ -43,57 +35,7 @@ to centuries, providing a long-term reservoir of carbon and nutrients.
 Glomalin is a sticky glycoprotein produced by arbuscular mycorrhizal
 fungi in the order Glomales. Discovered relatively recently (1996),
 glomalin has revolutionized understanding of how
-[[fungal-contributions-soil-structure]] form and why
-they persist.
-
-### How Glomalin Works
-
-As mycorrhizal fungal hyphae grow through soil pores, glomalin coats
-soil particles like a biological super-glue. This coating:
-
-- Binds individual soil particles into aggregates and clumps
-- Changes soil pore space, improving capillary water retention
-- Helps soil hold soluble nutrients in plant-accessible locations
-- Is highly resistant to microbial decomposition, persisting for
-  years to decades after the fungal hyphae that produced it have died
-
-Glomalin accounts for a significant portion of soil organic carbon --
-in some soils, 27% or more of total carbon. It represents one of the
-largest pools of stored carbon in terrestrial ecosystems.
-
-### Agricultural Significance
-
-Soils rich in glomalin have superior:
-- Water infiltration and retention
-- Resistance to erosion
-- Nutrient holding capacity
-- Soil structure (crumbly, well-aggregated tilth)
-
-Practices that support mycorrhizal fungi -- minimal tillage, perennial
-cover, and avoidance of fungicides -- promote glomalin accumulation.
-Conversely, tillage destroys hyphal networks and reduces glomalin
-deposition.
-
-## Bacterial Contributions to Soil Aggregation
-
-Bacteria also contribute to soil aggregation through several mechanisms:
-
-### Bacterial Slime and Biofilms
-
-Bacteria produce extracellular polymeric substances (EPS) -- slimy,
-sugar-based coatings that help them attach to soil particles. This
-bacterial "glue" binds individual mineral particles together into
-microaggregates. Bacterial colonies further bind particles together as
-they grow and divide on soil surfaces.
-
-### Fungal-Bacterial Synergy
-
-The full picture of soil aggregation involves both organisms working
-together:
-- Bacteria create initial microaggregates through EPS production
-- Fungal hyphae (with glomalin) enmesh and bind microaggregates into
-  larger, more stable macroaggregates
-- [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]
+[[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]
   coat particles with mucus, creating additional binding surfaces
 - The result is a hierarchical structure: particles within
   microaggregates within macroaggregates

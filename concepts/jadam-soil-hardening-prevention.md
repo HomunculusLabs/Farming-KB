@@ -60,33 +60,35 @@ JADAM recommends stopping the use of heavy tractors and using light vehicles ins
 
 ### Use JADAM Inputs
 
-JADAM inputs including [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]], sea water, and [[jadam-phyllite-water-method]] help restore soil structure. Powerful root activity will ease soil compaction from below as roots push through the hardened layer.
+JADAM inputs including [[jadam-phyllite-water-method]] help restore soil structure. Powerful root activity will ease soil compaction from below as roots push through the hardened layer.
 
 ### Cover Crops
 
-[[jadam-cover-crop-method]] with deep root systems can help break up compacted layers. Their roots penetrate the hardened zone and, when they die and decompose, leave channels for water and air movement.
-
-### Avoid Contaminated Inputs
-
-Stop using factory-produced livestock manure containing antibiotics, chemical fertilizer, and pesticide. Any form of farming should be judged based on its ability to sustain production. It is compromising our future to continue farming that contaminates the soil with chemicals.
-
-## The Long-Term View
-
-Farming will always be difficult if soil compaction and chemical contamination are not addressed. Soil contamination is linked to human contamination. If soil is diseased, so will humans be. If soil dies, so will we. Only a healthy, sustainable, and back-to-the-basics mode of farming that tends to the roots and the soil can survive the age of climate change.
-
-## See Also
-- [[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-antibiotic-soil-contamination]]
+[[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-human-manure-liquid-fertilizer]]
 - [[jadam-ultra-low-cost-agriculture]]
 
-- [[jadam-soil-management-principles]]
 - [[jadam-root-soil-assessment]]
-- [[jadam-cover-crop-method]]
 - [[jadam-microorganism-solution-jms]]
-- [[jadam-phyllite-water-method]]
 - [[jadam-nature-as-teacher-philosophy]]
-- [[jadam-antibiotic-soil-contamination]]
 - [[soil-compaction-solutions-ingham]]
 - [[jadam-root-soil-assessment]]
+## Practical Considerations
+
+Successful implementation of JADAM Soil Hardening Prevention requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

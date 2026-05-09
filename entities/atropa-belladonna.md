@@ -139,10 +139,6 @@ and death.
 
 ## See Also
 
-- [[hyoscyamine]]
-
 - [[datura-metel]] — Asian Datura species with tropane alkaloids
-- [[lophophora-williamsii]] — North American psychoactive cactus
-- [[anadenanthera-colubrina]] — South American [[tryptamine]] tree
-- [[tabernanthe-iboga]] — African iboga shrub with ibogaine
+- [[anadenanthera-colubrina]] — South American [[tabernanthe-iboga]] — African iboga shrub with ibogaine
 - [[atropine]]

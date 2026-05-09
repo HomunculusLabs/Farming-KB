@@ -12,60 +12,7 @@ type: concept
 
 Chapter 6 of *What a Plant Knows* addresses one of the most philosophically
 rich topics in plant biology: the question of whether plants can be said to
-have memory. [[daniel-chamovitz]] approaches this question by examining the various
-ways in which plants retain information about past experiences and use that
-information to modify future responses. While plants do not have brains or
-neural circuits, they exhibit several forms of information storage that are
-functionally analogous to memory in animals.
-
-## Defining Memory in a Plant Context
-
-Memory, in its broadest biological sense, is the ability to encode, store,
-and retrieve information about past experiences. In neuroscience, memory
-involves synaptic plasticity, neural circuit reorganisation, and the
-consolidation of information through protein synthesis and gene expression
-changes. Plants achieve information storage through different mechanisms,
-but the functional outcome is similar: a past event alters the organism's
-future behaviour.
-
-Chamovitz identifies several distinct types of memory in plants, ranging from
-very short-term physiological changes to long-term epigenetic modifications
-that can persist across generations. These different forms of plant memory
-operate on different timescales and through different molecular mechanisms,
-but they all share the core feature of using past information to guide
-future responses.
-
-## Short-Term Memory: Physiological State Changes
-
-The simplest form of plant memory involves transient physiological changes.
-When a plant experiences drought, it closes its stomata to conserve water.
-After the drought ends, the plant's water-use efficiency may remain altered
-for hours or days. This short-term "memory" of water stress helps the plant
-maintain a more conservative water balance in case the drought recurs.
-
-The phytochrome system demonstrates molecular memory. Phytochrome exists in
-two interconvertible forms: Pr (absorbs red light) and Pfr (absorbs far-red
-light). The last light perceived at dusk determines the Pr:Pfr ratio, and
-this ratio persists through the night, storing information about darkness
-duration. The plant effectively "remembers" whether it saw red or far-red
-light last.
-
-## Priming and Induced Resistance
-
-One of the most well-documented forms of plant memory is defence priming.
-When a plant survives a pathogen or herbivore attack, it enters a primed
-state, responding more quickly and strongly to subsequent attacks. This
-enhanced readiness can persist for weeks or months after the initial attack.
-
-Priming involves epigenetic changes, including histone modifications and
-DNA methylation, that alter the accessibility of defence-related genes
-without changing their DNA sequence. These chromatin marks keep defence
-genes in a "poised" state, ready for rapid activation. The metabolic cost
-of maintaining priming is lower than constantly expressing full-strength
-defences, making it an evolutionarily efficient strategy.
-
-Priming can be induced by chemical signals from neighbouring plants (see
-[[plant-olfaction-what-a-plant-smells]]), beneficial microbial associations,
+have memory. [[plant-olfaction-what-a-plant-smells]]), beneficial microbial associations,
 and various environmental stresses. The breadth of priming triggers suggests
 it is a fundamental strategy in plant defence biology.
 
@@ -138,10 +85,12 @@ that deserves serious scientific attention.
 
 ## See Also
 
-- [[plant-vision-and-phototropism]]
 - [[plant-olfaction-what-a-plant-smells]]
 - epigenetics in plants
 - vernalisation
-- [[mycorrhiza-induced-resistance-defense-priming]]
 - [[plant-life-rhythms-pulsatory-growth]]
 - plant memory
+
+## See Also
+
+- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]

@@ -8,28 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDOH
 
-[[al-pihkal-entry-2]] #114. N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE.
-
-## Chemical Name
-
-N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 100 - 160 mg. |
-| Duration | 3 - 6 h. |
-
-## Qualitative Comments
-
-> (with 100 mg) I felt hampered the first hour by
-> some internal barrier, which prevented total enjoyment. However, this
-> began to break through in a wonderful way just before the supplement
-> was offered. Since I felt I was beginning to move through the
-> barrier, I declined the supplement, particularly since I was anxious
-> to compare the after-effects with my first experience. I had found
-> the [[first-time-grower-common-mistakes]] very remarkable, but felt unusually tired for several
+[[first-time-grower-common-mistakes]] very remarkable, but felt unusually tired for several
 > days following. I feel it is important to know whether this is a
 > specific drug-induced effect, or the result of psychological
 > phenomena. The experience continued in a rich, meaningful way. There
@@ -42,108 +21,87 @@ N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE
 >
 > (with 100 mg) The material came on fairly rapidly. In about 30
 > minutes, I was intensely intoxicated, and more deeply than with MDMA.
-> It was a glorious feeling, [[fukuoka-road-flowers-and-beauty]] was everywhere enhanced. With
-> eyes closed it felt marvelous, and it was appealing to pursue the
-> inner experience. I did notice an internal dryness which was
-> characteristic of MDMA, and I had similar difficulty in urinating, but
-> not as intense as with MDMA.
->
-> (with 120 mg) The colors of the market-place, of all the fresh foods,
-> constituted a beautiful mosaic. Nothing practical, simply a real
-> treasure to be used with individual intention and enjoyment.
-> Everything was seen with new eyes, new meanings, faces, figures, the
-> colors of the rainbow subconsciously individually applied. A
-> 'soul-scape'. The following day very exhausted, tired, back-pain.
+> It was a glorious feeling, [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mdoh-entity]]
 
-## Extensions and Commentary
-
-The first time that MDOH was synthesized,
-it had inadvertently and unknowingly been converted to MDA. And the
-search for proper dosage and characterization of effects of this
-product was, of course, the rediscovery of the dosage and the effects
-of MDA. It is one of the world's most remarkable coincidences that
-after the second synthesis of MDOH, when MDOH had really and truly
-been actually prepared, the brand new search for proper dosage and
-characterization of effects revealed that they were almost identical
-to the earlier observations for (the inadvertently produced) MDA.
-
-This reminds me of my speculations in the discussion of both FLEA and
-the HOT compound where they also showed paired molecular structures
-with their prototypes that differ only by a single oxygen atom.
-Again, might there be some metabolic interconversion within the body?
-The immediate thought would be that the oxygen atom (the hydroxy
-group) might be metabolically removed, and the effects of either drug
-are due to the action of MDA. But the opposite direction is in many
-ways more appealing, the in vivo conversion of MDA to MDOH. Why more
-appealing? For one thing, oxidative changes are much more common in
-the body than reductive changes. For another, the conversion of
-amphetamine to N-hydroxyamphetamine is an intermediate in the
-conversion of amphetamine to phenylacetone, a known metabolic process
-in several animal species. And that intermediate,
-N-hydroxyamphetamine, is a material that gives the famous cytochrome
-P-450 complex that has fascinated biochemists studying the so-called
-NADPH-dependent metabolism.
-
-I would put my money on the likelihood of MDA going to MDOH if it
-should turn out that the two drugs interconvert in the body. And in
-that case, it would be MDOH, or another metabolite on down the line
-that is common to both MDA and MDOH, that is the factor intrinsic to
-the intoxication that is produced. Human metabolic studies are
-
-needed, and they have not yet been done.
-
-## Synthesis
-
-To a well stirred solution of 14.8 g hydroxylamine
-hydrochloride in 120 mL MeOH there was added 3.6 g of
-3,4-methylenedioxyphenylacetone (see under MDMA for its preparation)
-followed by 1.0 g sodium cyanoborohydride. The oxime, prepared from
-
-the ketone and hydroxylamine in MeOH with pyridine, may be substituted
-for these two components. Concentrated HCl was added over the course
-of a couple of days, to keep the pH near neutrality. When the
-reaction was complete, it was added to H2O, made strongly acidic with
-HCl, and washed with 3x100 mL CH2Cl2. The aqueous phase was made
-basic with 25% NaOH, and reextracted with 3x100 mL of CH2Cl2. The
-extracts were pooled, and the solvent removed under vacuum to give 1.7
-g of an oily residue which, with pumping under a hard vacuum for a few
-minutes, changed to a white solid. This can be Kugelrohred if the
-vacuum is sufficiently good to keep the temperature during the
-distillation below 100 deg C. The extremely viscous distillate formed
-crystals immediately upon wetting with IPA. It was dissolved in 20 mL
-of warm IPA and neutralized with concentrated HCl, with the titration
-end-point being red rather than orange on universal pH paper. Modest
-addition of Et2O aldecompositionmation of
-3,4-methylenedioxy-N-hydroxyamphetamine hydrochloride (MDOH) as white
-crystals, which weighed 1.4 g when air dried. If the temperature of
-distillation exceeded 100 deg C, there was extensive decomposition during
-distillation, with the formation of 3,4-methylenedioxyamphetamine
-(MDA) and the oxime of the ketone. Under these circumstances, the
-only base isolated was MDA. The surest isolation procedure was to
-obtain MDOH as the free base, as a crystalline solid which could be
-recrystallized from 5 volumes of boiling IPA. The free base had a mp
-of 94-95 deg C (and should not be confused with the oxime of
-3,4-methylenedioxyphenylacetone which has a mp of 86-88 deg C since the
-mixed mp is depressed, mp 56-62 deg C, or with the free base of MDA which
-is an oil). Anal. (C10H13NO3) N. The hydrochloride salt had a mp of
-149-150 deg C (and should not be confused with the hydrochloride of MDA
-which has a mp of 185-186 deg C since the mixed mp is depressed, mp
-128-138 deg C). Anal. (C10H14ClNO3) N. Acetic anhydride can serve as a
-useful tool for distinguishing these materials. MDA gives an N-acetyl
-derivative with an mp of 92-93 deg C. MDOH gives an N,O-diacetyl
-derivative with a mp of 72-74 deg C. Methylenedioxyphenylacetone oxime
-gives an O-acetyl derivative that is an oil.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mckenna-tryptamine-research-legal-status]] varies by jurisdiction.
-
-## See Also
-
-- [[mdoh-entity]]
-
-- [[mdoh-entity]]
 - [[pihkal-introduction-and-methodology]]
 
 - PIHKAL (the source book)
 - [[mda-entity-pihkal]]
+## Practical Applications
+
+MDOH (N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE) -- PIHKAL Entry #114 has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MDOH (N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE) -- PIHKAL Entry #114. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

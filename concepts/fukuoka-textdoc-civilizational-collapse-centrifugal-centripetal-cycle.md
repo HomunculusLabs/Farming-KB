@@ -102,15 +102,10 @@ Fukuoka writes that the only future for man lies in returning to this unity with
 
 ## Wikilinks
 
-- [[masanobu-fukuoka]]
 - [[fukuoka-dharmic-law-all-things-return-to-one]]
-- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
-- [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
-- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
-- [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 
 ## Historical Parallels

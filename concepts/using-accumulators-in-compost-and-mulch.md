@@ -116,33 +116,7 @@ Green manuring is the practice of growing a crop and then incorporating
 it into the soil while still green and actively growing. This technique
 captures the maximum nutrient value of accumulator plants because the
 tissues are succulent and decompose quickly. Legumes like alfalfa,
-clovers, and vetch are classic [[green-manure-crops]], providing both
-nitrogen fixation and general nutrient cycling.
-
-Timing is critical with green manuring. The cover crop should be
-incorporated before it becomes woody or sets seed, as younger tissue
-decomposes more rapidly. For legumes, incorporating before flowering
-captures the maximum nitrogen in the foliage.
-
-## Correcting Soil Deficiencies with Accumulators
-
-Accumulator plants can be used strategically to address specific soil
-nutrient problems. A documented example is the correction of zinc
-deficiency in Florida corn by allowing zinc-accumulating weeds to
-flourish during fallow years. After these accumulators were tilled into
-the soil, the corn crop grew without signs of deficiency. This
-approach can be applied to other nutrients by selecting accumulator
-species that target the specific mineral lacking in your soil.
-
-## Designing Your Accumulator System
-
-An effective accumulator plan considers your soil's specific needs, your
-climate and growing season, and the crops you intend to grow. The key
-is consistent harvesting and recycling of the biomass to close the
-## See Also
-
-- [[calcium-accumulators-and-oak-leaves]]
-- [[coleman-compost-and-organic-fertility-management]]
+clovers, and vetch are classic [[calcium-accumulators-and-oak-leaves]]
 - [[garden-myths-mulch-and-watering]]
 
 - [[dynamic-accumulators-overview]] covers the concept and plant selection.

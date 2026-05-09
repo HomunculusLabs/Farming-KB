@@ -95,27 +95,8 @@ Impedance mismatches between system components cause reflected power that reduce
 
 ## Relationship to Microwave Steam Flash Sterilization
 
-The dipolar coupling mechanism described here provides the initial energy absorption step that drives the microwave steam flash sterilization process described in [[microwave-steam-flash-sterilization-mechanism]]. When trace water is present on the contaminated surface, the absorbed microwave energy does not merely heat the water film gradually but causes it to flash to steam virtually instantaneously. This phase transition from liquid to vapor dramatically increases the contact area between the sterilizing agent and the contaminated surface, while the high temperature of the steam provides lethal thermal energy to microorganisms that may not be directly coupled to the microwave field.
+The dipolar coupling mechanism described here provides the initial energy absorption step that drives the microwave steam flash sterilization process described in [[microwave-water-interaction-2.45-GHz]] Concepts
 
-The combination of direct dielectric heating of intracellular water (effective against vegetative cells) and indirect thermal kill through steam contact (effective against all organisms including spores) makes the trace-water-enhanced microwave method comprehensively effective across the full spectrum of microbial contaminants encountered on surfaces. The two mechanisms operate through physically distinct pathways, providing defense in depth against the possibility that either mechanism alone might be compromised by unusual organism properties or unexpected surface conditions.
-
-This dual-mechanism approach is a significant advantage over sterilization methods that rely on a single kill mechanism, as it reduces the probability of sterilization failure due to organism-specific resistance factors.
-
-## Practical Implications for Surface Preparation
-
-The dependence of microwave sterilization on water-mediated dipolar coupling has practical implications for surface preparation before treatment. Completely dry surfaces can be sterilized of vegetative organisms through intracellular water coupling alone, but sporicidal treatment requires controlled addition of trace moisture. Surfaces that are too wet may absorb excessive microwave energy in the bulk water, reducing the energy available for the steam flash effect and potentially causing unwanted heating of the substrate.
-
-The optimal condition identified by the NASA researchers, approximately 9 microliters of water per square centimeter of surface, represents the sweet spot where sufficient water is present for complete sterilization including spore destruction while keeping the total energy input low enough to minimize thermal impact on the surrounding system and substrate materials.
-
-This narrow optimal range means that surface preparation is an important practical consideration for microwave sterilization implementation. Surfaces must be neither too dry nor too wet for optimal results. In the MSAP system, the trace water introduction subsystem is designed to deliver precisely controlled amounts of water to the treatment surfaces, ensuring that the optimal moisture condition is achieved reproducibly for each sterilization cycle.
-
-The trace water introduction system represents a critical engineering subsystem of the overall MSAP design, as the reliability of the entire sterilization process depends on consistent and accurate water delivery. Without proper water distribution, the steam flash effect cannot occur uniformly across the treatment surface, potentially leaving untreated zones where organisms survive.
-
-## Related Concepts
-
-- [[microwave-surface-sterilization-technology]] for the complete microwave irradiation system design
 - [[microwave-steam-flash-sterilization-mechanism]] for the trace water steam flash process
-- [[microwave-surface-sterilization-microbial-kill-kinetics]] for experimental kill rate data
 - [[bacterial-spore-microwave-resistance]] for why spores evade the dipolar coupling mechanism
-- [[microwave-penetration-elastomeric-materials]] for microwave propagation through non-aqueous media
 - [[surface-sterilization-methods-comparison]] for comparison with alternative approaches

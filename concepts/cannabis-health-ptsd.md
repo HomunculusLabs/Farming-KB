@@ -19,8 +19,7 @@ of prescription drugs and severe adverse effects frame clear limitations
 of pharmaceutical intervention. Despite success from cognitive
 behavioral therapies, patients often show vulnerability to reversal of
 progress by exposure to stress and stress triggers. Cannabis offers a
-complementary approach through the [[cannabis-health-endo-cannabinoid-system]],
-which plays a key role in fear modulation and [[cannabis-health-methods-of-administration]].
+complementary approach through the [[cannabis-health-methods-of-administration]].
 
 ## Scientific Evidence
 
@@ -40,14 +39,7 @@ An Ottawa study (2009) reported that cannabis could remove fear
 responses to stressors such as nightmares, poor sleep, night sweats,
 and flashbacks. Forty-seven PTSD patients whose nightmares failed to
 respond adequately to standard pharmaceutical antidepressants and
-hypnotics received the synthetic cannabinoid [[nabilone]]. Researchers
-found that 72% of patients experienced either cessation of nightmares
-or significant reduction in nightmare intensity. Subjective improvement
-in sleep time, sleep quality, and reduction of daytime flashbacks and
-night sweats were also noted.
-
-Researchers from Richmond, Virginia (2008), determined that the
-endocannabinoid system plays a necessary role in the extinction of
+hypnotics received the synthetic cannabinoid [[endocannabinoid-system]] plays a necessary role in the extinction of
 aversively motivated behaviors. Their results provided compelling
 support for the hypothesis that endogenous cannabinoids are involved
 specifically in forgetting painful events while being expendable for
@@ -88,12 +80,7 @@ process by modulating CB1 receptors in the amygdala, reducing the
 impact of stress hormones like corticosterone on fear memory
 consolidation. This mechanism supports the brain's natural ability to
 "unlearn" traumatic associations. The CB1 and CB2 receptors involved
-are described in detail on the [[cannabis-health-endo-cannabinoid-system]] page.
-
-## Strain-Specific Considerations
-
-WIN55,212-2 binds with higher affinity to CB2. Nabilone is a synthetic
-cannabinoid similar to [[cannabis-health-thc-tetrahydrocannabinol]], binding with both CB1 and CB2 relatively
+are described in detail on the [[cannabis-health-thc-tetrahydrocannabinol]], binding with both CB1 and CB2 relatively
 equally. Rimonabant is a CB1 antagonist known to reduce learned fear
 responses. While the human case study relied on Nabilone, many patients
 prefer indicas or indica-dominant hybrids with a lower THC:CBD/CBN

@@ -98,31 +98,8 @@ quadrupled the yield.
 
 The McKenna book was followed by others, including a similar method put
 forward by Stephen Pollock in 1977, and then the exhaustive guide The
-Mushroom Cultivator by [[mycopesticides-stamets]] and Jeff Chilton in 1983. This remains
-the bible for today's magic mushroom farmer. While spores could be traded
-legally in America, growing magic mushrooms, particularly with intent to
-supply, remained a felony.
+Mushroom Cultivator by [[psilocybe-fanaticus]]
 
-## Broader Significance
-
-The PF Tek democratised mushroom cultivation further than any previous method.
-By eliminating the need for a pressure cooker, reducing contamination risks,
-and simplifying every step, McPherson made cultivation accessible to anyone
-with basic kitchen equipment. The method's enduring popularity -- still widely
-used decades after its introduction -- testifies to its elegance and
-reliability. It transformed mushroom growing from a specialised laboratory
-procedure into a genuine folk practice, and like the secret stills supplying
-moonshine in the days of alcohol prohibition, magic mushroom cultivation
-became celebrated as an illicit folk art.
-
-## See Also
-
-- [[psilocybe-fanaticus]]
-
-- [[psilocybe-fanaticus]]
-
-- pf tek psilocybe fanaticus
 - [[psilocybe-semilanceata-eight-indole-compounds]]
-- [[psilocybe-subaeruginosa-australia]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[psilocybe-genus-classification]]

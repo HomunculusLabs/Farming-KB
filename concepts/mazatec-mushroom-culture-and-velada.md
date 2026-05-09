@@ -3,13 +3,12 @@ title: Mazatec Mushroom Culture and the Velada
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: [papers/unknown-mushroom-culture-patent-2761246.md]
 ---
 # Mazatec Mushroom Culture and the Velada
 
-The Mazatec people of the Sierra Mazateca in Oaxaca, Mexico, maintain the most
-well-documented living tradition of ceremonial [[psychedelic-mushroom-decriminalization]] use in the world. Their mushroom vigils,
+The [[psychedelic-mushroom-decriminalization]] use in the world. Their mushroom vigils,
 known as veladas, represent a sophisticated indigenous practice that combines
 healing, divination, and spiritual encounter.
 
@@ -86,12 +85,7 @@ elements.
 
 ## The Impact of the Wasson Visits
 
-The [[wasson-mexico-expeditions]] beginning in 1953 had a
-profound impact on Mazatec mushroom culture. Wasson's 1957 Life magazine article
-transformed a private indigenous practice into an international phenomenon.
-
-The influx of Western seekers disrupted traditional practices. For hippie
-visitors during the [[psychedelic-1960s-counterculture]], the mushrooms
+The [[psychedelic-1960s-counterculture]], the mushrooms
 were "psychedelic" commodities bound up with individualism, freedom, and
 rebellion. Many visitors expected to buy and consume mushrooms without
 participating in the full velada ceremony.
@@ -100,9 +94,7 @@ This cultural collision created tensions that persist to this day. The
 traditional knowledge guarded by curanderos became exposed to commercial
 exploitation and cultural appropriation on an unprecedented scale.
 
-## Maria Sabina
-
-The most famous Mazatec curandera was [[mushroom-cultivation-fundamentals]] (1894-1985), whose meeting with Wasson in 1955 made her
+## [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] (1894-1985), whose meeting with Wasson in 1955 made her
 internationally known. Sabina began eating mushrooms intentionally as a child of
 about six or seven, growing up in a culture where the highest class of healers
 derived their powers from the sacred mushrooms.

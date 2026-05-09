@@ -54,10 +54,8 @@ Ursolic acid is biosynthesized via the mevalonate pathway from 2,3-oxidosqualene
 - **Olive** (Olea europaea): Present in fruit and olive oil
 
 **Herbs and medicinal plants**:
-- **Holy basil / Tulsi** ([[ocimum-tenuiflorum-entity]]): 0.5–2.5% in leaves
-- **Rosemary** ([[rosmarinus-officinalis-entity]]): 1.5–3.0% in dried leaves; richest herbal source
-- **Oregano** ([[origanum-vulgare-entity]]): 0.8–2.0%; **Thyme** (T. vulgaris): 0.5–1.5%; **Sage** (S. officinalis): 1.0–2.5%
-- **Lavender, self-heal ([[prunella-vulgaris]]), elderberry, honeysuckle (Lonicera japonica)**: Present in aerial parts
+- **Holy basil / Tulsi** ([[rosmarinus-officinalis-entity]]): 1.5–3.0% in dried leaves; richest herbal source
+- **Oregano** ([[prunella-vulgaris]]), elderberry, honeysuckle (Lonicera japonica)**: Present in aerial parts
 
 **Traditional medicines containing ursolic acid**:
 - Bearberry (Arctostaphylos uva-ursi) — original source; loquat leaf (Eriobotrya japonica); oldenlandia diffusa (Chinese anticancer herb); Ganoderma lucidum (reishi triterpenoid fraction)
@@ -147,3 +145,7 @@ The primary limitation of ursolic acid as a therapeutic agent is its poor aqueou
 | Primary limitation | Poor solubility and bioavailability |
 
 ## Relevance
+
+## See Also
+
+- [[herbal-medicine-making]]

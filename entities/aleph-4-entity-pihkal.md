@@ -101,11 +101,8 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[al-entity-pihkal]]
 - [[aleph-2-entity-pihkal]]
-- [[aleph-6-entity-pihkal]]
 - [[aleph-7-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[aleph-2-entity-pihkal]] -- ALEPH-2 (PIHKAL #4)
 - [[aleph-6-entity-pihkal]] -- ALEPH-6 (PIHKAL #6)

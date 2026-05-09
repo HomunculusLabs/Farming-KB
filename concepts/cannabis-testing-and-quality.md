@@ -4,8 +4,7 @@ created: 2026-2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, lab-technique, potency, safety, chemistry, psychopharmacology, health]
-sources:
-  - /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+sources: []
 ---
 
 # Cannabis Testing and Quality
@@ -18,8 +17,7 @@ Cannabis testing is the laboratory analysis of cannabis flowers, concentrates, a
 
 ### Potency Testing
 
-[[cannabis-seed-banks-and-genetics]] directly influence the chemical
-composition that potency testing measures. Potency testing measures the concentration of cannabinoids in a sample. This is the most common and widely recognized form of cannabis testing.
+Potency testing measures the concentration of cannabinoids in a sample. This is the most common and widely recognized form of cannabis testing.
 
 **Cannabinoids Tested:**
 - **THC (Delta-9 Tetrahydrocannabinol):** Primary psychoactive compound
@@ -101,8 +99,6 @@ A COA is the official lab document containing all test results for a specific ba
 
 ## Quality Beyond Testing
 
-[[cannabis-living-soil-guide]] and [[cannabis-outdoor-growing]] methods
-directly influence the terpene and cannabinoid profiles that testing reveals.
 Testing is a snapshot. Other quality factors include:
 
 - **Growing practices:** [[cannabis-living-soil-guide|Living soil]] and [[cannabis-outdoor-growing|organic]] methods produce superior terpene content
@@ -112,9 +108,7 @@ Testing is a snapshot. Other quality factors include:
 
 ## Home Testing Options
 
-[[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]]
-genetics produce different baseline cannabinoid profiles that
-at-home testing can roughly estimate. Practical options include:
+- **At-home THC/CBD test kits:** Rough estimates (limited accuracy)
 - **Jeweler's loupe (60-100x):** Visual trichome inspection for harvest timing
 - **pH and EC meters:** For monitoring growing conditions
 - **Microscope:** For pest and mold identification

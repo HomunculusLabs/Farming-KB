@@ -3,32 +3,7 @@ title: Fungal Metabolism of Petroleum Hydrocarbons (Singh)
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, remediation, research]
-sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
----
-
-# Fungal Metabolism of Petroleum Hydrocarbons (Singh)
-
-Petroleum hydrocarbons are among the most widespread environmental contaminants, resulting from oil exploration, transportation, refining, and consumption. Fungi play significant roles in the natural attenuation and engineered remediation of petroleum-contaminated environments.
-
-## Petroleum Composition and Environmental Impact
-
-Crude petroleum contains thousands of hydrocarbon compounds including:
-- **Alkanes** (normal, branched, and cycloalkanes): 50-60% of crude oil
-- **Aromatic hydrocarbons**: Benzene, toluene, ethylbenzene, xylenes (BTEX); naphthalene and alkylated naphthalenes
-- **Polycyclic aromatic hydrocarbons (PAHs)**: Two to six fused aromatic rings
-- **Resins and asphaltenes**: High-molecular-weight polar compounds
-- **Sulfur, nitrogen, and oxygen compounds**: Including thiophenes, pyridines, and carboxylic acids
-
-## Fungal vs. Bacterial Hydrocarbon Degradation
-
-Fungi differ from bacteria in their approach to hydrocarbon degradation:
-- Fungi generally grow more slowly but tolerate higher hydrocarbon concentrations
-- Fungal mycelia can penetrate soil aggregates and reach hydrocarbons in microenvironments
-- Fungal enzymatic systems (especially cytochrome P450 monooxygenases) introduce oxygen into alkane chains, while bacteria often use terminal oxidation pathways
-- Fungi can degrade higher-molecular-weight alkanes and PAHs that resist bacterial attack
-- See [[bioremediation-fungal-vs-bacterial]] for detailed comparison
+tags: [[mycoremediation]] for detailed comparison
 
 ## Alkane Degradation
 
@@ -88,24 +63,7 @@ The most effective petroleum bioremediation strategies combine fungal and bacter
 - Fungal inoculation can accelerate degradation of recalcitrant fractions
 
 ### Composting
-- Mixing contaminated soil with organic amendments (see [[staycare-fungal-agricultural-waste-conversion]])
-- Thermophilic conditions enhance overall degradation rates
-- White-rot fungi in composting systems degrade PAHs and other recalcitrant compounds
-
-### In-Situ Bioremediation
-- Bioventing: Air injection stimulates aerobic degradation
-- Biosparging: Air injection below water table
-- Nutrient injection (biostimulation-techniques|biostimulation)
-- Fungal inoculation through injection or surface application
-
-## Agricultural Land Contamination
-
-Petroleum contamination of agricultural land is a significant concern:
-- Pipeline leaks, storage tank failures, and accidental spills affect farmland
-- Oil reduces soil water-holding capacity, aeration, and nutrient availability
-- Petroleum residues can be taken up by crops, entering the food chain
-- Fungal remediation offers a low-cost, low-impact approach for restoring contaminated agricultural land
-- Integration with [[plants-without-mycorrhizal-associations]] enables simultaneous soil restoration and vegetation establishment
+- Mixing contaminated soil with organic amendments (see [[plants-without-mycorrhizal-associations]] enables simultaneous soil restoration and vegetation establishment
 
 ## Challenges and Future Directions
 
@@ -117,9 +75,6 @@ Petroleum contamination of agricultural land is a significant concern:
 
 ## Related Topics
 
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[fungal-pah-degradation-mechanisms]]
-- [[staycare-mycorrhizal-hydrocarbons]]
 - [[fungal-bioremediation]]
-- [[bioremediation-fungal-vs-bacterial]]
 - [[fungi-in-composting-and-agricultural-waste-conversion]]

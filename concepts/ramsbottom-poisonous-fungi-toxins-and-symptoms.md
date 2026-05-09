@@ -48,33 +48,7 @@ A glucoside isolated from Amanita phalloides, originally assumed to be the activ
 
 ### Muscarine (Myco-muscarine)
 
-The first poison isolated from [[amanita-muscaria-chemistry-and-pharmacology]]. Present in small amounts. Has well-marked pharmacological effects but these are NOT the characteristic effects of poisoning by A. muscaria. Despite lending its name to the mushroom, muscarine is not the principal active agent.
-
-### Mycetoatropine (Muscaridine)
-
-An alkaloid later isolated from Amanita muscaria. Named because its effects on the central nervous system are similar to those produced by atropine. Precise chemical constitution was not known at the time of Ramsbottom's writing. This is likely the principal psychoactive compound responsible for the delirium, hallucinations, and stupor characteristic of A. muscaria poisoning.
-
-### Choline
-
-A third alkaloid occurring in fairly large amounts in Amanita muscaria. Probably responsible for the gastrointestinal symptoms which sometimes accompany the neurological effects.
-
-### Helvellic Acid
-
-The toxic principle attributed to Gyromitra esculenta poisoning. Acts on the red blood corpuscles. However, Ramsbottom notes that numerous German poisonings showed the action is not simple haemolysis and its true nature remained in doubt. The fact that G. esculenta is perfectly safe when cooked or dried but dangerous when raw suggests the toxin is heat-labile, unlike amanitin.
-
-### Resinoid Substances
-
-Definite resinoid substances acting on the mucous lining of the intestine are identified as the cause of the very severe and potentially fatal symptoms produced by Entoloma lividum. These are distinct from the amatoxins of the Amanita group.
-
-## Symptom Profiles by Poisoning Type
-
-### Amanita phalloides Type (Cell-Degenerating)
-
-Onset: 10-12 hours with no discomfort (almost diagnostic sign). Then sudden intense abdominal pains, vomiting, diarrhoea, extreme thirst. Quiescence after two days -- the most dangerous period. Symptoms recur more intensely: gradual nervous system paralysis, liver degeneration, delirium, collapse, and death. Several distinct clinical forms have been recognised. If very little was eaten, symptoms may abate after 2-3 days; a surprisingly small amount causes illness and even death. Recovery is slow with prolonged convalescence. Over 90% of recorded fungus-poisoning deaths are from this type, with fatality rates of 50-90%.
-
-### Amanita muscaria Type (Neurotoxic)
-
-Onset: 1-3 hours after eating. Period of delirium and hallucinations, sometimes with intestinal disturbances. Followed by intense stupor and awakening to complete forgetfulness. Never causes death in healthy people. Poison resides principally in the cap skin with considerable variation in amount present. The [[amanita-muscaria-cultural-history]] traditionally consumed it for its psychoactive effects.
+The first poison isolated from [[amanita-muscaria-cultural-history]] traditionally consumed it for its psychoactive effects.
 
 ## Historical and Proposed Treatments
 
@@ -104,23 +78,13 @@ Ramsbottom emphasizes that no method of preparation reliably renders all poisono
 
 ## See Also
 
-- [[fungal-toxins-and-poisonous-mushrooms]]
-
 - [[lloyd-library]]
 
-- [[john-ramsbottom]]
-
 - [[ramsbottom-poisonous-fungi-species]]
-- [[ramsbottom-poisonous-fungi-identification-guide]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
-- [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[amanita-muscaria-pharmacology]]
-- [[amanita-muscaria-pharmacology-dosing-guide]]
 - [[amanita-muscaria-guide]]
-- [[amanita-muscaria-cultural-history]]
 - [[amanita-genus-morphology]]
-- [[mushroom-identification]]
 - [[mushroom-identification-basics]]
-- [[inocybe-aeruginascens-profile]]
 - [[inocybe-aeruginascens-profile]]
 - [[mycology-modern-era]]

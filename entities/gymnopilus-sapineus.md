@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Flammulina sapinea** | *Gymnopilus sapineus* (Fr.) Maire ex Singer
 
-Gymnopilus sapineus is a wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae under modern classification) that has been reported to contain [[psilocybin-compound]] and related tryptamine alkaloids, placing it among the neurotropic fungi catalogued by Guzmán, Allen, and Gartz in their worldwide distribution study. It is one of approximately 14 species of Gymnopilus recognized as containing or suspected to contain psychoactive indole compounds. The genus Gymnopilus is commonly known as the "big laughing gym" mushrooms, a name derived from the genus type species [[gymnopilus-spectabilis-entity]].
+Gymnopilus sapineus is a wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae under modern classification) that has been reported to contain [[gymnopilus-spectabilis-entity]].
 
 ## Taxonomy and Classification
 
@@ -47,7 +47,7 @@ Fruiting occurs from late summer through autumn, typically from August to Novemb
 
 ## Chemistry and Psychoactive Properties
 
-Gymnopilus sapineus has been reported to contain [[psilocybin-compound]] and [[psilocin]], though the concentrations are generally lower than those found in the more potent members of the genus such as [[gymnopilus-spectabilis-entity]] and [[gymnopilus-purpuratus]]. The presence of baeocystin has also been detected in some Gymnopilus species, though specific analysis of G. sapineus for this compound is limited.
+Gymnopilus sapineus has been reported to contain [[psilocin]], though the concentrations are generally lower than those found in the more potent members of the genus such as [[gymnopilus-purpuratus]]. The presence of baeocystin has also been detected in some Gymnopilus species, though specific analysis of G. sapineus for this compound is limited.
 
 Chemical analysis of Gymnopilus species is complicated by the presence of bitter, non-psychoactive compounds that may mask or interact with the indole alkaloids. The bitter taste characteristic of the genus may be related to sesquiterpene compounds rather than the tryptamine alkaloids.
 
@@ -65,52 +65,27 @@ Several Gymnopilus species are morphologically similar and can be difficult to d
 
 - **gymnopilus penetrans**: Very similar, growing on conifer wood; some authorities consider it synonymous with G. sapineus
 - **gymnopilus liquiritiae**: Grows primarily on broadleaf wood and has a darker cap; also contains psilocybin
-- **[[gymnopilus-spectabilis-entity]]**: Larger and more brightly colored, with more pronounced bruising reactions and higher psilocybin content
 - **[[gymnopilus-aeruginosus]]**: Has a distinctive greenish-blue coloration and grows on conifer wood
-- **[[gymnopilus-validipes]]**: Similar size but often found in grassy areas near wood, with a more robust stipe
-
-The rusty-brown spore print and bitter taste are key features that distinguish Gymnopilus from other orange-capped mushrooms such as species of Cortinarius (which have a rusty-brown spore print but lack the bitter taste) and Hypholoma (which have purple-brown to dark spore prints).
-
-## Cultivation and Research
-
-There is limited information on the cultivation of Gymnopilus sapineus specifically. The saprotrophic nature of the genus suggests that cultivation on sterilized wood substrates should be possible, and some species of Gymnopilus have been grown on sawdust and grain substrates in laboratory settings. However, the relatively low psychoactive content compared to more commonly cultivated species has limited commercial and research interest.
-
-Gymnopilus species have been studied for their potential to produce novel bioactive compounds beyond psilocybin, including antibiotics and anti-inflammatory substances. The bitter sesquiterpenes found in the genus are of interest to natural products chemists.
-
-## Conservation Status
-
-Gymnopilus sapineus is not considered threatened or of conservation concern. It is a common and widely distributed species that benefits from the abundance of dead wood in managed forests. However, the removal of dead wood from forests for timber, firewood, and aesthetic reasons can reduce available substrate and may impact local populations. In regions where forest management practices have been intensified, Gymnopilus and other wood-inhabiting fungi have shown declines.
-
-## Phylogenetic Relationships
-
-The genus Gymnopilus belongs to the family Cortinariaceae (sensu lato) or Hymenogastraceae (under modern phylogenetic classification). Molecular studies have shown that Gymnopilus is closely related to other genera in the Galerina clade, including Galerina itself. This relationship is particularly interesting given that some Galerina species contain psilocybin while others contain deadly amatoxins, suggesting that the capacity for indole alkaloid production may be an ancestral trait that has been differentially retained, modified, or lost across the lineage.
-
-Within Gymnopilus, G. sapineus belongs to a group of temperate, wood-inhabiting species that share morphological similarities including small to medium fruiting bodies, orange to brown colors, and moderate to low psilocybin content. This group contrasts with the tropical species such as [[gymnopilus-purpuratus]] and [[gymnopilus-luteofolius]], which tend to have brighter colors and higher psilocybin concentrations.
-
-## Historical Notes
-
-The earliest collections of what is now called Gymnopilus sapineus were made by European mycologists in the early 19th century, when the species was grouped with hundreds of other brown-spored mushrooms in the artificial genus Agaricus. Fries's system of classification, while revolutionary for its time, placed many unrelated species together based on superficial similarities of spore color and gill attachment. It was not until the 20th century, with the work of Singer and others, that the genus Gymnopilus was properly delimited based on microscopic features including spore ornamentation and the presence of chrysocystidia (specialized cells found on the gill surface).
-
-The recognition that some Gymnopilus species contain psilocybin came relatively late, with the first confirmed analyses published in the 1970s and 1980s. The genus was subsequently included in surveys of psychoactive fungi by Guzmán and colleagues, leading to the recognition of approximately 14 psilocybin-containing species within the genus.
-
-## Seasonality and Collection Tips
-
-Gymnopilus sapineus can be found from late summer through late autumn, with peak fruiting in September and October in temperate Northern Hemisphere locations. Key collection considerations include:
-
-- Look for dead conifer logs and stumps in mixed or coniferous forests
-- The orange to rusty-brown color and growth on wood are the best field characters
-- Always check the spore print color — a rusty-brown print confirms the genus
-- The bitter taste (when a tiny amount is touched to the tongue and spat out) further confirms Gymnopilus
-- Never consume wild mushrooms based solely on visual identification
-
-## Legal Status
-
-Gymnopilus sapineus is not specifically scheduled or regulated in most jurisdictions. However, its content of [[psilocybin-compound]] and [[psilocin]], which are controlled substances in many countries, could theoretically make possession and use illegal under laws that prohibit the possession of psilocybin-containing fungi regardless of species. In practice, enforcement rarely targets Gymnopilus species due to their low potency and the difficulty of accurate identification.
-
-## See Also
-
-- [[gymnopilus-spectabilis-entity]] — the type species for the genus, known as the "big laughing gym"
-- [[gymnopilus-purpuratus]] — a brightly colored South American species with high psilocybin content
+- **[[gymnopilus-purpuratus]] and [[psilocybin]] and [[gymnopilus-spectabilis-entity]] — the type species for the genus, known as the "big laughing gym"
 - [[gymnopilus-luteofolius]] — a small, brightly colored species found in the Southern Hemisphere
-- [[psilocybin-compound]] — the primary psychoactive indole alkaloid
+- [[psilocybin]] — the primary psychoactive indole alkaloid
 - cortinariaceae — the fungal family to which Gymnopilus belongs
+## Practical Considerations
+
+Successful implementation of Gymnopilus sapineus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

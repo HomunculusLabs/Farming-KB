@@ -10,7 +10,7 @@ tags: [cultivation, holzer, mushroom-cultivation]
 
 # Holzer Mushroom Cultivation (Outdoor Methods)
 
-Mushroom cultivation is a significant component of [[sepp-holzer-method]]. Holzer limits himself to mushrooms that grow on wood or straw, as these substrates are already complete and require no specialist compost preparation. He has successfully grown [[shiitake-cultivation-guide]] mushrooms at 1,500m above sea level -- contradicting expert claims that it requires low-altitude warmth -- by inoculating a 50cm-thick oak log and sinking it 30cm into the ground for water access.
+Mushroom cultivation is a significant component of [[shiitake-cultivation-guide]] mushrooms at 1,500m above sea level -- contradicting expert claims that it requires low-altitude warmth -- by inoculating a 50cm-thick oak log and sinking it 30cm into the ground for water access.
 
 ## Understanding Fungi Structure
 
@@ -43,7 +43,6 @@ Mushrooms are high in fibre, low in calories, and rich in vitamins and minerals.
 
 All listed species grow on hardwood at the Krameterhof. Oyster varieties can also grow on straw.
 
-- [[shiitake-cultivation-guide]] (Lentinula edodes) -- excellent culinary and medicinal; can be eaten raw or used for tea; fruits at 10--25C
 - [[oyster-mushroom-bag-cultivation]] (Pleurotus ostreatus) -- very easy to cultivate; grows especially well on beech, maple, and elm
 - King Oyster (P. eryngii) -- excellent flavour, thick fleshy stems, very versatile
 - Golden Oyster (P. citrinopileatus) -- large yellow clusters, excellent culinary mushroom
@@ -76,28 +75,6 @@ Soak and boil wooden dowels, place in clean plastic bags with inoculated spawn p
 
 ### Advantages
 
-Straw is often a waste product that can be transformed: many kilograms of mushrooms grow on one small bale with very little effort. Mushrooms also convert rotting straw into valuable [[humus-formation-and-soil-organic-matter]] quickly. In a functioning agricultural system there is no waste -- everything can be brought back into the cycle of nature.
-
-### Suitable Species
-
-- All oyster mushroom varieties (Pleurotus spp.)
-- King Stropharia (Stropharia rugosoannulata) -- looks similar to a cep from a distance, excellent culinary mushroom, requires over 10C for fruiting bodies, lower humidity needs than oyster mushrooms
-
-### Substrate Requirements
-
-- Must be organically grown (conventional straw may contain herbicides, fungicides, growth regulators, and other chemicals -- fungicides fight fungi, making treated straw unsuitable)
-- Healthy straw is natural golden-yellow with no mould spots or musty smell
-- Small compressed bales are easiest to work with when wet
-- Alternative substrates: reeds, shredded garden waste, or a mixture of maize, beans, and peas with straw
-
-### The Sustainable Cycle
-
-Holzer emphasises the cyclical nature of straw-based mushroom cultivation: fresh straw bales are inoculated, mycelium spreads, mushrooms are harvested for the kitchen, exhausted bales become mulch (seeds planted in mulch face no competition), and healthy mycelium from spent bales can inoculate new bales. The cycle of growing mushrooms on straw exemplifies sustainable farming.
-
-## See Also
-
-- [[shiitake-cultivation-guide]]
-- [[oyster-mushroom-bag-cultivation]]
+Straw is often a waste product that can be transformed: many kilograms of mushrooms grow on one small bale with very little effort. Mushrooms also convert rotting straw into valuable [[shiitake-cultivation-guide]]
 - [[hemenway-hugelkultur-guide]]
-- [[holzer-green-manure-soil-fertility]]
 - [[sepp-holzer-method]]

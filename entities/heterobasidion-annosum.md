@@ -98,27 +98,7 @@ When H. annosum encounters other fungi, characteristic defense responses are tri
 
 - Formation of lipid droplets and invaginations of the host plasmalemma at the point of contact (Ikediugwu 1976b)
 - Vacuolation responses in the host hyphae
-- Similar responses have been described for interactions involving [[fusarium-oxysporum]], [[trichoderma-viride]], and [[penicillium-expansum]] in hyphae of Aspergillus niger (Park and Robinson 1964; Robinson and Park 1965)
-
-The formation of callosities, also called lignitubers, at the point of contact represents a defense reaction originally described in plant-fungal interactions (Young 1926).
-
-## Management Strategies
-
-Control of H. annosum in forestry relies on an integrated approach combining multiple strategies:
-
-- **Stump treatment**: Application of phlebiopsis-gigantea spore suspensions or protective chemicals immediately after felling
-- **Timing of operations**: Thinning during periods of low basidiospore production (winter in temperate regions)
-- **Stump removal**: Mechanical extraction of infected stumps where feasible
-- **Species selection**: Planting less susceptible tree species for replanting on infected sites
-- **Mixed-species stands**: Managing species composition to reduce disease spread
-
-## See Also
-
-- phlebiopsis-gigantea — primary biocontrol agent against H. annosum
-- sphaerostilbella-broomeana — fungicolous associate of H. annosum
-- [[fomitopsis-pinicola]] — related polypore and common wood-decay fungus
+- Similar responses have been described for interactions involving [[trichoderma-viride]], and [[fomitopsis-pinicola]] — related polypore and common wood-decay fungus
 - Scytalidium — antibiotically active antagonist of H. annosum
-- [[armillaria-ostoyae]] — another major root-rot pathogen of forests
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]

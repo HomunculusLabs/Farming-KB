@@ -12,14 +12,7 @@ tags:
 sources:
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
-# [[permaculture]] Energy Cycling and Resource Efficiency
-
-Energy literacy — understanding energy sources, sinks, and pathways — is the
-foundation upon which Holmgren builds his entire permaculture framework. Drawing
-heavily on the systems ecology of H.T. Odum, Holmgren frames permaculture as a
-design response tholmgren-problems-of-success-and-energy-descentcent**: the inevitable long-term decline in net
-available energy, particularly from fossil fumollison-lawn-reform-and-alternatives-in-permaculture-designl civilisation
-faces. [[permaculture-design]] is fundamentally about capturing, storing, and
+# [[permaculture-design]] is fundamentally about capturing, storing, and
 cycling energy more effectively at every scale — from the household garden to
 the bioregion.
 
@@ -98,31 +91,9 @@ food, then dumping the resulting waste into waterways. The nutrient deficit on
 farms is replaced with fossil-fuel-derived fertilisers, creating a linear
 throughput that depletes both soil and energy reserves.
 
-Permaculture designs closed-loop nutrient cycles at every scale. [[composting]]
-toilets return human waste to soil. Livestock manure feeds compost piles that
-fertilise gardens. [[green-manure-crops]] and nitrogen-fixing trees pump nutrients
+Permaculture designs closed-loop nutrient cycles at every scale. [[green-manure-crops]] and nitrogen-fixing trees pump nutrients
 from deep soil layers to the surface. Mulch systems cycle organic matter
-through [[decomposition]] back into plant-available forms. At Melliodora, the
-integration of goats, poultry, gardens, and orchards creates nutrient flows
-where the waste of each element feeds another.
-
-The contrast between industrial and permaculture nutrient management mirrors
-the broader cultural contrast: linear vs. cyclical material flows. Industrial
-culture creates pollution; permaculture creates fertility. This is not merely
-a technical preference but a design principle with ethical implications —
-wasting nutrients is wasting the earth's capacity to support life.
-
-## Yield vs. Product
-
-Holmgren draws an important distinction between yield and product. A product
-is the specific harvested item — the apple, the egg, the timber. Yield, in the
-systems ecology sense, is the total useful energy captured by the system. A
-system focused solely on maximising one product often sacrifices overall yield
-by reducing diversity, degrading soil, and eliminating the ecosystem services
-that sustained productivity.
-
-A monoculture apple orchard may produce more apples per hectare than a diverse
-[[food-forest]], but the food forest yields apples, nuts, berries, eggs, honey,
+through [[food-forest]], but the food forest yields apples, nuts, berries, eggs, honey,
 firewood, mulch, fodder, wildlife habitat, soil improvement, and water
 purification simultaneously. The total yield — measured in emergy terms — is
 almost certainly greater from the integrated system, even though no single
@@ -134,10 +105,7 @@ a single product.
 
 Permaculture designs for energy efficiency from household to bioregion. At the
 household scale, zone planning minimises the energy of moving between elements
-and managing systems. At the farm scale, [[keyline-design]] and swale systems
-capture and distribute water by gravity rather than pumps. At the community
-scale, local food systems reduce transport energy. At the bioregional scale,
-forest and [[watershed-management]] stores energy in biological capital for long-
+and managing systems. At the farm scale, [[watershed-management]] stores energy in biological capital for long-
 term community use.
 
 Holmgren warns that chasing efficiency beyond the optimum — what Odum calls

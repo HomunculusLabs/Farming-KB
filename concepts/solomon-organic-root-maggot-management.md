@@ -122,8 +122,6 @@ In settled agricultural areas and urban environments where wild hosts have been 
 
 ## Related Concepts
 
-- [[solomon-pest-management-organic]]
 - [[solomon-row-covers-and-season-extension]]
-- [[brassica-growing-guide]]
 - [[solomon-weed-management-without-chemicals]]
 - [[soil-fertility-management]]

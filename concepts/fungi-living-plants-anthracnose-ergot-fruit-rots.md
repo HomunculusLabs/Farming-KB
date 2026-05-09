@@ -3,7 +3,7 @@ title: Fungi on Living Plants — Anthracnose, Ergot, and Fruit Rots
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -102,11 +102,7 @@ Clavicipitaceae (Hypocreales, Ascomycota): 27 genera, mostly systemic endophytes
 
 ## See Also
 
-- [[rust-fungi-biodiversity-life-cycles]]
 - [[smut-fungi-grass-cereal-parasites]]
-- [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
 - [[straminipiles-oomycetes-fungus-like-chromists]]
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[moist-chamber-technique-fungal-fruiting]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[microfungal-species-diversity-large-areas]]

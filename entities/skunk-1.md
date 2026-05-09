@@ -141,10 +141,9 @@ sources: ["domain-knowledge"]
   including many unnamed hybrids
 - **Broad influence:** Most modern hybrid strains carry at least trace Skunk #1 lineage,
   making it arguably the most genetically pervasive strain in existence
-
 ## See Also
 
-- [[skunk-cannabis]]
 - [[og-kush]]
-- [[northern-lights]]
 - [[hindu-kush]]
+
+See also: [[triangle-kush]]

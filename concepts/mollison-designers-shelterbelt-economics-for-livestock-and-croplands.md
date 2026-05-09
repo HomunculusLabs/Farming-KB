@@ -17,47 +17,7 @@ type: concept
 # Shelterbelt Economics for Livestock and Croplands
 
 Shelterbelts and windbreaks are among the most economically
-significant elements in [[permaculture-design]]. In *Permaculture: A
-Designers' Manual*, Bill Mollison provides detailed analysis of the
-economic returns from shelterbelt plantings for houses, livestock,
-croplands, and civil infrastructure, demonstrating that the benefits
-far exceed the costs of establishment.
-
-## Shelterbelt Effects on Houses
-
-A shelterbelt including thick vine trellis around a house can effect
-a 20-30% saving in heating fuels in moderate to severe winters.
-Wind chill factors remove 60% of heat alone from glazed areas and
-hot water collectors. In cold areas, earthbanks plus shelterbelt
-combined with a sun-facing aspect is a critical design strategy.
-
-In deserts, where advected (wind-carried) heat is the most severe
-effect on human comfort, shelterbelt trees serve to reduce ground
-temperatures up to 15 degrees C. This connects directly to
-[[mollison-microclimate-creation]] and [[mollison-cross-ventilation-passive-cooling]].
-
-## Effects on Livestock
-
-### Blizzard and Cold Stress
-Blizzards will kill livestock and newborn lambs. Even hardy and
-adapted animals can lose 30% of their bodyweight in 3 days of
-blizzard. Fences must be designed so they do not form downwind or
-downslope traps, as herds escaping blizzards will pile up against
-them and smother in fenced corners. All moorland and high plateau
-fences should allow easy downwind escape to woodlots, sheltered
-valleys, or lower elevations.
-
-### Weight Gain and Production
-Sheep weight in unsheltered fields in New Zealand is 15% less than
-that of sheltered areas. Australia attributes 20% of all lamb losses
-to wind chill factors, and issues regular wind chill warnings at
-shearing time to prevent adult sheep loss.
-
-Cattle fed winter rations on exposed sites will eat 16% less of this
-food, so winter hay and concentrates need to be fed out in shelter
-for animals to obtain full benefit. Both heat and cold have similar
-effects on weight gain, and shelterbelts are one of the most
-effective ways of increasing [[mollison-forage-trees-in-livestock-systems]] production and conserving rations.
+significant elements in [[mollison-microclimate-creation]] and [[mollison-forage-trees-in-livestock-systems]] production and conserving rations.
 
 ### Tropical Shelter
 In the tropics and subtropics, a ridge planting of pines or

@@ -1,54 +1,6 @@
----
-title: "crystal structure and crystal defects"
-type: concept
-category: materials-science
-related:
-  - dislocation-theory-crystal-plasticity
-  - phase-diagrams-and-phase-transformations
-  - stress-strain-and-elasticity
-  - fracture-mechanics-engineering-materials
-tags: [materials-science, crystallography, defects, metallurgy, semiconductor,
-  dislocations, grain-boundaries, precipitation, lattice-structure, xrd]
-created: 2026-05-02
-updated: 2026-05-06
-type: concept
-sources: []
----
 Crystal structure and crystal defects are central concepts in materials
 science, governing the mechanical, electrical, thermal, and optical
-properties of virtually all [[fracture-mechanics-engineering-materials]]. A perfect crystal is
-an idealized periodic arrangement of atoms, but real materials always
-contain defects — point, line, planar, and volume imperfections that
-profoundly influence behavior. Understanding both ideal structures and
-their defects is essential for metallurgy, semiconductor manufacturing,
-and advanced materials design.
-
-## Fundamental Crystal Structures
-
-Five crystal structures dominate engineering materials. **Simple cubic (SC)**
-has coordination number 6, one atom per unit cell, and atomic packing
-factor (APF) of 0.52. Only polonium crystallizes in SC; it is uncommon.
-
-**Body-centered cubic (BCC)** has CN = 8, 2 atoms/cell, APF = 0.68.
-Atoms touch along the body diagonal: √3·a = 4r. Common BCC metals:
-α-iron (a = 0.2866 nm), chromium (0.2884 nm), tungsten (0.3165 nm),
-molybdenum (0.3147 nm), vanadium, niobium, tantalum. BCC metals are
-strong but less ductile than FCC, with lower packing density.
-
-**Face-centered cubic (FCC)** has CN = 12, 4 atoms/cell, APF = 0.74 —
-the highest packing for single-element structures. Atoms touch along
-the face diagonal: √2·a = 4r. Common FCC metals: copper (0.3615 nm),
-aluminum (0.4050 nm), nickel (0.3524 nm), silver (0.4086 nm), gold
-(0.4079 nm), platinum (0.3924 nm), γ-iron (austenite, 0.3647 nm).
-FCC metals are typically ductile with many slip systems.
-
-**Hexagonal close-packed (HCP)** has CN = 12, 6 atoms/cell, APF = 0.74.
-Ideal c/a = √(8/3) ≈ 1.633; real metals deviate (Ti: 1.587, Zn: 1.856).
-Common: magnesium (0.3209 nm), titanium (0.2951 nm), zinc (0.2665 nm),
-beryllium, cobalt, zirconium.
-
-**Diamond cubic** has CN = 4, 8 atoms/cell, APF = 0.34 — two
-interpenetrating FCC latt [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
+properties of virtually all [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
 germanium (0.5658 nm), diamond (0.3567 nm). The open covalent structure
 makes these critical for semiconductor and optical applications.
 
@@ -141,9 +93,11 @@ electron mimapscopy (SEM)** with EBSD maps crystal orientations and
 grain boundaries at 10-50 nm spatial resolution. These are complementary:
 XRD for bulk phase ID, TEM for atomic-scale defects, SEM/EBSD for
 microstructural mapping. Advanced techniques include atom probe
-tomography (APT) for 3D composition at sub-nm resofungal-formulation-delivery-in-situand synchrotron
+tomography (APT) for 3D composition at sub-nm resofungal-in-situand synchrotron
 XRD for in-situ studies of phase transformations under load.
 
 ## See Also
 
-- [[palmer-mushroom-anatomy-and-structure]]
+- [[mushroom-anatomy]]-and-structure
+
+See also: [[dislocation-theory-crystal-plasticity]]

@@ -16,10 +16,7 @@ type: concept
 
 # Ergot Fungi Claviceps and Ergot Alkaloids
 
-## [[claviceps-purpurea]]
-
-Claviceps purpurea is the most economically and historically significant
-species of [[ergot-fungus]], parasitic on grasses and cereals worldwide. Unlike
+## [[ergot-fungus]], parasitic on grasses and cereals worldwide. Unlike
 the basidiomycete neurotropic fungi (mushrooms), Claviceps is an
 ascomycete that produces dark, hard sclerotia (ergots) in place of grain
 kernels in infected grass heads. The paper by Guzman, Allen, and Gartz
@@ -83,7 +80,7 @@ trials of 1692, though this hypothesis remains debated.
 ## Connection to LSD
 
 The most significant pharmacological legacy of ergot is the synthesis of
-lysergic acid diethylamide (LSD-25) by [[albert-hofmann]] at Sandoz
+lysergic acid diethylamide (LSD-25) by gordon-wasson at Sandoz
 Laboratories in 1938. LSD was first synthesized from ergotamine, an
 alkaloid produced by Claviceps purpurea. Hofmann's accidental discovery
 of LSD's psychoactive properties in 1943 launched the modern era of
@@ -122,9 +119,5 @@ ergot fungi across diverse climatic zones and grass hosts.
 
 ## See Also
 
-- [[elymoclavine]]
-
 - [[neurotropic-fungi-classification]]
-- [[psilocybin-tryptamine-chemistry-fungi]]
-- amanita-muscaria-and-ibotenic-acid-fungi
 - [[traditional-indigenous-use-sacred-fungi]]

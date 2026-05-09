@@ -3,12 +3,12 @@ title: Permaculture Beginners Guide — Food Forests Introduction
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, food-forests, forest-gardens, stacking, layers, polyculture, burnett]
+tags: [[permaculture, food-forests, forest-gardens, stacking, layers, polyculture, burnett]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
 # Permaculture Beginners Guide — Food Forests Introduction
 
-[[graham-burnett]]'s "Permaculture: A Beginners Guide" (2001) introduces forest gardens as one of the key design strategies for sustainable food production. He presents the concept as an attempt to replicate natural woodland layering, replacing wild plants with edible and useful species. See [[forest-garden-design-principles]], [[food-forest-design-guide]], and [[forest-garden-seven-layers]] for comprehensive treatments from other sources.
+[[forest-garden-design-principles]], [[forest-garden-seven-layers]] for comprehensive treatments from other sources.
 
 ## The Forest Garden Concept
 

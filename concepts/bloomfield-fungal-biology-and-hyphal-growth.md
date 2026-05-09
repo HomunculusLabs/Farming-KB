@@ -98,27 +98,15 @@ Fungi are essential decomposers, pathogens, and symbionts:
 - Fossil mycorrhizal hyphae found inside primitive land plants from 400 million years ago
 - Fungal spores from 600+ million years ago suggest ancient plant-fungal partnerships
 
-- [[bloomfield-fungal-plant-pathogens]]
-
-## See Also
-
 - [[bloomfield-basidiomycete-biology-overview]]
-
-- [[hyphal-growth-dynamics]]
 
 - [[bloomfield-gasteromycetes-puffballs-earthstars]]
 
-- [[bloomfield-bioluminescent-fungi-overview]]
 - [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-fungi-in-folklore-and-mythology]]
 - [[bloomfield-history-of-mycology-pioneers]]
-- [[bloomfield-mushroom-poisons-and-toxidromes]]
 - [[bloomfield-truffle-hunting-and-culinary-fungi]]
 
-- [[fungal-biology-fundamentals]]
 - [[mycelial-foraging-resource-allocation]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
-- [[plant-cell-membrane-transport-proteins]]
 - [[fungal-single-cell-protein-production]]
 - [[plant-cell-structure-and-organelles]]

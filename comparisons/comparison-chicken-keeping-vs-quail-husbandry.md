@@ -22,37 +22,6 @@ production.
 
 ## Chicken Keeping
 
-[[chicken-keeping]]
-
-Chickens are the most productive and widely kept livestock for homesteads of any
-size. A flock of 4-12 hens produces 200-320 eggs per year per hen, provides
-manure for composting, controls insects, and processes food scraps. Breed
-selection ranges from high-production layers like Leghorns (280-320 white
-eggs/year) and Rhode Island Reds (250-300 brown eggs/year) to dual-purpose
-breeds like Orpingtons (200-280 eggs, 7-10 lbs table weight) and Plymouth Rocks.
-Heritage and specialty breeds like Ameraucanas produce blue and green eggs,
-while Silkies serve as excellent broodies for hatching eggs.
-
-Coop design requires 3-4 square feet of indoor space per bird plus an outdoor
-run of 8-10 square feet. Essential features include roosting bars (8-10 inches
-per bird), nesting boxes (one per 3-4 hens), hardware cloth predator protection
-(not chicken wire), and ventilation near the roofline. The deep litter method
-simplifies maintenance: start with 4-6 inches of pine shavings or dry leaves,
-add more bedding as needed, and chickens scratch and mix the manure into a
-composting layer that only needs cleaning once or twice a year. Coop types
-include stationary coops with attached runs, chicken tractors moved daily for
-soil fertilization, and free-range systems with supplemental nighttime housing.
-
-Feeding costs are moderate at roughly 0.25-0.35 lbs of commercial feed per bird
-per day for layers, though free-ranging birds can supplement significantly with
-forage. Chickens are social, personable animals that many keepers form bonds
-with. Their larger size makes them more visible to predators but also easier to
-manage in a tractor system. Zoning restrictions often prohibit roosters in urban
-areas and may restrict flock size, making chickens impractical for some suburban
-and urban locations.
-
-## Quail Husbandry
-
 [[quail-husbandry-detailed]]
 
 Coturnix quail are the most space-efficient micro-livestock available. They
@@ -141,7 +110,5 @@ during short days.
 
 ## See Also
 
-- [[comparison-chicken-keeping-vs-duck-keeping]]
 - [[comparison-chicken-keeping-vs-beekeeping-basics]]
-- [[comparison-rabbit-husbandry-vs-chicken-keeping]]
 - [[comparison-quail-husbandry-vs-rabbit-husbandry]]

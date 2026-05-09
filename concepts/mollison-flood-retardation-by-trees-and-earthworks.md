@@ -64,67 +64,10 @@ are critical for spreading flood waters across the landscape.
 Swales are absorption beds placed on contour to intercept overland flow
 and allow infiltration. They convert destructive runoff into beneficial
 soil moisture recharge. Swale design is covered in detail in
-[[mollison-swale-design-details]].
-
-### Check Dams
-Check dams are barriers not intended to create water storages but to
-create flat areas where silt loads can usefully deposit, forming
-absorption beds in flood conditions. Types include:
-
-- **Concrete flood check dams**: Allow normal flow to pass while
-  retarding floods and preventing rapid flood discharge.
-- **Silt check dams**: Earth or concrete walls or gabions hold silt
-  fields, spread water, and reduce silt load in streams.
-- **Gabion dams**: In drylands, permeable barriers of rock-filled mesh
-  baskets create silt fields and water-spreading across eroding valleys.
-
-### Diversion Drains
-Diversion drains and their associated valves, slides, cross-walls,
-intakes, and irrigation systems enable effective water harvesting and
-flood retardation. They can divert overland flow to sand basins, dune
-fields, swamps, and soakage beds.
-
-### Contour Dams
-Contour dam walls can be built on contour wherever the slope is 8% or
-less. These serve as irrigation, aquaculture, or flood-flow basins in
-semi-arid areas, intercepting runoff that would otherwise concentrate in
-valley floors.
-
-## Flood Data in Design
-
-Flood data, including 100-year flood records, should be consulted during
-design. If flood data is omitted, life itself can be at risk. Flood
-periodicity is as important to designers as any other climate factor.
-Knowing where water flows during extreme events determines safe placement
-of structures, roads, and settlements.
-
-Designers must find out about flood locations and periodicity, rain
-intensity, and temperature extremes, allowing for extremes when
-designing. Structures in flood-prone zones must be elevated or protected
-by embankments.
-
-## Sediment Management
-
-Eroding gullies are best stabilised using strong wire baskets (gabions)
-to contain stones or shingle; these resist floods well and trap sediment
-that would otherwise travel downstream. Gabion dams in series create
-stepped silt fields that gradually stabilize eroding valleys.
-
-Silt check dams reduce the silt load entering streams, protecting
-downstream water quality and reservoir capacity. This sediment
-management approach treats sediment as a resource to be captured rather
-than a waste to be evacuated.
-
-## Integration with Permaculture Systems
-
-- [[mollison-dam-types-landscape-placement]] for comprehensive dam
+[[mollison-dam-types-landscape-placement]] for comprehensive dam
   placement strategies.
-- [[mollison-earthworks-planning-and-post-earthworks-planting]] for
-  earthworks design.
 - [[mollison-water-harvesting-management-permaculture]] for water
   harvesting systems.
-- [[mollison-arid-lands-design-and-erosion-control]] for dryland flood
-  management.
 - [[mollison-soil-erosion-control]] for upstream erosion prevention.
 
 ## Key Principles

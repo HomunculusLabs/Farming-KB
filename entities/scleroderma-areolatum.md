@@ -98,11 +98,7 @@ Unlike Calvatia gigantea, which can reach impressive sizes, S. areolatum rarely 
 
 ## See Also
 
-- [[scleroderma-citrinum]]
 - [[pisolithus-tinctorius]]
-- [[laccaria-bicolor]]
 - [[suillus-luteus]]
-- [[paxillus-involutus]]
 - [[rhizophagus-irregularis]]
-- [[ectomycorrhiza]]
 - [[russula-vesca]]

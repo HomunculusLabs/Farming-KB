@@ -13,7 +13,7 @@ type: comparison
 
 ## Overview
 
-[[seed-balls-technique]] and [[direct-seeding-techniques]] are two approaches 
+[[direct-seeding-techniques]] are two approaches 
 to establishing plants from seed that differ dramatically in their philosophy, 
 precision, and application context. Seed balls, known as tsuchi dango in 
 Japanese, are clay-compost-seed mixtures that protect seeds during dispersal 
@@ -124,10 +124,7 @@ most.
 
 ## See Also
 
-- [[seed-balls-technique]] for clay-compost-seed mixing ratios and methods
 - [[direct-seeding-techniques]] for soil preparation and planting depth guides
-- [[fukuoka-seed-ball-method]] for Fukuoka's original technique
 - [[solomon-thinning-spacing-and-direct-seeding]] for Solomon's detailed 
 approach
-- [[fukuoka-sowing-seed-ball-desert-revegetation]] for large-scale revegetation
 - [[fukuoka-seed-balls-and-direct-seeding]] for Fukuoka's combined methods

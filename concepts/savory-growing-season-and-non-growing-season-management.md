@@ -18,8 +18,7 @@ profoundly different consequences for plants, soils, animals, and wildlife.
 
 ## Growing Season Dynamics
 
-During the growing season, the primary objective is to prevent [[savory-overgrazing-vs-overrest]]
-while maximizing [[savory-energy-flow-and-solar-capture]]. Overgrazing occurs
+During the growing season, the primary objective is to prevent [[savory-energy-flow-and-solar-capture]]. Overgrazing occurs
 when a plant bitten severely in the growing season does not have adequate
 time to recover before being bitten again. Recovery periods must therefore be
 planned based on the growth rate of the most severely grazed plants.
@@ -36,56 +35,7 @@ end.
 Savory notes that most perennial grasses in brittle rangelands would flourish
 if all old material were grazed or trampled off in the dormant season and they
 enjoyed a full, uninterrupted growing season. However, if too many plants
-rest through the full growing season, [[savory-energy-flow-and-solar-capture]]
-can be substantially less than with some grazing and regrowth.
-
-## Non-Growing Season Challenges
-
-The dormant season presents fundamentally different challenges. Animals
-continue to eat and have physical impact on soil and plants, but plants do
-not regrow. The key concern becomes managing the plane of nutrition, since
-each time stock enter a paddock for a second or subsequent selection, the
-forage will contain less protein and energy and more fiber than before.
-
-Savory illustrates how, in an eight-paddock cell with four rotations during
-the dormant season, diet quality drops drastically with each successive
-cycle. Toward the end of the season, the gap between supplies and animal
-needs becomes excessive, requiring costly supplementation. Wildlife, even if
-mobile, often starve under such arbitrary rotational systems.
-
-By manipulating recovery periods and related grazing periods, managers can
-control the number of times animals select from a paddock during dormancy.
-Lengthening recovery periods reduces the number of selections. With only two
-selections and a recovery period of fifty days, nutrition still drops enough
-to require supplementation for top livestock performance, but wildlife would
-have a better chance of survival.
-
-## Drought Reserves Held as Time
-
-Savory advocates holding drought reserves as time rather than as area.
-Traditionally, ranchers withdraw certain paddocks from grazing as a reserve,
-which reduces the number of paddocks in active use and lengthens grazing
-periods, depressing energy flow even before drought occurs.
-
-Since all forage can be measured in animal days, the manager instead thinks:
-my whole spread has X number of animal days of forage. Normally I will need Y,
-so I will have X minus Y animal days of reserve. This allows all paddocks to
-remain in use with shorter grazing periods and better energy flow, while still
-maintaining a reserve measured in days until feed runs out.
-
-## Wildlife Considerations During Dormancy
-
-Dormant periods are the most critical times of year for wildlife, whose food
-depends entirely on the grazing plan for livestock. If stock simply rotate
-through paddocks on an arbitrary schedule, it can devastate wildlife. In
-addition, such rotational grazing commonly results in very high supplemental
-feed costs because domestic animals suffer from the same decreasing plane of
-nutrition inflicted on wild ones.
-
-In low rainfall brittle environments, if plants continue ungrazed through the
-growing season, livestock suffer little. There is more time to have these
-plants either trampled or grazed before risking
-[[savory-plant-succession-and-community-dynamics]]. The
+rest through the full growing season, [[savory-plant-succession-and-community-dynamics]]. The
 highly mineralized soils in drier areas produce grass that remains an asset
 as good forage long into the dormant season or even beyond. Savory has
 observed animals living on forage two years old or older in such areas.
@@ -124,8 +74,6 @@ without supplementation.
 
 ## See Also
 
-- [[savory-recovery-and-grazing-periods]]
 - [[savory-energy-flow-and-solar-capture]]
-- [[savory-stock-density-vs-stocking-rate]]
 - [[savory-drought-planning-and-reserves]]
 - [[savory-livestock-grazing-planning]]

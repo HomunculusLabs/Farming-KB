@@ -101,11 +101,7 @@ There is no such thing as a pure "fungal effect" or "plant effect" -- only an in
 
 ## Related Topics
 
-- [[mycorrhizal-compartmented-culture-systems]] - In vitro culture systems
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - Inoculant production
-- [[piriformospora-indica]] - Axenically cultivable AM-like fungus
 - [[mycorrhizal-inoculant-production-methods]]
-- [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[symbiotic-fungi-mycorrhizal-inoculum-production]]
-- [[piriformospora-indica-in-plant-fungal-co-culture]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

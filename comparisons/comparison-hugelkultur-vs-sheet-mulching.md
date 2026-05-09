@@ -21,37 +21,6 @@ and longevity. They can be used independently or combined for maximum effect, wi
 sheet mulching often serving as the foundation layer beneath hugelkultur mounds.
 
 ## Hugelkultur
-[[hemenway-hugelkultur-guide]]
-Hugelkultur is a raised-bed technique originating from Eastern European and German
-traditions that buries logs, branches, and woody debris beneath layers of green
-nitrogen material, compost, topsoil, and mulch to create mounds typically three to six
-feet wide and two to five feet tall. As the buried wood decomposes over years, it acts
-like a sponge, absorbing and releasing water while generating heat and nutrients
-through fungal decomposition. The process can sustain the beds for ten to twenty years
-or more with diminishing inputs, making it one of the most long-lasting bed creation
-methods available to home gardeners.
-
-Construction requires significant initial labor: sourcing and moving logs, layering
-materials in the correct sequence (large logs at base, smaller branches above, green
-material, then topsoil and mulch), and shaping the mound. Wood selection matters
-greatly, as cedar, black walnut, black locust, eucalyptus, and treated lumber resist
-decomposition or contain allelopathic compounds that harm plants. North-south
-orientation ensures even light distribution on both sides of the mound. The first year
-requires careful management because decomposing wood ties up nitrogen, so light
-feeders like beans, peas, and potatoes are recommended initially. By year two, the
-beds support full crop diversity as decomposition stabilizes and nitrogen becomes
-available.
-
-The strengths of hugelkultur are exceptional long-term water retention (three to five
-times that of conventional beds), carbon sequestration through buried wood, decreasing
-fertilizer needs as decomposition progresses, heat generation from microbial activity
-that extends the growing season, and the ability to convert poor ground or lawn into
-productive garden space. The weaknesses include high initial labor for construction,
-nitrogen tie-up in year one, potential slug and snail problems in the moist
-environment, air pockets from improperly packed large logs, and space requirements
-that exclude very small gardens or apartment balconies.
-
-## Sheet Mulching
 [[sheet-mulching-guide]]
 Sheet mulching creates new garden beds by layering overlapping cardboard or newspaper
 (to smother weeds), two to four inches of compost (for nutrients and microbes), optional
@@ -124,7 +93,5 @@ immediate planting areas in the sheet-mulched sections while the hugelkultur mou
 mature for long-term production.
 
 ## See Also
-- [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
-- [[comparison-sheet-mulching-vs-double-digging]]
 - [[comparison-no-till-vs-raised-bed]]

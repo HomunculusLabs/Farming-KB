@@ -9,10 +9,7 @@ sources:
 type: concept
 ---
 
-# cannabis pollen collection storage clarke
-
-Controlled pollen collection and application are fundamental skills for
-any cannabis breeding techniques program. [[robert-clarke]] devotes extensive attention
+# [[robert-clarke]] devotes extensive attention
 to these techniques in Marijuana Botany, detailing methods for collecting,
 storing, and applying pollen with precision to produce seeds of known
 parentage. The quality of breeding records depends directly on the
@@ -138,13 +135,8 @@ screen such as fuel filter screening or a tea strainer.
 A pistillate flower cluster is ripe for fertilization as long as pale,
 slender pistils emerge from the calyxes. The largest yield of uniform,
 healthy seeds is achieved by pollinating during peak floral stage, when
-the seed plant is covered with thick clusters of white pistils and [[cannabis-advanced-growing-techniques]] has just begun.
+the seed plant is covered with thick clusters of white pistils and [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
 
-The pollination bag is slipped over the pistillate limb tip, sealed, and
-shaken vigorously to disperse pollen evenly throughout the enclosure.
-Accurate records are maintained for each cross, documenting the pollen
-parent, seed parent, date, and any relevant notes.
+## See Also
 
-See also:
-[[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
-[[cannabis-seed-germination-viability-breeding-clarke]]
+- [[cervantes-pollen-collection-storage]]

@@ -3,27 +3,11 @@ title: Permaculture Designers Manual - Site Development Sequence
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# [[permaculture-design]]ers Manual - Site Development Sequence
+tags: [[permaculture-design]]ers Manual - Site Development Sequence
 
 updated: 2026-04-18
 
-The sequence of site development is addressed throughout the manual, with explicit procedural stages in Section 12.5 (house and garden development), Section 14.8 (developmental property trusts), and Section 14.9 ([[mollison-village-development-design]]). Mollison consistently argues for a logical order of implementation that respects natural priorities and minimises wasted effort.
-
-## The Fundamental Priority Sequence
-
-### Phase 1: Water
-
-Water is always first. Before any construction or planting, the water system must be designed and at least partially installed:
-- Observe existing water flows, springs, and seasonal patterns
-- Design and install keyline or swale systems for water distribution
-- Establish storage: tanks, dams, ponds
-- Plan reticulation: pipes, pumps, gravity-fed distribution
-- Design cleanup and recycling: greywater, blackwater, [[nutrient-cycling-in-soil]]
+The sequence of site development is addressed throughout the manual, with explicit procedural stages in Section 12.5 (house and garden development), Section 14.8 (developmental property trusts), and Section 14.9 ([[nutrient-cycling-in-soil]]
 
 "Any village should be able to catch, store, reticulate, and clean up its own water supply" (Section 14.9).
 
@@ -140,5 +124,4 @@ The manual lists areas to reserve for future development:
 - Retail shops and nursery
 ## See Also
 
-- [[permaculture-designers-manual-site-mapping]]
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

@@ -115,8 +115,6 @@ Besides C. atramentarius and the edible C. comatus, the genus and its relatives 
 
 ## See Also
 
-- [[bloomfield-mushroom-poisons-and-toxidromes]] for other mushroom toxins and poisoning syndromes
 - [[bloomfield-fungal-reproduction-and-chemical-communication]] for fungal mating strategies
-- [[bloomfield-fungal-sex-pheromones-mating-communication]] for pheromone-mediated mating
 - [[bloomfield-basidiomycete-biology-overview]] for basidiomycete life cycles and fruiting body development
 - [[bloomfield-gasteromycetes-puffballs-earthstars]] for related basidiomycete fruiting body types

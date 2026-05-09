@@ -9,16 +9,7 @@ sources:
 ---
 # Permaculture Earthworks and Water Harvesting
 
-Earthworks are the largest, most permanent changes made to a landscape in [[permaculture-design]]. Properly designed earthworks harvest, store, and distribute water across the landscape, preventing erosion, recharging groundwater, and creating productive microclimates. Mollison's Designer's Manual devotes extensive coverage to water harvesting earthworks.
-
-## Principles
-
-### Start at the Top, Work Down
-- Design from the highest point of the watershed
-- Water flows downhill — intercept it as high as possible
-- Every drop that falls on your site should slow, spread, and sink before leaving
-
-### The [[keyline-design-water-management]] Scale of Permanence
+Earthworks are the largest, most permanent changes made to a landscape in [[keyline-design-water-management]] Scale of Permanence
 P.A. Yeomans' Keyline concept (adapted by Mollison):
 1. Climate
 2. Landform
@@ -55,96 +46,68 @@ Earthworks primarily address items 2, 3, and 4 — they're permanent and expensi
 ### Planting the Berm
 - Trees on the berm (roots access stored water below)
 - Ground cover on the swale floor (prevents erosion)
-- Nitrogen fixers and [[dynamic-accumulators]] in the planting mix
-- The berm becomes the most productive zone on the property
-
-### Spillways
-- Every swale needs an overflow/spillway at the lowest point
-- Spillway must be armored (rock, grass) to prevent erosion during heavy rain
-- Directs excess water to the next swale below
-
-## Ponds and Dams
-
-### Siting
-- Use the widest part of a valley (more water stored per unit of dam wall)
-- Impermeable subsoil (clay) is ideal — test by digging a hole and filling with water
-- Catchment area above the pond determines water supply
-- Dam wall should be on bedrock or impervious subsoil
-
-### Types
-- **Excavated pond**: Dug below ground level, no dam wall. Suitable for flat land with high water table
-- **Embankment dam**: Dam wall across a valley. Most common for hillside water storage
-- **Spring-fed pond**: Fed by a natural spring. Most reliable year-round water supply
-
-### Sizing
-- Rule of thumb: store 1 megaliter (1 million liters) per hectare of irrigated area
-- Account for evaporation losses (30-50% in hot climates)
-- Depth: 3+ meters preferred (less evaporation, cooler water, less algae)
-- Provide livestock access via fenced ramps (not direct access — prevents erosion)
-
-### Functions Beyond Water Storage
-- Aquaculture (fish, ducks)
-- Fire control reserve
-- Wildlife habitat
-- Microclimate moderation (cools surrounding area)
-- Irrigation (gravity-fed downslope)
-- Recreation
-
-## Keyline Design
-
-### The Keyline
-- The point where the valley floor changes from convex to concave (steepest part of the slope)
-- Found by walking up the valley from the bottom until the slope begins to flatten
-- The "keyline" is a contour line through this point
-
-### Keyline Pattern Plowing
-- Plow parallel to the keyline (not on contour)
-- Above the keyline: plow slightly downhill from each contour
-- Below the keyline: plow slightly uphill from each contour
-- This pattern causes water to move from valleys to ridges — distributing moisture across the landscape
-
-## Contour Banks
-
-### Purpose
-- Divert water across slopes (not downhill)
-- Reduce erosion on agricultural land
-- Can be used for irrigation distribution
-
-### Design
-- Level channels on contour
-- Similar to swales but smaller and more frequent
-- Often used in combination with swales and ponds
-
-## Gabions and Check Dams
-
-### What They Are
-- Wire cages filled with rock, placed across watercourses
-- Slow water flow, trap sediment, prevent gully erosion
-
-### Uses
-- Gully healing: place gabions at intervals in eroding gullies
-- Sediment trap: catches soil washed from above
-- Water spreader: slows concentrated flow, spreads it across landscape
-
-## Design Process
-
-### Assessment
-1. Map the watershed (where does water come from?)
-2. Identify existing water flow patterns (observe during rain)
-3. Calculate catchment area and rainfall
-4. Determine storage needs
-5. Design earthworks from top to bottom
-
-### Implementation
-1. Mark contours carefully (A-frame, laser level, or water level)
-2. Excavate during dry season
-3. Compact dam walls properly (layered, moistened)
-4. Install spillways with erosion protection
-5. Plant immediately after construction (prevent erosion)
-6. Monitor during first rains — check for erosion, leaks, overflow
+- Nitrogen fixers and [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 
 ## See Also
 
-- [[query-what-earthworks-should-i-use-for-water-harvesting]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+## Practical Considerations
+
+When working with permaculture-earthworks and Water Harvesting, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

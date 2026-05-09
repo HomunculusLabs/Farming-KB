@@ -1,7 +1,7 @@
 ---
 title: "Poor Land Syndrome"
 created: 2026-04-28
-tags: [desertification, foreign-aid, poverty, land-deterioration, policy]
+tags: [[desertification]], foreign-aid, poverty, land-deterioration, policy]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
@@ -133,7 +133,5 @@ and economics can the syndrome be reversed.
 
 ## Related Concepts
 
-- [[savory-desertification-causes]]
 - [[savory-erosion-and-land-deterioration]]
-- [[savory-holistic-management-overview]]
 - [[savory-reductionist-vs-holistic-science]]

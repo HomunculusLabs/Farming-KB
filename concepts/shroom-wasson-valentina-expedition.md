@@ -19,37 +19,7 @@ various companions, transformed our understanding of psychoactive fungi
 and led to the isolation of psilocybin. The most momentous of these was
 the 1955 expedition to Huautla, during which Wasson and photographer
 Allan Richardson became the first Westerners to intentionally consume
-psilocybin mushrooms.
-
-## The First Expeditions (1953-1954)
-
-In 1952, Wasson received two letters that alerted him to the existence
-of the Mesoamerican mushroom stones and to the fact that teonanacatl had
-been a mushroom. He wrote to Blas Pablo Reko, who forwarded his letter
-to Eunice Pike, a missionary resident in Huautla. Pike confirmed that
-mushrooms were indeed used in curing rituals and that the Mazatecs
-believed the mushroom to have a "voice," which spoke through the
-curanderos, revealing the cause and cure of illnesses.
-
-In the late summer of 1953, accompanied by his daughter Masha, Wasson
-made the first of ten trips to Mexico. Reko had died in the interim,
-but the Wassons were aided on this first trip by Robert Weitlaner, who
-provided invaluable knowledge and acted as translator. They made their
-way by car over appalling roads and then with donkeys over vertiginous
-mountain passes to Huautla. After much fruitless searching, they
-discovered their local guide, Aurelio Carreras, was himself a curandero
-who agreed to hold a velada, Wasson's term for the indigenous mushroom
-vigils.
-
-Wasson's second trip, in 1954, to the mountainous Mixe region of
-north-east Oaxaca, generated further ethnographic data on indigenous
-mushroom use.
-
-## The 1955 Huautla Expedition
-
-Wasson's third trip, in 1955, with society photographer Allan Richardson,
-proved far more momentous. Returning to Huautla, Wasson had his now
-infamous meeting with the curandera Maria Sabina. She was not only a
+[[maria-sabina]]. She was not only a
 locally respected and charismatic healer but, most importantly, agreed
 to let both Wasson and Richardson eat the "sacred" mushrooms. Thus,
 they became the first Westerners ever intentionally to do so.
@@ -99,20 +69,10 @@ possibility.
 ## Scientific Collaborations
 
 Wasson enlisted in his endeavours the help of notable scientists,
-particularly Roger Heim (1900-1979), Professor of Mycology at the Musee
-National d'Histoire Naturelle in Paris, who identified and described
-the mushroom species used in Mazatec ceremonies. Sufficient samples
-were cultivated in Heim's laboratory for [[albert-hofmann]], the Swiss
-chemist famous for discovering LSD, to isolate the psychoactive
-alkaloids. In 1958, Hofmann first synthesised psilocybin and psilocin.
-
-The team made further discoveries regarding other psychoactive plants
-employed by the curanderos, including Ololiuhqui (Morning Glory seeds)
-and [[salvia-divinorum]].
+particularly [[salvia-divinorum]].
 
 ## Related
 
-- [[wasson-rediscovery-of-psilocybin]] -- Wasson's broader impact
 - [[shroom-mazatec-tradition]] -- Maria Sabina and the Mazatec
   tradition
 - [[shroom-scientific-study]] -- Mycology and psilocybin science

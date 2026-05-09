@@ -75,7 +75,7 @@ The "recreational" use of smaller amounts in social settings (raves, concerts, p
 - The main reason for negative experiences is lack of preparation, not anything inherent in the person or substance
 
 ### Reimprinting the Mind
-Psychedelics can "reimprint the mind" — they dissolve identity and perceptual framework ("ego death"), then the user reassembles a new (hopefully improved) personality. This powerful process underscores why careful [[psychedelic-experience-preparation]] and [[psychedelic-integration-guide]] are essential.
+Psychedelics can "reimprint the mind" — they dissolve identity and perceptual framework ("ego death"), then the user reassembles a new (hopefully improved) personality. This powerful process underscores why careful [[psychedelic-integration-guide]] are essential.
 
 ### Long-Term Mental Effects
 - Turner has never heard of anyone experiencing long-term adverse effects through natural psychedelics (mushrooms, mescaline cacti) — users seem to "take it in stride and come back to center"
@@ -89,34 +89,13 @@ Psychedelics can "reimprint the mind" — they dissolve identity and perceptual 
 ## Contraindications
 
 - Personal or family history of psychosis or schizophrenia
-- Current use of certain medications (especially [[mao-inhibitors-and-psychedelics]])
-- Pregnancy
-- Heart conditions (especially with compounds that affect blood pressure)
-- Inexperienced users should not combine substances
-
-## See Also
-
-- [[mao-inhibitors-and-psychedelics]] — MAOI interactions
-- [[psilocybin-mushroom-potency-and-dosage-guide]] — mushroom dosing
+- Current use of certain medications (especially [[mao-inhibitors-and-psychedelics]] — MAOI interactions
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] — mushroom-specific safety
-- [[psychedelic-use-in-ancient-greece]] — historical use patterns
 - [[psychedelic-harm-reduction-guide]] — comprehensive harm reduction
-- [[psychedelic-crisis-response-protocol]] — crisis management
 - [[psychedelic-dose-response]] — dose-response relationships
-- [[ecstasy-mdma-guide]] — MDMA-specific safety
 - [[dmt-dimethyltryptamine-experience-guide]] — DMT experience guide
-- [[psychedelic-harm-reduction-philosophy]]
-
-## Related
-
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
-- [[ketamine-ultimate-psychedelic-journey]]
-
-## Merged: Psilocybin Public Awareness and Media in Australia
-
-# Psilocybin Public Awareness and Media in Australia
-
-The public discovery of psychoactive mushrooms in Australia did not occur through scientific channels or indigenous knowledge transmission, but rather through a combination of surfer subculture, popular media, and word-of-mouth communication. [[insect-allies]] documented how awareness spread from a small group of surfers in the late 1960s to nationwide recognition by the 1980s, driven largely by newspaper reports that inadvertently served as foraging guides.
+- [[insect-allies]] documented how awareness spread from a small group of surfers in the late 1960s to nationwide recognition by the 1980s, driven largely by newspaper reports that inadvertently served as foraging guides.
 
 ## The Surfer Subculture Connection
 

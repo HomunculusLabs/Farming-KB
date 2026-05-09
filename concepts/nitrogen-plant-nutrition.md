@@ -15,25 +15,7 @@ Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It i
 
 ### Molecular Roles
 - **Amino acids:** Building blocks of all proteins; all contain nitrogen
-- **Chlorophyll:** Essential for [[photosynthesis-carbon-cycle-plants]]; contains four nitrogen atoms per molecule
-- **Nucleic acids:** DNA and RNA require nitrogenous bases (adenine, guanine, cytosine, thymine, uracil)
-- **ATP:** Energy currency of cells contains nitrogen
-- **Enzymes:** All enzymes are proteins, requiring nitrogen for their structure and function
-
-### Deficiency Symptoms
-- General yellowing (chlorosis) of older leaves first (N is mobile in plants)
-- Stunted growth
-- Reduced leaf size
-- Poor tillering in grasses
-- Premature senescence
-- Reduced protein content in food crops
-
-### Excess Symptoms
-- Excessive vegetative growth at expense of flowering/fruiting
-- Dark green foliage
-- Succulent, disease-susceptible growth
-- Delayed maturity
-- Environmental pollution ([[fertilizer-pollution-environmental-impact]])
+- **Chlorophyll:** Essential for [[fertilizer-pollution-environmental-impact]])
 
 ## The Nitrogen Cycle
 
@@ -46,15 +28,7 @@ Nitrogen (N) is the nutrient most commonly limiting plant growth worldwide. It i
 ### Key Processes
 
 **Nitrogen Fixation:**
-- Biological: [[biofertilizers-and-soil-inoculants]] (legumes), Frankia (actinorhizal), Azotobacter, Azospirillum, cyanobacteria
-- Atmospheric: Lightning converts N2 to NOx
-- Industrial: Haber-Bosch process (energy-intensive, ~1-2% of world energy use)
-
-**Mineralization (Ammonification):**
-- Organic N → NH4+ (ammonium)
-- Carried out by soil bacteria and fungi
-- Rate depends on temperature, moisture, C:N ratio, soil biology
-- Faster in warm, moist soils with active [[composting-and-soil-biology]]
+- Biological: [[ozier-pdc-composting-and-soil-building]]
 
 **Nitrification:**
 - NH4+ → NO2- (nitrite) → NO3- (nitrate)
@@ -94,40 +68,26 @@ Materials with C:N above ~25:1 cause net immobilization (tie up available N). Be
 
 ## Nitrogen Sources for Gardeners
 
-### Organic Sources (see [[natural-fertilizer-sources-and-application]])
-- Compost (balanced, slow-release)
-- Aged manure (variable N depending on source)
-- Blood meal (12-15% N, fast-acting)
-- Fish emulsion (variable, fast-acting)
-- Soybean meal (6-7% N, moderate)
-- Alfalfa meal (2-3% N, slow)
-- Human urine (~10% N, fast-acting)
-- Legume cover crops (biological fixation)
-
-### Synthetic Sources
-- Urea (46% N, very soluble)
-- Ammonium nitrate (34% N)
-- Calcium ammonium nitrate
-- Urea-formaldehyde (slow-release)
-
-## Practical Management
-
-### Organic Approach
-1. Build soil biology to mineralize organic N efficiently
-2. Use legume cover crops for biological nitrogen fixation
-3. Apply compost for balanced, slow-release nitrogen
-4. Match application timing to plant demand
-5. Avoid excess — it pollutes and wastes money
-6. Maintain soil moisture for nitrification
-
-### The Mycorrhizal Connection
-mycorrhiza|Mycorrhizal fungi improve nitrogen uptake efficiency. In return for plant carbon (10-20% of photosynthate), they extend the effective root zone and access nitrogen beyond root reach.
-
-## See Also
-
-- [[natural-fertilizer-sources-and-application]]
-- [[biofertilizers-and-soil-inoculants]]
+### Organic Sources (see [[natural-fertilizer-sources-and-application]]
 - [[fertilizer-pollution-environmental-impact]]
-- [[composting-and-soil-biology]]
 - [[ph-and-nutrient-availability-garden-soils]]
 - [[gaias-garden-cover-crops-soil-building]]
+## Practical Considerations
+
+Successful implementation of Nitrogen in Plant Nutrition — The Most Limiting Macronutrient requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

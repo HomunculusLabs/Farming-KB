@@ -95,9 +95,6 @@ Shulgin emphasizes the analogies between tryptamine and phenethylamine substitut
 
 ## See Also
 
-- [[tihkal-introduction-and-methodology]]
 - [[pihkal-introduction-and-methodology]]
-- [[tryptamine-family-overview]]
 - [[tryptamine-consciousness-theory]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[mao-inhibitors-and-psychedelics]]

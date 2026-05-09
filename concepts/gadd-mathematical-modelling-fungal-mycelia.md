@@ -142,8 +142,6 @@ heterogeneity.
 
 ## Related concepts
 
-- [[gadd-mycelial-network-dynamics]]
 - [[gadd-colony-morphogenesis-hyphal-growth]]
-- [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-carbon-sequestration]]

@@ -1,0 +1,125 @@
+---
+title: "PF Tek Inoculation Technique and Syringe Management"
+source: fanaticus-pf-tek-psilocybe-fanaticus.md
+topics: inoculation, spore syringe technique, spore distribution, needle management
+created: 2026-05-08
+---
+
+# PF Tek Inoculation Technique and Syringe Management
+
+## Overview
+
+The PF Tek inoculation procedure is designed for simplicity and
+reliability, enabling first-time cultivators to successfully introduce
+spores into sterilised substrate jars. Psilocybe Fanaticus provided
+detailed instructions covering every aspect of the inoculation process,
+from syringe preparation to the physical mechanics of spore delivery.
+
+## Pre-Inoculation Checks
+
+Before beginning inoculation, Fanaticus specified several mandatory
+preconditions:
+
+1. **Jars must be cool to the touch** — injecting into hot jars will
+   kill spores on contact
+2. **Jar lids must be tight** — ensure the rubber sealing edge faces
+   upward with the jagged needle hole edges facing downward
+3. **Tape removal** — take off the masking tape covering the needle
+   holes in the lid
+4. **Syringe shaking** — shake the syringe well to redistribute
+   spores evenly in the water before each use
+
+## Syringe Technique
+
+### Needle Insertion
+
+Insert the needle through one of the lid holes. Tilt the syringe body
+back towards the centre of the lid so the needle tip touches the glass
+wall of the jar. This angled positioning is critical — it distributes
+the spore water down the side of the jar rather than dumping it into
+the centre of the substrate, providing good inoculation coverage down
+the side of the substrate cake.
+
+### Spore Solution Delivery
+
+Press the syringe plunger slowly while observing the needle tip
+against the inside of the glass. As soon as water appears around the
+needle tip, release the plunger pressure immediately. This visual cue
+prevents over-inoculation of any single point.
+
+### Volume Per Jar
+
+Fanaticus specified using **1 cc per jar**, which allows a standard
+10cc syringe to inoculate 10 jars. More spore solution per jar can be
+used to speed colonisation, but at the cost of being able to inoculate
+fewer jars from a single syringe.
+
+### Between-Hole Protocol
+
+Between each hole inoculation, shake the syringe slightly to keep
+spores evenly distributed in suspension. This prevents clumping and
+ensures consistent delivery across all four inoculation points.
+
+## Needle Plug Troubleshooting
+
+A common problem during inoculation is the needle becoming plugged
+with substrate material as it is inserted through the jar. Fanaticus
+provided a simple solution: if the needle plugs up during insertion,
+draw the needle back slightly (about 1cm) and it will unplug. The
+substrate around the needle tip will fall away, clearing the blockage.
+
+## Syringe Storage
+
+If spore solution remains after inoculation, Fanaticus instructed:
+
+1. Replace the needle guard over the needle
+2. Store the syringe in a dark, cool place
+3. Resterilise the needle immediately before re-use using the alcohol
+   flaming technique
+4. Shake well again before the next inoculation session
+
+## Inoculation Without Jar Lids (Glass Method)
+
+For cultivators using regular 8oz (250ml) tapered drinking glasses
+instead of canning jars with punched lids, Fanaticus provided an
+alternative technique. Key precautions:
+
+- The dry vermiculite barrier layer at the top of the substrate must
+  be disturbed as little as possible
+- Work quickly to minimise contamination exposure time
+- This technique should only be attempted after mastering the standard
+  lid-based inoculation method
+- Fanaticus considered the standard method with punched lids to be
+  "almost fail proof" compared to the glass method
+
+## The PF Tek Innovation: Mass Spore Inoculation
+
+A fundamental innovation of the PF Tek was the use of mass spore
+inoculation directly onto the fruiting substrate, rather than the
+traditional mycological approach of cloning mushroom tissue and growing
+from that clone. Fanaticus explained the advantage: mass spore
+inoculation preserves the complete genotype, eliminating senescence
+(the genetic degradation and ceased fruiting that occurs with
+successive tissue cloning generations). The spores ensure "a never
+ending succession of fungus, with all the power of the spores'
+reproductive ability intact."
+
+## Contamination Prevention During Inoculation
+
+Key sterility practices:
+
+- Flame the needle with an alcohol flame before inoculation if it
+  has been touched or if re-using from a previous session
+- Work in a reasonably clean environment (clean kitchen counter,
+  not a dusty garage)
+- Minimise the time the jar is open or exposed
+- Keep the needle tip inside the jar hole — do not wave it around
+  in the open air
+- The dry vermiculite layer at the top of the jar serves as the
+  primary contaminant barrier during incubation
+
+## See Also
+
+- [[pf-tek-mycelium-senescence-spore-mass-inoculation]]
+- [[pf-tek-contaminant-source-identification]]
+- [[pf-tek-spore-printing-and-syringe-preparation]]

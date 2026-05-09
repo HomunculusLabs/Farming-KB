@@ -87,14 +87,7 @@ This section encapsulates Mollison's broader political critique: that government
 
 ## See Also
 
-- [[mollison-aquatic-polyculture-systems]]
 - [[mollison-marine-aquaculture]]
-- [[aquaculture-in-permaculture]]
-
-## Related
-
 - [[permaculture-design]]
-- [[permaculture-two-species-compendium]]
 - [[polyculture-design-hemenway]]
-- [[pond-design-and-construction]]
 - [[mollison-aquatic-polyculture-and-pond-culture]]

@@ -1,5 +1,4 @@
 ---
-title: Permaculture Dynamic Accumulator Plants
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -125,5 +124,5 @@ Grow accumulators as cover crops before establishing gardens or orchards to brin
 - [[dynamic-accumulators]]
 - [[comfrey-plant-guide]]
 - [[yarrow-plant-guide]]
-- [[composting-and-soil-biology]]
-- [[permaculture-design]]
+- [[nitrogen-cycle-in-soil]]
+- [[permaculture-plant-selection-guide]]

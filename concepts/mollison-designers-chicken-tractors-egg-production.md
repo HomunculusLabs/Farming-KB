@@ -142,8 +142,6 @@ principle of each element performing multiple functions.
 - mollison designers zone planning
 - mollison designers small livestock forage
 - mollison designers composting methods
-- [[mollison-designers-chicken-house-over-swale-integration]]
 - [[mollison-designers-charcoal-production-biochar-soil-amendment]]
-- [[mollison-designers-beekeeping-honey-production-permaculture]]
 - [[permaculture-designers-manual-chicken-tractors]]
 - [[mollison-designers-plant-nursery-seedling-production]]

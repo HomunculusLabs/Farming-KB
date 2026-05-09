@@ -135,16 +135,10 @@ Multiple simultaneous revenue streams:
 **Pine-pasture (SE US):** Longleaf/slash pine at 200–400 trees/ha with bahiagrass understory and cattle; 15–25 year timber rotation.
 
 **Poplar-pasture (Pacific NW):** Hybrid poplar in rows with wide alleys for sheep/cattle; 10–15 year rotation.
-
 ## See Also
 
-- [[agroforestry]]
 - [[companion-planting]]
-- [[food-forest]]
-
 - [[food-forest]] — agroforestry system focused on food production
-- [[hugelkultur]] — soil-building technique complementary to silvopasture
 - [[robinia-pseudoacacia]] — nitrogen-fixing fodder tree for silvopasture
-- [[keyline-design]] — water management design system for pasture integration
 - [[swale]] — water harvesting earthwork for silvopasture systems
 - [[three-sisters]] — companion planting model applicable to silvopasture understory

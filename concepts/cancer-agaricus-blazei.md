@@ -112,10 +112,6 @@ Unlike Lentinan and Schizophyllan from shiitake and Schizophyllum commune respec
 
 ## See Also
 
-- [[cancer-turkey-tail-psk-clinical-trials]]
 - [[cancer-beta-glucan-pharmacology]]
-- [[cancer-immune-modulation-mechanisms]]
-- cancer integration conventional treatment
-- cancer agaricus blazei
 - [[agaricus-blazei-murill-research]]
 - [[medicinal-mushroom-guide-agaricus-blazei]]

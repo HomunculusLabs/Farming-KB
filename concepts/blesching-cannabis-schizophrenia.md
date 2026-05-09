@@ -97,8 +97,6 @@ for CB2 receptors, while THC binds relatively equally with both CB1 and CB2.
 
 ## Related Topics
 
-- [[blesching-cannabis-bipolar-disorder]]
 - [[blesching-cannabis-ptsd-anxiety]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[blesching-cannabinoid-pharmacology]]

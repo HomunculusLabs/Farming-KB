@@ -3,21 +3,10 @@ title: permaculture Sewage and Marsh Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Permaculture Sewage and Marsh Treatment
-
-**Updated:** 2026-04-18
-[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], sewage is treated through biological marsh systems rather than mechanical treatment plants. Sewage flows through a sequence of holding ponds, marsh plants, and finally into productive ponds, creating an industrial resource base rather than a waste problem.
+tags: [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], sewage is treated through biological marsh systems rather than mechanical treatment plants. Sewage flows through a sequence of holding ponds, marsh plants, and finally into productive ponds, creating an industrial resource base rather than a waste problem.
 
 ## Source
-Bill [[mollison-permaculture-design-course-curriculum]] Course, Pamphwater-in-permacultureaculture)
-
-## Core Principle
-
-Sewage should be turned out into a marsh, NOT a pond. The marsh is planted with high-demand plants (mints, bog plants) that have phenomenal [[mycorrhizal-nutrient-uptake]] capacity. After passing through the marsh, the water contains no solids but still holds dissolved nutrients (mainly phosphates and nitrates) that can fertilize downstream systems.
+Bill [[mycorrhizal-nutrient-uptake]] capacity. After passing through the marsh, the water contains no solids but still holds dissolved nutrients (mainly phosphates and nitrates) that can fertilize downstream systems.
 
 ## System Design
 
@@ -90,10 +79,6 @@ Black peppermint is an excellent sewage treatment plant:
 - [Duck pond systems -- can integrate with sewage treatment
 - [Greywater systems -- separate from blackwater/sewage
 - [Pond construction -- technical aspects
-- [[off-grid-waste-management]] -- broader permaculture waste management strategy
-
-## See Also
-
 - [[mollison-permaculture-two-sewage-waste-treatment]]
 - [[sewage-waste-recycling-permaculture]]
 - permaculture sewage marsh treatment

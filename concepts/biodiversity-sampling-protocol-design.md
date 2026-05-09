@@ -14,13 +14,7 @@ sources:
 type: concept
 ---
 
-# Sampling Protocol Design for [[fungal-biodiversity]] Studies
-
-Designing effective sampling protocols for fungal biodiversity studies
-requires careful consideration of spatial and temporal scales, habitat
-heterogeneity, substratum availability, and the ecology of target fungal
-groups. Protocols must be tailored to the specific goals of the study,
-whether inventorying [[biodiversity-macrofungi-inventory-methods]],
+# Sampling Protocol Design for [[biodiversity-macrofungi-inventory-methods]],
 monitoring populations, or comparing diversity across sites.
 
 ## Fundamental Considerations
@@ -49,33 +43,7 @@ assumptions about identity.
 How often a plot should be sampled depends on the amount of species
 turnover between sampling dates. For Xylariaceae and small ascomycetes in
 the tropics, 3-month intervals provide an optimal balance between
-discovery of new species and sampling effort. Fruiting [[agar]]ic species
-exhibit high turnover and should be sampled at weekly or biweekly
-intervals. Corticioid and polypore fungi may be sampled at approximately
-2-month intervals. Sampling during all seasons of several years increases
-the probability of documenting the full complement of species at a site.
-
-## Data Collection Standards
-
-In addition to standard collection data (date, macrohabitat, elevation,
-host, plot number), the following should be recorded for wood-inhabiting
-fungi: substratum/host class (trunk, branch, twig, stump, or root),
-condition (living, dead, or dead on living plant), position (vertical,
-prostrate, on ground, or suspended), substratum preference (wood only,
-bark only, or both), and substratum size class (less than 1.0 cm through
-more than 20 cm diameter). Decay class should also be recorded: Class 1
-(relatively newly fallen, retaining bark), Class 2 (medium rotten, bark
-fallen off), Class 3 (thoroughly rotten, partly destroyable with
-fingers), and Class 4 (well decayed, humus-like).
-
-## Adaptive Sampling
-
-Adaptive sampling refers to any design in which sampling effort is
-modified in response to observations made during sampling. A threshold
-value for the number of samples of target organisms is set; when exceeded,
-another area is sampled in a predetermined way. This approach is useful
-for increasing observations of rare organisms with patchy distributions,
-such as [[biodiversity-macrofungi-woody-substrata]]. Statistical methods
+discovery of new species and sampling effort. Fruiting [[biodiversity-macrofungi-woody-substrata]]. Statistical methods
 exist for dealing with bias from unequal sampling effort when comparing
 values from different sites sampled using adaptive methods.
 
@@ -146,5 +114,8 @@ minimum values; if resources are available, increasing the number of
 plots per site and/or sampling intensity is strongly recommended. Pilot
 studies are useful for determining the intensity of sampling required and
 the taxonomic difficulty of the project.
+## See Also
 
 ## See Also
+
+- [[fungal-biodiversity-sampling-design]]

@@ -23,9 +23,7 @@ Yet despite its ubiquity and importance, mycelium remains one of the least under
 
 ## Mycelium: The Neurological Network of Nature
 
-Fungal mycelium is the [[actinomycetes-soil-biology|subterranean web]] that underpins most terrestrial ecosystems. It forms vast, branching networks of tubular cells called hyphae, which interlace through soil, wood, and organic matter in dense, interlacing mosaics. These membranes are not passive structural elements. They actively transport water, carbon compounds, minerals, and chemical signals between plants, microorganisms, and the environment itself.
-
-Paul Stamets describes mycelium as the [[underground-fungal-networks|neurological network of nature]], drawing a direct parallel between the architecture of mycelial webs and the synaptic networks of animal brains. In both systems, branching filaments make countless connections, allowing information to flow, be processed, and produce coordinated responses across a distributed body without any central command node. The mycelial network is, in a meaningful sense, a distributed intelligence: it senses environmental conditions, allocates resources toward favorable zones, and reroutes around obstacles, all without a brain.
+Fungal mycelium is the [[underground-fungal-networks|neurological network of nature]], drawing a direct parallel between the architecture of mycelial webs and the synaptic networks of animal brains. In both systems, branching filaments make countless connections, allowing information to flow, be processed, and produce coordinated responses across a distributed body without any central command node. The mycelial network is, in a meaningful sense, a distributed intelligence: it senses environmental conditions, allocates resources toward favorable zones, and reroutes around obstacles, all without a brain.
 
 This neurological analogy extends further. Just as neurons in a brain strengthen frequently used pathways through synaptic plasticity, mycelial networks reinforce the hyphal connections that prove most productive. Routes leading to rich nutrient sources become thicker and more robust, while less productive branches may be pruned back and their resources reabsorbed. This dynamic remodeling means that the mycelial network is not a static structure but a constantly adapting map of its environment, learning and optimizing its connections over time.
 
@@ -35,11 +33,7 @@ These experiments suggest that biological networks possess an inherent capacity 
 
 ## Interlacing Mosaics and Information-Sharing Membranes
 
-Mycelial networks function as living [[mollison-designers-internet-of-plants-information-sharing]] membranes. When one part of the network encounters a resource such as a nutrient deposit or a decomposing log, that information propagates through the web via cytoplasmic streaming and biochemical signaling. Other parts of the network can then redirect growth toward the detected resource. This capability transforms mycelium from a simple absorptive tissue into an adaptive, sensing, and responding organism.
-
-The interlacing mosaic of hyphae creates an enormous surface area for interaction with the surrounding environment. Every hyphal tip is a growing, probing sensor, constantly sampling the chemical landscape. The resulting network is simultaneously an absorptive surface, a transport system, a communication channel, and a decision-making apparatus distributed across thousands of acres.
-
-This information-sharing capacity extends to relationships with other organisms. Through [[teaming-with-microbes-mycorrhizal-associations|mycorrhizal associations]], mycelial networks connect the root systems of different plants and even different species, creating what has been called a "wood wide web." Through these connections, carbon, nitrogen, phosphorus, water, and chemical alarm signals can pass between individuals. A tree under insect attack, for example, may send chemical warnings through the fungal network that allow neighboring trees to preemptively activate their defensive chemistry. Mother trees have been observed funneling carbon through mycorrhizal networks to shaded seedlings of their own offspring, suggesting that fungal networks facilitate not just information exchange but cooperative behavior between plants.
+Mycelial networks function as living [[teaming-with-microbes-mycorrhizal-associations|mycorrhizal associations]], mycelial networks connect the root systems of different plants and even different species, creating what has been called a "wood wide web." Through these connections, carbon, nitrogen, phosphorus, water, and chemical alarm signals can pass between individuals. A tree under insect attack, for example, may send chemical warnings through the fungal network that allow neighboring trees to preemptively activate their defensive chemistry. Mother trees have been observed funneling carbon through mycorrhizal networks to shaded seedlings of their own offspring, suggesting that fungal networks facilitate not just information exchange but cooperative behavior between plants.
 
 The mycorrhizal relationship is itself a remarkable example of evolutionary partnership. In exchange for carbon from photosynthesis, mycorrhizal fungi provide plants with phosphorus, nitrogen, water, and trace minerals scavenged from soil volumes far beyond the reach of plant roots alone. In many forests, over ninety percent of plant species are dependent on mycorrhizal associations. The plant-fungal symbiosis is not a casual interaction but a fundamental condition of terrestrial plant life, one that has co-evolved for over four hundred million years and without which most ecosystems would collapse.
 
@@ -53,9 +47,7 @@ Fungi are far older and more deeply intertwined with animal life than most peopl
 
 This deep kinship has practical consequences. The biochemical similarities between fungi and animals mean that fungal pathogens can be particularly dangerous to human health, as they share enough cellular machinery with their hosts to evade immune detection. Conversely, these same similarities have made fungi invaluable in medicine. Many of our most important antibiotics, including penicillin, are derived from fungi, and the study of fungal biochemistry has yielded treatments for cholesterol, organ rejection, and fungal infections themselves. The evolutionary proximity of fungi and animals is not merely a matter of taxonomy; it is a relationship that has shaped medicine, agriculture, and our understanding of life itself.
 
-Fungi colonized land approximately one billion years ago, long before plants. Early terrestrial fungi would have been among the first organisms to weather rock, build soil, and establish the conditions that later made plant life possible. The fungal kingdom thus played a foundational role in the [[ingham-nutrient-cycling-soil-food-web|creation of terrestrial ecosystems]]. Without the pioneering work of fungi in breaking down rock and accumulating organic matter, the land would likely have remained barren long after aquatic life had diversified.
-
-Following the Permian-Triassic extinction, the most severe mass extinction in Earth's history approximately 252 million years ago, the fossil record shows a dramatic surge in fungal spores. With vast quantities of dead woody material and few detritivorous animals remaining, fungi proliferated to become the dominant decomposers, cycling enormous volumes of organic matter and ultimately rebuilding the [[humus-formation-and-soil-organic-matter|soil systems]] upon which later ecosystems recovered. This fungal spike, visible in sedimentary rock layers worldwide, marks one of the most dramatic illustrations of mycelium's role as the planet's primary recycling system.
+Fungi colonized land approximately one billion years ago, long before plants. Early terrestrial fungi would have been among the first organisms to weather rock, build soil, and establish the conditions that later made plant life possible. The fungal kingdom thus played a foundational role in the [[humus-formation-and-soil-organic-matter|soil systems]] upon which later ecosystems recovered. This fungal spike, visible in sedimentary rock layers worldwide, marks one of the most dramatic illustrations of mycelium's role as the planet's primary recycling system.
 
 ## The Mycelial Archetype
 
@@ -75,9 +67,7 @@ Understanding the mycelial archetype has practical implications. Engineers study
 
 ## Density and Scale of Fungal Networks
 
-The sheer density of fungal networks in soil is difficult to overstate. A single cubic inch of forest topsoil contains enough [[actinomycetes-soil-biology|fungal cells]] to stretch more than eight miles if placed end to end. By this measure, every footstep on forest soil compresses and disturbs over three hundred miles of mycelial filaments. Fungi outnumber plants six to one in species diversity, and their biomass in many soils exceeds that of all other soil organisms combined.
-
-Individual mycelial organisms can reach staggering sizes. The honey mushroom *[[armillaria-ostoyae|Armillaria ostoyae]]* in the Malheur National Forest of Oregon covers more than 2,400 acres, making it one of the largest known organisms on Earth by area. Genetically identical and acting as a single coordinated network, this organism demonstrates that mycelium can operate at landscape scales. Its rhizomorphs, thick cord-like bundles of hyphae, spread through the soil and transport resources across enormous distances, linking thousands of trees into a single organism.
+The sheer density of fungal networks in soil is difficult to overstate. A single cubic inch of forest topsoil contains enough [[armillaria-ostoyae|Armillaria ostoyae]]* in the Malheur National Forest of Oregon covers more than 2,400 acres, making it one of the largest known organisms on Earth by area. Genetically identical and acting as a single coordinated network, this organism demonstrates that mycelium can operate at landscape scales. Its rhizomorphs, thick cord-like bundles of hyphae, spread through the soil and transport resources across enormous distances, linking thousands of trees into a single organism.
 
 Notably, only about ten percent of known fungal species produce visible mushrooms, and of those, only about ten percent have been formally identified and described. The vast majority of fungal diversity remains undocumented, meaning that the ecological networks we can observe represent only a fraction of what exists. What we see above ground as mushrooms is merely the reproductive tip of a vast, hidden network whose full extent and function we are only beginning to understand.
 
@@ -85,9 +75,7 @@ The challenge of studying mycelium is partly one of invisibility. Most mycelial 
 
 ## Nutrient Cycling and Soil Creation
 
-Mycelium is the primary engine of [[ingham-nutrient-cycling-soil-food-web|nutrient cycling]] in most terrestrial ecosystems. Fungi are decomposers par excellence, breaking down complex organic polymers such as lignin and cellulose that few other organisms can process. Through this decomposition, mycelium converts dead organic matter into forms that are accessible to plants and other organisms, closing the loop of biological productivity. Without fungal decomposition, the world's forests would be buried beneath mountains of undecayed wood and leaf litter.
-
-Beyond decomposing organic matter, mycelium actively creates soil from rock. Fungi secrete oxalic acid and other organic acids at their hyphal tips. This oxalic acid reacts with minerals in rock, forming compounds such as calcium oxalate. Over time, this process, known as [[fungi-in-the-environment-biological-weathering-mechanisms|biological weathering]], literally dissolves rock and transforms it into mineral-rich soil particles. Without fungi, the slow conversion of bedrock into fertile soil would be drastically reduced. The process is slow on human timescales but geologically transformative. Fungi, working in concert with bacteria, lichens, and physical weathering, have generated the thin, life-giving layer of topsoil that covers the terrestrial surface of the planet.
+Mycelium is the primary engine of [[fungi-in-the-environment-biological-weathering-mechanisms|biological weathering]], literally dissolves rock and transforms it into mineral-rich soil particles. Without fungi, the slow conversion of bedrock into fertile soil would be drastically reduced. The process is slow on human timescales but geologically transformative. Fungi, working in concert with bacteria, lichens, and physical weathering, have generated the thin, life-giving layer of topsoil that covers the terrestrial surface of the planet.
 
 The significance of oxalic acid secretion extends beyond mineral dissolution. The calcium oxalate crystals that form as byproducts of this process can persist in soil for long periods, acting as a slow-release reservoir of calcium and carbon. When these crystals eventually dissolve, they return both calcium and carbon to the soil solution, making them available for plant uptake. In this way, mycelium not only breaks down rock but also constructs a long-term nutrient storage system that sustains soil fertility across decades and centuries.
 
@@ -95,17 +83,11 @@ The significance of oxalic acid secretion extends beyond mineral dissolution. Th
 
 Mycelial networks are exquisitely sensitive to environmental conditions. They respond to changes in moisture, temperature, pH, chemical gradients, and the presence of toxins or pathogens. When mycelium encounters a contaminant such as petroleum hydrocarbons or heavy metals, it can redirect its enzymatic machinery to break down or sequester the offending substance. When nutrients become scarce in one zone, the network can shift resources from nutrient-rich areas to sustain growth in poorer regions, maintaining overall network integrity.
 
-This responsiveness has profound implications for [[fungal-biosensors-environmental-monitoring|environmental monitoring]]. Mycelial networks could serve as living biosensors, detecting and responding to pollutants, pathogens, or ecological disturbances in real time. Changes in the growth patterns, enzymatic output, or electrical activity of mycelium could be measured and interpreted as indicators of environmental health. Because mycelial networks are already distributed throughout soils and waterways, they represent a pre-existing monitoring infrastructure that could be read and interpreted with the right tools.
-
-Research has shown that fungal networks can concentrate heavy metals from contaminated soil, effectively pulling toxins out of the wider environment and immobilizing them within fungal tissue. Some species produce enzymes that break down complex hydrocarbons, offering a biological pathway for degrading oil spills and industrial pollutants. The mycelial network's ability to sense, respond to, and process environmental information makes it a natural candidate for bioremediation and ecological restoration.
-
-The concept of fungal networks as environmental sensors gains additional weight from the discovery that mycelium generates measurable electrical signals. These action potential-like impulses, which can be detected using surface electrodes, change in frequency and pattern in response to environmental stimuli. Scientists at institutions including the University of the West of England have demonstrated that these signals can be used to monitor the health of fungal networks and, by extension, the health of the surrounding soil ecosystem. The possibility of deploying arrays of electrodes to listen to the electrical chatter of soil mycelium represents a radically new approach to [[fungal-biosensors-environmental-monitoring|ecological monitoring]] that could transform how we assess and manage environmental health.
+This responsiveness has profound implications for [[fungal-biosensors-environmental-monitoring|ecological monitoring]] that could transform how we assess and manage environmental health.
 
 ## Implications for Computing and Technology
 
-The computational properties of mycelial networks have attracted growing interest in [[biological-slime-mold-computing|biological computing]] and unconventional computing. Mycelium solves optimization problems naturally, routing resources through the most efficient paths available. Researchers have demonstrated that slime molds and fungal networks can recapitulate solutions to network design problems, finding efficient routes through mazes or reproducing the layout of transportation networks.
-
-The idea of using living fungal networks as computational substrates raises fascinating possibilities. A mycelial computer could, in principle, process information about its environment and produce outputs such as resource routing decisions, chemical synthesis patterns, or structural growth responses. While still largely speculative, this line of inquiry connects mycology directly to [[biological-slime-mold-computing|bio-inspired computing]] and the search for sustainable, biodegradable technologies.
+The computational properties of mycelial networks have attracted growing interest in [[biological-slime-mold-computing|bio-inspired computing]] and the search for sustainable, biodegradable technologies.
 
 Beyond computing, mycelium is already being explored as a manufacturing material. Mycelium-based composites, grown from agricultural waste colonized by fungal networks, are being developed as replacements for styrofoam packaging, leather, and building insulation. These materials are biodegradable, fire-resistant, and require minimal energy to produce, offering a glimpse of a future in which fungal networks serve not only as ecological infrastructure but as industrial feedstocks.
 
@@ -115,24 +97,8 @@ Pioneering work by the Unconventional Computing Laboratory at the University of 
 
 ## Mycorestoration
 
-Paul Stamets coined the term [[mycorestoration]] to describe the use of fungi to repair damaged environments. This concept encompasses several specific applications:
-
-- **Mycofiltration**: Using mycelial mats to filter biological and chemical contaminants from water, trapping pathogens and breaking down pollutants before they reach waterways
-- **Mycoremediation**: Deploying fungi to decompose or sequester toxic substances in contaminated soil, including petroleum products, pesticides, and heavy metals
-- **Mycoforestry**: Introducing beneficial fungal species into forest ecosystems to accelerate decomposition, improve soil health, and support tree growth
-- **Mycopesticides**: Using fungi as natural agents to control insect pests and plant diseases, reducing dependence on synthetic chemicals
-
-The mycorestoration framework rests on the recognition that fungi already perform these functions in nature. By understanding and working with mycelial networks rather than against them, we can harness capabilities that have been refined through a billion years of evolution. Mycorestoration represents a paradigm shift from extractive, chemical-intensive approaches to environmental management toward biological, regenerative strategies that work in partnership with natural systems.
-
-The implications of this shift are profound. Industrial agriculture, urban development, and resource extraction have systematically degraded mycelial networks through compaction, chemical contamination, and habitat destruction. Recognizing the ecological infrastructure that mycelium provides, and investing in its restoration, could be among the most cost-effective strategies for addressing soil degradation, water pollution, and climate change. As Stamets argues, we are surrounded by ecological solutions that nature has already engineered; the challenge is to learn the language of these systems and work with them rather than against them.
-
-## See Also
-
-- [[underground-fungal-networks|Fungal Networks]]
-- [[mycorestoration|Mycorestoration]]
+Paul Stamets coined the term [[underground-fungal-networks|Fungal Networks]]
 - [[ingham-nutrient-cycling-soil-food-web|Nutrient Cycling]]
-- [[actinomycetes-soil-biology|Soil Biology]]
 - [[fungi-in-the-environment-biological-weathering-mechanisms|Biological Weathering]]
-- [[mycology|Mycology]]
 - [[fungal-ecology-and-decomposition|Decomposition and Fungi]]
 - [[teaming-with-microbes-mycorrhizal-associations|Mycorrhizal Associations]]

@@ -140,11 +140,8 @@ Mushrooms have evolved various defenses against predation:
 - **Bruising reactions** -- Some species develop intense blue or black
   staining when damaged, often indicating oxidation of psychoactive or
   toxic compounds that may deter insects.
-
 ## See Also
 
-- [[mycology]]
 - [[mycelium]]
-- [[spore]]
 - [[mycorrhiza]]
 - [[edible-wild-mushrooms-by-region]]

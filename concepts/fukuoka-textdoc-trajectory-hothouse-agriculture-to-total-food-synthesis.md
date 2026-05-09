@@ -135,15 +135,9 @@ end in vain.
 ## The Vicious Cycle
 ## See Also
 
-- [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
-  for focused hothouse analysis
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
   for energy efficiency calculations
-- [[fukuoka-textdoc-production-costs-not-coming-down]] for
-  the cost fallacy
 - [[fukuoka-textdoc-decline-quality-food]] for quality
   deterioration
-- [[fukuoka-textdoc-critique-mechanization-agriculture]] for
-  the critique of mechanization
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]] for
   Fukuoka's warning about genetic engineering

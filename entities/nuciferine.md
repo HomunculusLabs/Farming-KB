@@ -138,10 +138,6 @@ regulations or unapproved supplement rules.
 
 ## See Also
 
-- [[nelumbo-nucifera]]
 - [[nymphaea-caerulea]]
-- [[psilocin]]
-- apomorphine
-- dopamine receptor
 - [[mescaline-entity]]
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]

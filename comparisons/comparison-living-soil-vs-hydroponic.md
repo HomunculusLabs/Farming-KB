@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[living-soil-cannabis]] and [[hydroponic-cannabis]] represent two fundamentally different
+[[hydroponic-cannabis]] represent two fundamentally different
 philosophies of plant cultivation. Living soil mimics natural terrestrial ecosystems, relying
 on a complex web of microorganisms to break down organic matter and cycle nutrients to the
 plant root zone. Hydroponic systems bypass soil biology entirely, delivering mineral nutrients
@@ -32,13 +32,7 @@ advantages.
 
 ## Living Soil: Feeding the Ecosystem
 
-[[living-soil-cannabis]] is built on the principle of "feed the soil, not the plant." Rather
-than providing pre-dissolved mineral nutrients, living soil growers amend their medium with
-organic materials — compost, worm castings, kelp meal, bone meal, fish hydrolysate, and
-similar inputs — and rely on the soil microbiome to break these down into plant-available
-forms.
-
-The living soil microbiome includes bacteria, fungi (particularly [[mycorrhizal-fungi]]),
+[[mycorrhizal-fungi]]),
 protozoa, nematodes, and arthropods that form a self-sustaining nutrient cycle. Bacteria and
 fungi decompose organic matter, protozoa consume bacteria and release nitrogen in
 plant-available form, and mycorrhizal fungi form symbiotic associations with plant roots,
@@ -70,34 +64,11 @@ inoculants.
 
 ## Hydroponic Cannabis: Precision and Performance
 
-[[hydroponic-cannabis]] encompasses a range of soilless growing methods — including deep water
-culture (DWC), [[nutrient-film-technique]] (NFT), [[ebb-and-flow]], drip irrigation, and coco coir
-with liquid nutrients — that deliver pre-formulated mineral nutrient solutions directly to the
-root zone. All hydroponic systems share the fundamental characteristic of growing plants
-without soil, using an inert medium (or no medium at all) to support the roots while nutrients
-arrive dissolved in water.
-
-The primary advantage of hydroponics is growth speed and yield. Plants grown hydroponically
-typically mature 20 to 30 percent faster than their soil-grown counterparts because nutrients
-are immediately available at the root surface without any microbial processing delay. Yields
-per watt of light are consistently higher in hydroponic systems, making them the preferred
-choice for commercial cultivation where output per square foot directly impacts profitability.
-
-Hydroponic nutrient solutions are formulated from mineral salts that dissolve completely in
-water, providing precise control over the NPK (nitrogen, phosphorus, potassium) ratio and
-micronutrient levels. This allows growers to tailor nutrition to each stage of the plant's
-life cycle and to quickly diagnose and correct deficiencies or toxicities. Digital meters for
-pH and EC (electrical conductivity) are essential tools, and the nutrient reservoir typically
-requires daily monitoring and adjustment.
-
-The trade-off for this precision is vigilance. Hydroponic systems have very little buffer
-capacity — a pH swing of even 0.5 points outside the optimal range (typically 5.5 to 6.5) can
-cause [[nutrient-lockout]] where essential elements become unavailable to the plant. Equipment
+[[nutrient-film-technique]] (NFT), [[nutrient-lockout]] where essential elements become unavailable to the plant. Equipment
 failures such as pump breakdowns or timer malfunctions can cause catastrophic crop loss within
 hours if not addressed immediately.
 
-[[deep-water-culture]] (DWC) suspends plant roots directly in an aerated nutrient solution,
-providing the fastest growth rates of any hydroponic method. Drip [[irrigation-systems]] pump
+[[irrigation-systems]] pump
 nutrient solution through tubes to individual plants, offering more control and scalability.
 Coco coir with liquid nutrients provides a soil-like growing experience with the precision of
 hydroponic feeding, and is often considered a bridge between the two philosophies.
@@ -142,9 +113,7 @@ fewer synthetic inputs than mineral hydroponics. "Bioponics" introduces benefici
 into hydroponic systems, combining some of the resilience of living soil biology with the
 efficiency of nutrient solution delivery. Some growers use living soil for their final flower
 cycle after starting plants in a faster hydroponic vegetative system.
-
 ## See Also
 
-- [[living-soil-cannabis]]
 - [[hydroponic-cannabis]]
 - [[no-till-cannabis]]

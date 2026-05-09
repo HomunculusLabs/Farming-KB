@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Micronutrients in Plant Nutrition — Boron, Iron, Manganese, Zinc, Copper
@@ -122,23 +123,13 @@ Can occur in soils with high copper from repeated fungicide applications. Causes
 ## General Principles
 
 ### pH is Critical
-Most micronutrients become less available at high pH. Maintaining appropriate [[ph-and-nutrient-availability-garden-soils]] is the single most important factor in micronutrient management.
-
-### Organic Matter
-Organic matter chelates (binds) micronutrients, keeping them available in soluble forms that plants can absorb. [[composting-and-soil-biology]] and organic amendments are excellent micronutrient sources.
+Most micronutrients become less available at high pH. Maintaining appropriate [[ozier-pdc-composting-and-soil-building]] and organic amendments are excellent micronutrient sources.
 
 ### The Danger of Excess
 Because micronutrients are needed in tiny amounts, it is very easy to over-apply and cause toxicity. Symptoms of micronutrient toxicity are often similar to deficiency symptoms of other nutrients, making diagnosis difficult.
 
 ### Soil Testing
-Regular [[garden-soil-terminology-glossary]] that includes micronutrient analysis is the best way to prevent both deficiencies and toxicities.
-
-## See Also
-
-- [[ph-and-nutrient-availability-garden-soils]]
-- [[natural-fertilizer-sources-and-application]]
+Regular [[ph-and-nutrient-availability-garden-soils]]
 - [[glomalin-and-soil-carbon]]
-- [[nutrient-cycling-in-soil]]
 - [[garden-soil-terminology-glossary]]
-- [[growing-vegetables-with-less-fertilizer]]
 - [[plant-cell-membrane-transport-proteins]]

@@ -15,59 +15,7 @@ type: concept
 
 Endophytic bacteria reside within plant tissues without causing substantive harm
 to their host. They may benefit the host through competition for habitat via
-antibiotic production, induction of [[plant-defense-mechanisms]], production of plant
-growth stimulators, and improving soil quality. Endophytes represent an abundant
-and dependable source of biologically important and chemically novel bioactive
-compounds with potential pharmaceutical and agricultural applications. The
-hanging (aerial) roots of the banyan tree (*Ficus bengalensis*) provide a unique
-study system because these roots descend from branches and can be sampled
-without disturbing the root-soil interface, reducing epiphyte contamination.
-
-## Selecting Plant Material for Endophyte Study
-
-When prospecting for bioactive endophytes, several criteria guide plant
-selection. Plants from unique environmental niches with unusual biology are
-priority candidates. Plants with ethnobotanical history, endemic species with
-unusual longevity, and plants in areas of great biodiversity all have higher
-potential for hosting diverse endophytes. Critically, healthy and disease-free
-plant material must be selected to avoid isolating localized pathogenic
-microorganisms. The banyan tree qualifies on multiple criteria: it is a
-long-lived species with aerial roots occupying a distinctive ecological niche.
-
-## Isolation Protocol for Banyan Hanging Roots
-
-### Pre-Washing and Cleaning
-
-Thorough pre-washing removes adhering soil particles and dust on root surfaces,
-reducing epiphyte load. Vigorous washing with tap water followed by distilled
-water or dilute saline buffer (pH 7.2) is standard. Sonication may be used to
-dislodge soil and organic matter before surface sterilization. Roots should be
-disease-free and freshly collected, processed immediately for surface
-sterilization.
-
-### Surface Sterilization
-
-Surface sterilization is the most critical step: it must eliminate epiphytes
-without killing endophytes. For banyan hanging roots, a multi-step protocol is
-used:
-
-1. **Detergent pre-treatment**: 10% Labolene (neutral liquid detergent) for
-   15 minutes removes hydrophobic substances, improving sterilizing agent
-   penetration.
-2. **Savlon treatment**: 10% (v/v) Savlon for 15 minutes. Savlon contains
-   cetrimide and chlorhexidine, broad-spectrum antiseptics with antibacterial
-   and fungicidal action.
-3. **Ethanol treatment**: 70% ethanol, twice for 2 minutes each.
-4. **Mercuric chloride**: 0.1% HgCl2 (w/v) for 30 seconds, followed by 6-8
-   washes with sterile distilled water to remove excess HgCl2.
-
-After sterilization, 5 mm is trimmed from both root ends using a sterile blade.
-The central portion is cut into approximately 8 mm segments.
-
-### Validation of Surface Sterilization
-
-The efficiency of surface sterilization must be verified by: rolling surface-
-sterilized tissue onto [[agar]] media, dipping roots into nutrient broth, or
+antibiotic production, induction of [[agar]] media, dipping roots into nutrient broth, or
 streaking the final wash water onto nutrient agar. No growth from these controls
 confirms successful surface sterilization.
 
@@ -130,8 +78,6 @@ by suberized and lignified parenchyma cells, creating difficulties in detecting
 bacteria.
 
 ## See Also
-
-- [[bacterial-endophytes-plant-roots]]
 
 - [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
 - [[fungal-diversity-arid-environments]]

@@ -129,12 +129,9 @@ providing the right environment.
 
 Today's livestock, raised in large numbers and reduced to just so much
 standardized machinery, no longer receives the strength and grace of nature.
-The [[fukuoka-textdoc-natural-livestock-unconditional-truth]] seeks to
-restore the connection between animals and their natural environment,
-integrating them into the [[fukuoka-natural-orchard-development]] as partners rather than as products to be manufactured.
+The [[fukuoka-natural-orchard-development]] as partners rather than as products to be manufactured.
 
 ## See Also
 
-- [[fukuoka-natural-ideal-rice-plant-shape]]
 - [[fukuoka-natural-farming-global-influence]]
 - [[fukuoka-natural-farming-weed-and-insect-philosophy]]

@@ -3,23 +3,7 @@ title: "Vermicomposting"
 created: 2026-04-28
 type: species
 tags:
-  - [[permaculture]]
-  - composting
-  - soil-biology
-  - eisenia-fetida
-  - eisenia-andrei
-  - waste-management
-  - organic-farming
-  - regenerative-agriculture
-  - closed-loop
-  - bioconversion
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Edwards, C.A. & Arancon, N.Q. (2018). "Vermiculture Technology: Earthworms, Organic Wastes, and Environmental Management." CRC Press.
-  - Appelhof, M. (1982). "Worms Eat My Garbage." 2nd ed. Flower Press.
-  - Sherman, R. (2015). "Vermicomposting: Getting Started." North Carolina State University Extension.
-  - Dominguez, J. (2004). "State of the Art and New Perspectives on Vermicomposting." In C.A. Edwards (ed.), "Earthworm Ecology." 2nd ed. CRC Press.
+  - [[earthworm-ecology]]." 2nd ed. CRC Press.
   - Ndegwa, P.M. & Thompson, S.A. (2001). "Integrating composting and vermicomposting." Bioresource Technology, 76(2), 107–112.
 ---
 # Vermicomposting
@@ -27,16 +11,16 @@ sources:
 ## Overview
 
 Vermicomposting is the bioconversion of organic waste into nutrient-rich
-vermicast ([[ingham-vermicompost-worm-castings]]) using epigeic earthworm species, primarily
+vermicast () using epigeic earthworm species, primarily
 *Eisenia fetida* (red wiggler) and *Eisenia andrei* (red tiger worm).
 It is a mesophilic process operating at 15–25°C, distinguishing it
 from thermophilic composting which relies on microbial heat generation.
 
-The process produces vermicast — a humus-like material rich in planforest-and-bamboo-beneficial-microorganismseneficial microorganis [[solomon-soil-temperature-and-nighttime-plant-growth]] ns-plant-growth-hormones]] ones,
-[[humic-acids-soil-biology-ingham]] cids. Vermicast consistently outperforms conventional
-compost in germination trials, pl [[brassinosteroid-fungal-growth-promotion]] ti [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]] ease
-suppression, making it a cornerstone [[organic-farming-methods-comparison]] ming, permaculture
-design, and [[regenerative-agriculture]].
+The process produces vermicast — a humus-like material rich in planforest-and-bamboo-beneficial-microorganismseneficial microorganis  ns-plant-growth-hormones ones,
+ cids. Vermicast consistently outperforms conventional
+compost in germination trials, pl  ti  ease
+suppression, making it a cornerstone  ming, permaculture
+design, and .
 
 ## Key Organism Species
 
@@ -106,7 +90,7 @@ Vermicast differs from conventional compost in several important ways:
 - **Plant growth hormones:** Auxins, gibberellins, cytokinins produced
   during gut transit
 - **Humic substances:** 6–20% humic and fulvic acids, chelating
-  micronutrients and improving [[cation-exchange-capacity]]
+  micronutrients and improving 
 - **Disease suppression:** Antibiotic-producing organisms suppress
   soilborne pathogens (*Pythium*, *Rhizoctonia*, *Fusarium*)
 
@@ -143,6 +127,6 @@ engineered biofilters, reducing BOD, COD, and pathogen loads.
 ## Yield and Scaling
 
 A well-managed household bin (0.5–1 kg worms) processes 0.5–1 kg of
-food waste per day, producing roughly 0.25–0.5 kg of vermicast.
-Commercial operations process 1–5 tonnes of organic waste per day.
-Vermicast is typically applied at 5–20% by volume in potting mixes or
+## See Also
+- [[gaias-garden-compost-worm-methods]]
+- [[permaculture-urban-waste-food-systems]]

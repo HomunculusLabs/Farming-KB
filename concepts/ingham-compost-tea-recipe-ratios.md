@@ -87,14 +87,9 @@ Bad odors indicate anaerobic conditions: rotten egg, sulfur, ammonia, vinegar, s
 
 ## See Also
 
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
 - [[aact-brewing-ingredients-ingham]]
-- [[aact-definitions-and-types-ingham]]
 - [[ingham-compost-tea-application-rates-and-timing]]
 - [[aact-compost-quality-standards-ingham]]
-- [[aact-compost-quality-standards-ingham]]
-- [[ingham-compost-tea-application-rates-and-timing]]
 - [[ingham-nutrient-cycling-soil-food-web]]
-- [[ingham-fungal-food-selection]]
 - [[humic-acids-soil-biology-ingham]]
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]

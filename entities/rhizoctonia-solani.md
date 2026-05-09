@@ -117,15 +117,9 @@ Management of R. solani diseases relies on integrated approaches combining crop 
 The soil-borne nature and broad host range of R. solani make it a persistent challenge in agricultural systems worldwide. Climate change may alter its geographic distribution and disease severity, as soil temperature and moisture are key determinants of disease development.
 
 ## See Also
-Related: [[ingham-natural-growth-regulators-soil-microbes]], [[singh-mycelial-mats-and-biological-soil-crusts]], [[ultra-low-leaf-mold-as-ideal-soil-model]]
-
-- [[soil-food-web-nutrient-cycling]]
-
-- [[cervantes-damping-off-seedling-disease-prevention]]
+Related: [[singh-mycelial-mats-and-biological-soil-crusts]], [[soil-food-web-nutrient-cycling]]
 
 - [[fungal-plant-diseases]]
 
-- [[phanerochaete-velutina]]
 - [[fungal-serpula-lacrymans-dry-rot-buildings]]
-- [[magnaporthe-grisea]]
 - [[blumeria-graminis]]

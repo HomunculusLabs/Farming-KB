@@ -97,22 +97,12 @@ As decomposers, they recycle nutrients and build soil. As mycorrhizal partners, 
 
 ## See Also
 
-- [[gourmet-mushroom-species-guide]]
-
 - [[oyster-mushroom-varieties]]
-
-- [[shiitake-cultivation-log-method]]
 
 - [[reishi-cultivation-methods]]
 
-- [[maitake-hen-of-the-woods-cultivation]]
-
 - [[lions-mane-cultivation]]
 
-- [[king-stropharia-wine-cap-cultivation]]
-
 - [[medicinal-mushroom-health-benefits]]
-
-- [[mushroom-foraging-safety]]
 
 - [[mycoforestry-forest-restoration]]

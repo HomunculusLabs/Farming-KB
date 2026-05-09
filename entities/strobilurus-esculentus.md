@@ -116,12 +116,8 @@ It can be observed in situ during autumn forays in Scots pine forests, where it 
 
 ## See Also
 
-- [[suillus-luteus]]
 - [[tricholoma-matsutake]]
-- [[lactarius-deliciosus]]
 - [[boletus-edulis-entity]]
-- [[russula-brevipes]]
 - [[agaricus-bisporus]]
-- [[xylaria-polymorpha]]
 - [[ectomycorrhiza]]
 - [[mycorrhizal-fungi]]

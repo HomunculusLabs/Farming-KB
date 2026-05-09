@@ -3,14 +3,7 @@ title: PDC Design Examples - Tropical
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC [[permaculture-designers-manual-island-climate]] Island [[urban-permaculture-edge-effect-and-design-principles]]
-
-In the 1981 [[permaculture-introduction-and-definitions]] Design Course, Bill permaculture-design|Mollison covers tropical island design across three pamphlets (IV, V, and VI), dealing with low islands (atolls and cays), high islands (volcanic and granitic), and granitic landscapes. This page synthesizes the key design principles for tropical island systems.
+tags: [[permaculture-designers-manual-island-climate]] Island [[permaculture-introduction-and-definitions]] Design Course, Bill permaculture-design|Mollison covers tropical island design across three pamphlets (IV, V, and VI), dealing with low islands (atolls and cays), high islands (volcanic and granitic), and granitic landscapes. This page synthesizes the key design principles for tropical island systems.
 
 ## Low Islands (Atolls and Cays)
 
@@ -93,7 +86,5 @@ Mollison argues that desert and island settlements, being essentially isolated "
 - Bill Mollison, Permaculture Design Course, 1981, Pamphlets IV, V, VI: Low Islands, High Islands, Granitic Landscapes
 
 updated: 2026-04-18
-- [[tree-vine-crops-arid-tropical-mollison]]
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[gaias-garden-cover-crops-soil-building]]

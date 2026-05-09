@@ -22,40 +22,7 @@ with nature.
 
 When nature appears imperfect this is the result of something man has done to
 nature that has never been rectified. When left to its proper cycles and
-workings, [[jadam-do-as-nature-does-philosophy]] not fail. Nature may act, or may compensate or offset
-one thing for another, but it always does so while maintaining order and
-moderation.
-
-The pine tree that grows on a mountain rises up straight and true, sending out
-branches in all directions in a regular annular pattern. In keeping with the
-rule of phyllotaxy, the branches remain equally spaced as they grow, so no
-matter how many years pass, branches never crisscross or overlap and die. The
-tree grows in just the right way to allow all the branches and leaves to
-receive equal amounts of sunlight.
-
-But when a pine is transplanted into a garden and pruned with clippers, the
-arrangement of branches undergoes a dramatic change, taking on the contorted
-"elegance" of a garden tree. This is because, once it has been pruned, the
-pine no longer sends out normal shoots and branches. Instead, branches grow
-irregularly, crisscrossing every which way, bending, twisting, and
-overlapping with each other.
-
-## The Cascade of Intervention
-
-Once man comes into the act, a tree loses its natural form. In a tree of
-unnatural habit, the branches are in disarray, growing either too close
-together or too far apart. Diseases arise and insects burrow and nest wherever
-there is poor ventilation or inadequate exposure to sunlight. And where two
-branches cross, a struggle for survival ensues; one will thrive, the other
-die. All it takes to destroy the conditions of nature and transform a tree
-that lived in peace and harmony into a battleground where the strong consume
-the weak is to nip a few young buds.
-
-Although disruption of the order and balance of nature may have begun as the
-unintentional consequence of impulsive human deeds, this has grown and
-escalated to the point where there is no turning back. Once tampered with,
-the garden pine can never revert back again to being a natural tree. All it
-takes to disturb the natural habit of a [[fruit-tree-pruning]] is to nip a single bud at
+workings, [[fruit-tree-pruning]] is to nip a single bud at
 the end of a young shoot.
 
 When nature has been tainted and left unnatural, what remains? It is here
@@ -103,8 +70,7 @@ disturbed the natural order and removing that disturbance at its root. Rather
 than planning how to correct each symptom, the natural farmer asks what human
 action caused the symptom to appear and stops doing it.
 
-This principle of [[fukuoka-road-do-nothing-farming]] is
-central to the [[fukuoka-natural-farming-method]]. It does not
+This principle of [[fukuoka-natural-farming-method]]. It does not
 mean literally doing nothing, but rather doing only what nature itself would
 do, and ceasing those actions that work against the natural order. The
 [[fukuoka-four-principles-natural-farming]]

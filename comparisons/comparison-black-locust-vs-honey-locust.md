@@ -21,29 +21,6 @@ production, livestock fodder, honey production, or silvopastoral
 integration.
 
 ## Black Locust
-[[black-locust-entity]]
-
-Black locust is a fast-growing member of the Fabaceae family reaching up
-to 25 metres with a lifespan approaching 200 years. Its most celebrated
-quality is its exceptionally durable wood, which is one of the most
-rot-resistant timbers available in temperate regions without chemical
-treatment. Historically used for mine timbers, fence posts, and railway
-sleepers, black locust wood can last decades in direct ground contact.
-
-As firewood, black locust is outstanding, burning with a coal-like
-intensity and high heat output. It also serves as one of the premier
-honey-producing trees in the world, yielding a honey regarded as among
-the finest available. Its foliage is readily browsed by livestock, and
-its rapid coppicing ability allows for sustainable harvest cycles on
-rotation without replanting.
-
-The primary drawback is its aggressive suckering habit, which can make it
-invasive in pastures and gardens if not managed. Non-suckering cultivars
-are available for more controlled plantings. It is widely planted for
-erosion control and shelter belts, integrating well into slope
-stabilisation and windbreak designs.
-
-## Honey Locust
 [[honey-locust-entity]]
 
 Honey locust belongs to the Caesalpiniaceae family and reaches 24-30
@@ -117,10 +94,7 @@ species as complementary elements rather than choosing only one.
 
 ## See Also
 
-- [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
 - [[comparison-honey-bees-vs-native-solitary-bees]]
-- [[nitrogen-fixing-trees-and-shrubs]]
 - [[silvopasture-systems]]
-- [[comparison-alley-cropping-vs-silvopasture]]
 - [[tagasaste]]
 - [[carob]]

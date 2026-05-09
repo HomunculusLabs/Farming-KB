@@ -138,12 +138,8 @@ Key bioactive compounds include:
 - **Saponins**: Immune-stimulating and cholesterol-lowering
 ## See Also
 
-- [[mitchella-repens]]
-
 - [[companion-planting]]
-- [[composting]]
 - [[cover-crops]]
-- [[trifolium-pratense]] — Red Clover, related medicinal legume
 - [[medicago-sativa]] — Alfalfa, another important forage legume
 - Nitrogen Fixation — Biological nitrogen fixation process
 - [[cover-crops]] — Cover cropping in permaculture and agriculture

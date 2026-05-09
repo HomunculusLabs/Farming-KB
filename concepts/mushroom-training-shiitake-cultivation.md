@@ -122,13 +122,8 @@ Shiitake mushrooms can be dried for long-term preservation and value addition. D
 
 ## See Also
 
-- [[mushroom-training-manual-overview]]
 - [[mushroom-training-spawn-preparation]]
-- [[mushroom-training-substrate-preparation]]
 - [[mushroom-training-oyster-straw-cultivation]]
-- [[mushroom-training-adapted-cultivation]]
 - [[mushroom-training-spawn-production]]
-- [[mushroom-training-oyster-straw-cultivation]]
 - [[holzer-mushroom-cultivation-methods]]
-- [[oyster-mushroom-short-log-cultivation]]
 - [[comparison-shiitake-vs-oyster-cultivation]]

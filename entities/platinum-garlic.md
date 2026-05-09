@@ -142,7 +142,9 @@ Most commonly found in licensed dispensaries in **Oklahoma** (extremely popular 
 
 ## See Also
 
-- [[chemdawg]] — Grandparent strain contributing diesel potency and pungency
 - [[girl-scout-cookies]] — The other grandparent line, providing structural and potency foundation
-- [[afghan-kush]] — An OG Kush ancestor in the lineage
 - [[trainwreck]] — Contributing sativa elements through the Platinum Wreck parent
+
+## See Also
+
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

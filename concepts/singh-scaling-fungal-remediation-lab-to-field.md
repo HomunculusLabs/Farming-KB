@@ -38,8 +38,7 @@ results fail in field treatments.
 ### Bench-Scale Studies (Milliliter to Liter)
 
 Establish fundamental feasibility through flask cultures testing candidate
-fungi, [[singh-enzyme-production-for-industrial-bioremediation]] kinetics,
-[[singh-fungal-biosorption-isotherms-equilibrium-models]], and single-strain degradation
+fungi, [[singh-fungal-biosorption-isotherms-equilibrium-models]], and single-strain degradation
 capabilities. Bench-scale work identifies promising candidates but cannot
 predict field performance.
 
@@ -48,11 +47,7 @@ predict field performance.
 singh microcosm and mesocosm studies in mycorrhizal remediation (1-10 L) introduce soil-based
 systems, multi-species communities, and variable conditions.
 Mesocosms (10-1000 L) approximate field conditions with larger soil
-volumes, outdoor exposure, [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]], and spatial monitoring networks.
-
-### Pilot and Full-Scale Application
-
-Pilot-scale (1-1000 m3) demonstrations test [[singh-bioreactor-design-for-fungal-bioremediation]],
+volumes, outdoor exposure, [[singh-bioreactor-design-for-fungal-bioremediation]],
 nutrient delivery, and aeration while developing cost estimates.
 Full-scale deployment integrates all preceding knowledge with
 site-specific engineering design.
@@ -62,17 +57,9 @@ site-specific engineering design.
 ### Biological Challenges
 
 **Strain viability**: Laboratory-adapted strains may fail to establish in
-competitive field environments. [[singh-fungal-bioaugmentation-contaminated-soils]] success
-depends on the strain's ability to colonize, survive, and maintain
-activity. Selection should prioritize environmental robustness.
-
-**Enzyme production in situ**: High [[singh-enzyme-production-for-industrial-bioremediation]] in
+competitive field environments. [[singh-enzyme-production-for-industrial-bioremediation]] in
 laboratory culture may not persist in nutrient-limited field conditions.
-[[singh-bioaugmentation-vs-biostimulation-fungal-strategies]] strategies and inducer supplementation
-may be necessary.
-
-**Community interactions**: Indigenous microbiota may compete with,
-inhibit, or synergize with inoculated fungi. [[singh-fungal-consortia-synergistic-biodegradation]]
+[[singh-fungal-consortia-synergistic-biodegradation]]
 with indigenous organisms can improve establishment.
 
 ### Environmental Challenges
@@ -87,12 +74,7 @@ creates unfavorable anaerobic conditions.
 
 **Soil heterogeneity**: Contaminant distribution, texture, organic matter,
 and pH vary across treatment zones. Site characterization and
-[[singh-soil-fungal-bioremediation-strategies]] are essential.
-
-### Engineering Challenges
-
-**Inoculum production**: Scaling from laboratory to field-scale inoculum
-requires industrial fermentation. [[singh-mushroom-spawn-production-grain-spawn]] techniques and
+[[singh-mushroom-spawn-production-grain-spawn]] techniques and
 solid-state fermentation can be adapted.
 
 **Delivery and distribution**: Achieving uniform inoculum distribution
@@ -113,13 +95,7 @@ document all decisions for continuous improvement.
 ### Phased Implementation
 
 Sequential phases allow learning from early phases, reducing risk, and
-adjusting [[singh-soil-fungal-bioremediation-strategies]] based on performance.
-
-### Combined Remediation Approaches
-
-Integration with complementary technologies improves reliability:
-biostimulation for nutrient support,
-[[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] for long-term management, physical
+adjusting [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] for long-term management, physical
 treatment for favorable conditions, and chemical pre-treatment to reduce
 concentrations.
 
@@ -140,9 +116,6 @@ perception. Transparent communication is essential.
 
 - **Computational modeling**: Predicting field performance
 - **Remote sensing**: Drone-based monitoring of treatment progression
-- **Real-time biosensors**: In situ enzyme and contaminant monitoring
-- **Standardized protocols**: Industry best practices
-
 ## See Also
 
 - [[singh-electrokinetic-fungal-remediation]]

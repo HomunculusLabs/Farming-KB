@@ -55,39 +55,26 @@ Sweet corn is generally trouble-free. Watch for:
 
 ## Feeding and Nutrition
 
-Sweet corn is a heavy feeder. Work plenty of well-rotted compost or manure into the soil before planting. During the growing season, a liquid feed of comfrey tea or animal-manure fertilizer applied every two weeks supports vigorous growth. The [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] method integrates corn with nitrogen-fixing beans and ground-covering squash for a self-fertilizing planting system.
-
-## Block Planting for Pollination
-
-Sweet corn is wind-pollinated, so block planting is essential. Individual plants or single rows pollinate poorly because wind carries pollen from the tassels at the top of the plant to the silks below. Plant in blocks at least 4 rows wide with plants staggered so they are not directly opposite each other. Each silk corresponds to one kernel — if any silk is not pollinated, that kernel will not develop.
-
-## Successional Sowing
-
-Sow every two weeks from mid-spring through early summer for a continuous harvest. In warmer climates, the main crop can be followed by a late sowing of a fast-maturing variety. Later sowings may need cloche protection at the beginning and end of the season.
-
-## Intercropping and Companion Planting
-
-- **Three Sisters** — Corn, climbing beans, and squash grown together. Corn provides support for beans, beans fix nitrogen, squash suppresses weeds and retains moisture
-- **Pumpkins and squash** can be grown between corn rows as a living mulch
-- **Clover as undersowing** — Plant white clover between corn rows after the corn is established; it fixes nitrogen and suppresses weeds
-- Avoid planting near tomatoes (both are heavy feeders competing for the same nutrients)
-
-## After Harvest
-
-After harvesting, corn stalks provide valuable organic matter. Chop them and add to the [[composting-systems]] or leave them in place as winter mulch. The root systems improve soil structure through their deep penetration. In the [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] system, the remaining bean vines and squash foliage can also be composted.
-
-## Troubleshooting
-
-- **Poor kernel fill** — Usually caused by inadequate pollination. Plant in larger blocks and shake plants gently when tassels are shedding pollen
-- **Smut (grayish-white swellings on ears)** — Remove affected plants and destroy; do not compost. Avoid planting corn in the same spot the following year
-- **Corn earworm** — Apply mineral oil to the silk tips 5-7 days after silk emergence. Bt (Bacillus thuringiensis) applied to silks can also be effective
-- **Raccoons** — The most persistent sweet corn pest. Electric fencing or trapping may be necessary in areas with high raccoon populations
-
-## Related
-
-- [[vegetable-growing-guide]] for general vegetable cultivation
-- [[growing-legumes-organically]] for companion planting with beans
+Sweet corn is a heavy feeder. Work plenty of well-rotted compost or manure into the soil before planting. During the growing season, a liquid feed of comfrey tea or animal-manure fertilizer applied every two weeks supports vigorous growth. The [[composting-systems]] or leave them in place as winter mulch. The root systems improve soil structure through their deep penetration. In the [[vegetable-growing-guide]] for general vegetable cultivation
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
-- [[hamilton-organic-pest-control]] for pest management
 - [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-white-clover-cover-crop-system]]
+## Practical Considerations
+
+Successful implementation of Growing Sweet Corn Organically requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

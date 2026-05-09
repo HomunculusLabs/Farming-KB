@@ -124,18 +124,12 @@ conditions.
   salicin and related phenolic glycosides, including populin.
 
 Willow bark extracts standardized to salicin content are commercially
-available as dietary supplements and herbal medicines. The German
-Commission E and European Scientific Cooperative on Phytotherapy (ESCOP)
-have issued monographs supporting the use of willow bark extract for
-mild pain and fever.
+available as dietary supplements and [[salix-alba]]
+
+- [[psilocybin]] — A bioactive fungal compound with distinct
+  pharmacological mechanisms, demonstrating the breadth of natural
+  product chemistry.
 
 ## See Also
 
-- [[salix-alba]]
-
-- [[artemisia-annua]] — Another medicinal plant source of a
-  pharmacologically significant compound, illustrating the tradition of
-  plant-derived drug discovery.
-- [[psilocybin-compound]] — A bioactive fungal compound with distinct
-  pharmacological mechanisms, demonstrating the breadth of natural
-  product chemistry.
+- [[herbal-medicine-making]]

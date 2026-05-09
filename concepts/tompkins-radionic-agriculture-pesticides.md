@@ -111,9 +111,5 @@ and Measurement of the Volumes Thereof."
 
 ## See Also
 
-- [[chinampas-agriculture]]
-
 - [[tompkins-photosynthesis-biophotons]] for biophoton emission
-- [[tompkins-plant-perception-experiments]] for plant sensitivity
-- [[tompkins-plant-electrical-signals]] for [[plant-bioelectricity]]
-- [[agricultural-chemicals-mycorrhizal-impact]] for chemical effects
+- [[tompkins-plant-electrical-signals]] for [[agricultural-chemicals-mycorrhizal-impact]] for chemical effects

@@ -2,11 +2,7 @@
 title: "Downy Mildew Biology and Diversity (Peronosporales)"
 created: 2026-04-26
 tags:
-  - mycology
-  - oomycota
-  - plant-pathology
-  - peronosporales
-  - fungal-biodiversity
+  - [[fungal-biodiversity]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -19,8 +15,7 @@ type: concept
 Downy mildews are a group of obligate biotrophic snow mold fungi belonging primarily to the Peronosporales within
 the Oomycota. Despite their common name, downy mildews are
 not true fungi but members of the straminipiles, closely
-related to [[oomycetes-water-molds]] and
-[[straminipiles-oomycetes-fungus-like-chromists]] and part of the broader [[biodiversity-oomycetes-straminipiles]]. They cause
+related to [[straminipiles-oomycetes-fungus-like-chromists]] and part of the broader [[biodiversity-oomycetes-straminipiles]]. They cause
 economically devastating diseases on a wide range of crops
 and faires edible useful, characterized by the downy growth of
 sporangiophores on the lower surfaces of infected leaves.

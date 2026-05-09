@@ -22,8 +22,7 @@ choosing the correct habitat.
 ## Habitat One: Grasslands
 
 Grassland habitats favor tall, thin, small, conic-capped Psilocybes such
-as [[stamets-mushrooms-world-semilanceata]],
-P. strictipes, P. liniformans, [[stamets-mushrooms-world-mexico-central-america]], and P. samuiensis. Nonpsilocybin species like
+as [[stamets-mushrooms-world-mexico-central-america]], and P. samuiensis. Nonpsilocybin species like
 P. inquilina and P. kashmeriensis also fruit directly from the matted
 bases of field grasses.
 
@@ -39,74 +38,8 @@ has been reported from New Zealand.
 Many psilocybin mushrooms thrive in dung-rich environments. The nutrient
 content of the manure of different herbivores varies considerably and can
 affect mushroom growth. Cows, horses, and other grazing animals provide
-the primary substrate for many [[stamets-mushrooms-world-cubensis]] populations in tropical and subtropical
-regions.
-
-## Habitat Three: Woodland Debris
-
-Woodland debris deposits are short-lived habitats, but the mushrooms
-that flourish do so prolifically. In the Pacific Northwest, the
-woodland Psilocybe P. pelliculosa thrives in wild but disturbed grounds
-such as trails, abandoned forest roads, and similar habitats. However,
-most wood-decomposing Psilocybes are rare in conifer forests and are
-more commonly found in landscaped urban environments.
-
-## Habitat Four: Enriched Grassland Soils
-
-Many psilocybin mushrooms are not strictly dung-dependent but instead
-colonize soils that have been enriched by past or present animal
-activity. These soils contain high levels of organic matter and support
-diverse fungal communities. The temperate liberty cap is a classic
-example, often found in pastures regardless of whether dung is visible.
-
-## Habitat Five: Tropical and Subtropical Substrates
-
-Tropical and subtropical environments provide ideal conditions for many
-psilocybin species. [[stamets-mushrooms-world-south-america]] dominates in these regions, fruiting directly from bovine
-dung in pastures. [[stamets-mushrooms-world-cyanescens]] and Panaeolus subbalteatus also flourish in warm climates.
-
-## Habitat Six: Riparian Zones, Disturbed Habitats, and Gardens
-
-These habitats appear suddenly, often cataclysmically. Unless the
-habitat is maintained, the mushrooms that adapted to the newly created
-niche will disappear. Riparian habitats, created from flooding rivers
-that erode banks and deposit debris, provide ideal conditions for
-colonization by wood-loving Psilocybes.
-
-Urban and suburban gardens, especially those using bark mulch or wood
-chips, have become major habitats for psilocybin mushrooms. The
-marketing of decorative wood chips for landscaping continues to drive
-the Psilocybe revolution in temperate zones.
-
-## The Saprophytic Advantage
-
-Since all Psilocybes and other psilocybin-producing mushrooms are
-saprophytes, they can successfully exploit a broad range of ecological
-niches and hence are geographically widely dispersed. As forests are cut
-and grasslands expand, a new mix of mushroom species surges in response.
-
-### Transitional Habitats
-
-Habitats in transition, typically from forestlands to grasslands, phase
-in diverse mushroom populations. In places like the Pacific Northwest,
-the importance of habitat has to be de-emphasized as a key feature.
-These complicated habitats, one mixed into another, undergo radical
-transformations and can easily confuse the untrained observer. Habitat
-as a target indicator is far more useful in those environments that have
-achieved ecological autonomy and stability than those in transition.
-
-### Human-Made Ecosystems
-
-Housing developments created from cutting back forests are built upon
-soils rich with wood debris, making them suited for wood-loving
-Psilocybes. When lawns are installed on top of this wood-enriched
-habitat, lignicolous and grassland species co-occur. The care humans
-give to these yards, many with automatic sprinkler systems, is ideal
-for encouraging mushroom growth.
-
-## Dispersal Through Human Activity
-
-[[stamets-mushrooms-world-baeocystis-stuntzii]], a
+the primary substrate for many [[stamets-mushrooms-world-south-america]] dominates in these regions, fruiting directly from bovine
+dung in pastures. [[stamets-mushrooms-world-baeocystis-stuntzii]], a
 wood-decomposing mushroom from Washington and Oregon, frequents
 football, soccer, and baseball fields and landscaped areas around
 schools. When thousands of students dusted with spore mass leave these
@@ -142,7 +75,5 @@ remote.
 
 ## See Also
 
-- [[stamets-mushrooms-world-identification-safety]]
 - [[stamets-mushrooms-world-chemistry-potency]]
-[[stamets-mushrooms-world-baeocystis-stuntzii]]
-- [[stamets-mushrooms-world-semilanceata]]
+[[stamets-mushrooms-world-semilanceata]]

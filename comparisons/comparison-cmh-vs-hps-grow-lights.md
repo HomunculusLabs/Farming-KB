@@ -22,30 +22,6 @@ This comparison helps growers choose between these proven HID options based on t
 
 ## CMH Grow Lights
 
-[[cmh-grow-lights]] use a ceramic arc tube similar to HPS construction but operate with metal halide chemistry, producing a much broader and more balanced spectrum in the 3000–4000K range. The 315W fixture is the most common size, covering approximately a 4×4 ft canopy area.
-
-**Strengths:**
-
-- Full-cycle capability with no lamp swap needed between vegetative and flowering phases
-- Broader balanced spectrum drives superior vegetative growth compared to HPS
-- Produces UV radiation that may stimulate THC and terpene production
-- Longer bulb life of 20,000+ hours, reducing replacement frequency
-- Lower heat output than 600–1000W HPS systems
-- Lower initial cost than comparable LED setups
-
-**Weaknesses:**
-
-- Still generates significant heat requiring ventilation
-- Less spectrum tunability than LED systems
-- Requires specific electronic ballasts matched to CMH lamps
-- Lumen and spectrum degradation begins after 12–18 months of use
-- HPS may still produce slightly denser buds in late flowering
-- Cost: $200–400 per fixture; moderate setup complexity
-
-**Best for:** Growers seeking quality results with proven technology, single-lamp simplicity, and full-cycle grows without switching fixtures.
-
-## HPS Grow Lights
-
 [[hps-grow-lights]] produce a strong yellow-orange spectrum around 2100K that is heavily optimized for bud development during flowering. They remain the industry standard for flowering cannabis in commercial operations worldwide.
 
 **Strengths:**
@@ -111,11 +87,8 @@ When designing a hybrid system, consider that each technology requires its own b
 
 ## See Also
 
-- [[cmh-grow-lights]] — Detailed guide to ceramic metal halide lighting systems
 - [[hps-grow-lights]] — Comprehensive overview of high pressure sodium grow lighting
-- [[led-vs-hps-grow-lights]] — LED compared to HID technologies overall
 - [[cannabis-light-spectrum-and-color-bands]] — Understanding light spectrum for cannabis cultivation
-- [[mushroom-grow-room-design]] — Heat management strategies for indoor grows
 - [[knf-vegetative-growth-stage]] — Vegetative phase lighting considerations
 - [[cannabis-flowering-stage-management]] — Flowering phase lighting optimization
 

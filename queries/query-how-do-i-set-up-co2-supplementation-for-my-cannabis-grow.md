@@ -23,15 +23,6 @@ systems.
 Carbon dioxide supplementation is one of the most effective ways to increase
 cannabis yield in an indoor grow, but it requires a properly sealed environment
 and increased lighting to realize its full potential. The
-[[cannabis-co2-supplementation]] explains the science
-behind elevated CO2 growing. In nature, atmospheric CO2 sits around 420 ppm. By
-raising this to 1,200 to 1,500 ppm during the light cycle, you can increase
-growth rates by 20 to 40 percent and potentially boost yields significantly,
-provided all other growth factors are also optimized.
-
-The first requirement for effective CO2 supplementation is a sealed grow room.
-If your room has exhaust fans constantly replacing air, any CO2 you add will be
-immediately vented outside. The
 [[cannabis-environment-control]] system needs to include a
 sealed room with an air conditioner that recirculates internal air rather than
 drawing in fresh air. Dehumidification must also be handled internally. This
@@ -52,31 +43,13 @@ process as much CO2 as their photosynthetic capacity allows, and this capacity
 is directly tied to light intensity. At 1,500 ppm CO2, cannabis plants benefit
 from PPFD levels of 1,000 to 1,500 micromoles, which is significantly higher
 than the 600 to 900 PPFD considered adequate at ambient CO2 levels. The
-[[query-how-to-choose-right-grow-light-cannabis]]
-covers choosing lights powerful enough to support CO2-enhanced growing.
-
-Timing and coordination are critical. CO2 should only be supplemented during the
-light cycle when plants are photosynthesizing. During the dark cycle, plants
-respire and actually release CO2, so supplementation would be wasted. A CO2
-controller with a photocell or timer integration automates this process. The
-controller should maintain levels between 1,200 and 1,500 ppm; going
-significantly higher provides diminishing returns and can actually stress plants
-above 2,000 ppm.
-
-Temperature management becomes more important with CO2 supplementation. Because
-the plants are photosynthesizing at a higher rate, they can tolerate and benefit
-from higher temperatures than normal, typically 78 to 85 degrees Fahrenheit
-during the light cycle. However, the increased metabolic activity also generates
-more heat, so your cooling system must be sized appropriately. The
 [[cannabis-yield-optimization]] page discusses how CO2,
 temperature, light, and nutrition work together as an integrated system.
 
 Nutrient and water demands increase under CO2 supplementation because the plants
 are growing faster. You may need to increase your feeding strength by 10 to 20
 percent and water more frequently to keep up with the accelerated growth rate.
-The [[cannabis-watering-schedule-and-frequency]] should be
-adjusted accordingly. Monitoring
-[[cannabis-nutrient-deficiency-and-toxicity-guide]] becomes even
+The [[cannabis-nutrient-deficiency-and-toxicity-guide]] becomes even
 more important because deficiencies can develop faster when plants are operating
 at elevated metabolic rates.
 
@@ -89,17 +62,29 @@ and never sleep in a room where CO2 is being supplemented at elevated levels.
 
 ## Key Points
 - Maintain CO2 at 1,200 to 1,500 ppm during the light cycle for best results
-- A sealed grow room is essential to prevent [[cannabis-indoor-ventilation-setup]]
-- Increase lighting to 1,000 to 1,500 PPFD to match the elevated CO2 metabolic capacity
-- Compressed CO2 tanks offer the most precise control for small to medium grows
-- Temperatures can run higher (78 to 85 degrees F) under CO2 supplementation
-- Increase [[cannabis-watering-schedule-and-frequency]] and nutrients by 10 to 20 percent to match faster growth
+- A sealed grow room is essential to prevent [[cannabis-watering-schedule-and-frequency]] and nutrients by 10 to 20 percent to match faster growth
 - Install a CO2 monitor with alarm for safety; levels above 5,000 ppm are hazardous to humans
 
 ## Related Questions
-[[query-how-to-set-up-an-indoor-cannabis-grow-room]]
 [[query-how-to-choose-right-grow-light-cannabis]]
-[[query-how-to-manage-humidity-cannabis-grow-room]]
 [[cannabis-yield-optimization]]
-- [[query-how-to-set-up-a-backyard-pond]]
 - [[query-how-to-set-up-drip-irrigation-for-cannabis]]
+## Practical Considerations
+
+Successful implementation of How Do I Set Up CO2 Supplementation for My Cannabis Grow? requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -113,12 +113,6 @@ remaining airborne pollen before returning them to the main grow area.
 Clean the pollination chamber between each pollen release to reduce or
 eliminate pollen contamination of future seed crops. This practice
 keeps the rest of the crop seedless, which is critical for
-[[cervantes-sinsemilla-cultivation]].
-
-## See Also
-
-- [[cervantes-seed-production-storage]] - Seed production overview
-- [[cervantes-feminized-seed-production]] - Feminized seed methods
+[[cervantes-seed-production-storage]] - Seed production overview
 - [[cannabis-genetics-and-breeding]] - Breeding fundamentals
-- [[cervantes-sex-determination-pre-flowering]] - Sex identification
 - [[cervantes-flowering-phase]] - Flowering cycle management

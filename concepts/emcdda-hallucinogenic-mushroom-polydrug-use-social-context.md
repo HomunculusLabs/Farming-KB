@@ -53,11 +53,7 @@ Analysis across 11 EU Member States demonstrates that school students aged 15 to
 
 ## Cultivated Versus Wild Mushrooms
 
-Hallucinogenic mushrooms grow wild in much of Europe, yet it appears that most recreationally used mushrooms are cultivated rather than picked wild. Mushrooms are sold both as fresh and dried products and for home cultivation using mushroom prints, spore bags, and growkits. The most common wild European species is [[psilocybe-semilanceata|Psilocybe semilanceata]] (liberty caps), found in the UK, Norway, and Germany.
-
-### Home Cultivation Market
-
-The market for home cultivation has grown substantially, with growkits and spore prints sold through smartshops and internet retailers. Users are typically instructed to chop mushrooms and ingest them or brew them in tea. The tropical fungus [[psilocybe-cubensis|Psilocybe cubensis]] dominates the cultivated market, even though it does not grow naturally in most of Europe.
+Hallucinogenic mushrooms grow wild in much of Europe, yet it appears that most recreationally used mushrooms are cultivated rather than picked wild. Mushrooms are sold both as fresh and dried products and for home cultivation using mushroom prints, spore bags, and growkits. The most common wild European species is [[psilocybe-cubensis|Psilocybe cubensis]] dominates the cultivated market, even though it does not grow naturally in most of Europe.
 
 ## Psilocybe Cubensis Varieties Dominating the Market
 
@@ -81,53 +77,8 @@ Bad trips involving panic reactions and psychosis-like states are commonly repor
 
 ## The Amanita Muscaria Shift After Legal Restrictions
 
-Since 2001, six EU Member States have tightened legislation on hallucinogenic mushrooms: Denmark (2001), Netherlands (2002), Germany, Estonia, UK (2005), and Ireland (2006). Following these legal restrictions, retailers began switching sales to alternative legal hallucinogenic mushrooms, particularly [[amanita-muscaria|Amanita muscaria]] (fly agaric) and the closely related A. pantherina.
-
-### Health Risks of the Shift
-
-The active chemicals in [[amanita-muscaria|Amanita muscaria]], muscimol, ibotenic acid, and [[muscarine]], are totally different from psilocybin and carry substantial toxicity risks. Some closely related Amanita species are highly toxic and could cause fatal poisoning, partly explaining the lower historical popularity of these species. The emergence of this market raises serious concerns for prevention and public health.
-
-## Smartshop and Internet Retail Context
-
-Smartshops in the Netherlands played an important role in kick-starting the hallucinogenic mushroom trend in the late 1990s. These shops specialize in psychoactive herbal substances alongside vitamins and supplements. The rapid expansion of internet sales enabled pro-mushroom lobby groups to spread information and develop international markets. A snapshot of 21 online shops in 2006 found that information provided by retailers tends to emphasise positive rather than negative aspects of use.
-
-### Legal Loopholes and Regulatory Challenges
-
-The fact that hallucinogenic mushrooms grow wild has created confusion with regard to legal controls. In countries where controls are exercised, they are not always applied to the same mushrooms. This confusion has provided loopholes for retailers and presented obstacles to controlling supply. Germany amended its law in 2005 to change the definition from "plant" to "organism" to close the mushroom loophole.
-
-## Summary
-
-The EMCDDA 2006 study reveals hallucinogenic mushroom use as a polydrug phenomenon concentrated among experienced drug users in club settings, driven by lifestyle trends and facilitated by internet commerce. While prevalence remains well below cannabis, it rivals ecstasy among school students in some countries. Natural barriers including nausea, unpredictable potency, and lack of sociable effects limit diffusion, but the shift toward Amanita muscaria following legal restrictions introduces new health risks requiring attention.
-
-## Age of Onset and Gender Patterns
-
-The EMCDDA data reveals important demographic patterns. Use typically begins in late adolescence or early adulthood, with the majority of first-time users between 18 and 25 years old. Earlier initiation is relatively rare, likely due to the intensity of the psychedelic experience and the requirement for a suitable setting.
-
-Gender differences in hallucinogenic mushroom use are less pronounced than for many other substances. While drug use in general skews male, the gender gap for psilocybin mushrooms is narrower than for alcohol, cannabis, or stimulants. This may reflect the different social contexts in which mushrooms are used, with their association with music festivals, outdoor settings, and counter-cultural lifestyles that are less gender-segregated than traditional drinking environments.
-
-### Differences From Other Drug Markets
-
-Unlike the stimulant market, which is closely tied to nightlife and club economies, hallucinogenic mushroom use spans a wider range of social settings. Outdoor festivals, private gatherings, and nature settings all feature prominently in user reports. This diversity of settings may contribute to the broader age range and more balanced gender distribution observed among users.
-
-## The Role of Set and Setting in Polydrug Contexts
-
-The concept of "set and setting," originally developed by Timothy Leary and colleagues, is particularly relevant to understanding polydrug mushroom use. When mushrooms are combined with other substances in a club or festival environment, both the psychological set and the physical setting differ markedly from traditional ceremonial or therapeutic contexts.
-
-Users in polydrug contexts typically approach mushrooms with recreational expectations rather than spiritual or therapeutic intentions. The high-stimulus environment of a dance floor or festival amplifies sensory effects but may also increase the likelihood of anxiety or disorientation. The combination with stimulants like MDMA or cocaine can mask the sedative effects that sometimes accompany the comedown from psilocybin, potentially leading to overstimulation.
-
-### Harm Reduction Implications
-
-The polydrug nature of mushroom use creates specific harm reduction challenges. Users may be less familiar with mushroom effects than with those of their primary drugs of choice. Dosage is inherently variable due to differences in species, specimen age, and preparation method. These uncertainties compound when mushrooms are used alongside other substances.
-
-Public health interventions must address these factors rather than treating mushroom use in isolation from the broader polydrug context. The variability of natural products, the mixing with synthetic drugs, and the festival setting all demand tailored harm reduction strategies that acknowledge the complexity of real-world use patterns.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] -- growkit market details
-- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]] -- EU legal responses
+Since 2001, six EU Member States have tightened legislation on hallucinogenic mushrooms: Denmark (2001), Netherlands (2002), Germany, Estonia, UK (2005), and Ireland (2006). Following these legal restrictions, retailers began switching sales to alternative legal hallucinogenic mushrooms, particularly [[amanita-muscaria-entity|Amanita muscaria]], muscimol, ibotenic acid, and [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] -- growkit market details
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] -- smartshop retail context
-- [[emcdda-psilocybin-pharmacology-and-chemistry]] -- psilocybin pharmacology
 - [[amanita-muscaria-chemistry-and-pharmacology]] -- Amanita muscaria chemistry and pharmacology
-- [[psilocybe-cubensis-cultivation]] -- cultivation methods
 - [[hallucinogenic-mushroom-legal-status-europe]] -- European legal overview
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]] -- harm reduction strategies

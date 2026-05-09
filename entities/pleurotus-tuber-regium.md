@@ -110,17 +110,10 @@ Mineral content (mg/100 g dry weight): potassium 800–1200, phosphorus 400–60
 
 ## See Also
 
-- [[tuber-brumale]]
-
 - [[pleurotus-flabellatus]]
 
-- [[pleurotus-ostreatus]] — Widely cultivated oyster mushroom, close relative
 - [[pleurotus-eryngii]] — King oyster mushroom, commercially important congener
-- [[beta-glucans]] — Key immunomodulatory polysaccharides found in medicinal fungi
 - [[ergosterol]] — Provitamin D2 precursor common in fungal cell membranes
-- [[lentinula-edodes]] — Shiitake, another medicinal mushroom with β-glucan bioactivity
 - [[ganoderma-lucidum]] — Reishi, the most studied medicinal mushroom for immunomodulation
-- [[stropharia-rugosoannulata]] — Wine cap mushroom, another permaculture-relevant cultivated species
 - [[pleurotus-djamor]] — Pink oyster mushroom, tropical relative with similar substrate preferences
-- [[coprinus-comatus-detailed]] — Shaggy mane, another fungus with unique ecological strategies
 - [[pleurotus-columbinus]]

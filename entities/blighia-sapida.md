@@ -92,12 +92,8 @@ Spacing of 8–10 meters between trees is recommended. The tree's spreading cano
 
 ## See Also
 
-- [[colocasia-esculenta]]
 - [[manihot-esculenta]]
-- [[xanthosoma-sagittifolium]]
 - [[physalis-peruviana]]
-- [[colchicum-autumnale]]
 - [[gelsemium-sempervirens]]
-- [[vinca-minor]]
 - [[moringa-oleifera]]
 - [[azadirachta-indica]]

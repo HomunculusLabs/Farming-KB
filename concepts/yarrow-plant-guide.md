@@ -20,7 +20,7 @@ garden resident.
 
 ## Botanical Profile
 
-- Scientific name: [[achillea-millefolium]]
+- Scientific name: Achillea millefolium
 - Family: Asteraceae
 - Hardiness: USDA zones 3-9
 - Lifecycle: Perennial
@@ -72,7 +72,7 @@ Yarrow is one of the best all-around companion plants for a homestead garden:
 - Drought indicator: Yarrow's deep roots make it an excellent indicator of
   soil moisture -- it thrives where many other plants struggle.
 
-Plant yarrow near vegetables, comparison pruning fruit, and in pollinator borders. It is
+Plant yarrow near vegetables, fruit trees, and in pollinator borders. It is
 especially valuable in orchard understories and food forest plantings.
 
 ## Pollinator Plant
@@ -105,7 +105,7 @@ From division:
 - Each division should have several shoots and a portion of the root crown
 - Replant immediately and water well
 
-from cuttings:
+From cuttings:
 - Softwood cuttings in late spring root readily
 - Basal cuttings taken in early spring work well
 
@@ -139,3 +139,7 @@ deer and rabbits.
 
 - [[echinacea-growing-guide]] -- combine with yarrow in immune-support teas
 - [[cover-cropping-guide]] -- yarrow can be integrated into polyculture cover mixes
+
+## See Also
+
+- [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

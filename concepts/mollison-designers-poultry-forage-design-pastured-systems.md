@@ -109,16 +109,7 @@ Mollison estimates that a well-designed permaculture poultry system can
 provide 60-80% of chicken nutrition from on-farm forage, with the remainder
 supplied by grain, sprouted seeds, and kitchen scraps. The key is continuous
 forage availability across seasons, achieved through diverse species planting
-and [[mollison-designers-winter-forest-foraging-wildlife-cooperation]].
-
-See also: [[mollison-designers-free-range-forage-design-principles]],
-[[mollison-designers-geese-and-duck-weed-control]],
-mollison designers poultry forage design pastured systems
-
-## See Also
-
-- [[mollison-designers-pig-tractors-forage-systems]]
-
-- [[mollison-pdc-poultry-forage-systems]]
+and [[mollison-designers-free-range-forage-design-principles]],
+[[mollison-designers-pig-tractors-forage-systems]]
 
 - [[integrated-poultry-forage-systems-zone-two]]

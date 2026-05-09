@@ -5,9 +5,9 @@ updated: 2026-05-02
 type: concept
 tags: [irrigation, water, hydrology, agriculture, crop-science, climate,
   soil-moisture, plant-physiology, meteorology, farming, drought, plants]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-
 Evapotranspiration (ET) is the combined process of water transfer from land
 surface to atmosphere through **evaporation** from soil, water surfaces, and
 canopy interception, plus **transpiration** through plant stomata. In
@@ -66,7 +66,7 @@ surface fraction and evaporative demand). Four growth stages define Kcb:
 - **Development** (10% to effective full cover): Kcb increases linearly
 - **Mid-season** (full cover to senescence onset): Kcb ≈ 0.95–1.20 for most
   field crops (maize 1.15, wheat 1.10, rice 1.05, soybean 1.15)
-- **Late season** (senescence to harvest): Kcb decreases linearly
+- **Late season** (senescence [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]]): Kcb decreases linearly
 
 Kcb is adjusted for local climate: Kcb_adj = Kcb + [0.04(u₂ − 2) − 0.004(RHₘᵢₙ
 − 45)] × (h/3)^0.3, where h = mean plant height (m). Stress adjustments:
@@ -112,39 +112,10 @@ storage anomalies. ECOSTRESS (ISS) provides 70 m thermal data at diurnal scale.
 improve water productivity (WP = yield/ET). **Regulated deficit irrigation
 (RDI)** targets specific phenological stages where water stress has minimal
 yield impact. Key principles:
-- For fruit trees: Post-harvest deficit saves water with little yield loss;
-  pre-harvest deficit can improve fruit quality (soluble solids, color).
-- For grain crops: Stress during vegetative stage has moderate impact; stress
-  during flowering/grain-fill is most damaging (yield reduction 2–5% per day
-  of stress for maize at silking). Wheat tolerates moderate post-anthesis
-  stress with <15% yield loss.
-- **Partial root-zone drying (PRD)**: Alternating irrigation to half the root
-  zone triggers ABA-mediated stomatal closure, reducing transpiration 10–20%
-  with minimal photosynthetic penalty.
-
-Sustained DI can reduce ET by 15–30% with yield losses of only 5–15%, but
-cumulative effects include salt accumulation, reduced deep percolation, and
-altered microclimate.
-
-## Environmental and Climate Factors
-
-ET responds to multiple environmental drivers:
-- **Temperature**: Raises saturation vapor pressure (Clausius-Clapeyron) and
-  VPD, increasing atmospheric demand. Global warming increases ET₀ by ~2–3%
-  per °C in humid regions, partially offset by stomatal closure (CO₂ effect).
-- **CO₂ fertilization**: Elevated CO₂ (~550 ppm projected) reduces stomatal
-  conductance 15–40%, decreasing transpiration per unit leaf area, but larger
-  LAI from CO₂-enhanced growth may partially compensate.
-- **Wind speed**: Strongly affects rₐ and boundary layer conductance. Global
-  stilling (observed ~0.1–0.3 m/s/decade decline) reduces ET₀ by ~1–3%/decade.
-- **Relative humidity**: Low RH increases VPD exponentially; desert ET₀ can
-  be 2–3× that of humid tropics at the same temperatirrigation-systemsiation**: Primary energy source. Aerosols, clouds, and panel
+- [[mollison-village-complex-elements-in-the-humid-tropics]] at the same temperatirrigation-systemsiation**: Primary energy source. Aerosols, clouds, and panel
   shading (agrivoltaics) directly reduce available energy for ET.
-
 ## See Also
 
-- [[solomon-drought-gardening-and-water-conservation]]
-
-- irrigation methods and efficiency — [[irrigation-systems]] and water delivery
+- [[irrigation-systems]] and water delivery
 - [[mollison-designers-soil-water-storage-and-field-capacity]] — soil water storage and availability
 - drought stress physiology in plants — plant responses to water deficit

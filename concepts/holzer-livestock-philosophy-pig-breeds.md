@@ -113,13 +113,7 @@ The strikingly coloured and less well-known old breeds with their piglets fascin
 
 ## See Also
 
-- [[sepp-holzer-method]]
-
 - [[holzer-pig-integration]] — pig integration overview
 - holzer livestock philosophy pig breeds — detailed pig integration methods
-- [[holzer-problem-plant-regulation]] — pig method for weed control
 - [[mollison-animal-integration-in-permaculture]] — Mollison's animal integration
-- [[holzer-livestock-integration]] — livestock integration overview
-
-## Merged: Holzer Pig Integration Detail
-Pigs are an inseparable part of Holzer permaculture. By allowing livestock to be free-range and using a system of paddocks, the work and amount of feed required are reduced to a minimum while providing high-quality food in the form of meat and bacon. The animals actually work for the farmer by loosening the soil and tilling terraces, making pigs one of the most versatile and helpful animals in the [[sepp-holzer-method]]. This ethical approach to animal husbandry connects to [[permaculture-ethics]] and [[permaculture-animal-integration]]. This connects to [[permaculture-domestic-animals]] and heritage breed conservation. Related: [[permaculture-design-principles]], [[permaculture-energy-descent-planning]], [[permaculture-design-principles]], [[permaculture-integrated-animal-systems]], [[permaculture-community-resilience]]
+- [[sepp-holzer-method]]. This ethical approach to animal husbandry connects to [[permaculture-animal-integration]]. This connects to [[permaculture-farm-design-principles]], [[permaculture-farm-design-principles]], [[permaculture-community-resilience]]

@@ -3,18 +3,7 @@ title: PDC Design Implementation and Maintenance
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Design Implementation and Maintenance
-
-The transition from [[permaculture-design]] concept to physical implementation is where many projects succeed or fail. The Williams PDC course emphasises that implementation must be approached systematically, with careful attention to phasing, resource management, and long-term maintenance requirements. A design that cannot be maintained by its inhabitants has failed a fundamental test of [[permaculture-ethics]].
-
-## From Concept to Implementation
-
-The [[permaculture-design-process]] follows a clear progression: from analysis, to concept, to implementation, to ongoing usage. At every stage, the designer must be open to accepting feedback and self-regulating the actions and impacts of the design and habits. This is not a linear process but a cyclical one -- implementation informs redesign, which informs further implementation.
+tags: [[permaculture-design]] concept to physical implementation is where many projects succeed or fail. The Williams PDC course emphasises that implementation must be approached systematically, with careful attention to phasing, resource management, and long-term maintenance requirements. A design that cannot be maintained by its inhabitants has failed a fundamental test of [[permaculture-design-process]] follows a clear progression: from analysis, to concept, to implementation, to ongoing usage. At every stage, the designer must be open to accepting feedback and self-regulating the actions and impacts of the design and habits. This is not a linear process but a cyclical one -- implementation informs redesign, which informs further implementation.
 
 The Williams course stresses that implementation should be nested in an appropriate lobe of the organisation under the care of a willing Steward to ensure it is actually carried out. Ideas adopted by the group through consensus processes must have someone willing to take responsibility for making them happen.
 
@@ -27,14 +16,7 @@ The first phase focuses on prolonged observation and essential infrastructure:
 - Install water harvesting and storage systems (swales, ponds, tanks)
 - Establish access roads and pathways
 - Set up temporary housing if needed
-- Protect sensitive areas and [[zone-5-wilderness]] zones
-
-### Phase 2: Shelter and Zone 1
-
-The second phase establishes the core living systems:
-- Build or retrofit primary shelter
-- Establish Zone 1 garden closest to the kitchen door
-- Set up [[composting-systems]]
+- Protect sensitive areas and [[composting-systems]]
 - Install energy systems (solar, wood heating)
 - Begin soil building through [[sheet-mulching]] and green manures
 

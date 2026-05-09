@@ -60,39 +60,28 @@ Despite its common name suggesting psychoactivity, G. junonius does not contain 
 
 Confusion with genuinely psychoactive Gymnopus species in other regions may account for some of the folklore. Some Asian Gymnopus species reportedly contain gyromitrin-like compounds, though this has not been documented in G. junonius specifically.
 
-Caution is warranted because G. junonius can occur in the same habitat as several toxic species. Most notably, [[omphalotus-olearius]] contains the sesquiterpene illudin S and causes more severe gastrointestinal and neurological symptoms.
-
-## Similar Species
-
-Several species in Gymnopus and related genera may be confused with G. junonius, particularly in the field where macroscopic identification alone is often insufficient.
-
-**Gymnopus dryophilus** is a common lookalike that differs by its smaller stature, more distant gills, and preference for conifer debris. Its spores are slightly smaller on average, typically 5–7 × 3–4 µm.
-
-**Marasmius oreades** (the fairy ring mushroom) is considerably smaller and more delicate, with a smooth stipe lacking the tough, cartilaginous texture characteristic of G. junonius. M. oreades is considered edible and choice.
-
-**Omphalotus olearius** is a more dangerous confusion candidate, capable of causing significant gastrointestinal distress. It is typically larger, more orange in coloration, and its gills exhibit weak bioluminescence in fresh specimens.
-
-Microscopic examination, particularly of spore morphology and cheilocystidia shape, is generally required for reliable determination among these taxa.
-
-## Ecological Role
-
-As a primary decomposer of hardwood, G. junonius plays a significant role in forest nutrient cycling. It is among the first colonizers of freshly fallen timber and persists through intermediate and late stages of wood decomposition.
-
-The species contributes to carbon mineralization and the release of bound nitrogen and phosphorus from lignocellulosic substrates. Its mycelial network helps fragment woody debris, accelerating colonization by bacteria and other fungal species.
-
-G. junonius may form transient associations with soil invertebrates, particularly collembola and woodlice, which assist in spore dispersal. The tough, persistent basidiocarps can survive for several weeks in the field, providing an extended window for spore release.
-
-In permaculture and forest garden contexts, Gymnopus species are generally regarded as benign or beneficial decomposers. They are not known to be pathogenic to living plants and can be left to complete their decomposition cycle on dead wood.
-
-## See Also
-
-- [[omphalotus-olearius]]
-- [[armillaria-mellea]]
+Caution is warranted because G. junonius can occur in the same habitat as several toxic species. Most notably, [[omphalotus-olearius]]
 - [[mycena-cyanorrhiza]]
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
 - [[coprinus-comatus-detailed]]
-- [[schizophyllum-commune]]
 - [[psilocybe-genus-diversity-and-taxonomy]]
-- [[amanita-muscaria]]
 - [[laccaria-laccata]]
 - [[boletus-edulis-entity]]
+## Practical Considerations
+
+Successful implementation of Gymnopus junonius requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

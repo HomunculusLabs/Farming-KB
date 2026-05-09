@@ -11,11 +11,7 @@ sources:
 
 **Chemical name:** 3,5-Dimethoxy-4-ethoxyamphetamine
 
-**PiHKAL #25** | [[alexander-shulgin]]'s rating: ++
-
-## Overview
-
-3C-E is an amphetamine derivative related to the 2C family of psychedelic phenethylamines. It represents the amphetamine homologue with a 3,5-dimethoxy-4-ethoxy substitution pattern on the phenyl ring. It was synthesized and explored by [[alexander-shulgin]] as part of the systematic investigation of substituted amphetamines. 3C-E is, quite simply, Escaline (the 4-ethoxy analogue of mescaline-entity|mescaline) reextended to a 3-carbon amphetamine chain — a satisfying closure to Shulgin's exploration.
+**PiHKAL #25** | [[alexander-shulgin]] as part of the systematic investigation of substituted amphetamines. 3C-E is, quite simply, Escaline (the 4-ethoxy analogue of mescaline-entity|mescaline) reextended to a 3-carbon amphetamine chain — a satisfying closure to Shulgin's exploration.
 
 ## Dosage
 
@@ -70,7 +66,7 @@ At 60 mg, visuals were very strong and insistent. Body discomfort was heavy for 
 
 3C-E occupies a unique position in the Shulgin catalog. It represents the "closing of the circle" — mescaline-entity|mescaline launched the entire phenethylamine research program, and the first half was the amphetamine period. When the two-carbon chain of mescaline was explored with knowledge of the critical 4-position substituent, compounds like 2c-b-compound-profile|2C-B and 2c-e-compound-profile|2C-E were discovered. 3C-E brings the 4-ethoxy substitution back to the amphetamine chain, completing a conceptual arc.
 
-The alpha-methyl group of 3C-E (compared to the phenethylamine Escaline) increases metabolic stability and duration, but adds stimulant properties and body load. This pattern is consistent across the 2C-to-DO series comparisons: 2C-I → [[doi-compound-profile]], 2c-b-compound-profile|2C-B → [[dob-compound-profile]], etc.
+The alpha-methyl group of 3C-E (compared to the phenethylamine Escaline) increases metabolic stability and duration, but adds stimulant properties and body load. This pattern is consistent across the 2C-to-DO series comparisons: 2C-I → [[dob-compound-profile]], etc.
 
 ## Related Compounds and Commentary
 
@@ -85,15 +81,5 @@ The 3C series represents compounds that bridge the gap between the classic 2C ph
 - Stimulant effects can mask the psychedelic component, leading to redosing
 - Longer duration than corresponding 2C compounds
 - Strong fantasy takeover at higher doses may cause difficulty distinguishing reality from imagination
-- See [[psychedelic-harm-reduction]] for general harm reduction guidelines
-- Legal status: Scheduled in many countries as a controlled substance analogue
-
-## Related Compounds
-
-- 2c-e-entity|2C-E — phenethylamine analogue (no alpha-methyl)
-- [[dob-compound-profile]] — 4-bromo substituted amphetamine analogue
-- [[dom-compound-profile]] — 4-methyl substituted amphetamine analogue
-- mda-entity|MDA — methylenedioxy amphetamine, the prototype empathogenic-psychedelic
-- mescaline-entity|mescaline — the original 4-ethoxy phenethylamine prototype
-- 2c-b-compound-profile|2C-B — the most well-known 2C compound for comparison
+- See [[dob-compound-profile]] — 4-bromo substituted amphetamine analogue
 - [[phenethylamine-synthesis-safety]]

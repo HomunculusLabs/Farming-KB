@@ -124,13 +124,8 @@ Cookie-family terpene profiles (sweet, earthy, bakery-like with gas undertones) 
 
 ## See Also
 
-- [[query-best-light-schedule-for-cannabis]]
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
-- [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
 - [[cannabis-hashish-guide]]
-- [[cannabis-menopause-research]]
-
 - [[og-kush]] — legendary parent strain
-- [[cannabis-indoor-growing-guide]] — pure sativa landrace parent
 - [[gelato-cannabis]] — popular GSC descendant
 - [[cannabis-blue-dream]] — another benchmark hybrid strain

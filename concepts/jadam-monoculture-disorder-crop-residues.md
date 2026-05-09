@@ -77,18 +77,13 @@ This contrasts with modern recommendations for fully fermented, deeply incorpora
 To overcome monoculture disorder in JADAM farming:
 
 - Leave all crop residues in the field after harvest
-- Use [[jadam-microorganism-solution-jms]] to accelerate decomposition
-- Apply [[jadam-liquid-fertilizer]] from wild grasses and crop residues for supplemental nutrition
-- Use [[jadam-cover-crop-method]] with rye and hairy vetch for additional organic matter
-- Apply sea salt and phyllite solution for mineral diversity
-- Focus on eliminating the [[soil-compaction-solutions-ingham]] so roots can access deep nutrients
+- Use [[jadam-liquid-fertilizer]] from wild grasses and crop residues for supplemental nutrition
+- Use [[soil-compaction-solutions-ingham]] so roots can access deep nutrients
 
 ## The "Peel vs. Fruit" Problem
 
 JADAM highlights a critical irony: humans eat only the fruit and discard the peel, while modern organic farming applies only the peel (rice bran, press cake, husks) as fertilizer. Both are imbalanced. The solution for human health is to eat whole foods with skins. The solution for soil health is to return whole crop residues -- the complete above-ground biomass -- to the soil.
 
 Creating a nutrient imbalance through unbalanced fertilizer application is itself a form of soil contamination. It leads to increased disease incidence just as surely as chemical contamination does.
-- [[jadam-making-organic-farming-inputs]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[what-natural-farming-method-should-i-use]]
 - [[cover-crops-soil-health]]

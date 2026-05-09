@@ -21,41 +21,6 @@ focused only on general techniques may never achieve the precision that a
 dedicated cold frame provides.
 
 ## Season Extension Techniques
-[[season-extension-techniques]]
-Season extension encompasses every method that allows earlier spring planting,
-later fall harvests, or winter growing. This includes row covers, low tunnels,
-high tunnels, cloches, succession planting strategies, and cold frames
-themselves. The approach is modular and scalable: a balcony gardener might
-rely on a simple cloche or row cover, while a market farmer invests in
-multiple high tunnels covering acres.
-
-The strength of the general season extension approach is its adaptability.
-Different techniques can be layered for cumulative effect: start seeds indoors
-under lights in late winter, harden off in a cold frame, transplant under a
-low tunnel for early field planting, then move to open field with row covers
-for frost insurance. Each layer adds weeks to the season. Row covers are the
-cheapest and simplest entry point, providing 2 to 8 degrees F of frost
-protection at minimal cost. Low tunnels made from PVC hoops with polyethylene
-plastic offer more protection and are suitable for larger plantings. High
-tunnels provide walk-in growing space and 5 to 15 degrees F of frost
-protection, but represent a significant investment of $2,000 to $10,000 or
-more.
-
-Cloches serve as individual plant protectors, from traditional glass bell jars
-to DIY plastic jug covers and Wall-o-Water devices filled with water that
-provide protection to approximately 16 degrees F. Succession planting, while
-not a physical structure, is a temporal season extension technique: staggering
-plantings of the same crop at intervals ensures continuous harvests rather
-than a single glut, effectively extending the productive period for each crop.
-
-The main challenge of managing multiple season extension methods is the labor
-involved in opening, closing, and monitoring structures. Overheating kills
-plants faster than cold, so ventilation management is critical across all
-methods. Growers must also learn which techniques suit which crops: cold-hardy
-greens thrive under simple row covers, while heat-loving tomatoes and peppers
-need the full protection of a high tunnel or greenhouse.
-
-## Cold Frame Gardening
 [[cold-frame-gardening]]
 A cold frame is a bottomless box with a transparent lid that captures solar
 energy to create a warm, protected microclimate. It provides 10 to 20 degrees
@@ -131,7 +96,5 @@ late seedlings, then returns to fall and winter greens production when
 temperatures drop.
 
 ## See Also
-- [[greenhouse-growing]] — larger permanent season extension structure
 - [[raised-bed-gardening]] — raised beds warm faster in spring, complementing season extension
-- [[seed-starting-indoors]] — starting seeds before the season allows
 - [[deep-bed-cultivation]] — intensive growing method that pairs well with season extension

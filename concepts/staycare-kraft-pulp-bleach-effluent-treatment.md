@@ -118,8 +118,6 @@ parameters simultaneously.
 
 ## See Also
 
-- [[bioremediation-laccase-mediator-systems]]
-- [[bioremediation-packed-fluidized-bed-bioreactors]]
-- [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
+- [[mycoremediation]]
 - [[staycare-fungal-treatment-of-textile-industry-wastewater]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]

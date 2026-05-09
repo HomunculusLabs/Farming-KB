@@ -89,12 +89,8 @@ Standing water, condensation, and humidifiers can harbor and distribute bacteria
 
 ## Related
 
-- [[leucocoprinus-birnbaumii]] Topics
-- mushroom contamination prevention for additional detail
 - [[mushroom-sterilization-methods]] for sterilization protocols
-- [[oyster-mushroom-spawn-production]] for clean spawn techniques
 - [[fungal-biology-fundamentals]] for understanding fungal ecology
-- [[fungal-chromogens-and-color-change]]
 - [[bulk-substrate-preparation]]
 ## Merged: Aflatoxins -- Mycotoxins in Food
 

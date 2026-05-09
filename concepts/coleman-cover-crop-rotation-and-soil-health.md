@@ -79,55 +79,12 @@ One significant limitation in cold climates is the absence of winter
 green manures that can be sown and established after late-fall vegetable
 harvests. Coleman notes that there are no winter green manures suitable
 for his climate after the late-fall harvest window closes. This gap is
-one of the factors that motivated the development of [[coleman-season-extension-timeline-and-frost-protection]] for
-overwintering hardy crops rather than leaving fields bare or attempting
-marginal cover crop plantings.
+one of the factors that motivated the development of [[vicia-sativa]]
 
-## Red Clover and Undersowing
-
-Coleman references the traditional practice of undersowing red clover
-into standing tomato crops as a green manure. The clover establishes
-under the tomato canopy during summer and can be turned under after the
-tomatoes are removed, providing a nitrogen boost and organic matter for
-the following crop. This technique exemplifies the principle of fitting
-cover crops into the rotation without sacrificing commercial production
-time.
-
-## Historical Context
-
-The Parisian maraichers practiced "rational crop rotations" as a
-foundation of their system, with every bed part of a planned sequence
-that included green manure crops. Kropotkin noted that the combination of
-compost, green manures, mixed farming, and crop rotations were basic
-principles of their success. Coleman draws on this heritage while adapting
-it to modern constraints of year-round production schedules and local
-market demands.
-
-## Weed Seed Bank Management Through Rotation
-
-Crop rotation also serves weed management. Studies have shown that the
-serious weed-seed load in a soil can be greatly reduced over three to
-five years if no new seeds are introduced. Coleman has even hand-weeded
-green manures to prevent weeds from producing seed, or tilled green
-manures under and started again when weed pressure was too high. Rotating
-between crop families with different growth habits and cultivation
-requirements further disrupts weed adaptation cycles.
-
-## Related
-
-- [[vicia-sativa]]
-
-- [[camelina-sativa]]
 - [[canavalia-ensiformis]]
-
-- [[coleman-mobile-greenhouse-crop-rotation-patterns]] Concepts
 
 - [[coleman-compost-and-organic-fertility-management]] — compost as the
   primary fertility input complementing cover crops
-- [[coleman-succession-planting]] — how intensive cropping sequences
-  replace fallow periods
 - [[coleman-deep-organic-farming]] — the broader philosophy of soil
   biological health
-- [[coleman-greenhouse-soil-management]] — greenhouse-specific rotation
-  considerations
 - [[coleman-weed-control]] — cover crops as weed suppression tools

@@ -6,7 +6,7 @@ tags: [sachs, phototropism, blue-light, plant-biology, history-of-science,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Daniel Chamovitz (2012), "What a Plant Knows," Oneworld Publications,
+  - daniel-chamovitz (2012), "What a Plant Knows," Oneworld Publications,
     Chapter 1
   - ~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
 type: concept
@@ -136,15 +136,10 @@ shoot tip, a signal is transmitted downward, and differential
 growth on opposite sides of the stem produces the bending
 response. This combined model remains the foundation of
 phototropism research today.
-
 ## See Also
 
-- [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's
-  phototropism experiments with canary grass
 - [[darwins-phototropism-experiments]] - Detailed account of Darwin's
   experimental methods
-- [[darwin-power-of-movement-in-plants]] - Darwin's final book on
-  plant movement
 - [[what-a-plant-knows-plant-vision-and-light-perception]] - Chamovitz
   overview of plant vision
-- [[phototropism-photoperiodism-discovery-phytochrome]] - Broader
+- [[darwin-phototropism-discovery-plant-light-perception]] - Broader

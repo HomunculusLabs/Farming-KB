@@ -133,15 +133,12 @@ genera than was historically appreciated:
 ## Similar Species
 | Species | Distinguishing Features |
 |---|---|
-| [[pluteus-salicinus]] | Also psychoactive; on willow wood |
-| [[pluteus-nigroviridis]] | Darker cap; less glaucous tinge |
+| [[archaeology-of-psychedelic-mushroom-use]] | Darker cap; less glaucous tinge |
 | Pluteus cervinus | Larger, brown; very common, inactive |
 | Pluteus leoninus | Bright yellow cap; distinctive color |
 | Pluteus romellii | Yellow cap; found on conifer wood |
 | Pluteus umbrosus | Darker brown; larger stature |
 ## See Also
-- [[pluteus-salicinus]]
 - [[psilocybe-cubensis]]
-- [[gymnopilus-penetrans]]
 - [[psilocybe-cyanescens]]
 - [[panaeolus-subbalteatus]]

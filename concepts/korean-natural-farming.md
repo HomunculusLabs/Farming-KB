@@ -66,16 +66,10 @@ The three main growth stages are:
 
 KNF uses a range of homemade biological inputs:
 
-- [[indigenous-microorganisms-imo]] (IMO): Collected
-  locally and multiplied to build soil microbiology
 - [[fermented-plant-juice-preparation-and-application]]:
   Nutrient-rich extracts from growing plant tips
-- [[lactic-acid-bacteria-natural-farming]] (LAB): Anaerobic
-  microbes that improve soil ventilation and plant growth
 - [[oriental-herbal-nutrient-ohn]] (OHN): Herbal
   preparations for plant immunity
-- [[fish-amino-acid-faa]] (FAA): Protein source from
-  fermented fish waste
 - [[water-soluble-calcium-wca]] (WCA): Calcium supplement
   from eggshells and vinegar
 
@@ -113,16 +107,6 @@ Mongolia, USA, and India. It is increasingly practiced in
 underdeveloped communities as a self-supporting tool for
 improving living standards and achieving food security.
 
-Dr. Cho is ranked alongside [[fukuoka-natural-farming-philosophy-of-mu]], Rudolf Steiner, and Bill Mollison as
-one of the post-modern "Krishi Rishis" of sustainable
-agriculture. His insistence that farmers experiment freely
-and substitute local materials lends the system tremendous
-flexibility and accessibility.
-
-## See Also
-
-- [[indigenous-microorganisms-imo]]
-- [[fermented-plant-juice-preparation-and-application]]
+Dr. Cho is ranked alongside [[indigenous-microorganisms-imo]]
 - [[jadam-farming-method]]
-- [[natural-farming-soil-building]]
 - [[fukuoka-natural-farming]]

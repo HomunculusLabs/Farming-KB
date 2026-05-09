@@ -100,11 +100,8 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[2-br-4-5-mda-entity-pihkal]]
 - [[2c-b-entity-pihkal]]
-- [[2c-c-entity-pihkal]]
 - [[2c-d-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[asb-entity-pihkal]] -- ASB (PIHKAL #9)
 - [[beatrice-entity-pihkal]] -- BEATRICE (PIHKAL #11)

@@ -1,16 +1,14 @@
 ---
 title: "Permaculture Windbreak Design and Species Selection"
 created: 2026-04-28
-tags: [permaculture, windbreak, microclimate, orchard, shelterbelt, design]
+tags: [[permaculture, windbreak, microclimate, orchard, shelterbelt, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# [[permaculture-windbreak]] and Species Selection
-
-Windbreaks are structural elements in [[permaculture-design]] that protect crops,
+# [[permaculture-design]] that protect crops,
 livestock, buildings, and soil from wind damage while providing additional
 functions such as wildlife habitat, firewood production, privacy screening,
 and erosion control. Wind is a significant sector that affects every aspect
@@ -112,11 +110,7 @@ provide food for chickens and habitat for pest-eating birds. Windbreak
 trees can serve as support structures for climbing vines, producing food
 and shade. Earth-sheltered buildings use windbreaks to reduce heating and
 cooling demands. Windbreaks also serve as wildlife corridors connecting
-[[zone-5-wilderness]] areas to cultivated zones, supporting beneficial
-predators that control pest populations in gardens and orchards. Combined
-with [[permaculture-polyculture-fish-pond]] and [[mollison-permaculture-two-zone-planning-and-site-layout]], windbreaks form a comprehensive
-strategy for managing the wind sector of any permaculture design. See also
-[[permaculture-herb-spiral-design]] for related microclimate elements and
+[[permaculture-polyculture-fish-pond]] and [[permaculture-herb-spiral-design]] for related microclimate elements and
 [[permaculture-beekeeping-guide]] for wind-sensitive livestock integration.
 
 ## Summary of Design Principles

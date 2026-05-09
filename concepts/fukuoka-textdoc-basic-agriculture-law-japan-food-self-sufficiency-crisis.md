@@ -115,10 +115,7 @@ When the farmer forgets the land to which he owes his existence and becomes conc
 
 ## See Also
 
-- [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
-- [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
 - [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
-- [[fukuoka-textdoc-village-philosophy-disappearance]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]

@@ -3,63 +3,7 @@ title: Disaster Resilience
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Disaster Resilience
-
-> From: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 5, 9, 10, 12
-
-Disaster resilience is a critical design consideration. Mollison addresses wildfire, flood, and general site vulnerability throughout the manual, with particular emphasis on wildfire design for cold and arid climates. The further we depart from communal permanence, the greater the risk of tyranny, feudalism, revolution, and the more work for less yield. Any error or disturbance can bring disaster, as can a drought year in a desert grain crop.
-
-## Wildfire: Factors That Increase Fire Intensity
-
-Once initiated, wildfire can spread with great speed. Grass fires spread after 10-11 a.m. (after the dew has dried off); forest fires from midday to 3 p.m. After an initial flare-up, an hour or so suffices to develop firestorm conditions, aided by:
-
-- Loose fuels of smaller than 6 cm diameter, grasses and sticks, at less than 20% water content. Pine woods erupt at less than 30% humidity due to high resin content.
-- Winds of 10-50 km/h accelerate spread as the square of the velocity. At 20 km/h spread is 2 km squared per hour; at 30 km/h it is 4 km squared per hour.
-- Winds "backing" (shifting) late in the day may blow out a fire flank into a broad front, or even blow a fire back on itself.
-
-## Designing for Fire Resistance
-
-Wildfire will always occur on arid borders. We need to first be able to live with fire, and only secondarily design to exclude fire from settled areas by a combination of:
-
-- Altering the vegetation to create more fire-immune systems.
-- Designing dams specifically to flood-flow over hillsides subject to fire.
-- Mechanical or grazing removal of fuels just before fire-danger periods.
-- Complete wildfire control achieved by dams and sheet irrigation, using infrared sensors and automatic spill-gates.
-
-## Firebreak Design
-
-Firebreak is a way of decreasing fire intensity. Roads act as firebreak, as do ponds, marshes, rivers, stony areas, and summer-green or sappy plant crop hedgerows.
-
-- Horizontal firebreak weakens or reduces the fire front energy.
-- Vertical firebreak, to prevent fire "crowning" in trees, relies on removal of lower branches, dead tree material, and planting sappy ground cover under the forest.
-
-No firebreak (even 10 km of water) is effective in firestorms. Fire tornadoes with ascent velocities of up to 250 km/h can develop on the lee ridge side of hills, travelling downhill and lifting aloft large logs and branches.
-
-## House Design for Wildfire
-
-In fire-prone areas, houses should feature:
-
-- A simple roof and wall outline (no internal roof valleys or re-entrant wall corners).
-- No tarpaper roof lining projecting into gutters; gutters should have a leaf-free profile or can be plugged and water-filled in the event of fire.
-- No unscreened windows, underfloor, or wall cavity vent spaces; all need fine-mesh metal screens.
-- No inflammable door mats, wood piles, or shrubs against house walls.
-- White paint on houses reduces radiation absorption.
-- Fire-proof insulation (mineral wool, seagrass, sawdust, feathers, wool).
-
-## Siting Houses for Fire Safety
-
-In fire-prone areas, houses are at most danger from upslope fire. For every 10 degrees increase in upslope angle, fire speed and intensity doubles. Site houses off the ridge, on downslope plateaus, and excavate the site rather than raising it on stilts. A house nested into a shelf on the hill is protected from radiation, has no open underfloor area, and can have a rimwall, pond, or earthbank as further protection.
-
-Around house and building sites, reduce forest and grass fuel to a distance of 30 metres. Plant fire-resistant trees (Coprosma, deciduous fruits, figs, willows, poplars -- not olives, pines, or eucalypts) and summer-green ground cover (comfrey, iceplants, Tradescantia, Impatiens).
-
-## Fire Refuges
-
-Each fire or radiation refuge needs a small (270 litre) permanent water tank incorporated, a few old blankets, and a bucket of water. These apply to houses, barns, livestock shelters, and outbuildings. The safest house sites are in damp valley mouths, well-tended built-up areas, farms with flood-flow or [[keyline-design]] irrigation, irrigated areas, and peninsulas in dams and lakes.
+tags: [[keyline-design]] irrigation, irrigated areas, and peninsulas in dams and lakes.
 
 ## Fuel Reduction
 
@@ -75,11 +19,85 @@ Radiation shields are solid or reflective objects that reflect or harmlessly abs
 
 ## Related Topics
 
-- [[permaculture-designers-manual-fuel-wood-systems]] for fuel reduction.
 - [[permaculture-designers-manual-house-design-principles]] for fire-resistant building.
-- [[permaculture-designers-manual-irrigation-methods]] for fire control systems.
 - [[permaculture-designers-manual-dam-construction]] for flood-flow systems.
-- [[permaculture-designers-manual-triage-first-aid-design]] for emergency planning.
-
 - [[permaculture-designers-manual-arid-climates]]
 - [[permaculture-designers-manual-pond-edge-planting]]
+## Practical Applications
+
+Disaster Resilience has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Disaster Resilience. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

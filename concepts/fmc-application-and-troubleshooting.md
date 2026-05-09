@@ -100,6 +100,7 @@ The charcoal in FMC is particularly important — it provides:
 | Pests (flies, rodents) | Exposed food scraps | Bury food scraps in pile, cover with straw |
 | Finished compost still has chunks | Insufficient decomposition | Extend composting time, chop materials finer |
 
+
 ## See Also
 
 - [[fermented-mixed-compost-fmc]] — FMC methods (simple and precision)

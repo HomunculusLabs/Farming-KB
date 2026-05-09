@@ -9,7 +9,7 @@ sources:
 ---
 # Growing Potatoes Organically
 
-Potatoes are one of the most productive and rewarding vegetable crops. They require careful soil preparation and benefit enormously from organic [[container-growing-vegetables-herbs]] [[growing-alliums-organically]] methods. They are a key crop in rotation systems, helping to break up the soil for subsequent crops.
+Potatoes are one of the most productive and rewarding vegetable crops. They require careful soil preparation and benefit enormously from organic [[growing-alliums-organically]] methods. They are a key crop in rotation systems, helping to break up the soil for subsequent crops.
 
 ## Soil and Site
 
@@ -113,10 +113,7 @@ Organic growers benefit from selecting varieties with inherent disease resistanc
 
 ## Related
 
-- [[vegetable-growing-guide]] for general vegetable cultivation
 - [[cover-cropping-guide]] for follow-on green manures
-- [[hamilton-organic-pest-control]] for disease management
 - [[composting-systems]] for soil preparation
 
-- [[potato-growing-guide-solomon]]
 - [[solomon-cover-crops-green-manure-guide]]

@@ -11,7 +11,7 @@ sources: []
 
 Updated: 2026-04-19
 
-Food dehydration removes moisture from foods to prevent microbial growth and enzymatic spoilage. Sun drying uses no fuel or equipment cost, while electric dehydrators use minimal energy. Both methods can produce food that stores for six months or more at room temperature when properly dried and stored. Drying is one of the oldest food preservation methods and remains one of the most accessible techniques for homesteaders and off-grid living, complementing methods covered in [[food-preservation-canning]] and [[lacto-fermentation-and-food-preservation-methods]].
+Food dehydration removes moisture from foods to prevent microbial growth and enzymatic spoilage. Sun drying uses no fuel or equipment cost, while electric dehydrators use minimal energy. Both methods can produce food that stores for six months or more at room temperature when properly dried and stored. Drying is one of the oldest food preservation methods and remains one of the most accessible techniques for homesteaders and off-grid living, complementing methods covered in [[lacto-fermentation-and-food-preservation-methods]].
 
 ## Sun Drying
 
@@ -89,16 +89,9 @@ Drying preserves most nutrients effectively. Vitamin C is the most heat-sensitiv
 
 ## See Also
 
-- [[lacto-fermentation-and-food-preservation-methods]]
-
 - [[canning-and-preserving]]
-
-- [[food-preservation-canning]]
 
 - [[homesteading-food-preservation]]
 
-- [[faires-low-energy-cooking-and-food-preservation]]
-
 - [[faires-food-drying-and-no-energy-storage]]
-- [[faires-no-energy-food-storage]]
 - [[faires-preserving-whole-foods]]

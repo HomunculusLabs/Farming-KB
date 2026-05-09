@@ -103,13 +103,10 @@ Longan wood is moderately hard and has been used locally for tool handles, furni
 
 ## See Also
 
-- [[litchi-chinensis]]
-- [[nephelium-lappaceum]]
-- [[morus-nigra]]
+- litchi chinensis
+- nephelium lappaceum
 - [[ziziphus-jujuba]]
-- [[diospyros-virginiana]]
 - [[mangifera-indica]]
-- [[citrus]]
-- [[carica-papaya]]
+- citrus
 - [[vitis-vinifera]]
 - [[theobroma-cacao]]

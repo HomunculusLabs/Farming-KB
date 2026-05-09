@@ -79,11 +79,7 @@ Fukuoka's blunt advice: "People in developed countries should all get out of Afr
 
 ## Related Concepts
 
-- [[fukuoka-desert-cause-vegetation]] -- the theoretical framework for desertification
 - [[fukuoka-seed-ball-technique]] -- the method for aerial seed scattering
-- [[fukuoka-desert-greening-projects]] -- UN engagement with natural farming
 - [[fukuoka-natural-diet-food-philosophy]] -- food philosophy and diet
-- [[fukuoka-vegetable-growing-natural-method]] -- the natural seeding approach
 - [[desertification]] -- the broader problem of desert expansion
-- [[fukuoka-natural-farming-spiritual-light]]
 - [[fukuoka-desert-revegetation-natural-farming]]

@@ -128,8 +128,6 @@ appendages.
 
 ## See Also
 
-- [[zygomycota-phylogeny-classification-non-monophyletic]]
 - [[trichomycetes-gut-fungi]]
-- [[fungal-parasites-invertebrates]]
 - [[fungal-nematode-feeding-interactions]]
 - [[anaerobic-gut-fungi]] biology herbivore digestion

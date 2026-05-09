@@ -120,13 +120,9 @@ significant short-term or long-term adverse effects.
 Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[beta-glucan-receptor-binding]]
 - [[grifron-d-maitake-beta-glucan]]
-- [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[fungal-carbon-storage-mycorrhizal-pathways]]
-- [[fungal-single-cell-protein-production]]
 - [[schizophyllum-commune-schizophyllan-cancer]]
 
 ## See Also

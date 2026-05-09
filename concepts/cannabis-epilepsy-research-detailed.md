@@ -39,11 +39,7 @@ Relevant cannabinoids include CBD, anandamide, and THC. Anandamide and THC bind 
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-endocannabinoid-system]] is one of the most important endogenous neuromodulatory systems for seizure control. cb1-receptor activation presynaptically reduces neurotransmitter release, effectively raising the seizure threshold by dampening excessive neuronal excitability. This mechanism is the basis for the body's endogenous seizure termination response.
-
-The finding of low anandamide in epilepsy patients' CSF (Rome, 2009) suggests a deficiency state where the brain's natural anticonvulsant system is compromised. Anandamide activates both cb1-receptor and cb2-receptor, and its deficiency may leave the brain vulnerable to hyperexcitability. FAAH (fatty acid amide hydrolase) inhibitors, which increase endogenous anandamide levels, represent an alternative therapeutic approach.
-
-CBD's anticonvulsant mechanisms are multifaceted and include modulation of GABA and glutamate signaling, activation of TRPV1 (vanilloid) channels, inhibition of adenosine reuptake, and positive allosteric modulation of GABA-A receptors. These mechanisms are largely independent of CB1/CB2 activation, which explains CBD's efficacy without psychoactive effects. Detailed pharmacology is available in [[cannabis-cbd-therapeutic-profile]].
+The [[cannabis-cbd-therapeutic-profile]].
 
 The CB1 receptor redistribution observed during status epilepticus (VCU, 2009) suggests the brain attempts to mobilize its endocannabinoid defense during seizures but may become overwhelmed, providing a rationale for exogenous cannabinoid supplementation.
 
@@ -61,7 +57,7 @@ Epilepsy dosing is highly individualized and should be managed by experienced he
 
 For adjunctive use alongside standard anti-epileptic drugs (AEDs), starting doses of 5-10 mg/kg/day with gradual titration every 1-2 weeks is standard practice. CBD should be introduced slowly to monitor for drug interactions and side effects. Blood levels of concomitant AEDs (especially clobazam, valproate) should be monitored, as CBD can alter their metabolism.
 
-Sublingual tinctures or oil preparations are the most common [[cannabis-delivery-methods-comparison]] for epilepsy, offering precise dosing and relatively rapid absorption. Whole-plant extracts containing additional cannabinoids and terpenes may offer enhanced efficacy through the [[cannabis-terpene-entourage-effect-profiles]], though standardized purified CBD (Epidiolex) has the strongest clinical evidence.
+Sublingual tinctures or oil preparations are the most common [[cannabis-terpene-entourage-effect-profiles]], though standardized purified CBD (Epidiolex) has the strongest clinical evidence.
 
 For pediatric patients, THC content should be minimized or eliminated. CBD-dominant preparations with THC below 0.3% are generally recommended. Some clinicians report that trace amounts of THC (1-2 mg per dose) may enhance CBD's anticonvulsant effects through synergistic mechanisms.
 
@@ -81,10 +77,6 @@ Seizure activity has been associated with religious vision and hyperreligiosity 
 
 ## See Also
 
-- [[cannabis-schizophrenia-research-detailed]]
-
 - [[cannabis-and-epilepsy]]
-- [[cannabis-and-neuroprotection]]
 - [[cannabis-health-index]]
-- [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]

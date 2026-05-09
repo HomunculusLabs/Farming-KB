@@ -28,18 +28,8 @@ sources:
 
 ## Overview
 
-*Lenzites betulina*, commonly known as the gilled [[growing-gourmet-polypore-mushrooms-cultivation-overview|polypore]] or [[cancer-medicinal-mushrooms-chaga-and-birch-polypore|birch]] mazegill, is a
-[[bloomfield-basidiomycete-biology-overview|basidiomycete]] bracket fungus in the family Polyporaceae. It is notable for its
-unusual gilled hymenophore, which distinguishes it from most other polypores that
-bear pores.
-
-Despite its gill-like structure, phylogenetic studies place it firmly within the
-Polyporales, making it a striking example of convergent evolution in fruiting body
-morphology.
-
-The species is a cosmopolitan wood-decay fungus found on dead hardwood and
-occasionally conifer wood. It produces tough, leathery basidiocarps that persist
-for months, contributing to long-term decomposition cycles in forest ecosystems.
+*Lenzites betulina*, commonly known as the gilled [[bloomfield-basidiomycete-biology-overview|basidiomycete]] mazegill, is a
+[[decomposition-cycles]] in forest ecosystems.
 
 ## Taxonomy and Morphology
 
@@ -102,49 +92,5 @@ the fruiting body and mycelial extracts. Betulinic acid derivatives, lenzitesins
 and various triterpenoids have been isolated and characterized.
 
 Antimicrobial assays have demonstrated moderate activity against *Staphylococcus
-aureus*, *Escherichia coli*, and *Candida albicans*. The antifungal activity
-appears to be linked to terpenoid constituents.
-
-Antioxidant capacity of methanolic extracts is significant, with IC50 values
-comparable to standard antioxidants in DPPH and ABTS radical scavenging assays.
-
-Preliminary cytotoxicity studies against human cancer cell lines (HeLa, MCF-7)
-have shown dose-dependent inhibitory effects, though clinical relevance has not
-been established.
-
-Polysaccharide extracts from *L. betulina* have demonstrated immunomodulatory
-activity in vitro, stimulating macrophage proliferation and cytokine production.
-
-## Ecological Role
-
-As a white-rot decomposer, *Lenzites betulina* plays a significant role in
-nutrient cycling by breaking down lignin and cellulose in dead wood. Its
-long-lived basidiocarps provide sustained enzymatic activity on substrates over
-many months.
-
-The species contributes to forest succession by facilitating the breakdown of
-coarse woody debris, returning carbon and nutrients to the soil. It competes with
-other wood-decay fungi for substrate colonization and often co-occurs with
-*Stereum hirsutum* and *Trametes versicolor*.
-
-The tough, persistent fruiting bodies serve as microhabitats for various
-invertebrates, including collembola and dipteran larvae. Some bird species
-incorporate fragments of the leathery basidiocarps into nest construction.
-
-While primarily saprotrophic, *L. betulina* can occasionally act as a weak wound
-pathogen on stressed trees, though it is not considered a significant forest
-pathogen.
-
-## Cultivation and Uses
-
-*Lenzites betulina* is not commercially cultivated due to its tough, leathery
-texture and limited culinary value. It is considered inedible in most mycological
-guides because of its corky consistency, though it is not known to be toxic.
-
-In traditional medicine, particularly in East Asia, *L. betulina* has been used
-as a folk remedy for digestive complaints and as a general tonic. Decoctions of
-the dried fruiting body are employed in some traditional Chinese medicine
-practices, though it is far less commonly used than *Ganoderma lucidum* or
+aureus*, *Escherichia coli*, and *[[stereum-hirsutum]]* and *[[ganoderma-lucidum]]* or
 *Trametes versicolor*.
-
-Interest in its cultivation has increased due to its bioactive compound profile.

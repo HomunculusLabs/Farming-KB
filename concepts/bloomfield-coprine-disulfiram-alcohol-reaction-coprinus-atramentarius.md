@@ -137,7 +137,9 @@ mechanism, but none appears specifically evolved for harming humans.
 
 ## See Also
 
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
-- [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]
+
+## See Also
+
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]

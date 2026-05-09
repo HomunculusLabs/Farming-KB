@@ -120,16 +120,10 @@ toxicity.
 
 ## See Also
 
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
-
 - [[biodiversity-fungi-ectomycorrhizal-diversity]]
 
-- [[mycorrhiza]]
-
 - [[laccaria-laccata]] - ectomycorrhizal species with high heavy metal tolerance
-- [[mycena-galopus]] - saprotrophic fungus that suppresses Hebeloma decomposition
 - [[paxillus-involutus]] - fellow ectomycorrhizal species used in pathogen protection
 - lepista nuda - saprotroph that outcompetes ECM fungi for litter decomposition
-- [[suillus-luteus]] - ectomycorrhizal pine specialist
 - [[thelephora-terrestris]] - common ectomycorrhizal nursery fungus
 - [[cenococcum-geophilum]] - widely distributed ectomycorrhizal fungus

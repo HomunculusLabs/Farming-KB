@@ -132,12 +132,8 @@ crop's planting timing, bed placement, and harvest stage carefully,
 the farm maintains consistent salad mix quality even during the most
 challenging winter conditions.
 
-See also [[coleman-winter-greens-variety-selection]],
-[[coleman-winter-greens]], [[coleman-salad-and-braising-mix-production]],
-and [[coleman-winter-harvest-planting-schedule]].
+See also [[coleman-winter-greens]], [[coleman-winter-harvest-planting-schedule]].
 
 ## See Also
-
-- [[coleman-overwintered-onions-and-early-spring-crops]]
 
 - [[coleman-winter-day-length-and-persephone-months]]

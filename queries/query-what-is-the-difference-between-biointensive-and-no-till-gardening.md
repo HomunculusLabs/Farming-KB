@@ -27,16 +27,6 @@ John Jeavons developed the Grow Biointensive method at Ecology Action in Califor
 
 This system uses double-dug raised beds to create loose, deep soil that allows roots to penetrate easily.
 
-The [[jeavons-double-digging-bed-preparation]] guide details the specific double-digging technique.
-
-This involves removing topsoil, loosening the subsoil with a digging fork, and replacing the topsoil with added compost.
-
-Biointensive gardening aims to produce maximum food in minimum space while building soil fertility.
-
-Beds are typically 4 to 5 feet wide and planted intensively in a hexagonal pattern.
-
-Close spacing creates a living mulch that suppresses weeds and conserves moisture.
-
 The [[biointensive-bed-preparation]] resource explains how bed preparation, intensive planting, and composting work together.
 
 The primary benefit of biointensive gardening is rapid soil improvement and high yields per square foot.
@@ -51,25 +41,11 @@ No-till gardening takes the opposite approach: it avoids all mechanical soil dis
 
 Masanobu Fukuoka pioneered this philosophy in Japan.
 
-The [[fukuoka-no-tillage-direct-seeding-history]] resource documents his development of natural farming methods.
-
-Fukuoka observed that natural ecosystems maintain fertility without tilling, and he believed agriculture should work with natural processes.
-
-Modern no-till gardening builds on Fukuoka's insights and is supported by contemporary soil science.
-
 The [[teaming-with-microbes-no-till-gardening-soil-health]] reference explains how tilling disrupts mycorrhizal fungal networks and damages soil aggregates.
 
 Tilling also releases stored soil carbon into the atmosphere as CO2.
 
 No-till methods rely on mulching, cover cropping, and surface composting to build soil from the top down.
-
-The [[fukuoka-living-soil]] philosophy emphasizes that soil is a living ecosystem.
-
-Earthworms, fungi, bacteria, and other organisms create soil structure, cycle nutrients, and suppress disease.
-
-When you stop tilling, these organisms can establish and maintain a healthy soil ecosystem.
-
-### Direct Comparison
 
 The [[comparison-double-digging-vs-no-till]] analysis highlights the key trade-offs between these two approaches.
 
@@ -127,15 +103,12 @@ You can prepare beds using biointensive methods initially, then switch to no-til
 
 - Biointensive gardening uses double-digging to create deep, loose soil for intensive planting in small spaces
 - No-till gardening preserves soil structure and fungal networks by avoiding all mechanical disturbance
-- [[comparison-double-digging-vs-no-till]] shows biointensive produces faster results while no-till builds resilient long-term health
 - [[teaming-with-microbes-no-till-gardening-soil-health]] explains how soil biology responds differently to each approach
 - Many gardeners combine both approaches: double-dig initially, then maintain beds with no-till methods
 
 ## Related
 
-- [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]] Questions
 
-- [[query-how-to-build-healthy-garden-soil]]
 - [[query-what-are-the-benefits-of-no-till-gardening]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]

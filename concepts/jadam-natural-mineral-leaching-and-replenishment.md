@@ -84,50 +84,9 @@ culturing containers by placing rock powder in a mesh bag.
 
 ## Practical Application
 
-The [[jadam-soil-foundation-work]] integrates mineral replenishment into every
-watering cycle. When applying JMS through irrigation, sea salt (500 g per
-quarter acre) and phyllite solution (500 g per quarter acre) are added to
-the mixture. For areas smaller than 0.08 acres, sea salt is not added
-separately because it is already included in the JMS recipe.
-
-JADAM emphasizes that mineral replenishment is not optional but essential
-for sustainable farming. The traditional practice of returning all crop
-residues to soil, combined with mineral supplementation through sea water,
-sea salt, and phyllite, creates a complete nutrient cycling system that
-mirrors nature's approach. In nature, leaves, branches, roots, and fruits
-fall to be disintegrated by microbes and returned to soil. The deeper the
-roots reach, the more minerals they pull up. When these fall back, those
-minerals are released. They may move but are not removed.
-
-## The Zero-Input Critique
-
-JADAM explicitly rejects the concept of "zero-input agriculture" as applied
-to farming. While nature appears to operate with zero input, it actually
-operates as a complete recycling system where everything is re-input in a
-closed loop. Farming is fundamentally different because humans take away all
-the fruits, sometimes harvesting more than once per year. This breaks the
-nutrient cycle. What is taken out must be put back in. Organic nutrients come
-from infinite resources (sun, air, water), but inorganic minerals are finite
-and must be consciously replenished.
-
-## Key Takeaways
-
-- Natural leaching occurs through harvesting; forced leaching through crop
-  residue removal
-- Minerals are finite resources unlike organic nutrients from photosynthesis
-- Sea water provides 83 identified minerals essential for crop quality
-- Phyllite solution supplements minerals in depleted soils
-- Crop residues must be returned to soil to prevent forced mineral leaching
-- Zero-input farming is unsustainable because farming removes nutrients
-  that nature's closed loop retains
-- Mineral deficiency in modern produce is measurable and significant
-- JADAM integrates mineral replenishment into every watering cycle
-- Combining sea minerals with phyllite and crop residues creates a
-  comprehensive mineral management approach that maintains soil fertility
-  across generations of farming
+The [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]]
+- [[jadam-soil-mineral-replenishment]]
 
 ## See Also
 
-- [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]]
 - [[jadam-natural-mineral-water]]
-- [[jadam-soil-mineral-replenishment]]

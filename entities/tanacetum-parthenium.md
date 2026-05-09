@@ -112,19 +112,12 @@ well-drained soil and full sun but tolerates partial shade. Hardy to USDA zone
 
 **Permaculture applications:**
 
-- **Companion planting:** Repels aphids and certain pest insects when
-  interplanted with vegetables. The strong scent masks crop odors.
-- **Ground cover:** Dense, low-growing habit provides weed suppression.
-- **Pollinator support:** Flowers attract beneficial insects including
-  hoverflies, parasitoid wasps, and small bees.
-- **Edge planting:** Well-suited to garden edges and herb spiral placements.
+- **[[herb-spiral]] placements.
 
 ## See Also
 
-- [[tanacetum-vulgare]]
-
 - [[matricaria-chamomilla]]
-- [[achillea-millefolium]]
+- achillea-millefolium
 - chrysanthemum
 - apigenin
 - luteolin

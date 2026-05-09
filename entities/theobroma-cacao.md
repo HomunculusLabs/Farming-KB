@@ -68,28 +68,7 @@ Major production regions: West Africa (Côte d'Ivoire, Ghana), Southeast Asia
 
 Optimal conditions: 25–28°C, 1,500–2,500 mm rainfall, 70–90% humidity, well-
 drained acidic soils (pH 5.5–7.0). Shade-tolerant as juveniles, traditionally
-grown under canopy in agroforestry at 0–600 m elevation.
-
-## Cultivation
-
-Propagated from seeds (recalcitrant, viable ~2–3 weeks) or clonally via
-grafting. Trees bear at 3–5 years, peak at 10–15 years. Yields: 300–1,000 kg
-dry beans/ha/year for smallholders, up to 2,000+ kg/ha intensively.
-
-Post-harvest processing is critical. Beans ferment 5–7 days in heaps or boxes,
-where yeast and bacterial activity kills the embryo and builds flavor
-precursors. Drying reduces moisture to 6–8%, then roasting (120–150°C) develops
-chocolate aroma through Maillard reactions.
-
-Major diseases: black pod (*Phytophthora palmivora*), frosty pod rot
-(*Moniliophthora roreri*), witches' broom (*M. perniciosa*). Primary pest:
-cocoa mirid (*Sahlbergella singularis*).
-
-## Chemistry and Pharmacology
-
-Cocoa beans contain 50–60% fat (cocoa butter): palmitic, stearic, and oleic
-acids in near-equal proportions, giving the sharp melting point near body
-temperature. **Theobromine** (1–3% dry weight) is the primary xanthine, a mild
+grown under canopy in [[theobromine]]** (1–3% dry weight) is the primary xanthine, a mild
 vasodilatory stimulant less potent than caffeine.
 
 Cocoa is exceptionally rich in **flavan-3-ols** (6–8% in raw beans), especially
@@ -115,20 +94,9 @@ butter is widely used in cosmetics and pharmaceuticals as an emollient.
 ## Ecological Role and Permaculture Applications
 
 Cacao is a classic understorey tree in tropical agroforestry, interplanted with
-shade trees (*Inga* spp., *Gliricidia sepium*, *Erythrina* spp.) in multi-strata
-polycultures. These systems support 50–70% of forest bird species compared to
-natural forest, far exceeding full-sun monoculture biodiversity.
+shade trees (*Inga* spp., *[[dimocarpus-longan]]
 
-In permaculture, cacao serves as a mid-canopy food-forest element, pairing
-with nitrogen-fixing overstorey trees, spice crops (vanilla, cardamom), and
-understory bananas for wind protection. Shade-grown systems sequester 6–15
-tonnes CO₂e/ha/year, positioning cacao agroforestry as a climate-smart strategy.
-
-## See Also
-
-- *vanilla-planifolia* — classic cacao companion crop
-- *elettaria-cardamomum* — shade-loving understory spice
-- [[gliricidia-sepium]] — common cacao shade tree and nitrogen fixer
-- [[stropharia-rugosoannulata]] — temperate food forest mushroom
+- [[vanilla-planifolia]]* — classic cacao companion crop
+- *[[stropharia-rugosoannulata]] — temperate [[food-forest]] mushroom
 - *musa-acuminata* — banana, standard cacao intercrop
-- [[theobromine]] — primary xanthine alkaloid in cacao
+- theobromine — primary xanthine alkaloid in cacao

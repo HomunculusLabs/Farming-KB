@@ -11,35 +11,7 @@ type: concept
 # Churches and God: Observations on European Christianity
 
 Fukuoka had never been to a large cathedral before his
-[[fukuoka-european-travels-natural-farming]]. His encounters with churches, priests,
-and Christian iconography led to profound observations about
-the relationship between Western religion, civilization,
-and the human spirit.
-
-## The Padre Church: Where God Is Not
-
-When Fukuoka visited the Padre Church standing alone in the
-fields on the plain outside of Milan, he was moved by a
-feeling that the spirit of Christ lives on there. He
-entered the dark church and, as he stood gazing at the
-figure of Christ on the altar, a priest came over.
-
-"God is not here, so you need not worship," the priest told
-him.
-
-"Now here's an interesting priest," Fukuoka thought. "Where
-is he then?"
-
-The priest explained that the church was an example of early
-Gothic architecture with a long history. A dove carrying a
-branch had alighted here, so forty monks settled and farmed
-the land. They had baked bricks and built the church by
-hand. Napoleon had even occupied it at one time. Because it
-had none of the stained glass windows and other
-embellishments common in cathedrals, it seemed to exemplify
-the spirit of Christ.
-
-This priest showed an interest in [[fukuoka-one-straw-revolution-impact]]. They sat
+[[fukuoka-one-straw-revolution-impact]]. They sat
 down on the lawn in the center garden and the priest split
 open a watermelon and treated them. As they were leaving, he
 gave them spices he had grown in the garden. What delighted
@@ -96,15 +68,7 @@ This echoes his earlier observation that Christ lives only
 within those small, sheltered images by the side of the
 road; he does not live within the churches. The spirit of
 Christ wells up and causes reflection whenever you walk
-along the road or work in the fields. See also [[fukuoka-european-agriculture-observations]].
-
-## The Prison of Western Civilization
-
-The decline of European civilization arises, Fukuoka
-believes, from the Western philosophy of placing oneself
-first. In trying to protect one's person with a stone castle,
-Europeans have ended by enclosing the self within a prison.
-See also [[fukuoka-european-civilization-standstill]] and [[fukuoka-food-civilization-critique]].
+along the road or work in the fields. See also [[fukuoka-european-civilization-standstill]] and [[fukuoka-food-civilization-critique]].
 
 This observation extends beyond physical architecture to
 the entire edifice of Western thought: the stone walls built

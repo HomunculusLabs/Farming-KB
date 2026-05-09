@@ -111,9 +111,7 @@ Saprotrophic fungi play an equally critical role in early primary succession, of
 
 ## See Also
 
-- [[dighton-fungal-succession-disturbance]]
 - [[dighton-fungal-soil-crust-primary-production]]
-- [[dighton-mycorrhizal-succession-forest-ecosystems]]
 - [[mycorrhizal-fungi-primary-production-dighton]]
 - [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
 

@@ -123,10 +123,8 @@ Ingham acknowledges significant hype in the humic acid industry:
 - Acts as a surface for fungi to grow on during the brew
 - Use at approximately 0.25% of brew volume (standard SFI recipe)
 
-See also: [[aact-brewing-ingredients-ingham]], [[composting-and-soil-biology]], [[aact-definitions-and-types-ingham]], [[aact-ph-water-quality-ingham]]
-- [[teaming-with-microbes-soil-minerals-cation-exchange]]
+See also: [[ozier-pdc-composting-and-soil-building]], [[aact-ph-water-quality-ingham]]
 - [[teaming-with-microbes-humic-and-fulvic-acids]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 
 ## See Also

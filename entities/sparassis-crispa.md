@@ -138,12 +138,8 @@ cultivation process requires careful management:
 - The mushroom is also available in liquid culture form for
 ## See Also
 
-- [[sparassis-latifolia]]
 - [[hericium-erinaceus]]
-- [[polyporus-umbellatus]]
-- [[trametes-versicolor]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
 - [[fomes-entity]]
-- [[inonotus-obliquus]]
 - [[ganoderma-lucidum]]
 - [[pleurotus-ostreatus]]

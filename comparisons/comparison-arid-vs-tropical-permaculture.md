@@ -19,35 +19,6 @@ primary limiting factor, tropical permaculture leverages abundant rainfall and
 year-round warmth to create highly productive multi-strata systems.
 
 ## Arid Permaculture
-[[arid-landscape-permaculture]]
-
-Arid permaculture is shaped by the fundamental constraint that water, not food,
-is the limiting factor for productivity. Desert landscapes are angular and
-actively eroding, with vegetation concentrated where water naturally accumulates
-at the base of scarps, in wadi floors, and in the shade of rock features. The
-design approach begins with reading the landform to identify these natural
-water concentration points, then extending them through earthworks such as
-absorption pans, silt traps, and diversion banks that spread flood waters across
-broad areas for infiltration.
-
-Water strategies in arid systems are remarkably sophisticated. Ancient
-Nabatean techniques hold 80-90% of runoff behind dykes, spreading water across
-plains at ratios of 20 hectares of catchment to 1 hectare of irrigated field.
-Sand-filled tanks store water in pore spaces where it cannot evaporate, and
-modest deep storages hold water year-round more reliably than large shallow
-ones. The run-off to storage ratio in deserts must be 20 to 30:1, requiring
-extensive catchment surfaces for every unit of stored water.
-
-Despite the harsh conditions, arid soils are mineral-rich and unexploited.
-Given water, growth response is extremely fast, with fruiting grapes possible
-from cuttings within 15 months. Suitable crops include citrus, grapes, apricots,
-pistachios, almonds, dates, and melons. Settlement design takes advantage of
-rock thermal mass and cliff shading to moderate extreme temperatures, with
-dwellings sited where winter sun enters but summer sun is excluded. Sixteen feet
-into rock, temperature variation is negligible, providing natural climate
-control.
-
-## Tropical Permaculture
 [[tropical-permaculture-guide]]
 
 Tropical permaculture addresses the extraordinary productivity and equally
@@ -113,7 +84,6 @@ regions facing prolonged drought, rising temperatures, and aquifer depletion.
 Even in non-desert areas, techniques like mulch-based moisture conservation,
 zoned planting by water availability, and passive thermal mass cooling drawn
 from arid permaculture offer resilience against climate variability. See
-[[drought-tolerant-planting-design]] for species strategies and
 [[permaculture-earthworks-and-water-harvesting]] for water management approaches.
 
 ## When to Design for Tropical Climates
@@ -130,8 +100,7 @@ Tropical approaches also apply in subtropical regions and anywhere that high
 rainfall, rapid decomposition, and pest pressure dominate the growing
 conditions. The emphasis on nitrogen-fixing trees, continuous mulch cycling,
 and vertically stacked polycultures provides a model for productive perennial
-systems worldwide. See [[food-forest-design-guide]] for multi-strata design and
-[[tropical-permaculture-guide]] for Mollison's treatment of humid
+systems worldwide. See [[tropical-permaculture-guide]] for Mollison's treatment of humid
 tropical systems.
 
 ## Hybrid Approaches
@@ -143,8 +112,6 @@ perennials, and stored water irrigation sustain production. Savanna and
 transition zone designs blend open-canopy silvopastoral systems with
 drought-adapted understory crops, applying arid water harvesting to tropical
 species adapted to seasonal moisture stress.
-
 ## See Also
 
-- [[comparison-syntropic-vs-permaculture]]
 - [[permaculture-design]]

@@ -111,4 +111,4 @@ Once established, a fruit forest requires minimal intervention:
 
 The result is a self-sustaining, productive ecosystem that improves over time rather than degrading -- the opposite of conventional agriculture.
 
-See also: [[holzer-grafting-fruit-forest]], [[holzer-fruit-tree-planting-method]], [[holzer-green-manure-and-soil-building-plants]], [[holzer-livestock-integration]], [[holzer-wild-fruit-trees-and-hedges]], [[holzer-recommended-old-fruit-varieties]], [[holzer-permaculture-landscape-design]], [[holzer-terrace-systems]]
+See also: [[holzer-fruit-tree-planting-method]], [[holzer-livestock-integration]], [[holzer-recommended-old-fruit-varieties]], [[holzer-terrace-systems]]

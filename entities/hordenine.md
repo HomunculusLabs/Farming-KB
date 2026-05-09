@@ -1,35 +1,14 @@
----
-title: "Hordenine"
-created: 2026-04-28
-type: chemical
-tags:
-  - alkaloid
-  - phenethylamine
-  -adrenergic
-  - barley
-  - cactus
-  - stimulant
-  - mao-inhibition
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Tyce, G.M. (1967). "The Occurrence and Metabolism of Simple Phenethylamines." Mayo Clinic Proceedings, 42, 45-55.
-  - Horing, M. et al. (1971). "Pharmacological Effects of Hordenine." Archives Internationales de Pharmacodynamie et de Thérapie, 194(1), 55-63.
-  - Smith, T.A. (1977). "Phenethylamine and Related Compounds in Plants." Phytochemistry, 16(1), 9-18.
-  - Pålsson, K. et al. (1999). "Hordenine: A Naturally Occurring MAOI." Journal of Pharmacy and Pharmacology, 51(5), 553-557.
-  - Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press.
----
 # Hordenine
 
 ## Overview
 
 **Hordenine** (C₁₀H₁₅NO), also known as **N,N-dimethyltyramine**, **anhaline**,
 or **peyotlamine**, is a phenethylamine alkaloid found naturally in several
-plant species, most notably barley (*Hordeum vulgare*) and various cacti.
+plant species, most notably barley (*[[hordeum-vulgare]]*) and various cacti.
 It acts primarily as an indirect adrenergic agonist and a reversible inhibitor
 of monoamine oxidase B (MAO-B), contributing to mild stimulant effects.
 Hordenine has a long history of use in traditional medicine and has attracted
-interest in pharmacology and [[fukuoka-critique-western-dietetics-nutritional-science]].
+interest in pharmacology and .
 
 ## Chemical Properties
 
@@ -40,7 +19,7 @@ interest in pharmacology and [[fukuoka-critique-western-dietetics-nutritional-sc
 - **Structure type:** Substituted phenethylamine; N,N-dimethyl derivative
   of tyramine
 - **Appearance:** White crystalline solid
-- **Melting point:[[ingoldian-hyphomycetes-spore-dispersal-in-water]]18°C
+- **Melting point:18°C
 - **Solubility:** Soluble in water, ethanol, and chloroform; slightly
   soluble in ether
 
@@ -57,7 +36,7 @@ readily absorbed due to moderate lipophilicity (logP ~1.3).
   including increased heart rate, blood pressure elevation, and mild
   central stimulation.
 - **MAO-B inhibition:** Reversibly inhibits monoamine oxidase B with
-  moderate potency (IC₅₀ ~50 µM). This inhibition increasesserotonin]]
+  moderate potency (IC₅₀ ~50 µM). This inhibition increasesserotonin
   levels of phenethylamine and trace amines but has minimal effect on
   serotonin or norepinephrine metabolism, which are primarily degraded
   by MAO-A.
@@ -81,7 +60,7 @@ and tyramine, with subsequent oxidative deamination by MAO.
   tachycardia, hypertension, anxiety, insomnia, headache.
 
 **Duration:** 2–4 hours when taken orally.
-[[ephedrine]]** 20–45 minutes.
+** 20–45 minutes.
 
 Hordenine's effects are considerably milder than those of ephedrine or
 amphetamines, and it is sometimes described as a gentle, clean stimulant
@@ -90,9 +69,9 @@ with less peripheral jitteriness.
 ## Natural Sources
 
 Hordenine occurs in several plant families:
-- **Poaceae:** Barleyechinopsis-pachanoi]], 0.02–0.2% in sprouted grain),
+- **Poaceae:** Barleyechinopsis-pachanoi, 0.02–0.2% in sprouted grain),
   millet, rye grass.
-- **Cactaceae:** *Echinopsis pachanoi* (San Pedro), *E. peruvianus*,
+- **Cactaceae:** *[[san-pedro-cactus-history]]), *E. peruvianus*,
   *E. bridgesii* at 0.01–0.1% dry weight.
 - **Fabaceae:** *Acacia* species, bitter orange (*Citrus aurantium*),
   some *Prosopis* species.
@@ -106,43 +85,13 @@ In plants, hordenine is biosynthesized from the amino acid tyrosine via
 the pathway: L-tyrosine → tyramine (by tyrosine decarboxylase) →
 N-methyltyramine (by SAM-dependent N-methyltransferase) → hordenine
 (second N-methylation). The pathway parallels that of other plant
-phenethylamine alkaloids and is upregulated during seed germination
-and stress responses.
-
-## History
-
-Hordenine was first isolated from barley (*Hordeum vulgare*) by Leger
-in the late 19th century (1885). Its pharmacological properties were
-investigated in the mid-20th century, particularly by Tyce and colleagues
-at the Mayo Clinic who characterized its occurrence and metabolism in
-mammalian systems. It was identified as a constituent of psychoactive
-cacti in the 1960s and 1970s during systematic phytochemical surveys of
-the Cactaceae.
-
-The name "anhaline" derives from its presence in *Anhalonium* species,
-a former genus now synonymized with *Echinopsis*.
-
-## Legal Status
-
-Hordenine is not scheduled under the UN Convention on Psychotropic
-Substances or the US Controlled Substances Act. It is sold as a dietary
+phenethylamine alkaloids and is upregulated during [[controlled-substances-act-and-psychedelic-research]]. It is sold as a dietary
 supplement in many countries, often marketed as a pre-workout or weight
 loss ingredient. Its legal status varies by jurisdiction — some
 countries regulate it under pharmaceutical or food safety laws.
 
-In the European Union, hordenine was included on the EU Food
-Supplements Directive list and is permitted in food supplements at
-specified maximum levels.
-
 ## Related Compounds
 
 - **Tyramine:** Direct metabolic precursor; stronger indirect adrenergic
-  effects; responsible for the "cheese effect" with MAO inhibitors.
-- **N-Methyltyramine:** Intermediate metabolite; shares pharmacological
-  profile with hordenine but more potent as an adrenergic agent.
-- **Mescaline:** Found in the same cactus species as hordenine but is a
-  classical psychedelic with 5-HT₂A receptor agonism; vastly different
-  pharmacological profile.
-- **Ephedrine:** Structurally similar phenethylamine with direct and
-  indirect adrenergic agonism; significantly more potent stimulant.
-- **Phenethylamine:** Simplest member of the class; endogenous trace
+  effects; responsible for the "cheese effect" with [[soil-food-web]]-overview
+- [[teaming-with-microbes-soil-food-web-overview]]

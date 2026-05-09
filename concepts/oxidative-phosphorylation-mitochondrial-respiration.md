@@ -6,7 +6,8 @@ tags: [biochemistry, cell-biology, metabolism, mitochondria, ATP, bioenergetics,
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
 Oxidative phosphorylation (OXPHOS) is the metabolic pathway in which cells produce adenosine triphosphate (ATP) through the coupled action of electron transport and ATP synthesis. It is the final stage of cellular respiration, occurring at the inner mitochondrial membrane (IMM) in eukaryotes and the cytoplasmic membrane in prokaryotes. OXPHOS is responsible for approximately 90% of cellular ATP under aerobic conditions, making it the dominant energy-producing pathway in most multicellular organisms. The pathway couples two processes: electron transfer through the electron transport chain (ETC), which oxidizes NADH and FADH₂ while reducing molecular oxygen to water, and ATP synthesis by ATP synthase, which harnesses the resulting proton electrochemical gradient. Peter Mitchell proposed the chemiosmotic coupling mechanism in 1961, earning the 1978 Nobel Prize in Chemistry.
@@ -129,7 +130,9 @@ the adenine nucleotide pool across the IMM.
 
 ## See Also
 
-- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
 - [[fungal-competition-respiration-decomposition]]
-- [[fungal-methylation-oxidative-coupling]]
 - [[fungal-respiration-carbon-flux]]
+
+## See Also
+
+- [[electron-transport-chain-mitochondrial-respiration]]

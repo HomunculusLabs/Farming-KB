@@ -13,12 +13,7 @@ sources:
 type: concept
 ---
 
-# Catalytic Hydrogenolysis for [[psilocybin-compound]] Debenzylation
-
-## Overview
-
-Catalytic hydrogenolysis using palladium on activated carbon (Pd/C) under
-a hydrogen atmosphere is the final step in the Shirota synthesis [[wasson-rediscovery-of-psilocybin]]. This transformation converts the zwitterionic N,zwitterionic dibenzyl phosphate (compound 8) into psilocybin (compound 2) by
+# Catalytic Hydrogenolysis for [[wasson-rediscovery-of-psilocybin]]. This transformation converts the zwitterionic N,zwitterionic dibenzyl phosphate (compound 8) into psilocybin (compound 2) by
 simultaneously removing both benzyl protecting groups: the N-benzyl group
 from the quaternary ammonium ion and the O-benzyl group from the
 phosphate ester. The reaction proceeds cleanly to give crystalline
@@ -130,18 +125,5 @@ selectivity, and ease of removal by filtration.
 
 ## Yield Considerations
 
-The overall yield from [[psilocin]] to psilocybin through the zwitterionic
-intermediate is approximately 74.5% (85.2% for phosphorylation times
-87.5% for hydrogenolysis). This substantially improves over the 20%
-yields of the original Sandoz syntheses and the 47% of Nichols and
-Frescas.
-
-## Safety Considerations
-
-Catalytic hydrogenolysis using Pd/C and hydrogen gas requires standard
-precautions for handling pyrophoric catalysts and flammable hydrogen.
-The catalyst must be kept wet to prevent ignition. The reaction should
-be conducted behind a blast shield in a properly ventilated fume hood.
-
-## See Also
+The overall yield from [[shirota-catalytic-hydrogenolysis-debenzylation-to-psilocybin-crystal]]
 - [[oyster-substrate-carbon-nitrogen-ratio]]

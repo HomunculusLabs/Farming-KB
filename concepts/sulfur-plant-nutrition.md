@@ -63,27 +63,7 @@ Historically, sulfur deficiency was rare because industrial SO2 emissions provid
 ## Other Secondary Nutrients
 
 ### Iron (Fe) — Often Classified as a Micronutrient
-Despite being needed in relatively large amounts (50-200 ppm in plant tissue), iron is usually considered a micronutrient because deficiency is primarily about availability, not quantity. See [[plant-micronutrients-and-their-essential-functions]] for details.
-
-### Silicon (Si) — Beneficial but Not Essential
-- Strengthens cell walls in grasses and some other plants
-- May increase disease resistance
-- Abundant in most soils but not always in plant-available form
-- Particularly beneficial for rice, sugarcane, and cucurbits
-
-### Sodium (Na) — Essential for Some Species
-- Essential for C4 plants (using C4 photosynthesis pathway)
-- Benefits some C3 species at low concentrations
-- Toxic at high concentrations (salt stress)
-- Most soils contain adequate Na; excess is more common than deficiency
-
-## Practical Sulfur Management
-
-### For Organic Gardeners
-1. [[composting-and-soil-biology]] and [[natural-fertilizer-sources-and-application]] provide steady S release
-2. Gypsum (CaSO4) supplies S without affecting pH — good for alkaline soils
-3. Elemental sulfur lowers pH while supplying S — use on alkaline soils
-4. [[soil-testing-methods-interpretation]] now routinely include sulfur analysis
+Despite being needed in relatively large amounts (50-200 ppm in plant tissue), iron is usually considered a micronutrient because deficiency is primarily about availability, not quantity. See [[ozier-pdc-composting-and-soil-building]] and [[soil-testing-methods-interpretation]] now routinely include sulfur analysis
 5. Watch for sulfur deficiency symptoms, especially in brassicas and legumes
 6. Epsom salt foliar sprays can provide quick S + Mg correction
 
@@ -96,11 +76,7 @@ S and N are closely linked because both are components of amino acids and protei
 
 ## See Also
 
-- [[ingham-nitrate-amino-sugars-plant-nutrition]]
-
 - [[micronutrients-plant-nutrition]]
-- [[nitrogen-plant-nutrition]]
 - [[calcium-magnesium-secondary-nutrients]]
-- [[ph-and-nutrient-availability-garden-soils]]
 - [[natural-fertilizer-sources-and-application]]
 - [[plant-micronutrients-and-their-essential-functions]]

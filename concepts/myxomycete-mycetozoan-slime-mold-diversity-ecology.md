@@ -132,8 +132,6 @@ mycetozoan diversity is far from known.
 
 - [[biological-slime-mold-computing]]
 
-- [[chytridiomycota-phylogeny-diversity]]
 - [[fungal-biodiversity-ecosystem-function]]
-- [[soil-fungal-community-composition]]
 - [[fungal-feeding-invertebrates-soil]]
 - [[fungal-biogeography-distribution-patterns]]

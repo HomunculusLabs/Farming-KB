@@ -10,9 +10,7 @@ tags: [culture, healing, medicine, permaculture, plants]
 
 # Permaculture Medicinal Herbs and Healing Plants
 
-Medicinal plants have been integral to human and animal health throughout history. In [[permaculture-design]], medicinal herbs are integrated into food forests, hedgerows, pastures, and home gardens, providing self-reliant healthcare while serving multiple other functions (bee forage, pest control, ground cover). This page covers the medicinal herb systems and specific healing plants from the source.
-
-## [[medicinal-herbs-for-livestock]]
+Medicinal plants have been integral to human and animal health throughout history. In [[medicinal-herbs-for-livestock]]
 
 The source provides a comprehensive list of plants that can be incorporated into animal forage and fodder systems, allowing animals to access their own medicines. Animals browse the herbs as they need them. Not all herbs suit all areas, but as broad a spectrum as possible should be made available at all times:
 
@@ -55,84 +53,27 @@ Close relative of Cape Lilac (Melia azedarach). Contains azadirachtin, a natural
 - Fruit gargled to relieve sore throat
 - Beneficial for coughs, colds, diarrhoea, dysentery, and liver complaints
 
-### Fig ([[ficus-carica]])
-- Used medicinally for mild laxative effect; often mixed with senna, rhubarb
-- Demulcent decoctions prepared from figs and used in treating inflammatory conditions of the respiratory tract
-- Milky juice applied to warts (causes them to disappear)
-
-### Alder (Alnus spp)
-- Decoction of bark used to bathe swellings and inflammation, especially of the throat
-- Has been known to cure ague (burning fever)
-- Boiling inner bark in vinegar produces a useful external application
-- Medicinal uses similar to common alder across species
-
-### Casuarina spp
-- Bark used in dyeing (red, black with coppers, yellow with copper, cinnamon from bark)
-- Foliage used as emergency fodder or medicinal browse in mixed systems
-
-### Albizia lebbek
-- Leaves aromatic and used in Chinese cooking
-- Bark and wood are medicinal
-
-### Walnut (Juglans spp)
-- Leaves noted as good butter-milk feed for livestock
-- Listed among medicinal trees for livestock hedgerows
-
-### Hackberry (Celtis australis)
-- Belongs to same family as elm
-- Fruits traditionally eaten in countries where food is scarce
-
-### Brazil Cherry (Eugenia uniflora)
-- Bark rich in tannin, used for tanning leather
-
-### Brazilian Guava (Psidium guineense)
-- Bark or root concoction treats urinary diseases, diarrhoea, dysentery, varicose veins, and leg ulcers
-- Leaf decoction taken for colds and bronchitis
-
-### Elder (Sambucus spp)
-- Listed among medicinal hedgerow trees for livestock
-- Traditionally valued for a wide range of medicinal applications
-
-### Acacia spp
-- Some species have traditional medicinal uses by Australian Aboriginal people
-
-## Multi-Function Medicinal Design
-
-The most valuable medicinal plants in permaculture are those that serve multiple functions simultaneously:
-
-| Plant | Medicinal Use | Additional Functions |
-|---|---|---|
-| Comfrey | Wound healing, livestock self-medication | Deep-rooted mineral accumulator, chop-and-drop mulch |
-| Lavender | Calming, antiseptic | Bee forage (all year with varieties), aromatic |
-| Rosemary | Digestive, antiseptic | Bee forage, culinary, hedge |
-| Sage | Digestive, antiseptic | Bee forage, culinary, companion to carrots/cabbages |
-| Thyme | Respiratory, antiseptic | Bee forage (nectar + pollen), culinary, companion to cabbage family |
-| Mint | Digestive | Bee forage, companion to cabbages |
-| Borage | Livestock medicine | Long-season bee forage, companion to strawberries |
-| Dandelion | Liver tonic, diuretic | Long-season bee forage (nectar + pollen) |
-| Chicory | Digestive, liver tonic | Bee forage (nectar + pollen), deep-rooted mineral accumulator |
-| Fennel | Digestive | Long-season bee forage |
-| Tansy | Vermifuge | Companion to peaches, bee forage |
-| Garlic | Antibiotic, antiseptic | Companion to roses, apples, peaches; pest deterrent |
-| Nettle | Nutritive tonic | High-protein livestock fodder, mineral accumulator |
-| Valerian | Sedative | Livestock calming, bee forage |
-| Yarrow (Achillea) | Wound healing | Bee forage, ground cover |
-
-## Design Notes
-
-- **Self-medication access**: Incorporate a broad spectrum of medicinal herbs into livestock paddocks so animals can browse as needed
-- **Hedgerow pharmacy**: Design hedgerows combining medicinal trees (elder, hawthorn, alder) with understorey herbs (lavender, rosemary, thyme)
-- **Bee forage overlap**: Most medicinal herbs are also excellent bee forage -- prioritise these dual-purpose species
-- **Fire-retardant medicinal hedges**: Species with combined medicinal, bee forage, and fire-retardant properties are ideal for property boundary plantings
-- **Kitchen garden integration**: Keep culinary medicinal herbs (sage, thyme, rosemary, garlic, mint) close to the house for easy access
-
-## See Also
-
-- [[alpinia-officinarum]]
-
-- [[comparison-elderberry-vs-echinacea]]
+### Fig ([[alpinia-officinarum]]
 
 - [[permaculture-plants-insectary-bee-forage]] - medicinal plants that double as bee forage
-- [[permaculture-plants-herbaceous-perennials]] - perennial herbs with medicinal properties
 - [[permaculture-plants-ground-covers-and-accumulators]] - medicinal ground covers
 - [[permaculture-plants-fruit-trees-subtropical]] - fruit trees with medicinal properties
+## Practical Considerations
+
+Successful implementation of Permaculture Medicinal Herbs and Healing Plants requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

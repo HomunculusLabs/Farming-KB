@@ -27,30 +27,6 @@ Solar cookers and cob ovens represent two fuel-conscious approaches to
     cooking system covering the full range of culinary needs.
 
 ## Solar Cooking Methods
-[[solar-cooking-methods]]
-
-Solar cookers use reflective surfaces to concentrate sunlight onto a
-    dark cooking vessel, achieving temperatures from 200 to 600 degrees
-    Fahrenheit depending on design. Three main types exist: box cookers use an
-    insulated box with reflective panels and a glass lid to reach 200 to 350
-    degrees for slow cooking grains, stews, and baking over one to four hours.
-    Panel cookers use folded reflective foil panels to focus light on a dark
-    pot inside a plastic bag, reaching 200 to 300 degrees for grains,
-    vegetables, and soups in one to three hours. Parabolic cookers use curved
-    reflectors to concentrate sunlight at a focal point, reaching 400 to 600
-    degrees for frying, boiling, and grilling in fifteen to sixty minutes.
-
-The critical advantage is zero fuel cost and zero emissions. Solar
-    cookers cannot burn food because temperature is self-limiting, and a DIY
-    box cooker can be built from cardboard, aluminum foil, and plastic wrap
-    for near-zero cost. The primary limitations are weather dependence
-    (useless in clouds or rain), the need for sun tracking every thirty to
-    sixty minutes, confinement to daytime cooking, and reduced performance in
-    winter or at high latitudes. Combining solar cooking with haybox
-    (retained-heat) cooking extends utility into marginal conditions by
-    allowing food to finish cooking after the sun passes.
-
-## Cob Oven
 [[cob-oven-construction]]
 
 A cob oven is an outdoor wood-fired dome built from clay, sand, and
@@ -132,7 +108,5 @@ The most resilient off-grid cooking system combines solar and
 
 ## See Also
 
-- [[comparison-agrovoltaics-vs-traditional-solar-farms]]
 - [[comparison-cob-oven-vs-rocket-stove]]
-- [[comparison-rocket-stove-vs-masonry-heater]]
 - [[solar-oven-cooking]]

@@ -11,17 +11,7 @@ tags: [reference]
 
 The Eleusinian Mysteries were the most revered religious initiation rites of
 the ancient Greek world, celebrated annually for nearly two millennia at the
-sanctuary of [[eleusinian-telesterion-architecture-and-ritual]], a
-village some fourteen miles from Athens. Initiation was open to all who spoke
-Greek, with the sole exclusion of those who bore unexpiated bloodguilt for
-murder. The rites were held every September with only one recorded interruption,
-until their suppression by Christian authorities in the late fourth century CE.
-
-## Historical Significance
-
-For close to two thousand years, the Mystery was performed every year for
-carefully screened initiates under the leadership of two hierophantic families,
-the [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]. Initiates lived through the night in the telesterion of Eleusis and
+sanctuary of [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]. Initiates lived through the night in the telesterion of Eleusis and
 emerged profoundly transformed. Sophocles spoke for the initiates when he said:
 
     Thrice happy are those of mortals, who having seen those rites
@@ -50,17 +40,7 @@ experienced in some way the death of Persephone through ritual mimeses. The
 Lesser Mystery was considered a preliminary for the Greater Mystery at the
 autumn sowing in September.
 
-At last the initiates would walk the [[sacred-road-pilgrimage-to-eleusis]] from Athens to Eleusis, crossing a narrow bridge over the swamp that
-divided Athens from the territory of Eleusis. The bridge was expressly
-constructed too narrow for vehicular traffic. Just before arriving at the
-village itself, it was traditional that pilgrims would be obscenely insulted
-by masked men lining the bridge across the final division of water. The
-procession symbolically passed the frontier between worlds, a momentous
-journey characterized by its difficulty.
-
-The pilgrims called upon Iakchos as they walked. It was he who was thought
-to lead them on their way: through him, they would summon back the queen
-[[persephone-and-demeter-in-the-mysteries]] into the realm of the
+At last the initiates would walk the [[persephone-and-demeter-in-the-mysteries]] into the realm of the
 living. When at last they arrived at Eleusis, they danced far into the night
 beside the well where originally the mother had mourned for her lost
 Persephone.
@@ -125,8 +105,6 @@ unsolved mystery of Western civilization.
 
 ## See Also
 
-- [[kykeon-potion-and-ergot-theory]]
 - [[albert-hofmann-eleusinian-potion-analysis]]
-- [[persephone-and-demeter-in-the-mysteries]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

@@ -78,14 +78,7 @@ Health is not coincidence -- it is the result of effort. "How you eat, drink, ex
 
 ## See Also
 
-- [[jadam-natural-farming-philosophy]] -- the philosophical foundation
 - [[jadam-sea-salt-use]] -- sea salt in farming
-- [[jadam-wetting-agent-jwa]] -- the multi-purpose cleaning agent
 - [[jadam-sese-philosophy]] -- the SESE framework
-- [[jadam-liquid-fertilizer-philosophy]] -- the body-soil unity concept
-
-## Related
-
 - [[jadam-i-and-others-are-one]]
-- [[jadam-rice-bran-skin-fertilizer-problems]]
 - [[fukuoka-natural-rice-farming-steps]]

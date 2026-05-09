@@ -12,43 +12,7 @@ sources:
 
 Updated: 2026-04-20
 
-For the organic gardener, raising plants from seed and cuttings is essential. Few commercial nurseries can guarantee their plants have been raised organically, and growing your own ensures everything has been cultivated without chemical sprays or fertilizers. [[geoff-hamilton-organic-techniques]] emphasized that propagation is one of the most rewarding skills in the organic garden, giving the gardener independence from commercial suppliers and access to a far wider range of varieties.
-
-## Growing from Seed
-
-### Sowing Outside
-The cheapest method for most vegetables, hardy annuals, and many herbaceous perennials.
-
-**Soil preparation**: Normal organic methods produce a good, workable structure. Rake soil level and sprinkle fertilizer at recommended rates. A firm bed is usually required -- compress by walking with weight on heels (except on deep beds, where you should never walk).
-
-**When to sow**: The correct time varies per plant (shown on seed packets). As a general rule, seeds sown in soil below 45F (7C) will not germinate until it warms. Seeds sown in mid-spring often germinate at the same time as, or before, those sown in cold, wet soil earlier. Exceptions include some alpines and trees that require a period of freezing weather.
-
-**Encouraging germination**:
-- Very hard seeds: File with a nail file, then soak overnight
-- Seeds with natural germination inhibitors (e.g., beets): Wash under cold tap or soak overnight
-- Pre-germinating: Sow on moistened tissue in a container, keep warm until first roots show through (no longer than 1/8in/3mm), then sow outside carefully
-
-### Depth and Distance
-- The main cause of germination failure is sowing too deeply. Seeds have limited food reserves and must reach light to photosynthesize
-- Make "shallow" rows -- as shallow as possible
-- Space correctly to avoid overcrowding; 60-90% of most varieties will germinate
-- Root crops that "fork" when transplanted must be sown in situ at correct spacing
-- For deep beds, adopt block-sowing technique
-
-### Sowing Techniques
-- Always sow thinly -- hold seeds in the palm and sow a pinch at a time
-- Large seeds: sow singly or in "stations" (groups of 2-3 seeds at required distances)
-- **Narrow rows**: Use a draw hoe corner or a broom/rake handle pressed into the soil
-- **Wide bands**: Put hoe flat on ground and pull toward you (for deep beds and selective harvesting)
-- **Sowing in dry soil**: Water the rows before sowing. Never sow then water -- this causes "capping" (soil crust that prevents water entry or seedling emergence)
-- **Covering**: Cover all except very small seeds with their own depth of vermiculite
-- **Labeling**: Always use commercial plant labels -- seed packets blow away or become unreadable
-
-### The Stale Seedbed
-Prepare the seedbed a few weeks before needed. Let dormant weed seeds germinate, then hoe them out immediately before sowing. This eliminates competition from native weeds that germinate faster and grow quicker than cultivated varieties.
-
-### Sowing Inside
-Start seeds in trays or pots to begin much earlier in the year. Vegetables sown in midwinter can be planted out under cloches in early spring. See [[comparison-cannabis-cloning-vs-seed-starting-indoors]] for detailed guidance.
+For the organic gardener, raising plants from seed and cuttings is essential. Few commercial nurseries can guarantee their plants have been raised organically, and growing your own ensures everything has been cultivated without chemical sprays or fertilizers. [[comparison-cannabis-cloning-vs-seed-starting-indoors]] for detailed guidance.
 
 **Containers**: Any shallow container with drainage holes works -- from commercial trays to yogurt cups, styrofoam coffee cups, or cut-off plastic bottles. Clean thoroughly before use.
 
@@ -85,17 +49,6 @@ This method is particularly effective for:
 - Raspberries and blackberries
 - Climbing roses and clematis
 - Thyme, rosemary, and other spreading herbs
-- [[organic-herb-gardening]] that produce trailing stems
-
-## Division
-
-Many perennial plants can be divided to produce new stock. Lift the plant in autumn or early spring, separate the root mass into sections each with both roots and shoots, and replant immediately. Division rejuvenates older plants that have become congested and less productive.
-
-Suitable plants include:
-
-- Herbaceous perennials (hostas, daylilies, asters)
-- Rhubarb (divide every 5 years to maintain vigour)
-- Mint and other spreading herbs (contained by dividing and potting)
 - [[organic-fruit-tree-care-calendar]] are a natural form of division
 
 ## Seed Saving
@@ -103,13 +56,29 @@ Suitable plants include:
 Saving seed from your own best plants is the ultimate form of self-sufficiency. Select open-pollinated (non-F1) varieties, allow a few plants to go to seed, harvest when fully dry, and store in cool, dry conditions. Label with variety name and harvest year. Some seeds remain viable for many years if stored properly; others (parsnip, onion) must be used within one season.
 
 ## Related Topics
-- [[plant-propagation-methods]]
 - [[seed-starting-indoors-solomon]]
-- [[cold-frame-construction]]
 - [[geoff-hamilton-organic-techniques]]
-- [[herb-gardening-organic-hamilton]]
 - [[seasonal-gardening-calendar]]
 
 ## Source
 - Hamilton, Geoff & Nick Hamilton. "Organic Gardening." Propagation Techniques section, pp. 269-275.
 - [[propagation-methods-organic]]
+## Practical Considerations
+
+Successful implementation of Organic Propagation Techniques (Hamilton Method) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

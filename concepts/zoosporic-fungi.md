@@ -3,7 +3,7 @@ title: Zoosporic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Zoosporic Fungi
@@ -92,12 +92,8 @@ The discovery that chytrids may be important in the global decline of amphibian 
 
 ## See Also
 
-- [[chytrid-fungi-guide]]
 - [[freshwater-fungi-biodiversity]]
-- [[aquatic-fungi-and-ingoldian-spores]]
 - [[freshwater-fungi-biodiversity]]
-- [[anaerobic-gut-fungi]]
 - [[fungal-phylogeny-systematics]]
-- [[anaerobic-zoosporic-fungi]]
 - [[insect-associated-fungi-sampling-diversity]]
 - [[fungal-biodiversity-in-soil-ecosystems]]

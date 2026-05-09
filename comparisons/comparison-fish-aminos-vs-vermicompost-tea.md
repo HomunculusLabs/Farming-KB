@@ -17,16 +17,6 @@ Fish Aminos and vermicompost tea are both liquid organic amendments commonly app
 
 ## Fish Aminos
 
-[[bionutrients-lab-fish-aminos]]
-
-Fish Amino Acid (FAA) is a high-nitrogen bionutrient produced by fermenting fish scraps with crude sugar or molasses at a 1:3 sugar-to-fish ratio by weight. The fermentation process, which takes place over several days to weeks in a loosely covered container with 50 to 75 percent air gap, breaks down fish protein into free amino acids that plants can absorb directly without relying on soil microbial decomposition. This makes FAA one of the most potent and fast-acting natural nitrogen sources in the Korean Natural Farming (KNF) toolkit.
-
-FAA serves multiple roles beyond direct plant nutrition. It functions as microbial food for beneficial indigenous microorganisms (BIM), encouraging their proliferation when mixed into BIM preparations. It can be applied as a foliar spray or soil drench, with typical dilution rates of 1:20 or roughly 2 to 4 tablespoons per gallon of water. The addition of lactic acid bacteria serum (LABS) during fermentation controls the strong odors associated with fish decomposition, and molasses is preferred over crude sugar specifically for its odor-reduction properties. The resulting product is far more pleasant to handle than commercial fish emulsion, which is industrially heat-processed and lacks the living enzyme activity of fermented FAA.
-
-In the natural farming growth cycle, FAA is applied primarily during the vegetative stage when nitrogen demand is highest. Over-application during flowering or fruiting stages can promote unwanted vegetative growth at the expense of fruit production, so timing matters significantly. FAA is also used in bokashi (designer compost) formulations where it contributes to the 17 percent protein component of the 80/17/3 carbohydrate-protein-vitamin ratio. Its self-reliant nature is a core philosophical advantage: farmers convert locally available fish waste into a potent biological nutrient, eliminating dependence on purchased inputs entirely. This aligns with Dr. Han Kyu Cho's vision of farmers actively making use of local materials.
-
-## Vermicompost Tea
-
 [[vermicompost-tea]]
 
 Vermicompost tea is a liquid extract brewed from worm castings (vermicompost), which are produced by earthworms, primarily Eisenia fetida (red wigglers) and Eisenia andrei. The worm gut acts as a bioreactor, transforming organic waste into castings that are rich in beneficial bacteria (Pseudomonas, Bacillus, Azotobacter), fungi (Trichoderma, mycorrhizal species), actinomycetes, humic and fulvic acids, and plant growth regulators including cytokinins, auxins, and gibberellins. Castings typically contain 1.5 to 2.5 percent nitrogen, 1 to 2 percent phosphorus, 1 to 2.5 percent potassium, plus calcium, magnesium, and trace minerals, with a C/N ratio of 12 to 15:1 and a near-neutral pH of 6.5 to 7.5.
@@ -110,16 +100,10 @@ In short, Fish Aminos is the go-to choice for fast, targeted nitrogen delivery d
 
 ## See Also
 
-- [[bionutrients-lab-fish-aminos]]
 - [[vermicompost-tea]]
-- [[compost-building-guide]]
 - [[soil-food-web-nutrient-cycling]]
-- [[bionutrients-lab-lactic-acid-bacteria-serum]]
 - [[hot-composting-method]]
-- [[bionutrients-lab-fermented-plant-juice-fpj]]
 - [[bionutrients-lab-fermented-fruit-juice-ffj]]
-- [[biochar-soil-amendment]]
 - [[soil-food-web]]
-- [[vermicomposting]]
 - [[ingham-vermicompost-worm-castings]]
 - [[aact-compost-organism-levels]]

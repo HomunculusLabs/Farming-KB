@@ -116,11 +116,8 @@ flourishing in new forms.
 
 ## Related Topics
 
-- [[modern-mushroom-festival-culture]] - festival culture overview
 - [[mushroom-foraging-traditions-europe]] - European foraging
   - traditions
-- [[mushroom-folklore-and-culture]] - folklore and cultural
-  - associations
 - [[neo-shamanic-phenomenology-and-limits-of-science]] - neo-shamanic
   - culture
 - [[psychedelic-ancient-history]] - ancient mushroom use

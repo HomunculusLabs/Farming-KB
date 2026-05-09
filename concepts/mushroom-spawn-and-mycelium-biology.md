@@ -2,38 +2,7 @@
 title: Mushroom Spawn and Mycelium Biology
 source: Benjamin Minge Duggar - Mushroom Growing (1915)
 type: concept
-tags: [mycology, mushroom-cultivation, spawn, mycelium, fungal-biology]
-created: 2026-05-08
----
-
-# Mushroom Spawn and Mycelium Biology
-
-## Overview
-
-Mushroom spawn is the vegetative growing material used by cultivators to
-establish fungal colonies in prepared beds. It is not a seed but an extensive
-network of living fungal threads — the vegetative body of the organism — that
-has been propagated in a nutrient substratum and can colonize fresh compost
-to produce a mushroom crop.
-
-## Mycelium: The Vegetative Body
-
-### Structure and Growth
-
-Mycelium consists of microscopic, thread-like filaments called hyphae that
-elongate at their tips, branching repeatedly to form an extensive web through
-the substratum. Hyphae secrete enzymes that break down complex organic
-compounds, absorbing the resulting molecules as nutrients. The mycelium of
-Agaricus campestris is white, forming dense cottony to strand-like growth in
-well-prepared compost. It serves as both the feeding and storage phase of the
-organism.
-
-### From Spore to Mycelium
-
-The cycle begins when a spore germinates under favorable moisture, temperature,
-and nutrients, producing a germ tube that branches into hyphae. Germination is
-notoriously difficult even under laboratory conditions — a major obstacle to
-early cultivation. In nature, mycelia of various species invade diverse
+tags: [[fukuoka-textdoc-no-good-or-evil-in-nature]], mycelia of various species invade diverse
 substrata: rich earth, leaf litter, fallen timber, and living tree trunks.
 Each species has specific habitat requirements.
 
@@ -121,7 +90,28 @@ dealers, and that pure culture methods were the most effective remedy.
 
 ## Related Concepts
 
-- [[agaricus-campestris-morphology-and-life-cycle]]
 - [[mushroom-compost-preparation]]
-- [[mushroom-growing-conditions-temperature-moisture]]
-- [[pure-culture-spawn-making]]
+- mushroom growing conditions temperature moisture
+- pure culture spawn making
+
+## Merged: Mycelium Anatomy and Fungal Vegetative Structure
+
+Mycelium constitutes the vegetative body of a fungus, forming the massive network of thread-like filaments (hyphae) that permeates soil, wood, and other substrates. The mycelium is the primary feeding and colonizing structure of fungi, and in many species it is also the longest-lived and most extensive phase of the organism's life cycle. Understanding mycelial anatomy is fundamental to mycology, plant pathology, and applied fungal technologies.
+
+## Hyphal Structure
+
+Individual hyphae are tubular filaments typically 2 to 10 micrometers in diameter, composed of chitin-rich [[coleman-sunlight-and-winter-crop-growth-rates]] vary enormously among species, from less than 1 millimeter per day in some slow-growing endophytes to over 20 millimeters per day in aggressive saprotrophs and pathogens.
+
+## Septate versus Coenocytic Hyphae
+
+Fungal hyphae fall into two major structural categories. Septate hyphae are divided into discrete cellular compartments by cross-walls called septa. Most basidiomycetes and ascomycetes have septate hyphae, with septa that typically contain a central pore allowing cytoplasmic streaming and even nuclear migration between compartments. Coenocytic (aseptate) hyphae lack regular septa and instead form continuous multinucleate tubes, as seen in the Zygomycota (bread molds and allies). Dolipore septa, found in basidiomycetes, have a more complex barrel-shaped pore structure with parenthesome caps.
+
+## Mycelial Networks and Hyphal Fusion
+
+As mycelium grows, individual hyphae branch and anastomose (fuse) with neighboring hyphae of the same individual, creating an interconnected three-dimensional network. This fusion is regulated by vegetative compatibility (vc) systems that prevent fusion between genetically distinct individuals. The resulting network facilitates efficient resource transport, signal transduction, and coordinated behavior across the entire mycelial body. In some species, the mycelium can transport nutrients and water over distances of meters, enabling the fungus to redistribute resources across heterogeneous environments.
+
+## Specialized Mycelial Structures
+
+### Rhizomorphs
+
+Rhizomorphs are dense, cord-like aggregations of hyphae that resemble roots. They are produced by many wood-decay fungi (notably Armillaria species) and enable long-distance exploration and nutrient transport through soil. Armillaria rhizomorphs can extend for tens of meters and are responsible for the spread of Armillaria root disease [[mollison-rain-interception-and-throughfall-in-forests]]. They have a differentiated outer rind of melanized hyphae protecting an inner core of growing hyphae.

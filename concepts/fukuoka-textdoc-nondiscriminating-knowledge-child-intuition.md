@@ -142,8 +142,6 @@ order. The highest wisdom is to refrain from acting on incomplete
 understanding, to allow nature to express itself fully without the
 ## See Also
 
-- [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
-- [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]

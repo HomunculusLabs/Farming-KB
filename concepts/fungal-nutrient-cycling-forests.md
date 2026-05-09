@@ -3,7 +3,7 @@ title: Fungal Nutrient Cycling in Forests
 created: 2026-04-10
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -119,11 +119,7 @@ storage, nitrogen retention, and phosphorus cycling patterns.
 
 ## Related
 
-- [[fungal-carbon-storage-mycorrhizal-pathways]]
 - [[fungal-biogeochemistry]]
-- [[fungal-enzyme-activity-nutrient-availability]]
 - [[fungal-respiration-carbon-flux]]
-- [[mycorrhizal-mineral-weathering-nutrient-acquisition]]
 - [[fungal-resource-use-efficiency]]
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]

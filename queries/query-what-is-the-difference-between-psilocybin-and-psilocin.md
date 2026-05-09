@@ -3,7 +3,7 @@ title: "Query What Is The Difference Between Psilocybin And Psilocin"
 created: 2026-05-02
 updated: 2026-05-02
 type: query
-tags: [mycology, psychedelics]
+tags: [[mycology, psychedelics]
 sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
   - "raw/papers/leary-t-the-psychedelic-experience.md"
@@ -25,7 +25,7 @@ magic mushrooms. Psilocybin is a stable prodrug that the body converts into
 psilocin, which is the active compound responsible for the psychedelic effects.
 
 ## Detailed Explanation
-[[psilocybin-compound]] and [[psilocin]] are both indole alkaloids belonging to the
+[[psilocin]] are both indole alkaloids belonging to the
 tryptamine class of compounds, and they are the primary psychoactive
 constituents found in psilocybin-containing mushrooms. While they are
 chemically similar, they differ in their molecular structure, stability, and
@@ -37,41 +37,25 @@ Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) contains a phosphate group
 attached to its molecular structure, making it more stable and water-soluble
 than psilocin. This phosphate group acts as a protective mechanism in the
 mushroom tissue, allowing the compound to persist without degrading rapidly.
-When dried mushrooms are stored properly, [[psilocybin-compound]] remains relatively
-stable over time, which is why dried specimens retain their potency for months
-or even years when kept in cool, dark conditions.
-
-Psilocin (4-hydroxy-N,N-dimethyltryptamine) lacks the phosphate group and is
-the dephosphorylated, pharmacologically active form of the molecule. It is
-this compound that crosses the blood-brain barrier and binds primarily to
-serotonin 5-HT2A receptors, producing the characteristic visual, cognitive,
-and emotional effects of the psychedelic experience. Because it lacks the
-stabilizing phosphate group, [[psilocin]] is significantly less stable and
+When dried mushrooms are stored properly, [[psilocin]] is significantly less stable and
 degrades more quickly when exposed to heat, light, and oxygen.
 
 When a person ingests psilocybin-containing mushrooms, the body does not
 absorb psilocybin directly in its active form. Instead, enzymes in the gut and
 liver, primarily alkaline phosphatase, cleave the phosphate group from
-[[psilocybin-compound]] to produce [[psilocin]]. This conversion process is why
+[[psilocin]]. This conversion process is why
 psilocybin is considered a prodrug. The onset of effects typically occurs 20
 to 60 minutes after ingestion, corresponding to the time needed for this
 metabolic conversion. Some psilocin may also be present directly in fresh
 mushrooms, but it exists in much smaller quantities compared to psilocybin.
 
 The biosynthesis of these compounds in fungal tissue follows a pathway that
-begins with the amino acid [[tryptophan]]. The enzyme [[tryptophan-decarboxylase]]
+begins with the amino acid [[tryptophan-decarboxylase]]
 converts tryptophan into tryptamine, which then undergoes hydroxylation and
-methylation steps through the [[psilocybin-biosynthesis-pathway]] to produce
-psilocybin. Along the way, the intermediate compound [[baeocystin]] is also
+methylation steps through the [[baeocystin]] is also
 produced, which is a demethylated analog of psilocybin found in varying
 concentrations across different mushroom species. The complete biochemistry of
-this pathway is detailed in the [[tihkal-psilocin-psilocybin-chemistry]]
-reference.
-
-Both compounds are classified as Schedule I substances in many jurisdictions,
-though their legal status is evolving rapidly as clinical research demonstrates
-therapeutic potential. When analyzing mushroom potency, laboratories typically
-measure both psilocybin and psilocin content, as well as [[baeocystin]] and
+this pathway is detailed in the [[baeocystin]] and
 norbaeocystin, to get a complete picture of a given specimen's psychoactive
 profile. The relative proportions of these compounds can vary significantly
 between species, growing conditions, and developmental stages of the mushroom.
@@ -99,14 +83,12 @@ different chemical profiles and moisture content.
 ## Key Points
 - Psilocybin is a stable prodrug with a phosphate group; psilocin is the
   active metabolite without it
-- The body converts [[psilocybin-compound]] to [[psilocin]] via alkaline phosphatase
+- The body converts [[psilocin]] via alkaline phosphatase
   enzymes in the gut and liver
 - Psilocin binds to serotonin 5-HT2A receptors to produce psychedelic effects
 - Psilocybin is more stable for storage; psilocin degrades quickly with heat
   and light
-- Both compounds are biosynthesized from [[tryptophan]] through the
-  [[psilocybin-biosynthesis-pathway]]
+- Both compounds are biosynthesized from [[psilocybin-biosynthesis-pathway]]
 
 ## Related Questions
-- [[query-what-are-the-stages-of-mushroom-cultivation]]
 - [[query-how-to-identify-psilocybe-cubensis-mushrooms]]

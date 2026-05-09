@@ -1,7 +1,7 @@
 ---
 title: Pinning Triggers and Primordia Formation
 created: 2026-04-28
-tags: [mycology, mushroom-cultivation, pinning, fruiting]
+tags: [[mycology, mushroom-cultivation, pinning, fruiting]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -44,65 +44,7 @@ colonization. Most species will not pin reliably until the mycelium has fully
 colonized the available substrate and begun to consolidate. Consolidation — a
 period of 1-2 weeks after full colonization where the mycelium densifies and
 strengthens its network — significantly improves pinning uniformity and yield.
-Many cultivators intentionally delay [[fruiting-initiation]] to allow this
-consolidation period.
-
-### Fresh Air Exchange (CO2 Reduction)
-
-A drop in CO2 concentration is the strongest pinning trigger for most
-cultivated species. During colonization, CO2 levels may reach 10,000-20,000
-ppm inside substrate bags. When the substrate is exposed to fresh air and CO2
-drops to near-ambient levels, pinning is rapidly initiated. This makes
-evolutionary sense: in nature, high CO2 indicates the mycelium is buried in
-soil or deep within a log, while low CO2 means it has reached the surface where
-spores can be dispersed by air currents.
-
-### Evaporative Cooling and Humidity Fluctuation
-
-A high humidity environment with gentle evaporative cooling at the substrate
-surface stimulates pinning. The microclimate at the substrate surface should be
-nearly saturated (95-100% RH) to allow primordia to form without desiccating.
-However, the broader chamber should have enough air movement to prevent stagnant
-air pockets. This creates a humidity gradient that mimics the natural forest
-floor microclimate.
-
-### Temperature Shift
-
-A sudden drop in temperature of 5-10°C triggers pinning in many species. This
-"cold shock" mimics the arrival of autumn in temperate ecosystems. Shiitake, in
-particular, responds strongly to temperature cycling and is often soaked in
-cold water (4°C) for 24-48 hours to stimulate prolific pinning. Some tropical
-species (like pink oyster) do not require cold shocking and may even be
-inhibited by it.
-
-### Light Exposure
-
-Introduction of light at appropriate intensity and spectrum signals to the
-mycelium that it is at a position suitable for spore dispersal. Blue spectrum
-light (470-630 nm) is most effective for triggering pinning in most species.
-Even a few hours of light per day can be sufficient, though 12-hour photoperiods
-are standard in cultivation. The role of light is primarily directional — it
-guides fruiting body orientation so caps grow upward toward the light source.
-
-## Primordia Care
-
-Once pins have formed, they are extremely fragile and susceptible to
-environmental stress. The most critical factors during early pin development:
-
-- **Avoid direct misting**: Water droplets on tiny pins cause them to abort.
-  Humidify the air instead.
-- **Maintain stable humidity**: Rapid fluctuations cause pins to desiccate.
-- **Avoid drafts**: Strong air currents dry out the substrate surface and kill
-  young primordia.
-- **Do not raise CO2**: Elevated CO2 during pinning causes stems to elongate
-  and caps to remain small or fail to form entirely.
-
-## Pinning Problems
-
-### No Pins Form
-
-If the substrate is fully colonized and no pins appear after 1-2 weeks of
-[[fruiting-conditions]], possible causes include insufficient FAE, incorrect
+Many cultivators intentionally delay [[fruiting-conditions]], possible causes include insufficient FAE, incorrect
 temperature, contamination blocking the surface, substrate that is too dry, or
 genetic issues with the culture. Increasing air exchange and lowering
 temperature slightly are the most effective corrective measures.
@@ -133,7 +75,5 @@ requirements is essential for successful cultivation.
 
 ## Related Pages
 
-- [[fruiting-chamber-design]]
 - [[bulk-substrate-preparation]]
-- [[biological-efficiency]]
 - [[cotter-shiitake-cultivation]]

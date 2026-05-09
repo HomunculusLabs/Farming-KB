@@ -16,8 +16,7 @@ This landmark study by Winston et al. (2014) provides the first description of t
 endorhiza, rhizosphere, and bulk soil-associated microbiome of five distinct Cannabis
 cultivars. The research supports a two-tier selection model where soil type determines
 community composition across sample types while host cultivar determines community
-structure within endorhiza samples. For related work, see [[cannabis-microbiome-research]]
-and [[cannabis-root-microbiome]] pages.
+structure within endorhiza samples. For related work, see [[cannabis-root-microbiome]] pages.
 
 ## Study Design
 
@@ -42,108 +41,67 @@ a two-tier selection model:
 Edaphic factors determine the structure of the local soil microbiota, which
 becomes the source for the first bacterial community shift into the nutrient-rich
 rhizosphere environment. Soil type is the main determinant of which microbial
-species are present (OTU presence/absence). The [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] is the
-foundation of this first tier.
-
-### Tier 2: Host Genotype-Dependent Selection
-Migration from rhizosphere into plant tissues (endorhiza) is based on plant
-genotype-dependent selection. The host cultivar controls community structure
-(relative abundance) more than composition. Different strains growing in the same
-soil develop distinct endorhiza communities.
-
-## Key Findings
-
-### Soil Type Has Strongest Overall Effect
-
-Soil type had the strongest influence over significant OTU differences, with 690
-weighted and 657 unweighted significant OTUs. This confirms that soil is the
-primary determinant of microbial community composition across all sample types.
-
-### Strain Affects Abundance, Not Presence
-
-Strain showed a larger effect than sample type for weighted OTU differences (71
-significant OTUs) but zero significant unweighted OTU differences between strains.
-This means Cannabis cultivar influences which bacteria are abundant in the
-endorhiza, but not fundamentally which bacteria are present.
-
-### Edaphic Factor Ranking
-
-For structuring microbial communities, edaphic factors ranked by importance:
-
-**Weighted analysis:** Nitrogen (r=0.465) > Salinity (r=0.437) > Carbon (r=0.330)
-> Water content (r=0.281) > pH (r=0.221)
-
-**Unweighted analysis:** Nitrogen (r=0.630) > Salinity (r=0.620) > Carbon (r=0.512)
-> Water content (r=0.466) > pH (r=0.292)
-
-BEST analysis showed nitrogen, carbon, and water optimally explain community
-variance (rho = 0.632). All factors were significant at p = 0.001.
-
-### Community Shifts from Soil to Root
-
-The two-tier model predicts specific phylum-level changes:
-- Dramatic **reduction in Acidobacteria** within the endorhiza
-- **Increase in Proteobacteria and Actinobacteria** relative to rhizosphere
-- Most significant decrease: Acidobacteria order iii1-15 (p = 1.12e-7)
-- Of 17 OTUs increasing in the endorhiza, most were Proteobacteria from
-  the Rhizobiales order
-
-### OTU Sharing Between Endorhiza and Soil
-
-White Widow was grown in two different soils, testing whether endorhiza
-communities share more OTUs with their own soil than with foreign soil. Results:
-- Shared OTUs with own soil: mean = 2934
-- Shared OTUs with different soil: mean = 2162
-- Difference highly significant (t = -10.05, p = 1.209e-15)
-
-This validates the hypothesis that endophytic microbes are inherited and
-selected from surrounding soil.
-
-### Alpha Diversity Patterns
-
-Alpha diversity peaks in bulk soil and declines through transitions to
-rhizosphere and endorhiza: bulk soil chao1 (4947-5597) > rhizosphere
-(3913-4859) > endorhiza (3321-3325). Despite greater sequencing depth in
-Experiment 2, endorhiza diversity was similar between soil types, suggesting
-strong cultivar-level filtering regardless of starting soil community.
-
-### Beta Diversity Relationships
-
-Rhizosphere-bulk soil distances were significantly lower than rhizosphere-
-endorhiza distances. This provides limited evidence for the first tier but
-strong evidence for cultivar-driven endorhiza structuring.
-
-## Cultivar-Specific Endorhiza Communities
-
-### Core Endorhiza Community
-
-All endorhiza samples maintained a core community of: Pseudomonas, Cellvibrio,
-Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales.
-With the exception of Cellvibrio, all are well-known endophytic bacteria
-primarily within Gammaproteobacteria and Alphaproteobacteria.
-
-### Strain-Specific Differences
-
-- Methylophilus comprised 13% of BooKoo Kush endorhiza, 0.13% of Burmese,
-  and was absent in Sour Diesel (FDR: p = 0.012)
-- Sphingomonas wittichii was prevalent in Maui Wowie, a species known to
-  metabolize phenazine-1-carboxylic acid and increase soil survival
-- Most strain differences were in Proteobacteria orders: Pseudomonadales,
-  Burkholderiales, Sphingomonadales, and Rhizobiales
-- Bacteroidetes (Sphingobacteriales, Flavobacteriales) also contributed
-
-## Root Decay Consideration
-
-Experiment 1 samples were taken 8 weeks post-harvest. The cellulytic bacterium
-Cellvibrio was found at 16.9% abundance (vs. 0.095% in pre-harvest Experiment 2),
-indicating early root decay. Sampling timing significantly affects microbiome
-characterization; post-harvest samples may not represent active growing communities.
-
-## Cannabinoid-Microbiome Correlation
-
-Cannabinoid concentration correlated significantly with endorhiza structure
-(r-stat: 0.863, p = 0.001). However, THC was also correlated to soil variables,
-making it difficult to disassociate microbiome-cannabinoid associations from
-soil chemistry effects. For more on cannabinoid biosynthesis, see [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]].
+species are present (OTU presence/absence). The [[understanding-cultivar-two-tier-selection-model-cannabis-microbiome]]
 
 ## See Also
+
+- [[cannabis-two-tier-microbiome-selection]]
+## Practical Considerations
+
+When working with Two-Tier Selection Model for Cannabis Root Microbiome, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

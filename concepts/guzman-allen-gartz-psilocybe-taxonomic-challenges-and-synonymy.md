@@ -39,32 +39,9 @@ and P. serbica as all being synonyms of P. cyanescens.
 
 ## The Cyanescens Problem
 
-[[psilocybe-cyanescens]] itself presents taxonomic challenges. European authors
-under Krieglsteiner adopted a broad concept that absorbed multiple species,
-while other authorities maintain these as distinct taxa. P. serbica, now
-recognized from Central Europe, was long subsumed within P. cyanescens.
-Similarly, P. mairei from North Africa (Morocco) may be distinct from the
-type concept of P. cyanescens. These differing species concepts make it
-difficult to compare distribution data across studies and regions. The
-cyanescens complex represents one of the most significant barriers to
-accurate biogeographic analysis in temperate regions.
-
-## Species with Extensive Synonymy
-
-The Guzmán, Allen and Gartz checklist (Table I) documents extensive synonymy
-throughout Psilocybe. [[psilocybe-cubensis]] alone carries synonyms including
+[[psilocybe-cubensis]] alone carries synonyms including
 Stropharia cubensis, P. cubensis var. caerulescens, Stropharia
-subcyanescens, S. cyanescens, and S. caerulescens. [[psilocybe-caerulescens-entity]]
-has multiple varieties including var. albida, var. mazatecorum, var.
-nigripes, and var. ombrophila, with some elevated to species rank (P.
-mazatecorum, P. mixaeensis) by different authors. P. zapotecorum was
-treated broadly by Singer, encompassing what other authors consider distinct
-species such as P. hoogshagenii.
-
-## The Zapotecorum Section Complex
-
-Section Zapotecorum contains species with particularly complex
-interrelationships. [[psilocybe-zapotecorum]] from Mexico and South America is
+subcyanescens, S. cyanescens, and S. caerulescens. [[psilocybe-zapotecorum]] from Mexico and South America is
 closely related to P. aucklandii from New Zealand. P. hoogshagenii was
 treated as P. zapotecorum sensu Singer, though it is now recognized as
 distinct. P. zapotecorum also shows relationships with P. muliercula,
@@ -75,9 +52,6 @@ connections complicate the definition of species boundaries.
 ## The Mexicanae Section Distribution
 
 Section Mexicanae demonstrates another pattern of disjunct distribution.
-[[psilocybe-samuiensis]] from Thailand and P. makarorae from New Zealand are
-both closely related to P. mexicana from Mexico and Guatemala. This
-remarkable distribution suggests ancient connections between tropical
 [[fungi-of-southeast-asia]], Australasia, and Mesoamerica, as also noted by
 Horak (1983) for other agaric genera including Cystoagaricus, Galerina,
 Mycena, and Paxillus in the South Pacific hemisphere.

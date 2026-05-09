@@ -13,7 +13,7 @@ The market for hallucinogenic mushrooms in Europe underwent significant changes 
 
 ## Historical Context
 
-Use of hallucinogenic mushrooms in Europe remained relatively dormant from the late 1950s — when R. [[gordon-wasson]]'s 1957 Life magazine article first brought them to Western attention — until availability and prevalence increased during the late 1990s and early 2000s. This reemergence was facilitated by several converging factors:
+Use of hallucinogenic mushrooms in Europe remained relatively dormant from the late 1950s — when R. gordon-wasson's 1957 Life magazine article first brought them to Western attention — until availability and prevalence increased during the late 1990s and early 2000s. This reemergence was facilitated by several converging factors:
 
 - The rise of smartshops in the Netherlands as retail outlets for natural psychoactive products
 - Rapid expansion of internet commerce and information sharing
@@ -26,7 +26,7 @@ Interest in natural hallucinogens appears related to a "return to nature" trend 
 
 ### Smartshops
 
-[[smartshops]], found primarily in the Netherlands, specialize in psychoactive herbal substances that are (or were) legal, in addition to vitamins, minerals, and health products. They played a pivotal role in commercializing hallucinogenic mushrooms by providing a legitimate retail environment where consumers could purchase fresh and dried mushrooms, growkits, and [[spore-print]] s. Smartshops served as both point-of-sale and informational hubs, distributing advice on dosage, effects, and harm reduction alongside their products.
+[[spore-print]] s. Smartshops served as both point-of-sale and informational hubs, distributing advice on dosage, effects, and harm reduction alongside their products.
 
 ### Internet Shops
 
@@ -69,37 +69,12 @@ Analysis across 11 EU Member States demonstrated that school students who had us
 Between 2001 and 2006, six EU countries tightened their legislation on hallucinogenic mushrooms:
 
 1. **Denmark (2001)**: Early restriction on mushroom sales
-2. **Netherlands (2002)**: Banned fresh [[psilocybin-mushroom]] s; sclerotia remained legal until 2008
-3. **Germany (2005)**: Controlled substances legislation extended to [[psilocybin-mushrooms]]
+2. **Netherlands (2002)**: Banned fresh [[psilocybin-mushrooms]]
 4. **Estonia (2005)**: Criminalized possession and sale
 5. **United Kingdom (2005)**: Drugs Act 2005 classified fresh mushrooms as Class A substances
 6. **Ireland (2006)**: Criminalized psilocybin mushrooms
 
-Reports from the UK suggested that legislation had a measurable impact on availability and the overall volume of internet sales. However, legislation also prompted retailers to shift toward selling alternative, legal hallucinogenic mushrooms — particularly *[[amanita-muscaria]]* (fly agaric), which carries its own health risks due to muscimol toxicity and the potential for confusion with lethal *Amanita* species.
-
-## Patterns of Use
-
-Mushrooms are typically consumed by:
-- Chopping fresh or dried mushrooms and eating them directly
-- Brewing dried mushrooms in hot water to make tea
-- Combining with food to mask the bitter taste
-
-Onset of effects occurs within 20-60 minutes, with the experience lasting 4-6 hours. User accounts suggest that the unpredictable potency, nausea, panic attacks, and lack of consistently sociable effects may limit the appeal of repeated use, contributing to the lower rates of regular consumption compared to other recreational drugs.
-
-## Emerging Trend Dynamics
-
-The EMCDDA case study highlighted the importance of lifestyle trends and economic interests in the diffusion of emerging drug trends. Several factors reinforced the mushroom trend:
-
-- **Legitimacy through retail**: Smartshops provided a "normal" shopping experience that normalized use
-- **Internet amplification**: Online information, trip reports, and community forums reduced barriers to experimentation
-- **Natural product framing**: Marketing as "natural" or "herbal" reduced perceived risk compared to synthetic drugs
-- **Economic displacement**: As one product was restricted, retailers pivoted to alternatives (e.g., Amanita, Salvia)
-
-Conversely, barriers to further diffusion included the inherently limited appeal of the psychedelic experience for casual recreational users, unpredictable potency and quality, negative physical effects (nausea in particular), and legal restrictions in an increasing number of jurisdictions.
-
-## See Also
-
-- [[psilocybin-chemistry-pharmacology]] — Chemical structure and pharmacological mechanisms
+Reports from the UK suggested that legislation had a measurable impact on availability and the overall volume of internet sales. However, legislation also prompted retailers to shift toward selling alternative, legal hallucinogenic mushrooms — particularly *[[psilocybin-chemistry-pharmacology]] — Chemical structure and pharmacological mechanisms
 - [[psilocybe-species-identification]] — Taxonomy and identification of psilocybin-containing species
 
 ## Sources

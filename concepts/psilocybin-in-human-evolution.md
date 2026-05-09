@@ -115,8 +115,6 @@ power possessed largely by women.
 
 ## See Also
 
-- [[stropharia-cubensis-as-ur-plant]]
 - [[shamanic-ecstasy-and-techniques]]
-- [[psilocybin-chemistry-and-pharmacology]]
 - [[exopheromones-and-cross-species-communication]]
 - [[tryptamine-hypercontinuum]]

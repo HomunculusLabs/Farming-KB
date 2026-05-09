@@ -119,10 +119,6 @@ where fungal biomass often exceeds bacterial biomass.
 
 ## See Also
 
-- [[dighton-saprotroph-mycorrhizal-litter-interactions]]
-
 - [[fungal-soil-food-web]]
-- [[fungal-interactions-soil-fauna]]
 - [[fungal-grazing-soil-fauna]]
-- [[fungal-fauna-grazing-decomposition-feedbacks]]
 - [[soil-food-web-structure]]

@@ -13,7 +13,7 @@ sources:
 
 # Rauwolfia serpentina
 
-**Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and Southeast Asia. One of the most pharmacologically significant plants in the history of modern medicine, it has been used in ayurveda for millennia and was the source of reserpine — the first antipsychotic and antihypertensive drug derived from a natural product. The plant contains over 50 identified [[indole]] alkaloids, making it a rich subject for [[tryptamine]]-class phytochemistry.
+**Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and Southeast Asia. One of the most pharmacologically significant plants in the history of modern medicine, it has been used in ayurveda for millennia and was the source of reserpine — the first antipsychotic and antihypertensive drug derived from a natural product. The plant contains over 50 identified [[tryptamine]]-class phytochemistry.
 
 ## Key Details
 
@@ -44,31 +44,7 @@ The roots contain over 50 indole alkaloids. The principal bioactive compounds:
 
 ### Reserpine
 
-The most significant alkaloid (0.1–0.7% of dry root weight). A pentacyclic indole alkaloid (C₃₃H₄₀N₂O₉), reserpine was the first drug to demonstrate lasting antipsychotic effects from a natural product. It irreversibly inhibits the vesicular monoamine transporter (VMAT), preventing packaging of [[serotonin]], dopamine, and norepinephrine into synaptic vesicles, thereby depleting central and peripheral monoamine stores.
-
-### Ajmaline
-
-A monoterpenoid indole alkaloid (C₂₀H₂₆N₂O₃, 0.1–0.3%) named after Hakim Ajmal Khan. A class Ia antiarrhythmic agent that blocks cardiac sodium channels. Used clinically in Europe for diagnosis and treatment of arrhythmias, particularly Brugada syndrome.
-
-### Ajmalicine (Raubasine)
-
-An indole alkaloid (C₂₁H₂₄N₂O₃, 0.2–0.5%). An α₂-adrenergic antagonist and calcium channel blocker with vasodilatory properties. Used as an antihypertensive and mild sedative. Also a precursor in semisynthesis of other pharmaceuticals.
-
-### Serpentine
-
-A yohimbane-type indole alkaloid (C₂₁H₂₀N₂O₃) found in root bark. Shares structural similarity with reserpine; investigated for hypotensive and tranquilizing properties.
-
-### Yohimbine
-
-An indole alkaloid (C₂₁H₂₆N₂O₃) present in Rauwolfia species. An α₂-adrenergic receptor antagonist producing increased sympathetic outflow. Used medicinally for erectile dysfunction and as a stimulant.
-
-Other notable alkaloids include rescinnamine, deserpidine, tetrahydropalmatine, and numerous minor indole alkaloids.
-
-## Pharmacology
-
-### Reserpine: VMAT Inhibition
-
-Reserpine irreversibly binds to VMAT2 in the CNS and VMAT1 in peripheral tissues. By blocking transport of [[serotonin]], dopamine, norepinephrine, and epinephrine from cytoplasm into synaptic vesicles, it causes progressive depletion of monoamine stores. Therapeutic onset is delayed 2–3 weeks, corresponding to presynaptic amine depletion. VMAT inhibition is irreversible for affected transporter molecules; recovery requires synthesis of new transporters.
+The most significant alkaloid (0.1–0.7% of dry root weight). A pentacyclic indole alkaloid (C₃₃H₄₀N₂O₉), reserpine was the first drug to demonstrate lasting antipsychotic effects from a natural product. It irreversibly inhibits the vesicular monoamine transporter (VMAT), preventing packaging of [[serotonin]], dopamine, norepinephrine, and epinephrine from cytoplasm into synaptic vesicles, it causes progressive depletion of monoamine stores. Therapeutic onset is delayed 2–3 weeks, corresponding to presynaptic amine depletion. VMAT inhibition is irreversible for affected transporter molecules; recovery requires synthesis of new transporters.
 
 ### Antihypertensive Mechanism
 
@@ -131,17 +107,14 @@ India is the largest producer, with commercial cultivation in Uttar Pradesh, Mad
 
 ## Wiki Relevance
 
-Rauwolfia serpentina is foundational to the pharmacology of [[indole]] alkaloids and the history of psychopharmacology. Its study bridges ethnobotany, ayurveda, phytochemistry, and modern clinical pharmacology. Reserpine's mechanism as a VMAT inhibitor remains a critical reference in neurotransmitter pharmacology alongside compounds affecting [[serotonin]] and dopamine pathways. The plant's conservation status highlights the intersection of medicinal plant trade, biodiversity, and sustainable agriculture.
+Rauwolfia serpentina is foundational to the pharmacology of [[serotonin]] and dopamine pathways. The plant's conservation status highlights the intersection of medicinal plant trade, biodiversity, and sustainable agriculture.
 
 ## See Also
 
 - reserpine
-- [[serotonin]]
 - [[tryptamine]]
-- [[indole]]
 - [[dimethyltryptamine]]
 - chlorpromazine
 - yohimbine
 - ayurveda
-- [[psilocybin-compound]]
 - [[4-hydroxytryptamine]]

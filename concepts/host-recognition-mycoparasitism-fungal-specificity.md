@@ -2,10 +2,7 @@
 title: "Host Recognition and Specificity in Fungal Mycoparasitism"
 created: 2026-04-26
 tags:
-  - mycology
-  - mycoparasitism
-  - host-recognition
-  - fungal-ecology
+  - [[fungal-ecology]]
   - cell-signaling
 date: 2026-04-25
 updated: 2026-04-25
@@ -28,54 +25,7 @@ that attack a broad range of fungal hosts to specialists
 restricted to a single species. Understanding these
 recognition mechanisms is essential for elucidating the
 ecology and evolution of zoosporic mycoparasites aquatic fungi,
-terrestrial [[zoopagales-dimargaritales-zygomycete-mycoparasites]],
-and biocontrol agents such as [[trichoderma]].
-
-## Mechanisms of Host Recognition
-
-### Chemotaxis and Zoospore Attraction
-
-In zoosporic mycoparasites, host recognition often begins
-with chemotaxis, the directed movement of zoospores toward
-chemical signals released by potential hosts. Zoospores of
-parasitic chytrids, oomycetes, and plasmodiophorids are
-attracted to specific amino acids, sugars, or other
-metabolites exuded by host hyphae or sporangia. The
-specificity of this chemotactic response contributes to
-powdery mildews erysiphaceae determination. In some systems, zoospores can
-distinguish between host and non-host species based solely
-on the chemical composition of the surrounding medium.
-
-### Surface Recognition and Adhesion
-
-After contact with a potential host, mycoparasites must
-adhere to the host surface. This process involves
-carbohydrate-binding proteins (lectins) on the parasite
-surface that recognize specific sugar moieties on the
-host cell wall. The composition of the host cell wall,
-particularly the types and arrangements of polysaccharides
-such as chitin, glucans, and glycoproteins, serves as a
-recognition signal. Parasites with broad host ranges may
-possess multiple lectin types or less specific binding
-proteins.
-
-### Contact-Dependent Recognition
-
-Some mycoparasitic interactions require direct physical
-contact between parasite and host before recognition occurs.
-Contact may trigger the production of lytic enzymes,
-penetration pegs, or specialized infection structures.
-In Trichoderma species used for biocontrol, contact with
-a host hypha triggers the coiling of the parasite hypha
-around the host, followed by penetration and dissolution
-of the host cell wall.
-
-## Host Specificity Spectrum
-
-### Broad-Spectrum Mycoparasites
-
-Some mycoparasites attack a wide range of fungal hosts.
-[[trichoderma-harzianum]], widely used as a biocontrol agent,
+terrestrial [[trichoderma-harzianum]], widely used as a biocontrol agent,
 can parasitize numerous plant pathogenic fungi including
 Rhizoctonia, Fusarium, Pythium, and Sclerotinia species.
 Similarly, some zoosporic mycoparasites such as certain
@@ -146,3 +96,7 @@ antifungal and immunosuppressive activities.
 Host fungi are not passive targets of mycoparasitism.
 Many have evolved defense mechanisms that can limit or
 ## See Also
+
+## See Also
+
+- [[fungal-endemism-host-specificity]]

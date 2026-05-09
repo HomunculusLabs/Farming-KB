@@ -24,25 +24,7 @@ sources:
 ---
 # Vietnam Black
 
-**Vietnam Black** is a rare pure sativa [[cannabis-strain-guide-reference]] originating from
-Southeast Asia, specifically the highland regions of Vietnam, Laos, and
-Cambodia. Known among cannabis connoisseurs as one of the most potent and
-cerebrally intense landrace-influenced sativas available, Vietnam Black
-produces deeply psychedelic, mind-expanding effects alongside a uniquely
-cterpene-profile-chemotaxonomypice terpene profile. Its genetic lineage places it among
-the most historically significant Asian sativa landraces, with connections
-to the cannabis traditions of the Golden Triangle and Vietnamese hill
-tribe communities.
-
-## Genetic Lineage
-
-- **Type:** Pure sativa (landrace)
-- **Origin:** Vietnam, likely the Central Highlands (Tây Nguyên) and
-  border regions with Laos and Cambodia
-- **Breeder:** Landrace — naturally selected over centuries by indigenous
-  hill tribe cultivators in the Annamite Range
-- **Genetic stability:** Moderate — significant phenotypic variation
-  within [[southeast-asian-mushroom-tourism-bali]] to landrace genetics
+**Vietnam Black** is a rare pure sativa [[southeast-asian-mushroom-tourism-bali]] to landrace genetics
 
 Southeast Asian cannabis has a deep cultural history. Vietnamese landraces
 were used traditionally in folk medicine, spiritual ceremonies, and hemp
@@ -143,7 +125,6 @@ users.
 - **ADHD** — enhanced focus and creative flow (anecdotal)
 
 ### Negative Effects
-- Strong anxiety or paranoia at high doses (not beginner-friendly)
-- Insomnia if consumed late in the day
-- Dry mouth and dry eyes
-- Mild tachycardia
+## See Also
+- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
+- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]

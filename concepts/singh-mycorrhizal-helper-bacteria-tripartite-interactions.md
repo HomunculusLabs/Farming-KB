@@ -22,8 +22,7 @@ mycorrhizal symbioses. These bacteria form the third partner in the
 tripartite interactions between plants, arbuscular mycorrhizal (AM) or
 ectomycorrhizal (ECM) fungi, and bacteria, creating complex microbial
 consortia that enhance plant fitness and soil health. Singh's treatment
-of MHB underscores their role as mediators of [[singh-mycorrhizal-network-carbon-transfer-plants]] and
-their importance in [[singh-fungal-plant-growth-promoting-mechanisms]].
+of MHB underscores their role as mediators of [[singh-fungal-plant-growth-promoting-mechanisms]].
 
 ## Definition and Functional Group
 
@@ -45,42 +44,7 @@ released by certain Pseudomonas strains trigger faster hyphal branching
 and increased metabolic activity in arbuscular mycorrhizal fungi. Some
 MHB also secrete siderophores that improve iron nutrition for both the
 fungus and the host plant, a mechanism shared with
-[[singh-fungal-siderophore-production-iron-acquisition]].
-Cell-wall-degrading enzymes from Streptomyces spp. can facilitate
-penetration of root tissues by the fungal symbiont.
-
-### Indirect Effects via Plant Signaling
-MHB can modulate plant defense responses to permit mycorrhizal entry.
-Certain bacterial strains reduce the plant's jasmonic acid-mediated
-defense signaling locally in the root zone, effectively lowering the
-barrier to fungal colonization. This immunomodulation must be carefully
-balanced to avoid compromising resistance against true pathogens. MHB
-also influence root exudate profiles, altering the composition of organic
-acids, sugars, and amino acids that serve as signals for fungal
-attraction and hyphal growth toward the root.
-
-### Biofilm Formation on Hyphae
-A striking feature of many MHB is their ability to form biofilms on the
-surface of mycorrhizal hyphae and extraradical mycelium. These bacterial
-biofilms create a microenvironment around the fungal mantle that
-concentrates nutrients, protects against antagonistic microorganisms, and
-facilitates metabolite exchange. The biofilm matrix, composed of
-exopolysaccharides, proteins, and extracellular DNA, can entrap mineral
-nutrients and deliver them to the fungal partner. In ectomycorrhizal
-systems, biofilm-coated rhizomorphs show enhanced exploration capacity
-and nutrient foraging efficiency.
-
-## PGPR Synergism with Mycorrhizae
-
-The combination of MHB with established PGPR traits creates synergistic
-effects that exceed the sum of individual contributions. Co-inoculation
-of AM fungi with phosphate-solubilizing Bacillus strains, for example,
-leads to greater phosphorus uptake than either organism alone, because
-the bacteria liberate phosphate from mineral complexes while the fungal
-network delivers it to the root. Similarly, MHB that produce ACC
-deaminase lower ethylene levels in stressed plants, complementing the
-stress-mitigation effects of mycorrhizal colonization. These synergisms
-are particularly important in [[mycoremediation-pahs]] contexts where
+[[mycoremediation-pahs]] contexts where
 contaminated soils impose multiple stresses.
 
 ## Co-inoculation Effects in Practice
@@ -111,30 +75,6 @@ communication between spatially separated partners.
 ## Applications in Ecological Restoration
 
 MHB-inoculated mycorrhizal systems are valuable tools for ecological
-restoration and [[pah-bioremediation]] of degraded lands. In heavy-metal-contaminated soils, tripartite associations enhance phytoextraction by
-improving plant establishment, nutrient uptake, and metal translocation.
-Reclamation of post-mining sites benefits from co-inoculation strategies
-that accelerate soil aggregate formation and organic matter accumulation.
-The helper bacteria also suppress phytopathogenic fungi in the
-rhizosphere, reducing the need for chemical fungicides in restoration
-projects.
-
-## Challenges and Research Directions
-
-Standardizing MHB inoculants remains difficult because bacterial strains
-show strong context-dependency; a helper bacterium effective with one
-fungal species and host plant may have no effect or even be antagonistic
-in another combination. Metagenomic and metatranscriptomic approaches are
-beginning to reveal the composition and functional gene repertoire of
-mycorrhizosphere bacterial communities. Understanding the specificity
-determinants of MHB-fungal partnerships will be essential for developing
-reliable tripartite inoculants for agriculture and environmental
-management.
-
-## See Also
-
-- [[singh-fungal-plant-growth-promoting-mechanisms]]
-- [[singh-mycorrhizal-network-carbon-transfer-plants]]
+restoration and [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[singh-fungal-siderophore-production-iron-acquisition]]
-- [[singh-arbuscular-mycorrhizal-spore-identification]]
 - [[singh-ectomycorrhizal-morphotype-identification]]

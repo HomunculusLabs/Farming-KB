@@ -117,11 +117,7 @@ Several wild Theobroma species in the Amazon basin serve as genetic resources fo
 
 ## See Also
 
-- [[theobroma-cacao]]
 - [[bertholletia-excelsa]]
-- [[myrciaria-dubia]]
 - [[physalis-peruviana]]
-- [[euterpe-oleracea]]
 - [[vanilla-planifolia]]
-- [[cinnamomum-verum]]
 - [[manihot-esculenta]]

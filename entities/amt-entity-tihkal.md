@@ -45,20 +45,6 @@ TIHKAL entry #48. An indole analogue of amphetamine that functions as both a mon
 - **4 mg, smoked**: "It burns and smells bad. After a half hour, BINGO, there was a very slow building of a definite psychedelic. It builds slowly but strongly for another few hours to a plateau at maybe four hours. Even after 18 hours following input, and after 7 hours of sleep, I awoke still feeling the effects."
 - **5 mg, smoked**: "Qualitatively milder and less intense than mushrooms, but much longer lived. Not complex, but just a lot of very good spirit, energetic feeling, enhanced colors, attractive rhythms in music."
 - **10 mg, smoked**: "While there are no true visuals to speak of, the overall picture of things seemed grainy -- as if filmed on low quality color 16mm film. There is an energized eeriness about inanimate objects."
-- **20 mg, smoked**: "My mind was moving fast, and my body was speeding along. Several hours in, more of a psychedelic effect began to manifest -- waves of soft red/orange visuals similar to colors of LSD. When I awoke four hours later I was at the same level as when I went to sleep."
-
-## Clinical History
-
-In the 1960s, several pharmaceutical houses explored the indole analogues of amphetamine. Both alpha-methyltryptamine (this compound) and alpha-ethyltryptamine ([[a-et-entity-tihkal]]) were found to be effective monoamine oxidase inhibitors and clinically studied as potential antidepressants. AMT was commercially available in the Soviet Union as Indopan in 5 and 10 mg tablets.
-
-## Variable Response Profile
-
-AMT shows wide individual variability in onset speed, character, and side effects -- reminiscent of [[harmaline-entity-tihkal]]'s variable response spectrum. For some it has a fast onset, for others a slow one. Some find it a good psychedelic, others are disturbed by the negative physical side-effects. This may reflect its MAO inhibition property. Low levels of a-MT might serve a harmaline-like role in potentiating DMT (a "pharmahuasca" approach).
-
-## The Kesey Connection
-
-Shulgin speculates about a fascinating bit of drug history: Ken Kesey served as an experimental subject for studies involving psilocybin, Ditran, and a-MT at the VA Hospital in Menlo Park. Shortly after, Kesey became "The Chief" of the Merry Pranksters. A research supply of a-MT disappeared at about the same time. The research director's opinion was that the material used by Kesey and the Pranksters was probably LSD, "as it was so widely available at that time."
-
 ## Related Compounds
 
 - **4-HO-a-MT**: Markedly visual at 15-20 mg orally, but with toxic signs including abdominal pain, tachycardia, and headache.
@@ -76,10 +62,77 @@ Shulgin speculates about a fascinating bit of drug history: Ken Kesey served as 
 
 ## See Also
 
-- [[a-et-entity-tihkal]] -- the ethyl homologue (Monase)
 - [[dmt-entity-tihkal]] -- unmethylated parent tryptamine
-- [[harmaline-entity-tihkal]] -- shares MAOI properties and variable response profile
 - [[psilocin-entity-tihkal]] -- shorter-acting tryptamine psychedelic
-- [[psychedelic-harm-reduction]] -- long duration and stimulant effects require caution
 - [[a-et-entity-tihkal]]
 - [[net-entity-tihkal]]
+
+## Merged: Entities/Alpha N Dmt Entity Tihkal
+
+# alpha-N-DMT (alpha,N-Dimethyltryptamine)
+
+alpha-N-DMT, also known as alpha,N-dimethyltryptamine or N-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound documented by Alexander Shulgin in TIHKAL. It occupies a unique pharmacological position as the tryptamine analogue of methamphetamine, paralleling the structural relationship between amt entity tihkal and amphetamine.
+
+## Chemistry and Structure
+
+The compound features a methyl group on the alpha carbon of the tryptamine side chain (as in alpha-MT) and a methyl group on the terminal nitrogen atom, making it a tertiary amine. The full chemical name is 3-[2-(methylamino)propyl]indole.
+
+This structural relationship is exactly analogous to the phenethylamine counterparts: amphetamine (alpha-methylphenethylamine) maps to methamphetamine (alpha,N-dimethylphenethylamine), and similarly amt entity tihkal maps to alpha-N-DMT.
+
+The hydrochloride salt forms white crystals with a melting point of 90-91 degrees C. The picrate derivative is brick red from ethanol with a melting point of 207-208 degrees C.
+
+Multiple synthetic routes exist for its preparation: from indoleacetone via reductive amination with methylamine, from alpha-MT via formylation followed by LAH reduction, and from indole-3-acetic acid through esterification and reduction sequences.
+
+## Dosage and Duration
+
+Dosage range: 50 - 100 mg, orally.
+
+Duration: 6 - 8 hours.
+
+## Effects
+
+The effects profile is notably different from typical psychedelic tryptamines. At 50 mg orally, users report wakefulness, alertness, a starry-eyed sensation as if wearing glasses with the wrong prescription, and light-headedness. These physical discomforts persist for several hours.
+
+At 75 mg, effects include compulsive sneezing, significant discomfort, no appetite, elevated pulse, teeth clenching, and a buzzy sensation that fades after 3-4 hours. Sleep quality remains normal.
+
+The overall character is described as resembling speed without the stimulant virtues, or a psychedelic without the visual effects. Users report the experience as unpleasant and not worth repeating at these levels.
+
+## Pharmacology
+
+Unlike the phenethylamine analogues (amphetamine and methamphetamine), which both show dramatic stimulant and sympathomimetic properties, the tryptamine pair diverges significantly. While amt entity tihkal is a well-known psychedelic with stimulant properties, alpha-N-DMT shows minimal psychedelic activity and primarily unpleasant physical side effects.
+
+The N-ethyl homologue has also been synthesized with a hydrochloride melting point of 187-189 degrees C, though its pharmacological properties remain largely unexplored.
+
+This divergence between the tryptamine and phenethylamine families demonstrates that structural analogies between these two classes do not reliably predict pharmacological correspondence.
+
+## Extensions and Commentary
+
+Shulgin questioned whether making the tertiary amine (alpha-N-DMT) less psychedelic than the primary amine (amt entity tihkal) was an argument for the primary amine being the active form at serotonin receptors. If the primary amine is the actual pharmacophore, then adding steric bulk to the nitrogen might hinder receptor binding.
+
+However, this theory is complicated by other examples in the tryptamine series where tertiary amines show equal or greater potency than their primary counterparts, such as [[alpha-methyltryptamine]]) - the primary amine parent compound, a well-known psychedelic stimulant.
+
+alpha n [[nmt-entity-tihkal]] (N-methyltryptamine) - the mono-methylated tryptamine.
+
+[[det-entity-tihkal]] (N,N-diethyltryptamine) - the diethyl analogue, orally active at similar dose ranges.
+
+## References
+
+Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Entry #8, alpha,N-DMT. Transform Press, 1997.
+
+## Historical Context
+
+Alpha-N-DMT was synthesized during Shulgin's systematic exploration of alpha-substituted tryptamines. The comparison to the phenethylamine series (amphetamine to methamphetamine) was a recurring theme in Shulgin's work, reflecting his interest in understanding how structural parallels between the tryptamine and phenethylamine families correspond to pharmacological parallels.
+
+The report that this compound was once sold on the streets of Chicago as MDMA provides an interesting footnote in the history of substituted amphetamines and tryptamines in the illicit market. It illustrates the opportunistic substitution that can occur when demand for a particular substance outstrips supply.
+
+## Modern Significance
+
+Alpha-N-DMT remains relevant to modern receptor pharmacology as a demonstration that tertiary amine formation on the tryptamine nitrogen does not reliably predict pharmacological outcomes. The divergence between the tryptamine and phenethylamine families in this regard continues to inform computational models of serotonin receptor binding.
+
+The compound's unpleasant effects profile at active doses also serves as a cautionary example in the research chemical community, illustrating that not all structural analogues of known active compounds produce desirable or safe effects.
+
+## Additional References
+
+Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
+
+Nichols, D.E. "Psychedelics." Pharmacology & Therapeutics, 101(2), 131-181, 2004.

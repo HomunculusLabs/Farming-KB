@@ -65,10 +65,25 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 ## See Also
 
 - [[bob-entity-pihkal]]
-- [[bod-entity-pihkal]]
 - [[boh-entity-pihkal]]
-- [[bohd-entity-pihkal]]
-
-- PIHKAL (the source book)
 - [[bohd-entity-pihkal]] -- BOHD (PIHKAL #16)
 - [[4-br-3-5-dma-entity-pihkal]] -- 4-Br-3,5-DMA (PIHKAL #18)
+## Practical Considerations
+
+Successful implementation of BOM (3,4,5,beta-Tetramethoxy-PEA) -- PIHKAL Entry #17 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

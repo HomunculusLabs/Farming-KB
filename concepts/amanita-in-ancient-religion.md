@@ -66,15 +66,7 @@ An anonymous commentator in the source document raises supplementary points: All
 
 ## The Wasson Soma Hypothesis
 
-The most famous scholarly argument for Amanita muscaria in ancient religion is [[wasson-hofmann-ruck-theory]]'s identification of the Vedic Soma as Amanita muscaria, first proposed in 1968. Wasson drew on the Rig Veda's descriptions of Soma's effects (visions, divine intoxication, feeling of immortality) and argued that the plant's characteristics matched Amanita muscaria better than any other candidate. The Soma hypothesis remains debated, with alternative candidates including Ephedra, Peganum harmala, and various Psilocybe species.
-
-## Christmas and Siberian Shamanism
-
-A popular but debated theory connects Amanita muscaria to the modern Santa Claus figure through Siberian shamanism. In Siberian traditions, shamans would consume the mushroom and enter through the smoke-hole of the yurt -- the top entrance during winter. The mushroom's red-and-white colouring, its association with reindeer (who also consume it), and its gift of "visionary flights" have been connected to the imagery of Santa Claus, his red-and-white suit, his chimney entry, and his flying reindeer. Andy Letcher has critically examined these claims, noting that many elements of the Santa Claus tradition have well-documented non-mycological origins.
-
-## Modern Perspective
-
-While Allegro's specific historical claims remain controversial, the general proposition that Amanita muscaria and other psychoactive fungi played roles in ancient religious traditions is more widely accepted today. The mushroom's distinctive appearance, powerful effects, and widespread distribution across the Northern Hemisphere make it a plausible candidate for ritual use in many cultures. See [[soma-and-the-sacred-mushroom-debate]] for the broader scholarly context.
+The most famous scholarly argument for Amanita muscaria in ancient religion is [[soma-and-the-sacred-mushroom-debate]] for the broader scholarly context.
 
 ## Current Research
 
@@ -85,11 +77,10 @@ Modern research into Amanita muscaria has focused on:
 - **Medicinal potential:** Investigation of anti-inflammatory, analgesic, and anxiolytic properties
 - **Ecological role:** Amanita muscaria forms mycorrhizal associations with birch and pine trees, playing important roles in forest ecosystems
 
-See also: [[mushroom-symbols-ancient-languages]], amanita in ancient religion, [[controversy-sacred-mushroom-theory]], [[amanita-muscaria-ethnobotany]], [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
+See also: [[controversy-sacred-mushroom-theory]], [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
 
 ## Related
 
-- [[amanita-polymorphous-symbolic-names]]
 - [[mythological-mushroom-symbolism]]
 ## Merged: Fertility Cults of the Ancient Near East
 

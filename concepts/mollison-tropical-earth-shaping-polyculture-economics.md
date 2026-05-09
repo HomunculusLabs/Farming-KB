@@ -15,130 +15,84 @@ Bill Mollison presents earth-shaping as a fundamental strategy
 in tropical permaculture, serving multiple functions including
 water infiltration, mulch retention, microclimate creation, and
 dramatic yield increases. The economic analysis of polyculture
-demonstrates that complex [[intercropping-systems]] can multiply
-returns while reducing per-unit costs.
-
-## Earth-Shaping Strategies
-
-On level ground or gentle slopes (2-8 degrees) in the wet-dry
-tropics, a series of large contour banks or swales have an
-excellent soil preservation effect. Coupled with the gradual
-development of a terrace, retention of wet-season water, and
-mulch-providing hedgerow, this ensures a stable situation.
-Between the main hedges, mulch hedgerow and borders can be
-developed in crop, or the terraces can be flooded seasonally
-for irrigated crops.
-
-Earth-shaping is worthwhile for several reasons: to assist
-water infiltration and run-off, to give free root run, to
-retain mulch in wind, to effect better drainage in over-wet
-areas, and to provide microclimate benefits with respect to
-wind shelter and ground warmth.
-
-## Specific Earthworks for Crops
-
-RIDGES of 0.5 x 1 m increase yields in cassava, sweet potato,
-potato, and yam crop. Mulch and green crop can be grown between
-the ridges. Pineapple and ginger also prefer ridges in wet
-areas. Leucaena intercrop for mulch on mounds, while maize and
-green mulch (beans) occupy hollows.
-
-MOUNDS and volcano-shaped mounds with hollow centres are good
-cucurbit sites if enriched with manures. A stone or two helps
-heat the earth to germination temperature for cucurbit and
-melon crop.
-
-FURROWS assist mulch retention for ginger and pineapple in dry
-areas. They are best covered with mulch, and will carry
-subsurface water seepage lines.
-
-BASINS, even shallow basins, aid dryland taro and banana, or
-patches of Chinese water chestnut. Soil is more easily
-saturated, and deep mulch assists this process.
-
-BOXES of palm trunks are ideal mulch-holders for yams, banana,
-and vanilla orchid, vines generally, and borders of beds in
-home gardens. Such log boxes can be 1-3 logs high, and greatly
-assist weeding if mulch-filled.
-
-## Wet and Dry Terrace Systems
-
-On very flat sites (less than 4 degrees), a series of raised
-mounds or ridges can operate to drain crops in very wet areas,
-or to impound water for absorption in drier areas. Pits can also
-be used where rainfall is less than 76 cm (30 inches), or where
-soil drainage is good.
-
-Classical wet rice and taro terrace has water continuously led
-into the top terrace of the series, and each has a drain and
-sump to regulate water level. Fish may be grown in the deeps
-of such terraces. Essentials are that about one-half to
-one-third of the total terraced area should be devoted to
-mulch tree crop providing fodder for livestock or direct leaf
-and branch mulch to terraces.
-
-## Terrace Crop Species
-
-For dry terraces: millet (summer), dryland rice (spring-summer),
-barley and wheat (winter), amaranth (summer grains and spring
-greens), quinoa (summer grains), rape and mustard (winter oils),
-lentils and peas, grams and pulses. Fodders include tagasaste,
-banna grass, comfrey, Leucaena, crop wastes and straw.
-
-Garden terraces near homes include banana, papaya, melons,
-chilies, peppers, cucurbits, maize, beans, sugar cane,
-cultivated green Brassica, edible Chrysanthemum, edible
-Hibiscus, rosella, horseradish tree (Moringa), coconut, and
-mango. Vine crops off bund faces include chayote, cucurbits,
-beans, passionfruit, and kiwifruit.
-
-## Polyculture Economics
-
-Nair (1975) provides convincing economic analyses for coconut,
-showing a 50% increase in yield for irrigation alone and a
-trebling of the yield for complex intercrop of two or more
-species, effectively doubling the cash return to the grower
-on the same area. Costs of irrigation and intercrop (plant or
-animal) never exceed returns if care is taken to select
-beneficial species for available soil, water supply, and
-climate.
-
-Adding three species and increasing net yield by 3-9 times
-increases costs by only 3.1 times. This is a clear implication
-for smallholders that much less area, polycultured, would give
-as much return (3 to 8 times) for far less expense (as expense
-is also a function of expanded area under crop). Often, the
-cheapest irrigation system is to pattern the ground to hold
-wet-season run-off for tree crop use in dry seasons.
-
-There is a point, however, where more species added, even if
-carefully selected, would push labour, harvest, and control
-costs past sensible limits. A complex polyculture must be
-managed by many more people if expanded to a wider scale. This
-reinforces the importance of village-scale systems with
-distributed management.
-
-## Palm Plantation Layouts
-
-Clump planting of palms is ideal for run-off harvesting of
-water in circular swales or in coconut-circle pits. Clumps
-form more suitable trellis for vanilla, black pepper, and
-other vine crop, are economical for watering, and leave a
-large area of ground free. The wide spacing of circles enables
-replanting in discrete sets of 10-12 palms without gross
-linear disturbance.
-
-The addition of bananas, especially with avocado, has become
-standard in many plantations, as banana plants at harvest (with
-root mass) provide about 25 tonnes per hectare of organic
-matter, a key resource for healthy fruit and palm crop. Small
-tree legumes (Cassia, Calliandra, Leucaena) also help. Bananas
-in legume crop may be regarded as pioneer mulch in grassland
-reclamation.
-
-## See Also
-
-- [[mollison-earth-constructs-and-banks]]
-- [[mollison-designers-coconut-palm-dominant-polyculture]]
+demonstrates that complex [[mollison-earth-constructs-and-banks]]
 - [[mollison-terracing-slope-management]]
 - [[mollison-swale-design-details]]
+## Practical Applications
+
+Tropical Earth-Shaping and Polyculture Economics has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Tropical Earth-Shaping and Polyculture Economics. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -103,19 +103,11 @@ Cross-breeding derivatives include **Donny Burger × Gelato** (combining savory 
 
 ## See Also
 
-- [[og-kush]]
 - [[girl-scout-cookies]]
-- [[mac-1]]
 - [[cannabis-blue-dream]]
-- [[zookies-cannabis]]
-- [[jungle-cake]]
 - [[biscotti-cannabis]]
-- [[permanent-marker]]
 - [[georgia-pie]]
-- [[skunk-cannabis]]
 - [[white-cherry-gelato]]
-- [[miracle-alien-cookies]]
 - [[gary-payton-cannabis]]
-- [[tropicana-cherries]]
 - [[hericium-erinaceus]]
 - [[leccinum-scabrum]]

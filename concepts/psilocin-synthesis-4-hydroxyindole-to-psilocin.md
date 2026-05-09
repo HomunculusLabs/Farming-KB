@@ -13,16 +13,7 @@ sources:
 type: concept
 ---
 
-# [[psilocin]] Synthesis from indole|4-hydroxyindole
-
-## Overview
-
-The concise synthesis of psilocin (4-hydroxy-N,N-[[dimethyltryptamine]],
-abbreviated 4-OH-DMT) from commercially available 4-hydroxyindole was
-reported by Shirota, Hakamata, and Goda in 2003. This four-step route
-proceeds without any chromatographic purification, making it suitable for
-gram-[[psilocybin-large-scale-production]] of the reference standard needed for forensic and
-analytical work involving [[magic-mushrooms-japan]].
+# [[magic-mushrooms-japan]].
 
 ## Starting Material: 4-Hydroxyindole
 
@@ -136,6 +127,5 @@ throughout, enabling isolation by simple filtration and washing.
 
 ## Related Topics
 
-- [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - [[nmr-characterization-psilocin-psilocybin-intermediates]]

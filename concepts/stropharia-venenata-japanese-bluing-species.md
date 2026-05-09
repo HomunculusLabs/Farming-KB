@@ -19,22 +19,7 @@ S. Imai first described this species as **Stropharia caerulescens** in 1932, bas
 
 ### Habitat and Ecology
 
-S. venenata grows on top of wood and dung in Japan. Today it is classified within the genus Psilocybe as a close relative of [[psilocybe-cubensis-potency-variation-by-flush]].
-
-### Modern Classification
-
-The species has undergone several taxonomic revisions:
-
-1. **Stropharia caerulescens Imai** (1932) -- Original name
-2. **Stropharia venenata Imai** -- Renamed, reflecting the "poisonous" interpretation
-3. **Psilocybe venenata** (Imai) -- Current classification within Psilocybe
-4. Close relative of P. cubensis -- Modern phylogenetic placement
-
-## The 1929 Intoxication Case
-
-### The Incident
-
-On June 21, 1929, a 43-year-old Japanese woman collected about 13 oz. of mushrooms she erroneously thought were honey mushrooms ([[armillaria-mellea]]). The following day, she prepared a mushroom meal and served it to her family.
+S. venenata grows on top of wood and dung in Japan. Today it is classified within the genus Psilocybe as a close relative of [[armillaria-mellea-entity]]). The following day, she prepared a mushroom meal and served it to her family.
 
 ### Symptoms
 
@@ -53,13 +38,7 @@ The attending physician was clearly unprepared for the situation. Upon seeing th
 
 ### Recovery
 
-All affected family members recovered completely with no lasting effects. This outcome is consistent with [[psilocybin-toxicity-and-safety-profile]].
-
-## Yokoyama's Controlled Experiments (1973)
-
-### Systematic Research
-
-M. Yokoyama published the results of systematic experimentation with this species in 1973, providing the first controlled data on its psychoactive properties. No "urge to dance" was noted -- a significant finding given the [[japanese-laughing-mushroom-tradition]].
+All affected family members recovered completely with no lasting effects. This outcome is consistent with [[japanese-laughing-mushroom-tradition]].
 
 ### Subject Reports
 

@@ -119,7 +119,7 @@ Example: A label showing 10-20-10 actually contains 10% N, 8.8% P, 8.3% K.
 - [[mycorrhizal-fungi]] — Biological overview of mycorrhizal types
 - [[mycorrhizal-inoculum-production]] — Making your own inoculum
 - [[non-mycorrhizal-plants]] — Plants that don't form mycorrhizae
-- [[composting-and-soil-biology]] — Reduced tillage systems
+- [[no-till-gardening-method]] — Reduced tillage systems
 - [[cover-cropping-guide]] — Cover crop selection and management
 - [[composting-systems]] — Compost compatibility with mycorrhizae
 - [[fertilizer-npk-decoded]] — Fertilizer math and nutrient management

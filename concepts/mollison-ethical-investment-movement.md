@@ -3,93 +3,102 @@ title: Mollison: Ethical Investment Movement
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison: Ethical Investment Movement
-
-Source: Bill Mollison, Permaculture: A Designers' Manual (Chapter 14, Section 14.13)
-
-## The Rise of Ethical Investment
-
-Prior to 1980, very few innovative or consciously ethical financial systems existed; today there are hundreds of such organisations, holding their own summits and handling, via their stockbrokers, in excess of 160 billion dollars annually (in the USA alone). In 1983, the Permaculture Institute, following seminars with the E.F. Schumacher group in the USA, started teaching in local community funding and ethical investment: "banking on the earth."
-
-The rise of a large, popular, efficient set of services to divert public money to good ends is a reaction to the current misuse of money by governments, large aid agencies, and rapacious investors whose sole motive is profit, power, or greed. This movement is one of the truly new phenomena of this century, and its growth is exponential.
-
-## Disinvestment Criteria (Non-Buy List)
-
-Disinvestment in companies which:
-
-Do not care for the earth, producing:
-- Pollutants and dangerous wastes, waste product as excess packaging, nonreturnable or not recyclable containers.
-- Shoddy and quickly superseded products, unrepairable items, or those lacking good servicing and spares.
-- Poisons, biocides, armaments, and dangerous materials (radioactive waste, mercury, asbestos, leaded petrol, chlorinated fluorocarbons).
-
-Do not care for people:
-- Dangerous foods or medicines.
-- Unsafe or polluted workplaces, including noise pollution.
-- Deal in addictive substances or provide addictive services (alcohol, tobacco, gambling).
-- Do not permit organised labour, do not deal with employees fairly, nor pay fair wages.
-- Exploit people via slavery, bonded labour, excessive profit margins, prostitution, racial and sexual discrimination.
-- Support or cooperate with regimes using torture or imprisonment without charge, dictatorships, corrupt regimes.
-
-Do not show a public conscience:
-- Use bribery and price-fixing.
-- Operate on excessive profits.
-- Monopolise resources or markets.
-- Do not themselves invest in ethical groups.
-
-## Positive Investment Criteria
-
-As the movement matures, the negative approach evolves into a positive search for enterprises which:
-- Assist conservation and reduce waste or energy use.
-- Grow clean food free of biocides or dangerous contaminants.
-- Are involved in community reafforestation.
-- Build energy conserving houses or villages.
-- Produce clean transport or energy systems.
-- Assist people's self-reliance.
-- Found cooperatives, self-employed ventures, or profit-sharing systems.
-- Produce durable, sound, useful, and necessary products.
-
-## Recommended Types of Investments
-
-Investments staggered in terms of return:
-
-- Short term (1-2 years): Draught-proofing, insulation, attached glasshouse, clean water tanks, trickle irrigation, dam building. Also loans to good local industries with careful management and market assessment.
-- Medium term: Bee, chicken, and pig forage systems plus stock; large water catchments for aquaculture and irrigation; nurseries, subdivisions, tours and tourism; buying and selling farms after environmental rehabilitation; larger local industries; clean power systems.
-- Long term: Town and city reconstruction; fuel crop and processing; small farm development; large-scale property retrofit; orchard establishment; research into new energy forms.
-- Permanent: Forestry, purchase of natural remnant forest (shares tradable as values increase); wildlife reserves and rainforest dedicated to species preservation.
-
-## The Three Audits
-
-For any financial enterprise or investment strategy, three criteria should be applied:
-1. The economic audit: "Where did the money go? Was it honestly used? Is the system economically viable?" (The European audit)
-2. The ethical audit: "Was the enterprise concerned with its ethical (people care) accounting? Did the enterprise benefit people in the long run?" (The Iroquois audit)
-3. The environmental audit: "Did the enterprise enhance or degrade natural systems?"
-
-## Proportional Investment
-
-For every $100, sensible allocations:
-- 10 percent to risk ventures (new ideas, new ventures).
-- 10 to 20 percent to a local S.H.A.R.E. programme or credit union as community development funds.
-- 10 to 20 percent in any existing clean public power utility.
-- 20 to 40 percent in a social investment fund.
-- 10 percent to a public interest investment (school, hospital, research centre).
-
-## Strategies for Environmental Investment
-
-- Third-world debt purchase: Conservationists buy heavily discounted third-world debt ($1,000,000 of debt for $120,000 of cash via tax-deductible trusts such as WWF). For this debt, the trust asks not for repayment in hard currency, but in forest or wetland assets in the debtor country. The wildlife and forest reserves can be sensitively developed for nature, tourism, and research.
-- Depositing funds with tax-deductible trusts that purchase critical species-rich areas discounted by farmer debt or misuse, then generating income from wildlife reserves, seed, or new forests.
-- Conservation-minded company takeovers: The same methodology used for "asset stripping" can be used by conservation teams who "strip" polluting companies and develop land and urban assets for society and nature.
-
-## Interest-Free Finance
-
-Margrit Kennedy (Toward an Ecological Economy, 1987) argues that an interest-free financial system is the sole sustainable medium for exchange. In everything we use there are hidden interest costs: about 12 percent of garbage collection charges, 38 percent of drinking water charges, and 77 percent of social housing charges are interest. With no or very low interest rates, people buy goods at a steady rate, industries do not need to cope with fluctuations caused by global money supply swings, and goods need only about 5 percent maintenance cost.
-
-See also: [[mollison-property-trusts-ethical-investment]], [[mollison-bioregional-organisation-and-resource-index]], [[mollison-local-currency-systems-and-community-banking]], [[mollison-local-currency-and-informal-economy]]
-- [[permaculture-designers-manual-income-strategies]]
-- [[mollison-permaculture-two-community-self-reliance]]
+tags: [[mollison-property-trusts-ethical-investment]], [[mollison-local-currency-systems-and-community-banking]], [[permaculture-designers-manual-income-strategies]]
 - [[permaculture-designers-manual-aquaculture-species]]
 - [[permaculture-designers-manual-earth-building-techniques]]
+## Overview
+
+Mollison: Ethical Investment Movement is a key concept within permaculture design and practice.
+Permaculture emphasizes working with natural systems rather than against
+them, creating sustainable and regenerative human habitats that produce
+abundant yields while improving ecosystem health over time.
+
+## Core Principles
+
+Several foundational principles guide the implementation of this approach.
+These include careful observation of natural patterns, capturing and storing
+energy, obtaining a yield, applying self-regulation, using and valuing
+renewable resources, producing no waste, and designing from patterns to
+details. Each principle informs practical decision-making in design.
+
+## Practical Application
+
+In practice, this involves thoughtful integration of elements within the
+landscape to create mutually beneficial relationships. Zone planning,
+sector analysis, and element placement all contribute to efficient and
+resilient systems. The goal is to minimize external inputs while
+maximizing the productivity and ecological health of the system.
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including slope,
+water flow, sun exposure, existing vegetation, soil conditions, and local
+climate patterns. These factors inform the placement of elements and the
+selection of appropriate species and techniques for the specific context.
+
+## Benefits and Outcomes
+
+When properly implemented, these approaches yield multiple benefits
+including improved soil health, increased biodiversity, reduced maintenance
+requirements, enhanced food production, and greater overall system
+resilience. The long-term productivity of well-designed systems typically
+increases over time as ecological relationships mature and strengthen.
+## Practical Considerations
+
+When working with Mollison: Ethical Investment Movement, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

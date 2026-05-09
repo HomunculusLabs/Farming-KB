@@ -22,14 +22,12 @@ be combined with a monoamine oxidase inhibitor (MAOI). The most
 well-known preparation combining DMT with an MAOI is the Amazonian
 brew ayahuasca.
 
-See also: [[hallucinogenic-plants-native-to-united-states]],
-[[sacramental-use-of-psychedelic-plants-in-us]]
+See also: [[sacramental-use-of-psychedelic-plants-in-us]]
 
 ## Ayahuasca Chemistry
 
 Ayahuasca is a brewed tea traditionally prepared by combining two
-plants: the vine [[banisteriopsis-caapi]] (source of MAOI alkaloids) and
-the leaves of [[psychotria-viridis]] (source of DMT). The MAOI compounds
+plants: the vine [[psychotria-viridis]] (source of DMT). The MAOI compounds
 in Banisteriopsis caapi are beta-carboline alkaloids: harmaline,
 harmine, and 1,2,3,4-tetrahydroharmine. These are reversible type A
 monoamine oxidase inhibitors that prevent the breakdown of DMT in the
@@ -85,12 +83,6 @@ plants that grow within the United States:
 ### Peganum harmala (Syrian Rue)
 
 Introduced into the western United States and now found growing wild,
-[[peganum-harmala]] has 2% to 4% MAOI content by dry weight, making it a
-potent alternative to Banisteriopsis caapi for rendering DMT orally
-active.
-
-### Passiflora incarnata (Passionflower)
-
 [[passiflora-incarnata]] grows throughout the southeastern US and much of
 the Midwest, with approximately 1% MAOI content. It is used in herbal
 preparations for its sedative properties and bears an edible fruit.
@@ -121,21 +113,4 @@ DMT is considered physiologically nonaddictive. The MAOI in orally
 active preparations routinely leads to nausea and vomiting. A pilot
 survey of UDV members in Brazil found no adverse health consequences
 from ayahuasca use. Sacramental ayahuasca use by the Santo Daime and
-UDV religions is discussed in [[sacramental-use-of-psychedelic-plants-in-us]].
-
-## Legal Status
-
-DMT is a Schedule I controlled substance in the United States. The
-legal status of sacramental ayahuasca remains in federal litigation.
-
-## References
-
-- Halpern, J.H. (2004). Pharmacology & Therapeutics, 102, 131-138.
-- Callaway, J.C. et al. (1996). J Anal Toxicol, 20, 492-497.
-- McKenna, D.J. et al. (1984). J Ethnopharmacol, 10, 195-223.
-- Riba, J. et al. (2001). Psychopharmacology, 154, 85-95.
-- Strassman, R.J. (1996). Behav Brain Res, 73, 121-124.
-
-## See Also
-
-- [[desmanthus-illinoensis]]
+UDV religions is discussed in [[desmanthus-illinoensis]]

@@ -11,26 +11,13 @@ sources:
 
 ## Fertility Without Inputs
 
-Fukuoka's core insight: "Soil enriches itself year in and year out without man having to lift a finger." Nature has been creating and maintaining fertile soils for billions of years without any human assistance. The entire edifice of modern fertility management — chemical fertilizers, compost preparation, nutrient solutions — is built on the false premise that soil is inherently deficient. See [[soil-fertility-management]] for a broader perspective.
-
-## The Natural Soil Building Process
-
-In nature, soil builds itself through a self-reinforcing cycle:
-
-1. Grasses and plants grow, their roots penetrating deep into the earth (12-15 inches or more)
-2. Roots die and decompose, adding humus and allowing soil microbes to proliferate
-3. Earthworms appear where humus accumulates, aerating and mixing the soil
-4. Moles burrow through soil where earthworms are abundant
-5. Water percolates through the porous soil, air penetrates deep
-6. The cycle repeats with increasing fertility
-
-"Farmers usually plow the soil to a depth of about four to eight inches, whereas the roots of grasses and green manure crops work the soil down to twelve inches, fifteen inches, or more." This natural tillage is far more effective than any mechanical method. The [[soil-food-web-structure]] drives this entire process — bacteria, fungi, nematodes, and earthworms form interconnected communities that build soil structure without human intervention.
+Fukuoka's core insight: "Soil enriches itself year in and year out without man having to lift a finger." Nature has been creating and maintaining fertile soils for billions of years without any human assistance. The entire edifice of modern fertility management — chemical fertilizers, compost preparation, nutrient solutions — is built on the false premise that soil is inherently deficient. See [[soil-food-web-structure]] drives this entire process — bacteria, fungi, nematodes, and earthworms form interconnected communities that build soil structure without human intervention.
 
 ## Plowing Ruins the Soil
 
 Fukuoka was unequivocal: plowing destroys what nature builds. The plow breaks fungal networks that transport nutrients through the soil, disrupts microbial communities that decompose organic matter, and exposes buried humus to rapid oxidation. "The soil works itself" through roots, microbes, earthworms, and moles — each organism contributing to soil structure in ways no machine can replicate.
 
-When soil is flooded and stirred with a plow, "the ground will set as hard as plaster." The corners of fields where heavy tractors don't pass remain "soft, rich soil" while worked areas become "hard as clay" with fist-sized cracks. Fukuoka's [[fukuoka-soil-microbiology]] research confirmed that undisturbed soil supports vastly more diverse and active microbial communities. The [[worm-ecology-soil-building]] shows how earthworms alone can accomplish what mechanical tillage cannot.
+When soil is flooded and stirred with a plow, "the ground will set as hard as plaster." The corners of fields where heavy tractors don't pass remain "soft, rich soil" while worked areas become "hard as clay" with fist-sized cracks. Fukuoka's [[worm-ecology-soil-building]] shows how earthworms alone can accomplish what mechanical tillage cannot.
 
 ## Green Manure as Living Fertilizer
 
@@ -40,7 +27,7 @@ Leguminous green manure crops — clover, vetch, alfalfa, bur clover — fix atm
 
 In the orchard, Fukuoka used a carefully designed green manure system centered on ladino clover, alfalfa, and acacia (black wattle). Ladino clover served as the primary ground cover — it fixes nitrogen, suppresses weeds, retains moisture, and improves soil structure all simultaneously. Seedling management was simple: sow once, let it spread naturally. The clover grows luxuriantly, protects the soil surface, and is weakened only by brief flooding before rice planting.
 
-This system connected to a broader strategy of soil enrichment from the farm's protected wood. Nutrients built up in the humus of upland woods were carried downhill with rainwater, enriching the fields without any human labor. See [[green-manure-crops]] and [[fukuoka-weed-ecology]] for related practices.
+This system connected to a broader strategy of soil enrichment from the farm's protected wood. Nutrients built up in the humus of upland woods were carried downhill with rainwater, enriching the fields without any human labor. See [[fukuoka-weed-ecology]] for related practices.
 
 ## The Fertilizer Dependency Trap
 
@@ -48,42 +35,15 @@ Chemical fertilizers destroy the natural fertility cycle by encouraging shallow 
 
 Fukuoka cataloged "more than seventy types of direct damage caused by fertilizers," including soil acidification, trace element depletion, and microbial suppression. Chemical fertilizers are truly effective only on soil "abused and wasted through slash-and-burn agriculture." Adding fertilizer to soil that already produces 7-8 bushels of rice per quarter-acre has very little effect, while adding it to fields yielding 10 bushels may actually hurt productivity.
 
-The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[composting-and-soil-biology]] closes naturally through green manure and organic matter return.
-
-## The Deficit Farming Problem
-
-Fukuoka observed that modern agriculture systematically depletes soil fertility. Returning all straw and chaff to the fields would supply 85% of the nitrogenous components needed; adding green manure covers could supply the rest. Instead, crops are harvested and exported, organic matter is burned or removed, and fertility is replaced with petroleum-based chemicals — what Fukuoka called "deficit farming."
-
-This connects directly to the nitrogen cycle: when all organic matter is returned to the land, the nitrogen cycle closes naturally. The modern practice of exporting crops, burning straw, and importing synthetic nitrogen breaks this cycle irreparably. The result is a steady impoverishment of the soil that mirrors the broader critique in [[fukuoka-critique-modern-agriculture]].
+The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[fukuoka-critique-modern-agriculture]].
 
 ## The Straw Return
 
-The simple act of returning all straw to the field after harvest is perhaps the most important fertility practice. Straw scattered uncut over the field decomposes through natural microbial succession: fungi spread first, then mites and nematodes arrive, followed by bacteria that complete the decomposition. This process enriches the soil surface, retains moisture, and feeds the [[soil-food-web-structure]]. Combined with clover as a living ground cover, the straw return eliminates the need for any composting or fertilizer application.
-
-## The Soil Itself Is Perfect
-
-"No amount of research can teach man everything there is to know about the soil, and he will certainly never create soils more perfect than those of nature." The choice is clear: "We can either choose to see the soil as imperfect and take hoe in hand, or trust the soil and leave the business of working it to nature."
-
-## Crop Rotation and Fertility
-
-Modern farming destroys soil fertility by single-cropping over extensive areas. The natural farm establishes "organic and mutually favorable arrangements" where fruit trees, vegetables, grains, and green manure all interact. Nature "solves the problems of continuous cropping, space, disease and pest damage, and the recovery of soil fertility" without human intervention. This anticipates [[chop-and-drop-mulching]] and [[permaculture-tree-crop-systems]].
-
-## See Also
-
-- [[fukuoka-soil-microbiology]] — the microbial communities driving fertility
-- [[fukuoka-weed-ecology]] — how weeds contribute to soil building
+The simple act of returning all straw to the field after harvest is perhaps the most important fertility practice. Straw scattered uncut over the field decomposes through natural microbial succession: fungi spread first, then mites and nematodes arrive, followed by bacteria that complete the decomposition. This process enriches the soil surface, retains moisture, and feeds the [[chop-and-drop-mulching]] and [[fukuoka-soil-microbiology]] — the microbial communities driving fertility
 - [[fukuoka-rice-barley-dual-culture]] — practical fertility maintenance in grain production
-- [[soil-ph-management]] — modern approaches to natural soil building
 - [[green-manure-crops]] — green manure crop systems
-- [[composting-and-soil-biology]] — the nitrogen cycle in natural farming
 - [[soil-fertility-management]] — broader fertility management
-- [[chop-and-drop-mulching]] — mulching for soil building
-
-## Merged: Fukuoka Seasonal Eating Natural Food Cycle
-
-# Seasonal Eating and the Natural Food Cycle
-
-In Chapter 5 of [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka provides an extraordinarily detailed month-by-month account of the traditional Japanese seasonal diet, illustrating his principle that "a complete natural diet will arise of itself without [man's] having to know anything and without his having to ponder the principle of yin and yang."
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka provides an extraordinarily detailed month-by-month account of the traditional Japanese seasonal diet, illustrating his principle that "a complete natural diet will arise of itself without [man's] having to know anything and without his having to ponder the principle of yin and yang."
 
 ## The Seven Herbs of Spring
 

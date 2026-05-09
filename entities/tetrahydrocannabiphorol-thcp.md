@@ -70,7 +70,7 @@ The 2019 study demonstrated in vivo cannabinoid activity in mice using the class
 
 The effective dose of THCP was approximately **5–10 times lower** than Δ⁹-THC across all four measures, confirming that the enhanced CB1 affinity translates to greater in vivo potency.
 
-### Proposed Contribution to "Entourage Effect"
+### Proposed Contribution to "cannabis terpenes and the entourage effect"
 
 A significant implication of THCP's discovery is its potential role in explaining the variable psychoactivity of different cannabis varieties. The Italian researchers hypothesized that THCP may be present at concentrations too low to detect by standard analytical methods, yet sufficient — given its 33× potency advantage — to contribute meaningfully to the overall pharmacological effect. This could partially explain why some cannabis samples produce unexpectedly strong effects despite modest Δ⁹-THC levels.
 
@@ -81,17 +81,7 @@ As of 2026, comprehensive safety and toxicity data for THCP are lacking:
 - **Acute toxicity**: No published LD₅₀ data; the extreme potency suggests a narrow therapeutic window
 - **Chronic effects**: No long-term studies exist
 - **Pharmacokinetics**: Absorption, distribution, metabolism, and excretion profiles are unknown
-- **Drug interactions**: Potential for significant CYP450 interactions based on structural similarity to Δ⁹-THC
-- **Psychological risk**: The high potency raises concerns about acute anxiety, dissociation, and psychosis risk, particularly in naïve users
-
-## Natural Occurrence
-
-THCP has been detected in trace amounts in multiple cannabis varieties:
-
-- **FM2** (Italian medical cannabis): 0.0029% by weight in the inflorescence
-- **Other varieties**: Detected in small quantities across multiple chemotypes, though comprehensive surveys remain limited
-
-The extremely low natural concentrations mean that THCP is unlikely to produce significant effects on its own from natural cannabis consumption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
+- **[[emcdda-psilocybin-flashbacks-and-persistent-psychosis-risk]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
 
 ## Synthetic and Semi-Synthetic Production
 
@@ -104,29 +94,7 @@ THCP can be synthesized through several routes, most commonly by adapting establ
 
 ### Semi-Synthetic from Natural Precursors
 
-Given the low natural abundance, most THCP used in research is produced semi-synthetically. The Italian research team's discovery was notable precisely because they isolated it from natural plant material rather than synthesizing it.
-
-## Legal Status
-
-- **United States**: Not explicitly scheduled at the federal level. As a naturally occurring phytocannabinoid, it may fall under the same regulatory framework as other hemp-derived cannabinoids, though its extreme potency has prompted discussions about specific scheduling.
-- **Europe**: Not specifically listed in the UN Convention on Psychotropic Substances. Individual EU member states vary in their regulatory approach.
-- **International**: The UN Commission on Narcotic Drugs has not yet reviewed THCP for scheduling.
-
-## Research Directions
-
-Key areas of active and future research include:
-
-- **Comprehensive occurrence surveys**: Systematic quantification of THCP across cannabis varieties using sensitive analytical methods
-- **Clinical pharmacology**: Human pharmacokinetic and pharmacodynamic studies
-- **Structure-activity relationships**: How side-chain length affects activity (C₃ through C₉ homologs)
-- **Therapeutic potential**: Whether the enhanced potency offers advantages for specific medical applications at very low doses
-- **Forensic significance**: Whether THCP quantification should be included in cannabis product testing panels
-
-## See Also
-
-- [[delta-8-thc]]
-- [[cannabigerol-cbg]]
-
+Given the low natural abundance, most THCP used in research is produced semi-synthetically. The Italian research team's discovery was notable precisely beca [[delta-8-thc]]
 - [[tetrahydrocannabinol-thc]] — The parent compound and primary psychoactive cannabinoid
 - cannabidiphorol cbdp — The heptyl homolog of CBD, discovered alongside THCP
 - [[delta-8-thc]] — Another minor cannabinoid with distinct psychoactive properties

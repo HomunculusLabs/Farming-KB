@@ -22,35 +22,7 @@ sources:
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
-- **Class:** [[agar]]icomycetes
-- **Order:** Boletales
-- **Family:** Coniophoraceae
-- **Genus:** Coniophora
-
-The genus *Coniophora* belongs to the Boletales, which is an order dominated by ectomycorrhizal fungi (boletes) but also includes several important wood-decay genera. The taxonomic placement of brown rot fungi within the Boletales has been the subject of phylogenetic investigation, with evidence suggesting that brown rot may have evolved independently multiple times within this order.
-
-## Morphology
-
-### Basidiocarps
-- **Fruiting Body:** The basidiocarps of *C. puteana* are resupinate (crust-like), developing flat on the surface of affected wood or occasionally on adjacent masonry
-- **Surface:** Initially buff-colored to pale ochraceous, becoming darker brown with age. The surface is smooth to finely wrinkled or warty
-- **Texture:** Soft and waxy when fresh, becoming hard and brittle when dry
-- **Hymenium:** The fertile surface is covered with basidia and basidiospores
-- **Basidiospores:** Cylindrical to ellipsoidal, smooth, thin-walled, approximately 7 to 10 by 4 to 5 μm, hyaline (colorless)
-- **Cystidia:** Cylindrical to capitate cystidia are present, which can aid in microscopic identification
-
-### Mycelium and Decay Characteristics
-- **Mycelium:** White to creamy-yellow initially, becoming darker brown with age. Unlike *Serpula lacrymans*, *C. puteana* does not produce conspicuous cottony mycelial sheets or rhizomorphs
-- **Strands:** May produce fine, flat, brownish mycelial strands in humid conditions, but these are much less developed than the rhizomorphs of *S. lacrymans*
-- **Decay Type:** Brown rot, characterized by the removal of cellulose and hemicellulose while leaving lignin largely intact. Decayed wood becomes brown, dry, and cracks transversely and longitudinally into cubical fragments (cubical fracture)
-
-## Wood Decay Mechanism
-
-As a brown rot fungus, *C. puteana* employs a distinct strategy for wood decomposition:
-
-1. **Fenton Chemistry:** The primary mechanism involves the generation of hydroxyl radicals through Fenton reaction chemistry. The fungus secretes oxalic acid and reduces Fe3+ to Fe2+, which then reacts with hydrogen peroxide to produce highly destructive hydroxyl radicals (OH•)
-2. **Non-Enzymatic Decay:** Hydroxyl radicals diffuse into the wood cell wall ahead of the hyphal front, depolymerizing cellulose and hemicellulose non-enzymatically. This allows the fungus to access polysaccharides without needing to physically penetrate the lignin-rich middle lamella
-3. **Limited Lignin Modification:** Unlike [[white-rot-fungi]], brown rot fungi do not extensively degrade lignin but do cause some chemical modification, including demethoxylation
+- **Class:** [[white-rot-fungi]], brown rot fungi do not extensively degrade lignin but do cause some chemical modification, including demethoxylation
 4. **Moisture Requirement:** The decay process requires a high wood moisture content, typically above 20 to 25 percent. Sources of moisture include plumbing leaks, rising damp, condensation, and poor ventilation
 
 ## Habitat and Distribution
@@ -129,7 +101,6 @@ Standardized protocols for working with *C. puteana* include:
 
 ## See Also
 
-- [[serpula-lacrymans]]
 - [[gloeophyllum-trabeum]]
 - brown-rot-fungi
 - [[wood-decay-fungi]]

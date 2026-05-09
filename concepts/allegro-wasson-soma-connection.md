@@ -18,7 +18,7 @@ between the two men's theories, remain contested.
 ## Wasson's SOMA (1968)
 
 Wasson's SOMA proposed that the mysterious Vedic Soma, praised throughout the
-Rig Veda, was the [fly-[[agar]]ic mushroom ([[amanita-muscaria]]). Published in an expensive
+Rig Veda, was the [flyic mushroom ([[amanita-muscaria-entity]]). Published in an expensive
 limited edition and subsequently as a trade paperback, the book argued that
 Soma's description in the Rig Veda matched the fly-agaric's properties and that
 the practice of recycling the mushroom's active compounds through urine
@@ -112,21 +112,6 @@ rather than the transcendent visions described in religious texts.
 
 Wasson himself admitted to being "at a loss to explain the failure" of his own
 experiments with the fly-agaric. Unlike the comparatively dependable action of
-[[psilocybin-compound]], there is simply no way of predicting which way the fly-agaric
-experience will go.
+[[wasson-brough-soma-debate]]
 
-## Legacy
-
-The Wasson-Allegro connection represents two very different approaches to the
-question of mushrooms in ancient religion. Wasson's work, despite its flaws,
-retains scholarly value and continues to be debated. Allegro's work, by contrast,
-has been almost entirely discredited, though it continues to circulate in
-popular mushroom culture.
-
-## See Also
-
-- [[wasson-brough-soma-debate]]
-
-- [[wasson-hofmann-ruck-theory]] - Wasson biography
-- john allegro - Allegro biography
 - [[sacred-mushroom-and-the-cross]] - Allegro's book

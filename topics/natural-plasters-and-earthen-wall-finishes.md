@@ -1,7 +1,7 @@
 ---
 title: Natural Plasters and Earthen Wall Finishes
 tags:
-  - natural-building
+  - [[natural-building]]
   - plaster
   - lime
   - clay
@@ -382,4 +382,4 @@ Natural plasters offer significant environmental advantages over conventional fi
 - **The Hand-Sculpted House** by Ianto Evans, Michael G. Smith, and Linda Smiley — the definitive [[cob-building-basics-detailed]] manual with extensive plastering guidance
 - **Building with Cob** by Adam Weismann and Katy Bryce — practical guide including earthen plasters
 - **The Natural Plaster Book** by Cedar Rose Guelberth and Dan Chiras — comprehensive reference for clay, lime, and gypsum plasters
-- **Apprenticeship opportunities** at natural building organizations such as Cob Cottage Company (Oregon), The Cob Builders Association (UK), and various permaculture institutes worldwide
+- **Apprenticeship opportunities** at natural building organizations such as Cob Cottage Company (Oregon), The Cob Builders Association (UK), and various [[permaculture]] institutes worldwide

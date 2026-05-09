@@ -9,7 +9,7 @@ sources:
 ---
 # Sandoz Delysid Research Program
 
-The systematic research and medical distribution program established by the Sandoz pharmaceutical company in Basel, Switzerland, for [LSD following [[albert-hofmann]]'s discovery of its psychoactive properties in 1943.
+The systematic research and medical distribution program established by the Sandoz pharmaceutical company in Basel, Switzerland, for [LSD following gordon-wasson's discovery of its psychoactive properties in 1943.
 
 ## From Discovery to Medical Product
 
@@ -113,5 +113,8 @@ For a while, distribution was stopped completely. Later, most countries proclaim
 
 The Sandoz Delysid program represented an unprecedented approach to pharmaceutical distribution — making a powerful psychoactive substance available to qualified researchers worldwide with minimal commercial restrictions. For nearly two decades, this "nobile officium" policy, exercised with the highest standards of medical ethics and self-imposed precautions, made possible the golden age of psychedelic therapy research.
 
-See also: [[lsd-discovery-and-history]], [[lsd-therapeutic-history]], albert hofmann, [[lsd-history]], Psychedelic Therapy Models Comparison
-- [[psychedelic-research-legal-history-united-states]]
+See also: [[lsd-therapeutic-history]], albert hofmann, [[psychedelic-research-legal-history-united-states]]
+
+## See Also
+
+- [[hofmann-lsd-sandoz-research-program]]

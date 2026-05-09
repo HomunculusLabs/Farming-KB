@@ -16,13 +16,7 @@ type: concept
 
 # Sector Analysis - Wind, Sun, Fire and Site Energies
 
-Sector analysis is a fundamental tool in [[permaculture-design]] for
-mapping the energies that flow across a site from outside. Bill Mollison
-defines sectors as the external forces -- sun, wind, fire, water, noise,
-pollution, views, and wildlife -- that influence site design. While zones
-organize elements by frequency of use (energy directed outward from the
-center), sectors organize design responses to incoming energies. A thorough
-sector analysis is essential to [[mollison-designers-site-analysis-mapping-observation]] and precedes all
+Sector analysis is a fundamental tool in [[mollison-designers-site-analysis-mapping-observation]] and precedes all
 design decisions.
 
 ## The Sector Concept
@@ -54,20 +48,7 @@ and high overhead in summer. Mollison advises placing the home and main
 growing areas to capture maximum winter sun while providing summer shade.
 Deciduous trees on the southern side provide summer shade but allow winter
 sun penetration. Evergreen windbreaks on the northern side block cold
-winds without shading. See [[passive-solar-design]] for building
-integration.
-
-## Wind Sectors
-
-Wind analysis identifies prevailing wind directions, seasonal variations,
-and extreme wind events. Mollison categorizes winds as:
-- Prevailing winds: the most common wind direction year-round
-- Seasonal winds: predictable seasonal shifts (monsoons, Santa Ana)
-- Cold winds: winter winds from polar directions requiring deflection
-- Hot winds: dry summer winds causing desiccation
-- Moist winds: winds carrying rainfall that should be captured
-
-Design responses include windbreaks (see [[mollison-windbreak-design]]) for cold or
+winds without shading. See [[mollison-windbreak-design]]) for cold or
 damaging winds, funnelling structures for cooling breezes, and planted
 shelterbelts that slow wind without creating turbulence. Mollison notes
 that windbreak effectiveness depends on species selection, height, density,
@@ -90,21 +71,7 @@ Mollison's fire design strategies include:
 - Building design with non-combustible materials on the fire-exposed side
 - Multiple escape routes from all occupied areas
 
-Fire sector design connects to [[permaculture-slope-analysis-and-reading]] because fire behavior is
-strongly influenced by topography.
-
-## Water Flow Sectors
-
-Water sectors map the direction of surface water flow, groundwater movement,
-and flood risk. Mollison emphasizes that water is the most important design
-element in any landscape. Analysis includes:
-- Watershed boundaries and catchment areas above the site
-- Natural drainage patterns, swales, and watercourses
-- Flood frequency and extent on different parts of the site
-- Springs, seeps, and groundwater levels
-- Existing water storage and distribution infrastructure
-
-Design responses use [[keyline-design]] principles to capture, store, and
+Fire sector design connects to [[keyline-design]] principles to capture, store, and
 redirect water across the landscape. Swales, contour banks, and diversion
 drains channel water from high-risk areas to productive use. Riparian zones
 are protected and enhanced for water quality and flood mitigation.
@@ -131,14 +98,7 @@ are enhanced by framing with vegetation, creating focal points from key
 positions. Undesirable views are screened with layered plantings. Privacy
 from neighbors, roads, and public areas is achieved through hedgerows,
 earthworks, and strategic building placement. These considerations integrate
-with [[permaculture-housing-design]].
-
-## Wildlife and Mapping Methodology
-
-Wildlife corridors create sectors that bring beneficial species (predators,
-pollinators, songbirds) onto the site. Identify existing corridors and
-enhance them; conversely, pest species corridors may need blocking. See
-[[permaculture-wildlife-corridors]].
+with [[permaculture-wildlife-corridors]].
 
 Mollison's sector mapping process: (1) draw a base map with boundaries and
 features, (2) mark north and magnetic declination, (3) research climate data
@@ -147,4 +107,3 @@ consult locals about historical patterns, (6) overlay each sector using
 different colors, (7) identify compound sectors, and (8) prioritize by
 impact intensity. The sector map feeds into [[mollison-designers-design-methods-overview-process]] and
 all subsequent design. Sector analysis is ongoing, refined through
-observation.

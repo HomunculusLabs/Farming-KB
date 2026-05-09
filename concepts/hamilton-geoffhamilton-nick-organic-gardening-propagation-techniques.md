@@ -31,8 +31,7 @@ organically raised plants for the entire garden.
 The best way to ensure that everything in your garden has been
 cultivated organically is to grow as much as possible from seed. Either
 sow directly into your garden, or start seeds in the
-[[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]. Prepare the soil well for sowing
-outside and use a good [[mollison-designers-composting-toilets-and-humanure]] if you are sowing in
+[[mollison-designers-composting-toilets-and-humanure]] if you are sowing in
 containers.
 
 ### Sowing Outside
@@ -103,48 +102,9 @@ water or even prevent young seedlings breaking through to the light.
 
 By sowing seeds in trays or pots inside you can start much earlier in
 the year. Vegetables can be sown in midwinter and planted out under
-cloches in early spring. A [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] is ideal
-for this purpose because it is easier to control the environment.
-
-Fill a pot or tray with moist seed compost and firm it up lightly.
-Then level the top of the compost and firm up the soil. When sowing in
-containers, it is very important to moisten compost thoroughly before
-sowing. Cover all except very small seeds with their own depth of
-vermiculite. Then cover the pot or tray with a piece of opaque plastic
-and put it in a warm place.
-
-Check the seeds every day and, as soon as the first one germinates and
-pushes to the surface, remove the whole container to a light place. Do
-not put the container in direct sunlight.
-
-## The Stale Seedbed Technique
-
-If the soil is prepared and in a condition for seeds to germinate, the
-weed seeds that are almost certainly lying there will soon be springing
-into life, too. Being native, they will germinate faster and grow
-quicker than most cultivated varieties. The simple remedy is to
-cultivate the seedbed a few weeks before you need it. Let weed seeds
-germinate, then hoe them out immediately before sowing.
-
-## Pots and Containers
-
-Wood and clay are the traditional materials used for raising and growing
-on plants. However, plastic and styrofoam containers now available are
-much cheaper and in some respects give improved results. Plastic seed
-trays are very easy to sterilize with boiling water and are much cheaper
-than wood. Module trays are particularly useful as they are divided into
-smaller, individual cells. Because the roots are never disturbed, this
-eliminates the growth check that sometimes follows transplanting.
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
+cloches in early spring. A [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[home-garden-seed-saving]]
 - [[plant-propagation-methods]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] for controlled environment growing
 - [[mollison-designers-composting-toilets-and-humanure]] for making your own potting compost

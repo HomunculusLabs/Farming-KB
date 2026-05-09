@@ -3,7 +3,7 @@ title: Fungal Endophytes Grass Crop Systems
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -79,15 +79,10 @@ Endophytes mediate plant-herbivore interactions, influence plant community compo
 
 ## See Also
 
-- [[tagasaste-nurse-crop-fodder-systems]]
-
 - [[fungal-endophyte-diversity-patterns]]
-- [[fungal-nematode-interactions-biodiversity]]
 - [[mycorrhizal-fungi-bioremediation]]
-- [[microfungal-species-diversity-large-areas]]
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]
 
 Source: Comprehensive review of fungal biodiversity literature
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-biodiversity-in-soil-ecosystems]]

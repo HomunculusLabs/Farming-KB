@@ -108,13 +108,10 @@ The NL#5 cut remains one of the most sought-after clone-only genetics in cultiva
 
 ## See Also
 
-- [[cannabis-indica]]
 - [[cannabis-sativa]]
-- [[cannabis-blue-dream]]
 - [[og-kush-cannabis-entity]]
 - cannabis skunk
 - cannabis haze
 - cannabis chemdawg
-- [[myrcene]]
 - [[granddaddy-purple]]
 - [[white-widow-cannabis]]

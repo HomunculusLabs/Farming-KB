@@ -1,7 +1,7 @@
 ---
 title: Environmental DNA Fungal Survey
 created: 2026-04-28
-tags: [mycology, metabarcoding, genomics, biodiversity, methodology]
+tags: [[mycology, metabarcoding, genomics, biodiversity, methodology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -117,13 +117,6 @@ reference matches.
 
 Beyond biodiversity surveys, fungal eDNA is increasingly applied to practical questions in agriculture and environmental monitoring. Soil health assessments use fungal community composition as a bioindicator, tracking shifts toward saprotrophic or pathogenic dominance that signal soil degradation. Plant pathogen surveillance networks deploy air and soil eDNA sampling to detect crop-threatening fungi such as *Puccinia graminis* (wheat stem rust) and *Fusarium* species before visible symptoms appear. In restoration ecology, eDNA monitoring tracks the recovery of mycorrhizal communities after disturbance, providing a metric of below-ground ecosystem recovery that is invisible to surface surveys.
 
-Metabarcoding data is also being integrated with functional gene profiling (metagenomics and metatranscriptomics) to move beyond species lists toward understanding what fungal communities are actually doing — which enzymes they express, what nutrients they cycle, and how they respond to environmental change. This functional approach bridges the gap between [[fungal-enzyme-activity-nutrient-availability]] measurements and community-level ecology.
-
-## See Also
-
-- environmental dna fungal survey
-
-- [[fungal-species-estimates]]
-- [[biodiversity-fungi-tropical-fungal-diversity]]
+Metabarcoding data is also being integrated with functional gene profiling (metagenomics and metatranscriptomics) to move beyond species lists toward understanding what fungal communities are actually doing — which enzymes they express, what nutrients they cycle, and how they respond to environmental change. This functional approach bridges the gap between [[fungal-species-estimates]]
 - [[cryptic-fungal-species]]
 - [[fungal-taxonomic-impediment]]

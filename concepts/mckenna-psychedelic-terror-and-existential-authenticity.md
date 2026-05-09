@@ -125,8 +125,9 @@ accessing the full range of what the tryptamine state has to offer.
 
 ## See Also
 
-- [[i-thou-relationship-with-psychedelic-entities]]
-- mckenna dmt phenomenology and cognitive dissonance of wonder
-- [[dmt-experience-and-hyperspace-entities]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
+- [[mckenna-dmt-experience-and-hyperspace]]
 - [[tryptamine-hypercontinuum]]
+
+## See Also
+
+- [[mckenna-invention-of-lsd-and-psychedelic-sixties]]

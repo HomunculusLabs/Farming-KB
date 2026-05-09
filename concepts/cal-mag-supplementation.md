@@ -34,90 +34,9 @@ the plant.
 ## Magnesium's Role
 
 Magnesium is the central atom in the chlorophyll molecule and is essential for
-[[photosynthesis-and-chloroplast-function]]. Without adequate magnesium, plants cannot
-produce chlorophyll and leaves turn yellow (chlorosis). Magnesium is mobile in plants
-and moves from older leaves to new growth, so deficiency symptoms appear first on
-lower, older leaves.
-
-Magnesium is classified as a mobile nutrient. Mobile nutrients -- nitrogen (N),
-phosphorus (P), potassium (K), magnesium (Mg), and zinc (Zn) -- are able to
-translocate, move from one portion of the plant to another as needed. Deficiency
-symptoms appear on the older, lower leaves first.
-
-## Calcium Deficiency Symptoms
-
-- Growing tips die back (apical necrosis)
-- Young leaves are distorted, crinkled, or curled
-- Leaf tips and edges may become necrotic
-- Stems are weak and brittle
-- Root tips may die, reducing nutrient uptake
-- Blossom-end rot in severe cases
-
-## Magnesium Deficiency Symptoms
-
-- Interveinal chlorosis on older (lower) leaves -- yellowing between veins while
-  veins remain green
-- Leaves may develop reddish or purple tones
-- In severe cases, leaves become necrotic and drop
-- Slow overall growth
-- Reduced flower and resin production
-
-## Causes of Deficiency
-
-- **Low calcium/magnesium in water source:** RO or distilled water contains virtually
-  none
-- **Certain growing media:** Coco coir naturally binds calcium and releases potassium,
-  creating frequent calcium deficiency
-- **High potassium fertilization:** Excess potassium competes with calcium uptake
-- **Incorrect pH:** pH outside the optimal range locks out calcium and magnesium
-- **Soft water:** Water with low mineral content provides less Ca/Mg
-- **Excess sodium:** Sodium is taken up by roots very quickly and can block enough
-  other nutrients causing severe deficiencies
-
-Sodium, calcium, and magnesium can be harmful in the soil if present in excess. Too
-much magnesium creates rapid uptake of trace elements but does not always cause visible
-symptoms immediately.
-
-## Dolomite Lime
-
-Dolomite (dolomitic limestone) is the most practical source of calcium and magnesium for
-soil gardens. It supplies both nutrients while buffering soil pH. When preparing soil
-or soilless mixes, incorporate one cup of fine dolomite per cubic foot (one ounce per
-gallon) of planting medium. This provides long-term Ca/Mg supply and stabilizes pH at
-6.5-7.0.
-
-Fine dolomite lime has long been a favorite pH stabilizer for gardeners. It is
-difficult to apply too much. The easiest way to stabilize soil pH is to mix in one cup
-of fine dolomite lime per cubic foot (0.25 liters) of potting soil. Mix dolomite lime
-thoroughly into dry soil. Remix the soil in the container after it has been watered.
-
-## Cal Mag Supplements
-
-Commercial calcium-magnesium supplements (often called "Cal-Mag") are widely available.
-Common formulations include:
-
-- **Calcium nitrate + magnesium nitrate:** Water-soluble for hydroponic use
-- **Calcium carbonate + magnesium carbonate:** For soil amendment
-- **Epsom salt (magnesium sulfate):** Provides magnesium and sulfur but no calcium
-
-## Application Rates
-
-Follow manufacturer recommendations for commercial products. When using Epsom salt, one
-teaspoon per gallon of water provides approximately 100 ppm of magnesium. For hydroponic
-systems, maintain calcium at 150-300 ppm and magnesium at 40-80 ppm in the nutrient
-solution.
-
-## Cal Mag and CO2 Enrichment
-
 [[co2-enrichment-cannabis]] accelerates growth, which increases demand for all nutrients
 including calcium and magnesium. CO2-enriched plants may require higher Ca/Mg levels than
-non-enriched plants. Monitor [[ec-tds-cannabis]] and watch for deficiency symptoms.
-
-## Cal Mag and pH Interaction
-
-Calcium availability decreases in acidic conditions (low pH). If soil pH drops below
-6.0, calcium becomes less available even when present in adequate quantities. Maintaining
-proper [[ph-management-cannabis]] ensures calcium and magnesium remain bioavailable.
+non-enriched plants. Monitor [[ph-management-cannabis]] ensures calcium and magnesium remain bioavailable.
 
 ## Cal Mag During Flowering
 
@@ -128,10 +47,66 @@ significantly during flowering as bud structures develop rapidly.
 
 ## See Also
 
-- [[ph-management-cannabis]] -- pH affects Ca/Mg availability
 - [[ec-tds-cannabis]] -- monitoring nutrient concentration
-- [[silica-cannabis]] -- another beneficial supplement
 - [[co2-enrichment-cannabis]] -- increased nutrient demand
 - Cannabis Growing Mediums -- Ca/Mg needs vary by medium
-- [[flushing-nutrients]] -- removing excess Ca/Mg salts
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
+## Practical Considerations
+
+When working with Cal Mag Supplementation, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

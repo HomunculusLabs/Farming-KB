@@ -14,8 +14,7 @@ updated: 2026-05-03
 sources:
   - Morton JF. Fruits of Warm Climates. 1987. Purdue University.
   - Orwa C et al. Agroforestree Database. 2009. World Agroforestry Centre (ICRAF).
-  - Battle I, Tous J. Carob Tree: Ceratonia siliqua L. Promoting the Conservation and Use of Underutilized Crops. 1997. IPGRI.
-  - Youssef MM et al. Tamarindus indica: A Review of Traditional Uses, Phytochemistry and Pharmacology. Afr J Pharm Pharmacol. 2013.
+  - Battle I, Tous J. Carob Tree: [[tamarindus-indica]]: A Review of Traditional Uses, Phytochemistry and Pharmacology. Afr J Pharm Pharmacol. 2013.
   - El Boushihi M et al. Carob (Ceratonia siliqua L.) Products. J Food Sci Technol. 2021.
 type: comparison
 created: 2026-05-03
@@ -143,7 +142,5 @@ Both species are relatively pest-free compared to most fruit trees, reflecting t
 Carob moth is the most significant carob-specific pest, infesting pods in storage. Tamarind's primary post-harvest issue is fungal growth on pods stored in humid conditions.
 ## See Also
 
-- [[query-how-to-grow-and-care-for-a-tamarind-tree]] — comprehensive tamarind growing guide
 - [[comparison-mesquite-vs-black-locust-vs-carob-tree]] — carob in broader leguminous tree comparison
-- [[mollison-arid-lands-design-and-erosion-control]] — both trees in dryland design
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] — integrating these trees into farming systems

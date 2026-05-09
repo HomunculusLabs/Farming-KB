@@ -129,7 +129,9 @@ Procedure:
 
 ## See Also
 
-- [[natural-farming-lab-preparation]]
 - [[natural-farming-knf-overview]]
-- [[natural-farming-fpj-preparation]]
 - [[natural-farming-ohn-preparation]]
+
+## See Also
+
+- [[chos-natural-farming-imo-collection-cultivation]]

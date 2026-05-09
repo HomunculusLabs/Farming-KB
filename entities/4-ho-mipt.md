@@ -4,11 +4,6 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - [[tryptamine]]
-  - substance
-  - synthetic
-  - entheogen
-  - research-chemical
   - [[serotonin]]-receptor
   - hallucinogen
   - tiHKAL
@@ -26,7 +21,7 @@ sources:
 
 ## Overview
 
-4-HO-MiPT (4-hydroxy-N-methyl-N-isopropyltryptamine) is a synthetic psychedelic tryptamine and a close structural analog of [[psilocin]] (4-HO-DMT). It belongs to the substituted tryptamine class and is positioned within the "4-substituted" family alongside compounds such as 4-HO-DMT (psilocin), 4-HO-MET (metocin), 4-HO-Di4 aco dmt-DMT, and others catalogued by Alexanann-shulgin]] Shulgin in TiHKAL (Tryptamines I Have Known and Loved). First synthesized and bioassayed by the Shulgins, 4-HO-MiPT is distinguished by its N-isopropyl-N-methyl substitution pattern, which modulates its pharmacokinetic profile — producing effects broapsilocin-synthesis-4-hydroxy [[indole]]-to-psilocin]] to psilocin but with a shorter duration and distinctive perceptual character described by users as "cleaner," more visual, and less cognitively loaded. It is widely regarded in the research chemical and psychonaut communities as one of the most aesthetically pleasing and well-tolerated members of the 4-HO-tryptamine series.
+4-HO-MiPT (4-hydroxy-N-methyl-N-isopropyltryptamine) is a synthetic psychedelic tryptamine and a close structural analog of  (4-HO-DMT). It belongs to the substituted tryptamine class and is positioned within the "4-substituted" family alongside compounds such as 4-HO-DMT (psilocin), 4-HO-MET (metocin), 4-HO-Di4 aco dmt-DMT, and others catalogued by Alexanann-shulgin Shulgin in TiHKAL (Tryptamines I Have Known and Loved). First synthesized and bioassayed by the Shulgins, 4-HO-MiPT is distinguished by its N-isopropyl-N-methyl substitution pattern, which modulates its pharmacokinetic profile — producing effects broapsilocin-synthesis-4-hydroxy -to-psilocin to psilocin but with a shorter duration and distinctive perceptual character described by users as "cleaner," more visual, and less cognitively loaded. It is widely regarded in the research chemical and psychonaut communities as one of the most aesthetically pleasing and well-tolerated members of the 4-HO-tryptamine series.
 
 ## Chemical Profile
 
@@ -43,7 +38,7 @@ sources:
 ## Structural Relationships
 
 4-HO-MiPT occupies a well-defined position in the tryptamine structure-activity relationship (SAR):
-- **Core**: Indole ethylamine backbone identical to psilocin, DMT, and [[bufotenin]]
+- **Core**: Indole ethylamine backbone identical to psilocin, DMT, and 
 - **4-position hydroxyl**: Confers 5-HT₂A receptor affinity comparable to psilocin (the 4-OH is the primary pharmacophore for classical psychedelic activity in this series)
 - **N-substitution**: N-methyl-N-isopropyl group; the N-isopropyl moiety distinguishes it from psilocin (N,N-dimethyl) and 4-HO-MET (N-methyl-N-ethyl). The bulkier isopropyl group increases lipophilicity, which affects BBB penetration kinetics and duration of action
 - **Acetylated analog**: 4-AcO-MiPT is the acetylated prodrug form, theorized (by analogy to 4-AcO-DMT → psilocin) to convert to 4-HO-MiPT in vivo via deacetylation
@@ -65,7 +60,7 @@ sources:
 - **Onset**: 20–60 minutes (oral); 5–15 minutes (insufflated)
 - **Peak effects**: 1.5–2.5 hours post-dose (oral)
 - **Duration**: 4–6 hours (oral), shorter than psilocin (6–8 hours) and significantly shorter than LSD (8–12 hours). This shorter duration is attributed to the N-isopropyl group, which alters metabolic clearance
-- **Metabolism**: Primarily hepatic, involving monoamine oxidase (MAO-A) oxidative deamination and cytochrome P450-mediated hydroxylation. The 4-OH group undergoes [[glucuronidation]] for renal excretion
+- **Metabolism**: Primarily hepatic, involving monoamine oxidase (MAO-A) oxidative deamination and cytochrome P450-mediated hydroxylation. The 4-OH group undergoes  for renal excretion
 - **Detection**: Not included in standard drug screening panels; requires specialized LC-MS/MS analysis for detection
 
 ## Dosage Ranges
@@ -93,7 +88,7 @@ sources:
 
 **Cognitive effects**: Characterized by a "clean" headspace relative to psilocin — users frequently report less mental confusion, looping thought patterns, and existential weight. The cognitive component is often described as lucid and present, allowing for clearer introspection without the overwhelming ego dissolution common with higher-dose psilocin or LSD.
 
-**Emotional effects**: Mood elevation, gentle euphoria, and enhanced emotional sensitivity. Anxiety is less commonly reported than with other psychedelics, though [[set-and-setting]] remain paramount.
+**Emotional effects**: Mood elevation, gentle euphoria, and enhanced emotional sensitivity. Anxiety is less commonly reported than with other psychedelics, though  remain paramount.
 
 **Sensory enhancement**: Heightened appreciation of music (enhanced auditory perception, synesthetic elements), tactile sensitivity, and taste. Music enhancement is frequently cited as a highlight.
 
@@ -141,8 +136,8 @@ sources:
 | Shulgin catalog | TiHKAL |
 | Relative potency | Similar to psilocin (mg-for-mg) |
 
-## Relevance
-
-4-HO-MiPT represents an important compound in the pharmacological study of tryptamine structure-activity relationships, demonstrating how N-substitution patterns modulate the duration, character, and tolerability of classical psychedelic effects. Its favorable subjective profile — strong visuals with a clean cognitive headspace — has made it a popular subject in psychopharmacological research and a frequently studied comparator in receptor binding assays. Within the broader context of psychedelic science, 4-HO-MiPT illustrates the nuanced pharmacology of the 4-substituted tryptamine series and contributes to understanding how subtle structural modifications can significantly alter the psychedelic experience.
+## See Also
 
 ## See Also
+- [[psychedelic-mushroom-effects-guide]]
+- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]

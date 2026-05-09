@@ -124,13 +124,8 @@ In traditional medicine, dried puffball spore powder has been applied as a stypt
 
 ## See Also
 
-- [[lycoperdon-perlatum]]
 - [[lycoperdon-marginatum]]
-- [[calvatia-gigantea]]
 - [[calvatia-cyathiformis]]
-- [[sphaerobolus-stellatus]]
 - [[coprinus-comatus-detailed]]
-- [[agaricus-campestris]]
 - [[pleurotus-ostreatus]]
-- [[mycoremediation]]
 - [[hugelkultur]]

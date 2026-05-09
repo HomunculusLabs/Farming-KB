@@ -119,14 +119,8 @@ immune responses.
 
 ## Related Topics
 
-- [[blesching-cannabis-mrsa]] - Cannabis antibacterial research against
-  drug-resistant bacteria
 - [[blesching-cannabis-hiv-aids]] - Gonorrhea screening in HIV patients
-- [[blesching-cannabis-immune-system-modulation]] - CB2 receptor
-  modulation of immune responses
 - [[blesching-cannabis-cystitis]] - Related urogenital conditions treated
   historically with cannabis
-- [[blesching-cannabinoid-pharmacology]] - CBD-acid and COX-2 inhibition
-  mechanisms
 - [[blesching-endocannabinoid-system-overview]] - Endocannabinoid system
   role in immune function

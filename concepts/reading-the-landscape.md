@@ -19,16 +19,7 @@ type: concept
 Reading the landscape is the foundational skill in Sepp Holzer's approach to
 permaculture. Before any earthworks, planting, or water management can begin,
 the practitioner must learn to observe and interpret what the land itself is
-communicating. This observational methodology underpins all of [[holzer-permaculture-landscape-design]] practice.
-
-## The Aerial Perspective
-
-For Holzer, reading the landscape starts from above. When flying in a plane
-and taking pictures from the air, one can see natural and man-made landmarks
-and the shape of the landscape. The land reveals how it has been shaped over
-millions of years, how water has formed the landmass, and how humans have
-excluded water from places. The mistakes of centuries become visible: floods,
-forest fires, [[desertification-causes-reversal]], and loss of
+communicating. This observational methodology underpins all of [[desertification-causes-reversal]], and loss of
 biodiversity appear as logical consequences of human interference.
 
 From above, one can see how land consolidation has emptied landscapes. Regions
@@ -116,7 +107,5 @@ zones where water retention spaces should be placed.
 
 ## See Also
 
-- [[contour-line-water-management]] for using contour lines in practice
 - [[holzer-water-landscapes-retention]] for creating water-based landscapes
-- [[holzer-pond-lake-design]] for detailed water body design
 - [[permaculture-zones-in-practice]] for zone planning methodology

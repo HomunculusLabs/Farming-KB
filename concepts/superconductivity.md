@@ -133,6 +133,7 @@ accelerating the search for new superconductors. The 2022 retraction of Dias's
 room-temperature C-S-H claim underscored the field's reproducibility challenges.
 ## Related Topics
 
-- [[permaculture-solar-energy-inventions]]
-- [[pdc-energy-systems-and-appropriate-technology]]
 - [[bamboo-as-building-material]]
+
+See also: [[holistic-grazing-and-pasture-management]]
+See also: [[seed-saving-and-plant-breeding]]

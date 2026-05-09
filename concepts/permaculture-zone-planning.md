@@ -3,20 +3,13 @@ title: Permaculture Zone Planning
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [permaculture, design]
-sources: []
----
-# Permaculture Zone Planning
-
-Permaculture zone planning is the fundamental spatial design methodology that organizes elements on a site according to the frequency of human attention and management they require.
-
-Developed by [[permaculture-design]] and described in detail in Permaculture: A Designers' Manual, zone planning ensures that energy, time, and resources are used efficiently by placing high-maintenance elements closest to the center of activity and low-maintenance elements further away.
+tags: [[permaculture-design]] and described in detail in Permaculture: A Designers' Manual, zone planning ensures that energy, time, and resources are used efficiently by placing high-maintenance elements closest to the center of activity and low-maintenance elements further away.
 
 Zonation works from Zone 0, the house or village itself, outward through increasingly less-intensively managed zones. The system is based on two key factors: the number of times you need to visit a plant, animal, or structure, and the number of times the element needs you to visit it.
 
 For example, a poultry shed may require 460 visits per year for eggs, manure, watering, and culling, while an oak tree may be visited only twice to collect acorns. The zones are therefore frequency zones for visits, or time zones.
 
-[[permaculture-design]] uses zone planning alongside [[sectors-in-permaculture]] analysis (external energies like sun, wind, fire) and slope analysis to create comprehensive site layouts.
+[[sectors-in-permaculture]] analysis (external energies like sun, wind, fire) and slope analysis to create comprehensive site layouts.
 
 Zone planning is complementary to Permaculture Zone Design Comparison approaches used in urban settings.
 
@@ -28,7 +21,7 @@ In Zone 0, the available energy is human labor, animal power, piped-in resources
 
 In some climates, these structures are formed from the natural environment and will in time return to it, using bamboo, rattan, wattle and daub, thatch, and earth-covered or earth-sheltered structures.
 
-See [[permaculture-building-design]] and [[energy-efficient-house-design]] for Zone 0 strategies.
+See [[energy-efficient-house-design]] for Zone 0 strategies.
 
 ## Zone 1: The Home Garden
 
@@ -38,7 +31,7 @@ Elements placed here need continual observation, frequent visits, and complex te
 
 Techniques in Zone 1 include complete mulching, intensive pruning of trees, annuals with fast crop replacement, full land use, and nutrient recycling of household wastes. In Zone 1, we arrange nature to serve our needs.
 
-This zone is where [[permaculture-domestic-animals]] are kept closest. [[permaculture-seed-saving]] often centers around Zone 1 mother plants.
+This zone is where [[permaculture-seed-saving]] often centers around Zone 1 mother plants.
 
 ## Zone 2: The Orchard and Forage Zone
 
@@ -50,17 +43,7 @@ Where winter forces all people and animals indoors, joint accommodation units ar
 
 Home orchards are established here with less intensive pruning or care. Water may be piped from Zone 3 or conserved by species selection.
 
-[[food-forest-design]] elements often begin in Zone 2.
-
-## Zone 3: The Farm Zone
-
-Zone 3 is the farm zone of commercial crops and animals for sale or barter. It is managed by green manuring, spreading manure from Zone 2, and soil conditioning.
-
-It contains natural or little-pruned trees, broadscale farming systems, large water storages, soil absorption of water, feed stores, barns, and field shelters as hedgerow or windbreak.
-
-[[permaculture-animal-integration]] systems operate at this scale, and [[permaculture-crop-rotation]] is practiced here.
-
-Large water storages and [[permaculture-dam-design]] elements are placed in Zone 3 for gravity-fed irrigation to lower zones.
+[[permaculture-animal-integration]] systems operate at this scale, and [[permaculture-dam-design]] elements are placed in Zone 3 for gravity-fed irrigation to lower zones.
 
 ## Zone 4: The Forage and Forest Zone
 
@@ -70,7 +53,7 @@ It is planted to hardy, unpruned, or volunteer trees. Where water is stored, it 
 
 Wind energy may be used to lift water to other areas, or other dependable technology used.
 
-[[permaculture-earthworks]] are common in Zone 4, and [[mollison-woodlot-timber-durability-and-hedgerow-barriers]] describes systems at this scale.
+[[mollison-woodlot-timber-durability-and-hedgerow-barriers]] describes systems at this scale.
 
 ## Zone 5: The Wilderness Zone
 
@@ -78,21 +61,7 @@ Zone 5 is the natural, unmanaged environment used for occasional foraging, recre
 
 This is where we learn the rules that we try to apply elsewhere. Zone 5 provides wildlife corridors, genetic reservoirs, and reference ecosystems.
 
-The concept connects to [[permaculture-ethics-foundation]] of caring for the earth and preserving wild systems.
-
-## Deforming Zones to Fit Landscapes
-
-The perfect concentric ring model does not fit real sites. Designers deform the zone pattern to fit the landscape by bringing wedges of wilderness (Zone 5) right to the front door as corridors for wildlife, birds, and nature.
-
-Alternatively, regularly used zones can be extended along frequently used paths. A loop track can be created to place components along frequently traveled routes, effectively stretching zones along paths of movement.
-
-In Zone 1, designers are information developers who tend intensive systems. In Zone 2, nature begins to take over more of the management role.
-
-The factors that change in zone planning as distance increases include the main design purpose (from domestic sufficiency to gathering and forestry), plant establishment methods (from complete sheet mulching to soil conditioning only), pruning approaches (from intensive espalier to unpruned volunteer trees), and tree selection (from selected dwarf varieties to thinned natural regeneration).
-
-Zone planning is one of the first concepts taught in [[permaculture-design-course-notes]] and remains central to [[permaculture-design-principles]].
-
-The approach can be applied at any scale, from [[urban-permaculture-design]] to [[permaculture-community-scale-design]], making it one of the most universally applicable tools in permaculture.
+The concept connects to [[permaculture-design-course-notes]] and remains central to [[urban-permaculture-design]] to [[permaculture-community-scale-design]], making it one of the most universally applicable tools in permaculture.
 
 ## Merged: Permaculture Papaya
 

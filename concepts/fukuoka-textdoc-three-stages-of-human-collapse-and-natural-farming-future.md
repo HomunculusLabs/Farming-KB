@@ -118,10 +118,7 @@ For the individual farmer, the implication is clear: begin the transition now. E
 
 ## See Also
 
-- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
-- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]

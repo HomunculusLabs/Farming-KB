@@ -124,18 +124,10 @@ to restore a surface lignite mine.
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-
 - [[mycorrhiza]]
 
-- [[glomus-intraradices]]
-
 - [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus of heathlands
-- [[laccaria-laccata]] - ectomycorrhizal fungus for comparison
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus with pathogen protection
-- [[suillus-luteus]] - ectomycorrhizal pine specialist
 - [[cladosporium-cladosporioides]] - saprotrophic fungus in soil food webs
-- [[paxillus-involutus]] - ectomycorrhizal species with heavy metal tolerance
 - [[mycena-galopus]] - saprotroph preferred by collembola over AMF
-- [[glomus-fasciculatus]]
 - [[scutellospora-calospora]]

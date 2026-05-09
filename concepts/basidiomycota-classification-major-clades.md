@@ -17,14 +17,7 @@ type: concept
 # Basidiomycota Classification and Major Clades
 
 The Basidiomycota is one of the two large phyla of the
-Kingdom [[symbiotic-fungi-mycorrhizal-carbon-trading]], comprising approximately
-30,000 described species including mushrooms, bracket fungi,
-puffballs, rusts, smuts, and yeasts. The phylum is
-characterized by the production of basidia -- specialized
-cells on which sexual spores (basidiospores) are formed
-externally. The Basidiomycota includes many of the most
-familiar and ecologically important fungi, as well as
-significant plant pathogens and [[fungal-speciation-evolution]].
+Kingdom [[fungal-speciation-evolution]].
 
 ## Defining Features
 
@@ -47,21 +40,7 @@ All Basidiomycota share the following synapomorphies:
 
 ### Ustilaginomycotina (Smuts)
 
-The Ustilaginomycotina contains the [[smut-fungi-grass-cereal-parasites]],
-which are obligate biotrophic parasites of flowering plants,
-especially grasses and sedges. Key features include:
-
-- Teliospores as the primary survival and dispersal
-  structures
-- Infection primarily through host meristematic tissues
-- Systemic or localized infections producing dark, sooty
-  spore masses
-- Important plant pathogens including Ustilago (corn smut)
-  and Tilletia (bunt and stinking smut of wheat)
-
-### Pucciniomycotina (Rusts)
-
-The Pucciniomycotina contains the [[rust-fungi-biodiversity-life-cycles]],
+The Ustilaginomycotina contains the [[rust-fungi-biodiversity-life-cycles]],
 which are among the most economically important plant
 pathogens. Features include:
 
@@ -102,7 +81,7 @@ over 10,000 described species. It includes:
 
 - **Cortinariaceae** -- Cortinarius, the largest genus of
   agarics with over 2,000 species, many forming
-  ectomycorrhizal fungi tree associations
+  [[ectomycorrhizal-fungi]] tree associations
   associations
 - **Boletaceae** -- boletes with poroid hymenophores
   (Boletus, Suillus, Leccinum)

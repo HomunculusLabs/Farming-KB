@@ -13,22 +13,7 @@ type: concept
 
 Microclimates are mini climates that exist within
 larger climates. Understanding and exploiting
-microclimates is one [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most important skills
-for outdoor cannabis growers, especially those
-facing early frosts, short growing seasons, or
-challenging weather patterns.
-
-## Understanding Microclimates
-
-Maps are available detailing microclimate areas.
-The USDA Hardiness Zone map divides North America
-into zones based on average annual minimum
-temperatures. Zone 11 represents areas with
-average annual minimum temperatures above 40F
-(4.4C) that are frost-free. Look into detailed
-microclimate maps for your specific grow zone.
-
-One [[allegro-colour-and-consistency-of-the-amanita-muscaria]] most detailed climate maps can be
+microclimates is one [[allegro-colour-and-consistency-of-the-amanita-muscaria]] most detailed climate maps can be
 found in Sunset's Western Garden Book, which
 details 26 distinct climate zones in 13 Western
 States and British Columbia and Alberta, Canada.
@@ -42,21 +27,14 @@ surrounding elevated terrain.
 
 ## Coastal Climates
 
-Coastal climates like those found [[allegro-death-and-resurrection-in-the-mushroom-cult]]
-Northwestern United States, British Columbia,
-Northern Coastal Europe, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] United Kingdom
+Coastal climates like those found [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] United Kingdom
 are cool and rainy. Annual rainfall most often
 exceeds 40 inches and can be as high as 100
 inches. Winter blows in early, bringing chilling
 rain and low light levels. Growing outdoors here
 is challenging because the temperature seldom
 drops below freezing, contributing to larger
-insect populations [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] growth from cold
-and damp conditions.
-
-## Alpine Mountain Climates
-
-Alpine mountain climates are cold much [[allegro-names-of-the-gods-and-their-fertility-origins]]
+insect populations [[allegro-names-of-the-gods-and-their-fertility-origins]]
 year. Freezing temperatures, mineral-heavy acidic
 soil, and wind top the list of grower concerns.
 Summer temperatures in the mountains can dip to
@@ -107,42 +85,8 @@ paper, glass, and jars, or buy commercial units
 made of rigid transparent plastic or heavy-duty
 wax paper.
 
-### Wall O' [[water-management]]
-
-The Wall O' Water is a plant life-saver. It is a
-water-filled teepee which uses the heat-emitting
-properties of water to shield plants from excess
-heat and keep them warm in the cold. It holds three
-gallons (11.5 L) of water and fits over the plant.
-During the day the water absorbs solar heat, and at
-night releases it, keeping the plant comfortable. As
-water freezes, it releases even more heat and can
-protect plants down to 20F (-7C).
-
-### Row Covers and Blankets
-
-The most uncomplicated cover is a sheet or blanket
-spread over the plant and held down with stones or
-soil. A low-wattage electric light bulb carefully
-placed under the cover will raise the temperature
-10-15F (5.5-8C) above the rest of the garden.
-
-Products such as Agronet and Reemay are spun-fiber
-with sun-protection properties. Row tunnels can be
-made of clear corrugated fiberglass bent into an
-arch. Commercial row covers made with polypropylene
-will protect plants down to 25F (-5C).
-
-## Timing Around Frost
-
-Plant at the proper times, well after last frost.
-Harvest before first frost. Start clones or
-seedlings indoors to get a jump on the season, then
-move containerized plants into heated greenhouses
-to start hardening-off before transplanting
-outdoors. See [[greenhouse-cannabis-growing]] for
+### Wall O' [[greenhouse-cannabis-growing]] for
 more on protected cultivation.
 
 ## See Also
-- [[green-cannabis-grow-bible-outdoor-growing]]
 - [[cervantes-wind-protection-outdoor-cannabis]]

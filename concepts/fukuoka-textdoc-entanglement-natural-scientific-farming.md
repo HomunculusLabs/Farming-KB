@@ -11,31 +11,7 @@ type: concept
 
 # The Entanglement of Natural and Scientific Farming
 
-Fukuoka argues that [[fukuoka-natural-farming-philosophy]] and scientific
-farming are diametrically opposed, yet many people mistakenly believe they
-are intertwined like strands of a rope. This misunderstanding arises from
-the belief that science is intimately allied with nature, when in reality
-the two proceed in opposite directions.
-
-## Opposite Directions of Movement
-
-Natural farming moves centripetally toward nature, and scientific farming
-moves centrifugally away from nature. The paths of nature and of science are
-forever parallel and never cross. Moreover, because they proceed in opposite
-directions, the distance between nature and science grows ever larger. As it
-moves along its path, science appears to maintain a cooperative association
-with nature, but in reality it aspires to dissect and analyze nature
-completely. Having done so, it discards the pieces and moves on without
-looking back. It hungers for struggle and conquest.
-
-Thus, with every two steps forward that science takes, it moves one step
-back, returning to the bosom of nature and drinking of its knowledge. Once
-nourished, it ventures again three or four steps away from nature.
-
-## The Sericulture Case Study
-
-Fukuoka illustrates this entanglement through the history of silkworm
-cultivation, a topic also explored in [[fukuoka-sericulture-nature-vs-science]].
+Fukuoka argues that [[fukuoka-sericulture-nature-vs-science]].
 
 ### From Nature to Artificiality
 
@@ -111,7 +87,7 @@ with scientific farming.
 The lesson of sericulture is clear: any apparent return toward natural
 methods is temporary if it remains within the framework of scientific
 thinking. True natural farming requires a fundamental shift in worldview,
-not merely a change in techniques. See [[fukuoka-natural-farming-vs-organic-farming]] and [[fukuoka-theory-three-ways-of-farming]].
+not merely a change in techniques. See [[fukuoka-theory-three-ways-of-farming]].
 
 ## The Pattern Repeats
 
@@ -125,8 +101,6 @@ believing that man can improve upon nature through knowledge and action.
 
 ## See Also
 
-- [[fukuoka-sericulture-nature-vs-science]]
 - [[fukuoka-natural-farming-vs-organic-farming]]
-- [[fukuoka-theory-three-ways-of-farming]]
 - [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-four-principles-natural-farming]]

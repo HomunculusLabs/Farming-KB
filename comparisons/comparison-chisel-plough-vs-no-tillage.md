@@ -13,8 +13,7 @@ type: comparison
 
 ## Overview
 
-The [[chisel-plough-soil-conditioning-mollison]] and 
-[[no-tillage-grain-systems]] represent two contrasting philosophies of soil 
+The [[no-tillage-grain-systems]] represent two contrasting philosophies of soil 
 management that occupy opposite ends of the disturbance spectrum. The chisel 
 plough, as described by Bill Mollison, is a one-time soil rehabilitation tool 
 that fractures compacted layers without inverting the soil profile, enabling 
@@ -130,9 +129,6 @@ the minimum intensity needed to restore biological function.
 
 ## See Also
 
-- [[chisel-plough-soil-conditioning-mollison]] for Mollison's two-phase method
 - [[no-tillage-grain-systems]] for Fukuoka's approach and details
-- [[fukuoka-no-till-grain-production-method]] for grain-specific no-till methods
 - [[mollison-grain-crops-and-no-tillage-systems]] for integrated grain systems
-- [[fukuoka-white-clover-cover-crop-system]] for living mulch in no-till
 - [[hamilton-deep-bed-system]] for hand-scale no-till bed preparation

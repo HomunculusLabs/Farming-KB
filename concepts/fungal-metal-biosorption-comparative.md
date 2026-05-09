@@ -3,53 +3,10 @@ title: Fungal Metal Biosorption — Comparative Analysis
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
-# [[fungal-metal-biosorption]] — Comparative Analysis
-
-## Overview
-
-This page provides a comparative analysis of metal biosorption across fungal genera, drawing from Tobin's review of fungal metal biosorption. Biosorption refers to non-metabolism-dependent metal binding to cell walls, as distinct from bioaccumulation (metabolism-dependent uptake). For the foundational distinction, see [[fungal-bioaccumulation-vs-biosorption]], and for detailed mechanisms see [[fungal-biosorption-mechanisms]].
-
-## Biosorption vs. Bioaccumulation
-
-| Feature | Biosorption | Bioaccumulation |
-|---|---|---|
-| Metabolism dependence | Independent | Dependent |
-| Primary location | Cell wall | Cell interior |
-| Speed | Rapid (minutes) | Slower (hours-days) |
-| Living cells required | No | Yes |
-| Typical uptake | 0.1–1.0 mmol/g dry weight | Generally lower for filamentous fungi |
-| Reversibility | Generally reversible | Irreversible |
-
-For filamentous fungi, metabolism-dependent uptake is small or negligible compared to biosorption values. Bioaccumulation has been most studied in yeasts.
-
-## Comparative Uptake Across Fungal Genera
-
-### Mucorales (Highest Performers)
-Members of the order Mucorales consistently exhibit the highest biosorption levels:
-
-| Biomass | Cation | Maximum Uptake (mmol/g) | Reference |
-|---|---|---|---|
-| Rhizopus oligosporus | Pb²⁺ | 1.1 | Ariff et al., 1999 |
-| Mucor meihi | Cr³⁺ | 1.15 | Tobin & Roux, 1998 |
-| Rhizopus arrhizus (pre-treated) | Pb²⁺ | 0.61 | Yin et al., 1999 |
-| R. arrhizus (pre-treated) | Cu²⁺ | 0.60 | Yin et al., 1999 |
-| R. arrhizus (pre-treated) | Cd²⁺ | 0.56 | Yin et al., 1999 |
-| R. arrhizus (pre-treated) | Zn²⁺ | 0.53 | Yin et al., 1999 |
-| Rhizopus arrhizus | Cu²⁺ | 0.40 | Brady et al., 1999 |
-| R. arrhizus | Cr³⁺ | 0.21 | Pillichshammer et al., 1995 |
-| Mucor racemosus | Zn²⁺ | 0.20 | Zhou, 1999 |
-
-Rhizopus and Mucor genera are well-documented with generally the highest uptake values across a range of metals.
-
-### Aspergillus Species
-Despite early reports of poor performance, more recent studies show moderate-to-good capacity:
-
-| Biomass | Cation | Maximum Uptake (mmol/g) | Reference |
-|---|---|---|---|
-| [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
+# [[fungal-bioaccumulation-vs-biosorption]], and for detailed mechanisms see [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
 | Aspergillus oryzae | Cd²⁺ | 0.38 | Yin et al., 1999 |
 
 A. fumigatus shows particularly high uranium uptake, consistent with the general trend of uranium being biosorbed to high levels across all genera.

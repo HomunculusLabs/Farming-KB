@@ -1,72 +1,10 @@
 ---
 title: Mollison on Pasture Legumes and Forage Legumes of the Tropics
 created: 2026-04-26
-tags: [permaculture, legumes, forage, tropical-pasture, nitrogen-fixation]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Pasture Legumes and Forage Legumes of the Tropics
-
-In [[permaculture-designers-manual-earth-building-techniques]], Mollison provides a detailed
+tags: [[permaculture-designers-manual-earth-building-techniques]], Mollison provides a detailed
 compendium of pasture and forage legumes suited to tropical and
 subtropical systems. These species are essential components of any
-sustainable grazing system, providing [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]], soil building,
-high-protein livestock feed, and ground cover for erosion control. They
-combine with the tropical grass species to create productive, resilient
-pasture systems. This topic connects closely with [[mollison-animal-integration-in-permaculture]] and [[mollison-animal-range-management]].
-
-## The Role of Legumes in Pasture Systems
-
-A mixture of legumes with a selected grass species plus some storable
-forage is ideal for the tropics. Most grazing systems can extend under
-palms, between large tree crops, or as a complex with belts of forage
-tree legumes yielding fodder, fruit, pods, or large seed for food
-concentrates. Each soil type, location, rainfall area, slope type, and
-main crop needs assessment and planning.
-
-The leaf swards valued by graziers may also suit green-crop cover for
-orchardists where regular slashing for easy fruit harvest is practiced.
-Soils under slashed pastures are of excellent structure, and erosion is
-effectively stopped.
-
-## Key Pasture Legume Species
-
-### Calapo (Calopogonium mucunoides)
-
-A short-lived twining perennial used mainly as a pioneer of burnt or
-slashed weed areas to smother weeds before permanent systems are
-established. Suited only to low-frost coastal areas of high rainfall
-(above 125 cm) and moderately shade tolerant. Reseeds, but can be
-grazed or cut out. High seedling vigour makes it valuable for initial
-site preparation.
-
-### Centro (Centrosema pubescens)
-
-A twining perennial used in both pastures and grain crops. Prefers more
-than 125 cm rain, warm climate between the tropics. Excellent cut forage
-and soil-builder, tolerant of wide soil range, acid soils, short
-flooding, and some frost. Ideal for guinea-grass permanent pastures,
-banna, pangola, and para grasses. Climbs to 14 m so is not suited to
-short perennial crops, bushes, or small trees. Can be broadcast in burns
-or slash areas, or drilled. Seed may need hot water treatment and
-inoculation. Persists well under grazing.
-
-### Kenya White Clover (Trifolium semipilosum)
-
-Persists well in shortgrass pastures and dairy strip grazing systems
-with more than 100 cm rainfall or irrigation. Flowers in autumn and
-spring. Needs a good seedbed, scarification, and inoculation for
-successful establishment.
-
-### Greenleaf Desmodium (Desmodium intortum)
-
-A vigorous trailing perennial used as understory in tall orchards after
-establishment. Affected by frost and needs more than 100 cm rain, but
-valuable for [[ingham-bacterial-fungal-succession]] in sandy soils, for early spring and autumn
+sustainable grazing system, providing [[mollison-animal-integration-in-permaculture]] and [[ingham-bacterial-fungal-succession]] in sandy soils, for early spring and autumn
 growth. Tolerant of poor soils and stands some waterlogging. Needs
 rotational grazing. Seeds need inoculant. Companion legume is Glycine
 for wind control.
@@ -98,7 +36,7 @@ autumn as a winter reserve. Ideal rainfall at 80-180 cm. Does best on
 well-drained deep red soils but also yellow clays and black cracking
 soils, provided they are not subject to waterlogging. Needs rotational
 grazing and should be rested in late spring. Good for silage (with
-molasses), mulch, and fertility restoration of soils. This kind of deep-rooted [[nitrogen-fixing-trees-and-shrubs]] forage is central to [[holmgren-permaculture-principles-7-9]] grazing design.
+molasses), mulch, and fertility restoration of soils. This kind of deep-rooted [[holmgren-permaculture-principles-7-9]] grazing design.
 
 ### Lucerne (Medicago sativa)
 

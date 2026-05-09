@@ -21,36 +21,6 @@ primarily through its autoflowering trait, which has been bred into modern
 hybrid varieties to create the autoflowering cannabis category.
 
 ## Cannabis Sativa
-[[cannabis-sativa]]
-
-Cannabis sativa L. is the most commercially and culturally significant cannabis
-species, originally classified by Carl Linnaeus in 1753. Landrace sativa
-varieties originate from equatorial and tropical regions including Southeast
-Asia, Central America, Africa, and parts of India, where long growing seasons
-and consistent day lengths favored tall, lanky plants with extended flowering
-periods. Sativa plants are characterized by their height (often exceeding 3
-meters outdoors), narrow fingered leaflets, loose bud structure, and long
-internodal spacing.
-
-Sativa strains are typically associated with cerebral, uplifting, and energetic
-effects, though the sativa/indica effect dichotomy is increasingly understood as
-an oversimplification of the actual pharmacological picture determined by
-individual cannabinoid and terpene profiles. Flowering times for pure sativa
-varieties range from 10-16 weeks, significantly longer than indica varieties,
-which contributed to the development of indica-sativa hybrids for commercial
-cultivation. Sativa plants thrive in warm, tropical, or subtropical climates and
-can become enormous in Mediterranean outdoor environments, sometimes requiring
-8+ months from seed to harvest.
-
-The long flowering time and tall stature make pure sativas challenging for
-indoor cultivation, where height management and timely harvest cycles are
-practical concerns. However, sativa genetics contribute desirable traits to
-breeding programs: complex terpene profiles, high THC potential, and vigorous
-growth patterns. Most modern commercial strains are hybrids with varying ratios
-of sativa and indica ancestry, selected for manageable flowering times while
-retaining desirable sativa-influenced effects and aromas.
-
-## Cannabis Ruderalis
 [[cannabis-ruderalis]]
 
 Cannabis ruderalis is the smallest and least psychoactive of the three cannabis
@@ -123,8 +93,6 @@ Ruderalis genetics have also been used in CBD-rich cultivar development, as the
 species naturally tends toward higher CBD-to-THC ratios.
 
 ## See Also
-- [[cannabis-indica]]
 - [[autoflowering-cannabis]]
-- [[cannabis-photoperiod-flowering-cycle]]
 - [[cannabis-landrace-sativa-heritage-varieties]]
 - [[cannabis-sativa-breeding-evolution]]

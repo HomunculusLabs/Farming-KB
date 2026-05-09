@@ -472,7 +472,7 @@ resulting mycelium and mushrooms are illegal.
 
 - [[mushroom-cultivation-fundamentals]] — Core principles of fungal biology
   and cultivation
-- [[agar-culture-techniques]] — Detailed agar media recipes and procedures
+- [[agar-culture-technique]] — Detailed agar media recipes and procedures
 - [[grain-spawn-preparation]] — Grain types, preparation, and inoculation
   methods
 - [[bulk-substrate-preparation]] — Substrate recipes, pasteurization, and
@@ -482,7 +482,7 @@ resulting mycelium and mushrooms are illegal.
 - [[monotub-cultivation]] — The monotub method in detail
 - [[psychedelic-mushrooms-species-and-identification]] — Species profiles,
   habitats, and identification
-- [[contamination-prevention]] — Sterile technique and facility design
+- [[mushroom-contamination-prevention]] — Sterile technique and facility design
 - [[psychedelic-therapy-and-research]] — Clinical applications of psilocybin
 
 ## References

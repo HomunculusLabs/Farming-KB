@@ -20,19 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Resin Seeds. "Cinex — [[cinderella-99]] × Vortex." Resin Seeds official catalogue.
-  - Leafly. "Ci [[cannabis-strain-chupacabra]] rain Information." https://leafly.com/strains/cinex
-  - AllBud. "Cinex Strain Review." https://www.allbud.com/marijuana-strains/hybrid/cinex
-  - Wikileaf. "Cinex Strain." https://www.wikileaf.com/strain/cinex
-  - Erowid Cannabis Vault. "Cinex user reports."
-  - Mudge E, Murch SJ, et al. (2018). "Cannabinoid and terpene profiling of commercial Cannabis sativa cultivars." Natural Products Chemistry Research.
----
-
-# Cinex
-
-## Overview
-
-**Cinex** is [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] ant hybrid cannabis strain created by crossing **Cinderella 99 (C99)** with **Vortex**. Bred by **Resin Seeds** and reportedly originating from the [[psilocybin-north-america-pacific-northwest]] cannabis scene (Vancouver, BC area), Cinex has earned a reputation as a potent, clear-headed daytime strain that combines the soaring cerebral effects of C99 with the complex [[terpene-profile-chemotaxonomy]] of Vortex.
+  - Resin Seeds. "Cinex — cinderella-99 × Vortex." Resin Seeds official catalogue.
+  - Leafly. "Ci [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] ant hybrid cannabis strain created by crossing **Cinderella 99 (C99)** with **Vortex**. Bred by **Resin Seeds** and reportedly originating from the [[terpene-profile-chemotaxonomy]] of Vortex.
 The name is a portmanteau of "Cinderella" and "Vortex."
 
 The strain is known for its pungent citrus-forward aroma, heavy resin production, and energizing effects that have made it a staple among medical patients seeking functional daytime relief. THC content typically ranges from 18–26%, placing it in the high-potency category.
@@ -125,7 +114,6 @@ The strain's moderate cannabinoid-to-terpene ratio (high terpenes relative to to
 
 ## See Also
 
-- [[cannabis-for-depression]]
 - [[cannabis-health-anxiety]]
 
 - [[cannabis-sativa]]

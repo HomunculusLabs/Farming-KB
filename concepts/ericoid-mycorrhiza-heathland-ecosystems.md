@@ -26,20 +26,7 @@ include:
 
 - **Restricted functional life**: The host cell dies as the fungal association disintegrates, limiting the functional life of each infected epidermal cell to the period before breakdown. This necessitates continuous formation of new hair roots and new infections.
 
-- **Lack of mantle**: Unlike [[ectomycorrhizal-morphological-structures]], ericoid mycorrhizae do not form an external sheath or Hartig net. The fungal interface is entirely intracellular.
-
-## Fungal Partners
-
-The ericoid mycorrhizal fungal community is dominated by ascomycetes, with the
-most extensively studied genus being Rhizoscyphus (Pezizella) ericae. Other
-important genera include Oidiodendron and Cairneyella. These fungi are
-relatively nonspecific in their host range within the Ericaceae and can form
-functional associations with multiple ericaceous plant
-species.
-Molecular studies have revealed that ericoid mycorrhizal fungi are more
-diverse than previously recognized, with many uncultured lineages detected
-through environmental DNA surveys. The fungal community in ericoid roots can
-also include [[dark-septate-endophytes]] and other root-associated fungi that
+- **Lack of mantle**: Unlike [[dark-septate-endophytes]] and other root-associated fungi that
 may contribute complementary
 functions.
 ## Nutrient Acquisition Strategies
@@ -74,17 +61,7 @@ ecological importance. Ferricrocin, identified as the main siderophore of
 these fungi, has also been found in the widespread ectomycorrhizal fungus
 Cenococcum geophilum, in some Wilcoxina species forming ectendomycorrhizae,
 and in Phialocephala fortinii, a
-[[dark-septate-endophytes-stressed-environments]]
-(Bartholdy et al. 2001). This distribution across multiple mycorrhizal types
-suggests that ferricrocin production represents an evolutionarily conserved
-strategy for iron acquisition in symbiotic soil
-fungi.
-## Differences from Other Mycorrhizal Types
-
-Ericoid mycorrhizae can be distinguished from other types by several features:
-the absence of a mantle and Hartig net (unlike ECM), the formation of dense
-intracellular coils rather than arbuscules (unlike AM), and the death of the
-host cell upon disintegration of the association. The [[arbutoid-mycorrhiza]]
+[[arbutoid-mycorrhiza]]
 found in the Arbutoideae (a subfamily of Ericaceae) share some features with
 both ericoid and ectomycorrhizae, including intracellular penetration, a
 Hartig net, and a sheath -- and can be distinguished from ericoid mycorrhizae

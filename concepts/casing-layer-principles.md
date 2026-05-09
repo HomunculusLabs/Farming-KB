@@ -50,32 +50,7 @@ The casing layer pH is critical for both mushroom growth and contamination resis
 - Agricultural limestone (calcium carbonate) is the standard buffer
 - Gypsum (calcium sulfate) can be added for structure without significantly affecting pH
 - Excessive liming can cause overlay — a dense mycelial mat that prevents mushroom formation
-- Lower pH (5.0) water baths are used for [[shiitake-cultivation-guide]] substrate soaking, but casing pH requirements differ
-
-## Application
-
-1. Substrate must be fully colonized before casing application
-2. Casing layer depth varies by species: 1-2 inches is standard
-3. Apply evenly across the substrate surface
-4. Maintain high humidity (90-100%) after application
-5. Within 3-5 days, mycelium should begin to appear at the casing surface
-6. Initiate pinning conditions when mycelium shows evenly through the casing
-
-## Overlay and Stroma Problems
-
-**Overlay** occurs when mycelium colonizes the casing surface too densely, forming a thick mat that resists mushroom formation. Causes include:
-- Excessive liming (high pH)
-- Too-rich casing materials
-- High CO2 levels during colonization
-- Premature light stimulation
-
-**Stroma** is a dense mat-like growth of mycelium on the casing which rarely produces mushrooms, correlated with cottony (tomentose) mycelial growth on agar.
-
-## Patching and Raking
-
-During the cropping cycle, the casing may require maintenance:
-- **Patching**: Filling holes left during harvesting with moist casing material to prevent substrate exposure
-- **Raking/scratching**: Breaking a dried mycelial mat to reopen it to further flushing; used particularly by [[cotter-mycoremediation-overview]] growers
+- Lower pH (5.0) water baths are used for [[cotter-mycoremediation-overview]] growers
 - Surface drying during cropping can create conditions favorable to contaminants; evaporation must be maintained at an optimal rate
 
 ## Watering the Casing
@@ -93,14 +68,11 @@ The casing must be kept moist throughout the cropping cycle:
 Different species have different casing preferences:
 - Agaricus Bitorquis: Standard peat/limestone casing
 - Agaricus Brunnescens: Standard peat/limestone casing
-- [[psychedelic-mushrooms-species-and-identification]]: Can fruit without casing but benefits from a thin layer
 - [[panaeolus-cyanescens-bali-omelette]]: Typically cased for optimal yields
 
 ## See Also
 
-- [[casing-layer-preparation]]
 - [[bulk-substrate-preparation]]
-- [[environmental-control-mushroom-growing]]
 - [[mushroom-yield-optimization]]
 - [[fruiting-chamber-design]]
 

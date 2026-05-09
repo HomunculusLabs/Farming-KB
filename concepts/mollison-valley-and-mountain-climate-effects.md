@@ -119,11 +119,8 @@ The designer can exploit altitude and valley effects to:
 
 ## Integration with Permaculture Systems
 
-- [[mollison-climate-site-analysis-permaculture]] for comprehensive
-  climate assessment methods.
 - [[mollison-frost-protection-and-thermal-belt-design]] for cold air
   drainage management.
-- [[mollison-microclimate-creation]] for modifying local conditions.
 - [[mollison-permaculture-high-islands]] for high island design.
 - [[mollison-climate-zones-permaculture-strategies]] for climate-based
   strategies.

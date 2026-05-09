@@ -89,8 +89,6 @@ For Cannabis cultivators, the post-harvest root decay process has practical impl
 ## See Also
 
 - [[cannabis-endorhiza-microbiome]]
-- [[cannabis-microbiome-experimental-design]]
 - [[cultivar-endorhiza-bacterial-communities-cannabis]]
-- [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
 - [[endorhiza-bacterial-communities]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]

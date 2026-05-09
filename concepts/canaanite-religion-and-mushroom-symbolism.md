@@ -3,7 +3,7 @@ title: Canaanite Religion and Mushroom Symbolism
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
@@ -123,8 +123,6 @@ the central referent of this imagery that scholars reject.
 ## See Also
 
 - john allegro - The theorist behind these interpretations
-- [[sacred-mushroom-and-the-cross]] - The full argument
 - [[amanita-in-ancient-religion]] - Ancient Near Eastern fertility religion
-- [[sumerian-mushroom-nomenclature]] - Sumerian foundations of Allegro's theory
 - [[allegro-philological-methodology]] - The method and its problems
 - [[allegro-fertility-philosophy-of-the-ancient-near-east]]

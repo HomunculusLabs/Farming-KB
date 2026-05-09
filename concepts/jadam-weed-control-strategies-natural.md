@@ -95,17 +95,10 @@ Many say weed control is the greatest challenge in organic farming. JADAM refram
 
 ## Related
 
-- [[jadam-coexisting-with-wild-grass]]
 - [[jadam-wild-grass-management]]
-- [[jadam-cover-crop-method]]
 - [[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-plastic-mulch-problems]]
 - [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-cover-crop-wild-grass-symbiosis]]
 - [[jadam-wild-grass-liquid-fertilizer]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[jadam-cover-crop-soil-temperature-management]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[jadam-coexisting-with-wild-grass]]
-- [[growing-vegetables-with-less-fertilizer]]
 - [[jadam-fruit-tree-winter-pest-control]]

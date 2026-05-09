@@ -39,8 +39,7 @@ The lower esophageal sphincter (LES) is a muscular valve between the esophagus a
 - Modulated by the vagus nerve
 - Reduced by CB1 receptor activation
 
-### [[cannabis-anti-inflammatory-applications]]
-[[cannabis-minor-cannabinoids]] reduce esophageal inflammation caused by chronic acid exposure. This addresses the tissue damage and pain associated with GERD, not just the acid itself.
+### [[cannabis-minor-cannabinoids]] reduce esophageal inflammation caused by chronic acid exposure. This addresses the tissue damage and pain associated with GERD, not just the acid itself.
 
 ## Treatment Approach
 
@@ -88,16 +87,12 @@ Cannabis addresses the root cause (TLESRs) rather than just suppressing acid. It
 
 ## Related
 
-- [[cannabis-for-alcohol-dependence]] Topics
-
 - [[cannabis-for-gastrointestinal-conditions]]
 - Cannabis For Inflammation
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), GERD section
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-- [[ingham-root-disease-treatment]]
 - [[cannabis-root-bound-symptoms-and-management]]
 - [[cannabis-and-ibs-research]]

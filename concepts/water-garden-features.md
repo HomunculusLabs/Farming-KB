@@ -91,29 +91,7 @@ A gently sloping, shallow area providing an ideal habitat for plants that like d
 Soon after filling, water may turn pea-green from rapid algae growth — pond water contains minerals and receives full sunlight. Do NOT empty and replace the water — this gives algae a fresh supply of mineral salts. Leave the water as-is; minerals will be depleted and, as water plants grow, they exclude sunlight. Deprived of food, algae die and the water clears.
 
 ### Thinning Oxygenating Plants
-Occasionally thin out oxygenating plants by pulling some out by hand. Return any animal life on the plants to the pond. Discarded plants go on the [[composting-organic-garden]] heap.
-
-### Blanket Weed
-A slimy, ugly green weed that floats on the surface and chokes vegetation. Remove as soon as you see it. Regular removal will prevent further infestation.
-
-### Leaves
-Keep leaves out of the pond — they turn water sour as they rot. If the pond is near deciduous trees (unavoidable), cover the surface with netting in the fall.
-
-### Keeping Ornamental Fish
-If keeping fish, make provision for their offspring — fish eat their own eggs and tiny "fry," plus any frog spawn. Include a very shallow area (no more than 2in/5cm deep) that is too shallow for larger fish. Small fish will gather there (it is warmer), and you can guide frog spawn into this refuge area.
-
-### Seasonal Maintenance
-- Spring: plant floating plants, oxygenators, and marginal plants; plant deep-water aquatics in containers
-- Summer: top off pond and soak marsh garden in dry weather; watch for blanket weed
-- Autumn: cover pond with netting to catch falling leaves
-- Winter: avoid breaking ice if it forms — the ice insulates the water below
-
-## See Also
-
-- [[permaculture-water-systems]]
-- [[pond-design-and-construction]]
+Occasionally thin out oxygenating plants by pulling some out by hand. Return any animal life on the plants to the pond. Discarded plants go on the [[permaculture-water-systems]]
 - [[permaculture-designers-manual-pond-edge-planting]]
-- [[permaculture-pond-and-water-garden]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[cover-crops-soil-health]]
 - [[hamilton-composting-and-organic-matter-management]]

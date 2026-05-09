@@ -96,25 +96,17 @@ Modern research has identified several bioactive compounds in the rhizomes, incl
 
 *Alpinia purpurata* belongs to a large genus of approximately 250 species. Several relatives are commercially or medicinally important.
 
-- **[[alpinia-galanga]]** — greater galangal, widely used in Southeast Asian cuisine
 - **[[alpinia-officinarum]]** — lesser galangal, a traditional Chinese medicine
-- **[[alpinia-zerumbet]]** — shell ginger, another ornamental species with variegated foliage
 - **[[hedychium-coronarium]]** — white ginger lily, closely related ornamental Zingiberaceae
-- **[[elettaria-cardamomum]]** — cardamom, the commercially important spice species
 - **[[curcuma-longa]]** — turmeric, the widely cultivated rhizome spice
-- **[[kaempferia-galanga]]** — aromatic ginger, used in Thai traditional medicine
 - **[[zingiber-officinale]]** — common ginger, the most economically important Zingiberaceae species
 
 ## See Also
 
 - [[alpinia-galanga]]
-- [[alpinia-officinarum]]
 - [[alpinia-zerumbet]]
-- [[hedychium-coronarium]]
 - [[elettaria-cardamomum]]
-- [[curcuma-longa]]
 - [[kaempferia-galanga]]
-- [[zingiber-officinale]]
 - [[zingiber-zerumbet]]
 - [[zingiber-mioga]]
-- [[ethnobotany]]
+- ethnobotany

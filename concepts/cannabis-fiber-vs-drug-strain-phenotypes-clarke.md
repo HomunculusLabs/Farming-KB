@@ -97,11 +97,7 @@ Understanding gross phenotypes is essential for selecting parental stock:
 
 ## Related Topics
 
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain detail
-- [[cannabis-hindu-kush-strain-description-clarke]] - Hindu Kush detail
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - Hybrid phenotypes
-- [[cannabis-landrace-and-heirloom-varieties]] - Landrace overview
 - [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-maturation-and-harvest-by-latitude-clarke]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]

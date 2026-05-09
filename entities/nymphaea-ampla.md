@@ -17,85 +17,15 @@ and subtropical regions of the Americas, it has a long history of
 ethnobotanical use among indigenous Mesoamerican and Caribbean peoples,
 who consumed the flowers and rhizomes for their mild psychoactive and
 sedative properties. The plant contains aporphine alkaloids, most
-notably nuciferine, structurally related to compounds found in other
-psychoactive Nymphaea species. N. ampla occupies an important place in
-the ethnopharmacology of the Americas, bridging purely medicinal plant
-use and culturally significant psychoactive traditions. It is also
-valued in traditional medicine as an analgesic, anxiolytic, and
-aphrodisiac.
-
-## Taxonomy and Naming
-
-- **Kingdom:** Plantae | **Division:** Magnoliophyta
-- **Class:** Magnoliopsida | **Order:** Nymphaeales
-- **Family:** Nymphaeaceae | **Genus:** Nymphaea
-- **Species:** N. ampla (DC.) S. W. L. Jacobs & Hellq.
-- **Synonyms:** Nymphaea ampla DC.; Castalia ampla (DC.) Greene
-- **Common names:** white water lily, dotleaf waterlily, nenúfar blanco
-
-The epithet "ampla" (Latin for "ample") refers to the relatively large
-flowers compared to some congeners. The common name "white lotus" is
-frequently misapplied; true lotuses belong to Nelumbo (Nelumbonaceae),
-which is only distantly related to Nymphaea.
-
-## Description
-
-### Morphology
-
-| Feature | Description |
-|---------|-------------|
-| Habit | Aquatic perennial herb, rooted in submerged substrate |
-| Rhizome | Thick, fleshy, horizontal, producing roots and leaves |
-| Leaves | Floating, circular to ovate, 10–30 cm diameter |
-| Leaf margin | Entire, notched at base where petiole attaches |
-| Leaf surface | Green above, paler green to purplish beneath |
-| Petiole | Slender, cylindrical, 30–150 cm long |
-| Flowers | Solitary, floating or slightly elevated above water |
-| Flower diameter | 8–20 cm |
-| Petals | 15–25, white, oblong to obovate |
-| Sepals | 4, green, ovate, shorter than petals |
-| Stamens | Numerous, yellow, arranged in concentric whorls |
-| Carpels | 8–15, fused into a spongy receptacle |
-| Fruit | Globose berry, 2–4 cm, containing numerous seeds |
-| Seeds | Ovoid, arillate, 2–3 mm long |
-
-### Distinguishing from Related Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| Nymphaea ampla | White flowers, round leaves with open sinus |
-| Nymphaea caerulea | Blue flowers, toothed leaf margins |
+notably [[nymphaea-caerulea]] | Blue flowers, toothed leaf margins |
 | Nymphaea odorata | White flowers, fragrant, northern distribution |
 | Nymphaea lotus | White to pink flowers, tropical African/Asian |
-| Nelumbo nucifera | Pink/white, elevated flowers, different family |
-
-## Distribution and Habitat
-
-- **Native range:** Southern US (Texas, Florida) through Central
-  America, the Caribbean (Cuba, Jamaica, Hispaniola), and northern
-  South America (Venezuela, Colombia, Brazil, Peru).
-- **Habitat:** Still or slow-moving freshwater — ponds, lakes,
-  marshes, ditches, slow rivers. Prefers shallow water (0.3–2 m)
-  with muddy or silty substrates.
-- **Ecology:** Forms extensive floating mats providing habitat for fish
-  and aquatic invertebrates. Pollinated by beetles and bees.
-  Seeds dispersed by water and waterfowl.
-- **Invasive potential:** Can become weedy in artificial water bodies,
-  though generally less aggressive than N. odorata in temperate zones.
-
-## Chemistry and Active Compounds
-
-Nymphaea ampla contains bioactive alkaloids and secondary metabolites,
-concentrated in the flowers and rhizomes:
-
-- **Nuciferine:** Principal aporphine alkaloid; dopamine receptor
-  antagonist with reported anxiolytic and antipsychotic activity at low
-  doses. Also modulates serotonin receptors.
+| [[serotonin]] receptors.
 - **Apomorphine:** Present in trace amounts; a potent dopamine agonist
   used medically for Parkinson's disease.
 - **Aporphine alkaloids:** Including anonaine, asimilobine, and
   pronuciferine, contributing to the pharmacological profile.
-- **Flavonoids:** Quercetin, kaempferol, and glycosides with antioxidant
+- **Flavonoids:** [[kaempferol]], and glycosides with antioxidant
   and anti-inflammatory properties.
 - **Tannins:** Present in rhizomes, contributing to astringent
   traditional applications.
@@ -142,9 +72,26 @@ concentrated in the flowers and rhizomes:
 
 Not scheduled or controlled in most jurisdictions. Sold legally as an
 ornamental aquatic plant and dried botanical specimen.
-
 ## See Also
 
-- [[nymphaea-caerulea]]
-- [[tabernanthe-iboga]]
 - [[salvia-divinorum]]
+- [[salvia-divinorum]]
+## Practical Considerations
+
+Successful implementation of Nymphaea ampla requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

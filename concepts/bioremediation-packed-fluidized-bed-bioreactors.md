@@ -8,41 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Packed Bed and Fluidized Bed Bioreactors for [[fungal-bioremediation]]
-
-Packed bed and fluidized bed bioreactors are among the most widely
-studied reactor configurations for applying white rot fungi and their
-enzymes to the treatment of industrial effluents. These designs offer
-distinct advantages for continuous processing of colored and
-contaminated wastewaters from pulp and paper, textile, and chemical
-manufacturing industries.
-
-## Packed Bed Bioreactors
-
-### Design and Operation
-
-Packed bed bioreactors consist of a column packed with immobilized
-fungal biomass, typically in the form of mycelial pellets, or with a
-support matrix colonized by the fungus. The contaminated effluent flows
-through the bed, where contact with the fungal mycelium and its
-extracellular enzymes brings about pollutant degradation and
-decolorization. These reactors can operate in either continuous or
-batch mode.
-
-Large laboratory-scale packed bed reactors have been successfully
-demonstrated. A notable example is the 200-liter packed bed reactor
-used by Schliephake and Lonergan for treating Remazol Brilliant Blue R
-using Pycnoporus cinnabarinus. In this system, laccase variation within
-the reactor was monitored to optimize treatment performance. The packed
-bed configuration was shown to be the reactor of choice for high-
-concentration effluents.
-
-### Applications in Effluent Treatment
-
-Packed bed bioreactors have been applied to diverse effluent types.
-Schliephake et al. demonstrated at least 90% color removal from a
-pigment manufacturing effluent in a packed bed configuration. Palma et
-al. used a packed bed bioreactor with [[phanerochaete-chrysosporium]] to
+# Packed Bed and Fluidized Bed Bioreactors for [[phanerochaete-chrysosporium]] to
 decolorize polymeric anthraquinone dyes. P. cinnabarinus was also used
 in a packed bed bioreactor for the treatment of pigment plant effluent,
 with effective color removal achieved.
@@ -137,7 +103,5 @@ leads to treatment failure in other systems.
 
 ## See Also
 
-- [[staycare-fungal-pellet-bioreactors-for-effluent-treatment]]
 - [[staycare-fungal-treatment-of-textile-industry-wastewater]]
-- [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]]

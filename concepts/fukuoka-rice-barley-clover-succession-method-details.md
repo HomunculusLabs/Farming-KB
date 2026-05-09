@@ -5,23 +5,7 @@ aliases:
   - fukuoka rice barley rotation method
   - clover cover crop rice succession
   - fukuoka clay pellet rice seeding
-  - [[natural-farming]] annual grain method
-tags:
-  - fukuoka
-  - natural-farming
-  - rice
-  - barley
-  - no-tillage
-  - direct-seeding
-  - clover
-  - straw-mulch
-  - clay-pellets
-  - cover-crops
----
-
-# Fukuoka's Direct-Seeded No-Tillage Rice-Barley-Clover Succession
-
-The complete annual cycle of [[masanobu-fukuoka]]'s signature farming method from *The Natural Way of Farming* (1985): "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This method produces roughly 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre annually, without plowing, chemical fertilizers, prepared compost, pesticides, or flooding beyond brief periods.
+  - [[masanobu-fukuoka]]'s signature farming method from *The Natural Way of Farming* (1985): "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This method produces roughly 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre annually, without plowing, chemical fertilizers, prepared compost, pesticides, or flooding beyond brief periods.
 
 ## The Annual Calendar
 
@@ -55,31 +39,7 @@ This is the only irrigation applied during the entire rice-growing season. It is
 
 ### Summer: Minimal Irrigation
 
-In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every seven to ten days. This minimal [[water-management]] is sufficient because the continuous mulch cover and living clover retain soil moisture far more effectively than bare, flooded paddy soil.
-
-The field is never flooded continuously as in conventional rice cultivation. Fukuoka argues that prolonged summer flooding rots rice roots and creates anaerobic soil conditions that promote disease.
-
-### Fall: Rice Harvest — Cycle Repeats
-
-The rice matures and is harvested. The cycle begins again with the broadcasting of clover and winter grain seed over the standing rice.
-
-## The Three Symbiotic Partners
-
-The system depends on the interaction of three elements:
-
-1. **White clover** (*[[trifolium-repens]]*): A perennial legume that fixes atmospheric nitrogen, provides continuous ground cover, suppresses weeds, moderates soil temperature, and contributes organic matter through root turnover and leaf [[decomposition]]. It grows beneath both the winter grain and the rice, occupying the ecological niche that weeds would otherwise fill.
-
-2. **Winter grain** (barley or wheat): Provides the winter crop, producing grain during the cool season when the rice is dormant. Its straw, returned to the field, feeds soil organisms and provides the carbon base for nutrient cycling. The grain roots penetrate and aerate the soil.
-
-3. **Rice**: The summer crop, seeded in clay pellets during winter and emerging through the clover cover in spring. The rice grows in a living mulch of clover with a layer of decomposing straw, receiving nitrogen from the clover's fixation and nutrients from the decomposition of previous straw layers.
-
-## Why Each Conventional Practice Is Unnecessary
-
-Fukuoka systematically eliminates each standard agricultural input:
-
-**No plowing**: "No plant on the face of the earth is so weak as to germinate only in plowed soil." Microorganisms and small animals act as nature's tillers. The clover roots and earthworm channels maintain soil porosity without mechanical disturbance. Plowing destroys soil structure, exposes organic matter to rapid oxidation, and kills beneficial organisms.
-
-**No chemical fertilizer**: The clover fixes nitrogen. Decomposing straw and clover residues cycle nutrients. [[the-soil-food-web]] (bacteria, fungi, protozoa, nematodes) converts organic matter into plant-available forms. External inputs are unnecessary because the system generates its own fertility.
+In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every seven to ten days. This minimal [[trifolium-repens]]*): A perennial legume that fixes atmospheric nitrogen, provides continuous ground cover, suppresses weeds, moderates soil temperature, and contributes organic matter through root turnover and leaf [[soil-food-web-nutrient-cycling]] (bacteria, fungi, protozoa, nematodes) converts organic matter into plant-available forms. External inputs are unnecessary because the system generates its own fertility.
 
 **No prepared compost**: Rice straw applied to the field half a year before rice is sown decomposes in place, becoming compost without the labor of piling, turning, and carting. "Compost does not have to be prepared if rice straw is applied to the fields."
 

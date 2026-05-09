@@ -108,15 +108,9 @@ Dighton et al. (2000) demonstrated in New Jersey pine barrens that localized lea
 
 ## Related
 
-- [[dighton-fungi-volcanic-glacier-primary-succession]] Pages
-
 - [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-fungal-ecology]]
 - [[ectomycorrhizal-ecology]]
-- [[ericoid-and-orchid-mycorrhizae]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
-- [[common-mycorrhizal-networks]]
 - [[fungal-biodiversity-ecosystem-function]]
-- [[fungal-biodiversity-forest-floor]]
 - [[fungal-biodiversity-grassland]]
 - [[fungal-contributions-soil-structure]]

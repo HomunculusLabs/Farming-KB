@@ -46,45 +46,7 @@ resemblance to both mycelium and neurological arrays.
 The idea that a cellular organism can demonstrate intelligence gained
 scientific support through Toshuyiki Nakagaki in 2000. He placed a maze over
 a petri dish with nutrient agar, added nutritious oat flakes at entrance and
-exit, then inoculated the entrance with [[physarum-computation|Physarum polycephalum]]. The slime mold consistently chose the shortest route,
-rejecting dead ends and empty exits, demonstrating a form of intelligence.
-
-The implications extend beyond navigation. Slime molds have since been shown
-to solve optimization problems, recreate transportation networks, and mirror
-human economic behavior. These findings suggest that intelligence does not
-require a centralized brain and can emerge from decentralized cellular
-networks.
-
-## Biological Computer Chips from Fungi
-
-The concept of fungal computing has moved beyond theoretical speculation
-into laboratory engineering. Researchers at Northwestern University
-manipulated mycelia of Aspergillus niger to organize gold into its DNA,
-creating mycelial electrical conductors. NASA reports that microbiologists
-at the University of Tennessee, led by Gary Sayler, have developed a
-rugged biological computer chip housing bacteria that glow upon sensing
-pollutants, from heavy metals to PCBs.
-
-Working together, fungal networks and environmentally responsive bacteria
-could provide data about pH, detect nutrients and toxic waste, and measure
-biological populations. Envisioning fungi as nanoconductors in
-mycocomputers opens the possibility of a new class of biologically
-integrated computing devices.
-
-## Mycoengineered Ecosystems
-
-A new bioneering science could be born, dedicated to programming
-myconeurological networks to monitor and respond to threats to environments.
-Mycelial webs could be used as information platforms for mycoengineered
-ecosystems. Because these externalized neurological nets sense any
-impression upon them, from footsteps to falling tree branches, they could
-relay enormous amounts of data regarding the movements of all organisms
-through the landscape.
-
-Through cross-species interfacing, we may one day exchange information with
-these sentient cellular networks. By enlisting fungi as environmental
-sensors, we could create living networks that continuously monitor ecosystem
-health and report conditions in real time. This vision of [[biological-slime-mold-computing]]
+exit, then inoculated the entrance with [[biological-slime-mold-computing]]
 extends from single organisms to landscape-scale information systems.
 
 ## The Mycelial Archetype in Cosmic Structure
@@ -141,8 +103,6 @@ information and respond to their environment in sophisticated ways.
 
 ## See Also
 
-- [[mycelial-archetype]]
 - [[physarum-computation]]
-- [[slime-mold-computation]]
 - [[biological-slime-mold-computing]]
 - [[mycetozoans-slime-molds]]

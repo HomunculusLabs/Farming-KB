@@ -23,7 +23,7 @@ The modern rediscovery of the mushroom cults began with the work of Blas Pablo R
 1. **Piule seed** — the visionary morning glory seeds of *[[ipomoea-violacea]]*, containing hallucinogenic indoles related to LSD
 2. **Teonanacatl** — a fragment of psilocybin mushroom, "the first specimen of a psilocybin-containing mushroom to be brought to scientific attention" (though too decomposed for species identification)
 
-Reko thus initiated two chains of research that would eventually be reunited when [[albert-hofmann]] characterized both compounds in his laboratory.
+Reko thus initiated two chains of research that would eventually be reunited when gordon-wasson characterized both compounds in his laboratory.
 
 ## The First Velada
 
@@ -107,10 +107,7 @@ The scientific validation of psilocybin's therapeutic potential has, in turn, in
 
 ## See Also
 
-- [[porphyry-mushrooms-as-divine-food]]
-
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 
 ## Further Reading on Mazatec Ethnomycology

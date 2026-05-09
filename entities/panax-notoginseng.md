@@ -81,36 +81,13 @@ sources:
 ### Key Formulations
 - **Yunnan Baiyao**: Proprietary hemostatic powder; *P. notoginseng* is primary active ingredient
 - **Xuesaitong Injection**: Standardized extract for cardiovascular/cerebrovascular conditions (approved in China)
-- **Fufang Danshen Diwan**: Combination with *Salvia miltiorrhiza* for coronary heart disease
-- **Naoxintong**: Multi-herb formula containing notoginseng for stroke recovery
-### Modern Pharmacological Research
-- **Cardiovascular**: Reduces myocardial ischemia, improves coronary flow, inhibits platelet aggregation, lowers lipids
-- **Neuroprotective**: Reduces neuronal apoptosis, protects against cerebral ischemia-reperfusion injury
-- **Anti-inflammatory**: Inhibits NF-κB and MAPK pathways; reduces TNF-α, IL-1β, IL-6
-- **Hemostatic**: Dencichine promotes coagulation via platelet activation; paradoxically also resolves blood stasis
-- **Anti-cancer**: Rg3 and Rh2 show anti-proliferative effects; induce apoptosis, inhibit angiogenesis
-- **Hepatoprotective**: Reduces liver fibrosis, protects against chemical-induced liver injury
-- **Antioxidant**: Scavenges free radicals, upregulates SOD and glutathione peroxidase
-- Research is primarily preclinical (in vitro and animal models); large-scale human clinical trials remain limited.
-## Cultivation & Ecology
-### Growing Requirements
-- **Altitude**: 1,500–2,000 m optimal
-- **Climate**: Subtropical montane; cool, humid, high rainfall (1,000–1,800 mm/year)
-- **Temperature**: 15–25°C preferred; sensitive to frost and extreme heat
-- **Shade**: 60–80% required; forest canopy or shade nets
-- **Soil**: Well-drained, loamy, slightly acidic (pH 5.5–6.5), rich in organic matter
-- **Growth cycle**: 3–7 years to harvest; 3-year roots common commercially
-### Cultivation Practices
-- Propagation by seed; requires stratification; low germination (~30–50%)
-- Continuous monoculture causes severe soil-borne disease (soil sickness); 10+ year rotation recommended
-- Major pathogens: *Fusarium* spp. (root rot), *Ralstonia solanacearum* (bacterial wilt), *Cylindrocarpon destructans*
+- **Fufang Danshen Diwan**: Combination with *[[cylindrocarpon-destructans]]*
 - Wenshan Prefecture, Yunnan — primary production region (~90% of global supply)
 - Harvest in autumn (September–November); post-harvest: cleaning, drying, grading
 ### Ecological Status
 - Wild populations rare and declining due to overharvesting and habitat loss
 - Listed as endangered in some regional assessments; commercial cultivation reduces wild harvest pressure
-- Requires specific mycorrhizal associations; endophytic fungi aid disease resistance and saponin production
-- The plant's root exudates exhibit allelopathic effects, contributing to soil sickness in monoculture.
+- Requires specific mycorrhizal associations; [[root-exudates]] exhibit allelopathic effects, contributing to soil sickness in monoculture.
 ### Commercial Grades
 - **Premium (120-head)**: ≥120 roots/500g; small, dense, highest saponin content
 - **Standard (60-head)**: 60–80 roots/500g
@@ -126,11 +103,10 @@ sources:
 - **Quality control**: Notoginsenoside R1 content serves as the primary chemical marker for pharmacopeial quality assessment of *P. notoginseng* products.
 ## See Also
 
-- [[agroforestry]]
 - [[cylindrocarpon-destructans]]
 - [[endophytic-fungi]]
 - [Panax ginseng](panax-ginseng.md) — Asian ginseng; related adaptogen with overlapping ginsenoside profile
-- [Panax quinquefolius](panax-quinquefolius.md) — American ginseng
+- [[panax-quinquefolius]]](panax-quinquefolius.md) — American ginseng
 - [Salvia miltiorrhiza](salvia-miltiorrhiza.md) — Danshen; frequently combined with San Qi in cardiovascular formulas
 - [Araliaceae](araliaceae.md) — Ginseng family overview
 - [Ginsenosides](ginsenosides.md) — Triterpenoid saponin compounds shared across *Panax* species

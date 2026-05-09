@@ -112,7 +112,7 @@ psychoactive compounds found in members of the genus *Psilocybe*. Based on the i
 the bluing reaction and its phylogenetic placement within the genus, the species is probably
 moderately active. Definitive alkaloid profiling through analytical techniques such as GC-MS
 or HPLC remains to be conducted and would provide valuable data for comparison with better-
-studied Australasian species like [[psilocybe-subaeruginosa]] and [[psilocybe-australiana]].
+studied Australasian species like [[psilocybe-australiana]].
 
 ## Taxonomic Relationships
 
@@ -133,18 +133,10 @@ species known as the "blue-footed psilocybe." The two species share a similar ca
 bluing reaction, but can be reliably separated microscopically: *P. makarorae* possesses
 pleurocystidia (which are absent in *P. caerulipes*) and has longer-necked cheilocystidia.
 
-Among Australasian taxa, [[psilocybe-australiana]] and [[psilocybe-eucalypta]] should also be
+Among Australasian taxa, [[psilocybe-eucalypta]] should also be
 considered for comparison, though each differs in substrate preference and microscopic
-features. [[psilocybe-subaeruginosa]], a well-known and widely distributed Australian and New
-Zealand species, fruits on a broader range of woody substrates and is generally a more robust
-mushroom with a more pronounced bluing reaction.
-
-## See Also
-
-- [[psilocybe-stuntzii-profile]]
-- [[psilocybe-tampanensis-cultivation]]
+features. [[psilocybe-stuntzii-profile]]
 - [[psilocybe-wassoniorum]]
 
 - psilocybe caerulipes entity the mushroom cultivator - North American look-alike species
-- [[psilocybe-australiana]] - Australasian congener
 - [[psilocybe-eucalypta]] - Australasian congener

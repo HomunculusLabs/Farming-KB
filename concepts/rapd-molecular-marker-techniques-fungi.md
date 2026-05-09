@@ -3,7 +3,7 @@ title: Rapd Molecular Marker Techniques Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # RAPD and Molecular Marker Techniques for Fungi
@@ -90,19 +90,8 @@ The choice of method depends on the research question:
 
 ## Related Topics
 
-- [[fungal-rdna-primers-molecular-identification]]
 - [[fungal-dna-barcoding]]
-- [[fungal-dna-extraction-methods]]
 - [[fungal-metagenomics]]
-- [[fungal-endemism-and-biogeography]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 6: Molecular Methods for Discriminating Taxa
-- Williams, J.G.K. et al. 1990. DNA polymorphisms amplified by arbitrary primers
-- Mueller, U.G. and Wolfenbarger, L.L. 1999. AFLP genotyping and fingerprinting
-- Goodwin, S.B. et al. 1999. Genetic analyses with RAPD markers
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
-- [[fungal-biodiversity-data-analysis]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[permanent-marker]]

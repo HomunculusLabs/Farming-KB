@@ -3,14 +3,7 @@ title: Faires Edible and Useful Wild Plants
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Faires Edible and Useful Wild Plants
-
-Wild and semi-wild plants represent some of the most resilient and low-maintenance food sources in the permaculture landscape. The Faires guide catalogs numerous edible wild plants that grow spontaneously, require minimal care, and provide substantial nutrition. These plants are often the first to establish in [[faires-ecological-succession-and-edge-design]] and serve as pioneer species in new garden systems.
+tags: [[faires-ecological-succession-and-edge-design]] and serve as pioneer species in new garden systems.
 
 ## Dandelion (Taraxacum officinale)
 
@@ -47,25 +40,7 @@ Also known as Broadleaf Arrowheads or Wapato:
 - **Harvest limit:** No more than 1/4 should be collected per year — the plants will spread to replace losses
 - Harvest anytime during summer and fall until the first frost
 
-Duck potato is an excellent aquatic food plant for [[faires-pond-design-and-aquaculture]], providing a staple carbohydrate crop from the water's edge.
-
-## Duckweed (Lemna spp.)
-
-A tiny floating aquatic plant:
-
-- Edible and extremely productive — doubles its biomass in 2-3 days under ideal conditions
-- Can be harvested daily as animal feed (especially poultry and fish)
-- High protein content makes it valuable as a livestock supplement
-- Helps purify pond water by absorbing excess nutrients
-- Can become invasive — manage carefully in small ponds
-
-## Acorn Processing
-
-Acorns from oak trees have been processed into flour for thousands of years, predating any grain flour:
-
-**Collection:** Gather acorns when fully formed and beginning to fall. Don't take acorns without "hats" (caps). Discard any with holes (likely containing weevils).
-
-**Drying:** Dry in the oven, [[faires-food-drying-and-no-energy-storage]], or in the sun.
+Duck potato is an excellent aquatic food plant for [[faires-food-drying-and-no-energy-storage]], or in the sun.
 
 **Shell removal:** Crack off the shell to access the nutmeat.
 
@@ -95,32 +70,7 @@ A nitrogen-fixing climbing plant that produces protein-rich tubers:
 - Roots cooked exactly like any other root vegetable
 - The nitrogen-fixing legume trait makes it a soil builder as well as a food crop
 
-## [[carob]] (Ceratonia siliqua)
-
-A large evergreen shrub reaching 50 feet (15.2 meters):
-
-- Prefers hot climates; commercially grown in the Mediterranean and Australia
-- Not frost hardy (mature tree can withstand 20°F / -7°C if not blooming)
-- Grows in any soil, tolerant to drought
-- Won't tolerate heavy rain until end of growing season
-- Pods are sweet and have many uses
-
-**Harvest:** Shake tree with a long pole before winter rains. Catch pods on a tarp. Dry in sun for a couple of days until seeds rattle.
-
-**Processing:**
-- Crush pods to break up seeds for animal feed
-- Ground into varying consistencies for syrup, jam, fine flour, and coffee substitute
-- Animals should not eat too much crushed pods (growth stunting)
-- Chickens cannot eat them at all
-
-## Gooseberry (Ribes spp.)
-
-A hardy shrub producing tart berries:
-
-- Used in jams, preserves, and desserts
-- Cold hardy and reliable producer
-- Often found in hedgerows and forest edges
-- Benefits from [[faires-orchard-pruning-methods]] for productivity
+## [[faires-orchard-pruning-methods]] for productivity
 
 ## Sloe / Blackthorn (Prunus spinosa)
 

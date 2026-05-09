@@ -21,38 +21,6 @@ labor requirements, and the type of soil amendment produced.
 
 ## Aerobic Composting
 
-[[hot-composting-method]]
-
-Hot aerobic composting achieves temperatures of 130 to 160 degrees
-Fahrenheit through active microbial metabolism, progressing through three
-distinct phases. The mesophilic phase during days one through three sees
-moderate-temperature bacteria colonizing the pile. The thermophilic phase
-from day three onward drives temperatures above 130 degrees as thermophilic
-bacteria dominate, killing weed seeds and pathogens. The final cooling and
-curing phase over weeks to months sees beneficial fungi and actinomycetes
-finish the decomposition, producing stable humus.
-
-The method requires careful management of several parameters. Minimum pile
-volume must be one cubic meter to retain heat, the carbon-to- nitrogen
-ratio should be 25 to 30 to 1 (roughly two to three parts brown material to
-one part green by volume), moisture must be maintained at 50 to 60 percent,
-and the pile requires turning every three to five days when temperature
-peaks. At 131 degrees Fahrenheit or above sustained for three or more days,
-weed seeds and human pathogens are reliably destroyed. Finished compost is
-typically ready in four to six weeks with a 50 to 75 percent volume
-reduction from the starting materials.
-
-The thermophilic phase drives rapid decomposition but also burns off
-volatile nutrients, including nitrogen lost as ammonia gas and a
-significant portion of vitamins, amino acids, and plant growth hormones
-that would benefit crops. Aerobic composting demands sufficient material
-accumulation to build a proper pile, regular labor for turning, adequate
-space, and attention to moisture and carbon ratios throughout the process.
-It cannot accept meat, dairy, or oils without attracting pests unless
-managed in enclosed in-vessel systems.
-
-## Anaerobic Composting
-
 [[jadam-anaerobic-fermentation]]
 
 Anaerobic composting excludes oxygen, relying on fermentative
@@ -141,8 +109,6 @@ remaining nutrients.
 
 ## See Also
 
-- [[comparison-bokashi-vs-hot-composting-method]]
 - [[comparison-vermicomposting-vs-hot-composting]]
-- [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 - [[comparison-bokashi-vs-vermicomposting]]

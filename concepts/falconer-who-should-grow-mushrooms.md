@@ -3,10 +3,7 @@ title: Falconer Who Should Grow Mushrooms
 created: 2026-04-28
 tags:
   [
-    mushroom-cultivation,
-    victorian-gardening,
-    market-gardening,
-    homesteading,
+    [[homesteading]],
     winter-cropping,
   ]
 date: 2026-04-28
@@ -58,27 +55,6 @@ tubers and bulbs are stored.
 Right here we have the best kind of a mushroom
 house. The space under the benches, which is nearly
 useless for other purposes, is admirably adapted for
-[[falconer-growing-mushrooms-in-sheds]], and the warmth and moisture of
-the greenhouse are exceptionally congenial conditions.
-
-Florists need the loam and manure anyway, and
-these are just as good for potting purposes after
-having been used in the mushroom beds as they were
-before. In a greenhouse a hundred feet long, a five
-foot wide mushroom bed under the main bench gives
-500 square feet of bed. At half a pound to the foot
-this yields 250 pounds of mushrooms, which sold at
-fifty cents a pound net brings $125.
-
-## Private Gardeners
-
-It is a part of their routine duty, and success in
-mushroom growing is as satisfactory to themselves as
-it is gratifying to their employers. Fresh mushrooms,
-like good fruit and handsome flowers, are a product
-of the garden that is always acceptable.
-
-In most pretentious gardens there is a regular
 [[falconer-mushroom-growing-house-design]], and the growing of mushrooms is an
 easy matter. In others there is no such convenience,
 and the gardener has to trust to his own ingenuity.
@@ -110,18 +86,7 @@ mushrooms.
 No one can grow mushrooms better or more
 economically than the farmer. He has already the
 cellar-room, the fresh manure and the loam at home,
-and all he needs is some [[falconer-mushroom-spawn-preparation]] with which to plant the
-beds. Nothing is lost. The manure, after having been
-used in mushroom beds, is not exhausted of its
-fertility, but is well rotted and in a better condition to
-apply to the land than it was before being prepared for
-the mushroom crop.
-
-The farmer will not feel the little labor that it takes.
-There is no secret whatever connected with it, and
-skilled labor is unnecessary to make it successful. The
-commonest farm hand can do the work, which consists
-of turning the [[falconer-preparation-of-the-manure]] once every day or two for about
+and all he needs is some [[falconer-preparation-of-the-manure]] once every day or two for about
 three weeks, then building it into a bed and spawning
 and molding it.
 

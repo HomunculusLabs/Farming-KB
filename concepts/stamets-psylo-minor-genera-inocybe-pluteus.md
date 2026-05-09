@@ -1,58 +1,8 @@
 ---
 title: Minor Psilocybin Genera - Inocybe and Pluteus
 created: 2026-04-28
-tags: [mycology, taxonomy, psilocybin, minor-genera, identification]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-type: concept
----
-
-# Minor Psilocybin Genera: Inocybe and Pluteus
-
-## Overview
-
-Inocybe and Pluteus represent two more genera containing psilocybin-
-active species. Both are fraught with identification challenges and
-dangers. The Inocybe genus is particularly hazardous, with many species
-containing toxic levels of muscarine alongside the few psilocybin-active
-members. Collectors are strongly urged to defer to the bluing Psilocybe
-or Panaeolus species, which are generally more common and much easier to
-identify.
-
-## The Genus Inocybe
-
-With Inocybe, you are truly dancing with danger in a mycological
-minefield of edible, psychoactive, and toxic mushrooms. Species in the
-genus Inocybe are some of the most difficult of all mushrooms to
-identify accurately, even for the most experienced mycologists. The late
-Dr. Daniel Stuntz spent several decades studying this genus and
-estimated 400-600 species, of which approximately 150 are recognized.
-
-### The Muscarine Danger
-
-We know of several poisonous Inocybe species, primarily of the
-muscarinic type. In 1983, when [[inocybe-aeruginascens]] was mistaken for
-[[marasmius-oreades]], the resulting intoxication led to the first discovery
-of psilocybin in this genus (Drewitz 1983). Stijve and Kuyper (1985)
-tested 20 Inocybes; five tested positive for psilocybin. Gurevich and
-Nezdoiminogo (1994) analyzed 39 Inocybe species from Russia; the only
-bluing species, I. aeruginascens, tested positive for psilocybin, while
-34 tested positive for muscarine.
-
-Most Inocybes have not been tested for psilocybin activity. Of those
-tested, none contain both psilocybin and muscarine, but there is no
-reason to believe the compounds are mutually exclusive. Many species
-including I. sororia, I. maculata, I. pudica, and I. geophylla contain
-toxic levels of muscarine. You are more likely to find a toxic species
-before a psilocybin-active one.
-
-### Known Active Species
-
-Five Inocybe species have been confirmed psilocybin-active:
-1. Inocybe aeruginascens
-2. [[inocybe-corydalina-entity]] var. corydalina
+tags: [[inocybe-aeruginascens]] was mistaken for
+[[inocybe-corydalina]] var. corydalina
 3. Inocybe corydalina var. erinaceomorpha
 4. Inocybe coelestium
 5. Inocybe haemacta
@@ -125,26 +75,5 @@ salicinus. Three others have shown activity: P. villosus, P. cyanopus,
 and P. glaucus (from Brazil, with up to 0.28% psilocybin and 0.12%
 psilocin).
 
-### [[pluteus-salicinus]] (Persoon ex Fries) Kummer
-
-Cap 3-7 cm, convex to broadly convex to plane. Gray to gray greenish
-to bluish gray, darker towards disc. Surface smooth to finely scaly
-near center. Gills free, not attached. Pallid to cream, soon pinkish to
-salmon colored at spore maturity. Stem 40-100 mm by 2-6 mm, white to
-grayish green, often with bluish tones. Flesh often bruising bluish
-where injured, especially near base. Spores pinkish, smooth, ellipsoid
-to egg shaped, 7-8.5 by 5-6 um.
-
-**Habitat**: Deciduous woodlands in riparian habitats, typically on
-alder, willow, or their woody debris. **Distribution**: Widely
-distributed across the United States, the British Isles, and northern
-Europe. **Potency**: Weakly to moderately active. 0.05-0.35% psilocybin,
-0-0.011% psilocin. May have races that vary in chemical content from
-region to region.
-
-## Safety Summary
-
-## See Also
-
-- [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
+### [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
 - [[hypholoma-pluteus-inocybe-conocybe-genera]]

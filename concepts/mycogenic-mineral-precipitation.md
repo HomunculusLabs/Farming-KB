@@ -28,94 +28,7 @@ sequestration.
 
 Microbial carbonate precipitation coupled with silicate weathering could
 provide an important sink for CO2 in terrestrial environments. In limestone,
-fungi and [[lichens-biogeochemistry-and-pioneer-colonization]] are
-considered to be important agents of mineral deterioration and formation.
-
-Many near-surface limestones (calcretes), calcic and petrocalcic horizons in
-soils are often secondarily cemented with calcite (CaCO3) and whewellite
-(calcium oxalate monohydrate, CaC2O4.H2O). The presence of fungal filaments
-mineralized with calcite, together with whewellite, has been reported in
-limestone and calcareous soils from a range of localities.
-
-Calcium oxalate can also be degraded to calcium carbonate, for example in
-semi-arid environments, where such a process may act to cement pre-existing
-limestones. During decomposition of fungal hyphae, calcite crystals can act as
-sites of further secondary calcite precipitation. Chitin, the major component
-of fungal cell walls, serves as a substrate on which calcite will readily
-nucleate.
-
-## Oxalate Formation and Metal Detoxification
-
-Fungi can produce metal oxalates with a variety of different metals and
-metal-bearing minerals including Ca, Cd, Co, Cu, Mn, Sr, Zn, Ni, and Pb.
-Calcium oxalate dihydrate (weddellite) and the more stable calcium oxalate
-monohydrate (whewellite) are the most common forms of oxalate in nature and
-are associated with various ecophysiological groups of fungi.
-
-Depending on physicochemical conditions, biotic fungal calcium oxalate can
-exhibit a variety of crystalline forms: tetragonal, bipyramidal, plate-like,
-rhombohedral, or needle-shaped. Precipitation of calcium oxalate can act as
-a reservoir for calcium in the ecosystem and also influences phosphate
-availability.
-
-The formation of toxic metal oxalates provides a mechanism whereby fungi can
-tolerate environments containing potentially high concentrations of toxic
-metals. For example, the oxalate-over-excreting fungus Beauveria caledonica
-was able to transform cadmium, copper, lead, and zinc from a variety of toxic
-metal minerals into insoluble oxalates and was tolerant to all tested
-minerals. Specific mycogenic oxalate minerals include moolooite (copper
-oxalate) and glushkinskite (MgC2O4.2H2O).
-
-## Regulation of Oxalate Excretion
-
-Oxalate excretion by fungi is influenced by several environmental factors:
-
-- Enhanced with NO3- as a nitrogen source compared to NH4+
-- Stimulated by the presence of HCO3-, Ca2+, and some toxic metals (e.g. Cu,
-  Al) or minerals (e.g. pyromorphite, zinc phosphate)
-- Varies between and within fungal species
-- Strongly influenced by the presence of toxic metal minerals
-
-## Reductive and Oxidative Precipitation
-
-Reduced forms of metals and metalloids, including elemental silver, selenium,
-and tellurium, can be precipitated within and around fungal cells by many
-fungi. The reductive ability of fungi is manifested by black colouration of
-fungal colonies precipitating elemental Ag or Te, or red colouration for those
-precipitating elemental Se.
-
-Fungi can oxidize manganese and iron in metal-bearing minerals such as
-siderite (FeCO3) and rhodochrosite (MnCO3) and precipitate them as oxides,
-forming dark Fe(II)- and Mn(II)- patinas on glass surfaces. These oxidative
-transformations have implications for biogeochemical cycling cycling and metal
-immobilization.
-
-## Other Mycogenic Minerals
-
-A specific combination of biotic and abiotic factors can lead to the
-deposition of a variety of secondary minerals associated with fungi. These
-include:
-
-- Birnessite, MnO and FeO
-- Ferrihydrite and iron gluconate
-- Calcium formate and forsterite
-- Goethite, halloysite, and hydroserussite
-- Todorokite and montmorillonite
-
-## Environmental Significance
-
-Precipitation of secondary minerals by fungi has several important
-environmental consequences:
-
-- **Soil aggregation**: precipitation of carbonates, phosphates, and
-  hydroxides increases soil aggregate stability. Cations such as Si4+,
-  Fe3+, Al3+, and Ca2+ stimulate precipitation of compounds that act as
-  bonding agents for soil particles. Hyphae can enmesh soil particles,
-  alter alignment, and release organic metabolites that enhance aggregate
-  stability.
-- **Metal immobilization**: precipitation immobilizes metals in the soil
-  environment and therefore limits bioavailability. This has applications
-  for [[bioremediation-ecosystem-restoration]] of contaminated land.
+fungi and [[mycoremediation]] of contaminated land.
 - **Carbon sequestration**: carbonate precipitation coupled with silicate
   weathering may serve as a CO2 sink in terrestrial ecosystems.
 - **Detoxification**: the ability of fungi to immobilize metals via
@@ -123,10 +36,65 @@ environmental consequences:
 
 ## See Also
 
-- [[fungal-mycogenic-mineral-precipitation]]
-
 - [[fungal-mineral-transformations-biogeochemistry]]
-- [[gadd-fungal-rock-weathering]]
 - [[radiation-resistant-fungi-and-myco-corrosion]]
-- [[gadd-fungal-biodegradation-bioremediation]]
 - [[fungal-soil-aggregate-formation-glomalin]]
+## Practical Considerations
+
+When working with Mycogenic Mineral Precipitation, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

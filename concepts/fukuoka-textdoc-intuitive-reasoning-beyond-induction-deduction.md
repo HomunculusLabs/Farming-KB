@@ -114,9 +114,6 @@ This does not diminish the value of scientific research, but it does reposition 
 
 ## See Also
 
-- [[fukuoka-critique-inductive-deductive]]
 - [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
-- [[fukuoka-errors-human-intellect]]
 - [[fukuoka-textdoc-hotel-building-model-harvest-yields]]

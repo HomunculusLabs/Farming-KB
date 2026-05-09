@@ -67,13 +67,27 @@ The aquatic realm is viewed as a source of primordial knowledge, accessible only
 
 ## Related Topics
 
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] -- the muraya and other shamanic degrees
 - [[sachamama-the-mother-of-the-forest]] -- the terrestrial counterpart to aquatic spirits
 - Huairamama Wind Serpent Of The Amazon -- the sky realm spirits
-- [[ayahuasca-preparation-and-ceremony]] -- how contact with yakuruna is achieved
-
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
-- [[permaculture-multi-purpose-plants]]
 - [[water-pathways-through-plants]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
+## Practical Considerations
+
+Successful implementation of Yakuruna Water Spirits of the Amazon requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

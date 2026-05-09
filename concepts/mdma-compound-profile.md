@@ -13,17 +13,7 @@ MDMA (3,4-methylenedioxymethamphetamine) is a synthetic psychoactive compound in
 
 ## Chemistry
 
-MDMA has the molecular formula C11H15NO2 and a molecular weight of 193.25 g/mol. The N-ethyl homologue [[mde-compound-profile]] (MDEA, EVE) provides a gentler, less stimulating alternative with similar duration. MDMA is structurally related to both mescaline (phenethylamine backbone) and methamphetamine (N-methyl substitution). The methylenedioxy group at positions 3 and 4 of the phenyl ring distinguishes it from other amphetamines. It exists as a racemic mixture of R- and S-enantiomers, with the S-enantiomer producing most of the psychoactive effects.
-
-## Pharmacology
-
-MDMA acts primarily as a monoamine releasing agent:
-
-- **Serotonin**: Potent release of serotonin (5-HT) via reversal of the serotonin transporter (SERT), producing 3-4 fold increases in extracellular serotonin. This is the dominant mechanism behind MDMA's entactogenic effects.
-- **Dopamine**: Moderate release of dopamine via the dopamine transporter (DAT), contributing to stimulant effects, euphoria, and reinforcing properties.
-- **Norepinephrine**: Release via the norepinephrine transporter (NET), producing increased heart rate, blood pressure, and alertness.
-
-MDMA also has weak direct agonist activity at 5-HT2A and 5-HT2C receptors. The serotonin release mechanism differs fundamentally from [[lsd-compound-profile]], which acts primarily as a partial agonist at 5-HT2A.
+MDMA has the molecular formula C11H15NO2 and a molecular weight of 193.25 g/mol. The N-ethyl homologue [[lsd-compound-profile]], which acts primarily as a partial agonist at 5-HT2A.
 
 ## Dosage and Administration
 
@@ -34,59 +24,7 @@ MDMA also has weak direct agonist activity at 5-HT2A and 5-HT2C receptors. The s
 | 100-150 mg | Strong — intense emotional openness, pronounced stimulant effects |
 | 150+ mg | Heavy — high risk of adverse effects, diminishing returns |
 
-Recreational MDMA tablets/capsules typically contain 60-120 mg, though purity varies widely. See [[psychedelic-dose-response]] for dose-response curve principles.
-
-## Duration
-
-| Phase | Duration |
-|---|---|
-| Onset | 20-60 minutes (oral) |
-| Come-up | 20-40 minutes |
-| Peak | 2-4 hours |
-| Offset/comedown | 1-3 hours |
-| After-effects | 24-72 hours |
-
-Total experience duration: approximately 3-6 hours.
-
-## Effects
-
-### Desired Effects
-- Intense feelings of empathy and emotional openness
-- Reduced fear and anxiety in social contexts
-- Enhanced tactile sensation
-- Increased feelings of closeness and connection
-- Mild perceptual changes (not full visual hallucinations)
-- Elevated mood and euphoria
-- Increased energy and wakefulness
-
-### Physiological Effects
-- Pupil dilation, jaw clenching/bruxism
-- Increased heart rate and blood pressure
-- Hyperthermia (elevated body temperature)
-- Nausea, loss of appetite
-- Nystagmus (rapid eye movement)
-
-## Risks and Adverse Effects
-
-- **Neurotoxicity**: High or repeated doses can damage serotonergic neurons in animal models. The clinical significance in humans at therapeutic doses is debated but precautionary dosing intervals (minimum 4-6 weeks) are recommended.
-- **Hyperthermia**: Most dangerous acute risk. Potentially fatal at extreme temperatures. Mitigated by hydration, cool environment, and avoiding vigorous physical activity in hot settings.
-- **Hyponatremia**: Low blood sodium from excessive water intake combined with MDMA's SIADH (syndrome of inappropriate antidiuretic hormone) effect. Can cause cerebral edema and death. The dangerous pattern is drinking large quantities of water without electrolytes.
-- **Serotonin syndrome**: Risk increases with SSRI/MAOI medications. Potentially life-threatening.
-- **Cardiovascular stress**: Hypertension, tachycardia. Risk in those with pre-existing cardiovascular conditions.
-- **Post-use depression**: Temporary depletion of serotonin stores causes dysphoria, fatigue, and irritability lasting 1-7 days.
-
-## Therapeutic Research
-
-### MAPS Phase 3 PTSD Trials
-
-The Multidisciplinary Association for Psychedelic Studies (MAPS, now the Lykos Therapeutics spinoff) has conducted Phase 3 clinical trials for MDMA-assisted psychotherapy for PTSD. Key findings:
-
-- ~67% of participants no longer met PTSD criteria after three MDMA-assisted therapy sessions
-- Effects sustained at 12-month follow-up
-- FDA granted Breakthrough Therapy designation (2017)
-- Treatment protocol: 80-120 mg MDMA followed by optional 40-60 mg supplemental dose, administered in a therapeutic setting with two trained therapists
-
-The therapeutic model integrates pharmacological effects (enhanced trust, reduced fear response) with psychotherapy (processing traumatic memories). See [[psychedelic-therapy-set-and-setting]] for the importance of therapeutic context.
+Recreational MDMA tablets/capsules typically contain 60-120 mg, though purity varies widely. See [[psychedelic-therapy-set-and-setting]] for the importance of therapeutic context.
 
 ## History
 
@@ -98,7 +36,65 @@ The therapeutic model integrates pharmacological effects (enhanced trust, reduce
 
 ## Related
 
-- [[philosophical-implications-of-psychedelics]]
 - [[ecstasy-mdma-heart-opening-psychedelic]]
 - psychedelic assisted therapy protocol
 - [[psychedelic-crisis-response-protocol]]
+## Practical Considerations
+
+When working with MDMA Compound Profile, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

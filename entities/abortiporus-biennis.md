@@ -134,11 +134,7 @@ but these lack the daedaleoid pore surface and sterile flaps characteristic of
 
 ## See Also
 
-- [[piptoporus-betulinus]]
 - [[fomitopsis-pinicola]]
-- [[fomes-fomentarius]]
-- [[trametes-versicolor]]
-- [[daedaleopsis-confragosa]]
+- [[trametes-versicolor-entity]]
 - [[laricifomes-officinalis]]
-- [[inonotus-obliquus]]
-- [[laetiporus-sulphureus-permaculture]]
+- [[laetiporus-sulphureus]]

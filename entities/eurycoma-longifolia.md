@@ -74,53 +74,7 @@ Standardized extracts are typically calibrated to 1-2% eurycomanone or 22-26% to
 
 **Malay medicine:** The root is the primary ingredient in jamu (traditional Malay herbal medicine) formulations for male sexual health. It is consumed as a decoction for low libido, erectile dysfunction, infertility, fatigue, and as a postpartum tonic. It is considered one of the most important male vitality herbs in the Malay pharmacopoeia.
 
-**Indonesian medicine (Jamu):** Used similarly as pasak bumi in tonics for stamina, energy, and sexual potency. Often combined with Pimpinella alpina, [[panax-ginseng|Panax ginseng]], and other tonics.
+**Indonesian medicine (Jamu):** Used similarly as pasak bumi in tonics for stamina, energy, and sexual potency. Often combined with Pimpinella alpina, [[euphoria-longifolia]]
 
-**Vietnamese medicine:** Used as a general tonic, anti-malarial, and for digestive complaints. The bark is also employed in some preparations.
-
-**Ethnic Orang Asli traditions:** Indigenous peoples of Peninsular Malaysia use the root as a tonic, antipyretic, and remedy for wounds and gastrointestinal ailments. The leaves are applied topically for skin conditions.
-
-## Modern Pharmacology
-
-**Testosterone modulation:** Multiple human trials demonstrate that *E. longifolia* extract increases total and free testosterone levels, particularly in men with hypogonadism or age-related decline. Mechanisms include stimulation of Leydig cell testosterone production, reduction of sex hormone-binding globulin (SHBG), and inhibition of the cortisol-mediated catabolic pathway. A landmark 2012 study showed significant improvements in sperm motility, volume, and concentration after 12 weeks of supplementation.
-
-**Ergogenic effects:** Human trials in trained athletes and recreational lifters show improvements in lean body mass, muscle strength, and force production. Mechanisms include enhanced testosterone signaling, increased IGF-1 expression, and reduced cortisol responses to exercise stress.
-
-**Stress modulation:** The 2013 Talbott study demonstrated significant reductions in cortisol (16%) and improvements in T:C (testosterone:cortisol) ratio, tension, anger, and confusion scores in moderately stressed subjects after 4 weeks of supplementation at 200 mg/day.
-
-**Anti-cancer properties:** In vitro and animal studies show cytotoxic activity against breast, prostate, lung, and colon cancer cell lines. Eurycomanone inhibits the PI3K/Akt/mTOR pathway and induces apoptosis in cancer cells while sparing normal cells.
-
-**Antimalarial activity:** Quassinoid fractions demonstrate in vitro activity against *Plasmodium falciparum*, supporting traditional antimalarial use.
-
-## Cultivation and Sustainability
-
-*E. longifolia* is challenging to cultivate due to slow growth (5+ years to harvestable root), dioecious reproduction (requiring both sexes for seed production), and specific soil and shade requirements. Tissue culture propagation has been developed in Malaysia and Indonesia to produce uniform planting material. Malaysia has established large-scale plantations, and the Malaysian government regulates export of wild-harvested roots.
-
-Wild populations are under significant pressure from overcollection. The species is listed on the CITES Appendix II precursor watch list by some conservation organizations. Sustainable cultivation is essential; Indonesia has banned export of raw roots, requiring processing within the country. Root quality varies significantly — Malaysian "Jacky Chew" and "Physta" standardized extracts are considered premium grades.
-
-## Commercial Products and Standardization
-
-The global tongkat ali market has expanded rapidly, with products available as capsules, tablets, liquid extracts, and powdered root. Key quality parameters include:
-
-- **Eurycomanone content:** Premium standardized extracts specify 1-2% eurycomanone by HPLC
-- **Extraction method:** Hot water extraction is the gold standard; some products use ethanol or supercritical CO₂ extraction
-- **Root-to-extract ratio:** Typically 50:1 to 200:1 for concentrated extracts
-- **Origin:** Malaysian-sourced material commands premium pricing; Indonesian material is more common in budget products
-- **Notable brands:** HP Ingredients (Eurycoma Longifolia Jack Complex), Nutrica (Tongkat Ali), PureScience (Tongkat Ali 100:1), and the Malaysian government-backed Physta (standardized to 22% bioactive peptides + 0.8% eurycomanone)
-
-Adulteration is a known industry concern. Low-quality products may be diluted with root powder from related Simaroubaceae species, contain undeclared synthetic compounds, or use immature roots with insufficient bioactive content. Third-party testing by independent laboratories (e.g., COA verification) is recommended.
-
-## Safety and Interactions
-
-*E. longifolia* is generally well-tolerated at standard doses (200-400 mg/day of standardized extract). Mild side effects include insomnia, restlessness, and increased body temperature (consistent with increased metabolic rate and androgenic activity). No serious adverse events have been reported in clinical trials. It is contraindicated in individuals with prostate cancer or other androgen-sensitive conditions. The root contains compounds that may potentiate the effects of antihypertensive and antidiabetic medications. Pregnancy and breastfeeding are contraindications due to insufficient safety data.
-
-The Malaysian Ministry of Health classifies tongkat ali as a traditional medicine under the National Pharmaceutical Regulatory Agency (NPRA). It is not scheduled or controlled in most jurisdictions. WADA (World Anti-Doping Agency) has not placed *E. longifolia* on its prohibited list.
-
-## See Also
-
-- [[euphoria-longifolia]]
-
-- [[ashwagandha|Withania somnifera]]
 - [[rhodiola-rosea|Rhodiola rosea]]
-- [[adaptogenic-herbs-guide]]
 - [[ethnobotany-of-psychedelic-fungi]]

@@ -3,16 +3,12 @@ title: Fungal Bioremediation Case Studies and Field Trials
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Bioremediation Case Studies and Field Trials
 
-The translation of laboratory-scale [[fungal-bioremediation]] successes to field applications has produced mixed but instructive results. Field trials reveal the gap between controlled conditions and real-world complexity, while also demonstrating the genuine potential of fungi for environmental restoration.
-
-## Laboratory vs Field Performance Gap
-
-A persistent theme across all [[fungal-bioremediation]] field trials is the disparity between laboratory and field results:
+The translation of laboratory-scale [[fungal-bioremediation]] field trials is the disparity between laboratory and field results:
 - **Laboratory studies** -- typically use sterile conditions, optimal nutrient media, controlled temperature and moisture, and axenic cultures
 - **Field conditions** -- variable weather, non-sterile soils, competing organisms, suboptimal nutrient status, heterogeneous contamination
 - Laboratory degradation rates are typically orders of magnitude higher than field rates
@@ -59,20 +55,6 @@ Marine and freshwater sediments contaminated with PAHs:
 ## Dye and Effluent Decolorization
 
 ### Pulp and Paper Mill Effluents
-[[white-rot-fungi-effluent-decolorization]] have shown the most commercial promise:
-- **Trametes versicolor** -- achieves up to 93% color removal from pulp mill effluents
-- Bioreactor systems (packed bed, rotating disc) enable continuous treatment
-- Enzyme (laccase, MnP) production correlates with decolorization efficiency
-- Field-scale systems have been implemented in several countries
-
-### Textile Dye Wastewater
-- White rot fungi decolorize synthetic dyes from textile manufacturing
-- Decolorization occurs through adsorption and enzymatic degradation
-- Mixed fungal cultures sometimes outperform single species
-
-## Explosives-Contaminated Sites
-
-### TNT-Contaminated Soil
 [[singh-explosives-tnt-rdx-fungal-degradation]] field applications:
 - Phanerochaete chrysosporium and other white rot fungi tested in TNT-contaminated soil
 - Composting approaches with fungal inocula
@@ -99,25 +81,12 @@ Marine and freshwater sediments contaminated with PAHs:
 - **History of contamination** -- aged contaminants are less bioavailable than fresh spills
 
 ### Operational Variables
-- **Inoculum preparation** -- [[formulation-and-delivery-of-fungal-inocula]] affects establishment
-- **Amendment strategy** -- carbon and nutrient additions must be optimized
-- **Monitoring frequency** -- insufficient monitoring makes results difficult to interpret
-- **Treatment duration** -- fungal degradation is inherently slower than physical/chemical methods
-
-## Lessons Learned
-
-1. **Lignocellulosic amendments are essential** -- wood chips, straw, and similar materials provide both carbon source and physical habitat for introduced fungi
-2. **Realistic timelines are needed** -- fungal remediation typically requires months, not days
-3. **Monitoring must be comprehensive** -- chemical analysis alone is insufficient; biological and toxicity parameters are needed
-4. **Competition management is critical** -- strategies must account for [[fungal-competition-survival-contaminated-soils]] with indigenous microorganisms
+- **Inoculum preparation** -- [[fungal-competition-survival-contaminated-soils]] with indigenous microorganisms
 5. **Integration with other approaches** -- combining physical, chemical, and biological methods often yields the best results
 
 ## See Also
 
-- [[fungal-formulation-delivery-in-situ]]
 - [[fungal-bioaugmentation-inoculation]]
-- [[fungal-competition-survival-contaminated-soils]]
 - [[fungal-pah-degradation-mechanisms]]
-- [[fungal-degradation-chlorophenols-btex]]
 - [[white-rot-fungi-effluent-decolorization]]
 - [[fungal-degradation-explosives-tnt-rdx]]

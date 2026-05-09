@@ -117,18 +117,6 @@ dose.
 Complex surface geometries with shadowed areas or deep crevices can create
 local variations in microwave field strength and steam penetration. The MSAP
 system addresses this through antenna design and material selection, as
-described in [[microwave-sterilizable-access-port]].
-
-## Validation Standard
-
-The complete kill of a 2 x 10^5 CFU mixed population including Bacillus
-pumilus spores at 13.1 W-hr provides a robust validation benchmark. This
-exceeds the typical biological indicator requirement for many sterilization
-applications, which commonly use 10^6 CFU of Geobacillus stearothermophilus
-spores as the challenge organism.
-
-## See Also
-
-- microwave-surface-sterilization for the technology overview
-- [[trace-water-enhanced-microwave-sterilization]] for the water mechanism
-- [[microwave-sterilizable-access-port]] for the engineering system
+described in [[trace-water-enhanced-microwave-sterilization]] for the water mechanism
+- [[microwave-surface-sterilization-microbial-kill-kinetics]]
+- [[trace-water-flash-steam-microwave-sterilization]]

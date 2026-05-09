@@ -11,8 +11,7 @@ tags: [reference]
 
 # HPS Grow Lights
 
-High Pressure Sodium (HPS) lamps are a type of [[cannabis-hid-lighting-specifications]] (HID) light
-widely regarded as the most efficient lighting technology for the [[flowering-phase-cannabis]] of cannabis. HPS lamps produce an orange-red spectrum that promotes dense bud
+High Pressure Sodium (HPS) lamps are a type of [[flowering-phase-cannabis]] of cannabis. HPS lamps produce an orange-red spectrum that promotes dense bud
 development and are the standard light source for commercial indoor cannabis cultivation.
 
 ## HID Lamp Family
@@ -53,59 +52,7 @@ HPS lamps emit light predominantly in the yellow, orange, and red wavelengths (a
 589 nanometers being a strong sodium emission line). This spectrum closely mimics the
 autumn sun and is ideal for promoting flowering and fruiting. However, the spectrum is
 somewhat limited compared to the broader output of metal halide lamps. Many growers
-use MH for [[vegetative-phase-cannabis]] and switch to HPS for flowering.
-
-## Light Intensity Diminishes Rapidly
-
-Light intensity drops off dramatically with distance. A 1000-watt HID that delivers
-100,000 lumens one foot away produces only 25,000 lumens two feet away, and 11,111
-lumens three feet away. This relationship is defined by the inverse square law:
-intensity equals light output divided by the square of the distance. Proper reflector
-choice and lamp height are critical to maximize usable light reaching the canopy.
-
-## Benefits of Lower Wattage Bulbs
-
-Using multiple lower-wattage bulbs offers several advantages over a single high-wattage
-lamp:
-
-- More point sources of light for more even distribution
-- Bulbs can be placed closer to the garden canopy
-- Less heat concentration in any single spot
-- Three 400-watt bulbs can cover 30 to 40 percent more growing area than one
-  1000-watt bulb
-
-## Reflective Hoods
-
-Horizontal reflectors are the most efficient configuration for HID lamps. The reflector
-directs light downward onto the plant canopy. Air-cooled reflectors with ducting allow
-exhaust air to remove heat from the lamp, keeping the grow room cooler. Reflective walls
-(white paint or white Visqueen plastic) increase effective light by reflecting perimeter
-light back onto plants.
-
-Horizontal reflective hoods tend to have a hot spot directly under the bulb. Some
-manufacturers install a light deflector below the bulb to dissipate this hot spot and
-diffuse the light, allowing the hood to be placed closer to plants. The closer the
-reflector is to the arc tube, the less distance light must travel before being
-reflected.
-
-## Ballasts
-
-HPS lamps require a ballast to regulate the electrical current. Ballasts are available
-in magnetic (core and coil) and electronic (digital) versions. Electronic ballasts run
-cooler, quieter, and more efficiently. Each wattage and lamp type requires a matching
-ballast. HPS and MH ballasts are not interchangeable unless using a switchable ballast.
-
-## Conversion Bulbs
-
-Metal halide conversion bulbs are designed to operate on HPS ballasts, allowing growers
-to use a broader spectrum during vegetative growth without purchasing a separate MH
-ballast. Similarly, HPS conversion bulbs can run on MH ballasts. These offer flexibility
-for growers who want both spectrums with one system.
-
-## Heat Management
-
-HPS lamps generate significant heat. A 1000-watt HID radiates a lot of heat and the
-bulb must be kept farther from plants to avoid burning them. Air-cooled reflectors with inline fans, [[ventilation-cannabis]] systems, and proper spacing from the canopy are essential for temperature
+use MH for [[ventilation-cannabis]] systems, and proper spacing from the canopy are essential for temperature
 control. In warm climates, air conditioning may be necessary when running multiple HPS
 lamps.
 
@@ -126,11 +73,7 @@ months old will completely fill the space under one 1000-watt HID.
 
 ## See Also
 
-- [[cmh-grow-lights]] -- ceramic metal halide as an alternative
 - [[led-grow-lights]] -- newer technology comparison
-- [[vegetative-phase-cannabis]] -- growth stage suited to MH spectrum
 - [[flowering-phase-cannabis]] -- stage best served by HPS spectrum
-- [[ventilation-cannabis]] -- heat management for HID lighting
 - [[light-schedule-cannabis]] -- timing light cycles for HPS
-- [[cannabis-hid-lighting-specifications]] -- HID technology overview
 - [[teaming-with-microbes-plant-control]]

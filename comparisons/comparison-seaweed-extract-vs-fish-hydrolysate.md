@@ -63,17 +63,7 @@ Fish hydrolysate contributes bioactive compounds from a different angle:
 
 - **Free amino acids** — directly absorbed by roots and foliage, reducing the plant's energy cost for nitrogen assimilation
 - **Peptides** — signaling molecules that can trigger plant defense responses
-- **Omega-3 fatty acids and fish oils** — support beneficial soil microorganisms, especially [[mycorrhizal-fungi]]
-- **B-vitamins** (B1, B12) — found in cold-processed hydrolysates, support plant metabolism
-- **Chitin traces** (from shellfish bycatch) — can stimulate plant immune responses
-
-**Important:** Fish *emulsion* (heat-processed) loses most amino acids and vitamins. Always choose cold-processed fish *hydrolysate* for maximum bioactive content.
-
-## Soil Microbiome Effects
-
-- **Seaweed extract** stimulates microbial activity through its alginates, mannitol, and polyphenols. It selectively promotes beneficial bacteria and increases mycorrhizal colonization. The chelating action of alginates makes unavailable soil minerals accessible to both microbes and roots.
-
-- **Fish hydrolysate** provides a direct food source for soil bacteria and fungi via amino acids and proteins. This rapid feeding can create a microbial "bloom." The fish oils and lipids are especially valuable for feeding [[saprophytic-fungi]] that build stable soil organic matter.
+- **Omega-3 fatty acids and fish oils** — support beneficial soil microorganisms, especially [[saprophytic-fungi]] that build stable soil organic matter.
 
 Combined, they create synergy: fish hydrolysate feeds the microbial workforce, while seaweed extract provides signaling compounds directing that workforce toward beneficial activity.
 
@@ -144,6 +134,5 @@ Seaweed extract is generally more shelf-stable and easier to handle, making it m
 **Pros:**
 ## See Also
 
-- [[building-soil]]
 - [[composting]]
 - [[fish-amino-acid]]

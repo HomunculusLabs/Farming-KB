@@ -100,46 +100,8 @@ It was not until June 29-30, 1955, that Wasson himself participated in
 a velada (night ceremony) and consumed the sacred mushrooms. Guided by
 the Mazatec curandera Maria Sabina, Wasson underwent a profound
 psychedelic experience. The mushrooms used were subsequently identified
-as [[psilocybe-caerulescens-entity]] and Psilocybe mexicana by Roger Heim of the
-Museum National d'Histoire Naturelle in Paris.
+as [[simon-powell]]
 
-## The Life Magazine Article
-
-Wasson's account was published on June 10, 1957, in Life magazine as
-part of its "Great Adventures" series. It was timed to coincide with
-the release of his magnum opus, the two-volume "Mushrooms, Russia, and
-History," co-authored with Valentina. Only 512 handcrafted copies were
-printed, making it extremely rare and eventually the most valuable book
-by a living author. The Life article exposed the sacred mushroom's
-secret to the Western world, dramatically symbolizing the bypassing of
-centuries of cultural security.
-
-## Aztec Context: God's Flesh
-
-In pre-Columbian times, the mysterious mushroom was known to the Aztecs
-as "God's flesh" (teonanacatl), testifying to its divine potency. Such
-veneration ensured the mushroom a cult status among native Mexicans
-despite the violent cultural upheavals of the Spanish Conquest. The
-sacred mushroom continued to be used throughout the Spanish occupation,
-transmitted solely by word of mouth through jealously guarding shamans
-who feared the mushroom's supernatural power would be diminished if
-shared with outsiders.
-
-## Legacy and Impact
-
-Wasson's discovery had far-reaching consequences. His work led to the
-chemical identification of psilocybin by [[albert-hofmann]] at Sandoz
-laboratories in 1958. The exposure of the sacred mushroom to Western
-science catalyzed research into psychedelic compounds and their
-potential therapeutic applications. Powell argues that Wasson's
-discovery ultimately reveals the psilocybin mushroom as a key to
-unveiling the secrets of consciousness and the hidden riches of Nature.
-
-## Related
-
-- [[simon-powell]]
-
-- [[sacred-mushroom-ceremonies]]
 - [[allegro-sacred-prostitute-and-the-mushroom-cult]] Topics
 
 - [[powell-entheogens-as-epistemological-tools]]

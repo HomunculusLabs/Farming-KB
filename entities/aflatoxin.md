@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Aflatoxins are a group of structurally related toxic [[biodiversity-fungal-secondary-metabolites]] produced primarily by the fungi **Aspergillus flavus** and **Aspergillus parasiticus**. Among the most potent naturally occurring carcinogens known, aflatoxins pose a significant threat to human and animal health worldwide, particularly in tropical and subtropical regions where warm, humid conditions favor fungal contamination of [[grain-and-staple-crops]].
+Aflatoxins are a group of structurally related toxic [[grain-and-staple-crops]].
 
 The four major aflatoxins are designated **B₁, B₂, G₁,** and **G₂**, based on their blue (B) or green (G) fluorescence under ultraviolet light and their relative chromatographic mobility. Aflatoxin B₁ is the most abundant and most toxic member of the group, classified by the International Agency for Research on Cancer (IARC) as a Group 1 human carcinogen.
 
@@ -33,15 +33,7 @@ Aflatoxins are difuranocoumarin derivatives — polycyclic structures featuring 
 - **Molecular formula of B₁:** C₁₇H₁₂O₆
 - **Molecular weight:** 312.27 g/mol
 - **Appearance:** Pale yellow to white crystalline solid
-- **Solubility:** Moderately soluble in chloroform, methanol, and acetone; poorly soluble [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
-- **Stability:** Highly heat-stable; not fully destroyed by normal cooking or pasteurization temperatures
-- **Fluorescence:** B-group aflatoxins emit blue fluorescence under 365 nm UV light; G-group emit green fluorescence
-
-The biosynthetic pathway involves at least 25 enzymatic steps from acetyl-CoA and malonyl-CoA precursors, orchestrated by a 70-kb gene cluster. Key intermediates include norsolorinic acid, averantin, versicolorin A, and sterigmatocystin.
-
-## Toxicology [[seed-dispersal-ecology-and-mechanisms]] of Action
-
-Aflatoxin B₁ exerts its primary toxicity through metabolic activation by hepatic [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes (particularly CYP1A2 and CYP3A4):
+- **Solubility:** Moderately soluble in chloroform, methanol, and acetone; poorly soluble [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes (particularly CYP1A2 and CYP3A4):
 
 - **Bioactivation:** Epoxidation at the 8,9-double bond forms aflatoxin B₁-8,9-epoxide (AFBO), the ultimate toxic metabolite
 - **DNA adduct formation:** AFBO binds covalently to guanine residues, forming the N⁷-guanine adduct (AFB₁-N⁷-Gua), which can lead to G→T transversion mutations
@@ -113,7 +105,6 @@ Aflatoxin contamination has far-reaching economic consequences beyond direct hea
 
 ## See Also
 
-- [[aspergillus-flavus]] — Primary fungal producer of aflatoxins B₁ and B₂
 - [[aspergillus-oryzae]] — Produces both B-group and G-group aflatoxins
 - ochratoxin — Another significant mycotoxin produced by Aspergillus and Penicillium species
 - [[ergosterol]] — Fungal membrane sterol used as a biomarker for fungal contamination

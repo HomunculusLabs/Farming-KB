@@ -125,8 +125,6 @@ in most jurisdictions but occasionally appears in underground markets.
 
 ## See Also
 
-- [[pihkal-2c-b]]
 - [[pihkal-2c-e]]
-- [[pihkal-mescaline]]
 - [[pihkal-2c-t-2]]
 - [[pihkal-introduction-and-methodology]]

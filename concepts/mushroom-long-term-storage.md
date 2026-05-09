@@ -3,7 +3,7 @@ title: Mushroom Long-Term Storage Methods
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: []
 ---
 
@@ -126,6 +126,5 @@ lines, cryopreservation in liquid nitrogen provides the ultimate insurance
 against loss. This layered approach ensures that genetics are preserved even 
 if one storage method fails.
 
-See also: [[mushroom-drying-storage]], [[mushroom-spore-printing-and-storage]], [[mushroom-stock-culture-preservation]], [[mushroom-spawn-making-detailed]], [[mushroom-sterile-technique]], [[mushroom-genetics-and-mating-systems]]
-- [[mushroom-strain-preservation-senescence]]
+See also: [[mushroom-spore-printing-and-storage]], [[mushroom-spawn-making-detailed]], [[mushroom-genetics-and-mating-systems]]
 - [[mushroom-cultivation-wood-logs]]

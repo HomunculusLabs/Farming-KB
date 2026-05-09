@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Garden Soil Terminology and Molecular Biology Glossary
@@ -87,11 +88,7 @@ A comprehensive reference of key terms used in soil science, plant biology, and 
 
 ## See Also
 
-- [[ph-and-nutrient-availability-garden-soils]]
 - [[molecules-of-life-plant-cells]]
-- [[glomalin-and-soil-carbon]]
 - [[nutrient-cycling-in-soil]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

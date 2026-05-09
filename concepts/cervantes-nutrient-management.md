@@ -86,17 +86,12 @@ Nutrients are grouped into three categories:
 - Root temperatures below 40°F cause cell damage from freezing water expansion
 
 ## Related Topics
-- [[cervantes-growing-medium]] — Soil vs hydro vs coco coir
 - [[cervantes-flowering-phase]] — Flowering phase nutrient changes
 
 ## See Also
 
-- [[cervantes-light-measurement-meters]]
-
 - [[cervantes-nutrient-solution-reservoir-management]]
 
-- [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-nutrient-toxicity]]
-- [[cannabis-ph-management-and-soil-flushing]]
 - [[cannabis-nitrogen]]
 - [[cannabis-phosphorus]]

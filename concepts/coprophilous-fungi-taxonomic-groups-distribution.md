@@ -16,22 +16,7 @@ type: concept
 
 # coprophilous fungi taxonomic groups distribution - Taxonomic Groups and Distribution
 
-[[coprophilous-fungi]] are fungi that inhabit or are associated with the
-dung of animals, including soil contaminated with dung. Most are found
-on mammalian dung from domesticated farm animals such as cattle, horses,
-and sheep; from wild mammals, both herbivorous and carnivorous; and
-from birds. Development of the warm-blooded condition appears to be
-important in the evolution of the coprophilous habit. Only a few fungal
-taxa are known from the droppings of groups of invertebrates and other
-vertebrates.
-
-## Taxonomic Groups
-
-### Myxomycetes
-
-Myxomycetes are not particularly common inhabitants of dung in
-temperate forests, and truly coprophilous species are either absent or
-at least rare. Only about 12 species are found exclusively [[fungal-succession-on-dung]] and
+[[fungal-succession-on-dung]] and
 15 predominantly on dung, representing about 2% of the approximately
 700 described species. No obvious adaptations to endocoprophily have
 been found. The most commonly recorded species include Perichaena
@@ -85,14 +70,7 @@ strictly. Some species that use lignin may sporulate together with
 Ascomycetes. Basidiomycetes on dung are less diverse than
 Ascomycetes but include distinctive species in several orders.
 
-## [[sequestrate-fungi-taxonomy-geographic-distribution]] Patterns
-
-### Latitudinal Gradient
-
-Richardson (2001) confirmed statistically that species richness of
-coprophilous fungi decreases with increasing latitude, both on dung
-in general and on specific substrata. This supports the expectation
-that diversity [[fukuoka-natural-farming-in-tropical-regions]] is greater than in temperate
+## [[fukuoka-natural-farming-in-tropical-regions]] is greater than in temperate
 regions, even at higher elevations.
 
 In the zone 0-30 degrees north and south of the equator, 153 taxa

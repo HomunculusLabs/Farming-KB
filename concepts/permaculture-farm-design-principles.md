@@ -3,7 +3,7 @@ title: Permaculture Farm Design Principles
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 ---
 
@@ -127,13 +127,9 @@ Natural systems benefit from the network effect -- the more individuals involved
 
 ## Related Concepts
 
-- [[permaculture-zone-planning]]
 - [[permaculture-zones-and-sectors]]
-- [[permaculture-sector-analysis]]
 - [[permaculture-zone-and-sector-analysis]]
-- [[permaculture-element-analysis-design-methods]]
 - [[pdc-integrated-farm-design]]
 
 Sources: William Ozier Williams, *PDC: A Permaculture Design Course*
-- [[microfungal-species-diversity-large-areas]]
 - [[hamilton-garden-planning-and-site-assessment]]

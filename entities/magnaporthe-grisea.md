@@ -50,43 +50,7 @@ grasses and other cereals.
 ### Genomic Features
 - First fungal plant pathogen to have its genome sequenced
 - Contains 76 G-protein coupled receptors (GPCRs), significantly more
-  than [[neurospora-crassa]] (35 GPCRs)
-- Sixty-one GPCRs belong to a completely new class (PTH11-related
-  proteins) unique to M. grisea
-- Expanded GPCR repertoire may provide greater flexibility in reacting
-  to extracellular signals, related to its pathogenic lifestyle
-
-### Woronin Body Function
-- Contains HEX-1 protein that forms Woronin bodies for septal pore
-  sealing
-- hex-1 mutants show defective appressorium morphogenesis and reduced
-  invasive growth within host plants
-- Mutants exhibit hyphal death in response to nitrogen starvation
-- Nitrogen starvation and in planta growth regulate HEX-1 splice
-  variants through alternative splicing (Soundararajan et al., 2004)
-
-### Host Range and Impact
-- Primarily infects rice (Oryza sativa) but also attacks wheat, barley,
-  millet, and other grasses
-- Can infect all above-ground parts of the rice plant: leaves, nodes,
-  panicles, and seeds
-- Estimated annual rice yield losses of 10 to 30% in endemic areas
-- Capable of both clonal and sexual reproduction
-
-### Environmental Sensing
-- Highly developed environmental sensing machinery enables the fungus
-  to locate and penetrate host surfaces
-- Expanded receptor families detect surface hydrophobicity, cutin
-  monomers, and other host signals
-- Intracellular signaling differs significantly from saprotrophic
-  fungi like Neurospora crassa
-
-### Disease Management
-- Resistant rice cultivars are the primary management strategy
-- Fungicides such as blastin and tricyclazole are used in intensive
-  agriculture
-- Cultural practices including proper nitrogen fertilization and
-  [[water-management]] reduce disease pressure
+  than [[water-management]] reduce disease pressure
 
 ## Relevance
 Magnaporthe grisea represents one of the most significant threats to
@@ -97,7 +61,24 @@ both disease resistance breeding and the development of novel antifungal
 strategies in agriculture.
 
 ## See Also
-- [[fusarium-oxysporum]]
 - [[trichoderma-harzianum]]
-- [[armillaria-mellea]]
-- [[penicillium-entity]]
+- [[fungal-roles-soil-food-webs]]
+## Practical Considerations
+
+Successful implementation of Magnaporthe grisea requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

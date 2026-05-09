@@ -43,22 +43,8 @@ preference for nitrogen-rich substrates.
 ## Spawn Preparation
 
 Rye grain serves as the standard spawn medium. See
-[[stamets-spawn-making-and-grain-culture]] for detailed procedures.
-
-## Fruiting Substrate
-
-Composted wheat straw enriched with horse and/or chicken manure, adjusted to
-70% moisture content, is the primary substrate. Pasteurized chopped wheat straw
-also supports fruitings, though yields are typically less substantial. Garcha
-et al. (1979) reported that composts retaining a distinct ammonia scent after
 [[stamets-phase-ii-composting]] supported the greatest fruitings. Preparation
-methods are detailed in [[stamets-compost-preparation]].
-
-## Pasteurization Method
-
-Substrates are pasteurized through exposure to live steam for 2 hours at
-140 degrees Fahrenheit. The compost or straw should be filled to a depth of
-6 to 12 inches. See [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
+methods are detailed in [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
 for a thorough discussion of pasteurization techniques.
 
 ## Spawn Run Parameters
@@ -73,26 +59,7 @@ for a thorough discussion of pasteurization techniques.
 
 After full colonization, cover with the standard casing layer balanced to a pH
 of 7.0 to 7.5, applied to a depth of 1 to 2 inches. Casing design principles
-are covered in [[stamets-casing-layer-design]].
-
-## Post-Casing and Pre-Pinning
-
-- Relative Humidity: 90 to 100%
-- Bed Temperature: 76 to 80 degrees Fahrenheit
-- Case Run Duration: 10 to 12 days
-- CO2: 5,000 to 10,000 ppm
-- Fresh Air Exchanges: 0 to 1 per hour
-
-## Primordia Formation
-
-- Relative Humidity: 95 to 100%
-- Bed Temperature: 65 to 67 degrees Fahrenheit
-- Air Temperature: 62 to 65 degrees Fahrenheit
-- CO2: less than 1,000 ppm
-- Fresh Air Exchanges: 4 per hour
-- Light: Natural daylight or grow-light on a 12 hour on/off cycle
-
-For pinning triggers, see [[stamets-pinning-initiation-stages-environmental-control]].
+are covered in [[stamets-pinning-initiation-stages-environmental-control]].
 
 ## Cropping Cycle
 
@@ -117,34 +84,13 @@ The greatest challenge is the early onset of deliquescence. By submerging
 mushrooms in water immediately after harvest, deliquescence is slowed and
 mushrooms remain in good condition for several days. This technique is
 essential for any cultivation effort. See
-[[stamets-harvesting-drying-and-storage]] for general harvesting guidelines.
-
-## Antibiotic Properties
-
-Extracts from fresh specimens have been shown to possess antibiotic properties
-similar to those found in Lentinus edodes (shiitake), adding to the species'
-value beyond its culinary qualities.
-
-## Historical Cultivation
-
-This mushroom was first grown in quantity at the Dutch Mushroom Research
-Station using the same compost, casing, and environmental parameters as for
-Agaricus brunnescens. The authors have grown it on compost prepared for
-Agaricus and on straw alone. See
 [[stamets-cultivator-agaricus-bisporus-commercial-methods]] for comparison.
 
 ## Genetic Characteristics
 
 Basidia are tetrapolar (4-spored), forming haploid spores. The species is
 heterothallic. Clamp connections are present. See
-[[stamets-mushroom-genetics-mating-systems-reproduction]].
-
-## Related Topics
-
-- [[stamets-compost-preparation]]
-- [[stamets-phase-ii-composting]]
+[[stamets-compost-preparation]]
 - [[stamets-casing-layer-design]]
-- [[stamets-pinning-initiation-stages-environmental-control]]
 - [[stamets-harvesting-drying-and-storage]]
-- [[stamets-cultivator-agaricus-bisporus-commercial-methods]]
 - [[stamets-mushroom-growing-parameters-by-species]]

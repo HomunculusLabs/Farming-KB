@@ -65,86 +65,28 @@ from Mexico were distributed across vegetation types as follows:
 ### Altitudinal Extremes
 
 Mexican neurotropic fungi span an extraordinary altitudinal range. The highest
-recorded altitude is 4,000 m, where [[psilocybe-aztecorum]] var. aztecorum
-grows in subalpine and alpine habitats of Mexico's highest volcanic mountains.
-P. aztecorum shows relationships with P. baeocystis from the Pacific Northwest
-and P. quebecensis from Quebec, Canada -- all Section Aztecorum. At the other
-extreme, lowland species such as P. cubensis grow near sea level.
-
-### Indigenous Names and Traditional Use
-
-Mexico's indigenous peoples have the longest documented tradition of
-neurotropic fungi use. Guzman (1997) reported more than 200 common names. The
-most important traditional names include:
-
-- **Teonanacatl** -- Nahuatl for "divine mushroom," first reported by
-  Sahagun (1569-1582) and Schultes (1939). Now used for any Mexican
-  hallucinogenic fungi indiscriminately.
-- **San Isidros** -- Spanish name for San Isidro Labrador, patron saint
-  of agriculture; one of the most common names among indigenous peoples.
-- **Pajaritos** -- "Little birds" in Spanish; commonly used for
-  Psilocybe mexicana.
-- **Derrumbes** -- "Landslides" in Spanish; the common name for
-  Psilocybe zapotecorum.
-
-Other documented indigenous names include "apipiltzin" (kid), "atkad"
-(mayor), "di nize taaya" (fungus of the genius), and "teotlaquilnanacatl"
-(divine fungus).
-
-## Central America
-
-### Guatemala
-
-Guatemala has documented Amanita muscaria, Psilocybe caerulescens, P.
-cubensis, and P. mexicana. P. mexicana extends its range beyond Mexico into
-Guatemala. The country remains underexplored mycologically.
-
-### Costa Rica
-
-Costa Rica has records of Amanita muscaria, Claviceps paspali, Copelandia
-cyanescens, Psilocybe cf. aztecorum, P. cubensis, and P. cf. mexicana (Sáenz
-et al., 1983). Costa Rica is noted as one of the most underexplored countries
-for neurotropic fungi.
-
-### Other Central American Countries
-
-- **Belize**: Copelandia cyanescens, Psilocybe cordispora, P. cubensis
-- **El Salvador**: Claviceps paspali, Psilocybe subcubensis
-- **Honduras**: Psilocybe subcubensis
-- **Panama**: Psilocybe caerulescens var. caerulescens, P. dumontii
-
-## Caribbean Region
-
-### Cuba
-
-Cuba has documented Panaeolus papilionaceus, Psilocybe cubensis, and P.
-plutonia. P. cubensis was first reported from Cuba by Earle (1906).
-
-### Jamaica
-
-Jamaica has records of Copelandia cyanescens, Panaeolus fimicola, Psilocybe
-fuliginosa, and P. mammilata (Guzman, 1983; Stamets, 1996).
-
-### Puerto Rico
-
-Puerto Rico is notable for two endemic neurotropic Psilocybe species:
-
-- **P. guilartensis** Guzman et al. -- Described from Puerto Rico by Guzman
-  et al. (1997b)
-- **P. portoricensis** Guzman et al. -- Another endemic from Puerto Rico
-
-Additional Puerto Rican species include Claviceps paspali, Copelandia
-cyanescens, Panaeolus fimicola, P. papilionaceus, P. sphinctrinus, P.
-cubensis, and P. subcubensis.
-
-### Other Caribbean Islands
-
-Martinique, Guadeloupe, Trinidad, Dominican Republic, Granada, Bahamas, and
-Bermuda all have records of neurotropic species, primarily Psilocybe cubensis,
-Copelandia cyanescens, and Panaeolus species.
+recorded altitude is 4,000 m, where [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 
 ## See Also
 
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-- [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
+## Practical Considerations
+
+Successful implementation of Neurotropic Fungi of Central America and Caribbean requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

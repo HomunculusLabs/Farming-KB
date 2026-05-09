@@ -32,7 +32,7 @@ and less when sad.
 ## The Serotonin-Endocannabinoid Connection
 
 The endocannabinoid-induced modulation of stress-related disorders such
-as [[blesching-cannabis-ptsd-anxiety]] or [[blesching-cannabis-infectious-agents-cancer]] appears to be mediated, at least in part, through
+as [[blesching-cannabis-infectious-agents-cancer]] appears to be mediated, at least in part, through
 the regulation of the serotoninergic system. This means that the
 endocannabinoid system can influence how serotonin is produced,
 released, and utilized in the body.
@@ -47,7 +47,6 @@ Low levels of serotonin are linked to:
 - Difficulty finishing things
 - Poor impulse control
 - Irritability
-- [[blesching-cannabis-infectious-agents-cancer]]
 - [[blesching-cannabis-gi-disorders-ibs-crohns]]
 
 ## Serotonin Excess
@@ -84,21 +83,11 @@ levels.
 The serotonin-endocannabinoid connection is particularly relevant for:
 
 - **Gastrointestinal disorders**: With most serotonin located in the gut,
-  the ECS may help modulate [[blesching-cannabis-gastrointestinal-disorders]], [[blesching-cannabis-inflammatory-bowel-disease]], and [[blesching-cannabis-infectious-agents-cancer]]
-- **Mood disorders**: The ECS-serotonin pathway may explain cannabis's
-  anxiolytic and antidepressant effects
-- **Pain management**: Serotonin in platelets contributes to wound
-  healing, and the ECS modulates pain perception
-- **Sleep**: Serotonin is a precursor to melatonin, connecting to
-  [[blesching-cannabis-homeostasis-and-immune-regulation]]
+  the ECS may help modulate [[blesching-cannabis-inflammatory-bowel-disease]], and [[blesching-cannabis-homeostasis-and-immune-regulation]]
 
 ## See Also
 
-- [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]
-
 - [[blesching-endocannabinoid-system-overview]]
-- [[blesching-cannabis-depression]]
 - [[blesching-cannabis-ptsd-anxiety]]
-- [[blesching-cannabis-gastrointestinal-disorders]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[blesching-cannabis-inflammation]]

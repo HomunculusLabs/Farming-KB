@@ -11,8 +11,7 @@ sources: ["raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms
 Amphotericin B is a polyene antifungal antibiotic that has been the gold standard for treating
 serious systemic fungal infections for over six decades. Despite its toxicity, it remains one
 of the most potent antifungal drugs available and is essential for treating life-threatening
-mycoses including [[cryptococcus-neoformans]],
-[[mucormycosis-zygomycete-infections]], and invasive aspergillosis.
+mycoses including [[mucormycosis-zygomycete-infections]], and invasive aspergillosis.
 
 ## Discovery
 
@@ -25,47 +24,7 @@ mycoses including [[cryptococcus-neoformans]],
 
 ## Mechanism of Action
 
-Amphotericin B binds to [[ergosterol-fungal-drug-target]], the principal sterol
-in fungal cell membranes:
-
-1. The polyene portion of the molecule inserts into the fungal membrane
-2. It binds preferentially to ergosterol (over mammalian cholesterol)
-3. Multiple amphotericin molecules aggregate to form transmembrane pores
-4. These pores allow uncontrolled leakage of ions (K+, Na+, H+) and small molecules
-5. The resulting osmotic imbalance leads to cell death
-
-The drug is **fungistatic at low concentrations** and **fungicidal at high concentrations**.
-Its broad-spectrum fungicidal activity is a key advantage over many newer azole drugs.
-
-## Formulations
-
-### Conventional Amphotericin B Deoxycholate (cAmB)
-- Original formulation, introduced in the 1960s
-- Solubilized with sodium deoxycholate
-- Must be administered intravenously
-- Most toxic formulation but also most potent
-- Often called "Fungizone" (brand name)
-
-### Lipid-Based Formulations
-Developed to reduce toxicity while maintaining efficacy:
-
-- **Liposomal amphotericin B (L-AmB):** Amphotericin encapsulated in liposomes
-  - "AmBisome" — most widely used lipid formulation
-  - Reduced nephrotoxicity, can be given at higher doses
-  - First-line for cryptococcal meningitis in many guidelines
-
-- **Amphotericin B lipid complex (ABLC):** "Abelcet"
-  - Ribbon-like lipid structures
-  - Reduced but not eliminated nephrotoxicity
-
-- **Amphotericin B colloidal dispersion (ABCD):** "Amphotec"
-  - Disk-shaped lipid particles
-  - Higher incidence of infusion reactions
-
-## Spectrum of Activity
-
-Amphotericin B has the broadest spectrum of any antifungal drug:
-- **Yeasts:** Candida species, [[cryptococcus-neoformans]]
+Amphotericin B binds to [[cryptococcus-neoformans]]
 - **Molds:** Aspergillus species, Mucorales (Rhizopus, Mucor, etc.), Fusarium
 - **Dimorphic fungi:** Histoplasma, Blastomyces, Coccidioides
 - **Some protozoa:** Leishmania species (off-label)
@@ -143,7 +102,5 @@ Notable for being effective against Mucorales, which are resistant to most other
 
 ## Related Topics
 
-- [[ergosterol-fungal-drug-target]] - Primary molecular target
 - [[cryptococcus-neoformans-pathogenesis]] - Major clinical indication
-- [[mucormycosis-zygomycete-infections]] - Major clinical indication
 - [[fungal-spore-biology]] - Other drug targets

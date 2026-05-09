@@ -109,12 +109,8 @@ P. semilanceata and its active alkaloids are controlled substances in most juris
 
 ## See Also
 
-- [[psilocybe-cubensis]]
 - [[psilocybe-azurescens]]
-- [[baeocystin]]
 - [[norbaeocystin]]
-- [[psilocybe-serotina]]
 - [[pluteus-cyanopus]]
-- [[panaeolus-cyanescens]]
 - [[gymnopilus-earlei]]
 - [[lsd-entity-tihkal]]

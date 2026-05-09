@@ -105,9 +105,7 @@ these questions.
 
 ## See Also
 
-- [[2c-b-pihkal-entry-20]]
 - [[bod-pihkal-entry-14]]
-- [[pihkal-mescaline-analogs]]
 - [[pihkal-qualitative-effects-themes]]
 - [[dosage-ambiguity-fuzzy-numbers-pihkal]]
 

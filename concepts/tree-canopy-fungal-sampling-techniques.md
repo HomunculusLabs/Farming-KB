@@ -102,19 +102,7 @@ Found 74 lichen species and 32 bryophyte species. Techniques applicable to fungi
 ### Severity (Percent Tissue Covered)
 - Measures proportion of tissue with symptoms
 - More samples required
-- Used for rusts, [[biodiversity-powdery-mildews]], foliar spot fungi
-
-### Sample Size Determination
-- Plot means and standard deviations against sample size
-- When curves for both stabilize, adequate sample size reached
-- Minimum 5 points of measurement needed for reliable curves
-
-## See Also
-
-- [[macrofungal-sampling-design-plots-transects]]
-- [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
+- Used for rusts, [[macrofungal-sampling-design-plots-transects]]
 - [[rust-fungi-biodiversity-life-cycles]]
-- [[fungal-biodiversity-forest-floor]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[old-growth-forest-fungi-conservation]]
 - [[fungal-biodiversity-in-extreme-environments]]

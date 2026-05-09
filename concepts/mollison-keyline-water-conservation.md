@@ -3,18 +3,11 @@ title: Mollison: Keyline Water Conservation System
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
+tags: [[water-conservation]] System
 
-# Mollison: Keyline [[water-conservation]] System
+Source: [[permaculture]]: A Designers' Manual (Chapter 7, Section 9)
 
-Source: Bill Mollison, [[permaculture]]: A Designers' Manual (Chapter 7, Section 9)
-
-## Overview of [[keyline-design]]
-
-Mollison identifies P.A. Yeomans' Water for Every Farm / The Keyline Plan (1981) as the pioneering modern text on landscape design for water conservation and gravity-fed irrigation. See also [[keyline-design]] for more detailed keyline design principles.
+## Overview of [[keyline-design]] for more detailed keyline design principles.
 
 Originally written in 1954, it was the first book in English on total water design for foothill farms, encompassing access, tree belts, soil creation, low tillage, and creative water storage.
 

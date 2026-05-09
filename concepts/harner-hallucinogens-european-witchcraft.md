@@ -80,9 +80,8 @@ The connection between European witchcraft and Amazonian/Siberian shamanism also
 
 ## Related Topics
 
-- [[harner-shamanic-journey-and-altered-states]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[ethnomycology]]
+- ethnomycology
 
 ## Key Solanaceous Plants
 
@@ -94,8 +93,6 @@ The connection between European witchcraft and Amazonian/Siberian shamanism also
 ## Chapter Referenced
 
 - Ch.8: Harner, "The Role of Hallucinogenic Plants in European Witchcraft"
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[shamanic-trance-cross-cultural-patterns]]
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 - [[harner-shamanic-journey-and-altered-states]]
 - [[european-witchcraft-hallucinogenic-plants]]

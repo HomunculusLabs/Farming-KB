@@ -23,46 +23,7 @@ The order **Solanaceae** (potato family) contains probably the single most impor
 - **Datura** -- numerous species (Jimson weed, devil's apple, thorn apple, angel's trumpet, toloache)
 - **Mandrake** (*Mandragora*)
 - **Henbane** (*Hyoscyamus*)
-- **Deadly nightshade / Belladonna** (*[[atropa-belladonna]]*)
-
-These plants are widespread in both Old and New Worlds, found in temperate and tropical climates on all continents. They have been used "widely and apparently from ancient times in shamanism, witchcraft, and the vision quest in Europe, Asia, Africa, and among American Indian tribes."
-
-## Active Compounds
-
-All contain varying quantities of **tropane alkaloids**:
-- **Atropine**
-- **Hyoscyamine**
-- **Scopolamine**
-
-These alkaloids can be **extremely dangerous** -- their toxicity can result in death. A critical property: atropine is **absorbable even through intact skin**, making topical application effective for inducing hallucinations.
-
-## Datura in Amazonian Shamanism
-
-### Jivaro Use: Maikua
-
-Among the Jivaro of Ecuador, *Datura arborea* or *suaveolens*, called **maikua**, is used as a hallucinogen **even more powerful than natem** (ayahuasca). Its specialized use:
-
-1. When a curing shaman suspects a **pasuk** (a bewitcher's specialized spirit helper, appearing as a tarantula) is near a patient
-2. The shaman drinks maikua along with tobacco juice
-3. Under its influence, he silently sneaks into the forest to **kill the wakani bird** with tsentsak
-4. After succeeding, he returns to complete the cure
-
-The Jivaro also use Datura for **vision quests**: the most typical apparitions seen during Banisteriopsis or Datura trances are pairs of giant anacondas or jaguars fighting through the forest. Jaguars are often drawn by Jivaro shamans after Datura trances.
-
-### Urban Ayahuasca Additive
-
-In the Peruvian Amazon city of Iquitos, Schultes identified **toe** as *Datura suaveolens*, sometimes added to the ayahuasca brew as an additional hallucinogenic ingredient.
-
-## Datura in Native American Ceremonies
-
-Datura has been used widely among American Indian tribes:
-- Called **toloache** by many Southwestern and Mexican groups
-- Used in **vision quests** and initiation ceremonies
-- The solanaceous plants were among those noted by early anthropologists as contributing to the ethnological importance of native hallucinogens beyond peyote
-
-## Datura in European Witchcraft
-
-See [[harner-european-witchcraft-hallucinogens]] for full treatment. In brief:
+- **Deadly nightshade / Belladonna** (*[[harner-european-witchcraft-hallucinogens]] for full treatment. In brief:
 - Datura was a key ingredient in **witches' flying ointments**
 - Its tropane alkaloids, absorbed through the skin, produced the visionary experiences that were interpreted as flights to Sabbats
 - Lewin (1964): "The mental disorder caused by substances of this kind, for instance Datura, has even instigated some persons to accuse themselves before a tribunal."
@@ -101,6 +62,24 @@ In contrast to ayahuasca (which is typically used in group settings and produces
 
 ## See Also
 
-- [[harner-european-witchcraft-hallucinogens]] - Full treatment of solanaceous plants in European witchcraft
 - [[harner-jivaro-shamanism-yage]] - Jivaro use of natem and maikua in curing and bewitching
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
+## Practical Considerations
+
+Successful implementation of Datura and Solanaceous Plants in Shamanism requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

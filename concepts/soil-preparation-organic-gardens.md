@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Soil Preparation for Organic Gardens
 
@@ -75,11 +76,7 @@ When beds are empty for any length of time, sow green-manure crops. These are gr
 
 ## Related
 
-- [[composting-systems]] for compost production
 - [[soil-food-web-structure]] for soil biology
-- [[cover-cropping-guide]] for green manures
 - [[organic-farming-methods-comparison]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[teaming-with-nutrients-fertilizer-sources]]
 - [[growing-beans-peas-legume-guide]]

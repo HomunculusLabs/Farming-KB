@@ -21,14 +21,14 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Botrytis** (Botrytis cinerea): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
 
 ### Soil-Borne Root and Stem Pathogens
-- **Fusarium wilt** ([[fusarium-oxysporum]]): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
-- **Verticillium wilt** ([[verticillium-dahliae]]): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
+- **Fusarium wilt** (Fusarium oxysporum): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
+- **Verticillium wilt** (Verticillium dahliae): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
 - **Rhizoctonia** (Rhizoctonia solani): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
 - **Pythium** (Pythium spp.): Damping-off, root rot. Water mold. Favored by waterlogged soils
 - **Phytophthora** (Phytophthora spp.): Root rot, crown rot, fruit rot. Affects avocado, citrus, soybean, oak (sudden oak death)
 
 ### Post-Harvest Pathogens
-- **Penicillium** ([[penicillium-expansum]]): Blue mold on apples, pears. Produces patulin toxin
+- **Penicillium** (Penicillium expansum): Blue mold on apples, pears. Produces patulin toxin
 - **Aspergillus** (Aspergillus flavus): Produces aflatoxin on corn, peanuts, tree nuts. Major health concern
 - **Botrytis**: Gray mold on stored fruits and vegetables
 
@@ -66,5 +66,24 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 ## Related
 - [[natural-farming-pest-management]] — for organic pest management
 - [[companion-planting-deterrents]] — for prevention-based approaches
-- [[mushroom-cultivation-fundamentals]] — for fungal biocontrol agents
+- [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
 - [[soil-food-web-structure]] — for biological disease suppression
+## Practical Considerations
+
+Successful implementation of Fungal Pathogens in Agriculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

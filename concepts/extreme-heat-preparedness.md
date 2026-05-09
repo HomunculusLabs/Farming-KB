@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, homesteading, climate, animal-husbandry, health]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Extreme Heat Preparedness
@@ -123,6 +122,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - animal husbandry — Routine livestock care and management
 - livestock health — Livestock health monitoring during stress events
 - [[water-management]] — Water supply and irrigation during drought and heat
+
 
 ## Related
 

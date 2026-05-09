@@ -136,9 +136,6 @@ seedlings are from 30 to 90 centimeters (1 to 3 feet) tall.
 
 ## See Also
 
-- [[cannabis-sex-determination-floral-biology]]
 - [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-breeding-selection-principles-clarke]]
 - [[cannabis-hybridization-back-crossing-methods-clarke]]
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]
 - [[cannabis-sinsemilla-life-cycle]]

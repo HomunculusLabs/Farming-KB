@@ -136,14 +136,9 @@ A rolling permaculture development delivers multiple beneficial effects:
 
 ## Integration with Broader Design
 
-Forest-pasture polyculture integrates with [[forage-systems-animals-permaculture]] and [[mollison-farm-forestry-and-woodlot-design]] to create resilient, multi-product agricultural landscapes. The approach also complements [[mollison-orchard-poultry-integration-and-woodlot-design]] by creating layered production systems that yield food, fodder, timber, and habitat simultaneously.
-
-The principle of combining trees with pasture represents one of the most powerful strategies in [[mollison-tree-crop-systems-permaculture]], transforming single-product farms into diverse, stable, and profitable polycultures.
+Forest-pasture polyculture integrates with [[mollison-farm-forestry-and-woodlot-design]] to create resilient, multi-product agricultural landscapes. The approach also complements [[mollison-tree-crop-systems-permaculture]], transforming single-product farms into diverse, stable, and profitable polycultures.
 
 ## See Also
 
-- [[permaculture-interaction-of-plants-and-animals]]
-
 - [[permaculture-plant-stacking-vertical-guilds]]
-- [[permaculture-design-principles]]
 - [[orchard-plant-guilds-mollison]]

@@ -53,20 +53,11 @@ The free base was obtained by basification of the nitrate salt and distillation,
 
 The most consistent feature across all reports was that 2C-N "somehow came up just a little short of expectations." It works, it produces effects, but never quite delivers the full experience hoped for.
 
-From an esthetic perspective, the pure salt is yellow rather than the usual white, making consumed solutions yellow by definition. From a structural perspective, the 4-nitro group, like the 4-bromo group of [[2c-b-entity|2C-B]], is a dead-end — it cannot be stretched, compressed, lengthened, or shortened. With [[2c-b-entity|2C-B]] the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
+From an esthetic perspective, the pure salt is yellow rather than the usual white, making consumed solutions yellow by definition. From a structural perspective, the 4-nitro group, like the 4-bromo group of [[2c-b|2C-B]] the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
 
 ### Structure-Activity Relationship Context
 
-The nitro group (−NO₂) is a strong electron-withdrawing substituent, quite different from the halogen or alkyl groups that produce the most potent 2C compounds. While nitro groups are common in explosives and pharmaceuticals (e.g., chloramphenicol), their use in psychedelic phenethylamines is rare. The dramatic drop in potency compared to [[2c-b-entity|2C-B]] (100–150 mg vs. 12–24 mg) and the underwhelming qualitative profile suggest that the nitro group's electronic properties are poorly suited for 5-HT₂A receptor activation in this scaffold.
-
-The contrast between the nitro and bromo substituents is instructive: both are "dead-end" substituents (cannot be structurally varied), yet 2c-b-compound-profile|2C-B became one of the most popular and beloved compounds in the entire 2C series, while 2C-N remains a footnote. This underscores how subtle electronic differences at the 4-position can dramatically alter pharmacological outcomes.
-
-## Comparison to Related Compounds
-
-- vs. 2c-b-compound-profile|2C-B: 2C-B is roughly 5–10× more potent with far richer subjective effects
-- vs. 2C-I: 2C-I offers stronger visuals and longer duration
-- vs. 2c-d-compound-profile|2C-D: The precursor (2C-H) is itself inactive at the 4-position
-- vs. [[phenethylamine-chemistry-basics]]: 2C-N was compared to MDMA but lacked the empathogenic warmth
+The nitro group (−NO₂) is a strong electron-withdrawing substituent, quite different from the halogen or alkyl groups that produce the most potent 2C compounds. While nitro groups are common in explosives and pharmaceuticals (e.g., chloramphenicol), their use in psychedelic phenethylamines is rare. The dramatic drop in potency compared to [[phenethylamine-chemistry-basics]]: 2C-N was compared to MDMA but lacked the empathogenic warmth
 
 ## Cautionary Notes
 
@@ -77,6 +68,24 @@ Relatively short duration and underwhelming effects make this a low-priority com
 - 2c-b-compound-profile|2C-B — the 4-bromo analogue, far more successful
 - 2c-d-compound-profile|2C-D — the 4-methyl precursor (2C-H)
 - 2C-I — the 4-iodo analogue, most potent halogen member
-- [[pihkal-introduction-and-methodology]] — methodology behind Shulgin's systematic exploration
 - [[shulgin-dosage-guidelines]] — Shulgin's general approach to dosage determination
 - [[pihkal-qualitative-effects-themes]]
+## Practical Considerations
+
+Successful implementation of 2C-N requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -1,32 +1,7 @@
 ---
 title: Suburban Swale Integration and Village Homes Model
 created: 2026-04-26
-tags: [permaculture, swales, suburban, water-harvesting, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Suburban Swale Integration and Village Homes Model
-
-Mollison presents a compelling case for integrating swale systems into
-suburban and town landscapes, using Village Homes in Davis, California
-as the primary case study. This approach transforms conventional storm
-water drainage from a waste problem into a productive resource that
-supports trees, gardens, and groundwater recharge within residential
-areas.
-
-## The Swale Principle in Settlements
-
-Every sub-humid and arid townscape can, with great energy gain and much
-reduced cost for roading and water use, fit all roads and paved areas
-with swales. Along these swale-planted tree lines shade pavement and
-reduce heat islands while they produce fuel, mulch, and food products.
-Every roof tank overflow and some greywater wastes can be led to swales
-(assuming boron detergents are not used). See
-[[mollison-swale-design-details]] for technical
+tags: [[mollison-swale-design-details]] for technical
 specifications.
 
 ## Village Homes, Davis, California
@@ -100,32 +75,6 @@ inter-swale area exists mainly to run water into swales.
 
 Chicken houses placed over swales, or canals feeding wet terraces,
 provide nutrients via water transport for swale crops and associated
-trees. This integration of animal housing with [[water-management]] creates
-a productive nutrient cycling system within the settlement. The manure
-from animals placed in swales enriches the water that feeds trees and
-crops downslope.
-
-## Pit Systems Within Swales
-
-Two other pit systems are useful in swales: one mulch and manure-filled
-for heavy nutrient feeders (yams, bananas, etc.), and the other to
-hold oil drums, plastic liners, or tyre ponds as a sealed water
-reserve for watering young plants. These can be planted with lotus,
-kangkong, watercress, Chinese water chestnut, or similar aquatic
-crops, adding further productive elements to the swale system.
-
-## Swale Maintenance and Evolution
-
-Mulch blows into, can be carried to, or is grown and mown in swales.
-Fine dust and silts build up in swale bases, and domestic wastes can
-be buried here as a mulch-pit for hungry plants. Over time, silt from
-swales can be graded out or shovelled up to tree lines on the downslope
-side. Swales can be widened over time to create terraces, evolving
-from water-harvesting earthworks into productive terraced garden spaces.
-
-## Related Concepts
-
-- [[mollison-swale-design-details]]
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
+trees. This integration of animal housing with [[mollison-swale-design-details]]
 - [[mollison-pdc-swale-design-water-harvesting]]
 - [[mollison-water-harvesting-management-permaculture]]

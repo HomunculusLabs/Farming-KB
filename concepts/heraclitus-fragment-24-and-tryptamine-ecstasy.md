@@ -138,13 +138,9 @@ tryptamines unlock. He suggests that given ten thousand years and high cultural 
 in such a talent, the ability to perceive and operate within this play-space could become "a
 cultural convenience in the same way that mathematics or language has become a cultural
 convenience."
-
 ## See Also
 
-- [[tryptamine-hallucinogens-and-consciousness]] for the full Esalen lecture
 - [[dmt-self-transforming-machine-elves-mckenna]] for entity phenomenology
 - mckenna tryptamine transtemporal consciousness and nunc stans for the temporal dimension
-- [[mckenna-tryptamine-glossolalia-and-primal-language]] for the language dimension
 - [[dmt-finnegans-wake-and-the-merry-go-raum]] for the Joyce connection
-- [[mckenna-eschatology-and-acceleration-of-history]] for the historical culmination theme
 - [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] for the communication paradox

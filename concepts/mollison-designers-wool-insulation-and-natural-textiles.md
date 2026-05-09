@@ -16,62 +16,7 @@ type: concept
 
 # Wool Insulation and Natural Textiles
 
-[[bill-mollison]] covers natural fibres in Chapter 14 of Permaculture: A
-Designers' Manual as essential materials for self-reliant building and
-clothing production. He presents sheep wool insulation as a superior
-natural alternative to synthetic insulations and describes traditional
-textile processing methods appropriate to permaculture settlements.
-
-## Sheep Wool as Building Insulation
-
-Wool insulation is made from raw or minimally processed sheep fleece,
-compressed into batts or loose-fill forms for installation in walls,
-roofs, and floors. Mollison identifies several properties that make wool
-an excellent insulation material:
-
-- Thermal performance: Wool has a thermal conductivity (R-value) of
-  approximately 3.5 to 4.0 per inch (25mm), comparable to fibreglass
-  batts and superior to many natural alternatives. The crimped fibre
-  structure traps millions of tiny air pockets, providing effective
-  resistance to heat transfer.
-- Moisture buffering: Wool can absorb up to 30 to 35 percent of its
-  weight in moisture without feeling wet or losing significant
-  insulating performance. This moisture buffering capacity helps regulate
-  indoor humidity, absorbing excess moisture in damp conditions and
-  releasing it when conditions dry.
-- Breathability: Wool allows water vapour to pass through, preventing
-  condensation within wall cavities. This is critical for the long-term
-  integrity of timber and earth buildings.
-- Natural fire resistance: Wool is naturally difficult to ignite, has a
-  high ignition temperature (approximately 570 to 600 degrees Celsius),
-  and is self-extinguishing. It does not melt or drip like synthetic
-  fibres, and produces less toxic smoke when exposed to flame. These
-  properties meet most building code fire resistance requirements without
-  chemical treatment.
-- Acoustic absorption: The fibrous structure absorbs sound effectively,
-  reducing noise transmission through walls and ceilings.
-- Sustainability: Wool is renewable (sheep produce a new fleece annually),
-  biodegradable at end of life, and requires minimal energy to process
-  compared to synthetic insulations.
-
-## Wool Insulation Processing
-
-Mollison describes the processing steps for converting raw fleece to
-building insulation:
-
-1. Skirting: Removing dirty, contaminated, or excessively short fibres
-   from the edges of the fleece.
-2. Scouring: Washing the fleece in warm water with a mild detergent or
-   soap to remove lanolin (wool wax), dirt, and vegetable matter.
-   Traditional scouring uses soapwort or other natural saponins.
-3. Carding: Passing the cleaned wool through carding machines (or hand
-   cards) to align fibres and remove remaining tangles and debris.
-4. Needling or felting: The carded wool is mechanically needled (punched
-   with barbed needles) to create coherent batts that hold together
-   without binders. Alternatively, wool can be wet-felted.
-5. Treatment (optional): Some manufacturers apply borax or boric acid
-   treatment for additional moth and insect resistance. See
-   [[mollison-designers-bamboo-treatment-preservation]].
+[[mollison-designers-bamboo-treatment-preservation]].
 6. Compression and packaging: Batts are compressed for storage and
    transport, expanding to full thickness when unpacked.
 
@@ -138,13 +83,5 @@ permaculture zonation system:
 - Mulberry trees in zone 1 to 2 for silk production
 - Natural dye plants in zone 1 to 2 herb gardens
 
-Textile production connects [[mollison-designers-cool-climate-house-design]]
-with animal systems and plant systems, exemplifying the permaculture
-principle of integrating multiple functions.
-
-See also [[mollison-designers-lime-and-cement-natural-building]]
-and [[mollison-designers-bamboo-treatment-preservation]].
-
-## See Also
-
-- [[mollison-designers-wool-processing-natural-dyeing]]
+Textile production connects [[mollison-designers-lime-and-cement-natural-building]]
+and [[mollison-designers-wool-processing-natural-dyeing]]

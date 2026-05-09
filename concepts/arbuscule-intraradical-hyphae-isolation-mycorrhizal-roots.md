@@ -8,15 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 ---
 # Arbuscule and Intraradical Hyphae Isolation from Mycorrhizal Roots
 
-The isolation of metabolically active arbuscules and intraradical hyphae from mycorrhizal roots is essential for biochemical and molecular studies of the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] symbiotic interface. Since AM fungi are obligate symbionts that cannot be cultured independently, studying their intraradical structures requires separating fungal material from host root tissue while preserving metabolic activity. The arbuscule is considered the primary site of nutrient exchange between the fungal and plant partners.
-
-Since AM fungi are obligate symbionts that cannot be cultured independently, studying their intraradical structures requires separating fungal material from host root tissue while preserving metabolic activity.
-
-The arbuscule is considered the primary site of nutrient exchange between the fungal and plant partners.
-
-## Importance of Arbuscule Isolation
-
-Arbuscules are highly branched fungal structures formed within root cortical cells that represent the main interface for bidirectional nutrient exchange. [[phosphorus-plant-nutrition]] is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus. Alkaline phosphatase activity expressed in arbuscules relates to the efficiency of phosphorus uptake and sugar metabolism. Isolation of arbuscules from host tissue is necessary to clarify the biochemical mechanisms of nutrient exchange at the arbuscular interface.
+The isolation of metabolically active arbuscules and intraradical hyphae from mycorrhizal roots is essential for biochemical and molecular studies of the [[phosphorus-plant-nutrition]] is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus. Alkaline phosphatase activity expressed in arbuscules relates to the efficiency of phosphorus uptake and sugar metabolism. Isolation of arbuscules from host tissue is necessary to clarify the biochemical mechanisms of nutrient exchange at the arbuscular interface.
 
 Phosphorus is transferred from the fungus to the plant while carbon compounds flow from the plant to the fungus.
 
@@ -54,7 +46,7 @@ A final wash at 1,000 times gravity for 10 minutes removes residual Percoll.
 
 ## Assessment of Metabolic Activity
 
-Metabolic activity of isolated arbuscules and hyphae is assessed using histochemical staining for succinate dehydrogenase (SDH) activity. SDH-active structures indicate viable, metabolically active fungal tissue. The nitroblue tetrazolium (NBT) method reveals SDH activity through the deposition of blue formazan salts in actively respiring hyphae and arbuscules. See also [[arbuscule-isolation-metabolic-activity-assays]] for related techniques. The proportion of SDH-active arbuscules provides a measure of the functional status of the [[mycorrhizal-symbiosis]].
+Metabolic activity of isolated arbuscules and hyphae is assessed using histochemical staining for succinate dehydrogenase (SDH) activity. SDH-active structures indicate viable, metabolically active fungal tissue. The nitroblue tetrazolium (NBT) method reveals SDH activity through the deposition of blue formazan salts in actively respiring hyphae and arbuscules. See also [[mycorrhizal-symbiosis]].
 
 SDH-active structures indicate viable, metabolically active fungal tissue.
 

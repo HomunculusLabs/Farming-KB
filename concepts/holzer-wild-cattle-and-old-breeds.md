@@ -10,7 +10,7 @@ sources:
 
 # Holzer Wild Cattle and Old Domestic Cattle Breeds
 
-[[sepp-holzer-method]] has bred old domestic and wild cattle breeds at the Krameterhof for decades. This approach embodies his broader philosophy of working with nature rather than against it, and aligns with [[natural-farm-permaculture-ethics-principles]] that emphasise the integration of livestock into productive landscapes.
+[[natural-farm-permaculture-ethics-principles]] that emphasise the integration of livestock into productive landscapes.
 
 ## Breeds at the Krameterhof
 
@@ -32,13 +32,7 @@ Holzer has kept a mixed herd of approximately 50 wild cattle in a 25-hectare pad
 
 All of these animals are particularly hardy and undemanding, making the work required to keep them very low. Holzer's priorities: propagating and maintaining endangered breeds, producing high-quality food, and keeping livestock happy rather than maximising yield.
 
-The choice of old and rare breeds reflects [[faires-livestock-integration-permaculture]] principles: heritage breeds are typically more disease-resistant, better adapted to local conditions, and require fewer inputs than modern commercial breeds selected primarily for maximum production.
-
-## Paddock System for Cattle
-
-Cattle are always kept using a paddock system. This is particularly important for cattle because their weight can cause permanent soil compaction. The paddock system ensures that land is never overused and that soil and vegetation have enough time to recover.
-
-The [[polyculture-design-hemenway]] at the Krameterhof means that paddocks contain diverse plant communities—grasses, herbs, wildflowers, and shrubs—rather than monoculture pastures. This diversity provides a more complete diet for the cattle and supports a wider range of soil organisms.
+The choice of old and rare breeds reflects [[polyculture-design-hemenway]] at the Krameterhof means that paddocks contain diverse plant communities—grasses, herbs, wildflowers, and shrubs—rather than monoculture pastures. This diversity provides a more complete diet for the cattle and supports a wider range of soil organisms.
 
 ### Herd Management
 
@@ -70,64 +64,18 @@ Holzer has made a remarkable observation about cattle self-medication through ca
 
 - Holzer applies this principle broadly: "Food is also medicine! It must be varied, nutritious and healthy, which means it must be free from artificial additives and not contaminated by fertilisers or pesticides."
 
-This observation has profound implications for [[homesteading]]. Rather than routinely dosing animals with pharmaceuticals, Holzer's approach trusts the animals' innate ability to maintain their own health when given access to a sufficiently diverse environment.
-
-### Winter Feeding
-
-Additional feeding is limited to winter:
-
-- Forage fields provide winter food: turnips, fodder kale, Jerusalem artichokes, and many other plants
-
-- Hay, grain, and apple and pear pomace (leftover from juice and cider making) supplement the diet
-
-- Holzer finds it interesting to observe which plants animals prefer when they change paddocks
-
-### Dehorning
-
-Holzer is strongly opposed to dehorning cattle:
-
-- Unbelievably painful for the animals
-
-- Affects their behaviour -- dehorned animals butt each other in the stomach, which can lead to premature or stillbirths in pregnant cows
-
-- Animals may store and dispose of harmful substances in their horns
-
-- Dehorning, docking tails, and cropping ears are mutilation
-
-- "We should be held to account for the way we treat animals"
-
-## The Role of Cattle in the Farm Ecosystem
-
-Beyond their value as breeding stock and food producers, cattle at the Krameterhof play an active role in landscape management. Their grazing patterns create a mosaic of short and tall vegetation that supports diverse insect and bird populations. Their manure returns nutrients to the soil, and their movement between paddocks prevents any single area from being overgrazed.
-
-This integrated approach is characteristic of [[holzer-alpine-farming-techniques]], where every element of the farm serves multiple functions and the boundaries between agriculture, forestry, and conservation are deliberately blurred.
+This observation has profound implications for [[holzer-alpine-farming-techniques]], where every element of the farm serves multiple functions and the boundaries between agriculture, forestry, and conservation are deliberately blurred.
 
 ## Water Buffalo Integration
 
-The water buffalo at the Krameterhof have a unique relationship with the farm's aquatic systems. Their preference for water makes them natural partners for the [[holzer-aquaculture-fish-farming]] operations. Their wallowing behaviour creates shallow ponds and mudflats that provide habitat for amphibians and wading birds, while their manure enriches the water for fish and aquatic plants.
-
-## Connection to Broader Livestock Philosophy
-
-The cattle management at the Krameterhof embodies Holzer's broader livestock philosophy: working with animals' natural instincts, providing diverse habitats, minimising supplementary feeding through good forage design, and treating animals with respect. The self-medication observation is perhaps the most striking example of Holzer's approach -- trusting animals' instincts rather than imposing pharmaceutical interventions.
-
-## Grain and Cattle Integration
-
-Holzer's work with [[holzer-ancient-cereals-growing]] provides additional winter feed options. Heritage grain varieties, grown without chemical inputs, produce straw and grain that can supplement the herd's diet during the cold months, closing the loop between crop and livestock production.
+The water buffalo at the Krameterhof have a unique relationship with the farm's aquatic systems. Their preference for water makes them natural partners for the [[holzer-ancient-cereals-growing]] provides additional winter feed options. Heritage grain varieties, grown without chemical inputs, produce straw and grain that can supplement the herd's diet during the cold months, closing the loop between crop and livestock production.
 
 ## See Also
 
-- [[holzer-alpine-farming-techniques]]
-
 - [[holzer-aquaculture-fish-farming]]
-
-- [[holzer-ancient-cereals-growing]]
 
 - [[chicken-integration-permaculture-guide]]
 
-- [[homesteading]]
-
 - [[polyculture-design-hemenway]]
-
-- [[natural-farm-permaculture-ethics-principles]]
 
 - [[sepp-holzer-method]]

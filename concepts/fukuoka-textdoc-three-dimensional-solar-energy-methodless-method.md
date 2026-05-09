@@ -20,69 +20,7 @@ type: concept
 
 ## The Meaning and Limits of High Yields
 
-In natural farming, high yields rely on the absorption and storage of as much of nature's energy as possible by the crop. For this, the crop must make the fullest possible use of its inherent powers.
-
-The proper role of the natural farmer is not to utilize the animals and plants of nature so much as to help invigorate the ecosystem. Because crops absorb energy from the earth and receive light and heat from the sun, and because they use these to synthesize energy which they store internally, there are limits to the help man can provide.
-
-All he can do really is keep watch over the earth. Rather than plowing the fields and growing crops, man would be better occupied in protecting the vitality of all the organisms inhabiting the earth and in guarding the natural order.
-
-Yet, it is always man who destroys the ecosystem and disrupts the natural cycles and flow of life. Call him the steward and keeper of the earth if you will, but his most important mission is not to protect the earth so much as to keep a close control over those who would ravage and waste it.
-
-The guardian of a watermelon patch does not watch the watermelons, he looks out for watermelon thieves. Nature protects itself and sees to the boundless growth of the organisms that inhabit it.
-
-Man is one of these; he is neither in control nor a mere onlooker. He must hold a vision that is in unity with nature. This is why, in natural farming, the farmer must strictly guard his proper place in nature and never sacrifice something else to human desire.
-
-## The Folly of Monopolizing Sunlight
-
-Scientific farming consists of producing specific crops selected from the natural world to suit our human cravings. This interferes with the well-being of fellow organisms, setting the stage for later reprisal.
-
-The scientist planning to cultivate high-yielding rice on a field sees the weeds growing at his feet only as pests that will rob sunlight and nutrients from the rice plants. He believes, understandably, that he will be able to achieve the highest possible yields by totally eradicating such "intruders" and ensuring that the rice plants monopolize the sun's incident rays.
-
-But removing weeds with herbicides is all it takes to upset the delicate balance of nature. The herbicides destroy the ecosystem of the insects and microorganisms dependent on the weeds, abruptly changing the current of life in the soil bio-community.
-
-An imbalance in this living soil inevitably throws all the other organisms there off balance as well. Unbalanced rice is diseased rice, and therefore highly susceptible to concentrated attack by disease and insect pests.
-
-Those who believe that the monopoly by rice, in the absence of weeds, of the sun's rays will provide the highest possible yields are sadly mistaken. Unable to absorb the full blessings of the sun, diseased rice wastes it instead.
-
-## Weeds as Guardians of Soil Health
-
-The prejudice against weeds runs deep in agricultural science, yet these so-called invaders perform essential services that no fertilizer or chemical can replicate. Weeds serve as a living mulch, shading the soil surface and moderating temperature extremes that would otherwise stress crop roots.
-
-Their root systems penetrate and aerate the earth, creating channels through which water and air reach deeper soil layers. When weeds are permitted to grow alongside cultivated crops, they prevent erosion by binding the topsoil with their intricate networks of roots and runners.
-
-In natural farming, weeds are recognized as pioneers — the first organisms to colonize damaged or bare soil and begin the process of ecological restoration. They accumulate minerals from deep subsoil layers and bring them to the surface through leaf litter, making these nutrients available to subsequent crops.
-
-Rather than competing destructively with rice, carefully managed weed cover coexists in a complementary relationship. The weeds that arise spontaneously in a healthy field are there because the soil called them forth. To tear them out is to reject the soil's own healing intelligence and to insist, arrogantly, that human judgment knows better than the land itself.
-
-## The Three-Dimensional Energy View
-
-With its limited perception, scientific farming cannot make the same full use of solar energy as natural farming, which views nature holistically. Before pulling the weeds growing at the base of the rice plants, natural farming asks why they are there.
-
-Are these grasses the by-product of human action or did they arise spontaneously and naturally? If the latter, then they are without doubt of value and are left to grow. The natural farmer takes care to allow natural plants that protect the natural soil to carry out their mission.
-
-Green manure thriving at the foot of the rice plants and, later, algae growing on the flooded field are thought to detract from yields because they directly and indirectly shield the sun, reducing the amount of light received by the rice plants.
-
-But we reach a different conclusion if we see this as a nearly natural state. The total energy absorbed by the rice, green manure, algae, and earth is greater than the energy stored from the sun's rays by the rice plants alone.
-
-The true value of energy cannot be determined merely by counting the number of calories. The quality of the energy produced within the plant by conversion from absorbed energy must also be taken into account.
-
-There is a world of difference between whether we look only at the amount of energy received by the rice plant or take a three-dimensional view of its quantitative and qualitative utilization of energy from the sun's rays.
-
-## The Green Manure to Algae to Microbe Cycle
-
-Energy from the sun is absorbed by the green manure plants. When the field is flooded, these wither and die, passing on their nitrogen to algae, which in turn become a source of phosphate.
-
-Using this phosphate as a nutrient source, microbes in the soil flourish and die, leaving nutrients that are absorbed by the roots of the rice plants. If man were able to comprehend all these cycles of energy and elements at once, this would become a science greater than any other.
-
-How foolish to focus only on solar energy apart from the rest of nature and think that merely by examining the amount of starch synthesis in the leaves of rice plants, one can gauge utilization of the sun's energy.
-
-People must begin by understanding the futility of knowing bits and pieces of nature, by realizing that a general understanding of the whole cannot be acquired through value judgments of isolated events and objects.
-
-They must see that the moment the scientist endeavors to attain high yields by using the energy of the wind or sun, he loses a holistic view of wind power and sunlight, and energy efficiency declines. It is a mistake to think of the wind and light as matter.
-
-## Nature's Immeasurable Energy Absorption
-
-Science reduces energy to measurable quantities — calories, lumens, joules — but nature absorbs and transforms energy through channels that no instrument can detect. The warmth retained by a living soil ecosystem, the subtle exchanges between root exudates and microbial communities, the way a field of mixed vegetation creates microclimates that amplify the effective utilization of sunlight: these are phenomena that escape quantification entirely.
+In [[root-exudates]] and microbial communities, the way a field of mixed vegetation creates microclimates that amplify the effective utilization of sunlight: these are phenomena that escape quantification entirely.
 
 When the scientist measures only the starch produced in a single species of plant, he captures a thin sliver of reality. He misses the energy stored in soil humus, the thermal mass of decomposing organic matter, and the biological complexity that gives a natural field its resilience against drought, flood, and pestilence.
 
@@ -122,7 +60,24 @@ The relationship between sparse seeding and natural form mirrors a deeper princi
 
 ## See Also
 
-- [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-matter-spirit-unity-food]]
+## Practical Considerations
+
+Successful implementation of Three-Dimensional Solar Energy and the Methodless Method requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

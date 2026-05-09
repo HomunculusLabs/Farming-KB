@@ -20,37 +20,6 @@ soil amendments, but they differ significantly in process, scale, speed, and the
 finished product.
 
 ## Vermicomposting
-[[vermicomposting]]
-
-Vermicomposting is a mesophilic process that relies on the digestive action of earthworms and
-their associated microorganisms to break down organic matter. The primary species used is
-Eisenia fetida, commonly known as the red wiggler or composting worm, which thrives in confined
-environments and processes organic waste remarkably efficiently. The worms consume organic
-material, and their castings (vermicast) are among the most nutrient-rich soil amendments
-available, packed with plant-available nutrients, beneficial microbes, and growth hormones.
-
-The process operates at moderate temperatures between 55 and 77 degrees Fahrenheit, making it a
-cool-composting method that can be done indoors or in sheltered locations year-round. This
-temperature range is critical; above 85 degrees Fahrenheit the worms become stressed and may die,
-and below freezing they will not survive. Vermicomposting bins come in many designs including
-stacked tray systems, continuous flow-through bins, and simple plastic tote setups. The worms
-process material continuously, and finished vermicast can be harvested from the bottom of the bin
-while active composting continues in the upper layers.
-
-Vermicomposting is particularly well suited to household-scale waste processing. Kitchen scraps,
-shredded paper, cardboard, and coffee grounds are all excellent feedstocks. The system requires
-relatively little space and produces minimal odor when managed properly, making it popular for
-apartments, classrooms, and urban settings. The finished vermicast is typically used as a top
-dressing, a component in potting mixes, or brewed into compost tea for foliar application.
-
-The biology of vermicomposting also produces unique compounds not found in traditional compost.
-Vermicast contains humic acids, cytokinins, and other plant growth regulators that can stimulate
-seed germination and root development. Research has shown that vermicast can suppress certain
-soilborne diseases, possibly due to the specific microbial communities that pass through the
-worm gut. These biological properties make vermicast a premium product for high-value horticultural
-applications.
-
-## Composting in the Organic Garden
 [[composting-organic-garden]]
 
 Composting in the organic garden uses thermophilic decomposition, where microbial activity
@@ -130,8 +99,6 @@ volume advantages of hot composting with the refinement of worm processing for t
 worlds.
 
 ## See Also
-- [[vermicomposting]]
 - [[composting-organic-garden]]
-- [[compost-tea-guide]]
 - [[cover-cropping-guide]]
 - [[soil-food-web]]

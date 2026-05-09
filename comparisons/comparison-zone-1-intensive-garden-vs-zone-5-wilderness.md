@@ -22,32 +22,8 @@ creating a gradient of decreasing management intensity between them.
 
 ## Zone 1 Intensive Garden
 
-[[zone-1-intensive-garden]]
-
-Zone 1 is the area right outside the door, visited most often and requiring the most
-care. In a typical suburban yard, it contains salad greens, herbs, dwarf fruit trees,
-a patio, and other daily-use elements. The permaculture zone system places elements
-requiring the most attention closest to where we live, based on two factors: how
-often we need to visit the plant, and how often it needs us.
-
-Zone 1 typically includes intensively weeded and mulched garden beds, trellises and
-arbors, espaliered fruit trees, dense plantings of vegetables and flowers, small
-ponds and water features, rain barrels and greywater outlets, outdoor living spaces,
-bird feeders and baths, small animal housing like rabbit hutches, and greenhouses or
-cold frames. The principle is that elements needing daily attention should be within
-arm's reach: herbs for cooking, salad greens for dinner, and cherry tomatoes for
-snacking are all close at hand.
-
-Key design patterns include [[keyhole-beds]] (circular beds with central access
-maximizing growing space while minimizing paths), [[herb-spiral]] (compact
-structures putting 20 to 30 linear feet of herbs in a small footprint with varied
-microclimates from moist, cool base to dry, warm top), and sheet-mulched intensive
-beds. Zone 1 is where the gardener's energy and attention are concentrated for
-maximum return per unit of effort.
-
-## Zone 5 Wilderness
-
-[[zone-5-wilderness]]
+[[keyhole-beds]] (circular beds with central access
+maximizing growing space while minimizing paths), [[zone-5-wilderness]]
 
 Zone 5 is the wildest, most natural area of a permaculture property, left
 intentionally untended as a sanctuary for wildlife, a source of clean water, and an
@@ -106,17 +82,5 @@ to minimal management provides meaningful ecological benefits.
 ## Hybrid Approaches
 
 The zone system is a gradient, not hard boundaries. [[zone-and-sector-analysis]]
-reveals that Zone 2 and Zone 3 blend intensive management with increasing
-naturalization. Food forests in Zone 2 integrate productive trees with understory
-plantings that increasingly self-manage. Zone 4 forage and woodlot areas require
-minimal management while still producing yields. The goal is a smooth transition from
-the intensive human management of Zone 1 to the complete autonomy of Zone 5, with
-each zone informing the design of the next through observation and feedback.
-
-## See Also
-
-- [[zone-and-sector-analysis]]
-- [[zone-system]]
 - [[keyhole-beds]]
-- [[herb-spiral]]
 - [[food-forest-design]]

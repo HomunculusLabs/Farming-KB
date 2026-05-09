@@ -66,18 +66,30 @@ Two books were especially influential in keeping plant hallucinogens in the publ
 
 ## Related Concepts
 
-- [[shroom-cultural-history-western-discovery-valentina-wasson]] — Wasson's Life article that started the chain of events
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The Mazatec traditions that became overwhelmed by the counterculture
-- [[shroom-cultural-history-western-discovery-valentina-wasson]] — The legacy of the 1960s in contemporary mushroom culture
 - [[good-friday-experiment-marsh-chapel]]
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[leary-harvard-psilocybin-project]]
-- [[timothy-leary-harvard-psilocybin-experiments]]
-- [[mushroom-cultivation-fundamentals]]
-- [[fungal-culture-preservation-long-term-methods]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
-- [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 - [[shroom-cultural-history-western-discovery-valentina-wasson]]
-- [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
 - [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
 - [[ayahuasca-tourism-peru-retreat-landscape]]
+## Practical Considerations
+
+Successful implementation of The Hippie Revolution and Counterculture — Shroom requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

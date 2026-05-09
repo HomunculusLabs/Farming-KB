@@ -78,63 +78,8 @@ Hydroclay (also called hydroton or expanded clay pebbles) is used more
 and more as a soil amendment in containers. The large expanded clay
 pellets expedite drainage and hold air within the growing medium.
 Hydroclay can be mixed into soil at 10-20 percent to improve drainage
-in heavy or compacted soils. See [[cervantes-hydroponic-systems]] for
-more information on hydroclay as a standalone growing medium.
+in heavy or compacted soils. See [[cervantes-growing-medium]] and [[knf-vs-chemical-farming-comparison]] Concepts
 
-## Soil Amendment Ratios
-
-A good basic soilless mix might contain:
-- 0.3 compost
-- 0.3 soilless mix
-- 0.16 worm castings
-- 0.16 perlite
-
-When amending garden soil for indoor use, amend by up to 80 percent
-with mineral amendments to improve water retention and drainage. Even
-soil that drains well outdoors needs amending to drain properly
-indoors. For more on complete soil mixes, see [[cervantes-growing-medium]] and [[cannabis-advanced-growing-techniques]].
-
-## Choosing the Right Amendment
-
-Select the appropriate amendment based on your specific needs:
-
-- **Need better drainage?** Choose coarse perlite or pumice. These
-  mineral amendments create air channels in heavy soils and prevent
-  compaction in container gardens. Coarse perlite is especially
-  effective for fast-draining mixes during vegetative and flowering
-  growth.
-
-- **Need more water retention?** Choose vermiculite. Its fibrous
-  structure holds significant moisture while still allowing some
-  aeration. Vermiculite is ideal for seedling mixes and wicking
-  systems where consistent moisture is critical.
-
-- **Need aeration without excess weight?** Pumice provides excellent
-  aeration and moisture retention while adding minimal weight to
-  containers, making it ideal for large pots and raised beds.
-
-- **Need a reusable amendment?** Expanded clay (hydroclay) can be
-  cleaned and reused between grows, making it a cost-effective
-  long-term investment.
-
-## Common Mistakes
-
-Avoid using more than 30 percent of any single amendment in a mix,
-as lightweight amendments like perlite and pumice will float and
-stratify when saturated. This creates an uneven distribution of
-components in the container. Mix amendments thoroughly with your
-hands when wet to ensure even distribution before planting.
-
-Fine vermiculite holds too much water for rooting cuttings on its
-own. Always combine it with a faster-draining medium like perlite
-or coarse sand for cloning applications.
-
-## Related
-
-- [[knf-vs-chemical-farming-comparison]] Concepts
-
-- [[cervantes-growing-medium]] - comprehensive guide to growing media
-- [[cannabis-advanced-growing-techniques]] - organic approaches to soil management
-- [[cannabis-advanced-growing-techniques]] - potting up with amended soil
-- [[cannabis-advanced-growing-techniques]] - watering amended soils
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - organic approaches to soil management
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - watering amended soils
 - [[cervantes-container-gardening-pot-size]] - containers and drainage

@@ -85,10 +85,6 @@ Beyond sprayed pesticides, JADAM employs several physical and cultural methods:
 
 JADAM directly challenges the conventional practice of removing all crop residues after harvest to prevent pest carryover. This practice, called "field sanitation," was created to conceal the error of not using crop residues as fertilizer. In nature, dead plant material is always left to decompose in place, feeding the soil biology that protects next season's growth. JADAM advocates leaving crop residues and instead focusing on building microbial diversity, which naturally suppresses pathogen buildup.
 
-## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and Biodiversity
-
-While JADAM does not prescribe specific companion planting combinations, the principle of maintaining biodiversity is central to pest management. A diverse farming ecosystem with multiple plant species, wild grass areas, and healthy soil biology naturally regulates pest populations. Predatory insects, parasitic wasps, and other beneficial organisms thrive in diverse environments and keep pest species in check.
-
 ## [[integrated-pest-management]]: The JADAM Way
 
 JADAM's approach can be summarized as a form of integrated pest management that prioritizes prevention over treatment:
@@ -104,7 +100,5 @@ Pesticides are probably the most expensive part of farming. By making natural pe
 
 ## See Also
 
-- [[ultra-low-cost-farming-overview]]
 - [[cho-pest-control-methods]]
-- [[natural-farming-methods-comparison]]
 - [[bee-feeding-and-fungal-pesticides]]

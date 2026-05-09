@@ -12,15 +12,7 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 Updated: 2026-04-18
 
-Source: Harbhajan Singh, Mycoremediation: [[fungal-bioremediation]] (2006), Chapters 8-9
-
-## Overview
-
-Laccase (EC 1.10.3.2) is a multicopper oxidase that plays a central role in fungal bioremediation. While it naturally oxidizes phenolic compounds, the use of redox mediators dramatically expands its substrate range to include nonphenolic pollutants such as high-molecular-weight mycoremediation-of-pahs|PAHs and synthetic dyes. This page compiles the key degradation data for mycoremediation-of-pahs|PAHs and dyes from Singh's comprehensive review. See also [[singh-ligninolytic-enzymes-fungal-bioremediation]], [[singh-pah-biodegradation-fungi-soils-bioreactors]].
-
-## Laccase Fundamentals
-
-Laccase is the most widely distributed [[lignin-degradation-mechanisms-wood-rot-fungi]] among fungi. It catalyzes the one-electron oxidation of phenolic substrates to phenoxy radicals while reducing molecular oxygen to water. The enzyme contains four copper atoms at its active site. Without mediators, laccase has a limited redox potential that restricts it to phenolic substrates. With mediators, it can oxidize nonphenolic compounds with higher redox potentials.
+Source: Harbhajan Singh, Mycoremediation: [[singh-ligninolytic-enzymes-fungal-bioremediation]], [[lignin-degradation-mechanisms-wood-rot-fungi]] among fungi. It catalyzes the one-electron oxidation of phenolic substrates to phenoxy radicals while reducing molecular oxygen to water. The enzyme contains four copper atoms at its active site. Without mediators, laccase has a limited redox potential that restricts it to phenolic substrates. With mediators, it can oxidize nonphenolic compounds with higher redox potentials.
 
 ## Key Mediators
 
@@ -85,8 +77,6 @@ These metabolites are generally less toxic and more water-soluble than parent my
 - Heterocyclic dyes
 
 ### Key Fungal Species for Dye Decolorization
-- [[turkey-tail-trametes-versicolor]]: most extensively studied; effective against wide range of dye structures
-- Trametes hirsuta: efficient laccase producer for dye treatment
 - [[pleurotus-ostreatus]]: significant dye decolorization in solid-state fermentation
 - Coriolopsis gallica: high laccase activity for dye treatment
 - Bjerkandera adusta: effective for recalcitrant dyes
@@ -137,8 +127,7 @@ Constructed wetlands employing fungal communities have been investigated for was
 
 ## Genetic Engineering of Laccase
 
-Laccase genes have been cloned from multiple fungal species. Heterologous expression systems have been developed, making laccase more accessible for industrial applications than other [[lignin-degradation-mechanisms-wood-rot-fungi]]s:
-- [[turkey-tail-trametes-versicolor]] laccase genes well characterized
+Laccase genes have been cloned from multiple fungal species. Heterologous expression systems have been developed, making laccase more accessible for industrial applications than other [[turkey-tail-trametes-versicolor]] laccase genes well characterized
 - Pycnoporus cinnabarinus laccase gene cloned
 - Pleurotus spp. laccase genes identified
 - Site-directed mutagenesis used to improve substrate range and stability

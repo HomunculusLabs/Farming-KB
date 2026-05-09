@@ -20,33 +20,10 @@ Check dams are barrier structures built across watercourses
 that are not primarily intended to create water storages,
 but to retard flow, spread water, capture silt, and
 stabilise eroding channels. They are essential components of
-[[mollison-arid-lands-design-and-erosion-control]] and [[mollison-earthworks-planning-and-post-earthworks-planting]]
+[[mollison-earthworks-planning-and-post-earthworks-planting]]
 planning, complementing larger
 mollison designers check dam types and landscape placement and
-[[mollison-designers-gabions-and-stone-weirs-for-gully-control]].
-
-## Purpose of Check Dams
-
-Unlike storage dams that hold water for later use, check
-dams serve primarily to:
-
-- Create flat areas where silt loads can usefully deposit
-- Form absorption beds in flood conditions
-- Reduce the velocity of flood water
-- Spread water across eroding valleys
-- Reduce silt load in streams
-- Enable water diversion to canals or ridge lines
-- Provide head for ram pumps or water wheels
-- Allow normal low flow to pass while retarding floods
-
-## Types of Check Dams
-
-### Diversion Check Dams
-These divert intermittent flow to ridges, storages, or
-canals on contour. They are designed with specific outlet
-structures that direct water to useful destinations rather
-than allowing it to continue down the watercourse. They are
-integral to [[mollison-keyline-water-conservation]]
+[[mollison-keyline-water-conservation]]
 systems where water is moved from valleys to ridges.
 
 ### Concrete Flood Check Dams
@@ -97,48 +74,9 @@ boundaries and within these zones to manage water movement:
 - In transition zones: silt check dams capture sediment
   before it reaches lower slopes
 - In revitalisation zones: gabion check dams spread water
-  and create conditions for [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
-
-## Integration with Dam Series
-
-Check dams work as part of integrated dam series in the
-landscape. The broader system includes:
-
-- mollison designers check dam types and landscape placement
-  on ridgelines
-- Ridgepoint dams on sub-plateaus
-- [[mollison-pdc-keypoint-keyline-humid]]
+  and create conditions for [[mollison-pdc-keypoint-keyline-humid]]
   in valleys
 - Contour dams on slopes of 8% or less
-- [[mollison-farm-dam-design-modifications]]
-  across streams
-- Check dams throughout the drainage network
-
-## Check Dams for Stream Health
-
-Check dams that allow normal flow to pass while retarding
-floods are critical for maintaining stream health. Large
-barrier dams can reduce the productive capacity of
-downstream agricultural soils, productive lakes, and
-estuaries by depriving them of flush-water and silt
-deposits. Check dams, by contrast, allow continued flow
-while reducing destructive flood peaks.
-
-Low barrier dams of 1-4 m (3-13 feet) high can assist
-stream oxygenation, provide permanent pools, be "stepped"
-to allow fish ladders or bypasses, and also provide local
-sites for modest power generation.
-
-## Construction Considerations
-
-For all check dam types, careful attention must be paid to:
-
-- Spillway design: must handle maximum expected flows
-- Foundation stability: core out sample pits for assessing
-  soil and rock conditions
-- Grade behind wall: lower slopes give greatest capacity
-- Integration with downstream features: each dam affects
-  flow conditions at the next structure downstream
 - [[mollison-designers-post-earthworks-planting-and-slope-stabilisation]] to stabilise all exposed earth surfaces
 
 ## Scaling from Farm to Catchment

@@ -141,7 +141,6 @@ However, cannabis can induce unwanted results when exceeding the subjective ther
 
 A useful rule of thumb from the Cannabis Health Index: if a medication carries a grapefruit warning (grapefruit inhibits CYP3A4), it will likely interact with cannabis through the same mechanism. This includes many blood pressure medications, statins, benzodiazepines, and other common drugs.
 
-See also: [[cannabis-dosing-guidelines-by-condition]], [[cannabis-administration-methods-comparison]], doi entity, doi entity, [[cannabis-elderly-patients]], [[cannabis-cardiovascular-health]]
-- [[cannabis-safety-profile-and-overdose-risk]]
+See also: [[cannabis-administration-methods-comparison]], doi entity, doi entity, [[cannabis-cardiovascular-health]]
 - [[cannabis-for-epilepsy-and-seizure-disorders]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]

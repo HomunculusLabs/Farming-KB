@@ -136,14 +136,9 @@ GSC has been widely used medicinally for:
   conditions like MS and fibromyalgia
 ## See Also
 
-- [[animal-face]]
 - [[og-kush]]
-- [[sour-diesel]]
 - [[cannabis-blue-dream]]
-- [[jack-herer]]
 - [[northern-lights]]
-- [[white-widow-entity]]
 - [[gorilla-glue]]
-- [[cannabis-sativa]]
 - [[cannabis-indica]]
 - [[mendo-breath-entity]]

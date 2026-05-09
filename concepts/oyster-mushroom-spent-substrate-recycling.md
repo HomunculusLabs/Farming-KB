@@ -3,7 +3,7 @@ title: Oyster Mushroom Spent Substrate Recycling
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
+tags: [[mycology, cultivation, mushrooms]
 sources: ["raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"]
 ---
 
@@ -92,17 +92,11 @@ Pleurotus SMS contains significantly higher primary nutrients than conventional 
 
 ## Related
 
-- [[oyster-mushroom-agricultural-waste-substrates-survey]]
 - [[cotter-oyster-mushroom-cultivation]]
-- [[spent-mushroom-substrate-recycling]]
 - [[oyster-mushroom-harvesting-post-harvest]]
-- [[mushroom-waste-management-composting]]
 - [[mushroom-substrate-pasteurization-comparison]]
-- [[mushroom-post-harvest-handling]]
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]
 
-[[mycoremediation-case-studies]]
 [[biochar-soil-amendment]]
-[[vermicomposting]]
 [[substrate-pasteurization]]
 [[stamets-pleurotus-oyster-cultivation]]

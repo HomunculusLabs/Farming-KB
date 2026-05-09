@@ -5,50 +5,9 @@ type: species
 tags:
   - hawaiian-baby-woodrose
   - lsa
-  - [[ergoline]]-alkaloids
-  - psychedelic
-  - convolvulaceae
-  - morning-glory
-  - entheogen
-  - traditional-use
-  - seed
-  - tropical-vine
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://en.wikipedia.org/wiki/Argyreia_nervosa
-  - https://pubmed.ncbi.nlm.nih.gov/?term=argyreia+nervosa+lysergamide
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6609648/
-  - https://www.erowid.org/plants/argyreia/argyreia.shtml
----
-# Argyreia nervosa (Hawaiian Baby Woodrose)
-
-**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBWR), is a perennial climbing vine in the Convolvulaceae (morning glory) family. Native to the Indian subcontinent, it is widely cultivated as an ornamental and is known for its seeds, which contain [[morning-glory-lsa-and-ergoline-alkaloids]] including **[[lysergic-acid-amide]] (LSA)**, a naturally occurring compound structurally related to LSD.
-
-## Taxonomy and Botany
-
-- **Family:** Convolvulaceae
-- **Genus:** *Argyreia*
-- **Species:** *A. nervoaustralian-magic-mushroom-common-namesf.) Bojer
-- **Common names:** Hawaiian Baby Woodrose, Elephant Creeper, Woolly Morning Glory, Vidhara (Sanskrit/Ayurveda)
-
-The plant is a vigorous woody vine that can climb 10–15 meters. It features large, heart-shaped leaves (10–20 cm) covered on the undersurface with a distinctive silvery-white indumentum (fuzzy hair). Flowers are trumpet-shaped, pink to purplish, approximately 5–7 cm long. The seed pods are round, woody capsules containing 1–4 large, durable seeds (~8–12 mm diameter).
-
-### Distribution
-- **Native:** Indian subcontinent (India, Nepal, Sri Lanka, Bangladesh)
-- **Infungi-of-southeast-asiaalized:** Hawaii, Caribbean, West Africa, Southeast Asia, northern Australia
-- **Habitat:** Tropical and subtropical forests, roadsides, disturbed areas up to 1000 m elevation
-
-## Chemical Composition
-
-### Ergoline Alkaloids in Seeds
-The primary psychoactive constituents are ergoline alkaloids found predominantly in the seeds:
-
-| Alkaloid | Approximate Content | Notes |
-|----------|-------------------|-------|
-| Ergine (LSA) | 0.3–0.9% | Primary psychoactive; [[lysergic-acid]] amide |
+  - [[morning-glory-lsa-and-ergoline-alkaloids]] including **[[lysergic-acid]] amide |
 | Isoergine | 0.05–0.2% | Isomer of LSA; less active |
-| [[ergometrine]] ([[ergonovine]]) | 0.01–0.06% | Uterotonic; ergot alkaloid |
+| [[ergonovine]]) | 0.01–0.06% | Uterotonic; ergot alkaloid |
 | [[lysergic-acid-hydroxyethylamide]] (LSH) | Trace | Potentially psychoactive |
 | Lysergic acid amide | — | Same as ergine |
 | Chanoclavine | Trace | Ergot alkaloid precursor |

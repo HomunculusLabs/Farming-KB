@@ -3,7 +3,7 @@ title: Fungal BTEX and Chlorinated Monoaromatic Biodegradation
 created: 2026-04-19
 updated: 2026-04-20
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -103,16 +103,10 @@ Enzymes catalyzing key steps in catabolic pathways can be used in biosensor desi
 
 ## See Also
 
-- [[resin-acid-fungal-biodegradation]]
-
 - [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
-
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
-- [[white-rot-fungi-bioremediation]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-nitrogen-mineralization-pathways]]

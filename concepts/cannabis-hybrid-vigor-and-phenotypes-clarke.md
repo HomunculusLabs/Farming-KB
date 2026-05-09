@@ -101,12 +101,7 @@ The best approach to creating desirable hybrids involves:
 - Cannabis preserves are needed where each strain can be freely cultivated in areas resembling native habitats
 
 ## Related Topics
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
-- [[cannabis-hindu-kush-strain-description-clarke]] - Hindu Kush strain profile
 - [[cannabis-thai-strain-description-clarke]] - Thai strain profile
-- [[cannabis-controlled-pollination-seed-production]]
 - [[cannabis-seed-selection-and-strain-types]]

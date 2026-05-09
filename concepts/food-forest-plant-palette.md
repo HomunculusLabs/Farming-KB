@@ -21,17 +21,24 @@ sources:
 - raw/papers/gaias-garden-toby-hemenway.md
 - raw/papers/bill-mollison-permaculture-design-course.md
 ---
+
 # Food Forest Plant Palette
+
 Comprehensive plant palette tables, case studies, and practical tips for food forest design. See [[food-forest-design]] for design process, layers overview, and guild design.
+
 ## Case Study: Jerome Osentowski's Central Rocky Mountain Permaculture Institute
+
 At 7,200 feet elevation in Basalt, Colorado, Jerome Osentowski created one of North America's most impressive food forests in a harsh mountain climate. Key design elements:
+
 - **Terraced hillside**: Stone walls create level growing surfaces and store heat
 - **Microclimate creation**: Ponds and south-facing stone walls reflect light and moderate temperature
 - **Peach tree amid ponds**: Stored heat from water plus reflected light speeds growth in a frost-prone site
 - **Nitrogen-fixing nurse plants**: Siberian pea shrub and other N-fixers planted first to shelter fruit trees
 - **Canopy layered with diversity**: Over 100 fruit tree varieties, numerous berry species, and extensive herbaceous plantings
 - **Greenhouse integration**: A solar greenhouse extends the growing season and provides heat
+
 ## Case Study: Bullock Brothers' Food Forest (Orcas Island, WA)
+
 Douglas Bullock's forest garden is a mature 15-year-old food forest:
 - **Swale system**: Multiple swales catch rainwater on a sloped site
 - **Mature canopy**: Large fruit and nut trees form a dense canopy
@@ -39,7 +46,9 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 - **Pond system**: Bog garden with pond plants, fish, and muskrats (later controlled by arriving otters)
 - **Animal integration**: Chickens, ducks, rabbits, and geese for pest control and fertility
 - **Self-maintaining**: After 15 years, minimal external inputs needed
+
 ## Comprehensive Plant Palette by Layer
+
 ### Canopy Layer
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -52,6 +61,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Honey locust | Gleditsia triacanthos | Edible pods, N-fixing, light shade |
 | Mesquite | Prosopis spp. | Edible pods, N-fixing (SW) |
 | Black locust | Robinia pseudoacacia | N-fixer, bee forage, rot-resistant wood |
+
 ### Low Tree Layer
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -64,6 +74,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Asian pear | Pyrus pyrifolia | Disease resistant, crisp fruit |
 | Fig | Ficus carica | Marginal in cold climates (needs protection) |
 | Loquat | Eriobotrya japonica | Evergreen, mild climates only |
+
 ### Shrub Layer (selections)
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -77,6 +88,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Saskatoon | Amelanchier alnifolia | Edible fruit, native |
 | Siberian pea shrub | Caragana arborescens | N-fixer, edible seeds |
 | Ceanothus | Ceanothus spp. | N-fixer, native (West coast) |
+
 ### Herbaceous Layer (selections)
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -89,6 +101,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Borage | Borago officinalis | Insectary, edible flowers, mulch |
 | Fennel | Foeniculum vulgare | Insectary, edible |
 | Mint | Mentha spp. | Aggressive — contain with barriers |
+
 ### Vine Layer
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -99,6 +112,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Climbing bean | Phaseolus coccineus | Edible, N-fixing |
 | Akebia | Akebia quinata | Edible fruit, shade-tolerant |
 | Schisandra | Schisandra chinensis | Medicinal berries |
+
 ### Ground Cover Layer
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -109,6 +123,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Creeping phlox | Phlox stolonifera | Ornamental, insectary |
 | Ajuga | Ajuga reptans | Shade-tolerant ground cover |
 | Bearberry | Arctostaphylos uva-ursi | Native, drought-tolerant |
+
 ### Root Layer
 | Plant | Botanical Name | Notes |
 |---|---|---|
@@ -119,7 +134,9 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Oca | Oxalis tuberosa | Edible tubers, mild climates |
 | Mashua | Tropaeolum tuberosum | Edible tubers, Andean |
 | Camas | Camassia quamash | Edible bulb, native NW |
+
 ## Practical Tips for a Small Homestead
+
 - Start with a "mini food forest" -- even 20x20 feet with 2-3 fruit trees, berry bushes, and ground covers
 - Use dwarf and semi-dwarf fruit trees to fit more variety in less space
 - Integrate ducks and chickens -- they control pests and fertilize (keep them out when fruit is ripe)
@@ -127,9 +144,9 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 - Always keep soil covered -- clover between trees, straw mulch, or living ground covers
 - Harvest rainwater from any nearby structures to irrigate during establishment
 - Use [[permaculture-useful-plants-reference]] to select species suited to your climate
-## Related
 
-- [[asimina-triloba]] Pages
+## Related Pages
+
 - [[food-forest-design]] — Design process and overview
 - [[gaia-garden-plant-guilds]] — Guild design
 - [[permaculture-plant-catalog]] — Plants by function

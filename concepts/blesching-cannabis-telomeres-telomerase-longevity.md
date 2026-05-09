@@ -98,8 +98,6 @@ Combining perspectives from different medical disciplines makes it possible to b
 
 ## See Also
 
-- [[blesching-cannabis-chi-score-methodology]] for the CHI scoring system
 - [[blesching-cannabis-deep-relaxation-healing]] for stress reduction techniques
-- [[blesching-cannabis-belief-reprogramming]] for methods of changing limiting beliefs
 - [[blesching-cannabis-epigenetics-and-emotional-trauma]] for the science of environmental signals and gene expression
 - [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] for dietary CB2 activation

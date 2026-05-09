@@ -1,24 +1,11 @@
 ---
-title: "[[passive-solar-greenhouse-design-and-energy-systems]] and Building [[permaculture-house-design-principles]]"
+title: Holmgren Passive Solar And Building Design
 created: 2026-04-26
 tags:
   - passive-solar
   - building-design
-  - [[permaculture]]
-  - energy
-  - thermal-mass
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-type: concept
----
-
-# Passive Solar and Building Design Principles
-
-[[david-holmgren]] presents [[passive-solar-design]] as the most fundamental and
-appropriate building strategy [[holmgren-problems-of-success-and-energy-descent]] cent, arguing that it
-illustrates the [[permaculture-principle-produce-no-waste]] of using [[small-scale-dairy-guide]], local
+  - [[david-holmgren]] presents [[holmgren-problems-of-success-and-energy-descent]] cent, arguing that it
+illustrates the [[small-scale-dairy-guide]], local
 energies rather than centralised systems.
 
 ## Passive Solar as Foundational Energy Strategy

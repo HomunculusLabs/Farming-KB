@@ -25,40 +25,6 @@ while containers optimize spatial constraints.
 
 ## Cold Frame Gardening
 
-[[cold-frame-gardening]]
-
-A cold frame is a simple, bottomless box with a transparent lid that operates on
-the greenhouse effect to create a warm, protected microclimate for plants.
-Sunlight passes through the transparent lid, warms the soil and air inside, and
-the trapped heat provides frost protection. On a sunny 40F day, the interior can
-reach 60-80F; at night, temperatures typically stay 5-15F above outside ambient.
-With an insulating blanket or row cover inside, additional 5-10F of nighttime
-protection is possible. This makes cold frames invaluable for starting seeds 4-6
-weeks earlier in spring, hardening off indoor-grown transplants, extending fall
-harvests of cold-hardy crops like lettuce, spinach, and kale, and overwintering
-tender perennials and semi-hardy herbs.
-
-Standard dimensions are 3-4 feet wide (allowing you to reach all plants from
-outside without stepping inside) by 4-8 feet long (matching standard window sash
-dimensions). The lid slopes from a higher back (12-18 inches) to a lower front
-(8-12 inches) to face the low winter sun at a perpendicular angle, allow rain
-runoff, and provide more headroom at the back for taller plants. Orientation
-should face true south (or 10-15 degrees east of south for earlier morning
-warming). Materials for the frame include plywood, 2x6 or 2x8 lumber, concrete
-blocks, straw bales, or earth bags. Lid materials include salvaged windows,
-storm doors, polycarbonate panels, acrylic sheet, or polyethylene film.
-
-Automatic vent openers are a worthwhile investment: wax-filled cylinders that
-automatically open the lid when interior temperature reaches 65-75F, preventing
-the common mistake of cooking plants on a sunny day when the gardener is away.
-Without automatic openers, the lid must be propped open on sunny mornings and
-closed before evening. Cold frames work best when positioned away from shading
-structures, filled with well-draining garden soil amended with compost, and
-planted with cold-hardy crops. They require in-ground garden space but provide
-the most season extension per dollar invested of any gardening structure.
-
-## Container Gardening
-
 [[container-gardening-guide]]
 
 Container gardening transforms hard surfaces like patios, driveways, balconies,
@@ -139,12 +105,8 @@ method for absolute beginners because the investment risk is minimal.
 ## Hybrid Approaches
 
 Cold frames and containers work together effectively in a comprehensive
-season-extension system. Start seeds in containers on a sunny windowsill, then
-
 ## See Also
 
 - [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
-- [[comparison-greenhouse-vs-container-gardening]]
 - [[comparison-greenhouse-vs-cold-frame]]
-- [[raised-beds-vs-in-ground-vs-containers]]
 - [[comparison-greenhouse-vs-underground-walipini]]

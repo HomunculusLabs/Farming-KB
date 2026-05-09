@@ -61,31 +61,8 @@ species. One mycologist suggests that the total figure might reach
 200,000. Almost all antibiotics in wide use are derived from fungi.
 Hallucinogenic compounds may be widespread in the fungi, but those
 that have been of importance in human affairs belong to the
-ascomycetes ([[plants-of-the-gods-claviceps-ergot-alkaloids]])
-and the basidiomycetes (various mushrooms including
-[[schultes-psilocybe-little-flowers-gods]] and
-[[plants-of-the-gods-conocybe-psychoactive-mushrooms]]).
-
-### Algae and Lichens
-
-All algae are aquatic, more than half being marine. This varied group
-is believed to comprise from 19,000 to 32,000 species, with blue-green
-algae (Collenia) representing the oldest known form of life on Earth,
-dating from one to more than three billion years of age. Algae and
-lichens have not yet yielded any confirmed hallucinogenic species,
-though persistent reports of hallucinogenic lichens employed in
-northwesternmost North America exist. In South America, a lichen
-(Dictyonema) is used as a psychoactive.
-
-### Bryophytes and Pteridophytes
-
-Bryophytes (mosses and liverworts) have been phytochemically
-neglected and have given little hope as sources of biodynamic compounds.
-Pteridophytes (ferns) number 12,000 to 15,000 species. Some ferns
-appear to be bioactive, and a recent survey of 44 Trinidadian ferns
-indicated 77 percent had antibacterial activity. No hallucinogenic
-constituents have yet been discovered in ferns, although several are
-employed in South America as additives to [[schultes-ayahuasca-magic-drink-amazon]].
+ascomycetes ([[schultes-psilocybe-little-flowers-gods]] and
+[[schultes-ayahuasca-magic-drink-amazon]].
 
 ### Spermatophytes
 
@@ -115,24 +92,12 @@ biodynamic principles.
 Among the angiosperms, several families are particularly rich in
 hallucinogenic species:
 
-- **Solanaceae** (Nightshade family): [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]],
-  [[schultes-datura-holy-flower-north-star]], [[schultes-henbane-hyoscyamus-oracle-delphi]],
-  [[schultes-mandrake-mandragora-officinarum]], [[plants-of-the-gods-brugmansia-angels-trumpet]]
-- **Cactaceae** (Cactus family): [[schultes-peyote-and-mescaline]], [[schultes-san-pedro-four-winds]]
-- **Convolvulaceae** (Morning Glory family): [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
-  [[schultes-morning-glory-ipomoea-seeds]]
-- **Malpighiaceae** (Malpighia family): [[schultes-ayahuasca-magic-drink-amazon]],
+- **Solanaceae** (Nightshade family): [[schultes-datura-holy-flower-north-star]], [[schultes-mandrake-mandragora-officinarum]], [[schultes-peyote-and-mescaline]], [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
+  [[schultes-ayahuasca-magic-drink-amazon]],
 Tetrapteris methystica (yage)
-- **Apocynaceae** (Dogbane family): [[plants-of-the-gods-tabernanthe-iboga]]
-- **Leguminosae** (Pea family): [[plants-of-the-gods-anadenanthera-yopo-cebil]],
-  [[schultes-syrian-rue-seeds-civilization]]
-- **Myristicaceae** (Nutmeg family): [[plants-of-the-gods-virola-epena-snuff]]
-- **Cannabaceae**: [[plants-of-the-gods-cannabis-ancient-cultures]]
+- **Apocynaceae** (Dogbane family): [[plants-of-the-gods-anadenanthera-yopo-cebil]],
+  [[plants-of-the-gods-virola-epena-snuff]]
+- **Cannabaceae**: [[the-aware-plant-plant-consciousness-debate]]
 
-## See Also
-
-- [[the-aware-plant-plant-consciousness-debate]]
-
-- [[plants-of-the-gods-mushroom-stone-artifacts]]
 - [[plants-of-the-gods-erythroxylum-coca]]
 - [[plants-of-the-gods-piper-methysticum-kava]]

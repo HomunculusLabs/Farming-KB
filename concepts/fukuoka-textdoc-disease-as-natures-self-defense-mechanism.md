@@ -114,12 +114,8 @@ For the practicing farmer, Fukuoka's philosophy means:
 
 ## Wikilinks
 
-- [[masanobu-fukuoka]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-no-pesticide-principle-insect-balance]]
 - [[fukuoka-pest-ecology]]
-- [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]]
 - [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
-- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]

@@ -103,18 +103,11 @@ Preliminary clinical trials on celery seed extract (standardized to 85% 3nB) hav
 ## See Also
 
 - [[coriandrum-sativum]]
-- [[petroselinum-crispum]]
 - [[daucus-carota]]
-- [[foeniculum-vulgare]]
 - [[anethum-graveolens]]
-- [[levisticum-officinale]]
 - [[mentha-piperita]]
-- [[quercetin]]
 - [[luteolin]]
-- [[limonene]]
 - [[myrrhis-odorata]]
-- [[ocimum-basilicum]]
 - [[eucalyptol]]
-- [[camphor]]
 - [[safrole]]
 - [[beta-caryophyllene]]

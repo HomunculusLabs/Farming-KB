@@ -14,7 +14,7 @@ related_concepts:
   - design-education
 ---
 # Bauhaus Movement
-The Bauhaus was a German school of art, design, craft, and architecture founded in 1919 by Walter Gropius.
+The Bauhaus was a German school of art, design, craft, and architecture founded in 1919 by [[walter-gropius]].
 Although it existed for only fourteen years, it became one of the most influential institutions in modern design.
 The school attempted to reunite fine art, practical craft, and the realities of industrial production.
 Its name means building house, but its program included textiles, furniture, metalwork, typography, theater, photography, and urban design.
@@ -45,7 +45,7 @@ The furniture workshop explored chairs, cabinets, modular interiors, and compact
 Marcel Breuer's tubular steel furniture became a famous example of industrial material used for modern living.
 The metal workshop produced lamps, teapots, ashtrays, and fixtures that balanced geometry with utility.
 The textile workshop became one of the school's most productive areas and a major field for women students.
-Anni Albers and other textile designers showed that weaving could be structural, experimental, and modern.
+[[anni-albers]] and other textile designers showed that weaving could be structural, experimental, and modern.
 The typography and printing workshop explored sans-serif lettering, grids, asymmetry, and clear visual hierarchy.
 The stage workshop, associated with Oskar Schlemmer, investigated movement, costume, space, and the human body.
 ## Architecture
@@ -119,8 +119,8 @@ The movement endures because it combined practical making with a large social im
 It asked how people might live, work, learn, and communicate through better-designed environments.
 For that reason the Bauhaus is not only a historical school but a continuing debate about modern life.
 ## See Also
-- [[bauhaus-movement]]
+- bauhaus movement
 - [[natural-building-techniques]]
 - [[permaculture-design-principles]]
 - [[homesteading-self-sufficiency-skills]]
-- [[topics/permaculture-zones-and-site-planning]]
+- [[permaculture-zones-and-site-planning]]

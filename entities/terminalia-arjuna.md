@@ -140,10 +140,6 @@ Larger, well-designed multicenter randomized controlled trials are needed to ful
 
 ## See Also
 
-- [[terminalia-chebula]] — Haritaki, one of the three Triphala components
 - [[terminalia-bellerica]] — Bibhitaki, another Triphala component
-- [[phyllanthus-emblica]] — Indian gooseberry (Amla), the third Triphala component
-- [[tinospora-cordifolia]] — Guduchi, another important Ayurvedic immunomodulatory plant
 - [[withania-somnifera]] — Ashwagandha, a major adaptogenic herb in Ayurvedic medicine
-- [[quercetin]] — Flavonoid found in arjuna bark with antioxidant and cardioprotective activity
 - [[kaempferol]] — Flavonoid constituent of arjuna bark contributing to vasoprotective effects

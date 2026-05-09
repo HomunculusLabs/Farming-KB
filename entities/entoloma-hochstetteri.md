@@ -134,9 +134,7 @@ Landcare Research New Zealand maintains fungal specimen collections and distribu
 Citizen science platforms such as iNaturalist have contributed valuable distribution data for the species.
 
 ## See Also
-- [[psilocybin-compound|Psilocybin]]
 - [[aeruginascin|Aeruginascin]]
-- [[mycorrhizal-fungi|Mycorrhizal Fungi]]
 - [[laricifomes-officinalis|Laricifomes officinalis]]
 - Agaricales
 - Nothofagus

@@ -71,7 +71,7 @@ Sheet mulching accelerates ecological succession in the soil. The layered organi
 ## Related
 
 - [[gaias-garden-methods]] — Sheet mulching in the context of home-scale permaculture
-- [[composting-and-soil-biology]] — Why tilling destroys soil biology
+- [[no-till-gardening-method]] — Why tilling destroys soil biology
 - [[composting-systems]] — Comparison of composting methods
 - [[mulching-guide]] — Mulch types, depth, and seasonal strategy
 - [[food-forest-design]] — Using sheet mulch to establish food forests

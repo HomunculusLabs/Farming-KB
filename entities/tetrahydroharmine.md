@@ -108,15 +108,9 @@ The structural reduction of the pyridine ring is the key distinction between THH
 ## See Also
 
 - [[harmine]]
-- [[harmaline]]
 - [[peganum-harmala]]
-- [[banisteriopsis-caapi]]
 - [[ayahuasca]]
-- [[dmt]]
-- [[5-meo-dmt]]
-- [[psilocin]]
-- [[psilocybin-compound]]
-- [[tryptamine]]
+- [[5-meo-dmt-entity]]
+- [[psilocybin]]
 - [[beta-carboline]]
-- [[serotonin]]
 - [[indole]]

@@ -24,34 +24,7 @@ sources:
 *Leonotus leonurus*, commonly known as wild dagga or lion's tail, is a perennial shrub in the mint family (Lamiaceae) native to southern Africa.
 It has a long history of traditional use as a calming remedy, smoking herb, and mild euphoriant.
 The plant produces striking orange tubular flowers arranged in dense whorls along tall spikes, making it both medicinally significant and horticulturally popular.
-Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkaloid also found in *[[leonurus-cardiaca-entity]]* (motherwort).
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Subfamily:** Nepetoideae
-- **Tribe:** Mentheae
-- **Genus:** *Leonotus* (Pers.) R.Br.
-- **Species:** *L. leonurus* (L.) R.Br.
-- **Synonyms:** *Phlomis leonurus* L., *Leonurus leonurus* (L.) Houtt.
-- **Etymology:** Greek *leon* (lion) + *oura* (tail), referring to the lion-tail-like flower australian magic mushroom common namesommon names:** Wild dagga, lion's tail, wild hemp (misnomer), lion's ear of 60–90 cm of growth per growing season
-
-### Leaves
-
-- Opposite, lanceolate to narrowly ovate, 4–12 cm long, 1–4 cm wide
-- Dark green above, paler below; margins serrate to dentate
-- Surface pubescent (hairy), releasing a mild minty-herbaceous scent when crushed
-- Petiolate, with petioles 5–15 mm
-
-### Flowers
-
-- Bright orange to orange-red (rarely white cultivars), tubular, 25–35 mm long
-- Arranged in dense, spherical whorls at intervals along the terminal flower spike
-- Each whorl contains 6–12 flowers [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]] istent, leafy bract
+Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkaloid also found in *[[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]] istent, leafy bract
 - Blooming period: late summer through autumn (March–May in Southern Hemisphere)
 - Highly attractive to sunbirds, bees, and butterflies
 
@@ -97,7 +70,7 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 
 - **Antioxidant:** DPPH and ABTS radical scavenging (IC₅₀ values comparable to ascorbic acid in some extracts)
 - **Anti-inflammatory:** Inhibition of COX-2 and NF-κB pathways demonstrated in vitro
-- **Antimicrobial:** Activity against *Staphylococcus aureus*, *[[bacillus-subtilis]]*, and *[[candida-albicans]]*
+- **Antimicrobial:** Activity against *Staphylococcus aureus*, *[[candida-albicans]]*
 - **Hypoglycemic:** Blood glucose reduction observed in streptozotocin-induced diabetic rats
 - **Anticonvulsant:** Leonurine exhibits anticonvulsant properties in animal seizure models
 
@@ -128,9 +101,7 @@ Its mild psychoactive effects are attributed to leonurine, a quinolizidine alkal
 
 ## Permaculture Applications
 
-- **Pollinator plant:** Excellent nectar source for bees, butterflies, and sunbirds; extends bloom period in [[food-forest]] s
-- **Hedge plant:** Dense, bushy habit makes an effective windbreak and privacy screen
-- **[[companion-planting]]:** Mint-family association deters some pest insects from neighboring crops
+- **Pollinator plant:** Excellent nectar source for bees, butterflies, and sunbirds; extends bloom period in [[companion-planting]]:** Mint-family association deters some pest insects from neighboring crops
 - **Soil stabilization:** Deep root system helps prevent erosion on slopes
 - **Drought-resistant garden element:** Valuable in water-wise and xeriscaped food forest edges
 - **Medicinal hedge:** Can be planted alongside other medicinal species in a dedicated herb garden zone

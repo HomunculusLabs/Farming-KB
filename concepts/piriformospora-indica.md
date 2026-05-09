@@ -130,8 +130,6 @@ plant growth promotion.
 
 ## See Also
 
-- [[endophytic-fungi]]
 - [[fungal-plant-defense]]
-- [[orchid-mycorrhiza]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[mycorrhizal-symbiosis]]

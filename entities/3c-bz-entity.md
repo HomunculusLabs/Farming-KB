@@ -103,10 +103,7 @@ and there was absolutely no activity of any kind observed at that level.
 
 ## Related Compounds
 
-- [[tma-entity]] -- 3,4,5-trimethoxyamphetamine
-
 - [[mescaline-entity]] -- 3,4,5-trimethoxyphenethylamine
 
-- [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 - [[3c-e-entity]]
 - [[alexander-shulgin]]

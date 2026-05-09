@@ -143,7 +143,9 @@ Spirulina acts as a biosorbent for lead, cadmium, mercury, and arsenic due
 to surface binding sites on cell wall polysaccharides. Used adjunctively for
 ## See Also
 
-- [[aquaculture-in-permaculture]]
-
 - [[dom]]
 - [[permaculture]]
+
+## See Also
+
+- [[phosphorus-plant-nutrition]]

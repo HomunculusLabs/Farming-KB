@@ -44,37 +44,7 @@ of these poisons were nearly identical, Palmer argued that "Amanitine"
 was the best designation because it included the others.
 
 In 1868, Doctors Currie and Vigier sought to isolate the alkaloid
-using Amanita mappa, which they considered the most poisonous species.
-Dr. Vigier developed two pharmaceutical preparations from the extract.
-
-### Vigier's Pharmaceutical Forms
-
-The first preparation was an alcoholic extract: one kilogram of fresh
-poisonous mushrooms, crushed, was left in contact with one kilogram of
-ninety percent alcohol for a fortnight. The mixture was then pressed
-and filtered. The resulting tincture was administered in doses of four
-to six grammes per day for certain catarrhal affections.
-
-The second form consisted of pills, each containing five centigrammes
-of extract from the distilled alcoholic mixture. These were taken in
-doses of three or four pills daily. Dr. Currie was reportedly preparing
-to publish the results of his therapeutic research on this subject.
-
-## Specific Therapeutic Applications
-
-### Amanita Muscarius Treatments
-
-The Amanita muscarius, common in New England forests, was employed
-in the treatment of several chronic conditions. According to Palmer's
-sources, it had been "successfully employed in the treatment of
-chronic catarrh, profuse perspiration, skin diseases, and epilepsy."
-The use of this alkaloid as a remedial agent was considered promising
-but had made little progress, chiefly on account of the difficulty of
-species identification, since "to the novice all toadstools look alike."
-
-### Dr. Curtis's Proposals
-
-Dr. Curtis of South Carolina proposed using [[amanita-phalloides]],
+using [[amanita-phalloides]],
 one of the most deadly mushrooms known, as a specific remedy for
 cholera, Bright's disease, and intermittent fevers. His experiments
 were not sufficiently extended to be conclusive, but the French
@@ -121,30 +91,5 @@ requiring ingestion.
 ### Atropine as Antidote
 
 The most significant therapeutic insight involved the use of atropine,
-derived from belladonna ([[atropa-belladonna]]), as an antidote to
-amanitine poisoning. Palmer described the crucial experiment: "The
-throbbing heart of a frog is silenced by a drop of muscarine; action
-is restored by a drop of atropine. Animals who have been hypodermically
-injected with atropine are unharmed by a fatal dose of muscarine."
-
-In a clinical case, a consulting physician independently suggested
-atropine (essentially the same agent as belladonna) after observing
-the effects of the fungus on a patient and comparing its action with
-that of belladonna. "The patient seemed to improve under its influence,
-and, although it was not used until the fourth day, his life was
-prolonged twelve hours."
-
-### Sicard's Pilocarpine Experiments
-
-Mr. Sicard experimented with pilocarpine as an antidote, injecting
-two milligrammes of nitrate of pilocarpine subcutaneously into dogs
-poisoned with amanitine. After a second injection near the heart, the
-dog showed a "feeble return of heat" at the skin surface. While the
-animal "never returned to his normal condition," the progress of the
-poison ceased and the dog survived. This suggested a new element for
-physicians to combat absorbed amanitine.
-
-## See Also
-
-- [[palmer-mushroom-cooking-culinary-uses]]
+derived from belladonna ([[palmer-mushroom-cooking-culinary-uses]]
 - [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]]

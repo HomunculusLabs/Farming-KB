@@ -142,7 +142,6 @@ staples.
 
 ## See Also
 
-[[morus-alba]], [[juglans-regia]], [[ficus-carica]],
-[[persea-americana-entity]], [[moringa-oleifera]], [[castanea-sativa]],
-[[punica-granatum]], [[diospyros-virginiana]], and carica papaya
+[[juglans-regia]], [[persea-americana]], [[castanea-sativa]],
+[[diospyros-virginiana]], and carica papaya
 for comparison with other fruit trees suitable for permaculture systems.

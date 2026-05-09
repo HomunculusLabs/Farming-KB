@@ -1,30 +1,9 @@
 ---
 title: Figs (Ficus spp)
 created: 2026-04-28
-tags: [permaculture, fruit-tree, fire-retardant, bee-forage, food-forest]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
-type: concept
----
-
-# Figs (Ficus spp)
-
-Figs are a large genus of about 600 species in the family Moraceae, all
-from tropical to subtropical regions, often found in rainforest
-conditions, although many extend into arid areas. They are among the
-most versatile [[food-forest-establishment]] plants in [[permaculture]] systems.
-
-## General Characteristics
-
-Fig fruits are pollinated by tiny wasps and many species produce fruit
-year-round to support these wasps. A sprinkling of various Ficus spp
-among the more flavourful [[ficus-carica]] should ensure good populations of
+tags: [[food-forest-establishment]] plants in [[ficus-carica]] should ensure good populations of
 these pollinating wasps. Seed is readily transported in nature by fruit
-bats and birds. The fruits are generally good [[integrated-poultry-forage-systems-zone-two]] feed.
-
-The Ficus spp are generally considered good [[fire-resistant-plants]].
+bats and birds. The fruits are generally good [[fire-resistant-plants]].
 The milky latex that exudes from broken leaf, stem, or unripe fruit is
 used to treat infections such as ringworm and warts. The Perth zoo grows
 various Ficus spp as stock fodder for large herbivores.

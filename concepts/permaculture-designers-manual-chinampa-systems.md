@@ -3,21 +3,7 @@ title: Chinampa Systems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Chinampa Systems
-# Permaculture Designers Manual - Channel, Canal, and Chinampa Culture
-
-updated: 2026-04-18
-
-## Overview
-
-The chinampa is probably the most efficient culture configuration for natural feeding of fish and water plants in integrated aquaculture-agriculture systems. Originally developed in the Valley of Mexico over 2000 years ago, chinampas were the main source of food for the inhabitants of the entire valley, producing as many as seven different crops in a year, two of which were maize. Mollison extended the concept to include any system of parallel canals and banks developed for growing fish and marginal plants.
-
-Chinampa systems represent one of the most productive polycultures yet devised, combining the best of both soil and water culture in a single integrated system. They are a prime example of [[mollison-designers-edge-effect-design]] maximization applied to food production.
+tags: [[mollison-designers-edge-effect-design]] maximization applied to food production.
 
 ## Historical Chinampas
 
@@ -116,9 +102,7 @@ This periodic drainage and re-flooding cycle mimics natural flood cycles and mai
 ## Integration with Other Systems
 
 Chinampas integrate naturally with:
-- [[permaculture-designers-manual-ponds-and-dams]] as extensions
 - [[permaculture-designers-manual-wetland-treatment]] as polishing ponds
-- [[permaculture-designers-manual-charcoal-production]] from aquatic vegetation
 - [[permaculture-designers-manual-irrigation-methods]] from canal water
 - Duck and poultry foraging systems
 - Reed bed construction for multiple products
@@ -143,6 +127,5 @@ The flow-down system becomes: tree forage > animal protein > manures > alcohol >
 - Bill Mollison, *Permaculture: A Designers' Manual*, Section 13.7, Figures 13.33, 13.34
 - Tompkins, P. 1976, *Mysteries of the Mexican Pyramids*, Harper and Row
 - Huet, M. 1964, trout canal studies in Switzerland
-- [[permaculture-designers-manual-bamboo-species-uses]]
 - [[permaculture-designers-manual-aquaculture-species]]
 - [[permaculture-designers-manual-pond-edge-planting]]

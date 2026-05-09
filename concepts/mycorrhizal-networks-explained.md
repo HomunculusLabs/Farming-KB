@@ -3,18 +3,7 @@ title: Mycorrhizal Networks Explained
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources:
-  - "raw/papers/lowenfels-teaming-with-microbes.md"
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
----
-
-# Mycorrhizal Networks Explained
-
-Updated: 2026-04-18
-
-Mycorrhizae (from the Greek for "fungus-root") are symbiotic associations
-between plant roots and specialized soil fungi. In return for [[solomon-root-exudates-and-allelopathy]] from the plant, mycorrhizal fungi seek out water and
+tags: [[solomon-root-exudates-and-allelopathy]] from the plant, mycorrhizal fungi seek out water and
 nutrients and deliver them back to the host plant. The plant becomes dependent
 on the fungi, and the fungi cannot live without the plant's exudates.
 
@@ -78,11 +67,28 @@ All soil fungi are fragile. Key threats include:
 - Rototilling and double digging (break up hyphae)
 - Air pollution, particularly nitrogenous substances (reduce fruiting bodies)
 
-See also: [[bacterial-vs-fungal-soil-dynamics]], [[soil-food-web-structure]],
-[[root-exudates-rhizosphere]], [[glomalin-and-soil-carbon]]
+See also: [[soil-food-web-structure]],
+[[glomalin-and-soil-carbon]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+## Practical Considerations
+
+Successful implementation of Mycorrhizal Networks Explained requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

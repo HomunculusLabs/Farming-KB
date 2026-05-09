@@ -140,11 +140,8 @@ Per 100 g raw highbush blueberries:
   (large fruit, excellent flavor)
 - **Mid:** 'Bluecrop' (industry standard), 'Berkeley' (very large), 'Legacy'
   (evergreen tendency in mild climates)
-- **Late:** 'Elliott' (very late, firm, excellent storage), 'Chandler'
-  (largest fruit, up to 25 mm), 'Aurora' (late, productive)
-
 ## See Also
+
 - [[ribes-nigrum]]
-- [[rubus-idaeus-entity]]
 - [[symphytum-officinale]]
 - [[food-forest-permaculture]]

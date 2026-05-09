@@ -100,7 +100,7 @@ When and how to incorporate green manures significantly impacts nutrient availab
 
 - **Tillage**: Fastest decomposition. Rototilling incorporates residue uniformly. Tradeoff: disrupts soil structure and mycorrhizal networks. Best for biofumigant incorporation.
 - **Solarization over incorporated residue**: Incorporate, cover with clear plastic for 4-8 weeks in summer. Accelerates decomposition and kills pathogens. Combines biofumigation with heat.
-- **Sheet mulching on top of mowed residue**: Mow green manure low, then layer cardboard/compost on top. Slower decomposition but preserves soil structure. Works in [[composting-and-soil-biology]] systems.
+- **Sheet mulching on top of mowed residue**: Mow green manure low, then layer cardboard/compost on top. Slower decomposition but preserves soil structure. Works in [[no-till-gardening-method]] systems.
 
 ## Green Manure Selection Guide by Goal
 
@@ -140,6 +140,6 @@ Balanced green manure mixes combine nitrogen fixers with biomass builders:
 ## Related Topics
 
 - [[cover-cropping-guide]] for comprehensive cover crop families and regional guidance
-- [[biochar-in-agriculture|biochar]] for soil amendment pairing with green manures
+- [[biochar-in-agriculture|biochar]]] for soil amendment pairing with green manures
 - [[crop-rotation-principles]] for fitting green manures into rotations
 - [[companion-planting-reference]] for intercropping with cash crops

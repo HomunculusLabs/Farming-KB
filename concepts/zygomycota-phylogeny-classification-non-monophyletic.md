@@ -119,14 +119,6 @@ of the zygospore as a resistant sexual structure and diverse
 asexual sporulation mechanisms including forcible spore discharge.
 
 The ancestor of the Glomales and the other crown fungi among the
-more basal lineages of Zygomycota and [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
-is yet to be identified. This represents one of the remaining
-major questions in deep fungal phylogeny.
-
-## See Also
-
-- [[fungal-phylogeny-kingdom-classification]]
-- [[fungal-phylogeny-systematics]]
+more basal lineages of Zygomycota and [[fungal-phylogeny-kingdom-classification]]
 - [[glomales-taxonomy-arbuscular-mycorrhizal-genera]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-evolution]]

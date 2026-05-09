@@ -1,70 +1,7 @@
 ---
 title: Mollison on Vine Crops in Tropical Terrace and Polyculture Systems
 created: 2026-04-26
-tags: [permaculture, vine-crops, polyculture, trellis, tropical-agriculture]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Vine Crops in Tropical Terrace and Polyculture Systems
-
-Throughout Permaculture: A Designers' Manual, Mollison treats vine crops
-as an essential vertical dimension of polyculture design. Vines occupy
-the space between ground covers and tree canopies, producing food on
-fences, bund faces, trellises, and terrace walls while contributing to
-the overall microclimate and pest management of the system.
-
-## Vine Crops on Bund and Terrace Faces
-
-In tropical terrace and bund systems, Mollison specifies vine crops as a
-standard component of the bund face planting. The primary vine species
-for bund faces include:
-
-- Chayote (Sechium edule)
-- Cucurbits (squash, pumpkin, melon)
-- Beans (climbing varieties)
-- Passionfruit (Passiflora edulis)
-- Kiwifruit (Actinidia deliciosa)
-
-Bamboo on borders provides trellis material, as do rot-resistant timbers.
-Palm trunks are ideal trellis for vanilla and passionfruit. Strong fences
-also support vine crops, and a few larger fruits such as chayote or
-kiwifruit can be trained on them.
-
-## The Vertical Layer Principle
-
-Vine crops exploit the vertical dimension that is wasted in conventional
-flat-field agriculture. In the humid tropics, the house tree areas are
-carefully fitted up with vine crops. Chayote, kiwifruit, beans,
-cucurbits, and grapes are carefully chosen for their climbing habit,
-productivity, and compatibility with the supporting structure. There is
-no vertical limit to some vine crops, and they can be trained over
-roofs, along walls, and through tree canopies.
-
-Mollison notes that vines over all or part of the terrace aid such crops
-as taro by providing partial shade. This shade management is critical in
-tropical systems where full sun can be excessive for some understory
-crops.
-
-## Vine Crops as Part of Integrated Systems
-
-Vine crops play multiple roles in integrated permaculture systems:
-
-### Food Production
-
-Vines produce high yields per unit area because they use vertical space.
-Passionfruit, kiwifruit, grapes, beans, chayote, and cucurbits all
-provide significant caloric and nutritional returns from minimal ground
-area.
-
-### Microclimate Modification
-
-Vines on walls, fences, and trellises modify the microclimate by
-providing shade, reducing wind speed, and creating humidity pockets.
-This is especially important in [[mollison-windbreak-design]] where
+tags: [[mollison-windbreak-design]] where
 vine-covered fedges (fence-hedges) of thick-leaved vines can completely
 mound over protective structures with tough semi-succulents.
 
@@ -111,13 +48,7 @@ making windbreak design a prerequisite for successful vine production.
 Mollison describes several approaches to vine support:
 
 - Bamboo borders provide ready trellis material and can be harvested
-  sustainably from [[mollison-bamboo-permaculture-systems]].
-
-- Palm trunks are ideal trellis for vanilla and passionfruit, and are
-  readily available in tropical systems.
-
-- Strong fences serve double duty as livestock barriers and vine
-  supports. Some [[chicken-tractor-systems]] include passionfruit fence or
+  sustainably from [[chicken-tractor-systems]] include passionfruit fence or
   trellis crops as part of the pen infrastructure.
 
 - Substantial trellis can be a more immediate alternative to tree
@@ -142,8 +73,23 @@ factors:
   laden with fruit
 - Plan for access to harvest, pruning, and maintenance
 - Consider the shade effects on neighbouring crops
-- Include vine crops as part of the overall [[water-management]] strategy
+- Include vine crops as part of the overall [[tree-vine-crops-arid-tropical-mollison]]
+## Practical Considerations
 
-## See Also
+Successful implementation of Mollison on Vine Crops in Tropical Terrace and Polyculture Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-- [[tree-vine-crops-arid-tropical-mollison]]
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

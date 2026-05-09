@@ -74,10 +74,9 @@ The volume establishes ayahuasca not as a peripheral curiosity but as central to
 
 ## Related Topics
 
-- [[ethnomycology]]
-- [[harner-shamanic-journey-and-altered-states]]
+- ethnomycology
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[ethnomycology]]
+- ethnomycology
 
 ## Chapters Referenced
 
@@ -86,8 +85,5 @@ The volume establishes ayahuasca not as a peripheral curiosity but as central to
 - Ch.3: Siskind, "Visions and Curing Among the Sharanahua"
 - Ch.4: Weiss, "Campa Cosmology" (Banisteriopsis use)
 - Ch.6: Dobkin de Rios, "Urban Ayahuasca Use" (Peru)
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[shamanic-trance-cross-cultural-patterns]]
-- [[harner-shamanic-journey-and-altered-states]]
-- [[ethnomycology]]
 - [[amazonian-sorcery-illness-and-curing-practices]]

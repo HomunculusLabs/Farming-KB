@@ -16,11 +16,7 @@ type: concept
 
 ## Swale Design and Water Harvesting Earthworks
 
-Swales are among the most important earthworks in [[mollison-designers-permaculture-principles-and-ethics]],
-serving as passive water harvesting systems that capture surface runoff, infiltrate
-it into the soil profile, and distribute it across the landscape. In Bill
-Mollison's *Permaculture: A Designers' Manual*, swales are presented as a
-foundational tool for landscape hydration, [[mollison-designers-earthworks-for-erosion-control]],
+Swales are among the most important earthworks in [[mollison-designers-earthworks-for-erosion-control]],
 and the establishment of productive tree systems. Properly designed swales can
 transform degraded, eroding land into hydrated, fertile productive zones.
 
@@ -68,22 +64,7 @@ Excavation can be done by hand on small sites or with machinery such as a
 small bulldozer, excavator, or tractor-drawn moldboard plow on larger
 properties. The trench depth is typically 30 to 60 centimeters, with a flat
 bottom and gently sloping sides. The berm is formed from the excavated soil
-and should be immediately stabilized with mulch and planted with [[mollison-designers-cover-crops-and-green-manure-species]]
-to prevent erosion.
-
-Level-sill spillways are critical safety features. These are slight depressions
-in the berm at the lowest point where excess water can safely overflow. The
-spillway must be armored with grass, gravel, or stone to prevent erosion when
-water flows over it. Without properly designed spillways, swales can fail
-dramatically during extreme rainfall events.
-
-## Integration with Trees and Gardens
-
-Swales and tree planting are inseparable in permaculture design. The berm is
-an ideal planting zone for fruit and nut trees, timber species, and fodder
-crops. The soil moisture profile created by the swale supports deep root
-development and reduces or eliminates the need for supplementary irrigation.
-In [[mollison-designers-temperate-zone-food-forest-design]], swales form the
+and should be immediately stabilized with mulch and planted with [[mollison-designers-temperate-zone-food-forest-design]], swales form the
 skeleton of the water management system, with each swale supporting a
 productive polyculture strip.
 
@@ -121,9 +102,7 @@ Other common failures include:
 Beyond water harvesting, swales serve multiple functions in a permaculture
 landscape. They create microclimates by modifying air drainage and temperature.
 They provide access paths along contour for management activities. They can be
-integrated with [[mollison-designers-water-purification-and-storage-principles]]
-to filter and clean runoff before it enters water storage systems. The berm
-provides wind protection for young plantings. In [[mollison-designers-intensifying-small-farm-production]],
+integrated with [[mollison-designers-intensifying-small-farm-production]],
 swale systems dramatically increase the productive area available for crops.
 
 ## Summary
@@ -135,3 +114,13 @@ swale systems dramatically increase the productive area available for crops.
 > erosion, recharge groundwater, support tree and crop establishment, and
 > increase landscape productivity when properly designed, constructed, and
 > maintained with appropriate spillways and vegetation.
+
+## Merged: What Earthworks Should I Use For Water Harvesting?
+## Related Questions
+
+- [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
+- [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
+
+## Merged: Can Moringa Be Used for Water Purification?
+
+# Can Moringa Be Used for Water Purification?

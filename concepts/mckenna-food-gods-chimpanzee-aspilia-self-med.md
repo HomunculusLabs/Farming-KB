@@ -11,49 +11,7 @@ type: concept
 
 # Chimpanzee Self-Medication and Aspilia in Food of the Gods
 
-In *Food of the Gods*, [[terence-mckenna]] draws on primatological research
-into chimpanzee self-medication to bolster his argument that the
-relationship between hominids and psychoactive plants is ancient,
-natural, and evolutionarily significant. The observation that
-chimpanzees deliberately seek out and consume specific plants for their
-medicinal or psychoactive properties, rather than accidentally
-encountering them, suggests that the use of plant secondary compounds
-is a behavior that predates the emergence of *Homo sapiens*.
-
-## The Aspilia Connection
-
-McKenna cites research documenting that chimpanzees in the wild
-selectively seek out and consume the leaves of *Aspilia*, a genus of
-rough-leaved herbaceous plants found in the African tropical forest.
-The chimpanzees do not eat these leaves as food in the ordinary sense;
-instead, they carefully fold or roll individual leaves and swallow them
-whole without chewing. The leaves then pass through the digestive tract,
-where their rough physical texture is thought to act as a mechanical
-cleanser of intestinal parasites, while their secondary chemical
-compounds may provide additional pharmacological benefits.
-
-This behavior has been documented by primatologists including Michael
-Huffman and Richard Wrangham, and it is significant for McKenna's
-argument because it demonstrates a level of intentionality and
-pharmacological awareness in nonhuman primates. The chimpanzees are
-not simply eating whatever is available; they are specifically seeking
-out plants that are not part of their normal diet, handling them in a
-way that maximizes their physical effect, and doing so in a manner that
-suggests learned, culturally transmitted knowledge rather than random
-opportunism.
-
-## Implications for the Stoned Ape Hypothesis
-
-McKenna uses the Aspilia evidence to argue that the consumption of
-psychoactive plants by early hominids should not be seen as a
-historical accident or a culturally invented practice but rather as
-the continuation of a much older primate behavioral pattern. If
-chimpanzees, our closest living relatives, have been using plant
-secondary compounds for millions of years, then it is reasonable to
-suppose that early hominids were also engaging in similar behavior long
-before the emergence of modern human consciousness.
-
-This argument strengthens the [[mckenna-food-gods-stoned-ape-hypothesis]]
+In *Food of the Gods*, [[mckenna-food-gods-stoned-ape-hypothesis]]
 by providing a behavioral precedent for the deliberate consumption of
 bioactive plants. McKenna is not claiming that chimpanzees use
 psychedelics in the same way that humans do; rather, he is arguing
@@ -123,7 +81,5 @@ consciousness itself.
 
 ## See Also
 
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]
-- [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-archaic-revival]]

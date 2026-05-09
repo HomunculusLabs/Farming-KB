@@ -137,8 +137,6 @@ implications for coastal management and conservation.
 
 ## See Also
 
-- [[dighton-salinity-effects-fungal-communities]]
 - [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[freshwater-fungi-ingoldian-spores]]
 - [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 - [[fungal-decomposition]]

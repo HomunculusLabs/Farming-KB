@@ -72,29 +72,11 @@ since it still absorbs water and irrigates the bed. However, decomposing wood
 robs the soil of nitrogen. You must add something to break down the wood
 faster and add needed nitrogen. The key ingredient is urine. If you have a
 separating, you can divert household liquids to
-the [[hugelkultur-beds]]. Straw gathered from animal bedding can be added as a
-mulch layer as well. The urine helps break down the wood and provides
-nitrogen to the soil. Fungi will naturally grow and help speed the process.
-
-## Integration with Other Systems
-
-Hugelkultur lends itself readily to incorporation into two other systems. A
-hugelkultur bed can be used similarly to a [[alexander-shulgin]], with trees
+the [[alexander-shulgin]], with trees
 planted in between beds to take advantage of the water retention. On a
 larger scale it can also be applied to chinampa systems (the ancient
 Mesoamerican canal-and-island growing method). The beds can be positioned
-along contour lines to maximize water capture from [[urban-permaculture-rainwater-harvesting-graywater]]
-systems.
-
-## Benefits Over Time
-
-As the wood decomposes over months and years, hugelkultur beds provide
-several lasting benefits. The sponge-like woody material holds water during
-dry periods, reducing or eliminating the need for irrigation. The
-decomposition process warms the soil in spring, extending the growing
-season. Air pockets left as wood breaks down improve drainage and root
-penetration. The steady release of nutrients from decomposing wood provides
-a slow-feed fertilization effect that supports [[teaming-with-microbes-mulch-and-soil-food-web]] organisms
+along contour lines to maximize water capture from [[teaming-with-microbes-mulch-and-soil-food-web]] organisms
 and reduces the need for external inputs.
 
 ## Connection to Forest Ecology

@@ -37,9 +37,7 @@ The original Chemdawg seeds were found in a bag of high-quality cannabis purchas
 
 Chem 91 was stabilized by Chemdog and his associates and represents one of four principal Chemdawg phenotypes: Chem 91, Chem D (Chemdawg D), Chem 4, and Chem Sis.
 
-Chem 91 is the direct parent of **[[og-kush]]**, making it an ancestor of the entire West Coast Kush family.
-
-It also contributed genetics to **[[sour-diesel]]**, **[[sfv-og]]**, and **[[girl-scout-cookies]]** through subsequent crosses.
+Chem 91 is the direct parent of **[[sour-diesel]]**, **[[girl-scout-cookies]]** through subsequent crosses.
 
 The cut was originally shared within a small circle of East Coast growers before migrating to California in the early 2000s.
 
@@ -117,13 +115,8 @@ The strain responds well to training techniques including SCROG, LST, and superc
 
 ## See Also
 
-- [[chemdawg]]
 - [[og-kush]]
-- [[sour-diesel]]
 - [[sfv-og]]
-- [[girl-scout-cookies]]
 - [[tahoe-og]]
-- [[do-si-dos-entity]]
 - [[starfighter]]
-- [[skunk-1]]
 - [[ice-cream-cake-cannabis]]

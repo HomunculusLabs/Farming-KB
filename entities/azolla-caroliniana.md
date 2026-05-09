@@ -110,9 +110,6 @@ Wild populations of *A. caroliniana* provide habitat and food for aquatic invert
 
 ## See Also
 
-- `[[azolla-filiculoides]]` — Closely related species commonly used in tropical aquaculture
 - `[[trifolium-repens]]` — Terrestrial nitrogen-fixing ground cover for comparison
-- `[[alfalfa-medicago-sativa]]` — Alfalfa, a high-protein forage crop with nitrogen-fixing capability
 - `[[stropharia-rugosoannulata]]` — Permaculture mushroom compatible with Azolla mulch systems
-- `[[lactarius-deliciosus]]` — Mycorrhizal fungus contrasting with aquatic Azolla symbiosis
-- `[[trametes-versicolor]]` — Decomposer fungus relevant to Azolla compost systems
+- `[[trametes-versicolor-entity]]` — Decomposer fungus relevant to Azolla compost systems

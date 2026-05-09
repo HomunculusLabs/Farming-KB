@@ -134,16 +134,10 @@ for any laws. When people can do without a law, it is best
 not to have that law. Only the barest minimum of laws is
 needed to create a world that can get along without laws.
 
-Were it necessary to have a single law, then it should be
 ## See Also
 
 - [[fukuoka-textdoc-farming-for-all-vision]] for the
   broader vision of quarter-acre farming
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]] for
-  obstacles to returning to farming
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
   for related legal analysis
-- [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
-  for the economics of small-scale farming
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
-  for the alternative economic framework

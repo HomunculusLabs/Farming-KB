@@ -3,7 +3,7 @@ title: Fungal Sensitivity Testing and Identification
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -32,28 +32,10 @@ Benomyl sensitivity is one of the most widely used taxonomic characters in funga
 - **Resistant**: Many Zygomycota (Mucorales) and some Oomycota grow readily at concentrations that completely inhibit other groups
 - **Intermediate responses**: Can indicate hybrid or intermediate taxa
 
-Benomyl has been particularly valuable in distinguishing [[fungal-species-concept-and-taxonomy]] within species complexes where morphology alone is insufficient.
-
-### Cycloheximide (Actidione)
-Cycloheximide is a protein synthesis inhibitor produced by Streptomyces griseus. It is widely used in selective isolation media:
-
-- Most basidiomycetes and many ascomycetes are sensitive
-- Many zygomycetes and dematiaceous hyphomycetes are naturally resistant
-- Used in dichloran-glycerol (DG18) media and antibiotic-supplemented media for isolating yeasts and xerophilic fungi
-
-### Dichloran and Pentaclhoronitrobenzene (PCNB)
-These compounds are used to control rapid-growing molds on isolation plates, allowing slower-growing target fungi to emerge. Dichloran-glycerol (DG18) medium uses dichloran to suppress Rhizopus and Mucor species while permitting growth of xerophilic fungi.
-
-## Sensitivity Testing in Ecological Studies
-
-### Fungicide Resistance Monitoring
-Sensitivity testing of field populations of plant-pathogenic fungi to agricultural fungicides (triazoles, strobilurins, benzimidazoles) is essential for resistance management. Shifts in sensitivity distributions within populations signal the emergence of resistant genotypes, informing spray program decisions.
-
-### Mycoparasite-Host Interactions
-In [[fungal-mycoparasitism-and-biocontrol-interactions]], sensitivity testing evaluates the ability of potential biocontrol agents to inhibit target pathogens. Trichoderma species, for example, are screened for their sensitivity to host metabolites and vice versa. The sensitivity profile of a biocontrol candidate influences its compatibility with other management practices and its efficacy against specific pathogens.
+Benomyl has been particularly valuable in distinguishing [[fungal-mycoparasitism-and-biocontrol-interactions]], sensitivity testing evaluates the ability of potential biocontrol agents to inhibit target pathogens. Trichoderma species, for example, are screened for their sensitivity to host metabolites and vice versa. The sensitivity profile of a biocontrol candidate influences its compatibility with other management practices and its efficacy against specific pathogens.
 
 ### Environmental Stress Profiling
-Sensitivity to temperature extremes, pH, water activity, and osmotic potential characterizes the ecological amplitude of fungal species. This is particularly relevant for [[xerophilic-xerotolerant-fungi]] and [[fungal-biodiversity-in-extreme-environments]], where tolerance thresholds define niche boundaries.
+Sensitivity to temperature extremes, pH, water activity, and osmotic potential characterizes the ecological amplitude of fungal species. This is particularly relevant for [[fungal-biodiversity-in-extreme-environments]], where tolerance thresholds define niche boundaries.
 
 ## Methods
 
@@ -78,23 +60,8 @@ Sensitivity to temperature extremes, pH, water activity, and osmotic potential c
 
 ## Applications in Mushroom Cultivation
 
-In [[history-of-mushroom-cultivation]], sensitivity testing has practical applications:
-
-- **Contaminant identification**: Sensitivity profiles can help identify unknown contaminants by comparing their responses to selective agents against known reference strains
-- **Spawn quality control**: Testing spawn for sensitivity to competitor molds and bacterial contaminants
-- **Strain characterization**: Distinguishing between morphologically similar strains of cultivated species (e.g., different Pleurotus or Lentinula strains)
-- **Pasteurization efficacy**: Assessing whether substrate pasteurization has eliminated target competitor organisms
-
-## Limitations
-
-Sensitivity testing results are influenced by media composition, incubation temperature, inoculum density, and incubation duration. Standardization is essential for comparable results between laboratories. The use of sensitivity profiles as taxonomic characters should always be supplemented with molecular data, as sensitivity can vary within species and may be influenced by physiological condition of the test isolate.
-
-## See Also
-
-- [[fungal-species-concept-and-taxonomy]]
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
+In [[fungal-species-concept-and-taxonomy]]
 - [[xerophilic-xerotolerant-fungi]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[neurospora-baiting-isolation-methods]]
 
 ## Sources
@@ -102,5 +69,23 @@ Sensitivity testing results are influenced by media composition, incubation temp
 - Chapter 14, Fungi in Stressful Environments (Zak and Wildman) in Biodiversity of Fungi
 - Chapter 17, Fungicolous Fungi (Gams et al.) in Biodiversity of Fungi
 - Domsch, Gams, and Anderson, 1980. Compendium of Soil Fungi
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+## Practical Considerations
+
+Successful implementation of Fungal Sensitivity Testing and Identification requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -121,12 +121,8 @@ vegetables, contributing organic matter and residual nitrogen.
 ## See Also
 
 - [[glycine-max]] — soybean, major warm-season legume
-- [[vigna-radiata]] — mung bean, warm-season pulse crop
 - [[vigna-unguiculata]] — cowpea, heat-tolerant legume
-- [[pisum-sativum]] — pea, cool-season grain legume
 - [[cicer-arietinum]] — chickpea, ancient Near Eastern legume
-- [[lens-culinaris]] — lentil, cool-season pulse crop
 - [[ipomoea-batatas]] — sweet potato, complementary root crop
-- [[three-sisters]] — indigenous polyculture system
 - [[companion-planting]] — intercropping strategies
 - [[permaculture]] — sustainable design framework

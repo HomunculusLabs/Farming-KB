@@ -24,7 +24,7 @@ sources:
 
 Mycelial liquid culture method, pure culture technique, strain maintenance, and detailed species cultivation parameters for psilocybin-containing mushrooms, from Gottlieb's Psilocybin Producer's Guide (1976).
 
-Related: [[psilocybin-cultivation]], [[mushroom-cultivation-basics]], [[mushroom-substrates]], [[psychedelic-compounds-reference]]
+Related: [[psilocybin-mushroom-cultivation]], [[mushroom-cultivation-basics]], [[mushroom-substrates]], [[psychedelic-compounds-reference]]
 
 ## Mycelial Liquid Culture Method (Gottlieb, 1976)
 
@@ -91,7 +91,7 @@ Gottlieb describes a simple home test: dry and pulverize mushroom sample, extrac
 
 ## See Also
 
-- [[psilocybin-cultivation]] — Species overview, PF TEK, monotub, G2G, light requirements
+- [[psilocybin-mushroom-cultivation]] — Species overview, PF TEK, monotub, G2G, light requirements
 - [[psilocybin-fruiting-chambers]] — Fruiting stages, chamber construction, casing, drying
 - [[mushroom-cultivation-basics]] — General agar, spawn, and substrate methods
 - [[mushroom-sterile-technique-detailed]] — Modern sterile technique (SAB, flow hood)

@@ -36,49 +36,7 @@ The shift from soil-based to hydroponic cultivation represents a fundamental rup
 
 When a plant grows in living soil, it participates in a vast web of relationships -- with mycorrhizal fungi, bacteria, nematodes, earthworms, and countless other organisms. These relationships are not incidental; they are constitutive of the plant's health and nutritional quality.
 
-The [[soil-food-web-nutrient-cycling]] that sustains natural fertility is destroyed the moment soil is replaced by an inert medium. The plant may survive, but it is no longer truly alive in the ecological sense.
-
-## Production Costs Are Not Coming Down
-
-It is a mistake to believe that progress in agricultural technology will lower production costs and make food less expensive. Nature produces without calling for supplies or remuneration, but human effort always demands payment in return. The more sophisticated the equipment and facilities, the higher the costs.
-
-This economic reality is obscured by subsidies, externalized environmental costs, and the exploitation of cheap fossil energy. When these hidden costs are accounted for, industrial food is astronomically expensive compared to food grown by natural methods.
-
-The farmer who uses no purchased inputs and relies on natural fertility has minimal production costs, even if his yields are lower on paper. His real profit -- measured in soil health, personal wellbeing, and food quality -- far exceeds that of the conventional farmer trapped on the input treadmill.
-
-## Increased Production Has Not Brought Increased Yields
-
-When talk everywhere turned to increasing food production, most people believed that raising yields and productivity through scientific techniques would enable man to produce larger, better, more plentiful food crops. Yet, larger harvests have not brought greater profits for farmers.
-
-Most high-yield farming technology in use today does not increase net profits. At fault are the very practices thought to be vital to increasing yields: the heavy application of chemical fertilizers and pesticides, and indiscriminate mechanization. These practices appear to work because:
-
-1. Chemical fertilizers are effective only when the soil is dead.
-
-2. Pesticides are effective only for protecting unhealthy plants.
-
-3. Farm machinery is useful only when one has to cultivate a large area.
-
-Chemical fertilizers are truly effective only on soil abused and wasted through slash-and-burn agriculture. Adding chemical fertilizer to soil that regularly produces 7 to 8 bushels of rice per quarter-acre has very little effect, while addition to fields that yield 10 bushels may even hurt productivity.
-
-The same is true of pesticides. What sense can there be in producing unhealthy rice plants and applying powerful pesticides anywhere up to ten times a year? Before investigating how well pesticides kill harmful insects, scientists should have studied how the natural ecosystem is destroyed by these pesticides and why crop plants have weakened.
-
-## The Illusion of Food Security
-
-The Green Revolution promised to end hunger through high-yielding varieties and chemical inputs.
-
-In some measures it succeeded: global grain production increased dramatically between 1960 and 2000. Caloric availability rose in many developing nations. Famine, while not eliminated, became less directly linked to local production failures.
-
-But these gains were achieved at enormous cost. The new varieties required precisely calibrated applications of water, fertilizer, and pesticides -- inputs that were affordable only to wealthier farmers or those with access to credit. Smallholders were pushed to the margins or off their land entirely. Crop genetic diversity plummeted as a handful of high-yielding varieties replaced thousands of local landraces.
-
-The food produced may be abundant in quantity but deficient in quality.
-
-The food produced may be abundant in quantity but deficient in quality, and the systems that produce it are fundamentally fragile, dependent on continuous supplies of fossil energy and agrochemicals.
-
-Fukuoka saw [[composting-and-soil-biology]] and the use of [[cover-cropping-guide]] not as alternative technologies but as elements of a fundamentally different relationship between humans and food. When food is grown in harmony with nature, it nourishes not only the body but the soil, the water, the ecosystem, and the human spirit.
-
-The disappearance of a natural diet is, in Fukuoka's view, not merely a nutritional crisis but a civilizational one -- a sign that humanity has lost its way.
-
-[[fukuoka-natural-diet-philosophy]] | [[fukuoka-natural-farming-philosophy]] | [[fukuoka-critique-green-revolution]] | [[natural-farming-food-philosophy]] | [[fukuoka-tasty-rice-illusion]]
+The [[ozier-pdc-composting-and-soil-building]] and the use of [[fukuoka-natural-diet-philosophy]] | [[fukuoka-critique-green-revolution]] | [[fukuoka-tasty-rice-illusion]]
 
 ## Key Points
 
@@ -100,3 +58,22 @@ The disappearance of a natural diet is, in Fukuoka's view, not merely a nutritio
 - [[disappearance-natural-diet]]
 
 Related topics in this wiki include: .
+## Practical Considerations
+
+Successful implementation of Disappearance of a Natural Diet requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

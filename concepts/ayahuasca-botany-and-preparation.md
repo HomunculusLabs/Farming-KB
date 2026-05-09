@@ -16,8 +16,7 @@ type: concept
 
 Ayahuasca is a psychoactive brew traditionally prepared in the
 Amazon basin, combining two essential plant species: the
-ayahuasca vine ([[banisteriopsis-caapi]]) and the chacruna leaf
-([[psychotria-viridis]]). This combination produces a potent
+ayahuasca vine ([[psychotria-viridis]]). This combination produces a potent
 visionary medicine through the interaction between beta-carboline
 alkaloids from the vine and N,N-dimethyltryptamine (DMT) from
 the leaf. The pharmacological synergy between these plants
@@ -102,30 +101,4 @@ sanango (Brunfelsia grandiflora) may be added for cleansing.
 Camalote (Monstera species) is sometimes included. Each
 vegetalista develops their own recipe, drawing from the
 pharmacopoeia of hundreds of medicinal plants known in the
-Amazonian tradition. See [[ayahuasca-preparation-methods]] for
-comparative preparation approaches across traditions.
-
-## Visionary Effects and Spiritual Framework
-
-The combined effects of ayahuasca and chacruna produce profound
-altered states of consciousness characterized by vivid visual
-imagery, emotional catharsis, and experiences of spiritual or
-transcendental significance. The Shipibo tradition, as described
-by Amaringo, holds that "every tree, every plant, has a spirit"
-and that the channels through which water and sap move are "the
-veins of the spirit." See [[ayahuasca-visions]] and [[ayahuasca-preparation-and-ceremony]] for accounts of the visionary
-experience and its cultural context.
-
-## Pharmacological Significance
-
-The discovery that Amazonian peoples independently identified
-the MAO inhibitor and DMT combination has been called "one of
-the most sophisticated pharmacological discoveries in human
-history." Given the vast number of Amazonian plant species, the
-probability of finding this specific synergy by trial and error
-alone has been estimated as vanishingly small, suggesting deep
-traditional botanical knowledge accumulated over millennia.
-
-## See Also
-
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+Amazonian tradition. See [[ayahuasca-visions]] and [[ayahuasca-vision-art-and-Shipibo-tradition]]

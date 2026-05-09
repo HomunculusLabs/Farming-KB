@@ -114,9 +114,6 @@ animal or man."
 
 ## See Also
 
-- [[tompkins-soil-health-howard-indore-process]]
-
 - [[humus-formation-and-soil-organic-matter]] for humus science
-- [[arbuscular-mycorrhizal-fungi]] for mycorrhizal symbiosis
 - [[bacterial-vs-fungal-soil-dynamics]] for soil biology
 - [[tompkins-plant-roots-intelligence]] for root-soil interactions

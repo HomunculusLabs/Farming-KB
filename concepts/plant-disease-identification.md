@@ -123,4 +123,3 @@ Accurate disease identification is the critical first step in effective plant di
 
 - [[fungal-plant-diseases]] -- detailed management for specific fungal pathogens
 - [[integrated-pest-management]] -- what to do after you have identified the disease
-- [[plant-photoreceptor-evolution-from-photolyases]]

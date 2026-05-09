@@ -124,10 +124,7 @@ mushroom are legitimate natural expressions of the Gaian system within which we 
 
 ## See Also
 
-- [[brain-neuroscience-and-psychedelic-mechanism]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[psilocybin-neuroplasticity]]
 - [[default-mode-network-and-ego-dissolution]]
-- [[psilocybin-default-mode-network-ego-dissolution]]
 - [[consciousness-and-psychedelics]]
 - [[tihkal-receptor-binding-serotonin]]

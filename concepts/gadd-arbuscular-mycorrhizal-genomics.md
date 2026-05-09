@@ -1,7 +1,7 @@
 ---
 title: "Arbuscular Mycorrhizal Genomics"
 created: 2026-04-28
-tags: [mycology, genomics, mycorrhiza, symbiosis, glomeromycota]
+tags: [[mycology, genomics, mycorrhiza, symbiosis, glomeromycota]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-staycare-endobacteria-arbuscular-mycorrhizal-fungi-fungi-arbuscular-mycorrhizal-fungi-in-the-environment-fungal-biodiversity-tropical-forest-restoration-hydrocarbon-remediation-the-environment.md]
@@ -18,40 +18,7 @@ relationship between fungi and plants. Genomic approaches including expressed
 sequence tag (EST) databases, transcriptional profiling, and reverse genetics
 are revealing the complex signalling and developmental programs that underlie
 the AM symbiosis, complementing the ecological understanding provided by
-gadd fungal [[fungal-symbiosis-with-plants]] plants beyond mycorrhizae mycorrhizae.
-
-## The AM Symbiosis
-
-In the AM symbiosis, the plant provides the fungus with a source of carbon
-while the fungus delivers mineral nutrients, particularly phosphorus, to the
-roots. The plant allocates up to 20% of its photosynthate to support the
-fungal symbiont, and in some AM associations the plant receives all of its
-phosphorus via the fungus. Evidence also exists for zinc and nitrogen
-transport by AM fungi. Because phosphorus is relatively immobile and often
-present at limiting concentrations in soil, improvements in phosphorus supply
-from AM fungi can significantly impact plant health, biodiversity, and
-ecosystem productivity.
-
-## Ancient Origins and Systematics
-
-Both molecular data and fossil evidence suggest that AM fungi originated 460
-million years ago, when bryophytes were the predominant plant form. Fossils
-from the Devonian Rhynie Chert provide direct evidence that ancestral AM
-fungi formed associations with the earliest land plants, suggesting that AM
-fungi may have facilitated plant colonization of land. The ability to form AM
-symbiosis is distributed widely throughout the plant kingdom, including
-angiosperms, gymnosperms, pteridophytes, and some bryophytes.
-
-All AM fungi belong to the phylum Glomeromycota, a sister clade to the
-Ascomycota and Basidiomycota. With one exception (Geosiphon pyriforme, which
-forms a symbiosis with a cyanobacterium), all Glomeromycota form AM
-associations with vascular plants. All AM fungi are obligate symbionts,
-entirely dependent on their plant host for carbon, which has made them
-difficult to study in the absence of a plant partner.
-
-## Symbiosis Development
-
-Development of the AM symbiosis is an intricate process. AM [[fungal-spores]]
+gadd fungal [[fungal-spores]]
 germinate and hyphal germ tubes make contact with roots. The fungus
 differentiates on the epidermis, forming an appressorium through which it
 penetrates the root. Appressorium formation occurs only on root surfaces,
@@ -69,41 +36,7 @@ dichotomous branching of hyphal branches that penetrate cortical cell walls.
 
 Significant numbers of ESTs have been generated from mycorrhizal cDNA
 libraries. The majority derive from Medicago truncatula in association with
-[[glomus-versiforme]], G. intraradices, and G. mosseae. These libraries cover a
-range of developmental stages, including genes expressed at all stages of the
-association. While most ESTs represent M. truncatula genes, some Glomus genes
-are also represented. Lotus japonicus and rice have been used as additional
-model plant species.
-
-The asynchrony of AM fungal infection presents unique challenges for genomic
-studies. Only a few appressoria form on root surfaces, the number of
-responding cells is a minor component of the whole root, and the fungal
-biomass is relatively small even in highly colonized roots. Despite these
-challenges, in silico and transcriptional profiling analyses have enabled
-identification of differentially regulated genes.
-
-## Early Signalling and Pre-Contact Genes
-
-The earliest visible changes in the AM fungus occur as it approaches the
-plant root. Hyphae undergo extensive branching, a process induced by plant
-sesquiterpenes. A diffusible fungal signal molecule, named Myc factor by
-analogy to Nod factor, is perceived by the plant before physical contact.
-This pre-contact signalling activates plant genes detected even when fungus
-and root are separated by a nitrocellulose membrane.
-
-Transcriptional profiling identified clusters of genes whose expression is
-altered during early symbiosis development. A significant number of early-
-induced genes are defence- and stress-related, including receptor-like kinase
-binding proteins, chalcone synthase, and protein kinases. This transient
-defence activation is consistent with the hypothesis that AM fungi initially
-trigger but subsequently suppress plant defence responses.
-
-## Fungal Genes in the Symbiosis
-
-Several fungal genes up-regulated during symbiosis have been identified
-through differential display and suppression subtractive hybridization. Pre-
-symbiotic genes include those involved in activation of respiration in
-response to [[root-exudates]], such as pyruvate carboxylase and mitochondrial
+[[root-exudates]], such as pyruvate carboxylase and mitochondrial
 ATP/ADP translocase. During appressoria formation, nine G. mosseae genes
 were identified with predicted roles in signalling, metabolism, translation,
 defence, and stress, including a MAP3k-like protein kinase and a leucine
@@ -146,5 +79,4 @@ promoter identification and characterization of spatial expression patterns.
 The future of AM genomics lies in obtaining the complete genome sequence of
 an AM fungus, which would provide unprecedented insight into the genetic
 basis of obligate biotrophy and the molecular evolution of this ancient
-symbiosis. Integrating genomic data with ecological studies of
 ## See Also

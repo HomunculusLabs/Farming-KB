@@ -18,29 +18,7 @@ type: concept
 
 Soil flushing is an emergency corrective technique used when cannabis
 plants develop severe nutrient problems that cannot be resolved through
-normal feeding adjustments. Greg Green's "The Cannabis Grow Bible"
-describes the soil flush as a drastic measure -- essentially over-watering
-the plant to the point of removing most of the minerals and ingredients
-from the soil. It is considered a last resort that should only be attempted
-when a plant is dying and cannot be cured by any other means.
-
-## What is Leaching
-
-Leaching is defined as the removal or loss of excess salts or nutrients
-from soil. In cannabis cultivation, leaching (flushing) is performed
-intentionally when nutrient buildup has reached toxic levels or when the
-soil chemistry has become so disturbed that the plant cannot absorb
-nutrients properly. The process involves running large volumes of water
-through the soil to dissolve and carry away accumulated salts, excess
-nutrients, and potentially harmful chemical compounds.
-
-## When to Flush
-
-A soil flush may be necessary when:
-
-- Severe nutrient burn is visible on the leaves and continues to worsen
-  despite stopping fertilization.
-- The plant shows signs of [[green-cannabis-grow-bible-nutrient-management-ppm]] where it cannot access essential elements.
+normal feeding adjustments. [[green-cannabis-grow-bible-nutrient-management-ppm]] where it cannot access essential elements.
 - pH levels have drifted far outside the acceptable range and cannot be
   corrected through normal pH adjustment methods.
 - Contaminants or unknown substances have been introduced to the soil.
@@ -106,15 +84,9 @@ health. During recovery:
 
 The best approach is to avoid situations that require emergency flushing:
 
-- Follow proper [[green-cannabis-nutrient-schedules]]
-  and avoid over-fertilization.
-- Monitor [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- Follow proper [[green-cannabis-grow-bible-nutrient-management-ppm]]
   regularly to prevent drift into dangerous ranges.
-- Use quality [[green-cannabis-grow-bible-soil-and-medium-preparation]] with good drainage properties.
-- Ensure pots have adequate drainage holes from the start.
-- Do not introduce unknown additives or substances to the soil.
-
-## Relationship to [[nutrient-lockout]]
+- Use quality [[nutrient-lockout]]
 
 Flushing is sometimes attempted as a remedy for nutrient lockout -- a
 condition where the plant cannot access nutrients due to chemical
@@ -147,3 +119,7 @@ salts, and contaminants. It is a drastic measure with a low survival
 rate that should only be attempted as a last resort. The procedure
 involves repeatedly saturating the soil and monitoring the runoff until
 it runs clear. Plants that survive require approximately two weeks to
+
+## See Also
+
+- [[cannabis-soil-and-nutrients]]

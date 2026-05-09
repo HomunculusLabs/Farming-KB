@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Equipment and Materials List"
 created: 2026-04-28
-tags: [mycology, equipment, materials, cultivation, oss-oeric]
+tags: [[mycology, equipment, materials, cultivation, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -123,9 +123,7 @@ level half-teaspoon; 1 liter is approximately one quart.
 
 ## Related Topics
 
-- [[oss-oeric-rice-cake-tek-methodology]] for substrate preparation
 - [[oss-oeric-spore-syringe-preparation]] for inoculation supplies
-- [[oss-oeric-contamination-troubleshooting]] for cleaning protocols
 - [[oss-oeric-drying-and-preservation-methods]]
 - [[oss-oeric-growing-parameters-cubensis]]
 

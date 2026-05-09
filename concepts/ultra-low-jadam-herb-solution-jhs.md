@@ -12,8 +12,7 @@ type: concept
 
 JADAM Herb Solution (JHS) is a natural pesticide made by boiling specific
 herbs and extracting their pesticidal properties into water. It is the
-third key component of the JADAM pesticide system, alongside [[ultra-low-jadam-wetting-agent-jwa]]
-and [[ultra-low-jadam-sulfur-js]]. JHS provides insecticidal power derived
+third key component of the JADAM pesticide system, alongside [[ultra-low-jadam-sulfur-js]]. JHS provides insecticidal power derived
 from plants, enabling farmers to create effective pest control without any
 synthetic chemicals.
 
@@ -75,36 +74,7 @@ their active compounds:
 
 ## Combining JHS into JADAM Pesticide
 
-JHS is always used in combination with [[ultra-low-jadam-wetting-agent-jwa]]
-to create "JHS pesticide." A standard formula for 500 L of water:
-
-- JWA: 3 to 15 L (start with 3-5 L, increase for serious problems)
-- JHS: 3 to 20 L (start with 3-5 L, increase with JWA)
-
-The ratio of JHS to JWA can be adjusted. A 1:1 ratio (5 L each in
-500 L water) is a good starting point. JHS plus JWA produces pesticide
-that is effective against a wide range of pests and does not cause
-significant concentration stress on plants.
-
-## JHS Pesticide Combinations
-
-JHS can be combined with other JADAM inputs for enhanced effects:
-
-- **JHS + JWA**: Basic herbal pesticide for aphids, mites, moths
-- **JS + JWA + JHS**: Adds sulfur's fungicidal power to herbal control
-- **JMS + JWA + JHS**: Microbial diversity plus herbal insecticidal
-  action (called JMS-JHS pesticide)
-
-When mixing, always start with lower concentrations and increase
-gradually. Observe the effect on pests. If pesticide does not seem
-to work, make it stronger by increasing both JHS and JWA together.
-
-## Field-Proven Results
-
-In JADAM member farms, JHS pesticide has demonstrated rapid and
-effective pest control. Aphids on cucumbers and peppers are killed
-within 3 hours of application with Jerusalem artichoke JHS pesticide.
-The [[ultra-low-jadam-wetting-agent-jwa]] ensures complete coating of
+JHS is always used in combination with [[ultra-low-jadam-wetting-agent-jwa]] ensures complete coating of
 the target, including the undersides of leaves where pests commonly
 hide. After 24 hours, aphids shrink and die as moisture evaporates.
 
@@ -129,8 +99,6 @@ organic or synthetic pesticide programs.
 
 ## See Also
 
-- [[ultra-low-jadam-wetting-agent-jwa]] - Essential surfactant partner
 - [[ultra-low-jadam-sulfur-js]] - Sulfur fungicide component
-- [[ultra-low-cost-jadam-natural-pesticide-jnp]] - Complete pesticide system
 - [[ultra-low-herbal-smoker-greenhouse-pest-control]] - Smoke-based pest control
 - [[ultra-low-water-softening-for-pesticide-efficacy]] - Water quality needs

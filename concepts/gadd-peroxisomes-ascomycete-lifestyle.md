@@ -134,8 +134,6 @@ duplication drives evolutionary innovation.
 
 ## Related concepts
 
-- [[gadd-woronin-bodies-hyphal-septation]]
 - [[gadd-fungal-cell-structure]]
-- [[gadd-rice-blast-magnaporthe-grisea]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
 - [[fungal-environmental-sensing]]

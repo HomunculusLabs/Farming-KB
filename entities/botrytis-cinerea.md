@@ -114,9 +114,6 @@ underscores the complexity of managing this cosmopolitan species.
 
 ## See Also
 
-- [[trichoderma-viride]]
 - [[sclerotinia-sclerotiorum]]
-- [[penicillium-expansum]]
 - [[colletotrichum-gloeosporioides]]
-- [[pythium-ultimum]]
 - [[mendo-breath-entity]]

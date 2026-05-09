@@ -123,12 +123,6 @@ participate in a communal fruiting event, contributing nuclei to a shared
 dikaryotic mycelium that produces mushrooms. This cooperative approach to
 reproduction — where multiple individuals contribute genetic material to
 a single reproductive structure — has been compared to the behavior of
-cellular slime molds, where amoebae aggregate into a multicellular stalk
-and cheater strains can exploit the cooperative effort of others.
-
-## See Also
-
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
-- [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
+cellular [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
 - [[bloomfield-wood-decay-fungi-spalted-timber]]

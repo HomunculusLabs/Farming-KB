@@ -10,13 +10,7 @@ sources:
 ---
 # Vegetable Insect and Disease Control
 
-[[integrated-pest-management]] strategies for home vegetable gardens,
-based on Purdue Extension guidelines. Emphasis is on reducing
-pesticide dependence through cultural practices, resistant cultivars,
-and good garden sanitation.
-
-Related: [[vegetable-garden-guide]], [[vegetable-weed-control-and-mulching]],
-[[vegetable-watering-and-thinning]]
+[[vegetable-garden-guide]], [[vegetable-watering-and-thinning]]
 
 ## The First Step: Identify the Problem
 
@@ -139,10 +133,10 @@ overwintering sites for pests and diseases.
 
 ## See Also
 
-- [[vegetable-weed-control-and-mulching]] — Mulching and weed
-  management
 - [[vegetable-watering-and-thinning]] — Watering and plant spacing
-- [[garden-location-and-soil-preparation]] — Site selection and soil
-  preparation
 - [[vegetable-garden-guide]] — Comprehensive vegetable gardening
   reference
+
+## See Also
+
+- [[fukuoka-vegetable-disease-insect-resistance]]

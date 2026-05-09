@@ -138,12 +138,8 @@ He pointed out that farmers of the past grew a hundred crops — rice, barley, s
 
 ## See Also
 
-- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
-
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 - [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
-- [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
 
 - [[natural-farming]]

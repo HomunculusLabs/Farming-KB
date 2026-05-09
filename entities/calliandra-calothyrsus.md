@@ -109,13 +109,8 @@ The species coppices vigorously, with 3–5 harvest rotations per year possible 
 
 ## See Also
 
-- [[gliricidia-sepium]]
 - [[leucaena-leucocephala]]
-- [[sesbania-grandiflora]]
 - [[moringa-oleifera]]
-- [[robinia-pseudoacacia]]
 - [[acacia-mearnsii]]
-- [[trifolium-repens]]
 - [[medicago-sativa]]
-- [[lotus-corniculatus]]
 - [[tithonia-diversifolia]]

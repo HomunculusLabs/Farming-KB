@@ -38,28 +38,7 @@ residing in habitats where both nitrogen and phosphorus are sparsely
 available. The root systems consist of very fine roots containing a
 single layer of cortical cells, which the mycorrhizal fungi penetrate
 to form hyphal coils rather than the arbuscules characteristic of
-[[arbuscular-mycorrhizal-network-visualization-anastomosis]].
-
-The fungi associated with ericoid mycorrhizae consist of relatively
-few genera, including Hymenoscyphus and Oidiodendron. In the southern
-hemisphere, the Epacridaceae occupy a similar ecological niche to the
-Ericaceae of the northern hemisphere, with their own distinct
-mycorrhizal endophytes.
-
-## Ecosystem Distribution
-
-Read (1991a,b) proposed that the world could be considered on a
-north-south gradient in mycorrhizal dominance, also represented along
-an altitudinal transect. In conditions where soil development is
-constrained by climatic extremes, plant communities develop high
-concentrations of secondary metabolites (lignin, polyphenols) that make
-their litter recalcitrant to decomposition. Organic matter accretes
-faster than it can be decomposed, leading to accumulation of raw
-humic material. It is in these environments that ericoid mycorrhizae
-dominate within ericaceous plant communities.
-
-At midlatitudes, ectomycorrhizae dominate in coniferous and deciduous
-forests, while at low and equatorial latitudes, [[arbuscular-mycorrhizal-network-visualization-anastomosis]] dominate in grasslands and tropical forests where litter
+[[arbuscular-mycorrhizal-network-visualization-anastomosis]] dominate in grasslands and tropical forests where litter
 is readily decomposed and nutrients exist primarily in inorganic forms.
 
 ## Direct Cycling of Organic Nitrogen
@@ -121,24 +100,8 @@ associations have been said to "detoxify" the ecosystem by assimilation
 of phenolic and aliphatic acids (Leake and Read, 1991) and complexing
 toxic metal ions (Bradley et al., 1982). This ability allows
 establishment of the host plant in extreme environmental conditions
-and has implications for [[dighton-fungal-heavy-metal-accumulation-bioremediation]].
+and has implications for [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]]
 
-## Agricultural Applications
-
-The importance of ericoid mycorrhizae in nutrient acquisition and
-heavy metal tolerance may be significant for ericaceous plant species
-brought into cultivation, including blueberry (Vaccinium corymbosum).
-Goulart et al. (1993) documented that the extent of root colonization
-in cultivated blueberry was much higher than expected based on surveys
-of native populations, though the functional significance of this
-increased colonization remains to be fully characterized.
-
-## See Also
-
-- [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]]
-
-- [[arbuscular-mycorrhizal-fungi]]
 - [[ectomycorrhizal-fungal-ecology]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[mycorrhizal-fungi-primary-production-dighton]]
 - [[fungal-enzyme-activity-nutrient-availability]]

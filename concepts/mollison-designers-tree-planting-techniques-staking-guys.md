@@ -1,17 +1,7 @@
 ---
 title: "Tree Planting Techniques: Staking, Guy Wires, and Aftercare"
 created: 2026-04-28
-tags: [permaculture, tree-planting, orchards, earthworks, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Tree Planting Techniques: Staking, Guy Wires, and Aftercare
-
-Bill Mollison devotes considerable attention in Permaculture: A Designer's Manual to the
+tags: [[bill-mollison]] devotes considerable attention in Permaculture: A Designer's Manual to the
 correct methods for establishing trees, emphasizing that most tree failures in
 permaculture systems result from poor planting technique rather than species
 selection. The goal is to establish a deep, well-anchored root system that
@@ -79,23 +69,7 @@ trunk to prevent bark rot and rodent damage. Mulch rings suppress competing
 weeds, conserve soil moisture, moderate soil temperature, and feed soil
 organisms that in turn support the tree's mycorrhizal network.
 
-On degraded or eroded sites, consider installing a [[mollison-designers-terracing-slope-stabilization]]
-micro-terrace or swale above the planting to direct water toward the root zone.
-
-## Watering Schedule
-
-Newly planted trees require consistent moisture during establishment, which
-typically spans one to three years depending on species, climate, and site
-conditions. Mollison recommends deep, infrequent watering over shallow, frequent
-irrigation. Deep watering encourages roots to grow downward into the subsoil.
-
-During the first month after planting, water every 2-3 days in the absence of
-rain. Gradually extend intervals to once per week, then once every two weeks as
-roots establish. In arid climates, use deep pipe irrigation (a vertical perforated
-pipe placed alongside the root ball) to deliver water directly to the root zone
-with minimal surface evaporation.
-
-Drought-hardy species and those planted on [[swale-design-construction]] may
+On degraded or eroded sites, consider installing a [[swale-design-construction]] may
 need supplemental water only during extreme dry periods after the first season.
 
 ## Aftercare and Protection
@@ -106,7 +80,7 @@ rabbits, hares, and livestock using tree guards or wire mesh cylinders. In
 frost-prone areas, consider trunk wrapping or planting frost-hardy nurse trees
 to moderate microclimate extremes.
 
-[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] beneath and around young trees (a [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
+[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 approach) provides nitrogen fixation, pest confusion, and dynamic nutrient
 accumulation. Leguminous groundcovers, comfrey, and aromatic herbs are
 particularly valuable nurse associates.

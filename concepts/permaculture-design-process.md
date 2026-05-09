@@ -76,7 +76,7 @@ Test infiltration rates across the site. Take samples where differences are obse
 ### Surface Water Flow
 Chart water flow across the site using topographical information. The ultimate goal: all rainwater falling on the site stays on the site and infiltrates into the ground.
 
-### [[zone-sector-analysis-guide|Zones and Sectors]]
+### [[permaculture-zone-and-sector-analysis|Zones and Sectors]]
 Map zones (0-5) based on frequency of human use. Map sectors (sun, wind, fire, noise, views, wildlife) based on external energies.
 
 ### Zoning Ordinances
@@ -101,9 +101,9 @@ Animal Systems, Appropriate Technology, Community, Composting, Earthworks, Elect
 
 ## Related
 
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-climate-zones]]
-- [[permaculture-design]]
+- [[permaculture-plant-selection-guide]]
 - [[fukuoka-natural-farming-method]]
 - [[permaculture-wildlife-corridors]]
 - [[permaculture-small-and-slow-solutions]]

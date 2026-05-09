@@ -3,7 +3,7 @@ title: Fungal Biodiversity in Leaf Litter
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Biodiversity in Leaf Litter
@@ -32,7 +32,7 @@ Fungi exhibit succession downward through the litter and to a lesser extent thro
 
 3. **Late-stage decomposers**: lignin-degrading fungi, often basidiomycetes, that attack recalcitrant compounds
 
-The duration of litter decomposition varies dramatically between ecosystems: years in temperate and boreal forests but much more rapid (months) in humid tropical ecosystems (Anderson and Swift 1983). The [[fungal-succession-leaf-litter]] process is a key component of [[fungal-decomposition-nutrient-cycling]].
+The duration of litter decomposition varies dramatically between ecosystems: years in temperate and boreal forests but much more rapid (months) in humid tropical ecosystems (Anderson and Swift 1983). The [[fungal-decomposition-nutrient-cycling]].
 
 ## Upper Versus Lower Leaf Surfaces
 
@@ -64,37 +64,12 @@ Many endophytic fungal species become saprobic on the death of their host, an ad
 
 ## Role in Carbon and Nutrient Cycling
 
-Leaf litter fungi are central to terrestrial carbon cycling, mediating the transfer of carbon from plant biomass to soil organic matter and ultimately to atmospheric CO2. The efficiency of this transfer depends on the composition and activity of the fungal community. Fungi with strong ligninolytic capabilities, primarily [[basidiomycete-phylum-guide]], drive the later stages of decomposition where recalcitrant compounds are mineralized.
-
-Fungal-mediated nutrient release from decomposing litter supplies essential nitrogen, phosphorus, and other elements to the soil, supporting plant growth in forest ecosystems. The rate and pattern of nutrient release are influenced by litter quality, fungal community composition, and environmental conditions including moisture and temperature.
-
-## Sampling Protocols
-
-For leaf litter fungal surveys:
-
-- Collect leaves in various states of decay
-
-- Separate leaves by species when possible
-
-- Record position (upper vs. lower surface, canopy vs. forest floor)
-
-- Use moist chamber incubation to develop fungi from field-collected material
-
-- Combine direct observation with culturing for maximum species recovery
-
-- Consider seasonal timing, as litter fungal communities vary seasonally
-
-## Molecular Approaches to Litter Fungi
-
-Traditional microscopy-based surveys of litter fungi are increasingly complemented by molecular methods such as [[fungal-metagenomics]] and DNA barcoding. These culture-independent approaches have revealed that the true diversity of litter fungal communities is substantially greater than previously estimated from morphological studies alone. Many sequences recovered from litter samples cannot be matched to described species, indicating a large reservoir of undocumented fungal diversity.
+Leaf litter fungi are central to terrestrial carbon cycling, mediating the transfer of carbon from plant biomass to soil organic matter and ultimately to atmospheric CO2. The efficiency of this transfer depends on the composition and activity of the fungal community. Fungi with strong ligninolytic capabilities, primarily [[fungal-metagenomics]] and DNA barcoding. These culture-independent approaches have revealed that the true diversity of litter fungal communities is substantially greater than previously estimated from morphological studies alone. Many sequences recovered from litter samples cannot be matched to described species, indicating a large reservoir of undocumented fungal diversity.
 
 ## Related Topics
 
-- [[fungal-biodiversity-forest-floor]]
 - [[fungal-succession-leaf-litter]]
-- [[fungal-decomposition-wood-litter]]
 - [[fungal-decomposition]]
-- [[fungal-decomposition-nutrient-cycling]]
 - [[fungal-succession-patterns]]
 
 ## References

@@ -111,13 +111,6 @@ performance as populations and related back to the parental generation.
 The best breeding programs use progeny testing as part of a larger
 framework that includes careful female selection, controlled
 pollination, and multi-generational evaluation. See
-[[cannabis-genetics-and-breeding]] for the broader context of cannabis
-breeding.
-
-## See Also
-
-- [[cannabis-genetics-and-breeding]] - Breeding fundamentals
-- [[cervantes-dominance-recessive-traits-alleles]] - Genetic inheritance
+[[cannabis-genetics-and-breeding]] - Breeding fundamentals
 - [[cervantes-backcross-breeding-methods]] - Backcross strategies
-- [[cervantes-strain-selection]] - Choosing parent plants
 - [[cervantes-seed-population-types-ibl-hybrid]] - Population types

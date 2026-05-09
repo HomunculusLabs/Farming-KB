@@ -25,45 +25,13 @@ sources:
 # Lambsbread
 
 **Lambsbread** (also spelled Lamb's Bread or Lamb's Breath) is a legendary
-sativa [[cannabis-strain-guide-reference]] originating from Jamaica, deeply intertwined with
-Rastafarian culture and spiritual practice. Often cited as Bob Marley's
-preferred cannabis, Lambsbread is celebrated for its uplifting, cerebral
-effects and spiritual clarity. As a tropical landrace-influenced sativa, it
-represents one of the Caribbean's most iconic and culturally significant
-cannabis varieties.
-
-## Genetic Lineage
-
-- **Type:** Pure sativa (landrace-influenced)
-- **Origin:** Jamaica, lisoutheast-asian-mushroom-tourism-balifrom [[southeast-asian-mushroom-tourism-bali]] and South
+sativa [[southeast-asian-mushroom-tourism-bali]] and South
   Indian sativa genetics brought to the Caribbean during the colonial era
 - **Breeder:** Landrace — developed through natural selection by Jamaican
   growers over generations
 - **Genetic stability:** Moderate — phenotypic variation equery-how-do-i-create-a-seed-bank-and-start-seed-savingo
-  landrace genetics and informal [[ultra-low-cost-seed-saving]] traditions
-
-The genetic origins of Jamaican cannabis trace to multiple introductions:
-Indian indentured laborers broughgartz-[[magic-mushrooms-japan]]-species-south-americaditions and seeds in the
-1840s–1870s, while later introductions from Central and [[gartz-magic-mushrooms-species-south-america]]
-contributed additional [[biodiversity-fungal-genetic-diversity]]. Natural selection under Jamaican
-tropical conditions produced vigorous, disease-resistant sativa phenotypes.
-
-## Appearance
-
-Lambsbread plants produce elongated, somewhat loose bud structures typical
-of tropical sativas:
-- **Color:** Bright lime green with occasional golden-yellow hues,
-  especially on the calyxes and pistils
-- **Trichomes:** Moderate to heavy coverage of clear to slightly milky
-  trichomes at peak maturity
-- **Pistils:** Long, vibrant orange pistils interwoven through the flowers
-- **Structure:** Tall, airy colas with good internodal spacing; less dense
-  than modern hybrid strains
-- **Leaf:** Narrow, finger-like leaflets characteristic of sativa morphology
-
-## Aroma and Flavor Profile
-
-Lambsbread carries a distinctive tropical [[terpene-profile-chemotaxonomy]]:
+  landrace genetics and informal [[gartz-magic-mushrooms-species-south-america]]
+contributed additional [[terpene-profile-chemotaxonomy]]:
 
 ### Primary Aromas
 - **Herbal, grassy** — fresh-cut vegetation, reminiscent of a tropical

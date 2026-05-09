@@ -104,26 +104,8 @@ Cervantes notes several reasons hash oil never achieved mainstream popularity:
 
 The book recommends several safer methods of separating THC-potent glands from foliage:
 
-- [[cannabis-ice-water-extraction]] using cold water and mesh bags
 - [[comparison-cannabis-kief-collection-vs-hashish-guide]] using screens of various micron sizes
-- [[cannabis-rosin-pressing]] using heat and pressure
-- Hand rubbing (simplest but least efficient method)
-
-These mechanical and water-based methods eliminate the risks associated with volatile chemical solvents while still producing high-quality concentrates.
-
-## Historical References
-
-Detailed information on solvent extraction methods can be found in:
-
-- "Marijuana Chemistry: Genetics, Processing & Potency" by Michael Starks, Robin Press
-- "Cannabis Alchemy: The Art of Modern Hashmaking" by D. Gold, Ronin Press
-- Online resources at cannabis cultivation communities
-
-## See Also
-
 - [[cannabis-hashish-production]]
-- [[cannabis-ice-water-extraction]]
 - [[cannabis-oil-extraction]]
-- [[cannabis-quality-testing]]
 - [[cannabis-cannabutter-preparation]]
 - [[cannabis-hash-making-from-extracted-oil]]

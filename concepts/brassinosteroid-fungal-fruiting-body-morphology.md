@@ -1,7 +1,7 @@
 ---
 title: "Brassinosteroid Effects on Fungal Fruiting Body Morphology"
 created: 2026-04-28
-tags: [mycology, morphology, brassinosteroid, fruiting-body, annulus, developmental-biology]
+tags: [[mycology, morphology, brassinosteroid, fruiting-body, annulus, developmental-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
@@ -113,8 +113,6 @@ morphology, so the risk of misidentification in practice is limited.
 
 ## Related Topics
 
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
-- [[psychedelic-mushrooms-species-and-identification]]
 - [[phytohormone-cross-kingdom-fungal-effects]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]

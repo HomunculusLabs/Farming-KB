@@ -103,9 +103,7 @@ Relatively few clinical studies have been published in Chinese, and no clinical 
 
 ## See Also
 
-- [[cancer-beta-glucan-pharmacology]]
 - [[cancer-immune-modulation-mechanisms]]
 - cancer integration conventional treatment
-- [[cancer-turkey-tail-psk-clinical-trials]]
 - [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 - [[ganoderma-lucidum-reishi-comprehensive-profile]]

@@ -16,7 +16,7 @@ type: concept
 
 # Land Systems and Catchment Planning in Permaculture
 
-[[david-holmgren]] extends [[permaculture-design]] beyond the individual site to encompass
+[[permaculture-design]] beyond the individual site to encompass
 landscape-scale planning through the concept of Land Systems and catchment-based
 design. These approaches build on underlying patterns of the land rather than the
 details of particular sites, and are essential for whole farm planning and
@@ -113,21 +113,5 @@ land uses and management, Holmgren suggests we should:
 - Compare the relative efficiency of storage and risks of losses with natural
   and wild systems evolved under similar energy and resource regimes
 
-Good skills of [[reading-the-landscape]] allow eyeball assessments useful at all
-stages of a project -- strategic planning, design, and implementation. The
-incremental modification of existing land uses can allow ecological succession
-and co-evolution processes of wild nature to assist and reinforce existing natural
-factors that are already achieving these functions.
-
-## The Future of Landscape Reading
-
-It is only after entering a low-energy future that landscape evolution processes
-and bioregional economies will have settled enough for patterns to become a
-readily recognised and widely used pattern language. Given the geological scale
-and novel nature of change wrought by industrial culture, reading landscape is
-destined to generate localised and contingent patterns -- exciting detective work
-sifting the diversity of place and process to inform design and management.
-
-See also: [[holmgren-water-harvesting-storage-landscapes]],
-[[holmgren-catch-and-store-energy-detailed]],
+Good skills of [[holmgren-water-harvesting-storage-landscapes]],
 [[bioregional-organization]]

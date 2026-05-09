@@ -120,8 +120,6 @@ fecal material in pasture ecosystems.
 
 ## See Also
 
-- [[ascomycota-phylogeny-major-classes-lineages]]
 - [[keratinophilic-fungi]]
-- [[medically-important-fungi-pathogens-opportunists]]
 - [[fungal-infections-human]]
 - [[powdery-mildews-erysiphaceae-diversity-host-range]]

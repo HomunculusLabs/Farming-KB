@@ -43,67 +43,7 @@ scene that is perhaps more diverse and innovative than any other in Europe.
 Based in Spain, ACE Seeds is renowned for working with rare and exotic genetics from around the
 world. They specialize in landrace preservation and sativa varieties from tropical regions, with
 a catalog that reads like a world tour of cannabis genetics.
-Their [[purple-haze]] Thai strain combines Purple Haze with Meo Thai F3 genetics, producing a 100%
-sativa variety that offers the sought-after Purple Haze characteristics in their most extreme
-expression. The plant requires tropical climates for optimal outdoor growth but can be grown
-between latitudes 20 and 35 degrees with care.
-Flowering runs 16 to 20 weeks with THC at approximately 15%. Despite the thin, flexible
-structure, the plant has remarkable resistance to botrytis and can withstand harsh weather. The
-smoke tastes of blackberry bubblegum and liqueur, with an extremely cerebral and psychedelic
-high.
-
-### Asturjaya Seeds
-
-Asturjaya Seeds produces Terciopelo Lavanda (Lavender Velvet), a pure sativa strain from
-super-secret genetics. This large but compact plant with extensive branching produces
-medium-dense buds that exhibit striking purple coloring in colder climates.
-The sheer volume of bud production is remarkable — indoor yields range from 750 to 1500 grams
-per square yard. THC content is approximately 15%. The aroma is floral and deep, with a sweet
-and fruity smoke that delivers a cerebral, enlightening high perfect for daytime use.
-
-### BlimBurn Seeds
-
-BlimBurn Seeds created Santa Muerte, a cross between Mexican sativa and Original Haze. The
-strain reaches 9 to 10 feet outdoors, producing 500 to 600 grams of bud with THC around 16%.
-BlimBurn demonstrates the Spanish breeding community's deep engagement with Latin American
-genetics, reflecting cultural and historical connections between Spain and Latin America. The
-strain's naming after the Mexican folk saint of death shows an appreciation for the cultural
-context of their genetic sources.
-
-### Kannabia Seeds
-
-One of the most respected Spanish seed companies, Kannabia Seeds is known for producing
-reliable, high-quality strains that work well for both novice and experienced growers. Their
-Smile variety crosses AK-47 with Orange Bud, creating an ultra-fast sativa-dominant strain that
-tastes delicious and produces heavy yields.
-Smile flowers in about 60 days with THC at 21%. The plant is strongly resistant to mold and
-pests, making it suitable for novice growers who might otherwise reach for their grow books
-every time they see an unwanted insect.
-Multiple phenotypes exist, with some more sativa-dominant and others more compact, giving
-growers interesting choices. The freshly-blossoming buds seem loose and airy but tighten up by
-the fourth week of flowering into dense, stiff nugs. Indoor yields reach at least 400 grams per
-square yard.
-
-### Mandala Seeds
-
-Though based in Spain, Mandala Seeds draws genetics from around the globe and is known for
-exceptional quality and environmental resilience. They offer several unique landrace-based
-varieties that are unavailable from any other breeder.
-Purple Paro Valley comes from a Bhutanese landrace sourced from the Paro Valley and is
-described as one of the most beautiful cannabis plants in existence, with veins of purple
-running through valleys of green.
-Satori combines a Nepalese sativa with an undisclosed strain, producing THC levels between 23%
-and 28% — among the highest documented for any sativa-dominant variety. The name comes from the
-Japanese Buddhist word for "awakening," which consumers will certainly experience.
-White Bhutanese, from the Wangdi Province in Bhutan, is an 80% sativa with trademark white
-trichomes that remain white even in late October when most other strains have turned amber.
-All Mandala strains require minimal nutrients when grown in quality soil and exhibit exceptional
-mold resistance, making them favorites among outdoor growers.
-
-### Medical Seeds Company
-
-Medical Seeds Company produced Y Griega, one of the highest-THC sativa-dominant strains
-available at 27.12%. By crossing Kali Mist with Amnesia, they created a strain that makes
+Their [[kali-mist]] with Amnesia, they created a strain that makes
 excellent hash and oil, reflecting the company's focus on extraction-friendly genetics.
 The company's name signals their orientation toward therapeutic applications, and their strains
 are popular among medical cannabis patients seeking potent, clear-headed effects. All Medical
@@ -137,8 +77,6 @@ and bred it into Skunk #1, creating UK Cheese — said to be the closest thing t
 the original Exodus Cheese cut.
 This is a remarkable achievement in clone preservation and represents the kind of dedicated
 ## See Also
-
-- [[haze-lineage-and-history]]
 
 - [[african-landrace-sativa-strains]]
 

@@ -3,7 +3,7 @@ title: Fungal Nitrogen Mineralization Pathways
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -113,13 +113,8 @@ The balance between fungal and bacterial decomposers, which varies with ecosyste
 
 ## Related Concepts
 
-- [[fungal-enzyme-induction-and-regulation]]
 - [[fungal-saprotrophic-enzymatic-strategies]]
-- [[fungal-tannin-and-phenolic-decomposition]]
 - [[fungal-decomposition-resource-quality-determinants]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-nutrient-translocation-mycelial-systems]]
-- [[fungal-enzyme-systems-and-nutrient-cycling]]
 - [[fungal-peat-decomposition-and-carbon-storage]]
-- [[ericoid-mycorrhiza-heathland-ecosystems]]
 - [[fungal-ecosystem-processes-overview]]

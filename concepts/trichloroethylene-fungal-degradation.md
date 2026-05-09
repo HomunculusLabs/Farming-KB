@@ -24,26 +24,7 @@ liquids (DNAPLs) in subsurface environments.
 
 ## Fungal TCE Transformation
 
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]] has been shown to degrade TCE under
-nutrient-rich conditions in laboratory studies. Yadav, Bethea, and Reddy
-demonstrated that TCE degradation by this white rot fungus occurs
-primarily under conditions that do not support ligninolytic enzyme
-production, indicating that TCE transformation involves enzymatic systems
-distinct from the lignin-modifying enzymes (LiP and MnP). The fungus
-achieved total TCE removal of 46.2 percent, with 38.5 percent attributed
-to actual degradation (conversion to carbon dioxide) rather than merely
-volatilization or sorption. This high ratio of degradation to total removal
-suggests that the majority of TCE is mineralized rather than simply
-transferred to another environmental compartment.
-
-## Non-Ligninolytic Degradation Mechanisms
-
-A significant finding in fungal TCE degradation is that the process is not
-linked to the production of lignin peroxidase or manganese peroxidase.
-Instead, TCE degradation appears to involve an alternative enzyme system
-that is upregulated under nutrient-rich conditions. This is particularly
-noteworthy because most well-characterized fungal bioremediation pathways
-involving [[white-rot-fungi-bioremediation]] are associated with the
+[[white-rot-fungi-bioremediation]] are associated with the
 ligninolytic enzyme system. The nutrient-rich conditions that favor TCE
 degradation are actually those that suppress ligninolytic activity,
 suggesting that the fungal metabolic machinery for TCE transformation
@@ -76,17 +57,8 @@ passing groundwater. The resulting plumes can extend for kilometers from the
 source and persist for decades. Traditional remediation approaches include
 pump-and-treat systems, air sparging, and in situ chemical oxidation, but
 these methods are often expensive and may not achieve complete remediation.
-Biological approaches including [[fungal-bioremediation-organic-pollutants]]
-offer potentially more cost-effective and sustainable alternatives.
-
-## Integration with Broader Remediation Strategies
-
-Fungal TCE degradation may be most effectively deployed as part of integrated
-remediation strategies that combine multiple treatment approaches. The use of
-[[bioaugmentation-strategies]] with fungal inocula in combination with
-[[biostimulation-techniques]] to optimize environmental conditions could
-enhance TCE removal rates. The compatibility of fungal TCE degradation with
-other [[fungal-bioremediation-mechanisms]] for co-contaminants is an
+Biological approaches including [[bioaugmentation-strategies]] with fungal inocula in combination with
+[[fungal-bioremediation-mechanisms]] for co-contaminants is an
 important consideration, as TCE contamination frequently co-occurs with other
 chlorinated solvents such as tetrachloroethylene (PCE) and 1,1,1-
 trichloroethane (TCA), as well as petroleum hydrocarbons and heavy metals
@@ -114,14 +86,6 @@ degradation intermediates and pathways, and optimizing environmental
 conditions for maximum degradation rates. The exploration of other fungal
 species beyond P. chrysosporium for TCE degradation capability could reveal
 organisms with higher transformation rates or greater environmental
-tolerance. The development of [[fungal-formulation-in-situ-bioremediation]]
-approaches specifically designed for volatile chlorinated solvent remediation
-represents an important practical application of this research.
-
-## Related Concepts
-
-- [[chlorinated-solvent-bioremediation]] for broader solvent treatment
-- [[fungal-enzyme-systems-in-bioremediation]] for enzymatic mechanisms
+tolerance. The development of [[chlorinated-solvent-bioremediation]] for broader solvent treatment
 - [[fungal-bioremediation-organic-pollutants]] for organic pollutant scope
-- [[white-rot-fungi-bioremediation]] for ligninolytic system context
 - [[bioaugmentation-strategies]] for inoculum deployment approaches

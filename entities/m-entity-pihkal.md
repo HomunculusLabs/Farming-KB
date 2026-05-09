@@ -31,41 +31,7 @@ hydrochloride salt). |
 > begged for it to continue and come closer but it did not. It faded
 > away not to return in that particular guise the rest of the day.
 > Listening to Mozart's Requiem, there were magnificent heights of
-> beauty and glory. [[entheogenic-plants-and-psychoactive-flora]] was so far away from God, and nothing was
-> more important than getting back in touch with Him. But I saw how we
-> created the nuclear fiasco to threaten the existence of the planet, as
-> if it would be only through the threat of complete annihilation that
-> people might wake up and begin to become concerned about each other.
-> And so also with the famines in Africa. Many similar scenes of joy
-> and despair kept me in balance. I ended up the experience in a very
-> peaceful space, feeling that though I had been through a lot, I had
-> accomplished a great deal. I felt wonderful, free, and clear.
->
-> (with 350 mg) Once I got through the nausea stage, I ventured
-> out-of-doors and I was aware of an intensification of color and a
-> considerable change in the texture of the cloth of my skirt and in the
-> concrete of the sidewalk, and in the flowers and leaves that were
-> handed me by an observer. I experienced the desire to laugh
-> hysterically at what I could only describe as the completely
-> ridiculous state of the entire world. Although I was afraid of
-> motion, I was persuaded to take a ride in a car. The driver turned on
-> the radio and suddenly the music 'The March of the Siamese Children'
-> from 'The King and I' became the most perfect background music for the
-> parody of real life which was indeed the normal activity of Telegraph
-> Avenue on any Saturday morning. The perfectly ordinary people on
-> their perfectly ordinary errands were clearly the most cleverly
-> contrived set of characters all performing all manners of eccentric
->  http://www.erowid.org/library/books_online/pihkal/pihkal_print.txt
-> 
-> activities for our particular hilarity and enjoyment. I felt that I
-> was at the same time both observing and performing in an outrageous
-> moving picture. I experienced one moment of transcendant happiness
-> when, while passing Epworth Hall, I looked out of the window of the
-> car and up at the building and I was suddenly in Italy looking up at a
-> gay apartment building with its shutters flung open in sunshine, and
-> with its window boxes with flowers. We stopped at a spot overlooking
-> the bay, but I found the view uninteresting and the sun uncomfortable.
-> I sat there on the seat of the car looking down at the ground, and [[fukuoka-straw-healing-the-earth]] became a mosaic of beautiful stones which had been placed in an
+> beauty and glory. [[fukuoka-straw-healing-the-earth]] became a mosaic of beautiful stones which had been placed in an
 > intricate design which soon all began to move in a serpentine manner.
 > Then I became aware that I was looking at the skin of a beautiful
 > snake Q all the ground around me was this same huge creature and we
@@ -84,18 +50,7 @@ hydrochloride salt). |
 > believe that it would be impossible to harm anything Q to commit an
 > overt harmful or painful act on anyone or anything is beyond one's
 > capabilities. One cannot pluck a flower Q and even to walk upon a
-> gravel path requires one to pick his footing carefully, [[palmer-about-mushrooms-poisonous-species-to-avoid]]
-> hurting or disturbing the stones. I found the color perception to be
-> the most striking aspect of the experience. The slightest difference
-> of shade could be amplified to extreme contrast. Many subtle hues
-> became phosphorescent in intensity. Saturated colors were often
-> unchanged, but they were surrounded by cascades of new colors tumbling
-> over the edges.
->
-> (with 400 mg) It took a long time to come on and I was afraid that I
-> had done it wrong but my concerns were soon ended. The world soon
-> became transformed where objects glowed as if from an inner
-> illumination and my body sprang [[gaias-garden-bringing-the-soil-to-life]]. The sense of my body, being
+> gravel path requires one to pick his footing carefully, [[gaias-garden-bringing-the-soil-to-life]]. The sense of my body, being
 > alive in my muscles and sinews, filled me with enormous joy. I
 > watched Ermina fill to brimming with animal spirit, her features
 > tranformed, her body cat-like in her graceful natural movement. I was
@@ -110,10 +65,7 @@ hydrochloride salt). |
 ## Extensions and Commentary
 Mescaline is one of the oldest psychedelics
 known to man. It is the major active component of the small dumpling
-cactus known as Peyote. It grows wild in the Southwestern [[psychedelic-research-legal-history-united-states]] and in Northern Mexico, and has been used as an intimate
-component of a number of religious traditions amongst the native
-Indians of these areas. The cactus has the botanical name of
-[[lophophora-williamsii]] or Anhalonium lewinii and is immediately
+cactus known as Peyote. It grows wild in the Southwestern [[lophophora-williamsii]] or Anhalonium lewinii and is immediately
 recognizable by its small round shape and the appearance of tufts of
 soft fuzz in place of the more conventional spines. The dried plant
 material has been classically used with anywhere from a few to a
@@ -143,5 +95,4 @@ which everything else is measured. The earliest studies with the
 attached that read as "mescaline units." Mescaline was cast in
 concrete as being active at the 3.75 mg/kg level. That means for a 80
 kilogram person (a 170 pound person) a dose of 300 milligrams. If a
-- [[qualitative-comments-methodology-pihkal]]
 - [[mescaline-peyote-san-pedro-cactus]]

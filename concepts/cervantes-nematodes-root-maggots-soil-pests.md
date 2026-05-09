@@ -19,7 +19,6 @@ Cervantes provides detailed guidance on identifying and
 managing nematodes, root maggots, and other subterranean
 pests that threaten cannabis gardens.
 
-See also: [[cervantes-pest-disease]]
 See also: [[cervantes-growing-medium]]
 
 ## Nematodes
@@ -65,7 +64,6 @@ pests themselves.
 - Nematodes rarely cause problems indoors in clean
   grow rooms with fresh growing medium.
 
-See also: [[cervantes-companion-planting-pest-deterrent]]
 See also: [[cervantes-trichoderma-beneficial-fungi]]
 
 ## Root Maggots
@@ -114,7 +112,6 @@ appetite.
 - **Neem oil** and horticultural oil used as a soil
   drench can kill root maggots.
 
-See also: [[cervantes-fusarium-vascular-wilt-diseases]]
 See also: [[cervantes-seedling-care-early-growth]]
 
 ## Mealybugs and Scales

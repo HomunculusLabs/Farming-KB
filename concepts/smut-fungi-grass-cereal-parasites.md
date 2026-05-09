@@ -3,7 +3,7 @@ title: Smut Fungi — Plant Parasites of Grasses and Cereals
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -82,15 +82,8 @@ Smut fungi cause significant losses in cereal crops worldwide:
 
 ## See Also
 
-- [[rust-fungi-biodiversity-life-cycles]]
 - [[medically-important-fungi-pathogens-opportunists]]
-- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
-
-## Related
-
 - [[fungal-pathogens-in-agriculture]]
-- [[fungal-biodiversity-grassland]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[cereal-milk]]

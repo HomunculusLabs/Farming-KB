@@ -131,11 +131,7 @@ of its own consciousness.
 
 ## See Also
 
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
 - [[controlled-substances-act-and-psychedelic-research]]
-- [[mushroom-prohibition-timeline]]
 - [[magic-mushroom-prohibition-history]]
-- [[magic-mushroom-prohibition-britain-2005]]
 - [[shroom-prohibition]]
-- [[philosophical-implications-of-psychedelics]]
 - [[psychedelic-mushroom-decriminalization]]

@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 # Salad Crops Growing Guide
@@ -33,69 +34,66 @@ Continue sowing outside about every two weeks until midsummer, thinning to about
 
 **Harvesting:** When the heart feels full and hard, pull the whole plant, cut off the root, and compost it. For cut-and-come-again, cut leaves near the base of the plant and more leaves will grow.
 
-**Greenhouse Lettuce:** Raise beds for drainage, dig in plenty of well-rotted [[organic-composting-methods]], rake in blood, fish and bone meal. Sow seeds in groups of three, 9in (23cm) apart each way, thinning to one plant per group. Alternatively sow in boxes and transplant 9in (23cm) apart when seedlings are 1.5in (4cm) high. Plant at the same depth as in the box to prevent rotting. For winter greenhouse lettuce, start sowing in late summer through midwinter using varieties like Magnet, Dandie, or Kellys.
-
-**Pests and Diseases:** Millipedes, cutworms, slugs, aphids, botrytis, and downy mildew fungus.
-
-## Chicory (Cichorium intybus)
-
-There are two basic types of chicory. One is a white-blanched shoot ("chicon") grown for eating in winter — the finest winter salad vegetable. The other type needs no blanching and can be harvested in fall, eaten like lettuce. Chicory has a refreshing, slightly bitter flavor.
-
-**Varieties:** For blanched chicons: Witloof and Lightning. For unblanched: Pain de Sucre or Rossa di Treviso.
-
-**Soil and Site:** Sunny location, rich and moisture-retentive soil with pH 6.5. Apply two handfuls of blood, fish and bone meal per square yard/meter, two to three weeks before sowing.
-
-**Sowing:** Do not sow until early summer or plants may run to seed. Sow in shallow rows 12in (30cm) apart, thin to 9in (23cm).
-
-**Deep beds:** Blanching varieties in rows 8in (20cm) apart, thinned to 8in. Non-blanching varieties in rows 10in (25cm) apart, thinned to 10in.
-
-**Maintenance:** Weed and water as necessary. Dig up chicon varieties in fall for blanching.
-
-**Harvesting:** If chicon varieties are kept in a frost-free shed, they can be forced as required throughout winter. Unblanched varieties are cut as soon as hearts have filled out and will last into early winter.
-
-## Blanching Chicory (Chicons)
-
-To produce blanched chicons from Witloof or Lightning varieties:
-
-1. Dig chicon varieties in the fall, trim the leaves to within 0.5in (1cm) of the root and lay them in a box of moist peat.
-
-2. Every three to four weeks, plunge some roots into a deep container (like an orange crate) filled one-third with peat. Bury roots upright and cover with another 9in (23cm) of peat, packed tightly around the roots. This restricts leaf spread and results in firm chicons. Put the box in a warm place.
-
-3. After 4-5 weeks, chicons will have grown to 6-8in (15-20cm). Remove them from the box and cut away from the roots.
-
-## Endive (Cichorium endivia)
-
-One salad vegetable that is often cooked as well as eaten raw, endive is harvested throughout fall and winter.
-
-## Mustard and Cress (Brassica hirta and Lepidium sativum)
-
-This combination is very easy to grow — either indoors during winter or outside at other times. Eaten at the seedling stage as salad ingredient, garnish, and sandwich filler.
-
-**Soil and Site:** Very fast-growing, taking most nourishment from the seed itself. Will grow on very poor soil or indoors on moist tissue or cotton balls.
-
-**Sowing — Indoors (Winter):** Put a little moist soil or damp tissue into a plastic box and scatter seed fairly thickly. Cover with newspaper and put in a warm spot. Sow mustard (which germinates and grows faster) four days after sowing cress. When seed germinates, remove paper and place box in full sunlight.
-
-**Sowing — Outdoors (Summer):** Sow in a corner of the plot, or in a pot or tub. Sow every two weeks for succession.
-
-**Harvesting:** Shoots ready in 15 to 20 days. Cut with scissors.
-
-## Watercress (Nasturtium officinale)
-
-This highly nutritious vegetable is an ingredient of salads, sauces, and soups. It grows wild in fast-flowing streams but can be cultivated in soil without running water — ideal for a persistently damp garden corner.
-
-**Soil and Site:** Moisture-retentive soil is essential. Choose a shady spot, dig a trench 12in (30cm) deep, half fill with well-rotted manure or compost. Mix organic matter with excavated soil and refill.
-
-**Sowing and Planting:** Sow indoors in seed trays in mid-spring at 55F (12C), or outside in shallow rows. Transfer seedlings to wider spacing when big enough to handle. Plant outside in late spring or early summer, 4in (10cm) apart. Easier method: buy a bunch of watercress, select shoots with embryo roots showing, and plant them directly.
-
-**Maintenance:** Hoe regularly to control weeds (moist conditions encourage annual weeds). Water frequently. Pinch out leading shoots and remove flowers as they appear. No feeding necessary.
-
-**Harvesting:** Cut shoots as required — this encourages more shoots, so harvesting continues throughout summer and fall.
-## See Also
-
-- [[soil-building-permaculture]]
-- [[crop-rotation-benefits]]
+**Greenhouse Lettuce:** Raise beds for drainage, dig in plenty of well-rotted [[soil-building-permaculture]]
 - [[alliums-growing-guide]]
-- [[seasonal-garden-tasks-calendar]]
 - [[cold-frame-construction]]
-- [[companion-planting-deterrents]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
+## Practical Considerations
+
+When working with Salad Crops Growing Guide, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

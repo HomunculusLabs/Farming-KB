@@ -91,10 +91,7 @@ The religious use of DPT by the Temple of the True Inner Light in New York City 
 
 ## See Also
 
-- [[dmt-entity-tihkal]] -- the dimethyl homologue
 - [[det-entity-tihkal]] -- the diethyl homologue
-- [[dipt-entity-tihkal]] -- the diisopropyl homologue; unique auditory effects
 - [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic mushroom psychedelic
-- [[alexander-shulgin]] -- primary author of TIHKAL
 - [[psychedelic-therapy-models-comparison]] -- DPT has been used as a psychotherapeutic adjunct
 - [[5-meo-dmt-entity-tihkal]] -- 5-methoxy-DMT; another potent tryptamine with spiritual qualities

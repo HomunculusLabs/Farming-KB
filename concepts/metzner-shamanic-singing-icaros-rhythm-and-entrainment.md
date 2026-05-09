@@ -136,11 +136,6 @@ millennia.
 
 ## See Also
 
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 - [[metzner-four-paradigms-entheogenic-healing]]
-- [[metzner-neoshamanic-medicine-circles]]
-- [[metzner-hallucinogens-psychotherapy-shamanism]]
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
-- [[ayahuasca-botany-and-preparation]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies-community-churches]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]

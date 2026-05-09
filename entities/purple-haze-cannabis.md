@@ -138,13 +138,8 @@ or recreational use in many jurisdictions worldwide, including Canada,
 multiple US states, Germany, Thailand, and others. In jurisdictions where
 cannabis remains prohibited, possession, cultivation, and distribution
 of Purple Haze or any cannabis strain are criminal offenses.
-
 ## See Also
 
-- [[lemon-haze-cannabis]]
-
 - [[cannabis-sativa]]
-- [[cannabis-indica]]
 - [[cannabis-blue-dream]]
-- [[jack-herer]]
 - [[northern-lights]]

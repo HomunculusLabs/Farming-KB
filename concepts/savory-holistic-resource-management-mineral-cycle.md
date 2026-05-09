@@ -68,66 +68,14 @@ Three forces accomplish this breakdown:
    microorganisms, insects, and other soil life
 2. **Fire**: Converts material to ash but exposes soil
 3. **Chemical weathering and oxidation**: Slow, especially in
-   [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
-
-## The Critical Role of Animal Activity
-
-In [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], biological
+   [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], biological
 breakdown does not proceed easily without the contribution of large
 animals. Conditions do not favor abundant or stable populations of small
 organisms. Only when the disturbance of large animals lays mulch and
 litter on the soil and breaks the surface can the proper microenvironment
 occur for biological decay.
 
-Without adequate [[savory-animal-impact-and-herd-effect]], plant spacings enlarge
-and soil becomes exposed, creating a harsh environment. In brittle areas,
-most dead plant material breaks down through slow oxidation and weathering,
-creating a bottleneck in the cycle. Nutrients remain tied up aboveground
-for long periods in old material. Large accumulations suppress plant growth
-and can lead to the premature death of perennial grasses.
-
-In all brittle environments, animal activity in various forms speeds the
-breakdown and cycling of plant material essential to building mineral
-supplies in the top soil layers. Animal activity achieves this without
-exposing soil, unlike fire.
-
-## Surface to Underground Movement
-
-Once breakdown has occurred, only two agents can move nutrients
-underground naturally: water and animal life in the soil. This explains
-why the holistic management model emphasizes tools that encourage water
-penetration and animal activity when seeking to enhance the mineral cycle.
-
-## The Leaching Problem
-
-Water that carries nutrients underground can carry them below the root
-zone of plants, a process called leaching. The main factor that impedes
-leaching is organic matter in the soil. The less organic material and
-biological activity, the greater the tendency for leaching.
-
-This is one of the great dangers of chemical herbicides, pesticides, and
-fertilizers. The more we apply, the more we destroy organic material and
-living organisms, and the more we increase leaching. Farmers who add
-soluble nitrogen must keep applying it in ever-increasing amounts because
-the natural mineral cycle is damaged. The leached minerals become
-dangerous pollutants as groundwater flow carries them to unintended
-places.
-
-## The Importance of the Soil Surface
-
-The key to the health of the mineral cycle, like that of [[savory-water-cycle-management]] and [[savory-plant-succession-and-community-dynamics]], lies in the condition of the soil
-surface. An exposed, capped surface is a harsh microenvironment where
-biological breakdown occurs slowly. As aeration decreases, life decreases;
-as life decreases, organic material decreases; as organic material decreases,
-soil structure decreases; and as soil structure decreases, aeration
-decreases further in a chain reaction rippling through the ecosystem.
-
-## The Interconnection of Foundation Blocks
-
-The mineral cycle is totally interconnected with the other three ecosystem
-foundation blocks. What we do to one affects them all. The condition of
-the soil surface, which governs all four blocks, demonstrates this
-interconnection most clearly. The [[savory-energy-flow-and-solar-capture]] that animates soil life depends on plant roots conveying
+Without adequate [[savory-water-cycle-management]] and [[savory-energy-flow-and-solar-capture]] that animates soil life depends on plant roots conveying
 solar energy underground. The water cycle determines whether nutrients
 move to useful depths or are lost to leaching. Succession determines the
 diversity and health of the biological community that drives the cycle.
@@ -140,11 +88,7 @@ speeds the breakdown of organic material, and planting monocultures
 creates less diverse root systems that discourage diversity in soil
 microorganism species. The result is an accelerating dependency on
 external inputs as the natural mineral cycle is progressively destroyed.
-
 ## See Also
 
-- [[savory-holistic-resource-management-water-cycle]]
-
 - [[savory-water-cycle-management]]
-- [[savory-plant-succession-and-community-dynamics]]
 - [[savory-energy-tetrahedron]]

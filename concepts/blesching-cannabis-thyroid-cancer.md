@@ -123,12 +123,8 @@ reducing fear, worry, and stress, releasing the need for perfection.
 
 ## See Also
 
-- [[blesching-cannabis-autism]]
-
 - [[cannabis-for-thyroid-cancer]]
 
-- [[cannabis-autoimmune-conditions-detailed]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabinoid-pharmacology]]

@@ -115,7 +115,5 @@ substances.
 
 ## See Also
 
-- [[stoned-ape-hypothesis]]
 - [[entheogens-and-cultural-evolution]]
-- [[mushrooms-as-food-of-the-gods-broma-theon]]
-- [[psilocybin-compound]]
+- [[psilocybin]]

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[sheet-mulching]] Versus Composting in [[permaculture-design]]
+# [[permaculture-design]]
 
 ## Overview
 
@@ -129,22 +129,5 @@ are reversed so their roots face upward, and the mulch is dropped back
 on top. Mollison actually encourages letting certain weeds grow large
 in the mulch system, as they contribute to soil biology.
 
-## Relationship to [[permaculture-principles]]
-
-The preference for sheet mulching over composting reflects several core
-permaculture principles. It minimizes energy inputs by eliminating the
-labor of building and turning compost piles. It works with natural
-decomposition processes rather than forcing thermophilic conditions. It
-produces multiple benefits simultaneously: weed suppression, moisture
-retention, soil building, and pH diversification.
-
-The sheet mulching approach also supports the principle of using
-biological resources rather than technological ones. Earthworms,
-microorganisms, and soil fauna do the work that a composter would do
-with a pitchfork, but they do it more efficiently and distribute the
-results more broadly across the landscape.
-
-## See Also
-
-- [[mollison-zone-one-garden-design]]
+## Relationship to [[mollison-zone-one-garden-design]]
 - [[sheet-mulching-guide]]

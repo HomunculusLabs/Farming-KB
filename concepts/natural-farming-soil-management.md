@@ -15,8 +15,7 @@ differently from conventional agriculture. Rather than
 treating soil as an inert medium that requires chemical
 amendment, natural farming views soil as a living ecosystem
 that thrives when allowed to follow its own natural
-processes. Both [[fukuoka-natural-farming]] and
-[[korean-natural-farming]] share the principle that
+processes. Both [[korean-natural-farming]] share the principle that
 healthy soil biology is the foundation of healthy crops.
 
 ## Fukuoka's Soil Philosophy
@@ -44,8 +43,6 @@ Fukuoka's key insights about soil include:
 
 ## KNF Microbial Soil Building
 
-[[korean-natural-farming]] takes a more active approach to
-soil biology management through the application of
 [[indigenous-microorganisms-imo]] (IMO). KNF recognizes that
 microorganisms play an essential role in making soil good
 for crop production. The IMO process:
@@ -57,56 +54,16 @@ for crop production. The IMO process:
 3. Applies them to fields to build soil microbial
    diversity and population
 
-KNF also uses [[lactic-acid-bacteria-natural-farming]] to
-improve soil ventilation and promote rapid growth of crops.
-When IMO is mixed with LAB and sprayed on fields, the soil
-recovers fertility and becomes soft and fluffy.
-
-## No-Tillage as Soil Management
-
-Both systems reject mechanical tillage. Fukuoka proved
-that no-tillage direct-seeded rice/barley succession
-cropping works year after year. KNF replaces mechanical
-tillage with "Nature's Tillers" including bacteria, fungi,
-earthworms, mole crickets, and moles that naturally
-aerate and structure the soil.
-
-Benefits of no-tillage soil management:
-
-- Preserves soil structure and aggregates
-- Maintains mycorrhizal networks
-- Prevents oxidation of organic matter
-- Reduces soil erosion dramatically
-- Maintains soil carbon sequestration
-- Protects beneficial soil organisms
-
-## The Role of Ground Covers
-
-Living ground covers are central to natural farming soil
-management. Fukuoka used clover as a permanent ground
-cover, while [[jadam-farming-method]] promotes
-[[jadam-wild-grass-management]] as a symbiotic partner.
-
-Ground covers protect soil from erosion, moderate
-temperature, fix nitrogen (when leguminous), add organic
-matter, and create favorable conditions for soil
-organisms. Fukuoka found that by studying and making use
-of weed properties, one weed can be used to drive out
-undesirable weeds.
-
-## Green Manure and Nutrient Cycling
-
-Natural farming relies on biological nutrient cycling
-rather than imported fertility. [[cover-cropping-natural-farming]] with legumes fixes atmospheric nitrogen.
+KNF also uses [[jadam-farming-method]] promotes
+[[cover-cropping-natural-farming]] with legumes fixes atmospheric nitrogen.
 Crop residues returned to the soil decompose and release
 nutrients for the next crop. This creates a closed-loop
 system where nothing is removed from the farm.
 
 ## JADAM Soil Management Approach
 
-[[jadam-farming-method]] contributes additional soil
-management insights including [[jadam-leaf-mold-soil-method]]
-as the ideal soil type, [[jadam-soil-surface-management-no-till]] techniques, and [[jadam-mineral-water-jmw]]
+[[jadam-leaf-mold-soil-method]]
+as the ideal soil type, [[jadam-mineral-water-jmw]]
 for replenishing trace minerals.
 
 ## Integration of Approaches
@@ -121,11 +78,7 @@ biological activity, and mineral availability.
 
 ## See Also
 
-- [[fukuoka-textdoc-natural-soil-management]]
-
 - [[fukuoka-natural-farming]]
-- [[fukuoka-living-soil]]
 - [[korean-natural-farming]]
-- [[indigenous-microorganisms-imo]]
 - [[soil-food-web]]
 - [[jadam-soil-management-principles]]

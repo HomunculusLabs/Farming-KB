@@ -4,7 +4,8 @@ created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Yopo (Anadenanthera peregrina): South American Tryptamine Snuff
 
@@ -58,13 +59,8 @@ The snuff-taking apparatus represents a significant material culture associated 
 
 Yopo represents one of the most important and widespread hallucinogenic traditions in South America. Its use spans a vast geographical area from the Caribbean to the southern Andes, and its documented history extends from the earliest European contact to the present day. The persistence of yopo use among indigenous peoples, despite centuries of colonial pressure, testifies to its deep cultural significance.
 
-The yopo tradition parallels other South American snuffing practices, including the [[virola-snuff-amazon-preparation-and-ceremony]] of the western Amazon, in its use of intranasal administration to achieve rapid and intense psychoactive effects. Together, these snuffing traditions represent one of the most distinctive features of South American ethnopharmacology and distinguish it from the oral and smoking traditions found elsewhere in the world.
-
-## Related
-
-- [[entheogenic-plants-and-psychoactive-flora]]
-- [[old-world-hallucinogenic-plants-overview]]
-- [[entheogenic-plants-and-psychoactive-flora]]
+The yopo tradition parallels other South American snuffing practices, including the [[gaian-psychotherapy-and-entheogenic-plants]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]
 
 ## Historical Context
 
@@ -80,15 +76,9 @@ The snuffing tradition exemplifies the pharmacological sophistication of indigen
 
 ## See Also
 
-- [[anadenanthera-peregrina]]
-
-[[virola-snuff-amazon-preparation-and-ceremony]] — Virola snuff traditions of the western Amazon.
-
-[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — Mexican morning glories.
+- [[virola-snuff-amazon-preparation-and-ceremony]] — Virola snuff traditions of the western Amazon.
 
 [[tree-daturas-brugmansia-south-american-ethnobotany]] — New World tree daturas.
-
-[[mescal-bean-sophora-secundiflora-vision-dance]] — North American mescal bean tradition.
 
 [[old-world-hallucinogenic-plants-overview]] — Old World hallucinogenic plants.
 

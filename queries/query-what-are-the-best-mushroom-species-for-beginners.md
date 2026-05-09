@@ -60,8 +60,6 @@ for beginners. They grow directly in garden beds on wood chips, straw, or
 cardboard, requiring minimal equipment and no sterile technique whatsoever.
 Wine caps fruit prolifically in spring and fall, producing burgundy-capped
 mushrooms with a robust, potato-like flavor. They are also valuable in
-[[permaculture]] systems as they form associations with garden plants and
-help break down woody debris. See
 [[companion-cultivation-of-mushrooms-with-garden-vegetables]] for
 integration strategies that combine wine caps with vegetable gardens.
 
@@ -69,18 +67,7 @@ Lion's mane (Hericium erinaceus) is slightly more demanding than oyster
 mushrooms but remains accessible for beginners willing to maintain slightly
 cooler temperatures (60 to 70 degrees Fahrenheit) and higher humidity levels.
 The reward is one of the most unique-looking and medicinal mushrooms
-available. Lion's mane is renowned for its [[adaptogenic-herbs-guide| adaptogenic]] properties, particularly its ability to stimulate nerve growth
-factor (NGF) production in the brain, making it popular for cognitive health.
-It grows well on supplemented hardwood sawdust and fruits reliably in
-monotubs or fruiting chambers with proper humidity management.
-
-Shiitake (Lentinula edodes) and reishi (Ganoderma lucidum) are popular but
-not ideal first species because they require longer colonization times, more
-specific substrate preparation, and tighter environmental control. Morel
-mushrooms (Morchella spp.) are among the most challenging to cultivate and
-should not be attempted by beginners. For those interested in medicinal
-mushrooms, starting with lion's mane and then graduating to reishi provides
-a natural learning progression. Understanding [[contaminant-identification-and-prevention|contaminant identification]] is essential regardless of species choice, as contamination
+available. Lion's mane is renowned for its [[contaminant-identification-and-prevention|contaminant identification]] is essential regardless of species choice, as contamination
 is the single most common reason for failed grows among beginners.
 
 ## Key Points
@@ -90,16 +77,7 @@ is the single most common reason for failed grows among beginners.
   have shorter shelf life
 - Wine cap is the best outdoor beginner species, growing directly in wood
   chip garden beds with no sterile technique needed
-- [[lions-mane-guide|lion's mane]] offers medicinal benefits and unique appearance with
-  moderate difficulty level
-- Shiitake and morel are too demanding for first-time growers; save them
-  for later when your skills have developed
-
-## Related
-
 - [[query-what-is-the-strongest-psilocybin-mushroom-species]] Questions
-- [[query-how-to-grow-oyster-mushrooms-at-home]]
 - [[query-how-to-grow-shiitake-mushrooms]]
-- [[query-how-to-grow-wine-cap-mushrooms]]
 - [[query-how-to-set-up-a-monotub-mushroom-grow]]
 - [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]

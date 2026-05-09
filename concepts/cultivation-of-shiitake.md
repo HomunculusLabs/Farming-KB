@@ -1,7 +1,7 @@
 ---
 title: Cultivation of Shiitake
 created: 2026-04-28
-tags: [mycology, lentulinula, cultivation, shiitake]
+tags: [[mycology, lentulinula, cultivation, shiitake]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -76,18 +76,8 @@ Moisture content is adjusted to 63-65%. Blocks of 2.5-5 kg are packed
 into filter bags and sterilized at 121 C for 2-3 hours.
 
 After cooling, blocks are inoculated with 5-10% grain spawn by weight.
-Incubation proceeds at 20-25 C for 8-12 weeks. Shiitake [[mycelium]]
-colonizes more slowly than oyster [[mycelium]], and the longer incubation
-period allows the [[mycelium]] to become denser and more firmly bound to the
-substrate. Blocks that appear fully white on the surface may still need
-additional incubation time internally.
-
-## Browning Phase
-
-A critical difference between shiitake and most other cultivated
-mushrooms is the browning phase. After full colonization, shiitake
-blocks benefit from a 2-4 week period at 15-20 C with high humidity and
-reduced CO2. During this phase, the white [[mycelium]] surface turns brown
+Incubation proceeds at 20-25 C for 8-12 weeks. Shiitake [[mycelium]], and the longer incubation
+period allows the [[mycelium]] surface turns brown
 as pigmented cells form a protective "skin" over the block surface.
 
 Proper browning is essential for several reasons: it reduces
@@ -116,23 +106,5 @@ produce the appropriate type for market demand.
 
 Log cultivation yields 1-3 kg of fresh mushrooms per log over its
 productive life of 3-6 years, though individual flushes are modest.
-Sawdust blocks typically produce 75-125% [[biological-efficiency]] across
-3-4 flushes over a 6-8 week fruiting period. The first flush accounts
-for approximately 40-50% of total yield.
-
-## Common Challenges
-
-Shiitake blocks that fail to brown properly often produce low-quality
-mushrooms with pale caps and thin flesh. Ensuring adequate light,
-moderate temperature, and sufficient time for the browning phase is
-essential. Another frequent issue is "bubble" formation — pockets of
-uncolonized substrate within the block that can harbor contaminants.
-Proper substrate mixing and moderate packing density prevent this.
-Spent shiitake blocks can be composted or used as fuel for wood-burning
-systems, making the process relatively low-waste overall.
-
-## See Also
-
-- [[shiitake-cultivation-parameters]]
-- [[cotter-shiitake-cultivation]]
+Sawdust blocks typically produce 75-125% [[shiitake-cultivation-parameters]]
 - [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]

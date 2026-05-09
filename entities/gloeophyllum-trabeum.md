@@ -128,11 +128,9 @@ Specific metabolites of *G. trabeum* of research interest include:
 
 ## See Also
 
-- [[coniophora-puteana]]
 - [[serpula-lacrymans]]
 - brown-rot-fungi
 - wood-decay-fungi
 - fenton-chemistry
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]

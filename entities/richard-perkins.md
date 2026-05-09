@@ -119,10 +119,7 @@ Some criticisms and limitations of Perkins' approach include:
 
 ## See Also
 
-- [[darren-doherty]] — Keyline Design at broadacre scale, complementary to Perkins' small-scale focus
 - [[geoff-lawton]] — large-scale permaculture design
-- [[sepp-holzer-entity]] — Austrian mountain permaculture, with similar emphasis on integration and profitability
 - [[mark-shepard]] — restoration agriculture, similar whole-farm systems approach
-- [[ben-falk]] — cold-climate homesteading, complementary Nordic-climate perspective
 - [[p-a-yeomans]] — Keyline Design principles that influence Perkins' water management approach
 - [[toby-hemenway]] — permaculture design for suburban and small-farm contexts

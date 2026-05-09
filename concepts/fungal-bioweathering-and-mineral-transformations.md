@@ -39,35 +39,7 @@ Fungi degrade mineral substrates through two synergistic categories: biomechanic
 
 ### Direct biomechanical weathering
 
-Direct degradation occurs through extensive hyphal penetration into decayed rocks and active tunneling into otherwise intact mineral matter. [[fungal-hyphae-invasive-growth-mechanisms]] penetrate along crystal planes, cleavages, cracks, and grain boundaries in rock types including sandstone, calcitic and dolomitic rocks. The mechanical force driving this penetration derives from osmotically generated turgor pressure within the hyphae, which can be considerable.
-
-Biomechanical penetration into mineral matter is facilitated by thigmotropic reactions and lubrication with mucilaginous slime. Thigmotropism, or contact guidance, is a directed mode of fungal growth toward grooves, ridges, and pores in solid material. This mechanism explains how fungal hyphae systematically explore and exploit weakened sites in mineral surfaces, concentrating mechanical force where it will be most effective.
-
-### Indirect biomechanical weathering
-
-Indirect biomechanical effects arise from the shrinking and swelling of hydrated mucilaginous sheaths produced by many fungi. These extracellular polymeric substances surround hyphae and can expand when wet and contract when dry, exerting cyclical stresses on surrounding mineral matrices. Over time, these repeated expansion-contraction cycles can widen cracks, dislodge mineral grains, and physically degrade rock surfaces.
-
-## Biochemical Weathering
-
-Biochemical weathering is considered more important than mechanical degradation in terms of total mineral transformation. The main biochemical mechanisms of mineral solubilization are acidolysis, complexolysis, and redoxolysis, all of which may be enhanced by metal accumulation in and around the fungal biomass.
-
-### Acidolysis (proton-promoted dissolution)
-
-Acidolysis occurs when fungi acidify their microenvironment through excretion of protons and organic acids, and through formation of carbonic acid from respiratory CO2. Many fungi can excrete significant quantities of organic acids including oxalic, citric, gluconic, succinic, formic, and malic acids. These acids lower the pH of the immediate hyphal environment, promoting proton-promoted dissolution of mineral phases.
-
-The fungal filamentous explorative growth habit, combined with a high surface-area-to-mass ratio, ensures that these acidification effects are concentrated at the hypha-mineral interface. The hydrated mucilaginous sheaths surrounding hyphae provide an interconnected microenvironment within the fungal network where locally produced acids can accumulate to effective concentrations.
-
-Acidolysis has been identified as the primary mechanism of fungal dissolution of toxic metal phosphates when ammonium is the nitrogen source. The availability of ammonium (versus nitrate) as a nitrogen source strongly influences the degree of acidification, with ammonium metabolism generating excess protons that are excreted into the surrounding medium.
-
-### Complexolysis (ligand-promoted dissolution)
-
-Complexolysis involves the excretion of metal-complexing metabolites that bind metal cations and pull them into solution. Key fungal chelating agents include carboxylic acids (especially oxalic and citric acid), amino acids, siderophores, and phenolic compounds.
-
-Oxalic acid is particularly aggressive in attacking mineral surfaces because it simultaneously provides protons for solubilization and chelating anions for metal complexation. When fungal cultures excrete large amounts of strong chelators like oxalate, the solubilization mechanism shifts from proton-promoted to ligand-promoted dissolution. Organic acid excretion varies between and within fungal species and can be strongly influenced by the presence of toxic metal minerals in the environment.
-
-### Redoxolysis
-
-Redoxolysis involves oxidation-reduction reactions that transform mineral phases. Fungal-mediated redox reactions can change the oxidation state of metals within mineral lattices, destabilizing the [[crystal-structure-and-crystal-defects]] and promoting dissolution. This mechanism is particularly relevant for iron- and manganese-bearing minerals such as biotite and pyroxene.
+Direct degradation occurs through extensive hyphal penetration into decayed rocks and active tunneling into otherwise intact mineral matter. [[crystal-structure-and-crystal-defects]] and promoting dissolution. This mechanism is particularly relevant for iron- and manganese-bearing minerals such as biotite and pyroxene.
 
 ## Metal Immobilization and Precipitation
 
@@ -79,11 +51,7 @@ Fungi can be highly efficient bioaccumulators of soluble and particulate forms o
 
 The formation of secondary organic and inorganic minerals by fungi occurs through both metabolism-independent and metabolism-dependent processes. Precipitation, nucleation, and deposition of crystalline material on and within cell walls are influenced by environmental pH and the composition of cell walls.
 
-This process is important in soil because precipitation of carbonates, phosphates, and hydroxides increases soil aggregation. Cations such as silicon, iron, aluminum, and calcium (released through dissolution mechanisms) stimulate precipitation of compounds that act as bonding agents for soil particles. Hyphae enmesh soil particles, alter their alignment, and release organic metabolites that enhance aggregate stability, directly contributing to [[soil-structure-and-aggregate-ecology]] formation and maintenance.
-
-## Rock-Dwelling Fungal Communities
-
-Fungi colonize rocks through several distinct ecological strategies. [[rock-inhabiting-microcolonial-fungi-detail]] microorganisms are classified based on their relationship to the rock surface and internal structure:
+This process is important in soil because precipitation of carbonates, phosphates, and hydroxides increases soil aggregation. Cations such as silicon, iron, aluminum, and calcium (released through dissolution mechanisms) stimulate precipitation of compounds that act as bonding agents for soil particles. Hyphae enmesh soil particles, alter their alignment, and release organic metabolites that enhance aggregate stability, directly contributing to [[rock-inhabiting-microcolonial-fungi-detail]] microorganisms are classified based on their relationship to the rock surface and internal structure:
 
 - **Epilithic**: occurring on the surface of rocks and building stone
 - **Hypolithic**: associated with the underside of pebbles and stones
@@ -100,24 +68,26 @@ Fungal weathering of limestone, sandstone, and marble has been extensively descr
 
 ## Environmental Applications
 
-Fungal bioweathering has important implications for environmental management. The dissolution of rock substrates releases essential plant nutrients into soil ecosystems. In contaminated environments, [[fungal-metal-transformations-biosorption]]-transforming capacity offers potential for bioremediation of polluted soils, treatment of solid industrial wastes, recovery of metals from low-grade ores, and detoxification of metal-bearing minerals and industrial byproducts.
-
-The ability of fungi to immobilize metals via biosorption, intracellular accumulation, and extracellular precipitation turns metals into chemically more inert forms and therefore results in detoxification. Fungi with chromium-reducing activity may be useful for treatment of chromium-polluted soils, converting highly toxic hexavalent chromium (Cr(VI)) to less toxic trivalent chromium (Cr(III)).
-
-### Soil formation and pedogenesis
-
-Fungal weathering is a primary driver of soil formation from parent rock material. Through the combined action of biomechanical disruption and biochemical dissolution, fungi convert bedrock into mineral soil capable of supporting plant life. The secondary minerals precipitated by fungal activity (carbonates, phosphates, and hydroxides) serve as cementing agents that create stable soil aggregates, the fundamental structural units of productive soil.
-
-The fungal contribution to soil formation is particularly important in extreme environments such as deserts, arctic regions, and newly exposed geological surfaces where abiotic weathering processes are slow. In these environments, fungal pioneers are often among the first organisms to colonize bare rock, initiating the soil development process that eventually allows plant establishment.
-
-### Built environment impacts
-
-Fungal weathering is not limited to natural geological settings. Fungi are significant agents of biodeterioration in the built environment, degrading building stone, concrete, monuments, and other construction materials. Serpula lacrymans (dry rot fungus) and Meruliporia incrassata are notorious for destroying timber in buildings, while various rock-inhabiting fungi contribute to the degradation of stone facades, statuary, and archaeological monuments. Understanding fungal weathering mechanisms is therefore relevant to cultural heritage conservation as well as natural ecosystem science.
-
-## See Also
-
-- [[mycorrhizal-fungi-in-biogeochemical-cycling]]
-- [[fungi-dominant-soil-biomass-ecosystem-engineers]]
+Fungal bioweathering has important implications for environmental management. The dissolution of rock substrates releases essential plant nutrients into soil ecosystems. In contaminated environments, [[mycorrhizal-fungi-in-biogeochemical-cycling]]
 - [[mycorrhizal-fungi-in-biogeochemical-cycling]]
 - [[fungal-mineral-weathering]]
 - geomycology
+## Practical Considerations
+
+Successful implementation of Fungal Bioweathering and Mineral Transformations requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

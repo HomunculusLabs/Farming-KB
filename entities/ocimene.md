@@ -136,15 +136,10 @@ Strawberry Cough, Golden Goat, Space Queen, and some
 Jack Herer phenotypes. In these strains, ocimene
 interacts with limonene and myrcene to produce a
 complex layered aroma.
-
 ## See Also
 
-- [[myrcene]]
 - [[linalool]]
-- [[limonene]]
 - [[pinene]]
-- [[terpinolene]]
 - [[humulene]]
-- [[caryophyllene-oxide]]
-- [[geraniol]]
+- caryophyllene-oxide
 - [[nerolidol]]

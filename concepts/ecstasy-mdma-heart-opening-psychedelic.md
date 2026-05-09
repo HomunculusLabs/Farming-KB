@@ -77,11 +77,7 @@ MDMA-assisted psychotherapy is currently in Phase 3 clinical trials for treatmen
 
 ## Related Topics
 
-- [[psychedelic-safety-guidelines-turner]]
 - [[lsd-molecule-of-perfection]]
-- [[turner-2cb-erotic-empathogen]]
 - [[psychedelic-integration-guide]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[first-time-grower-common-mistakes]]
-- [[psychedelic-harm-reduction]]
 - [[turner-psychedelic-combination-experience-reports]]

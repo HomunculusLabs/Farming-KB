@@ -32,29 +32,6 @@ Despite these overlaps, their distinct biochemistries make each uniquely suited 
 
 ## Chaga (Inonotus obliquus)
 
-See full profile: [[chaga-inonotus-obliquus-medicinal-profile]]
-
-Chaga forms a hard, dark sclerotium on living birch trees in cold boreal forests across Eastern Europe and Eurasia. It has been used as a tea and folk medicine for centuries in these regions. In 1955, Russia approved a chaga-based preparation called Befungin as an anticancer drug, reflecting its long-recognized therapeutic potential.
-
-### Key Bioactive Compounds
-
-- **Betulin and betulinic acid**: The external black skin derives up to 30% betulin directly from the host birch bark. Betulinic acid is a well-studied anticancer compound.
-- **Fungal lanostanes**: Internal portions of the sclerotium contain unique lanostane-type triterpenoids with demonstrated biological activity.
-- **Polyphenols and melanin**: Contribute to Chaga's exceptional antioxidant capacity.
-
-### Primary Medicinal Actions
-
-- **Anticancer**: Studied and used in treating breast, lung, cervical, and stomach cancers. Befungin remains an approved pharmaceutical in Russia.
-- **Antiviral**: Demonstrated activity against HIV and HPV.
-- **Antioxidant**: Reported to have the highest ORAC (Oxygen Radical Absorbance Capacity) value of any food tested.
-- **Anti-inflammatory and immune modulating**: Reduces systemic inflammation while supporting immune function.
-
-### Harvest and Availability
-
-Chaga cannot be reliably cultivated commercially and must be wild-harvested from birch trees. The sclerotium is extremely hard, requiring a serrated knife for removal. It is primarily consumed as a decoction tea or dual-extracted supplement.
-
-## Reishi (Ganoderma lucidum)
-
 See full profile: [[ganoderma-lucidum-reishi-comprehensive-profile]]
 
 Reishi, known as Ling Chi or the "divine mushroom," has been used in traditional Chinese medicine for over 2,000 years, with its first recorded mention dating to 221-207 BC. It produces a distinctive bracket-shaped fruiting body with a 5-20 cm cap and a shiny, lacquered red to reddish-brown surface.
@@ -130,11 +107,7 @@ Both fungi are generally well tolerated, but note the following:
 
 ## See Also
 
-- [[comparison-chaga-vs-reishi]]
-
 - [[chaga-inonotus-obliquus-medicinal-profile]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[reishi-mushroom-medicinal-research]]
 - [[medicinal-mushroom-guide-chaga]]
 - [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

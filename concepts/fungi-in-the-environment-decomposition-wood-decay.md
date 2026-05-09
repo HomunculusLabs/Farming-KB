@@ -3,13 +3,13 @@ title: Fungi in the Environment - Decomposition and Wood Decay
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
 
 # Decomposition and Wood Decay by Fungi
 
-Fungi have fundamental importance as [[fungal-interactions-organisms]] in terrestrial ecosystems. [[basidiomycete-phylum-guide]] are the major agents of decomposition and nutrient cycling in forest ecosystems, occurring as both saprotrophs and mycorrhizal symbionts. Their ability to decompose [[lignin-degradation-mechanisms-wood-rot-fungi]], [[fungal-cellulose-decomposition-fungal-enzymes]], and other recalcitrant plant polymers makes them essential drivers of carbon and nutrient flow.
+Fungi have fundamental importance as [[basidiomycete-phylum-guide]] are the major agents of decomposition and nutrient cycling in forest ecosystems, occurring as both saprotrophs and mycorrhizal symbionts. Their ability to decompose [[fungal-cellulose-decomposition-fungal-enzymes]], and other recalcitrant plant polymers makes them essential drivers of carbon and nutrient flow.
 
 ## The Decomposer Role
 
@@ -18,25 +18,6 @@ Fungi are of fundamental importance as decomposers, responsible for the breakdow
 ## Wood Decay Processes
 
 ### Types of Wood Decay
-
-[[fungal-enzyme-wood-decay]] employ different strategies for breaking down woody substrates:
-
-- **White rot fungi**: Capable of degrading all major components of wood, including lignin, cellulose, and hemicellulose. They use ligninolytic enzyme systems to break down the lignin matrix
-- **Brown rot fungi**: Primarily degrade cellulose and hemicellulose while modifying but not completely removing lignin. They utilize carbohydrates but degrade lignin to only a limited extent
-
-The distinction between these decay types has significant implications for carbon cycling and the fate of carbon in forest ecosystems. Brown rot fungi tend to leave behind a lignin-rich residue that contributes to long-term soil carbon storage.
-
-### Decay Dynamics
-
-The rate and pattern of wood decay is influenced by multiple factors:
-- Wood resource quality (size, state of decay, nutrient content)
-- Fungal species identity and interactions
-- Temperature, moisture, and other environmental conditions
-- Invertebrate activity
-
-When wood is well decayed at the point of colonization, newly encountered resources tend to decay more rapidly. The presence of antagonistic decay fungi affects partitioning of decay between competing species. In decomposing litter, enzymes associated with ligninolysis are switched on in response to resource conditions.
-
-## Lignocellulose Decomposition
 
 [[fungal-decomposition-ecology]] is the most abundant organic polymer on Earth and the primary structural component of plant cell walls. Its decomposition requires a complex suite of fungal enzymes:
 
@@ -93,24 +74,10 @@ Fungal communities undergo predictable successional changes during decomposition
 
 Understanding fungal decomposition is valuable for agriculture:
 - Composting and organic matter management depend on fungal decomposition processes
-- [[dighton-fungal-succession-resource-decomposition]] affect nutrient release from organic amendments
-- Wood chip mulch decomposition influences soil biology and weed suppression
-- Managing crop residues to optimize fungal decomposition improves nutrient cycling
-- Understanding white-rot enzyme systems informs development of fungal-based pest control agents
-- Fungal decomposition of cover crops and green manures releases nutrients for subsequent crops
-
-## See Also
-
 - [[fungi-in-the-environment-fungi-in-beetle-guts]]
-- [[fungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]]
-
 - [[fungal-decomposition]]
-- [[fungal-wood-decay-types]]
 - [[brown-rot-fungi-biodegradation]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[fungal-cellulose-decomposition-fungal-enzymes]]
-- [[fungal-decomposition-nutrient-cycling]]
 - [[saprotrophic-fungi]]
-- [[fungal-enzyme-activity-nutrient-availability]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]
 - [[fungal-decomposition-succession-resource-quality]]

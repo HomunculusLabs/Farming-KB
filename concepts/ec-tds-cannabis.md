@@ -127,11 +127,7 @@ dissolved solids (TDS).
 
 ## See Also
 
-- [[ph-management-cannabis]] -- pH monitoring alongside EC/TDS
 - [[flushing-nutrients]] -- reducing EC when salt buildup occurs
-- [[co2-enrichment-cannabis]] -- increased nutrient demands with CO2
-- Cannabis Growing Mediums -- EC considerations by medium type
 - [[cannabis-nutrient-lockout-and-ph]] -- nutrient lockout detection
-- [[cannabis-nutrient-burn-and-toxicity]]
 - [[growing-vegetables-with-less-fertilizer]]
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]]

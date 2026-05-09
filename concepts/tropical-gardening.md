@@ -6,66 +6,87 @@ type: concept
 tags: [gardening, climate, plants, cultivation, water-management, ecology, biodiversity]
 sources: []
 ---
+
 # Tropical Gardening
+
 ## Overview
+
 Tropical gardening encompasses growing food and ornamental plants in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18°C) and frost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall, pest and disease pressure, and rapid soil nutrient depletion. These systems overlap significantly with [[food-forest-design|food forest]] design and [[permaculture-design|permaculture]] principles.
+
 ## Tropical Climate Zones
+
 ### Rainforest Climates (Af)
 - No dry season; rainfall distributed throughout the year
 - Annual rainfall often exceeds 100 inches
 - High humidity (80%+ year-round)
 - Consistent temperatures with minimal seasonal variation
 - Rapid decomposition and nutrient cycling
+
 ### Monsoon Climates (Am)
 - Short dry season (1-3 months) with heavy monsoon rains
 - Annual rainfall 60-150+ inches
 - Many traditional crops timed to monsoon cycles
+
 ### Savanna/Tropical Wet-Dry (Aw)
 - Pronounced wet and dry seasons (6+ months dry)
 - Annual rainfall 30-60 inches
+
 ## Year-Round Growing
+
 ### Continuous Harvest Potential
 In frost-free tropical climates, many crops produce year-round or in overlapping cycles:
+
 - Leafy greens: Harvest continuously by picking outer leaves
 - Root vegetables: Can be planted and harvested any month
 - Perennial vegetables: Chaya, cassava, taro, sweet potato produce for years
 - Fruit trees: Multiple species fruit at different times, providing year-round harvest
-### [[succession-planting]]
+
+### Succession Planting
 Because seasons are less distinct, succession planting is driven by harvest cycles rather than seasonal changes:
+
 - Plant new vegetable beds every 2-4 weeks for continuous production
 - Intercrop fast and slow-maturing species in the same bed
 - Use multiple varieties with different maturity dates
 - Replace spent crops immediately to avoid empty beds that invite weeds
+
 ### Perennial-Based Systems
 Tropical gardens benefit enormously from emphasizing perennials:
+
 - Perennial vegetables require less replanting and soil disturbance
 - Tree crops provide shade, mulch, and food simultaneously
 - Perennial root crops (cassava, taro, yam) are calorie-dense staples
 - [[food-forest-design|food forest]] design is essentially a tropical concept adapted worldwide
+
 ## Wet and Dry Season Management
+
 ### Wet Season Challenges
 - Waterlogged soils suffocate roots and promote root diseases
 - Heavy rain leaches nutrients rapidly from sandy soils
 - Fungal diseases proliferate in high humidity
 - Pests multiply rapidly with abundant food
 - Erosion on slopes requires [[soil-erosion-control]] measures
+
 ### Wet Season Strategies
 - Plant on raised beds or mounds to improve drainage
 - Use mulch to protect soil from rain impact
 - Apply slow-release organic fertilizers
 - Plant cover crops in unused areas to prevent erosion
+
 ### Dry Season Challenges
 - Water scarcity for irrigation
 - Heat stress on sensitive crops
 - Increased pest pressure as insects concentrate on remaining green vegetation
 - Soil cracking and surface crusting
+
 ### Dry Season Strategies
 - Focus irrigation on high-value and young plants
 - Use heavy mulch to retain soil moisture
 - Plant drought-tolerant species (cassava, pigeon pea, sweet potato)
 - Harvest and store water during wet season for dry season use
 - Time major plantings for the beginning of rains
+
 ## Tropical Species
+
 ### Staple Root Crops
 | Crop | Calories/lb | Growing Time | Notes |
 |------|-------------|-------------|-------|
@@ -74,6 +95,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 | Sweet potato | 400 | 3-5 months | Easy to grow; vines suppress weeds |
 | Yam (Dioscorea) | 1,200 | 6-12 months | Climbing vine; requires trellis support |
 | Malanga (Xanthosoma) | 500 | 8-12 months | Similar to taro; more tolerant of dry conditions |
+
 ### Tropical Fruit Trees
 - **Banana and plantain**: Fast-growing; produce within 9-15 months; heavy potassium feeders
 - **Papaya**: Bears fruit within 6-12 months from seed; short-lived (3-5 years)
@@ -85,6 +107,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Coconut**: Multipurpose tree; 5-8 years to first nuts
 - **Cacao**: Shade-loving understory tree; source of chocolate
 - **Starfruit (carambola)**: Fast-growing, prolific, ornamental
+
 ### Perennial Vegetables
 - **Chaya (Cnidoscolus aconitifolius)**: Spinach substitute; must be cooked; extremely productive
 - **Moringa (Moringa oleifera)**: Nutritious leaves, pods, and flowers; fast-growing tree
@@ -92,6 +115,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Egyptian spinach (Corchorus olitorius)**: Molokhia; annual but self-seeds readily
 - **Pigeon pea (Cajanus cajan)**: Perennial legume producing edible peas; nitrogen fixer
 - **Winged bean (Psophocarpus tetragonolobus)**: Entire plant is edible; tropical climbing legume
+
 ### Tropical Annual Vegetables
 - **Amaranth**: Both leaves and grain; heat-loving
 - **Okra**: Thrives in heat and humidity
@@ -100,47 +124,63 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Cucumber**: Choose disease-resistant tropical varieties
 - **Cherry tomato**: More disease-resistant than large tomatoes in humid conditions
 - **Bitter melon (Momordica charantia)**: Cucurbit with medicinal properties
+
 ## Disease Pressure
+
 ### Common Tropical Diseases
 High humidity and warmth create ideal conditions for pathogens:
+
 - **Fungal diseases**: Anthracnose, powdery mildew, downy mildew, rust, leaf spot, root rot
 - **Bacterial diseases**: Bacterial wilt, bacterial leaf spot, fire blight
 - **Viral diseases**: Papaya ringspot, banana bunchy top, mosaic viruses
 - **Nematodes**: Root-knot nematodes are a major problem in tropical soils
+
 ### Disease Management
 - Ensure adequate spacing and airflow between plants
 - Remove and destroy infected plant material immediately
 - Use disease-resistant varieties when available
 - Rotate crop families to break disease cycles
 - Apply biological controls (Trichoderma, Bacillus subtilis)
+
 ### Nematode Management
 Root-knot nematodes are among the most damaging tropical soil pests:
+
 - Rotate with nematode-resistant crops (marigold, sunn hemp, some cowpea varieties)
 - Incorporate organic matter (compost, green manure) to support nematode-predatory microbes
 - Solarize soil during hot dry season (cover moist soil with clear plastic for 6-8 weeks)
 - Use biological controls (Paecilomyces lilacinus, Bacillus firmus)
 - Avoid moving contaminated soil to clean areas
+
 ## Soil Management
+
 ### Rapid Decomposition
 In the tropics, organic matter decomposes 2-4x faster than in temperate climates:
+
 - Compost finishes in 4-8 weeks instead of months
 - Mulch layers need frequent replenishing (every 2-3 months)
 - Continuous organic matter inputs are essential
+
 ### Nutrient Management
 Tropical soils are often old, weathered, and nutrient-poor:
+
 - Apply compost and organic amendments frequently (every 4-6 weeks for heavy feeders)
 - Use green manure cover crops between vegetable crops
 - Mulch with diverse materials (leaves, straw, wood chips)
-- Incorporate [[biochar]] to improve nutrient retention in highly weathered soils
+- Incorporate biochar to improve nutrient retention in highly weathered soils
 - Monitor pH; many tropical soils are acidic (pH 4.5-6.0)
+
 ### Cover Cropping
 Cover crops prevent erosion and build soil during fallow periods:
+
 - **Sunn hemp (Crotalaria juncea)**: Fast-growing legume; suppresses nematodes
 - **Pigeon pea**: Produces food while fixing nitrogen; perennial
 - **Velvet bean (Mucuna pruriens)**: Aggressive cover; nitrogen fixer
 - **Cowpea**: Dual-purpose food and cover crop
+
 ## Integration with Food Forests
+
 Tropical gardening naturally integrates with [[food-forest-design|food forest]] design:
+
 - Tall fruit trees (coconut, breadfruit, mango) form the canopy
 - Understory fruit trees (banana, papaya, cacao) fill the mid-layer
 - Perennial vegetables and root crops occupy lower layers

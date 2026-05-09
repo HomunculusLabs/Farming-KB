@@ -1,21 +1,7 @@
 ---
 title: Mexican Neurotropic Mushroom Diversity
 created: 2026-04-28
-tags: [mycology, mexico, fungal-biodiversity, psilocybin-mushrooms, psilocybe, mesoamerica]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Guzmán G, Allen JW, Gartz J. A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion. Ann Mus Civ Rovereto. 2000;14:189-280.
-type: concept
----
-
-# Mexican Neurotropic Mushroom Diversity
-
-Mexico possesses the highest known diversity of neurotropic (hallucinogenic) fungi in the world, with 76 species distributed across multiple genera. This extraordinary concentration is closely tied to the country's complex topography, varied climate zones, and the deep ethnomycological traditions of its indigenous peoples.
-
-## Overview of Species Richness
-
-Mexico accounts for 76 neurotropic fungal species, of which 44 belong to the genus Psilocybe alone, representing approximately 39% of all known Psilocybe species worldwide. The remaining species are distributed among Copelandia, Panaeolus, Conocybe, Gymnopilus, Hypholoma, Pluteus, Panaeolina, [[amanita]], Cordyceps, Claviceps, Gerronema, Inocybe, Dictyophora, Lycoperdon, and Vascellum.
+tags: [[amanita]], Cordyceps, Claviceps, Gerronema, Inocybe, Dictyophora, Lycoperdon, and Vascellum.
 
 By comparison, the United States and Canada together report only 21 taxa of neurotropic Psilocybe, and Europe has just 14 known species, despite both regions being far more thoroughly explored mycologically. This disparity strongly suggests that Mexico's actual diversity may be even higher than currently documented.
 
@@ -34,26 +20,17 @@ This is particularly striking because coniferous forests in Mexico have been mor
 Mexico's neurotropic Psilocybe fauna spans multiple taxonomic sections and ecological niches:
 
 ### Section Zapotecorum
-- [[psilocybe-zapotecorum]]: One of the most culturally significant species, widely used by indigenous groups in Oaxaca
-- Psilocybe subzapotecorum: A recently described species closely related to P. zapotecorum
-- Psilocybe angustipleurocystidiata: Found in Mexican mesophytic forests
-
-### Section Mexicanae
 - [[psilocybe-mexicana]]: The species involved in the original Wasson-Heim investigations, historically one of the most important sacred mushrooms
 - Psilocybe hochshagenii var. hochshagenii: Known from mesophytic forests
 - Psilocybe hochshagenii var. convexa: A variety found in similar habitats
 
 ### Section Aztecorum
-- [[psilocybe-aztecorum]] var. aztecorum: Restricted to subalpine and alpine habitats above 3,000 m elevation in the high mountains of central Mexico (up to 4,000 m), one of the highest-altitude neurotropic fungi known
 - [[psilocybe-aztecorum]] var. bonetii: Named after the Mexican botanist Bonet
 
 ### Section Caerulescentes
-- [[psilocybe-caerulescens]] var. caerulescens: Commonly known as "derrumbes" (landslides), found in disturbed soils
 - [[psilocybe-caerulescens]] var. ombrophila: A variety associated with wet habitats
 
 ### Species of Cultural Importance
-- [[psilocybe-muliercula]]: Also known as P. wassonii, named in honor of R. Gordon Wasson
-- Psilocybe sanctorum: Named for its sacred significance
 - [[psilocybe-wassoniorum]]: Another species honoring the Wassons
 - Psilocybe barrerae: An endemic Mexican species
 - Psilocybe singerii: Named after Rolf Singer
@@ -62,17 +39,10 @@ Mexico's neurotropic Psilocybe fauna spans multiple taxonomic sections and ecolo
 ## Other Neurotropic Genera in Mexico
 
 ### Copelandia
-- [[copelandia-cyanescens]]: One of the most widespread psychoactive fungi in tropical Mexico
 - [[copelandia-mexicana]]: A species first described from Mexican material
-- [[copelandia-tropicalis]]: Found in tropical lowland areas
-
-### Conocybe
-- [[conocybe-siligineoides]]: A species known primarily from the Mazatec region of Oaxaca, one of the few non-Psilocybe genera used in traditional ceremonies
+- [[archaeology-of-psychedelic-mushroom-use]]: A species known primarily from the Mazatec region of Oaxaca, one of the few non-Psilocybe genera used in traditional ceremonies
 
 ### Gymnopilus
-- [[gymnopilus-spectabilis-entity]]: The "big laughing gym," a widely distributed neurotropic species
-- Gymnopilus subpurpuratus: A Mexican species with documented psychoactive properties
-- Gymnopilus lateritius: Present in Mexican forests
 - [[gymnopilus-sapineus]]: Found on woody substrates
 
 ### Hypholoma
@@ -80,15 +50,12 @@ Mexico's neurotropic Psilocybe fauna spans multiple taxonomic sections and ecolo
 - Hypholoma rhombispora: Another endemic species, closely related to neurotropic taxa
 
 ### Other Genera
-- [[amanita-muscaria]]: The iconic fly agaric, found in pine forests of central and northern Mexico, sometimes in mycorrhizal association with Pinus
-- Cordyceps capitata: Found in Mexican forests growing on Elaphomyces
-- Cordyceps ophioglossoides: Used in special nocturnal ceremonies in some Mexican indigenous communities
 - [[dictyophora-indusiata]]: The "veiled lady" stinkhorn, documented from Mexico
-- [[claviceps-purpurea]] and [[claviceps-paspali]]: Ergot fungi present on grasses
+- [[claviceps-paspali]]: Ergot fungi present on grasses
 
 ## Mexico as a Convergence Zone
 
-Mexico occupies a unique biogeographic position as a convergence zone for both northern (North American) and southern (South American) mycobiotas. Northern species such as [[psilocybe-caerulipes]], common in the deciduous forests of eastern North America, reach northeastern Mexico (Zacualtipan, Hidalgo) through continuous mesophytic forest with Fagus. Simultaneously, southern species such as [[psilocybe-yungensis]] and Psilocybe subyungensis, common in South America, reach Mexico through mesophytic forests associated with Alnus.
+Mexico occupies a unique biogeographic position as a convergence zone for both northern (North American) and southern (South American) mycobiotas. Northern species such as [[psilocybe-yungensis]] and Psilocybe subyungensis, common in South America, reach Mexico through mesophytic forests associated with Alnus.
 
 This biogeographic convergence makes Mexico an exceptional natural laboratory for understanding the evolution and dispersal of neurotropic fungi. The country's position between the Nearctic and Neotropical realms, combined with its extraordinary topographic diversity (from sea level to peaks above 4,000 m), creates an unparalleled range of microhabitats for fungal diversity.
 
@@ -100,9 +67,7 @@ Mexico harbors numerous endemic neurotropic species found nowhere else in the wo
 
 The remarkable diversity of neurotropic fungi in Mexico is intimately connected with the indigenous knowledge systems that have sustained their use for millennia. Multiple indigenous groups maintain active traditions of sacred mushroom use:
 
-- **Mazatec** (Oaxaca): The most well-documented tradition, involving species such as [[psilocybe-caerulescens]] ("derrumbes"), [[psilocybe-mexicana]], Psilocybe hochshagenii, and [[conocybe-siligineoides]]
-- **Mixtec** (Oaxaca): Known users of several Psilocybe species in the Mixteca Alta region
-- **Zapotec** (Oaxaca): The [[psilocybe-zapotecorum]] complex is named in their honor
+- **Mazatec** (Oaxaca): The most well-documented tradition, involving species such as [[psilocybe-mexicana]], Psilocybe hochshagenii, and [[psilocybe-zapotecorum]] complex is named in their honor
 - **Nahua** (central Mexico): Various species used in traditional healing ceremonies
 - **Chinantec** (Oaxaca): Forest-dwelling communities with extensive mycological knowledge
 - **Otomí** (central Mexico): Traditional knowledge of local neurotropic species
@@ -114,16 +79,10 @@ The Mazatec curandera María Sabina became internationally known after the R. Go
 The distribution of neurotropic species across Mexico's diverse vegetation zones provides important ecological insights:
 
 ### Cloud Forests (Bosque Mesófilo de Montaña)
-These humid, fog-drenched forests at 1,000 to 2,500 m elevation harbor the greatest concentration of neurotropic species. Key species include [[psilocybe-zapotecorum]], [[psilocybe-caerulescens]], [[psilocybe-muliercula]], [[psilocybe-wassoniorum]], Psilocybe sanctorum, and numerous others. The combination of high humidity, moderate temperatures, and abundant woody debris creates ideal conditions.
+These humid, fog-drenched forests at 1,000 to 2,500 m elevation harbor the greatest concentration of neurotropic species. Key species include [[psilocybe-caerulescens]], [[psilocybe-wassoniorum]], Psilocybe sanctorum, and numerous others. The combination of high humidity, moderate temperatures, and abundant woody debris creates ideal conditions.
 
 ### Coniferous Forests
-Species found in pine and pine-oak forests include [[psilocybe-aztecorum]], Psilocybe barrerae, Psilocybe fagicola, [[amanita-muscaria]], and [[gymnopilus-spectabilis-entity]]. These forests, while less diverse in neurotropic species than cloud forests, have been more intensively studied.
-
-### Tropical Deciduous Forests
-The tropical lowlands and deciduous forests harbor species such as [[psilocybe-cubensis]], [[copelandia-cyanescens]], [[copelandia-tropicalis]], and [[panaeolus-sphinctrinus]]. These tend to be the more widely distributed, pantropical species.
-
-### Subalpine and Alpine Zones
-Above 3,000 m elevation, [[psilocybe-aztecorum]] and its variety bonetii are restricted to volcanic peaks in central Mexico, representing some of the highest-altitude neurotropic fungi known globally.
+Species found in pine and pine-oak forests include [[amanita-muscaria-entity]], and [[psilocybe-cubensis]], [[copelandia-tropicalis]], and [[psilocybe-aztecorum]] and its variety bonetii are restricted to volcanic peaks in central Mexico, representing some of the highest-altitude neurotropic fungi known globally.
 
 ## Conservation Concerns
 
@@ -135,8 +94,6 @@ The study of Mexican neurotropic fungi fundamentally transformed mycology as a s
 
 ## See Also
 
-- [[guzman-magic-mushrooms-temperate-zone-species]]
 - [[guzman-magic-mushrooms-psilocybe-species-list]]
-- [[guzman-magic-mushrooms-ethnomycological-traditions]]
 - [[guzman-magic-mushrooms-global-biogeography]]
 - [[guzman-magic-mushrooms-chemical-constituents]]

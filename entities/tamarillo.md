@@ -78,18 +78,12 @@ crop with significant nutritional value.
 
 ## Relevance
 Tamarillo is an excellent small-garden fruit crop for subtropical and
-temperate [[permaculture]] systems. Its fast growth, ease of cultivation, and
-continuous fruit production provide reliable yields in limited space. The high
-Vitamin A content (540 IU per 100g) makes it a valuable nutritional
-contribution to home food production systems.
+temperate [[food-forest-design]]
 
-## See Also
-
-- [[food-forest-design]]
-
-- [[permaculture-tamarillo]]
 - [[feijoa]]
 - Pepino
 - Cape Gooseberry
 - Subtropical Fruit Trees
 - Small Garden Fruit Crops
+
+See also: [[pomegranate-cultivation-and-variety-guide]]

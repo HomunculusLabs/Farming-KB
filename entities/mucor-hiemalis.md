@@ -121,9 +121,6 @@ interrelationships within fungal communities.
 
 ## See Also
 
-- [[trichoderma-viride]]
 - [[pythium-ultimum]]
-- [[penicillium-chrysogenum]]
 - [[botrytis-cinerea]]
-- [[aspergillus-flavus]]
 - [[mucor-piriformis]]

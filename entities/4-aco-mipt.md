@@ -106,16 +106,10 @@ By the 2010s, 4-AcO-MiPT was identified in forensic samples across Europe and wa
 
 ## See Also
 
-- [[4-ho-mipt]]
 - [[4-aco-dmt]]
-- [[psilocin]]
-- [[psilocybin-compound]]
-- [[5-meo-mipt]]
+- [[psilocybin]]
 - [[dmt]]
-- [[2c-b]]
 - [[lsd]]
-- [[mescaline-entity]]
 - [[harmine]]
-- [[harmaline]]
 - [[bufotenin]]
 - [[mescaline-entity]]

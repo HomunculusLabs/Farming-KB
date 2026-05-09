@@ -10,15 +10,7 @@ type: concept
 
 # KNF LAB Culturing and Uses
 
-[[lactic-acid-bacteria-lab]]) are anaerobic microorganisms that break
-sugar into lactic acid in the absence of oxygen. LAB is very effective
-in improving soil ventilation, promoting rapid growth of stone fruit tree cares
-and leaf vegetables, and increasing the solubility of fertilizers.
-
-## LAB Characteristics
-
-LAB possess a unique combination of properties that make them
-exceptionally useful in [[korean-natural-farming]]:
+[[korean-natural-farming]]:
 
 - Conditionally anaerobic: can survive with or without oxygen
 - Resistant to high temperatures
@@ -137,5 +129,6 @@ the nutrients and enzymes that fuel microbial activity.
 
 ## See Also
 
-- [[knf-faa-uses-and-bone-recycling]]
 - [[freshwater-fungi-collection-and-culturing]]
+
+See also: [[lactic-acid-bacteria-knf]]

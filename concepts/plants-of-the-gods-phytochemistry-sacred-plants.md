@@ -100,9 +100,7 @@ The active content in dried mushrooms tends to vary between 0.1 and
 0.6 percent. The median effective dose for humans is 8 to 16
 milligrams of psilocybine or psilocine.
 
-Similarly, the active principle of [[schultes-peyote-and-mescaline]] (*Lophophora
-williamsii*), mescaline, had been isolated in pure form and crystallized
-as a salt with hydrochloric acid. The [[plants-of-the-gods-chemical-structures-hallucinogens]] of both mescaline and the mushroom alkaloids reveal their
+Similarly, the active principle of [[plants-of-the-gods-chemical-structures-hallucinogens]] of both mescaline and the mushroom alkaloids reveal their
 close relationship to brain neurotransmitters.
 
 ## Synthesis and Modern Applications
@@ -112,24 +110,14 @@ making the active principle independently of the plant. With pure
 compounds, it became possible to extend research into psychiatry, with
 useful results. They were found to be particularly useful in
 experimental psychiatry as valuable aids to psychoanalysis and
-[[schultes-hallucinogens-medical-psychotherapy]].
-
-One might think that with isolation, structural analysis, and synthesis
-of the active principles, the sacred plants had lost their magic. But
-scientific investigation has merely shown that the magic properties are
-the properties of specific crystalline compounds. Their effect on the
-human mind is just as inexplicable, and just as magical, as that of
-the plants themselves. This also holds true for the isolated and
-purified active principles of [[plants-of-the-gods-tabernanthe-iboga]],
-[[plants-of-the-gods-turbina-corymbosa-ololiuqui]], and
-all other [[plants-of-the-gods-plant-kingdom-classification]].
+[[plants-of-the-gods-tabernanthe-iboga]],
+[[plants-of-the-gods-plant-kingdom-classification]].
 
 ## The Alkaloid Nature of Most Hallucinogens
 
 Almost all plant hallucinogens contain the element nitrogen and
 therefore belong to the large class of chemical compounds known as
 alkaloids. Among the more important psychoactive plants, only
-[[plants-of-the-gods-cannabis-ancient-cultures]] (THC) and
 [[schultes-salvia-divinorum]] (salvinorin) are
 exceptions. The principal plant hallucinogens are closely related in
 their chemical structure to hormones present in the brain -- to

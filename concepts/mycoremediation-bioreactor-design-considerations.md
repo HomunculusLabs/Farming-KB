@@ -56,42 +56,7 @@ Fungal metabolism and metal biosorption are highly pH-dependent:
 
 ### Temperature
 - Mesophilic fungi (Trametes, Pleurotus, Phanerochaete) operate optimally at 25-30°C
-- [[thermophilic-fungi]] (Thermomyces, Myceliophthora) can be used at 40-50°C, which offers advantages for treating hot waste streams
-- Temperature control through heat exchangers or reactor insulation may be needed in temperate climates
-
-### Biomass Support and Immobilization
-The choice of support material significantly affects reactor performance:
-
-- **Natural materials:** Wood chips, straw, corncobs, and rice husks are inexpensive and provide nutrients for initial fungal growth. Lignocellulosic materials may be partially degraded by the fungus over time
-- **Synthetic materials:** Polyurethane foam, nylon mesh, and ceramic beads provide inert, long-lasting support. Better suited for long-term continuous operation
-- **Pre-grown pellets:** Many white-rot fungi naturally form dense mycelial pellets in liquid culture. These can be used directly in slurry reactors without additional support
-
-### Hydraulic Retention Time (HRT)
-The time contaminated water remains in contact with fungal biomass must be optimized for each application:
-
-- Dye decolorization: 6-24 hours depending on dye concentration and fungal species
-- Metal biosorption: 30 minutes to 4 hours (rapid equilibrium on cell wall sites)
-- Phenol degradation: 12-48 hours for complete mineralization
-- PAH degradation: Days to weeks (limited by desorption from solid phase in soil-slurry systems)
-
-## Operational Challenges
-
-### Clogging
-Mycelial overgrowth can block flow paths in packed bed reactors. Strategies to manage clogging include:
-- Periodic backwashing to remove excess biomass
-- Using larger support particles to create more open channel structure
-- Operating at sub-maximal growth rates (nutrient limitation)
-- Combining fungal treatment with periodic physical disturbance
-
-### Contamination
-Open bioreactor systems are susceptible to bacterial contamination, which can:
-- Outcompete fungi for nutrients and oxygen
-- Degrade fungal enzymes (particularly lignin peroxidase, which is unstable in the presence of bacterial proteases)
-- Alter reactor pH and metabolic conditions
-- Sterile operation is impractical at scale; instead, design for conditions that favor fungi over bacteria (low pH, low nitrogen, high lignocellulosic carbon)
-
-### Enzyme Stability
-[[ligninolytic-enzymes]] (laccase, manganese peroxidase, lignin peroxidase) are the primary agents of organic pollutant degradation. Their production and stability are affected by:
+- [[ligninolytic-enzymes]] (laccase, manganese peroxidase, lignin peroxidase) are the primary agents of organic pollutant degradation. Their production and stability are affected by:
 - Nitrogen source and concentration (ligninolytic enzyme production is suppressed by high nitrogen)
 - Inducer compounds (veratryl alcohol, manganese, copper)
 - Temperature and pH
@@ -99,7 +64,24 @@ Open bioreactor systems are susceptible to bacterial contamination, which can:
 
 ## See Also
 
-- [[fungal-bioreactor-types-for-pollutant-removal]] — detailed bioreactor configurations
 - [[mycoremediation-techniques]] — overview of mycoremediation approaches
-- [[bioremediation-packed-fluidized-bed-bioreactors]] — packed and fluidized bed designs
 - [[mycoremediation-heavy-metals-detailed]] — metal-specific reactor considerations
+## Practical Considerations
+
+Successful implementation of Mycoremediation Bioreactor Design Considerations requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

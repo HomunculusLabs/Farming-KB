@@ -79,66 +79,7 @@ Study found no significant adverse effects from marijuana use during pregnancy i
 
 ## Osteoporosis and Women's Health
 
-Post-menopausal women are at highest risk for osteoporosis. The CB2 receptor's role in bone regulation (see [[blesching-cannabis-osteoporosis]]) makes cannabinoids potentially relevant for:
-- Preventing post-menopausal bone loss
-- Reducing fracture risk
-- Complementing hormone replacement therapy (or providing an alternative)
+Post-menopausal women are at highest risk for osteoporosis. The CB2 receptor's role in bone regulation (see [[cannabis-for-interstitial-cystitis]] Topics
 
-## Libido and Sexual Function
-
-### Endocannabinoid Hedonic Hotspot
-**Mahler, Smith, and Berridge (2007)**: "Endocannabinoid hedonic hotspot for sensory pleasure: Anandamide in nucleus accumbens shell enhances 'liking' of a sweet reward." Neuropsychopharmacology 32(11):2267-78.
-
-The endocannabinoid system has a specific "hedonic hotspot" in the brain that enhances sensory pleasure. Anandamide in the nucleus accumbens amplifies the experience of pleasure, which may relate to sexual function.
-
-### Historical Use
-**Parker and Lux (2008)**: "Psychoactive plants in Tantric Buddhism; Cannabis and datura use in Indo-Tibetan Esoteric Buddhism."
-
-Cannabis has been used in Tantric traditions to enhance sensual and sexual experience.
-
-### Herbal Aphrodisiacs
-Multiple herbs studied for sexual function:
-- **Nutmeg/clove**: Comparative study on male mice sexual behavior (Tajuddin et al., 2003)
-- **Aframomum melegueta (grains of paradise)**: Effects on sexual behavior (Kamtchouing et al., 2002)
-- **Maca root**: For SSRI-induced sexual dysfunction (Dording et al., 2008)
-- **Greek plant extracts**: SERM-like properties including effects on libido (Kassi et al., 2004)
-- **Cinnamon**: Blood pressure effects relevant to sexual function (Preuss et al., 2006)
-
-## Practical Guidance
-
-### Menstrual Pain
-- CBD-dominant tinctures or topicals applied to lower abdomen
-- Fennel tea as complementary food-as-medicine
-- Heat therapy combined with cannabis for enhanced effect
-
-### Endometriosis
-- Oral CBD for systemic anti-inflammatory and antiproliferative effects
-- THC:CBD combination for pain management
-- Vaginal suppositories (where legal) for localized delivery
-- Address underlying trauma with appropriate therapeutic support
-
-### Perimenopause/Menopause
-- CBD for sleep, mood, and bone health
-- Phytoestrogenic herbs (fennel, Greek plant extracts) alongside CBD
-- Avoid THC if it triggers anxiety or palpitations
-
-### Important Caution
-**Do not use cannabis during pregnancy without medical supervision.** The endocannabinoid system is critical for fetal brain development, and THC can cross the placenta. CBD may be safer but is not well-studied in pregnancy.
-
-## Related
-
-- [[cannabis-for-interstitial-cystitis]] Topics
-
-- [[blesching-cannabis-osteoporosis]]
-- Cannabis For Inflammation
 - [[cannabis-endocannabinoid-system]]
-- [[blesching-cannabis-osteoporosis]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), OBGYN sections
-
-## Merged: Cannabis for Abortion Miscarriage and Fertility
-Certain plant cannabinoids bind to the same set of receptors as the body's own cannabinoid anandamide. They similarly exert influence on the earliest processes of conception and egg implantation in the uterine wall, and thus play a significant role in fertility. The [[cannabis-endocannabinoid-system]] is deeply integrated with female reproductive biology. In a trial on mice, scientists from Vanderbilt University Medical Center (2002) examined the role of the [[cannabis-endocannabinoid-system]] during normal pregnancy. Results revealed that levels of anandamide in the uterus and [[cannabis-cannabinoid-receptor-pharmacology]] receptors on the fertilized egg work together toward successful implantation in the uterine wall. Related: [[cannabis-thc-therapeutic-profile]], [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-for-nausea-and-appetite-stimulation]], [[cannabis-for-chronic-pain]], [[cannabis-for-endometriosis]]
-## Merged: Cannabis For Menstrual Pain
-Menstrual pain (dysmenorrhea) is one of the most common gynecological complaints, affecting a significant proportion of women during their reproductive years. Pain ranges from mild discomfort to severe cramping that can interfere with daily activities and quality of life. See [[cannabis-administration-methods-comparison]] for detailed delivery route information. See [[cannabis-topical-applications]] for topical preparation guidance. - [[cannabis-womens-health]] for broader women's health applications - [[cannabis-for-endometriosis]] for endometriosis-related pelvic pain - [[cannabis-for-chronic-pain]] for general pain management - [[cannabis-topical-applications]] for localized abdominal application - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms - [[cannabis-endocannabinoid-system]] for uterine receptor science - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-health-index]] for the CHI methodology The formal evidence base for cannabis in menstrual pain is extremely limited with only one study reviewed.
+- [[cannabis-endocannabinoid-system]] is deeply integrated with female reproductive biology. In a trial on mice, scientists from Vanderbilt University Medical Center (2002) examined the role of the [[cannabis-cannabinoid-receptor-pharmacology]] receptors on the fertilized egg work together toward successful implantation in the uterine wall. Related: [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-for-chronic-pain]], [[cannabis-administration-methods-comparison]] for detailed delivery route information. See [[cannabis-womens-health]] for broader women's health applications - [[cannabis-for-chronic-pain]] for general pain management - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-health-index]] for the CHI methodology The formal evidence base for cannabis in menstrual pain is extremely limited with only one study reviewed.

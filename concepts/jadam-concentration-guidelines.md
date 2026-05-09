@@ -112,11 +112,7 @@ The final pesticide should produce vigorous foam when shaken. Weak foam (like be
 
 ## See Also
 
-- [[jadam-water-spraying-guidelines]] -- water quality and spraying techniques
 - [[jadam-natural-pesticide-jnp]] -- complete pesticide system
-- [[jadam-wetting-agent-jwa]] -- JWA details
 - [[jadam-herb-solution-jhs]] -- JHS details
-- [[jadam-natural-pest-control-methods]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-pesticide-mixing-guidelines]]
 - [[jadam-natural-vs-chemical-pesticide]]

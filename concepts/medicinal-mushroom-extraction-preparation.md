@@ -3,7 +3,7 @@ title: Medicinal Mushroom Extraction and Preparation
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, medicine, mushrooms]
+tags: [[mycology, medicine, mushrooms]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md, papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 # Medicinal Mushroom Extraction and Preparation
@@ -84,11 +84,7 @@ Mycelium grown in liquid media, then extracted. Considered "traditional" in Chin
 - Dry at low temperatures (below 100 F) to preserve medicinal compounds
 
 ## Related Topics
-- [[reishi-cultivation-methods]] for growing medicinal mushrooms
 - [[lions-mane-cultivation]] for NGF-stimulating species
-- [[maitake-hen-of-the-woods-cultivation]] for D-fraction source
 - [[mushroom-harvesting-storage-methods]] for drying and storage
-- [[agrocybe-aegerita-pioppino-medicinal-profile]]
 - [[casing-layer-preparation]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-guide-lions-mane]]

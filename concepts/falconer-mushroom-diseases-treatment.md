@@ -3,12 +3,9 @@ title: Falconer Mushroom Diseases and Their Treatment
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - William Falconer - Mushrooms: How to Grow Them (1891)
+  - william-falconer - Mushrooms: How to Grow Them (1891)
 type: concept
-tags: [mushroom-cultivation]
----
-
-# [[falconer-mushroom-cultivation-history]] Diseases and Their Treatment
+tags: [[falconer-mushroom-cultivation-history]] Diseases and Their Treatment
 
 Chapter XIX of Falconer's treatise, titled "Insect and Other Enemies,"
 includes both insect pests and diseases. The diseases he described --
@@ -32,15 +29,10 @@ neighboring clump was entirely withered. Contributing causes included:
 
 - Keeping the bed continuously wet or dry
 - Drip from above
-- Abruptly pulling up large mushrooms, destroying [[mycelium]] threads
-  supporting nearby small mushrooms
-- Displacement of earth by large mushrooms pushing through, severing
-  [[mycelium]]
+- Abruptly pulling up large mushrooms, destroying [[mycelium]]
 - Cutting off mushrooms and leaving stumps in the ground -- the stumps
   developed a white fluffy substance that poisoned every thread of
-  [[mycelium]] leading to it, affecting all attached mushrooms present and
-  to come
-- Any impure matter in the bed contacting the [[mycelium]]
+  [[mycelium]]
 
 Lachaume identified two beetle larvae (Aphodius fimetarius and
 Dermestes tessellatus) that "cause great damage by eating the spawn,
@@ -128,22 +120,5 @@ whitish felted mass.
 Notably, flock did NOT spread contagiously through the bed. If one
 mushroom from a piece of spawn was affected, every mushroom from that
 piece was affected, but not one mushroom from adjacent pieces of spawn --
-even if their [[mycelium]] formed an interlacing web. Other pieces from the
-same brick were not more liable than pieces from other bricks.
-
-### Frequency
-
-In a bed 3 x 30 feet over two months' bearing: as few as five or as
-many as fifty flocky mushrooms. Sometimes appearing among the earliest
-mushrooms, but generally not until the bed had borne a week or two. The
-disease was not caused by debility -- it attacked healthy, robust
-mushrooms and debilitated ones indiscriminately.
-
-### Treatment
-
-No known way to destroy flock existed except to take up and destroy
-every clump of mushrooms attacked by it. Fortunately the disease was not
-## See Also
-
-- [[cotter-mushroom-pests-diseases]]
+even if their [[cotter-mushroom-pests-diseases]]
 - [[falconer-loam-for-mushroom-beds]]

@@ -102,19 +102,12 @@ Black gram flour is also used in papad preparation, a thin crispy snack popular 
 
 ## See Also
 
-- [[glycine-max]]
 - [[vigna-radiata]]
-- [[vigna-unguiculata]]
 - [[arachis-hypogaea]]
-- [[pisum-sativum]]
 - [[vicia-faba]]
-- [[cicer-arietinum]]
 - [[lens-culinaris]]
-- [[mucuna-pruriens]]
 - [[crotalaria-juncea]]
-- [[canavalia-ensiformis]]
 - [[lupinus-albus]]
-- [[trigonella-foenum-graecum]]
-- [[arctium-lappa]]
-- [[nigella-sativa]]
+- [[arctium-lappa-entity]]
+- nigella-sativa
 - [[pimpinella-anisum]]

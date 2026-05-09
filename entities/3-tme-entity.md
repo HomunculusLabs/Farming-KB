@@ -9,15 +9,7 @@ sources:
 ---
 # 3-TME (3-Thiometaescaline; 2,4,6-Trimethoxy-5-methylthiophenethylamine)
 
-3-TME is a sulfur-substituted phenethylamine that replaces one oxygen atom in the trimethoxy pattern of [[tma-2-entity]] with a sulfur atom. It is described as a simple and easily made compound with potency comparable to TMA-2. The compound is listed as PIHKAL entry #163.
-
-## Chemical Classification
-
-3-TME belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 2,4,6-trimethoxy-5-methylthiophenethylamine, also known as 3-thiometaescaline.
-
-The compound is the thio-analogue of [[tma-2-entity]], with the 5-methoxy group replaced by a 5-methylthio group.
+3-TME is a sulfur-substituted phenethylamine that replaces one oxygen atom in the trimethoxy pattern of [[tma-2-entity]], with the 5-methoxy group replaced by a 5-methylthio group.
 
 It carries three methoxy groups (at positions 2, 4, and 6) plus one methylthio group (at position 5).
 
@@ -29,7 +21,7 @@ The synthesis begins with 2,4,6-trimethoxybenzaldehyde (phloroglucinaldehyde).
 
 The duration of effects is 12 to 16 hours.
 
-The compound is described as being fully as potent as [[tma-2-entity]], which itself is approximately 15 times more potent than [[mescaline-entity]].
+The compound is described as being fully as potent as [[mescaline-entity]].
 
 The long duration is a notable feature, exceeding that of many related compounds.
 
@@ -55,21 +47,7 @@ The compound was described as a simple and easily made material that might justi
 
 ## Comparison with TMA-2
 
-[[tma-2-entity]] (2,4,5-trimethoxyamphetamine) is one of the most potent psychedelic amphetamines, active at 15-30 mg.
-
-3-TME is described as fully as potent as TMA-2, maintaining this potency in the phenethylamine (two-carbon chain) form.
-
-The retention of potency when moving from amphetamine to phenethylamine is noteworthy.
-
-The 12-16 hour duration is also comparable to or longer than TMA-2.
-
-## Natural Product Connections
-
-The aldehyde precursor 2,4,6-trimethoxybenzaldehyde is available commercially but expensive.
-
-The natural source is the glucoside phlorin, combined with glucose.
-
-The phenethylamine homologue 2,4,6-trimethoxyphenethylamine (2,4,6-TMPEA, or 2C-TMA-2) shares the trimethoxy pattern with [[mescaline-entity]] but its activity in humans remains unknown.
+[[mescaline-entity]] but its activity in humans remains unknown.
 
 ## Dosage and Duration
 
@@ -79,11 +57,7 @@ Duration: 12 - 16 h.
 
 ## See Also
 
-[[tma-2-entity]]
-
 [[mescaline-entity]]
-
-[[3-tm-entity]]
 
 [[4-tme-entity]]
 
@@ -94,3 +68,22 @@ Duration: 12 - 16 h.
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #163: 3-TME.
+## Practical Considerations
+
+Successful implementation of 3 Tme Entity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

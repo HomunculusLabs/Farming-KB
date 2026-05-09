@@ -139,12 +139,8 @@ necessary. For species designations, comparisons to apPCR patterns
 from known species are required. Eventually, a library of known apPCR
 band patterns should be made available on the Internet for comparative
 analyses.
-
 ## See Also
 
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[molecular-methods-in-situ-fungal-diversity-monitoring]]
-- [[fungal-species-estimation-methods-total-diversity]]
-
 - [[fungal-biodiversity-forest-ecosystems]] for community-level analysis
 - [[fungal-species-estimates-biodiversity-overview]] for species counts

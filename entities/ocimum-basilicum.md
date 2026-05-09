@@ -139,12 +139,8 @@ claims remains limited:
 - **Pest deterrence:** Volatile oils may mask crop scents from pests
 - **Permaculture:** Intercrop in food forests, keyhole gardens, herb spirals;
   self-seeds in warm climates
-
 ## See Also
 
-- [[companion-planting]]
 - [[food-forest]]
-- [[food-forest-permaculture]]
-
 - [[mentha-piperita]]
 - [[rosmarinus-officinalis-entity]]

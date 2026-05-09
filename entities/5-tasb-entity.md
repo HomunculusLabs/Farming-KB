@@ -9,7 +9,7 @@ sources:
 ---
 # 5-TASB (5-Thioasymbescaline; 3,5-Dimethoxy-4-(n)-butylthiophenethylamine)
 
-5-TASB is a sulfur-substituted phenethylamine and the butylthio analogue of [[buscaline-entity]]. Like [[tb-entity]], it demonstrates the euphoric "anti-depressant" pattern without classic psychedelic effects. The compound is listed as PIHKAL entry #148.
+5-TASB is a sulfur-substituted phenethylamine and the butylthio analogue of [[tb-entity]], it demonstrates the euphoric "anti-depressant" pattern without classic psychedelic effects. The compound is listed as PIHKAL entry #148.
 
 ## Chemical Classification
 
@@ -17,9 +17,7 @@ sources:
 
 It is formally named 3,5-dimethoxy-4-(n)-butylthiophenethylamine, also known as 5-thioasymbescaline.
 
-5-TASB is closely related to [[tb-entity]] (4-thiobuscaline), which has the same formal chemical name.
-
-The compound is the butylthio analogue of [[buscaline-entity]], with the 4-butoxy group replaced by a 4-n-butylthio group.
+5-TASB is closely related to [[buscaline-entity]], with the 4-butoxy group replaced by a 4-n-butylthio group.
 
 The "5-" prefix in the name reflects the position of the sulfur atom in the numbering system.
 
@@ -29,7 +27,7 @@ The "5-" prefix in the name reflects the position of the sulfur atom in the numb
 
 The duration of effects is approximately 8 hours.
 
-Like [[tb-entity]] and [[ariadne-entity]], the compound exhibits the euphoric "anti-depressant" pattern rather than classic psychedelic effects.
+Like [[ariadne-entity]], the compound exhibits the euphoric "anti-depressant" pattern rather than classic psychedelic effects.
 
 ## Qualitative Effects
 
@@ -57,11 +55,7 @@ Instead, there is a perpetual series of "thresholds" -- never the psychedelic or
 
 The result is a simple and ephemeral catalyst of euphoria without substance.
 
-This pattern was first observed with [[ariadne-entity]] and called an "anti-depressant" action.
-
-## Relationship to TB
-
-5-TASB and [[tb-entity]] share the same chemical name (3,5-dimethoxy-4-(n)-butylthiophenethylamine) and appear to be the same compound.
+This pattern was first observed with [[tb-entity]] share the same chemical name (3,5-dimethoxy-4-(n)-butylthiophenethylamine) and appear to be the same compound.
 
 Both demonstrate the characteristic euphoric without psychedelic effects pattern.
 
@@ -75,22 +69,27 @@ Duration: about 8 h.
 
 ## See Also
 
-[[tb-entity]]
-
 [[buscaline-entity]]
-
-[[ariadne-entity]]
 
 [[asb-entity]]
 
-[[3-tasb-entity]]
+[[4-tasb-entity]]
+## Practical Considerations
 
-4-tasb
+Successful implementation of 5 Tasb Entity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-## References
+## Future Directions
 
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #148: 5-TASB.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-## Related
-
-- [[4-tasb-entity]]

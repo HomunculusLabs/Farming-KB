@@ -1,7 +1,7 @@
 ---
 title: Glomeromycota Diversity and Taxonomy
 created: 2026-04-28
-tags: [mycology, glomeromycota, arbuscular-mycorrhizal-fungi, taxonomy, symbiosis]
+tags: [[mycology, glomeromycota, arbuscular-mycorrhizal-fungi, taxonomy, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -126,8 +126,6 @@ layers less than one micrometer thick.
 
 ## See Also
 
-- [[yeast-isolation-biodiversity-methods]]
 - [[mycorrhizal-networks-interplant-carbon-transfer]]
-- [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-soil-ecosystems]]
 - [[cryptic-species-fungal-biodiversity]]

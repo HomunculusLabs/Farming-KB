@@ -133,6 +133,6 @@ nutrient burn, particularly nitrogen excess in late flowering.
 
 ## See Also
 
-[[jack-herer]], [[chemdawg]], [[sour-diesel]], [[tangie]],
-[[cannabis-blue-dream]], [[green-crack]], [[super-lemon-haze]], and [[cinex]]
+[[chemdawg]], [[tangie]],
+[[green-crack]], [[cinex]]
 for comparison with other citrus-aroma and sativa-dominant strains.

@@ -45,13 +45,7 @@ Commensal organisms primarily colonize keratinized or mucous-covered
 animal surfaces, using host secretions from skin (sebum), the vagina,
 or gut materials such as oral food residues and fecal material as
 nutrient sources. The best-known commensal yeasts include species of
-[[candida-albicans-molecular-epidemiology]], malassezia, and trichosporon.
-
-malassezia species are obligate commensals occurring only on skin
-or within outer ear canals of mammals, including humans. Six of the
-seven described species are so specialized they will not grow on
-laboratory media without special lipid supplements substituting for
-skin lipids. Certain [[candida-albicans-molecular-epidemiology]] species, particularly C. albicans,
+[[candida-albicans-molecular-epidemiology]] species, particularly C. albicans,
 C. tropicalis, C. glabrata, C. parapsilosis, and C. krusei, are
 strongly associated with mammalian and bird gastrointestinal tracts
 and normal skin, and are seldom isolated from other sources.
@@ -73,31 +67,14 @@ assemblage of more immunoresistant species.
 
 For example, fungal propagules inhaled into human pulmonary systems
 are cleared at different rates, with certain species such as
-[[aspergillus-fumigatus-population-genetics]] persisting longer than others even when not
-germinating or causing infection. Gut passage also has a profoundly
-selective effect on dormant propagules, reflected in analyses of
-stool from humans and other animals.
-
-## Virulent Systemic Pathogens
-
-The majority of specialized filamentous fungal pathogens of
-homeothermic vertebrates are members of, or anamorphs associated
-with, the [[ascomycota-phylogeny-major-classes-lineages]] order Onygenales. This group includes:
+[[ascomycota-phylogeny-major-classes-lineages]] order Onygenales. This group includes:
 
 - **Dermatophytes**: skin-infecting fungi in the genus Arthroderma
   and related anamorphs in trichophyton, microsporum, and
   epidermophyton
 - **Systemic pathogens**: internally invasive fungi in the genus
   Ajellomyces and related anamorphs in blastomyces,
-  [[permaculture-ethics]], and paracoccidioides
-
-Dermatophytes are divided ecologically into three groups:
-(1) anthropophilic, specific to humans; (2) zoophilic, specific to
-nonhuman animals; and (3) geophilic, soil saprobes growing mainly
-on keratinous debris but occasionally causing infection in animals.
-
-Systemic Onygenalean pathogens tend to be endemic to particular
-geographic areas. [[permaculture-ethics]] capsulatum is indigenous to the
+  [[permaculture-ethics]] capsulatum is indigenous to the
 Mississippi River valley, associated strongly with bird or bat guano.
 blastomyces dermatitidis is specific to riparian and
 rodent-influenced habitats in boreal eastern North America.
@@ -113,14 +90,7 @@ immunocompromised or is exposed to a heavy load of potentially
 immunodepressing fungal inoculum.
 
 Major groups of opportunistic pathogens include:
-- Thermotolerant [[aspergillus-fumigatus-population-genetics]] species causing pulmonary disease
-  in birds, especially hazardous to penguins in captivity
-- Cochliobolus anamorphs (Bipolaris, Curvularia, Exserohilum)
-- Plant-pathogenic Fusarium species in sections Liseola, Elegans,
-  and Martiella
-- Black-yeast anamorphs genetically traceable to the family
-  Herpotrichiellaceae
-- [[cryptococcus-neoformans-pathogenesis]], a cosmopolitan colonizer of bird
+- Thermotolerant [[cryptococcus-neoformans-pathogenesis]], a cosmopolitan colonizer of bird
   and bat guano
 
 ## Conservation Significance
@@ -129,7 +99,7 @@ Many mycotic diseases are acquired from nonanimal environmental
 sources. Disease agents participate in regulation of animal
 population densities, influencing factors such as the availability
 of animals to predators. Enumeration of such agents is directly
-salient to [[ethnomycology]].
+salient to ethnomycology.
 
 Often, isolation of fungi from human and animal infections is of
 ecological interest because it reveals the presence of fundamentally

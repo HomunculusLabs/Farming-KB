@@ -22,14 +22,14 @@ sources:
 ## Overview
 
 Nicotine (3-(1-methylpyrrolidin-2-yl)pyridine) is a naturally occurring
-alkaloid found primarily [[phloem-sap-composition-and-long-distance-signaling-in-plants]] of the nightshade family (Solanaceae).
+alkaloid found primarily  of the nightshade family (Solanaceae).
 It acts as a potent agonist at nicotinic acetylcholine receptors (nAChRs)
 throughout the central and peripheral nervous systems. Nicotine is the
 principal psychoactive compound in tobacco and is responsible for the
 dependence liability of tobacco products.
 
 Beyond its well-known association with tobacco, nicotine has a complex
-pharmacological profile with potential therapeutic applications in cblesching-cannabis-neurodegenerative-diseasesntion deficit disorders, and [[blesching-cannabis-neurodegenerative-diseases]].
+pharmacological profile with potential therapeutic applications in cblesching-cannabis-neurodegenerative-diseasesntion deficit disorders, and .
 It also has a documented history of traditional use as an insecticide
 and entheogen among Indigenous peoples of the Americas.
 
@@ -41,18 +41,18 @@ and entheogen among Indigenous peoples of the Americas.
 - **CAS number:** 54-11-5
 - **Structure:** Bicyclic alkaloid composed of a pyridine ring linked to a
   pyrrolidine ring
-- **State:** Colorless to ingoldian hyphomycetes [[spore-dispersal]] in waterlow, oily liquid at room temperature
+- **State:** Colorless to ingoldian hyphomycetes  in waterlow, oily liquid at room temperature
   **Solubility:** Freely soluble in water, alcohol, ether, and chloroform
   **Boiling point:** 247 °C at 760 mmHg
   **pKa:** 8.02 (pyrrolidinium nitrogen), 3.12 (pyridine nitrogen)
 
-The free base is volatilwater [[knf-water-soluble-calcium-phosphate]] um]] um-phosphate-bionutrient]] alcium-phosphate-wcp]] absorbed through skin and mucous
+The free base is volatilwater  um um-phosphate-bionutrient alcium-phosphate-wcp absorbed through skin and mucous
 membranes. The protonated (salt) form, as in nicotine bitartrate, is more
-[[water-soluble-potassium-wp]] and commonly used in pharmaceutical preparations.
+ and commonly used in pharmaceutical preparations.
 
 ## Pharmacology
 
-Nicotine acts primarilemcdda-[[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]-route-administration-and-effectsnist at nicotinic acetylcholine receptors
+Nicotine acts primarilemcdda--route-administration-and-effectsnist at nicotinic acetylcholine receptors
 (nAChRs), which are ligand-gated ion channels composed of five subunits.
 
 **Receptor subtypes and effects:**
@@ -67,82 +67,26 @@ Nicotine acts primarilemcdda-[[hallucinogenic-mushroom-telephone-helplines-and-e
 Nicotine binding triggers ion channel opening, allowing Na⁺ and Ca²⁺ influx.
 This depolarizes the neuron, triggering neurotransmitter release — primarily
 dopamine in the mesolimbic pathway, which underlies nicotine's reinforcing
-effects. It also modulates norepinephrine, serotonin, GABA, glutamate, and
-endorphin release across multiple brain regions.
+effects. It also modulates norepinephrine, [[cervantes-terpenoid-pharmacology-therapeutic-effects]]
+- [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
 
-**Pharmacokinetics:**
-- Absorption: Rapid across all routes (lungs in ~10–20 seconds)
-- Bioavailability: ~30–40% oral (extensive first-pass metabolism)
-- Half-life: 2–3 hours
-- Metabolism: Primarily CYP2A6 to cotinine (major metabolite)
-- Excretion: Renal, with urine pH-dependent reabsorption
+See also: [[peyote-and-psychoactive-cacti]]
+## Practical Considerations
 
-## Effects Profile
+Successful implementation of Nicotine requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-**Desired effects at low-to-moderate doses (1–5 mg):**
-- Mild stimulation and increased alertness
-- Improved attention and cognitive performance
-- Mood elevation and anxiety reduction
-- Suppressed appetite
-- Increased heart rate (5–15 bpm) and blood pressure
+## Future Directions
 
-**Adverse effects at higher doses (>10 mg):**
-- Nausea, vomiting, and abdominal cramping
-- Dizziness and headache
-- Tachycardia and palpitations
-- Tremor and restlessness
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-**Toxicity:** LD₅₀ estimates range from 0.5–1 mg/kg in humans (30–60 mg
-total), though fatal doses vary widely. Acute nicotine poisoning causes
-vomiting, seizures, respiratory paralysis, and cardiac arrest. Nicotine
-pesticide poisonings have declined with agricultural phase-outs.
-
-## Sources in Nature
-
-Nicotine is synthesized by several Solanaceae species as an insecticidal
-defense compound:
-
-- **Nicotiana tabacum** (cultivated tobacco) — 0.5–8% dry weight of leaves
-- **[[nicotiana-rustica]]** (Aztec tobacco) — 2–18% dry weight, significantly
-  higher nicotine content
-- **[[duboisia-hopwoodii]]** (pituri) — Australian Aboriginal chewing plant,
-  ~2–4% nicotine
-- **[[asclepias-syriaca]]** (common milkweed) — trace amounts
-- **[[erythroxylum-coca]]** — trace amounts co-occurring with cocaine
-
-## Historical and Cultural Significance
-
-Nicotine has a deep history in Indigenous cultures of the Americas. Tobacco
-was cultivated as early as 5000 BCE in the Andes and was central to
-ceremonial, medicinal, and social practices across the continent.
-
-Jean Nicot, the French ambassador to Portugal, introduced tobacco to France
-in 1560, and the alkaloid was named in his honor by Vauquelin in 1809.
-Nicotine was first isolated in 1828 by Posselt and Reimann in Heidelberg.
-
-The compound was widely used as an agricultural insecticide from the 17th
-century through the mid-20th century. Nicotine sulfate solutions were
-standard orchard and greenhouse pesticides before synthetic organophosphates
-replaced them.
-
-## Therapeutic Potential
-
-Despite its association with tobacco harm, nicotine itself has shown
-potential in several clinical contexts:
-
-- **Cognitive enhancement** — improved attention and working memory in
-  ADHD patients and age-related cognitive decline
-- **Neuroprotection** — α7 nAChR activation may slow progression of
-  Alzheimer's and Parkinson's diseases
-- **Smoking cessation** — nicotine replacement therapy (NRT) via patch,
-  gum, lozenge, inhaler, or nasal spray
-- **Ulcerative colitis** — epidemiological data shows reduced incidence
-  in smokers, attributed to nicotine's anti-inflammatory effects
-
-## Related Compounds
-
-- **Cotinine** — primary oxidative metabolite; longer half-life (~16–20 h),
-  used as a biomarker for nicotine exposure
-- **Nornicotine** — demethylated metabolite; minor pharmacological activity
-- **Anabasine** — structurally related alkaloid from *Nicotiana glauca*;
-  nicotinic agonist used historically as an insecticide

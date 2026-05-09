@@ -3,7 +3,7 @@ title: Mycorrhizal Effects on Plant Community Composition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Effects on Plant Community Composition
@@ -80,7 +80,7 @@ Mycorrhizal fungi can actively drive successional transitions by differentially 
 
 ## Restoration Implications
 
-The ability of mycorrhizal fungi to shape plant communities has direct applications in ecological restoration. Restoring degraded lands often requires rebuilding mycorrhizal networks that have been lost through soil disturbance, compaction, or long-term agricultural use. Inoculation with native [[arbuscular-mycorrhizal-fungi]] can accelerate the re-establishment of mycorrhizal-dependent native plant species and suppress invasive weeds that thrive in mycorrhiza-depleted soils. The choice of inoculant strains should consider both the target plant community and the local soil conditions, as [[mycorrhizal-specificity-and-host-range]] can significantly influence restoration outcomes.
+The ability of mycorrhizal fungi to shape plant communities has direct applications in ecological restoration. Restoring degraded lands often requires rebuilding mycorrhizal networks that have been lost through soil disturbance, compaction, or long-term agricultural use. Inoculation with native [[mycorrhizal-specificity-and-host-range]] can significantly influence restoration outcomes.
 
 ## Climate Change Considerations
 
@@ -88,10 +88,7 @@ Global climate change may alter mycorrhizal effects on plant community compositi
 
 ## See Also
 
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[ectomycorrhizal-ecology]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
-- [[mycorrhizal-specificity-and-host-range]]
 - [[common-mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

@@ -135,8 +135,6 @@ signifies high-quality, pure hash.
 
 ## See Also
 
-- [[cervantes-water-hash-bubble-hash]]
 - [[cervantes-washing-machine-hash]]
-- [[cervantes-hash-making-extracts]]
 - [[cervantes-dry-sieve-hash-pollinator]]
 - [[cervantes-pressing-hash]]

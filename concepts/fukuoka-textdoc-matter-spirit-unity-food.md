@@ -126,8 +126,6 @@ that natural food is easier, cheaper, and tastier.
 
 ## See Also
 
-- [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-nature-of-food]]
-- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

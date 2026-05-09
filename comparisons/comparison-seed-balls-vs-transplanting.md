@@ -25,34 +25,6 @@ crop
 type, and how much control the grower wants over plant placement and timing.
 
 ## Seed Balls
-[[fukuoka-seed-ball-technique]]
-Seed balls (also called seed bombs or earth balls) are small spheres of clay,
-compost, and seeds mixed together and dried until firm. When scattered on bare
-soil, the clay protects seeds from birds and wind while slowly breaking down
-to expose the seed to moisture. The compost provides initial nutrition for the
-germinating seedling. Fukuoka used them extensively in his natural farming
-system to revegetate barren land, establish grain crops without tilling, and
-distribute cover crops across large areas without any mechanical equipment.
-
-The primary strength of seed balls is their scalability and remarkably low
-labor requirement. A single person can broadcast thousands of seed balls
-across
-a large area in a single afternoon. They are ideal for cover cropping, erosion
-control, and guerrilla gardening where conventional planting is impractical.
-Seed balls also work well for hard-to-germinate species, as the microclimate
-inside the ball provides consistent moisture during the critical germination
-window. Fukuoka's advanced methods included incorporating specific ratios of
-clay to compost and selecting seed combinations tailored to the target
-environment, including desert revegetation projects.
-
-However, seed balls offer little control over final plant spacing, and
-germination rates are inherently unpredictable depending on rainfall, soil
-conditions, and competition from existing vegetation. They work best with
-robust plants that can compete with weeds or are being established in
-relatively weed-free environments. The clay-compost ratio and seed variety
-selection require experimentation to match local conditions effectively.
-
-## Transplanting
 [[transplanting-techniques-solomon]]
 Transplanting involves starting seeds in flats, cell trays, or soil blocks
 under controlled conditions, then moving the seedlings to the garden after
@@ -121,8 +93,6 @@ This layered approach leverages the strengths of each method at the
 appropriate scale.
 
 ## See Also
-- [[comparison-seed-starting-vs-direct-seeding]]
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
-- [[fukuoka-no-till-grain-production-method]]
 - [[transplanting-techniques-low-input]]
 - [[comparison-double-digging-vs-no-till]]

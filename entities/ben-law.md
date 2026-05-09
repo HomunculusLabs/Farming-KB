@@ -138,10 +138,10 @@ in the British permaculture literature.
 
 ## See Also
 
-- [[robert-hart]] — Pioneer of forest gardening, a complementary
-  woodland-based permaculture approach
-- [[sepp-holzer]] — Austrian permaculture farmer working with
+- [[sepp-holzer-entity]] — Austrian permaculture farmer working with
   landscape-scale forest and water systems
-- [[mark-shepard]] — Restoration agriculture practitioner integrating
-  trees with annual cropping systems
 - [[eric-toensmeier]] — Perennial polyculture researcher and advocate
+
+## See Also
+
+- [[permaculture-designers-manual-goat-management]]

@@ -3,7 +3,7 @@ title: Fungal Parasites and Predators of Nematodes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -88,13 +88,8 @@ Nematophagous fungi are being developed as biological control agents:
 
 ## See Also
 
-- [[fungal-rotifer-parasites-predators]]
-
 - [[fungicolous-fungi-spores-sclerotia-oospores]]
-- [[soil-fungal-isolation-techniques]]
 - [[saprobic-soil-fungi-ecology-survey]]
-- [[biofertilizers-and-soil-inoculants]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
-- [[jadam-leaf-mold-soil-method]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]

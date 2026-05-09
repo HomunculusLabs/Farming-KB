@@ -95,15 +95,10 @@ The rediscovery of teonanacatl illustrates both the potential and the limitation
 
 ## See Also
 
-- [[max-winston]]
-
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-nostalgia-for-paradise]]
-- [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
-- [[albert-hofmann]]
-- [[consciousness-and-psychedelics]]
+- gordon-wasson
 - [[archaeology-of-psychedelic-mushroom-use]]
 - [[cultural-evolution-and-psychoactive-substances]]
 

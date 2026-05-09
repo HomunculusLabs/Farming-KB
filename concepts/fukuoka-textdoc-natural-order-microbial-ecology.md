@@ -17,20 +17,6 @@ type: concept
 
 # The Natural Order and Microbial Ecology
 
-[[masanobu-fukuoka]] presents the natural order as a self-regulating, infinitely complex web of
-interrelationships among all living organisms. From his perspective, the apparent competition
-and cooperation in nature are neither; they are one and the same phenomenon viewed from
-different angles. The food chain is not a brutal hierarchy but a harmonious family of organisms
-that live together in a single balance.
-
-## The Web of Life
-
-All living things on the earth's surface belong to a single community of organic
-interrelationships. Broadly divided into animals, plants, and microorganisms, they differ from
-each other but are united through an endless food chain. All live by feeding on something and
-die at the hand of something else. Matter and energy pass through continuous cycles without
-birth or death. This is the true image of the universe.
-
 [[hamilton-alpine-plants-growing]] on the earth are fed upon by bird and beast. Some of these animals become
 prey to other animals, while others eventually succumb to disease or age. Their wastes and
 remains are broken down by microorganisms which in turn proliferate and die, returning to the
@@ -66,15 +52,7 @@ others in life, we always need four pallbearers at the funeral.
 
 Actually, it takes more than four people to dispose of a corpse. Countless microbes and small
 animals in the soil are engaged in what could almost be called an assembly-line operation
-consisting of the dismantling, [[decomposition]], rotting, and fermentation of the body. To
-completely return a corpse to the soil, billions upon billions of microorganisms appear one
-after another, making by turns the final service to a human being.
-
-The days of man are filled with birth and death. A person's cells live on in his children and
-grandchildren where they continue multiplying day after day. At the same time, the body
-gradually breaks down, growing old and infirm. After death, the corpse is decomposed as food by
-bacteria, so one's ultimate form may be that of a microbial cell. And since the last to offer
-up incense to the departed soul are probably [[lactic-acid-bacteria-natural-farming]], a person vanishes as a
+consisting of the dismantling, [[lactic-acid-bacteria-natural-farming]], a person vanishes as a
 sweet, acrid aroma through lactic fermentation.
 
 ## Nature's Waste Management
@@ -82,43 +60,7 @@ sweet, acrid aroma through lactic fermentation.
 Thanks to the microbes that dispose of the remains of animals and plants, the earth's surface
 is always clean and beautiful. If animals died and the carcasses just remained there without
 decomposing, a couple of days is all it would take to make the world an intolerable place to
-be. People look on casually at this activity by microbes and [[permaculture-designers-manual-small-animals]], but there is no
-greater drama in our entire world.
-
-No species of bird flying in the air should become extinct. The earthworms that burrow through
-the soil must not vanish. Nor should the mice and spiders proliferate too greatly. If one type
-of fungus thrives just a little too well, this throws everything out of balance. Tens of
-millions of species live on in perfect harmony without increase or decrease; they are born and
-they die unseen by man. The mastery of the conductor performing this drama of natural
-transformation at once casual and intense is truly something to behold.
-
-## The Bacterial Multiplication Paradox
-
-It takes from twenty minutes to an hour for one bacterium or yeast to divide and become two,
-and the same amount of time for two to become four. Assuming multiplication to continue
-unchecked in the presence of food and suitable temperatures and humidity, after two or three
-days, a single bacterium such as Escherichia coli could leave a mass of progeny equivalent to
-the total mass of all living organisms on the face of the earth. This means that if the
-self-governing mechanisms by which nature regulates and controls the reproductive power of one
-type of bacteria were to cease operating for just several days, the earth would become a morass
-of bacterial remains.
-
-The ability of the earth's organisms to multiply is far more powerful than people imagine. At
-the same time, their ability to destroy and dispose of organisms is also very great. The
-balance between multiplication and destruction, the equilibrium between production and
-consumption, the fact that nature has seen to the growth and propagation of organisms and also
-to the treatment of their wastes and remains, carrying out both rapidly and harmoniously
-without the least hitch for untold thousands and millions of years — all this is of enormous
-consequence.
-
-## The Straw Decomposition Chain
-
-Rather than isolating beneficial microbes and inoculating straw with a "fermentation promoter,"
-all one has to do is scatter a handful of chicken droppings or clumps of soil over the straw.
-The following transformations take place on a rice straw casually dropped onto the earth:
-
-1. The straw draws flies and other small insects that lay eggs from which maggots soon emerge.
-2. [[magnaporthe-grisea-functional-genomics-rice-blast]] disease, leaf blotch, and rot-causing fungi spread rapidly over the straw, but
+be. People look on casually at this activity by microbes and [[magnaporthe-grisea-functional-genomics-rice-blast]] disease, leaf blotch, and rot-causing fungi spread rapidly over the straw, but
    spider mites soon crawl over this fungal growth.
 3. Different microbes begin to proliferate — yeasts, blue mold, bread mold, and trichoderma
    fungi — which destroy the pathogens and begin to decompose the straw.

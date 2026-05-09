@@ -13,70 +13,11 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# Paddy Straw Mushroom Cultivation
-
-Paddy straw mushrooms ([[volvariella-volvacea-cultivation-guide]]), known as "Hed Fang" in Thailand, are among the
+# [[volvariella-volvacea-cultivation-guide]]), known as "Hed Fang" in Thailand, are among the
 fastest-growing cultivated mushrooms with a complete production cycle of only 7 to 23 days.
-Unlike [[mushroom-training-oyster-straw-cultivation]] and other species grown in
-substrate bags, straw mushrooms are typically cultivated on prepared beds using a layered
-substrate method. The FAO training manual describes this method in detail, including
-innovative recycling of spent substrate bags.
-
-## Species Overview
-
-Straw mushrooms have been cultivated for centuries in Asia and are particularly popular in
-Thai cuisine. The manual lists several varieties:
-
-| Scientific Name | Thai Name | Temperature Range | Season |
-|----------------|-----------|-------------------|--------|
-| [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
+Unlike [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
 | Volvariella volvacea (Taiwan) | Hed Fang Taiwan | 28 to 38 C | Summer and rainy |
-| Volvariella bombycina | Hed Fang Si Thong | 28 to 38 C | Summer and rainy |
-
-Straw mushrooms require higher temperatures than most other cultivated species, making them
-ideal for hot climates and summer production when other mushrooms may struggle.
-
-## Production Timeline
-
-Straw mushrooms have an extremely short production cycle:
-
-| Stage | Timeline |
-|-------|----------|
-| Mycelium growth | 3 to 4 days |
-| Fruiting body formation | 4 to 5 days |
-| 1st flush | 7 to 9 days total |
-| 2nd flush | 14 to 16 days total |
-| 3rd flush | 21 to 23 days total |
-
-This rapid turnaround allows for multiple production cycles per month, making straw mushroom
-cultivation an excellent supplement to slower-growing species.
-
-## Bed Preparation
-
-### Step 1: Soil Preparation
-
-1. Plow soil with a hoe or spade to make the ground smooth and the soil well aerated
-
-2. Spread fertilizer slightly to add nutrients to the soil
-
-3. Spread water using a watering bottle or hose to saturate humidity in the soil
-
-### Step 2: Frame Setup
-
-4. Prepare reusable wooden frames and place them on the ground. The frames define the shape
-   and size of each mushroom bed
-
-## Substrate Layering
-
-The manual describes an innovative method that recycles spent substrate bags from previous
-cultivation cycles:
-
-5. Used mushroom bags are broken open and placed inside the wooden frames as growth media.
-   This allows efficient recycling of spent substrate
-
-6. Build up layers inside the frame as follows:
-   - 1 layer of broken spent bags
-   - 1 layer of straw mushroom spawn
+| [[mushroom-spawn]]
    - 1 layer of sawdust waste from old bags
    - 1 layer of broken spent bags
    - 1 layer of straw mushroom spawn
@@ -131,8 +72,7 @@ are still edible but command a lower market price.
 
 ## Relationship to Other Cultivation Methods
 
-Straw mushroom cultivation fits into the broader [[mushroom-cultivation-disabilities-training-manual-overview]] as both a standalone method and a recycling strategy. Spent substrate
-bags from [[mushroom-training-oyster-straw-cultivation]], ear mushroom, and other
+Straw mushroom cultivation fits into the broader [[mushroom-training-oyster-straw-cultivation]], ear mushroom, and other
 species cultivation are broken down and reused as the primary substrate for straw mushroom
 beds. This creates a nearly zero-waste production system.
 

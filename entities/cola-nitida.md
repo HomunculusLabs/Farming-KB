@@ -116,13 +116,8 @@ The nuts are traded in local, regional, and international markets, providing sig
 
 ## See Also
 
-- [[cola-acuminata]]
 - [[caffeine]]
-- [[theobromine]]
 - [[theobroma-cacao]]
-- [[cannabis-strain-guide-reference]]
 - [[paullinia-cupana]]
-- [[stevia-rebaudiana]]
 - [[piper-nigrum-entity]]
-- [[agroforestry]]
 - [[companion-planting]]

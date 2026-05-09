@@ -29,21 +29,7 @@ trees. It produces dark, irregular sclerotia (tubers) underground that are the
 primary medicinal part used in Traditional Chinese Medicine (TCM).
 
 The sclerotium has been used for over 2,000 years as a potent diuretic and is
-one of the most clinically studied medicinal mushrooms in modern Chinese
-oncology. Unlike its close relative *G. frondosa* (maitake), Zhu Ling is
-harvested from wild sclerotia rather than cultivated fruiting bodies.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Polyporales
-- **Family:** Meruliaceae (sometimes placed in Polyporaceae)
-- **Genus:** Grifola
-- **Species:** G. umbellata
-- **Authority:** (Pers.) Pilát (1934)
-- **Synonyms:** *Boletus umbellatus* Pers. (1797), *Polyporus umbellatus* Fr. (1821)
+one of the most clinically studied [[polyporus-umbellatus]]* Fr. (1821)
 - **Common names:** Zhu Ling, Chuling, Umbrella polypore
 
 The epithet *umbellata* refers to the umbel-like arrangement of multiple caps
@@ -82,69 +68,15 @@ radiating from a common base, resembling an umbrella cluster.
 - Sclerotia develop underground in association with living or dead roots
 - Fruiting bodies emerge in late summer to autumn (August–October)
 - Prefers well-drained, humus-rich soils at 400–2000 m elevation
-- Often found alongside [[poria-cocos]] (Fu Ling) in TCM formulations
-
-## Bioactive Compounds
-
-- **Grifolan (GRN):** β-(1→3)-D-glucan with β-(1→6) branches; MW ~500 kDa
-  - Potent antitumor activity via macrophage activation
-- **GU-1 polysaccharide:** Protein-bound β-glucan; immunomodulatory activity
-- **Ergosterol & ergosterol peroxide:** Anti-inflammatory, cytotoxic to tumor
-  cells in vitro
-- **Triterpenoids:** Umbellatic acid and related compounds
-- **Minerals:** High potassium, phosphorus content
-
-## Pharmacology
-
-### Diuretic Activity
-
-- Increases urine output by 20–40% in clinical studies
-- Potassium-sparing; does not cause significant electrolyte loss
-- Used for edema, dysuria, and urinary tract infections in TCM
-
-### Immunomodulation
-
-- Activates macrophages, NK cells, and dendritic cells
-- Stimulates TNF-α, IL-1β, IL-6, and IFN-γ production
-- Synergistic with conventional chemotherapy in mouse tumor models
-
-### Antitumor Effects
-
-- Inhibits Sarcoma 180, Hepatoma-22, and Ehrlich ascites tumors at
-  50–200 mg/kg IP in mice
-- Reduces chemotherapy side effects (leukopenia, nausea) as adjunct therapy
-
-### Hepatoprotective Activity
-
-- Reduces liver fibrosis in CCl₄-induced injury models
-- Decreases serum ALT, AST, and hydroxyproline levels
-
-## Traditional Use (TCM)
-
-- **Properties:** Sweet, bland, neutral (平)
-- **Meridian tropism:** Kidney and Bladder
-- **Primary functions:** Promotes urination, drains dampness, strengthens spleen
-- **Indications:** Edema, dysuria, leukorrhea, diarrhea from damp-heat
-- **Key formulas:** *Wu Ling San* (edema), *Zhu Ling Tang* (strangury),
-  *Guei Zhi Fu Ling Wan* (abdominal masses)
-
-## Cultivation
-
-Wild harvesting remains the primary source; artificial cultivation is difficult
-due to slow sclerotial growth (2–3 years underground). Mycelial cultivation in
-liquid culture is feasible for polysaccharide extraction but does not produce
-sclerotia. Buried hardwood substrate methods have shown limited commercial
-success.
-
-## Related Species
-
-| Species | Distinguishing Features | Medicinal Use |
-|---------|------------------------|---------------|
-| [[grifola-frondosa]] (Maitake) | Larger gray-brown fronds; no sclerotia | Immunomodulation |
-| [[polyporus-umbellatus]] | Often treated as synonym; European records | Diuretic, antitumor |
-| [[poria-cocos]] (Fu Ling) | Sclerotium on pine roots; different genus | Tranquilizer, diuretic |
+- Often found alongside [[grifola-frondosa]] (Maitake) | Larger gray-brown fronds; no sclerotia | Immunomodulation |
+| polyporus umbellatus | Often treated as synonym; European records | Diuretic, antitumor |
+| poria cocos (Fu Ling) | Sclerotium on pine roots; different genus | Tranquilizer, diuretic |
 
 ## See Also
 
-- [[poria-cocos]] — Frequently combined in TCM diuretic formulas
-- [[grifola-frondosa]] — Close relative with overlapping immunomodulatory effects
+- poria cocos — Frequently combined in TCM diuretic formulas
+- grifola frondosa — Close relative with overlapping immunomodulatory effects
+
+## See Also
+
+- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

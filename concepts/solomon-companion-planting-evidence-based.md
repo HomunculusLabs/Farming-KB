@@ -11,10 +11,7 @@ tags: [plants]
 
 # Solomon Companion Planting Evidence-Based Assessment
 
-In "Gardening When It Counts," [[composting-science-solomon]] directly challenges the
-most beloved myth in organic gardening: that legumes enrich soil for
-companion crops through nitrogen fixation. His evidence-based assessment
-cuts through [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] folklore and focuses on what actually
+In "Gardening When It Counts," [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] folklore and focuses on what actually
 happens in plant physiology and soil biology.
 
 ## The Legume Companion Myth
@@ -58,13 +55,7 @@ truths that companion planting enthusiasts miss:
 1. Legumes need phosphorus and calcium to fix nitrogen effectively --
   they are net consumers of soil minerals, not donors.
 2. The real nitrogen benefit comes from incorporating legumes into a
-  [[jadam-crop-rotation-critique]] as green manure, not from
-  interplanting them alongside other crops.
-
-## When Legumes Do Enrich Soil
-
-Legumes genuinely contribute nitrogen when their entire crop is turned
-under while still green and lush -- the [[fukuoka-natural-cover-grass-green-manure]] approach, not companion planting. Decomposition of all plant
+  [[fukuoka-natural-cover-grass-green-manure]] approach, not companion planting. Decomposition of all plant
 parts simultaneously releases significant nitrates for the following
 crop. The high nitrogen content feeds microbial activity, and organic
 matter addition improves soil structure and water-holding capacity.
@@ -76,36 +67,7 @@ entire biomass is returned to the soil.
 
 ## Rotation vs. Companion Planting
 
-Solomon's [[solomon-crop-rotation-and-garden-planning]]
-approach reliably delivers nitrogen to soil:
-
-1. A legume cover crop grows during a fallow period or seasonal rotation.
-2. The legume is properly fertilized with phosphorus and calcium.
-3. The entire crop is turned under at peak biomass.
-4. A heavy-feeding crop (like corn) follows the next season.
-
-This approach delivers measurable nitrogen. The companion planting
-approach, where beans climb corn stalks or peas interplant with carrots,
-delivers primarily folklore and optimistic thinking.
-
-## Implications for Garden Planning
-
-- **Do not rely on interplanted legumes** to provide nitrogen to
-  neighboring vegetables. They are feeding themselves, not their
-  neighbors.
-- **Do use legume cover crops** as green manures in rotation. This is
-  a proven, reliable method of building soil nitrogen.
-- **Ensure adequate calcium and phosphorus** for legumes, whether food
-  crops or cover crops, to maximize fixation.
-- **Maintain soil organic matter** to support the rhizobia populations
-  that make nitrogen fixation possible.
-
-## Growing Legumes as Food Crops
-
-When you harvest beans or peas, the nitrogen in those plants goes with
-them. You are removing nitrogen from the garden, not adding it. Legume
-food crops should be fertilized with
-[[solomon-complete-organic-fertilizer-guide]] like any other
+Solomon's [[solomon-complete-organic-fertilizer-guide]] like any other
 vegetable. Providing phosphorus and calcium produces better legume crops
 than assuming they can feed themselves through nitrogen fixation.
 
@@ -120,10 +82,7 @@ garden planning.
 
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[companion-planting-reference]]
-- [[solomon-cover-crops-green-manure-guide]]
 - [[solomon-crop-rotation-and-garden-planning]]
-- [[growing-legumes-organically]]
 - [[crop-rotation-benefits]]
 - [[green-manure-cover-crops]]

@@ -11,8 +11,7 @@ tags: [nutrients]
 
 # Solomon Manure Types and Nutrient Values
 
-In "Gardening When It Counts," [[composting-science-solomon]] presents a realistic
-assessment of [[hamilton-animal-manure-types-and-use]] as a garden
+In "Gardening When It Counts," [[hamilton-animal-manure-types-and-use]] as a garden
 fertility source. While valuable for soil building, manure alone is no
 guarantee of producing the most nutritious vegetables, regardless of
 how rich the surrounding soils may be. The book provides NPK data and
@@ -82,36 +81,7 @@ Fundamental problems with manure-only fertility:
 
 ## Manure vs. COF
 
-The [[solomon-complete-organic-fertilizer-guide]] provides complete, balanced mineral supplementation
-that fills all nutritional gaps. When combined with compost and/or
-manure as a soil-building amendment, results far exceed manure alone.
-
-The proper division of labor:
-
-- **Manure and compost**: Build soil structure, increase water-holding
-  capacity, support beneficial microbial populations, contribute some
-  NPK.
-- **COF**: Fill the calcium, phosphorus, and trace mineral gaps that
-  manure cannot address, providing balanced nutrition in the right
-  proportions for vegetable crops.
-
-## Choosing the Best Manure
-
-Use what is available and affordable, supplementing consistently with
-COF regardless of manure quality:
-
-- **Poultry**: Typically richest in nitrogen and phosphorus, but most
-  variable and can burn plants if applied fresh. Compost before use.
-- **Horse and cow**: Moderate nutrients, widely available. Value depends
-  enormously on feed quality and bedding amount mixed in.
-- **Sheep**: Often richer than horse or cow but less available in
-  quantity for most gardeners.
-- **Rabbit**: Sometimes available from small-scale raisers; considered
-  a "cool" manure that can be applied without composting.
-
-## Compost as Alternative
-
-Well-made [[composting-science-solomon]] from diverse materials
+The [[composting-science-solomon]] from diverse materials
 can substitute for manure in the soil-building role. It offers the
 advantage of being under the gardener's control regarding ingredients.
 However, like manure, compost alone cannot provide complete balanced
@@ -126,24 +96,13 @@ variable and unpredictable quality.
 
 ## See Also
 
-- [[animal-manure-guide]]
-- [[solomon-complete-organic-fertilizer-guide]]
-- [[complete-organic-fertilizer-recipes]]
-- [[composting-science-solomon]]
-- [[fertilizer-npk-decoded]]
-- [[calcium-magnesium-secondary-nutrients]]
-- [[solomon-soil-testing-and-interpretation-low-input]]
+- [[solomon-manure-nutrient-variability-COF]]
 
+- [[solomon-manure-nutrient-variability-COF]]
+
+- [[solomon-complete-organic-fertilizer-guide]]
+- [[composting-science-solomon]]
+- [[calcium-magnesium-secondary-nutrients]]
 - [[solomon-composting-methods]]
 
-- [[solomon-food-preservation-storage]]
-
 - [[solomon-fruit-vegetables-growing]]
-
-- [[solomon-growing-vegetables-essentials]]
-
-- [[solomon-irrigation-water-management]]
-
-- [[solomon-leafy-greens-growing]]
-
-- [[solomon-pest-management-organic]]

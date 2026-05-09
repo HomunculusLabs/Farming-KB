@@ -111,11 +111,7 @@ Follows jurisdiction-specific cannabis regulations. Classified as a controlled s
 | Neville's Haze | 15–20% | Pure Haze NL5 | Longer flowering (14+ weeks), more potent |
 
 ## See Also
-- [[northern-lights]]
 - [[purple-haze-cannabis]]
-- [[amnesia-haze]]
 - [[super-lemon-haze]]
-- [[blue-dream-strain]]
 - [[jack-herer-cannabis-strain]]
-- [[og-kush]]
 - [[cannabis-sativa]]

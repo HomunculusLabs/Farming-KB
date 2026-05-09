@@ -21,23 +21,6 @@ Both methods play important roles in regenerative agriculture and ecological gar
 
 ## Vermicomposting
 
-[[vermicomposting]]
-
-Vermicomposting is the controlled process of using earthworms, primarily Eisenia fetida (red wigglers) and occasionally Eisenia hortensis (European nightcrawlers), to decompose organic waste into vermicast. Red wigglers are the industry standard because they tolerate high-density living, reproduce rapidly, and process organic matter at roughly half their body weight per day. European nightcrawlers are larger and burrow deeper, making them better suited for in-ground vermicomposting systems and garden beds.
-
-The worm gut acts as a remarkable biological reactor. As organic material passes through the digestive tract, it is inoculated with diverse beneficial microorganisms including Pseudomonas, Bacillus, and Azotobacter species. These microbes are excreted alongside mineralized nutrients, humic acids, and plant growth hormones such as cytokinins and auxins. Finished worm castings typically test at NPK roughly 1-1-1 with a full complement of micronutrients, making them one of the most balanced soil amendments.
-
-Vermicomposting accepts a wide range of inputs including kitchen scraps, shredded paper, cardboard, coffee grounds, and aged manure. The process is relatively fast, producing finished castings in two to four months depending on temperature, worm density, and feedstock quality. Vermicompost tea, brewed by steeping castings in aerated water with a food source like molasses, provides a concentrated liquid inoculant for foliar sprays.
-
-The primary limitation is temperature sensitivity. Red wigglers thrive between 55 and
-77 degrees Fahrenheit and become stressed outside this range. Temperatures above 90
-degrees are lethal, and prolonged freezing kills the colony. This makes outdoor
-vermicomposting challenging in extreme climates without insulation, shade structures,
-or climate-controlled enclosures. Worm bins also require regular moisture management
-and protection from predators.
-
-## Leaf Mold
-
 [[ultra-low-leaf-mold-as-ideal-soil-model]]
 
 Leaf mold is decomposed leaf litter that has broken down through primarily fungal
@@ -132,7 +115,5 @@ supporting the full spectrum of plant-microbe interactions described by soil eco
 
 ## See Also
 
-- [[comparison-biochar-vs-compost]]
 - [[comparison-vermicomposting-vs-hot-composting]]
-- [[comparison-bokashi-vs-vermicomposting]]
 - [[teaming-with-microbes-soil-food-web-overview]]

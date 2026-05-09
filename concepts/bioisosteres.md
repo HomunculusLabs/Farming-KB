@@ -12,19 +12,7 @@ sources: []
 
 Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate structure activity relationship medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
 
-A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of [[pericyclic-reactions-organic-chemistry]], pharmacology, structural biology, and ADME optimization.
-
-It is one of the most common tactics used during hit-to-lead and lead optimization campaigns. The concept is powerful because small structural changes can produce large biological consequences when they affect hydrogen bonding, pKa, conformation, lipophilicity, or metabolic stability.
-
-It is also dangerous when used mechanically, because two fragments that look similar on paper can behave very differently inside a binding pocket or living organism.
-
-## Historical Basis
-
-The older term isostere referred to atoms or groups with similar valence electron arrangements and roughly similar physical properties. Early examples compared atoms or groups such as oxygen, nitrogen, carbon, sulfur, and halogens in simple valence frameworks.
-
-Medicinal chemists extended this idea into bioisosterism when they noticed that chemically related substitutions could preserve biological activity. Classical bioisosteres were originally guided by size, valence, and electron count.
-
-Modern bioisosteres are guided by three-dimensional shape, electrostatic potential, hydrogen-bonding pattern, conformational effects, solvation, and synthetic accessibility. The modern usage is therefore empirical and context-dependent rather than a strict [[mollison-soil-elements-periodic-table]] rule.
+A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of [[mollison-soil-elements-periodic-table]] rule.
 
 A group is a bioisostere only relative to a particular molecule, target, assay, and optimization goal.
 
@@ -128,7 +116,7 @@ The discipline is to treat every bioisostere as a hypothesis about molecular rec
 
 ## Related Concepts
 
-Bioisosteres connect directly to structure-activity relationships, pharmacophores, lead optimization, prodrug design, and [[cytochrome-p450-enzyme-system]]. They also overlap with [[glucuronidation]], [[reactive-metabolites-and-bioactivation-toxicology]], and transporter-mediated pharmacokinetics.
+Bioisosteres connect directly to structure-activity relationships, pharmacophores, lead optimization, prodrug design, and [[glucuronidation]], [[reactive-metabolites-and-bioactivation-toxicology]], and transporter-mediated pharmacokinetics.
 
 In organic chemistry, the topic draws on heterocycle design, conformational analysis, stereoelectronic effects, and functional group interconversion. In pharmacology, the value of a bioisostere is judged by the full response profile, not by chemical resemblance alone.
 

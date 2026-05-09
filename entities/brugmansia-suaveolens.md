@@ -47,18 +47,39 @@ Indigenous Amazonian groups use the plant in initiation rituals for young shaman
 
 Treatment of poisoning involves activated charcoal, benzodiazepines for agitation, and physostigmine as a specific antidote to reverse anticholinergic effects in severe cases.
 
+## Ornamental Cultivation
+
+Despite its toxicity, *B. suaveolens* is widely cultivated as an ornamental plant
+in tropical and subtropical gardens worldwide. Its large, showy, fragrant
+flowers make it a popular landscape specimen, and numerous cultivars have been
+developed with flower colors ranging from pure white to pink, peach, and pale
+yellow. The plant is propagated readily from hardwood cuttings and grows
+quickly in warm, sheltered positions with regular watering. In temperate
+climates it can be grown as a container plant and overwintered indoors. Many
+gardeners are unaware of the plant's extreme toxicity, which poses a risk to
+children and household pets. Several horticultural societies and botanical
+gardens now include toxicity warnings on *Brugmansia* plantings.
+
+## Conservation Status
+
+All seven recognized species of *Brugmansia* are listed as **Extinct in the
+Wild** by the IUCN Red List. *B. suaveolens* no longer exists in its original
+natural habitat; all known populations are cultivated or naturalized escapes.
+The extinction in the wild is attributed to habitat destruction in the Andean
+and Atlantic forest regions of South America. The species persists globally
+only through horticultural cultivation, botanical garden collections, and
+traditional medicinal plantings by Indigenous communities. This conservation
+status highlights the vulnerability of culturally significant psychoactive
+plants to anthropogenic habitat loss.
+
 ## Legal Status
 
 *Brugmansia suaveolens* is regulated or prohibited in several countries. In the United States, it is not federally scheduled but is restricted in some states and municipalities. In many countries, cultivation is permitted but extraction of the alkaloids is illegal.
 
 ## See Also
 
-- [[brugmansia-aurea]]
 - [[brugmansia-versicolor]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[plants-of-the-gods-brugmansia-angels-trumpet]]
-- [[brugmansia-sanguinea]]
-
 - [[datura-stramonium]] — jimsonweed, a related tropane alkaloid-containing plant
 - Scopolamine — the primary active compound
 - [[echinopsis-pachanoi]] — San Pedro cactus, often combined with *toé* in Andean ceremonies

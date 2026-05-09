@@ -108,25 +108,9 @@ The lack of standardization across laboratories limits meta-analysis and compari
 
 ## See Also
 
-- [[mycorrhizal-inoculum-production]]
-
 - [[mycorrhizal-inoculum-reduction-techniques-comparative]]
-
-- [[arbuscular-mycorrhizal-fungi]]
 
 - [[mycorrhizal-fungi]]
 
-- [[root-exudates]]
-
-## References
-
-- Djuuna IAF, Abbott LK, Solaiman ZM (2009) Use of mycorrhiza bioassays in ecological studies. In: Varma A, Kharkwal AC (eds) Symbiotic Fungi, Soil Biology 18. Springer.
-
-- Abbott LK, Robson AD (1991) Factors influencing the occurrence of vesicular-arbuscular mycorrhizas. Agric Ecosyst Environ 35:121-150.
-
-- McGonigle TP, Miller MH, Evans DG, Fairchild GL, Swan JA (1990) A new method which gives an objective measure of colonization of roots by vesicular-arbuscular mycorrhizal fungi. New Phytol 115:495-501.
-
-- Plenchette C, Fortin JA, Furlan V (1983) Growth responses of several plant species to mycorrhizae in a soil of moderate P-fertility. Plant Soil 70:199-209.
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - [[symbiotic-fungi-mycorrhizal-inoculum-production]]

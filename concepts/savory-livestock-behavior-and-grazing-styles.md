@@ -12,20 +12,7 @@ type: concept
 # Livestock Behavior and Grazing Styles
 
 Understanding how grazing animals behave and select their food is essential to effective
-[[savory-livestock-grazing-planning]]. Grazing animals exhibit complex behaviors that
-directly affect both their own performance and the health of the land. These behaviors
-are shaped by millions of years of evolution in the presence of predators and have
-profound implications for management.
-
-## Diet Selection
-
-All grazing and browsing animals have to select their diets carefully to function well.
-The small amount of existing research shows this to be more complex than the simple
-senses of taste, sight, scent, and smell. Animals select younger plants of a species
-over older ones and avoid those clogged by last year's dead growth. Many animals are
-genetically made up to select their diets at a high level, but by the mouthful rather
-than by the leaf. This means that only plants of a certain physical form readily
-provide for their needs, which directly influences [[savory-livestock-nutrition-and-supplementation]].
+[[savory-livestock-nutrition-and-supplementation]].
 
 Concentrating animals greatly in order to force them to graze off all plants uniformly
 merely results in poor weight gains, low breeding success, and other signs of stressed
@@ -44,30 +31,7 @@ from others. Then they scatter dung so widely it no longer inhibits feeding nor 
 movement, and the same animals remain on the same ground day after day.
 
 This avoidance behavior is one of the primary mechanisms behind
-[[savory-overgrazing-vs-overrest]]. When animals under threat of predators, or properly
-managed under planned grazing, keep moving to fresh ground, they avoid fouling and the
-associated decline in nutrition. When they linger too long in one area, the declining
-diet quality forces them to regraze plants they would normally avoid, leading to
-overgrazing of individual plants.
-
-## Three Categories of Grazing Styles
-
-Grazing styles fall into three broad categories that affect management decisions:
-
-### Nibblers
-
-Nibblers, endowed with narrow mouths, nip a leaf here and there off a plant. The duiker
-and steenbok and some other small African antelope belong to this group. Most of them
-are solitary, nonherding animals, with self-regulating populations, and none has
-domestic relatives. Their impact on any individual plant is minimal.
-
-### Severe Grazers
-
-A broad-mouthed group feeds by the mouthful. Buffalo, bison, zebra, horses, cattle,
-and hippo do this. Most are gregarious members of nonself-regulating populations, and
-tend to defoliate plants severely. Elephants, which pull up grasses by the trunkful,
-also belong in this group. These animals can remove large quantities of forage quickly
-and their [[savory-animal-impact-and-herd-effect]] is correspondingly significant.
+[[savory-animal-impact-and-herd-effect]] is correspondingly significant.
 
 ### Intermediate Grazers
 
@@ -82,33 +46,7 @@ overgraze plants severely when not moved regularly.
 
 Under natural conditions, the presence of predators causes grazing animals to herd
 closely and keep moving. This herding behavior is what creates the periodic disturbance
-necessary for healthy [[savory-brittle-environments]]. When feeding, herding animals
-tend to spread out but not too far for fear of predation, and walk gently, placing
-their hooves beside coarse plants rather than on top of them.
-
-Once feeding is over and the herd begins to move, or when predators threaten, the
-animals bunch together. Each animal steps recklessly, and even very coarse plants are
-trampled down, providing cover for the soil surface. The trotting and galloping hooves
-leave the soil chipped and broken as if a gardener had hoed it. Where the grazing herd
-kept off steep edges of gullies, it now beats down the edges to create a more gradual
-slope.
-
-## Defensive Adaptations of Plants
-
-Plants have developed remarkable defenses against overgrazing, which itself proves
-that overgrazing is not entirely a human invention. Some sacrifice the center of the
-clump but continue to hang onto life around the edges. Some distort their leaf and stem
-growth flat along the ground below the grazing height of animals. Other species develop
-a tight, round, spiny ball like a rolled-up hedgehog. In extreme cases, whole
-communities may shift toward a solid mat of runner-type grasses that maintain leaf
-growth more easily below grazing height.
-
-In all countries observed, perennial grasses appear remarkably resilient to overgrazing,
-with one notable exception: they seem particularly vulnerable in Mediterranean climates
-such as predominate in the southern tip of Africa and along the California coast.
-Fortunately, they do return when both overgrazing and partial rest are stopped.
-
-## Implications for [[savory-wildlife-livestock-integration]]
+necessary for healthy [[savory-wildlife-livestock-integration]]
 
 Understanding grazing styles helps managers design mixed herds that complement one
 another. Different animals favor different plants and feed at different levels, from
@@ -127,3 +65,22 @@ necessary to replicate the beneficial effects that predators once induced natura
 The periodic concentration and movement of herds, whether by fence or herder, is the
 key to restoring the [[savory-predator-prey-and-herding-behavior]] dynamic that
 brittle environments evolved with.
+## Practical Considerations
+
+Successful implementation of Livestock Behavior and Grazing Styles requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

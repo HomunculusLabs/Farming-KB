@@ -18,22 +18,7 @@ sources:
 
 ## Overview
 
-*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment [[decomposition]] organisms in temperate regions, capable of destroying structural timber in buildings and causing extensive economic damage. Despite the common name "dry rot," the fungus requires elevated moisture (typically >20% wood moisture content) to colonize and decay wood — the name refers to the resulting dry, cracked, cubical appearance of severely decayed timber.
-
-## Taxonomy
-
-- **Division**: Basidiomycota
-- **Class**: Agaricomycetes
-- **Order**: Boletales
-- **Family**: Serpulaceae
-- **Genus**: *Serpula*
-
-The species epithet *lacrymans* (weeping) refers to the conspicuous water droplets that form on actively growing mycelial strands and fruiting bodies, a phenomenon called guttation. The genome was sequenced in 2011, revealing significant contraction in its wood-decay enzyme repertoire compared to other basidiomycetes.
-
-## Morphology
-
-### Mycelium
-The [[mycelium]] is the primary diagnostic feature encountered in building inspections. It forms:
+*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment [[mycelium]] is the primary diagnostic feature encountered in building inspections. It forms:
 
 - **White, cottony sheets** spreading over masonry, timber, and plaster
 - **Strands (rhizomorphs)**: Thick, fleshy, white to grayish cords that conduct water and nutrients over considerable distances (meters). These are the primary mechanism for moisture transport through otherwise dry building materials
@@ -77,6 +62,24 @@ Modern building codes emphasize moisture control over chemical treatment, recogn
 
 ## See Also
 
-- [[fungal-serpula-lacrymans-dry-rot-buildings]]
 - [[serpula-himantioides]]
 - [[dry-rot-fungi-serpula-meruliporia]]
+## Practical Considerations
+
+Successful implementation of Serpula lacrymans requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

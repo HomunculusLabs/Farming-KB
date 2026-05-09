@@ -3,13 +3,7 @@ title: Design Charette Process
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# Design Charette Process
-
-The charette is where the design process moves from analysis to synthesis. It is the brainstorming and integration session where a design team works together to create a coherent permaculture design. The charette is a critical component of [[pdc-design-project-methodology-and-case-study]] and represents the collaborative heart of the design process.
+tags: [[pdc-design-project-methodology-and-case-study]] and represents the collaborative heart of the design process.
 
 ## Overview
 
@@ -22,26 +16,7 @@ As a team, work out a charette schedule determining how many times you will get 
 ## First Charette: Sharing Analysis
 
 ### Purpose
-At the first charette, everyone shares the results from their [[pdc-landform-and-topography-reading]] and produces an agreed-upon copy of the base map data.
-
-### Process
-1. Each team member shares their analysis findings
-2. The team creates a single agreed-upon base map incorporating all data
-3. Each member receives a copy of the working base map and the client interview
-4. The team brainstorms what the design should be like
-
-### Client Participation
-The client should be invited to each charette. However, if the client cannot attend, the team should proceed without them. The client's input at this stage helps ensure the design reflects their philosophy and needs.
-
-## Between First and Second Charette: Individual Research
-
-After the first charette, all members work independently (or inter-dependently) on their specific elements. This phase concentrates on research:
-
-- Finding the right type of plants for each zone
-- Researching design precedent
-- Looking for structures in analogous climates
-- Investigating specific technologies
-- Studying [[williams-pdc-appropriate-technology]] options
+At the first charette, everyone shares the results from their [[williams-pdc-appropriate-technology]] options
 
 When everyone has completed their research, the team reconvenes to share findings so that all members are on the same page about what elements the design will contain.
 
@@ -88,9 +63,7 @@ When the team reaches consensus on how everything fits together, each member upd
 
 One final charette ensures that:
 - All designs fit together coherently
-- All elements meet criteria from the [[pdc-design-exercise-method]]
-- No conflicts remain between elements
-- The design is ready for [[pdc-design-project-methodology-and-case-study]]
+- All elements meet criteria from the [[pdc-design-project-methodology-and-case-study]]
 
 ## Final Individual Work
 
@@ -112,12 +85,8 @@ After the final charette, each team member works on finalizing their aspect of t
 
 ## Related Pages
 
-- [[pdc-design-methodology]]
 - [[pdc-design-exercise-method]]
-- [[pdc-design-methodology]]
 - [[pdc-design-exercise-method]]
-- [[pdc-reading-landscape]]
 - [[mollison-professional-design-practice]]
-- [[permaculture-designers-manual-designer-reference-species]]
 - [[permaculture-designers-manual-client-interview]]
 - [[mollison-permaculture-appropriate-technology]]

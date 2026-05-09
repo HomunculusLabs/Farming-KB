@@ -106,15 +106,9 @@ Molecular phylogenetic studies have shown that the genus is monophyletic within 
 
 ## See Also
 
-- [[kappaphycus-alvarezii]]
 - [[eucheuma-denticulatum]]
-- [[gracilaria-verrucosa]]
 - [[chondrus-crispus]]
-- [[porphyra-umbilicalis]]
 - [[pyropia-yezoensis]]
-- [[gelidium-amansii]]
 - [[ulva-lactuca]]
-- [[undaria-pinnatifida]]
 - [[eucheuma-isiforme]]
-- [[palmaria-palmata]]
 - [[caulerpa-lentillifera]]

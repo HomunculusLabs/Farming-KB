@@ -109,13 +109,9 @@ Not considered threatened due to its wide cosmopolitan distribution and associat
 
 ## See Also
 
-- [[panaeolus-cyanescens]] — Potent psychoactive species within the same genus
 - [[panaeolus-subbalteatus]] — Another confirmed psychoactive *Panaeolus* species
-- [[panaeolus-castaneifolius]]
 - [[panaeolus-sphinctrinus]]
-- [[copelandia-panaeolus-genera]]
 - [[conocybe-cyanopus]]
-- [[psilocybe-semilanceata]]
 - [[psilocybe-cubensis]]
 
 ## References

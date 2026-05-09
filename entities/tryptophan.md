@@ -10,18 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Tryptophan
 
-**Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[indole]]-containing compounds of pharmacological significance, including the neurotransmitter [[serotonin]], the hormone [[melatonin-entity-tihkal]], and the entire class of psychedelic tryptamines such as [[psilocybin-compound]], dimethyltryptamine|DMT, and [[lsd-lysergic-acid-diethylamide-experience-guide]] (via ergoline biosynthesis). As an essential amino acid, it cannot be synthesized de novo by humans and must be obtained through dietary intake.
-
-## Chemical Properties
-
-- **Chemical formula:** C₁₁H₁₂N₂O₂
-- **Molecular weight:** 204.23 g/mol
-- **IUPAC name:** (2S)-2-Amino-3-(1H-indol-3-yl)propanoic acid
-- **Standard genetic code:** UGG (the only amino acid encoded by a single codon)
-- **pKa values:** α-COOH ≈ 2.38, α-NH₃⁺ ≈ 9.39
-- **Solubility:** Moderately soluble in water; more soluble in hot water, dilute alkali, and acetic acid
-
-Tryptophan is the largest of the standard amino acids by molecular weight. Its [[indole]] side chain is responsible for the UV absorbance properties of proteins (λ_max ≈ 280 nm), making it essential for protein quantification assays such as the Bradford and Warburg-Christian methods. The indole ring is planar, moderately hydrophobic, and capable of participating in hydrogen bonding and π-stacking interactions.
+**Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[serotonin]], the hormone [[psilocybin]], dimethyltryptamine|DMT, and [[indole]] side chain is responsible for the UV absorbance properties of proteins (λ_max ≈ 280 nm), making it essential for protein quantification assays such as the Bradford and Warburg-Christian methods. The indole ring is planar, moderately hydrophobic, and capable of participating in hydrogen bonding and π-stacking interactions.
 
 ## Dietary Sources
 
@@ -52,38 +41,17 @@ This pathway is absent in animals, which is why tryptophan is an essential amino
 In mammals, dietary tryptophan follows several metabolic fates:
 
 1. **Protein synthesis:** ~1-2% of dietary tryptophan is incorporated into proteins
-2. **Serotonin pathway:** Tryptophan → 5-hydroxytryptophan (TPH) → [[serotonin]] (AADC) → [[melatonin-entity-tihkal]] (AANAT + ASMT)
+2. **Serotonin pathway:** Tryptophan → 5-hydroxytryptophan (TPH) → [[melatonin-entity-tihkal]] (AANAT + ASMT)
 3. **Kynurenine pathway:** ~95% of tryptophan is metabolized via this route, primarily in the liver:
    - Tryptophan → N-formylkynurenine (IDO or TDO) → kynurenine → kynurenic acid, quinolinic acid, and ultimately **nicotinamide adenine dinucleotide (NAD⁺)**
-4. **Tryptamine pathway:** Tryptophan → [[tryptamine-consciousness-theory]] (aromatic L-amino acid decarboxylase) → various N-methylated derivatives
-
-The kynurenine pathway is of increasing clinical interest because quinolinic acid is an NMDA receptor agonist and neurotoxin implicated in neurodegenerative diseases, while kynurenic acid is neuroprotective.
-
-## Role in Neurotransmitter and Psychedelic Biosynthesis
-
-Tryptophan occupies a central position in the biosynthesis of all indole alkaloids of pharmacological importance:
-
-### Serotonin Pathway
-tryptophan → 5-HTP → [[serotonin]] → [[melatonin-entity-tihkal]]
-
-### Tryptamine Pathway (Mushrooms)
-tryptophan → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine → [[psilocybin-compound]] / [[baeocystin]] / [[norbaeocystin]] / [[aeruginascin]]
+4. **Tryptamine pathway:** Tryptophan → [[serotonin]] → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine → [[baeocystin]] / [[aeruginascin]]
 
 ### Tryptamine Pathway (Mammals/Plants)
-tryptophan → [[tryptamine-consciousness-theory]] → dimethyltryptamine|DMT (via INMT)
+tryptophan → [[psilocybe-aeruginosa]], the tryptophan-derived biosynthetic pathway for [[indole]] ring and ethylamine side chain:
 
-### Tryptophan and Psychedelic Biosynthesis in Fungi
-
-In psychedelic mushrooms of the genus [[psilocybe-aeruginosa]], the tryptophan-derived biosynthetic pathway for [[psilocybin-compound]] involves a series of enzymatic modifications to the [[indole]] ring and ethylamine side chain:
-
-1. tryptophan → [[tryptamine-consciousness-theory]] (aromatic L-amino acid decarboxylase)
-2. [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine (monooxygenase, PsiH)
+1. tryptophan → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine (monooxygenase, PsiH)
 3. 4-Hydroxytryptamine → 4-hydroxytryptamine monophosphate (kinase, PsiK)
-4. 4-Hydroxytryptamine monophosphate → [[norbaeocystin]] (methyltransferase, PsiM)
-5. [[norbaeocystin]] → [[baeocystin]] (PsiM, second methylation)
-6. [[baeocystin]] → [[psilocybin-compound]] (PsiM, third methylation)
-
-This pathway was elucidated through the identification of the "Psi" (psilocybin) gene cluster in [[psilocybe-cubensis-potency-variation-by-flush]] by researchers including Dirk Hoffmeister and colleagues. The enzymes PsiH (a cytochrome P450 monooxygenase), PsiK (a 4-hydroxytryptamine kinase), and PsiM (a SAM-dependent methyltransferase) constitute the core biosynthetic machinery.
+4. 4-Hydroxytryptamine monophosphate → [[norbaeocystin]] → [[baeocystin]] → [[psilocybe-cubensis-potency-variation-by-flush]] by researchers including Dirk Hoffmeister and colleagues. The enzymes PsiH (a cytochrome P450 monooxygenase), PsiK (a 4-hydroxytryptamine kinase), and PsiM (a SAM-dependent methyltransferase) constitute the core biosynthetic machinery.
 
 ### Kynurenine Pathway: The Major Metabolic Fate
 
@@ -102,23 +70,10 @@ This pathway represents a significant metabolic "sink" for tryptophan that can r
 
 ## Historical Context
 
-Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. In 1902, Hopkins and Sydney Cole demonstrated that tryptophan was essential for the growth of mice, making it one of the earliest amino acids to be characterized. The discovery of tryptophan's role as a precursor to [[serotonin]] in the 1950s by Irvine Page, Betty Twarog, and others, and subsequently to the psychedelic tryptamines, established the biochemical bridge between dietary nutrition and consciousness-altering compounds. The identification of the psilocybin biosynthetic gene cluster in 2017 by Fricke, Hoffmeister, and colleagues revealed how fungi enzymatically convert dietary tryptophan into psychoactive alkaloids — a discovery with implications for both fungal biology and the biotechnological production of therapeutic compounds.
-
-## Related Compounds
-
-- [[indole]] — the bicyclic aromatic ring system comprising tryptophan's side chain
-- [[tryptamine-consciousness-theory]] — decarboxylated tryptophan; parent of all psychoactive tryptamines
+Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. In 1902, Hopkins and Sydney Cole demonstrated that tryptophan was essential for the growth of mice, making it one of the earliest amino acids to be characterized. The discovery of tryptophan's role as a precursor to [[indole]] — the bicyclic aromatic ring system comprising tryptophan's side chain
 - [[serotonin]] — 5-hydroxytryptamine; the primary mammalian neurotransmitter derived from tryptophan
-- [[psilocybin-compound]] — 4-phosphoryloxy-N,N-dimethyltryptamine; mushroom alkaloid biosynthesized from tryptophan
 - [[dimethyltryptamine]] — N,N-dimethyltryptamine; endogenous psychedelic formed from tryptophan via tryptamine
-- [[melatonin-entity-tihkal]] — circadian hormone derived from serotonin (itself from tryptophan)
 - [[baeocystin]] — N-desmethylpsilocybin; mushroom alkaloid in the tryptophan-derived pathway
-- [[norbaeocystin]] — 4-phosphoryloxytryptamine; earliest phosphorylated intermediate in psilocybin biosynthesis
-
-## See Also
-
 - [[tryptamine-consciousness-theory]] — direct decarboxylation product and parent compound class
-- [[serotonin]] — primary mammalian neurotransmitter derived from tryptophan
-- [[psilocybin-compound]] — mushroom psychedelic alkaloid biosynthesized from tryptophan
-- [[indole]] — core heterocyclic scaffold of tryptophan and all tryptamine derivatives
+- [[psilocybin]] — mushroom psychedelic alkaloid biosynthesized from tryptophan
 - [[baeocystin]] — intermediate in fungal tryptophan-to-psilocybin biosynthesis

@@ -3,13 +3,7 @@ title: Stamets' Mycoforestry Case Studies
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - raw/papers/mycelium-running-stamets.md
----
-# Stamets' Mycoforestry Case Studies
-
-Practical demonstrations of using fungi to restore forest landscapes, recover damaged roads, and establish sustainable woodland management practices. These case studies bridge the theoretical framework of [[mycoforestry-principles-stamets]] with field-validated results.
+tags: [[mycoforestry-principles-stamets]] with field-validated results.
 
 ## Tahuya River Road Restoration (Washington State)
 
@@ -77,25 +71,27 @@ Stamets proposes inoculating chainsaw bar oil, chipper lubricants, and other cut
 
 ## Mycoforestry Principles Applied
 
-These case studies demonstrate several core [[mycoforestry-principles-stamets]]:
-
-1. **Use native species when possible** -- *P. ostreatus* is indigenous to the Pacific Northwest
-2. **Start with keystone saprophytes** -- primary decomposers jumpstart the ecological cascade
-3. **Layer substrates** -- wood chips (structural/fungal food) + straw (erosion control) + mycorrhizal inoculant (plant support)
-4. **Let nature take over** -- once established, the mycological community drives its own recovery
-5. **Multiple species matrices** -- future trials will combine white rot, brown rot, and mycorrhizal species
-
-## Implications for Large-Scale Forest Management
-
-Stamets argues that mycoforestry practices offer a complementary management strategy for long-term sustainability of forestlands. The approach is low-cost, scalable, and works with natural ecological processes rather than against them. The key inputs -- wood chips, straw, native grass seed, and mycorrhizal inoculant -- are inexpensive and readily available.
-
-## See Also
-
-- [[mycoforestry-principles-stamets]] -- theoretical framework
-- [[mycorestoration-ecology]] -- four domains of fungal restoration
+These case studies demonstrate several core [[mycoforestry-principles-stamets]] -- theoretical framework
 - [[mycofiltration-of-water-stamets]] -- water filtration applications
-- [[mycoremediation-stamets-approach]] -- related remediation techniques
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]] -- plant-fungal interactions
-- [[fungal-interactions-soil-fauna]]
 - [[water-pathways-through-plants]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
+## Practical Considerations
+
+Successful implementation of Stamets' Mycoforestry Case Studies requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

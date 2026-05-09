@@ -1,19 +1,5 @@
 ---
-title: "How to Design a [[food-forest]] Guild for Fruit Trees"
-created: 2026-04-28
-tags:
-  - permaculture
-  - food-forest
-  - companion-planting
-  - fruit-trees
-  - plant-guilds
-  - polyculture
-  - sustainable-gardening
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - title: "Gaia's Garden: A Guide to Home-Scale Permaculture"
-    author: "[[toby-hemenway]]"
+title: "How to Design a [[toby-hemenway]]"
     publisher: "Chelsea Green Publishing"
     year: 2009
     url: "https://www.chelseagreen.com/product/gaias-garden-second-edition/"
@@ -36,11 +22,7 @@ sources:
     url: "https://permaculturenews.org/2013/04/17/fruit-tree-guilds/"
 type: query
 ---
-## How to Design [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]] Guild for Fruit Trees
-
-### What is a plant guild?
-
-A [[plant-guild]] is a group of plants deliberately assembled to support a central element — usually a fruit tree — by performing complementary ecological functions. Rather than planting a tree in isolation with grass beneath it, a guild builds a miniature ecosystem around it. Each member provides at least one of the following: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, mulch production, or ground cover to suppress weeds. The concept originates from permaculture and draws heavily on natural forest-edge ecosystems where plants co-evolved to support one another.
+## How to Design [[plant-guild]] is a group of plants deliberately assembled to support a central element — usually a fruit tree — by performing complementary ecological functions. Rather than planting a tree in isolation with grass beneath it, a guild builds a miniature ecosystem around it. Each member provides at least one of the following: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, mulch production, or ground cover to suppress weeds. The concept originates from permaculture and draws heavily on natural forest-edge ecosystems where plants co-evolved to support one another.
 
 ### What are the 7 layers of a food forest?
 
@@ -51,35 +33,7 @@ Understanding vertical layers helps you pack more productivity into less space:
 3. **Shrub layer** — Berry bushes, currants, gooseberries, hazelnuts.
 4. **Herbaceous layer** — Perennial herbs, vegetables, and flowers (comfrey, borage, yarrow).
 5. **Ground cover layer** — Low creepers that suppress weeds (clover, thyme, creeping juniper).
-6. **Rhizosphere layer** — Root crops and bulbs (garlic, daikon radish, [[jerusalem-artichoke]]).
-7. **Vertical layer** — Climbers and vines (grapes, kiwi, passionflower, hops).
-
-Not every guild needs all seven layers — adapt to your space and goals.
-
-### How do I select companion plants for common fruit trees?
-
-Choose companions based on the functions they provide and their compatibility with your tree's root zone, light needs, and pest pressures:
-
-- **Apple** — Good companions include comfrey (nutrient accumulator), dill (attracts parasitic wasps), yarrow (attracts beneficials), clover (nitrogen fixer, ground cover), and garlic (repels codling moth). Avoid planting walnuts nearby (juglone toxicity).
-- **Peach** — Pair with comfrey, borage (pollinators), chamomile (fungal disease suppression), nasturtium (pest deterrent), and daikon radish (soil compaction breaker). Peaches are sensitive to waterlogging — ensure companions don't compete heavily for moisture.
-- **Pear** — Works well with comfrey, lupine (nitrogen), daffodils (deter rodents), yarrow, and white clover. Pears benefit from pollinator support since many varieties need a cross-pollinator.
-- **Cherry** — Companion with comfrey, borage, chives (repel aphids), sweet cicely (attracts parasitic wasps), and dutch white clover. Birds are the main pest — consider netting and sacrificial plantings like mulberry.
-- **Plum** — Good guild members include comfrey, borage, clover, garlic chives, and fennel (attracts beneficial insects — but keep fennel away from tomatoes). Like pears, many plums need cross-pollinators.
-- **Citrus** — Pair with comfrey, nasturtium, calendula (repels whitefly), yarrow, sweet alyssum (ground cover, attracts syrphid flies), and lupine. Citrus thrives with understory plants that tolerate dappled shade and warm climates.
-
-### What are the best nitrogen fixers for fruit tree guilds?
-
-Nitrogen fixers convert atmospheric nitrogen into plant-available form, reducing or eliminating fertilizer needs. Top choices:
-
-- **Trees/shrubs:** Russian comfrey (technically a dynamic accumulator, not a fixer — see below), seaberry (sea buckthorn), goumi, Siberian pea shrub, black locust (use caution — it spreads aggressively), autumn olive (check local invasiveness lists), mesquite (arid climates).
-- **Perennials:** Lupine, false indigo (Baptisia), leadplant.
-- **Ground covers:** White clover, red clover, vetch, alfalfa, crown vetch.
-
-Place nitrogen fixers within the tree's drip line so their root systems intermingle. Some, like Siberian pea shrub, can be coppiced for mulch that releases nitrogen as it breaks down.
-
-### What are dynamic accumulators and why do they matter?
-
-[[dynamic-accumulators]] are deep-rooted plants that mine minerals (calcium, potassium, phosphorus, magnesium, trace minerals) from subsoil layers and bring them to the surface through their leaves. When you "[[chop-and-drop]]" their foliage as mulch around your fruit tree, those nutrients become available in the root zone. The classic dynamic accumulator is **comfrey ([[symphytum-officinale]] or Bocking 14 sterile cultivar)**. Others include yarrow, dandelion, nettle, borage, chicory, and plantain. Plant comfrey in a ring just outside the drip line and cut it 3-4 times per growing season for mulch.
+6. **Rhizosphere layer** — Root crops and bulbs (garlic, daikon radish, [[dynamic-accumulators]] are deep-rooted plants that mine minerals (calcium, potassium, phosphorus, magnesium, trace minerals) from subsoil layers and bring them to the surface through their leaves. When you "[[symphytum-officinale]] or Bocking 14 sterile cultivar)**. Others include yarrow, dandelion, nettle, borage, chicory, and plantain. Plant comfrey in a ring just outside the drip line and cut it 3-4 times per growing season for mulch.
 
 ### Which plants repel pests and attract pollinators?
 

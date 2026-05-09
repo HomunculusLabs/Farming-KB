@@ -79,17 +79,10 @@ The material is non-toxic, breathable, and at end of life can be returned to the
 
 ## See Also
 
-[[earth-building-permaculture]]
-
 [[cob-construction]]
-
-[[adobe-construction]]
 
 [[permaculture-building-design]]
 
-[[permaculture-house-design-principles]]
-
 [[permaculture-zone-0-house-design]]
 
-[[passive-solar-design]]
-- [[permaculture-designers-manual-timber-construction]]
+[[permaculture-designers-manual-timber-construction]]

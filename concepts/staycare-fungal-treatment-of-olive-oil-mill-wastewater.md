@@ -63,16 +63,7 @@ relies on the non-specific oxidative enzyme systems of these fungi to
 degrade the polyphenolic chromophores and reduce the phytotoxicity of
 the effluent.
 
-Key species investigated include [[phanerochaete-chrysosporium]],
-[[trametes-versicolor]], [[pleurotus-ostreatus]], and Pleurotus sajor-caju.
-Among these, Pleurotus species have shown particular promise, possibly
-because they are edible mushrooms already cultivated on lignocellulosic
-substrates and may be amenable to integrated waste treatment and
-mushroom production systems.
-
-The ligninolytic enzymes responsible for OMW polyphenol degradation
-include Laccase Enzymes in Bioremediation and
-Manganese Peroxidase in [[fungal-bioremediation]],
+Key species investigated include [[trametes-versicolor-entity]], [[fungal-bioremediation]],
 which catalyze the oxidation of phenolic compounds to phenoxy radicals.
 These radicals undergo subsequent non-enzymatic reactions leading to
 depolymerization, demethoxylation, and ring cleavage, ultimately
@@ -93,38 +84,5 @@ reduction in phenolic content measured by standard analytical methods.
 ## Integration with Mushroom Cultivation
 
 An attractive aspect of fungal OMW treatment is the potential for
-integration with commercial mushroom cultivation. [[staycare-lentinula-edodes-in-bioremediation]] and
-Bjerkandera and Pleurotus in Pollutant Degradation can be grown on lignocellulosic substrates
-supplemented with OMW, potentially achieving both waste treatment and
-mushroom production simultaneously. The organic nutrients in OMW,
-including sugars and nitrogen sources, could support fungal biomass
-production while the ligninolytic enzymes degrade the problematic
-polyphenolic components.
-
-## Agronomic Valorization of Treated OMW
-
-Following effective fungal treatment to reduce phytotoxicity, partially
-detoxified OMW may be suitable for agricultural application as a soil
-amendment or fertilizer. The organic matter, potassium, and other
-nutrient content of OMW represent valuable agricultural resources if
-the phytotoxic polyphenolic components can be adequately degraded.
-Biological treatment with white rot fungi offers the advantage of
-achieving detoxification through enzymatic degradation rather than
-merely diluting or transferring the toxic components to another
-medium, as occurs with physicochemical treatments.
-
-## Challenges and Future Directions
-
-Major challenges for fungal OMW treatment include the high seasonal
-volume of effluent requiring treatment, the need for dilution to reduce
-inhibitory concentrations of phenolic compounds, and the economic
-viability of biological treatment compared to physicochemical
-alternatives. Process optimization including reactor design, inoculum
-preparation, and co-substrate addition will be essential for developing
-practical treatment systems. The development of salt-tolerant white rot
-fungal strains could improve treatment of undiluted OMW with its
-naturally high mineral content.
-
-See also: Fungal Treatment of Textile Industry Wastewater,
-[[staycare-fungal-treatment-of-molasses-wastewater]],
+integration with commercial mushroom cultivation. [[staycare-fungal-treatment-of-molasses-wastewater]],
 and [[staycare-composting-as-a-fungal-bioremediation-strategy]].

@@ -119,7 +119,9 @@ Modern applications include dietary supplements (capsules, tinctures, teas), fun
 
 ## See Also
 
-- [[hericium-erinaceus]] — Lion's Mane mushroom
-- [[trametes-versicolor]] — Turkey Tail mushroom
-- [[pleurotus-ostreatus]] — Oyster mushroom
+- [[trametes-versicolor-entity]] — Turkey Tail mushroom
 - [[inonotus-obliquus]] — Chaga mushroom
+
+## See Also
+
+- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]

@@ -19,19 +19,7 @@ type: concept
 Cloning is the process of excising living tissue from a
 mushroom and transferring it to a sterile nutrient medium
 to capture its exact genetic characteristics. While the
-[[growing-gourmet-mushroom-cloning-technique]]
-itself is the same whether the source mushroom is wild or
-cultivated, the implications for long-term strain management
-differ dramatically between the two approaches.
-
-## The Cloning Process
-
-The procedure for cloning a mushroom is straightforward:
-  - Choose the best specimen possible
-  - Cut away any attached debris
-  - Wipe the mushroom clean with a damp paper towel
-  - Flame-sterilize a sharp scalpel until red hot
-  - Cool the scalpel tip by touching the nutrient [[agar]] medium
+[[agar]] medium
   - Split the mushroom cap in half
   - Cut a small section of flesh about the size of a grain kernel
   - Quickly transfer the excised tissue to the petri dish
@@ -72,12 +60,6 @@ sexual recombination.
 Many cultivators ask: "What is wrong with just cloning a
 nice looking specimen from each crop of cultivated mushrooms
 to get a new strain?" The answer lies in the biology of
-[[growing-gourmet-strain-senescence-degeneration]].
-
-Although morphological traits can be partially selected for,
-senescence factors are soon encountered. Generating mycelium
-in this fashion is a fast-track to genetic demise, quickly
-leading to loss of vigor and yield. By not returning to
 [[growing-gourmet-stock-culture-library]],
 to young cell lines, one has gone furthest downstream one
 linear chain of cells.
@@ -107,15 +89,7 @@ over repeatedly cloning cultivated crops:
 ## The Importance of Returning to Stock Cultures
 
 The critical discipline for any serious cultivator is to
-always return to young [[growing-gourmet-stock-culture-library]]
-rather than cloning from successive cultivated crops. Stock
-cultures preserved at low P-values represent the youngest
-available cell lines.
-
-Good mushroom strains are hard to come by, compared to the
-number of poor performers isolated from nature. The Culture
-Library, a.k.a. the Strain Bank, is the pivotal center of
-any mushroom cultivation enterprise. Strains can be preserved
+always return to young [[mushroom-cultivation]] enterprise. Strains can be preserved
 for decades under normal refrigeration, perhaps centuries
 under liquid nitrogen, all the while kept within a few
 thousand cell divisions from the original culture.

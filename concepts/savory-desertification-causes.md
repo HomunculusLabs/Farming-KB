@@ -94,8 +94,6 @@ Documented results from ranches applying holistic management show rapid improvem
 
 ## See Also
 
-- [[desertification]]
 - [[permaculture-grazing-and-pasture]]
-- [[permaculture-designers-manual-grazing-management]]
 - [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]

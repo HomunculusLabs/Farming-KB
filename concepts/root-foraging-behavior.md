@@ -11,8 +11,7 @@ type: concept
 
 # Root Foraging Behavior
 
-[[bacterial-endophyte-isolation-detection-plant-roots]] exhibit sophisticated foraging behaviors that allow them to locate
-and exploit patches of [[water-management]] and nutrients in heterogeneous soil environments.
+[[water-management]] and nutrients in heterogeneous soil environments.
 Rather than growing uniformly in all directions, root systems allocate growth
 preferentially toward resource-rich zones, demonstrating a capacity for
 environmental assessment and strategic decision-making that parallels animal
@@ -21,22 +20,7 @@ foraging behavior in many respects.
 ## Soil Heterogeneity
 
 Natural soils are remarkably heterogeneous in their distribution of water,
-minerals, organic matter, pH, [[teaming-with-microbes-compost-tea-and-microbial-inoculants]] communities. Nutrients such as
-nitrate, ammonium, and phosphate can vary in concentration by orders of
-magnitude over distances of just a few centimeters. This patchiness creates
-a foraging problem analogous to that faced by animals searching for food in
-a patchy environment.
-
-## Root Proliferation
-
-The primary foraging response of roots is localized proliferation. When a root
-encounters a nutrient-rich patch, it initiates increased lateral branching
-within the patch, producing a denser network of roots to exploit the resource.
-This proliferation is regulated by both local nutrient sensing and systemic
-signals from the shoot that modulate the overall root-to-shoot ratio.
-
-Different nutrients trigger distinct foraging strategies. Nitrate, which is
-highly mobile [[teaming-with-microbes-bacteria-and-archaea-in-soil]], tends to stimulate rapid but shallow root proliferation.
+minerals, organic matter, pH, [[teaming-with-microbes-bacteria-and-archaea-in-soil]], tends to stimulate rapid but shallow root proliferation.
 Phosphate, which is relatively immobile, triggers more extensive exploration
 through longer lateral roots and increased root hair density. These specialized
 responses reflect the different spatial distributions and diffusion
@@ -47,12 +31,7 @@ characteristics of each nutrient.
 Roots exhibit directed growth toward specific chemical and physical stimuli.
 Chemotropism, the directed growth toward chemical gradients, allows roots to
 grow toward sources of nutrients such as nitrate and phosphate. Hydrotropism,
-the directed growth toward moisture, enables roots to locate [[water-in-permaculture]] drying
-soil environments.
-
-The mechanisms underlying chemotropism involve perception of nutrient
-gradients at the root tip, which triggers asymmetric auxin distribution and
-differential cell elongation on opposite sides [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] root. Hydrotropism
+the directed growth toward moisture, enables roots to locate [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] root. Hydrotropism
 appears to be mediated by the redistribution of abscisic acid in [[tompkins-plants-response-to-human-intent]]
 moisture gradients, though the precise signaling pathways are still being
 elucidated.

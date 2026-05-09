@@ -108,14 +108,9 @@ Key cultivation parameters:
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[kaempferia-galanga]]
-- [[zingiber-officinale]]
 - [[curcuma-longa]]
-- [[berberine]]
 - [[ursolic-acid]]
-- [[astragalus-membranaceus]]
 - [[ephedra-sinica]]
-- [[ocimum-tenuiflorum-entity]]
 - [[piper-nigrum-entity]]
 - [[glycyrrhiza-glabra]]

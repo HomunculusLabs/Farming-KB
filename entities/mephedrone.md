@@ -37,11 +37,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Mephedrone**, chemically known as **4-methylmethcathinone (4-MMC)**, is a synthetic stimulant of the cathinone class. It is a beta-keto analogue of **[[mdma]]** and a ring-substituted derivative of methcathinone, sharing pharmacological properties with both amphetamine-type stimulants and MDMA-like empathogens.
-
-The compound emerged as a recreational drug in the mid-2000s, marketed online as a "research chemical" and sold under the guise of "plant food" or "bath salts" to circumvent drug control legislation. It gained widespread popularity in the UK and Europe between 2007 and 2010 before being scheduled internationally.
-
-Mephedrone produces stimulant and entactogenic effects including euphoria, increased sociability, enhanced sensory perception, and elevated energy. Its pharmacological profile closely mirrors that of **[[mdma]]** and **dopamine-releasing** amphetamines, with significant activity at serotonin, dopamine, and norepinephrine transporters.
+**Mephedrone**, chemically known as **4-methylmethcathinone (4-MMC)**, is a synthetic stimulant of the cathinone class. It is a beta-keto analogue of **[[mdma]]** and **dopamine-releasing** amphetamines, with significant activity at serotonin, dopamine, and norepinephrine transporters.
 
 ## Chemical Properties
 
@@ -59,19 +55,7 @@ Synthesis is relatively straightforward from 4-methylpropiophenone via brominati
 
 Mephedrone acts primarily as a **non-selective monoamine releasing agent** and **reuptake inhibitor** at the three major monoamine transporters: serotonin transporter (SERT), dopamine transporter (DAT), and norepinephrine transporter (NET).
 
-In vitro studies using rat brain synaptosomes demonstrate that mephedrone is a potent substrate-type releaser at DAT and SERT, with EC₅₀ values in the low micromolar range. It is approximately equipotent at DAT and SERT, similar to the profile of **[[mdma]]** but distinct from methamphetamine, which is DAT-selective.
-
-The compound also acts as a weak reuptake inhibitor, blocking transporter function in addition to promoting monoamine release via reverse transport. This dual mechanism produces more rapid and pronounced increases in extracellular monoamine concentrations compared to pure reuptake inhibitors.
-
-Microdialysis studies in rats confirm that mephedrone produces large, rapid increases in extracellular dopamine and serotonin in the nucleus accumbens and striatum, with peak effects occurring within 10–20 minutes of administration.
-
-Emerging evidence suggests mephedrone may have additional pharmacological targets. In vitro data indicate weak activity at 5-HT₂B receptors, which raises theoretical concerns about valvular heart disease similar to those associated with the fenfluramine appetite suppressants.
-
-The compound does not bind significantly to opioid receptors, NMDA receptors, or benzodiazepine sites. Its psychoactive effects are entirely mediated through monoaminergic mechanisms.
-
-## Effects
-
-The subjective effects of mephedrone combine stimulant and entactogenic qualities. Euphoria and increased sociability are prominent, similar to **[[mdma]]**. Users report enhanced empathy, talkativeness, and sensory enhancement.
+In vitro studies using rat brain synaptosomes demonstrate that mephedrone is a potent substrate-type releaser at DAT and SERT, with EC₅₀ values in the low micromolar range. It is approximately equipotent at DAT and SERT, similar to the profile of **[[mdma]]**. Users report enhanced empathy, talkativeness, and sensory enhancement.
 
 Stimulant effects include elevated heart rate, increased blood pressure, pupillary dilation, hyperthermia, bruxism, and reduced appetite. These effects are dose-dependent and more pronounced with intravenous or insufflated administration compared to oral dosing.
 
@@ -87,7 +71,7 @@ Mephedrone was first controlled in Sweden in 2007, followed by Denmark, Israel, 
 
 The compound was placed under international control in 2015 when the UN Commission on Narcotic Drugs added it to Schedule II of the Convention on Psychotropic Substances. It is now controlled in most jurisdictions worldwide, including the United States (Schedule I since 2011), European Union, Canada, Australia, and New Zealand.
 
-Despite international scheduling, mephedrone and closely related synthetic cathinones continue to appear in illicit drug markets. Manufacturers circumvent legislation through minor structural modifications, producing analogues such as **[[ethylone]]**, **[[butylone]]**, and other N-substituted cathinones.
+Despite international scheduling, mephedrone and closely related synthetic cathinones continue to appear in illicit drug markets. Manufacturers circumvent legislation through minor structural modifications, producing analogues such as **[[butylone]]**, and other N-substituted cathinones.
 
 In many countries, mephedrone is controlled through generic cathinone analogues or broad "designer drug" legislation that covers structural classes rather than individual compounds. These catch-all provisions aim to prevent the rapid market cycling of new analogues.
 
@@ -99,27 +83,11 @@ The drug's peak prevalence occurred in the UK between 2009 and 2010, where it wa
 
 Following the UK ban in April 2010, prevalence declined sharply but did not disappear. The drug continued to circulate in illicit markets alongside newer synthetic cathinones that filled the market gap left by scheduling.
 
-Mephedrone has been detected in illicit drug markets in Europe, Southeast Asia, and Australia. It is frequently found as an adulterant in **[[mdma]]** tablets and powders, sometimes as the primary active ingredient in products sold as ecstasy.
+Mephedrone has been detected in illicit drug markets in Europe, Southeast Asia, and Australia. It is frequently found as an adulterant in **[[mdma]]** or **[[pentylone]]
 
-## Harm Reduction
-
-Harm reduction guidance for mephedrone emphasizes dose control, hydration, and avoiding redosing. The strong compulsion to redose is one of the most commonly reported behavioral effects, with users often consuming more than intended during a session.
-
-Regular breaks from dosing are recommended to allow monoamine systems to recover. Concomitant use with other serotonergic substances, particularly **[[mdma]]** or **[[lsd]]**, significantly increases the risk of serotonin syndrome and should be avoided.
-
-Testing services such as drug checking programs can identify mephedrone in tablets and powders, helping users make informed decisions. Reagent tests (Marquis, Mecke, Simon's) provide presumptive identification of cathinone-class compounds.
-
-## See Also
-
-- [[mdma]] — the primary empathogen to which mephedrone is most often compared
 - [[ethylone]] — beta-keto analogue of MDMA and structural relative of mephedrone
-- [[butylone]] — N-ethyl cathinone with stimulant and mild empathogenic effects
 - [[mescaline-entity]] — natural phenethylamine psychedelic with different receptor profile
-- [[dmt]] — tryptamine psychedelic with rapid onset and short duration
 - [[lsd]] — classical psychedelic with serotonergic mechanism of action
-- [[ketamine]] — dissociative anesthetic with different pharmacological class
 - [[ephedrine]] — natural sympathomimetic amine used as a precursor compound
-- [[catha-edulis]] — khat, the natural plant source of cathinone
 - [[ephedra-sinica]] — ephedra, source of ephedrine and related alkaloids
-- [[serotonin]] — the neurotransmitter most affected by mephedrone's releasing action
 - [[caffeine]] — widely used stimulant with different pharmacological mechanism

@@ -54,53 +54,27 @@ Key design principles for the livestock shelter:
 
 ## Using JMS for Livestock
 
-[[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] is the key input:
-
-### Feeding
-- Dilute JMS x20 with water
-- Feed to animals (pigs, poultry, etc.)
-- Increases feed conversion ratio
-
-### Floor Application
-- Spray JMS on floors of animal shelters
-- Significantly reduces odor
-- Microorganisms feed on manure and prevent buildup
-
-## Benefits
-
-| Benefit | Description |
-|---------|-------------|
-| No manure removal | Microbes convert feces; clean-out only once per year |
-| Minimal odor | Microbial decomposition prevents foul smells |
-| Fewer flies | Microbial activity suppresses fly populations |
-| Feed recycling | Fermented manure becomes feed again |
-| Lower cost | No manure handling equipment or labor needed |
-| Animal health | Improved gut health from JMS in feed |
-| No antibiotics | Organic method eliminates antibiotic dependence |
-
-## Integration with Crops
-
-The manure that accumulates over the year, once removed, can be used as
-fertilizer for crops. Because the animals are raised organically without
-antibiotics, the manure is clean and safe for composting-systems|composting
-or direct field application.
-
-## Problems Solved
-
-This system addresses most problems raised in modern livestock farming:
-- Labor cost of manure removal
-- Environmental pollution from manure
-- Antibiotic resistance from conventional practices
-- Animal stress from unclean conditions
-- High cost of conventional waste management
-
-## Related
-
-- [[jadam-microorganism-solution-jms]] -- JMS recipe for livestock use
-- [[composting-systems]] -- handling removed annual bedding
+[[jadam-microorganism-solution-jms]] -- JMS recipe for livestock use
 - [[vermicomposting]] -- alternative manure processing
-- [[soil-food-web-structure]] -- soil biology principles underlying the method
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[natural-farming-livestock-integration]]
 - [[farming-with-air-water-and-sunlight]]
 - [[jadam-rice-bran-skin-fertilizer-problems]]
+## Practical Considerations
+
+Successful implementation of JADAM Livestock Farming Without Feces Removal requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

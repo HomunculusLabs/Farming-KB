@@ -9,12 +9,7 @@ type: concept
 ---
 
 Hermaphrodites, commonly called hermies, are cannabis plants that develop
-both male and female sexual organs on the same individual. [[greg-green]]'s
-Cannabis Grow Bible covers hermaphroditism extensively as one of the most
-serious problems a grower can face, since hermies can ruin an entire
-sinsemilla crop by self pollinating and producing seeds. Understanding what
-causes hermaphroditism and how to prevent it is critical. See also
-[[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] and
+both male and female sexual organs on the same individual. [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] and
 green-cannabis-sinsemilla-and-pollination.
 
  Green treats hermaphroditism as one of the most serious issues a cannabis
@@ -127,5 +122,8 @@ removed promptly to protect the rest of the grow.
 
 ## See Also
 
-- [[greg-green-odor-control-and-air-filtration]]
 - [[greg-green-npk-and-nutrient-deficiency]]
+
+## See Also
+
+- [[greg-green-spider-mites-and-common-pests]]

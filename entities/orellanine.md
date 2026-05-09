@@ -108,15 +108,10 @@ In forensic contexts, orellanine can be detected in urine, blood, and gastric co
 
 ## See Also
 
-- [[cortinarius-violaceus]]
 - [[amanita-phalloides]]
-- [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
 - [[gyromitrin]]
-- [[alpha-amanitin]]
 - [[aflatoxin]]
-- [[ibotenic-acid]]
 - [[muscimol-entity]]
 - nephrotoxin
 - bipyridine
-- [[muscimol-compound]]
 - [[muscarine]]

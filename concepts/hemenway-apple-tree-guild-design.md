@@ -1,7 +1,7 @@
 ---
 title: "Apple Tree Guild Design"
 created: 2026-04-28
-tags: [permaculture, guild-design, fruit-trees, polyculture, companion-planting]
+tags: [[permaculture, guild-design, fruit-trees, polyculture, companion-planting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
@@ -58,30 +58,7 @@ functions beyond grass suppression.
 Flowering plants lure pollinators for boosting fruit set and attract predatory
 wasps that feast on pestiferous larvae such as borers and codling moths.
 Choices include edible herbs such as dill, fennel, and coriander, plus many
-[[hemenway-insectary-plants-and-beneficial-insects]]. Nearby
-flowering shrubs like butterfly bush, fuchsia, and salvia encourage
-insectivorous birds that probe bark crevices for larvae and eggs.
-
-### Mulch Plants
-Growing mulch under the tree eliminates the need to haul compost by
-wheelbarrow. Mulch makers include comfrey, artichokes, cardoon, rhubarb,
-clovers, and nasturtiums, all of which can be slashed and left to compost in
-place. A ring of comfrey around the tree can be cut four or five times per
-summer. As the nutrient-rich greenery decomposes, it delivers minerals and
-organic matter while supporting a thriving soil food web that suppresses
-diseases through competition.
-
-### Nutrient Accumulators
-Deep taprooted plants such as chicory, dandelion, yarrow, and plantain plunge
-into mineral soil and dredge up potassium, magnesium, calcium, sulfur, and
-other nutrients. As the guild matures and nutrients recycle within the
-community, these accumulators naturally decline and can be replaced.
-
-### Nitrogen Fixers
-Adding nitrogen fixers keeps nutrients cycling within the plant community.
-Perennial options include Dutch or New Zealand white clover, alfalfa, and
-lupine. Edible options like cowpeas and fava beans stack yet another product
-into the guild. See [[hemenway-guild-member-roles-and-species-selection]] for
+[[hemenway-guild-member-roles-and-species-selection]] for
 more on nitrogen-fixing plants.
 
 ### Pest Repellents
@@ -125,11 +102,7 @@ reduced maintenance and extra bounty typically offset any minor inconvenience.
 
 ## See Also
 
-- [[query-how-do-i-design-an-apple-tree-guild]]
-
 - [[comparison-apple-tree-care-vs-apple-guild-design]]
 
-- [[hemenway-guild-design-roles-and-assembly]] for guild design methodology
 - [[hemenway-guild-member-roles-and-species-selection]] for species choices
-- [[hemenway-random-assembly-design-technique]] for alternative approaches
 - [[hemenway-food-forest-design]] for scaling up to whole landscapes

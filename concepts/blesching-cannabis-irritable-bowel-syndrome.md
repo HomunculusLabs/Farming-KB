@@ -17,10 +17,9 @@ type: concept
 # Cannabis and Irritable Bowel Syndrome (IBS)
 
 Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that
-significantly impacts quality of life. According to [[cannabis-for-epilepsy-and-seizure-disorders]]'s Cannabis
-[[cannabis-health-index-scoring-system]], IBS/inflammatory bowel disease received a CHI value of 8 from 3
+significantly impacts quality of life. According to [[cannabis-health-index-scoring-system]], IBS/inflammatory bowel disease received a CHI value of 8 from 3
 studies reviewed, with additional supporting evidence from case reports and
-pre-[[maitake-cancer-clinical-research]].
+pre.
 
 ## Overview of IBS
 
@@ -42,34 +41,7 @@ IBS is classified according to the primary symptoms displayed:
 - **IBS-A**: Alternating diarrhea with constipation
 - **IBS-PI**: Post-infectious IBS
 
-[[cannabis-and-ulcerative-colitis]] is a form of IBD that can affect other body parts.
-Crohn's disease, another form of IBD, is an autoimmune disorder affecting
-the gastrointestinal tract.
-
-## Common Symptoms
-
-Frequently observed symptoms include:
-- Abdominal discomfort (gas, bloating, cramps)
-- Sensation of incomplete void of stool
-- GERD (gastroesophageal reflux disease)
-- Anxiety and depression
-- Pain (abdominal, back, head, muscle)
-- Increased generalized weakness and lack of energy
-
-## Diagnosis
-
-Orthodox diagnoses are performed by elimination. Doctors run a variety of
-tests to rule out diseases with similar symptoms, including colonoscopies,
-parasite screening, lactose intolerance testing, infection testing, and
-celiac disease screening. If none of these explain the symptoms, practitioners
-may follow established diagnostic algorithms.
-
-Conventional management includes dietary modifications, pharmaceutical
-medications, and psychotherapy referrals. A Canadian meta-analysis found that
-fiber, antispasmodics, and peppermint oil exhibited greater effectiveness
-than placebo in treating IBS.
-
-## [[cannabis-health-index]] Assessment
+[[cannabis-health-index]] Assessment
 
 The CHI value for IBS/IBD is 8 from 3 studies reviewed, indicating
 preliminary but promising evidence.
@@ -144,7 +116,6 @@ a situation or get rid of something.
 ## Key Takeaways
 
 - IBS is a prevalent GI disorder with no orthodox cure; the ECS is widely
-  distributed throughout the gut and regulates multiple GI functions.
 ## See Also
 
 - [[blesching-cannabis-tourette-syndrome]]

@@ -100,8 +100,7 @@ sugary pods. Grass grows well below. Wood is valuable and durable.
 ## Grass-Excluding Mechanism
 
 These pioneer species work by rapidly establishing canopy cover that
-shades out competitive grasses. The [[mollison-designers-coppicing-management-of-legume-trees]] of these species provides mulch that
-further suppresses grass regrowth. Combined with the [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]], the
+shades out competitive grasses. The [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]], the
 soil is progressively enriched while grass competition is reduced.
 
 ## Integration with High-Value Species
@@ -116,11 +115,7 @@ If Leucaena, Samanea, Prosopis, and Inga are planted, a long-term
 forage system will evolve, providing replanting or rest periods are
 given for seedlings to re-establish. Species such as Pterocarpus
 indicus or P. erinaceus can be first seed-planted in a nursery
-stand, then [[mollison-designers-coppicing-management-of-legume-trees]] for 2 m quickset planting in bore-holes in the field.
-
-## Connection to Broader Strategies
-
-This approach connects to [[mollison-savannah-forestry-and-land-rehabilitation]], [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]], [[mollison-designers-seed-pelleting-and-pretreatment]], and [[mollison-soil-erosion-control]]. The National
+stand, then [[mollison-savannah-forestry-and-land-rehabilitation]], [[mollison-designers-seed-pelleting-and-pretreatment]], and [[mollison-soil-erosion-control]]. The National
 Academy of Sciences publication referenced by Mollison provides a
 comprehensive selection of potential species for tropical
 rehabilitation.

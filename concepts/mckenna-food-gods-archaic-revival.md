@@ -8,13 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The [[mckenna-archaic-revival]] and Future of Entheogenic Culture
-
-The Archaic Revival is McKenna's term for the necessary cultural transformation he advocates — a return to the direct experiential relationship with nature and the visionary dimension that characterized archaic partnership societies, but now informed by modern knowledge and technology. It is the culmination of the argument of *Food of the Gods* and the basis for McKenna's political and pharmacological prescriptions for the future.
-
-## Definition and Urgency
-
-"The Archaic Revival is a clarion call to recover our birthright, however uncomfortable that may make us. It is a call to realize that life lived in the absence of the [[weil-psychedelic-experience-set-and-setting]] upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us."
+# The [[weil-psychedelic-experience-set-and-setting]] upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us."
 
 McKenna argued that "an interrupted psychophysical symbiosis between ourselves and the visionary plants is the unrecognized cause of the alienation of modernity and the cultural mind-set of planetary civilization." The "worldwide attitude of fear toward drugs" is, in his view, "being fostered and manipulated by the dominator culture and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
 
@@ -83,6 +77,5 @@ McKenna found unexpected support from Arthur Koestler, who concluded from his ex
 
 ## See Also
 
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-fall-consciousness]]
 - [[mckenna-food-gods-partnership-dominator]]

@@ -1,7 +1,7 @@
 ---
 title: "The Mycelial Archetype in Nature"
 created: 2026-04-28
-tags: [mycology, fungal-ecology, network-theory, biomimicry]
+tags: [[mycology, fungal-ecology, network-theory, biomimicry]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -116,17 +116,7 @@ hundreds of tons in mass, and thousands of years old.
 
 - Biomimetic design of computer networks and distributed systems
   based on mycelial redundancy and resilience patterns
-- Ecological monitoring using mycelial networks as indicators of
-  environmental health and change
-- Understanding fungal networks as models for sustainable
-  infrastructure and resource distribution systems
-- Inspiring architectural and engineering solutions through
-  mycelial branching patterns
+- Ecological monitoring using [[mycelial-archetype]]
 
-## See Also
-
-- [[mycelial-archetype]]
-
-- [[mycelium-running-mycelium-soil-building]]
 - [[mycelium-running-stamets-fungal-ecology-networks]]
 - [[mycorrhizal-networks]]

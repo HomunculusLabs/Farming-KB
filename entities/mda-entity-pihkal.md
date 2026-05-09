@@ -132,18 +132,6 @@ the late 1960's when the psychedelic concept exploded on the public
 scene. MDA was called the "hug-drug" and was said to stand for Mellow
 Drug of America. There was no difficulty in obtaining unending
 quantities of it, as it was available as a research chemical from
-several scientific supply houses (as were [[mescaline-entity]] and LSD) and was
-sold inexpensively under its chemical name.
-A few experimental trials with the pure optical isomers show a
-consistency with all the other psychedelic compounds that have been
-studied in their separated forms, the higher potency with the "R"
-isomer. The less potent "S" isomer seemed to be more peaceful and
-MDMA-like at lower doses, but there were worrisome toxic signs at
-higher levels.
-(Additional commentary available in source.)
-## Safety Notes
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-- [[psychedelic-research-legal-history-united-states]]
-- [[shulgin-future-psychedelics-research-predictions]]
+several scientific supply houses (as were [[psychedelic-research-legal-history-united-states]]
 - [[qualitative-comments-methodology-pihkal]]
 - [[turner-psychedelic-combination-experience-reports]]

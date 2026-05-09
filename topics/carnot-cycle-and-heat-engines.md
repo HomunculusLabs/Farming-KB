@@ -13,8 +13,8 @@ The Carnot cycle is the ideal reversible heat-engine cycle used to define the up
 It describes a theoretical engine operating between a hot reservoir and a cold reservoir.
 The cycle converts part of the heat flowing from high temperature to low temperature into mechanical work.
 Its importance is not that it represents a practical machine, but that it sets a boundary no practical machine can exceed.
-For this reason the Carnot cycle is central to thermodynamics, power engineering, refrigeration, and exergy analysis.
-The cycle was proposed by Nicolas Léonard Sadi Carnot in 1824 in his study of the motive power of fire.
+For this reason the Carnot cycle is central to thermodynamics, power engineering, refrigeration, and [[exergy-analysis]].
+The cycle was proposed by Nicolas Léonard [[sadi-carnot]] in 1824 in his study of the motive power of fire.
 Carnot wrote before the modern energy concept was fully established and still used the caloric theory of heat.
 Despite that obsolete framework, his temperature-based efficiency result survived the transition to modern thermodynamics.
 Later work by Émile Clapeyron, Rudolf Clausius, and William Thomson connected Carnot's argument to pressure-volume diagrams and entropy.

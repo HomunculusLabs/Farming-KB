@@ -8,12 +8,12 @@ sources:
 created: 2026-04-28
 type: concept
 ---
-# [[hamilton-beneficial-insects-and-biological-pest-control]] Balance
+#  Balance
 
 Biological pest control through natural predatomasanobu-fukuokaentral principle
-of [[masanobu-fukuoka]]'s farming system, documented in *The One-Straw Revolution*
+of 's farming system, documented in *The One-Straw Revolution*
 (1978). Rather than eliminating pest insects chemically, Fukuoka demonstrated
-that healthy ecosystems mfungal-parasites-and-predators]] own balance between pests and predators,
+that healthy ecosystems mfungal-parasites-and-predators own balance between pests and predators,
 resulting in minimal crop damage without pesticides. His observations
 challenged modern pest management and revealed the devastating ecological
 consequences of chemical interventions.
@@ -29,7 +29,7 @@ meant that it was not uncommon for a plant disease to sweep through the area,
 leaving the crops in these fields unaffected.
 
 In the neighbour's fields, the weeds had all been wiped out by herbicides and
-cultivation, the soil animals and insects exterminated by poison, and the soil
+cultivation, the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] son, and the soil
 burned clean of organic matter by chemical fertilizers. Farmers worked in the
 fields wearing gas masks and long rubber gloves.
 
@@ -46,10 +46,7 @@ further changes were implemented.
 
 Fukuoka pointed out that while spiders appeared in great numbers that
 particular year, the previous year it was toads, and before that, frogs had
-predominated. There are countless variations in which predators control pest
-populations. Seasons with many spiders are followed by seasons with heavy
-rainfall that causes frogs to displace spiders. Methods of insect control that
-ignore the relationships among insects themselves are truly useless.
+predominated. There are countless variations in which predators [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] e the relationships among insects themselves are truly useless.
 
 ## The Dramatic Spider Phenomenon
 
@@ -59,7 +56,7 @@ as though draped with silk. Waving and sparkling with morning mist, several
 spiders occupied nearly every square inch. In a quarter acre, there must have
 been thousands or millions of spiders. This spectacle lasted only a day or
 two before strands of web several yards long broke off, with five or six
-young spiders clinging to each, sailing off like [[dandelion]] fluff.
+young spiders clinging to each, sailing off like  fluff.
 
 "Seeing this, you understand that poets and artists will also have to join
 the gathering." The phenomenon of these great swarms, which appear in the
@@ -97,24 +94,7 @@ are actually lower.
 ## Selective Reporting Bias
 
 Testing centre reports publish only about half of experimental results.
-Chemical companies advertise increased yields from insect extermination,
-while reduced-yield results are discarded as discrepancies. Both outcomes
-occur, but negative results rarely appear in print, reinforcing the false
-assumption that chemical pest control always improves productivity.
-
-## Natural Predator Communities in Citrus Orchards
-
-In Fukuoka's citrus orchards, mixed plantings of pine, cedar, pear,
-[[persimmon]], loquat, and Australian Morishima [[acacia]] created natural
-predator communities. The acacia proved particularly valuable:
-year-round growth produced buds feeding aphids, sustaining ladybird
-beetle populations. After devouring aphids, ladybirds climbed to
-citrus trees to feed on mites, arrowhead scales, and
-cottony-cushion scales.
-
-The acacia provides hard wood, bee-attracting flowers, animal fodder,
-insect control, windbreak protection, and soil nitrogen through rhizobium
-bacteria. Once thicket was cleared for a managed orchard, damaging insects
+Chemical companies advertise [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] ard, damaging insects
 such as arrowhead scale appeared — the predator community had been
 disrupted. Trees following natural form bear fruit yearly without pruning.
 
@@ -144,6 +124,6 @@ Most people believe abandoning chemicals would devastate yields. Experts
 estimate five percent loss from stopping insecticides, another five from
 abandoning chemical fertilizer. With reduced water use and discontinued
 pesticide spraying, first-year losses would reach about ten percent.
-Nature's recuperative power is beyond imagining — harvests would
-eventually surpass original levels. The more elaborate the
-countermeasures, the more complicated the problems become.
+## See Also
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]

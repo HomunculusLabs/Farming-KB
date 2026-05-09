@@ -122,11 +122,7 @@ prolifically.
 
 ## See Also
 
-- [[malva-sylvestris]]
 - [[althaea-officinalis]]
-- [[portulaca-oleracea]]
 - [[moringa-oleifera]]
-- [[ocimum-sanctum]]
 - [[typha-latifolia-entity]]
-- [[salicornia-europaea]]
 - [[vetiveria-zizanoides]]

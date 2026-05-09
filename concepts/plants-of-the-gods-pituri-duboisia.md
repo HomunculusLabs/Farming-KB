@@ -123,10 +123,7 @@ importance of psychoactive plants in indigenous Australian culture.
 
 ## Related Topics
 
-- [[duboisia-hopwoodii-pituri-ethnobotany]] - detailed profile
 - [[nightshade-plants-entheogen]] - Nightshade family overview
-- [[solanaceous-hallucinogens-pharmacology]] - pharmacology
 - [[betel-nut-arecoline-ethnobotany]] - comparative chewing practices
-- [[hallucinogenic-plants-history-ethnobotany]] - general survey
-- [[entheogenic-plants-and-psychoactive-flora]] - worldwide overview
+- [[gaian-psychotherapy-and-entheogenic-plants]] - worldwide overview
 - [[plants-of-the-gods-nightshade-hexing-herbs]] - related Nightshades

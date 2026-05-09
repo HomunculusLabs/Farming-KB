@@ -121,11 +121,7 @@ successful fungi in colonizing urban environments.
 
 ## Related Concepts
 
-- [[hallucinogenic-plants-history-ethnobotany]]
 - [[psilocybin-mushroom-species-identification]]
-- [[wasson-mycophobia-mycophilia-theory]]
 - [[teonanacatl-history]]
-- [[aztec-mushroom-feasts-and-revelations]]
 - [[allen-magic-mushrooms-australia-newzealand-species-guide]]
-- [[stamets-mushrooms-world-chemistry-potency]]
 - [[sterile-technique-mushroom-cultivation]]

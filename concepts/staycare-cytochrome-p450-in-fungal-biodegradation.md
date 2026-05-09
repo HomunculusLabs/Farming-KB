@@ -131,7 +131,5 @@ technologies.
 
 ## See Also
 
-- [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[fungal-cytochrome-p450-biodegradation]]

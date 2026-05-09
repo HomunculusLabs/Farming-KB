@@ -140,9 +140,10 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 
 ## See Also
 
-- [[mycorrhizal-fungal-diversity]]
 - [[mycorrhizal-types-diversity]]
 
-- [[fungal-diversity-agricultural-systems]]
-
 - [[arbuscular-mycorrhizal-fungal-diversity]]
+
+## See Also
+
+- [[arbuscular-mycorrhizal-colonization-patterns]]

@@ -124,13 +124,8 @@ Numerous Chemdawg 91 crosses exist, including Stardawg,Underdawg, and various Ch
 
 ## See Also
 
-- [[sour-diesel]]
 - [[og-kush]]
-- [[skunk-1]]
 - [[northern-lights]]
-- [[jack-herer]]
 - [[wedding-cake-cannabis]]
-- [[chemdawg]]
 - [[girl-scout-cookies]]
-- [[beta-caryophyllene]]
 - [[myrcene]]

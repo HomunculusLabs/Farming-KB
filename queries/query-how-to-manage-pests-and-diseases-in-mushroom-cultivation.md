@@ -16,26 +16,7 @@ type: query
 
 Managing pests and diseases is one of the most critical skills in mushroom
 cultivation. A single contamination event can destroy weeks of work, making
-prevention far more important than cure. See [[cotter-mushroom-pests-diseases]]
-for a comprehensive overview of all threat categories.
-## Core Principle: Prevention Over Cure
-
-The single most effective strategy is to prevent problems before they start.
-Once a contaminant or pest is established, eradication becomes exponentially
-harder. Build your workflow around hygiene, environmental control, and early
-detection. Establish a strict routine: sanitize before every session, quarantine
-new materials, and never open contaminated containers inside your grow area.
-
-## Common Fungal Contaminants
-
-### Trichoderma (Green Mold)
-
-Trichoderma is the most notorious contaminant in mushroom cultivation. It
-appears as fast-spreading green patches on substrate and can outcompete
-mycelium rapidly. Early signs include white, fluffy growth that quickly turns
-green as spores mature. It thrives in overly wet substrates and insufficiently
-sterilized grain. Infected jars should be discarded immediately. For detailed
-identification and treatment, consult [[trichoderma-forest-green-mold-guide]].
+prevention far more important than cure. See [[trichoderma-forest-green-mold-guide]].
 
 ### Yeasts and Other Molds
 
@@ -72,23 +53,7 @@ spores and bacteria between grows. Yellow sticky traps placed at substrate level
 catch adults before they lay eggs. Biological controls such as beneficial
 nematodes (Steinernema feltiae) can target larvae in the substrate. Paul
 Stamets provides detailed integrated pest management strategies in
-[[mushroom-pests-insect-control-stamets]].
-
-### Springtails and Mites
-
-Springtails are tiny jumping insects that feed on mycelium and can appear in
-large numbers. Mites are microscopic and often indicate the presence of another
-contaminant they are feeding on. Both are best controlled through substrate
-hygiene and environmental management rather than chemical means. Freezing
-substrate ingredients before use can help reduce mite populations.
-
-## Disease Organisms
-
-### Botrytis cinerea (Gray Mold)
-
-Botrytis causes fuzzy gray mold on mushroom surfaces and can lead to soft rot,
-favored by cool, humid conditions with stagnant air. Infected mushrooms become
-water-soaked and collapse within days. See [[botrytis-cinerea]] for
+[[botrytis-cinerea]] for
 identification details and targeted management approaches.
 
 ### Dry Bubble (Verticillium)
@@ -106,17 +71,7 @@ Proper substrate preparation is your first line of defense. Grain spawn
 requires full sterilization (121 degrees C at 15 PSI for 60 to 90 minutes) to
 eliminate resilient endospores. Bulk substrates use pasteurization (60 to 80
 degrees C for 1 to 2 hours) to kill competitors while preserving beneficial
-microorganisms. See [[pasteurization-vs-sterilization]] for a thorough
-comparison of methods and when to apply each technique.
-
-### Laminar Flow Hoods and Clean Work
-
-All inoculation and transfer work should be performed in a still air box or
-under a laminar flow hood. A properly maintained HEPA filter removes 99.97
-percent of particles 0.3 microns and larger. Sanitize work surfaces with 70
-percent isopropyl alcohol before and after every session. Wear gloves and a
-mask, and flame-sterilize tools between uses. Refer to
-[[laminar-flow-hood-guide]] for setup and maintenance best practices.
+microorganisms. See [[laminar-flow-hood-guide]] for setup and maintenance best practices.
 
 ## Environmental Controls
 
@@ -145,6 +100,6 @@ or hydrogen peroxide. Contaminated grain spawn should always be discarded.
 Severely infected blocks should be removed from the grow space entirely and
 composted or disposed of responsibly.
 
-For broader context on identifying and preventing problems across all stages of
-cultivation, see [[contaminant-identification-and-prevention]]. Combining the
-practices outlined here with vigilant observation will dramatically reduce
+## See Also
+
+- [[query-how-do-i-prevent-and-manage-plant-diseases-organically]]

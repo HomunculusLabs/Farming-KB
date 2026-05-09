@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, sustainability, foraging]
-sources: [raw/papers/cancer-treatments-medicinal-mushrooms.md]
+sources: []
 ---
 
 # Chaga (Inonotus obliquus)
@@ -19,7 +19,7 @@ Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk me
 
 - **Betulin and betulinic acid:** Triterpenes derived from the birch tree host. Betulinic acid has demonstrated anti-tumor, anti-inflammatory, and antiviral properties in research.
 - **Melanin:** The dark black exterior of chaga is essentially concentrated melanin, providing potent antioxidant and radioprotective effects.
-- **[[beta-glucans]] (polysaccharides):** Immune-modulating compounds, though at lower concentrations than turkey tail or reishi.
+- **Beta-glucans (polysaccharides):** Immune-modulating compounds, though at lower concentrations than turkey tail or reishi.
 - **Superoxide dismutase (SOD):** Enzyme with powerful antioxidant activity.
 - **Inotodiol:** Triterpene specific to Inonotus species with anti-inflammatory and anti-tumor activity.
 - **Polyphenols:** Including vanillic acid, syringic acid, and protocatechuic acid.
@@ -114,7 +114,7 @@ This is critical — chaga is extremely slow-growing:
 - Take no more than 20-30% of the visible conk. Leave the majority to continue growing and allow the tree to survive.
 - Leave at least 2-3 inches of chaga attached to the tree.
 - Never harvest from the same tree more than once every 3-5 years.
-- Do not harvest the rare sterile conk from trees that also show fruiting bodies ([[inonotus-obliquus]] fruiting bodies indicate the tree is dying).
+- Do not harvest the rare sterile conk from trees that also show fruiting bodies (Inonotus obliquus fruiting bodies indicate the tree is dying).
 
 ## Sustainability Concerns
 

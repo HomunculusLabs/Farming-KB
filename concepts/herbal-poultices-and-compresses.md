@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 # Herbal Poultices and Compresses
@@ -71,19 +72,13 @@ Always clean the skin before applying poultices or compresses to prevent introdu
 
 Some individuals may be allergic to specific plants. When using a plant for the first time, apply a small amount to the inner arm and wait 15 to 30 minutes to check for allergic reaction before applying a full poultice.
 
-Discontinue use if redness, itching, or worsening of the condition occurs. Seek medical attention for wounds that are deep, large, or show signs of serious infection (increasing redness, swelling, heat, red streaks, fever). See [[herbal-first-aid]] for comprehensive first aid guidance and [[herbal-medicine-safety]] for general safety principles.
+Discontinue use if redness, itching, or worsening of the condition occurs. Seek medical attention for wounds that are deep, large, or show signs of serious infection (increasing redness, swelling, heat, red streaks, fever). See [[herbal-medicine-safety]] for general safety principles.
 
 ## Related Topics
 
-- [[herbal-first-aid]] — Comprehensive herbal first aid
 - [[herbal-salves-and-balms]] — Oil and wax-based topical preparations
 - herbal poultices and compresses — Herbs for wound care and skin conditions
-- [[herbal-medicine-preparation-methods]] — Overview of all preparation types
 - [[herbal-baths-and-hydrotherapy]] — Immersion-based herbal therapies
-- [[herbal-formulation-principles]] — Dosing for topical and internal preparations
-- herbal poultices and compresses
-
-## Merged: Herbal Liniments
-Liniments are liquid topical preparations applied to the skin for relief of muscle pain, joint pain, stiffness, sprains, strains, and circulatory conditions. Unlike salves and creams, liniments are liquid and designed to be rubbed into the skin, combining the therapeutic effects of the herbs with the mechanical benefits of massage. See herbal poultices and compresses for compress techniques. See [[herbal-first-aid]] for first aid applications of liniments, [[herbal-salves-and-balms]] for related topical preparations, and [[herbal-medicine-safety]] for general safety principles. - [[herbal-first-aid]] — Acute injury treatment - [[herbal-salves-and-balms]] — Semi-solid topical preparations - herbal poultices and compresses — Poultice and compress applications - [[herbal-medicine-preparation-methods]] — Overview of all preparation types - [[herbal-formulation-principles]] — Anti-inflammatory herbs for liniments - herbal poultices and compresses — Topical herbs for skin conditions
+- [[herbal-first-aid]] for first aid applications of liniments, [[herbal-medicine-safety]] for general safety principles. - [[herbal-salves-and-balms]] — Semi-solid topical preparations - herbal poultices and compresses — Poultice and compress applications - [[herbal-formulation-principles]] — Anti-inflammatory herbs for liniments - herbal poultices and compresses — Topical herbs for skin conditions
 ## Merged: Skin And Wound Healing Herbs
-Herbal medicine offers an extensive pharmacopoeia for skin conditions and wound care. Many medicinal plants have been used topically for millennia to treat wounds, burns, rashes, infections, inflammation, and various dermatological conditions. See [[calendula-salve-making]] for specific preparation instructions. See herbal poultices and compresses for poultice preparation methods. - [[calendula-salve-making]] — Specific calendula salve recipes - [[herbal-salves-and-balms]] — Topical preparation methods - herbal poultices and compresses — Poultice and compress techniques - [[herbal-first-aid]] — Comprehensive herbal first aid - [[herbal-formulation-principles]] — Systemic anti-inflammatory support - [[herbal-medicine-preparation-methods]] — Antimicrobial herbs for wound care - [[liver-and-detoxification-herbs]] — Internal support for skin conditions
+Herbal medicine offers an extensive pharmacopoeia for skin conditions and wound care. Many medicinal plants have been used topically for millennia to treat wounds, burns, rashes, infections, inflammation, and various dermatological conditions. See [[calendula-salve-making]] — Specific calendula salve recipes - [[herbal-first-aid]] — Comprehensive herbal first aid - [[herbal-medicine-preparation-methods]] — Antimicrobial herbs for wound care - [[liver-and-detoxification-herbs]] — Internal support for skin conditions

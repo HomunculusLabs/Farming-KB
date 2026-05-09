@@ -110,11 +110,7 @@ Genetic engineering efforts have produced camelina lines with enhanced omega-3 c
 
 ## See Also
 
-- [[helianthus-annuus-entity]] — Sunflower, alternative oilseed crop
 - [[carthamus-tinctorius]] — Safflower, drought-tolerant oilseed for comparison
-- [[lupinus-albus]] — White lupin, another low-input protein crop
 - [[robinia-pseudoacacia]] — Black locust, nitrogen-fixing companion tree
-- [[ricinus-communis-entity]] — Castor bean, non-edible oilseed for comparison
 - [[glycine-max-soybean-permaculture]] — Soybean, major oilseed rotation partner
-- [[crotalaria-juncea]] — Sunn hemp, tropical cover crop for comparison
 - [[trifolium-repens]] — White clover, temperate cover crop legume

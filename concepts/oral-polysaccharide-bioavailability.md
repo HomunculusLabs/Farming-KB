@@ -88,17 +88,10 @@ The bioavailability differences among mushroom compounds have direct practical c
 For cancer prevention through dietary mushroom intake, the oral bioavailability of mushroom polysaccharides is essential, as prevention requires long-term consistent intake that is only practical through oral consumption.
 
 ## See Also
-- [[mushroom-polysaccharide-extraction-chemistry]]
 - [[psk-psp-polysaccharide-peptides]]
-- [[staycare-bioavailability-pollutants-fungal-bioremediation]]
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[medicinal-mushroom-dietary-supplements]]
-
 - [[psk-gastric-cancer-clinical-trials]]
-- [[psp-phase-clinical-trials]]
 - [[beta-glucan-receptor-binding]]
-- [[mushroom-adjunct-immunotherapy-combinations]]
 - [[cancer-prevention-dietary-mushroom-intake]]
-- [[fungal-pah-degradation-mechanisms]]
 - [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[agaricus-blazei-murill-research]]

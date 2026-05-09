@@ -109,15 +109,10 @@ Companion planting with *B. monnieri* works well alongside other wetland medicin
 
 ## See Also
 
-- [[bacopa-monnieri-detailed]]
+- bacopa monnieri
 
-- [[panax-ginseng]]
 - [[ocimum-sanctum]]
-- [[withania-somnifera]]
 - [[eleutherococcus-senticosus]]
-- [[schisandra-chinensis]]
 - [[rhodiola-rosea]]
-- [[curcuma-longa]]
 - [[zingiber-officinale]]
-- [[glycyrrhiza-glabra]]
 - [[centella-asiatica]]

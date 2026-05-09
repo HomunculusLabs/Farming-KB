@@ -16,7 +16,7 @@ Primary microplastics are manufactured at small size for use in personal care pr
 
 Bioremediation of microplastics focuses on the biological degradation of common plastic polymers including polyethylene (PE), polypropylene (PP), polyethylene terephthalate (PET), polystyrene (PS), and polyvinyl chloride (PVC).
 
-This topic complements the fungal-specific discussions in [[brown-rot-fungi-biodegradation]] and [[mycoremediation-of-plastics]].
+This topic complements the fungal-specific discussions in [[mycoremediation-of-plastics]].
 
 ## The Microplastics Problem
 
@@ -48,11 +48,7 @@ The plastisphere microbial community differs from the surrounding environmental 
 
 Fungi are among the most effective microorganisms for plastic degradation because their mycelial network can penetrate and colonize plastic surfaces, their hyphal tips apply mechanical force, and their extracellular enzymes can attack polymer chains.
 
-[[brown-rot-fungi-biodegradation]] provides comprehensive coverage of fungal mechanisms for plastic biodegradation.
-
-White-rot fungi such as Phanerochaete chrysosporium degrade polyethylene through the action of ligninolytic enzymes and the Fenton reaction, which generates hydroxyl radicals that oxidize and fragment polymer chains.
-
-The [[fungal-biodeterioration-biodegradation]] mechanisms involved in natural substrate decomposition are co-opted for synthetic polymer degradation.
+[[fungal-biodeterioration-biodegradation]] mechanisms involved in natural substrate decomposition are co-opted for synthetic polymer degradation.
 
 Penicillium simplicissimum has demonstrated the ability to degrade polyethylene with molecular weights between 4,000 and 28,000 daltons, reducing the mechanical strength and weight of plastic films.
 
@@ -64,25 +60,7 @@ Phanerochaete chrysosporium attached to polyamide-6 fibers reduced the polymer's
 
 Resinicium bicolor has been identified as the most effective fungus for detoxification of ground waste tire rubber material prior to devulcanization.
 
-[[fungal-cytochrome-p450-biodegradation]] describes the role of cytochrome P450 enzymes in the oxidative degradation of plastic polymers and associated additives.
-
-## Enzymatic Plastic Degradation
-
-Specific enzymes have been identified that can depolymerize synthetic plastics, with PET degradation being the most advanced area of enzyme-based plastic bioremediation.
-
-PETase, discovered in Ideonella sakaiensis, is a cutinase-like enzyme that hydrolyzes the ester bonds in PET, producing mono(2-hydroxyethyl) terephthalic acid (MHET) and terephthalic acid.
-
-MHETase, a companion enzyme also from I. sakaiensis, further hydrolyzes MHET to terephthalic acid and ethylene glycol, completing the PET depolymerization.
-
-Protein engineering of PETase has produced variants with enhanced activity and thermal stability, bringing enzyme-based PET recycling closer to practical application.
-
-Cutinases from various fungal sources, including Thermobifida fusca and Humicola insolens, also show PET-degrading activity.
-
-Lipases and esterases from fungal and bacterial sources can hydrolyze ester bonds in various synthetic polymers, including polycaprolactone, polylactic acid, and polyurethane.
-
-Laccase and manganese peroxidase can oxidize plastic surfaces, introducing oxygen-containing functional groups that increase hydrophilicity and susceptibility to further enzymatic or hydrolytic degradation.
-
-The [[enzyme-based-bioremediation]] page provides broader coverage of enzyme applications for environmental pollutant degradation.
+[[enzyme-based-bioremediation]] page provides broader coverage of enzyme applications for environmental pollutant degradation.
 
 ## Bacterial and Consortia-Based Degradation
 
@@ -110,9 +88,5 @@ Standardized methods for measuring and reporting plastic biodegradation rates ar
 
 Scaling laboratory degradation results to environmental conditions requires better understanding of how environmental variables including temperature, nutrient availability, and microbial community composition affect degradation rates.
 
-[[mycoremediation-scale-up-challenges]] describes the general challenges of scaling fungal remediation systems that apply to microplastic treatment.
-
-The ecological impacts of plastic degradation intermediates, including nanoplastics and oligomers, must be assessed to ensure that bioremediation does not create new environmental hazards.
-
-[[bioremediation-monitoring-and-assessment]] approaches for microplastic remediation include measurement of plastic mass loss, molecular weight reduction, surface chemistry changes, and formation of degradation products.
+[[mycoremediation]] approaches for microplastic remediation include measurement of plastic mass loss, molecular weight reduction, surface chemistry changes, and formation of degradation products.
 - [[fungal-ligninolytic-enzymes-in-industrial-applications]]

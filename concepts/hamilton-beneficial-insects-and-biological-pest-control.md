@@ -131,12 +131,7 @@ as adding more or less is wasteful.
 
 ## Related
 
-- [[savory-biological-pest-control-and-succession]] Concepts
-
 - [[hamilton-organic-pest-control]]
-- [[hamilton-companion-planting-techniques]]
 - [[hamilton-wildlife-gardening-biodiversity]]
-- [[hamilton-organic-approved-chemical-sprays]]
 - [[hamilton-garden-ponds-and-aquatic-plants]]
-- [[hamilton-deep-bed-system]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]

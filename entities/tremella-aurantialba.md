@@ -36,36 +36,14 @@ sources:
 - Closely related to snow fungus (T. fuciformis) and wood ear (Auricularia spp.)
 
 ## Morphology
-### Fruiting Body
-- Gelatinous, brain-like to foliose, sometimes lobed; 3–12 cm across, 1–4 cm thick
-- **Fresh:** Bright golden-yellow to orange, translucent when thin; soft, fleshy-gelatinous
-- **Dried:** Dark amber to reddish-brown, shriveled, leathery; brittle
-- Surface smooth to finely wrinkled (cerebriform); margin irregular, undulating
-- Odor mild, slightly fruity; taste mildly sweet, mucilaginous
-### Microscopic Features
-- Basidia globose to subglobose, 12–16 μm, cruciate-septate
-- Basidiospores allantoid (sausage-shaped), hyaline, smooth, 7–10 × 4–5 μm
-- Hyaline cells globose, thin-walled, numerous in context
-### Identification
-- Golden color distinguishes from pale-white T. fuciformis; softer than Auricularia
-- Always found in association with Stereum host fungus on wood
-
-## Habitat and Ecology
-- **Growth habit:** Obligate parasite of Stereum hirsutum and related Stereum spp.
-- **Host:** S. hirsutum (hairy stereum), a bracket wood-decay fungus
+### [[fungal-wood-decay-types-white-rot-brown-rot]]*Host:** S. hirsutum (hairy stereum), a bracket wood-decay fungus
 - **Substrate:** Hardwood logs/stumps — oak, walnut, poplar, willow, beech
 - **Lifecycle:** Tremella hyphae penetrate Stereum mycelium within wood; cannot complete lifecycle without host
 - **Season:** Autumn (Sep–Nov), after prolonged wet periods
 - **Conditions:** Humidity >85%, 15–22°C, shade; elevation 1,000–3,500 m
 - **Forests:** Temperate broadleaf, mixed, subtropical montane
 
-## Distribution
-- **China:** Yunnan (primary), Sichuan, Tibet, Fujian, Guizhou, Hubei, Shanxi, Gansu
-- **East Asia:** Japan (Honshu, Shikoku, Kyushu), Korea (rare), Taiwan
-- **Himalayas:** Nepal, Bhutan, N. India (Sikkim, Arunachal Pradesh)
-- **SE Asia:** N. Myanmar, N. Vietnam, N. Thailand
-- **Elsewhere:** Rare in Pacific NW and Appalachian N. America; very rare in Europe
-- **Introduced range:** Occasionally cultivated outdoors in Europe and North America
+## Distrib [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]]
 
 ## Edibility and Culinary Use
 - Highly prized delicacy in Chinese cuisine; ¥200–500/kg dried (2024)
@@ -77,12 +55,7 @@ sources:
 ## Traditional Chinese Medicine
 - **Classification:** Tonic (补品); sweet (甘), neutral (平); Lung/Kidney/Stomach meridians
 - Documented since Ming Dynasty
-- **Indications:** Chronic cough, excessive phlegm, dry throat; fatigue, convalescence; Yin deficiency (night sweats, dry mouth, dizziness); immune support
-- **Contraindications:** Acute febrile illness, GI damp-heat
-- **Dosage:** 6–15 g dried in decoction
-
-## Bioactive Compounds
-- **TAP (T. aurantialba polysaccharides):** Heteroglycans, (1→3)-β-D-glucan backbone, (1→6)-β branches; MW 50–800 kDa; 8–12% dry weight; water-soluble
+- **Indications:** Chronic cough, excessive phlegm, dry throat; fatigue, co [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] e, (1→6)-β branches; MW 50–800 kDa; 8–12% dry weight; water-soluble
 - **Polyphenols:** Flavonoids, phenolic acids — antioxidant activity
 - **Triterpenoids:** Cytotoxic, anti-inflammatory properties
 - **Ergosterol:** 0.5–1.2% dry weight; converts to vitamin D2 with UV exposure
@@ -116,7 +89,6 @@ sources:
 
 ## See Also
 
-- [[auricularia-auricula]]
 - [[biological-efficiency]]
 - [[ergosterol]]
 - Naematelia aurantialba (alternate basionym in some classifications)

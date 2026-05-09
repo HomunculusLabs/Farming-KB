@@ -139,8 +139,6 @@ beautiful forms.
 
 ## See Also
 
-- [[cryptococcus-neoformans]]
 - [[endophytic-fungal-diversity]]
-- [[dematiaceous-fungi-melanin-fungal-ecology]]
 - [[lichen-biology-guide]]
 - [[wood-decay-fungi]]

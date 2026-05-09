@@ -124,9 +124,6 @@ print, lack of bluing, and rusty brown gills.
 
 ## See Also
 
-- [[psilocybe-cyanescens]]
 - [[psilocybe-azurescens]]
-- [[psilocybe-baeocystis]]
-- [[psilocybin-compound]]
-- [[baeocystin]]
+- [[psilocybin]]
 - [[psilocin]]

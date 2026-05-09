@@ -96,13 +96,7 @@ The book expresses confidence that Dr. Cho's revolutionary IMO technology will o
 
 ## See Also
 
-- [[cho-han-kyu-life-and-philosophy]]
 - [[knf-teaching-methodology]]
-- [[knf-economic-benefits]]
 - [[knf-large-scale-farming]]
-- [[knf-vs-chemical-farming-comparison]]
-
-Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Preface, Forward, Chapter 1.
 - [[fukuoka-soil-self-improvement-without-tillage]]
-- [[jadam-making-organic-farming-inputs]]
 - [[natural-farming-food-philosophy]]

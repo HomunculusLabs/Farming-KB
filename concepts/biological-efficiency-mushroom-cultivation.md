@@ -1,7 +1,7 @@
 ---
 title: Biological Efficiency in Mushroom Cultivation
 created: 2026-04-28
-tags: [mycology, cultivation, metrics, fungi]
+tags: [[mycology, cultivation, metrics, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -29,13 +29,9 @@ Different mushroom species achieve characteristically different biological
 efficiencies under optimal conditions:
 | Species | Typical BE Range |
 |---------|-----------------|
-| [[pleurotus-ostreatus]] | 60-100% |
 | [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] | 80-130% |
-| [[pleurotus-pulmonarius]] | 70-120% |
 | [[pleurotus-eryngii]] | 40-80% |
-| [[pleurotus-citrinopileatus]] | 50-90% |
 | [[agaricus-bisporus]] | 60-100% |
-| [[lentinula-edodes]] | 30-50% |
 | [[volvariella-volvacea]] | 20-40% |
 Oyster mushrooms generally achieve the highest BE values among cultivated
 species, reflecting their efficient enzymatic degradation of
@@ -92,21 +88,7 @@ Yield per unit growing area or volume, critical for operations where
 space is the primary constraint.
 ### Time Efficiency
 Yield per unit time from inoculation to final harvest. Fast-cycling
-species like [[pleurotus-pulmonarius]] (total cycle: 30-45 days) may
-outperform higher-BE but slower species in annual productivity.
-## Improving Biological Efficiency
-Research-driven approaches to improving BE include:
-- **Optimized supplementation timing**: Delayed supplementation can
-  improve BE while reducing contamination risk
-- **Enzyme pretreatment**: Cellulase and xylanase pretreatment improves
-  substrate digestibility and BE
-- **Spent substrate recycling**: Using spent mushroom substrate as a
-  supplement or component in new substrate batches
-- **Controlled environment agriculture**: Precision management of all
-  environmental parameters through automated systems
-- **Strain improvement**: Breeding and genetic selection for yield traits
-## Typical BE Values by Substrate
-For [[pleurotus-ostreatus]], common substrate BE values include:
+species like [[pleurotus-ostreatus]], common substrate BE values include:
 | Substrate | BE Range |
 |-----------|----------|
 | Wheat straw | 60-100% |
@@ -117,10 +99,7 @@ For [[pleurotus-ostreatus]], common substrate BE values include:
 | Cotton waste | 70-110% |
 Values represent typical ranges under reasonable conditions.
 ## See Also
-- [[nineteenth-century-mushroom-cultivation]]
 - [[mushroom-cultivation]]
-- [[cotter-oyster-mushroom-cultivation]]
 - [[oyster-mushroom-cultivation-methods]]
-- [[oyster-mushroom-species]]
 - [[mushroom-substrate-preparation]]
 - [[mushroom-spawn-production]]

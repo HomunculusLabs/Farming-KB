@@ -19,10 +19,6 @@ type: concept
 Siderophores are high-affinity iron-chelating compounds produced by
 fungi, bacteria, and some plants to scavenge iron from environments where
 this essential element is biologically unavailable. In the context of
-[[mycoremediation-pahs]], fungal siderophores play dual roles: they enhance
-iron nutrition for the fungal and plant partners while simultaneously
-competing with pathogenic microorganisms for this limiting resource.
-Singh's coverage of siderophore biology highlights their importance in
 [[singh-fungal-plant-growth-promoting-mechanisms]] and
 soil microbial ecology.
 
@@ -79,22 +75,7 @@ Siderophore production is a key mechanism of biological control. Fungi
 that secrete high-affinity siderophores can sequester environmental iron
 to levels too low for competing microorganisms to grow, a strategy known
 as competitive exclusion. In the rhizosphere, mycorrhizal fungi and
-their associated [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]] collectively deplete available iron,
-suppressing populations of pathogenic fungi and bacteria that require
-free iron for virulence. Some fungal siderophores also have direct
-antimicrobial properties beyond iron deprivation.
-
-## Iron Availability and Soil Conditions
-
-Soil pH, organic matter content, and redox potential strongly influence
-both siderophore production and effectiveness. In calcareous soils with
-high pH, iron deficiency is most acute and siderophore production is
-correspondingly elevated. Waterlogged conditions that reduce Fe3+ to
-more soluble Fe2+ decrease the selective advantage of siderophore
-production. Organic matter can both supply complexed iron and bind
-siderophores, creating a dynamic equilibrium. Understanding these soil
-factors is critical for applying siderophore-producing fungi in
-agricultural and [[pah-bioremediation]] contexts.
+their associated [[pah-bioremediation]] contexts.
 
 ## Siderophores in Heavy Metal Chelation
 
@@ -117,21 +98,6 @@ can deliver up to 90 percent of a plant's iron requirements under
 deficient conditions. The siderophore-mediated iron transfer occurs
 across the fungal-plant interface, likely involving reduction of Fe3+
 at the peri-arbuscular membrane. This nutritional benefit is one of the
-key components of [[singh-fungal-plant-growth-promoting-mechanisms]].
-
-## Detection and Quantification Methods
-
-Standard assays for fungal siderophore production include the chrome
-azurol S (CAS) universal assay, which detects siderophore activity by
-color change, and Arnow's test specific for catecholate types.
-Hydroxamate siderophores can be detected with the tetrazolium salt assay
-or by Csaky's test. Modern analytical methods include HPLC and mass
-spectrometry for structural identification and quantification of
-specific siderophore species from fungal culture filtrates.
-
-## See Also
-
-- [[singh-fungal-plant-growth-promoting-mechanisms]]
-- [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]]
+key components of [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[singh-wood-rot-fungi-structural-timber-decay]]
 - [[mycoremediation-pahs]]

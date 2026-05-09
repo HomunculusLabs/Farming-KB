@@ -3,18 +3,7 @@ title: Mycorrhizal Mushrooms in Forest Partnerships (Stamets)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources:
-  - "raw/papers/mycelium-running-stamets.md"
----
-
-Updated: 2026-04-18
-
-## Overview
-
-Mycorrhizal mushrooms form mutually beneficial relationships with the roots of trees and other plants, creating vast underground networks that connect individual trees and even different species across entire forest ecosystems. [[mycopesticides-stamets]]' "Mycelium Running" documents the remarkable biology of these partnerships and their implications for forest ecology and [[mycoforestry-principles-stamets]].
-
-Source: [[mycelium-running-techniques]]
+tags: [[mycopesticides-stamets]]' "Mycelium Running" documents the remarkable biology of these partnerships and their implications for forest ecology and [[mycelium-running-techniques]]
 
 ***
 
@@ -24,10 +13,7 @@ Source: [[mycelium-running-techniques]]
 
 Ectomycorrhizal fungi form exterior sheaths around the roots of partner plants:
 - The mycelium grows beyond the plant's roots, dramatically extending the absorption zone
-- Surface area of [[mycorrhizal-fungi]] may be **10 to 100 times greater** than the surface area of leaves in a forest
-- The mycelium brings distant nutrients and moisture to the host plant
-- The plant provides sugars (mostly hexoses) that the fungi convert to mannitols, arabitols, and erythritols
-- Major ectomycorrhizal mushrooms include matsutake, porcini ([[boletus-edulis-entity]]), chanterelles, and truffles
+- Surface area of [[boletus-edulis-entity]]), chanterelles, and truffles
 
 ### Endomycorrhizal (Arbuscular) Associations
 

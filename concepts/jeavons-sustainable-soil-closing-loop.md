@@ -114,9 +114,6 @@ crops and recycling all organic matter back into the soil.
 
 ## See Also
 
-[[jeavons-grow-biointensive-method-overview]]
 [[jeavons-soil-fertility]]
-[[jeavons-carbon-farming]]
 [[jeavons-calorie-farming]]
-[[jeavons-composting-methods]]
 [[jeavons-diet-design-self-sufficiency]]

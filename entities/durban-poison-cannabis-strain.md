@@ -126,7 +126,9 @@ Durban Poison's relatively short flowering time for a landrace sativa has made i
 
 ## See Also
 
-- [[jack-herer]] — another iconic sativa-dominant strain with similar energizing effects
-- [[blue-dream-cannabis-strain]] — sativa-dominant hybrid with balanced effects
-- [[acdc-cannabis-strain]] — high-CBD, low-THC strain for medical use comparison
+- [[cannabis-blue-dream]] — sativa-dominant hybrid with balanced effects
 - [[gorilla-glue]] — indica-dominant hybrid for contrast with Durban Poison's sativa profile
+
+## See Also
+
+- [[cannabis-sativa-landrace-strains]]

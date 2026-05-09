@@ -17,8 +17,7 @@ type: concept
 # Rice Paddy Integrated Duck Fish System
 
 The integration of rice, ducks, and fish in a single paddy system is one of
-the most refined examples of [[mollison-aquatic-polyculture-systems]] in traditional Asian
-agriculture. Bill Mollison presents this system in the [[permaculture-designers-manual-bamboo]] as a model of how multiple yields can be obtained from a
+the most refined examples of [[permaculture-designers-manual-bamboo]] as a model of how multiple yields can be obtained from a
 single production unit while reducing or eliminating external inputs. The
 rice-duck-fish system exemplifies the permaculture principle of integrating
 multiple elements so that each supports the others.
@@ -125,25 +124,8 @@ populations from chemical toxicity.
 
 ## Design Considerations
 
-Successful integration requires careful [[water-management]]. Deeper refuge
-channels or ponds (50 to 100 cm deep) within the paddy allow fish to
-retreat during drawdown. Water depth of 5 to 15 cm supports duck and fish
-activity while allowing controlled drainage at flowering and harvest. Strong
-paddy bunds retain water, exclude predators, and may be planted with
-leguminous shrubs or vegetables for additional production.
+Successful integration requires careful [[integrated-paddy-rice-and-tree-system]]
 
-## Yield Comparisons
+## See Also
 
-Integrated rice-duck-fish systems produce comparable or superior rice yields
-compared to conventional monoculture, while adding substantial supplementary
-yields of duck eggs, meat, and fish. Total system productivity (total energy
-or protein per hectare) is typically two to three times greater than rice
-monoculture alone.
-
-## Permaculture Significance
-
-Mollison presents the rice-duck-fish system as a demonstration that the
-highest-productivity agricultural systems are not necessarily the most
-simplified ones. By increasing biological complexity and integration,
-total system output rises while external inputs fall. This principle applies
-far beyond rice paddies and is central to [[permaculture-design]] philosophy.
+- [[mollison-designers-duck-pond-integrated-systems]]

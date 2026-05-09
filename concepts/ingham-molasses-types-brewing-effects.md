@@ -13,13 +13,8 @@ type: concept
 ## What Molasses Actually Is
 
 Molasses is mostly simple sugars and some complex sugars, with a
-small amount of [[humic-acids-soil-biology-ingham]], all extracted from the plant. Some of
-the sugar in molasses is denatured during the heating and extraction
-processes used to get sugar from plant material. The denatured
-material condenses, becoming more complex forms of sugars, causing
-the change in color. More complex sugars help [[aact-fungal-dominant-tea]] more than
-[[aact-bacterial-dominant-tea]]. This distinction between bacterial and fungal foods
-is central to the practice of [[actively-aerated-compost-tea]].
+small amount of [[aact-fungal-dominant-tea]] more than
+[[actively-aerated-compost-tea]].
 
 Blackstrap molasses has more condensed forms of sugar, which means
 these forms are more complex and favor fungi more than bacteria.
@@ -68,47 +63,15 @@ rapidly-growing bacteria will be able to grow.
 
 ## Osmotic Effects at High Concentration
 
-As molasses concentration increases, the [[ingham-antibiotics-osmotic-shock-compost-tea]] starts
-coming into play. Beneficial fungi can use the complex sugars without
-competition from rapidly-growing bacteria. The brew will not go
-anaerobic if the sugar concentration is high enough. At about 15%
-to 20% molasses, osmotic shock begins to exceed what anything can
-tolerate. Adding large amounts of molasses to your sprayer tank is
-acceptable because high concentration of sugar prevents the bad guys
-from growing through osmotic shock.
-
-## Molasses as a Sticker-Spreader
-
-Molasses can serve as a [[ingham-sticker-spreader-surfactants]] at the right concentrations. At 5%,
-molasses sticks quite well and can give you some good [[aact-fungal-dominant-tea]]
-at the same time. Use unsulphured molasses without any preservative.
-Both sulfur and benzoate are preservatives and they work. If your
-molasses has these additives, they will suppress the very organisms
-you are trying to grow.
-
-## Vinegar in Molasses
-
-A little vinegar may be present in some molasses. Vinegar is a food
-for some bacteria, so its presence can be used by quite a few
-species. It is when you get production of vinegar in tea, because
-it is only produced by microbial growth under anaerobic conditions,
-that it is not a good thing. In high concentration, vinegar can
-become a sterilizer or preservative. The amount present is critical.
-
-## Sugars in Brewing
-
-Simple sugars favor bacteria, as long as there are other sources of
-nitrogen and micronutrients available. If there is no nitrogen
-available, addition of pure simple sugar will shut down everything.
-This mirrors the broader dynamics described in [[bacterial-vs-fungal-soil]].
+As molasses concentration increases, the [[ingham-sticker-spreader-surfactants]] at the right concentrations. At 5%,
+molasses sticks quite well and can give you some good [[bacterial-vs-fungal-soil]].
 White sugar is refined and typically nearly only sucrose. You want
 more diverse foods in order to feed a wider diversity of bacteria.
 The only sugar to add to tea is molasses, because it contains a
 wide diversity of kinds of sugars and some recalcitrant kinds of
-sugar that help [[aact-fungal-dominant-tea]] grow. See also [[aact-brewing-ingredients-ingham]].
+sugar that help [[aact-brewing-ingredients-ingham]].
 
-For troubleshooting molasses-related issues in brewing, see [[aact-troubleshooting-ingham]].
-For food safety concerns when brewing with molasses, see [[aact-pathogen-safety-ingham]].
+For troubleshooting molasses-related issues in brewing, see [[aact-pathogen-safety-ingham]].
 
 ## Sulphured vs. Unsulphured Molasses
 
@@ -147,4 +110,3 @@ hydrolysate provides nitrogen and complex proteins that complement
 the sugars in molasses. Humic acids provide fungal foods that work
 synergistically with the more complex sugars in blackstrap molasses.
 Kelp adds trace minerals and natural growth regulators. The
-combination creates a more balanced food package that supports a

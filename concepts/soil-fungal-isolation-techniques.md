@@ -85,13 +85,9 @@ Discourage practice of taking only "different-looking" colonies arbitrarily. Str
 
 ## See Also
 
-- [[gadd-fungal-imaging-techniques]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 
-- [[saprobic-soil-fungi-ecology-survey]]
 - [[fungal-culture-preservation-methods]]
-- [[endophyte-sampling-methods]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[particle-filtration-dilution-plating-microfungal-isolation]]
 - [[bark-beetle-fungi-ophiostomatales-collection-isolation]]

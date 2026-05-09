@@ -3,7 +3,7 @@ title: Fungi in Stressful Environments
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungi in Stressful Environments
@@ -79,20 +79,7 @@ Phoenicoid (pyrophilous) fungi are specialized primarily Ascomycota and Basidiom
 Stress-tolerant fungi hold promise for:
 
 - Novel industrial applications
-- [[fungal-bioremediation]] and biocontrol agents
-- Their stress-adapted enzymes and the genes encoding them
-- Selection for ecological research or industrial development
-
-## Sampling Considerations
-
-Standard media often favor nutrient-rich substratum fungi and may not accurately assess species composition in stressful habitats. The use of more "natural" media that mimic field conditions should improve isolation success. Most current isolation methods are modifications of existing practices, such as incubation at high temperatures or modification of media pH.
-
-## See Also
-
 - [[extremophilic-fungi]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-stress-responses]]
-- [[fungal-environmental-sensing]]
 - [[fungal-roles-in-metal-biogeochemistry]]
-- [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

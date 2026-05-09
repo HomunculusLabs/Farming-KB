@@ -30,21 +30,7 @@ Holzer identifies the destructive cycle of conventional agriculture:
 
 ## Green Manure Method
 
-Green manure is the primary tool for soil regeneration. The correct plants depend on the current state of the soil:
-- Overfertilised areas: use demanding plants to bring nutrients back into balance
-- Contaminated or exhausted soil: care for soil life first, then build humus layer using maximum biomass
-
-### Legumes as Primary Green Manure
-Legumes make the greatest contribution through their symbiotic relationship with Rhizobium bacteria. The bacteria live in root nodules, fixing atmospheric nitrogen and releasing it into the plant's nutrient cycle. In return, bacteria receive carbohydrates. When the plant dies, it rots into nutrient-rich humus, leaving more Rhizobia in the soil than originally present.
-
-Key legume families: peas, beans, clover, lupins. Additional good green manure crops include cabbage varieties, oilseed rape, turnip, sunflower, and buckwheat.
-
-### Holzer's Specific Method
-1. Leave green manure crops standing in autumn (do not cut them down)
-2. First heavy snow pushes down the plants, decomposition begins
-3. Mixed culture plants vary in height and structure, creating "overgrown" appearance
-4. Biomass does not collapse but gets roughly packed together
-5. Air circulation remains good, conditions for soil regeneration are optimal
+Green manure is the primary tool for [[desertification-and-vegetation-loss|soil regeneration]] are optimal
 6. Plants rot slowly through winter, biomass does not compact
 7. Plants ripen, bloom, and produce seeds -- self-seeding eliminates need for reseeding
 8. Many seeds are eaten by birds, stratified in their stomachs, and distributed
@@ -85,12 +71,25 @@ Holzer strongly opposes flail mowers which shred all vegetation to fine material
 
 The foundation for farming is soil fertility. If soil health is always ensured, the farm remains flexible. Holzer emphasises that with his low-work method, he managed to improve poor, dry slope soil to the extent that demanding fruit trees could be grown after only two to three years, transforming slopes into lush orchards.
 
-See also:, [[green-manure-crops]],, [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-method]],
-
-## Related
-
-- [[sepp-holzer-method]]
-- [[soil-building-permaculture]]
+See also:, [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-method]]
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
+## Practical Considerations
+
+Successful implementation of Sepp Holzer Soil Fertility and Green Manure requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

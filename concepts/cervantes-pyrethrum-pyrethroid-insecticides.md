@@ -130,10 +130,7 @@ and seedlings are at least a month old before spraying.
 
 ## See Also
 
-- [[neem-oil-cannabis]] for another organic spray option
 - [[cervantes-pest-disease]] for general pest management
-- [[beneficial-insects-cannabis]] for biological controls
 - [[cervantes-bacillus-thuringiensis-bt-control]] for biological pest
   control
-- [[cervantes-sticky-traps-pest-monitoring]] for physical pest traps
 - [[spider-mites-cannabis]] for specific pest information

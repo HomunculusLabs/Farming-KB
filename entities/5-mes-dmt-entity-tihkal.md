@@ -14,9 +14,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Synonyms: 3-[2-(dimethylamino)ethyl]-5-methylthioindole
 
-- Class: Tryptamine, 5-methylthio substituted (sulfur analogue of [[5-meo-dmt]])
-
-- Source: [[tihkal-introduction-and-methodology]]
+- Class: Tryptamine, 5-methylthio substituted (sulfur analogue of [[tihkal-introduction-and-methodology]]
 
 ## Dosage and Duration
 
@@ -42,10 +40,7 @@ bonding properties. Thioethers (sulfur between carbons) are true analogues
 of ethers (oxygen between carbons), but with different polarity, lipophilicity,
 and pharmacology.
 
-In the [[phenethylamine-tryptamine-comparison]], replacing
-a 4-methoxy group with a 4-methylthio group dramatically increases potency
-(TMA-2 at 20-40 mg vs. Aleph-1 at 5-10 mg). However, the opposite pattern
-appears in tryptamines: replacing the 5-methoxy of [[5-meo-dmt-entity-tihkal]]
+In the [[5-meo-dmt-entity-tihkal]]
 with the 5-methylthio of 5-MeS-DMT actually decreased activity by approximately
 a factor of two.
 
@@ -145,5 +140,5 @@ produce cumulative effects
 ## Legal Status
 
 5-MeS-DMT is not specifically scheduled in most jurisdictions. As a
-dimethyltryptamine with a substituted indole ring, it could potentially
+[[dimethyltryptamine]] with a substituted indole ring, it could potentially
 fall under analogue legislation related to DMT or 5-MeO-DMT. The compound's

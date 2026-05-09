@@ -136,10 +136,6 @@ acetone-washed yeast biomass in lead biosorption.
 
 ## See Also
 
-- [[singh-metal-ion-resistance-fungi]]
-
 - [[singh-fungal-transformation-metals-metalloids]]
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[singh-fungal-biosorption-heavy-metals]]
-- [[singh-uranium-radionuclide-fungal-biosorption]]
 - [[singh-fungal-biosorption-cadmium]]

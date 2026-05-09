@@ -106,14 +106,14 @@ Straw bale building codes exist in several jurisdictions and can guide design:
 - **International Residential Code (IRC):** Appendix S includes prescriptive straw bale construction details (adopted in some US states)
 - **ASTM standards:** ASTM E119 for fire testing of plastered straw bale walls (2-hour rating achieved)
 - **Local permits:** Some areas have no experience with straw bale — provide engineering documentation and reference existing code sections
-- **Tips:** Work with an engineer familiar with [[natural-building]]; use prescriptive code sections where available; document moisture management strategies thoroughly
+- **Tips:** Work with an engineer familiar with natural building; use prescriptive code sections where available; document moisture management strategies thoroughly
 
 ## Common Mistakes
 
 - Using hay instead of straw — pest and mold problems
 - Failing to pre-compress load-bearing walls — settling cracks plaster
 - Inadequate roof overhangs — water damage to walls
-- Plastering before bales are dry — trapped moisture causes [[decomposition]]
+- Plastering before bales are dry — trapped moisture causes decomposition
 - Using impermeable finishes — vapor barriers trap moisture in walls
 - Ignoring foundation moisture protection — wicking from ground rots bottom courses
 
@@ -123,4 +123,3 @@ Straw bale building codes exist in several jurisdictions and can guide design:
 - [[earth-plaster-and-natural-finishes]] for appropriate breathable plaster systems
 - [[timber-frame-basics]] for structural frame options in post-and-beam construction
 - [[rocket-mass-heater-design]]
-- [[how-do-i-choose-between-straw-bale-and-earthbag-construction]]

@@ -76,16 +76,7 @@ CBD's excellent safety profile (no known lethal dose, well-tolerated even at hig
 
 ## Related Topics
 
-- [[cannabis-and-neurological-conditions]]
 - [[blesching-cannabis-alzheimers-disease]]
-- [[cannabis-endocannabinoid-system]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Prion Diseases section
-
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-alzheimers-research]]
-- [[psilocybin-toxicity-and-safety-profile]]
 - [[cannabis-and-ibs-research]]

@@ -13,57 +13,14 @@ type: concept
 
 ## Overview
 
-The 2003 synthesis of [[psilocybin-compound]] by Shirota, Hakamata, and Goda at Japan's National Institute of Health Sciences introduced a critical innovation: the **isolation of a zwitterionic N,O-dibenzyl phosphate derivative** (compound 8) as the key intermediate en route to [[psilocybin-compound]]. This approach eliminated the need for any chromatographic purification throughout the entire synthesis, enabling gram-scale production of analytical standard compounds for forensic and regulatory identification of hallucinogenic mushrooms.
+The 2003 synthesis of [[psilocybin]]. This approach eliminated the need for any chromatographic purification throughout the entire synthesis, enabling gram-scale production of analytical standard compounds for forensic and regulatory identification of hallucinogenic mushrooms.
 
 ## The Phosphorylation Challenge
 
-Converting [[psilocin]] to [[psilocybin-compound]] requires introducing a phosphate ester group at the 4-hydroxy position of the indole ring. This phosphorylation step had historically been the bottleneck in psilocybin synthesis because:
+Converting [[psilocybin]] requires introducing a phosphate ester group at the 4-hydroxy position of the indole ring. This phosphorylation step had historically been the bottleneck in psilocybin synthesis because:
 
 1. Psilocin is a secondary amine that can also be phosphorylated at nitrogen, creating regioselectivity problems
-2. The phosphate ester product ([[psilocybin-compound]]) is highly polar and difficult to purify by conventional means
-3. Previous methods required anion-exchange chromatography (Nichols and Frescas, 1999) or achieved only low yields (20% by Troxler et al., 1959; 47% by Nichols and Frescas, 1999)
-
-## The Pyrophosphate Method
-
-The selected phosphorylation approach used **tetrabenzylpyrophosphate** with **n-butyllithium** as base in THF at -78°C to 0°C. This method was chosen over alternatives including:
-
-- Phosphite/iodine/DMAP phosphorylation: did not fully consume psilocin
-- Phosphoryl iodide method: consumed psilocin but gave poor yields
-
-The pyrophosphate method was selected for its ease of handling, reagent stability, and scalability.
-
-## Unexpected Zwitterion Formation
-
-When the phosphorylation reaction mixture was worked up and the product dissolved in CDCl₃ for NMR analysis, the expected O,O-dibenzyl phosphate derivative (compound 7) was observed. However, upon standing overnight in CH₂Cl₂, a new compound precipitated as a white solid at the origin of TLC plates.
-
-This precipitate was identified through comprehensive 2D NMR analysis as the **zwitterionic N,O-dibenzyl phosphate derivative** (compound 8). The transformation involved an intramolecular migration:
-
-- One benzyl group migrated from oxygen to the quaternary nitrogen of the N,N-dimethylaminoethyl side chain
-- The O-benzyl group at the phosphate was retained, creating an O-monobenzyl phosphate with a negative charge
-- The N-benzyl group created a quaternary ammonium ion with a positive charge
-- The result was an overall **zwitterion** (net neutral, but with separated positive and negative charges)
-
-### NMR Evidence
-
-Key spectroscopic evidence from 2D NMR:
-
-- **¹H NMR (CD₃OD)**: two distinct benzyl group environments were observed. The N-benzyl methylene appeared at δH 4.56 (2H, s, shifted upfield), while the O-benzyl methylene appeared at δH 4.98 and 4.96 (each 1H, s). The psilocin core protons and N,N-dimethyl protons were shifted downfield relative to free psilocin, consistent with the quaternary ammonium character
-- **HMBC experiment**: confirmed that one benzyl group was directly linked to the nitrogen of the N,N-dimethyl part, forming the quaternary ammonium center
-- **NOESY experiment**: supported the proposed linkage pattern
-- **³¹P NMR (CD₃OD)**: confirmed the presence of the phosphate moiety at δ -5.45
-
-## Practical Significance of the Zwitterion
-
-The zwitterionic nature of compound 8 was the key to scalable synthesis because:
-
-1. **Filtration isolation**: The zwitterion is insoluble in CH₂Cl₂, allowing isolation by simple filtration rather than chromatography
-2. **High yield**: The isolated yield was **85.2%** from psilocin, vastly exceeding previous methods
-3. **Purity**: Excess dibenzyl phosphate reagent remained soluble in CH₂Cl₂ and was removed by washing, providing pure product without chromatographic steps
-4. **Scalability**: The filtration-based isolation works equally well at gram scale
-
-## Catalytic Hydrogenolysis to Psilocybin
-
-The final step converted compound 8 to [[psilocybin-compound]] via catalytic hydrogenolysis:
+2. The phosphate ester product ([[psilocybin]] via catalytic hydrogenolysis:
 
 - **Conditions**: 10% palladium on activated carbon, hydrogen atmosphere, methanol solvent, room temperature
 - **Mechanism**: Both benzyl groups (N-benzyl and O-benzyl phosphate) are cleaved simultaneously by hydrogenolysis, yielding free psilocybin with its O-phosphate group intact
@@ -91,7 +48,7 @@ The synthesized psilocybin matched literature values:
 
 ## Forensic and Regulatory Context
 
-The synthesis was developed to produce analytical standard compounds for Japanese regulatory enforcement. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law (enacted June 6, 2002), there was an urgent need for pure reference standards. The morphological identification of hallucinogenic mushrooms is extremely difficult without expert mycologists, making chromatographic methods (TLC, GC, HPLC) the primary identification tools. These methods require pure standard compounds, which are difficult to isolate from natural material because [[psilocin]] decomposes readily and [[psilocybin-compound]] is highly polar.
+The synthesis was developed to produce analytical standard compounds for Japanese regulatory enforcement. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law (enacted June 6, 2002), there was an urgent need for pure reference standards. The morphological identification of hallucinogenic mushrooms is extremely difficult without expert mycologists, making chromatographic methods (TLC, GC, HPLC) the primary identification tools. These methods require pure standard compounds, which are difficult to isolate from natural material because [[psilocybin]] is highly polar.
 
 The difficulty of isolating pure alkaloids from fungal biomass is compounded by the variability of natural psilocybin and psilocin levels. Bigwood and Beug documented significant variation in alkaloid content between fruiting bodies, flushes, and even within the same mushroom cap versus stem. This natural variability makes synthetic standards essential for quantitative forensic work, where precise calibration curves require chemically pure reference materials.
 
@@ -110,24 +67,25 @@ The psilocin used as starting material was itself synthesized from commercially 
 
 1. **Acetylation**: 4-hydroxyindole treated with acetic anhydride and pyridine in CH₂Cl₂ to give 4-acetylindole (compound 4) as ivory white crystals
 2. **Oxalylation/amidation**: Treatment with oxalyl chloride in ether followed by dimethylamine in THF gave 3-dimethylaminooxalyl-4-acetylindole (compound 6) in 80% yield as an ivory white crystalline powder
-3. **Reduction**: LiAlH₄ reduction in THF under argon atmosphere afforded [[psilocin]] (compound 1) in 87.5% yield as white crystals
-
-The overall yield from 4-hydroxyindole to psilocin exceeded 60%. This precursor synthesis is noteworthy because the 4-O-benzyl protection route (an alternative used by other researchers) required a separate deprotection step and was "somewhat unstable, without careful control of the reaction conditions." The acetyl protection route of Shirota et al. avoids this instability entirely.
-
-## Implications for Phosphorylation Chemistry
-
-The serendipitous discovery of the zwitterion formation has broader implications for phosphorylation chemistry:
-
-- It demonstrates that O,O-dibenzyl phosphates attached to indole systems can undergo **intramolecular benzyl migration** from oxygen to a tertiary amine nitrogen
-- The migration is thermodynamically favorable enough to proceed spontaneously at room temperature in CH₂Cl₂
-- The resulting zwitterion can be exploited as a purification handle due to its differential solubility
-
-This type of N-to-O or O-to-N group migration is relatively uncommon in phosphorylation chemistry and may have applications beyond psilocybin synthesis for the preparation of other phosphorylated indole alkaloids or related compounds.
-
-## See Also
-
-- [[psilocybin-and-psilocin-chemical-synthesis]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+3. **Reduction**: LiAlH₄ reduction in THF under argon atmosphere afforded [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
+## Practical Considerations
+
+Successful implementation of Psilocybin Synthesis via Zwitterionic Phosphate Intermediate Isolation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -131,14 +131,9 @@ corydalina* a notable exception within the genus.
 
 ## See Also
 
-- [[psilocybin-compound]]
 - [[psilocin]]
-- [[psilocybe-cyanescens]]
 - [[psilocybe-semilanceata]]
-- [[gymnopilus-luteofolius]]
 - [[pluteus-saliginus]]
-- [[panaeolus-cambodginiensis]]
 - [[mycena-cyanorrhiza]]
-- [[conocybe-cyanopus]]
 - [[baeocystin]]
 - [[norpsilocin]]

@@ -21,41 +21,6 @@ biochar's versatility as a soil amendment capable of serving both productive
 and restorative functions.
 
 ## Biochar in Agriculture
-[[biochar-in-agriculture]]
-Agricultural biochar application focuses on enhancing soil fertility, water
-retention, microbial habitat, and long-term carbon sequestration. The material
-is produced from clean biomass (hardwood chips, fruit tree prunings, crop
-residues, bamboo, rice hulls) through pyrolysis at 400 to 900 degrees C.
-Production methods range from simple cone kilns and TLUD stoves for garden-
-scale use to retort systems for consistent, high-quality output.
-
-A critical step in agricultural use is charging biochar before application.
-Raw biochar has extremely high cation exchange capacity but is essentially an
-empty sponge that can immobilize soil nutrients if applied uncharged,
-potentially creating a temporary nutrient deficiency. The recommended method
-is mixing biochar into compost at 5 to 10% by volume during the composting
-process, which simultaneously pre-loads nutrients and microbial life into the
-biochar's pore structure. Other charging methods include soaking in compost
-tea, vermicomposting with biochar in worm bedding, and in situ field charging
-by applying biochar with a compost layer on top.
-
-Application rates for agriculture are moderate: 5 to 10% by volume for new
-garden beds (about 1/2 to 1 inch mixed into the top 6 inches), 1 to 2% as an
-annual top-dress, or 1 to 5 tons per acre for field crops. Higher rates are
-justified on degraded soils, particularly sandy soils where biochar
-dramatically improves water and nutrient retention by 10 to 30%. Biochar is
-least useful in organic soils that already have excellent water and nutrient
-retention.
-
-The primary agricultural benefits include improved water retention, enhanced
-nutrient holding through CEC (adsorbing ammonium, potassium, calcium, and
-magnesium), creation of microbial habitat (biochar pores protect bacteria,
-fungi, and protozoa from predation and desiccation), pH buffering (raising
-soil pH by 0.2 to 1.0 units), and permanent carbon sequestration (biochar
-persists for hundreds to thousands of years). The carbon sequestration benefit
-at 5 tons per acre represents approximately 9 tons of CO2 equivalent.
-
-## Biochar for Soil Remediation
 [[biochar-soil-remediation]]
 Remediation biochar targets contaminated sites with heavy metals, petroleum
 hydrocarbons, PAHs, PCBs, pesticides, and other pollutants. The mechanisms
@@ -128,7 +93,5 @@ both soil quality improvement and contaminant management are needed without
 the cost and disruption of full remediation protocols.
 
 ## See Also
-- [[biochar-production-guide]] — production methods for both applications
 - [[mycoremediation-basics]] — biological approach to soil remediation
-- [[bioremediation-using-fungi]] — comparison of plant vs fungal remediation
 - [[hyperaccumulator-plants]] — plants used alongside biochar for combined remediation

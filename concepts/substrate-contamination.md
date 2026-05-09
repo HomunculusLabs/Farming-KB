@@ -1,7 +1,7 @@
 ---
 title: Substrate Contamination
 created: 2026-04-28
-tags: [mycology, contamination, cultivation, pathology]
+tags: [[mycology, contamination, cultivation, pathology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -11,8 +11,7 @@ type: concept
 # Substrate Contamination
 
 Contamination is the presence of unwanted organisms in a mushroom substrate
-that compete with or parasitize the cultivated [[mycelium]]. It is the primary
-cause of crop failure in [[mushroom-cultivation-fruiting-chambers]], and managing it is the
+that compete with or parasitize the cultivated [[mushroom-cultivation-fruiting-chambers]], and managing it is the
 central challenge of every cultivation operation, from home growers to
 commercial facilities.
 
@@ -76,13 +75,7 @@ or exacerbate contamination:
 Understanding where contaminants originate is essential for prevention:
 
 1. **Raw materials** — straw, sawdust, and grain may carry mold spores,
-  bacteria, or pest eggs. Proper [[oyster-mushroom-contamination-prevention]]
-  mitigates this.
-2. **Spawn** — contaminated grain spawn is the most efficient vector because
-  it spreads the contaminant throughout the substrate during inoculation.
-  Always inspect spawn before use.
-3. **Air** — airborne spores settle on exposed substrate surfaces. This is
-  why sealing containers during [[mycelial-colonization]] and using filtered
+  bacteria, or pest eggs. Proper [[mycelial-colonization]] and using filtered
    air during transfers is critical.
 4. **Water** — standing water, dirty humidifiers, and contaminated misting
   systems can introduce bacteria and mold spores to the fruiting environment.
@@ -140,8 +133,6 @@ When contamination is detected:
 
 ## See Also
 
-- [[mycelial-colonization]] — contamination prevention during growth
 - [[oyster-mushroom-substrates]] — pasteurization and sterilization methods
-- [[mushroom-spawn-production]] — spawn quality and contamination testing
 - [[lignicolous-fungi]] — competitive ecology in wood decomposition
 - [[fruiting-initiation]] — contamination risks during fruiting

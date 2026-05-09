@@ -16,22 +16,8 @@ type: concept
 
 # Hand Pump and Water Lifting Devices
 
-Bill Mollison surveys traditional and [[appropriate-technology]] water lifting
-devices in Chapter 6 (Water in the Landscape) and Chapter 14 of
-[[permaculture]]: A Designers' Manual. He presents these technologies as
-essential for [[permaculture-settlement-design]]s seeking water independence,
-particularly in rural areas without reliable electricity or fossil fuel
-supplies.
-
-## The Physics of Water Lifting
-
-Mollison begins with the fundamental physical constraint of suction lift:
-atmospheric pressure at sea level supports a water column of approximately
-10.3 metres (33.8 feet). In practice, due to pipe friction, elevation,
-and imperfect seals, the practical limit for suction pumps is about 7 to
-8 metres (23 to 26 feet). Beyond this depth, water must be lifted by
-positive displacement from below (a pump cylinder placed down the well)
-[[integrate-rather-than-segregate]] sucked from above. This distinction is critical for well and
+Bill Mollison surveys traditional and [[permaculture]]: A Designers' Manual. He presents these technologies as
+essential for [[integrate-rather-than-segregate]] sucked from above. This distinction is critical for well and
 pump design.
 
 ## Shadoof (Sweep or Well-Pole)

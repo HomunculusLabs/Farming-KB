@@ -10,7 +10,7 @@ sources:
 
 # Synthetic Tryptamine Methods
 
-The synthesis of substituted tryptamines documented throughout TIHKAL follows a set of recurring methodologies that [[alexander-shulgin]] refined and systematized over decades of underground research. These methods form the backbone of modern [[tryptamine]] chemistry, enabling systematic exploration of the structure-activity landscape.
+The synthesis of substituted tryptamines documented throughout TIHKAL follows a set of recurring methodologies that [[tryptamine]] chemistry, enabling systematic exploration of the structure-activity landscape.
 
 ## The Indoleglyoxylamide Method (Primary Route)
 
@@ -65,13 +65,8 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 - LAH is pyrophoric and must be handled under inert atmosphere with rigorous exclusion of moisture
 - Many free-base tryptamines are sensitive to air oxidation; stpsilocin hydrochloride or other stable salt form is preferred
 - Oxalyl chloride is a corrosive lachrymator requiring fume hood work
-- The 4-hydroxy tryptamines ([[psilocin]] family) are particularly oxidation-sensitive and may require immediate use or careful stabilization
+- The 4-hydroxy tryptamines ([[synthetic-log-cultivation-methods-guide]]
 
-## See Also
-
-- [[synthetic-log-cultivation-methods-guide]]
-
-- [[5-meo-dmt-compound-profile]]
 - [[5-methoxy-compounds]]
 - synthetic tryptamine methods
 
@@ -96,7 +91,7 @@ TIHKAL is organized as a systematic tour through the tryptamine structure-activi
 - **Route dependency** (oral vs. smoked vs. insufflation vs. injected)
 - **Qualitative character** (visual, auditory, somatic, cognitive, emotional dimensions)
 
-Shulgin's commentary sections explicitly frame new compounds as experiments testing specific SAR hypotheses. For example, the comparison between MIPT (oral, active) and MPT (oral, inactive) tests the role of amine branching in conferring oral activity. The comparison between [[5-meo-dmt]] and 5-MeS-DMT tests whether sulfur substitution enhances potency in tryptamines as it does in phenethylamines (answer: it does not).
+Shulgin's commentary sections explicitly frame new compounds as experiments testing specific SAR hypotheses. For example, the comparison between MIPT (oral, active) and MPT (oral, inactive) tests the role of amine branching in conferring oral activity. The comparison between [[5-meo-dmt-entity]] and 5-MeS-DMT tests whether sulfur substitution enhances potency in tryptamines as it does in phenethylamines (answer: it does not).
 
 ## The Numbering Convention and Chemical Precision
 

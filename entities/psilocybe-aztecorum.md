@@ -64,55 +64,17 @@ The high-elevation habitat is unusual among psilocybin mushrooms, most of which 
 
 ## Bioactive Compounds
 
-*Psilocybe aztecorum* contains the classic tryptamine alkaloids [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive constituents.
+*Psilocybe aztecorum* contains the classic tryptamine alkaloids [[psilocin]] as its primary psychoactive constituents.
 
 Psilocybin concentrations range from approximately 0.2-0.6% of dried mushroom weight, with the highest levels found in the cap.
 
-[[baeocystin]] and norbaeocystin are present in minor amounts as biosynthetic precursors.
+[[psilocybe-cubensis]] and temperate species like [[psilocybe-mexicana]] is similar but generally smaller and found at lower elevations in grasslands rather than pine forests.
 
-The total tryptamine alkaloid profile is broadly similar to other Mexican [[psilocybe-cubensis]] and temperate species like [[psilocybe-semilanceata]].
-
-Analytical studies have shown consistent alkaloid content across different populations, though some variation occurs between collection sites.
-
-## Ethnobotanical Significance
-
-The species is identified with the Aztec sacred mushroom teonanácatl, described in 16th-century Spanish colonial accounts of indigenous ritual practices.
-
-Bernardino de Sahagún's "Historia General de las Cosas de Nueva España" (1569) contains early descriptions of mushroom ceremonies potentially involving *P. aztecorum*.
-
-Contemporary Mazatec and Nahua shamans continue to use the mushroom in veladas (night ceremonies) for healing and divination.
-
-Wasson's 1957 *Life* magazine article describing his participation in a Mazatec velada brought international attention to these mushrooms and to *P. aztecorum* specifically.
-
-## Similar Species
-
-*Psilocybe aztecorum* can be confused with several other Mexican high-elevation Psilocybe species.
-
-[[psilocybe-mexicana]] is similar but generally smaller and found at lower elevations in grasslands rather than pine forests.
-
-[[psilocybe-caerulescens]] occurs at lower altitudes and has a more robust stature with a darker cap.
-
-Non-psychoactive species in the genus can be differentiated by the absence of blue bruising and differences in spore morphology.
-
-The high-elevation habitat of *P. aztecorum* is itself a useful field identification characteristic.
-
-## Cultivation
-
-*Psilocybe aztecorum* is rarely cultivated outside of research settings due to its specific high-altitude environmental requirements.
-
-Successful indoor cultivation requires cool temperatures (10-15°C fruiting), matching its alpine origins.
-
-Standard Psilocybe cultivation techniques using grain spawn and bulk substrates can be applied with temperature modification.
-
-The species fruits less prolifically than [[psilocybe-cubensis]] and has a longer colonization period.
+[[psilocybe-cubensis]] and has a longer colonization period.
 
 ## See Also
 
-- [[psilocybe-cubensis]] — most widely cultivated psilocybin mushroom
 - [[psilocybe-semilanceata]] — liberty cap, temperate psilocybin species
-- [[psilocybe-azurescens]] — potent Pacific Northwest psilocybin species
 - [[psilocybe-cyanescens]] — wavy-capped psilocybin mushroom
-- [[psilocybe-mexicana]] — Mexican psilocybin mushroom, teotlaquilnanácatl
 - [[psilocybe-serbica]] — European psilocybin mushroom
-- [[psilocin]] — active metabolite of psilocybin
 - [[baeocystin]] — minor psychoactive alkaloid precursor

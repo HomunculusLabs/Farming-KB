@@ -138,11 +138,13 @@ Heritage grains improve farm systems beyond their direct value:
 | Maximum nutritional value | Amaranth, quinoa, finger millet |
 | Easy processing (no dehuller) | Heritage oats, naked barley, quinoa |
 | Highest market price | Einkorn, quinoa, heritage corn varieties |
+## See Also
+
+- [[faires-grain-harvesting-and-processing]]
+- [[mollison-permaculture-two-no-tillage-grain-cropping]]
+
+## Merged: Best Goat Breeds for Small Homesteads and Permaculture Systems
 
 ## See Also
 
-- [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]
-
-- [[faires-grain-harvesting-and-processing]]
-- [[no-till-grain-growing]]
-- [[mollison-permaculture-two-no-tillage-grain-cropping]]
+- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]

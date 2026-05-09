@@ -21,42 +21,7 @@ and other arthropods. They include necrotrophic parasites that
 kill their hosts rapidly and biotrophic parasites that maintain
 long-term relationships with living hosts. This diverse group
 spans multiple fungal phyla and represents a significant
-component of [[fungal-parasites-invertebrates]].
-
-## Taxonomic Distribution
-
-Entomopathogenic fungi are found across the major fungal groups:
-
-- Zygomycota: Entomophthorales (Entomophthora, Conidiobolus,
-  Erynia, Pandora, Zoophthora) are obligate or facultative
-  pathogens of insects and other arthropods
-
-- Ascomycota: Cordyceps and allies (Clavicipitaceae), with
-  teleomorphs in Hypocreales and anamorphs including
-  Beauveria, Metarhizium, Lecanicillium, Hirsutella,
-  Nomuraea, and Tolypocladium
-
-- Basidiomycota: Septobasidium species are obligate
-  biotrophic parasites of scale insects
-
-- Chytridiomycota: Coelomomyces species are obligate
-  parasites of mosquito larvae, requiring both mosquito and
-  copepod hosts to complete their life cycle
-
-## Necrotrophic vs. Biotrophic Strategies
-
-Necrotrophic entomopathogens kill hosts quickly and then
-colonize the dead tissue. Species of Beauveria, Metarhizium,
-and the Entomophthorales typically follow this strategy.
-Infected insects may be killed within days, after which the
-fungus sporulates abundantly on the cadaver, producing
-conidia that can infect new hosts.
-
-Biotrophic entomopathogens maintain a long-term relationship
-with living hosts without immediately killing them.
-Septobasidium species, for example, form elaborate colonies
-on tree bark that shelter and feed on scale insects while
-protecting them from predators. The [[laboulbeniales-ectoparasitic-arthropod-associated-ascomycetes]]
+component of [[laboulbeniales-ectoparasitic-arthropod-associated-ascomycetes]]
 represent another biotrophic strategy, living externally on
 arthropod cuticles.
 
@@ -120,11 +85,7 @@ for both conservation and applied purposes.
 
 ## See Also
 
-- [[bloomfield-cordyceps-insect-pathogens-behavior]]
-
 - [[fungal-parasites-invertebrates]]
-- [[laboulbeniales-ectoparasitic-arthropod-associated-ascomycetes]]
 - [[harpellales-gut-dwelling-trichomycete-fungi]]
-- [[anaerobic-gut-fungi]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
 - [[zoopagales-dimargaritales-zygomycete-mycoparasites]]

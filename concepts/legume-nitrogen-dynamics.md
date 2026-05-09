@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Legume Nitrogen Dynamics
 
@@ -101,14 +102,7 @@ Successful legume-based rotations require inoculation with appropriate rhizobial
 
 ## See Also
 
-- [[nutrient-dynamic-accumulator-reference]] -- comprehensive table of dynamic accumulator plants
 - [[permaculture-dynamic-accumulator-plants]] -- permaculture-specific accumulator strategies
-- [[dynamic-accumulators]] -- general overview of dynamic accumulator concept
-
-## Related
-
 - [[edge-effect-in-permaculture]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[fukuoka-white-clover-cover-crop-system]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[companion-planting-with-fungi]]

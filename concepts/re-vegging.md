@@ -135,11 +135,7 @@ The transition from flowering back to vegetative growth requires a significant s
 
 ## See Also
 
-- [[monster-cropping]] -- cloning from flowering plants for bushy re-vegged growth
 - [[cannabis-photoperiodism-and-light-cycles]] -- understanding light schedules
-- [[cannabis-clone-rooting-and-transplanting]] -- cloning techniques
 - [[cannabis-vegetative-stage]] -- managing vegetative growth after re-vegging
-- [[cannabis-flowering-stage]] -- the stage being reversed
 - [[cannabis-harvest-and-curing]] -- harvesting before re-vegging
-- [[cannabis-nutrient-recipes]] -- nitrogen-rich feeding for re-vegetation
 - [[first-time-grower-common-mistakes]]

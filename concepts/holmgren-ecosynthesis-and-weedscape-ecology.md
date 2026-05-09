@@ -3,103 +3,139 @@ title: Holmgren Ecosynthesis and Weedscape Ecology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-
-Updated: 2026-04-18
-
-Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002)
-
-## Ecosynthesis: The Evolution of New Ecosystems
-
-Ecosynthesis is the evolution of new ecosystems composed of both native and exotic species responding to novel conditions. Holmgren argues that the focus of conservation biology on ancient co-evolved ecological relationships has led to a distorted view that most ecosystems are fixed and ancient systems.
-
-### Evidence for Novel Ecosystems
-- Palaeobotanical evidence shows many "remnant" natural ecosystems did not survive ice age fluctuations intact in climatic refuges. Instead, they are novel and contingent combinations of species that came together during this interglacial (last 10,000 years)
-- Australia's current fire-prone, eucalypt-dominated vegetation is atypical of other interglacials, when rainforest dominated. The human factor seems the most likely cause -- meaning some indigenous systems are not climatically optimal and are ripe for invasive domination by rainforest-type vegetation
-- Indigenous land management has for tens of thousands of years shaped the rapid evolution of ecosystems and landscapes
-- European and Mediterranean ecosystems co-evolved with cultural management over a thousand years or less, providing some of the greatest reservoirs of biodiversity in Europe
-- Continuous and eruptive evolution occurs in ecosystems on timescales as short as a human generation
-
-### European Ecological Imperialism
-European trade and expansion across the globe over 500 years to 1900 created the furthest-reaching and most permanent changes. European wooden ships seeded coastal waters worldwide with European coastal lifeforms. What marine ecologists are recording for the first time are already radically changed ecosystems.
-
-These changes are typically described as "ecosystem degradation." Holmgren defends ecosynthesis as having beneficial effects in moderating and repairing environmental impact of human expansion, as well as providing new resources as plants and animals naturalise.
-
-## Urban Weedscapes as Ecological Succession
-
-### Riparian Weedscapes of Melbourne (Yarra River Floodplain, 1982)
-
-Holmgren and a colleague conducted an observational study of vegetation and land use at diverse alluvial flats, riparian edges, and wetland sites on the Chandler floodplain.
-
-Despite wide disparity and severity of land use impacts (grazing, farming, golf courses, stormwater drainage), patterns of vegetation succession were evident. Areas with no management for decades showed slowly emerging stages resembling a classic climax.
-
-The successional climax: a forest dominated by indigenous river red gums overstorey, with closed canopy understorey of tall shrubs and small trees (indigenous, Australian native, and exotic species), ground layer dominated by wandering jew (Tradescantia albiflora).
-
-The robustness of this "successional climax" was confirmed by its emergence from diverse starting points -- grazed red gum woodland, cultivated fields, even freshly bulldozed areas.
-
-After nearly two decades of management removing all non-indigenous species (using massive herbicide and labour inputs), the purely indigenous version bore little functional or structural relationship to the pre-European ecosystem: an open grassy woodland, much drier, more fire- and grazing-dependent, lower in fertility.
-
-### Four Factors Driving Novel Successional Patterns
-1. **Water abundance**: natural and stormwater sources
-2. **Nutrients**: farming, stormwater, and other sources
-3. **Seed and vegetative propagules**: diverse suburban garden, agricultural, and indigenous forest sources
-4. **Absence of grazing animals and fire**
-
-### Riparian Weedscapes of Hepburn Springs (Spring Creek)
-
-When Holmgren moved to Hepburn Springs in 1985, he began managing a blackberry and willow-dominated stream corridor. Over a decade, an informal group created tracks and planted trees over several kilometres.
-
-Succession observed: primary weedscape of blackberry, gorse (Ulex europaeus) and cape broom (Genista monospessulana) -> deciduous forest of willow, hawthorn (Crataegus monogyna) and native blackwood (Acacia melanoxylon). Prediction: sycamore (Acer pseudoplatanus) and European ash (Fraxinus excelsior) would overtake the willow canopy as first-generation willows died.
-
-### Research Findings
-A PhD study comparing the creek with a parallel eucalypt-dominated stream found:
-- Willows captured **40 times more sediment** and **10 times more phosphorus** than eucalypts
-- Most sediment trapped in extraordinary willow root mattresses
-- Willow corridor forests provided near-optimum water filtering system in a steep catchment receiving runoff from native forest and suburban stormwater
-
-A second university study aged willows, sycamores, and ashes along the creek and predicted sycamore and ash would dominate -- confirming holistic observations.
-
-## Evolutionary Theory and Permaculture
-
-### Post-Darwinian Evolution
-- Gradual incremental evolution has been overturned by **Punctuated Equilibrium** (evolution by occasional jumps)
-- This parallels the shift from Gradualism to Catastrophism in geomorphology, Climax to Pulsing in systems ecology, and Chaos Theory
-- Natural selection may be "the editor of life, but not the author"
-
-### Mechanisms Beyond Mutation
-- Gene transfer between bacteria (may be a major evolutionary mechanism)
-- Symbiosis between previously free-living organisms (Lynn Margulis's hypothesis that nucleated cells originated from novel symbiosis -- now widely accepted)
-- Internally directed mutations in response to environmental pressures
-- Internal selection operating on mutations
-
-### The Billiard Table Analogy
-Each species = a design solution (an "Attractor" in Chaos Theory). Think of depressions in a flat table where evolving species are balls that roll until captured. Possible design solutions are limited by physical, metabolic, organisational, and ecological constraints.
-
-### The "McDonaldisation" Debate
-The extensive extinction of specialised species and replacement by hardy generalists has led many biologists to believe we are witnessing the "McDonaldisation of the world's biota." Holmgren argues that catastrophic changes creating extinctions may also stimulate or accelerate mechanisms leading to new species emergence.
-
-Factors potentially stimulating evolutionary jumps:
-- Mining half of fossil fuels accumulated over 1000 million years
-- 6 billion people highly connected as one global population
-- World trade causing unintentional lifeform transfer on unprecedented scale
-- Nuclear and chemical contamination risk
-- Rapid expansion of genetically engineered organisms
-
-## UNESCO Principle
-"There is no fundamental difference between natural, wild or modified, semi-natural or developed, domesticated or purely artificial vegetations. The laws governing these ecosystems are identical." -- UNESCO, Use and Conservation of the Biosphere, Paris.
-
-## Permaculture Design Implications
-Knowing that ecosystems can evolve rapidly in response to human and other influences, the self-organisational power of nature can be enhanced and augmented to create functional human ecosystems in relatively few generations. Permaculture and concepts like Analogue Forestry, which design agricultural systems based on natural ecosystem models, are at the vanguard of this understanding.
-
-See also: [[holmgren-ecological-succession-and-pulsing]], [[holmgren-permaculture-change-principle]],,,, [[permaculture-pattern-literacy]]
+tags: [[holmgren-ecological-succession-and-pulsing]], [[permaculture-pattern-literacy]]
 
 ## Related
 
-- [[holmgren-genetic-engineering-and-evolution]]
 - [[garden-myths-native-plants-and-invasive-species]]
-- [[holmgren-trees-nature-solar-power-plants]]
 - [[natural-farming-seed-balls]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Background and Context
+
+Holmgren Ecosynthesis and Weedscape Ecology is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

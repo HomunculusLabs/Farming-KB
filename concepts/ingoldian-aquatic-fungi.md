@@ -142,8 +142,6 @@ on plants that overhang creeks, entering the water during rainstorms. This
 mermaid-like life cycle explains their appearance on riparian vegetation.
 ## See Also
 
-- [[aquatic-fungi-and-zoospore-biology]]
 - [[fungal-spore-dispersal]]
-- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
 - [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]

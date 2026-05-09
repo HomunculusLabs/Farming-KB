@@ -141,9 +141,6 @@ The most common and dangerous failure mode. If the spillway is undersized, poorl
 Driving machinery over the trench or berm compacts the soil, destroying the infiltration capacity that is the swale's primary function. If machinery must cross the swale, use crossing points with geotextile reinforcement.
 ## See Also
 
-- [[keyline-design]] — Yeomans' keyline scale of permanence
 - [[hugelkultur]] — Mound-based water-retention technique
-- [[fungal-spore-mounting-and-preservation-techniques]] — Roof and surface water collection systems
 - [[agroforestry]] — Integrated tree-crop systems
-- [[cover-cropping-systems]] — Soil-building through living groundcovers
 - [[vermicomposting]] — Earthworm-based composting for swale berm fertility

@@ -75,16 +75,8 @@ This screening is selective: ions must pass through membrane transport proteins 
 
 ### Mycorrhizal Enhancement
 
-A single mature oak tree may transpire 150+ gallons of water per day in summer, demonstrating the enormous scale of water movement through these pathways. Mycorrhizal fungi dramatically extend the effective water uptake zone by connecting root systems to distant soil moisture reservoirs. The extraradical hyphae of [[arbuscular-mycorrhizal-fungi]] can access water in soil pores too small for root hairs to penetrate, providing a critical water bridge during drought periods.
-
-## Related Topics
-
-- [[plant-cell-membrane-transport-proteins]] — aquaporins and transport proteins
-- [[arbuscular-mycorrhizal-fungi]] — extending the effective uptake zone
+A single mature oak tree may transpire 150+ gallons of water per day in summer, demonstrating the enormous scale of water movement through these pathways. Mycorrhizal fungi dramatically extend the effective water uptake zone by connecting root systems to distant soil moisture reservoirs. The extraradical hyphae of [[plant-cell-membrane-transport-proteins]] — aquaporins and transport proteins
 - [[photosynthesis-and-chloroplast-function]] — energy driving water movement
-- [[adenosine-triphosphate-and-cellular-energy]] — energy for active transport
 - [[arbuscular-mycorrhizal-fungi]] — fungal associations with plant roots
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
 - [[stomata-transpiration-and-plant-water-regulation]]

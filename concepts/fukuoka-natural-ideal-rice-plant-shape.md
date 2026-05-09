@@ -96,7 +96,7 @@ short-stalked, panicle weight type shape.
 Concentrated rice carries a tremendous store of energy that provides high
 yields because it maintains an orderly shape receptive to sunlight, matures
 well, and is resistant to disease and pest attack, even in a very dense
-stand. This connects directly to the [[fukuoka-natural-rice-barley-cultivation]] methods and the [[fukuoka-high-yield-rice-barley]] developed through decades of observation.
+stand. This connects directly to the [[fukuoka-high-yield-rice-barley]] developed through decades of observation.
 
 ## Blueprint for Natural Cultivation
 
@@ -142,6 +142,5 @@ never sacrifice something else to human desire.
 
 ## See Also
 
-- [[fukuoka-rice-plant-ideal-morphology]]
 - [[fukuoka-natural-rice-farming-steps]]
 - [[fukuoka-natural-grazing-ideal]]

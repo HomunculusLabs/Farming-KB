@@ -1,150 +1,109 @@
-# Plant Photoreception
+---
+title: Plant Photoreception — How Plants See Light
+source: grahamholmes-what-a-plant-knowsindd.md
+mined: 2026-05-08
+tags: [plant-biology, photoreception, phytochrome, phototropism, light-sensing,
+  chamovitz]
+aliases: [plant vision, how plants see, plant photoreceptors]
+---
+
+# Plant Photoreception — How Plants See Light
 
 ## Overview
 
-Plant photoreception is the biological capacity of plants to detect, interpret, and respond to light across multiple wavelengths of the electromagnetic spectrum.
-
-Unlike animal vision, which relies on image-forming eyes and neural processing, plant photoreception operates through a distributed system of light-sensitive proteins called photoreceptors located throughout the plant body.
-
-Plants perceive ultraviolet, visible, far-red, and infrared light, enabling them to navigate their environment, regulate growth cycles, and coordinate physiological responses to changing light conditions.
-
-## Electromagnetic Spectrum and Plant Vision
-
-Light waves exist between approximately 0.0000004 and 0.0000007 metres in length within the visible spectrum.
-
-Blue light has the shortest wavelength in the visible spectrum, while red has the longest, with green, yellow, and orange in between.
-
-The colour pattern of rainbows is always oriented from short-wave colours like blue to long-wave colours like red.
-
-Plants lack image-forming capacity but possess a sophisticated system that detects light quality, quantity, direction, and duration without forming pictures.
-
-As Daniel Chamovitz argues in "What a Plant Knows," if we consider the progressive addition of sensory capabilities — from total blindness to light discrimination, then to colour perception — the plant's ability to sense multiple wavelengths qualifies as a genuine form of vision.
-
-Plants monitor their visible environment all the time.
-
-They see if you come near them, they know when you stand over them, and they even know if you're wearing a blue or a red shirt.
-
-Plants can detect light that humans cannot perceive, including ultraviolet and far-red wavelengths.
-
-UV light triggers protective responses including flavonoid production.
-Far-red light at dusk signals the phytochrome system that governs photoperiodic responses.
-
-## Photoreceptor Protein Families
-
-### Phytochromes
-
-Phytochromes detect red (660 nm) and far-red (730 nm) light.
-
-They exist in two interconvertible forms: Pr (red-absorbing, inactive) and Pfr (far-red-absorbing, active).
-
-Red light converts Pr to Pfr, activating signaling cascades that regulate gene expression.
-
-Far-red light reverses this conversion, deactivating the pathway.
-
-Phytochromes regulate seed germination, shade avoidance, de-etiolation, and photoperiodic flowering.
-
-The system functions as a molecular toggle switch allowing plants to measure darkness duration. Phytochrome was identified by Warren Butler and colleagues in 1960.
-
-In nature, the last light at the end of the day is far-red, signalling the plant to 'turn off.'
-
-In the morning, it sees red light and wakes up.
-
-### Cryptochromes
-
-Cryptochromes absorb blue and UV-A light (320–500 nm).
-
-Cryptochromes regulate de-etiolation, circadian clock entrainment, photomorphogenesis, and flowering initiation.
-
-They share structural homology with DNA photolyase enzymes but have lost their DNA repair function.
-
-### Phototropins
-
-Phototropins are blue-light receptors that mediate phototropic bending, chloroplast relocation, and stomatal opening.
-
-They contain two LOV (Light-Oxygen-Voltage) domains that undergo conformational changes upon blue-light absorption.
-
-This triggers kinase activity enabling chloroplasts to move within cells.
-Under low light, chloroplasts move toward illuminated surfaces to maximise photosynthesis.
-
-### UVR8
-
-UVR8 is a UV-B-specific receptor (280–315 nm) that exists as a homodimer in the absence of UV-B.
-
-UV-B absorption causes dissociation into monomers, activating transcription factor HY5 and upregulating flavonoid biosynthesis genes.
-
-UVR8 does not employ a chromophore; specific tryptophan residues absorb UV-B directly.
-
-## Phototropism
-
-Phototropism is the directional growth response of plants toward or away from a light source.
-
-Charles Darwin and his son Francis demonstrated in 1880 that the phototropic response in canary grass seedlings was controlled by light perception at the shoot tip, not at the bending region.
-
-Their classic experiment involved five conditions.
-
-The first seedling was untreated and bent toward the light.
-
-The second had its tip pruned off — it did not bend.
-
-The third had its tip covered with a lightproof cap — it did not bend.
-
-The fourth had its tip covered with a clear glass cap — it bent normally.
-
-The fifth had its middle section covered by a lightproof tube — it bent normally.
-
-This proved the tip sensed light and transmitted a signal downward.
-
-Julius von Sachs established in 1864 that blue light is the primary color inducing phototropism.
-
-The mechanism involves asymmetric distribution of auxin, which redistributes to the shaded side when light strikes one side, promoting differential cell elongation.
-
-## Photoperiodism
-
-Photoperiodism is the physiological response to the relative length of day and night.
-
-Discovered by Garner and Allard in 1918 through their study of Maryland Mammoth tobacco, it revealed that plants measure continuous darkness duration rather than daylight.
-
-The Maryland Mammoth could reach four and a half metres and rarely flowered under long days.
-
-When given artificially shorter days, it flowered.
-
-Plants are classified by flowering response:
-
-**Short-day plants** flower when the night exceeds a critical duration (chrysanthemums, soybeans).
-
-**Long-day plants** flower when the night is shorter than a critical duration (irises, barley).
-
-**Day-neutral plants** have flowering independent of photoperiod (tomatoes, corn).
-
-A brief flash of red light mid-night prevents short-day plants from flowering and induces flowering in long-day plants, demonstrating phytochrome's role.
-
-Far-red light reverses the red-light effect.
-
-Commercially, chrysanthemum growers prevent flowering by illuminating plants at night, then discontinue before Mother's Day for simultaneous blooming.
-
-## Shade Avoidance
-
-Plants detect neighboring vegetation through changes in the red-to-far-red light ratio.
-
-Chlorophyll absorbs most red light while transmitting far-red light.
-
-A low R:FR ratio triggers shade-avoidance responses: accelerated stem elongation and reduced leaf development.
-
-## Historical Milestones
-
-- **1864**: Julius von Sachs identifies blue light as the primary phototropic stimulus
-- **1880**: Darwins demonstrate that the shoot tip perceives light for phototropism
-- **1918**: Garner and Allard discover photoperiodism
-- **1950s**: Harry Borthwick discovers far-red reversal of red-light effects
-- **1960**: Warren Butler identifies phytochrome as the dual red/far-red photoreceptor
-
-## References
-
-- Chamovitz, D. (2012). *What a Plant Knows*. Oneworld Publications.
-- Darwin, C. (1880). *The Power of Movement in Plants*.
+Plants monitor their visible environment continuously. They detect whether you
+approach them, whether you're wearing blue or red, whether you've moved their
+pot, and whether another plant has grown over them. While plants don't form
+images, their ability to perceive light in multiple wavelengths, intensities,
+and directions constitutes a genuine form of vision. [[phototropism]]
+- **Visible light** (400–700 nm): The primary photosynthetically active
+  radiation range
+- **Far-red light** (700–800 nm): Beyond human vision; plants use it for
+  shade detection and neighbor sensing
+- **Infrared**: Primarily sensed as thermal radiation affecting metabolism
+
+## Human Photoreceptors vs. Plant Photoreceptors
+
+### Human Vision
+
+The human retina contains approximately 125 million rods and 6 million cones
+— equivalent to a 130-megapixel digital camera in an area the size of a
+passport photo. Rods provide low-light, monochrome vision. Cones come in
+three types (red, green, blue), each containing specific photopsin proteins
+that absorb different wavelengths.
+
+### Plant Photoreceptors
+
+Plants use multiple families of photoreceptor proteins, each sensitive to
+different wavelengths:
+
+- **Phytochromes**: Detect red (660 nm) and far-red (730 nm) light.
+  Exist in two interconvertible forms: Pr (absorbs red) and Pfr (absorbs
+  far-red). Critical for seed germination, shade avoidance, and flowering
+  time regulation.
+- **Cryptochromes**: Blue-light receptors involved in circadian rhythm
+  regulation, de-etiolation, and phototropism.
+- **Phototropins**: Blue-light receptors that mediate phototropic bending,
+  chloroplast movement, and stomatal opening.
+- **UVR8**: UV-B receptor that triggers protective responses including
+  flavonoid production.
+
+## What Plants Perceive
+
+### Light Direction
+
+Plants detect the direction of light through phototropins. When light comes
+from one side, auxin (a plant hormone) redistributes to the shaded side of
+the stem, causing cells on that side to elongate more and the plant to bend
+toward the light. Charles Darwin and his son Francis first demonstrated
+this in 1880, showing that the light-sensitive region is at the tip of the
+shoot.
+
+### Light Intensity
+
+Plants measure total light quantity (irradiance) and adjust their physiology
+accordingly:
+
+- Low light (shade): Increase leaf surface area, reduce root:shoot ratio,
+  stretch stems to reach light
+- High light (sun): Develop thicker leaves, increase protective pigments,
+  adjust photosynthetic machinery
+- Very low light (darkness): Etiolation — pale, elongated growth seeking
+  light
+
+### Light Duration (Photoperiod)
+
+Plants measure day length to coordinate seasonal activities:
+
+- **Long-day plants** flower when days exceed a critical length
+- **Short-day plants** flower when days fall below a critical length
+- **Day-neutral plants** flower regardless of photoperiod
+- This measurement is made by phytochromes tracking the red:far-red ratio
+
+### Light Color
+
+Plants distinguish between wavelengths to assess their environment:
+
+- High red:far-red ratio indicates open sky (no competing vegetation)
+- Low red:far-red ratio indicates shade from other plants (chlorophyll
+  absorbs red but transmits/reflects far-red)
+- Blue light indicates unshaded conditions; absence of blue triggers
+  shade avoidance responses
+
+## Photomorphogenesis
+
+Light triggers profound developmental changes in plants beyond simple
+directional growth:
+
+- **Seed germination**: Many seeds require light (photoblastic seeds)
+- **De-etiolation**: Transition from dark-grown to light-grown form —
+  chlorophyll synthesis, leaf expansion, inhibition of stem elongation
+- **Chloroplast development**: Light is required for chloroplast
+  maturation and photosynthetic competence
+- **Pigment production**: Anthocyanins, flavonoids, and other protective
+  compounds are induced by specific light wavelengths
 
 ## See Also
 
-- [[darwins-phototropism-experiments]]
-- [[phytochrome-and-photoperiodism]]
-- [[plant-sensory-biology-and-intelligence]]
+- [[phytochrome-and-shade-avoidance]]
+- [[plant-memory]]

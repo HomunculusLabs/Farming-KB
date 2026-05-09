@@ -548,8 +548,7 @@ not only our relationship with the plant kingdom, but our very definitions of
 sensation, memory, intelligence, and life itself. The garden, it turns out, is
 not merely a place of beauty and sustenance, but a theatre of perception in
 which every leaf is both sensor and signal, every root an explorer, and every
-flower a statement about the nature of awareness itself.
-## Merged: Plant Sensory Perception
+flower a statement about the nature of awareness itself.## Merged: Plant Sensory Perception
 Plants are exquisitely sensitive to mechanical stimulation. They possess mechanoreceptors — proteins that change conformation when the cell membrane is physically deformed — allowing them to detect touch, wind, rain, and the physical presence of obstacles.
 The most dramatic example is the Venus flytrap, whose trigger hairs must be touched twice within twenty seconds before the trap snaps shut. This dual-trigger mechanism prevents false alarms from raindrops or debris. The trap's closure is one of the fastest movements in the plant kingdom, driven by a rapid change in cell turgor pressure.
 More subtly, all plants exhibit thigmomorphogenesis — growth responses to persistent mechanical stimulation. Trees grown in windy environments develop shorter, thicker trunks and more flexible wood than sheltered trees of the same species. This is not accidental damage; it is a programmed developmental response.

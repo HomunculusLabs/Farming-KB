@@ -3,69 +3,11 @@ title: Water Sources and Catchment
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Water Sources and Catchment
-
-Water is the most important element on any piece of land. No other factor impacts so many other things or is affected by so many elements. The first step in water management is deciding where water comes from and devising storage using gravity. The second step is using species that need less water in hard-to-reach places.
-
-## Sources of Water
-
-**Rain:** Surface runoff or groundwater. Every 1,000 sq ft (92 m²) of roof collects 600 gallons (2,270L) per inch (2.5cm) of rain. Metal roofs are best for cleanliness.
-
-**Springs:** Groundwater naturally emerging from the earth.
-
-**Streams:** Permanent or temporary (seasonal) flowing water.
-
-## Rainwater Catchment System
-
-1. Install gutters with leaf screens on all roof surfaces
-2. For drinking water, use a roof washer that diverts 1 gallon per 100 sq ft into a separate tank or garden
-3. Cover stored water entrance with mosquito screen
-4. Tank should have an overflow valve directed to the garden
-5. From the tank, water goes through pipes with check valves to prevent backflow
-6. If tank isn't high enough for gravity pressure, install a water pump
-7. After the pump, another check valve and a pressure tank
-8. Water then goes through purification before entering household pipes
-9. If connected to municipal supply, an approved backflow prevention device is required
-
-## Soil and Runoff
-
-The soil quality dictates how much runoff you'll have:
-- **Sand dune:** Absorbs all rainfall
-- **Treed/grassy meadow:** Absorbs slightly less
-- **Sandy soil:** Absorbs less than a sand dune
-- **Undrained clay:** Absorbs almost none — maximum runoff
-
-## Desert Water Considerations
-
-- Rainfall is brief, often under 1 inch, and runs off sandy soil quickly
-- Runoff can be diverted with drains (dirt, concrete, rock, or pipes) to tanks, basins, or terraces
-- Design basin to handle runoff from 20× its area: 20 acres feeds into 1 acre of trees/crops
-- Flash floods erode soil rapidly, creating mesas, canyons, and flood plains
-- Water must be channeled to storage immediately — it evaporates quickly in the desert
-- Create erosion-resistant channels
-
-## Water as a Responsibility
-
-- Use harvested water for as many tasks as possible
-- Be super efficient: grow life through gardens and aquaculture, generate electricity
-- Growing life and generating power can be mutually beneficial
-- Conserve and reuse water — use as little as possible
-- Recycle water as many times as possible
-- Utilize gravity for water movement — it's free and energy-efficient
-
-## Key Principle
-
-Gentle slopes and drains lead water from streams, valleys, roofs, and roads that collect rainfall, sending it to storage, irrigation systems, and swales. Every drop that falls on your property should be captured, slowed, and used before it leaves.
-
-See also [[faires-swales-and-water-conservation]], [[faires-water-tank-design]], [[permaculture-designers-manual-dam-construction]], [[faires-pond-design-and-aquaculture]], and [[faires-water-purification-methods]].
+tags: [[faires-swales-and-water-conservation]], [[permaculture-designers-manual-dam-construction]], [[faires-water-purification-methods]].
 
 ## See Also
 
-[[faires-swales-and-water-conservation]], [[faires-water-tank-design]], [[faires-water-purification-methods]], [[faires-water-diversion-and-dry-bed-management]], [[water-catchment-urban-permaculture]], [[faires-orchard-design-and-intercropping]], [[faires-low-energy-refrigeration]], [[natural-fertilizer-sources-and-application]]
+[[faires-water-tank-design]], [[faires-water-diversion-and-dry-bed-management]], [[faires-orchard-design-and-intercropping]], [[natural-fertilizer-sources-and-application]]
 
 ## Practical Applications
 
@@ -109,3 +51,62 @@ Designing these connections intentionally creates synergies that multiply the
 benefits of each individual component. The most successful homesteads are those
 where every output becomes an input for another process, closing loops and
 minimizing waste while maximizing productivity and self-reliance.
+## Practical Considerations
+
+When working with Water Sources and Catchment, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

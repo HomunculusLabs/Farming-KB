@@ -115,12 +115,8 @@ numerous subsequent cultivars:
 - **Kosher Lemon Haze** (SLH × Kosher Kush)
 ## See Also
 
-- [[super-silver-haze]]
 - [[lemon-haze]]
-- [[jack-herer]]
 - [[sour-diesel]]
-- [[amnesia-haze]]
 - [[cannabis-blue-dream]]
-- [[limonene]]
 - [[myrcene]]
 - [[cannabis-sativa]]

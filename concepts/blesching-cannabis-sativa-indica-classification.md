@@ -122,8 +122,6 @@ and physical therapeutic effects simultaneously.
 
 ## Related Concepts
 
-- [[blesching-cannabis-four-prime-cannabinoids]]
 - [[blesching-cannabis-forms-and-preparations]]
-- [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[blesching-cannabis-endocannabinoid-mind-body]]

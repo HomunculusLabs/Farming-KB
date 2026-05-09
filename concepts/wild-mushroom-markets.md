@@ -1,7 +1,7 @@
 ---
 title: wild mushroom markets
 created: 2026-04-28
-tags: [mycology, markets, trade, economics, europe]
+tags: [[mycology, markets, trade, economics, europe]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -19,26 +19,7 @@ wild mushrooms, a striking contrast to European practice.
 
 ## The American Situation
 
-In the United States, *[[agaricus-campestris]]* is in general
-the only wild species sold, appearing during September and
-October in various cities. In California it appears during
-the winter months. Given the wide range of flavors and
-textures among wild mushrooms and the immense number of
-species growing wild, the failure of Americans to become
-interested in wild mushrooms as food represents a
-significant waste. Much general educational work is
-required to stimulate demand for wild forms. Wherever wild
-mushrooms are sold, regulations should be strict and
-competent inspectors should examine all products offered.
-
-## French Markets
-
-Prior to about 1876, only cultivated mushrooms and certain
-truffles were permitted on the markets of Paris. Gradually
-the market was extended, and now as many as thirty species
-are fairly common. At Nantes, Genevier estimated the sale
-of wild mushrooms at about 30,000 kilo (66,000 pounds)
-around 1876, distributed equally among *[[agar]]icus
+In the United States, *[[agar]]icus
 campestris*, three species of boleti and lepiota, and
 ten or more common species of various genera. In 1907
 about 26,000 pounds were sold at Lyon, dominated by the
@@ -108,9 +89,7 @@ in part easily confused with poisonous forms.
 
 ## See Also
 
-- [[mushroom-market-and-production]]
 - [[mushroom-picking-seasons]]
-- [[edible-agarics]]
 - [[mushroom-food-value]]
 
 ## References

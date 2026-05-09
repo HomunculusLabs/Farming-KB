@@ -92,14 +92,14 @@ If you operate your homestead as a business (even a small one), you may deduct o
 - **Home office deduction** — if you have a dedicated space for farm business administration
 - **Vehicle expenses** — mileage or actual expenses for farm-related travel
 - **Depreciation** — equipment, buildings, fencing, and improvements depreciated over their useful life (3-20 years depending on asset)
-- **Soil and [[water-conservation]] expenses** — up to 25% of gross farm income
+- **Soil and water conservation expenses** — up to 25% of gross farm income
 - **Agricultural tax exemptions** — many states exempt farm equipment, feed, seed, and fertilizer from sales tax
 
 **Important:** The IRS requires you to show profit intent. If you report a loss for 3 out of 5 consecutive years, the IRS may reclassify your farm as a hobby, eliminating deductions. Keep good records — see [[homestead-record-keeping]].
 
 ## Grants and Programs
 
-- **NRCS EQIP (Environmental Quality Incentives Program)** — cost-share for conservation practices (fencing, water systems, [[cover-crops]], pasture improvement). Pays 50-75% of costs.
+- **NRCS EQIP (Environmental Quality Incentives Program)** — cost-share for conservation practices (fencing, water systems, cover crops, pasture improvement). Pays 50-75% of costs.
 - **USDA FSA loans** — beginning farmer loans, farm ownership loans, operating loans at below-market rates.
 - **State agricultural development programs** — many states offer grants for young farmers, specialty crops, and value-added products.
 - **SARE grants** — research and education grants for sustainable agriculture projects.
@@ -139,6 +139,7 @@ A simple annual budget framework:
 7. Review and adjust quarterly
 
 Homesteading is not about maximizing profit — it is about building a resilient, productive life. But financial sustainability is a prerequisite for long-term success. Plan your finances as carefully as you plan your gardens and buildings.
+
 
 ## Related
 

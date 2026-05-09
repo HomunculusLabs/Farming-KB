@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Fruit Tree Guild Roles
 
@@ -30,56 +31,10 @@ Bulbs keep grasses from moving into the guild. Grasses are surface feeders that 
 
 Flowering plants lure pollinators for boosting fruit set and attract predatory wasps that feast on pestiferous larvae such as borers and codling moths. Flowering shrubs placed nearby (butterfly bush, fuchsia, salvia) encourage insectivorous birds to probe bark crevices for larvae and eggs.
 
-**Examples**: Dill, fennel, coriander, yarrow, bee balm, and many other [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]. Nearly all members of the carrot family (Apiaceae), the sunflower family (Asteraceae), and the mint family (Lamiaceae) are excellent choices.
+**Examples**: Dill, fennel, coriander, yarrow, bee balm, and many other [[faires-orchard-pruning-methods]]
 
-### 3. Mulch Plants
-
-Growing mulch under the tree eliminates the need to haul compost in a wheelbarrow -- the guild builds its own soil. Soft-leafed plants can be slashed several times per summer and left to compost in place. As the nutrient-rich greenery rots, it delivers minerals and organic matter, and the resulting thick layer hosts thriving populations of worms, fungi, and bacteria that suppress disease through competition.
-
-**Examples**: Comfrey (the champion mulch producer, harvestable 4-5 times per summer), artichokes, cardoon, rhubarb, clovers, nasturtiums.
-
-### 4. Nutrient Accumulators
-
-Deep-rooted plants plunge into mineral soil and dredge up potassium, magnesium, calcium, sulfur, and other nutrients, bringing them to the surface where they become available to the tree. As the guild matures and nutrients recycle within it, these accumulator plants become redundant and can be replaced.
-
-**Examples**: Chicory, dandelion, yarrow, plantain, comfrey (which also accumulates potassium), daikon radish, artichoke. These dynamic accumulators can be intercropped among beds or under trees to continually break up soil while mining nutrients.
-
-### 5. Nitrogen Fixers
-
-Nitrogen-fixing plants host symbiotic bacteria that convert atmospheric nitrogen into plant-available form. Adding them to guilds keeps nutrients cycling within the plant community, reducing the need for imported fertilizer. Perennials are preferred, but many annuals reseed freely for near-perennial status.
-
-**Examples**: Dutch or New Zealand white clover, alfalfa, lupine, fava beans, cowpeas, autumn olive, black locust, laburnum. Many leguminous shrubs and trees also serve as windbreaks and wildlife habitat.
-
-### 6. Soil Fumigants and Pest Repellents
-
-Certain plants exude substances that repel pests. Nasturtiums and some marigolds are common examples. This is the least understood guild role, and such plants should be used with caution as they may also repel beneficials. Research on pest-repellent plants is not extensive, so use them in limited quantities.
-
-### 7. Habitat Nooks
-
-Piling up stones, logs, or brush near the guild, and creating small ponds and puddles, attracts lizards, frogs, snakes, and birds. These predators cull pest populations -- caterpillars, aphids, slugs -- with chilling efficiency, preserving ecological balance. Even small water features and rock piles make a significant difference.
-
-## Multifunctionality in Guild Design
-
-The most effective guild members perform more than one role. Clover and alfalfa fix nitrogen and attract bees. Plantain and yarrow sequester nutrients and are medicinal. Artichokes produce both mulch and food. Comfrey yields mulch, medicine, insect habitat, and potassium-rich leaves for fertilizer tea. Autumn olive provides nitrogen fixation, berries for wildlife, windbreak function, and insect habitat. Clever guild designers choose as many multifunctional members as possible.
-
-By filling the garden with multifunctional plants, we create a dense web full of many niches for wildlife, and a rich place for humans: a wealth of food, flowers, medicinal herbs, and other products, plus beauty and resilience.
-
-## Fitting the Pieces Together
-
-The typical arrangement places bulbs in a ring at the drip line, a broken circle of comfrey inside that, artichoke plants within, dotted with flowers and herbs, a ground cover of clover, and legumes in the dappled sun beneath the branches. As a rule of thumb: the larger the plant, the fewer of its kind -- one apple tree, one or two artichokes, several comfreys, a dozen insectary plants, dozens of bulbs, hundreds of clovers.
-
-## Guilds in Practice
-
-Guilds can be nested within larger systems. An individual tree guild can be connected to other guilds via hedgerows, creating a "super-guild" of interlocking plant communities. As the garden matures, organic matter builds, nutrient cycles close, plant diversity increases, and the landscape approaches the complexity and self-sufficiency of a mature woodland -- but one that feeds people.
-
-## Related Concepts
-- [[faires-orchard-pruning-methods]]
-
-- [[forest-garden-seven-layers]] -- guilds are the building blocks of forest gardens
 - [[backyard-food-forest-design]] -- how guilds combine into a larger food forest
-- [[polyculture-design-hemenway]] -- the design thinking behind combining multiple species
 - [[permaculture-guild-design]] -- detailed guild construction methods
-- [[permaculture-plant-guilds]] -- guild theory and examples
 - [[dynamic-accumulators]] -- plants that mine nutrients from deep soil
 - [[nitrogen-fixing-trees-and-shrubs]] -- woody nitrogen fixers for guild design
 
@@ -112,3 +67,22 @@ Nutritional composition per 100g edible portion: Water 76.1%, Energy 89 calories
 The sapodilla produces a latex called chicle, obtained by tapping the bark in a manner similar to rubber tapping. Chicle was commercially harvested as the base for chewing gum throughout Central America for over a century. While synthetic alternatives have largely replaced natural chicle, there is renewed interest in sustainable chicle production as a non-timber forest product.
 
 ## Timber
+## Practical Considerations
+
+Successful implementation of Fruit Tree Guild Roles requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -61,29 +61,6 @@ cut or bruised.
 
 The spore print is rusty-brown to orange-brown, a critical
 diagnostic feature. Compare with other species using the
-[[psilocybin-mushroom-image-guide-spore-color-chart]].
-
-## Geographic Distribution and Habitat
-
-Gymnopilus spectabilis has a wide distribution across temperate
-regions of the world. In North America, it is found from the Pacific
-Northwest through California and across much of the eastern United
-States. The image guide documents specimens from Mendocino,
-California, growing on stumps and tree bases. The species also occurs
-in Europe, Asia, and parts of Australia.
-
-This species is predominantly lignicolous, growing on dead or dying
-hardwood trees, stumps, logs, and buried roots. It shows a particular
-affinity for oak, maple, and other deciduous hardwoods but can also
-occur on some conifers. Unlike many Psilocybe species that prefer
-enriched soils or dung, G. spectabilis is a true wood-decay fungus,
-producing a white rot that breaks down both cellulose and lignin in
-the wood substrate.
-
-Fruiting typically occurs from late summer through autumn, with
-September and October being peak months in most regions. The mushrooms
-often grow in clusters or overlapping groups on their woody substrate.
-For more on habitat associations, see
 [[psilocybin-mushroom-image-guide-habitat-clues]].
 
 ## Potency and Chemical Composition
@@ -121,7 +98,5 @@ species are visually similar but lack psychoactive properties, and
 some Galerina species that grow on wood can be toxic. The rusty-brown
 spore print is the most reliable distinguishing feature. For
 comprehensive safety guidance, consult
-[[psilocybin-mushroom-image-guide-lookalike-species]] and
 [[psilocybin-mushroom-image-guide-identification-methods]]. The species appears in the broader
-[[psilocybin-mushroom-species-overview]] alongside
-other notable genera.
+[[bougainvillea-spectabilis]]

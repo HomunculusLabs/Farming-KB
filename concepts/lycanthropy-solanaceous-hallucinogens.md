@@ -55,7 +55,7 @@ The ointments described in witchcraft and lycanthropy confessions
 were prepared from tropane-alkaloid-rich plants of the Solanaceae
 family. John Baptista Porta (1589) described a potion made from
 henbane (Hyoscyamus niger), mandrake (Mandragora officinarum),
-stramonium ([[datura-stramonium]]), and belladonna ([[atropa-belladonna]]).
+stramonium ([[atropa-belladonna]]).
 Under its effects, subjects believed themselves transformed into
 birds, fish, or geese, exhibiting behaviors appropriate to each
 animal form. One subject "would seem sometimes to be changed into
@@ -137,6 +137,5 @@ produce a convincing subjective experience of becoming an animal.
 
 ## See Also
 
-- [[ergot-alkaloid-chemistry-history]] for chemistry of solanaceous compounds
 - [[ergot-fungus]] for other European hallucinogenic fungi
 - [[salvinorin-pharmacology]] for transdermal preparations

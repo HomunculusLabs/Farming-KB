@@ -1,7 +1,7 @@
 ---
 title: Fungal Biodiversity in Marine and Coastal Ecosystems
 created: 2026-04-28
-tags: [mycology, biodiversity, marine-fungi, coastal-ecology, aquatic]
+tags: [[mycology, biodiversity, marine-fungi, coastal-ecology, aquatic]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -143,8 +143,7 @@ ecological interpretation.
 
 ### Depth and Access Limitations
 
-- [[biodiversity-fungi-aquatic-environments]]
 - [[biodiversity-fungi-freshwater-aquatic-habitats]]
-- [[freshwater-fungi-biodiversity]]
 - [[biodiversity-fungal-community-assembly]]
-- [[biodiversity-fungi-tropical-rainforests]]
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

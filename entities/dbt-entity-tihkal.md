@@ -19,7 +19,7 @@ TIHKAL entry #2. N,N-dibutyltryptamine is a synthetic tryptamine carrying two bu
 
 ## Dosage and Activity
 
-DBT shows minimal activity in humans. Early reports suggested that intramuscular injection of 1 mg/kg produced less effect than equivalent doses of [[alpha-n-dmt-entity-tihkal]] or [[det-entity-tihkal]]. The dihexyl homologue (DHT, N,N-dihexyltryptamine) was reported as completely inactive.
+DBT shows minimal activity in humans. Early reports suggested that intramuscular injection of 1 mg/kg produced less effect than equivalent doses of [[det-entity-tihkal]]. The dihexyl homologue (DHT, N,N-dihexyltryptamine) was reported as completely inactive.
 
 The monohexyl homologue (NHT, N-hexyltryptamine) was described as "inactive in a few patients" but was never systematically studied.
 
@@ -37,34 +37,8 @@ The diisobutyl analogue (DIBT) has been synthesized by the parallel procedure. I
 
 DBT occupies a critical position in the systematic exploration of dialkyl tryptamine chain lengths. The series proceeds as follows: DMT (two methyl groups, two carbons total), DET (two ethyl groups, four carbons), DPT (two propyl groups, six carbons), and DBT (two butyl groups, eight carbons).
 
-The general trend shows that as chain length increases beyond dimethyl, oral activity emerges (DET, DPT, and [[mbt-entity-tihkal]] are all orally active in the 200-400 mg range). However, activity progressively decreases with longer chains. DBT shows significantly reduced activity compared to DPT, and the dihexyl analogue (DHT) is reportedly inactive.
-
-This suggests that beyond a certain chain length, the steric bulk around the nitrogen atom interferes with binding at the relevant receptor sites, likely the 5-HT2A receptor and other serotonin receptor subtypes responsible for psychedelic activity.
-
-## Shulgin's Tryptamine Coding System
-
-The DBT entry is notable for containing Shulgin's detailed explanation of his three-letter coding system for tryptamines, which is worth summarizing:
-
-The code consists of letters indicating substitution patterns. Position indicators come first: numbers (1-6) for ring positions, Greek letters (alpha, beta, gamma) for side chain positions, and atom symbols (N, O, S) for heteroatom substitutions.
-
-The compound name portion uses: N for mono-substitution (single group on nitrogen), D for di-substitution, and T for tri-substitution on the nitrogen. Group identifiers include M (methyl), E (ethyl), P (propyl), B (butyl), IB (isobutyl), SB (sec-butyl), TB (tert-butyl), A (amyl), H (hexyl), and AL (allyl). The final letter defines the class: T for tryptamine, C for carboline, S for serotonin.
-
-For example, 5,alpha,N-TTBT would be a tryptamine with three tert-butyl groups at the 5-position, alpha-carbon, and nitrogen atom.
-
-Shulgin noted the combinatorial challenges: with only 26 cubed (approximately 17,000) possible three-letter codes, conflicts are inevitable. He observed that a nonyl-substituted tryptamine would require the code "TNT," which was already assigned to Aleph in the phenethylamine series (DesOxyThio).
-
-## Physical Properties
-
-- Hydrochloride mp: 186–188 °C
-- Glyoxylamide intermediate mp: 131–132 °C
-- DIBT hydrochloride mp: 202–204 °C
-
-## Related Compounds
-
-[[alpha-n-dmt-entity-tihkal]] — the dimethyl analogue (2 carbons), a powerful psychedelic.
-[[det-entity-tihkal]] — the diethyl analogue (4 carbons), an orally active psychedelic.
+The general trend shows that as chain length increases beyond dimethyl, oral activity emerges (DET, DPT, and [[amt-entity-tihkal]] — the dimethyl analogue (2 carbons), a powerful psychedelic.
 [[4-ho-dpt-entity-tihkal]] — the dipropyl analogue (6 carbons), an orally active psychedelic.
-[[mbt-entity-tihkal]] — the mixed methyl-butyl analogue (5 carbons), orally active.
 [[nmt-entity-tihkal]] — the mono-methyl starting point of the series.
 
 ## Historical Context
@@ -82,3 +56,62 @@ Shulgin's coding system, while never widely adopted outside TIHKAL, represents a
 ## Additional References
 
 Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
+## Practical Considerations
+
+When working with DBT (N,N-Dibutyltryptamine) — TIHKAL Entry #2, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

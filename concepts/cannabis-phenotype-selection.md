@@ -125,11 +125,7 @@ entering future generations.
 
 ## See Also
 
-- [[oner-cannabis-breeding-fundamentals]]
 - [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]
-- [[cannabis-strain-selection-guide]]
 - [[cannabis-harvest-timing-visual-cues]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-seed-selection-and-strain-types]]

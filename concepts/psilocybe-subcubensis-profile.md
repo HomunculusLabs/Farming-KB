@@ -17,9 +17,7 @@ type: concept
 # Psilocybe subcubensis
 
 Psilocybe subcubensis is a psilocybin-containing mushroom species
-described by [[gaston-guzman]]. It was first documented from specimens
-collected in Southeast Asia, particularly from the island of Koh
-Samui in southern Thailand. The Psilocybin Mushroom Image Guide
+described by [[psilocybin-mushroom]] Image Guide
 includes photographs by John W. Allen showing P. subcubensis
 specimens from the Koh Samui type locality.
 
@@ -85,66 +83,6 @@ typical of P. cubensis. The spores are ellipsoid to broadly
 ellipsoid, with a prominent germ pore, and are smooth and
 thick-walled. The spore print is dark purplish-brown.
 
-## Comparison with [[psilocybe-cubensis]]
-
-Psilocybe subcubensis and P. cubensis are very similar in overall
-appearance and ecology, and the two species frequently co-occur in
-the same habitats in tropical Southeast Asia. Key differences include:
-
-### Size
-
-P. subcubensis is generally smaller in all dimensions compared to
-P. cubensis. The caps are smaller, the stems are shorter and more
-slender, and the overall stature of the mushroom is more delicate.
-P. cubensis can produce much larger specimens, with caps exceeding
-5 inches (12.5 cm) in diameter as documented in the image guide.
-
-### Spore Size
-
-The most reliable distinguishing feature is spore size. P.
-subcubensis produces consistently smaller spores, typically 10 to
-13 micrometers in length, while P. cubensis spores range from 12 to
-17 micrometers. This difference requires microscopic examination
-to confirm but is considered the primary diagnostic character.
-
-### Geographic Distribution
-
-P. cubensis has a pantropical distribution, found throughout the
-Americas, Southeast Asia, Africa, and Australia. P. subcubensis
-appears to have a more restricted range, being primarily documented
-from Southeast Asia, especially Thailand. Reports from other tropical
-regions may represent misidentified P. cubensis.
-
-## Habitat and Distribution
-
-Psilocybe subcubensis is found in tropical and subtropical regions,
-primarily in Southeast Asia. The Psilocybin Mushroom Image Guide
-documents specimens from Koh Samui, Thailand, photographed by John
-W. Allen. Like P. cubensis, it grows on herbivore dung, particularly
-that of cattle and water buffalo, and is found in pastures, rice
-paddies, and other agricultural settings with manured soil.
-
-The species fruits during warm, wet conditions, which in the
-tropical climate of southern Thailand can occur throughout much of
-the year. Peak fruiting typically coincides with the rainy season
-when humidity and moisture levels are highest.
-
-## Potency
-
-Psilocybe subcubensis contains psilocybin and psilocin as its
-primary psychoactive constituents. While comprehensive potency
-studies specifically on P. subcubensis are limited, its
-psychoactive effects are generally considered similar to those of
-P. cubensis, though possibly slightly more variable due to the
-species' more restricted documentation in the scientific literature.
-
-## Identification in the Field
-
-In practice, P. subcubensis is very difficult to distinguish from
-P. cubensis without microscopic examination of spores. For most
-practical purposes in the field, the two species are treated
-## See Also
-
-- [[psilocybe-subcubensis]]
+## Comparison with [[psilocybe-subcubensis]]
 
 - [[psilocybe-aztecorum-profile]]

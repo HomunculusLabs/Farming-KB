@@ -25,40 +25,6 @@ volume needs, and tolerance for variability in drying conditions.
 
 ## Solar Dehydrator
 
-[[solar-dehydrator-plans]]
-
-The most effective solar dehydrator design uses an indirect
-configuration that separates the solar collector from the drying
-chamber. A black-painted absorber plate sits beneath a transparent
-glazing material, typically polycarbonate or glass, angled to match
-your latitude for optimal solar gain. Air heats as it passes through
-the collector, then rises by natural convection into the drying
-chamber where food trays are arranged in vertical racks. This indirect
-design prevents direct sun exposure on the food, preserving color,
-flavor, and nutrient content far better than open-air sun drying.
-
-Temperature inside a well-built solar dehydrator reaches 110 to 140
-degrees Fahrenheit without any electricity input. Adjustable intake
-and exhaust vents allow temperature control by regulating airflow.
-Sizes range from small units at 2 by 2 feet with 4 to 6 trays to
-large walk-in models at 4 by 8 feet accommodating 15 to 20 or more
-trays. Materials are inexpensive and widely available: plywood or
-oriented strand board for the frame, sheet metal or corrugated metal
-for the absorber, and polycarbonate for the glazing.
-
-The zero operating cost makes solar dehydrators ideal for off-grid
-homesteads and sustainable living situations. They preserve nutrients
-better than direct-sun drying because food is protected from UV
-degradation and the enclosed environment keeps out dust and insects.
-However, they are inherently weather-dependent. Cloudy or humid days
-reduce drying temperatures and extend processing time. No overnight
-drying is possible because temperatures drop without sunlight, which
-means multi-day drying requires removing food or covering it each
-evening. Passive convection moves air more slowly than electric fans,
-extending total drying time.
-
-## Electric Dehydrator
-
 [[food-dehydration-guide]]
 
 Electric dehydrators are widely considered the most practical and
@@ -134,15 +100,9 @@ energy-independent.
 
 ## See Also
 
-- [[comparison-root-cellaring-vs-dehydration]] for cold storage
-  versus drying
 - [[comparison-fermentation-vs-canning]] for alternative preservation
   methods
-- [[solar-dehydrator-plans]] for construction details
 - [[food-dehydration-guide]] for electric dehydration techniques
-- [[comparison-lime-plaster-vs-earthen-plaster]]
 - [[comparison-turmeric-vs-ginger]]
-- [[comparison-persimmon-vs-pawpaw]]
 - [[comparison-bacteriophages-vs-antibiotics]]
-- [[comparison-blackberry-vs-raspberry]]
-- [[comparison-coppicing-vs-pollarding]]
+- [[woodlot-and-coppicing]]

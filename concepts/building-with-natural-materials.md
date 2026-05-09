@@ -9,7 +9,7 @@ sources: []
 
 # Building with Natural Materials
 
-[[natural-building]] uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
+Natural building uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
 
 ## Cob
 
@@ -50,7 +50,7 @@ Cons: Labor intensive, slow building process, vulnerable to prolonged moisture e
 
 ## Straw Bale
 
-[[straw-bale-construction]] uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
+Straw bale construction uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
 
 ### Straw vs Hay
 

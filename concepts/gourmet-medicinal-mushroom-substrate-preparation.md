@@ -116,8 +116,6 @@ Straw is a "forgiving" substrate for small cultivators because pasteurization is
 ## Substrate-to-Yield Conversion
 
 Oyster mushrooms demonstrate some of the highest biological efficiencies in cultivation. In decomposing dry straw, approximately 50% of mass is liberated as CO2, 20% is lost as water, 20% remains as spent compost, and 10% is converted into dry mushrooms. This equates to roughly 25% conversion of wet substrate mass into fresh mushrooms. Biological efficiencies for oyster mushrooms frequently exceed 100%.
-- [[gourmet-medicinal-mushroom-spawn-grain-production]]
 - [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
-- [[gourmet-medicinal-mushroom-casing-layer-techniques]]
 - [[mushroom-sawdust-bran-spawn-preparation]]
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]

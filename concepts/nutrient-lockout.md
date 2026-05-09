@@ -104,15 +104,8 @@ Containers have very little growing medium to hold nutrients, making toxic salt 
 
 Once a plant shows symptoms, it has already undergone severe nutritional stress. It will take time for the plant to resume vigorous growth. Indoor cannabis crops are harvested so fast that plants do not always have time to recover from nutrient imbalances. One small imbalance could cost a week of growth — more than 10% of the plant's life.
 
-Do not confuse nutrient deficiencies or toxicities with [[hamilton-pest-and-disease-control-organic]] or poor cultural practices.
-
-## See Also
-
-- [[cannabis-pest-management-guide]] — overall plant health
-- [[heat-stress-cannabis]] — worsens nutrient availability problems
+Do not confuse nutrient deficiencies or toxicities with [[cannabis-pest-management-guide]] — overall plant health
 - [[humidity-cannabis-growing]] — environmental factors
-- [[cannabis-disease-guide]] — broader diagnostic reference
 - [[flushing-nutrients]] — flushing technique for recovery
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[cannabis-chemical-burn-vs-deficiency]]
 - [[cannabis-plant-stress-types-and-recovery]]

@@ -75,15 +75,11 @@ Solomon advocates a philosophical shift in dealing with garden problems:
 
 ## Related Concepts
 
-- [[weed-management-strategies]]
 - [[hand-watering-garden]]
-- [[weed-management-strategies]]
 - [[weed-suppression-strategies]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapters 5-6 and pest management sections
 
-- [[root-competition-plant-spacing-solomon]]
 - [[solomon-gardening-when-it-counts-index]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[garden-hand-tools-solomon]]

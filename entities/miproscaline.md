@@ -110,13 +110,8 @@ Due to the lack of formal pharmacological research, individuals with cardiovascu
 
 ## See Also
 
-- [[mescaline-entity]]
 - [[proscaline]]
-- [[escaline-entity]]
 - [[2c-b]]
-- [[2c-i]]
 - [[4-ho-met]]
-- [[4-ho-mipt]]
 - [[bufotenin]]
-- [[5-meo-dmt]]
 - [[dmt-nn-dimethyltryptamine]]

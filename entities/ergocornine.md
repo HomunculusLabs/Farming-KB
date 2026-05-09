@@ -21,23 +21,7 @@ sources:
 ## Overview
 
 **Ergocornine** (C₃₁H₃₉N₅O₅) is an ergopeptine alkaloid produced by the
-ergot fungus *Claviceps purpurea* and several related *Claviceps* species.
-It belongs to the ergoline class of compounds and is one of the four
-principal ergopeptines found in ergot sclerotia alongside ergocristine,
-ergocryptine, and ergotamine.
-
-Ergocornine is a potent **dopamine D₂ receptor agonist** with moderate
-affinity for α-adrenergic and serotonin 5-HT₂ receptors. While not widely
-used as a standalone pharmaceutical, it serves as a key reference compound
-in ergopeptine pharmacology and contributes to the overall biological
-activity profile of crude ergot preparations used historically in obstetrics.
-
-## Chemical Properties
-
-- **Molecular formula:** C₃₁H₃₉N₅O₅
-- **Molecular weight:** 561.67 g/mol
-- **Chemical class:** Ergopeptine (ergoline tricyclic + cyclol tripeptide)
-- **Structure:** Composed of lysergic acid amide linked to a cyclol ring
+ergot fungus *[[lysergic-acid-amide]] linked to a cyclol ring
   formed by three amino acids: L-valine, L-proline, and L-phenylalanine
 - **IUPAC name:** Ergotaman-3',6',18-trione, 12'-hydroxy-2',5'-α-epoxy-
   (or according to stereochemical conventions for ergopeptines)
@@ -127,6 +111,5 @@ Ergocornine has been used experimentally to:
 
 ## See Also
 
-- [[ergocristine]] — Sister ergopeptine with phenylalanine side chain
 - [[ergotamine]] — Clinically important ergopeptine for migraine treatment
 - [[lsd]] — Semisynthetic lysergamide derived from ergot alkaloid pathway

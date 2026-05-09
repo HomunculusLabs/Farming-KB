@@ -135,9 +135,6 @@ The distinction between *H. lacunosa* and *Gyromitra* species is critical: Gyrom
 
 ## See Also
 
-- `[[gyromitra-esculenta]]` — Toxic lookalike with brain-like cap morphology
 - `[[helvella-crispa]]` — Closely related edible elfin saddle with whitish cap
-- `[[morchella-esculenta-entity]]` — True morel, another spring-fruiting ascomycete
 - `[[cordyceps-sinensis]]` — Another ascomycete fungus of pharmaceutical significance
-- `[[armillaria-mellea-entity]]` — Honey mushroom, a commonly encountered forest fungus
-- `[[psilocybe-cubensis-entity]]` — Cultivated psilocybin mushroom for comparison of fungal ecology
+- `[[psilocybe-cubensis]]` — Cultivated psilocybin mushroom for comparison of fungal ecology

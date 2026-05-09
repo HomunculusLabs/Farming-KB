@@ -1,5 +1,5 @@
 ---
-title: Substrate Preparation for Mushroom Growing
+title: Substrate Preparation Mushroom Growing
 created: 2026-04-28
 tags: [substrate-preparation, mushroom-bags, sawdust, rice-straw,
   pasteurization, inoculation]
@@ -120,7 +120,9 @@ species.
 
 ## Related Concepts
 
-- [[mushroom-species-cultivation-methods]]
 - [[mushroom-house-design-management]]
-- [[mushroom-cultivation-troubleshooting]]
 - [[buildings-tools-equipment-mushroom-cultivation]]
+
+## See Also
+
+- [[mushroom-cultivator-substrate-preparation]]

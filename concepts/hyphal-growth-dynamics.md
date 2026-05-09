@@ -1,7 +1,7 @@
 ---
 title: hyphal growth dynamics
 created: 2026-04-28
-tags: [mycology, cell-biology, growth, fungal-biology, biophysics]
+tags: [[mycology, cell-biology, growth, fungal-biology, biophysics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -48,95 +48,32 @@ structural integrity while the tip continues to extend.
 
 ## Branching Patterns
 
-Hyphal branching is a critical feature of [[mycelial-networks]] formation. Branches
-arise from subapical compartments at characteristic intervals determined by
-the organism's growth rate and environmental conditions. The branch initiation
-site is marked by the local accumulation of a new Spitzenkörper, indicating a
-shift from isotropic to polarized growth.
-
-Branching patterns follow several mathematical models:
-
-- **Apical Dominance:** The main hypha suppresses nearby branching through
-  resource monopolization, creating hierarchical growth patterns.
-- **Lateral Branching:** New branches emerge at regular intervals along the
-  hypha, typically 50-200 micrometers behind the tip.
-- **Dichotomous Branching:** The tip bifurcates into two equal branches,
-  common in some zygomycete species.
-
-## Septum Formation and Compartmentalization
-
-As hyphae extend, septa (cross-walls) form at regular intervals, dividing the
-hypha into discrete compartments. Septum formation involves the construction
-of a chitin-rich cell wall across the hyphal diameter, typically with a
-central pore that allows cytoplasmic continuity between compartments.
-
-Septal pores are regulated by Woronin bodies (in Ascomycota) or septal pore
-caps (in Basidiomycota), which can plug the pore in response to cellular
-damage, preventing catastrophic loss of cytoplasm. This compartmentalization
-strategy allows fungi to tolerate localized damage while maintaining network
-integrity.
-
-## Environmental Sensing and Tropisms
-
-Hyphae exhibit directed growth responses (tropisms) toward or away from
-various environmental stimuli:
-
-- **Chemotropism:** Growth toward nutrients (sugars, amino acids, minerals)
-  mediated by membrane receptor signaling and localized calcium gradients.
-- **Thigmotropism:** Contact-guided growth where hyphae follow surface
-  topography, enabling exploration of soil particle surfaces.
-- **Electrotropism:** Oriented growth in response to electric fields,
-  potentially relevant to plant-fungal interactions at root surfaces.
-- **Aerotropism:** Growth toward oxygen, mediated by oxygen-sensitive
-  signaling pathways.
-
-## Growth Rates and Kinetics
-
-Hyphal extension rates vary dramatically across species and conditions:
-
-| Condition | Rate (micrometers/min) |
-|-----------|----------------------|
-| Rich media (optimal) | 5-40 |
-| Minimal media | 1-5 |
-| Soil (in situ) | 0.1-2 |
-| Wood decomposition | 0.05-0.5 |
-
-Temperature optima typically range from 25-30C for mesophilic species, with
-growth ceasing below approximately 5C and above 45C. The Arrhenius activation
-energy for hyphal extension is approximately 50-80 kJ/mol.
-
-## Mathematical Models
-
-Hyphal growth has been modeled using several frameworks:
-
-- **Neighbour-Sensing Model:** Proposes that hyphal tips detect and respond
-  to the distribution of nearby tips, generating realistic branching
-  patterns through local interaction rules.
-- **Hyphal Expansion Equations:** Describe tip extension as a function of
-  turgor pressure, cell wall viscoelasticity, and vesicle supply rate.
-- **Individual-Based Models:** Simulate each hypha as an autonomous agent
-  with its own growth rules, enabling prediction of colony-level morphology.
-
-## Cytoplasmic Streaming
-
-Cytoplasmic streaming within hyphae is driven by molecular motors (myosin
-and kinesin) moving along actin and microtubule tracks. This bidirectional
-flow redistributes organelles, mRNA, and nutrients throughout the network.
-Streaming rates can reach 10-60 micrometers per second, far exceeding the
-rate of tip extension, ensuring efficient distribution of resources.
-
-## Applications and Relevance
-
-Understanding hyphal growth dynamics is essential for multiple applied fields:
-controlling [[fungal-pathogens-in-agriculture]], optimizing industrial enzyme
+Hyphal branching is a critical feature of [[fungal-pathogens-in-agriculture]], optimizing industrial enzyme
 production from filamentous fungi, developing myco-materials for sustainable
 manufacturing, and designing biomimetic algorithms for network optimization
 and robotic exploration.
 
 ## See Also
 
-- [[fungal-growth-dynamics]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
-- [[gadd-colony-morphogenesis-hyphal-growth]]
 - [[hyphal-growth-kinetics]]
 - [[tompkins-plant-growth-regulators]]
+## Practical Considerations
+
+Successful implementation of hyphal growth dynamics requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

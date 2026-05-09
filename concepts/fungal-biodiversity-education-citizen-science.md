@@ -3,7 +3,7 @@ title: Fungal Biodiversity Education Citizen Science
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -87,14 +87,7 @@ Fruiting is seasonal and often brief, limiting the window for citizen science ob
 
 ## Connection to Conservation
 
-Citizen science fungal monitoring contributes to [[fungal-conservation-biology]] by:
-
-- Expanding the geographic and temporal coverage of monitoring
-- Building public awareness of fungal conservation needs
-- Providing early warning of species declines
-- Supporting the development of fungal Red Lists
-
-## Connection to [[fungal-biodiversity-herbarium-collections]]
+Citizen science fungal monitoring contributes to [[fungal-biodiversity-herbarium-collections]]
 
 Citizen science programs complement herbarium collections by providing:
 
@@ -105,15 +98,10 @@ Citizen science programs complement herbarium collections by providing:
 
 ## See Also
 
-- [[citizen-science-fungal-biodiversity-discovery]]
-
 - [[fungal-conservation-biology]]
-- [[fungal-biodiversity-herbarium-collections]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[rare-endangered-fungi-conservation]]
 - [[fungal-ecosystem-indicator-species]]
 
 Source: Comprehensive review of fungal biodiversity education and citizen science initiatives
-- [[building-soil-fertility-long-term]]
 - [[saprobic-soil-fungi-ecology-survey]]
 - [[fungal-roles-soil-food-webs]]

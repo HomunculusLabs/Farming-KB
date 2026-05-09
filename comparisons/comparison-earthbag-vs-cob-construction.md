@@ -22,37 +22,6 @@ a monolithic sculptable material built up by hand.
 
 ## Earthbag Construction
 
-[[earthbag-building]]
-Earthbag building was developed in its modern form by architect Nader
-Khalili in the 1980s and 1990s at the Cal-Earth Institute in California.
-Khalili was inspired by traditional military sandbag construction and adapted
-it for permanent buildings using barbed wire between courses and various
-finishes. The technique involves filling continuous polypropylene tubes or
-individual bags with a damp earth mix — typically subsoil with approximately
-10-30% clay content — and laying them in staggered courses. Two strands of
-barbed wire are laid between each course, acting as a mortar that grips the
-bags and prevents lateral movement.
-
-Earthbag construction can produce load-bearing walls without a separate
-structural frame, making it suitable for domes, vaults, and rectilinear
-buildings alike. The filled bags are tamped solid, reaching a dense
-compaction that provides significant compressive strength. Structural
-testing at military and academic institutions has confirmed that properly
-built earthbag walls can withstand substantial loads and even seismic
-forces, especially when the barbed wire interconnection and wall geometry
-are designed correctly.
-
-The earthbag method is remarkably forgiving of poor soil conditions. Unlike
-cob, which requires a specific clay-to-sand ratio, earthbag construction
-can work with a wide range of soils. In extreme cases where the on-site
-soil is unsuitable (pure sand or pure clay), builders can add amendments or
-import better soil for the bags. Earthbag buildings are particularly popular
-in disaster-relief and affordable-housing contexts because the materials are
-cheap, widely available, and the technique can be taught to unskilled laborers
-in a matter of days.
-
-## Cob Construction
-
 [[cob-building]]
 Cob is one of the oldest building methods in human history, with cob
 buildings in Devon, England dating back to the 15th century and still in
@@ -140,11 +109,8 @@ moisture-resistant base, then transitions to cob above. This eliminates
 the need for a conventional concrete foundation and the transition is
 straightforward: the bags are tamped and topped with cob that keys into
 the irregular bag surface.
-
 ## See Also
 
-- [[earthbag-building]]
 - [[earthbag-construction]]
-- [[cob-building]]
 - [[cob-construction]]
 - [[natural-building]]

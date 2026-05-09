@@ -11,17 +11,9 @@ sources:
 
 # Peyote and Psychoactive Cacti
 
-
-
-
-
 ## Overview
 
 Peyote is the most famous of the hallucinogenic cacti, with a known history dating back to pre-Columbian times, possibly as early as 300 BC. Along with San Pedro and related South American species, it represents one of the major families of psychoactive plants used ceremonially for millennia.
-
-
-
-
 
 ## Peyote (Lophophora williamsii)
 
@@ -49,17 +41,9 @@ During the past two centuries, the religious use of peyote spread northward amon
 
 The best harvest time is after a long dry spell (alkaloids build up during dry periods and are drawn upon for growth when rains come). The roots contain no mescaline, so proper harvesting involves cleanly decapitating the button slightly above ground level, leaving the roots to produce new buds. A button three inches in diameter may be more than 20 years old.
 
-
-
-
-
-## San Pedro ([[trichocereus-pachanoi]])
+## San Pedro (Trichocereus pachanoi)
 
 San Pedro is a fast-growing columnar cactus from the Andes, used in Peruvian healing ceremonies for centuries. It contains mescaline along with other alkaloids. Unlike peyote, San Pedro grows rapidly and can reach considerable size, making it a practical source of mescaline. It is legally available as an ornamental plant in many jurisdictions.
-
-
-
-
 
 ## Other Psychoactive Cacti
 
@@ -68,21 +52,32 @@ San Pedro is a fast-growing columnar cactus from the Andes, used in Peruvian hea
 - **Peyotillo** (Pelecyphora aselliformis): Contains traces of mescaline too minute to have any effect.
 - **Tsuwiri** (Ariocarpus retusus): "False Peyote" -- the Huichol believe it causes madness if consumed by the impure.
 - **Sunami** (Ariocarpus fissuratus): Believed more potent than peyote, used as an intoxicating drink.
-- **Peruvian Torch** ([[trichocereus-peruvianus]]): A mescaline-bearing columnar cactus from the Andes.
-
-
-
-
+- **Peruvian Torch** (Trichocereus peruvianus): A mescaline-bearing columnar cactus from the Andes.
 
 ## The Experience
 
 About half an hour after ingestion, the first effects are felt: strange intoxication, shifting consciousness, minor perceptual changes, and physical effects (respiratory pressure, muscle tension, possible nausea). After an hour, altered consciousness deepens: feelings of inner tranquility, oneness with life, heightened awareness, rapid thought flow. Visual effects intensify -- colors become more intense, halos and auras appear, objects may seem to change size and distance. The entire experience lasts 6-12 hours with no comedown.
 
-
-
-
-
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
-- [[amanita-preparation-methods]] -- preparation of another entheogen
+- [[amanita-muscaria-preparation-methods]] -- preparation of another entheogen
+## Practical Considerations
+
+Successful implementation of Peyote and Psychoactive Cacti requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

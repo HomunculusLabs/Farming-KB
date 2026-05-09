@@ -8,39 +8,12 @@ sources: [raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Tabletop [[unknown-mycelium-mycofiltration]] Unit Construction
-
-A tabletop mycofiltration unit is an inexpensive, accessible
-prototype for testing fungal water filtration. Built for
-approximately $30 using readily available materials, this three-
-tiered plastic module with a recirculating water filter allows
-cultivators to evaluate species performance, measure contaminant
-reduction, and develop data for scaling up to full-scale
-[[mycoremediation]] installations. This bench-scale approach
-connects directly to the broader science of [[stamets-mycoremediation-principles]]
-and informs [[bioaugmentation-strategies]] for contaminated sites.
+# Tabletop [[mycoremediation]] installations. This bench-scale approach
+connects directly to the broader science of [[bioaugmentation-strategies]] for contaminated sites.
 
 ## Design Philosophy
 
-[[stamets-mycoremediation-principles]] underpin most mycoremediation projects, which employ some form of water
-mycofiltration or enzyme harvesting system, since contaminants
-can be treated directly in water or percolated into soils. The
-simplest filtration unit uses gravity to feed water through a
-mycelial biomass. When constructing multiple prototype units,
-they should be arranged in a stacked configuration or positioned
-so each unit is downhill of the previous one, maximizing
-efficiency through sequential filtration.
-
-## Materials and Cost
-
-The complete tabletop unit costs approximately $30 and uses
-commonly available components:
-
-- **Three-tiered plastic module**: The structural housing for the
-  filtration system, providing three separate filtration stages.
-- **Recirculating water pump**: Moves water through the system
-  for repeated filtration passes during testing.
-- **Mycelial biomass**: Fully colonized substrate blocks or [[stamets-spawn-making-and-grain-culture|sawdust spawn]] from the selected fungal species, filling each tier.
+[[stamets-spawn-making-and-grain-culture|sawdust spawn]] from the selected fungal species, filling each tier.
 - **Tubing**: For water recirculation between the collection
   reservoir and the top tier.
 - **Collection reservoir**: Catches filtered water for testing
@@ -65,14 +38,7 @@ performance.
 Fill each tier with fully colonized mycelial substrate. The
 biomass should be intact and well-consolidated to prevent
 channeling of water through gaps. Ensure the mycelium is actively
-growing, not stalled or contaminated. The [[white-rot-fungi]] species selected
-should match the contaminants being targeted. For general coliform
-removal, [[stropharia-rugosoannulata|king stropharia]] and [[stamets-pleurotus-oyster-cultivation|oyster mushrooms]] are effective
-choices.
-
-## Enzyme Harvesting Modification
-
-[[biobleaching-of-pulp-by-white-rot-fungi]] and related research demonstrates that enzymatic extraction from fungal biomass is feasible at bench scale. The tabletop unit can be modified for enzyme harvesting by
+growing, not stalled or contaminated. The [[stropharia-rugosoannulata|king stropharia]] and [[biobleaching-of-pulp-by-white-rot-fungi]] and related research demonstrates that enzymatic extraction from fungal biomass is feasible at bench scale. The tabletop unit can be modified for enzyme harvesting by
 inserting small sterile, open-ended tubing into the biomass,
 accessible from the exterior and typically positioned at an angle
 that can be capped. Solutions added through these tubes infuse
@@ -116,35 +82,5 @@ effectiveness.
 
 ## Scaling Considerations
 
-[[bioaugmentation-strategies]] benefit from data gathered at bench scale. Data gathered from tabletop units directly informs full-scale
-design. Key parameters to record include: flow rate through the
-biomass, pressure differential, contaminant concentration before
-and after filtration, biological activity of the mycelium over
-time, and the lifespan of the filter before replacement is needed.
-These measurements allow engineering calculations for scaling to
-field installations.
-
-## Integration with Field Systems
-
-Tabletop units are most valuable as a preliminary step before
-field deployment. They help answer critical questions: Which
-species performs best against the target contaminants? What
-biomass volume is needed per unit of water treated? How quickly
-does the mycelium lose effectiveness? What maintenance schedule
-is required? Answers from bench-scale testing prevent costly
-mistakes in full-scale installations.
-
-## Maintenance and Lifespan
-
-Mycelial filters require periodic monitoring and eventual
-replacement. The mycelium will gradually consume the substrate
-and lose filtration capacity. Signs of declining performance
-include reduced flow rates, visible contamination by mold or
-bacteria, and declining contaminant removal as measured by water
-testing. Regular biological assays help track filter health over
-time.
-
-## See Also
-
-- [[stamets-mycoremediation-principles]] for the foundational science behind fungal remediation
+[[stamets-mycoremediation-principles]] for the foundational science behind fungal remediation
 - [[stropharia-rugoso-annulata-mycofiltration]] for species-specific filtration applications

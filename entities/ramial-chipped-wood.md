@@ -127,13 +127,8 @@ nigra*, which produces juglone) should be avoided.
 
 ## See Also
 
-- [[hugelkultur]]
 - [[chop-and-drop]]
-- [[sheet-mulching]]
 - [[biochar]]
-- [[cover-cropping-systems]]
 - [[comparison-mulch-vs-living-mulch]]
-- [[comfrey]]
 - [[food-forest]]
-- [[mycoremediation]]
 - [[dynamic-accumulators]]

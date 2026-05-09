@@ -130,9 +130,7 @@ In guild design, pomegranates pair well with Mediterranean herbs (rosemary, thym
 Both trees reward patience and minimal inputs with decades of productive harvests. Many growers plant both to extend the harvest season and diversify their orchard ecosystem.
 ## See Also
 
-- [[comparison-loquat-vs-persimmon-cultivation]]
 - [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
-- [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-agave-vs-prickly-pear-cultivation]]
 - [[comparison-oyster-vs-wine-cap-cultivation]]
 

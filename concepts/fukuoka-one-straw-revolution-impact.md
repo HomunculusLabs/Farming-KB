@@ -32,19 +32,7 @@ A New York Review Books Classics edition was published in 2009, introducing the 
 
 ### Japan
 
-In Japan, Fukuoka promoted the idea that every family should have a quarter-acre of land on which to live and grow food. The [[fukuoka-natural-farming]] philosophy found particular resonance in rural communities seeking alternatives to post-war chemical-intensive monoculture. Japanese organic food cooperatives, known as *teikei*, were influenced by Fukuoka's emphasis on direct producer-consumer relationships and natural growing methods.
-
-### India
-
-An Indian speaker at the Santa Cruz conference said Fukuoka's ideas were exactly like those of Gandhi and noted that ancient Indian texts mentioned [[natural-way-of-farming-guide]]. The book's philosophical alignment with Indian traditions -- particularly Buddhism and Vedanta -- made it especially influential in India. See [[fukuoka-indian-agriculture-observations]] for more detail on how Fukuoka's work shaped Indian agricultural thought and the Zero Budget Natural Farming movement.
-
-### Europe
-
-Fukuoka's ideas spread rapidly through European alternative agriculture networks during the 1980s and 1990s. His visit to European farms and academic institutions prompted experiments in [[natural-way-of-farming-guide]] and natural orchard management across France, Germany, and Italy. The European permaculture movement, building on the work of Bill Mollison and David Holmgren, frequently cited Fukuoka as a foundational influence alongside [[holzer-alpine-farming-techniques]] practiced by Sepp Holzer in Austria.
-
-### Australia
-
-In Australia, the book influenced both the permaculture movement -- which originated there -- and broad-acre farmers seeking to reduce chemical inputs. The parallels between Fukuoka's natural farming and the Australian-developed [[permaculture-principles]] are striking: both emphasize observation over intervention, polyculture over monoculture, and working with natural patterns rather than imposing external designs.
+In Japan, Fukuoka promoted the idea that every family should have a quarter-acre of land on which to live and grow food. The [[natural-way-of-farming-guide]]. The book's philosophical alignment with Indian traditions -- particularly Buddhism and Vedanta -- made it especially influential in India. See [[natural-way-of-farming-guide]] and natural orchard management across France, Germany, and Italy. The European permaculture movement, building on the work of Bill Mollison and David Holmgren, frequently cited Fukuoka as a foundational influence alongside [[permaculture-principles]] are striking: both emphasize observation over intervention, polyculture over monoculture, and working with natural patterns rather than imposing external designs.
 
 ## The Sunday Markets
 
@@ -96,21 +84,15 @@ In Japan, Fukuoka promoted the idea that every family should have a quarter-acre
 
 ## Legacy in the 21st Century
 
-As of the 2020s, Fukuoka's influence continues to grow. The global [[home-garden-seed-saving]] movement, the expansion of [[natural-way-of-farming-guide]] on millions of acres, and the mainstreaming of regenerative agriculture principles all reflect the intellectual foundation that *The One-Straw Revolution* helped establish. Climate change and soil degradation have made Fukuoka's warnings about scientific agriculture more urgent than ever. His vision of agriculture as a partnership with nature, rather than a domination of it, continues to inspire new generations of farmers, researchers, and food system reformers around the world.
+As of the 2020s, Fukuoka's influence continues to grow. The global [[natural-way-of-farming-guide]] on millions of acres, and the mainstreaming of regenerative agriculture principles all reflect the intellectual foundation that *The One-Straw Revolution* helped establish. Climate change and soil degradation have made Fukuoka's warnings about scientific agriculture more urgent than ever. His vision of agriculture as a partnership with nature, rather than a domination of it, continues to inspire new generations of farmers, researchers, and food system reformers around the world.
 
 ## See Also
 
-- [[fukuoka-natural-farming]]
-
 - [[fukuoka-american-agriculture-observations]]
-
-- [[fukuoka-desert-greening-techniques-detailed]]
 
 - [[permaculture-principles]]
 
 - regenerative agriculture
-
-- [[natural-way-of-farming-guide]]
 
 - [[home-garden-seed-saving]]
 

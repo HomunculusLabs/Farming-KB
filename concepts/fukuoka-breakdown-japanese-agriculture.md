@@ -64,7 +64,7 @@ Each purchase bound them more tightly to the industrial economy and further from
 
 The farmer may have thought at first that modern developments would make his job easier. Well, it freed him from the land and now he works harder than ever at other jobs, wearing away his body and mind. The chain saw was developed because someone decided that a tree had to be cut faster. Rather than making things easier for the farmer, the mechanized transplantation of rice has sent him running off to find other work.
 
-This paradox is at the heart of Fukuoka's critique: every labor-saving device in agriculture has, in practice, increased total labor while degrading the quality of both the work and its products. See [[fukuoka-natural-farming-philosophy]] for Fukuoka's alternative vision, and [[natural-farming-vs-organic-farming]] for how even organic agriculture can fall into similar traps.
+This paradox is at the heart of Fukuoka's critique: every labor-saving device in agriculture has, in practice, increased total labor while degrading the quality of both the work and its products. See [[natural-farming-vs-organic-farming]] for how even organic agriculture can fall into similar traps.
 
 ## The Ecological Cost
 
@@ -74,15 +74,13 @@ Rivers that once ran clear from mountain forests now carry sediment and agricult
 
 Fukuoka saw these changes not as inevitable progress but as a preventable tragedy -- the result of abandoning a way of working with nature that had sustained Japanese civilization for over a thousand years.
 
-The recovery of [[soil-food-web-nutrient-cycling]] and the adoption of [[composting-and-soil-biology]] methods represent partial steps back toward the wholeness that was lost, but Fukuoka would argue that the deeper recovery must be philosophical and spiritual, not merely technical.
+The recovery of [[ozier-pdc-composting-and-soil-building]] methods represent partial steps back toward the wholeness that was lost, but Fukuoka would argue that the deeper recovery must be philosophical and spiritual, not merely technical.
 
 The true cost of modern agriculture cannot be measured in yen per kilogram of rice. It must be measured in the loss of soil depth, the extinction of local varieties, the contamination of groundwater, and the severing of the bond between people and the land that feeds them.
 
 This severing is perhaps the most profound and least appreciated consequence of agricultural modernization. When people no longer know the land that feeds them -- when food arrives from anonymous sources through anonymous supply chains -- something essential is lost from human experience. The recovery of that connection is not merely an agricultural project but a cultural and spiritual one.
 
-Fukuoka's vision of [[fukuoka-natural-farming-philosophy]] offers a path toward that recovery.
-
-[[fukuoka-japan-postwar-agriculture]] | [[fukuoka-do-nothing-farming-philosophy]] | [[fukuoka-natural-farming-philosophy]] | [[fukuoka-critique-modern-agriculture]] | [[natural-farming-philosophy]]
+Fukuoka's vision of [[fukuoka-japan-postwar-agriculture]] | [[fukuoka-natural-farming-philosophy]] | [[natural-farming-philosophy]]
 
 ## Key Points
 

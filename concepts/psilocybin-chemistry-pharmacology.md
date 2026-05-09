@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-chemistry-and-pharmacology]]
+title: Psilocybin Chemistry Pharmacology
 created: 2026-05-08
 source: carolina-mushrooms_08qxp.md
 tags: [chemistry, pharmacology, psilocybin, tryptamines, neuroscience]
@@ -11,7 +11,7 @@ tags: [chemistry, pharmacology, psilocybin, tryptamines, neuroscience]
 
 Psilocybin and psilocin are the primary psychoactive compounds found in hallucinogenic mushrooms of the genera Psilocybe, Panaeolus, Conocybe, Copelandia, and Inocybe. These indolealkylamine compounds belong to the tryptamine class, placing them in the same broad chemical family as serotonin (5-hydroxytryptamine, 5-HT) and LSD. The structural similarity to serotonin is central to their pharmacological activity and underpins their effects on consciousness, perception, and mood.
 
-The discovery and characterization of these compounds spans several decades of research, from their initial isolation by [[albert-hofmann]] in 1958 to modern neuroimaging studies mapping their effects on brain connectivity. Understanding their chemistry is essential for comprehending both their subjective effects and their therapeutic potential.
+The discovery and characterization of these compounds spans several decades of research, from their initial isolation by gordon-wasson in 1958 to modern neuroimaging studies mapping their effects on brain connectivity. Understanding their chemistry is essential for comprehending both their subjective effects and their therapeutic potential.
 
 ## Chemical Structure
 
@@ -50,26 +50,12 @@ Psilocin acts primarily on the serotonin system as a **5-HT2A post-synaptic agon
 
 - **Perceptual alterations**: Enhanced visual acuity, geometric patterns, color intensification
 - **Synesthesia-like experiences**: Blending of sensory modalities in some individuals
-- **Changes in mood and thought processes**: Ranging from euphoria to anxiety depending on [[set-and-setting]]
-- **Modifications to self-awareness**: Dissolution of ego boundaries, feelings of unity or interconnectedness
-- **Disruption of the default mode network (DMN)**: Reduced activity in brain regions associated with self-referential thinking
-
-Recent fMRI studies have shown that psilocybin decreases blood flow and functional connectivity in the default mode network while increasing global connectivity between brain regions that are normally segregated. This may explain the phenomenon of ego dissolution and the sense of profound insight reported by many users.
-
-## Terminology: Hallucinogenic vs. Psychedelic
-
-The nomenclature surrounding these compounds reflects different historical and cultural perspectives:
-
-- **Hallucinogen**: The scientific community's preferred term, referring to hallucinogen-producing properties
-- **Psychedelic**: Derived from Greek roots meaning "mind-manifesting"; preferred by users for its positive connotations
-- **Psychotomimetic**: "Resembling psychosis" — used primarily in mid-20th century psychiatric literature
-- **Psychodysleptic**: "Mind-disrupting" — used in some European regulatory contexts
-- **Phantastica**: From the Greek for imagination; used by [[louis-lewin]] in his 1924 classification
+- **Changes in mood and thought processes**: Ranging from euphoria to anxiety depending on [[louis-lewin]] in his 1924 classification
 - **Oneirogenic**: "Dream-inducing" — applied to certain compounds that produce dreamlike states
 
 ## Comparison with Amanita Muscaria Chemistry
 
-The fly agaric ([[amanita-muscaria]]) contains an entirely different set of active compounds — muscimol, [[ibotenic-acid]], and muscarine — with no structural relationship to tryptamines. These act primarily on GABA_A receptors (muscimol is a potent GABA agonist) and glutamate receptors (ibotenic acid is a glutamate agonist), rather than serotonin receptors.
+The fly agaric ([[ibotenic-acid-entity]], and muscarine — with no structural relationship to tryptamines. These act primarily on GABA_A receptors (muscimol is a potent GABA agonist) and glutamate receptors (ibotenic acid is a glutamate agonist), rather than serotonin receptors.
 
 The subjective effects are markedly different: Amanita intoxication is characterized by sedation, dissociation, and ataxia rather than the visual and cognitive effects of psilocybin mushrooms. Additionally, some closely related Amanita species (A. phalloides, A. virosa) contain lethal amatoxins, contributing to the lower popularity and greater danger of this genus compared to psilocybin mushrooms.
 
@@ -115,7 +101,6 @@ The mechanism underlying these therapeutic effects is thought to involve increas
 
 ## See Also
 
-- [[psilocybe-species-identification]] — Taxonomy and identification of psilocybin-containing species
 - [[hallucinogenic-mushroom-markets]] — Market trends, availability, and legal status
 
 ## Sources

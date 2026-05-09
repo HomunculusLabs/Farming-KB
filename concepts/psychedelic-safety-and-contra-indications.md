@@ -15,33 +15,7 @@ This page provides a comprehensive safety reference for psychedelic use. It cove
 
 ### Serotonin Syndrome Risk
 
-Serotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity. The risk is highest when psychedelics that act on serotonin systems (LSD, psilocybin, DMT, MDMA, [[5-meo-dmt]]) are combined with other serotonergic substances.
-
-**High-risk combinations:**
-
-| Drug Class | Examples | Risk Level | Mechanism |
-|---|---|---|---|
-| SSRIs | Fluoxetine, sertraline, escitalopram | Moderate-High | Combined serotonergic activity; SSRIs also significantly reduce psychedelic effects |
-| MAOIs | [[harmala-alkaloids]], phenelzine, tranylcypromine | Very High | MAO inhibition prevents serotonin metabolism; see [[beta-carboline-chemistry]] |
-| SNRIs | Venlafaxine, duloxetine | Moderate-High | Combined serotonin and norepinephrine effects |
-| Triptans | Sumatriptan, rizatriptan | High | Direct serotonin receptor agonism |
-| Tramadol | Ultram | Moderate | Weak SNRI + opioid effects |
-| St. John's Wort | Herbal supplement | Moderate | Mild MAOI and serotonergic activity |
-| Dextromethorphan | DXM cough suppressant | High | Serotonin reuptake inhibition + NMDA antagonism |
-| Linezolid | Antibiotic | High | Reversible MAOI |
-| Lithium | Mood stabilizer | Very High | Dramatically increases serotonin syndrome risk with psychedelics |
-
-**Serotonin syndrome symptoms (seek emergency care):**
-- Agitation, confusion, rapid heart rate
-- Dilated pupils, sweating, shivering
-- Muscle rigidity, twitching, loss of coordination
-- High body temperature (above 101F/38.3C)
-- Gastrointestinal symptoms (diarrhea, nausea)
-- Severe cases: seizures, unconsciousness, death
-
-### MAOI Interactions
-
-MAOIs (monoamine oxidase inhibitors) are present in [[beta-carboline-chemistry]] (harmala alkaloids) and some pharmaceutical drugs. They create dangerous interactions with:
+Serotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity. The risk is highest when psychedelics that act on serotonin systems (LSD, psilocybin, DMT, MDMA, [[harmala-alkaloids]], phenelzine, tranylcypromine | Very High | MAO inhibition prevents serotonin metabolism; see [[beta-carboline-chemistry]] (harmala alkaloids) and some pharmaceutical drugs. They create dangerous interactions with:
 
 - **Tyramine-containing foods**: Aged cheeses, cured meats, fermented foods, red wine, soy sauce — can trigger hypertensive crisis
 - **Sympathomimetics**: Pseudoephedrine, amphetamines, cocaine — risk of hypertensive crisis
@@ -138,7 +112,7 @@ A trip sitter (or guide) remains sober and provides a safe, supportive presence:
 
 ## Harm Reduction Best Practices
 
-See [[psychedelic-therapy-set-and-setting]] for comprehensive [[set-and-setting]] guidance, and [[psychedelic-dose-response]] for dosing principles.
+See [[set-and-setting]] guidance, and [[psychedelic-dose-response]] for dosing principles.
 
 - **Test your substances**: Use drug checking services (fentanyl test strips for MDMA, reagent testing kits for LSD/psilocybin)
 - **Start low, go slow**: Especially with a new substance or new batch

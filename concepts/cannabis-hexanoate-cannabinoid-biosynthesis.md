@@ -63,21 +63,10 @@ However, the concentration of hexanoate in LAB serum and its actual uptake by ca
 
 ## Related Topics
 
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] for the complete cannabinoid biosynthetic pathway
 - [[cannabis-lab-serum-cultivation]] for the practical production of LAB serum
-- [[cannabis-microbial-terpene-enhancement]] for microbial approaches to metabolite enhancement
 - [[cannabis-terpene-profile]] for terpene biosynthesis parallels
-- [[cannabis-trichome-guide]] for trichome biology and cannabinoid production sites
 - [[cannabis-plant-nutrition]] for broader plant nutrition context
-- [[cannabis-photoperiodism-and-light-cycles]] for UV-B and lighting effects on biosynthesis
-
-## Interconnection with Terpene Biosynthesis
-
-The hexanoate pathway connects directly to terpene biosynthesis through shared metabolic origins. Geranyl pyrophosphate (GPP), the universal monoterpene precursor, is also one of the two building blocks for cannabinoid biosynthesis. The mevalonate and MEP pathways that produce GPP supply both the terpene and cannabinoid biosynthetic routes.
-
-When hexanoate availability increases olivetolic acid production, this may shift metabolic flux in ways that affect overall isoprenoid metabolism. If more GPP is diverted toward cannabinoid production to combine with the increased olivetolic acid supply, terpene production might decrease. Conversely, if the plant upregulates its overall metabolic activity in response to improved precursor availability, both cannabinoid and terpene production could increase.
-
-The net effect on terpene production when hexanoate is supplemented is not predictable from first principles and requires empirical testing. The [[cannabis-microbial-terpene-enhancement]] page discusses the broader relationship between microbial activity and terpene production in cannabis.
+- [[cannabis-microbial-terpene-enhancement]] page discusses the broader relationship between microbial activity and terpene production in cannabis.
 
 ## Exogenous Hexanoate Application
 

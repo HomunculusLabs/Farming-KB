@@ -1,20 +1,7 @@
 ---
 title: Falconer Gathering and Marketing Mushrooms
 created: 2026-04-26
-tags: [mushroom-cultivation, harvesting, marketing, victorian-commerce, packaging]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
-
-# Falconer Gathering and Marketing Mushrooms
-
-Chapter XVII of William Falconer's *Mushrooms: How to Grow Them* (1891)
-covers the final stages of mushroom cultivation: knowing when to pick,
-proper harvesting technique, and the practicalities of getting mushrooms
-to [[falconer-mushroom-marketing-economics]] in saleable condition.
+tags: [[falconer-mushroom-marketing-economics]] in saleable condition.
 Falconer considered this "an important point in the cultivation of this
 esculent, and should be attended to with painstaking discretion."
 
@@ -104,7 +91,5 @@ were becoming customary for long journeys.
 
 ## See Also
 
-- [[falconer-mushroom-marketing-economics]]
 - [[falconer-mushroom-cellar-management]]
-- [[falconer-mushroom-diseases-treatment]]
 - [[cuthill-mushroom-cultivation-history-19th-century]]

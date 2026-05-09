@@ -1,5 +1,5 @@
 ---
-title: Companion Planting Techniques
+title: Hamilton Companion Planting Techniques
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -64,41 +64,7 @@ planting marigolds, poppies (*Papaver* sp.), nasturtiums
 
 Many gardeners have reported similar results with eelworms, soil pests
 that attack potatoes in particular, where French marigolds are grown.
-[[psilocybin-compound]] isolation early has confirmed that this is indeed due to a
-secretion from the roots of the marigolds. French marigolds are also
-said to help kill weeds, in particular couch grass (*Agropyron
-repens*).
-
-## Tested Pairings That Did Not Work
-
-Hamilton grew garlic under rose bushes as a control for greenfly, and
-savory next to beans for the same purpose, both to no avail. Other
-combinations were tried without success. More research is needed in
-this area. Gardeners should be cautious about relying on unproven
-companion planting claims and should prioritize methods with verified
-results.
-
-## Encouraging Other Pest Predators
-
-Some predators, such as ladybugs, lacewings, and several species of
-wasps that feed on aphids and other soft-bellied pests including
-caterpillars, can be encouraged by providing as varied a collection of
-plant life as possible.
-
-### Visual Camouflage
-
-Some pests are attracted to their host plants by sight. By mixing
-ornamental plants and vegetables in an ornamental border, you can
-camouflage the host plants, which deters the pests. There is also
-evidence that vegetable plots that are left somewhat weed-infested
-suffer less pest damage than clean ones, though yields are lower.
-
-## Practical Application
-
-Some of the good results reported by many organic gardeners are due
-to companion planting. By careful consideration of which plants are
-cultivated together, you can promote healthy growth and utilize a
-completely natural form of [[hamilton-pest-and-disease-control-organic]].
+[[hamilton-pest-and-disease-control-organic]].
 
 ### Recommended Companion Plantings
 
@@ -117,11 +83,10 @@ completely natural form of [[hamilton-pest-and-disease-control-organic]].
 Companion planting works best as part of an integrated approach to
 comparison beneficial insects. Combine it with regular vigilance, good garden
 hygiene, and encouragement of beneficial wildlife through
-[[hamilton-wildlife-gardening-biodiversity]].
-
-## Related Topics
-
-- [[hamilton-pest-and-disease-control-organic]]
-- [[hamilton-wildlife-gardening-biodiversity]]
+[[hamilton-pest-and-disease-control-organic]]
 - [[hamilton-pest-and-disease-control-organic]]
 - [[hamilton-three-year-crop-rotation]]
+
+## See Also
+
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

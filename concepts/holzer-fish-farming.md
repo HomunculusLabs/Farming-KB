@@ -110,12 +110,7 @@ Holzer's approach to winter pond management challenges conventional aquaculture 
 
 ## See Also
 
-- [[holzer-aquaculture-fish-farming]]
-
 - [[pond-and-aquaculture]]
-- [[pond-design-and-construction]]
 - [[holzer-water-landscapes]]
-- [[permaculture-animal-integration]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-pond-construction-and-aquaculture]]

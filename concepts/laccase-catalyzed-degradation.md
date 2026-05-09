@@ -127,16 +127,10 @@ Based on gene expression, two types of laccases have been distinguished: constit
 
 ## See Also
 
-- [[ceriporiopsis-subvermispora]]
-
 - [[enzymatic-degradation-in-mycoremediation]]
-
-- [[mycoremediation-enzymology]]
 
 - [[white-rot-fungi-bioremediation]]
 
-- [[mycoremediation-of-textile-dyes]]
 - [[fungal-single-cell-protein-production]]
-- [[fungal-pah-degradation-and-soil-bioremediation]]
 - [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
 - [[fungal-degradation-of-textile-dyes]]

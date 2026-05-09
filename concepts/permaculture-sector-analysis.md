@@ -1,5 +1,4 @@
 ---
-title: Permaculture Sector Analysis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -100,10 +99,10 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 
 ## Related Concepts
 
-- [[zone-sector-analysis-guide]]
-- [[permaculture-design]]
+- [[permaculture-zone-and-sector-analysis]]
+- [[permaculture-design-methods]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-site-analysis]]
 - [[permaculture-mapping-and-reading-the-landscape]]
 - [[permaculture-fire-management]]
-- [[permaculture-windbreak]]
+- [[permaculture-windbreak-design]]

@@ -43,17 +43,9 @@ benefits:
 The ideal species are those that prefer the substrates commonly available in
 community garden settings:
 
-- [[stamets-king-stropharia-permaculture-mycofiltration]] (*Stropharia rugosoannulata*) thrives in the hardwood
-  chips used as mulch and pathway material, making it the easiest integration
-  since no additional substrate preparation is needed
-- blewits (*Clitocybe nuda*) and [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]] (*Agaricus blazei*)
+- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]] (*Agaricus blazei*)
   flourish in manure-based composts commonly produced in community gardens
-- [[oyster-mushroom-growing-house-types]] can be grown on spent vegetable waste from garden
-  harvests
-
-## Log Cultivation Method
-
-[[shiitake-cultivation-log-method]] is one of the easiest and most attractive methods
+- [[shiitake-cultivation-log-method]] is one of the easiest and most attractive methods
 for community garden integration. It eliminates the need for building raised
 beds, requires minimal infrastructure, and the logs fruit for several years.
 The visual appeal of mushrooms emerging from logs also generates interest
@@ -133,7 +125,5 @@ species.
 
 ## See Also
 
-- [[mushroom-classroom-education-demos]] for educational uses
 - [[oyster-mushroom-coffee-grounds-cultivation]] for waste-based methods
-- [[stem-butt-cardboard-cultivation]] for low-tech spawn production
 - [[bulk-substrate-preparation]] for substrate processing techniques

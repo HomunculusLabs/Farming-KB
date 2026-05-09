@@ -111,13 +111,7 @@ The natural farmer sees processed food as a symptom of humanity's fundamental al
 
 ## See Also
 
-- [[fukuoka-seasonal-food-mandala-local-diet]]
-
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
-- [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
-- fukuoka textdoc natural diet food philosophy
 - [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]
-- [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
-- [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

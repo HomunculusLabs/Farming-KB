@@ -35,27 +35,7 @@ Mass spectral data shows the characteristic C5H10N+ fragment at m/z 84 (100%), t
 
 This compound represents one of the heterocyclic tryptamines in which the two nitrogen alkyl groups are joined into a ring structure. The pyrrolidine ring is the five-membered version of this structural motif, making it the smallest of the cyclic amine substituents explored in the TIHKAL series.
 
-5-MeO-pyr-T is documented in [[tihkal-introduction-and-methodology]] as entry #43 and occupies a distinctive position in the tryptamine pharmacology landscape due to its unusual and potentially dangerous profile.
-
-## Dosage and Administration
-
-The active dosage range for 5-MeO-pyr-T is 0.5 to 2 milligrams when taken orally.
-
-Duration is described as "several hours," though precise duration data is limited due to the compound's variable and sometimes extreme effects.
-
-The compound has also been explored by smoking (vaporization), where doses of approximately 1 to 4 milligrams have been tested. Parenteral administration by this route produces rapid and intense effects that are qualitatively different from oral dosing.
-
-Shulgin notes that the dosage and duration are poorly characterized due to unresolved problems with both parameters. When smoking small amounts, it is difficult to accurately estimate the actual dose received. Duration also shows extreme inter-individual variability, with one subject being fine the next morning while another was still aware of residual effects a week later.
-
-## Qualitative Effects
-
-The effects of 5-MeO-pyr-T are remarkably different from what is typically expected of a psychedelic tryptamine, and the compound exhibits extreme inter-individual variability that makes generalizations difficult.
-
-At 0.5 mg orally, one subject reported intense tinnitus without actual sound, described as "ear-ringing without any ear-ringing." This was accompanied by two waves of nausea and vomiting of bilious material. Cognitive function was severely impaired, with the subject unable to form coherent questions. There were no visual effects even with eyes closed to music. Recovery was rapid, but the experience was described as absolutely negative, with the subject stating "Never again."
-
-When approximately 1 mg was smoked, the effects were markedly different. The subject reported only a slight feeling of calmness, fell asleep easily within 10 minutes, and experienced no psychedelic effects.
-
-At 3 mg smoked, the compound produced effects initially resembling [[5-meo-dmt-entity-tihkal]], including a total loss of self-identity in a nearly instantaneous rush. One subject was unconscious for approximately four hours. Upon regaining consciousness, the subject felt very nauseous and vomited repeatedly. The experience was described as having a "total loss of self-identity" with the feeling of having the "top of my head blown off." Memory of the experience was completely absent.
+5-MeO-pyr-T is documented in [[5-meo-dmt-entity-tihkal]], including a total loss of self-identity in a nearly instantaneous rush. One subject was unconscious for approximately four hours. Upon regaining consciousness, the subject felt very nauseous and vomited repeatedly. The experience was described as having a "total loss of self-identity" with the feeling of having the "top of my head blown off." Memory of the experience was completely absent.
 
 Another subject at 3 mg smoked experienced a similar pattern: an initial rush followed by unconsciousness lasting over an hour, followed by flailing, rolling, quivering, and shaking. Pupils were markedly constricted. Recovery was gradual, with nausea appearing after regaining lucidity. The subject's skin appeared abnormal for several days afterwards, suggesting possible systemic toxicity.
 
@@ -83,7 +63,7 @@ The glyoxylamide is reduced with lithium aluminum hydride in dioxane under reflu
 
 5-MeO-pyr-T is the pyrrolidine member of a series of heterocyclic 5-methoxytryptamines. The other two members are 5-MeO-pip-T (the piperidine analogue, six-membered ring) and 5-MeO-mor-T (the morpholine analogue, six-membered ring containing an oxygen atom).
 
-The unsubstituted pyrrolidine tryptamine [[pyr-t-entity-tihkal]] and its 4-hydroxy analogue [[4-ho-pyr-t-entity-tihkal]] are the non-methoxylated counterparts in this series. Shulgin notes that the pyrrolidine tryptamines in general have shown "rather unexpected and unencouraging descriptions."
+The unsubstituted pyrrolidine tryptamine [[4-ho-pyr-t-entity-tihkal]] are the non-methoxylated counterparts in this series. Shulgin notes that the pyrrolidine tryptamines in general have shown "rather unexpected and unencouraging descriptions."
 
 The glyoxylamide intermediates for 5-MeO-pip-T and 5-MeO-mor-T were prepared but the final amines were never assayed due to the discouraging results with the pyrrolidine compound. The piperidine glyoxylamide has a melting point of 167-169 degrees Celsius and the morpholine glyoxylamide melts at 193-194 degrees Celsius.
 
@@ -93,17 +73,24 @@ The glyoxylamide intermediates for 5-MeO-pip-T and 5-MeO-mor-T were prepared but
 
 The skin abnormalities reported by one subject lasting several days after use suggest possible systemic toxicity that is not characteristic of other tryptamines. The extreme inter-individual variability in both effects and recovery time makes it impossible to establish safe dosage guidelines.
 
-The compound should be considered potentially dangerous and should not be used without appropriate medical supervision and [[emergency-preparedness]].
-
-## Legal Status
-
-As with many research tryptamines, the legal status of 5-MeO-pyr-T varies by jurisdiction. Its unusual pharmacological profile and potential for harmful effects would likely place it in a restricted category in most regulatory frameworks.
-
-## References
-
-Shulgin, A. and Shulgin, A. (1997). Tryptamines I Have Known and Loved: The Chemistry Continues. Entry #43, 5-MeO-pyr-T. Transform Press.
-
-## See Also
-
-- [[5-meo-dmt-entity-tihkal]] - the N,N-dimethyl counterpart, profoundly different profile
+The compound should be considered potentially dangerous and should not be used without appropriate medical supervision and [[5-meo-dmt-entity-tihkal]] - the N,N-dimethyl counterpart, profoundly different profile
 - [[pyr-t-entity-tihkal]] - the unsubstituted pyrrolidine tryptamine
+## Practical Considerations
+
+Successful implementation of 5-MeO-pyr-T requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

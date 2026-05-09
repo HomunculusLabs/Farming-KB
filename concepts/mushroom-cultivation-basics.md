@@ -1,4 +1,5 @@
 ---
+
 title: Mushroom Cultivation Basics
 created: 2026-04-11
 updated: 2026-04-13
@@ -39,7 +40,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ## Starting a Culture
 
 ### From Spores (Multispore)
-- Take a [[spore-print]]: cap gills-down on clean paper, cover with glass, wait hours
+- Take a spore print: cap gills-down on clean paper, cover with glass, wait hours
 - Spores from under the partial veil are most contaminant-free
 - Inoculate agar by scraping spores with flame-sterilized scalpel
 - Soak dehydrated spores in sterile water 6-12 hours to improve germination
@@ -110,40 +111,90 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ### Wood-Based Substrates (Lignicolous Species)
 - **Best for**: Shiitake, oyster, [[enoki-cultivation|enoki]], reishi, lion's mane
 - **Hardwoods**: Oak, elm, chestnut, beech, maple, alder (best choices)
-- **Conifers**: High resin/tannin content maoyster-mushroomsitable; mix 1:1 with hardwood if used
+- **Conifers**: High resin/tannin content makes them less suitable; mix 1:1 with hardwood if used
 - **Standard formula**: 4 parts sawdust + 1 part bran (by volume)
+- **Moisture**: 60% — firm squeeze should yield only a few drops
+- **Optional**: Add gypsum at 5% dry weight for structure/porosity
+- **Sterilize** bags at 15 psi for 60-90 minutes
+
+### Straw-Based Substrates
+- **Best for**: Oyster mushrooms (Pleurotus)
+- Wheat straw is standard (coarse fiber, widely available)
+- Shred/chop to 1-3 inch pieces
+- **Pasteurize** in hot water (160-170°F for 1-2 hours) — does NOT require full sterilization
+- Drain, cool, mix with spawn (10-20% by volume)
+- Pack into bags, columns, or trays
+
+### Log Culture (Traditional)
+- Fresh hardwood logs, 3-6 inch diameter, 3 feet long
+- Cut in fall-spring when sap is highest
+- Drill holes 1 inch deep in 4 rows, 8 inches apart
+- Plug with spawn, seal with wax
+- Incubate 9-15 months before first fruiting
+- Produces for 3-6 years
+
+### Outdoor Natural Culture
+- Wood chip beds (alder, maple chips, 1-3 inch pieces)
+- Ridge beds: 4-6 inches deep, 2 feet wide, under shade
+- Cover with plastic/cardboard during colonization
+- Uncover in fall, water twice weekly
+- Perennial — expands 5x annually from established beds
+
+## Fruiting Conditions
+
+### Universal Initiation Triggers
+- **Temperature drop** (species-specific, typically 5-10°F below incubation)
+- **High humidity** (95%)
+- **Increased fresh air exchange** (lower CO2)
+- **Light introduction** (indirect ambient light, not direct sun)
+
+### Cropping Phase
+- Maintain temperature at species optimum
+- Lower humidity to 85-92%
+- Maintain air circulation and CO2 levels
+- Harvest before spores drop for best quality
+
+## The Mushroom Life Cycle
+
+1. **Spore** (haploid, 1N) → germinates into monokaryotic mycelium
+2. **Two compatible monokaryons mate** → dikaryotic mycelium (2N, has clamp connections)
+3. **Dikaryotic mycelium** grows vegetatively, amasses nutrients
+4. **Primordia** (pinheads) form when conditions trigger fruiting
+5. **Fruitbody** (mushroom) develops: cap, stem, gills, partial veil
+6. **Basidia** on gills undergo karyogamy (2N) → meiosis → produce 4 haploid spores
+7. **Spores release** and the cycle repeats
+
+Key facts:
+- Only dikaryotic mycelium is fertile and can produce mushrooms
+- Dikaryotic mycelium is faster-growing and more vigorous than monokaryotic
+- Clamp connections (microscopic bridges between cells) indicate successful mating
+- Not all species form clamp connections (Agaricus brunnescens does not)
+- Some species are diploid bipolar (Agaricus bisporus — 2 spores per basidium)
+
+## Species for Beginners
+
+| Species | Substrate | Difficulty | Notes |
+|---------|-----------|------------|-------|
+| **Oyster** (Pleurotus ostreatus) | Straw, paper, wood chips | Easy | Grows on almost anything, fast |
+| **Shiitake** (Lentinula edodes) | Logs or sawdust blocks | Medium | High-value, reliable |
+| **Wine Cap** (Stropharia rugosoannulata) | Wood chips, straw | Easy | Outdoor beds, great for [[regenerative-agriculture-history]] |
+| **Lion's Mane** (Hericium erinaceus) | Sawdust | Medium | Medicinal, distinctive appearance |
+| **King Oyster** (Pleurotus eryngii) | Straw, sawdust | Easy | Large, meaty, long shelf life |
+
+## Mycoforestry and Homestead Integration
+
+- Use wood chip inoculation in [[food-forest-design]] zones for soil building
+- Spent mushroom substrate is protein-enriched — use as livestock feed or compost
+- Mushroom cultivation converts "waste" (straw, wood chips, coffee grounds) into food
+- See [[regenerative-agriculture-history]] for the ZERI zero-emissions model
+- See [[mycorrhizal-fungi]] for symbiotic soil fungi (different from cultivated mushrooms)
+
 ## See Also
-- [[xerula-megacystis]]
-- [[strobilurus-esculentus]]
-- [[pf-tek-mushroom-morphology-and-lifecycle-stages]]
 
-- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
-
-- [[query-best-mushroom-species-for-beginner-home-cultivation]]
-
-- [[xerula-meadowii]]
-- [[stereum-ostrea]]
-- [[hypsizygus-tessellatus]]
-- [[leccinum-aurantiacum]]
-- [[trametes-cinnabarina]]
-
-- [[straw-substrate-boil-a-bag-cultivation-method]]
-
-- [[panus-tigrinus]]
-
-- [[hydnum-repens]]
-- [[oudenansiella-mucida]]
-- [[pholiota-aurivella]]
-
-- [[czech-aromatic-decorative-mushroom-legal-loophole]]
-- [[free-spore-ring-europe-mushroom-cultivation-network]]
-- [[hallucinogenic-mushroom-smoking-and-alternative-administration-routes]]
-- [[norwegian-woodland-party-organic-mushroom-milieu]]
-
-- [[guerrilla-mycology]]
-- [[grass-seed-cultivation-of-psilocybe-species]]
-- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]
-- [[laetiporus-sulphureus-permaculture]]
-
-- [[clitocybe-odora]]
-- [[lions-mane]]
+- [[mycorrhizal-fungi]] — symbiotic plant-fungal relationships
+- [[soil-food-web-nutrient-cycling]] — fungi in the soil ecosystem
+- [[regenerative-agriculture-history]] — mycoforestry, mycoremediation
+- [[vermicomposting]] — spent substrate as worm food
+- [[inoculation-methods]] — spore, spawn, and stem butt techniques (from Mycelium Running Ch.9)
+- [[straw-cultivation-methods]] — pasteurization and low-tech straw growing (from Mycelium Running Ch.10)
+## Related

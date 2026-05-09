@@ -7,61 +7,7 @@ tags: [electromagnetic-spectrum, light, wavelength, physics,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Daniel Chamovitz (2012), "What a Plant Knows," Oneworld Publications,
-    Chapter 1
-  - ~/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md
-type: concept
----
-
-# Electromagnetic Spectrum and Light Wave Properties
-
-## Overview
-
-Light is a form of electromagnetic radiation, sharing fundamental
-properties with radio waves, microwaves, X-rays, and other forms
-of electromagnetic energy. Understanding the wave nature of light
-is essential to understanding how both human eyes and plant
-photoreceptors detect and interpret visual information. The visible
-spectrum represents only a narrow slice of the full electromagnetic
-range, yet it is the band that life on Earth has evolved to exploit
-for energy, navigation, and signalling.
-
-## Electromagnetic Waves: From Radio to X-Ray
-
-All electromagnetic waves share the same fundamental nature: they
-are oscillating electric and magnetic fields propagating through
-space. What distinguishes them is their wavelength, the distance
-between successive wave crests. Radio waves for AM radio are very
-long, almost half a mile in length, which is why radio antennas
-are many storeys tall. At the opposite extreme, X-ray waves are
-extremely short, one trillion times shorter than radio waves,
-which is why they pass so easily through the human body.
-
-Between these extremes lies the visible spectrum, the range of
-wavelengths that both humans and plants can detect. Light waves
-are between 0.0000004 and 0.0000007 metre long. This narrow band
-of radiation carries sufficient energy to drive chemical reactions
-in living tissue without being so energetic as to cause molecular
-damage, which is precisely why evolution has selected it for
-biological information processing.
-
-## The Visible Spectrum and Rainbow Formation
-
-Within the visible range, different wavelengths correspond to
-different colours. Blue light has the shortest wavelength, while
-red light has the longest, with green, yellow, and orange arranged
-between them. This is why the colour pattern of rainbows always
-follows the same orientation, from short-wave colours like blue
-to long-wave colours like red. The consistent ordering reflects
-the underlying physics of light dispersion through water droplets.
-
-The colour of an object is determined by which wavelengths it
-reflects and which it absorbs. A red flower appears red because
-it reflects red light while absorbing blue and green wavelengths.
-Most plants appear green because they reflect green light while
-absorbing blue and red light for photosynthesis. This selective
-absorption is the foundation of both human colour vision and
-plant photoreception.
+  - [[plant-photoreception]].
 
 ## Ultraviolet and Infrared: The Invisible Borders
 
@@ -139,10 +85,8 @@ competition from neighbouring plants, and time of day.
 
 ## See Also
 
-- [[what-a-plant-knows-plant-vision-and-light-perception]] - Plant
-  vision overview
 - [[human-photoreception-rods-cones-and-visual-pigments]] - Human
   visual pigments and receptors
 - [[phytochrome-photoreception]] - Phytochrome absorption spectra
-- [[phytochrome-molecular-switch-mechanism]] - Red and far-red
+- phytochrome molecular switch mechanism - Red and far-red
   switching mechanism

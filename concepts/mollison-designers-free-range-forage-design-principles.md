@@ -49,19 +49,7 @@ The critical challenge in cool climates is bridging the winter feed gap:
 
 - **Spring:** Early forage species (chicory, dandelion, chickweed, clover)
   provide essential nutrition as animals transition off stored feed.
-  [[mollison-designers-winter-forest-foraging-wildlife-cooperation]]
-  sites planted with early species get animals on fresh forage weeks earlier.
-
-- **Summer:** Diverse pastures with deep-rooted species maintain production
-  through dry periods. Include legumes (clover, alfalfa, birdsfoot trefoil)
-  for protein and comfrey, chicory, and plantain for mineral nutrition.
-
-- **Autumn:** Late-season forage (kale, stubble turnips, chicory) extends
-  the grazing season. Nut crops (acorns, beech mast) provide concentrated
-  energy for pigs and poultry.
-
-- **Winter:** Sprouted grain systems, root crops (mangelwurzel, Jerusalem
-  artichoke), hay, silage, and access to [[mollison-designers-cold-caves-root-cellar-storage]].
+  [[mollison-designers-cold-caves-root-cellar-storage]].
   Mollison stresses that sprouting grain dramatically improves its nutritional
   value for confined poultry over winter.
 
@@ -86,23 +74,6 @@ Animals in integrated systems provide services beyond meat and eggs:
 
 - **Geese** in orchards control grass competition around young trees without
   damaging bark (unlike sheep or cattle). See
-  [[mollison-designers-geese-and-duck-weed-control]].
-
-## Design Framework
-
-Mollison structures forage design around these questions:
-
-1. What is the animal's natural diet and foraging behaviour?
-2. What is its social structure and space requirement?
-3. How does it interact with the plants and soils of each zone?
-4. What are the seasonal nutritional gaps, and how are they filled?
-5. What products and services does the animal provide to the system?
-
-The answers determine species selection, stocking density, paddock layout,
-shelter design, and supplementary feeding strategy. The goal is a system
-where animals meet most of their own needs through foraging while providing
-essential services to crops and forests.
-
-See also: [[mollison-designers-poultry-forage-design-pastured-systems]],
+  [[mollison-designers-poultry-forage-design-pastured-systems]],
 free-range forage,
 [[backyard-livestock-integration-design]]

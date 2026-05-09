@@ -12,65 +12,9 @@ sources:
 
 updated: 2026-04-18
 
-Chapter V of The [[cannabis-health-index]] presents an integrative mind-body medicine framework for deeper healing, drawing on psychoneuroimmunology research, meditation studies, positive psychology, and the [[cannabis-endocannabinoid-system]]'s role in relaxation and emotional processing.
+Chapter V of The [[cannabis-endocannabinoid-system]]'s role in relaxation and emotional processing.
 
-## The Endocannabinoid System and Relaxation
-
-### Anandamide-Induced Relaxation
-**Grainger and Boachie-Ansah (2001)**: "Anandamide-induced relaxation in sheep arteries: The role of the vascular endothelium, arachidonic acid metabolites and potassium channels." British Journal of Pharmacology.
-
-Anandamide (the body's own cannabinoid) produces direct vascular relaxation through endothelium-dependent mechanisms. This is a literal, physiological relaxation response mediated by the endocannabinoid system.
-
-### Polymodal Endocannabinoid Activation
-**Puente et al. (2011)**: "Polymodal activation of the endocannabinoid system in the extended amygdala." Nature Neuroscience.
-
-The endocannabinoid system in the extended amygdala (the brain's emotional processing center) receives and integrates multiple types of signals simultaneously. This polymodal activation underlies the complex emotional effects of cannabis -- relaxation, anxiety reduction, and mood elevation.
-
-## The Relaxation Response
-
-### Meditation and Physiological Changes
-**Sudsuang, Chentanez, and Veluvan (1991)**: "Effect of Buddhist meditation on serum cortisol and total protein levels, blood pressure, pulse rate, lung volume and reaction time." Physiology and Behavior.
-
-Buddhist meditation significantly reduced cortisol, blood pressure, and pulse rate while increasing lung volume. These are measurable physiological changes from a practice that cultivates deep relaxation.
-
-**Dusek et al. (2008)**: "Genomic counter-stress changes induced by the relaxation response." PLoS ONE.
-
-The relaxation response (as defined by Herbert Benson) produces measurable changes in gene expression -- counter-stress genomic changes that are the molecular opposite of the stress response.
-
-### Relaxation Response for Hypertension
-**Dusek et al. (2008)**: "Stress management versus lifestyle modification on systolic hypertension and medication elimination." Journal of Alternative and Complementary Medicine.
-
-**Schneider et al. (2005)**: "A randomized controlled trial of stress reduction in African Americans treated for hypertension for over one year."
-
-The relaxation response was as effective as lifestyle modification for reducing systolic hypertension, and in some cases allowed elimination of blood pressure medication.
-
-### Yoga for Autism
-**Rosenblatt et al. (2011)**: "Relaxation Response-based yoga improves functioning in children with autism." Journal of Alternative and Complementary Medicine.
-
-A yoga program based on the relaxation response improved functioning in children with autism, demonstrating that mind-body practices can benefit even neurodevelopmental conditions.
-
-## Emotional Intelligence for Healing
-
-### Emotions and Immunity
-**Kiecolt-Glaser et al. (2002)**: "Emotions, morbidity, and mortality: New perspectives from psychoneuroimmunology."
-
-Comprehensive review establishing that emotions directly affect immune function, disease progression, and mortality. Positive emotions enhance immunity; negative chronic emotions suppress it.
-
-### Shame, Guilt, and Immune Function
-**Dickerson et al. (2004)**: "Immunological effects of induced shame and guilt." Psychosomatic Medicine.
-
-Experimentally induced shame and guilt produced measurable changes in immune function. Shame increased pro-inflammatory cytokines, connecting moral emotions to physical health.
-
-## Positive Psychology and Health
-
-### The Value of Positive Emotions
-**Fredrickson (2003)**: "The value of positive emotions: The emerging science of positive psychology." American Scientist.
-
-**Steptoe, Wardle, and Marmot (2005)**: "Positive affect and health-related neuroendocrine, cardiovascular, and inflammatory processes." PNAS.
-
-**Richman et al. (2005)**: "Positive emotion and health: going beyond the negative." Health Psychology.
-
-Positive emotions are not merely the absence of negative ones -- they produce distinct, measurable [[medicinal-mushroom-health-benefits]] including reduced inflammation, improved cardiovascular function, and enhanced immune response.
+## The [[medicinal-mushroom-health-benefits]] including reduced inflammation, improved cardiovascular function, and enhanced immune response.
 
 ### Positive Emotions and Longevity
 **Danner, Snowdon, and Friesen (2001)**: "Positive emotions in early life and longevity: Findings from the nun study." Personality and Social Psychology Bulletin.

@@ -3,7 +3,7 @@ title: Autofluorescence Properties of AM Fungi for Colonization Assessment
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -90,11 +90,7 @@ Following Saito (1995) with modifications:
 
 ## Related Topics
 
-- [[mycorrhizal-phosphatase-activity-elf97-detection]] - ELF-97 phosphatase detection method
 - [[arbuscular-mycorrhizal-colonization-patterns]] - General colonization assessment
-- [[mycorrhizal-networks-and-forest-communication]] - Spore isolation techniques
 - [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]
-- [[mycorrhizal-nutrient-uptake]]
 - [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

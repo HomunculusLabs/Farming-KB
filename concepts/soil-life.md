@@ -82,41 +82,7 @@ Soil organisms perform several critical functions:
 
 ## Protecting Soil Life
 
-The practices that support soil life are fundamental to [[building-soil]]
-and ecological gardening. Key practices include:
-- Minimize tilling, which destroys fungal networks and soil structure
-- Keep soil covered with mulch or living plants at all times
-- Add organic matter regularly (compost, leaf litter, green manures)
-- Avoid synthetic fertilizers and pesticides, which harm beneficial
-  organisms
-- Use [[cover-crops]] to feed soil life between plantings
-- Practice [[sheet-mulching]] to build soil without disturbance
-
-When we feed the soil, the soil feeds our plants. Chemical fertilizers
-bypass the soil food web, directly feeding plants but starving the
-organisms that create long-term fertility. This creates dependency, as
-the soil loses its ability to cycle nutrients naturally.
-
-## The Living Skin of the Earth
-
-Topsoil is the living skin of the earth, and it is being lost at
-alarming rates. It takes nature 500 to 1,000 years to build one inch
-of topsoil, yet conventional farming can lose that much in a few
-decades. By understanding and nurturing soil life, ecological gardeners
-can actually build topsoil rather than lose it, creating productive,
-resilient landscapes that improve over time.
-
-The lesson is clear: healthy plants need healthy soil. Chemical
-fertilizers give a quick boost but ultimately impoverish the soil food
-web. Building soil life through organic methods creates a self-
-sustaining system where nutrients cycle naturally, diseases are held in
-check, and plants receive exactly what they need through their
-symbiotic relationships with soil organisms.
-
-## See Also
-
-- [[building-soil]]
-- [[sheet-mulching]]
+The practices that support soil life are fundamental to [[cover-crops]] to feed soil life between plantings
+- Practice [[building-soil]]
 - [[cover-crops]]
-- [[hugelkultur]]
 - [[composting-science-solomon]]

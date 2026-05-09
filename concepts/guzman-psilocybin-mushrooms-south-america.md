@@ -116,10 +116,7 @@ zapotecorum, despite its name referencing the Mexican Zapotec people, is
 widespread across South America, found from Colombia to Chile and Argentina.
 ## See Also
 
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[psilocybin-mushroom-distribution-worldwide]]
-- [[gartz-global-psilocybin-mushroom-distribution]]
 - [[natto-making]]
-- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[teonanacatl-and-mesoamerican-mushroom-cults]]

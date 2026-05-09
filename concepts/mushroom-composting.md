@@ -3,14 +3,7 @@ title: Mushroom Composting
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
----
-
-# Mushroom Composting
-
-Mushroom composting encompasses two related processes: the preparation of nutrient-rich substrate for mushroom cultivation (commercial composting), and the use of spent mushroom substrate as a valuable garden amendment. Understanding the composting biology and pasteurization requirements connects to [[compost-building-guide]], [[mushroom-substrate-recipes]], and [[soil-food-web-structure]].
+tags: [[compost-building-guide]], [[soil-food-web-structure]].
 
 ## Commercial Mushroom Substrate Preparation
 
@@ -119,8 +112,6 @@ Growers producing their own substrate can use standard thermophilic composting:
 The composting process selectively promotes thermophilic organisms that create a substrate suitable for mushroom growth while suppressing competitors.
 
 ## Related
-- [[phase-ii-composting]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
 - [[water-activity-osmophilic-fungal-media-preparation]]
 - [[gourmet-mushroom-enriched-sawdust-cultivation]]

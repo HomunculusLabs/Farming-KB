@@ -83,43 +83,12 @@ Stones should be clean and free of loose dirt or clay that could prevent proper 
 
 ## Disadvantages
 
-- **Very time-consuming** -- slower than [[cordwood-construction]], [[straw-bale-construction]], or [[earthbag-construction]]
-
-- **Heavy labor** -- lifting and placing stones is physically demanding work
-
-- **Requires concrete** -- not as purely ecological as [[cob-building]] or [[earthbag-construction]] due to the cement content
-
-- **Seasonal limitations** -- concrete pouring is difficult in freezing temperatures
-
-## Insulation
-
-Some insulation can be added during construction using rigid foam board against the interior form before pouring, or by building a double wall with insulation between the inner and outer wythes. This improves energy performance while retaining the stone exterior appearance.
-
-An alternative approach for cold climates is to build a non-load-bearing insulated frame wall on the interior, leaving an air gap between the frame wall and the stone wall. This creates a thermal break while allowing the stone's thermal mass to moderate interior temperatures through the air gap.
-
-## Roof and Floor Systems
-
-Slip form stone walls are load-bearing and can support standard roof and floor systems. A wooden bond beam (header beam) should be bolted to the top of the wall to distribute roof loads evenly and provide a nailing surface for roof framing. Floor systems can use joists set into pockets formed in the wall during construction, or a separate ledger bolted to the wall interior.
-
-## Notable Examples
-
-Several well-known structures demonstrate the longevity and beauty of slip form stone construction. The Hajjar House in Pennsylvania, built in the 1970s by the studio of architect and builder Steve Maguire, showcases extensive slip form stonework. In the Pacific Northwest, homesteaders such as Tomm Stanley have documented slip form stone construction extensively, proving the method's accessibility to owner-builders. The technique has also seen modern revival through natural building schools and workshops, where it is often taught alongside [[cob-building]] and [[straw-bale-construction]] as part of comprehensive natural building curricula. Contemporary builders have refined traditional methods by incorporating modern waterproofing membranes between the stone wall and interior finishes, and by using insulated concrete forms (ICFs) in hybrid wall systems that combine slip form aesthetics with improved thermal performance.
-
-## See Also
-
-- [[query-when-should-i-use-slip-form-stone-construction]]
-
-- [[cordwood-construction]]
+- **Very time-consuming** -- slower than [[straw-bale-construction]], or [[cob-building]] or [[cob-building]] and [[query-when-should-i-use-slip-form-stone-construction]]
 
 - [[cob-building]]
 
-- [[earthbag-construction]]
-
 - [[straw-bale-construction]]
-
-- [[natural-building-overview]]
 
 - [[underground-house-and-earth-berm-construction]]
 
-- [[building-with-natural-materials]]
 - [[cold-frame-construction]]

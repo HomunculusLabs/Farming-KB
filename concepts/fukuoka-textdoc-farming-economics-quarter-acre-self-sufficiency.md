@@ -123,8 +123,6 @@ The price of Japanese rice, the price of Thai rice, and the farmer's price for r
 
 ## See Also
 
-- [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
-- [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]

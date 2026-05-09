@@ -114,9 +114,6 @@ or construction.
 
 ## See Also
 
-- [[mycorrhizal-fungi-symbiosis-with-plants]]
 - [[endophytic-fungi-living-inside-plants]]
-- [[biodiversity-fungi-plant-pathogens]]
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
-- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[fairy-rings-mycelium-ecology-soil]]

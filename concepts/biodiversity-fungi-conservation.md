@@ -1,23 +1,7 @@
 ---
 title: Conservation of Fungal Diversity
 created: 2026-04-24
-tags: [mycology, conservation, biodiversity, monitoring, ecology, policy]
-sources: Biodiversity of Fungi (Mueller & Bills)
-type: concept
-updated: 2026-04-26
----
-
-# Conservation of Fungal Diversity
-
-Fungal conservation is one of the most pressing and underappreciated challenges in biodiversity science. With an estimated 1.5 million fungal species on Earth — of which fewer than 5% have been described — the vast majority of fungal diversity remains undocumented and therefore unprotected. Conservation efforts must address both the species that are known to be threatened and the far greater number that are being lost before they can even be documented.
-
-## The Scale of Undocumented Diversity
-
-The urgency of fungal conservation stems from the enormous gap between known and actual diversity:
-
-- Approximately 74,000 to 120,000 fungal species have been formally described
-- Hawksworth (1991) estimated 1.5 million total species; some evidence suggests this may be too low
-- [[endophytic-fungi]] alone may equal or exceed the number of phanerogam species (~250,000)
+tags: [[endophytic-fungi]] alone may equal or exceed the number of phanerogam species (~250,000)
 - Many ecosystem types, especially in the tropics, have never been comprehensively surveyed for fungi
 
 ## Threats to Fungal Diversity
@@ -101,6 +85,5 @@ Fungi remain largely absent from conservation legislation and policy:
 
 ## See Also
 
-- [[biodiversity-fungi-tropical-rainforests]]
 - [[biodiversity-fungi-molecular-methods]]
 - [[biodiversity-fungi-soil-ecosystems]]

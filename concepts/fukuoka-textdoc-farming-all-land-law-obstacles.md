@@ -117,10 +117,6 @@ The evidence is clear: more land per household has not meant greater security or
 
 ## Related
 
-- [[fukuoka-natural-farming-philosophy]] Concepts
-
 - [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
-- [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
-- [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-farming-for-all-vision]]

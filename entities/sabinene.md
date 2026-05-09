@@ -121,13 +121,8 @@ It is also used as an intermediate in the synthesis of other terpenoid compounds
 
 ## See Also
 
-- [[pinene]]
 - [[myrcene]]
-- [[limonene]]
-- [[caryophyllene-oxide]]
 - [[linalool]]
-- [[terpinolene]]
 - [[humulene]]
-- [[ocimene]]
 - [[cannabidiol-cbd]]
 - [[piper-nigrum-entity]]

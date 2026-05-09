@@ -119,10 +119,7 @@ The most important areas for the plant are the 2 inches above and the 2 inches b
 
 ## See Also
 
-- [[jeavons-double-digging-bed-preparation]] — Preparing beds for transplanting
 - [[jeavons-grow-biointensive-method-overview]] — The complete method
-- [[jeavons-composting-methods]] — Producing compost for flat soil mix
 - [[jeavons-companion-planting]] — Plant relationships after transplanting
-- [[jeavons-master-planning-mini-farms]] — Planning transplanting schedules
 - [[jeavons-water-management-irrigation]] — Watering flats and newly transplanted beds
 - [[jeavons-seed-saving-and-propagation]] — Open-pollinated seed selection

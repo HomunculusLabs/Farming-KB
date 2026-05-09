@@ -110,12 +110,9 @@ Ongoing maintenance ensures dam longevity:
 
 Dams connect to the broader system through gravity-fed water distribution,
 aquaculture, fire control reserves, irrigation, and microclimate moderation.
-In the [[mollison-designers-small-forest-farm-cool-humid-layout]]
-model, dams at multiple elevations provide redundancy and flexibility.
-
-See also: [[mollison-designers-cold-caves-root-cellar-storage]],
-alexander shulgin, [[keyline-design]]
+In the [[mollison-designers-cold-caves-root-cellar-storage]],
+alexander shulgin, [[keypoint-dam-water-storage-earthworks]]
 
 ## See Also
 
-- [[keypoint-dam-water-storage-earthworks]]
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

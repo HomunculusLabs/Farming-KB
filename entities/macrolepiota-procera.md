@@ -60,44 +60,9 @@ Widespread across Europe (Scandinavia to Mediterranean), temperate Asia (China, 
 
 Prefers open grasslands, meadows, pastures, and woodland edges. Common along hedgerows and forest paths. Favors well-drained, nutrient-rich soils. Solitary to scattered. Fruits from late summer to late autumn (July–November in the Northern Hemisphere).
 
-Considered primarily saprotrophic but may form weak ectomycorrhizal associations with broadleaf trees at forest margins.
+Considered primarily saprotrophic but may form weak [[spore-print]] is green, not white. Common in subtropical regions.
 
-## Bioactive Compounds
-
-- **Procerolide** — unique sesquiterpene lactone with anti-inflammatory properties
-- **Lectins** — carbohydrate-binding proteins with immunomodulatory activity and selective antiproliferative effects against human cancer cell lines
-- **Agaritine** — phenylhydrazine derivative present in small quantities; largely destroyed by cooking
-- **β-glucans** — immunomodulatory polysaccharides concentrated in the stipe
-- **Ergosterol** — vitamin D2 precursor
-- **Tyrosinase inhibitors** — compounds of interest in dermatological applications
-
-## Nutritional Value
-
-Per 100 g fresh weight: ~22 kcal, 2.5 g protein, 3.3 g carbohydrate, 0.3 g fat, 1.5 g fiber.
-
-Rich in potassium, phosphorus, and B vitamins (niacin, riboflavin). Contains notable selenium and copper.
-
-## Culinary Use
-
-Only the cap is typically consumed; the stipe is too tough and used for stock.
-
-Caps are breaded and pan-fried like schnitzel — a classic preparation in Central European cuisine.
-Flavor is mild and nutty with a firm texture that holds up well to frying. Must be thoroughly cooked; raw consumption may cause gastrointestinal upset.
-
-## Toxic Lookalikes
-
-**Chlorophyllum molybdites** — green-spored parasol, causes severe GI distress. Spore print is green, not white. Common in subtropical regions.
-
-**Lepiota brunneoincarnata** — deadly, contains amatoxins. Much smaller (cap 2–5 cm). Size is the key distinguishing factor.
-
-**Lepiota castanea** — small, amatoxin-containing species with brown scales.
-
-M. procera's large size (cap exceeding 10 cm) distinguishes it from all dangerous Lepiota species.
-
-## Ecological Role
-
-Decomposes organic matter in grassland soils, contributing to nutrient cycling and soil structure.
-Fruiting bodies serve as food for invertebrates, particularly slugs and insect larvae, facilitating spore dispersal.
+**[[spore-dispersal]].
 
 ## Cultivation
 
@@ -114,14 +79,5 @@ Composted straw and supplemented sawdust substrates have achieved moderate succe
 
 ## Permaculture Applications
 
-Suitable for integration into silvopasture and food forest designs as a naturally occurring or introduced edible species.
-
-Preference for grassy edges makes it compatible with alley cropping and hedgerow plantings. Adding leaf litter or wood chips between fruit trees can encourage colonization.
-
-Contributes to fungal biodiversity in designed ecosystems and provides a high-value seasonal food source.
-
-## See Also
-
-- [[agar]]
-- [[agaritine]]
+Suitable for integration into silvopasture and [[chlorophyllum-molybdites]]
 - [[chlorophyllum-molybdites]]

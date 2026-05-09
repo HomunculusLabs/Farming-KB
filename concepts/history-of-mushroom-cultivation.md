@@ -1,5 +1,4 @@
 ---
-title: History Of Mushroom Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -81,7 +80,7 @@ The single most important advancement in modern mushroom cultivation was the dev
 ### Agaricus Industry Expansion (1940s-1970s)
 
 - The button mushroom (Agaricus bisporus) industry expanded dramatically, particularly in the United States, Netherlands, and United Kingdom
-- Development of standardized composting methods (Phase I and Phase II composting) and [[mushroom-cultivation-fundamentals|compost substrate formulations]]
+- Development of standardized composting methods (Phase I and Phase II composting) and [[mushroom-compost-substrates|compost substrate formulations]]
 - Mechanization of spawning, casing, and harvesting
 - The Mushroom Cultivator (Stamets, 1983) codified much of this knowledge, providing detailed technical parameters for commercial operations
 

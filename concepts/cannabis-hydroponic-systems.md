@@ -77,22 +77,12 @@ Root health monitoring is essential in any hydroponic system. Healthy roots shou
 
 ## See Also
 
-- [[cannabis-indoor-growing-basics]]
-
 - [[cannabis-plant-nutrition]]
-
-- [[cannabis-soil-and-nutrient-requirements]]
 
 - [[cannabis-environment-control]]
 
-- [[cannabis-vegetative-stage-management]]
-
 - [[cannabis-cloning-and-mother-plants]]
 
-- [[aquaponics]]
-
 - [[cannabis-flowering-stage-management]]
-
-- [[cannabis-harvest-and-curing]]
 
 - [[cannabis-soilless-grow-media]]

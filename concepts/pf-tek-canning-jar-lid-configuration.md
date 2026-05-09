@@ -138,12 +138,8 @@ If contamination appears at inoculation points after inoculation, the cause is e
 
 ### Substrate Drying
 
-If growth halts without visible contamination, the substrate may have dried out. This can occur when jars are overheated during steam sterilization. Increasing water content in the substrate formula is the remedy.
-
 ## See Also
 
 - [[pf-substrate-formula]] for jar filling and substrate preparation
-- [[pf-tek-steam-sterilization-technique]] for the sterilization cycle
 - [[pf-tek-dry-vermiculite-contaminant-barrier]] for the barrier system
-- [[inoculation-technique-and-alcohol-flaming]] for sterile inoculation
 - [[pf-tek-cake-birthing-technique]] for removing the cake from the jar

@@ -106,26 +106,11 @@ procarcinogens into reactive electrophilic intermediates
 that form DNA adducts. CYP1A1 activates benzo[a]pyrene from
 tobacco smoke. CYP2E1 activates acetaminophen into the
 hepatotoxic metabolite NAPQI, normally detoxified by
-glutathione conjugation but causing liver failure in
-overdose. CYP enzymes also participate in the metabolism of
-endogenous signaling molecules including steroid hormones,
-eicosanoids, and bile acids.
-
-## Evolutionary and Comparative Aspects
-
-The CYP superfamily is ancient, with members found in
-bacteria, archaea, and all eukaryotic lineages. Plant CYPs
-are extraordinarily diverse, with Arabidopsis possessing
-over 270 CYP genes involved in secondary metabolite
-biosynthesis including alkaloids, terpenoids, and
-flavonoids. Fungal CYPs contribute to antibiotic synthesis
-and lignin degradation. The expansion of CYP families in
+[[lignin-degradation]]. The expansion of CYP families in
 different lineages reflects adaptation to diverse ecological
 niches and chemical environments.
 
 ## See Also
-
-- [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]]
 
 - [[glutathione-biochemistry-and-redox-biology]]
 - structure activity relationship medicinal chemistry

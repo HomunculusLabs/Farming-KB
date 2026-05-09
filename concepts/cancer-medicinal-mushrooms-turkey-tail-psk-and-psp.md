@@ -108,21 +108,13 @@ restores immune potential after depression.
 Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[mushroom-cultivation-fundamentals]]
-- [[turkey-tail-trametes-versicolor]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psk-breast-lung-cancer-clinical-trials]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[medicinal-mushroom-antimicrobial-antiviral-research]]
 - [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
 
 ## See Also
 
-- [[medicinal-mushrooms-reishi-and-maitake]]
-
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-
-- [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
 
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

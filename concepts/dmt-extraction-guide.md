@@ -1,7 +1,7 @@
 ---
 title: DMT Extraction Guide
-created: 20dimethyltryptamine2026-04-12
-updated: 2026-05-06
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, psychopharmacology, safety, biochemistry, methods, beginner, pharmacology]
 sources: []
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in hundreds of plant species and produced endogenously in mammalmimosa-hostilismans. It is one of the most potent psychedelics known — a full visionary experience can be achieved with doses as low as 20–60 mg when vaporized.
+N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in hundreds of plant species and produced endogenously in mammals, including humans. It is one of the most potent psychedelics known — a full visionary experience can be achieved with doses as low as 20–60 mg when vaporized.
 
 This guide covers the extraction of DMT from plant material, primarily Mimosa hostilis root bark (MHRB), which is the most common and efficient source for at-home extraction. DMT is a Schedule I controlled substance in many countries — this information is presented for educational and harm-reduction purposes.
 
@@ -29,14 +29,14 @@ DMT is a tryptamine base — meaning it is not soluble in water but is soluble i
 ### Mimosa hostilis (Mimosa tenuiflora) Root Bark
 - The most popular extraction source
 - DMT content: 0.5–1.0% by dry weight
-- Avaipsychotria-viridisbark or powder from botanical suppliers
+- Available as shredded bark or powder from botanical suppliers
 - Native to northeastern Brazil
 
 ### Other Sources
 - **Acacia species** (A. confusa, A. obtusifolia, A. phlebophylla) — Australian and Asian acacias, variable DMT content
-- **[[psychotria-viridis]]** — DMT in leaves (0.1–0.6%), used in ayahuasca
+- **Psychotria viridis** — DMT in leaves (0.1–0.6%), used in ayahuasca
 - **Desmanthus illinoensis** — Illinois bundleflower, root bark contains DMT
-- **Phalaris species** — grasses containing DMT and [[5-meo-dmt]], also contain toxic gramine
+- **Phalaris species** — grasses containing DMT and 5-MeO-DMT, also contain toxic gramine
 
 ## STB (Straight-to-Base) Tek
 

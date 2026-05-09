@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[perennial-vegetables]] and [[cover-crop-guide-detailed]] represent two 
+[[cover-crop-guide-detailed]] represent two 
 fundamentally different approaches to building soil health while maintaining 
 productive land use. Perennial vegetables are permanent food-producing plants 
 that live for many years, simultaneously harvesting food and building soil 
@@ -120,11 +120,7 @@ maintaining continuous soil protection.
 
 ## See Also
 
-- [[comparison-annual-vs-perennial]]
-
 - [[perennial-vegetables]] for species selection and growing guides
-- [[cover-crop-guide-detailed]] for comprehensive cover crop planning
 - [[food-forest-establishment]] for integrating perennials into food forests
-- [[gaias-garden-perennial-vegetables]] for Hemenway's recommended varieties
 - [[pdc-food-forest-layers-and-succession]] for layer-based design
 - [[green-manure-cover-crops]] for cover crop termination methods

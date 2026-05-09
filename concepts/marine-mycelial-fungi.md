@@ -3,7 +3,7 @@ title: Marine Mycelial Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Marine Mycelial Fungi
@@ -112,11 +112,7 @@ Marine fungi are important for:
 
 ## See Also
 
-- [[marine-estuarine-fungi]]
 - [[freshwater-fungi-biodiversity]]
-- [[aquatic-fungi-and-ingoldian-spores]]
 - [[zoosporic-fungi]]
-- [[fungal-roles-aquatic-environments]]
 - [[fungal-decomposition-processes]]
-- [[fungal-decomposition-wood-litter]]
 - [[fungal-role-in-carbon-cycling]]

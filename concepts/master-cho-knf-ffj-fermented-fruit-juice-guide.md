@@ -85,14 +85,8 @@ FPJ of ripe fruits is called fruit enzyme. Divide fruit into four parts (do not 
 
 ## See Also
 
-- [[cannabis-knf-ffj-ripeness-progression]]
-
 - [[knf-fermented-fruit-juice]]
-- [[knf-oriental-herbal-nutrient]]
 - [[brown-rice-vinegar-brv]]
-- [[knf-seawater-and-fermented-seawater]]
 - [[knf-nutritive-cycle-theory]]
-- [[knf-input-application-timing]]
 - [[knf-preparations]]
-- [[monster-cropping]]
 - [[cho-fermented-fruit-juice-preparation]]

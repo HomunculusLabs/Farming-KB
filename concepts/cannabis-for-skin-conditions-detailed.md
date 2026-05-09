@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-The skin has its own [[cannabis-endocannabinoid-system]], with CB1 and CB2 receptors present on virtually every skin cell type. Research from The [[cannabis-health-index]] documents the skin's endocannabinoid system as a therapeutic target for conditions including acne, dermatitis/eczema, psoriasis, itching, hirsutism, and seborrhea.
+The skin has its own [[cannabis-health-index]] documents the skin's endocannabinoid system as a therapeutic target for conditions including acne, dermatitis/eczema, psoriasis, itching, hirsutism, and seborrhea.
 
 ## The Skin Endocannabinoid System
 
@@ -60,29 +60,7 @@ Dietary hempseed oil (rich in omega-3 and omega-6 fatty acids) improved atopic d
 
 ## Psoriasis
 
-### Anti-Proliferative and [[cannabis-anti-inflammatory-applications]] Effects
-**Biro et al. (2009)**: The endocannabinoid system regulates keratinocyte proliferation -- the key pathological process in psoriasis where skin cells multiply too rapidly.
-
-**Aggarwal, Kumar, and Bharti (2003)**: "Anticancer potential of curcumin: Preclinical and clinical studies." Curcumin inhibits the same inflammatory pathways (NF-kB, TNF-alpha) that drive psoriasis.
-
-### Mechanism
-- Psoriasis involves excessive keratinocyte proliferation and immune activation
-- CB1 receptor activation reduces cell proliferation
-- CB2 activation suppresses inflammatory cytokine production
-- Both receptors provide potential dual-action treatment
-
-### Treatment Approach
-- Topical CBD/THC preparations applied to psoriatic plaques
-- Oral CBD for systemic anti-inflammatory effects
-- Curcumin supplementation for synergistic NF-kB inhibition
-- Rooibos tea for additional antioxidant support (Marnewick et al., 2005)
-
-## Itching (Pruritus)
-
-### Topical Cannabinoids for Pruritus
-**Stander, Reinhardt, and Luger (2006)**: Demonstrated effectiveness of topical cannabinoid agonists for chronic pruritus (itching).
-
-**Neff et al. (2002)**: "Preliminary observation with [[dronabinol]] in patients with intractable pruritus secondary to cholestatic liver disease."
+### Anti-Proliferative and [[dronabinol]] in patients with intractable pruritus secondary to cholestatic liver disease."
 
 Oral dronabinol reduced intractable itching in liver disease patients.
 
@@ -105,45 +83,6 @@ Seborrheic dermatitis involves excessive sebum production and Malassezia yeast o
 Both endocannabinoids (anandamide) and exocannabinoids (THC, CBD) inhibit human hair follicle growth. This is relevant to hirsutism -- unwanted hair growth, particularly in women.
 
 ### Fennel for Hirsutism
-**Javidnia et al. (2003)**: "Antihirsutism activity of fennel (fruits of Foeniculum vulgare) extract. A double-blind placebo controlled study." Phytomedicine.
-
-2% topical fennel extract showed significant antihirsutism activity. Fennel contains compounds with SERM-like (selective estrogen receptor modulator) properties that affect hair growth.
-
-### Psychosomatic Component
-**Fava et al. (1989)**: "Psychosomatic assessment of hirsute women." Psychotherapy and Psychosomatics 51(2):96-100.
-
-Psychological distress is both a consequence and potentially a contributing factor in hirsutism, suggesting a mind-body approach.
-
-## Skin Protection and Photodamage
-
-### Cocoa for Photoprotection
-**Heinrich et al. (2006)**: "Long-term ingestion of high-flavanol cocoa provides photoprotection against UV-induced erythema and improves skin condition in women."
-
-### Plant Extracts for UV Protection
-**Mitani et al. (2007)**: "Topical application of plant extracts containing xanthine derivatives can prevent UV-induced wrinkle formation."
-
-### Rooibos and Honeybush
-**Marnewick et al. (2005)**: "Inhibition of tumour promotion in mouse skin by extracts of rooibos and honeybush." Cancer Letters 224(2):193-202.
-
-## Antimicrobial Skin Applications
-
-### Tea Tree Oil (Melaleuca alternifolia)
-- Effective against Candida species including azole-resistant strains (Mondello et al., 2006)
-- Potent anti-staphylococcal activity extended to antibiotic-resistant strains (Ferrini et al., 2006)
-- Antiviral activity against influenza (Isaacs et al., 1994)
-
-### Clove Oil
-**Fu et al. (2007)**: "Antimicrobial activity of clove and rosemary essential oils alone and in combination." Combined clove and rosemary showed enhanced antimicrobial effects.
-
-### Fatty Acids and Monoglycerides
-**Bergsson et al. (1998-2001)**: Series of studies demonstrating that fatty acids and monoglycerides kill Gram-positive bacteria, Candida, Chlamydia, and inactivate enveloped viruses -- the skin's natural antimicrobial lipids.
-
-## Practical Topical Formulations
-
-### CBD-Infused Topicals
-- Balms, salves, and creams for localized skin conditions
-- Combine CBD with anti-inflammatory herbs (calendula, chamomile)
-- For acne: Add tea tree oil (antimicrobial) and niacinamide (sebum regulation)
-- For eczema/psoriasis: Add curcumin, aloe vera, and hempseed oil
+**Javidnia et al. (2003)**: "Antihirsutism activity of fennel (fruits of [[aloe-vera]], and hempseed oil
 
 ## See Also

@@ -1,18 +1,15 @@
 ---
 title: Soil Microscope Analysis
-created: 2026-05-06
-updated: 2026-05-06
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
-tags: []
-sources: []
+tags: [soil-biology, microbes, lab-technique, soil-health]
+sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md]
 ---
-
----
-ti
 
 # Soil Microscope Analysis
 
-Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. [[elaine-ingham]]'s [[soil-food-web]] approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
+Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
 
 ## Equipment Needed
 
@@ -48,8 +45,8 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 
 ### What You See
 - **Bacteria**: Tiny round, rod, or spiral shapes (1-5 micrometers). Difficult to distinguish from clay at 400x — use 1000x oil immersion. Active bacteria appear individually dispersed; inactive bacteria clump in biofilms
-- **[[fungal-hyphae]]**: Long, branching threads (2-10 micrometers wide). Look for: diameter (thin = saprophytic, thick = possibly pathogenic), coloration, septation (cross-walls). Active hyphae are clear/transparent; inactive are darker
-- **Spores**: Round structures (10-100 micrometers). [[fungal-spores]] indicate disturbance or stress — healthy soil has mostly active hyphae, not spores
+- **Fungal hyphae**: Long, branching threads (2-10 micrometers wide). Look for: diameter (thin = saprophytic, thick = possibly pathogenic), coloration, septation (cross-walls). Active hyphae are clear/transparent; inactive are darker
+- **Spores**: Round structures (10-100 micrometers). Fungal spores indicate disturbance or stress — healthy soil has mostly active hyphae, not spores
 
 ## Protozoa Assessment
 

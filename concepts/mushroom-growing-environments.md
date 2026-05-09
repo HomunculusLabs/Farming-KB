@@ -1,7 +1,7 @@
 ---
 title: Mushroom Growing Environments
 created: 2026-04-28
-tags: [mushrooms, environment, grow-chamber, cultivation, mycology]
+tags: [mushrooms, environment, grow-chamber, cultivation, [[mycology]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -10,30 +10,7 @@ type: concept
 
 # Mushroom Growing Environments
 
-The growing environment, often called a fruiting chamber, is the
-enclosure where colonized substrates are exposed to conditions that
-trigger and support mushroom formation. The design of this environment
-is critical because it must simultaneously maintain high humidity,
-provide fresh air exchange, deliver appropriate lighting, and allow
-temperature control.
-
-## Design Principles
-
-An effective growing environment balances four competing requirements.
-High humidity (85 to 95 percent RH) must coexist with fresh air
-exchange, which naturally brings in drier ambient air. Evaporation from
-substrate surfaces must occur without allowing the substrate to dry out.
-Temperature must be controlled without creating condensation problems.
-Light must be provided without generating excess heat.
-
-The fundamental challenge is that these parameters often work against
-each other. Introducing fresh air lowers humidity. Lowering temperature
-increases relative humidity but also slows growth. The best chamber
-designs accommodate these interactions rather than fighting them.
-
-## Simple Chamber Designs
-
-### Shotgun Fruiting Chamber (SGFC)
+The growing environment, often called a [[shotgun-fruiting-chamber]] (SGFC)
 
 The SGFC is the most common beginner fruiting chamber. It consists of a
 clear plastic tote with holes drilled on all six sides (1/4 inch holes
@@ -126,25 +103,5 @@ hour for most species.
 Mini-split air conditioners provide the most precise temperature
 control for indoor grow spaces. For smaller setups, portable air
 conditioners or aquarium heaters in water baths can work. The key is
-to avoid rapid temperature fluctuations, which stress the mycelium and
-can cause pin aborts.
-
-### Lighting
-
-LED strips on a timer provide reliable, low-heat lighting. 6500K
-(daylight spectrum) strips are inexpensive and effective. The light
-should be positioned to illuminate all growing surfaces evenly without
-creating hot spots.
-
-## Sanitation
-
-Growing environments must be cleaned and sanitized between crops.
-All surfaces should be washed with a 10 percent bleach solution,
-followed by 70 percent isopropyl alcohol. The environment should dry
-completely before introducing new substrates.
-
-## See Also
-
-- [[fruiting-conditions-mushroom-cultivation]]
-- [[contamination-prevention-in-mushroom-cultivation]]
+to avoid rapid temperature fluctuations, which stress the [[cotter-substrate-preparation]]
 - [[cotter-substrate-preparation]]

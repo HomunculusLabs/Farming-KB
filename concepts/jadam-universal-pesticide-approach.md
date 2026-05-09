@@ -82,11 +82,7 @@ For the approximately 10% of pest problems not solved by the universal approach,
 
 ## See Also
 
-- [[jadam-natural-pesticide-philosophy]] -- the philosophical foundation
 - [[jadam-pest-control-recipes]] -- practical recipes
-- [[jadam-wetting-agent-jwa]] -- the key ingredient
 - [[jadam-natural-pesticide-jnp]] -- detailed formula
-- [[jadam-vision-ultra-low-cost-philosophy]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
-- [[jadam-foam-gun-pesticide-method]]
 - [[jadam-natural-pest-control-methods]]

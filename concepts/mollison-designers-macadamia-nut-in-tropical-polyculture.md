@@ -118,8 +118,6 @@ architectures reduce competition and maximise resource use efficiency.
 
 ## Related Concepts
 
-- [[mollison-designers-coconut-palm-dominant-polyculture]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[mollison-tree-crop-systems-permaculture]]
 - [[mollison-tropical-earth-shaping-polyculture-economics]]
 - [[mollison-farm-forestry-and-woodlot-design]]

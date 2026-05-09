@@ -115,12 +115,8 @@ Tissue culture propagation has been developed for large-scale planting material 
 
 ## See Also
 
-- [[zingiber-officinale]]
 - [[zingiber-zerumbet]]
-- [[zingiber-mioga]]
 - [[curcuma-longa]]
-- [[alpinia-galanga]]
 - [[boesenbergia-rotunda]]
-- [[kaempferia-galanga]]
 - [[elettaria-cardamomum]]
 - [[withania-somnifera]]

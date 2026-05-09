@@ -140,10 +140,6 @@ The most extensively studied area. Multiple randomized controlled trials (RCTs) 
 - Mechanisms are unclear but may involve adaptogenic effects on the HPA axis
 ## See Also
 
-- [[mollison-tree-biomass-and-forest-as-living-entity]]
-
-- brassicaceae — mustard family
-- [[ashwagandha]] — another adaptogenic root
-- [[rhodiola-rosea]] — high-altitude adaptogen
+- [[withania-somnifera]] — another adaptogenic root
 - [[permaculture]] — design system for sustainable agriculture
 - [[three-sisters]] — traditional polyculture companion planting

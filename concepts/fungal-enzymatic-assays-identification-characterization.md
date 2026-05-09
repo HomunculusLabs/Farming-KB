@@ -3,7 +3,7 @@ title: Fungal Enzymatic Assays for Identification and Characterization
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 
@@ -83,9 +83,7 @@ Multiple tests should be run in combination to build an enzymatic profile, as si
 
 ## See Also
 
-- [[fungal-spore-mounting-and-preservation-techniques]]
 - [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
-- [[fungi-in-stressful-environments]]
 - [[yeast-diversity-taxonomy-and-inventory-methods]]
 
 ## Sources
@@ -93,7 +91,5 @@ Multiple tests should be run in combination to build an enzymatic profile, as si
 - Chapter 13, Culture Collections in Biodiversity of Fungi
 - Hawksworth, D.L. et al. Methods for the examination of organismal diversity in soils and sediments
 - Kirk, P.M. et al. Ainsworth and Bisby's Dictionary of the Fungi
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-biodiversity-in-extreme-environments]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
 - [[fungal-diversity-extreme-environments]]

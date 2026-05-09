@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 # Endophyte Isolation Techniques
 
@@ -82,18 +83,8 @@ Molecular approaches (PCR-RFLP, sequencing of ITS regions) have revolutionized e
 
 ## Related Topics
 
-- [[fungal-endophytes-plant-fitness]]
 - [[fungal-dna-extraction-methods]]
-- [[culturing-culture-independent-fungi]]
 - [[fungal-rdna-primers-molecular-identification]]
-- [[fungal-diversity-estimation-methods]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 12: Endophytic Fungi
-- Stone, J.K. et al. 2004. Endophytic Fungi: Diversity, Ecology, and Methods
-- Petrini, O. 1992. Methods for studying endophytic fungi
-- Bills, G.F. and Polishook, J.D. 1992. Recovery of endophytic fungi from Chamaecyparis
 - [[fungal-endophyte-diversity-patterns]]
 - endophyte isolation techniques
 
@@ -103,39 +94,7 @@ Molecular approaches (PCR-RFLP, sequencing of ITS regions) have revolutionized e
 
 Forest canopies represent one of the most species-rich and least explored habitats for fungi. The elevated environment of tree crowns provides unique conditions including high light intensity, exposure to wind, variable moisture, and direct contact with the atmosphere.
 
-[[fungal-biodiversity]] [[fungal-biodiversity-forest-ecosystems]] [[endophytic-fungal-diversity]]
-
-## Canopy as Fungal Habitat
-
-The forest canopy is a complex, three-dimensional habitat supporting diverse fungal communities on leaves (phyllosphere), branches, bark, flowers, fruits, and in associated epiphytic plants including mosses, lichens, bromeliads, and orchids.
-
-Canopy conditions differ markedly from the forest floor in temperature, humidity, light intensity, and exposure to atmospheric elements. These differences create distinct selective environments that support fungal assemblages different from those found closer to the ground.
-
-[[the-soil-food-web]] [[fungal-environmental-sensing]]
-
-## Phyllosphere Fungi
-
-Leaf surfaces (phylloplane) and internal leaf tissues (endophytes) together constitute the phyllosphere fungal community. Epiphytic fungi on leaf surfaces include both yeasts and filamentous species that exploit leaf exudates, deposited pollen, and other surface nutrients.
-
-Dennis (1970) noted that leaf epiphytes and inhabitants of living leaves are significantly more diverse in tropical than in temperate regions. This pattern contributes to the generally accepted view that overall fungal diversity is greatest in the tropics.
-
-[[fungal-leaf-litter-succession]] [[endophytic-fungi]]
-
-## Epiphytic Plants as Fungal Habitats
-
-Larger woody perennials may support parasites such as mistletoes and dodders and complex assemblages of epiphytic plants, which in turn harbor endophytic fungi. Tropical trees with abundant epiphyte loads may support some of the most diverse canopy fungal communities.
-
-Mosses and hepatics in canopy environments harbor endophytic fungi, and the complex physical structure of epiphyte mats creates numerous microhabitats for fungal colonization.
-
-[[endophytic-fungal-diversity]] [[lichenized-fungi-detailed]]
-
-## Canopy Endophytes
-
-Tropical canopy leaves harbor exceptionally diverse endophyte communities. Arnold and colleagues (2000) found 242 endophytic species in leaves of Heisteria concinna in Panama. A single conifer needle may harbor several dozen species.
-
-In tropical forests, host specificity of endophytes is more difficult to demonstrate, requiring more intensive sampling, and species richness may be considerably higher than in temperate forests.
-
-endophyte isolation techniques [[fungal-species-estimates-taxonomy]]
+[[fungal-biodiversity-forest-ecosystems]] [[soil-food-web-nutrient-cycling]] [[fungal-leaf-litter-succession]] [[endophytic-fungal-diversity]] [[fungal-species-estimates-taxonomy]]
 
 ## Canopy Gap Dynamics
 
@@ -143,6 +102,6 @@ The opening of forest canopy affects understory microclimate and consequently fu
 
 This leaf-decomposing fungus has superficial mycelia and hyphal strands very sensitive to drying, demonstrating how canopy-mediated humidity patterns control fungal distribution. Gap-phase dynamics create a mosaic of microclimatic conditions that maintains fungal diversity at the landscape scale.
 
-[[fungal-stress-responses]] [[fungal-community-assembly]]
+[[fungal-community-assembly]]
 
 ## Vertical Stratification

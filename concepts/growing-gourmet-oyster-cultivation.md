@@ -108,12 +108,8 @@ Spent Oyster substrate has multiple valuable uses:
 
 ## See Also
 
-- [[cotter-oyster-mushroom-cultivation]]
 - [[oyster-mushroom-species-guide]]
-- [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-strain-selection-guide]]
-- [[oyster-mushroom-harvesting-post-harvest]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-harvesting-storage]]

@@ -18,28 +18,7 @@ type: concept
 
 ## Overview
 
-Successful fruiting body production in [[grifola-frondosa]] (maitake)
-requires precise management of environmental growth parameters. The
-species is highly aerobic with intricate structural development, and
-the balance between ventilation, humidity, temperature, and light
-directly determines fruiting body success rate and quality.
-
-## The Ventilation vs. Humidity Balance
-
-The most critical management challenge in maitake fruiting is
-controlling the delicate balance between ventilation and relative
-humidity. These two parameters work in opposition:
-
-- **Ventilation** increases air exchange, bringing fresh oxygen
-  essential for the highly aerobic fruiting process.
-- **Ventilation simultaneously disrupts air moisture** (relative
-  humidity), creating drought risk for developing fruiting bodies.
-
-### Recommended Approach
-
-Ventilate more frequently but for shorter durations. This strategy
-maximizes fresh air intake while minimizing the cumulative
-dehumidifying effect on the [[cannabis-growing-environment-setup]].
+Successful fruiting body production in [[cannabis-growing-environment-setup]].
 
 ### Humidity Thresholds
 
@@ -53,52 +32,9 @@ Young fruiting bodies are especially vulnerable to drought stress.
 Any period of low humidity can cause irreversible damage to
 developing clusters.
 
-## [[mushroom-lighting-requirements]]
+## [[mushroom-primordia-formation-triggers]] success.
 
-Proper lighting during fruiting is essential for achieving high
-fruiting body success rates. The recommended light intensity is
-200-500 lux.
-
-### Effects of Inadequate Light
-
-Insufficient light during fruiting causes multiple problems:
-
-- Impaired fruiting body differentiation
-- Poor pigment formation
-- Malformed pilei (caps)
-- Abnormal fruiting clusters
-- Subnormal fruiting color (very light to white)
-
-### Light During Spawn Run
-
-A low light level of approximately 50 lux throughout the entire
-spawn run (growth and maturation periods) has been found to
-facilitate primordia initiation. The interaction between light
-level and spawn run duration affects the surface mycelial coat,
-which in turn influences [[mushroom-primordia-formation-triggers]] success.
-
-### Light [[knf-pest-control-methods]]
-
-Two approaches are used:
-
-- **Lux-based control**: Maintain 200-500 lux using artificial
-  lighting.
-- **Shading ratio**: Sunlight to shade at a 3:7 ratio provides
-  appropriate light levels. Direct sunlight must always be
-  avoided for growing G. frondosa.
-
-## Oxygen and Carbon Dioxide Management
-
-### Oxygen Requirements
-
-Due to its highly aerobic nature, high oxygen levels should be
-maintained throughout fruiting. The specific CO2 thresholds vary
-by cultivation approach:
-
-- **Japanese practice**: CO2 maintained below 0.1% (1000 ppm);
-  levels above 0.15% (1500 ppm) produce small or thin caps.
-- **North American practice**: CO2 below 1000 ppm (<0.1%) during
-  [[fruiting-body-development]], with 2000-5000 ppm (0.2-0.5%)
+### Light [[fruiting-body-development]], with 2000-5000 ppm (0.2-0.5%)
   tolerated during stem development.
 - **Chinese practice**: High O2 maintained with bag tops opened
   and ventilation 5-6 times per day.
@@ -139,3 +75,22 @@ Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
 ## See Also
 
 - [[maitake-cultivation]]
+## Practical Considerations
+
+Successful implementation of Maitake Fruiting Body Success Rate and Environmental Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

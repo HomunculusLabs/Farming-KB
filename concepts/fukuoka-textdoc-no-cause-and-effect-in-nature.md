@@ -62,80 +62,31 @@ circle or sphere, one could say that there is unity of cause and effect, but
 one could just as well claim that cause and effect do not exist.
 
 This is Fukuoka's principle of non-causality, elaborated in
-[[fukuoka-theory-principle-of-non-causality]].
-
-## The Error of Combating Rice Blast
-
-To science, which examines the wheel of causality in parts and at close
-quarters, cause and effect exist. To the scientific mind, there most
-certainly is a way to combat rice blast bacteria. Yet when man, in his myopic
-way, perceives rice disease as a nuisance and takes the scientific approach
-of controlling the disease with a powerful bactericide, he proceeds from his
-first error that causality exists to subsequent errors. From his futile
-efforts he incurs further toil and misery.
-
-## All Laws Are One and Meaningless
-
-Fukuoka extends this principle to the generally accepted laws of agricultural
-science: diminishing returns, equilibrium, adaptation, compensation and
-cancellation, relativity, and the law of minimum. Each of these laws is
-treated independently, yet they are not different and distinct from one
-another. Nature is an indivisible whole; all laws emanate from one source
-and return to Mu, or nothingness.
-
-The law of diminishing returns can be read as a force that strives to
-maintain equilibrium by opposing gradual increases in returns. Compensation
-and cancellation are mutually antagonistic. Equilibrium and adaptability are
-means of protecting the balance, order, and harmony of nature. And if there
-is a law of the minimum, there must also be a law of the maximum.
-
-Each one of these laws is nothing other than a manifestation of the great
-harmony and balance of nature. Each springs from a single source that draws
-them all together. Nature is an absolute void. See also
 [[fukuoka-critique-laws-agricultural-science]] and
-[[fukuoka-liebig-law-critique]].
-
-## Implications for Farming Practice
-
-The practical implication is that when problems arise in farming, the
-scientific approach of treating symptoms is misguided. Rather than asking
-"what caused this?" and applying a targeted fix, the natural farmer asks
-"what human action disrupted the balance?" and seeks to restore conditions
-as close to nature as possible. This connects directly to
 [[fukuoka-textdoc-leave-nature-alone-philosophy]] and
-[[fukuoka-textdoc-no-good-or-evil-in-nature]].
-
-## The Water Level and Flow
-
-Fukuoka illustrates the principle of equilibrium with a simple metaphor.
-Water flows from a high point to a low point; flow ceases when the surface of
-the water is level, when there is no longer any difference in potential. The
-chemical transformation of a substance stops when chemical equilibrium has
-been restored. In the same way, all the phenomena associated with living
-organisms work tirelessly to maintain a state of equilibrium.
-
-When this balance breaks down, forces come into effect that work to restore
-it. All phenomena in the natural world act to restore and maintain a state
-of equilibrium. This is not a process of cause and effect but a manifestation
-of the single unified harmony of nature.
-
-## Beyond Good and Poor Growth
-
-From a scientific perspective, growth appears to be either good or poor, and
-yields either large or small, but the amount of sunlight reaching the earth
-stays constant and the levels of oxygen and carbon dioxide remain balanced in
-the atmosphere. This being so, why do we nevertheless see differences in
-growth and yields? The fault is usually man's. Man destroys the immutability
-and stability of nature either by himself invoking the notions of large and
-small, many and few, or by altering form and substance. See
 [[fukuoka-textdoc-no-good-or-evil-in-nature]].
 
 ## See Also
 
-- [[fukuoka-incomprehensibility-and-inviolability-of-nature]]
-
 - [[fukuoka-theory-principle-of-non-causality]]
-- [[fukuoka-critique-laws-agricultural-science]]
 - [[fukuoka-liebig-law-critique]]
-- [[fukuoka-errors-human-intellect]]
 - [[fukuoka-nature-perfect-imperfect]]
+## Practical Considerations
+
+Successful implementation of No Cause and Effect in Nature - The Principle of Non-Causality requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

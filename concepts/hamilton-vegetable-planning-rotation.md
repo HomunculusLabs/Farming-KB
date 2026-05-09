@@ -1,7 +1,7 @@
 ---
 title: Vegetable Garden Planning and Rotation
 created: 2026-04-26
-author: Geoff Hamilton
+author: [[geoff-hamilton]]
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept
@@ -105,5 +105,5 @@ cold frames, fruit cage, herb garden, and utility area. Be flexible
 when transferring the plan to the garden -- if a curve looks wrong
 when cut, adjust it. If it looks right, it is right.
 
-See also: [[hamilton-organic-soil-management]], [[hamilton-organic-weed-management]],
-[[hamilton-seasonal-planting-calendars]], [[hamilton-organic-seed-saving-propagation]]
+See also: [[hamilton-organic-weed-management]],
+[[hamilton-organic-seed-saving-propagation]]

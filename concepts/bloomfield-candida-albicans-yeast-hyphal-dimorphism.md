@@ -120,8 +120,6 @@ The clinical impact of drug-resistant Candida is particularly severe in hospital
 
 ## See Also
 
-- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] for another major human fungal pathogen
 - [[bloomfield-fungal-pathogens-and-parasites]] for broader discussion of fungal parasitism
-- [[bloomfield-turgor-pressure-and-hyphal-invasion]] for the mechanics of hyphal penetration
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]] for yeast biology and pathogenicity
 - [[bloomfield-fungal-biology-and-hyphal-growth]] for the fundamentals of hyphal growth and secretion

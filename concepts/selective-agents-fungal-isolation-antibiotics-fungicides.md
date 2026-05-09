@@ -3,7 +3,7 @@ title: Selective Agents for Fungal Isolation — Antibiotics and Fungicides
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -115,12 +115,7 @@ Without selective agents, a few rapidly growing species dominate cultures and ra
 - Experiment with concentrations for specific sample types
 
 ## See Also
-- [[ethanol-pasteurization-selective-fungal-isolation]]
-
 - [[fungal-culture-media-formulas-applications]]
-- [[soil-fungal-isolation-techniques]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-diversity-and-ecology]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[endophytic-fungi-plant-interactions]]

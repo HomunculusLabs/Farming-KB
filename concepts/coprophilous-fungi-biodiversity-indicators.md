@@ -10,8 +10,6 @@ sources: []
 title: Coprophilous Fungi as Biodiversity Indicators
 created: 2026-04-26
 tags:
-  - [[coprophilous-fungi]]
-  - bioindicators
   - [[dighton-soil-fungal-biodiversity-assessment]]
   - habitat quality
   - conservation monitoring
@@ -38,12 +36,7 @@ their specialized substrate:
 
 - They are primary decomposers of herbivore dung, facilitating
   nutrient cycling in grassland and forest ecosystems
-- They produce a remarkable diversity of [[biodiversity-fungal-secondary-metabolites]],
-  including antibacterial and antifungal compounds
-- Their interactions with other dung organisms (bacteria, arthropods,
-  nematodes) create complex micro-ecosystems
-- They serve as food resources for fungivorous invertebrates
-- Their [[fungal-spore-dispersal-mechanisms]] often depend on herbivore behavior,
+- They produce a remarkable diversity of [[fungal-spore-dispersal-mechanisms]] often depend on herbivore behavior,
   creating tight links between fungal and animal populations
 
 ## Indicator Potential
@@ -57,29 +50,7 @@ rests on several attributes:
   assessments
 - **Species specificity**: Many coprophilous fungi show preferences
   for dung from specific herbivore species, reflecting the mammalian
-  [[mycorrhizal-effects-on-plant-community-composition]]
-- **Habitat sensitivity**: The composition of coprophilous fungal
-  communities reflects the vegetation, climate, and land-use history
-  of the surrounding landscape
-- **Quantitative assessment**: In limited instances, coprophilous
-  fungi may allow for a quick, simple, inexpensive quantitative
-  assessment of biodiversity
-- **Relevance to larger ecosystems**: The fungi can provide information
-  relevant to the broader ecosystem beyond the immediate dung substrate
-
-## Challenges in Using Coprophilous Fungi as Indicators
-
-Despite their potential, several challenges limit the use of
-coprophilous fungi in biodiversity monitoring:
-
-- The taxonomy of many genera has not been studied in detail and no
-  monographs are available for numerous groups
-- The coprophilous mycobiota has been surveyed in only a few regions,
-  and for many areas of the world even the most elementary information
-  is lacking
-- Knowledge of the biology of coprophilous fungi is almost negligible
-  and is restricted to a limited number of species
-- Obtaining realistic estimates of [[microfungal-diversity-host-plant-relationship]] as part of
+  [[microfungal-diversity-host-plant-relationship]] as part of
   biodiversity surveys may be impractical because of the enormous
   scope of the task
 - Rarity may be an artifact of the specialized requirements of
@@ -144,7 +115,5 @@ effort increases and taxonomic knowledge improves, it should become
 possible to identify genuinely rare and threatened coprophilous fungi.
 
 Efforts should focus on habitat conservation as the primary strategy
-for preserving coprophilous fungal diversity, recognizing that
 ## See Also
-- [[spore-dispersal-mechanisms]]
 - [[spore-dispersal]]

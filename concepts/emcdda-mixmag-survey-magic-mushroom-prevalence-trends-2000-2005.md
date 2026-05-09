@@ -117,7 +117,5 @@ Despite these limitations, the Mixmag survey remains the only available multi-ye
 ## See Also
 
 - [[hallucinogenic-mushroom-prevalence-europe]]
-- [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
-- [[magic-mushroom-prohibition-britain-2005]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]

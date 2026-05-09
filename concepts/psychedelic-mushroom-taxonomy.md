@@ -4,16 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheogen, ethnomycology]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Taxonomy
 
 ## Overview
 
-Psychedelic mushrooms are fungi that produce psychoactive [[tryptamine]] compounds, primarily psilocybin and psilocin. The taxonomy of these fungi has undergone significant revision with the advent of molecular phylogenetics, reshaping our understanding of their evolutionary relationships.
+Psychedelic mushrooms are fungi that produce psychoactive tryptamine compounds, primarily psilocybin and psilocin. The taxonomy of these fungi has undergone significant revision with the advent of molecular phylogenetics, reshaping our understanding of their evolutionary relationships.
 
 ## The Psilocybe Genus
 
@@ -60,7 +58,7 @@ Inocybe is a large genus with over 1,400 described species. Most are mycorrhizal
 
 ### Galerina
 
-**Galerina marginata** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **[[amanita-phalloides]]** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on amatoxin poisoning.
+**Galerina marginata** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on amatoxin poisoning.
 
 ## Morphological Identification Features
 

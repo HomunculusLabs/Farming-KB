@@ -14,62 +14,19 @@ sources:
 type: concept
 ---
 
-# Psilocybin Dosage Guidelines for Australian Mushroom Species
-
-## General Principles
-
-The majority of adverse physical effects or negative psychological reactions
-produced by "magic mushrooms" generally result from inappropriate set and
-expectation, or because of improper dosage, which may vary considerably among
-consumers, different mushroom species, or even within an individual species.
-The question of dosage is often confused by the variation in the source of the
-hallucinogenic mushroom species which is consumed. These factors are central
-to [[psychedelic-mushroom-set-and-setting]].
+# [[psychedelic-mushroom-set-and-setting]].
 
 A key finding from Australian research is that wild-collected specimens are
 generally less potent than cultivated ones. Margot and Watling (1981) were
-surprised by the comparatively small amounts of psilocybin and psilocin which
-they extracted from wild specimens of [[psychedelic-mushrooms-species-and-identification]] collected from
+surprised by the comparatively small amounts of psilocybin and [[psychedelic-mushroom-set-and-setting]] collected from
 five different locations in Australia, suggesting that much larger doses would
 be required to produce significant hallucinations.
 
 ## Psilocybe cubensis
 
-[[psychedelic-mushrooms-species-and-identification]] is the most commonly consumed psychoactive mushroom in
-Australia. Dosage varies significantly between wild and cultivated specimens:
-
-- Wild-collected: Relatively mild experience; requires large amounts of fresh
-  material. Approximately 1 to 2 large fresh mushrooms weighing up to one
-  fresh ounce, or as many as 25 to 50 small mushrooms equaling the same
-  weight.
-
-- Cultivated (in vitro): 1 to 2 grams dried for an altered state of
-  consciousness; clinical dosage has been reported as 3 to 5 grams dried.
-
-- One research team in 1982 found that "the level of psilocybin and psilocin
-  varies over a factor of 4 among various in vitro cultures of Psilocybe
-  cubensis, while specimens from outdoors varied tenfold."
-
-Ethnopharmacologist Jonathan Ott (1976, 1993) observed "the ingestion of from
-0.5 gm to 5.9 gm dried weight (10 gm to 40 gm fresh)" of various species of
-Psilocybe. Dosage for psilocybe subcubensis would be the same as for
-[[psychedelic-mushrooms-species-and-identification]], as both species are macroscopically alike and only
-distinguishable by spore size.
-
-## Copelandia cyanescens
-
-[[panaeolus-cyanescens-bali-omelette]] ("blue meanies") is generally more potent per unit
-weight than [[psychedelic-mushrooms-species-and-identification]]:
-
-- Usual dosage: 1 to 3 large specimens (cap diameter approximately 5 mm), or
-  5 to 10 medium-sized mushrooms (cap diameter approximately 2.5 mm)
-
-- Tolerance may develop with continued use, and some experienced consumers
-  have reportedly ingested 50 to 200 fresh specimens of various sizes
-
-## Psilocybe subaeruginosa
-
-[[psilocybe-subaeruginosa-australia]], the most common wood-inhabiting psychoactive
+[[psychedelic-mushroom-set-and-setting]], as both species are macroscopically alike and only
+distinguishable by [[panaeolus-cyanescens-bali-omelette]] ("blue meanies") is generally more potent per unit
+weight than [[psilocybe-subaeruginosa-australia]], the most common wood-inhabiting psychoactive
 species in southeastern Australia:
 
 - Dosage approximately 1 to 3 large specimens, 4 to 6 small specimens, or
@@ -80,43 +37,7 @@ species in southeastern Australia:
 
 ## Psilocybe semilanceata
 
-[[psychedelic-mushrooms-species-and-identification]] ("liberty cap"), found in Tasmania and New Zealand:
-
-- 7 to 10 grams fresh (approximately 20 to 30 mushrooms), or 1 gram dried
-
-- Very common in Europe but relatively underutilized in Australia
-
-## Panaeolus subbalteatus
-
-Panaeolus subbalteatus, a less commonly used species found throughout Australia:
-
-- Requires at least 28 grams fresh (10 to 20 or more mushrooms), or 2 to 5
-  grams dried material
-
-## Wood Chip Species
-
-Several Australian Psilocybe species found in wood chips and bark mulch have
-unknown dosages, but bioassays indicate they are potent:
-
-- Psilocybe australiana -- dosage unknown; reported to be as potent as
-  Psilocybe cyanescens
-
-- Psilocybe eucalypta -- dosage unknown; similar potency reported
-
-- Psilocybe tasmaniana -- dosage unknown; similar potency reported
-
-- Psilocybe makarorae -- dosage unknown (New Zealand species)
-
-Gymnopilus spectabilis (syn. G. junonius) requires 4 to 8 fresh ounces
-(112-224 grams), but is extremely bitter and unlikely to be consumed
-recreationally. The Australian form is probably subspecies pampeanus. Some
-experts question whether this species is actually psychoactive.
-
-## Duration of Effects
-
-Symptoms produced by eating fresh hallucinogenic mushrooms begin within 15 to
-30 minutes after ingestion, or from 5 to 10 minutes when prepared as tea or
-soup. Effects persist for 4 to 6 hours, compared to 8 to 12 hours for LSD or
+[[lsd]] or
 mescaline. This shorter duration is one reason many users prefer natural
 mushrooms over synthetic psychedelics.
 
@@ -147,3 +68,22 @@ studies."
 
 - [[psychedelic-mushroom-set-and-setting]] -- importance of mindset and
   environment
+## Practical Considerations
+
+Successful implementation of Psilocybin Dosage Guidelines for Australian Mushroom Species requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

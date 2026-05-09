@@ -1,7 +1,7 @@
 ---
 title: Fungal Biodiversity Overview
 created: 2026-04-28
-tags: [mycology, biodiversity, ecology, taxonomy]
+tags: [[mycology, biodiversity, ecology, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -122,8 +122,6 @@ of Underground Networks are working to accelerate fungal documentation.
 
 ## See Also
 
-- [[endophytic-fungi]]
 - [[mycorrhizal-fungi-diversity]]
-- [[fungal-environmental-dna]]
 - [[fungal-taxonomy-challenges]]
 - [[cryptic-fungal-species]]

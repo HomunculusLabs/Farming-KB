@@ -112,27 +112,10 @@ spirit.
 The ibogaine research that McKenna anticipates, particularly into its
 effects on sexual dysfunction, represents another example of scientific
 investigation only waiting for social attitudes to change before it can
-proceed. If the impact of [[ibogaine-reference]] on sexual dysfunction were found
-to be congruent with its ethnobotanical reputation, then further
-research into its mechanisms of action might prove especially promising
-for understanding the neurochemistry of intimacy and bonding.
-
-The Bwiti cult, as presented in *Food of the Gods*, serves as a
-counterexample to the dominator narrative: a society where a powerful
-psychoactive plant reinforces rather than undermines social cohesion,
-sexual fulfillment, and cultural continuity against the pressures of
-colonialism and conversion.
-
-## See Also
-
-- [[mckenna-huxley-mind-at-large-reducing-valve]]
-
-- [[mckenna-jaynes-bicameral-mind-breakdown]]
+proceed. If the impact of [[mckenna-huxley-mind-at-large-reducing-valve]]
 
 - [[mckenna-dioscorea-population-reproduction-effects]]
 
-- [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-archaic-revival]]
-- [[iboga-and-ibogaine-profile]]
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[mckenna-food-gods-fall-consciousness]]

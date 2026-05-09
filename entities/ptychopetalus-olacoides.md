@@ -40,107 +40,68 @@ sources:
 **Ptychopetalum olacoides** is a small evergreen tree native to the Amazon
 rainforest of Brazil, French Guiana, Suriname, and Peru. Known commonly as
 muira puama ("potency wood") or marapuama, it is one of the most renowned
-plants in Brazilian herbal medicine, traditionally used as a neuromuscular
-tonic, aphrodisiac, and treatment for fatigue, depression, and cognitive decline.
-The bark and root bark are the primary plant parts used. Modern pharmacological
-research has validated several traditional uses, particularly adaptogenic,
-neuroprotective, and pro-erectile activities.
-
-## Taxonomy
-
-**Plantae → Santalales → Olacaceae → Ptychopetalum → P. olacoides** Benth.
-
-Described by George Bentham in 1842. The genus contains two recognized species:
-*P. olacoides* (Amazon basin) and *P. uncinatum* (Chaco region of Bolivia and
-Paraguay; widely considered conspecific by some authorities). The family
-Olacaceae has been reclassified in recent molecular phylogenies, with some
-genera moved to separate families, but *Ptychopetalum* remains in Olacaceae
-sensu stricto.
-
-## Morphology
-
-A small evergreen tree reaching 4–5 m in cultivation, occasionally to 10 m in
-the wild. **Trunk** is slender, 10–15 cm diameter, with grey-brown, fissured
-bark. **Leaves** are simple, alternate, lanceolate to elliptic, 8–20 cm long
-and 3–7 cm wide, leathery, dark green above and paler below, with entire
-margins. **Inflorescences** are terminal or axillary panicles 5–15 cm long
-bearing small, white to yellowish-green flowers 4–6 mm diameter. **Fruit** is
-a small drupe, ellipsoid, 1–2 cm long, yellow-orange when ripe. **Roots** are
-deeply anchored; the root bark — dark brown, rough, with a characteristic
-spicy-resinous aroma — is the primary medicinal part.
-
-## Distribution and Habitat
-
-Native to the Amazon basin in northern Brazil (Pará, Amazonas, Maranhão,
-Amapá), French Guiana, Suriname, and eastern Peru. Found in lowland tropical
-rainforest, terra firme and várzea forests, and secondary growth, from sea
-level to 300 m. Prefers well-drained loamy to sandy soils in partial shade
-to full sun. Almost exclusively wild-harvested; not cultivated at scale.
-
-## Bioactive Compounds
-
-Phytochemical investigation of root bark has revealed several bioactive classes:
-
-- **Alkaloids:** Muirapuamine (namesake alkaloid), olacoidine — indole-type
-  alkaloids with demonstrated neuroprotective activity. Total alkaloid content
-  0.3–0.8% dry weight.
-- **Long-chain fatty acids:** Behenic acid, lignoceric acid, oleic acid in
-  significant quantities in root extracts.
-- **Essential oil:** Rich in β-caryophyllene, α-humulene, germacrene-D;
-  contributes the characteristic spicy aroma.
-- **Terpenoids and saponins:** Triterpenoid saponins isolated but not fully
-  characterized pharmacologically.
-- **Phenolic compounds:** Gallic acid, ellagic acid, catechin derivatives
-  contributing to antioxidant activity.
-
-## Pharmacology
-
-Modern research has focused on neuropharmacological and reproductive effects:
-
-- **Adaptogenic/anti-fatigue:** Aqueous root bark extracts reduced locomotor
-  depression and amnesic effects induced by stress in rodent models. Activity
-  attributed to muirapuamine and olacoidine (Siqueira et al., 2004).
-- **Neuroprotective:** Root extract protected rat hippocampal neurons from
-  Aβ-induced toxicity and reduced oxidative stress markers (TBARS, nitrite)
-  in vitro. Mechanism: free-radical scavenging and upregulation of endogenous
-  antioxidant enzymes (SOD, catalase, glutathione peroxidase).
-- **Pro-erectile/aphrodisiac:** Increased mounting frequency and improved
-  erectile function in rodents after oral administration. Proposed mechanisms
-  include nitric oxide pathway activation and acetylcholinesterase inhibition.
-- **Antidepressant-like:** Reduced immobility time in forced swim test,
-  suggesting monoaminergic modulation.
-- **Cognitive enhancement:** Improved memory acquisition and retention in
-  step-down inhibitory avoidance paradigms in aged rats.
-
-## Traditional Use
-
-In Brazilian herbal medicine, muira puama is classified as a **nervino-tonic**
-prescribed for sexual debility and impotence (its most famous use — "potency
-wood"), CNS fatigue, depression, nervous exhaustion, muscular weakness, and
-recovery from illness. Also used for dysentery (root bark decoction) and
-rheumatic pain (topical). Preparations include decoctions (10–20 g root bark
-in 500 mL water), tinctures (1:5 in 40–60% ethanol), and powdered root
-capsules. In the European market, it appears in multi-herb formulations for
-male sexual health alongside *Turnera diffusa*, *Ginkgo biloba*, and *Tribulus
-terrestris*.
-
-## Cultivation and Sustainability
-
-Almost exclusively wild-harvested. Cultivation methods are under development
-but not widely adopted. Trees grow slowly, flowering at 4–5 years from seed.
-Propagation by seed (fresh seeds germinate in 30–60 days) or semi-hardwood
-cuttings under mist. Conservation status not formally assessed by IUCN, but
-habitat loss and harvest pressure are recognized concerns.
-
-## Related Species
-
-- ***Ptychopetalum uncinatum*** — Chaco-region species; sometimes treated as
-  conspecific; similar chemistry and traditional use.
-- Commercial "muira puama" products are frequently adulterated; authentication
-  by microscopy and HPLC is essential.
+plants in Brazilian [[turnera-diffusa]]*, *[[humulene]]
+- [[humulene]]
 
 ## See Also
 
-- [[ginkgo-biloba]]
-- [[herbal-medicine]]
-- [[humulene]]
+- [[vegetalismo-amazonian-plant-medicine]]
+## Practical Considerations
+
+When working with Ptychopetalum olacoides, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

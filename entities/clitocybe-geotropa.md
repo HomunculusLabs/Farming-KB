@@ -125,11 +125,7 @@ Some progress has been made with outdoor bed cultivation near compatible tree ro
 
 ## See Also
 
-- [[clitocybe-nuda]]
 - [[tricholoma-equestre]]
-- [[tricholoma-terreum]]
 - [[morchella-esculenta]]
-- [[cantharellus-cibarius-entity]]
 - [[agaricus-campestris]]
-- [[agaricus-bitorquis]]
 - [[mycorrhiza]]

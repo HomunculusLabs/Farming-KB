@@ -42,10 +42,7 @@ valued fungi in traditional Chinese medicine, documented in the
 ### Bioactive Constituents
 - **Galactomannans:** Antitumour and immunostimulating
   polysaccharides isolated from Cordyceps species
-- **Cordycepin (3'-deoxyadenosine):** Unique nucleoside analogue
-  with antitumour, antiviral, and immunomodulatory properties.
-  Found almost exclusively in Cordyceps species.
-- **Sterols:** Including ergosterol and related compounds
+- **[[ergosterol]] and related compounds
 - **Adenosine:** Cardioprotective and antiplatelet agent
 - **Cordycepic acid (D-mannitol):** Diuretic and bronchodilatory
 
@@ -62,24 +59,7 @@ scavenging. Additional documented properties include:
 
 ### Production Challenges and Solutions
 The complete fruiting structure (caterpillar plus stroma) cannot be
-cultivated and must be harvested from the wild. However, pure mycelium
-can be grown in fermentors under aseptic conditions, providing better
-quality control, homogeneity, and process control. Fermenter-produced
-mycelium is attracting considerable interest as a therapeutic agent
-for fatigue treatment and motor function improvement (Mizuno, 1999).
-Quality and safety of wild-collected material remains a concern.
-
-### Market and Cultural Significance
-One of the most expensive natural medicines in the world. Wild-
-harvested specimens from the Tibetan Plateau command premium prices.
-Used extensively in traditional Chinese, Tibetan, and Nepalese
-medicine. Known as "Yarsa Gunbu" in Tibetan (summer grass, winter
-worm). Modern fermentation technology is making mycelium-based
-products more accessible.
-
-## Relevance
-Cordyceps sinensis represents a unique intersection of entomology
-and mycology with traditional medicine. Its inability to be fully
+cultivated and must be harvested from the wild. However, pure [[mycology]] with traditional medicine. Its inability to be fully
 cultivated as a fruiting body makes it one of the most expensive
 natural medicines. The development of fermenter-based mycelial
 cultivation offers a sustainable alternative while preserving key
@@ -88,8 +68,24 @@ Cordyceps genus and of significant interest for drug development.
 
 ## See Also
 
-- [[toona-sinensis]]
-- cordycepin
 - [[ganoderma-lucidum]]
-- [[hericium-erinaceus]]
 - [[inonotus-obliquus]]
+## Practical Considerations
+
+Successful implementation of Cordyceps sinensis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

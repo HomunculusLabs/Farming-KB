@@ -77,16 +77,10 @@ Dagga of South Africa is highly acclaimed:
 
 ## Related
 
-- [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[biscotti-cannabis-strain]]
-- [[super-boof-cannabis-strain]]
 - [[acdc-cannabis-strain]] Topics
 
-- [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
-- [[cannabis-thai-strain-description-clarke]] - Thai strain profile
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
 - [[cannabis-mexican-strain-description-clarke]]
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 - [[yage-common-themes-south-american-indians]]

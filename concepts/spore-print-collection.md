@@ -8,24 +8,7 @@ sources: [papers/mycelium-running-stamets.md]
 ---
 # Spore Print Collection
 
-Spore printing is the art and science of capturing mushroom spores for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *Mycelium Running* by [[stamets-mycoremediation-principles]].
-
-## Overview
-
-Spore prints are created by placing a mushroom cap, spore-bearing surface down, onto paper or glass. As the mushroom releases spores, they accumulate in patterns that mirror the gills, pores, teeth, or folds beneath. Spore color is one of the most important identification features in mycology — nowhere else in botany is color so key for separating genera.
-
-Mushrooms produce spores from gills, pores, teeth, or folds depending on the species. The garden giant (*Stropharia rugoso-annulata*) and parasol (*Macrolepiota procera*) are gilled; reishi (*[[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[cancer-medicinal-mushrooms-hericium-erinaceus]]*) has cascading spines ("teeth"); morels (*Morchella*) have deeply convoluted folds.
-
-## Spore Print Colors
-
-Spore prints come in all the colors of the rainbow. Within most genera, the color is consistent or varies only slightly:
-
-| Color | Example Species |
-|---|---|
-| White | Shiitake, oyster, meadow mushroom |
-| Cream/Off-white | Almond portobello, some *Agaricus* |
-| Pink | Pink bottom (*Volvariella*), some *Pluteus* |
-| Brown/Chocolate brown | *[[agaricus-bisporus-cultivation-biology]]* (button/portobello), *Panaeolus* |
+Spore printing is the art and science of capturing mushroom spores for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *Mycelium Running* by [[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[agaricus-bisporus-cultivation-biology]]* (button/portobello), *Panaeolus* |
 | Rust-brown | *Gymnopilus*, *Cortinarius* |
 | Cinnamon-brown | *Galerina*, *Pholiota*, *Inocybe* |
 | Purple-brown | *Psilocybe*, *Deconica*, *Hypholoma* |
@@ -122,27 +105,4 @@ Mushrooms orient into the wind (aerotropism), creating a pressure drop under the
 2. Spread over 10 pounds of moist, untreated straw
 3. Place in a perforated bag, burlap sack, or wooden crate
 4. Store at 35-50°F; mushrooms begin fruiting in 2-3 months (e.g., March from January inoculation)
-5. Works with aggressive species like *Pleurotus* ([[oyster-mushrooms]])
-
-### On Burlap
-1. Soak burlap sacks in water for an hour
-2. Place 4-6 inch maturing mushrooms on burlap (1 per sq ft)
-3. Cover with newspaper/cardboard to prevent contamination and wind
-4. Allow spores to drop overnight
-5. Roll and tie burlap, stuff into cardboard mailing tubes
-6. Soak with water, store in a shady location for 2-4 months
-7. Once 25% colonized with mycelium, unroll and stuff with wood chips
-8. Stack outside, cover with shade cloth; mushrooms appear with conducive weather
-
-## Spore Storage
-
-- Store dried prints in plastic resealable bags at room temperature
-- Use desiccant during storage to prevent premature germination
-- Spores of most temperate species can be frozen for many years after drying
-- Spores of most tropical species die when frozen
-- Spore prints sealed on glass can be stored for years at room temperature
-- Label everything: date, species, location, collector, notes
-
-## See Also
-
-- [[spore-print-collection-spore-mass-inoculation]]
+5. Works with aggressive species like *Pleurotus* ([[spore-print-collection-spore-mass-inoculation]]

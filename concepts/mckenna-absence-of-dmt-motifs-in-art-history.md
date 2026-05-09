@@ -121,7 +121,5 @@ and distorted window into the full range of human visionary experience.
 ## See Also
 
 - [[dmt-black-hole-effect-and-shamanic-practice]]
-- [[extraterrestrial-contact-and-dmt-experience]]
 - [[mckenna-critique-of-seti-and-cultural-blindness]]
-- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]

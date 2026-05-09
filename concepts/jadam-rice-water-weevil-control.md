@@ -18,8 +18,6 @@ Rice water weevils (Lissorhoptrus oryzophilus) inhabit the dikes and water surfa
 
 ## Surface Spreading Agent Recipe (Concentrated)
 
-- [[jadam-wetting-agent-jwa]] 3 L (0.8 gal)
-- Water 5 L (1.3 gal)
 - [[jadam-sulfur-js]] 0.5 L (0.132 gal)
 - Canola oil 3 L (0.8 gal)
 
@@ -39,7 +37,7 @@ Rice water weevils (Lissorhoptrus oryzophilus) inhabit the dikes and water surfa
 ### Pre-Transplant Treatment of Dikes
 Before transplanting rice, apply to the paddy dikes:
 
-- Water + [[jadam-wetting-agent-jwa]] 5 L (1.3 gal) + [[jadam-sulfur-js]] 2 L (0.52 gal) = 500 L (132 gal)
+- Water + [[jadam-sulfur-js]] 2 L (0.52 gal) = 500 L (132 gal)
 - Apply once or twice on the dikes in early morning
 
 ### Surface Spreading After Transplant
@@ -69,18 +67,29 @@ The JWA + canola oil combination spreads rapidly across the water surface, formi
 
 ## See Also
 
-- [[jadam-rice-bakanae-treatment]] - Recipe #1 for rice seed treatment
 - [[jadam-rice-pesticide-program]] - Recipe #3 for comprehensive rice pest control
-- [[jadam-wetting-agent-jwa]] - How to make JADAM wetting agent
 - [[jadam-sulfur-js]] - How to make JADAM sulfur
-- [[jadam-concentration-guidelines]] - Safety and dosage guidelines
-
 - [[jadam-cover-crop-wild-grass-symbiosis]]
-
-- [[jadam-monoculture-disorder-crop-residues]]
 
 - [[jadam-natural-pesticide-programs]]
 
-- [[jadam-soil-diagnosis-methods]]
-
 - [[jadam-water-quality-softening]]
+## Practical Considerations
+
+Successful implementation of Rice Water Weevil Surface Spreading Agent (JADAM Recipe #2) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

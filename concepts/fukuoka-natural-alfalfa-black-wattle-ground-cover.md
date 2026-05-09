@@ -14,8 +14,7 @@ type: concept
 Nothing surpasses ladino clover in dealing with weeds, but in warm regions
 where it tends to lose its vigor in the summer, and in cold, dry areas, mixed
 seeding with alfalfa is desirable. This works especially well on earthen
-levees, for example. This approach to [[cover-cropping-guide|cover cropping]]
-is central to the [[fukuoka-four-principles-natural-farming|four principles of natural farming]].
+levees, for example. This approach to [[fukuoka-four-principles-natural-farming|four principles of natural farming]].
 
 ## Alfalfa for Deep Soil Improvement
 
@@ -24,19 +23,7 @@ more. This makes it ideal for improving the deeper soil strata. A hardy
 perennial, it is of great practical value, being resistant to droughty and
 cold conditions as well as to high temperatures. When mixed with clover,
 alfalfa helps to eliminate other herbs and grasses. The deep roots of
-legumes like alfalfa also support [[mycorrhizal-networks|mycorrhizal fungal networks]] that connect plants across the orchard. Wider use of this
-valuable legume should be made in Japan for soil improvement and as a feed
-and forage crop. Other legumes such as lupine, a summer crop, may also be
-used with good results.
-
-Bur clover, useful in controlling spring weeds, withers in the summer but
-grows back again in the fall and suppresses winter weeds as well. A useful
-orchard cover crop, it is also valuable in the rotation as a crop preceding
-summer vegetables.
-
-## The Black Wattle: A Multi-Purpose Fertilizer Tree
-
-Although the black wattle, a type of [[acacia]], serves as a fertilizer tree, it
+legumes like alfalfa also support [[acacia]], serves as a fertilizer tree, it
 plays a role also in association with ground cover cultivation. Up to about
 ten of these trees should be planted per quarter-acre among the fruit trees. A
 member of the pea family, this tree is effective in several ways:
@@ -83,12 +70,7 @@ later fell all the fruit trees and acacias at once, then replant the entire
 orchard with three- to four-year saplings. Not only would this be a far
 better method of replenishing the soil than running a bulldozer through the
 orchard and replanting, it would also rejuvenate the land. This approach
-complements the broader [[fukuoka-natural-orchard-development|orchard development]] strategy.
-
-The black wattle grows constantly throughout the year, always sending out new
-shoots. These attract aphids and scales, which support a growing population
-of ladybugs. One important role of the black wattle then is to serve as a
-protective tree for [[beneficial-insects-pollinators|beneficial insects]].
+complements the broader [[beneficial-insects-pollinators|beneficial insects]].
 Planting five or so of these trees per quarter-acre keeps scales and mites
 down to a minimum.
 
@@ -114,7 +96,7 @@ succession of different herbs takes place over the years as the soil becomes
 richer. By sowing vegetable seeds of the same family as the weeds growing in
 the orchard, vegetable plants can eventually be made to replace the weeds.
 
-This integrated approach to [[fukuoka-natural-farming-philosophy]] demonstrates how [[fukuoka-natural-soil-fertility]] can be built through the strategic use of [[fukuoka-ladino-clover-ground-cover-management]], [[fukuoka-black-wattle-fertilizer-tree-method]], and other plants that work together to improve the
+This integrated approach to [[fukuoka-natural-soil-fertility]] can be built through the strategic use of [[fukuoka-black-wattle-fertilizer-tree-method]], and other plants that work together to improve the
 soil from surface to subsoil.
 
 ## Perennial Weeds as Natural Cover
@@ -135,3 +117,7 @@ The key insight was that soil improvement was not a matter of choosing the
 right cover crop but of allowing nature to select the plants best adapted
 to the site. The farmer's role was limited to occasional mowing and
 observation, not to the imposition of a particular botanical scheme.
+
+## See Also
+
+- [[fukuoka-natural-orchard-ground-cover]]

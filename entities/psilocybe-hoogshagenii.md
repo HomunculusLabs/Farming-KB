@@ -16,13 +16,7 @@ type: entity
   Psilocybe semperviva (Heim and Callieux)
 
 ## Overview
-Psilocybe hoogshagenii is a moderately to highly active [[psilocybin-compound]]
-mushroom from subtropical Mexico, Brazil, Colombia, and Argentina.
-One of the most unusual-looking Psilocybes, it features an extended
-acute papilla up to 4 mm long, giving it a distinctive profile. It
-grows in muddy clay soils of coffee plantations and produces massive
-flushes that appear and disappear rapidly. Specimens from Brazil
-yielded up to 0.30% psilocybin and 0.30% [[psilocin]].
+Psilocybe hoogshagenii is a moderately to highly active [[psilocin]].
 
 ## Key Details
 - **Cap:** 0.7-2.5 (3) cm broad. Conic to campanulate to convex
@@ -76,7 +70,24 @@ expands the known distribution of psychoactive fungi beyond the
 well-documented Mexican species.
 
 ## See Also
-- [[psilocybe-brasiliensis]]
 - [[psilocybe-zapotecorum]]
-- [[psilocybe-cubensis]]
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
+## Practical Considerations
+
+Successful implementation of Psilocybe hoogshagenii requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

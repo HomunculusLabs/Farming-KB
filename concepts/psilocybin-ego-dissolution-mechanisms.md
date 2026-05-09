@@ -80,8 +80,6 @@ This is why the psychedelic experience, while potentially transformative, is not
 
 ## See Also
 
-- [[default-mode-network-and-ego-dissolution]]
 - [[consciousness-and-psychedelics]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-mystical-experiences-personality-change]]
 - [[information-paradigm-of-consciousness]]

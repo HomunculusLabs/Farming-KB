@@ -128,11 +128,5 @@ to slow down and think carefully before we act. Once we decide to act, we should
 not be easily diverted or rushed.
 
 See also: [[holmgren-trees-solar-power-plants-detailed]],
-[[holmgren-trees-solar-power-plants-detailed]],
-[[holmgren-renewability-versus-durability-building]]
-
-## See Also
-
-- [[permaculture-forest-pasture-polyculture]]
-- [[permaculture-tree-crop-systems]]
+[[permaculture-forest-pasture-polyculture]]
 - [[mollison-tree-crop-systems-permaculture]]

@@ -113,8 +113,6 @@ composition throughout the decomposition process.
 
 ## See Also
 
-- [[fungal-succession-patterns]]
 - [[fungal-succession-seral-vegetation]]
-- [[dighton-fungal-succession-disturbance]]
 - [[fungal-leaf-litter-succession]]
 - [[fungal-community-ecology]]

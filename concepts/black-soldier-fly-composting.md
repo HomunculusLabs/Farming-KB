@@ -1,11 +1,10 @@
 ---
-title: Black Soldier Fly composting
+title: Black Soldier Fly Composting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, insects, animal-husbandry, byproducts, homesteading, sustainability, nutrient-cycling]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Black Soldier Fly Composting
@@ -96,5 +95,4 @@ The leachate can be applied to gardens as a liquid fertilizer (dilute 1:10 with 
 
 ## See Also
 
-- [[comparison-black-soldier-fly-vs-vermicomposting]]
-- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
+- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]

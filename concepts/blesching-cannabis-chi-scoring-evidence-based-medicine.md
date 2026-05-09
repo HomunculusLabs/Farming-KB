@@ -1,6 +1,6 @@
 ---
-title: [[cannabis-health-index]] Scoring Methodology
-source: [[uwe-blesching]] - The [[cannabis-health-thc-tetrahydrocannabinol]] th-index-evidence-based-framework-scoring-system]] (2015)
+title: Blesching Cannabis Chi Scoring Evidence Based Medicine
+source: [[cannabis-health-thc-tetrahydrocannabinol]] th-index-evidence-based-framework-scoring-system]] (2015)
 source_id: uwe-blesching-the-cannabis-health-index
 tags: [cannabis, evidence-based-medicine, clinical-research, chi-scoring, methodology, therapeutic-evaluation]
 created: 2026-05-08
@@ -8,9 +8,9 @@ created: 2026-05-08
 
 # Cannabis Health Index (CHI) Scoring Methodology
 
-The Cannabis Health Index (CHI) is a systematic scoring methodology developed by [[uwe-blesching]] to evaluate the clinical evidence supporting cannabis as a therapeutic intervention for specific health conditions. Unlike simple literature reviews, the CHI provides a quantitative framework that accounts for study design quality, sample size, and consistency of findings across multiple research streams. The system was designed to help patients and practitioners make evidence-informed decisions about cannabis therapeutics.
+The Cannabis Health Index (CHI) is a systematic scoring methodology developed by  to evaluate the clinical evidence supporting cannabis as a therapeutic intervention for specific health conditions. Unlike simple literature reviews, the CHI provides a quantitative framework that accounts for study design quality, sample size, and consistency of findings across multiple research streams. The system was designed to help patients and practitioners make evidence-informed decisions about cannabis therapeutics.
 
-## Purpose [[mollison-designers-wind-effects-and-design]] ison-permaculture-design-philosophy]]
+## Purpose  ison-permaculture-design-philosophy
 
 The CHI was created to address a fundamental challenge in cannabis medicine: the wide variation in study quality and the difficulty of comparing results across different research methodologies. Preclinical studies (in vitro and animal models), case studies, surveys, and clinical trials each contribute different levels of evidence. The CHI scoring system synthesizes these diverse evidence streams into a single comparative metric, allowing users to quickly assess the strength of evidence for cannabis treating a particular condition.
 
@@ -119,6 +119,7 @@ As cannabis research expands globally, the CHI framework may need evolution. Pot
 
 ## See Also
 
-- [[blesching-cannabis-modes-administration-pharmacokinetics]]
-- [[blesching-cannabis-therapeutic-window-dosing]]
-- Evidence-Based Medicine Overview
+- [[cannabis-evidence-based-medicine-chi-methodology]]
+- cannabis-health-index-evidence-based-framework-scoring-system
+- [[hofmann-lsd-clinical-research-early-studies]]
+- [[blesching-cannabis-health-index-dosage-guidelines-medical]]

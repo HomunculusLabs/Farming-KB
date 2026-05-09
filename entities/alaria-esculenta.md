@@ -109,12 +109,8 @@ Its annual growth and shedding cycle delivers substantial detritus to benthic co
 
 ## See Also
 
-- [[laminaria-digitata]]
 - [[saccharina-latissima]]
-- [[fucus-vesiculosus]]
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[chondrus-crispus]]
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
 - [[kappaphycus-alvarezii]]

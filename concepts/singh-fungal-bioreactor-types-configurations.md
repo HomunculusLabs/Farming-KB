@@ -137,8 +137,6 @@ cultivations.
 
 ## See Also
 
-- [[singh-fungal-biosorption-reactors-heavy-metals]]
 - [[singh-pah-biodegradation-fungi-soils-bioreactors]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[singh-fungal-bioaugmentation-contaminated-soils]]
 - [[singh-fungal-composting-bioremediation-contaminated-soils]]

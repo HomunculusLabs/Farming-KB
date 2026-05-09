@@ -39,8 +39,7 @@ carotenoids, and omega-3 fatty acids.
 ## Cannabis and Age-Related Macular Degeneration
 
 Researchers widely agree that cannabinoid receptors are present in nerve cells.
-The [[blesching-endocannabinoid-system-overview]] plays an important role as a
-potential therapeutic agent in [[blesching-cannabis-neuroprotection]]. However,
+The [[blesching-cannabis-neuroprotection]]. However,
 until 2009, it remained uncertain whether receptors existed in human retinal
 pigment epithelial cells and, more importantly, what role they might play in
 age-related macular degeneration.
@@ -59,76 +58,7 @@ warrants further investigation.
 
 Retinal pigment epithelial cells contain CB1 and CB2 receptors. Both sativas
 and indicas, as well as their varied hybrids, contain cannabinoids that will
-activate CB1 and CB2. See [[blesching-cannabis-dosing-strategies]] for guidance
-on strain selection.
-
-## Mind-Body Medicine and AMD
-
-The center of the field of vision is where AMD strikes. The center of one's
-life, relationships, or identity may likewise become unclear. Patients
-sometimes express difficulty "facing" others or situations on an emotional
-level. The peripheral remains visible while the center, where focus and clarity
-reside, fades.
-
-Powerful questions to consider:
-
-- What is at the center of my life that I do not want to see?
-- Why do I want to focus only on the periphery of my world?
-- Why do I not want to see your face?
-- What is going to happen if I see clearly?
-- What don't I want to see?
-- Might I have difficulty facing you on an emotional level?
-
-Suggested affirmation: "I can create a life that is wondrous to see no matter
-what perspective I choose."
-
-## Dietary and Nutritional Support
-
-Oxidative stress reduction is considered a key therapeutic target for AMD.
-Antioxidant-rich spices and foods recommended include:
-
-- Acacia (gum Arabic) -- protects from oxidative stress via superoxide
-  scavengers (potent antioxidants)
-- Cacao -- antioxidant properties confirmed by University Hospital doctors in
-  Zurich, including photo protection, improved blood circulation, increased
-  skin density and hydration, and decreased skin roughness
-- Cinnamon -- fruit powder water extract contains potent antioxidant properties
-- Clove -- essential oil contains potent antioxidant compounds
-- Cumin -- aqueous extract compared favorably with ascorbic acid (vitamin C) in
-  antioxidant activity
-- Fennel -- multiple protective properties
-- Ginger -- protects the body by scavenging free radicals (strong antioxidants)
-- Oregano -- high phenolic content with significant antioxidant properties
-- Turmeric (curcumin) -- protective role in numerous diseases via prevention
-  or modulation of inflammation and oxidative stress
-
-## Antioxidant Mechanisms in AMD
-
-The retina is particularly vulnerable to oxidative stress due to its high
-metabolic rate, high oxygen consumption, and exposure to light. The
-photoreceptor cells in the retina contain high concentrations of
-polyunsaturated fatty acids, which are especially susceptible to oxidative
-damage. This vulnerability is central to the development of AMD.
-
-The endocannabinoid system's role in protecting retinal pigment epithelial
-cells from oxidative damage aligns with broader findings about
-[[blesching-cannabis-inflammation]] and [[blesching-cannabis-immune-system-modulation]].
-Cannabinoids have demonstrated antioxidant properties in multiple tissue
-types, and the retinal findings extend this protective capacity to ocular
-tissue.
-
-## Complementary Approaches
-
-Patients with AMD may benefit from a multi-faceted approach that includes:
-
-- Dietary modifications emphasizing antioxidant-rich foods and spices
-- Protection from UV light exposure
-- Cardiovascular health maintenance to support retinal blood flow
-- Smoking cessation, as smoking is a known risk factor
-- Regular eye examinations for early detection and monitoring
-- Blood pressure management to reduce vascular stress on the retina
-
-The [[blesching-cannabis-heart-disease]] and
+activate CB1 and CB2. See [[blesching-cannabis-inflammation]] and [[blesching-cannabis-heart-disease]] and
 [[blesching-cannabis-hypertension]] connections are relevant because
 cardiovascular health directly impacts retinal blood supply and function.
 

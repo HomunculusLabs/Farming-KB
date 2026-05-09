@@ -138,13 +138,9 @@ earning him the title "Father of Insect Pathology." Vuillemin erected the
 genus in 1912. Modern contributors include Rehner & Humber (2011 taxonomic
 revision), Fernando Vega (endophyte research), Bruce Elliott (commercial GHA
 strain development), and Paul Stamets (mycopesticide advocacy).
-
 ## See Also
 
-- [[beauveria-bassiana]]
 - [[fungal-biopesticides]]
-- [[mycopesticides]]
 - [[mycopesticides-entomopathogenic-fungi]]
-- [[ingham-beauveria-parasitic-fungi]]
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[cordyceps-and-entomopathogenic-fungi]]

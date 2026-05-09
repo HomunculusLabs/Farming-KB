@@ -5,20 +5,7 @@ updated: 2026-04-24
 sources:
   - raw/papers/julius-auboineau-palmer-about-mushrooms.md
 type: concept
-tags: [mushroom-cultivation, mushrooms, safety]
----
-
-# Foraging Basics and Safety
-
-## Core Principle: Know Every Species Individually
-
-Julius A. Palmer's "About Mushrooms" (1894) establishes that there is **no single infallible test** for distinguishing edible from poisonous fungi. The only safe approach is to learn the specific characteristics of each species, exactly as one learns to distinguish pears from quinces or a hyacinth bulb from an onion.
-
-He writes: "No test of any kind, in form, shape, color, basis of growth, or experimental action, will distinguish healthful from harmful fungi." The student must "sweep the brain clear of various charms and traditional lore" before beginning the study.
-
-## The Fundamental Misconception
-
-The words "mushroom" and "toadstool" are synonymous -- every mushroom is a toadstool, and every toadstool is a mushroom. The popular distinction arose because only one variety (the meadow/pasture mushroom, [[agaricus-campestris]]) can be cultivated and has commercial value. That one became "a mushroom"; the other thousand species became "toadstools."
+tags: [[agaricus-campestris]]) can be cultivated and has commercial value. That one became "a mushroom"; the other thousand species became "toadstools."
 
 Palmer compares this to a farmer who has only ever seen russet apples, calling them "apples" and classifying all other varieties as "crabs" unfit for food. The person who claims they can "tell a mushroom from a toadstool" is really saying they can identify one single species -- the rest remain a mystery.
 
@@ -118,7 +105,5 @@ The key insight is that foraging skill develops through patient, incremental lea
 
 ## See Also
 
-- [[palmer-about-mushrooms-habitat-and-seasonal-guide]]
 - [[palmer-about-mushrooms-edible-species-identification]]
-- [[palmer-about-mushrooms-poisonous-species-to-avoid]]
 - [[palmer-about-mushrooms-cooking-and-preservation]]

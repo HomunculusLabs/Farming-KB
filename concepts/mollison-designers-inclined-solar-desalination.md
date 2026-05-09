@@ -1,25 +1,7 @@
 ---
 title: Inclined Solar Desalination
 created: 2026-04-28
-tags: [permaculture, water, solar-energy, desalination, passive-systems]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Inclined Solar Desalination
-
-Inclined solar desalination systems use passive solar energy to evaporate and
-condense freshwater from saline or brackish water sources. Bill Mollison
-presents these systems as essential tools for arid and coastal permaculture
-sites where freshwater is scarce but solar energy and saltwater are abundant.
-The principle is simple: solar radiation heats saline water in a covered basin
-or inclined surface, causing evaporation; the vapor condenses on a cooler
-surface and is collected as pure distilled water. These systems require no
-external energy input and can be built from low-cost, locally available
-materials, making them ideal for [[mollison-designers-roof-water-catchment]]
+tags: [[mollison-designers-roof-water-catchment]]
 supplementation and off-grid settlement design.
 
 ## Principles of Solar Desalination
@@ -38,7 +20,7 @@ with high insolation and low cloud cover. Even modest stills can produce
 2 to 5 liters of fresh water per square meter per day in favorable
 conditions. The output varies seasonally and must be matched to demand
 through careful sizing during the design phase, particularly when integrated
-with [[mollison-designers-keyline-land-shaping]] for broader [[water-management]]
+with [[water-management]]
 on arid properties.
 
 ## Types of Inclined Solar Stills
@@ -82,31 +64,7 @@ actual output depends heavily on local solar conditions. For a family of four
 in a high-insolation coastal environment, 4 to 6 square meters of basin still
 area or 3 to 4 square meters of inclined wick still area should provide
 adequate drinking water. Additional area is needed if the water supplies
-irrigation for [[mollison-designers-house-garden-integration]] or livestock.
-
-### Materials Selection
-
-The basin or wick surface should be dark-colored to maximize solar
-absorption. Glass covers are more durable and have higher transmissivity
-than plastic films, though they are heavier and more fragile. Insulation
-beneath the basin is critical; materials such as polystyrene, sawdust,
-or dry sand reduce conductive heat losses. Seals must be watertight to
-prevent vapor escape and saline water contamination of the distilled output.
-
-### Orientation and Angle
-
-The inclined surface should face the equator (north in the southern
-hemisphere, south in the northern hemisphere). The optimal tilt angle is
-approximately equal to the latitude of the site, though seasonal adjustment
-can improve annual yield. In tropical latitudes near 15 degrees, a tilt of
-15 to 20 degrees is typical. At higher latitudes, steeper angles are needed
-to maximize winter solar gain.
-
-## Integration with Permaculture Systems
-
-Solar desalination units are best placed in Zone 2 or 3 of the permaculture
-layout, close enough for regular monitoring but with access to saline water
-sources. They can be integrated with [[mollison-designers-sewage-aquaculture-systems]] where brackish estuarine water serves as both the aquaculture medium
+irrigation for [[mollison-designers-sewage-aquaculture-systems]] where brackish estuarine water serves as both the aquaculture medium
 and the desalination feedstock. The waste heat from stills can warm adjacent
 seedling propagation areas or animal shelters.
 

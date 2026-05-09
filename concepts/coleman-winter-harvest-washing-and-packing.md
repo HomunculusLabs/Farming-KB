@@ -14,21 +14,11 @@ sources:
 type: concept
 ---
 
-# [[coleman-winter-harvest-philosophy]] Washing and Packing Operations
-
-Since the [[coleman-four-season-farm]] Farm sells fresh, raw foods, meticulous
+# [[coleman-four-season-farm]] Farm sells fresh, raw foods, meticulous
 cleanliness is a fundamental priority throughout the washing and
 packing process. The farm has developed specific techniques and
 equipment for efficiently handling baby-leaf salad mixes while
-maintaining the highest [[compost-quality-standards]].
-
-## Cleanliness Standards
-
-The washing and packing area is scrubbed down carefully with hot water
-after each harvest. All water comes from a drilled well that is tested
-annually. Hand washing is mandatory at all stages of the process.
-Workers wear hats or hairnets while washing and packing. These
-protocols reflect the farm's commitment to [[ingham-food-safety-compost-tea]] as a direct
+maintaining the highest [[ingham-food-safety-compost-tea]] as a direct
 marketer of fresh, raw vegetables.
 
 ## Separate-Ingredient Washing
@@ -129,10 +119,7 @@ daily life as the harvest schedule. The most important skill for a
 four-season grower is keeping careful notes on seed-to-harvest days
 and preparing a day-by-day planting calendar.
 
-See also [[coleman-post-harvest-handling-and-storage]],
-[[coleman-winter-harvesting-techniques]], and
-[[coleman-marketing-economics]].
-
-## See Also
+See also [[coleman-winter-harvesting-techniques]], and
+[[coleman-claytonia-winter-harvest-cultivation]]
 
 - [[unheated-greenhouse-winter-harvest]]

@@ -101,20 +101,12 @@ Seasonal fruiting patterns suggest *L. decastes* responds to autumn rainfall and
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[lentinula-edodes]]
-- [[pleurotus-ostreatus]]
 - [[tricholoma-terreum]]
-- [[calocybe-gambosa]]
 - [[kuehneromyces-mutabilis-entity]]
-- [[morchella-esculenta]]
 - [[agaricus-subrufescens]]
-- [[boletus-edulis-entity]]
 - [[cantharellus-cibarius-entity]]
-- [[clitocybe-nuda]]
-- [[trametes-versicolor]]
-- [[amanita-muscaria]]
+- [[trametes-versicolor-entity]]
 - [[russula-cyanoxantha]]
-- [[lactarius-deliciosus]]
 - [[suillus-luteus]]
 - [[amanita-pantherina]]

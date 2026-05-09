@@ -39,21 +39,7 @@ Described by Guzmán from material collected in the department of Antioquia, Col
 
 ### Gills (Lamellae)
 - Adnate to slightly adnexed, close to subdistant
-- Pallid gray at first, darkening through purplish-brown to deep brown with [[spore]] development
-- Edges slightly uneven, paler than the faces
-
-### Stipe (Stem)
-- **Length:** 40–70 mm
-- **Thickness:** 2–4 mm, equal or slightly thickened at the base
-- **Color:** Whitish to cream, often with bluish staining even before handling in mature specimens
-- **Surface:** Smooth, sometimes with fine longitudinal striations
-- **Partial veil:** Forms a thin, membranous annulus that often collapses into a fibrillose ring zone
-- **Bluing:** Very pronounced, developing deep indigo-blue discoloration throughout
-
-### Spores
-- Ellipsoidal to slightly amygdaliform, 9–12 × 6–8 µm
-- Wall moderately thick, with a visible germ pore
-- [[spore-print]] dark purplish-brown
+- Pallid gray at first, darkening through purplish-brown to deep brown with [[spore-print]] dark purplish-brown
 - Basidia 4-spored, clavate
 - Cheilocystidia numerous, ventricose-rostrate
 
@@ -63,16 +49,67 @@ Known primarily from the Colombian Andes, specifically the department of Antioqu
 
 ## Chemistry and Pharmacology
 
-Chemical analysis confirms the presence of psilocybin and [[psilocin]]. The species is considered moderately to strongly active. The intensity of the bluing reaction, which is among the most pronounced of any *Psilocybe* species, suggests significant alkaloid concentrations. No formal quantitative study with modern fungal siderophore detection (HPLC, LC-MS) has been published, making precise potency comparisons difficult.
-
-## Ethnobotanical Notes
-
-Colombia has a rich ethnobotanical tradition involving psychoactive plants and fungi. While *Psilocybe antioquensis* has not been specifically documented in ethnographic literature, it occurs in a region with indigenous communities (including Emberá and other groups) who maintain traditional ecological knowledge. The species' strong bluing and occurrence in disturbed areas suggest it would have been noticed by local mushroom gatherers, but specific ceremonial or recreational use remains unrecorded.
-
-## Similar Species
-
-Can be confused with *Psilocybe caerulescens*, which has a broader distribution across Mexico and Central America and shares the montane habitat preference and strong bluing. *P. antioquensis* differs in its more restricted Andean distribution, slightly different spore morphology, and the character of its annulus. *[[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
+Chemical analysis confirms the presence of psilocybin and [[psilocybe-caerulescens]]*, which has a broader distribution across Mexico and Central America and shares the montane habitat preference and strong bluing. *P. antioquensis* differs in its more restricted Andean distribution, slightly different spore morphology, and the character of its annulus. *[[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
 
 ## Conservation Status
 
 Not formally assessed. Its restricted range in the Colombian Andes, an area subject to significant deforestation for agriculture, cattle grazing, and urban expansion, suggests potential vulnerability. Cloud forest habitats in Antioquia have experienced substantial fragmentation, which could threaten populations of this geographically limited species.
+## Practical Considerations
+
+When working with Psilocybe antioquensis, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

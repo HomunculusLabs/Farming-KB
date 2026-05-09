@@ -88,11 +88,12 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[bob-entity-pihkal]]
 - [[bod-entity-pihkal]]
-- [[boh-entity-pihkal]]
 - [[bom-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[boh-entity-pihkal]] -- BOH (PIHKAL #15)
 - [[bom-entity-pihkal]] -- BOM (PIHKAL #17)
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

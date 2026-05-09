@@ -9,8 +9,7 @@ updated: 2026-04-26
 
 # Multi-Crop Planting and Intercropping Patterns
 
-Multi-crop companion planting "in space" is the practice of growing different
-crops together simultaneously in the same growing area. John Jeavons describes
+Multi-crop [[john-jeavons]] describes
 this as one of the most sophisticated forms of companion planting, combining
 heavy feeders, heavy givers, and light feeders in a single bed to create a
 self-sustaining nutritional cycle above and below ground.
@@ -95,7 +94,5 @@ complex multi-crop arrangements.
 
 ## See Also
 
-[[jeavons-companion-planting]]
 [[jeavons-crop-rotation-detail]]
-[[jeavons-biointensive-spacing]]
 [[jeavons-grow-biointensive-method-overview]]

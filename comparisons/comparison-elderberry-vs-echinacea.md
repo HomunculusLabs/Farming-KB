@@ -24,34 +24,6 @@ climate, and herbal medicine goals.
 
 ## Elderberry
 
-[[elderberry-growing-guide]]
-
-Elderberry is a fast-growing deciduous shrub or small tree native to
-Europe (S. nigra) and North America (S. canadensis). It typically reaches
-5-20 feet depending on species and can form dense hedgerows when planted
-4-6 feet apart. Elderberries prefer full sun to partial shade and rich,
-moist, well-drained loam with a pH of 5.5-6.5. They tolerate wet soils
-and periodic flooding, making them excellent choices for riparian zones
-and rain gardens.
-
-The primary medicinal product is elderberry syrup, made by simmering
-berries with water and aromatics, then sweetening with honey. Multiple
-clinical trials demonstrate that elderberry reduces influenza duration
-and severity by 2-4 days, most effective when taken within 48 hours of
-symptom onset. The berries are rich in anthocyanins, flavonoids, and
-vitamin C, providing strong antiviral and antioxidant activity.
-Elderflowers are also harvested for cordials, teas, and fritters.
-
-Elderberry has some unique considerations: raw berries contain cyanogenic
-glycosides (sambunigrin) and must be cooked before consumption. Stems,
-leaves, and bark are toxic. Plants require cross-pollination for best
-yields, so planting at least two varieties is recommended. Pruning is
-essential -- remove canes older than 3-4 years and maintain 6-8 healthy
-canes per plant. Berries are harvested in late summer when fully dark
-purple-black, and elderflowers in early to mid-summer.
-
-## Echinacea
-
 [[echinacea-growing-guide]]
 
 Echinacea, commonly known as purple coneflower, is an herbaceous
@@ -130,14 +102,6 @@ flu season through syrup, while echinacea serves as the acute-response
 remedy taken at the first tickle of a sore throat. Ecologically, they
 occupy different niches: elderberry as a background shrub in moist areas
 and echinacea as a foreground perennial in sunny, well-drained beds. Both
-attract pollinators and beneficial insects. In a [[permaculture-companion-planting]] design, echinacea can be interplanted around the drip line of
-elderberry shrubs, taking advantage of the partial shade while the
-elderberry provides structure and wind protection.
-
-## See Also
-
-- [[medicinal-herb-growing]]
-- [[comparison-comfrey-vs-yarrow]]
+attract pollinators and beneficial insects. In a [[medicinal-herb-growing]]
 - [[comparison-chamomile-vs-dandelion]]
-- [[valerian-growing-guide]]
 - [[herbal-medicine-history]]

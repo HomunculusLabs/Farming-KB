@@ -5,15 +5,7 @@ updated: 2026-04-23
 sources:
   - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
 type: concept
-tags: [mycology]
----
-
-# Victorian Mycology and Fairy Rings
-
-The Victorian era was the period when the modern science of victorian-mycology|mycology was established in
-Britain, and when the cultural associations between mushrooms, fairies, and enchantment were
-crystallised in popular imagination. The era's vogue for natural history produced both rigorous taxonomic
-advances and the romantic [[psychedelic-mushroom-art-and-iconography]] that still surrounds mushrooms
+tags: [[psychedelic-mushroom-art-and-iconography]] that still surrounds mushrooms
 in art and literature. Mushrooms seemed to Victorians imbued either with an intrinsic earthy, grotesque and
 gnomic humour, or with all the beauty, glamour, danger and charm of a faerie enchantment.
 
@@ -23,27 +15,7 @@ Until the mid-nineteenth century, the study of fungi was in disarray. The old fo
 distinguish "mushrooms" from "toadstools" was gradually replaced by positive identification of species --
 or, more commonly, by a blanket avoidance of wild mushrooms altogether. The Swedish mycologist Elias Magnus
 Fries was the first to separate species on the basis of spore colour, and the German Paul Kummer later revised
-Fries's work on gilled fungi. Between them, they extracted [[psilocybe-semilanceata]]
-(the Liberty Cap) from the heterogeneous Agaricus glutinosus, as part of a continual process of ever finer
-delineation by which the number of recognised species doubled between 1860 and 1890.
-
-## The Woolhope Club and Fungus Forays
-
-The victorian-mycology|Victorian vogue for natural history ensured rapid dissemination of new taxonomic
-ideas. This was the era of the amateur naturalist club, which began in the 1830s and peaked some thirty years
-later. The Herefordshire Woolhope Naturalists' Field Club, of which most pioneering British mycologists were
-members, began organising "fungus forays" in 1868. Members would stroll genteely through the autumn
-countryside, basket in one hand, mushrooming knife in the other, collecting and identifying whatever fungi
-they found along the way. For the benefit of interested locals, the day's trophies would be laid out in the
-nearest village hall and discussed over a well-earned cup of tea.
-
-By the turn of the century, as a result of the work of this and similar clubs, the modern understanding of
-mushrooms as distinct species began to filter through to the popular consciousness. These upright Victorian
-gentleman mycologists would have found the idea of eating magic mushrooms abhorrent.
-
-## Mordecai Cubitt Cooke: The Man Who Might Have Started a Craze
-
-[[mushroom-etymology-and-nomenclature]] deserves special mention for coming closest to triggering a
+Fries's work on gilled fungi. Between them, they extracted [[mushroom-etymology-and-nomenclature]] deserves special mention for coming closest to triggering a
 Victorian magic mushroom craze. Generally remembered as an early mycological writer, author of tomes such as
 Rust, Smut, Mildew and Mould (1865) and the more popular Plain and Easy Account of the British Fungi
 (1862), Cooke began his writing career with an exuberant and notorious treatise on drugs, The Seven Sisters
@@ -56,25 +28,14 @@ and "Amanita" (fly-agaric) took Siberia. Each racial group naturally utilised th
 was drawn -- an idea he almost certainly plagiarised from James Johnston's earlier best-seller The Chemistry
 of Common Life (1855).
 
-Cooke devoted space to the [[amanita-muscaria-ancient-wine-question]] and retold the story of Mr Glen's encounter with
-a bemushroomed man staggering through the streets of Knightsbridge in 1799 -- now known from the
-[[1799-liberty-cap-discovery]]. Cooke realised this must have been caused by a mushroom similar in its
+Cooke devoted space to the [[1799-liberty-cap-discovery]]. Cooke realised this must have been caused by a mushroom similar in its
 intoxicating properties to fly-agaric, writing that "if future generations do not deem it desirable to
 indulge in a narcotic of this kind for the purposes of producing pleasurable sensations, or to smother the
 carking cares of life, yet they may learn more than we do at present know of the peculiar characteristics
 which distinguish this [mushroom] from all the others." The implication was plain: future generations would
 indeed find local intoxicating mushrooms desirable.
 
-Yet Cooke almost certainly never consumed the [[liberty-cap-psilocybe-semilanceata-history-biology]] himself. His career was
-distinguished by diligence, probity, and sobriety. Born of humble origins, Cooke had to work hard all his
-life as a botanist and science writer, and his origins prevented him from entering the gentlemanly classes
-who were establishing the discipline of mycology. He always remained an outsider. By the time he published
-Poisonous Mushrooms in 1894, published by the Society for Promoting Christian Knowledge, he had overturned
-his earlier positions completely and warned people to avoid Liberty Caps.
-
-## Fairy Rings in Literature and Folklore
-
-Throughout Victorian and Edwardian literature, mushrooms and [[fairy-rings-folklore-and-science]]
+Yet Cooke almost certainly never consumed the [[fairy-rings-folklore-and-science]]
 appeared as shorthand for enchantment and the uncanny. Rudyard Kipling's Puck of Pook's Hill (1906) was
 accidentally summoned in a fairy ring. Shakespeare had earlier placed "demy-puppets... whose pastime is to
 make midnight mushrumps" into the magical universe of The Tempest, though in earlier centuries it was more
@@ -122,11 +83,8 @@ simply a product of the better record-keeping of the emerging institutions of me
 
 ## See Also
 
-- [[ethnomycology]]
-- [[fairy-rings-folklore-and-science]]
+- ethnomycology
 - [[1799-liberty-cap-discovery]]
-- [[fly-agaric-in-victorian-literature-and-art]]
 - [[psychedelic-mushroom-art-and-iconography]]
-- [[mushroom-etymology-and-nomenclature]]
 - [[mushroom-folklore-misinterpretations]]
 - [[mycophobia-in-western-culture]]

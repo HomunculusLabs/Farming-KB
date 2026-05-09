@@ -7,9 +7,7 @@ tags: [mushroom-spawn, brick-spawn, flake-spawn, french-spawn, english-spawn, sp
 
 # French Flake Spawn Versus English Brick Spawn
 
-## Two Traditions of [[spawn-production]]
-
-In the late nineteenth century, [[mushroom-spawn]] was produced and traded in two fundamentally different forms.
+## Two Traditions of [[mushroom-spawn]] was produced and traded in two fundamentally different forms.
 
 The English tradition manufactured spawn in the form of hard, dry, solid bricks of compressed manure.
 
@@ -144,6 +142,5 @@ Prominent yellowish threads or veins were a sign that the mycelium had started t
 Distinct white mold patches on the surface indicated the presence of some other fungal parasite.
 ## See Also
 
-- [[mushroom-spawn-making-pure-culture]] — The later revolution in pure culture spawn
 - [[mushroom-compost-preparation-historical]] — How beds were prepared for spawning
 - [[nineteenth-century-mushroom-cellars]] — Where spawned beds were cultivated

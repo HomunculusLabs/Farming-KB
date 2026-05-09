@@ -97,24 +97,14 @@ In ecological terms, chervil flowers provide nectar and pollen for a range of sm
 
 ## See Also
 
-- [[anethum-graveolens]]
 - [[petroselinum-crispum]]
-- [[coriandrum-sativum]]
-- [[foeniculum-vulgare]]
-- [[apium-graveolens]]
+- [[foeniculum-vulgare-entity]]
 - [[levisticum-officinale]]
-- [[myrrhis-odorata]]
 - [[quercetin]]
-- [[linalool]]
 - [[limonene]]
-- [[mentha-piperita]]
 - [[allium-schoenoprasum]]
-- [[eucalyptol]]
 - [[beta-caryophyllene]]
-- [[camphor]]
 - [[psoralen]]
-- [[flavonoids]]
-- [[ocimum-basilicum]]
-- [[thymus-vulgaris]]
-- [[salvia-officinalis]]
+- flavonoids
+- [[thymus-vulgaris-entity]]
 - [[daucus-carota]]

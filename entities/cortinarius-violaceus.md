@@ -138,9 +138,10 @@ Regular monitoring programs in countries such as Sweden, Finland, and the Nether
 
 ## See Also
 
-- [[viola-odorata]]
-
 - [[mushroom-cultivation-basics]]
 
-- [[lions-mane-hericium-erinaceus]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
+
+## See Also
+
+- [[mycorrhizal-edible-mushroom-species-overview]]

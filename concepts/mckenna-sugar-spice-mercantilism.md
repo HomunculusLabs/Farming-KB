@@ -132,10 +132,7 @@ Europe to the international drug cartels of the modern era.
 
 ## See Also
 
-- [[ethnomycology]]
-- [[mckenna-exploitation-cycles-drug-diplomacy]]
+- ethnomycology
 - [[mckenna-alcohol-alchemy-spirit]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-television-dominator-drug]]
-- [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-cannabis-dreaming-weavers]]

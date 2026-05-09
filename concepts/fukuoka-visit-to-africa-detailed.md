@@ -8,13 +8,7 @@ sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
-# [[fukuoka-natural-farming-philosophy-of-mu]] Visit to Africa and the Bushman
-
-In "The Road Back to Nature," Masanobu Fukuoka reflects extensively on his observations of the African landscape and the Bushmen during Japanese television coverage of southern Africa. His analysis is nuanced -- he rejects both the romanticization of primitive life and the assumption that Western civilization represents progress.
-
-## The Bushman's Environment
-
-Fukuoka first notes the Bushman's cheerful demeanor: "That dazzlingly bright, cheerful face says it all. Civilized society may mock and make fun of him, but all that is of no concern to him. This is the face of a [[fukuoka-natural-farming-philosophy-of-mu]] man able to immerse himself in his own joy."
+# [[fukuoka-natural-farming-philosophy-of-mu]] man able to immerse himself in his own joy."
 
 However, what troubles Fukuoka is not the Bushman himself but the environment: "He had to go quite a ways to find that root and also to fetch firewood. That means that nature is scarce there." His conclusion: "This is an unnatural existence. In other words, the balance of the Bushmen and the animals and plants with nature has been destroyed."
 
@@ -82,9 +76,6 @@ updated: 2026-04-18
 
 ## See Also
 
-- [[fukuoka-desert-greening-projects]]
 - [[fukuoka-desert-reclamation]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[fukuoka-farming-for-all-quarter-acre-vision]]
 - [[fukuoka-bushman-world-ecological-balance]]

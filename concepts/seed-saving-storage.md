@@ -122,7 +122,9 @@ pollinated varieties is generally acceptable.
 
 ## See Also
 
-- [[plant-propagation-techniques]]
 - [[crop-rotation-vegetable-garden]]
-- [[seasonal-vegetable-planting]]
 - [[organic-pest-disease-control]]
+
+## See Also
+
+- [[seed-saving-in-permaculture]]

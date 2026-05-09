@@ -138,12 +138,10 @@ The evidence for EM specifically is more contested. Some meta-analyses and syste
 
 ## See Also
 
-- [[bokashi-compost-method]]
 - [[comparison-foliar-feeding-vs-vermicompost-tea]]
 
 - fermented foods and beverages — broader context of lactic acid fermentation
 - fermented dairy and cultured milk products — lactobacillus ecology in food systems
-- [[composting-methods-comparison]] — aerobic composting as an alternative or complementary approach
 - [[no-till-cannabis]] — systems where fermented inputs shine
 - [[lowenfels-soil-structure-aggregates]] — how microbial inputs influence soil architecture
 - wild fermentation and spontaneous cultures — alternatives to branded inoculants

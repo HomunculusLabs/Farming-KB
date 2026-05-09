@@ -95,11 +95,7 @@ specialty chemicals. Premier model organism for Gram-positive cell biology.
 ## Agricultural Applications
 
 Widely used as biofertilizer and biopesticide. Strain QST 713 (Serenade® by
-Bayer) suppresses pathogens (*Botrytis*, [[biodiversity-powdery-mildews]]) via lipopeptide
-antibiotics (iturin, surfactin, fengycin), competitive exclusion, and ISR.
-Solubilizes insoluble phosphate and produces IAA for root growth stimulation.
-Biofertilizer formulations used globally for cereals, vegetables, fruits, and
-ornamentals, often combined with [[mycorrhizal-fungi]] for synergistic effects.
+Bayer) suppresses pathogens (*Botrytis*, [[mycorrhizal-fungi]] for synergistic effects.
 
 ## Medical and Pharmaceutical Significance
 
@@ -141,9 +137,8 @@ independent domestications of *B. subtilis* across diverse cultures.
 - ***B. subtilis* var. *natto*:** Natto strains producing γ-PGA, nattokinase,
   and vitamin K2.
 
-## Relationship to Other Bacillus Species
-
-Type species of *Bacillus*. Closest relatives: the *B. cereus* group (*B.
-cereus*, *B. thuringiensis*, *B. anthracis*), sharing high genomic similarity
-but differing in pathogenicity. *B. licheniformis* is used in industrial
 ## See Also
+
+## See Also
+- [[teaming-with-microbes-humus-formation-and-glomalin]]
+- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

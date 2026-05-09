@@ -33,77 +33,7 @@ through aqueous environments.
 
 As a Gram-negative organism, Pseudomonas putida does not retain the crystal violet stain
 in the Gram staining procedure, a characteristic that distinguishes it from Gram-positive
-bacteria like Bacillus species. The organism can be cultured on malt [[agar]] media.
-
-## Habitat and Ecology
-
-Pseudomonas putida is ubiquitous in soils and abounds in aqueous habitats. It is one of
-several bacteria that naturally populate the casing layer of mushroom beds. The bacterium
-proliferates in standing water or anywhere there is moisture, and is particularly
-associated with the "hyphosphere," the zone of soil immediately surrounding mushroom
-mycelium.
-
-Pseudomonas putida has the notable ability to grow on media whose sole carbon source is
-acetone or ethanol at concentrations of 2.5%. This metabolic capability is significant
-because mushroom mycelium releases acetone as a metabolic waste product, and upon casing,
-the diffusion of acetone from the spawned compost is drastically inhibited, causing
-acetone concentrations in the casing biosphere to increase.
-
-## Role in Mushroom Cultivation
-
-Pseudomonas putida is one of the most important beneficial bacteria in mushroom
-cultivation. It is stimulatory to primordia formation in certain strains of Agaricus
-brunnescens (bisporus), and its use is of potential commercial value. Many growers have
-reported that cultures flourish when Pseudomonas putida accidentally contaminates or is
-purposely introduced into a culture.
-
-The bacterium was first associated with mushroom fruiting when Dr. Takashi Urayama noted
-the stimulative influence of bacteria on the fruiting of Psilocybe coprophila in 1956.
-German mycologist Eger similarly isolated a bacterium stimulative to pinhead formation
-in 1959, known for years as "Eger's Bacterium" until Hayes (1969) identified the
-organism as Pseudomonas putida.
-
-Considerable attention has centered on the beneficial role of Pseudomonas putida and
-allies in the casing layer. The casing layer supports the growth of beneficial
-microflora, with Pseudomonas putida being a key organism in this microbial community.
-
-## Cultivation Parameters
-
-For commercial application, Pseudomonas putida is cultivated as follows:
-
-- **Growth Media:** 2.5% acetone-based liquid media for maximum stimulative effect
-- **Incubation:** 10 days at 25 degrees C in 30 to 40 ml of nutrient broth
-- **Cell Density Achieved:** 1,000,000 to 2,000,000 cells per milliliter
-- **Application Rate:** 10 milliliters of concentrated solution per square meter of
-  casing surface
-- **Dilution:** One milliliter of concentrate can be diluted in 100 milliliters of
-  sterilized water for ease of application
-
-Hayes and Nair (1974) showed that the addition of 5% spawned compost into the casing
-layer resulted in the largest increase in P. putida populations, the most pinheads, and
-the greatest overall yields. Peak bacterial activity occurred ten days after casing
-application.
-
-## Interactions
-
-Pseudomonas putida exists in a mutually enhancing relationship with mushroom mycelium.
-Stanek (1974) demonstrated that mycelium infected with bacteria grew more quickly through
-compost and would therefore give mushroom mycelium a decided advantage over other
-competing microorganisms. Both the growth of mycelia and bacteria were stimulated by
-extracts of one another, suggesting a relationship similar to that between nitrogen-fixing
-bacteria and the roots of many plants.
-
-Pseudomonas putida is not the only microorganism implicated in fruiting. Bacillus
-megaterium, Arthrobacter terregens, and Rhizobium meliloti have also stimulated
-fruitbody formation on sterilized soils. Scenedesmus quadricauda (a blue-green alga)
-was shown to enhance production by nearly 60% over controls.
-
-Other bacteria with stimulatory effects include Bacillus megaterium, Azotobacter
-vinelandii, and others that have been shown to enhance spore germination, mycelial
-growth, or fruitbody formation (Curto and Favelli, 1972; Hayes et al., 1969; Eger,
-1972; Urayama, 1961).
-
-Not all strains of Pseudomonas putida cause pinheads to form in [[agaricus-brunnescens]],
+bacteria like Bacillus species. The organism can be cultured on malt [[agaricus-brunnescens]],
 nor do all strains of mushrooms respond similarly. Some strains have no effect
 whatsoever, while others are most stimulative when grown on acetone-based media.
 
@@ -131,8 +61,25 @@ populations in the growing environment.
 
 ## See Also
 
-- [[pseudomonas]]
 - [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]
-- [[lentinus-edodes-entity-the-mushroom-cultivator]]
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
 - [[pleurotus-florida-entity-the-mushroom-cultivator]]
+## Practical Considerations
+
+Successful implementation of Pseudomonas putida requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

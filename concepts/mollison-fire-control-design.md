@@ -3,18 +3,7 @@ title: Mollison on Permaculture for Fire Control
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Permaculture for Fire Control
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet VII (Permaculture for Fire Control), 1981
-
-## Overview
-
-Mollison provides a comprehensive system for designing fire-resistant landscapes, emphasizing that fire periodicity is determined by fuel accumulation rate and site moisture content. The strategy progresses from valleys upward, creating non-fuel surfaces and fire shadows. This approach integrates fire safety into the broader [[permaculture-design-principles]] framework, making fire resilience an inherent property of the landscape rather than an afterthought.
+tags: [[permaculture-farm-design-principles]] framework, making fire resilience an inherent property of the landscape rather than an afterthought.
 
 ## Fire Periodicity
 
@@ -84,13 +73,7 @@ Mollison provides a comprehensive system for designing fire-resistant landscapes
 
 ## Zone-Based Fire Design Strategy
 
-Fire control design follows the [[permaculture-zones-system]] framework, with each zone receiving appropriate fire management treatment.
-
-- **Zone 0 (house and immediate surrounds):** Maximum fire protection. Non-fuel surfaces within 30 feet. Roof sprinklers, reflective paint, gutter screens, rolled-under eaves. Fire shelter located at the back of the house on the side away from the expected fire approach. Store wool blankets, water, and fire extinguishers.
-
-- **Zone 1 (intensive garden):** Green, irrigated, fire-resistant plantings. Well-watered gardens and lawns create a moist, low-fuel buffer around the house. Ponds, swales, and water features provide both fire break and water supply for firefighting.
-
-- **Zone 2 (orchard and food forest):** [[fire-resistant-plants]] with high moisture content. Regular pruning to remove dead wood and ladder fuels. Grazing animals (sheep, goats) to keep ground fuel below 1 inch height.
+Fire control design follows the [[fire-resistant-plants]] with high moisture content. Regular pruning to remove dead wood and ladder fuels. Grazing animals (sheep, goats) to keep ground fuel below 1 inch height.
 
 - **Zone 3 (farm forestry):** Select fire-resistant timber species. Maintain access roads as fire breaks. Create pond and wetland chains along contours using alexander shulgin principles.
 
@@ -124,26 +107,14 @@ Animals play an essential role in Mollison's fire control strategy, converting f
 
 ## Water System Design for Fire
 
-Water infrastructure designed for [[backyard-water-harvesting]] serves double duty as fire protection infrastructure.
-
-- **Strategic pond placement:** Ponds placed upslope of structures provide gravity-fed water for roof sprinklers and firefighting. The 100-foot non-fuel zone around the house should include at least one pond.
-
-- **Swale-connected tanks:** Swale systems that collect runoff can fill water tanks specifically reserved for fire suppression. These tanks should be gravity-fed to roof sprinkler systems.
-
-- **High-pressure backup:** A dedicated high-pressure pump (powered by biogas from [[mollison-sewage-biogas-systems]] or solar electric) can supplement gravity-fed systems during fire events.
+Water infrastructure designed for [[mollison-sewage-biogas-systems]] or solar electric) can supplement gravity-fed systems during fire events.
 
 - **Multiple water points:** Distribute water storage throughout the property so that hose runs remain short and manageable during a fire emergency.
 
 ## Related Pages
 
-- [[mollison-windbreak-design]]
-
 - [[mollison-pdc-slope-design-house-siting]]
 
-- [[mollison-pdc-swale-design-water-harvesting]]
-
 - [[fire-resistant-plants]]
-
-- [[mollison-zone-one-garden-design]]
 
 - [[permaculture-earthworks]]

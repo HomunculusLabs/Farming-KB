@@ -10,7 +10,7 @@ sources:
 
 # Amanita Muscaria in Ancient Greek and Roman Culture
 
-In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter traces the Greek and Roman divine substances Ambrosia, Nectar, and Dionysus back to a common Indo-European sacred plant sacrament, arguing they are linguistic and cultural reflexes of the same [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] tradition centered on [[amanita-muscaria-drying-and-preparation]].
+In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter traces the Greek and Roman divine substances Ambrosia, Nectar, and Dionysus back to a common Indo-European sacred plant sacrament, arguing they are linguistic and cultural reflexes of the same [[amanita-muscaria-drying-and-preparation]].
 
 ## Ambrosia and Nectar: "Not Mortal" and "Death-Overcomer"
 
@@ -34,18 +34,8 @@ Teeter contends that the original Eucharist wine of early Christianity was ident
 
 ## The Ancient World's Universal Sacred Wine
 
-Teeter argues that across the ancient Mediterranean, wine was always diluted with water before consumption (Greek practice: 2:1 to 3:1 water-to-wine; Roman: 2:1 to 4:1). For alcoholic wine, these dilution ratios would produce beverages of only 4-5% alcohol -- barely intoxicating. He proposes that the "wine" was actually Amanita muscaria extract, and that dilution paradoxically increased its psychoactive potency by breaking muscimol chain structures into individual dissolved units, producing a more purely psychedelic experience. See [[amanita-muscaria-ancient-wine-question]] for the full argument.
-
-## Sky Father: The Indo-European God
-
-Teeter notes that the ancient Indo-European Sky Father -- Latin Jupiter, Greek Zeus, Sanskrit Dyaus-pita, Proto-Indo-European Dyeus-pater, and the Germanic God Tues (as in Tuesday) -- is the same deity across all these cultures. The universal worship of the Sky Father across Indo-European peoples is one of many cultural traits that points to a common origin, along with the shared sacred plant tradition.
-
-## See Also
-
-- [[amanita-muscaria-ancient-wine-question]]
-- [[amanita-muscaria-ancient-wine-question]]
+Teeter argues that across the ancient Mediterranean, wine was always diluted with water before consumption (Greek practice: 2:1 to 3:1 water-to-wine; Roman: 2:1 to 4:1). For alcoholic wine, these dilution ratios would produce beverages of only 4-5% alcohol -- barely intoxicating. He proposes that the "wine" was actually Amanita muscaria extract, and that dilution paradoxically increased its psychoactive potency by breaking muscimol chain structures into individual dissolved units, producing a more purely psychedelic experience. See [[amanita-muscaria-ancient-wine-question]]
 - [[amanita-herb-indo-european-origins]]
-- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
 - [[amanita-herb-celtic-european-folklore]]
 
 ## The Eucharist and Mithraic Influence on Christianity

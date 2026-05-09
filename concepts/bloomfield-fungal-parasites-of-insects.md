@@ -13,58 +13,13 @@ tags: [fungi]
 Fungi are among the most devastating parasites of insects, capable of
 commandeering the behavior of their hosts, liquefying their internal organs,
 and erupting from their bodies in spectacular displays of lethal beauty. The
-fungi that kill insects are called [[cordyceps-and-entomopathogenic-fungi]], and they include some
-of the most complex and fascinating organisms in the fungal kingdom. As Nicholas
-Money writes, "it is not for nothing that fungi have been compared to the
-creatures of science fiction, that they have served as the inspiration for horror
-movies, and that they provoke our darkest imaginings about alien life."
-
-## Cordyceps and the Zombie Ants
-
-The genus Cordyceps contains some of the most extraordinary parasites on Earth.
-Cordyceps species infect insects by penetrating the exoskeleton, then grow
-within the host's body, consuming non-vital tissues until the insect is filled
-with fungal [[mycelium]]. At a critical moment, the fungus hijacks the insect's
+fungi that kill insects are called [[mycelium]]. At a critical moment, the fungus hijacks the insect's
 nervous system, compelling it to climb upward and clamp its mandibles onto a
 leaf, twig, or stem -- a behavior called the "death grip" or summit disease.
 The fungus then kills the host and erupts from its body as a stalk-like
 fruiting structure (ascocarp) that releases spores to infect new victims below.
 
-The Chinese medicinal fungus [[cordyceps-cultivation]] is the most famous member of
-the group. It has been used in Chinese medicine for hundreds of years and is
-sold as dong chong xia cao ("winter insect, summer grass"), evoking the
-apparent conversion of caterpillars into roots from which the ascocarps extend
-into the air. The fungus infects caterpillars of the Himalayan ghost moth
-(Thitarodes) at high altitudes in Tibet and the Himalayas. The fruiting bodies
-are collected from the wild at great effort and sold for extraordinary prices --
-over $10,000 per kilogram -- as remedies for fatigue, lung and kidney function,
-and male sexual potency. The fungus is now marketed via the Internet for body
-building, fatigue, and performance enhancement for marathon runners.
-
-### Recent Taxonomic Changes
-
-The taxonomy of Cordyceps has undergone significant revision. Many species
-formerly classified in Cordyceps have been moved to the genus Ophiocordyceps
-based on molecular phylogenetic analyses. Ophiocordyceps unilateralis is the
-species responsible for the famous zombie ant behavior in tropical forests.
-
-## Entomophthora and the Fly-Killing Zygomycetes
-
-The genus Entomophthora belongs to the Zygomycota (or Mucoromycota in modern
-classification) and includes fungi that are among the most effective killers of
-Diptera (flies). Money provides a vivid description of houseflies killed by
-Entomophthora muscae:
-
-When the fungus attacks, the fly becomes sluggish and seeks an elevated position
--- climbing upward on walls, windows, or plants. It extends its wings away from
-its body and dies in this spread-eagled posture. The fungus then produces
-conidiophores that erupt from between the segments of the fly's abdomen, forming
-a halo of spore-bearing structures around the dead insect. These conidiophores
-shoot sticky spores (conidia) into the air. Other flies that land nearby or
-breathe in the spores become infected, continuing the cycle.
-
-The behavioral manipulation is precise: infected flies always die in elevated
-positions that maximize [[spore-dispersal]], and the wing-spreading posture increases
+The Chinese medicinal fungus [[spore-dispersal]], and the wing-spreading posture increases
 the surface area from which spores can be launched. The fungus effectively
 turns the fly into a platform for its own reproduction.
 
@@ -77,9 +32,7 @@ on the dead host, but their sexual (teleomorph) stages were discovered
 separately and classified in entirely different genera. This created enormous
 confusion:
 
-- **[[beauveria-bassiana]]** (asexual stage) produces white powdery conidia on
-  dead insects. Its teleomorph was later identified as Cordyceps bassiana.
-  [[beauveria]] is now widely used as a biological control agent against
+- **[[beauveria]] is now widely used as a biological control agent against
   agricultural pests.
 
 - **[[metarhizium]] anisopliae** (asexual stage) is a green-spored fungus that

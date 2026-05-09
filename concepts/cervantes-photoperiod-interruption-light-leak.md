@@ -130,10 +130,7 @@ several weeks to allow buds to mature properly again.
 
 ## See Also
 
-- [[cervantes-flowering-phase]] - managing the flowering cycle
 - [[cervantes-lighting-systems]] - light setup and scheduling
-- [[cervantes-hermaphrodism-intersexuality]] - stress-induced sex
-  reversal
 - [[photoperiod-cannabis]] - photoperiod biology in cannabis
 - [[cervantes-light-spectrum-photomorphogenesis]] - light spectrum
   effects on development

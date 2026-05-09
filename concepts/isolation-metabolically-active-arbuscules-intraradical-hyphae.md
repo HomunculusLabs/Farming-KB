@@ -76,11 +76,7 @@ The isolation of metabolically active arbuscules enables:
 
 ## Related Topics
 
-- [[am-fungi-autofluorescence-colonization-assessment]] - Autofluorescence methods
 - [[mycorrhizal-phosphatase-activity-elf97-detection]] - ELF-97 phosphatase detection
-- [[mycorrhizal-nutrient-transport]] - P transport in mycorrhiza
 - [[arbuscular-mycorrhizal-colonization-patterns]]
-- [[orchid-mycorrhiza-protocorm-development]]
 - [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
-- [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

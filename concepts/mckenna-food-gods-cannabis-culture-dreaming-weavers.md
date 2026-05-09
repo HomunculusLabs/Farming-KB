@@ -85,39 +85,6 @@ McKenna observes that the English vocabulary referring to spoken discourse is of
 
 Lies are made from whole cloth, reality is an endless golden braid. He suggests this shared vocabulary may reflect an ancient connection between the intoxicating hemp plant and the intellectual processes behind the discovery of the art of weaving and of storytelling.
 
-Cannabis was the most likely plant candidate to replace the sacred psilocybin mushrooms of the older cultures of the Near East. The growing presence of cannabis in Vedic society and later in Islam may have acted to slow the rise of dominator values, giving encouragement to heterodox forces — Shivites in the case of Hinduism and Sufis in the case of Islam — who made no secret of their reliance on cannabis as a source of religious inspiration.
-
-Marco Polo gave one of the first and most widely read accounts of the use of hashish when he repeated the popular folktale of the "Old Man of the Mountain" and the infamous sect of assassins. The truth of this old story is widely disputed, but there can be no doubt that it was the circulation of the story in Europe that gave cannabis its blackened reputation and its fascination.
-
-## Fitz Hugh Ludlow and the Club des Hachischins
-
-The legal and intellectual ambience of drug taking in the early nineteenth century could hardly have been more different from that of modern times. Opium and hashish were not controlled substances. By the early 1840s a group of French writers — Theophile Gautier, Baudelaire, Gerard de Nerval, Dumas, and Balzac — had formed the famous "Club des Hachischins."
-
-The club held weekly meetings in damask-hung rooms of the Hotel Luzan in Paris, where world traveler and psychiatrist J.J. Moreau de Tours provided a form of jellied Algerian hashish called dawamesc. The meetings were private explorations by successful and respected literary figures.
-
-The Americans, rather than the English or French, created a literature around the charms and phantasmagoria of hashish. Fitz Hugh Ludlow, beginning as a freshman at Union College in 1855, decided to explore scientifically the powers of hashish while attending a student tea.
-
-His account, *The Hasheesh Eater* (1857), created a tradition of pharmo-picaresque literature that would find later practitioners in William Burroughs and Hunter S. Thompson. Ludlow argued that the mind has the right and capacity to turn inward to itself for an answer to the puzzling enigmas of the world.
-
-Bayard Taylor's account in Atlantic Monthly (1854) described hashish as producing an experience in which "the sense of limitation — of the confinement of our senses within the bounds of our own flesh and blood — instantly fell away." Such descriptions go far toward explaining why the "artificial paradise" was so alluring to the Romantic imagination.
-
-Taylor's approach was not hedonistic but knowledge seeking; for him, the drug states raised questions about human psychology. The Romantics, with their attention to the dramatic moods of nature and their cultivation of a sensitivity that their critics found "feminine," bear all the signs of an incipient partnership revival.
-
-## Anslinger and the Twentieth Century
-
-The history of cannabis in the United States after Ludlow was at first a happy one. Cannabis use was neither stigmatized nor popularized until the early 1930s, when the crusades of Harry J. Anslinger, U.S. Commissioner of Narcotics, created a public hysteria.
-
-Anslinger appears to have acted largely at the behest of American chemical and petrochemical companies interested in eliminating hemp as a competitor in the areas of lubricants, food, plastics, and fiber. William Randolph Hearst popularized the term "marijuana" with a clear intent of linking it to a mistrusted dark-skinned underclass.
-
-Despite all the pressures brought against it, cannabis use rose until McKenna could write that it may well be America's single largest agricultural product. This is one of the most persistent aspects of the great paradigm shift that he calls the Archaic Revival.
-
-McKenna concludes that everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the Archaic Revival. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values.
-
-No other drug can compete with cannabis for its ability to satisfy the innate yearnings for Archaic boundary dissolution and yet leave intact the structures of ordinary society. If every alcoholic were a pothead, if every crack user were a pothead, the social consequences of the "drug problem" would be transformed.
-
-## Related Concepts
-
-- [[mckenna-food-gods-partnership-dominator|Partnership and Dominator Societies]]
-- [[mckenna-food-gods-archaic-revival|The Archaic Revival]]
-- [[mckenna-food-gods-stoned-ape-hypothesis|The Stoned Ape Hypothesis]]
-- [[mckenna-food-gods-natural-synthetic-drugs|Natural and Synthetic Drugs]]
+Cannabis was the most likely plant candidate to replace the sacred [[mckenna-food-gods-partnership-dominator]]
+- [[mckenna-food-gods-stoned-ape-hypothesis]]
+- [[mckenna-food-gods-natural-synthetic-drugs]]

@@ -121,8 +121,6 @@ thirds and fifths -- "form-carrying prototypes" shaping blossom forms.
 
 ## See Also
 
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[plant-perception]]
-- [[bacterial-endophytes-plant-roots]]
 - [[plant-fungal-signaling-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]

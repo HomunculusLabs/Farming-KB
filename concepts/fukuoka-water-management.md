@@ -78,37 +78,19 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
-- [[fukuoka-orchard-management-detailed]]
 - [[fukuoka-disease-pest-management]]
-- [[fukuoka-natural-orchard-management]]
-
-## Merged: Rice Paddy Water Management
-
-# Rice Paddy Water Management
-
-updated: 2026-04-18
-
-Water management, consisting of irrigation and drainage, is the most important part of crop management in rice cultivation. In [[fukuoka-natural-rice-barley-cultivation]], Fukuoka's approach to water management differs radically from conventional flooded-paddy methods.
+- [[fukuoka-natural-rice-barley-cultivation]], Fukuoka's approach to water management differs radically from conventional flooded-paddy methods.
 
 ## Intermittent Irrigation Rather Than Continuous Flooding
 
-Fukuoka does not hold standing water in his rice paddies for extended periods. During the first half of the rice growing season, the rice does well under conditions similar to [[fukuoka-natural-rice-barley-cultivation]], essentially receiving only natural rainfall. Irrigation is not strictly necessary, but depending on how the plants are growing, water may be passed briefly over the field once every week to ten days.
-
-During the heading stage, intermittent irrigation continues, but Fukuoka makes it a point never to hold water for more than five days at a stretch. A soil moisture level of eighty percent is adequate. In the second half of the season, irrigation should be increased with plant growth. After heading, rice requires lots of water and without careful attention could become dehydrated.
-
-For yields of about one ton per [[fukuoka-farming-for-all-quarter-acre-vision]], standing water is not used, but careful water management remains essential.
+Fukuoka does not hold standing water in his rice paddies for extended periods. During the first half of the rice growing season, the rice does well under conditions similar to [[fukuoka-farming-for-all-quarter-acre-vision]], standing water is not used, but careful water management remains essential.
 
 ## The Seasonal Water Cycle
 
 The year in Fukuoka's paddies follows a distinctive water pattern:
 
 - **Early June**: After the barley harvest, when clover threatens to choke out young rice seedlings, water is held for four to seven days to weaken the clover. After this, the field is surface-drained to grow hardy plants.
-- **June and July**: The field is left unirrigated entirely, following the [[fukuoka-straw-mulch-philosophy]] principle.
-- **August**: Water is run through the drainage ditches once every week or ten days.
-
-## Levee Construction and Maintenance
-
-Proper levee management is critical to successful [[fukuoka-rice-and-barley-natural-farming]]. Fukuoka describes building levees each year as essential work:
+- **June and July**: The field is left unirrigated entirely, following the [[fukuoka-rice-and-barley-natural-farming]]. Fukuoka describes building levees each year as essential work:
 
 1. Carefully cut the grass on the old levee with a sickle
 2. Break down the levee with an open-ended hoe

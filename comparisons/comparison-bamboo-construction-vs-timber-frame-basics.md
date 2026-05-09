@@ -21,33 +21,6 @@ and cultural tradition. The choice between them depends heavily on local
 resources, climate, building codes, and aesthetic preferences.
 
 ## Bamboo Construction
-[[bamboo-construction]]
-
-Bamboo is a giant grass with over 1,200 species, some growing at rates
-exceeding 90 cm per day and reaching harvestable maturity in just 3-5 years.
-Its tensile strength rivals steel, and its compressive strength is comparable
-to concrete, making it one of the most remarkable structural materials on
-Earth. Bamboo sequesters up to 12 tonnes of CO2 per hectare per year,
-exceeding most timber species and making it an outstanding choice for
-climate-conscious building in suitable regions.
-
-For structural use, bamboo must be harvested at 3-5 years of age when culm
-density is maximum, then treated to resist insect attack (particularly
-powderpost beetles) and fungal decay. The borax-boric acid immersion method is
-non-toxic and effective. Joining bamboo requires specialized techniques since
-it cannot be nailed without splitting: lashed joints with natural fiber rope,
-bolted connections with plates, fish-mouth notches, and filled joints where
-internodes are packed with mortar at connection points for strength.
-
-Bamboo is particularly appropriate in tropical and subtropical climates where
-it grows locally. Its light weight and flexibility make it resistant to
-earthquake and wind forces. Beyond buildings, bamboo serves as fencing,
-trellising, water pipes, erosion control on steep slopes, and aquaculture
-infrastructure. Clumping species are preferred for managed plantings to
-prevent invasive spread. Traditional bamboo structures range from the
-Filipino bahay kubo to modern award-winning pavilions and luxury resorts.
-
-## Timber Frame
 [[timber-frame-basics]]
 
 Timber framing is a traditional building method using large timbers joined
@@ -117,8 +90,6 @@ within a primarily timber-framed building.
 
 ## See Also
 
-- [[comparison-adobe-vs-bamboo-construction]]
 - [[comparison-cob-vs-timber-frame]]
-- [[comparison-straw-bale-vs-adobe]]
 - [[comparison-bamboo-vs-cob-construction]]
 - [[comparison-slip-form-stone-vs-timber-frame]]

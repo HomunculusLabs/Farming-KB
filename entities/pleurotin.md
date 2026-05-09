@@ -126,7 +126,9 @@ system biology rather than as a drug candidate.
 
 ## See Also
 
-- [[trametes-versicolor]] — Polypore mushroom with medicinally active polysaccharides
 - [[schizophyllum-commune]] — Another basidiomycete producer of bioactive sesquiterpenes
-- [[pleurotus-ostreatus]] — Common oyster mushroom, low-level pleurotin producer
 - [[fomes-fomentarius]] — Tinder fungus with distinct bioactive compound profile
+
+## See Also
+
+- [[biodiversity-fungal-secondary-metabolites]]

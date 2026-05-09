@@ -88,16 +88,14 @@ Pre-clinical research on cannabinoids and leukemia has continued to advance:
 
 For leukemia patients considering cannabinoid therapy, several factors are relevant:
 
-- [[cannabis-cannabinoid-receptor-pharmacology]] considerations include the fact that cannabinoid distribution to bone marrow (where leukemia originates) has not been extensively studied
 - [[cannabis-concentrates-and-extracts]] may provide standardized cannabinoid ratios for consistent dosing
-- Patients must be monitored for potential [[cannabis-drug-interactions-and-contraindications]] with chemotherapy agents, many of which are metabolized by cytochrome P450 enzymes that also process cannabinoids
-- [[cannabis-dosing-guidelines]] should be followed with medical supervision
+- Patients must be monitored for potential [[cannabis-dosing-guidelines]] should be followed with medical supervision
 
 ## Strain-Specific Considerations
 
 Both THC and CBD demonstrated anti-leukemic activity in laboratory studies. THC activates both CB1 and CB2, while CBD has higher affinity for CB2. Given the CB2-mediated mechanism of action, strains with elevated CBD content (indica-dominant) may be most relevant. However, the synergistic effects of THC with chemotherapy suggest that balanced THC:CBD preparations may offer the broadest therapeutic benefit.
 
-Strains rich in [[cannabis-minor-cannabinoids]] like CBG and CBC may provide additional anti-cancer effects. The [[cannabis-terpene-profile]] of selected strains, particularly those high in beta-caryophyllene (a CB2 agonist), may enhance anti-leukemic activity.
+Strains rich in [[cannabis-terpene-profile]] of selected strains, particularly those high in beta-caryophyllene (a CB2 agonist), may enhance anti-leukemic activity.
 
 ## Limitations of Current Research
 
@@ -105,10 +103,6 @@ All reviewed studies were pre-clinical (laboratory or animal). The concentration
 
 ## Related
 
-- [[cannabis-and-fibromyalgia]] Topics
-
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-cancer-patients]]
 - [[cannabis-and-lymphoma-research]]
-- [[cannabis-immune-modulation]]
 - [[cannabis-drug-interactions-and-contraindications]]

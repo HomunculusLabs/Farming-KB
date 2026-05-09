@@ -129,7 +129,9 @@ should be treated as potentially deadly until proven otherwise.
 
 ## See Also
 
-- [[cortinarius-orellanus]] — closely related species, also orellanine-bearing
 - [[cortinarius-cinnamomeus]] — non-toxic *Cortinarius* for comparison
-- [[alpha-amanitin]] — amatoxin from *Amanita*, different mechanism, same lethal outcome
 - [[galerina-marginata]] — another deadly lookalike genus containing amatoxins
+
+## See Also
+
+- [[emcdda-wild-mushroom-foraging-misidentification-hazards]]

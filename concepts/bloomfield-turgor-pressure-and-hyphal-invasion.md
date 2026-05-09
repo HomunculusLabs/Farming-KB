@@ -1,7 +1,7 @@
 ---
 title: "Turgor Pressure and Hyphal Invasion"
 created: 2026-04-28
-tags: [mycology, fungal-biology, hyphal-growth, turgor-pressure, fungal-ecology]
+tags: [[mycology, fungal-biology, hyphal-growth, turgor-pressure, fungal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -61,27 +61,7 @@ important for understanding fungal biology in natural environments.
 
 Some of the most impressive feats of invasive growth are performed by
 fungi that grow deep inside nuggets of granite bedrock. These species
-also connect with the roots of trees and shrubs, forming [[mycorrhizal-heavy-metal-uptake]]
-associations. The fungi sustain their plant partners in poor, highly
-acidic soils by extracting scarce inorganic nutrients like magnesium
-and calcium from the rocks, and acquire carbohydrates from the plants
-in return. Hyphae penetrate rocks by secreting compounds like citric
-acid and oxalic acid that dissolve minerals, then absorb the leached
-minerals and intrude deeper.
-
-Using sophisticated instrumentation, mycologists have measured the
-forces exerted by single fungal hyphae. The wall of a hypha exerts a
-force of a few micronewtons (millionths of one Newton). One micronewton
-is produced when a mass of one ten-thousandth of a gram, equivalent to
-an eyelash, presses down under gravity. Because these forces are applied
-over very small areas, the corresponding pressures are surprisingly
-high. Most hyphae exert an atmosphere or more of pressure, and some
-specialized pathogens that penetrate leaves surge forward with 50
-atmospheres or more.
-
-## Penetration of Plant and Animal Tissues
-
-The rice blast fungus [[magnaporthe-grisea-functional-genomics-rice-blast]] grisea generates infection cells
+also connect with the roots of trees and shrubs, forming [[magnaporthe-grisea-functional-genomics-rice-blast]] grisea generates infection cells
 strong enough to pierce Kevlar. To evaluate the significance of hyphal
 force, comparisons have been made with the mechanical resistance of
 plant tissues. The skin of humans and horses offers resistance of 200
@@ -113,9 +93,6 @@ inexhaustible menu of solid food. The formation of invasive hyphae by
 both mushroom relatives and stramenopile fungi offers a perfect example
 of convergent evolution. Rock-penetrating fungi may have been major
 players in the early evolution of life on land. Fossilized hyphae of
-[[mycorrhizal-heavy-metal-uptake]] fungi are found inside root cells of primitive land
-plants preserved 400 million years ago, and even older rocks from
-Wisconsin contain fossils of the large spores characteristic of
 [[mycorrhizal-fungi]], suggesting relationships stretching back more than
 600 million years.
 
@@ -133,7 +110,5 @@ mycelium becomes mushroom, and even a partial solution to this enigma
 would transform our understanding of how fungi operate.
 
 ## See Also
-
-- [[bloomfield-turgor-pressure-osmotic-mechanisms]]
 
 - [[bloomfield-fungal-biology-and-hyphal-growth]]

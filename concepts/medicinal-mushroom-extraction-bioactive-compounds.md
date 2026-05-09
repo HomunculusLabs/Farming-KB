@@ -45,17 +45,7 @@ contribute to reishi's anti-inflammatory, hepatoprotective, and antitumor
 properties. Alcohol extraction is required to release significant quantities of
 triterpenes.
 
-### [[ergothioneine]]
-
-Ergothioneine is a unique antioxidant amino acid synthesized only by fungi and
-certain bacteria. The human body has a dedicated transporter protein (OCTN1)
-for it, suggesting important physiological role. Shiitake, oyster, and porcini
-mushrooms are among the richest dietary sources.
-
-### Hericenones and Erinacines
-
-Unique to lion's mane (*Hericium erinaceus*). Hericenones are in the fruiting
-body while erinacines are produced by the [[mycelium]]. Both stimulate nerve growth
+### [[mycelium]]. Both stimulate nerve growth
 factor (NGF) synthesis, making lion's mane a research target for
 neurodegenerative conditions.
 
@@ -119,10 +109,8 @@ metals and pesticides, and quantified levels of active compounds.
 
 ## See Also
 
-- [[sanghuangporus-baumii]]
-
 - [[medicinal-mushroom-bioactive-compounds]]
 
 - [[mushroom-substrate-preparation-sterilization]]
-- [mushroom-[[spawn-grain-preparation]]-and-inoculation]
+- [mushroom-and-inoculation]
 - [[mushroom-fruiting-chamber-designs]]-and-parameters]

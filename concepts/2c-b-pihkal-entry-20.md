@@ -71,15 +71,9 @@ Many reports mention the [MDMA and 2C-B combination. The most successful protoco
 
 ### Related
 
-- [[aem-pihkal-entry-1]]
-
 - [[bohd-pihkal-entry-16]]
 
-- [[asb-pihkal-entry-9]]
-
 - [[bom-pihkal-entry-17]]
-
-- [[b-pihkal-entry-10]]
 
 - [[al-pihkal-entry-2]] "Tweetio" Compounds
 - 2CB-2ETO (4-bromo-2-ethoxy-5-methoxyphenethylamine): Active at ~15 mg but never approaches 2C-B intensity. Higher doses merely prolong activity from ~3 to ~6 hours.
@@ -122,7 +116,6 @@ The compound was briefly sold legally in several countries before being schedule
 
 - [MDMA: 2C-B's empathogenic qualities are sometimes compared to MDMA, but 2C-B adds significantly more visual and sensual/erotic components while providing less pure emotional opening.
 - [Mescaline: As a 2,5-dimethoxy-4-substituted phenethylamine, 2C-B is structurally related to mescaline. 2C-B is more potent, shorter-acting, and more visual than mescaline. See [mescaline derivatives for broader context.
-- [[2c-d-pihkal-entry-23]]: 2C-D is considered the "pharmacological tofu" of the 2C family -- mild and long-acting. 2C-B is more visually intense and shorter.
 - [[2c-d-pihkal-entry-23]]: 2C-E is significantly more intense, more cognitive/challenging, and longer-acting than 2C-B.
 - [DOB: The amphetamine homologue of 2C-B. DOB is far more potent (1-3 mg), far longer-lasting (18-30 hours), and more classically psychedelic.
 - [DOM: Another amphetamine homologue comparison point, DOM is longer-acting and more stimulating than 2C-B.
@@ -137,4 +130,4 @@ The compound was briefly sold legally in several countries before being schedule
 - See [harm reduction guide for general principles.
 - The [set and setting framework is essential for optimal outcomes.
 - See [legal context for jurisdictional status.
-- The [[2c-b-psychedelic-empathogen-guide]] and [[turner-2cb-erotic-empathogen]] pages provide additional user-oriented information.
+- The [[turner-2cb-erotic-empathogen]] pages provide additional user-oriented information.

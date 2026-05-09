@@ -135,16 +135,10 @@ Several boletes can be confused with *X. chrysenteron*:
 - **Xerocomus badius** (*Imleria badia*) — larger, uniformly brown cap that does not crack, stipe entirely brown.
 - **Tylopilus felleus** — pink pore surface, extremely bitter taste, inedible.
 - **Boletus edulis** — much larger, white pore surface, reticulate stipe.
-
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
-- [[leccinum-scabrum]]
 - [[xerocomus-subtomentosus]]
-- [[tylopilus-felleus]]
 - [[rubroboletus-satanas]]
-- [[neoboletus-erythropus]]
 - [[laccaria-laccata]]
-- [[mycorrhiza]]
 - [[ectomycorrhiza]]

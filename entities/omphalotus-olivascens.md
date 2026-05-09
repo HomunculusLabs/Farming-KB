@@ -109,13 +109,8 @@ Key distinguishing features include the true gills of Omphalotus (vs. blunt ridg
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]]
 - [[panellus-stipticus]]
-- [[mycena-chlorophos]]
-- [[amanita-muscaria]]
-- [[armillaria-mellea]]
+- [[amanita-muscaria-entity]]
 - [[laccaria-bicolor]]
-- [[pleurotus-ostreatus]]
 - [[hydnum-repandum]]
-- [[boletus-edulis-entity]]
 - [[lactarius-indigo]]

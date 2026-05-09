@@ -128,14 +128,9 @@ Major commercial mycopesticide products include:
 
 ## Related
 
-- [[fungal-hydrophobin-proteins-and-surface-hydrophobicity]] Concepts
-
 - [[mycorestoration-framework]] -- umbrella concept including mycopesticides
-- [[fungal-pest-control]] -- broader fungal pest control methods
 - [[fungal-biopesticides]] -- detailed biopesticide guide
-- [[cordyceps-and-entomopathogenic-fungi]] -- entomopathogenic fungi biology
 - [[beekeeping-basics]] -- beekeeping fundamentals
 - bee feeding and fungal pesticides -- bee feeding and nutrition
-- [[fungal-single-cell-protein-production]]
 - [[mycelium-running-pest-control-with-fungi]]
 - [[lichens-primary-production-soil-formation-dighton]]

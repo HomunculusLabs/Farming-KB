@@ -21,43 +21,6 @@ for managing soil biology in agriculture, forestry, mushroom cultivation, and
 land restoration.
 
 ## Mycorrhizal Fungi
-[[mycorrhizal-fungi]]
-
-Mycorrhizal fungi form mutualistic associations with the roots of 80 to 95
-percent of terrestrial plant species. In exchange for plant-derived
-carbohydrates, the fungal hyphae extend far beyond the root zone to mine
-phosphorus, water, and micronutrients from soil that roots alone cannot access.
-The partnership is ancient, dating back over 400 million years, and is widely
-considered one of the most important symbiotic relationships on Earth. Without
-mycorrhizae, most plants cannot obtain optimal nutrition.
-
-The two primary types relevant to most growers are arbuscular mycorrhizal
-fungi (AMF) and ectomycorrhizae (ECM). AMF penetrate root cells and form
-arbuscule structures for nutrient exchange, associating with most vegetables,
-annuals, grasses, and legumes. ECM form a dense sheath around root tips of trees
-like oaks, pines, and beeches, and often produce visible fruiting bodies such as
-porcini, chanterelles, and truffles. AMF produce glomalin, a sticky glycoprotein
-that contributes 27 to 30 percent of soil carbon and creates stable aggregates
-that resist erosion.
-
-Beyond nutrient exchange, mycorrhizal networks provide pathogen protection by
-forming a physical web around roots and producing antibiotic compounds that
-suppress soil-borne diseases like Phytophthora root rot and fusarium wilt. They
-also facilitate inter-plant resource sharing through common mycelial networks,
-connecting individuals of the same or different species. This network
-connectivity makes mycorrhizae critical for ecosystem resilience, particularly
-under drought stress, where hyphal networks extend effective root access area by
-700 to 1,000 times.
-
-Mycorrhizal populations are highly sensitive to soil disturbance.
-Conventional tillage breaks hyphal networks, high-phosphorus synthetic
-fertilizers suppress colonization because plants stop trading carbon when
-phosphorus is abundant, and certain fungicides are directly toxic to
-mycorrhizae. Building and maintaining mycorrhizal communities requires minimal
-soil disturbance, appropriate nutrient management, and living root networks
-maintained through cover crops or perennial plantings.
-
-## Saprotrophic Fungi
 [[saprotrophic-fungi]]
 
 Saprotrophic fungi are the primary decomposers of dead organic matter in
@@ -126,8 +89,7 @@ products is worthwhile for transplanted crops in disturbed soils, and for
 cannabis cultivation where phosphorus uptake and drought resilience directly
 affect yield. Any system using minimal tillage and avoiding high-phosphorus
 synthetic fertilizers will benefit from protecting and encouraging native
-mycorrhizal populations. See [[mycorrhizal-inoculation-guide]] for application
-details and [[composting-and-soil-biology]] for practices that protect mycorrhizal
+mycorrhizal populations. See [[ozier-pdc-composting-and-soil-building]] for practices that protect mycorrhizal
 networks.
 
 ## When to Choose Saprotrophic Focus
@@ -138,11 +100,7 @@ that break down lignin and build humus. When establishing new gardens on
 compacted or low-organic-matter soil, encouraging saprotrophic decomposition
 through compost and woody inputs is the fastest path to building soil structure.
 Mushroom growers cultivating shiitake, oyster, or wine cap mushrooms are
-directly managing saprotrophic species. See [[mushroom-cultivation-methods]] for
-cultivation approaches.
-the soil below. See [[soil-food-web]] for a holistic view of how these
-functional groups interact.
-
+directly managing saprotrophic species. See [[soil-food-web]] for a holistic view of how these
 ## See Also
 
 - [[gadd-stable-isotopes-saprotrophic-fungi]]

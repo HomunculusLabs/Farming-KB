@@ -3,16 +3,7 @@ title: Oyster Mushroom Agricultural Waste Substrates Survey
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-
-Updated: 2026-04-18
-
-Source: Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (MushWorld, 2004) — Chapter 5, Jozef Poppe (University of Gent, Belgium)
-
-A worldwide survey cataloguing approximately 200 different agricultural and forestry wastes usable as substrate for [[cotter-oyster-mushroom-cultivation]]. Oyster mushrooms (Pleurotus spp.) possess the broadest substrate range of any cultivated mushroom due to their multilateral enzyme system capable of biodegrading nearly all types of available lignocellulosic wastes.
+tags: [[cotter-oyster-mushroom-cultivation]]. Oyster mushrooms (Pleurotus spp.) possess the broadest substrate range of any cultivated mushroom due to their multilateral enzyme system capable of biodegrading nearly all types of available lignocellulosic wastes.
 
 ## Global Waste Potential
 
@@ -140,10 +131,7 @@ About 90 distinct waste types are proven useful, but cereal straw, sawdust, and 
 
 ## Related
 
-- [[oyster-mushroom-substrate-preparation]]
 - [[cotter-oyster-mushroom-cultivation]]
-- [[mushroom-substrates]]
 - [[mushroom-substrate-recipes]]
-- [[spent-mushroom-substrate-recycling]]
 - [[oyster-mushroom-spent-substrate-recycling]]
 - [[gourmet-mushroom-enriched-sawdust-cultivation]]

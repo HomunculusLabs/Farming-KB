@@ -107,22 +107,12 @@ The species is a candidate for conservation-focused cultivation research, which 
 
 ## See Also
 
-- [[termitomyces-titanellus]]
-
-- [[amanita-muscaria]]
-- [[psilocybe-cubensis]]
+- [[amanita-muscaria-entity]]
 - [[laccaria-bicolor]]
-- [[agaricus-bisporus]]
 - [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
 - [[boletus-edulis-entity]]
-- [[coprinus-comatus-detailed]]
 - [[stropharia-rugosoannulata]]
-- [[fomes-fomentarius]]
 - [[grifola-frondosa]]
-- [[armillaria-mellea]]
 - [[morchella-esculenta]]
-- [[flammulina-velutipes]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[saccharomyces-cerevisiae]]
+- [[laetiporus-sulphureus]]
 - [[aspergillus-oryzae]]

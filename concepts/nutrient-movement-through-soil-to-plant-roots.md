@@ -104,13 +104,8 @@ All creatures of the soil food web contribute to bringing nutrients to plants. A
 
 ## Related Topics
 
-- [[root-anatomy-structure-and-nutrient-uptake]] -- how nutrients cross the membrane once they arrive
 - [[diffusion-osmosis-and-active-transport-in-plants]] -- the physics of nutrient entry
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]] -- what happens after uptake
 - [[mycorrhizal-networks]] -- the fungal partnerships described here
 
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
-
 - [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
-- [[plant-cell-membrane-transport-proteins]]
 - [[water-pathways-through-plants]]

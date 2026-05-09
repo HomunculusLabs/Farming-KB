@@ -3,7 +3,7 @@ title: Microfungi on Wood and Plant Debris — Survey Overview
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -76,12 +76,8 @@ Washing and filtering litter particles to concentrate fungal spores and propagul
 
 ## See Also
 
-- [[wood-inhabiting-microfungi]]
 - [[litter-wood-decomposing-fungi]]
-- [[microfungi-wood-plant-debris]]
 - [[fungal-species-richness-and-diversity-indices]]
 
-- [[microfungi-litter-diversity-survey-methods]]
 - [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[saprobic-soil-fungi-ecology-survey]]

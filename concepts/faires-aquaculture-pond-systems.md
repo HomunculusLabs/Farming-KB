@@ -3,13 +3,7 @@ title: Aquaculture Pond Systems
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Aquaculture Pond Systems
-
-Aquaculture is a closed-loop system of growing fish in a cycle with plants and other animals. Rather than intensive aquaponics-guide|aquaponic tanks, Faires emphasizes natural pond polyculture that is self-reliant, self-contained, and requires very little effort. This approach aligns with [[permaculture-aquaculture]] principles by creating self-regulating ecosystems that produce food with minimal external inputs.
+tags: [[permaculture-aquaculture]] principles by creating self-regulating ecosystems that produce food with minimal external inputs.
 
 ## Pond Design Principles
 
@@ -34,7 +28,7 @@ Aquaculture is a closed-loop system of growing fish in a cycle with plants and o
 7. Introduce baby fish in spring; add buckets of pond water from established ponds
 8. Monitor pH (target 7-8); add lime if acidifying; drain every few years
 
-See [[pond-design-and-construction]] and [[permaculture-pond-and-water-garden]] for detailed building guidance.
+See [[permaculture-pond-and-water-garden]] for detailed building guidance.
 
 ## Polyculture System
 
@@ -89,37 +83,10 @@ chinampas|Chinampas are an ancient Mesoamerican technique where canals between r
 
 ## Pond Types and Animal Integration
 
-- **Semi-fertilized pond**: Tilapia combined with duck-keeping|ducks or [[comparison-chicken-keeping-vs-quail-husbandry]] — animal manure feeds plankton and algae
-- **Clean pond**: Bass or trout require cleaner water conditions
-- **Dredged prawn debris** can be used as compost, mulch, or seedling growing medium, connecting the pond system to composting-systems|composting
-
-## Related
-
-- [[urban-permaculture-rainwater-harvesting-graywater]] — water management overview
-- [[aquaponics-guide]] — tank-based aquaculture
+- **Semi-fertilized pond**: Tilapia combined with duck-keeping|ducks or [[urban-permaculture-rainwater-harvesting-graywater]] — water management overview
 - [[chinampas]] — chinampa technique details
-- [[pond-design-and-construction]] — building ponds
 - [[permaculture-pond-and-water-garden]] — decorative and productive water gardens
-- [[faires-composting-and-vermiculture]] — processing pond muck
-- albert hofmann — broader water systems
-
-## Merged: Holmgren: Water, Wetlands, and Aquaculture Design
-
-Holmgren's treatment of water systems draws on both traditional and innovative approaches to demonstrate how water can be stored, purified, and productively used within permaculture landscapes. This extends the [[holmgren-catch-and-store-energy-detailed]] principle into the practical domain of [[aquaculture-in-permaculture]].
-
-## Run-Off Water Systems
-
-Run-off water provides multiple uses: irrigation, aquaculture, and power generation. The design of water systems should follow the principle of cascading use -- each use of water should leave it in a state suitable for the next use down the cascade. See [[faires-swales-and-water-conservation]] and [[earthworks-for-water-management]].
-
-## Swamps and Wetlands as Storage
-
-Swamps and wetlands are even more important as temporary storages and filters. They play a critical role in purifying water and ameliorating the destructive forces of large flood events. Nutrient-rich, relatively shallow water in dams, wetlands, ponds, swales, and paddies provides storage of chemical energy to support highly productive aquaculture systems.
-
-## Aquaculture Efficiency
-
-In fact, shallow aquaculture systems on fertile lowlands always produce more protein than grazing or even dairying. This ecological efficiency of aquaculture for protein production was the reason for promoting aquaculture in early Permaculture literature. In the wet tropics, aquaculture represents one of the most productive land uses available.
-
-Recognition of aquaculture as one of the most productive land uses changes the conventional assessment of poorly drained wetlands. Land typically seen as unproductive because of poor drainage becomes highly valuable when aquaculture is part of the design. See [[mollison-fish-pond-construction]] and faires aquaculture pond systems.
+- [[holmgren-catch-and-store-energy-detailed]] principle into the practical domain of [[faires-swales-and-water-conservation]] and [[mollison-fish-pond-construction]] and faires aquaculture pond systems.
 
 ## Dam and Wetland Design
 

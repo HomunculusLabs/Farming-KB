@@ -142,8 +142,6 @@ Mycorrhizal communities change predictably with ecosystem development:
 
 ## See Also
 
-- [[lichen-biology-guide|Lichen Biology and Ecological Significance]]
 - [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|Mycorrhizal Networks and the Wood Wide Web]]
-- [[biological-nitrogen-fixation-agriculture|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
 - [[singh-mycelial-mats-and-biological-soil-crusts|Biological Soil Crusts]]
 - [[mycelium-running-stamets-fungal-ecology-networks|Mycelium Networks and Fungal Ecology]]

@@ -16,56 +16,13 @@ type: concept
 
 # Small Dam Site Selection and Design
 
-[[backyard-water-harvesting|Small dams and ponds]] are central elements of [[backyard-water-harvesting]] in
-[[permaculture-design]]. In the [[permaculture-designers-manual-bamboo]], Bill
+[[backyard-water-harvesting]] in
+[[permaculture-designers-manual-bamboo]], Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
 cost, maintenance, and ecological impact. Properly sited and constructed
-small dams provide irrigation, stock water, fire protection, [[aquaculture-in-permaculture|aquaculture]],
-wildlife habitat, and landscape aesthetics. These earthworks complement
-broader [[permaculture-earthworks|earthworks]] strategies and integrate
-naturally with [[backyard-pond-building|pond systems]] on permaculture sites.
-
-## Site Selection Criteria
-
-### Catchment Area
-
-The catchment area (also called the watershed or drainage area) is the
-total land surface that drains into the proposed dam site. The size and
-characteristics of the catchment determine how much water will flow into
-the dam. Key considerations include:
-
-- **Catchment-to-storage ratio:** A general rule is that the catchment
-  area should be at least 10 to 20 times the surface area of the proposed
-  dam for reliable filling. In low-rainfall areas, larger ratios (50:1
-  or more) may be necessary.
-
-- **Runoff coefficient:** Not all rainfall becomes runoff. The proportion
-  depends on slope, soil type, vegetation cover, and rainfall intensity.
-  Steep, bare, rocky catchments generate high runoff; flat, vegetated
-  catchments generate low runoff. Typical runoff coefficients range from
-  0.05 for forested flat land to 0.6 for steep rocky terrain.
-
-- **Catchment management:** Vegetated catchments are preferred as they
-  reduce erosion and sediment input to the dam, extending its useful life.
-  However, they also reduce runoff, requiring larger catchment areas.
-
-### Soil Type
-
-The soil at the dam site must be capable of holding water without excessive
-seepage. Mollison identifies the following soil requirements:
-
-- **Clay content:** Dam sites require a minimum of 20 to 30 percent clay
-  content in the soil profile to achieve adequate impermeability. Ideal
-  dam soils contain 30 to 60 percent clay, similar to soils valued for
-  [[biochar-and-fungi|biochar]] and [[soil-health-and-management|soil health]] management.
-
-- **Depth of impervious layer:** The clay or impermeable layer should
-  extend deep enough to prevent seepage under the dam wall. A minimum
-  depth of 1 metre of clay is desirable, though local geological
-  conditions vary.
-
-- **[[soil-testing]]:** Simple field tests include the roll test (squeezing
+small dams provide irrigation, stock water, fire protection, [[permaculture-earthworks|earthworks]] strategies and integrate
+naturally with [[biochar-and-fungi|biochar]] and [[soil-testing]]:** Simple field tests include the roll test (squeezing
   moist soil into a ribbon; longer ribbons indicate higher clay content)
   and the pond test (filling a small hole with water and observing the
   seepage rate).
@@ -136,14 +93,11 @@ with a sheepsfoot roller. Clay soils typically need 3:1 upstream slopes and
 5 to 10 percent additional height allowed for post-construction settlement.
 ## See Also
 
-- [[swale-design]] and [[organic-vegetable-growing-and-market-gardening]] for complementary earthwork water-harvesting techniques
-- [[water-storage-techniques]] and [[water-catchment-permaculture]] for broader water management strategies
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] for the full design manual treatment
+- [[organic-vegetable-growing-calendar]] for complementary earthwork water-harvesting techniques
+- [[water-catchment-permaculture]] for broader water management strategies
 - [[water-management]] for integrated water cycle design
 
 ## Related Pages
 
-[[keyline-design]] extends dam and earthwork principles into broad-scale landscape water management.
 [[pond-and-aquaculture]] covers integrated pond systems that complement small dam infrastructure.
-[[irrigation-systems]] connects stored dam water to efficient field delivery methods.
 [[mollison-designers-duck-pond-integrated-systems]] shows how dams integrate with livestock and food production.

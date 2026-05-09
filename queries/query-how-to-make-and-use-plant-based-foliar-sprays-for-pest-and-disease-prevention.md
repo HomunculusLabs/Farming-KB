@@ -82,8 +82,6 @@ The Lamiaceae family produces high levels of menthol, pulegone, and nepetalacton
 Freshly prepared water-based sprays should be used within 24 hours — active compounds degrade quickly once extracted into water. Store in a cool, dark place and never in direct sunlight. Fermented extracts like nettle tea and KNF FPJ last 2 to 4 weeks when refrigerated. Alcohol-based tinctures are stable for 1 to 2 years when stored in amber glass bottles away from heat.
 Label every bottle with the preparation date, ingredients, and dilution ratio. Botanical sprays can look similar to each other — unlabeled containers lead to mistakes.
 ## Combining Sprays with Living Systems
-The most effective approach layers botanical sprays on top of a healthy ecosystem. Plants growing in living soil with active mycorrhizal networks, diverse microbial communities, and balanced nutrition are inherently more resistant to pests and disease. Foliar sprays are a tool, not a substitute, for building resilient growing systems. See [[query-what-is-the-soil-food-web-and-why-does-it-matter]] and [[query-how-does-living-soil-work-for-cannabis]] for deeper context on building that foundation.
-See also: [[beneficial-insects-guide]]
-## See Also
-- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
+The most effective approach layers botanical sprays on top of a healthy ecosystem. Plants growing in living soil with active mycorrhizal networks, diverse microbial communities, and balanced nutrition are inherently more resistant to pests and disease. Foliar sprays are a tool, not a substitute, for building resilient growing systems. See [[query-how-does-living-soil-work-for-cannabis]] for deeper context on building that foundation.
+See also: [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
 - [[query-how-to-make-and-use-leaf-mold-in-your-garden]]

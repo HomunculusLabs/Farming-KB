@@ -142,8 +142,6 @@ groundwork for modern plant pathology.
 
 ## See also
 
-- [[bloomfield-potato-blight-phytophthora-infestans]]
 - [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
-- [[bloomfield-pythium-oomycete-water-molds]]
 - [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
 - [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]

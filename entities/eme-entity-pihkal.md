@@ -71,14 +71,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[tweetio-series-ethoxy-homologues-pihkal]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[cannabis-solvent-reflux-extraction-methods]]
 - [[mushroom-potency-drying-and-extraction]]
 
 ## See Also
 
-- [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 

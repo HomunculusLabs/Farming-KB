@@ -137,13 +137,6 @@ that dissolve mineral surfaces, the secretion of siderophores that chelate iron 
 other metals, and the physical penetration of mineral matrices by hyphal tips
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungi]]
 - [[common-mycorrhizal-networks]]
-- [[decomposition]]
-- Fungi in the Environment for the comprehensive reference on environmental
-  mycology
-- Ectomycorrhizal networks for detailed treatment of ECM fungal ecology
 - [[arbuscular-mycorrhizal-fungi]] for AMF symbiosis mechanisms
-- [[fungal-decomposition]] for the biochemistry of organic matter breakdown
-- Mycorrhizal network interplant carbon transfer for CMN research
 - [[fungal-bioremediation]] for heavy metal and pollutant cleanup applications

@@ -21,7 +21,7 @@ type: concept
 
 ## Summary
 
-This guide covers the complete cultivation cycle for several exotic psilocybin mushroom species on sterilised grass seed substrate, from substrate preparation through fruiting or sclerotia harvest. Species addressed include **Psilocybe mexicana**, **Psilocybe tampanensis**, **Psilocybe cubensis**, and **Panaeolus subbalteatus**. The core technique uses rye grass seed (*Lolium perenne*) in jars sterilised in a pressure cooker, inoculated with spore or mycelium syringes or agar squares, then either cased for mushroom production or left in jars for sclerotia formation. Casing soil is a peat, vermiculite, and limestone mix also sterilised before use. Fruiting takes place in simple clear plastic bins with polyethylene covering and passive air exchange. Sclerotia of *P. tampanensis* and *P. mexicana* develop directly on colonised grain over several months without casing.
+This guide covers the complete cultivation cycle for several exotic mushroom species on sterilised grass seed substrate, from substrate preparation through fruiting or sclerotia harvest. Species addressed include **Psilocybe mexicana**, **Psilocybe tampanensis**, **Psilocybe cubensis**, and **Panaeolus subbalteatus**. The core technique uses rye grass seed (*Lolium perenne*) in jars sterilised in a pressure cooker, inoculated with spore or mycelium syringes or agar squares, then either cased for mushroom production or left in jars for sclerotia formation. Casing soil is a peat, vermiculite, and limestone mix also sterilised before use. Fruiting takes place in simple clear plastic bins with polyethylene covering and passive air exchange. Sclerotia of *P. tampanensis* and *P. mexicana* develop directly on colonised grain over several months without casing.
 
 ## Species Covered
 
@@ -34,41 +34,7 @@ This guide covers the complete cultivation cycle for several exotic psilocybin m
 
 ## Substrate Preparation
 
-The primary substrate is grass seed, most commonly **rye grass seed** (*Lolium perenne*). Mixtures of different grass species also work well. Seed must **not** be treated with fungicides; packaging typically indicates treatment status. Seed can be sourced affordably from animal feed stores sold as bird feed.
-
-### Jar Formula (720 ml jars)
-
-- **110 grams** grass seed per jar
-- **180 ml** water per jar
-
-Water and seed are placed directly into jars. Lids are placed on top but **not screwed tight** to allow pressure equalisation during sterilisation. A double layer of aluminium foil is crumpled over the lid and upper jar.
-
-Different grass seed varieties and even batches of the same variety vary considerably in water absorption: **too much water** produces a slimy, unshakeable clump while **too little** yields a dry substrate with poor production. Experimentation is recommended. Alternatively, grass seed can be **soaked overnight** before packing into jars for more homogenous moisture distribution.
-
-## Sterilisation
-
-A **pressure cooker or autoclave** is required — a normal boiling pot will not suffice.
-
-- Place a water layer in the cooker; position jars with lids remaining loose
-- Sterilise **1 hour** at pressure for 720 ml jars; **2 hours** for 1.5 litre jars or spawn bags
-- After pressure releases, shake jars to mix wet and dry kernels (**check for cracks first**)
-- Cool to room temperature in a clean location; keep lids loose to prevent vacuum
-
-## Inoculation
-
-Proceed only once jars have **fully cooled**. Inoculating while hot kills spores or mycelium. Inoculant options include spore syringes, mycelium syringes, or agar squares. **Flame the needle** (syringes) or **scalpel** (agar) before use. Warning: alcohol and spray Lysol are highly flammable near open flames.
-
-Work in a draft-free environment — even a simple cardboard box hood helps. Minimise air exposure; open jar lids only a crack and work swiftly. After inoculation, close lids, shake jars to distribute inoculant, then loosen lids again for gas exchange.
-
-## Colonisation
-
-Store jars in a clean, draft-free location at **20 °C** or slightly higher. When mycelium grows in only a few spots, **shake the jar** to redistribute colonised kernels — this dramatically speeds up full colonisation, which takes **5 to 20 days** depending on temperature, species, and inoculation method. If jars are incubated too long or too hot, mycelium excretes **yellowish metabolites** (a stress signal); case these jars as soon as possible.
-
-## Casing (Mushroom Cultivation)
-
-When fully colonised, shake seed loose into **1-litre disposable plastic trays** (one jar per tray). Break up lumps with the clean jar rim, level the surface, and cover with **1.5 to 2.0 cm** of casing soil. Keep the surface rough with small valleys and hills. Cover with tin foil and store at **20 to 25 °C** until mycelium grows through, then expose to air and light.
-
-### Casing Soil Recipe
+The primary substrate is grass seed. The casing soil recipe uses:
 
 | Ingredient | Parts |
 |---|---|
@@ -125,6 +91,9 @@ Mist casings **daily** and never let the surface dry out. Increase watering afte
 
 ## See Also
 
-- [[mushroom-cultivation-methods]]
-- [[mushroom-cultivation-basics]]
 - [[sterile-technique-mushroom-cultivation]]
+- [[mushroom-cultivation-methods]]
+
+## See Also
+
+- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]

@@ -13,8 +13,7 @@ type: concept
 
 Dopamine is one of the most studied neurotransmitters in the brain, central
 to motivation, reward, motor control, and pleasure. In "The Cannabis Health
-Index," [[uwe-blesching]] explores the deep interconnection between dopamine
-signaling and the blesching [[cannabis-endocannabinoid-system]] (ECS),
+Index," [[cannabis-endocannabinoid-system]] (ECS),
 showing how cannabinoid receptors modulate dopamine release across multiple
 brain regions.
 
@@ -62,29 +61,7 @@ regions. Some clinicians have explored cannabinoid therapeutics for ADHD,
 particularly CBD-rich preparations, though the evidence remains preliminary.
 The theoretical rationale centers on restoring balance to dopamine signaling
 through ECS modulation rather than directly stimulating dopamine receptors as
-conventional stimulant medications do. See also [[blesching-cannabis-adhd]].
-
-## Parkinson's Disease Implications
-
-Parkinson's disease involves the progressive loss of dopaminergic neurons in
-the substantia nigra pars compacta, leading to motor symptoms including
-tremor, rigidity, and bradykinesia. The substantia nigra contains high
-densities of CB1 receptors, positioning the ECS as a potential therapeutic
-target.
-
-Blesching highlights several key points:
-
-- CB1 receptor activation in the basal ganglia modulates GABA and glutamate
-  release, indirectly affecting dopaminergic neuron survival and function.
-- Some studies suggest neuroprotective properties of cannabinoids for
-  remaining dopaminergic neurons through anti-inflammatory and antioxidant
-  mechanisms.
-- Cannabis has been explored for managing Parkinsonian symptoms, including
-  tremor reduction and improvement in sleep quality and pain.
-- However, high-THC preparations may worsen certain motor symptoms in some
-  patients, illustrating the importance of individualized dosing.
-
-See [[blesching-cannabis-parkinsons-disease]] for detailed clinical guidance.
+conventional stimulant medications do. See also [[blesching-cannabis-parkinsons-disease]] for detailed clinical guidance.
 
 ## Addiction Circuitry and the ECS
 
@@ -118,11 +95,8 @@ addiction while harnessing therapeutic benefits.
 
 - blesching cannabis endocannabinoid system
 - blesching cannabis neurotransmitters and cannabinoids
-- [[blesching-cannabis-parkinsons-disease]]
-- blesching cannabis tolerance dependence withdrawal
 - [[blesching-cannabis-adhd]]
 
 ## See Also
 
-- [[cannabis-for-mental-health]]
 - [[blesching-cannabis-acetylcholine-memory-learning]]

@@ -105,16 +105,10 @@ Eradication efforts in the Mediterranean have focused on manual removal, smother
 
 ## See Also
 
-- [[caulerpa-lentillifera]]
 - [[ulva-lactuca]]
-- [[gracilaria-verrucosa]]
 - [[sargassum-fusiforme]]
-- [[eucheuma-denticulatum]]
 - [[kappaphycus-alvarezii]]
-- [[undaria-pinnatifida]]
 - [[porphyra-umbilicalis]]
-- [[chondrus-crispus]]
 - [[fucus-vesiculosus]]
-- [[gelidium-amansii]]
 - [[laminaria-digitata]]
 - [[saccharina-latissima]]

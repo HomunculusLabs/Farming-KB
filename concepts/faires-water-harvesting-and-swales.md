@@ -3,7 +3,7 @@ title: Permaculture Water Harvesting and Swales
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, earthworks, homesteading]
+tags: [[permaculture, soil, animal-husbandry, water, earthworks, homesteading]
 sources:
   - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
 ---
@@ -80,10 +80,7 @@ The small pool strategy can also be used to manage the flow of a stream that int
 
 ## See Also
 
-- [[permaculture-water-systems]]
 - [[rainwater-harvesting-systems]]
-- [[keyline-design]]
 - [[alexander-shulgin]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[mollison-keyline-soil-conditioning-humid-water]]

@@ -34,34 +34,7 @@ fade to pale pink or white at maturity.
 
 ## Temperature Classification
 
-[[oyster-mushroom-species]] are broadly categorized by their temperature
-preferences, which directly determine seasonal suitability and facility
-requirements. Cold-fruiting species (*P. ostreatus*, *P. eryngii*, king
-oyster) thrive at 10 to 18 degrees and are ideal for winter production or
-cool-climate cultivation without climate control. Warm-fruiting species (*P.
-pulmonarius*, *P. sajor-caju*) perform well at 20 to 30 degrees and suit
-tropical and subtropical regions. Tropical species (*P. djamor*, *P.
-cystidiosus*, *P. tuber-regium*) require sustained warmth above 22 degrees and
-may fail entirely in temperate climates without heated growing spaces.
-
-## King Oyster and Specialty Varieties
-
-*Pleurotus eryngii*, the king oyster mushroom, occupies a premium market
-position due to its thick, meaty stem and umami-rich flavor. Unlike other
-oyster species, king oyster grows as a single large fruiting body rather than
-clusters, requiring longer cultivation cycles (8 to 12 weeks from inoculation to
-harvest). It demands cooler temperatures (12 to 18 degrees) and benefits from
-supplemented sawdust substrates. *Pleurotus tuber-regium*, the king tuber
-oyster, produces edible sclerotia (underground storage structures) in addition
-to conventional fruiting bodies, offering a unique product for niche markets.
-
-## Strain vs. Species
-
-Within each species, individual strains exhibit distinct characteristics shaped
-by selective breeding and genetic variation. A strain of *P. ostreatus* might
-produce large caps on straw, while another strain of the same species might
-colonize faster on coffee grounds but produce smaller mushrooms. Strain
-attributes of commercial importance include [[biological-efficiency]] (fresh weight
+[[biological-efficiency]] (fresh weight
 of mushrooms harvested per dry weight of substrate), fruiting speed (days from
 pinning to harvest), cluster size and uniformity, cap color and shape, disease
 resistance, and post-harvest shelf life. Commercial suppliers offer strain
@@ -93,9 +66,26 @@ subculturing generations.
 
 ## Related Concepts
 
-- [[oyster-mushroom-spawn-preparation]] covers the process of expanding selected
-  strains into production-ready inoculum
 - [[oyster-mushroom-fruiting-environment]] describes how to optimize conditions
   for the specific temperature and humidity preferences of each species
 - [[oyster-mushroom-substrate-preparation]] explains how substrate choice varies
   by species and strain requirements
+## Practical Considerations
+
+Successful implementation of oyster-mushroom-species and Strain Selection requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

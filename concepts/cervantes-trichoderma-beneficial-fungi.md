@@ -92,9 +92,7 @@ environmentally safe.
 Trichoderma works well alongside other beneficial soil organisms and
 amendments. Products containing humic acid, trichoderma, and
 beneficial bacteria provide a comprehensive biological approach to root
-zone management. See [[cervantes-compost-tea-organic-brewing]] for
-information on brewing compost teas that can include trichoderma
-spores. [[cervantes-organic-amendments-chart]] lists organic inputs
+zone management. See [[cervantes-organic-amendments-chart]] lists organic inputs
 that support beneficial fungal populations.
 
 ## Environmental Conditions for Trichoderma
@@ -102,44 +100,9 @@ that support beneficial fungal populations.
 Trichoderma thrives in well-aerated, moist soils with adequate organic
 matter. Soil temperatures between 65-75F (18-24C) are ideal. Avoid
 overwatering, which can create anaerobic conditions hostile to
-beneficial fungi. Proper [[cervantes-ph-management-testing]] ensures
-the root zone pH stays in the optimal range for trichoderma
-colonization.
-
-## Trichoderma and Disease Suppression
-
-Trichoderma is effective against several common cannabis pathogens:
-
-- **Pythium and Phytophthora**: Root rot organisms that thrive in
-  waterlogged soils. Trichoderma outcompetes these oomycetes for
-  root surface space.
-
-- **Fusarium**: Wilt-causing fungi that colonize vascular tissue.
-  Trichoderma produces antibiotics that inhibit fusarium growth.
-
-- **Rhizoctonia**: Damping-off fungus that attacks seedlings and
-  cuttings. Trichoderma provides protection during the vulnerable
-  early stages of growth.
-
-- **Botrytis**: While primarily a foliar pathogen, soil-borne
-  trichoderma can reduce botrytis inoculum in the root zone.
-
-## Combining with Mycorrhizae
-
-Trichoderma can be used alongside mycorrhizal fungi for comprehensive
-root zone protection. While mycorrhizae form symbiotic relationships
-with roots for nutrient exchange, trichoderma provides pathogen
-protection. Together they create a robust biological defense system.
-Products that combine both organisms are available from many
-horticultural suppliers.
-
-## Related Concepts
-
-- [[cervantes-compost-tea-organic-brewing]] - brewing teas with
+beneficial fungi. Proper [[cervantes-compost-tea-organic-brewing]] - brewing teas with
   beneficial organisms
-- [[cannabis-advanced-growing-techniques]] - organic cultivation methods
 - [[cervantes-organic-amendments-chart]] - inputs for soil biology
-- [[cervantes-rooting-hormones-cloning]] - root development aids
-- [[cannabis-advanced-growing-techniques]] - water quality affects
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water quality affects
   beneficial organisms
 - [[trichoderma]]

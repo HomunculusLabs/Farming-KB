@@ -12,8 +12,7 @@ type: concept
 # Carbon and Calorie Crop Integration
 
 The integration of carbon crops and calorie crops is central to
-achieving [[jeavons-sustainability-philosophy-gbiointensive]] in the
-[[jeavons-grow-biointensive-method-overview]] system. Rather than treating food
+achieving [[jeavons-grow-biointensive-method-overview]] system. Rather than treating food
 production and soil building as separate activities, this approach
 combines them: the same crops that produce calories for the diet
 also generate the carbonaceous material needed for compost. This
@@ -37,18 +36,7 @@ paths):
 
 This model ensures the garden produces enough compost material
 to maintain soil fertility while also meeting dietary needs. See
-[[jeavons-diet-design-self-sufficiency]] for dietary details.
-
-## Carbon-and-Calorie Crops (60% of Area)
-
-These crops serve dual purposes—food and soil building. They
-produce large amounts of carbon in their stems, leaves, and
-roots, which when composted provide the humus needed to maintain
-soil structure and fertility. Key crops include:
-
-**Grains**: Wheat, cereal rye, oats, barley, triticale, corn,
-sorghum, amaranth, and quinoa. These are the primary carbon
-producers. See [[jeavons-grain-growing-mini-farms]] for grain-
+[[jeavons-grain-growing-mini-farms]] for grain-
 growing specifics.
 
 **Legumes for interplanting**: Fava beans (grown to maturity for
@@ -80,24 +68,7 @@ efficiency varies significantly among crops:
   contribution
 
 The key is growing "farming-efficient" crops that produce the
-most calories in the least area. See [[jeavons-calorie-farming]]
-for detailed calorie efficiency data.
-
-## Vegetable Crops (10% of Area)
-
-The remaining 10% provides essential vitamins, minerals, and
-dietary variety. While vegetables are important nutritionally,
-they are relatively inefficient calorie producers per unit area.
-That is why they are limited to 10% in the sustainability model.
-Include salad crops, cooking greens, and a variety of seasonal
-vegetables. Up to 75% of this area may be used for income crops
-if the remaining 25% supplies needed vitamins and minerals.
-
-## Integrating Nitrogen Fixation
-
-Carbon crops require nitrogen to produce good compost. This is
-addressed through interplanting legumes among the carbon-and-
-calorie crops. The [[jeavons-green-manures-cover-crops]] strategy ensures that nitrogen
+most calories in the least area. See [[jeavons-green-manures-cover-crops]] strategy ensures that nitrogen
 fixed from the air by legume roots is released when roots, stems,
 and leaves decompose in the compost pile. Without this nitrogen
 contribution, additional nitrogen amendments would be needed.
@@ -119,29 +90,11 @@ The approximate area needed to feed one person depends on growing
 season length and skill level. About 4,000 sq ft of growing beds
 (including paths, about 5,000 sq ft total) can provide complete
 dietary needs when the 60/30/10 model is followed with good
-[[jeavons-biointensive-spacing]] and proper [[jeavons-crop-rotation-detail]].
+[[jeavons-crop-rotation-detail]].
 With shorter growing seasons, more area may be needed; with
 longer seasons and greater skill, less may suffice.
 
 ## Planning for Sustainability
 
-When making your [[jeavons-garden-planning-mini-farm-design]], Jeavons recommends additionally
-growing 200-300 square feet of carbon-and-calorie crops beyond
-your vegetable garden to build soil fertility. Even a small
-vegetable garden benefits from dedicating adjacent space to
-compost crops. This investment in soil building pays dividends
-in improved yields, better [[jeavons-water-management-irrigation]], and reduced need
-for imported [[jeavons-fertilization-organic-soil-amendments]].
-
-## The Broader Context
-
-The carbon-and-calorie crop integration model represents a
-fundamental shift from conventional agriculture, where soil
-fertility is purchased from outside. In GROW BIOINTENSIVE,
-fertility is grown within the system itself. This makes the
-food-raising area a source rather than a sink of carbon,
-nutrients, and fertility—closing the loop that conventional
-agriculture keeps open through imported inputs.
-
-See also: [[jeavons-calorie-farming]], [[jeavons-carbon-farming]],
-[[jeavons-sustainability-philosophy-gbiointensive]], [[jeavons-grain-growing-mini-farms]]
+When making your [[jeavons-water-management-irrigation]], and reduced need
+for imported [[jeavons-calorie-farming]], [[jeavons-sustainability-philosophy-gbiointensive]], [[jeavons-grain-growing-mini-farms]]

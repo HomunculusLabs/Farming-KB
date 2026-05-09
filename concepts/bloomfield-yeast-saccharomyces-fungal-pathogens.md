@@ -33,29 +33,6 @@ swells from one end of the mother. In this way, a family of daughters
 sprouts from the parent cell. The relationship between humans and yeast
 is more intimate than any other between fungi and our species.
 
-## [[cryptococcus-neoformans]] and Meningitis
-
-Among the most dangerous yeast pathogens is Cryptococcus neoformans,
-which causes meningitis in approximately 10 percent of AIDS patients.
-This fungus is very widespread, and humans probably encounter its cells
-frequently. When yeast cells or spores of Cryptococcus are inhaled, they
-are usually removed by the river of mucus that cleanses the lungs. But
-when critical immune defenses are damaged, Cryptococcus travels from
-the lungs to the nervous system, forming abscesses that lead to
-debilitating headaches, blindness, dementia, and death.
-
-Each Cryptococcus cell is surrounded by a polysaccharide capsule that
-protects it from immune attack. The yeast produces melanin on the
-surface of its cell wall, creating a resistant barrier. Strains that
-cannot become pigmented are vulnerable to removal by the immune system.
-
-Kwon-Chung discovered that the yeast proliferating in human tissues is
-the asexual part of a life cycle, just as yeasts proliferate in bread
-mix. The basidiospore-producing sexual stage, Filobasidiella, results
-from the merger of compatible a- and alpha-strains. This discovery
-showed that what appeared to be a simple yeast was actually a
-basidiomycete related to mushroom-forming fungi.
-
 ## [[candida-albicans]]: The Opportunistic Pathogen
 
 Candida albicans is a fungus that lives as part of the microbial
@@ -129,6 +106,5 @@ granules from one foot to another.
 
 ## See Also
 
-- [[bloomfield-fungal-pathogens-and-parasites]]
 - [[bloomfield-fungal-plant-pathogens]]
 - [[bloomfield-chytrid-fungi-early-fungal-evolution]]

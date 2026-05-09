@@ -19,62 +19,10 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8420988/
 ---
 
-# Harlequin (Cannabis Strain)
-
-## Overview
-
-| Attribute | Detail |
-|-----------|--------|
-| **Type** | Sativa-dominant hybrid (~75:25 sativa/indica) |
-| **CBD:THC Ratio** | ~2:1 (range 1:1 to 5:2) |
-| **Primary Use** | Medical — functional pain relief without heavy sedation |
-| **Origin** | Bred in the late 1990s–early 2000s, likely California |
-| **Breeder** | Mr. Green (credited origin) |
-| **Notable For** | One of the first commercially available CBD-rich strains |
-
-- Harlequin is a sativa-dominant hybrid renowned for its consistent CBD-dominant profile
-- Produces clear-headed, uplifting effects suitable for daytime medical use
-- Does not typically induce the intoxicating "high" associated with THC-heavy strains
-
-## Lineage and Genetics
-
-| Parent | Type | Contribution |
-|--------|------|-------------|
-| Colombian Gold | Sativa landrace | Uplifting cerebral effects, tall growth |
-| Thai | Sativa landrace | Euphoria, creative stimulation |
-| Swiss/Nepal Landrace | Indica-leaning landrace | CBD expression, resin production |
-
-- Harlequin descends from a cross of three landrace lines: Colombian Gold, Thai, and a Swiss/Nepal landrace
-- The Swiss landrace parent is credited with introducing the elevated CBD expression
-- Genetic lineage is approximately 75% sativa, 25% indica
-- Phenotypes tend to be stable; most cuts express the characteristic CBD:THC ratio
-
-## Cannabinoid Profile
-
-| Cannabinoid | Typical Range | Notes |
-|-------------|--------------|-------|
-| **CBD** | 8–15% | Primary therapeutic compound |
-| **THC** | 4–7% | Present but subdued |
-| **CBG** | Trace–0.5% | Anti-inflammatory minor cannabinoid |
-| **THCV** | Trace | Possible appetite-suppressant effect |
-
-| Ratio | Typical Value |
-|-------|--------------|
-| CBD:THC | 2:1 (range 1:1 to 5:2) |
-
-- The ~2:1 CBD:THC ratio is considered optimal for therapeutic benefit with minimal intoxication
-- CBD moderates the psychoactive effects of THC, producing a calm, functional experience
-- Third-party lab testing recommended; cannabinoid content can vary by grower and batch
-
-## Terpene Profile
-
-| Terpene | Aroma | Effect |
-|---------|-------|--------|
-| **Myrcene** | Earthy, herbal, musky | Sedative base, anti-inflammatory |
-| **α-Pinene** | Pine, woody | Mental clarity, bronchodilator |
+# [[myrcene]]** | Earthy, herbal, musky | Sedative base, anti-inflammatory |
+| **α** | Pine, woody | Mental clarity, bronchodilator |
 | **β-Caryophyllene** | Pepper, spicy | Anti-inflammatory (CB2 agonist) |
-| **Humulene** | Hoppy, earthy | Appetite suppressant, anti-inflammatory |
-| **Limonene** | Citrus, lemon | Mood elevation, stress relief |
+| **[[limonene]]** | Citrus, lemon | Mood elevation, stress relief |
 
 - Dominant terpene: **Myrcene** (typically 0.5–1.0%)
 - Aroma profile: earthy and musky with subtle notes of mango and citrus
@@ -138,10 +86,7 @@ sources:
 - **Australia**: Prescription via Special Access Scheme or Authorized Prescriber
 - **United Kingdom**: CBD products legal; THC cannabis via private prescription only
 - Legal status is subject to change; always verify local regulations
-
 ## See Also
-
-- [[cannabis-and-prion-diseases]]
 
 - [[cannabis-strain-harlequin]]
 

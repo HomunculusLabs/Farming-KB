@@ -53,47 +53,13 @@ In nature, soil fertility is maintained by recycling organic matter.
 Gardeners, on the other hand, remove much of the organic material from
 the productive garden in the form of fruit and vegetables, and from the
 ornamental garden by weeding, pruning, mowing, and cutting flowers. This
-organic matter has to be replaced through the [[mollison-designers-composting-toilets-and-humanure]] heap,
-animal manure, and green-manure crops.
-
-## Improving on Nature
-
-Natural methods of sustaining plant growth were never intended to
-support the kinds of demands we make on our gardens. The technique
-itself is perfect, but to produce a good crop, we have to intensify it.
-The main ways of doing this are quite simple:
-
-- **Feeding the soil and improving its texture** through regular
-  additions of organic matter such as [[mollison-designers-composting-toilets-and-humanure]] and manure
+organic matter has to be replaced through the [[mollison-designers-composting-toilets-and-humanure]] and manure
 - **Protecting seeds during germination** by providing optimal
   conditions for sowing and early growth
 - **Making sure plants have adequate water** by supplementing rainfall
   during dry periods
 - **Being vigilant in controlling pests and diseases** through
-  [[hamilton-pest-and-disease-control-organic]] rather than chemicals
-
-## The Natural Cycle
-
-Every element of nature — animals, insects, plants, and soil — all work
-together to create a natural cycle of events in the garden. Leaves,
-fruit, and other vegetable matter fall to the ground and decay, adding
-vital organic matter to the soil. Plant roots take up nutrients which
-have been dissolved in the soil. Animals feed on the plants and manure
-the land. Dead animals decompose and return to the soil as humus.
-Burrowing animals, such as moles, worms, and insects, break up the
-soil, helping aeration and drainage.
-
-In the garden, the natural cycle can be mirrored. Fruit and vegetables
-can be grown successfully alongside a thriving natural community of
-small animals and useful insects. Adding organic matter from the compost
-heap and digging the soil imitates nature and maintains the natural
-cycle of soil fertility.
-
-## Key Benefits of Organic Gardening
-
-- Produces safe, flavorful, and chemical-free fruit and vegetables
-- Provides an alternative habitat for wildlife
-- Improves and maintains [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+  [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
   and fertility over the long term
 - Reduces dependence on expensive chemical inputs
 - Creates a self-sustaining garden ecosystem
@@ -116,31 +82,18 @@ most powerful tools available.
 
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[composting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
 - [[composting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-
 - [[mollison-designers-composting-toilets-and-humanure]] for recycling organic matter
-- [[hamilton-organic-pest-control]] for natural pest management
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding your soil
 - [[cannabis-organic-fertilizers]] for feeding the soil naturally

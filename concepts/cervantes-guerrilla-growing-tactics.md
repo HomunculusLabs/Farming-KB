@@ -141,8 +141,6 @@ or bird identification book.
 
 ## Related Topics
 
-- [[outdoor-cannabis-growing]]
 - [[cervantes-strain-selection]]
-- [[cervantes-mulch-outdoor-moisture-conservation]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[cervantes-temperature-management]]

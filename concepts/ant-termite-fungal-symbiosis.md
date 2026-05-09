@@ -126,13 +126,9 @@ These symbioses are important for:
 
 ## See Also
 
-- [[mckenna-leafcutter-ant-fungal-agriculture]]
 - [[termite-ant-fungus-gardens]]
 
-- [[arthropod-associated-fungi]]
 - [[cordyceps-and-entomopathogenic-fungi]]
-- [[fungal-beetle-symbiosis]]
 - [[fungal-symbiosis-types]]
-- [[fungal-roles-in-agriculture]]
 - [[fungal-insect-interactions-diversity]]
 - [[insect-associated-fungi-sampling-diversity]]

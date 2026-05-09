@@ -122,11 +122,7 @@ Fairy ring formations can create visible zones of enhanced and depleted grass gr
 
 ## See Also
 
-- [[lepista-nuda]]
 - [[pleurotus-ostreatus]]
-- [[agaricus-campestris]]
 - [[calocybe-gambosa]]
-- [[marasmius-oreades]]
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
+- [[trametes-versicolor-entity]]
 - [[macrolepiota-procera]]

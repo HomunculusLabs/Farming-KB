@@ -3,7 +3,7 @@ title: Fungal Allelopathy Mechanisms and Ecological Effects
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -111,13 +111,8 @@ Understanding the chemical ecology of fungal allelopathy is essential for managi
 
 ## Related Concepts
 
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
 - [[fungal-tannin-and-phenolic-decomposition]]
-- [[fungal-nitrogen-mineralization-pathways]]
 - [[fungal-invasive-species-and-exotic-pathogens]]
-- [[fungal-competition-antagonism-soil]]
 - [[fungal-enzymatic-capabilities]]
-- [[fungal-enzyme-systems-and-nutrient-cycling]]
 - [[fungal-saprotrophic-enzymatic-strategies]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[fungal-ecosystem-processes-overview]]

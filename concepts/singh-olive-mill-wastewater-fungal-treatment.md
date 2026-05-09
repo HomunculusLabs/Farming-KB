@@ -122,10 +122,6 @@ constants increasing as phenolic content and biotoxicity decrease.
 
 ## See Also
 
-- [[singh-ecology-of-mycoremediation]]
-
 - [[singh-fungal-treatment-industrial-wastewaters-overview]]
-- [[singh-fungal-immobilization-bioreactor-technology]]
 - [[singh-fungal-metabolism-phenols-chlorophenols]]
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-starch-oil-wastewater-fungal-treatment]]

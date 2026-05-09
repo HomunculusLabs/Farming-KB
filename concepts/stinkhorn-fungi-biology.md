@@ -3,15 +3,7 @@ title: Stinkhorn Fungi Biology
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md"
----
-# Stinkhorn Fungi Biology
-
-Stinkhorns are basidiomycete fungi in the order Phallales that produce striking phallic fruiting
-bodies emitting foul odors to attract insect dispersers. They belong to the broader group of
-[[gasteromycete-fungi-overview]] and represent some of the most bizarre organisms
+tags: [[gasteromycete-fungi-overview]] and represent some of the most bizarre organisms
 in the fungal kingdom.
 
 ## The Common Stinkhorn (Phallus impudicus)
@@ -84,14 +76,10 @@ making nutrients available to other organisms.
 
 ## Related Topics
 
-- [[gasteromycete-fungi-overview]] - Broader gasteromycete group
 - [[stinkhorns-and-cage-fungi]] - Related phallalean fungi
-- [[xerophilic-xerotolerant-fungi]] - Other gasteromycete dispersal strategies
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] - Puffballs and earth-stars
-- [[fungal-spore-biology]] - General spore dispersal
 - [[basidiomycete-phylum-guide]] - Higher-level classification
 
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds,
 and Mycologists" (Oxford University Press, 2002), Chapter 1.
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

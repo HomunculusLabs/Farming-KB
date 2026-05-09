@@ -1,7 +1,7 @@
 ---
 title: Endolithic and Rock-Dwelling Fungi
 created: 2026-04-28
-tags: [mycology, endolithic-fungi, lithophytes, extremophiles, geology]
+tags: [[mycology, endolithic-fungi, lithophytes, extremophiles, geology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -120,8 +120,6 @@ limits of life on Earth and potentially other planets.
 
 ## See Also
 
-- [[fungal-diversity-extreme-environments]]
 - [[biodiversity-lichenized-fungi-symbiosis]]
-- [[biodiversity-fungi-aquatic-environments]]
 - [[biodiversity-fungi-soil-ecosystems]]
 - [[cryptic-species-fungal-biodiversity]]

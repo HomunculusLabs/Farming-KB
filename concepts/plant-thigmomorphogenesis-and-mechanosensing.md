@@ -40,19 +40,7 @@ gradual exposure to wind before being transplanted outdoors.
 Research has shown that even brief, gentle touch can significantly alter gene
 expression. In Arabidopsis thaliana, touch stimulation rapidly upregulates a
 specific set of genes -- the TCH (touch) genes -- within minutes. TCH genes
-encode proteins involved in calcium signaling (calmodulin), cell wall
-modification (xyloglucan endotransglycosylase), and cytoskeletal reorganization.
-Remarkably, a single touch can alter the expression of over 2% of the
-Arabidopsis genome, underscoring the profound sensitivity of plants to
-mechanical stimuli.
-
-## The Venus Flytrap: Rapid Mechanosensing
-
-The Venus flytrap (Dionaea muscipula) represents one of the most dramatic
-examples of plant mechanosensing. Each trap contains three trigger hairs on its
-upper surface. When an insect touches two hairs within approximately twenty
-seconds, the trap snaps shut in roughly one-tenth of a second -- one of the
-fastest movements in the plant kingdom. The requirement for two touches within
+encode proteins involved in calcium signaling (calmodulin), [[plants-of-the-gods-plant-kingdom-classification]]. The requirement for two touches within
 a short time window prevents the plant from wasting energy closing on raindrops
 or debris.
 
@@ -88,33 +76,14 @@ that wraps the tendril around the support within hours. The second is a slower,
 whole-tendril coiling that develops over days and acts like a spring, drawing
 the plant closer to its support and providing elasticity that buffers against
 wind. The coiling direction is often species-specific and determined by the
-microfibril orientation in the tendril cell walls.
-
-The phytohormone auxin plays a key role in tendril responses. Upon contact,
-auxin redistribution occurs across the tendril, with higher concentrations on
-the side opposite the touch stimulus promoting greater cell elongation. This
-auxin-mediated differential growth is the same basic mechanism that drives
-phototropism and gravitropism, repurposed for mechanical sensing.
-
-## Root Mechanosensing and Soil Navigation
-
-Roots are exquisitely sensitive to mechanical obstacles in the soil. When a
+m [[query-how-do-i-restore-saline-and-compacted-soil]] soil. When a
 growing root encounters a barrier -- a rock, a compacted soil layer, or
 another root -- it changes its growth direction to navigate around the
 obstruction. This response, called root obstacle avoidance, involves
 mechanosensitive ion channels in the root cap cells that detect pressure and
 trigger changes in auxin transport.
 
-Roots also exhibit a thigmotropic response to surface texture, preferring to
-grow along smooth surfaces rather than rough ones. In some species, roots can
-sense the difference between their own roots and those of other plants of the
-same or different species, adjusting their growth patterns accordingly. This
-ability to discriminate between self and non-self roots suggests a level of
-mechanosensory sophistication that extends beyond simple pressure detection.
-
-## Calcium Signaling in Mechanoresponses
-
-Calcium ions (Ca2+) serve as the primary second messenger in plant
+Roots also exhibit a thigmotropic response to surface texture, preferring to [[the-vacuole-and-tonoplast-in-plant-cell-regulation]] s the primary second messenger in plant
 mechanoresponses. When a plant cell experiences mechanical stimulation,
 mechanosensitive calcium channels in the plasma membrane open, allowing a rapid
 influx of extracellular calcium into the cytoplasm. This calcium spike acts as
@@ -130,8 +99,6 @@ subsequent stimuli. This temporal precision enables plants to distinguish
 between different patterns of mechanical stimulation.
 
 ## See Also
-
-- [[plant-olfaction-and-volatile-signaling]]
 
 - [[plant-memory-and-priming]]
 

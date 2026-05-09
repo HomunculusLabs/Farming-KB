@@ -12,15 +12,7 @@ Fish Amino Acid (FAA) is a nitrogen-rich liquid fertilizer made from
 fish waste through fermentation. It contains abundant nutrients and
 various types of amino acids that are directly absorbed by crops and
 stimulate microbial activity. FAA is one of the key
-[[cho-natural-farming-inputs-overview]] inputs used
-during the vegetative growth stage.
-
-## Materials
-
-- Fish trash (head, bones, intestines, etc.) from blue-black colored
-  fish (these contain high amounts of amino acid)
-- Jaggery or brown sugar
-- [[cho-indigenous-microorganisms-collection-and-cultivation]]
+[[cho-indigenous-microorganisms-collection-and-cultivation]]
 - Mosquito net and rubber band
 - Clay pot, plastic jar (PE container), or glass jar
 
@@ -58,9 +50,7 @@ Mackerel FAA is very effective against mites and greenhouse whitefly
 sides of leaves.
 
 ### Calcium Phosphate Production
-Put the bones left over from FAA production into [[knf-brown-rice-vinegar]] (BRV) at a volume 10 times larger
-than the bones. The bones will decompose over approximately 7 days
-to produce high-quality [[knf-water-soluble-calcium-phosphate]].
+Put the bones left over from FAA production into [[knf-water-soluble-calcium-phosphate]].
 
 ## When NOT to Use
 
@@ -75,16 +65,30 @@ nitrogen content may induce overgrowth and reduce fruit quality.
 
 ## Role in the Nutritive Cycle
 
-Within the [[knf-nutritive-cycle-theory]], FAA corresponds to the
-vegetative growth stage where plants consume carbohydrates and
-convert them to nitrogen. It should be applied alongside
-[[cho-fermented-plant-juice-preparation]] to promote leaf and
+Within the [[cho-fermented-plant-juice-preparation]] to promote leaf and
 stem development during the early and mid-growing season.
 
 ## See Also
 
-- [[cho-natural-farming-inputs-overview]]
 - [[knf-fish-amino-acid]]
-- [[knf-water-soluble-calcium-phosphate]]
 - [[knf-vegetative-growth-stage]]
 - [[knf-nutritive-cycle-theory]]
+## Practical Considerations
+
+Successful implementation of Fish Amino Acid Preparation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - raw/papers/farmers-of-forty-centuries-f-h-king.md
 ---
 # DMT Smoking Technique and Preparation
 
@@ -114,11 +115,7 @@ When combining DMT with MAOI-containing herbs (changa with caapi leaf), dietary 
 - Integration: journal, discuss with trusted friends, allow time for processing
 
 ## Related
-- [[5-meo-dmt-compound-profile]] — for chemistry and pharmacology
 - [[beta-carboline-chemistry]] — for oral DMT (with MAOI)
-- [[psychedelic-experience-stages]] — for the experiential framework
 - [[psychedelic-mushroom-set-and-setting]] — for set and setting
-- [[psychedelic-safety-and-harm-reduction]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-- [[psychedelic-mushroom-dosage-guide]]
 - [[psychedelic-mushroom-pharmacology]]

@@ -3,13 +3,7 @@ title: "Comparison Backyard Food Forest Vs Urban Permaculture"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison
-tags: [permaculture]
-sources:
-  - "raw/papers/nutrient-and-dynamic-accumulators.md"
-  - "raw/papers/unknown-nutrient-and-dynamic-accumulators.md"
----
----
-title: "Backyard Food Forest vs Urban [[permaculture]]"
+tags: [[permaculture]]"
 tags: [comparison, permaculture, food-forest, urban-gardening, design]
 date: 2026-04-25
 updated: 2026-04-25
@@ -20,16 +14,7 @@ sources: []
 
 ## Overview
 
-Backyard food forests and urban [[permaculture-design]] both apply ecological principles to food
-production in human-managed landscapes, but they differ significantly in scale, structure, and the
-constraints they work within. A backyard food forest mimics a multi-layered forest ecosystem on a
-suburban or rural residential lot, while urban permaculture adapts those principles to the extreme
-constraints of balconies, rooftops, vacant lots, and small urban yards. Understanding their
-differences helps growers select the right framework for their site conditions, space, and goals.
-
-## Backyard Food Forest
-
-[[backyard-food-forest-design]]
+Backyard food forests and urban [[backyard-food-forest-design]]
 
 A backyard food forest is a multi-layered edible garden modeled on natural forest ecosystems,
 typically occupying 1/8 to 1/4 acre. The design is organized into seven vertical layers: canopy
@@ -54,35 +39,9 @@ to position windbreaks, shade trees, and earthworks for maximum benefit.
 Backyard food forests require significant upfront investment in tree planting and establishment but
 decrease in labor over time as the ecosystem matures. The design assumes reasonable soil depth,
 adequate sunlight, and enough space for canopy trees to mature. Water management typically
-incorporates swales, [[hugelkultur-beds]], and rain gardens to capture and infiltrate rainfall on-site,
-reducing irrigation dependency while recharging groundwater.
+incorporates swales, [[urban-permaculture-design]]
 
-## Urban Permaculture
-
-[[urban-permaculture-design]]
-
-Urban permaculture adapts [[zone-and-sector-analysis]], guild design, and closed-loop systems to
-constrained environments including balconies, rooftops, vacant lots, and community gardens. Core
-principles for small spaces include stacking functions, using vertical space to multiply growing
-area, closing nutrient loops through composting and water harvesting, observing microclimates
-created by buildings, and intensively managing small areas. Community gardens serve as a
-particularly important expression of urban permaculture, converting vacant lots into productive
-shared spaces that build social connections alongside food.
-
-Container growing is the foundation of most urban permaculture systems. Self-watering wicking beds,
-fabric grow bags, and recycled containers allow food production on concrete surfaces, balconies,
-and rooftops where no soil exists. Soil mixes are custom blended from compost, coco coir, perlite,
-and vermicompost to balance water retention with aeration. Container gardens require more frequent
-watering and feeding than in-ground beds, but offer precise control and seasonal flexibility.
-
-Vertical systems multiply productive area where horizontal square footage is limited. Trellises,
-wall-mounted pocket planters, hanging baskets, and tiered shelving transform walls and railings into
-growing surfaces. Espalier fruit trees against walls bring the canopy layer to narrow side yards,
-while climbing beans, cucumbers, and indeterminate tomatoes exploit overhead space. These vertical
-elements also create microclimates by casting shade, blocking wind, and trapping heat.
-
-Microclimate management becomes a critical skill in urban environments. Thermal mass from concrete
-and brick walls absorbs heat during the day and releases it at night, [[extending-growing-season]].
+Urban permaculture adapts [[extending-growing-season]].
 Reflective surfaces like white-painted walls maximize available light in shaded courtyards. Wind
 protection from railing-mounted fabric creates sheltered zones on exposed balconies and rooftops.
 Water harvesting from small roof areas into 55-gallon drum systems provides irrigation without

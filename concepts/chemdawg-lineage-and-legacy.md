@@ -105,21 +105,7 @@ The effects vary by phenotype from body-focused relaxation to energetic and cere
 making it a versatile option for both recreational and medical users seeking the Chemdawg
 experience with additional therapeutic potential.
 
-### East Coast [[sour-diesel]]
-
-Bred by Illuminati Seeds (Inkognyto), this clone-only strain combines Original Diesel and DNL,
-both descended from the Chemdawg line. East Coast Sour Diesel represents a counterpoint to the
-many West Coast versions of Sour Diesel, delivering an electric head rush and euphoria followed
-by heavy muscle relaxation and pain relief.
-
-The fact that it is clone-only has contributed to its mystique and desirability in the cannabis
-community, as cuttings can be difficult to obtain and must be maintained through careful cloning
-practices.
-
-### Sour Diesel #2
-
-Another Humboldt Seed Organisation offering, Sour Diesel #2 brings together Original Diesel and
-DNL. The DNL parent contributes genetics from RFK Skunk, [[northern-lights]], and Hawaiian Sativa,
+### East Coast [[northern-lights]], and Hawaiian Sativa,
 creating a more complex genetic background than the name might suggest. This strain finishes in
 about 9 weeks indoors and produces an earthy, darker take on the classic Diesel flavor profile,
 with supertasters potentially detecting hints of pine.
@@ -139,8 +125,6 @@ influence new breeding programs.
 ## See Also
 
 - Diesel Strain Family
-
-- [[sour-diesel-cannabis]]
 
 - [[cannabis-landrace-strains]]
 

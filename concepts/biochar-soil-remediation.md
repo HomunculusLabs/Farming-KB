@@ -50,7 +50,7 @@ By immobilizing metals and reducing their bioavailability, biochar can protect r
 
 The combination of biochar with hyperaccumulator plants can enhance phytoremediation efficiency. Biochar immobilizes the most bioavailable and toxic fraction of metals while plants accumulate the remaining bioavailable fraction, and soil microbial processes gradually degrade organic contaminants. Over time, repeated cropping and biochar aging can progressively reduce total contaminant concentrations and bioavailability.
 
-See [[phytoremediation-mechanisms]] for details on plant-based remediation strategies and [[phytomining]] for metal recovery from hyperaccumulator biomass.
+See [[phytomining]] for metal recovery from hyperaccumulator biomass.
 
 ## Biochar and Microbial Remediation
 
@@ -78,13 +78,7 @@ Life cycle assessment studies generally indicate that biochar application for so
 
 ## See Also
 
-- [[comparison-biochar-remediation-vs-phytoremediation]]
-
-- timothy leary — biochar production and properties
-- richard evans schultes updated — biochar for agricultural soil improvement
 - [[biochar-soil-amendment]] — biochar as a soil amendment
-- [[biochar-production-guide]] — biochar production methods
 - [[phytoremediation-mechanisms]] — plant-based contaminant removal
-- [[fungal-bioremediation]] — fungal approaches to remediation
 - [[biostimulation-techniques]] — stimulating microbial degradation
 - [[comparison-biochar-in-agriculture-vs-biochar-soil-remediation]]

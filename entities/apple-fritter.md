@@ -138,12 +138,7 @@ Apple Fritter is considered **moderately difficult** to cultivate, requiring som
 1. **Limonene** — Citrus aroma; mood elevation, stress relief
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[sour-diesel]]
-- [[wedding-cake-cannabis]]
-
 - [[girl-scout-cookies]] — Grandparent strain via Animal Cookies
-- [[sour-diesel]] — Ancestor via Sour Apple
 - [[gelato-cannabis]] — Related dessert-profile hybrid
-- [[wedding-cake-cannabis]] — Another Cookies-lineage dessert strain
 - [[limonene]] — Primary terpene

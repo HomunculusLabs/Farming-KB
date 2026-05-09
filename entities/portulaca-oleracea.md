@@ -129,10 +129,7 @@ sources:
 - **C4/CAM photosynthesis:** Rare metabolic pathway of botanical interest
 
 ## See Also
-- [[alpha-n-dmt-entity-tihkal]] — Omega-3 fatty acid; purslane is a top plant source
 - [[glutathione-conjugation]] — Tripeptide antioxidant found at high levels in purslane
-- [[melatonin-entity-tihkal]] — Hormone/antioxidant present in purslane tissues
 - [[dynamic-accumulators]] — Permaculture concept; purslane mines K and Mg
-- [[ground-cover-plants]] — Living mulch strategy; purslane as functional ground cover
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] — Purslane uses rare C4/CAM intermediate pathway
 - [[mollison-designers-chickweed-and-edible-weeds]] — Category of nutritious plants commonly dismissed as weeds

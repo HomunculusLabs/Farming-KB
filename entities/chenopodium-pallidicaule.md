@@ -104,17 +104,10 @@ Research into industrial applications includes starch extraction for food additi
 
 ## See Also
 
-- [[chenopodium-quinoa]]
 - [[amaranthus-caudatus]]
-- [[amaranthus-hypochondriacus]]
 - [[fagopyrum-esculentum]]
-- [[spinacia-oleracea]]
 - [[sorghum-bicolor]]
-- [[eleusine-coracana]]
 - [[pennisetum-glaucum]]
-- [[coix-lacryma-jobi]]
 - [[oryza-sativa]]
-- [[cicer-arietinum]]
 - [[lens-culinaris]]
-- [[phaseolus-vulgaris]]
 - [[glycine-max]]

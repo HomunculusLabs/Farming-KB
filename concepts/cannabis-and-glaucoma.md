@@ -12,50 +12,7 @@ sources:
 
 updated: 2021-04-18
 
-Glaucoma is one of the most well-documented medical applications of cannabis, dating back to the 1970s. Research from The Cannabis Health Index documents the ability of [[cannabis-minor-cannabinoids]] to reduce intraocular pressure (IOP), the primary risk factor for glaucoma progression.
-
-## Key Clinical Studies
-
-### The Discovery
-**Hepler and Frank (1971)**: "Marihuana smoking and intraocular pressure." Journal of the American Medical Association 217(10):1392.
-
-This landmark study first demonstrated that smoking cannabis reduces intraocular pressure, launching decades of research into cannabinoids and glaucoma.
-
-### Oral THC and Intraocular Pressure
-**Crawford and Merritt (1979)**: "Effects of tetrahydrocannabinol on arterial and intraocular hypertension." International Journal of Clinical Pharmacology.
-
-Oral THC effectively reduced both arterial and intraocular hypertension, establishing that the IOP-lowering effect does not require smoking.
-
-### Sublingual Cannabinoids
-**Tomida et al. (2006)**: "Effect of sublingual application of cannabinoids on intraocular pressure: A pilot study." Journal of Glaucoma 15(5):349-53.
-
-Sublingual application of cannabinoids reduced intraocular pressure, offering an alternative to smoking for glaucoma patients.
-
-### Topical THC
-**Merritt et al. (1981)**: "Topical delta 9-tetrahydrocannabinol and aqueous dynamics in glaucoma." Journal of Clinical Pharmacology.
-
-Topical application of delta-9-THC affected aqueous humor dynamics, suggesting the possibility of eye drop formulations.
-
-### Dronabinol and Retinal Hemodynamics
-**Plange et al. (2007)**: "Dronabinol and retinal hemodynamics in humans." American Journal of Ophthalmology 143(1):173-74.
-
-Dronabinol (synthetic THC, Marinol) affected blood flow to the retina, which may be relevant beyond IOP reduction.
-
-### Cannabinoid Receptor Mechanism
-**Song and Slowey (2000)**: "Involvement of cannabinoid receptors in the intraocular pressure-lowering effects of WIN55,212-2." Journal of Pharmacology and Experimental Therapeutics 292(1):136-39.
-
-The IOP-lowering effect is mediated through cannabinoid receptors (both CB1 and CB2), confirming a specific pharmacological mechanism rather than a general effect.
-
-### Smoking vs. Cannabinoids
-**Green (1998)**: "Marijuana smoking vs cannabinoids for glaucoma therapy." Archives of Ophthalmology 116(11):1433-37.
-
-This review compared the risks and benefits of smoking whole cannabis versus isolated cannabinoid preparations for glaucoma treatment.
-
-## Other Eye Conditions
-
-### Uveitis
-Three studies document cannabinoid effectiveness for uveitis (eye inflammation):
-- **Toguri et al. (2014)**: CB2 receptor activation showed [[cannabis-anti-inflammatory-applications]] effects in endotoxin-induced uveitis (British Journal of Pharmacology)
+Glaucoma is one of the most well-documented medical applications of cannabis, dating back to the 1970s. Research from The Cannabis Health Index documents the ability of [[cannabis-anti-inflammatory-applications]] effects in endotoxin-induced uveitis (British Journal of Pharmacology)
 - **El-Remessy et al. (2008)**: CBD showed neuroprotective effects in endotoxin-induced uveitis via p38 MAPK inhibition (Molecular Vision)
 - **Xu et al. (2007)**: CB2-selective agonist JWH-133 showed anti-inflammatory property in autoimmune uveoretinitis (Journal of Leukocyte Biology)
 
@@ -109,14 +66,29 @@ While cannabis clearly reduces IOP, modern ophthalmology has effective pharmaceu
 
 ## Related Topics
 
-- [[cannabis-endocannabinoid-system]]
-- Cannabis For Inflammation
 - [[cannabis-for-neuropathic-pain]]
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Eye Disease and Eye Function section
-- [[blesching-cannabis-neuropathic-pain]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-mind-body-medicine-integration]]
+## Practical Considerations
+
+Successful implementation of Cannabis And Glaucoma requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

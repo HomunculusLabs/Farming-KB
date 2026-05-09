@@ -85,11 +85,7 @@ After a quarter century of trials, Kidd (2000) concluded: "the cumulative human 
 
 ## See Also
 
-- [[cancer-beta-glucan-pharmacology]]
 - [[cancer-immune-modulation-mechanisms]]
-- [[mushroom-cancer-clinical-trials-overview]]
-- cancer integration conventional treatment
 - [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[cancer-medicinal-mushrooms-maitake-d-fraction]]
 - [[cancer-agaricus-blazei]]
 - [[cancer-chaga-research]]

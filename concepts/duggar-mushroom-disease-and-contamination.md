@@ -84,10 +84,7 @@ After beds cease to be productive:
 
 ## Related
 
-- [[pine-disease-and-matsutake-mushroom-decline]]
-
 - [[verticillium-dry-bubble-mushroom-disease]] Concepts
 
-- [[duggar-mushroom-growing-room-design]] - Environmental management
 - [[duggar-mushroom-harvest-and-post-harvest]] - Handling mushrooms to prevent contamination
-- [[duggar-mushroom-spawn-preparation]] - Preventing disease in [[spawn-production]]
+- [[spawn-production]]

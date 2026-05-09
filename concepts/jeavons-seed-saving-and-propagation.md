@@ -123,9 +123,6 @@ Root growth is stimulated more during the third quarter of each 28-day period, a
 
 ## See Also
 
-- [[grass-seed-water-absorption-and-moisture-calibration]]
-
 - [[home-garden-seed-saving]]
-- [[jeavons-flat-preparation-seedling-raising]]
 - [[jeavons-garden-planning-mini-farm-design]]
 - [[jeavons-grow-biointensive-method-overview]]

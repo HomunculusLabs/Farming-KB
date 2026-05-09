@@ -88,12 +88,7 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
-- [[fukuoka-semi-wild-vegetable-growing-techniques]]
-
 - [[fukuoka-vegetable-growing-natural-method]]
-- [[fukuoka-natural-vegetable-growing]]
 - [[fukuoka-fertilizer-critique-detailed]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[fukuoka-crop-rotation-natural-farming]]
-- [[fukuoka-crop-rotation-and-natural-weeds]]
 - [[growing-vegetables-with-less-fertilizer]]

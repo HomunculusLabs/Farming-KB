@@ -135,9 +135,6 @@ While composting is central, Ozier notes that broader soil building strategies i
 
 ## See Also
 
-- [[ozier-pdc-ecological-design]]
 - [[ozier-pdc-forest-succession-and-layers]]
-- [[gaias-garden-bringing-the-soil-to-life]]
 - [[gaias-garden-compost-worm-methods]]
-- [[faires-permaculture-soil-and-sheet-mulching]]
 - [[compost-biology-soil-food-web-inoculation]]

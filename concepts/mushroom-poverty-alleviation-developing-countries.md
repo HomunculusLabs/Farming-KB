@@ -51,17 +51,7 @@ Kathmandu valley and 6,000 in other districts. The technology spread rapidly
 because poor farmers could adopt it on a small scale. Women farmers particularly
 benefit, as mushroom growing fits between household responsibilities. Average
 net profit ranges from NPR12,850 to NPR21,850 (USD160-270) per 2-month crop
-cycle from 100 bags. See also [[oyster-mushroom-cultivation-economics]].
-
-### Zimbabwe
-
-With over 70% of the population of 1.4 million living with HIV-AIDS and
-widespread protein malnutrition, Zimbabwe has embraced mushroom cultivation as a
-tool for income generation and food security. The Chakowa Orphanage Group,
-supported by the Intermediate Technology Development Group (ITDG), trains
-orphans and community members in oyster mushroom production. Oyster mushrooms
-show higher profitability than maize or wheat in comparative analysis. See also
-[[mushroom-industry-african-countries]].
+cycle from 100 bags. See also [[mushroom-industry-african-countries]].
 
 ### India
 
@@ -121,30 +111,6 @@ Two primary models for mushroom project implementation exist:
 
 The farmer's field school concept of training, using a participatory approach
 that includes trainees in every decision-making step, has proven effective. See
-also [[mushroom-training-incubation-management]].
-
-## Profitability Comparisons
-
-In Zimbabwe, comparative analysis showed that oyster mushroom cultivation
-(ZWD2,400,000 gross income from 20m2) outperformed both maize (ZWD1,050,000
-per ha) and wheat (ZWD2,000,000 per ha) in terms of net income per unit area
-and time. Five crops of oyster mushroom can be produced per year versus one
-crop of maize or wheat.
-
-In India, earning rates vary from 37% to 59% depending on whether growers use
-their own raw materials, seasonal versus year-round production, and the type of
-growing structure employed.
-
-## Role of International Organizations
-
-Organizations such as ITDG (Intermediate Technology Development Group), UNDP
-(United Nations Development Programme), and ZERI (Zero Emissions Research and
-Initiatives) have played instrumental roles in facilitating training and
-technology transfer across Africa and Asia.
-
-## Related Concepts
-
-- [[mushroom-industry-african-countries]]
-- [[mushroom-training-incubation-management]]
+also [[mushroom-industry-african-countries]]
 - [[mushroom-cultivation-disabilities-marketing-and-enterprise]]
 - [[oyster-mushroom-cultivation-economics]]

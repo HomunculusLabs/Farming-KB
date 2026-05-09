@@ -24,32 +24,6 @@ designers to select the right tool, or combination of tools, for a given site an
 
 ## Swale Design
 
-[[swale-design]]
-
-Swales are level channels dug on contour to intercept, slow, and infiltrate surface water runoff into the landscape.
-They are among the most important earthworking tools in permaculture, serving as the primary means of rehydrating
-degraded landscapes, preventing erosion, and establishing tree crops on previously arid or marginal land. A swale is
-fundamentally different from a drain: a drain removes water from the landscape, while a swale keeps it on the land where
-it can support biological productivity.
-
-Contour identification is the critical first step in swale construction. An A-frame level, bunyip water level, or laser
-level is used to mark precise level lines across the slope. Even small deviations from true contour can cause water to
-pool at one end and overflow at the other, undermining the entire system. On larger properties, multiple parallel swales
-are spaced according to slope gradient, soil type, and rainfall intensity to ensure complete capture of surface runoff.
-
-Berm construction follows excavation. The berm is the mound of earth on the downslope side, formed from material
-excavated from the swale ditch on the upslope side. Berm height should equal the excavation depth, and the berm must be
-compacted and immediately planted with deep-rooted perennials, nitrogen-fixing shrubs, and food-bearing trees to
-stabilise the soil. The spillway, a level section of the berm, allows controlled overflow to the next swale below during
-extreme rainfall events.
-
-Swales create moist planting zones that reduce or eliminate irrigation needs for tree crop systems established on their
-berms. By infiltrating water into the soil profile rather than allowing it to run off, swales promote deep groundwater
-recharge that sustains vegetation through dry periods. They are typically 1-2 metres deep and 2-4 metres wide for
-broadacre applications, or 30-60 cm deep and 60-100 cm wide for home gardens and urban food forests.
-
-## Rainwater Harvesting
-
 [[urban-permaculture-rainwater-harvesting-graywater]]
 
 Rainwater harvesting captures water from roof surfaces and stores it in containers for later use. Systems range from
@@ -136,7 +110,5 @@ across their site through seasons and years.
 
 ## See Also
 
-- [[comparison-rainwater-vs-greywater]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
-- [[comparison-swale-design-vs-hugelkultur]]
 - [[water-catchment-permaculture]]

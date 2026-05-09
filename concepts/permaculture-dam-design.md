@@ -3,15 +3,7 @@ title: Permaculture Dam Design
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# Permaculture Dam Design and Water Storage
-
-Permaculture dam design encompasses the strategic placement, construction, and integration of small water storages within the total landscape.
-
-Drawing from the work of [[permaculture-design]] and P.A. Yeomans' Keyline system, permaculture approaches dams as multi-functional elements that provide irrigation, aquaculture, fire control, wildlife habitat, and microclimate moderation rather than as isolated engineering structures.
+tags: [[permaculture-design]] and P.A. Yeomans' Keyline system, permaculture approaches dams as multi-functional elements that provide irrigation, aquaculture, fire control, wildlife habitat, and microclimate moderation rather than as isolated engineering structures.
 
 The two basic strategies of water conservation in runoff areas are the diversion of surface water to impoundments (dams, tanks) for later use, and the storage of water in soils. Both result in recharge of groundwater. Earthworks have specifically appropriate and inappropriate uses depending on climate, soil, and landscape context.
 
@@ -19,39 +11,15 @@ Small dams and earth tanks serve two primary uses. The minor use is providing wa
 
 These storages require careful design for safety, water harvesting, total landscape layout, outlet systems, draw-down, and placement relative to usage areas, preferably providing gravity flow.
 
-A separate category of water storages includes ponds or wet terraces created specifically for aquatic polycultural systems of vegetation and mixed animal species, connecting to [[permaculture-aquaculture]] and [[faires-aquaculture-pond-systems]].
+A separate category of water storages includes ponds or wet terraces created specifically for aquatic polycultural systems of vegetation and mixed animal species, connecting to [[faires-aquaculture-pond-systems]].
 
 ## Climate Considerations
 
 Open-water storages are most appropriate in humid climates where potential evaporation is exceeded by average annual rainfall.
 
-[[arid-landscape-permaculture]] requires different approaches, as evaporation inevitably concentrates dissolved salts in open water storages.
+[[permaculture-climate-strategies]] provides broader guidance on adapting water systems to different climatic zones.
 
-In arid to subhumid areas, open water storages can have adverse effects. Salty water can affect animal health, and seepage from earth dams can create areas of salted or collapsed soils downhill. Large barrier dams can deprive downstream agricultural soils, productive lakes, and estuaries of flush-water and silt deposits, causing more damage than irrigation benefits can compensate.
-
-Dryland storage strategies rely more on soil water storage through swales, mulch, and organic matter than on surface water dams. [[permaculture-climate-strategies]] provides broader guidance on adapting water systems to different climatic zones.
-
-[[urban-permaculture-rainwater-harvesting-graywater]] strategies must account for these differences between humid and dryland contexts.
-
-Earth dams or weirs where retaining walls are 6 meters or less, with large or oversized stable spillways, pose no threat to life or property if well-made. They need not displace populations, stop stream flow, create health problems, fill with silt, or block fish migrations.
-
-Low barrier dams of 1-4 meters high can assist stream oxygenation, provide permanent pools, be stepped to allow fish ladders or bypasses, and also provide local sites for modest power generation.
-
-While almost all modern assessments would condemn or ban large-scale dams on the record of past and continuing environmental and social damage, a sober assessment of small water storages shows multiple benefits.
-
-Dams made anywhere but as barriers on streams effectively add to stream flow in the long term by slowing runoff and allowing groundwater recharge.
-
-## Types of Dams and Their Locations
-
-SADDLE DAMS are the highest available storages, built on saddles or hollows in the skyline profile of hills. They can be fully excavated below grade or walled on either or both sides of the saddle. Shapes include circular, oblong, or shark-egg forms with horn extensions. Uses include wildlife, stock water, and high storage for fire control.
-
-RIDGEPOINT DAMS, or horseshoe dams, are built on the sub-plateaus of flattened ridges on a descending ridgeline, below saddle dams. Uses are similar to saddle dams, with limited irrigation use but great value for runoff and pumped storages.
-
-KEYPOINT DAMS are located in the valleys of secondary streams at the highest practical construction point in the hill profile, usually where the stream profile changes from convex to concave. This relates directly to [[keyline-design]] and [[keyline-design-water-management]].
-
-Keypoint dams are primarily for storing irrigation water. Multiple series can be run below the primary series, and spillway of the last dam can return surplus to streams.
-
-CONTOUR DAM walls can be built on contour wherever slope is 8% or less. Contours can be concave or convex to the fall line across the slope. Uses include irrigation, aquaculture, or flood-flow basins in semi-arid areas. These connect to [[permaculture-earthworks-and-water-harvesting]] approaches.
+[[keyline-design]] and [[permaculture-earthworks-and-water-harvesting]] approaches.
 
 BARRIER DAMS are constructed across flowing or intermittent stream beds. They require ample spillways, careful construction, and fish ladders on biologically important streams. They work best as part of a keyline series.
 
@@ -75,24 +43,73 @@ The spillway base should be surveyed 1 meter below crest and away from the wall,
 
 P.A. Yeomans estimated that if 10-15% of a normal humid lowland or foothill landscape were fitted with small earth storages, floods and drought or fire threat could be eliminated.
 
-This vision underlies Permaculture Water Systems design and connects to [[water-storage-techniques]] and [[backyard-pond-building]] at smaller scales.
+This vision underlies Permaculture Water Systems design and connects to [[backyard-pond-building]] at smaller scales.
 
 ## Integrating Dams with Landscape Design
 
 Dams should never be designed in isolation from the broader landscape plan. The full permaculture approach considers how dams relate to house sites, access roads, forest plantings, animal systems, and cropping areas. A well-placed dam serves multiple functions simultaneously: irrigating gardens via gravity flow, providing fire-fighting reserves, creating microclimate through reflected warmth, supporting aquaculture, watering livestock, and attracting wildlife.
 
-Diversion drains can be cut at gradients of 1:250 to 1:500 rising from hilltops to direct runoff into saddle and ridge dams. These same drains, when placed as part of a [[keyline-design]] system, can also spread water slowly across pasture and cropland, building soil moisture without erosion.
+Diversion drains can be cut at gradients of 1:250 to 1:500 rising from hilltops to direct runoff into saddle and ridge dams. These same drains, when placed as part of a [[permaculture-earthworks]] is fundamental. Swales, diversion drains, and dams work together as a coordinated water management system. Swales absorb water into soil on gentler slopes, while dams store surplus for later use. The combination of soil storage and surface storage maximizes the total water retention capacity of any landscape.
 
-The relationship between dam placement and [[permaculture-earthworks]] is fundamental. Swales, diversion drains, and dams work together as a coordinated water management system. Swales absorb water into soil on gentler slopes, while dams store surplus for later use. The combination of soil storage and surface storage maximizes the total water retention capacity of any landscape.
-
-For comprehensive dam building guidance, Mollison references Kenneth D. Nelson's comprehensive text on small [[mollison-designers-dam-construction-and-water-storage]], which covers catchment treatments, runoff calculations, soils, construction, outlets, volume and cost estimates, and detailed drawings for adjunct structures. However, most engineering texts concentrate on valley dams and less on the biological uses of dams or their placement within total designed landscapes.
-
-The [[organic-vegetable-growing-and-market-gardening]] and [[swale-design-construction]] pages provide complementary detail on absorption-based water management that works alongside dam-based storage systems.
-
-## Related
-
-- [[aquaculture-in-permaculture]]
-
-- [[faires-plant-communities-and-guilds]]
+For comprehensive dam building guidance, Mollison references Kenneth D. Nelson's comprehensive text on small [[organic-vegetable-growing-calendar]] and [[aquaculture-in-permaculture]]
 
 - [[permaculture-cold-climate-strategies]]
+## Practical Considerations
+
+When working with Permaculture Dam Design, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

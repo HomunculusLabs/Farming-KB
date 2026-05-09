@@ -141,9 +141,6 @@ the plant partner.
 
 ## See Also
 
-- [[mycorrhizal-symbiosis]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-associations]]
 - [[mycorrhizal-siderophores]]
-- [[mycorrhiza-root-exudates]]
 - [[fungal-plant-defense]]

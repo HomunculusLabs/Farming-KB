@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Mimosa tenuiflora** (syn. *Mimosa hostilis*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through Central America to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] [[pioneer-species-selection-for-permaculture-systems]] with significant applications in ecological restoration and permaculture.
+**Mimosa tenuiflora** (syn. *Mimosa hostilis*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through Central America to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[pioneer-species-selection-for-permaculture-systems]] with significant applications in ecological restoration and permaculture.
 
 ## Taxonomy
 
@@ -106,15 +106,7 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 ### Indigenous Maya Use
 
 - Evidence of *M. tenuiflora* use in Maya ceremonial contexts in southern Mexico and Guatemala
-- Archaeological findings of [[dmt-containing-plants-and-maoi-combination]] residue in Maya ritual vessels
-
-## Ecological Role and Permaculture Applications
-
-### Nitrogen Fixation
-
-- **Rhizobial symbiosis**: *M. tenuiflora* forms nitrogen-fixing nodules with Bradyrhizobium and Rhizobium species, contributing 20–60 kg N/ha/year to the soil
-- **Pioneer species**: One of the first woody species to colonize degraded land in the Caatinga; creates favorable conditions for succession by improving soil fertility
-- **[[leaf-litter-microfungal-diversity-tropical-temperate]]**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant organic matter and nutrients to soil
+- Archaeological findings of [[leaf-litter-microfungal-diversity-tropical-temperate]]**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant organic matter and nutrients to soil
 
 ### Ecological Restoration
 
@@ -144,6 +136,5 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 - **Wound healing**: Promotes fibroblast proliferation, collagen synthesis, and epithelialization; the combination of tannins (astringent), flavonoids (anti-inflammatory), and mucilages (moisture retention) provides a multi-mechanism approach
 ## See Also
 
-- [[agroforestry]]
 - [[bacillus-subtilis]]
 - [[candida-albicans]]

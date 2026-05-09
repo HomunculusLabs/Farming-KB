@@ -450,7 +450,7 @@ though moderate culinary use is generally considered safe.
 
 ## See Also
 
-- [[comfrey-as-dynamic-accumulator]]
+- [[mollison-designers-dynamic-accumulators-comfrey]]
 - [[nutrient-and-dynamic-accumulators]]
 - [[chop-and-drop-mulching]]
 - [[medicinal-herb-growing-guide]]

@@ -97,31 +97,9 @@ potentially effective for:
 
 - Pain management without significant psychoactive effects
 - Anxiety reduction
-- [[cannabis-anti-inflammatory-applications]]
-- Seizure disorder management (CBD's anti-convulsant properties)
-- Producing therapeutic hash and oils for patient use
-
-## Potency
-
-Harlequin has a unique cannabinoid profile with approximately 2% THC and 4%
-CBD. This inverse ratio, where CBD exceeds THC, is relatively rare in cannabis strains and is the defining characteristic that makes Harlequin
-valuable for medical applications.
-
-## Classification
-
-Harlequin is classified as a sativa-dominant hybrid. Its four-way genetic
-cross gives it a complex heritage that combines sativa effects with indica
-structural traits, resulting in a plant that is both therapeutically
-valuable and relatively easy to cultivate.
-
-## See Also
-
 - [[strawberry-banana]]
 
-- [[harlequin-cannabis]]
-
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
-- [[cannabidiol-cbd]] - Information on CBD and its therapeutic applications
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]] - Cannabis for therapeutic use
 - terpenes - Aromatic compounds in cannabis
 

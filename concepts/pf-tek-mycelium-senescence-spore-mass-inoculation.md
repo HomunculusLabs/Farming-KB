@@ -111,10 +111,6 @@ Cultivators face a fundamental tension between consistency and longevity. Clonin
 
 ## See Also
 
-- [[pf-tek-mushroom-life-cycle-timeline]]
-- [[pf-tek-non-germ-spore-syringe-technique]]
 - [[pf-tek-perlite-humidification-technique]]
-- [[pf-tek-alcohol-extraction-method]]
 - [[mckenna-abandonment-of-mystery-four-stages]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]

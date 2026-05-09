@@ -10,46 +10,17 @@ type: concept
 
 # Metzner Hallucinogens Psychotherapy and Shamanism
 
-[[ralph-metzner]] published "[[hallucinogenic-drugs]] and Plants in Psychotherapy and
+[[hallucinogenic-drugs]] and Plants in Psychotherapy and
 Shamanism" in the Journal of Psychoactive Drugs in 1998. Drawing on over 35
 years of consciousness studies research, including his early work at Harvard
-with [[timothy-leary]] and [[richard-alpert]], Metzner proposed a comparative framework
+with [[richard-alpert]], Metzner proposed a comparative framework
 of four paradigms for understanding the use of psychoactive substances in
 healing and knowledge acquisition across Western and indigenous traditions.
 
 ## Terminology and Definitions
 
 Metzner used three terms interchangeably: "psychedelic" (mind-manifesting,
-coined by Humphrey Osmond and [[aldous-huxley]]), "hallucinogenic" (from the Latin
-alucinare, "to wander in one's mind"), and "entheogen" (from R. Gordon Wasson
-and Jonathan Ott, meaning "releasing or expressing the divine within"). He
-noted that the scientific community largely adopted "hallucinogen" despite its
-inaccuracy, since these substances do not generally cause true hallucinations
-but rather perceptual distortions affecting thought, mood, and self-awareness.
-
-## Paradigm One: Western Psychedelic Psychotherapy
-
-### Psycholytic Model
-
-The European psycholytic approach, developed from Albert Hofmann's original
-characterization of LSD as producing "psychic loosening or opening"
-(seelische Auflockerung), involved administering LSD to neurotic patients in
-a series of sessions at gradually increasing doses within a Freudian
-analytic framework. The Czech psychiatrist Stanislav Grof, working within this
-model, discovered that patients progressing through biographical conflicts
-would subsequently relive birth and pre-birth memories, which he termed
-"perinatal matrices."
-
-### Psychedelic Model
-
-The Anglo-American psychedelic model, introduced by Humphrey Osmond, typically
-involved one or a small number of high-dose sessions designed to produce a
-transformative experience manifesting unconscious contents as vivid
-hallucinatory imagery. Originally applied to treating alcoholism, it was
-thought to simulate a life-changing "bottoming out" experience. Timothy Leary
-shifted focus from clinical treatment to exploring the value of psychedelic
-experiences for "normals," introducing the concept of "consciousness expansion"
-and the [[set-and-setting]] hypothesis, which holds that internal set
+coined by Humphrey Osmond and [[set-and-setting]] hypothesis, which holds that internal set
 (intention, expectation, motivation) and external setting are the primary
 determinants of psychedelic experience outcomes.
 
@@ -147,4 +118,3 @@ Both Western psychotherapy and shamanic traditions recognize the centrality of
 an experienced guide, the importance of set and setting, and the potential for
 healing and insight. The fundamental divergence lies in underlying cosmology:
 the Western paradigm operates within a single-material-reality framework where
-psychedelic experiences are understood as products of brain chemistry, while

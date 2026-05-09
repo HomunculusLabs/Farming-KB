@@ -83,26 +83,14 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 
 ## Related Topics
 
-- [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
-- [[cannabis-terpene-profile]] - Aroma and terpene profiles
-
-## See Also
-
 - [[kalapuya]]
-
-- [[hindu-kush]]
 
 - [[jedi-kush]]
 
-- [[master-kush]]
-
 - [[og-kush]]
 
-- [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-maturation-and-harvest-by-latitude-clarke]]
 - [[banana-kush]]
 - [[blackberry-kush]]

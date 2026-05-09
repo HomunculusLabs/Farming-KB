@@ -135,10 +135,7 @@ The species contributes nitrogen indirectly through leaf litter decomposition in
 
 ## See Also
 
-[[glycyrrhiza-glabra]]
 [[panax-ginseng]]
-[[schisandra-chinensis]]
 [[juglans-regia]]
-[[morus-alba]]
 [[caragana-arborescens]]
 [[elaeagnus-angustifolia]]

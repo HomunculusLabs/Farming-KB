@@ -1,33 +1,7 @@
 ---
 title: Evolving Polyculture Systems for Settlements
 created: 2026-04-26
-tags: [permaculture, polyculture, tropical, species-diversity, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Evolving Polyculture Systems for Settlements
-
-Mollison outlines a practical methodology for evolving perennial
-polyculture systems on degraded or compacted lands. This process
-begins with thorough site preparation and proceeds through a staged
-sequence of planting, eventually producing a complex, self-maintaining
-food forest. The approach is particularly relevant to humid tropical
-and subtropical environments where rapid growth enables quick canopy
-closure.
-
-## Initial Site Preparation
-
-If starting to evolve a permaculture on grasslands or compacted soils,
-the very first step is to thoroughly plan the site and then rip, swale,
-pit, or dam every area to be planted. This earthworking phase ensures
-maximum wet-season soil water storage to carry over to dry periods.
-The process should commence at the highest point of the property and
-work downward around the house or village site. See
-[[mollison-earthworks-planning-and-post-earthworks-planting]] for detailed methods.
+tags: [[mollison-earthworks-planning-and-post-earthworks-planting]] for detailed methods.
 
 ## Initial Planting Strategy
 
@@ -87,13 +61,6 @@ in a polyculture is decided by a complex of interrelated factors:
 
 2. **Proximity to settlement**: Zonation determines how intensively
    any given area can be managed. See
-   [[mollison-zone-planning-frequency-distance-and-placement]].
-
-3. **Cost-benefit balance**: The relative economic return on
-   increasing inputs to optimum levels.
-
-4. **Plant guild harmony**: The need for effective plant guilds
-   composed of mutually beneficial ecological assemblies. See
    [[mollison-guild-analysis-and-species-interaction]].
 
 5. **Marketing and processing capacity**: Whether local systems can
@@ -136,7 +103,5 @@ quality, stability, and ultimately people themselves.
 
 ## Related Concepts
 
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
 - [[mollison-tropical-mulch-systems-and-materials]]
-- [[mollison-succession-planting]]
 - [[mollison-tessellation-and-annidation-in-design]]

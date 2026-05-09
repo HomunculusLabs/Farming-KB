@@ -14,75 +14,35 @@ Updated: 2026-04-18
 
 Source: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md (17,348 lines)
 
-This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to vegetable gardening in difficult conditions. Solomon, founder of Territorial Seed Company, draws on decades of Pacific Northwest growing experience to present a practical, sometimes contrarian approach to [[water-wise-vegetable-gardening]].
-
-The book is notable for its critical stance on intensive gardening methods like Square Foot Gardening, arguing that close spacing increases water demand and disease pressure beyond what most home gardeners can manage. Solomon advocates wider spacing, deep [[root-competition-plant-spacing-solomon]], and careful [[coleman-drip-irrigation-and-water-management]] as the foundations of productive low-input gardens.
-
-## Pages Created From This Source
-
-### Tools and Equipment
-
-- [[garden-hand-tools-solomon]] - Essential hand tools, maintenance, purchase philosophy
+This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to vegetable gardening in difficult conditions. Solomon, founder of Territorial Seed Company, draws on decades of Pacific Northwest growing experience to present a practical, sometimes contrarian approach to [[root-competition-plant-spacing-solomon]], and careful [[garden-hand-tools-solomon]] - Essential hand tools, maintenance, purchase philosophy
 
 ### Bed and Soil
 
-- [[garden-bed-preparation]] (existing) - referenced by Solomon pages
-
-### Seed Starting and Saving
-
 - [[seed-starting-indoors-solomon]] - Germination cabinet, soil mix, containers, sowing, timing
 
-- [[seed-quality-and-selection-solomon]] - Germination standards, cheap seed, regionality, mail-order
-
 - [[seed-germination-techniques-solomon]] - Chitting, gel seeding, furrow technique, compost cover
-
-- [[seed-saving-principles-solomon]] - Self-pollinating vs outcrossing, wet/dry seed, hybrids, heirloom nutrition
-
-### Transplanting
 
 - [[transplanting-techniques-solomon]] - Seedling evaluation, hardening off, procedure, post-care
 
 ### Watering
 
-- [[watering-irrigation-solomon]] - Deep watering principle, timing, quality, drought gardening
-
-### Composting
-
 - [[composting-science-solomon]] - C:N ratio, mulch gardening critique, sheet composting, compost paradox
 
 ### Plant Health and Disease
 
-- [[insects-and-plant-health-solomon]] - Howard principle, experimental evidence, exceptions, flea beetles
-
 - [[plant-disease-management-solomon]] - Prevention philosophy, foliar feeding, powdery mildew, compost tea
 
-- [[specific-pest-management-solomon]] - Root maggots, carrot fly, squash vine borer, Japanese beetle, parasitic nematodes
-
-### Planting and Spacing
-
 - [[intensive-gardening-critique-solomon]] - Critique of close spacing, Square Foot Gardening, scale considerations
-
-- [[root-competition-plant-spacing-solomon]] - Root biology, root exudates, thinning strategy
 
 - [[vegetable-growing-guide-solomon]] - Sowing depths, fertility categories, kale, rotation
 
 ### Fertilizer
 
-- [[complete-organic-fertilizer-recipes]] (existing) - COF recipe, already mined
-
-## Related Topics
-
-Pages on related gardening topics created from other sources:
-
 - [[growing-food-in-hard-times]] - Solomon's approach to food self-sufficiency
-
-- [[organic-vegetable-growing-and-market-gardening]] - Pest management from Solomon
 
 - [[geoff-hamilton-organic-techniques]] - Complementary organic gardening perspective
 
-- [[organic-composting-methods]] - Composting methods from Hamilton
-
-- [[organic-vegetable-growing-and-market-gardening]] - Garden tools overview
+- [[organic-vegetable-growing-calendar]] - Garden tools overview
 
 ## Source Statistics
 
@@ -94,7 +54,7 @@ Last mined: 2026-04-16
 
 Source size: 17,348 lines
 
-Coverage assessment: Well-mined — all major chapters have corresponding wiki pages. The source remains useful for cross-referencing with [[urban-permaculture-edge-effect-and-design-principles]] and [[natural-farming-vs-organic-farming]] topics.
+Coverage assessment: Well-mined — all major chapters have corresponding wiki pages. The source remains useful for cross-referencing with [[natural-farming-vs-organic-farming]] topics.
 ## Merged: Unirrigated Gardening
 
 # Unirrigated Gardening

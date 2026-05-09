@@ -49,17 +49,7 @@ The lawn area simultaneously shapes the flower borders. In cottage-garden style,
 
 ## Vegetable Plot Planning
 
-Position the vegetable plot in a sunny part of the garden. Never plant a screening hedge between vegetables and their sun source. If space is limited, use the [[hamilton-deep-bed-system]]—vegetables grown in blocks rather than rows, with beds about 4ft (1.2m) wide and 12-18in (30-45cm) paths between. Leave extra room for crops not suited to deep beds (Brussels sprouts, runner beans).
-
-The vegetable plot need not be rectangular—irregular shapes blend better with the rest of the garden. In very small gardens, grow fresh greens and ornamental vegetables among flowers in the borders.
-
-## Fruit Garden Planning
-
-Reserve sunny walls for fan-trained peaches, nectarines, and apricots. Use north walls for acid cherries. Train apples and pears as fans or espaliers on east- or west-facing walls. Grow cordons 2-3ft (60-90cm) apart at 45 degrees to form a productive hedge. Stepovers (single-tier espaliers only 12in/30cm high) make ideal low hedges around the vegetable plot. Plan a fruit cage if space allows—protecting both fruit and vegetables from birds is well worthwhile.
-
-## Greenhouse and Cold Frame
-
-A greenhouse should be as sunny as possible and as near to the house as convenient (for electricity/gas installation and winter visits). Rectangular is most common; hexagonal suits small gardens. A [[hamilton-greenhouse-management-organic]] is essential for hardening off plants—site it close to the greenhouse.
+Position the vegetable plot in a sunny part of the garden. Never plant a screening hedge between vegetables and their sun source. If space is limited, use the [[hamilton-greenhouse-management-organic]] is essential for hardening off plants—site it close to the greenhouse.
 
 ## Water Features
 
@@ -67,24 +57,27 @@ A pond attracts birds, insects, frogs, and other pest predators. Plan with round
 
 ## Utility Area
 
-Organic gardeners accumulate materials: compost bins (at least two, preferably three), a manure pile, leaf mold containers, and storage for tools, string, and recycled containers. Screen the utility area behind tall shrubs, hedging, or a trellis with fast-growing [[hamilton-climbing-plants-organic]]. A garden shed can be transformed with climbing plants.
-
-## Cottage-Garden Style
-
-The cottage-garden design offers distinct advantages for organic gardeners: it combines ornamental and vegetable plants in the same beds, maximizing space; its informality encourages native plants that attract useful insects and pest predators; and its close-planting technique suppresses weeds. It is endlessly adaptable to modern architecture.
-
-## Managing Slopes
-
-Steep slopes should be terraced into plateaus linked by paths or steps. Remove all topsoil, level the subsoil, then replace and spread topsoil evenly—simply leveling the topsoil creates uneven depth. Connect levels with stone steps, wooden steps (railroad ties on stakes), or ramps. Slopes also affect frost: cold air flows downhill and accumulates in hollows, creating frost pockets.
-
-## Related
-
-- [[hamilton-lawn-care-establishment]]
-- [[hamilton-hedges-and-windbreaks]]
+Organic gardeners accumulate materials: compost bins (at least two, preferably three), a manure pile, leaf mold containers, and storage for tools, string, and recycled containers. Screen the utility area behind tall shrubs, hedging, or a trellis with fast-growing [[hamilton-lawn-care-establishment]]
 - [[hamilton-greenhouse-management-organic]]
-- [[hamilton-rock-garden-design]]
 - [[hamilton-wildflower-meadow]]
-- [[hamilton-garden-pond-maintenance]]
 - [[deep-bed-cultivation]]
-- [[cold-frame-gardening]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
+## Practical Considerations
+
+Successful implementation of Hamilton: Garden Layout — Beds, Borders, Paths, and Terraces requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

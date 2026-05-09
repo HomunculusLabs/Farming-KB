@@ -16,24 +16,10 @@ Water plants provide direct food for humans and aquatic animals, and oxygenate w
 3. **Emergent Plants**: Roots and stems below water, leaves and flowers above. Shallows in ponds can dedicate large areas to these plants.
 4. **Margin Plants**: Do not grow in water but associate with the water system, deriving moisture from moist edge soils.
 
-
-
-
-
-
-
-
 ## Submerged Plants
 
 ### Plankton (Algae, Bacteria, Flagellates, Diatoms)
 A reasonable balance can be established by introducing water from an established aquatic system (lake, creek, or large pond).
-
-
-
-
-
-
-
 
 ## Floating-Leaved Plants
 
@@ -54,14 +40,7 @@ Floating leguminous plant native to Asia, Africa, and tropical America. Grown in
 Perennial floating plant, native to Europe, India, and eastern Asia. Grows in 0.3-1 m water depth, about 9 species from tropical to temperate. Spiny fruit kernels are edible.
 
 ### Water Lilies (Nymphaea alba, N. gigantea, N. odorata, N. tetragona)
-Root in mud, leaves float on water (depths up to 1.5 m). Roots are edible. *N. alba* used as pig feed in europe.
-
-
-
-
-
-
-
+Root in mud, leaves float on water (depths up to 1.5 m). Roots are edible. *N. alba* used as pig feed in Europe.
 
 ## Emergent Plants
 
@@ -75,15 +54,27 @@ Taro leaf nutrition (per 100 g): Water 87.2%, 40 cal, Carbohydrate 7.4 g, Fat 0.
 
 Taro corm nutrition (per 100 g): Water 73%, 98 cal, Carbohydrate 23.7 g, Fat 0.2 g, Protein 1.9 g, Calcium 28 mg, Potassium 514 mg, Phosphorus 61 mg, Vitamin A 20 IU.
 
-
-
-
-
-
-
-
 ## Related
 
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
 - [[permaculture-plant-selection-guide]]
+## Practical Considerations
+
+Successful implementation of Water Plant Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

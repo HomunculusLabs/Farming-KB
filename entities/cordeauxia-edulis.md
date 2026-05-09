@@ -105,17 +105,10 @@ Together, these species represent a category of neglected and underutilized crop
 
 ## See Also
 
-- [[tylosema-esculentum]]
 - [[pachyrhizus-erosus]]
-- [[pachyrhizus-tuberosus]]
 - [[lathyrus-tuberosus]]
-- [[cajanus-cajan]]
 - [[psophocarpus-tetragonolobus]]
-- [[glycine-max]]
 - [[azadirachta-indica]]
-- [[moringa-oleifera]]
 - [[acacia]]
-- [[colocasia-esculenta]]
 - [[lablab-purpureus]]
-- [[mangifera-indica]]
 - [[vigna-unguiculata]]

@@ -20,29 +20,7 @@ type: concept
 
 # No-Till Rice-Barley Succession
 
-**No-till rice-barley succession** is the core cultivation method of [[masanobu-fukuoka]]'s [[natural-farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[clay-pellet-seed-balls]] for direct seeding.
-
-Fukuoka described the method as "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." His field had not been plowed or turned in over thirty years.
-
-## The Annual Cycle
-
-The system follows a carefully timed sequence of operations. Once established, it requires only sowing seeds and spreading straw as the primary labor inputs. The labor of one or two people is more than enough to grow crops on a quarter-acre.
-
-### Autumn: Seeding Clover and Barley
-
-While rice is still standing in the field, clover seed (about 1 pound per quarter-acre) and barley seed (6.5 to 22 pounds per quarter-acre) are broadcast directly over the ripening rice heads.
-
-The high soil moisture at this time of year promotes germination, and winter weeds have not yet appeared, providing natural weed control. Broadcasting directly over the maturing heads of rice requires less work and is beneficial for germination, seedling growth, and weed control compared to drilling in straight rows after harvest.
-
-### Autumn: Rice Harvest and Straw Return
-
-The rice is cut while treading over the emerging clover and young two-to-three-leaf barley shoots. A sickle and pedal-powered drum thresher are sufficient for a quarter-acre.
-
-After the rice is harvested, dried for three days, and threshed, all straw is scattered uncut over the entire field. If chicken droppings are available, 650 to 900 pounds per quarter-acre may be spread over the straw.
-
-### Autumn: Rice Seeding
-
-[[clay-pellet-seed-balls]] containing rice seed are scattered over the straw before the New Year (mid-November to December). For high yields, hardy panicle-weight type varieties with erect leaves are preferred.
+**No-till rice-barley succession** is the core cultivation method of [[natural-farming]] system. It involves growing rice and winter grain (barley or wheat) in continuous alternation on the same field without plowing, using clover as a living ground cover and [[clay-pellet-seed-balls]] containing rice seed are scattered over the straw before the New Year (mid-November to December). For high yields, hardy panicle-weight type varieties with erect leaves are preferred.
 
 With the winter grain growing and the rice seed sown, there is now nothing left to do until the harvesting of the winter grain.
 
@@ -115,14 +93,9 @@ After thirty years, he reduced his labor to essentially just sowing seed and spr
 ## See Also
 
 - no till rice barley succession
-- [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[fukuoka-rice-barley-no-till-method]]
-- [[direct-seeded-no-tillage-rice-barley-succession]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
 
-- [[natural-farming]]
 - [[masanobu-fukuoka]]
-- [[clay-pellet-seed-balls]]
-- [[straw-mulching]]
 - [[no-till-agriculture]]
-- [[crop-rotation]]
+- crop rotation

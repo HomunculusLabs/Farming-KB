@@ -103,20 +103,13 @@ Contraindications include use by individuals with a personal or family history o
 
 ## See Also
 
-- [[amnesia-haze]]
 - [[super-lemon-haze]]
-- [[purple-haze-cannabis]]
 - [[chemdawg]]
-- [[jack-herer]]
 - [[northern-lights]]
-- [[sour-diesel]]
 - [[myrcene]]
-- [[limonene]]
 - [[cannabis-minor-cannabinoids]]
 - thc
 - cbd
-- [[linalool]]
 - [[white-widow-entity]]
-- [[gorilla-glue]]
 - [[gelato-cannabis]]
 - [[mac-1]]

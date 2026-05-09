@@ -94,13 +94,7 @@ Soil fungal bioindicators are most powerful when integrated with:
 
 ## See Also
 
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[fungal-ecosystem-indicator-species]]
-- [[mycorrhizal-fungi-biome-surveys]]
 - [[microfungal-diversity-host-plant-relationship]]
-- [[the-soil-food-web]]
-
-Source: Comprehensive review of soil fungal bioindicator literature
 - [[fungal-species-richness-and-diversity-indices]]
-- [[fungal-diversity-indices-community-analysis]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

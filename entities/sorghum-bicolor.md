@@ -119,11 +119,7 @@ The crop also serves as a high-quality forage and silage crop for livestock in d
 
 ## See Also
 
-- [[zea-mays]]
 - [[pennisetum-glaucum]]
-- [[eleusine-coracana]]
 - [[vigna-unguiculata]]
-- [[cajanus-cajan]]
 - [[saccharum-officinarum]]
-- [[manihot-esculenta]]
 - [[chenopodium-quinoa]]

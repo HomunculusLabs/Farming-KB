@@ -102,12 +102,8 @@ In Mediterranean fire-prone landscapes, almond orchards can serve as firebreaks 
 ## See Also
 
 - [[juglans-regia]]
-- [[carya-illinoinensis]]
 - [[castanea-mollissima]]
-- [[corylus-avellana]]
 - [[ficus-carica]]
-- [[elaeagnus-angustifolia]]
 - [[caragana-arborescens]]
-- [[robinia-pseudoacacia]]
 - [[agroforestry]]
 - [[food-forest]]

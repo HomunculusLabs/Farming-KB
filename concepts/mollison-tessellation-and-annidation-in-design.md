@@ -119,8 +119,6 @@ mirroring the efficiency of natural systems.
 
 ## See Also
 
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-edge-effect-design]]
-- [[mollison-boundary-harmonics-and-edge-geometry]]
 - [[mollison-fractals-branching-and-conduit-design]]
 - [[mollison-zone-and-sector-analysis]]

@@ -102,13 +102,7 @@ Use a mixture of equal parts coir, pine bark, and sharp sand with fertilizer at 
 
 ## Related Concepts
 
-- [[hamilton-annual-flowers-organic]]
 - [[hamilton-perennial-flowers-organic]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book
 - [[hamilton-pest-and-disease-control-organic]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[hamilton-shade-garden-plants]]
 - [[organic-greenhouse-growing]]

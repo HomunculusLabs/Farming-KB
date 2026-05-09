@@ -69,15 +69,9 @@ In cannabis specifically, the high level of secondary metabolite production adds
 ## Related
 
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]] Topics
-- [[dam-construction]]
-
 - [[cannabis-endorhiza-microbiome]] for endorhiza community characterization
-- [[cannabis-cultivar-microbiome-specificity]] for cultivar effects on community structure
-- microbiome edaphic factors for soil influences on microbial communities
 - [[cannabis-root-microbiome]] for broader root microbiome context
-- [[cannabis-microbiome-research]] for general cannabis microbiome science
 - [[cannabis-soil-and-nutrient-requirements]] for soil management
-- [[cannabis-living-soil-guide]] for soil biological management
 - [[cannabis-hydroponic-systems]] for soil-less growing and microbiome implications
 
 ## Alpha Diversity Patterns
@@ -104,6 +98,4 @@ The two-tier model has important implications for cannabis cultivation in system
 
 Container growing with imported potting mixes creates a different dynamic than field soil. The potting mix provides the first tier, but its microbiome may be less diverse and less stable than natural soil. Understanding the two-tier model helps explain why cannabis grown in different potting mixes can show different growth characteristics even when nutrients and watering are identical.
 
-Living soil and super-soil approaches, discussed in [[cannabis-living-soil-guide]], aim to create a diverse and stable first-tier microbiome in container systems. By building soil with compost, worm castings, and diverse organic amendments, growers establish a rich microbial species pool from which the cannabis plant can select its root associates through the second-tier process.
-
-- [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
+Living soil and super-soil approaches, discussed in [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]

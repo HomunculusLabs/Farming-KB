@@ -109,14 +109,9 @@ Gadd's later work has explored the synergistic relationships between metal-toler
 
 ## See Also
 
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-- [[fungal-heavy-metal-anion-biosorption]]
 - [[fungal-metal-biosorption-comparative]]
-- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
 - [[fungal-heavy-metal-uptake-and-translocation]]
-- [[bioavailability-in-fungal-bioremediation]]
 - [[ectomycorrhizal-remediation]]
-- [[gadd-fungal-rock-weathering]]
 - [[gadd-fungal-extreme-environments]]
 - [[gadd-fungal-plant-pathogens]]

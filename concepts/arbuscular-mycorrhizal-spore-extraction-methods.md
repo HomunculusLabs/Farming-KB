@@ -76,9 +76,7 @@ AM colonization of roots is confirmed by clearing and staining:
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[arbuscular-mycorrhizal-colonization-patterns]]
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - [[fungal-glomalin-and-soil-carbon]]
 
 ## Sources
@@ -87,7 +85,5 @@ AM colonization of roots is confirmed by clearing and staining:
 - Daniels, B.A. and Skipper, H.D. 1982. Methods for recovery and quantitative estimation of propagules
 - McKenney, M.C. and Lindsey, D.L. 1987. Improved method for AM spore extraction
 - Brundrett, M. et al. 1994. Practical methods in mycorrhiza research
-- [[fungal-species-estimation-methods-total-diversity]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]

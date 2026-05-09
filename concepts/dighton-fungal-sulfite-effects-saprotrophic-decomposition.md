@@ -110,14 +110,9 @@ statements about negative impacts on fungal decomposition are difficult.
 
 ## See Also
 
-- [[saprotrophic-decomposition]]
-
 - [[fungal-vaccines]]
 
-- [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
-- dighton fungal sulfur dioxide effects
 - [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[acidophilic-alkalophilic-fungi]]
 
 ## Sources

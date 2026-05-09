@@ -137,11 +137,7 @@ all social classes as a sensational inebriating drug.
 
 ## Related Topics
 
-- [[hofmann-lsd-consciousness-and-philosophy]] for broader philosophical
-  implications of LSD experience
 - [[hofmann-lsd-sandoz-research-program]] for clinical contexts of LSD use
-- [[hofmann-ernst-junger-lsd-literary-dialogue]] for literary rather than
-  visual artistic engagement
 - [[lsd-pharmacology]] for the pharmacological basis of
   synesthesia
 - [[hofmann-lsd-remedy-to-inebriant-transition]] for the cultural spread of

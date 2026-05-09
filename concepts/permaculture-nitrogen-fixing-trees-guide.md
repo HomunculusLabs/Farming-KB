@@ -11,21 +11,7 @@ type: concept
 
 ## Overview
 
-Nitrogen-fixing trees are foundational elements in [[permaculture-food-forest-design-principles]] and [[permaculture-soil-rehabilitation]]. They supply nitrogen to the system through root-associated bacteria, provide fodder, timber, firewood, and habitat while improving soil conditions for companion plantings. See also permaculture nitrogen fixing trees guide and [[nitrogen-fixing-trees]].
-
-## Leguminous Nitrogen Fixers
-
-### Black Locust (Robinia pseudoacacia)
-
-**Family:** FABACEAE/PAPILIONACEAE
-
-A fast growing, nitrogen fixing legume to 25 m, living for up to 200 years. Native of the Appalachian and Ozark mountains of the United States.
-
-The foliage is readily eaten by livestock and the seed is suitable as poultry feed. A good source of nectar, producing honey regarded as one of the finest in the world. The timber is hard, heavy, durable, strong and very rot resistant. Used extensively for mine timbers, fence posts, poles, railway sleepers, stakes and electrical insulator pegs.
-
-Commonly planted for erosion control, shelter belts, fodder and wildlife habitat. Coppices well and is a very good firewood which is slow to ignite but burns like coal. Well suited to charcoal production. The plant can be a pest because of its suckering habit and thorns and should be planned into a system where it can be confined by livestock. Non-suckering cultivars are available.
-
-See [[permaculture-black-locust]] for more detail.
+Nitrogen-fixing trees are foundational elements in [[permaculture-soil-rehabilitation]]. They supply nitrogen to the system through root-associated bacteria, provide fodder, timber, firewood, and habitat while improving soil conditions for companion plantings. See also permaculture nitrogen fixing trees guide and [[permaculture-black-locust]] for more detail.
 
 ### Honey Locust (Gleditsia triacanthos)
 
@@ -110,19 +96,11 @@ A leguminous shrub to 3 m, native to Japan but widely grown in Korea for soil re
 
 ## Permaculture Integration
 
-- Nitrogen fixers are the backbone of [[permaculture-food-forest-design-principles]] and [[permaculture-pioneer-species]]
-- Leucaena is the fastest tropical biomass producer; use in [[permaculture-designers-manual-cover-crops-detailed]]
-- Black locust provides premium fence posts (rot resistant) and excellent honey
-- Honey locust pods yield 50-60 t/ha/yr of stock feed in mature groves
-- Alders fix up to 300 kg N/ha/yr and are ideal riparian zone [[permaculture-water-harvesting-earthworks]] companions
+- Nitrogen fixers are the backbone of [[permaculture-pioneer-species]]
+- Leucaena is the fastest tropical biomass producer; use in [[permaculture-earthworks-and-water-harvesting]] companions
 - Casuarinas provide windbreaks and craft timber on saline, poor soils
 - Ice cream bean uniquely combines nurse-crop function with edible crop
 - Always diversify species to avoid single-species toxicity issues (e.g., mimosine in leucaena)
-- Use alders along watercourses for [[permaculture-designers-manual-wetland-treatment]] integration
-- Albizia and leucaena provide both shade for understory crops and nitrogen input
-
-## See Also
-
-- [[ceanothus-thyrsiflorus]]
+- Use alders along watercourses for [[ceanothus-thyrsiflorus]]
 
 - [[caragana-arborescens]]

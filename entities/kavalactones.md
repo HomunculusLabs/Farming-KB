@@ -24,25 +24,7 @@ sources:
 
 ## Overview
 
-- **Class:** Lipophilic lactone compounds from the rhizome of *Piper methysticum* (kava)
-- **Total known kavalactones:** 18 identified; 6 are pharmacologically major
-- **Primary effects:** Anxiolysis, mild sedation, muscle relaxation, euphoria
-- **Mechanism:** Multi-target — GABA-A modulation, sodium channel blockade, CB1 interaction
-- **Origin:** Indigenous to South Pacific islands (Fiji, Vanuatu, Samoa, Tonga, Pohnpei)
-- **Notable:** Does not produce tolerance or dependence at traditional doses
-
-## Chemical Profile
-
-- All kavalactones share a 2-pyranone (α-pyrone) ring system
-- Substituent group variations on phenyl/lactone rings determine pharmacological differences
-- Lipophilic nature enables rapid blood-brain barrier crossing
-- Commercial extraction via acetone, ethanol, or supercritical CO₂
-
-### Six Major Kavalactones
-
-| Compound | MW (g/mol) | Abbrev. | Primary Pharmacological Action |
-|---|---|---|---|
-| Kavain | 230.22 | K | GABA-A positive modulation; psychotropic anxiolytic |
+- **Class:** Lipophilic lactone compounds from the rhizome of *[[kavain]] | 230.22 | K | GABA-A positive modulation; psychotropic anxiolytic |
 | Dihydrokavain | 232.24 | DHK | Sedation; analgesic properties |
 | Methysticin | 274.27 | M | Sodium channel blockade; neuroprotective |
 | Dihydromethysticin | 276.29 | DHM | Sodium channel blockade; anti-convulsant |
@@ -137,14 +119,15 @@ sources:
 | Australia | Banned (2007); under re-evaluation as of 2024 |
 | Canada | Legal with restrictions (since 2012) |
 | South Pacific | Unrestricted; culturally protected |
-
 ## See Also
 
-- [[entheogen-culture]]
-
-- [[piper-methysticum-entity]]
+- [[glucuronidation]]
 
 - [[glucuronidation]]
 
 - Kava — the plant *Piper methysticum* and its ethnobotany
 - GABA-A Receptor — primary target of kavalactone anxiolysis
+
+## See Also
+
+- [[entheogenic-plants-and-psychoactive-flora]]

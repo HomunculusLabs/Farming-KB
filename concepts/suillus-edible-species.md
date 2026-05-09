@@ -72,7 +72,7 @@ The tube layer (pore surface) should be removed in mature specimens, as it can b
 
 The flesh of most Suillus species is mild and somewhat bland, benefitting from robust seasoning or combination with stronger-flavored ingredients. Common preparations include sauteing with butter and garlic, adding to soups and stews, pickling in vinegar-based brines, and drying for later use in sauces and risottos.
 
-Some Suillus species can cause gastrointestinal upset in sensitive individuals, particularly if not properly prepared. As with all wild mushrooms, a small initial portion is recommended when trying a species for the first time. See [[mushroom-foraging-safety]] and [[fungal-poisons-and-toxicology]] for safety information.
+Some Suillus species can cause gastrointestinal upset in sensitive individuals, particularly if not properly prepared. As with all wild mushrooms, a small initial portion is recommended when trying a species for the first time. See [[fungal-poisons-and-toxicology]] for safety information.
 
 ## Ecological Role
 
@@ -80,7 +80,7 @@ Suillus species are pioneer ectomycorrhizal fungi, often among the first to colo
 
 This pioneer ecology makes Suillus species important for forestry. By forming mycorrhizal associations with young pine seedlings, they enhance nutrient uptake and drought tolerance during the critical establishment phase. Some Suillus species have been used in commercial mycorrhizal inoculation programs for reforestation.
 
-Suillus mycelium also contributes to soil formation and nutrient cycling in pine forest ecosystems. The extensive extraradical mycelium improves soil aggregation and water-holding capacity in sandy pine forest soils. See [[ectomycorrhizal-ecology]] and [[mycoforestry-forest-management-with-fungi]] for mycorrhizal roles in forestry.
+Suillus mycelium also contributes to soil formation and nutrient cycling in pine forest ecosystems. The extensive extraradical mycelium improves soil aggregation and water-holding capacity in sandy pine forest soils. See [[mycoforestry-forest-management-with-fungi]] for mycorrhizal roles in forestry.
 
 ## Identification Cautions
 
@@ -88,22 +88,12 @@ While all confirmed Suillus species are non-toxic, foragers should be aware of s
 
 The most important distinction is from toxic boletes in the genus Rubroboletus (formerly Boletus sensu stricto), some of which have red pore surfaces. Suillus species always have yellow to olive or whitish pores, never bright red. Any bolete with red or orange pores should be approached with caution.
 
-Some Suillus species cause allergic reactions or gastrointestinal upset in certain individuals, particularly when consumed raw or undercooked. All Suillus mushrooms should be thoroughly cooked before consumption. See [[bolete-mushrooms-ecology-edibility]] for broader bolete information.
-
-## See Also
-
-- [[suillus-cavipes]]
-
-- [[bolete-mushrooms-ecology-edibility]]
+Some Suillus species cause allergic reactions or gastrointestinal upset in certain individuals, particularly when consumed raw or undercooked. All Suillus mushrooms should be thoroughly cooked before consumption. See [[suillus-cavipes]]
 
 - [[porcini-boletus-guide]]
 
 ## Related
 
-- [[ectomycorrhizal-ecology]]
-
 - [[mycorrhizal-fungi]]
-
-- [[mushroom-hunting-and-identification]]
 
 - [[edible-wild-mushroom-guide]]

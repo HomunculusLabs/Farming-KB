@@ -69,25 +69,7 @@ Limes are inexpensive when purchased in large sacks from agricultural suppliers.
 
 ## Phosphorus Sources
 
-Rock phosphate (either hard or soft), bonemeal, and high-phosphate guano all serve as phosphorus sources in the COF formula. Rock phosphate is the most economical choice for large-scale gardeners and is available in bulk from agricultural suppliers. There are two kinds of rock phosphate: "hard" and "soft," with soft rock phosphate being more readily available to plants. Bonemeal provides faster phosphorus availability but costs more per unit of phosphorus. All three options contribute calcium alongside phosphorus, complementing the lime component of the blend.
-
-## Trace Elements from Kelpmeal and Basalt Dust
-
-The kelpmeal or basalt dust component of COF provides the full spectrum of trace elements essential for plant and human nutrition. Kelpmeal is rich in growth regulators, natural hormones, and micronutrients including iron, manganese, zinc, copper, boron, and molybdenum.
-
-These trace elements, often deficient in intensively cropped soils, are critical for enzyme function in both plants and humans. Kelpmeal also enhances plant resistance to cold, frost, and other environmental stresses. Basalt dust is an economical alternative that provides a broad mineral spectrum from finely ground volcanic rock.
-
-Kelpmeal may seem costly per unit, but only small quantities are needed. It adds considerable fortitude to the plants and enhances the nutritional quality of the resulting vegetables. A 55-pound (25 kilogram) sack of kelpmeal costs approximately the same as a few small boxes at a garden center but contains many times the quantity. Korean kelpmeal is reported to cost less than the meal imported from other sources.
-
-## Application Rates
-
-COF is potent and should not be overapplied. The standard application rate is approximately 4 to 6 liters per 100 square feet (10 square meters) of garden bed, or per 50 lineal feet (15 meters) of 30-inch-wide row. This amount provides sufficient fertility for nutrient-dense vegetable production when combined with modest amounts of compost or manure.
-
-In warm soil, it takes approximately two months for COF to fully integrate and become available to plants, so application should be timed accordingly. Over time, regular COF application automatically distributes the correct amount of calcium (approximately 25 kilograms per 100 square meters per year), eliminating the need for separate liming operations.
-
-## Soil pH Philosophy
-
-The COF approach deliberately de-emphasizes soil pH management. Rather than testing and adjusting pH through targeted liming, the COF system provides calcium, magnesium, and organic matter in the correct proportions.
+Rock phosphate (either hard or soft), bonemeal, and high-phosphate guano all serve as phosphorus sources in the COF formula. Rock phosphate is the most economical choice for large-scale gardeners and is available in bulk from agricultural suppliers. There are two kinds of rock phosphate: "hard" and "soft," with soft rock phosphate being more readily available to plants. Bonemeal provides faster [[soil-ph-management]] ment. Rather than testing and adjusting pH through targeted liming, the COF system provides calcium, magnesium, and organic matter in the correct proportions.
 
 Over time, the pH self-corrects, driven more by the accumulation of organic matter than by the direct addition of calcium and magnesium. If a soil test shows low pH, the recommendation is not to lime specifically to correct it, but rather to continue with the standard COF application schedule. The soil improving materials in COF will gradually bring pH into an appropriate range.
 
@@ -135,8 +117,6 @@ This difference has measurable consequences. Vegetables grown with COF have been
 
 ## See Also
 
-- [[building-soil-fertility-long-term]]
 - [[composting]]
-- [[cover-crops-green-manures]]
 - [[biointensive-close-plant-spacing]]
 - sustainable food production

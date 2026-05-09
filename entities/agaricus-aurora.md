@@ -119,11 +119,7 @@ Preliminary assays indicate anti-inflammatory activity in polysaccharide extract
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[agaricus-subrufescens]]
-- [[agaricus-campestris]]
 - [[boletus-edulis-entity]]
-- [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
-- [[coprinus-comatus-detailed]]
 - [[macrolepiota-procera]]

@@ -111,11 +111,7 @@ For crops that produce continuously (tomatoes, peppers, cucumbers, indeterminate
 
 ## Related
 
-- [[solomon-seed-saving-guide]] for producing your own seed
 - [[solomon-complete-organic-fertilizer-guide]] for existing seedling management page
-- [[solomon-intensive-vs-extensive-spacing]] for final plant spacing
 - [[intensive-gardening-critique-solomon]] for post-planting irrigation
-- [[solomon-thinning-spacing-and-direct-seeding]]
 - [[growing-vegetables-with-less-fertilizer]]
-- [[growing-beans-peas-legume-guide]]
 - [[home-garden-seed-saving]]

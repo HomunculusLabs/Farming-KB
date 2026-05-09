@@ -48,37 +48,7 @@ Water hyacinth (Eichhornia crassipes) is one of the most studied species for rhi
 
 Duckweed (Lemna minor, Spirodela polyrhiza) species are small floating aquatic plants with high metal uptake capacity relative to their biomass. Their rapid multiplication rate allows quick biomass production for continuous harvesting and contaminant removal.
 
-Common reed (Phragmites australis) is the dominant plant species in most constructed treatment wetlands worldwide. Its deep, extensive root system creates a large treatment zone and provides physical filtration through dense root mats. See [[constructed-wetlands-wastewater-treatment]] for more on wetland-based treatment systems.
-
-### Terrestrial Plants Grown Hydroponically
-
-Sunflower (Helianthus annuus) gained prominence following its successful use in rhizofiltration of radionuclide-contaminated water at a small pond near the Chernobyl nuclear power plant. Sunflower roots effectively accumulated both radioactive strontium-90 and cesium-137 from surface water.
-
-Indian mustard (Brassica juncea) is a well-studied species for metal rhizofiltration. It combines rapid growth, high biomass production, and efficient metal uptake. Studies have demonstrated its effectiveness for removing lead, cadmium, chromium, nickel, copper, and zinc from aqueous solutions.
-
-Various grass species including vetiver grass (Chrysopogon zizanioides) have deep root systems and tolerance to a wide range of contaminants, making them suitable for both rhizofiltration and soil-based phytostabilization applications.
-
-## System Design and Operation
-
-Rhizofiltration systems can be designed in several configurations depending on the volume and flow rate of contaminated water and the target contaminants. The main approaches include batch treatment in tanks or ponds, continuous flow-through systems, and constructed wetland systems.
-
-### Batch Systems
-
-In batch rhizofiltration, plants are grown hydroponically in clean nutrient solution until they develop sufficient root biomass. They are then transferred to tanks containing contaminated water for a treatment period, typically 24 to 72 hours depending on contaminant concentration. After treatment, the plants are either harvested and replaced or returned to clean nutrient solution to allow root-regrowth for subsequent treatment cycles.
-
-Batch systems are well-suited to treating relatively small volumes of highly contaminated water, such as industrial process water or landfill leachate. They allow precise control of contact time and can achieve high removal efficiencies.
-
-### Continuous Flow Systems
-
-Continuous flow rhizofiltration involves directing contaminated water through channels, raceways, or constructed beds containing established plants. The water flows through the root zone at controlled rates, allowing continuous treatment. These systems are more appropriate for larger volumes of moderately contaminated water, such as groundwater pumped from contaminated sites or municipal wastewater.
-
-Flow rate, hydraulic retention time, and plant density are key design parameters. Too high a flow rate reduces contact time and limits removal efficiency, while too low a flow rate may not provide adequate throughput for the treatment objective.
-
-### Constructed Wetlands
-
-Constructed wetlands combine rhizofiltration with sedimentation, microbial degradation, and substrate adsorption in engineered ecosystems designed to treat contaminated water. They are the most widely applied form of phytoremediation for wastewater treatment.
-
-See [[constructed-wetlands-wastewater-treatment]] for comprehensive coverage of constructed wetland design, types, and treatment processes.
+Common reed (Phragmites australis) is the dominant plant species in most constructed treatment wetlands worldwide. Its deep, extensive root system creates a large treatment zone and provides physical filtration through dense root mats. See [[constructed-wetlands-wastewater-treatment]] for comprehensive coverage of constructed wetland design, types, and treatment processes.
 
 ## Factors Affecting Performance
 
@@ -102,11 +72,8 @@ The risk of contaminant release from decomposing plant material must be managed 
 
 ## See Also
 
-- [[phytoremediation-mechanisms]] — overview of all phytoremediation approaches
 - [[constructed-wetlands-wastewater-treatment]] — engineered wetland systems
-- [[heavy-metal-biosorption]] — biosorption mechanisms and applications
 - [[fungal-heavy-metal-biosorption-detailed]] — fungal and microbial biosorption
-- [[wetland-ecology]] — natural wetland function and processes
 - [[fungal-biosorption-mechanisms]] — fungal biosorption in detail
 
 ## Merged: Hyperaccumulator Plants

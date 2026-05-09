@@ -137,14 +137,9 @@ Meta-analyses of companion planting research show:
 - **Spring**: Plant peas with radishes and spinach; interplant lettuce with slower-growing brassicas
 - **Summer**: Tomatoes with basil and marigolds; corn-bean-squash trio; cucumbers with sunflowers
 - **Autumn**: Cover crops of clover, vetch, and rye for winter soil protection and nitrogen fixation
-- **Winter**: Garlic planted among dormant perennial beds; overwintering herbs protect soil structure
-
 ## See Also
 
 - [[smallanthus-sonchifolius]]
-- [[eucalyptus-globulus]]
 - [[malva-sylvestris]]
 
-- [[inula-helenium]]
 - [[epimedium-sagittatum]]
-- [[monarda-didyma]]

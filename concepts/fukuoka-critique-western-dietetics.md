@@ -76,7 +76,7 @@ Stewed vegetables and rice cooked with adzuki beans was a once-a-month treat. Ho
 
 Farmers too give no thought to the meaning of a natural diet or natural farming and, without a trace of skepticism, see the production of food out of season as a method for increasing the food supply. Scientists and engineers follow suit, working on the development of new food products. Politicians and those in the distribution industry believe that markets well stocked with a full range of goods means food is abundant and people can live in peace and security.
 
-But such thinking, and the follies of people, are dragging mankind to the abyss of destruction. See [[fukuoka-food-as-strategic-weapon]] and [[fukuoka-agriculture-run-amok]].
+But such thinking, and the follies of people, are dragging mankind to the abyss of destruction. See [[fukuoka-agriculture-run-amok]].
 
 ## A Proposal for Japan's Food
 
@@ -86,15 +86,9 @@ If all this is asking too much of modern man, with his weakened heart and stomac
 
 ## See Also
 
-- [[fukuoka-western-root-vegetable-deficiency]]
-
 - [[fukuoka-critique-western-dietetics-nutritional-science]]
 
-- [[fukuoka-natural-diet-four-types]]
-
 - [[fukuoka-natural-food-philosophy]]
-
-- [[fukuoka-natural-diet-philosophy]]
 
 - [[fukuoka-natural-farming-philosophy]]
 

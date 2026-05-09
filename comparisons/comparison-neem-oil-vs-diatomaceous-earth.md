@@ -18,19 +18,11 @@ control products in cannabis cultivation.
 Both are derived from natural sources and are approved for use in organic
 growing systems, but they work through fundamentally different mechanisms.
 
-[[neem-oil-cannabis]] is a biochemical pesticide that disrupts insect biology
-at the hormonal level, affecting molting, feeding, and reproduction.
-
 [[diatomaceous-earth-cannabis]] is a mechanical pesticide that physically
 damages pest exoskeletons through abrasive contact with sharp silica particles.
 
 Understanding these differences is critical for choosing the right tool for
-specific pest problems and for building an effective integrated pest management
-(IPM) strategy that minimizes harm to beneficial organisms.
-
-## Neem Oil
-
-Neem oil is pressed from the seeds of the neem tree (Azadirachta indica), a
+specific pest problems and for building an effective [[azadirachta-indica]]), a
 fast-growing evergreen native to the Indian subcontinent and Southeast Asia.
 
 The primary active compound in cold-pressed neem oil is azadirachtin, a complex
@@ -142,9 +134,6 @@ insects and provide mildew suppression simultaneously.
 
 Rotating between neem oil and other organic sprays like insecticidal soap or
 potassium bicarbonate prevents pest resistance from developing over time.
-
 ## See Also
-
-- [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]

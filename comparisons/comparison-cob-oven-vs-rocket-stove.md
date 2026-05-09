@@ -30,28 +30,6 @@ built by hand without specialized tools or professional expertise.
 
 ## Cob Oven
 
-[[cob-oven-construction]]
-
-A cob oven is a wood-fired earth oven built from a mixture of clay, sand, and
-straw. The dome-shaped structure reaches 700 to 900 degrees Fahrenheit during a
-one to two hour firing, then retains that heat for four to eight hours of
-cascading baking temperatures. Bread bakes in two to five minutes at peak heat,
-pizza in roughly ninety seconds, and as the oven cools through successive
-temperature zones, it handles roasting, casseroles, and even slow-cooked dishes.
-This thermal cascade is the cob oven's signature advantage, allowing a single
-firing to produce an entire meal sequence from appetizers through dessert.
-
-Construction requires no specialized skills beyond sourcing clay subsoil, sand,
-and straw. The build proceeds over a firebrick hearth set on an insulated base,
-with a sand-form dome shaped and covered in successive layers of thermal cob,
-insulation cob, and a protective outer coat. Materials cost is minimal, often
-using salvaged or on-site materials, and a well-maintained oven lasts twenty or
-more years. The primary limitations are weight (500 to 1,000 pounds requiring a
-solid foundation), the need for dry weather or a protective roof, and the
-pre-firing wait time before cooking begins each session.
-
-## Rocket Stove
-
 [[rocket-stove]]
 
 A rocket stove uses an insulated J-tube combustion chamber to achieve 80 to 90
@@ -123,8 +101,5 @@ centerpiece that serves the homestead year-round through all seasons.
 
 ## See Also
 
-- [[comparison-cob-oven-construction-vs-rocket-stove]]
-
 - [[comparison-rocket-stove-vs-masonry-heater]]
-- [[solar-cooking-methods]]
 - [[rocket-mass-heater-design]]

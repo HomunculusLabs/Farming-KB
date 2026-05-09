@@ -14,23 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Franco R et al. "A pharmacology perspective on the role of
-    [[caffeine]] and theobromine in migraine." Frontiers in
-    Pharmacology 4, 2013.
-  - Martínez-Pinilla E et al. "Theobromine, caffeine, and the
-   ophthalmic system." Nutrients 7(4), 2015.
-  - Franke AA et al. "Human Cacao study: urinary excretion of
-    theobromine." European Journal of Clinical Nutrition 66, 2012.
-  - Smit HJ et al. "Mood effects of theobromine vs caffeine."
-    Psychopharmacology 167, 2004.
-  - Lieshout Mv et al. "Effect of theobromine on mood." Journal
-    of Psychopharmacology 25, 2011.
----
-# Theobromine
-
-## Overview
-
-Theobromine (3,7-dimethylxanthine) is a bitter alkaloid of the
-methylxanthine class, found primarily in *[[theobroma-cacao]]* (cacao)
+    [[theobroma-cacao]]* (cacao)
 at 1–4% of dry bean weight. It is the principal active compound in
 chocolate, responsible for its bitter taste and many mood-elevating
 effects.
@@ -47,35 +31,14 @@ derives from Greek *theobroma* ("food of the gods").
 - **Molecular Weight:** 180.16 g/mol
 - **CAS Number:** 83-67-0
 - **Structure:** Dimethylxanthine; methyl groups at positions 3 and 7
-- **Solubility:** Slightly [[spore-dispersal]]-in-waterin water (0.33 g/L at 25°C), more
-  soluble in [[hot-water-and-hydrated-lime-substrate-treatment]] and ethanol
+- **Solubility:** Slightly [[hot-water-and-hydrated-lime-substrate-treatment]] and ethanol
 - **Melting Point:** 357°C (decomposes)
 
 A white crystalline powder with bitter taste. Differs from caffeine
 by a single methyl group at N1, resultibeta-glucan-receptor-bindinglly different
-pharmacokinetics and [[beta-glucan-receptor-binding]].
-
-## Natural Sources
-
-- ***Theobroma cacao*** (cacao): 1–4% dry weight; primary source
-- ***[[cola-acuminata]]*** (kola nut): Trace amounts alongside caffeine
-- ***[[ilex-guayusa]]*** (guayusa): Minor constituent
+pharmacokinetics and [[cola-acuminata]]*** (kola nut): Trace amounts alongside caffeine
 - ***[[camellia-sinensis-entity]]*** (tea): Trace amounts
-- ***[[ilex-paraguariensis]]*** (yerba mate): Trace amounts
-
-Cacao is by far the dominant dietary source. Dark chocolate (70–85%
-cacao) contains approximately 500–800 mg theobromine per 100 g,
-while milk chocolate contains 150–250 mg per 100 g.
-
-## Pharmacology
-
-**Adenosine receptor antagonism:** Weak antagonist at A₁ and A₂A
-(~10× less potent than caffeine at A₁, ~3× at A₂A). Reduced CNS
-penetration accounts for milder stimulant profile.
-
-**Phosphodiesterase inhibition:** Non-selective PDE inhibitor,
-particularly PDE4, contributing to bronchodilatory and
-[[medicinal-mushroom-antioxidant-anti-inflammatory]] effects.
+- ***[[medicinal-mushroom-antioxidant-anti-inflammatory]] effects.
 
 **Pharmacokinetics:** Peak plasma at 2–3 hours. Half-life 6–10 hours
 (longer than caffeine's 3–5h). Metabolized by CYP1A2 and CYP2E1.

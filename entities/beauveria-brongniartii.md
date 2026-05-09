@@ -120,11 +120,7 @@ beetles, and pollinators, making it suitable for organic farming systems.
 
 ## See Also
 
-- [[beauveria-bassiana]]
 - [[metarhizium-anisopliae]]
-- [[cordyceps-militaris]]
 - [[verticillium-lecanii]]
-- [[purpureocillium-lilacinum]]
-- [[biocontrol]]
 - [[integrated-pest-management]]
 - [[permaculture]]

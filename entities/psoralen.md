@@ -117,7 +117,9 @@ protection during treatment.
 
 ## See Also
 
-- [[ferula-assafoetida]] — Asafoetida, Apiaceae containing coumarin derivatives
 - [[cinnamomum-verum]] — Cinnamon, another aromatic plant with coumarin content
-- [[eugenol]] — Phenylpropanoid compound from related biosynthetic pathway
 - [[ficus-carica]] — Fig, major natural source of psoralen compounds
+
+## See Also
+
+- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]

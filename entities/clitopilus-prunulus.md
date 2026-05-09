@@ -113,9 +113,6 @@ The greatest risk in foraging *C. prunulus* is confusion with toxic *Clitocybe* 
 
 ## See Also
 
-- [[clitocybe-nuda-entity]] — blewit, another edible clitocybe with pinkish gills
 - [[psilocybe-cubensis]] — cultivated psychedelic mushroom for spore print comparison
-- [[amanita-phalloides]] — deadly lookalike context in mushroom foraging safety
 - [[coprinus-comatus-detailed]] — another edible woodland mushroom with distinctive identification features
-- [[trametes-versicolor]] — for comparison of spore print identification methodology
 - [[russula-cyanoxantha]] — edible russula with mild flavor, shares woodland habitat

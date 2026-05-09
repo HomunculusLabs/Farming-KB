@@ -3,7 +3,7 @@ title: Laboratory Setup for Mushroom Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, laboratory, cultivation, equipment]
+tags: [[mycology, laboratory, cultivation, equipment]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Laboratory Setup for Mushroom Cultivation
@@ -122,12 +122,6 @@ Adding a tablespoon of finely ground sawdust or screened wheat straw powder from
 - Never open a contaminated plate near the laminar flow hood or in the clean room
 - Always have extra prepoured plates ready for unexpected finds in the field
 
-- [[cotter-mycoremediation-overview]]
-
-## See Also
-
 - [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-bulk-substrates]]
 - [[mushroom-grain-spawn-preparation]]
-- [[contamination-identification-prevention]]
 - [[mycoremediation-stamets-approach]]

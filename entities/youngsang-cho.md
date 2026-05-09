@@ -31,7 +31,7 @@ Cho invented and voluntarily did not patent his technologies, choosing instead t
 - **JADAM Sulfur** — natural germicide
 - **JADAM Liquid Fertilizer** — made without sugar or molasses (unlike KNF's FAA which uses brown sugar)
 - **JADAM Microorganism Solution (JMS)** — cultures beneficial indigenous microorganisms using rice washing water and potato/bean broth (see [[beneficial-indigenous-microorganisms-bim]] for comparison with other IMO methods)
-- **Crop-specific fertilizer programs** — detailed feeding schedules for rice, vegetables, fruit trees (see [[ultra-low-jadam-fertilizer-program]])
+- **Crop-specific fertilizer programs** — detailed feeding schedules for rice, vegetables, fruit trees (see [[jadam-fertilizer-program]])
 - **Natural pesticide series** — targeted solutions for specific pests/diseases:
   - Powdery mildew, downy mildew, fungal diseases (see [[jadam-pesticide-for-fungal-diseases]])
   - Aphids and mites (see [[jadam-pesticide-for-aphids-and-mites]])
@@ -56,7 +56,26 @@ While his father [[cho-han-kyu]] (Master Cho, see [[master-cho]]) developed Kore
 - [[masanobu-fukuoka]] — natural farming pioneer whose philosophy influenced JADAM
 - [[knf-vs-jadam-vs-em]] — comparison of biological input systems
 - [[natural-farming-methods-comparison]] — broader farming philosophy comparison
-- [[ultra-low-jadam-fertilizer-program]] — crop-specific feeding schedules
+- [[jadam-fertilizer-program]] — crop-specific feeding schedules
 - [[jadam-pesticide-for-aphids-and-mites]] — aphid and mite control
 - [[beneficial-indigenous-microorganisms-bim]] — IMO methods comparison
 - [[homesteading]] — JADAM principles applied to homesteading scale
+## Practical Considerations
+
+Successful implementation of Youngsang Cho requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

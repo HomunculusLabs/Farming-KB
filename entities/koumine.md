@@ -110,13 +110,8 @@ Current research directions include nanoparticle delivery systems to improve ora
 
 ## See Also
 
-- [[gelsemine]]
 - [[gelsemium-sempervirens]]
-- [[muscimol-entity]]
 - [[harmine]]
-- [[tetrahydroharmine]]
 - [[ibogaine]]
-- [[salvinorin-a-entity]]
 - [[myristicin-entity]]
-- [[ergine-entity]]
 - [[bufotenin]]

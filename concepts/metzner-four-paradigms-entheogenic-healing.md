@@ -117,11 +117,7 @@ Metzner concludes by advocating for an integrative approach that draws on the st
 
 ## See Also
 
-- [[metzner-four-paradigms-psychedelic-healing]]
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-shamanic-healing-divination-worldview]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]]
-- [[psychedelic-therapy-shamanism-comparison]]
 - [[metzner-hallucinogens-psychotherapy-and-shamanism]]

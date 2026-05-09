@@ -105,11 +105,7 @@ the therapeutic properties of cannabis extracts is an open question.
 
 ## See Also
 
-- [[cannabis-thc-acetate-preparation]]
 - [[marijuana-magick-cannabis-incense-and-preparation]]
-- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
-
 - [[cannabis-alchemy-overview]]
-- [[cannabis-extraction-solvents]]
 - [[hashish-production-methods]]
 - [[cannabis-chromatography-cannabinoid-purification]]

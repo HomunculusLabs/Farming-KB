@@ -121,12 +121,8 @@ necessary to achieve optimal results.
 
 ## See Also
 
-- [[cervantes-nutrient-management]] - comprehensive nutrient
-  guidelines
 - [[cervantes-nutrient-solution-reservoir-management]] - reservoir
   maintenance
-- [[cervantes-macronutrient-deficiency-toxicity]] - macro element
-  management
 - [[cervantes-micronutrient-deficiency-chelation]] - trace element
   availability
 - [[cervantes-ph-management-testing]] - pH adjustment and monitoring

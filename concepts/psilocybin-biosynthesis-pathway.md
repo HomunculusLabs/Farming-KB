@@ -80,18 +80,11 @@ The pathway from tryptamine to psilocybin is still not fully elucidated, but key
 
 ### Related
 
-- [[nucleophilic-substitution-sn1-sn2-reactions]]
 - [[pericyclic-reactions-organic-chemistry]]
-
-- [[norpsilocin]]
 
 - [[psik-enzyme]]
 
-- [[psid-enzyme]]
-
-- [[baeocystin-entity]]
-
-- [[psim-enzyme]]
+- [[baeocystin]]
 
 - [[psih-enzyme]] Compounds
 
@@ -136,8 +129,6 @@ Psilocybin and psilocin share the basic indole structure characteristic of most 
 
 The blue-staining reaction observed in psilocybin-containing mushrooms is an enzymatic oxidation of an indole substrate (tryptophan, 5-hydroxytryptamine, or psilocybin) and serves as a field indicator of psychoactive content, though it is not exclusive to psychoactive species.
 
-See [[psilocybe-mushroom-species-guide]] for species-specific potency data, [[mushroom-cultivation-overview]] for how cultivation practices influence alkaloid production, and [[shikimate-pathway-in-fungi]] for the upstream metabolic pathway producing tryptophan. The enzyme [[tryptophan-decarboxylase]] that converts tryptophan to tryptamine is subject to feedback inhibition and is the last well-characterized step before the less-understood phosphorylation reactions leading to psilocybin.
-- [[psilocybin-mushroom-evolution]]
+See [[mushroom-cultivation-overview]] for how cultivation practices influence alkaloid production, and [[tryptophan-decarboxylase]] that converts tryptophan to tryptamine is subject to feedback inhibition and is the last well-characterized step before the less-understood phosphorylation reactions leading to psilocybin.
 - [[gartz-psilocybin-potency-and-alkaloid-variations]]
-- [[psilocybe-semilanceata-eight-indole-compounds]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]

@@ -113,11 +113,7 @@ The species is most abundant in **young to mature pine plantations and natural p
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| [[lactarius-deliciosus]] | Similar but latex is carrot-orange (not red) and does not turn green; cap has distinct concentric zones (zonate); more common in northern Europe |
-| *Lactarius semisanguifluus* | Intermediate — latex orange-red turning green; cap more clearly zonate |
-| *Lactarius vinosus* | Very similar; more wine-colored overall; darker latex; more common in Mediterranean lowlands; some authorities consider it synonymous |
 | [[lactarius-indigo]] | Blue to indigo latex; entirely different color scheme; North American species |
-| [[russula-cyanoxantha]] | Also associates with pines; has no latex; Russula (no milk), more brittle gills |
 | [[lactarius-rufus]] | Reddish but latex white; hot peppery taste; acrid and inedible |
 
 ## Conservation and Foraging Ethics
@@ -132,9 +128,6 @@ Best practices include cutting mushrooms at the base (not uprooting), leaving so
 
 ## See Also
 
-- [[lactarius-deliciosus]] — The orange-latex sister species, more widely distributed
 - [[lactarius-indigo]] — Indigo milk cap, North American species with dramatically different coloration
-- [[boletus-edulis-entity]] — Fellow prized ectomycorrhizal pine associate in Mediterranean foraging
 - [[russula-cyanoxantha]] — Russula from the same habitat for comparison
-- [[ectomycorrhizal-fungi]] — Overview of the mycorrhizal ecology
 - [[fungal-ecology-forest-ecosystems]] — Forest ecosystem fungal ecology

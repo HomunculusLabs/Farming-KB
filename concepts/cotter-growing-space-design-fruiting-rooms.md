@@ -139,8 +139,6 @@ degrees C). Avoid nitrogen levels that create excessive heat.
 
 ## See Also
 
-- [[cotter-mushroom-pests-diseases]] -- detailed pest and disease profiles
 - [[cotter-laboratory-setup]] -- lab design for clean culture work
-- [[mushroom-cultivation-troubleshooting]] -- solving common cultivation problems
 - [[cotter-mushroom-life-cycle-mycelium-biology]] -- environmental requirements
 - [[cotter-oyster-mushroom-cultivation]] -- primary indoor species

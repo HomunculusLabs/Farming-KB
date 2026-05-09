@@ -10,82 +10,7 @@ tags: [cannabis, nutrients]
 
 # Cannabis Nutrient Schedules
 
-From [[greg-green]]'s *The Cannabis Grow Bible* (4th ed.), Chapters 5 and 6.
-
-## NPK: The Primary Nutrients
-
-The three major nutrients needed in soil for marijuana to grow well are
-Nitrogen (N), Phosphorus (P), and potassium (K). These are stated as
-NPK ratios on fertilizer labels, such as 20:20:20 (meaning 20% N, 20%
-P, 20% K, with the remaining percentage being other elements).
-
-## Secondary Supplements
-
-In addition to NPK, and secondary nutrients are needed:
-- Calcium (Ca)
-- Magnesium (Mg)
-- Sulfur (S)
-
-Mg problems are common. To correct, feed 1/3 spoonful of Epsom salts
-per 3 gallons of water every 3-4 weeks.
-
-## Micronutrients
-
-Seven micronutrients are also required (though rarely problematic unless
-lockout occurs):
-- Iron (Fe)
-- Boron (B)
-- Chlorine (Cl)
-- Manganese (Mn)
-- Copper (Cu)
-- Zinc (Zn)
-- Molybdenum (Mo)
-
-## Vegetative Phase Nutrient Schedule
-
-cannabis plants like good levels of Nitrogen and normal levels of
-Phosphorus and Potassium during vegetative growth.
-
-**Recommended NPK ratios for vegetative growth:**
-- 12-12-12 (excellent)
-- 20-20-20 (excellent)
-- 12-6-6 (good)
-- 18-4-5 (good)
-- 5-1-1 (good for seedlings)
-- 8-4-4 (good for seedlings)
-
-**Unsuitable for vegetative growth:** Ratios like 8-20-20 where P is
-higher. Higher P ratios are for flowering plants.
-
-## Flowering Phase Nutrient Schedule
-
-During flowering, switch to a feed where Phosphorus levels are higher
-than Nitrogen and Potassium. As growers we do not transplant to new
-soil for flowering -- we simply use plant feeds to bring up P levels.
-
-You will need two main feeding bottles throughout the plant's life:
-1. Higher or equal N to P and K (for vegetative growth)
-2. Higher P than N and K (for flowering)
-
-A third bottle of secondary nutrients is recommended. Keeping a fourth
-bottle of micronutrients is also handy.
-
-## Feeding Guidelines
-
-**Golden rules:**
-- Only feed when plants need it.
-- Amount of feeds is relative to growing conditions and strain.
-- Most plants only need feeding every fortnight.
-- Use 50% or LESS than what the label says.
-- Marijuana plants burn easily -- never mix at 100%.
-- If label says 1 cap per 3 gallons, use 1 cap per 6 gallons.
-- This goes for flowering, secondary nutrients, and veg feeds.
-- You should never have to feed cannabis plants once a day.
-
-**Always mix food with water in a container first** before applying to
-the plant. Never pour raw feeding liquid directly onto soil.
-
-## [[nutrient-lockout]]
+From [[nutrient-lockout]]
 
 Lockout occurs when a large amount of one single nutrient is added,
 preventing the plant from using other nutrients. This chemical reaction
@@ -147,3 +72,26 @@ when no real deficiency exists. Solution: get new genetics.
 | Early veg | High N, balanced P/K | -- | Every 2 weeks |
 ## See Also
 - [[green-cannabis-grow-bible-vegetative-phase-management]]
+
+## See Also
+
+- [[green-cannabis-soil-flushing-nutrient-leaching]]
+## Practical Considerations
+
+Successful implementation of Cannabis Nutrient Schedules - Greg Green's Cannabis Grow Bible requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

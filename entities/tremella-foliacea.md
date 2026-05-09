@@ -85,8 +85,7 @@ This relationship is non-lethal to the host — the *Stereum* colony continues t
 
 ### Ecological Role
 
-- **Successional role:** Occupies a late-stage position on dead wood already colonized by *Stereum* white rot fungi
-- **Nutrient cycling:** Contributes to the complex fungal succession on hardwood debris in temperate forests
+- **Successional role:** Occupies a late-stage position on dead wood already colonized by *Stereum* [[fungal-succession]] on hardwood debris in temperate forests
 - **Moisture dynamics:** Gelatinous fruiting bodies can absorb and retain significant water, potentially moderating microhabitat moisture for other organisms
 - **Invertebrate habitat:** Provides temporary shelter and food for small insects and springtails during wet months
 
@@ -96,43 +95,6 @@ This relationship is non-lethal to the host — the *Stereum* colony continues t
 |---------|------------------------|
 | *Tremella fuciformis* | White to translucent; fruiting on *Annulohypoxylon* (not *Stereum*); commercially cultivated |
 | *Tremella aurantia* | Bright orange to yellow; larger, more erect; parasitizes *Stereum hirsutum* |
-| *Tremella mesenterica* | Bright yellow-orange; smaller, more convoluted; common in warmer months; also on *Peniophora* spp. |
-| *Tremella encephala* | Pinkish to reddish; parasitizes *Stereum sanguinolentum* on conifer wood |
-| *Exidia glandulosa* | Black, puckered; firm texture; also gelatinous but darker and on different hosts |
-
-## Edibility and Culinary Use
-
-- **Edibility:** Edible but generally considered poor quality due to bland flavor and gelatinous texture
-- **Preparation:** Can be used in soups where the gelatinous texture contributes body; sometimes candied in Chinese cuisine
-- **Nutritional value:** Low calorie; composed primarily of water and polysaccharides (tremellans)
-- **Commercial significance:** Negligible; occasionally sold in specialty mushroom markets in Asia
-- **Cautions:** No toxic lookalikes among jelly fungi; identification is straightforward due to unique morphology
-
-## Bioactive Compounds
-
-- **Tremellan polysaccharides:** Water-soluble β-glucans with reported immunomodulatory activity; similar compounds in *T. fuciformis* show anti-tumor and antioxidant properties
-- **Tremellastin:** Fibrinolytic enzyme isolated from related *Tremella* species
-- **Fatty acids:** Predominantly unsaturated (linoleic, oleic acids)
-- **Antioxidant capacity:** Moderate DPPH radical scavenging activity reported in aqueous extracts
-
-The pharmacological potential of *T. foliacea* specifically has been minimally studied compared to the commercially important *T. fuciformis*.
-
-## Cultivation
-
-- **Commercial cultivation:** Not practiced at scale; the species has no significant commercial demand
-- **Laboratory culture:** Grows on standard mycological media (MEA, PDA); slow-growing compared to other Tremellaceae
-- **Cultivation requirements:** Would require dual-culture with compatible *Stereum* host due to obligate parasitism — this limits practical cultivation potential
-- **Collection:** Wild-harvested specimens are gathered opportunistically by foragers familiar with the species
-
-## Permaculture and Agroforestry Notes
-
-- **Forest ecosystem indicator:** Presence indicates healthy hardwood decomposition cycles and diverse fungal communities
-- **Woodlot management:** No direct agroforestry application, but its presence signals functional dead-wood habitat retention
-- **Habitat support:** Retaining fallen hardwood branches in managed forests supports the *Stereum*-Tremella ecological complex
-- **Biodiversity marker:** Sensitive to air quality and forest fragmentation; more common in older, undisturbed woodlands
-
-## See Also
-
-- [[tremella-fuciformis-entity]] — Snow fungus, commercially cultivated close relative with significant medicinal research
-- [[tremella-mesenterica]] — Witch's butter, the common yellow jelly fungus of temperate forests
+| *[[decomposition-cycles]] and diverse fungal communities
+- **[[tremella-fuciformis-entity]] — Snow fungus, commercially cultivated close relative with significant medicinal research
 - [[sterilization]] — Sterilization techniques relevant to laboratory culture of Tremellaceae

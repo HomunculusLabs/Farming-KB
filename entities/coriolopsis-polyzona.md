@@ -111,13 +111,9 @@ In agroforestry settings, C. polyzona has been observed accelerating the decompo
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[trametes-sanguinea]]
 - coriolopsis polyzona
-- [[pore-fungi-polyporaceae]]
 - [[fomitopsis-pinicola]]
-- [[bjerkandera-adusta]]
 - [[fomes-fomentarius]]
-- [[ganoderma-lucidum]]
 - [[pore-fungi-polyporaceae]]
 - [[white-rot-fungi]]

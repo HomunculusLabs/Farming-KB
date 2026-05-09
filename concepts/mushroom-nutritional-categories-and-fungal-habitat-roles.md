@@ -40,26 +40,8 @@ Saprophytic decomposers are further subdivided into three successional stages:
 
 **Primary decomposers** are the first fungi to colonize fresh organic material,
 specializing in relatively intact plant tissues including cellulose and lignin.
-Examples include the [[oyster-mushroom|oyster mushroom]] (*Pleurotus ostreatus*),
-[[shiitake-cultivation-guide|shiitake]] (*Lentinula edodes*), and [[maitake-hen-of-the-woods-cultivation|maitake]] (*Grifola frondosa*),
-whose ability to break down lignin makes them uniquely valuable in nutrient cycling.
-
-**Secondary decomposers** follow primary decomposers after some initial breakdown has
-occurred. They thrive on material that has already been partially softened and chemically
-altered by the primary species. [[agaricus-bisporus|Agaricus bisporus]] (the common button
-mushroom) and [[king-stropharia-wine-cap-cultivation|king Stropharia]] (*Stropharia rugosoannulata*) are classic
-secondary decomposers, typically found in composted or well-rotted substrates rather
-than fresh wood.
-
-**Tertiary decomposers** are soil-dwelling fungi operating at the final stages of
-decomposition, processing humus and mineral-rich organic residues. They complete the
-cycle of returning complex organic molecules to simple inorganic forms that plants can
-reabsorb, maintaining soil fertility over long timescales.
-
-### Parasitic Mushrooms
-
-Parasitic fungi feed on living hosts, deriving their nutrients at the expense of the host
-organism. While this category includes destructive species like [[armillaria-mellea|Armillaria]]
+Examples include the [[shiitake-cultivation-guide|shiitake]] (*Lentinula edodes*), and [[agaricus-bisporus|Agaricus bisporus]] (the common button
+mushroom) and [[armillaria-mellea-entity|Armillaria]]
 (honey mushroom), which can kill trees, the line between parasitism and saprophytism is
 often blurred. Many parasitic fungi continue decomposing their host after death,
 transitioning to a saprophytic mode. True obligate parasites are relatively rare among
@@ -73,28 +55,7 @@ facultative parasites.
 Mycorrhizal fungi form mutually beneficial partnerships with the roots of living plants.
 Approximately 2,000 to 3,000 known mushroom species are mycorrhizal, connecting
 individual plants into shared nutrient networks sometimes called the
-[[wood-wide-web|wood wide web]]. The term mycorrhiza literally means "fungus root,"
-dating back over 400 million years to the earliest land plants. The two major types
-of mycorrhizal partnerships are:
-
-**Ectomycorrhizal fungi** form a dense sheath (mantle) around plant root tips and extend
-hyphae into the spaces between root cells without penetrating them. Many well-known
-forest mushrooms are ectomycorrhizal, including chanterelles,
-boletes, [[tricholoma-matsutake|matsutake]], and [[fly-agaric-isoxazole-chemistry-and-variability|fly agaric]]
-(*Amanita muscaria*), especially in temperate and boreal forests where they dominate
-communities associated with conifers and hardwoods.
-
-**Endomycorrhizal fungi** (vesicular-arbuscular mycorrhizae, or VAM) penetrate root
-cell walls and form specialized arbuscules inside root cells where nutrient exchange
-occurs. VAM associations are extraordinarily widespread in agricultural crops and
-grassland species, though they produce few conspicuous above-ground mushrooms.
-
-#### The Simard Experiment: Carbon Sharing Between Tree Species
-
-One of the most important experiments demonstrating mycorrhizal network power was
-conducted by forest ecologist Suzanne Simard. Douglas fir (*Pseudotsuga menziesii*)
-and paper birch (*Betula papyrifera*) were grown together and connected through a shared
-[[mycorrhizal-networks-common-mycelial-network|mycorrhizal network]]. When Douglas fir seedlings were
+[[tricholoma-matsutake|matsutake]], and [[mycorrhizal-networks-common-mycelial-network|mycorrhizal network]]. When Douglas fir seedlings were
 experimentally shaded, Simard found that carbon was transferred from the sun-exposed
 paper birch to the shaded Douglas fir through the shared fungal network. This revealed
 that mycorrhizal networks serve as conduits for resource redistribution across species
@@ -108,24 +69,8 @@ root systems. The mycorrhizal mycelium radiating outward from roots may have a s
 area 10 to 100 times greater than the surface area of the plant's own leaves. This vast
 underground network allows plants to access water, phosphorus, nitrogen, and trace
 minerals far beyond the physical reach of their roots. In return, the plant supplies the
-fungus with carbohydrates, forming the foundation of [[mycorrhizal-fungi-symbiosis-with-plants|symbiosis]] in forest
-ecosystems. Hyphal threads only a few micrometers in diameter can penetrate tiny soil
-pores that roots cannot reach, giving mycorrhizal plants a decisive advantage in
-nutrient-poor soils.
-
-### Endophytic Fungi
-
-Endophytic fungi live within the tissues of living plants without causing visible disease.
-They are primarily benevolent, non-mycorrhizal fungi that enhance plant growth and confer
-protection from environmental stress and pathogens. Unlike mycorrhizae, which are
-restricted to root tissues, endophytes can colonize stems, leaves, and even seeds,
-providing systemic protection throughout the plant. Many endophyte species have likely
-not yet been formally described, making them a frontier in [[fungal-ecology|fungal ecology]]
-and [[mycology|mycology]].
-
-**Piriformospora indica** is a well-studied endophyte that colonizes the roots of a wide
-range of plants, increasing wheat growth by approximately 30% through enhanced nutrient
-uptake and [[plant-defense-mechanisms|plant defense]] stimulation. Its broad host range makes it a
+fungus with carbohydrates, forming the foundation of [[fungal-ecology|fungal ecology]]
+and [[plant-defense-mechanisms|plant defense]] stimulation. Its broad host range makes it a
 promising candidate for sustainable agriculture.
 
 **Cumilara sp.** is an endophytic fungus isolated from the geothermal zones of Yellowstone
@@ -147,4 +92,3 @@ parasites**, capable of switching between saprophytic and parasitic modes depend
 environmental conditions and host health. Armillaria mellea, for
 example, may live for years as a decomposer on dead wood, then opportunistically attack
 living trees when conditions allow. This flexibility accelerates the death of
-already-stressed trees and opens gaps for new growth, blurring the boundary between

@@ -1,60 +1,13 @@
 ---
 title: Neurotropic Fungi Classification and the Four-Group System
 created: 2026-04-28
-tags: [mycology, neurotropic-fungi, psilocybin, taxonomy, guzman-allen-gartz, classification, hallucinogens, ergot, ibotenic-acid]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Annali del Museo Civico di Rovereto, Sez.: Arch., St., Sc. nat., 14, 189-280.
-type: concept
----
-
-# Neurotropic Fungi Classification and the Four-Group System
-
-Gastón Guzmán, John W. Allen, and Jochen Gartz proposed a comprehensive four-group classification system for neurotropic (hallucinogenic) fungi in their landmark 2000 paper. This system organizes all known neurotropic mushroom species into categories based on their chemical constituents and cultural uses, covering 216 species across multiple genera and all continents.
-
-## The Four Groups
-
-### Group 1: Psilocybin and Related Indoles
-
-The largest group contains species with psilocybin and related indole compounds, or those likely to contain these substances. This group encompasses the majority of known neurotropic fungi:
-
-| Genus | Number of Species |
-|-------|------------------|
-| Psilocybe | 116 |
-| Gymnopilus | 14 |
-| Panaeolus | 13 |
-| Copelandia | 12 |
-| Hypholoma | 6 |
-| Pluteus | 6 |
-| Inocybe | 6 |
-| Conocybe | 4 |
-| Panaeolina | 4 |
-| Gerronema | 2 |
-| Agrocybe | 1 |
-| Galerina | 1 |
-| Mycena | 1 |
-
-Several species in this group, mainly among the Panaeoloideous fungi, have no known chemical studies confirming the presence of active compounds. The presence of psilocybin in some species has been disputed or found to be unreliable upon re-analysis.
-
-### Group 2: Ibotenic Acid
-
-This group contains three [[amanita]] species known to produce ibotenic acid and muscimol:
+tags: [[amanita]] species known to produce ibotenic acid and muscimol:
 
 - **Amanita muscaria** — The classic fly agaric, used traditionally in Siberia among the Chukchee and Koryak peoples
 - **Amanita pantherina** — Panther cap, documented to contain ibotenic acid by Hatfield (1979)
 - **Amanita regalis** — A related species with similar properties
 
-The [[amanita]] neurotropics are pharmacologically distinct from the psilocybin-containing fungi, acting primarily on GABA receptors rather than serotonin receptors.
-
-### Group 3: Ergot Fungi
-
-The ergot group contains species of Claviceps and Cordyceps:
-
-- **5 species of Claviceps** — Including the famous Claviceps purpurea, source of ergot alkaloids that can produce hallucinations (ergotism)
-- **2 species of Cordyceps** — Including C. capitata and C. ophioglossoides, used ceremonially by indigenous peoples in Mexico
-
-These ascomycete fungi are taxonomically distinct from the basidiomycete neurotropics in Groups 1 and 2. The genus Cordyceps is closely related to Claviceps. In Mexico, Cordyceps species are used in special nocturnal ceremonies, sometimes eaten together with [[psilocybe-muliercula]].
+The [[psilocybe-muliercula]].
 
 ### Group 4: Sacred Fungi Without Confirmed Chemistry
 
@@ -64,38 +17,11 @@ This group contains species used as sacred fungi for which no reliable chemical 
 - **Russula**: 6 species used in ceremonial contexts
 - **Gasteromycetes** (puffballs): 6 species across 3 genera including Lycoperdon and Astraeus
 
-Many species in this group are likely the result of **confusion or substitution** with confirmed neurotropic species. For example, Ott et al. (1975) identified at least nine species of "narcotic puffballs" used by the Mixtec Indians of Oaxaca that contained no neurotropic properties. Similarly, [[dictyophora-indusiata]] is used for divination among the Chinantec Indians despite lacking confirmed active compounds.
-
-## Problems in Classification
-
-### Misidentification
-
-Misidentification is a significant factor contributing to confusion in published chemical studies. Chemical studies frequently lack a taxonomic basis, and in some cases, mixtures of different species were studied. Guzmán found a mixture of Panaeolus spp., Psilocybe mexicana, and P. coprophila all identified as P. coprophila in material used by Leslie and Repke to isolate psilocybin.
-
-### Conflicting Reports
-
-Frequently, a single species has been reported with and without neurotropic substances by different researchers. A prominent example is [[panaeolina-foenisecii]]: Mantle and Waight (1969), Ott and Guzmán (1976), Beug and Bigwood (1982), and Stijve (1987) found no psilocybin, while Robbers et al. (1969), Olah (1969), and others reported its presence. It appears P. foenisecii is more toxic than neurotropic.
+Many species in this group are likely the result of **confusion or substitution** with confirmed neurotropic species. For example, Ott et al. (1975) identified at least nine species of "narcotic puffballs" used by the Mixtec Indians of Oaxaca that contained no neurotropic properties. Similarly, [[panaeolina-foenisecii]]: Mantle and Waight (1969), Ott and Guzmán (1976), Beug and Bigwood (1982), and Stijve (1987) found no psilocybin, while Robbers et al. (1969), Olah (1969), and others reported its presence. It appears P. foenisecii is more toxic than neurotropic.
 
 ### Volatility of Active Compounds
 
-The age of studied specimens is an important variable. Repke et al. (1977) showed variations in baeocystin content according to specimen age, with no trace of indoles in specimens analyzed 20-60 days after collection. This aligns with the traditional knowledge of Mexican Indians, who say that old dried specimens kept for more than one year are not effective. Ohenoja et al. (1987) found decreasing psilocybin in herbarium specimens of [[psilocybe-semilanceata]]: 0.014% (1869 specimen), 0.67% (1954), and 0.84% (1976).
-
-### Unreliable Studies
-
-Several chemical studies must be considered doubtful due to analytical errors. Bresinsky and Besl (1990) considered studies on Stropharia cyanea, S. coronilla, Mycena pura, and Amanita gemmata to be doubtful. Stijve and Kuyper (1988) did not find psilocybin in Gerronema fibula, Gymnopilus fulgens, G. spectabilis, or several other species previously reported as active.
-
-## Indigenous Mexican Names and Traditional Use
-
-The neurotropic fungi were so important in Mexican traditions that Guzmán (1997) reported more than 200 common names, many in indigenous languages. Notable Nahuatl names include:
-
-- **"Teonanácatl"** — Divine mushroom (now indiscriminately applied to all Mexican hallucinogenic fungi)
-- **"Apipiltzin"** — Kid or little boy
-- **"Atkad"** — Mayor or leader
-- **"Di nizé taaya"** — Fungus of the genius
-- **"Shi thó"** — That eruptions thing
-- **"Teotlaquilnanácatl"** — Divine fungus
-
-Common Spanish names include "san isidros" (a saint of agriculture, describing [[psilocybe-cubensis]]), "pajaritos" (little birds, for [[psilocybe-mexicana]]), and "derrumbes" (landslides, for [[psilocybe-zapotecorum]]).
+The age of studied specimens is an important variable. Repke et al. (1977) showed variations in baeocystin content according to specimen age, with no trace of indoles in specimens analyzed 20-60 days after collection. This aligns with the traditional knowledge of Mexican Indians, who say that old dried specimens kept for more than one year are not effective. Ohenoja et al. (1987) found decreasing psilocybin in herbarium specimens of [[psilocybe-cubensis]]), "pajaritos" (little birds, for [[psilocybe-zapotecorum]]).
 
 ## Historical Periods of Neurotropic Fungi Study
 
@@ -132,8 +58,25 @@ The confusion around some of these species often stems from shared indigenous na
 
 ## See Also
 
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
-- [[neurotropic-fungi-classification]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[neurotropic-fungi-in-africa]]
+## Practical Considerations
+
+Successful implementation of Neurotropic Fungi Classification and the Four-Group System requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -16,42 +16,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, pyrrolidine ring substitution
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: 200-250 mg orally
-
-- Duration: Unknown (brief)
-
-- Active routes: oral
-
-## Qualitative Effects
-
-At 200 mg (oral): "This was mild, soft, warm, and good. There was the feeling
-of an inner sun. No visual effects, but there was a plus one and a half which
-lasted for some three hours."
-
-At 250 mg (oral): Effects were similar but more pronounced, still described
-as gentle and warm.
-
-## Pharmacological Profile
-
-pyr-T is a remarkably gentle compound compared to other tryptamines. The
-dose range of 200-250 mg is quite high, suggesting that the constrained pyrrolidine
-ring geometry reduces affinity for the primary psychedelic receptors. The
-experience is described in terms more commonly associated with mild entactogens
-than with classic tryptamine psychedelics — "soft, warm, and good" with an
-"inner sun" feeling rather than visual phenomena.
-
-The pyrrolidine ring constrains the two nitrogen substituents into a five-membered
-ring (equivalent to four methylene bridges, hence "tetramethylene"), creating
-a rigid, cyclic structure rather than the freely rotating dialkyl groups
-found in compounds like [[det-entity-tihkal]] or [[4-ho-dpt-entity-tihkal]].
-
-## Comparison with Hydroxylated and Methoxylated Analogues
-
-The 4-hydroxy analogue [[4-ho-pyr-t-entity-tihkal]] produces a
+- Source: [[det-entity-tihkal]] or [[4-ho-pyr-t-entity-tihkal]] produces a
 dramatically different experience — "bizarre" and "not friendly" with a three-hour
 latency. The 5-methoxy analogue 5-MeO-pyr-T produces
 very negative effects with amnesia at doses of 0.5-2 mg. The unsubstituted
@@ -147,3 +112,7 @@ below regulatory attention. No specific scheduling is known as of 2024.
 pyr-T is primarily of interest as a pharmacological tool for understanding
 the role of nitrogen substitution geometry in tryptamine activity. The dramatic
 differences between pyr-T and its substituted analogues (4-HO-pyr-T and
+
+## See Also
+
+- [[4-5-mdo-dmt-entity-tihkal]]

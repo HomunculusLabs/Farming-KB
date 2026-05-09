@@ -1,5 +1,5 @@
 ---
-title: Rabbits in Permaculture Design and Soil Preparation
+title: Mollison Rabbits In Permaculture Design And Soil Preparation
 created: 2026-04-26
 tags:
   - permaculture
@@ -14,9 +14,7 @@ sources:
 type: concept
 ---
 
-# Rabbits in [[permaculture-design]] and Soil Preparation
-
-In *Permaculture: A Designers' Manual*, [[bill-mollison]] presents rabbits
+# Rabbits in [[bill-mollison]] presents rabbits
 not as a simple protein source but as active landscape modifiers that
 prepare soil, create micro-niches, and participate in nutrient cycles.
 The principle of "everything gardens" applies directly to rabbits,
@@ -73,33 +71,7 @@ can be mimicked or managed in designed landscapes.
 
 ## Rabbits in Zone 1 and Zone 2
 
-In the [[mollison-zone-planning-frequency-distance-and-placement]] system, rabbits are classified as small domestic and quiet
-animals suitable for Zone 1, placed within 6 metres of the home. Here,
-householders can produce most of the food necessary to existence with
-some modest trade requirements. Rabbits join fish, pigeons, and guinea
-pigs as quiet, small-scale food producers in the intensive home
-garden zone.
-
-In the total design garden model, rabbits are part of a system that
-provides most mulch and a lot of fodder or forage. When bulked out by
-house scraps, the garden should feed rabbits, guinea pigs, some
-poultry, and even fatten a small pig.
-
-## Rabbit Warrens as Soil-Building Structures
-
-Mollison observes that rabbit warrens create well-drained, fertile
-sites. Rabbits choose good drainage for their burrows, and their
-waste products accumulate to create nutrient-rich and micro sites. These
-warrens become open, fertile beds for new forest evolutions over time.
-
-In dryland and granite country, rabbits contribute to soil development
-through their burrowing activity, which breaks up compacted subsoils
-and brings deeper mineral material to the surface where weathering
-processes can release nutrients.
-
-## Integration with Animal Tractor Systems
-
-The concept of [[mollison-chicken-tractor-and-animal-tractor-systems]] extends to rabbits. By confining rabbits to
+In the [[mollison-chicken-tractor-and-animal-tractor-systems]] extends to rabbits. By confining rabbits to
 specific areas using mobile pens or fencing, designers can direct their
 soil-preparing and fertilising effects to zones intended for future
 planting. This follows the same logic as chicken or pig tractors used
@@ -145,3 +117,7 @@ Rabbits provide the following yields in permaculture systems:
 - Manure for garden fertility
 - Soil preparation and aeration through burrowing
 ## See Also
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

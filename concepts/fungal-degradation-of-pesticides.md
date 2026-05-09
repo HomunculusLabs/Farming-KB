@@ -3,7 +3,7 @@ title: Fungal Degradation of Pesticides
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Degradation of Pesticides and Herbicides
@@ -115,15 +115,10 @@ The study of fungal pesticide degradation accelerated in the 1970s-1980s, driven
 Regulatory frameworks such as the EU Biocidal Products Regulation and the US EPA's registration review process increasingly require data on environmental fate and degradation pathways of pesticides. This regulatory demand has driven research into fungal degradation as a natural attenuation mechanism and as the basis for engineered bioremediation systems. The development of glyphosate-resistant crops in the 1990s led to massive increases in glyphosate use, and subsequent research revealed that several fungal species can degrade glyphosate through the AMPA pathway, contributing to its relatively rapid dissipation in many soils.
 
 ## See Also
-- [[fungal-degradation-of-phenols-and-chlorophenols]]
-
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[mycoremediation-of-pahs]]
 - [[mycoremediation-pcbs-and-dioxins]]
-- [[fungal-biology-fundamentals]]
 - [[soil-food-web-structure]]
 
 ## Related
 
-- [[mycoremediation-of-explosives]]
 - [[fungal-degradation-of-pcbs-by-white-rot-fungi]]

@@ -56,13 +56,7 @@ Contour channels above the keyline distribute water from high dams outward acros
 
 ## Integration with Permaculture Design
 
-Keyline design fits naturally into [[permaculture-earthworks-and-water-harvesting]] as the foundational water management strategy for broadacre sites. In permaculture design, keyline is typically the first earthworks step:
-
-- **Sector analysis**: Keyline planning integrates with permaculture sector analysis (sun, wind, fire, water) to place tree belts, access roads, and building sites in relationship to water flow patterns.
-
-- **Tree planting**: Tree belts planted along keyline contours serve dual purposes -- stabilizing soil and creating windbreaks while roots follow the moisture channels opened by keyline cultivation.
-
-- **Zone planning**: Keypoint dams and irrigation channels can supply [[urban-permaculture-rainwater-harvesting-graywater]] needs for zone 1-3 intensive growing areas while managing broadacre zone 4-5 grazing or forestry.
+Keyline design fits naturally into [[urban-permaculture-rainwater-harvesting-graywater]] needs for zone 1-3 intensive growing areas while managing broadacre zone 4-5 grazing or forestry.
 
 - **Swale integration**: On smaller properties, keyline principles inform Water Harvesting Techniques Comparison by providing the conceptual framework for where swales, diversion drains, and spillways should be placed.
 
@@ -92,7 +86,6 @@ Keyline design fits naturally into [[permaculture-earthworks-and-water-harvestin
 
 ## Related
 
-- [[arid-landscape-permaculture]]
 - [[edge-effect-in-permaculture]]
 - [[zone-and-sector-analysis]]
 

@@ -5,26 +5,9 @@ updated: 2026-04-24
 sources: "James Arthur, Mushrooms and Mankind"
 wikilinks: "arthur-christmas-tree-amanita-muscaria arthur-mushrooms-hinduism-buddhism arthur-phallic-symbolism-mushrooms arthur-mushroom-iconography-medieval-europe"
 type: concept
-tags: [mushroom-cultivation, mushrooms]
----
-
-# Mushroom Symbolism in Ancient Sumerian and Egyptian Art
-
-## The Sumerian Connection
-
-The region of Mesopotamia (Sumeria) appeared with high knowledge of astronomy,
-architecture, a pantheon of gods, agriculture, gourmet foods, and courts. It is
-considered the cradle of civilization, encompassing the rivers Tigris and
-Euphrates, which flowed from the Garden of Eden in the Genesis stories. More
-than 4,000 years before the Bible, the stories of the Garden of Eden, the
-Flood, and the Creation of the Earth, plants, beasts, and Man were preserved in
-Cuneiform on clay tablets.
-
-[[john-allegro]] linguistically linked the Soma (Greek = Body), the Manna (Sumerian
+tags: [[john-allegro]] linguistically linked the Soma (Greek = Body), the Manna (Sumerian
 = Mushroom), the names Jesus, James, and John, the Fruit of the Tree of
-Knowledge, and the symbol of the cross to the [[allegro-colour-and-consistency-of-the-amanita-muscaria]], stating that
-all of these names and terms were synonyms and wordplay for the hidden identity
-of the mushroom. See [[allegro-main-thesis]] for Allegro's full argument.
+Knowledge, and the symbol of the cross to the [[allegro-main-thesis]] for Allegro's full argument.
 
 ## The Anunnaki and the Fruit of Knowledge
 
@@ -89,10 +72,7 @@ gods, continuously repeats the statement "what is it?" at every step of his
 journey. This question is the very definition given for the enigmatic Manna in
 the Jewish records.
 
-## [[egyptian-mushroom-symbolism]]
-
-Andrija Puharich, in his book "The Sacred Mushroom (Key to the Door Of
-Eternity)," described hieroglyphic and linguistic links to the [[amanita-muscaria-chemistry-and-pharmacology]].
+## [[amanita-muscaria-chemistry-and-pharmacology]].
 The typical mushroom pictogram, and the Ankh, are theorized as symbols for the
 mushroom. The Aten (winged Disc) symbolizes the mushroom cap with the mushroom
 gills being stylized as wings.
@@ -142,7 +122,7 @@ The Egyptian mystery schools gave birth to other secret initiatory orders such
 as the Rosicrucians, Freemasons, and Templars. The highest initiatory ritual,
 accomplished in the central chamber of the Great Pyramid at Gizeh, combined the
 multi-dimensional effects of the pyramid structure with the multi-dimensional
-effects of the [[amanita-muscaria]]'s unique death and rebirth experience. See [[soma-and-the-sacred-mushroom-debate]] for more on the entheogenic mushroom hypothesis.
+effects of the [[soma-and-the-sacred-mushroom-debate]] for more on the entheogenic mushroom hypothesis.
 
 The sarcophagus, whose name literally translates as "flesh-eating," is where
 the initiate would lie down, consume the sacred flesh, and drink of the waters

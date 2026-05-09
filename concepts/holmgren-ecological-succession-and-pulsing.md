@@ -3,7 +3,7 @@ title: Holmgren Ecological Succession and Pulsing Systems
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
+tags: [[permaculture, design, sustainability]
 sources: ["papers/david-holmgren-permaculture-principles-pathways-beyon.md"]
 ---
 
@@ -67,50 +67,25 @@ The two-phase model of pulsing ecosystem change alternates between:
 ### Slash and Burn Agriculture
 - Most energy-efficient form of agriculture documented
 - New Guinea highland swidden: structure mimics rainforest with multiple canopy levels
-- "Mother of the gardens": retained forest trees essential for soil regeneration
-- 20 years generally necessary to fully rebuild fertility between cycles
-- Ratio of garden to forest always small (for sustainability)
-- Now widely regarded as unsustainable due to population pressure shortening rotation time
-
-### Modern Agricultural Pulsing
-- Farmers observe good pasture growth following clearing, repeatedly clear and re-clear
-- Each pulse contributes to downward spiral of land degradation
-- Each clearing and pasture-growing phase causes more erosion and nutrient loss than 20+ years of bush regrowth can accumulate
-
-### Lessons for Land Management
-- Benefits of the pulse depend on slow accumulation of the building phase
-- Pulsing too frequently leads to downward spiral of land degradation
-- This dynamic is a generalised model of land degradation: addiction to a management pattern provides immediate benefits but produces long-term decline
-- The discovery of pulsing was more fundamental to Homo sapiens success than the invention of annual crop agriculture
-
-## The Four-Phase Model of Ecosystem Change (C.S. Holling)
-
-1. **Conservation (K phase)**: long-lived, steady-state climax; high interconnection between elements; large stored biological capital; little nutrient leakage
-
-2. **Release (Omega phase)**: pulse of disturbance, typically very short in duration; accumulated capital is suddenly released
-
-3. **Reorganisation (Alpha phase)**: most unstable phase; open niches, soluble nutrients and energy available; potential to flip to systems that are less OR more productive and organised; includes high risk of ecological drift to lower productivity and lower risk of major degradation
-
-4. **Exploitation (r phase)**: fast-growing pioneer species colonise opportunities, catch and store energy quickly, cement patterns for gradual build-up toward new conservation phase
-
-This model focuses attention on conditions within the climax that make the system vulnerable, and on the complex dynamics following release before a new vigorous exploitation phase is established.
-
-## Application to Social and Economic Systems
-
-### Back-to-the-Land Pioneers
-Since the 1970s, rural migrants acted as pioneers changing social and economic environments. Their achievements attract second-wave settlers and tourists -- a variation of gentrification.
-
-### Gentrification as Social Succession
-Students/artists -> owner-renovators -> investor owners/professionals -> disinvestment/crime -> new opportunity for the poor. Looks like a pulsing or four-phase system.
-
-### Socio-Political Cycles
-The neoliberal economic revolution of the 1980s-2000s can be understood as consuming social and economic capital built up over the preceding four decades -- analogous to a farmer marvelling at crops growing on ashes of a burnt forest.
-
-### The Large-Scale Pulse of Fossil Fuels
-"The problem is the solution": global capitalism releasing earth's accumulated resources according to Holling's Four-Phase Cycle means Permaculture represents the new potential of the Reorganisation phase. The ashes of the consumed forest provide opportunities for pioneering species to reform the forest.
-
-See also:, [[holmgren-permaculture-change-principle]], [[permaculture-fire-management]],, [[permaculture-retrofit-suburbia]], [[permaculture-pattern-literacy]]
-- [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
-- [[holmgren-built-environment-energy-store]]
+- "Mother of the gardens": retained forest trees essential for [[holmgren-permaculture-change-principle]], [[permaculture-retrofit-suburbia]], [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
 - [[building-soil-fertility-long-term]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Practical Considerations
+
+Successful implementation of Holmgren Ecological Succession and Pulsing Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

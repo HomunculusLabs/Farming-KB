@@ -84,15 +84,8 @@ cannabinoids. A common approach involves CBD-dominant preparations to
 minimize psychoactive effects while maximizing neuroprotective benefits.
 Some clinicians recommend starting with 5-10 mg of CBD and titrating
 gradually. THC may be added in small amounts (1-2.5 mg) if additional
-symptom relief is needed. The concept of [[blesching-cannabis-dosing-strategies]]
-is particularly relevant for PD patients who may be sensitive to
-psychoactive effects.
-
-## Relationship to Broader Neurodegenerative Research
-
-The evidence for cannabis in Parkinson's disease parallels findings in
-other neurodegenerative conditions. See also [[blesching-cannabis-alzheimers-dementia]],
-[[blesching-cannabis-multiple-sclerosis]], and [[blesching-cannabis-neurodegenerative-diseases]]
+symptom relief is needed. The concept of [[blesching-cannabis-alzheimers-dementia]],
+[[blesching-cannabis-neurodegenerative-diseases]]
 for related research on cannabinoids and neurological health. The shared
 mechanisms of neuroinflammation, oxidative stress, and excitotoxicity
 suggest that cannabinoid therapies may have broad applicability across

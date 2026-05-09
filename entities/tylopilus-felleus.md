@@ -139,12 +139,9 @@ for bolete foragers. The spore print is the definitive diagnostic: pink
 confirms *Tylopilus*, olive-brown confirms *Boletus* sensu stricto. Tasting
 a tiny fragment, while not recommended for unknown boletes, provides
 immediate confirmation if the identity is already strongly suspected.
-
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[leccinum-scabrum]]
-- [[suillus-luteus]]
 - [[gyroporus-cyanescens]]
 - xerocomellus chrysenteron
 - [[rubroboletus-satanas]]

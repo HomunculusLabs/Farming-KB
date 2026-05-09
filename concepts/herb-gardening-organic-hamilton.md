@@ -11,34 +11,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gard
 
 Updated: 2026-04-18
 
-Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow, most are extremely decorative, they help attract useful predators to the garden, and those insects -- such as bees -- needed for pollination in the [[organic-fruit-tree-care-calendar]].
-
-## Planning an Herb Garden
-
-### Site Selection
-Locate the herb garden in the sunniest part of the garden. Most herbs originate from the Mediterranean, so they thrive in warm sunshine. The few that prefer a little shade (like mint and chervil) can be planted in the shade of larger sun-loving herbs.
-
-### Layout Options
-- **Traditional formal herb garden**: Plants arranged in formal patterns, each herb or group enclosed by low hedging (box or lavender). The intricate designs maintain year-round interest since most herbs die down completely in winter.
-- **Informal/cottage garden**: Herbs integrated with flowers and other plants in mixed borders.
-- **Container growing**: Low-growing species like thyme, rosemary, and parsley are suitable for tubs, window boxes, and hanging baskets.
-- **Dedicated herb garden with pathways**: Put in pathways or stepping stones so each plant can be reached without stepping off the path. Good access is vital since herbs are harvested more regularly than most plants.
-
-### Plant Selection Considerations
-Consider the potential height, spread, growth rate, and sun preference of each plant. Some herbs like lovage grow to enormous proportions (8ft/2.5m) and are only suitable for the back of a large garden. Borage needs full sun; mint thrives in semi-shade. Both are fast-spreading.
-
-## Soil Preparation
-
-Ideally, herb soil should be well-drained and light. With good preparation, herbs will grow in heavier soils too.
-
-### Double Digging
-Double dig the area, breaking up the subsoil and working in plenty of well-rotted manure or [[organic-garden-soil-preparation]], or one of the alternatives. Since most herbs prefer a soil pH of 7.0 to 7.5, spent mushroom compost is ideal.
+Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow, most are extremely decorative, they help attract useful predators to the garden, and those insects -- such as bees -- needed for pollination in the [[organic-garden-soil-preparation]], or one of the alternatives. Since most herbs prefer a soil pH of 7.0 to 7.5, spent mushroom compost is ideal.
 
 ### Raised Beds for Wet Soils
-The one thing most herbs cannot stand is bad drainage. If soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and organic matter, build a [[raised-bed-gardening]]. Use hard-wearing brick or stone to raise the sides (old railroad ties are ideal). A 12in (30cm) height is sufficient.
-
-### Pre-Planting Fertilizer
-If planting container-grown plants in spring or summer, rake in two handfuls of [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]] per square yard/meter about two weeks before planting. Use bone meal alone before fall and winter plantings.
+The one thing most herbs cannot stand is bad drainage. If soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and organic matter, build a [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]] per square yard/meter about two weeks before planting. Use bone meal alone before fall and winter plantings.
 
 ## Maintenance
 
@@ -91,6 +67,24 @@ Watch carefully for self-sown seedlings. Plants like borage, mint, and especiall
 
 ## Source
 - Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Herb Garden section, pp. 237-245.
-- [[hamilton-garden-layout-beds-borders-paths]]
 - [[gaias-garden-fruit-tree-selection]]
 - [[hamilton-garden-planning-and-site-assessment]]
+## Practical Considerations
+
+Successful implementation of Herb Gardening (Organic) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

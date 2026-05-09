@@ -140,10 +140,10 @@ maintain strict grow room cleanliness at all times.
 
 ## Related
 
-- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 
-- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] Pages
-
-- cannabis pest management
 - [[cannabis-pest-management-guide]]
+
+## See Also
+
+- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]

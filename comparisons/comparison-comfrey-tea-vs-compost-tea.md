@@ -142,8 +142,6 @@ An aerobic "quick brew" method exists (aerating leaves and water for 24–48 hou
 - You want to cycle nutrients from comfrey's deep taproot into your crop root zone.
 ## See Also
 
-- [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[comparison-bokashi-vs-compost-tea]]
-- [[comparison-nettle-vs-comfrey]]
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[comparison-compost-tea-vs-vermicompost-tea]]

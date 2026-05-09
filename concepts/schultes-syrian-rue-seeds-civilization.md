@@ -123,15 +123,9 @@ ergot in Europe.
 
 ## See Also
 
-- [[syrian-rue]]
-
 - [[schultes-solandra-kieli-huichol-narcotic]]
 
-- [[schultes-ayahuasca-magic-drink-amazon]] for the Amazonian brew whose
-  chemistry Syrian Rue can replicate
 - [[schultes-ergot-st-anthonys-fire]] for ergot, another source of
   lysergic acid and ergoline alkaloids
-- [[schultes-ololiuqui-vines-serpent]] for morning glory seeds containing
-  related ergoline compounds
 - [[schultes-san-pedro-four-winds]] for another plant with beta-carboline
   additive traditions in Andean ceremonies

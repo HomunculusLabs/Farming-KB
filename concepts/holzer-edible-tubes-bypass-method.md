@@ -70,8 +70,7 @@ the top.
 
 ## Part of a Larger Urban Strategy
 
-These techniques are part of Holzer's broader [[holzer-urban-farming]]
-approach. Combined with [[holzer-urban-gardening-rubbish-hugelkultur]], mini-crater gardens, hanging gardens, and wall-mounted
+These techniques are part of Holzer's broader [[holzer-urban-gardening-rubbish-hugelkultur]], mini-crater gardens, hanging gardens, and wall-mounted
 containers, they demonstrate that food can be grown anywhere -- even on
 rubbish tips in slums. The system has been adopted in cities worldwide,
 from Sao Paulo to Moscow.
@@ -114,8 +113,6 @@ Vertical growing systems present unique pest and disease challenges due to their
 
 ## Related Topics
 
-- [[holzer-urban-gardening-rubbish-hugelkultur]]
 - [[holzer-urban-farming]]
-- [[holzer-balcony-garden]]
 - [[holzer-tamera-water-landscape-project]]
 - [[holzer-irrigation-principles]]

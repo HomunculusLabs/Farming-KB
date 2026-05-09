@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ---
 # Oriental Herbal Nutrient
-**[[oriental-herbal-nutrient-ohn]]** is a traditional Korean Natural Farming (KNF) preparation made by extracting bioactive compounds from five medicinal herbs through sequential fermentation in rice wine and brown sugar. Developed by Master Han [[herbal-medicine]] of the Cho Global Natural Farming system, OHN functions as a natural pesticide, plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
+**[[herbal-medicine]] of the Cho Global Natural Farming system, OHN functions as a natural pesticide, plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
 ## The Five Herbs
 ### 1. Angelica gigas (Korean Angelica / Dang Gui / 당귀)
 * **Plant family:** Apiaceae
@@ -103,6 +103,5 @@ OHN compounds trigger plant immune responses:
 * **Regulatory status:** OHN's status under organic certification standards varies by certifying body and country; some accept it as a permitted input, others require specific documentation
 * **Potential phytotoxicity:** Over-application (exceeding 1:500 dilution) can cause leaf burn, particularly on sensitive crops and young seedlings
 ## See Also
-* [[fermented-plant-juice]] — FPJ, nutrient input used alongside OHN
 * [[lactic-acid-bacteria]] — Microorganisms involved in OHN fermentation
 * [[indigenous-microorganisms]] — IMO preparations used in KNF systems

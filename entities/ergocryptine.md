@@ -114,21 +114,9 @@ ergocristine (valine) and ergocornine (α-aminobutyric acid).
 
 | Compound | Key Difference |
 |----------|---------------|
-| [[ergocristine]] | L-Valine in tripeptide instead of Aib; MW 609.7 |
 | [[ergocornine]] | L-α-aminobutyric acid in tripeptide; MW 561.7 |
 | ergocristinine | C-8 epimer of ergocristine (β-epimer) |
-| [[ergometrine]] | Simpler ergoline amide; no cyclol tripeptide |
 | [[ergotamine]] | L-Phenylalanine in tripeptide; MW 581.7 |
-| [[lysergic-acid-amide]] | Simple amide precursor; no peptide moiety |
-
-Bromocriptine (2-bromo-α-ergocryptine) is the semisynthetic derivative
-of ergocryptine used clinically. Bromination at C-2 of the indole ring
-increases dopaminergic selectivity and oral bioavailability while
-reducing vasoconstrictive side effects.
-
-## See Also
-
-- [[ergocristine]] — Structurally related ergopeptine with L-valine
-- [[ergocornine]] — Ergopeptine differing at one amino acid position
+| [[ergocristine]] — Structurally related ergopeptine with L-valine
 - [[ergotamine]] — Clinically important ergopeptine with broader use
 - [[lysergic-acid-amide]] — Biosynthetic precursor to all ergopeptines

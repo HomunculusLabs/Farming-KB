@@ -120,12 +120,8 @@ As a ground-covering vine in secondary forests, it contributes to soil stabiliza
 ## See Also
 
 - dioscorea villosa
-- [[trifolium-pratense]]
 - [[glycyrrhiza-glabra]]
-- [[turnera-diffusa]]
 - [[damiana]]
 - aralia racemosa
-- [[panax-ginseng]]
-- smilax glabra
 - [[silybum-marianum]]
 - [[curcuma-longa]]

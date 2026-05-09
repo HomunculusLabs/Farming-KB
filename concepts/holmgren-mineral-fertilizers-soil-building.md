@@ -3,72 +3,7 @@ title: Holmgren Mineral Fertilizers Soil Building
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Mineral Fertilizers Soil Building
-
-Updated: 2026-04-19
-
-David Holmgren discusses the role of mineral fertilizers in soil building within *Permaculture: Principles and Pathways Beyond Sustainability* (2002), connecting geological processes to [[holmgren-living-soil-ethic]] and [[holmgren-household-energy-storages]].
-
-## Geological Sources of Soil Fertility
-
-Holmgren explains that a much closer but slower source of nuclear power inside the earth is equally important in sustaining life. This geothermal power drives the movement of tectonic plates, and uplift and vulcanism at plate edges build and reshape mountains and deliver rock minerals critical to soil fertility and all living things.
-
-Subduction of oceanic sediments and surplus organic materials exposes them to heat and pressure, which re-forms rocks, creates fossil fuels, and concentrates rare minerals into ore bodies.
-
-## Glacial Dust as Natural Fertilizer
-
-The continental ice sheets and montane glaciers expand and contract in pulsing rhythms (ice ages). The ice destroys whole living landscapes but also grinds vast amounts of rock into glacial dust — "a mixed mineral fertilizer of great potency which sustains new life." This geological process is the original source of soil mineral fertility.
-
-The time-scale for these changes in landscapes ranges from millions of years down to human lifespans. Humans, like all other animals, have evolved to take advantage of the resources created by these large processes, but we ourselves have also become agents of geological change through our harvest and use of fossil fuels and minerals.
-
-## Mineral Cycling in Landscapes
-
-The capacity of terrestrial systems to hold water, mineral nutrients, and organic matter is limited and is always being eroded by gravity. Atmospheric oxygen continuously oxidizes (locks up) minerals and breaks down organic matter. All terrestrial ecosystems and landscapes can be seen as design systems to overcome or at least limit the effects of these forces.
-
-## Geologically Young vs. Old Landscapes
-
-Geologically young regions with recent mountain building and vulcanism tend to be much more biologically productive and have supported large human populations despite vulnerability to natural disasters. Geologically old regions (like most of Australia) tend to have low biological productivity. This is because biological productivity derives from the ability to capture and hold water, essential minerals from the earth, and the organic matter that resultant ecosystems generate.
-
-## Mineral Fertilizers as Special Case
-
-Holmgren treats mineral fertilizers as a special case of using fossil fuels (in crushing and transport) and often limited non-renewable sources (such as phosphate rock) to improve the long-term productivity of soils. The history of modern agriculture shows that most attempts at improved fertility are generally very short-term (crop feeding, not soil feeding); in addition, they often have other detrimental effects such as soil imbalances or pollution.
-
-## Evidence for Permanent Improvement
-
-However, there is evidence that if the principles of balancing soil minerals can be better understood and applied, soil re-mineralisation can create a permanent improvement in biological productivity that does not need to be repeated, except to replace minerals exported in produce. Permaculturalists have tended to ignore the powerful positive changes to long-term soil productivity and health that can be effected by carefully selected and timed mineral applications.
-
-This connects to [[permaculture-soil-strategies]] and [[soil-food-web-nutrient-cycling]] as complementary approaches to soil building.
-
-## The Albrecht Method at Melliodora
-
-At Melliodora, Holmgren has used soil testing (based on Albrecht methods), refractometer testing of plant sap and broadly based observation skills to guide remedial applications of minerals. Refining and extending their use of biological approaches (including biodynamic preparations) is their current focus, given that the basic mineral balance is reasonable.
-
-Key understandings about mineral balance in soil include:
-
-- The level and balance of mineral nutrients are two important but different measures
-
-- The most important soil mineral balance is between calcium, magnesium, potassium and sodium
-
-- In the ideal balanced soil, the full range of crops will be productive and healthy
-
-## Calcium-Magnesium Balance
-
-In clay soils, the balance between calcium and magnesium is the most powerful factor in determining how friable and open the soil is to air and water, as well as the ability of the soil to store water, carbon and nutrients. These factors in turn control biological productivity, ease of management, and resistance to erosion and degradation.
-
-When calcium is relatively high, herbaceous vegetation tends to be soft, lush, and palatable to animals, broken down rapidly to humus by bacteria. When potassium is relatively high, herbaceous plants are fibrous and less palatable, resist breakdown, and fungal decay dominates over bacteria.
-
-## Connection to Energy Descent
-
-The energetic cost of mining, processing, transporting, and applying mineral fertilizers will increase as fossil fuel energy declines. This makes the biological pathways of mineral cycling (through deep-rooted plants, mycorrhizal fungi, and soil organisms) increasingly important relative to technological ones.
-
-## Critique of Industrial Fertilizer Dependence
-
-The dependence of industrial agriculture on mined and synthesized mineral fertilizers represents an unsustainable withdrawal from geological capital accumulated over millions of years. In energy descent, this one-time drawdown cannot be maintained, making biological mineral cycling through [[holmgren-living-soil-ethic]] practices essential.
+tags: [[holmgren-living-soil-ethic]] and [[permaculture-soil-strategies]] and [[holmgren-living-soil-ethic]] practices essential.
 
 ## Idealism versus Pragmatism
 
@@ -76,18 +11,89 @@ Holmgren acknowledges it is hard and maybe unwise to completely avoid using foss
 
 ## See Also
 
-- [[holmgren-living-soil-ethic]]
-
 - [[holmgren-household-energy-storages]]
 
-- [[holmgren-tripartite-altruism]]
-
 - [[holmgren-catch-and-store-energy-detailed]]
-
-- [[permaculture-soil-strategies]]
 
 - [[soil-food-web-nutrient-cycling]]
 
 Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Principle 2, pp. 32-34, 48-50
-- [[building-soil-fertility-long-term]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Practical Applications
+
+Holmgren Mineral Fertilizers Soil Building has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Holmgren Mineral Fertilizers Soil Building. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

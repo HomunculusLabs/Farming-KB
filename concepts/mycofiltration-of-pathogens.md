@@ -71,23 +71,13 @@ The research at Battelle Marine Science Laboratories validated what Stamets had 
 
 ## See Also
 
-[[mycofiltration-of-chemical-runoff]]
-
 [[mycofiltration-overview]]
-
-[[mycofiltration-of-water-stamets]]
 
 [[mycofiltration-of-water-contaminants]]
 
-[[mycofiltration-water-treatment]]
-
 [[mycofiltration-watershed-protection]]
 
-[[mycopesticide-development]]
-
 [[kings-stropharia-garden-giant]]
-
-[[fungal-bioremediation]]
 
 [[fungal-ecology]]
 ## Merged: Mycoremediation of Pesticides

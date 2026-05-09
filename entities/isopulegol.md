@@ -121,12 +121,8 @@ Isopulegol is also used as a fragrance ingredient in perfumes, soaps, and person
 
 ## See Also
 
-- [[menthol]]
 - [[linalool]]
-- [[mentha-piperita]]
 - [[limonene]]
-- [[myrcene]]
 - [[cannabidiol-cbd]]
-- [[terpinolene]]
 - [[pinene]]
 - [[pulegone]]

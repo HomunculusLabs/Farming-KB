@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, cultivation, water-management, design, vegetables]
-sources:
-  - /Users/t3rpz/wiki/raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
+sources: []
 ---
 
 # Container Gardening Guide

@@ -1,53 +1,13 @@
 ---
 title: Mollison on Pig Forage Species and Range Planting Design
 created: 2026-04-26
-tags: [permaculture, pig-husbandry-forage, livestock, polyculture, forage-systems]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-bill-bill-bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis-a-permaculture-designers-manual-tropical-climates-soil-and-humus-management-a-designers-manual-guild-design-in-permaculture-a-designers-manual-edge-effect-and-ecotone-design-permaculture-a-designers-manual.md
-type: concept
----
-
-# Pig Forage Species and Range Planting Design
-
-In Permaculture: A Designers' Manual, Mollison provides a detailed
-table of selected pig forage species for both tropical and cooler
-climates, along with practical guidance on pig range design, stocking
-densities, and the integration of pigs into broader farm systems. Pigs
-on range are healthier, cheaper to feed, and have less saturated fats
-than pigs kept in sheds.
-
-## Pig Range Requirements
-
-The ideal pig range site is preferably wooded, well-drained, and dry in
-wet seasons. Mud and wet soils encourage worms and disease, and can
-cause trouble with suckling. Winter shedding may be necessary in very
-cold winter climates, but sheltered ranges and good dry beds help. The
-greatest expense is in fencing, now much reduced by the use of electric
-fencing.
-
-Pigs are most economically kept where some dairy, orchard, root crop, or
-meat wastes are available, and do well on restaurant or household food
-scraps. As pigs will not eat or do well on coarse grasses, grazing beef
-or horses may help in reducing these on range, or mowing may be
-necessary.
-
-## Selected Forage Species by Category
-
-### Trees Planted in Protected Areas Outside Pens
-
-In the tropics: mulberry, Bunya pine, fig, Inga ([[inga-edulis]]), oaks,
+tags: [[inga-edulis]]), oaks,
 chestnuts, chinquapins, breadfruit, jackfruit, and Prosopis. Palm
 species include Chilean wine palm (Jubaea spectabilis), Jagua palms
 (Jessenia spp), Buriti palms (Mauritia spp), Babassu palms (Orbignya
 spp), Assai palm (Euterpe oleracea), oil palm (Elaeis guineensis), date
 palms (Phoenix spp), and coconut (Cocos nucifera). Additional species
-include [[chinese-tallow-tree]] and Argania sideroxylon.
-
-In cooler areas: mulberry, olive, oaks (especially white oak group, cork
-oak, turkey oak), chestnut, chinquapin (some need to be collected and
-shared), honey locust, [[carob]] (dry areas), Prosopis, rain tree (Samanea
+include [[carob]] (dry areas), Prosopis, rain tree (Samanea
 saman), Albizia dulcis.
 
 ### Root Crops Planted in Pens
@@ -129,21 +89,4 @@ in pond margins for summer-dry forage.
 
 ## Fats and Diet Quality
 
-mollison mollison designers mollison mollison designers [[mollison-free-range-poultry-forage-design]] systems forage design forage design principles range poultry systems pigs are not always suitable for bacon and may need
-grain-feeding for 2-4 weeks to harden (saturate) the fats. However, for
-fresh or frozen pork the soft fats are quite suitable and healthier for
-human consumption. A lot of vegetable oil from avocadoes, oil palms,
-olives, or oily fish will produce soft fats in pigs. A sow in milk needs
-3.5 kg of dry rations when piglets are new, and 5.5 kg when they are
-2-3 weeks old.
-
-## Integration with Farm Systems
-
-The whole site plan can be handled fairly casually for a few pigs on a
-large range, or a clean pen will hold a family of pigs for using surplus
-crop, but needs very careful planning and siting if pig-raising is to be
-an occupation. It takes 3-5 years to develop a full complement of foods
-on range, and even some of this must be "thrown over the fence" to the
-## See Also
-
-- [[free-range-poultry-forage-design-mollison]]
+mollison mollison designers mollison mollison designers [[free-range-poultry-forage-design-mollison]]

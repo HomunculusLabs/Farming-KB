@@ -81,13 +81,10 @@ termite-resistant timber used since Mayan times.
 Sapodilla is a remarkably multi-purpose tropical tree combining sweet
 fruit production with chicle (gum) harvesting and some of the most
 durable timber available. Its termite-resistant wood has proven itself
-over millennia in Mayan architecture. For [[permaculture-design]], its
-drought tolerance, salt tolerance, and multiple yields make it
-excellent for tropical food forests and agroforestry systems.
+over millennia in Mayan architecture. For [[agroforestry]] systems.
 
 ## See Also
 
-- [[2-4-dma-entity-pihkal]]
 - [[lucuma-entity]]
 - [[persimmon-entity]]
 - Chicle

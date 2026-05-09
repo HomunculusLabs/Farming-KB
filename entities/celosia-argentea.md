@@ -101,15 +101,9 @@ As a fast-growing annual, *C. argentea* can provide rapid ground cover in distur
 
 ## See Also
 
-- [[amaranthus-retroflexus]]
 - [[amaranthus-palmeri]]
-- [[chenopodium-quinoa]]
 - [[chenopodium-album]]
-- [[beta-vulgaris]]
 - [[spinacia-oleracea]]
-- [[portulaca-oleracea]]
 - [[talinum-paniculatum]]
-- [[basella-alba]]
 - [[amaranthus-tricolor]]
-- [[amaranthus-caudatus]]
 - [[amaranthus-hypochondriacus]]

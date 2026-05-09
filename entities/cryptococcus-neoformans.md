@@ -116,15 +116,9 @@ including UV radiation and oxidative damage, contributing to
 environmental persistence.
 
 ## See Also
-Related: [[cryptococcus-neoformans-pathogenesis]], [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
-
-- [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
-
-- [[fungal-infections-human]]
+Related: [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
 
 - [[cryptococcus-neoformans-pathogenesis]]
 
-- [[aspergillus-fumigatus]]
 - [[candida-albicans]]
-- [[histoplasma-capsulatum]]
 - [[ustilago-maydis]]

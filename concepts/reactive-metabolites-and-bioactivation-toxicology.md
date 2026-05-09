@@ -20,39 +20,7 @@ drug metabolism converts a stable molecule into a more chemically aggressive pro
 This process is called bioactivation, metabolic activation, or toxication. It is the
 opposite of detoxication, even though the same enzymes can perform both roles depending on
 the substrate.
-Most reactive metabolites are produced by [[cytochrome-p450-enzymes-drug-metabolism]],
-flavin monooxygenases, peroxidases, monoamine oxidases, or conjugating enzymes that create
-unstable acyl glucuronides or sulfate esters.
-The toxicological importance comes from covalent binding. A reactive metabolite can attach
-to protein, DNA, lipid, or glutathione before it is hydrolyzed or exported.
-Covalent binding does not automatically mean injury, but it is a warning signal. The
-outcome depends on dose, site of formation, antioxidant capacity, repair, immune context,
-and the function of the modified macromolecule.
-## Chemical Logic
-Bioactivation usually begins when an enzyme inserts oxygen, removes electrons, or installs
-a leaving group that makes the molecule more electrophilic.
-Common reactive species include quinone imines, quinones, epoxides, arene oxides,
-nitrenium ions, iminium ions, acyl glucuronides, aldehydes, and free radical
-intermediates.
-These species seek electron-rich nucleophiles. Cysteine thiols, lysine amines, histidine
-imidazoles, glutathione, and nucleic acid bases are frequent targets.
-Molecules with anilines, thiophenes, furans, catechols, hydrazines, allylic systems,
-acetylenes, and strained aromatic rings often receive special scrutiny in medicinal
-chemistry.
-The same scaffold can be safe or hazardous depending on substitution. Blocking a soft
-spot, reducing lipophilicity, or adding steric bulk can lower covalent binding without
-destroying activity.
-## Detoxication Pathways
-Cells defend against reactive metabolites with glutathione, epoxide hydrolase, aldehyde
-dehydrogenase, UDP-glucuronosyltransferases, sulfotransferases, and transporters that
-remove conjugates.
-Glutathione conjugation is central because the cysteine thiol is an excellent nucleophile.
-Depletion of hepatic glutathione shifts chemistry from harmless capture toward protein
-adduction.
-Epoxide hydrolase converts many arene oxides and epoxides to dihydrodiols. This route is
-usually protective, though some dihydrodiols can be further oxidized to more reactive
-species.
-[[phase-ii-conjugation-reactions-drug-metabolism]] can either detoxify or activate.
+Most reactive metabolites are produced by [[phase-ii-conjugation-reactions-drug-metabolism]] can either detoxify or activate.
 Sulfation of benzylic alcohols may create unstable sulfate esters, and acyl glucuronides
 can rearrange or react with proteins.
 The balance between activation and detoxication is tissue specific. A compound formed in
@@ -109,33 +77,7 @@ that loses potency may require a higher dose and produce equal or greater total 
 The goal is not to eliminate all metabolism. The goal is to channel metabolism toward
 stable, excretable products while preserving exposure at the intended therapeutic target.
 ## Links to Broader Toxicology
-Reactive metabolites intersect with [[reactive-oxygen-species-and-oxidative-stress]]
-because redox cycling quinones and radicals can generate superoxide, peroxide, and lipid
-peroxidation.
-They also intersect with carcinogenesis. DNA-reactive metabolites from polycyclic aromatic
-hydrocarbons, aflatoxin, and some nitrosamines can create mutagenic DNA adducts.
-In pharmacology, the concept explains why metabolism is not merely clearance. A drug's
-metabolites may be inactive, active, protective, or more toxic than the parent compound.
-In natural products chemistry, the same logic applies to plant toxins, fungal mycotoxins,
-environmental pollutants, and herbal constituents that require metabolic activation.
-Bioactivation therefore connects enzymology, medicinal chemistry, immunology, and clinical
-toxicology into one mechanistic framework.
-## Key Takeaways
-Reactive metabolites are chemically unstable products of normal metabolism that can
-covalently bind biological macromolecules.
-Bioactivation is most dangerous when formation exceeds glutathione and repair capacity,
-occurs in a sensitive tissue, or creates immune-recognized adducts.
-CYP oxidation is the best-known route, but conjugation reactions can also create reactive
-species.
-Risk is evaluated with structural alerts, metabolite trapping, covalent binding, cellular
-stress assays, and clinical knowledge of exposure and dose.
-The concept is essential for understanding drug-induced liver injury, chemical
-carcinogenesis, and the design of safer pharmaceuticals.
+Reactive metabolites intersect with [[veratrum-viride]]
 
-## See Also
-
-- [[veratrum-viride]]
-
-- [[first-pass-metabolism-and-oral-bioavailability]]
 - [[glucuronidation]]
 - [[cannabis-for-hepatitis-and-liver-conditions]]

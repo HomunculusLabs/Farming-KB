@@ -37,7 +37,7 @@ for distinguishing healthy growth from contamination.
 ### White Mycelium
 The color shared by the largest population of saprophytic
 mushrooms is white. Oyster (Pleurotus spp.), Shiitake
-([[lentinula-edodes]]), Hen-of-the-Woods ([[grifola-frondosa]]),
+([[grifola-frondosa]]),
 King Stropharia (Stropharia rugoso-annulata), and most
 Psilocybe species all have whitish colored mycelium. However,
 some imperfect fungi like Monilia also produce whitish
@@ -50,8 +50,7 @@ ostreatus, exude yellowish to orangish metabolites over time,
 sometimes seen as droplets on the surface or as excessive
 liquid collecting at the bottom of spawn containers.
 
-A pink Oyster mushroom ([[pleurotus-djamor]]) and Lion's Mane
-([[hericium-erinaceus]]) both have mycelium that is initially
+A pink Oyster mushroom ([[hericium-erinaceus]]) both have mycelium that is initially
 white but develops strong pinkish tones as cultures age.
 Chicken-of-the-Woods (Laetiporus sulphureus) has an overall
 orangish mycelium.
@@ -59,10 +58,7 @@ orangish mycelium.
 ### Brown
 Shiitake mycelium becomes brown over time. It would be
 abnormal for Shiitake mycelium not to brown in age or when
-damaged. Similarly, [[agrocybe-aegerita-detailed]] produces initially
-white mycelium that browns with maturity. Morel mycelium
-is typically brown after a week of growth. Kuritake
-([[hypholoma-sublateritium]]) mycelium turns dingy
+damaged. Similarly, [[hypholoma-sublateritium]]) mycelium turns dingy
 yellow-brown with age.
 
 ### Blue
@@ -77,8 +73,7 @@ organisms, particularly the blue-green Penicillium molds.
 Few mushrooms produce black mycelium. Some Morel strains
 cause the malt extract medium to blacken, especially when
 viewed from underneath. The parasitic Honey Mushroom,
-[[armillaria-mellea]], forms uniquely black rhizomorphs. The
-pan-tropical Oyster [[pleurotus-cystidiosus]] and its close
+[[pleurotus-cystidiosus]] and its close
 relatives have white mycelia that become speckled with
 black droplets.
 
@@ -138,7 +133,5 @@ remains an open question. Regardless, fragrance is an
 invaluable diagnostic tool for the experienced cultivator.
 ## See Also
 
-- [[growing-gourmet-mushroom-life-cycle]]
 - [[growing-gourmet-mycelial-morphology-classification-agar-media]]
-- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
 - [[holzer-mushroom-cultivation-methods]]

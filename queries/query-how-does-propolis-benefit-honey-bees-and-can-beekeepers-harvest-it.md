@@ -144,6 +144,9 @@ The relationship between propolis and Varroa destructor is complex:
 ### Don't Over-Harvest
 ## See Also
 
-- [[mycelium-running-conservation-biology-and-fungi]] — Broader beekeeping management and pollinator ecology
 - [[bee-feeding-and-fungal-pesticides]] — Full guide to all hive products and their uses
-- [[hamilton-beneficial-insects-and-biological-pest-control]] — [[integrated-pest-management]] including bee health
+- [[integrated-pest-management]] including bee health
+
+## See Also
+
+- [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]

@@ -8,11 +8,7 @@ sources:
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
-# [[garden-hand-tools]] (Solomon)
-
-Updated: 2026-04-18
-
-Source: Gardening When It Counts, [[steve-solomon]], Chapter 3
+# [[steve-solomon]], Chapter 3
 
 The right tools make low-input gardening feasible. Solomon emphasizes that the goal is to grow a significant portion of one's food with minimal financial investment and maximum self-reliance. This requires durable, well-maintained hand tools rather than power equipment.
 
@@ -106,16 +102,7 @@ Keeping tools in good condition is essential:
 
 Solomon's key insight: buy the best quality tools you can afford once, rather than cheap replacements repeatedly. A well-made tool that lasts decades is far cheaper per year of use than a cheap tool replaced every few seasons. The same principle applies to all gardening equipment.
 
-See also: [[organic-vegetable-growing-and-market-gardening]], [[garden-bed-preparation]], [[soil-preparation-organic-gardens]]
-
-## Related
-
-- garden hand tools solomon
-## Merged: Solomon on Essential Garden Tools
-
-# Solomon on Essential Garden Tools
-
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
+See also: [[garden-bed-preparation]], [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
 
 ## Minimal Tools, Maximum Skill
 

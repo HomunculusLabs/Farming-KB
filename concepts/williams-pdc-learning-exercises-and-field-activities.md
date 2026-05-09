@@ -1,7 +1,7 @@
 ---
 title: Learning Exercises and Field Activities from the PDC
 created: 2026-04-28
-tags: [permaculture, learning-exercises, field-activities, PDC,
+tags: [[permaculture, learning-exercises, field-activities, PDC,
       hands-on-learning]
 date: 2026-04-28
 updated: 2026-04-28
@@ -12,32 +12,7 @@ type: concept
 
 # Learning Exercises and Field Activities from the PDC
 
-William Ozier's [[permaculture-design]] Course incorporates numerous
-learning exercises and field activities throughout the curriculum.
-These hands-on learning tools complement the text descriptions,
-discussion points, and recommended readings. The best research tool for
-understanding ecology is the outside world itself, and students are
-regularly asked to go outside to observe and interact with nature.
-
-## Climate Understanding Exercise
-
-Research the following information about your local climate: average
-high and low temperatures, average high and low humidity, direction
-and speed of prevailing summer and winter winds, average rainfall by
-month, and your biome identification. This exercise builds the
-foundational climate literacy every permaculture designer needs.
-
-## Permaculture Guild Connection
-
-Go on the internet and find your local permaculture guild. Join it.
-Connecting with the local permaculture community provides access to
-local knowledge, resources, potential clients, and collaborative
-opportunities that are essential for practicing designers.
-
-## Swale Building Exercise
-
-Make a swale around the drip line of a tree. This hands-on exercise
-teaches earthworks principles, [[water-management]], and the relationship
+William Ozier's [[water-management]], and the relationship
 between soil, water, and plants. A swale is a water-harvesting trench
 on contour that slows, spreads, and sinks water into the landscape.
 
@@ -131,6 +106,5 @@ charettes, and making a final presentation.
 
 ## See Also
 
-- [[pdc-practical-exercises-and-field-activities]]
 - [[williams-pdc-sustainability-history-and-definition]]
 - [[williams-pdc-inventories-and-observation]]

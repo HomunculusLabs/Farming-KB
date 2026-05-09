@@ -124,8 +124,6 @@ spectrum of relationships between fungi and human hosts.
 
 ## Related Topics
 
-- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
 - [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-fungal-plant-pathogens]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]

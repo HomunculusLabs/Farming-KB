@@ -135,15 +135,9 @@ proof-of-concept experiments.
 
 ## See Also
 
-- [[hugelkultur]]
 - [[cob-building]]
-- [[natural-building]]
 - [[paul-wheaton]]
-- [[permaculture-design]]
 - [[keyline-design]]
 - thermal mass
-- [[rocket-stove]]
-- humanure
 - [[sheet-mulching]]
-- [[food-forest]]
 - [[agroforestry]]

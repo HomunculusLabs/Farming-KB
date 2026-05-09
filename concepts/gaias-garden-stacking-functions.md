@@ -78,11 +78,7 @@ A natural landscape harvests energy (sun, wind, heat) and matter (water, nutrien
 
 ## See Also
 
-- [[mollison-pdc-introduction-principles]] — Mollison's introduction to permaculture principles
 - [[mollison-plant-stacking-and-interaction]] — plant stacking in permaculture
-- [[gaias-garden-ecology-for-gardeners]] — ecological principles for gardeners
 - [[mollison-design-analysis]] — Mollison's design analysis methods
-- [[permaculture-succession]] — nature as model for design
 - [[gaias-garden-cover-crops-soil-building]]
-- [[gaias-garden-soil-building]]
 - [[soil-building-ecological-garden]]

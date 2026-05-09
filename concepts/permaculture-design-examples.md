@@ -3,13 +3,7 @@ title: Permaculture Design Examples
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Permaculture Design Examples
-
-Mollison's Permaculture Design Course is rich with concrete design examples drawn from real landscapes and projects worldwide. These examples illustrate how [[permaculture-design]] principles translate into practical landscape interventions. The following are key examples from the course material.
+tags: [[permaculture-design]] principles translate into practical landscape interventions. The following are key examples from the course material.
 
 ## The Trout Pond Conversion
 
@@ -79,11 +73,7 @@ The pond edge can support blueberries, mints, and bamboo, creating a productive 
 
 ## See Also
 
-- [[permaculture-design]]
 - [[aquaculture-in-permaculture]]
-- [[permaculture-earthworks]]
 - [[keyline-design]]
-- [[island-permaculture-design]]
 - [[water-storage-techniques]]
-- [[permaculture-zones-system]]
 - [[mollison-permaculture-two-sewage-waste-treatment]]

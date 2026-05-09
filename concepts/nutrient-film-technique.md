@@ -38,7 +38,7 @@ Many NFT gullies have ribs on the underside that provide structural support, pre
 ## Advantages of NFT
 
 - **High performance**: NFT systems deliver excellent growth rates and yields when properly fine-tuned.
-- **Water efficiency**: The thin film of nutrient solution minimizes water usage compared to [[deep-water-culture]] or [[ebb-and-flow]] systems.
+- **Water efficiency**: The thin film of nutrient solution minimizes water usage compared to [[ebb-and-flow]] systems.
 - **Oxygen availability**: Roots receive abundant oxygen in the humid air space above the nutrient film.
 - **Easy to clean**: NFT systems are easy to clean and lay out after each crop cycle.
 - **Scalable**: Systems can be expanded by adding more gullies to the manifold.
@@ -62,63 +62,20 @@ Cervantes cautions that many hybrid NFT systems are poorly planned. Systems cons
 
 ## Net Pots in NFT
 
-Small net pots are preferred for most NFT systems. They hold the growing medium and plant while allowing roots to extend into the gully. Larger net pots are also used in some NFT and [[cervantes-top-feed-hydroponic-systems]] systems.
-
-## Growing Medium in NFT
-
-NFT uses minimal growing medium. Plants are typically started in small rockwool cubes or net pots with a small amount of medium. [[rockwool-cannabis]] cubes are common starting points. The capillary matting in the gully bottom also serves as a root anchor and moisture distributor.
+Small net pots are preferred for most NFT systems. They hold the growing medium and plant while allowing roots to extend into the gully. Larger net pots are also used in some NFT and [[rockwool-cannabis]] cubes are common starting points. The capillary matting in the gully bottom also serves as a root anchor and moisture distributor.
 
 ## Cannabis Cultivation in NFT
 
-NFT is best suited for [[cannabis-vegetative-growth-stage]] and flowering of established plants with strong root systems. Clones should be well-rooted before being placed in NFT gullies. The system performs well for shorter plants and can be configured for [[green-cannabis-grow-bible-cloning-and-seed-propagation]] gardens.
+NFT is best suited for [[green-cannabis-grow-bible-cloning-and-seed-propagation]] gardens.
 
-Proper [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] is critical since there is no growing medium to buffer pH fluctuations. The pH should be maintained between 5.5 and 6.5, with 5.8 to 6.0 being ideal.
+Proper [[cervantes-passive-wick-hydroponic-systems]] in several important ways:
 
-## Filtration
-
-A filter is often necessary in NFT systems to prevent debris from blocking the gullies and the pump. Root material, growing medium particles, and organic matter can all cause obstructions that disrupt the thin film of nutrient solution.
-
-## NFT vs. Other Hydroponic Systems
-
-NFT differs from other active [[cervantes-passive-wick-hydroponic-systems]] in several important ways:
-
-- **vs. DWC**: [[deep-water-culture]] submerges roots in aerated solution, while NFT suspends roots in a thin flowing film. DWC is more forgiving of pump failures since roots remain in solution.
-- **vs. Ebb and Flow**: [[ebb-and-flow]] floods and drains the growing medium periodically, while NFT maintains constant flow. Ebb and flow provides more buffering through the growing medium.
+- **vs. DWC**: [[ebb-and-flow]] floods and drains the growing medium periodically, while NFT maintains constant flow. Ebb and flow provides more buffering through the growing medium.
 - **vs. Aeroponics**: banisteriopsis caapi mists roots with nutrient solution, while NFT flows solution over roots. Both lack medium buffering, but aeroponics provides more oxygen at the root zone.
-- **vs. Drip**: [[cervantes-drip-irrigation-systems]] deliver solution to the top of the medium, while NFT delivers from below via the gully channel.
+- **vs. Drip**: [[cannabis-vegetative-growth-stage]] and flowering of established plants with strong root systems. Clones should be well-rooted before being placed in NFT gullies. The system performs well for shorter plants and can be configured for Sea of Green gardens.
 
-## Cannabis Cultivation in NFT
-
-NFT is best suited for [[cannabis-vegetative-growth-stage]] and flowering of established plants with strong root systems. Clones should be well-rooted before being placed in NFT gullies. The system performs well for shorter plants and can be configured for Sea of Green gardens.
-
-Proper [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] is critical since there is no growing medium to buffer pH fluctuations. The pH should be maintained between 5.5 and 6.5, with 5.8 to 6.0 being ideal.
-
-## Maintenance Tips
-
-- Monitor pH and EC daily; fluctuations happen faster in NFT than in media-based systems.
-- Inspect gullies regularly for root blockages or stagnation.
-- Clean the system thoroughly between crops.
-- Ensure the pump is reliable; consider a backup pump.
-- Check that gully covers are secure to maintain high humidity in the root zone.
-- Verify that light is not reaching the root chamber through gully walls or covers.
-- Flush the system with plain water between crops to remove salt and mineral deposits.
-- Inspect and clean filters before each new grow cycle.
-
-## Troubleshooting
-
-- **Stagnant water in gullies**: Check gully incline and pump output. Ensure drainage end is not blocked.
-- **Root discoloration**: Brown roots indicate insufficient oxygen or stagnation. Increase flow rate and check for blockages.
-- **Uneven growth**: Some plants receiving less solution than others. Check emitter flow rates and gully level.
-- **Salt buildup on roots**: Flush system and reduce nutrient concentration. Check EC levels.
-- **Green roots**: Light is reaching the root chamber. Check gully covers and light seals.
-
-## See Also
-
-- [[hydroponic-cannabis]]
-- [[deep-water-culture]]
+Proper [[hydroponic-cannabis]]
 - [[banisteriopsis-caapi]]
-- [[ebb-and-flow]]
 - [[drip-irrigation-cannabis]]
-- [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-growing-mediums]]
 - [[cannabis-watering-schedule-and-frequency]]

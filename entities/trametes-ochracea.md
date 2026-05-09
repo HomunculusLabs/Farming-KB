@@ -111,13 +111,8 @@ Microscopically, spore dimensions and hyphal features provide definitive identif
 
 ## See Also
 
-- [[trametes-coccinea]]
-
-- [[trametes-versicolor]]
-- [[trametes-hirsuta]]
+- [[trametes-versicolor-entity]]
 - [[coriolopsis-gallica]]
-- [[trametes-trogii]]
 - [[stereum-hirsutum]]
-- [[fomes-fomentarius]]
 - [[laricifomes-officinalis]]
 - [[polyporus-umbellatus]]

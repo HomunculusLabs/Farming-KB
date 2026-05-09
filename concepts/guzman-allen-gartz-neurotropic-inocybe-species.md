@@ -18,7 +18,7 @@ type: concept
 
 # Inocybe and Allied Neurotropic Fungi: Taxonomy, Distribution, and Chemistry
 
-The genus Inocybe is one of the most surprising members of the neurotropic fungi. While [[psilocybe-genus-classification|Psilocybe]], Panaeolus, and Copelandia are widely recognized as psychoactive mushrooms, the presence of psilocybin and related tryptamine alkaloids in Inocybe species is less well known. Inocybe is a large genus of [[ectomycorrhizal-fungi|ectomycorrhizal]] agarics in the family Cortinariaceae, and its neurotropic species represent an independent evolutionary origin of psilocybin biosynthesis outside the traditional Hymenogastraceae/Strophariaceae clade.
+The genus Inocybe is one of the most surprising members of the neurotropic fungi. While [[ectomycorrhizal-fungi|ectomycorrhizal]] agarics in the family Cortinariaceae, and its neurotropic species represent an independent evolutionary origin of psilocybin biosynthesis outside the traditional Hymenogastraceae/Strophariaceae clade.
 
 ## Overview of Neurotropic Inocybe Species
 
@@ -76,17 +76,9 @@ Neurotropic Inocybe species in Africa are documented primarily from North Africa
 
 The psilocybin-containing Inocybe species share the same basic indole alkaloid profile as the better-known Psilocybe species:
 
-- **Psilocybin** (4-PO-DMT) -- the primary [[psilocybin-pharmacology|psychoactive compound]], a phosphate ester of [[psilocin]]
+- **Psilocybin** (4-PO-DMT) -- the primary [[psilocin]]
 - **Psilocin** (4-HO-DMT) — the dephosphorylated active metabolite
-- **Baeocystin** (4-PO-NMT) -- a lower homolog of [[psilocybin-compound]], present in lower concentrations
-
-Gartz (1985a, 1986a, 1986b, 1986d) conducted extensive analytical work on Inocybe aeruginascens from German collections, establishing the presence and concentrations of these compounds. Stijve and Kuyper (1985) confirmed similar profiles in Dutch material.
-
-An important caution regarding identification exists: Inocybe is a notoriously difficult genus to identify, and several species contain dangerous toxins (particularly the nephrotoxic orellanine-type compounds found in some Inocybe species). Accurate identification requires microscopic examination of spore morphology, cystidia, and pileipellis structure. Misidentification of non-neurotropic Inocybe species as psilocybin-containing species poses a genuine poisoning risk.
-
-## Taxonomic Placement and Evolutionary Significance
-
-The presence of psilocybin in Inocybe is phylogenetically significant because the genus belongs to the family Cortinariaceae (now placed in Agaricales suborder Cortinariineae), whereas the classic psilocybin-containing genera (Psilocybe, Panaeolus, Copelandia, Conocybe, Gymnopilus) are in different families within Agaricales. This suggests that psilocybin biosynthesis has evolved independently multiple times in the Agaricales, a phenomenon known as [[neurotropic-fungi-biogeographic-patterns|convergent evolution]].
+- **Baeocystin** (4-PO-NMT) -- a lower homolog of [[neurotropic-fungi-biogeographic-patterns|convergent evolution]].
 
 The distribution pattern of neurotropic Inocybe species is also distinctive: they are concentrated in temperate and boreal regions of the Northern Hemisphere (particularly Europe), unlike many psilocybin-containing genera that are tropical or subtropical. This temperate distribution correlates with the ectomycorrhizal ecology of Inocybe, which forms associations with trees in the families Pinaceae, Fagaceae, and Betulaceae.
 
@@ -112,9 +104,6 @@ Several significant gaps exist in our understanding of neurotropic Inocybe speci
 
 ## See Also
 
-- [[inocybe-aeruginascens-and-neurotropic-inocybe-species]] -- companion page on neurotropic Inocybe biology and the Berlin phenomenon
 - [[neurotropic-fungi-classification]] -- classification of all neurotropic fungi
-- [[neurotropic-fungi-in-europe]] -- European neurotropic fungi distribution
 - [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] -- indole alkaloid chemistry in fungi
-- [[ectomycorrhizal-ecology]] -- ectomycorrhizal fungal ecology
 - [[inocybe-aeruginascens-profile]] -- detailed I. aeruginascens species profile

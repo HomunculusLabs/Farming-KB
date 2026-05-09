@@ -107,13 +107,8 @@ The crop also has significant potential as a forage and silage crop. Whole-plant
 
 ## See Also
 
-- [[amaranthus-caudatus]]
 - [[chenopodium-quinoa]]
-- [[phaseolus-vulgaris]]
 - [[cicer-arietinum]]
-- [[lens-culinaris]]
 - [[zea-mays]]
-- [[sorghum-bicolor]]
 - [[glycine-max]]
-- [[arachis-hypogaea]]
 - [[caulerpa-lentillifera]]

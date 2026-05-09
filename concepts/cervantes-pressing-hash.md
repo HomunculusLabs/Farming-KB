@@ -131,8 +131,6 @@ a few minutes to penetrate and act.
 
 ## See Also
 
-- [[cervantes-hash-making-extracts]]
 - [[cervantes-water-hash-bubble-hash]]
-- [[cervantes-dry-sieve-hash-pollinator]]
 - [[cervantes-hash-storage]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

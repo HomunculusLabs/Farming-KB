@@ -42,38 +42,7 @@ fungus is toxic to humans when consumed raw.
 - Forms prominent mycorrhizal root tips with mantle and Hartig net
 
 ### Symbiotic Relationships
-- Forms [[ectomycorrhizal-associations]] with Scots pine (Pinus sylvestris),
-  birch (Betula spp.), and other forest trees
-- Produces extraradical hyphae that extend nutrient-absorbing surface
-  area of host roots by up to 75%
-- Total fungal area can reach 47.4 mm2 per gram of soil in association with
-  pine seedlings (Rousseau et al., 1994)
-
-### Nutrient Mobilization
-- Produces oxalate in the presence of mica minerals (phlogopite),
-  facilitating potassium, magnesium, and calcium release
-- Mobilizes potassium from biotite and microcline through citric acid
-  production proportional to hyphal biomass
-- Capable of solubilizing complex inorganic phosphate forms including
-  calcium phytate and hydroxyapatite
-- Shows high enzyme competency among ectomycorrhizal species
-
-### Heavy Metal Tolerance
-- Protects host plants against heavy metal toxicity (zinc, aluminum,
-  nickel) by sequestering metals in extraradical hyphae
-- Accumulates zinc up to 192 mmol/g fresh weight in hyphae, preventing
-  translocation to the root stele (Denny and Wilkins, 1987)
-- Concentrates metals in the mantle and hyphal sheath as a barrier
-  between contaminated soil and the plant
-- Shows moderate sensitivity to SO2 pollution with reduced root
-  colonization under fumigation (Shaw et al., 1992)
-
-### Biocontrol Properties
-- Suppresses Phytophthora cambivora and P. cinnamomi on chestnut
-  seedlings, though less effectively than some other mycorrhizae
-- Provides protection against Fusarium pathogens on Douglas fir and
-  jack pine seedlings
-- Facilitates net phosphorus transfer from [[saprotrophic-fungi]] to host
+- Forms [[saprotrophic-fungi]] to host
   plants through shared mycelial networks (Lindahl et al., 1999)
 
 ### Ecological Role
@@ -91,7 +60,24 @@ inoculants with similar functional traits can improve tree establishment
 on marginal soils.
 
 ## See Also
-- [[pisolithus-tinctorius]]
 - [[cenococcum-geophilum]]
-- [[laccaria-bicolor]]
 - [[suillus-granulatus]]
+## Practical Considerations
+
+Successful implementation of Paxillus involutus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

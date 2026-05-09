@@ -137,8 +137,6 @@ true natural form of a tree may be unknowable to man.
 
 ## See also
 
-[[fukuoka-textdoc-natural-form-fruit-trees]]
 [[fukuoka-no-prune-fruit-tree-method]]
-[[fukuoka-no-pruning-philosophy-fruit-trees]]
 [[fukuoka-three-dimensional-orchard-design]]
 [[fukuoka-natural-tree-form-argument]]

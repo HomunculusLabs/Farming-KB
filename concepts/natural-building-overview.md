@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 # Natural Building Overview
@@ -25,15 +26,6 @@ Natural building refers to construction methods that use locally available, mini
 ## Building Methods Compared
 
 ### Cob Building
-See [[cob-building]] for details.
-- Material: sand, clay, straw, and water mixed by foot and applied in hand-formed lumps
-- Walls: 18-24 inches thick monolithic mass
-- Insulation: moderate (thermal mass, not high R-value)
-- Cost: very low (materials often free from site)
-- Skill level: low; sculptable and forgiving
-- Climate: best in dry to moderate climates; needs good roof overhang and foundation to protect from moisture
-
-### Straw Bale Construction
 See [[straw-bale-construction]] for details.
 - Material: baled straw (not hay) stacked like bricks
 - Walls: 14-18 inches thick
@@ -44,16 +36,6 @@ See [[straw-bale-construction]] for details.
 - Fire resistance: compacted straw burns poorly; plastered walls are fire-resistant
 
 ### Earthbag Construction
-See [[earthbag-construction]] for details.
-- Material: polypropylene bags filled with damp earth or sand
-- Walls: 14-18 inches thick
-- Insulation: moderate (thermal mass)
-- Cost: very low (bags are the main expense)
-- Skill level: low; ideal for volunteer and community building
-- Climate: excellent in hot climates; good in cold climates with insulation
-- Strength: extremely strong; resistant to earthquakes and floods
-
-### Cordwood Construction
 See [[cordwood-construction]] for details.
 - Material: short debarked log ends laid in mortar
 - Walls: 12-24 inches thick
@@ -63,15 +45,6 @@ See [[cordwood-construction]] for details.
 - Climate: versatile; thermal mass moderates temperature
 
 ### Slip Form Stone Construction
-See [[slip-form-stone-construction]] for details.
-- Material: field stones set in concrete within removable forms
-- Walls: 12-24 inches thick
-- Insulation: low (high thermal mass)
-- Cost: low (stone often free; requires cement)
-- Skill level: low
-- Climate: best in moderate climates; benefits from thermal mass
-
-### Underground and Earth Berm
 See [[underground-house-and-earth-berm-construction]] for details.
 - Material: concrete, steel, earth cover
 - Insulation: excellent (earth thermal mass)
@@ -96,16 +69,11 @@ All natural buildings benefit from:
 - **Wide roof overhangs** -- protect walls from rain
 - **Natural plasters** -- earth or lime-based exterior and interior finishes
 - **Passive solar design** -- south-facing windows for heating, natural ventilation for cooling
-- [[graywater-systems-for-homesteads]] and rainwater harvesting for water
 - [[mollison-designers-composting-toilets-and-humanure]] and composting systems
 
 ## See Also
 
-- [[cob-building]]
 - [[straw-bale-construction]]
-- [[earthbag-construction]]
 - [[cordwood-construction]]
-- [[slip-form-stone-construction]]
 - [[underground-house-and-earth-berm-construction]]
-- [[sustainable-living-habits-for-homesteads]]
 - [[graywater-systems-for-homesteads]]

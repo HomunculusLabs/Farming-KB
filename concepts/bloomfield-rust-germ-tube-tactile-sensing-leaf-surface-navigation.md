@@ -119,9 +119,6 @@ Knowledge of the rust's tactile sensing mechanisms opens several avenues for bre
 
 ## See Also
 
-- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[ingham-leaf-surface-biology-exudates]]
-- [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
-
 - [[plant-defense-mechanisms]]
 - [[rust-fungi]]

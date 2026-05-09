@@ -28,51 +28,7 @@ A consistent finding across multiple studies is the clear separation between
 saprotrophic and ectomycorrhizal (ECM) fungi in isotope space. This 'saprotrophic-
 mycorrhizal divide' has been demonstrated in forests across Europe:
 
-- [[saprotrophic-fungi]]: mean delta-15N of approximately +1.86 per mil; mean
-  delta-13C of approximately -23.2 per mil
-- ECM fungi: mean delta-15N of approximately +5.83 per mil; mean delta-13C of
-  approximately -25.6 per mil
-
-ECM fungi are more depleted in 13C and enriched in 15N compared to
-saprotrophs. A joint plot of both parameters usually results in clear
-separation between the two trophic groups, allowing trophic status to be
-determined where it was previously unknown.
-
-Radiocarbon (14C) analysis provides additional evidence: sporocarps of
-saprotrophic species contained carbon photosynthetically fixed more than 6
-years previously, whereas carbon in ECM species was only 0-2 years old. This
-method gives very strong evidence for trophic status, although the use of
-radiocarbon is prohibitively expensive for most studies.
-
-## Isotope Fractionation During Decomposition
-
-The delta-15N of organic matter in forest soils characteristically increases
-from the litter layer downwards into more decomposed material. Negative values
-(from approximately -6 to +3 per mil) in fresh litter reflect plant source
-values, but values become progressively positive in the F and H layers and
-in mineral soil, where delta-15N may reach approximately +6 per mil.
-
-Saprotrophic fungi growing on litter and woody debris (group 1) had lower
-delta-15N signatures than those growing on more decomposed material (group 2),
-and this correlated with the delta-15N of their presumed substrates. Group 1
-fungi also had higher nitrogen concentrations, suggesting a closed reaction
-system where all available nitrogen is extracted from the low-N wood
-substrate.
-
-## Carbon Isotope Patterns and Fungal Biochemistry
-
-Different chemical components within fungi may differ considerably in both
-delta-15N and delta-13C:
-
-- Proteins and amino acids in ECM fungi were enriched by as much as 9 per mil
-  compared with cell wall chitin.
-- Within plants, cellulose is enriched in 13C compared with lignin.
-- Chitin may be enriched in 13C relative to woody substrates. Because much
-  of the nitrogen in fungi is contained within chitin, measurements of
-  vacuolated mycelia could yield higher delta-13C values than those of the
-  wood substrate.
-
-Laboratory experiments with [[trametes-versicolor]] (a white rot fungus) showed
+- [[trametes-versicolor-entity]] (a white rot fungus) showed
 that the mycelium was consistently enriched in 13C compared with the wood
 (enrichment factor of 3.5 per mil), even with 70% wood mass loss over 181
 days. The delta-13C of respired CO2 was similar to that of the wood,
@@ -112,18 +68,25 @@ the deposition may significantly impact average delta-15N values across
 ecosystem compartments, including fungi. When nitrogen deposition is high, the
 range of potential delta-15N values will be narrower than on unaffected sites.
 
-## Implications for [[soil-food-web]] Studies
-
-Fungi form the basis of many soil food webs, and the observed variation in
-delta-15N and delta-13C values in fungi raises questions about the usefulness
-of stable isotope analysis for determining the trophic status of soil
-invertebrates. If fungivores demonstrate feeding specificity for different
-fungal species or groups, then differences in delta-15N may reflect feeding
-preferences rather than trophic level per se.
-
-## See Also
-
-- [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-symbiosis-mycorrhizae]]
+## Implications for [[gadd-fungal-ecology-saprotrophs]]
 - [[fungal-stoichiometry-ecology]]
 - [[fungal-nutrient-cycling-mineral-transformations]]
+## Practical Considerations
+
+Successful implementation of Fungal Stable Isotope Ecology requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

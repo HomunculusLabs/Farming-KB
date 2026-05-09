@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, fermentation, food, recipe, grain, processing, preparation, homestead-crafts]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Beer Brewing Basics
@@ -44,7 +43,7 @@ Provide bitterness (to balance malt sweetness), flavor, and aroma. Also act as a
 ### Yeast
 Converts sugars to alcohol and CO2. The single most important ingredient for beer quality.
 
-- Ale yeast ([[saccharomyces-cerevisiae]]): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
+- Ale yeast (Saccharomyces cerevisiae): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
 - Lager yeast (Saccharomyces pastorianus): bottom-fermenting, works at 45-55F. Cleaner, crisper flavor. Requires cold fermentation and lagering (cold storage for weeks to months).
 - Dry yeast: convenient, long shelf life, good for beginners. Rehydrate before pitching.
 - Liquid yeast: wider variety of strains, fresher, more expensive. Requires a starter for high-gravity beers.

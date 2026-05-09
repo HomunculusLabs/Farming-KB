@@ -24,26 +24,10 @@ created: 2026-04-28
 ## Overview
 
 Bigwood and Beug (1982) concluded their study with a significant observation about the practical
-implications of alkaloid variability for [[entheogens-in-ancient-cultures|entheogenic]] and
-recreational users of [[psilocybe-cubensis]]: the variation in [[psilocybin-compound]] and [[psilocin]]
+implications of alkaloid variability for [[psilocybe-cubensis]]: the variation in [[psilocin]]
 levels means that users have no reliable way to predict the dose they are ingesting based on dry
 weight alone. This dosage unpredictability contributes to subjective experience variation beyond
-what can be attributed to [[set-and-setting]] alone, a conclusion with lasting relevance for
-clinical research, ethnopharmacology, and harm reduction that remains widely cited decades after
-publication.
-
-## The Core Finding: Two Levels of Variability
-
-The study documented two distinct tiers of potency variability, each with different implications for
-users and researchers:
-
-1. **Controlled conditions produce fourfold variation**: Even among cultures of the same Amazonian strain grown under rigorously identical conditions in the same laboratory, using the same rye-grain substrate (10 g grain, 15 ml water per jar), the same casing composition (2:1:2 peat to calcium carbonate to perlite), the same watering schedule (1 ml sterile water every 2 days), and the same environmental parameters, psilocybin and psilocin levels varied by a factor of four across flushes. This within-strain, within-method variability represents the minimum irreducible uncertainty in mushroom potency.
-
-2. **Uncontrolled sources produce tenfold variation**: Among five street samples of Psilocybe cubensis obtained from outside sources, all reportedly cultivated on rye-grain substrate, psilocybin levels varied by nearly an order of magnitude, ranging from 0.7 mg/g to 6.2 mg/g dry weight. This between-source variability encompasses differences in strain genetics, flush number, substrate composition, drying methods, storage conditions, and possible specimen misidentification.
-
-## Beyond Set and Setting: Dosage as a Third Variable
-
-The concept of [[set-and-setting]], formalized by Norman Zinberg and popularized by Timothy Leary
+what can be attributed to [[set-and-setting]], formalized by Norman Zinberg and popularized by Timothy Leary
 and others, has long been the dominant framework for understanding variability in psychedelic
 experiences. Bigwood and Beug's data adds a critical third variable: actual pharmacological dose
 received. Their conclusion states explicitly that "variations in the subjective experience will not
@@ -98,8 +82,7 @@ Given that 1 gram of dried Psilocybe cubensis might contain anywhere from 0.7 mg
 psilocybin depending on the source and flush, consuming 2 grams could deliver anywhere from 1.4 mg
 (sub-threshold) to 16.6 mg (high dose) of psilocybin. This nearly twelve-fold range in delivered
 dose means that the same nominal weight of mushrooms could produce experiences ranging from barely
-perceptible to overwhelmingly intense. See [[psilocybin-mushroom-dosage-and-acute-effects]] and
-[[psychedelic-dosage-titration-methodology]] for detailed dosage frameworks.
+perceptible to overwhelmingly intense. See [[psychedelic-dosage-titration-methodology]] for detailed dosage frameworks.
 
 ## The Psilocin Complication
 
@@ -129,17 +112,11 @@ guidelines based on grams of dried mushroom are operating with significant uncer
 reduction approaches should emphasize starting with lower amounts and titrating upward, particularly
 when the source, strain, or flush number of mushrooms is unknown. The data from Bigwood and Beug
 strongly support a start-low-and-go-slow approach to mushroom dosing. See
-[[psilocybin-potency-dosage-guide]] and [[psychedelic-mushroom-dosage-guide]] for practical harm
+[[psychedelic-mushroom-dosage-guide]] for practical harm
 reduction guidance.
 
 ## Related Concepts
 
-- [[psilocybe-cubensis-street-sample-potency-variability]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]
-- [[set-and-setting]]
 - [[psilocybin-mushroom-dosage-and-acute-effects]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
-
-## See Also
-
 - [[pf-tek-psilocybin-dosage-reference]]

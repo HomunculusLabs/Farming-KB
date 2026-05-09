@@ -49,51 +49,7 @@ Quorum sizes are chosen so that two valid quorums overlap in at least one honest
 This overlap prevents two conflicting decisions from both being certified.
 In the classic asynchronous authenticated setting, tolerating f Byzantine faults requires at least 3f plus 1 replicas.
 With 3f plus 1 nodes, a quorum of 2f plus 1 contains enough honest votes to overcome faulty ones.
-The exact thresholds vary with assumptions and [[biodiversity-sampling-protocol-design]].
-The principle is that redundancy must exceed the adversary's ability to split agreement.
-## Message authentication
-Byzantine systems often require cryptographic authentication.
-Digital signatures prove which node sent a message.
-Message authentication codes can provide cheaper verification when parties share keys.
-Hash functions protect data integrity and support compact commitments.
-Cryptographic evidence lets nodes blame or ignore equivocation.
-Equivocation occurs when a node signs conflicting statements for the same protocol step.
-Signed messages can be forwarded to prove what was said.
-Authentication does not eliminate Byzantine faults.
-It limits the ways faulty nodes can impersonate others.
-## Practical Byzantine Fault Tolerance
-Practical Byzantine Fault Tolerance, or PBFT, was introduced by Miguel Castro and Barbara Liskov in 1999.
-PBFT showed that Byzantine replication could be practical for many real systems.
-It uses a primary replica to order client requests.
-Other replicas verify and agree on that order through pre-prepare, prepare, and commit phases.
-If the primary appears faulty, the replicas run a view-change protocol.
-PBFT can tolerate f faulty replicas among 3f plus 1 total replicas.
-It provides deterministic replicated state machine execution.
-Its communication cost grows significantly as the number of replicas increases.
-For small permissioned groups, PBFT-style protocols can be very effective.
-## Consensus in blockchains
-Public blockchains popularized Byzantine fault tolerance for open economic networks.
-Bitcoin uses proof of work rather than classical quorum voting.
-Its security depends on computational cost and economic incentives.
-Many later systems use proof of stake with Byzantine consensus protocols.
-Examples include Tendermint-style consensus and HotStuff-inspired protocols.
-These systems combine validator voting with cryptographic identities and slashing rules.
-Finality means that a block cannot be reverted unless assumptions are violated.
-Probabilistic finality means confidence increases as more blocks are added.
-Blockchain contexts add complications such as sybil resistance and incentive design.
-Technical consensus and economic game theory become intertwined.
-## Timing assumptions
-Byzantine agreement is constrained by impossibility results.
-The FLP result shows that deterministic consensus is impossible in a fully asynchronous system with even one crash fault.
-Byzantine faults are harder than crash faults.
-Practical protocols therefore assume partial synchrony, randomness, or failure detectors.
-Partial synchrony means messages may be delayed unpredictably, but eventually timing becomes bounded.
-Randomized protocols can make progress with probabilistic guarantees.
-Synchronous protocols assume known communication time bounds.
-The timing model determines what kind of liveness guarantee is realistic.
-Safety is often maintained even during network partitions.
-Liveness may pause until communication conditions improve.
-## History [[oss-oeric-legal-disclaimer-and-context]]
+The exact thresholds vary with assumptions and [[oss-oeric-legal-disclaimer-and-context]]
 The Byzantine Generals Problem was formalized by Leslie Lamport, Robert Shostak, and Marshall Pease in 1982.
 Their work clarified the difficulty of agreement under arbitrary faults.
 The name refers to generals of the Byzantine army coordinating by messengers.
@@ -124,7 +80,7 @@ Key management is critical because cryptographic identity underlies trust.
 Economic systems must prevent bribery, collusion, and sybil attacks.
 Implementations must handle denial-of-service attacks and malformed messages.
 Formal verification is valuable because protocol errors can be catastrophic.
-Operational monitoring is needed to detect degraded liguzman-allen-gartz-[[amanita]]-ibotenic-acid-fungi-cultural-significanceotice.
+Operational monitoring is needed to detect degraded liguzman-allen-gartz-[[ibotenic-acid-entity]]-fungi-cultural-significanceotice.
 ## Cultural significance
 Byzantine fault tolerance changed how engineers think about trust.
 It shows that systems can be built without assuming every component is honest.
@@ -147,3 +103,5 @@ If governance changes validator sets carelessly, assumptions may erode.
 
 ## Related Topics
 These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
+
+See also: [[holistic-grazing-and-pasture-management]]

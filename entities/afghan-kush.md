@@ -115,8 +115,6 @@ genetics. Its influence permeates the vast majority of contemporary strains.
 
 ## See Also
 
-- [[cannabis-indica]] — The species classification for Afghan Kush
 - [[og-kush]] — Descendant lineage carrying Afghan Kush genetics
-- [[northern-lights]] — Another influential indica with suspected Afghani heritage
 - [[sour-diesel]] — Hybrid strain with indirect Afghan Kush lineage via OG Kush
 - [[skunk-1]] — Foundational hybrid incorporating Afghani genetics

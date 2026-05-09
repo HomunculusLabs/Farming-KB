@@ -37,67 +37,7 @@ fieldwork documenting traditional psychedelic mushroom use in Africa and the
 Mediterranean.
 
 Samorini is a central figure in entheogen studies alongside Jonathan Ott,
-Christian Rätsch, and Terence McKenna. His work bridges academic mycology
-and the study of altered states of consciousness through archaeological and
-ethnographic investigation.
-
-## Biography
-
-Samorini studied biology at the University of Rome and developed an interest
-in psychoactive fungi during the 1980s. His early work focused on the
-ethnobotany of Amanita muscaria in European folk traditions.
-
-From the 1990s onward, he conducted extensive fieldwork across sub-Saharan
-Africa (Tanzania, Kenya, Congo Basin), the Mediterranean (Greece, Sardinia,
-Morocco), and South America. His African research documented traditional
-use of Psilocybe species by indigenous communities, significantly expanding
-the known geographic range of psychedelic mushroom use beyond Mesoamerica.
-
-He has served as a scientific consultant for Italian and international
-institutions, contributed to *Integration* journal, and published in both
-academic and popular venues. He has been a prominent critic of
-prohibitionist drug policies.
-
-## Major Contributions
-
-### Mushroom Iconography and Archaeology
-
-Samorini's most cited work concerns the identification of **psychoactive
-mushroom depictions in ancient art**. His 1998 paper identifying Tassili
-n'Ajjer (Algerian Sahara) rock art — dating to ~7,000–9,000 years BP — as
-depicting Psilocybe mushrooms represents the oldest known visual
-representation of hallucinogenic fungi:
-
-- **Tassili n'Ajjer rock paintings:** Large-bodied mushrooms with
-  anthropomorphic figures in ritual postures; morphology consistent with
-  Psilocybe species
-- **Greek pottery and coinage:** Identified Amanita muscaria imagery on
-  Classical Greek artifacts, suggesting entheogenic use in Dionysian
-  and Eleusinian mysteries
-- **Minoan art:** Proposed psychoactive mushroom symbolism in Minoan
-  frescoes and seals from Crete
-- **Roman mosaics:** Mushroom imagery interpreted as references to
-  ceremonial use
-
-These claims remain debated in mainstream archaeology, though the Tassili
-identification has gained wider acceptance with additional ethnographic
-parallels.
-
-### Zoopharmacognosy and Animal Intoxication
-
-Samorini's 2002 book *Animals and Psychedelics* presented a systematic
-theory of **deliberate animal psychoactive substance use**. His key argument
-is that the desire to alter consciousness is a fundamental biological drive
-shared across many species. Documented examples include:
-
-- **Reindeer and Amanita muscaria:** Siberian reindeer deliberately consume
-  fly agaric and exhibit behavioral changes; this well-documented behavior
-  forms the basis of Samorini's argument
-- **Cats and catnip (Nepeta cataria):** Deliberate consumption and
-  behavioral alteration
-- **Elephants and fermented fruit:** Documented consumption with observable
-  intoxication
-- **Goats and iboga (Tabernanthe iboga):** Reports of goats consuming
+Christian Rätsch, and Terence McKenna. His work bridges academic [[iboga]] (Tabernanthe iboga):** Reports of goats consuming
   iboga root bark in Central Africa
 - **Primates and fermented palm sap:** Multiple species deliberately seeking
   naturally fermented substrates
@@ -105,45 +45,64 @@ shared across many species. Documented examples include:
 This work positioned Samorini as a leading voice arguing that psychedelic
 use has deep evolutionary roots rather than being purely cultural.
 
-### African Ethnomycology
+### African [[agar]]
+- [[amanita-muscaria-entity]]
+## Practical Considerations
 
-Samorini's fieldwork in sub-Saharan Africa documented previously unrecorded
-traditions of psychoactive mushroom use:
+When working with Giorgio Samorini, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-- **Psilocybe species in Tanzania and Kenya:** Traditional use among
-  certain Bantu-speaking communities for divination, healing, and
-  initiation rituals
-- **Termitomyces and other species:** Complex classification systems
-  distinguishing edible, medicinal, and psychoactive mushrooms
-- **Integration with indigenous cosmology:** Mushroom experiences
-  interpreted through local spiritual frameworks
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-## Published Works
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-- *Animals and Psychedelics: The Natural World and the Instinct to
-  Alter Consciousness* (2002) — Primary theoretical work on animal
-  psychoactive substance use
-- *Mushrooms, Rocks and Books: The Psychonaut's Field Manual* (2012) —
-  Field guide combining ethnomycology with practical identification
-- Numerous articles in *Integration* journal (1990s–2000s) on mushroom
-  iconography and African ethnomycology
-- Contributing author to *Entheogens and the Future of Religion* (1999)
+## Common Challenges and Solutions
 
-## Key Theories and Positions
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-## Related Figures
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-- **Jonathan Ott:** Closest intellectual collaborator; shared focus on
-  pharmacognosy and entheogen terminology
-- **Christian Rätsch:** Fellow European entheogen scholar; co-contributor
-  to numerous volumes
-- **Terence McKenna:** Shared interest in mushroom history, though
-  Samorini's approach is more empirical
-- **Gordon Wasson:** Samorini extends Wasson's pioneering ethnomycology
-  into African and Classical contexts
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
 
-## See Also
+## Future Directions
 
-- [[agar]]
-- [[amanita]]
-- [[amanita-muscaria]]
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

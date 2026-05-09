@@ -116,13 +116,8 @@ The "Kush" pheno expresses more of the Bubba Kush heritage, with earthier aromas
 
 ## See Also
 
-- [[kush-mints]]
 - [[thin-mint-cookies]]
-- [[bubba-kush]]
 - [[thin-mint-cookies]]
-- [[girl-scout-cookies]]
 - [[gelato-cannabis]]
-- [[runtz-cannabis]]
 - [[cannabis-terpene-profiles]]
-- [[cannabis-minor-cannabinoids]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]

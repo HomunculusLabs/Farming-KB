@@ -103,19 +103,10 @@ Modern research is validating what traditional cultures have practiced for mille
 
 ## See Also
 
-- [[natfarm-lacto-fermentation-preservation]]
-
 - [[food-fermentation-guide]]
-
-- [[canning-and-preserving]]
 
 - [[root-cellar-design-and-construction]]
 
-- [[faires-food-fermentation-methods]]
-
-- brewing
-
 - [[fermented-vegetables-guide]]
-- [[holmgren-wild-foods-and-marginal-systems]]
 - [[jadam-brown-rice-vinegar-production]]
 - [[faires-water-sources-and-catchment]]

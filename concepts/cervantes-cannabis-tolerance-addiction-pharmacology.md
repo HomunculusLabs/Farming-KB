@@ -118,8 +118,6 @@ While cannabis dependence is uncommon relative to other substances, clinical rec
 
 ## See Also
 
-- [[cervantes-medical-marijuana-pharmacology]]
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
-- [[cervantes-terpenoid-pharmacology-therapeutic-effects]]
 - [[cannabis-endocannabinoid-system]]
 - [[cervantes-war-on-drugs-statistics]]

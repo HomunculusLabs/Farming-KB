@@ -8,31 +8,7 @@ type: concept
 tags: [cultivation]
 ---
 
-Synthetic-log cultivation is a modern methodology for growing edible and medicinal mushrooms on supplemented sawdust substrates enclosed in polypropylene bags, replacing traditional natural log inoculation. The method was developed for species like [[maitake-grifola-frondosa-comprehensive-profile]] that are difficult to cultivate on natural logs, offering greater control over growth parameters, substrate composition, and environmental conditions.
-
-## Overview of the Synthetic-Log Process
-
-The complete cultivation cycle consists of three overlapping phases: spawn run, primordia initiation, and fruiting body development. These stages form a continuous process of growth and differentiation. The total production cycle is approximately 3 to 3.5 months from inoculation to harvest.
-
-Synthetic logs are prepared by filling heat-sealed polypropylene bags (with microfilter windows for gas exchange) with supplemented hardwood sawdust substrate, sterilizing, and inoculating with spawn under sterile conditions. The colonized substrate block constitutes the "synthetic log."
-
-## Substrate Formulation
-
-The basal ingredient is hardwood sawdust (fine and coarse mixed 3:1), comprising 75-80% of the substrate by dry weight. This provides good air exchange essential for highly aerobic species. Oak is the most commonly used species in North America; maple, elm, beech, alder, blackgum, larch, poplar, cottonwood, and willow can also be used.
-
-Three representative substrate formulas:
-
-**Formula I:** Hardwood sawdust 75%, wheat bran (coarse) 23%, sucrose 1%, calcium compound (lime or gypsum) 1%. Moisture 60-63%, pH 5.5-6.5.
-
-**Formula II:** Hardwood sawdust 80%, wheat bran 18%, lime 1%, sucrose 1%, hardwood forest surface soil 15% (of the mixture). Moisture 60-63%, pH 5.5-6.5.
-
-**Formula III:** Hardwood sawdust (fine 40%, coarse 20%), spent substrate 20%, wheat bran 10%, hardwood forest soil 10%. Moisture 60-63%, pH 5.5-6.5.
-
-Wheat bran is essential as a source of thiamine (vitamin B1) required for fruiting body formation. Calcium contributes to differentiation of basidiocarps. Humus-rich surface soil from broadleaf forests enhances growth. Spent substrate recycling is environmentally sound.
-
-## Spawn Types
-
-Four types of [[spawn-generation-techniques]] are commonly used:
+Synthetic-log cultivation is a modern methodology for growing edible and medicinal mushrooms on supplemented sawdust substrates enclosed in polypropylene bags, replacing traditional natural log inoculation. The method was developed for species like [[spawn-generation-techniques]] are commonly used:
 
 1. **Liquid spawn** - produced by liquid-surface culture or submerged fermentation; labor-saving with specialized inoculators; scalable to industrial production.
 
@@ -93,22 +69,13 @@ Harvest when the cluster flower stage is fully formed with caps at approximately
 
 ## See Also
 
-- [[log-cultivation-of-mushrooms]]
-
 - [[synthetic-log-cultivation-species-selection]]
 
-- [[synthetic-log-mushroom-cultivation]]
 - [[maitake-cultivation]]
-- [[maitake-cultivation-guide]]
 - [[holzer-mushroom-cultivation-methods]]
-- [[mushroom-cultivation-basics]]
 - [[substrate-bag-preparation]]
-- [[substrate-ph-management]]
 - [[spawn-generation-techniques]]
-- [[spawn-production-techniques]]
 - [[mushroom-cultivation-grain-spawn]]
-- [[fruiting-chamber-design]]
 - [[mushroom-cultivation-troubleshooting-guide]]
-- [[mushroom-cultivation-problems]]
 - [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[basidiomycete-phylum-guide]]

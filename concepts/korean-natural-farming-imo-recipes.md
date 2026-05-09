@@ -103,12 +103,7 @@ Indigenous Microorganisms (IMO) are the foundation of Korean Natural Farming (KN
 - IMO #5 in compost: Stable once mixed into compost
 
 ## Related
-- [[korean-natural-farming-fpj-and-ffp-recipes]] — for plant and fish preparations
 - [[korean-natural-farming-lab-and-ohn-recipes]] — for lactic acid bacteria and herbal nutrients
-- [[jadam-natural-farming-philosophy]] — for JADAM comparison
 - [[compost-building-guide]] — for compost methods
-- [[soil-food-web-structure]] — for soil biology context
-- korean natural farming imo recipes
 - [[jadam-leaf-mold-soil-method]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]

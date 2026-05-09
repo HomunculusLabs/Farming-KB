@@ -90,20 +90,12 @@ While Fukuoka feared natural farming would "never be perfected" and "never see g
 
 ## See Also
 
-- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-mu-nothingness-philosophy]]
-- [[fukuoka-nature-is-unknowable]]
 - [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-critique-modern-agriculture]]
 - [[fukuoka-critique-organic-farming-ecology]]
-- [[fukuoka-one-straw-revolution-philosophy]]
 - [[fukuoka-compost-unnecessary-philosophy]]
-- [[fukuoka-barley-clover-cultivation]]
 - [[fukuoka-clay-pellet-desert-greening]]
-- [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-decentralized-self-sufficient-communities]]
-- [[no-till-grain-growing]]
 - [[no-tillage-grain-systems]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]

@@ -90,11 +90,7 @@ The phloem signaling system reveals plants as sophisticated communicating organi
 
 ## Related Topics
 
-- [[xylem-and-phloem-transport-systems-in-plants]] -- the structural and transport mechanics
 - [[nutrient-movement-through-soil-to-plant-roots]] -- how nutrients arrive at the root
-- [[root-exudates]] -- the chemicals delivered to the rhizosphere
 - [[adenosine-triphosphate-and-cellular-energy]] -- ATP in the phloem
-- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[plant-cell-membrane-transport-proteins]]
 - [[temperature-effects-plant-nutrient-uptake]]

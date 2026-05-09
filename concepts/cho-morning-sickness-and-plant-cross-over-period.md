@@ -132,11 +132,7 @@ a single comprehensive fertilizer at planting is fundamentally
 
 ## See Also
 
-- [[cho-nutritive-cycle-theory]]
 - [[cho-natural-farming-inputs-overview]]
-- [[cho-water-soluble-calcium-and-potassium]]
 - [[cho-fermented-plant-juice-preparation]]
-- [[cho-oriental-herbal-nutrient-preparation]]
 - [[cho-brown-rice-vinegar-preparation]]
-- [[natural-farming]]
 - [[korean-natural-farming]]

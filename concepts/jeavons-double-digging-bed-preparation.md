@@ -122,10 +122,7 @@ The GROW BIOINTENSIVE method can build soil up to 60 times faster than in nature
 
 ## See Also
 
-- [[jeavons-grow-biointensive-method-overview]] — The complete method and philosophy
 - [[jeavons-flat-preparation-seedling-raising]] — Seedling production for transplanting
-- [[jeavons-composting-methods]] — Making compost for bed preparation
 - [[jeavons-soil-fertility]] — Nutrient management and sustainability
-- [[jeavons-companion-planting]] — Synergistic plant combinations
 - [[jeavons-master-planning-mini-farms]] — Whole system design
 - [[hugelkultur-bed-construction-detailed]] — Alternative raised bed approaches

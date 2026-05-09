@@ -135,15 +135,8 @@ parked cars.
 
 - Spore Discharge Mechanisms in Fungi
 - Fungal Biology and Ecology
-- [[mushroom-hunting-and-identification]]
-- Fungal Pathogens and Human Disease
-
-## See Also
-
 - [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
-- [[bloomfields-orchard-mushroom-hunting-and-identification]]
 - [[bloomfields-orchard-fungal-biology-and-ecology]]
-- [[stinkhorn-fungi-gasteromycetes]]
 - [[bloomfields-orchard-notable-mycologists-buller-and-lloyd]]
 
 - [[mushroom-hunting-and-identification]]

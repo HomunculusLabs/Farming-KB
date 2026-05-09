@@ -132,13 +132,9 @@ Only a recovery of the relationship that humanity evolved with nature through us
 
 ## See Also
 
-- [[psychedelic-shamanism-as-death-practice]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
-- [[mckenna-archaic-paradise-techniques-ecstasy]]
-
 - [[ayahuasca-preparation]]
 - Transcendent Other
-- [[partnership-and-dominator-models]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - Archaic Revival
 - [[indole-hallucinogens-and-human-evolution]]

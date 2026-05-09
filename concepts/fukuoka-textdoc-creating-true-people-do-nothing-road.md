@@ -117,8 +117,6 @@ ordinary.
 
 ## See also
 
-[[fukuoka-textdoc-farming-for-all-vision]]
 [[fukuoka-do-nothing-farming-philosophy]]
-[[fukuoka-do-nothing-farming-philosophy-and-practice]]
 [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 [[fukuoka-village-self-sufficient-community]]

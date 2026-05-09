@@ -1,0 +1,126 @@
+---
+title: "Naturwissenschaften 1990 Landmark Study — First Demonstration of Brassinosteroid Effects on Fungi"
+concept_type: research_paper
+domain: mycology
+source:
+  authors:
+    - "Gartz, J."
+    - "Adam, G."
+    - "Vorbrodt, H.-M."
+  title: "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis"
+  journal: "Naturwissenschaften"
+  volume: 77
+  pages: "388-389"
+  year: 1990
+  publisher: "Springer-Verlag"
+  doi: "10.1007/BF01131704"
+related_pages:
+  - "[[psilocybe-cubensis]]"
+  - "[[mycological-permaculture-integration|mycological chemistry]]"
+tags:
+  - brassinosteroids
+  - fungal-physiology
+  - phytohormones
+  - mycelial-growth
+  - psilocybe-cubensis
+  - landmark-study
+  - cross-kingdom-hormone-effects
+  - naturwissenschaften
+  - historical-mycochemistry
+  - growth-promotion
+---
+
+# Naturwissenschaften 1990 — Brassinosteroid Effects in *Psilocybe cubensis*
+
+## Overview
+
+This short communication, published in **Naturwissenschaften** (Springer-Verlag, 1990) by **Jörg Gartz**, **Günter Adam**, and **Hans-Michael Vorbrodt**, represents the **first published demonstration** that brassinosteroids — a class of plant steroid hormones — can exert biological effects on fungi. Prior to this study, brassinosteroids had been exclusively studied within the plant kingdom, and no investigations into their occurrence or bioactivity in the fungal kingdom had been reported.
+
+## Authors and Affiliations
+
+- **J. Gartz** — Institut für Biotechnologie, Leipzig, Germany
+- **G. Adam** — Institut für Biochemie der Pflanzen, Halle/S., Germany
+- **H.-M. Vorbrodt** — Institut für Biochemie der Pflanzen, Halle/S., Germany
+
+The collaboration bridged two East German research institutes: the biotechnology group in Leipzig, led by Gartz (who was already well known for his work on psychoactive mushrooms and their cultivation chemistry), and the plant biochemistry group in Halle, which brought deep expertise in brassinosteroid synthesis and structural characterization. This cross-institutional partnership was characteristic of the integrated research networks within the East German Academy of Sciences.
+
+## Publication Context
+
+*Naturwissenschaften* (meaning "Natural Sciences" in German) is one of the oldest and most prestigious interdisciplinary science journals, founded in 1913 and published by Springer-Verlag. Publication in this journal lent the findings significant visibility across the botanical, chemical, and biological communities. The journal was historically known for publishing concise, high-impact short communications that could rapidly disseminate novel findings to a wide scientific audience.
+
+The paper appeared as a brief **short communication** spanning only **two pages** (388–389), consistent with the journal's format for preliminary but noteworthy findings. Despite its brevity, the compact format ensured that the core result — fungal responsiveness to a brassinosteroid — was communicated with maximal clarity and minimal distraction.
+
+## Historical Background: Brassinosteroids in the Late 1980s
+
+Brassinosteroids were recognized in the late 1980s and early 1990s as a **new class of phytohormones** — plant steroid hormones distinct from auxins, gibberellins, cytokinins, ethylene, and abscisic acid. The first brassinosteroid, **brassinolide**, was isolated from rapeseed (*Brassica napus*) pollen in 1979 by Grove et al. By 1990, approximately **30 brassinosteroids** had been identified across the plant kingdom, occurring in:
+
+- **Angiospermae** (flowering plants) — the most widely studied group
+- **Gymnospermae** (cone-bearing plants)
+- **Green algae**
+
+Despite this growing body of plant literature, the fungal kingdom remained entirely unexplored with respect to brassinosteroids. No studies had investigated whether these compounds occurred naturally in fungi or whether fungal organisms possessed the molecular machinery to respond to them.
+
+## The Experimental Compound
+
+The study employed **synthetic 22S,23S-homobrassinolide**, a brassinosteroid analogue prepared from **stigmasterol** as a starting material. Homobrassinolide differs from brassinolide by the presence of an additional methylene group in the side chain (a C-28 homologue), making it one of the more accessible synthetic brassinosteroids for experimental use at the time.
+
+The use of a synthetic rather than naturally derived compound was significant: it allowed the researchers to control for purity and stereochemistry while testing the fundamental biological question of whether fungi could respond to brassinosteroid signaling at all. The stigmasterol-derived synthesis route was well-established in the Halle laboratory.
+
+## Key Findings
+
+The paper reported a **growth-promoting effect** of 22S,23S-homobrassinolide on mycelial cultures of *Psilocybe cubensis*. When applied to the fungal cultures, the brassinosteroid stimulated increased mycelial growth compared to untreated controls. This was a striking result because it demonstrated that:
+
+1. Fungal cells are capable of **perceiving and responding** to brassinosteroid molecules.
+2. The response was **growth-promoting**, paralleling the well-documented effects of brassinosteroids on plant cell elongation and division.
+3. The biological activity of brassinosteroids **extends beyond the plant kingdom** into the fungal kingdom.
+
+## Significance and Impact
+
+This paper opened a genuinely novel line of inquiry at the intersection of plant physiology and mycology. Its principal contributions include:
+
+- **Cross-kingdom hormone sensitivity**: Demonstrating that a class of compounds thought to be exclusively plant-specific could affect fungal growth raised fundamental questions about the evolutionary conservation of steroid signaling pathways.
+- **Fungal brassinosteroid occurrence**: The study explicitly posed the open question of whether brassinosteroids **occur naturally in fungi** — a question that remained largely unresolved in subsequent decades.
+- **Biotechnological implications**: The authors noted their intent to conduct further studies on **commercially important fungal species**, suggesting awareness of potential applications in mushroom cultivation and industrial mycology.
+
+## Open Questions Raised
+
+The paper, despite its brevity, raised several questions that would inform future research directions:
+
+- Do fungi **biosynthesize** brassinosteroids endogenously, or are they solely responsive to exogenous sources from their environment or plant hosts?
+- What is the **molecular mechanism** of brassinosteroid perception in fungal cells? Do fungi possess receptor kinases analogous to the plant BRI1 receptor, or do they utilize entirely different recognition systems?
+- Could brassinosteroids or their analogues be used to **enhance yields** in cultivated mushroom species, representing a novel class of growth supplements for commercial mycology?
+- Are brassinosteroid-like compounds present in fungal fruiting bodies or mycelium as **undiscovered secondary metabolites** that have been overlooked in standard chemical screening?
+
+## Citation Context and Legacy
+
+As a short communication in a high-visibility journal, this paper served primarily as a **proof-of-concept** and catalyst for further investigation. It has been cited in discussions of:
+
+- Cross-kingdom signaling between plants and fungi
+- The broader question of whether classical plant hormones have functional analogues or receptors in non-plant organisms
+- The chemical ecology of *Psilocybe* species, within Gartz's wider body of work on psychoactive mushroom chemistry
+
+The study remains a frequently referenced milestone in mycochemical literature when discussing the overlap between plant and fungal steroid biochemistry. Its value lies not in providing comprehensive mechanistic answers, but in having been the **first to ask the question** in a rigorous, published context.
+
+## Related Topics
+
+- **Brassinosteroid biosynthesis** in plants and its potential parallels in fungi
+- **Steroid hormones in fungi** — including ergosterol and fungal-specific sterol pathways
+- **Phytohormone effects on fungi** — a broader area encompassing auxins, cytokinins, and other plant regulators tested on fungal systems
+- **Mycelial culture optimization** for both research and commercial cultivation
+- **East German mycological research** and its contributions during the pre-reunification period
+
+## See Also
+
+- Gartz's broader body of work on *Psilocybe* chemistry and cultivation
+- The development of brassinosteroid chemistry at the Halle institute
+- Comparative studies of plant hormone effects across biological kingdoms
+
+## References
+
+1. Gartz, J., Adam, G., and Vorbrodt, H.-M. (1990). Growth-promoting effect of a brassinosteroid in mycelial cultures of the fungus *Psilocybe cubensis*. *Naturwissenschaften*, 77, 388–389.
+2. Grove, M.D., Spencer, G.F., Rohwedder, W.K., et al. (1979). Brassinolide, a plant growth-promoting steroid isolated from *Brassica napus* pollen. *Nature*, 281, 216–217.
+3. Mandava, N.B. (1988). Plant growth-promoting brassinosteroids. *Annual Review of Plant Physiology and Plant Molecular Biology*, 39, 23–52.
+
+## See Also
+- [[gartz-1990-agar-versus-dung-grain-brassinosteroid-comparison]]
+- [[brassinosteroid-psilocybe-cubensis-growth]]

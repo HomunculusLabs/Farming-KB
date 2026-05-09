@@ -116,8 +116,6 @@ conditions:
 
 ## See Also
 
-- [[endolithic-fungi-rock-colonizing-communities]]
 - [[gadd-fungal-extremophiles]]
-- [[gadd-fungal-metal-interactions]]
 - [[fungal-mineral-transformations-biogeochemistry]]
 - [[mycogenic-mineral-precipitation]]

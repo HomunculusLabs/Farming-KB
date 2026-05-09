@@ -121,17 +121,9 @@ Alternatively, to use less energy, you can make sourdough in a crockpot by simpl
 
 ## See Also
 
-- [[faires-food-drying-and-no-energy-storage]]
-- lacto fermentation recipes
-
----
-Updated: 2026-04-18
-Source: The Ultimate Guide to Natural Farming and Sustainable Living
 - [[composting-materials-alternative]]
 
 ## Merged: Jam And Chutney Making
-> I pity them greatly, but I must be mum, for how could we do without sugar and rum? > ~ William Cowper Pectin can be bought from the store, but it is much better to use the natural pectin found in apples. - lacto fermentation recipes - [[faires-food-drying-and-no-energy-storage]] --- Updated: 2026-04-18 Source: The Ultimate Guide to Natural Farming and Sustainable Living - [[soft-fruit-growing-organic]] - [[fruit-growing-guide-organic]] To do this, save the peels and cores of apples and tie them up in a bundle of unbleached muslin cloth.
-- [[lacto-fermentation-and-food-preservation-methods]]
-- [[root-cellaring-and-no-energy-food-storage]]
+> I pity them greatly, but I must be mum, for how could we do without sugar and rum? > ~ William Cowper Pectin can be bought from the store, but it is much better to use the natural pectin found in apples. - lacto fermentation recipes - [[soft-fruit-growing-organic]] - [[lacto-fermentation-and-food-preservation-methods]]
 - [[faires-low-energy-cooking-and-food-preservation]]
 - [[wild-yeast-bread-baking]]

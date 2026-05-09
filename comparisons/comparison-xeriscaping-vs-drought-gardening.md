@@ -124,11 +124,7 @@ Combining both approaches creates a property that is both productive and water-e
 
 ## See Also
 
-- [[comparison-desert-gardening-vs-drought-gardening]]
-
 - [[xeriscaping-guide]]
-- [[drought-gardening]]
 - [[drip-irrigation-guide]]
-- [[intensive-planting-spacing]]
 - [[rain-garden-design]]
 - [[native-plant-gardening]]

@@ -92,33 +92,6 @@ The use of internet intelligence presented both opportunities and challenges. On
 
 The E-POD project was designed to complement and strengthen the existing EU Early Warning System (EWS) on new psychoactive substances. The EWS, established in 1997, primarily tracked the appearance of new synthetic drugs through forensic analysis of seized materials. The E-POD approach broadened this scope to include natural substances (such as hallucinogenic mushrooms), changes in the use patterns of established substances, and shifts in the social and commercial contexts of drug use.
 
-This integration was significant because it recognized that emerging trends could involve not only entirely new chemical entities but also the re-emergence, re-marketing, or re-contextualization of existing substances. The hallucinogenic mushroom case study demonstrated this principle clearly: the mushrooms themselves were not new, but their commercialization through smartshops and the internet, their positioning within the "herbal highs" market segment, and their adoption by new user populations all constituted genuine emerging trends that warranted monitoring and response.
-
-## Contributing and Barrier Factors Framework
-
-A distinctive feature of the E-POD analytical framework was its systematic assessment of both contributing factors (conditions that facilitated the emergence and diffusion of a trend) and barrier factors (conditions that limited or prevented its spread). This dual analysis provided a more nuanced understanding of why some emerging trends became established while others remained marginal.
-
-For hallucinogenic mushrooms, contributing factors identified through the E-POD analysis included consumer megatrends favoring natural products, the expansion of dance music culture, the development of smartshop and online retail infrastructure, and legal loopholes that facilitated open commercial sales. Barrier factors included the unpleasant subjective effects that limited repeat use, the cumbersome route of administration compared to tablet drugs like ecstasy, the risks of wild mushroom foraging, and the eventual tightening of legal controls across multiple EU countries.
-
-## Relevance to Broader Drug Policy
-
-The E-POD project's findings on hallucinogenic mushrooms illustrated a fundamental principle of drug policy: that emerging trends are shaped not only by the pharmacological properties of substances but also by the social, economic, and legal contexts in which they are used and marketed. The case study highlighted the importance of lifestyle trends (such as the preference for natural products) and economic interests (such as the commercial incentives of smartshop owners and online retailers) in driving the diffusion of and responses to emerging drug trends.
-
-The project concluded that future work in the field of emerging drug trends must consider the crucial part that contextual forces play in reinforcing or legitimating forms of regulation. This insight has proven increasingly relevant as the landscape of psychoactive substances has evolved to include new psychoactive substances (NPS), synthetic cannabinoids, and novel tryptamines, all of which present similar challenges of detection, tracking, and timely response.
-
-## Lessons for Current Surveillance Systems
-
-The E-POD methodology anticipated several challenges that have become central to contemporary drug surveillance. The recognition that emerging trends could involve natural products as well as novel synthetic chemicals foreshadowed the later emergence of legal high products containing plant-based psychoactive substances. The emphasis on internet monitoring as an intelligence source has become even more critical with the growth of dark web marketplaces and social media-based drug distribution networks.
-
-The project's identification of legal loopholes as a driver of market development proved to be a recurring pattern in subsequent emerging drug trends. Just as smartshops exploited the fresh-versus-dried mushroom distinction, later NPS markets exploited gaps between national and international drug control legislation, between medicinal and recreational frameworks, and between analogue acts and generic scheduling approaches.
-
-## Legacy
-
-The E-POD project informed the subsequent development of the EMCDDA's Early Warning System, which was later strengthened and formalized under EU regulations to monitor new psychoactive substances. The methodological principles of source triangulation, rapid data collection, and contextual analysis using megatrend frameworks became embedded in the EMCDDA's ongoing approach to emerging trend monitoring.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- [[hallucinogenic-mushroom-prevalence-europe]]
+This integration was significant because it recognized that emerging trends could involve not only entirely new chemical entities but also the re-emergence, re-marketing, or re-contextualization of existing substances. The hallucinogenic mushroom case study demonstrated this principle clearly: the mushrooms themselves were not new, but their commercialization through [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[hallucinogenic-mushroom-legal-status-europe]]

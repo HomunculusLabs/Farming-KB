@@ -121,11 +121,7 @@ World than the Old, even though cannabis dominates Old World usage.
 
 ## Related Topics
 
-- [[cannabis-ancient-history]] - detailed ancient history
 - [[ancient-cannabis-use-near-east-and-egypt]] - Near Eastern use
-- [[scythian-cannabis-steam-bath-ritual]] - Scythian ceremony
 - [[marijuana-magick-ancient-ritual-use-cannabis]] - ritual use
-- [[cannabis-spiritual-ritual-use]] - spiritual practices
 - [[mckenna-cannabis-culture-history]] - McKenna's perspective
-- [[hallucinogenic-plants-history-ethnobotany]] - general survey
-- [[entheogenic-plants-and-psychoactive-flora]] - worldwide overview
+- [[gaian-psychotherapy-and-entheogenic-plants]] - worldwide overview

@@ -128,8 +128,6 @@ broad spectrum of beneficial organisms capable of thriving under
 diverse field conditions throughout the growing season.
 
 ## See Also
-- [[cho-imo-collection-bamboo-stump-and-paddy-field]]
 - [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]
-- [[what-natural-farming-method-should-i-use]]
 - [[chos-global-natural-farming-input-reduction-methods]]
 - [[fungal-species-estimation-methods-total-diversity]]

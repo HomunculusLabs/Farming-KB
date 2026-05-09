@@ -14,18 +14,7 @@ sources:
 type: concept
 ---
 
-# Golden Oyster Mushroom ([[pleurotus-citrinopileatus]]) Cultivation
-
-## Overview and Description
-
-Few mushrooms are as spectacular as the Golden Oyster. Its brilliant
-yellow color astonishes all who first see it. This species forms clusters
-hosting a high number of individual mushrooms, whose stems often diverge
-from a single base. Its extreme fragility post-harvest limits its
-distribution to far-away markets. Spicy and bitter at first, this
-mushroom imparts a strong nutty flavor upon thorough cooking. Pleurotus
-citrinopileatus grows quickly through pasteurized straw and sterilized
-sawdust, and thrives at high temperatures. For related [[cotter-oyster-mushroom-cultivation]] guides, see [[growing-gourmet-king-oyster-eryngii-cultivation]] and [[shiitake-strain-classification-and-substrate-formulas]].
+# Golden Oyster Mushroom ([[cotter-oyster-mushroom-cultivation]] guides, see [[shiitake-strain-classification-and-substrate-formulas]].
 
 Caps are golden to bright yellow, 2-5 cm, convex to plane at maturity,
 often depressed in the center, thin-fleshed, with decurrent gills which

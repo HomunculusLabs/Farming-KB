@@ -49,49 +49,7 @@ in biology. The fungus appears to hijack the insect's nervous system
 to serve its own reproductive needs, a phenomenon that has been
 called "brainjacking" by some researchers.
 
-## [[fruiting-body-development]]
-
-A few days after the insect's death, hyphae burst through joints
-in the exoskeleton, cloaking the animal in mycelium before sprouting
-an elongated fruiting body called the ascocarp. Sometimes the
-ascocarp erupts directly from the insect's head. In tropical
-species, these structures can be spectacularly large and brightly
-colored. Cordyceps gunnii from Australia is as fat as a garden hose
-and longer than a stick of celery.
-
-The upper portion of mature ascocarps is covered with pimples
-marking openings of tiny flask-shaped chambers called perithecia.
-Each perithecium holds many asci, and each ascus contains eight
-thread-shaped ascospores. The spores span half a millimeter and are
-built from 100 or more segments that fragment in the air, creating
-a missile with numerous warheads. A single fruiting body can
-dispense millions of infectious particles.
-
-## Diversity and Distribution
-
-Research by mycologist Nigel Hywel-Jones has revealed Cordyceps
-species on cicadas, tarantula spiders, ants, and termites across
-the rain forests of Thailand. Termites infected by one recent
-discovery die in pairs, harnessed to each other's jaws by fungal
-mycelium, perhaps when one attempts to groom its diseased kin.
-The arms race between Cordyceps and insects has probably been waged
-for hundreds of millions of years.
-
-## Traditional Medicine
-
-Cordyceps has been used in Chinese medicine for centuries. Its
-fruiting bodies are called dong chong xia cao ("winter insect,
-summer grass"), evoking the apparent transformation of caterpillars
-into plant-like structures. The colonized insect is sold dried,
-powdered for tea, or taken as tablets. It is marketed as a treatment
-for fatigue, respiratory ailments, kidney dysfunction, and male
-sexual potency, and has attracted interest as a potential
-performance-enhancing drug for marathon runners.
-
-## The Ergot Connection: Claviceps
-
-Cordyceps poses no threat to humans, but its relative Claviceps, the
-[[ergot-fungus]], is a source of great misery. Claviceps infects rye and
+## [[ergot-fungus]], is a source of great misery. Claviceps infects rye and
 produces toxins that cause blood vessels to constrict so powerfully
 that extremities become gangrenous. The vasoconstricting poison
 ergotamine survives baking, and most poisoning cases resulted from
@@ -112,11 +70,26 @@ fungus's inability to thrive in dry conditions.
 
 ## Related Topics
 
-- [[bloomfield-fungal-parasites-of-insects]] for other insect
-  parasitic fungi
 - [[bloomfield-fungal-pathogens-and-parasites]] for fungal
   pathogens of animals including humans
-- [[bloomfield-fungal-biology-and-hyphal-growth]] for the
-  basic biology of fungal growth and invasion
 - [[bloomfield-mushroom-poisons-and-toxidromes]] for other
   fungal toxins and their effects
+## Practical Considerations
+
+Successful implementation of Cordyceps: Insect Pathogens and Behavioral Manipulation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

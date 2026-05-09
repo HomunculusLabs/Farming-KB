@@ -102,16 +102,7 @@ This guild exemplifies the "bookworm" approach to guild design:
 
 ## See Also
 
-- [[apple-guild-design-guide]]
 - [[permaculture-guild-design-method]]
-- [[guild-design-methodology]]
 - [[dynamic-accumulators]]
-- [[fungal-allelopathy-mechanisms-and-ecological-effects]]
-
-## Sources
-
-- Hemenway, T. Gaia's Garden: A Guide to Home-Scale Permaculture, Chapter 9
-- Murphy, T. Walnut-hackberry guild observations (Arizona permaculture designer)
 - [[holzer-fruit-tree-planting-method]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]

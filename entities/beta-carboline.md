@@ -141,8 +141,6 @@ and oneiric states.
 
 ## See Also
 
-- [[harmine]] — Primary psychoactive β-carboline alkaloid
 - [[harmaline]] — Major MAO-inhibiting β-carboline from P. harmala
-- [[dimethyltryptamine]] — DMT, the classic psychedelic potentiated by β-carbolines
 - [[banisteriopsis-caapi]] — Ayahuasca vine, natural source of harmala alkaloids
 - [[peganum-harmala]] — Syrian rue, concentrated natural β-carboline source

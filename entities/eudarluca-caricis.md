@@ -116,12 +116,8 @@ system for studying hyperparasitic interactions in plant pathogen
 populations.
 
 ## See Also
-Related: [[rust-fungi-biodiversity-life-cycles]], [[biodiversity-rust-fungi-urediniomycetes]], [[bloomfield-coffee-rust-and-crop-pathogens]]
+Related: [[biodiversity-rust-fungi-urediniomycetes]], [[fungal-mycoparasitism-and-biocontrol-interactions]]
 
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
-
-- [[mushroom-cultivation-fundamentals]]
-- puccinia graminis
 - [[aphanocladium-album]]
 - cladosporium uredinicola
 - tuberculina

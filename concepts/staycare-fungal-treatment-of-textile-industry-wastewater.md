@@ -36,8 +36,6 @@ Table 10.2 from the source lists the following genera and species of white rot f
 - Bjerkandera spp. and B. adusta
 - Chrysonilia sitophila
 - Dichomitus squalens
-- [[flammulina-velutipes]]
-- Funalia trogii
 - [[ganoderma-lucidum]]
 - Hericium erinaceum
 - Lentinus (Lentinula) edodes
@@ -46,79 +44,7 @@ Table 10.2 from the source lists the following genera and species of white rot f
 - Phlebia radiata
 - Pleurotus ostreatus, P. eryngii, P. sajor-caju
 - Pycnoporus cinnabarinus
-- [[schizophyllum-commune]]
-- Trametes (Coriolus) versicolor, T. hirsuta and other Trametes spp.
-
-## Mechanisms of Decolorization
-
-### Two Principal Mechanisms
-
-1. **Adsorption to biomass**: Dyes bind to fungal cell walls (composed of chitin, chitosan, glucans, proteins, lipids, melanin). Positively charged dyes like triphenylmethanes and basic azo dyes adsorb through charge interaction with negatively charged fungal surfaces. Adsorption follows Langmuir (Wang & Yu, 1998) or Freundlich (Knapp et al., 1997) isotherm models.
-
-2. **Biodegradation**: Enzymatic breakdown of chromophores. With white rot fungi, this involves ligninolytic enzymes (laccase, LiP, MnP). The process typically shows an initial rapid adsorption phase followed by slower degradative decolorization of adsorbed dye (Tatarko & Bumpus, 1998; Wang & Yu, 1998).
-
-With white rot fungi, adsorption is NOT the principal mechanism. Rather, prior adsorption may bring chromophores into closer contact with cell-surface-associated degradative enzymes (Evans et al., 1991, 1994). Evidence: in studies with concentrated dyes (50-100 absorbance units), decolorization was often complete leaving white mycelium with no trace of adsorbed dye, while heat-killed controls had deeply colored mycelial mats (Knapp, Newby & Reece, 1995).
-
-### Enzymatic Systems Involved
-
-- **Laccase**: Oxidizes phenolic dyes directly; with mediators (ABTS, HBT), extends to non-phenolic dyes
-- **Lignin peroxidase (LiP)**: Oxidizes non-phenolic aromatics; veratryl alcohol (VA) promotes LiP-mediated decolorization (Young & Yu, 1997; Heinfling et al., 1998)
-- **Manganese peroxidase (MnP)**: B. adusta MnP decolorizes several dyes in a manganese-independent manner (Heinfling et al., 1998)
-- **H₂O₂-generating oxidases**: Glucose oxidase, aryl alcohol oxidase supply H₂O₂ for peroxidase activity
-
-### Important Caveat: New Chromophore Formation
-
-Laccase and MnP can catalyze coupling reactions that create NEW chromophores from degradation products. During Reactive Black 5 decolorization by C. versicolor strains, nearly 100% reduction in A₄₄₆ may be achieved but only 80% reduction in A₅₅₀, with the color changing from dark blue/black to light red. Residual red coloration (~490-520 nm) persists with some fungi. This appears to involve production of new colored entities through coupling of original chromophore degradation products (Knapp, Vantoch-Wood & Zhang).
-
-## Critical Process Parameters
-
-### pH
-
-Optimal decolorization pH is typically 4-5.5 for most white rot fungi. If initial pH is between 5.5 and 7, the fungus can usually reduce it to the optimal range. At pH > 7, decolorization often fails. Individual enzyme systems have different pH optima; LiP from P. chrysosporium has optimum at pH 2.3-2.5 but is unstable at this pH. The optimum pH for whole cultures represents a compromise between enzyme optima and fungal growth requirements.
-
-### Carbon Source
-
-Glucose (5-10 g/L) is the most common carbon source. It fuels growth and provides oxidants: glucose can be oxidized by fungal oxidases to give gluconic acid and H₂O₂. Alternatives include xylose, fructose, sucrose, maltose, cellobiose, glycerol, ethanol, starch, and xylan. Cellulose and its derivatives are surprisingly less effective. For re-used mycelia, added carbon is essential to maintain activity.
-
-### Nitrogen Source
-
-Early work on P. chrysosporium used nitrogen-limited conditions (Kirk et al., 1978), but other fungi differ markedly:
-- B. adusta produces MORE LiP and MnP in nitrogen-sufficient than nitrogen-limited media (Mester, Peña & Field, 1996)
-- P. flavido-alba yields higher enzyme levels with excess nitrogen (Ben Hamman, de la Rubia & Martínez, 1997)
-- Some decolorizations are fastest under nitrogen limitation; others are as good or better with sufficient nitrogen
-
-### Trace Metals
-
-- **Copper**: Required for laccase; stimulates production in T. versicolor and P. ostreatus. At 0.1 mmol/L, Cu²⁺ increased decolorization by T. versicolor (though slower rate), while inhibiting P. chrysosporium (Pointing, Bucher & Vrijmoed, 2000)
-- **Manganese**: Essential for MnP activity; as little as 2 mg/L Mn²⁺ promoted decolorization of azo dye and cotton bleaching effluent (Knapp et al., 1997; Zhang et al., 1999a). However, Mn²⁺ effects are case-dependent; with B. adusta MnP, increasing Mn²⁺ inhibited decolorization (Heinfling et al., 1998)
-- **Iron**: Required for LiP and MnP (haem-containing peroxidases)
-
-### Agitation and Aeration
-
-Results vary by system:
-- Static cultures: Better for P. chrysosporium and P. ostreatus (Kim, Ryu & Shin, 1996; Bakshi et al., 1999)
-- Agitated cultures: Better for various fungi and chromophores (Knapp et al., 1997; Prasad & Gupta, 1997; Sani, Azmi & Banerjee, 1998; Swamy & Ramsay, 1999a)
-- Addition of Tween 80/20 allows high LiP yields in agitated cultures (Jäger, Croan & Kirk, 1985)
-- Lignin degradation requires oxygen; oxygen transfer is problematic in static cultures
-
-### Temperature
-
-Most white rot fungi: 27-30°C optimum. P. chrysosporium is unusual at 37-40°C; this higher optimum offers an advantage in large-scale reactors where metabolic heat removal is a concern.
-
-## Measurement Challenges
-
-Comparing decolorization studies is difficult because:
-- Different methods (colorimeters, UV/Vis spectra, Platinum-Cobalt Units)
-- Different wavelengths measured (single wavelength vs. full spectrum)
-- De-colorization at one wavelength may be accompanied by color increase at another wavelength
-- Concentration matters: 99% decolorization at 10 mg/L is less impressive than 90% at 500 mg/L
-- Effluent dilution is often employed but undesirable for industrial application
-- Need to distinguish adsorption from degradation using appropriate controls (heat-killed mycelium, biocide-treated cultures)
-
-## See Also
-
 - [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 
@@ -130,3 +56,62 @@ Comparing decolorization studies is difficult because:
 - Knapp, J.S., Vantoch-Wood, E.J. & Zhang, F. Chapter 10: Wood-rotting fungi for decolorization. In Staycare.
 - Pointing, G.B., Bucher, V.V.C. & Vrijmoed, L.L.P. (2000). Laccase and manganese peroxidase production by tropical white-rot fungi.
 - Tatarko, M. & Bumpus, J.A. (1998). Biodegradation of azo dyes by Phanerochaete chrysosporium.
+## Practical Considerations
+
+When working with Fungal Treatment of Textile Industry Wastewater, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

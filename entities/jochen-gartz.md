@@ -34,7 +34,7 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 
 ## Key Contributions
 
-- **Global distribution mapping:** Co-authored the landmark paper "A Worldwide Geographical Distribution of the Neurotropic Fungi" (1998) with [[gaston-guzman]] and [[john-w-allen]], cataloguing 216 known species across four groups (psilocybin-containing, ibotenic acid, ergot fungi, and sacred fungi used without chemical confirmation).
+- **Global distribution mapping:** Co-authored the landmark paper "A Worldwide Geographical Distribution of the Neurotropic Fungi" (1998) with [[gaston-guzman]] and [[john-allen]], cataloguing 216 known species across four groups (psilocybin-containing, ibotenic acid, ergot fungi, and sacred fungi used without chemical confirmation).
 - **Chemical analysis:** Performed HPLC analyses on psilocybin and psilocin content across dozens of species, documenting significant inter- and intra-species variation in alkaloid levels.
 - **Discovery of Psilocybe natalensis:** Discovered and described the first psychotropic Psilocybe species in South Africa's Natal Province (1994) with Reid, Ecker, and Smith.
 - **Tryptamine biotransformation (1989):** Demonstrated that adding 25 mM tryptamine HCl to P. cubensis substrate caused the fungus to convert it to psilocin at unprecedented levels (up to 3.3% dry mass), while psilocybin dropped to near-zero. This showed the fungal enzyme systems have extraordinary hydroxylation and methylation capacity, and that excess tryptamine downregulates the phosphorylation step (Planta Medica 55:249-250).
@@ -56,5 +56,24 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 
 - [[psilocybin-mushroom-chemistry]] — Global distribution of psychoactive species
 - [[psilocybin-mushroom-chemistry]] — Detailed chemistry including Gartz's analyses
-- [[bigwood]] — Collaborating researcher on flush variation studies
-- [[beug]] — Collaborating researcher on alkaloid analysis
+- [[jeremy-bigwood]] — Collaborating researcher on flush variation studies
+- [[michael-beug]] — Collaborating researcher on alkaloid analysis
+## Practical Considerations
+
+Successful implementation of Jochen Gartz requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -105,12 +105,8 @@ Elettaria cardamomum (green cardamom) is the most commercially significant carda
 ## See Also
 
 - [[elettaria-cardamomum]]
-- [[zingiber-officinale]]
 - [[alpinia-galanga]]
-- [[curcuma-longa]]
 - [[cinnamomum-verum]]
-- [[cinnamomum-cassia]]
 - [[pimpinella-anisum]]
-- [[boesenbergia-rotunda]]
 - [[kaempferia-galanga]]
-- [[nigella-sativa]]
+- nigella-sativa

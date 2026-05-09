@@ -93,17 +93,7 @@ A crude abundance index can be constructed by recording the number of substratum
 
 ## See Also
 
-- [[mycetozoans]]
 - [[mycetozoans-slime-molds]]
-- [[microfungi-wood-plant-debris-survey]]
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]
-- [[freshwater-fungi-collection-and-culturing]]
-
-## Sources
-
-- Chapter on mycetozoans in Biodiversity of Fungi: Inventory and Monitoring Methods (Mueller et al., eds.)
-- Stephenson, S.L. and Stempen, H. Myxomycetes: A Handbook of Slime Molds
-- Spiegel, F.W. et al. Protostelid diversity and ecology
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[moist-chamber-technique-fungal-fruiting]]
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]

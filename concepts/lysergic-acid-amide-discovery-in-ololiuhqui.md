@@ -85,17 +85,7 @@ with alkaloid-producing fungi was ruled out experimentally.
 ## Pharmacological Effects
 
 Lysergic acid amide evokes a dreamlike condition, but only with a
-tenfold to twenty-fold greater dose than [[hofmann-lsd-pharmacology-and-effects]]. Effects include mental emptiness, unreality of the
-outer world, enhanced sensitivity of hearing, and physical lassitude
-leading to sleep. The psychic effects differ from LSD in that euphoric
-and hallucinogenic components are less pronounced, while anxiety and
-depression may predominate.
-
-## The Morning Glory Seed Boom
-
-Publication of these studies led to an unexpected sequel. Dutch
-wholesale seed companies reported unusual demand for Ipomoea violacea
-seeds from hippie circles seeking an [[turner-lsd]] substitute. The boom
+tenfold to twenty-fold greater dose than [[turner-lsd]] substitute. The boom
 lasted only a short time, as the seeds tasted very bad, were difficult
 to digest, and produced less desirable effects than LSD.
 
@@ -130,8 +120,6 @@ ethnobotanical knowledge.
 
 ## See Also
 
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
-- [[morning-glory-entheogens]]
 - [[plants-gods-ololiuqui]]
 - [[hofmann-lsd-discovery-bicycle-day]]

@@ -127,9 +127,6 @@ demonstrates its long-standing importance in traditional medicine.
 
 ## See Also
 
-- [[datura-innoxia]]
-
 - [[atropa-belladonna]] — European nightshade with tropane alkaloids
-- [[lophophora-williamsii]] — North American psychoactive cactus
 - [[anadenanthera-colubrina]] — South American tryptamine-containing tree
 - [[tabernanthe-iboga]] — African shrub with ibogaine

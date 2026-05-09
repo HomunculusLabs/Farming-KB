@@ -140,9 +140,6 @@ When taking mescaline, one often comes into contact with an age-old entity calle
 ## See Also
 
 - [[turner-lsd]]
-- [[turner-lsd]]
-- [[turner-psilocybin]]
 - [[psychedelic-combination-guide]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]
 - [[mao-inhibitors-and-psychedelics]]

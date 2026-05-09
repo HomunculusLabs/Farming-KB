@@ -124,9 +124,7 @@ difficult.
 
 ## See Also
 
-- [[cervantes-hydroponic-systems]] - overview of hydroponic methods
-- [[cannabis-advanced-growing-techniques]] - DWC and water-based systems
-- [[cervantes-rockwool-growing-substrate]] - rockwool as a medium
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - DWC and water-based systems
 - [[cervantes-nutrient-solution-reservoir-management]] - reservoir
   maintenance
 - [[cervantes-growing-medium]] - medium selection and properties

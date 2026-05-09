@@ -16,10 +16,7 @@ systems and convert it into soil amendment through biological decomposition, but
 where the composting happens and how the process is managed. Composting toilets process waste
 within an enclosed manufactured or built unit (often inside the building), while humanure
 composting collects waste in simple containers and composts it outdoors in traditional compost
-piles. Both approaches align with [[permaculture-principles]] of closed-loop nutrient cycling.
-
-## Composting Toilets
-[[composting-toilets]]
+piles. Both approaches align with [[composting-toilets]]
 Composting toilets encompass a range of manufactured and purpose-built systems that manage the
 decomposition of human waste within the toilet unit itself. Three main types exist: batch systems
 (alternating between two chambers or drums), continuous systems (waste moves gradually through a
@@ -45,22 +42,7 @@ require electricity for fans and heaters, undermining off-grid ambitions. The se
 can create anaerobic pockets if not managed properly, leading to odor problems.
 
 ## Humanure Composting
-[[humanure-composting]]
-Humanure composting, systematized by Joseph Jenkins in *The Humanure Handbook*, uses the simplest
-possible collection method — a toilet seat mounted over a five-gallon bucket — and moves the
-contents to outdoor thermophilic compost piles for processing. After each use, deposits are
-covered with a carbon-rich material (sawdust preferred). Full buckets are emptied into outdoor
-compost bins (minimum 4x4x4 feet) layered with straw, leaves, and kitchen scraps. The piles
-reach thermophilic temperatures (120-160 degrees F) that destroy all major pathogens, then cure
-for 1-2 years before the finished compost is applied to non-food crops or fruit trees.
-
-Humanure's greatest strength is simplicity and reliability. The system uses no electricity, has
-no moving parts, costs almost nothing to implement ($25-100 for buckets, toilet seat, and cover
-material), and produces genuinely finished, pathogen-free compost. The outdoor composting
-approach allows for much larger volumes than any self-contained toilet, easily handling
-full-time households of any size. The thermophilic process is well-documented and proven, with
-peer-reviewed studies confirming complete pathogen destruction at proper temperatures and
-holding times. Humanure integrates seamlessly with existing garden [[composting-systems]].
+[[composting-systems]].
 
 The limitations are primarily social and logistical: the bucket-to-pile process requires regular
 physical handling of raw waste (daily bucket emptying for a family of four), which many people
@@ -131,8 +113,6 @@ while ensuring the composting process itself is thorough and thermophilic.
 
 ## See Also
 
-- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
-- [[permaculture-designers-manual-greywater-systems]]
-- [[comparison-greywater-vs-rainwater-harvesting]]
+- [[graywater-systems]]
 - [[composting-toilets]]
 - [[humanure-composting]]

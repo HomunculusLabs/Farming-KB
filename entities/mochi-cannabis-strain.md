@@ -134,14 +134,8 @@ Mochi remains a **high-demand craft strain** in legal cannabis markets, commandi
 
 ## See Also
 
-- [[mochi-cannabis]]
-
 - [[gelato-cannabis]]
-- [[sunset-sherbet]]
 - [[girl-scout-cookies]]
-- [[thin-mint-cookies]]
 - [[wedding-cake-cannabis]]
-- [[ice-cream-cake-cannabis]]
 - [[runtz-entity]]
-- [[zkittlez]]
 - [[golden-goat]]

@@ -21,34 +21,6 @@ essential for getting the most from the JADAM approach.
 
 ## Jadam Natural Pesticide (JNP)
 
-[[ultra-low-cost-jadam-natural-pesticide-jnp]]
-
-JNP is JADAM's flagship pest management solution, designed as an ultra-low-cost
-alternative to synthetic pesticides. It is produced by fermenting wild grasses and
-weeds collected from the farm in water, combined with a small amount of Jadam
-Wetting Agent (JWA). The JWA, made by saponifying canola oil with potassium
-hydroxide derived from wood ash, acts as a surfactant that allows the fermented
-plant extract to spread evenly across leaf surfaces and penetrate insect bodies.
-
-The core principle behind JNP is that the diverse secondary metabolites produced
-by wild grasses during fermentation have broad-spectrum pesticidal properties.
-Different grasses contain different alkaloids, saponins, phenolic compounds, and
-other bioactive molecules. By fermenting a diverse mixture of locally available
-weeds and grasses, JNP leverages this chemical diversity to create a pesticide
-effective against a wide range of pests and diseases. Common plant materials
-include garlic, chili peppers, neem, and various wild grasses, though the exact
-blend varies by region and pest pressure.
-
-JNP is applied as a foliar spray, typically diluted with water and combined with
-JWA for improved coverage. It is most effective when applied preventively or at
-the earliest signs of pest activity. Because it is made from locally available
-materials and requires no purchased inputs beyond what the farm already produces,
-JNP represents one of the most accessible natural pest control methods available
-to smallholder farmers. JADAM founder Cho Young-sang emphasizes that consistent
-application is more important than any single perfect recipe.
-
-## Jadam Microorganism Solution (JMS)
-
 [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 
 JMS is JADAM's equivalent of the KNF Indigenous Microorganism (IMO) series,
@@ -117,20 +89,7 @@ biology, making JMS the more strategically important input over time.
 ## Hybrid Approaches
 
 The most effective JADAM practitioners use JNP and JMS together as complementary
-inputs in an [[integrated-pest-management]] strategy. A common protocol is to establish
-soil health with regular JMS applications while keeping JNP ready for targeted pest
-interventions. Some practitioners combine both in a single spray program, applying
-JMS as a soil drench and JNP as a foliar spray on the same day. This dual approach
-addresses both the below-ground and above-ground dimensions of plant health
-simultaneously. Over time, as JMS improves overall plant vigor and soil biology,
-the need for JNP applications typically decreases, reflecting the JADAM principle
-that healthy soil produces healthy plants that resist pests naturally.
-
-## See Also
-
-- [[korean-natural-farming]]
-- [[knf-vs-jadam-vs-em]]
+inputs in an [[korean-natural-farming]]
 - [[ultra-low-cost-jadam-natural-pesticide-jnp]]
-- [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
-- the [[soil-food-web]]
+- [[soil-food-web]]
 - composting and soil biology

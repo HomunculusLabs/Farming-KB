@@ -118,8 +118,6 @@ Cross-breeding derivatives include **Grease Monkey OG** (Grease Monkey × OG Kus
 
 ## See Also
 
-- `[[gorilla-glue]]` — Primary parent strain contributing potency and resin genetics
 - `[[chemdawg]]` — Grandparent strain in the Gorilla Glue lineage
-- `[[girl-scout-cookies]]` — Ancestral lineage contributing cookie terpene profile
 - `[[og-kush]]` — Foundational genetic contributor to the Cookies family
 - `[[sour-diesel]]` — Diesel terpene ancestor in the Gorilla Glue pedigree

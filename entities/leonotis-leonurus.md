@@ -138,12 +138,8 @@ In contemporary herbalism and ethnopharmacology, *L. leonurus* is used for:
 
 ## Pharmacological Research
 
-### Anti-inflammatory Activity
-Marrubiin and related diterpenes inhibit cyclooxygenase-2 (COX-2) and reduce pro-inflammatory cytokine production (TNF-α, IL-6) in vitro. Animal studies have confirmed anti-inflammatory effects comparable to standard NSAIDs at appropriate doses.
 ## See Also
 
 - [[leonurus-cardiaca-entity]] — Motherwort (Lamiaceae relative)
-- [[leonotis-nepetifolia]] — Klip Dagga (annual relative)
 - [[cannabis-sativa]] — Cannabis (frequently compared entheogen)
-- [[passiflora-incarnata]] — Passionflower (anxiolytic herb)
 - [[scutellaria-baicalensis]] — Chinese Skullcap (Lamiaceae medicinal)

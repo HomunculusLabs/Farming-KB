@@ -133,18 +133,10 @@ legal status of *P. salvinus* varies by country.
 lack psychoactive properties, as well as with potentially toxic
 mushrooms from other genera.
 
-- **[[pluteus-romellii]]** — Similar habitat and morphology but lacks
-  psilocybin; cap is more uniformly grey and stipe is typically more
-  robust.
-- **[[inocybe-corydalina-entity]]** — Another psilocybin-containing
+- **[[inocybe-corydalina]]** — Another psilocybin-containing
   species found on wood, but with adnate gills, brown spore print, and
   distinctive odor; some *Inocybe* species contain dangerous levels of
   muscarine.
-- **[[psilocybin-compound]]** — The primary psychoactive compound found in
-  *P. salvinus*, shared with numerous species across multiple genera.
-
-## See Also
-
-- [[baeocystin]] — A related psilocybin mushroom alkaloid often found
+- **[[baeocystin]] — A related psilocybin mushroom alkaloid often found
   co-occurring with psilocybin in psychoactive fungal species.
-- [[psilocybin-compound]] — The primary psychoactive compound found across
+- [[psilocybin]] — The primary psychoactive compound found across

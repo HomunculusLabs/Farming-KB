@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 # Fukuoka Diet, Blood, Thought, and Civilization
 
-[[natural-farming-fukuoka]] develops a sweeping theory linking diet to blood chemistry, temperament, and the rise and fall of civilizations. His argument connects the [[fukuoka-five-grains-food-mandala]] directly to the character of whole cultures and their historical trajectories.
+[[fukuoka-five-grains-food-mandala]] directly to the character of whole cultures and their historical trajectories.
 
 ## The Fundamental Principle
 
@@ -92,4 +92,4 @@ Fukuoka's alternative vision for civilization:
 - This was "the original way of living in Japan and the proper way of eating (a sacred act)"
 - The Japanese farmer "did not ask what food to grow and eat. He simply harvested and ate what grew naturally in his fields in each passing season"
 
-See also: [[fukuoka-five-grains-food-mandala]], [[fukuoka-japanese-diet-worse]], [[fukuoka-natural-diet-philosophy]], [[fukuoka-natural-diet-four-types]], [[fukuoka-food-and-health-philosophy]], [[fukuoka-specter-food-scarcity]], [[fukuoka-western-vs-japanese-attitudes]]
+See also: [[fukuoka-japanese-diet-worse]], [[fukuoka-natural-diet-four-types]], [[fukuoka-specter-food-scarcity]], [[fukuoka-western-vs-japanese-attitudes]]

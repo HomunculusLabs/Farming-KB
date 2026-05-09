@@ -17,7 +17,7 @@ The concept of "set and setting"--the recognition that the psychological and phy
 - **Set**: The subject's mental state, expectations, personality, mood, preparation, and intention prior to the psychedelic experience
 - **Setting**: The physical, social, and cultural environment in which the experience takes place
 
-The term was coined by [[timothy-leary-harvard-psilocybin-experiments]] and [[ralph-metzner]] in the context of their Harvard research, though the principle had been implicitly recognized by indigenous shamanic traditions for millennia.
+The term was coined by [[ralph-metzner]] in the context of their Harvard research, though the principle had been implicitly recognized by indigenous shamanic traditions for millennia.
 
 ## The Harvard Demonstration
 
@@ -80,9 +80,7 @@ A fundamental insight: the pharmacological profile of psilocybin defines only so
 
 ## See Also
 
-- [[philosophical-implications-of-psychedelics]]
 - [[psychedelic-therapeutic-frameworks]]
-- [[psychedelic-dose-response]]
 - [[philosophical-implications-of-psychedelics]]
 ## Merged: Boundary Dissolution in Psychedelic Experience
 

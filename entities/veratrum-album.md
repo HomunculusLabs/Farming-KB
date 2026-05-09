@@ -109,12 +109,8 @@ Jervine and related alkaloids have been used to study cholesterol metabolism and
 
 ## See Also
 
-- [[veratrum-viride]]
 - [[aconitum-napellus]]
-- [[colchicum-autumnale]]
 - [[podophyllum-peltatum]]
-- [[gelsemine]]
 - [[nicotine]]
-- [[amanita-muscaria]]
 - [[ergotamine]]
 - [[chelidonium-majus]]

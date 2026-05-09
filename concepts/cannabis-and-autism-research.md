@@ -47,35 +47,9 @@ Over half of all savants are autistic (U. of Wisconsin Medical School). Abilitie
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-endocannabinoid-system]] is increasingly recognized as relevant to autism spectrum disorder (ASD), though clinical evidence remains sparse. cb1-receptor is the most abundant G-protein coupled receptor in the brain and plays critical roles in neuronal development, synaptic plasticity, and social behavior -- all domains affected in autism.
+The [[cannabis-and-neuroprotection]] of cannabinoids may also be relevant given the neuroinflammatory component observed in some ASD patients.
 
-Preclinical evidence suggests endocannabinoid signaling modulates social interaction, communication, and repetitive behaviors in animal models. Mice with altered endocannabinoid signaling show autism-like behavioral changes, and normalizing endocannabinoid tone can reverse some of these changes. The [[cannabis-and-neuroprotection]] of cannabinoids may also be relevant given the neuroinflammatory component observed in some ASD patients.
-
-CBD's potential benefits for autism may involve several mechanisms: reducing neuroinflammation through cb2-receptor activation on microglia, modulating the immune dysfunction observed in many autistic children, reducing anxiety (a common comorbidity affecting 40-70% of autistic individuals), and improving sleep quality. These mechanisms are explored in [[cannabis-immune-modulation]].
-
-The endocannabinoid anandamide is involved in social reward processing and fear extinction, both relevant to autism's core social deficits. Oxytocin and the endocannabinoid system interact synergistically in social bonding behaviors, suggesting that cannabinoids may enhance social functioning through this pathway.
-
-THC's effects on autism are particularly complex and dose-dependent. At low doses, THC may enhance social interaction and sensory processing; at higher doses, it may exacerbate anxiety, social withdrawal, and sensory overwhelm. This narrow therapeutic window makes THC inappropriate for most autistic individuals without careful medical supervision.
-
-## Clinical Evidence
-
-No modern clinical studies specifically evaluating cannabis for autism were available in the CHI database (CHI Value: N/A). The evidence base consists entirely of preclinical research, case reports, and anecdotal observations from clinicians and caregivers.
-
-Since the CHI publication, emerging evidence from Israel and other countries has shown promising results. A 2019 Israeli study of 188 autistic patients treated with CBD-enriched cannabis oil reported significant improvements in behavioral outbreaks, anxiety, and communication problems. Approximately 30% of patients reported significant improvement, with 25% reporting moderate improvement.
-
-However, these studies remain observational, lack placebo controls, and involve heterogeneous cannabis preparations. The gold standard of evidence -- large, randomized, placebo-controlled trials -- has not yet been established for autism. Several such trials are currently underway.
-
-The anecdotal reports are compelling but must be interpreted cautiously. Caregiver-reported improvements may reflect placebo effects, regression to the mean, or the natural developmental trajectory of autism rather than true treatment effects. The absence of standardized outcome measures and validated assessment tools further complicates interpretation.
-
-## Dosing Considerations
-
-Autism requires exceptionally careful cannabinoid dosing, particularly in pediatric populations. CBD-dominant preparations are strongly recommended as the starting point, with doses beginning very low (0.5-1 mg of CBD per kg of body weight) and increasing gradually based on response.
-
-The Israeli studies have used CBD-enriched oil preparations with CBD:THC ratios of approximately 20:1, at total daily CBD doses ranging from 1-16 mg/kg. Lower ratios (more THC) have been associated with reduced tolerability in pediatric populations. THC content should be minimized or eliminated for children.
-
-Sublingual oil administration is the most common approach for autistic children, allowing precise dose measurement and gradual titration. The oil can be mixed with food if taste is an issue. Edible formats (gummies) carry risk of overconsumption and should be avoided in young children. Vaping and smoking are contraindicated for pediatric use.
-
-Dosing should focus on specific target symptoms rather than treating autism itself. Common targets include anxiety, aggression, self-injurious behavior, sleep disruption, and sensory overload. Tracking individual symptoms before and after cannabinoid initiation helps identify therapeutic benefit. See [[cannabis-delivery-methods-comparison]] for age-appropriate administration options.
+CBD's potential benefits for autism may involve several mechanisms: reducing neuroinflammation through cb2-receptor activation on microglia, modulating the immune dysfunction observed in many autistic children, reducing anxiety (a common comorbidity affecting 40-70% of autistic individuals), and improving sleep quality. These mechanisms are explored in [[cannabis-delivery-methods-comparison]] for age-appropriate administration options.
 
 ## Safety and Interactions
 
@@ -85,16 +59,7 @@ CBD's effects on brain development are not fully understood. While no significan
 
 THC is generally contraindicated in autistic children due to its psychoactive effects, potential to increase anxiety, and unknown effects on brain development. The narrow therapeutic window between potentially beneficial and clearly harmful THC doses makes dosing extremely difficult in this population.
 
-CBD is generally well-tolerated in children, with the most common side effects being drowsiness, changes in appetite, and gastrointestinal symptoms. Liver enzyme elevations have been reported at high doses, particularly when combined with valproate. Regular liver function monitoring is recommended. See [[cannabis-cbd-therapeutic-profile]] for pediatric safety considerations.
-
-## Mind-Body Perspective
-
-Most differences between autistic and "normal" people are defined by social criteria. Many autistic people feel natural in their state -- unlike "normal" people who often feel ashamed of appearance, height, or name. Many autistics may have a more centered sense of worth than "normal" people.
-
-## See Also
-
-- [[cannabis-for-mental-health]]
-- [[cannabis-for-anxiety-disorders]]
+CBD is generally well-tolerated in children, with the most common side effects being drowsiness, changes in appetite, and gastrointestinal symptoms. Liver enzyme elevations have been reported at high doses, particularly when combined with valproate. Regular liver function monitoring is recommended. See [[cannabis-for-mental-health]]
 - [[cannabis-immune-modulation]]
 - [[cannabis-endocannabinoid-system]]
 ## Merged: Cannabis for Autism

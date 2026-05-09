@@ -1,34 +1,3 @@
----
-title: Edible Wild Mushrooms - A Foraging Guide
-subtitle: Comprehensive guide to identifying, harvesting, and enjoying wild edible mushrooms safely
-tags:
-  - mushroom-foraging
-  - edible-mushrooms
-  - mycology
-  - wild-food
-  - identification
-  - mycophagy
-  - forest-ecology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - mushroom-demystified
-  - national-audubon-field-guide
-  - all-that-the-rain-promises
-  - fungal-fantasy
-  - psilocybin-mushrooms-of-the-world
-related_concepts:
-  - chanterelle-identification
-  - morel-hunting
-  - porcini-boletus-edulis
-  - hen-of-the-woods
-  - oyster-mushroom-foraging
-  - matsutake
-  - truffle-hunting
-  - agaricus-species
-  - mushroom-foraging-safety
-  - amatoxin-poisoning
----
 
 # Edible Wild Mushrooms: A Foraging Guide
 
@@ -36,7 +5,7 @@ Wild mushroom foraging is the practice of finding, identifying, and harvesting
 edible fungi from their natural habitats. It is an ancient human activity that
 predates agriculture, stretching back to our earliest hominid ancestors.
 Hunter-gatherer societies across every inhabited continent relied on wild
-mushrooms as a significant food source, particularly in temperate and boreal
+[[mushrooms-as-food-of-the-gods-broma-theon]] a significant food source, particularly in temperate and boreal
 forest regions where fungal diversity is highest. Today, mushroom foraging
 remains a living tradition in many parts of the world, from the legendary
 mushroom gatherers of Eastern Europe to the truffle hunters of Piedmont and the
@@ -44,7 +13,7 @@ commercial matsutake pickers of the Pacific Northwest.
 
 The cultural history of mushroom gathering reveals a striking divide between
 mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies, a
-dichotomy first articulated by the mycologist R. Gordon Wasson. Slavic
+dichotomy first articulated by the mycologist R. [[gordon-wasson-comparative-method-ethnomycology]]. Slavic
 cultures maintain some of the richest foraging traditions on Earth, with
 children learning to identify dozens of edible species from an early age and
 annual foraging seasons anticipated with the enthusiasm of holiday
@@ -92,7 +61,7 @@ exchanging soil minerals and water for carbohydrates produced by photosynthesis.
 This group includes most of the most prized edible mushrooms -- chanterelles,
 porcini, matsutake, and truffles -- which is precisely why they cannot be
 cultivated and must be wild-harvested. Saprotrophic fungi decompose dead
-organic matter, breaking down cellulose and lignin in fallen trees, leaf litter,
+organic matter, breaking down cellulose and lignin in fallen trees, [[leaf-litter-microfungal-diversity-tropical-temperate]],
 and other debris. Oyster mushrooms, shaggy manes, and many Agaricus species
 are saprotrophs, which is why they can be found on logs, stumps, and compost.
 Parasitic fungi feed on living organisms, sometimes killing their hosts in the
@@ -138,7 +107,7 @@ look-alike species with different spore colors.
 
 Essential foraging equipment includes a basket or mesh bag (allowing spore
 dispersal), a sharp knife, a small brush for cleaning debris, paper bags for
-separating species, a regional field guide, and a hand lens. A notebook for
+separating species, a regional [[field-guide-psilocybin-bluing-reaction-identification]], and a hand lens. A notebook for
 recording location, habitat, date, and weather transforms casual walks into
 systematic learning. Beginning foragers should build skills gradually, starting
 with a small number of easily identified species and adding new ones only
@@ -333,20 +302,20 @@ velutipes) fruits through winter on dead hardwoods.
 Understanding forest ecosystems is as important as knowing mushroom
 morphology. Different forest types support distinct fungal communities.
 
-Old-growth forests, with complex structure, diverse tree species, and
+[[old-growth-forest-fungi-conservation]] forests, with complex structure, diverse tree species, and
 accumulated coarse woody debris, support the highest fungal diversity. Mature
 conifer forests of forty or more years are prime habitat for porcini,
 chanterelles, and matsutake. Mixed hardwood forests with oak, beech, birch,
 and hickory host a different but equally rich fungal community.
 
 Riparian areas along streams and rivers are productive because consistent
-moisture supports fungal fruiting even during dry periods. Morels are
+moisture supports [[fungal-fruiting-body-formation-environmental-triggers]] even during dry periods. Morels are
 frequently found in floodplains. Transition zones between forest types,
 known as ecotones, are often particularly productive.
 
 Meadows and grasslands support a distinct fungal flora, including meadow
 mushrooms, fairy ring mushrooms, and various puffballs. These open habitats
-are also where the destroying angel and other deadly Amanita species most
+are also where the destroying angel and other deadly [[amanita-species-ecology-identification-mycohhizal]] most
 commonly occur, making them simultaneously rewarding and dangerous.
 
 Disturbed sites affected by logging, fire, or construction can be
@@ -552,16 +521,16 @@ lifetime of rewarding foraging.
 
 ## See Also
 
-- [[chanterelle-identification]] for detailed chanterelle species coverage
-- [[morel-hunting]] for comprehensive morel identification and ecology
-- [[porcini-boletus-edulis]] for porcini species and look-alikes
-- [[hen-of-the-woods]] for maitake biology and foraging
-- [[oyster-mushroom-foraging]] for wild oyster mushroom identification
-- [[matsutake]] for matsutake ecology and commercial harvesting
-- [[truffle-hunting]] for truffle species and dog training methods
-- [[agaricus-species]] for Agaricus identification and field characters
+- chanterelle identification for detailed chanterelle species coverage
+- morel hunting for comprehensive morel identification and ecology
+- porcini boletus edulis for porcini species and look-alikes
+- hen of the woods for maitake biology and foraging
+- oyster mushroom foraging for wild oyster mushroom identification
+- matsutake for matsutake ecology and commercial harvesting
+- truffle hunting for truffle species and dog training methods
+- agaricus species for Agaricus identification and field characters
 - [[mushroom-foraging-safety]] for detailed safety protocols
-- [[amatoxin-poisoning]] for toxin mechanisms and emergency response
+- amatoxin poisoning for toxin mechanisms and emergency response
 
 ## References
 
@@ -574,7 +543,7 @@ Western Mushrooms*. Ten Speed Press, 1991.
 Lincoff, Gary H. *National Audubon Society Field Guide to North American
 Mushrooms*. Alfred A. Knopf, 1981.
 
-Stamets, Paul. *Growing Gourmet and Medicinal Mushrooms*. 3rd ed. Ten Speed
+Stamets, Paul. *[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and Medicinal Mushrooms*. 3rd ed. Ten Speed
 Press, 2000.
 
 Palmer, Julius A. *About Mushrooms: A Popular Guide to the Study of

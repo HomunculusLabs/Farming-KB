@@ -127,12 +127,7 @@ development.
 
 ## See Also
 
-- [[arabidopsis-thaliana]]
 - [[daniel-chamovitz]]
-- [[phytochrome-and-plant-light-perception]]
-
-- [[phytochrome-and-plant-light-perception]] for the red/far-red photoreceptor system
-- [[plant-photoreception-and-phototropism]] for the broader context of light sensing
+- [[what-a-plant-knows-plant-vision-and-light-perception]] for the red/far-red photoreceptor system
 - [[plant-vision-and-phototropism]] for Darwin's foundational experiments
-- [[shade-avoidance-syndrome]] for far-red mediated neighbour detection
 - [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source

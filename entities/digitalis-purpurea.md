@@ -138,13 +138,10 @@ Series' (first-year flowering), and the 'Excelsior' group (radial flowers).
 ## Ecological Role
 
 Digitalis purpurea is pollinated primarily by bumblebees (*Bombus* spp.),
-whose size and weight are sufficient to open the tubular flowers and access
-nectar at the base. The plant is a significant nectar source for long-tongued
-bee species. It provides minimal wildlife food value beyond nectar, as the
-cardiac glycosides deter most herbivores. Deer and rabbits generally avoid
-it. The seeds are too small to be significant food for birds.
-
 ## See Also
 
-- [[ergot-fungi-and-ergotism-claviceps-purpurea]]
 - [[claviceps-purpurea]]
+
+## See Also
+- [[teaming-with-microbes-plant-control]]
+- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]

@@ -130,10 +130,7 @@ litter to the nutrient cycle.
 
 ## See Also
 
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
-- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
 - [[fukuoka-textdoc-pine-forest-ecosystem-collapse-chain]]

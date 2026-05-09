@@ -130,9 +130,6 @@ it a cornerstone of modern cannabinoid-based medicine.
 
 ## See Also
 
-- [[cannabidiol-therapeutic-mechanisms]]
-
 - [[blesching-cannabis-inflammatory-diseases]] — CBD's role in treating inflammatory conditions via CB2 activation
-- [[cannabis-health-pain-management]] — cannabinoid-based approaches to pain relief
 - [[cannabis-health-strains-sativa-indica]] — strain selection guidance based on THC:CBD ratios
 - [[cannabis-health-methods-of-administration]] — dosing and delivery methods for CBD preparations

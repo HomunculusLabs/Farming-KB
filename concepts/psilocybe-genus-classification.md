@@ -23,7 +23,7 @@ sources:
 
 # Psilocybe Genus Classification
 
-Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-w-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
+Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
 
 ## Genus Overview
 
@@ -33,7 +33,7 @@ Taxonomic classification of the genus Psilocybe, including sections, species gro
 - **Family:** Hymenogastraceae (reclassified from Strophariaceae/Coprinaceae in modern taxonomy)
 - **Genus:** Psilocybe (Fr.) P. Kumm. (1871)
 - **Etymology:** From Greek "psilos" (bare/naked) + "kube" (head), referring to the smooth, bare cap surface of the type species
-- **Type species:** [[psilocybe-semilanceata]] (Fr.) P. Kumm.
+- **Type species:** Psilocybe semilanceata (Fr.) P. Kumm.
 - **Number of species:** Approximately 180-200 described species (as of Gartz/Guzman/Allen's 1998 survey); many more have been described since
 
 ## Generic Characteristics
@@ -142,9 +142,60 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
 
 - **Distinguishing features:** Black spore print; mottled gills (spots of different colors due to simultaneous spore maturation); thin, fragile stems; grows on dung
 - **Psychoactive species:**
-  - P. cyanescens (syn. [[copelandia-cyanescens]]) — very potent, pantropical, strong bluing
+  - P. cyanescens (syn. Copelandia cyanescens) — very potent, pantropical, strong bluing
   - P. subbalteatus — moderate potency, widespread in temperate regions
   - P. tropicalis — tropical, high potency
   - P. bisporus — 2-spored species, Caribbean
   - P. cambodginiensis — Southeast Asia
 - **Total psychoactive species:** ~15-20 described
+- **Key reference:** See [[psilocybin-mushroom-chemistry]] for distribution data
+
+### Gymnopilus (Kühner) Singer
+
+- **Distinguishing features:** Rusty-brown spore print; scaly orange caps; grows on dead wood; contains bis-noryangonin (MAOI) alongside psilocybin
+- **Psychoactive species:** G. spectabilis (large, N. America/Asia), G. purpuratus (Southern Hemisphere), G. luteofolius (wood chips), G. junonius (East Asia)
+- **Total:** ~10-15 described (many not chemically verified)
+
+### Inocybe (Fr.) Fr.
+
+- **Distinguishing features:** Brown spore print; fibrous/scaly caps; cortina (web-like veil); often mycorrhizal; many species contain dangerous muscarine
+- **Psychoactive species:**
+  - I. aeruginascens — contains unique aeruginascin compound; Europe
+  - I. corydalina — documented from Europe
+  - I. haemacta — South America
+- **Warning:** Most Inocybe species are NOT psychoactive and many are toxic. Only expert identification is safe.
+- **See [[inocybe-aeruginascens]] for detailed species page**
+
+### Conocybe (Fr.) Kühner
+
+- **Distinguishing features:** Small, fragile LBMs (Little Brown Mushrooms); conical caps; pale brown spore print; grows on soil, dung, or grass
+- **Psychoactive species:**
+  - C. smithii — North America, contains psilocybin
+  - C. kuehneriana — Europe, contains psilocybin
+  - C. siligineoides — Mexico, traditionally used
+  - C. cyanopus — Europe/North America, blue foot
+- **Warning:** Conocybe species are extremely difficult to identify without microscopy. Some Galerina species (deadly amatoxins) look very similar.
+- **Total psychoactive species:** ~8-10 described
+
+### Pluteus (Fr.) Quél.
+
+- **Distinguishing features:** Pink spore print; free gills; dead wood
+- **Psychoactive species:** P. salicinus, P. cyanopodius, P. glaucinus, P. nigroviridis (~5-8 described)
+- **Note:** Pink spore print distinguishes Pluteus from all other psychoactive genera
+- [[gymnopilus-purpuratus]]
+
+## Phylogenetics and Evolution
+
+- **Multiple independent origins:** Psilocybin biosynthesis evolved independently 5-6+ times across genera
+- **Horizontal gene transfer:** Biosynthesis gene cluster may transfer between distantly related lineages
+- **Psilocybe polyphyly:** The genus is not monophyletic; major taxonomic revisions ongoing
+- **Coprinoid ancestry:** Psilocybe shares ancestry with Coprinellus and Coprinopsis
+
+## Undescribed and Cryptic Species
+
+Many potentially psychoactive species remain undescribed, especially in the tropics. DNA studies reveal cryptic species within morphologically defined species (e.g., P. cyanescens). New species continue to be described at several per year.
+
+## See Also
+
+- [[psilocybin-mushroom-chemistry]] — Geographical distribution
+- [[psilocybe-azurescens-profile]]

@@ -18,16 +18,7 @@ type: concept
 # Trichothecene Mycotoxins, Biological Warfare, and Yellow Rain
 
 Trichothecenes are a family of toxic fungal metabolites produced by
-species including [[stachybotrys-chartarum]] (black mold) and various
-Fusarium species. These compounds are among the most potent naturally
-occurring poisons, capable of causing hemorrhaging, immune suppression,
-and death. Their speed of action and resistance to degradation have made
-them subjects of intense interest not only in medical mycology but also
-in the grim domain of biological weapons research.
-
-## Stachybotrys chartarum and the Cleveland Outbreak
-
-The black mold [[stachybotrys-chartarum]] (also known as Stachybotrys
+species including [[stachybotrys-chartarum]] (also known as Stachybotrys
 atra) rose to public notoriety in the 1990s following events in
 Cleveland, Ohio. In 1993 and 1994, its toxic metabolites, called
 macrocyclic trichothecenes, caused blood vessels to hemorrhage in the
@@ -117,12 +108,8 @@ anyone with a Ph.D. in microbiology or mycology.
 
 ## See Also
 
-- [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
 - [[biological-transport-networks]]
-- [[biological-efficiency]]
 - [[combined-biological-remediation-approaches]]
-- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
-
 - [[stachybotrys-chartarum]]
 - aflatoxins aspergillus flavus liver cancer
 - [[ergot-fungi-claviceps-ergot-alkaloids]]

@@ -78,11 +78,7 @@ The formula is simple: **big yield comes from big roots; big roots come from goo
 
 ## See Also
 
-- [[jadam-cover-crop-soil-temperature-management]] -- detailed temperature management
 - [[jadam-cover-crop-method]] -- cover crop cultivation system
-- [[jadam-wild-grass-management]] -- coexisting with wild grass
 - [[jadam-nature-as-teacher-philosophy]] -- the philosophical foundation
-- [[jadam-soil-hardening-prevention]] -- preventing soil compaction
 - [[jadam-cover-crop-wild-grass-symbiosis]]
-- [[jadam-coexisting-with-wild-grass]]
 - [[jadam-wild-grass-liquid-fertilizer]]

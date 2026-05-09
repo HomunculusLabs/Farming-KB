@@ -13,7 +13,7 @@ Phytoextraction is a phytoremediation technology that uses plants to absorb cont
 
 This approach is most commonly applied to heavy metal contamination, where certain plant species can accumulate metals at concentrations hundreds or thousands of times higher than normal plants.
 
-Phytoextraction is one of the five principal mechanisms of [[phytoremediation-mechanisms]] and relies on the unique physiological properties of [[rhizofiltration]].
+Phytoextraction is one of the five principal mechanisms of [[rhizofiltration]].
 
 ## Mechanisms of Metal Uptake and Accumulation
 
@@ -36,14 +36,6 @@ Translocation from roots to shoots is essential for effective phytoextraction be
 The transpiration stream carries metal-chelate complexes from roots to shoots through the xylem, with the rate of transpiration directly affecting the rate of metal translocation.
 
 In shoot tissues, metals are detoxified through compartmentation in vacuoles, binding to cell walls, or chelation by intracellular ligands.
-
-[[mycorrhizal-fungi-bioremediation]] can enhance phytoextraction by extending the effective root zone for metal access, though mycorrhizal colonization may also reduce metal translocation to shoots in some plant-fungus combinations.
-
-## Hyperaccumulator Plants
-
-Hyperaccumulator plants are defined as species that accumulate metals in their aboveground tissues at concentrations exceeding certain thresholds: more than 100 mg/kg for cadmium, 1000 mg/kg for nickel, cobalt, copper, lead, or chromium, and 10,000 mg/kg for zinc or manganese.
-
-Approximately 500 plant species have been identified as hyperaccumulators, with the majority belonging to the Brassicaceae, Fabaceae, Euphorbiaceae, Asteraceae, and Caryophyllaceae families.
 
 [[rhizofiltration]] provides detailed coverage of known hyperaccumulator species and their metal specificities.
 
@@ -73,43 +65,25 @@ Natural chelating agents including citric acid, malic acid, and other organic ac
 
 The timing and rate of chelator application must be optimized to maximize metal uptake while minimizing leaching risk.
 
-[[biostimulation-techniques]] applied to phytoextraction include management of rhizosphere chemistry through pH adjustment, organic matter addition, and microbial inoculation to enhance metal availability without synthetic chelators.
-
-## Harvesting and Biomass Disposal
-
-The harvested plant biomass containing concentrated contaminants requires proper handling and disposal to prevent re-release of metals to the environment.
-
-Biomass volume is a critical consideration because phytoextraction of moderately contaminated soils can generate large quantities of harvested material.
-
-Composting of metal-contaminated biomass reduces volume but may mobilize metals if not properly managed.
-
-Incineration reduces biomass volume by 90 to 95 percent and concentrates metals in the ash, which can be further processed for metal recovery or disposed of in hazardous waste landfills.
-
-Metal recovery from harvested biomass or incinerator ash through hydrometallurgical or pyrometallurgical processes can offset disposal costs and create economic value from phytoextraction operations.
-
-Phytomining, the use of hyperaccumulator plants to extract valuable metals from low-grade ores or contaminated soils for economic metal recovery, is an emerging concept that could make phytoextraction economically self-sustaining.
-
-Thermal treatment of biomass at controlled temperatures can produce biochar that retains metals in stable forms suitable for disposal or use as a soil amendment on non-agricultural sites.
-
-## Advantages and Limitations
-
-Phytoextraction is aesthetically pleasing, environmentally friendly, and potentially less expensive than conventional excavation and landfill disposal for large areas of low to moderate contamination.
-
-The technology is solar-driven, requiring minimal external energy input once plants are established, and can be applied to sites that are difficult to access with heavy equipment.
-
-Phytoextraction can treat contamination to greater depth than surface excavation, limited by root penetration depth which can extend to several meters for deep-rooted species.
-
-However, phytoextraction is inherently slow, typically requiring multiple growing seasons to achieve significant contaminant removal, and may not achieve the low cleanup levels required for some regulatory standards.
-
-The bioavailability of metals in many contaminated soils limits the extent of phytoextraction, particularly for metals such as lead that form highly insoluble compounds.
-
-Plant growth on contaminated soils is often reduced by metal toxicity, soil compaction, poor nutrient status, or other site constraints that limit biomass production and hence metal removal rates.
-
-Climate constraints including short growing seasons, drought, and freezing temperatures can limit phytoextraction in temperate regions.
-
-The cost of harvesting, transporting, and disposing of contaminated biomass must be included in economic evaluations of phytoextraction relative to alternative remediation approaches.
-
-Integration of phytoextraction with [[phytostabilization]] in a site management strategy can address contamination in different zones with appropriate technologies, using phytoextraction for accessible, bioavailable contamination and phytostabilization for areas with low bioavailability or high contaminant concentrations.
-- [[nutrient-movement-through-soil-to-plant-roots]]
+[[phytostabilization]] in a site management strategy can address contamination in different zones with appropriate technologies, using phytoextraction for accessible, bioavailable contamination and phytostabilization for areas with low bioavailability or high contaminant concentrations.
 - [[fungi-in-composting-and-agricultural-waste-conversion]]
 - [[plant-cell-membrane-transport-proteins]]
+## Practical Considerations
+
+Successful implementation of Phytoextraction Mechanisms and Applications requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -76,27 +76,7 @@ Desertification caused by sheep, cows, and goats represents another
 compounding factor. Overgrazing removes the vegetation that would otherwise
 protect soil, retain moisture, and eventually support deeper-rooted plants
 that could initiate ecological succession. Fukuoka connected this to his
-broader critique in [[fukuoka-critique-modern-livestock]].
-
-## Computer Models and Scientific Approaches
-
-Fukuoka described China's massive effort to halt the Taklamakan Desert
-expansion using satellite surveys, bore holes, soil salinity analysis,
-computer simulations, and plant tolerance testing. Every plan for
-revegetation created this way failed, after which governments said they
-needed to reanalyze the data at greater expense. The fundamental problem was
-approaching revegetation as an engineering problem rather than an ecological
-one.
-
-Similarly, Egypt's experiments plowing super-absorbent resins into soil and
-other water-retaining materials were short-term expedients requiring
-continuous energy and material inputs. Seawater desalination in Saudi Arabia
-and Israel required tremendous energy for what Fukuoka considered marginal
-results.
-
-## The Revegetation Alternative
-
-Against all these failed approaches, Fukuoka proposed [[fukuoka-clay-seed-pellets]] as the primary tool for large-scale desert revegetation. By enclosing seeds of diverse native and adapted species in clay pellets and scattering them aerially over vast areas, nature itself selects which species survive and gradually builds soil and vegetation cover. The approach requires minimal energy, no irrigation infrastructure, and works with natural succession rather than against it.
+broader critique in [[fukuoka-clay-seed-pellets]] as the primary tool for large-scale desert revegetation. By enclosing seeds of diverse native and adapted species in clay pellets and scattering them aerially over vast areas, nature itself selects which species survive and gradually builds soil and vegetation cover. The approach requires minimal energy, no irrigation infrastructure, and works with natural succession rather than against it.
 
 His aerial seeding of mangroves at the mouth of the Ganges River demonstrated
 the principle: seedlings of twenty to thirty mangrove varieties sprouted and
@@ -105,8 +85,6 @@ worldwide but had not been widely adopted.
 
 ## See Also
 
-- [[fukuoka-desert-greening-techniques-detailed]]
 - [[fukuoka-desert-reclamation-projects]]
-- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
 - [[fukuoka-clay-seed-pellets]]
 - [[fukuoka-desert-cause-vegetation]]

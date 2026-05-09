@@ -122,9 +122,6 @@ as a hazardous substance following multiple overdose incidents.
 
 - fukuoka textdoc paddy ecosystem spider frog dragonfly balance
 
-- [[doi-entity]] — 2,5-dimethoxy-4-iodoamphetamine, a less potent DOx
-- [[dom-entity]] — DOM (STP), the original DOx psychedelic amphetamine
-- [[lsd-d-lysergic-acid-diethylamide]] — LSD, often misrepresented as
-  Bromo-DragonFLY on blotter
+- [[dom]] — DOM (STP), the original DOx psychedelic amphetamine
 - [[5-meo-dmt-entity]] — 5-MeO-DMT, another extremely potent psychedelic
-- [[2c-b-entity]] — 2C-B, a shorter-duration phenethylamine psychedelic
+- [[2c-b]] — 2C-B, a shorter-duration phenethylamine psychedelic

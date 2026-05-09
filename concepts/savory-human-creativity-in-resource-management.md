@@ -132,7 +132,9 @@ monitoring reveals that an approach is not working.
 
 ## Related Concepts
 
-- [[savory-holistic-decision-making]]
 - [[savory-holistic-goal-definition]]
-- [[savory-testing-and-management-guidelines]]
 - [[savory-complexity-and-wholistic-thinking]]
+
+## See Also
+
+- [[savory-holistic-resource-management-energy-flow]]

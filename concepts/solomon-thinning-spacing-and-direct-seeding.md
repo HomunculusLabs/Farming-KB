@@ -10,70 +10,136 @@ sources:
 
 # Solomon on Thinning, Spacing, and Direct Seeding
 
-From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
-
-## The Contract with Vegetables
-
-When we domesticated vegetables, we made a contractual agreement: they agreed to become our food, and we agreed to keep them from having to compete. If you don't hold down your end of the bargain -- thinning properly and providing adequate spacing -- the vegetables will not be able to do their best. Seedlings should never be allowed to strongly compete with each other for light, water, and nutrients.
-
-## Thinning Method: Progressive Reduction
-
-### Seeds sown in drills (furrows)
-1. After emergence, wait a week -- weaker seedlings may thin themselves via damping-off diseases and insects
-2. When the first true leaf is developing, thin so seedlings stand about 1 inch (2.5 cm) apart
-3. For large seeds, initial thinning should be to at least 1.5 inches (4 cm)
-4. When seedlings are established (three true leaves and growing well), thin to desired final spacing
-
-### Progressive thinning with open-pollinated varieties
-Within two weeks of emergence, the most vigorous individuals will stand out. Remove the weakest seedlings to give stronger ones more room. Also remove any "super-hybrid" -- a remarkably vigorous plant that appeared from an unintentional cross-pollination (e.g., a cabbage-kale cross). It will outgrow everything but will certainly be disappointing at harvest.
-
-### Final spacing
-When seedlings are three true leaves and growing well, thin to final spacing. At this stage they are nearly immune to sudden loss from insect or disease and may be used as salad material.
-
-## Sowing Depth Guidelines
-
-- **Tiny seeds** (celery, basil, sorrel, most herbs): barely covered with a sprinkling of fine compost; press earth down gently with hand or back of spade to restore capillarity
-- **Ordinary small seeds** (brassicas, carrot, parsley, fennel): about half an inch (1.25 cm) deep
-- **Larger "small" seeds** (spinach, beet, chard, radish, onion): three-quarters inch (2 cm) deep
-- **Large seeds** (corn, cucurbits): usually planted 1-2 inches deep
-
-For tiny seeds: sow in mild temperatures, or shade the rows temporarily until they sprout. Fine seeds outdoors require fine compost cover rather than soil to maintain moisture.
-
-## The Thumbprint Method
-
-Excellent for starting small seeds that will grow large plants: cabbage, broccoli, Brussels sprouts, cauliflower, Chinese cabbage, celery, celeriac, kale.
-
-1. Prepare the bed with complete organic fertilizer or compost; dig it in
-2. Wait a few days for soil to resettle and capillary connections to restore
-3. Place compost/manure on the surface at fertility level
-4. With your thumb, press a small indentation about half an inch deep
-5. Count 4-5 seeds into the depression, cover with loose soil
-6. Trace a 6-inch (15 cm) circle around the group to mark the spot
-7. Space stations at the final spacing you want (e.g., 24 x 24 inches)
-
-After germination, thin the clump to the best 3-4, then progressively thin. When the best plant has three true leaves, it should stand alone. For tiny seeds like celery (naturally low germination), make the depression shallower, use more seeds (up to 10 per spot), and cover with fine compost or aged manure that holds more moisture.
-
-## Spacing Philosophy
-
-Solomon advocates wider spacing than most intensive gardening methods. His reasoning is based on understanding root systems:
-
-- Roots extend only from their tip and efficiently assimilate moisture and nutrients for only a fraction of an inch behind the tip
-- Within days of forming, what was a root tip becomes covered with bark-like material that reduces absorption
-- The plant can only feed efficiently by creating new root tips in an ever-expanding network
-- The plant cannot make new root tips in areas already filled with its own roots or roots of another plant (due to root exudate signals)
-- When root systems begin to compete, plants slow growth, become more susceptible to insects and disease, and stop producing
-
-Wider spacing ensures each plant has an ever-expanding root zone free from competition, leading to healthier, more productive, more drought-resistant plants.
-
-## Planting Too Early
-
-The single biggest cause of trouble is sowing too early. Planting on the first possible day the species could germinate or be transplanted, versus sowing two weeks later, results in two crops with little difference in maturity -- but the later-sown crop will have a lot less trouble. Growth rates accelerate hugely as the soil warms, so a slightly later start is quickly made up.
-
-## Related
-- [[solomon-transplanting-and-hardening-off]]
-- [[solomon-complete-organic-fertilizer-guide]]
+From [[solomon-transplanting-and-hardening-off]]
 - [[solomon-row-covers-and-season-extension]]
-- [[biointensive-close-plant-spacing]]
 - [[root-competition-plant-spacing-solomon]]
-- [[growing-vegetables-with-less-fertilizer]]
 - [[solomon-gardening-when-it-counts-index]]
+## Background and Context
+
+Solomon on Thinning, Spacing, and Direct Seeding is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

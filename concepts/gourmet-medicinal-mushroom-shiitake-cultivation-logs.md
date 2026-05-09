@@ -129,12 +129,6 @@ Research on the economics of Shiitake log cultivation has generally shown margin
 - Roberts (1988): Concluded log cultivation was not profitable.
 
 A standalone Shiitake log operation can only be profitable with substantial subsidies for materials and labor. However, Shiitake log cultivation remains attractive for those seeking minor supplemental income, enjoyment of home cultivation, or providing food for friends and family.
-- [[gourmet-medicinal-mushroom-spawn-grain-production]]
 - [[stamets-mushroom-growing-parameters-by-species]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
 - [[gourmet-medicinal-mushroom-substrate-preparation]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
-
-## See Also
-
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]

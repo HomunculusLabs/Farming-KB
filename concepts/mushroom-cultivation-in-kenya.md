@@ -116,8 +116,6 @@ fast, and fruit readily, but commercialization requires further development.
 
 ## Related Concepts
 
-- [[mushroom-industry-african-countries]]
 - [[mushroom-poverty-alleviation-developing-countries]]
-- [[oyster-mushroom-bag-cultivation]]
 - [[oyster-mushroom-spawn-production]]
 - [[oyster-mushroom-marketing-economics]]

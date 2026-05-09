@@ -135,8 +135,6 @@ The bad trip phenomenology documented by the EMCDDA supports several harm reduct
 
 ## Related Pages
 
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
-- [[emcdda-hallucinogenic-mushroom-harm-reduction]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
 - [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]

@@ -117,11 +117,7 @@ This cannabinoid profile places Ghost Train Haze firmly in the high-THC, low-CBD
 
 ## See Also
 
-- [[chemdawg]]
 - [[trainwreck]]
-- [[og-kush]]
 - [[northern-lights]]
-- [[super-silver-haze]]
 - [[jack-herer]]
-- [[sour-diesel]]
 - [[green-crack]]

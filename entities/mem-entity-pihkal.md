@@ -32,118 +32,84 @@ PIHKAL entry #122. 2,5-DIMETHOXY-4-ETHOXYAMPHETAMINE.
 > shadow parts. No small gift. And I did it all alone and the results
 > were immediate. I am so grateful.
 >
-> (with 20 mg, at 1.5 h following 120 mg MDMA) RThe transition was very
-> smooth, with no obvious loss of the MDMA experience. I felt less of a
-> need to talk, but the intimate closeness with the others was
-> maintained. The experience continues to grow more profound and
-> euphoric and I prayed, in the latter part of the afternoon, that it
-> wouldn't stop. It continued until midnight with marvelous feelings,
-> good energy, and much hilarity. And it abated very little over the
-> next several days leaving me with the feeling of lasting change with
-> important insights still coming to mind one week later.
->
-> (with 25 mg, at 2 h following 120 mg MDMA) RI found that sounds in
-> general were distracting. No, they were out-and-out annoying. I may
-> have been in an introspective mood, but I really wanted to be alone.
-> No body problems at all. Felt good. I developed some color changes
-> and some pattern movement. Not much, but then I didn't explore it
-> much. The wine party afterwards was certainly most pleasant. The
-> soup was a great pleasure. And that hard bread was good. The
-> material was clearly not anorexic, or at least I overcame whatever
-> anorexia there might have been.
->
-> (with 30 mg) I was aware of this in thirty minutes and it slowly
-> developed from there to an almost +++ in the following hour. There
-> were visual phenomena, with some color enhancement and especially a
-> considerable enhancement of brights and darks. The first signs of
-> decline were at about six hours, but there was something still working
-> there after another six hours had passed. A slow decline, certainly.
->
-> (with 50 mg) I came into the experience knowing that yesterday had
-> been a very fatiguing and tense day. I felt this material within the
-> first ten minutes which is the fastest that I have ever felt anything.
->
->
-> The ascent was rapid and for the first hour I tended to an inward
-> fantasying with a distinct sensual tinge. There was a persistent
-> queasiness that never left me, and it contrasted oddly with a good
-> feeling of outward articulation and lucidity which succeeded in coming
-> to the fore after the introverted first hour. Sleep was difficult,
-> but the next day was calm and clear.
->
-> (with 50 mg) Lots of energy, best directed into activity. Clear
-> imaging, thinking. Intense yet serene. Good feeling of pleasantness
-> and some euphoria. I felt the need to keep moving. Hard to stay
-> still.
->
-> (with 70 mg, in two parts) RThe effects of the 40 milligrams were
-> muted by another drug experiment yesterday morning, and I never got
-> much over a plus 1. There is an erotic nature, tactile sensitivity
-> perhaps not as delicate as with 2C-B, but it is there. At the 2 hour
-> point, an additional 30 milligrams increased the body impact (a
-> distinct tremor and sensitivity) but somehow not a lot more mental. I
-> have been compromised by yesterday.
-
-## Extensions and Commentary
-
-MEM was both a valuable and dramatic
-compound, as well as a drug that played a watershed role. The
-completion of all the possible trimethoxyamphetamines (the TMA's)
-showed that only two of them combined the values of dependability of
-positive psychedelic effects with a reasonably high potency. Both
-TMA-2 and TMA-6 are treasures, both active in similar dosages, and
-both offer methoxyl groups that are begging to be replaced by other
-things. The first focus was on TMA-2, partly because the needed
-synthetic chemistry was better known, and partly because I had
-discovered its activity earlier. But there were three entirely
-different and distinct methoxyl groups to work on, in TMA-2. There is
-one at the 2-position, one at the 4-position, and one at the
-5-position. The most obvious thing to do, it seemed, was to make each
-of them one carbon longer. Replace a methoxy with an ethoxy. And a
-logical naming pattern could follow the use of M for methoxy, and E
-for ethoxy, in sequence right around the ring from the 2- to the 4- to
-the 5-positions. The first group to be compared, then, would be EMM,
-MEM, and MME. And of these three, it was only MEM that was right up
-there in drama and in potency. But, by the time that became apparent,
-I had already completed the diethoxy possibilities (EEM, EME, and MEE)
-as well as the triethoxy homologue, EEE. With the discovery that the
-4-position was the magic leverage point, and that the homologues at
-positions 2- and 5- were clearly less interesting, all emphasis was
-directed at this target, and this has led to the many 4-substituted
-families that are now known to be highly potent and felt by many to be
-personally valuable.
-Why put such emphasis on potency, I am frequently asked? Why should it
-matter how much of a compound you take, as long as the effective level
-is much lower than its toxic level? Well, in a sense, that is the
-very reason. There are no guides as to what the toxic levels of any
-of these many compounds might really be in man. There is simply no
-way of determining this. Only a few have been explored in animals in
-the pursuit of an LD-50 level. Most of them are similar to
-one-another, in that they are, in mice, of relatively low toxicity
-and, in rat, of relatively high toxicity. But this toxicity appears
-not to be related to potency in man. So, if one might extrapolate
-that they are of more or less the same risk to man (from the toxic
-point of view) then the lower the dosage, the greater the safety.
-Maybe. In the absence of anything factual, it makes a reasonable
-operating hypothesis.
-Many of the reports of MEM effects have been with experiments in which
-an effective dose of MDMA had been taken shortly earlier. There has
-developed a concept, embraced by a number of researchers, that the
-ease and quietness usually seen with the development of the MDMA
-experience can mitigate some of the physically disturbing symptoms
-sometimes seen with other psychedelics. This may be partly due to a
-familiar entry into a altered place, and partly due to a lessening of
-dosage usually required for full effects. MEM seems to have had more
-trials using this combination than many of the other psychedelic
-drugs.
-## Synthesis
-A solution of 83 g bourbonal (also called ethyl vanillin,
-or vanillal, or simply 3-ethoxy-4-hydroxybenzaldehyde) in 500 mL MeOH
-was treated with a solution of 31.5 g KOH pellets (85% material)
-dissolved in 250 mL H2O. There was then added 71 g methyl iodide, and
-the mixture was held under reflux conditions for 3 h. All was added
-## See Also
-- [[qualitative-comments-methodology-pihkal]]
-- [[turner-psychedelic-combination-experience-reports]]
+> (with 20 mg, at 1.5 h following 120 mg [[qualitative-comments-methodology-pihkal]]
 - [[tweetio-series-ethoxy-homologues-pihkal]]
 - [[methyl-dob-entity-pihkal]]
+## Practical Applications
+
+MEM (2,5-DIMETHOXY-4-ETHOXYAMPHETAMINE) -- PIHKAL Entry #122 has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MEM (2,5-DIMETHOXY-4-ETHOXYAMPHETAMINE) -- PIHKAL Entry #122. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -139,10 +139,6 @@ habitat.
 
 ## See Also
 
-- [[mollison-wet-dry-tropical-design-strategies]]
-
 - [[mollison-tropical-mulch-systems-and-materials]]
-- [[mollison-gangammas-mandala-and-banana-circle-gardens]]
 - [[permaculture-designers-manual-tropical-climates]]
-- [[mollison-designers-monsoon-tropical-design-strategies]]
 - [[pdc-food-forest-layers-and-succession]]

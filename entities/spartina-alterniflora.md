@@ -134,11 +134,7 @@ for cellulosic ethanol production.
 
 ## See Also
 
-- [[phragmites-australis]]
 - [[typha-latifolia-entity]]
-- [[salicornia-europaea]]
 - [[arundo-donax]]
-- [[miscanthus-giganteus]]
 - [[portulaca-oleracea]]
-- [[medicago-sativa]]
 - [[trifolium-repens]]

@@ -55,43 +55,28 @@ The stem of sesame contains large amounts of phosphoric acid, making it the idea
 
 ### WPA Combined with WCA
 - Dilute WPA with water in the ratio of 1:1,000
-- Use together with [[water-soluble-calcium-wca]]
-
-## When to Apply WPA
-
-- During the cross-over period -- promotes flower bud differentiation, resulting in high fertility and yield
-- When leaf color is dark green (excess nitrogen symptom -- phosphorus helps balance)
-- When leaf color is light green (phosphorus deficiency symptom)
-- To improve sugar content of fruits
-
-## Symptoms of Phosphoric Acid Deficiency
-
-1. WPA is highly mobile in the plant and moves to vigorous new leaves first, so deficiency symptoms appear mainly on petioles and veins of OLD leaves
-2. New leaves do not grow well; they become smaller and dark green in color
-3. Flower growth is noticeably suppressed; naturally bears fewer fruits
-4. Symptoms are often dormant within the plant body until exterior signs appear -- difficult to recover once visible
-5. Fruit skin becomes thick and acid content increases
-
-## Phosphorus Mobility
-
-- WPA moves readily within the plant (highly mobile element)
-- Translocates preferentially to new growth points
-- Old leaves show deficiency first because phosphorus is redirected to growing tips
-- This is the opposite pattern of potassium deficiency (which also shows in old leaves first)
-
-## Relationship to Other KNF Mineral Inputs
-
-- [[water-soluble-calcium-wca]] -- calcium from shells (often combined with WPA at 1:1000)
-- [[water-soluble-calcium-phosphate-wcp]] -- combined calcium + phosphorus from bones
+- Use together with [[water-soluble-calcium-wca]] -- calcium from shells (often combined with WPA at 1:1000)
 - [[water-soluble-potassium-wp]] -- potassium from tobacco stems
-- [[brown-rice-vinegar-brv]] -- the acid solvent (used in WCA and WCP but not needed for WPA since charcoal is water-percolated)
-
-## See Also
-
 - [[water-soluble-calcium-wca]]
-- [[water-soluble-calcium-phosphate-wcp]]
 - [[water-soluble-potassium-wp]]
-- [[knf-nutritive-cycle-theory]]
 - [[knf-vegetative-growth-stage]]
-- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[water-soluble-phosphoric-acid-wpa]]
+## Practical Considerations
+
+Successful implementation of Water-Soluble Phosphoric Acid (WPA) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

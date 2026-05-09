@@ -92,33 +92,9 @@ may be most limiting.
 ## Ecological Significance of Mycorrhizal Siderophores
 
 The ecological significance of fungal siderophores extends beyond simple
-iron acquisition. In the [[mycorrhizal-networks]] context, siderophores
-released by extraradical hyphae can improve iron availability not only for
-the fungus but also for the host plant. This function is particularly
-important in calcareous or alkaline soils where iron availability is
-severely limited. Siderophores may also influence competitive interactions
-between microorganisms in the [[rhizosphere-fungal-community-analysis-rrna-rdna]], as
+iron acquisition. In the [[rhizosphere-fungal-community-analysis-rrna-rdna]], as
 iron is often a limiting resource that shapes microbial community structure.
 Furthermore, siderophores can complex with other metals including toxic
-heavy metals, potentially contributing to [[fungal-metal-biosorption]]
-processes in contaminated soils.
-
-## Diversity Across Mycorrhizal Types
-
-Different types of mycorrhizal associations produce distinct siderophore
-profiles. Ericoid mycorrhizal fungi primarily produce ferricrocin or fusigen.
-Ectomycorrhizal basidiomycetes such as hebeloma crustuliniforme have
-been shown to release ferricrocin from their extraradical mycelium. The
-main siderophores of mycorrhizal fungi covering most of the major kinds of
-mycorrhizal symbiosis have been identified for a limited but growing number
-of species. This diversity reflects both the taxonomic range of mycorrhizal
-partners and the varied soil conditions under which different mycorrhizal
-types function.
-
-## Related Concepts
-
-- [[mycorrhizal-siderophores-iron-chelation]] for iron chelation mechanisms
-- [[mycorrhizal-siderophores-iron-acquisition]] for plant iron uptake
+heavy metals, potentially contributing to [[mycorrhizal-siderophores-iron-chelation]] for iron chelation mechanisms
 - [[siderophores-mycorrhizal-fungi]] for ecological roles
-- [[ectomycorrhizal-fungal-ecology]] for fungal habitat context
 - [[fungal-heavy-metal-biosorption-detailed]] for metal chelation

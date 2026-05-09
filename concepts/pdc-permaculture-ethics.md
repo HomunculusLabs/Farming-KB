@@ -3,14 +3,7 @@ title: PDC Permaculture Ethics
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Permaculture permaculture-ethics|Ethics
-
-In the 1981 Permaculture [[urban-permaculture-edge-effect-and-design-principles]] Course, Bill permaculture-design|Mollison presents the ethical foundations of permaculture across multiple pamphlets. The ethics are stated formally in the Professional Permaculture Designers' Ethics (Pamphlet VIII) and inform every lecture throughout the course. They form the core principle set that distinguishes permaculture from other design systems.
+tags: [[urban-permaculture-edge-effect-and-design-principles]] Course, Bill permaculture-design|Mollison presents the ethical foundations of permaculture across multiple pamphlets. The ethics are stated formally in the Professional Permaculture Designers' Ethics (Pamphlet VIII) and inform every lecture throughout the course. They form the core principle set that distinguishes permaculture from other design systems.
 
 ## The Designers' Eight Ethics
 
@@ -83,8 +76,6 @@ The ethical investment model: the investor earns returns from one product (e.g.,
 - Bill Mollison, Permaculture Design Course, 1981, Pamphlets I, VIII, XV
 
 updated: 2026-04-18
-- [[permaculture-food-forests-design-course]]
 - [[mollison-permaculture-two-community-self-reliance]]
-- [[urban-permaculture-food-forest-succession]]
 - [[permaculture-water-pond-systems-design-course]]
 - [[mollison-keyline-soil-conditioning-humid-water]]

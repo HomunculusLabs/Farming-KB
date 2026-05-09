@@ -121,9 +121,6 @@ approach to knowledge was central to his philosophy.
 
 ## See Also
 
-- [[fukuoka-desert-greening-techniques-detailed]]
 - [[fukuoka-desert-revegetation-natural-farming]]
-- [[fukuoka-clay-pellet-desert-greening]]
 - [[fukuoka-america-revisited-agricultural-revolution]]
-- [[fukuoka-pine-rot-root-cause]]
 - [[fukuoka-gibberellin-discovery-period]]

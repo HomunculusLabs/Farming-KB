@@ -1,7 +1,7 @@
 ---
 title: Spawn Production
 created: 2026-04-28
-tags: [mycology, cultivation, spawn, inoculation]
+tags: [[mycology, cultivation, spawn, inoculation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -92,8 +92,6 @@ pockets where bacteria thrive. The solution is better grain hydration (soak, not
 and proper drying before bagging.
 
 ## See Also
-- [[mushroom-spawn-making-detailed]]
 - [[fruiting-environment]]
-- [[stamets-maitake-grifola-frondosa-cultivation]]
 - [[mushroom-cultivation-in-kenya]]
 - [[mushroom-substrates]]

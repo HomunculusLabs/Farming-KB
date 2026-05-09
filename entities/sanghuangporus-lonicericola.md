@@ -104,17 +104,10 @@ Ex situ conservation through cultivation and strain banking represents the most 
 
 ## See Also
 
-- [[sanghuangporus-vaninii]]
 - [[sanghuangporus-baumii]]
-- [[ganoderma-lucidum]]
 - [[phellinus-igniarius-entity]]
-- [[inonotus-obliquus]]
-- [[trametes-versicolor]]
-- [[poria-cocos]]
+- [[trametes-versicolor-entity]]
 - [[fomes-fomentarius]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[hericium-erinaceus]]
-- [[grifola-frondosa]]
 - [[maitake-grifola-frondosa]]
-- [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]

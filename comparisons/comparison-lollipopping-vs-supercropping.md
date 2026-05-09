@@ -23,36 +23,14 @@ fashion throughout the vegetative and early flowering stages.
 
 ## Lollipopping
 
-[[cannabis-pruning-and-defoliation-guide]]
-
-Lollipopping is a defoliation and pruning technique performed before or during the early
-flowering stage. The method involves stripping the lower 30 to 40 percent of the plant's
-branches of fan leaves and small bud sites, leaving the upper canopy full and the lower
-stems bare like a lollipop stick. This aggressive removal of lower growth redirects the
-plant's energy and nutrients upward toward the top colas that receive the most intense
-light, effectively eliminating the "popcorn" buds that typically develop in shaded lower
-areas and contribute little to overall harvest weight or quality.
-
-The science behind lollipopping is straightforward: light intensity diminishes rapidly as
-you move down through the canopy, meaning lower bud sites receive insufficient light to
-produce dense, resinous flowers. By removing these underperforming sites, the plant no
-longer wastes energy sustaining them and instead channels resources to the upper colas
-where light penetration is strongest. Jorge Cervantes, a respected cannabis cultivation
+[[jorge-cervantes]], a respected cannabis cultivation
 authority, supports this approach, recommending that growers "remove spindly, dimly lit
 lower branches" to improve overall bud quality and reduce the plant's maintenance burden.
 
 Beyond energy redirection, lollipopping offers several additional benefits. The removal of
 lower foliage dramatically improves airflow through the plant's base, which reduces humidity
 trapping and lowers the risk of mold and powdery mildew during flowering. It also makes
-maintenance tasks like watering, foliar feeding, and pest inspection much easier by opening
-up access to the root zone and lower stem. Harvest is similarly simplified, as the bare
-lower stems mean fewer small buds to trim and process. The best time to lollipop is 1 to
-2 weeks before switching to the 12/12 flowering cycle or during the first 1 to 2 weeks of
-flowering, before the plant has invested significant energy into developing lower bud sites.
-
-## Supercropping
-
-[[cannabis-training-techniques-comparison]]
+maintenance tasks like watering, [[cannabis-training-techniques-comparison]]
 
 Supercropping is an advanced high-stress training (HST) technique that involves deliberate,
 controlled damage to plant tissue in order to manipulate growth patterns and increase
@@ -141,10 +119,7 @@ branches from this expanded structure, concentrating all of the plant's energy o
 upper two-thirds of the supercropped canopy. This combination maximizes both the quantity
 of top-tier bud sites (from supercropping) and the quality of the resulting colas (from
 lollipopping), producing some of the highest-quality yields achievable with training alone.
-
 ## See Also
 
-- [[cannabis-training-techniques-comparison]]
 - [[cannabis-pruning-and-defoliation-guide]]
-- [[comparison-topping-vs-fimming]]
 - [[cannabis-vegetative-growth-stage]]

@@ -16,8 +16,7 @@ type: concept
 
 # Seed Saving and Open-Pollinated Varieties
 
-Seed saving is one of the most fundamental skills in [[permaculture]] practice.
-[[bill-mollison]] viewed the ability to save, select, and exchange seeds as
+Seed saving is one of the most fundamental skills in [[bill-mollison]] viewed the ability to save, select, and exchange seeds as
 essential to community self-reliance and ecological resilience. The
 concentration of the global seed supply into the hands of a few corporations
 producing hybrid and genetically modified varieties represents, in Mollison's
@@ -40,14 +39,7 @@ wide range of types, most of which are inferior to the F1 parent. Saving seed
 from hybrids is therefore futile for maintaining variety characteristics.
 
 Mollison strongly advocates for the exclusive use of open-pollinated
-varieties in [[permaculture]] systems. OP varieties offer several advantages
-beyond their ability to breed true: they exhibit greater genetic diversity
-within the population (providing resilience against pests, diseases, and
-climate variation), they can be selected and improved by the grower over
-time, and they are not dependent on commercial seed companies for
-replenishment.
-
-## Basic [[seed-saving-techniques]]
+varieties in [[seed-saving-techniques]]
 
 Seed saving methods vary with the botanical family and pollination mechanism
 of the crop. Mollison outlines the fundamental techniques:
@@ -142,9 +134,4 @@ seed libraries, and local seed networks allow growers to share genetic
 material and maintain a diverse collective seed stock. These networks provide
 resilience against crop failure, preserve heritage varieties that may not be
 commercially available, and strengthen social bonds within farming
-communities. The [[permaculture]] designer should actively support and
-facilitate seed exchange as part of any community development project.
-
-## See Also
-
-- [[permaculture-designers-manual-seed-saving-varieties]]
+communities. The [[permaculture-designers-manual-seed-saving-varieties]]

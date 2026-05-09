@@ -47,69 +47,7 @@ More subtly, predators can affect ecosystems without killing prey — simply by 
 
 **Top-down cascades** (predator-driven) occur when higher trophic levels regulate lower ones. The classic "green world" hypothesis — the world is green because predators keep herbivores in check — is a top-down model.
 
-**Bottom-up cascades** (resource-driven) occur when nutrient availability or primary productivity limits higher trophic levels. More nitrogen → more [[plant-growth-promoting-rhizobacteria]] → more herbivores → more predators. Both forces operate simultaneously in most ecosystems, but one typically dominates.
-
-### How to Tell Which Is Dominant
-
-- **Remove a top predator**: If the ecosystem changes dramatically (e.g., vegetation stripped, diversity drops), top-down regulation was important.
-- **Add nutrients (fertilizer)**: If plant biomass increases but herbivore populations don't respond proportionally, bottom-up forces are weaker relative to top-down control.
-- In reality, most ecosystems are controlled by **both** forces, with the balance shifting across seasons, habitats, and environmental gradients.
-
-### Length of Cascades
-
-Trophic cascades can span three levels (predator → herbivore → plant) or extend to four or more:
-
-- **Four-level cascade**: Killer whales → sea otters → sea urchins → kelp → kelp-associated species (fish, invertebrates)
-- **Five-level cascade**: Large sharks → small sharks → rays → scallops/bivalves → water quality (bioturbation effects)
-- **Apparent competition cascades**: Two prey species share a predator. An increase in one prey species boosts predator numbers, which then suppresses the other prey species — an indirect negative effect between prey that don't directly interact.
-
-## Real-World Examples
-
-### Wolves in Yellowstone (Terrestrial)
-
-The reintroduction of 31 gray wolves in 1995–1996 triggered one of the best-documented cascades:
-
-1. Wolves reduced and redistributed elk populations
-2. Willows and aspens recovered in riparian areas
-3. Beavers returned (needing willows for food and dam-building)
-4. Beaver dams created wetland habitat for fish, amphibians, and birds
-5. Stream channels narrowed and deepened as vegetation stabilized banks
-6. Coyotes declined, benefiting small mammals and pronghorn fawns
-7. Berry-producing shrubs increased, providing more food for grizzly bears
-
-### Sea Otters and Kelp Forests (Marine)
-
-Along the North Pacific coast, sea otters prey on sea urchins. Where otters are present, urchins remain rare and kelp forests thrive, supporting hundreds of species. Where otters were hunted to near-extinction by the fur trade, urchin barrens formed — expanses of bare rock with no kelp and dramatically reduced biodiversity. Reintroducing otters to these areas can restore kelp forests within a decade.
-
-### Dingo Suppression of Foxes and Cats (Australia)
-
-The dingo, Australia's largest native predator, suppresses invasive red foxes and feral cats through both direct killing and intimidation. Where dingoes are present, small native mammals (bilbies, bettongs, bandicoots) are significantly more abundant. Removing dingoes for livestock protection triggers mesopredator release and native mammal declines — a cascade with major conservation implications.
-
-### Sharks and Coral Reef Health
-
-On coral reefs, reef sharks prey on mesopredatory fish like groupers and snappers. When sharks are overfished, these mesopredators increase and consume more herbivorous fish (parrotfish, surgeonfish). With fewer herbivores, macroalgae overgrow corals, triggering phase shifts from coral- to algae-dominated states. This cascade links overfishing of sharks to coral reef degradation.
-
-## Why Trophic Cascades Matter
-
-### Ecosystem Stability
-
-Trophic cascades are a key mechanism of ecosystem stability. Top-down regulation prevents any single species or trophic level from dominating, maintaining diversity and preventing ecosystem collapse. Without apex predators, ecosystems tend toward simplified, less resilient states dominated by a few competitive species.
-
-### Ecosystem Services
-
-Cascades affect ecosystem services that humans depend on:
-
-- **Carbon sequestration**: Wolves → elk control → willow/aspen recovery → more forest biomass → more carbon stored. Kelp forests sequester carbon in coastal sediments.
-- **Water quality**: Riparian vegetation (maintained by predator-driven herbivore control) filters runoff, stabilizes streambanks, and regulates water temperature.
-- **Fisheries health**: Predatory fish regulate food webs that sustain commercial fish stocks. Removing sharks can collapse shellfish fisheries through mesopredator release.
-
-### Biodiversity Conservation
-
-Understanding cascades is essential for effective conservation. Protecting an endangered plant species may fail if its herbivores are released from predation. Conservation strategies must consider the full food web, not just target species.
-
-### Invasive Species Management
-
-Trophic cascades explain why [[invasive-species-management]] can be so destructive: they enter food webs where natural controls are absent. Feral cats in Australia, lionfish in the Caribbean, and Burmese pythons in the Everglades all cause cascading effects because no native predator controls them.
+**Bottom-up cascades** (resource-driven) occur when nutrient availability or primary productivity limits higher trophic levels. More nitrogen → more [[invasive-species-management]] can be so destructive: they enter food webs where natural controls are absent. Feral cats in Australia, lionfish in the Caribbean, and Burmese pythons in the Everglades all cause cascading effects because no native predator controls them.
 
 ## Cascades in Human-Dominated Landscapes
 
@@ -144,6 +82,5 @@ While the loss of apex consumers has caused widespread ecological degradation (E
 ### Designing Rewilding Projects
 ## See Also
 
-- [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
 - [[query-what-is-jadam-farming-and-how-does-it-work]]
-- [[query-how-does-phytoremediation-work-and-what-plants-are-best-for-it]]
+- [[phytoremediation]]

@@ -1,17 +1,7 @@
 ---
 title: "Swale Spacing and Contour Interval"
 created: 2026-04-26
-tags: [permaculture, swales, water-harvesting, earthworks, contour]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-type: concept
----
-
-# Swale Spacing and Contour Interval
-
-Bill Mollison's Permaculture: A Designers' Manual provides detailed
+tags: [[bill-mollison]]'s Permaculture: A Designers' Manual provides detailed
 guidance on calculating swale spacing based on slope gradient, rainfall
 intensity, soil type, and intended land use. Proper spacing ensures
 complete landscape hydration without oversaturation, erosion, or wasted
@@ -39,59 +29,7 @@ hydrate. Mollison provides the following guidelines:
 - Moderate slopes (3-8%): contour interval of 1-2 metres
 - Steep slopes (8-15%): contour interval of 0.5-1 metre
 - Very steep slopes (above 15%): swales are not recommended; use terraces
-  or [[mollison-designers-keyline-pattern-plow-technique]] instead
-
-The horizontal spacing between swales (measured along the ground surface)
-is the contour interval divided by the sine of the slope angle, which
-simplifies approximately to:
-
-  Horizontal spacing = Vertical interval / Slope percentage
-
-For example, on a 5% slope with a 1.5m vertical contour interval:
-  1.5 / 0.05 = 30 metres horizontal spacing
-
-## Slope-Based Spacing Guidelines
-
-Mollison provides practical spacing ranges measured as horizontal distance
-between swales:
-
-| Slope       | Rainfall  | Spacing    |
-|-------------|-----------|------------|
-| < 3%        | Low       | 30-50m     |
-| < 3%        | High      | 20-30m     |
-| 3-8%        | Low       | 15-25m     |
-| 3-8%        | High      | 10-18m     |
-| 8-15%       | Low       | 8-15m      |
-| 8-15%       | High      | 5-10m      |
-
-On very gentle slopes in low-rainfall areas, spacing may extend to 50m or
-more. On steep slopes with high rainfall, spacing contracts to as little
-as 3-5 metres between swales.
-
-## Rainfall Considerations
-
-Annual and storm-event rainfall determine how much water each swale must
-capture and infiltrate. Design storm criteria:
-
-- Swales should be sized to capture and infiltrate a 1-in-10-year storm
-  event (the rainfall intensity exceeded only once every 10 years on
-  average)
-- In areas with intense tropical rainfall, swales need greater depth and
-  overflow spillways to handle extreme events without breaching
-- In dryland areas, swales capture infrequent but critical rainfall events
-  that recharge groundwater for months
-
-## Soil Type and Infiltration Rate
-
-Soil infiltration capacity directly affects swale spacing and sizing:
-
-- Sandy soils (fast infiltration): swales can be wider apart as water
-  percolates quickly; spacing 20-50m depending on slope
-- Loam soils (moderate infiltration): moderate spacing of 10-30m
-- Clay soils (slow infiltration): closer spacing of 5-15m, with swales
-  designed to hold water longer to allow gradual infiltration
-- Compacted or impermeable subsoils: swales may need to be combined with
-  subsoil ripping using a [[mollison-designers-keyline-pattern-plow-technique]] to break
+  or [[mollison-designers-keyline-pattern-plow-technique]] to break
   hardpan and improve infiltration
 
 ## Water Holding Calculations
@@ -143,7 +81,5 @@ Mollison's recommended design sequence:
 
 ## Related Concepts
 
-- [[swale-design-construction]]
 - [[mollison-designers-keyline-pattern-plow-technique]]
-- [[pdc-water-harvesting-earthworks-design]]
 - [[mollison-designers-chicken-house-over-swale-integration]]

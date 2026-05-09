@@ -22,13 +22,9 @@ Fukuoka's core critique was that organic farming is "basically scientific in its
 
 Fukuoka targeted several specific organic farming practices that, in his view, revealed the movement's fundamental alignment with conventional agriculture's interventionist logic:
 
-- **Compost production**: Organic farmers who carefully manage compost piles, turning and monitoring temperatures, were in Fukuoka's view engaged in unnecessary labor. He advocated simply returning all plant residues to the soil surface as mulch, allowing natural decomposition without human management. See [[compost-quality-standards]] for contrast with conventional organic approaches.
+- **Compost production**: Organic farmers who carefully manage compost piles, turning and monitoring temperatures, were in Fukuoka's view engaged in unnecessary labor. He advocated simply returning all plant residues to the soil surface as mulch, allowing natural decomposition without human management. See [[organic-pest-and-disease-management]].
 
-- **Organic pesticide applications**: Using neem oil, pyrethrin, or other "natural" pesticides still treats symptoms rather than addressing root causes of pest imbalance. See [[organic-pest-and-disease-management]].
-
-- **Cultivation and weeding**: Mechanical or hand-weeding in organic systems still disturbs the soil and its microbial communities, contradicting the [[soil-food-web-nutrient-cycling]] processes that build healthy soil structure naturally.
-
-- **Cover crop management**: Tilling in cover crops destroys the soil ecosystem that the cover crop was meant to build. [[natural-way-of-farming-guide]] methods preserve these benefits without disruption.
+- **Cultivation and weeding**: Mechanical or hand-weeding in organic systems still disturbs the soil and its microbial communities, contradicting the [[natural-way-of-farming-guide]] methods preserve these benefits without disruption.
 
 ## The Complacency Problem
 
@@ -80,17 +76,7 @@ However, the fundamental problems Fukuoka identified have arguably worsened. Lar
 
 Organic certification imposes significant costs on farmers: application fees, annual inspection fees, record-keeping requirements, and the cost of approved inputs. These costs disproportionately burden small-scale farmers, effectively excluding them from the premium organic market. The certification system thus reinforces the industrial-scale agriculture model that Fukuoka opposed.
 
-The [[fukuoka-natural-farming]] approach, by contrast, requires no certification, no purchased inputs, and no bureaucratic compliance -- making it accessible to farmers of any scale and economic means.
-
-## Market-Driven Compromise
-
-Fukuoka also criticized the way organic certification creates market incentives that distort farming practice. The Lundberg brothers' success in California showed the commercial potential of natural farming, but the organic certification system tends to standardize and commodify what should be a fundamentally local, site-specific practice.
-
-## What Fukuoka Would Think of Regenerative Organic Certification
-
-In the 2020s, new certification frameworks like the Regenerative Organic Certified (ROC) label have emerged, attempting to go beyond organic by incorporating soil health, animal welfare, and social fairness criteria. While these represent a genuine improvement over conventional organic certification, Fukuoka would likely remain critical.
-
-The core issue, from the perspective of [[fukuoka-philosophy-of-non-intervention]], is that any certification system requires measurement, standardization, and external validation -- all of which reinforce the human desire to control and quantify nature. A truly regenerative agriculture, in Fukuoka's view, would not need certification because it would arise naturally from farmers who have abandoned the arrogant premise that they know better than nature.
+The [[fukuoka-philosophy-of-non-intervention]], is that any certification system requires measurement, standardization, and external validation -- all of which reinforce the human desire to control and quantify nature. A truly regenerative agriculture, in Fukuoka's view, would not need certification because it would arise naturally from farmers who have abandoned the arrogant premise that they know better than nature.
 
 ## The Path Forward
 
@@ -100,17 +86,10 @@ Fukuoka argued that advances from organic gardening to natural farming "are like
 
 ## See Also
 
-- [[fukuoka-natural-farming]]
-
 - [[fukuoka-philosophy-of-non-intervention]]
-
-- [[fukuoka-european-agriculture-observations]]
 
 - [[organic-pest-and-disease-management]]
 
-- [[compost-quality-standards]]
-
 - [[soil-food-web-nutrient-cycling]]
 
-- [[natural-way-of-farming-guide]]
 - [[fukuoka-critique-organic-farming-ecology]]

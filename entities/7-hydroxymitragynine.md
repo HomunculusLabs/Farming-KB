@@ -104,9 +104,7 @@ The legal status of 7-hydroxymitragynine varies significantly by jurisdiction:
 
 ## See Also
 
-- [[mitragynine]] — Parent compound and most abundant kratom alkaloid
 - [[mitragyna-speciosa]] — The kratom plant species
-- [[dimethyltryptamine]] — Another psychoactive indole alkaloid
 - [[ibogaine]] — Indole alkaloid with anti-addiction properties
 - [[tryptamine]] — Core indole alkaloid structural motif
 - opioid receptors — Target receptor family for 7-hydroxymitragynine

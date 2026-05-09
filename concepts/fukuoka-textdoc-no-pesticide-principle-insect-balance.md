@@ -138,12 +138,8 @@ Fukuoka describes how his three-dimensional orchard design naturally prevents
 serious pest outbreaks. When vegetables are grown beneath fruit trees, the
 number of insect pests tends to be low. Some diseases and pests are common both
 to fruit trees and vegetables, and some are not. These in turn have a host of
-different natural enemies that emerge at various times of the year.
-
 ## See Also
 
 - [[fukuoka-no-weeding-no-pesticides]]
-- [[fukuoka-natural-pest-balance]]
 - [[fukuoka-pest-ecology]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-disease-pest-management]]

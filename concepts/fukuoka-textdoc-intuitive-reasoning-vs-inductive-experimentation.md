@@ -112,10 +112,7 @@ Natural farming, as Fukuoka conceives it, is a practice rather than a theory. It
 
 ## See Also
 
-- [[fukuoka-critique-inductive-deductive]]
 - [[fukuoka-limits-scientific-method-agriculture]]
-- [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
-- [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-liebig-law-critique]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]

@@ -98,24 +98,7 @@ Solomon acknowledges he cannot provide precise planting dates or variety recomme
 
 The sowing depth and thinning instructions assume beds have been properly prepared with:
 - Good tilth from double-digging or fork-loosening
-- Adequate fertility ([[solomon-complete-organic-fertilizer-guide]] or compost)
-- Moisture at proper level (not too wet, not too dry)
-- Surface raked smooth and level
+- Adequate fertility ([[garden-bed-preparation]], [[root-competition-plant-spacing-solomon]], [[solomon-growing-cucurbits-guide]]
 
-## Crop Rotation Considerations
-
-Root exudate chemistry means crop rotation is important:
-- Different species leave different chemical residues
-- Following crops may do poorly if the previous crop's exudates are still active
-- This is why simple rotation (brassicas followed by legumes followed by solanums) generally works
-- Root system drawings in the chapter help visualize how much soil each crop occupies
-
-See also: [[garden-bed-preparation]], [[intensive-planting-spacing]], [[root-competition-plant-spacing-solomon]], [[seed-germination-techniques-solomon]]
-
-## Related
-
-- [[solomon-growing-cucurbits-guide]]
-
-- [[root-crops-growing-guide]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
 - [[growing-vegetables-with-less-fertilizer]]

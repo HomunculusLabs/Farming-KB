@@ -121,10 +121,8 @@ finding the optimal dose for each individual is critical for both efficacy
 and safety. Patients are advised to start with very low doses and increase
 gradually while monitoring for both therapeutic effects and adverse reactions.
 
-## Related Concepts
+## Related
 
 - [[blesching-cannabis-therapeutic-window-methodology]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
-- [[blesching-cannabis-administration-methods]]
 - [[blesching-cannabis-decarboxylation-and-raw-cannabis]]

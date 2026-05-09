@@ -109,10 +109,6 @@ The potential magnitude of carbon sequestration through restored grasslands is s
 
 ## See Also
 
-- [[savory-stock-density-vs-stocking-rate]]
-
 - [[mycorrhizal-carbon-cycling-soil-sequestration]]
-- [[glomalin-and-soil-carbon]]
 - [[permaculture-grazing-and-pasture]]
-- [[permaculture-designers-manual-grazing-management]]
 - [[fukuoka-natural-livestock-integration-philosophy]]

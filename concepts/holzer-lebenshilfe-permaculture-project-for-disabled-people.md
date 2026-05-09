@@ -9,23 +9,7 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 
 # Holzer Lebenshilfe Permaculture Project for Disabled People
 
-A unique permaculture project undertaken in the area of Bad Aussee in Styria, Austria, designed to make it possible for disabled people to integrate in a special way with the help of [[permaculture-climatic-zones-design]]. Using various techniques, the project contributes toward giving relief to the families of disabled people.
-
-## Project Concept
-
-The project was developed in June 2003 with Lebenshilfe Ausseerland (under the leadership of Roland Kalft) and includes:
-
-- Gardens for growing many different vegetable and fruit varieties
-- Various pleasant and peaceful areas for training the senses
-- An activity garden to teach mobility
-- A water garden and rocky area as a meeting place for visitors
-- An earth cellar and an earth shelter
-
-## Mediterranean Garden
-
-In the Mediterranean garden, indigenous as well as non-indigenous plants and trees are grown in a series of different experiments. The unusual construction -- terraced and protected from the elements -- is designed to store heat, raising the average annual temperature. This makes it possible to grow grapes, figs, kiwifruit, and other fruits that require sunny conditions in an area where they would not normally thrive.
-
-The terracing technique follows the same principles as [[sepp-holzer-terrace-systems-and-raised-beds]] used throughout Holzer's work, with stone walls absorbing and radiating heat.
+A unique permaculture project undertaken in the area of Bad Aussee in Styria, Austria, designed to make it possible for disabled people to integrate in a special way with the help of [[sepp-holzer-terrace-systems-and-raised-beds]] used throughout Holzer's work, with stone walls absorbing and radiating heat.
 
 ## Water Garden
 
@@ -43,35 +27,14 @@ The sensory garden is constructed with a view of the Mediterranean garden. The r
 
 ## Activity Garden
 
-In this area, visitors' mobility is stimulated. Balance, coordination, and fine motor function are taught in equal measure using natural aids -- different rock formations and wooden structures. This therapeutic application of natural elements mirrors the way that working with nature on the [[holzer-kitchen-garden-layout-and-traditional-gardening]] provides both physical and psychological benefits.
-
-## Rest Area and Rocky Area
-
-This area attends to the spiritual lives of visitors and encourages them to relax through the careful selection of naturally available positive vibrations. The arrangement of rocks and natural features creates a contemplative space.
-
-## Design Principles
-
-### Permaculture as Therapy
-The project demonstrates that permaculture is not only a system for food production but also a therapeutic framework. The integration of disabled people into meaningful gardening work provides:
-
-- Physical therapy through natural movement patterns
-- Sensory stimulation through direct contact with plants, water, and natural materials
-- Psychological benefits from nurturing living things
-- Social integration through shared work and community spaces
-- Skill development through graduated challenges in the activity garden
-
-### Accessibility by Design
-The water garden ford designed for wheelchair access exemplifies the principle that inclusive design can be beautiful and functional. Rather than retrofitting accessibility, it is designed into the landscape from the beginning.
-
-### Heat Storage for Microclimate Creation
-The terraced Mediterranean garden demonstrates how [[microclimate-creation-permaculture]] through heat-storing stone construction can extend the range of viable crops. This technique, proven at the Krameterhof's altitude of 1,100-1,500m, is applied here to grow warm-climate fruits in Styria.
+In this area, visitors' mobility is stimulated. Balance, coordination, and fine motor function are taught in equal measure using natural aids -- different rock formations and wooden structures. This therapeutic application of natural elements mirrors the way that working with nature on the [[microclimate-creation-permaculture]] through heat-storing stone construction can extend the range of viable crops. This technique, proven at the Krameterhof's altitude of 1,100-1,500m, is applied here to grow warm-climate fruits in Styria.
 
 ### Multi-Sensory Design
 The sensory garden applies permaculture's principle of multiple functions to the human experience: every plant serves ecological, productive, and therapeutic roles simultaneously.
 
 ## Project History and Development
 
-The Holzer Lebenshilfe project was conceived as a demonstration that [[permaculture-climatic-zones-design]] could serve therapeutic and social integration purposes beyond food production. The collaboration with Lebenshilfe Ausseerland, an organisation dedicated to supporting people with disabilities, began in June 2003 under the leadership of Roland Kalft. The project site is located in Bad Aussee, Styria, Austria -- a region characterised by mountainous terrain, continental climate with cold winters, and a relatively short growing season. Despite these challenges, Holzer's [[microclimate-creation-permaculture]] techniques enable the cultivation of species far outside their normal range.
+The Holzer Lebenshilfe project was conceived as a demonstration that [[microclimate-creation-permaculture]] techniques enable the cultivation of species far outside their normal range.
 
 The project has evolved over two decades from an initial concept into a fully functioning therapeutic landscape that hosts regular visits from disabled participants across the region. It serves as a model for similar projects throughout Austria and Germany, demonstrating that permaculture principles can be applied to social care and therapeutic contexts with remarkable results. The project has received recognition from both disability advocacy organisations and the permaculture community for its innovative integration of ecological design with therapeutic practice.
 
@@ -113,25 +76,10 @@ The therapeutic benefits observed through the project span multiple dimensions:
 
 ## Harvest and Production Outcomes
 
-Despite its primary therapeutic mission, the project produces significant quantities of food. The Mediterranean garden yields grapes, figs, kiwifruit, and various vegetables through Holzer's [[holzer-raised-bed-design-principles]] techniques. The main vegetable garden provides a diverse seasonal harvest including potatoes, tomatoes, peppers, salad greens, root vegetables, and herbs. Berry plantings supply strawberries, currants, and gooseberries for fresh eating and processing. The water garden's fish stocks contribute protein to the project's food output. All produce is used in project activities or distributed to participants and their families.
-
-## Staff Training and Programme Structure
-
-Staff at the Lebenshilfe project receive training in both permaculture design principles and therapeutic facilitation. The programme is structured around seasonal cycles, with different activities emphasised at different times of year:
-- **Spring (March-May)**: Soil preparation, seed sowing, transplanting, observing new growth. The sensory garden is at its most fragrant with spring-blooming flowers and herbs.
-- **Summer (June-August)**: Maintenance, watering, pest observation, first harvests. The Mediterranean garden reaches peak productivity. Cooking activities use fresh produce.
-- **Autumn (September-November)**: Main harvest, food preservation, seed saving, garden cleanup. Participants experience the satisfaction of abundance and learn preservation skills.
-- **Winter (December-February)**: Planning, tool maintenance, indoor activities, observing the dormant garden. The earth cellar and earth shelter provide sheltered spaces for winter programming.
-
-## Related Concepts
-
-- [[holzer-kitchen-garden-layout-and-traditional-gardening]]
-- [[holzer-raised-bed-design-principles]]
+Despite its primary therapeutic mission, the project produces significant quantities of food. The Mediterranean garden yields grapes, figs, kiwifruit, and various vegetables through Holzer's [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[holzer-thailand-permaculture-project]]
-- [[holzer-roundwood-shelters-earth-cellars]]
 - [[microclimate-creation-permaculture]]
 
 ## Source
 
-[[krameterhof-holzer-model-farm]] -- Projects chapter, Lebenshilfe Ausseerland section.
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
+[[sepp-holzer-water-gardens-and-aquatic-plants]]

@@ -120,8 +120,6 @@ against the effects of increasing aridity.
 
 ## See Also
 
-- [[dighton-fungal-responses-climate-change]]
 - [[dighton-salinity-effects-fungal-communities]]
-- [[dighton-arbuscular-mycorrhizal-plant-community-effects]]
 - [[dighton-fungi-desert-arid-ecosystems]]
 - [[endophytic-fungi-plant-defense-dighton]]

@@ -57,39 +57,7 @@ area.
 
 - Seawater: diluted with fresh water in ratio of 1:30
 - Rice-washed water: diluted 1:200
-- [[knf-fermented-plant-juice]] of pear, Japanese mugwort, and dropwort:
-  diluted 1:500
-
-### Preparation Method
-
-1. Dilute seawater with fresh water at 1:30 ratio to create the base solution
-2. Add rice-washed water at 1:200 dilution rate
-3. Add FPJ made from pear, Japanese mugwort, and dropwort at 1:500 dilution
-4. Keep the mixture for a half day in summer (2 to 3 days if cloudy)
-5. Use the mixture when it becomes whitish like haze
-
-### Critical Timing
-
-Fermented seawater becomes unusable quickly because of its abundant nutrients.
-When fermented seawater spoils, the haze gathers like a cotton ball rather
-than remaining diffuse. Use fermented seawater immediately when it turns
-whitish. It cannot be stored long-term and must be prepared fresh for each
-application.
-
-## Applications in Crop Production
-
-### Disease Control
-
-Fermented seawater functions to control fungal diseases such as scab, rust,
-and anthracnose. For enhanced disease prevention, add liquid [[knf-imo-four-stage-cultivation]] number 4, [[knf-oriental-herbal-nutrient]], and
-water-soluble calcium phosphate to the fermented seawater for increased
-microbial activity. Apply when weather is hot and during tropical nights for
-maximum effectiveness.
-
-### Fruit Quality Enhancement
-
-To increase the sugar content of fruit, apply seawater combined with
-[[water-soluble-calcium-wca]] 15 to 20 days before
+- [[knf-imo-four-stage-cultivation]] number 4, [[water-soluble-calcium-wca]] 15 to 20 days before
 harvest. The minerals in seawater, particularly trace elements, contribute to
 improved flavor and nutritional density of fruits and vegetables.
 
@@ -123,11 +91,7 @@ loses fat and microbe populations decrease. Seawater addresses this by
 replenishing minerals and supporting beneficial skin microflora. Adding
 rice-washed water and FPJ to seawater enhances its effectiveness. Rice-washed
 water acts similarly to yeast in stimulating microbial activity. The remedy is
-more effective when [[knf-oriental-herbal-nutrient]] is mixed in.
-
-## Integration with IMO Cultivation
-
-Seawater plays an important role in [[knf-imo-four-stage-cultivation]]
+more effective when [[knf-imo-four-stage-cultivation]]
 preparation. During the making of IMO number 3, it is necessary to add
 seawater to the mixture, building the microorganisms' ability to process
 minerals. The standard IMO formula includes brown rice vinegar (BRV) at
@@ -136,9 +100,6 @@ content to 65 to 70%.
 
 ## Related Concepts
 
-- [[knf-oriental-herbal-nutrient]]
 - [[knf-fermented-plant-juice]]
-- [[knf-water-soluble-calcium]]
 - [[knf-imo-four-stage-cultivation]]
-- [[knf-seawater-fermented-seawater-guide]]
 - [[cho-seawater-and-fermented-seawater]]

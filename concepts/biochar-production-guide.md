@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil-building, carbon-sequestration, compost, microbes, soil, fertility, sustainability]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Biochar Production Guide
@@ -127,9 +126,10 @@ Application frequency: Biochar is essentially permanent in soil. One application
 ## See Also
 
 - [[hugelkultur-bed-construction-detailed]]
-- [[composting-and-soil-biology]]
+- [[no-till-gardening-method]]
 - [[compost-tea-guide]]
 - [[knf-preparations]]
 ## Related
 
 - [[biochar]]
+

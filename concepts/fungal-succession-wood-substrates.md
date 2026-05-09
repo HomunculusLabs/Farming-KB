@@ -24,46 +24,11 @@ represents a massive carbon pool in forest ecosystems, and
 the fungi that decompose it drive nutrient cycling and
 create habitat for countless other organisms. The study of
 fungal succession on wood integrates concepts from
-[[wood-decomposition-by-fungi]], [[wood-inhabiting-microfungi]],
-and broader patterns of [[fungal-biodiversity-ecosystem-function]].
-
-## Patterns of Succession
-
-Fungal succession on wood follows a broadly predictable
-pattern that has been documented in temperate and tropical
-forests worldwide. The sequence can be divided into three
-major phases:
-
-### Primary Colonization (Early Stage)
-
-The initial colonizers of freshly dead wood are typically
-fungi that were already present on or in the living tree.
-These include [[endophytic-fungi]] that were latent within the
+[[wood-inhabiting-microfungi]],
+and broader patterns of [[endophytic-fungi]] that were latent within the
 wood, bark fungi that invade through wounds or branch stubs,
 and pioneer saprotrophs that rapidly colonize exposed wood
-surfaces. Among [[basidiomycete-phylum-guide|basidiomycetes]], early colonizers often
-include species with low decay specificity that can utilize
-a range of wood components. These species tend to be
-fast-growing but may be outcompeted as the wood chemistry
-changes.
-
-### Secondary Colonization (Middle Stage)
-
-As the primary colonizers modify the wood chemistry,
-creating a more heterogeneous substrate, secondary
-colonizers establish. These species often have more
-specific substrate requirements and may be slower-growing
-but more efficient decomposers. The transition from early
-to middle stages can take years to decades, depending on
-wood size, environmental conditions, and fungal community
-composition.
-
-### Late Stage (Final Colonization)
-
-The late-stage fungi are typically specialized decomposers
-that can utilize the most recalcitrant wood components,
-including highly modified lignin and humic substances — processes
-central to [[lignin-degradation]]. These species may dominate for decades as the wood is
+surfaces. Among [[lignin-degradation]]. These species may dominate for decades as the wood is
 slowly converted to humus. In some cases, late-stage
 fungi are replaced by soil fungi as the wood becomes
 incorporated into the mineral soil horizon.
@@ -78,26 +43,7 @@ Heartwood, with its extractive compounds and modified
 lignin, supports a different fungal community than sapwood.
 Coniferous wood, with its resin acids and phenolic
 compounds, presents different challenges than hardwood.
-This chemical diversity is part of what makes [[fungal-biodiversity]]
-so high in forest ecosystems — different wood types support distinct fungal assemblages.
-The moisture content, nitrogen content, and physical
-structure of the wood also influence fungal colonization.
-
-### Wood Size and Position
-
-Larger diameter wood supports more diverse fungal
-communities and longer successional sequences than small
-branches or twigs. Standing dead trees (snags) support
-different communities than fallen logs, due to differences
-in moisture regime, temperature, and exposure to sunlight.
-The height of the wood on the forest floor affects moisture
-and microclimate, creating vertical zonation of fungal
-communities.
-
-### Forest Type and Climate
-
-Tropical forests support more rapid and diverse fungal
-succession than temperate or boreal forests (see [[biodiversity-fungi-temperate-boreal-forests]]), where lower
+This chemical diversity is part of what makes [[biodiversity-fungi-temperate-boreal-forests]]), where lower
 temperatures slow decomposition rates. The tree species
 composition of the forest determines the range of wood
 types available, influencing the pool of potential
@@ -123,27 +69,29 @@ resupinate (crust-like) basidiomycetes that form thin,
 inconspicuous fruiting bodies on the underside of logs or
 within cracks in the wood. These tiny resupinate saprotrophs
 are only microscopically visible and are often overlooked
-in [[biodiversity-fungal-biodiversity-estimation-methods|biodiversity surveys]]. Some thin resupinate basidiomycetes
-that are difficult to detect even with careful searching may
-represent a significant proportion of the wood-decomposing
-fungal diversity.
-
-Resupinate basidiomycetes include species in the
-Corticiaceae, Polyporaceae, and other families that form
-smooth or tuberculate hymenial surfaces on wood substrates.
-Their identification requires microscopic examination of
-basidial morphology, spore size and shape, and hyphal
-construction. Many species are known from only a few
-## See Also
-
-- [[white-rot-fungi]]
-- [[mycelial-networks]]
+in [[white-rot-fungi]]
 - [[fungal-ecology]]
-- [[saprotrophic-fungi]]
 - [[soil-food-web]]
 
-[[trichoderma]]
-
-[[trametes-versicolor]]
+[[trametes-versicolor-entity]]
 
 [[wood-decay-fungi]]
+## Practical Considerations
+
+Successful implementation of fungal-succession on Wood Substrates requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

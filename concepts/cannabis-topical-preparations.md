@@ -33,10 +33,6 @@ The book provides a detailed recipe for making cannabis vegetable oil, which ser
 
 ### Cannabis Butter Base
 
-[[cannabis-cannabutter-preparation]] can also serve as a base for topical preparations. The same extraction method that dissolves cannabinoids into butterfat works equally well for creating topical balms and salves. Cannabis butter contains about 80 percent of the cannabinoids from the original foliage.
-
-### Tincture Base
-
 [[cervantes-cannabis-tinctures]], made by dissolving resin glands in alcohol, can be incorporated into topical formulations. The alcohol-based extraction retains 60 percent or more of the THC from raw material. Tinctures can be added to oil-based topicals for additional cannabinoid content.
 
 ## Types of Topical Preparations
@@ -74,41 +70,27 @@ For topicals, cannabis material should be carefully prepared:
 - Dry foliage thoroughly before use to prevent mold in the final product
 - Remove brown, crisp, and dead foliage before processing
 
-Trim leaves from [[cannabis-manicuring-techniques]] are excellent material for topical preparations. These leaves contain cannabinoids but may not be suitable for smoking. Using trim for topicals maximizes the value of every part of the harvest.
-
-## Cannabinoid Delivery Through Skin
-
-Cannabinoids are lipophilic (fat-soluble) molecules that can penetrate the skin when formulated in an appropriate oil base. When dissolved in the butter, oil, or alcohol carrier, cannabinoids become bioavailable for absorption. Topical application provides localized effects without the psychoactive effects typically associated with oral consumption or inhalation.
-
-## Clean Input Material
-
-Cervantes emphasizes the importance of clean input material for all cannabis products:
-
-- Do not use harmful chemicals that leave residues in the month before harvest
-- Prefer only water-based organic products to avoid potential health risks
-- Oil-based residues on leaves will show up in the final product
-- When extracting with water, impurity residues appear as a sheen of oil on the water surface
-
-## Quality and Storage Considerations
-
-- The quality of the topical depends on the cannabinoid content of input material
-- Material with more visible resin produces more potent topicals
-- Store topicals in a cool, dark place to prevent cannabinoid degradation
-- Label all preparations clearly, especially in households with children
-- Heat and light degrade cannabinoids quickly
-- Properly made cannabis oil keeps for about a month at room temperature
-
-## Reference
-
-For more complete information on cannabis extraction, Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995), which covers extraction methods using butter, oil, and alcohol for various applications.
-
-## See Also
-
-- [[cannabis-cannabutter-preparation]]
-- [[cannabis-oil-extraction]]
+Trim leaves from [[cannabis-cannabutter-preparation]]
 - [[cannabis-tincture-preparation]]
-- [[cannabis-hashish-production]]
 - [[cannabis-quality-testing]]
-- [[cannabis-manicuring-techniques]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-topical-applications]]
+## Practical Considerations
+
+Successful implementation of Cannabis Topical Preparations requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

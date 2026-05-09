@@ -1,5 +1,5 @@
 ---
-title: Fungal Biodiversity Patterns and Community Analysis
+title: Fungal Biodiversity Patterns
 created: 2026-04-28
 tags:
   - mycology
@@ -118,33 +118,7 @@ species composition among sites or along environmental gradients.
 Resemblance functions and distance coefficients are used to quantify
 the similarity or dissimilarity between communities. Classification
 and cluster analysis methods group similar communities together based
-on their species compositions. See [[fungal-species-estimates-biodiversity-overview]]
-for broader context.
-
-## Power Analysis
-
-Power analysis is essential for determining whether sampling effort
-is sufficient to detect biologically meaningful differences among
-communities or treatments. Adequate statistical power ensures that
-Type II errors (failing to detect real differences) are minimized.
-This is particularly important when comparing fungal communities
-across different management regimes, pollution gradients, or habitat
-types.
-
-## Spatial Scale Considerations
-
-Patterns and processes evaluated by a study are scale-dependent, so
-considerable caution must be exercised when comparing results of
-studies based on plots of different size. The spatial scale at which
-data are collected should be related to the spatial scales at which
-causative mechanisms are thought to operate. Most mycologists focus
-on only one aspect of communities, providing an incomplete assessment
-of fungal biodiversity.
-
-## See Also
-
-- [[fungal-biodiversity-in-extreme-environments]]
-- [[fungal-biodiversity-data-analysis]]
+on their species compositions. See [[fungal-biodiversity-in-extreme-environments]]
 - [[biodiversity-fungal-species-abundance-diversity]]
 
 - [[fungal-species-estimates-biodiversity-overview]] for species estimates

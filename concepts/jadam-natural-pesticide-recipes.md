@@ -110,17 +110,10 @@ Controls brown planthopper, Asiatic rice borer, armyworm, rice blast, rice sheat
 
 ## Related
 
-- [[jadam-wetting-agent-jwa]]
 - [[jadam-sulfur-js]]
-- [[jadam-herb-solution-jhs]]
 - [[jadam-natural-pesticide-philosophy]]
-- [[jadam-pesticide-mixing-guidelines]]
 - [[jadam-concentration-guidelines]]
-- [[jadam-natural-pesticide-philosophy]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-pesticide-for-fungal-diseases]]
 - [[jadam-pesticide-for-powdery-mildew]]
-- [[jadam-canker-leaf-spot-pesticide]]
 - [[jadam-pesticide-for-slugs-and-snails]]
-- [[jadam-rice-bran-skin-fertilizer-problems]]
 - [[jadam-pesticide-for-aphids-and-mites]]

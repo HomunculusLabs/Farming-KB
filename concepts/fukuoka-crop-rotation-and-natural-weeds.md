@@ -62,20 +62,7 @@ This succession was not random but represented the soil's microbiome selecting f
 
 ## Clover as Living Mulch
 
-White clover ([[legume-nitrogen-myth-beans-feed-corn]]) is the cornerstone of Fukuoka's weed management. As a perennial legume, it fixes atmospheric nitrogen (estimated 100-200 kg N/ha/year), provides dense ground cover that suppresses weed germination, survives mowing and temporary flooding, and attracts pollinators and beneficial insects.
-
-In the rice paddies, clover survives the summer flooding by going dormant. Its roots remain alive and resprout when the water recedes in autumn. In the barley fields, clover grows actively through the winter, providing both nitrogen fixation and weed suppression simultaneously.
-
-## The Problem with Complete Weed Removal
-
-Fukuoka warned that complete weed removal -- whether by tillage, herbicide, or obsessive hand-weeding -- creates more problems than it solves:
-
-- Bare soil is vulnerable to erosion and rapid nutrient loss
-- Without weed roots, soil structure degrades
-- Weed seed predators (ground beetles, birds) lose their habitat
-- The soil microbiome loses plant diversity and becomes less resilient
-
-"In nature, there is no such thing as a weed-free field." The attempt to create one is both ecologically destructive and ultimately futile. See [[fukuoka-weed-ecology]] for the full ecological analysis.
+White clover ([[fukuoka-weed-ecology]] for the full ecological analysis.
 
 ## Polyculture Through Weed Tolerance
 
@@ -101,18 +88,12 @@ The transition period can be challenging -- yields may drop temporarily as the s
 
 ## See Also
 
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
-
 - [[hamilton-useful-weeds-and-weed-identification]]
 
-- [[fukuoka-weed-ecology]] -- detailed weed ecology
 - [[fukuoka-four-principles-natural-farming]] -- the four principles
-- [[legume-nitrogen-dynamics]] -- nitrogen fixation
 - [[cover-cropping-guide]] -- cover crops
-- [[weed-management-strategies]] -- weed management
 - [[fukuoka-natural-farming-method]] -- the complete method
 
 ## Related
 
-- [[fungi-in-agricultural-ecosystems]]
 - [[fukuoka-road-back-clover-barley-rice-method]]

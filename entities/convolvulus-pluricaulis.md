@@ -125,13 +125,9 @@ kg/ha under rainfed conditions.
 
 ## See Also
 
-- [[bacopa-monnieri]]
 - [[centella-asiatica]]
-- [[ashwagandha]]
 - [[withania-somnifera]]
-- [[tinospora-cordifolia]]
-- [[clitoria-ternatea]]
+- tinospora-cordifolia
 - [[ocimum-sanctum]]
-- [[hypericum-perforatum]]
 - [[passiflora-incarnata]]
 - [[scutellaria-baicalensis]]

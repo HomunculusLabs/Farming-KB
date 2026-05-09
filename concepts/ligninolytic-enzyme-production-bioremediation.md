@@ -102,11 +102,7 @@ Protein engineering approaches are being applied to improve the properties of li
 
 ## See Also
 
-- [[enzymatic-degradation-in-mycoremediation]]
 - [[key-fungal-species-bioremediation]]
-- [[fungal-enzyme-systems-xenobiotic-degradation]]
 - [[fungal-degradation-of-textile-dyes]]
-- [[fungal-treatment-pharmaceutical-wastewater]]
 - [[fungal-wastewater-treatment]]
-- [[fungal-treatment-of-textile-dyes-mechanisms]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]

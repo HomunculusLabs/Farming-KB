@@ -124,7 +124,9 @@ requires a cold shock and fresh air exchange.
 
 ## See Also
 
-- [[fomes-fomentarius]] — conifer-associated polyporoid fungus
 - [[piptoporus-betulinus]] — birch polypore with similar lignicolous ecology
-- [[laricifomes-officinalis]] — medicinal conifer polypore
 - [[lentinula-edodes]] — cultivated shiitake, related agaricales
+
+## See Also
+
+- [[edible-wild-mushrooms-foraging-guide]]

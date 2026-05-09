@@ -84,8 +84,6 @@ Psilocybin represents an extraordinarily potent source of informational input --
 
 ## See Also
 
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[information-paradigm-of-consciousness]]
-- [[psilocybin-ego-dissolution-mechanisms]]
 - [[psilocybin-mystical-experiences-personality-change]]
 - [[consciousness-and-psychedelics]]

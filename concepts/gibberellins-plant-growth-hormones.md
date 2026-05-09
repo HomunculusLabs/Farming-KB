@@ -5,7 +5,8 @@ updated: 2026-05-06
 tags: [plant-hormones, gibberellins, plant-physiology, plant-growth, agriculture, green-revolution, seed-germination, flowering]
 date: 2026-05-02
 type: concept
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Gibberellins (GAs) are a large family of diterpenoid plant hormones
@@ -113,24 +114,9 @@ Auxin promotes GA biosynthesis by upregulating GA20ox and GA3ox via ARF
 transcription factors. GA and ABA are mutually antagonistic: ABA
 upregulates GA2ox under drought while GA degrades DELLAs to promote
 growth. GA interacts synergistically with cytokinins in shoot growth
-and with brassinosteroids through overlapping DELLA-BZR1 signaling. In
-deepwater rice, ethylene promotes GA-mediated internode elongation as
-a flooding escape response.
-
-## Agricultural Significance and Green Revolution
-
-The fukuoka seeding real depended critically on gibberellin biology. The
-rice sd1 gene encodes GA 20-oxidase 2 (GA20ox2); mutations reduce
-bioactive GA, producing semi-dwarf, lodging-resistant stems for IR8
-"miracle rice." Wheat Rht-B1b and Rht-D1b dwarfing genes encode
-GA-insensitive DELLA mutants from Japanese Norin 10 varieties, used in
-Norman Borlaug's high-yielding lines. Commercial GA₃ from Fusarium
-fermentation is applied globally for barley malting, seedless grape
-production, sugarcane yield enhancement, and ornamental flower
-induction at 10-500 ppm. These GA-related alleles remain foundational
-to modern cereal breeding across diverse environments.
+and with [[tompkins-magnetism-plant-growth]]
+- [[plant-hormones-and-chemical-signaling-systems]]
 
 ## See Also
-- [[tompkins-magnetism-plant-growth]]
-- [[tompkins-electroculture-plant-growth]]
-- [[plant-hormones-and-chemical-signaling-systems]]
+
+- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]

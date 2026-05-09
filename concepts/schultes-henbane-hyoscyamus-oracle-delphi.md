@@ -22,25 +22,7 @@ the very origins of Western literature and pharmacology.
 
 Two principal species have been employed for psychoactive purposes:
 
-- *[[hyoscyamus-niger]]* L. (Black Henbane): native to Europe, now
-  widespread. The most potent species, capable of causing insanity.
-  The bell-shaped flowers have a characteristic coloring and an
-  unforgettable pattern on the petals; in earlier times, it was
-  thought to be the eye of the devil. The dried leaves and flowering
-  tops were historically used in the preparation of medicinal teas,
-  ointments, and smoking mixtures.
-
-- *Hyoscyamus albus* L. (White or Yellow Henbane): also native to
-  Europe. Was consecrated to the god of oracles, Apollo. The flowers
-  of this species are somewhat smaller than those of the black variety,
-  but their psychoactive potency was well recognized by classical
-  herbalists and medieval practitioners alike.
-
-Indian Henbane or Egyptian Henbane (*H. muticus*) occurs from the
-deserts of Egypt east to Afghanistan and India. It is employed in
-India as an intoxicant, the dried leaves being smoked. The Bedouins
-particularly employ this intoxicant to become drunk, and in some parts
-of Asia and Africa it is smoked with [[plants-of-the-gods-cannabis-ancient-cultures]] as an inebriant.
+- *[[plants-of-the-gods-cannabis-ancient-cultures]] as an inebriant.
 
 ## The Oracle of Delphi
 
@@ -85,7 +67,6 @@ reality and falling into a deep sleep like an alcoholic delirium.
 ## Chemistry
 
 Henbane contains the same tropane alkaloids found in
-[[plants-of-the-gods-nightshade-hexing-herbs]] and
 [[schultes-mandrake-mandragora-officinarum]]: primarily hyoscyamine,
 atropine, and scopolamine. The difference is only one of relative
 concentration. While belladonna contains little scopolamine, this
@@ -124,3 +105,7 @@ civilization. Its reputation as a plant of oracles, witches, and
 physicians testifies to the enduring human fascination with plants
 that alter consciousness and blur the boundary between the natural and
 supernatural worlds.
+
+## See Also
+
+- [[henbane-hyoscyamus-niger-ethnobotany]]

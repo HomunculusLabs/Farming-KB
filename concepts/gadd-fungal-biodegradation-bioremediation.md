@@ -75,19 +75,12 @@ Several mycoremediation strategies have been developed:
 
 ## See Also
 
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- [[bioavailability-in-fungal-bioremediation]]
-- [[bioremediation-ecosystem-restoration]]
+- [[mycoremediation]]
 
-- [[bioavailability-in-fungal-bioremediation]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- [[biobleaching-of-pulp-by-white-rot-fungi]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[brown-rot-fungi-biodegradation]]
 - [[brown-rot-white-rot-fungi-remediation]]
-- [[chlorophenol-degradation-by-white-rot-fungi]]
 - [[mycelium-running-bioremediation-mushroom-projects]]
-- [[unknown-mycelium-mycofiltration]]
 - [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-ecology-saprotrophs]]

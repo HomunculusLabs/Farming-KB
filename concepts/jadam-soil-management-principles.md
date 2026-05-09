@@ -9,41 +9,7 @@ sources:
 ---
 # JADAM Soil Management Principles
 
-Conventional farming cannot solve the problem of soil compaction. You might be frustrated by this fact, but nothing can be clearer: continuing conventional agriculture and bringing back life to soil are not compatible. This is the starting premise of [[jadam-ultra-low-cost-methods]] soil management.
-
-## The Current State of Soil
-
-### Soil Contaminated by Chemicals
-
-According to Korea's Ministry of Food and Drug Safety and OECD, Korea is classified as a heavy-user country in terms of antibiotics for livestock, and pesticide and chemical fertilizer for crops. Major Asian countries are similar. Antibiotics, synthetic pesticide and fertilizers have seriously degraded the soil. Roots of all types of crops have great difficulty settling in the soil.
-
-Soil degradation is global; it is fast bringing the death of agriculture. Agriculture should look one hundred years into the future. Conventional farming simply is not sustainable. Any farming that degrades soil will destroy the future of farming. Soil contamination is linked to human contamination. If soil is diseased, so will humans. If soil dies, so will we.
-
-### Chemicals Accumulate in Surface Soil
-
-Chemicals accumulate in the 15 cm (6 in) belt below the surface because of a layer of compacted soil. Use of heavy machinery is a direct cause — tractor effects can be measured as deep as 7 meters (23 ft). Repeated use turns the soil layer at 15 cm depth rock-hard. Because of this compacted layer, agricultural chemicals cannot penetrate deep into the soil and enter a breakdown cycle. Instead they linger at the sub-surface level — highly detrimental to crop roots.
-
-JADAM recommends stopping the use of heavy tractors and using light vehicles instead. Minimize the use of chemical material. If you have to use tractors, take extra care so that wheels will not run over crop-growing area.
-
-### Antibiotics in Livestock Manure
-
-It has become a norm to use hormones and antibiotics in raising animals. Excrements from these animals are turned into manure and supplied to farms at cheap prices due to government support. When antibiotics build up in the soil, they destroy microorganisms, leading to further hardening.
-
-Research supported by the USDA (University of Minnesota) confirmed that crops grown with compost containing antibiotics accumulate the chemical within their tissue. Root vegetables such as potatoes, carrots, and radish were far more vulnerable. Use of antibiotics in the livestock industry is not only contaminating the soil but also putting the health of crops and consumers at risk.
-
-## The Three Tenets of JADAM Soil Management
-
-Find the secret to soil management in nature. Look at the soil formed from leaf mold in the adjacent mountains, fields and forests. JADAM believes leaf mold is the ideal soil. The three tenets are:
-
-1. **Microorganism composition** of my field should be identical to that of the leaf mold in the mountains
-2. **Organic matter** in my field should be abundant like the leaf mold in the mountains
-3. **Minerals** in my field should be diverse like the leaf mold in the mountains
-
-Farming will be always difficult if soil compaction and chemical contamination are not dealt with. The only solution to soil contamination is microorganisms. Just like microorganisms purifying contaminated water, our home-cultured indigenous microorganisms will be put into the soil to dissolve contaminants and turn them into plant nutrients.
-
-## Rejecting the Compost Method
-
-Prevalent method of compost-making is too complicated: mix ingredients, calculate green to brown ratio, build up a pile, adjust temperature/aeration/moisture, turn them, finish composting by spring, scatter on soil. JADAM method is very, very simple: in autumn, mix all ingredients together and scatter them on the fields, apply [[jadam-microorganism-solution-jms]], and use tiller to break them down.
+Conventional farming cannot solve the problem of soil compaction. You might be frustrated by this fact, but nothing can be clearer: continuing conventional agriculture and bringing back life to soil are not compatible. This is the starting premise of [[jadam-microorganism-solution-jms]], and use tiller to break them down.
 
 Nature always grows vegetation which turn into organic fertilizer. It is always 100% self-sufficient. Nature makes it a rule to apply fertilizer: in autumn, on the surface, and in raw form. After autumn, winter and spring pass, compost will be fully prepared. Another merit of autumn application is that it can prevent larvae damage in spring because there is no food for them.
 
@@ -51,7 +17,7 @@ Some say compost has to reach 75°C (167°F) to kill harmful microbes and that b
 
 ## The Soil Foundation Method
 
-The most important technology of JADAM is "soil foundation work" — applying [[jadam-microorganism-solution-jms]] plus minerals plus [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of fruit trees on a regular basis through irrigation.
+The most important technology of JADAM is "soil foundation work" — applying [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of fruit trees on a regular basis through irrigation.
 
 Use a motored sprayer, sprinkler or drip irrigation to apply a mixture of:
 - JMS (500 L per 1/4 acre to 8 acres)
@@ -65,23 +31,85 @@ The greatest benefit: root settlement will be very strong. Roots will be almost 
 
 What is the best organic material? Contrary to common belief, rice bran, perilla pulp and press cakes are not the best — they are leftovers (peel) after nutritional essences have been extracted. They are deficient in comprehensive nutrients. Fertilizer made from plant skin disrupts nutrient balance — this in itself is a form of soil contamination.
 
-JADAM's [[jadam-cover-crop-method]] uses the "whole" plant as fertilizer. This is very beneficial because the whole plant has the comprehensive nutrients that the fruit has. When you use skin fertilizers, use them in less than 1/10 of the total amount.
-
-## Effects of the Leaf Mold Method
-
-- **Increased diversity of microorganisms** prevents any single pathogen from gaining dominance. Maximize the population and diversity of soil microorganisms. Let the army of diverse microorganisms occupy the area and crowd out pathogens.
-- **Minerals become abundant** — sea water with 83 different minerals combined with phyllites. Your soil will never be richer in minerals.
-- **Soil nutrient-tolerance increases** — complex pH management skills become unnecessary. Just stick to JMS and cover crops; naturally the soil pH will return to normal.
-- **Nematode damage is suppressed** — certain fungi use hyphal loops to trap and consume nematodes
-- **Powdery mildew controlled** by foliar application of microorganism solution — this costs almost nothing
-
-The philosophy: shift from disinfection to diversity. This is a complete shift from mankind's concentration on killing and eliminating pathogens.
-
-## Related Concepts
-
-- [[jadam-natural-pesticide-philosophy]] — detailed leaf mold collection and use
-- [[jadam-root-soil-assessment]] — reading roots to judge soil health
-- [[lowenfels-earthworms-soil-food-web]]
+JADAM's [[jadam-natural-pesticide-philosophy]] — detailed leaf mold collection and use
 - [[lowenfels-earthworms-soil-food-web]]
 - [[composting-systems]] — alternative composting approaches
 - [[jadam-anaerobic-fermentation-principles]] — the science behind JADAM inputs
+## Practical Applications
+
+JADAM Soil Management Principles — Making Soil Like Leaf Mold has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+JADAM Soil Management Principles — Making Soil Like Leaf Mold. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

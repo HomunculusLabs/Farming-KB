@@ -5,35 +5,7 @@ updated: 2026-04-24
 sources: "James Arthur, Mushrooms and Mankind"
 wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-christmas-tree-amanita-muscaria arthur-mushrooms-hinduism-buddhism arthur-mushroom-iconography-medieval-europe"
 type: concept
-tags: [mushroom-cultivation, mushrooms]
----
-
-# Phallic Symbolism of Mushrooms in Ancient Religions
-
-## The Androgynous Nature of the Mushroom
-
-The mushroom itself has very interesting features that resemble, and have been
-related to, Gold, Flesh, Blood (and blood vessels), Phallus, Vulva, Fire,
-Saucer, Cup, as well as a disc or orb. Anthropomorphically the mushroom is
-androgynous -- in one sense, being one entity yet having both male and female
-sexual organs visible. In another sense it is two separate beings, joined
-together in the act of creation, albeit only the sexual organs are visible.
-
-The red of the mushroom cap, as well as the juice, are anthropomorphized as
-blood, and figuratively related to as fire. The cap is also considered the
-female genital organ, as was the cup (like the Holy Grail) from ancient times.
-While the mushroom stem is the phallus. This dual nature made the mushroom a
-perfect symbol for the creative act throughout ancient religious traditions.
-
-## Enki and Ninhursag: Stem and Cap
-
-In the Sumerian tradition, Enki is the stem, Ninhursag the cap, the two
-joining in accord to produce the Adama (humanity). The mushroom was
-anthropomorphized into the two elementary archetypal creators. Enki and his
-sister Ninhursag were the creators of the Adama. The substance fed to the
-faithful was known as "Star-Fire," produced from the lunar essence, or blood
-(from the womb), of the goddess Ninhursag. It is also called "the gold of the
-gods" and "the red gold" -- all descriptors that map to the [[amanita-muscaria]]
+tags: [[amanita-muscaria-entity]]
 and its effects.
 
 ## The Djed Pillar: Osiris and the Phallus
@@ -130,11 +102,7 @@ and regeneration.
 
 ## See Also
 
-- [[arthur-mushrooms-sumerian-egyptian-art]] - The Sumerian Enki/Enlil stories
-  and Egyptian Djed pillar
 - [[arthur-christmas-tree-amanita-muscaria]] - The Virgin Birth as seedless
   mushroom growth
-- [[arthur-mushrooms-hinduism-buddhism]] - Rudra, Hari Hari, and Hindu-Buddhist
-  phallic mushroom art
 - [[arthur-mushroom-iconography-medieval-europe]] - Medieval European
   preservation of these phallic symbols

@@ -137,14 +137,9 @@ The *A. vaginata* species complex in North America likely contains multiple
 cryptic species that are morphologically similar but genetically distinct.
 DNA barcoding using ITS regions has revealed significant phylogenetic
 diversity within what was traditionally considered a single species.
-
 ## See Also
 
-- [[amanita-muscaria-entity]]
 - [[amanita-phalloides]]
-- [[amanita-caesarea]]
 - [[amanita-pantherina]]
-- [[amanita-rubescens]]
 - [[amanita-gemmata]]
-- [[boletus-edulis-entity]]
 - [[cantharellus-cibarius-entity]]

@@ -99,13 +99,13 @@ Cannabis roots harbor diverse endophytic communities:
 - Mortierellaceae are early successional fungi found in cannabis roots that promote plant growth
 - Different cannabis cultivars recruit different internal microbial partners
 - Building diverse soil biology provides the pool from which cannabis selects its endophytes
-- See cannabis pest management and [[cannabis-living-soil-guide]]
+- See [[cannabis-pest-management]] and [[cannabis-living-soil-guide]]
 
 ## Practical Applications for Homesteading
 
 1. **Build diverse soil biology**: Rich compost, AACT, and minimal disturbance maintain the endophyte reservoir
 2. **Avoid sterilization**: Solarization and soil sterilization destroy endophyte communities
-3. **Use living soil approaches**: [[cannabis-living-soil-guide]] and [[composting-and-soil-biology]] preserve endophyte networks
+3. **Use living soil approaches**: [[cannabis-living-soil-guide]] and [[no-till-gardening-method]] preserve endophyte networks
 4. **Consider P. indica inoculants**: Becoming commercially available for horticulture; promotes growth and disease resistance
 5. **Preserve plant microbiome inheritance**: Seed-saving from healthy plants may transmit beneficial endophytes
 6. **Diverse plantings**: Mixed species plantings support diverse endophyte communities via cross-inoculation
@@ -123,6 +123,6 @@ Cannabis roots harbor diverse endophytic communities:
 - [[fungal-ecology]] — Overview of fungal ecological roles
 - [[fungal-symbiosis-types]] — Endophytes in the symbiosis spectrum, signaling
 - [[mycorrhizal-networks]] — Root-associated symbiotic fungi
-- cannabis pest management — IPM for cannabis including biological controls
+- [[cannabis-pest-management]] — IPM for cannabis including biological controls
 - [[soil-food-web-nutrient-cycling]] — Endophytes in the broader soil biology context
 - [[cannabis-living-soil-guide]] — Living soil approach that supports endophytes

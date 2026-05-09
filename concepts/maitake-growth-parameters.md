@@ -11,21 +11,21 @@ topics:
   - fruiting
   - mushroom-cultivation
 ---
-# [[maitake-growth-parameter-comparison-china-japan-north-america]] Parameters and Environmental Management
+#  Parameters and Environmental Management
 
 ## Introduction
 
-Maitake (*[[grifola-frondosa]]*) demands precise environmental control across
+Maitake (**) demands precise environmental control across
 distinct developmental phases. Unlike tolerant species such as oyster
 mushrooms, maitake requires specific temperature, humidity, CO2, and
 light regimens at each stage. Failure to meet requirements at critical
 transitions results in delayed, deformed, or absent fruiting. This page
-details parameters for each phase and practical guidance for mspawn-run-and-colonization]] dedicated growing facility.
+details parameters for each phase and practical guidance for mspawn-run-and-colonization dedicated growing facility.
 
 ## Phase 1: Spawn Run (20–30 days)
 
 Rapid, uniform colonization of the entire substrate volume is the goal.
-Temperature should be 20–25 °C — lower end yields denser [[mycelium]],
+Temperature should be 20–25 °C — lower end yields denser ,
 higher end accelerates growth but raises contamination risk; above
 30 °C is lethal. Maintain 60–70% relative humidity to prevent
 desiccation without condensation that encourages contaminants. Keep
@@ -74,36 +74,18 @@ Too little light delays initiation; too much causes desiccation.
 Successful initiation produces numerous small white-to-tan bumps
 distributed across the upper surface of the substrate block.
 
-## Phase 4: Fruiting-Body Development (10–21 days)
-
-Conditions adjust slightly to promote maturation into harvestable
-mushrooms. Temperature at 15–18 °C produces denser, darker-capped,
-higher-quality mushrooms with longer shelf life. Higher temperatures
-accelerate growth but yield softer, lighter-colored fruiting bodies.
+## Phase 4: [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 Maintain 85–95% relative humidity — the enlarging fruiting body
 increases transpiration, and brief humidity dips cause cap cracking
 and quality loss. Moderate to high fresh-air exchange prevents CO2-
 induced stem elongation, small caps, and poor cluster formation. Gentle
-uniform air circulation is ideal; excessively turbulent airflow dries
-developing fruiting bodies. Continue 200–500 lux light on a 12-hour
-cycle for proper cap development, normal pigmentation, and compact
-cluster morphology. Insufficient light produces pale, etiolated bodies
-with elongated stems and underdeveloped caps. Harvest when individual
-caps are fully expanded with slightly incurved margins, before spore
-release begins. Mature clusters are separated from the substrate block
-with a clean cut at the base.
-
-## Dedicated Facility Requirements
-
-Maitake requires a dedicated growing room — it cannot share space with
+uniform [[growing-gourmet-growing-room-humidification-climate-control]] aitake requires a dedicated growing room — it cannot share space with
 other mushroom species due to its specific environmental requirements
 and long crop cycle of 60–120 days total. The facility must provide
 precise control of temperature (±1 °C), humidity (±5%), fresh-air
 exchange (adjustable CO2 from 500 to 5,000 ppm), and lighting (0 to
 1,000 lux with timer control). Walls, floors, and ceilings must be
-smooth, washable, and resistant to repeated disinfection. Ideally,
-separate rooms should be used for spawn run and fruiting to allow
-independent environmental management. Air handling systems should
+smooth, washable, and resistant to repeated disinfection.[[growing-gourmet-hepa-filtration-laboratory-air-systems]] g systems should
 provide HEPA filtration on incoming air and sufficient exchange capacity
 for the room volume.
 
@@ -116,7 +98,7 @@ for the room volume.
 | Long stems, small caps    | Insufficient fresh air     | Increase ventilation            |
 | Cap cracking              | Humidity fluctuations      | Stabilize RH at 85–95%          |
 | Pale or etiolated bodies  | Insufficient light         | Increase to 200–500 lux         |
-| Contamination             | Poor [[sterilization]] or air  | Improve clean-room protocols    |
+| Contamination             | Poor  or air  | Improve clean-room protocols    |
 
 ## Environmental Parameters Summary
 
@@ -127,3 +109,7 @@ for the room volume.
 | CO2 (ppm)   | 2000–5000   | 1000–2000      | <1000          | 600–1000    |
 | Light (lux) | 0           | 50–100         | 200–500        | 200–500     |
 | Duration    | 20–30 d     | 7–14 d         | 5–10 d         | 10–21 d     |
+
+## See Also
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]
+- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]

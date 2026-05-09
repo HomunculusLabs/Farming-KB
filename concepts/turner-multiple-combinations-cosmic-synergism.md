@@ -21,18 +21,6 @@ D.M. Turner's "Multiple Combinations" chapter documents his experiments combinin
 - These combinations can be very heavy, both physically and mentally
 - Those using multiple combinations typically exercise a high degree of caution
 - Special caution with MAO inhibitors (harmala alkaloids)
-- See also: [[psychedelic-safety-guidelines-turner]]
-
-## Mushrooms + Syrian Rue + N,N-DMT + Nitrous Oxide + Ketamine
-
-This five-substance experimental session was quite enjoyable and exceeded expectations:
-- The mushrooms + Syrian Rue was a medium-strength dose: pleasant but not overwhelming
-- DMT added to the experience, especially in the visual dimension
-- Nitrous blasts felt great whenever they were administered
-- The unique portion came towards the end when 75 mg of ketamine was injected (Turner's first time using ketamine in combination with mushrooms)
-- The ketamine experience overpowered what remained of the previous high but was pleasantly enhanced, having a wider range of feelings than ketamine alone
-- Semi-conscious awareness of body chanting and moving about during part of the experience (common with DMT + Syrian Rue but not previously experienced on ketamine alone)
-- Additional journeys with mushrooms + ketamine initially produced good results, but Turner eventually decided this combination was not appropriate
 - See also: [[turner-ketamine-combinations-and-cydelikspace-navigation]]
 
 ## LSD + Ketamine + N,N-DMT
@@ -52,7 +40,7 @@ This six-substance combination was described as "absolutely beautiful":
 - Cannabis and nitrous served as "add-ons"
 - Effects were similar to two-substance combinations described in the individual chapters, but with vastly more space or information to explore
 - The experience felt infused with a spiritual quality compared to a typical LSD trip
-- See also: [[turner-harmala-psychedelic-potentiation-signature]] and [[harmala-alkaloids-and-ayahuasca-preparation]]
+- See also: [[harmala-alkaloids-and-ayahuasca-preparation]]
 
 ## LSD + Ludiomil + Nitrous Oxide (+ Ketamine)
 
@@ -115,24 +103,12 @@ This six-substance combination was described as "absolutely beautiful":
 
 ## Related Topics
 
-- [[turner-psychedelic-combination-experience-reports]] - Two-substance combination reports
 - [[psychedelic-combination-guide]] - General combination safety and guidance
-- [[2c-b-compound-profile]] - 2C-B pharmacology and effects
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]] - Ketamine-specific combinations
-- [[psychedelic-safety-guidelines-turner]] - Safety considerations
-
-## See Also
-
 - [[turner-lsd-nitrous-ludiomil-combinations]]
-
-- [[turner-5meo-dmt]]
 
 - [[turner-dmt]]
 
-- [[turner-ketamine]]
-
 - [[turner-lsd]]
-
-- [[turner-mescaline]]
 
 - [[turner-psilocybin]]

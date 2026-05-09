@@ -66,7 +66,7 @@ Cannabis prefers a well-draining, slightly acidic soil rich in organic matter. T
 ### Super Soil (Sub-Irrigated)
 Layer nutrient-rich amended soil at the bottom third of the container with plain soil on top. Roots grow down into the nutrient zone as needed, reducing the need for liquid feeding during flowering.
 
-See also [[cannabis-living-soil-guide]] for living soil approaches and [[cannabis-soilless-grow-media]] for hydroponic alternatives.
+See also [[cannabis-soilless-grow-media]] for hydroponic alternatives.
 
 ## pH Management in Soil
 
@@ -80,16 +80,7 @@ Soil pH directly affects nutrient availability:
 - **To raise pH**: Add dolomite lime (slow) or hydrated lime (fast, use sparingly)
 - **To lower pH**: Add elemental sulfur, peat moss, or small amounts of aluminum sulfate
 
-Always test pH before and after amendments. See [[cannabis-ph-management-and-soil-flushing]] for detailed pH management.
-
-## Common Soil Types (Green's Assessment)
-
-Greg Green identifies several soil categories:
-
-1. **Standard potting soil**: Good starting point, well-draining, often pre-fertilized. Check the NPK values and avoid soils with excessive slow-release nutrients.
-2. **Seedling soil**: Lighter mix with fewer nutrients, designed for fragile young roots.
-3. **Outdoor garden soil**: Generally too heavy for containers and may contain pests or pathogens.
-4. **Hydroponic media**: Rockwool, clay pebbles, coco — these are soilless and require specialized feeding. See [[cannabis-hydroponic-systems]].
+Always test pH before and after amendments. See [[cannabis-hydroponic-systems]].
 
 ## Soil Flushing
 
@@ -97,23 +88,7 @@ Over time, salts and excess nutrients accumulate in container soil:
 
 - **Symptoms**: Leaf tip burn, nutrient lockout, rising pH, salt crust on soil surface
 - **Solution**: Flush with 3x the container volume of pH-adjusted water (6.0–6.5) to leach out excess salts
-- See [[cannabis-ph-management-and-soil-flushing]] for the full procedure
-
-## Reusing Soil
-
-Soil can be reused between grows with amendment:
-
-- Remove root balls and debris
-- Screen out old root fragments
-- Amend with fresh compost, worm castings, and nutrient amendments
-- Re-sterilize by solarizing (baking in the sun under clear plastic for several weeks) or pasteurizing
-
-## Related Topics
-
-- [[cannabis-soil-and-nutrients]] — comprehensive soil and nutrient guide
-- [[cannabis-soil-and-nutrient-requirements]] — NPK requirements by growth stage
+- See [[cannabis-soil-and-nutrients]] — comprehensive soil and nutrient guide
 - [[cannabis-nutrient-recipes]] — liquid feeding schedules
-- [[cannabis-soilless-grow-media]] — alternatives to soil
 - [[cannabis-ph-management-and-soil-flushing]] — pH management and flushing
-- [[cannabis-living-soil-guide]] — no-till living soil methods
 - [[cannabis-living-soil-amendment-schedule]]

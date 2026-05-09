@@ -106,15 +106,9 @@ Antinutritional factors include oxalates, phytates, and tannins. Processing meth
 
 ## See Also
 
-- [[moringa-oleifera]]
 - [[azadirachta-indica]]
-- [[artemisia-annua]]
 - [[catharanthus-roseus]]
-- [[momordica-charantia]]
 - [[spilanthes-acmella]]
-- [[tithonia-diversifolia]]
 - [[hypoxis-hemerocallidea]]
-- [[sutherlandia-frutescens]]
 - [[pelargonium-sidoides]]
-- [[baccharis-trimera]]
 - [[eupatorium-perfoliatum]]

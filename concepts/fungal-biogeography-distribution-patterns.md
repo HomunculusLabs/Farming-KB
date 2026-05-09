@@ -30,20 +30,7 @@ documented compared to those of plants and animals.
 The widespread trend among organisms of increasing species richness
 from high to low latitudes is not consistently observed among all
 fungal groups. Some groups of fungi show clear latitudinal patterns
-while others do not. For example, species richness of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] does not follow a simple latitudinal gradient,
-with species richness in temperate regions sometimes matching or
-exceeding that of tropical sites. More species of dictyostelids are
-found at lower latitudes and lower elevations, but collecting bias
-complicates interpretation.
-
-## Cosmopolitan versus Endemic Species
-
-Many fungal species are considered cosmopolitan, found across
-multiple continents and in diverse habitats. However, the true extent
-of cosmopolitanism is debated because many apparent wide distributions
-may reflect insufficient taxonomic resolution rather than genuine
-range breadth. Morphologically defined species may encompass several
-[[cryptic-fungal-species]] with more
+while others do not. For example, species richness of [[cryptic-fungal-species]] with more
 restricted ranges. At the same time, genuinely endemic fungi exist,
 particularly in isolated habitats such as oceanic islands, mountain
 ridges, and intermountain regions where host-species endemism is
@@ -70,28 +57,7 @@ habitat requirements, host specificity, and limited dispersal
 ability may restrict species ranges. Species that depend on animals
 for spore dispersal face additional constraints, as the loss of
 dispersal agents through habitat change or fragmentation can
-directly impact fungal distribution. Some [[fungal-spore-dispersal-mechanisms]] strategies restrict fungi from crossing
-major geographic barriers.
-
-## Scale Considerations in Biogeographic Studies
-
-The spatial scale of sampling profoundly affects observed patterns.
-Most measures of species richness are based on small areas, and only
-a few studies have covered areas large enough to estimate regional
-diversity. Beta diversity, the change in species composition among
-sites, varies considerably among fungal groups and habitats. For
-arbuscular mycorrhizal fungi, beta diversity along a 300-km
-latitudinal gradient ranged from 1.5 to 2, meaning regional pools
-contained 50-100% more species than individual local sites.
-
-## Historical Factors
-
-Historical events such as Pleistocene glaciations have left lasting
-imprints on fungal distributions. Relict fungal communities have
-been found at depth in soils where they reflect conditions from past
-climatic periods. Local extinctions caused by glaciation may explain
-why some regions have lower diversity than expected. Plate tectonics
-has influenced distributions of [[sequestrate-fungi-ecology-evolution]], with independent parallel evolutionary lines
+directly impact fungal distribution. Some [[sequestrate-fungi-ecology-evolution]], with independent parallel evolutionary lines
 developing in Australia (associated with Eucalyptus) and North
 America (associated with Pinaceae).
 
@@ -116,8 +82,6 @@ patterns.
 
 ## See Also
 
-- [[fungal-biodiversity-ecosystem-function]]
 - [[cryptic-species-fungal-biodiversity]]
-- [[fungal-endemism-host-specificity]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[mycelium-running-stamets-fungi-and-climate-change]]

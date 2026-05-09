@@ -133,8 +133,6 @@ drug and its associated cults a little over a century ago. The
 earliest report of its hallucinogenic effects dates from 1903, when
 French scientists described the psychoactive properties of the root.
 
-- [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[european-witchcraft-hallucinogenic-plants]]
-- [[hallucinogenic-plants-united-states]]
 - [[iboga-and-the-bwiti-cult-initiation]]
-- [[entheogenic-plants-and-psychoactive-flora]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]

@@ -108,13 +108,9 @@ The basic principle: cardboard or newspaper smothers existing vegetation (especi
 
 ## See Also
 
-- [[sheet-mulching]]
 - [[gaias-garden-sheet-mulching-guide]]
-- [[faires-soil-management-and-sheet-mulching]]
 - [[faires-hugelkultur-and-soil-building]]
-- [[composting-and-soil-biology]]
 - [[mulching-guide]]
-- [[soil-building-ecological-garden]]
 - [[mollison-mulching-and-soil-health]]
 - [[herb-spiral-microclimate-design]]
 

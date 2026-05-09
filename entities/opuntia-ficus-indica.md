@@ -128,8 +128,6 @@ a productive crop and an aggressive invader.
 
 ## See Also
 
-- [[moringa-oleifera|Moringa oleifera]]
 - [[yucca-filamentosa|Yucca filamentosa]]
-- [[azadirachta-indica|Azadirachta indica (Neem)]]
 - [[tagasaste|Tagasaste]]
 - [[arundo-donax|Arundo donax]]

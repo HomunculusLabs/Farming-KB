@@ -1,21 +1,7 @@
 ---
 title: "Plant Community Ecology for Garden Design"
 created: 2026-04-26
-tags: [permaculture, ecology, plant-communities, guilds, food-forests]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Plant Community Ecology for Garden Design
-
-Plants in an ecological garden, just as in nature, are not
-isolated individuals but form communities. Long ago, ecologists
-and native peoples recognized that many plants and animals
-occur in distinct groups. Understanding these natural plant
-communities is essential to designing effective [[hemenway-guild-design-roles-and-assembly]]
+tags: [[hemenway-guild-design-roles-and-assembly]]
 and gaias garden food forest design.
 
 ## What Are Plant Communities?
@@ -122,27 +108,13 @@ mechanisms that ecological gardeners seek to replicate:
 - **Mulch generation** from leaf drop and plant decomposition
 - **Microclimate creation** through layered canopy structure
 - **Water management** through root systems and ground cover
-- [[gaias-garden-nutrient-accumulators-dynamic-accumulators]]
-  that concentrate minerals from deep soil layers
-
-## Stacking Functions in Communities
-
-Every part of a plant community does more than one thing. A
-shrub does not just cast shade. It feeds winter-starved birds
-with its berries, offers shelter, mulches the soil with its
-leaves, provides browse for deer, blocks the wind, holds the
-soil with its roots, collects and channels rainwater, and on
-and on. See [[gaias-garden-stacking-functions]] for the full
+- [[gaias-garden-stacking-functions]] for the full
 principle.
 
 ## Related Concepts
 
-- [[hemenway-guild-design-roles-and-assembly]] - guild
-  construction methods
 - [[gaias-garden-white-oak-hazelnut-guild-design]] - detailed
   guild from a native community
-- [[gaias-garden-accelerated-succession]] - succession
-  dynamics
 - [[gaias-garden-interplanting-polyculture]] - polyculture
   design
 - [[gaias-garden-food-forest-layers]] - layered forest gardens

@@ -20,30 +20,6 @@ Both materials align with principles of sustainable agriculture and ecological l
 
 Both materials also have significant social benefits. Bamboo construction often supports local economies in tropical regions where bamboo cultivation and processing provide livelihoods. Cob building is inherently collaborative; the slow pace and hand-forming techniques lend themselves to community workshops and skill-sharing events that build social connections alongside shelter.
 
-## [[bamboo-construction]]
-
-Bamboo is a fast-growing perennial grass that reaches harvestable maturity in three to five years, making it one of the most rapidly renewable structural materials on Earth. Certain species, particularly Guadua angustifolia and Phyllostachys edulis (Moso), have tensile strength comparable to steel when loaded along the fiber axis.
-
-**Strength and flexibility**
-
-Bamboo has an exceptional strength-to-weight ratio, outperforming timber and concrete in many loading scenarios. Its flexibility allows it to bend rather than break under lateral forces, making bamboo outstandingly resistant to earthquake damage. This property has been demonstrated repeatedly in seismic events across Latin America and Asia, where bamboo structures have survived when conventional buildings collapsed.
-
-Bamboo's hollow culm structure also makes it lightweight enough to transport and handle without heavy machinery, reducing the need for fossil-fuel-powered equipment on the building site.
-
-**Growth and renewability**
-
-Culms grow up to 90 cm per day during the shooting season, with mature harvests available in three to five years. This rapid growth cycle means that a bamboo grove can sustain annual harvesting indefinitely when managed properly, providing a perpetual supply of structural material from a relatively small land area. Bamboo also sequesters carbon rapidly during growth, contributing to the carbon-negative potential of bamboo-built structures when combined with low-impact harvesting and processing methods.
-
-**Treatment requirements**
-
-Untreated bamboo is vulnerable to insect attack from powderpost beetles and to fungal decay. Treatment methods include borax-boric acid solutions, pressure treatment, and smoke curing. Proper treatment is essential for any structural application and adds to the overall cost and complexity of bamboo construction. Without treatment, structural bamboo may need replacement within five to ten years, depending on the climate and exposure conditions.
-
-**Construction considerations**
-
-Bamboo construction requires skilled joinery, often using lashed or bolted connections rather than nails, which split the fibers. Mechanical properties vary enormously between species and even between culms of the same species depending on age, node spacing, and growing conditions. Structural design follows established codes in Colombia, Ecuador, and India, with the International Bamboo Organization providing engineering guidelines for broader adoption.
-
-Bamboo also has a role in rural agricultural infrastructure beyond housing. It is widely used for irrigation pipe, livestock shelters, crop trellising, fencing, and tool handles. Its versatility makes it a multipurpose farm resource rather than a single-use building material.
-
 ## [[cob-building]]
 
 Cob is a monolithic building material made by mixing clay-rich subsoil, sand, and straw fiber with water, then applying the mixture by hand in thick layers to build walls without forms or molds. Cob buildings have been constructed across Europe, Africa, the Middle East, and Asia for thousands of years.
@@ -112,16 +88,10 @@ In permaculture design, bamboo and cob structures often sit alongside each other
 
 ## See Also
 
-- [[comparison-earthship-vs-cob-construction]]
-
 - [[comparison-cob-building-vs-adobe-construction]]
 
-- [[bamboo-construction]]
 - [[cob-building]]
-- [[building-with-natural-materials]]
 - [[straw-bale-construction]]
-- [[earthbag-building]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
-- [[building-with-natural-materials]]
 - [[holmgren-passive-solar-and-building-design]]
 - [[building-with-natural-materials]]

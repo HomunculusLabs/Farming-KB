@@ -18,9 +18,7 @@ type: concept
 
 Fog and dew represent significant but often overlooked
 sources of moisture for plants, particularly in arid and
-coastal environments. While [[mollison-designers-forest-condensation-and-micro-climate-rainfall]] systems are well-documented, the specific
-capture of dew and fog at the garden and landscape scale
-deserves focused attention as a [[mollison-drought-proofing-strategies]]
+coastal environments. While [[mollison-drought-proofing-strategies]]
 strategy.
 
 ## Dew: Formation and Significance
@@ -124,25 +122,6 @@ and the fence moved on after these plants are established.
 In Morocco such fences are proposed for deforested
 coastal areas.
 
-This technique is analogous to using [[mollison-windbreak-design]]
-as condensation collectors. In foggy climates or facing
-sea coasts, the effect of sea air condensation can be from
-80-300% of rainfall as leaf drip, making windbreak design
-critically important for water harvesting as well as wind
-protection.
-
-## Fog Forests and Condensation Ecology
-
-In the very humid air of fog forests, giant trees may
-accommodate so much moisture, and evapotranspiration is
-so ineffective if fogs and still air persist, that more
-large limbs fall in still air than in conditions of high
-winds (which tend to snap dry branches rather than living
-limbs). Almost permanent condensation fogs clothe the tops
-of high oceanic islands, and hanging mosses and epiphytes
-rapidly develop there, as they do at the base of waterfalls,
-for the same reasons: free moisture particles in the air.
-
-The irregular canopy of [[mollison-wet-tropical-forest-structure-and-polyculture]] is therefore a critical design element. When
+This technique is analogous to using [[mollison-wet-tropical-forest-structure-and-polyculture]] is therefore a critical design element. When
 planning [[mollison-settlement-siting-on-slopes-and-landscape-profile]] on slopes, recognition of fog zones can determine
 where water-abundant sites exist.

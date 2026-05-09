@@ -30,10 +30,7 @@ up in the sea. To date, 83 elements have been found present in sea water. The
 mineral content of sea water is strikingly similar to that of amniotic fluid.
 The mineral balance of blood plasma is very similar to that of plant fluid and
 sea water. Biologists claim that both fauna and flora came from the sea.
-## Sea Salt as [[jadam-soil-mineral-replenishment]]
-To cure mineral-depleted soil, JADAM recommends bringing nutrients back from
-the sea using sun-dried sea salt. Application rates are approximately 500 g
-(1.1 lb) per 1/4 acre when applied as part of the [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
+## Sea Salt as [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 with JMS and phyllite solution.
 Sea salt provides a broad spectrum of trace minerals that match the
 requirements of plants. JADAM also recommends eating small amounts of sea salt
@@ -108,11 +105,5 @@ healthy, vigorous growth.
 ## Beyond Sea Salt: Complete Mineral Strategy
 Sea salt provides the broadest spectrum of trace minerals available in a
 single input. However, JADAM also utilizes phyllite and loess powder for
-slow-release [[jadam-seawater-mineral-supplementation]]. These rock powders mimic the natural
-process where microorganisms break down rock sediments below leaf mold layers
-in forests. The combination of sea salt for immediate mineral availability
-and rock powders for long-term slow release creates a comprehensive mineral
-replenishment strategy that addresses both natural and forced leaching.
-## See Also
-- [[jadam-natural-mineral-leaching-and-replenishment]]
+slow-release [[jadam-natural-mineral-leaching-and-replenishment]]
 - [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]

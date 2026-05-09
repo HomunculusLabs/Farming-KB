@@ -31,13 +31,7 @@ and dig in well-rotted compost or manure if you have it to spare. Add
 two handfuls of blood, fish, and bone meal per square yard. The soil
 for brassicas should be firm, so there is no need to dig after the
 last crop was lifted, except in the case of summer cabbages, which are
-planted in spring. If you are using a [[hamilton-three-year-crop-rotation]],
-grow all brassicas in Plot C.
-
-## Crop Rotation Importance
-
-Never grow brassicas in the same plot in consecutive years. Strict
-[[hamilton-crop-rotation-and-vegetable-planning]] helps deter the
+planted in spring. If you are using a [[hamilton-crop-rotation-and-vegetable-planning]] helps deter the
 build-up of clubroot disease, which can persist in the soil for many
 years. A minimum three-year rotation is recommended, though four or
 more years is better where clubroot has been a problem. Since
@@ -87,17 +81,7 @@ Brassicas can be affected by cabbage butterflies, cabbage moth,
 cabbage root fly, clubroot, and various general garden pests. Clubroot
 is the most serious threat and is best prevented through crop rotation
 and pH management. Physical barriers like netting protect against
-birds and butterflies. See [[hamilton-organic-pest-control]] for
-comprehensive treatment options. Remove and destroy affected plants
-promptly to prevent disease spread.
-
-## Intercropping
-
-Fast-maturing vegetables like lettuce and radishes can be interplanted
-between brassica rows in the early stages of development. This makes
-efficient use of space and provides additional crops before the
-brassicas need the full growing area. See
-[[hamilton-deep-bed-system]] for intensive planting patterns and
+birds and butterflies. See [[hamilton-deep-bed-system]] for intensive planting patterns and
 [[hamilton-companion-planting-techniques]] for compatible combinations.
 
 ## Harvesting and Storage

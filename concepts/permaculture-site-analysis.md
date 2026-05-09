@@ -117,8 +117,8 @@ A complete site analysis package typically includes:
 
 ## See Also
 
-- [[natural-farm-permaculture-ethics-principles]] — foundational design ethics and principles
-- [[permaculture-design]] — frameworks for moving from analysis to design
+- [[permaculture-ethics-and-principles]] — foundational design ethics and principles
+- [[permaculture-design-methods]] — frameworks for moving from analysis to design
 - [[water-management]] — detailed water earthworks and strategies
 - [[permaculture-forest-garden-establishment]] — using site analysis for planting plans
 

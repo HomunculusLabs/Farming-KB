@@ -142,7 +142,9 @@ importance of preserving full-spectrum terpene profiles.
 
 ## See Also
 
-- [[cannabis-chemotype-classification-cannabinoid-breeding]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]
-- [[cannabis-landrace-sativa-heritage-varieties]]
 - [[hashish-binding-pressing-and-storage-techniques]]
+
+## See Also
+
+- [[cannabis-terpene-profiles-sativa]]

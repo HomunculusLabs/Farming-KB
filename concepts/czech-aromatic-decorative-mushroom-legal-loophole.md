@@ -104,10 +104,7 @@ The Prague aromatic and decorative goods case demonstrates that even these varie
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 - [[emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006]]
-- [[hallucinogenic-mushroom-legal-status-europe]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
 - [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]

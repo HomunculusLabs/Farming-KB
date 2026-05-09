@@ -15,7 +15,7 @@ sources:
 ---
 # Mycena cyanorrhiza
 **Mycena cyanorrhiza** is a small, distinctive mushroom in the family
-Mycenaceae confirmed to contain [[psilocybin-compound]] and [[psilocin]]. It is
+Mycenaceae confirmed to contain [[psilocin]]. It is
 notable among the genus Mycena for its pronounced bluing reaction when
 bruised, making it one of the more easily recognized psychoactive members of
 this large and diverse genus. The species was first described from North America
@@ -68,40 +68,13 @@ blue-green discoloration among the most dramatic bluing reactions observed in
 any psilocybin-containing mushroom, including members of Psilocybe. This
 reaction typically develops within seconds and is initially vivid blue, deepening
 to blue-green or teal over several minutes. The intensity suggests relatively
-high [[psilocin]] concentration.
-### Spores and Microscopic Features
-Basidiospores are ellipsoid to pip-shaped, smooth, thin-walled, measuring
-approximately 7 to 9 um by 4 to 5.5 um. Spore print color is white to very
-pale pink. Spores are typically amyloid or weakly amyloid in Melzer's reagent.
-Basidia are typically two- or four-spored and clavate. Cheilocystidia are
-numerous and distinctive, often cylindrical to lageniform with finger-like or
-branched projections. The pileipellis is a cutis of cylindrical, gelatinized
-hyphae.
-## Distribution and Habitat
-M. cyanorrhiza has been documented primarily in North America, particularly
-the Pacific Northwest. It has also been reported from Europe, Asia, and
-possibly Australia. The species is saprotrophic and lignicolous, growing on
-decaying wood and woody debris of coniferous and hardwood trees. It is
-particularly associated with damp, shaded forest environments including coastal
-rainforests and montane coniferous forests. It prefers well-decayed wood that
-has begun to soften. Fruiting occurs from late summer through winter during
-cool, wet weather.
-## Chemistry and Bioactive Compounds
-M. cyanorrhiza has been confirmed to contain both [[psilocybin-compound]] and
-[[psilocin]] through TLC, GC-MS, and advanced chromatographic techniques. The
-species is notable for the intensity of its bluing reaction, among the most
-pronounced of any Mycena species, suggesting relatively high psilocin
-concentration. Quantitative analyses indicate moderate psilocybin content,
-generally lower than potent Psilocybe species like [[psilocybe-azurescens]]
-but comparable to moderate species like [[psilocybe-cubensis]].
-Among Mycena species, psilocybin has been confirmed in Mycena
-cyanorrhiza, [[mycena-purpureofusca]], [[mycena-galopus]] (disputed), and
-[[mycena-citrinomarginata]] (disputed). Variable reports may reflect genuine
+high [[psilocybin]] and
+[[psilocybe-azurescens]]
+but comparable to moderate species like [[mycena-purpureofusca]], [[mycena-citrinomarginata]] (disputed). Variable reports may reflect genuine
 variation, methodological differences, or cryptic species complexes.
 ## Similar Species
 The key distinguishing feature is the intense blue bruising on the stipe,
-unusual in the genus. [[mycena-purpureofusca]] may show purplish
-discoloration but lacks the dramatic blue bruising. [[mycena-galopus]] has
+unusual in the genus. [[mycena-galopus]] has
 characteristic milky latex when cut. The white, downy stipe base with
 rhizomorphic strands is a useful macroscopic characteristic for narrowing
 identification.
@@ -114,10 +87,6 @@ As a confirmed psilocybin-containing species, M. cyanorrhiza is subject to
 legal controls in many jurisdictions. The species is so small and inconspicuous
 that identification and enforcement would be extremely difficult in practice.
 ## See Also
-- [[mycena-purpureofusca]]
 - [[mycena-purpureofusca]] — another psilocybin-containing Mycena species
-- [[mycena-galopus]] — a common Mycena with disputed psychoactive status
-- [[psilocybin-compound]] — the primary psychoactive compound
-- [[psilocin]] — the dephosphorylated active metabolite responsible for bluing
-- Mycenaceae — the family containing Mycena and related genera
+- [[psilocybin]] — the primary psychoactive compound
 - [[psilocybe-cyanescens]] — a more commonly encountered and potent bluing species

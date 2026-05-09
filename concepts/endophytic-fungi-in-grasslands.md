@@ -3,7 +3,7 @@ title: Endophytic Fungi in Grasslands
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Endophytic Fungi in Grasslands
@@ -110,11 +110,7 @@ The mutualism is not always mutualistic. Endophytes can impose fitness costs on 
 
 ## Related Concepts
 
-- [[fungal-symbiosis-types]] -- broader symbiotic fungi coverage
 - [[ericoid-and-orchid-mycorrhizae]] -- other specialized fungal symbioses
-- [[biodiversity-fungi-grassland-ecosystems]] -- grassland fungal ecology
 - [[fungal-biopesticides]] -- using fungi for pest control
-- [[fungal-chromogens-and-color-change]]
 - [[fungal-endophytes-plant-fitness]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]

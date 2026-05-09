@@ -82,28 +82,6 @@ Solomon's book is written for people who garden because they need to — because
 The answer, Solomon argues, is:
 - Wide spacing
 - Deep, infrequent watering
-- [[solomon-complete-organic-fertilizer-guide]] or home-made compost
-- Quality seed from regional suppliers
-- Simple, durable tools
-- Minimal intervention — let healthy plants grow
-
-## Square Foot Gardening Critique
-
-Solomon specifically addresses Square Foot Gardening:
-- The soil mix (1/3 vermiculite, 1/3 peat moss, 1/3 compost) is expensive to create
-- The spacing is too close for most vegetables to reach full size
-- The system is dependent on constant watering and feeding
-- It works as a demonstration or teaching tool but not as a serious food production method
-
-## Balance
-
-Solomon's critique should not be taken as a rejection of all intensive ideas. He acknowledges that raised beds, biointensive methods, and close spacing have their place. His point is that these methods have been oversold to home gardeners as universally superior, when in fact they are optimal only for specific situations — primarily small gardens where space is the limiting factor.
-
-See also: [[intensive-planting-spacing]], [[garden-bed-designs]], [[watering-irrigation-solomon]], [[complete-organic-fertilizer-recipes]]
-
-## Merged: Climate Zones and Frost Dates
-Steve Solomon organizes his seed recommendations by broad climatic zones rather than USDA hardiness zones. He emphasizes that the number of frost-free days and the latitude (which determines daylength) are critical factors in garden planning and variety selection. - [[solomon-choosing-seeds-and-catalogs]] - [[solomon-complete-organic-fertilizer-guide]] - [[solomon-crop-rotation-and-garden-planning]] - [[seed-saving-vegetables]] The northern tier of states in the United States and that part of southern Canada within a few hundred miles of the U.S.
-## Merged: Solomon on Watering and Moisture Management
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon calls watering the single most important decision the gardener will make. - [[solomon-gardening-when-it-counts-index]] - [[watering-irrigation-solomon]] - [[seed-germination-techniques-solomon]] - [[complete-organic-fertilizer-recipes]] - [[composting-science-solomon]] - intensive gardening critique solomon - [[root-competition-plant-spacing-solomon]] Modern intensive gardening methods, adapted to suburban lots and piped water, grow plants much closer together in massed plantings on raised beds.
+- [[intensive-planting-spacing]], [[watering-irrigation-solomon]], [[solomon-choosing-seeds-and-catalogs]] - [[solomon-crop-rotation-and-garden-planning]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon calls watering the single most important decision the gardener will make. - [[watering-irrigation-solomon]] - [[complete-organic-fertilizer-recipes]] - [[root-competition-plant-spacing-solomon]] Modern intensive gardening methods, adapted to suburban lots and piped water, grow plants much closer together in massed plantings on raised beds.
 ## Merged: Solomon on Soil Preparation and Garden Layout
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon estimates that roughly 2,700 square feet (250 square meters) of growing area can supply about half the daily calories for two adults, mainly from potatoes or sweet potatoes. - [[solomon-gardening-when-it-counts-index]] - [[complete-organic-fertilizer-recipes]] - [[composting-science-solomon]] - [[watering-irrigation-solomon]] - intensive gardening critique solomon - [[root-competition-plant-spacing-solomon]] - [[seed-germination-techniques-solomon]] For nearly complete caloric self-sufficiency, about 4,500 square feet (420 square meters) per adult is needed, helped by a root cellar or other winter storage.
+From [[solomon-gardening-when-it-counts-index]] - [[composting-science-solomon]] - [[root-competition-plant-spacing-solomon]] - [[seed-germination-techniques-solomon]] For nearly complete caloric self-sufficiency, about 4,500 square feet (420 square meters) per adult is needed, helped by a root cellar or other winter storage.

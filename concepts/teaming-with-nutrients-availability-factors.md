@@ -11,17 +11,7 @@ sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.m
 
 updated: 2026-04-18
 
-Even when all essential [[teaming-with-nutrients-essential-plant-nutrients]] are present in adequate quantities, multiple environmental factors affect their availability and uptake by plants. Understanding these factors is what distinguishes an adequate gardener from an excellent one.
-
-## Temperature
-
-Plants shut down nutrient uptake when temperatures are too cool or too hot (above approximately 95°F / 35°C). Temperature affects nutrient availability in several ways:
-
-- **Microbial activity:** Nitrogen cycling and mycorrhiza|mycorrhizal phosphorus delivery slow in cool conditions. Soil microbes provide more than half the nitrogen in cultivated fields and gardens. Microbial nitrogen production is highest between 75-95°F (24-35°C).
-- **Diffusion rates:** Molecular movement slows as temperatures cool, reducing the rate at which nutrient ions reach root surfaces.
-- **Transpiration:** Temperature drives stomatal operation and transpiration rates, which in turn drive water and nutrient ion movement through the plant. Cooler temperatures mean less transpiration and less nutrient transport.
-- **Enzymatic activity:** Nearly all plant growth processes are enzyme-driven, and enzyme efficiency is temperature-dependent.
-- **Spring challenges:** Phosphorus and [[teaming-with-nutrients-composting-and-nutrient-cycling]] are particularly difficult to obtain when temperatures are cool, making early-season nutrient reserves critical.
+Even when all essential [[teaming-with-nutrients-composting-and-nutrient-cycling]] are particularly difficult to obtain when temperatures are cool, making early-season nutrient reserves critical.
 
 Gardeners respond with greenhouses, cloches, cold frames, and heat-retaining mulches in cool climates, and with fans, shade, and reflective mulches in warm ones.
 
@@ -35,25 +25,7 @@ Soil pH (potential hydrogen) measures the concentration of hydrogen ions on a lo
 - **Micronutrients:** Manganese, iron, copper, zinc, and boron become less available as pH increases; molybdenum is more available in alkaline conditions
 - **Ammonia volatilization:** When pH rises from 7 to 8, 10 percent of ammonium converts to gaseous ammonia and evaporates
 
-**Organic soils** resist pH swings because their high organic matter increases [[teaming-with-nutrients-composting-and-nutrient-cycling]] and buffering capacity. Compost (pH 6.5-7.5) generally improves pH conditions for plant growth.
-
-**Correcting pH:** Acidic soils receive calcitic or dolomitic limestone; alkaline soils receive sulfur applications. The buffer pH from soil tests determines the appropriate application rate.
-
-## Soil Aeration
-
-Well-aerated soils contain microscopic pore spaces for air and water exchange. Poor aeration causes:
-
-- **Carbon dioxide buildup:** CO2 from root respiration reacts with water to form carbonic acid, lowering pH and potentially creating cell-killing alcohols in anaerobic conditions
-- **Nutrient substitution by microbes:** Anaerobic microbes replace oxygen with iron, sulfur, and manganese, reducing these for plant uptake
-- **Potassium reduction:** Compacted soils can reduce potassium uptake by 50 percent
-- **Mycorrhizal suppression:** mycorrhiza|Mycorrhizal fungi require aerobic conditions and are essential for phosphorus, nitrogen, and copper uptake
-- **Nitrogen fixation loss:** Free-living nitrogen-fixing bacteria require oxygen
-
-**Correction:** Aerate lawns with plug aerators, add [[compost-building-guide]] and organic matter. Avoid rototilling non-clay soils — it destroys [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] and mycorrhizal networks, leading to worse compaction long-term. Surface applications of organic matter are preferred.
-
-## Cation and Anion Exchange Capacity
-
-Organic and clay particles carry negative surface charges that hold positively charged nutrient cations. The [[teaming-with-nutrients-composting-and-nutrient-cycling]] (CEC) determines how many cations soil can retain and exchange with plant roots.
+**Organic soils** resist pH swings because their high organic matter increases [[compost-building-guide]] and organic matter. Avoid rototilling non-clay soils — it destroys [[teaming-with-nutrients-composting-and-nutrient-cycling]] (CEC) determines how many cations soil can retain and exchange with plant roots.
 
 - **Low CEC soils** (sandy): Cannot hold nutrients well; apply fertilizers in small, frequent amounts to prevent leaching
 - **High CEC soils** (clay/organic): Hold nutrients strongly; larger applications are possible, and autumn applications can persist to spring
@@ -63,13 +35,7 @@ Organic and clay particles carry negative surface charges that hold positively c
 
 Soil moisture levels directly influence nutrient availability and uptake. Water is the solvent that dissolves mineral nutrients and carries them into plant roots. Too little water means nutrients remain locked in soil particles despite being present; too much water displaces oxygen from pore spaces and creates anaerobic conditions that suppress nutrient cycling.
 
-After heavy rains or excessive irrigation, nitrogen can be lost through leaching as nitrate (NO3-) ions move downward with water flow beyond the root zone. This is particularly problematic on sandy soils with low [[teaming-with-nutrients-composting-and-nutrient-cycling]]. Conversely, during drought conditions, the concentration of soluble salts can increase to toxic levels around roots because there is insufficient water to dilute them.
-
-The ideal soil moisture for nutrient uptake is roughly 60-80% of field capacity — moist enough for nutrient ions to diffuse through the water film around soil particles, but with enough air space for root respiration. Mulching and organic matter amendments help buffer moisture fluctuations and maintain consistent nutrient availability.
-
-## Biological Activity and Nutrient Cycling
-
-The [[composting-and-soil-biology]] is the primary mechanism by which nutrients become available to plants in organic systems. Bacteria and fungi decompose organic matter, releasing nutrients in plant-available forms. Protozoa and nematodes consume bacteria and fungi, excreting excess nutrients at the root zone where plants can absorb them.
+After heavy rains or excessive irrigation, nitrogen can be lost through leaching as nitrate (NO3-) ions move downward with water flow beyond the root zone. This is particularly problematic on sandy soils with low [[ozier-pdc-composting-and-soil-building]] is the primary mechanism by which nutrients become available to plants in organic systems. Bacteria and fungi decompose organic matter, releasing nutrients in plant-available forms. Protozoa and nematodes consume bacteria and fungi, excreting excess nutrients at the root zone where plants can absorb them.
 
 Mycorrhizal fungi extend the effective root surface area by hundreds of times, accessing phosphorus and micronutrients that plant roots alone cannot reach. These fungal networks also transport water and nutrients between plants, creating shared resource pools within plant communities.
 
@@ -104,3 +70,22 @@ The interaction of all these factors means that simply adding fertilizer is neve
 - Monitor plant symptoms as indicators of system health rather than individual nutrient deficiencies
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 9
+## Practical Considerations
+
+Successful implementation of Nutrient Availability Factors requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

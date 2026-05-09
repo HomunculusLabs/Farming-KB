@@ -76,13 +76,8 @@ Some fungi initially act as parasites, killing their hosts, and then act like sa
 
 ## See Also
 
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[brown-rot-fungi-biodegradation]]
-- [[brown-rot-white-rot-fungi-remediation]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[fungal-decomposition]]
-- [[fungal-decomposition-of-wood]]
 - [[fungal-decomposition-processes]]
-- [[fungal-decomposition-nutrient-cycling]]
 - [[gourmet-mushroom-species-guide]]

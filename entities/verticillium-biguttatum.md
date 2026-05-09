@@ -121,10 +121,6 @@ can evolve and provide significant disease suppression in crop
 production systems.
 
 ## See Also
-Related: [[rhizoctonia-solani]], [[fusarium-solani]], [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
-
-- [[verticillium-lecanii]]
-- [[rhizoctonia-solani]]
+Related: [[fusarium-solani]], [[verticillium-lecanii]]
 - [[verticillium-dahliae]]
-- [[coniothyrium-minitans]]
 - [[trichoderma-virens]]

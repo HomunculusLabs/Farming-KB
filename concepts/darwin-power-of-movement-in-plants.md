@@ -39,29 +39,7 @@ contributing both experimental work and physiological insight.
 The study of plant movement had a rich history before the Darwins.
 Stephen Hales had documented plant movements in *Vegetable Staticks*
 (1727), and the French scientist Jean-Baptiste Lamarck had studied
-heliotropism in the early [[nineteenth-century-mushroom-literature]]. But the Darwins brought a
-new level of experimental rigor and theoretical ambition to the subject,
-seeking not merely to describe plant movements but to understand their
-physiological basis.
-
-## Key Experiments and Findings
-
-### Phototropism in Canary Grass
-
-Among the most celebrated experiments in *The Power of Movement in
-Plants* are the Darwins' investigations of phototropic movement in
-*Phalaris canariensis*, canary grass. They demonstrated that seedlings
-bend toward light and, crucially, that this bending response is
-concentrated in the tip of the coleoptile, the protective sheath
-covering the emerging shoot. When the tip was covered with an opaque cap,
-the seedling did not bend toward light, even though the rest of the
-coleoptile was fully illuminated.
-
-This finding led Darwin to propose that some "influence" was transmitted
-from the tip of the coleoptile downward, causing the cells on the shaded
-side of the plant to elongate more than those on the illuminated side,
-thereby bending the plant toward the light. He could not identify the
-nature of this influence, but his [[cannabis-microbiome-experimental-design]] brilliantly
+heliotropism in the early [[cannabis-microbiome-experimental-design]] brilliantly
 isolated the site of perception (the tip) from the site of response (the
 elongating region below the tip).
 
@@ -70,58 +48,7 @@ elongating region below the tip).
 The Darwins also documented the phenomenon of circumnutation, the
 continuous circular or elliptical movement of growing plant tips. They
 showed that virtually all growing plant organs exhibit some form of
-nutation, and they argued that circumnutation was a [[consciousness-as-fundamental-property]]
-of plant growth from which more specialized movements, such as tropisms,
-were derived. This was a unifying theoretical framework that connected
-diverse plant movements under a single explanatory principle.
-
-### Gravitropism and Other Tropisms
-
-The book also covered gravitropism (the response of plants to gravity),
-thigmotropism (response to touch), and other directional growth responses.
-The Darwins showed that roots respond to gravity by growing downward while
-shoots grow upward, and they investigated the role of root caps in gravity
-perception, work that anticipated the discovery of statoliths, the
-gravity-sensing organelles in plant cells.
-
-## Connection to the Discovery of Auxin
-
-The Darwins' work on phototropism in coleoptiles provided the direct
-experimental foundation for the discovery of auxin. In the 1920s, the
-Dutch botanist Frits Went, building directly on the Darwins' experimental
-design, collected the diffusible substance from coleoptile tips and
-applied it asymmetrically to decapitated coleoptiles, inducing bending.
-Went named this substance auxin, from the Greek word for "to grow."
-
-Went's experiment was essentially a biochemical extension of the Darwins'
-observation. Darwin had shown that something from the tip controlled
-bending; Went identified and isolated that something. The identification
-of indole-3-acetic acid (IAA) as the natural auxin followed in the 1930s,
-and auxin research has since grown into one of the largest and most active
-areas of plant biology, with auxin recognized as a master regulator of
-plant growth and development.
-
-As Dr. Mary Williams has noted, reading *The Power of Movement in Plants*
-"reveals how these exceptional scientists first observe a phenomenon and
-then set out to understand it. Their investigations of phototropic
-movement of *Phalaris canariensis* are brilliant studies that set the
-stage for the discovery of the plant hormone auxin."
-
-## Legacy and Educational Value
-
-*The Power of Movement in Plants* remains a model of scientific
-investigation. The Darwins' approach, beginning with careful observation,
-progressing through systematic experimentation, and culminating in
-theoretical synthesis, provides an ideal case study for science education.
-The availability of the original text through the Biodiversity Heritage
-Library allows students to read the primary source directly, gaining
-insight into both the scientific method and the historical development of
-plant biology.
-
-## See Also
-
-- [[stephen-hales-plant-physiology]]
-- [[plant-hormones-and-chemical-signaling-systems]]
+nutation, and they argued that circumnutation was a [[stephen-hales-plant-physiology]]
 - [[history-of-plant-science]]
 
 ## References
@@ -133,3 +60,22 @@ plant biology.
   Akademie van Wetenschappen*, 30, 10–19.
 - Williams, M. "Teaching Tools in Plant Biology," American Society of
   Plant Biologists.
+## Practical Considerations
+
+Successful implementation of Darwin's Power of Movement in Plants and the Discovery of Auxin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

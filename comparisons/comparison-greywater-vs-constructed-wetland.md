@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, water, greywater, constructed-wetlands, ecological-design]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 type: comparison
 ---
 # Greywater Systems vs Constructed Wetlands
@@ -18,49 +19,10 @@ cycles for higher water quality before reuse or discharge. Choosing
 between them depends on water volume, available space, treatment goals,
 and whether blackwater is included in the waste stream.
 ## Greywater Systems
-[[greywater-systems-detailed]]
-Greywater systems collect wastewater from sinks, showers, bathtubs,
-and washing machines, routing it to mulch basins or subsurface
-irrigation for direct landscape irrigation. The simplest approach, the
-branched drain system developed by Art Ludwig, uses gravity-fed PVC
-pipes splitting into mulch basins around individual plants. No pumps,
-filters, or electricity are needed. More complex installations add
-surge tanks with pumps for flat sites or larger distribution areas.
-Treatment happens primarily in the mulch basin, where coarse wood
-chips filter particles and support aerobic microbial communities that
-break down soap and organic matter. Because greywater excludes toilet
-waste, pathogen loads are low and the primary concern is matching
-detergent chemistry to plant tolerance. Greywater systems reduce
-household water consumption by 30 to 50 percent and return nutrients
-to the soil food web. Their main limitation is that kitchen greywater
-contains grease that can clog distribution lines, and they cannot
-treat blackwater. See [[gaias-garden-greywater-systems]] for Toby
+[[graywater-systems]] for Toby
 Hemenway's ecological design approach.
 ## Constructed Wetlands
-[[constructed-wetlands-wastewater-treatment]]
-Constructed wetlands are engineered ecosystems that replicate the
-water purification processes of natural wetlands. Wastewater flows
-through lined basins filled with gravel and sand, planted with
-aquatic and marginal species such as cattails, reeds, bulrushes, and
-iris. Microbial biofilms on plant roots and substrate surfaces drive
-the majority of contaminant removal through aerobic and anaerobic
-degradation, nitrification and denitrification, adsorption, and plant
-uptake.
-Surface flow wetlands expose standing water to the atmosphere,
-supporting sedimentation, algal photosynthesis, and wildlife habitat.
-Subsurface flow wetlands route water through gravel below the surface,
-preventing mosquito breeding and reducing human exposure. Hybrid
-systems combine both flow types in series for comprehensive nitrogen
-removal and organic matter treatment.
-Properly designed constructed wetlands achieve 85 to 95 percent BOD
-reduction, 80 to 90 percent TSS removal, and 40 to 60 percent
-nitrogen removal. They can treat both greywater and pre-treated
-blackwater, making them suitable for whole-house wastewater treatment.
-Design parameters include hydraulic loading rate, retention time of
-3 to 15 days depending on wetland type, and substrate selection.
-Fungi, including white-rot species producing ligninolytic enzymes,
-play an important role in degrading recalcitrant organic compounds
-within the wetland matrix. See [[constructed-wetland-design]] for
+[[constructed-wetland-design]] for
 detailed engineering guidance.
 ## Key Differences
 | Aspect | Greywater Systems | Constructed Wetlands |
@@ -120,8 +82,6 @@ Toby Hemenway, keeps the nutrient-rich greywater in the garden
 ecosystem while still achieving high treatment standards for
 blackwater.
 ## See Also
-- [[comparison-constructed-wetland-vs-backyard-pond]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
-- [[comparison-rain-garden-vs-constructed-wetland]]
 - [[constructed-wetland-design]]
 - [[greywater-systems-detailed]]

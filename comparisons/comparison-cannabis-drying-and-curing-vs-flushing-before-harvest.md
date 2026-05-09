@@ -19,17 +19,7 @@ sources: []
 ## Overview
 
 Drying, curing, and flushing are three critical post-cultivation processes that directly
-determine the final quality of harvested [[query-what-causes-fox-tailing-on-cannabis-buds]]. Flushing occurs before harvest and
-involves ceasing nutrient feeding to allow the plant to metabolize stored compounds, while
-drying and curing are post-harvest processes that preserve and enhance the flowers through
-controlled moisture removal andecompositionomposition of chlorophyll. Together, these three
-steps form the bridge between a successful grow and a premium consumable product. Skipping
-or rushing any of them can significantly compromise flavor, smoothness, potency, and overall
-enjoyment of the final harvest.
-
-## Cannabis Drying and Curing
-
-[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] drying and curing vs flushing before harvest
+determine the final quality of harvested [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] drying and curing vs flushing before harvest
 
 Drying and curing are the final and most critical stages of cannabis cultivation, responsible
 for transforming freshly harvested plant material into a stable, potent, and pleasant-smelling
@@ -55,26 +45,11 @@ even moisture distribution and prevent pockets of moisture from developing.
 
 Curing should continue for a minimum of 3 to 4 weeks, though 8 weeks produces noticeably
 superior results. During this extended period, enzymes slowly break down remaining
-chlorophyll and sugars, while residual moisture redistributes evenly throughout the [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]. The terpene profile matures and becomes more complex, harshness diminishes, and
-the overall smoking or vaporizing experience improves dramatically. Properly cured cannabis
-has a smooth, clean flavor, an aromatic terpene bouquet, and burns evenly to light gray
-ash. The difference between properly cured and improperly cured cannabis is one of the most
-striking quality distinctions in all of cannabis cultivation.
-
-## Flushing Before Harvest
-
-[[cannabis-flushing-before-harvest]]
+chlorophyll and sugars, while residual moisture redistributes evenly throughout the [[cannabis-flushing-before-harvest]]
 
 Flushing is the practice of ceasing all nutrient feeding and watering plants with plain,
 pH-adjusted water for a period before harvest. The goal is to allow the plant time to
-metabolize and consume stored nutrients that have accumulated in the [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] during
-the growing cycle. Without flushing, these residual nutrients remain in the bud tissue at
-harvest, producing harsh, acrid smoke that irritates the throat and lungs, leaves dark
-black ash instead of clean gray ash, and can cause headaches or nausea in sensitive users.
-Perhaps most importantly, excess mineral salts mask the natural terpene flavors of the
-cannabis, preventing the full expression of the strain's characteristic taste and aroma.
-
-The flushing protocol varies depending on the growing medium. [[singh-fungal-interactions-with-heavy-metals-in-soil]] grows, flushing begins 1
+metabolize and consume stored nutrients that have accumulated in the [[singh-fungal-interactions-with-heavy-metals-in-soil]] grows, flushing begins 1
 to 2 weeks before the anticipated harvest, using approximately three times the container volume
 of plain pH water to thoroughly saturate and drain the soil. In hydroponic systems, the nutrient
 reservoir is drained and refilled with plain pH-adjusted water for the final 5 to 7 days before

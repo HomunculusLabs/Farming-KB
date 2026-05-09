@@ -128,18 +128,11 @@ These traditional applications predate modern understanding of its toxicity, and
 
 ## See Also
 
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
-- [[tihkal-receptor-binding-serotonin]]
 - [[tangerine-dream]]
-- [[blesching-cannabis-aging]]
-
 - [[myrcene]]
-- [[linalool]]
 - [[limonene]]
-- [[menthol]]
 - [[beta-caryophyllene]]
-- [[pinene]]
 - [[camphene]]
 - borneol
 - sabinene

@@ -99,16 +99,10 @@ Outdoor King Stropharia beds can be highly productive. Well-established beds can
 
 ## See Also
 
-- [[cotter-king-stropharia-cultivation]]
-
 - [[growing-gourmet-wood-ear-auricularia-cultivation]]
 
-- [[king-stropharia-wine-cap-cultivation]]
 - [[kings-stropharia-garden-giant]]
-- [[stamets-king-stropharia-permaculture-mycofiltration]]
 - [[stropharia-rugoso-annulata-mycofiltration]]
-- [[wine-cap-mushroom-cultivation]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-contamination-prevention]]

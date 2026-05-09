@@ -126,12 +126,7 @@ Post-harvest processing involves washing, slicing, and shade-drying the roots to
 
 ## See Also
 
-- [[ephedra-sinica]]
 - [[ephedrine]]
-- [[caffeine]]
 - [[withania-somnifera]]
-- [[astragalus-membranaceus]]
-- [[tinospora-cordifolia]]
 - [[andrographis-paniculata]]
-- [[picrorhiza-kurroa]]
 - [[terminalia-chebula]]

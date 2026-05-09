@@ -2,14 +2,14 @@
 title: Agaricus sylvicola
 created: 2026-04-28
 type: species
-tags: [mycology, identification, gourmet-mushrooms, agaricus]
+tags: [[mycology, identification, gourmet-mushrooms, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 # Agaricus sylvicola
 
-Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is an edible Agaricus species found in woodland and forest-edge habitats. Unlike its meadow-dwelling relatives [[agaricus-campestris]] and [[agaricus-arvensis]], this species is associated with forested environments, particularly under conifers and hardwoods. Its delicate appearance and pleasant almond-like scent make it a welcome find for mushroom foragers exploring wooded areas. See [[agaricus-subrufescens]] for another almond-scented Agaricus and [[agaricus-arvensis]] for the larger Horse Mushroom.
+Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is an edible Agaricus species found in woodland and forest-edge habitats. Unlike its meadow-dwelling relatives [[agaricus-arvensis]], this species is associated with forested environments, particularly under conifers and hardwoods. Its delicate appearance and pleasant almond-like scent make it a welcome find for mushroom foragers exploring wooded areas. See [[agaricus-arvensis]] for the larger Horse Mushroom.
 
 ## Taxonomy and Description
 
@@ -24,7 +24,7 @@ Agaricus sylvicola, commonly known as the Sylvan Agaricus or Wood Mushroom, is a
 - **Gills:** Free from the stem, initially pink, darkening through pinkish-brown to dark chocolate brown at maturity.
 - **Stem:** White, slender relative to cap size, with a thin but well-developed membranous ring. Base may be slightly bulbous.
 - **Flesh:** White, thin but firm. When cut or bruised, may develop a slight yellowish discoloration (not the intense chrome yellow of toxic A. xanthodermus).
-- **Odor:** Pleasant, often described as **almond-like or anise-like**, similar to [[agaricus-subrufescens]] and [[agaricus-arvensis]].
+- **Odor:** Pleasant, often described as **almond-like or anise-like**, similar to [[agaricus-arvensis]].
 - **Spore print:** Dark chocolate brown.
 
 ## Distribution and Habitat
@@ -119,10 +119,6 @@ A. sylvicola typically fruits later than meadow species:
 
 ## See Also
 
-- [[agaricus-subrufescens]] — Almond Agaricus with medicinal properties
 - [[agaricus-arvensis]] — Horse Mushroom, larger with anise-like odor
-- [[lepiota-procera]] — Parasol Mushroom, another woodland edible
 - [[agaricus-campestris]] — Meadow Mushroom, the common grassland species
-- [[tricholoma-matsutake]] — Matsutake, another highly aromatic forest mushroom
-- the-mushroom-cultivator-stamets — Composting and cultivation methods reference
 - [[agaricus-bitorquis]] — Pavement Mushroom, comparison of Agaricus species

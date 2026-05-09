@@ -25,59 +25,7 @@ sources:
 **Angelica sinensis**, known as dong quai (当归), Chinese angelica, or female
 ginseng, is a perennial herbaceous plant in the carrot family (Apiaceae).
 It is one of the most important herbs in Traditional Chinese Medicine (TCM),
-where it has been [[query-what-is-a-wavelet-transform-used-for]] over 2,000 years, primarily as a blood tonic and
-to regulate women's reproductive health.
-
-The dried root (Radix Angelica Sinensis) is the official medicinal part,
-commonly referred to as "dang gui" in Chinese herbalism. It appears in more
-TCM formulas than almost any other single herb, functioning as both a primary
-treatment and a harmonizing agent itrichome-development-and-morphologycriptions.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Plantae
-- Division: Magnoliophyta
-- Class: Magnoliopsida
-- Order: Apiales
-- Family: Apiaceae
-- Genus: Angelica
-- Species: A. sinensis (Oliv.) Diels (1900)
-
-**Root:** The medicinal organ; thick, fleshy taproot with numerous lateral
-branch roots. Fresh roots are aromatic with a characteristic sweet-bitter
-odor. When dried, roots are dark brown externally with a yellowish-white
-cross-section showing prominent oil ducts (vittae).
-
-**Stem:** Erect, hollow, 80–150 cm tall, purplish at the base, glabrous
-or finely pubescent. Branches in the upper portion.
-
-**Leaves:** Basal leaves have long petioles (up to 30 cm); cauline leaves
-are smaller with inflated sheathing bases. Leaf blades are 2–3 ternately
-compound; ultimate leaflets are ovate-lanceolate, 2–5 cm, serrate.
-
-**Flowers:** White to pale green, arranged in compound umbels 8–15 cm
-diameter, with 12–30 rays. Each umbellet has 14–20 flowers. Blooms June–July.
-
-**Fruit:** Oblong-elliptical schizocarp, 4–6 mm × 2–3 mm, with prominent
-lateral and dorsal wings (ribbed mericarps).
-
-## Distribution and Habitat
-
-Angelica sinensis is native to the mountainous regions of western and
-northwestern China, particularly Gansu, Sichuan, Yunnan, and Shaanxi
-provinces. Gansu Province (especially Minxian County) produces the highest-
-quality medicinal roots, which command premium prices.
-
-It grows at elevations of 2,500–3,500 meters in:
-- Cool, moist mountain valleys
-- Forest margins and clearings
-- Alpine meadows near treeline
-- River terraces with well-drained soils
-
-The planquery-how-to-protect-plants-from-frost-and-extend-the-growing-seasonl growing conditions (average 15–20°C during the
-growing season), high humidity, and rich,[[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
+where it has been [[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
 tolerate heat or drought, making it challenging to cultivate outside its
 native range.
 
@@ -143,6 +91,6 @@ roots harvested in the second year after autumn senescence.
 - Deep, fertile, well-drained loam, pH 6.0–7.0
 - Consistent moisture; waterlogging causes root rot
 
-Seeds require cold stratification and lose viability rapidly (under 6
-months). Seedlings are transplanted in the spring of year one and roots
-are dug in late autumn of year two.
+## See Also
+- [[growing-vegetables-with-less-fertilizer]]
+- [[teaming-with-microbes-overview]]

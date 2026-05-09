@@ -10,7 +10,7 @@ sources:
 
 # Solomon on Transplanting and Hardening Off
 
-From [[solomon-gardening-when-it-counts-index]] by [[steve-solomon]].
+From [[steve-solomon]].
 
 ## Solomon's Preference: Direct Seeding Over Transplanting
 
@@ -79,9 +79,7 @@ When direct seeding, Solomon recommends sowing several seeds per station (3-5 fo
 
 ## Related
 
-- [[vegetable-transplanting-and-hardening-off]]
 - [[solomon-complete-organic-fertilizer-guide]]
-- [[solomon-thinning-spacing-and-direct-seeding]]
 - [[solomon-row-covers-and-season-extension]]
 - Raised Beds vs. Double Digging
 

@@ -125,12 +125,8 @@ Legal status continues to evolve as novel tryptamines are identified and schedul
 
 ## See Also
 
-- [[psilocin]]
-- [[psilocybin-compound]]
-- [[4-ho-mipt]]
+- [[psilocybin]]
 - [[4-ho-met]]
-- [[4-aco-dmt]]
 - [[tryptamine]]
-- [[tihkal-introduction-and-methodology]]
 - [[piule-rhynchosia-seeds-mexican-hallucinogen]]
 - [[psychedelic-therapy-mechanisms]]

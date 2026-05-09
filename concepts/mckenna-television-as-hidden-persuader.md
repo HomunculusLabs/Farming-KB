@@ -8,7 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-# Television as the Hidden Persuader and [[mckenna-food-gods-television-dominator-drug]]
+# Television as the Hidden Persuader and 
 
 ## The First Electronic Drug
 
@@ -18,50 +18,12 @@ California. Things are hardly less strange in the real world. The victors of the
 postwar era introduced an all-pervasive, ultra-powerful society-shaping drug. This
 drug was the first of a growing group of high-technology drugs that deliver the user
 into an alternative reality by acting directly on the user's sensorium, without
-chemicals being introduced into the nervous system. It was television. No epidemic
-or addictive craze or religious hysteria has ever moved faster or made as many
-converts in so short a time.
-
-## The Heroin Analogy
-
-The nearest analogy to the addictive power of television and the transformation of
-values that is wrought in the life of the heavy user is probably heroin. Heroin
-flattens the image; with heroin, things are neither hot nor cold; the junkie looks
-out at the world certain that whatever it is, it does not matter. The illusion of
-knowing and of control that heroin engenders is analogous to the unconscious
-assumption of the television consumer that what is seen is "real" somewhere in the
-world. In fact, what is seen are the cosmetically enhanced surfaces of products.
-Television, while chemically non-invasive, is every bit as addicting and
-physiologically damaging as any other drug.
-
-## The Nature of Television Addiction
-
-Not unlike drugs or alcohol, the television experience allows the participant to
-blot out the real world and enter into a pleasurable and passive mental state. The
-worries and anxieties of reality are as effectively deferred by becoming absorbed in
-a television program as by going on a "trip" induced by drugs or alcohol. And just as
-alcoholics are only vaguely aware of their addiction, feeling that they control their
-drinking more than they really do, people similarly overestimate their control over
-television watching.
-
-Finally, it is the adverse effect of television viewing on the lives of so many
-people that defines it as a serious addiction. The television habit distorts the
-sense of time. It renders other experiences vague and curiously unreal while taking
-on a greater reality for itself. It weakens relationships by reducing and sometimes
-eliminating normal opportunities for talking and communicating.
-
-## The Hidden Persuader
-
-Most unsettling of all is this: the content of television is not a vision but a
-manufactured data stream that can be sanitized to "protect" or impose cultural
-values. Thus we are confronted with an addictive and all-pervasive drug that delivers
-an experience whose message is whatever those who deal the drug wish it to be. Could
-anything provide a more fertile ground for fostering fascism and tsacramental-[[ayahuasca]]-legal-battles-united-statesm than
+chemicals being introduced into the [[sacramental-ayahuasca-legal-battles-united-states]] esm than
 this? In the United States, there are many more televisions than households, the
 average television set is on six hours a day, and the average person watches more
 than five hours a day, nearly one-third their waking time.
 
-Aware as we all are of these simple facts, we seem unable to react to [[mckenna-catalytic-psychedelics-and-culturecations. Serious study of the effects of television on health and culture has
+Aware as we all are of these simple facts, we seem unable to react to mckenna-catalytic-psychedelics-and-culturecations. Serious study of the effects of television on health and culture has
 only begun recently. Yet no drug in history has so quickly or completely isolated the
 entire culture of its users from contact with reality. And no drug in history has so
 completely succeeded in remaking in its own image the values ofmckenna-sugar-as-addiction-and-drug-of-the-dominatorthat it
@@ -76,43 +38,7 @@ viewer that is the necessary precondition for brainwashing. As with all other dr
 and technologies, television's basic character cannot be changed; television is no
 more reformable than is the technology that produces automatic assault rifles.
 
-## Historical Context: The End of Drug Diplomacy
-
-Television came along at precisely the right time from the point of view of the
-dominator elite. The nearly one hundred and fifty years of synthetic drug epidemics
-that began in 1806 had led to disgust at the spectacle of human degradation and
-spiritual cannibalism that institutional marketing of drugs created. In the same way
-that slavery eventually, when no longer convenient, became odious in the eyes of the
-very institutions that had created it, the abuse of drugs eventually triggered a
-backlash against this particular form of piratical capitalism. Hard drugs were made
-illegal. Of course underground markets then flourished. But drugs as stated
-instruments of national policy had been discredited. There would continue to be opium
-wars, instances of governments coercing other governments and peoples to produce or
-buy drugs, but in the future these wars would be dirty and secret, they would be
-"covert."
-
-## The Intelligence Connection
-
-As the intelligence agencies that arose in the wake of World War II moved to take up
-their "deep cover" positions as the masterminds of the international narcotics
-cartels, the popular mind was turning on to television. Flattening, editing, and
-simplifying, television did its job and created a postwar American culture of the
-Ken-and-Barbie variety. The children of Ken and Barbie briefly broke out of the
-television intoxication in the mid-sixties through the use of hallucinogens. The
-dominators responded by quickly making psychedelics illegal and halting all research.
-A double dose of TV therapy plus cocaine was ordered up for the errant hippies, and
-they were quickly cured and turned into consumption-oriented yuppies. Only a
-recalcitrant few escaped this leveling of values. Nearly everyone learned to love Big
-Brother. And the few who don't are still clucked over by the dominator culture each
-time it compulsively scratches in the barnyard dust of its puzzlement over "what
-happened in the Sixties."
-
-## The Psychedelic Interruption
-
-The brief psychedelic episode of the 1960s represented a genuine threat to the
-television-dominated dominator order. Hallucinogens function as deconditioning agents
-that dissolve cultural programming of any sort. This made them inherently dangerous
-to a system that relied on mass media for social control. The suppression of
+## [[mckenna-dominator-culture-and-suppression-of-ecstasy]] m that relied on mass media for social control. The suppression of
 psychedelic research was not merely a public health measure but a defense of the
 dominator culture's primary technology of social control. The replacement of the
 psychedelic movement with a cocaine-fueled yuppie consumer culture represented the
@@ -142,6 +68,27 @@ destructive behavior is a legacy of unhappiness for us all. But if we sufficient
 reconstructed our image of self and world, we could make out of psychopharmacology
 the stuff of our grandest hopes and dreams. Instead, pharmacology has become the
 demonic handmaiden of an unchecked descent into regimentation and erosion of civil
-liberties.
+## See Also
 
 ## See Also
+- [[mckenna-television-dominator-drug]]
+- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
+## Practical Considerations
+
+Successful implementation of Television as the Hidden Persuader and Dominator Drug requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

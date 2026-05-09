@@ -112,10 +112,7 @@ The species is low-maintenance once established, requiring only adequate moistur
 
 ## See Also
 
-- [[catharanthus-roseus]] — Madagascar periwinkle, source of the anticancer alkaloids vinblastine and vincristine
 - [[colchicine]] — Another plant-derived antimitotic compound from autumn crocus
-- [[berberine]] — Alkaloid with antimicrobial properties from Berberidaceae family relatives
 - [[atropa-belladonna]] — Deadly nightshade, a toxic medicinal plant with parallel ethnobotanical significance
-- [[plantago-major]] — Broadleaf plantain, a co-occurring woodland herb with contrasting medicinal properties
 - [[permaculture]] — Design framework integrating mayapple as a forest garden understory species
 - [[resveratrol]] — A stilbenoid compound from unrelated plants, contrasts podophyllotoxin's lignan biosynthetic pathway

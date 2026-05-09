@@ -82,11 +82,7 @@ Marasmius rotula has a more distinctly umbilicate cap and much longer, more wide
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[agaricus-xanthodermus]]
-- [[boletus-edulis-entity]]
 - [[laccaria-laccata]]
-- [[marasmius-oreades]]
 - [[mycena-pura]]
-- [[pleurotus-ostreatus]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

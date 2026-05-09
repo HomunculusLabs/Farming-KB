@@ -11,30 +11,7 @@ type: concept
 # Chitosan and Fungal Biomass Derivatives in Biosorption
 
 Chitosan and chitin, the structural polysaccharides found in fungal cell
-walls, serve as key binding sites for [[heavy-metal-biosorption]]. The
-development of processed fungal biomass derivatives, including purified
-chitosan, chemically modified chitosan, and immobilized fungal
-biosorbents, represents an important area of biosorption technology
-aimed at improving metal uptake capacity, selectivity, and mechanical
-stability for industrial wastewater treatment applications.
-
-## Chitin and Chitosan in Fungal Cell Walls
-
-Chitin is a linear polymer of N-acetylglucosamine that forms the
-structural framework of fungal cell walls. Chitosan is the deacetylated
-derivative of chitin, composed primarily of glucosamine units with free
-amino groups. While chitin is the native form in most fungi, partial
-deacetylation occurs naturally, and chitosan content varies among fungal
-species. The amino groups of chitosan are particularly important for
-metal binding because they can coordinate with metal cations through
-lone pair electrons on the nitrogen atom, providing strong binding sites
-for many heavy metals.
-
-Early biosorption studies identified chitin and chitosan as key binding
-sites for metal uptake by fungal biomass. However, subsequent research
-revealed that carboxyl, phosphate, and other functional groups in the
-cell wall are now recognized as being of principal importance for metal
-binding. Recent X-ray studies of lead bound to [[penicillium-chrysogenum]]
+walls, serve as key binding sites for [[penicillium-chrysogenum]]
 cell walls indicated that phosphoryl groups accounted for up to 95% of
 binding, with carboxyl groups contributing approximately 5%. At low
 concentrations, carboxyl groups were preferentially bound due to their
@@ -109,19 +86,5 @@ biosorbents for enhanced performance in continuous flow systems:
 ## Performance of Key Fungal Biosorbents
 
 Members of the order Mucorales consistently exhibit the highest levels of
-metal uptake across a range of fungal genera and species. [[rhizopus-arrhizus]]
-and Mucor species are among the best-performing biosorbents for diverse
-include R. arrhizus pre-treated biomass: Cd (0.56 mmol/g), Pb (0.61
-mmol/g), Cu (0.60 mmol/g), and Zn (0.53 mmol/g). Mucor meihi achieved
-Cr(VI) uptake of 1.15 mmol/g dry weight, among the highest reported
-values for chromate biosorption by any fungal biosorbent material.
-These uptake values highlight the potential of Mucorales fungi as
-effective biosorbents for industrial wastewater treatment applications.
-
-See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
-[[staycare-fungal-metal-biosorption-reactor-systems]],
-and Fungal Biosorption of Heavy Metals.
-
-## See Also
-
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
+metal uptake across a range of fungal genera and species. [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
+[[fungal-heavy-metal-biosorption-and-detoxification]]

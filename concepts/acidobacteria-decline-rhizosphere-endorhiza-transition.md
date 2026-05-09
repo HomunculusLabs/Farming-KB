@@ -116,10 +116,7 @@ What makes the Cannabis study particularly informative is the inclusion of multi
 
 ## See Also
 
-- [[cannabis-two-tier-microbiome-selection]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]
-- [[microbial-alpha-diversity-soil-plant-gradient]]
 - [[endorhiza-bacterial-communities]]
-- [[soil-edaphic-factors-microbial-communities]]
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cellvibrio-and-root-decay-microbiome]]

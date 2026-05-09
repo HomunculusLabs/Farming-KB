@@ -19,7 +19,7 @@ Sepp Holzer has developed a distinctive approach to managing problem plants
 that works with natural processes rather than fighting against them. Rather
 than relying on herbicides or intensive cultivation, he uses livestock,
 strategic planting, and ecological understanding to restore balance to
-overgrown or imbalanced areas. This approach is central to [[holzer-problem-plant-regulation]] and connects deeply to [[sepp-holzer-garden-helpers-and-pest-regulation]].
+overgrown or imbalanced areas. This approach is central to [[sepp-holzer-garden-helpers-and-pest-regulation]].
 
 ## Understanding the Causes
 
@@ -48,18 +48,8 @@ doubt themselves and forget that this change is the right decision.
 
 Mistakes that were made years or even decades ago cannot be rectified in
 such a short period of time. Nature takes a while to recover. This transition
-period is a natural part of converting to [[sepp-holzer-method]] practices.
-
-## The Livestock Approach
-
-With Holzer's farming methods, namely keeping livestock on the same land as
-crops, problem plants do not pose a real problem. Moving the paddocks ensures
-that the land is never overgrazed. It has time to recover while not in use or
-can be used to grow crops. The danger of livestock diseases is almost
-entirely prevented by the paddocks being moved and their varied diet.
-
-This system connects to [[holzer-livestock-philosophy-paddock-system]] and
-[[holzer-pig-keeping-paddock-system]]. The [[holzer-pig-integration]] is
+period is a natural part of converting to [[holzer-livestock-philosophy-paddock-system]] and
+[[holzer-pig-integration]] is
 particularly effective for problem plant regulation because pigs root and
 dig, bringing problem plants to the surface where they dry out.
 

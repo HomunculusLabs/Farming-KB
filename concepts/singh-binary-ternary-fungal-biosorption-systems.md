@@ -124,8 +124,6 @@ removal of cadmium, nickel, and zinc using 0.05 N HNO3 for elution.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-biosorption-isotherms-equilibrium-models]]
-- [[singh-fungal-biosorption-reactors-heavy-metals]]
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[fungal-binary-ternary-biosorption]]

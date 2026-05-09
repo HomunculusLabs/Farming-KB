@@ -40,7 +40,7 @@ Fries) Donk and more infrequently called Dendropolyporus
 umbellatus (Pers.:Fr.) Julich.
 
 Macroscopically [Maitake
-(stamets-maitake-[[grifola-frondosa]]-cultivation) appears to be a close relative, but biologically
+(stamets-maitake-cultivation) appears to be a close relative, but biologically
 the two have uniquely different life cycles. The close appearance
 of P. umbellatus and G. frondosa easily confuses amateur collectors.
 G. frondosa has smaller, non-cylindrical spores, lacks the
@@ -132,7 +132,7 @@ fruitings comparable to other polypores like
 
 ### Outdoor Method (Chinese Traditional)
 The roots of stumps are inoculated by digging trenches into root
-zones already parasitized by Honey Mushroom ([[armillaria-mellea]]).
+zones already parasitized by Honey Mushroom ([[armillaria-mellea-entity]]).
 Logs of beech, birch, willow, maples, and/or oaks are given
 multiple cuts into which sawdust spawn or slices of fresh sclerotia
 are packed. Logs are re-buried under sandy soil and covered with

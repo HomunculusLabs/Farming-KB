@@ -13,16 +13,7 @@ tags:
   - soil-bioremediation
   - bioaugmentation
   - biostimulation
-  - [[mycorrhiza]]
-  - in-situ-remediation
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
-type: concept
----
-
-# Soil [[fungal-bioremediation]] Strategies
+  - [[fungal-bioremediation]] Strategies
 
 Soil contamination by organic pollutants (petroleum hydrocarbons, PAHs,
 pesticides, chlorinated solvents) and heavy metals represents one of the
@@ -45,12 +36,7 @@ Bioaugmentation involves the deliberate introduction of specific
 pollutant-degrading fungal strains into contaminated soil to enhance
 the indigenous biodegradation capacity. Approaches include:
 
-- **Inoculation with white-rot fungi**: Species such as [[staycare-phanerochaete-chrysosporium-in-bioremediation]], [[staycare-trametes-versicolor-bioremediation-applications]], and [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
-  are introduced as spores, mycelial fragments, or colonized substrate
-  (wood chips, straw, grain spawn). Pre-colonized substrates provide
-  both inoculum and a nutrient base for fungal establishment.
-- **Enzyme supplementation**: Direct application of purified or crude
-  [[singh-fungal-laccase-enzymes-bioremediation]] and peroxidase
+- **Inoculation with white-rot fungi**: Species such as [[staycare-trametes-versicolor-bioremediation-applications]], and [[singh-fungal-laccase-enzymes-bioremediation]] and peroxidase
   preparations to contaminated soil.
 - **Consortium bioaugmentation**: Combined inoculation of multiple
   fungal species or fungal-bacterial consortia to achieve broader
@@ -94,28 +80,12 @@ and the environmental constraint gap (through biostimulation).
 
 ## Mycorrhizal Involvement in Soil Bioremediation
 
-[[mycorrhizal-fungi]] form symbiotic associations with plant roots and play
-important roles in soil bioremediation:
-
-### Ectomycorrhizal Fungi (ECM)
-- Form sheaths around fine roots of trees (Pinus, Quercus, Betula)
-- Produce extracellular enzymes (laccases, MnP) that degrade organic
-  pollutants in the rhizosphere
-- Species such as [[pisolithus-tinctorius]], [[laccaria-laccata]], and
-  [[suillus-luteus]] have demonstrated PAH and petroleum hydrocarbon
+[[pisolithus-tinctorius]], [[suillus-luteus]] have demonstrated PAH and petroleum hydrocarbon
   degradation capability
 - Extend the effective remediation zone beyond the root zone through
   extensive extraradical mycelial networks
 
-### [[arbuscular-mycorrhizal-fungi]] (AMF)
-- Form intracellular arbuscular structures in roots of most herbaceous
-  plants
-- Enhance phytoremediation by improving plant nutrient acquisition and
-  stress tolerance in contaminated soils
-- Reduce metal toxicity to host plants through sequestration in
-  fungal structures (vesicles and extraradical hyphae)
-- Glomus, Rhizophagus, and Funneliformis species are
-  commonly applied in [[mycorrhiza]]-assisted phytoremediation
+### [[mycorrhiza]]-assisted phytoremediation
 
 ### Mycorrhizal Mechanisms
 - Direct enzymatic degradation of organic pollutants by fungal enzymes
@@ -147,4 +117,3 @@ ligninolytic activity.
 Co-treatment of contaminated soil with organic amendments in aerated
 piles. Thermophilic composting (50-65 degrees C) followed by
 mesophilic curing allows sequential degradation by thermophilic bacteria
-and then ligninolytic fungi. White-rot fungi become dominant during the

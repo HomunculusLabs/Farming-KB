@@ -27,18 +27,6 @@ terpene content. These underdeveloped buds consume energy and nutrients that cou
 otherwise be redirected to the top of the canopy where light intensity is highest and
 bud quality is maximized. Lollipopping is one of several training techniques available
 to cannabis growers, and it relates closely to the broader practices covered in the
-[[cannabis-pruning-and-defoliation-guide]].
-
-### Why Lower Buds Are Problematic
-
-In most indoor growing environments, light intensity diminishes rapidly with distance
-from the source. A plant grown under a single overhead light will have intense light at
-the top of the canopy and significantly less light at the bottom. The lower branches
-still attempt to grow and produce flowers, but without adequate light, these buds remain
-small, loose, and often more prone to pest and disease issues because of reduced air
-circulation. By removing these lower sites before the plant invests significant energy
-into flowering them, you redirect that energy upward. This concept is closely related to
-defoliation, which is explored in depth in
 [[query-what-is-defoliation-and-when-should-i-defoliate-cannabis]].
 
 ### When to Lollipop
@@ -53,7 +41,7 @@ not recommended because the plant is still building its structure, and removing 
 can slow overall growth. Waiting too long into flowering reduces the benefit because the
 plant has already begun investing energy into those lower bud sites. The relationship
 between vegetative preparation and flowering results is central to
-[[cannabis-vegetative-growth-stage]] and [[cannabis-flowering-stage]] management.
+[[cannabis-flowering-stage]] management.
 
 ### How to Lollipop: Step by Step
 
@@ -74,9 +62,6 @@ are important distinctions. Standard pruning involves selectively removing branc
 improve structure and light penetration. Defoliation involves removing individual leaves
 to improve airflow and light exposure to bud sites. Topping involves cutting the main
 apical stem to encourage lateral branching, as described in
-[[cannabis-topping-training]]. Lollipopping specifically targets the lower portion of
-the plant and is focused on removing entire branches and bud sites rather than individual
-leaves. For a detailed comparison of these approaches, see
 [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]].
 
 ### Combining Lollipopping with Training
@@ -86,45 +71,11 @@ Training (LST), Screen of Green (ScROG), and topping all help create an even can
 that maximizes light distribution. When these techniques have been applied during the
 vegetative stage, lollipopping at the flip to flowering becomes more straightforward
 because the canopy is already relatively flat and even. This multi-technique approach
-is discussed in [[query-which-cannabis-training-techniques-produce-highest-yields]].
-The combination of an even canopy from training and clean lower growth from lollipopping
-creates optimal conditions for large, dense, high-quality colas.
-
-### Potential Drawbacks and Risks
-
-While lollipopping is generally beneficial, there are risks if done improperly.
-Over-pruning can stress the plant significantly, slowing growth and potentially reducing
-overall yield rather than increasing it. Removing too much foliage can also reduce the
-plant's photosynthetic capacity, which is counterproductive. Additionally, the fresh cut
-wounds created during lollipopping create entry points for pathogens. Work with clean
-tools, avoid pruning when the environment is humid (above 60 percent relative humidity),
-and ensure good airflow after pruning to help cuts dry quickly. Some growers apply a
-small amount of cinnamon or diluted hydrogen peroxide to cut surfaces to prevent
-fungal infection, though this is not always necessary in a well-maintained grow space.
-
-### Results to Expect
-
-After lollipopping, you can expect the top colas to be larger and denser than they
-would have been on an unpruned plant. The overall number of bud sites is reduced, but
-the quality and size of the remaining sites more than compensate. Many growers report
-that lollipopped plants produce fewer but significantly higher-quality buds, with
-improved density, trichome production, and bag appeal. The lower portion of the plant,
-once a tangle of small airy buds, becomes clean and open, improving airflow and making
-the plant easier to maintain and harvest.
-
-## Key Points
-- Lollipopping removes the bottom one-third of branches and bud sites to redirect plant
-  energy toward top colas that receive the most light
-- Perform lollipopping just before or within the first one to two weeks of flowering
-  for best results; timing is critical for maximizing energy redirection
-- Use clean, sharp tools to remove entire branches at the main stem junction; never
-  remove more than one-third of total foliage at once
-- Lollipopping complements other training techniques like [[cannabis-topping-training]]
+is discussed in [[cannabis-topping-training]]
   and ScROG, creating an even canopy that maximizes light efficiency
 - Expect fewer but larger, denser, and higher-quality buds with improved airflow and
   easier maintenance compared to unpruned plants
 
 ## Related Questions
-- [[cannabis-pruning-and-defoliation-guide]]
 - [[query-what-is-defoliation-and-when-should-i-defoliate-cannabis]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]

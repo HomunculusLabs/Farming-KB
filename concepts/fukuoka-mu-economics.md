@@ -70,7 +70,7 @@ Mu economics is the economic expression of Fukuoka's three principles:
 2. Nothing has intrinsic value (price reflects artificial scarcity, not natural abundance)
 3. Anything done with the human intellect is worthless (economic planning creates the problems it claims to solve)
 
-It also connects to [[fukuoka-critique-darwinian-evolution]] (the same error of imposing human relativism on nature) and [[fukuoka-food-and-health-philosophy]] (food as the foundation of the economic system).
+It also connects to [[fukuoka-food-and-health-philosophy]] (food as the foundation of the economic system).
 
 ## Source
 
@@ -80,9 +80,6 @@ updated: 2026-04-18
 
 ## See Also
 
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-farming-for-all-quarter-acre-vision]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-mu-economics-and-value-of-nothing-essay]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]

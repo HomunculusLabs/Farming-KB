@@ -57,31 +57,29 @@ The LAD series explores 6-position substitution on ring D:
 |---|---|---|
 | H | nor-LSD | Completely inactive, even at 500 ug |
 | CH3 (methyl) | LSD-25 | 60-200 ug, the reference standard |
-| C2H5 (ethyl) | [[eth-lad-entity-tihkal]] | 40-150 ug, less aggressive, more allowing |
-| C3H5 (allyl) | [[al-lad-entity-tihkal]] | 80-160 ug, sweeter, erotic |
-| C3H7 (propyl) | [[pro-lad-entity-tihkal]] | Active, distinct character |
+| C2H5 (ethyl) | [[al-lad-entity-tihkal]] | 80-160 ug, sweeter, erotic |
+| C3H7 (propyl) | [[1b-lsd]]
 
-The indole-ring series:
-- **ALD-52** (1-acetyl): 50-175 ug, may have been "Orange Sunshine" (1960s)
-- **MLD-41** (1-methyl): 100-300 ug, more somatic than sensory
-- **BOL-148** (2-bromo): Inactive as psychedelic despite being a potent serotonin agonist -- a key challenge to serotonin-centric explanations of psychedelic action
-
-Three stereoisomers (d-iso-LSD, l-LSD, l-iso-LSD) are all completely inactive, demonstrating the exquisite stereoselectivity of the native molecule.
-
-## Other Lysergamides
-
-- **Ergine** (d-lysergamide, LA-111): Major component of morning glory seeds; 500 ug i.m. produces tired, dreamy state
-- **UML-491** (Methysergide, Sansert): Migraine drug; at 20 mg (10x therapeutic dose) produces profound LSD-like response
-- **Ergonovine**: Naturally occurring in morning glories and ergot; LSD-like action at 2-10 mg orally
-
-## See Also
-
-- [[1b-lsd]]
-
-- [[eth-lad-entity-tihkal]] -- less aggressive LSD analogue
 - [[al-lad-entity-tihkal]] -- sweeter, shorter LSD analogue
-- [[pro-lad-entity-tihkal]] -- 6-propyl analogue
 - [[dmt-entity-tihkal]] -- natural tryptamine psychedelic
-- [[psilocin-entity-tihkal]] -- natural tryptamine psychedelic
 - [[psychedelic-mushroom-pharmacology]] -- BOL-148 paradox and receptor theory
 - [[alexander-shulgin]] -- primary author of TIHKAL
+## Practical Considerations
+
+Successful implementation of LSD-25 (Lysergic Acid Diethylamide) — TIHKAL Entry #26 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

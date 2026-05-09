@@ -139,10 +139,7 @@ For cloning and seed starting:
 
 ## See Also
 
-- [[cervantes-growing-medium]]
 - [[cervantes-hydroponic-systems]]
-- [[cervantes-rockwool-growing-substrate]]
 - [[cervantes-soil-amendments-perlite-vermiculite-pumice]]
-- [[cervantes-ph-management-testing]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[cervantes-container-gardening-pot-size]]

@@ -113,9 +113,6 @@ Alfalfa originated in central Asia, likely in the region of modern-day Iran (anc
 The development of fall-dormant cultivars in the 1970s–80s expanded its range into cold continental climates. Today, alfalfa is grown on approximately 30 million hectares worldwide, with the United States, Argentina, Russia, and China as leading producers. Its role in sustainable agriculture continues to expand as regenerative and permaculture practitioners rediscover its multifunctional benefits.
 
 ## See Also
-- [[comfrey-permaculture]]
 - [[black-locust-entity]]
-- [[food-forest]]
 - [[hugelkultur]]
-- [[biochar]]
 - [[silvopasture]]

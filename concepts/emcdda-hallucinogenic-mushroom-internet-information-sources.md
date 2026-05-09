@@ -135,8 +135,6 @@ cultivation as an alternative source of supply.
 
 - [[emcdda-retailer-risk-information-quality]]
 
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-psilocybin-mushroom-species-and-identification]]

@@ -136,14 +136,8 @@ A systematic approach to guild design:
 ### Root Depth Layering
 ## See Also
 
-- [[comparison-fruit-tree-guilds-vs-companion-planting]]
 - [[natural-farming-guide-companion-planting-guilds]]
-- [[permaculture-plant-guilds-companion-planting]]
 - [[query-how-does-companion-planting-work-in-a-food-forest]]
-- [[comparison-companion-planting-vs-crop-rotation]]
-
-- Food-Forests — Multi-layered perennial polyculture systems built from guild design principles
 - [[nitrogen-fixing-plants]] — Comprehensive list of leguminous and actinorhizal nitrogen fixers
-- [[dynamic-accumulators]] — Plants that mine minerals from deep soil layers
 - [[keyline-design]] — Water management system that integrates with guild and food forest layout
 - [[hugelkultur]] — Raised bed technique using woody debris, often planted with companion guilds

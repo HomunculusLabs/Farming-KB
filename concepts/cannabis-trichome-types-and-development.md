@@ -77,20 +77,11 @@ Strains may also be bred for resin tenacity — the degree to which resin heads 
 
 ## See Also
 
-- [[cannabis-trichome-guide]]
-
 - [[cannabis-flowering-stage-management]]
-
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
 
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
 
-- [[cannabis-harvest-and-curing]]
-
 - [[cannabis-flowering-stage-management]]
 
-- [[cannabis-genetics-and-breeding]]
-
 - [[cannabis-breeding-basics]]
-- [[cannabis-chemotype-classification-cannabinoid-breeding]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]

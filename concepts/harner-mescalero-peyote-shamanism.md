@@ -80,11 +80,6 @@ The peyote ceremonies were never accompanied by the acceptance of Christian beli
 
 ## See Also
 
-- [[mescalero-apache-shamanism-peyote-adoption-rejection]]
-
 - [[hallucinogens-and-shamanism-harner-anthology]]
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[ethnomycology]]
 - [[harner-shamanic-journey-and-altered-states]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]

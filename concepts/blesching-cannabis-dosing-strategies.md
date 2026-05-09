@@ -1,8 +1,8 @@
 ---
-title: Cannabis Dosing Strategies (Blesching, Cannabis Health Index)
+title: Blesching Cannabis Dosing Strategies
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The Cannabis Health Index (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-health-index-dosage-guidelines-medical blesching-cannabis-health-index-cannabinoid-terpene-synergy"
 type: concept
 tags: [cannabis]
@@ -16,21 +16,7 @@ While the existing dosage guidelines page covers the subjective therapeutic
 window and administration methods, this page focuses on condition-specific
 dosing strategies, strain selection principles, THC:CBD ratio optimization, and
 practical titration protocols derived from Blesching's extensive review of
-clinical studies. For the pharmacological basis of THC and CBD, see [[blesching-cannabinoid-pharmacology]].
-
-## The Subjective Therapeutic Window -- Core Principle
-
-The vast majority of adverse effects are directly related to using cannabis in
-excess of the subjective therapeutic window. This window is governed by three
-things:
-
-1. The body's present endocannabinoid state (relative balance or deficiency)
-2. The cannabinoid profile in the medicine to be taken
-3. The form in which it is consumed
-
-Too little can be sub-optimal, while too much can actually increase the very
-symptoms you are attempting to treat. For instance, using cannabis to reduce
-anxiety but taking too much too rapidly can multiply anxiety. See [[cannabis-anxiety-research]] for condition-specific evidence.
+clinical studies. For the pharmacological basis of THC and CBD, see [[cannabis-anxiety-research]] for condition-specific evidence.
 
 ## CB1 vs CB2 Deficiency-Based Dosing
 
@@ -118,11 +104,7 @@ Blesching's studies reveal condition-specific dose sensitivity:
 |---------------|------------------|---------------|-----------------|-----------|
 | Depression | Sativa | Higher THC:Lower CBD | CB1 | Daytime |
 | Anxiety | Indica | Lower THC:Higher CBD | CB2 | Evening |
-| Chronic pain | Balanced/Hybrid | Moderate | CB1+CB2 | As needed (see [[cannabis-chronic-pain-management]]) |
-| Inflammation | Indica | Lower THC:Higher CBD | CB2 | As needed |
-| Appetite | Sativa | Higher THC | CB1 | Before meals |
-| Insomnia | Indica | Higher CBD | CB2 | Bedtime |
-| Seizures | Indica/Raw | High CBD | CB2 | Scheduled (see [[cannabis-for-epilepsy-and-seizure-disorders]]) |
+| Chronic pain | Balanced/Hybrid | Moderate | CB1+CB2 | As needed (see [[cannabis-for-epilepsy-and-seizure-disorders]]) |
 | Palliative | Varies | Varies | CB1+CB2 | As needed |
 
 ## Raw Cannabis as a Dosing Strategy
@@ -147,3 +129,7 @@ any mind-altering effect occurs. This is particularly relevant for:
 - Many conditions demonstrate narrow therapeutic windows requiring careful
   titration
 - Low doses are often sufficient and better tolerated than high doses
+
+## See Also
+
+- [[blesching-cannabis-therapeutic-window-dosing]]

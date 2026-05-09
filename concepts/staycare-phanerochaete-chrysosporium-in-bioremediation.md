@@ -114,10 +114,7 @@ P. chrysosporium degrades multiple PAHs through its ligninolytic system:
 
 ## See Also
 
-- [[phanerochaete-chrysosporium]]
-
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 

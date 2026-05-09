@@ -137,13 +137,9 @@ the voyager from being overwhelmed by the intensity of the experience. The combi
 darkness, minimal talking, and continuous singing works synergistically to prevent the
 common problem of becoming "stuck" in a particular vision, emotion, or thought loop. The
 presence of continuous singing allows the participant to surrender without the anxiety of
-having nothing to hold onto. Darkness removes external light competition, allowing internally
 ## See Also
 
 - [[metzner-shamanic-healing-and-divination-paradigm]] for the broader shamanic framework
-- [[metzner-four-paradigms-psychedelic-healing]] for comparative paradigms
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for modern adaptations
-- [[talking-staff-and-council-practice-in-entheogenic-ceremonies]] for the talking staff practice
 - [[harner-shamanic-journey-and-altered-states]] for Northern Hemisphere drumming traditions
 - [[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]] for syncretic forms
-- [[metzner-ibogaine-addiction-treatment]] for Bwiti and iboga

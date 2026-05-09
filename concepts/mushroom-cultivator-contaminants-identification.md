@@ -114,13 +114,8 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 
 ## See Also
 
-- [[cultivator-contaminants-of-mushroom-culture]]
-
 - [[stamets-contamination-identification-and-control]] -- Stamets' complete contaminants chapter
-- [[mushroom-contaminant-identification-key]] -- general contaminant identification
 - [[mushroom-contamination-control-strategies]] -- identification key
-- [[mushroom-cultivator-contamination-prevention]] -- prevention strategies
 - [[mushroom-sterile-technique-detailed]] -- sterile technique methods
-- [[bacteria-and-microorganisms-in-mushroom-fruiting]] -- bacteria in fruiting
 - [[sterile-technique-mushroom-cultivation]]
 - [[environmental-control-mushroom-growing]]

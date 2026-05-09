@@ -113,23 +113,14 @@ it from the *A. muscaria* group despite the superficial similarity in cap colora
 
 ## Related Species
 
-- **[[amanita-muscaria]]** — Fly agaric; orange cap with white warts, yellow volva,
-  contains ibotenic acid and muscimol. Visually similar but toxic and psychoactive.
-
 - **[[amanita-phalloides]]** — Death cap; greenish cap, white gills, cup-shaped volva.
   Contains lethal amatoxins. The most dangerous lookalike.
-
-- **[[boletus-edulis-entity]]** — Porcini; also a prized edible mycorrhizal species sharing
-  the same oak-chestnut forest habitat.
 
 - **[[cantharellus-cibarius-entity]]** — Golden chanterelle; co-occurs in similar habitats,
   another premium wild edible with overlapping fruiting seasons.
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[lactarius-deliciosus]]
-- [[russula-vesca]]
 - [[tricholoma-terreum]]
-- [[pleurotus-ostreatus]]
 - [[psilocybe-cubensis]]

@@ -35,39 +35,7 @@ start here.
 
 Fukuoka declares that all of Europe, then, is a cattle
 ranch. Europe may have shovels for digging but because it
-has no terraces or irrigation ponds, the [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] continues to
-wash away, depleting the land. It may appear as if European
-farmers take good care of their land, but the land is
-actually being ruined.
-
-When you raise cattle and horses, you can't afford to have
-them get injured, so terraces were eliminated and the land
-smoothed out. The slopes are green and beautiful. Europeans
-are proud of this, but although the cows and horses may be
-delighted, the land itself is crying.
-
-He believes the fact that this situation has continued for
-two or three hundred years is responsible for the
-impoverishment of the rural communities. The land has been
-ruined by a different form of agriculture than in America,
-a form of agriculture that began with the castles and wine.
-
-## Culture Arises from Agriculture
-
-When Fukuoka saw this, he began to sense clearly that
-culture arises from agriculture. There is nothing wrong
-with having churches, but churches have gone wrong somewhere.
-In Italy, he saw carved images of Christ by the roadside
-which reminded him of the Jizo statuettes common to the
-roads of Japan. These were actually cute and he much
-preferred them to the churches. Nothing more is necessary.
-
-The spirit of Christ wells up and causes you to reflect
-whenever you walk along the road or work in the fields. The
-image of Christ does not appear at all as you enter a
-church. Christ lives only within those small, sheltered
-images by the side of the road; he does not live within the
-churches. See [[fukuoka-road-churches-and-god]].
+has no terraces or irrigation ponds, the [[fukuoka-road-churches-and-god]].
 
 ## Grapes and Soil Depletion
 
@@ -117,28 +85,5 @@ philosophical errors. European civilization's beauty, he
 argues, masks a deeper impoverishment that began when
 agriculture was directed toward serving the desires of
 kings and clergy rather than the needs of the land itself.
-See also [[fukuoka-european-civilization-standstill]], [[fukuoka-european-agriculture-observations]], and [[fukuoka-food-civilization-critique]].
-
-## The Difference Between Japanese and European Farming
-
-In Japan, the terraced rice paddies and irrigation ponds
-that characterize the landscape represent an agriculture
-that works with the contours of the land, conserving soil
-and water. By contrast, European agriculture, designed to
-serve the needs of cattle ranching and wine production,
-smoothed out the natural contours and eliminated the
-terraces that would have prevented erosion.
-
-This difference is not merely technical but reflects a
-fundamental philosophical divide. Where Japanese farming
-emerged from a desire to live within nature's embrace,
-European farming emerged from the desire to extract specific
-products -- meat and wine -- to serve human institutions.
-The result is a beautiful but ecologically impoverished
-landscape where the land itself is crying beneath the green
-surfaces that delight the eye.
-
-## See Also
-
-- [[fukuoka-road-flowers-and-beauty]]
+See also [[fukuoka-european-agriculture-observations]], and [[fukuoka-road-flowers-and-beauty]]
 - [[fukuoka-road-weapons-for-defense]]

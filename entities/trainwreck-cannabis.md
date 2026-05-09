@@ -136,14 +136,9 @@ Trainwreck holds a unique position in cannabis culture as one of the quintessent
 
 ## See Also
 
-- [[cannabis-sativa]] — The sativa species contributing Trainwreck's dominant effects
 - [[cannabis-indica]] — The indica species providing body relaxation and resin production
-- [[pinene]] — Dominant terpene responsible for Trainwreck's pine aroma
 - [[myrcene]] — Secondary terpene contributing to the entourage effect
-- [[limonene]] — Citrus terpene providing mood elevation
 - [[tetrahydrocannabinol-thc]] — Primary psychoactive cannabinoid in Trainwreck
 - northern-lights — Classic indica in many hybrid breeding programs
-- [[jack-herer]] — Another foundational Northern California-era hybrid
 - [[og-kush]] — Southern California counterpart and fellow legacy strain
-- [[sour-diesel]] — East Coast sativa-dominant strain from the same era
 - [[cannabis-blue-dream]] — Blueberry × Haze cross with a similar balanced profile

@@ -21,12 +21,7 @@ model of biological diversity and complementary agricultural
 practices promotes a sustainable environment via the
 interplay of natural ecosystems.
 
-When gourmet and [[medicinal-mushrooms]] are involved as key
-organisms in the recycling of agricultural and forest
-by-products, the biodynamics of permaculture soar to
-extraordinary levels of productivity. Not only are mushrooms
-a protein-rich food source for humans, but the by-products
-of [[mushroom-cultivation]] unlock nutrients for other members
+When gourmet and [[mushroom-cultivation]] unlock nutrients for other members
 of the ecological community.
 
 ## Key Integration Strategies
@@ -131,7 +126,5 @@ Maitake, Reishi, and other medicinal species. Clear
 economic, ecological, medicinal, and moral incentives
 support such models.
 
-See also: [[growing-gourmet-natural-culture-myco-landscaping]]
 See also: [[growing-gourmet-king-stropharia-cultivation]]
-See also: [[growing-gourmet-species-sequencing-substrate-recycling]]
 See also: [[growing-gourmet-oyster-cultivation]]

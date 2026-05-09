@@ -5,29 +5,12 @@ type: chemical
 tags:
   - alkaloid
   - ergoline
-  - [[tryptamine]]
-  - ergot
-  - psychedelic-compound
-  - pharmacology
-  - lysergamide
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Hofmann, A. (1978). \"LSD — My Problem Child.\" McGraw-Hill."
-  - "Schardl, C.L. et al. (2006). \"Ergot alkaloids — biology and molecular biology.\" Alkaloids: Chemical and Biological Perspectives, 63, 45-86."
-  - "Pertz, H.H. & Eich, E. (1999). \"Ergot alkaloids and their derivatives as ligands for serotoninergic, dopaminergic, and adrenergic receptors.\" Pharmacology & Therapeutics, 82(2-3), 133-154."
-  - "Wallwey, C. & Li, S.-M. (2011). \"Ergot alkaloids: structure diversity, biosynthetic gene clusters and functional proof.\" Applied Microbiology and Biotechnology, 92(5), 849-865."
----
-# Ergoline
-
-## Overview
-
-Ergoline is a tetracyclic chemical scaffold composed of a fused [[indole]] and
+  - [[indole]] and
 quinoline ring system, serving as the core structure of one of the most
 pharmacologically diverse alkaloid familquery-what-is-bioacoustics-and-how-is-sound-used-in-natureture.
 
 The ergoline nucleus is found in over 80 naturlysergic-acid-amide-discovery-in-ololiuhquispanning four
-structural classes: clavin [[lysergic-acid-amide]] aci [[morning-glory-lsa-and-ergoline-alkaloids]] lory-lsa-and-ergoline-alkaloidses), ergopeptines,
+structural classes: clavin [[morning-glory-lsa-and-ergoline-alkaloids]] lory-lsa-and-ergoline-alkaloidses), ergopeptines,
 and ergoline derivatives with modified ring systems.
 
 Ergoline alkaloids exhibit activity at serotonin, dopamine, and adrenergic
@@ -52,7 +35,7 @@ specificity.
 ### Structural Classes
 
 1. **Clavines** — Simple ergolines without the C-8 carboxyl group.
-   Include [[agroclavine]], [[elymoclavine]], and chanoclavine.
+   Include [[elymoclavine]], and chanoclavine.
    Biosynthetic precursors to all more complex ergolines.
 
 2. **Lysergic acid amides (lysergamides)** — Ergolines with a carboxyl
@@ -96,11 +79,8 @@ at C-8 (R vs. S configuration of lysergic vs. isolysergic acid).
 
 Ergoline alkaloids are produced by three groups of organisms:
 
-- **Clavicipitaceous fungi** — *[[claviceps-purpurea]]* (ergot fungus) on
-  cereal grasses; *Neotyphodium* and *Epichloë* endophytes in grasses.
-- **Higher plants** — *Ipomoea* spp. (morning glories), *[[argyreia-nervosa]]*
-  (Hawaiian baby woodrose), *[[rivea-corymbosa]]* (ololiuqui).
-- **Ascomycete fungi** — *[[aspergillus-fumigatus]]* and related saprobes.
+- **Clavicipitaceous fungi** — *[[argyreia-nervosa]]*
+  (Hawaiian baby woodrose), *[[aspergillus-fumigatus]]* and related saprobes.
 
 Biosynthesis proceeds from L-tryptophan via prenylation by dimethylallyl
 tryptophan synthase (DMATS), followed by methylation, oxidation, and
@@ -141,7 +121,7 @@ and influenced the Salem witch trials hypothesis.
 century led to drugs for migraine (ergotamine), postpartum hemorrhage
 (ergometrine), and Parkinson's disease (bromocriptine, pergolide).
 
-**Psychedelics** — [[albert-hofmann]]'s synthesis of LSD-25 in 1938 and
+**Psychedelics** — gordon-wasson's synthesis of LSD-25 in 1938 and
 discovery of its psychoactive effects in 1943 launched psychedelic
 research. LSD became central to 1960s counterculture and remains the most
 studied psychedelic compound.

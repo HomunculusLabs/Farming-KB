@@ -17,10 +17,9 @@ sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK532688/
   - https://www.henriettes-herb.com/eclectic/king/calendula.html
 ---
-
 # Calendula Cultivation and Medicinal Uses
 
-**Calendula officinalis**, commonly known as pot marigold, English marigold, or simply calendula, is one of the most versatile and widely cultivated medicinal herbs in temperate gardens worldwide. A member of the **Asteraceae** family, calendula has been used for centuries in traditional European herbalism, Ayurveda, and Traditional Chinese Medicine for its potent anti-inflammatory, wound-healing, and antimicrobial properties. Unlike the ornamental marigolds of the *Tagetes* genus, true calendula offers edible flowers with significant pharmacological activity.
+**Calendula officinalis**, commonly known as pot marigold, English marigold, or simply calendula, is one of the most versatile and widely cultivated medicinal herbs in temperate gardens worldwide. A member of the **Asteraceae** family, calendula has been used for centuries in traditional European herbalism, Ayurveda, and Traditional Chinese Medicine for its potent anti-inflammatory, wound-healing, and antimicrobial properties. Unlike the ornamental marigolds of the *Tagetes* genus, true calendula offers query-how-do-i-grow-edible-flowers-in-a-permaculture-garden with significant pharmacological activity.
 
 ## Botanical Profile
 
@@ -87,10 +86,8 @@ Start indoors 4–6 weeks before the last frost. Use cell trays or small pots; c
 
 - **Temperature**: Optimal growth at 15–25°C (60–77°F). Calendula tolerates light frost and will survive temperatures down to -5°C (23°F). In hot climates (consistently above 30°C/86°F), flowering declines and plants may bolt or become leggy.
 - **Sun**: Full sun (6–8+ hours) produces the most compact plants and abundant flowers. Partial shade (4–6 hours) is acceptable in hot climates and can extend the flowering season into summer.
-- **Water**: Water regularly during establishment (first 3–4 weeks), then reduce to moderate watering. Established plants are fairly drought-tolerant but produce more flowers with consistent moisture. Avoid overhead watering, which promotes powdery mildew.
-- **Fertilization**: Light feeder. Side-dress with compost or a balanced organic fertilizer once at planting. Additional feeding is rarely needed and may reduce flower production.
-
-### Harvesting
+- **Water**: Water regularly during establishment (first 3–4 weeks), then reduce to [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]] g. Established plants are fairly drought-tolerant but produce more flowers with consistent moisture. Avoid overhead watering, which promotes [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]].
+- **Fertilization**: Light feeder. Side-dress with compost or a balanced organic fertilizer once at planting. Additional feeding is rarely needed and may reduce flower pro [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] esting
 
 Harvest calendula flowers when they are fully open, ideally in the morning after dew has dried but before the heat of the day drives off volatile compounds. Pick flowers with a short length of stem attached. Regular harvesting (every 2–3 days) promotes continuous blooming — calendula is a "cut-and-come-again" flower.
 
@@ -102,7 +99,7 @@ For medicinal use, harvest only the **ray florets** (the outer petals), as the d
 - **Dehydrator**: Use the lowest setting (35–40°C/95–104°F) to preserve medicinal compounds. Higher temperatures degrade triterpenoids.
 - **Storage**: Store dried petals in airtight glass jars away from light and heat. Properly dried calendula retains potency for 12–18 months.
 
-### Pest and Disease Management
+### Pest [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]] Management
 
 Calendula is relatively pest-resistant, which makes it valuable as a companion plant. Common issues include:
 
@@ -153,7 +150,7 @@ Calendula's bright, cheerful flowers make it an excellent edible landscape plant
 
 ### Active Compounds
 
-Calendula's medicinal activity comes from a complex matrix of bioactive compounds:
+Calendula's med [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] es from a complex matrix of bioactive compounds:
 
 #### Triterpenoids (Primary Active Compounds)
 
@@ -305,7 +302,7 @@ Beyond its medicinal and companion planting roles, calendula provides significan
 
 - **Pollinator support**: The open flower structure provides easy access to nectar and pollen for bees, butterflies, hoverflies, and other pollinators. Calendula blooms prolifically over a long season, providing consistent food when other flowers may be scarce.
 - **Erosion control**: Dense, bushy plants hold soil on slopes and banks.
-- **Soil improvement**: Calendula roots help break compacted soil. At season's end, plants can be chopped and dropped as green mulch, adding organic matter.
+- **Soil improvement**: Calendula roots help break compacted soil. At [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] nd, plants can be chopped and dropped as green mulch, adding organic matter.
 - **Food forest integration**: Excellent understory plant in food forests, providing both medicinal harvest and ecological services.
 
 ## Harvest Yields and Economics
@@ -336,7 +333,7 @@ Calendula is generally regarded as safe (GRAS) for most people when used appropr
 ## See Also
 
 - [[comfrey-cultivation-and-uses]] — another powerhouse wound-healing herb for the permaculture garden
-- [[chamomile-cultivation-and-uses]] — compare calendula's anti-inflammatory properties with chamomile
-- [[yarrow-cultivation-and-uses]] — traditional wound herb with styptic properties
-- [[lavender-cultivation-and-uses]] — complementary anti-inflammatory and calming herb
+- chamomile cultivation and uses — compare calendula's anti-inflammatory properties with chamomile
+- yarrow cultivation and uses — traditional wound herb with styptic properties
+- lavender cultivation and uses — complementary anti-inflammatory and calming herb
 - [[stinging-nettle-cultivation-foraging-nutrition-and-uses]] — nutrient-dense companion for calendula preparations

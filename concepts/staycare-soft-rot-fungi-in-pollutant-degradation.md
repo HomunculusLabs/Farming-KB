@@ -129,15 +129,9 @@ fungal activity over other decay types.
 
 ## Related Concepts
 
-- [[fungal-wood-decay-types]] — Comparative overview of white rot,
-  brown rot, and soft rot decay strategies
 - [[fungal-lignocellulose-degradation-mechanisms]] — Detailed treatment
   of enzymatic lignocellulose breakdown pathways
-- [[brown-rot-fungi-biodegradation]] — Brown rot decay mechanisms and
-  their role in bioremediation
 - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] — Plant
   cell wall polymer degradation by fungi
-- [[fungal-saltmarsh-decomposition-systems]] — Soft rot ascomycetes in
-  salt marsh ecosystems
 - [[fungal-enzymatic-capabilities]] — Overview of fungal enzyme systems
   relevant to bioremediation

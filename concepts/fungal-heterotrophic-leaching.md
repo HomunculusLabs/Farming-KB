@@ -3,14 +3,7 @@ title: Fungal Heterotrophic Leaching
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-# Fungal Heterotrophic Leaching
-
-## Overview
-
-Heterotrophic leaching uses fungi and other heterotrophic microorganisms to solubilize metals from solid materials through organic acid production. Unlike autotrophic bioleaching (by Thiobacillus spp. of sulfide minerals), heterotrophic leaching is particularly effective for non-sulfide minerals — silicates, carbonates, oxides, and phosphates — which cannot be attacked by sulfur-oxidizing bacteria. See [[fungal-metal-redox-transformations-detailed]] for the underlying solubilization chemistry.
+tags: [[fungal-metal-redox-transformations-detailed]] for the underlying solubilization chemistry.
 
 ## Historical Background
 
@@ -117,17 +110,8 @@ Lateritic nickel ores (Ni, Fe, Co, Ca, Mg), bauxite (Al, Fe, Si), ferromanganese
 
 ## See Also
 
-- [[fungi-in-the-environment-biological-weathering-mechanisms]]
-
 - [[mycoremediation-heavy-metals-detailed]] for overview of fungal heavy metal remediation approaches
-- [[fungal-metal-redox-transformations-detailed]] for the chemistry of metal transformations by fungi
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[factors-affecting-mycoremediation-efficiency]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[fungal-heavy-metal-biosorption-detailed]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 - [[staycare-fungal-heterotrophic-leaching-biosorption]]

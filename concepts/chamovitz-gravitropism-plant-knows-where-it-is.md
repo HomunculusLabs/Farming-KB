@@ -141,8 +141,6 @@ Understanding gravitropism has practical implications for horticulture and agric
 
 ## See Also
 
-- [[gravitropism]] — general concept of gravity-directed plant growth
 - [[tropisms-psilocybe-cubensis-gravitropism]] — gravitropism in fungal systems
-- [[phototropism]] — light-directed growth responses
-- [[chamovitz-photoperiodism-phytochrome-plant-vision]] — Chamovitz on how plants perceive light
+- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] — Chamovitz on how plants perceive light
 - [[stomata-transpiration-and-plant-water-regulation]] — plant environmental sensing mechanisms

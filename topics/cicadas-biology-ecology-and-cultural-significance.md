@@ -123,7 +123,7 @@ Each brood is designated by a Roman numeral (Iâ€“XVII for 17-year broods, XVIIIâ
 Cicada emergences are among the most dramatic pulsed nutrient events in temperate ecosystems. When millions of adult cicadas die after reproduction, their decomposing bodies release a massive pulse of nitrogen, phosphorus, and carbon into the soil. Studies have documented:
 - Significant increases in soil nitrogen availability following emergences.
 - Enhanced growth of understory plants in subsequent growing seasons.
-- Elevated microbial activity and decomposition rates.
+- Elevated microbial activity and [[decomposition]] rates.
 - Transfer of deep-soil nutrients (accumulated by long-lived nymphs feeding on deep roots) to the surface ecosystem.
 
 This nutrient pulse is ecologically analogous to marine salmon runs in terrestrial streams.
@@ -230,7 +230,7 @@ The world's largest cicada, found in Southeast Asia. With a wingspan exceeding 1
 
 ## See Also
 
-- [[periodical-cicadas-and-magicicada-broods]]
+- periodical cicadas and magicicada broods
 - [[entomopathogenic-fungi-and-biological-pest-control]]
 - [[beneficial-insects-and-biological-pest-control]]
 - [[the-soil-food-web]]

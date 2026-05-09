@@ -9,7 +9,7 @@ sources:
 ---
 # Claude Naranjo
 
-Claude Naranjo (1932-2019) was a Chilean-born psychiatrist, psychotherapist, and pioneer of psychedelic therapy. Known for his systematic exploration of multiple psychedelic compounds in therapeutic settings and for developing the "One-to-One" model of psychedelic-assisted psychotherapy. See [[dpt-compound-profile]] for one of his key research compounds and [[lsd-therapeutic-history]] for broader clinical context.
+Claude Naranjo (1932-2019) was a Chilean-born psychiatrist, psychotherapist, and pioneer of psychedelic therapy. Known for his systematic exploration of multiple psychedelic compounds in therapeutic settings and for developing the "One-to-One" model of psychedelic-assisted psychotherapy. See [[lsd-therapeutic-history]] for broader clinical context.
 
 ## Biography
 
@@ -25,22 +25,8 @@ Naranjo was one of the few researchers to conduct systematic comparative studies
 
 ### Compounds Studied
 
-- **Harmaline:** Investigated the beta-carboline alkaloid found in [[beta-carboline-chemistry]] and Banisteriopsis caapi. Explored its effects on consciousness and its potential as a therapeutic adjunct.
-- **MDA (3,4-methylenedioxyamphetamine):** Conducted early therapeutic research with MDA, predating the more widespread study of MDMA. Found it useful for facilitating emotional release and interpersonal insight.
-- **Ibogaine:** Explored ibogaine's oneirophrenic (dream-like) properties and its potential for interrupting addictive patterns. His work contributed to early interest in ibogaine for addiction treatment. See [[psychedelic-plant-sources]] for iboga context.
-- **DPT (N,N-dipropyltryptamine):** Conducted extensive clinical research with DPT, documenting its therapeutic applications in psychotherapy. DPT produced psychedelic experiences comparable to DMT but with a longer duration, making it more practical for therapeutic sessions. See [[dpt-compound-profile]] for detailed pharmacology.
-
-## The One-to-One Model
-
-Naranjo developed the "One-to-One" approach to psychedelic psychotherapy, which emphasized:
-
-- Individual (one patient, one therapist) sessions rather than group settings
-- The therapist as an active guide and co-explorer rather than a passive observer
-- Integration of Gestalt therapy techniques during the psychedelic experience
-- Focus on emotional release, body awareness, and psychological insight
-- The therapeutic relationship as the primary vehicle for healing
-
-This model contrasted with the more detached approaches used in some clinical psychedelic research of the era and prefigured modern [[psychedelic-therapy-set-and-setting]] frameworks that emphasize the critical role of the therapeutic relationship.
+- **Harmaline:** Investigated the beta-carboline alkaloid found in [[psychedelic-plant-sources]] for iboga context.
+- **DPT (N,N-dipropyltryptamine):** Conducted extensive clinical research with DPT, documenting its therapeutic applications in psychotherapy. DPT produced psychedelic experiences comparable to DMT but with a longer duration, making it more practical for therapeutic sessions. See [[psychedelic-therapy-set-and-setting]] frameworks that emphasize the critical role of the therapeutic relationship.
 
 ## Enneagram and Gestalt Contributions
 
@@ -59,15 +45,65 @@ Beyond psychedelic research, Naranjo made major contributions to:
 
 ## Legacy
 
-Naranjo's systematic comparative approach to psychedelic substances and his emphasis on the therapeutic relationship influenced the modern resurgence of psychedelic therapy. His integration of Gestalt techniques with psychedelic sessions helped establish the field of [[philosophical-implications-of-psychedelics]].
-
-## See Also
-
-- [[dpt-compound-profile]] — DPT pharmacology and Naranjo's clinical findings
-- [[lsd-therapeutic-history]] — Broader context of clinical psychedelic research
+Naranjo's systematic comparative approach to psychedelic substances and his emphasis on the therapeutic relationship influenced the modern resurgence of psychedelic therapy. His integration of Gestalt techniques with psychedelic sessions helped establish the field of [[dpt-compound-profile]] — DPT pharmacology and Naranjo's clinical findings
 - [[psychedelic-therapy-set-and-setting]] — Modern frameworks building on Naranjo's approach
-- [[beta-carboline-chemistry]] — Harmala alkaloid chemistry relevant to Naranjo's harmaline research
-
-## Related
-
 - [[ecstasy-mdma-guide]]
+## Practical Considerations
+
+When working with Claude Naranjo, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

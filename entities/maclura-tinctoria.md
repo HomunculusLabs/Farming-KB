@@ -108,13 +108,8 @@ The species has potential for reforestation programs and restoration of degraded
 
 ## See Also
 
-- [[morus-nigra]]
 - [[broussonetia-papyrifera]]
-- [[cedrela-odorata]]
 - [[anacardium-occidentale]]
-- [[theobroma-cacao]]
 - [[carica-papaya]]
-- [[cinchona-officinalis]]
 - [[robinia-pseudoacacia]]
-- [[acacia]]
 - [[prosopis-juliflora]]

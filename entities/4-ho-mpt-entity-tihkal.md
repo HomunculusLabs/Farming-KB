@@ -16,22 +16,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, 4-hydroxy substituted, N-methyl-N-propyl
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: Unknown (insufficient data)
-
-- Estimated active range: up to 20 mg orally
-
-- Duration: Unknown
-
-## Qualitative Effects
-
-At 8 mg (oral): Very mild visual distortion and prominent vertigo without
-nausea. In the second hour, some enhancement of visual detail persists, but
-without the "flight of ideas or philosophical concepts" characteristic of
-[[psilocin-entity-tihkal]]. Rapid subsidence with ability to eat
+- Source: [[psilocin-entity-tihkal]]. Rapid subsidence with ability to eat
 normally. Residual insomnia lasting eight hours was reported.
 
 ## Synthesis
@@ -50,10 +35,8 @@ in the psilocin range of approximately 10-20 mg orally.
 A useful generalization emerges from the 4-hydroxy tryptamine series: anything
 with up to six carbons attached to the tryptamine nitrogen atom (and bearing
 a 4-hydroxy group) appears active in the 10-20 mg range orally. This holds
-for methyl-methyl ([[psilocin-entity-tihkal]]), methyl-ethyl ([[4-ho-met-entity-tihkal]]),
-methyl-propyl (4-HO-MPT), methyl-isopropyl ([[5-meo-mipt-entity-tihkal]]),
-diethyl ([[det-entity-tihkal]]), dipropyl ([[4-ho-dpt-entity-tihkal]]),
-and diisopropyl ([[4-ho-dipt-entity-tihkal]]).
+for methyl-methyl ([[4-ho-met-entity-tihkal]]),
+methyl-propyl (4-HO-MPT), methyl-isopropyl ([[det-entity-tihkal]]), dipropyl ([[4-ho-dipt-entity-tihkal]]).
 
 Pushing further — when one N-alkyl group has four carbons — activity drops
 dramatically. All four isomeric butyl compounds are known (n-butyl, isobutyl,

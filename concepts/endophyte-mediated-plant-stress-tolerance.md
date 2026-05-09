@@ -12,12 +12,7 @@ type: concept
 
 ## Overview
 
-[[endophytic-fungi]] that colonize plant root systems can confer remarkable
-tolerance to a range of abiotic and biotic stresses on their host plants.
-Unlike strictly pathogenic fungi, these endophytes establish mutualistic
-relationships that enhance plant survival under drought, salinity, heavy
-metal contamination, and disease pressure. The most extensively studied
-model organism in this field is [[piriformospora-indica]], a basidiomycete
+[[piriformospora-indica]], a basidiomycete
 of the Sebacinaceae family that represents the only cultivable
 root-colonizing endophyte capable of axenic growth on artificial media.
 
@@ -40,31 +35,7 @@ making endophyte inoculation a broadly applicable agricultural strategy.
 
 ### Piriformospora indica as a Model Endophyte
 
-Piriformospora indica is unique among [[mycorrhiza]]l-like fungi because it
-can be cultured on simplified nutrient media without a living host
-(Varma et al. 1998, 1999, 2001). This axenic cultivability makes it an
-ideal model organism for studying beneficial plant-microbe interactions
-and a practical candidate for large-scale biofertilizer production. The
-fungus forms inter- and intracellular hyphae in the root cortex,
-differentiating into dense hyphal coils and spore-like structures, but
-never traverses the endodermis or invades aerial portions.
-
-### Colonization Patterns and Host Cell Dynamics
-
-Fungal colonization increases with root tissue maturation. The root tip
-meristem shows no colonization, the elongation zone shows mainly
-intercellular colonization, and the differentiation zone becomes heavily
-infested with inter- and intracellular hyphae and intracellular
-chlamydospores. The majority of hyphae occupy dead rhizodermal and
-cortical cells completely filled with chlamydospores. Research indicates
-that P. indica requires host cell death for proliferation, as it
-interferes with the host cell death program to form mutualistic
-interactions (Deshmukh et al. 2006).
-
-### Drought Stress Mitigation
-
-Mycorrhizal associations play a vital role in overcoming drought stress.
-The extensive extraradical [[mycelial-networks]] of endophytic fungi increases
+Piriformospora indica is unique among [[mycelial-networks]] of endophytic fungi increases
 the effective absorptive surface area of root systems by 10 to 1,000
 times, dramatically improving water acquisition capabilities. The fungal
 hyphae release chemicals into the soil that dissolve tightly bound
@@ -147,4 +118,3 @@ viticulture settings.
   required for growth promotion in Arabidopsis thaliana.
 - Varma, A. et al. (1998, 1999, 2001). Piriformospora indica gen. et
   sp. nov., a new root-colonizing fungus.
-- Waller, F. et al. (2005). The endophyte Piriformospora indica

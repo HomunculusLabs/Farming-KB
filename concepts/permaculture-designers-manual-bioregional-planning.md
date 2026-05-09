@@ -3,15 +3,7 @@ title: permaculture-designers Manual - Bioregional Planning
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Permaculture Designers Manual - Bioregional Planning
-updated: 2026-04-18
-
-Bioregional planning is addressed primarily in Chapter 14, Section 14.6 (extended families and bioregional networks), Section 14.8 (developmental property trusts), Section 14.13 (ethical investment), and implicitly throughout the manual as the scale at which [[permaculture-design]] connects to political and economic systems.
+tags: [[permaculture-design]] connects to political and economic systems.
 
 ## What is a Bioregion?
 
@@ -66,44 +58,7 @@ Every bioregion should assess:
 
 ### Water as Primary Planning Element
 
-The manual consistently places water first in the planning hierarchy. Every village must be able to "catch, store, reticulate, and clean up its own water supply." At bioregional scale, this means integrated [[watershed-management]] where upstream activities protect downstream water quality.
-
-### Transport and Trade
-
-Bioregional planning includes road, rail, boat, and air access for trade. While computer and telecommunications enable data networking, "real-object trade needs transport." Bioregional alliances of 200-500 households can make "a very viable manufacturing or trading alliance."
-
-## Developmental Property Trusts at Bioregional Scale
-
-Section 14.8 outlines how property trusts operate at bioregional scale:
-- Purchase of threatened wildlife and forest habitat
-- Purchase and rehabilitation of eroded, salted, or deforested land
-- Development of energy-efficient, sustainable villages
-- Bioregional clean energy systems or clean transport methods
-- Bioregional development as purchase of community resources
-
-Funds can be used for specific project areas ranging from individual property rehabilitation to whole-region planning.
-
-## Ethical Investment at Bioregional Scale
-
-Section 14.13 describes how bioregional funds direct local money to local needs:
-- Short-term loans: insulation, water tanks, irrigation, dam building
-- Medium-term: animal systems, aquaculture, nurseries, tourism
-- Long-term: town reconstruction, fuel crops, farm development, orchards
-- Permanent: forestry, wildlife reserves, remnant forest protection
-
-The manual recommends proportional investment: 10% risk ventures, 10-20% community development, 10-20% clean power, 20-40% social investment, 10% public interest.
-
-## Bioregional Governance
-
-### Local Trusts Over Central Government
-
-"About 18-20% of businesses may be non-profit trusts owned or operated by charitable trusts." Mollison proposes that local trusts can "completely replace the bureaucracy of public services." The Dutch model (stichtings) is cited where trusts run public operations and government becomes "simply a way of conveying tax capital back to the regions via local trusts."
-
-### Confederation of Small Groups
-
-"It is far better to set up many such local trusts than to risk the power-centred inefficiencies of a monstrous hierarchical system." Every dissenter or group should form independent trusts in a cooperative network.
-
-See also: permaculture designers manual bioregional planning, [[permaculture-designers-manual-legal-and-social-structures]], [[permaculture-designers-manual-settlement-design]], [[permaculture-designers-manual-strategies-for-nations]]
+The manual consistently places water first in the planning hierarchy. Every village must be able to "catch, store, reticulate, and clean up its own water supply." At bioregional scale, this means integrated [[permaculture-designers-manual-legal-and-social-structures]], [[permaculture-designers-manual-strategies-for-nations]]
 ## Merged: Permaculture Designers Manual - Designer Environment
 
 # Permaculture Designers Manual - Designer Environment

@@ -117,11 +117,7 @@ Home garden cultivation is especially common in peri-urban areas, where the plan
 
 ## See Also
 
-- [[spinacia-oleracea]]
 - [[amaranthus-tricolor]]
-- [[basella-alba]]
 - [[vigna-unguiculata]]
-- [[psophocarpus-tetragonolobus]]
 - [[lablab-purpureus]]
-- [[momordica-charantia]]
 - [[colocasia-esculenta]]

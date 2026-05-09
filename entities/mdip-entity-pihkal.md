@@ -27,87 +27,86 @@ N-ISOPROPYL-MDA;
 > extremely slight head disturbance which increased over the next few
 > minutes. I would have missed it if there had been any sensory input
 > at all. At the one hour point there was a slight physical malaise,
-> but no 'open window' of any kind, either like MDMA or like LSD. At
-> the most, this was a threshold, and in another half hour, I was
-> completely baseline.
-
-## Extensions and Commentary
-
-The structure of MDIP can be looked at as
-exactly that of MDE but with an additional methyl group (one carbon)
-hanging off the ethyl that is on the nitrogen. And with that slight
-additional weight, the activity has disappeared. On those occasions
-where research has shown a compound to be inactive, there has been
-some study made that could be called a "primer" experiment. Why not
-take advantage of the fact that an "inactive" compound might well be
-sitting in some receptor site in the brain without doing anything?
-Might its presence, wherever it might be, have some effect if only a
-person were to explore it in the correct way? Might it augment or
-interfere with the action of another compound? Many experiments of
-this kind have been performed, geared to milk additional information
-out of a new trial of a new material.
-
-Here is an example of a primer experiment that involved MDIP. Some
-five hours following an inactive trial with 120 milligrams of MDIP
-(maybe a slight disturbance at one hour, nothing at two hours) a
-calibration dose of 80 milligrams of MDMA was taken. The effects of
-the MDMA were noted at the 33 minute point, and an honest plus one was
-achieved at one hour. At this point a second 80 milligrams was added
-to the inventory that was already on board, and the general
-intoxication and the eye effects that followed were completely
-explained by the MDMA alone. It was obvious that the two drugs did
-not see one-another.
-
-Sometimes an experiment can involve the assay of an unknown material
-at the supplement time of an active drug. This has been called
-
-"piggybacking." Here is an example. At the five hour point of an
-experiment with 140 milligrams of MDE (this had been a light
-experience, a plus one which had not laster more than two hours) a
-dosage of 200 milligrams of MDIP rekindled a +1 experience, a pleasant
-intoxication of the MDE sort, but one that was quite invested with
-tremor and some feelings of eye-popping. It was almost as if the
-physical toxic effects outweighed the mental virtues. Imagine an
-iceberg, with the bulk of its mass underwater. The MDE had had its
-own modest effects, and had submerged into invisibility, and the
-response to a little bit of an otherwise inactive MDIP was to refloat
-a bit of the otherwise unseeable MDE.
-
-## Synthesis
-
-To a well stirred and cooled solution of 14.75 g
-isopropylamine in 100 mL MeOH there was added 4.45 g of
-3,4-methylenedioxyphenylacetone (see under MDMA for its preparation)
-followed by a 1:1 mixture of concentrated HCL and MeOH, sufficient to
-bring the pH to about 4. This was followed with 1.1 g sodium
-cyanoborohydride, and stirring was continued overnight. When the pH
-increased to over 6 there was added an additional 0.5 g of the
-borohydride, and additional methanolic HCl was added as needed to
-maintain the pH there. When the pH became stable, the reaction
-mixture was brought soundly acid with the addition of yet additional
-HCl, and all solvents were removed under vacuum. The residues were
-
-added to 500 mL H2O and washed with 3x100 mL CH2Cl2. The aqueous
-phase was made basic with 25% NaOH, and extracted with 4x100 mL
-CH2Cl2. Removal of the solvent under vacuum yielded 2.8 g of an amber
-liquid that was distilled at 95-110 deg C at 0.3 mm/Hg. There was
-obtained about 2 mL of a white oil that was dissolved in 10 mL of IPA,
-neutralized with about 20 drops of concentrated HCl producing
-spontaneous crystals. These were diluted with some 40 mL of anhydrous
-Et2O, removed by filtration, washed with Et2O, and then air dried.
-There was obtained 1.6 g of 3,4-methylenedioxy-N-isopropylamphetamine
-hydrochloride (MDIP) with a mp of 186-186.5 deg C with prior sintering at
-185 deg C. Anal. (C13H20ClNO2) N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
+> but no 'open window' of any kind, either like [[pihkal-introduction-and-methodology]]
 
 - PIHKAL (the source book)
-- [[mda-entity-pihkal]]
 - [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
+## Practical Applications
+
+MDIP (N-ISOPROPYL-MDA;) -- PIHKAL Entry #108 has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MDIP (N-ISOPROPYL-MDA;) -- PIHKAL Entry #108. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

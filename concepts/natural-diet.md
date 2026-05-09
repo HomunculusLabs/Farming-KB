@@ -10,44 +10,7 @@ type: concept
 
 # Natural Diet
 
-Natural diet, as formulated by Masanobu Fukuoka, is a nutritional philosophy
-inseparable from natural farming and natural healing. It holds that true
-health arises from eating foods produced by natural methods, consumed in
-their local and seasonal context, and received with gratitude rather than
-selected by intellectual preference. Fukuoka argued that humanity's
-estrangement from nature begins with food and that dietary reform is
-therefore the starting point for restoring both individual and ecological
-health.
-
-## Core Principles
-
-Fukuoka's natural diet rests on several interconnected principles:
-
-- **Locality**: Foods should be grown close at hand and consumed within
-  the region where they were produced. A diet reliant on foods transported
-  from distant lands leads both body and world astray.
-- **Seasonality**: One should eat foods of the current season. This aligns
-  the body with the natural cycles of the local environment.
-- **Wholeness**: Foods should be consumed in their near-complete form,
-  minimally processed. Fukuoka endorsed eating brown rice rather than
-  white, and whole grains rather than refined flours.
-- **Moderation**: All things should be consumed in moderation. Neither
-  excess nor restriction reflects the balance of nature.
-- **Gratitude**: Food should be received with thankfulness rather than
-  selected through desire or intellectual calculation. "People should not
-  eat on the basis of human intellect and action, but should merely
-  receive with gratitude the food that grows in nature."
-
-## Critique of Dietary Science
-
-Fukuoka was sharply critical of nutritional science and the proliferation of
-contradictory dietary advice. He noted that proponents of raw food diets,
-brown rice diets, cooked food diets, low-salt diets, high-salt diets,
-fruit-based diets, and grain-based diets all claimed scientific backing, yet
-their recommendations were mutually exclusive. The confusion, he argued,
-stems from trying to freeze a fluid nature into rigid rules.
-
-"Nature is a fluid [[2c-t-13-entity]] that changes from moment to moment," he wrote.
+Natural diet, as formulated by [[2c-t-13-entity]] that changes from moment to moment," he wrote.
 "People become perplexed when bound by theories that try to freeze a fluid
 nature." There is no yin or yang in nature, no good or evil, no fixed
 standard to rely upon. Any dietary rule that is correct in one context
@@ -100,9 +63,26 @@ practicing natural farming, as standing closest to this ideal.
 
 ## See Also
 
-- [[fukuoka-natural-diet-food-philosophy]]
-
 - [[natural-farming]]
 - [[do-nothing-farming]]
 - macrobiotic diet
 - whole foods
+## Practical Considerations
+
+Successful implementation of Natural Diet requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

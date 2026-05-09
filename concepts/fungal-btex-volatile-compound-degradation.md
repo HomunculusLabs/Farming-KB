@@ -19,25 +19,7 @@ and aviation fuels, BTEX compounds enter soil, sediments, and
 groundwater from leaking underground storage tanks, accidental spills,
 and inadequate waste disposal practices. Trichloroethylene (TCE) and
 linear alkylbenzene sulfonate (LAS) represent additional volatile
-organic compound (VOC) classes degradable by fungi. [[white-rot-fungi]]
-demonstrate notable capacity for BTEX and VOC degradation through
-both ligninolytic and non-ligninolytic enzyme pathways.
-
-## BTEX Compound Characteristics
-
-BTEX compounds are monoaromatic hydrocarbons that are relatively
-water-soluble compared with polycyclic aromatic hydrocarbons but
-highly mobile in groundwater systems. Their volatility creates
-challenges for both containment and remediation. Benzene is a known
-human carcinogen, while toluene, ethylbenzene, and xylenes pose
-neurological and other health risks. BTEX contamination is among
-the most common groundwater pollution problems worldwide, with
-thousands of contaminated sites requiring remediation. The
-simultaneous presence of multiple BTEX compounds at contaminated
-sites creates complex remediation challenges due to differential
-degradation rates and potential inhibitory interactions.
-
-## [[phanerochaete-chrysosporium]] BTEX Degradation
+organic compound (VOC) classes degradable by fungi. [[phanerochaete-chrysosporium]] BTEX Degradation
 
 P. chrysosporium efficiently degrades BTEX components both
 individually and as mixtures. Remarkably, substantially greater
@@ -108,43 +90,7 @@ treating mixed halogenated and non-halogenated VOC plumes.
 
 A notable finding in fungal VOC degradation is that many compounds
 are degraded more effectively under nutrient-rich conditions where
-[[ligninolytic-enzymes]] are suppressed. BTEX degradation by P.
-chrysosporium is more efficient in high-nitrogen medium. TCE
-degradation also occurs under nutrient-rich conditions independent
-of LiP and MnP. These results indicate that white rot fungi possess
-alternative, non-ligninolytic enzyme systems for VOC degradation
-that remain incompletely characterized. Cytochrome P450
-monooxygenases, common in fungi, likely contribute to these
-pathways, as demonstrated for lindane and chlordane degradation.
+[[fungal-explosive-compound-degradation]]
 
-## Comparison with Bacterial BTEX Degradation
-
-Bacterial bioaugmentation for BTEX-contaminated groundwater has
-received more attention than fungal approaches. However, bacterial
-systems face challenges including the need for oxygen supply in
-anaerobic aquifers and competition with native microorganisms.
-Fungi offer advantages including tolerance to higher pollutant
-concentrations, filamentous growth enabling access to soil-bound
-contaminants, and both oxidative and co-metabolic degradation
-pathways. The combination of fungal and bacterial systems, either
-sequentially or simultaneously, may achieve more complete
-remediation than either approach alone.
-
-## Field Application Considerations
-
-The volatility of BTEX and TCE compounds creates unique challenges
-for field bioremediation. Containment of vapour-phase contaminants
-during treatment is essential to prevent atmospheric release.
-Bioventing, where air is drawn through contaminated soil to enhance
-aerobic degradation while capturing vapours, is compatible with
-fungal remediation approaches. Monitored natural attenuation with
-fungal augmentation may be appropriate for large, dilute plumes
-where active treatment is impractical. The demonstrated ability of
-fungi to mineralize BTEX compounds to carbon dioxide under various
-## See Also
-
-- [[fungal-explosive-compound-degradation]]
-
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[mycoremediation-oil-spills]]

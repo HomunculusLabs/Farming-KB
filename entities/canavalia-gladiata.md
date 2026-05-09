@@ -130,4 +130,4 @@ conditions.
 
 ## See Also
 
-[[canavalia-ensiformis]] · [[lablab-purpureus]] · [[mucuna-pruriens]] · [[arachis-pintoi-entity]] · [[glycine-max]] · [[leucaena-leucocephala]] · [[gliricidia-sepium]] · [[vicia-faba]]
+[[lablab-purpureus]] · [[arachis-pintoi-entity]] · [[leucaena-leucocephala]] · [[vicia-faba]]

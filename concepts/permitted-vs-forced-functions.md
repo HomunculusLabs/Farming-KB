@@ -59,29 +59,26 @@ This harmony extends to the principle that every function should be served by mu
 
 ## Self-Organization
 
-When permitted functions are properly arranged, systems begin to self-organize. The designer sets up initial conditions and connections, then allows the system to develop. Self-organizing systems are more resilient, more productive, and less labor-intensive than managed systems because they harness the intelligence and adaptability of living organisms. This connects directly to [[complexity-and-connections]] and the concept of emergent behavior in networks.
-
-## Working Backwards from Function
-
-Mollison suggests a powerful design technique: start with the desired function, then find elements whose permitted functions achieve it. If the function is "pest control in the orchard," ask: what naturally eats orchard pests? Ducks eat slugs; parasitic wasps control codling moth; geese eat grass and some insects. Place these elements in the orchard and their permitted functions provide pest control without spraying.
-
-If the function is "nitrogen fixation," place leguminous plants throughout the system rather than applying fertilizer. If the function is "water purification," design wetland systems rather than building mechanical filters. The principle applies at every scale from [[permaculture-design]] to [[permaculture-earthworks]].
-
-## Key Principles
-
-- Observe what elements want to do naturally
-- Arrange systems so that natural behaviors produce desired outcomes
-- Minimize forced functions that require external energy
-- Design for self-organization rather than constant management
-- Work backwards from desired function to find natural solutions
-- Every forced function represents a design opportunity to replace it with a permitted one
-- Every component should function in many ways; every essential function should be supported by many components
-
-## Related
-
-- [[permaculture-cycles-and-niches-in-time]]
-- [[complexity-and-connections]]
+When permitted functions are properly arranged, systems begin to self-organize. The designer sets up initial conditions and connections, then allows the system to develop. Self-organizing systems are more resilient, more productive, and less labor-intensive than managed systems because they harness the intelligence and adaptability of living organisms. This connects directly to [[permaculture-design]] to [[permaculture-cycles-and-niches-in-time]]
 - [[natural-farm-permaculture-ethics-principles]]
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[plant-micronutrients-and-their-essential-functions]]
+## Practical Considerations
+
+Successful implementation of Permitted vs Forced Functions requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

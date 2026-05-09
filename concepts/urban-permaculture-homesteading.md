@@ -8,9 +8,7 @@ type: concept
 tags: [culture, homesteading, permaculture]
 ---
 
-# Urban Permaculture [[homesteading]]
-
-Urban permaculture homesteading is the application of [[permaculture-design]]
+# Urban Permaculture [[permaculture-design]]
 principles to small residential properties within cities and suburbs. It
 transforms conventional yards into productive food-growing ecosystems that
 integrate water harvesting, energy efficiency, food production, and community
@@ -39,40 +37,7 @@ The backyard was designed with more specific permaculture training:
 
 - Fruit bushes and insectary plants
 - Three ponds for greywater filtration, wildlife habitat, and irrigation
-- [[herb-spiral]] and swirling paths (students chose an amoeba shape)
-- Strawberry beds, tree fruits (18 varieties ripening from early May to early
-  December), and diverse perennial plantings
-- Terrace built from large elm logs over hard subsoil from sewer work
-
-Despite limited sun space (about half the yard is shaded by buildings), the
-homestead produces abundant food through careful design.
-
-## Energy Cycling in Urban Homesteads
-
-### The Closed Circle Principle
-
-The goal is to create a closed circle where residents feed themselves without
-depending on the global market. Energy cycling means turning flows of nutrients
-and energy (sun, water, wind, organic wastes) through the property into cycles:
-
-- Kitchen waste recycled into compost
-- Household greywater channeled into gardens
-- Leaves raked around trees as mulch
-- Hand tools (scythes, wheelbarrows, forks, spades) replacing petroleum-
-  dependent machinery
-- Energy expended in food cultivation returns through eating
-
-### Water Systems
-
-- 1200-gallon ferrocement cistern collecting rainwater from the roof
-- Gravity-fed irrigation (no pumps, no maintenance, no moving parts)
-- Cistern positioned along fence line acting as fire break, privacy screen,
-  and temperature moderator
-- Orange tree shading the cistern and dropping leaves for mulch
-- Bathtub water harvested via vinyl tube to irrigate fig trees and Asian pears
-- Ponds and yard slope for greywater filtration and garden irrigation
-
-### [[passive-solar-design]]
+- [[passive-solar-design]]
 
 - Extended roof overhang blocks summer sun while admitting winter sun
 - Low sloping granite retaining wall facing south as heat bank

@@ -3,7 +3,7 @@ title: Fungal Monitoring Long Term Studies
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Long-Term Monitoring and Biodiversity Inventory
@@ -70,30 +70,14 @@ Analytical methods for monitoring data include:
 
 ### Power Analysis
 
-Power analysis is essential for designing monitoring programs that can detect meaningful changes. In fungal community studies, larger sample sizes are needed to detect differences in species richness than for differences in community composition (see [[fungal-biodiversity-data-analysis]]).
-
-## Challenges in Long-Term Monitoring
-
-- **Personnel continuity**: maintaining consistent identification expertise across years
-- **Taxonomic consistency**: species concepts may change over time
-- **Funding**: long-term programs require sustained financial support
-- **Sample preservation**: maintaining reference collections and databases
-- **Environmental variability**: distinguishing directional change from natural fluctuation
-- **Detection limits**: rare species may be missed in any given sampling event
-
-## Related Topics
-
-- [[fungal-biodiversity-inventory-design]]
-- [[fungal-biodiversity-data-analysis]]
+Power analysis is essential for designing monitoring programs that can detect meaningful changes. In fungal community studies, larger sample sizes are needed to detect differences in species richness than for differences in community composition (see [[fungal-biodiversity-inventory-design]]
 - [[fungal-diversity-estimation-methods]]
-- [[fungal-biodiversity-measurement-methods]]
 - [[fungal-biodiversity-soil-seasonal]]
-- [[ethnomycology]]
+- ethnomycology
 
 ## References
 
 - Biodiversity of Fungi (2004), Chapters 5, 9, 10, 13, 25
 - Christensen, M. 1969. Soil microfungi of dry to wet mesquite sites
 - Gochenaur, S.E. 1978. Fungi of a Long Island oak-pine forest
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[fungal-species-richness-and-diversity-indices]]

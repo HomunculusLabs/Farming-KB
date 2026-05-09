@@ -121,16 +121,9 @@ Oak leaf compost is particularly valuable for seed-starting mixes where calcium 
 
 ## Related
 
-- [[urtica-dioica]] Pages
-
 - [[dynamic-accumulator-plants-nitrogen]]
-- [[dynamic-accumulator-plants-phosphorus]]
 - [[dynamic-accumulator-plants-potassium]]
-- [[dynamic-accumulator-plants-trace-minerals]]
 - [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[dynamic-accumulators]]
 - [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[dynamic-accumulator-plants-trace-minerals]]
-- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]
 - [[dynamic-accumulator-plants-nitrogen]]

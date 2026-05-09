@@ -114,37 +114,7 @@ are a bonus crop that softneck cannot provide.
 
 ## Elephant Garlic Note
 
-Elephant garlic (Allium ampeloprasum) is not a true garlic but a leek
-relative that produces very large heads with 4 to 6 massive cloves.
-The flavor is milder and sweeter than true garlic. It stores for 8 to 10
-months.
-
-## Which Should You Grow?
-
-Grow hardneck garlic if you live in zones 3 through 6, prioritize flavor
-over storage, and want edible scapes as a bonus crop.
-Grow softneck garlic if you live in zones 5 through 9, need garlic that
-stores most of the year, or prefer milder flavor for raw dishes.
-Many gardeners in zones 5 and 6 grow both types to enjoy the best of
-each: hardneck for fresh eating and scapes in summer, softneck for
-storage through winter.
-
-## Key Points
-
-- Hardneck garlic has fewer, larger cloves and richer flavor but shorter
-  storage life.
-- Softneck garlic has more, smaller cloves, stores much longer, and
-  tolerates warmer winters.
-- Hardneck garlic produces edible scapes; softneck does not.
-- Your USDA hardiness zone is the primary factor in choosing which type
-  to grow.
-- Growing both types provides the best balance of flavor and storage.
-- [[garlic-growing-guide]] covers planting, harvesting, and curing for
+Elephant garlic ([[garlic-growing-guide]] covers planting, harvesting, and curing for
   both types.
-- [[allium-sativum-entity]] provides botanical and pharmacological detail
-  on the species.
-
-## Related Questions
-
-- [[query-how-do-i-grow-alliums-successfully]]
+- [[alliums-growing-guide]]
 - [[comparison-hardneck-vs-softneck-garlic]]

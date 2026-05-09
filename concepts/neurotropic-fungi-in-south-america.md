@@ -3,14 +3,7 @@ title: Neurotropic Fungi in South America
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-
-# Neurotropic Fungi in South America
-
-South America harbors significant diversity of
-[[neurotropic-fungi-world-checklist]], particularly in
+tags: [[neurotropic-fungi-world-checklist]], particularly in
 subtropical and tropical forest regions. The continent shares many species with
 Mexico and Central America, reflecting ancient biogeographic connections.
 
@@ -24,19 +17,8 @@ Notable species include:
 - Multiple endemic Psilocybe: P. brasiliensis, P. paulensis, P. acutipilea,
   P. blattariopsis, P. caeruleoannulata, P. farinacea, P. furtadoana,
   P. microcystidiata, P. pericystis, P. plutonia, P. ramulosa, P. uruguayensis
-- [[amanita-muscaria-chemistry-and-pharmacology]] — found in
-  pine plantations in tropical regions
 - [[copelandia-genus-species-guide]] and C. anomala
-- [[gymnopilus-purpuratus]]
-
-Brazil's vast territory, encompassing the Amazon rainforest, Atlantic forest,
-cerrado, and subtropical regions, suggests that many more species await
-discovery. The country's mycological exploration has been patchy, with most
-records concentrated in the southern and southeastern states.
-
-### Colombia
-
-Colombia has 12 reported neurotropic [[psilocybe-subaeruginosa-australia]]
+- [[psilocybe-subaeruginosa-australia]]
 species, several endemic:
 
 - P. colombiana, P. guatapensis, P. antioquensis, P. heliconiae,
@@ -61,13 +43,6 @@ Chile represents the southernmost extent of many neurotropic species:
 
 - P. zapotecorum, P. wrightii, P. collybioides, P. cubensis
 - P. hoogshagenii var. hoogshagenii
-- [[amanita-muscaria-chemistry-and-pharmacology]]
-
-### Bolivia, Peru, Ecuador, Venezuela
-
-- P. yungensis is widespread across Andean countries
-- P. cubensis found throughout tropical lowlands
-- P. subcubensis distributed across northern South America
 - [[copelandia-genus-species-guide]] common in tropical
   regions
 - Venezuela has P. meridensis, P. pseudobullacea
@@ -114,8 +89,6 @@ researchers.
 
 ## Related Topics
 
-- [[neurotropic-fungi-in-mexico]] — Northern comparison, highest global diversity
 - [[neurotropic-fungi-in-central-america]] — Connecting region
-- [[neurotropic-fungi-biogeographic-patterns]] — Analysis of distribution patterns
 - [[magic-mushrooms-southeast-asia-pacific]] — Biogeographic connections
 - [[neurotropic-fungi-world-checklist]] — Complete checklist

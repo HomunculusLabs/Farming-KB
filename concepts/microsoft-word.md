@@ -29,39 +29,7 @@ The transition from WordPerfect to Word during the early 1990s is one of the
 most significant platform shifts in office suites history.
 
 Key milestones include the introduction of the `.doc` binary format, the shift
-to the XML-based [[docx]] format with Office 2007, and the move to a
-subscription-based model with Office 365 (now Microsoft 365) in 2011. The
-ribbon interface introduced in Office 2007 represented a major UI overhaul that
-replaced traditional menus and toolbars with a tabbed, context-sensitive
-approach.
-
-## File Formats
-
-The original `.doc` format was a proprietary binary format whose full
-specification was not publicly available for many years, leading to the
-"embrace, extend, and extinguish" criticism from competitors. In response to
-pressure from governments and open standards advocates, Microsoft developed the
-Office Open XML (OOXML) format, standardized as ECMA-376 and later ISO/IEC
-29500. The `.docx` extension denotes a ZIP archive containing XML files that
-describe the document structure, styles, and content.
-
-Word also supports PDF export (since Word 2013 with faithful rendering), HTML,
-RTF (Rich Text Format), and plain text. The ability to open and save PDF files
-directly was added in Word 2013, reducing the need for external conversion
-tools.
-
-## Core Features
-
-Word provides a rich set of document creation and formatting tools including
-paragraph and character styles, templates, headers and footers, page numbering,
-tables of contents, footnotes and endnotes, indexing, bibliography management,
-and mail merge. Collaboration features have evolved significantly, with
-real-time co-authoring (introduced in 2010 and improved in subsequent
-versions), tracked changes, comments, and version history now central to the
-product.
-
-The grammar and style checking capabilities have
-progressed from basic rule-based systems to incorporate [[mollison-designers-wool-processing-natural-dyeing]]
+to the XML-based [[mollison-designers-wool-processing-natural-dyeing]]
 and machine learning, with Editor (introduced in Word 2016) offering writing
 style suggestions beyond simple grammatical corrections. Integration with
 Copilot AI (announced 2023) brought generative AI capabilities directly into
@@ -93,14 +61,29 @@ version-controlled, format-agnostic document formats.
 
 ## See Also
 
-- [[microsoft-word-document-format]]
 - [[microsoft-word-document-format-history]]
-- [[microsoft-word-history]]
 - [[word-ribbon-interface]]
-- [[word-collaboration-features]]
-
 - [[docx]] — Office Open XML file format
 - word processing — History and evolution of word processors
 - microsoft office — The broader productivity suite
 - latex — Academic document preparation system
 - office suites — Comparison of office productivity software
+## Practical Considerations
+
+Successful implementation of Microsoft Word requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

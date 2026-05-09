@@ -39,51 +39,10 @@ tropane alkaloids, with the root having the highest concentration.
 
 ## Distribution and Habitat
 
-*[[schultes-mandrake-mandragora-officinarum]]* is native to the Mediterranean basin, including
-southern Europe (Italy, Spain, Greece, the Balkans), North Africa, and the
-Middle East (Turkey, Syria, Lebanon, Israel/Palestine), extending into
-western and central Asia. It grows in dry, stony, calcareous soils, in
-scrubland, olive groves, open woodland edges, rocky hillsides, and fallow
-fields. The plant prefers well-drained soils and partial shade, often growing
-in the understory of Mediterranean oak and pine forests. It is adapted to
-the hot, dry summers and mild, wet winters of the Mediterranean climate.
-
-## Phytochemistry
-
-Mandrake contains a profile of tropane alkaloids closely resembling those of
-other members of the Solanaceae, particularly [[hyoscyamus-niger]] and
-[[atropa-belladonna]]:
-
-- **Hyoscyamine** — the principal active alkaloid, comprising up to 0.4% of
-  the dry root weight; a competitive muscarinic acetylcholine receptor
-  antagonist producing anticholinergic effects
-- **Scopolamine** (hyoscine) — present in significant quantities, the more
-  potently hallucinogenic component due to superior blood-brain barrier
-  penetration; concentrations of 0.01 to 0.08% have been reported in root
-  tissue
-- **Mandragorine** — an alkaloid historically attributed specifically to
-  mandrake, though its distinct chemical identity from other tropanes has
-  been debated; it may represent a stereoisomer or derivative of hyoscyamine
-- Minor amounts of cuscohygrine, apohyoscyamine, norhyoscyamine, and other
-  tropane derivatives
-
-These alkaloids are concentrated most heavily in the root, followed by the
-leaves and fruit. The pharmacological profile is essentially identical to that
-of henbane and belladonna: competitive blockade of muscarinic acetylcholine
-receptors producing the characteristic anticholinergic toxidrome at
-therapeutic or toxic doses.
-
-## Historical and Ethnobotanical Significance
-
-Mandrake occupies a unique and unrivaled position in the history of Western
-ethnobotany. Its complex history as a magic hypnotic [[mandrake-mandragora-officinarum-in-european-folklore]]
+*[[hyoscyamus-niger]] and
+[[mandrake-mandragora-officinarum-in-european-folklore]]
 cannot be equaled by any other plant species. For over two millennia, the
-mandrake root was simultaneously one of the most valued [[holzer-kitchen-garden-herbs-and-medicinal-plants]] and
-one of the most feared magical objects in European culture.
-
-### Classical Antiquity
-
-Mandrake was well known to the civilizations of [[allegro-fertility-philosophy-of-the-ancient-near-east]] and
+mandrake root was simultaneously one of the most valued [[allegro-fertility-philosophy-of-the-ancient-near-east]] and
 Mediterranean. The earliest references appear in cuneiform texts from
 Mesopotamia, where the plant was valued for its analgesic and sedative
 properties. The Hebrew Bible mentions mandrake (Hebrew: *dudaim*) in Genesis
@@ -115,8 +74,7 @@ also warning of its lethal toxicity at higher doses.
 
 Mandrake was one of the most potent and important ingredients in the complex
 hallucinogenic preparations attributed to medieval and early modern European
-witches. These brews [[witches-fungi-and-flying-ointments]] typically combined mandrake with
-[[atropa-belladonna]], [[hyoscyamus-niger]], and [[datura-stramonium]]. The
+witches. These brews [[atropa-belladonna]], [[datura-stramonium]]. The
 tropane alkaloids in these mixtures produced vivid visual hallucinations,
 sensations of floating or flying, feelings of bodily transformation, and
 profound dissociation from reality — experiences that formed the experiential
@@ -147,4 +105,3 @@ physicians valued it for its sedative and narcotic properties. It was used
 as an analgesic, a treatment for melancholy, convulsions, and mania, and a
 powerful soporific. The dose-response relationship was well understood in
 folk and professional tradition — small amounts induced sleep and pain relief
-while larger amounts caused delirium, frenzy, and death.

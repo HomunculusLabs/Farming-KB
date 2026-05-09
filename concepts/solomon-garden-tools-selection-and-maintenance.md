@@ -9,9 +9,7 @@ sources:
 type: concept
 ---
 
-# [[organic-vegetable-growing-and-market-gardening]] and Maintenance
-
-[[steve-solomon]] insists that to vegetable garden successfully you only need
+# [[steve-solomon]] insists that to vegetable garden successfully you only need
 a few hand tools, provided they are high quality and properly sharpened.
 Garden magazines, garden centers, and seed catalogs all promote the idea
 that appealing merchandise is useful and essential, but most of it is
@@ -126,7 +124,5 @@ providing plenty of hauling capacity for an extensive-style garden.
 
 ## Related Concepts
 
-- [[solomon-garden-hoe-and-cultivation-techniques]]
 - [[solomon-soil-preparation-bed-prep]]
-- [[solomon-weed-management-without-chemicals]]
 - [[solomon-double-digging]]

@@ -127,9 +127,6 @@ The return to nature that Fukuoka advocated is therefore not a dietary program b
 
 ## See Also
 
-- [[fukuoka-diet-non-discrimination-diet-of-the-sick]]
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-- [[fukuoka-nature-transcends-human-knowledge]]
-
 - [[natural-diet]]
 - [[natural-farming]]

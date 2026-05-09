@@ -62,69 +62,32 @@ with Pinus subsection *Strobus*. Some older guides treated it as a variety of
   exude milky fluid when young; superior membranous ring from partial veil.
 - **Flesh:** Pale yellow, soft and spongy; unchanging or slowly brown when
   cut; mild odor and taste.
-- **Spore print:** Olive-brown to cinnamon-brown.
-- **Spores:** 7–10 × 3–4 µm, smooth, elliptical, inamyloid.
-- **Chemical reactions:** KOH on cap negative or weakly yellowish; NH₃
-  on flesh negative.
-
-## Distribution and Habitat
-
-Eastern North America from Newfoundland to the Carolinas, west to Minnesota
-and the Great Lakes. Primarily associated with eastern white pine (*Pinus
-strobus*), also recorded with limber pine (*P. flexilis*) and southwestern
-white pine (*P. strobiformis*). Fruits July through October, often abundantly
-during warm wet periods. Favors sandy or loamy acidic soils in mixed or pure
-pine stands, forest edges, and young plantations. One of the earliest boletes
-to appear after pine seedling establishment, sometimes fruiting on trees
-within a few years of planting.
-
-## Ecology and Mycorrhizal Role
-
-Forms ectomycorrhizal associations with five-needle pines, facilitating
+- **[[ectomycorrhizal-associations]] with five-needle pines, facilitating
 nutrient exchange between fungal mycelium and tree roots. The hyphal mantle
 extends root absorptive surface area, improving phosphorus and nitrogen
 uptake for the host. In post-fire and post-logging succession studies, *S.
 americanus* is among the first Suillus species to colonize disturbed sites,
 appearing within 2–3 years of stand establishment. Its spores persist in
 soil, forming a resilient bank that responds to compatible pine roots.
-Rodents and slugs consume fruiting bodies, aiding spore dispersal. Beetles
-in Nitidulidae are frequently found in mature specimens.
-
-## Edibility
-
-Technically edible and non-toxic, but culinary reputation is poor. Flesh is
-soft, watery, and bland. Removing the slimy cap cuticle before cooking
-improves texture. Generally recommended only for identification practice
-rather than as a target edible. As with all Suillus, some individuals
-experience mild gastrointestinal distress from raw or undercooked specimens.
-
-## Bioactive Compounds
-
-Contains fatty acids including linoleic, oleic, and palmitic acid.
-Phenolic compounds with antioxidant activity detected in extracts, though
-at lower concentrations than in *S. luteus* and *S. bovinus*. The slimy cap
-cuticle contains β-glucan polysaccharides with demonstrated in vitro
-immunomodulatory activity. No pharmacological studies have specifically
-targeted *S. americanus*.
-
-## Lookalikes
-
-- **Suillus granulatus** — Lacks partial veil and ring; pores exude milky
+Rodents and slugs consume fruiting bodies, aiding [[suillus-granulatus]]** — Lacks partial veil and ring; pores exude milky
   droplets when young; associated with two-needle pines.
-- **Suillus brevipes** — Shorter stipe, lacks glandular dots and ring;
-  less viscid cap; often in same pine habitats.
-- **Suillus hirtellus** — More reddish-brown cap; more pronounced
-  glandular dots; restricted to northeastern U.S.
+- **[[suillus-luteus]] · [[suillus-grevillei]]
+## Practical Considerations
 
-## Permaculture and Forestry Applications
+Successful implementation of Suillus americanus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-Not cultivated actively, but serves as a bioindicator of healthy
-ectomycorrhizal networks in pine systems. Its presence in plantations
-correlates with improved seedling survival and growth. In food-forest or
-agroforestry contexts including five-needle pines, minimal soil disturbance
-and avoidance of excessive nitrogen fertilization supports natural Suillus
-populations and overall forest soil health.
+## Future Directions
 
-## See Also
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-- [[suillus-luteus]] · [[suillus-bovinus]] · [[suillus-grevillei]]

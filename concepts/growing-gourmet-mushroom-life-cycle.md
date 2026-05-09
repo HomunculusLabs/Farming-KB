@@ -1,39 +1,11 @@
 ---
 title: Mushroom Life Cycle from Growing Gourmet and Medicinal Mushrooms
 created: 2026-04-26
-tags: [mycology, life-cycle, spores, mycelium, mushroom-biology]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
-
-# [[mushroom-life-cycle]]
+tags: [[mushroom-life-cycle]]
 When a collector finds mushrooms in the wild, the encounter is a mere
 coincidence, a "snap-shot" in time of a far vaster process. The mushroom
 life cycle remainsporegely invisible to most mushroom hunters; not so to
-cultivators. The cultivator follows the path of the mushroom [[growing-gourmet-black-morel-sclerotia-life-cycle]]
-from beginning to end. Only at the completion of the mushroom life
-cycle, which may span weeks or months, do mushrooms appear, and then
-they occur for but a few days.
-
-## Spore Production and Dispersal
-
-For mushrooms to survive in a highly competitive world where legions of
-other fungi and bacteria seek common ecological niches, millions of
-spores are often produced per mushroom. With the larger agarics, the
-numbers become astronomical. Since mushrooms reproduce through spores,
-tmyceliumss of the mushroom life cycle depends upon their production.
-
-Each spore released possesses one half of the genetic material necessary
-for propagation of the species. Each mushroom is like an island. From
-this center, populations of spores decrease with distance. When spores
-germinate, the mycelium grows out radially, away from the site of
-origin. Spores, taken up by the wind, or carried by insects and mammals,
-are dispersed to habitats well distant from the parent mushroom.
-
-By coincidence, different varieties of the same species meet [[mollison-designers-community-seed-banks-and-exchange]]
+cultivators. The cultivator follows the path of the mushroom [[mollison-designers-community-seed-banks-and-exchange]]
 genetic material. In the ever-changing ecological landscape, new
 varieties are favorably selected for and survive. This diversity within a
 species is critical to preserving its ability to adapt.
@@ -45,26 +17,7 @@ continue to reproduce mitotically. Enzymes and acids are secreted by the
 mushroom mycelium into the surrounding environment, breaking down
 lignin-cellulose complexes into simpler compounds. The mushroom mycelium
 absorbs these reduced organic molecules as nutrients directly through its
-[[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
-
-## Mating and Dikaryotization
-
-Two hyphae, if compatible, come together, fuse, and combine genetic
-material. The resulting mycelium is described as being binucleate and
-dikaryotic. After this union, the dikaryotic mycelium accelerates in its
-growth, again reproducing mitotically. Mated mycelium characteristically
-grows faster than unmated mycelium arising from single spores.
-
-The mating of compatible hyphae is genetically determined. Most gourmet
-species are governed by two incompatibility factors (A and B). As a
-result, only subsets of spores are able to combine with one another.
-When spores germinate, several strains are produced. Incompatible
-strains grow away from each other, establishing their own territorial
-domains.
-
-## Clamp Connections
-
-Most [[saprophytic-mushrooms]] produce a thick mycelial mat after spore
+[[saprophytic-mushrooms]] produce a thick mycelial mat after spore
 germination. These mycelial mats are characterized by many cross-overs
 between the hyphae. When two spores come together and mate, the
 downstream mycelium produces bridges between the cells, called clamp
@@ -97,16 +50,7 @@ With the approach of winter, the mycelial mat retreats to survive in
 specific sites. At this time, many mushrooms, both gilled and
 non-gilled, produce sclerotia. Sclerotia are a resting phase in the
 mushroom life cycle. They resemble a hardened tuber, wood-like in
-texture. While in this dormant state, the [[query-what-is-the-strongest-psilocybin-mushroom-species]] can survive
-inclement weather conditions like drought, fire, flooding, or other
-natural catastrophes. In the spring, the sclerotia swell with water and
-soften. Directly from the sclerotia, mushrooms emerge. Morels are the
-best known mushrooms which arise from sclerotia.
-
-## Primordia Formation
-
-From the natural decline in temperature within the host substrate, as
-well as in response to environmental stimuli (water [[vegetable-storage-conditions-by-temperature-and-humidity]], light,
+texture. While in this dormant state, the [[vegetable-storage-conditions-by-temperature-and-humidity]], light,
 drop in temperature, reduction in carbon dioxide), the mushroom mycelium
 is triggered into mushroom production. The mechanism responsible for
 this sudden shift from active colonization to mushroom formation is

@@ -105,17 +105,10 @@ No established clinical trials exist for 1B-LSD. All dosage and effect informati
 
 ## See Also
 
-- [[lsd-psychedelic-experience-guide]] — practical guide for lysergamide experiences
 - [[lsd-set-and-setting-framework]] — set and setting best practices
-- [[lsd-discovery-and-history]] — historical context of lysergamide psychedelics
 - [[lsd-entity-tihkal]] — the parent compound and primary active metabolite
-- [[1p-lsd]] — the first N¹-acyl lysergamide prodrug
 - [[eth-lad-entity-tihkal]] — 6-allyl-nor-LSD, a related lysergamide derivative
-- [[lsd-chemical-modifications-and-analogs]] — overview of LSD analog chemistry
 - [[lsd-pharmacology]] — detailed 5-HT₂A pharmacology of lysergamides
-- [[psilocybin-compound]] — naturally occurring tryptamine psychedelic for comparison
 - [[dimethyltryptamine]] — endogenous tryptamine psychedelic compound
-- [[4-ho-mipt]] — synthetic tryptamine psychedelic (miprocin)
 - [[mescaline-entity]] — phenethylamine psychedelic for pharmacological comparison
-- [[salvinorin-a-entity]] — non-serotonergic psychedelic (kappa-opioid agonist)
 - [[ketamine]] — dissociative anesthetic with psychedelic properties

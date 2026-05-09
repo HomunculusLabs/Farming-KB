@@ -26,7 +26,7 @@ sources:
 
 # Natural Building
 
-mollison designers lime uses locally sourced, minimally processed materials — earth, straw, wood, stone — to create structures that are healthy, mushroom growing house, and ecologically integrated. On a homestead, these methods excel for outbuildings, animal shelters, and small dwellings at a fraction of conventional cost.
+Natural building uses locally sourced, minimally processed materials — earth, straw, wood, stone — to create structures that are healthy, low-cost, and ecologically integrated. On a homestead, these methods excel for outbuildings, animal shelters, and small dwellings at a fraction of conventional cost.
 
 ## Wall Systems
 
@@ -34,7 +34,7 @@ mollison designers lime uses locally sourced, minimally processed materials — 
 Monolithic earthen building: subsoil + sand + straw, sculpted by hand in lifts.
 - **Soil test:** Drop a 4" ball from waist height — cracks but holds shape = works
 - **Mix ratio:** ~1 clay soil : 2 sand : 1 straw (by volume)
-- **Wall thickness:** 18–24" load-bearing; thinner for comparison slip form infill
+- **Wall thickness:** 18–24" load-bearing; thinner for timber frame infill
 - **Foundation:** Rubble trench + stone stem wall 12–18" above grade
 - **Drying:** Each lift (6–8") dries 1–2 weeks
 - **Best for:** Curved walls, ovens, small cabins, garden walls
@@ -63,7 +63,7 @@ Sand/earth-filled bags stacked like masonry with barbed wire between courses.
 
 ### Timber Frame
 Post-and-beam with traditional joinery (mortise and tenon, pegged).
-- **Wood:** Oak, [[douglas-fir]], pine, hemlock — local availability matters most
+- **Wood:** Oak, Douglas fir, pine, hemlock — local availability matters most
 - **Infill:** Straw bale, light clay straw, cob, or conventional framing
 - **Tools:** Chainsaw mill, chisels, mallet, drill press
 - **Best for:** Barns, homes, greenhouses — where clear-span space is needed
@@ -100,12 +100,12 @@ Short logs laid in mortar to form walls.
 
 ## Roofing
 
-| Method | Copassive-solar-designs |
+| Method | Cost | Lifespan | Notes |
 |---|---|---|---|
 | Metal | Medium | 40–60 yrs | Practical default for any structure |
 | Living roof | High | Varies | Excellent insulation, needs waterproof membrane (EPDM) |
 | Recycled shingles | Low | 15–25 yrs | Quick, available everywhere |
-| comparison passive solar/bermed | Medium | Very long | Root cellars, animal shelters |
+| Earth-sheltered/bermed | Medium | Very long | Root cellars, animal shelters |
 
 See [[greenhouse-design]] for passive solar roof integration.
 
@@ -148,3 +148,48 @@ See [[homesteading-legal-considerations]] for broader context.
 
 ### Duck/Chicken Coop
 - Cob or timber frame; 4 sq ft/bird inside, 8–10 sq ft in run
+- Hardware cloth predator protection, high ventilation, easy clean-out
+- See [[duck-keeping]] for duck-specific needs
+
+### Goat Shelter
+- Pole barn or timber frame 3-sided run-in shed; 20–30 sq ft/goat
+- Dry, draft-free but ventilated, deep bedding, separate kidding area
+- See [[goat-keeping]]
+
+### Root Cellar
+- Earthbag dome or earth-bermed timber frame; target 32–40°F, 85–95% humidity
+- North-facing hillside or excavated; insulated ceiling, uninsulated earth walls
+- Two-pipe passive ventilation (cool intake low, warm exhaust high)
+- See [[food-preservation-canning]] and [[homestead-water-systems]] for drainage
+
+### Tool Shed / Workshop
+- Timber frame + light clay straw, or pole barn; 100–200 sq ft
+- South windows for natural light, see [[homesteading-infrastructure]]
+
+### Greenhouse
+- Timber frame + polycarbonate; integrate with [[composting-systems]] for bottom heat
+- See [[greenhouse-design]]
+
+## Material Costs
+
+| Material | Cost | Source |
+|---|---|---|
+| Subsoil (cob) | Free | On-site |
+| Straw bales | $5–10/bale | Local farm |
+| Lime (Type S) | $15–20/bag | Building supply |
+| Rough-sawn timber | $2–5/bd ft | Local sawmill |
+| Metal roofing | $3–6/sq ft | Farm supply |
+
+**200 sq ft outbuilding:** $500–2,000 materials (vs. $10,000–20,000 conventional). Labor is the main cost — budget 200–400 person-hours for a first project.
+
+## Seasonal Planning
+
+See [[seasonal-planning]] for annual integration.
+- **Spring:** Foundations, timber harvesting
+- **Summer:** Wall building, plastering (needs dry/warm weather)
+- **Fall:** Roof, interior finish, earthen floors
+- **Winter:** Planning, design, indoor finish work
+
+## Related
+
+- [[roundwood-shelter-building]]

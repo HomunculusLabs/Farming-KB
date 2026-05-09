@@ -1,7 +1,7 @@
 ---
 title: Medicinal Mushroom Compounds
 created: 2026-04-28
-tags: [mycology, pharmacology, medicinal-mushrooms, biochemistry]
+tags: [[mycology, pharmacology, medicinal-mushrooms, biochemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -16,23 +16,7 @@ neuroprotective properties. These compounds have been used in traditional
 medicine for millennia, particularly in East Asian practices, and are now the
 subject of extensive pharmacological research.
 
-## [[beta-glucans]]
-
-**Beta-glucans** (β-glucans) are the most studied class of mushroom-derived
-bioactive compounds. These are polysaccharides composed of D-glucose monomers
-linked by β-glycosidic bonds, primarily with (1→3) and (1→6) linkages. Key
-properties include:
-
-- **Immunomodulation** — activate innate immune cells including macrophages,
-  natural killer (NK) cells, and dendritic cells via Dectin-1 and complement
-  receptor 3 (CR3) pathways
-- **Anti-tumor activity** — not directly cytotoxic but enhance the host's
-  immune surveillance and anti-tumor immune response; used as adjunct cancer
-  therapy in Japan (PSK from turkey tail, lentinan from shiitake)
-- **Anti-inflammatory** — modulate cytokine production, reducing excessive
-  pro-inflammatory signaling
-
-Rich sources include **turkey tail** (*[[trametes-versicolor]]*, PSK/PSP), **shiitake**
+## [[trametes-versicolor-entity]]*, PSK/PSP), **shiitake**
 (lentinan), **maitake** (D-fraction), and **reishi** (*Ganoderma lucidum*).
 
 ## Triterpenoids
@@ -113,6 +97,5 @@ water extraction is preferred for polysaccharides, while dual extraction (water
 
 ## See Also
 
-- [[gourmet-mushroom-cultivation]]
 - [[mycelial-network-biology]]
 - [[mushroom-growing-environmental-parameters]]

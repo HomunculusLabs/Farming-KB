@@ -3,26 +3,10 @@ title: Fungal Species Concepts and Estimates
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
-# [[fungal-species-concept]]s and Estimates
-
-## Overview
-
-Understanding fungal species diversity requires grappling with fundamental questions about what constitutes a fungal species and how many exist. The number of described fungal species (~74,000-120,000 depending on the source) represents only a fraction of the estimated total. Estimates of total fungal species range from 500,000 to 9.9 million, with recent molecular evidence suggesting higher numbers than previously thought. The species concept problem is particularly acute for fungi due to their unique biology.
-
-## Species Concepts in Mycology
-
-### Morphological Species Concept
-
-The traditional approach: species are groups of organisms that can be reliably distinguished by morphological characters. This has been the dominant approach in mycology but has significant limitations:
-
-- Many fungi are morphologically simple and lack distinctive features
-- Pleomorphy (multiple sporing stages) complicates identification
-- Convergent evolution produces similar structures in unrelated groups
-- Intraspecific morphological variation can exceed interspecific differences
-- [[cryptic-species]] are morphologically identical but genetically distinct
+# [[cryptic-species]] are morphologically identical but genetically distinct
 
 ### Biological Species Concept
 
@@ -67,23 +51,7 @@ In practice, mycologists use combinations of these concepts:
 ### Described Species
 
 - Approximately 74,000-120,000 fungal species have been formally described
-- Numbers vary depending on which groups are included (Oomycota, slime molds, [[lichens]])
-- Rate of description has accelerated in recent decades
-- Many species are known from only a single collection
-
-### Global Estimates
-
-Multiple approaches have been used to estimate total fungal diversity:
-
-**Ratio Methods**: Based on ratios of fungi to plants in well-studied areas:
-- Hawksworth (1991): 6:1 fungus-to-plant ratio applied to 270,000 plant species yields 1.62 million fungal species
-- Updated ratios from tropical inventories suggest even higher ratios
-- Some tropical studies suggest 10-33:1 ratios
-
-**Host-Specificity Methods**: Based on specificity of plant-associated fungi:
-- Each plant species may host multiple fungal species
-- Endophyte studies reveal high host specificity
-- Multiple functional groups (pathogens, endophytes, decomposers, [[mycorrhiza]]e) per host
+- Numbers vary depending on which groups are included (Oomycota, slime molds, [[mycorrhiza]]e) per host
 
 **Extrapolation from Inventories**:
 - Species accumulation curves from well-studied sites
@@ -144,3 +112,5 @@ In molecular studies, sequences are grouped into OTUs as proxies for species. Is
 - Different thresholds yield different species numbers
 - Intraspecific variation may exceed chosen thresholds
 - No universally agreed standard for fungal OTU delimitation
+
+See also: [[fungal-identification-and-biodiversity-assessment]]

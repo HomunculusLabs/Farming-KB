@@ -104,21 +104,12 @@ The species contributes to forest health by facilitating nutrient turnover and c
 
 ## See Also
 
-- [[sanghuangporus-ctenophorus]]
-
 - [[sanghuangporus-vaninii]]
-- [[sanghuangporus-baumii]]
 - [[inonotus-obliquus]]
-- [[trametes-versicolor]]
 - [[ganoderma-lucidum]]
-- [[phellinus-igniarius-entity]]
 - [[polyporus-umbellatus]]
-- [[fomes-fomentarius]]
 - [[trametes-hirsuta]]
-- [[coriolopsis-gallica]]
 - [[coriolopsis-polyzona]]
-- [[daedaleopsis-confragosa]]
 - [[ganoderma-applanatum]]
-- [[ganoderma-tsugae]]
 - [[grifola-frondosa]]
 - [[hericium-erinaceus]]

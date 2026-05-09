@@ -24,80 +24,7 @@ conditioner" -- the essential climate-ameliorating system of the planet.
 
 Forests create rain through transpiration, moderate temperature extremes,
 build soil, and prevent erosion. When forests are removed, the
-hydrological cycle breaks down. [[permaculture-design]] always includes tree
-systems as the backbone of any sustainable settlement.
-
-## Closed Canopy Forest Principles
-
-A closed canopy forest maintains stable internal conditions:
-
-- Light is filtered through multiple leaf layers creating understory
-  microclimates
-- Temperature remains remarkably constant compared to open areas
-- Humidity is high, reducing fire risk and supporting diverse life
-- Wind penetration is minimal -- the forest interior is calm
-- Leaf litter builds soil continuously, creating a self-fertilizing
-  system
-- The forest floor acts as a massive sponge absorbing and slowly
-  releasing water
-
-The goal in permaculture forestry is never to clear-fell but to
-selectively harvest while maintaining continuous canopy cover. Mollison
-states: "We should not think of taking anything out of the forest that
-we cannot replace."
-
-## Forest Types by Climate
-
-### Tropical Forest Systems
-
-Tropical forests contain the highest biodiversity and most complex
-vertical stratification. Key principles for tropical forest management:
-
-- Rapid nutrient cycling means mulch and compost are quickly absorbed
-- Canopy trees provide shade for understory crops like coffee and cacao
-- Mixed-species systems outperform monocultures in yield and resilience
-- Bamboo plays a critical structural and productive role
-
-### Temperate Forest Systems
-
-Temperate forests have distinct seasonal patterns:
-
-- Nutrient cycling is slower than tropical systems
-- Hardwood forests (oak, beech, maple) produce valuable timber and
-  nuts
-- Conifer forests provide structural timber, resins, and year-round
-  wind protection
-- Temperate forests are ideal for mushroom cultivation in logs
-- The temperate forest garden mimics natural succession with food-
-  producing species replacing wild counterparts
-
-## Forest Products Inventory
-
-The PDC catalogs a remarkable range of forest products beyond timber:
-
-### Food Products
-
-- Fruits: pome, stone, citrus, nut, and berry crops
-- Nuts: walnuts, pecans, chestnuts, hazelnuts, almonds, macadamia
-- Sap products: maple syrup, birch sap, palm sugar
-- Mushrooms: shiitake, oyster, wine cap on inoculated logs
-- Greens: fiddleheads, hosta shoots, basswood leaves; honey from
-  forest bee forage
-
-### Structural, Craft, and Medicinal Products
-
-- Round timber (poles) for building, split timber for fencing and tools
-- Bark products: cork, tanning agents, basketry materials
-- Cane and bamboo for construction, furniture, and crafts
-- Medicinal: willow bark (salicylic acid), eucalyptus oils, tea tree
-  oil, propolis and honey from forest bees
-
-## Dry Distillation of Wood
-
-The PDC describes traditional wood distillation producing multiple
-valuable products from a single wood source:
-
-- Charcoal for fuel and soil amendment ([[biochar]] precursor)
+hydrological cycle breaks down. [[biochar]] precursor)
 - Wood vinegar (pyroligneous acid) for pest control
 - Wood tar for preservation and waterproofing
 - Wood gas for heating and potentially engine fuel
@@ -135,11 +62,7 @@ species creating productive boundaries between managed and wild systems.
 The PDC describes integrating trees with agriculture and livestock:
 
 - Silvopasture: trees over pasture providing shade and fodder
-- Alley cropping: rows of trees with crops between [[acacia]], acacia with
-  maize)
-- Riparian forest buffers along waterways protecting water quality
-- Windbreak/shelterbelt systems protecting crops and livestock
-- Fodderpermaculture-[[tagasaste]]agasaste, [[carob]], honey locust) reducing feed costs
+- Alley cropping: rows of trees with crops between [[carob]], honey locust) reducing feed costs
 
 ## Long-Term Forest Strategy
 
@@ -147,4 +70,26 @@ Mollison emphasizes patience with forest systems: "The best time to
 plant a tree was twenty years ago. The second best time is today."
 Forests take decades to mature but provide increasing returns over
 centuries. The permaculture designer must think in terms of generational
-timeframes, planting trees whose fruits will be harvested by their
+
+## See Also
+
+- [[mollison-specialist-tropical-crops-forest-products]]
+## Practical Considerations
+
+Successful implementation of Forest Management and Tree Products requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

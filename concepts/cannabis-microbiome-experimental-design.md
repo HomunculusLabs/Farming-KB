@@ -57,24 +57,7 @@ samples per compartment per plant. Total: 27 samples.
 
 Post-harvest timing introduced root decay effects, particularly
 proliferation of cellulolytic Cellvibrio (see
-[[cellvibrio-and-root-decay-microbiome]]), confounding the true endorhiza
-community with early successional decay communities.
-
-## Experiment 2: Pre-Harvest Sampling
-
-### Objective
-
-Understand the nature and strength of cultivar-specificity with greater
-edaphic variation, using a controlled cross-soil design.
-
-### Cultivars and Growing Conditions
-
-- **White Widow**: Balanced hybrid (sativa x indica), moderate THC to CBD
-- **Maui Wowie**: Cannabis sativa, high THC to CBD ratio
-
-Four plants (two per cultivar) grown in Mo-Bio soil (Vista, CA); two
-White Widow plants grown in Orange County soil. This created significant
-edaphic variation (see [[soil-edaphic-factors-microbial-communities]]).
+[[soil-edaphic-factors-microbial-communities]]).
 
 ### Sampling Protocol
 
@@ -113,24 +96,8 @@ Isolation Kit (MO BIO, USA) with a key modification: heating at 65
 degrees C for 10 minutes prior to the initial vortex step, improving
 lysis of tough Gram-positive endophytes. Root samples were surface-
 sterilized with alcohol and sterile water to isolate true endorhiza
-bacteria. See [[16s-rrna-sequencing-microbiome-analysis]] for complete
-sequencing and bioinformatics details.
+bacteria. See [[cannabinoid-microbiome-correlation-cannabis]]
 
-## Design Implications
-
-The complementary design addressed different questions: experiment 1
-tested whether any cultivar variation exists, while experiment 2 measured
-cultivar-specificity strength with controlled soil comparisons. The
-post-harvest timing of experiment 1 proved useful for studying root decay,
-though not originally intended. Future studies would benefit from unified
-design with consistent sampling across all cultivars and soil types.
-
-## See Also
-
-- [[cannabinoid-microbiome-correlation-cannabis]]
-
-- [[16s-rrna-sequencing-microbiome-analysis]] for sequencing methodology
 - [[cannabis-cultivar-microbiome-specificity]] for results overview
-- [[cellvibrio-and-root-decay-microbiome]] for post-harvest effects
 - [[soil-edaphic-factors-microbial-communities]] for soil differences
 - [[cannabis-microbiome-research]] for the complete study overview

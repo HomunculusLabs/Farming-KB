@@ -1,32 +1,16 @@
 ---
 title: Fungal Biodiversity Assessment Methods
 created: 2026-04-28
-tags: [mycology, biodiversity, fungal-survey, species-identification, ecology]
+tags: [[mycology, biodiversity, fungal-survey, species-identification, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md, magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# [[fungal-biodiversity]] Assessment Methods
-
-## Overview
-
-Assessing fungal biodiversity presents unique challenges compared to surveys of
-plants or animals. The majority of fungal biomass exists as unseen mycelial
-networks within soil, wood, and leaf litter, with visible fruiting bodies
-representing only a brief reproductive phase. Furthermore, many fungi produce
-inconspicuous or ephemeral fruiting structures, making traditional
-biodiversity surveys based on visual detection inherently incomplete. Despite
-these challenges, multiple methodological approaches have been developed to
-catalog and assess fungal diversity across ecosystems, ranging from classical
-morphological identification to modern molecular genetic techniques.
-
-The importance of fungal biodiversity assessment extends beyond academic
-taxonomy. Fungi play fundamental roles in nutrient cycling, decomposition,
-[[fungi-in-the-environment-symbiotic-relationships]], and ecosystem function. Understanding fungal
+# [[fungi-in-the-environment-symbiotic-relationships]], and ecosystem function. Understanding fungal
 community composition is essential for monitoring ecosystem health, guiding
-[[ethnomycology]], and discovering novel species with potential
+ethnomycology, and discovering novel species with potential
 biotechnological or pharmaceutical applications.
 
 ## Key Concepts
@@ -112,15 +96,7 @@ tiny species." This gap underscores the need for expanded survey efforts.
 
 ### Ecosystem Health Monitoring
 
-Changes in [[soil-fungal-community-composition]] serve as bioindicators of
-ecosystem health, reflecting shifts in soil conditions, vegetation
-composition, air quality, and land management practices. Regular fungal
-biodiversity surveys can detect environmental degradation before it
-becomes apparent through other biological indicators.
-
-### Conservation Planning
-
-[[fungal-biodiversity-data-analysis]] inform conservation strategies by identifying
+Changes in [[fungal-biodiversity-data-analysis]] inform conservation strategies by identifying
 species of conservation concern, mapping hotspots of fungal diversity,
 and assessing the impact of habitat management practices on fungal
 communities. The recognition of Armillaria individuals spanning thousands
@@ -142,9 +118,7 @@ temperate regions.
 - Gartz, J. (1996). *Magic Mushrooms Around the World*. MIT Press.
   On distribution mapping, chemical analysis for species verification,
   and Psilocybe biodiversity surveys.
-
 ## See Also
 
-- [[fungal-biodiversity-measurement-methods]]
 - [[dighton-soil-fungal-biodiversity-assessment]]
 - [[fungi-in-the-environment-fungal-biodiversity]]

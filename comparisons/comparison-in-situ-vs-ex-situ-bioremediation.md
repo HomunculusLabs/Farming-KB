@@ -21,41 +21,6 @@ essential roles in the environmental remediation toolkit.
 
 ## In-Situ Bioremediation
 
-[[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
-
-In-situ treatment applies biological agents directly to contaminated soil or groundwater
-without excavation, minimizing site disturbance and preserving existing site
-infrastructure. For fungal bioremediation, this means introducing formulated inoculum
-containing selected fungal strains into the contaminated environment where they must
-survive, colonize, and compete with native microorganisms. The formulation challenge is
-significant: laboratory-selected strains face competition, predation, and environmental
-stress that can reduce their effectiveness by orders of magnitude compared to controlled
-conditions.
-
-Several formulation strategies address this challenge. Alginate encapsulation creates
-calcium alginate gel pellets that protect spores and mycelium during deployment and
-provide a nutrient-rich microhabitat for initial colonization. Solid-state fermentation
-grows mycelium on lignocellulosic carriers like sawdust or corn cobs, providing pre-
-established hyphae that survive field conditions far better than bare spores. Pesta
-formulation embeds propagules in a wheat flour gluten dough matrix, while pelleted
-substrate coating uses mycelium-coated sawdust pellets developed by the USDA Forest
-Products Laboratory. Key success factors include using pre- established mycelium rather
-than spores, nutrient supplementation, mechanical stability of the carrier, and
-competitive exclusion using selective substrates that favor the introduced fungus.
-
-The fundamental advantage of in-situ treatment is minimal site disturbance. Contaminated
-soil remains in place, preserving site integrity, avoiding the cost and environmental
-impact of excavation and transport, and treating the entire contaminated volume including
-deep subsurface soil that would be impractical to excavate. In-situ treatment is generally
-less expensive per unit volume and causes minimal disturbance to surrounding ecosystems
-and property. However, in- situ methods offer limited control over environmental
-conditions including temperature, moisture, pH, and nutrient availability. Competition
-from native microbes can overwhelm introduced strains, treatment timelines are longer and
-less predictable, and verifying treatment completion requires extensive soil sampling and
-analysis.
-
-## Ex-Situ Bioremediation
-
 [[singh-biopile-fungal-treatment-contaminated-soil]]
 
 Ex-situ treatment involves excavating contaminated soil and processing it in engineered
@@ -141,8 +106,6 @@ contamination.
 
 ## See Also
 
-- [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-biochar-vs-mycoremediation]]
-- [[comparison-bioaugmentation-vs-biostimulation]]
 - [[comparison-biochar-remediation-vs-phytoremediation]]
-- [[bioremediation-ecosystem-restoration]]
+- [[mycoremediation]]

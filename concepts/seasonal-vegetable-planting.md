@@ -123,13 +123,6 @@ fleece provide several degrees of frost protection.
 Ensuring a continuous supply of vegetables requires
 strategy. Some crops like chard and kale provide harvests
 through winter. Quick-maturing radishes and salad leaves
-fill gaps between main crops. [[perennial-vegetables]] like
-asparagus and sea kale provide reliable annual harvests
-with minimal replanting effort.
-
-## See Also
-
-- [[crop-rotation-vegetable-garden]]
-- [[green-manures-organic-gardening]]
+fill gaps between main crops. [[crop-rotation-vegetable-garden]]
 - [[seed-saving-storage]]
 - [[soil-health-management]]

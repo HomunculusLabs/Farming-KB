@@ -16,7 +16,7 @@ sources:
 
 # Agar-to-Grain Wedge Transfer Technique
 
-The agar-to-grain transfer is the critical bridge between [[agar-culture-techniques-detailed]] and [[growing-gourmet-plug-spawn-production]]. It converts a pure mycelial culture on agar into a colonized grain medium that can then be exponentially expanded through grain-to-grain transfers. Paul Stamets describes this technique in detail in *The Mushroom Cultivator*, including the recommended "double wedge" method that significantly accelerates colonization speed compared to single-wedge transfers.
+The agar-to-grain transfer is the critical bridge between [[growing-gourmet-plug-spawn-production]]. It converts a pure mycelial culture on agar into a colonized grain medium that can then be exponentially expanded through grain-to-grain transfers. Paul Stamets describes this technique in detail in *The Mushroom Cultivator*, including the recommended "double wedge" method that significantly accelerates colonization speed compared to single-wedge transfers.
 
 ## Selecting the Source Culture
 
@@ -28,7 +28,7 @@ A single petri dish two-thirds covered with mycelium should amply inoculate six 
 
 Before conducting transfers, the inoculation environment must be thoroughly cleaned. The cultivator's body is a major contamination source, carrying bacteria, microscopic mites, and spores of plants and fungi. Wearing newly laundered clothes and maintaining personal cleanliness is essential.
 
-All tools should be flame-sterilized immediately before use. See [[mushroom-cultivation-fundamentals]] for comprehensive sterile workspace preparation and [[contamination-identification-prevention]] for contamination awareness.
+All tools should be flame-sterilized immediately before use. See [[contamination-identification-prevention]] for contamination awareness.
 
 ## Standard Single Wedge Transfer
 
@@ -46,17 +46,7 @@ If a wedge sticks to the glass wall rather than falling into the grain, distribu
 
 ## Incubation and Colonization Timeline
 
-After shaking, jars are incubated at the species-appropriate temperature. For most species, grain should be fully colonized with mycelium in seven to ten days. A second shaking may be necessary on day four or five to further distribute colonizing kernels. Species vary in colonization speed: [[agaricus-bisporus-cultivation-biology]] can take up to two and a half weeks, while faster species may colonize in a week.
-
-## Lid Management
-
-Loosening the jar lids prior to inoculation facilitates speedy transfers. As each transfer is completed, the lid is replaced and the next jar is inoculated. Once the full set is finished, all lids are firmly secured before shaking. The lids must be loose enough during incubation for gas exchange but tight enough to prevent contamination entry.
-
-## Agar-to-Grain as the Foundation for Expansion
-
-The grain jars produced by agar-to-grain transfer become the "master cultures" (G-1 generation). These masters are then used for grain-to-grain transfers to produce second-generation (G-2) and third-generation (G-3) spawn. A single petri dish can ultimately inoculate up to 1,000 jars of spawn through successive expansions.
-
-This exponential amplification makes it critically important that the original agar-to-grain transfers maintain the highest possible standard of purity. See [[spawn-generation-techniques]] for the full spawn production workflow.
+After shaking, jars are incubated at the species-appropriate temperature. For most species, grain should be fully colonized with mycelium in seven to ten days. A second shaking may be necessary on day four or five to further distribute colonizing kernels. Species vary in colonization speed: [[spawn-generation-techniques]] for the full spawn production workflow.
 
 ## Critical Quality Control Points
 
@@ -82,43 +72,11 @@ This exponential amplification makes it critically important that the original a
 
 ## Relationship to Liquid Culture
 
-Modern cultivators sometimes substitute or supplement wedge transfers with [[mushroom-liquid-culture]] inoculation, which offers faster colonization but carries higher bacterial contamination risk. The traditional wedge transfer remains the gold standard for establishing pure grain masters.
+Modern cultivators sometimes substitute or supplement wedge transfers with [[spawn-generation-techniques]] for the full spawn production workflow
 
-## See Also
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] for workspace and personal contamination control
 
-- [[spawn-generation-techniques]] for the full spawn production workflow
-
-- [[agar-culture-techniques-detailed]] for source culture preparation
-
-- [[mushroom-cultivation-fundamentals]] for workspace and personal contamination control
-
-- [[contamination-identification-prevention]] for contamination awareness
-
-## Practical Context
-Agar To Grain Wedge Transfer Technique is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
 - [[incubation-and-colonization]]
-- [[spawn-production]]
 - [[paul-stamets]]
-- [[growing-gourmet-grain-spawn-generation]]
 - [[cultivator-grain-spawn-preparation-and-inoculation]]
 - [[phase-transfer-catalysis]]

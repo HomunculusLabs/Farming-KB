@@ -133,11 +133,7 @@ Modern pharmacological studies have confirmed antibacterial activity against foo
 
 ## See Also
 
-- [[elettaria-cardamomum]]
 - [[amomum-subulatum]]
-- [[alpinia-galanga]]
 - [[zingiber-officinale]]
-- [[cinnamomum-cassia]]
 - [[syzygium-aromaticum]]
-- [[illicium-verum]]
 - [[myristica-fragrans]]

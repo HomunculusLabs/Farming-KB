@@ -113,9 +113,7 @@ parent.
 
 ## See Also
 
-- [[pihkal-mescaline]]
 - [[pihkal-mescaline-analogs]]
-- [[mescaline-derivatives-pihkal]]
 - [[2c-b-pihkal-entry-20]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]
 

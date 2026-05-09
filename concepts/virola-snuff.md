@@ -15,15 +15,7 @@ inner bark of several species of Virola, a genus of trees in the
 nutmeg family (Myristicaceae). Used by numerous indigenous tribes of
 the western Amazon basin, virola snuffs represent one of the most
 widespread and pharmacologically significant entheogenic snuff
-traditions in [[neurotropic-fungi-in-south-america]]. The snuffs contain DMT and related
-tryptamine alkaloids, producing intense visionary experiences when
-insufflated.
-
-## Botanical Sources
-
-The principal Virola species used for snuff preparation include:
-
-- **[[virola-theiodora]]**: Widely used in the Brazilian and Colombian Ama
+traditions in [[virola-theiodora]]**: Widely used in the Brazilian and Colombian Ama
   zon; one of the most important species
 - **Virola calophylla**: Used by tribes in the upper Rio Negro region 
   of Brazil
@@ -48,40 +40,7 @@ numerous other groups of the Rio Negro and Vaupes river systems. The
 practice is particularly widespread among tribes of the upper Rio
 Negro basin.
 
-## [[amanita-preparation-methods]]
-
-Several distinct methods of virola snuff preparation have been
-documented by ethnobotanists, reflecting the diverse cultural
-traditions of the Amazon:
-
-### Method 1: Bark Scrapings (Waika/Yanomamo)
-
-The inner bark is stripped from the tree, moistened with water, and
-kneaded over a fire. The resinous exudate that oozes out is
-collected, toasted on a ceramic griddle, and pulverized to a fine
-powder. It is then mixed with the ash of a particular tree bark
-(usually Elizabetha princeps or other species) to create an alkaline
-snuff powder ready for use.
-
-### Method 2: Bark Juice (Bora and Witoto)
-
-The inner bark is stripped, crushed, and squeezed in a leaf funnel.
-The resulting juice is boiled down to a thick syrup, which is then
-dried and pulverized to a fine powder. The powder is mixed with
-alkaline ash before use. This method produces a particularly potent
-preparation.
-
-### Method 3: Resin Collection (Makú and Other Tribes)
-
-Shallow cuts are made in the trunk of the Virola tree, and the
-exuding resin is collected over a period of days as it hardens on the
-bark surface. The resin is toasted and pulverized, then mixed with
-ash for snuff use. This method is the most efficient in terms of
-resin yield but requires access to standing trees.
-
-## Administration
-
-Like [[yopo-snuff]], virola snuff is typically administered by
+## [[yopo-snuff]], virola snuff is typically administered by
 blowing the powder into the nostrils through bamboo or bone tubes.
 Among some tribes, the snuff is self-administered using a special
 Y-shaped or forked tube that allows simultaneous insufflation of both
@@ -118,8 +77,7 @@ the community.
 ## Chemistry
 
 The psychoactive constituents of Virola bark resin are tryptamine
-alkaloids, the same class of compounds found in [[yopo-snuff]] and
-the additive plants used in [[ayahuasca-preparation]]:
+alkaloids, the same class of compounds found in [[ayahuasca-preparation]]:
 
 - **DMT (N,N-dimethyltryptamine)**: The principal active compound, fou
   nd at concentrations of 0.11-8.3% in dried bark
@@ -132,7 +90,7 @@ the additive plants used in [[ayahuasca-preparation]]:
 The tryptamine content varies considerably between species and even
 between individual trees, making the potency of the snuff somewhat
 unpredictable. The alkaline ash admixture serves the same function as
-in [[yopo-snuff]] and [[cohoba-snuff]] preparations, converting the
+in [[cohoba-snuff]] preparations, converting the
 alkaloids to a free-base form for efficient nasal absorption.
 
 ## Effects

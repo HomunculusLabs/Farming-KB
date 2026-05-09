@@ -1,5 +1,4 @@
 ---
-title: Fungi In Garden Ecosystems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -69,7 +68,7 @@ Approximately 90-95% of garden plants form [[mycorrhizal-fungi|mycorrhizal assoc
 
 ### Fairy Rings
 
-[[mushroom-contamination-identification-and-troubleshooting|Fairy rings]] are among the most visible fungal phenomena in lawns:
+[[fairy-rings-and-giant-mycelia|Fairy rings]] are among the most visible fungal phenomena in lawns:
 
 - Caused by underground mycelial mats of basidiomycete fungi expanding outward from a central point
 - The advancing front of mycelium decomposes organic matter, temporarily releasing nitrogen that stimulates grass growth (dark green ring)

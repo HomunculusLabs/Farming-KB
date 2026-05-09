@@ -16,9 +16,7 @@ Soil testing is the single most important step a gardener or farmer can take bef
 
 ## The Von Liebig-Howard Regulation
 
-The modern concept of fertilizers rests on Justus [[von-liebig-law-of-the-minimum-and-fertilizer-history]], which states that a plant's yield is limited by the single nutrient in shortest supply. Sir Albert Howard, the pioneer of organic gardening, articulated the Law of Return, which holds that plant and animal wastes must be recycled to keep the system healthy and producing humus. These two laws belong together.
-
-Historically, these two laws of agriculture have been pitted against each other, but when it comes to gardening, they belong together. If you apply Sir Howard's Law of Return to the strictest extent (as you might with perennials and ornamental trees), then none of the nutrients in your garden should be limited, as per Von Liebig's law. When a plant dies, it is decayed by the [[lowenfels-earthworms-soil-food-web]], and the fourteen mineral nutrients that it contained are returned to the soil.
+The modern concept of fertilizers rests on Justus [[lowenfels-earthworms-soil-food-web]], and the fourteen mineral nutrients that it contained are returned to the soil.
 
 Farmers break the law when they take manures off the property and when they sell the livestock that ate the plants growing on the farm. Gardeners break it when they harvest crops, rake leaves, or pull weeds -- the removed nutrients are gone from the system. Lowenfels calls this intersection the "Von Liebig-Howard Regulation": when conditions are ideal, breaking the Law of Return is what creates the need to fertilize.
 
@@ -46,15 +44,7 @@ A soil test is only as good as the samples. Follow these principles:
 
 Beyond the fourteen essential mineral nutrients, request these additional tests:
 
-**Cation Exchange Capacity (CEC):** Measures the soil's ability to hold positively charged nutrient ions. In theory, this gives you what many agricultural laboratories call the "soil savings account," the total ability of the soil to hold positive cations. [[teaming-with-nutrients-composting-and-nutrient-cycling]] from 0 to 100, the latter being pure humus with lots of cations. CEC determines how much calcium, magnesium, potassium, and ammonium nitrogen is available. These elements almost always affect one another -- too much calcium can induce magnesium deficiency, excess potassium negatively affects magnesium uptake, and excessive magnesium reduces calcium availability. CEC is also used to determine what to add to change pH when the problem isn't calcium related.
-
-**Base Saturation:** CEC tests can get very detailed. A laboratory may report the percent base saturation for individual cations, telling you how many of the cation exchange sites are taken up by particular cations (calcium, magnesium, potassium, hydrogen). While this is not a test of all the available nutrients, some laboratories use this number as the basis for their fertilizer program.
-
-**pH:** The measure of soil acidity on a logarithmic scale. A pH around 7 (neutral) seems best for most plants. The pH scale is logarithmic, meaning that moving one point makes a difference of ten times. pH has a strong influence on nutrient availability, particularly that of phosphorus. You can't change the pH of a soil instantly -- it takes time because the chemical reactions within the soil can continue to make the hydrogen ions that lower the pH. The CEC, which usually increases with an increase of pH, also has an impact and is considered by a testing laboratory when making adjustment suggestions.
-
-**Organic Matter Content:** Reported as a percentage. Most garden soils have around 4 to 8 percent. This number should trend upward over the years if you add sufficient organic material each season. If it trends downward, you are not following the Law of Return or compensating for what you take out. Organic matter doesn't mean fertilizer itself -- it provides a place for the soil organisms to function, breaking down fertilizers and making their contents available to plants. Organic particles also hold cations and exchange them for hydrogen ions produced by plant root cells.
-
-**Biological Tests:** The soil food web should be cycling the nutrients in your soil into inorganic, ionic forms usable by plants. Knowing the status of the food web will help you understand if that part of your system needs adjustment. Testing for [[mycorrhizal-fungi-basics-lowenfels]] populations and overall soil food web health is increasingly recognized as important, though it typically requires a specialized laboratory.
+**Cation Exchange Capacity (CEC):** Measures the soil's ability to hold positively charged nutrient ions. In theory, this gives you what many agricultural laboratories call the "soil savings account," the total ability of the soil to hold positive cations. [[mycorrhizal-fungi-basics-lowenfels]] populations and overall soil food web health is increasingly recognized as important, though it typically requires a specialized laboratory.
 
 **Special Local Conditions:** Many laboratories cater to local conditions. In areas where flooding by salt water is frequent, a sodium test might be conducted as a matter of course -- this is also useful for soils affected by road salts. Areas of heavy rainfall have different nutrient deficiencies than areas that don't get much rain.
 
@@ -70,11 +60,8 @@ The real test, of course, is how the plants are doing. But it makes sense to tes
 
 ## See Also
 
-- [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
 - [[nutrient-cycling-in-soil]]
-- [[interpreting-soil-test-results]]
 - [[soil-testing-and-analysis]]
-- [[nutrient-cycling-in-soil]]
 - [[glomalin-and-soil-carbon]]
 
 ## Interpreting Nutrient Levels

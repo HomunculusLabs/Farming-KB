@@ -3,7 +3,7 @@ title: Sumerian Mushroom Nomenclature in Allegro's Theory
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
@@ -116,11 +116,8 @@ relying on Allegro's work without acknowledging its scholarly rejection.
 ## See Also
 
 - john allegro - The theorist behind these claims
-- [[allegro-philological-methodology]] - His linguistic method and its flaws
 - [[sacred-mushroom-and-the-cross]] - The full argument
 - Sumerian religion and mushroom cult - Broader Sumerian context
-- [[amanita-in-ancient-religion]] - Ancient Near Eastern fertility religion
 - [[allegro-names-of-the-gods-and-their-fertility-origins]]
-- [[allegro-fertility-philosophy-of-the-ancient-near-east]]
 - [[mushroom-symbols-ancient-languages-rock-art]]
 - [[allegro-old-testament-figures-as-fertility-deities]]

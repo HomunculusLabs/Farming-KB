@@ -1,7 +1,7 @@
 ---
 title: "Integrated Poultry Forage Systems and Zone Two Animal Design"
 created: 2026-04-28
-tags: [permaculture, poultry, forage, zone-two-design]
+tags: [[permaculture, poultry, forage, zone-two-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
@@ -9,72 +9,7 @@ type: concept
 ---
 
 Bill Mollison asserts that never in the history of the world has
-anyone designed and implemented [[permaculture-designers-manual-animal-forage-systems]]. This
-represents one of the great unexplored frontiers in permaculture,
-with enormous potential for replacing grain-fed livestock systems
-with perennial forage-based alternatives.
-
-## Mulberry as Primary Chicken Forage
-
-White mulberry is as good as a double crop of grain for chicken
-forage, providing 17% protein. The crop is valuable during its
-bearing period and beyond, because chickens continue harvesting
-fallen mulberries and associated insects long after the fruit is
-gone. Large cuttings of four-foot length and 1.5 inch diameter
-take root in their first autumn and produce full mulberry harvests
-by the following year.
-
-Two or three mulberry varieties extend the harvest season. The
-best black mulberries in the world are found in the United States.
-Mulberry leaves also feed silkworms, and silkworm manure is
-valuable fertilizer. Fish in ponds planted with mulberry feed
-directly on dropped fruit.
-
-## Siberian Pea Tree for Drought Fodder
-
-The Siberian pea tree (Caragana arborescens) is an excellent
-nitrogen-fixing small tree that carries poultry through drought
-periods. Common and hardy, it produces abundant seed that chickens
-harvest themselves. During summer when mulberries and other foods
-are plentiful, chickens ignore it, but when other seed sources
-fail, they rely on the pea tree as a critical food reserve.
-
-## Summer Greens and Winter Forage
-
-During summer drought, comfrey, cleavers, and chard provide
-essential green forage. Some gardeners grow more chard for their
-chickens than for themselves. Throw-over plants like chard and
-weedy greens supplement the system. Hawthorn and mountain ash are
-important winter forage species.
-
-Jerusalem artichokes and sunflowers round out the forage picture.
-A half acre of mixed forage may produce 5,000 pounds of chicken
-forage, much higher in protein value and more variable in food
-type than wheat. This would sustain 40 chickens for a year
-without considering additional grasses and insects.
-
-## Flock Management and Stocking Density
-
-No more than 400 chickens per acre should be maintained to
-preserve intact herb cover and avoid bare soil. Above this
-threshold, nitrogen weakens the pasture and chickens may eat
-it out. Three to four hundred birds is the break-even point.
-
-Flocks should not exceed 80 birds. Chickens are happiest with 50
-to 60 per flock, and about five roosters are needed per flock to
-prevent hens from wandering. On one acre, four separate 60-bird
-flocks of different breeds can run simultaneously. Heavy breeds
-lay better in winter while light breeds are spring and summer
-layers.
-
-Chicken houses should be separated by at least 150 feet. At this
-distance, flocks do not mix. Different breeds can be maintained
-independently with their own roosters.
-
-## The Chicken-Orchard System
-
-This is an integrated system where chickens provide pest control,
-fertilization, and [[hamilton-organic-weed-management]] within an orchard. Chickens
+anyone designed and implemented [[hamilton-organic-weed-management]] within an orchard. Chickens
 cannot disturb small plants if those are protected with wire mesh,
 mulch, or brush piles. Later in the season, when the system is
 established, 200 chickens can be loaded into an area.
@@ -138,6 +73,24 @@ forage species prepare the site for larger tree species to follow.
 
 ## See Also
 
-- mollison-designers [[mollison-designers-free-range-poultry-systems]]
-- [[poultry-forage-days-mollison]]
+- mollison-designers [[poultry-forage-days-mollison]]
 - [[mollison-forage-trees-in-livestock-systems]]
+## Practical Considerations
+
+Successful implementation of Integrated Poultry Forage Systems and Zone Two Animal Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

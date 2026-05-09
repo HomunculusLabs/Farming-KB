@@ -108,11 +108,8 @@ The apiol content historically led to its use as an abortifacient; concentrated 
 
 ## See Also
 
-- [[foeniculum-vulgare]]
 - [[anethum-graveolens]]
-- [[coriandrum-sativum]]
 - [[zingiber-officinale]]
-- [[curcuma-longa]]
 - [[glycyrrhiza-glabra]]
-- [[nigella-sativa]]
+- nigella-sativa
 - [[myristicin-entity]]

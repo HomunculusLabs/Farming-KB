@@ -4,12 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, energy]
----
-
-# PDC Energy Systems and Appropriate Technology
-
-The Williams PDC addresses energy systems as a critical component of [[permaculture-design]], emphasizing that energy literacy is essential for creating truly sustainable systems. Williams treats energy not just as electricity but as a holistic concept encompassing all forms of power and work.
+tags: [[permaculture-design]], emphasizing that energy literacy is essential for creating truly sustainable systems. Williams treats energy not just as electricity but as a holistic concept encompassing all forms of power and work.
 
 ## The Energy Hierarchy
 
@@ -59,72 +54,8 @@ Williams gives the most attention to solar energy as the most universally availa
 - Uses sunlight to heat water or air directly
 - More efficient than PV for heating applications (80-90% vs 15-20%)
 - Applications: domestic hot water, space heating, solar ovens, solar dehydrators
-- [[passive-solar-design]] uses building orientation and thermal mass for free heating
-
-**Passive Solar Design Principles**:
-- Orient buildings with the long axis east-west
-- Maximize south-facing glazing (northern hemisphere)
-- Use thermal mass to store and release heat
-- Design overhangs to admit low-angle winter sun while excluding high-angle summer sun
-- Use insulation and air sealing to minimize heat loss
-
-### Wind Energy
-
-Williams notes that wind energy is highly site-specific:
-- Requires consistent wind speeds of at least 8-10 mph for most small turbines
-- Tower height dramatically affects performance (wind speed increases with altitude)
-- Zoning restrictions often limit tower height in residential areas
-- Noise and visual impact must be considered in design
-- Best suited for open, elevated sites without obstructions
-
-### Micro-Hydro
-
-Williams describes micro-hydro as the most reliable renewable energy source where conditions allow:
-- Provides continuous power (unlike solar and wind which are intermittent)
-- Requires specific conditions: adequate head (elevation drop) and flow
-- Minimal environmental impact compared to large dams
-- Long system lifespan with proper maintenance
-- Can be very cost-effective per kilowatt-hour
-
-### Biomass Energy
-
-**Wood heating**:
-- The oldest form of bioenergy
-- Wood is a renewable resource when harvested sustainably
-- High-efficiency wood stoves and masonry heaters minimize emissions
-- Rocket stoves provide efficient cooking with minimal fuel
-
-**Biogas**:
-- Anaerobic digestion of organic waste produces methane
-- Can be used for cooking, heating, and electricity generation
-- Digestate is a valuable fertilizer
-- Requires consistent feedstock and temperature management
-- Scale ranges from small household systems to large community digesters
-
-## Appropriate Technology
-
-Williams emphasizes the concept of appropriate technology -- choosing technology that is:
-- **Suitable for the local context**: Climate, culture, skills, and resources
-- **Maintainable**: Can be repaired and maintained with locally available skills and parts
-- **Affordable**: Within the economic means of the user
-- **Ecologically beneficial**: Does not create more problems than it solves
-- **Resilient**: Not dependent on fragile supply chains or external infrastructure
-
-### Technology Selection Criteria
-
-Williams encourages designers to evaluate technology using these questions:
-1. What problem does this technology solve?
-2. Is there a simpler, lower-tech solution?
-3. Can the users maintain and repair it themselves?
-4. What are the full lifecycle impacts (manufacturing, operation, disposal)?
-5. Does it increase or decrease dependence on external systems?
-6. Does it build local capacity or erode it?
-
-### Examples of Appropriate Technology
-- **Solar ovens**: Concentrate sunlight for cooking without fuel
-- **Rocket stoves**: Efficient combustion using small-diameter wood
-- **[[composting-toilets]]**: Convert human waste to fertilizer without water
-- **[[permaculture-designers-manual-greywater-systems]]**: Reuse household water for irrigation
+- [[composting-toilets]]**: Convert human waste to fertilizer without water
+- **[[graywater-systems]]**: Reuse household water for irrigation
 - **Rainwater catchment**: Harvest roof runoff for water supply
 - **[[natural-building]]**: Use local, low-impact materials for construction
 - **Hand tools**: For small-scale agriculture and food processing

@@ -27,30 +27,7 @@ Roots develop exceptionally quickly in aeroponic systems. Long, dense root syste
 
 ## Aeroponics for Cloning
 
-Aeroponic clone gardens are highly effective for [[cannabis-clone-rooting-and-transplanting]]. To grow clones, simply insert clone stems into the growth chamber and turn the system on. Roots will develop in an ideal environment with consistent moisture and oxygen.
-
-Aeroponic clone gardens typically do not require rooting hormone, though some growers still use it to accelerate root development. Clones rooted aeroponically tend to develop stronger root systems faster than those rooted in traditional medium-based methods.
-
-## The RainForest System
-
-The RainForest system (available from General Hydroponics) is highlighted as a very popular aeroponic system. In this design, nutrient solution is actually atomized into the air to create 100 percent humidity. The solution is dripped onto a spinning plate. As it spins off the plate, the solution atomizes and mixes with the air in the reservoir above the water level.
-
-## Advantages of Aeroponics
-
-- **Maximum performance**: Aeroponic systems offer the highest growth rates and yields of any growing method.
-- **Superior oxygenation**: Roots have direct access to atmospheric oxygen, unlike submerged-root systems.
-- **Water efficiency**: Uses less water than [[deep-water-culture]] or [[ebb-and-flow]] systems.
-- **Fast rooting**: Cuttings develop roots exceptionally quickly in aeroponic cloning systems.
-- **No medium cost**: Eliminates the need for growing medium, reducing recurring expenses.
-- **Easy harvest**: Plants can be removed from the system easily since roots are not embedded in medium.
-
-## Disadvantages and Challenges
-
-- **High maintenance**: Aeroponic systems require greater attention to detail than other hydroponic methods.
-- **No buffer**: With no growing medium to act as a water and nutrient bank, the system is delicate and sensitive to disruptions.
-- **Pump failure risk**: If the pump fails, roots dry out quickly and plants suffer severe stress or death within hours.
-- **Nozzle clogging**: Systems that use delicate spray nozzles must be kept free of debris. Mineral buildup and particulate matter can clog nozzles.
-- **pH sensitivity**: Imbalanced nutrient solution and [[cannabis-nutrient-lockout-and-ph]] can cause problems quickly because there is no medium to buffer changes.
+Aeroponic clone gardens are highly effective for [[deep-water-culture]] or [[cannabis-nutrient-lockout-and-ph]] can cause problems quickly because there is no medium to buffer changes.
 - **Cost**: Quality aeroponic systems and components can be expensive.
 
 ## Component Quality
@@ -68,31 +45,14 @@ Aeroponic nutrient solutions must be carefully maintained:
 
 ## Cannabis Cultivation in Aeroponics
 
-Aeroponics is suitable for all stages of cannabis growth, from [[cannabis-seedling-care-guide]] through [[cannabis-vegetative-growth-stage]] and [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. The rapid growth rates make aeroponics particularly effective for commercial operations and experienced growers seeking maximum yield per unit of time.
-
-## Aeroponics vs. Other Hydroponic Systems
-
-Aeroponics represents the highest-performance end of the hydroponic-cannabis|hydroponic spectrum, but this comes with trade-offs:
-
-- **vs. DWC**: [[deep-water-culture]] submerges roots in aerated solution, providing a buffer against short interruptions. Aeroponics has no such buffer and roots dry quickly if misting stops.
-- **vs. NFT**: [[nutrient-film-technique]] flows a thin film of solution over roots. Aeroponics provides better oxygenation but less solution contact time.
-- **vs. Ebb and Flow**: [[ebb-and-flow]] uses a growing medium for buffering. Aeroponics has no medium and requires more precise management.
-- **vs. Bubbleponics**: [[bubbleponics]] combines top-feeding with root submersion. Aeroponics avoids submersion entirely for maximum oxygen exposure.
-- **vs. Wick**: [[cervantes-passive-wick-hydroponic-systems]] are passive and low-tech. Aeroponics is the opposite: active, high-tech, and demanding.
+Aeroponics is suitable for all stages of cannabis growth, from [[cannabis-vegetative-growth-stage]] and [[deep-water-culture]] submerges roots in aerated solution, providing a buffer against short interruptions. Aeroponics has no such buffer and roots dry quickly if misting stops.
+- **vs. NFT**: [[ebb-and-flow]] uses a growing medium for buffering. Aeroponics has no medium and requires more precise management.
+- **vs. Bubbleponics**: [[cervantes-passive-wick-hydroponic-systems]] are passive and low-tech. Aeroponics is the opposite: active, high-tech, and demanding.
 
 ## Cannabis Growth Stages in Aeroponics
 
-- **Seedling stage**: [[cannabis-seedling-care-guide]] can be started in aeroponic systems once they have developed initial roots. A small amount of growing medium in the net pot provides support.
-- **Cloning**: Aeroponic cloning produces roots faster than most other methods. Clones typically show roots in 5 to 10 days.
-- **Vegetative stage**: Exceptional [[cannabis-vegetative-growth-stage]] rates make aeroponics ideal for commercial operations.
-- **Flowering stage**: Heavy yields during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when nutrient solution is properly managed.
-
-## Root Health Monitoring
-
-Regular root inspection is critical in aeroponics:
-- **Healthy roots**: White, firm, and abundant with many fine root hairs.
-- **Stressed roots**: Browning tips indicate dry periods or nutrient imbalance.
-- **Diseased roots**: Brown, slimy, and foul-smelling roots indicate [[cannabis-root-rot-prevention-and-treatment]] or pathogen infection.
+- **Seedling stage**: [[cannabis-vegetative-growth-stage]] rates make aeroponics ideal for commercial operations.
+- **Flowering stage**: Heavy yields during [[cannabis-root-rot-prevention-and-treatment]] or pathogen infection.
 - **Algae**: Green roots or green residue in the chamber indicate light exposure.
 
 ## Maintenance Requirements
@@ -115,12 +75,8 @@ Regular root inspection is critical in aeroponics:
 
 ## See Also
 
-- [[hydroponic-cannabis]]
 - [[deep-water-culture]]
-- [[bubbleponics]]
 - [[nutrient-film-technique]]
-- [[ebb-and-flow]]
 - [[cannabis-clone-rooting-and-transplanting]]
-- [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-growing-mediums]]
 - [[cannabis-root-rot-prevention-and-treatment]]

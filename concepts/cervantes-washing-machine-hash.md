@@ -134,8 +134,6 @@ storing to prevent mold and fungus.
 
 ## See Also
 
-- [[cervantes-water-hash-bubble-hash]]
 - [[cervantes-hash-making-extracts]]
-- [[cervantes-dry-sieve-hash-pollinator]]
 - [[cervantes-pressing-hash]]
 - [[cannabis-harvesting-and-curing-techniques]]

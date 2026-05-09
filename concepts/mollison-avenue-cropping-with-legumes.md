@@ -117,24 +117,6 @@ Avenue cropping serves as a transitional strategy between open
 field agriculture and mature food forests. The legume rows
 gradually create conditions suitable for establishing longer
 term tree crops between them. As the canopy closes, the system
-evolves toward a [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] structure with multiple layers of production.
-
-## Tagasaste as a Model Species
-
-Tagasaste deserves special mention as a model avenue cropping
-species. Unirrigated, it produces the equivalent forage weight
-of irrigated lucerne. It provides abundant seeds for chickens
-and honey for bees. For cut forage, spacing at 1.0 to 1.5 m
-is ideal (stems kept cut at 1 m high), while for seed and bees
-spacing at 4-5 m produces better forage. Field drilling with
-a normal seedbox, combined with a mix of daikon radish or
-turnip, is often effective in grass suppression while trees
-establish.
-
-## See Also
-
-- [[permaculture-multipurpose-trees]]
-- [[mollison-tropical-mulch-systems-and-materials]]
-- [[faires-coppicing-and-woodlot-management]]
-- [[mollison-animal-integration-permaculture-design]]
+evolves toward a [[permaculture-multipurpose-trees]]
+- [[woodlot-and-coppicing]]
 - [[pdc-food-forest-layers-and-succession]]

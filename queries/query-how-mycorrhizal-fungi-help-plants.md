@@ -16,16 +16,7 @@ Mycorrhizal fungi form a symbiotic relationship with plant roots, extending a va
 
 ## What Are Arbuscular Mycorrhizal Fungi?
 
-[[arbuscular-mycorrhizal-fungi]] (AMF) are the most widespread type of mycorrhizal association.
-
-They are found in the roots of:
-- Most agricultural crops (corn, wheat, rice)
-- Garden vegetables (tomatoes, peppers, squash)
-- Grasses and pasture species
-- Many perennial plants and shrubs
-- Most fruit trees
-
-The biology of this symbiosis is covered in depth on the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] page.
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] page.
 
 ## How the Symbiosis Works
 
@@ -55,13 +46,7 @@ Key facts about hyphal networks:
 - Hyphae are 10-100x thinner than the finest roots
 - They access phosphorus and micronutrients in soil pores roots cannot reach
 
-The [[soil-food-web-nutrient-cycling]] framework shows how mycorrhizal fungi are central to the soil nutrient economy.
-
-They are the primary pathway for phosphorus movement from soil to plant in most natural ecosystems.
-
-## The Common Mycorrhizal Network
-
-Beyond individual plant benefits, [[arbuscular-mycorrhizal-networks]] create physical connections between plants.
+The [[arbuscular-mycorrhizal-networks]] create physical connections between plants.
 
 This "wood wide web" enables:
 - **Nutrient sharing** - carbon, nitrogen, and phosphorus flow between plants
@@ -96,17 +81,7 @@ Mechanisms include:
 - Competition with pathogens for root colonization sites
 - Increased plant vigor making plants less susceptible overall
 
-The [[biofertilizers-and-soil-inoculants]] resource explains how commercial mycorrhizal products leverage these benefits.
-
-## Encouraging Mycorrhizal Associations
-
-For gardeners and farmers looking to encourage mycorrhizal fungi:
-
-**Do:**
-- Maintain living root systems year-round through cover cropping
-- Minimize soil disturbance (reduce or eliminate tillage)
-- Use diverse crop rotations
-- Apply [[arbuscular-mycorrhizal-inoculum-production-best-practices]] techniques
+The [[arbuscular-mycorrhizal-inoculum-production-best-practices]] techniques
 - Provide moderate phosphorus levels (not excess)
 
 **Avoid:**
@@ -131,15 +106,8 @@ Mycorrhizal crops can support the fungal network that then benefits neighboring 
 
 ## Key Points
 
-- [[arbuscular-mycorrhizal-fungi]] extend the root zone by orders of magnitude
-- The nutrient exchange happens at structures called arbuscules, detailed in [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[arbuscular-mycorrhizal-networks]] connect plants, enabling nutrient sharing and signaling
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[soil-food-web-nutrient-cycling]] is driven in large part by mycorrhizal fungi
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] explains how to produce your own inoculum
-
-## Related
-
 - [[query-how-do-fungi-contribute-to-carbon-sequestration]] Questions
 
-- [[query-how-to-build-healthy-garden-soil]]
 - [[query-how-to-make-compost-tea-for-my-plants]]

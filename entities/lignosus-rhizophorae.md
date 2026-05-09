@@ -113,14 +113,9 @@ The species has not been assessed for the IUCN Red List, but habitat loss from m
 
 ## See Also
 
-- [[ganoderma-lucidum]]
 - [[inonotus-obliquus]]
-- [[trametes-versicolor]]
 - [[hericium-erinaceus]]
-- [[pleurotus-ostreatus]]
 - [[piptoporus-betulinus]]
-- [[fomes-fomentarius]]
 - [[coriolopsis-gallica]]
-- [[mycoremediation]]
 - [[beta-glucans]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

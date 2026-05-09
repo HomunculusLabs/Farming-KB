@@ -17,28 +17,8 @@ type: concept
 ## Earthworks for Erosion Control
 
 Erosion is the single greatest threat to productive land worldwide. Bill
-Mollison's *[[permaculture]]: A Designers' Manual* treats erosion not as an
-inevitable natural process but as a symptom of poor design, and one that can
-be halted and reversed through appropriate earthworks and vegetation
-management. Erosion control earthworks slow water flow, reduce runoff
-velocity, capture sediment, and create conditions for vegetation
-re-establishment. These techniques complement [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-and are fundamental to [[mollison-designers-permaculture-principles-and-ethics]].
-
-## Understanding Erosion Processes
-
-Erosion begins when rainfall strikes bare soil with sufficient force to detach
-particles, and when surface runoff acquires enough velocity to transport those
-particles downslope. The three primary types of erosion are sheet erosion
-(uniform removal of thin soil layers), rill erosion (concentration of flow
-into small channels), and gully erosion (deep channel formation from
-concentrated, high-velocity flow).
-
-Mollison identifies four factors that determine erosion severity: slope
-steepness, soil erodibility, vegetation cover, and rainfall intensity and
-duration. Design for erosion control addresses each factor: reducing effective
-slope through contour earthworks, improving soil stability through
-[[mollison-designers-humus-building-and-soil-organic-matter]], maintaining
+Mollison's *[[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+and are fundamental to [[mollison-designers-humus-building-and-soil-organic-matter]], maintaining
 vegetative cover, and slowing water movement across the landscape.
 
 ## Contour Banks
@@ -147,4 +127,3 @@ most [[permaculture-earthworks]]; larger machinery suits broadscale reshaping.
 > including contour banks, diversion drains, check dams, gabion walls, and
 > grade stabilization structures that slow water flow, reduce runoff velocity,
 > capture sediment, and create conditions for vegetation re-establishment. In
-> permaculture, these earthworks integrate with water harvesting, soil building,

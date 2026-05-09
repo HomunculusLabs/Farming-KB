@@ -133,15 +133,10 @@ The XML markup defines tabs, groups, and controls, while callbacks handle the
 logic behind button clicks and other interactions. This architecture makes the
 Ribbon extensible but also adds complexity for add-in developers compared to the
 simpler toolbar model it replaced.
-
 ## See Also
 
-- [[microsoft-word-document-format]]
 - [[mycoparasite-host-interface-types-interaction-mechanisms]]
-- [[microsoft-word]]
 - [[microsoft-word-document-format-history]]
-- [[word-document-formats]]
-
 - [[word-collaboration-features]]
 
 - [[microsoft-word-history]]

@@ -110,13 +110,8 @@ For culinary use, young leaves should be harvested before the flower stalk emerg
 
 ## See Also
 
-- [[comfrey-symphytum-officinale]]
 - [[pleurotus-ostreatus]]
-- [[arctium-lappa]]
 - [[urtica-dioica]]
-- [[plantago-major]]
 - [[verbascum-thapsus]]
-- [[leonurus-cardiaca-entity]]
 - [[ashwagandha-withania-somnifera]]
-- [[hypericum-perforatum]]
 - [[tropaeolum-majus]]

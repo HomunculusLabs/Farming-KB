@@ -21,7 +21,6 @@ sources:
   - https://www.uky.edu/hort/blackberry-production-in-kentucky
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7858305/
 ---
-
 # Erect vs Trailing vs Primocane-Fruiting Brambles
 
 Choosing the right bramble growth habit is one of the most important decisions for a successful planting. The three main types — erect, trailing, and primocane-fruiting — differ fundamentally in how they grow, how they must be managed, and what kind of harvest they deliver. This comparison covers blackberries and raspberries across these growth categories.
@@ -59,42 +58,7 @@ Erect brambles produce stiff, self-supporting canes that grow 3–6 feet tall. N
 - Generally lower fruit quality (smaller berries, less complex flavor) than trailing types
 - Suckering can become invasive without management
 - Less productive per linear foot than trailing types on trellises
-- Primocane tip pruning is required for optimal lateral branching and yield
-
-### Trailing Brambles
-
-Trailing brambles produce long, flexible canes (10–20+ feet) that scramble along the ground if not supported. They must be trained onto a trellis system. This category includes most Pacific Northwest specialty blackberries ('Marion', 'Chehalem', 'Obsidian', 'Boysenberry') and some blackberry-raspberry hybrids.
-
-**Strengths:**
-- Highest fruit quality — larger berries, better flavor, higher sugar content
-- Very high yield potential when properly trellised
-- Extended harvest window with sequential ripening
-- Unique and prized flavors not available in erect types
-- Canes are naturally flexible, easy to train onto wires
-
-**Weaknesses:**
-- Require substantial trellising infrastructure (posts, wire, anchoring)
-- Less cold-hardy; most varieties limited to Zones 6–10
-- Require more space (wider row spacing)
-- Most varieties have thorns, making harvest and pruning unpleasant
-- Canes are bulky and difficult to manage during pruning season
-- More labor-intensive overall
-
-### Primocane-Fruiting Brambles
-
-Primocane-fruiting (also called "fall-bearing" or "everbearing") brambles produce fruit on current-season canes, typically in late summer through fall. This is a biological distinction separate from growth habit — primocane-fruiting types can be either erect or semi-erect in their physical growth pattern. Prominent examples include 'Heritage' and 'Caroline' (red raspberries) and 'Prime-Ark Freedom' and 'Prime-Ark Traveler' (blackberries).
-
-**Strengths:**
-- Simplifies pruning dramatically — in single-crop mode, mow all canes to the ground in late winter
-- Eliminates overwintering disease inoculum (spent canes are removed annually)
-- Extends harvest season into fall when other berries are finished
-- Excellent for container growing and small-space gardens
-- Avoids winter injury to floricanes (since no canes need to overwinter for fruit)
-- Makes crop management more predictable and accessible for beginners
-- In mild climates, can produce a double crop (summer on lower cane portions + fall on upper)
-
-**Weaknesses:**
-- Fall crop may be interrupted or reduced by early frost in cold climates
+- Primocane tip pruning is required for optimal lateral branching [[query-how-do-i-grow-figs-in-cold-climates]]
 - Total yield per season is often lower than well-managed floricane types (unless double-cropping)
 - Fall berries are sometimes smaller and less sweet, especially in cool autumn conditions
 - Double-crop management reintroduces the complexity of distinguishing floricanes from primocanes
@@ -142,8 +106,6 @@ Primocane-fruiting (also called "fall-bearing" or "everbearing") brambles produc
 
 **Fruit quality metrics:**
 ## See Also
-
-- [[comparison-blackberry-vs-raspberry]]
 
 - [[comparison-fruit-tree-guilds-vs-companion-planting]]
 - [[comparison-windbreak-vs-hedgerow]]

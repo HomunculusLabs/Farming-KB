@@ -1,5 +1,4 @@
 ---
-title: Mushroom Crop Rotation And Substrate Reuse
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -121,7 +120,7 @@ Some species can fruit on substrate that has already been colonized and partiall
 Spent indoor substrate can be used to inoculate outdoor mushroom beds:
 
 - Bury spent blocks in garden beds or woodchip piles
-- Many species (particularly wine cap, [[oyster-mushroom-pleurotus-ostreatus|oyster]], and [[kings-stropharia-garden-giant|King Stropharia]]) will continue to fruit from buried spent substrate for 1-2 additional seasons
+- Many species (particularly [[wine-cap-stropharia-cultivation|wine cap]], [[oyster-mushroom-pleurotus-ostreatus|oyster]], and [[kings-stropharia-garden-giant|King Stropharia]]) will continue to fruit from buried spent substrate for 1-2 additional seasons
 - This approach integrates mushroom cultivation with [[outdoor-mushroom-bed|outdoor garden beds]]
 
 ## Economic Considerations
@@ -135,7 +134,7 @@ Spent indoor substrate can be used to inoculate outdoor mushroom beds:
 - [[mushroom-composting-and-recycling|mushroom composting and recycling]]
 - [[composting-methods-comparison|composting methods comparison]]
 - [[mushroom-substrates|mushroom substrate guide]]
-- [[cotter-mushroom-pests-diseases|mushroom pests and diseases]]
+- [[mushroom-pests-and-diseases|mushroom pests and diseases]]
 
 ## Related
 

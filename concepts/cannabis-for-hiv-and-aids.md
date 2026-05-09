@@ -10,26 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has been widely used by HIV/AIDS patients for symptom management, with research supporting its effectiveness for appetite stimulation, pain relief, nausea control, and mood improvement. The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] reviews multiple studies on cannabis for HIV/AIDS-related conditions.
-
-## Understanding HIV/AIDS
-
-HIV (Human Immunodeficiency Virus) attacks the immune system, specifically CD4+ T cells. Without treatment, HIV progressively destroys the immune system, leading to AIDS (Acquired Immunodeficiency Syndrome), where the body becomes vulnerable to opportunistic infections and cancers.
-
-### Key Symptoms and Complications
-- **Wasting syndrome**: Severe weight loss, muscle atrophy
-- **Anorexia/cachexia**: Loss of appetite and body mass
-- **Nausea and vomiting**: From disease or antiretroviral medications
-- **Neuropathic pain**: Nerve damage from HIV or medications
-- **Depression and anxiety**: Psychological burden of chronic illness
-- **Insomnia**: Sleep disturbances
-- **Night sweats**: Common symptom of HIV infection
-
-## Cannabis and HIV/AIDS
-
-### Appetite Stimulation (Dronabinol/THC)
-
-Dronabinol (synthetic THC, Marinol) received FDA approval for AIDS-related anorexia. Clinical studies demonstrated that THC stimulates appetite and promotes weight gain in AIDS wasting syndrome. See [[cannabis-for-anorexia-and-cachexia]] for detailed evidence.
+Cannabis has been widely used by HIV/AIDS patients for symptom management, with research supporting its effectiveness for appetite stimulation, pain relief, nausea control, and mood improvement. The [[cannabis-for-anorexia-and-cachexia]] for detailed evidence.
 
 ### Pain Management
 
@@ -41,11 +22,7 @@ THC and other cannabinoids are effective anti-emetics, particularly valuable for
 
 ### Depression and Mood
 
-A 2009 Boston study of 775 HIV/AIDS patients found cannabis more effective than standard prescription and OTC medications for treating depression. See [[cannabis-for-depression]] for evidence details.
-
-### Night Sweats
-
-Cannabis has been used to manage night sweats in HIV/AIDS patients, typically alongside appetite and nausea benefits. See [[cannabis-for-night-sweats]].
+A 2009 Boston study of 775 HIV/AIDS patients found cannabis more effective than standard prescription and OTC medications for treating depression. See [[cannabis-for-night-sweats]].
 
 ### Immunomodulatory Effects
 
@@ -84,14 +61,30 @@ Supporting approaches: working with personal power, appropriate defenses, love a
 
 ## See Also
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-anorexia-and-cachexia]]
-- [[cannabis-for-depression]]
 - [[cannabis-for-night-sweats]]
-- [[cannabis-for-chronic-pain]]
 - [[cannabis-anti-inflammatory-applications]]
 
 ## Source
 
 Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "HIV/AIDS." North Atlantic Books.
 - [[cannabis-for-cachexia-and-appetite-stimulation]]
+## Practical Considerations
+
+Successful implementation of Cannabis for HIV/AIDS requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

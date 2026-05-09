@@ -114,13 +114,8 @@ The green coloration in *G. viridans* is thought to result from the oxidation of
 
 ## See Also
 
-- [[gymnopilus-spectabilis-entity]]
 - [[gymnopilus-junonius]]
-- [[gymnopilus-luteofolius]]
 - [[gymnopilus-purpuratus]]
-- [[psilocybin-compound]]
 - [[gymnopilus-aeruginosus]]
-- [[gymnopilus-luteofolius]]
 - [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
-- [[gymnopilus-junonius]]
 - [[gymnopilus-spectabilis-profile]]

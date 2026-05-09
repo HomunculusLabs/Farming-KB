@@ -131,12 +131,8 @@ character of LSD as a sacred drug."
 
 ## Related Topics
 
-- [[hofmann-lsd-consciousness-and-philosophy]] for earlier philosophical
-  reflections in the text
 - [[hofmann-mind-matter-forbidden-transgression]] for Hofmann's views on the
   relationship between mind and matter
-- [[hofmann-ernst-junger-lsd-literary-dialogue]] for philosophical dialogue
-  with Ernst Junger
 - [[the-road-to-eleusis-wasson-hofmann-ruck]] for the Eleusinian
   Mysteries hypothesis
 - [[lsd-pharmacology]] for the pharmacological basis of

@@ -16,7 +16,7 @@ created: 2026-04-28
 
 ## Quick Answer
 
-Shellac is a natural resin secreted by the lac insect (*Kerria lacca*), a tiny scale insect that feeds on the sap of specific host trees in South and Southeast Asia. The insects encase themselves in layers of this resin as they grow. After 5–6 months, farmers harvest the resin-covered branches, crush and wash the material, then refine it into shellac flakes that dissolve in alcohol to create a versatile finish, food coating, or pharmaceutical glaze.
+Shellac is a natural resin secreted by the lac insect (*Kerria lacca*), a tiny [[magic-mushrooms-southeast-asia-pacific]]. The insects encase themselves in layers of this resin as they grow. After 5–6 months, farmers harvest the resin-covered branches, crush and wash the material, then refine it into shellac flakes that dissolve in alcohol to create a versatile finish, food coating, or pharmaceutical glaze.
 
 ## How the Lac Insect Makes Shellac
 
@@ -48,10 +48,9 @@ Host tree with lac insects
 ### Key Processing Details
 
 - **Stick lac** is the raw material — branches cut from host trees encrusted with resin
-- **Washing** removes sand, twigs, and water-soluble dyes (the red dye is a valuable byproduct)
-- **Melting** (heat process) or **solvent extraction** (ethanol) refines the seed lac into pure shellac
+- **Washing [[oner-cannabis-co2-solvent-extraction]]** (ethanol) refines the seed lac into pure shellac
 - **Dewaxing** is an additional step using cold filtration to remove natural waxes (~5% content), producing harder, more water-resistant shellac
-- **Grading** is by color — from dark "Kusmi Black" to near-transparent "Dewaxed Ultra Blonde"
+- **Grading** is by color — from dark "Kusmi Black" to near"Dewaxed Ultra Blonde"
 
 ## Host Trees
 
@@ -124,10 +123,8 @@ Shellac has unique advantages that synthetics can't fully replicate:
 
 ## See Also
 
-- [[query-what-is-polyculture-and-how-does-it-differ-from-monoculture]]
-
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
 
 - query what is shellac and how is it produced from lac insects — comprehensive topic page on lac cultivation and shellac science
-- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]] — how shellac compares to other natural finishes
+- [[earth-plaster-and-natural-finishes]]
 - beekeeping and pollinator conservation — for comparison with another insect-produced natural material

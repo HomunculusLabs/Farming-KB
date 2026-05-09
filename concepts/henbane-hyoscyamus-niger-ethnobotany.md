@@ -4,7 +4,8 @@ created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - raw/papers/the-permaculture-handbook-peter-bane.md
 ---
 # Henbane (Hyoscyamus niger): Ethnobotany and Cultural History
 
@@ -14,7 +15,7 @@ Henbane (Hyoscyamus niger) is a toxic but pharmacologically important plant that
 
 Henbane is an annual or biennial plant native to Europe, northern Africa, and western and central Asia. The genus Hyoscyamus comprises approximately 20 species distributed across these regions. The plant is rather coarse in appearance, with hairy leaves and pale yellow flowers marked with purple veining, and produces a characteristic unpleasant odor.
 
-Henbane belongs to the nightshade family, Solanaceae, the same family that includes [[belladonna-atropa-belladonna-ethnobotany]], [[mandrake-mandragora-officinarum-in-european-folklore]], and Datura. All members of this family share the capacity to produce tropane alkaloids, the biologically active compounds responsible for both the therapeutic and toxic effects of these plants.
+Henbane belongs to the nightshade family, Solanaceae, the same family that includes [[mandrake-mandragora-officinarum-in-european-folklore]], and Datura. All members of this family share the capacity to produce tropane alkaloids, the biologically active compounds responsible for both the therapeutic and toxic effects of these plants.
 
 ## Chemical Composition
 
@@ -24,7 +25,7 @@ The relative proportions of hyoscyamine and scopolamine can vary depending on th
 
 ## Role in European Witchcraft
 
-Henbane was often included in the witches' brews and other toxic preparations of medieval Europe, specifically to cause visual hallucinations and the sensation of flight. The [[european-witchcraft-hallucinogenic-plants]] relied heavily on [[solanaceous-hallucinogens-of-medieval-european-witchcraft]], with henbane forming a core ingredient alongside belladonna and mandrake.
+Henbane was often included in the witches' brews and other toxic preparations of medieval Europe, specifically to cause visual hallucinations and the sensation of flight. The [[solanaceous-hallucinogens-of-medieval-european-witchcraft]], with henbane forming a core ingredient alongside belladonna and mandrake.
 
 Medieval woodcuts from herbals such as the Hortus Sanitatis (1485) depict witches preparing "magic" brews featuring toads and henbane. These illustrations, while stylized, accurately reflect the documented use of henbane in magical preparations. The combination of henbane with other tropane-containing plants in these brews would have produced powerful anticholinergic effects, including visual and tactile hallucinations, the sensation of floating or flying, and profound disorientation.
 
@@ -54,11 +55,7 @@ Commercial cultivation of henbane has been practiced in Europe for pharmaceutica
 
 Beyond its direct use in medicine and magic, henbane has left a significant mark on European culture and language. The plant appears in the works of numerous authors, and references to its hallucinogenic properties are found in folklore from across Europe. The association of henbane with witchcraft and dark magic has made it one of the most symbolically charged plants in the Western tradition.
 
-In the broader context of [[old-world-hallucinogenic-plants-overview]], henbane represents an important example of how a toxic plant can be simultaneously feared and valued — feared for its poisonous properties, and valued for its medicinal alkaloids and its capacity to alter consciousness. This duality is characteristic of many psychoactive plants in the Solanaceae family and reflects the complex relationship between humans and the powerful chemistry of the natural world.
-
-## Oracle of Delphi Connection
-
-Some scholars have proposed that henbane or related solanaceous plants may have been involved in the production of the prophetic vapors at the Oracle of Delphi in ancient Greece. The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] could potentially have been induced or enhanced by tropane alkaloids, though this hypothesis remains controversial. Geological studies have identified ethylene gas and other hydrocarbons in the Delphic site, suggesting a natural geological explanation for the oracle's trance, but the possibility of plant-based adulterants cannot be ruled out.
+In the broader context of [[kykeon-composition-and-ergot-alkaloid-hypothesis]] could potentially have been induced or enhanced by tropane alkaloids, though this hypothesis remains controversial. Geological studies have identified ethylene gas and other hydrocarbons in the Delphic site, suggesting a natural geological explanation for the oracle's trance, but the possibility of plant-based adulterants cannot be ruled out.
 
 The suggestion that henbane or Datura contributed to the Delphic oracle's visions highlights the broader question of how many ancient Greek and Roman religious practices may have involved psychoactive plants that have since been forgotten or overlooked. The loss of knowledge about such practices represents a significant gap in our understanding of classical antiquity.
 
@@ -86,15 +83,9 @@ Henbane alkaloids continue to be important in modern medicine. Scopolamine (hyos
 
 ## See Also
 
-- [[hyoscyamus-niger]]
-
-[[belladonna-atropa-belladonna-ethnobotany]] — belladonna ethnobotany.
-
-[[mandrake-mandragora-officinarum-in-european-folklore]] — mandrake in European folklore.
+- [[belladonna-atropa-belladonna-ethnobotany]] — belladonna ethnobotany.
 
 [[datura-metel-old-world-ethnobotany]] — Old World Datura metel.
-
-[[tree-daturas-brugmansia-south-american-ethnobotany]] — New World tree daturas.
 
 [[solanaceous-hallucinogens-pharmacology]] — solanaceous hallucinogen pharmacology.
 

@@ -1,6 +1,6 @@
 ---
 title: PF TEK Primordia Formation and Pinning Process
-tags: [mycology, pf-tek, psilocybe-cubensis, primordia, pinning, fruiting, mushroom-development, cultivation]
+tags: [[mycology, pf-tek, psilocybe-cubensis, primordia, pinning, fruiting, mushroom-development, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
@@ -116,9 +116,6 @@ When fully colonized cakes fail to pin, the problem typically traces to one of t
 
 ## See Also
 
-- [[pf-tek-cake-birthing-technique]] for the physical process of removing cakes from jars
 - [[pf-tek-aborts-and-potency-harvesting]] for detailed abort identification and harvesting
-- [[pf-tek-mushroom-potency-and-age-relationship]] for the science behind potency degradation with maturity
 - [[pf-tek-mushroom-growth-timeline]] for the complete chronological cultivation sequence
-- [[pf-tek-dual-chamber-terrarium-fruiting-conditions]] for the environment that supports pinning
 - [[pf-tek-desiccant-drying-technique]] for optimal preservation of harvested specimens

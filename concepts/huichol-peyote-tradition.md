@@ -25,41 +25,7 @@ living primarily in the Sierra Madre Occidental of the Mexican states
 of
 Jalisco, Nayarit, Durango, and Zacatecas. They have maintained a
 remarkably
-intact [[pre-columbian-mushroom-use]] religious system, largely due to the
-inaccessibility of
-their mountain homeland and their fierce resistance to cultural
-assimilation.
-Huichol religion is animistic and shamanic, centered on the worship
-of a
-complex pantheon of gods and spirits. The principal deities include
-Tatewari
-(Grandfather Fire), Takutsi Nakawe (Grandmother Growth), and
-Kauyumari (the
-Deer Spirit). Peyote occupies a central position in this cosmological
-system.
-## Peyote in Huichol Cosmology
-For the Huichol, peyote (hikuri) is far more than a psychoactive
-substance;
-it is a living spiritual being, a teacher, and a manifestation of the
-divine.
-In Huichol mythology, peyote is associated with the deer -- indeed,
-the
-Huichol word for peyote, hikuri, also refers to a species of deer.
-The deer,
-the corn, and peyote form a sacred triad in Huichol cosmology,
-representing the
-interconnectedness of the natural world and the spiritual realm.
-The Huichol believe that during the peyote experience, the initiate
-can
-communicate directly with the gods, receive healing, gain knowledge,
-and
-participate in the ongoing maintenance of cosmic order. The visions
-experienced
-during peyote ceremonies are the source of Huichol artistic
-traditions,
-particularly their elaborate yarn paintings (nierikas).
-## The Pilgrimage to Wirikuta
-The most important Huichol [[peyote-ceremony]] is the annual pilgrimage to
+intact [[peyote-ceremony]] is the annual pilgrimage to
 Wirikuta, a sacred area in the deserts of San Luis Potosi, some 300
 miles
 (500 km) from the Huichol homeland. This journey, which can take
@@ -118,9 +84,5 @@ next.
 ## Conservation Concerns
 The Huichol peyote tradition faces significant challenges in the
 modern era:
-- The peyote fields of Wirikuta are threatened by mining, [[fukuoka-critique-agricultural-development]], and drug trafficking
-- Overharvesting by non-indigenous collectors has reduced peyote popul
-  ations
-## See Also
-- [[harner-american-indian-peyote-rituals]]
+- The peyote fields of Wirikuta are threatened by mining, [[harner-american-indian-peyote-rituals]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]

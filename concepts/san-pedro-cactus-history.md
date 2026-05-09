@@ -38,7 +38,7 @@ Huachuma or Achuma. A species from the Trichocereus genus not yet
 botanically categorized grows in northwestern Argentina, where it is also
 called San Pedro and used psychoactively.
 
-See also: [[mescaline-peyote-san-pedro-cactus]], [[mescaline-peyote-and-san-pedro-guide]]
+See also: [[mescaline-peyote-and-san-pedro-guide]]
 
 ## Spanish Colonial Suppression
 
@@ -92,21 +92,5 @@ Trichocereus contains as its main alkaloid mescaline, responsible for the
 visual hallucinogenic effects. From dried specimens of San Pedro, 2 percent
 mescaline has been isolated. In addition, hordenine has also been detected.
 
-See also: [[mescaline-ethnobotany]], [[mescaline-ethnobotany]],
-[[mescaline-compound-profile]]
-
-## Cultural Significance
-
-San Pedro has a special symbolism in curanderismo because it is "always in
-tune with... the powers of animals, of strong personages or beings, of
-serious beings, of beings that have supernatural power." One observer has
-stated that San Pedro is "the cathartic par excellence of the native
-pharmacopoeia... a protector, a teacher, a source of power and identity.
-But the magic of San Pedro continues living and often increasing."
-
-The ceremonial use of San Pedro involves complex rituals that may include
-other plants added to the San Pedro drink in order to modify or intensify its
-effects.
-
-See also: richard evans schultes updated, albert hofmann,
+See also: [[mescaline-ethnobotany]],
 [[ayahuasca-preparation]]

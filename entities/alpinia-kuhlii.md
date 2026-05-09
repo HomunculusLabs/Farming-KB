@@ -111,12 +111,8 @@ compounds responsible for this activity remain to be fully characterized.
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[alpinia-officinarum]]
-- [[alpinia-zerumbet]]
 - [[alpinia-nigra]]
-- [[alpinia-calcarata]]
 - [[alpinia-melanocarpa]]
-- [[hedychium-coronarium]]
 - [[hedychium-gardnerianum]]
 - [[elettaria-cardamomum]]

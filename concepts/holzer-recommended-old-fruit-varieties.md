@@ -58,64 +58,32 @@ Holzer also recommends several pear and stone fruit varieties for high-altitude 
 
 - **Hedelfinger sweet cherry** -- requires good drainage and wind protection but rewards with excellent fruit
 
-These stone fruits benefit from the same microclimate strategies used for apples, particularly wind protection from [[holzer-browsing-protection-methods]] and careful placement in frost pockets or heat-reflecting locations near stone walls or water bodies.
-
-## Key Principles
-
-- Investigate different local varieties first -- best suited to your location
-
-- Do not let yourself be discouraged from experimenting
-
-- Poor soil conditions can be improved with green manure, supporting plants, and microclimates
-
-- Ripening times depend greatly on altitude and climate
-
-- Higher altitude = later ripening but more intense flavour
-
-- Late-ripening high-altitude fruit commands premium prices (no market competition)
-
-- Distillery and vinegar specialists value high-altitude fruit for intense flavour
-
-- Chemical fertilisers should never be used as they prevent proper lignification
-
-- Genetic diversity provides resilience against pests, disease, and weather extremes
-
-- Old varieties often have deeper root systems and better disease resistance than modern commercial cultivars
-
-## Extending Beyond Expert Limits
-
-According to expert opinion and literature, fruit growing ends at 1,000m above sea level in Lungau. Despite this, Holzer cultivates a large variety of cultivated and wild fruit trees up to 1,500m. The key is:
-
-- Shelter from wind
-
-- Climatically advantageous locations
-
-- Microclimates (stones reflecting heat, water bodies, hollows, windbreaks)
-
-- No chemical fertilisers (would prevent lignification and frost resistance)
-
-- Proper soil life and green manure crops
-
-The concept of extending cultivation beyond accepted limits connects to the broader [[natural-farm-permaculture-ethics-principles]] of creative response and working with nature's patterns rather than accepting conventional boundaries. Holzer's success at altitude demonstrates that expert recommendations are often based on industrial monoculture assumptions that do not account for the microclimate management possible in diverse, carefully designed systems.
+These stone fruits benefit from the same microclimate strategies used for apples, particularly wind protection from [[natural-farm-permaculture-ethics-principles]] of creative response and working with nature's patterns rather than accepting conventional boundaries. Holzer's success at altitude demonstrates that expert recommendations are often based on industrial monoculture assumptions that do not account for the microclimate management possible in diverse, carefully designed systems.
 
 ## Site Preparation and Planting
 
-Successful high-altitude fruit growing depends on proper site preparation. Following [[holzer-fruit-tree-planting-method]], trees should be planted in locations that take advantage of the full range of microclimate tools available:
-
-- Stone piles and rock walls absorb heat during the day and radiate it at night, protecting blossoms from late frosts
-
-- Water bodies moderate temperature extremes and increase humidity during dry periods
-
-- Contour planting on slopes ensures cold air drainage away from blossoms and fruit
-
-- Nurse trees and shrubs provide initial wind protection while fruit trees establish
-
-- Mixed plantings with diverse root depths and canopy layers create a self-regulating microclimate
-
-See also: [[holzer-fruit-tree-planting-method]], [[holzer-microclimate-creation]], [[faires-orchard-design-and-intercropping]]
+Successful high-altitude fruit growing depends on proper site preparation. Following [[holzer-fruit-tree-planting-method]], [[faires-orchard-design-and-intercropping]]
 
 ## Related
 
-- [[holzer-pear-and-apple-pollination-and-harvesting]]
 - [[holzer-stone-fruit-varieties-and-growing]]
 - [[holzer-green-manure-and-soil-building-plants]]
+## Practical Considerations
+
+Successful implementation of Holzer Recommended Old Fruit Varieties requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

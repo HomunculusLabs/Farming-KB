@@ -3,7 +3,7 @@ title: Fungal Community Assembly and Environmental Regulation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Community Assembly and Environmental Regulation
@@ -48,11 +48,7 @@ In temperate regions, a strong positive correlation often exists between vascula
 
 - Greater niche space available for fungal colonization
 
-However, the relationship is not universal, and some studies have found no correlation between plant and fungal diversity, particularly in [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities.
-
-## Life Strategy Framework
-
-The [[fungal-functional-diversity-decomposition]] of fungal communities can be understood through the life strategy framework adapted from plant ecology (Grime 1977, 1979; Cooke and Rayner 1984):
+However, the relationship is not universal, and some studies have found no correlation between plant and fungal diversity, particularly in [[fungal-functional-diversity-decomposition]] of fungal communities can be understood through the life strategy framework adapted from plant ecology (Grime 1977, 1979; Cooke and Rayner 1984):
 
 - **Ruderal**: species favored by disturbance, with rapid colonization and high reproductive output
 
@@ -80,21 +76,13 @@ Zak and colleagues (1995) emphasized that the scale at which interactions betwee
 
 ## Disturbance and Succession
 
-Disturbance is a major driver of fungal community assembly. Following disturbance events such as fire, tillage, or logging, fungal communities undergo directional changes through succession. Early successional communities are typically dominated by ruderal species with rapid colonization ability, while late-successional communities favor competitive and stress-tolerant species. The [[fungal-leaf-litter-succession]] of fungal communities are influenced by the type, intensity, and frequency of disturbance, as well as by the availability of colonizable substrates.
-
-## Modern Molecular Approaches
-
-Contemporary studies of fungal community assembly increasingly employ DNA-based methods including high-throughput sequencing and metagenomics. These approaches have revealed that culture-based methods capture only a fraction of true fungal diversity, and that [[culturing-culture-independent-fungi]] are essential for understanding the full complexity of fungal community assembly processes. Molecular data have confirmed the strong environmental regulation of community composition while also revealing the importance of dispersal limitation and historical factors at broader spatial scales.
+Disturbance is a major driver of fungal community assembly. Following disturbance events such as fire, tillage, or logging, fungal communities undergo directional changes through succession. Early successional communities are typically dominated by ruderal species with rapid colonization ability, while late-successional communities favor competitive and stress-tolerant species. The [[culturing-culture-independent-fungi]] are essential for understanding the full complexity of fungal community assembly processes. Molecular data have confirmed the strong environmental regulation of community composition while also revealing the importance of dispersal limitation and historical factors at broader spatial scales.
 
 ## See Also
 
-- [[fungal-functional-diversity]]
 - [[fungal-biogeography]]
-- [[the-soil-food-web]]
 - [[fungal-communities-succession]]
-- [[fungal-endemism-and-biogeography]]
 - [[fungal-diversity-estimation-methods]]
-- [[alpha-beta-gamma-diversity-fungi]]
 - [[fungal-biodiversity-forest-floor]]
 
 ## Related

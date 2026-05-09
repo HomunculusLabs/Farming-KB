@@ -1,7 +1,7 @@
 ---
 title: Psilocybin Mushroom Cultivation
 created: 2026-04-28
-tags: [mycology, cultivation, psychonautics, fungi]
+tags: [[mycology, cultivation, psychonautics, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -134,13 +134,9 @@ reflection, or therapy enhances long-term benefits.
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]]
 - [[pf-tek-fruiting-chamber]]
-- [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
 - [[grain-spawn-preparation]]
 
-- [[mushroom-spore-syringe-and-inoculation]]
 - [[mushroom-spawn-preparation]]
-- [[mycelial-growth-and-colonization]]
 - [[agar-culture-and-isolation]]
 - [[fruiting-chambers-and-environmental-control]]

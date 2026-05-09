@@ -135,11 +135,7 @@ population densities and continuous treatment efficacy.
 
 ## See Also
 
-- [[staycare-cunninghamella-elegans-in-bioremediation]]
-
 - [[staycare-fungal-bioremediation-btex-compounds]]
 
-- [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
 - [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
-- [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]]
 - [[staycare-fungal-bioremediation-field-studies]]

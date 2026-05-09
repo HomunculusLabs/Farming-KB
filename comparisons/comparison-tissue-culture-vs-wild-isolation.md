@@ -12,52 +12,11 @@ type: comparison
 
 ## Overview
 
-Tissue culture cloning and [[wild-specimen-isolation]] are the two primary methods
-for establishing new mushroom cultures, each serving a different purpose in the
-cultivation pipeline. Tissue culture takes mycelium from the interior flesh of a
-known, desirable mushroom fruitbody, preserving its exact genetic identity. Wild
-isolation collects mushrooms from natural habitats and establishes pure cultures
-from unknown genetic material, introducing new genetic diversity into
-cultivation. Both require sterile technique and [[agar]] work, but they differ in
+Tissue culture cloning and [[agar]] work, but they differ in
 starting material, genetic predictability, and the role they play in strain
 development.
 
 ## Tissue Culture
-
-[[tissue-culture-cloning]]
-
-Tissue culture (also called cloning) is the process of isolating living mycelium
-from the interior flesh of a mushroom fruitbody and transferring it to a sterile
-growth medium. The interior tissue of a mushroom is naturally sterile, protected
-from environmental contamination by the outer cap and stem surfaces. By
-accessing this interior tissue with a flame-sterilized scalpel and transferring
-it to an agar plate, cultivators can capture the exact genetic identity
-(dikaryon) of the parent mushroom.
-
-The primary advantage of tissue culture is genetic consistency. Unlike spore
-germination, which produces genetic diversity through sexual reproduction,
-tissue culture preserves the dikaryotic genotype of the parent. If the parent
-mushroom exhibited desirable characteristics like large size, fast growth,
-potent flavor, or high yield, those traits are preserved exactly in the culture.
-A dikaryotic tissue isolate is already mated and capable of fruiting, bypassing
-the compatibility issues that can plague spore-grown cultures where individual
-spores must find compatible mating partners.
-
-Tissue culture is also faster than spore germination. Mycelium from tissue
-culture is typically visible on agar within 3-7 days, compared to 3-14 days for
-spore germination, because the mycelium is already established and does not need
-to germinate from a dormant spore and then seek a mating partner. This speed
-advantage compounds through the cultivation pipeline, as the resulting culture
-can be expanded to grain spawn and eventually to fruiting substrate more
-quickly.
-
-The limitation of tissue culture is that it can only clone what already exists.
-It cannot create new genetic combinations or introduce novel traits. If the
-parent mushroom carries hidden genetic weaknesses (susceptibility to
-contamination, poor colonization speed, low yield potential), those weaknesses
-are faithfully preserved along with any desirable traits.
-
-## Wild Isolation
 
 [[strain-isolation-from-wild-specimens]]
 
@@ -139,7 +98,5 @@ strains were originally developed.
 
 ## See Also
 
-- [[tissue-culture-cloning]]
 - [[strain-isolation-from-wild-specimens]]
-- [[agar-culture-and-isolation]]
 - [[sterile-cultivation-technique]]

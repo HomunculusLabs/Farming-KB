@@ -91,12 +91,8 @@ McKenna references the Buddhist scholar Herbert Guenther's work on human uniquen
 
 ## See Also
 
-- [[dmt-endogenous-production]]
-
 - [[5-meo-dmt-reference]]
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
-- [[dmt-smoking-and-administration-methods]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 
 - mckenna-tryptamine-hallucinogens-and-consciousness -- parent topic overview

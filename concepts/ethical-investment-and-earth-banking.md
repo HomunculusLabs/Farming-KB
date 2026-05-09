@@ -110,15 +110,7 @@ Some credit unions already employ corporate watchdogs whose sole job is to monit
 
 ## Related Topics
 
-- [[community-finance-and-alternative-economies]]
 - [[permaculture-local-currency-systems]]
-- [[permaculture-land-access-and-trusts]]
 - [[right-livelihood-and-permaculture-business]]
-- [[permaculture-commonwork-and-livelihoods]]
-
-## Source
-
-Bill Mollison, Permaculture: A Designers Manual (1988), Chapter 14, Section 14.13: An Ethical Investment Movement
 - [[mollison-property-trusts-ethical-investment]]
-- [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-on-farm-alcohol-fuel-production]]

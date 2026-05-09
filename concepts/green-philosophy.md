@@ -99,12 +99,8 @@ the natural world.
 
 ## See Also
 
-- [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 - [[oyster-mushroom-green-mold-disease]]
-- [[jadam-sese-philosophy]]
 - [[fukuoka-western-eastern-philosophy-agriculture]]
-- [[trichoderma-forest-green-mold-guide]]
-
 - [[natural-farming]]
 - [[do-nothing-farming]]
 - wu wei

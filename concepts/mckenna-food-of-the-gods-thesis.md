@@ -39,7 +39,7 @@ McKenna argued that the transition from the Partnership Model to the Dominator M
 
 Key elements of his argument:
 
-1. **Psychedelics as catalysts of consciousness**: Hallucinogenic plants enhanced information-processing activity, visual acuity, and the capacity for language and abstract thought during critical periods of human evolution. See [[psychedelic-mushrooms-species-and-identification]].
+1. **Psychedelics as catalysts of consciousness**: Hallucinogenic plants enhanced information-processing activity, visual acuity, and the capacity for language and abstract thought during critical periods of human evolution. See [[terence-mckenna-stoned-ape-hypothesis]].
 
 2. **The original "tree of knowledge"**: McKenna interpreted the biblical story of the Tree of Knowledge of Good and Evil as a cultural memory of the loss of access to psychoactive plants and the shamanic consciousness they engendered.
 
@@ -72,25 +72,9 @@ McKenna's thesis has been criticized as:
 
 Despite these criticisms, McKenna's work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human cultural evolution. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
 
-## Related
+## Related Topics
 
-- [[dmt-hyperspace-entities]]
-- [[exopheromones-and-plant-intelligence]]
-- [[mckenna-absence-of-dmt-motifs-in-art-history]]
-- [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
-- [[mckenna-psychedelic-terror-and-existential-authenticity]]
-- [[mckenna-valis-hibernation-of-the-logos]]
-- [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]
-- [[partnership-vs-dominator-societies]]
-- [[psilocybe-biogeographic-hemispheric-asymmetry]]
-- [[stoned-ape-theory]]
-- [[transcendent-other-and-plant-human-information-transfer]] Topics
-
-- [[psychedelic-mushrooms-species-and-identification]] for the evolutionary component
-- [[ethnomycology]] for historical evidence
+- [[terence-mckenna-stoned-ape-hypothesis]] for the evolutionary component
+- [[psychedelic-plants-in-ancient-cultures]] for historical evidence
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic practice
 - [[ayahuasca-preparation-and-ceremony]] for McKenna's Amazon experiences
-
-## Historical Context
-
-This approach emerged from decades of field observation and experimentation. Early practitioners documented results through careful record-keeping, building empirical evidence later validated by controlled studies. The methodology has evolved considerably, incorporating insights from soil science, microbiology, and ecology. Modern practitioners benefit from both traditional knowledge and contemporary scientific understanding.

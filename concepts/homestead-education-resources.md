@@ -4,10 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, beginner, education, reference, homestead-crafts]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/lowenfels-teaming-with-microbes.md"
-  - "raw/papers/teaming-with-microbes-lowenfels.md"
+sources: []
 ---
 
 # Homestead Education Resources

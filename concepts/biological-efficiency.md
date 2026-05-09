@@ -1,7 +1,7 @@
 ---
 title: Biological Efficiency
 created: 2026-04-28
-tags: [mycology, metrics, cultivation, mushroom-yield]
+tags: [[mycology, metrics, cultivation, mushroom-yield]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -11,28 +11,7 @@ type: concept
 # Biological Efficiency
 
 Biological efficiency (BE) is the standard metric for measuring yield performance in
-[[mushroom-cultivation]]. It expresses the fresh weight of harvested mushrooms as a
-percentage of the dry weight of the substrate used to produce them. This metric allows
-growers and researchers to compare yields across different species, substrates,
-strains, and cultivation methods on a standardized basis.
-
-## Calculation
-
-Biological efficiency is calculated as: BE = (fresh weight of mushrooms / dry weight
-of substrate) × 100. For example, if 1 kg of dry substrate produces 800 g of fresh
-mushrooms, the biological efficiency is 80%. The fresh weight includes all harvested
-mushroom tissue from all flushes, typically measured after cleaning but before any
-drying or processing.
-
-It is critical that the substrate dry weight measurement accounts for all components
-including the base material, supplements, and any additives like gypsum. Inconsistent
-measurement of substrate dry weight is a common source of error when comparing reported
-yields between studies or growers.
-
-## Typical Ranges by Species
-
-Different mushroom species achieve different biological efficiencies under optimal
-conditions. *[[pleurotus-ostreatus]]* typically achieves 60-100% BE on supplemented
+[[pleurotus-ostreatus]]* typically achieves 60-100% BE on supplemented
 sawdust and 50-80% on straw. *Pleurotus eryngii* (king oyster) generally yields 40-70%
 BE, reflecting its longer growth cycle and denser fruiting bodies. *Pleurotus
 pulmonarius* can achieve 80-120% BE under optimal conditions. Button mushroom
@@ -99,8 +78,6 @@ material-only basis to enable fairer comparisons.
 
 ## See Also
 
-- [[oyster-mushroom-substrates]]
 - [[oyster-mushroom-species]]
-- [[spawn-preparation]]
 - [[mushroom-cultivation-environments]]
 - [[macrocybe-gigantea]]

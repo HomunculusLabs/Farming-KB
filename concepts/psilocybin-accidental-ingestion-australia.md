@@ -18,11 +18,7 @@ The earliest published report of an intoxication from a suspected psilocybian mu
 
 ## The "Hysteria Fungus" (1941–1945)
 
-Between 1941 and 1945, numerous reports appeared in Australian journals regarding poisoning by what mycologists believed were *Panaeolus ovatus* — the suspected "hysteria fungus." Since *Panaeolus ovatus* is not actually psychoactive, it is now understood that the mushrooms in question were almost certainly *Copelandia cyanescens* (see also [[australian-nz-psychoactive-mushroom-species]]). This case of mistaken identity between a non-psychoactive *Panaeolus* species and the genuinely hallucinogenic *Copelandia cyanescens* set a pattern that would recur throughout Australian mycological literature.
-
-## Willis and the "Alice in Wonderland" Connection (1957)
-
-After 1945, no cases of accidental ingestion were reported in Australian medical journals until 1957, when [[wasson-hofmann-ruck-theory]]'s announcement of ceremonial mushroom use in Mexico sparked renewed interest. James H. Willis, in his 1957 book "Victorian Toadstools and Mushrooms," published an evocative anecdote: "Rumour has it that they will cause an intoxication under which the victim suffers a strange sensation of growing taller and over-topping the objects about him: Who knows but this may (very well) be the magic mushroom of 'Alice in Wonderland' fame." Willis also noted that *P. ovatus* had "intoxicated people near Sydney" — again, almost certainly a misidentification of *Copelandia cyanescens*.
+Between 1941 and 1945, numerous reports appeared in Australian journals regarding poisoning by what mycologists believed were *Panaeolus ovatus* — the suspected "hysteria fungus." Since *Panaeolus ovatus* is not actually psychoactive, it is now understood that the mushrooms in question were almost certainly *Copelandia cyanescens* (see also [[wasson-hofmann-ruck-theory]]'s announcement of ceremonial mushroom use in Mexico sparked renewed interest. James H. Willis, in his 1957 book "Victorian Toadstools and Mushrooms," published an evocative anecdote: "Rumour has it that they will cause an intoxication under which the victim suffers a strange sensation of growing taller and over-topping the objects about him: Who knows but this may (very well) be the magic mushroom of 'Alice in Wonderland' fame." Willis also noted that *P. ovatus* had "intoxicated people near Sydney" — again, almost certainly a misidentification of *Copelandia cyanescens*.
 
 ## Dr. A.E. Stocks and the Brisbane Hospital Cases (1963)
 
@@ -61,7 +57,7 @@ The inherent danger from ingesting wild mushrooms lies not so much in consuming 
 - **Galerina autumnalis** — a deadly poisonous species. A 16-year-old girl from Whidbey Island, Washington died in December 1981 after accidentally eating several fresh specimens she and her companions believed were psilocybin mushrooms. They delayed seeking medical help for two days due to fear of prosecution.
 - **Chlorophyllum molybdites** ("green gills" or "Morgan's Lepiota") — considered toxic but not deadly. Common in Australia and occasionally mistaken for *Psilocybe cubensis*. In Tampa, Florida, over 90% of mushroom poisonings were reportedly caused by this species.
 
-For a comprehensive overview of these dangers, see [[mushroom-poisoning-and-lookalikes]] and [[mushroom-poisoning-and-lookalikes]].
+For a comprehensive overview of these dangers, see [[mushroom-poisoning-and-lookalikes]].
 
 ## Treatment Approaches
 
@@ -81,29 +77,8 @@ Tranquilizers need only be used in extreme situations. Diazepam, 0.1 mg/kg in ch
 
 ### Warning Against Anti-Cholinergic Anti-Psychotics
 
-Dr. Rick Strassman of the University of New Mexico warned that anti-psychotics have gone out of favour for treating bad trips. Specifically, medicines with anti-cholinergic side effects, such as chlorpromazine, should not be given, as psilocybian mushrooms can have marked anti-cholinergic effects of their own. This is an important harm-reduction consideration documented in [[psychedelic-safety-and-harm-reduction]].
-
-## Jansen's Classification of Medical Presentations (1988)
-
-Dr. Jansen classified cases presenting medically into several groups:
-
-- **(a)** Those who have taken the drug with little knowledge of hallucinogens and without sensible persons to care for them — more likely adolescents, often brought in by parents.
-- **(b)** Those who fall due to impaired balance or muscle weakness and are injured as a result.
-- **(c)** Those having a "bad trip" — involving acute anxiety, panic, depression, paranoid reactions, disorientation, and an inability to distinguish reality from fantasy.
-- **(d)** Cases of idiosyncratic physical reactions such as cyanosis.
-- **(e)** Those with recurring phenomena after the mushroom effects should have passed, including prolonged psychosis.
-
-## Public Health Assessment
-
-Dr. Gastón Guzmán and colleagues concluded that "field and laboratory studies strongly indicate that psychoactive mushroom use as it normally occurs does not constitute a drug abuse problem or a public health hazard" (Guzmán et al., 1976). A subsequent survey among college students in California suggested that "the low frequency and few negative effects of use indicate that abuse does not present a social problem, nor is there evidence for predicting the development of a problem" (Thompson et al., 1985).
-
-## See Also
-
-- [[mushroom-poisoning-and-lookalikes]] — Comprehensive guide to toxic mushroom lookalikes
-- [[psychedelic-safety-and-harm-reduction]] — Harm reduction principles for psychedelic experiences
+Dr. Rick Strassman of the University of New Mexico warned that anti-psychotics have gone out of favour for treating bad trips. Specifically, medicines with anti-cholinergic side effects, such as chlorpromazine, should not be given, as psilocybian mushrooms can have marked anti-cholinergic effects of their own. This is an important harm-reduction consideration documented in [[mushroom-poisoning-and-lookalikes]] — Comprehensive guide to toxic mushroom lookalikes
 - [[psilocybin-mushroom-legal-history]] — Legal context surrounding psilocybin in Australia
-- [[magic-mushrooms-australia-new-zealand]] — Overview of magic mushrooms in Australasia
 - [[australian-nz-psychoactive-mushroom-species]] — Species identification reference
-- [[mushroom-poisoning-and-lookalikes]] — Deadly mushroom species and their risks
 - [[insect-allies]] — Author documenting these case studies
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]

@@ -11,45 +11,7 @@ type: concept
 # McKenna Vegetable Mind and Gaian Holism
 
 The concepts of the "vegetable mind" and "Gaian holism" represent
-[[terence-mckenna]]'s philosophical culmination in Food of the Gods. These
-interconnected ideas propose that human consciousness emerged through a
-symbiotic relationship with psychoactive plants and fungi, and that the
-next evolutionary step requires a return to this plant-based awareness
-of planetary unity. Together they form the theoretical foundation of
-McKenna's Archaic Revival.
-
-## The Vegetable Mind Defined
-
-McKenna's "vegetable mind" refers to the trans-species intelligence
-mediated by psychoactive plants and fungi, particularly those containing
-tryptamine compounds structurally related to neurotransmitters already
-present in the human brain. He argues that this vegetal intelligence
-"coaxed us into self-reflecting language" and "now offers us the
-boundless landscapes of the imagination." The vegetable mind is not a
-metaphor but a literal cognitive dimension accessible through the
-ingestion of psilocybin-containing mushrooms and other entheogenic
-plants. This concept connects to William Blake's vision of the "Divine
-Imagination" and the Hermetic concept of the anima mundi, the soul of
-the world.
-
-## Origins in the Goddess Archetype
-
-McKenna traces the widely felt intuition of the presence of the Other
-as a goddess back to humanity's immersion in the vegetable mind. The
-sense of a female companion explains the persistent intrusion of themes
-of the mother and goddess even into the most patriarchal domains. The
-cult of Mary in Christianity, the fervor reserved for Kali in Hinduism,
-and the divine Purusha all represent, in McKenna's reading, images
-ultimately reducible to the archetype of the original vegetable mind.
-Immersion in the psychedelic experience provided the ritual context in
-which human consciousness emerged into self-awareness, self-reflection,
-and self-articulation, what McKenna calls "the light of Gaia, the Earth
-herself."
-
-## The Severed Connection
-
-McKenna dates the loss of conscious connection to the vegetable mind to
-the suppression of the [[eleusinian-mysteries]] by Christian authorities in
+[[eleusinian-mysteries]] by Christian authorities in
 approximately 268 CE. Before this, awareness of the "vegetable Logos"
 continued as an esoteric but diminished presence from Minoan Crete
 through classical Greece. The consequence of this severed connection is,
@@ -131,9 +93,6 @@ ecophilosophy, and the broader discourse on human-nature relationships.
 
 ## See Also
 
-- [[mckenna-overmind-and-vegetable-mind]]
-
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-- [[mckenna-archaic-revival]] and return to symbiosis
 - [[mckenna-eleusinian-mysteries]] and kykeon
 - [[gaian-psychotherapy-and-entheogenic-plants]]

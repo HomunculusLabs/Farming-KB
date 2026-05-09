@@ -1,7 +1,7 @@
 ---
 title: Mushroom Cultivation Environments
 created: 2026-04-28
-tags: [mycology, environment, climate-control, mushroom-cultivation]
+tags: [[mycology, environment, climate-control, mushroom-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -111,7 +111,7 @@ monitoring capability that significantly improves consistency over unmonitored g
 
 ## See Also
 
-- [[oyster-mushroom-species]]
 - [[oyster-mushroom-substrates]]
-- [[mushroom-contamination-control]]
 - [[biological-efficiency]]
+
+See also: [[mushroom-cultivation-fundamentals]]

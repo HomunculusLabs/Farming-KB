@@ -3,7 +3,7 @@ title: Fungal-Beetle Symbiosis
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal-Beetle Symbiosis
@@ -24,53 +24,12 @@ These fungi typically exhibit a **yeast growth form** — single cells with asex
 
 ## Known Functions of Insect-Associated Fungi
 
-Several fungal endosymbionts play documented roles in insect biology [[endophytic-fungi-in-agriculture]] [[glomeromycota-arbuscular-mycorrhizae]]:
+Several fungal endosymbionts play documented roles in insect biology [[glomeromycota-arbuscular-mycorrhizae]]:
 
 - ***Symbiotaphrina*** in anobiid beetles: detoxification of food resources through production of hydrolytic enzymes (Dowd, 1989, 1991)
 - **Yeast-like symbionts (YLSs)** in planthoppers: contributions to host nutrition, including sterol biosynthesis via cytochrome P450 genes
 - **Cactophilic yeasts** associated with *Drosophila*: amellignin-degradationional resources in cactus tissues
-- Proposed functions in wood-boring insects include cellulose/hemicellulose/[[lignin-degradation]], pheromone production, detoxification, nitrogen fixation, and vitamin synthesis
-
-## Mushroom-Feeding Beetles
-
-### Diversity and Discovery
-
-Studies of yeasts from the guts of basidioma-feeding beetles have produced extraordinary results:
-
-- **650 yeasts** isolated from digestive tracts of over 90% of all beetles dissected
-- **290 yeast genotypes** representing more than **200 undescribed taxa** discovered
-- Insect gut yeasts distributed in clusters throughout the yeast phylogenetic tree (based on SSU and LSU rDNA)
-- Several previously unknown, entirely insect-associated yeast clades discovered
-- The *Candida tanzawaensis* clade alone contained **30%** of all gut yeasts collected
-- One dominant yeast species usually present per beetle gut (based on cloning methods)
-- **Yeast–beetle specificity** observed across broad geographical ranges and multiple developmental stages
-
-This discovery gains significance considering that fewer than 700 species of ascomycete yeast had been described from all of Earth's habitats previously. Because almost all dissected beetles in Cucujoidea and Tenebrionoidea bore yeasts, untapped beetle diversity supports high estimates of undiscovered yeasts.
-
-### Specificity and Associations
-
-Beetles examined include species from families Erotylidae, Tenebrionidae, Ciidae, and others, collected from basidiomata including *Pleurotus*, *Ganoderma*, and *Fomitella* species. Key observations:
-
-- *Candida ambrosiae* was cloned from guts of both *Triplax* sp. (Erotylidae) and *Platydema* sp. (Tenebrionidae), matching cultured isolates from both species
-- Yeasts in fungus-feeding beetles are typically localized in the midgut, sometimes in gastric caeca at the anterior end
-- Some predaceous beetles that feed on fungus-feeding arthropods in the basidiocarp habitat also contain gut yeasts
-
-### Gene Cloning Insights
-
-LSU and SSU rDNA gene cloning from beetle guts revealed:
-- Culture methods recovered most ascomycete yeasts
-- Basidiomycete yeasts (*Malassezia* spp.) were common in sequenced clones but not isolated in culture (requiring special media)
-- Several protist and insect sequences were recovered alongside fungal sequences
-- A microsporidian sequence (*Nosema* sp.) was found in the gut of *Neomida* sp.
-- No identical sequence matches were discovered — all sequences differed from closest GenBank hits
-
-## Passalid Beetles and Xylose-Fermenting Yeasts
-
-### *Odontotaenius disjunctus* (Passalidae)
-
-The wood-boring passalid beetle *O. disjunctus* (bess beetle) presents a contrasting gut fungal community to mushroom-feeding beetles:
-
-- **Low yeast diversity** — a single yeast taxon similar to ***[[pichia-stipitis]]*** was isolated from over 400 individual beetles examined
+- Proposed functions in wood-boring insects include cellulose/hemicellulose/[[pichia-stipitis]]*** was isolated from over 400 individual beetles examined
 - The *P. stipitis*-like yeast has the rare ability to **ferment and assimilate xylose** — a sugar that forms the backbone of hemicellulose in plant cell walls
 - Only about six taxa in the *P. stipitis* clade (plus five distantly related taxa) are known to ferment and assimilate xylose among all known Saccharomycetes
 - High correlation exists between xylose-processing yeasts and wood-ingesting beetles across several distantly related families

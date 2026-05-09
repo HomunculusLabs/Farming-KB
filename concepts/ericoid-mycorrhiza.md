@@ -137,14 +137,9 @@ are revealing the genetic basis of their saprotrophic capabilities and
 symbiotic lifestyle. The identification of siderophore biosynthesis genes
 and organic matter decomposition enzymes provides insights into how these
 fungi function in their challenging soil environments.
-
 ## See Also
 
-- [[comparison-amf-vs-ericoid-mycorrhiza]]
-
 - [[mycorrhizal-symbiosis]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[ectomycorrhizal-associations]]
-- [[mycorrhizal-siderophores]]
 - [[mycorrhiza-nutrient-exchange]]
 - [[arctostaphylos-uva-ursi]]

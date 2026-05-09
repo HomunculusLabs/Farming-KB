@@ -140,10 +140,7 @@ and ecosystem integrity.
 
 ## See Also
 
-- [[mycorrhizal-symbiosis]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhiza-nutrient-exchange]]
 - [[mycorrhizal-siderophores]]
-- [[fungal-plant-defense]]
 - [[ericoid-mycorrhiza]]
 - [[mycorrhizal-networks]]

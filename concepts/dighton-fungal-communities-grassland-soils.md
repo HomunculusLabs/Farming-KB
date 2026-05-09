@@ -109,11 +109,7 @@ Jastrow (1996) documented carbon recovery during prairie restoration from agricu
 
 ## See Also
 
-- [[dighton-fungal-soil-crust-primary-production]]
-
 - [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-biodiversity-grassland]]
 - [[fungal-roles-grassland-ecosystems]]
-- [[fungal-community-ecology]]
 - [[fungal-diversity-agricultural-systems]]
 - [[mycorrhizal-fungi-biome-surveys]]

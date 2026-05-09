@@ -84,13 +84,7 @@ brassinosteroids as essential hormones.
 ## Effects on Fungal Growth
 
 The growth-promoting effects of epibrassinolide on fungi were documented by
-[[jochen-gartz]] and [[adam-vorbrodt]] in studies on [[psilocybe-cubensis]]
-mycelial cultures. This cross-kingdom activity was unexpected and represents
-one of the few documented cases of plant steroid hormones directly affecting
-fungal physiology.
-
-**Mycelial stimulation**: Epibrassinolide at concentrations of 0.01–1.0 ppm
-significantly increased the linear growth rate of [[psilocybe-cubensis]]
+[[adam-vorbrodt]] in studies on [[psilocybe-cubensis]]
 mycelium on agar media. The effect was visible within the first few days of
 growth and persisted throughout the culture period.
 
@@ -100,14 +94,7 @@ slight inhibition. This biphasic response is characteristic of hormone-like
 activity and suggests a specific target site in fungal cells.
 
 **Comparison with brassinosteroids**: Epibrassinolide was among the most
-active brassinosteroids tested, along with [[homobrassinolide]], in
-promoting fungal mycelial growth. Lactone-containing brassinosteroids were
-consistently more active than their biosynthetic precursors.
-
-The mechanism of action in fungi is not fully understood but may involve
-modulation of cell wall synthesis enzymes (chitin synthase, β-1,3-glucan
-synthase), interaction with fungal sterol receptors sharing homology with
-plant [[bri1]], enhancement of nutrient uptake through membrane transporter
+active brassinosteroids tested, along with [[bri1]], enhancement of nutrient uptake through membrane transporter
 activation, or stimulation of mitochondrial respiration and ATP production.
 
 ## Agricultural Applications
@@ -141,9 +128,6 @@ of more abundant brassinosteroid precursors.
 
 ## See Also
 
-- [[homobrassinolide]]
 - [[brassinosteroid]]
-- [[bri1]]
 - [[psilocybe-cubensis]]
-- [[jochen-gartz]]
 - [[adam-vorbrodt]]

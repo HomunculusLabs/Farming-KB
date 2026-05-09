@@ -117,10 +117,7 @@ in eutrophied boreal forests, making it a potential bioindicator of forest healt
 
 ## See Also
 
-- [[lactarius-deliciosus]] — edible saffron milkcap
 - [[lactarius-indigo]] — indigo milkcap
-- [[russula-emetica]] — acrid russula with similar brittleness
-- [[arctium-lappa]] — burdock, a birch-forest understory associate
-- [[lactarius-volemus]]
+- [[arctium-lappa-entity]] — burdock, a birch-forest understory associate
 - [[lactarius-sanguifluus]]
 - [[lactarius-quietus]]

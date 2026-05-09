@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 # MDMA Tolerance and Cross-Tolerance Patterns
@@ -80,11 +81,7 @@ This pattern places MDA in the classical psychedelic category while MDMA occupie
 
 ## Related Topics
 
-- [[mdma-compound-profile]]
-- [[ayahuasca-and-dmt-plant-medicine]]
-- [[optical-isomers-psychedelic-phenethylamines]]
+- [[ayahuasca-preparation-and-ceremony]]
 - [[phenethylamine-receptor-pharmacology]]
-- [[phenethylamine-duration-and-timing]]
 - [[psychedelic-crisis-response-protocol]]
-- [[psilocybin-tolerance-cross-tolerance]]
 - [[turner-psychedelic-combination-experience-reports]]

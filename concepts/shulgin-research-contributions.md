@@ -39,7 +39,7 @@ Shulgin established the 2,5-dimethoxy-4-substituted phenethylamine (2C) family a
 The alpha-methylated (amphetamine) versions of the 2C compounds, including DOB, DOI, and DOM, revealed the dramatic effects of alpha-methylation on potency and duration. See [[dob-compound-profile]].
 
 ### MD Family Exploration
-Shulgin's work on [[ayahuasca-and-dmt-plant-medicine]] and [[mdma-in-pihkal-context]] helped define the empathogenic drug class. His championing of MDMA's therapeutic potential influenced a generation of researchers and therapists.
+Shulgin's work on [[mda-compound-profile]] and [[mdma-in-pihkal-context]] helped define the empathogenic drug class. His championing of MDMA's therapeutic potential influenced a generation of researchers and therapists.
 
 ### Substitution Pattern Innovations
 Key insights from Shulgin's SAR work:

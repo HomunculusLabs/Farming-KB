@@ -75,15 +75,10 @@ Sow seed outside in early summer in a dedicated seed bed. When seedlings are stu
 
 ## Related
 
-- [[hamilton-biennial-flowers-organic]] Concepts
-
 - [[hamilton-perennial-flowers-organic]]
-- [[hamilton-rose-growing-organic]]
 - [[geoff-hamilton-organic-techniques]]
 
 Source: Geoff Hamilton, The Organic Garden Book
-- [[hamilton-pest-and-disease-control-organic]]
 - [[organic-greenhouse-growing]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[teaming-with-microbes-plant-control]]
 - [[fukuoka-vegetable-growing-natural-method]]

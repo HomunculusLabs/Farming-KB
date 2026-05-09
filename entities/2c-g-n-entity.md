@@ -10,17 +10,7 @@ sources: []
 
 2C-G-N is a psychedelic phenethylamine based on a naphthalene ring system rather than the typical benzene ring.
 
-It is documented as entry #31 in PiHKAL by [[alexander-shulgin]].
-
-The G in the name indicates it belongs to the 2C-G series, and the N indicates the naphthalene ring system.
-
-## Chemical Identity
-
-Full chemical name: 1,4-Dimethoxynaphthyl-2-ethylamine.
-
-2C-G-N is unique among the compounds in PiHKAL for its naphthalene (two fused benzene rings) backbone.
-
-Most [[optical-isomers-psychedelic-phenethylamines]] are based on a single benzene ring with various substitution patterns.
+It is documented as entry #31 in PiHKAL by [[optical-isomers-psychedelic-phenethylamines]] are based on a single benzene ring with various substitution patterns.
 
 The naphthalene ring was explored as a way to position the aromatic ring further from the site of activity, potentially allowing fine-tuning through electronic effects on the distal ring.
 
@@ -105,9 +95,5 @@ The compound has not been studied for long term toxicity.
 - 2c-g-entity|2C-G: the 2C-G series parent compound
 - 2c-g-4-entity|2C-G-4: the butyl analogue in the 2C-G series
 - 2c-g-5-entity|2C-G-5: the allyl analogue in the 2C-G series
-- [[phenethylamine-pharmacology]]: general pharmacology
-
-## See Also
-
 - [[2c-g-entity-pihkal]]
 - [[2c-se-entity-pihkal]]

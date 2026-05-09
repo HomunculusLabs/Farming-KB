@@ -137,8 +137,6 @@ their product range.
 
 ## See Also
 
-- [[pleurotus-species-and-varieties]]
 - [[pleurotus-ostreatus]]
-- [[oyster-mushroom-cultivation-methods]]
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]
 - [[biological-efficiency-mushroom-cultivation]]

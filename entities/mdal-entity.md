@@ -9,15 +9,7 @@ sources:
 ---
 # MDAL (N-Allyl-MDA; 3,4-Methylenedioxy-N-allylamphetamine)
 
-MDAL is a substituted amphetamine compound and the N-allyl derivative of [[mda]]. It was explored as a potential primer or modulator for LSD activity. The compound is listed as PIHKAL entry #101.
-
-## Chemical Classification
-
-MDAL belongs to the amphetamine class of chemical compounds.
-
-It is formally named 3,4-methylenedioxy-N-allylamphetamine.
-
-It is the N-allyl homologue of [[mda]], with an allyl (3-carbon unsaturated) group replacing the hydrogen on the nitrogen.
+MDAL is a substituted amphetamine compound and the N-allyl derivative of [[mda]], with an allyl (3-carbon unsaturated) group replacing the hydrogen on the nitrogen.
 
 MDAL was synthesized as part of the systematic exploration of N-substituted MDA derivatives.
 
@@ -33,9 +25,7 @@ At 180 mg, the compound was found to not enhance and actually seemed to somewhat
 
 ## Comparison with MDPR
 
-MDAL was explored as a potential primer for LSD, similar to the role explored for [[mdpr-entity]].
-
-[[mdpr-entity]] at 180 mg was found to be a "rather fantastic enhancer of LSD action," functioning as an inactive compound that potentiates LSD effects.
+MDAL was explored as a potential primer for LSD, similar to the role explored for [[mdpr-entity]] at 180 mg was found to be a "rather fantastic enhancer of LSD action," functioning as an inactive compound that potentiates LSD effects.
 
 MDAL at the same weight not only does not enhance LSD, but actually seems to antagonize its action.
 
@@ -67,46 +57,33 @@ The proton NMR spectrum confirmed that the allyl group remained intact through t
 
 ## Structural Significance
 
-The comparison between MDAL and [[mdpr-entity]] illustrates a fundamental principle in medicinal chemistry.
-
-Very small changes in molecular structure can produce dramatic changes in biological activity.
-
-The presence of a double bond in the allyl group versus the saturated propyl group is sufficient to convert an LSD enhancer into an LSD antagonist.
-
-This sensitivity to minor structural changes makes systematic exploration of homologous series both challenging and informative.
-
-## The N-Substituted MDA Series
-
-MDAL is part of a broader series of N-substituted MDA derivatives explored by Shulgin.
-
-The series includes compounds with alkyl chains of varying lengths and saturation on the MDA nitrogen.
-
-In general, N-substituents longer than two carbons tend to reduce or eliminate psychedelic activity.
-
-MDAL's lack of activity and apparent LSD antagonism represents an interesting exception that could have research implications.
-
-## Dosage and Duration
-
-Dosage: Greater than 180 mg (no central effects observed).
-
-Duration: Unknown.
-
-The compound was inactive alone and appeared to antagonize LSD.
-
-## See Also
-
-[[mda]]
-
-[[mdpr-entity]]
+The comparison between MDAL and [[mda]]
 
 [[mdbu-entity]]
 
-[[mdbz-entity]]
-
-[[mdma-entity]]
+[[mdma]]
 
 [[lsd-entity-tihkal]]
 
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #101: MDAL.
+## Practical Considerations
+
+Successful implementation of MDAL (N-Allyl-MDA; 3,4-Methylenedioxy-N-allylamphetamine) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

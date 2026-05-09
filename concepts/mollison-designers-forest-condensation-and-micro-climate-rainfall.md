@@ -51,7 +51,7 @@ A ragged or spiky forest canopy, where palms and tall pines or fruit
 trees lift above the general canopy layer, will ensure more
 condensation from sea air than will a level and relatively closed
 canopy. This design principle has direct implications for
-[[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]] and [[mollison-tree-biomass-and-forest-as-living-entity]].
+[[mollison-tree-biomass-and-forest-as-living-entity]].
 
 ## The Water Balance of Forests
 
@@ -92,8 +92,7 @@ perspective fundamentally changes how we value forests. They are
 not merely timber or habitat resources; they are active water-
 generating systems.
 
-This connects to [[mollison-orographic-and-forest-rainfall-effects]]
-and [[mollison-rain-interception-and-throughfall-in-forests]].
+This connects to [[mollison-rain-interception-and-throughfall-in-forests]].
 
 ## Crown Drip and Soil Moisture Distribution
 
@@ -116,14 +115,4 @@ Several practical design principles emerge:
   bearing winds
 - Maintain tree lines of 12 m or more height to trigger Ekman
   spiral rainfall enhancement
-- Use [[mollison-designers-soil-water-storage-in-forest-systems]]
-  to maximise retention of condensate
-- Protect existing forest edges and canopy unevenness
-
-## Sea Coast and Island Applications
-
-On sea-facing coasts and islands, the condensation effect is
-particularly powerful. A ragged forest canopy with palms and tall
-pines lifting above the general layer captures maximum condensation.
-This makes forest planting on sea-facing slopes one of the most
-productive water strategies available, supporting [[coastal-permaculture-design-mollison]] and [[mollison-permaculture-high-islands]].
+- Use [[coastal-permaculture-design-mollison]] and [[mollison-permaculture-high-islands]].

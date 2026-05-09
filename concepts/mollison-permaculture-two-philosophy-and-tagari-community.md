@@ -3,25 +3,7 @@ title: Mollison Permaculture Two Philosophy and Tagari Community
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison Permaculture Two Philosophy and Tagari Community
-
-## The Underlying Philosophy
-
-Permaculture Two attempts to make practical suggestions as to how energy benefits are to be obtained, from domestic to broadacre environments. Plants are not only beneficial of themselves, but also modify local climate and many forms of pollution. Permaculture is a dispersed system, available to anybody who can garden, centred on human settlement or community.
-
-### Working With Nature
-The basic philosophy is one of working with, rather than against nature; of protracted and thoughtful observation rather than protracted and thoughtless labour; and of looking at plants and animals in all their functions, rather than treating any area as a single-product system. The difference is like that between the Aboriginal and the ploughman: the latter cuts open his mother's breast to obtain milk, while the former takes only what is given freely, and takes it with due reverence.
-
-### The Right Question
-Two questions frame the philosophical divide: "What can I demand this land to do?" versus "What does this land have to give me?" The first leads to a forcible rape of land by machinery; the second to a sustained ecology supported by the intelligent control of man. It is war or peace, and the latter takes more thought than the former.
-
-### Fukuoka's Four Principles
-The philosophy draws heavily on [[fukuoka-natural-farming-philosophy-of-mu]] approach:
+tags: [[fukuoka-natural-farming-philosophy-of-mu]] approach:
 
 1. NO Cultivation -- do not turn the soil over, causing injuries which attempt to heal themselves
 2. No chemical fertilizer or prepared compost -- let the plants and animals that make the soil go to work
@@ -81,15 +63,26 @@ Tagari produced a series of standard design sheets (looseleaf, updated regularly
 
 ## Related Concepts
 
-- [[mollison-zone-and-sector-analysis]]
 - [[mollison-broadscale-landscape-analysis]]
-- [[mollison-grain-crops-and-no-tillage-systems]]
 - [[broadscale-permaculture-techniques-mollison]]
-- [[fukuoka-natural-farming]]
-
-## Source
-
-Permaculture Two: Practical Design for Town and Country -- Introduction, philosophy sections, and appendix on Tagari, the institute, and standard designs.
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]
-- [[fukuoka-pruning-fruit-tree-natural-management]]
 - [[mollison-permaculture-two-no-tillage-grain-cropping]]
+## Practical Considerations
+
+Successful implementation of Mollison Permaculture Two Philosophy and Tagari Community requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

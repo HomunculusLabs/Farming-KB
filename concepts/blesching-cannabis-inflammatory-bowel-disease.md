@@ -54,7 +54,7 @@ Italian researchers (2010) conducted a meta-analysis/review of the available pre
 
 **Boston Researchers (2006):**
 
-Tested numerous novel molecules that exert their biological effects through the endocannabinoid system. The results suggested a [[metzner-ayahuasca-therapeutic-potential]] of cannabinoids on [[blesching-cannabis-inflammatory-diseases]] such as IBD.
+Tested numerous novel molecules that exert their biological effects through the endocannabinoid system. The results suggested a [[blesching-cannabis-inflammatory-diseases]] such as IBD.
 
 **Alberta, Canada (2008):**
 
@@ -96,4 +96,4 @@ Consider engaging: antidepressive measures, anti-anxiety measures; working to de
 
 **Turmeric**: In a meta-study, scientists gave an overview of decades of scientific studies on turmeric. Turmeric showed promise as a treatment for adenomatous polyposis (multiple polyps in the large intestine -- precursor to colon cancer), inflammatory bowel disease, and ulcerative colitis.
 
-**Acacia**: Research suggests that acacia improves stool consistency and reduces the occurrence of fecal incontinence in adults. Alternative practitioners have begun to use the highly soluble fiber to ease symptoms of irritable bowel syndrome. See [[blesching-cannabinoid-pharmacology]] for cannabinoid mechanisms, [[blesching-cannabis-gi-disorders-ibs-crohns]] for broader GI coverage, and [[blesching-cannabis-dosing-strategies]] for dosing guidance.
+**Acacia**: Research suggests that acacia improves stool consistency and reduces the occurrence of fecal incontinence in adults. Alternative practitioners have begun to use the highly soluble fiber to ease symptoms of irritable bowel syndrome. See [[blesching-cannabis-gi-disorders-ibs-crohns]] for broader GI coverage, and [[blesching-cannabis-dosing-strategies]] for dosing guidance.

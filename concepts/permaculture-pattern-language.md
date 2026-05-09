@@ -3,53 +3,11 @@ title: permaculture Pattern Language
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources: []
----
-# Permaculture Pattern Language
-
-**Updated:** 2026-04-18
-
-[[permaculture-design]] uses natural patterns as templates for organizing elements in the landscape. By mimicking the patterns found in nature, permaculture creates efficient, beautiful, and functional designs that work with natural forces rather than against them.
+tags: [[permaculture-design]] uses natural patterns as templates for organizing elements in the landscape. By mimicking the patterns found in nature, permaculture creates efficient, beautiful, and functional designs that work with natural forces rather than against them.
 
 ## Why Patterns?
 
-Nature is organized into patterns: branching (rivers, trees, blood vessels), spirals (shells, galaxies, pinecones), nets (spider webs, leaf veins, [[mycorrhizal-networks]]), waves (sand dunes, wind patterns, water flow). These patterns are not random -- they are efficient solutions to the problems of distributing energy, materials, and information across space.
-
-In permaculture, we use these patterns to organize our designs because:
-- They are proven by millions of years of evolution
-- They are energy-efficient (minimize transport of materials)
-- They maximize edge and diversity
-- They create beauty
-- They are resilient and adaptable
-
-## Key Patterns in Permaculture
-
-### Branching (Dendritic)
-Trees branch to distribute sap from trunk to leaves. Rivers branch to distribute water from mountains to sea. The branching pattern is ideal for distributing resources from a central source to many endpoints.
-
-**Applications:**
-- Pathways from house to garden zones
-- Irrigation lines from water source to planting areas
-- Road systems
-- Nervous system analogy: information flow
-
-### Spiral
-Spirals compact a long path into a small space while creating variation (each turn of the spiral has slightly different conditions).
-
-**Applications:**
-- Herb spirals (different microclimates in compact space)
-- Spiral gardens
-- Windbreak design
-- Winding paths through gardens
-
-### Net (Web)
-Nets create many connections between many points, maximizing redundancy and resilience.
-
-**Applications:**
-- Plant polycultures (many interconnections between species)
-- Social networks (community organization)
-- [[mycorrhiza]]l networks in soil
+Nature is organized into patterns: branching (rivers, trees, blood vessels), spirals (shells, galaxies, pinecones), nets (spider webs, leaf veins, [[mycorrhiza]]l networks in soil
 - Food webs
 
 ### Wave (Meander)
@@ -123,23 +81,5 @@ Circular garden with radiating paths creating pie-shaped wedges. Maximum edge, b
 Circular bed with a keyhole-shaped path. Variation on the mandala for smaller scale.
 
 ### Herb Spiral
-Three-dimensional spiral combining circular and spiral patterns. See [[herb-spiral-design-guide]].
-
-### Sun Trap
-Horseshoe-shaped planting that opens toward the sun, capturing heat and creating a warm microclimate. Excellent for heat-loving crops.
-
-### Wind Funnel
-Plantings that funnel cooling breezes toward sitting areas or channel wind away from fragile plantings.
-
-## Edge Effect
-
-The edge between two ecosystems is where the most diversity and productivity occur:
-- Forest edge: More species than either forest or field alone
-- Water's edge: Riparian zones are the most productive ecosystems
-- Garden edge: The border between garden and lawn/path is where beneficial insects congregate
-
-Design principle: Maximize productive edge while minimizing non-productive edge (such as fence lines that serve no function).
-
-## See Also
-- [[permaculture-principle-design-from-patterns-to-details]]
+Three-dimensional spiral combining circular and spiral patterns. See [[permaculture-principle-design-from-patterns-to-details]]
 - [[natural-farming-guide-zone-design-system]]

@@ -137,7 +137,9 @@ Vegetative propagation via rhizome division is standard commercial practice.
 
 ## See Also
 
-- [[berberine]] — Primary alkaloid with pharmacological research
 - [[sanguinaria-canadensis]] — Fellow woodland medicinal
-- [[panax-quinquefolius]] — American ginseng, co-occurring forest botanical
 - [[actaea-racemosa]] — Black cohosh, shade-loving forest medicinal
+
+## See Also
+
+- [[native-american-planting-methods-and-indigenous-agriculture]]

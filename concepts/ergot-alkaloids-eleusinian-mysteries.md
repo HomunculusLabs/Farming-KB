@@ -114,10 +114,7 @@ civilization-sustaining religious traditions.
 
 ## See Also
 
-- [[eleusinian-mysteries-ergot-theory]]
-
 - [[entheogens-in-ancient-cultures]]
-- [[ergot-and-lysergic-acid-history]]
 - [[ergot-fungus]]
 - psychedelic religious experiences
 - [[ancient-greek-mystery-cults-comparison]]

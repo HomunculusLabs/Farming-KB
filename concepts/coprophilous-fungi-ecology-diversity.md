@@ -3,7 +3,7 @@ title: Coprophilous Fungi — Ecology and Diversity of Dung-Inhabiting Fungi
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -101,13 +101,8 @@ Coprophilous fungi are critical for:
 
 ## See Also
 
-- [[coprophilous-fungi-ecology-diversity-succession]]
-
 - [[fungal-species-richness-and-diversity-indices]]
-- [[saprobic-soil-fungi-ecology-survey]]
 - [[soil-fungal-isolation-techniques]]
-- [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
 - [[fungal-roles-soil-food-webs]]
-- [[tropical-vs-temperate-fungal-diversity]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

@@ -1,7 +1,7 @@
 ---
 title: Casing Layer Technique
 created: 2026-04-28
-tags: [mycology, casing, fruiting, cultivation, substrate]
+tags: [[mycology, casing, fruiting, cultivation, substrate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -41,19 +41,12 @@ Not all mushroom species require a casing layer. Understanding the
 distinction is important:
 
 **Species that require casing**:
-- Button mushroom ([[agaricus-bisporus]])
-- Portobello (same species as button)
-- Some oyster species ([[pleurotus-eryngii]], king oyster)
+- Button mushroom ([[pleurotus-eryngii]], king oyster)
 
 **Species that benefit from casing**:
 - Many Psilocybe species
-- Some [[panaeolus-subbalteatus-profile]] species
-
-**Species that do NOT require casing**:
-- Most [[stamets-pleurotus-oyster-cultivation]] (oyster) species
-- [[lentinula-edodes]] (shiitake)
+- Some [[stamets-pleurotus-oyster-cultivation]] (oyster) species
 - [[grifola-frondosa]] (maitake)
-- [[ganoderma-lucidum]] (reishi)
 - [[hericium-erinaceus]] (lion's mane)
 
 ## Casing Materials
@@ -146,5 +139,3 @@ heavily matted on the surface), initiate fruiting by:
 - Introducing fresh air exchange (lowering CO2)
 - Maintaining 90-95% relative humidity
 - Providing indirect light (12 hours on/off cycle)
-
-Pins should appear within 5-14 days of initiation.

@@ -1,35 +1,14 @@
 ---
 title: Wattles (Acacia spp)
 created: 2026-04-28
-tags: [permaculture, nitrogen-fixing, fodder, australian-native, timber]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
-type: concept
----
-
-# Wattles (Acacia spp)
-
-Wattles are a large genus of some 850 species native to Australia, in the
-family Mimosaceae. They are among the most important [[permaculture-plants-nitrogen-fixing-trees]]
-plants in [[permaculture]] systems, providing fodder, timber, shelter,
-soil stabilisation, and [[permaculture-bee-forage-system]]. The seed of some species is
+tags: [[permaculture-plants-nitrogen-fixing-trees]]
+plants in [[permaculture-bee-forage-system]]. The seed of some species is
 edible and some are traditional foods of Australian Aboriginal people.
 
 ## General Characteristics
 
 Most Acacia species are good sources of pollen but not nectar. Seed is
-generally good [[integrated-poultry-forage-systems-zone-two]] fodder. Most species are smaller plants whose
-wood is significant for fuel, craft uses, fence posts, and mine timbers,
-but some species are prime furniture timbers. Many wattles are extremely
-drought tolerant and adapted to Australia's arid interior.
-
-## Key Species for Permaculture
-
-### Acacia aneura (Mulga)
-
-An outstanding [[permplant-tagasaste-pioneer-fodder-tree]] tree native to all Australian states except
+generally good [[permplant-tagasaste-pioneer-fodder-tree]] tree native to all Australian states except
 Victoria and Tasmania. Survives 200-500 mm annual rainfall. Trees range
 from straight-trunked (to 9 m) to shrubs in extreme conditions. Prefers
 red clayey loams or red sands but will survive most soil types. Can

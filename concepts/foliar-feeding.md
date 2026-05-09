@@ -1,12 +1,28 @@
 ---
+
 title: Foliar Feeding
-created: 2026-04-28
-updated: 2026-05-02
+created: 2026-04-11
+updated: 2026-04-12
 type: concept
-tags: [nutrients, plant-care, foliar]
+
+tags:
+- gardening
+- nutrients
+- fertilizer
+- plant-growth
+- methods
+- plant-systems
+- nutrient-cycling
+- ph
+- soil
+
 sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
+- raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
+
+# Foliar Feeding
+
+Applying liquid nutrients directly to plant leaves for rapid absorption. Foliar feeding bypasses soil chemistry and root uptake limitations, delivering nutrients directly into the plant through stomata and leaf cuticle.
 
 ## How It Works
 
@@ -58,49 +74,6 @@ Complete soluble chemical mixes with trace minerals can be used as foliar sprays
 | Foliar | Hours | 1-2 weeks | Quick fixes, stress recovery |
 | Soil | Days-weeks | Season-long | Long-term fertility |
 | Fertigation | Days | Season-long | Irrigated gardens |
-
-## Limitations and Best Practices
-
-The effectiveness of foliar feeding depends heavily on surfactant use and
-application timing. Without a wetting agent, many spray solutions bead up and
-roll off waxy leaf surfaces, reducing absorption by 50-70%. A few drops of
-mild soap or dedicated non-ionic surfactant per gallon dramatically improves
-coverage. Application during the early morning or late evening maximizes
-absorption because stomata are open and evaporation is minimal. Midday
-spraying wastes product as droplets dry before penetrating the cuticle.
-
-Micronutrients are particularly well-suited to foliar application because they
-are needed in small quantities and can become locked in soil at unfavorable
-pH levels. Boron, zinc, iron, manganese, and copper all show rapid foliar
-uptake. However, foliar feeding cannot replace soil fertility management for
-macronutrients (NPK) — it is best used as a supplement for correcting
-deficiencies or providing boosters during critical growth stages such as
-flowering, fruit set, or periods of environmental stress.
----
-
-title: Foliar Feeding
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
-
-tags:
-- gardening
-- nutrients
-- fertilizer
-- plant-growth
-- methods
-- plant-systems
-- nutrient-cycling
-- ph
-- soil
-
-sources:
-- raw/papers/gardening-when-it-counts-steve-solomon.md
----
-
-# Foliar Feeding
-
-Applying liquid nutrients directly to plant leaves for rapid absorption. Foliar feeding bypasses soil chemistry and root uptake limitations, delivering nutrients directly into the plant through stomata and leaf cuticle.
 
 ## See Also
 

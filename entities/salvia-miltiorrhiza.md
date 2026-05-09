@@ -141,10 +141,6 @@ Generally well-tolerated at therapeutic doses. Key cautions include:
 - **Digoxin interaction:** May increase digoxin plasma levels
 - **Hypotension:** May lower blood pressure; caution with antihypertensives
 
-- [[panax-ginseng]]
 - [[astragalus-membranaceus]]
-- [[glycyrrhiza-glabra]]
 - [[salvia-officinalis]]
-- [[cardiovascular-herbs]]
 - [[ganoderma-lucidum]]
-- tanshinone iia

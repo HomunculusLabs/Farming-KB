@@ -116,13 +116,8 @@ Each hybrid approach involves trade-offs. Adding liquid nutrients to wicking bed
 
 ## See Also
 
-- [[comparison-wicking-bed-vs-raised-bed]]
-
 - [[comparison-hugelkultur-vs-wicking-bed]]
 
-- [[wicking-bed-construction]] for detailed build instructions and material selection
 - [[cervantes-passive-wick-hydroponic-systems]] for hydroponic wick system designs and Dutch techniques
-- [[cervantes-growing-medium]] for soil-less substrate options and properties
 - [[cervantes-hydroponic-systems]] for active hydroponic alternatives and comparisons
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for optimizing plant arrangements in wicking beds
 - [[cervantes-nutrient-solution-reservoir-management]] for managing nutrient solutions in passive setups

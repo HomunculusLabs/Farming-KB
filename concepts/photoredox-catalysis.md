@@ -5,7 +5,8 @@ tags: [organic-chemistry, catalysis, photochemistry, radical-chemistry, synthesi
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
@@ -132,19 +133,10 @@ transfer, thermal radical initiation by lamp heating, and trace-metal effects ca
 without catalyst, without light, and with different wavelengths are necessary.
 
 ## References and Further Reading
-
-This page was researched from public overviews of photoredox catalysis, photochemistry, and photocatalysis, including Wikipedia
-summaries of transition-metal sensitizers, excited-state redox cycles, catalyst regeneration, and common synthetic applications.
-
-Representative primary literature to consult includes reviews by MacMillan, Yoon, Stephenson, and Nicewicz on visible-light
-photoredox catalysis, nickel-photoredox cross-coupling, and organic dye photocatalysts.
-
-Photoredox methods can also model single-electron radical processes relevant to [[reactive-metabolites-and-bioactivation-toxicology]], though the page here treats the chemistry at a concept level rather than as a toxicology protocol.
 ## See Also
 
-- [[oxidative-addition-vs-photoredox-catalysis]]
-
-- radical chemistry
-- organic chemistry
-- photochemistry
 - [[phase-transfer-catalysis]]
+## See Also
+- [[pdc-water-systems-design-and-management]]
+- [[reactive-oxygen-species-and-oxidative-stress]]
+- [[mushroom-growing-room-environmental-control]]

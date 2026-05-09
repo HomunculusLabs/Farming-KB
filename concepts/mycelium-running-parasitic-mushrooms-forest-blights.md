@@ -1,7 +1,7 @@
 ---
 title: "Parasitic Mushrooms and Forest Blights"
 created: 2026-04-28
-tags: [mycology, parasitism, forest-ecology, fungal-pathogens]
+tags: [[mycology, parasitism, forest-ecology, fungal-pathogens]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -30,8 +30,7 @@ damaged habitats. Ultimately, parasitic mushrooms set the stage for
 the revival of weakened habitats that are too stressed to thrive.
 
 Of all the parasitic blight mushrooms that are edible by humans,
-the assorted honey mushrooms such as [[armillaria-mellea]] and
-[[armillaria-ostoyae]] are the best known. One mycelial mat from a
+the assorted honey mushrooms such as [[armillaria-ostoyae]] are the best known. One mycelial mat from a
 honey mushroom (Armillaria bulbosa) made national headlines when a
 specimen was found in a Michigan forest that covered 37 acres, weighed
 at least 50 tons, and was estimated to be 1,500 years old.
@@ -42,9 +41,7 @@ Many saprophytic fungi can be weakly parasitic, especially if a
 host tree is dying from other causes such as environmental stress
 or parasite infestation. Saprophytes that can take advantage of a
 dying tree are termed facultative parasites. Oyster mushrooms
-([[pleurotus-ostreatus]]) are classic saprophytes, although they are
-frequently found on dying cottonwood, oak, poplar, birch, maple,
-and alder trees. Although reishi ([[ganoderma-lucidum]]) is considered
+([[ganoderma-lucidum]]) is considered
 a true saprophyte by most mycologists, the Australian Quarantine
 Inspection Service has classified this mushroom as a medicinal
 species acting as a parasite and has banned its importation.
@@ -138,6 +135,5 @@ wood to the birds that depend on those insects for food.
 
 ## See Also
 
-- [[mycelium-running-saprophytic-decomposers]]
 - [[mycelium-running-mycelium-soil-building]]
 - [[mycelium-running-mycelial-archetype-nature]]

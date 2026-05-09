@@ -103,18 +103,11 @@ The criminological data supports what might be called an enforcement-disproporti
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-telephone-helpline-data]]
-- [[emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
-- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
 - [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
-- [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
-- [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]
 - [[emcdda-herbal-highs-market-product-substitution-bans]]

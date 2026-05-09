@@ -3,7 +3,7 @@ title: Mushroom Cultivation Information Sources and Industry Directory
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
@@ -124,15 +124,7 @@ Major commercial mushroom producers include: All Seasons Mushrooms, Continental 
 
 ## See Also
 
-- [[tropical-mushroom-spawn-production-materials]]
 - [[shiitake-strain-classification-and-substrate-formulas]]
-- [[paddy-straw-mushroom]]
 - [[pleurotus-tuberregium-sclerotia-cultivation]]
-- [[mushroom-grain-spawn-preparation]]
-
-## Sources
-
-- Chapter 12, "Mushroom Cultivation Information" in Oyster Mushroom Cultivation (MushWorld, 2004)
 - [[grain-cultivation-small-scale]]
-- [[oyster-mushroom-shelf-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]

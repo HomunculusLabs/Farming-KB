@@ -131,11 +131,7 @@ With a CHI value of 14 across 4 studies, cannabis demonstrates one of the strong
 
 ## See Also
 
-- [[blesching-cannabis-ptsd-anxiety]]
 - [[blesching-cannabis-depression]]
-- [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
 - [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
-- [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]]
 - [[blesching-cannabis-serotonin-endocannabinoid-system]]
-- [[blesching-cannabis-schizophrenia]]
 - [[blesching-cannabis-bipolar-disorder]]

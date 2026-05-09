@@ -118,11 +118,8 @@ established plants.
 
 ## See Also
 
-- [[beauveria-bassiana]]
 - [[cordyceps-militaris]]
-- [[verticillium-lecanii]]
 - [[pleurotus-ostreatus]]
-- [[biocontrol]]
-- [[permaculture]]
+- biocontrol
 - [[integrated-pest-management]]
 - [[agaricus-bisporus]]

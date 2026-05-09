@@ -138,12 +138,8 @@ It was frequently misrepresented as MDMA or methylone in the illicit market, con
 
 ## See Also
 
-- [[caffeine]]
 - [[dom]]
-- [[mdea]]
-
 - [[methylone]] — N-methyl homolog (cathinone analog of MDMA)
-- [[mdea]] — Ethylone without the β-keto group
 - [[mephedrone]] — 4-methylmethcathinone (4-MMC)
 - [[mdma]] — 3,4-methylenedioxymethamphetamine (reference entactogen)
 - Cathinone — Parent compound and pharmacological class

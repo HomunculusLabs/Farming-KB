@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
 # Habitat Nooks for Garden Wildlife
@@ -87,16 +88,7 @@ Habitat nooks require minimal maintenance:
 
 ## See Also
 
-- [[beneficial-insect-habitat]]
 - [[bird-habitat-creation]]
-- [[amphibian-habitat-creation]]
 - [[backyard-pond-building]]
-- [[fungal-partnerships-with-wildlife]]
 - [[apple-guild-design-guide]]
-- [[permaculture-food-forest-design-principles]]
-
-## Sources
-
-- Hemenway, T. Gaia's Garden: A Guide to Home-Scale Permaculture, Chapters 7-8
-- Mollison, B. Permaculture: A Designer's Manual
 - [[permaculture-designers-manual-food-forest-guilds]]

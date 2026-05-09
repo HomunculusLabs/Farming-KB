@@ -56,14 +56,7 @@ organic dyes and serve as sensing platforms for heavy metal detection.
 ### Iron Oxide Nanoparticles (Fe3O4, Fe2O3)
 
 Magnetite nanoparticles serve dual purposes: magnetic separation of
-contaminants and [[singh-fungal-biosorbents-mycosorption-mechanisms]] enhancement.
-Functionalized iron oxide nanoparticles achieve selective removal of
-arsenic, chromium, and lead from aqueous solutions.
-
-### Titanium Dioxide and Zinc Oxide Nanoparticles
-
-Photocatalytic TiO2 and ZnO nanoparticles produced through fungal routes
-show enhanced degradation of [[singh-fungal-degradation-of-emerging-contaminants]] under
+contaminants and [[singh-fungal-degradation-of-emerging-contaminants]] under
 UV-visible light. Fungal capping agents improve dispersion and reactivity.
 
 ## Key Fungal Species in Nanoparticle Synthesis
@@ -91,52 +84,8 @@ catalytic reactions.
 ### Enhanced Biosorption
 
 Fungal biomass impregnated with nanoparticles shows dramatically improved
-[[singh-composted-fungal-biomass-heavy-metal-immobilization]] capacity. Nanoparticles increase
-available binding sites and introduce additional adsorption mechanisms
-including electrostatic attraction, ion exchange, and surface
-complexation.
-
-### Antibacterial Water Treatment
-
-Fungal-synthesized silver nanoparticles effectively inactivate pathogenic
-bacteria in treated wastewater, addressing critical concerns in
 [[singh-constructed-wetlands-fungal-wastewater-treatment]] and
-[[singh-fungal-treatment-industrial-wastewaters-overview]] systems.
-
-## Advantages of Fungal Nanoparticle Synthesis
-
-1. **Green chemistry**: No toxic reducing or capping agents required
-2. **Energy efficiency**: Synthesis at ambient temperature and pressure
-3. **Scalability**: Fungi cultivable in large-scale fermenters
-4. **Surface functionalization**: Fungal capping agents provide
-  biocompatible surfaces that resist aggregation
-5. **Size control**: Reaction conditions allow tuning of nanoparticle
-  size and morphology
-
-## Challenges and Limitations
-
-- **Recovery and reuse**: Separating nanoparticles from treated media
-  remains technically difficult; magnetic nanoparticles partially
-  address this concern
-- **Toxicity of nanoparticles**: Environmental fate and ecotoxicity
-  of released nanoparticles require thorough evaluation
-- **Standardization**: Reproducibility across batches remains
-  inconsistent in fungal biosynthesis
-- **Regulatory frameworks**: Nanomaterial regulations are still evolving
-- **Cost-benefit analysis**: Large-scale fermentation costs must be
-  weighed against conventional treatment alternatives
-
-## Future Directions
-
-Emerging research frontiers include hybrid nanocomposites combining
-fungal biomass, nanoparticles, and
 [[singh-ligninolytic-enzymes-fungal-bioremediation]] for multifunctional remediation;
-immobilized nanoparticle systems in [[singh-fungal-bioreactor-types-configurations]];
-and genetically optimized fungal strains for higher nanoparticle yield.
-
-## See Also
-
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[singh-key-fungal-genera-bioremediation]]
+immobilized nanoparticle systems in [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[singh-fungal-immobilization-bioreactor-technology]]
 - [[singh-fungal-degradation-of-emerging-contaminants]]

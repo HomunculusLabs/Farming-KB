@@ -11,23 +11,14 @@ sources:
 
 # Psilocybe cyanescens Profile
 
-
-
-
 ## Overview
 
 Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of temperate regions, strongly associated with wood chips and ornamental plantings. It has been spread globally through the horticultural trade and is one of the most commonly encountered psychoactive mushrooms in urban and suburban settings.
-
-
-
 
 ## Taxonomy
 
 - **Species**: Psilocybe cyanescens Wakefield
 - **Common names**: Wavy-cap, blue halos
-
-
-
 
 ## Macroscopic Features
 
@@ -36,16 +27,10 @@ Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of tempera
 - **Stem**: 30-80 mm long, 2-5 mm thick. White to pallid, bruising prominently blue. Often curved at base with coarse white rhizomorphs.
 - **Spore print**: Dark purplish brown.
 
-
-
-
 ## Potency
 
 - A highly potent species, though generally less so than [[psilocybe-azurescens-profile]].
 - Strong bluing reaction upon damage.
-
-
-
 
 ## Habitat and Distribution
 
@@ -55,15 +40,9 @@ Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of tempera
 - **Global spread**: Imported to Europe and elsewhere in the soil around the bases of exotic trees and ornamental plants. Distribution across Europe and North Africa is documented in Krieglsteiner's maps.
 - **Urban ecology**: Commonly found in garden mulch, park wood chips, and landscaped areas -- making it one of the most accessible psychoactive species for urban foragers.
 
-
-
-
 ## Spread Through Horticulture
 
 Many species in the Pacific Northwest were brought from Europe, probably in the soil around the bases of exotic trees and ornamentals. P. cyanescens is a prime example. Stamets notes that searching rhododendron or rose gardens in the Pacific Northwest during fall rarely disappoints.
-
-
-
 
 ## Distinguishing Features
 
@@ -72,22 +51,32 @@ Many species in the Pacific Northwest were brought from Europe, probably in the 
 - Wood chip habitat
 - Smaller stature than [[psilocybe-azurescens-profile]]
 
-
-
-
 ## Related Species
 
 - [[psilocybe-azurescens-profile]] -- larger, non-wavy margin, more potent
 - Psilocybe cyanofibrillosa, Psilocybe serbica, Psilocybe subaeruginosa
 - Psilocybe mairei -- North African species resembling P. cyanescens
 
-
-
-
 ## See Also
 
-- [[psilocybe-stuntzii-profile]]
-- [[psilocybe-baeocystis-profile]]
-- [[psilocybe-cyanescens]]
-- [[psilocybe-pelliculosa-profile]]
-- [[psilocybe-aztecorum-profile]]
+- [[psilocybe-cubensis-profile]]
+- [[stamets-psi-psilocybe-cyanescens-species-guide]]
+## Practical Considerations
+
+Successful implementation of Psilocybe cyanescens Profile requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

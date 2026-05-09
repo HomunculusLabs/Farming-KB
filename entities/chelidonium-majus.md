@@ -27,40 +27,7 @@ sources:
 
 Greater celandine is a perennial herb in the poppy family (Papaveraceae), native to Europe and western Asia, recognized for its bright orange-yellow latex used medicinally for over 2,000 years.
 
-The plant contains isoquinoline alkaloids — principally chelidonine, sanguinarine, chelerythrine, and coptisine — with antimicrobial, anti-inflammatory, and cytotoxic properties, but also significant toxicity.
-The narrow therapeutic window has led regulatory agencies to restrict its use.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Ranunculales
-- **Family:** Papaveraceae
-- **Genus:** *Chelidonium*
-- **Species:** *C. majus* L.
-- **Genus:** Monotypic
-- **Common names:** Greater celandine, tetterwort, swallowwort, wartweed, rock poppy
-- **Etymology:** Greek *chelidon* (swallow), from the belief that the plant flowers when swallows arrive and wilts when they depart
-
-## Morphology
-
-### Above-Ground Growth
-
-- **Height:** 30–90 cm; upright, branching habit
-- **Stem:** Hairy, slightly angular, branching above; exudes bright orange-yellow latex when broken
-- **Leaves:** Pinnately lobed with 5–7 ovate, irregularly toothed leaflets; 10–20 cm long; greyish-green, softly hairy beneath
-- **Flowers:** 4-petaled, bright yellow, 1.5–2.5 cm diameter, in loose umbel-like cymes; blooms May–October
-- **Fruit:** Linear capsule, 2–5 cm long, containing numerous small black seeds with elaiosomes (ant-dispersed)
-- **Root:** Taproot system; all parts contain latex-bearing ducts
-
-### Latex
-
-- **Color:** Vivid orange-yellow to orange-red
-- **Composition:** 0.1–1.0% total alkaloids by fresh weight; primarily benzophenanthridine alkaloids
-- **Properties:** Strongly irritating to skin and mucous membranes; antibacterial and antifungal when diluted
-
-## Distribution and Habitat
-
-- **Native range:** Europe, western Asia, Siberia; widely naturalized in North America and New Zealand
+The plant contains isoquinoline alkaloids — principally chelidonine, sanguinarine, chelerythrine, and coptisine — with antimicrobial, [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]] and New Zealand
 - **Habitat:** Highly adaptable — disturbed ground, hedgerows, woodland edges, rocky outcrops, roadsides, waste places
 - **Soil:** Wide tolerance from sandy to clay; prefers moist, nitrogen-rich soils
 - **Climate:** Temperate; hardy to USDA Zone 3; partial shade to full sun
@@ -73,52 +40,7 @@ The narrow therapeutic window has led regulatory agencies to restrict its use.
 | Compound | Concentration (dried herb) | Primary Activity |
 |----------|---------------------------|-----------------|
 | Chelidonine | 0.2–0.5% | Antispasmodic, cytotoxic |
-| Sanguinarine | 0.05–0.2% | Antimicrobial, anti-inflammatory |
-| Chelerythrine | 0.1–0.3% | Protein kinase C inhibitor |
-| Coptisine | 0.05–0.2% | Antimicrobial, hepatoprotective |
-| Protopine | 0.1–0.3% | Spasmolytic, antiplatelet |
-| Allocryptopine | 0.05–0.2% | Antibacterial |
-| Berberine | trace | Antimicrobial, AMPK activator |
-
-### Non-Alkaloidal Constituents
-
-- **Flavonoids:** Rutin, quercetin, kaempferol derivatives
-- **Phenolic acids:** Caffeic acid, ferulic acid
-- **Carotenoids:** Lutein, β-carotene (contributing to latex color)
-
-## Pharmacology and Medicinal Uses
-
-### Chelidonine
-
-- **Antimitotic:** Disrupts mitotic spindle formation; investigated as anticancer agent
-- **Antispasmodic:** Relieves smooth muscle spasms in GI tract and bile ducts
-
-### Sanguinarine
-
-- **Antimicrobial:** Broad-spectrum against Gram-positive bacteria, fungi, protozoa; disrupts bacterial membranes
-- **Anti-inflammatory:** Inhibits NF-κB and COX-2 expression
-- **⚠️ Hepatotoxic:** Metabolized to reactive intermediates causing liver damage at elevated doses
-
-### Chelerythrine
-
-- **Protein kinase C inhibition:** Potent and selective inhibitor; investigated for anticancer applications
-- **Antimicrobial:** Active against oral pathogens; used in dental care products (toothpaste, mouthwash) in some European markets
-
-### Traditional Applications
-
-- **Skin conditions:** Topical latex for warts, corns, skin tags (cytolytic)
-- **Biliary disorders:** Choleretic and spasmolytic for gallbladder conditions
-- **Respiratory:** Expectorant for bronchitis in European folk medicine
-
-- **Clinical Evidence:** Limited data supports topical wart efficacy; moderate evidence for gallbladder spasmolytic effects; hepatotoxicity reports led to restricted use in Europe
-
-### Safety and Toxicology
-
-- **⚠️ Hepatotoxicity:** Multiple case reports of acute hepatitis at typical herbal doses; idiosyncratic and dose-dependent
-- **⚠️ Dermal toxicity:** Fresh latex causes severe contact dermatitis, chemical burns, and ulceration
-- **⚠️ Ocular toxicity:** Causes corneal damage — never apply near eyes
-- **Contraindicated in:** Pregnancy, lactation, liver disease, biliary obstruction, children under 12
-- **Drug interactions:** May interact with hepatotoxic medications and CYP450 substrates
+| Sanguinarine | 0.05–0.2% | Antimicrobial, [[cannabis-drug-interactions-and-contraindications]]:** May interact with hepatotoxic medications and CYP450 substrates
 - **Fatal dose:** Estimated at 20–30 g dried herb; however, hepatotoxicity can occur at much lower doses
 
 ## Cultivation
@@ -131,19 +53,64 @@ The narrow therapeutic window has led regulatory agencies to restrict its use.
 ## Permaculture and Ecological Notes
 
 - **Pioneer species:** Colonizes disturbed ground; useful for early-succession planting on degraded sites
-- **Pest deterrence:** Alkaloid-rich latex deters herbivores; useful barrier plant
-- **⚠️ Allelopathy:** Root exudates inhibit germination of neighboring plants
-- **Pollinator support:** Flowers provide nectar for bees, flies, beetles over extended season
-- **Soil stabilization:** Deep taproot binds loose soils on banks and slopes
+- **Pest deterrence:** Alkaloid-ric [[sanguinaria-canadensis]] — Bloodroot, sharing sanguinarine as key alkaloid
+- [[blesching-cannabis-therapeutic-window-methodology]] denseal, another Ranunculales medicinal with narrow therapeutic window
+## Practical Considerations
 
-## Related Species
+When working with Greater Celandine, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-- **Ficaria verna** (lesser celandine) — Unrelated Ranunculaceae; similar name, different family
-- **Sanguinaria canadensis** (bloodroot) — Fellow Papaveraceae, also rich in sanguinarine
-- **Macleaya cordata** (plume poppy) — Related Papaveraceae with similar alkaloid profile
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-## See Also
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-- [[sanguinaria-canadensis]] — Bloodroot, sharing sanguinarine as key alkaloid
-- [[berberine]] — Broad-spectrum antimicrobial alkaloid also present in trace amounts
-- [[hydrastis-canadensis]] — Goldenseal, another Ranunculales medicinal with narrow therapeutic window
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

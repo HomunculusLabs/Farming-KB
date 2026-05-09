@@ -22,18 +22,7 @@ and some of his insights have been partially vindicated by later research.
 The book was universally condemned by scholars upon publication. It was
 reviewed negatively in virtually every major academic journal, and Allegro's
 own publisher, Hodder and Stoughton, reportedly refused to issue a paperback
-edition due to the outcry. His colleagues on the [[dead-sea-scrolls-entheogenic-reading]] editorial
-team -- including figures like Geza Vermes, who had previously been sympathetic
-to Allegro's more cautious publications -- distanced themselves entirely.
-
-The primary objections fell into several categories: methodological flaws in
-his philology, the speculative nature of his etymological chains, his
-misunderstanding of Sumerian grammar and semantics, and the sheer improbability
-of his central claim that the entire New Testament was a deliberate hoax.
-
-## Philological Method: The Core Problem
-
-Allegro's [[allegro-philological-methodology]] was the
+edition due to the outcry. His colleagues on the [[allegro-philological-methodology]] was the
 most seriously criticized aspect. His technique involved:
 
 - Taking Sumerian words and breaking them into component syllables
@@ -72,28 +61,7 @@ The source document itself notes several specific errors in Allegro's
 understanding:
 
 - He did not understand the growth cycle, effects, and "bitterness" of the
-  [[amanita-muscaria-chemistry-and-pharmacology]].
-- He overlooked references to *Amanita pantherina* and *Psilocybe cubensis*.
-- He wrongly classified Rue (*Ruta graveolens*) as an abortifacient.
-- He failed to recognize Acacia and Rue as an
-  entheogen-culture|Ayahuasca analogue (the DMT-containing acacia
-  combined with the MAOI rue).
-- He wrongly assumed that the mushrooms themselves, and not religion and
-  government, were the cause of persecution.
-
-These errors are significant because they suggest Allegro's knowledge of the
-actual pharmacology and botany of his central subject was incomplete, even as
-he built elaborate theories upon it.
-
-## Partial Vindication and Enduring Interest
-
-Despite the overwhelming rejection, certain aspects of Allegro's work have
-found some support:
-
-- **Entheogenic theory of religion**: The broader idea that psychoactive
-  substances played a role in the development of religious experience has
-  gained scholarly traction through the work of R. Gordon Wasson, Carl Ruck,
-  Jonathan Ott, and others. See [[entheogenic-eleusis-theory-scholarly-reception]].
+  [[entheogenic-eleusis-theory-scholarly-reception]].
 - **Fertility cult connections**: Allegro was not wrong that Near Eastern
   religions contained strong fertility elements, or that phallic symbolism
   was pervasive. These are now widely accepted.
@@ -113,24 +81,6 @@ in ancient texts (which abounded as a literary device) does not prove a
 systematic encoding.
 
 The question of whether Christianity emerged from a mushroom cult or
-developed within the broader pattern of [[ancient-greek-mystery-cults-comparison]] of the ancient Near East remains debated, though
-Allegro's specific version is almost entirely rejected by mainstream
-scholarship.
-
-## Legacy
-
-Allegro's career was effectively destroyed by the publication. He was
-marginalized within academia and never held a permanent university position
-again. However, his book remains in print and continues to find readers. It
-stands as a cautionary tale about the dangers of speculative philology, yet
-also as a pioneering attempt to take seriously the role of psychoactive
-substances in religious history -- a field that has only grown in scholarly
-respectability since 1970.
-
-## See Also
-
-- [[allegro-main-thesis]] -- Allegro's theory in full
-- [[allegro-philological-methodology]] -- The method and its problems
+developed within the broader pattern of [[allegro-main-thesis]] -- Allegro's theory in full
 - [[entheogenic-eleusis-theory-scholarly-reception]] -- Scholarly reception of entheogenic theories
-- [[dead-sea-scrolls-entheogenic-reading]] -- Other entheogenic DSS interpretations
 - [[allegro-new-testament-as-cover-story]] -- Allegro's "hoax" argument

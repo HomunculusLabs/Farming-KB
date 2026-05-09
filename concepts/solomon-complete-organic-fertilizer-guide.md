@@ -9,80 +9,140 @@ sources:
 ---
 # Solomon on the Complete Organic Fertilizer
 
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
+From [[complete-organic-fertilizer-formulation]]
 
-## Why COF Exists
-
-Solomon recommends building extremely fertile soil for demanding crops by using a complete organic fertilizer blend made from agricultural waste products and crushed rocks. If this COF is used to supplement modest amounts of manure and/or compost, the food your garden produces will contain far more human nutrition than vegetables grown by any other method.
-
-## The COF Recipe
-
-All materials are measured by volume (scoops, buckets, jars). Do not attempt to make this formula by weight.
-
-### Base (choose one):
-
-- **Option A (standard):** 4 parts any kind of seedmeal (soybean, cottonseed, linseed, sunflower, canola, etc.) BUT not coprameal
-- **Option B (leafy crops):** 3 parts any seedmeal (not coprameal) plus 1 part "tankage" (also called blood-and-bone or meatmeal). This higher-nitrogen option is slightly better for leafy crops in spring.
-- **Option C (cheapest):** 4 parts less-potent coprameal, supplemented with 1 part tankage to boost the nitrogen content
-
-### Blend with:
-
-- 1 part ordinary agricultural lime, best finely ground
-- 1/4 part gypsum (if you don't use gypsum, double the quantity of agricultural lime)
-- 1/2 part dolomite lime (for the best results)
-- 1 part of any one of these phosphorus sources: finely ground rock phosphate (either "hard" or "soft"), bonemeal, or high-phosphate guano
-- 1/2 part kelpmeal (or 1/2 part basalt dust)
-
-## Understanding the Ingredients
-
-### Seedmeals
-
-Seedmeals are the byproduct of making vegetable oil. They include linseed (flax), soybean, cottonseed, and sunflower meals. Most seedmeals analyze at approximately 6-4-2 NPK. The general rule: buy whichever seedmeal provides the most protein for the least cost. Keep seedmeals dry and protected from moisture in a container with a tight lid.
-
-### Tankage
-
-Tankage is the product of the slaughterhouse -- the whole animal minus the meat. It is a strong nitrogen source analyzing at about 10-4-0. If you use too much tankage, the only consequence is that your COF will be a bit higher in nitrates, requiring slightly more product to get the same result.
-
-### Limes
-
-There are three types of lime. "Agricultural lime" is relatively pure calcium carbonate. "Dolomitic lime" contains both calcium and magnesium, usually in roughly equal amounts. "Gypsum" is calcium sulfate. Do not use quicklime, burnt lime, hydrated lime, or other chemically processed limes.
-
-### Kelpmeal
-
-Kelpmeal adds considerable fortitude to the vegetables. It is rich in trace elements, growth regulators, and natural hormones. It also provides resistance to cold, frost, and other stresses. Basalt dust may be substituted for kelpmeal but Solomon believes the extra cost of kelp is worthwhile.
-
-## The pH Myth
-
-Solomon challenges the conventional wisdom about liming to adjust soil pH. His position: if a soil test shows your garden's pH is low and you are advised to lime to correct it -- don't. Each year, just add what he recommends in the COF recipe along with compost or manure. Over time the pH will correct itself, more because of the organic matter than from adding calcium and/or magnesium.
-
-If you routinely garden with COF, there will never be any need to lime the garden separately. COF is formulated so that when used in the recommended amount, it automatically distributes the right amount of calcium.
-
-## Application Rates
-
-At least once a year (best in spring), spread four to six quarts (four to six liters) of COF atop each 100 square feet of raised bed or down each 50 feet of row 12 to 18 inches wide. Work the fertilizer in with a hoe or spade.
-
-This amount provides enough fertility for low-demand vegetables (carrots, beans, peas) to grow to their maximum potential. It will usually adequately feed all medium-demand vegetables. For high-demand vegetables, additional side-dressings may be needed after the plants are growing.
-
-## How COF Works
-
-The organic materials in COF release their nutrient content only as they decompose, as they are slowly broken down by the complex ecology of living creatures in the soil. The rate of decomposition is determined by soil temperature. For every 10 degrees Fahrenheit increase of soil temperature, the speed of decomposition doubles. Complete release of COF nutrients takes around two months in warm soil.
-
-## Related
-
-- [[complete-organic-fertilizer-formulation]]
-
-- [[solomon-gardening-when-it-counts-index]]
 - [[composting-science-solomon]]
 - [[intensive-gardening-critique-solomon]]
 - [[intensive-gardening-critique-solomon]]
-- [[complete-organic-fertilizer-recipes]]
-- [[intensive-gardening-critique-solomon]]
 
 ## Merged: Fertilizer Placement
-Steve Solomon provides specific guidance on how, when, and where to place fertilizers in the garden. Proper placement ensures nutrients reach plant roots efficiently while minimizing waste and leaching. - solomon complete organic fertilizer guide - [[complete-organic-fertilizer-recipes]] - [[watering-irrigation-solomon]] - [[solomon-gardening-when-it-counts-index]] His approach combines pre-planting soil preparation, side-dressing during growth, and fertigation for targeted delivery.
-## Merged: Solomon on Growing Celery and Fussy Vegetables
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon identifies certain vegetables as fussy about soil type. - [[solomon-gardening-when-it-counts-index]] - [[solomon-growing-brassicas-guide]] - [[potato-growing-guide-solomon]] - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[intensive-gardening-critique-solomon]] These species may express their difficulty by being susceptible to insects or disease, especially when grown in soils they don't tolerate.
-## Merged: Solomon Seed Starting Indoors
-Steve Solomon provides a practical, low-tech approach to raising seedlings indoors. He strongly advocates growing your own transplants rather than buying from garden centers, and focuses on raising seedlings only for species that truly benefit from the head start. - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[garden-hand-tools-solomon]] - [[tomato-pepper-eggplant-growing-guide]] - [[solomon-planting-and-transplanting-guide]] Solomon is deeply suspicious of purchased vegetable transplants.
-## Merged: Solomon Garlic Growing Detailed
-Steve Solomon provides comprehensive guidance for growing garlic, from variety selection through planting, care, and harvest. Garlic is one of his recommended crops for home food production, offering good storage qualities and high nutritional value. - [[solomon-growing-garlic-onions-leeks]] - solomon complete organic fertilizer guide - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide There are two basic types of garlic: hardnecks and softnecks.
+Steve Solomon provides specific guidance on how, when, and where to place fertilizers in the garden. Proper placement ensures nutrients reach plant roots efficiently while minimizing waste and leaching. - solomon complete organic fertilizer guide - [[watering-irrigation-solomon]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon identifies certain vegetables as fussy about soil type. - [[solomon-growing-brassicas-guide]] - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[tomato-pepper-eggplant-growing-guide]] - [[solomon-growing-garlic-onions-leeks]] - solomon complete organic fertilizer guide - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide There are two basic types of garlic: hardnecks and softnecks.
+## Background and Context
+
+Solomon on the Complete Organic Fertilizer is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

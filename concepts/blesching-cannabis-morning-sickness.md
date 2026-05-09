@@ -69,45 +69,9 @@ cannabinoids that activate these receptors.
   psychoactive effects
 - Raw cannabis juice provides non-psychoactive CBD acid (CBDA), which has
   demonstrated anti-nausea properties in animal studies
-- See [[blesching-cannabis-pregnancy]] for additional pregnancy-related
-  considerations
-
-### Mind-Body Medicine and Morning Sickness
-
-Changes during pregnancy can be intense experiences caused by vastly
-different hormone profiles and other physiological and psychological
-changes. Women may feel disconcerted that generally liked foods now produce
-aversion, yet they develop cravings for items normally despised. Pondering
-these changes in lifestyles and identities combined with the necessary
-preparations for the newcomer may increase the impact of disruption to
-normal routines. A sense of overwhelm, fear, and being out of control may
-set in and contribute to the development of morning sickness.
-
-The body produces the involuntary and rapid development of nausea and
-vomiting as a protective mechanism in the presence of a threat such as
-poison. The emotional underpinnings for nausea and vomiting, even when no
-physical threat is present, are very similar. When a perceived threat to
-the normal sense of self is detected, or when the anticipation of
-mental-emotional upheaval is part of the experience, people often respond
-with fear and anxiety followed by symptoms of nausea. If intense enough,
-vomiting occurs. See [[blesching-cannabis-depression]] and
-[[blesching-cannabis-ptsd-anxiety]] for related mind-body perspectives.
-
-### Supporting Therapies
-
-- **Ginger:** 650 mg of ginger given three times daily for four days to
-  pregnant women worked better than vitamin B-6 for morning sickness
-- **Vitamin B-6:** Commonly used natural supplement for pregnancy-related
-  nausea
-- **Mindfulness and relaxation techniques:** May help address underlying
-  anxiety contributing to nausea symptoms
-
-### Related Topics
-
-- [[blesching-cannabis-pregnancy]]
-- [[blesching-cannabis-chemotherapy-nausea]]
+- See [[blesching-cannabis-depression]] and
+[[blesching-cannabis-pregnancy]]
 - [[blesching-cannabis-fertility-reproductive-health]]
-- [[blesching-cannabis-gastrointestinal-disorders]]
 - [[blesching-cannabis-dosing-strategies]]
 - [[blesching-cannabis-ptsd-anxiety]]
 

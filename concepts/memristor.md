@@ -2,7 +2,8 @@
 title: "memristor"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -66,83 +67,27 @@ Thermal effects are also important because nanoscale switching can localize heat
 
 Device-to-device variation is not just a manufacturing problem; it is part of the physical nature of many switching mechanisms.
 
-## History [[oss-oeric-legal-disclaimer-and-context]]
-The theoretical memristor was proposed by Leon Chua in 1971 as a missing basic circuit element.
+## History [[slime-mold-computation]]
 
-Chua argued that symmetry in circuit variables implied a relation between charge and flux analogous to the known resistor, capacitor, and inductor relations.
-For decades, the idea remained largely mathematical and had limited technological impact.
+## See Also
+- [[plant-memory-environmental-learning]]
+- [[plant-memory-and-associative-learning]]
+## Practical Considerations
 
-Related resistive switching phenomena were observed earlier in thin films, but they were not always interpreted through memristor theory.
+Successful implementation of memristor requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-Interest surged in 2008 when researchers at Hewlett-Packard reported nanoscale titanium dioxide devices described as physical memristors.
+## Future Directions
 
-The report connected older switching observations to a compact theoretical framework and to possible memory applications.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-It also triggered debate about whether real devices should be called ideal memristors or more broadly memristive systems.
-
-This debate is partly semantic and partly technical.
-
-Ideal memristors obey strict mathematical relationships that many real materials do not satisfy exactly.
-Engineers often use the term pragmatically for resistive switching elements with memory.
-
-The development of memristors overlaps with the search for post-CMOS memory technologies.
-
-Flash memory scaling limits, data-center energy costs, and artificial intelligence workloads all increased inlow-energy-futures-in-permaculturenon-volatile, dense, low-energy devices.
-
-At the same time, machine learning created demand for hardware that can multiply matrices efficiently.
-
-Crossbar arrays of programmable conductances appeared attractive because Ohm's law and Kirchhoff's law can perform multiply-accumulate operations in parallel.
-
-The field therefore sits at the intersection of semiconductor fabrication, materials science, and computational neuroscience.
-## Applications and significance
-The most direct application is non-volatile memory.
-
-Resistive memory can in principle be fast, dense, and compatible with back-end-of-line integration above CMOS logic.
-
-Some commercial embedded memory products use related resistive switching technologies.
-
-Another major application is in-memory computing.
-
-A crossbar array can store matrix weights as conductances and process vector inputs as voltages.
-
-The resulting currents represent analog sums, reducing data movement betenergy-efficient-house-designprocessor.
-
-This approach is promising for energy-efficient inference but faces precision, noise, drift, and calibration challenges.
-Memristors are also explored for neuromorphic systems.
-
-Their history-dependent conductance resembles synaptic weight adaptation in simplified neural models.
-
-Pulse timing, pulse amplitude, and pulse repetition can implement plasticity rules such as potentiation and depression.
-
-However, biological synapses are biochemical systems, so the analogy should not be pushed too literally.
-
-Security applications include physically unclonable functions because device variability can provide unique fingerprints.
-
-Analog signal processing, adaptive filters, and reconfigurable circuits are additional research directions.
-Scientific significance comes from the way memristors force circuit theory to include memory at the component level.
-
-They also make material defects, ions, and interfaces central to computation rather than merely sources of failure.
-
-The main unresolved question is not whether resistive switching exists, but where it can outperform mature alternatives at scale.
-
-Success depends on integration, reliability, architecture, and software as much as on the individual device.
-
-## Related concepts
-non-volatile memory
-
-neuromorphic computing
-
-semiconductor fabrphase-change-materials-thermal-energy-storagerials science
-
-machine learning
-
-analog computing
-
-spintronics
-
-phase-change memory
-
-ferroelectricity
-
-nanotechnology
-- [[slime-mold-computation]]

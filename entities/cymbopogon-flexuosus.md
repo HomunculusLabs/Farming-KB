@@ -107,13 +107,7 @@ functions:
 - **Pest deterrent:** The citral-rich oil repels mosquitoes, flies, ticks, and
   various agricultural pests. Intercropping with lemongrass reduces whitefly and
   aphid populations in vegetable plots.
-- **Companion planting:** Planted as a border around vegetable gardens and near
-  fruit trees. The aromatic foliage masks crop scents from pest insects.
-- **Soil conservation:** Dense root system prevents erosion on slopes and
-  improves soil structure. Acts as a chop-and-drop mulch when cut back.
-- **Living fence:** Can be planted as a dense hedge that also provides
-  harvestable material for essential oil distillation.
-- **Weed suppression:** Allelopathic root exudates suppress certain weed species.
+- **[[root-exudates]] suppress certain weed species.
 
 ## Cultivation
 
@@ -126,7 +120,5 @@ are common in India and Madagascar.
 
 ## See Also
 
-- [[cymbopogon-citratus]] — West Indian lemongrass, the more common culinary species
 - [[tagetes-lucida]] — Mexican marigold, another aromatic pest-deterrent companion plant
-- [[zingiber-officinale]] — ginger, a related tropical rhizomatous aromatic
 - [[ocimum-basilicum]] — basil, another aromatic companion plant for pest management

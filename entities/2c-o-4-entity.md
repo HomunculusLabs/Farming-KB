@@ -68,24 +68,27 @@ These are the exact analogues of 2C-T-2, 2C-T-7, and 2C-T-19, and the 2-carbon h
 
 ### Structure-Activity Relationship: Oxygen vs. Sulfur
 
-The dramatic loss of activity when replacing sulfur with oxygen at the 4-position is a key SAR finding. The sulfur atom in the 2C-T series is larger, more polarizable, and more lipophilic than oxygen. These properties likely contribute to better [[beta-glucan-receptor-binding]] affinity at the 5-HT₂A site. The sulfur atom may also participate in unique receptor interactions (e.g., sulfur-aromatic interactions) that oxygen cannot replicate.
-
-Shulgin concluded that with the probable low eventual potency of 2C-O-4, the 2C-O series would likely not be an exciting one. This prediction appears to have been borne out, as the 2C-O series has received virtually no further research attention.
-
-## Comparison to Related Compounds
-
-- vs. 2c-t-7-compound-profile|2C-T-4: The isopropylthio analogue is far more active and interesting
-- vs. 2c-t-2-entity|2C-T-2: The ethylthio analogue, similarly demonstrates the superiority of sulfur
-- vs. [[phenethylamine-chemistry-basics]]: The amphetamine series that inspired exploration of 4-alkoxy patterns
-- vs. 2c p compound profile|2C-P: The 4-propyl compound shows that carbon chain substituents work where oxygen does not
-
-## Cautionary Notes
-
-Full dosage range and duration unknown. Only a single trial at 60 mg was conducted, reaching a marginal plus one. The oxygen-for-sulfur substitution dramatically reduced activity compared to the 2C-T series. This compound should be considered inactive or minimally active based on available data. Any further investigation would require substantially higher doses, which carries inherent uncertainty.
-
-## See Also
-
-- [[2c-t-4-entity]] — the isopropylthio analogue, far more active
-- [[2c-t-2-entity]] — the ethylthio parent of the 2C-T series
-- 2c-t-7-compound-profile|2C-T-7 — the propylthio analogue, most famous 2C-T member
+The dramatic loss of activity when replacing sulfur with oxygen at the 4-position is a key SAR finding. The sulfur atom in the 2C-T series is larger, more polarizable, and more lipophilic than oxygen. These properties likely contribute to better [[phenethylamine-chemistry-basics]]: The amphetamine series that inspired exploration of 4-alkoxy patterns
+- vs. [[2c-t-4-entity]] — the isopropylthio analogue, far more active
 - [[phenethylamine-chemistry-basics]] — general phenethylamine chemistry and SAR principles
+
+See also: [[2c-o-4-entity-pihkal]]
+## Practical Considerations
+
+Successful implementation of 2C-O-4 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

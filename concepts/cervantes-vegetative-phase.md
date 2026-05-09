@@ -106,16 +106,10 @@ The choice of growing medium during the vegetative phase affects root developmen
 
 ## See Also
 
-- [[cervantes-cloning]]
 - [[cervantes-seed-germination]]
-- [[cervantes-pruning-training]]
 - [[cervantes-flowering-phase]]
-- [[cervantes-indoor-grow-room-setup]]
 - [[cervantes-lighting-systems]]
-- [[cervantes-nutrient-management]]
 - [[cervantes-mother-plants]]
-- [[re-vegging]]
 - [[low-stress-training]]
-- [[topping-cannabis]]
 - [[fimming]]
 - [[supercropping]]

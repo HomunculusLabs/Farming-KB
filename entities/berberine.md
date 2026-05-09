@@ -141,9 +141,6 @@ Produced via the plant isoquinoline alkaloid pathway:
 
 ## See Also
 
-- [[berberis-vulgaris]]
 - [[piperine]]
-- [[cinnamomum-verum]]
 - [[glycyrrhiza-glabra]]
-- [[chelidonium-majus]]
 - [[coptis-chinensis]]

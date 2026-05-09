@@ -1,7 +1,7 @@
 ---
 title: Mushroom House Design
 created: 2026-04-28
-tags: [mycology, architecture, cultivation, infrastructure, design]
+tags: [[mycology]], architecture, cultivation, infrastructure, design]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -112,9 +112,7 @@ results and are not to be depended upon.
 
 ## See Also
 
-- [[mushroom-compost-preparation]]
 - [[mushroom-growing-temperature-and-moisture]]
-- [[mushroom-cultivation-history]]
 - [[mushroom-market-and-production]]
 
 ## References

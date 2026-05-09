@@ -1,7 +1,7 @@
 ---
 title: Palmer Toadstool Poisoning Case Reports
 created: 2026-04-28
-tags: [mushroom-poisoning, amanita, toxicology, case-reports, palmer]
+tags: [mushroom-poisoning, [[amanita]], toxicology, case-reports, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
@@ -13,47 +13,7 @@ type: concept
 Julius A. Palmer maintained a careful record of poisoning cases
 throughout his years of study, corresponding with physicians across
 America and Europe. These cases, published in medical journals, provided
-crucial evidence for his theories about [[palmer-amanitine-poison-mechanism]] absorption and the
-characteristic delayed onset of fatal mushroom poisoning.
-
-## The Chelsea Case (Mr. W., 1878)
-
-On Tuesday, September 18, 1878, a gentleman from Chelsea called at
-Palmer's office showing symptoms of toadstool poisoning. His face was
-"very pale, almost a livid gray" with a peculiar ashen shade. He
-reported that on Sunday evening he had picked white puffballs and one
-other mushroom — a white-gilled, yellowish-topped specimen with warts
-on the cap and a bulbous base, which he had cut off before cooking.
-
-The stew, prepared in milk with usual seasoning, was eaten by a family
-of five, with no two persons affected exactly alike:
-
-- **A boy of eight**: Tasted the stew Sunday night and ate more Monday
-morning. Experienced bowel activity but no other ill effects. The stew
-acted "simply as a generous but mild cathartic."
-
-- **A girl of eleven**: Tasted Sunday, ate her portion Monday. Had a
-slight but peculiar headache and some diarrhea.
-
-- **A girl of thirteen**: Experienced a peculiar, throbbing, severe
-headache from nine to three on Monday, but no nausea or diarrhea.
-
-- **The mother**: Scarcely tasted Sunday, but ate plentifully Monday
-and drank the remaining milk. Experienced the most violent diarrhea
-("it seemed to pass right through her") and a bad-feeling head for
-five hours.
-
-- **Mr. W.**: Ate a piece of the stem raw Sunday night. Thirty hours
-after the first dose, he was taken with colics and violent purging.
-When Palmer saw him, he was weak, nauseated, and very pallid. Palmer
-administered a tablespoonful each of whiskey and olive-oil mixed in one
-wineglass. The patient reported feeling much better before leaving, and
-had fully recovered by Thursday.
-
-## The French Cases (Corbeil)
-
-Palmer cited the case of two persons at Sautry, near Corbeil, France,
-who made a meal from the [[amanita-genus-morphology]] (under which head the French included
+crucial evidence for his theories about [[amanita-genus-morphology]] (under which head the French included
 the Amanita vernus, phalloides, and mappa). Beyond vertigo in one case,
 no ill effects were felt until three and eight o'clock the following
 morning, respectively. One patient even slept calmly after the vertigo
@@ -139,5 +99,5 @@ insufferable tenesmus. Temperature rose to 104 degrees F. The pulse
 ranged from 120 to 140 beats per minute, soft and compressible. Three
 of the five victims died.
 
-See also: [[palmer-amanitine-poison-mechanism]], [[fungal-poisons-and-toxicology]],
+See also: [[fungal-poisons-and-toxicology]],
 [[palmer-poisonous-mushrooms-deadly-species]]

@@ -24,21 +24,7 @@ Understanding soil fungal communities is essential for agricultural management b
 
 Knowledge of soil fungal communities is also critical for the conservation of soil as a non-renewable resource. Human-caused disturbances, especially cultivation, erosion, and contamination, affect soil habitats and impact the diversity of the soil biota.
 
-See also: [[soil-fungal-diversity]], [[fungal-biodiversity-inventory-design]], [[fungal-indicators-soil-quality-ecosystem-health]]
-
-## Principal Isolation Methods
-
-### Suspension Plating
-
-The most widely used method for isolating soil fungi. Soil samples are suspended in water or dilute surfactant solution, serially diluted, and plated on agar media. This method separates fungal propagules from soil particles and from each other, allowing individual colonies to develop.
-
-Key considerations:
-- Use low-nutrient media to simulate oligotrophic soil conditions
-- Include selective agents (rose bengal, antibiotics) to limit bacterial growth
-- Incubation temperature and duration affect which species are recovered
-- Minimum of 600-1000 isolates per site needed for comprehensive species lists
-
-See also: [[soil-fungal-isolation-techniques]], [[biodiversity-fungal-culture-media]], [[particle-filtration-dilution-plating-microfungal-isolation]]
+See also: [[fungal-biodiversity-inventory-design]], [[soil-fungal-isolation-techniques]], [[particle-filtration-dilution-plating-microfungal-isolation]]
 
 ### Warcup Soil Plates
 
@@ -56,7 +42,7 @@ Organic substrates (plant material, insect parts, hair, keratin) are placed in s
 - Predatory fungi (baiting with nematodes)
 - Wood-inhabiting fungi (baiting with wood chips)
 
-See also: [[fungal-baiting-techniques]], [[selective-agents-fungal-isolation-antibiotics-fungicides]]
+See also: [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 
 ## Factors Affecting Isolation Results
 
@@ -111,7 +97,7 @@ Practical guidelines:
 - Two experienced researchers can manage approximately 2000-3000 isolates at one time
 - Species-abundance curves help determine when sufficient sampling has been achieved
 
-See also: [[fungal-biodiversity-sampling-design]], [[fungal-biodiversity-measurement-methods]]
+See also: [[fungal-biodiversity-measurement-methods]]
 
 ## Community Analysis Approaches
 
@@ -133,7 +119,7 @@ Molecular approaches complement culture-based methods:
 - Quantitative PCR can quantify specific taxa (pathogens, beneficial species)
 - Metatranscriptomics reveals active fungal genes and functions
 
-See also: [[fungal-metagenomics]], [[pcr-methods-fungal-identification-monitoring]], [[molecular-methods-fungal-taxonomy-and-diversity]]
+See also: [[pcr-methods-fungal-identification-monitoring]], [[molecular-methods-fungal-taxonomy-and-diversity]]
 
 ## Seasonal and Temporal Variation
 

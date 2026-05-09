@@ -22,7 +22,7 @@ sources:
 
 # Patterns in Nature
 
-Natural patterns are the templates for permaculture design. Mollison's Designer's Manual devotes Chapter 4 entirely to pattern understanding; Holmgren's Principle 7 ("Design from Patterns to Details") provides the practical framework. See [[permaculture-design]] for how patterns integrate into the design process.
+Natural patterns are the templates for permaculture design. Mollison's Designer's Manual devotes Chapter 4 entirely to pattern understanding; Holmgren's Principle 7 ("Design from Patterns to Details") provides the practical framework. See [[permaculture-design-methods]] for how patterns integrate into the design process.
 
 ## The General Pattern Model
 
@@ -92,7 +92,7 @@ Holmgren emphasises that systems operate at different scales. Functional scale i
 
 ## Applying Patterns to Design
 
-1. Start with the **largest pattern** (watershed, sun path, wind flow) -- see [[permaculture-design]]
+1. Start with the **largest pattern** (watershed, sun path, wind flow) -- see [[permaculture-design-methods]]
 2. Use **branching** for access and water distribution
 3. Use **waves** for earthworks (swales, terraces)
 4. Use **nets** for plant spacing and element connections
@@ -102,7 +102,7 @@ Holmgren emphasises that systems operate at different scales. Functional scale i
 
 ## Related Pages
 - [[permaculture-principles]] -- Principle 7: Design from Patterns to Details
-- [[permaculture-design]] -- Full design process
+- [[permaculture-design-methods]] -- Full design process
 - [[permaculture-design]] -- Zone and sector analysis
 - [[edge-effect-and-microclimate]] -- Edge as a pattern phenomenon
 - [[keyline-design]] -- Pattern-based water management

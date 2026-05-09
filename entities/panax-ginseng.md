@@ -57,7 +57,7 @@ The pharmacological activity of *Panax ginseng* is primarily attributed to a cla
 
 **Protopanaxatriol (PPT) group:** Includes Re, Rg1, Rg2, Rh1, and F1. PPT-type ginsenosides tend to exhibit stimulatory effects on the central nervous system and cardioprotective properties. Rg1 is considered the primary mediator of cognitive-enhancing effects.
 
-Other notable bioactive constituents include polysaccharides (with demonstrated immunomodulatory activity), polyacetylenes (e.g., panaxynol, panaxydol with anti-inflammatory properties), flavonoids, [[essential-oils-and-hydrosol-distillation]], and various amino acids and minerals.
+Other notable bioactive constituents include polysaccharides (with demonstrated immunomodulatory activity), polyacetylenes (e.g., panaxynol, panaxydol with anti-inflammatory properties), flavonoids, essential oils and hydrosol distillation, and various amino acids and minerals.
 
 ## Traditional Use
 
@@ -102,16 +102,7 @@ Panax ginseng interacts with several classes of pharmaceuticals:
 - **Anticoagulants/Antiplatelets:** May potentiate the effects of warfarin, aspirin, and clopidogrel, increasing bleeding risk. INR monitoring is recommended.
 - **Antidiabetic agents:** May have additive hypoglycemic effects, necessitating blood glucose monitoring when used concurrently with insulin or oral hypoglycemics.
 - **Immunosuppressants:** Potentially antagonistic with cyclosporine and other immunosuppressive drugs due to ginseng's immunostimulatory properties.
-- **[[mao-inhibitors-and-psychedelics]]:** Possible additive stimulatory effects on the central nervous system.
-- **Caffeine:** Concurrent use may increase stimulatory effects, potentially causing insomnia, tachycardia, or anxiety.
-
-## Sustainability Concerns
-
-Wild *Panax ginseng* (산삼, Sansam) is critically endangered throughout its native range in Northeast Asia (Korean Peninsula, Manchuria, Russian Far East). Overharvesting, habitat destruction, and the species' slow reproductive cycle have driven wild populations to near extinction. Wild ginseng is listed in Appendix II of CITES, restricting international trade.
-
-Commercial cultivation in Korea (primarily in the provinces of Chungcheongbuk-do, Gangwon-do, and Jeolla) is managed under strict government regulations. However, long-term monoculture depletes soil nutrients and promotes soil-borne pathogens (particularly *[[cylindrocarpon-destructans]]*, the causal agent of root rot), necessitating extended fallow periods (10–15 years) between ginseng crops. This land-use pressure has driven interest in wild-simulated and forest-cultivated ginseng as more ecologically sustainable alternatives. The Korean government has also invested in *in vitro* [[tissue-culture-cloning]] and hydroponic cultivation research to reduce dependence on field cultivation.
-
-Demand for high-quality cultivated ginseng continues to grow globally, driven by rising consumer interest in botanical supplements and [[functional-foods-medicinal-mushrooms]]. The global ginseng market was valued at approximately USD 2.1 billion in 2024 and is projected to reach USD 3.5 billion by 2032. South Korea is the largest producer and exporter, followed by China and Canada (primarily producing *P. quinquefolius*). Quality grading systems, such as the Korean government's Geumsan standard, classify roots by shape, internal texture, ginsenoside content, and absence of defects, with top-grade roots selling for thousands of dollars per kilogram.
+- **[[cylindrocarpon-destructans]]*, the causal agent of root rot), necessitating extended fallow periods (10–15 years) between ginseng crops. This land-use pressure has driven interest in wild-simulated and forest-cultivated ginseng as more ecologically sustainable alternatives. The Korean government has also invested in *in vitro* [[functional-foods-medicinal-mushrooms]]. The global ginseng market was valued at approximately USD 2.1 billion in 2024 and is projected to reach USD 3.5 billion by 2032. South Korea is the largest producer and exporter, followed by China and Canada (primarily producing *P. quinquefolius*). Quality grading systems, such as the Korean government's Geumsan standard, classify roots by shape, internal texture, ginsenoside content, and absence of defects, with top-grade roots selling for thousands of dollars per kilogram.
 
 ## Geographic Distribution and Conservation Status
 
@@ -127,6 +118,5 @@ In the 18th century, Korean ginseng was introduced to Europe by Jesuit missionar
 
 ## See Also
 
-- [[panax-notoginseng]]
 - [[panax-quinquefolius]]
 - [[eleutherococcus-senticosus]]

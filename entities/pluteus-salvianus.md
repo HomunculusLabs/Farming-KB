@@ -115,12 +115,8 @@ Several *Pluteus* species share morphological and chemical similarities:
 
 ## See Also
 
-- [[pluteus-cervinus]]
 - [[psilocybe-cyanescens]]
-- [[psilocybe-cubensis]]
 - [[gymnopilus-luteofolius]]
-- [[panaeolus-cambodginiensis]]
 - [[stropharia-rugosoannulata]]
-- [[psilocin]]
 - [[baeocystin]]
-- [[psilocybin-compound]]
+- [[psilocybin]]

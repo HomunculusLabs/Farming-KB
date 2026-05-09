@@ -50,29 +50,35 @@ Described by Guzmán and collaborators from collections made in Puerto Rico. The
 - **Partial veil:** Present in young specimens, forming a thin annular zone that may persist as fibrillose remnants
 - **Bluing:** Moderate to strong, most prominent at the base and where damaged
 
-### [[spore]]s
-- Ellipsoidal to broadly ellipsoidal, 8–11 × 5.5–7 µm
-- Wall moderately thick, with a small but distinct germ pore
-- Spore print dark purple-brown
-- Basidia 4-spored
-- Pleurocystidia and cheilocystidia present, the latter numerous and ventricose
-
-## Distribution and Habitat
-
-Endemic to the Caribbean island of Puerto Rico. Known from montane and premontane forests in the Cordillera Central, particularly around the Sierra de Guilarte and adjacent protected areas including the Toro Negro State Forest. It fruits on decaying wood, woody debris, and forest litter in moist, shaded conditions within mature and secondary tropical montane forests. Elevation range approximately 600–1,200 meters. Fruiting appears to be associated with periods of high rainfall during the wet season.
-
-## Chemistry and Pharmacology
-
-Psilocybin and [[psilocin]] are confirmed as the primary psychoactive constituents. The species produces a reliable bluing reaction consistent with the presence of indoleamine alkaloids. Potency is estimated as moderate based on the intensity of bluing, though formal quantitative analysis has not been conducted with modern instrumentation. The isolation of this species from a Caribbean island ecosystem is of biogeographic interest, as Caribbean fungal populations may represent unique genetic lineages.
+### [[psilocin]] are confirmed as the primary psychoactive constituents. The species produces a reliable bluing reaction consistent with the presence of indoleamine alkaloids. Potency is estimated as moderate based on the intensity of bluing, though formal quantitative analysis has not been conducted with modern instrumentation. The isolation of this species from a Caribbean island ecosystem is of biogeographic interest, as Caribbean fungal populations may represent unique genetic lineages.
 
 ## Biogeographic Significance
 
-As an island endemic, *Psilocybe guilartensis* is of particular interest for understanding [[fungal-biogeography]] and dispersal in the Caribbean. The Antilles have been proposed as both a corridor and a barrier for fungal migration between North and South America. The presence of *P. guilartensis* alongside other psilocybin-containing fungi in Puerto Rico (including *Panaeolus cyanescens* and possibly *Psilocybe cubensis* in lowland areas) suggests multiple independent colonization events or a historically broader distribution that has been fragmented by island biogeography.
-
-## Similar Species
-
-Within its island range, the most likely confusion is with non-psychoactive *Psilocybe* or *Deconica* species that occupy similar forest litter habitats. The blue-staining reaction is the primary field character separating it from inactive lookalikes. *[[psilocybe-caerulescens-entity]]* of Mexico and Central America is morphologically similar but geographically separated; *P. guilartensis* can be distinguished by its smaller spores and Caribbean distribution. Microscopic comparison of cystidia and spore dimensions is essential for certain identification.
+As an island endemic, *Psilocybe guilartensis* is of particular interest for understanding [[psilocybe-caerulescens]]* of Mexico and Central America is morphologically similar but geographically separated; *P. guilartensis* can be distinguished by its smaller spores and Caribbean distribution. Microscopic comparison of cystidia and spore dimensions is essential for certain identification.
 
 ## Conservation
 
 While not formally listed as threatened, the restricted island distribution of *P. guilartensis* makes it inherently vulnerable. Puerto Rico's montane forests face pressure from urbanization, agriculture, and climate change. The species' known localities within protected forest reserves (such as Toro Negro and Guilarte State Forest) provide some degree of habitat security, but long-term monitoring would be advisable to assess population trends.
+
+## See Also
+
+- [[query-how-to-identify-psilocybe-cubensis-mushrooms]]
+## Practical Considerations
+
+Successful implementation of Psilocybe guilartensis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

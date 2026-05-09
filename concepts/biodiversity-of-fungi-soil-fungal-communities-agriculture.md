@@ -21,44 +21,16 @@ Fungi comprise an estimated 78-90% of the total decomposer biomass in grassland 
 
 In grasslands, the root system represents the primary input of organic material to soil. Unlike forests where leaf litter and woody debris dominate, grasslands receive continuous inputs of fine root material that creates a distributed organic matter profile. This root-derived organic matter supports a diverse community of saprobic fungi adapted to the rhizosphere environment.
 
-See also: [[fungal-biodiversity-grassland]], [[fungal-roles-grassland-ecosystems]], [[fungal-endophytes-plant-fitness]]
-
-### Rhizosphere Dynamics
-
-The rhizosphere -- the zone of soil immediately influenced by plant roots -- is a hotspot of fungal activity. Root exudates provide readily available carbon sources that select for specific fungal communities. The rhizosphere typically harbors 10-100 times more microorganisms than bulk soil, with fungal communities distinct from those in the surrounding soil matrix.
-
-Key rhizosphere fungal groups include:
-- [[arbuscular-mycorrhizal-fungi]] that form symbiotic associations with grass roots
+See also: [[fungal-roles-grassland-ecosystems]], [[arbuscular-mycorrhizal-fungi]] that form symbiotic associations with grass roots
 - Dark septate endophytes that colonize root cortices
 - Saprobic species that decompose root exudates and dead root tissue
 - Opportunistic pathogens held in check by microbial competition
 
-See also: [[root-exudates-rhizosphere]], [[rhizosphere-fungal-community-analysis-rrna-rdna]], [[fungal-succession-roots]]
-
-## Forest Soil Fungi
-
-### Biomass Distribution
-
-In forest ecosystems, fungal biomass is concentrated in the organic horizons. In a British deciduous forest, fungal mycelia contributed approximately 89% of the total living microbial biomass. Forest soils are enriched by debris from a massive above-ground biomass plus substantial input from mycorrhizae.
-
-The soil system encompasses all horizons from litter or standing water to bedrock. However, investigators of soil fungal communities generally limit their studies to forest soils in the mineral horizon immediately adjacent to humus, or to grassland soils in the upper 2-10 cm of the soil profile. Fungi of litter and unconsolidated plant debris are treated as a separate community.
-
-### Litter and Humus Fungi
-
-In nearly all soils, organic matter decreases downward through the soil profile. In the deep-lying horizons of forest soils especially, organic matter may be primarily in the form of highly stable molecules -- polyphenolic compounds that are hundreds or thousands of years old. The litter layer supports a successional community of fungi, with early colonizers being primarily fast-growing opportunistic species, followed by more specialized decomposers of recalcitrant materials.
-
-See also: [[fungal-leaf-litter-diversity]], [[fungal-succession-leaf-litter]], [[fungal-decomposition-wood-litter]]
+See also: [[rhizosphere-fungal-community-analysis-rrna-rdna]], [[fungal-leaf-litter-diversity]], [[fungal-decomposition-wood-litter]]
 
 ### Ectomycorrhizal Dominance
 
-In many temperate and boreal forests, [[ectomycorrhizal-ecology]] dominates the fungal community. Ectomycorrhizal fungi form mantles around fine roots and extend vast mycelial networks into the soil. These networks contribute to:
-- Nutrient acquisition (especially nitrogen and phosphorus)
-- Water uptake
-- Carbon cycling through allocation of plant photosynthate
-- Soil aggregation through glomalin and hyphal binding
-- Inter-plant nutrient transfer via common mycorrhizal networks
-
-See also: [[ectomycorrhizal-fungal-ecology]], [[ectomycorrhizal-host-tree-partnerships]], [[mycorrhizal-networks]]
+In many temperate and boreal forests, [[ectomycorrhizal-fungal-ecology]], [[mycorrhizal-networks]]
 
 ## Decomposition and Nutrient Cycling
 
@@ -72,13 +44,7 @@ Soil fungi function as primary, secondary, and tertiary decomposers in the compl
 
 3. **Tertiary decomposers**: Specialized fungi that degrade the most recalcitrant materials, including lignin and humic substances. White-rot basidiomycetes are particularly important in this category.
 
-See also: [[fungal-decomposition-kinetics]], [[fungal-succession-in-decomposition]], [[fungal-enzymatic-diversity-decomposition]]
-
-### Carbon Cycling
-
-Soil fungi are central to carbon cycling in terrestrial ecosystems. They decompose organic matter, releasing CO2 through respiration while converting some carbon into fungal biomass and recalcitrant compounds. Fungal necromass (dead fungal tissue) contributes significantly to stable soil organic matter pools. The fungal biomass in soils represents a substantial carbon pool, and changes in fungal community composition can significantly alter ecosystem carbon balance.
-
-See also: [[fungal-role-in-carbon-cycling]], [[fungal-carbon-storage-mycorrhizal-pathways]], [[fungal-respiration-carbon-flux]]
+See also: [[fungal-succession-in-decomposition]], [[fungal-role-in-carbon-cycling]], [[fungal-respiration-carbon-flux]]
 
 ### Nitrogen Cycling
 
@@ -91,17 +57,7 @@ Fungi play multiple roles in nitrogen cycling:
 
 The fungal-dominated decomposition pathway tends to retain nitrogen in the system longer than bacterial-dominated pathways, because fungal biomass has a higher carbon-to-nitrogen ratio and decomposes more slowly.
 
-See also: [[fungal-role-in-nitrogen-cycling]], [[fungal-nitrogen-mineralization-pathways]], [[fungal-nutrient-cycling-mineral-transformations]]
-
-### Phosphorus Cycling
-
-Fungi are especially important in phosphorus cycling because:
-- Mycorrhizal fungi extend the effective absorptive surface area of root systems far beyond the root depletion zone
-- Many soil fungi produce phosphatases that solubilize organic phosphorus compounds
-- Some fungi solubilize inorganic phosphates through acidification
-- Fungal hyphae can access phosphorus in soil pores too small for roots to penetrate
-
-See also: [[fungal-role-in-phosphorus-cycling]], [[fungal-roles-in-phosphorus-solubilization]], [[phosphorus-availability]]
+See also: [[fungal-nitrogen-mineralization-pathways]], [[fungal-role-in-phosphorus-cycling]], [[phosphorus-availability]]
 
 ## Soil Structure and Aggregation
 
@@ -117,15 +73,7 @@ Fungi contribute to soil structure through several mechanisms:
 
 Soil aggregation is critical for water infiltration, erosion resistance, aeration, and root penetration. Fungal-dominated soils typically have better structure than bacterial-dominated soils.
 
-See also: [[fungal-soil-aggregation]], [[fungal-soil-aggregate-formation-glomalin]], [[fungal-glomalin-and-soil-carbon]]
-
-## Impact of Agricultural Practices
-
-### Tillage
-
-Conventional tillage disrupts fungal hyphal networks, reduces fungal biomass, and shifts soil microbial communities toward bacterial dominance. Reduced tillage or no-till practices help maintain fungal networks and the soil structure they create. The transition from conventional to conservation tillage is often accompanied by an increase in mycorrhizal colonization and soil aggregate stability.
-
-See also: [[soil-disturbance-mycorrhizal-impact]]
+See also: [[fungal-soil-aggregate-formation-glomalin]], [[soil-disturbance-mycorrhizal-impact]]
 
 ### Crop Rotation and Diversity
 
@@ -135,10 +83,4 @@ Monoculture cropping reduces soil fungal diversity compared to diverse rotations
 
 High rates of phosphorus fertilizer can suppress mycorrhizal colonization, as plants reduce their dependence on fungal partners when phosphorus is readily available. Nitrogen fertilization can also alter fungal community composition. Balanced nutrient management that considers the fungal symbiosis is important for maintaining soil health.
 
-See also: [[agricultural-chemicals-mycorrhizal-impact]], [[fertilizers-and-mycorrhizae]], [[mycorrhizal-fertilizer-reduction]]
-
-### Organic Amendments
-
-Organic amendments such as compost, manure, and cover crop residues provide substrate for saprobic fungi and can enhance soil fungal diversity and biomass. The quality and quantity of organic inputs influence which fungal groups dominate. High-quality (low C:N ratio) inputs favor bacterial decomposition, while low-quality (high C:N ratio) inputs favor fungal decomposition pathways.
-
-See also: [[composting-humus-building-holzer]], [[fungal-roles-in-agriculture]], [[humus-formation-and-soil-organic-matter]]
+See also: [[fertilizers-and-mycorrhizae]], [[composting-humus-building-holzer]], [[humus-formation-and-soil-organic-matter]]

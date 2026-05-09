@@ -101,21 +101,10 @@ Some foragers collect young specimens for soups and stews, where prolonged cooki
 
 ## Similar Species
 
-- **[[laccaria-bicolor]]** — Smaller cap (2–7 cm), distinctly two-toned stipe with purplish base and white apex.
 - **[[laccaria-laccata]]** — Smaller overall (cap 1–5 cm), more uniformly pinkish gills, finer stipe.
-- **[[laccaria-proxima]]** — Similar size but found in western North America, with more orange-brown cap tones.
-- **Cortinarius** spp. — Some species share the purple gill coloration but have rusty-brown spore prints.
-
-## See Also
-
-- [[laccaria-bicolor]] — Closely related ectomycorrhizal Laccaria species
-- [[laccaria-laccata]] — The type species of the genus
+- **[[laccaria-bicolor]] — Closely related ectomycorrhizal Laccaria species
 - [[laccaria-proxima]] — Western North American counterpart
-- [[boletus-edulis-entity]] — Co-occurring ectomycorrhizal edible fungus
 - [[mycorrhiza]] — Overview of mycorrhizal symbiosis
-- [[ectomycorrhiza]] — Detail on ectomycorrhizal associations
 - [[russula-emetica]] — Another colorful ectomycorrhizal genus
-- [[trametes-versicolor]] — Common co-occurring saprotrophic bracket fungus
 - [[pleurotus-ostreatus]] — Edible mushroom for comparison
-- [[russula-ochroleuca]] — Related ectomycorrhizal mushroom genus
-- [[amanita-muscaria]] — Iconic mycorrhizal mushroom species
+- [[amanita-muscaria-entity]] — Iconic mycorrhizal mushroom species

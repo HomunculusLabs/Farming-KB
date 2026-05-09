@@ -24,39 +24,6 @@ ecological farmers worldwide.
 
 ## Fukuoka
 
-[[fukuoka-do-nothing-farming-philosophy]]
-
-Fukuoka's "do-nothing farming" is grounded in four principles: no
-cultivation, no chemical fertilizer, no pesticides, and no weeding or
-herbicides. His philosophy holds that nature is inherently productive and
-self-regulating, and that human agricultural knowledge often obscures
-rather than reveals natural patterns. The more humans intervene, the more
-problems they create that require further intervention. Achieving this
-apparently simple state paradoxically required decades of careful
-observation and refinement on his family farm in Shikoku, Japan.
-
-The practical implementation centers on rice and winter grain cultivation.
-Rice is broadcast into standing winter grain using clay seed balls that
-protect seeds from birds and provide microhabitat for beneficial microbes.
-Straw from the previous harvest is returned as mulch, and white clover
-serves as a living ground cover that fixes nitrogen and suppresses weeds.
-The system requires no plowing, no flooding of rice paddies (unlike
-conventional rice cultivation), no imported fertilizer, and no pesticide
-application. Once established, Fukuoka claimed his system required only one
-to three hours of labor per quarter-acre per season.
-
-Fukuoka's philosophy draws deeply from Eastern spirituality, particularly
-Taoism and the concept of Mu or nothingness. He views scientific
-agriculture as fundamentally misguided, arguing that the more scientists
-study individual organisms in isolation, the less they understand the whole
-system. His strength lies in radical simplicity and near-zero input costs.
-Limitations include the difficulty of replication without years of patient
-observation on the specific site, lower initial yields compared to
-intensive methods, and a philosophical framework that challenges Western
-reductionist science and can be difficult for practitioners to internalize.
-
-## Holzer
-
 [[holzer-rebel-farmer-philosophy]]
 
 Sepp Holzer's approach centers on four universal principles: use nature's
@@ -142,9 +109,7 @@ Fukuoka-style minimal intervention. The concept of "protracted and
 thoughtful observation" before action reflects Fukuoka's patience, while
 the tools of swales, ponds, and hugelkultur reflect Holzer's active
 landscape design.
-
 ## See Also
 
-- [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-biodynamic-vs-permaculture]]

@@ -3,7 +3,7 @@ title: Fungal Type Specimens
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Type Specimens and Taxonomic Reference Material
@@ -79,17 +79,7 @@ Digitalization of fungal herbarium specimens has accelerated in recent years:
 
 ## Related Topics
 
-- [[fungal-species-concept-and-taxonomy]]
 - [[fungal-dna-barcoding]]
-- [[fungal-molecular-identification]]
 - [[fungal-monitoring-long-term-studies]]
-- [[ascomycete-phylum-guide]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 4: Documentation and Preservation of Fungal Collections
-- International Code of Nomenclature for algae, fungi, and plants (ICN)
-- Mueller, G.M. et al. 2004. Biodiversity of Fungi: Inventory and Monitoring Methods
 - [[fungal-culture-preservation-long-term-methods]]
-- [[fungal-biodiversity-herbarium-collections]]
 - [[fungal-specimen-collection-herbarium-management]]

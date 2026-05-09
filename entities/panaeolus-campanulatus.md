@@ -19,7 +19,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 - **Genus:** Panaeolus (sometimes Panaeolina)
 - **Synonyms:** Panaeolus retirugis, Panaeolina foenisecii (in part)
 
-The taxonomic boundaries between P. campanulatus and morphologically similar species such as [[panaeolus-foenisecii-taxonomy-debate]] and [[copelandia-panaeolus-genera]] remain imperfectly defined. The debate over placing some species in a separate genus Panaeolina continues, with modern DNA sequencing beginning to clarify relationships but a fully resolved taxonomy not yet achieved.
+The taxonomic boundaries between P. campanulatus and morphologically similar species such as [[copelandia-panaeolus-genera]] remain imperfectly defined. The debate over placing some species in a separate genus Panaeolina continues, with modern DNA sequencing beginning to clarify relationships but a fully resolved taxonomy not yet achieved.
 
 The genus Panaeolus is defined by its distinctive mottled gills — a pattern resulting from asynchronous spore maturation that is one of the most reliable field identification characters for the genus.
 
@@ -82,7 +82,7 @@ As a coprophilous decomposer, P. campanulatus plays an important ecological role
 
 ## Chemistry
 
-The species has been reported to contain [[psilocybin-compound]] and [[psilocin]], though typically at lower concentrations than more potent Panaeolus species. Psychoactive content varies significantly depending on:
+The species has been reported to contain [[psilocin]], though typically at lower concentrations than more potent Panaeolus species. Psychoactive content varies significantly depending on:
 
 - Geographic origin of the collection
 - Specific substrate composition
@@ -95,9 +95,7 @@ Some analyses have detected only trace amounts, while others found more substant
 
 | Species | Distinguishing Features |
 |---|---|
-| [[panaeolus-cyanescens]] | Much more potent; tropical/subtropical; strongly bluing |
 | [[panaeolus-subbalteatus]] | More strongly banded/zonate cap; common psychoactive species |
-| [[panaeolus-sphinctrinus]] | More acute conic cap; commonly on cow dung |
 | [[panaeolus-foenisecii-taxonomy-debate]] | Very similar; generally not considered psychoactive |
 
 Accurate identification requires comparison of spore morphology, gill attachment, cap characteristics, and microscopic features.
@@ -112,10 +110,8 @@ As a psilocybin-containing species, P. campanulatus is subject to legal restrict
 
 ## See Also
 
-- [[panaeolus-cyanescens]] — Much more potent Panaeolus species
 - [[panaeolus-subbalteatus]] — Common psychoactive Panaeolus with banded cap
-- [[psilocybe-cubensis]] — Another coprophilous psychoactive species of greater potency
-- [[psilocybin-compound]] — Primary psychoactive compound
+- [[psilocybin]] — Primary psychoactive compound
 
 ## References
 

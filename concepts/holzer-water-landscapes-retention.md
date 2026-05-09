@@ -45,37 +45,7 @@ formation and evaporation the whole area is cooled and kept moist.
 Holzer advocates for many small retention spaces rather than large centralised
 dams. A landscape containing several retention spaces has a reciprocal effect:
 each retention space supports the others. A water landscape consisting of
-several lakes, [[sepp-holzer-terrace-systems-and-raised-beds]],
-gardens and mixed forests creates a self-regulating system that maintains
-moisture throughout the area.
-
-Key principles for building water landscapes include:
-
-- Follow contour lines to determine where water naturally wants to collect
-- Build retention spaces at different altitudes to maximise the water
-  retention capacity of the whole landscape
-- Ensure water can seep into the ground, not just sit on the surface
-- Connect retention spaces so they support each other
-- Plant diverse vegetation around all water bodies
-
-## Climate Regulation Through Water
-
-A system of water retention basins is the prerequisite for creating a healthy
-mixed forest. They provide moisture from below, and water and heat are
-transformed into energy and growth. A water-retaining landscape with
-developing vegetation can compensate for extreme heat and therefore balances
-and stabilises the climate.
-
-This does not work with large water expanses built without surrounding
-vegetation, without deep and shallow zones, or with artificial shapes such as
-circles or rectangles. These just heat up and cool down without any
-temperature exchange because the water does not move naturally.
-
-## Economic Value of Water Landscapes
-
-Contrary to the belief that dedicating land to water reduces productivity,
-Holzer demonstrates that water landscapes are economically sound. The
-[[krameterhof-holzer-model-farm]] shows just how productive a water landscape is: fiscal
+several lakes, [[krameterhof-holzer-model-farm]] shows just how productive a water landscape is: fiscal
 authorities determined the assessed tax value of the land to be ten times
 higher than before. Projects in Spain and Portugal yield more vegetables from
 the terraced banks than the whole properties used to produce before conversion,
@@ -102,10 +72,7 @@ be considered part of transitional ethics.
 ## Relationship to Other Approaches
 
 Holzer's water landscape approach shares principles with
-[[keyline-design]] in its use of
-contour lines and focus on water retention, but differs in its emphasis on
-natural pond shapes, diverse zones, and integration with livestock. It also
-connects to broader [[mollison-permaculture-two-zone-planning-and-site-layout]]
+[[mollison-permaculture-two-zone-planning-and-site-layout]]
 planning by providing the water foundation that makes all other productive
 zones possible.
 
@@ -116,9 +83,6 @@ natural pathways through the landscape.
 
 ## See Also
 
-- [[holzer-pond-lake-design]] for detailed design of individual water bodies
 - [[contour-line-water-management]] for reading landscapes and using contour
   lines
-- [[desertification-causes-reversal]] for how water landscapes reverse
-  desertification
 - [[holzer-ten-step-plan-world-hunger]] for the broader strategy

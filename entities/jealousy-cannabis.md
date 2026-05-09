@@ -131,13 +131,9 @@ Several Jealousy crosses have emerged in the market, combining its potency with 
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[girl-scout-cookies]]
 - [[sunset-sherbet]]
-- [[sunset-sherbet]]
-- [[runtz-entity]]
 - [[wedding-cake-cannabis]]
-- [[ice-cream-cake-cannabis]]
 - [[kush-mints]]
 - [[biscotti-cannabis-strain]]
-- [[jungle-cake]]
+- jungle-cake

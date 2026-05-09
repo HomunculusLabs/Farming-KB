@@ -116,11 +116,7 @@ carry my Epena against those spirits, so that they do not persecute us.'"
 
 ## Related Topics
 
-- [[entheogen-virola-snuff-ethnobotany-chemistry]] - detailed profile
 - [[virola-snuff]] - general Virola reference
-- [[virola-snuff-amazon-preparation-and-ceremony]] - preparation guide
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]] - DMT
-- [[entheogen-jivaro-natem-shamanism]] - Amazonian shamanism
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] - shamans
-- [[plants-gods-ayahuasca]] - related Amazonian brew
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey

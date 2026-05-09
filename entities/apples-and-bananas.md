@@ -113,9 +113,7 @@ The strain demonstrates moderate resistance to common cannabis pathogens includi
 ## Related
 
 - homestead planning and zoning
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[cannabis-and-liver-cancer-research]]
-- [[cannabis-and-depression-research]]
 - [[glomalin-and-soil-carbon]] Strains
 
 - **Gelatti:** Direct parent; similar creamy, fruity profile with added OG gas notes
@@ -133,3 +131,5 @@ Apples and Bananas has achieved significant commercial success since its release
 - **Live resin and sauce:** The terpene-rich profile makes Apples and Bananas a popular choice for hydrocarbon extraction, producing flavorful concentrates
 - **Pre-rolls:** Commonly available in infused and non-infused pre-roll formats
 - **Seeds:** Feminized seeds available from Compound Genetics and selected seed banks; clone-only phenotype widely circulated among commercial cultivators
+
+See also: [[triangle-kush]]

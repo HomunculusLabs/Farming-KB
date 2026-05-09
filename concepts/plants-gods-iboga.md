@@ -13,49 +13,7 @@ type: concept
 ## Overview
 
 Iboga is the most significant hallucinogenic plant of Africa, derived
-from the root bark of [[tabernanthe-iboga]], a shrub of the Dogbane family
-(Apocynaceae). Employed for centuries in Gabon and the Congo, Iboga
-serves as the central sacrament of the Bwiti cult, one of the most
-important syncretic religious movements in Central Africa. The plant's
-primary active alkaloid, ibogaine, produces extraordinary visions and
-has recently gained international attention for its potential in
-treating substance dependence. Spreading today in Gabon and the Congo,
-Iboga is a unifying culture trait deterring the intrusion of foreign
-customs from Western society.
-
-## Botanical Description
-
-Tabernanthe iboga Baill. is a shrub 3-4.5 ft (1-1.5 m) tall, found in
-the undergrowth of tropical forests but often cultivated in native
-dooryards. The shrub has copious white, vile-smelling latex. The ovate
-leaves, usually 3.5-4 in. (9-10 cm) long and about 1.25 in. (3 cm)
-wide (occasionally up to 8.5 by 2.75 in. or 22 by 7 cm), are
-yellowish green beneath. The tiny yellowish, pinkish, or white-and
-pink-spotted flowers grow in groups of 5 to 12, with a crateriform
-corolla consisting of a long, slender tube abruptly flaring at the
-mouth, with twisted lobes 0.4 in. (1 cm) long. The ovoid, pointed
-yellow-orange fruits occur in pairs and become as large as olives.
-
-The plant is native to tropical zones of western Africa, particularly
-Gabon, the Congo, and Cameroon. It belongs to the Apocynaceae
-(Dogbane Family), which also contains the related genera Tabernaemontana
-and Voacanga, several species of which contain ibogaine-type alkaloids.
-
-## Traditional and Indigenous Use
-
-In Gabon and the Congo, the cult surrounding Iboga constitutes one of
-the most important magico-religious systems in Africa. The Bwiti cult
-uses Iboga in initiation rituals and to communicate with ancestors. The
-root bark is the primary plant part consumed, typically scraped, dried,
-and ingested in large quantities during all-night ceremonial dances.
-
-Iboga is known to be used as a hallucinogen in magico-religious
-contexts, especially within the Bwiti cult, and serves as a powerful
-social and cultural force binding together diverse ethnic groups across
-Central Africa. Both men and women may participate, making it one of the
-few hallucinogenic traditions that is not restricted to adult males.
-
-The related [[voacanga-africana]], found in West Africa, also contains
+from the root bark of [[voacanga-africana]], found in West Africa, also contains
 ibogaine-type alkaloids. Its bark is used as a hunting poison, stimulant,
 and potent aphrodisiac, while the seeds are reportedly used by African
 magicians to produce visions, though the details remain closely guarded
@@ -128,8 +86,6 @@ protected. Iboga therapy clinics operate in Mexico, Costa Rica, and
 other jurisdictions.
 
 ## See Also
-
-- [[plants-of-the-gods-tabernanthe-iboga-chemistry]]
 
 - [[plants-gods-ayahuasca]] for another major entheogenic tradition
 - [[plants-gods-peyote]] for comparison with another culturally central

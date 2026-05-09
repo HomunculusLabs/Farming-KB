@@ -1,7 +1,7 @@
 ---
 title: Substrate Pasteurization
 created: 2026-04-28
-tags: [mycology, cultivation, sterilization, substrate]
+tags: [[mycology, cultivation, sterilization, substrate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -119,22 +119,6 @@ hybrid approach: partial sterilization of the supplement component combined
 with pasteurization of the bulk substrate, or full sterilization via
 autoclaving at 121 degrees Celsius for small bags.
 
-Compost substrates for button mushrooms ([[agaricus-bisporus]]) undergo a
-two-phase pasteurization: Phase 1 composting generates natural heat through
-microbial activity, and Phase 2 applies controlled steam pasteurization in a
-specialized room to finalize pathogen elimination.
-
-## Cooling and Inoculation
-
-After pasteurization, the substrate must cool to below 30 degrees Celsius (86
-degrees Fahrenheit) before inoculation. Higher temperatures kill mushroom
-spores or weaken mycelium. Cooling should happen in a clean environment to
-avoid recontamination. Many growers use laminar flow hoods or still air boxes
-during the transfer from cooling to inoculation.
-
-## See Also
-
-- [[bulk-substrate-preparation]] — preparing substrate materials before treatment
-- [[grain-spawn-production]] — creating the inoculant applied to pasteurized substrate
+Compost substrates for button mushrooms ([[bulk-substrate-preparation]] — preparing substrate materials before treatment
 - [[contamination-identification-prevention]] — clean techniques throughout the cultivation cycle
 - [[cotter-pasteurization-sterilization-methods]] — when full sterilization is necessary instead

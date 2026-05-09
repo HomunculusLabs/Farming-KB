@@ -21,32 +21,6 @@ much space and labor you need, and what kind of end product you get.
 
 ## Bokashi
 
-[[bokashi]]
-
-Bokashi is a Japanese fermentation method using effective microorganisms (EM) —
-typically lactic acid bacteria, yeasts, and photosynthetic bacteria — inoculated
-onto bran or similar carrier material. Food scraps are layered with the
-inoculated bran in a sealed bucket and compressed to exclude air. Over two to
-four weeks, the waste ferments rather than rots, producing a sour-smelling but
-preserved pre-compost that can include meat, dairy, bones, and citrus —
-materials that would cause problems in most composting systems.
-
-The fermented output is not finished compost. It must be buried in soil, where
-soil microbes complete the decomposition over two to four weeks, rapidly
-converting the material into humus. Bokashi also produces a nutrient-rich liquid
-byproduct (bokashi tea) that can be used as a soil drench or drain treatment,
-though it must be used within 24 hours. The system works at any temperature,
-including freezing conditions, making it viable year-round in cold climates.
-
-Bokashi excels in constrained environments: apartments, small urban lots, and
-households that generate diverse food waste including proteins. It requires no
-turning, no heat management, and minimal space. The tradeoff is dependence on
-purchased or cultured EM inoculant, the need for garden space to bury the
-output, and the fact that the process is not truly complete until the fermented
-material is incorporated into soil.
-
-## Hot Composting
-
 [[hot-composting-method]]
 
 Hot composting is a managed aerobic process that harnesses thermophilic bacteria
@@ -122,12 +96,8 @@ bulk finished compost.
 
 ## See Also
 
-- [[comparison-bsf-composting-vs-hot-composting]]
-
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 
-- [[comparison-bokashi-vs-vermicomposting]]
 - [[comparison-vermicomposting-vs-hot-composting]]
-- [[hot-composting-vs-vermicompost-vs-bokashi]]
 - [[comparison-green-manure-vs-composting]]
 - [[composting-methods-comparison]]

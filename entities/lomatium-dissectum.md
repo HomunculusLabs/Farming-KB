@@ -124,9 +124,7 @@ component in herb spirals and polyculture beds.
 
 - ligusticum porteri
 - anemopsis californica
-- [[pedicularis-groenlandica]]
 - [[angelica-archangelica]]
 - peucedanum ostruthium
-- [[ocimum-sanctum]]
 - [[verbascum-thapsus]]
 - [[glycyrrhiza-glabra]]

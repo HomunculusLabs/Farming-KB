@@ -41,20 +41,7 @@ fact that it is not active is completely unexpected. Let me try to
 explain.
 
 Quite simply, mescaline is a major component and a centrally active
-alkaloid of the Peyote plant. It is a phenethylamine, which can
-undergo a cyclization within the plant to produce a pile of
-derivatives (tetrahydroisoquinolines) such as anhalonine and
-O-methylanhalonidine that are marvelously complex alkaloids, all
-natural components of this magical cactus. But there is another pile
-of derivatives (tetrahydroisoquinolines) such as anhalonine, and
-lophophorine, and peyophorine which are the logical cyclization
-products of another phenethylamine which does not exist in the cactus.
-It should be there, but it is not. If it were there it would be the
-natural precursor to a host of bicyclic alkaloids, but it is absent.
-This is 3-methoxy-4,5-methylenedioxyphenethylamine. I feel that some
-day it will be discovered as a plant component, and when it is it can
-be given a name that reflects the generic binomial of the plant. And
-since the plant has been known as [[lophophora-williamsii]], why not give
+alkaloid of the [[lophophora-williamsii]], why not give
 a name to this compound (which should be in the plant), one derived
 from the Latin name, but one that has never before been used? What
 about LOPHOPHINE? And so, I have named it, but I have not found it,
@@ -120,9 +107,4 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 ## See Also
 
 - [[lophophine-entity]]
-
-- [[lophophine-entity]]
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
 - [[phenethylamine-chemistry-basics]]

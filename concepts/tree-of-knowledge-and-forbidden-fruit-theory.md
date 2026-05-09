@@ -72,15 +72,9 @@ This substitution, in Arthur's view, represents one of the biggest deceptions in
 
 ## See Also
 
-- [[forbidden-fruit-cannabis]]
-
 - [[sacred-mushroom-hypothesis]] — The broader sacred mushroom hypothesis
-- [[sacred-mushroom-and-the-cross]] — Allegro's mushroom-Christian connections
-- serpent as bringer of knowledge — The serpent's role in the Eden narrative
 - [[soma-and-the-sacred-mushroom-debate]] — Soma and the mushroom debate
-- [[amanita-muscaria-in-eastern-religions]] — Mushroom in Eastern traditions
 - [[mythological-mushroom-symbolism]] — Mushroom-serpent symbolic connections
-- [[controversy-sacred-mushroom-theory]] — Scholarly controversy
 - [[psychedelic-consciousness-expansion]] — Shamanic death-rebirth practice
 - [[rammed-earth]] — Author of "Mushrooms and Mankind"
 

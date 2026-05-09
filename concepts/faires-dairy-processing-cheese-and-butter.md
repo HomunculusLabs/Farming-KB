@@ -10,7 +10,7 @@ sources:
 
 # faires dairy processing cheese and butter
 
-Dairy processing on [[faires-household-products-from-the-homestead]] transforms fresh milk into a variety of products with extended shelf life, greater nutritional density, and diverse culinary applications. From simple butter and yogurt to aged cheeses, these processing skills are essential for any household keeping goats or cows. The Faires guide covers milking, butter-making, yogurt production, and cheese-making as part of a comprehensive approach to on-site [[fukuoka-tasty-rice-illusion-food-processing]].
+Dairy processing on [[fukuoka-tasty-rice-illusion-food-processing]].
 
 ## Milk Quality and Safety
 
@@ -41,7 +41,7 @@ Butter is one of the simplest dairy products to make and requires no special equ
 
 ### Clarified Butter (Ghee)
 
-For [[mushroom-long-term-storage]] [[query-how-to-store-food-without-refrigeration]], butter can be clarified into ghee:
+For [[query-how-to-store-food-without-refrigeration]], butter can be clarified into ghee:
 - Melt butter at very low heat until completely liquid
 - Skim off the milk solids that rise to the surface
 - Continue until the butter is golden and clear
@@ -50,7 +50,7 @@ For [[mushroom-long-term-storage]] [[query-how-to-store-food-without-refrigerati
 
 ## Yogurt Making
 
-Yogurt is technically fermented milk -- bacteria turn lactose into [[lactic-acid-bacteria-natural-farming]]. While store-bought yogurt contains flavourings and sugar, homemade yogurt is simply milk and starter culture. See [[holmgren-wild-foods-and-marginal-systems]] for more on yogurt preparation.
+Yogurt is technically fermented milk -- bacteria turn lactose into [[holmgren-wild-foods-and-marginal-systems]] for more on yogurt preparation.
 
 ### Basic Yogurt Process
 
@@ -144,7 +144,5 @@ Basic cheese-making equipment includes:
 - A colander or draining mat
 - Cheese moulds (for shaped cheeses)
 - A cheese press (for hard cheeses, can be improvised with weights)
-- Cultures and rennet (available from cheese-making suppliers)
 ## See Also
-- [[natural-farming-guide-no-till-grain-strategy]]
 - [[peanut-butter-breath]]

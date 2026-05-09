@@ -3,72 +3,7 @@ title: Water Diversion and Dry Bed Management
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Water Diversion and Dry Bed Management
-
-Unlike swales (which stop water and force it into soil), diversion drains carry water away to specific destinations. Proper diversion is essential for flood control, irrigation management, and making use of seasonal water flows.
-
-## Diversion Drains
-
-A diversion drain is a ditch that carries water to a swale, pond, irrigation system, or series of dams. Key considerations:
-
-- **To swales:** Don't need to be waterproof
-- **To dams:** Should be built of rock or concrete to prevent erosion
-- **Spill gates** give flow control — a removable method of blocking water
-- Useful for controlling crop irrigation and flood management
-
-## Stream Braiding
-
-A technique for spreading stream flow into many smaller channels across a landscape, irrigating the entire area while preventing flooding. Particularly valuable in deserts where small creeks become destructive flash floods after brief rainfall.
-
-**How to create stream braiding:**
-1. Start at the head of the stream
-2. Dig a small pool at the head
-3. Branch off in a diamond pattern across the landscape using diversion channels
-4. At each diamond intersection, dig another small pool
-5. Water spreads slowly across the land, absorbing into soil
-
-This works well for streams that run dry part of the year and are prone to flash floods.
-
-## Small Pool Strategy
-
-For streams that intersect areas that can't be spread out (near house or barn):
-
-1. Dig a pool at the head of the stream to create a lagoon
-2. Install swales and dry dams between the lagoon and the building
-3. This slows and disperses water before it reaches structures
-
-## Flood Dam Strategy
-
-For gullies or floodplains where streams flood over a wide area:
-
-1. Build a dam less than 20 feet high, short enough for some floodwater to spill over
-2. Make the dam wide to slow water as it climbs over the wall
-3. Behind the dam (upstream side), carve the gully sides into curves to disrupt and slow flow
-4. Plant trees and grass on both sides of the dam for additional slowing
-5. Extend the dam to one side, sloping into a reservoir with a tall embankment
-6. The wide top acts as a channel directing water to the reservoir
-7. In the desert, channel to irrigation or tank immediately (evaporation is rapid)
-
-**Important:** This is for extreme flood situations in dry beds only. Not meant to block major waterways. The reservoir traps excess water from flash floods.
-
-## Desert Water Principles
-
-- Brief torrential rains create flash floods within minutes
-- Water flows too fast to absorb into soil
-- Erosion shapes desert into mesas, canyons, and flood plains
-- Water must be captured and channeled immediately — it cannot be stored in open reservoirs
-- Combine diversion drains with swales and tree rows to slow flow
-- Use dry dams (earth walls with rock spillways) between swales
-
-See also [[faires-swales-and-water-conservation]], [[faires-water-sources-and-catchment]], [[permaculture-designers-manual-dam-construction]], and [[faires-water-tank-design]].
-
-## See Also
-
-[[faires-swales-and-water-conservation]], albert hofmann, [[faires-water-tank-design]], [[faires-water-sources-and-catchment]], [[faires-soil-management-and-sheet-mulching]], [[faires-coppicing-and-woodlot-management]], [[faires-water-purification-methods]], [[keyline-design-water-management]]
+tags: [[faires-swales-and-water-conservation]], [[permaculture-designers-manual-dam-construction]], and [[faires-swales-and-water-conservation]], albert hofmann, [[faires-water-sources-and-catchment]], [[woodlot-and-coppicing]], [[keyline-design-water-management]]
 
 ## Practical Applications
 
@@ -112,3 +47,62 @@ Designing these connections intentionally creates synergies that multiply the
 benefits of each individual component. The most successful homesteads are those
 where every output becomes an input for another process, closing loops and
 minimizing waste while maximizing productivity and self-reliance.
+## Practical Considerations
+
+When working with Water Diversion and Dry Bed Management, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

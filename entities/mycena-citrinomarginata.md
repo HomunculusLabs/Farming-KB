@@ -26,7 +26,7 @@ Agaricales. The genus Mycena is one of the largest genera of agarics, containing
 several hundred species of small, often fragile mushrooms.
 
 Some authorities have considered M. citrinomarginata to be a synonym or variety of
-[[mycena-galopus]] or [[mycena-purpureofusca]], but modern molecular studies support its
+[[mycena-purpureofusca]], but modern molecular studies support its
 status as a distinct species based on both morphological and genetic differences.
 
 ## Morphology
@@ -103,7 +103,7 @@ levels.
 
 The detection of biotryptamine in M. citrinomarginata is significant because it expands
 the known distribution of tryptamine-related compounds across the fungal kingdom. While
-species like [[psilocybe-cubensis]] and [[panaeolus-cyanescens]] contain the fully
+species like [[panaeolus-cyanescens-entity]] contain the fully
 elaborated compounds psilocybin and psilocin, species like M. citrinomarginata appear
 to stop at earlier stages of the biosynthetic pathway. This suggests that the genetic
 capacity for tryptamine biosynthesis may be more widespread among basidiomycete fungi
@@ -119,32 +119,15 @@ extensively characterized.
 The yellow-margined cap is the most distinctive field character of Mycena
 citrinomarginata, but several other Mycena species share similar features:
 
-- [[mycena-galopus]] is similar in size and shape but lacks the yellow cap margin and
-  has a more uniformly colored cap
 - [[mycena-purpureofusca]] has purplish-brown tones rather than yellow
-- [[mycena-cyanorrhiza]] has a bluish-green base to the stipe but different cap
-  coloration
-- Other small Mycena species on forest floor debris may be confused without careful
-  examination
-
-The combination of the lemon-yellow cap margin, amyloid spores, and growth on forest
-floor litter helps distinguish M. citrinomarginata from similar species. However, field
-identification can be challenging for several reasons. The yellow margin coloration can
-fade with age or in dry conditions, making it appear similar to many other brown-capped
-Mycena species. The small stature of the fruiting bodies means they are easily
-overlooked unless the collector is specifically searching for them. The yellow margin
-is also not absolutely unique — some collections of [[mycena-galopus]] can show slight
+- [[mycena-galopus]] can show slight
 yellowish tints, and other Mycena species may develop yellowish coloration under
 certain conditions. Microscopic examination is recommended for definitive
 identification, as many Mycena species require close study of spore morphology
 (particularly the amyloid reaction), cystidial characters, and pileipellis structure. A
 
-- [[mycena-galopus]] — a common related species found in similar habitats
 - [[mycena-cyanorrhiza]] — a Mycena species known to contain psilocybin
-- [[mycena-purpureofusca]] — another Mycena species with reported bioactive compounds
-- biotryptamine — the primary indole compound found in this species
-- [[psilocybin-compound]] — the fully elaborated tryptamine compound found in related fungal
-
+- [[psilocybin]] — the fully elaborated tryptamine compound found in related fungal
 ## See Also
 
 - [[mycena-interrupta]]

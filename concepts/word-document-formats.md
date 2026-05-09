@@ -134,12 +134,8 @@ document formats and lightweight markup languages like Markdown.
 
 ## See Also
 
-- [[microsoft-word-document-format]]
 - [[microsoft-word-document-format-history]]
-- [[document-format-conversion-fidelity]]
 - [[japanese-document-processing]]
-- [[word-ribbon-interface]]
-
 - [[microsoft-word-history]]
 - [[binary-document-format-reverse-engineering]]
 - rich text format

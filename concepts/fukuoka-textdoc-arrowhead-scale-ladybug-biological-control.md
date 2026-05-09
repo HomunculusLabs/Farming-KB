@@ -115,9 +115,6 @@ Fukuoka's citrus orchard experiments demonstrate that biological control is not 
 
 ## See Also
 
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
-- [[fukuoka-textdoc-traditional-pest-control-pyrethrum-derris-fowl]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-pest-ecology]]
 - [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]

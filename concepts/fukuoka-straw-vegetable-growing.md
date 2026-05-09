@@ -12,28 +12,10 @@ tags: [fukuoka, vegetables]
 
 ## The Natural Rotation Principle
 
-[[fukuoka-four-principles-natural-farming]] form the foundation of this approach.
-Ideally, crops should be left in nature's care and allowed to grow in an
-almost natural state rather than being grown under artificial conditions by
-man solely for his own purposes. Crops know where, when, and how to grow. By
-sowing a mixture of many field crops, allowing them to grow naturally, and
-observing which thrive and which do not, one finds that, when grown in the
-hands of nature, crops superior to what would normally be imagined can be
-obtained. This approach follows the [[fukuoka-four-principles-natural-farming]].
+[[fukuoka-four-principles-natural-farming]].
 
-The rotations Fukuoka designed provide for soil enrichment with [[fukuoka-natural-cover-grass-green-manure]] plants, the replenishment of organic materials with gramineous
-plants, deep working and conditioning of the soil with root vegetables, and
-reduced disease and pest damage through the segregation of key vegetable
-families. Their ultimate aim is to do away with tilling, fertilizers, pesticide
-application, and weeding.
-
-## Semi-Wild Cultivation of Vegetables
-
-What Fukuoka means by the "semi-wild" cultivation of vegetables is a method of
-simply scattering vegetable seed in fields, orchards, on earthen levees, or on
-any open, unused land. This approach is part of the broader [[natural-farming-no-till-method]]
-philosophy. For most vegetables, mixed sowing with [[white-clover-living-mulch]]
-gradually gives a vegetable garden with a cover of clover. For broader soil-building context, see [[fukuoka-straw-soil-building]].
+The rotations Fukuoka designed provide for soil enrichment with [[natural-farming-no-till-method]]
+philosophy. For most vegetables, mixed sowing with [[fukuoka-straw-soil-building]].
 The idea is to pick
 a good time during the sowing season and either scatter or drill a seed
 mixture of clover and many vegetables among the weeds.
@@ -80,10 +62,7 @@ vegetables.
 Leguminous vegetables should be included in the seeds sown among the weeds in
 spring to early summer. Vegetables such as asparagus bean, cowpea, and mung
 bean are especially good choices because they are inexpensive and
-high-yielding. For companion planting in a broader orchard context, see [[fukuoka-straw-mandala-orchard-design]].
-Birds will feed on the seeds for garden peas, soybeans, adzuki
-beans, so these must be encouraged to germinate very
-quickly. The best way to get around this is to sow the seed in [[fukuoka-straw-seed-balls-direct-seeding]].
+high-yielding. For companion planting in a broader orchard context, see [[fukuoka-straw-seed-balls-direct-seeding]].
 
 ### Tomatoes and Eggplants
 
@@ -92,58 +71,27 @@ first by weeds. The safest way to grow these is to raise young plants from
 seed and transplant them into a cover of clover and weeds. Rather than training
 them into single-stem plants, after transplantation they should be left alone
 and allowed to grow as bushes. This technique is part of Fukuoka's broader
-[[fukuoka-natural-orchard-management]] approach. If the stem is allowed to creep along the
-ground, it will drop roots along its entire length from which many new stems
-will emerge and bear fruit.
-
-### Potatoes
-
-Once planted in the orchard, potatoes will grow each year from the same spot,
-crawling vigorously along the ground to lengths of five feet or more and never
-giving in to weeds. If just small potatoes are dug up for food and some tubers
-always left behind, there will never be any want of seed potatoes.
-
-### Gourd Family
-
-Members of the Gourd family such as bottle gourd and chayote may be grown on
-sloping land and allowed to climb up tree trunks. A single hill of
-overwintered chayote will spread out over a 100-square-yard area and bear 600
-fruit. Cucumbers should be of varieties that trail well along the ground.
-These have to be protected from weeds at the seedling stage, but once they get
-a little larger, they are strong crops.
-
-### Yam and Sweet Potato
-
-Yam and sweet potato grow well at the foot of the orchard shelterbelt. These
-are especially enjoyable because the vines climb trees and produce fairly large
-tubers. Yam and sweet potato vines can be grown over the winter to achieve
-large harvests.
-
-## Disease and Pest Resistance
-
-### High-Resistance Vegetables (require no pesticides)
-
-Yam family (Chinese yam, Japanese yam), Goosefoot family (spinach, chard,
-Chinese cabbage), Carrot family (carrot, honewort, celery, parsley), Composite
-family (burdock, butterbur, lettuce), Mint family (perilla, Japanese mint),
-Ginseng family (udo, ginseng), Ginger family (ginger, Japanese ginger),
-Morning-glory family (sweet potato), Lily family (Chinese leek, garlic,
-scallion, onion, asparagus).
-
-### Moderate-Resistance Vegetables
-
-Pea family (garden pea, broad bean, adzuki bean, soybean, peanut, kidney
-bean), Mustard family (Chinese cabbage, cabbage, daikon, turnip, Indian
-mustard, rapeseed).
-
-## See Also
-
-- [[fukuoka-natural-farming]] — core philosophy and method overview
-- [[masanobu-fukuoka]] — biography and broader influence
+[[fukuoka-natural-farming]] — core philosophy and method overview
 - [[fukuoka-semi-wild-vegetable-growing-techniques]] — detailed semi-wild methods
-- [[fukuoka-vegetable-growing-natural-method]] — additional natural vegetable approaches
 - [[fukuoka-clover-and-green-manure-cropping]] — clover and green manure systems
-- [[fukuoka-natural-farming-philosophy]] — philosophical foundations of natural farming
 - [[fukuoka-rice-and-barley-natural-farming]] — grain production without tillage
-- [[natural-farming-no-till-method]] — no-till principles and practices
 - [[cover-cropping-natural-farming]] — cover crop systems for soil health
+## Practical Considerations
+
+Successful implementation of Vegetable Growing in the Natural Farm requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

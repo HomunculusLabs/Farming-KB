@@ -14,19 +14,8 @@ sources:
 type: concept
 ---
 
-# Traditional [[irrigation-systems]]
-
-Throughout history, human communities have developed sophisticated irrigation
-systems that harvest, store, and distribute water without fossil fuel inputs
-or industrial technology. Bill Mollison held these traditional systems in high
-regard, documenting them extensively in the Designers Manual as models of
-[[appropriate-technology]], community cooperation, and ecological intelligence.
-These systems embody the [[permaculture]] principle of working with natural forces
-rather than against them.
-
-## Qanats (Ghanats)
-
-The qanat is one of the most ingenious [[water-management]] technologies ever
+# Traditional [[appropriate-technology]], community cooperation, and ecological intelligence.
+These systems embody the [[water-management]] technologies ever
 devised. Originating in ancient Persia (modern Iran) over 3,000 years ago,
 qanats tap groundwater from alluvial fans at the base of mountains and
 deliver it by gravity to settlements and agricultural land on the plains
@@ -66,15 +55,7 @@ fields, and a governance structure (the acequia association) that allocates
 water rights, schedules irrigation turns, and organizes annual maintenance
 (limpieza).
 
-Key principles of acequia management that align with [[permaculture-ethics]]:
-
-- **Water as a commons**: Water is not privately owned but held in trust by
-  the community for equitable distribution.
-- **Prior appropriation with seniority**: The first users to establish rights
-  retain priority, but during scarcity, all users share proportionally.
-- **Obligation to maintain**: All water-right holders must contribute labour
-  to annual cleaning and repair of the canal system.
-- **Integrated [[watershed-management]]**: Traditional acequia communities
+Key principles of acequia management that align with [[watershed-management]]**: Traditional acequia communities
   recognize the connection between upstream land use and downstream water
   supply, historically protecting headwater forests and wetlands.
 
@@ -137,12 +118,9 @@ centuries, as demonstrated by the longevity of qanats, acequias, and
 terraced systems worldwide.
 
 The permaculture designer working on water systems should prioritize
-community involvement from the outset. [[mollison-designers-design-methods-analysis]] provides frameworks for integrating social and technical
-considerations into a coherent design process.
+community involvement from the outset. [[permaculture-design]]
 
-## Integration with [[permaculture-design]]
-
-Traditional irrigation systems integrate naturally with [[mollison-designers-passive-solar-building]] (directing water to buildings and gardens), [[mollison-designers-multi-strata-canopy-design]] (watering productive polycultures), and
+Traditional irrigation systems integrate naturally with [[mollison-designers-multi-strata-canopy-design]] (watering productive polycultures), and
 [[mollison-designers-wastewater-treatment-wetlands]] (closing the water cycle
 by returning treated water to the landscape). The designer should study these
 traditional systems deeply and adapt their principles to local conditions.

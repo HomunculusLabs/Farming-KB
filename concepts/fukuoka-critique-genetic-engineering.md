@@ -11,8 +11,7 @@ sources:
 
 ## Overview
 
-In "The Natural Way of Farming," [[natural-farming-fukuoka]] extends his critique
-of [[fukuoka-critique-modern-agriculture]] to genetic engineering and biotechnology. Written before the
+In "The Natural Way of Farming," [[fukuoka-critique-modern-agriculture]] to genetic engineering and biotechnology. Written before the
 widespread
 adoption of GMOs, his critique nevertheless anticipates many of the concerns
 that
@@ -93,11 +92,7 @@ with Fukuoka's
 vision. Patented seeds create dependency, tying farmers to corporations.
 The technology
 is expensive and oriented toward large-scale monoculture. It undermines the
-[[fukuoka-natural-farming-philosophy-of-mu]] principle that farmers should save their own seed and be self-sufficient.
-
-## Connection to Green Revolution
-
-See [[fukuoka-critique-green-revolution]]. Genetic engineering is the logical
+[[fukuoka-critique-green-revolution]]. Genetic engineering is the logical
 extension
 of the Green Revolution's approach: identify a limiting factor, develop a
 technological
@@ -108,12 +103,6 @@ rather
 than through ecological understanding and local adaptation.
 
 See also:
-- [[fukuoka-critique-modern-agriculture]] — broader agricultural critique
 - [[fukuoka-natural-farming-philosophy]] — the alternative
-- [[fukuoka-nature-god-limits-of-knowledge]] — limits of human knowledge
 - [[fukuoka-philosophy-of-mu-and-nature]] — philosophical foundation
-- [[fukuoka-do-nothing-farming-philosophy]] — Mu farming approach
-
-## Related
-
 - [[fukuoka-biotechnology-computers-warning]]

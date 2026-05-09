@@ -132,13 +132,7 @@ Before commercial agriculture:
 
 ## References
 
-- Source: "JADAM Organic Farming" by [[youngsang-cho]], chapters on Soil Management, Organic Livestock Farming, and Making Organic Farming Inputs
-- JADAM livestock resources: en.jadam.kr
+- Source: "JADAM Organic Farming" by [[faires-goose-management-and-integration]]
 
-## See Also
-
-- [[faires-goose-management-and-integration]]
-
-- [[natural-farming-philosophy]]
 - [[soil-food-web-nutrient-cycling]]
 - [[compost-tea-recipe-guide]]

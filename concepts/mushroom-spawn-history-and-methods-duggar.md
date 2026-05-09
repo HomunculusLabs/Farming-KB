@@ -74,15 +74,9 @@ Repin in Paris also referenced a secret method for effecting spore germination, 
 
 ## See Also
 
-- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
-
 - [[duggar-mushroom-growing-history-and-methods]]
 
-- [[mushroom-grain-spawn-preparation]]
-- [[mushroom-cultivation-fundamentals]]
-- [[mushroom-compost-bed-systems-duggar]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[mushroom-house-construction-duggar]]
-- [[mushroom-genetics-strain-selection]]
 - [[oyster-mushroom-growing-house-site-selection]]
-- [[pure-culture-spawn-method-duggar-usda-1902]]
 - [[mushroom-spawn-making-history-duggar-1915]]

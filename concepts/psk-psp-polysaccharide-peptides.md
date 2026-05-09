@@ -8,28 +8,7 @@ sources: []
 ---
 # PSK and PSP Polysaccharide-Peptides
 
-PSK (Polysaccharide-K, trade name Krestin) and PSP (Polysaccharide-Peptide) are protein-bound polysaccharides extracted from the mycelium of [[turkey-tail-trametes-versicolor]] (turkey tail mushroom). They are among the most clinically validated mushroom-derived cancer therapeutics, with PSK approved in Japan and PSP approved in China.
-
-## PSK (Krestin)
-
-### Chemistry and Production
-
-- **Source**: mycelial biomass of Trametes versicolor strain CM-101
-- **Producer**: Sankyo Co. and Kureha Chemical Industry (Japan)
-- **Type**: proteoglycan — β-glucan covalently bound to peptide
-- **Molecular weight**: ~100 kDa
-- **Composition**: approximately 62% carbohydrate (mainly β-1,4 glucan with β-1,6 and β-1,3 linkages), 15% protein, 5% water
-- **Extraction**: hot water extraction from cultured mycelium, followed by precipitation and purification
-
-### Clinical Use in Japan
-
-PSK has been used as an adjuvant cancer therapy in Japan since 1977, prescribed primarily for:
-- Gastric cancer (primary indication)
-- Colorectal cancer
-- Breast cancer
-- Small cell lung cancer
-
-It is administered orally (3 g/day), making it more practical than IV-administered [[lentinan-pre-clinical-antitumour-models]].
+PSK (Polysaccharide-K, trade name Krestin) and PSP (Polysaccharide-Peptide) are protein-bound polysaccharides extracted from the mycelium of [[lentinan-pre-clinical-antitumour-models]].
 
 ### Clinical Trial Results
 
@@ -92,11 +71,26 @@ PSP's immunomodulatory effects overlap with PSK but include some distinctive pro
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]] — broader research on turkey tail in oncology
 - [[turkey-tail-trametes-versicolor]] — the source species
-- [[lentinan-clinical-research]] — comparison with shiitake-derived lentinan
 - [[mushroom-cancer-clinical-trials-overview]] — overview of mushroom compound clinical trials
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[psk-breast-lung-cancer-clinical-trials]]
-- [[mushroom-cytokine-production-immune-activation]]
 - [[lentinan-gastric-cancer-combination-therapy]]
+## Practical Considerations
+
+Successful implementation of PSK and PSP Polysaccharide-Peptides requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

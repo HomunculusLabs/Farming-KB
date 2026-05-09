@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-The mystery of Soma constitutes one of the most enduring puzzles in the history of religion and ethnopharmacology. Described lavishly in the [[rig-veda-soma-hymns-amanita-muscaria]] as both a plant and a god, Soma was the central sacrament of the ancient [[amanita-herb-indo-european-origins]] peoples, a juice pressed from a sacred plant whose botanical identity has been lost to time. Terence McKenna dedicated an entire chapter of *Food of the Gods* to this "Golden Vedic Enigma," arguing that understanding Soma is essential to recovering the Archaic relationship between humans and psychoactive plants that once shaped consciousness itself.
+The mystery of Soma constitutes one of the most enduring puzzles in the history of religion and ethnopharmacology. Described lavishly in the [[amanita-herb-indo-european-origins]] peoples, a juice pressed from a sacred plant whose botanical identity has been lost to time. Terence McKenna dedicated an entire chapter of *Food of the Gods* to this "Golden Vedic Enigma," arguing that understanding Soma is essential to recovering the Archaic relationship between humans and psychoactive plants that once shaped consciousness itself.
 
 ## The Rig Veda and Soma Praise
 
@@ -60,37 +60,7 @@ The reform-minded religion of Zoroaster, established circa 575 B.C., appears to 
 
 However, R.C. Zahner argues persuasively that Zoroaster never actually abolished the Haoma rite. In the later Avesta, Haoma "came back again" and was in almost every respect the same as the Vedic Soma. The Haoma rite has been the central liturgical act of Zoroastrianism ever since the religion developed liturgical worship, and its central position has never been disputed.
 
-McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[amanita-herb-maga-magic-great-gift]].
-
-## Clues to Botanical Identity
-
-Several textual clues guide the search for Soma's botanical identity:
-
-- **Physical description**: In both the Veda and Avesta, the Soma plant is described as having hanging branches and a yellow color
-- **Mountain origin**: Its mountain origin is generally agreed upon
-- **Ritual requirements**: Three daily pressings were necessary to worship the gods, meaning large amounts of the plant would have been required
-- **Preparation**: The juice was pressed out of swollen fibers, purified through a woolen filter, and sometimes mixed with milk
-- **Cattle connection**: Soma is intimately connected with symbolism and rituals related to cattle and pastoralism
-
-## The Cattle Connection
-
-McKenna considers the connection between Soma and cattle to be central to identifying the plant. Cattle are a major motif throughout the Soma cult, yet this association "makes little if any sense if one believes that Soma is [[amanita-muscaria]]." The [[stropharia-cubensis]] mushroom, by contrast, grows naturally in cattle dung — a fact that makes the cattle symbolism entirely coherent.
-
-The bull is described as "the most common metaphor for Soma," and Soma itself can be described as an "udder" that yields entheogenic milk and as a "bellowing bull." This cattle imagery permeates the ritual vocabulary in ways that strongly suggest a coprophilic (dung-loving) mushroom species.
-
-## The Problem of Substitutes
-
-As the Indo-European migrations carried tribes far beyond the forest environments suitable for the original Soma plant, substitutes had to be found. Progressively more esoteric, the identity of Soma became mingled with myth until it was eventually forgotten. Candidates proposed over the centuries include:
-
-- Ephedra (source of ephedrine)
-- Sarcostemma (relative of American milkweeds)
-- Cannabis
-- Periploca (a leafless climber)
-- Fermented mare's milk
-- Fermented honey
-- Mixtures of various substances
-- [[amanita-muscaria]] (fly agaric) — Wasson's famous theory
-- [[peganum-harmala]] (Syrian rue) — Flattery and Schwartz's theory
+McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[amanita-muscaria-entity]]." The [[amanita-muscaria-entity]] (fly agaric) — Wasson's famous theory
 - [[stropharia-cubensis]] (psilocybin mushroom) — McKenna's preferred candidate
 
 ## Soma as Male Moon God
@@ -103,18 +73,7 @@ The mushroom's dual nature helps explain this gender ambiguity: it has a lustrou
 
 ## The Archaic Revival and Soma
 
-McKenna frames the search for Soma within his broader argument for an [[archaic-revival-philosophy]] — a paradigm transformation that would renew humanity's relationship with plants as "models of process" embodying "symbiotic connectedness and efficient resource recycling." He argues that "more than political exhortation will be needed" and that the Archaic Revival "must rest on an experience that shakes each and every one of us to our very roots."
-
-He declares that "Nature must be declared legitimate" and that "the notion of illegal plants is obnoxious and ridiculous." The Soma mystery represents humanity's last coherent memory of a time when psychoactive plants were not marginal or criminalized but were the central organizing principle of religion, community, and consciousness itself. Recovering this lost relationship may be, in McKenna's view, essential to navigating the global ecological and spiritual crisis of the modern world.
-
-## See Also
-
-- [[ethnomycology]]
-- [[mckenna-food-gods-dmt-experience-hyperspace]]
-- [[mckenna-food-gods-television-dominator-drug]]
-
+McKenna frames the search for Soma within his broader argument for an [[mckenna-food-gods-dmt-experience-hyperspace]]
 - [[mckenna-food-gods-wasson-amanita-theory]]
-- [[mckenna-food-gods-peganum-harmala-soma]]
 - [[mckenna-food-gods-partnership-dominator]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]

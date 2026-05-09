@@ -19,18 +19,11 @@ type: concept
 
 # McKenna on Leary at Harvard and the Psilocybin Project
 
-In Terence McKenna's account in [[mckenna-food-of-the-gods-thesis]], the Harvard years
+In [[mckenna-food-of-the-gods-thesis]], the Harvard years
 of the early 1960s represent a pivotal and paradoxical moment in the history of
 psychedelic research. Within the same institution, two radically different approaches to
 the study of psychoactive plants coexisted: the meticulous ethnobotany of Richard Evans
-Schultes and the explosive social experimentation of Timothy Leary. McKenna uses this
-juxtaposition to illustrate the tension between scientific study of plant hallucinogens
-and their revolutionary potential as agents of cultural transformation.
-
-## Schultes and Leary: A Study in Contrasts
-
-McKenna draws a sharp portrait of two men who could hardly have been more different.
-Richard Evans Schultes was, in McKenna's telling, "the reticent Brahmin, scholar, and
+Schultes and the explosive social experimentation of [[richard-evans-schultes]] was, in McKenna's telling, "the reticent Brahmin, scholar, and
 botanist/scientist" — a man of traditional academic disposition who had spent years in
 the Amazon documenting indigenous uses of psychoactive plants with painstaking precision.
 His work was characterised by taxonomic rigour, extensive field notes, and a deep respect
@@ -53,10 +46,7 @@ worldview. McKenna favours the latter, though he respects the former as a correc
 
 McKenna is careful to situate Leary's psychedelic career within the broader context of
 the Mexican mushroom tradition. Leary's earliest psychedelic experience was not with LSD
-but with [[psilocybe-mushroom-species-guide]] mushrooms in Mexico. McKenna records that
-Leary "would later recall that he was recruited for what he called 'my planetary mission'
-by that first psilocybin encounter in Mexico." This framing is significant for McKenna,
-who consistently argues that the psilocybin mushroom — not LSD — represents the more
+but with [[psilocybin-mushroom]] — not LSD — represents the more
 ancient and culturally integrated form of the psychedelic experience.
 
 The notion of being "recruited" by a psychedelic experience is itself revealing. It
@@ -87,25 +77,7 @@ qualitatively different experiences. Psilocybin, derived from mushrooms used in 
 contexts for millennia, carried what McKenna considered a more ancient and integrated set
 of cultural associations. LSD, by contrast, was a synthetic compound whose effects, while
 powerful, lacked the deep cultural roots that gave psilocybin experiences their sense of
-continuity with archaic traditions of [[shamanism]].
-
-McKenna implies that the choice of substance was not neutral — that the different
-pharmacological profiles of psilocybin and LSD produced different patterns of experience
-and, consequently, different cultural outcomes. LSD's longer duration, greater intensity,
-and synthetic origin may have contributed to the more disruptive and less integrated
-quality of the psychedelic culture that emerged from Harvard.
-
-## Michael Hollingshead and the Mayonnaise Jar
-
-McKenna assigns particular importance to Michael Hollingshead as the agent who
-transformed the Harvard project from a psilocybin study into an LSD research programme.
-Hollingshead was, in McKenna's telling, "the person most responsible for making LSD the
-drug of choice in Harvard's psychedelic circles." The vehicle for this transformation was
-famously mundane: a mayonnaise jar containing LSD solution.
-
-McKenna describes the dynamics within Leary's inner circle with some irony. Leary
-"latched onto Hollingshead as his guru" and "followed him around for days on end."
-Richard Alpert and Ralph Metzner, two of Leary's closest associates, "were vexed to see
+continuity with archaic traditions of [[richard-alpert]] and Ralph Metzner, two of Leary's closest associates, "were vexed to see
 him in such a helpless state. They thought he had really blown his mind and they blamed
 Hollingshead. But it was only a matter of time before they too sampled the contents of
 the mayonnaise jar. Hollingshead gave the drug to the members of the psilocybin project
@@ -147,4 +119,3 @@ to expediency over authenticity.
 
 The Harvard Psilocybin Project established enduring themes: the tension between
 scientific and spiritual approaches, the role of charismatic individuals in shaping
-public perception, and the conflict between individual exploration and institutional

@@ -101,20 +101,12 @@ Commercial flower production for the cut flower trade is most developed in Hawai
 
 ## See Also
 
-- [[zingiber-officinale]] — Common ginger, the most commercially important Zingiberaceae species
 - [[alpinia-zerumbet]] — Shell ginger, an ornamental Zingiberaceae with similar landscaping uses
-- [[alpinia-galanga]] — Greater galangal, a Zingiberaceae species with medicinal rhizomes
 - [[kaempferia-galanga]] — Sand ginger, a Zingiberaceae species with aromatic rhizome
-- [[curcuma-longa]] — Turmeric, a related Zingiberaceae rhizome with pharmacological properties
 - [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species with related phytochemistry
-- [[tagetes-lucida]] — Mexican marigold, an aromatic ornamental with traditional medicinal uses
 - [[lavandula-angustifolia]] — English lavender, an ornamental aromatic herb with essential oil production
-- [[cymbopogon-citratus]] — Lemongrass, a tropical aromatic grass with ornamental and medicinal uses
 - [[eucalyptus-globulus]] — Blue gum eucalyptus, a tree with invasive potential and essential oil production
-- [[alpinia-officinarum]] — Lesser galangal, a Zingiberaceae species with anti-inflammatory rhizomes
 - [[zingiber-zerumbet]] — Shampoo ginger, a Zingiber species with ornamental inflorescences
-- [[cymbopogon-martinii]] — Palmarosa, a tropical grass cultivated for its floral essential oil
 - [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass used for erosion control and essential oil
-- [[ocimum-basilicum]] — Sweet basil, an aromatic ornamental herb with culinary and medicinal uses
 - [[mentha-piperita]] — Peppermint, an aromatic herb with fragrant essential oil used in perfumery
 - [[salvia-officinalis]] — Common sage, a Mediterranean ornamental herb with traditional medicinal uses

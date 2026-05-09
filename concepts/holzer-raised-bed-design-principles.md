@@ -33,7 +33,7 @@ From the second year, pigs can be allowed on the raised beds for a little time a
 
 Depending on the weather and how they are used, the raised beds flatten gradually over the years. They are then either rebuilt or replaced.
 
-holzer raised bed design principles | [[holzer-microclimates-permaculture]] | [[holzer-terrace-construction-guide]] | [[raised-bed-gardening]] | [[sepp-holzer-method]]
+holzer raised bed design principles | [[holzer-terrace-construction-guide]] | [[sepp-holzer-method]]
 
 ## Key Points
 
@@ -61,10 +61,9 @@ holzer raised bed design principles | [[holzer-microclimates-permaculture]] | [[
 
 ## See Also
 
-- [[holzer-irrigation-principles]]
 - [[holzer-mushroom-cultivation-methods]]
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], holzer raised bed design principles, [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[holzer-fruit-trees-no-pruning]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
@@ -74,3 +73,22 @@ Mushroom cultivation on logs and in raised beds provides additional food product
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
 Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
+## Practical Considerations
+
+Successful implementation of Holzer Raised Beds Design Principles requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

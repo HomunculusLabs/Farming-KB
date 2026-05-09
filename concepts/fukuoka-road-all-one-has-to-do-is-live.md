@@ -110,31 +110,6 @@ Fukuoka strongly doubts this was the result of climate
 change. What actually happened was that trees were cut down
 in the name of civilization. Advances were made in farming
 methods and slash-and-burn agriculture adopted, depleting
-the soil and setting [[desertification]] into motion.
-
-## Growing Pessimism
-
-Up until about twenty years before writing, Fukuoka was
-optimistic. Even as recently as ten years prior, he thought
-that if energy runs out, mankind will get by if willing to
-practice natural farming. But lately, he realizes how
-wishful such hopes have been.
-
-Human intelligence has overdeveloped and become sidetracked.
-Man has metamorphosed into a creature that can remain
-unconcerned even if it loses sight of and destroys nature
-and God. Natural people, natural farming, and natural diet
-are all receding and vanishing at an accelerating speed.
-
-The only explanation Fukuoka can give for how to live is:
-"All one has to do is to live." Pressed further, he can
-only explain by analogy: "The sparrows live by picking at
-the seeds in the grass growing over there. All man ever had
-to do himself was simply to live."
-
-## See Also
-
-- [[fukuoka-dharmic-law-all-things-return-to-one]]
-- [[fukuoka-road-man-does-not-live-by-bread-alone]]
+the soil and setting [[fukuoka-dharmic-law-all-things-return-to-one]]
 - [[fukuoka-road-one-straw-revolution-continuation]]
 - [[fukuoka-god-nature-and-man-as-one]]

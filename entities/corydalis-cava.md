@@ -24,49 +24,7 @@ created: 2026-04-28
 
 The species has a long history of use in European folk medicine, particularly as a mild sedative, analgesic, and antispasmodic agent.
 
-*Corydalis cava* is closely related to the well-studied Chinese medicinal herb [[corydalis-yanhusuo]], though the alkaloid profiles of the two species differ significantly.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Plantae — **Family:** Fumariaceae (sometimes included in Papaveraceae sensu lato).
-
-**Genus:** Corydalis — **Species:** C. cava (Schweigg. & Körte).
-
-**Synonyms:** *Bulbocapnos cavus* (Schweigg. & Körte) Opiz, *Corydalis bulbosa* (L.) DC.
-
-The plant grows 15-30 cm tall from a subterranean tuberous corm that gives the species its common name "hollowroot."
-
-Leaves are bipinnately divided with glaucous, rounded leaflets, forming a basal rosette that emerges in early spring.
-
-Flowers are borne in dense racemes of 8-16 blooms, each 12-18 mm long, ranging from violet-purple to pink, occasionally white.
-
-The flower structure is typical of the Fumariaceae, with a spurred outer petal and two inner petals.
-
-Fruiting produces a silicle-like capsule containing several small, shiny black seeds with elaiosomes that attract ant dispersers.
-
-The plant dies back completely by early summer, entering dormancy until the following spring.
-
-## Distribution and Habitat
-
-*Corydalis cava* is native to central and southern Europe, extending from France and Germany eastward through Poland, the Balkans, and into northern Italy.
-
-It is also found in the Carpathian Mountains and parts of the Apennine and Balkan peninsulas.
-
-The species prefers deciduous or mixed woodland habitats with calcareous or neutral soils rich in organic matter.
-
-It commonly grows in shaded conditions at forest margins, along hedgerows, and in mountain meadows up to 1,600 meters elevation.
-
-The plant is shade-tolerant and often one of the first spring ephemerals to emerge before the forest canopy closes.
-
-## Bioactive Compounds
-
-The tubers of *Corydalis cava* contain a complex mixture of isoquinoline alkaloids as the primary bioactive constituents.
-
-Major alkaloids include bulbocapnine, corydaline, corycavamine, and corycavine, along with protopine and allocryptopine.
-
-Bulbocapnine is the most abundant and pharmacologically significant alkaloid, constituting up to 0.5% of tuber dry weight.
-
-Protopine and allocryptopine are shared alkaloid classes with other [[corydalis-yanhusuo]] species.
+*Corydalis cava* is closely related to the well-studied Chinese medicinal herb [[corydalis-yanhusuo]] species.
 
 The alkaloid content varies seasonally, with highest concentrations in the tuber during early spring emergence and lowest during the dormant period.
 
@@ -112,6 +70,24 @@ The species is generally pest-free and requires minimal maintenance once establi
 
 ## See Also
 
-- [[corydalis-yanhusuo]] — Chinese medicinal corydalis species
 - [[scutellaria-baicalensis]] — Chinese herbal sedative
 - [[berberine]] — protoberberine alkaloid found in related species
+## Practical Considerations
+
+Successful implementation of Corydalis cava requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

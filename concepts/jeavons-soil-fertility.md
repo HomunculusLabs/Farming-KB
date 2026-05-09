@@ -73,13 +73,7 @@ Compost provides nutrients gradually over the growing season, reducing leaching 
 - They destroy soil structure (especially when applied to uncultivated soil)
 
 ### Biological Fertility Advantages
-- Compost feeds the [[soil-food-web]], not just the plant
-- Microbes make nutrients available in plant-appropriate forms and timing
-- Biological systems become more self-sustaining over time
-- Soil structure improves year after year
-- Nutrient cycling becomes more efficient as soil life increases
-
-## [[soil-testing]]
+- Compost feeds the [[soil-testing]]
 
 Testing soil helps track progress and identify problems:
 
@@ -110,28 +104,6 @@ Focus on trends over time rather than absolute numbers. In a well-managed GROW B
 
 ### Nutrient Imbalances
 - Cause: Repeatedly growing the same crops, poor compost quality
-- Solution: Crop rotation, diverse compost ingredients, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-### Salinity
-- Cause: Synthetic fertilizers, poor irrigation, arid climate
-- Solution: Improve drainage, increase organic matter, reduce salt inputs
-
-## The 100-Year Fertility Test
-
-GROW BIOINTENSIVE can produce 2 to 6 times more food per unit area than conventional methods, but the real measure of sustainability is: can the soil produce this level of yields 100 years from now?
-
-Conventional farming: Yields decline as soil is depleted.
-GROW BIOINTENSIVE: Yields improve as soil humus and biological activity build.
-
-## Key Principle
-
-The goal is not just growing plants but growing soil. Fertile soil is the foundation of sustainable food production. Every crop decision — what to grow, when to harvest, how much to export — must consider its effect on soil health.
-
-"Soil is the stomach of the plant." — Alan Chadwick
-
-## See Also
-
-- [[jeavons-composting-methods]]
-- [[jeavons-double-digging-bed-preparation]]
+- Solution: Crop rotation, diverse compost ingredients, [[jeavons-composting-methods]]
 - [[jeavons-carbon-farming]]
 - [[jeavons-grow-biointensive-method-overview]]

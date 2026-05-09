@@ -134,17 +134,12 @@ gene biotechnology, and environmental monitoring.
 
 | Species | Distinguishing Features |
 |---|---|
-| [[mycena-purpureofusca]] | Constant glow from stipe base; Brazilian Atlantic forest |
 | [[mycena-purpureofusca]] | Larger fruiting bodies; brighter luminescence |
-| [[omphalotus-olearius]] | Larger, orange-brown, causes GI upset |
-| [[armillaria-mellea]] | Massive rhizomorph networks; terrestrial |
+| [[armillaria-mellea-entity]] | Massive rhizomorph networks; terrestrial |
 | neonothopanus nambi | Brighter glow; grows on dead bamboo and wood |
-
 ## See Also
 
 - bioluminescence
-- [[mycena-purpureofusca]]
 - [[omphalotus-olearius]]
-- [[armillaria-mellea]]
 - [[citric-acid-cycle-tca-krebs-cycle]]
 - [[fungal-ecology]]

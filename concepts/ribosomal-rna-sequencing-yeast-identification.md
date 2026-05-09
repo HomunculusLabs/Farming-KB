@@ -107,11 +107,7 @@ rRNA gene trees may not accurately reflect species trees because:
 
 ## See Also
 
-- [[dna-barcoding-fungal-identification]]
 - [[fungal-phylogeny-kingdom-classification]]
-- [[pcr-methods-fungal-identification-monitoring]]
 - [[yeast-biodiversity-isolation-ecology]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[fungal-rdna-primers-molecular-identification]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[fungal-kingdom-classification]]

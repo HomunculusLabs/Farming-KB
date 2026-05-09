@@ -101,7 +101,9 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 
 ## See Also
 
-- [[permaculture-plants-nitrogen-fixing-trees]]
 - [[fukuoka-white-clover-ground-cover]]
-- [[jeavons-biointensive-spacing]]
 - [[jeavons-natural-pest-control]]
+
+## See Also
+
+- [[jeavons-companion-planting-health-nutrition]]

@@ -3,7 +3,7 @@ title: Protein and Fat Wastewater Fungal Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -67,16 +67,11 @@ Several yeasts are recognized for growth on lipids at pH 3.5-4.0:
 
 ## Competitive Advantages of Low pH Operation
 
-Growth of yeasts at low pH provides a sterilizing effect in continuous systems, as most bacteria cannot grow or compete at pH 3.5-4.0. This eliminates the need for sterile operating conditions and reduces contamination risk in continuous processes. This principle applies broadly across [[fungal-industrial-wastewater-treatment]] applications.
-
-## Applications in Food Industry
-
-Fish oil has been used since 1974 as a substrate for lipolytic yeast cultivation. Atlantic menhaden oil served as substrate for multiple yeast types. The stickwater by-product of fish meal and oil industries is employed for C. lipolytica and G. candidum cultivation, demonstrating broad applicability across protein-fat waste streams. Similar approaches have been applied in [[dairy-wastewater-fungal-treatment]] treatment.
+Growth of yeasts at low pH provides a sterilizing effect in continuous systems, as most bacteria cannot grow or compete at pH 3.5-4.0. This eliminates the need for sterile operating conditions and reduces contamination risk in continuous processes. This principle applies broadly across [[dairy-wastewater-fungal-treatment]] treatment.
 
 ## See Also
 
 - protein fat wastewater fungi -- broader fungal wastewater treatment overview
-- [[dairy-wastewater-fungal-treatment]] -- dairy wastewater fungal treatment
 - [[soybean-oil-wastewater-fungi]] -- soybean oil wastewater treatment
 
 ## Merged: Fungal Treatment Industrial Wastewaters
@@ -127,7 +122,7 @@ Low spore concentration, dilute medium, and low shear stress favor pellet format
 
 ## Wastewater Types and Treatment Approaches
 
-Fungal treatment has been applied to specific industrial wastewater categories including protein-fat wastewaters, [[dairy-wastewater-fungal-treatment]], [[soybean-oil-wastewater-fungi]], [[fungal-treatment-of-distillery-and-brewery-wastes]], and [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]. Each waste stream presents unique characteristics requiring tailored fungal species selection and process optimization.
+Fungal treatment has been applied to specific industrial wastewater categories including protein-fat wastewaters, [[soybean-oil-wastewater-fungi]], [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]. Each waste stream presents unique characteristics requiring tailored fungal species selection and process optimization.
 
 ## Monitoring and Quality Assurance
 

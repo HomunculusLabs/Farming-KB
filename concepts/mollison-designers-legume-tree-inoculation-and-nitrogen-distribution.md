@@ -33,18 +33,7 @@ into crop, water-mulched, or even used as interplant, supplies much
 of the nitrogen for crops.
 
 It is necessary to make sure the trees are inoculated as seed with
-the correct root associates, in the [[mollison-plant-nursery-species-selection]] or in the field. Most agricultural
-departments can supply lists of strains of inoculants, or the
-inoculum itself. Many firms supply inoculum for legume and other
-species.
-
-## Alternative Inoculation Methods
-
-Where commercial inoculants are unavailable, soil from nodulating
-trees can be washed in around newly planted trees, or mixed with
-potting soils. This transfers the native rhizobial strains that
-are already adapted to local soil and climate conditions. For
-[[mollison-designers-seed-pelleting-and-pretreatment]], legume seed
+the correct root associates, in the [[mollison-designers-seed-pelleting-and-pretreatment]], legume seed
 should be soaked in inoculant solution before drying and pelleting.
 
 ## Nitrogen Release from Roots
@@ -58,7 +47,7 @@ continues to benefit the system for years.
 
 Nitrogen, if supplied artificially, quickly leaches in warm rains.
 Legumes, with their slow nitrogen release, are of critical importance
-in any tropical crop situation. This connects to [[mollison-green-manure-soil-fertility]] and [[mollison-mulching-and-soil-health]].
+in any tropical crop situation. This connects to [[mollison-mulching-and-soil-health]].
 
 ## Nitrogen Yield Assessment
 
@@ -98,7 +87,6 @@ be necessary every 2-3 years.
 ## Integration with Coppicing Systems
 
 The nitrogen dynamics of legume trees make them central to
-[[mollison-designers-coppicing-management-of-legume-trees]] and
 [[mollison-avenue-cropping-with-legumes]]. In avenue cropping,
 legume rows are interplanted with crops, and the regular cutting
 cycle provides both mulch and a steady nitrogen supply. The
@@ -109,10 +97,7 @@ is a key design consideration.
 
 Mollison references the mycorrhizal associates of higher plants
 as a key example of mutualism or fair trade between a plant and
-its root associate. The [[mycorrhizal-networks]] extend the
-effective root zone of legume trees, improving nutrient and water
-uptake while receiving carbohydrates from the host. These fungal
-networks also contribute to [[mollison-designers-soil-water-storage-in-forest-systems]] through the humus storage mechanism.
+its root associate. The [[mollison-designers-soil-water-storage-in-forest-systems]] through the humus storage mechanism.
 
 ## Design Implications
 

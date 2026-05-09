@@ -48,20 +48,6 @@ This discovery has profound implications for breeding. By manipulating
 ethylene levels, breeders can reverse the sex of female plants, causing
 them to produce pollen. This practice is the basis for creating
 feminized seeds, or all-female (gynoecious) seedlots. See
-[[cervantes-feminized-seed-production]] for detailed methods.
-
-## Intersexuality and Stress
-
-Intersexuality can be induced in cannabis by a grower's influence as a
-result of an inconsistent growth environment. Environmentally stressed
-female plants have been known to show occasional male flowers. Stress
-conditions that may provoke sexual reversal include an inconsistent
-photoperiod, nutrient toxicities and deficiencies, pH issues, or
-drastically fluctuating temperatures during the flowering cycle.
-
-Females severely stressed for any reason are more prone to develop male
-flowers. These stresses cause changes in the levels of ethylene and
-other hormones within the plant, disrupting normal sex expression. See
 [[cervantes-hermaphrodism-intersexuality]] for more on intersex plants.
 
 ## Hormonal Sex Reversal Products
@@ -118,8 +104,6 @@ the genetic basis of feminized seed production.
 
 ## See Also
 
-- [[cervantes-feminized-seed-production]] - Feminized seed methods
 - [[cervantes-hermaphrodism-intersexuality]] - Intersex plants
-- [[cervantes-sex-determination-pre-flowering]] - Sex identification
 - [[cannabis-genetics-and-breeding]] - Breeding fundamentals
 - [[cervantes-dominance-recessive-traits-alleles]] - Genetic inheritance

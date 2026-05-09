@@ -63,14 +63,7 @@ Neurotropic fungi are found throughout Mexico but are concentrated in the
 southern and central highlands. Key states include Oaxaca, Puebla,
 Veracruz, and Mexico State, which contain the most species. The Sierra
 Mazateca of Oaxaca is particularly famous as the home of Maria Sabina and
-the [[mazatec-mushroom-tradition]]. Highland pine forests, cloud forests, and
-subtropical deciduous forests all support neurotropic species.
-
-## Non-Psilocybe Neurotropic Species in Mexico
-
-Beyond Psilocybe, Mexico hosts significant diversity in other genera.
-Copelandia cyanescens, C. mexicana, and C. tropicalis are found in
-tropical lowland regions. [[gymnopilus-spectabilis-entity]], G. liquiritiae, G.
+the [[gymnopilus-spectabilis-entity]], G. liquiritiae, G.
 sapineus, G. lateritius, and G. subpurpuratus are documented. Hypholoma
 naematoliformis and H. rhombispora are tropical species described from
 Mexico. Conocybe siligineoides, used by the Mazatec, is among the most
@@ -98,28 +91,7 @@ indigenous mushroom traditions with Catholic iconography.
 Mexico's role in the modern scientific study of neurotropic fungi cannot be
 overstated. The Wasson expeditions of the 1950s, the work of Roger Heim at
 the Museum National d'Histoire Naturelle in Paris, and the extensive
-taxonomic contributions of [[gaston-guzman]] were all centered on Mexican fungi.
-The country continues to produce new species descriptions, with recent
-additions including P. isabelae, P. jaliscana, P. laurae, and P.
-villarrealii.
+taxonomic contributions of [[mexico-global-center-neurotropic-fungal-diversity]]
 
-## Conservation Concerns
-
-Habitat destruction through deforestation, agricultural expansion, and
-urbanization threatens Mexican neurotropic fungi. Many species are
-associated with specific forest types (pine-oak, cloud forest, tropical
-deciduous) that are being rapidly degraded. The cultural traditions
-surrounding sacred mushroom use are also endangered by modernization,
-religious conversion, and legal restrictions. International collaboration
-between mycologists, conservationists, and indigenous communities is
-essential to preserve both the biological and cultural heritage of
-Mexican neurotropic fungi for future generations.
-
-## See Also
-
-- [[mexico-global-center-neurotropic-fungal-diversity]]
-
-- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[ethnomycology-cultural-significance-sacred-fungi]]
-- [[traditional-indigenous-use-sacred-fungi]]
 - [[worldwide-distribution-psilocybin-mushrooms]]

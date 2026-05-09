@@ -62,7 +62,7 @@ The pigs like to root up the ground looking for the insects and earthworms they 
 
 Natural selection will take over and those animals adapted to nature will survive. The problem of ticks can be prevented by providing the right environment and raising hardier cattle.
 
-This integrated approach to livestock management anticipates many of the principles later formalized in [[permaculture-food-forest-design-principles]] and [[zone-sector-analysis-guide]].
+This integrated approach to livestock management anticipates many of the principles later formalized in [[zone-sector-analysis-guide]].
 
 The idea that different animals can perform complementary functions within a single landscape -- chickens scratching for insects in cow manure, pigs rooting and turning soil, cows grazing and fertilizing -- is now well-established in permaculture design.
 
@@ -76,9 +76,7 @@ This pursuit of "truth without conditions" is the philosophical core of Fukuoka'
 
 Natural farming seeks principles that hold regardless of conditions -- principles rooted in the fundamental nature of living systems.
 
-The connection between Fukuoka's livestock philosophy and the broader [[fukuoka-natural-farming-philosophy]] is direct: in both cases, the goal is not to optimize production but to align human activity with natural processes, trusting that when this alignment is achieved, production takes care of itself.
-
-[[natural-farming-livestock-integration]] | [[fukuoka-natural-farming-philosophy]] | [[fukuoka-philosophy-of-mu-and-nature]] | [[natural-farming-philosophy]] | [[fukuoka-food-as-strategic-weapon]]
+The connection between Fukuoka's livestock philosophy and the broader [[natural-farming-livestock-integration]] | [[fukuoka-philosophy-of-mu-and-nature]] | [[fukuoka-food-as-strategic-weapon]]
 
 ## Key Points
 

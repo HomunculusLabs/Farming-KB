@@ -1,7 +1,7 @@
 ---
 title: "Accelerated Succession for Gardeners"
 created: 2026-04-28
-tags: [permaculture, succession, ecological-design, pioneer-plants, soil-building]
+tags: [[permaculture, succession, ecological-design, pioneer-plants, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
@@ -82,21 +82,7 @@ locust, Russian olive, autumn olive, alder, and tagasaste grow quickly,
 fix nitrogen, cast shade, and protect more delicate plants. Once the desired
 trees are established, the nurse plants can be removed or managed.
 
-**Sheet mulch to suppress pioneers.** [[hemenway-sheet-mulching-guide]]
-techniques smother weed seeds and pioneer plants while building soil
-directly, skipping the early succession stages that would otherwise dominate.
-
-**Build soil rapidly.** Import organic matter, compost, and mulch to create
-the rich soil that would normally take decades to develop through natural
-decomposition. This removes the soil-fertility limitation that slows
-succession on poor sites.
-
-**Create microclimates.** Rocks, logs, swales, and temporary shade
-structures moderate temperature and moisture extremes, allowing more
-mature-community species to survive while the larger ecosystem catches up.
-
-**Plant in guilds and communities.** Rather than planting individual species
-in isolation, create [[hemenway-guild-design-roles-and-assembly]]
+**Sheet mulch to suppress pioneers.** [[hemenway-guild-design-roles-and-assembly]]
 where species support each other, mimicking the interdependent plant
 communities found in mature ecosystems.
 
@@ -127,9 +113,6 @@ Understanding succession helps gardeners in several practical ways:
 
 ## See Also
 
-- [[hemenway-ecological-principles-niche-succession-biodiversity]] for the
-  theoretical foundation
 - [[permaculture-forest-garden-design]] for the end goal of succession
-- [[hemenway-sheet-mulching-guide]] for the primary soil-building technique
 - [[hemenway-native-versus-exotic-plants-debate]] for how succession relates
   to invasive species

@@ -5,36 +5,8 @@ updated: 2026-04-24
 sources:
   - William Falconer - Mushrooms: How to Grow Them (1891)
 type: concept
-tags: [mushroom-cultivation]
----
-# Falconer Mushroom Bed Construction and Management
-Falconer's Chapters VII through XIV provide exhaustive detail on every
-aspect of mushroom bed construction, from [[falconer-manure-for-mushroom-beds]] selection and
-preparation through [[falconer-making-up-mushroom-beds]], [[falconer-mushroom-spawn-preparation]]ing, [[falconer-earthing-over-the-beds]], and
-ongoing management.
-
-## Manure for Mushroom Beds
-The questions of manure and spawn were, in Falconer's view, the two most
-important in mushroom-growing. Success with manure depended entirely on
-the grower.
-
-### Best Manure
-The very best manure came from strong, healthy, hard-worked, well-kept
-animals liberally fed with timothy hay and grain, bedded with straw that
-had been well wetted with urine and trampled underfoot. Farm and
-teamsters' stables produced better manure than "stylish establishments"
-kept scrupulously dry and clean. The fresher the manure, the better,
-though cellar-stored manure of a couple months was still first rate.
-
-### Manure of Mules
-Regarded as next in value to that of entire horses, and some French
-growers considered it equal. Mr. John G. Gardner had an extraordinary
-crop from clean mule droppings from coal mines.
-
-### Cellar Manure
-Manure dropped into stables' cellars (accumulated over weeks or months)
-was splendid if not too dry and "fire-fanged." Hog manure was to be
-strictly avoided -- [[agaricus-bisporus]] evades it, and it propagates noxious insect
+tags: [[falconer-manure-for-mushroom-beds]] selection and
+preparation through [[falconer-mushroom-spawn-preparation]]ing, [[agaricus-bisporus]] evades it, and it propagates noxious insect
 vermin.
 
 ### City Stable Manure
@@ -91,38 +63,7 @@ but dry enough that no water could be squeezed out. "Far better fail on
 the side of dryness than on that of wetness."
 
 ### Loam and Manure Mixed
-One-third or one-fourth [[falconer-loam-for-mushroom-beds]] to two-thirds or three-fourths manure. Loam
-was added in 3-4 inch layers at each turning to arrest evaporating
-ammonia. This mixed material did not heat as high as plain manure.
-
-## Making Up the Beds (Chapter IX)
-
-### Thickness
-- Floor beds: 9-15 inches deep (9 inches for plain manure in warm
-  quarters, 10-14 inches for manure-loam mix).
-- Cool houses: a few inches deeper to maintain steady warmth.
-- Shelf beds: generally 9 inches (depth of one board).
-
-### Shapes
-Flat beds were commonest and most convenient where shelves were also used.
-Ridged or rounded bank shapes against walls were also used.
-
-### Construction Method
-1. Bring in prepared manure, shake up loosely, spread evenly.
-2. Beat down firmly with back of fork; tread firmly on floor beds.
-3. Properly prepared manure should be firm yet springy; poorly prepared
-  wet manure would pack like wet rotten dung.
-4. Insert thermometer; in tight cellars, spread straw/hay loosely over
-   bed to prevent condensation wetting.
-5. Remove covering at spawning time when bed has cooled to 80-90 degrees.
-
-### Temperature Targets
-- Ideal maximum heat: 120-125 degrees F.
-- If above 135 degrees: fork over surface 2-3 inches deep to release heat,
-  then recompact.
-- Alternative: bore holes with crowbar, fill with dry pulverized loam
-  when heat subsides (never leave open -- they become wet "sweat holes").
-- Too high [[falconer-proper-temperature-for-mushrooms]] wasted manure substance, dried the interior, and
+One-third or one-fourth [[falconer-proper-temperature-for-mushrooms]] wasted manure substance, dried the interior, and
   starved the crop.
 - Beds that never exceeded 100-110 degrees still produced excellent crops.
 - Firmly built beds warmed more slowly but retained heat longer.

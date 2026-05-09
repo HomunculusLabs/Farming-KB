@@ -3,53 +3,7 @@ title: Fungal Degradation of PCBs and Dioxins (Singh)
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, remediation, research]
-sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
----
-
-# Fungal Degradation of PCBs and Dioxins (Singh)
-
-## Polychlorinated Biphenyls (PCBs)
-
-### Background
-PCBs are chlorinated biphenyl compounds (C12H10-nCln) containing 1-10 chlorine atoms, yielding 209 possible congeners. Approximately 150 congeners are known in the environment. PCBs were manufactured from the 1920s to 1978 and used in adhesives, printing, surface coatings, plastics, lubricants, dielectric fluids (capacitors and transformers), hydraulic fluids, and fire retardants.
-
-PCBs are among the most widespread and recalcitrant environmental contaminants:
-- Persist for several decades in soil, sediment, and water
-- Bioaccumulate in fatty tissues of organisms at higher trophic levels
-- Carcinogenic, mutagenic, teratogenic, and endocrine-disrupting
-- Regulated under the U.S. Toxics Substances Control Act (TSCA) and CERCLA/Superfund
-- Phased out worldwide during the 1970s
-
-### Bioavailability Challenges
-Seven mechanisms limit PCB bioavailability for bioremediation:
-1. Sorption to soil organic matter
-2. Non-aqueous-phase liquid (NAPL) partitioning
-3. Micropore and nanopore sequestration
-4. Organic complexation
-5. Insolubility
-6. Absorption into native organic matter
-7. Aging effects: PCBs become increasingly sequestered over time
-
-Surfactants and organic cosolvents can enhance PCB solubility but may be toxic to microorganisms at high concentrations. Cyclodextrins offer biodegradable alternatives.
-
-## Fungal Degradation of PCBs
-
-### Filamentous Fungi
-Several fungal genera hydroxylate biphenyl and chlorinated biphenyls through cytochrome P450 monooxygenase systems:
-
-- **Aspergillus niger**: Degrades lower chlorinated PCBs in Clophen A30; produces hydroxylated trichlorobiphenyls and dichloro/trichlorobenzoic acids
-- **Cunninghamella elegans**: Hydroxylates biphenyl to 2-, 3-, and 4-hydroxybiphenyls and 4,4'-dihydroxybiphenyl; 44% of metabolites are water-soluble glucuronides and sulfate conjugates
-- **Cunninghamella echinulata**: Produces 3-aryl muconolactones from para-substituted biphenyls
-- **Rhizopus japonicus**: Converts 4-chlorobiphenyl and 4,4'-dichlorobiphenyls to hydroxylated metabolites
-
-### Yeasts
-- **Trichosporon mucoides**: Transforms biphenyl to mono-, di-, and trihydroxylated products; ring fission produces phenyl derivatives of hydroxymuconic acids and corresponding pyrones (all considerably less toxic than hydroxylated derivatives)
-- **Debaryomyces vanrijiae**: Oxidizes biphenyl to 4-hydroxybiphenyl (main) and 2-hydroxybiphenyl (minor); further oxidation produces 3,4-dihydroxybiphenyl and 4-phenylmuconolactone
-
-### White-Rot Fungi
-White-rot fungi are the most effective PCB degraders due to their non-specific [[fungal-ligninolytic-enzyme-systems-overview]]:
+tags: [[fungal-ligninolytic-enzyme-systems-overview]]:
 
 **Key species and performance:**
 
@@ -121,14 +75,7 @@ PCBs and dioxins affect agricultural environments through:
 - Atmospheric deposition on cropland
 - Sewage sludge application containing PCB residues
 - Fungal bioremediation offers a low-cost approach for restoring contaminated agricultural land
-- Integration with [[bioremediation-ecosystem-restoration]] enables vegetation establishment on remediated sites
-
-## Related Topics
-
-- [[fungal-ligninolytic-enzyme-systems-overview]]
-- [[fungal-bioremediation]]
+- Integration with [[fungal-ligninolytic-enzyme-systems-overview]]
 - [[mycoremediation-basics]]
-- [[singh-fungal-metabolism-pahs]]
 - [[staycare-fungal-pesticide-pop-degradation]]
-- [[fungal-bioaugmentation-inoculation]]
 - [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]

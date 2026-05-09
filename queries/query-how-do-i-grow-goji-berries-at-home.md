@@ -138,11 +138,7 @@ Goji berries are remarkably pest-resistant, but watch for:
 
 ## See Also
 
-- [[query-how-to-grow-chickpeas-at-home]]
-
 - [[query-how-to-grow-black-currants-at-home]]
-
-- [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 
 - [[query-how-to-grow-sprouts-and-microgreens-at-home]]
 

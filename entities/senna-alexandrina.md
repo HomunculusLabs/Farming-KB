@@ -134,11 +134,8 @@ Average sennoside content in dried leaves ranges from 1.5–3.0%, with quality s
 
 ## See Also
 
-- [[aloe-vera]]
 - [[rheum-palmatum]]
-- [[glycyrrhiza-glabra]]
 - [[hypericum-perforatum]]
-- [[valeriana-officinalis]]
 - [[ocimum-sanctum]]
 - [[ziziphus-jujuba]]
-- [[tinospora-cordifolia]]
+- tinospora-cordifolia

@@ -104,19 +104,13 @@ causes less airway irritation and inflammation than inhaling pure THC.
 
 Terpenoid production is influenced by growing conditions. Warmer
 temperatures bring out more smell, which is associated with higher
-THCV concentrations. The [[cervantes-flowering-phase]] environment
-including temperature, light spectrum, and nutrient availability all
-affect the terpenoid profile. See [[cannabis-advanced-growing-techniques]] for details on how resin gland development correlates with
+THCV concentrations. The [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] for details on how resin gland development correlates with
 terpenoid and cannabinoid production.
 
 ## Related Concepts
 
-- [[cervantes-cannabinoids-thc-cbd-chemistry]] - the cannabinoid
-  companions to terpenoids in the entourage effect
-- [[cannabis-advanced-growing-techniques]] - glandular trichomes
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - glandular trichomes
   produce both terpenoids and cannabinoids
-- [[cervantes-harvest-timing-trichome-ripeness]] - harvest timing
-  affects terpenoid maturity
 - [[cervantes-strain-selection]] - genetic factors in terpenoid
   profiles
 - [[cervantes-indica-sativa-ruderalis-differences]] - terpenoid

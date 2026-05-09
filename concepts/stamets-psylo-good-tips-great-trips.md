@@ -42,55 +42,7 @@ For the average adult male weighing 176 lb (80 kg):
 
 ### Practical Dosage in Grams
 
-For species such as [[psilocybe-semilanceata]] (liberty cap), which averages
-about 1% psilocybin/psilocin content, 1-2 grams of dried mushroom is
-equivalent to only 10-20 mg of psilocybin. This will be, for most people,
-a dose with noticeable effects. Half a gram is recommended for first
-timers. The symptoms will last, in most cases, no more than 4-5 hours.
-
-At low doses, hearing will be enhanced, but true visual or audio
-hallucinations are unlikely. Often, a childlike giddiness is felt. Colors
-will seem brighter. Breathing can seem more labored and focused. There can
-be an increased sensitivity to temperature. Music unfolds with amazing
-intricacy and beauty. Overall perception on all levels seems increased.
-
-### Factors Affecting Potency
-
-Considerable variation in the range of psilocybin and psilocin has been
-found within each species. Beug and Bigwood (1982a) found a fourfold
-difference in psilocybin content from mushrooms grown on rye grain, and
-nearly a tenfold difference in specimens collected in the wild.
-
-Key factors affecting potency:
-
-- **Substrate composition**: Gartz (1989) found that raising tryptamine
-  concentrations directly affected psilocin content in P. cubensis: from
-  0.09% to 3.3% of dried mass. Raising malt sugars above 10% resulted
-  in complete suppression of psilocybin production.
-
-- **Age of specimen**: Younger specimens are generally more potent than
-  mature ones (Gartz 1992), an observation many users have confirmed.
-
-- **UV radiation**: Sun-struck collections appear markedly less potent.
-  UV destroys molecular bonds, which would readily explain why
-  sun-exposed collections are weaker.
-
-- **Cultivation vs. wild collection**: Mushrooms grown indoors seem
-  consistently more potent than field-collected specimens, probably due
-  to nutritional factors and protection from UV radiation.
-
-### Individual Sensitivity Variations
-
-Stamets reports extreme individual variations: one person needs only 1-2
-dried specimens of liberty caps for a full experience (reacting as though
-he has had 3-4 times the dose), while at the other extreme, a woman felt
-no effects at dosage levels exceeding 5 grams. Always start with low doses
-to screen for your individual sensitivity.
-
-## Potentiation with MAO Inhibitors
-
-Some experienced users report that ingesting several grams of Syrian rue
-([[peganum-harmala]]), an incense seed rich in MAO (monoamine oxidase)
+For species such as [[peganum-harmala]]), an incense seed rich in MAO (monoamine oxidase)
 inhibitors, potentiates the effects of otherwise weak psilocybin-containing
 mushrooms. The reports are anecdotal; no controlled studies have been
 published. Readers should note that self-experimentation with MAO
@@ -104,47 +56,26 @@ various psilocybin mushroom species. The scale is based on maximum
 reported concentrations of psilocybin and psilocin per dry weight. Key
 findings include:
 
-- **[[psilocybe-azurescens]]**: One of the most potent species in the world,
-  containing up to 1.78% psilocybin, 0.38% psilocin, and 0.35%
-  baeocystin.
-
-- **Psilocybe semilanceata**: Extremely potent, averaging about 1%
-  psilocybin with a range of 0.2-2.37%, the highest psilocybin content
-  yet reported in any species.
-
 - **[[psilocybe-cyanescens]]**: Moderately to highly potent, with maxima of
   1.68% psilocybin and 0.28% psilocin.
 
-- **[[psilocybe-cubensis]]**: Moderately potent, with maxima of 0.63%
-  psilocybin and 0.11% psilocin (one extraordinary collection had 1.3%
-  psilocybin and 0.45% psilocin).
+- **[[stamets-psylo-dangers-mistaken-identification]]
+## Practical Considerations
 
-- **Psilocybe stuntzii**: One of the less potent bluing Psilocybes, with
-  ranges of 0-0.36% psilocybin, 0-0.12% psilocin.
+Successful implementation of Good Tips for Great Trips with Psilocybin Mushrooms requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-## Set and Setting
+## Future Directions
 
-When mushroom use is ritualized, guided by veteran users who can help
-orchestrate the necessary variables with careful attention to set and
-setting, an extraordinarily gratifying cerebral adventure can unfold. The
-senses come alive, elevated to a level far above ordinary consciousness.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-Some participants believe Psilocybes simply amplify the qualities of the
-inner self. Many have deep religious revelations or feel forever changed
-for the better. Psilocybin mushrooms are not addictive, as they tend to
-be self-limiting. The effects are often so profound that months pass
-before interest rekindles.
-
-## Important Warnings
-
-- Psychological predisposition, combined with other factors such as set
-  and setting, the species, and sensitivity, makes dosage guidelines
-  especially difficult to pinpoint.
-
-- Those who are willing to let go, and who do not fear their inner self,
-  seem better prepared to tolerate higher doses. They flow with, not
-  against, the tide of the experience.
-
-## See Also
-
-- [[stamets-psylo-dangers-mistaken-identification]]

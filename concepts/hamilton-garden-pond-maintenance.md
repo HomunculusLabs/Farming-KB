@@ -84,13 +84,7 @@ If you keep ornamental fish, include a very shallow area (no more than 2 inches/
 
 ## Related Concepts
 
-- [[hamilton-rock-garden-design]]
 - [[pdc-aquaculture-basics]]
-- [[mollison-pond-design-freshwater-aquaculture]]
 - [[faires-pond-design-and-aquaculture]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book
 - [[gaias-garden-cover-crops-soil-building]]
-- [[mollison-fish-pond-construction]]
 - [[hamilton-shade-garden-plants]]

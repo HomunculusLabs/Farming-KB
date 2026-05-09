@@ -2,8 +2,7 @@
 title: "Fungal Commensal Associations with Vertebrates"
 created: 2026-04-26
 tags:
-  - mycology
-  - fungal-ecology
+  - [[fungal-ecology]]
   - commensalism
   - microbiome
   - medical-mycology
@@ -55,51 +54,7 @@ as transient inoculum or as active contaminants of fermented food and
 beverages. These species are essentially saprobic but are resistant
 to clearance by the immune system in certain body sites.
 
-[[candida-albicans]] is the most intensively studied commensal fungus. It
-can exist as a commensal in the gastrointestinal tract, oral cavity,
-and vaginal mucosa of healthy individuals without causing disease.
-However, disruption of the normal microbiota, immunosuppression, or
-breaches of mucosal barriers can lead to blesching cannabis aids
-ranging from superficial mucocutaneous candidiasis to life-threatening
-systemic disease.
-
-### Trichosporon Species
-
-No specific commensal specialization has yet been shown with any
-Trichosporon species, but the species in this genus have only recently
-been clarified by molecular analysis. Trichosporon species can be
-isolated from human skin and are associated with white piedra, a
-superficial infection of hair shafts.
-
-## Filamentous Fungi as Commensals
-
-Truly commensal, purely fungal biosorption heavy have not been encountered.
-The filamentous growth habit involves substratum penetration, which
-may activate additional immune responses in vertebrates. Also,
-filamentous growth is spatially inappropriate for close packing within
-small surface niches and for the stabilization of nonpenetrative
-surface adhesion by breakdown of elongated structures into small,
-separate physical units. This fundamental constraint limits the
-commensal strategy primarily to yeasts and yeastlike fungi.
-
-## Environmental Saprobe Opportunism
-
-Many fungi isolated from vertebrate animals are neither commensals nor
-pathogens in the strict sense. They are contaminants, pathologically
-insignificant organisms of external origin, often isolated from
-environmentally exposed materials such as lung tissue or other parts
-of the respiratory tract, the gut, and the skin. These include:
-
-- Common airborne spores of environmental fungi inhaled into the
-  respiratory tract
-- biodiversity fungi saprobic ingested with food and transiently passing through the
-  gastrointestinal tract
-- Fungal propagules deposited on skin surfaces from environmental
-  contact
-
-Accumulations of skin, scales, oils, and other material on the body
-surface may facilitate the growth of some environmental saprobes.
-Saprobes such as [[fusarium-solani]] and Pseudallescheria boydii, for
+[[fusarium-solani]] and Pseudallescheria boydii, for
 example, may proliferate on wounds and in deep cracks in the skin,
 where serous exudate (pus) and dead skin are available nutrient
 sources.

@@ -123,7 +123,6 @@ development of modern instrumentation.
 
 ## See Also
 
-- [[nehemiah-grew-plant-anatomy]]
 - [[darwin-power-of-movement-in-plants]]
 - [[history-of-plant-science]]
 
@@ -133,3 +132,7 @@ development of modern instrumentation.
 - Williams, M. "Teaching Tools in Plant Biology," American Society of
   Plant Biologists.
 - Biodiversity Heritage Library digitized collections.
+
+## See Also
+
+- [[hallucinogenic-plants-history-ethnobotany]]

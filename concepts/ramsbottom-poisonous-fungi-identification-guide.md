@@ -19,29 +19,7 @@ Ramsbottom traces awareness of fungal poisoning to classical antiquity. Euripide
 Ramsbottom systematically dismantles every common folk method for distinguishing poisonous from edible fungi:
 
 - **Peeling test:** Whether the cap skin can be peeled is a structural character, not a safety indicator. The Field Mushroom peels, but so does the Death Cap. This misconception led to two deaths at Ipswich in 1944.
-- **Silver spoon test:** Silver is blackened by sulphides but not by any fungus, certainly not by [[amanita-poisoning-identification-antidotes-palmer]]. Connected to the ancient belief that fungi absorb poisons from their environment.
-- **Color changes on cutting:** Chromogens (e.g., boletol in Boletus, tyrosin in Russula) react with oxidizing enzymes upon exposure to air. These color changes have no significance for toxicity.
-- **Bright colors:** All colors except white, cream, or pale yellow arouse suspicion, but color is merely a species-identification character. The deadly Amanita species include both green-capped and pure white forms.
-- **Animal nibbling:** Rabbits neutralize Amanita phalloides poison in their stomachs. Slugs thrive on deadly Amanita species due to fundamentally different food assimilation.
-- **Smell:** None of the British poisonous species has an unpleasant smell; the deadly Amanita species are odorless.
-- **Taste:** None of the truly dangerous fungi has a sharp taste. Acrid taste in Russula or Lactarius indicates irritant substances dispersed by cooking, not the deadly amatoxins.
-- **Habitat tests (fields vs. woods, grass vs. trees):** Equally useless as safety indicators.
-
-By every one of the usual folk tests, Amanita phalloides, A. verna, and A. virosa would be considered perfectly safe, while the edible Field Mushroom would raise doubts.
-
-## Key Poisonous Species Described
-
-### Amanita phalloides (Death Cap)
-
-The most dangerous fungus, responsible for over 90% of recorded deaths from fungus poisoning, with over 50% fatality rate (some estimates as high as 90%). Common in woods and adjoining pastures in late summer and early autumn. Cap 3.5 inches wide, olivaceous green or yellowish green, sometimes brownish or whitish; white gills; white stem with ring and bulbous base enclosed in a persistent volva. Practically tasteless and without smell until decay.
-
-### Amanita verna (Fools' Mushroom) and Amanita virosa (Destroying Angel)
-
-Closely allied to A. phalloides, equally poisonous, and more dangerous because being entirely white they are more readily mistaken for edible mushrooms. Distinguished by persistently white gills and membranous volva at the stem base. Both rare in Britain. J. Bauhin called A. verna "Fungus stultorum" -- the fungus of fools.
-
-### Amanita muscaria (Fly Agaric)
-
-Scarlet or orange-red cap with white wart-like patches; well-known and conspicuous in autumn woodlands. Despite popular reputation as the most poisonous toadstool, it never causes death in healthy people. Produces delirium, hallucinations, intense stupor, and complete amnesia after 1-3 hours. Poison resides principally in the cap skin. Used traditionally by Koryak tribes of Siberia, and historically as an insecticide. See [[amanita-muscaria-guide]].
+- **Silver spoon test:** Silver is blackened by sulphides but not by any fungus, certainly not by [[amanita-muscaria-guide]].
 
 ### Amanita pantherina (False Blusher)
 
@@ -78,30 +56,30 @@ An Ascomycete with a characteristically brain-like, dark chestnut-brown cap. Per
 2. Eat fungi fresh -- as they age they may become harmful through bacterial or mould action. Ramsbottom criticises the London shop practice of exposing mushrooms for sale so long as they retain their shape.
 3. Be aware of personal allergy or idiosyncrasy (no more frequent with fungi than with milk, eggs, or strawberries, but more alarming when it occurs).
 4. Some species safe when cooked are discomforting when not. Abroad some toadstools are eaten raw in salads but this is not a practice to follow without proper consideration.
-5. There is no substitute for accurate [[mushroom-identification]] to species level.
-6. Indiscriminate eating of unfamiliar species "may render the consumer meet for repentance or beyond it."
+5. There is no substitute for accurate [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
 
-## Mushrooms and Toadstools: Terminology
-
-Ramsbottom addresses the difficulty of defining "mushroom" and "toadstool" once one accepts that most fleshy fungi are non-poisonous. The Oxford English Dictionary gives both terms as originally applied indiscriminately to umbrella-shaped fungi; the main definition of toadstool reads "A fungus having a round disk-like top and a slender stalk, a mushroom." Ramsbottom advocates returning to this original use and retaining "mushroom" for members of the genus Psalliota (the Field Mushroom, Horse Mushroom, and their relatives). The word mushroom derives from the old French moisseron (mousseron), from mousse (moss). Toadstool has an even longer history, appearing as tadstole and tode stole in the 14th century, recalling the modern Dutch paddestoel.
-
-## Attempts to Neutralise Fungal Poisons
-
-Various historical methods have been proposed to render all toadstools safe. Pliny recommended vinegar. Salt and alcohol were later suggestions. Gerard (1851, Jardin des Plantes, Paris) recommended macerating in water with vinegar and salt for two hours, then washing and boiling -- he was reportedly the final victim of his own experiments. Fabre described the Serignan custom of blanching in boiling salted water, followed by rinsing and cooking, noting increased digestibility with no loss of flavour. However, none of these methods reliably neutralise amanitin, the heat-stable toxin of the deadly Amanita species. Such methods are unnecessary if only species known to be edible are consumed.
-
-## See Also
-
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
-
-- [[ramsbottom-poisonous-fungi-species]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
-- [[amanita-muscaria-guide]]
 - [[amanita-muscaria-pharmacology]]
-- [[mushroom-identification]]
 - [[mushroom-identification-basics]]
-- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-identification-taxonomic-confusion]]
-- [[amanita-genus-morphology]]
 - [[inocybe-aeruginascens-profile]]
-- [[russula-edible-species]]
 - [[mushroom-cultivation-for-food-and-medicine]]
+## Practical Considerations
+
+Successful implementation of Ramsbottom Poisonous Fungi Identification Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

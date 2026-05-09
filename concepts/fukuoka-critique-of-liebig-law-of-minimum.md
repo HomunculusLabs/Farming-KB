@@ -86,11 +86,7 @@ Fukuoka's critique of Liebig's law undermines the intellectual foundation of con
 
 ## Related
 
-- [[liebig-law-of-minimum-critique-natural-farming]] Concepts
-
 - [[fukuoka-illusions-of-scientific-farming]]
-- [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]
 - [[non-causality-in-nature]]
-- [[fukuoka-relative-merits-natural-scientific-agriculture]]
 - [[natural-farming-philosophy-of-mu]]
 - [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]

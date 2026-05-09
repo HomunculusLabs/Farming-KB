@@ -64,10 +64,24 @@ The preparation method significantly affects the psychoactive profile. Drying co
 
 Accurate identification is critical, as *A. gemmata* can be confused with other Amanita species, some of which are deadly poisonous.
 
+## Similar Species
+
+*A. gemmata* is most commonly confused with three lookalike species:
+- **A. pantherina** (panther cap) has darker brown cap scales, a more
+  pronounced volva with distinct concentric rings at the stem base, and
+  typically grows in autumn under deciduous trees. It contains higher levels
+  of ibotenic acid and is considered more toxic.
+- **A. muscaria** (fly agaric) is larger with bright red or orange cap
+  coloration and more prominent white warts. The volva forms distinct rings
+  of scales around the bulbous stem base rather than a membranous sac.
+- **A. flavoconia** (yellow patches) has a bright yellow cap with powdery
+  yellow warts and a more fragile volva. It is found primarily in eastern
+  North American hardwood forests.
+
 ## See Also
 
-- [[amanita-muscaria-sacramental-wine-preparation]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
-- [[amanita-muscaria-feathered-serpent-phoenix]]
 - [[amanita-muscaria-guide]]
-- [[ethnomycology]]
+- ethnomycology
+
+See also: [[amanita-mushrooms-history-chemistry-and-cultural-significance]]

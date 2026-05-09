@@ -112,6 +112,7 @@ Ducks and ponds are synergistic — see [[duck-keeping]] for duck-specific care.
 - Can be dried and stored as winter feed
 - **Caution**: Treat as crop, not weed. Manage aggressively or it blankets the pond.
 
+
 ## See Also
 
 - [[pond-maintenance-and-troubleshooting]] — Water quality, feeding, harvest, winter care, predator control

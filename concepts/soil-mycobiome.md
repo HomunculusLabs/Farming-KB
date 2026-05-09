@@ -1,7 +1,7 @@
 ---
 title: Soil Mycobiome
 created: 2026-04-28
-tags: [mycology, soil-science, ecology, microbiome]
+tags: [[mycology, soil-science, ecology, microbiome]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -117,8 +117,6 @@ in species richness.
 
 ## See Also
 
-- [[fungal-diversity-estimates]]
 - [[mycorrhizal-fungi]]
-- [[fungal-endophytes]]
 - [[environmental-dna-metabarcoding]]
 - [[biodiversity-fungi-tropical-fungal-diversity]]

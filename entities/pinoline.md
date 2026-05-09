@@ -107,16 +107,10 @@ Research into pinoline's therapeutic potential has focused on several areas, tho
 
 ## See Also
 
-- [[harmine]]
 - [[harmaline]]
-- [[tetrahydroharmine]]
 - [[harmalol]]
-- [[dmt]]
 - [[psilocin]]
-- [[psilocybin-compound]]
-- [[5-meo-dmt]]
-- [[beta-carboline]]
+- [[5-meo-dmt-entity]]
 - [[banisteriopsis-caapi]]
-- [[ayahuasca-preparation-and-ceremony]]
 - [[tryptamine]]
 - [[serotonin]]

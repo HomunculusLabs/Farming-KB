@@ -107,10 +107,5 @@ Children helped plant fruit trees including mango, papaya, and many others, chos
 5. **Local materials first**: clay in Thailand, heather and pine in Scotland
 6. **Excavator as primary tool**: Holzer consistently uses machine excavation for initial earthworks, then hand management
 
-See also: [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-pond-construction]], [[holzer-permaculture-landscape-design]], [[permaculture-site-assessment-checklist]], [[permaculture-earthworks]]
-
-## Related
-
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
+See also: [[sepp-holzer-pond-construction]], [[permaculture-site-assessment-checklist]], [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[hamilton-garden-planning-and-site-assessment]]

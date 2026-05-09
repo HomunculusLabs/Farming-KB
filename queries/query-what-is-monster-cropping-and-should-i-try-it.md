@@ -27,10 +27,7 @@ that occurs when a flowering plant is forced back into vegetative growth.
 Experienced growers popularized this method after noticing that reverted
 flowering clones produced unusually bushy, multi-branched plants.
 
-The process begins during the early [[cannabis-flowering-stage]]. After a mother
-plant has been in flower for approximately 14 to 21 days, you select healthy
-lower branches for cuttings. You take these cuttings just as you would with
-standard [[cannabis-cloning]] practices and rooting methods. The key difference
+The process begins during the early [[cannabis-cloning]] practices and rooting methods. The key difference
 is the timing of when you take the clones from the mother plant.
 
 These cuttings have already been exposed to the flowering hormone signal for
@@ -48,41 +45,7 @@ as long as the plant continues producing new green growth.
 
 Once the clone fully reverts to vegetative growth, it begins producing an
 extraordinary number of new branches and growth sites. This bushy structure is
-the hallmark of a successfully [[monster-cropping]] plant. Instead of growing a
-single main cola, the plant develops dozens of secondary branches. Each of
-these secondary branches is capable of producing a significant bud site.
-
-The result is a plant with far more potential flowering sites than a standard
-clone would ever develop. This proliferation of growth sites is what makes
-monster cropping so effective for boosting overall harvest yields. The
-underlying biology involves the plant's response to hormonal shifts during the
-transition period. During early flowering, the plant has begun building calyx
-sites and pistil structures in response to shorter light hours.
-
-When light hours are increased again, auxin production shifts dramatically. The
-plant then attempts to resume vegetative growth from every available node. This
-results in prolific branching across the entire plant structure. The reverted
-plant essentially tries to regrow everything at once, creating the
-characteristic bushy appearance that gives the technique its monster name.
-
-Yield increases from monster cropping can be substantial and are one of the
-primary reasons growers attempt this technique. Many growers report 20 to 50
-percent greater yields compared to plants grown from standard vegetative clones.
-The even canopy and multiple colas allow more light penetration to lower bud
-sites. This enhanced light distribution means more bud sites receive adequate
-light intensity throughout the day.
-
-More light reaching more bud sites directly translates to larger, denser
-flowers at harvest time. Monster cropping eliminates the problem of under-
-developed popcorn buds by creating an even, flat canopy where all bud sites
-receive similar light levels. Many growers find this uniformity just as
-valuable as the total yield increase it provides.
-
-However, monster cropping is not without significant drawbacks that growers
-should consider carefully. The re-vegetation phase adds two to four weeks to the
-total grow time compared to using standard vegetative clones. This extended
-timeline means you need to plan your schedule accordingly. For growers running
-a [[query-how-to-run-perpetual-cannabis-harvest-cycle]],
+the hallmark of a successfully [[query-how-to-run-perpetual-cannabis-harvest-cycle]],
 monster cropping requires careful timing to maintain continuous production.
 
 Not all cannabis strains respond equally well to monster cropping techniques.
@@ -98,16 +61,12 @@ Fahrenheit and humidity between 60 and 70 percent gives the clone the best
 chance of recovering. One risk of monster cropping is the increased potential
 for hermaphroditism due to hormonal stress.
 
-Monitoring for [[query-how-to-prevent-hermaphrodite-cannabis-plants]] is essential throughout the re-vegetation period. The
-[[cannabis-pruning-and-defoliation-guide]] becomes especially important with
+Monitoring for [[cannabis-pruning-and-defoliation-guide]] becomes especially important with
 monster-cropped plants because they develop so many branches. Selective pruning
 prevents the canopy from becoming too dense. Removing lower branches that
 receive little light improves airflow throughout the plant.
 
-[[defoliation-cannabis]] should be performed strategically throughout the
-vegetative phase. Removing large fan leaves that shade bud sites during the
-first three weeks of flowering allows light to penetrate deeper into the
-canopy. [[topping-cannabis]] can be combined with monster cropping for even
+[[topping-cannabis]] can be combined with monster cropping for even
 more extreme branching potential. This combination creates incredibly wide,
 bushy plants with dozens of main colas of similar size.
 
@@ -125,7 +84,7 @@ often requires more physical support due to the heavy number of bud sites.
 Some growers use monster cropping specifically to fill large grow spaces
 efficiently. A single monster-cropped plant can easily fill a three by three
 foot area, making it excellent for growers with strict plant count limits. For
-more strategies, see the [[query-which-cannabis-training-techniques-produce-highest-yields]] and the [[query-how-to-clone-cannabis-plants-step-by-step]].
+more strategies, see the [[query-how-to-clone-cannabis-plants-step-by-step]].
 
 ## Key Points
 
@@ -136,14 +95,6 @@ more strategies, see the [[query-which-cannabis-training-techniques-produce-high
 - Re-vegetation adds two to four weeks to the total grow timeline and requires
   patience and stable environmental conditions
 - Not all strains respond well; indica-dominant varieties tend to perform best
-- Proper [[cannabis-cloning]] technique and monitoring for hermaphrodites are
-  essential for success with this method
-- Combining monster cropping with [[topping-cannabis]] and [[defoliation-cannabis]]
-  further maximizes yield potential
-
-## Related Questions
-
-- [[query-how-to-clone-cannabis-plants-step-by-step]]
-- [[query-which-cannabis-training-techniques-produce-highest-yields]]
+- Proper [[topping-cannabis]] and [[query-how-to-clone-cannabis-plants-step-by-step]]
 - [[query-how-to-run-perpetual-cannabis-harvest-cycle]]
 - [[query-how-to-prevent-hermaphrodite-cannabis-plants]]

@@ -39,14 +39,7 @@ produced by sound.
 
 The mechanism by which plants detect sound is best understood as an extension
 of their general mechanosensory capabilities, the same systems underlying
-[[plant-thigmomorphogenesis-what-a-plant-feels]]. Sound waves are, after all,
-mechanical vibrations travelling through a medium such as air, water, or soil.
-When these vibrations reach a plant, they cause microscopic deformations of
-cell membranes, which can activate mechanosensitive ion channels.
-
-Research has shown that plants can respond to specific vibration frequencies.
-In a landmark 2014 study, researchers at the University of Missouri found that
-*[[arabidopsis-thaliana]]* plants exposed to the recording of a caterpillar
+[[arabidopsis-thaliana]]* plants exposed to the recording of a caterpillar
 feeding vibration produced elevated levels of defensive chemicals (glucosinolates
 and anthocyanins). Crucially, plants exposed to other vibrations (wind, insect
 song, or silence) did not produce the same defensive response. This suggests
@@ -131,7 +124,6 @@ interpretations.
 
 ## See Also
 
-- [[plant-thigmomorphogenesis-what-a-plant-feels]]
 - [[plant-olfaction-what-a-plant-smells]]
 - [[plant-gravitropism-and-spatial-awareness]]
 - mechanosensitive ion channels

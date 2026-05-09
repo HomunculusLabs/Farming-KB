@@ -35,17 +35,7 @@ small brown or tan necrotic spots develop within the yellowed areas between the
 veins. These spots give the leaves a speckled or mottled appearance that helps
 differentiate manganese deficiency from the others. Symptoms appear on younger
 leaves first because manganese has low mobility within the plant. The
-[[cannabis-manganese-nutrient]] page provides detailed photographs comparing
-manganese deficiency to other look-alike conditions for accurate diagnosis.
-
-pH management is the most critical factor in preventing and correcting manganese
-deficiency. Manganese availability follows a narrow pH window: it is most available
-between pH 5.0 and 6.0, and becomes increasingly locked out as pH rises above 6.5.
-In alkaline soils, manganese oxidizes from the plant-available Mn2+ form to the
-unavailable Mn4+ form, making it impossible for roots to absorb regardless of how
-much is present in the medium. Over-watering, which can temporarily raise pH around
-the root zone through bicarbonate accumulation, can also trigger transient manganese
-deficiency even in properly amended soils. The [[cannabis-ph-management-and-soil-flushing]]
+[[cannabis-ph-management-and-soil-flushing]]
 page explains how to maintain the optimal pH range for micronutrient availability.
 
 Excess iron is a common cause of manganese deficiency symptoms because iron and
@@ -55,20 +45,8 @@ manganese uptake is suppressed. This antagonism is particularly relevant for gro
 who add supplemental iron without balancing manganese. Similarly, high calcium or
 magnesium levels can reduce manganese availability through competitive inhibition at
 the root membrane. Understanding these nutrient interactions is essential for proper
-diagnosis, and the [[nutrient-lockout]] page covers these competitive relationships
-in comprehensive detail with specific ratios to watch for.
-
-For quick correction of active manganese deficiency, foliar feeding with manganese
-sulfate at 0.05% to 0.1% concentration provides rapid results, often showing visible
-improvement within 48 to 72 hours on new growth. For longer-term correction in soil,
-incorporating [[kelp-meal-fertilizer]] provides a gentle, slow-release source of
-manganese along with a broad spectrum of other trace minerals. [[rock-dust-minerals]]
-from volcanic or glacial sources is another excellent long-term amendment for
-manganese and dozens of other micronutrients. In hydroponic systems, ensure your
-micronutrient supplement contains adequate manganese and that pH stays within the
-5.5 to 6.0 range for optimal availability.
-
-Growers using [[living-soil-cannabis]] systems rarely experience
+diagnosis, and the [[kelp-meal-fertilizer]] provides a gentle, slow-release source of
+manganese along with a broad spectrum of other trace minerals. [[living-soil-cannabis]] systems rarely experience
 manganese deficiency because the diverse microbial community helps cycle manganese
 between its oxidized and reduced forms, keeping it available for plant uptake.
 Beneficial fungi and bacteria produce organic acids that solubilize mineral-bound
@@ -84,21 +62,30 @@ which strengthen cell walls against fungal penetration, and in the synthesis of
 phenolic compounds that have direct antimicrobial activity. Manganese-deficient
 plants may therefore be more susceptible to root rot, powdery mildew, and other
 fungal diseases. Ensuring adequate manganese levels supports the plant's natural
-immune response. The [[cannabis-disease-guide]] page covers how nutrient status
-affects disease resistance in cannabis.
-
-## Key Points
-- Manganese deficiency causes interveinal chlorosis with distinctive brown necrotic
-  spots on young leaves, differentiating it from iron and magnesium deficiency
-- It is almost always caused by high pH rather than actual manganese absence in the
-  growing medium
-- Excess iron, calcium, or magnesium can antagonize manganese uptake at the roots
-- [[cannabis-manganese-nutrient]] provides visual identification guides and treatment
+immune response. The [[cannabis-manganese-nutrient]] provides visual identification guides and treatment
   protocols for all growing mediums
 - Kelp meal and rock dust provide slow-release manganese for organic and living soil
   systems, while foliar manganese sulfate provides rapid correction
 
 ## Related Questions
-- [[query-what-causes-nutrient-lockout-in-cannabis]]
 - [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
 - [[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]
+## Practical Considerations
+
+Successful implementation of How to Fix Manganese Deficiency in Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

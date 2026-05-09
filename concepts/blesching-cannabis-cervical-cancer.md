@@ -135,8 +135,6 @@ yourself, and appreciating the source of your creativity.
 
 ## See Also
 
-- [[blesching-cannabis-breast-cancer]]
 - [[cannabis-and-endometriosis]]
-- [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-cancer-symptoms]]

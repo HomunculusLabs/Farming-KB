@@ -120,15 +120,9 @@ Argentina).
 
 ## See Also
 
-- [[psilocybe-species-europe]]
-
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[allen-pans-cyanescens-australia-distribution]]
 - [[allen-psilocybin-potency-australian-species]]
-- [[allen-new-zealand-psychoactive-fungi]]
 - [[allen-magic-mushrooms-australia-newzealand-species-guide]]
-- [[psilocybe-columbiana]]
 - [[psilocybe-heterophyllia]]
-- [[psilocybe-rugosoannulata]]
 - [[psilocybe-venenata]]
 - [[psilocybe-viridescens]]

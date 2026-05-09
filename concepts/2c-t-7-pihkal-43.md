@@ -11,7 +11,7 @@ tags: [phenethylamine, psychedelic, 2c-family, research-chemical]
 
 ## Overview
 
-2C-T-7 (2,5-dimethoxy-4-propylthiophenethylamine) is a synthetic [[phenethylamine-receptor-pharmacology]] belonging to the 2C-T family of thio-substituted phenethylamines. [[alexander-shulgin]] ranked it among the most acceptable and intrinsically rich of all phenethylamines, placing it "right up there near the top, along with [[2c-t-2-compound-profile]], [[2c-b-compound-profile]], [[turner-mescaline]] and [[2c-e-compound-profile]]." The compound is known for its versatile visual character, emotional depth, and relatively manageable duration of 8-15 hours.
+2C-T-7 (2,5-dimethoxy-4-propylthiophenethylamine) is a synthetic [[alexander-shulgin]] ranked it among the most acceptable and intrinsically rich of all phenethylamines, placing it "right up there near the top, along with [[2c-b-compound-profile]], [[2c-e-compound-profile]]." The compound is known for its versatile visual character, emotional depth, and relatively manageable duration of 8-15 hours.
 
 2C-T-7 gained notoriety in the early 2000s as a "designer drug" and was eventually scheduled as a controlled substance in multiple countries following several reported deaths, though the causal role of 2C-T-7 in these fatalities has been debated.
 
@@ -20,7 +20,7 @@ tags: [phenethylamine, psychedelic, 2c-family, research-chemical]
 - **Chemical name:** 2,5-Dimethoxy-4-(n)-propylthiophenethylamine
 - **PIHKAL entry:** #43
 - **Family:** 2C-T (thio-substituted 2C phenethylamines)
-- **Related compounds:** [[2c-t-2-compound-profile]], [[2c-b-compound-profile]], [[2c-i-compound-profile]], [[2c-e-compound-profile]]
+- **Related compounds:** [[2c-b-compound-profile]], [[2c-e-compound-profile]]
 - **Legal status:** Schedule I (US, since 2003) / Controlled in most jurisdictions
 
 ## Synthesis (Summary)
@@ -52,36 +52,7 @@ Shulgin noted that the lower end of the range (10 mg) was intentionally included
 
 **25 mg:** Described as "good and friendly and wonderful." Became deeply engaged with a documentary about indigenous Bolivian people maintaining Inca traditions. The shaman imagery was "startling in their intensity and earthy depth." Noted that 2C-T-7 might "take the place of 2C-T-2 in my heart."
 
-**30 mg:** Visuals with an "adaptable character" -- able to recreate any hallucinogenic substance previously known. With open eyes: [[turner-lsd]]-like flowing visuals, warm peyote-like earth world, or able to stop visuals altogether. With closed eyes: Escher-like graphics with chiaroscuro, geometric patterns with oppositional play of sculptured light and dark values, and green light.
-
-## Effects Summary
-
-### Visual
-- Versatile and adaptable visuals ranging from mescaline-like warmth to LSD-like flowing patterns
-- Velvety appearance with increased depth perception
-- Escher-like closed-eye imagery with strong chiaroscuro elements
-- Ability to modulate visual intensity voluntarily
-- Less "sparkly" than mescaline but with rich movement
-
-### Emotional and Cognitive
-- Deeply integrative and therapeutic potential
-- Oscillation between euphoria/connectedness and sadness/grief processing
-- God-space quality described as "similar to MDMA but more grounded"
-- Enhanced creativity, particularly musical and vocal expression
-- Capacity for deep emotional release and letting go
-
-### Physical
-- Periodic nausea throughout the experience
-- Muscle tension in neck, shoulders, and legs
-- Muscular tightness alternating with relaxation
-- Enhanced vocal freedom despite shoulder tension
-
-## Comparisons
-
-- vs. [[mescaline-ethnobotany]]: Visuals described as "much like [[turner-mescaline]] but less sparkly." Similar emotional depth and integrative quality.
-- vs. [[2c-b-compound-profile]]: Both are highly ranked by [[alexander-shulgin]] among the 2C compounds. 2C-T-7 has a longer duration and more emotional depth.
-- vs. [[2c-t-2-compound-profile]]: [[alexander-shulgin]] noted they are close in quality; one subject felt 2C-T-7 might replace 2C-T-2 as their preferred compound.
-- vs. [[2c-e-compound-profile]]: Both ranked among the top phenethylamines. 2C-T-7 is somewhat shorter-acting and potentially more emotionally warm.
+**30 mg:** Visuals with an "adaptable character" -- able to recreate any hallucinogenic substance previously known. With open eyes: [[mescaline-ethnobotany]]: Visuals described as "much like [[2c-b-compound-profile]]: Both are highly ranked by [[2c-t-2-compound-profile]]: [[2c-e-compound-profile]]: Both ranked among the top phenethylamines. 2C-T-7 is somewhat shorter-acting and potentially more emotionally warm.
 
 ## Harm Reduction
 
@@ -92,7 +63,7 @@ Shulgin noted that the lower end of the range (10 mg) was intentionally included
 - Oral administration is strongly preferred over insufflation due to steep dose-response curve
 - Do not combine with MAOIs or other serotonergic substances
 - Start at the low end of the dose range (10-15 mg) to assess individual sensitivity
-- See [[psychedelic-harm-reduction]] and [[harm-reduction-guide]] for general principles
+- See [[harm-reduction-guide]] for general principles
 
 ## Related Compounds
 
@@ -100,36 +71,27 @@ The 2-ethoxy homologue (2CT7-2ETO) has been synthesized and tested at 20 mg. It 
 
 ## References
 
-- [[alexander-shulgin]], A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #43.
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-- [[psychedelic-harm-reduction-philosophy]]
 - [[controlled-substances-act-and-psychedelic-research]]
-- [[psychedelic-harm-reduction-guide]]
-
-## Practical Context
-2c T 7 (2,5 Dimethoxy 4 Propylthiophenethylamine) is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-- [[psychedelic-harm-reduction-philosophy]]
 - [[turner-ecstasy-mdma-heart-opening-psychedelic]]
-- [[controlled-substances-act-and-psychedelic-research]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
+## Practical Considerations
+
+Successful implementation of 2C-T-7 (2,5-Dimethoxy-4-propylthiophenethylamine) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

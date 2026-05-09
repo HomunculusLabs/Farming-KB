@@ -23,37 +23,6 @@ methods involves tradeoffs between nutrition, safety, flavor, equipment
 needs, and the skill level required for reliable results.
 
 ## Fermentation
-[[fermented-vegetables-guide]]
-
-Lacto-fermentation is a preservation method that harnesses lactic acid
-bacteria, primarily Lactobacillus species, to convert sugars present in
-vegetables into lactic acid. This natural acidification process lowers
-the pH of the food to a level where pathogenic microorganisms cannot
-survive, typically reaching a stable pH of 3.5 to 4.0. The fermentation
-process unfolds in four distinct stages over a period of 21 or more
-days, with different bacterial species dominating at each stage as the
-acidic environment progressively intensifies.
-
-The equipment requirements for lacto-fermentation are minimal: glass
-jars or ceramic crocks, non-iodized salt, and some form of weight to
-keep vegetables submerged below the brine. No heat is required at any
-stage, which means that heat-sensitive nutrients such as vitamin C and
-B vitamins remain largely intact. The process also produces beneficial
-probiotic bacteria that support digestive health, and the metabolic
-activity of the fermenting organisms can increase the bioavailability
-of certain nutrients and create new beneficial compounds including
-vitamins and antioxidants.
-
-Common lacto-fermented foods include sauerkraut, kimchi, traditional
-brined pickles, and a wide variety of cultured vegetables. The flavor
-profile of fermented foods is distinctly tangy, complex, and often
-described as "alive" compared to the milder flavors of canned
-equivalents. Fermented foods must be stored under refrigeration or in
-a cool environment once the active fermentation period is complete, as
-they continue to slowly ferment and can become overly sour or soft
-over extended periods at room temperature.
-
-## Canning
 [[canning-and-preserving]]
 
 Canning is a heat-based preservation method that destroys
@@ -88,33 +57,7 @@ easy to store, transport, and gift.
 ## Key Differences
 | Aspect | Fermentation | Canning |
 |--------|-------------|---------|
-| Preservation mechanism | Lactic acid bacteria (pH drop) | Heat destruction of microbes |
-| Nutritional value | Enhanced (probiotics, bioavailability) | Reduced (heat-sensitive vitamins lost) |
-| Safety concerns | Minimal (acid environment inhibits pathogens) | Significant (botulism risk in low-acid) |
-| Equipment needed | Jars, salt, weights | Canner, jars, lifters, thermometer |
-| Shelf life at room temp | Limited (requires cool storage) | 1 to 5 years |
-| Flavor profile | Complex, tangy, evolving | Consistent, mild, stable |
-| Skill required | Moderate (monitor fermentation) | High (must follow tested recipes) |
-| Energy input | None (ambient temperature) | Significant (sustained heat) |
-| Temperature used | 60 to 75 degrees Fahrenheit | 212 to 250 degrees Fahrenheit |
-| Probiotic content | High (live cultures) | None (all microbes destroyed) |
-
-## When to Choose Fermentation
-Fermentation is the preferred preservation method for growers who
-prioritize nutritional quality, probiotic benefits, and minimal
-equipment investment. It is ideal for preserving seasonal vegetable
-abundance when refrigerator space is available and a steady supply of
-fermented foods for daily consumption is desired. The health benefits
-of regular probiotic consumption from fermented vegetables are well
-documented, including improved gut health, immune function, and
-nutrient absorption.
-
-Fermentation also excels for gardeners who want to add value and
-variety to their preserved foods without investing in specialized
-equipment. The process is forgiving of minor variations in technique
-and ingredient proportions, and the results are immediately edible
-even during the active fermentation period. For homesteaders and
-[[permaculture]] practitioners committed to low-energy food systems,
+| Preservation mechanism | [[permaculture]] practitioners committed to low-energy food systems,
 fermentation aligns with principles of minimal input and biological
 processing.
 
@@ -144,7 +87,6 @@ preparedness and off-season eating. Some practitioners also blanch
 vegetables lightly before fermenting them to soften the texture and
 jump-start the bacterial process, blending techniques from both
 preservation traditions.
-
 ## See Also
 
 - [[comparison-lacto-fermentation-vs-canning]]

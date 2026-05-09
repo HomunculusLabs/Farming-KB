@@ -17,9 +17,7 @@ sources:
   - Stamets, P. (2000). Growing Gourmet & Medicinal Mushrooms. Ten Speed Press.
   - Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact. CRC Press.
 ---
-# [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] (Oyster Mushroom)
-
-**Pleurotus ostreatus**, commonly known as the [[oyster-mushroom]], is a widely cultivated edible basidiomycete fungus belonging to the family Pleurcommercially-important-pleurotus-species-cultivation-guidethe most commercially important mushroom species worldwide, turkey tail mushroom cultivation and medicinal propertiesary versatility, nutritional profile, and emerging medicinal properties.:** White to pale lilac-grey.
+# [[oyster-mushroom]], is a widely cultivated edible basidiomycete fungus belonging to the family Pleurcommercially-important-pleurotus-species-cultivation-guidethe most commercially important mushroom species worldwide, turkey tail mushroom cultivation and medicinal propertiesary versatility, nutritional profile, and emerging medicinal properties.:** White to pale lilac-grey.
 - **Spores:** Cylindrical to ellipsoid, 8–12 × 3–4 µm, smooth, hyaline.
 
 ### Mycelium
@@ -36,7 +34,7 @@ The species fruits in autumn through early winter in temperate regions, though c
 
 ### Commercial Importance
 
-*P. ostreatus* is the second or third most cultivated mushroom globally, following *[[agaricus-bisporus]]* and sometimes *[[lentinula-edodes]]* (shiitake). Global production exceeds several million tonnes annually, with major producers in China, Japan, Korea, Italy, Hungary, and increasingly the United States and India.
+*P. ostreatus* is the second or third most cultivated mushroom globally, following *[[lentinula-edodes]]* (shiitake). Global production exceeds several million tonnes annually, with major producers in China, Japan, Korea, Italy, Hungary, and increasingly the United States and India.
 
 ### Substrates
 

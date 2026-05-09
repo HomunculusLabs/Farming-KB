@@ -105,17 +105,10 @@ Additional bioactive compounds include lectins with hemagglutinating activity an
 
 ## See Also
 
-- [[pleurotus-ostreatus]]
 - [[hericium-coralloides]]
-- [[schizophyllum-commune]]
 - [[coprinus-comatus-detailed]]
-- [[armillaria-mellea]]
 - [[fomes-fomentarius]]
-- [[trametes-versicolor]]
 - [[psilocybe-cubensis]]
-- [[amanita-phalloides]]
 - [[paul-stamets]]
-- [[ganoderma-lucidum]]
 - [[lactarius-indigo]]
-- [[suillus-luteus]]
 - [[boletus-edulis-entity]]

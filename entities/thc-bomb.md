@@ -125,17 +125,13 @@ over-fertilization during early flowering.
 
 ## See Also
 
-- [[cannabis-terpene-profiles]]
 - [[cannabis-flowering-stage-management]]
 
 - [OG Kush](og-kush.md)
-- [Sour Diesel](sour-diesel.md)
-- [Girl Scout Cookies](girl-scout-cookies.md)
+- [[girl-scout-cookies]](girl-scout-cookies.md)
 - [Chemdawg](chemdawg.md)
 - [Blue Dream](blue-dream-cannabis-strain.md)
 - [Wedding Cake](wedding-cake.md)
-- [Granddaddy Purple](granddaddy-purple.md)
+- [[granddaddy-purple]]](granddaddy-purple.md)
 - [Gelato](gelato-cannabis.md)
-- [Northern Lights](northern-lights-entity.md)
-- [Skunk 1](skunk-1.md)
 - [[blesching-cannabis-als]]

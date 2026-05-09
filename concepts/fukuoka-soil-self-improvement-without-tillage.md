@@ -12,20 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Fukuoka's [[fukuoka-natural-farming-philosophy-of-mu]] rests on the principle that the soil is alive and works itself. Plowing and tilling are not only unnecessary — they actively interfere with the soil's natural processes of enrichment and loosening.
-
-## The Soil Plows Itself
-
-The soil lives of its own accord and plows itself. It needs no help from man. Farmers talk of "taming the soil" and of a field becoming "mature," but trees in mountain forests grow to magnificent heights without the benefit of hoe or fertilizer, while the farmer's fields can grow only puny crops.
-
-In the mountain forests, concerns over the physical and chemical compositions of topsoil and deeper strata are nonexistent. Without the least help from man, nature creates soil conditions sufficient to support dense stands of towering trees. The grasses and trees, and the earthworms and moles in the ground, have acted the part of plow horse and oxen, completely rearranging and renewing the soil.
-
-## How Nature Works the Soil
-
-### The Process of Natural Soil Building
-1. Grass and green manure roots penetrate 12-15 inches deep (farmer's plow only reaches 4-8 inches)
-2. Air and water penetrate into the soil together with roots
-3. Roots wither and die, and many types of [[fukuoka-critique-soil-cultivation]] proliferate
+Fukuoka's [[fukuoka-critique-soil-cultivation]] proliferate
 4. These organisms die and are replaced by others, increasing humus and softening soil
 5. Earthworms appear where there is humus
 6. As earthworms increase, moles begin burrowing through the soil
@@ -75,16 +62,33 @@ We can either choose to see the soil as imperfect and take hoe in hand, or trust
 
 ## Practical Application in Farming
 
-Let the grasses plow the topsoil and the trees work the deeper layers. The [[fukuoka-rice-and-barley-natural-farming]] and [[fukuoka-citrus-orchard-ground-cover-cultivation]] both rely on plant roots and soil biology rather than mechanical cultivation to maintain soil structure and fertility.
+Let the grasses plow the topsoil and the trees work the deeper layers. The [[fukuoka-citrus-orchard-ground-cover-cultivation]] both rely on plant roots and soil biology rather than mechanical cultivation to maintain soil structure and fertility.
 
 ---
 
 Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 
 ## See Also
 
 - [[iterative-self-improvement]]
+## Practical Considerations
+
+Successful implementation of Fukuoka Soil Self Improvement Without Tillage requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -12,14 +12,7 @@ sources:
 ## Overview
 
 The philosophy of Mu (nothingness or emptiness) is the foundational metaphysical
-framework underlying [[natural-farming-fukuoka]]'s natural farming. In "The Natural
-Way
-of Farming," Mu is presented not merely as a farming technique but as a comprehensive
-worldview encompassing agriculture, diet, health, and human existence.
-
-## Core Principle
-
-[[fukuoka-road-do-nothing-farming]] is based on a nature free of
+framework underlying [[fukuoka-road-do-nothing-farming]] is based on a nature free of
 human meddling
 and intervention. It strives to restore nature from the destruction wrought
 by human
@@ -41,23 +34,7 @@ in perception.
 
 ## The Agricultural Application
 
-[[fukuoka-natural-farming-philosophy-of-mu]] begins by relinquishing
-human
-knowledge. To start from Mu and return to Mu — that is natural farming. The
-farmer
-observes nature at a remove, from the standpoint of Mu, and seeks to return
-to Mu.
-Nature is sufficient in and of itself; there never was a need for human effort
-and
-human knowledge.
-
-This is not passive agriculture. Fukuoka emphasizes that the "do-nothing"
-approach
-is actually the most active form of farming — it requires constant, acute
-observation
-of natural processes and the discipline to resist intervening where nature
-is already
-providing. See [[fukuoka-observation-based-farming]].
+[[fukuoka-observation-based-farming]].
 
 ## Three Levels of Understanding
 
@@ -92,9 +69,7 @@ has neither beginning nor end, before nor after.
 
 ## Practical Implications
 
-The philosophy of Mu leads directly to the [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer,
-no weeding,
-and no pesticides. It also informs Fukuoka's [[fukuoka-natural-diet-philosophy]] — food should be local, seasonal, and eaten in its whole
+The philosophy of Mu leads directly to the [[fukuoka-natural-diet-philosophy]] — food should be local, seasonal, and eaten in its whole
 form.
 
 The ultimate objective is the revival of villages of "true man" where people
@@ -104,15 +79,11 @@ calls
 this program simply "Farming for All."
 
 See also:
-- [[fukuoka-do-nothing-farming-philosophy]] — practical do-nothing approach
 - [[fukuoka-dharmic-law-all-things-return-to-one]] — dharmic philosophical
 framework
-- [[fukuoka-nature-god-limits-of-knowledge]] — limits of human knowledge
 - [[fukuoka-nature-transcends-human-knowledge]] — man-nature relationship
-- [[fukuoka-wholistic-nature-perception]] — wholistic perception
 - [[natural-farming-and-spirituality]] — spirituality of natural farming
 
 ## Related
 
-- [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-do-nothing-health-philosophy]]

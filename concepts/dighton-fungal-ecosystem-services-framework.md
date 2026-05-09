@@ -118,9 +118,7 @@ heterogeneous soil environments at minimal energetic cost.
 
 ## See Also
 
-- [[dighton-fungal-roles-in-nutrient-cycling]]
 - [[dighton-fungal-role-soil-aggregation]]
-- [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[fungi-ecosystem-engineers]]
 

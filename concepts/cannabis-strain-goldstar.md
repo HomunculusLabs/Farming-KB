@@ -62,23 +62,7 @@ varieties and beneficial for indoor and greenhouse growers. Key traits include:
   outdoors)
 - **Yield**: Described as "nothing short of incredible," with heavy bud
   production
-- **Growth pattern**: Very vigorous [[green-cannabis-vegetative-growth]], minimal stretch
-- **Recommended setup**: Organic cultivation preferred, as parent plants were
-  created in a fully organic environment
-- **Climate preference**: Warm environments bring out a richer terpene
-  signature
-- **Potential issues**: Requires monitoring for bud rot and mold in high
-  humidity due to dense bud formation
-
-The strain takes well to training techniques and is described as very
-manageable indoors. The vigorous growth pattern continues through flowering,
-so structural support should be provided as buds develop. A thorough drying
-process is essential due to the thickness of the buds.
-
-## Aroma and Flavor
-
-Goldstar buds are noted for their exceptional bag appeal and distinctive
-aroma profile. After proper [[cannabis-drying-and-curing]], the flowers emit a beautiful
+- **Growth pattern**: Very vigorous [[cannabis-drying-and-curing]], the flowers emit a beautiful
 mint and pine fragrance that is both refreshing and complex. The combination
 of the turpentine notes from the Sensi Star parent and the exotic terpene
 profile of the Malawi Gold creates a multi-layered sensory experience. When
@@ -118,19 +102,10 @@ experience.
 
 ## See Also
 
-- [[cannabis-strain-guide-reference]]
-
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - terpenes - Aromatic compounds in cannabis
-- [[cannabis-landrace-strains]] - Information on landrace cannabis varieties
-- malawi-gold - The legendary African and geographic origins
-
 - [[banana-kush]]
-- [[blackberry-kush]]
 - [[bruce-banner]]
-- [[cereal-milk]]
 - [[chemdog]]
-- [[cherry-pie-cannabis]]
 - [[cinex]]
-- [[critical-mass]]
 - [[tangerine-dream]]

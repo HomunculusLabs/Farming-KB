@@ -133,18 +133,13 @@ Epidemiological studies have NOT found increased cancer risk from cannabis smoki
 
 ## Night Sweats (Paraneoplastic)
 - Nabilone effectively treats cancer-induced night sweats (Maida, 2008, Journal of Palliative Medicine) -- 4 case reports showed significant relief
-
 ## Related Topics
 
-- [[cannabis-for-hepatitis]]
 - [[cannabis-for-vomiting-and-nausea]]
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-anxiety-disorders]]
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Cancer sections
-- [[psk-breast-lung-cancer-clinical-trials]]
 - [[blesching-cannabis-prostate-cancer]]
-- [[cannabis-and-liver-cancer-research]]
 - [[blesching-cannabis-pancreatic-cancer]]

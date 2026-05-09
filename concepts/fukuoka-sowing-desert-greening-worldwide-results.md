@@ -35,11 +35,7 @@ down, and brought water by plastic pipe from a spring. The foxtail weeds
 sprouted, withered, and became mulch, while Japanese pumpkin, cucumbers,
 tomatoes, okra, daikon, and corn flourished in their place. He recommended the
 state government broadcast seeds of perennial grasses from the air in clay
-pellets, using the [[fukuoka-sowing-seed-ball-desert-revegetation]] he had developed.
-
-## Somalia and the Horn of Africa
-
-Fukuoka flew to Somalia hoping to test [[fukuoka-natural-farming-philosophy-of-mu]] for revegetating the
+pellets, using the [[fukuoka-natural-farming-philosophy-of-mu]] for revegetating the
 desert. He was surprised to find the large Juba River flowing through the
 semi-desert year-round, its source in the mountains of Ethiopia. From accounts
 by an Ethiopian elder and Somali farmers, the main cause of deforestation was
@@ -77,39 +73,7 @@ Prime Minister Nehru sent to the children of Japan after the war," enabling
 Fukuoka to pursue his dream of regreening India's deserts.
 
 **Bengal mangrove success:** At the mouth of the Ganges River, seedlings of
-twenty to thirty varieties of mangroves had sprouted on a sandbar from [[fukuoka-sowing-clay-seed-ball-preparation]] and grew as far as the eye could see. Fukuoka pulled up one plant and
-found small shellfish and hermit crabs living in its roots. He considered this
-example of aerial seeding success vastly underreported to the rest of the world.
-
-**Chambal Gorge, Madhya Pradesh:** At Gwalior, aerial seeding had been carried
-out on bare red-earth hills. Some seeds sown previously in clay pellets were
-growing well, though much of the vegetation from conventional sowing had failed.
-Seedlings had been eaten by goats. One worker said ruefully, "Well, even if we
-don't get a forest, the livestock are getting fed."
-
-Fukuoka realized that elephants and tigers had been in the area just ten and
-three years earlier, respectively, but desertification had driven them away at
-an unbelievable speed. He concluded that sowing a variety of seeds in clay
-pellets would work there but needed persistence.
-
-**Meeting with Prime Minister Rao:** Fukuoka met with India's prime minister for
-fifteen minutes that extended to almost an hour. He brought rice from his farm
-and seeds of Egyptian clover. The prime minister had studied agronomy and was
-well versed in agricultural methods. He asked that Fukuoka be introduced to the
-head of the Ministry of Agriculture, and Fukuoka's ideas received extensive
-national television and newspaper coverage.
-
-**Manipur:** In this nearly closed state bordering Burma, the governor (a former
-king) welcomed Fukuoka enthusiastically. At an elementary school during rain,
-Fukuoka showed children photos of his natural farm and told them it should be
-possible to grow thirty kinds of tropical fruits on their barren hills by sowing
-seeds directly in clay pellets. The children listened with shining eyes. At a
-roundtable discussion, locals declared their intention to create a paradise and
-had Fukuoka sign the declaration.
-
-## The Philippines
-
-Ms. Aveliw of the Magsaysay Foundation read The [[fukuoka-one-straw-revolution-impact]], did
+twenty to thirty varieties of mangroves had sprouted on a sandbar from [[fukuoka-one-straw-revolution-impact]], did
 practical research for almost ten years, then set up her natural farm in four
 years mainly by scattering seeds and planting trees. Despite the Philippines'
 poor soil and reckless desertification|deforestation, she created a true paradise with banana,
@@ -132,14 +96,7 @@ overgrazing, harmful irrigation, and plowed-field agriculture.
 ## South Africa
 
 A teacher involved in the anti-apartheid movement came to Fukuoka's farm to
-learn [[fukuoka-natural-farming-philosophy-of-mu]]. When Fukuoka heard from him several years later,
-the teacher reported greater success teaching people they could achieve
-independence by starting a natural farm than he had through the political
-message of the independence movement.
-
-## Summary of Verified Success
-
-Successful results with [[fukuoka-sowing-clay-seed-ball-preparation]] had been achieved in Africa,
+learn [[fukuoka-sowing-clay-seed-ball-preparation]] had been achieved in Africa,
 the United States, India, Greece, and the Philippines. The technique proved most
 effective when combined with Fukuoka's principle of maximum species diversity —
 sowing seeds of all plant types simultaneously rather than selecting a few

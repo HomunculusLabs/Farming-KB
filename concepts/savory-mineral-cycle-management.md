@@ -130,8 +130,6 @@ downward.
 
 ## See Also
 
-- [[savory-ecosystem-foundation-blocks]] for the four-process framework
 - [[savory-soil-carbon-sequestration]] for carbon's role in the cycle
-- [[savory-water-cycle-management]] for the water-mineral connection
 - [[savory-soil-surface-and-capping]] for surface management details
 - [[savory-animal-impact-and-herd-effect]] for biological breakdown

@@ -71,23 +71,12 @@ Post-closure monitoring may be required at some sites to verify that contaminant
 
 ## See Also
 
-[[ectomycorrhizal-remediation]]
-
 [[cotter-mycoremediation-overview]]
-
-[[bioaugmentation-strategies]]
 
 [[biostimulation-techniques]]
 
-[[bioslurry-reactors]]
-
 [[mycoremediation-site-assessment]]
 
-[[mycoremediation-scale-up-challenges]]
-
-## Related
-
-- [[fungal-soil-remediation-persistent-pollutants]]
-- [[explosive-bioremediation]]
+[[fungal-soil-remediation-persistent-pollutants]]
 - [[fungal-cometabolism]]
 - [[microplastic-bioremediation]]

@@ -22,37 +22,6 @@ soil degradation over time.
 
 ## No-Till
 
-[[teaming-with-microbes-no-till-gardening-soil-health]]
-
-No-till agriculture and gardening avoids all mechanical soil disturbance, instead managing the soil surface
-through permanent mulch layers, cover crops, and direct planting into undisturbed soil. The approach
-recognizes that soil is a living ecosystem whose biological networks, particularly mycorrhizal fungal hyphae
-and stable soil aggregates, are destroyed by physical disruption. When soil is left undisturbed, fungal
-hyphae, bacterial colonies, root channels from previous crops, and earthworm burrows create a stable, porous
-structure with excellent water infiltration, aeration, and biological nutrient cycling capacity. The soil
-food web, from bacteria and fungi through protozoa, nematodes, microarthropods, and earthworms, operates as
-an integrated nutrient delivery system.
-
-The benefits of no-till accumulate progressively over time. Within 2-3 seasons, undisturbed soil develops
-visible aggregates held together by fungal hyphae and glomalin, water infiltration rates increase
-dramatically, and organic matter begins accumulating at the surface. After 5-10 years, no-till soils
-typically show 30-50% higher organic matter than conventionally tilled soils in the same climate and
-cropping system. This translates directly to improved water-holding capacity, reduced erosion, lower input
-costs, and more consistent yields under variable weather conditions. The mulch layer on the soil surface
-suppresses weed germination, moderates soil temperature fluctuations, and provides continuous habitat for
-surface-active beneficial organisms.
-
-No-till requires a fundamentally different management mindset and different toolset compared to conventional
-farming. Weed management shifts from mechanical cultivation to surface mulching, cover crop competition,
-stale seedbed techniques, careful crop rotation, and targeted minimal disturbance only at the planting
-point. Soil amendment application shifts to surface application, banding near plants, or foliar feeding
-since deep mechanical incorporation is not possible. Seed placement may require specialized no-till
-planters, seed drills, or dibbers that can cut through surface residue to place seeds at the correct depth.
-The transition period of 1-3 years can be challenging as weed seed banks from previous tilling germinate and
-the soil biology adjusts.
-
-## Conventional Tillage
-
 [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 
 Conventional tillage involves mechanically inverting, loosening, or mixing the soil using tools ranging from
@@ -139,9 +108,6 @@ absolute prohibition of all mechanical contact.
 
 ## See Also
 
- [[teaming-with-microbes-no-till-gardening-soil-health]]
  [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
- [[solomon-crop-rotation-and-garden-planning]]
  [[soil-food-web]]
- [[comparison-sheet-mulching-vs-double-digging]]
  [[soil-compaction-solutions]]

@@ -38,8 +38,7 @@ Proper poultry housing protects birds from predators, weather extremes, and dise
 ### Stationary Coop
 - Permanent structure with attached run
 - Easier to provide electricity, water, and automated features
-- Manure accumulates — requires regular cleaning or [[composting-systems]] management
-- Best when paired with [[pasture-management]] rotation using portable fencing
+- Manure accumulates — requires regular cleaning or [[pasture-management]] rotation using portable fencing
 
 ### Mobile Coop (Chicken Tractor)
 - Lightweight, moveable structure without a floor
@@ -86,7 +85,6 @@ Poultry manure is high in nitrogen and excellent for composting:
 - **Deep litter method** — Carbon bedding absorbs nitrogen; partially composts in place
 - **Regular cleaning** — Remove and compost manure weekly in smaller coops
 - **Composting** — Mix with carbon sources (straw, leaves, sawdust) at 25-30:1 C:N ratio
-- See [[composting-systems]] for detailed composting methods
 - See [[animal-manure-guide]] for nutrient content analysis
 
 ## Biosecurity
@@ -96,15 +94,8 @@ Poultry manure is high in nitrogen and excellent for composting:
 - Clean and disinfect waterers weekly
 - Remove dead birds promptly and dispose of properly (composting or burial)
 - Control rodent populations around feed storage areas
-- See [[livestock-feed-management]] for feed storage best practices
-
-## Related
-
-- [[composting-systems]]
-- [[animal-manure-guide]]
+- See [[composting-systems]]
 - [[livestock-feed-management]]
-- [[pasture-management]]
 - [[goat-keeping-guide]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
 - [[free-range-poultry-forage-design-mollison]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]

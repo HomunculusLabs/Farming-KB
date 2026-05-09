@@ -3,7 +3,7 @@ title: King Stropharia Permaculture and Mycofiltration
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mushroom-cultivation, species-guide, stropharia, mycofiltration]
+tags: [[mushroom-cultivation, species-guide, stropharia, mycofiltration]
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
@@ -16,7 +16,7 @@ Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Chapters 5
 
 ## Overview
 
-Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for [[stropharia-rugoso-annulata-mycofiltration]] and gray water treatment. See also [[king-stropharia-wine-cap-cultivation]], [[kings-stropharia-garden-giant]], [[wine-cap-mushroom-cultivation]], wine cap stropharia cultivation.
+Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for [[king-stropharia-wine-cap-cultivation]], [[wine-cap-mushroom-cultivation]], wine cap stropharia cultivation.
 
 ## Permaculture Applications (Ch. 5)
 
@@ -82,7 +82,7 @@ Excellent edible when young. Edibility quickly declines as mushrooms mature. Fly
 6. Keep moist but not waterlogged
 7. Wait 2-6 months for first fruiting
 
-Aged wood chips from county utility companies work well. Avoid mixed-wood sources from mills that don't separate species. Avoid aromatic woods (eucalyptus, cedar, redwood). Avoid roadside chips due to heavy metal contamination. See [[bulk-substrate-preparation]], [[outdoor-mushroom-bed-preparation]].
+Aged wood chips from county utility companies work well. Avoid mixed-wood sources from mills that don't separate species. Avoid aromatic woods (eucalyptus, cedar, redwood). Avoid roadside chips due to heavy metal contamination. See [[outdoor-mushroom-bed-preparation]].
 
 ## Substrate Matrix Concept
 
@@ -95,19 +95,13 @@ Grows naturally on both hardwoods and softwoods. Notable conifer species: firs (
 ## Sequential Cultivation
 
 King Stropharia is the final stage in Stamets' recommended species sequencing strategy:
-- Stage 1: [[stamets-cultivator-log-cultivation-shiitake-hericium]] (breaks down wood fiber)
-- Stage 2: [[cotter-oyster-mushroom-cultivation]] (partial decomposition, no amendment)
-- Stage 3: King Oyster or [[stamets-maitake-grifola-frondosa-cultivation]] (add 10% rice bran/corn supplement)
-- Stage 4: King Stropharia or Shaggy Mane (re-mix, sterilize)
-
-See [[stamets-species-sequencing-recycling-substrates]] for full details.
+- Stage 1: [[cotter-oyster-mushroom-cultivation]] (partial decomposition, no amendment)
+- Stage 3: King Oyster or [[stamets-species-sequencing-recycling-substrates]] for full details.
 
 ## Ecological Role
 
-King Stropharia occupies a unique ecological niche as a bacterially-dependent decomposer that bridges the gap between primary wood decomposers and soil-building organisms. Its ability to filter pathogens while building soil makes it invaluable for permaculture systems, [[mycofiltration-of-water-contaminants]], and [[permaculture-designers-manual-wetland-treatment]].
+King Stropharia occupies a unique ecological niche as a bacterially-dependent decomposer that bridges the gap between primary wood decomposers and soil-building organisms. Its ability to filter pathogens while building soil makes it invaluable for permaculture systems, [[permaculture-designers-manual-wetland-treatment]].
 
 ## See Also
-
-- [[stropharia-rugosoannulata-permaculture]]
 
 - [[stropharia-venenata-japanese-bluing-species]]

@@ -3,7 +3,7 @@ title: Fungal Sclerotia and Resting Structures
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -105,13 +105,8 @@ Many sclerotia require a period of conditioning (exposure to cold or wet conditi
 
 ## Related Concepts
 
-- [[fungal-chlamydospore-formation-and-survival]]
 - [[fungal-conidia-and-spore-types]]
-- [[fungal-melanin-in-ecology-and-stress-protection]]
-- [[fungal-spore-biology]]
 - [[fungal-spore-biology]]
 - [[fungal-stress-responses]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[fungal-resource-translocation-in-mycelial-networks]]
-- [[fungal-communities-succession]]
 - [[fungal-ecosystem-processes-overview]]

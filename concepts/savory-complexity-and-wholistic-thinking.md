@@ -81,56 +81,19 @@ how natural systems function, and whose discovery opened the door to more
 effective management:
 
 1. **Holism**: The recognition that wholes must be managed as wholes, not as
-   collections of parts. See [[savory-reductionist-vs-holistic-science]].
-
-2. **Brittleness**: The understanding that environments fall on a continuum
-   from nonbrittle to highly brittle, and that management practices must differ
-   accordingly. See [[savory-brittleness-scale]].
+   collections of parts. See [[savory-brittleness-scale]].
 
 3. **Time**: The recognition that time governs the relationship between
    grazing animals and plants, and that overgrazing is a function of timing,
-   not animal numbers. See [[savory-time-and-timing-guideline]].
-
-4. **Herd behavior**: The understanding that large herds of animals bunched
-   by predators provide essential disturbance through trampling and dunging
-   that maintains soil health in brittle environments. See
-   [[savory-animal-impact-and-herd-effect]].
+   not animal numbers. See [[savory-animal-impact-and-herd-effect]].
 
 ## From Parts to Wholes: The Testing Guidelines
 
 The testing guidelines in the HRM model are designed to ensure that any
 management action is evaluated in terms of its effect on the whole. The
-[[savory-cause-and-effect-guideline]] asks whether a proposed action addresses
-root causes rather than symptoms. The whole ecosystem guideline requires
-consideration of how any tool affects all elements and processes in the
-whole being managed, not just what it does to the thing that interests us
-most.
-
-The [[savory-weak-link-analysis]] ensures that investments target the
+[[savory-weak-link-analysis]] ensures that investments target the
 actual bottleneck in the system rather than symptoms of deeper problems.
-The [[savory-society-and-culture-guideline]] extends the concept of the
-whole to include human communities and quality of life.
-
-## The Implications for Organizations
-
-Savory extends the principle of holism beyond ecology to organizational
-structure. He argues that the autocratic hierarchy, the organizational form
-longest and best known to us, functions worst in the management of resources
-because it stifles the creativity demanded by the complexity of the task.
-Collaborative organizations that foster open, fearless communication between
-people are better suited to managing complex systems.
-
-No government currently, in Savory's view, is structured to manage the
-resources of any nation soundly. Every aspect of government is broken down
-to a portfolio represented by a narrowly focused bureaucracy. Only true
-collaborative management of the whole can lead to long-term success.
-
-## See Also
-
-- [[savory-reductionist-vs-holistic-science]]
-- [[savory-belief-systems-and-paradigm-shifts]]
+The [[savory-reductionist-vs-holistic-science]]
 - [[savory-holistic-decision-making]]
-- [[savory-ecosystem-foundation-blocks]]
 - [[savory-testing-and-management-guidelines]]
-- [[savory-holistic-management-overview]]
 - [[bullwhip-effect]]

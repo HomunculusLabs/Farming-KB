@@ -89,15 +89,9 @@ a friend who has grown a strain you already enjoy.
 
 ## Related
 
-- [[romulan]] Pages
-
 - [[cannabis-strain-selection-guide]]
-- [[cannabis-seed-banks-and-genetics]]
 - [[cannabis-sativa-vs-indica-guide]]
-- [[cannabis-phenotype-selection]]
 - [[cannabis-genetics-and-breeding]]
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
 - [[green-cannabis-grow-bible-indoor-grow-room-setup]]
-- [[cannabis-seed-banks-and-genetics]]
 - [[cannabis-controlled-pollination-seed-production]]
 - [[cannabis-seed-selection-and-strain-types]]

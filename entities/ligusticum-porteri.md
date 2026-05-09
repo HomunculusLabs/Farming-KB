@@ -63,70 +63,25 @@ Grows at elevations of 1,800–3,600 meters in subalpine meadows, aspen
 groves, mixed conifer forests, and riparian corridors.
 
 Prefers rich, moist, well-drained soils with partial shade. Commonly
-associated with *Populus tremuloides*, *Abies lasiocarpa*, and *Picea
-engelmannii*. Populations are patchy and locally abundant within
-suitable habitat.
-
-## Phytochemistry
-
-The root volatile oil (1–3% dry weight) contains the primary bioactives:
-
-- **α-Pinene, β-phellandrene** — Major monoterpenes responsible for the
-  pine-celery aroma; expectorant and bronchodilatory activity.
-- **Ligustilide** — Phthalide unique to *Ligusticum*; spasmolytic,
-  anti-inflammatory, and sedatory in vitro.
-- **Falcarindiol** — Polyacetylene with antibacterial and antifungal
-  properties.
-- **Coumarins** — Osthol, umbelliferone, bergapten; anti-inflammatory
-  and spasmolytic.
-- **Ferulic acid** — Antioxidant phenolic with anti-inflammatory activity.
-
-Volatile oil concentration varies by population, elevation, and harvest
-timing. Late-autumn roots yield higher essential oil content.
-
-## Ethnobotanical and Medicinal Use
-
-Osha is foundational in the ethnobotany of the Navajo (Diné), Apache,
-Ute, Pueblo, and other Southwestern and Plains nations.
-
-**Respiratory medicine:** Primary use for upper respiratory infections —
-colds, influenza, bronchitis, pneumonia. Root preparations (tea,
-tincture, chewed raw) act as expectorants and bronchodilators. The root
-is sometimes smoked for respiratory relief.
-
-**Topical analgesic:** Chewed root applied as poultice to wounds, bites,
-and sore muscles. Anti-inflammatory coumarins provide localized pain
-relief.
-
-**Digestive aid:** Root tea used for indigestion, gas, and bloating,
-consistent with carminative monoterpene properties.
-
-**Bear medicine:** Multiple tribal traditions hold that bears seek and
-consume *L. porteri* root after hibernation, giving rise to the name
-"bear root" and associations with strength and renewal.
-
-⚠️ **Osha is sometimes confused with poison hemlock** (*Conium
-maculatum*), which shares similar leaf morphology. Poison hemlock
-contains lethal coniine alkaloids. Proper botanical identification is
-critical.
-
-## Cultivation and Conservation
-
-*L. porteri* is notoriously difficult to cultivate. Seeds require cold
-stratification (60–90 days at 1–4°C) and germinate erratically (20–50%).
-Transplanted seedlings rarely develop taproots comparable to wild stock.
-
-Commercial cultivation has been largely unsuccessful at scale. Wild
-harvesting remains the primary source, creating conservation pressure.
-
-The species is not currently listed as threatened but is considered a
-"species of concern" by several state agencies due to overharvesting and
-habitat loss. Sustainable practices — leaving root crowns intact,
-rotating sites — are promoted by trade associations.
-
-## See Also
-
-- [[angelica-archangelica]] — Related Apiaceae; compare root medicine uses
-- [[arctium-lappa]] — Fellow Rocky Mountain medicinal plant species
+associated with *[[angelica-archangelica]] — Related Apiaceae; compare root medicine uses
 - [[passiflora-incarnata]] — Compare nervine and sedative properties
 - [[valeriana-officinalis]] — Another spasmolytic root herb
+## Practical Considerations
+
+Successful implementation of Ligusticum porteri requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

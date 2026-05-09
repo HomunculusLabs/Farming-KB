@@ -3,7 +3,7 @@ title: "Edible Mushroom Families Boleti Russula Lactarius Clavaria Puffballs Pal
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [mushroom-cultivation, mycology]
+tags: [[mushroom-cultivation, mycology]
 sources:
   - "raw/papers/julius-auboineau-palmer-about-mushrooms.md"
 ---
@@ -46,38 +46,12 @@ Puffballs are among the safest edible mushrooms for beginners. Palmer noted that
 
 ### Related
 
-- [[edible-mushroom-families-characteristics]]
-
 - [[calvatia-cyathiformis]]
-
-- [[sparassis-crispa]]
 
 - [[palmer-russula-lactarius-families]]
 
-- [[palmer-popular-errors-mushroom-tests]]
-
 - [[lactarius-deliciosus]] Concerns
-Modern mycology notes that inhalation of puffball spores (lycoperdonosis) can cause respiratory distress. See [[fungal-respiratory-diseases]].
-
-## Boleti (Boletaceae)
-
-### Identification
-Boleti are distinguished by the under-surface of the cap being composed of a "porous or sponge-like stratum" instead of gills. This tubular hymenophore is the key diagnostic feature separating them from gilled mushrooms.
-
-### Habitat and Foraging
-Palmer observed Italians making a harvest of Boleti in American forests, gathering "like varieties to those they eat at home." He found them "generally delicious" — this reflects the strong European foraging tradition for porcini and related species.
-
-### Color Change and Edibility
-Palmer addressed the common belief that color change indicates poison: "Nothing could be more false." He noted:
-- *Boletus cyaneuscens* turns "throughout the most beautiful blue" when bruised
-- Many species assume blue shades in lighter degrees when cut
-- One species turns blood red wherever bruised or cut
-- All of these color-changing species are edible
-
-### Contrast with Amanita
-The dangerous Amanita "remains the purest white under all conditions" — color change is NOT an indicator of poison.
-
-See [[porcini-boletus-guide]] for modern identification details.
+Modern mycology notes that inhalation of puffball spores (lycoperdonosis) can cause respiratory distress. See [[porcini-boletus-guide]] for modern identification details.
 
 ## Russula (Russulaceae)
 
@@ -96,23 +70,7 @@ Palmer's confidence in the edibility of pleasant-tasting Russula species came fr
 His correspondent Paul Casamajor confirmed this approach: "acting on this suggestion, he had gathered with his children a basket full, being careful to exclude all not Russula, and then, tasting each specimen, he cooked them and made an evening meal with perfect safety."
 
 ### Caution
-Some Russula species are acrid or peppery in taste. Palmer advised tasting a small piece raw — if unpleasant, avoid the species. While Palmer never encountered dangerous Russula species, modern mycology recognizes some mildly toxic members. See [[russula-edible-species]].
-
-## Lactarius (Milk Mushrooms)
-
-### Identification
-Closely resembling Russula but distinguished by the production of a milky or colored latex when the flesh is broken. Palmer described this as "an albuminous juice, holding resin in solution."
-
-### Edibility
-When the latex is naturally mild, the mushroom is edible. In most cases where it is not mild, "the action of salt and water changes its nature, and leaves the substance of the mushroom unhurt and good for food."
-
-### Preparation
-Acrid or peppery Lactarius species can be rendered edible by:
-- Soaking in salted water (drawing out the acrid latex)
-- Thorough cooking, which destroys the irritating compounds
-
-### Modern Note
-See [[edible-wild-mushroom-guide]] and [[lactarius-cultivation-attempts]] for modern perspectives.
+Some Russula species are acrid or peppery in taste. Palmer advised tasting a small piece raw — if unpleasant, avoid the species. While Palmer never encountered dangerous Russula species, modern mycology recognizes some mildly toxic members. See [[edible-wild-mushroom-guide]] and [[lactarius-cultivation-attempts]] for modern perspectives.
 
 ## Clavaria (Coral Fungi)
 
@@ -147,4 +105,3 @@ For any species not positively identified as safe, use Palmer's gradual dose pro
 "A variety once found edible never changes its properties." An edible species remains edible regardless of season, location, or growing conditions. This has been confirmed by modern mycology.
 
 ### Historical Context
-Palmer noted the state of public knowledge in 1877: "It seemed to me in 1874, and it appears still, that such general ignorance as exists in regard to a large, well-defined, and important natural kingdom is nothing less than a disgrace." He credited his work with increasing public interest: "its most valuable fruit is in the number now interested compared with those who cared anything about it fifteen years ago."

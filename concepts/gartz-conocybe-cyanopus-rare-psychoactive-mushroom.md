@@ -61,43 +61,7 @@ allow differentiation from other European Conocybe species:
 
 The Conocybe genus is a member of the Bolbitiaceae family, which is
 similar to the Coprinaceae, a family of dark-spored mushrooms that
-includes the [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
-species.
-
-## Chemical Analysis
-
-Psilocybin was discovered for the first time in a sample of fruiting
-bodies collected on September 4, 1961 in Seattle, WA. No psilocin was
-found in the initial analysis. Concentrations of psilocybin were
-strikingly similar to those found in samples collected in the
-Northwestern United States. Selected test results on alkaloid content
-as a percentage of dry weight showed:
-
-| Sample | Dry Weight (mg) | Psilocybin (%) | Baeocystin (%) |
-|--------|-----------------|----------------|----------------|
-| 1      | 5               | 0.84           | 0.15           |
-| 2      | 6               | 0.73           | 0.12           |
-| 3      | 7               | 1.01           | 0.20           |
-| 4      | 10              | 0.91           | 0.16           |
-| 5      | 12              | 0.89           | 0.14           |
-
-In 1977, Repke and his research team reported the discovery of
-baeocystin as well as psilocybin in a Conocybe species from the
-United States and Canada. Norwegian researchers confirmed the
-existence of trace amounts of psilocin in 1982/83, in addition to
-0.33 to 0.55% of psilocybin. Beug and Bigwood reported 0.93% of
-psilocybin in samples from the Pacific Northwest.
-
-## Sclerotia Formation
-
-After several days, spores from one of the fruiting bodies germinated
-on malt agar and, compared to other species, proceeded to grow very
-slowly into their permanent forms or "sclerotia." The sclerotia
-showed no blue discolorations and were found to contain 0.25%
-psilocybin when dry, while no additional alkaloids were detected.
-Sclerotia are compacted masses of mycelium that serve as survival
-structures, a feature that connects to broader research on fungal
-survival strategies and [[mushroom-tropisms-phototropism-geotropism]].
+includes the [[mushroom-tropisms-phototropism-geotropism]].
 
 ## European Distribution
 
@@ -122,7 +86,6 @@ chemical composition and alkaloid content.
 
 ## See Also
 
-- [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]] - Another rare non-Psilocybe psychoactive mushroom
 - [[gartz-psilocybin-alkaloid-baeocystin-chemistry]] - Chemistry of
   baeocystin and related alkaloids
 - [[gartz-mushroom-identification-dangers-and-tips]] - Identification

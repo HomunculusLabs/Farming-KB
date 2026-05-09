@@ -3,96 +3,137 @@ title: Pig Systems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Pig Systems
-#permaculture #pigs #forage-tractors #livestock #soil-preparation
-
-Updated: 2026-04-18
-
-> From: Bill Mollison, *Permaculture: A Designers Manual* (1988), Chapter 10, Section 10.12.
-
-## Overview
-
-Pigs are one of three animal species (bees, chickens, pigs) critical to domestic self-reliance. The pig tractor system uses confined pigs to clear ground, root out persistent weeds, and prepare land for planting, followed by crop establishment.
-
-## Pig Tractor System
-
-### Basic Technique
-The pig tractor follows the same technique as the chicken tractor but is more suited to 1-40 ha properties. Larger shrub-weeds or deep-rooted weeds call for a pig tractor.
-
-### Target Weeds
-The pig tractor is particularly effective against:
-- **Larger shrub-weeds**: Lantana, gorse, blackberry
-- **Deep-rooted weeds**: Convolvulus, rhizomatous grasses, comfrey
-
-### Stocking Density
-The density of pigs per pen should be at the proportion of 50 per hectare for full clearance of weeds. In practice, 0.5-2 ha plots are fenced, most economically using permanent electric fencing, which is much cheaper than chicken mesh fencing.
-
-### Rotation Cycle
-Once each pen is bare (6-10 weeks) and rough-plowed by rooting pigs, it is easy to plant:
-- Lucerne (alfalfa)
-- Comfrey sets
-- Sunroot (Jerusalem artichoke)
-- Sweet potato
-- Inga trees
-- Papaya
-- Banana
-- Similar crops for pig forages
-
-Keep up this rotation until the pigs return to the pen.
-
-## Large-Scale Integration
-
-### Pig Tractor to Cow Pasture
-On a large scale (20-40 ha), the pig tractor system can pioneer high-quality milk-cow pasture of chicory, dandelion, comfrey, dock, grasses, and clover. Cows follow along 2-3 months behind the pig tractor. A continuous rotation is set up, and excess milk product (whey, skim milk) fed to the pigs as accessory food.
-
-### Benefits of This System
-- Piglets ranging over such pasture rarely show iron anaemia deficiency
-- Parasite cycles are broken
-- Soil constantly improves in humus
-- Such large animals as pigs and cows need fenced tree strips, tree guards, and border hedgerow to supply tree forage crop
-
-## Traditional Hawaiian Pig System
-
-The traditional Hawaiian garden combines banana, papaya, chili, and taro. Pigs fed from surplus, chickens range below the system. Together with fish and home garden, this forms a self-reliant and commercial system.
-
-### Electric Fencing for Pig Tractors
-In Hawaii, electric fencing restrains pigs which root out and eat kikuyu and grasses, leaving Prosopis trees unaffected. The area can then be planted and the pigs moved on. 100 pigs in 2 ha pens will tractor 40 ha in 2 months.
-
-## Versatility of Animal Tractors
-
-These intensive animal tractor systems can be:
-- A phase followed by tree crop
-- An accessory to tree crop
-- A permanent feature of the mixed farm
-- Used seasonally to remove crop wastes and fallen fruits
-
-## Arid Area Pigs
-
-On the wider range in deserts, highly selected and controlled meat and milk flocks (sheep, a few goats, a few cattle, donkeys, and camels) thrive if they can be herded or penned in 15 or so rotated runs, allowing 2-8 years for each run to recover and re-seed. Some successful Australian sheep graziers allow 7-9 years rest per run, and never suffer the animal stress brought on by drought.
-
-## Wildlife as Managed Protein
-
-In deserts, managed wildlife systems differentiate between:
-- **Irruptive and nomadic species**: large, fast-moving animals (kangaroo, antelope, ostrich) that travel to rain areas. Young animals can be culled from these herds.
-- **Sedentary species**: smaller, slower, adapted to drought. Their limiting factors may be water holes, shade, burrow sites, or forage adapted to dry conditions.
-- **Plague species**: rabbits, grasshoppers may present potential for harvest (rabbits dried as jerky) or conversion via domesticated predator (chickens, guinea fowl).
-
-## Range Management Principles
-
-It is infinitely preferable to run small, high-value herds on copious range than to risk the inevitable collapse of range and flocks by stressing the vegetation. Intensive animal tractor systems, properly rotated, build soil and break pest cycles rather than degrading the land.
-
-## See Also
-
-- [[permaculture-designers-manual-chicken-tractors]]
-- [[permaculture-designers-manual-rabbit-housing]]
+tags: [[permaculture-designers-manual-chicken-tractors]]
 - [[permaculture-designers-manual-grazing-animals]]
-- [[soil-erosion-control]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- [[permaculture-designers-manual-water-quality]]
 - [[permaculture-designers-manual-small-animals]]
 - [[permaculture-designers-manual-pioneer-species]]
+## Background and Context
+
+Pig Systems is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

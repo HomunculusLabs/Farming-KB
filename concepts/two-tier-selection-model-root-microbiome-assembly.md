@@ -114,9 +114,6 @@ Key unanswered questions include: which aspects of host genotype drive the obser
 
 ## See Also
 
-- [[cannabis-microbiome-cultivar-specificity]]
 - [[cultivar-endorhiza-bacterial-communities-cannabis]]
-- [[root-exudates-rhizosphere]]
 - [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
-- [[singh-fungal-plant-growth-promoting-mechanisms]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]

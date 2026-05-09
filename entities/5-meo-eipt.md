@@ -102,21 +102,12 @@ The compound is of interest primarily to psychopharmacology researchers studying
 
 ## See Also
 
-- [[5-meo-dmt]]
 - [[5-meo-mipt]]
-- [[5-meo-dipt]]
 - [[dipt]]
-- [[4-ho-mipt]]
 - [[dmt-nn-dimethyltryptamine]]
-- [[psilocin]]
 - [[bufotenin]]
-- [[tryptamine]]
-- [[n-n-dimethyltryptamine]]
-- [[alpha-methyltryptamine]]
+- [[dmt]]
 - [[dmt-nn-dimethyltryptamine]]
-- [[4-ho-dipt]]
 - [[4-aco-dipt]]
-- [[hordenine]]
 - [[tryptophan]]
-- [[indole]]
 - [[4-ho-met]]

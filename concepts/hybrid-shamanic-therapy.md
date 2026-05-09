@@ -12,9 +12,7 @@ created: 2026-05-08
 Hybrid shamanic therapeutic rituals represent a contemporary fusion of Western
 psychotherapeutic approaches and traditional indigenous shamanic healing
 practices. Ralph Metzner, who participated in and observed over 100 such
-ceremonies in Europe and North America, described these as "neoshamanic
-medicine circles" that incorporate fundamental elements from both traditions.
-These hybrid forms have emerged as Western seekers have gained access to
+ceremonies in Europe and [[ayahuasca-tourism-western-seekers-and-integration]] have gained access to
 entheogenic plant medicines and recognized the limitations of purely Western
 therapeutic frameworks for understanding the full scope of psychedelic
 experience.
@@ -40,34 +38,7 @@ traditional shamanic ceremonies:
   if outside or in a tipi) serves as a focal point and symbolic center.
 
 - **Experienced guide**: An elder or guide with extensive entheogenic
-  experience, sometimes assisted by one or more helpers, facilitates the
-  ceremony.
-
-- **Low light or semidarkness**: To facilitate the emergence of inner
-  visions; eye-shades are sometimes used.
-
-- **Music and sound**: Drumming, rattling, singing, or evocative recorded
-  music provide structure and emotional support throughout the journey.
-
-- **Invocation of directions**: Dedication of ritual space by invoking
-  spirits of the four directions and elements, creating a ceremonial container.
-
-- **Spiritual attitude**: Cultivation of respectful, reverent, and
-  spiritually oriented intention among all participants.
-
-## Preparation and Integration
-
-The hybrid model emphasizes both preparation before and integration after
-the ceremonial experience:
-
-**Preparation** typically involves sharing of intentions and purposes among
-participants, meditation, solo time in nature, and expressive arts modalities
-such as drawing, painting, or journaling. Experienced practitioners devote
-considerable attention to clarifying their intentions regarding healing and
-divination, and to arranging a peaceful setting free from distractions.
-
-**Integration** practices occur after the ceremony, often the following morning,
-and involve participants sharing lessons learned and how they plan to apply
+  experience, sometimes assisted by one or more help [[talking-staff-and-council-practice-in-entheogenic-ceremonies]] how they plan to apply
 insights in daily life. This distinguishes hybrid circles from recreational use.
 
 ## The Talking Staff
@@ -106,12 +77,7 @@ beings and to recognize that we live in multiple worlds of consciousness."
 This expanded worldview represents a significant departure from conventional
 Western psychology and aligns more closely with the indigenous shamanic
 perspective that Metzner identified as the two most radical challenges to
-the Western paradigm: the existence of multiple realities and the reality of
-spirit beings.
-
-## Syncretic Folk Religious Ceremonies
-
-Distinct from both traditional shamanic healing and Western psychotherapy,
+the Western paradigm: the existence of [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] healing and Western psychotherapy,
 syncretic folk religious ceremonies represent a third model. These include
 the Brazilian ayahuasca churches (Santo Daime, Uniao de Vegetal, and
 Barquinia), the Native American Church, and the Bwiti cult in Gabon. These
@@ -135,10 +101,8 @@ whilst all about it, parted from it by the filmiest of screens, there lie
 potential forms of consciousness entirely different. No account of the
 universe in its totality can be final which leaves these other forms of
 consciousness quite disregarded."
-
 ## See Also
 
-- [[psychedelic-psychotherapy-history]]
 - [[set-and-setting-hypothesis]]
 - [[shamanic-entheogenic-ceremonies]]
 

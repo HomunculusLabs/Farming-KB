@@ -14,62 +14,9 @@ updated: 2026-04-25
 sources: []
 ---
 
-# [[biochar]] Soil Remediation vs Phytoremediation
-
-A comparison of two complementary approaches to cleaning contaminated soils:
-[[biochar-soil-remediation]] (physical-chemical amendment) and
-[[phytoremediation-mechanisms]] (biological removal/degradation).
-
-## Overview
-
-| Aspect | Biochar Remediation | Phytoremediation |
-|--------|-------------------|-----------------|
-| Nature | Physical-chemical amendment | Biological process using living plants |
-| Primary action | Immobilizes contaminants | Removes or degrades contaminants |
-| Speed of effect | Immediate upon application | Slow (seasons to years) |
-| Depth of treatment | Full mixing depth (typically 0-30 cm) | Root zone only (1-3 m maximum) |
-| Energy input | Moderate (production energy) | Low (solar-driven) |
-| Longevity | Hundreds to thousands of years | Ongoing while plants are living |
-| Cost | Moderate (material + transport) | Low (seed + maintenance) |
-
-## Mechanism of Action
-
-### Biochar Remediation
-
-Biochar is a carbon-rich porous material produced through pyrolysis
-of biomass. When applied to contaminated soil at rates of 1-10% by
-weight, it acts through multiple simultaneous mechanisms:
-
-- **Heavy metal immobilization**: Adsorption onto surface functional
-  groups, precipitation as insoluble compounds, surface complexation,
-  and redox reactions that alter metal speciation.
-- **Organic pollutant sequestration**: Hydrophobic partitioning into
-  the carbon matrix and pore-filling that physically traps molecules
-  within the porous structure.
-- **Microbial habitat enhancement**: Biochar provides refuge for
-  beneficial soil microorganisms and can act as an electron shuttle,
-  supporting microbial degradation processes.
-
-The key outcome is contaminant immobilization: pollutants remain in
-soil but are rendered less bioavailable and less mobile, reducing
-ecological and human health risks. Biochar does not destroy
-contaminants but locks them away for geologic timescales.
-
-### Phytoremediation
-
-Phytoremediation employs living plants to address soil contamination
-through six recognized mechanisms:
-
-- **Phytoextraction**: Plants absorb contaminants into above-ground
-  tissues, which are then harvested and disposed of safely.
-- **Phytodegradation**: Plants metabolically break down organic
-  contaminants within their tissues.
-- **Rhizodegradation**: Root exudates stimulate microbial communities
-  that degrade contaminants in the rhizosphere.
-- **[[phytostabilization]]**: Plants reduce contaminant mobility through
+# [[biochar-soil-remediation]] (physical-chemical amendment) and
+[[phytostabilization]]**: Plants reduce contaminant mobility through
   root binding and soil stabilization.
-- **[[phytovolatilization]]**: Plants convert contaminants to volatile
-  forms released through transpiration.
 - **[[rhizofiltration]]**: Roots absorb and concentrate contaminants from
   water passing through the root zone.
 

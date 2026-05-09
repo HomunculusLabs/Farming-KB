@@ -13,13 +13,7 @@ type: concept
 
 ## Overview
 
-The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[psilocybe-cubensis]]. This finding, reported by Gartz, Adam, and Vorbrodt in 1990, was the first documented instance of a brassinosteroid accelerating both mycelial colonization and fruiting body production in a coprophilous fungus cultivated on a complex natural substrate.
-
-## Substrate Composition
-
-The cultivation substrate used in these experiments consisted of:
-
-- **Horse dung**: providing the primary organic matter and nitrogen source typical of [[psilocybe-cubensis]] natural ecology
+The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[psilocybe-cubensis]] natural ecology
 - **Rice grain**: supplementing the dung with readily available carbohydrates to accelerate colonization
 - **Water**: at a ratio producing a moist but not waterlogged substrate
 - **KH₂PO₄**: added at 5 g per liter of substrate as a phosphorus and potassium supplement
@@ -28,46 +22,7 @@ The combination of dung and grain is a traditional approach for cultivating copr
 
 ## Brassinosteroid Application Rate
 
-The brassinosteroid was applied at a concentration of **10⁻² ppm** (0.01 ppm, or 10 parts per billion). This extremely low concentration is consistent with brassinosteroid activity in plants, where these compounds are active at nanomolar concentrations. The synthetic 22S,23S-homobrassinolide was prepared from [[stigmasterol]].
-
-The low effective dose is significant because it suggests that brassinosteroids interact with highly specific receptor mechanisms in fungi, analogous to their mode of action in higher plants. This receptor-mediated sensitivity explains how such trace quantities can produce measurable growth effects.
-
-## Fruiting Acceleration
-
-The most striking result was the acceleration of the fruiting cycle:
-
-- **Control cultures**: first sporocarps appeared within 4 to 5 weeks after inoculation
-- **Brassinosteroid-treated cultures**: first fruit bodies appeared within 3 to 3.5 weeks
-
-This represents a **25 to 30% reduction** in the time to first flush. The acceleration was consistent across ten experimental runs, demonstrating reproducibility. The earlier onset of fruiting suggests that the brassinosteroid either primes the mycelium for the developmental switch from vegetative to reproductive growth, or that enhanced mycelial vigor reaches the critical biomass threshold for fruiting initiation sooner.
-
-## First Flush Yield Enhancement
-
-The first flush showed dramatic improvement in both the number of fruit bodies and individual size:
-
-- **Control**: 1 to 3 mushrooms per first flush
-- **Treated**: 4 to 7 mushrooms per first flush
-
-This represents approximately a **2 to 3.5-fold increase** in first flush pin count. In commercial mushroom cultivation, the first flush typically accounts for the largest proportion of total yield, making this enhancement particularly valuable.
-
-## Dry Mass Improvement
-
-Across five flushes during the full fruiting cycle, brassinosteroid-treated cultures produced:
-
-- **Treated**: 3.4 to 3.9 g dry mass per 10 g substrate
-- **Control**: 2.3 to 2.9 g dry mass per 10 g substrate
-
-This represents a **30 to 48% increase** in total dry mass yield. The improvement is economically significant because dry mass correlates directly with the marketable product weight after dehydration.
-
-## Suppression of Incomplete Fruit Bodies
-
-One of the most practically useful findings was the near-complete suppression of abortive (incomplete) fruit bodies. In standard mushroom cultivation, aborts are common and represent wasted metabolic energy that the mycelium expends without producing a harvestable crop.
-
-The brassinosteroid-treated cultures showed that the steroid promotes more efficient resource allocation within the developing fruiting body, reducing the metabolic failures that lead to aborts. This effect may be related to the anti-stress properties of brassinosteroids documented in plant science, where they help maintain cellular homeostasis under suboptimal conditions.
-
-## Morphological Changes
-
-Interestingly, the brassinosteroid treatment also altered the morphology of the resulting fruit bodies. Treated cultures produced mushrooms that **lacked the typical membranous annulus** (ring) on the stem. The annulus is a taxonomically important feature of [[psilocybe-cubensis]].
+The brassinosteroid was applied at a concentration of **10⁻² ppm** (0.01 ppm, or 10 parts per billion). This extremely low concentration is consistent with brassinosteroid activity in plants, where these compounds are active at nanomolar concentrations. The synthetic 22S,23S-homobrassinolide was prepared from [[psilocybe-cubensis]].
 
 This morphological change raises important considerations for:
 
@@ -90,11 +45,7 @@ The findings suggest several practical applications:
 - **Lower abort rates**: more efficient conversion of substrate to product
 - **Minimal input cost**: effective at parts-per-billion concentrations
 
-However, the morphological changes (annulus loss) and the current regulatory status of brassinosteroids as plant growth regulators may limit commercial adoption. The synthetic preparation from [[stigmasterol]] also adds complexity compared to simply using the raw phytosterol.
-
-## Experimental Design and Controls
-
-The study employed a rigorous experimental framework with ten independent runs for both agar and dung/grain substrate systems. This replication is notable because mycological experiments with bioactive compounds often suffer from small sample sizes. The use of a well-characterized strain of [[psilocybe-cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
+However, the morphological changes (annulus loss) and the current regulatory status of brassinosteroids as plant growth regulators may limit commercial adoption. The synthetic preparation from [[psilocybe-cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
 
 The consistent results across ten runs argue strongly against a placebo or偶然 effect. The probability of consistently observing 25 to 30% faster fruiting, 2 to 3.5-fold higher first flush counts, and 30 to 48% greater dry mass by chance alone is vanishingly small.
 
@@ -131,8 +82,6 @@ The brassinosteroid results are notable because they represent one of the few we
 
 ## See Also
 
-- [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]
-- [[brassinosteroid]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[brassinosteroid-effects-on-fungal-morphology]]

@@ -42,7 +42,7 @@ Fukuoka also experimented with sowing vegetable seeds such as mustards, beans, a
 
 A critical breakthrough came when Fukuoka tried controlling weeds with weeds. He sowed clover and Chinese milk vetch over the ridges of maturing barley one month before the barley harvest. This method was not immediately successful but gave an important clue leading to the rice and barley cropping method in a ground cover of clover.
 
-See also [[fukuoka-green-manure-clover-revolution]] and [[fukuoka-white-clover-ground-cover]].
+See also [[fukuoka-white-clover-ground-cover]].
 
 ## From High Ridge to Level Field
 
@@ -68,13 +68,13 @@ Fukuoka initially expected yields would drop off after several years of continuo
 
 In 1962, Fukuoka reported these experiences in an article entitled "The Truth about Direct-Seeding Rice and Barley Cultivation," published in a leading farming and gardening journal in Japan. One high-ranking official in the Ministry of Agriculture and Forestry called it "research in a class by itself... a guiding light for Japanese rice cultivation ten years hence."
 
-The method was later studied at a large number of agricultural testing stations throughout Japan. In almost every instance, researchers found no basic problem with the no-tillage succession cropping of rice and barley using straw mulch. See [[fukuoka-scattering-straw-technique]] and [[fukuoka-straw-mulch-system]].
+The method was later studied at a large number of agricultural testing stations throughout Japan. In almost every instance, researchers found no basic problem with the no-tillage succession cropping of rice and barley using straw mulch. See [[fukuoka-straw-mulch-system]].
 
 ## Philosophy: One Thing is All Things
 
 The development reflects Fukuoka's fundamental insight: "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things." Once he decided to sow rice in the fall, he found he could also stop transplanting, plowing, applying chemical fertilizers, preparing compost, and spraying pesticides. Natural farming treats everything as part of a whole, while scientific farming divides rice cultivation into narrow specialties.
 
-See also [[fukuoka-no-cultivation-principle]] and [[fukuoka-rice-barley-no-till-method]].
+See also [[fukuoka-rice-barley-no-till-method]].
 
 ## Three Decades of Conviction
 
@@ -84,11 +84,7 @@ The experience demonstrated conclusively that no-tillage cultivation not only do
 
 ## See Also
 
-- [[fukuoka-natural-rice-barley-cultivation]]
-
 - [[fukuoka-rice-barley-no-till-method]]
-
-- [[fukuoka-four-principles-natural-farming]]
 
 - [[fukuoka-green-manure-clover-revolution]]
 

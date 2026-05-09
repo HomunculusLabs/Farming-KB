@@ -12,112 +12,7 @@ sources:
 
 ## Overview
 
-JADAM nutrient management is built on three pillars: (1) the [[jadam-wetting-agent-jwa]]) as the universal delivery vehicle for all inputs, (2) sea water/sea salt and phyllite solution as mineral supplements, and (3) [[jadam-liquid-fertilizer]] (JLF) made from crop-specific materials. The system rejects stage-based fertilizer programs as marketing tools and emphasizes soil application over [[foliar-feeding]].
-
-## JADAM Wetting Agent (JWA)
-
-### What It Is
-JWA is a surfactant/emulsifier and the most critical material in JADAM pesticide and nutrient delivery. Without JWA, you cannot make effective pesticide. It coats, wets, and delivers substances to the target. It can replace machine oil or synthetic wetting agents. Cost: ~50 cents per liter.
-
-### Recipe for 110 L (29 gal) Batch
-
-**Ingredients:**
-- Soft water -- 2.5 kg (0.66 gal)
-- Caustic potash (KOH) -- 3.2 kg (7.05 lb)
-- Canola oil -- 18 L (4.76 gal)
-- Water (first addition) -- 20 L (5.3 gal)
-- Water (second addition) -- 60 L (15.9 gal)
-
-**Equipment:**
-- 110 L heat-resistant container with lid (clean)
-- Electric drill with mixing attachment
-- Clean long stick
-
-**Procedure:**
-1. Pour 2.5 kg soft water and 3.2 kg caustic potash into container; close lid; melt by rolling container on its side
-2. Add 18 L canola oil; mix with electric drill until like thin mayonnaise (~10 minutes, longer in summer)
-3. Close lid; let sit 3 days -- will harden like butter
-4. If not hardened or layers separated, mix again with drill until thin mayo consistency
-5. Add 20 L water; use drill to remove lumps from container walls (do not over-mix or becomes white cream)
-6. Add 60 L water; stir thoroughly with clean stick, including bottom
-7. Will melt slowly over 24 hours and be completed
-8. Store in tight-sealed container -- **no expiration date**
-
-**Usage:** Mix 3-15 L with water to make 500 L (132 gal) of pesticide or nutrient solution.
-
-### JWA Mixing Guidelines
-- Standard: 3 L per 500 L water
-- For stronger pesticide: increase to 5-10 L
-- For fog machines (17 L water): use 0.5 L JWA
-- More JWA = stronger pesticide and germicide effect
-- After pest control, bring back down to 3 L
-- If over 10 L used continuously, can harm plants and damage fruit coatings
-- JWA is easily broken down by microorganisms -- if using more than 20 L JMS in 500 L, JWA becomes ineffective
-
-## Sea Water and Sea Salt
-
-### Philosophy
-83 elements have been found in sea water. The mineral content of sea water is strikingly similar to amniotic fluid and plant fluid. For hundreds of years, soil has experienced leaching of nutrients -- bring them back from the sea.
-
-### Application
-- 20 L (5.28 gal) of sea water per 0.1 ha (1/4 ac), or 600 g (1.3 lb) sea salt
-- Equivalent to 500 g salt per 20 L seawater
-- Dilute with 30-100x water (sea water ~3% salt; plant body fluid ~1%)
-- Apply 3-4 times per month with JMS
-- For open fields: apply before rain
-- For greenhouses: apply with plenty of water
-
-### Benefits
-- Supplements minerals leached from soil (S, Mg, Ca, K, B, P, I, Se, Ge)
-- Improves sweetness, coloring, storage period, and product value
-- Confirmed by Korean National Institute of Agricultural Sciences
-- Note: seawater decreases JWA wetting power -- apply to soil, not foliar
-
-### Warnings
-- Do not apply at less than 30x dilution -- salinity too strong
-- Do not sprinkle salt directly onto soil
-- Do not spray undiluted seawater
-
-## Phyllite Solution
-
-### What It Is
-Fine-powdered phyllite (a sedimentary rock) dissolved in water. Contains almost all inorganic nutrients required by plants.
-
-### Preparation
-- Add 60 kg (132 lb) phyllite powder to 500 L water
-- Stir and let settle
-- Scoop out upper water for use ("phyllite solution")
-- Refill water after each use; continue for one year
-- Can also sprinkle phyllite powder directly onto soil (~1 kg per 3.3 sq m)
-
-### Benefits
-- Supplies diverse minerals
-- Works synergistically with seawater
-- Inexpensive and widely available
-
-## Calcium Management
-
-### Role in Plants
-- Formation of spindle fibers during cell wall synthesis and cell division (as Ca2+)
-- Signal transmitter for plant cell membrane responses and hormone signals
-- Deficiency causes necrosis in fast-dividing tissues (young leaf tips)
-- In slow-growing plants, causes chlorosis
-
-### Calcium Sources in JADAM
-- **Sea water/sea salt:** Natural source of calcium (417,000,000 ng/kg in seawater)
-- **Phyllite solution:** Contains calcium among other minerals
-- **Calcium JLF:** Made from calcium-rich materials (eggshells, bones, etc.)
-- **Humus soil:** Contains abundant minerals including calcium
-
-### Calcium Phosphate JLF
-Used in the "Reproductive Growth Promoter" program:
-- JMS -- 500 L + Seawater 60 L + Phyllite solution 60 L + GC-JLF 30 L + **Calcium phosphate JLF -- 60 L** per 0.33 ha
-
-### Calcium JLF for Fruit Growth
-- JMS -- 500 L + Seawater 60 L + Phyllite solution 60 L + **Calcium JLF -- 30 L** + Potassium JLF -- 40 L per 0.33 ha
-- To control growth: remove potassium JLF and increase calcium JLF
-
-## [[jadam-liquid-fertilizer-nutritional-perspective]] (JLF)
+JADAM nutrient management is built on three pillars: (1) the [[jadam-liquid-fertilizer]] (JLF) made from crop-specific materials. The system rejects stage-based fertilizer programs as marketing tools and emphasizes soil application over [[jadam-liquid-fertilizer-nutritional-perspective]] (JLF)
 
 ### Simple Recipe
 Container + ingredient + water + handful of leaf mold. That is it.
@@ -145,3 +40,62 @@ JADAM rejects the idea that crops need different fertilizers at different growth
 - 4% from inorganic nutrients (3.5% macro: N, K, Ca, P, Mg, B, S; 0.5% trace: Fe, Mn, Mo, Cu, Zn, Co)
 - "Partial body fertilizers" (rice bran, perilla pulp, oil cake, bone meal) should be limited to 1/10 of total
 - "Simple fertilizers" (chemical NPK) disrupt soil balance; avoid entirely
+## Practical Considerations
+
+When working with JADAM Nutrient Management -- Wetting Agent and Calcium, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

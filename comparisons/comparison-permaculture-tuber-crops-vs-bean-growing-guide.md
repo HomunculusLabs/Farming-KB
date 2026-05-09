@@ -25,45 +25,6 @@ systems.
 
 ## Permaculture Tuber Crops
 
-[[permaculture-tuber-crops]]
-
-Tuber crops are among the highest-calorie-producing plants available to home
-gardeners, making them essential for food security and self-sufficiency. The
-category includes potatoes (Solanum tuberosum), sweet potatoes (Ipomoea
-batatas), Jerusalem artichokes (Helianthus tuberosus), cassava (Manihot
-esculenta), yams (Dioscorea spp.), oca (Oxalis tuberosa), and mashua (Tropaeolum
-tuberosum). Potatoes are the most productive calorie crop per square foot in
-temperate climates, yielding 5-15 lbs per 10-foot row of well-managed plants.
-Sweet potatoes excel in warm climates and are among the most nutritious
-vegetables available, rich in beta-carotene, vitamin C, and complex
-carbohydrates. Jerusalem artichokes are virtually indestructible perennials that
-produce prolifically once established and can be harvested throughout winter in
-milder climates.
-
-Tuber crops play important roles in nutrient cycling within permaculture
-systems. Deep-rooted species like cassava and yam access mineral nutrients from
-subsoil layers unavailable to shallow-rooted crops, effectively mining nutrients
-through root exudates and returning them to the biological cycle through leaf
-fall and root decomposition. Leguminous tuber crops like jicama (Pachyrhizus
-erosus) and groundnut (Apios americana) fix atmospheric nitrogen through
-rhizobial symbiosis while producing edible yields, contributing to soil
-fertility in polyculture arrangements. These dual-function crops reduce or
-eliminate the need for external nitrogen inputs in the root crop layer of a food
-forest.
-
-Harvesting tubers inevitably disturbs soil structure, making sheet mulching
-after harvest essential for rebuilding organic matter and preventing erosion.
-Leaving some tubers in the ground, as commonly practiced with Jerusalem
-artichoke, provides continuous root exudate input that feeds soil microbial
-communities including arbuscular mycorrhizal fungi. Most tuber crops store well
-for months in cool, dark, humid conditions (40-50F for potatoes, 55-60F for
-sweet potatoes), providing winter food security without canning or freezing. The
-main challenges include pest pressure (Colorado potato beetles on potatoes,
-wireworms, voles), disease (late blight, scab), and the soil disturbance
-inherent in harvesting.
-
-## Bean Growing
-
 [[bean-growing-guide]]
 
 Beans are one of the most productive and versatile crops in the home garden,
@@ -139,12 +100,8 @@ minimal care beyond planting, weeding, and harvesting. Dried beans provide
 shelf-stable protein that stores indefinitely without refrigeration or
 processing, complementing the carbohydrates from tuber crops to create a
 nutritionally complete staple food base.
-
 ## See Also
 
-- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
-
 - [[companion-planting-reference]]
-- [[comparison-companion-planting-vs-intercropping]]
 - [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-perennial-vegetables-vs-cover-crops]]

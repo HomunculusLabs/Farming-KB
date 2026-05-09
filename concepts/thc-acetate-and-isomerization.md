@@ -22,7 +22,7 @@ sources:
 
 # THC Acetate and Isomerization
 
-Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "Cannabis Alchemy" (1979). These processes convert non-psychoactive [[cannabidiol-cbd]]) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
+Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "Cannabis Alchemy" (1979). These processes convert non-psychoactive cannabidiol (CBD) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
 
 Related: [[cannabis-extraction-basics]], [[cannabis-hashish-guide]]
 

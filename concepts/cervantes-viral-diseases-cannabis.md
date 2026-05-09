@@ -29,49 +29,9 @@ wounds and cannot penetrate intact plant surfaces on their own.
 
 Viruses are spread by multiple vectors in the cannabis garden:
 
-- Insects: [[cervantes-aphids-identification-control]]
-  and [[cervantes-whitefly-pest-control]] are the
+- Insects: [[cervantes-whitefly-pest-control]] are the
   worst viral vectors
-- Mites: [[cervantes-spider-mites-identification-control]] can also transmit viruses between plants
-- Mechanical transmission: contaminated tools transport
-  viruses from one plant to another during pruning, cloning,
-  and other operations
-- Plant-to-plant contact: infected foliage touching healthy
-  foliage can transfer virus particles
-- Human vectors: hands, clothing, and equipment can carry
-  virus particles between plants
-
-Once a virus takes over plant cells, it multiplies using the
-plant's own cellular machinery. Viral diseases move into the
-plant's fluid distribution system and destroy it, which often
-causes leaf spots and mottling. A virus can completely take
-over a plant in a few days.
-
-## Symptoms of Viral Infection
-
-Typical symptoms of viral infection on cannabis include:
-
-- Sickly, stunted growth that does not respond to nutrient
-  or environmental corrections
-- Leaf and stem spots that do not match common fungal or
-  bacterial disease patterns
-- Yellowing (chlorosis) that spreads irregularly
-- Mottling: irregular patches of light and dark green on
-  leaves
-- Leaf curling, distortion, or malformation
-- Low yields and poor flower development
-- General decline that resists all treatment efforts
-
-## Tobacco Mosaic Virus (TMV)
-
-A specific viral threat is Tobacco Mosaic Virus (TMV), which
-can be transmitted to cannabis through exposure to tobacco
-products. Growers who use tobacco and handle plants without
-washing hands can introduce TMV to their garden. TMV causes
-characteristic mosaic patterns on leaves, stunted growth, and
-reduced yields.
-
-Tobacco-based [[cervantes-homemade-pest-disease-sprays]] may also carry TMV, presenting a tradeoff between
+- Mites: [[cervantes-homemade-pest-disease-sprays]] may also carry TMV, presenting a tradeoff between
 pest control and disease risk.
 
 ## Why Viruses Cannot Be Cured
@@ -116,14 +76,8 @@ bleach solution is essential practice.
 
 ## Related Topics
 
-- [[cervantes-aphids-identification-control]] - primary viral
-  vector insect
 - [[cervantes-whitefly-pest-control]] - another viral vector
-- [[cervantes-spider-mites-identification-control]] - mite
-  virus transmission
 - [[cervantes-damping-off-seedling-disease-prevention]] -
   seedling disease management
-- [[cervantes-pest-disease]] - general pest and disease
-  reference
 - [[cervantes-biological-pest-control-predators]] - vector
   insect control

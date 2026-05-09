@@ -6,9 +6,10 @@ type: concept
 tags: [fungi, mushrooms, tools, techniques, education, foraging, ecology, species]
 sources: []
 ---
+
 ## Overview
 
-[[mold-identification-guide|Mushroom]] photography requires specific techniques different from general nature photography. [[wood-decay-fungi|Fungi]] are often small, grow in low-light forest environments, and have challenging shapes and textures. This guide covers equipment, lighting, composition, and specialized techniques for capturing compelling mushroom images.
+Mushroom photography requires specific techniques different from general nature photography. Fungi are often small, grow in low-light forest environments, and have challenging shapes and textures. This guide covers equipment, lighting, composition, and specialized techniques for capturing compelling mushroom images.
 
 ## Equipment
 
@@ -140,10 +141,53 @@ Tips:
 ### In Situ Identification Photography
 For documentation and identification purposes:
 - Cap top (showing color, texture, any patterns)
-- Cap underside (gills beneath -- critical for identification)
+- Cap underside (gills, pores, teeth -- critical for identification)
 - Stem (base to top, any ring or volva)
 - Cross-section (cut in half vertically)
 - Habitat (surrounding trees, soil type, associated plants)
-- [[spore-print-collection]] (if possible)
+- Spore print (if possible)
+
+### Time-Lapse
+- Capture mushroom growth from pin to full expansion (6-48 hours typically)
+- Intervalometer or camera app for automated shooting
+- Waterproof housing for outdoor time-lapse
+- Document decomposition sequence as well
+
+### UV Fluorescence Photography
+- Some mushrooms fluoresce under ultraviolet light
+- UV flashlight (365nm) and camera modified for UV or full-spectrum
+- Bioluminescent species (Armillaria, Omphalotus, Mycena) photographed in complete darkness
+- Long exposures (30 seconds to several minutes) needed for bioluminescence
+
+### Underwater Mushroom Photography
+- Some fungi grow in streams and wet habitats
+- Waterproof camera housing required
+- Challenges: water clarity, current, low light
+- Aquatic fungi (see aquatic and freshwater fungal research)
+
+## Post-Processing
+
+### Basic Adjustments
+- White balance correction for accurate color (critical for identification)
+- Exposure adjustment for proper brightness
+- Contrast and clarity enhancement
+- Noise reduction for high-ISO images
+
+### Focus Stack Processing
+- Alignment of source images
+- Depth map generation
+- Artifact removal (halos, banding)
+- Output sharpening
+
+### Ethics
+- Do not misrepresent colors or features that affect identification
+- Clearly label any significant digital manipulation
+- Compositional cropping and exposure adjustment are standard
+- Adding or removing specimens from a scene should be disclosed
+- See [[mushroom-foraging-safety-guide]] for ethical foraging while photographing
 
 ## See Also
+
+- [[mushroom-foraging-safety-guide]] -- ethical practices while photographing in the field
+- [[mushroom-festivals-and-events]] -- photography competitions and workshops at events
+- [[edible-wild-mushrooms-by-region]] -- regional subjects for your photography

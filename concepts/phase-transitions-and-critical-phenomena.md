@@ -6,7 +6,8 @@ aliases: [phase transitions, critical phenomena, critical exponents, universalit
 tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materials-science]
 related: [laws-of-thermodynamics, heat-transfer-mechanisms, navier-stokes-equations]
 type: concept
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 
 ## Overview
@@ -128,10 +129,6 @@ processing of metallic glasses, oxide glasses, and polymers for exceptional stre
 
 ## See Also
 
-- [[phase-diagrams-and-phase-transformations]]
-
 - [[agaricus-phase-i-composting]]
-
-- [[stamets-phase-ii-composting]]
 
 - [[navier-stokes-equations]]

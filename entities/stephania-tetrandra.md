@@ -113,12 +113,6 @@ the bladder and lung meridians. Classical indications include:
 Typical dosage: 5–10 g of dried root in decoction.
 
 The herb is often combined with **Atractylodes macrocephala** (bai zhu) and
-**Poria cocos** (fu ling) in classic diuretic formulations such as Fang Ji
-Huang Qi Tang (Stephania and Astragalus Decoction).
-
-## See Also
-
-- [[corydalis-yanhusuo]] — Fellow TCM analgesic with isoquinoline alkaloids
-- [[salvia-miltiorrhiza]] — TCM cardiovascular herb with complementary actions
+**[[corydalis-yanhusuo]] — Fellow TCM analgesic with isoquinoline alkaloids
 - [[berberine]] — Alkaloid with overlapping anti-inflammatory pharmacology
 - [[glycyrrhiza-uralensis]] — TCM herb with complementary anti-inflammatory profile

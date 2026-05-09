@@ -1,17 +1,6 @@
 ---
 title: Holmgren's Energy Descent Pathways
-tags: [permaculture, energy-descent, peak-oil, holmgren, systems-ecology, sustainability, cultural-transition, fossil-fuels, emergy]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Ch. "Purpose of this Book", "Preface", "Introduction", "Beyond Sustainability".
-created: 2026-04-28
-type: concept
----
-
-# Holmgren's Energy Descent Pathways
-
-Energy descent is the foundational context within which David Holmgren frames permaculture design. Rather than treating sustainability as a static end state, Holmgren argues that modern industrial civilisation represents a temporary energy pulse driven by fossil fuels, and that the inevitable decline of these fuels will force a return to patterns observable in nature and pre-industrial societies dependent on renewable energy.
+tags: [[permaculture-design]]. Rather than treating sustainability as a static end state, Holmgren argues that modern industrial civilisation represents a temporary energy pulse driven by fossil fuels, and that the inevitable decline of these fuels will force a return to patterns observable in nature and pre-industrial societies dependent on renewable energy.
 
 ## The Fossil Fuel Pulse
 
@@ -103,27 +92,7 @@ Indigenous and peasant societies that have existed in relative balance with thei
 
 Holmgren notes that the permaculture focus on learning from indigenous tribal cultures is based on evidence that these cultures have existed in relative balance with their environment and survived longer than any of our more recent experiments in civilisation. This does not mean romanticising indigenous life or advocating a return to pre-technological existence. Rather, it means studying the design principles that allowed these cultures to persist: local self-reliance, feedback-rich social structures, and economies based on renewable resources.
 
-## Permaculture Ethics as Foundation
-
-The three permaculture ethics — Care for Earth, Care for People, and Fair Share — provide the ethical foundation for energy descent pathways. Holmgren treats these not as abstract moral principles but as practical design constraints that emerge from energetic realities. The more power available to a civilisation, the more critical ethics become in ensuring long-term survival. This ecologically functional view of ethics makes them central to the development of a culture for energy descent.
-
-## Practical Implications
-
-For practitioners, energy descent thinking means:
-
-- Prioritising the rebuilding of natural capital (soil, water, forests) over consumption
-- Designing systems that function with minimal external energy inputs
-- Valuing traditional and indigenous knowledge as repositories of low-energy solutions
-- Accepting that the transition will be uneven, with local variations depending on resources
-- Recognising that personal and household action is the most powerful lever for change
-- Understanding that diversity of experiments increases the chance that adaptive solutions emerge
-- Learning to identify which aspects of modernity will be valuable in a low-energy future
-
-## See Also
-
-- [[permaculture-ethics-earth-care-people-care-fair-share]]
-- [[permaculture-energy-descent-planning]]
-- [[energy-efficiency-in-agriculture]]
+## [[permaculture-ethics-earth-care-people-care-fair-share]]
 - [[retrofitting-suburbs-permaculture]]
 - [[david-holmgren]]
 - odum emergy analysis framework

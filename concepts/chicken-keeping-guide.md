@@ -125,12 +125,8 @@ A brooder is simply a box with a heat lamp that replaces a broody hen:
 
 ## Related Topics
 
-- [[goat-keeping-guide]] — other small livestock
 - [[zone-1-intensive-garden]] — integrating chickens near the home
-- [[permaculture-food-forest-design-principles]] — chickens in orchard systems
 - [[composting-methods-comparison]] — using chicken manure in compost
-- [[farmers-market-selling-guide]] — selling eggs
 - [[goat-keeping-guide]] — comparing livestock
-- [[faires-chicken-coops-tractors-and-breeding-guide]]
 - [[knf-livestock-chicken-house-natural-farming]]
 - [[urban-permaculture-nitrogen-fixing-green-manures]]

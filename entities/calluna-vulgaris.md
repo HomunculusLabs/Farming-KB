@@ -110,12 +110,8 @@ Pruning immediately after flowering maintains compact form and encourages vigoro
 
 ## See Also
 
-- [[arbutus-unedo]]
 - [[arctostaphylos-uva-ursi]]
-- [[vaccinium-myrtillus]]
 - [[myrica-gale]]
-- [[hypericum-perforatum]]
 - [[quercus-robur]]
-- [[monotropa-uniflora]]
 - [[urtica-dioica]]
 - [[plantago-major]]

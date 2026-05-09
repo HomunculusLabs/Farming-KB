@@ -125,8 +125,6 @@ control mechanisms.
 
 ## See Also
 
-- [[trichoderma-viride]]
 - [[botrytis-cinerea]]
-- [[sclerotinia-sclerotiorum]]
 - [[colletotrichum-gloeosporioides]]
 - [[fusarium-verticillioides]]

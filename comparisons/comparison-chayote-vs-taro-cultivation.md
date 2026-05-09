@@ -43,47 +43,13 @@ Chayote belongs to the same family as cucumbers and squash, while taro is an aro
 
 **Chayote** is propagated by planting the whole fruit. A mature fruit is placed on its side in a shallow trench or mound, with the narrow (stem) end slightly elevated. Sprouting occurs in 2-4 weeks. Entire fruits can also be started in containers and transplanted. There is no true seed propagation in common practice.
 
-**Taro** is propagated from small cormels (side corms) or from the top portion (huli) of the main corm, typically weighing 100-300 g each. These are planted 5-10 cm deep in prepared beds or paddies. One huli can produce 5-15 cormels at harvest. [[tissue-culture-cloning]] is also used commercially for disease-free planting material.
-
-## Growth Habit and Space Requirements
-
-**Chayote** is a vigorous climbing vine that can reach 10-15 meters. It requires a strong trellis, fence, or large tree for support. Without support, it becomes a sprawling [[ground-cover-plants]]. Allow 2-3 m² per plant on a trellis system.
+**Taro** is propagated from small cormels (side corms) or from the top portion (huli) of the main corm, typically weighing 100-300 g each. These are planted 5-10 cm deep in prepared beds or paddies. One huli can produce 5-15 cormels at harvest. [[ground-cover-plants]]. Allow 2-3 m² per plant on a trellis system.
 
 **Taro** is an upright herbaceous plant reaching 0.6-1.5 meters in height with large heart-shaped leaves. Spacing is 60-90 cm between plants, requiring roughly 0.4-0.8 m² per plant. It needs no vertical support, making it more space-efficient per square meter of ground area.
 
 ## Water Needs
 
-**Chayote** has moderate water requirements once established. Deep, infrequent irrigation suits it better than constant saturation. Overwatering in poorly drained soils leads to root rot. It is somewhat [[drought-tolerant-planting-design]] due to its deep tuberous root system.
-
-**Taro** has very high water requirements. It grows best in continuously moist or flooded conditions. Dry periods cause stunting, reduced corm size, and increased acridity (calcium oxalate content) in the corms. Consistent moisture is non-negotiable for quality production.
-
-## Nutrient Requirements
-
-**Chayote** is a moderate feeder. Apply a balanced NPK fertilizer (e.g., 10-10-10) at planting and side-dress with nitrogen during peak vine growth. Excessive nitrogen favors foliage over fruit production.
-
-**Taro** is a heavy feeder, especially of nitrogen and potassium. It depletes soil rapidly in paddy systems. Compost, manure, or organic matter should be incorporated before planting. Supplemental NPK at 100-150 kg/ha nitrogen and 80-120 kg/ha potassium is common in commercial production.
-
-## Time to Harvest
-
-**Chayote** fruits begin maturing 3-4 months after planting and continue producing for several months. The vine reaches full productivity in the second year. Fruits are harvested immature (2-3 months after fruit set) for best texture. Tubers are harvested after 2-3 years of vine growth.
-
-**Taro** corms mature in 6-12 months depending on variety and growing conditions. Short-maturity "dasheen" types may be ready in 6 months; traditional wetland taro can take 9-14 months. Leaves can be harvested continuously from 2 months onward.
-
-## Yield Per Plant
-
-**Chayote** yields 50-100 fruits per vine per season under good conditions, with individual fruits weighing 200-500 g. Total annual yield is approximately 20-40 kg per plant. Mature tubers can weigh 2-5 kg.
-
-**Taro** yields 1-5 kg of corms per plant depending on variety and conditions, with commercial yields of 10-25 tonnes/ha. Wetland taro generally outyields dryland taro by 30-50%. The multiplier from huli to harvest is roughly 10-15:1 by weight.
-
-## Culinary Uses and Nutritional Profile
-
-**Chayote** fruits are mild, crisp, and slightly sweet. They can be eaten raw in salads, stuffed, pickled, boiled, sautéed, or used in soups. Young shoots and tendrils are eaten as a cooked green. Tubers are starchy and used similarly to potatoes. Per 100 g raw fruit: ~19 kcal, 0.8 g protein, 4.5 g carbohydrates, high in vitamin C and folate.
-
-**Taro** corms must be cooked to neutralize calcium oxalate crystals (which cause throat irritation raw). They are boiled, steamed, mashed, fried, or made into poi (fermented paste). Leaves are cooked as greens (callaloo, laulau). Per 100 g raw corm: ~112 kcal, 1.5 g protein, 26 g carbohydrates, rich in fiber, potassium, and vitamins A and C.
-
-## Pest and Disease Challenges
-
-**Chayote** is relatively pest-free. Common issues include aphids, squash bugs, and [[powdery-mildew-cannabis]]. Fruit flies may attack ripening fruits in some regions. Nematodes can damage roots in sandy soils.
+**Chayote** has moderate water requirements once established. Deep, infrequent irrigation suits it better than constant saturation. Overwatering in poorly drained soils leads to root rot. It is somewhat [[powdery-mildew-cannabis]]. Fruit flies may attack ripening fruits in some regions. Nematodes can damage roots in sandy soils.
 
 **Taro** faces more serious pest and disease pressure. Major threats include taro leaf blight (*Phytophthora colocasiae*), which devastated Pacific Island crops in the 1990s, taro beetle (*Papuana* spp.), root-knot nematodes, and aphid-vectored viruses (dasheen mosaic virus). Taro leaf blight remains the single greatest production constraint globally.
 
@@ -95,15 +61,11 @@ Chayote belongs to the same family as cucumbers and squash, while taro is an aro
 
 ## Suitability for Permaculture and Food Forests
 
-**Chayote** is excellent for food forests as a productive climbing vine. It can be trained over pergolas, onto canopy trees, or along fences. Its perennial root system helps stabilize soil. The vine provides dense shade that suppresses weeds. It integrates well in the vertical layers of a [[food-forest-establishment]].
-
-**Taro** is well-suited to the ground/shrub layer of food forests, especially in water-retentive swales or paddy systems. It tolerates partial shade, making it compatible with overstory trees. Taro patches in permaculture often serve dual purposes: food production and water management through [[constructed-wetlands-wastewater-treatment]].
+**Chayote** is excellent for food forests as a productive climbing vine. It can be trained over pergolas, onto canopy trees, or along fences. Its perennial root system helps stabilize soil. The vine provides dense shade that suppresses weeds. It integrates well in the vertical layers of a [[constructed-wetlands-wastewater-treatment]].
 
 ## Ease of Cultivation for Beginners
 
-**Chayote** is one of the easiest [[perennial-vegetables]] to grow. Simply plant a fruit, provide a trellis, and it produces abundantly with minimal care. It tolerates neglect well once established. Score: 9/10.
-
-**Taro** requires more attention to water management, [[soil-preparation-organic-gardens]], and disease monitoring. The need for continuous moisture and susceptibility to serious diseases like leaf blight make it moderately challenging. Score: 5/10.
+**Chayote** is one of the easiest [[soil-preparation-organic-gardens]], and disease monitoring. The need for continuous moisture and susceptibility to serious diseases like leaf blight make it moderately challenging. Score: 5/10.
 
 ## Pros and Cons Summary
 

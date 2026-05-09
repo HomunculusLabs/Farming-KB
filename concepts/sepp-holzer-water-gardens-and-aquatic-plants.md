@@ -136,13 +136,10 @@ Water management is one of the central pillars of Holzer's permaculture approach
 - Break ice if keeping livestock that drinks from pond
 - Stone placement creates pockets that resist freezing
 
-See also: [[sepp-holzer-pond-construction]], [[sepp-holzer-global-projects]], albert hofmann,
+See also: [[sepp-holzer-global-projects]], albert hofmann,
 
 ## Related
 
-- [[sepp-holzer-method]]
 - [[pond-design-and-construction]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]
-- [[holzer-thailand-permaculture-project]]
 - [[water-plants-aquatic-systems]]

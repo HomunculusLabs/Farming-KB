@@ -1,7 +1,7 @@
 ---
 title: Mycelium
 created: 2026-04-28
-tags: [mycology, biology, fungi, ecology]
+tags: [[mycology, biology, fungi, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
@@ -122,14 +122,9 @@ adaptability and intelligence:
 
 ## See Also
 
-- [[mycoremediation]]
 - [[mycelium-running-white-rot-brown-rot-fungi]]
-- [[mycelium-running-remediating-toxic-waste]]
 - [[medicinal-mushrooms]]
-- [[mycelium-running-endophyte-mutualistic-symbionts]]
-
 - [[mushroom-cultivation]]
-- [[psilocybin-mushroom]]
 - [[mycology]]
 - [[mycorrhiza]]
 - Fungal Life Cycle

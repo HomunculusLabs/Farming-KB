@@ -137,11 +137,7 @@ bioconversion processes.
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[saccharina-latissima]]
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
-- [[chondrus-crispus]]
 - [[arthrospira-platensis]]
-- [[chlorella-vulgaris]]
 - [[gracilaria]]

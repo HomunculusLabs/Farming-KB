@@ -6,19 +6,7 @@ sources: []
 tags: []
 type: concept
 ---
-# [[kalman-filter-vs-wavelet-transform]]
-## Overview
-The kalman filter wavelet is a recursive algorithm for estimating the hidden state of a dynamic system.
-It combines predictions from a mathematical model with noisy measurements from sensors or observations.
-The result is an updated estimate that is often better than either the model or the measurement alone.
-It is central to control theory, signal processing, robotics, navigation, and econometrics.
-The classic form assumes linear dynamics and Gaussian noise.
-Under those assumptions it is the optimal minimum-variance estimator.
-The filter tracks both a state estimate and an uncertainty estimate.
-Uncertainty is represented by a covariance matrix that changes as evidence accumulates.
-The method is recursive, so it does not need to store the full history of measurements.
-This makes it useful for real-time syssmall-scale-grain-growing-and-processingted memory and processing power.
-## Cpf tek substrate moisture diagnosis and correctionman filter alternates between prediction and correction.
+# [[pf-tek-substrate-moisture-diagnosis-and-correction]] diagnosis and correctionman filter alternates between prediction and correction.
 Prediction projects the current state forward using a dynamical model.
 Correction adjusts that projection using the newest measurement.
 The prediction step says what should happen if the model is trusted.
@@ -33,14 +21,7 @@ This uncertainty weighted fusion is the algorithm's essential insight.
 ## State space formulation
 The system state is usually written as a vector x.
 For a vehicle, x might include position, velocity, acceleration, and heading.
-For a financmapsmodel, x might include latent trend and volatility components.
-The state transition matrix maps the previous state into the next predicted state.
-A control input matrix can include known commands, such as thrust or steering.
-The process noise covariance models disturbances not captured by the transition model.
-The measurement matrix maps hidden state variables into observable measurements.
-The measurement noise covariance describes sensor error or observation error.
-Together these matrices define a probabilistic state space model.
-The filter can be interpreted as [[[[bayesian-inference]] performed sequentially.
+For a financ [[bayesian-inference]] performed sequentially.
 Each prediction is a prior distribution over the next state.
 Each correction is a posterior distribution after observing new data.
 ## Prediction step
@@ -146,3 +127,7 @@ Recognizing these limits is part of competent use.
 
 ## Related Topics
 These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
+
+## See Also
+
+- [[kalman-filter-vs-wavelet-transform]]

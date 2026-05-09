@@ -17,11 +17,7 @@ type: concept
 # Morishima Acacia Orchard Integration
 
 The Morishima acacia (a fast-growing Australian native) plays a central role
-in Masanobu Fukuoka's [[fukuoka-natural-orchard-management]] system. Introduced to Japan from Australia, this tree serves
-multiple simultaneous functions: nitrogen fixation, windbreak protection,
-insect pest control, bee forage, fodder production, and deep soil
-improvement. Its integration into the orchard exemplifies Fukuoka's
-approach of designing [[fukuoka-three-dimensional-orchard-design]] where every element serves multiple purposes.
+in Masanobu Fukuoka's [[fukuoka-three-dimensional-orchard-design]] where every element serves multiple purposes.
 
 ## Origin and Growth Characteristics
 
@@ -48,10 +44,7 @@ soil strata, eliminating the need to break one's back hauling organic matter
 down from the mountain.
 
 This deep-soil nitrogen fixation complements the surface-layer soil building
-achieved through [[fukuoka-white-clover-ground-cover]] and
-alfalfa ground covers. Together, the two systems address soil fertility at
-different depths, creating a comprehensive soil improvement strategy without
-any external inputs of [[fukuoka-fertilizer-critique-detailed]].
+achieved through [[fukuoka-fertilizer-critique-detailed]].
 
 ## Windbreak Function
 
@@ -62,24 +55,11 @@ water loss through transpiration. The rapid growth of the acacia means that
 windbreak protection is established relatively quickly compared to slower-
 growing native species.
 
-The windbreak function connects to Fukuoka's broader [[fukuoka-wood-preserve-shelterbelt-design]] philosophy, which recognizes that tree plantings serve multiple
-ecological functions beyond their primary purpose. The acacia windbreak also
-creates microclimatic conditions that benefit the understory plants and
-contribute to overall [[fukuoka-bushman-world-ecological-balance]].
+The windbreak function connects to Fukuoka's broader [[fukuoka-bushman-world-ecological-balance]].
 
 ## Insect Pest Control and Ladybird Connection
 
-Fukuoka specifically links the Morishima acacia to [[fukuoka-natural-predator-protection]] in the orchard. The tree helps prevent insect damage
-to the citrus crop, likely through several mechanisms: providing habitat for
-beneficial insects (particularly ladybirds), creating a more diverse
-ecological structure that reduces pest outbreaks, and possibly producing
-compounds that deter pests.
-
-The ladybird connection is significant because ladybirds are among the most
-important natural predators of aphids and other citrus pests. By providing
-habitat and food sources for ladybird populations, the acacia trees help
-maintain the predator-prey balance that keeps pest populations below
-damaging thresholds without any need for [[fukuoka-disease-pest-management]].
+Fukuoka specifically links the Morishima acacia to [[fukuoka-disease-pest-management]].
 
 ## Bee Forage and Fodder
 
@@ -97,13 +77,7 @@ essential infrastructure services.
 
 ## Integration with Orchard Soil Restoration
 
-The Morishima acacia played a key role in Fukuoka's [[fukuoka-orchard-soil-restoration-barren-clay]] on the mountain slopes. When Fukuoka first
-acquired the land, the face of the mountain was bare red clay so hard that
-a shovel could not penetrate it. Previous attempts at soil improvement,
-including deep cultivation and burying organic matter, had proven physically
-exhausting and largely ineffective.
-
-The acacia addressed the deep soil layer while [[fukuoka-white-clover-cover-crop-system]] addressed the surface. Japanese radish (daikon) was also
+The Morishima acacia played a key role in Fukuoka's [[fukuoka-white-clover-cover-crop-system]] addressed the surface. Japanese radish (daikon) was also
 planted for its deep-rooting soil-penetrating properties. Together with
 the acacia's nitrogen-fixing root system and the ground cover's organic
 matter contributions, these plants transformed hard red clay into loose,
@@ -118,15 +92,6 @@ acacia is the keystone species of the upper tier, performing so many
 functions that its presence fundamentally changes the character of the
 orchard ecosystem.
 
-This design reflects Fukuoka's understanding that [[fukuoka-nature-must-not-be-dissected]] into isolated components. The acacia's value
-cannot be measured by any single function; it is the integration of all
-its roles simultaneously that makes it indispensable to the natural
-orchard system.
-
-## See Also
-
-- [[fukuoka-black-wattle-fertilizer-tree-method]]
-- [[fukuoka-natural-farming-philosophy]]
+This design reflects Fukuoka's understanding that [[fukuoka-black-wattle-fertilizer-tree-method]]
 - [[fukuoka-orchard-floor-management]]
-- [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - [[fukuoka-natural-tree-form-argument]]

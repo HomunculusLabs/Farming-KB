@@ -10,16 +10,7 @@ tags: [fungi, mycelium]
 
 # Mycopesticides: Fungi as Natural Insect Control
 
-[[mycelium-natures-internet]] devotes an entire chapter
-to mycopesticides -- the use of fungi to control insect pests. Paul
-Stamets's personal discovery that pre-sporulating mycelium of
-entomopathogenic fungi acts as a "Trojan horse" to attract and kill
-insects has significant implications for replacing chemical pesticides
-with biological alternatives.
-
-## The Carpenter Ant Discovery
-
-Stamets's journey into [[mycopesticides-entomopathogenic-fungi]] began
+[[mycopesticides-entomopathogenic-fungi]] began
 when his 1910 farmhouse, built in an old-growth forest clearing, was
 under attack by carpenter ants (Camponotus modoc). Wood-digesting fungi
 from an adjacent artist conk (Ganoderma applanatum) had softened the
@@ -39,20 +30,7 @@ This discovery led to U.S. Patent 6,660,290.
 
 ## How Entomopathogenic Fungi Work
 
-[[mushroom-cultivation-fundamentals]] operate through a precise sequence:
-
-1. Spores attach to insects and germinate
-2. Hyphal pegs bore through the exoskeleton using chitin-dissolving
-   enzymes
-3. Other portals of entry include the respiratory tract, anus, and
-   mouth
-4. Once inside, mycelium forks through internal organs
-5. Interference with metabolism causes malaise, necrosis, and death
-   within days
-6. Mummified insect carcasses become launching platforms for further
-   sporulation
-
-Key genera include [[cordyceps-and-entomopathogenic-fungi]],
+[[cordyceps-and-entomopathogenic-fungi]],
 Beauveria, Paecilomyces, Hirsutella, and Cordyceps. Some species exhibit
 fungal dimorphism, expressing themselves as either mold or mushroom.
 
@@ -77,11 +55,7 @@ health hazards:
 
 Stamets notes that more than 50 countries have signed the Rotterdam
 Convention treaty limiting toxic pesticides. The need for alternative,
-nontoxic [[mycopesticides]] is critical.
-
-## Biopesticides vs. Chemical Pesticides
-
-Nature-based [[mycopesticide-development]] remedies offer key advantages:
+nontoxic [[mycopesticide-development]] remedies offer key advantages:
 
 - Cause negligible or no collateral damage to other organisms
 - Do not pose persistent environmental threats after use
@@ -126,8 +100,6 @@ The mycopesticide approach has vast potential for:
 ## See Also
 
 - mycelium running pest control with fungi -- existing page on pest control
-- [[mycopesticides-stamets]] -- Stamets's patent work
 - [[cordyceps-and-entomopathogenic-fungi]] -- Cordyceps biology
-- [[mycelium-running-techniques]] -- inoculation methods
 - [[medicinal-mushrooms]] -- medicinal properties
 - [[mycelium-running-symbiotic-fungi-relationships]] -- fungal ecology

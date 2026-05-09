@@ -95,43 +95,6 @@ through the landscape.
 Rain and wind coupled with heavy buds can break
 branches. Support plants with stakes, cages, or
 trellis systems before wind events occur. See
-[[cervantes-plant-support-trellis-stakes-cages]]
-for detailed plant support methods.
-
-Tie broken branches together with nylon rope.
-Buds supplied with enough fluids through the
-vascular tissue can continue to develop even
-after physical damage. Wash foliage with plenty
-of water to remove abrasive particles after
-windstorms, especially in areas prone to sandy
-or dusty winds.
-
-## Cold Wind and Moisture Loss
-
-Cold wind causes moisture loss, and plants dry
-out quickly. This causes stress which can weaken
-plants and leave them open to attack by disease
-and insects. Polymer crystals mixed in the soil
-absorb water and release it over time, helping
-to buffer against rapid moisture loss in windy
-conditions.
-
-## Temperature and Wind Interaction
-
-Cool air tends to sit in natural and man-made
-valleys which are often a few degrees cooler than
-surrounding elevated terrain. Wind accelerates
-this cooling effect through wind chill. The
-angle of the sun climbs during summer, providing
-more intense light but also more heat stress
-when combined with wind. Understanding these
-interactions helps with both site selection and
-timing of planting and harvest.
-
-## Related Topics
-
-- [[outdoor-cannabis-growing]]
-- [[cervantes-microclimate-frost-protection]]
+[[outdoor-cannabis-growing]]
 - [[cervantes-temperature-management]]
-- [[cervantes-mulch-outdoor-moisture-conservation]]
 - [[cervantes-overwatering-underwatering]]

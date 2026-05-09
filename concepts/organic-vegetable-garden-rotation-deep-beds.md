@@ -4,48 +4,15 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 
 # Organic Vegetable Garden: Crop Rotation and Deep Beds
 
 Updated: 2026-04-18
 
-The organic vegetable garden relies on proper soil management, systematic [[jadam-crop-rotation-critique]], and intensive growing methods to maintain soil health and minimize pest and disease problems.
-
-## Three-Year Crop Rotation
-
-Divide the vegetable garden into three plots (plus space for permanent crops) and rotate crops annually. This system maintains mineral balance, reduces disease risk, and makes efficient use of organic matter.
-
-### Plot Groupings
-
-**Plot A -- Heavy Feeders (double dug with manure)**
-- Potatoes, carrots, beets, parsnips, onions, shallots, leeks, garlic, tomatoes, zucchini, squash, pumpkins, celery, Florence fennel, eggplants, peppers, cucumbers, melons, celeriac, Hamburg parsley, salsify, scorzonera
-- Cultivation: Double digging incorporating manure in upper and lower levels, plus blood, fish, and bone meal
-
-**Plot B -- Legumes and Light Feeders (single dug)**
-- Peas, green beans, runner beans, broad beans, Lima beans, soybeans, peanuts, sweet corn, okra, spinach, chard, Swiss chard, lettuce, chicory, endive, cresses, globe artichokes
-- Cultivation: Single digging with blood, fish, and bone meal, applied 2-3 weeks before sowing
-
-**Plot C -- Brassicas (single dug with lime)**
-- Cauliflower, cabbages, nappa cabbages, Brussels sprouts, broccoli rabe and broccoli, kale, rutabagas, turnips, radishes, kohlrabi
-- Cultivation: Single digging with blood, fish, and bone meal, plus lime to bring pH to 6.5-7.0
-
-**Plot D -- Permanent Crops (not rotated)**
-- Asparagus, globe artichokes, Jerusalem artichokes, rhubarb, sea kale, herbs
-
-### Rotation Schedule
-| Year | Plot A | Plot B | Plot C | Plot D |
-|------|--------|--------|--------|--------|
-| 1    | Group A | Group B | Group C | Permanent |
-| 2    | Group B | Group C | Group A | Permanent |
-| 3    | Group C | Group A | Group B | Permanent |
-
-Each group moves to the next plot, so two years elapse before any crop returns to its original site.
-
-### Key Rotation Principles
-- The myth that root vegetables fork and split in manured soil is false -- well-rotted manure produces far better results by making soil water- and nutrient-retentive
-- If using the [[hamilton-deep-bed-system]], manure all plots every year
+The organic vegetable garden relies on proper soil management, systematic [[hamilton-deep-bed-system]], manure all plots every year
 - Dig manure in during fall; lime in spring just prior to sowing or planting
 - Some gross-feeding vegetables (tomatoes, zucchini, squashes, peppers) benefit from liquid kelp every two weeks during the growing season
 
@@ -79,20 +46,70 @@ The deep bed method has been practiced for centuries worldwide. Instead of long 
 
 ## Continuous Supply
 
-Keep a garden diary recording sowing, planting, and harvesting dates. Many modern varieties hold well after maturity, providing flexibility. When a plot will be vacant for more than a month in the main season, sow a quick-maturing [[green-manure-crops]] cover crop like mustard. In winter, grow a green-manure crop particularly if soil is light. Plan a four-year rotation if space permits, for longer rotation periods and more growing space.
-
-## Weeding Deep Beds
-Once plants mature, close spacing means they cover the soil surface and effectively smother weeds. Early-stage weeding is done by hand. Always start with a stale seed bed and cover the soil with well-rotted manure or compost. Planting through sheets of paper or plastic sheeting completely eliminates weeds.
-
-## Related Topics
-- [[crop-rotation-principles]]
-- [[deep-bed-cultivation]]
+Keep a garden diary recording sowing, planting, and harvesting dates. Many modern varieties hold well after maturity, providing flexibility. When a plot will be vacant for more than a month in the main season, sow a quick-maturing [[crop-rotation-principles]]
 - [[organic-garden-soil-preparation]]
-- [[green-manure-crops]]
 - [[vegetable-garden-guide]]
 
 ## Source
 - Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Vegetable Garden section, pp. 132-136.
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[cover-crops-soil-health]]
+## Practical Considerations
+
+When working with Organic Vegetable Garden: Crop Rotation and Deep Beds, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

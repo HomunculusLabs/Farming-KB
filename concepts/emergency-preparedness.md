@@ -116,6 +116,7 @@ Integrate with [[seasonal-planning]]:
 - [[composting-systems]]: Composting toilet provides sanitation during water system failures
 - [[food-forest-design]]: Perennial food sources that don't require replanting — food security during supply disruptions
 
+
 ## See Also
 
 - [[homestead-first-aid-guide]] — First aid kits, injuries, poison control

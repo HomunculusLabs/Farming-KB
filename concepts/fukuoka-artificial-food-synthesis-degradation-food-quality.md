@@ -116,8 +116,6 @@ The degradation of food quality through artificial production methods loses more
 
 ## Connection to Other Concepts
 
-- [[fukuoka-food-civilization-critique|Food and Civilization Critique]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting|Energy Efficiency and Caloric Accounting]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture|Energy-Wasteful Modern Agriculture]]
 - [[fukuoka-disappearance-natural-diet|Disappearance of a Natural Diet]]
 - [[fukuoka-machine-culture-doomed|Machine Culture Doomed]]

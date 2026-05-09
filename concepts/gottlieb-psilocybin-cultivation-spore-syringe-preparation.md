@@ -118,13 +118,8 @@ to broth jars. Stock cultures not used immediately can be refrigerated
 
 ## See Also
 
-- [[stamets-cultivator-spore-syringe-preparation-techniques]]
-
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
-- [[gottlieb-psilocybin-cultivation-contamination-prevention]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
-- [[pure-culture-spawn-method-duggar-usda-1902]]
 - [[psilocybin-mushroom-spore-print-identification]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]

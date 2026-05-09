@@ -138,12 +138,9 @@ diversity:
   diversity
 - Central America has tropical elements but few temperate species
 - The Himalayas show some convergence but lack the tropical component
-
 ## See Also
 
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
 - [[guzman-magic-mushrooms-temperate-zone-species]]
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 - [[guzman-psilocybin-mushrooms-mexico-central-america]]
 

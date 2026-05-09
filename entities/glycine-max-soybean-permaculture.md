@@ -139,11 +139,7 @@ This sequence maximizes nitrogen fixation, soil coverage, and nutrient cycling a
 - **Critical periods:** Flowering and pod-filling stages are most sensitive to water stress
 ## See Also
 
-- [[nitrogen-fixing-plants]]
 - [[solomon-cover-crops-green-manure-guide]]
-- [[three-sisters]]
-- bradyrhizobium japonicum
 - [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
-- [[permaculture-design-principles]]
 - [[dynamic-nutrient-accumulators]]
 - [[knf-fermented-seawater-preparation]]

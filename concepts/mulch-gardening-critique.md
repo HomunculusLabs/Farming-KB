@@ -68,38 +68,9 @@ A garden larger than a small backyard requires substantial quantities of organic
 - Or someone must be willing to haul and stack multiple bales of spoiled hay or other material on your behalf
 - The labor of spreading, maintaining, and replenishing the mulch layer is substantial and ongoing
 
-By contrast, [[compost-quality-grades|heap composting]] concentrates the same organic material into a much smaller, more manageable volume of finished compost that can be applied efficiently with a wheelbarrow and shovel.
-
-## The Problem: Pest Habitat in Mild Climates
-
-Solomon's strongest criticism of permanent mulching applies to mild-winter climates where the soil does not freeze solid. In these climates (including much of the Pacific Northwest, the UK, California, and temperate Australia), a permanent mulch layer provides ideal habitat for plague-level populations of small animals:
-
-- **Slugs and snails**: The moist, protected environment under mulch is slug paradise. Slug populations explode under permanent mulch, and they proceed to eat almost all kinds of vegetables, especially young seedlings.
-- **Voles and mice**: The mulch provides cover and nesting material for rodents that feed on roots, tubers, and seedlings.
-- **Sow bugs and pill bugs**: These decomposers, which normally feed on decaying organic matter, can shift to feeding on living plant tissue when populations are high and other food sources are depleted.
-- **Cutworms**: The protected environment allows cutworm populations to build to damaging levels.
-
-Solomon tried mulch gardening in two different mild climates and experienced these problems directly, which is why he does not recommend the method where the soil does not freeze solid in winter. In cold-winter climates, the annual freeze kills or dramatically reduces these pest populations, making mulch gardening more viable.
-
-## Where Mulch Gardening Makes Sense
-
-Despite his criticisms, Solomon identifies several situations where mulching is genuinely appropriate:
-
-1. **Physically limited gardeners**: For people who are too frail, elderly, or mobility-impaired to dig or hoe, mulch gardening provides a way to grow some food with minimal physical effort
-2. **Ornamental plantings**: Mulching around fruit trees, shrubs, and ornamental plants is excellent for weed suppression and moisture conservation, and the nutrient imbalance issue is less consequential for non-food crops
-3. **Cold-winter climates**: Where the soil freezes solid annually, the pest habitat problem is largely eliminated
-4. **Temporary use**: Using mulch as a temporary weed suppressant during fallow periods, rather than as a permanent growing method, avoids most of the problems Solomon identifies
-5. **Pathways**: Mulching between-bed pathways is an excellent use of organic material — it suppresses weeds, keeps feet clean, and the material slowly breaks down to be later incorporated into beds
-
-## Solomon's Recommended Alternative
-
-Solomon recommends heap composting as a more effective approach:
-
-1. Compost organic materials in a concentrated heap (see [[compost-quality-grades]])
+By contrast, [[compost-quality-grades]])
 2. Apply finished compost to beds at the appropriate rate
-3. Use [[complete-organic-fertilizer-cof|COF]] or poultry manure compost as supplementary fertilizer for medium and high-demand vegetables
-4. Manage weeds with a sharp hoe through clean cultivation
-5. Maintain soil moisture through [[capillary-action-in-soils|capillary management]] rather than surface mulching
+3. Use [[capillary-action-in-soils|capillary management]] rather than surface mulching
 
 This approach uses less total bulk material, produces more predictable results, avoids nutrient imbalances, does not slow soil warming, and does not create pest habitat.
 
@@ -121,8 +92,6 @@ By contrast, heap composting plus clean cultivation requires less total bulk mat
 
 ## Related Concepts
 
-- [[compost-quality-grades]]
 - [[complete-organic-fertilizer-cof]]
-- [[capillary-action-in-soils]]
 - [[vegetable-nutrient-demand-levels]]
 - [[building-soil-fertility-long-term]]

@@ -127,10 +127,6 @@ The EMCDDA conducted a snapshot assessment of 21 online shops in January 2006 to
 
 ## See Also
 
-- [[emcdda-herbal-highs-market-product-substitution-bans]]
-
 - [[magic-mushroom-prohibition-britain-2005]]
-- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[smartshop-hallucinogenic-mushroom-market]]

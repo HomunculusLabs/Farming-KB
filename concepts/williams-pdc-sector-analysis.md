@@ -1,7 +1,7 @@
 ---
 title: "Sector Analysis in Permaculture Design"
 created: 2026-04-28
-tags: [permaculture, sectors, site-analysis, design-method]
+tags: [[permaculture, sectors, site-analysis, design-method]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
@@ -131,8 +131,6 @@ spend observing the actual forces on your site, the more
 accurate and useful your sector diagram will be.
 
 ## See Also
-- [[mollison-designers-passive-solar-heating-building-design]]
 - [[passive-solar-design]]
-- [[permaculture-beginners-guide-zones-and-sectors]]
 - [[holmgren-passive-solar-and-building-design]]
 - [[permaculture-design]]

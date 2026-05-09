@@ -30,7 +30,7 @@ Planning has three components:
 
 - **Priorities.** Rank the importance of desires and problems the design addresses. Consider personal, aesthetic, environmental/ecological issues, and trouble spots to correct.
 - **Analysis.** List design elements that will satisfy the vision (plants, structures, functions). For each element, list its products, activities, needs, and intrinsic qualities. Connect as many items as possible so that the needs of one design element are met by other elements.
-- **Layout.** Use [[zone-sector-analysis-guide]] to organize pieces by frequency of use/attention. Use [[mollison-zone-and-sector-analysis]] to locate pieces relative to incoming forces (wind, sun, wildlife). The Zone-and-Sector method optimizes connections between design elements. Use the random-assembly method for brainstorming.
+- **Layout.** Use [[mollison-zone-and-sector-analysis]] to locate pieces relative to incoming forces (wind, sun, wildlife). The Zone-and-Sector method optimizes connections between design elements. Use the random-assembly method for brainstorming.
 
 ### 4. Development
 
@@ -45,31 +45,11 @@ Install the design with flexibility for surprises when a paper design meets the 
 3. Add broadscale soil amendments and compost
 4. Complete hardscaping (walls, sheds, paths, fences)
 5. Make final grade adjustments with rake and shovel
-6. Lay down [[permaculture-sheet-mulch-detailed-guide]]
-7. Install large plants — trees and major shrubs
-8. Plant ground covers, non-woody plants, lawn, cover crops
-9. Adjust mulches and fine-tune irrigation
-10. Keep plants watered and help establishment
-
-### Implementation Scheduling Factors
-
-The schedule of installation depends on several interacting factors:
-
-- **Personal:** What is most urgent — food production, patio, shade, flower garden?
-- **Environmental:** Does the land most need soil building, erosion control, habitat?
-- **Technical:** Earthmoving and hardscaping often must come first to avoid disturbing later work
-- **Seasonal:** Earth moving in wet season ruins soil structure; planting in summer heat bakes transplants
-- **Financial:** Phase in aspects if the full design cannot be afforded at once
-
-## Key Principles
-
-The design process gives priority to ecological considerations. Once plants, structures, and other elements are placed in the right relationships, plant varieties can be selected for foliage and color harmony.
-
-Begin installation at the doorstep and work outward, following the [[zone-sector-analysis-guide]]. The best time to plant a tree was ten years ago — so plant trees and shrubs early in the work.
+6. Lay down [[zone-sector-analysis-guide]]. The best time to plant a tree was ten years ago — so plant trees and shrubs early in the work.
 
 ## Relationship to Broader Design Methods
 
-This process draws on and simplifies the broader [[mollison-pdc-design-report-methodology]] for home-scale application. It is specifically oriented toward creating [[gaias-garden-creating-community-gardens]] rather than broad-acre permaculture design.
+This process draws on and simplifies the broader [[gaias-garden-creating-community-gardens]] rather than broad-acre permaculture design.
 
 ## Observation and Community Integration
 
@@ -93,12 +73,8 @@ one of the most accessible entry points for residential-scale ecological
 design.
 ## See Also
 
-- [[gaias-garden-stacking-functions-detailed]]
-
 - [[ecological-garden-design]]
 
-- [[permaculture-design-process]] — broader design process from Williams PDC
 - [[mollison-design-methodology]] — Designers' Manual methodology
-- [[gaias-garden-methods]] — zone planning, sheet mulching, composting methods
 - [[gaia-garden-plant-guilds]] — guild design for ecological gardens
 - [[holzer-assessing-the-land]] — Holzer's approach to site observation

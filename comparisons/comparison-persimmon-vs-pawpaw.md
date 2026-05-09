@@ -20,23 +20,7 @@ type: comparison
 
 ## Overview
 
-Persimmon (*Diospyros virginiana*) and pawpaw (*Asimina triloba*) are two of the most promising native North American fruit trees for [[food-forest-establishment]] and [[forest-gardening-and-food-forests]]. Both are underutilized, adaptable, and produce nutrient-dense fruit that few home growers cultivate. They are often compared because they occupy overlapping ecological niches as understory/lower-canopy trees, thrive in similar hardiness ranges (zones 5–9), and appeal to permaculturists seeking resilient, low-input food crops.
-
-However, their cultivation requirements, fruit characteristics, and roles in a planting design differ significantly. This comparison focuses primarily on the [[native-american-planting-methods-and-indigenous-agriculture]] persimmon, with notes on Asian persimmon (*D. kaki*) where relevant for cultivation context. For pawpaw, all references are to the common pawpaw (*A. triloba*), the largest edible fruit native to North America.
-
-## Comparison Table
-
-| Attribute | Persimmon | Pawpaw |
-|---|---|---|
-| Scientific name | *Diospyros virginiana* | *Asimina triloba* |
-| Native range | Eastern US, NJ to FL, IA to TX | Eastern US, ON to FL, NE to TX |
-| Hardiness zones | 5–9 | 5–9 (best 5–8) |
-| Mature height | 30–60 ft | 15–30 ft |
-| Years to first fruit | 3–5 (grafted) | 4–8 |
-| Chill hours | 200–500 | 400+ |
-| Soil preference | Adaptable; loamy, well-drained, pH 6.0–7.5 | Deep, fertile, well-drained, slightly acidic pH 5.5–7.0 |
-| Sun needs | Full sun (tolerates partial shade) | Full sun to partial shade (best morning sun) |
-| Water needs | [[drought-tolerant-planting-design]] once established | Moderate; prefers consistent moisture |
+Persimmon (*Diospyros virginiana*) and pawpaw (*Asimina triloba*) are two of the most promising native North American fruit trees for [[drought-tolerant-planting-design]] once established | Moderate; prefers consistent moisture |
 | Pollination | Mostly dioecious; some self-fertile cvs | Protogynous; requires cross-pollination |
 | Fruit season | Sept–Nov | Aug–Oct |
 | Fruit size | 1–3 in diameter | 2–6 oz (some cvs to 12 oz) |
@@ -61,7 +45,7 @@ For cold-climate growers, both are viable, but persimmons break dormancy later a
 
 **Pawpaw:** Space 8–15 ft apart. Pawpaw seedlings develop deep taproots and are sensitive to transplanting — plant young (1–2 year seedlings or potted trees) and avoid root disturbance. Site preparation should include generous compost or well-rotted manure worked into the top 12 in of soil.
 
-Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See [[companion-planting-and-polycultures]] for understory companion strategies.
+Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See companion planting and polycultures for understory companion strategies.
 
 ## Pollination and Fruiting
 
@@ -81,29 +65,7 @@ Pawpaw flowers are maroon, nodding, and emit a faint carrion-like scent to attra
 
 **Persimmon:** American persimmons are highly astringent until fully ripe due to soluble tannins. Fruit must be completely soft (pudding-like consistency) before eating fresh, or the tannins cause an intense, unpleasant mouth-puckering sensation. Frost is not required for ripening but can accelerate softening. Non-astringent Asian cultivars (e.g., 'Fuyu') can be eaten while firm and crisp.
 
-Harvest persimmons when fully colored orange; they will soften after a few days of [[post-harvest-handling-marketing-mushrooms]] ripening. Stores 2–3 weeks refrigerated; pulp freezes well for later use in baking and puddings.
-
-**Pawpaw:** Harvest when fruit yields slightly to gentle pressure and the skin develops a yellowish tinge, often with brownish-black spots. Overripe fruit drops from the tree and bruises easily — pick promptly and handle with care. The thin skin offers little protection against damage.
-
-Shelf life is short — 2–5 days at room temperature, 1–2 weeks refrigerated. The custardy pulp separates easily from the large seeds and freezes exceptionally well for processing into ice cream, baked goods, and smoothies.
-
-## Key Cultivars
-
-**Persimmon (American):** 'Prok' (large, early, excellent flavor), 'Meader' (self-fertile, cold-hardy), 'Early Golden' (reliable, widely adapted), 'John Rick' (large fruit, late season). **Asian:** 'Fuyu' (non-astringent, crisp), 'Hachiya' (astringent, excellent for baking).
-
-**Pawpaw:** 'Mango' (mango-flavored, good yields), 'Shenandoah' (few seeds, mild flavor), 'Susquehanna' (large, rich flavor, excellent), 'Wabash' (sweet, early-mid season), 'Overleese' (large fruit, reliable), 'NC-1' (Canadian-bred, excellent cold hardiness). The KSU Pawpaw Program has released many superior cultivars — see their website for the latest recommendations.
-
-When selecting cultivars, prioritize those adapted to your local climate and consider ripening sequence to extend your harvest. Grafted pawpaws fruit 2–3 years sooner than seedlings and produce more uniform, market-quality fruit. For persimmons, always specify whether you need a male (pollenizer) or female (fruit-bearing) tree when ordering grafted stock.
-
-## Culinary and Market Value
-
-Both fruits occupy a niche market with growing consumer interest. Persimmons are better known commercially (especially Asian cultivars, which dominate grocery store displays in autumn) and are recognized by bakers and chefs for puddings, breads, cookies, and persimmon beer. American persimmon pulp has an intense, rich, honeyed flavor with tropical notes that surpasses the milder Asian types for many enthusiasts.
-
-Pawpaw has a unique custardy texture and a complex flavor blending banana, mango, vanilla, and sometimes melon or citrus. It excels in ice cream, quick breads, muffins, and smoothies. The fruit's short shelf life and delicate skin limit commercial shipping, making it primarily a direct-market crop. Market demand is growing rapidly — pawpaw festivals and farm-to-table restaurants have raised its profile — but supply remains limited, creating opportunity for small-scale growers.
-
-## Permaculture Integration
-
-Both trees are excellent additions to [[food-forest-establishment]] designs. Persimmons serve as a reliable upper-canopy or edge tree with deep taproots that break compacted subsoil and bring up minerals. Their late leaf-out allows spring ephemerals and early crops to receive full sun.
+Harvest persimmons when fully colored orange; they will soften after a few days of [[food-forest-establishment]] designs. Persimmons serve as a reliable upper-canopy or edge tree with deep taproots that break compacted subsoil and bring up minerals. Their late leaf-out allows spring ephemerals and early crops to receive full sun.
 
 Pawpaws are ideal understory trees beneath taller nut trees (pecan, chestnut, hickory). Their large, drooping leaves create a dense tropical-looking mulch layer that suppresses weeds and retains soil moisture throughout summer.
 
@@ -123,5 +85,4 @@ For further reading, consult the sources listed in the frontmatter or visit your
 
 ## See Also
 
-- [[companion-planting]]
 - [[food-forest]]

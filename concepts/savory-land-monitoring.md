@@ -101,8 +101,6 @@ By the time species have changed or costs of external inputs have risen to maint
 
 ## See Also
 
-- [[permaculture-grazing-and-pasture]]
 - [[permaculture-designers-manual-grazing-management]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]
 - [[glomalin-and-soil-carbon]]

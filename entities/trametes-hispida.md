@@ -104,18 +104,11 @@ The species has not been domesticated for fruiting-body production, and its toug
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[trametes-hirsuta]]
-- [[trametes-trogii]]
 - [[coriolopsis-gallica]]
-- [[irpex-lacteus]]
 - [[bjerkandera-adusta]]
-- [[fomes-fomentarius]]
 - [[polyporus-umbellatus]]
-- [[ganoderma-applanatum]]
 - [[trametes-ochracea]]
-- [[trametes-pubescens]]
 - [[pleurotus-ostreatus]]
-- [[laricifomes-officinalis]]
 - [[wolfiporia-cocos]]
-- [[xylaria-polymorpha]]
+- [[xylaria-polymorpha-entity]]

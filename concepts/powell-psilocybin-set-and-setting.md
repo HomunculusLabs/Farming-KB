@@ -141,9 +141,6 @@ suggest a comprehensive framework:
 
 ## See Also
 
-- [[psychedelic-set-and-setting]]
 - [[psychedelic-therapy-set-and-setting]]
-- [[psychedelic-mushroom-set-and-setting]]
 - [[lsd-set-and-setting-framework]]
-- [[set-and-setting-framework]]
 - [[set-and-setting-eleusinian-initiation-methodology]]

@@ -11,60 +11,7 @@ sources:
 
 ## Overview
 
-*Psilocybe tampanensis* is a rare psilocybin-containing mushroom originally collected from a sandy pasture near Tampa, Florida in 1977 by Steven Pollock and a colleague. It is most famous as the premier sclerotia-producing species -- the "philosopher's stones" sold in European smart shops are sclerotia of this species or [[psilocybe-mexicana-cultivation]]. Despite being found only once in the wild (the original 1977 collection), it has been maintained in cultivation ever since and is now one of the most commonly cultivated psilocybin fungi worldwide. See [[sclerotia-cultivation]] for cultivation methods and [[psilocybe-mushroom-species-guide]] for comparative species data.
-
-## Taxonomy
-
-- **Species**: Psilocybe tampanensis Guzman & Pollock (1978)
-- **Type locality**: Tampa, Florida, USA
-- **Named for**: The city of its only confirmed wild collection
-- **Common names**: Philosopher's stones, magic truffles, tampanensis
-- **Section**: Stuntzii (Guzman, 1983)
-
-## Discovery and History
-
-The species was discovered in 1977 by Dr. Steven Pollock, a physician and mycological researcher, and an unnamed colleague, in a sandy soil pasture near Tampa, Florida. Pollock cultivated the species from the original wild specimen and sent material to the Mexican mycologist Gaston Guzman, who formally described it in 1978.
-
-Remarkably, despite extensive searching by mycologists, the species has never been found in the wild again. All cultivated material worldwide is descended from the original 1977 collection. Steven Pollock was a significant figure in the early psilocybin mushroom research community; he was murdered in 1981, and the species stands as part of his mycological legacy.
-
-## Macroscopic Features
-
-- **Cap**: 1-2.4 cm broad. Convex to campanulate when young, expanding to broadly convex or plane with age, sometimes with a slight umbo. Surface smooth, viscid when moist. Subhygrophanous -- ochraceous brown to yellowish brown, fading to pale straw color as it dries. Often with a darker center and lighter margin.
-- **Gills**: Adnate to adnexed, subdistant to close. Pale grayish when young, becoming dark purplish brown with spore maturity, with whitish edges.
-- **Stem**: 2-6 cm long by 1-2 mm thick. Equal, cylindrical, slightly flexible. Surface smooth to finely pruinose near the apex. Whitish to yellowish, bruising bluish where damaged.
-- **Veil**: Thin, fibrillose, leaving an evanescent fibrillose annular zone on the upper stem.
-- **Flesh**: Thin, whitish to yellowish. Bruises distinctly bluish, especially at the stem base.
-- **Spore print**: Dark purplish brown.
-- **Spores**: (9)10-12(13) x 7-9(10) micrometers, ellipsoid to subellipsoid in face view, ellipsoid to somewhat rhomboid in side view. Wall thickened, with a distinct germ pore.
-- **Basidia**: 2-spored (characteristic -- many Psilocybe species are 4-spored).
-- **Cheilocystidia**: Abundant, ventricose to flask-shaped, 18-30 x 5-9 micrometers.
-
-## Sclerotia
-
-The sclerotia ("truffles") of *P. tampanensis* are the primary reason for the species' cultivation:
-
-- **Appearance**: Irregular, roughly spherical to lobed masses. Surface texture varies from smooth to wrinkled. Color ranges from yellowish brown to dark brown. Interior is lighter, sometimes whitish.
-- **Size**: From a few millimeters to 2-3 cm diameter
-- **Texture**: Firm and dense when fresh, somewhat rubbery; hard and nut-like when dried
-- **Formation**: Develops directly in colonized substrate without requiring fruiting conditions
-- **Timeline**: Sclerotia continue to enlarge for up to **4 months** after inoculation, after which growth plateaus
-- **Habitat in vitro**: Forms throughout the substrate mass, particularly between grass seed kernels
-- **Also form in casing layers** if the colonized grain is cased for mushroom production
-
-## Potency
-
-- **Fruiting bodies**: Low -- approximately 0.16% psilocybin by dry weight
-- **Sclerotia**: Lower per-weight potency than fruiting bodies of most Psilocybe species, but the large total mass produced can yield substantial amounts of active material
-- The relatively low potency is offset by the ease of cultivation and large sclerotia yields
-- As with all psilocybin mushrooms, potency varies by strain, substrate, and growing conditions
-
-## Cultivation
-
-*P. tampanensis* is one of the easiest psilocybin species to cultivate, primarily because sclerotia form without any fruiting chamber or environmental manipulation:
-
-### Grass Seed Method
-
-The preferred [[grass-seed-substrate-preparation]] method:
+*Psilocybe tampanensis* is a rare psilocybin-containing mushroom originally collected from a sandy pasture near Tampa, Florida in 1977 by Steven Pollock and a colleague. It is most famous as the premier sclerotia-producing species -- the "philosopher's stones" sold in European smart shops are sclerotia of this species or [[sclerotia-cultivation]] for cultivation methods and [[grass-seed-substrate-preparation]] method:
 - Colonizes in 5-20 days at 20°C
 - Sclerotia form in complete darkness or ambient light
 - Harvest at 3-4 months for maximum yield
@@ -94,7 +41,7 @@ If mushroom production is desired:
 
 ## Relationship to Psilocybin Biosynthesis
 
-*P. tampanensis* was the subject of Niels Jensen's research on cloning enzymes from the [[psilocybin-biosynthesis-pathway]]. Jensen attempted molecular cloning of the enzymes responsible for converting tryptophan-decarboxylase|tryptophan to tryptamine and the subsequent steps leading to psilocybin. This research contributed to understanding the [[shikimate-pathway-in-fungi]] origins of psilocybin production in fungi.
+*P. tampanensis* was the subject of Niels Jensen's research on cloning enzymes from the [[shikimate-pathway-in-fungi]] origins of psilocybin production in fungi.
 
 ## Distinguishing Features
 
@@ -106,11 +53,66 @@ If mushroom production is desired:
 
 ## See Also
 
-- [[psilocybe-tampanensis-entity]]
-
 - [[sclerotia-cultivation]] -- Detailed cultivation guide
-- [[psychedelic-mushrooms-species-and-identification]] -- Related sclerotia-producing species
 - [[grass-seed-substrate-preparation]] -- Preferred substrate
-- [[psilocybin-biosynthesis-pathway]] -- Biochemistry of psilocybin production
 - [[shikimate-pathway-in-fungi]] -- Metabolic pathway origins
 - [[nutrient-lockout]] -- Discoverer of the species
+## Practical Considerations
+
+When working with Psilocybe tampanensis Profile, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

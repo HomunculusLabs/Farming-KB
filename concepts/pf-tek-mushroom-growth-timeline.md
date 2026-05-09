@@ -118,8 +118,6 @@ Using more than the standard 1 cc of spore solution per jar speeds colonization 
 
 ## See Also
 
-- [[pf-tek-canning-jar-lid-configuration]] for lid management during incubation
 - [[pf-tek-cake-birthing-technique]] for removing the cake from the jar
-- [[pf-tek-aborts-and-potency-harvesting]] for harvest timing and potency optimization
 - [[pf-tek-fruiting-chamber]] for the dual chambered terrarium environment
 - [[dual-chambered-terrarium-design]] for terrarium construction and operation

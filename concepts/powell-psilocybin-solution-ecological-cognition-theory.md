@@ -107,15 +107,10 @@ This leads Powell to argue that "the biospheric Gaian system in its interconnect
 
 ## Related Concepts
 
-- [[powell-psilocybin-solution-psychedelics-and-problem-solving]]
 - [[powell-natural-intelligence-and-the-universal-computation]]
-- [[powell-gaian-mind-and-entheogenic-flora]]
 - [[powell-the-other-and-sentient-presence]]
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
 - [[computational-universe-and-natural-intelligence]]
 - Fungi In The Environment Plant Fungal Interactions Overview
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[mycelium-natures-internet]]
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]]

@@ -1,5 +1,4 @@
 ---
-title: Fungal Biodiversity In Extreme Environments
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -106,4 +105,3 @@ The ability of fungi to survive extreme conditions makes them of particular inte
 - [[extremophilic-fungi|extremophilic fungi]]
 - [[freshwater-fungi-biodiversity|freshwater fungal diversity]]
 - [[fungal-ecology-extreme-environments|fungal ecology in extreme environments]]
-- [[fungal-biodiversity-built-environments-indoor-mycobiome]]

@@ -49,18 +49,7 @@ His role is especially important where field observation, photography, and local
 - Taxonomic contribution: co-author of *Psilocybe samuiensis*.
 - Species authority: Guzmán, Bandala & J.W. Allen.
 - Wiki focus: psilocybin mushroom identification, distribution, and cultural context.
-- Related researchers: [[gaston-guzman]], Jochen Gartz, Mark Merlin, and Prakitsin Sihanonth.
-
-## Psilocybe samuiensis
-
-*Psilocybe samuiensis* is the species most directly tied to Allen's formal taxonomic record.
-It was described from Koh Samui, Thailand.
-Wikipedia lists the binomial as *Psilocybe samuiensis* Guzmán, Bandala & J.W. Allen, 1993.
-The species contains psilocybin and psilocin as its principal active compounds.
-It was placed in section Mexicanae by Gastón Guzmán because of its rhomboid spores.
-The species grows in rice paddies rather than directly on dung.
-Its fruiting season is reported from early July to late August.
-The wiki page [[psilocybe-samuiensis-profile]] notes Allen's contribution of type specimens and field documentation.
+- Related researchers: [[psilocybe-samuiensis-profile]] notes Allen's contribution of type specimens and field documentation.
 That page also describes his photographs of freshly picked specimens from the rice-paddy habitat.
 Allen's work therefore links taxonomy, field ecology, and photographic evidence in one case study.
 
@@ -78,9 +67,6 @@ Allen's field documentation is therefore a reference point for Southeast Asian p
 ## Australia and New Zealand guide
 
 Allen's *Magic Mushrooms of Australia & New Zealand* anchors several concept pages.
-[[allen-magic-mushrooms-australia-newzealand-species-guide]] explicitly names the 1999 field guide as its source.
-That page summarizes more than a dozen psilocybin-containing species in the region.
-It notes four commonly used species: *Psilocybe cubensis*, *P. subaeruginosa*, *Copelandia cyanescens*, and *P. semilanceata*.
 [[magic-mushrooms-australia-new-zealand]] also describes the regional guide as its basis.
 Allen's contribution here is regional synthesis.
 He helped make scattered field records usable for identification-oriented readers.
@@ -90,17 +76,6 @@ It also reflects a period when digital mushroom resources were expanding through
 ## Copelandia and related genera
 
 Allen is also cited in the wiki's coverage of *Copelandia*.
-[[copelandia-genus-species-guide]] credits him with photographing and documenting *Copelandia bispora*.
-The same page notes that *C. cambodgeniensis* was documented in an Erowid image guide by Allen.
-This matters because *Copelandia* and *Panaeolus* species can be difficult for non-specialists.
-Small morphological differences, spore traits, bruising reactions, and habitat all affect identification.
-Allen's photographs and field notes helped circulate comparative visual references.
-They are especially relevant to tropical and subtropical dung-associated species.
-His work sits at the boundary between amateur-accessible guides and specialist mycology.
-
-## Photography and cultural artifacts
-
-Allen's documentation was not limited to mushrooms as biological specimens.
 [[psilocybin-mushroom-cultural-artifacts]] notes that he photographed handmade silk mushroom batik from Bali.
 Those photographs appear in the context of contemporary mushroom-inspired art.
 This gives Allen's archive a cultural dimension as well as a taxonomic one.
@@ -137,14 +112,7 @@ He should also be linked from pages on *Psilocybe samuiensis*, Koh Samui field r
 His entity page helps separate the person from the many species pages he appears in.
 It also helps distinguish field documentation from the biological entities being documented.
 For this wiki, Allen is a high-value entity because his name appears repeatedly in source-based concept pages.
-He connects [[psilocybe-samuiensis-profile]], [[copelandia-genus-species-guide]], and [[psilocybin-mushroom-cultural-artifacts]].
-He also connects the regional guide pages on Australia and New Zealand.
-
-## See also
-
-- [[gaston-guzman]]
-- [[psilocybe-samuiensis-profile]]
+He connects [[copelandia-genus-species-guide]], and [[gaston-guzman]]
 - [[allen-magic-mushrooms-australia-newzealand-species-guide]]
-- [[magic-mushrooms-australia-new-zealand]]
 - [[copelandia-genus-species-guide]]
 - [[psilocybin-mushroom-cultural-artifacts]]

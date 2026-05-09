@@ -112,8 +112,8 @@ Key points:
 
 ## Related Concepts
 
-- [[hemenway-hugelkultur-guide]] for mound-based growing with built-in organic matter
+- [[hugelkultur-guide]] for mound-based growing with built-in organic matter
 - [[composting-methods-comparison]] for converting mulch materials into finished compost
 - [[soil-amendment-reference]] for mineral additions beneath mulch
-- [[composting-and-soil-biology]] for mulch-based growing systems
+- [[no-till-gardening-method]] for mulch-based growing systems
 - [[sheet-mulching-lasagna-gardening]] — Sheet Mulching and Lasagna Gardening is the detailed technique for creating no-dig garden beds using layered organic materials.

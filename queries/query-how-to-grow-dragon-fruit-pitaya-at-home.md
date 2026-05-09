@@ -15,7 +15,7 @@ type: query
 
 # How Do I Grow Dragon Fruit (Pitaya) at Home?
 
-A practical FAQ for beginners who want to grow dragon fruit (pitaya) at home, whether in-ground, in containers, or indoors. See also [[comparison-dragon-fruit-vs-passion-fruit-cultivation]] for variety-specific details and [[comparison-dragon-fruit-vs-passion-fruit-cultivation]] for a side-by-side with another tropical vining fruit.
+A practical FAQ for beginners who want to grow dragon fruit (pitaya) at home, whether in-ground, in containers, or indoors. See also [[comparison-dragon-fruit-vs-passion-fruit-cultivation]] for a side-by-side with another tropical vining fruit.
 
 ---
 
@@ -142,8 +142,6 @@ Yes, with caveats. Dragon fruit needs strong light to flower and fruit.
 
 ## See Also
 
-- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-how-to-grow-medicinal-herbs-at-home]]
-- [[query-how-to-grow-ashwagandha-at-home]]
 - [[query-how-to-grow-sprouts-and-microgreens-at-home]]
-- [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]]
+- [[cold-climate-gardening]]

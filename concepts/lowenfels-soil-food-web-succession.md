@@ -49,15 +49,6 @@ As ecosystems mature without significant disturbance, fungal biomass
 gradually increases relative to bacterial biomass. Fungal-dominated soils
 develop over years to decades of stable conditions. The decomposition
 pathway shifts from bacterial to fungal dominance, as described in
-[[lowenfels-soil-fungi-decomposition]]. Nutrient cycling becomes slower but
-more continuous and stable. Fungal hyphae create persistent networks that
-retain and redistribute nutrients over extended periods.
-
-Fungal-dominated soils favor perennials, woody plants, and later-successional
-species. Trees, shrubs, perennial grasses, and many ornamental perennials
-evolved in stable, undisturbed environments and are adapted to the slower,
-more consistent nutrient supply provided by fungal-dominated food webs. These
-plants often form mycorrhizal associations, as described in
 [[lowenfels-mycorrhizal-network-nutrient-sharing]], which are more effective
 in fungal-dominated soils.
 
@@ -70,9 +61,7 @@ after disturbance:
    colonize. Nutrient cycling is rapid but pulsed. Soil organic matter is
    low and primarily bacterial in origin.
 2. **Transitional stage (1 to 5 years):** Fungal biomass begins to increase.
-   Perennial plants establish. [[lowenfels-soil-arthropod-macrofauna]]
-   populations build. Soil structure improves as
-   [[lowenfels-glomalin-soil-aggregation]] increases.
+   Perennial plants establish. [[lowenfels-glomalin-soil-aggregation]] increases.
 3. **Mature stage (5 to 30 years):** Fungi equal or exceed bacteria.
    Perennial plant communities dominate. Predatory nematodes and
    microarthropods establish complex trophic networks. Soil organic matter
@@ -108,8 +97,7 @@ dominance depending on the desired plant community:
 **To favor bacterial dominance:**
 - Use tillage to set back fungal networks (though this has other costs)
 - Apply simple organic amendments like composted manure and green manures
-- Plant annual crops and bacterial-favoring [[lowenfels-cover-crops-soil-biology]]
-- Use [[lowenfels-compost-tea-brewing]] with bacterial-dominant recipes
+- Plant annual crops and bacterial-favoring [[lowenfels-compost-tea-brewing]] with bacterial-dominant recipes
 
 **To favor fungal dominance:**
 - Minimize or eliminate tillage
@@ -131,10 +119,8 @@ further, building more complex food webs with greater fungal contribution.
 ## Connecting Succession to Management
 
 The concept of soil food web succession integrates the various components of
-the soil food web into a coherent management framework. [[lowenfels-rhizosphere-bacteria-plant-interaction]]
-drives the initial bacterial phase. [[lowenfels-mycorrhizal-network-nutrient-sharing]]
-develops as succession advances. [[lowenfels-soil-protozoa-cycling]] and
-[[lowenfels-nematode-food-web-roles]] provide nutrient mineralization at every
+the soil food web into a coherent management framework. [[lowenfels-mycorrhizal-network-nutrient-sharing]]
+develops as succession advances. [[lowenfels-nematode-food-web-roles]] provide nutrient mineralization at every
 stage. The practical insight from Lowenfels and Lewis is that matching soil
 biology to plant needs, by understanding and managing succession, is more
 effective than trying to force plants to grow in inappropriate biological

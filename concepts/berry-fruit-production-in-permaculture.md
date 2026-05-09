@@ -3,16 +3,7 @@ title: Berry Fruit Production in Permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 12) | **Updated:** 2026-04-18
-
-## Overview
-
-No region suits berry production as well as cool humid climates. Berries occupy niches from high montane to seashore sites, with natural stands filling forest clearings, edge roadways, and paths. They provide food for birds, foxes, rodents, and people, while serving as pioneer plants that protect and nourish young fruit trees. See also [[faires-plant-communities-and-guilds]], [[poultry-systems-in-permaculture]], and [[community-economics-in-permaculture]].
+tags: [[faires-plant-communities-and-guilds]], [[community-economics-in-permaculture]].
 
 ## Growing Conditions
 
@@ -106,15 +97,8 @@ Berries serve as the understory and edge layer in food forest designs:
 - **Edge species**: Blackberries and raspberries thrive at the forest-field boundary where they receive partial sun
 - **Ground cover**: Low berries (lingonberry, wintergreen, bunchberry) function as living mulch beneath taller shrubs
 - **Guild associates**: Comfrey planted near berry bushes mines calcium and potassium from deep soil layers, which become available when comfrey leaves are cut and used as mulch around the berry root zone
-- See [[permaculture-designers-manual-food-forest-guilds]] for detailed guild designs
-
-## Related Topics
-
-- [[faires-plant-communities-and-guilds]]
-- [[poultry-systems-in-permaculture]]
+- See [[faires-plant-communities-and-guilds]]
 - [[community-economics-in-permaculture]]
-- [[seed-saving-in-permaculture]]
 - [[village-development-in-permaculture]]
-- [[permaculture-designers-manual-food-forest-guilds]]
 - [[permaculture-designers-manual-site-development-sequence]]
 - [[mollison-berry-production-cool-climates]]

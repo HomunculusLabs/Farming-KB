@@ -38,7 +38,7 @@ tags: [profile]
 The **Mazatec people** are an Indigenous people of Mexico associated especially with the Sierra Mazateca in northern Oaxaca.
 They also live in neighboring communities of Puebla and Veracruz, reflecting migration, trade, and regional continuity around the Papaloapan basin.
 In the wiki, they are most important as the living cultural context behind the twentieth-century Western encounter with psilocybin mushrooms.
-Their traditions appear in pages about [[hofmann-lsd-mazatec-and-psilocybin]], [[gordon-wasson]], [[maria-sabina]], and psychedelic mushroom culture.
+Their traditions appear in pages about [[maria-sabina]], and psychedelic mushroom culture.
 ## Identity
 
 "Mazatec" is an outside label commonly used in Spanish and English sources.
@@ -92,21 +92,7 @@ Roger Heim identified and cultivated several mushroom species from these collect
 Albert Hofmann then isolated and named psilocybin and psilocin from material connected to this research chain.
 This sequence links Mazatec practice directly to the pharmacology, psychiatry, and counterculture of the late twentieth century.
 ## Maria Sabina
-[[maria-sabina]] is the most famous Mazatec ritual specialist in global memory.
-She did not invent Mazatec mushroom practice; she became the best-known person through whom outsiders encountered it.
-Her fame brought visitors, writers, musicians, seekers, and researchers to Huautla.
-It also brought disruption, unwanted attention, and local controversy.
-Any entity page about the Mazatec must avoid reducing a whole people to Maria Sabina, while still recognizing her central role in world reception.
-## Cultural Misreadings
-Outsider accounts often treated the Mazatec as a doorway to universal psychedelic experience.
-That framing can obscure land, language, poverty, Catholic devotion, colonial history, and community ethics.
-It can also convert ceremonial knowledge into consumer tourism.
-The wiki should therefore distinguish between Mazatec ritual practice and later psychedelic subcultures in the United States and Europe.
-The same molecule, psilocybin, can sit inside very different social worlds.
-## Relevance to the Wiki
-
-The Mazatec connect Indigenous Mexican religion, ethnomycology, psychedelic chemistry, and modern cultural history.
-They are a necessary entity for pages about [[psilocybin-compound]], [[psilocybin-mushrooms]], [[gordon-wasson]], [[albert-hofmann]], and [[mushroom-cultivation-fundamentals]].
+[[psilocybin]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 They also anchor the difference between a concept page on psilocybin discovery and an entity page about a living people.
 ## Key Details
 
@@ -120,10 +106,6 @@ They also anchor the difference between a concept page on psilocybin discovery a
 * **Interpretive caution:** avoid presenting Mazatec practice as merely a precursor to Western psychedelic culture.
 ## See Also
 
-* [[hofmann-lsd-mazatec-and-psilocybin]]
-* [[mushroom-cultivation-fundamentals]]
-* [[maria-sabina]]
-* [[gordon-wasson]]
-* [[albert-hofmann]]
-* [[psilocybin-compound]]
+* [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+* [[psilocybin]]
 * [[salvia-divinorum]]

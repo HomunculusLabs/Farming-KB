@@ -20,17 +20,7 @@ type: concept
 
 Chanterelles (Cantharellus cibarius) and Truffles (Tuber species)
 represent the frontier of gourmet mushroom cultivation. These prized
-[[growing-gourmet-mycorrhizal-gourmet-mushrooms]] form obligate associations with tree roots,
-making them extraordinarily difficult to cultivate compared to
-saprophytic species. Despite decades of effort, commercial cultivation
-of these species remains largely unsuccessful, with wild harvesting
-continuing to supply virtually all market demand.
-
-## The Mycorrhizal Dependency
-
-Mycorrhizal mushrooms have evolved a long-term dependence on root
-by-products and complex soils, making media preparation inherently
-more complicated than for [[growing-gourmet-saprophytic-mushrooms-decomposers]]. On sterilized
+[[growing-gourmet-saprophytic-mushrooms-decomposers]]. On sterilized
 media, most mycorrhizal mushrooms grow slowly compared to
 saprophytic species. The famous Matsutake (Tricholoma magnivelare)
 may take weeks before its mycelium fully colonizes the medium on a
@@ -128,8 +118,6 @@ their techniques.
 
 ## See Also
 
-- [[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]

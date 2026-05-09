@@ -89,7 +89,7 @@ Nighantu*, prescribed for male sexual debility, oligospermia, general
 fatigue, post-illness convalescence, and urinary disorders.
 
 Key ingredient in *Musli Pak*, a classical Ayurvedic tonic combining
-*C. orchioides* with [[asparagus-racemosus]], [[ashwagandha-withania-somnifera]],
+*C. orchioides* with [[ashwagandha-withania-somnifera]],
 ghee, sugar, and warming spices.
 
 ### Validated Bioactivities
@@ -116,7 +116,5 @@ Rhizomes harvestable at 18–24 months; yields 1,500–2,500 kg/ha dried.
 
 ## See Also
 
-- [[ashwagandha-withania-somnifera]] — Fellow Ayurvedic rasayana herb
 - [[asparagus-racemosus]] — Co-ingredient in Musli Pak formulation
-- [[mucuna-pruriens]] — Ayurvedic aphrodisiac with dopaminergic activity
 - [[withania-somnifera]] — Key rasayana herb often combined with *C. orchioides*

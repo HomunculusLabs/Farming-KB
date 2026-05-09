@@ -3,43 +3,7 @@ title: Permaculture Cash Crops
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
-sources: []
----
-
-# Permaculture Cash Crops
-
-Cash crops in [[permaculture-zone-planning]] and [[permaculture-zone-planning]] provide income while maintaining sustainable practices. The key is choosing crops that grow naturally in your climate and require minimal inputs.
-
-## Berries
-
-Berries grow in almost every climate but are most suited to cool and temperate zones. Cranberries, blueberries, raspberries, and strawberries are all pioneers that also offer valuable edible product. They improve soil, shelter seedlings from deer, grow prolifically in poor soil, and need little care except frequent picking.
-
-### Cultivation
-
-- Provide liquid manure and thick mulching-techniques|mulch to suppress grass
-
-- Protect from birds (they eat up to 30% of the crop)
-
-- Pick every day
-
-- Within driving distance of a city, offer as U-pick product
-
-### Bird Protection Systems
-
-**Mesh cage polyculture:** Raspberries or boysenberries on trellises, blueberries intercropped on raised beds (2 feet high, 5 feet wide with drainage). Strawberries as groundcover. Release lizards, frogs, and quail inside for insect control. Small but very profitable due to minimal crop loss.
-
-**U-pick with bird deterrents:** For larger fields, use bird-deterrent kites shaped like hawks, tethered around the field. Remove after harvest so birds don't habituate. Build wider grassy paths between 3-foot raised beds. Provide buckets, scales, and bags.
-
-### Blackberry Control
-
-Blackberries are tasty but likely to get out of control. Control strategies:
-
-- Small area: cut back, cover with strong plastic mulch weighed with rocks; after 2 years, dig roots
-
-- Quarter acre+: fence off and use as pig field (20 [[pig-husbandry-permaculture]] per acre), followed by 12 [[permaculture-goat-raising]] per acre the next year, then pigs again. Keep something in the area afterward.
-
-- Alternative: plant apple, fig, pear, and plum trees 40 feet from blackberry edges. In ~5 years when trees are large enough, let [[permaculture-designers-manual-cattle-systems]] in to graze -- they eat windfall fruit and trample blackberries.
+tags: [[permaculture-zone-planning]] and [[pig-husbandry-permaculture]] per acre), followed by 12 [[permaculture-designers-manual-cattle-systems]] in to graze -- they eat windfall fruit and trample blackberries.
 
 ## Hay
 
@@ -79,13 +43,7 @@ Broadcast seeds on snow in February or frozen ground in March. Cut clovers with 
 
 ## Eggs
 
-At least 100 [[comparison-chicken-tractor-vs-free-range]] needed to make meaningful income. 100 chickens laying 300 eggs/year = 3,000 eggs. Sold at a couple dollars per dozen in rural areas, slightly more in suburban locations. After your own share, a couple thousand dollars per year is possible -- but only with free-range birds, otherwise feed costs consume revenues.
-
-Check local laws: eggs must be clean, and over certain quantities must be graded (letter quality rating). They don't usually require washing or new containers, but must be refrigerated. This won't pay a mortgage but provides extra income from infrastructure you already have.
-
-## Medicinal Herbs
-
-Medicinal herbs are among the most profitable per-acre cash crops in permaculture and require relatively low inputs once established. Many are perennials that thrive in [[permaculture-food-forest-design-principles]] understories or polyculture beds alongside vegetables and flowers.
+At least 100 [[permaculture-food-forest-design-principles]] understories or polyculture beds alongside vegetables and flowers.
 
 High-value medicinal herbs for temperate climates:
 
@@ -113,7 +71,7 @@ Cultivation tips:
 
 ## Tree Crops and Nuts
 
-Tree crops provide some of the highest long-term returns per acre in a permaculture system, combining [[permaculture-design-principles]] with substantial eventual yields.
+Tree crops provide some of the highest long-term returns per acre in a permaculture system, combining [[permaculture-farm-design-principles]] with substantial eventual yields.
 
 Nut crops suited to permaculture settings:
 

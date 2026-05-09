@@ -16,51 +16,15 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, 5-methoxy substituted, N-monomethyl
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: Unknown — activity not established in TIHKAL
-
-- Duration: Unknown
-
-- Active routes: Not established
-
-## Qualitative Effects
-
-No human trials are reported in TIHKAL. The compound is listed in Shulgin's
-systematic survey of 5-methoxylated tryptamines with the notation "unknown
-activity." In the systematic code used in TIHKAL, 5-MeO-NMT occupies position
-AB (hydrogen on one nitrogen, methyl on the other) in the table of 5-methoxylated
-tryptamines arranged by increasing mass.
-
-## Position in the 5-Methoxy Series
-
-The 5-methoxylated tryptamines organized by alkyl substitution:
-
-- AA: 5-MeO-T — anti-radiation, not a psychedelic
-
-- AB: 5-MeO-NMT — unknown activity
-
-- BB: [[5-meo-dmt-entity-tihkal]] — positive, psychedelic, out-of-body,
+- Source: [[5-meo-dmt-entity-tihkal]] — positive, psychedelic, out-of-body,
 6-20 mg
 
-- BE: [[5-meo-mipt-entity-tihkal]] — mixed, complex, 4-6 mg
-
-- CC: [[5-meo-det-entity-tihkal]] — negative, vertigo, erotic,
+- BE: [[5-meo-det-entity-tihkal]] — negative, vertigo, erotic,
 2-3 mg
 
 - DD: 5-MeO-DPT — neutral, balance, 6-10 mg
 
-- EE: [[5-meo-dipt-entity-tihkal]] — positive, LSD-like, 8-12 mg
-
-The gap between the inactive 5-MeO-T and the highly potent 5-MeO-DMT suggests
-that even a single methyl group on the nitrogen atom may confer significant
-psychoactive properties.
-
-## Natural Occurrence
-
-5-MeO-NMT has been reported in some plant analyses alongside [[5-meo-dmt-entity-tihkal]]
+- EE: [[5-meo-dmt-entity-tihkal]]
 and [[nmt-entity-tihkal]], though its natural distribution is less well
 documented than its dimethyl counterpart.
 

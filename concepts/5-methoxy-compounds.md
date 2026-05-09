@@ -9,26 +9,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md", "raw/papers/shulgin-a-pihkal.md", "r
 
 # 5-MeO Compounds
 
-The 5-methoxy substitution on the tryptamine indole ring produces a distinct pharmacological family characterized by high potency, rapid onset, and a characteristically "stoning" rather than visionary quality. The 5-methoxy position mirrors the 4-methoxy position in the [[phenethylamine-tryptamine-comparison]] series, but the pharmacological effects diverge significantly between the two families.
-
-## 5-MeO-DMT (Compound #38 in TIHKAL)
-
-The flagship compound of this family. Synthesized from 5-methoxyindole via the standard indoleglyoxylamide method:
-
-1. 5-Methoxyindole + oxalyl chloride in benzene yields 5-methoxyindol-3-ylglyoxyl chloride
-2. Reaction with dimethylamine yields the glyoxylamide (75% yield)
-3. LAH reduction in THF yields 5-MeO-DMT (78% yield)
-
-**Dosage**: 6-20 mg smoked, 2-3 mg IV
-**Duration**: 1-2 hours (remarkably long for a smoked tryptamine)
-
-### Shulgin's Assessment
-
-Shulgin's commentary on 5-MeO-DMT is notably unenthusiastic compared to its reputation in some circles:
-
-"It is more potent, slightly faster, but like DMT is largely a simple, stoning drug with no sensory contribution, no intellectual contribution. Its greatest contribution might be to provide a subject the vocabulary of an altered state."
-
-At 8 mg smoked, one subject reported being "blown away" for approximately 10 minutes. The experience is described as overwhelmingly physical and disorienting rather than richly visionary. Shulgin contrasts it unfavorably with the richer phenomenology of 4-hydroxy tryptamines like [[psilocin]].
+The 5-methoxy substitution on the tryptamine indole ring produces a distinct pharmacological family characterized by high potency, rapid onset, and a characteristically "stoning" rather than visionary quality. The 5-methoxy position mirrors the 4-methoxy position in the [[psilocin]].
 
 ## 5-MeO-DET
 
@@ -70,22 +51,13 @@ The 5-methoxy family shares several distinctive features:
 ## See Also
 
 - [[5-meo-dmt-compound-profile]]
-- [[5-meo-dmt-compound-profile]]
-- [[5-meo-dmt-compound-profile]]
-- 5 methoxy compounds
 - [[beta-carboline-chemistry]]
 
 ## Merged: Structure Activity Relationships Of Tryptamines
 
 # Structure-Activity Relationships of Tryptamines
 
-The structure-activity relationships (SAR) of tryptamines, systematically explored through the 55 entries of TIHKAL, reveal a complex pharmacological landscape where small molecular modifications produce dramatic changes in potency, duration, qualitative character, and route of administration. [[shulgin-rating-scale]]'s commentary throughout TIHKAL explicitly frames each new compound as a data point in this ongoing SAR investigation.
-
-## The Indole Ring: Position 4 vs Position 5
-
-The most fundamental SAR distinction among tryptamines concerns the substitution pattern on the indole ring. Two positions dominate:
-
-**4-position (phenolic)**: The home of the [[psilocybin-compound]] family (4-HO-DMT, 4-HO-MET, 4-HO-DIPT, etc.). 4-hydroxy and 4-methoxy substitution produces compounds with rich visual phenomenology, moderate duration (3-6 hours), and full psychedelic character.
+The structure-activity relationships (SAR) of tryptamines, systematically explored through the 55 entries of TIHKAL, reveal a complex pharmacological landscape where small molecular modifications produce dramatic changes in potency, duration, qualitative character, and route of administration. [[psilocybin]] family (4-HO-DMT, 4-HO-MET, 4-HO-DIPT, etc.). 4-hydroxy and 4-methoxy substitution produces compounds with rich visual phenomenology, moderate duration (3-6 hours), and full psychedelic character.
 
 **5-position**: 5-methoxy substitution produces compounds of extraordinary potency (5-MeO-DMT active at 6-20 mg smoked vs DMT at 60-100 mg) but with a notably different qualitative profile: more stoning, less visually rich, more physically overwhelming.
 

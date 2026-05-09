@@ -99,43 +99,7 @@ cambodginiensis in a garden in Texas in the 1970s. The species has
 reportedly naturalized in the Gulf Coast mycoflora since. Dung
 composition significantly affects fruitbody size, making size-based
 taxonomic distinctions of questionable value. The Copelandian Panaeoli
-are generally more challenging to cultivate than [[psychedelic-mushrooms-species-and-identification]]
-but respond well to pasteurized horse and cow dung substrates in warm,
-humid conditions. Fruiting temperatures typically range from 75 to 85
-degrees Fahrenheit, with high humidity essential for pin formation and
-development.
+are generally more challenging to cultivate than [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
 
-## Field Identification Tips
-
-In the field, Panaeolus cyanescens can be confused with several
-non-psychoactive dung-inhabiting species. The key distinguishing feature
-is the strong blue bruising that develops rapidly when the flesh is
-handled or injured. Without this blueing reaction, identification should
-not be assumed. The combination of a small, delicate stature growing on
-dung in tropical or subtropical climates, mottled gills, and bluing
-reaction is diagnostic. Foragers should note that the bluing can be
-subtle in some specimens and may take several minutes to fully develop.
-The overall pale to whitish coloration with a darker center disc and the
-tendency for the cap to crack radially in drying are additional useful
-field characters. As with all wild mushroom identification, microscopy
-is recommended for definitive confirmation.
-
-## Legal Status and Cultural Significance
-
-The legal status of Panaeolus cyanescens and other Copelandian species
-varies by jurisdiction. In many countries, the species are controlled
-substances due to their psilocybin content. In regions where they grow
-naturally, they have been used both intentionally and accidentally for
-centuries. The species has gained particular notoriety in Australia,
-where it grows abundantly in subtropical coastal regions during the wet
-season and has been the subject of extensive taxonomic and
-phytochemical research by Australian mycologists.
-
-## See Also
-
-- [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
-
-- [[psilocybin-mushroom-taxonomy]]
 - [[panaeolus-mushroom-intoxication-history]]
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
 - [[gartz-psilocybin-potency-and-alkaloid-variations]]

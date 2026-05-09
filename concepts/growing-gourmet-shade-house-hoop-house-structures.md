@@ -95,45 +95,6 @@ straw or sawdust that has been exported from the indoor
 growing rooms.
 
 See also:
-[[growing-gourmet-soak-and-strike-forcing]]
-
-## Substrate Placement
-
-Spent substrate blocks or logs can be placed directly onto
-the ground within the shade house structure. For logs,
-burying 1/3 to 1/4 of their length into the ground helps
-maintain moisture levels. Blocks can be laid on their sides
-or stood upright in rows.
-
-The ground moisture from the soil base constantly
-replenishes water lost through evaporation, lessening
-the effect of humidity fluctuation. This method is
-especially useful for the cultivation of Lion's Mane,
-Nameko, Oyster, and Reishi mushrooms.
-
-## Shade Cloth Selection
-
-The standard recommendation is 70-80% shade cloth density.
-"Bug-out" cloth serves a dual purpose, providing both
-shade and insect exclusion. The fabric should be:
-
-- UV-stabilized for long outdoor life
-- Fine enough to exclude fungus gnats and other small
-  flies
-- Permeable enough to allow rainfall penetration
-- Durable enough to withstand wind loading
-
-## Integration with Indoor Operations
-
-The outdoor shade house serves as an extension of the
-indoor growing facility. The "spent" growing room
-environment is one of seven key environments on a
-mushroom farm. The outdoor structure allows cultivators
-to extract additional value from substrates that would
-otherwise be discarded, effectively increasing overall
-biological efficiency of the operation.
-
-See also: [[growing-gourmet-indoor-growing-environment]]
-See also: [[growing-gourmet-biological-efficiency-yield]]
+[[growing-gourmet-indoor-growing-environment]]
 See also: [[growing-gourmet-species-sequencing-substrate-recycling]]
 See also: [[growing-gourmet-natural-culture-myco-landscaping]]

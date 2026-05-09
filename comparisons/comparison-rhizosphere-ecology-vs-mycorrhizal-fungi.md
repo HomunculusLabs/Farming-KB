@@ -107,15 +107,9 @@ Rhizosphere ecology and mycorrhizal biology are not competing frameworks but nes
 
 ## See Also
 
-[[fungi-in-the-environment-plant-fungal-interactions]] for the full rhizosphere topic page with detailed coverage of exudate chemistry, the microbial loop, the two-tier selection model, and endophyte communities.
-
 [[mycorrhizal-fungi]] for the complete mycorrhizal fungi reference covering all major types, common mycorrhizal networks, the wood wide web, and restoration applications.
 
-[[query-what-is-the-soil-food-web-and-why-does-it-matter]] for the broader context of soil organism communities beyond the root zone, including decomposers, predators, and ecosystem engineers.
-
 [[cannabis-living-soil-amendment-schedule]] for applied rhizosphere management principles in cannabis production.
-
-[[korean-natural-farming-fpj-and-ffp-recipes]] for practical methods of culturing and applying indigenous microorganisms to the rhizosphere.
 
 [[mycelium-running-stamets-fungal-ecology-networks]] for the larger-scale network properties of fungal mycelia and their ecological significance.
 

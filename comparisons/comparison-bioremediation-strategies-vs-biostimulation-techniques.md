@@ -21,25 +21,6 @@ The relationship between the two can be visualized as nested categories: biostim
 
 ## Bioremediation Strategies
 
-[[bioremediation-strategies]]
-
-Bioremediation encompasses all biological approaches to contaminant removal or neutralization. The field is broadly categorized by the organisms employed and the delivery method used.
-
-**Key approaches include:**
-
-- **Microbial bioremediation:** Bacteria are the most extensively studied agents, capable of degrading hydrocarbons, chlorinated solvents, heavy metals, and pesticides. Both aerobic and anaerobic pathways are utilized depending on site conditions.
-- **Mycoremediation:** Exploits fungi, particularly white rot fungi (e.g., *Phanerochaete chrysosporium*), which produce lignin-degrading enzymes such as lignin peroxidase and manganese peroxidase. Effective against PAHs, dyes, and some persistent organic pollutants. Fungal hyphal networks can also physically penetrate contaminated soil matrices.
-- **Phytoremediation:** Uses plants through multiple mechanisms including phytoextraction (uptake and accumulation), phytostabilization (immobilization in root zone), rhizodegradation (root-enhanced microbial breakdown), and phytovolatilization. Hyperaccumulator species can concentrate metals at orders of magnitude above background levels.
-- **Bioaugmentation:** Introduces specialized exogenous microorganisms to supplement or replace the native community when it lacks the necessary degradative capacity.
-- **Natural attenuation:** Relies on unassisted biological processes already occurring at the site, typically monitored over time.
-- **Engineered bioremediation:** Actively managed systems such as bioreactors, constructed wetlands, and biofilters that optimize conditions for biological degradation.
-
-Bioremediation can be applied **in situ** (on-site treatment of soil or groundwater) or **ex situ** (excavated material treated in controlled facilities such as landfarms, biopiles, or slurry reactors).
-
-The choice among these strategies depends on contaminant chemistry, site geology, timeline requirements, and available infrastructure. Microbial and fungal approaches are typically faster for organic contaminants, while phytoremediation excels at large, shallowly contaminated sites where speed is less critical.
-
-## Biostimulation Techniques
-
 [[biostimulation-techniques]]
 
 Biostimulation is a subset of bioremediation that enhances the activity of indigenous microbial populations without introducing new organisms. The native community is already adapted to site conditions, which simplifies implementation and avoids regulatory hurdles associated with releasing non-native species.
@@ -117,10 +98,6 @@ In practice, many remediation projects combine bioremediation strategies with bi
 These integrated strategies leverage the strengths of both broad-spectrum bioremediation and targeted biostimulation, often achieving faster and more complete contaminant removal than either approach alone. Effective hybrid design requires thorough site characterization, bench-scale treatability studies, and adaptive management protocols that allow strategy shifts based on monitoring data.
 
 ## See Also
-
-- [[comparison-mycoremediation-basics-vs-bioremediation-strategies]]
-
-Related comparison pages and strategy guides for further reading:
 
 - [[bioaugmentation-strategies]]
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]

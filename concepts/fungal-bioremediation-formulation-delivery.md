@@ -1,5 +1,5 @@
 ---
-title: Fungal Bioremediation Formulation and Delivery
+title: Fungal Bioremediation Formulation Delivery
 created: 2026-04-28
 tags: [bioremediation, formulation, bioaugmentation, delivery, inoculum]
 date: 2026-04-25
@@ -98,33 +98,7 @@ A specialized approach uses pasta-like extrusion to produce fungal
 formulations. Mycelial fragments are mixed with wheat flour, filler,
 and water into a dough, then extruded through dies to form uniform
 pellets. Species including Alternaria cassiae, Alternaria crassa,
-Colletotrichum truncatum, and Fusarium lateritium have been
-successfully formulated this way. The extruded pellets can be
-air-dried to produce stable, storable inoculum. This method offers
-considerable flexibility in ingredient choice and is compatible
-with large-scale production. No separate conidial harvesting step
-is needed, simplifying the manufacturing process.
-
-## Inoculum Density and Survival
-
-Initial inoculum density is a critical factor affecting remediation
-success. In studies on 2,4-D biodegradation, degradation time was
-reduced by one hour for each log increase in inoculum population
-above 10 to the 7th power cells per millilitre. The most important
-parameter affecting survival is nutrition: both indigenous and
-introduced strains survive well in polluted sediment slurries with
-adequate carbon, but survival drops sharply when carbon is limiting.
-Waste fungal mycelium from industrial fermentation represents a
-potential low-cost inoculum source that could reduce production costs.
-
-## Adjuvants and Supplements
-
-Judicious formulation with adjuvants improves bioremediation success.
-Buffers maintain optimal pH for fungal growth and enzyme activity.
-Humectants retain moisture around the inoculum. Selective antibiotics
-may suppress competitors without affecting the introduced fungus.
-Surfactants increase pollutant bioavailability and improve contact
-between fungal hyphae and hydrophobic contaminants. Carbon sources
+Colletotrichum truncatum, and [[fungal-hyphae]] and hydrophobic contaminants. Carbon sources
 within the formulation provide initial nutrition. The combination
 of appropriate adjuvants depends on the specific contaminant, soil
 type, and fungal species and requires site-specific optimization.
@@ -135,16 +109,5 @@ Relatively little research attention has focused on fungal formulation
 compared with the broader bioremediation effort. Key challenges include
 maintaining inoculum viability during storage and after field
 application, achieving adequate distribution of inoculum in large soil
-volumes, and overcoming competition from [[indigenous-microorganisms]].
-Mixed-species formulations remain largely unexplored despite evidence
-that mixed cultures may enhance degradation. Scale-up from laboratory
-to field requires addressing cost, regulatory approval, and practical
-application logistics. Robust and reliable inoculum production and
-delivery techniques are essential if fungal bioremediation is to
-fulfill its promise.
-
-## See Also
-
-- [[mycoremediation-basic-techniques]]
-- [[mycoremediation-techniques]]
+volumes, and overcoming competition from [[mycoremediation-basic-techniques]]
 - [[mycoremediation-bioreactor-design]]

@@ -80,15 +80,6 @@ Food preservation is the natural complement to ultra-low-cost farming:
 ## Long-Term Storage Considerations
 
 For ultra-low-cost operations, long-term food security can be achieved through:
-- Dried grains stored in airtight containers with [[natural-pest-deterrents]] (neem, dried herbs)
-- Fermented vegetables that improve with age
-- Sun-dried fruits and vegetables in cloth bags in dry, cool locations
-- Root cellared crops for winter consumption
-- Preserved mushrooms and other value-added products
-
-## See Also
-
-- [[ultra-low-cost-farming-overview]]
-- [[ultra-low-cost-integrated-farming]]
+- Dried grains stored in airtight containers with [[ultra-low-cost-farming-overview]]
 - [[holzer-mushroom-cultivation-methods]]
 - [[bokashi-compost-method]]

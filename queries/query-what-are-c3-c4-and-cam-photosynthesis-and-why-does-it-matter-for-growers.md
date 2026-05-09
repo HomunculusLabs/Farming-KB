@@ -138,13 +138,9 @@ parsley), most lawn grasses (Kentucky bluegrass, fescue), deciduous trees.
 pigweed (Amaranthus), barnyard grass, johnsongrass, bermudagrass, foxtail.
 
 **CAM**: Cacti, aloe vera, agave, pineapple, jade plant, kalanchoe, Christmas
-cactus, orchids, bromeliads, yucca, century plant, sedum, echeveria, hen-and-chicks.
-
 ## See Also
 
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 
-- [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
-- [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]

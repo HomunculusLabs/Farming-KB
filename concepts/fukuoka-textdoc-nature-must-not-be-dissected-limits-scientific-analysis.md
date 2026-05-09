@@ -108,11 +108,10 @@ This irreversibility has profound implications for agriculture. Once a soil ecos
 - The damage from dissection is irreversible; reassembled parts do not restore the whole
 - Once nature is broken down, only nature itself can restore the lost unity
 
-## Related Topics
+## Related
 
-- [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]] for the Fuji metaphor
+- [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] Topics
+
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]] for intuitive knowledge
-- [[fukuoka-textdoc-maze-relative-subjectivity]] for the subjectivity critique
 - [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]] for the scientific method critique
-- [[fukuoka-textdoc-one-thing-is-all-things-holism]] for the holistic principle
 - [[fukuoka-textdoc-errors-of-human-intellect]] for the broader critique of human knowledge

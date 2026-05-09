@@ -17,12 +17,7 @@ up to 30 percent faster, provided that light, water, and nutrients are not limit
 
 ## How CO2 Affects Growth
 
-CO2 is essential for [[photosynthesis-and-chloroplast-function]]. The plant combines
-CO2 with light energy and water to produce sugars that fuel growth and metabolism. When
-CO2 levels in a grow room fall below 200 ppm (0.02 percent), photosynthesis and growth
-slow dramatically. Rapidly growing cannabis can deplete all available CO2 in an enclosed
-room within hours. Carbon dioxide enrichment has been used in commercial
-[[greenhouse-cannabis-growing]] for more than 35 years.
+CO2 is essential for [[greenhouse-cannabis-growing]] for more than 35 years.
 
 ## Optimal Levels
 
@@ -45,64 +40,10 @@ plants.
 ## Effects on Transpiration
 
 CO2 enrichment causes stomata to partially close, which slows water loss through
-[[stomata-transpiration-and-plant-water-regulation]]. Enriched plants use more water
-overall due to faster growth, but foliage is slower to wilt because moisture is retained
-more effectively. This interaction means watering frequency must increase. Foliage on
-CO2-enriched plants is measurably thicker, more turgid, and slower to wilt than leaves
-on non-enriched plants.
-
-## Methods of CO2 Production
-
-### Compressed CO2 Tanks
-
-Compressed CO2 systems are precise and produce no toxic gases, heat, or water. CO2 is
-metered from a cylinder using a regulator, flow meter, solenoid valve, and timer.
-Cylinders come in 20, 35, and 50-pound sizes. This method allows exact control over CO2
-release timing and volume. A 50-pound steel tank weighs 170 pounds when full. Tanks must
-be inspected annually and registered with a nationwide safety agency.
-
-### CO2 Generators
-
-CO2 generators burn fossil fuels -- typically propane or natural gas -- to produce carbon
-dioxide. These units produce heat as a byproduct, which can be beneficial in cool
-climates but problematic in warm grow rooms. Generators are less precise than tank
-systems but more economical for large operations. CO2 generators produce carbon dioxide
-by burning LP (liquid propane) or natural gas. Growers can burn any carbon-based fuel to
-produce CO2 except those containing sulfur dioxide and ethylene, which are harmful to
-plants.
-
-### Alternative Methods
-
-Dry ice (frozen CO2) releases gas as it sublimates but is expensive and impractical for
-consistent enrichment. Fermentation and organic decomposition produce CO2 but are
-difficult to regulate. Vinegar and baking soda can generate small amounts of CO2 for
-experimental purposes. The CO2 level near the ground of a rain forest covered with
-decaying organic matter could be two to three times as high as normal, but bringing a
-compost pile inside is not practical.
-
-## CO2 Distribution
-
-To be most effective, the CO2 level must be maintained at 1000 to 1500 ppm everywhere
-in the room. The grow room must be completely enclosed with cracks sealed to prevent CO2
-from escaping. CO2 is heavier and cooler than air and cascades onto the plants below.
-Suspend lightweight perforated plastic tubing from the ceiling to disperse CO2 evenly.
-On average, the CO2 level returns to 300 ppm in about three hours due to plant usage
-and room leakage, so enrichment must be repeated throughout the day.
-
-## Ventilation Coordination
-
-CO2 enrichment must be coordinated with [[ventilation-cannabis]] schedules. Enriched
+[[ventilation-cannabis]] schedules. Enriched
 rooms still need ventilation to remove stale air, but venting during CO2 release wastes
 the gas. Best practice is to enrich during lights-on periods and ventilate briefly before
-the next enrichment cycle. An [[cannabis-indoor-ventilation-setup]] ensures even CO2
-distribution. The vent fan should have flaps or a baffle to contain CO2 when not venting.
-
-## Measuring CO2 Levels
-
-Monitoring CO2 levels in grow rooms with ten or more lights really helps keep levels
-consistent. Disposable comparative colorimetry CO2 test kits are easy to use, accurate,
-and inexpensive (about $30). Infrared monitoring systems are more accurate and versatile
-and can be synchronized with controllers that operate heat, [[ventilation-cannabis]],
+the next enrichment cycle. An [[ventilation-cannabis]],
 and CO2 generators.
 
 ## Limitations
@@ -117,17 +58,26 @@ and CO2 generators.
 ## Nutrient and Water Requirements
 
 CO2-enriched plants process nutrients and water faster than non-enriched plants. Higher
-nutrient concentrations may be needed. Monitoring with [[cannabis-nutrient-lockout-and-ph]] meters ensures
-nutrient solution strength keeps pace with accelerated growth. Carbon dioxide-enriched
-cannabis demands a higher level of maintenance than normal plants in all categories:
-nutrients, water, and space.
-
-## See Also
-
-- [[ventilation-cannabis]] -- must be coordinated with CO2 release
-- [[photosynthesis-and-chloroplast-function]] -- CO2's role in plant metabolism
+nutrient concentrations may be needed. Monitoring with [[ventilation-cannabis]] -- must be coordinated with CO2 release
 - [[stomata-transpiration-and-plant-water-regulation]] -- how CO2 affects water loss
-- [[cannabis-nutrient-lockout-and-ph]] -- monitoring nutrient strength for enriched plants
 - [[greenhouse-cannabis-growing]] -- common setting for CO2 enrichment
-- [[hps-grow-lights]] -- light intensity requirements for effective CO2 use
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
+## Practical Considerations
+
+Successful implementation of CO2 Enrichment Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -140,11 +140,8 @@ Understanding the forest as a living entity transforms how we design:
 - **Guild planting**: Assemble plant communities that function as
   integrated organisms, with each species performing multiple
   roles for the benefit of the whole assembly.
-
 ## See Also
 
-- [[mollison-food-forests-and-structural-forests]]
 - [[mollison-guild-design]]
-- [[mollison-forest-water-climate]]
 - [[mollison-tree-crop-systems-permaculture]]
 - [[cynara-scolymus-entity]]

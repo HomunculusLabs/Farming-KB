@@ -70,20 +70,12 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[mycorrhizal-networks]]
 - [[mycorrhizal-symbiosis]]
-- [[ectomycorrhizal-associations]]
 - [[spore-print]]
 
 ## See Also
-- [[russula-olivacea]]
-
 - [[russula-xerampelina]]
 
-- [[cortinarius-cinnamomeus]]
-
 - [[russula-edible-species]]
-- [[lactarius-deliciosus]]
 - [[laccaria-laccata]]
-- [[amanita-muscaria]]
 - [[suillus-luteus]]

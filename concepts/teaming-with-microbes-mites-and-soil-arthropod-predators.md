@@ -10,54 +10,9 @@ sources:
 
 Mites are among the most numerous and ecologically significant
 arthropods in soil ecosystems. Along with springtails, they constitute
-the dominant [[teaming-with-microbes-overview]] in
-most soils. Mites play dual roles as both decomposers and predators,
-making them essential regulators of the [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
+the dominant [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
 Arthropods are characterized by segmented limbs, segmented bodies, and
-an exoskeleton made from [[fungal-chitin-decomposition-nutrient-cycling]].
-
-## Two Major Groups of Soil Mites
-
-### Oribatid Mites
-
-Oribatid mites have the highest populations of any soil arthropod, with
-densities reaching several hundred thousand per square yard. A key
-reason for their abundance is parthenogenesis -- female oribatid mites
-can lay fertilized eggs without mating, allowing populations to expand
-rapidly without the constraint of finding mates.
-
-Measuring 0.2 to 1 millimeter in length, oribatid mites primarily
-inhabit soil surfaces, particularly litter debris. They are also found
-on living plants, including mosses and lichens. Their feeding habits
-vary:
-
-- Most feed on fungi, algae, and decaying plant matter
-- Some feed on live nematodes
-- Others consume dead springtails and other small arthropods
-
-Because of their enormous numbers, oribatid mites are major recyclers
-and decomposers in the soil food web. As adults, their tough
-exoskeletons make them nearly impervious to most predators except ants,
-beetles, and larger animals like salamanders. They are most vulnerable
-during their early nymph stages.
-
-### Gamasid Mites
-
-Gamasid mites are the major predators of the soil arthropod community.
-Several hundred may inhabit a square yard of soil, with their
-populations directly tied to the availability of prey. Their presence
-and abundance serve as useful bioindicators of soil health: where
-gamasid mites are plentiful, their prey species must also be
-abundant, indicating a healthy, diverse soil food web.
-
-Soft-bodied relative to other arthropods, gamasid mites are
-themselves prey for many other arthropods. They feed in a manner
-reminiscent of spiders (with whom they are often confused -- all mites,
-like spiders, have eight legs). Gamasid mites inject their victims
-with enzymes that dissolve internal organs into liquid, which the
-mites then suck out. Their diet includes:
-
-- [[teaming-with-microbes-springtails-and-collembola]] (springtails)
+an exoskeleton made from [[teaming-with-microbes-springtails-and-collembola]] (springtails)
 - Insect larvae
 - Insect eggs
 - Nematodes (for soil-dwelling species)
@@ -111,15 +66,29 @@ imbalances that can allow pest species to proliferate.
 
 All arthropods have exoskeletons made of chitin. When arthropods molt
 or die, their chitinous remains become food for specialized bacteria
-and fungi. [[teaming-with-microbes-overview]] are
-particularly adept at decaying chitin. The breakdown of chitinous
-exoskeletons releases nitrogen and other nutrients back into the soil,
-contributing to [[teaming-with-microbes-mineralization-and-immobilization]].
+and fungi. [[teaming-with-microbes-mineralization-and-immobilization]].
 
 ## See Also
 
-- [[teaming-with-microbes-arthropods]]
 - [[teaming-with-microbes-springtails-and-collembola]]
-- [[teaming-with-microbes-nematodes]]
 - [[teaming-with-microbes-decomposition-pathways]]
 - [[fungal-chitin-decomposition-nutrient-cycling]]
+## Practical Considerations
+
+Successful implementation of Mites and Soil Arthropod Predators requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

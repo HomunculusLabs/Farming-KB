@@ -6,12 +6,7 @@ type: concept
 sources:
   - william-ozier-williams-pdc_-a-permaculture-design-cours
   - "raw/papers/bill-mollison-permaculture-design-course.md"
-tags: [permaculture, pdc, climate, climate-design, microclimate, temperate, tropical, arid, design]
----
-
-# PDC Climate Design Strategies
-
-The Williams PDC addresses climate as the single largest determinant of design strategy. Williams teaches that every design decision must be informed by the local climate, and that effective [[permaculture-design]] works with climate rather than attempting to override it.
+tags: [[permaculture-design]] works with climate rather than attempting to override it.
 
 ## Climate as the Design Foundation
 
@@ -19,27 +14,7 @@ The Williams PDC addresses climate as the single largest determinant of design s
 
 Williams establishes that climate sits at the top of the design influence hierarchy:
 1. **Climate**: The overarching environmental context that determines what is possible
-2. **Landform**: Topography, slope, aspect, elevation within the [[mollison-permaculture-two-zone-planning-and-site-layout]]
-3. **Water**: Availability, movement, and quality within the climate and landform context
-4. **Access**: How people and materials move through the site
-5. **Vegetation**: Plants and plant communities adapted to all of the above
-6. **Structures**: Buildings and infrastructure placed within this environmental context
-
-Designing without understanding climate is like building without understanding gravity -- the results will be dictated by forces the designer failed to account for.
-
-## The Five Climate Types
-
-Williams organizes design strategies around five broad climate types, acknowledging that real climates exist on continua and many sites experience conditions from multiple types:
-
-### 1. Temperate Climates
-
-**Characteristics**: Four distinct seasons, moderate precipitation, moderate temperature range. Summers warm to hot, winters cool to cold. Most of North America, Europe, and parts of Asia fall in this category.
-
-**Design priorities**:
-- **Seasonal extension**: [[extending-growing-season]] through passive solar design, cold frames, [[comparison-passive-solar-vs-earth-sheltered]], and microclimate creation
-- **Winter protection**: Windbreaks, thermal mass, insulation for structures, frost pockets identification and management
-- **Summer cooling**: Shade trees, ventilation, evaporative cooling, reflective surfaces
-- **[[water-management]]**: Handling seasonal precipitation patterns (wet springs, dry summers in some areas)
+2. **Landform**: Topography, slope, aspect, elevation within the [[extending-growing-season]] through passive solar design, cold frames, [[water-management]]**: Handling seasonal precipitation patterns (wet springs, dry summers in some areas)
 - **Storage**: Preserving summer abundance for winter use (food preservation, root cellaring)
 
 **Key strategies**:

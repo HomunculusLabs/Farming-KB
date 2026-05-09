@@ -72,38 +72,12 @@ specificity and include f. sp. cubense (banana), f. sp. lycopersici
   species within the Fusarium grisea complex
 
 ### Interactions with Mycorrhizae
-- [[arbuscular-mycorrhizal-fungi]] ([[glomus-mosseae]]) reduce Fusarium
+- [[glomus-mosseae]]) reduce Fusarium
   solani incidence on peanut plants (Abdalla and Abdel-Fattah, 2000)
-- [[laccaria-laccata]] suppresses F. oxysporum on Douglas fir seedlings
-  (Sylvia and Sinclair, 1983)
-- Mycorrhizal protection works through both enhanced plant nutrition
-  and direct antagonism
-
-### Environmental Persistence
-- Chlamydospores survive in soil for extended periods (10 to 15 years)
-- Spread through contaminated soil, water, tools, and transplants
-- Optimal disease development occurs at warm soil temperatures
-  (25 to 30 degrees C) and moderate moisture
-
-### Biocontrol Strategies
-- Non-pathogenic F. oxysporum strains can be used as biocontrol agents
-  through induced systemic resistance
-- Trichoderma species are effective antagonists
-- Soil solarization and crop rotation reduce inoculum levels
-- Resistant cultivars are available for many crops
-
-## Relevance
-Fusarium oxysporum is a major threat to global agriculture, with
-Tropical Race 4 currently threatening the Cavendish banana, the world's
-most exported banana variety. Understanding its biology, genetics, and
-interactions with beneficial soil fungi is critical for developing
-sustainable disease management strategies. In permaculture, building
-soil health through [[mycorrhizal-inoculation]] and biological diversity is
+- [[mycorrhizal-inoculation]] and biological diversity is
 a key approach to managing Fusarium wilt without chemical inputs.
 
 ## See Also
-- [[trichoderma-harzianum]]
 - [[magnaporthe-grisea]]
-- [[glomus-intraradices]]
-- [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]
 - [[fusarium-graminearum]]

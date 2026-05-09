@@ -10,11 +10,7 @@ sources:
 
 # The World of the Bushman
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] reflects on the Bushmen of southern Africa as exemplars of humanity living in harmony with nature. He presents their way of life as evidence that true human happiness lies in simplicity and closeness to the natural world.
-
-## Nature Farming and the Bushman's Way of Life
-
-Fukuoka draws a direct connection between [[fukuoka-natural-farming-philosophy-of-mu]] and the Bushman's existence:
+In *The Road Back to Nature*, [[fukuoka-natural-farming-philosophy-of-mu]] and the Bushman's existence:
 
 - The Bushman lives without cultivation, without altering the land
 - He takes only what nature provides, leaving no trace
@@ -43,35 +39,11 @@ The Bushman serves as a mirror reflecting modern humanity's errors:
 
 Fukuoka uses the Bushman example to illuminate natural farming principles:
 
-- [[fukuoka-road-do-nothing-farming]] shares the Bushman's principle of minimal intervention
-- Both approaches recognize that nature knows best how to provide for living things
-- The Bushman doesn't need to understand ecology to live in balance with it
-- Similarly, the natural farmer doesn't need agricultural science to grow food
+- [[fukuoka-bogus-nature]] worldwide
 
-## A Vanishing World
+See also: [[fukuoka-do-nothing-farming-philosophy]], [[dodonaea-viscosa]]
 
-Fukuoka acknowledges the tragic reality:
-
-- The Bushman's way of life is disappearing under pressure from modern civilization
-- This represents not just a cultural loss but an existential one for humanity
-- The knowledge encoded in their way of life cannot be recovered once lost
-- Their disappearance mirrors the broader loss of [[fukuoka-bogus-nature]] worldwide
-
-See also: [[fukuoka-nature-god-limits-of-knowledge]], [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-nature-transcends-human-knowledge]], fukuoka africa tragedy
-
-## Key Points
-
-- Masanobu Fukuoka's natural farming emphasizes working with nature rather than against it
-- The one-straw revolution approach minimizes human intervention in agricultural systems
-- Seed balls and no-till methods are central to Fukuoka's philosophy
-- Observing natural ecosystems provides the blueprint for sustainable food production
-- Fukuoka challenged the fundamental assumptions of modern agricultural science
-
-## See Also
-
-- [[dodonaea-viscosa]]
-
-[[entheogenic-plants-and-psychoactive-flora]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]]
+[[fukuoka-machine-culture-doomed]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-no-weeding-no-pesticides]]
 
 ## Practical Applications
 

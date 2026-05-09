@@ -71,48 +71,13 @@ materials common in West African agriculture.
 
 The sclerotia of P. tuber-regium contain bioactive compounds that
 have drawn interest from the medicinal mushroom research community.
-Like other [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]], P.
-tuber-regium produces beta-glucans and other immuno-modulatory
-substances. The traditional use of sclerotia for treating ailments
-from digestive disorders to serious diseases suggests significant
-pharmacological potential, though rigorous clinical studies remain
-limited.
-
-## Relationship to Other Sclerotia-Forming Species
-
-P. tuber-regium belongs to a broader ecological group of sclerotium-
-forming mushrooms. Other species that share this characteristic
-include:
-
-- Morchella angusticeps and allies (the Black Morels)
-- Morchella esculenta (Yellow Morel)
-- Morchella crassipes (Giant Morel)
-- Polyporus umbellatus (Zhu Ling)
-- Psilocybe mexicana and P. tampanensis
-- Collybia tuberosa
-
-Understanding sclerotia formation is central to cultivating these
-species. The phenomenon is encouraged by darkness during incubation
-and is stimulated by the microflora present in natural soils, making
-laboratory cultivation of sclerotia inherently difficult.
-
-## Ecological Role
-
-In its native habitat, P. tuber-regium functions as a decomposer of
-woody and herbaceous plant material. The sclerotia allow it to
-persist in soil for extended periods, germinating when conditions
-become favorable for fruiting. This survival strategy is analogous to
-that of [[growing-gourmet-black-morel-sclerotia-life-cycle]], which also use underground
+Like other [[growing-gourmet-black-morel-sclerotia-life-cycle]], which also use underground
 structures to bridge unfavorable environmental periods.
 
 ## See Also
 
-- [[tuber-borchii]]
-
 - [[pleurotus-tuber-regium]]
 
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-black-morel-sclerotia-life-cycle]]
-- [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]]
 - [[growing-gourmet-mushroom-life-cycle]]
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]

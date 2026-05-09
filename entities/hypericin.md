@@ -139,12 +139,8 @@ pathogens (*Candida* spp.) in wound care applications.
 **Diagnostic imaging:** Hypericin's strong fluorescence enables tumor
 visualization during fluorescence-guided surgery and endoscopic detection
 of premalignant lesions in the bladder and gastrointestinal tract.
-
 ## See Also
 
-- [[hypericum-perforatum]]
-- hyperforin
-- [[psilocybin-compound]]
-- [[salvinorin-a-entity]]
+- [[psilocybin]]
 - [[berberine]]
 - [[resveratrol]]

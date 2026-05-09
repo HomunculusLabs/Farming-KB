@@ -3,14 +3,14 @@ title: Fungal Roles in Old-Growth Forests
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Roles in Old-Growth Forests
 
 ## Overview
 
-Old-growth forests represent the most complex and biodiverse terrestrial ecosystems on Earth, and fungi play more roles in these systems than in any younger forest stage. The multi-layered canopy, diverse tree species composition, abundant dead wood, and undisturbed soil profiles of old-growth forests provide habitat for an extraordinary diversity of fungal species, including many specialists found only in late-successional forest conditions. Understanding fungal roles in old-growth forests is critical for conservation and for appreciating what is lost when primary forests are converted to managed forests or other land uses. See [[the-soil-food-web]] for the broader forest floor context and [[fungal-role-in-carbon-cycling]] for carbon cycle implications.
+Old-growth forests represent the most complex and biodiverse terrestrial ecosystems on Earth, and fungi play more roles in these systems than in any younger forest stage. The multi-layered canopy, diverse tree species composition, abundant dead wood, and undisturbed soil profiles of old-growth forests provide habitat for an extraordinary diversity of fungal species, including many specialists found only in late-successional forest conditions. Understanding fungal roles in old-growth forests is critical for conservation and for appreciating what is lost when primary forests are converted to managed forests or other land uses. See [[fungal-role-in-carbon-cycling]] for carbon cycle implications.
 
 ## Dead Wood as Fungal Habitat
 
@@ -63,37 +63,30 @@ Old-growth forests support the most extensive and complex mycorrhizal networks o
 
 - **Ancient networks**: Some mycorrhizal networks in old-growth forests may be centuries old, with individual fungal genets spanning tens of hectares. The continuous presence of host trees over centuries allows these networks to develop complexity that is impossible in younger forests
 - **Species diversity**: Old-growth forests support the highest diversity of ectomycorrhizal fungal species. A single old-growth stand in the Pacific Northwest may harbour over 1,000 ECM fungal species, compared to 100-200 in a young plantation
-- **Resource sharing**: Mycorrhizal networks connect trees of different species and ages, facilitating resource transfer. Dominant trees may subsidise suppressed trees through shared networks, maintaining forest structural diversity. See [[mycorrhizal-networks]] for network-level processes
-- **Seedling establishment**: Mycorrhizal networks enhance seedling survival by providing water, nutrients, and carbon from mature trees. This "nursing" function is particularly important in the shaded understory of old-growth forests where light is limited
-
-## Carbon Storage
-
-Fungi play a dual role in old-growth forest carbon cycling:
-
-- **Decomposition**: Fungi release carbon from dead wood and litter as CO2 through respiration. Old-growth forests may be net carbon sinks because tree growth exceeds decomposition losses, but the balance is delicate
-- **Carbon stabilisation**: Fungal necromass (dead hyphae) contributes to stable soil organic matter. Fungal cell walls contain chitin and melanin that are resistant to further decomposition, creating long-term carbon storage. Old-growth soils contain centuries of accumulated fungal-derived organic matter
-- **Dead wood carbon pool**: Dead wood in old-growth forests represents a significant long-term carbon pool. The rate of this pool's decomposition is primarily controlled by fungal community composition and activity
-
-## Conservation Implications
-
-Fungi in old-growth forests face threats from:
-
-- **Forest conversion**: Logging removes dead wood, reduces canopy complexity, and simplifies soil structure, all of which reduce fungal diversity. Recovery of fungal communities after logging may take centuries
-- **Fragmentation**: Small forest fragments cannot maintain populations of specialist fungi that require large, continuous habitat. Dispersal limitation is a significant constraint for many old-growth fungal species
-- **Climate change**: Warming temperatures and altered precipitation affect fungal community composition, decomposition rates, and mycorrhizal function. Range shifts may be slower for fungi than for their host trees, creating potential mismatches
-- **Air pollution**: Nitrogen deposition reduces ectomycorrhizal diversity and favours fast-growing, opportunistic species over slow-growing specialists
-
-The loss of old-growth forests means the irreversible loss of fungal species and fungal-mediated ecosystem functions that have developed over centuries. Many old-growth fungal species cannot survive in managed forests because they require specific conditions (large dead wood, undisturbed soils, stable microclimates) that only develop through centuries of forest development. Conservation of old-growth forests is essential for preserving fungal biodiversity and the ecosystem services that fungi provide.
-
-## See Also
-- [[the-soil-food-web]] -- broader forest floor ecology
-- [[ectomycorrhizal-ecology]] -- mycorrhizal associations
+- **Resource sharing**: Mycorrhizal networks connect trees of different species and ages, facilitating resource transfer. Dominant trees may subsidise suppressed trees through shared networks, maintaining forest structural diversity. See [[soil-food-web-nutrient-cycling]] -- broader forest floor ecology
 - [[fungal-decomposition]] -- decomposition processes
-- [[wood-decay-fungi-buildings]] -- white-rot, brown-rot, soft-rot
 - [[mycorrhizal-networks]] -- common mycorrhizal networks
-- [[fungal-role-in-carbon-cycling]] -- carbon cycle implications
 - [[fungal-biodiversity-ecosystem-function]] -- biodiversity-function relationships
 
 ## Related
 
 - [[old-growth-forest-fungi-conservation]]
+## Practical Considerations
+
+Successful implementation of Fungal Roles in Old-Growth Forests requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

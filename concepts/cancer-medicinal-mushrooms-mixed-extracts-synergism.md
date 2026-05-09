@@ -125,8 +125,6 @@ well-designed clinical trials with mixture preparations.
 
 ## Related Topics
 
-- [[cancer-medicinal-mushrooms-ahcc-clinical-outcomes]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[cancer-medicinal-mushrooms-maitake-d-fraction]]
 - [[mushroom-immune-cell-activation-mechanisms]]
 - [[medicinal-mushroom-cancer-chemoprevention]]

@@ -9,24 +9,8 @@ type: concept
 ---
 
 Trichomes are the tiny, crystal-like resin glands found on the surface of
-cannabis flowers and leaves. According to [[greg-green]]'s Cannabis Grow Bible,
-these structures are the primary factories for cannabinoid and THC production.
-understanding trichome biology, development, and harvesting is essential for
-any grower seeking to maximize potency and produce high quality hashish or
-concentrates. See also [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]
-and [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]].
-
- Trichome science continues to evolve as research uncovers more about how
- these microscopic structures synthesize and store the active compounds that
- make cannabis unique to the plant kingdom.
-
-## What Are Trichomes
-
-Trichomes are the correct botanical name for what growers commonly call resin
-glands. They appear as tiny, mushroom shaped outgrowths on the surface of
-female cannabis flowers and new growth leaves. The rounded tips, known as
-gland heads, secrete an oil like substance rich in cannabinoids including
-delta 9 THC, delta 8 THC, CBD, CBN, THCV, CBDV, CDC, and CBL.
+cannabis flowers and leaves. According to [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]
+and [[delta-8-thc]], CBD, CBN, THCV, CBDV, CDC, and CBL.
 
 Female plants produce the vast majority of trichomes, and the most potent
 type is called the stalked capitate trichome. These feature a visible stalk

@@ -74,19 +74,11 @@ The credit for giving us tools to resist this horror belongs to unsung heroes wh
 Psychology, in contrast, has been complacent and silent. Psychologists have been content with behaviorist theory-making for fifty years, while knowing in their hearts that they were doing a potentially fatal disservice to human dignity, by ignoring the potential of psychedelics.
 
 ## See Also
-- [[timothy-leary-harvard-psilocybin-experiments]]
-
-[[leary-psychedelic-manual-approach]]
-
-[[mckenna-food-of-the-gods-thesis]]
+- [[leary-psychedelic-manual-approach]]
 
 [[dominator-culture-and-partnership-society]]
 
-[[psychedelic-mushrooms-species-and-identification]]
-
-[[mushroom-cultivation-fundamentals]]
-
-[[mckenna-dmt-amazonian-ecosystems]]
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 [[mckenna-consciousness-expansion-and-drug-war]]
 

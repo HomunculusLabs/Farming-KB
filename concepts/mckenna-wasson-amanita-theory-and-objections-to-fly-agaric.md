@@ -116,8 +116,6 @@ could not possibly have been caused by Amanita muscaria.
 
 ## See Also
 
-- [[mckenna-search-for-soma-vedic-enigma]] - the broader Soma mystery
 - [[mckenna-vedic-soma-indo-european-mysteries]] - Indo-European context
-- [[mckenna-wasson-soma-contradictions-and-doubts]] - Wasson's private doubts
 - [[amanita-muscaria-chemistry-and-pharmacology]] - chemistry of fly agaric
 - [[amanita-muscaria-cultural-history]] - cultural history of Amanita use

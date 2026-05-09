@@ -100,15 +100,7 @@ Investigators should construct computer databases including phenotypic character
 
 ## See Also
 
-- [[yeast-isolation-biodiversity-methods]]
 - [[ribosomal-rna-sequencing-yeast-identification]]
-- [[fungal-enzyme-systems]]
 - [[aquatic-fungi-and-ingoldian-spores]]
-- [[fungal-biodiversity-in-extreme-environments]]
-
-## Sources
-
-- Kurtzman, C.P. and Fell, J.W. Chapter 16 in Biodiversity of Fungi: Inventory and Monitoring Methods (Mueller et al., eds.)
 - [[fungal-morphology-growth-and-pellet-formation]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[fungal-rdna-primers-molecular-identification]]

@@ -3,14 +3,14 @@ title: "Mushroom Growing Room Environmental Control"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [mushroom-cultivation, mycology]
+tags: [[mushroom-cultivation, mycology]
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---
 title: Mushroom Growing Room Environmental Control System
 created: 2026-04-26
-tags: [mycology, mushroom-cultivation, environmental-control, ventilation, stamets]
+tags: [[mycology, mushroom-cultivation, environmental-control, ventilation, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -22,22 +22,10 @@ type: concept
 The mushroom growing room must maintain a selected temperature range at
 high relative humidities. This is accomplished through adequate
 insulation and an environmental control system providing heating,
-cooling, humidification, and air handling. [[paul-stamets]] details the
-design parameters in Chapter IV of The Mushroom Cultivator.
-
-## Fresh Air Supply and Ventilation
-
-Fresh air serves critical functions in [[mushroom-cultivator-fruiting-conditions]]:
+cooling, humidification, and air handling. [[mushroom-cultivator-fruiting-conditions]]:
 
 -   Supplies oxygen to growing mushrooms.
--   Carries away CO2 produced by mycelium and fruitbodies.
--   Facilitates moisture evaporation from the cropping surface.
-
-### Fan Sizing
-
-**Air changes per hour** determine fan requirements:
-
--   *[[agaricus-brunnescens]]*: 4-6 changes per hour.
+-   Carries away CO2 produced by [[agaricus-brunnescens]]*: 4-6 changes per hour.
 -   *[[psilocybe-cubensis]]*: 2-3 changes per hour.
 
 **Formula for required CFM:**
@@ -147,4 +135,3 @@ Essential for the sensitive growing environment:
 -   Hygrometers or sling psychrometers for humidity (calibrate
     periodically).
 -   Advanced equipment: CO2 detectors, moisture meters, anemometers,
-    and light measuring devices.

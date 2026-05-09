@@ -54,13 +54,7 @@ presence in high numbers often suggests waterlogged or compacted soils.
 
 The most important function of soil protozoa in the soil food web is their
 role in the microbial loop. Bacteria in the
-[[lowenfels-rhizosphere-bacteria-plant-interaction]] assimilate nitrogen from
-soil organic matter and incorporate it into their biomass, with a carbon
-to nitrogen ratio of approximately 5:1. Plants require a much higher ratio
-of about 20:1. When protozoa consume bacteria, they cannot utilize all the
-nitrogen in bacterial biomass due to their own metabolic requirements. The
-excess nitrogen is excreted as ammonium, a form directly available to plant
-roots and to [[lowenfels-mycorrhizal-network-nutrient-sharing]].
+[[lowenfels-mycorrhizal-network-nutrient-sharing]].
 
 This process, called the microbial loop or protozoan grazing pathway, is one
 of the most efficient natural mechanisms for nitrogen mineralization. A
@@ -84,43 +78,15 @@ able to use it.
 This moisture dependence has important practical implications. Overwatering
 can create anaerobic conditions that favor ciliates but harm flagellates and
 amoebae, potentially disrupting the balanced protozoan community. Well-drained
-soils with good [[lowenfels-glomalin-soil-aggregation]] maintain optimal
-moisture conditions for diverse protozoan populations.
-
-## Population Dynamics and Bioindication
-
-Healthy agricultural soils typically contain 10,000 to 100,000 protozoa per
-gram of soil. The ratio of protozoan groups provides information about soil
-health. A balanced community with flagellates and amoebae dominating over
-ciliates indicates well-aerated, healthy soil. High ciliate numbers relative
-to flagellates suggest compaction or drainage problems. Protozoa are also
-sensitive to pesticides and chemical fertilizers, so declining protozoan
-populations can signal soil biological degradation.
-
-Seasonal fluctuations in protozoan populations reflect changes in soil
-temperature, moisture, and root activity. Populations peak during the growing
-season when root exudates fuel bacterial growth, creating abundant prey for
-protozoa. Understanding these natural cycles helps time management practices
-for maximum benefit.
-
-## Protozoa in the Broader Soil Food Web
-
-Protozoa occupy the second trophic level of the soil food web, feeding on
-bacteria and being consumed by [[lowenfels-nematode-food-web-roles]] and
-microarthropods described in [[lowenfels-soil-arthropod-macrofauna]]. Their
-grazing activity stimulates bacterial turnover and growth, preventing any
-single bacterial species from dominating. This grazing pressure maintains
-bacterial diversity and productivity. Protozoa also interact with
-[[lowenfels-soil-fungi-decomposition]] pathways, as some amoebae feed on
+soils with good [[lowenfels-nematode-food-web-roles]] and
+microarthropods described in [[lowenfels-soil-fungi-decomposition]] pathways, as some amoebae feed on
 fungal hyphae, contributing to fungal nutrient cycling alongside bacterial
 pathways.
 
 ## Supporting Protozoan Populations
 
 Practices that support bacterial populations naturally support protozoa.
-Applying [[lowenfels-compost-tea-brewing]] introduces both bacteria and
-protozoa. Maintaining soil moisture through mulching and cover cropping, as
-described in [[lowenfels-cover-crops-soil-biology]], creates favorable habitat.
+Applying [[lowenfels-cover-crops-soil-biology]], creates favorable habitat.
 Avoiding excessive tillage preserves the soil pore structure protozoa depend
 on for movement and feeding. The key principle from Lowenfels and Lewis is
 that protozoa thrive when the entire soil food web is intact and functioning.

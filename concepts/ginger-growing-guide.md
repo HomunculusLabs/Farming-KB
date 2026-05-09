@@ -7,13 +7,13 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Ginger [[ashwagandha-growing-guide|Growing]] Guide (Zingiber officinale)
+# Ginger Growing Guide (Zingiber officinale)
 
 ## Overview
 
 Ginger is a tropical herbaceous perennial in the Zingiberaceae family, native
 to Maritime Southeast Asia. One of the most important spices and medicinal
-[[permaculture-designers-manual-plant-toxins-dryland|plant]]s in the world, ginger has been cultivated for over 5,000 years and is
+plants in the world, ginger has been cultivated for over 5,000 years and is
 now grown commercially across the tropics. Its rhizome is used universally
 in cooking, [[herbal-medicine|herbal medicine]], and traditional healing systems. In temperate
 climates, ginger can be grown successfully in containers, greenhouses, or
@@ -26,7 +26,7 @@ high tunnels with proper management.
 - Hardiness: USDA zones 9-12 (grown as an annual or container plant elsewhere)
 - Lifecycle: Perennial in tropics; annual in temperate climates
 - Height: 2-4 feet
-- growing season: 8-10 months for mature rhizome production
+- Growing season: 8-10 months for mature rhizome production
 
 Ginger produces reed-like stems with narrow, lance-shaped leaves. The edible
 portion is the underground rhizome -- a knobby, branched structure with
@@ -119,7 +119,7 @@ From rhizomes (primary method):
 - Foliar feed monthly during active growth
 - Ginger is relatively pest-free; watch for rhizome rot in poorly drained
   soils
-- Nematodes can be a problem in mollison designers pioneer; use clean planting stock
+- Nematodes can be a problem in tropical soils; use clean planting stock
   and practice crop rotation
 
 ## Greenhouse and Container Growing
@@ -145,3 +145,43 @@ danger passes. Harvest before first frost.
 For fresh ginger:
 - "Green ginger" or baby ginger can be harvested 4-5 months after planting
 - At this stage, the skin is tender and does not need peeling
+- Simply dig around the plant and cut off desired pieces; the plant will
+  continue growing
+
+For mature ginger:
+- Harvest when foliage begins to yellow and die back (8-10 months)
+- Dig up the entire root mass with a garden fork
+- Cure rhizomes in a warm, dry location for 1-2 weeks
+- Save healthy rhizomes with good buds for next year's planting
+
+## Processing and Storage
+
+Fresh storage:
+- Uncut, unpeeled ginger stores in the refrigerator for 2-3 weeks
+- Wrap in paper towels to absorb moisture
+- For longer storage, freeze whole or sliced ginger (grate directly from
+  frozen)
+
+Drying:
+- Slice fresh ginger 1/8 inch thick
+- Dehydrate at 130-140 degrees F until completely brittle
+- Grind into powder as needed (fresh-ground is far superior to store-bought)
+- Store powder in airtight jars away from light and moisture
+
+Pickling (preserved ginger):
+- Slice fresh ginger thinly
+- Cover with rice vinegar, sugar, and salt
+- Store refrigerated for months
+
+## Yields
+
+- Baby ginger: 2-4 lbs per square foot
+- Mature ginger: 1-2 lbs per plant under good conditions
+- Container-grown: 0.5-1 lb per 15-gallon pot
+
+## See Also
+
+- [[turmeric-growing-guide]] -- close relative with identical cultivation
+  approach and complementary medicinal uses
+- [[holy-basil-tulsi-guide]] -- pair fresh ginger with tulsi tea for
+  respiratory and digestive wellness

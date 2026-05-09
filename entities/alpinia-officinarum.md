@@ -104,17 +104,11 @@ In dermatological research, topical formulations containing galangin have shown 
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[kaempferia-galanga]]
-- [[zingiber-officinale]]
 - [[curcuma-longa]]
-- [[piper-nigrum-entity]]
 - [[scutellaria-baicalensis]]
-- [[mentha-piperita]]
 - [[salvia-officinalis]]
-- [[bacopa-monnieri]]
 - [[astragalus-membranaceus]]
-- [[glycyrrhiza-uralensis]]
 - [[panax-ginseng]]
-- [[tinospora-cordifolia]]
+- tinospora-cordifolia
 - [[rhodiola-rosea]]

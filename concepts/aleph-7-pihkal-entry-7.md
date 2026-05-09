@@ -22,45 +22,7 @@ ALEPH-7 is the most pharmacologically distinctive member of the [ALEPH family, n
 - Molecular formula: C14H23NO2S (free base)
 - Molecular weight: 269.41 g/mol (free base)
 - Class: Substituted amphetamine (ALEPH family, sulfur-substituted DOx variant)
-- The propylthio homologue of [ALEPH; amphetamine counterpart of [[2c-d-pihkal-entry-23]]
-
-## Dosage and Duration
-
-| Parameter | Value |
-|-----------|-------|
-| Light dose | 4 mg |
-| Common dose | 5 - 7 mg |
-| Strong dose | 7 mg |
-| Duration | 15 - 30 hours |
-| Onset | 30 - 60 minutes |
-
-WARNING: Extremely long duration (15-30 hours). The most potent and longest-acting ALEPH. Multiple users reported they would not take it again.
-
-## Effects and Qualitative Commentary
-
-### 4 mg -- Paresthesia and Relaxation
-Paraesthetic twinges (pins and needles) at the second hour, followed by deep relaxation. Ears feel "popped" with persistent physical awareness. "There is not much fun with this." The following night, sleep is impossible with only slight dozing possible, though the user seems OK the next day.
-
-### 6 mg -- Emotional Collapse and "Strange Wide-Angle Lens"
-Alert felt within 30 minutes, then nothing for two hours before evolution of "an extremely neutral state." The user danced wildly to Keith Jarrett but somehow didn't care for the style. Then: "I fell apart emotionally, with tears and a feeling of total loss of everything. Everything was visible to me only in some strange wide-angle lens viewing." Walking was "a waste of time." Classical music was rejected; only jazz was acceptable. "It was a couple of days before I lost the residual strangeness feeling. Never again."
-
-### 7 mg -- The "Uncaring State" (First Report)
-Done alone, which the user regretted. Between hours 2-3, reached a full +++ with effects still developing, causing alarm. "No reality loss as with LSD, no shakes or shimmers, but an intense and profound +++ of something characterized only by the absence of extremes." The user drove over an hour to a friend's house -- "completely stupid" in retrospect, but survived by pre-programming every lane change. Lane markers "zipped up past my lateral field of vision...like disturbed fruit flies leaving an over-ripe peach." The friend's presence gradually transformed the uncaring state into "a friendly, familiar place." A fruit salad "tasted heavenly." Sleep possible by midnight. Full recovery required two nights of sleep. "The neutralness was something new to me. I don't like not caring."
-
-### 7 mg -- "Strange, Pleasant, Unexciting, Long-Lasting"
-Clear, unintoxicated central field of vision with concentration, while the periphery is "sensed as being filled with a kind of strangeness" and "something sensed inside, at the back of the head." A feeling of "something waiting to erupt, which never does." Faint amusement, but no depth or richness. No tremors. Slight visuals only when actively sought. Food tastes fine but hunger is absent. "Mildly pleasant but one would not take it again unless bored stiff."
-
-## Extensions and Commentary
-
-### The "Beth State"
-
-ALEPH-7 was the first definition of the "Beth state" -- a unique component of psychedelic experience characterized by uncaring, anhedonia, and emotionlessness. Shulgin proposed an ambitious theoretical framework drawing on the Fournier Transform: just as a musical note (say, an oboe playing A) contains both a fundamental frequency and a complex combination of harmonics that define the instrument, a psychedelic drug experience contains both a chronology of events and a combination of psychological "harmonics" or components.
-
-In this framework, the Beth state is one measurable component of drug action, alongside others that might include euphoria, disinhibition, visual alteration, etc. If a sufficient alphabet of effects were accumulated and defined (Shulgin used the Hebrew alphabet -- Aleph, Beth, Gimel, Daleth -- as a metaphor), the actions of new materials might be more exactly documented as compositions of these components. ALEPH-7, with its pronounced Beth state, could be useful in helping to define this particular component.
-
-### The ALEPH Family and 2C-T-7
-
-ALEPH-7 is the amphetamine (3-carbon) homologue of [[2c-d-pihkal-entry-23]] (2,5-dimethoxy-4-propylthiophenethylamine). The 2C-T-7 became far more widely known and controversial due to several fatalities associated with its use, leading to emergency scheduling. ALEPH-7's profile suggests the propylthio substitution pattern produces particularly long-acting and unusual psychological states regardless of backbone length.
+- The propylthio homologue of [ALEPH; amphetamine counterpart of [[2c-d-pihkal-entry-23]] (2,5-dimethoxy-4-propylthiophenethylamine). The 2C-T-7 became far more widely known and controversial due to several fatalities associated with its use, leading to emergency scheduling. ALEPH-7's profile suggests the propylthio substitution pattern produces particularly long-acting and unusual psychological states regardless of backbone length.
 
 ## Synthesis Summary
 
@@ -81,11 +43,68 @@ Synthesized from 2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see [[2c-d-pihkal
 - Driving under the influence was attempted and described as "completely stupid." NEVER drive on ALEPH-7.
 - Multiple experienced psychedelic users stated they would not take this compound again. Approach with extreme caution.
 - The [ALEPH family shows severe inter-individual variability.
-- See [[harm-reduction-guide]] for general psychedelic safety principles.
-- The [[set-and-setting-framework]] is critical. Do NOT take this compound alone.
+- See [[set-and-setting-framework]] is critical. Do NOT take this compound alone.
 - See [legal context for jurisdictional status.
 
 ## See Also
 
-- [[aleph-2-pihkal-entry-4]]
 - [[aleph-6-pihkal-entry-6]]
+## Practical Considerations
+
+When working with ALEPH-7 - PIHKAL Entry #7 Compound Profile, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

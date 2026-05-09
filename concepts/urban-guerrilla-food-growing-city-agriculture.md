@@ -131,9 +131,6 @@ unmaintained guerrilla plantings.
 
 ## See Also
 
-- [[urban-permaculture-design]]
 - [[guerilla-gardening-tactics-methods]]
-- [[urban-guerilla-food-growing]]
 - [[urban-permaculture-edge-effect-and-design-principles]]
-- [[urban-permaculture-productive-yards]]
 - [[urban-permaculture-community-building-social-design]]

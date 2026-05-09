@@ -108,13 +108,8 @@ Disease resistance breeding targets Fusarium wilt, Phytophthora blight, and Alte
 
 ## See Also
 
-- [[glycine-max]]
 - [[arachis-hypogaea]]
-- [[helianthus-annuus]]
-- [[carthamus-tinctorius]]
+- helianthus annuus
 - [[zingiber-officinale]]
-- [[curcuma-longa]]
-- [[piper-nigrum]]
-- [[allium-sativum]]
-- [[brassica-napus]]
+- [[piper-nigrum-entity]]
 - [[vigna-radiata]]

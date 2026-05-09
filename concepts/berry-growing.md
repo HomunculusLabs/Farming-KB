@@ -73,7 +73,7 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 | Root Rot | All (wet soils) | Drainage, [[mycorrhizal-fungi]] inoculation, avoid overwatering |
 | Mummy Berry | Blueberry | Remove infected berries, mulch to bury mummies |
 
-For general IPM philosophy, see cannabis pest management. For biological controls, see [[beekeeping-basics]].
+For general IPM philosophy, see [[cannabis-pest-management]]. For biological controls, see [[beekeeping-basics]].
 
 ## Seasonal Calendar (Zone 7-8)
 

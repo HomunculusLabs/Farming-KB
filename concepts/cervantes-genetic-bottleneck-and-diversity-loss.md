@@ -41,52 +41,7 @@ small populations, they drastically reduce this natural variability.
 Several factors have contributed to genetic erosion in cannabis:
 
 Years of persecution from governments have destroyed wild populations
-and [[cervantes-landrace-cannabis-populations]]
-around the world. Entire gene pools have been lost as eradication
-programs targeted natural cannabis habitats, particularly in regions
-like the Hindu Kush, Southeast Asia, and parts of Africa and the
-Americas.
-
-Commercial seed-making practices focused on profit rather than
-improvement or preservation have further narrowed the available gene
-pool. Many seed companies prioritize creating seed for sale over
-developing improved or uniform plant stock.
-
-Narrow breeding schemes, particularly the continual 1:1 mating
-strategies preferred by the majority of commercial seed banks, create
-populations derived from the genetic material of only two individuals.
-Such tight breeding populations inevitably lead to inbreeding
-depression. Many commercial breeders do not realize that cannabis is
-naturally an out-crossing species and that their narrow mating
-strategies are detrimental to the health of cannabis germplasm.
-
-## The Consequences of Lost Diversity
-
-Selections and advancements come at a cost to genetic variability.
-Breeders often reduce variability by narrowing the gene pool of a
-particular population as a consequence of fixing traits. The variability
-lost from narrow populations is unavailable to future generations of
-breeders.
-
-Without adequate genetic diversity, breeders face:
-- Reduced ability to respond to new pests and diseases
-- Limited options for introducing novel traits
-- Increased inbreeding depression in small populations
-- Loss of unique chemotypes and flavor profiles
-- Diminished potential for future improvement
-
-## Inbreeding Depression and Small Populations
-
-In cross-pollinated crops like cannabis, deleterious genes remain
-hidden within populations, and the negative attributes of these
-recessive traits can be revealed or unmasked via continual inbreeding.
-Inbreeding depression can be apparent in S1 populations after a single
-generation of self-fertilization.
-
-When breeding with small populations, as is often the case with
-continual 1:1 mating schemes, inbreeding depression typically becomes
-apparent within three to six generations. See
-[[cervantes-hybrid-vigor-inbreeding-depression]] for details.
+and [[cervantes-hybrid-vigor-inbreeding-depression]] for details.
 
 ## The Role of Ethical Breeding
 
@@ -127,8 +82,6 @@ important complement to preserving domesticated germplasm.
 
 ## See Also
 
-- [[cannabis-genetics-and-breeding]] - Breeding fundamentals
 - [[cervantes-hybrid-vigor-inbreeding-depression]] - Vigor and depression
-- [[cannabis-landrace-sativa-heritage-varieties]] - Wild varieties
 - [[cervantes-open-pollinated-heirloom-seeds]] - Preserved varieties
 - [[cervantes-seed-population-types-ibl-hybrid]] - Population types

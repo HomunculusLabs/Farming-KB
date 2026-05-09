@@ -75,7 +75,9 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[ayahuasca-and-dmt-plant-medicine]]
 - [[mda-entity-pihkal]]
-- [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

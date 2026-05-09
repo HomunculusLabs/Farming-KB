@@ -114,8 +114,6 @@ For compost tea practitioners, the lesson is clear: do not over-interpret specie
 
 ## See Also
 
-- [[ingham-aact-testing-methods]]
 - [[ingham-microscope-identification-soil-biology]]
-- [[ingham-field-guide-compost-tea-microscope-analysis]]
 - [[aact-compost-organism-levels]]
 - [[16s-rrna-sequencing-microbiome-analysis]]

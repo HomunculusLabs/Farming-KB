@@ -83,12 +83,8 @@ The Inquisition, at the cost of torture and execution of perhaps hundreds of tho
 
 The use of solanaceous hallucinogens in European witchcraft represents a Western parallel to the use of *Banisteriopsis* and *Amanita muscaria* in shamanistic societies. The "witches' flight" is functionally equivalent to the **soul flight** of the shaman -- a journey to the supernatural world made possible by hallucinogenic substances.
 
-- [[harner-amanita-muscaria-siberian-shamanism]]
-
 - [[harner-amazonian-ayahuasca-shamanism]]
 
-- [[harner-datura-solanaceous-shamanism]]
-
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 - [[harner-mescalero-peyote-shamanism]]

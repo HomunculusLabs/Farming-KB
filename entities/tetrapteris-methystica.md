@@ -141,8 +141,6 @@ ethnobotanical nurseries carry this species.
 
 ## See Also
 
-- [[diplopterys-cabrerana]]
 - [[banisteriopsis-caapi]]
-- [[psychotria-viridis]]
 - [[mimosa-tenuiflora]]
 - [[virola-theiodora]]

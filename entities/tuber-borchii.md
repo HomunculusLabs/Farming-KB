@@ -119,6 +119,4 @@ Foragers in the Mediterranean often harvest *T. borchii* and *T. maculatum* toge
 
 ## See Also
 
-- [[tuber-macrosporum]]
-
- [[tuber-melanosporum]] · [[tuber-aestivum]] · [[tuber-magnatum]] · [[cantharellus-cibarius-entity]] · [[boletus-edulis-entity]] · [[morchella-esculenta]] · [[pisolithus-arhizus]] · [[scleroderma-citrinum]] · [[laccaria-laccata]] · [[suillus-granulatus]]
+- [[tuber-melanosporum]] · [[tuber-magnatum]] · [[boletus-edulis-entity]] · [[pisolithus-arhizus]] · [[laccaria-laccata]] · [[suillus-granulatus]]

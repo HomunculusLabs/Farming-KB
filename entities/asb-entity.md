@@ -16,23 +16,11 @@ sources:
 
 ASB (Asymbescaline) is a mescaline-entity|mescaline analogue in which the 3,4-positions carry ethoxy groups instead of methoxy groups, while the 5-position retains the methoxy group. The name derives from its relationship to escaline-entity|escaline (where the 4-position alone is ethoxylated) -- it is "asymmetric" in having two ethoxy groups rather than one.
 
-It belongs to the broader family of [[phenethylamine-chemistry-basics]] explored by [[alexander-shulgin]]. The compound demonstrates how shifting the alkoxy substitution pattern on the phenethylamine ring affects psychoactive properties.
+It belongs to the broader family of [[alexander-shulgin]]. The compound demonstrates how shifting the alkoxy substitution pattern on the phenethylamine ring affects psychoactive properties.
 
 ## Dosage and Duration
 
-Shulgin provides dosage data in [[tihkal-shulgin-rating-scale]]:
-
-| Level | Shulgin Rating | Amount (mg) |
-|-------|---------------|-------------|
-| Threshold | + | ~30 |
-| Light | ++ | 40 - 60 |
-| Common | +++ | 60 - 80 |
-
-Duration: approximately 10-12 hours.
-
-## Effects
-
-ASB produces classic [[phenethylamine-set-and-setting]] with a profile that is reminiscent of mescaline but with its own character:
+Shulgin provides dosage data in [[phenethylamine-set-and-setting]] with a profile that is reminiscent of mescaline but with its own character:
 
 - **Visual effects:** Color enhancement and visual patterning are present, though less intense than with mescaline-entity|mescaline itself.
 - **Body sensations:** A moderate body load is typical of the alkoxyphenethylamine class. Some physical discomfort and nausea are possible.
@@ -55,35 +43,60 @@ The synthetic route illustrates the versatility of the bromo-intermediate, which
 
 ## Position in the Mescaline Analogue Series
 
-ASB is one of several [[mescaline-compound-profile]] that substitute ethoxy for methoxy groups at various positions:
-
-| Compound | 3-position | 4-position | 5-position |
-|----------|-----------|-----------|-----------|
-| mescaline-entity|Mescaline | OCH3 | OCH3 | OCH3 |
-## Significance
-
-ASB illustrates Shulgin's systematic approach to exploring how increasing the size of alkoxy substituents on the phenethylamine ring affects psychoactive properties. The diethoxy pattern provides insights into the structure-activity relationships within the mescaline series.
-
-## The Synthetic Versatility of the Bromo-Intermediate
-
-A notable feature of ASB's synthesis is the versatility of the 3-bromo-4,5-diethoxybenzylidenimine intermediate. This bromo compound can serve as a starting point for multiple compound families:
-
-- **Oxygen pathway:** Lithiation followed by boronation and oxidation leads to ASB (as described above)
-- **Sulfur pathway:** Exchange of the bromine for a sulfur atom leads to 2c-t-2-compound-profile|thio-analogues such as 5-TASB and 3-T-TRIS
-
-This "branch point" strategy is characteristic of efficient [[synthetic-tryptamine-methods]], where a single intermediate can be diverted into multiple research directions. The bromo-intermediate thus serves as a gateway to both the oxygen- and sulfur-substituted families of phenethylamines.
-
-## Related Compounds
-
-- mescaline-entity|Mescaline (the parent compound)
-- escaline-entity|Escaline (mono-ethoxy analogue)
-- proscaline-entity|Proscaline (propoxy analogue)
-- [[mescaline-derivatives-pihkal]]
-- [[phenethylamine-chemistry-basics]]
+ASB is one of several [[mescaline-derivatives-pihkal]]
 - [[pihkal-introduction-and-methodology]]
-- [[mescaline-entity]]
 - [[2c-family-compounds-overview]]
 
 ## Significance
 
 ASB illustrates Shulgin's systematic approach to exploring how increasing the size of alkoxy substituents on the phenethylamine ring affects psychoactive properties. The diethoxy pattern provides insights into the structure-activity relationships within the mescaline series.
+
+## Merged: 3 tasb entity
+
+# 3-TASB (3-Thioasymbescaline; 4-Ethoxy-3-ethylthio-5-methoxyphenethylamine)
+
+3-TASB is a sulfur-substituted phenethylamine and the thio-analogue of asb entity (asymbescaline). It combines ethoxy, ethylthio, and methoxy substituents on the phenyl ring, making it one of the more complex thio-substituted phenethylamines. The compound is listed as PIHKAL entry #146.
+
+## Chemical Classification
+
+3-TASB belongs to the phenethylamine class of chemical compounds.
+
+It is formally named 4-ethoxy-3-ethylthio-5-methoxyphenethylamine, also known as 3-thioasymbescaline.
+
+The compound is the thio-analogue of asb entity, with one of the ethoxy groups replaced by an ethylthio group.
+
+3-TASB carries three different substituents: an ethoxy group, an ethylthio group, and a methoxy group.
+
+The "3-" prefix indicates the position of the sulfur atom in the substitution pattern.
+
+## Pharmacological Profile
+
+3-TASB is an active compound with a dosage range of 60 to 100 milligrams.
+
+The duration of effects is 10 to 15 hours.
+
+The compound is described as having more physical problems than psychic virtue.
+
+Reports suggest significant physical discomfort at higher doses without correspondingly impressive psychedelic effects.
+
+## Qualitative Effects
+
+At 60 mg, subjects noted a petroleum-refinery type taste.
+
+The physical character of the compound was immediately apparent in its flavor.
+
+At 100 mg, trivial physical problems occurred during the early stages of the experience.
+
+Music was described as lovely during the experiment, but visual art (pictures) was not particularly enhanced.
+
+The experience lacked the depth or richness seen with other psychedelic compounds at similar dose levels.
+
+## The Thio-Substitution Pattern
+
+3-TASB represents the thio-analogue of asb entity, which itself is a positional isomer of [[mescaline-entity]]
+
+[[5-tasb-entity]]
+
+## References
+
+Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #146: 3-TASB.

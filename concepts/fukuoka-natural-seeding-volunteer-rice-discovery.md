@@ -125,9 +125,7 @@ a basic principle of natural farming.
 
 ## See Also
 
-- [[fukuoka-rice-plant-ideal-morphology]]
 - [[fukuoka-kochi-rice-borer-eradication-debacle]]
 
-- [[fukuoka-rice-and-barley-natural-farming]]
 - [[fukuoka-natural-rice-farming-steps]]
 - [[fukuoka-natural-rice-barley-cultivation]]

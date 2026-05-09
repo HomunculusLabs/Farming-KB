@@ -132,8 +132,7 @@ auxiliary enzyme used to detect NADH, ATP, phosphate, or chromogenic product for
 
 ## Related Concepts
 
-Enzyme inhibition is closely tied to [[enzyme-kinetics-michaelis-menten-model]], [[allosteric-regulation]], [[psychedelic-dose-response]],
-[[cannabis-therapeutic-index-overview]], and [[reactive-metabolites-and-bioactivation-toxicology]]. It connects molecular recognition to organism-
+Enzyme inhibition is closely tied to [[allosteric-regulation]], [[cannabis-therapeutic-index-overview]], and [[reactive-metabolites-and-bioactivation-toxicology]]. It connects molecular recognition to organism-
 level pharmacology and toxicology.
 
 The same mathematical language appears in receptor pharmacology, transporter inhibition, and drug-drug interaction prediction. The

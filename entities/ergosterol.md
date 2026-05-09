@@ -111,7 +111,9 @@ Beyond its structural role and vitamin D₂ precursor function, ergosterol exhib
 ## See Also
 
 - vitamin d2 — The photoproduct of ergosterol conversion via UV irradiation
-- [[saccharomyces-cerevisiae]] — Industrial yeast used for commercial ergosterol extraction
 - [[beta-glucans]] — Co-occurring fungal cell wall polysaccharides with immunomodulatory activity
-- [[aspergillus-niger]] — Fungal species used in industrial ergosterol production
 - [[agaricus-bisporus]] — Common button mushroom; commercial UV-irradiation for vitamin D₂ enhancement
+
+## See Also
+
+- [[ergosterol-fungal-membrane-biology]]

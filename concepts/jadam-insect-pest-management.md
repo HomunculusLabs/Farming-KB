@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Insect Pest Management
 
-JADAM organizes insect pest control by feeding type and uses a tiered system of [[jadam-herb-solution-jhs]] of increasing strength. Jerusalem artichoke is the base pesticide; gingko adds power for hoppers and suckers; Korean pasque flower root (KPFR) handles almost everything else. Combined with [[ultra-low-jadam-wetting-agent-jwa]] for wetting power, these control virtually all crop pests.
+JADAM organizes insect pest control by feeding type and uses a tiered system of [[ultra-low-jadam-wetting-agent-jwa]] for wetting power, these control virtually all crop pests.
 
 ## Sucking Insects
 
@@ -41,90 +41,7 @@ JADAM organizes insect pest control by feeding type and uses a tiered system of 
 - They spin fine webbing on leaf undersides
 - JS 1-2L added to the program provides additional miticidal effect
 - Mites develop resistance to synthetics rapidly; JADAM's multi-component approach avoids this
-- Winter greenhouse: use [[jadam-herbal-smoker]] (1-2 per 330 sq m)
-
-**Stronger:** Increase JWA to 8L, JHS to 10-15L.
-
-### Thrips
-
-**Program (Program 9, per 500L):**
-- JWA: 10L (2.64 gal)
-- KPFR JHS: 15L (4 gal)
-
-This is the strongest JADAM pesticide. For severe infestation, increase JWA to 15L and KPFR JHS to 20L.
-
-### Whiteflies (Greenhouse and Silverleaf)
-
-**Standard:** Program 6 or 9 depending on severity
-**Winter alternative:** Herbal smoker (tobacco, gingko, peppermint)
-
-### Scale Insects
-
-**Program 7 (per 500L):**
-- JWA: 8L + Jerusalem artichoke JHS: 15L
-
-For arrowhead scale on citrus: Program 8 (JWA 10L + gingko JHS 15L).
-
-## Chewing Insects
-
-### Moth Larvae (General)
-
-**Standard program (Program 7, per 500L):**
-- JWA: 8L (2.1 gal)
-- Jerusalem artichoke JHS: 15L (4 gal)
-
-Controls: tobacco moth, beet armyworm, cabbage white butterfly, diamondback moth, oriental fruit moth, slug moth, fruitworm moth, perilla leaf moth.
-
-**Key technique:**
-- Apply at sunset, then again early next morning for heavy infestation
-- For hairy pests (slug moth larvae): apply repeatedly, wet them thoroughly
-- For nocturnal moths: spray in evening
-- No. 7 is stronger than No. 6; when JS is not used, spray consecutively
-
-### Stinkbugs
-
-**Standard program (Program 9, per 500L):**
-- JWA: 10L + KPFR JHS: 15L
-
-For black stinkbugs specifically: increase JWA to over 10L and KPFR JHS to over 15L.
-
-**Foam gun technique:** Jerusalem artichoke JHS normally cannot control stinkbugs, but when applied with a car-wash foam gun (~$100), the foam traps and kills them instantly. Mix JWA 5L + Jerusalem artichoke JHS 5L per 500L.
-
-### Beetles and Weevils
-
-**Rice water weevil (Program 2):**
-- JWA 3L + JS 0.5L + 3L canola oil (surface-spreading agent, per 5L)
-- Sprinkle undiluted on water surface: 1L covers 0.1 ha
-- Apply early morning when wind is calm
-
-**Daikon leaf beetle:** Controlled with JMS preventive program (Program 11).
-
-### Flea Beetle
-
-Included in Program 9 (KPFR-based).
-
-## Boring Insects
-
-### Coffee Berry Borer
-
-Not specifically addressed in the book with a dedicated program. Use the strongest available formulation: Program 9 (JWA 10L + KPFR JHS 15L) with thorough coverage. The principle of coating and penetrating applies to boring insects when spray reaches entry points.
-
-## Slugs and Snails
-
-**Program 10 (per 500L):**
-- JWA: 3L (0.8 gal)
-- Sodium hydroxide (NaOH): 1.5 kg (3.3 lb)
-
-**Critical safety:**
-- Dissolve NaOH in small amount of water first, then mix with rest
-- NEVER touch with bare skin -- wear protective gloves
-- Do not let it touch your skin when spraying
-
-## Soil Pests
-
-### Nematodes
-
-Controlled through [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] soil application -- increase microbial diversity and population to crowd out nematodes. Not controlled by direct pesticide application.
+- Winter greenhouse: use [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] soil application -- increase microbial diversity and population to crowd out nematodes. Not controlled by direct pesticide application.
 
 ### Soil Foundation (Program 14)
 
@@ -147,3 +64,22 @@ Controlled through [[ultra-low-cost-jadam-microorganism-solution-and-soil-founda
 ## See Also
 
 - [[jadam-pest-control-recipes]] -- all 14 JADAM pesticide programs with full details
+## Practical Considerations
+
+Successful implementation of JADAM Insect Pest Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

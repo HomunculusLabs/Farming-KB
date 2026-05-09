@@ -15,41 +15,7 @@ cannabis, responsible for generating complex changes that occur
 physically as well as mentally and emotionally. It is the most studied
 cannabis constituent, with a chemical structure first discovered in 1964
 by Israeli scientists Raphael Mechoulam and Yechiel Gaoni. THC works
-primarily through the [[cannabis-health-endo-cannabinoid-system]], binding to
-CB1 and CB2 receptors throughout the body.
-
-## Chemical Properties
-
-Under a microscope, THC looks like a sticky liquid crystal when warm and
-a glass-like solid when cool. Fresh cannabis contains THC in the form
-of THC-carboxylic-acid (THC-acid), which is considered only minutely
-psychoactive. Once dried, the chemical composition of THC-acid changes
-through decarboxylation, losing its carboxyl group and becoming
-psychoactive THC. This conversion occurs as the plant dries or when it
-is burned.
-
-THC content decreases over time and is affected by UV light, heat, and
-exposure to moisture. Indoor cultivation follows a three-month cycle,
-while outdoor cultivation follows an annual or biannual cycle. Indoor
-crops tend to contain a markedly higher THC content than outdoor crops.
-
-## Receptor Binding
-
-Like anandamide (the body's own "bliss molecule"), THC binds relatively
-equally to both CB1 and CB2 receptors and thus initiates simultaneously
-a host of changes in the central nervous system (primarily via CB1), the
-immune system (primarily via CB2), and the autonomic nervous system
-(ANS). Changes in frame of mind (e.g., fear vs. relaxation) can
-similarly affect the nervous and immune systems.
-
-## Therapeutic Applications
-
-THC is used to treat a large number of conditions including:
-- AIDS-related anorexia/cachexia
-- Nausea and vomiting secondary to chemotherapy
-- Neurological disorders
-- Inflammatory conditions
-- [[cannabis-health-ptsd]]
+primarily through the [[cannabis-health-ptsd]]
 
 THC also demonstrates several significant protective properties:
 - Reduced heart attack size in animal models
@@ -63,8 +29,6 @@ THC also demonstrates several significant protective properties:
 
 Synthetic drugs containing THC include:
 - Sativex (essentially a plant-derived tincture)
-- [[dronabinol]]
-- Marinol
 - [[nabilone]]
 
 These pharmaceuticals are FDA-approved. However, with the exception of

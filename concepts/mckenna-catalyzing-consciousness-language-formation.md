@@ -139,9 +139,6 @@ senses and by the deeper dimensions of awareness.
 
 ## See Also
 
-- [[mckenna-cannabis-language-weaving-cordage-narrative]]
-
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[mckenna-psilocybin-three-levels-of-evolution]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[mckenna-language-and-reality]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]

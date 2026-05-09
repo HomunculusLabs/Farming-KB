@@ -89,17 +89,13 @@ Mushroom cultivation is particularly well-suited for people with disabilities be
 
 ## See Also
 
-- [[mushroom-cultivation-basics]] — cultivation fundamentals
 - [[mushroom-substrates]] — substrate options
-- [[cotter-oyster-mushroom-cultivation]] — most accessible mushroom species
 - [[mushroom-grow-equipment]] — equipment guide
 
 ## Related
 
 - index-mushroom-cultivation
-- [[mushroom-home-cultivation-history]]
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[tropical-mushroom-spawn-production-materials]]
 - [[oyster-mushroom-short-log-cultivation]]
 
 ## Practical Context
@@ -124,8 +120,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[mushroom-cultivation]]
 - [[mushroom-training-oyster-straw-cultivation]]
-- [[oyster-substrate-carbon-nitrogen-ratio]]
 - [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]]
 - [[mushroom-crop-rotation-and-substrate-reuse]]

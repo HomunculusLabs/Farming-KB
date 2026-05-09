@@ -77,13 +77,8 @@ Plants of the genus Goodenia serve as ethnobotanically significant Pituri replac
 
 ## See Also
 
-- [[duboisia-hopwoodii]]
-
 - [[nightshade-plants-entheogen]]
-- [[anadenanthera-entheogens]]
 - [[dmt-dimethyltryptamine-experience-guide]]
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
 - [[aztec-entheogens]]
-- [[microfungal-species-diversity-large-areas]]
 - [[european-witchcraft-hallucinogenic-plants]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]

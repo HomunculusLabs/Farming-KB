@@ -112,12 +112,8 @@ precise bed preparation to ensure uniform germination across all rows.
 
 ## Related Concepts
 
-- [[coleman-compost-and-organic-fertility-management]] — amendments and
-  compost applied during bed preparation
 - [[coleman-greenhouse-soil-management]] — greenhouse-specific soil
   strategies
-- [[coleman-french-intensive-bed-method]] — historical bed system
-  origins
 - [[coleman-small-farm-equipment-and-tools]] — the Tilther, broadfork,
   and other tools
 - [[coleman-weed-control]] — how bed preparation timing suppresses weeds

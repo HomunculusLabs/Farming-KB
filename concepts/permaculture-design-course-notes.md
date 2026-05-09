@@ -3,19 +3,9 @@ title: Permaculture Design Course Notes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# [[permaculture-design]] Course Notes
+tags: [[permaculture-design]] Course Notes
 
-These notes distill key concepts from Bill Mollison's Permaculture Design Course (PDC) and [[david-holmgren]]'s principles. The PDC is the foundational 72-hour course that introduces the theory and practice of permaculture design.
-
-## Overview of Mollison's PDC
-
-Mollison's PDC covers the full scope of permaculture as a design science. The course moves from broad patterns and principles to specific techniques, always grounded in the ethics of earth care, people care, and fair share.
-
-## [[patterns-in-nature]]
+These notes distill key concepts from Bill Mollison's Permaculture Design Course (PDC) and [[patterns-in-nature]]
 
 Permaculture design is pattern-based. Understanding natural patterns allows designers to create efficient, resilient systems.
 
@@ -47,13 +37,7 @@ Permaculture design must be adapted to local climate and bioregion. Mollison emp
 - Year-round growing season with wet and dry periods.
 - Abundant biomass but rapid decomposition.
 - Tropical forests and savannas as model ecosystems.
-- Key strategies: mulching, polycultures, [[water-management]] for dry season.
-
-### Arid/Semi-Arid Climates
-- Water is the limiting factor.
-- Focus on water harvesting, soil building, shade.
-- Desert scrub as the model ecosystem.
-- Key strategies: swales, [[keyline-design]], drought-tolerant species, windbreaks.
+- Key strategies: mulching, polycultures, [[keyline-design]], drought-tolerant species, windbreaks.
 
 ### Cool/Cold Climates
 - Short growing season, long cold periods.
@@ -79,15 +63,7 @@ The overlay method involves creating separate transparent maps for different ele
 ### Random Assembly
 A creativity technique where elements and their functions are randomly paired to generate novel design solutions. Example: "chicken" + "greenhouse" leads to the chicken tractor inside a greenhouse concept (heat + CO2 + manure + pest control).
 
-## [[water-in-permaculture]]
-
-Water is a central organizing element in permaculture design.
-
-### Key Strategies
-- **Swales**: Shallow, level trenches on contour that slow, spread, and sink water into the landscape.
-- **Keyline Design**: A system of plowing and water management that distributes water from valleys to ridges.
-- **Dams and ponds**: Store water high in the landscape for gravity-fed distribution.
-- **[[permaculture-designers-manual-greywater-systems]]**: Recycle household water for irrigation.
+## [[graywater-systems]]**: Recycle household water for irrigation.
 - **Rainwater harvesting**: Collect roof runoff in tanks and cisterns.
 
 ### Water Principle: Slow it, spread it, sink it.
@@ -105,21 +81,7 @@ Mollison emphasizes that soil is the foundation of all terrestrial life. Permacu
 - Integrating animals for manure and soil disturbance
 - Biochar incorporation
 
-### [[soil-health-indicators]]
-- Good structure (crumbly, well-aggregated)
-- High organic matter content
-- Active earthworm populations
-- Good water infiltration and retention
-- Rich earthy smell (actinomycete activity)
-
-## Trees and Perennial Systems
-
-Mollison calls trees "the earth's immune system." Permaculture places strong emphasis on perennial systems:
-
-- **Food forests**: Multi-layered perennial polycultures modeled on natural forests.
-- **Agroforestry**: Integrating trees with crops and/or livestock.
-- **Windbreaks**: Rows of trees that reduce wind speed, protect crops, and provide microclimates.
-- **[[woodlot-management]]**: Sustainable timber and firewood production.
+### [[woodlot-management]]**: Sustainable timber and firewood production.
 
 ## Animals in Permaculture
 
@@ -141,9 +103,8 @@ Mollison and Holmgren both emphasize that permaculture is not just about agricul
 
 - **Community economics**: Local trading systems, LETS (Local Exchange Trading Systems), community-supported agriculture.
 - **Bioregionalism**: Organizing social and economic systems around natural boundaries.
-- **[[appropriate-technology]]**: Simple, locally-adaptable tools and systems.
-- **Legal structures**: [[community-land-trusts]], cooperatives, commons governance.
+- **[[community-land-trusts]], cooperatives, commons governance.
 
 ## See Also
 
-- [[permaculture-design-principles]] for a gentler introduction to the core concepts
+- [[permaculture-farm-design-principles]] for a gentler introduction to the core concepts

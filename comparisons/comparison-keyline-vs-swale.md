@@ -17,13 +17,10 @@ strategies for managing water on agricultural and permaculture landscapes.
 
 While both aim to capture, store, and redistribute water across a site, they
 differ fundamentally in their design philosophy, scale of implementation, and
-underlying mechanisms of [[water-management]].
-
-[[keyline-design]] was developed by P.A. Yeomans in 1950s Australia as a
+underlying mechanisms of [[keyline-design]] was developed by P.A. Yeomans in 1950s Australia as a
 comprehensive landscape planning system.
 
-[[swale-design]] represents a specific water-harvesting feature rooted in the
-permaculture tradition established by Bill Mollison and [[david-holmgren]].
+[[david-holmgren]].
 
 Both approaches recognize that water is the primary driver of landscape health
 and that thoughtful management of water movement can reverse degradation, build
@@ -143,7 +140,5 @@ deep infiltration capacity, followed by swale installation where intensive food
 production is planned.
 
 ## See Also
-- [[comparison-windbreak-vs-swale]]
 - [[keyline-design]]
-- [[swale-design]]
 - [[pdc-water-harvesting-design]]

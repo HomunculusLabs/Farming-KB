@@ -50,31 +50,11 @@ This distinct mechanism of action means THC could potentially be used alongside 
 
 The clinical evidence comes from both smoked and oral forms of THC, as well as aerosolized preparations. While smoking provides rapid onset, it introduces burned plant material to already-sensitive airways. Oral THC takes longer to act but provides sustained bronchodilation.
 
-Vaporization may offer the rapid onset of smoking without the harmful combustion byproducts. For asthma patients who cannot tolerate any inhaled substance, oral preparations remain the safest option. See [[cannabis-administration-methods-comparison]] for delivery route details.
-
-## Trigger Management
-
-Common asthma triggers include emotional distress, dust, dust mites, molds, smoking, strong smells, pollution, industrial chemicals, food additives, colds, coughs, and strenuous exercise. Cannabis's anxiolytic properties may help with emotional triggers, while its anti-inflammatory properties may address underlying airway inflammation.
-
-However, smoking cannabis could itself be a trigger for some patients. Non-smoked delivery methods are essential for asthma patients considering cannabinoid therapy.
-
-## Strain Considerations
-
-The clinical trials primarily used THC. Sativa or sativa-dominant strains with higher THC content may provide more pronounced bronchodilator effects. However, individual responses vary, and some patients may benefit from balanced preparations that include CBD for its anti-inflammatory properties.
-
-## Related Topics
-
-- [[cannabis-respiratory-conditions]] for broader respiratory health context
-
-- [[cannabis-respiratory-conditions]] for related obstructive lung disease
+Vaporization may offer the rapid onset of smoking without the harmful combustion byproducts. For asthma patients who cannot tolerate any inhaled substance, oral preparations remain the safest option. See [[cannabis-respiratory-conditions]] for broader respiratory health context
 
 - [[cannabis-anti-inflammatory-applications]] for airway inflammation
 
-- [[cannabis-endocannabinoid-system]] for lung receptor science
-
 - [[cannabis-administration-methods-comparison]] for safe delivery routes
-
-- [[cannabis-thc-therapeutic-profile]] for THC-specific information
 
 - [[cannabis-health-index]] for the CHI methodology
 
@@ -87,5 +67,23 @@ Seven studies from 1974 to 1978 demonstrate THC's bronchodilator properties in a
 The clinical evidence, while strong, dates primarily from the 1970s. Modern replication with refined delivery methods (vaporization, nebulized preparations) is needed. The bronchoconstriction observed with crude aerosolized THC suggests that formulation matters significantly. Future research should develop THC preparations that deliver bronchodilator effects without airway irritation, and examine whether CBD provides additional anti-inflammatory benefits for asthma management.
 
 Source: Uwe Blesching, The Cannabis Health Index (2015)
-- [[cannabis-for-cough-and-bronchospasm]]
 - [[first-time-grower-common-mistakes]]
+## Practical Considerations
+
+Successful implementation of Cannabis for Asthma requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

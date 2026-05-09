@@ -133,18 +133,12 @@ Supercropping or any stress technique:
 
 Supercropping works well in combination with other training methods:
 
-- [[sea-of-green]] - short, Supercropped plants packed tightly
 - [[screen-of-green]] - Supercropped branches trained through a
   screen
-- [[cervantes-pruning-training]] - combined with strategic pruning for
-  optimal canopy shape
 - [[cervantes-plant-support-trellis-stakes-cages]] - supports the heavier
   branches that result from Supercropping
-
 ## See Also
 
-- [[cervantes-pruning-training]]
 - [[sea-of-green]]
-- [[screen-of-green]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[cervantes-vegetative-phase]]

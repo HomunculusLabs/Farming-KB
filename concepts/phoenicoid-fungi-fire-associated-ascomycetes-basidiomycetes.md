@@ -3,7 +3,7 @@ title: Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -78,35 +78,11 @@ Large discomycetes and agarics common:
 - Coprinus plicatilis
 - Pholiota carbonaria
 - Psathyrella carbonicola
-- [[schizophyllum-commune]]
-
-### Neurospora
-- Heterothallic Neurospora species are notable phoenicoid fungi
-- Require specific conditions (fire + compatible mating type) to fruit
-- Classic genetic model organism
-
-## Sampling Considerations
-
-### Timing
-- Fruit at different intervals after fire — single visit insufficient
-- Fruiting initiation and duration vary with season of burn and weather
-- Plan multiple visits over 1-4 years for comprehensive survey
-
-### Environmental Variables
-- Plant community type determines fungal species
-- Depth of burn affects which fungi appear
-- Season of fire affects timing of fruiting
-
-## See Also
-
 - [[macrofungal-sampling-design-plots-transects]]
-- [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
 - [[macrofungi-seasonality-annual-variation]]
 
 ## Related
 
-- [[fungal-biodiversity-forest-floor]]
 - [[thermophilic-fungi]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[fungal-biodiversity-in-soil-ecosystems]]

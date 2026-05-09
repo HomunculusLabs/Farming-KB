@@ -3,7 +3,7 @@ title: Oyster Mushroom Brown Blotch Disease
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, cultivation, mushrooms]
+tags: [[mycology, cultivation, mushrooms]
 sources:
   - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
@@ -114,14 +114,7 @@ of this form of brown blotch is fungal rather than bacterial, despite the simila
 
 ## See Also
 
-- [[mushroom-contamination-identification]] for identifying diseases and contamination in cultivation
 - [[cotter-mushroom-pests-diseases]] for comprehensive integrated pest and disease management
-- [[mushroom-harvesting-storage-methods]] for post-harvest handling to prevent disease spread
 - [[oyster-mushroom-green-mold-disease]] for another major fungal disease of oyster mushrooms
-- [[mushroom-cultivation-fruiting-chambers]] for environmental controls that reduce disease risk
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[oyster-mushroom-harvesting-post-harvest]]
 - [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]

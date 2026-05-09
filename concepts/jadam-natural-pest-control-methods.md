@@ -14,31 +14,7 @@ tags: [jadam]
 JADAM natural pesticide (JNP) is a comprehensive system of self-made
 biological pest and disease control that replaces both chemical and
 commercial organic pesticides at approximately 1/50th the cost. The
-system was developed by Youngsang Cho at the [[jadam-natural-pesticide-institute-and-research]] and refined through collective
-intelligence gathered from thousands of member farmers.
-
-## Philosophy of Natural Pest Control
-
-JADAM takes a clear-eyed view of nature as a domain of constant
-struggle rather than romantic harmony. While healthy soil and balanced
-nutrition reduce pest pressure, they do not eliminate it. Cho argues that
-farming without pesticide is fundamentally impossible because the
-purpose of farming is to take all the fruits, whereas the tree evolved
-to give them away to insects, birds, and animals for seed dispersal.
-Healthier trees with tastier fruit actually attract more pests.
-
-The critical insight is that pesticide is essential, but it need not be
-chemical, expensive, or purchased. JADAM pesticide is permitted under
-international organic production regulations, leaves no harmful residue,
-and provides nutrients to crops rather than depleting them.
-
-## Three Core Pesticide Components
-
-All JADAM pesticide formulations are built from three core inputs:
-
-### JADAM Wetting Agent (JWA)
-
-[[jadam-wetting-agent-jwa]] is the most important ingredient in the
+system was developed by Youngsang Cho at the [[jadam-wetting-agent-jwa]] is the most important ingredient in the
 system. Made from canola oil, caustic potash (KOH), and water without
 heating, JWA is a natural surfactant that enables the pesticide to
 effectively wet, coat, and penetrate target pests. It also possesses
@@ -49,36 +25,17 @@ active ingredients.
 JWA must be mixed with soft water. A simple water test confirms
 compatibility: a few drops of JWA in water should remain clear, not
 turn milky. Hard water causes JWA to clot and perform poorly. See
-[[jadam-water-quality-pesticide]] and [[jadam-water-softener]] for water
+[[jadam-water-softener]] for water
 quality management.
 
 ### JADAM Sulfur (JS)
-
-[[jadam-sulfur-germicide-js]] is a powerful germicide made by melting
-elemental sulfur in caustic soda (NaOH) with water, combined with red
-clay powder, phyllite powder, and sea salt. Production takes only
-approximately 20 minutes without heating. JS is effective against
-fungal diseases including powdery mildew, downy mildew, canker, and
-anthracnose. Unlike traditional lime-sulfur, it does not damage plastic
-sheeting or steel pipes in greenhouses.
-
-### JADAM Herb Solution (JHS)
 
 [[jadam-herb-solution-jhs]] provides insect-controlling capacity
 against a wide range of pests including cabbage white butterfly
 caterpillars, tobacco moth, beet armyworm, stinkbugs, and thrips. Made
 by boiling pesticidal herbs in soft water, JHS also functions as a
 liquid fertilizer, an advantage impossible with chemical pesticides.
-See [[jadam-jhs-herb-selection-guide]] for herb options.
-
-## Pesticide Formulations
-
-The three core components are combined in varying proportions to create
-targeted pest control solutions:
-
-- **JS germicide**: JS + JWA, for fungal diseases
-- **JHS pesticide**: JHS + JWA, for insect pests
-- **JMS pesticide**: [[jadam-microbial-solution-jms-preparation-and-use]] + JWA, for germicidal
+See [[jadam-microbial-solution-jms-preparation-and-use]] + JWA, for germicidal
   action using microorganisms
 - **JMS-JHS pesticide**: JMS + JHS + JWA, broad-spectrum control
 - **JS-JHS pesticide**: JS + JHS + JWA, combined disease and insect
@@ -116,19 +73,12 @@ pesticide for others, gradually moving toward full independence.
 
 JADAM has developed specific formulations for major pest categories:
 
-- [[jadam-pesticide-for-aphids-and-mites]]: JHS from
-  Jerusalem artichoke or stronger herbs + JWA
 - [[jadam-pesticide-for-fungal-diseases]]: JS + JWA
   germicide system
-- [[jadam-pesticide-for-powdery-mildew]]: JS-based
-  formulation
 - [[jadam-canker-leaf-spot-pesticide]]: JS + JHS +
   JWA combination
-- [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]: JHS from
-  appropriate herbs
 - [[jadam-pesticide-for-slugs-and-snails]]: specialized
   JNP formulation
-- [[jadam-pesticide-for-sucking-insects]]: JHS + JWA
 - [[jadam-pesticide-for-chewing-insects]]: stronger JHS
   concentrations
 
@@ -137,14 +87,9 @@ JADAM has developed specific formulations for major pest categories:
 The Bongha village case study demonstrated that a 320-acre rice farming
 community applying JADAM natural pesticide four times per season spent
 only 9 dollars per acre on pest control. This represents the practical
-realization of [[jadam-ultra-low-cost-agriculture]] in pest management.
 ## See Also
 
-- [[jadam-pest-control-with-natural-pesticides-jhs]]
-
 - [[jadam-oriental-herb-nutrient]]
-- [[jadam-sea-salt-and-mineral-solutions]]
 - [[jadam-weed-control-strategies-natural]]
-- [[jadam-crop-disease-prevention-methods]]
 - [[jadam-local-material-resource-cycling]]
 - [[jadam-soil-management-without-tillage]]

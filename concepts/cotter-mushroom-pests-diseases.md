@@ -3,66 +3,14 @@ title: Mushroom Pests and Diseases
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, pests, diseases, integrated-pest-management]
+tags: [[mycology, pests, diseases, integrated-pest-management]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# [[contamination-identification-prevention]]
-
-Pest and disease management in mushroom cultivation relies primarily on prevention through cleanliness, isolation, and cultural practices rather than chemical treatments. From Cotter's "Organic Mushroom Farming and Mycoremediation," Chapter 9. For a historical perspective on the same topic, see [[mushroom-pests-diseases-fumigation-duggar]].
+# [[mushroom-pests-diseases-fumigation-duggar]].
 
 ## Prevention: The First Line of Defense
 
-Cleanliness is the most important factor in preventing pest and disease problems. These practices are part of a broader [[integrated-pest-management]] approach:
-
-- Sweep floors daily in all growing areas
-- Remove mushroom debris immediately; never let material accumulate
-- Clean drains weekly with bleach solution to prevent biofilm buildup
-- Eliminate standing water anywhere in the growing facility
-- Isolate contaminated areas immediately, "like fire" - do not delay
-- Sanitize tools between uses; keep a spray bottle of 70% isopropyl alcohol handy
-- Maintain proper air circulation to prevent stagnant, humid pockets
-- Monitor crops daily; early detection is critical
-
-## Major Insect Pests
-
-### Fungus Gnats (Sciaridae)
-
-- The most common and damaging mushroom pest
-- Tiny dark flies that lay eggs in mushroom gills
-- Larvae devour mushrooms from the inside out
-- Adults are attracted to the smell of decomposing organic matter
-- Indicator species: presence of fungus gnats often signals Trichoderma mold contamination
-
-**Management:**
-- Bti (Bacillus thuringiensis var. israelensis) kills larvae; apply to substrate surface
-- Yellow sticky traps to monitor and reduce adult populations
-- Maintain proper sanitation to eliminate breeding sites
-- Ensure adequate ventilation; gnats prefer still, humid air
-- Check for and address Trichoderma contamination when gnats are present
-
-### Fruit Flies (Drosophila)
-
-- Similar to fungus gnats in behavior and damage
-- Attracted to fermenting organic matter and mushroom aromas
-- Lay eggs in mushroom gills; larvae feed on fruiting bodies
-
-**Management:**
-- Same approach as fungus gnats (Bti, sticky traps, sanitation)
-- Remove overripe or damaged mushrooms immediately
-- Keep growing areas clean of debris and spent substrate
-
-### Other Pests
-
-- **Mites**: Microscopic arachnids that feed on mycelium; can decimate cultures. Control with sanitation and isolation.
-- **Springtails**: Small jumping insects that feed on mycelium and small mushrooms. Reduce with improved drainage and reduced humidity.
-- **Slugs and snails**: Feed on fruiting bodies, especially outdoors. Hand-pick, use copper barriers, or diatomaceous earth.
-- **Nematodes**: Microscopic worms that damage mycelium. Most problematic in poorly prepared or waterlogged substrates.
-
-## Major Fungal Diseases
-
-### Trichoderma (Green Mold)
-
-- The most common contaminant in mushroom cultivation. See [[trichoderma-forest-green-mold-guide]] for a detailed guide.
+Cleanliness is the most important factor in preventing pest and disease problems. These practices are part of a broader [[trichoderma-forest-green-mold-guide]] for a detailed guide.
 - Appears as rapidly spreading green colonies on substrate and agar plates
 - Thrives in warm, humid conditions with excess moisture
 - Often co-occurs with fungus gnat infestations

@@ -114,13 +114,8 @@ Carbon sequestration potential is substantial. The continuous accumulation of ab
 
 ## See Also
 
-- [[permaculture]]
 - [[agroforestry]]
-- [[food-forest]]
 - [[cover-cropping-guide]]
-- [[sheet-mulching]]
 - [[chop-and-drop]]
-- [[biochar]]
 - [[korean-natural-farming]]
-- [[mycoforestry]]
 - [[ernst-gotsch]]

@@ -22,19 +22,7 @@ role in global carbon cycling and enables their use in bioremediation.
 
 White-rot fungi are the only organisms capable of efficiently mineralizing
 lignin, the complex aromatic polymer that provides structural rigidity to
-plant cell walls. [[lignin-degradation]] is mediated primarily by three enzyme
-systems that act synergistically.
-
-Lignin peroxidase (LiP, EC 1.11.1.14) oxidizes non-phenolic aromatic
-subunits of lignin through electron transfer. It generates veratryl alcohol
-radical cations as redox mediators that diffuse into the lignin matrix,
-attacking internal sites inaccessible to the enzyme itself. LiP has an
-extremely high redox potential (greater than 1.4 volts) compared to other
-peroxidases, enabling it to oxidize the most recalcitrant aromatic structures.
-
-Manganese peroxidase (MnP, EC 1.11.1.13) oxidizes Mn(II) to Mn(III), which
-forms chelates with organic acids like oxalate and malate. These Mn(III)
-chelates diffuse away from the [[fungal-hyphae]] and oxidize phenolic lignin
+plant cell walls. [[fungal-hyphae]] and oxidize phenolic lignin
 components. MnP is more widely distributed among white-rot fungi than LiP and
 is considered the more versatile lignin-degrading enzyme.
 
@@ -73,36 +61,24 @@ use them as mycoparasitic weapons against plant pathogenic fungi.
 
 ## Enzyme Regulation
 
-[[fungal-extracellular-enzyme-production]] is tightly regulated by both
-nutritional signals and environmental conditions. Carbon catabolite repression
-(CCR) suppresses production of cellulases and other degradative enzymes when
-easily metabolized sugars are available, conserving energy. Derepression
-occurs when preferred carbon sources are exhausted, triggering enzyme gene
-expression.
-
-In lignin-degrading fungi, enzyme production is induced by nutrient
-starvation, particularly nitrogen limitation. This seemingly paradoxical
-response makes ecological sense: lignin provides carbon but little nitrogen,
-so lignin degradation is activated when nitrogen is scarce and carbon is needed.
-Copper availability regulates laccase expression, while manganese levels
-control MnP production.
-
-## Applications
-
-Beyond their ecological significance, fungal enzymes have extensive industrial
-applications. Laccases are used in textile dye decolorization, paper pulp
-bleaching, and organic synthesis. Cellulases are essential in biofuel
-production, textile processing, and animal feed supplements. Lignin-modifying
-enzymes are employed in bioremediation of polluted soils and waterways.
-
-Enzyme engineering through directed evolution and rational design is expanding
-the industrial utility of fungal enzymes. Thermostable variants with improved
-activity under process conditions, enzymes with altered substrate specificity,
-and designer enzyme cocktails tailored to specific substrates are active areas
-of fungal biotechnology research.
-
-## See Also
-
-- [[mycelium-running-techniques]]
-- [[bioremediation-strategies]]
+[[mycelium-running-techniques]]
 - [[white-rot-fungi]]
+## Practical Considerations
+
+Successful implementation of Fungal Extracellular Enzymes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

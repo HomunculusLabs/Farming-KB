@@ -26,27 +26,7 @@ Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and 
 
 ## Types of Mycorrhizae
 
-### Arbuscular [[mycorrhizal-fungi]] (AMF)
-
-Arbuscular mycorrhizae are the most common type, associated with approximately 72% of all land plants. The defining feature is the formation of **arbuscules** — highly branched tree-like structures inside cortical root cells that serve as the primary site of nutrient exchange. Key genera include *Rhizophagus* (formerly *Glomus*), *Funneliformis*, and * Gigaspora*. AMF are obligate biotrophs; they cannot complete their life cycle without a host plant. They produce large multinucleate spores (200–600 µm) in the soil and belong to the phylum Glomeromycota.
-
-### Ectomycorrhizae (ECM)
-
-Ectomycorrhizae form primarily with trees in the families Pinaceae, Fagaceae, Betulaceae, and Myrtaceae. Rather than penetrating root cells, ECM fungi form a dense sheath (**Hartig net**) around the root surface and grow between epidermal cells. Well-known ECM genera include *Amanita*, *Boletus*, *Laccaria*, *Pisolithus*, and *Suillus*. Many commercially harvested mushrooms (porcini, chanterelles, matsutake) are ECM species.
-
-### Ericoid Mycorrhizae
-
-Found in plants of the order Ericales (heaths, heathers, blueberries, cranberries), these fungi enable their hosts to access nitrogen from organic sources in acidic, nutrient-poor soils. The fungal partner typically belongs to the Ascomycota.
-
-### Orchid Mycorrhizae
-
-Orchid seeds lack endosperm and require a mycorrhizal fungus (usually *Rhizoctonia*-like basidiomycetes) to supply carbon and nutrients during germination. Some orchids remain mycoheterotrophic throughout their lives.
-
-## Nutrient Exchange Mechanism
-
-The core mycorrhizal trade involves:
-
-- **Phosphorus**: [[fungal-hyphae]] explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
+### Arbuscular [[fungal-hyphae]] explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
 - **Nitrogen**: AMF access ammonium and amino acids; ECM fungi are particularly efficient at mining organic nitrogen from soil organic matter via protease secretion.
 - **Carbon**: The host plant supplies 10–20% of its photosynthetically fixed carbon (up to 30% in some ECM associations) to the fungal partner as glucose and fructose.
 - **Micronutrients**: Copper, zinc, and other trace elements are also transported to plants via fungal hyphae.
@@ -141,10 +121,7 @@ GRSP concentrations are used as a bioindicator of AMF activity and soil health i
 - **Phosphorus saturation**: Long-term application of high-P fertilizers can permanently reduce a soil's mycorrhizal inoculum potential
 - **Climate change**: Altered precipitation patterns and warming temperatures may disrupt the timing of plant-fungal phenological synchrony
 - **Monoculture agriculture**: Reduces mycorrhizal diversity to 10–20% of levels found in natural ecosystems; cover cropping can partially restore diversity
-
 ## See Also
-
-- [[mycorrhizal-carbon-sequestration]]
 
 - [[ericoid-and-orchid-mycorrhizae]]
 - [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]

@@ -106,15 +106,9 @@ Major production areas in Japan include Wakayama, Kochi, and Gifu prefectures. T
 
 ## See Also
 
-- [[zingiber-officinale]] — Common ginger, the most commercially important Zingiber species
 - [[zingiber-zerumbet]] — Shampoo ginger, a related Zingiber with ornamental and medicinal uses
-- [[alpinia-galanga]] — Greater galangal, a Zingiberaceae species with culinary rhizomes
 - [[alpinia-zerumbet]] — Shell ginger, an ornamental Zingiberaceae with cold tolerance
-- [[kaempferia-galanga]] — Sand ginger, a Southeast Asian Zingiberaceae spice
 - [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species used in Thai cuisine
-- [[curcuma-longa]] — Turmeric, a related Zingiberaceae rhizome crop
 - [[tagetes-minuta]] — Marigold, a companion plant with allelopathic properties useful in myoga cultivation
-- [[alpinia-officinarum]] — Lesser galangal, a TCM herb from the same family
 - [[salvia-officinalis]] — Common sage, a shade-tolerant Mediterranean herb sharing forest-garden niches
-- [[mentha-spicata]] — Spearmint, a shade-tolerant culinary herb with complementary forest-garden use
 - [[ocimum-basilicum]] — Sweet basil, a culinary herb contrasting myoga's temperate adaptation

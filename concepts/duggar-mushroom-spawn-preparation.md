@@ -60,23 +60,7 @@ Hand moulds may be made of iron or a strong oak frame lined with steel plates. T
 2. The compost may be used in a moist but not puddled condition, compressed into the brick with some force using a mallet.
 
 ### Inoculation, Growth and Drying
-Two [[inoculation-methods]] exist:
-1. Bricks dried to slight moisture, then stacked with spawn bits distributed between each pair in successive layers
-2. While bricks are still fairly moist, spawn pieces inserted in cuts made in the soft brick, then drying continued
-
-Bricks are stored for growth at a temperature about the same as that most favorable in mushroom growing (about 55 degrees F). They should be examined occasionally and moisture carefully controlled. The surface must be kept slightly moist to allow spawn to grow throughout the brick.
-
-## Vitality of Spawn
-
-Mushroom spawn is unquestionably so badly injured after being stored for a period of one year as to be unfit for commercial purposes. It is preferable to use spawn not more than six or eight months old. Under the same conditions, the vitality of brick spawn is greater than that of flake spawn.
-
-## Price of Spawn
-
-The price of mushroom spawn varies considerably depending upon quality. Spawn of the highest quality has bricks all inoculated directly from the pure culture. English brick spawn may also be purchased from importers at a few cents less per brick, but has been subjected to longer shipment and storage.
-
-It is a mistake to purchase spawn in a hurry. If needed in quantity, the order should be placed with the manufacturer several months in advance.
-
-## Modern [[spawn-production]]
+Two [[spawn-production]]
 
 Modern commercial spawn production has advanced considerably since Duggar's era, though many of his fundamental principles remain valid. Today's spawn laboratories use laminar flow hoods and sterile technique borrowed from medical microbiology to maintain aseptic conditions during inoculation. The most common spawn substrates include sterilized grain (rye, millet, or wheat), supplemented sawdust, and specialized plug spawn for log inoculation. Grain spawn remains the standard for most cultivation due to its high surface area and rapid colonization rates. Pure culture techniques developed from Duggar's tissue culture method are now used universally, with genetic selection allowing strain improvement for yield, disease resistance, and fruiting characteristics.
 
@@ -90,32 +74,7 @@ Before committing to large-scale cultivation, growers should test spawn viabilit
 
 ## Duggar's Specific Spawn Recommendations
 
-Duggar recommended different spawn types for different mushroom species and growing conditions. For the common mushroom (*[[agaricus-bisporus]]*), grain spawn was preferred for its rapid colonization, while manure-based spawn was recommended for outdoor beds where the spawn needed to persist through variable conditions. For oyster mushrooms (*[[pleurotus-ostreatus]]*), Duggar noted that sawdust spawn worked well and could be prepared by the grower from locally available hardwood sawdust. For shiitake (*[[lentinula-edodes]]*), he recommended wood-based spawn inoculated into hardwood logs or supplemented sawdust blocks. Each spawn type required slightly different preparation methods and sterilization protocols, but the fundamental principles — pure culture inoculation, aseptic technique, and proper incubation — remained constant across all species.
+Duggar recommended different spawn types for different mushroom species and growing conditions. For the common mushroom (*[[pleurotus-ostreatus]]*), Duggar noted that sawdust spawn worked well and could be prepared by the grower from locally available hardwood sawdust. For shiitake (*[[duggar-mushroom-spawn-preparation-techniques]] Concepts
 
-## The Transition from Farm-Made to Commercial Spawn
-
-Duggar documented the transition from farm-made spawn to commercial spawn production that occurred in the early-to-mid 20th century. In the early 1900s, most mushroom growers prepared their own spawn using methods passed down through generations of growers. The American Spawn Company, founded in the early 1900s, was among the first commercial operations to produce standardized spawn for sale to growers. This commercialization brought several advantages: consistent quality, disease-free starting material, and access to improved strains developed through selective breeding. However, it also created dependency on external suppliers and reduced growers' understanding of the biological processes underlying mushroom cultivation. Duggar's text serves as a bridge between the older tradition of farm-made spawn and the modern commercial spawn industry, preserving knowledge that remains valuable for growers who want to maintain independence from commercial suppliers.
-
-## Duggar's Legacy in Modern Mycological Education
-
-B.H. Duggar's contributions to mushroom cultivation literature extend beyond the specific techniques he documented to a broader influence on how mycological knowledge has been transmitted to successive generations of growers. His writing style — clear, systematic, and grounded in practical experience — established a model for cultivation guides that persists in modern mycological literature. The emphasis he placed on understanding the biological principles underlying cultivation practices (rather than merely following recipes) encouraged growers to develop a scientific mindset that could adapt to new challenges and opportunities. Many of the specific spawn preparation techniques Duggar described, while refined by subsequent advances in sterilization technology and aseptic technique, remain recognizable in modern practice. His documentation of the transition from farm-made to commercial spawn production provides valuable historical context for understanding current debates about the centralization versus decentralization of mushroom genetics and inoculum production. Contemporary movements advocating for open-source spawn production, community-scale cultivation, and the preservation of diverse mushroom genetics all draw on principles that Duggar articulated nearly a century ago.
-
-## Substrate Preparation Methods for Spawn Production
-
-The preparation of substrate for spawn production requires careful attention to moisture content, particle size, and sterilization. Duggar described several substrate types appropriate for different mushroom species and cultivation contexts. For grain spawn, the grain must be hydrated to approximately 50-60% moisture content — too dry, and mycelial growth is slow and sparse; too wet, and the grain becomes anaerobic, promoting bacterial contamination. The standard hydration test involves squeezing a handful of grain: it should hold together in a clump without dripping free water, and individual grains should not appear swollen or burst. For sawdust spawn, the moisture content target is slightly higher (55-65%), and the sawdust should be supplemented with a nitrogen source such as wheat bran (typically 10-20% by dry weight) to accelerate mycelial growth. Duggar emphasized that the physical structure of the substrate matters: grain that is intact and free of fines (dust and broken pieces) provides better aeration and more uniform colonization than grain that has been cracked or crushed. After hydration, the substrate must be sterilized before inoculation. In Duggar's time, steam sterilization in a retort or autoclave was the gold standard, though some practitioners used simpler methods such as boiling or hot water pasteurization, which were less reliable but more accessible to small-scale growers.
-
-## Contamination and Quality Problems in Spawn Production
-
-Contamination is the most significant challenge in mushroom spawn production, both in Duggar's era and today. The primary contaminants include Trichoderma (green mold), which is the most common and destructive competitor of cultivated mushroom mycelium; Aspergillus species (yellow-green to black molds); and various bacteria, particularly Bacillus species, which produce a characteristic sour or slimy appearance in contaminated grain. Duggar identified several vectors of contamination that remain relevant: improperly sterilized substrate, non-sterile inoculation technique, contaminated air in the incubation area, and poor-quality parent cultures. Modern spawn laboratories address these through autoclaving substrate at 15 psi for 60-90 minutes (far more thorough than the boiling water methods available in Duggar's time), working within laminar flow hoods that provide HEPA-filtered air, and maintaining positive air pressure in production rooms to prevent ingress of airborne spores. Duggar's observation that spawn quality declined as production scaled up reflects a persistent challenge in mycology: the probability of contamination increases with the number of units produced, requiring increasingly stringent quality control protocols. Growers who attempt to produce their own spawn should be prepared for significant initial failure rates and should start with small batches while developing their sterile technique.
-
-## Grain-to-Grain Expansion and Spawn Multiplication
-
-A technique that has become standard in modern spawn production but was only in its infancy during Duggar's era is grain-to-grain expansion. In this method, a small quantity of fully colonized grain spawn (the "master spawn") is used to inoculate a larger quantity of sterilized grain, which then colonizes over 10-14 days. Each transfer typically achieves a 10:1 expansion ratio, meaning a single quart of master spawn can produce 10 quarts of production spawn. This method dramatically reduces the time and labor required to produce large quantities of spawn compared to starting each batch from agar culture. However, grain-to-grain expansion also multiplies any contamination present in the master spawn, so it is critical that the master culture be thoroughly tested and verified as clean before expansion. Duggar would likely have approved of this method's efficiency while cautioning against the temptation to perform too many successive transfers, as each generation increases the risk of accumulated contamination and senescence (the gradual decline in mycelial vigor that occurs with repeated subculturing on the same medium). Most commercial spawn producers limit grain-to-grain expansion to one or two generations beyond the agar master.
-
-## See Also
-
-- [[duggar-mushroom-spawn-preparation-techniques]] Concepts
-
-- [[duggar-mushroom-history-and-overview]] - Background on mushroom cultivation
 - [[substrate-preparation-mushroom-growing]] - Preparing the compost beds
 - [[duggar-mushroom-common-varieties]] - Varieties suited to different spawn types

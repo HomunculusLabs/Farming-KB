@@ -15,24 +15,7 @@ chickenpox virus. There are currently eight known herpes viruses.
 According to orthodox medicine, all herpes viruses can exist in the body
 without any outward sign or symptom until a period of depressed immunity
 suddenly results in an outbreak. Oral herpes (cold sores or fever
-blisters) called [[blesching-cannabis-hiv-aids]] usually appears above
-the waist, in contrast to genital herpes (HSV-II). While HSV-I and II
-are relatively benign physically, they often take a profound toll on the
-patient's emotional well-being.
-
-## Current Allopathic Treatment
-
-No orthodox cure exists. A common allopathic treatment to "manage" herpes
-is Zovirax (acyclovir). Side effects may include nausea and/or vomiting,
-diarrhea, dizziness, anorexia, fatigue, swelling of the skin, skin
-rashes, leg pains, sore throat, and paresthesia (feeling of numbness).
-A month's supply for the maximum recommended dose costs about $870 (in
-2015).
-
-## Cannabis and Herpes Research
-
-Research on cannabis and herpes spans laboratory and human studies,
-yielding a [[cannabis-health-methods-of-administration]] of 5 across 3 studies
+blisters) called [[cannabis-health-methods-of-administration]] of 5 across 3 studies
 reviewed by Blesching. The evidence points to two distinct mechanisms:
 antiviral activity against the virus itself, and pain reduction following
 outbreaks.
@@ -72,15 +55,7 @@ expression promoters and disruption of viral replication machinery.
 ## Strain-Specific Considerations
 
 THC binds with CB1 and CB2 receptors relatively equally. For herpes
-treatment, [[cannabis-sativa-vs-indica-guide]] and
-sativa-dominant hybrids have a higher THC:CBD ratio, which may be
-relevant given that the antiviral effects identified in studies primarily
-involve THC. Topical application of cannabinoid-containing creams was
-effective in human trials for post-outbreak pain management.
-
-## Endocannabinoid System Relevance
-
-The [[cannabis-endocannabinoid-system]] plays a
+treatment, [[cannabis-endocannabinoid-system]] plays a
 role in immune function and inflammatory response through CB2 receptor
 activation. Herpes outbreaks are triggered by periods of depressed
 immunity, and supporting the immune system through endocannabinoid
@@ -136,8 +111,6 @@ feelings seem necessary.
 
 ## Related Topics
 
-- [[cannabis-for-viral-infections]]
 - [[cannabis-topical-applications]]
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[blesching-cannabis-immune-system-modulation]]

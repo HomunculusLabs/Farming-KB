@@ -123,11 +123,7 @@ be strictly observed.
 
 ## See Also
 
-- [[cervantes-pest-disease-prevention-overview]]
 - [[cervantes-biological-pest-control-predators]]
-- [[cervantes-homemade-pest-disease-sprays]]
 - [[cervantes-bacillus-thuringiensis-bt-control]]
-- [[cervantes-neem-oil-organic-pest-control]]
 - [[cervantes-pyrethrum-pyrethroid-insecticides]]
-- [[cervantes-spider-mites-identification-control]]
 - [[cervantes-foliar-feeding]]

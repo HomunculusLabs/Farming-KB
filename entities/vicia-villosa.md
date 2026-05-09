@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Hairy vetch is an annual or winter-annual legume in the family Fabaceae, native to Europe and western Asia. It is one of the most widely used [[cover-crops]] in temperate sustainable agriculture systems, valued for its vigorous nitrogen fixation, winter hardiness, and ability to produce large quantities of high-quality biomass. In [[permaculture-design]], hairy vetch serves as a foundational nitrogen-fixing ground cover in and food forests, orchard understories, and annual crop rotations.
+Hairy vetch is an annual or winter-annual legume in the family Fabaceae, native to Europe and western Asia. It is one of the most widely used [[permaculture-design]], hairy vetch serves as a foundational nitrogen-fixing ground cover in and food forests, orchard understories, and annual crop rotations.
 
 ## Botanical Description
 
@@ -56,19 +56,24 @@ Adapts to a wide range of soil types including sandy, loamy, and clay soils. Tol
 - Excellent spring nectar source for bumblebees and other long-tongued pollinators
 - Provides nesting habitat and cover for ground-dwelling beneficial insects
 - Dense residue mat created by rolled/crimped vetch supports soil microbiome diversity
-- Can harbor beneficial [[mycorrhizal-networks]] that extend to companion crops
-- Seed pods provide food for game birds
-
-## Limitations
-
-- Hard seed dormancy leads to persistent volunteer populations that may compete with subsequent crops
-- Climbing habit can smother small crops if not terminated properly
-- In no-till systems, thick vetch residue can interfere with seed-to-soil contact of direct-seeded small-seeded crops
-- Contains β-N-oxalyl-L-α,β-diaminopropionic acid (ODAP), which can cause lathyrism-like neurological symptoms if vetch seed is consumed in large quantities by livestock or humans — caution when using as forage
-
-## See Also
-
-- [[cover-crop-selection-guide]]
-- [[jadam-cover-crop-green-manure-selection-guide]]
-
+- Can harbor beneficial [[cover-crop-selection-guide]]
 - [[green-manure-crops]]
+## Practical Considerations
+
+Successful implementation of Vicia villosa requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -3,7 +3,7 @@ title: Goat Management
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, goats, animal-husbandry, forage]
+tags: [[permaculture, goats, animal-husbandry, forage]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -94,11 +94,7 @@ Goats contribute multiple products to the permaculture system:
 
 ## Related Topics
 
-- [[permaculture-designers-manual-animal-forage-systems]] - Forage design for all livestock
 - [[permaculture-designers-manual-animal-housing-detailed]] - Housing design for small livestock
-- [[permaculture-designers-manual-sheep-grazing]] - Sheep in permaculture systems
 - [[permaculture-designers-manual-arid-climates]] - Arid zone design principles
-- [[permaculture-designers-manual-bioregional-planning]] - Zone and sector planning
 - [[permaculture-designers-manual-tropical-climates]]
-- [[permaculture-designers-manual-water-quality]]
 - [[permaculture-designers-manual-grazing-animals]]

@@ -125,8 +125,6 @@ Ducks prefer ground-level nesting in secluded spots near the pond. Provide cover
 
 ## See Also
 
-- [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
-
 - [[permaculture-chicken-tractors]] — comparison with chicken-based systems
 - [[water-management]] — broader water system design
 - [[permaculture-animal-integration]] — multi-species integration

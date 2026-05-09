@@ -3,7 +3,7 @@ title: Chicken Coops Tractors and Breeding Guide
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [homesteading, animal-husbandry, equipment]
+tags: [[homesteading, animal-husbandry, equipment]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 # Chicken Coops Tractors and Breeding Guide
@@ -86,11 +86,7 @@ Chick dust is a powder that comes from dry chick droppings. It can get into your
 
 ## Related Concepts
 
-- [[faires-comprehensive-food-preservation-guide]]
 - [[faires-rabbit-and-small-poultry-keeping]]
-- [[faires-pigeon-quail-and-waterfowl-systems]]
 - [[faires-livestock-integration-systems]]
-- [[faires-zone-and-sector-planning]]
 - [[faires-rabbit-and-small-poultry-keeping]]
-- [[knf-livestock-chicken-house-natural-farming]]
 - [[faires-city-desert-and-cold-climate-garden-strategies]]

@@ -105,13 +105,8 @@ The rhizomes can be harvested sustainably as a **starch source** — they contai
 
 ## See Also
 
-- [[nymphaea-caerulea]]
 - [[nuciferine]]
-- [[nuphar-lutea]]
 - [[entada-rheedii]]
-- [[calea-zacatechichi]]
 - [[silene-capensis]]
-- [[tagetes-lucida]]
 - [[mucuna-pruriens]]
-- [[theobroma-cacao]]
 - [[permaculture]]

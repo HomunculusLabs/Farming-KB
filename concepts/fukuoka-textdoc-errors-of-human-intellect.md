@@ -64,8 +64,7 @@ successful creation of living cells means or the repercussions it might have.
 Scientists have even begun venturing into chromosome synthesis. Man can
 already create and alter living organisms like the Creator.
 
-This connects to Fukuoka's warnings in [[fukuoka-critique-genetic-engineering]]
-and [[fukuoka-biotechnology-computers-warning]] about the dangers of playing
+This connects to Fukuoka's warnings in [[fukuoka-biotechnology-computers-warning]] about the dangers of playing
 with forces beyond human comprehension.
 
 ## The Frog in the Well
@@ -74,31 +73,8 @@ Just as the world known to a frog in a well is not the entire world but only
 the world within that well, so the nature that man can perceive and know is
 only that nature which he has been able to grasp with his own hands and his
 own subjectivity. But of course, this is not true nature. This connects to
-[[fukuoka-snake-frog-war-and-peace-philosophy]].
-
-## Microorganisms and the Illusion of Knowledge
-
-Hundreds of millions of microorganisms crowd each gram of soil. Bacteria are
-present, but so are other bacteria that kill these bacteria, and yet other
-bacteria that kill the killer bacteria. The soil in the fields under the sun
-is not only healthy and whole, it is absolutely essential to man. A child who
-rolls in the dirt grows up healthy. An unknowing child grows up strong.
-
-The knowledge that "there are germs in the soil" is more ignorant than
-ignorance itself. The soil scientist who knows soil as mineral matter in
-flasks and test tubes, but whose research does not allow him to know the joy
-of lying on the ground under the sun, cannot be said to know anything about
-the soil. This relates to [[fukuoka-soil-microbiology]] and
-[[fukuoka-living-soil]].
-
-## Discriminating vs. Non-Discriminating Knowledge
-
-In Buddhism, knowledge that splits apart self and object and sets them up in
-opposition is called "discriminating knowledge," while knowledge that treats
-self and object as a unified whole is called "non-discriminating knowledge,"
-the highest form of wisdom. The "discriminating adult" is inferior to the
-"non-discriminating child," for the adult only plunges himself into ever-
-deepening confusion. See also [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]].
+[[fukuoka-soil-microbiology]] and
+[[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]].
 
 ## The Limits of Analytical Knowledge
 
@@ -136,14 +112,8 @@ Similarly, man is not in a position to know nature. When he says that he is
 capable of knowing nature, to "know" does not mean to grasp and understand
 the true essence of nature. It means only that man knows that nature which
 he is able to know. This is the fundamental limitation that
-[[fukuoka-textdoc-no-cause-and-effect-in-nature]] builds upon.
+[[fukuoka-textdoc-maze-relative-subjectivity]]
 
-## See Also
-
-- [[fukuoka-textdoc-maze-relative-subjectivity]]
-
-- [[fukuoka-nature-is-unknowable]]
 - [[fukuoka-fallacies-scientific-understanding]]
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
 - [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-living-soil]]

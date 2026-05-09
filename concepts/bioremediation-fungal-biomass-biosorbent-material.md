@@ -15,7 +15,7 @@ fungal cell wall components. This process offers potential for removing
 toxic metals and radionuclides from industrial effluents and
 contaminated water. Unlike metabolism-dependent bioaccumulation,
 biosorption works equally well with living, denatured, or dead biomass,
-making it a versatile and cost-effective approach for [[heavy-metal-bioremediation]] and [[fungal-bioremediation]] of wastewater.
+making it a versatile and cost-effective approach for [[fungal-bioremediation]] of wastewater.
 
 ## Definition and Distinction from Bioaccumulation
 
@@ -119,4 +119,4 @@ adoption of fungal biosorption remains limited. Current state-of-the-art
 work is research-based rather than application-based, though the
 technology shows considerable promise for wastewater treatment.
 
-See also: [[fungal-heavy-metal-biosorption-and-detoxification]], [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]], [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]], [[metal-biotransformation-fungi]].
+See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]], [[metal-biotransformation-fungi]].

@@ -116,8 +116,6 @@ Future progress in the ecology of mycoremediation requires:
 
 ## See Also
 
-- [[singh-fungal-biofilms-in-contaminated-environments]]
 - [[singh-fungal-consortia-synergistic-biodegradation]]
-- [[singh-key-fungal-genera-bioremediation]]
 - [[dighton-fungal-ecosystem-services-framework]]
 - [[biodiversity-fungi-soil-ecosystems]]

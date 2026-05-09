@@ -121,8 +121,6 @@ transformation of both parties.
 
 ## See Also
 
-- [[mckenna-eschatology-and-acceleration-of-history]]
 - [[mckenna-tryptamines-logos-consciousness]]
-- [[the-logos-and-translinguistic-matter]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
 - [[mckenna-exteriorization-soul-translinguistic-matter]]

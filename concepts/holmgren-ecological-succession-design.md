@@ -3,7 +3,7 @@ title: Ecological Succession in Permaculture Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, ecology, succession]
+tags: [[permaculture, ecology, succession]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 # Ecological Succession in Permaculture Design
@@ -91,12 +91,8 @@ At Melliodora a combination of the second and third strategies has been pursued,
 
 ## Related Concepts
 
-- [[holmgren-ecological-succession-and-pulsing]]
 - [[holmgren-trophic-pyramid-energy-hierarchy]]
-- [[holmgren-food-forests-agroforestry]]
 - [[holmgren-change-detailed]]
-- [[faires-ecological-succession-and-edge-design]]
 - [[faires-permaculture-soil-and-sheet-mulching]]
-- [[permaculture-design-principles]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[betula-pendula]]

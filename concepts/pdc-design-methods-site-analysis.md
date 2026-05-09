@@ -96,16 +96,10 @@ Common sectors include fire hazard, summer wind (about 80 degrees wide), winter 
 
 ## Related Pages
 
-- [[pdc-design-methodology]]
 - [[pdc-site-analysis-method]]
-- [[pdc-sector-analysis-guide]]
 - [[pdc-zone-analysis-guide]]
-- [[pdc-pattern-understanding-in-design]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
-- [[permaculture-principle-design-from-patterns-to-details]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[cover-crops-soil-health]]
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
 - [[mollison-zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]

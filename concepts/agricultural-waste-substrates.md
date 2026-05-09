@@ -139,8 +139,6 @@ they are inexpensive and practical wherever steam is unavailable.
 
 ## See Also
 
-- [[enriched-sawdust-cultivation]] for wood-based substrate methods
 - [[mushroom-contamination-vectors]] for contamination prevention
-- [[mushroom-casing-layers]] for post-colonization treatment
 - [[mushroom-permaculture]] for outdoor cultivation integration
 - [[mushroom-species-sequencing]] for recycling spent substrates

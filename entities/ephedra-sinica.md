@@ -128,12 +128,8 @@ Ephedra species play important ecological roles in arid and semi-arid ecosystems
 - **Mycorrhizal associations:** Forms associations with arbuscular mycorrhizal fungi that enhance nutrient uptake in nutrient-poor soils
 
 ## See Also
-- [[cathinone]]
-
 - [[williams-pdc-electricity-in-permaculture]]
-- [[query-how-do-i-make-jadam-natural-pesticide-jnp]]
 - [[homestead-scale-assessment]]
-- [[geoff-hamilton-organic-techniques]]
 - [[luther-burbank-plant-breeding-methods]]
 
 - ephedrine — primary alkaloid

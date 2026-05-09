@@ -123,11 +123,7 @@ DIPP increases the predictability of mycorrhizal effectiveness from ~53% (withou
 ## See Also
 
 - mycorrhiza — Overview of mycorrhizal symbiosis
-- [[piriformospora-indica]] — Culturable endophytic fungus used in co-culture systems
 - [[mycorrhization-helper-bacteria]] — Bacterial partners in combined inoculation
-- [[mycorrhizal-biocontrol]] — Disease protection provided by in vitro mycorrhization
 - [[auxin-production-by-symbiotic-fungi]] — Hormonal effects of fungi on micropropagated plants
-- [[ion-selective-microelectrodes-ectomycorrhizal-roots]]
 - [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
-- [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - [[piriformospora-indica-in-plant-fungal-co-culture]]

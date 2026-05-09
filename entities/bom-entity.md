@@ -37,70 +37,67 @@ In the BOX family, BOM represents the mescaline pattern (3,4,5-trimethoxy) with 
 
 ## Chemical Family and Historical Context
 
-BOM belongs to the BOX family of phenethylamines, a group characterized by the addition of an oxygen substituent at the beta-carbon position of the phenethylamine backbone. This structural modification is significant because it represents one of the few systematic explorations of aliphatic substitution in psychedelic phenethylamines, a research direction pioneered by Alexander and [[ann-shulgin]].
-
-The beta-substitution strategy was motivated by the desire to explore how modifications to the ethylamine bridge between the aromatic ring and the amino nitrogen affect psychedelic activity. Most phenethylamine SAR (structure-activity relationship) work has focused on ring substitution patterns, with the aliphatic chain receiving comparatively little attention. The BOX family represents a notable exception to this trend.
-
-The BOX family includes several compounds, not all of which proved active:
-
-- BOB (beta-methoxy-3,4,5-trimethoxyphenethylamine with bromine substitution)
-
-- BOD (beta-methoxy-2,5-dimethoxy-4-substituted variants)
-
-- BOM (this compound, with the mescaline ring pattern)
-
-- BOH (the methylenedioxy analogue)
-
-## Pharmacological Discussion
-
-The pharmacological profile of BOM is poorly characterized due to its apparent low activity. The placement of a methoxy group at the beta-position introduces both steric bulk and an additional hydrogen-bond acceptor near the amino group, which may affect receptor binding in unpredictable ways.
-
-In the active BOX compounds, the beta-methoxy group appears to modulate rather than abolish activity. The compound likely retains affinity for 5-HT2A receptors, the primary target of psychedelic phenethylamines, but at reduced levels compared to mescaline. The beta-methoxy group may also affect metabolic stability, potentially slowing N-dealkylation or oxidative deamination by MAO enzymes.
-
-The concept of the beta-oxygenated phenethylamine as a "pro-drug" is discussed in relation to BOH, where the beta-methoxy group might hydrolytically open to yield a catecholamine-like metabolite. A similar metabolic pathway for BOM could potentially generate 3,4,5-trimethoxy-phenethylamine derivatives with distinct pharmacological properties.
-
-## Comparison to Related Compounds
-
-Compared to the parent compound mescaline (active at 200-500 mg), BOM appears to be roughly equipotent or somewhat less potent based on the limited data available. The beta-methoxy substitution does not dramatically alter the dose range, suggesting it is a relatively conservative modification.
-
-Within the BOX family, BOM occupies a middle ground. Some BOX compounds show enhanced potency relative to their unsubstituted analogues, while others show reduced activity. The mescaline ring pattern (3,4,5-trimethoxy) in BOM may interact differently with the beta-methoxy group compared to the 2,5-dimethoxy-4-substituted pattern found in other BOX compounds.
-
-## Harm Reduction and Safety Considerations
-
-Because BOM has not been conclusively demonstrated to produce significant central effects even at doses up to 180 mg, harm reduction guidance is necessarily limited. The following precautions apply based on general principles for phenethylamine research compounds:
-
-- Doses above 200 mg have not been systematically explored; any experimentation at higher doses should proceed with extreme caution and incremental dose escalation
-
-- As with all phenethylamines, individuals with personal or family history of cardiovascular disease, psychosis, or seizure disorders should exercise particular caution
-
-- The compound's metabolic fate is unknown; potential interactions with MAO inhibitors or other medications cannot be ruled out
-
-- Set and setting considerations apply as with any psychedelic compound, even if the expected effects are minimal
-
-## Legal Status
-
-BOM is not specifically scheduled in most jurisdictions, as it has remained an obscure research chemical with no history of recreational use or public health concern. However, in jurisdictions with broad analogue acts (such as the US Federal Analogue Act), BOM could potentially be treated as a controlled substance analogue of mescaline, which is Schedule I in the United States. Researchers should consult local regulations before acquiring, synthesizing, or handling this compound.
-
-## Cultural and Historical Significance
-
-BOM does not have significant cultural or historical use outside of the Shulgin laboratory. It represents a footnote in the broader story of phenethylamine exploration, illustrating the systematic approach the Shulgins took to mapping structure-activity relationships. The compound's near-inactivity serves as valuable negative data in the field of medicinal chemistry, helping to define the boundaries of what structural modifications are compatible with psychedelic activity.
-
-## References and Bibliography
-
-- Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
-
-- Shulgin, A.T. (1986). "The beta-oxygenated phenethylamines." Journal of Psychoactive Drugs.
-
-- Nichols, D.E. (2004). "Hallucinogens." Pharmacology & Therapeutics, 101(2), 131-181.
-
-- Ray, T.S. (2010). "Psychedelics as dissociatives: The.piHKAL and TIHKAL compounds." Journal of Psychoactive Drugs.
-
-## Related Compounds
-
-- [[mescaline-entity]] -- the parent compound providing the 3,4,5-trimethoxy pattern
-
-- [[boh-entity]] -- the methylenedioxy analogue
+BOM belongs to the BOX family of phenethylamines, a group characterized by the addition of an oxygen substituent at the beta-carbon position of the phenethylamine backbone. This structural modification is significant because it represents one of the few systematic explorations of aliphatic substitution in psychedelic phenethylamines, a research direction pioneered by Alexander and [[mescaline-entity]] -- the parent compound providing the 3,4,5-trimethoxy pattern
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 
 - [[mescaline-derivatives-pihkal]] -- mescaline derivatives overview
+## Practical Considerations
+
+When working with BOM (beta-Methoxymescaline), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

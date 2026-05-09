@@ -81,8 +81,6 @@ Harmaline is the critical pharmacological component that enables ayahuasca to be
 
 ## See Also
 
-- [[harmine-entity-tihkal]] — the aromatic (unsaturated) analogue, less psychoactive
 - [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmaline inhibition
-- [[5-meo-dmt-entity-tihkal]] — also potentiated by harmala alkaloids
 - [[banisteriopsis-caapi]] — the ayahuasca vine containing harmala alkaloids
 - [[psychedelic-harm-reduction]] — dietary restrictions required with MAOIs

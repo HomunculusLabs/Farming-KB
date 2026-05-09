@@ -16,7 +16,7 @@ sources:
 
 # Lysergic Acid Amide
 
-**Lysergic acid amide** (LSA), also known as **D-lysergamide** or **ergine**, is a naturally occurring ergoline alkaloid and psychedelic compound. It is found in several species of morning glories ([[ipomoea-violacea]], [[turbina-corymbosa]]) and other Convolvulaceae, as well as in the fungal genus Claviceps (ergot fungi). LSA is a direct chemical precursor to LSD and shares a similar ergoline backbone, though it is significantly less potent and produces a qualitatively different experience.
+**Lysergic acid amide** (LSA), also known as **D-lysergamide** or **ergine**, is a naturally occurring ergoline alkaloid and psychedelic compound. It is found in several species of morning glories ([[turbina-corymbosa]]) and other Convolvulaceae, as well as in the fungal genus Claviceps (ergot fungi). LSA is a direct chemical precursor to LSD and shares a similar ergoline backbone, though it is significantly less potent and produces a qualitatively different experience.
 
 ## Chemical Profile
 
@@ -70,7 +70,7 @@ The use of LSA-containing seeds in Mesoamerica dates back at least to the Aztec 
 - **Tlitliltzin** (Ipomoea violacea seeds): Black-seeded morning glory used in divination and healing
 - Albert Hofmann's 1960 identification of LSA and LSH in ololiuqui seeds resolved centuries of botanical debate about the identity of the Aztec "magic seeds"
 
-The Mazatec of Oaxaca continue to use ololiuqui seeds in divinatory rituals, though this practice is less common than the use of psilocybin mushrooms ([[psilocybe-cubensis]]) or Salvia divinorum ([[salvia-divinorum]]).
+The Mazatec of Oaxaca continue to use ololiuqui seeds in divinatory rituals, though this practice is less common than the use of psilocybin mushrooms ([[salvia-divinorum]]).
 
 ## Effects
 
@@ -121,12 +121,8 @@ Modern research on LSA and related ergolines encompasses several areas:
 
 ## See Also
 
-- [[ayahuasca-and-dmt-plant-medicine]]
 - [[lysergic-acid-hydroxyethylamide]]
 
 - lsd — synthetic diethylamide derivative
-- [[ipomoea-violacea]] — morning glory, LSA source
 - [[turbina-corymbosa]] — ololiuqui, traditional LSA source
-- [[argyreia-nervosa]] — Hawaiian Baby Woodrose, highest LSA concentration
-- ergot — Claviceps fungi, fungal source of ergolines
-- [[psilocybin-compound]] — tryptamine psychedelic for comparison
+- [[psilocybin]] — tryptamine psychedelic for comparison

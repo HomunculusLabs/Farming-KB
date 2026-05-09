@@ -1,6 +1,6 @@
 ---
-title: "[[aact-brewing-ingredients-ingham]] Equipment Reliability and Machine Testing Standards"
-source: "[[elaine-ingham]] Ph.D. — The Field Guide I for [[actively-aerated-compost-tea]] (AACT)"
+title: Ingham Aact Brewing Equipment Reliability Machine Testing Standards
+source: "[[actively-aerated-compost-tea]] (AACT)"
 tags: [compost-tea-equipment, brewing-machine, testing-standards, AACT-quality, machine-reliability, compost-tea-brewing, soil-foodweb]
 created: 2026-05-08
 ---
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Not all [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] brewers produce equal results. Dr. [[elaine-ingham]] emphasizes that the reliability and consistency of [[compost-tea-brewing]] equipment is critical for achieving predictable [[ingham-aact-disease-suppression]] [[composting-and-soil-biology]] s-effects-soil-biology]] benefits. Her framework for evaluating tea machines focuses on reproducibility, extraction efficiency, and the ability to maintain the full soil food web — bacteria, fungi, protozoa, [[teaming-with-microbes-protozoa-and-nematodes]] — through the brewing process.
+Not all  brewers produce equal results. Dr.  emphasizes that the reliability and consistency of  equipment is critical for achieving predictable   s-effects-soil-biology benefits. Her framework for evaluating tea machines focuses on reproducibility, extraction efficiency, and the ability to maintain the full soil food web — bacteria, fungi, protozoa,  — through the brewing process.
 
 ## The Core Problem: Testimonials Are Not Evidence
 
@@ -17,7 +17,7 @@ Ingham is blunt about the inadequacy of current machine evaluation:
 
 - "A few testimonials are not adequate to be able to say a machine makes good tea."
 - Many manufacturers claim their machines produce effective compost tea based on anecdotal reports from users.
-- Testimonials cannot distinguish between the effects of the tea and other variables (weather, [[lowenfels-aerobic-anaerobic-soil-conditions]], crop variety, application timing).
+- Testimonials cannot distinguish between the effects of the tea and other variables (weather, , crop variety, application timing).
 - Without controlled testing, there is no way to know whether a machine is extracting beneficial organisms or merely producing nutrient-rich water.
 
 ## What Every Machine Manufacturer Should Be Able to Answer
@@ -57,7 +57,7 @@ Under these identical conditions, run the brew multiple times (minimum 3-4 repet
 Different machines have different extraction capabilities:
 
 - **Bacterial extraction**: Most machines can extract bacteria from compost. This is the minimum requirement.
-- **Fungal extraction**: Many machines fail to extract [[fungal-hyphae]] intact. Shearing forces in pumps and impellers can fragment fungal networks.
+- **Fungal extraction**: Many machines fail to extract  intact. Shearing forces in pumps and impellers can fragment fungal networks.
 - **Protozoa extraction**: Protozoa are delicate and may be killed by turbulence or aeration patterns.
 - **Nematode extraction**: Very few machines successfully extract nematodes. These require gentle extraction conditions.
 
@@ -121,3 +121,7 @@ Ingham distinguishes between simple extracts and true actively aerated compost t
 
 - Ingham, E.R. (2004). *The Field Guide I for Actively Aerated Compost Tea (AACT)*. Sustainable Studies Institute.
 - Soil Foodweb Inc. machine testing protocols and AACT standards documentation.
+
+## See Also
+- [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]
+- [[aact-compost-organism-levels]]

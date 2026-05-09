@@ -16,8 +16,7 @@ Presporulating mycelium of entomopathogenic fungi represents a breakthrough
 discovery in biological pest control. Unlike conventional approaches that use
 fungal spores, this technique employs the vegetative mycelial stage of
 insect-parasitizing fungi before they produce spores. The key insight, discovered
-by [[paul-stamets]], is that the presporulating mycelium of fungi like
-metarhizium anisopliae and [[beauveria-bassiana]] actually attracts target
+by [[beauveria-bassiana]] actually attracts target
 insects rather than repelling them, creating a self-dispersing biopesticide
 system.
 
@@ -140,11 +139,8 @@ United States, with biopesticides comprising about 5% ($450 million) and
 growing at 15% annually. Termite damage to buildings exceeds $10 billion per
 year in the United States alone. The presporulating mycelium approach represents
 a significant opportunity within the expanding biopesticide market.
-
 ## See Also
 
-- [[mycopesticides-entomopathogenic-fungi]]
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
-- [[cordyceps-and-entomopathogenic-fungi]]
 - [[mycelium-running-pest-control-with-fungi]]
 - [[mycelium-running-pest-control-with-fungi]]

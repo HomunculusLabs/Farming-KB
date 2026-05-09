@@ -42,28 +42,51 @@ Limonene-dominant cultivars are typically classified as sativa-leaning in tradit
 
 ### Anxiolytic and Antidepressant Effects
 
-Limonene has demonstrated significant anxiolytic and antidepressant effects in preclinical studies through [[serotonin]] and dopamine modulation, GABAergic activity, and HPA axis regulation reducing stress-related cortisol elevation.
+Limonene has demonstrated significant anxiolytic and antidepressant effects in preclinical studies through [[oner-cannabis-terpene-profiles-effects]], [[cannabis-anti-inflammatory-applications]]
 
-### Anti-inflammatory Activity
+## Industrial Applications
 
-Limonene exhibits potent anti-inflammatory effects through COX-2 inhibition, NF-κB pathway suppression, cytokine modulation (reducing TNF-α, IL-1β, IL-6), and inhibition of inducible nitric oxide synthase (iNOS).
+Beyond its pharmacological properties, limonene has extensive industrial
+applications. It is widely used as a solvent in cleaning products, as a
+fragrance ingredient in perfumes and personal care products, and as a
+flavoring agent in foods and beverages. D-limonene from citrus peel is
+used in eco-friendly cleaning solutions as a replacement for petroleum-based
+solvents. The compound is also employed in paint strippers, adhesives
+removers, and degreasing agents.
 
-### Gastroprotective Effects
+In the cannabis industry, isolated limonene is used in terpene formulation
+blends designed to replicate specific cultivar profiles. These formulations
+are added to vape cartridges, tinctures, and topicals to enhance aroma and
+potentially contribute to the entourage effect. The availability of
+food-grade limonene from citrus sources makes it one of the most accessible
+terpenes for commercial formulation.
 
-Limonene's gastroprotective activity is among its most clinically established properties. It has been investigated as a treatment for gastroesophageal reflux disease (GERD), protects the gastric mucosa from damage, and has demonstrated antiulcer effects in animal models.
+## Metabolism and Pharmacokinetics
 
-### Anticancer Properties
+Limonene is rapidly absorbed after oral administration and distributed
+throughout the body, with a particular affinity for fatty tissues due to its
+high lipophilicity. Metabolism occurs primarily in the liver via cytochrome
+P450 enzymes, producing carveol, perillyl alcohol, limonene-1,2-diol, and
+carvone as major metabolites. These metabolites may themselves possess
+biological activity — perillyl alcohol, for example, has been studied
+independently for anticancer properties.
 
-D-limonene has been extensively studied for its anticancer properties with promising results. It prevents the initiation and promotion of carcinogenesis in multiple animal models, inhibits cancer cell growth through cell cycle arrest and apoptosis, enhances the efficacy of conventional chemotherapeutic agents, and has shown partial regression of breast cancer tumors in clinical studies. Mechanisms include inhibition of protein prenylation (particularly Ras protein farnesylation), induction of detoxification enzymes, modulation of apoptosis-regulatory proteins, and anti-angiogenic effects.
+Elimination occurs through both renal and pulmonary routes, with exhaled
+limonene contributing to the characteristic citrus aroma on the breath after
+consumption of citrus fruits or limonene-containing products. The compound's
+pharmacokinetic profile supports its use in both oral and topical
+applications, with good bioavailability through multiple routes of
+administration.
 
-### Immunomodulatory Effects
+## Interactions and Contraindications
 
-Limonene modulates immune function through enhancement of phagocytic activity, modulation of lymphocyte proliferation, and regulation of cytokine production.
+Limonene may interact with cytochrome P450 enzymes, potentially affecting the
+metabolism of co-administered pharmaceuticals. Its inhibition of certain CYP
+isoforms could increase plasma levels of drugs metabolized by the same
+pathway. Individuals with citrus allergy should exercise caution, though
+true limonene allergy is rare. When combined with cannabis cannabinoids,
+limonene's permeability-enhancing properties may increase transdermal
+absorption of other topical compounds.
 
-## Safety and Therapeutic Dosing
-
-Limonene is classified as GRAS by the FDA and is widely used as a flavoring agent and fragrance ingredient. Oral doses used in clinical studies have ranged from 0.5 to 15 grams per day, with minimal adverse effects. Common side effects at higher doses include mild gastrointestinal discomfort and heartburn.
-
-Limonene is metabolized primarily in the liver through oxidation by cytochrome P450 enzymes to carveol, perillyl alcohol, and limonene-1,2-diol, which may themselves possess biological activity.
-
-Related: [[oner-cannabis-terpene-profiles-effects]], [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]], [[cannabis-anti-inflammatory-applications]]
+Related: [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]],
+[[cannabis-anti-inflammatory-applications]]

@@ -23,69 +23,11 @@ strategies, and the most resilient gardens employ both simultaneously: reducing
 demand while maximizing available supply.
 
 ## Drought Gardening
-[[drought-gardening]]
-
-Drought gardening is based on the principle that our ancestors grew
-vegetables without piped water for millennia, and that in most temperate
-climates, vegetables can be grown with minimal irrigation if plants are given
-enough space to access soil moisture reserves. The core technique is extremely
-wide spacing, allowing each plant to access a much larger volume of soil
-moisture and develop deeper, more extensive root systems that reach water at
-depth. Traditional Native American corn gardening used four-foot centers with
-one seed per hill, demonstrating that wide spacing has deep historical precedent
-across cultures.
-
-The science behind drought gardening involves understanding soil moisture
-thresholds. Solomon defines field capacity as the maximum water soil can hold
-after drainage, and the permanent wilting point as the level where plants can no
-longer extract moisture. The ideal growing zone is above 70 percent of field
-capacity in the top foot of soil, and 60 percent is the trigger for irrigation.
-When irrigation is needed, the approach is to water infrequently but deeply,
-restoring moisture to field capacity every two to five days depending on soil
-type. This encourages deep root growth and reduces the frequency of watering
-sessions while maintaining optimal growth conditions.
-
-The benefits extend beyond water conservation. Widely spaced plants develop
-stronger stems from wind exposure, better airflow through the reduced canopy
-reduces fungal disease pressure like powdery mildew and botrytis, and the open
-spacing allows easier weeding and harvesting. The approach works best on deep,
-well-structured loam or clay-loam soils that can hold moisture at depth.
-Limitations include lower total yield per unit area compared to intensive
-spacing, the need for more total garden area to produce the same quantity of
-food, and reduced effectiveness on shallow or sandy soils where deep moisture
-reserves are limited. See [[drought-tolerant-planting-design]] for plant
+[[drought-tolerant-planting-design]] for plant
 selection strategies.
 
 ## Rainwater Harvesting
-[[rainwater-harvesting-systems]]
-
-Rainwater harvesting captures precipitation from catchment surfaces,
-typically roofs, and stores it for later use. A well-designed system includes a
-catchment surface, gutters and downspouts, a first flush diverter to remove
-debris and contamination from the initial rainfall, storage tanks or cisterns,
-and a distribution system for irrigation. The yield calculation is
-straightforward: roof area in square feet times rainfall in inches times 0.623
-equals gallons captured. A 1,000 square foot roof captures 623 gallons per inch
-of rain, providing substantial water for garden irrigation.
-
-Systems range from simple rain barrels under downspouts to large underground
-cisterns holding thousands of gallons. Metal roofing is the ideal catchment
-surface because it is smooth, non-toxic, and long-lasting. Storage options
-include above-ground poly tanks, ferro-cement cisterns, and in-ground
-reservoirs. Filtration ranges from basic screens to multi-stage systems with
-sediment filters and UV treatment for potable use. The first flush diverter,
-which discards the initial contaminated wash from the roof (approximately 1
-gallon per 100 square feet of roof), is essential for water quality and
-preventing debris from entering storage.
-
-Rainwater harvesting provides a reliable, independent water supply that is
-free of chlorine and other municipal treatment chemicals, making it superior for
-irrigation and particularly valuable for biological farming inputs like compost
-tea brewing where chlorine would kill beneficial microorganisms. The harvested
-water is naturally soft and slightly acidic, ideal for most garden plants. The
-main limitations are the initial cost of tanks and plumbing, space requirements
-for storage, and dependence on actual rainfall. During extended droughts,
-storage can be depleted faster than it is replenished. See [[permaculture-designers-manual-greywater-systems]]
+[[graywater-systems]]
 for complementary wastewater reuse strategies.
 
 ## Key Differences
@@ -122,29 +64,25 @@ demands regardless of whether supplemental water is available, making any
 rainwater harvesting system last longer between rain events. In Mediterranean
 climates with dry summers, drought gardening principles combined with mulching
 can eliminate the need for irrigation entirely for many crops. See
-[[drought-gardening-strategies]] for detailed implementation.
-
-## When to Choose Rainwater Harvesting
-Rainwater harvesting is essential when a reliable water supply is needed for
-intensive vegetable production, greenhouse irrigation, seedling propagation, or
-compost tea brewing. It suits homesteads and farms with roof area available for
-catchment and space for storage tanks. The harvested water is particularly
-valuable for biological farming inputs where chlorine-free water is critical,
-including compost tea, KNF solutions, and EM preparations. Rainwater systems
-also provide emergency water backup and reduce dependence on municipal supplies
-or well pumping costs. Properties with large roof areas relative to garden size
-can often capture enough rainwater for all irrigation needs. See
 [[rainwater-harvesting-systems]] for complete system design guidance.
-[[swale-design-construction]] can capture and infiltrate rain directly into
-garden soil, reducing the need for stored water and complementing the
-demand-reduction approach. On a homestead scale, rainwater supplies critical
-irrigation for seedlings, transplants, and high-value crops while
-drought-tolerant established crops in widely spaced beds rely primarily on soil
-moisture reserves. This layered approach provides redundancy: if the rainwater
-runs out, the drought-adapted plants survive on soil moisture alone.
-
-## See Also
-
-- [[comparison-xeriscaping-vs-drought-gardening]]
-- [[rainwater-harvesting-systems]]
+[[comparison-xeriscaping-vs-drought-gardening]]
 - [[swale-design]]
+## Practical Considerations
+
+Successful implementation of Drought Gardening vs Rainwater Harvesting requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

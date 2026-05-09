@@ -140,9 +140,6 @@ Modern herbalists recommend sorrel as a spring tonic and
 digestive aid.
 
 ## See Also
-- [[urtica-dioica]]
 - [[taraxacum-officinale]]
-- [[plantago-major]]
-- Allium sativum
 - [[borago-officinalis]]
 - [[rumex-obtusifolius-entity]]

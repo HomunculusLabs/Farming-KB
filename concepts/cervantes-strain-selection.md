@@ -14,10 +14,7 @@ sources:
 
 ## Taxonomic Classification
 
-Technically and legally, all cannabis is classified as [[cannabis-sativa]]. However, four subspecies are recognized:
-
-- Cannabis sativa (= C. sativa var. sativa)
-- [[cannabis-indica]] (= C. sativa var. indica)
+Technically and legally, all cannabis is classified as [[cannabis-indica]] (= C. sativa var. indica)
 - Cannabis ruderalis (= C. sativa var. spondanea)
 - Cannabis afghanica (= C. sativa var. afghanica)
 
@@ -101,6 +98,5 @@ A seed contains all genetic characteristics from both parents. Genes dictate:
 Strong, healthy parents and proper care yield strong seeds. The genetic makeup of a seed is the single most important factor in how well a plant will grow and the cannabinoid levels it will produce.
 
 ## Related Topics
-- [[cervantes-seed-germination]] — Germination and seedling care
 - [[cervantes-cloning]] — Cloning for preserving genetics
 - [[cervantes-flowering-phase]] — Flowering differences by strain

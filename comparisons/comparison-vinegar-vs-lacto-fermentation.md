@@ -23,34 +23,6 @@ Both methods preserve food through acidification but differ dramatically
 in probiotic content, flavor profile, and nutritional impact.
 
 ## Vinegar Making
-[[vinegar-making]]
-Vinegar production is a two-stage fermentation process. First, yeast
-converts sugars into ethanol (alcohol), producing a wine, beer, or cider
-base. Then acetic acid bacteria (Acetobacter species) convert the ethanol
-into acetic acid, creating vinegar. This can happen through a slow
-traditional process using a vinegar mother (a cellulose mat of bacteria)
-exposed to air, or through a faster industrial submerged fermentation.
-Homemade vinegar can be made from fruit scraps, wine, beer, cider, or any
-sugar-containing liquid, making it an accessible fermentation project.
-
-Vinegar is primarily a condiment and preservative, not a probiotic food.
-The acetic acid concentration in finished vinegar (typically 5 percent or
-higher) is too hostile for most beneficial bacteria to survive. However,
-vinegar excels as a versatile household product: it is used in cooking as
-a flavor enhancer, in pickling as a preservative acid, in cleaning as a
-natural disinfectant, and in gardening as a herbicide and pH adjuster.
-Different base materials produce distinct vinegars, from apple cider
-vinegar to balsamic, rice wine vinegar, and fruit scrap vinegars.
-
-The vinegar-making process is relatively forgiving and requires minimal
-equipment. A container, a vinegar mother or source of wild acetic acid
-bacteria, and a sugar source are essentially all that is needed. The
-primary challenges are maintaining proper aeration (acetic acid bacteria
-need oxygen), preventing contamination by vinegar flies and mold, and
-waiting through the relatively slow conversion process that can take weeks
-to months depending on the method and conditions used.
-
-## Lacto Fermentation
 [[lacto-fermentation-and-food-preservation-methods]]
 Lacto fermentation uses lactic acid bacteria (primarily Lactobacillus
 species) that are naturally present on vegetables to convert sugars into
@@ -126,9 +98,6 @@ source from the same fermentation workspace.
 
 ## See Also
 
-- [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-fermentation-vs-canning]]
-- [[comparison-fermented-vegetables-vs-canning]]
 - [[comparison-kombucha-vs-kefir]]
-- [[comparison-lacto-fermentation-vs-canning]]
 - [[comparison-tempeh-vs-miso]]

@@ -136,12 +136,8 @@ biogeography of neurotropic fungi.
 
 ## See Also
 
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- [[psilocybe-cubensis-potency-variation-by-flush]]
 - [[psilocybe-cubensis-distribution-and-ecology]]
-- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-
 - [[psilocybe-zapotecorum]]
 - [[copelandia-cyanescens]]
 - Neurotropic Fungi Diversity and Vegetation Types

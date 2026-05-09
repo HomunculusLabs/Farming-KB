@@ -131,17 +131,10 @@ After substrate treatment, spawn is broadcast onto straw. Mixing is strongly adv
 
 ## See Also
 
-- [[growing-gourmet-substrate-supplementation]]
-
 - [[growing-gourmet-substrate-materials-wood-types]]
 
-- [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-contamination-prevention]]
-- [[bulk-substrate-preparation]]
-- growing gourmet substrate preparation
 - [[mushroom-substrate-recipes]]
-- [[mushroom-substrate-supplementation]]
 - [[mushroom-substrates]]
-- [[substrate-ph-management]]
 - [[pasteurization-vs-sterilization]]
 - [[growing-gourmet-fruiting-parameters]]

@@ -107,12 +107,8 @@ Hedychione, a diarylheptanoid compound, has been reported from the rhizome tissu
 
 ## See Also
 
-- [[hedychium-coronarium]]
 - [[zingiber-officinale]]
-- [[curcuma-longa]]
 - [[alpinia-galanga]]
-- [[lantana-camara]]
 - [[pueraria-montana]]
-- [[arundo-donax]]
 - [[acacia-mearnsii]]
 - [[salvinia-molesta]]

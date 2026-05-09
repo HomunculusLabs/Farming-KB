@@ -75,15 +75,6 @@ the Mazatec, Chinantec, Chatino, Mixe, Zapotec, and Mixtec of Oaxaca,
 the Nahua and possibly the Otomi of Puebla, and the Tarascans of
 Michoacan. Mushrooms vary in abundance from year to year, and each
 shaman has favorite species; Maria Sabina, for example, will not use
-[[psilocybe-cubensis]].
-
-## Key Species
-
-Psilocybe mexicana (Teonanacatl) is one of the most widely used sacred
-species. It grows at altitudes of 4,500-5,500 feet in limestone
-regions, and is one of the smallest of the hallucinogenic species.
-Psilocybe cubensis (San Isidro), known in Oaxaca as Hongo de San
-Isidro, is a larger mushroom valued as an important hallucinogen.
 [[psilocybe-semilanceata]] (Liberty Cap) is the most common and widespread
 in the genus, found in fields across Europe, and contains high
 concentrations of psilocybine (up to 1.34%).
@@ -93,18 +84,12 @@ concentrations of psilocybine (up to 1.34%).
 Chemical studies have indicated that psilocybine and, to a lesser
 extent, psilocine are present in many of the species associated with
 the Mexican ceremony. These compounds have been isolated from many
-Psilocybe species worldwide. In 1958, [[albert-hofmann]] identified and
+Psilocybe species worldwide. In 1958, gordon-wasson identified and
 synthesized psilocybine and psilocine, the active principles of these
 sacred mushrooms. The discovery connected the chemistry of the Mexican
 sacred mushrooms to the broader family of tryptamine alkaloids.
 
-[[psilocybe-cyanescens]] (Wavy Cap) is a relatively easy species to
-identify by its wavy brown cap. It does not grow on dung but on
-decaying plants and humus-rich earth. Although no traditional shamanic
-use has been documented, P. cyanescens is one of the most potent
-Psilocybe species, with visionary doses as low as one gram of dried
-material, containing approximately one percent tryptamine alkaloids.
-The species [[psilocybe-azurescens]], discovered in Oregon, contains the
+[[psilocybe-azurescens]], discovered in Oregon, contains the
 highest concentration of psilocybine of any known mushroom.
 
 ## Archaeological Evidence
@@ -121,8 +106,6 @@ mushroom caps and morning glory tendrils.
 
 ## See Also
 
-- [[schultes-peyote-tracks-little-deer]] for the other major Mexican
-  sacred hallucinogen used alongside mushrooms
 - [[schultes-ololiuqui-vines-serpent]] for Ololiuqui seeds used in
   similar Mazatec divinatory contexts
 - [[schultes-salvia-diviners-sage]] for another Mazatec psychoactive

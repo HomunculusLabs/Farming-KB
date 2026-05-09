@@ -132,8 +132,6 @@ on the bag to ensure trace elements were added.
 
 ## Related Topics
 
-- [[cervantes-micronutrient-deficiency-chelation]]
 - [[cervantes-nutrient-management]]
-- [[cervantes-macronutrient-deficiency-toxicity]]
 - [[cervantes-secondary-nutrient-deficiency]]
 - [[cervantes-troubleshooting-guide]]

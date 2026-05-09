@@ -134,8 +134,7 @@ In temperate climates, may be grown as an annual ornamental but will not reach f
 - **Seed harvest:** Sustainable seed collection for traditional medicine or personal use.
 - **Nitrogen fixation:** Potential nitrogen input in tropical agroforestry systems.
 - **Coastal restoration:** Useful in stabilizing coastal dunes and forest margins.
-- **Companions:** Grows well with [[moringa-oleifera]], [[banisteriopsis-caapi]], and other tropical vines and trees.
-
+- **Companions:** Grows well with [[banisteriopsis-caapi]], and other tropical vines and trees.
 ## Related Species
 
 - **Entada phaseoloides** (matchbox bean): Asian-Pacific species with similar large seeds; used medicinally in the Philippines and Papua New Guinea.
@@ -144,7 +143,5 @@ In temperate climates, may be grown as an annual ornamental but will not reach f
 
 ## See Also
 
-- [[mimosa-tenuiflora]] — Another Fabaceae species with traditional dream and healing use
 - [[silene-capensis]] — South African dream herb (Xhosa ubulawu)
-- [[calea-zacatechichi]] — Mexican dream herb (oneirogen comparison)
 - [[dimethyltryptamine]] — Primary psychedelic tryptamine found in related species

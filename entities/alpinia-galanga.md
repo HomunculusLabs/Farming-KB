@@ -140,8 +140,6 @@ A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequentl
 
 ## See Also
 
-- [[zingiber-officinale]] — Common ginger, the most widely known member of Zingiberaceae
 - [[curcuma-longa]] — Turmeric, companion spice in Southeast Asian cooking
-- [[cinnamomum-verum]] — Ceylon cinnamon, frequently used alongside galangal in regional cuisine
 - [[kaempferia-galanga]] — Lesser galangal (kencur), a related but distinct Zingiberaceae species
 - [[eugenia-bone]] — Clove, sharing eugenol-related chemistry and anti-inflammatory properties

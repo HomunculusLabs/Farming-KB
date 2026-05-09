@@ -4,9 +4,10 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# Growing Tree Fruit [[growing-soft-fruit-organically]] [[pruning-fruit-trees-and-bushes]] Organically
+# Growing Tree Fruit [[pruning-fruit-trees-and-bushes]] Organically
 
 Rootstocks limit tree size; fans and espaliers are suitable for walls; and even tubs work for patios. Choosing the right rootstock, form, and variety is essential for organic success.
 
@@ -92,12 +93,7 @@ Large, slow-growing trees. Self-pollinating.
 
 ## Related
 
-- [[comparison-berry-growing-vs-fruit-tree-pruning]]
-
 - [[organic-fruit-tree-care-calendar]]
-- [[hamilton-organic-pest-control]] for pest management
-- [[urban-permaculture-and-guerrilla-gardening]]
-- [[composting-systems]] for mulch and soil preparation
+- [[urban-guerrilla-gardening]]
 - [[growing-soft-fruit-organically]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[fukuoka-natural-fruit-tree-pest-control]]

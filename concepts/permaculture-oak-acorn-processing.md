@@ -3,7 +3,7 @@ title: Oak and Acorn Processing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -47,15 +47,7 @@ Oaks can be grown from acorns planted in the fall, either directly in the ground
 
 ## Companion Planting
 
-In [[permaculture-food-forest-design-principles]], oaks serve as the dominant canopy species, creating a multi-layered ecosystem beneath them. Their deep roots and leaf litter support diverse fungal networks, benefiting understory fruit trees, shrubs, and groundcovers. Shade-tolerant companion plants include currants, gooseberries, elderberry, and woodland herbs like ramps and nettles. Oaks also support [[permaculture-beekeeping]] by providing late-season pollen from their catkins. In [[permaculture-tree-crop-systems]], oaks are considered foundational elements that define the structure and microclimate of the entire system.
-
-## Culinary Uses
-
-Acorn flour has a rich, nutty flavor similar to chestnut flour. It can be used in breads, pancakes, porridges, and thickening agents for soups and stews. Acorn-flour breads are a traditional food among Native American tribes of California, where several oak species produce acorns low enough in tannins to process efficiently. Roasted acorns can be used as a coffee substitute. In Korean cuisine, acorn jelly (dotorimuk) is a traditional dish. The flour can substitute for up to half of wheat flour in most baking recipes.
-
-## Permaculture Design Role
-
-Oaks are keystone species in temperate [[permaculture-design-principles]], supporting more life forms than almost any other tree genus. They function as [[permaculture-wildlife-corridors]] dynamic accumulators, drawing minerals from deep soil layers. Their dropping leaves create rich leaf mold that builds soil organic matter. In [[permaculture-fruit-tree-guide]] design, oaks provide wind protection and create microclimates for more sensitive understory species. Their long lifespan means they serve as permanent infrastructure in food forest systems, persisting for centuries.
+In [[permaculture-beekeeping]] by providing late-season pollen from their catkins. In [[permaculture-farm-design-principles]], supporting more life forms than almost any other tree genus. They function as [[permaculture-fruit-tree-guide]] design, oaks provide wind protection and create microclimates for more sensitive understory species. Their long lifespan means they serve as permanent infrastructure in food forest systems, persisting for centuries.
 
 ## Pests and Diseases
 
@@ -81,11 +73,7 @@ Acorn weevils are the most common pest, laying eggs inside developing acorns. In
 
 ## See Also
 
-- [[permaculture-food-forest-design-principles]]
-
 - [[permaculture-multipurpose-trees]]
-
-- [[permaculture-tree-crop-systems]]
 
 - [[organic-pest-and-disease-management]]
 

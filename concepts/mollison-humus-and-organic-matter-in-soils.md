@@ -118,11 +118,7 @@ and green manures produced on site.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-mulching-and-soil-health]] for detailed mulching
-  techniques and materials.
 - [[mollison-composting-methods]] for compost production methods.
-- [[mollison-soil-improvement-and-rehabilitation]] for comprehensive soil
-  building strategies.
 - [[mollison-green-manure-soil-fertility]] for green manure crops.
 - [[permaculture-soil-biota-and-earthworms]] for soil life management.
 

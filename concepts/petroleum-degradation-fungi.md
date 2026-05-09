@@ -130,8 +130,6 @@ improve overall effectiveness for heavily contaminated sites.
 
 ## See Also
 
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[mycoremediation-oil-spills]]
-- [[mycoremediation-pahs]]
 - [[mycoremediation-pcbs-and-dioxins]]
 - [[petroleum-hydrocarbon-bioremediation]]

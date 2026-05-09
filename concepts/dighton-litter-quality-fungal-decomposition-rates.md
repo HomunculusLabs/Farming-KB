@@ -126,8 +126,6 @@ greater enzymatic diversity and competence for effective decomposition.
 
 ## See Also
 
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
-- [[dighton-fungal-decomposition-nutrient-cycling]]
 - [[dighton-pine-needle-litter-decomposition-fungal-succession]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

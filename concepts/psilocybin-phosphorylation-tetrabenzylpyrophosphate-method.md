@@ -13,11 +13,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin-compound]] Phosphorylation via Tetrabenzylpyrophosphate
-
-## Overview
-
-The phosphorylation of [[psilocin]] to produce psilocybin (4-phosphoryloxy-
+# [[psilocin]] to produce psilocybin (4-phosphoryloxy-
 N,N-dimethyltryptamine) is the most challenging step in the synthesis of
 this controlled compound. Shirota, Hakamata, and Goda (2003) evaluated
 several phosphorylation methods before selecting the pyrophosphate method
@@ -140,10 +136,7 @@ phosphoryl iodide method, but their procedure required anion-exchange
 resin purification. The Shirota route achieves greater than 72% isolated
 yield of psilocybin from psilocin on gram scale without any
 chromatographic purification, representing a significant practical
-improvement.
-
-## Related Topics
+## Related
 
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
-- [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]

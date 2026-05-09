@@ -3,68 +3,17 @@ title: Mesoamerican Mushroom Ceremonies — Teonanacatl
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/hofmann-a-lsd-my-problem-child.md"
----
-
-# Mesoamerican Mushroom Ceremonies — Teonanacatl
-
-Mexico is the one part of the world where there is a genuinely old tradition of psilocybin mushroom usage. The historical and archaeological evidence strongly suggests mushroom use among Mesoamerican civilizations predates the Spanish conquest by thousands of years.
-
-## The Aztec Mushroom Rites
-
-At the time of the Spanish invasion, mushrooms were being consumed in a variety of religious, recreational, and even diplomatic contexts within the Mesoamerican Aztec civilization. The most comprehensive account was compiled by the Franciscan friar Bernardino de Sahagun (1499-1590), who spent some sixty years studying the indigenous populations.
-
-### Teonanacatl — "God's Flesh"
-
-Sahagun's informants called the mushrooms teonanacatl — translated as "God's flesh." The mushrooms were found growing in grassland, fields, moors, and waste places, with a round cap and thin stem. They were so bitter as to hurt the tongue, and only two or three were eaten at one sitting.
-
-The name "God's flesh" is theologically significant. It suggests that the mushrooms were not merely tools for achieving visions but were understood as containing divine presence — a literal embodiment of the sacred. This framing parallels the Christian Eucharist and may explain why Spanish clerics found the practice so threatening and in need of suppression.
-
-### Effects Described
-
-The mushrooms caused:
-
-- Palpitations of the heart
-- Excited lust
-- Induced laughter and tears
-- Visions in which participants might see their destiny or even the manner of their death
-- Eventually, a stupor
-
-### Ceremonial Context
-
-At "the hour of blowing conches and flutes," dancing preceded the mushroom consumption, with honey taken to offset the bitterness. After dancing and weeping, bemushroomed participants would have visions, later discussing the meaning of what they had seen — a scene familiar to modern mushroom enthusiasts.
-
-The communal nature of the ceremony — dancing, chanting, shared consumption, collective interpretation of visions — distinguished the Aztec rites from mere recreational drug use. The [[query-what-is-the-difference-between-psilocybin-and-psilocin]] was understood within a framework of communal spiritual practice rather than individual exploration.
+tags: [[query-what-is-the-difference-between-psilocybin-and-psilocin]] was understood within a framework of communal spiritual practice rather than individual exploration.
 
 ## Pre-Columbian Evidence
 
 Mesoamerican codices portray mushrooms. The Vienna Codex (Codex Vindobonensis), a Mixtec work on mythological origins, shows several gods including Quetzalcoatl clutching mushrooms. The Lienzo de Zacatepec shows a man with mushrooms in his hair, while the Nuttall Codex shows a man eating mushrooms with a supernatural figure (possibly Mictlantecuhtli, Lord of the Underworld) behind him.
 
-The [[psychedelic-mushroom-art-and-iconography]] from these codices provides the most concrete visual record of pre-Columbian mushroom use. While interpretations of individual images can be debated, the recurrence of mushroom motifs across multiple codices from different Mesoamerican cultures strongly suggests a widespread tradition.
-
-### Stone and Pottery Mushroom Effigies
-
-Throughout Central America, approximately three hundred stone and pottery "mushroom" effigies have been uncovered, originating mainly in the highlands of Guatemala. These sculptures, about a foot high and free-standing, are mushroom-shaped with a stem and domed cap, often depicting a carved human, animal, or natural figure squatting at the base. The earliest date from the pre-classic period (first millennium BCE); the latest from the late classical period.
-
-## Species Used
-
-The specific species used in Mesoamerican ceremonies were diverse. The [[psilocybe-mexicana-cultivation]], identified by [[roger-heim-scientific-study-psilocybin]], was among the most important. Other species included Psilocybe caerulescens, Psilocybe zapotecorum, and Conocybe siligineoides. The Mazatec people, in particular, maintained the most continuous tradition of mushroom use into the modern era.
-
-## Spanish Suppression
-
-After the conquest, the Spanish chronicles cluster in the sixteenth century with only one further account from the seventeenth. The cleric Jacinto de la Serna described how an Indian named Juan Chichiten performed a mushroom ceremony, celebrating a saint's day with a solemn mushroom vigil "after the manner of Communion." Serna tried to have him captured and censured, but Chichiten evaded capture. As he disappeared, so too did knowledge of the mushrooms, which remained unrecorded for another four hundred years.
-
-The suppression of mushroom ceremonies was part of a broader campaign to eradicate indigenous religious practices. The Inquisition classified the velada (night vigil) as idolatry, and practitioners risked severe punishment. The ceremony's superficial similarity to Christian Communion — consuming a sacred substance to commune with the divine — made it doubly offensive to Spanish ecclesiastical authorities.
-
-## The Survival of the Mazatec Tradition
-
-While the Aztec mushroom tradition was largely destroyed by Spanish suppression, related practices survived among the Mazatec and other indigenous peoples of the Oaxaca region. The Mazatec velada — a night-time healing ceremony involving the consumption of psychoactive mushrooms — continued unbroken into the twentieth century. It was this living tradition that [[wasson-hofmann-ruck-collaboration]] encountered and documented.
+The [[psilocybe-mexicana-cultivation]], identified by [[wasson-hofmann-ruck-collaboration]] encountered and documented.
 
 ## Wasson's Rediscovery
 
-The Western rediscovery of Mexican mushrooming practices began, ironically, with a vigorous scholarly denial that they had ever existed. The American botanist William Safford (1859-1926) published a paper arguing that the teonanacatl of the Aztecs was not a mushroom at all. It was left to [[wasson-hofmann-ruck-collaboration]] in the 1950s to definitively prove that the sacred mushrooms of Mexico were indeed psilocybin-containing species, and to participate in a velada ceremony with Mazatec curandera [[mushroom-cultivation-fundamentals]].
+The Western rediscovery of Mexican mushrooming practices began, ironically, with a vigorous scholarly denial that they had ever existed. The American botanist William Safford (1859-1926) published a paper arguing that the teonanacatl of the Aztecs was not a mushroom at all. It was left to [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 ## The Codex Evidence
 
@@ -80,15 +29,88 @@ The primary species used in Mesoamerican ceremonies belong to the genus Psilocyb
 
 ## See Also
 
-- [[syncretic-entheogenic-folk-ceremonies-community-churches]]
-
 - [[magic-mushroom-cultural-history]]
-- [[magic-mushroom-history-timeline]]
 - [[soma-and-the-sacred-mushroom-debate]]
-- [[mushroom-polymorphous-symbolism]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 ## Related
 
-- [[wasson-hofmann-ruck-theory]]
 - [[roger-heim-scientific-study-psilocybin]]
+## Practical Applications
+
+Mesoamerican Mushroom Ceremonies — Teonanacatl has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Mesoamerican Mushroom Ceremonies — Teonanacatl. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

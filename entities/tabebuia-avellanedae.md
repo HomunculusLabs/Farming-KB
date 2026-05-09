@@ -141,6 +141,8 @@ of dried bark extract are also available commercially.
   provides habitat for epiphytes and birds.
 - **Restoration:** Used in reforestation and riparian buffer projects.
 
-- **See Also:** lapachol [[mahonia-aquifolium]] [[uncaria-tomentosa]]
-  [[berberis-vulgaris]] [[food-forest-permaculture]] [[tagasaste]]
-  [[black-locust-entity]]
+- **See Also:** lapachol [[uncaria-tomentosa]]
+  [[food-forest-permaculture]] [[black-locust-entity]]
+## See Also
+
+- [[tabebuia-impetiginosa]]

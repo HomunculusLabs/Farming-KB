@@ -137,4 +137,4 @@ Start with prevention as the core strategy:
 ## Related
 
 - [[permaculture-insectary-plants]]
-- [[mushroom-cultivation-fundamentals]]
+- [[mycopesticides-fungal-biocontrol]]

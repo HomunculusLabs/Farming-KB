@@ -134,12 +134,8 @@ translocate mineral nutrients derived from saprotroph activity.
 
 ## See Also
 
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[dighton-arbuscular-mycorrhizal-plant-community-effects]]
 - [[dighton-wood-decay-ecosystem-carbon]]
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[fungal-resource-translocation-in-mycelial-networks]]
 - [[dighton-wood-decay-ecosystem-carbon]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

@@ -13,17 +13,7 @@ If you can muster any empathy toward an insect or spider, Cordyceps can seem a t
 
 The genus Cordyceps comprises fungi that specialize in parasitizing insects and other arthropods, ultimately killing their hosts and erupting from their bodies to produce spore-bearing fruiting structures.
 
-These are among the most dramatic and visually striking of all fungal life cycles.
-
-The inch-high stalk that sprouts from a mummified insect corpse is the fruiting body of the fungus, a platform that broadcasts infectious spores from its tip.
-
-In the arena of mycological dramatics, nothing is more electrifying than the act of extracting a mummified insect from the heart of a rotting log.
-
-The name Cordyceps comes from the Greek words "kordyle" (club) and "ceps" (head), referring to the club-shaped fruiting body that emerges from the insect's head.
-
-## The Parasitic Strategy
-
-Cordyceps represents a fundamentally different ecological strategy from the saprotrophic nutrition of most cultivated mushrooms.
+These are among the most dramatic and visually striking of all [[saprotrophic-nutrition]] of most cultivated mushrooms.
 
 Rather than decomposing dead organic matter, Cordyceps actively attacks living insects.
 
@@ -73,11 +63,7 @@ The genus Cordyceps is remarkably diverse, with hundreds of described species, e
 
 Some species infect caterpillars, others attack beetles, ants, flies, spiders, or even other fungi.
 
-Cordyceps sinensis, the famous "caterpillar fungus" of Tibetan medicine, parasitizes the larvae of ghost moths (Hepialidae) in the high-altitude grasslands of the Himalayas.
-
-This species has been harvested for centuries as a traditional medicine and commands extraordinary prices in modern markets.
-
-Cordyceps militaris, a brighter orange species, infects pupae and larvae of various Lepidoptera and Coleoptera.
+[[cordyceps-militaris]], a brighter orange species, infects pupae and larvae of various Lepidoptera and Coleoptera.
 
 Other species target specific ant genera, with the precision of a biological assassin.
 
@@ -103,26 +89,5 @@ In tropical forests, they are among the most significant natural controls on ant
 
 Some species are so effective at killing specific pest insects that they have been investigated as biological control agents for agriculture.
 
-The fungus Metarhizium anisopliae, a relative of Cordyceps, has been developed as a commercial biopesticide for controlling termites, locusts, and other crop pests.
-
-However, the narrow host specificity that makes these fungi attractive as precision biocontrol agents also limits their commercial utility, as each species controls only a narrow range of target pests.
-
-## Cultural and Economic Importance
-
-Cordyceps sinensis has been used in traditional Chinese and Tibetan medicine for at least a thousand years.
-
-It is prescribed as a tonic for fatigue, kidney disease, respiratory ailments, and as a general adaptogen.
-
-The demand for wild-harvested C. sinensis has created an enormous economic industry in the Himalayan regions of Nepal, Bhutan, and Tibet.
-
-Prices have reached extraordinary levels — in some years, high-quality specimens have sold for more than their weight in gold.
-
-The combination of rarity, difficulty of harvest (collection requires climbing to high altitudes and searching through alpine meadows), and growing demand has created one of the most valuable fungal commodities in the world.
-
-Attempts to cultivate C. sinensis artificially have had limited success, as the fungus appears to require the specific conditions of its natural high-altitude habitat to complete its life cycle and produce the bioactive compounds valued in traditional medicine.
-
-## See Also
-
-- [[fungal-melanin-and-pathogenicity]] — Other fungal pathogenicity mechanisms
-- [[hyphal-growth-mechanics-and-invasion]] — How fungal hyphae penetrate host tissues
+The fungus [[fungal-melanin-and-pathogenicity]] — Other fungal pathogenicity mechanisms
 - [[stinkhorn-reproduction-and-spore-dispersal]] — Contrast with non-parasitic dispersal strategies

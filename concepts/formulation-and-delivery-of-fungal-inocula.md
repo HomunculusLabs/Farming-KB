@@ -80,14 +80,7 @@ The extra cost of using fungal inocula must be balanced against remediation bene
 
 ## See Also
 
-- [[combined-biological-remediation-approaches]]
 - [[factors-affecting-mycoremediation-efficiency]]
-- [[mycoremediation-case-studies]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[fungal-biopesticides]]
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[fungal-solid-state-fermentation-agricultural-waste]]
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]

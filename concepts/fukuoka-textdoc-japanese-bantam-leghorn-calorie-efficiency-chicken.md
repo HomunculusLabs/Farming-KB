@@ -138,9 +138,6 @@ setting for man.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]] for factory vs natural
 - [[fukuoka-textdoc-natural-livestock-caloric-efficiency]] for broader caloric analysis
-- [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]] for carrying capacity
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]] for energy accounting
-- [[fukuoka-textdoc-natural-livestock-open-grazing]] for open grazing philosophy
 - [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] for diet and land

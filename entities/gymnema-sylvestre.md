@@ -140,11 +140,11 @@ yield 2–3 leaf crops per year from year two onward, producing
 Standardized leaf extract (25% gymnemic acids): 200–400 mg
 twice daily with meals. Leaf powder: 2–4 g/day divided doses.
 Gurmarin extracts for sweet suppression: 500 mg before meals.
+## See Also
+
+- [[dom]]
+- [[swertia-chirata]]
 
 ## See Also
 
-- [[andrographis-paniculata]]
-- [[dom]]
-- [[stigmasterol]]
-
-- [[swertia-chirata]]
+- [[herbal-plant-remedies]]

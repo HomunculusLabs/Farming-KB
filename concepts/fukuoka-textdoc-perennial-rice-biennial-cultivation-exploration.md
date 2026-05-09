@@ -123,10 +123,6 @@ These questions led him far beyond the immediate problem of rice cultivation int
 
 ## See Also
 
-- [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
-- [[fukuoka-rice-dry-field-cultivation]]
 - [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
-
 - [[natural-farming]]

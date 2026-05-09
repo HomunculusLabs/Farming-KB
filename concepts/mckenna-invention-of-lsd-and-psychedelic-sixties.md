@@ -8,25 +8,7 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-# The Invention [[mckenna-discovery-and-impact-of-lsd]] and the Psychedelic Sixties
-
-## The Supprpsychedelic-plants-and-civilizationlic Knowledge
-
-Psychedelic plants and experience were first suppressed by European civilization, then
-ignored and forgomckenna-abandonment-of-the-mysteryourth century witnessed the suppression of the mystery
-religions, the cults of Bacchus and Diana, of Attis and Cybele. The rich syncretism
-that was typical of the Hellenistic world had become a thing of the past. Christianity
-triumphed over the Gnostic sects, Valentinians, Marcionites, and others, which were
-the last bastions of paganism. These repressive episodes in the evolution of Western
-thought effectively closed the door on communication with the Gaian mind.
-Hierarchically imposed religion and, later, hierarchically dispdmt-candy-for-the-mindientific
-knowledge were substitutedgartz-gymnopilus-purpuratus-south-american-mushroom-in-europesort of direct experience of the mind behind
-nature.
-
-The survival through long centuries in Europe of witchcraft and rites involving
-psychoactive plants attests that the gnosis of entering parallel dimensions by
-altering brain chemistry was never entirely lost. The plants of European
-witchcraft, thorn apple, mandrake, and nightshade, did not contain [[indole]]
+# The Invention [[indole]]
 hallucinogens but were nevertheless capable of inducing intense altered states.
 As late as the Middle Ages the witch was still the ha-gazussa, a being that sat
 on the Hag, the fence, which passed behind the gardens and separated the village
@@ -35,9 +17,7 @@ from the wilderness. She was a being who participated in both worlds.
 ## The Father of Psychopharmacology
 
 The modern era of psychopharmacology's interest in the aboriginal use of
-hallucinogenic plants began with [[richard-evans-schultes]], a Harvard ethnobotanist
-who did field work among the Indians of the northwest Amazon beginning in the early
-1940s. Schultes's work on [[ayahuasca]] and other New World hallucinogens laid the
+hallucinogenic plants began with [[ayahuasca]] and other New World hallucinogens laid the
 groundwork for the chemical characterization that was to follow. His student
 Timothy Plowman continued this tradition with important work on coca and
 Erythroxylum species. The birth of ethnopsychopharmacology took place at Harvard
@@ -46,10 +26,10 @@ chemical investigation of shamanic plants.
 
 ## The Discovery of LSD
 
-In 1938, [[albert-hofmann]] was engaged in routine pharmaceutical research at Sandoz
+In 1938, gordon-wasson was engaged in routine pharmaceutical research at Sandoz
 Laboratories in Basel, Switzerland. Hofmann hoped to produce new drugs that would
 ease labor and childbirth. While working with the vasoconstricting substances derived
-from ergot, Hofmann synthesized the first d-[[lysergic-acid-diethylamide]] tartrate,
+from ergot, Hofmann synthesized the first d tartrate,
 LSD-25. Hofmann, a modest man, merely noted the correct completion of the synthesis,
 and the untested compound was cataloged and placed into storage. There it remained,
 surrounded by Nazi Europe for the next five years, five of the most tumultuous years
@@ -80,21 +60,7 @@ After some two hours this condition faded away.
 
 Finally, in 1947, the news of Hofmann's extraordinary discovery, a megahallucinogen
 active in the microgram range, surfaced in the scientific literature. As events in
-the 1950s made clear, Pandora's box had been flung open. In 1954, [[aldous-huxley]]
-wrote The Doors of Perception, a brilliant literary snapshot of the male European
-intellectual grappling with the realization of the true dimensions of consciousness
-and the cosmos. Huxley wrote that what the rest of us see only under the influence
-of mescaline, the artist is congenitally equipped to see all the time: "A little of
-the knowledge belonging to Mind at Large oozes past the reducing valve of brain and
-ego, into his consciousness. It is a knowledge of the intrinsic significance of
-every existent."
-
-In 1956, the Czech chemist Steven Szara synthesized dimethyl-tryptamine, DMT. DMT
-remains the most powerful of all hallucinogens and one of the most short-acting
-compounds known. When smoked, intoxication reaches a peak in about two minutes and
-then abates over about ten minutes. A year later, in May 1957, Valentina and Gordon
-Wasson published their now famous article in Life magazine announcing the discovery
-of the [[psilocybin-mushroom]] complex. This article introduced into mass consciousness
+the 1950s made clear, Pandora's box had been flung open. In 1954, [[psilocybin-mushroom]] complex. This article introduced into mass consciousness
 the notion that plants could cause exotic, perhaps even paranormal, visions. The
 chemical loose ends were tidied up by Albert Hofmann, who isolated psilocybin and
 determined its structure in 1958.
@@ -144,6 +110,6 @@ The use of LSD among young people in the US reached a peak in the late 1960s, sh
 after the CIA initiated a series of covert operations designed to disrupt, discredit,
 and neutralize the New Left. Was this merely a historical coincidence, or did the
 Agency actually take steps to promote the illicit acid trade? CIA spokesmen dismissed
-such a notion out of hand, but the methods that worked for colonial empires peddling
-opium in the nineteenth century, when applied by the CIA to the internal management of
-the American state of mind during the Vietnam War, damn near blew up the whole
+## See Also
+
+- [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]

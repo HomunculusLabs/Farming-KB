@@ -117,8 +117,6 @@ The India method described in the MushWorld handbook provides an alternative app
 ## Contamination Awareness
 
 The greatest enemy of spawn production is exponential contamination. A single contaminated grain kernel surrounded by thousands of clean kernels makes the entire container useless. Contamination amplifies not by a factor of 10 per transfer, but by thousands. Molds have a particular advantage: within 2-4 days, every spore can produce hundreds of conidiophores, each bearing dozens more spores. Fresh grain with low endemic bacteria and mold spore counts is essential for consistent spawn production.
-- [[mushroom-cultivator-grain-spawn-production]]
 - [[stamets-spawn-making-and-grain-culture]]
-- [[gourmet-medicinal-mushroom-substrate-preparation]]
 - [[stamets-agar-media-preparation]]
-- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
+- [[mushroom-spawn-production-historical-methods]]

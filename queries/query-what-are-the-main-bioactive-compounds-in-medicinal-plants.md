@@ -28,48 +28,7 @@ There are six major classes, each with distinct chemical structures and biologic
 - **Flavonoids** — Polyphenolic compounds responsible for vivid plant colors. Powerful antioxidants and anti-inflammatories. Includes quercetin, rutin, and catechins.
 - **Terpenes/Terpenoids** — The largest class, built from isoprene units. Responsible for essential oil aromas. Includes limonene, menthol, and artemisinin.
 - **Glycosides** — Compounds with a sugar moiety attached. Includes cardiac glycosides (digitalis) and anthraquinones (senna).
-- **Saponins** — Soap-like compounds that form foamy solutions. [[immune-modulating-mushrooms-and-herbs]] and cholesterol-lowering properties.
-- **Tannins** — Astringent polyphenols that bind proteins. Used for wound healing and diarrhea treatment.
-
-Many plants contain compounds from multiple classes simultaneously. Understanding these classes is foundational to herbalism, pharmacognosy, and ethnobotany.
-
-## Which Medicinal Plants Are Richest in Alkaloids?
-
-Alkaloids are among the most pharmacologically powerful plant compounds. They typically contain at least one nitrogen atom and are particularly common in plant families like Apocynaceae, Fabaceae, and Solanaceae. Notable alkaloid-rich plants include:
-
-- **Opium poppy (*Papaver somniferum*)** — Contains morphine, codeine, and papaverine. Potent analgesics used in pain management.
-- **Coffee (*Coffea arabica/r robusta*)** — Contains caffeine, a CNS stimulant that blocks adenosine receptors.
-- **Tobacco (*Nicotiana tabacum*)** — Contains nicotine, a stimulant that binds to nicotinic acetylcholine receptors.
-- **Goldenseal (*Hydrastis canadensis*)** — Contains berberine, a broad-spectrum antimicrobial and anti-inflammatory.
-- **Ayahuasca (*Banisteriopsis caapi*)** — Contains harmine and harmaline, beta-carboline alkaloids that act as MAO inhibitors. Used traditionally in Amazonian ceremonial contexts.
-
-## Which Medicinal Plants Are Richest in Flavonoids?
-
-Flavonoids are celebrated for their antioxidant, anti-inflammatory, and cardioprotective effects. Over 6,000 flavonoids have been identified, making them one of the largest families of polyphenolic compounds:
-
-- **Ginkgo (*Ginkgo biloba*)** — Rich in quercetin and kaempferol. Supports cognitive function and circulation.
-- **Elderberry (*Sambucus nigra*)** — High in anthocyanins. Potent antiviral, especially against influenza strains.
-- **Green tea (*Camellia sinensis*)** — Contains catechins, especially EGCG. Strong antioxidant and metabolic supporter.
-- **Turmeric (*Curcuma longa*)** — Contains curcumin (a curcuminoid, closely related to flavonoids). Anti-inflammatory powerhouse.
-- **Citrus fruits (*Citrus spp.*)** — Rich in hesperidin and naringenin. Support vascular health and reduce inflammation. Often consumed as whole fruit for maximum flavonoid retention.
-
-## Which Medicinal Plants Are Richest in Terpenes?
-
-Terpenes define the aromatic profiles of many medicinal herbs and carry significant therapeutic value. Over 25,000 terpenes have been identified across the plant kingdom:
-
-- **Cannabis (*[[cannabis-sativa-dominant-growing-challenges]]*)** — Contains myrcene, limonene, pinene, and [[beta-caryophyllene-dietary-cannabinoid]]. Contributes to anti-inflammatory and analgesic effects.
-- **Lavender (*Lavandula angustifolia*)** — Rich in linalool and linalyl acetate. Anxiolytic and calming properties.
-- **Rosemary (*Rosmarinus officinalis*)** — Contains 1,8-cineole, camphor, and alpha-pinene. Enhances memory and has antimicrobial activity.
-- **Peppermint (*Mentha × piperita*)** — High in menthol. Analgesic, antispasmodic, and cooling.
-- **Artemisia (*Artemisia annua*)** — Contains artemisinin, a sesquiterpene lactone. WHO-recommended antimalarial treatment.
-
-## How Do Bioactive Compounds Work in the Human Body?
-
-Plant bioactive compounds interact with human biology through several primary mechanisms. Understanding these helps explain both the therapeutic potential and the risks of herbal medicine:
-
-1. **Receptor binding** — Compounds like morphine bind directly to opioid receptors; nicotine binds to acetylcholine receptors. This mimicry of endogenous molecules is how many plant drugs work.
-2. **Enzyme inhibition** — Curcumin inhibits COX-2 and LOX enzymes (anti-inflammatory); EGCG inhibits MMPs. This is a very common mechanism.
-3. **Antioxidant activity** — Flavonoids and polyphenols neutralize [[reactive-oxygen-species-and-oxidative-stress]] (ROS), reducing oxidative stress linked to chronic disease.
+- **Saponins** — Soap-like compounds that form foamy solutions. [[cannabis-sativa-dominant-growing-challenges]]*)** — Contains myrcene, limonene, pinene, and [[reactive-oxygen-species-and-oxidative-stress]] (ROS), reducing oxidative stress linked to chronic disease.
 4. **Ion channel modulation** — Some terpenes and alkaloids affect calcium or sodium channels, influencing muscle contraction and nerve signaling.
 5. **Gene expression modulation** — Compounds like sulforaphane (from cruciferous vegetables) activate Nrf2 pathways, upregulating the body's own detoxification enzymes.
 
@@ -127,17 +86,5 @@ The following table maps 17 common medicinal plants to their primary bioactive c
 | Chamomile | Flavonoids / Terpenes | Apigenin, bisabolol | Anti-anxiety, anti-inflammatory |
 | Ephedra | Alkaloids | Ephedrine, pseudoephedrine | Bronchodilator, stimulant |
 | Milk Thistle | Flavonolignans | Silymarin (silybin) | Hepatoprotective, antioxidant |
-| [[reishi-mushroom-medicinal-research]] | Triterpenes / Polysaccharides | Ganoderic acids, beta-glucans | Immune modulation, anti-tumor |
-| Ginseng | Saponins (ginsenosides) | Rb1, Rg1, Rg3 | Adaptogen, energy, cognition |
-| Passionflower | Flavonoids | Chrysin, vitexin | Sedative, anxiolytic |
-| Oregano | Terpenes / Phenolics | Carvacrol, thymol | Antimicrobial, antioxidant |
-
-This is not an exhaustive list — thousands of medicinal plants have documented bioactive compounds. The plants above represent some of the most well-studied and widely used in both traditional and modern herbal medicine.
-
-> **Note:** This table is a simplified overview. Most medicinal plants contain bioactive compounds from multiple classes, and their effects often overlap. The "primary" class listed reflects the compound group most responsible for the plant's characteristic therapeutic activity. Always research specific plants thoroughly before use.
-
-## See Also
-
-- [[artemisia-annua]]
-- [[artemisinin]]
-- [[ashwagandha]]
+| [[artemisia-annua]]
+- [[withania-somnifera]]

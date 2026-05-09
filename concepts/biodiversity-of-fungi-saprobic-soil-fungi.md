@@ -23,45 +23,17 @@ Among microorganisms inhabiting soils, fungi commonly rank as the most abundant 
 
 Grassland soils are enriched by organic accretion throughout the soil profile, especially from grass roots that are annual, finely divided, and contribute a biomass that far exceeds above-ground biomass. Forest soils, in contrast, are enriched by debris from a massive above-ground biomass plus substantial input from mycorrhizae. In deserts, desert-grasslands, and some forest communities, the above-ground debris often consists of relatively intact organic matter (litter) only. In mesic or wet grasslands and in most shrublands, heathlands, and forests, the superficial debris is underlain by an amorphous, aromatic layer of organic material (humus) that rests on mineral soil impregnated with humus.
 
-See also: [[the-soil-food-web]], [[fungal-biodiversity-in-soil-ecosystems]], [[fungal-decomposition]]
+See also: [[fungal-biodiversity-in-soil-ecosystems]], [[fungal-decomposition-processes]]
 
-## Trophic Roles and Ecosystem Functions
+2. **Carbon and Nitrogen Storage**: Soil fungi are of interest to ecologists because of their importance in [[soil-food-web]] dynamics.
 
-The trophic relationships of saprobic, mutualistic, and parasitic soil fungi explain most of what soil fungi do as components in ecosystems. Key roles include:
-
-1. **Decomposition**: Fungi function as primary, secondary, and tertiary decomposers in the often complex process of degrading organic matter. See [[fungal-decomposition-processes]]
-
-2. **Carbon and Nitrogen Storage**: Soil fungi are of interest to ecologists because of their importance in [[nutrient-cycling-in-soil]], carbon and nitrogen storage, biogeochemical cycles, and [[soil-food-web]] dynamics.
-
-3. **Soil Stabilization**: Fungi play a critical role in [[fungal-soil-aggregation]] and soil structure maintenance. See [[fungal-contributions-soil-structure]]
+3. **Soil Stabilization**: Fungi play a critical role in [[fungal-contributions-soil-structure]]
 
 4. **Plant Parasitism**: Many soil fungi parasitize living members of food webs and attack remains of virtually all organisms.
 
-5. **Biodegradation and Bioremediation**: The capacity for complex biosyntheses and biodegradation makes soil fungi important for [[fungal-bioremediation]] and biodeterioration studies.
+5. **Biodegradation and Bioremediation**: The capacity for complex biosyntheses and biodegradation makes soil fungi important for [[fungal-biodiversity]] matters.
 
-## Food Web Interactions
-
-Diverse soil fungi parasitize living members of soil food webs and are consumed by mycophagous nematodes, protozoans, collembolans, oribatida, enchytraeids, dipteran larvae, and to a lesser extent by gnats, earthworms, certain water bears (Tardigrada), and mites. Fungivore-fungus symbioses, wherein the fungivore facilitates growth of the fungus, have been reported for wood-boring beetles, attine ants, and certain termites. In many instances, soil animals feeding on fungi are either species-specific or species-selective -- from their perspective, all fungi are not equal, and [[fungal-biodiversity]] matters.
-
-See also: [[fungal-soil-food-web]], [[fungal-feeding-invertebrates-soil]], [[fungal-fauna-grazing-decomposition-feedbacks]]
-
-## Major Taxonomic Groups in Soil
-
-All major taxonomic groups of fungi are encountered in soils. Especially prevalent among saprobic filamentous forms are:
-
-- Saprolegniales and Pythiales (water molds)
-- Mucorales (pin molds)
-- Eurotiales (including Aspergillus and Penicillium)
-- Microascales
-- Hypocreales
-- Sordariales
-- Onygenales
-- Leotiales and Pezizales (cup fungi and truffles)
-- A plethora of mitosporic fungi (anamorphs of ascomycete or basidiomycete species)
-
-Many soil fungi are saprobic on organic material in various stages of decay and, apart from several notable exceptions, are readily culturable. Basidiomycetes were referred to as "the missing link in soil mycology" -- a comment still accurate more than 50 years later. In the total litter and humus of a British deciduous forest, basidiomycetes accounted for approximately 60% of the total living microbial biomass, yet they are under-represented or absent in general surveys due to technique-based bias.
-
-See also: [[fungal-kingdom-classification]], [[fungal-trophic-modes-and-nutritional-guilds]], [[soil-fungal-isolation-techniques]]
+See also: [[fungal-feeding-invertebrates-soil]], [[fungal-kingdom-classification]], [[soil-fungal-isolation-techniques]]
 
 ## The Soil Fungus Problem
 
@@ -77,31 +49,16 @@ No complete inventory of soil fungi has been undertaken for any single geographi
 
 In temperate or boreal regions, probably 60-80% of the principal sporulating species can be identified with moderate reliability. A higher percentage of unknown forms will be encountered in tropical regions and on nontropical sites that are geographically remote or ecologically unusual. The development of comprehensive guides to soil fungi, especially tropical soil fungi, should be a high priority in fungal systematics.
 
-See also: [[fungal-biodiversity-tropical-ecosystems]], [[fungal-biogeography]], [[fungal-species-estimation-methods-total-diversity]]
-
-## Agricultural Relevance
-
-### Cultivation Impacts
-
-Human-caused disturbances, especially cultivation, erosion, and contamination, directly affect soil habitats and the diversity of the soil biota. Cultivation disrupts hyphal networks, alters organic matter distribution through the soil profile, and changes moisture and temperature regimes. These disturbances can reduce fungal biomass and shift community composition from fungal-dominated to bacterial-dominated systems.
-
-### [[fungal-decomposition]] and [[fungal-nutrient-cycling-forests]]
-
-Soil fungi are the primary agents of organic matter decomposition in most terrestrial ecosystems. They break down complex polymers including cellulose, hemicellulose, lignin, chitin, and cutin through extracellular enzyme systems. This decomposition process releases nutrients in plant-available forms and contributes to humus formation.
-
-### [[fungal-bacterial-interactions]] in Soil
+See also: [[fungal-biogeography]], [[fungal-decomposition]] and [[fungal-bacterial-interactions]] in Soil
 
 The interaction between fungal and bacterial communities in soil is complex and critical for nutrient cycling. Bacterial-fungal interactions can be competitive, commensal, or mutualistic. In agricultural soils, management practices that favor fungal-dominated communities (such as reduced tillage, cover cropping, and organic amendments) are associated with improved soil structure, nutrient retention, and disease suppression.
 
 ### Practical Applications
 
 Fermentation products of soil fungi are important in world medicine, including penicillin, cephalosporin, cyclosporin, and lovastatin. Soil fungi are also important for:
-- [[mushroom-cultivation-fundamentals]] agents against plant pathogens
 - [[fungal-bioremediation]] of contaminated soils
 - Production of enzymes for industrial applications
-- [[biofertilizers-and-soil-inoculants]]
-
-See also: [[fungal-roles-in-agriculture]], [[fungal-diversity-agricultural-systems]], [[fungal-enzyme-systems-and-nutrient-cycling]]
+- [[fungal-roles-in-agriculture]], [[fungal-enzyme-systems-and-nutrient-cycling]]
 
 ## Wisconsin Soil Fungi Surveys
 
@@ -111,7 +68,7 @@ The Wisconsin surveys represent some of the most intensive studies of soil funga
 - Many species are cosmopolitan while others show strong habitat preferences
 - Rare species constitute a large proportion of total diversity
 
-See also: [[soil-fungal-diversity-wisconsin-survey-global-patterns]], [[fungal-biodiversity-soil-seasonal]]
+See also: [[fungal-biodiversity-soil-seasonal]]
 
 ## Recommendations for Soil Fungal Inventories
 
@@ -125,4 +82,4 @@ For anyone conducting inventories of saprobic soil fungi, the following principl
 6. Pay special attention to basidiomycetes, which are typically under-sampled
 7. Include baiting techniques for groups not readily isolated by plating
 
-See also: [[fungal-biodiversity-inventory-design]], [[fungal-biodiversity-sampling-design]], [[fungal-sampling-methods]]
+See also: [[fungal-biodiversity-sampling-design]], [[fungal-sampling-methods]]

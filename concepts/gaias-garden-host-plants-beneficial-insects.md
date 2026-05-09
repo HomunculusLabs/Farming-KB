@@ -1,31 +1,7 @@
 ---
 title: Host Plants for Beneficial Insects Reference
 created: 2026-04-26
-tags: [permaculture, beneficial-insects, insectary, plants, reference]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Host Plants for Beneficial Insects Reference
-
-In Gaia's Garden, Toby Hemenway provides a comprehensive table of host
-plants for beneficial insects, organized to help gardeners select the
-right species for attracting predatory insects, parasitic wasps,
-hoverflies, and other pest-controlling organisms. This reference page
-distills that table into a practical guide for creating insectary
-habitat throughout the garden.
-
-## Why Host Plants Matter
-
-Beneficial insects need more than just pests to eat. Adult parasitic
-wasps and many predators feed on pollen and nectar for energy and
-reproduction. Without flowers providing these resources, beneficial
-insect populations cannot build to levels where they effectively control
-pests. Flowers and wild vegetation near or in the garden are critical
-for their survival. This is the foundation of [[gaias-garden-living-plant-systems-insectary]].
+tags: [[gaias-garden-living-plant-systems-insectary]].
 
 ## Spring-Blooming Insectary Plants
 
@@ -121,16 +97,8 @@ growing season by including spring, summer, and fall species. Integrate
 insectary plants throughout the garden, not just in dedicated beds, so
 beneficial insects are always near the plants needing protection. Many
 of these plants are multifunctional, providing food, medicine, or
-[[gaias-garden-multipurpose-plants]] functions alongside insect support.
-
-## See Also
-
-- [[gaias-garden-beneficial-insects-gallery]]
-
-- [[gaias-garden-predatory-insects-attracting-beneficials]]
+[[gaias-garden-beneficial-insects-gallery]]
 
 - [[gaias-garden-living-plant-systems-insectary]]
-- [[insect-allies]]
 - [[gaias-garden-natural-pest-disease-management]]
-- [[gaias-garden-bees-and-pollinators]]
 - [[gaias-garden-interplanting-polyculture]]

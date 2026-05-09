@@ -52,27 +52,13 @@ Seed size does not necessarily predict plant size or potency, but consistent see
 
 Environmental factors play a significant role in modulating both the quantity and quality of resin produced by cannabis plants. Light intensity, ultraviolet (UV) radiation exposure, temperature fluctuations, and nutrient availability all influence trichome development and cannabinoid biosynthesis. Plants grown in higher UV-B environments tend to produce denser trichome coverage and elevated THC concentrations, likely as a defensive response to radiation stress.
 
-Water availability during the late flowering period can also concentrate resin constituents. Moderate drought conditions before harvest may increase the ratio of resin to plant tissue, although severe stress will reduce overall yield. Careful management of irrigation timing allows growers to optimize resin density without sacrificing total biomass. See [[cannabis-nutrient-recipes]] for nutrient strategies that support optimal resin production.
-
-Temperature also plays a critical role in resin quality. Cooler nighttime temperatures during late flowering can enhance terpene production and preserve volatile aromatic compounds. Excessively high temperatures, by contrast, may accelerate resin degradation and reduce overall quality. These environmental sensitivities make strain selection for specific growing climates an important consideration for breeders.
-
-Humidity levels during flowering affect both trichome development and the risk of mold or bud rot, which can devastate an otherwise high-quality resin crop. Maintaining relative humidity between 40-55% during the final weeks of flowering helps preserve resin integrity while minimizing pathogen pressure, as discussed further in cannabis pest management.
-
-Light spectrum and photoperiod also influence resin production. While cannabis is typically grown under a 12-hour photoperiod for flowering, the quality of light during this phase matters. Full-spectrum light sources that include UV-A and UV-B wavelengths have been shown to enhance both trichome density and secondary metabolite production compared to narrow-band LED lighting. Breeders selecting for indoor cultivation should consider how their strains respond to different lighting technologies, as covered in [[hps-grow-lights]].
+Water availability during the late flowering period can also concentrate resin constituents. Moderate drought conditions before harvest may increase the ratio of resin to plant tissue, although severe stress will reduce overall yield. Careful management of irrigation timing allows growers to optimize resin density without sacrificing total biomass. See [[hps-grow-lights]].
 
 ## Resin Extraction Methods and Breeding Implications
 
-The choice of resin extraction method can significantly influence which quality traits breeders should select for. Traditional dry-sifting methods favor strains with large, easily detached capitate-stalked trichome heads. Ice-water extraction is somewhat less selective about trichome morphology but still benefits from robust, well-formed glandular heads. Modern solvent-based extraction methods can recover resin from a wider range of trichome types and sizes, potentially broadening the genetic base suitable for commercial extract production. The [[cannabis-hashish-guide]] covers traditional extraction techniques in greater detail.
+The choice of resin extraction method can significantly influence which quality traits breeders should select for. Traditional dry-sifting methods favor strains with large, easily detached capitate-stalked trichome heads. Ice-water extraction is somewhat less selective about trichome morphology but still benefits from robust, well-formed glandular heads. Modern solvent-based extraction methods can recover resin from a wider range of trichome types and sizes, potentially broadening the genetic base suitable for commercial extract production. The [[cannabis-testing-and-quality]] standards and evolving market preferences.
 
-Breeding programs focused on extract production should consider resin composition beyond THC content alone. The ratio of cannabinoids to terpenes, the presence of minor cannabinoids such as CBG and CBC, and the overall resin viscosity all affect extraction efficiency and final product quality. Strain selection for commercial extraction requires balancing resin quantity with [[cannabis-testing-and-quality]] standards and evolving market preferences.
-
-For growers utilizing [[cannabis-cloning-and-mother-plants]] to maintain production lines, selecting mother plants with desirable resin traits ensures consistency across harvest cycles. Vegetative propagation preserves the exact resin profile and trichome characteristics of a selected phenotype, making it an invaluable tool for maintaining extraction-quality genetics over time. This approach is particularly important when breeding for specific resin characteristics that may be lost through sexual reproduction and genetic recombination.
-
-## Post-Harvest Resin Preservation
-
-After harvest, the conditions under which cannabis is stored directly affect the longevity and quality of its resin. Light exposure, temperature, and oxygen availability are the three primary factors governing resin degradation. Ultraviolet light accelerates the conversion of THC to CBN, progressively reducing potency over time. Storing dried floral clusters in opaque, airtight containers at cool temperatures significantly slows this degradation process.
-
-The curing process itself is a form of controlled degradation that can improve aroma and smoothness. During curing, residual chlorophyll breaks down and terpenes continue to develop through non-enzymatic reactions. However, over-curing leads to diminished cannabinoid content and loss of volatile terpenes. Finding the optimal curing duration is strain-dependent and represents another trait that breeders may select for. Detailed protocols are available in [[cannabis-harvest-and-curing]].
+For growers utilizing [[cannabis-harvest-and-curing]].
 
 Long-term storage considerations are especially important for breeding programs that maintain seed stock and mother plant material. Properly vacuum-sealed and refrigerated cannabis can retain acceptable potency for one to two years, while frozen storage may extend viable resin quality even further. Breeders should consider selecting for strains that naturally resist degradation, maintaining their cannabinoid and terpene profiles over extended storage periods.
 
@@ -94,29 +80,7 @@ Breeders selecting for resin quality must therefore consider the full spectrum o
 metabolites, not just THC percentage, to produce a product with desirable therapeutic and
 recreational characteristics. The interplay between these compounds is complex and
 dose-dependent, meaning that analytical testing of cannabinoid and terpene profiles is
-essential for quality assurance, as covered in [[cannabis-testing-and-quality]].
+essential for quality assurance, as covered in [[cannabis-chemotype-classification-cannabinoid-breeding]]. The [[screen-of-green]]
 
-## Breeding for Specific Resin Profiles
-
-Modern cannabis breeding programs increasingly target specific resin chemotype profiles rather
-than simple THC maximization. The cannabinoid spectrum includes THC, THCA, CBD, CBDA, CBG,
-CBC, THCV, CBDV, and numerous minor cannabinoids, each with distinct pharmacological
-properties.
-High-CBD strains have been developed for patients who require therapeutic benefits without
-psychoactive effects. CBG-dominant strains are gaining attention for potential
-anti-inflammatory and neuroprotective applications. THCV-rich varieties are being explored
-for appetite suppression and potential anti-convulsant properties.
-Each of these breeding targets requires careful selection of parent lines and multiple
-generations of crossing and backcrossing to stabilize the desired chemotype, as described in
-[[cannabis-chemotype-classification-cannabinoid-breeding]]. The [[cannabis-breeding-fundamentals]]
-available include inbreeding to fix desirable traits, outcrossing to introduce genetic
-diversity, and marker-assisted selection using modern genomic tools to identify plants
-carrying target alleles for cannabinoid and terpene biosynthesis pathways.
-
-## Related Topics
-- [[screen-of-green]]
-
-- [[cannabis-glandular-trichome-types-resin-production-clarke]] - Trichome types in detail
 - [[cannabis-terpene-and-aroma-chemistry-clarke]] - Terpene and aroma chemistry
-- [[cannabis-harvest-timing-visual-cues]] - Harvest timing indicators
 - [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification

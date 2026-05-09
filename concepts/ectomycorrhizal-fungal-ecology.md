@@ -95,14 +95,7 @@ Dighton and Jansen (1991) modeled ECM responses to elevated CO2:
 
 ## See Also
 
-- [[ectomycorrhizal-ecology]] for detailed ECM biology
 - [[mycorrhizal-networks]] for interplant connections
-- [[fungal-enzyme-systems]] for ECM enzymatic capabilities
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[ectomycorrhizae-forest-life]]
 - [[bolete-mushrooms-ecology-edibility]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

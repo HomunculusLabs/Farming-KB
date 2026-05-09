@@ -9,9 +9,7 @@ sources:
 type: concept
 ---
 
-# [[cannabis-and-adhd]] / Attention Deficit Disorder
-
-[[cannabis-health-index]] (CHI) score: **15** (out of 100)
+# [[cannabis-health-index]] (CHI) score: **15** (out of 100)
 Based on **7 clinical studies** reviewed by Blesching.
 
 Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common
@@ -96,7 +94,6 @@ those better suited for managing hyperactivity:
 
 ## Related Topics
 
-- [[blesching-cannabis-neuroprotection]] - broader neuroprotective effects
 - [[blesching-cannabis-depression]] - ADHD commonly co-occurs with
   depression
 - blesching cannabis anxiety - anxiety management with cannabinoids

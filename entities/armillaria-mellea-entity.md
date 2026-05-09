@@ -2,7 +2,8 @@
 title: "Armillaria mellea" type: species tags: [species, fungi, basidiomycota, pathogenic, edible, permaculture, mushroom] date: 2026-04-28 updated: 2026-04-28 sources: - "General mycological knowledge"
 created: 2026-04-28
 type: entity
-sources: []
+sources:
+  - "raw/papers/mycelium-running-stamets.md"
 tags: []
 updated: 2026-05-06
 ---
@@ -140,6 +141,5 @@ than being the sole cause of decline.
 ## See Also
 
 - [[psilocybe-mushroom-species-guide]]
-- [[wood-decay-fungi]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]

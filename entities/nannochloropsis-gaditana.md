@@ -104,17 +104,9 @@ The genus was historically placed within the Eustigmatophyceae based on pigment 
 
 ## See Also
 
-- [[chlorella-vulgaris]]
+- [[dunaliella-salina]]
+
 - [[arthrospira-platensis]]
-- [[saccharomyces-cerevisiae]]
 - [[glycine-max]]
-- [[aquaculture]]
-- [[permaculture]]
-- [[fermentation]]
-- [[sustainability]]
-- [[photosynthesis]]
-- [[nutrition]]
-- [[proteomics]]
-- [[climate-change]]
-- [[transcriptomics]]
-- [[anti-inflammatory]]
+- aquaculture
+- [[cannabis-anti-inflammatory-applications]]

@@ -141,8 +141,6 @@ The framework also suggests that the abandonment of psychoactive use would trigg
 
 ## See Also
 
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[mckenna-diet-symbiosis-human-evolution]]
-- [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-language-and-reality]]

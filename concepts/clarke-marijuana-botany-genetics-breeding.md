@@ -8,12 +8,7 @@ sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 type: concept
 ---
 
-# [[cannabis-genetic-stability]]s and Mendelian Breeding
-
-## Introduction
-
-Robert C. Clarke's "Marijuana Botany" provides a comprehensive
-treatment of the genetic principles underlying [[cannabis-breeding-fundamentals]]. While
+# [[cannabis-breeding-fundamentals]]. While
 it is possible to breed Cannabis with limited success without knowledge
 of genetics, the full potential of diligent breeding is realized only
 by those who master Mendelian inheritance patterns. This page covers
@@ -131,7 +126,6 @@ of many may prove acceptable as parents for a breeding program.
 
 ## Related
 
-- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
 - [[clarke-marijuana-botany-flowering-and-photoperiodism]] Topics
 
 - Sinsemilla Life Cycle of Cannabis

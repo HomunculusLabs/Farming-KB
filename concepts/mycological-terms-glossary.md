@@ -9,17 +9,7 @@ sources:
 ---
 # Mycological Terms Glossary
 
-Key mycological terms used in the study of fungi, drawn from the glossary of *Mycelium Running* by [[stamets-mycoremediation-principles]] and expanded with contextual definitions.
-
-## A
-
-**agar**: Product derived from seaweed; valued for gelatinizing properties and commonly used to solidify nutrient media for sterile tissue culture.
-
-**agarics**: Mushrooms with gills. The group includes most familiar cap-and-stem mushrooms.
-
-**anamorph**: The asexual state of fungi, typically producing conidia or unspecialized hyphal cells. Characteristic of many Ascomycetes.
-
-**anastomosis**: The fusion of hyphal cells followed by an exchange of cellular contents between two mycelial [[mycorrhizal-networks-common-mycelial-network]]. Essential for genetic recombination and network formation.
+Key mycological terms used in the study of fungi, drawn from the glossary of *Mycelium Running* by [[mycorrhizal-networks-common-mycelial-network]]. Essential for genetic recombination and network formation.
 
 **annulus**: A ring, collar, or cellular skirt forming on the stem, typically originating from a portion of the partial veil. Seen in species like shiitake and garden giant.
 
@@ -61,13 +51,7 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *My
 
 **deliquescing**: Autodigestion by which gills and cap melt into liquid. Typical of *Coprinus* species (shaggy mane, inky caps).
 
-**dikaryotic**: The state where two individual nuclei are present in each [[fungal-solid-state-fermentation-agricultural-waste]] cell. The dominant state in most Basidiomycetes.
-
-**diploid (2N)**: A genetic condition where each cell has a full complement of chromosomes necessary for sexual reproduction.
-
-## E
-
-**ectomycorrhizae**: [[mycorrhizal-fungi-basics-lowenfels]] that form a sheath around root tips and grow between root cells without penetrating them. Common in temperate forest trees (pines, oaks, firs, Douglas fir).
+**dikaryotic**: The state where two individual nuclei are present in each [[mycorrhizal-fungi-basics-lowenfels]] that form a sheath around root tips and grow between root cells without penetrating them. Common in temperate forest trees (pines, oaks, firs, Douglas fir).
 
 **endomycorrhizae**: Mycorrhizal fungi that penetrate root cells. Common in many plants including cedars, redwoods, and most agricultural crops. Also called arbuscular mycorrhizae (AM).
 

@@ -3,7 +3,7 @@ title: Fungi Around the World -- Species Distribution
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
 ---
 # Fungi Around the World -- Species Distribution
@@ -50,14 +50,7 @@ Asia, spanning a remarkable range of climatic conditions:
 - **Continental Europe** — broadleaf and mixed forest fungi with centuries of
   documentation through victorian-mycology|European mycological traditions
 - **Siberian taiga** — cold-adapted species, birch-associated fungi, and the
-  species central to [[amanita-muscaria-chemistry-and-pharmacology]] involving Amanita muscaria
-- **Russia's diverse biomes** — from arctic tundra lichens to temperate
-  deciduous forest fungi
-
-### Australia and New Zealand
-Australasian fungal flora includes both endemic species and introductions:
-- Numerous Psilocybe species, with Australian and New Zealand species well
-  documented in [[magic-mushrooms-australia-new-zealand]]
+  species central to [[magic-mushrooms-australia-new-zealand]]
 - Amanita muscaria, introduced with pine plantations and now widespread
 - Unique endemic species in eucalyptus forests and Nothofagus woodlands
 - Copelandia cyanescens in tropical and subtropical zones
@@ -109,15 +102,7 @@ pages in this wiki.
 
 ## Cosmopolitan vs. Endemic Fungal Species
 
-Not all fungi follow the same distribution patterns. Some species are truly cosmopolitan, found on every continent where suitable substrate exists — common saprotrophs like *Coprinus comatus* (shaggy mane) and *Pleurotus ostreatus* (oyster mushroom) fall into this category, aided by wind-dispersed spores that can travel atmospheric currents over vast distances. Others are highly endemic, restricted to single mountain ranges, island chains, or even individual tree species. The Hawaiian Islands, for example, host numerous endemic fungi found nowhere else, having evolved in isolation over millions of years. Understanding which species are cosmopolitan and which are endemic is critical for conservation, as endemic fungi face the same extinction risks as endemic plants and animals but receive far less protection under current biodiversity frameworks. The field of [[fungal-biodiversity-conservation-status]] is still developing, with few species formally assessed by the IUCN compared to plants and vertebrates.
-
-## See Also
-
-- [[cotter-fungi-in-the-classroom-education]]
-- [[asian-psilocybin-mushroom-guide]]
-
+Not all fungi follow the same distribution patterns. Some species are truly cosmopolitan, found on every continent where suitable substrate exists — common saprotrophs like *Coprinus comatus* (shaggy mane) and *Pleurotus ostreatus* (oyster mushroom) fall into this category, aided by wind-dispersed spores that can travel atmospheric currents over vast distances. Others are highly endemic, restricted to single mountain ranges, island chains, or even individual tree species. The Hawaiian Islands, for example, host numerous endemic fungi found nowhere else, having evolved in isolation over millions of years. Understanding which species are cosmopolitan and which are endemic is critical for conservation, as endemic fungi face the same extinction risks as endemic plants and animals but receive far less protection under current biodiversity frameworks. The field of [[cotter-fungi-in-the-classroom-education]]
 - [[magic-mushrooms-australia-new-zealand]] — Detailed species guide for Australasia
-- [[entheogen-culture]] — Cultural context of psychoactive fungi use
 - [[fungal-biodiversity-tropical-forests]] — Tropical forest fungal diversity
-- [[fungal-endemism-and-biogeography]] — Patterns of fungal distribution and endemism
 - [[fungal-species-concept-and-taxonomy]] — How fungal species are defined

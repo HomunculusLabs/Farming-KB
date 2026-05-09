@@ -124,20 +124,13 @@ teaching tool for understanding plant anatomy and vascular connections.
 ## Grafting in the Context of Cannabis Propagation
 
 Grafting occupies a minor but interesting position among Cannabis
-propagation techniques. Unlike [[cannabis-cloning-rooting-cuttings-method-clarke]], which preserves the complete genotype of a
-single plant, grafting combines multiple genotypes in one organism. Unlike
-[[cannabis-propagation-sexual-vs-asexual-clarke]], which
+propagation techniques. Unlike [[cannabis-propagation-sexual-vs-asexual-clarke]], which
 creates new genetic combinations through recombination, grafting simply
 joins existing genotypes without genetic change.
 
 For practical breeding purposes, Clarke emphasizes that seed selection and
 controlled pollination through
-[[cannabis-pollen-collection-storage-clarke]] remain the primary tools for genetic improvement. Grafting
-is more of a horticultural curiosity than a breeding technique.
-
-See also:
 [[cannabis-propagation-sexual-vs-asexual-clarke]]
-[[cannabis-cloning-rooting-cuttings-method-clarke]]
 [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
 
 ## See Also

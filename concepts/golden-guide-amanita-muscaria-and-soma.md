@@ -133,11 +133,12 @@ to its hallucinogenic properties.
 
 ## Related
 
-- [[golden-guide-iboga-and-tabernanthe]]
-
 - [[amanita-muscaria-pharmacology-dosing-guide]] Topics
 
-- [[golden-guide-ayahuasca-and-caapi]]
 - [[powell-sacred-mushroom-discovery]]
 - Psychedelic Mushrooms of Mexico
 - Cannabis Classification and History
+
+## See Also
+
+- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]

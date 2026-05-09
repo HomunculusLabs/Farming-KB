@@ -104,18 +104,11 @@ Biotechnological approaches including transgenic and gene-editing methods have b
 
 ## See Also
 
-- [[glycine-max]]
 - [[arachis-hypogaea]]
-- [[cajanus-cajan]]
 - [[lablab-purpureus]]
-- [[psophocarpus-tetragonolobus]]
 - [[tylosema-esculentum]]
-- [[lathyrus-tuberosus]]
 - [[pachyrhizus-erosus]]
-- [[colocasia-esculenta]]
 - [[moringa-oleifera]]
-- [[vigna-radiata]]
 - [[pachyrhizus-tuberosus]]
-- [[mangifera-indica]]
 - [[azadirachta-indica]]
 - [[carica-papaya]]

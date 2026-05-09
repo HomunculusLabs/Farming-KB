@@ -73,25 +73,7 @@ A. niger has been demonstrated to leach metals from an extraordinary range of so
 
 - Kaolinite, montmorillonite, illite, vermiculite, serpentine, chrysotile: Al, Si, Fe, Mn (Borovec, 1990; Groudev and Groudeva, 1986)
 
-A. niger has also been used for recycling metals from waste materials including fly ash, galvanic sludge, and electronic scrap, and potentially for the [[fungal-bioremediation]] of metal-contaminated soils.
-
-## Process Conditions
-
-Optimal bioleaching occurs at 25-37C, pH 2-6 depending on target metal, with batch or two-step processes. Carbon sources include sucrose, glucose, malt extract, and molasses. Process durations range from hours (glass) to months (lateritic ores).
-
-Two distinct cultivation approaches are used: one-step (batch) processes where organisms are grown in the presence of solid substrates, and two-step processes where fungal biomass is first cultivated and then contacted with the substrate. The two-step approach avoids growth inhibition by toxic elements and provides cleaner separation of biomass from the leached product.
-
-## Strain Variation
-
-Significant variation exists among A. niger strains. Strains 1 and 21 (Kiel and Schwartz, 1980) differ in rare earth element leaching patterns. Strain ATCC 6275 leached Cu, Fe, Ni, Zn from mining residues. Strain CBS 246-65 leached Fe from kaolinite at 60C.
-
-Multiple additional strains (A3, G-6, G-8, ATCC 10108, VMK F-1119, DSM 821, BS, and others) have been documented for specific leaching tasks across a wide range of mineral substrates. Strain G-6, for example, leached Al and Fe from kaolinite, halloysite, illite, montmorillonite, and vermiculite using molasses as a carbon source in two-step processes.
-
-## Fungal Biodiversity in Bioleaching
-
-While A. niger and Penicillium simplicissimum are the strains most commonly used for biohydrometallurgical treatments, a large number of other fungi can mobilize elements from solid substrates. Aspergillus and Penicillium spp. are particularly effective organic acid producers, either from the citric acid (TCA) cycle (citric and oxalic acids) or derived from glucose (gluconic acid).
-
-This acid production is commercially exploited in large-scale citric acid production, representing a billion-dollar industry. The broad diversity of heterotrophic organisms provides enormous untapped industrial potential for [[fungal-metal-transformations]] and related applications.
+A. niger has also been used for recycling metals from waste materials including fly ash, galvanic sludge, and electronic scrap, and potentially for the [[fungal-metal-transformations]] and related applications.
 
 ## Advantages
 
@@ -111,15 +93,9 @@ This acid production is commercially exploited in large-scale citric acid produc
 
 ## See Also
 
-- [[phellodon-niger]]
-
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-
-- [[gadd-fungal-metal-interactions]]
 
 - [[mycoremediation-heavy-metals-detailed]]
 
-- [[fungal-bioremediation]]
 - [[staycare-fungal-heterotrophic-leaching-biosorption]]
-- [[fungal-metal-transformations-biosorption]]
 - [[fungal-metal-redox-transformations]]

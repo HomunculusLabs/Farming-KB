@@ -137,14 +137,9 @@ Once activities involving syntactic self-expression were established habits, the
 If the ego is not regularly and repeatedly dissolved in the unbounded hyperspace of the Transcendent Other, there will always be a slow drift away from the sense of self as part of nature's larger whole.
 
 The ultimate consequence of this drift is the fatal ennui that now permeates Western civilization.
-
 ## See Also
 
-- [[psilocybin-compound]]
 - [[psilocybin-mushroom]]
-- [[shamanism]]
-
 - [[stoned-ape-hypothesis]]
-- [[shamanism-as-archaic-technique-of-ecstasy]]
 - [[tassili-n-ajjer-and-the-saharan-eden]]
 - Archaic Revival

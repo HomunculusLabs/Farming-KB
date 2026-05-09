@@ -3,18 +3,7 @@ title: Mollison on Permaculture for High Islands
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Permaculture for High Islands
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet V (Permaculture on High Islands), 1981
-
-## Overview
-
-Mollison describes the Hawaiian Ohana land division system as a model of integrated watershed management, and provides design guidance for volcanic and granitic high islands with their unique wet/dry slope patterns, tidal wave risks, and microclimates. High islands over 1,000 feet create their own weather systems and present extraordinary opportunities for [[permaculture-design-principles]] application.
+tags: [[permaculture-farm-design-principles]] application.
 
 ## High Island Climate Patterns
 
@@ -106,11 +95,7 @@ High islands offer extraordinary climate diversity within small geographic areas
 
 Water is the defining design challenge and opportunity on high islands.
 
-- **Ridge forest preservation:** The Ohana system recognized that ridge forests are the primary water generators for the entire watershed. Removing ridge forest eliminates the cloud forest effect, stops fog drip, and reduces or eliminates downslope springs. Modern [[mollison-forest-water-climate]] research confirms this with quantitative data.
-
-- **Freshwater lenses:** On volcanic islands, freshwater from rainfall floats on denser saltwater beneath, creating a freshwater lens. This lens can extend beyond the shoreline, producing freshwater springs in the ocean. These submarine springs were traditionally used for fishing and freshwater collection.
-
-- **Keyline-inspired water distribution:** The Ohana stonewall system at keyline positions distributed water from upper valleys across ridgelines to adjacent valleys at lower elevations. This is essentially the [[keyline-design]] principle, independently invented centuries before P.A. Yeomans formalized it in Australia.
+- **Ridge forest preservation:** The Ohana system recognized that ridge forests are the primary water generators for the entire watershed. Removing ridge forest eliminates the cloud forest effect, stops fog drip, and reduces or eliminates downslope springs. Modern [[keyline-design]] principle, independently invented centuries before P.A. Yeomans formalized it in Australia.
 
 - **Taro paddy irrigation:** Water flowing from the upper watershed through the keyline system was directed into taro paddies, where it was nutrient-enriched and then flowed into fish ponds and eventually to the nearshore marine environment, fertilizing algae blooms that supported mullet populations.
 
@@ -141,8 +126,6 @@ The Ohana system exemplifies permaculture principles centuries before permacultu
 - **Community-scale resilience:** Each Ohana unit was self-sufficient in food, water, and materials, creating resilience at the community scale rather than the individual or national scale.
 
 ## Related Pages
-
-- [[mollison-permaculture-low-islands]]
 
 - [[mollison-keyline-water-conservation]]
 

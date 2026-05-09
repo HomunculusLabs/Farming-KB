@@ -54,15 +54,7 @@ Research by Chang and Li (1998) demonstrated that Rhizopogon
 vinicolor is one of only three ectomycorrhizal fungal species capable
 of forming clearing halos in plate-based assays for mineral
 solubilization. The three species that demonstrated this ability were
-R. vinicolor, Hysterangium setchellii, and [[suillus-bovinus]]. These
-fungi were able to solubilize limestone, marble, and calcium
-phosphate in vitro, producing visible zones of clearance around
-fungal colonies on agar plates containing these mineral substrates.
-
-In contrast, several other ectomycorrhizal species tested in the same
-study did not exhibit mineral solubilization activity. Notably,
-[[cenococcum-geophilum]], [[hebeloma-crustuliniforme]],
-[[laccaria-laccata]], and Piloderma croceum did not clear the
+R. vinicolor, Hysterangium setchellii, and [[cenococcum-geophilum]], [[laccaria-laccata]], and Piloderma croceum did not clear the
 medium in any of the mineral solubilization assays. This differential
 capacity among ectomycorrhizal fungi has important implications for
 understanding how different fungal species contribute to mineral
@@ -124,9 +116,6 @@ ecological interaction linking fungi, trees, and animal vectors.
 
 ## See Also
 
-- [[suillus-bovinus]]
 - [[cenococcum-geophilum]]
-- [[hebeloma-crustuliniforme]]
 - [[laccaria-laccata]]
-- [[suillus-luteus]]
 - [[suillus-granulatus]]

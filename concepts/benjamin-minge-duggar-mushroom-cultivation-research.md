@@ -44,9 +44,7 @@ cultivation research.
 
 ### Disease Resistance
 
-His work on fungal plant diseases led to insights about the mechanisms by
-which cultivated mushrooms become susceptible to contamination and disease.
-Understanding the competitive ecology between mushroom [[mycelium]] and
+His work on [[mycelium]] and
 contaminant organisms was essential for developing more reliable cultivation
 practices.
 
@@ -64,10 +62,7 @@ with particular attention to the environmental triggers that initiate fruiting
 body formation in commercially important species. His experimental protocols
 for controlling temperature gradients and humidity cycling in growing chambers
 anticipated the environmental control systems used in modern commercial mushroom
-farms. He also studied the nutritional requirements of [[mycelium]] at
-different life stages, demonstrating that the substrate composition optimal for
-vegetative growth often differed from what was needed to induce reliable
-fruiting — a distinction that remains central to [[mushroom-cultivation]]
+farms. He also studied the nutritional requirements of [[mushroom-cultivation]]
 practice today.
 
 ## Legacy in Mycology
@@ -81,7 +76,6 @@ influenced generations of mycologists and mushroom cultivation scientists.
 ## See Also
 
 - aureomycin discovery chlortetracycline
-- [[agaricus-bisporus-cultivation-biology]]
 - [[mushroom-substrate-preparation-composting]]
 
 ## Cultivation Applications

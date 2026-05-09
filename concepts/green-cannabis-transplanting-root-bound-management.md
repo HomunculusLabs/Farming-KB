@@ -22,20 +22,7 @@ from one container to a larger one, or from a starter medium into the main
 grow environment, carries inherent risks but is often necessary to support
 healthy root development and vigorous vegetative growth. Greg Green's "The
 Cannabis Grow Bible" covers transplanting as a core pre-production technique
-that bridges the gap between [[green-cannabis-grow-bible-cloning-and-seed-propagation]] and the main vegetative phase.
-
-## When to Transplant
-
-Transplanting is done nearly always as early as possible in the plant's life
-cycle. One common scenario is when seedlings have outgrown their starter
-cubes or small pots and need to be moved into their final or intermediate
-containers. The grower may find that he or she needs a bigger pot during
-the stages between germination and vegetative growth.
-
-A transplant is defined as moving the plant along with its soil and root
-mass from one pot to another. The most straightforward example is lifting
-a seedling from a rockwool SBS tray along with the cube and placing it into
-another grow medium such as soil or a [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]. There is not much of a problem when transferring the cube and
+that bridges the gap between [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]. There is not much of a problem when transferring the cube and
 seedling to soil -- simply dig a small hole, place the cube in, and cover
 it with soil.
 
@@ -94,12 +81,7 @@ nutrient deficiencies, stunted growth, and general decline.
 
 The only cure for a root-bound plant is a bigger pot. This underscores the
 importance of proactive potting-up before the plant shows severe symptoms.
-Growers using [[green-cannabis-grow-bible-soil-and-medium-preparation]] should plan their container sizes in advance to minimize the number
-of transplants needed.
-
-## Nutrient Lockout and Emergency Transplant
-
-When [[green-cannabis-grow-bible-nutrient-management-ppm]] occurs -- the
+Growers using [[green-cannabis-grow-bible-nutrient-management-ppm]] occurs -- the
 plant cannot access nutrients due to chemical reactions, pH problems, or
 contaminants in the medium -- a transplant into fresh soil or a fresh
 hydroponics solution may be the most effective remedy. When in doubt,
@@ -116,7 +98,6 @@ Transplanting timing interacts with several other grow decisions:
 
 - green cannabis grow bible seed germination methods
   method determines the initial container and medium.
-- [[green-cannabis-grow-bible-vegetative-phase-management]] may include one or more pot-ups before flowering.
 - [[green-cannabis-grow-bible-nutrient-management-ppm]]
   should be paused or reduced after transplanting to avoid root burn.
 - Container choice affects how often transplanting is needed over the
@@ -132,3 +113,7 @@ must be moved to larger containers promptly, and emergency transplants can
 resolve severe nutrient lockout situations. Always handle plants by the
 soil, never by the stem, and allow a recovery period without feeding after
 any transplant operation.
+
+## See Also
+
+- [[cannabis-clone-rooting-and-transplanting]]

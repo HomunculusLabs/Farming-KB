@@ -105,16 +105,8 @@ Integrated multi-trophic aquaculture (IMTA) systems have been proposed, where du
 
 ## See Also
 
-- [[porphyra-umbilicalis]] — red alga with complementary protein content and umami flavor
 - [[chondrus-crispus]] — Irish moss, co-occurring red alga with different industrial applications
-- [[laminaria-digitata]] — brown kelp that serves as substrate for epiphytic dulse growth
 - [[ulva-lactuca]] — green alga sharing intertidal habitat with *P. palmata*
-- [[pleurotus-ostreatus]] — edible fungus with comparable protein density for nutritional comparison
 - [[moringa-oleifera]] — terrestrial superfood with similarly high iron and mineral content
-- [[permaculture]] — coastal permaculture design incorporating dulse harvesting and cultivation
-- [[bioremediation]] — seaweed nutrient extraction for coastal water quality management
-- [[carbon-sequestration]] — red algal contribution to blue carbon in coastal ecosystems
-- [[polyculture]] — multi-trophic aquaculture integrating dulse with other marine species
 - [[mycoremediation]] — fungal bioremediation complementary to algal nutrient extraction
-- [[agroforestry]] — integrated multi-trophic design parallels between land and sea
 - [[food-forest]] — marine kelp forests as analogs of terrestrial food forest systems

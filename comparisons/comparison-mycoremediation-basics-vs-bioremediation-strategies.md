@@ -20,43 +20,7 @@ rot basidiomycetes, for degrading persistent organic pollutants and
 sequestering heavy metals through biosorption.
 
 ## Mycoremediation Basics
-[[mycoremediation-basics]]
-Mycoremediation harnesses fungal mycelium to break down or sequester toxic
-contaminants. The approach was popularized by Paul Stamets, who demonstrated
-fungal remediation of oil-contaminated soil at the Battelle Marine Science
-Laboratory in Washington State, and formalized as a scientific discipline by
-Harbhajan Singh (2006). Fungi offer unique advantages: their mycelial networks
-can cover hectares, they tolerate extreme pH and temperature conditions, and
-white-rot fungi produce nonspecific extracellular enzymes that degrade a wide
-range of pollutants without needing to metabolize the compound directly.
-
-The three key enzyme systems drive pollutant breakdown. Lignin peroxidase
-(LiP) oxidizes non-phenolic aromatics with high redox potential, critical for
-PCB and dioxin degradation. Manganese peroxidase (MnP) generates diffusible
-Mn(III) chelates important for PAH breakdown. Laccase oxidizes phenols and
-chlorophenols using molecular oxygen rather than hydrogen peroxide; its
-substrate range can be extended with mediator compounds to attack additional
-pollutants. These enzymes attack their substrates through radical-based
-chemistry that is inherently nonspecific, making them effective against
-complex mixtures of pollutants.
-
-Beyond enzyme-mediated degradation, fungi provide biosorption of heavy metals
-through chelation by cell wall components (chitin, glucans, melanin),
-bioaccumulation through active intracellular uptake, and precipitation through
-pH modification. Aspergillus niger removed 91% of copper from swine effluent
-in one study. Fungal mycelium can also physically bind soil particles,
-reducing erosion and contaminant mobility at contaminated sites.
-
-Mycoremediation deployment involves inoculating substrate (straw, wood chips,
-sawdust) with selected fungal spawn and applying it to contaminated soil or
-water. The process is low-cost, self-propagating as mycelium extends through
-the contaminated matrix, and non-destructive to the landscape. The Battelle
-demonstration showed that fungal-treated soil supported insect colonization
-within weeks, followed by birds and seed-dispersing wildlife, demonstrating
-that mycoremediation can initiate full ecological succession.
-
-## Bioremediation Strategies
-[[bioremediation-strategies]]
+[[mycoremediation]]
 Bioremediation encompasses all biological approaches to contaminant removal:
 microbial bioremediation (primarily bacteria), mycoremediation (fungi), and
 phytoremediation (plants). The field classifies approaches along multiple
@@ -138,8 +102,6 @@ regulatory structure needed to deploy mycoremediation effectively.
 
 ## See Also
 
-- [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
-- [[bioremediation-using-fungi]] — detailed plant vs fungal comparison
-- [[biochar-soil-remediation]] — soil amendment supporting both approaches
+- [[fungal-bioremediation-mechanisms]] — detailed plant vs fungal comparison
 - [[bioaugmentation-strategies]] — introducing specific organisms for remediation
 - [[biostimulation-techniques]] — stimulating native microbial communities

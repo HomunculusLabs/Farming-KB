@@ -126,8 +126,6 @@ acted as constraints on the diffusion of mushroom use.
 
 ## See also
 
-[[emcdda-hallucinogenic-mushroom-dose-effects]]
 [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
-[[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
 [[emcdda-hallucinogenic-mushroom-polydrug-use-patterns]]
 [[emcdda-hallucinogenic-mushroom-route-administration-and-effects]]

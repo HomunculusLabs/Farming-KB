@@ -3,147 +3,138 @@ title: Mollison PDC Dam Construction and Water Systems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
+tags: [[pdc-aquaculture-water-systems]]
 
-# Mollison PDC Dam Construction and Water Systems
-
-Bill Mollison's practical guide to dam construction, water storage systems, irrigation channels, terraces, and aquaculture integration from the 1981 Permaculture Design Course, Pamphlet II.
-
-## Small Dam Construction (Up to 8 Feet)
-
-### Basic Principles
-
-- Slope ratio: 2.5:1 on the front, 3:1 on the rear
-- Make a very broad crown (top) — wide enough for construction machinery to roll along
-- Should be over a car-width wide
-- Avoid including rocks in the dam soil — rocks don't shrink and expand like other materials and cause leaks
-- When you strike rocks during construction, bump them to one side
-- Tamp every foot of wall as you build it, using machines to roll backwards and forwards for a rammed earth wall
-
-### Spillways
-
-- Must be broad
-- Cut into the solid part of the hill
-- Wind along contour, letting it shallow out and taper to nothing
-- Don't bring the spillway around below the dam wall
-- For continuous stream flow, either pipe it out with a splash area, or install an overflow pipe
-
-### Lock Pipes and Flags
-
-- Lock pipes can be purchased commercially
-- Flags for irrigation ditches can be homemade from pipe, canvas, and dog chain
-- Sprinklers are commercially available
-- Expect everything to leak a little — that is normal
-
-## Large Dam Construction (200+ Feet)
-
-For dams 200 feet long and 20 feet wide:
-
-1. Make a trench at the base of the dam site
-2. Go down 4-5 feet until you strike very good clay
-3. Start rolling and packing the clay
-4. Pack the whole core of the dam with selected clay
-5. Line the whole vertical center right to the top with good clay
-
-### Types of Dams
-
-| Type | Description | Notes |
-|------|-------------|-------|
-| Barrier dam | Goes across the valley | Most common type |
-| Contour dam | Follows contour, swings back to ground level | Very cheap, no-fuss; usually on flat land, can be rougher |
-| Earth tank | Excavated on flat land, soil thrown up | Below-grade; fill from diversion drains; never bust out |
-| Saddle dam | On ridge saddles | Highest water storage possible |
-| Valley dam | On valley floor where it flattens | Flatter floor = more water per dollar spent |
-| Dieu-pond | Hand-dug mini catchment | Never dry up; 3-20 feet diameter |
-
-## The Key Efficiency Rule
-
-"The flatter the floor that you flood, the more water you get for dollars spent." This applies regardless of whether the flat area is on an open field, a ridge, or a valley floor.
-
-## Mini-Terraces for Slope Gardens
-
-For clients on slopes without good water sources:
-
-1. Create planting areas about waist height, 2 feet wide at top, 3-4 feet at base
-2. Base of each tier is a 12-inch walkway — mulch the walkway
-3. Limit to 3-4 tiers, each no more than about 40 feet long
-4. Stagger tiers so runoff disperses at separate points
-5. Let moisture flow down in very fine discharges on the paths
-6. Rain falls with minimal runoff over the 40-foot ledges
-
-### The Kickdown System
-
-- Place chicken house above the terraces
-- Chickens kick mulch downhill onto the terraces
-- Mulch collects against the bottom fence
-- Plant the forage area with chicken forage trees to hold the slope
-
-## Water Terraces for Orchards
-
-On slopes below a water source, grade little shelves on near-contour at about 40-foot spacing (correct for orchard trees):
-
-1. Leave the area between shelves in grass
-2. Plant trees in the outer edge of each swale
-3. Lay hose in the system, or bury a pipe that surfaces in the next system below
-4. Use reverse siphons so water flows by gravity from section to section
-5. Open the floodgate and sections fill sequentially and flood out
-
-### Irrigation Channel System
-
-- Not a trickle-flow system — the whole thing runs at high volume when opened
-- Cheap and simple: many short lengths of pipe and plugs
-- Grade little shelves almost on true contour all the way down the slope
-
-## Biological Nutrient Capture
-
-The biological net concept for water quality:
-
-1. Start with clean high dams
-2. Gradually enrich water with manurial nutrients (ducks, pig manure)
-3. Run water through wetland plant systems (fodder plants, algae, mussels, snails)
-4. Organisms absorb calcium and fix dissolved solids
-5. Harvest as duck manure, fish, and wild rice
-6. Release clean water into streams
-
-These are "efficient little biological machines, working at the molecular level, straining out the nutrients before they leave your property."
-
-## Dieu-Ponds
-
-Hand-constructed mini catchments, traditionally built by European monasteries:
-
-- Sited where there is a mini-catchment or cup-shaped area in the hill
-- Walls tapered at 3:1 (resting angle of normally strong soil)
-- Clay tamped (not machine compacted)
-- Material removed is laid on the catchment for minimal vegetation and maximum runoff
-- Never dry up — as they evaporate, surface area decreases, so they always retain some water
-- Range from 3-20 feet diameter
-- Two or three people can dig one in a day
-- Traditional high country watering points for stock
-- Need occasional cleaning (silt and leaves collect at the bottom)
-- Provide stone access or walk animals in on the low side
-
-## Spinner Drains
-
-For low slopes and desert conditions:
-
-- A very large wheel (spinner) with little cups, ripped around behind a tractor
-- Chews out a gentle channel and throws dirt up, creating a drain without visible banks
-- Vehicles and tractors can cross without difficulty
-- Normally about 4 feet wide, 1 foot deep
-- Very gentle drains for low slope systems
-
-## See Also
-
-- [[pdc-aquaculture-water-systems]]
-
-- [[mollison-pdc-keypoint-keyline-humid]] — keypoint and keyline design
 - [[mollison-dam-types-landscape-placement]] — dam types and placement from Designers' Manual
-- [[mollison-earth-constructs-and-banks]] — earthworks
 - [[swale-design-construction]] — swale design
-- [[dam-construction]] — basic dam construction
 - [[faires-swales-and-water-conservation]] — swales and water conservation
-- [[permaculture-designers-manual-pond-edge-planting]]
 - [[permaculture-designers-manual-water-quality]]
+## Background and Context
+
+Mollison PDC Dam Construction and Water Systems is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

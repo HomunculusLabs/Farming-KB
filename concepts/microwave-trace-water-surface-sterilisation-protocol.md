@@ -135,11 +135,9 @@ interfaces can be sterilised without disassembly. This capability is
 particularly valuable for spacecraft ECLSS where maintaining aseptic
 access is critical.
 
-## Related Concepts
+## Related
 
 - [[microwave-surface-sterilization-technology]]
-- [[microwave-steam-flash-sterilization-mechanism]]
 - [[bacterial-spore-microwave-resistance]]
-- [[space-station-closed-system-aseptic-access-sterilization]]
 - [[microwave-penetration-elastomeric-materials]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]

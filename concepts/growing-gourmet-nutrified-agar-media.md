@@ -1,18 +1,7 @@
 ---
 title: Nutrified Agar Media for Mushroom Mycelium Culture
 created: 2026-04-26
-tags: [mycology, agar-media, mushroom-cultivation, lab-technique]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
-
-# Nutrified Agar Media for Mushroom Mycelium Culture
-
-Many formulations have been developed for the cultivation of mushrooms
-on a semi-solid [[cotter-agar-tissue-culture-techniques]]. Agar is a seaweed-derived compound that
+tags: [[cotter-agar-tissue-culture-techniques]]. Agar is a seaweed-derived compound that
 gelatinizes water. Nutrients are added to the agar/water base which,
 after growing gourmet sterilization, promote healthy
 mushroom mycelium. The agar medium most commonly used with the greatest
@@ -63,18 +52,7 @@ although some prefer to do so.
   - 20 g agar agar
 
 Dog food was first used as a component for agar medium by the late Dr.
-[[steven-pollock]].
-
-### Corn Meal, Yeast, Glucose Agar (CMYA)
-
-  - 1000 ml water (1 liter)
-  - 20 g agar agar
-  - 10 g cornmeal
-  - 5 g malt or glucose
-  - 1 g yeast
-
-Widely used by mycological laboratories for storing cultures; not as
-nutritious as other formulas. See also [[fungal-culture-preservation-methods]].
+[[fungal-culture-preservation-methods]].
 
 ## pH Considerations
 
@@ -123,21 +101,7 @@ promoting mutation factors, senescence, or loss of vitality.
 Strains grown repeatedly on mono-specific media for prolonged periods
 risk limiting the repertoire of digestive enzymes to just that
 formulation. A strain grown on one medium adapts to it and may lose its
-innate ability to digest larger, more complex and variable [[mushroom-cultivator-bulk-substrate]].
-To prevent a strain from becoming media-specific, rotate supplements
-and add end-substrate components at regular intervals.
-
-## Preparation and Sterilization Protocol
-
-The dry components are mixed together, placed into a flask, and 1 liter
-of water is added. Well-water, spring water, or mineral water works
-well. Chlorinated water is not recommended. Distilled water is
-unnecessary.
-
-Once thoroughly mixed, the media flask is placed into a
-growing gourmet sterilization. The top is stopped
-with non-absorbent cotton, wrapped in aluminum foil, or loosely capped.
-Sterilize for 45 minutes at 15 psi (250 degrees F). See [[cotter-pasteurization-sterilization-methods]] for details.
+innate ability to digest larger, more complex and variable [[cotter-pasteurization-sterilization-methods]] for details.
 
 Pressure cookers that do not release pressure during the sterilization
 cycle are ideal. The old-fashioned pressure canners, those having

@@ -98,31 +98,8 @@ and treat its soul with reverence. Westerners see man as
 surviving by the conquest of nature, so they think it only
 fitting that nature be rebuilt to suit his convenience. The
 drive in the West to protect the environment is also for
-the benefit of man, not nature. See [[fukuoka-food-and-health-philosophy]].
-
-## Stone Castles and the Decline of Nature
-
-In the West, castles, cathedrals, and even homes are all
-made of stone or brick. While the direct reason may be
-erosion exposing underlying rock, Fukuoka thinks an even
-more compelling reason was the notion of survival of the
-fittest, motivating people to protect themselves. A
-defensive attitude translates directly into an aggressive
-mentality. Houses made of stone or brick are dark and cold.
-
-He felt the gloominess of West European civilization arises
-from these prison-like stone castles and churches. A great
-deal of firewood is needed to make bricks. Because the Great
-Wall of China, ancient cities in the Middle East, and
-cities along the Silk Road were all made of bricks, trees
-disappeared and the soil died.
-
-At Salzburg, large trees grow outside the castle, but there
-is no dark soil at the base. There is clear evidence that
-this soil was once ruined. The crisis of stagnation
-associated with this culture of food, clothing, and shelter
-comes from the decline of nature. See also [[fukuoka-european-civilization-standstill]] and [[fukuoka-food-civilization-critique]].
+the benefit of man, not nature. See [[fukuoka-european-civilization-standstill]] and [[fukuoka-road-lawn-culture]]
 
 ## See Also
 
-- [[fukuoka-road-lawn-culture]]
+- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]

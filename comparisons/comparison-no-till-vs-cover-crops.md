@@ -22,21 +22,9 @@ Both no-till gardening and cover cropping are cornerstone practices for building
 | Aspect | No-Till | Cover Crops |
 |--------|---------|-------------|
 | **Primary mechanism** | Eliminates mechanical soil disturbance | Maintains livisheet-mulchingil year-round |
-| **Key benefit** | Preserves fungal networks and soil structure | Feeds [[soil-food-web]] during fallow periods |
-| **Implementation** | Discrete planting holes, sheet mulching | Seeding specific species between cash crops |
-| **Soil food web impact** | Protects existing fungal hyphae and earthworms | Provides continuous root exudates for microbes |
-| **Weed management** | Mulch-based suppression, no seed exposure | Living mulch competition, allelopathic species |
-| **Best suited for** | Any garden or farm transitioning away from tillage | Operations with identifiable fallow windows |
-| **Startup cost** | Low, primarily mulch materials | Low to moderate, seed purchase required |
-| **Visible results timeline** | Improvements within one to two growing seasons | Immediate root exudate benefit, soil gains compound |
+| **Key benefit** | Preserves fungal networks and soil structure | Feeds [[teaming-with-microbes-no-till-gardening-soil-health]] replaces mechanical soil turning with minimal-disturbance techniques. Planting holes are dug individually rather than with a broad fork or rototiller, weeds are suppressed through sheet mulching and thick organic layers rather than cultivation, and soil amendments are applied as topdressings that microbes naturally incorporate downward.
 
-## How No-Till Works
-
-[[teaming-with-microbes-no-till-gardening-soil-health]] replaces mechanical soil turning with minimal-disturbance techniques. Planting holes are dug individually rather than with a broad fork or rototiller, weeds are suppressed through sheet mulching and thick organic layers rather than cultivation, and soil amendments are applied as topdressings that microbes naturally incorporate downward.
-
-The practice directly addresses the extensive damage caused by tilling. [[teaming-with-microbes-tilling-damage-to-fungal-networks]], displaces soil biota from their established ecological niches, and shifts the fungal-to-bacterial ratio sharply toward bacteria. Each pass with a rototiller or plow severs mycorrhizal hyphae, crushes earthworm tunnels, and buries surface organic matter where anaerobic decomposition produces compounds toxic to plant roots. Tilling also releases carbon that was safely sequestered in stable soil aggregates, converting it to carbon dioxide that escapes into the atmosphere.
-
-By leaving soil undisturbed, no-till methods preserve the mycorrhizal associations that extend plant root access to nutrients and water by orders of magnitude. Bacterially dominated [[teaming-with-microbes-compost-tea-brewing-guide]] can be applied as surface drenches to support the microbial community without disrupting its established architecture.
+The practice directly addresses the extensive damage caused by tilling. [[teaming-with-microbes-compost-tea-brewing-guide]] can be applied as surface drenches to support the microbial community without disrupting its established architecture.
 
 ### The Role of Mulch in No-Till Systems
 

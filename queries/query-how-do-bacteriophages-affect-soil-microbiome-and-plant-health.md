@@ -119,11 +119,7 @@ Broad-spectrum chemical pesticides and some synthetic fertilizers can reduce bac
 
 ## Related
 
-- [[solomon-soil-temperature-and-nighttime-plant-growth]] Wiki Links
-
 - [[garden-soil-basics]] — Introduction to soil microbial communities
-- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]] — PGPR, nitrogen fixers, and mycorrhizal helpers
 - [[knf-hay-bacillus-disease-control]] — Using living organisms to fight plant diseases
-- [[gaias-garden-soil-building]] — Core practices for soil biology management
 - [[cover-crop-selection-guide]] — Choosing covers that feed soil life
 - [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] — Transition strategies for lower-spray systems

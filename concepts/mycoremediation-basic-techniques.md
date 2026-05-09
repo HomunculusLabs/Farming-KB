@@ -3,13 +3,7 @@ title: Mycoremediation Basic Techniques
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [mycology, remediation, environment]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-# Mycoremediation Basic Techniques
-
-Mycoremediation is the use of fungi to degrade or sequester contaminants in the environment. Fungi produce powerful enzymes that can break down an astonishing range of pollutants. From *Mycelium Running* by [[stamets-mycoremediation-principles]].
+tags: [[stamets-mycoremediation-principles]].
 
 ## Overview
 
@@ -119,11 +113,7 @@ Oyster mushrooms have been shown to fruit from containers filled with crude oil.
 
 ## Related Concepts
 
-- [[cotter-mycoremediation-overview]] — comprehensive mycoremediation guide
 - [[stamets-mycoremediation-principles]] — Stamets' core principles
-- [[mycofiltration-watershed-protection]]
 - [[mycorestoration-framework]] — umbrella restoration concept
-- [[fungal-decomposition-of-wood]] — enzymatic basis for remediation
 - [[spore-print-collection]]
-- [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]
 - [[mycelium-running-rot-fungi-wood-decomposition]]

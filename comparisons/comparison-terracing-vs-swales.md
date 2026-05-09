@@ -33,44 +33,7 @@ Terraces prioritize **cultivation area and access**. Their main job is creating 
 
 ### Construction Effort and Cost
 
-Terraces are significantly more expensive and labor-intensive to build. They require moving large volumes of earth, constructing stable risers, and often need retaining walls of stone, timber, or compacted earth. [[holzer-terrace-systems]] require excavating to stable subsoil, carefully preserving topsoil, and building embankments at controlled gradients. On steep slopes, terracing may require heavy machinery and engineering.
-
-Swales are comparatively simple and inexpensive. A basic contour swale can be dug with a hand tool or a small excavator in a day. No retaining structures are needed, and the earth moved is simply redistributed from trench to berm. The construction complexity lies mainly in accurate contour mapping using an A-frame level or laser level, not in the earthworks themselves.
-
-### Slope Suitability
-
-Terraces work on slopes from about 15 percent to over 50 percent — terrain too steep for swales to function safely. Swales work best on slopes between 1 percent and 20 percent. Below 1 percent, water does not flow enough to fill swales; above 20 percent, water velocity can overtop swales and cause catastrophic failure. This makes the two techniques complementary across different slope ranges rather than competing alternatives.
-
-### Maintenance Requirements
-
-Terraces require ongoing maintenance of risers, drainage channels, and retaining structures. A failed terrace riser can release a damaging cascade of soil and water downslope, making regular inspection critical after heavy rain events. Tree roots planted on risers help stabilize them over time, but the initial years require vigilance. Swales are lower-maintenance but can fill with sediment over time and may need periodic cleaning to maintain capacity. Swale berms may also need re-shaping if erosion occurs on the downhill face.
-
-### Water Management Approach
-
-Terraces manage water through **retention on flat surfaces** — each bench holds water like a shallow basin, allowing slow percolation. Swales manage water through **interception and infiltration** — they catch water in transit and let it percolate into the soil profile below and laterally along the contour. Terraces store water on the surface; swales store it in the ground. This means swales generally produce deeper groundwater recharge, while terraces keep moisture available in the root zone of the cultivated surface.
-
-### Biodiversity and Ecological Impact
-
-Terraces create distinct microclimates on each bench — the riser faces can be cooler and moister than the tread surfaces, creating niches for different species. When planted with diverse hedgerows, terraces function as wildlife corridors and habitat, providing shelter for birds, hedgehogs, and beneficial insects. However, the initial construction disturbance is significant. Removing topsoil, excavating to subsoil, and reshaping the land can set back soil biology by years, though careful topsoil management during construction (as Holzer emphasizes) minimizes this damage. Swales cause minimal disturbance during construction and their berms quickly become productive planting zones. The between-swale areas remain undisturbed, preserving existing vegetation and soil biology. For sites where ecological continuity is a priority, swales have a clear advantage.
-
-### Failure Modes and Risks
-
-Terrace failures can be catastrophic. If a riser collapses, the accumulated soil and water behind it release downslope, potentially triggering landslides. This risk is highest during intense rainfall events, on soils with poor cohesion, or where drainage channels are blocked. Proper engineering of riser gradients (typically 1:1 for stony soils, 1:1.5 to 1:2 for loamy soils) and integrated drainage are essential. Swale failures are generally less dramatic but can still cause problems. An overtopped swale concentrates water flow and can create erosion channels on the downhill face. Poorly leveled swales concentrate water at the low end, causing saturation and potential blowout. Both structures benefit from conservative design and phased construction — starting small, observing how water behaves in the first season, then expanding.
-
-## Swale Variations and Their Role
-
-Several swale types extend the basic concept to address different site conditions. **Contour swales** are the standard permaculture form, dug exactly on level for even water distribution along the entire length. **Diversion swales** carry a slight grade (0.5 to 2 percent) to redirect water from one area to another — useful for routing runoff away from buildings or toward storage. **Infiltration swales** are filled with gravel or coarse organic material for maximum percolation in small areas, commonly used in urban settings. **Net and pan swales** create interconnected patterns across arid landscapes to capture every possible drop of rainfall. **Boomerang swales** are crescent-shaped and used around individual trees or planting areas. Each variation addresses a specific condition, but all share the core principle of passive water capture on contour without the heavy earthmoving that terraces demand.
-
-## When to Choose Terraces
-
-- Slopes exceed 20 percent and swales would be unsafe or ineffective
-- You need flat, machine-accessible growing surfaces
-- The site calls for intensive vegetable production, orchards with equipment access, or paths on steep terrain
-- Landscape aesthetics favor the dramatic stepped appearance of terraces
-- You are working in a cultural or geographic tradition that favors terracing, such as Mediterranean dryland farming, Andean agriculture, or Southeast Asian rice terraces
-- The budget and labor resources support significant earthworks
-
-[[sepp-holzer-method]] uses terraces extensively at the Krameterhof in Austria, where slopes of 1,100 to 1,500m elevation are made productive through an intricate network of terraces, raised beds, ponds, and waterways. Holzer designs terraces to serve simultaneously as paths and access routes for mechanized equipment, maximizing their functional return on the earthwork investment.
+Terraces are significantly more expensive and labor-intensive to build. They require moving large volumes of earth, constructing stable risers, and often need retaining walls of stone, timber, or compacted earth. [[sepp-holzer-method]] uses terraces extensively at the Krameterhof in Austria, where slopes of 1,100 to 1,500m elevation are made productive through an intricate network of terraces, raised beds, ponds, and waterways. Holzer designs terraces to serve simultaneously as paths and access routes for mechanized equipment, maximizing their functional return on the earthwork investment.
 
 ## When to Choose Swales
 
@@ -82,43 +45,69 @@ Several swale types extend the basic concept to address different site condition
 - The site has moderate to high rainfall where runoff capture has meaningful impact
 - You are designing broad-acre systems where speed and scalability matter
 
-Swales are a core tool in [[mollison-designers-swale-design-and-water-harvesting-earthworks]] and are widely used in broad-acre permaculture for hydrating degraded, compacted, or eroding landscapes.
-
-## Combining Both Techniques
-
-On large or complex sites, terraces and swales work together as complementary elements rather than competing alternatives. A common pattern uses swales on moderate slopes (below the terrace zone) to capture and infiltrate runoff before it reaches the steepest ground, while terraces handle the sections too steep for swales alone. On the Krameterhof, terraces, swales, and ponds form an integrated water retention landscape where each element supports the others. Swales can also be incorporated into terraced systems by running along the base of each bench as a drainage and infiltration channel, preventing water from accumulating behind risers and causing structural failure. In dryland contexts, terraces at the top of a slope can slow the initial runoff, giving swales below more time to infiltrate what remains. The most resilient designs use both tools in concert, matched to the specific slope, soil, and rainfall conditions of each zone within the site.
-
-## Climate and Soil Considerations
-
-Climate significantly influences which technique performs better. In arid and semi-arid regions, every drop of water matters and swales paired with mulched berms often outperform terraces because they maximize infiltration while minimizing evaporation from exposed flat surfaces. In high-rainfall tropical regions, terraces excel at managing the massive volumes of water moving across slopes and preventing the landslides that steep tropical terrain is prone to. In temperate climates with moderate rainfall, either technique works well and the choice comes down to slope, budget, and production goals.
-
-Soil type also matters. Sandy, well-drained soils favor swales because water infiltrates quickly and the risk of waterlogging behind swale berms is low. Heavy clay soils can make swales problematic — water may pool for too long, creating anaerobic conditions. On clay soils, terraces with adequate surface drainage channels may be more reliable. Stony soils, as Holzer notes, allow steeper riser gradients (1:1) in terraces because the rock provides natural structural stability, while fine loamy soils require gentler gradients (1:1.5 to 1:2) to prevent slumping.
-
-## Design Process and Planning
-
-Both techniques benefit from careful observation before implementation. Holzer recommends observing the land for at least a year before making major earthworks, tracking how water moves during different seasons and storm events. For swales, accurate contour mapping is the critical first step — errors in leveling concentrate water at the low end and cause failure. An A-frame level, water tube level, or laser level are essential tools. For terraces, surveying the slope gradient and soil depth to bedrock or stable subsoil determines where terraces are feasible and how wide they can be. On slopes above 30 percent, professional engineering assessment is advisable before terracing.
-
-A phased approach reduces risk for both techniques. Start with a single swale or a short section of terrace, observe through at least one rainy season, then expand based on what you learn about how water actually behaves on your specific site. This is especially important on degraded or compacted land where soil behavior may differ from expectations.
-
-## Decision Summary
-
-| Factor | Terraces | Swales |
-|---|---|---|
-| Best slope range | 15 to 50+ percent | 1 to 20 percent |
-| Primary function | Create flat growing area | Capture and infiltrate water |
-| Construction cost | High | Low to moderate |
-| Maintenance | High (risers, walls, drainage) | Low to moderate (sediment removal) |
-| Equipment needed | Heavy machinery typical | Hand tools possible |
-| Ideal crops | Vegetables, grains, orchards | Trees, perennials, pasture |
-| Water strategy | Surface retention | Subsurface infiltration |
-| Landscape change | Major reshaping | Minimal reshaping |
-| Ecological disturbance | High initially | Low |
-| Groundwater recharge | Moderate | High |
-
-See also: [[comparison-hugelkultur-vs-terracing]], [[swale-design-construction]], [[holzer-terraced-landscape-design]], [[mollison-designers-swale-spacing-and-contour-interval]], [[comparison-keyline-vs-swale]], [[comparison-swale-vs-contour-line-water-management]]
+Swales are a core tool in [[comparison-hugelkultur-vs-terracing]], [[holzer-terraced-landscape-design]], [[comparison-keyline-vs-swale]], [[comparison-swale-vs-contour-line-water-management]]
 
 ## Conclusion
 
 Terraces and swales address the same fundamental problem — managing water and soil on slopes — but from opposite directions. Terraces reshape the land to eliminate the slope entirely, trading construction effort for flat, cultivable ground. Swales work with the existing slope, trading growing area for efficient water capture with minimal earthmoving.
 
 The best designs use each where it excels: swales on moderate slopes for hydration and groundwater recharge, terraces on steep ground where flat surfaces are the only practical option. Together, they form a complete toolkit for slope management that no single technique can match alone. Start with observation, match the tool to the conditions, and build incrementally.
+## Practical Considerations
+
+When working with Terracing vs Swales, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -115,8 +115,6 @@ This principle has implications far beyond agriculture. It suggests that many of
 
 ## See Also
 
-- [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
-- [[fukuoka-textdoc-non-causality-rice-blast-disease]]
 - [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]

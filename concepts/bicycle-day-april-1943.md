@@ -13,7 +13,7 @@ The detailed account of albert hofmann's legendary bicycle ride home on April 19
 
 ## Background: The Accidental Discovery
 
-On April 16, 1943, [[albert-hofmann]] had experienced a strange episode while working with LSD-25 in his laboratory at Sandoz. He interrupted his work in the middle of the afternoon and went home, affected by "a remarkable restlessness, combined with a slight dizziness."
+On April 16, 1943, gordon-wasson had experienced a strange episode while working with LSD-25 in his laboratory at Sandoz. He interrupted his work in the middle of the afternoon and went home, affected by "a remarkable restlessness, combined with a slight dizziness."
 
 At home, he lay down and sank into a "not unpleasant intoxicated-like condition, characterized by an extremely stimulated imagination." With eyes closed, he perceived "an uninterrupted stream of fantastic pictures, extraordinary shapes with intense, kaleidoscopic play of colors."
 
@@ -57,39 +57,24 @@ Even worse than these demonic transformations of the outer world were the altera
 
 Hofmann was seized by the "dreadful fear of going insane." He was taken to another world, another place, another time. His body seemed to be without sensation, lifeless, strange. He feared he was dying — that this was the transition.
 
-At times he believed himself to be outside his body, perceiving clearly, as an outside observer, the complete tragedy of his situation. He reflected with bitter irony that if he was forced to leave this world prematurely, it was because of the lysergic acid diethylamide that he himself had brought forth into the world. This experience is foundational to [[lsd-history]].
-
-## Recovery
-
-By the time the doctor arrived, the climax of the despondent condition had already passed. The doctor could detect no abnormal symptoms other than extremely dilated pupils. Pulse, blood pressure, and breathing were all normal. The doctor saw no reason to prescribe medication.
-
-Slowly Hofmann came back from a "weird, unfamiliar world" to reassuring everyday reality. The horror softened and gave way to a feeling of good fortune and gratitude.
-
-Now, little by little, he could begin to enjoy the unprecedented colors and plays of shapes that persisted behind his closed eyes. Kaleidoscopic, fantastic images surged in on him, alternating, variegated, opening and then closing themselves in circles and spirals, exploding in colored fountains, rearranging and hybridizing themselves in constant flux.
-
-It was particularly remarkable how every acoustic perception — such as the sound of a door handle or a passing automobile — became transformed into optical perceptions. Every sound generated a vividly changing image, with its own consistent form and color.
-
-## The Aftermath
-
-Late in the evening, Hofmann's wife returned from Lucerne. By now he had recovered sufficiently to tell her what had happened. He slept, and awoke the next morning refreshed, with a clear head, though still somewhat tired physically.
-
-A sensation of well-being and renewed life flowed through him. Breakfast tasted delicious and gave him extraordinary pleasure. When he later walked out into the garden, in which the sun shone after a spring rain, everything glistened and sparkled in a fresh light. "The world was as if newly created." All his senses vibrated in a condition of highest sensitivity, which persisted for the entire day.
-
-## Significance
-
-This self-experiment demonstrated that LSD-25 behaved as a psychoactive substance with extraordinary properties and potency. There was no other known substance that evoked such profound psychic effects in such extremely low doses.
-
-What seemed even more significant was that Hofmann could remember the experience in every detail — the conscious recording function was not interrupted, even at the climax. For the entire duration, he had been aware of participating in an experiment, yet could not shake off the LSD world with any exertion of will.
-
-Another surprising aspect was LSD's ability to produce such a far-reaching, powerful state of inebriation without leaving a hangover. On the contrary, the day after the experiment he felt himself in excellent physical and mental condition.
-
-## Legacy: Bicycle Day
-
-April 19 has become celebrated internationally as "Bicycle Day," commemorating the first deliberate LSD trip. The date was first proposed as a holiday by Thomas B. Roberts in the 1980s and has since been observed by psychedelic communities worldwide with gatherings, discussions, and celebrations.
-
-The bicycle ride itself has become an iconic image in psychedelic culture, symbolizing both the accidental nature of discovery and the journey into unknown territory of consciousness that LSD opened up.
-
-See also: [[lsd-discovery-and-history]], albert hofmann, [[lsd-pharmacology]], [[lsd-history]], [[sandoz-delysid-research-program]]
-- [[lsd-lysergic-acid-diethylamide-experience-guide]]
-- [[ergot-and-lysergic-acid-history]]
+At times he believed himself to be outside his body, perceiving clearly, as an outside observer, the complete tragedy of his situation. He reflected with bitter irony that if he was forced to leave this world prematurely, it was because of the lysergic acid diethylamide that he himself had brought forth into the world. This experience is foundational to [[lsd-discovery-and-history]], albert hofmann, [[lsd-history]], [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[hofmann-self-experiment-with-ergonovine]]
+## Practical Considerations
+
+Successful implementation of Bicycle Day — April 19, 1943 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -6,7 +6,7 @@ sources:
   - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
   - "magic-mushrooms-around-the-world-by-jochen-gartz.md"
 type: concept
-tags: [mushroom-cultivation, psilocybin]
+tags: [[mushroom-cultivation, psilocybin]
 ---
 
 # Global Psilocybin Mushroom Distribution
@@ -124,16 +124,8 @@ energy or consciousness, consistent with psychoactive mushroom use. The
 mushroom shapes depicted resemble [Psilocybe semilanceata and Psilocybe species with umbonate caps. Despite this
 ancient heritage, the African psychoactive mycoflora remains largely
 unstudied.
-- [[stropharia-rugoso-annulata-mycofiltration]]
 - [[fungi-around-the-world-species-distribution]]
-- [[psilocybin-north-america-pacific-northwest]]
 - [[psilocybin-mushroom-distribution-worldwide]]
-- [[microfungal-species-diversity-large-areas]]
-
-## See Also
-
 - [[gartz-magic-mushrooms-global-distribution-patterns]]
-- [[gartz-magic-mushrooms-species-africa]]
 - [[gartz-magic-mushrooms-species-asia-and-oceania]]
-- [[gartz-magic-mushrooms-species-central-america]]
 - [[gartz-magic-mushrooms-species-south-america]]

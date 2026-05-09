@@ -136,14 +136,9 @@ THC prevented the neurotoxic effects of MDMA, suggesting a general neuroprotecti
 
 ## Related
 
-- [[cannabis-concentrates-and-extracts]]
-
 - [[cannabis-neurological-conditions]]
-
-- [[cannabis-for-hepatitis-and-liver-conditions]]
 
 - [[cannabis-for-neurological-conditions]] Topics
 
-- [[cannabis-for-neuropathic-pain]]
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-neuropathic-pain]]

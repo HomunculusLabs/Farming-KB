@@ -1,20 +1,19 @@
 ---
-title: Homestead Planning And Zoning
-created: 2026-05-06
-updated: 2026-05-06
+title: Homestead Planning and Zoning
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
-tags: []
+tags: [homesteading, law, design, sustainability, permaculture]
 sources: []
 ---
 
----
-ti
-
 # Homestead Planning and Zoning
 
-Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and legal battles that drain time and money. Research before you buy, not after youhomesteadingUnderstanding Zoning
+Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and legal battles that drain time and money. Research before you buy, not after you build.
 
-Zoning is local government regulation of land use. Every county and municipality has its own zoning code. Key zoning categories relevant to [[homesteading]]:
+## Understanding Zoning
+
+Zoning is local government regulation of land use. Every county and municipality has its own zoning code. Key zoning categories relevant to homesteading:
 
 - **Agricultural (A, AG, AG-1, AG-2)** — most permissive for homesteading. Typically allows livestock, crops, outbuildings, and home businesses with minimal restriction. Setback requirements still apply.
 - **Rural Residential (RR, R-5, R-10)** — allows single-family homes with larger lot sizes. May permit some livestock (usually chickens, sometimes goats) with restrictions on number and sex. Outbuildings often require permits.

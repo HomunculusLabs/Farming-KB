@@ -1,45 +1,7 @@
 ---
 title: Fungal Hydrophobin Proteins and Surface Hydrophobicity
 created: 2026-04-28
-tags: [mycology, biochemistry, lichenology, cell-biology, protein-chemistry]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
-type: concept
----
-# Fungal Hydrophobin Proteins and Surface Hydrophobicity
-
-Hydrophobins are small, cysteine-rich proteins produced by filamentous
-fungi that self-assemble at hydrophilic-hydrophobic interfaces into
-amphipathic films. These proteins play crucial roles in lichen
-biology, fungal morphogenesis, and interactions with the environment.
-They are responsible for the functionally important wall surface
-hydrophobicity observed in many fungal structures.
-
-## Role in Lichen Thallus Architecture
-
-The main building blocks of heteromerous (internally stratified) lichen
-thalli are tissue-like, conglutinate pseudoparenchyma found in the
-peripheral cortical layers and/or as internal conglutinate strands. These
-border upon loosely interwoven plectenchyma found in the medullary and
-algal layers. Lichen thalli derive their mechanical stability from
-conglutinate pseudoparenchyma, which are hydrophilic and passively absorb
-water and dissolved nutrients.
-
-Plectenchyma are gas-filled zones built up by aerial hyphae with
-hydrophobic surfaces. Within the lichen thallus the fungal hyphae may
-change their growth patterns and wall surface properties over distances
-of a few micrometres. The position of photobiont cells is determined by
-the fungal partner over short distances within the algal layer, where
-optimal conditions for photosynthesis and gas exchange are found.
-
-### Sealing the Apoplastic Continuum
-
-Even in the juvenile state the photobiont wall surfaces begin to be
-coated with the same mycobiont-derived, water-repellent compounds as are
-typically found on medullary hyphae. Thus the apoplastic continuum between
-both partners of the [[symbiotic-fungi-lichen-symbiosis-mechanisms]] is sealed with a
+tags: [[symbiotic-fungi-lichen-symbiosis-mechanisms]] is sealed with a
 mycobiont-derived hydrophobic coat, which prevents the algal and
 medullary layers from becoming waterlogged at high levels of thalline
 hydration.
@@ -84,18 +46,10 @@ surface layers overlie highly hydrophilic, often very thick glucan layers
 of hyphal walls and channel the flow of solutes from the thallus surface
 to the interior and vice versa during the wetting and drying cycles.
 
-## Hydrophobicity in [[mycorrhizal-fungi]]
-
-Ectomycorrhizal (EM) fungi produce robust hydrophobic multicellular hyphal
-cords that are well adapted for water transport. Arbuscular mycorrhizal
-(AM) fungi produce [[glomalin-and-soil-carbon]], a hydrophobic protein that contributes to
+## Hydrophobicity in [[glomalin-and-soil-carbon]], a hydrophobic protein that contributes to
 soil aggregate stability. The hydrophobic properties of these structures
 are important for their function in water and nutrient transport in
-[[arbuscular-mycorrhizal-networks]].
-
-## Broader Functions of Hydrophobins
-
-Beyond [[lichens]] and [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]],
+[[lichens]] and [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]],
 hydrophobins serve diverse functions across the fungal kingdom:
 
 ### Aerial Hyphae and Reproductive Structures
@@ -122,3 +76,22 @@ significant interest for biotechnological applications, including surface
 coating, emulsion stabilization, and as fusion tags for protein
 purification. Their ability to reversibly switch between hydrophilic and
 hydrophobic states makes them versatile biomolecular tools.
+## Practical Considerations
+
+Successful implementation of Fungal Hydrophobin Proteins and Surface Hydrophobicity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

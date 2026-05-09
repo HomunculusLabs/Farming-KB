@@ -1,7 +1,7 @@
 ---
 title: Global Biogeography of Neurotropic Mushrooms
 created: 2026-04-28
-tags: [mycology, biogeography, psilocybin-mushrooms, fungal-distribution, ethnobotany]
+tags: [[mycology, biogeography, psilocybin-mushrooms, fungal-distribution, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -25,14 +25,7 @@ The 216 known species of neurotropic fungi are divided into four groups:
 1. **Species with psilocybin and related indoles** (182+ species): The
    largest group, containing species confirmed or suspected to harbor
    psilocybin, psilocin, baeocystin, and norbaeocystin. Dominated by the
-   genus [[psilocybe-baeocystis]] (116 species), with additional genera including
-   [[gymnopilus-purpuratus]] (14 species), [[panaeolus-foenisecii-taxonomy-debate]] (13 species),
-   [[copelandia-genus-species-guide]] (12 species), Hypholoma (6 species), [[pluteus-salicinus-profile]] (6
-   species), [[inocybe-aeruginascens]] (6 species), [[conocybe-cyanopus]] (4 species),
-   Panaeolina (4 species), and Gerronema, Agrocybe, Galerina, and Mycena
-   (1 species each).
-
-2. **Species with ibotenic acid** (3 species): [[amanita-muscaria-guide]], A.
+   genus [[gymnopilus-purpuratus]] (14 species), [[copelandia-genus-species-guide]] (12 species), Hypholoma (6 species), [[inocybe-aeruginascens]] (6 species), [[amanita-muscaria-guide]], A.
    pantherina, and A. regalis, which contain isoxazole derivatives rather
    than indole alkaloids.
 
@@ -112,11 +105,8 @@ present high diversity despite being poorly explored relative to Europe.
 
 ## See Also
 
-- [[guzman-magic-mushrooms-neotropical-species]] for Central and South
-  American distribution
 - [[guzman-magic-mushrooms-temperate-zone-species]] for North American and
   European species
-- [[guzman-magic-mushrooms-habitat-ecology]] for ecological preferences
 - [[guzman-magic-mushrooms-chemical-constituents]] for chemistry of active
   compounds
 - [[guzman-magic-mushrooms-ethnomycological-traditions]] for cultural use

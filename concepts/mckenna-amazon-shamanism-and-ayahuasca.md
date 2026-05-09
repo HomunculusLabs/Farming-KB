@@ -10,8 +10,7 @@ tags: [ayahuasca, shamanism]
 
 # McKenna on Amazon Shamanism and Ayahuasca
 
-[[psychedelic-mushrooms-species-and-identification]]'s experiences in the Upper Amazon basin beginning in 1970
-form the empirical foundation for many arguments in [[mckenna-food-of-the-gods-thesis]]. His fieldwork among mestizo and indigenous Amazonian peoples
+[[mckenna-food-of-the-gods-thesis]]. His fieldwork among mestizo and indigenous Amazonian peoples
 convinced him that shamanism is
 often intuitively guided group decision making, and that ayahuasca
 represents one of the most sophisticated pharmacological and spiritual
@@ -59,45 +58,7 @@ The slow release produces a four-to-six-hour visionary experience.
 
 ## The Ayahuasca Experience
 
-The ayahuasca experience differs markedly from smoked [[mckenna-dmt-experience-and-hyperspace]].
-It is gentler and of much greater duration, with themes and hallucinations
-oriented toward the organic and natural world -- in marked contrast to the
-titanic, alien, off-planet motifs of the DMT flash. The experience includes
-extremely rich tapestries of visual hallucination particularly susceptible to
-being "driven" and directed by sound, especially vocally produced sound.
-
-## Icaros: Magical Songs
-
-One of the most important legacies of ayahuasca-using cultures is the large
-repository of icaros, or magical songs. The effectiveness, sophistication,
-and dedication of an ayahuasquero is predicated upon how many icaros he or
-she has effectively memorized. In curing sessions, both patient and healer
-ingest ayahuasca, and the singing of magical songs becomes a shared
-experience that is largely visual. Sound and suggestion are used to direct
-healing energy into parts of the body and unexamined aspects of personal
-history where psychic tension has accumulated.
-
-## Healing and Health
-
-Ayahuasca is regarded as a general-purpose healing elixir, called la purga
-("the purge"). Its effectiveness in combating intestinal parasites has been
-proven, and its effectiveness against malaria is under investigation. Its
-long history of effective shamanic use in folk psychiatry has been documented
-by Naranjo, Dobkin de Rios, Luna, and others. McKenna reports that the
-long-term effect among mestizo populations is "an extraordinary state of
-health and integration." The methods of ayahuasqueros sometimes exhibit
-startling parallels to modern psychotherapy and at other times seem to
-represent an understanding of energies still unrecognized by Western
-theories.
-
-## Amazonian Shamanism as Social Catalyst
-
-From observing ayahuasca-using peoples, McKenna concluded that shamanism is
-often intuitively guided group decision making -- shamans decide when the
-group should move, hunt, or make war. Human cognition is an adaptive
-response profoundly flexible in managing what in other species are
-genetically programmed behaviors. The ayahuasca tradition thus serves as
-McKenna's model for how psychedelic plants function as [[mckenna-catalytic-psychedelics-and-culture]].
+The ayahuasca experience differs markedly from smoked [[mckenna-catalytic-psychedelics-and-culture]].
 
 ## Historical Discovery by Western Science
 
@@ -110,16 +71,10 @@ psychopharmacology's interest dates to the 1920s Renaissance in Germany.
 
 ## See Also
 
-- [[mckenna-maya-tobacco-shamanism-enemas]]
-
 - [[harner-ayahuasca-shamanism-amazon]]
 
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-dmt-amazonian-ecosystems]]
-- [[mckenna-dmt-experience-and-hyperspace]]
 - [[mckenna-psychedelic-shamanism]]
-- [[mckenna-techniques-of-ecstasy]]
 - [[ayahuasca-preparation-and-ceremony]]
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[mckenna-catalytic-psychedelics-and-culture]]

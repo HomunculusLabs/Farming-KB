@@ -87,31 +87,15 @@ If rice seedlings show disease in the seedbed:
 
 ## Root Settlement and High Yield
 
-High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[jadam-natural-pest-control-methods]] (Program 14) combines JMS, sea salt, phyllite solution, and wild grass JLF for comprehensive root zone treatment:
-
-- JMS 500L for up to 3.3 ha (8 ac)
-- Sea salt 0.5 kg per 0.1 ha (dissolved in 20L water first)
-- Phyllite solution 20L per 0.1 ha
-- Wild grass/crop residue JLF 20L per 0.1 ha
-
-Apply generously and often before sprouting or flowering. For greenhouses, mix with water and soak soil deeper than 1 meter. For open fields, apply undiluted before rain. Apply 3-4 times per month during growth.
-
-## Why This Works: The "Area = Food" Principle
-
-For a microbe, area equals food. Pathogens are heterotrophs that feed on living plant tissue. If you introduce millions of diverse microorganisms to the root zone, they occupy the "area" and crowd out pathogens. This is the same principle behind [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] foliar application -- it is a battle of numbers, and diversity + population wins.
+High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] foliar application -- it is a battle of numbers, and diversity + population wins.
 
 ## See Also
 
-- [[jadam-leaf-mold-source-collection-and-artificial-production]]
-
 - [[jadam-microorganism-solution-jms]] -- culturing and applying leaf mold microbes
-- [[jadam-pest-control-recipes]] -- Program 14 soil foundation recipe
 - [[jadam-sulfur-application]] -- JS seed disinfection for rice
 
 ## Related
 
-- [[jadam-pesticide-research-cup-method]]
 - [[hot-composting-method]]
-- [[compost-building-guide]]
 - [[jadam-leaf-mold-soil-method]]
 - [[jadam-fruit-tree-winter-pest-control]]

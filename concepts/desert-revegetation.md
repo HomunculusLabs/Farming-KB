@@ -98,8 +98,6 @@ initiatives.
 
 ## See Also
 
-- [[clay-seed-pellets]]
 - [[natural-farming]]
-- [[fungal-succession-seral-vegetation]]
 - [[desertification]]
 - [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]

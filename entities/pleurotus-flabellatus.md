@@ -102,14 +102,9 @@ The mushroom absorbs marinades readily and develops good umami depth when sauté
 
 ## See Also
 
-- [[pleurotus-ostreatus]]
 - [[pleurotus-djamor]]
-- [[pleurotus-eryngii]]
 - [[pleurotus-cornucopiae]]
-- [[pleurotus-pulmonarius]]
 - [[pleurotus-citrinopileatus]]
-- [[lentinula-edodes]]
-- [[trametes-versicolor]]
-- [[spore-print]]
+- [[trametes-versicolor-entity]]
 - [[substrate-pasteurization]]
 - [[biological-efficiency]]

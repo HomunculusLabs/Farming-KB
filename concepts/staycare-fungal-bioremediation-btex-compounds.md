@@ -8,15 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# [[fungal-bioremediation]] of BTEX Compounds
-
-BTEX compounds (benzene, toluene, ethylbenzene, and o-, m-, and p-xylenes)
-constitute a family of priority environmental pollutants listed by the US
-Environmental Protection Agency. As major components of gasoline and
-aviation fuels, BTEX compounds enter soil, sediments, and groundwater
-from leaking underground storage tanks, pipelines, accidental spills,
-and inadequate waste disposal practices. White rot fungi, particularly
-[[phanerochaete-chrysosporium]], have demonstrated significant capabilities
+# [[phanerochaete-chrysosporium]], have demonstrated significant capabilities
 for BTEX degradation.
 
 ## Sources and Environmental Impact
@@ -122,7 +114,5 @@ BTEX compounds while managing the volatile nature of these contaminants.
 
 ## See Also
 
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[staycare-cytochrome-p450-in-fungal-biodegradation]]
-- [[staycare-fungal-pesticide-pop-degradation]]
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]

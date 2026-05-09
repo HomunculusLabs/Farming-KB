@@ -93,12 +93,7 @@ FPJ should be stored in a cool, dark place in sealed glass or ceramic containers
 
 ## See Also
 
-- [[bionutrients-lab-fermented-plant-juice-fpj]]
 - [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-- [[fermented-plant-juice-preparation-and-application]]
 - [[jadam-fermented-plant-juice-preparation]]
-- [[cho-fermented-plant-juice-preparation]]
-
 - [[indigenous-microorganisms-imo]] — the microbial foundation of KNF
-- [[lactic-acid-bacteria-serum-labs]] — provides the lactic acid bacteria for FPJ fermentation
 - [[oriental-herbal-nutrient-ohn]] — complementary KNF input for reproductive growth stages

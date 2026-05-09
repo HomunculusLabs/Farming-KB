@@ -93,8 +93,6 @@ After eight years of planned grazing on the Barlite Ranch in Texas, dramatic imp
 
 ## See Also
 
-- [[permaculture-grazing-and-pasture]]
 - [[permaculture-designers-manual-grazing-management]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]
 - [[homestead-financial-planning]]

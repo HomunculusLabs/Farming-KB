@@ -3,7 +3,7 @@ title: Sequestrate Fungi — Truffles, False Truffles, and Hypogeous Fungi
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -116,15 +116,9 @@ Some animals eat almost nothing but sequestrate fungi, demonstrating their nutri
 - Plot frequency (presence/absence) is the most useful abundance measure
 
 ## See Also
-- [[sequestrate-fungi-ecology-evolution]]
-
 - [[sequestrate-fungi-diversity]]
 
-- [[truffle-evolution-and-hypogeous-fungi]]
-
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[macrofungal-sampling-design-plots-transects]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[saprobic-soil-fungi-ecology-survey]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]

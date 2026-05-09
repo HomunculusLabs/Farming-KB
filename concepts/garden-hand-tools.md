@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Garden Hand Tools
 
@@ -31,30 +32,11 @@ Forged steel rakes are best. Those with more than 12 teeth are difficult to use 
 Own two hoes minimum:
 - **Dutch (push) hoe:** Push backward and forward while walking backward to avoid treading weeds back in. Keep blade no more than 1/2in below surface
 - **Swan-necked (draw) hoe:** For weeds too large for the Dutch hoe, earthing-up vegetables, and making seed rows
-- **Onion hoe:** Small, ideal for working between closely planted items on [[deep-bed-cultivation]]
-- **Wheel hoe:** Great time-saver on larger vegetable plots. Space rows to suit the hoe width
-
-### Hollow-Tined Fork
-
-Removes cores of soil from lawns. Fill holes with gravel, sand, or compost to improve [[acid-and-alkaline-soil-management]] or water retention.
+- **Onion hoe:** Small, ideal for working between closely planted items on [[acid-and-alkaline-soil-management]] or water retention.
 
 ### Shovel
 
-Not simply a large spade -- the angled blade makes shoveling quicker. Main use for mixing [[compost-building-guide]] or shifting soil. A builder's shovel with metal handle will last a lifetime.
-
-## Essential Hand Tools
-
-### Trowel
-
-Used extensively in ornamental and vegetable gardens for planting. Buy stainless steel.
-
-### Hand Fork
-
-Useful for weeding and smoothing border soil, though less versatile than a trowel.
-
-### Pocket Knife
-
-The most-used tool in the garden. Keep it sharp with a silicon carbide sharpening stone. A budding knife has a notch at the blade bottom for [[holzer-grafting-fruit-tree-propagation]] work.
+Not simply a large spade -- the angled blade makes shoveling quicker. Main use for mixing [[holzer-grafting-fruit-tree-propagation]] work.
 
 ### Edging Knife
 
@@ -62,25 +44,7 @@ Half-moon-shaped tool for cutting lawn edges. Some gardeners manage fine with ju
 
 ### Secateurs
 
-Two types: anvil and parrot-bill. Both work well for most [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] jobs. Never cut branches too thick for the tool -- use long-handled pruners for large fruit trees.
-
-### Pruning Saw
-
-Slightly curved with a narrow blade for cutting branches too large for secateurs in restricted spaces.
-
-### Shears
-
-Two pairs needed: short-handled for hedges, long-handled for lawn edges. Expensive shears that hold a sharp edge are worth the investment.
-
-## Watering Equipment
-
-### Watering Can
-
-Buy the largest you can carry comfortably. For greenhouse use, ensure a long handle and spout to reach the back of staging. A fine nozzle for seedlings is essential.
-
-### Hose
-
-Buy the more expensive type that does not kink easily. Store on a through-feed reel. A [[coleman-drip-irrigation-and-water-management]] can be left permanently under plastic mulches.
+Two types: anvil and parrot-bill. Both work well for most [[coleman-drip-irrigation-and-water-management]] can be left permanently under plastic mulches.
 
 ### Sprinkler
 
@@ -88,17 +52,7 @@ Choose one with a fine spray pattern on a tall stand. A fine-spray sprinkler wor
 
 ### Sprayer
 
-Choose one that breaks up solution into small droplets for even coverage. This means fewer chemicals are needed for [[hamilton-pest-and-disease-control-organic]].
-
-## Useful Homemade Tools
-
-### Sieve
-
-1/16in (1.5mm) mesh for sprinkling fine compost over seeds. Nail plastic mesh onto a square or circular frame.
-
-### Planting Board
-
-10ft long, 3x1in wood with sawcuts every 3in and nails marking 12in divisions. For [[deep-bed-cultivation]], make a 4ft board with 6in divisions.
+Choose one that breaks up solution into small droplets for even coverage. This means fewer chemicals are needed for [[deep-bed-cultivation]], make a 4ft board with 6in divisions.
 
 ### Dibber
 

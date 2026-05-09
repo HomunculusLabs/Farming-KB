@@ -141,9 +141,6 @@ extracts were pooled and the solvent removed under vacuum. There
 remained 11.0 g of an almost white oil with a startling apple smell.
 ## See Also
 
-- [[2-toet-entity-pihkal]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[methyl-dob-entity-pihkal]]
 - [[ethyl-j-entity-pihkal]]
-- [[pihkal-qualitative-effects-themes]]
 - [[tomso-entity-pihkal]]

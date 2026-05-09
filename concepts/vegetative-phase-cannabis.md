@@ -13,14 +13,7 @@ tags: [cannabis]
 The vegetative phase is the growth stage where cannabis develops its root system, stem,
 branch structure, and foliage before flowering. Strong, healthy vegetative growth is the
 foundation of a heavy harvest. This stage is maintained by providing 16 or more hours
-of light daily via the [[photoperiod-cannabis]].
-
-## Duration
-
-Vegetative growth typically lasts 4-8 weeks from seed or 2-4 weeks for rooted clones,
-depending on the desired plant size. Cannabis can theoretically remain in vegetative
-growth indefinitely as long as an 18-hour or longer photoperiod is maintained. Some
-growers keep [[greg-green-mother-plants-and-clone-maintenance]] in perpetual vegetative growth for
+of light daily via the [[greg-green-mother-plants-and-clone-maintenance]] in perpetual vegetative growth for
 years.
 
 ## Light Requirements
@@ -43,18 +36,7 @@ foliage and stem development. When chlorophyll production is full speed ahead, a
 vegetative plant will produce as much green, leafy foliage as it is genetically possible
 to manufacture as long as light, CO2, nutrients, and water are not limited. Plants
 should receive increasing nutrient concentrations as they grow larger. Monitor
-[[cannabis-nutrient-lockout-and-ph]] to ensure proper feeding levels.
-
-Transpiration is carried on at a more rapid rate during vegetative growth, requiring
-more water. High levels of nitrogen are needed; potassium, phosphorus, calcium,
-magnesium, sulfur, and trace elements are used at much faster rates. The larger a
-plant gets and the bigger the root system, the faster the soil will dry out.
-
-## Root Development
-
-A strong root system is critical. Roots develop in darkness and need adequate oxygen,
-water, and nutrients. Compacted or waterlogged soil limits root growth and nutrient
-uptake. Well-draining Cannabis Growing Mediums with proper [[ph-management-cannabis]]
+[[ph-management-cannabis]]
 encourage vigorous root development. Root mass directly correlates to above-ground
 growth and final yield.
 
@@ -94,7 +76,7 @@ regimen, pre-flowers show more quickly and are often more pronounced.
 
 ## Cloning and Transplanting
 
-The vegetative stage is when [[cannabis-cloning]], [[transplanting-techniques-low-input]],
+The vegetative stage is when [[transplanting-techniques-low-input]],
 pruning, and training are performed. Clones taken during vegetative growth root reliably
 and grow vigorously. Transplanting to progressively larger containers should be done
 before plants become root-bound.
@@ -108,30 +90,11 @@ move and maintain than big plants in big containers.
 Several training methods are applied during vegetative growth to improve yield and plant
 structure:
 
-- **[[topping-cannabis]]:** Cutting the main stem tip to promote two dominant colas
 - **[[fimming]]:** Similar to topping but leaves partial growth tips for multiple tops
-- **[[low-stress-training]]:** Bending and tying branches to create an even canopy
 - **[[sea-of-green]]:** Growing many small plants for faster turnover
-- **[[screen-of-green]]:** Training branches through a horizontal screen for even
-  canopy distribution
-
-## Environmental Requirements
-
-- **Temperature:** 70-85 degrees F (21-29 degrees C) during lights-on
-- **Humidity:** 50-70 percent relative humidity
-- **pH (soil):** 6.5-7.0; [[ph-management-cannabis]]
+- **[[ph-management-cannabis]]
 - **pH (hydroponic):** 5.8-6.8
-- **Ventilation:** Fresh air exchange is essential; [[ventilation-cannabis]]
-
-## Transition to Flowering
-
-Always wait to induce flowering until after pre-flowers appear. Inducing flowering with
-12 hours of uninterrupted darkness and 12 hours of light before pre-flowers develop
-will stress the plant. This stress could cause odd growth, and plants might grow into
-hermaphrodites. Inducing flowering before pre-flowers form will not speed flowering.
-
-When the grower switches the light schedule to 12/12, plants begin transitioning to the
-[[flowering-phase-cannabis]]. Growth rate typically accelerates during the first two
+- **Ventilation:** Fresh air exchange is essential; [[flowering-phase-cannabis]]. Growth rate typically accelerates during the first two
 weeks of flowering (the "stretch" phase) before slowing as bud development begins.
 
 ## Watering During Vegetative Growth
@@ -144,6 +107,5 @@ to roots and can promote fungal root diseases.
 
 ## See Also
 
-- [[flowering-phase-cannabis]] -- the next stage after vegetative growth
 - [[cannabis-cloning]] -- propagation during vegetative stage
 - [[mother-plant-cannabis]] -- plants held in perpetual vegetative growth

@@ -3,7 +3,7 @@ title: Pioneer Species in Permaculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, plants, ecology, succession]
+tags: [[permaculture, plants, ecology, succession]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -92,11 +92,7 @@ Shading-out of Lantana takes 2-6 years, and only remnant weak shoots remain unde
 
 ## Related Topics
 
-- [[nitrogen-fixing-trees]] - Nitrogen-fixing pioneer trees
 - [[permaculture-designers-manual-soil-rehabilitation]] - Soil rehabilitation techniques
-- [[permaculture-designers-manual-mulch-systems]] - Mulch systems
 - [[permaculture-designers-manual-arid-climates]] - Arid climate strategies
-- [[permaculture-designers-manual-tropical-climates]] - Tropical systems
 - [[permaculture-designers-manual-cold-climates]] - Cold climate strategies
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[permaculture-designers-manual-bamboo-species-uses]]

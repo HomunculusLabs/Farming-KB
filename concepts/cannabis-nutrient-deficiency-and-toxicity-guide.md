@@ -11,11 +11,7 @@ sources:
 
 Diagnosing nutrient problems in cannabis requires distinguishing between true nutrient deficiencies, chemical burns from over-fertilization, pH-related lockout, and pest or disease damage. The key diagnostic difference is that a chemical burn looks like damage that starts at the leaf tips and moves inward with crispy, flaky residue, while a nutrient deficiency appears as cellular collapse with discoloration but without the burnt appearance.
 
-See [[cannabis-plant-nutrition]] for the fundamentals of cannabis nutrition, [[cannabis-nutrient-recipes]] for feeding solutions, and [[cannabis-disease-guide]] for pathogen-related issues.
-
-## Diagnostic Approach
-
-Before diagnosing any nutrient problem, first check for pests by examining leaves carefully with a loupe or magnifier. Bug damage is inconsistent and appears in patches across the plant, while nutrient problems follow a more uniform pattern. Also verify pH levels are within the correct range before adjusting nutrients, as pH lockout can mimic virtually any deficiency symptom. See [[cannabis-environment-control]] for pH management details.
+See [[cannabis-nutrient-recipes]] for feeding solutions, and [[cannabis-environment-control]] for pH management details.
 
 The location of symptoms on the plant provides critical diagnostic information. Problems affecting only the lower portion and mid-section indicate mobile nutrient deficiencies (the plant is pulling nutrients from older leaves to supply new growth). Problems affecting only the top of the plant and new growth tips indicate immobile nutrient deficiencies. Problems covering the entire plant suggest a systemic issue.
 
@@ -93,11 +89,8 @@ Always check pH first. Then identify whether symptoms are on lower leaves (mobil
 
 ## See Also
 
-- [[cannabis-grow-nutrient-deficiency-problem-solving]]
-
 - [[cannabis-nitrogen]]
 
-- [[cannabis-leaf-morphology-and-phyllotaxy]]
 - [[cannabis-nutrient-deficiency-guide]]
 
 - cannabis nutrient deficiency and toxicity guide

@@ -12,15 +12,7 @@ type: concept
 # Mushroom Watering
 
 Watering is one of the most critical aspects of mushroom
-cultivation. Too much water destroys [[mushroom-spawn]] and
-produces weak mushrooms; too little leads to failure. [[james-cuthill]] emphasised that correct watering required judgment
-[[integrate-rather-than-segregate]] rigid rules, though he provided clear principles.
-
-## The Two Greatest Enemies
-
-Too much heat and too much water were the greatest enemies of
-young spawn. A bed shut from sun and air cannot evaporate
-moisture freely, making overwatering dangerous in enclosed
+cultivation. Too much water destroys [[james-cuthill]] emphasised that correct watering required judgment
 [[mushroom-growing-houses]]. Even leafy plants need little
 water when shut from bright light, and mushrooms are even
 more vulnerable without leaves.
@@ -36,40 +28,7 @@ Cuthill established clear timing rules:
 
 He observed that fine crops appear in fields after dry
 summers, never wet ones. This underpinned his conservative
-approach to [[mushroom-casing-moisture-management]] throughout cultivation.
-
-## How Much Water to Apply
-
-The quantity was "a very difficult matter to indicate," but
-Cuthill provided these guidelines:
-
-- Give beds a good soaking so moisture sinks into the dung
-- Apply at intervals, perhaps three times in one day
-- Not less than half a gallon per square yard per watering
-- Liquid manure water, half and half, was preferred
-
-The interval approach was critical: it gave time for water to
-soak into solid parts. If watered all at once, it ran into
-cracks, overwatering some areas while leaving solid parts dry.
-
-## Watering Frequency
-
-Cuthill watered no more than once every three weeks. He
-considered frequent watering after bearing began a great
-mistake, as it destroyed spawn and produced weak mushrooms.
-If the surface was wet and cold, mushrooms damp off
-immediately. Exact frequency depended on dung dryness, bed
-position, and weather conditions.
-
-## Water Temperature
-
-- In winter, always take the chill off water before use
-- Cold water on a warm bed could shock the spawn
-- Soft water should always be used, never pump water
-
-The preference for soft water likely related to mineral
-content and hardness, which could adversely affect spawn
-health and the [[cervantes-growing-medium]] during mushroom bed preparation.
+approach to [[cervantes-growing-medium]] during mushroom bed preparation.
 
 ## Liquid Manure Water
 

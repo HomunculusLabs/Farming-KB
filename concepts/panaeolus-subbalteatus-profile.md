@@ -60,11 +60,7 @@ the base, becoming lighter toward the apex, and may show a faint
 annular zone from the evanescent partial veil. The stem does not
 typically bruise blue significantly, though some collections may
 show very subtle bluing at the base. For more on bruising patterns,
-see [[psilocybin-mushroom-image-guide-bruising-reactions]].
-
-The spore print is jet black, which distinguishes Panaeolus species
-from Psilocybe species that produce dark purplish-brown prints. See
-[[psilocybin-mushroom-image-guide-spore-color-chart]] for comparison.
+see [[psilocybin-mushroom-image-guide-spore-color-chart]] for comparison.
 
 ## Geographic Distribution and Habitat
 
@@ -86,39 +82,5 @@ Fruiting occurs from spring through autumn, with peak seasons varying
 by region. In temperate zones, it is most commonly found from May
 through October. The species can fruit prolifically after periods of
 rain. For broader habitat information, see
-[[psilocybin-mushroom-image-guide-habitat-clues]].
-
-## Potency and Chemical Profile
-
-Panaeolus subbalteatus is considered a mildly to moderately potent
-species. Psilocybin and psilocin content is generally lower than in
-species like Psilocybe cyanescens or P. azurescens, with typical
-total tryptamine content ranging from approximately 0.05% to 0.3%
-by dry weight. Baeocystin has also been detected in this species.
-The relatively low and variable potency means that larger quantities
-of material are typically required for noticeable effects compared
-to more potent species.
-
-## Ecological Role
-
-As a coprophilous (dung-inhabiting) fungus, Panaeolus subbalteatus
-plays an important ecological role in breaking down herbivore dung
-and recycling nutrients in pasture ecosystems. The species is a
-primary decomposer of fresh to moderately aged dung, contributing
-to the rapid cycling of nitrogen and other nutrients in grassland
-environments. Its ability to also colonize composted materials
-makes it a common sight in gardens and agricultural settings.
-
-## Identification Considerations
-
-The black spore print and mottled gills are the most reliable
-identification features for Panaeolus subbalteatus. The banded cap
-margin is distinctive but may not always be prominent, especially in
-dry conditions. The species should be carefully distinguished from
-other Panaeolus species, most of which are not psychoactive. Key
-features to observe include the specific habitat (horse dung vs.
-other substrates), the presence and prominence of the cap band, and
-microscopic features if available. For comprehensive safety guidance,
-consult [[psilocybin-mushroom-image-guide-lookalike-species]] and
-[[psilocybin-mushroom-image-guide-identification-methods]]. The species is listed in the
+[[psilocybin-mushroom-image-guide-lookalike-species]] and
 [[psilocybin-mushroom-species-overview]].

@@ -121,10 +121,7 @@ Inulin-rich tubers are an excellent feedstock for **bioethanol production**. The
 
 ## See Also
 
-- [[ullucus-tuberosus]]
-
 - [[canna-edulis]] — achira, another high-yielding starchy tuber crop
-- [[helianthus-annuus-entity]] — annual sunflower, close relative
 - [[colocasia-esculenta]] — taro, tropical starchy corm
 - diascorea alata — winged yam, tropical tuber
 - [[allium-sativum-entity]] — garlic, companion plant

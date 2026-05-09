@@ -37,14 +37,7 @@ completing the life cycle.
 Other species of Claviceps include:
 
 - **Claviceps paspali**: Infects Paspalum grasses; has been implicated in the
-  [[eleusinian-mysteries]] of ancient Greece
-- **Claviceps fusiformis**: Parasitizes pearl millet in Africa and Asia
-- **Claviceps africana**: A significant pathogen of sorghum
-
-## Historical Impact: St. Anthony's Fire
-
-Although Ergot was apparently never purposefully used in medieval Europe as a
-hallucinogen, there are suggestions that the [[eleusinian-mysteries]] of
+  [[eleusinian-mysteries]] of
 ancient Greece were associated with this fungal genus. However, ergot's most
 dramatic historical impact was through accidental poisoning of populations that
 consumed ergot-contaminated grain.
@@ -108,14 +101,7 @@ Ergot from wild grasses contains essentially simple lysergic acid amides as
 the main active principles. These psychotropic alkaloids may have played a role
 in the convulsive form of ergotism and occur as the main active principles in
 the Mexican morning glory Ololiuqui (Turbina corymbosa) and other
-bindweeds (see [[morning-glory-entheogens]]).
-
-## Connection to Morning Glories
-
-The presence of ergoline alkaloids in both the ergot fungus and morning glory
-seeds represents a remarkable case of convergent biochemistry across biological
-kingdoms. The psychoactive constituents of Ololiuqui and
-[[morning-glory-entheogens]] -- lysergic acid amide and related compounds --
+bindweeds (see [[morning-glory-entheogens]] -- lysergic acid amide and related compounds --
 are chemically identical to those found in ergot from wild grasses. This
 chemo-taxonomic connection has led to speculation about ecological
 relationships between the fungus and morning glory plants, and about the
@@ -133,16 +119,7 @@ including the control of postpartum hemorrhage.
 
 ## Related Topics
 
-- [[eleusinian-mysteries]] - Possible ritual use of ergot in ancient Greece
-- Ololiuqui - Morning glory seeds containing the same ergoline alkaloids
 - [[morning-glory-entheogens]] - Morning glory species as entheogens
-- [[belladonna-plant]] - Another European plant complex with historical
-  significance
 - [[mandrake-plant]] - European solanaceous entheogen
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
-
-## See Also
-
 - [[ergonovine]]

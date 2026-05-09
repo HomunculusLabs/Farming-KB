@@ -1,7 +1,7 @@
 ---
 title: "Permaculture Duck Integration for Orchards and Gardens"
 created: 2026-04-28
-tags: [permaculture, poultry, ducks, orchard, pest-control, integrated-systems]
+tags: [[permaculture, poultry, ducks, orchard, pest-control, integrated-systems]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
@@ -95,28 +95,7 @@ chickens problematic near young trees. The key is ensuring the orchard is
 well-established before introducing ducks, and maintaining adequate mulch
 to prevent soil compaction from their feet.
 
-## [[water-management]]
-
-Ducks need constant access to water for drinking, foraging, and grooming.
-A small pond is ideal, but even a kiddie pool or trough can work in smaller
-properties. Their water source must be separated from that of other
-livestock, as ducks quickly foul water with mud and manure. The pond should
-have varying depths to support both the ducks and any fish or aquatic
-plants in the system. Shallow edges allow ducks to access the water easily
-while deeper zones support fish habitat. Regular removal of excess bottom
-sediment (muck) from the pond provides nutrient-rich material for garden
-compost or mulch, continuing the cycle of fertility between aquatic and
-terrestrial systems. This harvested muck historically was used in
-chinampas-agriculture|chinampa systems to grow seedlings and build soil
-fertility.
-
-## Outputs
-
-Ducks provide eggs, meat, feathers, pest control, and fertilizer. Their
-manure is valuable for compost and pond fertilization. Duck feathers have
-traditional uses in bedding, insulation, and craft. The integrated system
-where ducks, fish, and orchard plants support each other represents a
-classic example of closed-loop [[permaculture-design]] where outputs of one
+## [[permaculture-design]] where outputs of one
 element become inputs for another, reducing external inputs and waste.
 
 ## Seasonal Management
@@ -130,6 +109,5 @@ while allowing continued manure deposition on dormant trees.
 
 ## See Also
 
-- [[permaculture-polyculture-fish-pond]]
 - [[permaculture-zone-planning-guide]]
 - [[permaculture-poultry-orchard-integration]]

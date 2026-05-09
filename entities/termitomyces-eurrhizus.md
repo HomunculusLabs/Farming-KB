@@ -110,11 +110,7 @@ All species in the genus share the characteristic perforatorium root structure a
 
 ## See Also
 
-- [[lentinula-edodes]]
 - [[volvariella-volvacea]]
-- [[pleurotus-eryngii]]
 - [[agaricus-bisporus]]
-- [[mycorrhiza]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[stropharia-rugosoannulata]]
 - [[schizophyllum-commune]]

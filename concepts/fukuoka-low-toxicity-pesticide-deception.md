@@ -119,8 +119,6 @@ it in humble acknowledgment.
 
 ## See Also
 
-- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-paradoxes-scientific-farming]]
-- [[fukuoka-critique-organic-farming-ecology]]
 - [[fukuoka-straw-mulch-philosophy]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

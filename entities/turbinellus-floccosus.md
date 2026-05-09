@@ -137,13 +137,8 @@ cooking) and not alcohol-soluble, suggesting a peptide or labile terpenoid.
 
 ## See Also
 
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
-- [[tihkal-receptor-binding-serotonin]]
 - [[tangerine-dream]]
-- [[blesching-cannabis-aging]]
-
-- [[trametes-versicolor]] — Polypore with well-characterized medicinal properties
-- [[trametes-hirsuta]] — Related polypore with similar ecological niche
+- [[trametes-versicolor-entity]] — Polypore with well-characterized medicinal properties
 - [[polyporus-umbellatus]] — Ectomycorrhizal fungus of Asian coniferous forests
 - [[lentinula-edodes]] — Cultivated edible mushroom for culinary comparison

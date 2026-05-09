@@ -93,31 +93,6 @@ Oner repeatedly notes that growing conditions affect how genetics express:
 - **Growing medium**: Organic soil grows are recommended for sativas to bring out the
   best flavors, as sativas are "wild-ish and highly adaptable plants" that "don't
   really like being force fed synthetic nutrients"
-- **Training**: [[low-stress-training]] (LST) can modify plant structure without
-  affecting genetic traits like potency or flavor
-
-## Recessive vs. Dominant Traits
-
-Genetic dominance plays a visible role in phenotype expression:
-
-- Durban Poison's early flowering trait "stays very dominant in hybrids"
-- Some Panama Black phenotypes "will exhibit recessive red traits, making their buds
-  look like they could be stuck on a gold band and sold"
-- Indica growth traits (compact structure, heavy yields) tend to be dominant over
-  sativa lankiness in most hybrid crosses
-
-## "Sport" Mutations
-
-Occasionally, a plant exhibits a spontaneous genetic mutation called a "sport":
-
-- The Arcata Lemonwreck "may have expressed a 'sport' mutation bringing the lemon
-  side out more prominently" compared to Humboldt Trainwreck
-- Sports can become the basis for entirely new strains if the mutation is stable and
-  desirable
-
-## See Also
-
-- [[cannabis-phenotype-selection]]
-- [[oner-cannabis-breeding-fundamentals]]
+- **Training**: [[cannabis-phenotype-selection]]
 - [[oner-cannabis-terpene-profiles-effects]]
 - [[cannabis-backcrossing]]

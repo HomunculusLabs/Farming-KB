@@ -23,38 +23,6 @@ volume, versatility, and garden fertility (rabbits).
 
 ## Quail Husbandry
 
-[[quail-husbandry-detailed]]
-
-Coturnix quail reach maturity in just 6 weeks and begin laying at 7-8 weeks,
-making them the fastest-returning livestock investment available. A single
-breeder cage (24x18 inches) houses a trio (1 male, 2 females) at approximately 1
-square foot per bird. Quail produce 250-320 eggs per hen per year and reach
-harvest weight of 10-14 oz in 8-10 weeks with a feed conversion ratio of 2.5-3
-lbs of feed per lb of gain. They are quiet enough for urban settings, often
-classified as game birds rather than poultry in local codes, and require no
-outdoor run or ranging area.
-
-Popular varieties include Jumbo Brown and Texas A&M for meat production (both
-reach 10-14 oz at maturity, with Texas A&M being calmer and better suited to
-handling), and Pharaoh and Golden for reliable egg laying. All Coturnix
-varieties are the same species (Coturnix japonica) and interbreed freely,
-allowing for easy selective breeding programs. Housing systems range from
-individual breeder cages with slide-out droppings trays for controlled breeding
-and clean egg collection, to colony cages housing 4-6 birds with 1 sq ft per
-bird, to floor-based aviary systems with deep litter for more natural behavior.
-
-Quail eggs are considered a delicacy, selling at a premium of $5-8 per dozen at
-farmers markets, though their small size (9-12g versus 50-65g for chicken eggs)
-means using 4-5 quail eggs per chicken egg equivalent in recipes. Their rapid
-lifecycle allows 4-6 generations per year, making them excellent for meaningful
-selective breeding projects. The main drawbacks are small egg size, limited
-foraging ability (they are primarily cage-raised), short lifespan of 2-3 years,
-sensitivity to cold temperatures requiring supplemental heat below 50F, and the
-fiddly nature of processing such small birds. Startup costs are very low at
-$30-50 for cages, feeders, waterers, and initial birds.
-
-## Rabbit Husbandry
-
 [[rabbit-husbandry]]
 
 Rabbits are the most space-efficient meat animal for homestead-scale production,
@@ -141,10 +109,7 @@ dedicated small-livestock shelter, sharing the same roof, feed storage, and
 water supply infrastructure. Quail manure, being hot, can be composted with
 rabbit manure, carbon material, and garden waste for an excellent balanced
 fertilizer. Quail provide daily eggs while rabbits provide periodic large meat
-
 ## See Also
-
-- [[comparison-rabbit-vs-quail-husbandry]]
 
 - [[comparison-chicken-keeping-vs-quail-husbandry]]
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]

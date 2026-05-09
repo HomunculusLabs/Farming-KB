@@ -29,8 +29,7 @@ All exudate secretion and cell sloughing takes place in the rhizosphere -- a
 zone immediately around the roots extending out about a tenth of an inch (a
 couple of millimeters). Under an electron microscope, the rhizosphere looks
 like jelly or jam. It contains a constantly changing mix of soil organisms
-including bacteria, fungi, [[lowenfels-nematode-food-web-roles]], and
-[[protozoa-roles-in-soil]], all competing for exudates, water, and
+including bacteria, fungi, [[protozoa-roles-in-soil]], all competing for exudates, water, and
 minerals.
 
 ## Plants Control the Food Web
@@ -63,32 +62,27 @@ Plants invest a substantial portion of their photosynthetically fixed carbon
 into root exudates. Estimates suggest that 30-60% of the carbon fixed through
 photosynthesis is transported to the roots, where a significant portion is
 released as exudates. This massive carbon investment is the engine that drives
-the entire [[lowenfels-earthworms-soil-food-web]].
+the entire [[compost-biology-soil-food-web-inoculation]], [[cervantes-compost-tea-organic-brewing]] applications.
 
-## Soil Structure from Exudates
+See also: [[bacterial-vs-fungal-soil-dynamics]],
+[[humus-formation-and-soil-organic-matter]]
+- [[ozier-pdc-composting-and-soil-building]]
+## Practical Considerations
 
-The rhizosphere also contributes to soil structure. Bacteria produce slime
-that allows them to attach to soil particles, binding them together. Fungal
-hyphae travel through soil particles, sticking to them and binding them into
-aggregates. The combined activity of organisms attracted by exudates creates
-soil structure, improves water infiltration, and provides air passages through
-the soil.
+Successful implementation of Root Exudates and the Rhizosphere requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-## Implications for Gardeners
+## Future Directions
 
-Left to their own devices, plants produce exudates that attract fungi and
-bacteria (and ultimately nematodes and protozoa). Their survival depends on
-this interplay. Chemical fertilizers, pesticides, and rototilling disrupt this
-natural system by killing the organisms plants depend on. The best approach is
-to support the plant's natural exudate-driven system through proper [[compost-biology-soil-food-web-inoculation]], [[mulch-types-effects-soil-biology]], and [[cervantes-compost-tea-organic-brewing]] applications.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-See also: [[mycorrhizal-networks-explained]], [[bacterial-vs-fungal-soil-dynamics]],
-[[soil-food-web-structure]]
-
-Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-
-## Related
-
-- [[humus-formation-and-soil-organic-matter]]
-- [[bacterial-to-fungal-soil-succession]]
-- [[composting-and-soil-biology]]

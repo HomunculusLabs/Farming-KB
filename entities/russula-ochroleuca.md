@@ -134,12 +134,8 @@ Within the *R. subsect. Ochroleucinae*, the combination of white spore print, mo
 
 ## See Also
 
-- [[russula-vesca]]
 - [[russula-cyanoxantha]]
-- [[russula-xerampelina]]
 - [[lactarius-deliciosus]]
-- [[lactarius-rufus]]
 - [[lactarius-volemus]]
-- [[boletus-edulis-entity]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
 - [[mycorrhizae]]

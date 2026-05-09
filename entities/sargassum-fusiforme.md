@@ -103,18 +103,11 @@ Climate-driven shifts in distribution have been documented, with range contracti
 
 ## See Also
 
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[ulva-lactuca]]
-- [[palmaria-palmata]]
 - [[chondrus-crispus]]
-- [[kappaphycus-alvarezii]]
 - [[fucus-vesiculosus]]
-- [[porphyra-umbilicalis]]
 - [[resveratrol]]
-- [[gracilaria-verrucosa]]
 - [[eucheuma-denticulatum]]
-- [[monostroma-nitidum]]
 - [[taurine]]
 - [[caulerpa]]

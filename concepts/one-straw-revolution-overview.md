@@ -27,21 +27,16 @@ The book is organized into several sections that weave together practical farmin
 
 ### Part One: A Look at the Work
 Practical descriptions of Fukuoka's farming methods, including:
-- [[fukuoka-rice-and-barley-natural-farming]] -- the no-till, winter grain/rice succession system
 - [[fukuoka-natural-orchard-management]] -- the natural mandarin orange orchard
-- [[fukuoka-natural-vegetable-growing]] -- the "throw-and-grow" vegetable method
 - [[clay-ball-seed-pellets]] -- the seed protection technique
-- [[fukuoka-ground-cover-strategy]] -- living mulch and weed management
-
-### Part Two: The Four Principles
-The [[four-principles-of-natural-farming]] that define Fukuoka's approach:
+- [[four-principles-of-natural-farming]] that define Fukuoka's approach:
 1. No tillage
 2. No fertilizer
 3. No pesticides or herbicides
 4. No weeding by tillage or chemicals
 
 ### Part Three: Philosophical Reflections
-Extended meditations on the nature of knowledge, the relationship between humanity and nature, and the spiritual dimensions of farming. See [[one-straw-revolution-philosophy]] and [[fukuoka-natural-farming-philosophy-of-mu]].
+Extended meditations on the nature of knowledge, the relationship between humanity and nature, and the spiritual dimensions of farming. See [[fukuoka-natural-farming-philosophy-of-mu]].
 
 ### Part Four: Observations and Critiques
 Fukuoka's commentary on Japanese society, agricultural policy, diet, health, and the direction of modern civilization. These sections include sharp critiques of:
@@ -53,16 +48,7 @@ Fukuoka's commentary on Japanese society, agricultural policy, diet, health, and
 ## Key Concepts
 
 ### Do-Nothing Farming
-[[fukuoka-do-nothing-farming-and-spiritual-life]] is the practical expression of Fukuoka's philosophy. It does not mean laziness or neglect, but rather the elimination of unnecessary human intervention. The farmer's role is not to force nature to produce, but to create the conditions under which nature can produce on its own. "The less the farmer does, the better the results."
-
-### Non-Discriminating Knowledge
-Fukuoka distinguishes between "discriminating knowledge" (analytical, scientific, separating subject from object) and "non-discriminating knowledge" (intuitive, holistic, unifying subject and object). Modern agriculture relies entirely on discriminating knowledge and has lost touch with the non-discriminating awareness that allows one to work with nature rather than against it.
-
-### The Mu (Nothingness) Principle
-The concept of mu -- emptiness, nothingness, or non-action -- pervades the book. Fukuoka argues that the most effective agricultural practices are those that involve the least human action. Each human action creates a reaction that requires further action, leading to an endless spiral of intervention and counter-intervention.
-
-### Natural vs. Organic Farming
-Fukuoka draws a sharp distinction between natural farming and [[natural-farming-vs-organic-farming]]. Organic farming, in his view, still operates within the interventionist paradigm -- it simply substitutes organic inputs for chemical ones. Natural farming eliminates the need for inputs altogether by working with natural systems. See the detailed comparison.
+[[natural-farming-vs-organic-farming]]. Organic farming, in his view, still operates within the interventionist paradigm -- it simply substitutes organic inputs for chemical ones. Natural farming eliminates the need for inputs altogether by working with natural systems. See the detailed comparison.
 
 ## The Title: What Does "One Straw" Mean?
 
@@ -74,15 +60,8 @@ The One-Straw Revolution has had profound influence across multiple fields:
 
 ### Agriculture
 - One of the foundational texts of the regenerative agriculture movement
-- Directly influenced Bill Mollison and David Holmgren in developing [[permaculture-food-forest-design-principles]]
-- Inspired the no-till farming movement and modern [[lowenfels-mulch-cover-cropping]] practices
-- Prefigured modern understanding of [[lowenfels-earthworms-soil-food-web]] ecology
-
-### Philosophy and Spirituality
-- Connected farming practice to Zen Buddhist and Taoist philosophy
-- Influenced the deep ecology movement and ecophilosophy
-- Demonstrated that practical, productive farming can be a spiritual discipline
-- See [[fukuoka-view-of-nature-and-human-hubris]]
+- Directly influenced Bill Mollison and David Holmgren in developing [[lowenfels-mulch-cover-cropping]] practices
+- Prefigured modern understanding of [[fukuoka-view-of-nature-and-human-hubris]]
 
 ### Environmental Movement
 - Provided a concrete, working alternative to industrial agriculture
@@ -114,14 +93,9 @@ Originally published in Japanese in 1975, the book has been translated into nume
 
 ## Related
 
-- [[one-straw-revolution-philosophy]] -- the philosophical core
 - [[natural-farming-philosophy]] -- natural farming philosophy in depth
-- [[four-principles-of-natural-farming]] -- the four principles
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] -- do-nothing farming
-- [[natural-farming-vs-organic-farming]] -- comparison with organic
 - [[fukuoka-rice-and-barley-natural-farming]] -- the rice/barley system
-- [[fukuoka-natural-orchard-management]] -- the orchard system
 - [[fukuoka-vegetable-growing-natural-method]] -- vegetable growing
-- [[clay-ball-seed-pellets]] -- seed pellet technique
 - [[fukuoka-ground-cover-strategy]] -- ground cover approach
 - regenerative agriculture history -- broader regenerative context

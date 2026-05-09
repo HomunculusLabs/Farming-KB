@@ -18,56 +18,17 @@ type: concept
 Polypores are premier wood decomposers and can produce
 annual or perennial fruitbodies. Two polypores enjoying
 reputations as medicinal fungi are Maitake (Grifola
-frondosa) and Zhu Ling ([[polyporus-umbellatus]]). Many other
-polypore species show promising medicinal potential but
-remain largely uncultivated.
-
-## Listed Candidate Species
-
-A short list of polypore candidates with potential for
-cultivation and medicinal application includes:
-
-- Albatrellus spp.
-- Daedalea quercina
-- Fomes fomentarius
-- Fomitopsis officinalis
-- [[ganoderma-applanatum]] (Elfvingia applanata)
+frondosa) and Zhu Ling ([[ganoderma-applanatum]] (Elfvingia applanata)
 - Ganoderma curtisii
 - Ganoderma oregonense
 - Ganoderma sinense
-- [[ganoderma-tsugae]]
 - [[chaga-inonotus-obliquus-medicinal-profile]] (Chaga)
 - Oligoporus spp.
 - Oxyporus nobilissimus and allies
 - Phellinus spp.
-- [[piptoporus-betulinus]]
-- Polyporus indigenus
-- Polyporus saporema
-- Trametes cinnabarinum
-- Trametes (Coriolus) versicolor and allies (Turkey Tail)
+- [[staycare-trametes-versicolor-bioremediation-applications]])
 
-## Turkey Tail ([[staycare-trametes-versicolor-bioremediation-applications]])
-
-[[trametes-versicolor]], commonly known as Turkey Tail, is one
-of the most extensively researched medicinal mushrooms
-worldwide. Known in Asia as Yun Zhi, this bracket fungus
-grows on dead hardwood logs and stumps throughout
-temperate forests worldwide.
-
-Turkey Tail is the source of PSK (Polysaccharide-K) and
-PSP (Polysaccharide-Peptide), two protein-bound
-polysaccharides that have been extensively studied for
-their immune-modulating and anti-tumor properties. PSK
-has been approved as a cancer adjuvant therapy in Japan
-since the 1970s and is used alongside conventional cancer
-treatments.
-
-The mushroom is characterized by its colorful, concentric
-zonations resembling a wild turkey's tail feathers. It is
-one of the most common wood-decay fungi found in forests
-globally.
-
-## Chaga ([[inonotus-obliquus]])
+[[inonotus-obliquus]])
 
 Inonotus obliquus, commonly known as Chaga, is a sterile
 conk that grows primarily on birch trees in cold northern

@@ -69,26 +69,6 @@ air exchange. Systems that recirculate as well as draw fresh air share
 the common trait of drawing warm air over a colder surface. Moisture
 condenses out of the air, effectively dehumidifying the room. Properly
 balanced air handling systems in the
-[[stamets-mushroom-growing-room-design]] can maintain humidity within
-the required 85-92% range during cropping while providing adequate fresh
-air exchange.
-
-## Thermostats and Humidistats
-
-Environmental control instruments are designed to open and close valves
-in response to pre-set temperature or humidity limits. Sensors should be
-placed in a moving air stream representative of room conditions, usually
-near the recirculation inlet. Because on/off instruments are programmed
-for either state, heat and humidity come in surges, causing uneven and
-fluctuating conditions. Modulating thermostats supply heat continuously
-in proportion to deviation from the desired temperature. Positive
-control can also be achieved with hand valves alone or in conjunction
-with on/off instruments, keeping supply volume just below the cut-off
-point.
-
-## Monitoring Equipment
-
-Quality environmental monitoring equipment is essential. Every
 [[stamets-mushroom-growing-room-design]] should include
 maximum-minimum thermometers and a hygrometer or sling psychrometer for
 measuring humidity. Hygrometers should be periodically calibrated with a
@@ -99,15 +79,7 @@ measuring devices.
 ## Humidity Requirements by Growth Stage
 
 Different stages of the mushroom cultivation cycle require different
-humidity levels. During [[stamets-spawning-and-spawn-running]],
-sealed jars retain moisture and ambient humidity is less critical.
-During primordia formation, humidity must be raised to 95-100% to
-encourage pinhead development. During cropping, humidity is lowered to
-85-92% to balance mushroom development with contamination suppression.
-Excessively high and prolonged humidity combined with stagnant air and
-high CO2 levels tip the ecological balance of the casing soil
-micro-ecology in favor of contaminants, particularly
-[[stamets-cultivator-trichoderma-prevention-and-treatment]].
+humidity levels. During [[stamets-cultivator-trichoderma-prevention-and-treatment]].
 
 ## Water Quality Considerations
 
@@ -121,7 +93,5 @@ systems especially efficient for smaller operations.
 
 ## Related Topics
 
-- [[stamets-growing-room-air-circulation-co2-management]]
 - [[stamets-mushroom-growing-room-design]]
-- [[stamets-crop-watering-flushing-management]]
 - [[stamets-pinning-initiation-stages-environmental-control]]

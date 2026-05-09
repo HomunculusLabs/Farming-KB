@@ -140,6 +140,4 @@ A cob bench is the most common and accessible approach:
 
 ## See Also
 
-- [[masonry-heater-design]]
-- [[rocket-stove-design]]
-- [[comparison-rocket-stove-vs-masonry-heater]]
+- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]

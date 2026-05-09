@@ -42,37 +42,7 @@ oxygen. Roots are easily damaged by temperatures of 85 degrees F and
 above. Heat-damaged roots are very susceptible to rot, wilts, and
 fungus gnat attacks.
 
-See [[cervantes-root-rot-pythium-damping-off]] for the pathogens that
-proliferate in warm, low-oxygen nutrient solutions.
-
-## Heating the Solution
-
-To save energy and money, heat the nutrient solution instead of the
-air in the room. This approach is more efficient because water holds
-heat well and transfers it directly to the root zone. Heating methods
-include:
-
-- **Submersible aquarium heaters**: The most common approach. The
-  heater takes a day or longer to raise the temperature of a large
-  volume of solution. Do not leave heaters in an empty reservoir;
-  they will overheat and burn out.
-- **Grounded propagation heating cables**: Wrapped around or placed
-  near the reservoir for gentle, even warming.
-
-### Aquarium Heater Safety
-
-Aquarium heaters seldom have ground wires, a seemingly obvious
-oversight. However, Cervantes notes no known electrocutions from
-aquarium heaters in grow applications. Still, growers should:
-- Avoid submersible heaters that give off harmful residues
-- Never run heaters dry
-- Use a thermometer to verify actual solution temperature
-- Choose heaters with adjustable thermostats for precise control
-
-## Cooling the Solution
-
-Cooling is often a greater challenge than heating, especially in warm
-climates or rooms with [[hps-grow-lights]] generating substantial
+See [[hps-grow-lights]] generating substantial
 heat. Options include:
 
 - **Air pumps**: An air pump submerged in the reservoir not only
@@ -92,11 +62,7 @@ air; the greater the temperature differential, the higher the
 relative humidity. Maintaining the nutrient solution temperature
 around 60 degrees F (15 degrees C) helps control transpiration and
 humidity. This interacts directly with
-[[cervantes-vapor-pressure-deficit-transpiration]] management.
-
-Lower reservoir temperatures also promote the uptake of nutrients,
-as roots function more efficiently in cooler, well-oxygenated
-solution. Combined with proper [[cervantes-ec-tds-nutrient-solution-strength]]
+[[cervantes-ec-tds-nutrient-solution-strength]]
 management, temperature control optimizes the entire root zone
 environment.
 
@@ -113,14 +79,5 @@ potentially requiring more frequent irrigation cycles.
 ## Integration with Hydroponic Systems
 
 Reservoir temperature management is relevant to all
-[[cervantes-hydroponic-systems]] including
-[[cannabis-advanced-growing-techniques]], [[cervantes-nft-aeroponic-systems]],
-and recirculating systems. In deep water culture, temperature control
-is especially critical because roots are constantly submerged. In NFT
-and aeroponic systems, the thin film of nutrient solution heats and
-cools more rapidly, making temperature stability harder to maintain
-but also easier to adjust quickly.
-
-Regular monitoring with a thermometer is essential. Many growers use
-a combination thermometer and [[cervantes-ec-tds-nutrient-solution-strength]]
+[[green-cannabis-grow-bible-sog-scrog-advanced-methods]], [[cervantes-ec-tds-nutrient-solution-strength]]
 probe to track both parameters simultaneously during daily checks.

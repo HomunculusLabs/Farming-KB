@@ -4,12 +4,7 @@ created: 2026-04-19
 updated: 2026-04-18
 type: concept
 sources: magic-mushrooms-around-the-world-gartz.md
-tags: [mycology, mushrooms]
----
-
-# Everard Brande's 1799 Account and the European Discovery of Psychoactive Mushrooms
-
-The 1799 publication by Everard Brande in the Medical and Physical Journal, documenting the [[green-park-incident-1799-psilocybin]], represents a pivotal moment in the European encounter with psychoactive mushrooms. Brande's account is remarkable not only for its clinical detail but for the way it reveals the state of European mycological knowledge at the turn of the 19th century.
+tags: [[green-park-incident-1799-psilocybin]], represents a pivotal moment in the European encounter with psychoactive mushrooms. Brande's account is remarkable not only for its clinical detail but for the way it reveals the state of European mycological knowledge at the turn of the 19th century.
 
 ## The Publication
 
@@ -56,38 +51,7 @@ At the time of Brande's publication, mycology was still in its infancy:
 
 ### Sowerby's Contemporary Work
 
-James Sowerby, a prominent English naturalist, was publishing on mushrooms at approximately the same time. Within the context of Sowerby's book, only the variety of mushrooms distinguished by their cone-shaped caps were believed to cause intoxication. Sowerby's contemporaries knew the mushroom as "Agaricus glutinosus Curtis," and its descriptions are fully compatible with current knowledge about [[psilocybe-semilanceata]].
-
-### The Tinned Iron Saucepan Note
-
-Brande included a remarkably precise detail: "The whole was stewed with the common additions in a tinned iron saucepan." He then added a footnote: "This accuracy may seem trivial, but I have met with people who supported the following symptoms might have arisen from the use of a copper vessel."
-
-This note reveals:
-
-1. Brande was aware that copper vessels could cause poisoning symptoms
-2. He deliberately used a tinned iron (not copper) vessel to rule this out
-3. He was concerned about alternative explanations for the symptoms
-4. His scientific approach was careful and methodical for the era
-
-## Brande's Clinical Observations
-
-### Level of Detail
-
-Brande's account provides a level of clinical detail unusual for the period:
-
-- **Timing:** Notes when symptoms appeared relative to ingestion
-- **Pupil examination:** "Dilated to nearly the circumference of the cornea"
-- **Light response:** "Scarcely contracted at the approach of a strong light"
-- **Pulse characterization:** "Very variable -- at times imperceptible, at others too frequent and small to be counted"
-- **Extremity examination:** "Feet cold, livid, and contracted"
-- **Behavioral observation:** Detailed description of alternation between stupor and brief arousal
-- **Verbal response:** Noted the disconnected, non-contextual nature of answers
-
-### The "Immoderate Laughter"
-
-The symptom that most clearly identifies this as a psilocybin intoxication (rather than another type of mushroom poisoning) is the "immoderate laughter." This is:
-
-- Not a symptom of amatoxin poisoning ([[amanita-phalloides]]) which causes liver failure
+James Sowerby, a prominent English naturalist, was publishing on mushrooms at approximately the same time. Within the context of Sowerby's book, only the variety of mushrooms distinguished by their cone-shaped caps were believed to cause intoxication. Sowerby's contemporaries knew the mushroom as "Agaricus glutinosus Curtis," and its descriptions are fully compatible with current knowledge about [[amanita-phalloides]]) which causes liver failure
 - Not a symptom of muscarine poisoning (Inocybe, Clitocybe) which causes sweating and salivation
 - Not a symptom of gyromitrin poisoning (Gyromitra) which causes seizures
 - Characteristic of serotonin receptor activation by psilocybin
@@ -105,17 +69,7 @@ Brande's account was not the first European reference to psychoactive mushrooms,
 
 ### The Mycophobic Frame
 
-What distinguishes all of these European accounts from, say, Mesoamerican descriptions is the consistent framing as pathology rather than experience. See [[mycophilia-mycophobia-european-mushroom-history]].
-
-## Aftermath and Significance
-
-### No Follow-Up
-
-Remarkably, Brande's detailed account did not lead to further investigation of the psychoactive properties of the Green Park mushrooms. The incident was filed under "poisonous agarics" and essentially forgotten for over 150 years.
-
-### The Delayed Recognition
-
-It was not until the 20th century that mycologists recognized Brande's account as a description of psilocybin intoxication. The identification of the mushroom as [[psilocybe-semilanceata]] was made retrospectively based on:
+What distinguishes all of these European accounts from, say, Mesoamerican descriptions is the consistent framing as pathology rather than experience. See [[psilocybe-semilanceata]] was made retrospectively based on:
 
 - The location (Green Park -- grassland habitat)
 - The description of the mushrooms ("small")

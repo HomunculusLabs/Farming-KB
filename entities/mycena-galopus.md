@@ -128,15 +128,9 @@ and nutrient mineralization.
 
 ## See Also
 
-- [[fungal-wood-decay-types]]
-
 - [[saprotrophic-fungi]]
 
-- [[the-soil-food-web]]
-
-- marasmius androsaceus - saprotrophic fungus most preferred by collembola
 - [[suillus-luteus]] - ectomycorrhizal fungus whose decomposition is suppressed by Mycena
-- [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus suppressed by Mycena
 - [[paxillus-involutus]] - ectomycorrhizal fungus with low collembolan palatability
 - lepista nuda - saprotrophic fungus with superior litter decomposition
 - [[hypholoma-fasciculare]] - saprotroph showing phosphorus transfer to mycorrhizal fungi

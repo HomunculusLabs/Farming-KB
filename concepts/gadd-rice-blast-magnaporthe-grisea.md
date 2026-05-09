@@ -121,8 +121,6 @@ different regulation of compatible solute production.
 
 ## Related concepts
 
-- [[gadd-fungal-plant-pathogens]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-woronin-bodies-hyphal-septation]]
 - [[gadd-fungal-genomics-comparative-approaches]]
 - [[gadd-fungal-species-recognition]]

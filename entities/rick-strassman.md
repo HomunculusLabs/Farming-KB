@@ -135,9 +135,8 @@ phenomenological map of IV DMT that informed all subsequent research.
 
 ## Related
 
-- [[walter-pahnke]] Entities
-
 - [[maps]] — Strassman research preceded MAPS major programs
-- [[dmt]] — Primary compound studied
 - [[pineal-gland-dmt-entheogenic-experience]] — Central to Strassman hypotheses
 - near death experience — Phenomenon linked to his theories
+
+See also: [[peyote-and-psychoactive-cacti]]

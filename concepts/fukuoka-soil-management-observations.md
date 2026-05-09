@@ -12,15 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[fukuoka-living-soil]]'s understanding of soil was central to his natural farming method. Through 40+ years of observation, he developed detailed knowledge of how soil builds itself, how human intervention damages it, and how natural farming restores it. His soil management approach is based on the principle that "the soil lives of its own accord and plows itself" and that nature has been creating perfect soils for thousands of years without human help.
-
-## The Self-Working Soil
-
-### How Nature Plows and Enriches
-
-Fukuoka describes the soil's self-working mechanisms in detail:
-
-1. **Plant roots:** Grasses and [[green-manure-crops]] work the soil to 12-15 inches deep, compared to the farmer's 4-8 inch plow. As roots penetrate, air and water follow. When roots die, microorganisms proliferate, increasing humus and softening soil.
+[[green-manure-crops]] work the soil to 12-15 inches deep, compared to the farmer's 4-8 inch plow. As roots penetrate, air and water follow. When roots die, microorganisms proliferate, increasing humus and softening soil.
 
 2. **Earthworms:** Where humus accumulates, earthworms appear in increasing numbers, further aerating and enriching the soil.
 
@@ -89,9 +81,7 @@ Fukuoka documented his soil observations from decades of continuous no-tillage r
 
 ### Cover Crop Timeline
 
-Fukuoka provides a detailed timeline for soil improvement through [[cover-crops]]:
-
-- **Years 1-7:** Clover cover remains hardy, actively [[building-soil]]
+Fukuoka provides a detailed timeline for soil improvement through [[building-soil]]
 - **Years 7-10:** Clover growth gradually slows
 - **Year 10+:** Weeds begin to reemerge (primarily vines like bindweed and kudzu, and perennials like sorrels)
 - The succession of different herbs is "more natural and more conducive to soil enrichment and development" than a monoculture cover

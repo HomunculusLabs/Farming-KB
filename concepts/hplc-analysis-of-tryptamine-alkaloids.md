@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Reversed-phase high-performance liquid chromatography (HPLC) is the primary analytical technique used for quantifying [[psilocybin-compound]] and [[psilocin]] in fungal tissue. The method described by Bigwood and Beug (1982) established a reliable protocol using reversed-phase HPLC with UV detection and quantification via reporting integrator, calibrated against certified reference standards from the National Institute on Drug Abuse (NIDA). This approach remains the foundation for modern tryptamine alkaloid analysis in mycological research.
+Reversed-phase high-performance liquid chromatography (HPLC) is the primary analytical technique used for quantifying [[psilocin]] in fungal tissue. The method described by Bigwood and Beug (1982) established a reliable protocol using reversed-phase HPLC with UV detection and quantification via reporting integrator, calibrated against certified reference standards from the National Institute on Drug Abuse (NIDA). This approach remains the foundation for modern tryptamine alkaloid analysis in mycological research.
 
 ## Instrumentation
 
@@ -22,13 +22,12 @@ The analytical system used in the 1982 study consisted of several components:
 - **Chromatography column**: Reversed-phase column (C18 or equivalent stationary phase) for separating compounds based on hydrophobicity
 - **Detection system**: UV-Vis absorbance detector operating in the 260 to 280 nm range, targeting the indole chromophore common to all tryptamine compounds
 - **Quantification**: Hewlett-Packard 8380A reporting integrator-plotter for automated peak area measurement and data recording
-- **Calibration standards**: Certified [[psilocybin-compound]] and [[psilocin]] reference materials from the National Institute on Drug Abuse, providing traceable and authenticated purity values
+- **Calibration standards**: Certified [[psilocin]] reference materials from the National Institute on Drug Abuse, providing traceable and authenticated purity values
 
 ### Reversed-Phase Separation
 
 The reversed-phase approach uses a non-polar stationary phase (typically silica bonded with C18 hydrocarbon chains) with a polar mobile phase (usually water or buffer mixed with an organic modifier such as methanol or acetonitrile). This configuration is well-suited for separating tryptamine alkaloids based on their differing polarities:
 
-- [[psilocybin-compound]] is a zwitterionic phosphate ester with both positively charged amine and negatively charged phosphate groups, making it relatively polar
 - [[psilocin]] lacks the phosphate group and is less polar, resulting in stronger retention on the non-polar stationary phase and longer retention time
 
 This polarity difference produces baseline separation of the two compounds, allowing each to be quantified independently without interference.
@@ -37,7 +36,7 @@ This polarity difference produces baseline separation of the two compounds, allo
 
 The method demonstrated reliable quantitative performance across the relevant concentration range:
 
-- **Linear range**: 0.2 to 3.0 micrograms total [[psilocybin-compound]] or [[psilocin]] per injection
+- **Linear range**: 0.2 to 3.0 micrograms total [[psilocin]] per injection
 - **Repeatability**: Approximately 10% relative standard deviation across repeated measurements of the same sample
 - **Detection limit**: Approximately 0.01 micrograms of psilocybin or psilocin per injection
 
@@ -62,11 +61,7 @@ TLC serves as a rapid, low-cost orthogonal confirmation method. While HPLC provi
 
 ## Sample Extraction Protocol
 
-The extraction of [[tryptamine]] alkaloids from dried fungal tissue follows a standard protocol designed to maximize recovery of both the polar psilocybin and the less polar psilocin:
-
-### Step 1: Drying and Preservation
-
-Mushroom tissue is freeze-dried (lyophilized) immediately after harvest and stored at minus 5 degrees Celsius in sealed containers. This preservation step is critical for maintaining the native alkaloid profile, particularly the labile [[psilocin]] which degrades rapidly under ambient conditions.
+The extraction of [[psilocin]] which degrades rapidly under ambient conditions.
 
 ### Step 2: Homogenization
 
@@ -93,7 +88,7 @@ The clarified extract is injected directly into the HPLC system without further 
 
 ### Psilocin Instability
 
-[[psilocin]] is significantly less stable than [[psilocybin-compound]] and poses special analytical challenges that must be addressed at every step of the workflow:
+[[psilocybin]] and poses special analytical challenges that must be addressed at every step of the workflow:
 
 - **Oxidation**: The free phenolic hydroxyl group is susceptible to oxidation, forming blue-colored quinone polymers. This is the same reaction responsible for the characteristic blue bruising observed when psilocybin mushrooms are handled or damaged.
 - **Light sensitivity**: Exposure to UV and visible light accelerates psilocin degradation
@@ -118,18 +113,6 @@ With detection limits around 0.01 micrograms per injection, the method may miss 
 
 ## Comparison With Modern Methods
 
-While the 1982 HPLC-UV method was state-of-the-art for its time, contemporary analysis of [[tryptamine]] alkaloids has advanced significantly:
-
-- **LC-MS/MS**: Tandem mass spectrometric detection provides definitive identification through fragmentation patterns and achieves detection limits 100 to 1000 times lower than UV detection
-- **UHPLC**: Ultra-high-performance liquid chromatography uses sub-2-micrometer particles and pressures above 10,000 psi, offering faster run times (minutes versus tens of minutes) and improved peak resolution
-- **Deuterated internal standards**: Isotope-labeled psilocybin-d4 and psilocin-d4 correct for extraction efficiency, matrix effects, and instrument variability in a single step
-- **Automated sample preparation**: Robotics and 96-well plate formats enable high-throughput screening of large sample sets
-
-Despite these advances, the fundamental reversed-phase separation principles, acid extraction methodology, and calibration approach described by Bigwood and Beug in 1982 remain the conceptual foundation for all modern tryptamine alkaloid analysis methods.
-
-## See Also
-
-- [[psilocybin-variation-across-flushes]]
-- [[psilocin-accumulation-pattern-across-flushes]]
+While the 1982 HPLC-UV method was state-of-the-art for its time, contemporary analysis of [[psilocybin-variation-across-flushes]]
 - [[cap-vs-stem-alkaloid-distribution]]
 - [[psilocybe-cubensis-miniculture-method]]

@@ -125,7 +125,5 @@ heroin addiction.
 ## See Also
 
 - [[sacramental-psychedelic-legal-protections]]
-- [[sacramental-use-of-psychedelic-plants-in-us]]
 - [[sacramental-ayahuasca-legal-battles-united-states]]
-- [[gottlieb-peyote-legal-status-and-conservation]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]

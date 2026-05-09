@@ -136,13 +136,8 @@ sources:
 
 ## See Also
 
-- [[hericium-erinaceus]] — Lion's mane; most studied Hericium species
 - [[hericium-coralloides]] — Coral hedgehog mushroom; hardwood associate
-- [[hericium-americanum]] — American bear's head; eastern NA species
-- russulales — Order containing Hericiaceae
-- hericiaceae — Tooth fungus family
 - [[fatigue-crack-growth]] — Target protein of erinacines/hericenones
 - erinacines — Cyathane diterpenoids with neurotrophic activity
 - hericenones — Aromatic compounds from Hericium fruiting bodies
-- [[beta-glucans]] — Immunomodulatory polysaccharides in fungi
 - [[forest-ecology-basics]] — Ecosystem context for H. abietis

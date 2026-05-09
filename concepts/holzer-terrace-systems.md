@@ -75,11 +75,7 @@ A properly terraced slope can absorb enormous quantities of water without erosio
 
 ## See Also
 
-- [[sepp-holzer-terracing-and-hugelkultur]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- [[climate-and-microclimate-management]]
 - [[rainwater-harvesting-systems]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[fukuoka-white-clover-cover-crop-system]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

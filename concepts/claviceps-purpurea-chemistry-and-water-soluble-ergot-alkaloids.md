@@ -93,14 +93,8 @@ LSD (lysergic acid diethylamide) is a semi-synthetic derivative. The addition of
 
 ## Related
 
-- [[bloomfield-ergot-claviceps-purpurea-ergotism]] Topics
-
 - [[hofmann-self-experiment-with-ergonovine]] -- the experimental proof
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- how this chemistry was applied
 - [[ergot-and-lysergic-acid-history]] -- the full historical context
-- [[lsd-discovery-and-history]] -- decades of research behind these findings
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
 - [[lolium-temulentum-darnel-and-ergot]]
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[digitalis-purpurea]]

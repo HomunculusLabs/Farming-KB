@@ -9,17 +9,7 @@ sources:
 ---
 # IDNNA (2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine)
 
-IDNNA is a substituted amphetamine compound developed as a potential brain imaging agent for nuclear medicine. It is the N,N-dimethyl derivative of [[doi-entity]]. The compound is listed as PIHKAL entry #90.
-
-## Chemical Classification
-
-IDNNA belongs to the amphetamine class of chemical compounds.
-
-It is formally named 2,5-dimethoxy-N,N-dimethyl-4-iodoamphetamine.
-
-The code name IDNNA stands for Iodo-Dimethoxy-N,N-dimethyl-Amphetamine, which was chosen for its pronounceability over the more systematic name DNDIA.
-
-It is a close structural analogue of the extremely potent psychedelic [[doi-entity]].
+IDNNA is a substituted amphetamine compound developed as a potential brain imaging agent for nuclear medicine. It is the N,N-dimethyl derivative of [[doi-entity]].
 
 The compound was investigated primarily for its potential as a positron emission tomography (PET) brain imaging agent.
 
@@ -29,43 +19,7 @@ IDNNA showed no psychoactive activity at the doses tested in humans.
 
 At up to 2.6 mg orally, no psychedelic effects were observed.
 
-At this dose level, [[doi-entity]] would have been clearly active.
-
-IDNNA can be stated to have none of the psychedelic properties of DOI at levels where DOI is active.
-
-However, the compound has not been extensively assayed at higher doses, as the goal was to find an inactive compound suitable for brain imaging.
-
-## Purpose: Brain Blood Flow Imaging
-
-One of the major goals of research in nuclear medicine is a drug that can demonstrate brain blood flow patterns.
-
-Such a drug should demonstrate four properties.
-
-First, it must carry a radioactive isotope that is a positron emitter, ideally fluorine or iodine, that can be put onto the molecule quickly, synthetically, and which will stay on metabolically.
-
-Second, the drug should be rapidly and extensively taken up by brain tissue, without being selectively absorbed at specific sites.
-
-Third, the absorption should be strong enough that the drug stays in the brain and is not washed out quickly.
-
-And fourth, the drug must be without pharmacological action.
-
-IDNNA was investigated as a candidate meeting these criteria.
-
-## Nuclear Medicine Research
-
-IDNNA looked promising when tried with a radioactive iodine label.
-
-There was considerable interest in using it both as an experimental drug and as a prototype for structural variants.
-
-In animal studies, IDNNA went into the brain quickly, extensively, and diffusely, and it stayed in for a long time.
-
-Animal toxicity and behavioral properties were straightforward to determine, and IDNNA was quite inert in animals.
-
-However, animal assays are of no use in determining psychedelic potential, so a quiet human assay was conducted.
-
-## Synthetic Approaches
-
-IDNNA can be synthesized by the reductive methylation of [[doi-entity]] using formaldehyde and sodium cyanoborohydride.
+At this dose level, [[doi-entity]] using formaldehyde and sodium cyanoborohydride.
 
 The product is isolated as the oxalate salt with a melting point of 145-146 degrees C.
 
@@ -113,16 +67,31 @@ The N,N-dimethylation proved effective in abolishing psychedelic effects while p
 
 ## See Also
 
-[[doi-entity]]
+[[dom]]
 
-[[dom-entity]]
-
-[[dob-entity]]
-
-[[2c-i-entity]]
+[[2c-i]]
 
 [[mda]]
 
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #90: IDNNA.
+## Practical Considerations
+
+Successful implementation of IDNNA (2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

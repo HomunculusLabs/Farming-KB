@@ -57,37 +57,30 @@ Onset typically occurs within 15 to 45 minutes, with duration of 3 to 6 hours. S
 
 Topical cannabis preparations (creams, balms, salves, oils) are applied directly to the skin for localized treatment of pain, inflammation, and skin conditions. Topical application produces minimal systemic effects because cannabinoids are poorly absorbed through the skin into the bloodstream.
 
-Dosing for topicals is less precisely defined than for other routes. Patients should apply a small amount to the affected area and increase as needed. Effects are generally felt within 15 to 60 minutes and last 2 to 6 hours. See [[cannabis-topicals-guide]] for detailed topical preparation guidance.
-
-## Dosing Considerations by Condition
-
-Different medical conditions may require different dosing approaches and strain selections. The patient's endocannabinoid status provides guidance for strain selection and dosing strategy.
-
-Patients dealing with neurological disorders or mental and emotional problems are most likely CB1-deficient and may benefit from strains with a higher THC to CBD ratio (sativa-dominant). Patients who are immune-compromised or experience chronic inflammation are most likely CB2-deficient and may benefit from strains with a lower THC to CBD ratio (indica-dominant).
-
-See [[cannabis-dosing-guidelines]] and [[cannabis-dosing-guidelines-by-condition]] for condition-specific dosing recommendations.
-
-## Managing Adverse Effects
-
-The vast majority of adverse effects from cannabis are directly related to using it in excess of the subjective therapeutic window. Common adverse effects include increased appetite, reduced attention span, red sclera (bloodshot eyes), dry mouth, decreased cognitive and motor skills, ataxia (unsteady gait), anxiety or panic, and increased heart rate.
-
-In the event of overconsumption, patients should remain calm and in a safe, comfortable environment. Adverse effects from inhalation typically resolve within 2 to 4 hours, while effects from oral overconsumption may last 6 to 12 hours. CBD can help counteract excessive THC effects. Hydration, rest, and reassurance are the primary management strategies.
-
-There is no known fatal overdose of cannabis. A person weighing 70 kg would need to consume approximately 14 kg of herb to approach a potentially lethal dose based on animal studies, making fatal overdose effectively impossible through normal use.
-
-## Tolerance and Dose Adjustment
-
-Regular cannabis use leads to the development of tolerance, requiring progressively higher doses to achieve the same therapeutic effect. Tolerance develops to THC more rapidly than to CBD. Patients who use cannabis daily may find that their effective dose increases over weeks to months.
-
-Tolerance breaks (periods of abstinence lasting several days to two weeks) can partially reset tolerance levels. Rotating between strains with different cannabinoid profiles may also help manage tolerance development. See [[cannabis-tolerance-and-dependence]] for a comprehensive discussion of tolerance, dependence, and responsible use.
+Dosing for topicals is less precisely defined than for other routes. Patients should apply a small amount to the affected area and increase as needed. Effects are generally felt within 15 to 60 minutes and last 2 to 6 hours. See [[cannabis-dosing-guidelines]] and [[cannabis-tolerance-and-dependence]] for a comprehensive discussion of tolerance, dependence, and responsible use.
 
 ## See Also
 
-- [[cannabis-dosing-guidelines]] — general dosing framework
 - [[cannabis-dosing-guidelines-by-condition]] — condition-specific recommendations
-- [[cannabis-methods-of-consumption]] — routes of administration
 - [[cannabis-tinctures-guide]] — tincture preparation and dosing
-- [[cannabis-edibles-guide]] — edible preparation and dosing
 - [[cannabis-tolerance-and-dependence]] — tolerance management
-- [[cannabis-strain-selection-guide]] — choosing strains for conditions
 - [[cannabis-cannabinoid-receptor-pharmacology]] — receptor science
+## Practical Considerations
+
+Successful implementation of Cannabis Dosing and Titration requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

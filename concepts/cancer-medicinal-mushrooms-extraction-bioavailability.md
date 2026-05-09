@@ -107,10 +107,6 @@ or teratogenicity studies.
 
 ## Related
 
-- [[catharanthus-roseus]] Topics
-
 - [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
-- [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 - [[mushroom-polysaccharide-safety-toxicity]]

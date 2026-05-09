@@ -1,7 +1,7 @@
 ---
 title: Medicinal Mushroom Compounds and Health Benefits
 created: 2026-04-28
-tags: [mycology, medicinal-mushrooms, bioactive-compounds, health]
+tags: [[mycology, medicinal-mushrooms, bioactive-compounds, health]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -13,26 +13,7 @@ type: concept
 Medicinal mushrooms produce a diverse array of bioactive compounds that have
 been used in traditional medicine for millennia and are increasingly validated
 by modern pharmacological research. The most studied classes of compounds
-include polysaccharides (particularly [[beta-glucans]]), triterpenoids, and various
-secondary metabolites with immunomodulatory, anti-inflammatory, and
-antitumor properties.
-
-## Beta-Glucans and Immunomodulation
-
-Beta-glucans are polysaccharides composed of D-glucose monomers linked by beta
-glycosidic bonds. The specific beta-1,3 and beta-1,6 branching patterns found
-in fungal cell walls are recognized by the innate immune system as pathogen-
-associated molecular patterns (PAMPs). This recognition triggers immune
-activation through Dectin-1 receptors on macrophages, dendritic cells, and
-natural killer cells.
-
-The immunomodulatory effects are bidirectional: beta-glucans can stimulate
-underactive immune responses (enhancing resistance to infections and tumors)
-while simultaneously calming overactive immune responses (reducing allergic and
-autoimmune inflammation). This dual activity makes them genuinely immunomodulatory
-rather than simply immunostimulatory.
-
-**Turkey tail ([[trametes-versicolor]])** is the most commercially significant
+include polysaccharides (particularly [[trametes-versicolor-entity]])** is the most commercially significant
 source of beta-glucans, with its polysaccharide-K (PSK) and polysaccharide-
 peptide (PSP) approved as cancer adjuvant therapies in Japan and China.
 Clinical trials demonstrate improved survival rates and immune function in
@@ -115,8 +96,5 @@ spray-drying.
 
 ## See Also
 
-- [[medicinal-mushrooms-compounds-and-benefits]]
-
 - [[fruiting-chamber-design-and-environmental-control]]
-- [[substrate-preparation-and-pasteurization]]
 - [[grain-spawn-production]]

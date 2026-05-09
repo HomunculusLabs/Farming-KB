@@ -114,17 +114,7 @@ These limitations make careful controls and orthogonal characterization essentia
 - Host-guest chemistry
 - Molecular self-assembly
 - Coordination chemistry
-- [[enzyme-kinetics-michaelis-menten-model]]
-- structure activity relationship medicinal chemistry
-
-## References
-
-- Wikipedia, "Supramolecular chemistry," accessed 2026-05-02.
-- Wikipedia, "Host-guest chemistry," accessed 2026-05-02.
-- Wikipedia, "Molecular self-assembly," accessed 2026-05-02.
-
-## See Also
-
 - [[plant-cellulose-and-carbohydrate-chemistry]]
-- [[cannabis-terpene-and-aroma-chemistry-clarke]]
 - [[psychedelic-mushroom-chemistry]]
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

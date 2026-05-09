@@ -132,8 +132,6 @@ in the days following sterilization provides adequate feedback.
 
 ## See Also
 
-- [[cotter-substrate-preparation]]
 - [[gartz-mushroom-cultivation-classic-and-new-techniques]]
-- [[contamination-prevention-in-mushroom-cultivation]]
 - [[grain-spawn-preparation]]
 - [[agar-culture-technique]]

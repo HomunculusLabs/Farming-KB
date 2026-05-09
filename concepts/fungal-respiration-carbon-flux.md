@@ -3,7 +3,7 @@ title: Fungal Respiration Carbon Flux
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Respiration and Carbon Flux
@@ -130,12 +130,8 @@ Fungal respiration and carbon flux have several key ecological implications:
   respiration and biomass turnover
 
 Related topics:
-- [[fungal-responses-climate-change]]
 - [[fungal-decomposition-kinetics]]
-- [[fungal-feeding-invertebrates-fungivory]]
 - [[fungal-biomass-estimation-methods]]
-- [[fungal-nutrient-cycling-forests]]
 - [[fungal-enzymatic-diversity-decomposition]]
-- [[ectomycorrhizal-ecology]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[fungal-roles-grassland-ecosystems]]

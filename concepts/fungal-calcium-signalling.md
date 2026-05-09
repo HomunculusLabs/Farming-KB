@@ -106,22 +106,6 @@ signalling machinery. M. grisea has a greatly expanded family of GPCRs
 Sixty-one of these belong to a completely new class of eukaryotic GPCRs (the
 PTH11-related proteins). This expanded receptor repertoire may give M. grisea
 greater flexibility in reacting to different extracellular signals, potentially
-related to its pathogenic rather than [[gadd-fungal-ecology-saprotrophs]] lifestyle.
-
-## The Spitzenkorper as Response Element
-
-The Spitzenkorper is a complex, multicomponent structure dominated by
-vesicles and located within the tips of growing hyphae. Its dynamic behaviour
-is intimately associated with hyphal morphogenesis and directionality. Local
-environmental signals (touch stimuli, pheromones, chemical signals) rapidly
-modify Spitzenkorper behaviour through signal transduction machinery, with
-calcium likely playing a key role in this process. The Spitzenkorper acts as
-a vesicle supply centre and potentially as a switching station between
-microtubule-based and actin microfilament-based vesicle transport.
-
-## See Also
-
-- [[gadd-fungal-cell-structure]]
-- [[gadd-fungal-nutrition-metabolism]]
+related to its pathogenic rather than [[gadd-fungal-cell-structure]]
 - [[magnaporthe-grisea-functional-genomics-rice-blast]]
 - [[gadd-fungal-reproduction-spores]]

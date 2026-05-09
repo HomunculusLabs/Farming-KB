@@ -1,7 +1,7 @@
 ---
 title: Supplemented Sawdust Block Cultivation
 created: 2026-04-28
-tags: [mycology, sawdust-blocks, supplemented-substrate, commercial-cultivation]
+tags: [[mycology, sawdust-blocks, supplemented-substrate, commercial-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -134,8 +134,6 @@ systems.
 
 ## See Also
 
-- [[enriched-sawdust-cultivation]]
 - [[shiitake-log-vs-sawdust-cultivation]]
-- [[gourmet-mushroom-enriched-sawdust-cultivation]]
 - [[oyster-mushroom-supplemented-sawdust-blocks]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]

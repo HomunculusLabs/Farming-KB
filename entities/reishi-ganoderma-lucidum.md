@@ -20,11 +20,7 @@ sources:
   - "Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press."
 ---
 
-# Reishi (*[[ganoderma-lucidum]]*)
-
-## Overview
-
-Reishi, known as **Lingzhi** (灵芝, "divine mushroom") in Chinese and **Mannentake** (万年茸, "10,000-year mushroom") in Japanese, is a polypore fungus belonging to the family **Ganodermataceae**. It is one of the most extensively studied and culturally significant [[medicinal-mushrooms]] in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.
+# Reishi (*[[medicinal-mushrooms]] in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.
 
 ## Taxonomy
 
@@ -48,36 +44,7 @@ Reishi is a **shelf fungus** (bracket fungus) with a distinctive fan or kidney-s
 - **Pore surface**: White to light brown, with small round pores (4–6 per mm). Bruises brown.
 - **Context (flesh)**: Woody and corky, light brown. Does not soften when cooked.
 - **Stipe**: Lateral to eccentric, 5–15 cm long, cylindrical. Dark reddish-brown with glossy sheen.
-- **[[spore-print]]**: Brown. Spores ovoid, 7–12 × 5–8 µm, double-walled with truncate apex.
-- **Taste**: Very bitter (attributed to triterpenoid content). **Odor**: Mild, earthy.
-
-## Habitat and Distribution
-
-Reishi is a **saprotrophic** and **parasitic** wood-decay fungus growing on dead or dying hardwood trees, especially oaks (*Quercus* spp.), maples (*Acer* spp.), and elms (*Ulmus* spp.). It prefers warm, humid, subtropical to temperate forests.
-
-- **Native range**: East Asia (China, Japan, Korea), Southeast Asia.
-- **Global**: Found in the Americas, Europe, and Africa, though many collections represent closely related *Ganoderma* species rather than true *G. lucidum*.
-- **Fruiting season**: Summer through early autumn.
-
-## Traditional Uses
-
-Reishi occupies the highest tier of Traditional Chinese Medicine (TCM), described in the *Shennong Ben Cao Jing* (~200 BCE) as a superior herb:
-
-- **Shen tonic**: Calming to the spirit (*shen*), promoting restful sleep and emotional balance.
-- **Longevity**: Historically consumed by royalty and Taoist monks as an elixir of immortality.
-- **Respiratory support**: Used for chronic cough, asthma, and bronchitis.
-- **Liver protection**: Prescribed for jaundice and liver disorders.
-- **Fatigue and weakness**: General restorative for chronic exhaustion.
-- **Traditional preparation**: Decocted (simmered) 1–2 hours to extract water-soluble polysaccharides. Modern dual-extraction (water + alcohol) captures both polysaccharides and alcohol-soluble triterpenes.
-
-## Bioactive Compounds
-
-### Polysaccharides (β-Glucans)
-- **β-(1→3)-D-glucan** and **β-(1→6)-D-glucan** with branching side chains are the primary immunomodulatory compounds.
-- Molecular weight ranges from ~10 kDa to over 1,000 kDa; higher MW fractions show greater immunological activity.
-- Mechanism: Bind to pattern recognition receptors (Dectin-1, TLR-2, TLR-4) on immune cells, activating macrophages, NK cells, and dendritic cells.
-
-### Triterpenes ([[ganoderic-acids]])
+- **[[ganoderic-acids]])
 - Over 150 **ganoderic acids** and related triterpenoids identified.
 - Key compounds: ganoderic acid A, B, C, D, F, H, K, lucidenic acid, ganoderiol B.
 - Responsible for the characteristic bitter taste.
@@ -133,18 +100,5 @@ Sequential water extraction (90–100°C, 2–3 hrs) followed by ethanol extract
 
 ## Permaculture Applications
 
-- **[[food-forest]] integration**: Cultivated on inoculated hardwood logs in food forest understories, yielding medicinal mushrooms and decomposition services.
-- **Nutrient cycling**: Accelerates hardwood debris decomposition, releasing nutrients into the soil food web.
-- **Tree health management**: Participates in forest succession cycles; strategic inoculation accelerates recycling of dead/dying trees.
-- **Medicinal plant polyculture**: Thrives in humid, shaded understories beneath ginseng, goldenseal, or astragalus.
-- **Economic diversification**: High-value crop; dried Reishi commands $50–200+/kg in medicinal herb markets.
-- **Low-input**: Once inoculated, logs require minimal maintenance—primarily moisture management.
-
-## Safety and Precautions
-
-Generally regarded as safe (GRAS) at standard doses (1.5–9 g/day dried). Mild anticoagulant effects warrant caution with blood-thinning medications. Consult healthcare providers before use with autoimmune conditions or pre-surgery. Source from reputable suppliers; commercial product quality varies significantly.
-
-## See Also
-
-- [[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent medicinal polypore
+- **[[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent medicinal polypore
 - [[turkey-tail-trametes-versicolor]] — Turkey Tail, rich in PSK/PSP polysaccharides

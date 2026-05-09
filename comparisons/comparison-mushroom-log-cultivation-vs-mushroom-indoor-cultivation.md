@@ -18,36 +18,6 @@ colonization times. Indoor cultivation offers environmental control, faster
 turnaround, and higher biological efficiency but requires more equipment,
 sterile technique, and ongoing management.
 ## Mushroom Log Cultivation
-[[mushroom-log-cultivation]]
-Log cultivation involves inoculating freshly cut hardwood logs with mushroom
-spawn (usually sawdust or plug spawn) and allowing the fungus to colonize the
-wood over 6-18 months before fruiting. This method works best for
-wood-decomposing fungi including shiitake (the most popular log-grown species),
-oyster mushrooms, lion's mane, and reishi. The key factors for success are tree
-species selection (oak, maple, beech, and sweet gum are excellent; avoid
-conifers and all trees in the Eucalyptus, Black Walnut, and Black Cherry
-families), log freshness (cut within 2-6 weeks before the wood dries and natural
-competitors colonize), log diameter (4-8 inches ideal, too thin dries too fast,
-too thick colonizes too slowly), and moisture management throughout the process.
-Logs are typically 3-4 feet long and are inoculated by drilling rows of holes 1
-inch deep and 2 inches apart, packing each hole with spawn, and sealing with
-food-grade wax (cheese wax or beeswax) to prevent desiccation and contamination.
-After inoculation, logs enter a colonization phase called the "spawn run" where
-the mycelium spreads through the wood. This requires a shaded, moist environment
-with good air circulation. Stacking methods include the crisscross stack (logs
-layered in alternating directions to maximize airflow), the lean-to stack (logs
-leaned against a rail or fence), and the A-frame stack. Depending on species,
-climate, and log thickness, fruiting begins 6-18 months after inoculation.
-Shiitake logs can produce for 4-6 years, yielding 1-2 lbs per log per year
-across 2-4 fruiting cycles per year. Oyster mushrooms fruit more quickly (3-6
-months) but logs exhaust sooner (1-2 years of production). Forcing fruiting by
-soaking logs in cold water for 24 hours triggers a predictable fruiting flush
-7-14 days later, allowing growers to schedule harvests. Log-grown mushrooms are
-widely considered superior in flavor, texture, shelf life, and nutritional
-content compared to indoor-grown specimens. The method requires minimal
-equipment (drill, spawn, wax, inoculation tool) and very low ongoing maintenance
-beyond occasional watering during dry periods.
-## Mushroom Indoor Cultivation
 [[mushroom-indoor-cultivation]]
 Indoor mushroom cultivation uses prepared substrates (sterilized grain spawn,
 pasteurized straw or sawdust blocks) in controlled environments to grow
@@ -119,10 +89,7 @@ development.
 Many successful mushroom growers combine both methods for year-round production
 and species diversity. Use log cultivation for shiitake and reishi as a
 ## See Also
-- [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
 - [[comparison-monotub-vs-pf-tek]]
-- [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
-- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[comparison-spore-print-vs-agar-culture]]

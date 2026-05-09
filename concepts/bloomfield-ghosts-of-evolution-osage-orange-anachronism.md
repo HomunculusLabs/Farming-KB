@@ -131,8 +131,6 @@ experience to the deeper evolutionary currents that produced them.
 
 ## See also
 
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
 - [[bloomfield-mushroom-poisons-and-toxidromes]]
-- [[bloomfield-fungal-secondary-metabolites]]
 - [[bloomfield-fungal-parasites-of-insects]]
 - [[bloomfield-amatoxin-poisoning-mechanism]]

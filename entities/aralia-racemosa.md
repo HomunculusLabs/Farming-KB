@@ -115,12 +115,7 @@ Current herbal use focuses on respiratory support and as a component of adaptoge
 ## See Also
 
 - [[withania-somnifera]]
-- [[ashwagandha]]
-- [[borago-officinalis]]
 - [[leonurus-cardiaca-entity]]
-- [[agastache-foeniculum]]
 - [[hugelkultur]]
-- [[companion-planting]]
 - [[robinia-pseudoacacia]]
-- [[elaeagnus-umbellata]]
 - [[caragana-arborescens]]

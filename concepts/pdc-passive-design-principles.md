@@ -3,22 +3,14 @@ title: "Pdc Passive Design Principles"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [permaculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
----
-title: PDC Passive [[mollison-designers-free-range-forage-design-principles]] for Buildings and Landscapes
+tags: [[mollison-designers-free-range-forage-design-principles]] for Buildings and Landscapes
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, building, microclimate]
----
+tags: [[permaculture-house-design-principles]] for Buildings and Landscapes
 
-# PDC Passive [[permaculture-house-design-principles]] for Buildings and Landscapes
-
-Passive design is the art and science of harnessing natural existing forces to accomplish tasks without external energy input. The [[williams-pdc-permaculture-ethics-and-principles-in-practice]] devotes extensive coverage to passive design as a core permaculture competency, treating it as an application of [[permaculture-design-principles]] #2: catch and store energy. Williams teaches that passive design is not limited to architecture -- it is a way of thinking applicable to water movement, cooling, heating, ventilation, and lighting.
+Passive design is the art and science of harnessing natural existing forces to accomplish tasks without external energy input. The [[permaculture-farm-design-principles]] #2: catch and store energy. Williams teaches that passive design is not limited to architecture -- it is a way of thinking applicable to water movement, cooling, heating, ventilation, and lighting.
 
 ## The Three Mechanisms of Heat Transfer
 
@@ -45,9 +37,7 @@ Heat transfers through the movement of a medium such as air or water. Key princi
 - Cross-breezes require windows on opposite sides of a structure
 - Cross-breeze direction follows prevailing wind patterns
 
-## The Four Fundamentals of [[passive-solar-design]]
-
-Williams identifies four elements that must be correctly combined for effective [[permaculture-designers-manual-passive-solar-design]]:
+## The Four Fundamentals of [[permaculture-designers-manual-passive-solar-design]]:
 
 ### 1. Orientation
 
@@ -147,4 +137,3 @@ Williams stresses that passive design begins OUTSIDE the structure. The surround
 ### Roof as Multi-Function Element
 
 - Green roofs maximize growing space and replace ecological footprint
-- Solar panels provide shade while generating electricity

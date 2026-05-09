@@ -15,16 +15,11 @@ type: concept
 
 Lysergic acid amide (LSA, also known as "ergine") is a naturally
 occurring ergoline alkaloid found in the seeds of several plant
-species. LSA is a close chemical analogue of [[lsd]] (lysergic acid
-diethylamide), the best-known synthetic hallucinogen. While [[lsd]] does
-not occur in nature, LSA is present in the seeds of [[argyreia-nervosa]]
-(Hawaiian baby woodrose) and [[ipomoea-violacea]] (morning glory). [[ergine-lsa]]
-produces hallucinogenic effects at significantly higher doses than
-[[lsd]] and has both quantitative and qualitative differences from its
+species. LSA is a close chemical analogue of [[lsd]] does
+not occur in nature, LSA is present in the seeds of [[ipomoea-violacea]] (morning glory). [[lsd]] and has both quantitative and qualitative differences from its
 synthetic counterpart.
 
-See also: [[hallucinogenic-plants-native-to-united-states]],
-[[psilocybin-containing-mushrooms-in-us]]
+See also: [[psilocybin-containing-mushrooms-in-us]]
 
 ## LSA Chemistry and Relation to LSD
 
@@ -108,8 +103,7 @@ compounds.
 
 Ipomoea violacea and related Ipomoea corymbosa seeds have documented
 use in Central America for shamanic and ceremonial purposes. The
-The [[mazatec-people]] of Mexico continue traditional usage in divination and
-healing rituals. Known in the Mazatec tradition as "[[ololiuqui]]," these
+The [[ololiuqui]]," these
 seeds represent one of the oldest known psychedelic plant preparations
 in the Americas.
 
@@ -117,7 +111,7 @@ in the Americas.
 
 Primary health risks include nausea and vomiting (common with all
 preparation methods, particularly from seed coatings), theoretical
-theoretical [[ergotamine]] risk from ergoline alkaloids (though [[ergine-lsa]] has not been
+theoretical [[ergine-lsa]] has not been
 associated with ergotism at typical doses), and sedation that impairs
 coordination and judgment.
 
@@ -136,13 +130,6 @@ vendors, creating a legal gray area.
 
 ## Related
 
-- [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] Topics
-
-[[hallucinogenic-plants-native-to-united-states]] surveys psychoactive flora found growing wild in the US, including several ergoline-containing species.
-[[psilocybin-containing-mushrooms-in-us]] covers the other major class of naturally occurring hallucinogenic organisms in the United States.
-[[entities/ergine-lsa]] provides the detailed entity profile for the ergine molecule itself.
-[[entities/lsd]] covers the synthetic derivative to which LSA is most closely compared.
-
-## See Also
-
-- [[ipomoea-batatas]]
+- [[hallucinogenic-plants-native-to-united-states]] surveys psychoactive flora found growing wild in the US, including several ergoline-containing species.
+[[ergine-lsa]] provides the detailed entity profile for the ergine molecule itself.
+[[ipomoea-batatas]]

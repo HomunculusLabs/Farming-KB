@@ -127,8 +127,6 @@ Analogue Act, though no prosecutions have been documented.
 
 ## See Also
 
-- [[ergotamine]] — Major ergopeptine alkaloid from *Claviceps purpurea*
 - [[ergometrine]] — Ergoline alkaloid with significant oxytocic activity
-- [[ergocristine]] — Ergopeptine alkaloid sharing the lysergic acid core
 - [[lysergic-acid-amide]] — Direct downstream metabolite of lysergol
 - [[lsd]] — Semisynthetic derivative of lysergic acid

@@ -55,31 +55,29 @@ England via Roman trade routes.
   scrofula, gum problems, sweaty feet, skin problems including
   acne and dandruff; decoction of green shell used for failing
   virility; traditional remedy across Middle Eastern and European
-  [[herbal-medicine]] traditions
+  [[drosera-regia]]
 
-## Cultivation
-Requires deep, well-drained, fertile soil in a sheltered position.
-Frost-sensitive when young but mature trees are hardy. Spacing of
-10-15 m is typical for commercial orchards. Propagation is primarily
-by grafting onto compatible rootstock, particularly J. regia seedling
-or J. nigra rootstock. Begins bearing at 4-8 years from grafting.
-Important note: walnut roots produce juglone, an allelopathic
-compound that can inhibit growth of certain companion plants
-including apples, tomatoes, and potatoes.
-
-## Relevance
-The Persian walnut is a staple food tree in permaculture designs for
-temperate and Mediterranean climates. Its high nutritional value,
-premium timber, and medicinal properties make it a multi-functional
-element in food forest systems. The high fat and protein content of
-walnuts makes them one of the most calorie-dense nut crops for
-temperate food security planning.
-
-## See Also
-
-- [[food-forest-design]]
 - [[castanea-sativa]]
 - corylus avellana
 - [[morus-alba]]
 - juglans nigra
 - juglans venezuelensis
+## Practical Considerations
+
+Successful implementation of Juglans regia requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

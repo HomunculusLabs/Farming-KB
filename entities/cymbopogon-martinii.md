@@ -80,9 +80,7 @@ GC-MS analysis typically identifies 30–50 minor components that contribute to 
 
 Palmarosa oil demonstrates broad-spectrum antimicrobial activity in vitro:
 
-- Effective against Gram-positive bacteria (*Bacillus subtilis*, *Staphylococcus epidermidis*) and Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*)
-- Inhibitory against dermatophyte fungi (*Trichophyton rubrum*, *Microsporum canis*)
-- Active against *Candida albicans* at MIC values of 0.25–1.0 mg/mL
+- Effective against Gram-positive bacteria (*[[candida-albicans]]* at MIC values of 0.25–1.0 mg/mL
 
 ### Skin and Wound Healing
 
@@ -115,26 +113,8 @@ Palmarosa is an excellent multi-functional species for tropical permaculture des
 - Repels certain insect pests through volatile oil emissions
 - Residue after distillation (grass biomass) returns organic matter to soil
 
-Suitable for contour planting, alley cropping systems, and as a border plant in food forests.
-
-## Cultivation
-
-Propagated vegetatively through root slips or tiller separation, as seed viability is low and germination uneven.
-
-Planting is done at the onset of monsoon rains, spaced 45–60 cm in rows 60–90 cm apart.
-
-First harvest occurs 90–120 days after planting. Subsequent harvests are taken at 60–90 day intervals, with 3–4 cuttings per year.
-
-Crop lifespan is 4–6 years under good management. Average fresh herbage yield is 15–25 tonnes/ha/year.
-
-Distillation is typically performed within 2–4 hours of harvest for maximum oil recovery.
-
-## See Also
-
-- [[cymbopogon-citratus]]
-- [[permaculture-designers-manual-essential-oil-plants]]
+Suitable for contour planting, [[cymbopogon-citratus]]
 - [[geraniol]]
-- [[permaculture-designers-manual-essential-oil-plants]]
 - [[permaculture-designers-manual-essential-oil-plants]]
 - aromatherapy compounds
 - [[permaculture-plants-dynamic-accumulators]]

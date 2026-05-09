@@ -3,13 +3,13 @@ title: Fungal PAH Degradation and Soil Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
 updated: 2026-04-18
 
-Polyaromatic hydrocarbon (PAH) degradation by fungi is one of the most promising applications of [[fungal-bioremediation]], leveraging the extracellular oxidative enzyme systems of [[white-rot-fungi-effluent-decolorization]] to break down recalcitrant environmental pollutants that resist bacterial attack.
+Polyaromatic hydrocarbon (PAH) degradation by fungi is one of the most promising applications of [[white-rot-fungi-effluent-decolorization]] to break down recalcitrant environmental pollutants that resist bacterial attack.
 
 ## PAHs as Environmental Pollutants
 
@@ -81,33 +81,8 @@ Introducing specific fungal species via formulated inocula. Key factors:
 - **Inoculum density**: Higher initial inoculum improves colonization
 
 ### Composting
-Mixing contaminated soil with organic materials (straw, manure) and white-rot fungi. Composting with [[singh-cytochrome-p450-fungal-bioremediation]] has been used for alachlor-impacted soil treatment.
-
-### Bioslurry Reactors
-Contaminated soil mixed with water and aerated, with fungal inoculum. Used for:
-- PAH-contaminated soils
-- Explosives (TNT) contamination
-- Pentachlorophenol treatment
-
-## Factors Affecting PAH Degradation
-
-- **Bioavailability**: Sequestration in soil organic matter reduces accessibility
-- **Wetting/drying cycles**: Can increase pollutant availability
-- **Heavy metal co-contamination**: Cadmium and mercury inhibit ligninolytic enzymes
-- **Indigenous microbial competition**: Well-adapted indigenous communities often outcompete introduced species
-- **Temperature and moisture**: Weather variability profoundly affects field outcomes
-- **PAH structure**: Higher molecular weight compounds are more recalcitrant
-
-## Mixed Culture Considerations
-
-In natural ecosystems, fungal bioremediation is a collaborative effort with bacteria. Among 10 natural isolates of P. chrysosporium, one or more bacterial species were always present (Agrobacterium radiobacter, Burkholderia sp., and rRNA superfamily IV members). Future research should emphasize mixed bacteria-fungal consortia rather than single-species inocula.
-
-## See Also
-
-- [[fungal-enzyme-systems-in-bioremediation]]
-- [[biochemistry-of-ligninolytic-fungi-bioremediation]]
+Mixing contaminated soil with organic materials (straw, manure) and white-rot fungi. Composting with [[fungal-enzyme-systems-in-bioremediation]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
-- [[bioremediation-using-fungi]]
 - [[composting-methods-comparison]]
 
 ## Source

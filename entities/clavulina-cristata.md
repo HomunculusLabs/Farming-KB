@@ -140,11 +140,11 @@ four-spored basidia and frequently amyloid spore ornamentation.
 *Multiclavula mucida* is a much smaller, club-shaped lichenized fungus that
 grows on algae-coated wood and is easily distinguished by its minute size and
 obligate association with algae.
+## See Also
+
+- [[cantharellus-cibarius-entity]] — Chanterelle, fellow Cantharellales member of forest floors
+- [[ramaria-stricta]] — Common coral fungus of similar appearance but larger stature
 
 ## See Also
 
-- [[clavulina-rugosa]]
-
-- [[cantharellus-cibarius-entity]] — Chanterelle, fellow Cantharellales member of forest floors
-- [[ectomycorrhiza]] — Mutualistic root-fungus symbiosis central to forest ecology
-- [[ramaria-stricta]] — Common coral fungus of similar appearance but larger stature
+- [[ectomycorrhizal-fungal-ecology]]

@@ -56,56 +56,6 @@ Oidiodendron maius demonstrates remarkable versatility in its ability
 to utilize organic nitrogen sources, a critical adaptation for life
 in the acidic, organic matter-rich soils typically inhabited by
 ericaceous plants. Along with the related ericoid mycorrhizal fungus
-[[acremonium-strictum]], O. maius has been shown to utilize a range of
-nitrogen-containing compounds as sole nitrogen sources in culture.
-These include amino acids such as glutamine, peptides such as
-glutathione, and complex proteins such as bovine serum albumin.
-
-This broad-spectrum nitrogen acquisition capability is ecologically
-significant because the soils where ericaceous plants grow are often
-characterized by high carbon-to-nitrogen ratios and slow rates of
-nitrogen mineralization. In these environments, the ability of the
-mycorrhizal fungal partner to access organic nitrogen directly from
-soil organic matter and transfer it to the host plant represents a
-critical adaptation. The fungal hyphae can penetrate decomposing
-organic material and produce extracellular proteases and peptidases
-that break down complex nitrogen compounds into forms that can be
-absorbed and translocated to the host plant.
-
-The capacity to utilize proteins and peptides as nitrogen sources is
-particularly noteworthy, as these larger molecules are less mobile
-in soil than amino acids and require enzymatic degradation before
-assimilation. The production of proteolytic enzymes by O. maius
-enables the fungus to access this relatively recalcitrant nitrogen
-pool, providing a nutritional advantage to its host plant in
-competitive ecosystems.
-
-## Heavy Metal Tolerance
-
-One of the most distinctive features of Oidiodendron maius is its
-ability to tolerate and even thrive in environments contaminated
-with heavy metals. Research by Martino et al. (2000a) demonstrated
-that O. maius exhibits altered enzymatic profiles in response to
-elevated concentrations of zinc and cadmium. Specifically, the
-production of polygalacturonase, a pectin-degrading enzyme involved
-in plant cell wall degradation and fungal penetration of root
-tissues, increased with increasing Zn and Cd concentrations.
-
-Notably, this enhanced polygalacturonase production coincided with
-greater growth rates at higher heavy metal levels, suggesting that
-O. maius possesses adaptive mechanisms that allow it to maintain or
-even increase its metabolic activity under metal stress conditions.
-This response contrasts with the typical inhibitory effects of heavy
-metals on fungal growth and enzymatic activity observed in many other
-fungal species.
-
-The heavy metal tolerance of O. maius has important ecological
-implications for ericaceous plant communities growing on contaminated
-or metalliferous soils. Ericaceous plants of the genera Calluna,
-Vaccinium, and Rhododendron showed growth in the presence of copper
-and zinc at concentrations ranging from 0 to 150 mg/L only when they
-were colonized by ericoid mycorrhizae. Non-mycorrhizal plants were
-unable to grow under these conditions, demonstrating that the
 [[mycorrhizal-symbiosis]] is essential for plant survival and growth in
 metal-contaminated environments.
 
@@ -140,6 +90,5 @@ critical for maintaining its dominance in the forest understory.
 
 ## See Also
 
-- [[cenococcum-geophilum]]
 - [[laccaria-laccata]]
 - [[laccaria-bicolor]]

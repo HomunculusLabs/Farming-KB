@@ -131,10 +131,6 @@ weeds. They are compatible with understory plantings beneath fruit trees.
 
 ## See Also
 
-- [[glycyrrhiza-glabra]] — licorice root, paired with peony in many TCM formulas
 - [[reishi-ganoderma-lucidum]] — immunomodulatory medicinal fungus
-- [[astragalus-membranaceus]] — another core TCM adaptogenic herb
 - [[codonopsis-pilosula]] — "poor man's ginseng," common TCM pairing
-- [[crocus-sativus]] — saffron, ornamental and medicinal bulb
-- [[achillea-millefolium]] — yarrow, another deep-rooted perennial medicinal
 - [[calendula-officinalis]] — ornamental medicinal herb with anti-inflammatory properties

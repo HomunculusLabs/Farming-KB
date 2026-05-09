@@ -140,9 +140,6 @@ chlorinated water (150 ppm) to suppress bacterial blotch organisms.
 
 ## See Also
 
-- [[mushroom-cultivator-compost-pile-management]]
-
 - [[mushroom-cultivator-fruiting-conditions]]
-- [[stamets-pinning-initiation-stages-environmental-control]]
 - [[mushroom-cultivator-harvesting-storage]]
 - [[casing-layer-principles]]

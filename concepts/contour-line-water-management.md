@@ -20,16 +20,7 @@ Contour lines are central to Holzer's method of creating water landscapes.
 Understanding how water has shaped the landscape over millennia, and reading
 the natural contour patterns, allows the practitioner to place water retention
 spaces exactly where nature intended them. This approach shares some
-principles with [[keyline-design]]
-but extends into Holzer's unique observational methodology.
-
-## Reading the Landscape
-
-For Holzer, reading the landscape starts from above. From an aeroplane, one
-can see natural and man-made landmarks, the shape of the land, how water has
-formed the landmass over millions of years, and how humans have excluded water
-from places. On closer inspection, the mistakes of centuries become visible:
-floods, forest fires, [[desertification-causes-reversal]], and
+principles with [[desertification-causes-reversal]], and
 the loss of biodiversity all appear as logical consequences of human
 interference.
 
@@ -69,36 +60,7 @@ the practitioner cooperates with water rather than fighting against it.
 ## Contour Lines in Different Landscapes
 
 In hilly landscapes, large reservoirs are not necessary. Small measures taken
-along contour lines, such as swales, small ponds, and [[sepp-holzer-terrace-systems-and-raised-beds]], can capture and hold water effectively.
-Each landscape is different, and the reading of nature requires tuning into
-local conditions that can differ widely even a kilometre apart.
-
-A lake should be built to enable three ways of water movement: meandering
-like a snake, wave movement from wind, and spiralling where meanders and
-waves meet. Contour placement helps achieve this by determining the natural
-shape and depth relationships of the water body.
-
-## Mistakes in Conventional Dam Construction
-
-Conventional reservoirs are often built following an engineer's design rather
-than contour lines. These typically feature:
-- Even, geometric shapes (rectangular or circular)
-- Uniform depth with no shallow or deep zones
-- Complete isolation from surroundings
-- No connection to soil or groundwater
-- No natural water movement
-
-Such reservoirs develop sediment buildup, begin to decay and stink, and
-eventually need aeration and chemical treatment. By contrast, a naturally
-shaped retention space built on contour lines allows water to seep into the
-ground, connect with soil minerals, and become healthy drinking water through
-self-purification.
-
-## The Contour Principle for Earth Restoration
-
-Contour line water management is not limited to pond and lake construction.
-The same principle applies to:
-- [[sepp-holzer-terrace-systems-and-raised-beds]] construction on
+along contour lines, such as swales, small ponds, and [[sepp-holzer-terrace-systems-and-raised-beds]] construction on
   slopes to prevent erosion and hold soil
 - Swale creation to slow and spread water across the landscape
 - Road and path placement to avoid disrupting natural water flow
@@ -111,8 +73,25 @@ it destroys the homes of innumerable humans, animals, and plants.
 
 ## See Also
 
-- [[holzer-water-landscapes-retention]] for the broader water landscape concept
 - [[holzer-pond-lake-design]] for detailed water body design
-- [[reading-the-landscape]] for observational methodology
 - [[keyline-design]] for related keyline
   principles
+## Practical Considerations
+
+Successful implementation of Contour Line Water Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

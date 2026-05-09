@@ -3,7 +3,7 @@ title: Fungal Biosorption of Heavy Metals by Filamentous Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -125,15 +125,9 @@ Fungal biosorption has been applied to treat mineral-processing wastewater, elec
 
 ## See Also
 
-- [[mycoremediation-heavy-metals-detailed]]
-
 - [[fungal-metal-transformations]]
-
-- [[gadd-fungal-metal-interactions]]
 
 - [[mycorrhiza-soil-bioremediation]]
 
-- [[fungal-bioremediation]]
 - [[fungal-heavy-metal-uptake-and-translocation]]
-- [[fungal-metal-transformations-biosorption]]
 - [[staycare-fungal-metal-transformations-soil]]

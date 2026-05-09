@@ -142,8 +142,9 @@ again. Logs can typically produce 2–4 flushes per year.
 |---|---|---|---|---|
 ## See Also
 
-- [[mushroom-log-cultivation|Mushroom Log Cultivation (full topic page)]]
 - [[gourmet-medicinal-mushroom-shiitake-cultivation-logs|Shiitake Mushroom Cultivation]]
-- [[mushroom-log-stump-cultivation-tree-species-guide|Oyster Mushroom Cultivation]]
-- Forest Gardening and Food Forests
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter|The Soil Food Web]]
+
+## See Also
+
+- [[query-how-to-grow-shiitake-mushrooms-on-logs]]

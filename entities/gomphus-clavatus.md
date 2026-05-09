@@ -125,8 +125,6 @@ identification is essential.
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]] — Classic golden chanterelle, similar hymenial morphology
 - [[craterellus-tubaeformis]] — Yellowfoot chanterelle, related Gomphales species
-- [[polyozellus-multiplex]] — Blue chanterelle, another rare Gomphales fungus
 - [[hydnum-repandum]] — Hedgehog mushroom, toothed hymenium alternative
-- [[trametes-versicolor]] — Turkey tail, a contrasting polypore from similar habitats
+- [[trametes-versicolor-entity]] — Turkey tail, a contrasting polypore from similar habitats

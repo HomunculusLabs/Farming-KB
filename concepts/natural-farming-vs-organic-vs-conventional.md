@@ -65,18 +65,15 @@ Fukuoka calculated that scientific agriculture requires an energy expenditure pe
 ## Which Approach for Your Homestead?
 
 - **Start with observation**: Walk your land daily for a full year before deciding. See [[permaculture-design]].
-- **Transition gradually**: You don't need to jump to full natural farming. [[composting-and-soil-biology]] methods can be adopted step by step.
+- **Transition gradually**: You don't need to jump to full natural farming. [[no-till-gardening-method]] methods can be adopted step by step.
 - **Focus on soil first**: All three approaches work better with living soil. See [[soil-food-web-nutrient-cycling]].
 - **Local context matters**: Fukuoka's methods were developed for subtropical Japan. Adapt to your climate. see your local extension office.
 
-## Related
-
-- [[microbes-scavengers-natural-farming]]
-- [[comparison-natural-swimming-pool-vs-conventional-pool]] Pages
+## Related Pages
 
 - [[natural-farming-fukuoka]] -- Fukuoka's method and philosophy
 - [[knf-preparations]] -- Korean Natural Farming input recipes
-- [[composting-and-soil-biology]] -- Practical no-till transition methods
+- [[no-till-gardening-method]] -- Practical no-till transition methods
 - [[regenerative-agriculture-history]] -- Modern regenerative synthesis
 - [[fukuoka-philosophy-in-practice]] -- Deep philosophy dive
 - [[natural-farming-seed-balls]] -- Seed ball technique

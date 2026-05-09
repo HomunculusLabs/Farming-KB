@@ -65,7 +65,7 @@ Comprehensive investigations have long proven that psilocybin, [mescaline, and L
 
 ## Concerns About Adolescent Use
 
-Most researchers, including [[albert-hofmann]], strongly advised against usage of hallucinogens by youngsters, even in controlled experimental settings. The reasoning is compelling:
+Most researchers, including gordon-wasson, strongly advised against usage of hallucinogens by youngsters, even in controlled experimental settings. The reasoning is compelling:
 
 - Adolescence is a time of upheaval, a developmental stage when youngsters struggle with themselves and their surroundings
 - Young people are searching for a purpose and a firm direction in life
@@ -76,10 +76,7 @@ Most researchers, including [[albert-hofmann]], strongly advised against usage o
 
 ## The Term "Phantastica"
 
-[[louis-lewin]] coined the term "Phantastica" to describe this class of substances -- the oldest label ever used. The term successfully evokes dream-like, fanciful aspects of the experience, as well as the potential for both euphoric and dysphoric emotional overtones. More recent terminology often says more about semantic biases of those who use the labels than about factual, objective characteristics of the alkaloids:
-
-- **Entheogens** -- Emphasizes the spiritual/generative aspect
-- **Psychedelics** -- "Mind-manifesting"; popularized by [[timothy-leary]]'s supporters, later disparaged by critics as "excessively glamorous"
+[[timothy-leary]]'s supporters, later disparaged by critics as "excessively glamorous"
 - **Psychoesthetica** -- Used for low-dose experiences involving magical transformation of surroundings with heightened color perception
 - **Psycholytics** -- Used in therapeutic contexts emphasizing dissolution of psychological defenses
 - **Psychomimetics** -- Emphasizes similarity to psychosis (a characterization rejected by most experienced clinicians)
@@ -108,10 +105,7 @@ With repeated administrations of relatively low doses, participants typically pr
 
 ## See Also
 
-- [[cannabis-safety-profile-and-overdose-risk]]
 - [[mckenna-psilocybin-and-language-formation]]
-
-- [[psilocybin-mushroom-poisoning-treatment]]
 
 - [[psilocin-and-psilocybin-chemistry]] -- The active compounds
 - [[psilocybin-psychotherapy-research-history]] -- Therapeutic applications

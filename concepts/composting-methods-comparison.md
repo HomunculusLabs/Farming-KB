@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: comparison
 tags: [composting, compost, comparison, soil-building, methods, regenerative, sustainability, soil]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Composting Methods Comparison

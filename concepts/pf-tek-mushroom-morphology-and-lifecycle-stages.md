@@ -142,8 +142,6 @@ This is the time to take spore prints for future cultivation. Mature specimens
 are excellent for spore production but represent the weakest point in their
 ## Related Concepts
 
-- [[pf-tek-mushroom-growth-timeline]] for specific timeframes of each lifecycle stage
 - [[pf-tek-aborts-and-potency-harvesting]] for detailed harvest timing and abort identification
-- [[pf-tek-mushroom-potency-and-age-relationship]] for potency changes across developmental stages
 - [[pf-tek-primordia-formation-and-pinning-process]] for environmental triggers of fruiting
 - [[pf-tek-cake-birthing-technique]] for the jar removal procedure

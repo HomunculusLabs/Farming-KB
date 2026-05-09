@@ -21,33 +21,6 @@ plant nutrition but soil health, flavor quality, environmental impact, and the
 overall growing experience.
 
 ## Organic Amendments
-[[cervantes-organic-amendments-chart]]
-Organic amendments include natural materials like compost, worm castings,
-blood meal, bone meal, fish meal, seabird guano, kelp meal, and rock powders.
-These materials release nutrients slowly as soil microorganisms decompose
-them, creating a steady, self-regulating supply that is difficult to over-
-apply. Cervantes notes that organic nutrients are more consistently available
-when used in combination with one another, and that most indoor organic
-gardens use potting soil high in worm castings, peat, sand, manure, leaf mold,
-and compost.
-The nutrient content of organic amendments varies by source and batch, making
-precise calculation challenging. However, this variability is offset by the
-buffering capacity of biological soil systems — the soil food web regulates
-nutrient availability based on plant demand and microbial activity. Organic
-inputs also feed soil biology, building long-term soil health rather than
-simply feeding the plant. Amendments like rock phosphate and greensand provide
-slow-release minerals over months or years, reducing the need for frequent
-reapplication and building nutrient reserves in the soil.
-Growers consistently report that organic amendments produce cannabis with
-superior flavor, smoother smoke, and more complex terpene profiles. The
-biological complexity of organic soil systems supports a diverse microbial
-community that contributes to plant health and secondary metabolite
-production. The main limitations are slower availability during peak flowering
-demand, the need for larger volumes of material compared to concentrated
-synthetic fertilizers, and the potential for odor during decomposition,
-particularly with fish-based products.
-
-## Chemical Amendments
 [[cervantes-chemical-fertilizers-guide]]
 Chemical fertilizers are purified mineral salts dissolved in water or applied
 as granules. They provide specific nutrients in precise, immediately available
@@ -124,7 +97,5 @@ providing some of the immediacy of synthetic fertilizers while maintaining
 biological benefits.
 
 ## See Also
-- [[comparison-living-soil-vs-hydroponic]]
 - [[comparison-biochar-vs-compost]]
-- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[comparison-compost-tea-vs-biochar]]

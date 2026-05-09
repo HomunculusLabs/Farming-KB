@@ -118,9 +118,7 @@ When growing food during lean times, maximizing calories per unit area is essent
 
 ## Related Concepts
 
-- [[garden-nutrition-and-diet]]
 - [[solomon-complete-organic-fertilizer-guide]]
-- [[david-holmgren]]
 - [[winter-gardening-season-extension]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapters on potatoes

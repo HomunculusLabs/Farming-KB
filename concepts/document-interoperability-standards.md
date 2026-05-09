@@ -112,12 +112,8 @@ and cross-platform workflows still require robust format standards.
 
 ## See Also
 
-- [[document-format-conversion-fidelity]]
 - [[japanese-document-processing]]
-- [[mushroom-certification-quality-standards]]
 - [[microsoft-word-document-format-history]]
-- [[aact-compost-quality-standards-ingham]]
-
 - [[office-open-xml]] for detailed OOXML specification analysis
 - [[microsoft-word-document-format]] for Word-specific format information
 - pdf standards and archival for PDF/A and archival considerations

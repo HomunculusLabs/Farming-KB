@@ -34,50 +34,7 @@ The practical importance of IMO lies in their ability to decompose
 complex organic materials, catalyze chemical processes in soil through
 enzyme production, revitalize entire ecosystems by restoring food chains
 from bacteria to earthworms, and suppress diseases by maintaining
-natural microbial balance. [[master-cho]] emphasized that IMO convert weak
-soil into healthy soil by solubilizing trace minerals and enhancing
-nutrient circulation - they are strong survivors even in extreme
-conditions.
-
-## Key Concepts
-
-### Site Selection for Collection
-
-IMO should be collected from a location with characteristics most
-similar to the land being farmed. On mountains, vegetation differs by
-altitude because microorganisms and their environments change with
-elevation. Preferred collection sites include areas near roots of bamboo
-or broadleaf trees, leaf mold from hills near the working field, near
-roots of lawn grass, or around rice stumps where plant sap attracts
-beneficial fungi such as Aspergillus oryzae and Bacillus subtilis.
-Slopes facing both north and south may be sampled for maximum diversity.
-
-### IMO #1: Field Collection
-
-Collection uses a wooden lunch box (cedar or bamboo) filled with
-hard-cooked rice that has less moisture, specifically to attract
-aerobic microbes. The box is covered with porous paper and placed at
-the collection site for a defined period: 7 to 10 days in spring and
-fall, 4 to 5 days in summer. The cooked rice captures indigenous
-microorganisms from the surrounding environment as they colonize the
-starch-rich substrate.
-
-### IMO #2: Foundation Stock Preparation
-
-After collection, IMO #1 is mixed with brown sugar in a 1:1 weight ratio
-and placed in a clay jar filled to two-thirds capacity. This sugar
-concentration creates the most favorable environment for fermentation.
-The jar is covered with porous paper and maintained at 23-25 degrees
-Celsius. Within about 7 days, the temperature rises above 40 degrees
-inside the jar as the consistency becomes like gruel. The product,
-called foundation stock or IMO #2, should be stored at 1-15 degrees
-Celsius with good air circulation.
-
-### IMO #3: Expanded Cultivation
-
-IMO #2 is diluted 500 to 1,000 times with water and mixed with rice bran
-to achieve 65-70 percent moisture content. Nutrient liquids including
-[[cho-fermented-plant-juice-preparation]] of Japanese mugwort and
+natural microbial balance. [[cho-fermented-plant-juice-preparation]] of Japanese mugwort and
 dropwort (1:500 dilution), brown rice vinegar (1:500), and
 Mineral A (1:1,000) are added as microbial activators. A small amount
 of Makgeolli (Korean rice wine) may be added to raise temperature.
@@ -126,19 +83,7 @@ chemical inputs.
 ### Transplant Support
 
 When used during transplanting, IMO accelerates root growth and
-enhances initial plant establishment. Combining IMO with [[water-soluble-calcium-wca]] and FPJ provides comprehensive nutritional
-and biological support for newly transplanted seedlings.
-
-### Compost Acceleration
-
-IMO mixed with LAB accelerates the composting process and prevents
-fermented mixed compost from decaying. This combination ensures rapid
-decomposition of organic matter while preventing putrefaction and
-nutrient loss.
-
-## References
-
-- Cho, H.K. Master Cho's KNF Recipe Book. [[korean-natural-farming]]
+enhances initial plant establishment. Combining IMO with [[korean-natural-farming]]
   Institute. Sections on Indigenous Microorganisms (IMO) #1 through
   #4, collection methods, and multi-stage cultivation.
 - Cho, H.K. Korean Natural Farming: Indigenous Microorganisms. KNF

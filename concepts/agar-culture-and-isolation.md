@@ -3,14 +3,8 @@ title: "Agar Culture And Isolation"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [mushroom-cultivation, mycology]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
----
----
-title: [[agar]] Culture and Isolation Techniques
-tags: [mycology, cultivation, tissue-culture, fungi]
+tags: [[agar]] Culture and Isolation Techniques
+tags: [[mycology, cultivation, tissue-culture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-gromedicinal-mushroomsdicinal-mushrooms-s.md]
@@ -30,11 +24,7 @@ Agar is a gelatinous substance derived from red algae. It serves as a solid
 growth medium when combined with nutrients and water. Agar melts at 185°F
 (85°C) and solidifies at approximately 100-110°F (38-43°C), allowing it to
 be sterilized as a liquid and poured into plates where it sets into a firm
-surface for [[mycelium]] growth.
-
-## Agar Recipes
-
- [[malt-extract-agar]]Malt Extract Agar (MEA)
+surface for [[malt-extract-agar]]Malt Extract Agar (MEA)
 
 The standard, most widely used recipe:
 - 10g light malt extract (DME)
@@ -78,41 +68,7 @@ for demanding species like *Ganoderma*.
 7. Seal and store at room temperature; use within 2-4 weeks or refrigerate
    (sealed in bags) for up to 2 months. Dehydrated plates should be discarded.
 
-[[inoculation-methods]]oculation Methods
-
-### Spore Swab or Print
-
-Spores from a print or swab are streaked across the agar surface using a
-sterile loop or inoculation needle. Germination typically occurs within 3-10
-days depending on species and spore viability. Each spore produces a
-genetically unique mycelium, resulting in a multispore culture with genetic
-variability.
-
-### Tissue Culture
-
-A small piece of inner tissue from a fresh fruiting body is placed on the agar
-surface, capturing the exact parent genetics (clonal propagation). Sterilize
-the outer surface, tear (not cut) the mushroom open, transfer a rice-grain
-piece of inner tissue with flame-sterilized tweezers, seal, and incubate.
-
-### Liquid Culture Transfer
-
-A small amount of liquid culture is dropped onto the agar surface. This is
-primarily used to test liquid culture for contamination or to isolate sectors
-from a known culture. Liquid culture should not be the sole method of storage
-due to risk of senescence and contamination over time.
-
-## Isolation Techniques
-
-### Sectoring
-
-When mycelium grows on agar, it often displays sectors — areas of visibly
-different morphology. Fast-growing, ropey (rhizomorphic) sectors are generally
-more vigorous fruiters than slow, cottony (tomentose) ones. Isolate a sector
-by cutting a wedge from the leading edge and transferring to a fresh plate.
-Repeat 2-4 times for a clean, isolated strain.
-
- [[contamination-identification]]on Identification and Elimination
+[[contamination-identification]]on Identification and Elimination
 
 Common agar contaminants and their appearance:
 
@@ -147,4 +103,3 @@ on species and grain type.
 
 - **Petri dishes**: 90mm disposable plastic or reusable glass. Pre-sterilized
   disposable plates eliminate a preparation step.
-- **Still air box (SAB)**: A clear plastic container with two arm holes.

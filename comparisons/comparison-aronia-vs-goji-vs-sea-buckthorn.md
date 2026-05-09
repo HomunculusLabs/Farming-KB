@@ -8,30 +8,7 @@ sources: []
 
 # Aronia vs Goji Berry vs Sea Buckthorn — Superfood Berry Comparison
 
-Three of the most [[nutrient-dense-gardening]] berries in the world, each with distinct strengths. This guide compares them across nutrition, cultivation, flavor, and best-use scenarios.
-
-## Quick-Glance Comparison
-
-| Dimension | Aronia (Chokeberry) | Goji Berry (Wolfberry) | [[sea-buckthorn-cultivation-and-uses]] |
-|---|---|---|---|
-| **Scientific Name** | *Aronia melanocarpa* | *Lycium barbarum* | *Hippophae rhamnoides* |
-| **Plant Type** | Deciduous shrub | Deciduous woody perennial | Deciduous shrub (dioecious) |
-| **Native Region** | Eastern North America | China / Himalayas | Eurasia (Europe to China) |
-| **USDA Zones** | 3–8 | 5–9 | 3–7 |
-| **Mature Size** | 3–6 ft tall × 3–6 ft spread | 8–12 ft vine-like shrub | 6–20 ft tall × 6–10 ft spread |
-| **Harvest Time** | Aug–Sep | Jul–Oct | Aug–Sep |
-| **Primary Nutrients** | Anthocyanins, polyphenols | Zeaxanthin, LBPs, iron | Omega-7, vitamin C, E |
-| **Flavor Profile** | Astringent, tart, dry | Mildly sweet, slightly herbal | Very tart, citrusy, tropical |
-| **Key Health Claims** | Cardiovascular, anti-inflammatory | Eye health, immune support | Skin, mucous membranes, anti-aging |
-| **Difficulty Level** | Very easy | Moderate | Moderate (need male + female) |
-
-## Cultivation Requirements
-
-| Requirement | Aronia | Goji Berry | Sea Buckthorn |
-|---|---|---|---|
-| **Soil** | Adapts to most soils; tolerates clay | Well-drained, sandy loam preferred | Sandy, well-drained; tolerates poor soils |
-| **Sun** | Full sun to partial shade | Full sun | Full sun |
-| **Water** | Low–medium; [[drought-tolerant-planting-design]] once established | Low; drought-tolerant | Very low; highly drought-tolerant |
+Three of the most [[drought-tolerant-planting-design]] once established | Low; drought-tolerant | Very low; highly drought-tolerant |
 | **Cold Hardiness** | Excellent (to −40°F / −40°C) | Good (to −15°F / −26°C) | Excellent (to −40°F / −40°C) |
 | **Heat Tolerance** | Moderate (struggles above 95°F) | Good (tolerates 100°F+) | Moderate (prefers cool-temperate) |
 | **Soil pH** | 5.0–8.0 (very adaptable) | 6.5–7.5 | 6.0–7.5 |
@@ -80,23 +57,14 @@ Three of the most [[nutrient-dense-gardening]] berries in the world, each with d
 |---|---|---|---|
 | **Growth Rate** | Moderate | Fast (can be invasive) | Fast |
 | **Ornamental Value** | Excellent fall color, white spring flowers | Attractive purple flowers, cascading habit | Silvery foliage, striking orange berries |
-| **Wildlife Value** | High — birds love the berries | Moderate — birds and pollinators | High — birds, [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] roots |
-| **[[soil-building-ecological-garden]]** | Moderate | Low | Excellent — fixes nitrogen via actinorhizal roots |
+| **Wildlife Value** | High — birds love the berries | Moderate — birds and pollinators | High — birds, [[soil-building-ecological-garden]]** | Moderate | Low | Excellent — fixes nitrogen via actinorhizal roots |
 | **Windbreak Potential** | Good (dense hedge) | Low | Excellent (tall, wind-tolerant) |
 | **Container Suitability** | Good | Good with pruning | Possible but challenging (large size) |
 
 ## Pest and Disease Profile
 
 - **Aronia:** Very few pest or disease issues. Minimal deer browsing. Moderate bird pressure at harvest.
-- **Goji Berry:** Susceptible to [[powdery-mildew-cannabis]], aphids, and spider mites. Deer may browse young plants. Low bird pressure.
-- **Sea Buckthorn:** Generally pest-free but can get aphids or gall mites. Deer rarely browse (thorny branches deter). Moderate to high bird pressure.
-
-## Yield and Harvest
-
-| Dimension | Aronia | Goji Berry | Sea Buckthorn |
-|---|---|---|---|
-| **Yield/Plant** | 10–20 lbs at maturity | 2–5 lbs (higher with age) | 15–25 lbs (female plants) |
-| **[[harvest-window-cannabis]]** | 2–3 weeks | Continuous over 2–3 months | 2–4 weeks |
+- **Goji Berry:** Susceptible to [[harvest-window-cannabis]]** | 2–3 weeks | Continuous over 2–3 months | 2–4 weeks |
 | **Processing Needs** | Press or blend for juice/jam | Can eat dried directly | Requires pressing equipment for juice/oil |
 | **Storage** | Freezes well; juice keeps ~1 year frozen | Dried berries store 1+ year | Juice/oil frozen or refrigerated; berries freeze well |
 

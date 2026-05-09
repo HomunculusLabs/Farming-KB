@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-Spore printing and syringe preparation are essential skills in the [[pf-tek]] cultivation cycle, enabling the cultivator to harvest spores from mature [[psilocybe-cubensis]] specimens and prepare sterile spore solutions for inoculating new substrate jars. These techniques represent the third stage of the PF cultivation process, following substrate preparation and fruiting. Psylocybe Fanaticus developed these methods to be accessible using common household materials while maintaining the sterile conditions necessary for successful cultivation.
+Spore printing and syringe preparation are essential skills in the [[psilocybe-cubensis]] specimens and prepare sterile spore solutions for inoculating new substrate jars. These techniques represent the third stage of the PF cultivation process, following substrate preparation and fruiting. Psylocybe Fanaticus developed these methods to be accessible using common household materials while maintaining the sterile conditions necessary for successful cultivation.
 
 ## Spore Viability and Timing
 
@@ -38,39 +38,7 @@ The purple spore deposits signal that the mushroom has matured and entered its s
 
 ### Spore Degradation
 
-[[psilocybe-cubensis]] spores begin to degrade a few months after collection. After approximately one and a half years, spore germination is greatly reduced or fails entirely. Fresh spores germinate massively and quickly, making timely use important for reliable results.
-
-## Spore Printing Equipment
-
-The following materials are required for spore printing:
-
-- Kerr 1/2 pint wide mouth (low form) canning jar or any suitable jar
-- Micro curved cuticle scissors (available at cosmetics and drug stores)
-- Denatured alcohol (fuel grade, available at hardware stores)
-- Tequila shot glass and eye dropper (for alcohol flaming)
-- Straight pin for handling mushroom caps
-
-## Sterile Technique Fundamentals
-
-Before beginning any sterile work, several preparatory steps are essential:
-
-1. **Hand washing**: Hands are a primary source of bacteria and microspore contaminants
-2. **Surface sterilisation**: Sterilise all work surfaces with rubbing alcohol
-3. **Draft minimisation**: Work in a still air environment to reduce airborne contamination
-4. **Avoid breathing on work**: Minimise air disturbance over sterile materials
-5. **Air cleaning**: Run a small home appliance style HEPA air cleaner (99.97% rated efficiency) for several hours in a closed room before performing sterile work
-
-## Spore Printing Procedure
-
-### Jar Preparation
-
-1. Pre-sterilise the jar and regular metal lid (rubber edge up) in a small toaster oven at approximately 300 degrees Fahrenheit for about 30 minutes
-2. Keep the lid loose during the sterilisation cycle
-3. After cooling, tighten the lid until ready to use; the rubberised edge will be slightly melted but this does not affect the technique
-
-### Cap Harvesting
-
-1. Flame sterilise the scissors using an [[pf-tek-inoculation-without-lids-and-alcohol-flaming|alcohol flame]] (a clean flame that avoids the soot residue of butane lighters)
+[[pf-tek-inoculation-without-lids-and-alcohol-flaming|alcohol flame]] (a clean flame that avoids the soot residue of butane lighters)
 2. Snip off the mushroom cap, cutting the top of the stem as far up into the cap as possible so the gills will sit flat on the jar bottom
 3. Use a straight pin to pierce the top of the cap for handling
 4. With quick, sure movements, place the cap gill-side-down into the jar
@@ -131,19 +99,12 @@ Store syringes at cool temperatures in the dark. A properly prepared spore syrin
 
 ## Integration with the PF Cultivation Cycle
 
-Spore printing and syringe preparation close the [[psilocybe-cubensis]] cultivation loop:
-
-1. Mature mushrooms are harvested for spore collection
-2. Spore prints are stored and used to create syringes
-3. Syringes are used to inoculate new [[pf-tek]] substrate jars
+Spore printing and syringe preparation close the [[pf-tek]] substrate jars
 4. Colonised jars produce new fruiting bodies, completing the cycle
 
-This approach, using mass [[spore-inoculation]] directly to the fruiting substrate rather than cloning mushroom tissue, was a key innovation of the PF TEK. It preserves the complete genotype, prevents senescence, and ensures a never-ending succession of fungus with full reproductive capacity.
+This approach, using mass spore inoculation directly to the fruiting substrate rather than cloning mushroom tissue, was a key innovation of the PF TEK. It preserves the complete genotype, prevents senescence, and ensures a never-ending succession of fungus with full reproductive capacity.
+## Related
 
-## Related Topics
+- [[pf-tek-inoculation-technique-and-syringe-management]] Topics
 
-- [[pf-tek-overview-and-history]]
 - [[pf-tek-psilocybe-fanaticus]]
-- [[pf-tek-maximum-fruiting-substrate-formula|pf-substrate-formula]]
-- [[pf-tek-steam-sterilization-technique]]
-- [[pf-tek-mushroom-growth-timeline]]

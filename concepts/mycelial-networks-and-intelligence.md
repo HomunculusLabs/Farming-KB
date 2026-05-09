@@ -21,15 +21,7 @@ Stamets describes mycelium as "a fusion between a stomach and a brain, a nutriti
 
 ## Cross-Species Interfacing
 
-Through cross-species interfacing, Stamets suggests we may one day communicate with these sentient cellular networks. Plants, bacteria, and fungi share molecular communication pathways. Mycorrhizal networks connect trees across forest floors, allowing nutrient and information exchange between individuals and species. [[mycorrhizal-networks]] and [[mycorrhizal-networks-and-forest-communication]] explore these connections in detail. The [[soil-food-web-structure]] depends upon mycelial networks as its architectural foundation.
-
-## Sentience and Responsiveness
-
-Stamets argues that mycelium is "an exposed sentient membrane, aware and responsive to changes in its environment." As hikers, deer, or insects walk across these sensitive filamentous nets, they leave impressions, and mycelia sense and respond to these movements. The mycelial network operates as a collective fungal consciousness, especially after rainfall when interlacing mycelial membranes "awaken."
-
-## Mycelial Metabolites and Scent Trails
-
-When mycelial metabolisms surge, they emit attractants and sweet fragrances, connecting ecosystems and species with scent trails. The garden giant (Stropharia rugosoannulata), for example, produces a rich and uniquely sweet fragrance from its mycelium. These metabolites serve as chemical signals that attract insects, animals, and other organisms, creating ecological linkages across species boundaries. See [[fungal-chromogens-and-color-change]] for related chemical signaling phenomena.
+Through cross-species interfacing, Stamets suggests we may one day communicate with these sentient cellular networks. Plants, bacteria, and fungi share molecular communication pathways. Mycorrhizal networks connect trees across forest floors, allowing nutrient and information exchange between individuals and species. [[mycorrhizal-networks-and-forest-communication]] explore these connections in detail. The [[fungal-chromogens-and-color-change]] for related chemical signaling phenomena.
 
 ## Computational Complexity
 
@@ -57,22 +49,69 @@ After the Permian-Triassic mass extinction (~250 million years ago), which wiped
 
 Mycelial networks share both nutrients and information. Through cross-species interfacing, plants, bacteria, and fungi exchange molecular signals. This constant exchange governs the flow of essential nutrients cycling through the food chain. Mycelial mats cycle nutrients through ecosystems, breaking down organic matter and making elements available to plants and other organisms. Like salmon carcasses that fertilize ecosystems, mushroom carcasses are quickly consumed by other organisms, their nutrients redeposited back into the nutritional bank as plants grow and their falling leaves enter the fungal cycle of decomposition.
 
-This network intelligence underlies [[cotter-mycoremediation-overview]] practices, where mycelial networks are deployed to break down pollutants and restore damaged environments. Working together, fungal networks and environmentally responsive bacteria could provide data about pH, detect nutrients and toxic waste, and even measure biological populations. See [[fungal-ecosystem-services]] and [[fungal-functional-diversity]] for broader ecological context.
-
-## See Also
-
-- [[fungal-biology-fundamentals]] -- basic fungal biology
-- [[fungal-ecology]] -- ecological roles
+This network intelligence underlies [[fungal-ecosystem-services]] and [[fungal-biology-fundamentals]] -- basic fungal biology
 - [[fungal-roles-in-old-growth-forests]] -- forest network examples
-- [[soil-food-web-structure]] -- soil network context
 - [[fungal-chromogens-and-color-change]] -- chemical signaling
-- [[mycorrhizal-networks]] -- mycorrhizal network biology
 - [[mycorrhizal-networks-and-forest-communication]] -- tree communication
-- [[cotter-mycoremediation-overview]] -- network intelligence in remediation
 - [[fungal-functional-diversity]] -- functional diversity overview
-- [[fungal-ecosystem-services]] -- ecosystem services provided by fungi
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
 - [[fungal-ecology]]
+## Practical Considerations
+
+When working with Mycelial Networks and Intelligence (Stamets), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

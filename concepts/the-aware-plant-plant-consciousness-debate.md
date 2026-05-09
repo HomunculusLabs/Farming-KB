@@ -138,9 +138,7 @@ consideration.
 
 ## See Also
 
-- [[plant-memory-what-a-plant-remembers]]
 - [[plant-olfaction-what-a-plant-smells]]
-- [[plant-thigmomorphogenesis-what-a-plant-feels]]
 - [[plant-response-to-sound-and-vibration]]
 - [[plant-gravitropism-and-spatial-awareness]]
 - plant intelligence

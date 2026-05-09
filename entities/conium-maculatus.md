@@ -110,11 +110,7 @@ The species was introduced to North America as an ornamental and has become wide
 
 ## See Also
 
-- [[cicuta-maculata]] — Spotted water hemlock, a distinct but similarly named North American toxic Apiaceae
 - [[aconitum-napellus]] — Monkshood, another neurotoxic plant with historical medicinal use
-- [[atropa-belladonna]] — Deadly nightshade, tropane alkaloid toxicity
 - [[datura-stramonium]] — Jimsonweed, anticholinergic poisoning plant
-- [[ferula-assafoetida]] — Non-toxic Apiaceae resin spice for comparison
 - [[colchicum-autumnale]] — Meadow saffron, another historically significant toxic plant
-- [[papaver-somniferum]] — Opium poppy, alkaloid-bearing medicinal plant
 - [[veratrum-viride]] — False hellebore, another neurotoxic medicinal plant

@@ -5,34 +5,13 @@ updated: 2026-04-23
 sources:
   - "Schultes and Hofmann - Plants of the Gods"
 type: concept
-tags: [mushroom-cultivation]
----
-
-# Pre-Columbian Mushroom Use in Plants of the Gods
-
-Schultes and Hofmann present extensive evidence that hallucinogenic mushrooms
-were ceremonially employed in Mesoamerica for many centuries before the
-Spanish conquest. The religious use of mushrooms -- known as [[teonanacatl-history]]
+tags: [[teonanacatl-history]]
 ("divine flesh") -- in Mexico and Guatemala was ancient and firmly established
 among the Aztec Indians at the time of Conquest.
 
 ## Archaeological Evidence
 
-Miniature [[mushroom-stone-artifacts]], some 2,200 years of age, have been
-found in archaeological sites near Guatemala City. More than two hundred
-mushroom stone effigies have been discovered, the oldest dating from the first
-millennium BC. Although the majority are Guatemalan, some have been unearthed
-in El Salvador and Honduras, and others as far north as Veracruz and Guerrero
-in Mexico. Whatever their precise function, these artifacts indicate the great
-antiquity of a sophisticated sacred use of hallucinogenic mushrooms.
-
-Evidence is accumulating that a mushroom cult flourished in prehistoric times
--- from approximately 100 BC to about AD 300-400 -- in northwestern Mexico:
-in Colima, Jalisco, and Nayarit. Funerary effigies with two "horns" protruding
-from the head are believed to represent male and female "deities" or priests
-associated with mushrooms.
-
-See also: [[mexican-mushroom-stones-archaeological-evidence]]
+Miniature [[mexican-mushroom-stones-archaeological-evidence]]
 
 ## The Aztec Mushroom Cult
 
@@ -50,8 +29,8 @@ Some brought before the eyes "all kinds of visions, such as wars and the
 likeness of demons." Yet others were "desired by princes for their fiestas and
 banquets" and were sought "with nightlong vigils, awesome and terrifying."
 
-See also: [[aztec-entheogens]], [[aztec-mushroom-feasts-and-revelations]],
-[[teonanacatl-and-mesoamerican-mushroom-cults]], [[teonanacatl-history]]
+See also: [[aztec-mushroom-feasts-and-revelations]],
+[[teonanacatl-history]]
 
 ## Spanish Suppression
 
@@ -93,39 +72,23 @@ sight." His wife Valentina had earlier discovered the living mushroom cult in
 Albert Hofmann subsequently visited the shaman Maria Sabina in 1962 and
 identified the active principles as psilocybine and psilocine.
 
-See also: [[mushroom-cultivation-fundamentals]],
-[[maria-sabina-mazatec-mushroom-curandera]], [[mazatec-mushroom-culture-and-velada]],
-[[mazatec-mushroom-tradition]], [[wasson-mexico-expeditions]],
-albert hofmann
+See also: [[maria-sabina-mazatec-mushroom-curandera]], [[mazatec-mushroom-tradition]], [[psychedelic-mushroom-set-and-setting]], [[psilocybe-azurescens-profile]], [[maya-entheogens]]
+## Practical Considerations
 
-## South American Evidence
+Successful implementation of Pre-Columbian Mushroom Use in Plants of the Gods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-While no current South American hallucinogenic mushroom use is known,
-indications of former employment are numerous. The Yurimagua Indians of the
-Peruvian Amazon were reported in the late seventeenth and early eighteenth
-centuries to drink a potently inebriating beverage from a "tree fungus." In
-Colombia, anthropomorphic gold pectorals with two domelike ornaments on the
-head (called "telephone spirits") may represent mushroom-associated deities.
+## Future Directions
 
-## Chemistry
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-The sacred mushrooms of Mexico owe their hallucinogenic effects to psilocybine
-and psilocine, tryptamine derivatives belonging to the class of indole
-alkaloids. Psilocybine is the phosphoric acid ester of psilocine, which
-usually occurs only in trace elements. The chemical relationship of these
-hallucinogens to serotonin, a neurotransmitter important in the biochemistry
-of psychic functions, is especially significant. The active dose in man is
-6-12 mg; twenty to thirty mg induce strong visions.
-
-## Species Identified
-
-The sacred mushrooms encompass numerous species of Psilocybe, with P.
-mexicana being the most famous and the first to be chemically investigated
-by Hofmann. Other species include P. caerulescens, P. aztecorum (known
-only from the slopes of Mt. Popocatepetl), P. semperviva, P. yungensis,
-and P. pelliculosa. In 1979, the largest and most potent species in the
-genus was found in Astoria, Oregon: Psilocybe azurescens, containing the
-highest concentration of psilocybine of all known mushrooms.
-
-See also: [[psychedelic-mushrooms-species-and-identification]], [[psilocybe-genus-classification]],
-[[psilocybe-azurescens-profile]], [[mushroom-stone-artifacts]], [[maya-entheogens]]

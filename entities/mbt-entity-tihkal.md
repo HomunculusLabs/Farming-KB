@@ -40,9 +40,9 @@ The synthesis uses an oxalyl chloride route. Indole in TBME (tert-butyl methyl e
 
 ## Extensions and Commentary
 
-MBT represents a systematic exploration of the dialkyl tryptamine series. The compound carries five straight-chain aliphatic carbon atoms on the basic nitrogen, positioning it between [[det-entity-tihkal]] (four carbons) and [[4-ho-dpt-entity-tihkal]] (six carbons) in the series.
+MBT represents a systematic exploration of the dialkyl tryptamine series. The compound carries five straight-chain aliphatic carbon atoms on the basic nitrogen, positioning it between [[4-ho-dpt-entity-tihkal]] (six carbons) in the series.
 
-All three of these compounds show oral activity in the 300 milligram range, consistent with the general trend that dialkyl tryptamines with chains longer than dimethyl are orally active due to reduced susceptibility to monoamine oxidase metabolism. However, [[det-entity-tihkal]] shows approximately five-fold increased potency when administered parenterally, and MBT might similarly reveal greater mental effects at lower doses through injection, smoking, or oral administration with a monoamine oxidase inhibitor such as [[harmaline-entity-tihkal]] from Peganum harmala.
+All three of these compounds show oral activity in the 300 milligram range, consistent with the general trend that dialkyl tryptamines with chains longer than dimethyl are orally active due to reduced susceptibility to monoamine oxidase metabolism. However, [[harmaline-entity-tihkal]] from Peganum harmala.
 
 Shulgin described MBT as "a pretty heavy body trip for a modest mental return." The pronounced physical intoxication (motor impairment, dehydration, overheating) relative to the minimal visual and cognitive effects suggests that the compound's pharmacological profile is weighted heavily toward peripheral effects rather than central psychedelic action.
 
@@ -60,11 +60,8 @@ The progression from DMT (two carbons) through DET (four), MBT (five), DPT (six)
 
 ## Related Compounds
 
-[[alpha-n-dmt-entity-tihkal]] — the dimethyl analogue with two carbons on nitrogen.
 [[det-entity-tihkal]] — the diethyl analogue with four carbons on nitrogen.
-[[4-ho-dpt-entity-tihkal]] — the dipropyl analogue with six carbons on nitrogen.
 [[4-ho-dbt-entity-tihkal]] — the dibutyl analogue with eight carbons on nitrogen.
-[[nmt-entity-tihkal]] — N-methyltryptamine, the monoalkyl starting point.
 [[harmaline-entity-tihkal]] — beta-carboline MAO inhibitor that could potentiate MBT.
 
 ## Historical Context

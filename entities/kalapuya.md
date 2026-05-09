@@ -100,25 +100,14 @@ Seed availability is limited compared to mainstream commercial strains. Clones a
 
 ## See Also
 
-- [[kalapuya-brunnea]]
-
 - [[tahoe-og]]
-- [[larry-og]]
 - [[sfv-og]]
-- [[girl-scout-cookies]]
 - [[runtz-entity]]
-- [[mac-1]]
 - [[jealousy]]
-- [[white-runtz]]
 - [[slurricane]]
-- [[jungle-cake]]
-- [[paper-plane]]
-- stuffed og
+- jungle-cake
 - [[georgia-pie]]
 - cake wreck
-- [[do-si-dos-entity]]
 - [[khalifa-kush]]
-- [[biscotti-cannabis]]
 - [[wedding-cake-cannabis]]
-- [[animal-cookies]]
 - [[gelato-cannabis]]

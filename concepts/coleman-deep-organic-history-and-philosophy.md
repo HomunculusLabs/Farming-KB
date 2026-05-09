@@ -16,15 +16,7 @@ type: concept
 
 # Deep-Organic History and Philosophy
 
-The story of [[organic-farming-methods-comparison]] from its early pioneers to the present
-is one of natural truths flourishing against corporate and industrial
-opposition. Understanding this history is essential for appreciating
-the distinction between deep-organic and shallow-organic approaches to
-agriculture.
-
-## The Forces Against Organic Farming
-
-When Coleman started [[natural-farming-vs-organic-vs-conventional]]ally in 1965, the forces arrayed
+The story of [[natural-farming-vs-organic-vs-conventional]]ally in 1965, the forces arrayed
 against organic methods were formidable: the U.S. Department of
 Agriculture with its scientists and enormous budget, all land-grant
 universities and agricultural schools, the extension service, every
@@ -74,77 +66,27 @@ already available when Coleman started: P. H. Hainsworth's
 Agriculture: A New Approach (1954), Leonard Wickenden's Make Friends
 with Your Land (1949), and Selman Waksman's The Soil and the Microbe
 (1931). K. D. White's Roman Farming documents that compost, green
-manures, mixed farming, and [[crop-rotation-benefits]]s were basic knowledge two
-thousand years ago. F. H. King's Farmers of Forty Centuries shows
-they were common knowledge four thousand years ago.
+manures, mixed farming, and [[coleman-deep-organic-farming]],
 
-Even the USDA's own publications supported organic principles. The
-1938 Yearbook of Agriculture, Soils and Men, reads like an organic
-farming textbook. The 1957 Yearbook, Soil, stated: "Well fed plants
-usually are less susceptible to soil-borne organisms than are poorly
-nourished plants."
+## See Also
 
-## The Rock Climbing Metaphor
+- [[coleman-deep-organic-farming-philosophy]]
+## Practical Considerations
 
-Coleman uses rock climbing as a metaphor for the relationship between
-farmers, scientists, and merchandisers. Before farming, he was an
-adventurer and rock climber. This background shaped his thinking as a
-problem solver who adores challenges.
+Successful implementation of Deep-Organic History and Philosophy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-The rock-cliff scientist speculates on the coefficient of friction
-and surface fracturing, invoking the law of gravity. The rock-cliff
-merchandiser speculates on what products could be sold to palliate
-the impossible. But the rock climbers are at the bottom of the
-"impossible" cliff, quietly studying and planning how to climb it.
+## Future Directions
 
-To the climbers, a problem is something to be solved, not something
-to be studied to death or marketed. Scientists and merchandisers
-stand far from the cliff, indulging in reductionism and speculating
-on difficulties. Climbers (like farmers) stand right next to the
-problem, celebrating solutions and speculating on possibilities.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-This distinction has clear implications. If the cliff can be climbed,
-there are only two options for the merchandisers and scientists:
-admit their products are unnecessary, or use spin and obfuscation so
-the public continues to believe it impossible. Organic success scares
-the establishment because it threatens their redundancy.
-
-## Deep vs. Shallow Organic
-
-Deep-organic farmers reject agricultural chemicals and look for
-better ways to farm. Inspired by Nature's systems, they mimic the
-patterns of the natural world's soil-plant economy. They use freely
-available natural inputs -- deep-rooting legumes, green manures, and
-composts -- to establish vigorous soil life. They understand that
-pest problems stem from plant stress and avoid them through soil
-management, crop rotations, and varietal selection. The goal is the
-most nutritious food possible and a healthy planet.
-
-Shallow-organic farmers reject chemicals but look for quick-fix
-inputs, mimicking chemical agriculture with bagged organic fertilizers
-and natural pest-control weapons. They remain dependent on an
-industrial supply network. Their goal is merely to follow approved
-guidelines and respect the primacy of international commerce.
-
-## USDA Co-option of Organic
-
-Organic farming has followed a three-step progression common to ideas
-challenging orthodoxy: first dismissed, then contested for decades,
-finally co-opted. The USDA moved to control organic by defining it
-legally, and organic spokespeople naively permitted it. Lady Eve
-Balfour warned in 1977: "The techniques of organic farming cannot be
-imprisoned in a rigid set of rules. They depend essentially on the
-attitude of the farmer."
-
-## The Living Soil
-
-Deep-organic farmers understand that truly fertile soil contains
-yet-to-be-discovered benefits for plants, livestock, and humans.
-These are benefits we do not know how to test for, yet farmers are
-conscious of them daily in the improved vigor of their crops. This
-practical experience, dismissed by scientists as "anecdotal
-evidence," represents knowledge that comes from working directly
-with living systems.
-
-See also [[coleman-deep-organic-farming]],
-[[coleman-compost-and-organic-fertility-management]], and

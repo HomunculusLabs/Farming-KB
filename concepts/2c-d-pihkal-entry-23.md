@@ -13,7 +13,7 @@ LE-25; 2,5-Dimethoxy-4-methylphenethylamine
 
 ## Overview
 
-2C-D is a member [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] [[2c-family-chemistry-and-sar-pihkal]] known for its role as "pharmacological tofu" -- a [[2c-t-7-compound-profile]] that doesn't do much by itself at normal doses but has remarkable properties as a booster for other psychedelics. Also known as LE-25 in German therapeutic research circles, 2C-D has a unique niche [[allegro-death-and-resurrection-in-the-mushroom-cult]] phenethylamine pharmacopeia as a communication-facilitating and therapy-oriented tool. At heroic doses (150 mg), it becomes a fully-fledged psychedelic comparable to 2c d [[beatrice-pihkal-entry-11]] 23.
+2C-D is a member [[2c-family-chemistry-and-sar-pihkal]] known for its role as "pharmacological tofu" -- a [[allegro-death-and-resurrection-in-the-mushroom-cult]] phenethylamine pharmacopeia as a communication-facilitating and therapy-oriented tool. At heroic doses (150 mg), it becomes a fully-fledged psychedelic comparable to 2c d [[beatrice-pihkal-entry-11]] 23.
 
 ## Chemical Information
 
@@ -42,13 +42,7 @@ Note: The dose range is exceptionally wide (20-150 mg), reflecting the compound'
 ## Effects and Qualitative Commentary
 
 ### 10 mg ("Smart Pill" Level)
-Subtle but noticeable. Users report an ability to "slightly redirect attention" more precisely to the task at hand. A feeling of enhanced learning capacity. Described as a "smart pill" -- one [[allegro-colour-and-consistency-of-the-amanita-muscaria]] few phenethylamines with reported nootropic-like qualities at sub-threshold doses.
-
-### 20 mg
-Primarily stimulant in character. "Butterflies in stomach" persist throughout. Not overly interesting at this level -- more stimulating than psychedelic, not entirely physically pleasant. Visual effects are minimal. Easy distractibility with rapid shifting between lines of thought. More would likely be too stimulating.
-
-### 30 mg
-Fast onset (under 45 minutes), reaching a ++ by the [[allegro-end-of-a-road-motivation]] the first hour. Described as difficult to classify -- not quite defined as psychedelic, not quite something else. Users note they might not want to go higher but could imagine benefit from going lower (10-15 mg). The compound defies easy labeling.
+Subtle but noticeable. Users report an ability to "slightly redirect attention" more precisely to the task at hand. A feeling of enhanced learning capacity. Described as a "smart pill" -- one [[allegro-end-of-a-road-motivation]] the first hour. Described as difficult to classify -- not quite defined as psychedelic, not quite something else. Users note they might not want to go higher but could imagine benefit from going lower (10-15 mg). The compound defies easy labeling.
 
 ### 45 mg
 A rapid "rocket" from the half-hour to the 1.5-hour mark, going from nothing to a +++. Intimacy and eroticism are present but don't fully integrate. Users feel they are "always waiting for the experience to come home." Conversation is extremely easy. Good appetite. Down by the fifth hour with comfortable sleep. "This compound will take some learning."
@@ -57,17 +51,7 @@ A rapid "rocket" from the half-hour to the 1.5-hour mark, going from nothing to 
 A +++ experience emphasizing talk and communication over personal interaction. Users report "putting out" while maintaining personal boundaries intact. Communication described as "excellent." Sleep possible at the sixth hour. Fast onset, moderate duration. Proposed as a "therapy tool."
 
 ### 150 mg (German therapeutic research)
-A "truly remarkable psychedelic" that "could compare favorably with 2C-B." Intense colors characterize the experience, with the sense that more would be too much. This is the dose at which 2C-D transforms from its teasing, ambiguous nature into a fully-realized [[weil-psychedelic-experience-set-and-setting]].
-
-## Extensions and Commentary
-
-### Pharmacological Tofu
-
-Shulgin described 2C-D as "pharmacological tofu" because it doesn't do much by itself at moderate doses but has a remarkable ability to extend and boost the action of other psychedelic compounds without adding its own "color" to the experience. Multiple experimental therapists have reported that 2C-D is excellent for extending the waning action of other drugs, making it potentially valuable as an adjunct in psychedelic-assisted therapy.
-
-### Amphetamine-to-Phenethylamine Potency Loss
-
-2C-D represents the most dramatic example in [[2c-t-7-pihkal-43]] of potency loss from the amphetamine to the phenethylamine form. [DOM (the amphetamine homologue) is active at approximately 3 mg, while 2C-D requires 20-60 mg for comparable effects -- roughly one-tenth the potency. This pattern of reduced potency in the 2-carbon vs 3-carbon form is common but particularly pronounced in the methyl-substituted series.
+A "truly remarkable psychedelic" that "could compare favorably with 2C-B." Intense colors characterize the experience, with the sense that more would be too much. This is the dose at which 2C-D transforms from its teasing, ambiguous nature into a fully-realized [[2c-t-7-pihkal-43]] of potency loss from the amphetamine to the phenethylamine form. [DOM (the amphetamine homologue) is active at approximately 3 mg, while 2C-D requires 20-60 mg for comparable effects -- roughly one-tenth the potency. This pattern of reduced potency in the 2-carbon vs 3-carbon form is common but particularly pronounced in the methyl-substituted series.
 
 ### Tweetio Homologues (Ethoxy Variants)
 
@@ -88,17 +72,7 @@ Synthesized from toluhydroquinone via methylation with dimethyl sulfate to give 
 ## Comparison to Related Compounds
 
 - [DOM (STP): The amphetamine homologue, active at 3-10 mg with 14-20 hour duration. DOM is dramatically more potent (10x) and much longer-lasting. DOM is a classical psychedelic; 2C-D is a gentle, ambiguous communicator.
-- 2c d [[2c-t-2-pihkal-entry-40]] 23: The ethyl homologue of 2C-D. 2C-E is "without any question a complete psychedelic" at 15-20 mg -- dramatically more potent and more intense than 2C-D.
-- 2c d pihkal entry 23: At 150 mg, 2C-D compares favorably with 2C-B at its normal 16-20 mg range. 2C-B is more visually rich and erotic at normal doses; 2C-D is more communicative.
-- 2c d pihkal entry 23: The chlorine analog. Both are gentle compared to 2C-B, but 2C-C is more sensual/sedating while 2C-D is more communicative/stimulating.
-
-## Harm Reduction Notes
-
-- Extremely wide dose range (20-150 mg) makes accidental under/overdosing more likely. Always start low.
-- At low doses (10-30 mg), the compound may feel "not quite working," leading to re-dosing. The full effects may not manifest for 1-2 hours.
-- At 75+ mg, the compound becomes genuinely psychedelic. Plan accordingly.
-- The "pharmacological tofu" boosting effect is documented but not well-characterized in terms of dosing for combination use.
-- See [[harm-reduction-guide]] for general psychedelic safety.
+- 2c d [[harm-reduction-guide]] for general psychedelic safety.
 - The [[set-and-setting-framework]] is essential, especially at higher doses.
 - See [legal context for jurisdictional status.
 
@@ -124,8 +98,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
 - [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[tweetio-series-ethoxy-homologues-pihkal]]
 - [[psychedelic-safety-and-harm-reduction]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]

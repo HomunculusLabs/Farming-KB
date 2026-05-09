@@ -25,23 +25,7 @@ sources:
 
 ## Overview
 
-**Panaeolus cyanescens** is a small, coprophilous (dung-inhabiting) mushroom in the family *Bolbitiaceae* noted for containing **psilocybin and psilocin** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the *Psilocybe cubensis* strain of the same name), it is one of the most potent psilocybin-containing mushrooms known, with dried specimens containing 0.5–2.95% psilocybin and 0.36–1.96% psilocin by dry weight.
-
-The species is pantropical and subtropical, found across Central and South America, the Caribbean, Africa, South and Southeast Asia, Australia, and parts of the southern United States. It fruits prolifically on herbivore dung in warm, humid conditions.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Bolbitiaceae
-- **Genus:** *Panaeolus* (sometimes placed in *Coprinellus* or *Panaeolina* in older literature)
-- **Species:** *P. cyanescens*
-
-### Synonyms
-
-- *Copelandia cyanescens* (Berkeley & Broome) Singer — the most widely used synonym
+**Panaeolus cyanescens** is a small, coprophilous (dung-inhabiting) mushroom in the family *Bolbitiaceae* noted for containing **psilocybin and psilocin** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the *[[copelandia-cyanescens]]* (Berkeley & Broome) Singer — the most widely used synonym
 - *Panaeolus coprinophilus* — a separate but closely related species sometimes confused
 - The genus *Copelandia* is still commonly used by cultivators and in the mycological community, though modern taxonomy places these species in *Panaeolus*
 
@@ -114,36 +98,12 @@ The species requires **cellulose-rich, nitrogen-enriched substrates**. Common fo
 ### Fruiting Characteristics
 
 - Colonization is typically rapid: 10–14 days from spawn to full colonization
-- Primordia form 5–10 days after introduction to fruiting conditions
-- Flushes are prolific but individual mushrooms are small
-- Total biological efficiency: 30–60% over 2–3 flushes
+- Primordia form 5–10 days after introduction to [[biological-efficiency]]: 30–60% over 2–3 flushes
 - Contamination risk is moderate; *Coprinus* species and bacteria are common competitors
 
 ## Identification and Look-alikes
 
 The most important identification features are: small size, black spore print, mottled gills, coprophilous habitat, and intense blue bruising. Potential confusion species include:
 
-- ***Panaeolus cinctulus*** (Banded Mottlegill) — larger, less potent, less intense bruising
-- ***Panaeolus foenisecii*** (Brown Mottlegill) — very common in lawns; contains no psilocybin
-- ***Psilocybe cubensis*** — much larger, grows on dung but not exclusively; purple-brown spore print
-- **Various toxic *Inocybe* and *Gymnopilus* species** — different habitat and spore color
-
-## Legal Status
-
-| Jurisdiction | Status |
-|-------------|--------|
-| United States | Schedule I (DEA); psilocybin and psilocin are controlled substances |
-| Netherlands | Fresh mushrooms banned since 2008; spores legal |
-| Brazil | Not specifically scheduled |
-| Jamaica | Legal and unregulated |
-| Austria | Decriminalized for personal use |
-| Czech Republic | Legal to possess in small quantities |
-| UK | Class A (controlled) |
-
-## See Also
-
-- panaeolus cyanescens entity
-
-- [[baeocystin]]
-- [[biological-efficiency]]
+- ***[[baeocystin]]
 - [[copelandia-cyanescens]]

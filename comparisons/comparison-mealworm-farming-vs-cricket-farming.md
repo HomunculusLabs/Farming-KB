@@ -142,8 +142,6 @@ Crickets have a slight edge in GHG emissions due to their superior FCR, but meal
 | **Climate tolerance** | Broad | Narrow (warm, humid) |
 ## See Also
 
-- [[comparison-fukuoka-vs-jadam-farming]]
 - [[natural-farming-methods-comparison]]
-- [[knf-vs-chemical-farming-comparison]]
 - [[comparison-natural-farming-vs-permaculture]]
 - [[organic-farming-methods-comparison]]

@@ -11,8 +11,7 @@ type: concept
 # Mushroom Spawn Grain Preparation and Inoculation
 
 Spawn is the living fungal culture used to inoculate bulk substrates. Grain
-spawn consists of sterilized grains colonized by mushroom [[mycelium]]. It serves as
-the bridge between a pure culture on [[agar]] and a fully colonized fruiting
+spawn consists of sterilized grains colonized by mushroom [[agar]] and a fully colonized fruiting
 substrate. The quality of spawn directly determines the success of the entire
 grow.
 
@@ -82,65 +81,5 @@ for larger spawn runs.
 
 ## Inoculation Methods
 
-**[[spore]] syringe inoculation** introduces mushroom spores suspended in sterile
-water. This is the simplest method but produces genetically variable mycelium.
-Fruiting performance is unpredictable because each spore represents a unique
-genetic individual.
-
-**Agar-to-grain transfer** is the preferred method for consistent results. A
-piece of colonized agar is transferred from a petri dish to the grain jar
-inside a still-air box or laminar flow hood. This preserves the genetics of the
-mother culture.
-
-**Liquid culture inoculation** uses a syringe of living mycelium grown in a
-nutrient broth. Liquid culture colonizes grain rapidly because the mycelium is
-already in an active growth phase and distributes evenly throughout the grain
-mass. A single 10cc syringe can inoculate multiple grain jars.
-
-**Grain-to-grain transfer** moves colonized grain from a master jar into fresh
-sterile grain jars. This exponentially expands spawn volume but each transfer
-introduces a small risk of contamination and a slight genetic drift from the
-original culture.
-
-## Inoculation Technique
-
-All inoculation work must be performed in a clean environment. A still-air box
-constructed from a plastic storage tote is the minimum requirement. Laminar flow
-hoods provide the highest success rates by directing HEPA-filtered air across
-the work surface.
-
-Flame-sterilize the inoculation tool (scalpel, inoculation loop, or syringe
-needle) until glowing red before and between each use. Work quickly but
-deliberately. Minimize the time that jars and bags are open.
-
-Shake the grain jar after inoculation to distribute the inoculum throughout.
-This creates dozens or hundreds of colonization points rather than a single
-front, reducing total colonization time significantly.
-
-## Colonization
-
-Grain spawn typically colonizes in 10 to 21 days depending on species, grain
-type, inoculation method, and temperature. Oyster mushrooms (*Pleurotus* spp.)
-colonize rapidly, often completing in 7 to 14 days. Shiitake (*Lentinula
-edodes*) is slower, commonly taking 3 to 4 weeks.
-
-Jars should be stored at the species-preferred temperature in darkness. Shake
-jars at approximately 30 percent colonization to break up the mycelial network
-and redistribute it. This accelerates the remaining colonization phase.
-
-Fully colonized grain appears uniformly white with the individual grains bound
-together by a dense mycelial mat. There should be no uncolonized grain visible,
-no off-colors, and no sour or rotten smell.
-
-## Spawn Storage
-
-Fully colonized spawn can be stored in a refrigerator at 35 to 38 degrees
-Fahrenheit (2 to 3 degrees Celsius) for 2 to 6 months depending on species.
-Cold storage slows mycelial metabolism and extends viability. Before use, allow
-spawn to return to room temperature for 24 hours to reactivate growth.
-
-## See Also
-
-- [[mushroom-substrate-preparation-sterilization]]
-- [[mushroom-fruiting-chamber-designs]]-and-parameters]
+**[[mushroom-substrate-preparation-sterilization]]
 - [[mushroom-cultivation-contamination-prevention]]

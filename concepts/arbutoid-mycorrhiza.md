@@ -8,29 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes
 ---
 # Arbutoid Mycorrhiza
 
-Arbutoid mycorrhiza is a distinctive type of [[mycorrhiza]] formed between members of the Arbutoideae subfamily (within Ericaceae) and certain fungi that are primarily ectomycorrhizal on other host plants. Arbutoid mycorrhizae combine structural features of both [[ectomycorrhizal-ecology]] and [[ericoid-mycorrhiza]], with a well-developed Hartig net AND intracellular penetration of root cortical cells.
-
-## Host Plants
-
-Arbutoid mycorrhizae are formed by plants in the Arbutoideae subfamily of Ericaceae:
-
-- **Arbutus** (madrone, strawberry tree): A. menziesii (Pacific madrone), A. unedo (strawberry tree)
-- **Arctostaphylos** (manzanita, bearberry): A. uva-ursi (kinnikinnick), A. manzanita
-- **Arctous** (bearberry): A. alpinus, A. ruber
-- **Comarostaphylis**: C. diversifolia and related species
-- **Kalmiopsis**: K. leachiana, a rare Oregon endemic
-
-These plants are typically found in Mediterranean climates, montane regions, and acidic soils. They often occupy ecological intermediates between ericaceous heathlands and coniferous forests.
-
-## Fungal Partners
-
-The fungi forming arbutoid mycorrhizae are predominantly basidiomycetes that also form typical ectomycorrhizae on other trees:
-
-- **Basidiomycetes**: Laccaria, Rhizopogon, Piloderma, Cortinarius, Thelephora, Pisolithus
-- **Ascomycetes**: Some ascomycete species may also form arbutoid associations
-- **Shared fungal partners**: Many of these fungi simultaneously form ectomycorrhizae on nearby conifers (Pinus, Pseudotsuga, Tsuga)
-
-This shared fungal partner relationship creates a potential [[common-mycorrhizal-networks]] linking ericaceous plants with forest trees, with ecological implications for nutrient cycling and plant community dynamics.
+Arbutoid mycorrhiza is a distinctive type of [[ectomycorrhizal-ecology]] and [[common-mycorrhizal-networks]] linking ericaceous plants with forest trees, with ecological implications for nutrient cycling and plant community dynamics.
 
 ## Structural Features
 
@@ -112,15 +90,8 @@ The arbutoid condition is thought to represent an evolutionary intermediate or h
 ## See Also
 
 - mycorrhiza — Overview of all mycorrhizal types
-- [[ectomycorrhizal-ecology]] -- The related EM symbiosis sharing fungal partners
 - [[ericoid-and-orchid-mycorrhizae]] — The related ericoid symbiosis within the same plant family
 - ericaceae — The plant family containing arbutoid hosts
-- [[common-mycorrhizal-networks]] — Networks linking arbutoid plants with forest trees
-
-## Related
-
 - [[monotropoid-mycorrhiza]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[mycorrhizal-networks-interplant-carbon-transfer]]

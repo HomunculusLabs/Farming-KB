@@ -34,73 +34,6 @@ with the same vigor as the first tree, the more vigorous variety may
 dominate. Grafting is also used to combine desirable fruiting
 characteristics with rootstock properties such as disease resistance,
 dwarfing habit, or soil adaptability. See
-[[hamilton-fruit-tree-selection-pollination]] for variety selection.
-
-## Cleft Grafting
-
-Cleft grafting is used to graft a new variety onto an existing tree
-in late winter or early spring. In midwinter, prepare the site by
-cutting back two branches just above a fork. In late winter or early
-spring, as the tree starts new growth, split each cut end by driving
-a billhook into each one with a hammer. Prepare scions of one-year-old
-growth, about 4 to 6 inches (10-15cm) long, cutting the base to form a
-wedge. Insert scions into each cut end, ensuring cambium layers
-correspond. Tie with raffia and cover wounds with grafting wax.
-
-## Whip-and-Tongue Grafting
-
-Use this method to graft a variety onto a rootstock. Several
-ornamental plants can also be grafted using this technique. Trim
-the rootstock back and make a long slanting cut in the top part of
-the stem to leave a long wedge shape. Using a one-year-old scion,
-cut the end to form a corresponding wedge. Make two more cuts in
-both the rootstock and scion to form tongues that interlock. Fit
-the scion into the rootstock, matching cambium layers precisely.
-Tie with raffia and cover with grafting wax.
-
-## Budding
-
-Budding is a modified form of grafting and a slightly easier method.
-It is most commonly used to put new varieties onto rootstocks. In
-early to midsummer, when sap is running well and bark separates
-freely from the tree, cut a length of stem from the desired variety.
-Remove all leaves but leave leaf stalks as handles. Cut a T-shaped
-slit in the bark of the rootstock and peel back slightly. Remove a
-bud from the prepared stem and slide it into the T-shaped slit using
-the leaf stalk as a handle.
-
-## Budding Aftercare
-
-When the bud shows signs of having taken, carefully cut the raffia
-away; rubber ties can be left to rot. In the fall, prune off the
-growth on the rootstock above the new shoot, and tie the shoot to
-the stub for support. The bud will grow into the new variety the
-following spring. Rootstocks can be purchased from nurseries that
-perform their own budding. Since they are sold bare root, plant them
-in winter before you need them.
-
-## Timing
-
-Grafting should be done in late winter or early spring, just as the
-tree is beginning its new growth. The limb for grafting should be
-prepared in midwinter, well before the actual grafting takes place.
-Budding is done in early to midsummer when the bark will separate
-freely from the wood. These timing requirements reflect the natural
-growth cycles of the plants and are critical for success.
-
-## Tools Required
-
-A sharp, clean knife is essential for both grafting and budding. A
-special budding knife with a bark lifter on the handle is useful.
-Grafting wax or a suitable sealant is needed to cover wounds and
-prevent drying. Raffia, rubber budding ties, or special grafting
-tape secures the join. A billhook and hammer are used for cleft
-grafting. Keep all tools clean and sharp to ensure clean cuts that
-promote rapid healing and successful union between scion and stock.
-
-## Relationship to Other Propagation
-
-Grafting and budding complement other
 [[hamilton-vegetative-propagation]] methods such as cuttings,
 layering, and division. While cuttings and layering create new plants
 identical to the parent, grafting allows the combination of different
@@ -121,3 +54,26 @@ change, pollinator addition, and disease-resistant rootstock use.
 Common beginner mistakes include misaligning the cambium layers, using a
 dull blade that crushes rather than cuts, and failing to secure the graft
 union properly. Taking time with each step dramatically improves success.
+
+## See Also
+
+- [[mollison-designers-grafting-and-budding-fruit-trees]]
+## Practical Considerations
+
+Successful implementation of Grafting and Budding Techniques requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

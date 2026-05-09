@@ -3,7 +3,7 @@ title: Strategic Planning
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, principles]
+tags: [[permaculture, design, principles]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -133,13 +133,8 @@ Critical personnel: assessor-designers (permaculture team), accountants, broker-
 
 ## Related Topics
 
-- [[permaculture-designers-manual-bioregional-planning]] - Bioregional organisation detail
 - [[permaculture-designers-manual-legal-structures]] - Trusts and legal frameworks
-- [[permaculture-designers-manual-village-design]] - Village development
 - [[permaculture-designers-manual-legal-structures]] - Ethical finance and trusts
-- [[permaculture-designers-manual-bioregional-planning]] - Individual site design
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[permaculture-designers-manual-legal-and-social-structures]]
 - [[mollison-property-trusts-ethical-investment]]
-- [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-aquaculture-species]]

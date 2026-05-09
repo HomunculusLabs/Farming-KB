@@ -92,16 +92,10 @@ The livestock component is designed to integrate with the crop production system
 
 ## See Also
 
-- [[knf-livestock-chicken-house-natural-farming]]
 - [[knf-poultry-feed-preparation]]
-- [[knf-poultry-natural-farming]]
 - [[knf-livestock-feeding-natural]]
-- [[knf-livestock-odorless-piggery]]
 - [[knf-brown-rice-vinegar]]
-- [[knf-lactic-acid-bacteria-serum]]
 - [[knf-fermented-mixed-compost]]
-- [[knf-seawater-and-fermented-seawater]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]
-- [[free-range-poultry-forage-design-mollison]]
 - [[cho-natural-farming-inputs-overview]]
 - [[cho-indigenous-microorganisms-collection-and-cultivation]]

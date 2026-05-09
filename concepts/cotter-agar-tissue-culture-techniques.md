@@ -136,10 +136,6 @@ purified strain.
 
 ## See Also
 
-- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
-
 - [[cotter-laboratory-setup]] -- lab design and equipment
-- [[cotter-grain-spawn-production]] -- expanding cultures to grain
 - [[cotter-culture-storage-senescence]] -- preserving cultures long-term
-- [[mushroom-cultivation-troubleshooting]] -- contamination solutions
 - [[cotter-mushroom-life-cycle-mycelium-biology]] -- understanding fungal biology

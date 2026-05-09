@@ -92,8 +92,6 @@ Sodium hydroxide can be added to any JNP formulation for increased pesticidal st
 
 ## See Also
 
-- [[jadam-pesticide-dosage-guide]]
-
 - [[jadam-wetting-agent-jwa]] -- surfactant component
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference
 - [[jadam-pesticide-for-aphids-and-mites]] -- if slugs + aphids are both present

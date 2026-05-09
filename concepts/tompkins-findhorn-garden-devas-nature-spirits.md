@@ -70,56 +70,8 @@ detailed descriptions of the messages she said she received directly
 from the devas, of which she described whole hierarchies responsible
 for every fruit and vegetable, for every flower and weed. Here was a
 revelation more phenomenal than the one opened in New York by Cleve
-Backster's discovery of [[tompkins-cleve-backster-primary-perception]] in plants.
-
-Findhorn quickly developed into a community of over a hundred
-disciples. Young spiritual leaders turned up to preach the gospel of
-a New Age, and a college was founded in the community to teach the
-tenets of this New Age. What had started as a miraculous little garden
-appeared to be turning into a true center of light for the Aquarian
-Age, visited annually from every continent of the globe.
-
-## Connection to Steiner's Biodynamics
-
-The secret behind Pfeiffer's Biodynamic compost, which had been proved
-so highly effective scientifically, turns out to be a homeopathic
-wonder based on Steiner's organic brews made by burying cow horns
-filled with cow dung and deer bladders filled with nettles and
-camomile leaves. Steiner's anthroposophy, or Spiritual Science, throws
-such a light on plant life and agriculture as to make scientists
-pause and reconsider their assumptions. See [[biodynamic-agriculture-and-steiner]]
-and [[biodynamic-preparations]] for more on Steiner's methods.
-
-## The World of Nature Spirits
-
-Aesthetically, the world of the devas and the nature spirits turns
-out to be even more full of color and sound and perfume than the
-creations of Scriabin and Wagner, their gnomes, nymphs, and undines,
-their fire, water, earth, and air spirits closer to reality than the
-Holy Grail and the eternal quest it engendered. As Dr. Aubrey
-Westlake, author of Pattern of Health, describes our imprisoned
-state, we are locked in a "valley of materialistic concepts, refusing
-to believe there is anything other than the physical-material world
-of our five senses."
-
-The ancient wisdom, as detailed by seers like Mesdames Helena P.
-Blavatsky and Alice A. Bailey, throws quite another light on the
-energy of bodies, both of humans and of plants, as well as the
-relation of individual cells to the entire cosmos. Parting the veil
-into other worlds and other vibrations beyond the limits of the
-electromagnetic spectrum may well go a long way to explain the
-mysteries which are incomprehensible to physicists who limit their
-looking to what they can see with their physical eyes and their
-instruments.
-
-## Broader Implications
-
-The growth of seeds and plants, as Paracelsus intimated, may indeed
-be affected very strongly by the position of the moon, the positions
-of the planets, their relation to the sun and to the other stars of
-the firmament. Fechner's animistic vision of plants being ensouled
-becomes less of a wild conceit, as does Goethe's concept of a
-prototype plant, explored in [[tompkins-goethe-plant-metamorphosis-evolutionary-theory]].
+Backster's discovery of [[biodynamic-agriculture-and-steiner]]
+and [[tompkins-goethe-plant-metamorphosis-evolutionary-theory]].
 
 The attraction of the seer's supersensible world is too great to
 forgo, and the stakes too high, for they may include survival for
@@ -131,7 +83,6 @@ totality of life.
 
 ## See Also
 
-- [[biodynamic-agriculture-and-steiner]] - Steiner's Biodynamic system
 - [[tompkins-cleve-backster-primary-perception]] - Backster's
   experiments with plant perception
 - [[tompkins-george-washington-carver-plant-alchemy]] - Carver's

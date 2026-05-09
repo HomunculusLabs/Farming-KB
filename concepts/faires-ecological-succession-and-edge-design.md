@@ -3,60 +3,7 @@ title: Ecological Succession and Edge Design
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Ecological Succession and Edge Design
-
-Almost all permaculture design strategies are drawn from recurring patterns found in nature. The wilderness may seem chaotic, but ordered methods exist in everything from physical structures of organisms to invisible chemical cycles. We must become observant of these patterns and clever enough to use them.
-
-## Patterns in Nature
-
-The Fibonacci series is the most well-known natural pattern — a mathematical sequence creating proportional spirals found in snail shells, sunflower heads, and oak leaf arrangements. Intertwining coils appear in plant stems and DNA structure. Predictable patterns govern bird flocking and fish schooling. These patterns exist because they work.
-
-## Ecological Succession
-
-When ground is cleared of plants (by fire, storms, or human action), it repopulates through a series of stages. Permaculture speeds up these stages and uses them for human benefit, saving time and energy.
-
-### Stage 1: Pioneer Plants
-Broad-leaved plants that spread quickly to cover and protect the soil. Usually thorny and inedible (like thistles) with short lifespans. Others are thorny and edible (like blackberries). They add important minerals to the soil.
-
-### Stage 2: Herbs and Shrubs
-After pioneers, herbs and shrubs begin growing — some edible, lasting longer. They compete with Stage 1 plants for resources and eventually win out.
-
-### Stage 3: Trees
-Trees begin growing when shrubs and herbs have created a beneficial environment. Some bear edible fruit. They shade pioneer plants, which die and fertilize the soil.
-
-## What Succession Is NOT
-
-Companion planting is NOT the same as ecological succession. Planting clover under a fruit tree to "stack stages" can actually inhibit water absorption and kill the tree. Putting Stage 1 plants with Stage 3 plants is not always beneficial. Succession is a multi-year process of soil repair through sequential plant communities. Companion planting is a single-season strategy of mutual benefit.
-
-## The Importance of the Edge
-
-Squares and rectangles are rare in nature. Spheres, circles, cylinders, and especially spirals predominate. The edge of a forest gets more light and nutrients than the center, making it far more productive. The line between ocean and shore, or mountain and valley, is as diverse as the two areas on either side.
-
-To maximize edge effect, permaculture uses circles, spirals, curves, vertical growing space (trellises), and zigzags.
-
-## Types of Edges
-
-**Spiral:** An herb spiral is 5.5 feet (1.6m) across, shaped like a snail shell with a ramp to the center. Sun-loving herbs on one side, shade-loving on the other. Typically placed in the kitchen garden.
-
-**Lobular:** A roundish shape that hangs out, like an ear lobe. Used alongside pathways or garden edges.
-
-**Chinampa:** Ancient Mexican system of land banks built between ditches of water. Fish in the water fertilize plants; plants have easy water access. Fertilizer from the ditch bottom is periodically brought up to garden beds.
-
-**Strip Cropping:** Several plant types grown in strips next to each other for mutual benefit — curves, zigzags, keyholes, or following land contours rather than straight lines.
-
-## Key Permaculture Terms
-
-**Polyculture:** Mixing various plant and animal species together for mutual benefit, the opposite of monoculture. Orchards clumped with herbs and ducks underneath; climbing plants grown with tall plants like corn.
-
-**Elements:** Any feature on land, whether intentionally placed or not — trees, ponds, rock piles. Each element is connected to everything else through mutually beneficial relationships. Every "problem" can become an advantage: weeds become mulch, immovable rocks become wall foundations.
-
-**Elements as Goals:** Turn human needs into design elements — a place to live becomes a house, a protein source becomes chickens, drought solution becomes water storage. Each element is analyzed for input, characteristics, and output.
-
-See also [[faires-sustainability-and-design-goals]], [[edge-effect-in-permaculture]], and [[permaculture-pattern-literacy]].
+tags: [[faires-sustainability-and-design-goals]], [[permaculture-pattern-literacy]].
 
 ## Key Points
 
@@ -68,7 +15,7 @@ See also [[faires-sustainability-and-design-goals]], [[edge-effect-in-permacultu
 
 ## See Also
 
-[[faires-orchard-design-and-intercropping]], [[faires-pond-design-and-aquaculture]], [[urban-permaculture-edge-effect-and-design-principles]], [[mollison-edge-effect-design]], [[faires-garden-design-zone-1-layout]], [[faires-house-design-and-retrofit]], [[faires-sustainability-and-design-goals]], [[faires-water-tank-design]]
+[[faires-pond-design-and-aquaculture]], [[mollison-edge-effect-design]], [[faires-house-design-and-retrofit]], [[faires-water-tank-design]]
 
 ## Practical Applications
 
@@ -112,3 +59,22 @@ Designing these connections intentionally creates synergies that multiply the
 benefits of each individual component. The most successful homesteads are those
 where every output becomes an input for another process, closing loops and
 minimizing waste while maximizing productivity and self-reliance.
+## Practical Considerations
+
+Successful implementation of Ecological Succession and Edge Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -22,35 +22,6 @@ of cover crop use: all green manures serve the soil, but not all cover crops bec
 green manures.
 
 ## Green Manure
-[[green-manure-guide]]
-Green manuring is the practice of growing crops specifically for incorporation into the
-soil. The defining characteristic is intentional digging in: the crop is cut, wilted
-briefly on the surface to reduce moisture content, and buried at approximately six
-inches depth before it becomes woody, where it decomposes rapidly and releases nutrients
-for the following crop. The technique is particularly valuable on light, sandy soils
-prone to winter nutrient leaching, and on any soil that needs rapid organic matter
-addition between cash crop rotations.
-
-Crop selection follows rotation principles: legumes (clover, vetch, fava beans, field
-peas, crimson clover) fix atmospheric nitrogen through rhizobium bacteria in their
-root nodules, while non-legumes (winter rye, mustard, buckwheat, phacelia) add organic
-matter and mine subsoil minerals with deep root systems. The practitioner must avoid
-planting green manures from the same family as the preceding or following crop to
-prevent disease carryover, a notable limitation with brassica green manures like
-mustard that risk perpetuating clubroot. Dual-purpose crops like fava beans allow
-harvesting some pods for food while still incorporating the bulk of the plant material
-as green manure.
-
-The strengths of green manuring are speed of organic matter addition, nitrogen fixation
-from legume crops (40 to 200 pounds per acre depending on species), weed suppression
-during growth, soil structure improvement from root penetration, and very low cost
-with seed as the primary expense. The weaknesses include taking land out of production
-during the green manure phase, the physical labor of digging in, the risk of nitrogen
-robbery if woody material is incorporated (where decomposition microbes temporarily
-tie up available nitrogen), and the delay between incorporation and nutrient
-availability as decomposition completes.
-
-## Cover Crops
 [[cover-crop-guide-detailed]]
 Cover cropping is a broader soil health strategy where plants are grown primarily for
 their ecosystem services rather than harvest. Benefits include erosion prevention on
@@ -120,7 +91,7 @@ continuous rather than binary, and the best practice adapts the approach to the
 specific system, season, and soil needs.
 
 ## See Also
+
 - [[comparison-green-manure-vs-composting]]
-- [[comparison-mulch-vs-cover-crops]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - comparison-cover-crop-species-comparison

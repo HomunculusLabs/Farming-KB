@@ -134,11 +134,7 @@ The data he presented suggests that a reorientation toward natural methods could
 
 ## See Also
 
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 - [[fukuoka-breakdown-japanese-agriculture]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
-- [[fukuoka-mu-nothingness-philosophy]]
 - [[biological-efficiency]]

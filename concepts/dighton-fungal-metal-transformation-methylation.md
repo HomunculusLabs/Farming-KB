@@ -108,12 +108,8 @@ can influence the uptake and toxicity of another.
 
 ## See Also
 
-- [[fungal-metalloid-transformation-methylation-volatilization]]
-
 - [[dighton-fungal-biosorption-heavy-metal-remediation]]
-- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 - [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
-- [[fungal-oxalate-production-metal-transformation]]
 - [[fungal-metal-transformations-biosorption]]
 
 ## Sources

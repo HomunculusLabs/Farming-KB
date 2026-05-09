@@ -131,14 +131,10 @@ difficulty speaking, manic or compulsive behavior at high doses.
 
 ## See Also
 
-- [[5-meo-eipt]]
-
 - [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
-- [[5-meo-tmt-entity-tihkal]]
 - [[5-meo-pyr-t-entity-tihkal]]
-- [[5-meo-mipt-entity]]
 - [[5-meo-dipt-entity-tihkal]]
 
-[[3-meo-pcp]] · [[methoxetamine]] · [[ketamine]] · [[deschloroketamine]] ·
-[[pcp]] · [[mxe]] · NMDA receptor · Dissociative ·
-[[5-meo-dipt]] · [[dipt]] · [[dpt]]
+[[methoxetamine]] · [[deschloroketamine]] ·
+[[mxe]] · NMDA receptor · Dissociative ·
+[[dipt]] · [[dpt]]

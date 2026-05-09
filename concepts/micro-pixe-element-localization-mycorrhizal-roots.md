@@ -94,11 +94,7 @@ The most important step in micro-PIXE analysis is specimen preparation, aimed at
 
 ## Related Topics
 
-- [[ion-selective-microelectrodes-ectomycorrhizal-roots]] - Microelectrode techniques for nutrient studies
 - [[mycorrhizal-nutrient-transport]] - Phosphorus transport mechanisms
-- [[mycorrhizal-phosphatase-activity-elf97-detection]] - Enzyme activity detection methods
 - [[mycorrhizal-nutrient-uptake]]
-- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[mycorrhizal-nitrogen-transfer-between-plants]]

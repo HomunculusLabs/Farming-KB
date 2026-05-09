@@ -103,13 +103,8 @@ In the Western psychedelic community, *E. lageniformis* is valued as a mescaline
 
 ## See Also
 
-- [[echinopsis-pachanoi]]
 - [[echinopsis-peruviana]]
-- [[echinopsis-bridgesii]]
 - [[mescaline-entity]]
-- [[peyote]]
 - [[lophophora-williamsii]]
-- [[san-pedro-cactus-history]]
 - [[mescaline-extraction-guide]]
-- [[entheogen-culture]]
 - [[cactus-alkaloids-reference]]

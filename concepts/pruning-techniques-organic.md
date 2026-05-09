@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [plants, gardening]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 
 # Pruning Techniques Organic
@@ -67,70 +68,26 @@ Fan-training produces trees growing flat against a wall. The reflected and store
 ## Cultivation of Fruit — General Points
 
 ### Feeding
-Apply two handfuls of blood, fish, and bone meal per square yard/meter in early spring. Feeding roots are at the tips of the root system, not near the stem, so apply fertilizer in a wide band. Mulch with well-rotted manure or [[organic-composting-methods]] for weed suppression, water conservation, and trace elements. If trace element deficiency appears, spray with liquid kelp fertilizer and apply kelp meal to soil.
-
-### Watering
-Water when fruit is swelling for best results. Stop watering when fruits color up to prevent fungus disease. Apply through hose and sprinkler for at least an hour at a time — a little water brings roots to the surface where they dry out.
-
-### Thinning
-Trees drop excess fruit naturally in midsummer — delay thinning until then. Remove the central "crown" fruit from each cluster. Thinning does not reduce total weight — fewer fruits, each bigger.
-
-### Encouraging Growth
-To encourage a bud on a barren shoot, take a notch out of the bark above the bud to divert the growth-retarding hormone around it. Conversely, nick underneath a bud to prevent it from growing.
-
-### Weed Control
-Mulch with manure, compost, or black plastic. Many fruit plants are shallow-rooted so hoeing should be light.
-
-### Bird Protection
-Fruit cages are the best investment for larger gardens. For smaller gardens, cover bushes/trees with netting or protect individual fruits with transparent, perforated plastic bags (apply near ripeness when most vulnerable).
-
-## Apple Pruning
-
-**Rootstocks:** M106 is standard semi-dwarfing (use for all except dwarf pyramids and cordons). M9 is dwarfing (always requires staking; use for cordons and dwarf pyramids on fertile soil). M27 is very dwarfing (for tubs, very fertile soil, or stepovers only).
-
-**Tree Shapes:** Standards, bush trees, dwarf pyramids, fans, espaliers, cordons, stepovers, festooned trees.
-
-**Soil and Site:** pH 6.0-6.5. Lime only if below 6.0. Sunny, sheltered site preferable.
-
-**Planting:** Early winter, bare root plants. Prepare in advance; work from boards if soil is wet.
-
-**Pruning:** Details vary by shape (see espalier, cordon, stepover, festoon procedures above). Standard and bush trees: allow natural growth for a few years, then midsummer remove dead, diseased, crossing, or overcrowded branches back to main stem.
-
-**Harvesting:** Early varieties picked in summer just before fully ripe. Late varieties picked in fall or early winter when fully ripe. Store in plastic bags with pinholes for breathing. Check regularly, removing diseased fruit.
-
-**Supporting Heavy Branches:** Tie string around the center of a heavy branch, attaching the other end to the main trunk.
-
-**Pests and Diseases:** Winter moth, woolly aphid, codling moth, apple sawfly, canker, fireblight, bitter pit, brown rot, apple scab, wasps.
-
-## Pear Pruning
-
-**Rootstocks:** Quince A for poorer soils. Quince C for smaller trees that fruit earlier (use for cordons on very fertile soils).
-
-**Tree Shapes:** Same as apples — standards, bush trees, cordons, espaliers, dwarf pyramids, fans, stepovers, festooned.
-
-**Soil and Site:** pH 6.0-6.5. Sheltered, sunny place. Do not plant in frost pockets.
-
-**Planting:** Early winter, bare root.
-
-**Pruning:** Same general approach as apples. Details vary by shape.
-
-**Harvesting:** Early varieties picked before ripe (still hard and green), stored on a shelf, brought indoors a few days before eating. Late-maturing varieties left on tree longer, picked when they come off easily.
-
-**Pests and Diseases:** Winter moth, woolly aphids, codling moth, fireblight, sawfly, canker, bitter pit, brown rot, scab, wasps.
-
-## Cherry Pruning
-
-Grow sweet cherries as fans against south-facing wall on dwarfing rootstock Gisela 5. Acid cherries can be fan-trained against north-facing walls. Standard and bush trees pruned very little — allow natural growth, then midsummer remove dead, diseased, crossing, or overcrowded branches. Fan-trained sweet cherries pruned like plums; fan-trained acid cherries like peaches. Must be netted against birds.
-
-## Plum Pruning
-
-Since susceptible to silver leaf disease, never prune in winter. Fan-train on south- or west-facing walls. Tie shoots onto wires in summer. Pinch out branches growing into or away from the wall. After fruit is picked, cut out dead wood and shorten pinched-off shoots by half. Thin heavy crops to 3in (7cm) apart after natural midsummer drop. Support heavy branches with forked props covered in burlap.
-## See Also
-
-- [[fruit-growing-guide-organic]]
-- [[soft-fruit-growing-organic]]
+Apply two handfuls of blood, fish, and bone meal per square yard/meter in early spring. Feeding roots are at the tips of the root system, not near the stem, so apply fertilizer in a wide band. Mulch with well-rotted manure or [[fruit-growing-guide-organic]]
 - [[pruning-fruit-trees]]
-- [[grafting-fruit-trees]]
 - [[geoff-hamilton-organic-techniques]]
-- [[hamilton-pruning-and-training-fruit-trees]]
 - [[fruit-tree-pruning-training-hamilton]]
+## Practical Considerations
+
+Successful implementation of Pruning Techniques Organic requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

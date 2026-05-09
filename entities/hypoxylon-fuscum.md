@@ -118,4 +118,4 @@ components.
 
 ## See Also
 
-[[xylaria-polymorpha]] · [[daldinia-concentrica]] · [[xylaria-hypoxylon]] · [[xylaria-longipes]] · [[inonotus-obliquus]] · [[coriolopsis-gallica]] · [[trametes-versicolor]] · [[ganoderma-applanatum]]
+[[daldinia-concentrica]] · [[xylaria-longipes]] · [[coriolopsis-gallica]] · [[ganoderma-applanatum]]

@@ -136,11 +136,6 @@ This protection increases progressively as ambient temperature drops
 above freezing during the day, keeping soil unfrozen by mid-morning
 and ready for replanting.
 
-See also [[coleman-winter-harvest-planting-schedule]],
-[[coleman-planting-schedules]], and
-[[coleman-winter-harvest-philosophy]].
-
-## See Also
-
-- [[coleman-mache-and-specialty-winter-greens]]
+See also [[coleman-planting-schedules]], and
+[[coleman-mache-and-specialty-winter-greens]]
 - [[coleman-winter-harvest-washing-and-packing]]

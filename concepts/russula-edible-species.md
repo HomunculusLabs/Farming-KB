@@ -28,7 +28,7 @@ Russula flesh should be brittle and break cleanly and crisply. Species with toug
 
 A spore print should be taken when possible. All Russula species have white to cream-colored spore prints. Any mushroom with a colored spore print is not a Russula.
 
-Despite these guidelines, Russula identification remains challenging, and inexperienced foragers should exercise caution and consult local experts. See [[mushroom-foraging-safety]] and [[mushroom-hunting-and-identification]] for safe foraging practices.
+Despite these guidelines, Russula identification remains challenging, and inexperienced foragers should exercise caution and consult local experts. See [[mushroom-hunting-and-identification]] for safe foraging practices.
 
 ## Major Edible Species
 
@@ -82,35 +82,19 @@ Edible Russula species are versatile in the kitchen. Young, firm specimens can b
 
 Drying is not generally recommended for Russula species, as the flesh tends to become excessively brittle and loses flavor. Pickling is a traditional preservation method in Eastern Europe, particularly for R. vesca and R. cyanoxantha.
 
-Russula mushrooms do not have the intense umami flavor of porcini or the complex aromas of truffles, but their mild, clean flavor and crisp texture make them excellent in dishes where a delicate mushroom flavor is desired. See [[edible-wild-mushroom-guide]] for broader mushroom culinary information.
-
-## Ecological Significance
-
-Russula species are among the most important ectomycorrhizal fungi in temperate and boreal forests. They form extensive mycorrhizal networks with forest trees, facilitating nutrient exchange and contributing to forest health and productivity.
-
-The genus shows considerable host specificity, with different Russula species specializing on different tree hosts. This diversity of associations contributes to the overall resilience of forest mycorrhizal communities. Studies have shown that Russula diversity is a good indicator of forest ecosystem health and soil quality. See [[ectomycorrhizal-ecology]] and [[ethnomycology]] for ecological context.
+Russula mushrooms do not have the intense umami flavor of porcini or the complex aromas of truffles, but their mild, clean flavor and crisp texture make them excellent in dishes where a delicate mushroom flavor is desired. See [[ectomycorrhizal-ecology]] and ethnomycology for ecological context.
 
 ## See Also
 
-- [[russula-brevipes]]
-
 - [[bolete-mushrooms-ecology-edibility]]
-
-- [[mushroom-foraging-safety]]
 
 - [[edible-wild-mushroom-guide]]
 
 ## Related
 
-- [[ectomycorrhizal-ecology]]
-
 - [[mycorrhizal-fungi]]
-
-- [[mushroom-hunting-and-identification]]
 
 - [[fungal-poisons-and-toxicology]]
 
 ## Merged: Mushroom Fruiting Seasons Guide
-The seasonal timing of mushroom fruiting is governed primarily by temperature, rainfall, and humidity patterns. Different mushroom species have evolved to fruit at specific times of year when environmental conditions are most favorable for spore production and dispersal. See [[morel-mushroom-guide]] for detailed identification and hunting information. [[oyster-mushroom-species-variety]] include several that fruit during cooler spring weather. See [[classical-roman-mushroom-poisoning]] for safety information. Related: Russula, [[edible-wild-mushroom-guide]], [[blue-lotus-history]], [[chanterelle-guide]], [[agaricus-species-guide]]
-## Merged: Macroscopic Mushroom Identification Features
-Macroscopic mushroom identification relies on the careful observation of physical features that are visible to the naked eye or with a simple hand lens. These features include characteristics of the cap, gills, stem, spore print, flesh, and overall form. Stem base characteristics are particularly important for safety, as the presence or absence of a volva (basal cup) is critical for distinguishing [[amanita-genus-morphology]] species from other genera. White spore prints are found in [[amanita-genus-morphology]], [[growing-gourmet-tree-species-guide-mushroom-cultivation]], Russula, [[lactarius-cultivation-attempts]], and many other genera. Pink spore prints are characteristic of [[mushroom-spore-printing-and-storage]] and Volvariella. Related: [[oyster-mushroom-species-variety]], [[mushroom-contaminant-identification-key]], [[mushroom-contaminant-identification-key]], [[psilocybe-cubensis-potency-variation-by-flush]], [[agaricus-species-guide]]
+The seasonal timing of mushroom fruiting is governed primarily by temperature, rainfall, and humidity patterns. Different mushroom species have evolved to fruit at specific times of year when environmental conditions are most favorable for spore production and dispersal. See [[oyster-mushroom-species-variety]] include several that fruit during cooler spring weather. See [[edible-wild-mushroom-guide]], [[chanterelle-guide]], [[amanita-genus-morphology]] species from other genera. White spore prints are found in [[growing-gourmet-tree-species-guide-mushroom-cultivation]], Russula, [[mushroom-spore-printing-and-storage]] and Volvariella. Related: [[mushroom-contaminant-identification-key]], [[psilocybe-cubensis-potency-variation-by-flush]], [[agaricus-species-guide]]

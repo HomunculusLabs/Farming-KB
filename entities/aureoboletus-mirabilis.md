@@ -104,17 +104,10 @@ The species has not been investigated for novel bioactive secondary metabolites,
 
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[boletus-aereus]]
-- [[xerocomus-subtomentosus]]
 - [[suillus-luteus]]
-- [[leccinum-scabrum]]
 - [[cantharellus-cibarius-entity]]
-- [[tricholoma-matsutake]]
 - [[hericium-erinaceus]]
-- [[lactarius-indigo]]
 - [[paul-stamets]]
-- [[fomes-fomentarius]]
-- [[trametes-versicolor]]
-- [[ganoderma-lucidum]]
-- [[laetiporus-sulphureus-permaculture]]
+- [[trametes-versicolor-entity]]
+- [[laetiporus-sulphureus]]

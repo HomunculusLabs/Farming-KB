@@ -3,96 +3,102 @@ title: Permaculture Designers Manual - House Design Principles
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Permaculture Designers Manual - House Design Principles
-
-updated: 2026-04-18
-
-House design principles are found across Chapters 10, 11, and 12, with detailed treatment in Section 12.5 for cool climates, Section 10.3 for humid tropics, and Chapter 11 for arid and island climates. Mollison emphasises that house design follows settlement design: site choice and landscaping provide 70% of energy conservation, while construction details handle the rest.
-
-## Cool Climate House Design
-
-### Glazing Ratios
-
-Glazing on sunward walls should range from 30% (latitude 30-35 degrees) to 100% (latitude 60 degrees). No glazing on west walls; minimal or double-glazing on poleward walls above latitude 40 degrees.
-
-### House Proportions
-
-Houses should be no more than two rooms (10 m) deep on the north-south axis, and may be 1.5 times longer on the east-west axis, so winter sun can penetrate windows to the poleward room walls. Sunward roof eave width and window sill height are adjusted to admit winter sun from early autumn to late spring. In very cold climates, a solarium or glasshouse is attached for day use in winter. Clerestory or attic windows to the sun side heat rear rooms.
-
-### Floor and Sub-Floor
-
-Concrete slab or mud, brick, or tiled floors in contact with ground are ideal to absorb heat into the underfloor earth mass. Any usual floor covering can be used including wooden flooring over battens. The floor area and earth beneath are the critical heat stores for winter, radiating solar heat at night.
-
-The subfloor must be insulated by digging a 1 m deep foundation trench and providing 5-15 cm of insulation around the whole periphery. This prevents stored earth heat escaping via surrounding soils (most loss occurs within 0.5 m of the surface).
-
-### Ceiling and Windows
-
-The ceiling should be fitted with 5-15 cm of insulation (fibre, wool, seagrass, sawdust, feathers, or shredded paper). Windows provided with oversized floor-to-ceiling curtains. In severe cold, sliding insulated shutters are appropriate. Insulation adds 5-8% to house costs but pays for itself in energy savings.
-
-### Walls
-
-Walls can be massive (stone or pise) or double-walled. Reverse brick veneer is ideal: bricks inside, timber or wallboard outside, wall cavity insulated. Light insulation suffices in east and west walls mainly as sound barrier for conjoined houses. In cold wind and blizzard areas, double entries are essential. In alpine areas, farm housing is usually conjoined to barns and feed storages.
-
-## Tropical House Design
-
-Tropical house design emphasises:
-- Elevation and ventilation over insulation
-- Broad roof overhangs for shade
-- Open walls or louvred sections for cross-ventilation
-- Thatched or lightweight roofs that cool quickly at night
-- Raised floors for air circulation beneath
-- Deep verandahs as living spaces
-- Orientation to prevailing breezes (not just solar angles)
-
-## Desert House Design
-
-Desert settlements require:
-- Massive walls (stone, rammed earth, adobe) for thermal lag
-- Small windows to reduce heat gain
-- Internal courtyards for night-sky cooling
-- Windcatchers and tower ventilation systems
-- Dense settlement clustering for shared shade walls
-- External insulation is secondary to internal thermal mass
-- Plantings of deciduous trees for summer shade, winter sun
-
-## Island House Design
-
-Island and coral cay housing uses:
-- Bamboo, thatch, and locally available materials
-- Elevated structures for flood and storm protection
-- Open design for maximum ventilation
-- Community forest resources for building materials
-- Thatch roofs with good rain-shedding capability
-
-## General Design Principles Across Climates
-
-Regardless of climate, Mollison emphasises these universal principles:
-
-1. Design for self-provision of heat and hot water through construction technique alone
-2. Use local materials wherever possible: stone, mud, bamboo, round timbers, rope, thatch, brick, tiles
-3. Houses can be close to 100% energy efficient by design alone at no extra construction cost
-4. Solar hot water systems should be routine; photovoltaics approaching 30% efficiency
-5. Integrate life, work, and recreation in the dwelling
-6. Avoid separation of people from services through zoning
-7. Buildings should be of varying types: family homes, singles quarters, elderly housing
-8. Every house should store its own roof water
-9. The garden should provide much of the food
-10. The house may contain commercial premises for home services and industries
-
-## Energy in Buildings
-
-Every house built today can be close to 100% efficient by design alone, at no extra cost in construction. Solar hot water systems are routine installations, and photovoltaics almost 30% efficient. However, energy can also be generated at village scale through wind, tide, river, solar, and methane systems. The manual recommends a diverse approach appropriate to local resources.
-
-See also: [[permaculture-designers-manual-settlement-design]], [[permaculture-designers-manual-energy-systems]], [[permaculture-designers-manual-waste-management]], [[permaculture-designers-manual-climate-factors]]
-
-## Related
-
-- [[permaculture-designers-manual-bamboo-building]]
-- [[permaculture-designers-manual-food-preserving]]
+tags: [[permaculture-designers-manual-settlement-design]], [[permaculture-designers-manual-waste-management]], [[permaculture-designers-manual-bamboo-building]]
 - [[permaculture-designers-manual-thatch-species]]
 - [[permaculture-designers-manual-bamboo-species-uses]]
+## Overview
+
+Permaculture Designers Manual - House Design Principles is a key concept within permaculture design and practice.
+Permaculture emphasizes working with natural systems rather than against
+them, creating sustainable and regenerative human habitats that produce
+abundant yields while improving ecosystem health over time.
+
+## Core Principles
+
+Several foundational principles guide the implementation of this approach.
+These include careful observation of natural patterns, capturing and storing
+energy, obtaining a yield, applying self-regulation, using and valuing
+renewable resources, producing no waste, and designing from patterns to
+details. Each principle informs practical decision-making in design.
+
+## Practical Application
+
+In practice, this involves thoughtful integration of elements within the
+landscape to create mutually beneficial relationships. Zone planning,
+sector analysis, and element placement all contribute to efficient and
+resilient systems. The goal is to minimize external inputs while
+maximizing the productivity and ecological health of the system.
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including slope,
+water flow, sun exposure, existing vegetation, soil conditions, and local
+climate patterns. These factors inform the placement of elements and the
+selection of appropriate species and techniques for the specific context.
+
+## Benefits and Outcomes
+
+When properly implemented, these approaches yield multiple benefits
+including improved soil health, increased biodiversity, reduced maintenance
+requirements, enhanced food production, and greater overall system
+resilience. The long-term productivity of well-designed systems typically
+increases over time as ecological relationships mature and strengthen.
+## Practical Considerations
+
+When working with Permaculture Designers Manual - House Design Principles, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

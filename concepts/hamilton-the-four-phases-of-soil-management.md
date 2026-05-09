@@ -125,11 +125,7 @@ Your soil management programme should follow these principles:
 
 ## Related Concepts
 
-- [[hamilton-organic-soil-management]]
 - [[hamilton-soil-types-identification]]
-- [[hamilton-liming-and-ph-management]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- [[hamilton-composting-and-organic-matter-management]]
 - [[hamilton-animal-manure-types-and-use]]
-- [[hamilton-nutrient-deficiencies-and-treatment]]
 - [[hamilton-alternative-soil-conditioners]]

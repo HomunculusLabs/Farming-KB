@@ -125,11 +125,7 @@ After harvest, quality can be monitored by:
 
 ## See Also
 
-- [[cannabis-manicuring-techniques]]
 - [[cannabis-curing-jars]]
-- [[cannabis-hashish-production]]
 - [[cannabis-ice-water-extraction]]
-- [[cannabis-yield-optimization]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[cannabis-indoor-growing-guide]]
 - [[cannabis-hash-making-from-extracted-oil]]

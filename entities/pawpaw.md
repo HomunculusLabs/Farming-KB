@@ -90,7 +90,6 @@ still much to learn about optimising its cultivation.
 
 ## See Also
 
-- [[diospyros-virginiana]]
 - [[monarda-fistulosa]]
 - Persimmon
 - American Chestnut
@@ -100,10 +99,7 @@ still much to learn about optimising its cultivation.
 
 ## See Also
 
-- [[diospyros-virginiana]]
 - [[monarda-fistulosa]]
-- [[mycorrhizal-edible-mushroom-species-overview]]
 - [[permaculture-plants-fruit-trees-temperate]]
-- [[microfungal-species-diversity-large-areas]]
 - [[mollison-forest-water-climate]]
 - [[fungal-single-cell-protein-production]]

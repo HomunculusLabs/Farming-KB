@@ -15,11 +15,7 @@ Psilocybe bohemica is a psychoactive mushroom species native to Central Europe, 
 
 ### Naming
 
-The species name "bohemica" refers to Bohemia, the historical region of the western Czech Republic. The species was identified as distinct from [[psilocybe-semilanceata]] and other European psychoactive Psilocybe species based on morphological and ecological differences.
-
-### Relationship to Other Species
-
-Psilocybe bohemica belongs to the Section Semilanceata of the genus Psilocybe, placing it in close taxonomic proximity to P. semilanceata. The section classification is discussed in [[psilocybe-section-classification]].
+The species name "bohemica" refers to Bohemia, the historical region of the western Czech Republic. The species was identified as distinct from [[psilocybe-section-classification]].
 
 ## Distribution
 
@@ -47,28 +43,8 @@ Psilocybe bohemica typically grows in:
 
 Gartz reports that towards the late 1980s, usage of psychoactive Psilocybe species began in the former Czechoslovakia, around the region of Brno. Notably:
 
-- Psilocybe bohemica is used MORE OFTEN in this country than [[psilocybe-semilanceata]]
-- The former species is "quite common" in the region
-- Usage began relatively late compared to Western European countries (late 1980s vs. early 1980s for Italy)
-
-### Why Bohemica Over Semilanceata?
-
-The preference for P. bohemica over P. semilanceata in the Czech Republic likely reflects:
-
-1. **Local abundance:** P. bohemica is more common in the region
-2. **Accessibility:** Locals are more familiar with identifying P. bohemica
-3. **Potency:** The species may contain sufficient psilocybin for satisfactory experiences
-4. **Tradition:** A local tradition may have developed around P. bohemica specifically
-
-## Chemical Profile
-
-### Active Compounds
-
-Like other psychoactive Psilocybe species, P. bohemica contains:
-
-- [[query-what-is-the-difference-between-psilocybin-and-psilocin]] (4-PO-DMT) -- The primary psychoactive compound
-- [[query-what-is-the-difference-between-psilocybin-and-psilocin]] (4-HO-DMT) -- The active metabolite, present in trace amounts
-- Possibly [[query-what-is-the-difference-between-psilocybin-and-psilocin]] and norbaeocystin -- Secondary indole alkaloids
+- Psilocybe bohemica is used MORE OFTEN in this country than [[query-what-is-the-difference-between-psilocybin-and-psilocin]] (4-PO-DMT) -- The primary psychoactive compound
+- [[query-what-is-the-difference-between-psilocybin-and-psilocin]] and norbaeocystin -- Secondary indole alkaloids
 
 ### Analytical Data
 
@@ -144,6 +120,5 @@ Gartz emphasizes that "apparently, all of the most important psilocybin-producin
 
 ## See Also
 
-- [[psilocybe-semilanceata]] -- The related "classic" European species
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] -- Another European psychoactive species
 - [[psilocybe-genus-classification]] -- Taxonomic context

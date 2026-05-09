@@ -137,8 +137,6 @@ animal digs often reveals additional specimens.
 
 ## See Also
 
-- [[sequestrate-fungi-ecology-evolution]]
 - [[sequestrate-fungi-evolution-mushroom-to-truffle]]
-- [[ectomycorrhizal-host-tree-partnerships]]
 - [[pezizales-discomycete-ascomycete-diversity]]
 - [[fungal-biogeography-distribution-patterns]]

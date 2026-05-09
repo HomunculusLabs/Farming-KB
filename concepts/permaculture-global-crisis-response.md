@@ -3,13 +3,7 @@ title: Permaculture Global Crisis Response
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Permaculture Global Crisis Response
-
-Holmgren's closing chapters articulate a comprehensive framework for understanding and responding to the global crisis -- the convergence of fossil fuel depletion, ecological overshoot, climate change, and social destabilisation. Rather than presenting a single blueprint, he describes the transition from energy-abundant industrial society to energy-constrained conserver society as an ongoing process of adaptive design rooted in permaculture principles. This connects directly to [[permaculture-energy-descent-planning]], [[consumer-versus-conserver-society]], and [[low-energy-futures-in-permaculture]].
+tags: [[permaculture-energy-descent-planning]], [[low-energy-futures-in-permaculture]].
 
 ## The Energy Descent Reality
 
@@ -88,7 +82,7 @@ Ecosynthesis -- the evolution of new ecosystems of native and exotic species res
 
 ## Permaculture as Strategic Framework
 
-Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-water-harvesting-earthworks]] and [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available. They work at every scale -- from a backyard garden to a national economy -- and in every domain -- from agriculture to governance to education.
+Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available. They work at every scale -- from a backyard garden to a national economy -- and in every domain -- from agriculture to governance to education.
 
 The rapid evolution of more appropriate governance, economy and culture, including art and myth, are central to adapting to energy descent. "To claim that it is possible to use Permaculture principles to design a sustainable culture and society may be too big a leap, but I believe it is possible at least to use them for evaluating the diverse cultural phenomena we find ourselves participating in."
 
@@ -106,13 +100,8 @@ The transition involves multiple parallel pathways:
 Holmgren emphasises that scepticism and resistance to dogma are just as important in a descent culture as in a free one. "Nature is always providing us with a myriad of indicators, warning signs and questions in response to our actions driven by certainty and belief. Adaptation to energy descent depends on a dynamic balance of values and contextual knowledge rather than holy crusades of good over evil or simplistic, universal solutions."
 
 ## See Also
-- [[permaculture-principles]]
-
 - [[permaculture-energy-descent-planning]]
-- [[consumer-versus-conserver-society]]
 - [[low-energy-futures-in-permaculture]]
-- [[permaculture-ethics]]
-- [[permaculture-water-harvesting-earthworks]]
-- [[permaculture-and-community]]
+- [[permaculture-earthworks-and-water-harvesting]]
 - [[competition-cooperation-permaculture]]
 - [[retrofitting-suburbs-permaculture]]

@@ -72,32 +72,25 @@ For winter dormant spray on fruit trees: use approximately 5L per 500L before sp
 ## Key Usage Rules
 
 - Use ONLY when disease has broken out or is imminent -- do not use preventively throughout the season
-- Always use with [[jadam-wetting-agent-jwa]] (otherwise JS leaves marks and reduces germicide effect)
-- For increased power, raise JWA to over 5L and JS up to 2L per 500L
-- Grapes, persimmons, walnuts, and greenhouse crops are sensitive -- increase doses cautiously
-- Do not spray at noon (exception: pear rust)
-- Always do mixture test and concentration test before combining with commercial pesticides
-- Do not mix JWA and JS together directly -- add each separately to water first
-
-## Disease Targets
-
-JS is effective against:
-- Powdery mildew (all crops)
-- Downy mildew
-- Black spot
-- Pear rust
-- Canker
-- Most fungal diseases
-
-## The "Detoxified Sulfur" Scam
-
-JADAM warns against marketing claims for "detoxified sulfur." The sulfur used in JS is already 99.9% pure -- there are no heavy metal toxins (lead, cadmium, chrome, arsenic) to remove. Companies selling "detoxified sulfur" at premium prices are perpetrating fraud.
-
-## Role in JNP System
-
-JS is a core component of the [[jadam-natural-pesticide-jnp]] system. Combined with JWA, it forms "JS germicide." Adding [[jadam-herb-solution-jhs]] creates "JS-JHS pesticide" for even broader pest and disease control. Rather than increasing sulfur (which risks concentration damage), increase JWA content for stronger effect.
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-canker-leaf-spot-pesticide]]
+- Always use with [[jadam-natural-pesticide-jnp]] system. Combined with JWA, it forms "JS germicide." Adding [[jadam-fruit-tree-winter-pest-control]]
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-pesticide-for-fungal-diseases]]
 - [[jadam-natural-vs-chemical-pesticide]]
+## Practical Considerations
+
+Successful implementation of JADAM Sulfur Germicide (JS) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

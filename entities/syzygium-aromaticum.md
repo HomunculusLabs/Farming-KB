@@ -103,18 +103,11 @@ Clove oil is used as a flavoring agent in food products, a fragrance component i
 ## See Also
 
 - [[eugenia-caryophyllata]]
-- [[eugenol]]
 - [[cinnamomum-verum]]
-- [[pimenta-dioica]]
 - [[cymbopogon-citratus]]
-- [[zingiber-officinale]]
 - [[curcuma-longa]]
-- [[myristica-fragrans]]
 - [[capsicum-annuum]]
-- [[croton-lechleri]]
 - [[mentha-piperita]]
-- [[ocimum-basilicum]]
 - [[eugenia-bone]]
-- [[pimpinella-anisum]]
 - [[cinnamomum-cassia]]
 - [[cinnamomum-camphora]]

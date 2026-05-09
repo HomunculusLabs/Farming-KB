@@ -139,11 +139,8 @@ It is a conceptual bridge between fragile microscopic states and robust computat
 
 ## See Also
 
+- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
+- [[mckenna-mdma-and-drug-terror-of-the-1980s]]
+- [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
+
 Quantum error correction is not merely a repair mechanism.
-
-It is the architecture that allows quantum information to behave as an engineered resource.
-
-Its success or failure will largely determine the scale and timing of practical quantum computation.
-- [[unconventional-computing]]
-- [[computational-universe-and-natural-intelligence]]
-- [[quantum-mechanics-fundamentals]]

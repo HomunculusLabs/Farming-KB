@@ -135,11 +135,7 @@ negating human knowledge, they were moving in opposite directions.
 
 ## See Also
 
-- [[green-philosophy]]
-
 - [[fukuoka-sowing-natural-farming-philosophy]] — The philosophical foundation -
-[[fukuoka-sowing-seed-ball-desert-revegetation]] — The practical application -
 [[fukuoka-sowing-natural-farming-climate-change]] — The environmental analysis -
-[[fukuoka-road-one-straw-revolution-continuation]] — The earlier revolutionary
-vision - [[fukuoka-road-spiritual-aspects-farming]] — Spiritual dimensions of
+[[fukuoka-road-spiritual-aspects-farming]] — Spiritual dimensions of
 farming

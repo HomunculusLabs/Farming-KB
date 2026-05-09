@@ -2,24 +2,10 @@
 title: Fungal Pheromones and Sexual Reproduction
 created: 2026-04-28
 tags:
-  - mycology
-  - fungal-biology
-  - sexual-reproduction
-  - pheromones
-  - biochemistry
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds,
-    and Mycologists by Nicholas P. Money (2002), Chapters 2, 7"
-  - "J. Raper, American Journal of Botany 26, 639-650 (1939)"
-  - "D.S. Thomas and J.T. Mullins, Science 156, 84-85 (1967)"
-type: concept
----
-# [[fungal-pheromones-and-sexual-signaling]] and Sexual Reproduction
+  - [[fungal-pheromones-and-sexual-signaling]] and Sexual Reproduction
 
 Fungi employ an plant hormones and chemical signaling systemshemical signaling systems to
-coordinate sexingoldian-hyphomycetes-spore-dispersal-in-wateroduction, ranging from steroid hormones in water molds
+coordinate sexingoldian-hyphomycetes-in-wateroduction, ranging from steroid hormones in water molds
 to sesquiterpene pheromones in chytrids and carotenoid-derived trisporic
 acid in zygomycetes. These chemical conversations govern mate recognition,
 hyphal fusion, and the development of sexual structures across all major
@@ -123,14 +109,6 @@ darkens and decays. On tree stumps, the pattern of compatible fusions versus
 incompatible clashes creates dark zone lines mapping territories of competing
 mycelia. Compatible strains fuse and leave no black line between them.
 
-[[armillaria-gallica]] fruiting bodies have been found to contain nuclei from nine
-or more individual mycelia, a finding that unsettled mycologists accustomed
-to thinking in terms of pairwise matings. This multi-strain phenomenon may be
-environmentally regulated: Massachusetts fruiting bodies collected before 1988
-were genetic mosaics, while later mushrooms developed from single mycelia.
-
-## Cryptococcus Sexual Communication
-
 [[cryptococcus-neoformans]] exists as two mating types (a-strain and alpha-strain)
 that look identical microscopically. Over 95 percent of human infections are
 caused by the alpha-strain, partly because it can produce basidiospores
@@ -140,3 +118,7 @@ eucalyptus flowers and pigeon droppings, where creatinine-rich guano provides
 an ideal nitrogen source.
 
 ## See Also
+
+## See Also
+
+- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]

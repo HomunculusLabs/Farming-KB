@@ -36,115 +36,75 @@ It is one of the most important multi-purpose plants in permaculture, sustainabl
 engineering, valued for its extraordinary soil conservation, phytoremediation capacity, essential oil
 production, and ornamental appeal. The vetiver system — a hedgerow-based technology for erosion control —
 has been promoted by the World Bank, FAO, and numerous governments as one of the most cost-effective approaches
-to [[watershed-management]] in tropical regions.
-
-## Taxonomy
-
-- **Kingdom:** Plantae → **Clade:** Angiosperms → Monocots → Commelinids
-- **Order:** Poales → **Family:** Poaceae → **Subfamily:** Panicoideae** → **Supertribe:** Andropogonodae
-- **Tribe:** Andropogoneae → **Genus:** *Chrysopogon* → **Species:** *C. zizanioides* (L.) Roberty
-- **Synonyms:** *Vetiveria zizanioides* (L.) Nash; *Andropogon zizanoides* L.; *Anatherum zizanoides*
-  (L.) Hitchc. & Chase; *Phalaris zizanoides* L.
-- **Common names:** Vetiver, khus-khus (Hindi), vetivert (English perfumery), rumput wangi (Indonesian),
-  xa vang (Vietnamese), moras (Haitian Creole), cuscus grass
-
-## Morphology
-
-Vetiver is a robust, clump-forming perennial grass growing 0.5–1.5 m tall with a tussock-like growth habit.
-Its most distinctive feature is its massive, deeply penetrating root system.
-
-- **Culms:** Erect, rigid, 0.5–1.5 m tall, 3–5 mm diameter at base; does not produce stolons or rhizomes,
-  making the clump non-invasive
-- **Leaves:** Long, narrow, rigid, 30–150 cm × 4–10 mm; margins serrulate; color ranges from bright green
-  to glaucous blue-green depending on cultivar
-- **Root system:** Dense, massive fibrous roots extending 2–4 m vertically and 0.5–1.5 m laterally. Tensile
-  strength exceeds 75 MPa (~one-third mild steel). Root-to-shoot ratio is among the highest of any grass
-- **Inflorescence:** Panicle 15–40 cm, purplish turning brown; spikelets paired
-- **Reproduction:** Primarily vegetative (tillering and slip division). Most cultivated vetiver is sterile —
-  commercially used genotypes are polyploid (2n = 36–40) and self-incompatible. This sterility prevents
-  invasive spread beyond planted locations
-
-## Distribution and Habitat
-
-Vetiver is native to the Indian subcontinent (specifically the Ganges-Brahmaputra floodplains) and has been
-cultivated for over 3,000 years across South and Southeast Asia. It is now naturalized and widely planted in
-tropical and subtropical regions worldwide, including Central America, the Caribbean, West Africa, East
-Africa, Southeast Asia, the Pacific Islands, and northern Australia.
-
-The species is remarkably adaptable, thriving from sea level to 2,000 m elevation, in areas receiving
-300–5,000 mm annual rainfall, and on soils from sandy loams to heavy clays. It tolerates high salinity
-(EC up to 8 dS/m), extreme pH (3.0–10.5), aluminum and manganese toxicity, and prolonged waterlogging or
-drought once established.
-
-## Essential Oil
-
-Vetiver essential oil, known as "oil of tranquility" in perfumery, is steam-distilled from the dried roots
-and is one of the most complex and valuable essential oils in commerce.
-
-- **Yield:** 0.5–2.0% of dried root weight; roots are typically harvested at 18–24 months of age for
-  maximum oil content
-- **Color and odor:** Dark amber to olive-brown, viscous liquid with a deep, earthy, woody, smoky aroma
-  featuring sweet-woody, grapefruit-like, and iodine-like top notes
-- **Major constituents:** Khusimol (10–15%), isovalencenol (5–10%), α-vetivone (3–8%), β-vetivone (3–8%),
-  khusimene, vetivene, and zizanal. Over 150 sesquiterpenoid compounds have been identified
-- **Uses:** Base note fixative in ~36% of Western perfumes; food/beverage flavoring; aromatherapy for
-  stress/anxiety; traditional Ayurvedic cooling preparation (khus syrup/sharbat)
-- **Production:** Major producers include Haiti, India (Rajasthan), Indonesia, China, Brazil, and Réunion.
-  Haitian vetiver oil is considered highest quality
-
-## Phytoremediation
-
-Vetiver is among the most effective plants for environmental cleanup of contaminated soils and water.
-
-- **Heavy metal accumulation:** Roots accumulate Pb, Cd, As, Cu, Zn, and Cr with bioconcentration factors
-  of 1.5–12; root accumulation exceeds shoot accumulation, reducing contaminant transfer to food chain
-- **Nutrient stripping:** Hedges absorb excess N and P from agricultural runoff, reducing eutrophication
-- **Hydrocarbon remediation:** Demonstrated capacity to degrade petroleum hydrocarbons, PAHs, and herbicides
-- **Landfill stabilization:** Planted on caps and slopes to prevent erosion and enhance evapotranspiration
-
-## Permaculture and Agroforestry Applications
-
-Vetiver's multi-functional properties make it one of the most valuable plants in tropical [[permaculture-design]].
+to [[permaculture-design]].
 
 ### Erosion Control (Primary Function)
 - Planted as dense contour hedges (2–3 plants/10 cm), vetiver forms a living barrier that reduces runoff
   velocity by 60–80%, traps up to 90% of eroded soil particles, and promotes sediment deposition
 - Effective on slopes up to 100% (45°); hedges documented functioning 50+ years in India without replanting
 
-### [[water-management]]
-- Increases groundwater recharge by slowing runoff and promoting infiltration
-- Stabilizes canal banks, pond edges, and drainage ditches; reduces flood peaks by 20–30%
-
-### Agroforestry Integration
-- Non-competitive root system grows primarily downward, minimizing water and nutrient competition
-  with adjacent crops and trees
-- Windbreak function when planted as border hedges around garden plots
-- Mulch source: annual pruning yields 5–10 tonnes/ha of mulch material
-- Pest habitat: dense hedges provide refugia for beneficial predatory insects (ladybugs, lacewings, ground beetles)
-- Livestock fodder: young leaves palatable to cattle and goats (crude protein ~7–10% dry matter)
-
 ### [[companion-planting]]
 - Beneficial near fruit trees (mango, citrus, banana), timber species (teak, mahogany), and annual crops
   (rice, maize, vegetables) as a non-competitive hedge
 - Essential oil's insect-repellent properties provide mild pest deterrence in adjacent crops
-- Intercropping with leguminous species (*[[cajanus-cajan]]*, *Gliricidia sepium*) enhances nitrogen cycling
-  while the vetiver hedge provides physical stability
-
-## Cultivation
-
-- **Propagation:** Vegetative only — slips divided from established clumps, planted at 10–15 cm spacing
-  along contour lines; one clump yields 50–100 slips/year
-- **Establishment:** 3–4 months to full hedge; significant erosion control visible within 6 months
-- **Spacing:** 10–15 cm within rows; 5–20 m between parallel rows depending on slope and soil
-- **Maintenance:** Low — annual trimming to 30–50 cm encourages tillering; hedges tolerate fire, grazing,
-  and prolonged drought
-- **Longevity:** Indefinite; roots regenerate within 18–24 months post-harvest for oil production
-
-## Ecological Role
-
-Vetiver hedges create microhabitat corridors supporting biodiversity in agricultural landscapes. The dense tussock structure provides nesting for ground-dwelling birds, shelter for beneficial insects, and perching sites for predatory birds controlling rodent and insect pests. Root exudates support diverse mycorrhizal communities enhancing nutrient cycling. Unlike many introduced grasses, vetiver's sterility and lack of rhizomatous spread prevent invasiveness — it remains exactly where planted.
-
-## See Also
-
-- [[cymbopogon-citratus]] — lemongrass, a related aromatic grass with essential oil and permaculture uses
+- Intercropping with leguminous species (*[[cymbopogon-citratus]] — lemongrass, a related aromatic grass with essential oil and permaculture uses
 - [[gliricidia-sepium]] — leguminous tree commonly interplanted with vetiver in agroforestry hedgerows
+## Practical Considerations
+
+When working with Vetiver (*Vetiveria zizanoides*), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

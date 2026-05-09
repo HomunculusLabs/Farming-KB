@@ -30,59 +30,15 @@ aliases:
 
 # Sheet Mulching
 
-**Sheet mulching** (lasagna gardening, sheet composting, no-dig layering) is a no-till soil-building technique central to [[permaculture]] and organic gardening. By layering organic materials — cardboard or newspaper, compost, manure, green materials, and mulch — directly onto the ground surface, sheet mulching creates fertile, humus-rich planting beds without mechanical tilling. The process mimics natural forest floor decomposition, suppressing weeds, conserving moisture, building soil structure, feeding soil microbiology, and sequestering carbon. Originally popularized by Ruth Stout's "no-work" gardening in the 1950s and refined by [[hugelkultur|permaculture]] practitioners, sheet mulching has become a foundational technique for establishing food forests, garden beds, and [[food-forest-permaculture|food forests]] worldwide.
-
-## Principles and Theory
-
-Sheet mulching operates on several interconnected ecological principles:
-
-**Soil biology preservation:** Unlike tilling, which destroys soil aggregates, severs mycorrhizal networks, and disrupts soil microbial communities, sheet mulching maintains soil structure intact. Earthworms and other soil organisms process the layered materials from below, incorporating organic matter while aerating the soil through their burrowing activity. Mycorrhizal fungi remain undisturbed and continue to facilitate nutrient exchange between plants and soil.
-
-**Successional decomposition:** The layered materials decompose in stages, mirroring natural leaf litter accumulation in forests. The bottom layer (cardboard) blocks light and suppresses existing vegetation while slowly breaking down. Successive layers provide different carbon:nitrogen ratios at different depths, supporting diverse microbial communities.
-
-**Water conservation:** The thick mulch layer (typically 10-20 cm total) dramatically reduces evaporation, retains soil moisture, and moderates soil temperature fluctuations. During heavy rain, the mulch absorbs impact energy, preventing soil compaction and surface erosion while allowing slow percolation.
-
-**Carbon sequestration:** Sheet mulching converts above-ground organic matter (cardboard, leaves, straw) into stable soil organic carbon (humus), effectively sequestering atmospheric carbon in the soil profile. No-till systems like sheet mulching can sequester 0.5-1.5 tonnes of CO₂ per hectare per year.
-
-**Weed suppression:** The base layer of cardboard or newspaper (minimum 5-10 sheets thick, overlapping generously) creates a physical light barrier that kills existing weeds and grass by excluding light. Seeds that germinate in the mulch layers are easily removed. Over time, the reduced disturbance favors perennial and desired species over opportunistic annual weeds.
-
-## Materials and Layering Sequence
-
-A standard sheet mulch installation proceeds in layers, working from bottom to top:
-
-1. **Preparation (optional):** Mow existing vegetation as low as possible. If dealing with persistent perennial weeds (bindweed, quack grass, thistle), sheet mulch in mid-summer for maximum solarization effect.
-
-2. **Base layer — Weed barrier:** Overlap cardboard (remove all tape, staples, and labels) or newspaper (5-10 sheets minimum) 10-15 cm at all edges. Wet thoroughly. Ensure complete coverage — no gaps for light penetration. Use plain brown cardboard; avoid glossy or colored paper (potential heavy metal contamination from inks).
-
-3. **Nitrogen layer (optional but recommended):** Spread 5-10 cm of nitrogen-rich material — composted manure (cow, horse, chicken), [[comfrey|comfrey]] leaves, coffee grounds, or finished compost. This feeds the decomposer organisms that will break down the carbon-rich layers above and below.
+**Sheet mulching** (lasagna gardening, sheet composting, no-dig layering) is a no-till soil-building technique central to [[hugelkultur|permaculture]] practitioners, sheet mulching has become a foundational technique for establishing food forests, garden beds, and [[comfrey|comfrey]] leaves, coffee grounds, or finished compost. This feeds the decomposer organisms that will break down the carbon-rich layers above and below.
 
 4. **Carbon layer:** 10-20 cm of carbon-rich browns — straw, autumn leaves, wood chips (avoid from walnut or allelopathic species), shredded paper, sawdust (use sparingly, as it can be highly absorptive of nitrogen). This layer provides long-term organic matter as it slowly decomposes.
 
-5. **Green layer:** 5-10 cm of fresh green materials — grass clippings, kitchen scraps, green manure crop residues, green [[comfrey|comfrey]] or alfalfa leaves, seaweed. High nitrogen content accelerates decomposition of adjacent carbon layers.
-
-6. **Compost layer:** 5-10 cm of finished, high-quality compost or worm castings. This inoculates the sheet mulch with diverse microbial life and provides immediately available nutrients for planting.
-
-7. **Top mulch:** 5-10 cm of decorative/protective mulch — wood chips, straw, pine needles, or leaf mold. This final layer protects underlying layers from UV degradation, wind erosion, and desiccation while maintaining an aesthetically finished appearance.
-
-**Total depth:** A complete sheet mulch installation typically measures 15-30 cm (6-12 inches) in depth. It will settle to approximately half this height within 2-3 months as decomposition progresses.
-
-## Variations and Adaptations
-
-**Instant bed (plant immediately):** For planting within days of installation, create small pockets or "nests" of finished compost in the top mulch layer and plant directly into these. Root vegetables and deep-rooted species should wait 3-6 months for the cardboard to decompose.
-
-**Lazy lasagna (cold method):** Simply layer materials as they become available over weeks or months. Less precise than the standard method but equally effective over time. Ideal for gradually building soil in large areas.
-
-**Kill mulch / Smother mulch:** A simplified version using only cardboard + thick wood chip layer (15-20 cm). Used primarily for pasture-to-garden conversion and killing aggressive weeds. Requires 3-6 months before planting.
-
-**Living mulch integration:** After sheet mulching, interplant with living mulch species (white clover, alfalfa) to maintain the benefits of continuous ground cover while adding nitrogen fixation.
-
-**[[hugelkultur|Hugelkultur]] hybrid:** Place logs and branches beneath the sheet mulch layers to create buried wood cores, combining the water-retention benefits of hugelkultur with the weed suppression and soil building of sheet mulching.
+5. **Green layer:** 5-10 cm of fresh green materials — grass clippings, kitchen scraps, green manure crop residues, green [[hugelkultur|Hugelkultur]] hybrid:** Place logs and branches beneath the sheet mulch layers to create buried wood cores, combining the water-retention benefits of hugelkultur with the weed suppression and soil building of sheet mulching.
 
 ## Applications
 
-**New garden bed creation:** The most common application. Convert lawn, pasture, or compacted ground into fertile planting beds without digging. Especially valuable for establishing [[food-forest-permaculture|food forest]] planting areas on degraded land.
-
-**[[food-forest-permaculture|Food forest]] establishment:** Sheet mulch large areas to prepare for tree and shrub planting. Create circular sheet mulch zones around each planting site to reduce competition from existing vegetation.
+**New garden bed creation:** The most common application. Convert lawn, pasture, or compacted ground into fertile planting beds without digging. Especially valuable for establishing [[food-forest-permaculture|Food forest]] establishment:** Sheet mulch large areas to prepare for tree and shrub planting. Create circular sheet mulch zones around each planting site to reduce competition from existing vegetation.
 
 **Pathway construction:** Sheet mulch pathways between beds with thick cardboard + wood chip layers. Paths become weed-free, moisture-retaining, and eventually contribute to the fertility of adjacent beds as nutrients and organisms migrate laterally.
 
@@ -90,7 +46,7 @@ A standard sheet mulch installation proceeds in layers, working from bottom to t
 
 **Orchard floor management:** Sheet mulch beneath fruit trees to suppress competition, retain moisture, and cycle nutrients. Keep mulch 10-15 cm away from trunks to prevent collar rot.
 
-**[[companion-planting-guild|Guild]] establishment:** Create sheet-mulched zones for planting [[companion-planting-guild|companion planting guilds]] around central elements (fruit trees, water harvesting features).
+**[[companion-planting-guild|companion planting guilds]] around central elements (fruit trees, water harvesting features).
 
 ## Advantages Over Tilling
 
@@ -117,10 +73,7 @@ A standard sheet mulch installation proceeds in layers, working from bottom to t
 
 ## See Also
 
-- [[hugelkultur]]
 - [[comfrey-permaculture|Comfrey in Permaculture]]
-- [[food-forest-permaculture|Food Forest]]
 - [[companion-planting-guild|Companion Planting Guilds]]
-- [[dynamic-accumulators|Dynamic Accumulators]]
 - [[biochar]]
 - [[permaculture]]

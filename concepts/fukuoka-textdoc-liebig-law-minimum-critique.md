@@ -140,10 +140,6 @@ source.
 
 ## See Also
 
-- [[fukuoka-critique-of-liebig-law-of-minimum]]
-
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
-- [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-hotel-building-model-harvest-yields]]

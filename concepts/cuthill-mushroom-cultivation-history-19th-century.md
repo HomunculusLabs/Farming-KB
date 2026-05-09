@@ -8,9 +8,7 @@ type: concept
 tags: [cultivation, history, mushroom-cultivation]
 ---
 
-# Cuthill and 19th-Century [[mushroom-cultivation-history]]
-
-[[james-cuthill]] (F.R.H.S.) of Camberwell, London, authored "A Treatise on
+# Cuthill and 19th-Century [[james-cuthill]] (F.R.H.S.) of Camberwell, London, authored "A Treatise on
 the Cultivation of the Mushroom," published by Groombridge and Sons,
 5 Paternoster Row, London, around 1870. The work is a practical manual
 aimed at amateur gardeners, cottagers, and working-class readers, and
@@ -88,25 +86,6 @@ issued works by Shirley Hibberd on ferns, roses, and town gardening.
 ## Cuthill's Observations on Fungi
 
 Cuthill insisted on the distinctness of the true cultivated mushroom
-([[agaricus-campestris]]) from all other fungi, stating that "the true
-mushroom keeps itself as distinct above all others (in fact, more so)
-than any other vegetable known." He disputed claims of multiple species
-on the same bed, attributing apparent variations to bad mixtures of
-dung and mould from hedges and ditches.
-
-He provided a simple edibility test: placing salt on the gills turns
-them black in genuine mushrooms, while poisonous fungi are unaffected.
-He warned that commercially sold mushroom catsup was sometimes made from
-"the broth of dead horses."
-
-## Key Source
-
-The treatise survives as a 41-page OCR'd Google Books scan, originally
-from a physical copy in library collections. The text is public domain.
-
-## See Also
-
-- [[mushroom-cultivation-basics]]
-- [[magic-mushroom-cultivation-history]]
+([[mushroom-cultivation-basics]]
 - [[mushroom-genetics-strain-selection]]
 - [[mushroom-cultivation-bulk-substrates]]

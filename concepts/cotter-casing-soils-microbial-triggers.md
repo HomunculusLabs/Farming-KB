@@ -136,8 +136,6 @@ casings are nonnutritive.
 
 ## See Also
 
-- [[cotter-mushroom-composting]] -- compost-based cultivation
 - [[cotter-substrate-preparation]] -- preparing substrates before casing
-- [[cotter-agar-tissue-culture-techniques]] -- lab work for microbial isolation
 - [[mushroom-cultivation-troubleshooting]] -- solving fruiting problems
 - [[cotter-morel-cultivation-research]] -- species requiring microbial triggers

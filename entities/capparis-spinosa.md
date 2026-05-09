@@ -108,13 +108,8 @@ The taxonomic boundaries within Capparis section Capparis remain contentious. So
 
 ## See Also
 
-- [[curcuma-longa]]
-- [[rosmarinus-officinalis]]
-- [[thymus-vulgaris]]
-- [[origanum-vulgare]]
-- [[foeniculum-vulgare]]
-- [[nigella-sativa]]
+- [[rosmarinus-officinalis-entity]]
+- [[origanum-vulgare-entity]]
 - [[pimpinella-anisum]]
-- [[zingiber-officinale]]
 - [[aloe-vera]]
 - [[glycyrrhiza-glabra]]

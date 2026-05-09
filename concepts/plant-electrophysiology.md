@@ -11,26 +11,14 @@ type: concept
 
 # Plant Electrophysiology
 
-Plants generate and transmit [[tompkins-plant-electrical-signals]] that play crucial roles in
-their responses to environmental stimuli. While plant action potentials differ
-from animal neurons in several important respects, the underlying biophysical
-principles involve many [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] same ionic mechanisms, including voltage-gated
+Plants generate and transmit [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] same ionic mechanisms, including voltage-gated
 channels and electrochemical gradients across cell membranes.
 
 ## Historical Discovery
 
-The earliest observations [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] electrical activity date to the eighteenth
-century, when scientists first detected electrical changes associated with
-plant movements. [[allegro-death-and-resurrection-in-the-mushroom-cult]] late nineteenth century, Jagadis Chandra Bose
+The earliest observations [[allegro-death-and-resurrection-in-the-mushroom-cult]] late nineteenth century, Jagadis Chandra Bose
 conducted pioneering experiments demonstrating that plants generate electrical
-impulses in [[tompkins-plants-response-to-human-intent]] stimuli such as mechanical injury, light, and
-chemicals. His work was initially met with skepticism but has since been
-largely validated by modern electrophysiological methods.
-
-## Types of Plant Electrical Signals
-
-Plant electrical signaling encompasses several distinct phenomena. Action
-potentials are rapid, transient depolarizations [[allegro-colour-and-consistency-of-the-amanita-muscaria]] plasma membrane that
+impulses in [[allegro-colour-and-consistency-of-the-amanita-muscaria]] plasma membrane that
 propagate along plant tissues at speeds of centimeters per second. These are
 typically triggered by sudden environmental changes such as wounding, cold
 shock, or osmotic stress.

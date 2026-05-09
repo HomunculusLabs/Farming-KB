@@ -137,12 +137,8 @@ blackbirds and blackberries, so that initial diversity plus lack of
 disturbance are the factors that preserve the diversity-stability
 ## See Also
 
-- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]
-
 - [[permaculture-tree-crop-systems]]
-- [[mollison-town-permaculture-urban-food-systems]]
 - [[mollison-aquatic-polyculture-systems]]
-- [[permaculture-designers-manual-coppice-systems]]
 - [[mollison-animal-integration-permaculture-design]]
 
 - [tree-crops](tree-crops.md)

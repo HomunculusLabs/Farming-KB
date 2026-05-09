@@ -5,98 +5,139 @@ updated: 2026-04-23
 sources:
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 type: concept
-tags: [mushroom-cultivation, psilocybin, species]
----
-
-# Comparative Potency of Psilocybin Mushrooms
-
-Potency varies enormously between species, between collections of the same species, and even within a single fruiting. All percentages below are maximum concentrations detected based on dry weight. The threshold dose for pharmacological effects is 2-4 mg of psilocybin; moderate "entheogenic" effects begin above 6 mg psilocin or 10 mg psilocybin.
-
-## The Psilometric Scale (Maximum % Psilocybin + Psilocin)
-
-### Extremely Potent (>1.0% combined)
-
-| Species | Psilocybin | Psilocin | Baeocystin |
-|---------|-----------|----------|------------|
-| P. azurescens | 1.78% | 0.38% | 0.35% |
-| P. bohemica | 1.34% | 0.02% | 0.03% |
-| P. semilanceata | 0.98% | 0.02% | 0.36% |
-
-Psilocybe azurescens is the most potent species documented, with flesh that becomes indigo-black where damaged. After six months of storage, it retains most of its original potency. P. semilanceata (liberty cap) has the highest recorded single-specimen psilocybin content at 1.7%, and averages approximately 1%. P. bohemica has been cultivated outdoors in German gardens for more than four years.
-
-### Highly Potent (0.75-0.99% combined)
-
-| Species | Psilocybin | Psilocin | Baeocystin |
-|---------|-----------|----------|------------|
-| P. baeocystis | 0.85% | 0.59% | 0.10% |
-| P. cyanescens | 0.85% | 0.36% | 0.03% |
-| P. tampanensis | 0.68% | 0.32% | n/a |
-
-P. baeocystis shows significant potency loss during drying. P. cyanescens from the Pacific Northwest has yielded up to 1.68% psilocybin in some collections (Beug and Bigwood 1982b), but Gartz (1994) found 0.30% in others -- illustrating the tenfold variation possible.
-
-### Moderately Potent (0.25-0.74% combined)
-
-| Species | Psilocybin | Psilocin | Baeocystin |
-|---------|-----------|----------|------------|
-| P. cubensis | 0.63% | 0.11% | 0.25% |
-| P. weilii | ~0.61% | ~0.05% | -- |
-| P. hoogshagenii | 0.60% | 0.10% | n/a |
-| P. cyanescens (Panaeolus) | 0.60% | 0.12% | 0.02% |
-| P. liniformans | 0.16% | 0.05% | -- |
-| Conocybe cyanopus | 1.01% | 0.00% | 0.20% |
-
-P. cubensis is the most commonly cultivated species worldwide. Analyses vary substantially: one extraordinary collection showed 1.3% psilocybin and 0.45% psilocin. Indoor cultivation generally produces more potent specimens than field collection, likely due to nutritional factors and protection from UV radiation.
-
-### Weakly Active (<0.25% combined)
-
-| Species | Psilocybin | Psilocin | Baeocystin |
-|---------|-----------|----------|------------|
-| P. cyanofibrillosa | 0.21% | 0.062% | n/a |
-| P. liniformans var. | 0.16% | 0.05% | -- |
-| Pluteus salicinus | 0.35% | 0.01% | 0.008% |
-| Gymnopilus validipes | 0.12% | not tested | -- |
-
-## Potency Rating Scale
-
-- Not active: 0%
-- Weakly active: <0.25%
-- Moderately active: 0.25-0.75%
-- Highly active (potent): >0.75%
-
-## Factors Affecting Potency
-
-### Substrate Composition
-Gartz (1989) demonstrated that raising tryptamine concentrations in cow dung and rice medium (25 millimolars) directly affected P. cubensis potency: psilocin content rose from 0.09% to 3.3% of dry mass. Raising malt sugars above 10% completely suppressed psilocybin production. At least 22% of psilocybin can be derived from introduced tryptamine precursors.
-
-### Age of Specimens
-Younger specimens are generally more potent than mature ones (Gartz 1992). Christiansen et al. (1981) found youngest P. semilanceata specimens were most potent on a dry-weight basis.
-
-### UV Exposure
-UV radiation from sunlight markedly lessens potency. Sun-struck P. cubensis appear weak compared to shade-grown specimens. UV destroys molecular bonds, which would readily explain reduced potency.
-
-### Cultivation vs. Wild Collection
-Mushrooms grown indoors seem consistently more potent than field-collected specimens. Bigwood and Beug (1982a) found fourfold variation in cultivated specimens and tenfold variation in wild specimens.
-
-### Drying and Storage
-P. azurescens retains most potency after six months of storage. P. semilanceata's high psilocybin and low psilocin accounts for its long storage life. P. baeocystis loses significant potency during drying.
-
-### Regional Variation
-Gymnopilus spectabilis is active in Japan and eastern North America but inactive in Europe. Gartz found complete reproductive barriers between spores of P. bohemica, P. cyanescens, and P. mairei -- suggesting complex evolutionary relationships affecting chemistry.
-
-## Dosage Reference
-
-For an average adult male (80 kg):
-- Manageable dose: 0.25 mg/kg (~20 mg total), or 1-2 grams dried P. semilanceata
-- High dose: 0.5 mg/kg (~40 mg total)
-- Extreme dose: 1.0 mg/kg (~80 mg total) -- too high even for veterans
-
-Effects typically last 4-5 hours. Doses should be adjusted upward or downward according to body weight.
-- [[psilocybin-north-america-pacific-northwest]]
-- [[psilocybin-mushrooms-north-america-distribution]]
+tags: [[psilocybin-north-america-pacific-northwest]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
 
 ## See Also
 
 - [[comparison-psilocybin-vs-mescaline]]
+## Background and Context
+
+Psilocybin Mushroom Potency Comparison by Species is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

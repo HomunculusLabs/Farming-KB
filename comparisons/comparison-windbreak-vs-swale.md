@@ -23,34 +23,6 @@ solutions effectively.
 
 ## Windbreaks
 
-[[windbreak-and-shelterbelt-design]]
-
-Windbreaks are linear plantings of trees and shrubs arranged to reduce wind
-speed, protect crops and structures, conserve soil moisture, and provide
-wildlife habitat. A well-designed windbreak achieves 40-60% density, allowing
-enough wind to pass through without creating damaging turbulence on the lee
-side. The protected zone extends 10-15 times the mature height of the
-windbreak on the downwind side, with maximum protection (50-60% wind
-reduction) occurring within 3-5 times the height.
-
-Multi-row windbreaks and shelterbelts use a gradient structure: low dense
-shrubs on the windward edge, medium-height evergreens in the center rows for
-year-round deflection, tall deciduous trees for height and summer shade, and
-additional shrubs on the leeward edge for wildlife and final filtering. Species
-selection emphasizes native trees and shrubs, nitrogen fixers, and a diversity
-of growth forms to resist pests and diseases while supporting ecological
-function.
-
-The primary strength of windbreaks is their long-term, self-sustaining nature.
-Once established, they require minimal maintenance beyond occasional pruning
-and replanting of gaps. They deliver compounding benefits: crop yield
-increases of 10-25%, energy savings for nearby buildings (up to 20-30% heating
-cost reduction), erosion control, and wildlife habitat. However, windbreaks
-require several years to reach effective height, demanding patience and
-diligent weed control during the establishment phase.
-
-## Swales
-
 [[swale-design]]
 
 Swales are dead-level channels built on contour that intercept, slow, and
@@ -134,8 +106,6 @@ forces present severe challenges to agricultural productivity.
 
 ## See Also
 
-- [[comparison-keyline-vs-swale]]
 - [[comparison-windbreak-vs-hedgerow]]
-- [[comparison-hugelkultur-vs-terracing]]
 - [[permaculture-earthworks]]
 - [[comparison-swale-vs-contour-line-water-management]]

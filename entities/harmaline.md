@@ -131,7 +131,6 @@ nausea, vomiting, and tremor are common.
 
 The 7-hydroxy group increases polarity, affecting brain
 penetration and receptor interaction versus harmine.
-
 ## Related Compounds
 
 - **Harmine** — 7-methoxy analogue; more potent MAO-A
@@ -143,8 +142,9 @@ penetration and receptor interaction versus harmine.
 
 ## See Also
 
-- [[banisteriopsis-caapi]]
 - [[harmala-alkaloids]]
-- [[passiflora-incarnata]]
-
 - [[beta-carboline]]
+
+## See Also
+
+- [[syrian-rue-peganum-harmala-ethnobotany]]

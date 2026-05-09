@@ -41,21 +41,6 @@ down. Shrubs can be heeled in for several weeks.
 Apply a general organic fertilizer and mulch with well-rotted manure
 or garden compost in spring. A dressing of kelp meal once every three
 years provides valuable trace elements. See
-[[hamilton-organic-fertilizers-and-plant-nutrition]] for fertilizer
-options.
-
-### Watering
-
-Always pay particular attention to watering, especially in the first
-year while shrubs are becoming established. This is particularly
-important with container-grown plants. In subsequent years, ensure
-roots do not dry out in warm weather. Deep, infrequent watering
-encourages deeper root growth.
-
-### Pests and Diseases
-
-Pests like greenfly and diseases such as leaf spot attack a wide
-variety of shrubs. Check plants regularly and treat as necessary. See
 [[hamilton-organic-pest-control]] for organic treatment methods.
 
 ## Pruning Shrubs
@@ -119,8 +104,6 @@ season by selecting early, mid, and late-flowering species.
 
 ## See Also
 
-- [[hamilton-perennial-flowers-organic]]
 - [[hamilton-annual-flowers-organic]]
-- [[hamilton-rose-growing-organic]]
 - [[pruning-techniques-organic]]
 - [[hamilton-ornamental-trees]]

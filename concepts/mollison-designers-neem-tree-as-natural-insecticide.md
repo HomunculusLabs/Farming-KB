@@ -87,42 +87,6 @@ without chemical residues.
 
 ## Integration in Garden Design
 
-In the [[mollison-tropical-home-garden-design]] context, neem is listed as
-one of the garden plants that serve multiple functions. It provides shade,
-timber, and insecticidal leaf fall. The tree is small to medium in size,
-making it suitable for home garden placement where it can overhang paths,
-ponds, and animal areas.
-
-Mollison includes neem in the broader category of biological pest
-management, stating that a little research will indicate plants,
-invertebrates, vertebrates and common harmless substances of great use in
-the tropics. He believes there is no pest problem that will not yield to
-applied commonsense and an integrated natural approach.
-
-## Companion Planting Strategy
-
-The neem tree can be planted strategically throughout the permaculture
-landscape:
-
-- Near fish ponds and water features for mosquito control
-- Adjacent to livestock housing for ectoparasite management
-- Around grain storage areas for stored food protection
-- In garden borders where leaf fall mulches vegetable beds
-- Near animal rubbing posts for passive pest treatment
-
-## Species Notes
-
-The neem tree (Azadirachta indica) is distinct from but related to Melia
-azedarach (white cedar or chinaberry), which shares some insecticidal
-properties. Mollison sometimes uses the names interchangeably, noting
-both as sources of neem oil and insecticidal leaf extracts. The true neem
-is native to the Indian subcontinent and has been widely distributed
-throughout the tropics.
-
-## Related Concepts
-
-- [[mollison-tropical-animal-integration-pest-control-and-recycling]]
-- [[mollison-tropical-home-garden-design]]
+In the [[mollison-tropical-animal-integration-pest-control-and-recycling]]
 - [[mollison-free-range-pig-systems]]
-- [[mollison-free-range-poultry-forage-design]]
 - [[mollison-village-complex-elements-in-the-humid-tropics]]

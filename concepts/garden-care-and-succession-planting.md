@@ -80,15 +80,7 @@ Carrots, turnips, leeks, kale, and some root crops are hardy to frost. Leave the
 
 ## See Also
 
-- [[solomon-row-covers-and-season-extension]]
-
 - [[sustainable-living-habits-for-homesteads]]
-- [[kitchen-composting-and-vermicomposting]]
 - [[lacto-fermentation-and-food-preservation-methods]]
-- [[root-cellaring-and-no-energy-food-storage]]
-
-## Related
-
 - [[permaculture-forest-garden]]
-- [[urban-permaculture-food-forest-succession]]
 - [[solomon-root-cellaring-and-crop-storage]]

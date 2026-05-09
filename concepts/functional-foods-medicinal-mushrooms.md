@@ -3,7 +3,7 @@ title: Functional Foods and Medicinal Mushrooms
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Functional Foods and Medicinal Mushrooms
@@ -12,7 +12,7 @@ The intersection of functional food science and medicinal mushroom research repr
 
 ## Functional Foods: Definition
 
-Functional foods are defined as foods that provide health [[bee-product-medicinal-uses]] [[cannabis-raw-juice-non-psychoactive]] benefits beyond basic nutrition. Key characteristics:
+Functional foods are defined as foods that provide health [[cannabis-raw-juice-non-psychoactive]] benefits beyond basic nutrition. Key characteristics:
 - Must remain a food (not isolated in pill form, though extracts are increasingly accepted)
 - Must demonstrate scientifically validated health benefits
 - Cannot claim to cure diseases (unlike pharmaceuticals)
@@ -99,9 +99,6 @@ Medicinal mushrooms have an excellent safety record:
 
 ## See Also
 
-- [[mushroom-extraction-methods]] — how mushroom products are processed
 - [[medicinal-mushroom-health-benefits]] — therapeutic properties
-- [[mushroom-cancer-clinical-trials-overview]] — pharmaceutical-grade mushroom compounds
 - [[adaptogenic-herbs-overview]] — comparison with other functional herbs
-- [[mushroom-cultivation-fundamentals]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]

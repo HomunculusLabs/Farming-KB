@@ -138,13 +138,12 @@ resolve fine spatial detail the way human eyes do, their ability to discriminate
 between wavelengths, intensities, directions, and durations of light constitutes
 a genuine and sophisticated form of visual perception that far exceeds the
 popular conception of plants as passive, insensitive organisms.
+## See Also
+
+- [[human-photoreception-rods-cones-and-visual-pigments]]
+- [[what-a-plant-knows-plant-vision-and-light-perception]]
+- [[what-a-plant-knows-plant-vision-and-light-perception]]
 
 ## See Also
 
-- [[electromagnetic-spectrum-and-light-wave-properties]]
-- [[human-photoreception-rods-cones-and-visual-pigments]]
-- [[phytochrome-red-far-red-switch-and-photoperiodism]]
-- [[two-state-phytochrome-model-pr-and-pfr]]
-- [[phytochrome-and-plant-light-perception]]
-- [[plant-vision-and-phototropism]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
+- [[plant-vision-and-light-perception-mechanisms]]

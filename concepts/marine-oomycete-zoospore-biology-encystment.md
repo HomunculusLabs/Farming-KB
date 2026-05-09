@@ -19,14 +19,7 @@ type: concept
 Marine oomycetes produce zoospores as their primary means
 of dispersal and host location in the dynamic intertidal
 and subtidal environments they inhabit. Unlike their
-freshwater relatives, marine [[straminipiles-oomycetes-fungus-like-chromists]]
-face unique challenges related to salinity, osmotic
-pressure, and the physical forces of wave action. Their
-zoospore biology reflects adaptations to these conditions,
-including specialized mechanisms for zoospore release,
-swimming, encystment, and germination. The study of these
-processes is fundamental to understanding the ecology and
-biodiversity of marine mycelial fungi.
+freshwater relatives, marine [[marine-mycelial-fungi]].
 
 ## Zoospore Types and Ultrastructure
 
@@ -38,12 +31,7 @@ flagellum provides directional control. The flagellar
 apparatus, including the basal bodies (kinetosomes),
 flagellar roots, and associated microtubule organizing
 centers, has been used as a taxonomic character in
-classifying [[oomycete-phylogeny-straminipile-relationships]].
-
-Zoospore ultrastructure, particularly the organization
-of the ventral groove, water expulsion vacuole, and
-fibrillar vesicles, provides characters for distinguishing
-among genera [[food-forest-layers-and-species]]. Barr's classification of zoospore
+classifying [[food-forest-layers-and-species]]. Barr's classification of zoospore
 types based on ultrastructural features has been widely
 adopted, although molecular data have subsequently refined
 the phylogenetic framework.

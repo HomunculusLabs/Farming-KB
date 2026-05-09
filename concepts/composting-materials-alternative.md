@@ -25,10 +25,10 @@ Often have massive amounts of grass cuttings with no disposal means and are glad
 In rural areas where farmers do not bale straw, ask to gather some before disposal. Important: check that the straw has not been sprayed with chemicals before collecting.
 
 ### Tomato Growers
-Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further [[composting]]. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
+Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further composting. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
 
 ### Local Government (Leaves)
-Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but [[composting]] should reduce it to acceptable levels.
+Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but composting should reduce it to acceptable levels.
 
 ## Leaf Mold
 
@@ -41,9 +41,9 @@ Leaves are slow to rot because they contain lignin. Expect to wait at least one 
 - Simple construction: four 3ft (1m) stakes + ~12ft (4m) wire netting in a 3ft square
 - Pile leaves in, pressing down each time; water in dry summer; otherwise leave alone
 
-## [[sheet-composting]]
+## Sheet Composting
 
-For gardeners who lack time for proper [[composting]] but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
+For gardeners who lack time for proper composting but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
 
 - Useful only in productive areas where aesthetics are not important
 - Works well on paths between rows or as mulch around fruit trees
@@ -54,25 +54,27 @@ For gardeners who lack time for proper [[composting]] but refuse to throw away o
 - Risk of nitrogen deficiency — sprinkle dried blood over the soil (one handful per sq yard/meter) before spreading green material
 - Alternative: dig sheet compost into the top inch of soil, or use a rotary cultivator (extra nitrogen definitely needed — use dried blood)
 
-## Practical Use
-This topic is best evaluated in context: climate, available materials, labor,
-water access, and the surrounding ecological community all influence whether it
-is useful on a working site. Small trials reduce risk and make local adaptation
-visible before larger investments are made.
-
-## Observation Points
-Track seasonal timing, moisture, plant or fungal response, pest pressure, and
-maintenance needs. Notes across several cycles are more reliable than a single
-observation because many biological systems respond slowly or episodically.
-
-## Integration
-The strongest applications usually connect several functions at once, such as
-soil improvement, habitat creation, water moderation, yield, and education. If a
-practice only solves one problem while creating new maintenance burdens, it
-should be redesigned or kept experimental.
-
 ## Related
 
-- [[compost-container-types]] — container designs for proper [[composting]]
+- [[compost-container-types]] — container designs for proper composting
 - [[animal-manure-guide]] — animal manures as compost material and fertilizer
 - [[soil-conditioners-guide]] — alternative soil conditioners including leaf mold and green compost
+## Practical Considerations
+
+Successful implementation of Composting Materials — Alternative Sources requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

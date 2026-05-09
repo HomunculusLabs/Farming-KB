@@ -1,23 +1,7 @@
 ---
 title: Roof Water Catchment
 created: 2026-04-28
-tags: [permaculture, water-harvesting, rainwater, storage, domestic-water]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Roof Water Catchment
-
-Roof water catchment is the collection and storage of rainwater falling on
-building roofs for domestic, agricultural, and landscape use. In the
-Permaculture Designers Manual, Mollison identifies roof catchment as the
-primary water supply strategy for settlements, especially in areas without
-reliable surface water or groundwater. Roofs provide large, clean collection
-surfaces that concentrate rainfall into manageable flows, making them ideal
-for directing water into tanks, cisterns, and [[mollison-designers-keyline-land-shaping]] earthworks. A well-designed roof catchment system can supply
+tags: [[mollison-designers-keyline-land-shaping]] earthworks. A well-designed roof catchment system can supply
 all domestic water needs in regions receiving as little as 400 millimeters of
 annual rainfall.
 
@@ -93,44 +77,8 @@ Tanks should be placed on stable, level ground close to the collection roof
 to minimize pipe runs and costs. In frost-prone areas, tanks should be
 partially buried or insulated to prevent freezing. Shading the tank reduces
 algal growth and evaporation. The tank overflow should be directed to useful
-purposes such as garden irrigation, [[mollison-designers-sewage-aquaculture-systems]] ponds, or infiltration swales rather than wasted to storm drains.
-
-## Filtration and Water Quality
-
-### First Flush Diverters
-
-The first several millimeters of each rainfall event carry the majority of
-dust, debris, bird droppings, and pollutants accumulated on the roof surface
-since the last rain. A first flush diverter is a simple device that captures
-and discards this initial contaminated runoff, directing only cleaner water
-to the storage tank. Mollison considers first flush diversion essential for
-any system supplying drinking water. The diverter volume should be sized at
-0.5 to 1 liter per square meter of roof area.
-
-### Filtration Systems
-
-After first flush diversion, additional filtration may include leaf screens
-at gutter inlets, coarse gravel filters, sand filters, or commercial cartridge
-filters depending on the intended water use. For drinking water, Mollison
-recommends a combination of coarse pre-filtration followed by fine filtration
-or treatment with UV light, boiling, or chemical treatment as a final step.
-Water for irrigation and livestock requires less treatment, with leaf screens
-and first flush diversion typically sufficient.
-
-### Gutter and Downpipe Design
-
-Gutters must be sized to handle peak rainfall intensity without overflow.
-Mollison recommends oversized gutters and downpipes for reliability during
-heavy storms. Regular maintenance of gutters is essential to prevent blockages
-from leaves and debris. Leaf guards and screens reduce maintenance frequency.
-All piping should be UV-stabilized and protected from physical damage.
-
-## Integration with Site Design
-
-Roof catchment integrates with many other permaculture elements. Overflow
-from full tanks directs to [[mollison-designers-keyline-land-shaping]] swales
-for landscape hydration. Stored water supplies [[mollison-designers-house-garden-integration]] through gravity-fed drip irrigation. In arid climates,
-roof catchment can supplement [[mollison-designers-inclined-solar-desalination]]
+purposes such as garden irrigation, [[mollison-designers-keyline-land-shaping]] swales
+for landscape hydration. Stored water supplies [[mollison-designers-inclined-solar-desalination]]
 during rare rainfall events. The system design should consider the entire
 water budget of the site, connecting roof supply to landscape demand and
 wastewater reuse in a closed-loop pattern.
@@ -141,6 +89,4 @@ Roof water catchment provides a clean, reliable, and locally controlled water
 supply by collecting rainfall from building roofs. Proper design requires
 matching roof area, rainfall pattern, and storage volume to household or farm
 demand. First flush diversion, filtration, and appropriate tank selection
-ensure water quality. When integrated with broader site [[water-management]],
-roof catchment becomes the foundation of a resilient and self-sufficient water
-supply system in [[permaculture-design]].
+ensure water quality. When integrated with broader site [[permaculture-design]].

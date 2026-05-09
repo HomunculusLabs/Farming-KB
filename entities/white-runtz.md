@@ -141,10 +141,11 @@ that gives mature buds a nearly white, snow-dusted appearance.
   reflects its reputation, limited availability, and high demand
 - Represents the peak of the "dessert strain" breeding trend that dominated
   the late 2010s cannabis market
+## See Also
+
+- [[zkittlez]]
+- [[purple-punch]]
 
 ## See Also
 
-- [[gelato-cannabis]]
-- [[zkittlez]]
-- [[girl-scout-cookies]]
-- [[purple-punch]]
+- [[cannabis-health-strains-sativa-indica]]

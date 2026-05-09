@@ -136,10 +136,6 @@ a sole source of carbon and nitrogen.
 
 ## See Also
 
-- [[singh-single-cell-protein-fungal-wastewater-treatment]]
-
 - [[singh-pharmaceutical-wastewater-fungal-treatment]]
-- [[singh-starch-oil-wastewater-fungal-treatment]]
 - [[fungal-treatment-of-distillery-and-brewery-wastes]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[singh-fungal-bioreactor-types-configurations]]

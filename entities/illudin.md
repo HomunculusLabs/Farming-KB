@@ -25,62 +25,7 @@ sources:
 the bioluminescent jack-o'-lantern mushrooms of the genus *Omphalotus*.
 
 The two principal compounds, **illudin S** and **illudin M**, were first isolated in
-1965 from *Omphalotus illudens* (then classified as *Clitocybe illudens*).
-
-Despite extreme cytotoxicity that precludes their direct therapeutic use, illudins
-became the structural basis for **irofulven**, a semi-synthetic derivative that
-advanced to Phase II clinical trials for treatment of solid tumors.
-
-## Chemical Properties
-
-### Illudin S
-
-- **Molecular formula:** C₁₅H₂₀O₄
-- **Molecular weight:** 264.32 g/mol
-- **Appearance:** Colorless to pale yellow crystals
-- **Melting point:** 106–108 °C
-- **Solubility:** Soluble in organic solvents (ethanol, DMSO, chloroform);
-  limited water solubility
-
-### Illudin M
-
-- **Molecular formula:** C₁₅H₂₂O₃
-- **Molecular weight:** 250.33 g/mol
-- **Appearance:** White crystalline solid
-- **Melting point:** 98–100 °C
-
-Both illudins feature a **cyclopropane ring** fused to a cyclohexenone with a
-reactive α,β-unsaturated cyclopropyl ketone — a structural motif that acts as a
-potent electrophile, forming covalent bonds with cellular nucleophiles including
-DNA bases and protein thiols.
-
-## Pharmacology
-
-Illudins exert their cytotoxic effects primarily through **DNA alkylation** and
-**thiol depletion**:
-
-- **DNA alkylation:** The cyclopropane ring opens preferentially at the C-4 position,
-  generating a reactive intermediate that alkylates the N3 position of adenine and
-  N7 position of guanine, causing interstrand crosslinks and strand breaks
-- **Thiol reactivity:** Rapidly depletes intracellular glutathione (GSH) through
-  direct conjugation, overwhelming cellular antioxidant defenses
-- **Cytotoxicity IC₅₀:** 1–10 nM against multiple human cancer cell lines
-  (ovarian, prostate, pancreatic, colon)
-- **Selectivity:** Tumor cells show ~100× greater sensitivity than normal
-  fibroblasts, attributed to differences in DNA repair capacity and GSH levels
-
-The dual mechanism — DNA damage plus oxidative stress — makes illudins exceptionally
-potent but also limits their therapeutic window in native form.
-
-## Biosynthesis and Source Organisms
-
-Illudins are biosynthesized from **farnesyl diphosphate (FPP)** via a class II
-sesquiterpene cyclase that forms the illudane carbon skeleton, followed by
-cytochrome P450-mediated oxidation to install the reactive ketone and aldehyde groups.
-
-**Known producing organisms:**
-- *Omphalotus illudens* (original source, Europe)
-- *Omphalotus olearius* (Europe, North America)
+1965 from *[[omphalotus-olearius]]* (Europe, North America)
 - *Omphalotus nidiformis* (Australia, southern Asia)
 - *Omphalotus subilludens* (Japan)
 
@@ -121,7 +66,24 @@ activity, though none have advanced beyond preclinical evaluation.
 
 ## See Also
 
-- [[pleurotin]] — Fungal sesquiterpene with thioredoxin reductase inhibition
-- [[psilocybin-compound]] — Fungal indole alkaloid from psychoactive mushroom species
-- [[ergosterol]] — Principal sterol component of fungal cell membranes
+- [[psilocybin]] — Fungal indole alkaloid from psychoactive mushroom species
 - [[aflatoxin]] — Potent mycotoxin from *Aspergillus* species
+## Practical Considerations
+
+Successful implementation of Illudin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

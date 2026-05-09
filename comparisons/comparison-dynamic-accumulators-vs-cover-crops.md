@@ -25,10 +25,7 @@ understanding their distinctions helps growers design more effective
 fertility systems.
 
 ## Dynamic Accumulators
-[[dynamic-accumulators]]
-Dynamic accumulators are plants that draw up nutrients from deep soil layers
-or unlock mineralized forms unavailable to most crop plants. The classic
-example is comfrey ([[comfrey-plant-guide]]), whose taproots can extend
+[[comfrey-plant-guide]]), whose taproots can extend
 several feet into the subsoil, mining potassium, calcium, and trace minerals
 from horizons that shallow-rooted vegetables never reach. When comfrey
 leaves are cut and used as mulch or added to compost, those accumulated
@@ -137,10 +134,7 @@ protect and feed annual growing areas between rotations.
 
 ## See Also
 
-- [[linum-usitatissimum]]
 - [[dynamic-accumulators-overview]]
-- [[comfrey-plant-guide]]
 - [[comparison-green-manure-vs-cover-crops]]
-- [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]

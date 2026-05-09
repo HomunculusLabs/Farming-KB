@@ -3,23 +3,14 @@ title: "Psilocybin Field Identification Checklist Ghouled"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [mycology, psychedelics]
+tags: [[mycology, psychedelics]
 sources:
   - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
   - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 ---
 title: Psilocybin Mushroom Field Identification Checklist
-tags: [mycology, psilocybin, identification, field-guide, foraging]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
----
-
-# Psilocybin Mushroom Field Identification Checklist
-
-The [[field-guide-psilocybin-mushroom-hunting-methodology]] by F.C. Ghouled (1972) provides a structured identification sheet
+tags: [[field-guide-psilocybin-mushroom-hunting-methodology]] by F.C. Ghouled (1972) provides a structured identification sheet
 for field mycologists. The checklist was designed for novice foragers to
 systematically evaluate specimens against known psilocybin-containing species.
 This paper-based system represented a practical method for distinguishing
@@ -37,17 +28,7 @@ from casual or incomplete visual inspection.
 
 The first field requires the collector to assess the developmental stage.
 Psilocybin mushrooms undergo dramatic morphological changes throughout their
-brief life cycle. The [[psilocybe-cubensis-potency-variation-by-flush]]
-transitions from a conical cap to a broadly convex or bowl-shaped form
-within 24 to 48 hours after rain. Coloration shifts from near-white with a
-golden center to light brown. Recording specimen age is essential because
-many diagnostic features, including gill coloration and veil presence, are
-stage-dependent.
-
-### Field 2: Bluing Reaction
-
-The second and arguably most critical field asks whether the specimen turns
-blue when damaged. The [[stamets-psi-bluing-reaction-psilocybin-indicator]] is
+brief life cycle. The [[stamets-psi-bluing-reaction-psilocybin-indicator]] is
 caused by the oxidation of psilocybin and psilocin, the primary psychoactive
 alkaloids, when cell tissue is disrupted. Ghouled emphasizes that the
 inside flesh of the broken stem typically yields the fastest and most
@@ -61,9 +42,7 @@ intensifies over the following hours as oxidation progresses.
 The cap examination requires four sub-observations:
 
 **Coloration:** P. cubensis displays a wide color range from near-white
-with a gold center to light brown. [[panaeolus-subbalteatus]] shows light
-cinnamon that is uniform in young specimens, with a distinctive ring at the
-center as it matures. [[psilocybe-caerulescens-entity]] ranges from deep green to
+with a gold center to light brown. [[psilocybe-caerulescens]] ranges from deep green to
 black fading to cinnamon or rust.
 
 **Shape and size:** P. cubensis caps range from one-half to four inches,
@@ -143,8 +122,4 @@ favoring "unknown" over an incorrect positive determination.
 ## Historical Significance
 
 The Ghouled identification checklist represents one of the earliest
-standardized field protocols for psilocybin [[mushroom-identification]] in
-North America. Its emphasis on systematic observation, environmental
-context, and conservative determination established principles that
-inform modern [[field-guide-psilocybin-mushroom-species-identification]] practices. The inclusion of environmental fields
-(rainfall, temperature, substrate) alongside morphology anticipated the
+standardized field protocols for psilocybin [[field-guide-psilocybin-mushroom-species-identification]] practices. The inclusion of environmental fields

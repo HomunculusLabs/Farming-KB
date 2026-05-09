@@ -18,7 +18,6 @@ type: concept
 
 Psilocybe semilanceata, commonly known as the liberty cap, is the most common wild
 hallucinogenic mushroom in Europe and one of the most potent naturally occurring sources of
-[[psilocybin-compound]]. It belongs to the Strophariaceae family and the Psilocybe genus. Unlike
 [[psilocybe-cubensis]], which is predominantly cultivated for the commercial market,
 P. semilanceata is primarily encountered in the wild, where it is foraged by mushroom hunters
 rather than purchased through retail channels.
@@ -27,23 +26,7 @@ rather than purchased through retail channels.
 
 Psilocybe semilanceata is a small brown mushroom, consistent with the general appearance of
 most psilocybin-containing fungi. Like other members of its genus, it bruises blue when
-handled due to the oxidation of psilocybin and [[psilocin]] in damaged tissue. This blue
-bruising is the key identification feature that distinguishes it from the many
-non-psychoactive and poisonous mushrooms with which it could be confused.
-
-The species is found throughout central and northern Europe. Its preferred habitats include
-wet grassy fields and uncultivated pastures. It has been documented growing wild in the
-United Kingdom, Norway, Germany, Poland, Ireland, the Czech Republic, and numerous other
-European countries. The UK and Norway are among the countries with well-established
-traditions of wild mushroom foraging for this species. Other European species of
-hallucinogenic mushrooms growing wild include Psilocybe cyanescens (wavy caps) as well as
-Psilocybe bohemica and Psilocybe moravica, particularly reported in the Czech Republic.
-
-## Potency
-
-Psilocybe semilanceata is among the most potent psilocybin-containing mushrooms. It can
-contain up to approximately 1% psilocybin by dry weight, significantly exceeding the 0.6%
-typical of cultivated [[psilocybe-cubensis]]. Some specimens of related high-potency species
+handled due to the oxidation of psilocybin and [[psilocybe-cubensis]]. Some specimens of related high-potency species
 such as Psilocybe azurescens and Psilocybe bohemica may contain even higher concentrations.
 The high potency of P. semilanceata, combined with the natural variability in alkaloid
 content depending on growing conditions and specimen age, makes dose estimation particularly
@@ -77,30 +60,9 @@ networks.
 
 The primary risk of wild foraging is misidentification. Because hallucinogenic mushrooms are
 small and visually similar to many non-psychoactive, inedible, or poisonous species, foragers
-risk consuming toxic lookalikes. Some [[amanita]] species that could be confused with small
-brown mushrooms are highly toxic and potentially fatal. This risk of misidentification is
-considered one of the barriers limiting widespread wild foraging as a source of
-hallucinogenic mushrooms. The EMCDDA noted that the health risks associated with picking
-mushrooms in the wild, due to the fact that hallucinogenic mushrooms are easily mistakable
-for poisonous species, may limit the number of people willing to consume mushrooms obtained
-directly from their natural habitats.
-
-## Relationship to the Broader Mushroom Market
-
-While P. semilanceata represents the primary wild-foraged hallucinogenic mushroom in
-Europe, the overall recreational mushroom market is dominated by cultivated species sold
-through [[smartshops]] and online retailers. The EMCDDA notes that most recreationally
+risk consuming toxic lookalikes. Some [[smartshops]] and online retailers. The EMCDDA notes that most recreationally
 used mushrooms are cultivated rather than picked wild, with cultivated varieties such as
-[[psilocybe-cubensis]] being preferred for commercial sale because they are easy to grow
-in terrariums and possess a low water content that allows them to stay fresh for 7 to 10
-days. The wild foraging pathway therefore represents a distinct and complementary supply
-chain to the commercial retail market.
-
-## Prevalence and Availability
-
-Despite being the most common wild European hallucinogenic mushroom, P. semilanceata appears
-to play a secondary role in the commercial market compared to cultivated P. cubensis
-varieties. The [[smartshops]] and online retail market is dominated by cultivated tropical
+[[smartshops]] and online retail market is dominated by cultivated tropical
 species that do not grow wild in Europe. However, among users who forage, liberty caps
 remain the primary species encountered.
 
@@ -124,7 +86,6 @@ without criminalising landowners on whose property they grow.
 
 ## See Also
 
-- [[psilocybe-cubensis]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - Hallucinogenic mushrooms
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]

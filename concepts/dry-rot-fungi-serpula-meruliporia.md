@@ -35,70 +35,7 @@ The extraordinary destructive capacity of dry rot fungi lies in their root-like 
 
 The warmest invitation for dry rot is any wooden structure making direct contact with soil. Posts sunk into the ground without concrete protection, soil accumulating under exterior stucco, cracks in concrete slabs, and holes for pipes or electrical work all serve as entry points.
 
-Once inside, hyphae digest the cellulose walls of hardwood beams, transforming springy lumber into parched brown cubes that crumble when touched — a pattern known as brown cubical rot. The brown colour results from progressive concentration of dark-pigmented lignin, which the fungus leaves behind as it digests cellulose. Unlike [[fungal-wood-decay-types-white-rot-brown-rot]] that extract lignin, brown rot fungi primarily consume cellulose and hemicellulose.
-
-The fungus can colonize an entire home without forming a single spore. Using rhizomorphs to conduct water indoors and hyphal strands to bridge gaps between beams, it spreads like "pancake mix over the home." In dry homes, every area of decay depends on the original rhizomorph connection to the outdoors — cutting this cable causes the entire colony to wither.
-
-## Basidiomes and Spore Production
-
-In advanced infestations, basidiomes as large as surfboards develop as crusts on beam surfaces. These yellow to orange-brown excrescences exude a distinctive mushroomy odour — so strong that Scandinavian home inspectors have successfully trained Labrador retrievers to detect dry rot infestations.
-
-As basidiomes mature, they develop ridges that extend and fuse into tubes, eventually forming honeycombed surfaces that maximise the fertile area for spore production. A single basidiome the size of a book can shed billions of spores. In poorly ventilated basements, spores accumulate beneath the crusts, covering surfaces with a reddish shroud. Documented fruiting bodies have spread over 6 square metres, with total spore-producing rot covering 78 square metres in a single property.
-
-## Moisture Thresholds and Requirements
-
-Understanding the moisture requirements of dry rot fungi is essential for both detection and prevention:
-
-- **Minimum wood moisture content for growth:** *Serpula lacrymans* requires a minimum wood moisture content of approximately 20-30% to initiate growth. Optimal growth occurs at 30-40% moisture content. Wood in buildings typically has an equilibrium moisture content of 8-16%, which is below the fungal growth threshold — explaining why the fungus requires a moisture source such as plumbing leaks, condensation, or soil contact via rhizomorphs.
-- **Relative humidity requirements:** *Serpula lacrymans* can grow at relative humidity levels as low as 85-90% in enclosed spaces, lower than most wood-decay fungi. This relative tolerance of drier conditions contributes to its success in building environments.
-- **Water transport capacity:** Meruliporia rhizomorphs can transport water over distances exceeding 10 meters from the source, delivering enough moisture to sustain active decay in wood that would otherwise be too dry. The fungus effectively creates its own microclimate within infested structures.
-- **Temperature range:** Optimal growth occurs at 20-24°C (68-75°F). Growth ceases below 3°C and above 30°C. The fungus can survive but not grow at temperatures down to approximately 0°C and can tolerate brief exposure to temperatures up to 35°C.
-
-## Detection Methods
-
-Early detection of dry rot is challenging because the fungus operates hidden within building cavities and beam interiors. Multiple detection strategies are used:
-
-- **Visual inspection:** Look for shrinking, cracking, or cubical fracture patterns in timber. White, cottony mycelial sheets may be visible in crawl spaces or behind wall panels. Reddish-brown spore dust on surfaces is a strong indicator of active fruiting. Darkened, shriveled wood with deep transverse and longitudinal cracks is characteristic of advanced brown rot.
-- **Odor detection:** The distinctive mushroomy smell of active dry rot is often noticeable before any visual signs appear. Trained detection dogs in Scandinavia can identify infestations behind walls and under floors with high reliability.
-- **Moisture meter surveys:** Pin-type and pinless moisture meters can identify areas of elevated wood moisture content that may indicate fungal activity. Readings above 20% in structural timber warrant further investigation.
-- **Borescope inspection:** Fiber-optic cameras inserted through small drill holes allow visual examination of wall cavities, beam interiors, and subfloor spaces without destructive opening.
-- **Cultural analysis:** Wood samples can be cultured on selective media in a laboratory to identify the specific fungal species present. This is important for distinguishing true dry rot (*Serpula/Meruliporia*) from less destructive wet rot fungi, as treatment strategies differ.
-- **Molecular detection:** DNA-based methods including PCR and species-specific probes can identify *Serpula lacrymans* from tiny wood samples or even air-sampled spores, providing definitive identification without the need for culturing.
-
-## Treatment and Prevention Strategies
-
-Effective dry rot management requires a multi-pronged approach:
-
-### Immediate Treatment
-- **Locate and eliminate moisture sources:** Fix plumbing leaks, improve drainage, reduce condensation. Without moisture, dry rot cannot grow. This is the single most important step.
-- **Sever the moisture bridge:** Identify and cut all rhizomorph connections between the infested wood and the outdoor moisture source. Removing a band of masonry around the connection point may be necessary.
-- **Remove all infected timber:** Excise affected wood with a minimum 500mm margin beyond the visible decay zone. Dry rot can extend well beyond the area showing obvious damage. Burn or landfill removed material — do not reuse.
-- **Treat adjacent timber:** Apply fungicidal preservative to all remaining timber within 1-2 meters of the removed area. Borate-based preservatives (disodium octaborate) penetrate deeply and provide long-term protection.
-
-### Structural Prevention
-- **Separate wood from soil:** All structural timber should be at least 150mm above ground level, supported by concrete or masonry foundations. Use metal post anchors or concrete pedestals.
-- **Maintain drainage:** Ensure ground slopes away from foundations. Clean gutters and downspouts regularly. Install French drains where necessary.
-- **Ventilate crawl spaces and basements:** Adequate cross-ventilation keeps relative humidity below fungal growth thresholds. Minimum ventilation requirements in building codes typically specify openings equal to 1/150 of the crawl space floor area.
-- **Use treated or naturally durable timber:** For new construction or replacement, use pressure-treated lumber (ACQ, borate) or naturally rot-resistant species (heartwood of oak, chestnut, cedar) for vulnerable locations.
-
-### Chemical and Biological Controls
-- **Borate treatments:** Disodium octaborate tetrahydrate (Tim-bor, Boracare) can be applied as a spray, foam, or injection to protect remaining wood. Borates are effective against both dry rot and wood-boring insects, have low mammalian toxicity, and provide residual protection for decades.
-- **Fungicidal masonry wash:** After removing infected timber, wash adjacent masonry with a fungicide solution to kill remaining mycelium and spores. Copper naphthenate and tributyltin oxide have been used historically, though environmental regulations increasingly restrict these chemicals.
-- **Biological control research:** Trichoderma species and other competitive fungi have been investigated as biological antagonists of dry rot fungi. While promising in laboratory settings, biological control has not yet achieved reliable field performance for building protection.
-
-## Building Codes and Standards
-
-Dry rot prevention is addressed in building codes and standards in most countries with significant dry rot problems:
-
-- **UK Building Regulations (Approved Document C):** Require adequate sub-floor ventilation, damp-proof courses, and separation of structural timber from ground. The BRE (Building Research Establishment) has published detailed guidance documents on dry rot identification and treatment (BRE Digest 299 and 245).
-- **International Building Code (Section 2304):** Requires pressure-treated or naturally durable wood for framing members closer than 18 inches to the ground. Specifies minimum clearance between wood siding and finished grade.
-- **Australian Standard AS 3660.1:** Provides detailed requirements for termite and decay protection in buildings, including moisture management and timber treatment specifications.
-
-## Historical Significance
-
-References to dry rot appear in the Old Testament (Leviticus 14:33–53), where a "fretting leprosy of the house" is described with greenish or reddish hollow streaks in walls. The prescribed treatment — closing the house for a week to promote fungal growth and sharpen the mushroom odour, followed by scraping and ultimately destruction — shows a surprisingly sophisticated understanding of fungal biology.
-
-In seventeenth-century Britain, dry rot ravaged the Royal Navy. Samuel Pepys, surveying ships at Chatham dockyard in the 1680s, found planks "perished to powder" and gathered "Toadstools as big as my Fists" in the holds. The common woodland bracket fungus [[basidiomycete-phylum-guide]] (sulphur shelf) also attacked the oak planks, forming bright yellow brackets inside rotting holds. Combined with timber shortages following the dissolution of the monasteries and reliance on poorly seasoned imported wood, dry rot contributed to a major naval crisis.
+Once inside, hyphae digest the cellulose walls of hardwood beams, transforming springy lumber into parched brown cubes that crumble when touched — a pattern known as brown cubical rot. The brown colour results from progressive concentration of dark-pigmented lignin, which the fungus leaves behind as it digests cellulose. Unlike [[basidiomycete-phylum-guide]] (sulphur shelf) also attacked the oak planks, forming bright yellow brackets inside rotting holds. Combined with timber shortages following the dissolution of the monasteries and reliance on poorly seasoned imported wood, dry rot contributed to a major naval crisis.
 
 ## Notable Historical Cases
 
@@ -125,11 +62,26 @@ Homeowners can inadvertently worsen infestations by keeping rhizomorphs soaked w
 
 - [[poria-cocos]]
 
-- [[fungal-wood-decay-types]]
 - [[fungal-building-material-deterioration]]
-- [[brown-rot-fungi-biodegradation]]
 - [[basidiomycete-phylum-guide]]
-- [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]
+## Practical Considerations
+
+Successful implementation of Dry Rot Fungi — Serpula, Meruliporia, and Building Destruction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

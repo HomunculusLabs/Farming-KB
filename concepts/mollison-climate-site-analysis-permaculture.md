@@ -140,9 +140,7 @@ The recommended sequence for site design is:
 
 ## See Also
 
-- [[mollison-permaculture-two-zone-planning-and-site-layout]]
 - [[permaculture-site-analysis]]
-- [[mollison-climate-zones-permaculture-strategies]]
 - [[permaculture-climate-adaptation]]
 - [[mollison-animal-integration-permaculture-design]]
 

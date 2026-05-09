@@ -118,7 +118,9 @@ fungal brassinosteroids.
 
 ## Related Topics
 
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[brassinosteroids-psilocybin-fruiting]]
-- [[phytohormone-cross-kingdom-fungal-effects]]
 - [[ergosterol-fungal-drug-target]]
+
+## See Also
+
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]

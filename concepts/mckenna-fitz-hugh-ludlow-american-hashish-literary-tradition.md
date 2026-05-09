@@ -22,21 +22,7 @@ created: 2026-05-07
 ## Overview
 
 Fitz Hugh Ludlow (1834-1870) represents a pivotal figure in the intersection of American
-literature and psychoactive exploration. [[terence-mckenna-tryptamine-hypothesis]] identifies Ludlow as the originator
-of a "pharmo-picaresque" literary tradition that would later find practitioners in William S.
-Burroughs and Hunter S. Thompson. Unlike the French Club des Hachischins, which approached
-hashish through a lens of Orientalist exoticism, the American tradition Ludlow inaugurated
-was characterized by a distinctly Yankee transcendentalist sensibility, blending scientific
-curiosity with literary ambition and frontier bravado.
-
-## The Student Tea Experiment of 1855
-
-Ludlow's first encounter with hashish occurred at a student tea during his freshman year at
-Union College in 1855. His account captures the onset of effects with characteristic literary
-flair:
-
-> "I was sitting at the tea table when the thrill smote me. I had handed my cup to Miss
-> M'Ilvfirst-time-grower-common-mistakesplenish for the [[first-time-grower-common-mistakes]], and as she was about restoring it to me
+literature and psychoactive exploration. [[first-time-grower-common-mistakes]], and as she was about restoring it to me
 > brimming with the draught which cheers but not inebriates. I should be loath to calculate
 > the arc through which her hand appeared to me to travel on its way to the side of my
 > plate. The wall grew populous with dancing satyrs; Chinese mandarins nodded idiotically in
@@ -52,7 +38,7 @@ his own transformation.
 
 McKenna positions Ludlow as the founding figure of a genre that combines drug narrative with
 picaresque adventure. The pharmo-picaresque, as McKenna defines it, is distinguished from
-[[weil-cultural-attitudes-toward-altered-states]]-attitudes-toward-altered-statesrature by its commitment to presenting [[harner-shamanic-journey-and-altered-states]] as sources of genuine
+[[harner-shamanic-journey-and-altered-states]] as sources of genuine
 epistemological insight rather than mere entertainment or moral instruction.
 
 Ludlow creates what McKenna describes as "a literary persona not unlike the poet John Shade
@@ -63,7 +49,7 @@ of the pharmo-picaresque tradition.
 
 McKenna locates Ludlow "halfway between Captain Ahab and P. T. Barnum, a kind of Mark Twain
 on hashish," suggesting that the American hashish tradition absorbed the contradictions of
-the national character: the omind-body-problem-vs-[[information-paradigm-of-consciousness]]-of-consciousnessor transcendence alongside a carnival-barker's
+the national character: the omind-body-problem-vs-of-consciousnessor transcendence alongside a carnival-barker's
 delight in the spectacle [[william-james-multiple-forms-of-consciousness]] itself.
 
 ## Ludlow's Epistemological Framework

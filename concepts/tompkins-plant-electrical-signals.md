@@ -124,10 +124,6 @@ seesaw balance of electrical gradients.
 
 ## See Also
 
-- [[tompkins-findhorn-garden-devas-nature-spirits]]
-
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-perception]]
 - [[bacterial-endophytes-plant-roots]]
-- [[plant-fungal-signaling-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]

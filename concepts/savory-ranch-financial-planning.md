@@ -103,8 +103,6 @@ HRM distinguishes between activities that generate lasting wealth (building soil
 
 ## See Also
 
-- [[homestead-financial-planning]]
 - [[permaculture-grazing-and-pasture]]
-- [[permaculture-designers-manual-grazing-management]]
 - [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]

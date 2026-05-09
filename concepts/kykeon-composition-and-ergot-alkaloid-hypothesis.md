@@ -81,20 +81,10 @@ In Mexico, those who will take the mushrooms know they must refrain from drinkin
 
 ## Ergot's Pharmacological History
 
-Ergot was first mentioned as a remedy by Adam Lonitzer in 1582, used by midwives to precipitate childbirth. Ergotamine was isolated by A. Stoll in 1918. Hofmann prepared ergonovine in 1937 from lysergic acid, and in 1943 discovered the hallucinogenic properties of LSD-25 -- the most potent psychedelic known. The water-soluble ergonovine is particularly relevant to the kykeon hypothesis: Dudley and Moir discovered in 1932 that water-soluble extracts of ergot elicited strong uterotonic activity, leading to the isolation of ergonovine simultaneously in four laboratories. This water-solubility is key to the kykeon hypothesis, as it explains how an aqueous barley-water infusion could have delivered psychoactive alkaloids without the need for advanced extraction techniques. See [[ergot-and-lysergic-acid-history]] for a full treatment of this pharmacological lineage.
-
-Source: raw/papers/the-road-to-eleusis.md
-
-## Related
-
-- [[sacred-marriage-hieros-gamos-in-greek-religion]]
-- [[eleusinian-mysteries-history-and-structure]]
+Ergot was first mentioned as a remedy by Adam Lonitzer in 1582, used by midwives to precipitate childbirth. Ergotamine was isolated by A. Stoll in 1918. Hofmann prepared ergonovine in 1937 from lysergic acid, and in 1943 discovered the hallucinogenic properties of LSD-25 -- the most potent psychedelic known. The water-soluble ergonovine is particularly relevant to the kykeon hypothesis: Dudley and Moir discovered in 1932 that water-soluble extracts of ergot elicited strong uterotonic activity, leading to the isolation of ergonovine simultaneously in four laboratories. This water-solubility is key to the kykeon hypothesis, as it explains how an aqueous barley-water infusion could have delivered psychoactive alkaloids without the need for advanced extraction techniques. See [[sacred-marriage-hieros-gamos-in-greek-religion]]
 - [[wasson-hofmann-ruck-theory]]
-- [[psychedelic-use-in-ancient-greece]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
-- [[wasson-hofmann-ruck-theory]]
 - [[ergot-and-lysergic-acid-history]]
-- [[albert-hofmann]]
-- [[psychedelic-dose-response]]
+- gordon-wasson
 - [[psychedelic-mushroom-pharmacology]]
 - [[entheogenic-ceremony-preparation]]

@@ -97,11 +97,7 @@ Most mycetozoans can be identified from fruiting body morphology alone, but cult
 
 ## See Also
 
-- [[coprophilous-fungi-ecology-diversity]]
 - [[fungal-species-richness-and-diversity-indices]]
-- [[soil-fungal-isolation-techniques]]
 - [[saprobic-soil-fungi-ecology-survey]]
-- [[moist-chamber-technique-fungal-fruiting]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

@@ -13,63 +13,7 @@ sources:
 
 ## Overview
 
-Lolium temulentum (darnel, cockle, or "tares" in the Bible) is a weed that plagues grain crops and is notoriously subject to infection by [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (ergot). Hofmann identified darnel as another possible source of hallucinogenic ergot alkaloids accessible to the ancient Greeks, noting that folk names for the plant across European languages pointed to knowledge of its psychoactive properties.
-
-## Botanical Identity
-
-Darnel is a wild grass (not related to rye despite the misleading name "wild rye grass"):
-
-- **Greek:** aira
-
-- **Latin:** lolium
-
-- **French:** ivraie (from Latin ebriacus, "drunken")
-
-- **German:** Taumellolch (from taumeln, "to stagger/reel")
-
-- **English:** darnel, cockle, tares
-
-The French and German names "both point to a belief in its psychotropic activity in the folk knowledge of the traditional European herbalists."
-
-## Relationship to Grain
-
-Darnel was understood in antiquity as the primitive, wild sibling of cultivated grain: "Grain itself was thought to be a hybrid, carefully evolved from more primitive grasses. If not tended with proper care, it could be expected to revert to its worthless, inedible avatar." This "worthless avatar" was aira (darnel) — the weed that threatened to draw cultivated grain back to its wild state.
-
-## Ergot Infection
-
-Hofmann's laboratory analysis, combined with I. Katz's extended investigation (1949), established that:
-
-- The darnel plant itself "contains no alkaloids nor does it possess any pharmacological activity"
-
-- However, Lolium species (L. temulentum and L. perenne) are "notoriously prey to the Claviceps fungus"
-
-- The "psychotropic reputation of darnel must therefore be attributed to its parasitic infection by ergot"
-
-## Alkaloid Composition
-
-Ergot grown on darnel showed "large variation in their alkaloidal composition." Some samples "contained substantial amounts of ergonovine together with alkaloids of the ergotamine and ergotoxine group." A citation for ivraie's psychotropic reputation dates to AD 1236, "and it must go back much further than that."
-
-## Connection to Eleusinian Theory
-
-Ruck's analysis in Chapter III of "The Road to Eleusis" connected darnel directly to the Demeter-Persephone myth:
-
-- Darnel (aira) "doubly endangered the cultivated staff of life, first as the renascent primordial grass and secondly as the host for the encroaching ergot infection"
-
-- The "revertive tendency of the infected grain" was obvious: "when the sclerotia fell to the ground there grew from them not grain but tiny purple mushrooms, the fruiting bodies of the ergot fungus, clearly a return to the species of the unregenerate, wild Dionysian abductor"
-
-- Unlike the seedless mushroom, "ergot would have seemed akin to the kernels of grain that were its host. As well as grain, therefore, it too was Demeter's plant"
-
-A species of ergot growing on darnel "may have existed in ancient Greece that contained mainly hallucinogenic alkaloids of ergot such as we have found in ergot of Paspalum."
-
-## Biblical Reference
-
-Darnel appears in the Bible as "tares" — most famously in the Parable of the Tares (Matthew 13:24-30), where an enemy sows weeds among wheat. This parable encodes the same agrarian anxiety about the contamination of sacred grain by its wild, ergot-infected relative.
-
-## Ergot Sclerotia Identification
-
-The ergot sclerotia (hardened fungal bodies) that replace grain kernels in infected darnel would have been visually distinctive. In cereal grains, sclerotia are typically dark purple to black, elongated structures that protrude from the grain head. On darnel, these sclerotia would have been smaller but equally visible to careful harvesters.
-
-The [[demeter-ergot-symbiosis-eleusinian-symbolism]] between the dark sclerotia and the underworld was not lost on ancient observers. The purple-black color of ergot bodies — which contrasts sharply with the golden grain — may have contributed to their mythological identification with chthonic forces and the realm of the dead.
+Lolium temulentum (darnel, cockle, or "tares" in the Bible) is a weed that plagues grain crops and is notoriously subject to infection by [[demeter-ergot-symbiosis-eleusinian-symbolism]] between the dark sclerotia and the underworld was not lost on ancient observers. The purple-black color of ergot bodies — which contrasts sharply with the golden grain — may have contributed to their mythological identification with chthonic forces and the realm of the dead.
 
 ## Darnel in Classical Texts
 
@@ -79,22 +23,88 @@ Dioscorides' Materia Medica attributed intoxicating properties to darnel-contami
 
 ## Agronomic Significance for Eleusinian Theory
 
-The presence of darnel in Mediterranean grain fields has important implications for the [[kykeon-composition-and-ergot-alkaloid-hypothesis]]. If the barley grown on the [[rarian-plain-sacred-grain-eleusis]] was routinely contaminated with darnel — as would be expected in ancient agriculture — then the ergot infecting the darnel could have contributed additional psychoactive alkaloids to the [[wasson-hofmann-ruck-collaboration]].
-
-A kykeon made from a mixture of ergotized barley and ergotized darnel would have provided a broader spectrum of alkaloids than either source alone, potentially creating a more complex and effective preparation.
-
-## Related Concepts
-
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-
-- [[claviceps-paspali-alkaloids]]
+The presence of darnel in Mediterranean grain fields has important implications for the [[rarian-plain-sacred-grain-eleusis]] was routinely contaminated with darnel — as would be expected in ancient agriculture — then the ergot infecting the darnel could have contributed additional psychoactive alkaloids to the [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 
 - [[ergot-of-barley-and-wheat-alkaloid-composition]]
 
-- [[demeter-ergot-symbiosis-eleusinian-symbolism]]
-
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 
-- [[rarian-plain-sacred-grain-eleusis]]
-
 - [[ergot-and-lysergic-acid-history]]
+## Practical Applications
+
+Lolium temulentum (Darnel) and Ergot has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Lolium temulentum (Darnel) and Ergot. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

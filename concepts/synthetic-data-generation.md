@@ -82,11 +82,8 @@ recognizable "synthetic style" that diverges from natural human communication.
 
 ## See Also
 
-- [[track-changes]]
-
 - [[difficulty-calibrated-data-selection]]
 
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[staycare-fungal-degradation-of-synthetic-dyes]]
 
 - [[synthetic-log-cultivation]]

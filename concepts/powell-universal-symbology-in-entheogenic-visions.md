@@ -90,44 +90,6 @@ symbols can only be understood relative to the observer's existing network of
 knowledge; a newborn or a person from a radically different culture would not
 perceive the same meaning.
 
-## Naranjo on the Language of [[ayahuasca-visions]]
-
-Claudio Naranjo, who spent many years investigating the shamanic use of
-ayahuasca in the Amazon, found that visionary symbols consistently conveyed
-deep meaning. He described how the superimposition of reptile, feline fangs
-and claws, and bird wings results in the image of the dragon, synonymous with
-the mythical serpent. Naranjo concluded that ayahuasca-stimulated
-consciousness involves an intuition of the inseparability of life and death,
-an apprehension of life as a self-consuming and self-devouring
-"living-into-death" or "dying-into-life." The visionary animals may be
-terrifying or friendly depending on the readiness of the psyche to accept
-these fundamental truths.
-
-## Symbols as Relative Focus Points
-
-Powell emphasises that symbols can only be understood as relative focus
-points for networks of informational relations. When the network of
-relations is accessed and understood, then the symbol has conveyed its
-meaning. To see powerful symbols, whether in a shamanic vision, a dream, or
-in religious artwork, is to behold a concentration of information, a
-super-condensed localisation of meaning. The symbol is not the meaning itself
-but a gateway or lens through which meaning becomes accessible to
-consciousness.
-
-## Designer Symbols and Communicative Intent
-
-In the entheogenic state, symbols are not encountered in isolation but are
-choreographed together by what appears to be an intentional agency
-dissociated from the self. The visionary experience consists essentially of
-a communication transmitted in this higher language expressed by the
-Other. The symbols feel designed,
-as though some intelligence were deliberately composing them to convey
-specific messages or insights to the experiencer. This communicative quality
-is what distinguishes entheogenic visions from random hallucinations or
-ordinary dreams. The "movie-clip" quality reported by many experiencers
-suggests narrative intentionality behind the sequencing of symbolic imagery.
-
-See also: [[powell-sleeping-dreams-and-waking-dreams]],
-[[powell-mayan-civilisation-and-psilocybin-mushroom-use]],
+## Naranjo on the Language of [[powell-sleeping-dreams-and-waking-dreams]],
 [[powell-entheogens-as-epistemological-tools]],
 [[powell-shamanic-wisdom-and-ritual-practice]]

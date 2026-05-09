@@ -129,8 +129,6 @@ medical mycology.
 
 ## See Also
 
-- [[aspergillus-flavus]]
 - [[penicillium-chrysogenum]]
-- [[trichoderma-viride]]
 - [[botrytis-cinerea]]
 - [[fusarium-verticillioides]]

@@ -130,13 +130,7 @@ ecosystem processes at high function.
 
 ## See Also
 
-- [[savory-fencing-economics-and-stock-density-curve]]
-
 - [[savory-livestock-grazing-planning]] for practical planning procedures
-- [[savory-animal-impact-and-herd-effect]] for how stock density
-  relates to herd effect
 - [[savory-overgrazing-vs-overrest]] for why numbers alone do not
   determine overgrazing
-- [[savory-brittle-environments]] for how environment type affects
-  stocking decisions
 - [[savory-ranch-financial-planning]] for economic analysis

@@ -109,17 +109,10 @@ Citric acid kills some organisms at low concentrations and is used to reduce E. 
 
 - [[hamilton-compost-bins-and-containers]]
 
-- [[ingham-field-guide-compost-tea-application-rates]]
-
 - [[ingham-compost-tea-recipe-ratios]]
 
-- [[ingham-compost-tea-recipe-ratios]]
 - [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
-- [[ingham-soil-food-web-assessment-methods]]
-- aact-application-methods-ingham
-- [[aact-compost-quality-standards-ingham]]
 - [[aact-compost-quality-standards-ingham]]
 - [[ingham-aact-disease-suppression]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[ingham-foliar-pest-deterrence-aact]]
 - [[fungi-in-the-environment-fungal-organic-pollution-degradation]]

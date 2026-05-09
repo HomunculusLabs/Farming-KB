@@ -60,14 +60,7 @@ and the land becomes covered in dry grass -- tinder for the next fire.
 
 ## Protecting Slopes
 
-Steep slopes need protection from erosion using terraces and [[holzer-crater-gardens-hugelkultur]] (German mounds). Without this, ash and topsoil wash into rivers, killing fish.
-
-Slope stabilisation after fire requires immediate action. The loss of canopy
-exposes bare soil to rainfall impact, and hydrophobic soils that form during
-intense fires can repel water for months, dramatically increasing surface
-runoff. Holzer recommends placing logs and branches across slopes to slow
-water flow and trap sediment. On steeper terrain, constructing
-[[sepp-holzer-terrace-systems-and-raised-beds]] from local stone and wood debris creates
+Steep slopes need protection from erosion using terraces and [[sepp-holzer-terrace-systems-and-raised-beds]] from local stone and wood debris creates
 permanent structures that both stabilise soil and provide planting pockets for
 new vegetation.
 
@@ -90,12 +83,7 @@ trench method is so effective: the buried wood provides a replacement carbon
 sponge that captures and holds these mineral nutrients before they wash away.
 
 Soil microbial communities are devastated by fire, with temperatures above
-60°C killing most beneficial bacteria and fungi. [[mycorrhizal-networks]], which
-are essential for tree establishment and nutrient cycling, are particularly
-vulnerable. Inoculating planting sites with compost or compost tea can
-jump-start microbial recolonisation. Holzer's practice of mixing diverse seeds
-ensures that different plant species recruit different microbial partners,
-accelerating the restoration of a functional [[soil-food-web]].
+60°C killing most beneficial bacteria and fungi. [[soil-food-web]].
 
 ## Long-Term Monitoring and Adaptive Management
 
@@ -118,12 +106,6 @@ succession processes take over and human intervention becomes minimal.
 
 ## Prevention
 
-The answer to preventing future fires is always the same: [[holzer-water-landscapes-retention]] along contour lines, mixed forests, restored hydrological balance, and diverse agriculture that acts as a buffer against climate extremes.
-
-## Related Topics
-
-- [[holzer-terrace-systems]]
-- [[holzer-crater-gardens-hugelkultur]]
-- holzer [[reforestation-with-pigs]]
-- [[desertification-causes-reversal]]
+The answer to preventing future fires is always the same: [[holzer-terrace-systems]]
+- [[reforestation-with-pigs]]
 - [[holzer-water-landscapes-retention]]

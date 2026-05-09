@@ -130,10 +130,7 @@ Bufotenin's pharmacological profile can be usefully compared with its close rela
 
 ## See Also
 
-- [[alpha-methyltryptamine]] — another tryptamine derivative with distinct pharmacology
-- [[amanita-muscaria]] — fungal source with overlapping biochemistry
+- [[amanita-muscaria-entity]] — fungal source with overlapping biochemistry
 - Plants of the Gods — ethnobotanical reference covering bufotenin-containing species
-- [[bufotenin-entity-tihkal]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
-- [[mycofiltration-water-treatment]]
 - [[jadam-autumn-fertilization-principle]]

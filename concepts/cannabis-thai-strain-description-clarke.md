@@ -112,12 +112,8 @@ The conservation of pure Thai landrace genetics has become a significant concern
 
 ## Related Topics
 
-- [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile
-- [[cannabis-hindu-kush-strain-description-clarke]] - Hindu Kush strain profile
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-maturation-and-harvest-by-latitude-clarke]] - Maturation and latitude relationships
 - [[cannabis-mexican-strain-description-clarke]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[fukuoka-natural-farming-temperate-climates]]
 - [[cannabis-strain-anglematic]]

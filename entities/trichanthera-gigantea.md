@@ -104,13 +104,8 @@ In integrated farming systems, nacedero leaves are fed directly to cattle, goats
 
 ## See Also
 
-- [[gliricidia-sepium]]
 - [[leucaena-leucocephala]]
-- [[sesbania-grandiflora]]
 - [[moringa-oleifera]]
-- [[crotalaria-juncea]]
 - [[lemna-minor]]
-- [[azolla-filiculoides]]
 - [[permaculture]]
-- [[agroforestry]]
 - [[silvopasture]]

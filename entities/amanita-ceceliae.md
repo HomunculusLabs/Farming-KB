@@ -23,33 +23,7 @@ sources:
 
 **Amanita ceciliae** (Berk. & Broome) Bas, commonly known as Cecilia's ringless amanita or the strangling amanita, is a basidiomycete fungus in the family Amanitaceae. It is one of the more distinctive members of the genus due to its persistent, conspicuous white volval sac and complete absence of an annulus (ring) on the stipe.
 
-The species is found across temperate broadleaf and mixed forests of Europe, North America, and parts of Asia, where it forms [[ectomycorrhizal-associations]] primarily with oaks (*Quercus* spp.) and beeches (*Fagus* spp.). Despite belonging to the infamous genus Amanita — which contains deadly species like *A. phalloides* — *A. ceciliae* is considered edible when thoroughly cooked, though it is rarely collected for the table due to its small size and the inherent risks of consuming any Amanita.
-
-## Taxonomy and Morphology
-
-### Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Amanitaceae
-- **Genus:** Amanita
-- **Species:** A. ceciliae
-
-The species was originally described by Berkeley and Broome in 1854 as *Agaricus ceciliae*, later transferred to *Amanita* by Cornelis Bas in 1969. It is placed in Amanita section *Vaginatae*, the ringless amanitas, which are characterized by the absence of a volval remnant on the cap forming a distinct patch and the lack of an annulus.
-
-### Macroscopic Features
-
-**Cap:** 4–10 cm diameter, convex to plano-convex with an often depressed center. Surface smooth to slightly sticky when wet, grayish-brown to dark brown with a distinctly darker center. The cap cuticle peels easily. Universal veil remnants are usually absent or present as a few small, irregular grayish patches.
-
-**Gills:** Free to subfree, crowded, white to cream-colored. Lamellulae (short gills) are present and truncate.
-
-**Stipe:** 6–12 cm tall, 0.8–1.5 cm thick, cylindrical, slightly tapering upward. Surface is white to pale gray, smooth above the volval sac. The most striking feature is the **prominent, membranous, white volval sac** at the base, which is saccate (bag-like) and often extends well above the substrate. No annulus is present.
-
-**Flesh:** White, firm but thin, with a mild to slightly radish-like odor and taste.
-
-**[[spore-print]]:** White.
+The species is found across temperate broadleaf and mixed forests of Europe, North America, and parts of Asia, where it forms [[spore-print]]:** White.
 
 ### Microscopic Features
 
@@ -70,9 +44,7 @@ The species fruits from late summer through autumn (July–November in the North
 
 ## Ecology
 
-As an obligate ectomycorrhizal symbiont, *A. ceciliae* forms mutualistic associations with the fine roots of host trees. The [[fungal-hyphae]] surround root tips, facilitating nutrient exchange — the fungus provides the tree with mineral nutrients (particularly phosphorus and nitrogen) scavenged from soil, while receiving photosynthetically derived carbohydrates.
-
-The species plays a role in forest nutrient cycling and contributes to soil structure through its [[mycelial-networks]]. Its fruiting bodies serve as food for various forest invertebrates and small mammals.
+As an obligate ectomycorrhizal symbiont, *A. ceciliae* forms mutualistic associations with the fine roots of host trees. The [[mycelial-networks]]. Its fruiting bodies serve as food for various forest invertebrates and small mammals.
 
 ## Edibility and Caution
 
@@ -123,7 +95,5 @@ The species has no significant cultural, medicinal, or psychedelic use. It is pr
 
 ## See Also
 
-- [[fly-agaric-amanita-muscaria]]
-
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
 - [[lions-mane-hericium-erinaceus]]

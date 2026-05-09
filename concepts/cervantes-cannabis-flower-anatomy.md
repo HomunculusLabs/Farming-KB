@@ -111,11 +111,8 @@ and calyx production rather than seed development.
 
 ## See Also
 
-- [[cervantes-flowering-phase]] - flowering cycle and management
-- [[cannabis-advanced-growing-techniques]] - trichomes and resin
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - trichomes and resin
   glands
-- [[cervantes-harvest-timing-trichome-ripeness]] - using flower
-  cues to time harvest
 - [[cervantes-sex-determination-pre-flowering]] - identifying sex
   from pre-flowers
 - [[cervantes-sinsemilla-cultivation]] - growing seedless flowers

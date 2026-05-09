@@ -138,13 +138,8 @@ is, for the pragmatist, established on the most solid ground available. This pra
 orientation underlies Metzner's comparative approach. He does not argue that the shamanic
 worldview is true and the Western materialist worldview is false; rather, he argues that the
 shamanic approach to consciousness produces practical results — healing, divination,
-community bonding — that the Western approach has largely failed to achieve, and that these
-results demand serious attention regardless of one's ontological commitments.
-
 ## See Also
 
 - [[metzner-four-paradigms-psychedelic-healing]] for Metzner's full comparative framework
-- [[metzner-spirit-beings-multiple-realities-entheogens]] for the worldview implications
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for the modern practice context
-- [[metzner-entheogen-terminology-and-worldview-paradigms]] for terminology discussion
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] for the five conclusions

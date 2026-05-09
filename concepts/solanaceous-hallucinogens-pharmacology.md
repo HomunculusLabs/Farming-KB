@@ -9,7 +9,7 @@ sources:
 ---
 # Solanaceous Hallucinogens: Datura, Mandrake, and Henbane
 
-The Solanaceae (nightshade family) contains some of the most potent and historically significant hallucinogenic plants known to humanity. Documented extensively in [[european-witchcraft-hallucinogenic-plants]] and [[hallucinogens-and-shamanism-harner-anthology]], these plants have been used in shamanism, witchcraft, medicine, and warfare across both the Old and New Worlds for thousands of years.
+The Solanaceae (nightshade family) contains some of the most potent and historically significant hallucinogenic plants known to humanity. Documented extensively in [[hallucinogens-and-shamanism-harner-anthology]], these plants have been used in shamanism, witchcraft, medicine, and warfare across both the Old and New Worlds for thousands of years.
 
 ## Datura (Jimson Weed, Devil's Apple)
 
@@ -65,27 +65,11 @@ The solanaceous hallucinogens are one of the few groups of psychoactive plants u
 
 ## See Also
 
-[[european-witchcraft-hallucinogenic-plants]]
-[[hallucinogens-and-shamanism-harner-anthology]]
 [[hallucinogens-and-shamanism-harner-anthology]]
 [[shamanic-use-of-psychedelics]]
-[[entheogen-culture]]
+[[the-road-to-eleusis-wasson-hofmann-ruck]], may have involved solanaceous or ergot-derived preparations.
 
-## Historical Context
-
-The use of solanaceous hallucinogens extends deep into human history. Mandrake is mentioned in the Old Testament and was widely used in classical antiquity. The Oracle at Delphi, one of the most important religious institutions of ancient Greece, may have utilized henbane or other solanaceous plants to induce prophetic trances. The Eleusinian Mysteries, discussed in [[the-road-to-eleusis-wasson-hofmann-ruck]], may have involved solanaceous or ergot-derived preparations.
-
-In medieval and early modern Europe, the solanaceous plants became inextricably linked with witchcraft, as detailed in [[european-witchcraft-hallucinogenic-plants]]. The witches' flying ointment — containing belladonna, henbane, mandrake, and Datura — was applied topically to produce sensations of flight, transformation into animals, and visionary journeys to the Sabbat. The pharmacological basis of these experiences, rooted in the tropane alkaloids' skin absorbability, explains many features of European witchcraft beliefs that otherwise seem fantastical.
-
-In the New World, Datura has been used by indigenous peoples from the Amazon to the American Southwest. The Jivaro use Datura arborea as a shamanic tool considered even more powerful than ayahuasca. The Zuni of New Mexico use Datura inenoxia in initiation ceremonies. This cross-cultural distribution of solanaceous use, spanning both hemispheres, is unusual among psychoactive plants and reflects the global range of the Solanaceae family.
-
-## Modern Relevance
-
-The tropane alkaloids remain important in modern medicine. Atropine is used as a pupil-dilating agent in ophthalmology, as an antispasmodic, and as an antidote to organophosphate poisoning. Scopolamine is used in motion sickness patches and as a pre-anesthetic medication. The narrow therapeutic window that made these plants dangerous in folk use also makes them valuable in precise medical applications.
-
-The solanaceous hallucinogens continue to pose significant public health risks. Datura poisoning remains a recurring problem in emergency medicine, as young people experimenting with the plant frequently underestimate its toxicity and the intensity of the deliriant experience. Unlike the serotonergic psychedelics, which are remarkably safe physiologically, the tropane alkaloids can produce fatal poisoning at doses only slightly above the psychoactive threshold.
-
-Contemporary research into the neural mechanisms underlying deliriant hallucinations has shed light on the role of acetylcholine in consciousness and perception. The contrast between the true hallucinations of anticholinergic delirium and the pseudohallucinations of serotonergic psychedelics provides important data for theories of consciousness, as explored in [[psychedelic-consciousness-models]].
+In medieval and early modern Europe, the solanaceous plants became inextricably linked with witchcraft, as detailed in [[psychedelic-consciousness-models]].
 
 ## References and Further Reading
 
@@ -103,9 +87,7 @@ Latua pubiflora, known locally as "latué" or "árbol de los brujos" ("sorcerers
 
 ## Botanical Description
 
-Latua pubiflora is a shrub or small tree belonging to the nightshade family (Solanaceae), the same family that contains [[datura-metel-old-world-ethnobotany]], [[belladonna-atropa-belladonna-ethnobotany]], and [[henbane-hyoscyamus-niger-ethnobotany]]. The plant typically grows 2–5 meters tall, with pubescent (hairy) branches and leaves — reflected in its species epithet "pubiflora."
-
-The flowers are pendulous and bell-shaped, similar in form to those of other Solanaceae members. The fruits are small berries that constitute the primary plant part used by Mapuche medicine men. The overall appearance of the plant is said to be somewhat similar to that of the brugmansias ([[tree-daturas-brugmansia-south-american-ethnobotany]]), though the two genera are distinct.
+Latua pubiflora is a shrub or small tree belonging to the nightshade family (Solanaceae), the same family that contains [[belladonna-atropa-belladonna-ethnobotany]], and [[tree-daturas-brugmansia-south-american-ethnobotany]]), though the two genera are distinct.
 
 The leaves are oval to lanceolate, with a velvety texture from the dense covering of fine hairs. Young branches and leaf undersides are particularly pubescent. The wood is relatively soft and the plant has a bushy growth habit, often forming dense thickets in its preferred moist, shaded habitat. Flowering typically occurs during the Southern Hemisphere spring and summer months (October through February).
 
@@ -115,7 +97,7 @@ The genus Latua is monotypic — Latua pubiflora is the sole species. This taxon
 
 The alkaloids hyoscyamine and scopolamine have been isolated from the fruit of Latua pubiflora and are responsible for its potent psychoactive effects. These tropane alkaloids are the same active compounds found in other deliriant solanaceous plants such as Datura, belladonna, and henbane, placing latué squarely within the solanaceous hallucinogen pharmacological class.
 
-Scopolamine (also known as hyoscine) is a potent anticholinergic agent that blocks muscarinic acetylcholine receptors in the brain and peripheral nervous system. At hallucinogenic doses, scopolamine produces a characteristic deliriant syndrome: realistic visual and auditory hallucinations that are indistinguishable from reality, complete inability to distinguish waking experience from dream, profound disorientation, dry mouth, dilated pupils, tachycardia, and amnesia for the experience afterward. These effects are fundamentally different from the serotonergic hallucinations produced by [[mescaline-compound-profile]] or [[5-meo-dmt-compound-profile]], in that the deliriant state involves a genuine break with reality rather than a modified perception of it.
+Scopolamine (also known as hyoscine) is a potent anticholinergic agent that blocks muscarinic acetylcholine receptors in the brain and peripheral nervous system. At hallucinogenic doses, scopolamine produces a characteristic deliriant syndrome: realistic visual and auditory hallucinations that are indistinguishable from reality, complete inability to distinguish waking experience from dream, profound disorientation, dry mouth, dilated pupils, tachycardia, and amnesia for the experience afterward. These effects are fundamentally different from the serotonergic hallucinations produced by [[5-meo-dmt-compound-profile]], in that the deliriant state involves a genuine break with reality rather than a modified perception of it.
 
 Hyoscyamine, the other major alkaloid, produces similar but generally less pronounced central effects, with greater peripheral anticholinergic activity. The ratio of scopolamine to hyoscyamine in Latua may differ from that of other Solanaceae species, potentially contributing to its reputation for exceptional potency and danger. The Mapuche belief that a medicine man who knows the proper dosage can induce madness of any desired duration suggests that dose-response relationships for this plant are particularly precise and unforgiving.
 

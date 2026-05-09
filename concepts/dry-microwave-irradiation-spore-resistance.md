@@ -121,11 +121,7 @@ demands the trace water enhanced approach.
 
 ## See Also
 
-- [[bacterial-spore-microwave-resistance]]
 - [[trace-water-enhanced-microwave-surface-sterilization]]
-- [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[microwave-2-45-ghz-water-dipolar-coupling]]
-- [[microwave-steam-flash-sterilization-mechanism]]
 - [[sterilization-techniques-mushroom-cultivation]]
-- [[pasteurization-vs-sterilization]]
 - [[contamination-prevention-mycology]]

@@ -14,14 +14,15 @@ tags: [physics, semiconductor, band-theory, pn-junction, transistor,
 created: 2026-05-02
 type: concept
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
 
 Semiconductor physics governs materials with electrical conductivity between
 metals and insulators, typically with band gaps of 0.1–3.5 eV. Silicon,
-germanium, gallium arsenide, and compound semiconductors form the basis of
+germanium, [[gallium-arsenide]], and compound semiconductors form the basis of
 modern electronics, optoelectronics, and photovoltaics. The field bridges
 quantum mechanics and electrical engineering. Key milestones: the transistor
 at Bell Labs (1947, Shockley/Bardeen/Brattain) and the integrated circuit
@@ -133,8 +134,5 @@ biosensors leverage semiconductor processing for sensing applications.
 
 ## See Also
 
-- [[finite-element-method]]
-
 - [[quantum-mechanics-fundamentals]]
-- [[stereochemistry-and-chirality]]
 - [[tryptamines-and-quantum-mechanics]]

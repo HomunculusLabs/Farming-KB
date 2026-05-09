@@ -129,8 +129,6 @@ through evaporation.
 
 ## See Also
 
-- [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
 - [[natural-farming-guide-swale-water-management]]
-- [[natural-farming-guide-microclimate-management]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 - [[natural-farming-guide-contour-farming-strip-cropping]]

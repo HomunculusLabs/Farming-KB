@@ -13,30 +13,7 @@ type: concept
 
 ## Overview
 
-*[[copelandia-cyanescens]]* (syn. *Panaeolus cyanescens*) is one of the most
-potent and widely distributed psychoactive mushrooms in Australia. Known
-locally as "blue meanies," this dung-inhabiting species is found across
-tropical, subtropical, and temperate regions of the continent. Its
-cosmopolitan distribution spans both hemispheres, occurring throughout the
-tropics and neotropics wherever suitable large herbivore dung is available.
-
-## Taxonomic Status
-
-The genus *Copelandia* was erected by Bresadola in 1912 to accommodate
-*Panaeolus cyanescens* and its allies. These species differ from typical
-*Panaeolus* in having spores that are thick-walled, pigmented, and ornamented
-with a germ pore. The taxonomic distinction has been debated, but many modern
-mycologists accept *Copelandia* as a valid genus separate from *Panaeolus*.
-In older Australian literature, the species is frequently listed under
-*Panaeolus cyanescens*.
-
-## Australian Distribution
-
-### Northern Territory
-
-The Darwin area represents one of the most reliable collection zones for
-this species in Australia. The tropical climate with distinct wet and dry
-seasons creates ideal [[fruiting-conditions]]. Collections have been documented
+*[[fruiting-conditions]]. Collections have been documented
 consistently in and around Darwin during the wet season months.
 
 ### Queensland
@@ -141,10 +118,7 @@ NSW, the season extends from spring through autumn, with peak fruiting after
 heavy summer rains. In Tasmania and New Zealand, the season is more compressed,
 typically late summer through autumn. The species requires sustained warmth
 combined with high humidity to fruit prolifically.
-
 ## See Also
 
-- [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[allen-psilocybin-potency-australian-species]]
 - [[allen-subtropical-australia-hunting-techniques]]

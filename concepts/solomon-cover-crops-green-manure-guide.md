@@ -7,7 +7,7 @@ tags: cover-crops, green-manure, soil-fertility, clover, composting
 type: concept
 ---
 
-# Solomon [[cover-crops]] and [[green-manure-guide]]
+# Solomon [[green-manure-guide]]
 
 ## Overview
 
@@ -100,12 +100,8 @@ WARNING: This is not simple. The decomposing vegetation will be rather woody, an
 
 ## Related
 
-- [[solomon-mulching-and-cover-cropping]] for additional mulching strategies
-- solomon cover crops green manure guide for incorporating organic matter
 - [[complete-organic-fertilizer-recipes]] for heap composting
-- [[intensive-gardening-critique-solomon]] for bed construction
-
-## Merged: Solomon [[sheet-composting]] Guide
+- [[sheet-composting]] Guide
 
 # Solomon Sheet Composting Guide
 

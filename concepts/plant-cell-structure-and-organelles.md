@@ -89,11 +89,7 @@ The command center holding DNA and RNA, surrounded by a double nuclear envelope 
 
 ## Related Topics
 
-- [[arbuscular-mycorrhizal-fungi]] -- fungal symbionts that extend nutrient reach
 - [[nutrient-cycling-in-soil]] -- soil chemistry affecting nutrient availability
-- [[plant-micronutrient-functions]] -- trace elements needed by cellular enzymes
 - [[plant-macronutrient-functions]] -- primary nutrients for plant growth
-- [[plant-cell-membrane-transport-proteins]]
 - [[fungal-single-cell-protein-production]]
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

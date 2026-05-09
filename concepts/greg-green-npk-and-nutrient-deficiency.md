@@ -13,7 +13,6 @@ nutrient deficiencies is essential knowledge for any cannabis grower. Greg
 Green's Cannabis Grow Bible provides a systematic approach to diagnosing
 plant problems through visual symptoms, covering the primary macronutrients
 as well as secondary nutrients and micronutrients. See also
-[[green-cannabis-grow-bible-nutrient-management-ppm]] and
 [[green-cannabis-nutrient-schedules]].
 
 Nutrient problems are among the most common challenges faced by cannabis
@@ -107,18 +106,7 @@ using RO or distilled water, where calcium is not naturally present. Cal
 mag supplements are the standard solution for addressing calcium and
 magnesium shortfalls simultaneously.
 
-## [[nutrient-lockout]]
-
-Nutrient lockout occurs when the plant cannot access a nutrient or group
-of nutrients despite them being present in the soil or solution. This can
-be caused by the absence of nutrients (a true deficiency) or by a
-chemical reaction in the medium that creates a toxic substance blocking
-the roots. pH problems are a common cause of nutrient lockout.
-
-If none of the standard deficiency solutions work, Green recommends
-flushing the soil and switching to a different plant food that contains
-all essential nutrients: N, P, K, Ca, Mg, and S, plus the full range of
-micronutrients. Proper [[green-cannabis-ph-management-cannabis-growing]]
+## [[green-cannabis-ph-management-cannabis-growing]]
 is the best prevention against lockout issues.
 
 ## Summary
@@ -129,3 +117,7 @@ more important during flowering. A systematic approach to diagnosing
 deficiencies by observing leaf symptoms, starting from the location and
 pattern of discoloration, allows growers to identify and correct problems
 before they severely impact plant health and yield.
+
+## See Also
+
+- [[cannabis-nutrient-deficiency-and-toxicity-guide]]

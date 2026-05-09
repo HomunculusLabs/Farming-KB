@@ -13,9 +13,9 @@ type: concept
 
 The emergence of the human imagination represents one of the great unsolved puzzles in evolutionary biology. Terence McKenna argued that this capacity
 did not arise in isolation but was catalyzed by
-the sustained interaction between early hominids and [[psychedelic-fungi|psilocybin mushrooms]] in the African partnership societies of prehistory.
+the sustained interaction between early hominids and psilocybin mushrooms in the African partnership societies of prehistory.
 The argument hinges on a detailed examination of how
-consciousness, language, and imagination interconnect, and how [[hallucinogenic-plants]] might have accelerated their development far beyond what
+consciousness, language, and imagination interconnect, and how hallucinogenic plants might have accelerated their development far beyond what
 natural selection alone could explain.
 
 ## The Neural Basis of Imagination
@@ -38,10 +38,10 @@ early hominids could have been met with far simpler communication systems.
 
 ## Psychoactive Flood and Evolutionary Filtering
 
-Where [[psychedelic-plant-use]] was present in the hominid diet, nervous systems over many millennia would have been flooded by hallucinogenic realms
+Where psychedelic plant use was present in the hominid diet, nervous systems over many millennia would have been flooded by hallucinogenic realms
 of strange and alien beauty. However, evolutionary
 necessity channels the organism's awareness into a narrow cul-de-sac where ordinary reality is perceived through what Aldous Huxley called the
-[[reducing-valve]] of the senses. Without this filtering
+reducing valve of the senses. Without this filtering
 mechanism, humans would be rather poorly adapted for the rough-and-tumble of immediate existence. As creatures with animal bodies, we are aware that
 we are subject to a range of immediate concerns
 that we can ignore only at great peril.
@@ -104,7 +104,7 @@ Merchants and traders moving from one society to another brought the unwelcome n
 and so cast early seeds of doubt. At some point
 people integrated this previously autonomous function, and each person became the god and reinterpreted the inner voice as the "self" or "ego."
 Jaynes's theory has been largely dismissed, and
-regrettably his 467-page book manages to avoid discussion of [[hallucinogenic-plants]] nearly entirely, depriving himself of a mechanism that could
+regrettably his 467-page book manages to avoid discussion of hallucinogenic plants nearly entirely, depriving himself of a mechanism that could
 drive the transformative changes he described.
 
 ## The Catalytic Impulse to Speak
@@ -131,9 +131,6 @@ Henry Munn brilliantly anticipated this connection between mushrooms and languag
 
 ## See Also
 
-- [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]
-- [[mckenna-jaynes-bicameral-mind-breakdown]]
 - [[mckenna-psilocybin-and-language-formation]]
-- [[mckenna-tryptamine-glossolalia-and-primal-language]]
 - [[mckenna-world-made-of-language]]

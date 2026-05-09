@@ -85,19 +85,10 @@ Immobilization of peroxidases on solid supports offers advantages for practical 
 
 Cross-linked enzyme aggregates (CLEAs) represent another immobilization strategy. MnP-CLEAs from Bjerkandera adusta retained significant activity and achieved repeated cycles of dye decolorization. However, a major challenge remains the supply of H2O2 required by peroxidases: direct addition can cause enzyme inactivation at high concentrations, while in situ generation adds complexity to reactor design.
 
-Compared to [[laccase-catalyzed-degradation]], peroxidases are not yet commercially available at scale, which remains a key limitation for translating laboratory results to industrial application. The high cost of enzyme production and the sensitivity to H2O2 concentration are practical barriers that need further research.
-
-## See Also
-
-- [[mycoremediation-of-textile-dyes]]
-
-- [[laccase-catalyzed-degradation]]
+Compared to [[mycoremediation-of-textile-dyes]]
 
 - [[wood-rotting-fungi-for-effluent-decolorization]]
 
-- [[enzymatic-degradation-in-mycoremediation]]
-
 - [[white-rot-fungi-bioremediation]]
-- [[fungal-laccase-and-textile-dye-decolorization]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]

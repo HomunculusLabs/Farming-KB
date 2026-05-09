@@ -3,7 +3,7 @@ title: Mushroom Immunomodulation Mechanisms
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: []
 ---
 # Mushroom Immunomodulation Mechanisms
@@ -84,9 +84,7 @@ Mushroom immunomodulators combat cancer through multiple mechanisms:
 1. **Host defence potentiation** — activate immune cells to recognise and destroy tumour cells
 2. **Immunosurveillance enhancement** — improve detection of malignant cells
 3. **Anti-angiogenesis** — some compounds inhibit tumour blood vessel formation
-4. **Direct cytotoxicity** — recent evidence shows some compounds (e.g., [[grifron-d-maitake-beta-glucan]]) can directly induce apoptosis in cancer cells via oxidative stress
-5. **Chemosensitization** — enhance effectiveness of conventional chemotherapy
-6. **Anti-metastatic activity** — particularly [[medicinal-mushroom-guide-maitake]] D-fraction showing 81-91% reduction in hepatic metastases
+4. **Direct cytotoxicity** — recent evidence shows some compounds (e.g., [[medicinal-mushroom-guide-maitake]] D-fraction showing 81-91% reduction in hepatic metastases
 
 ## Oral Bioavailability
 
@@ -98,9 +96,6 @@ A critical question for dietary mushroom supplements. High molecular weight poly
 
 ## See Also
 
-- [[mushroom-polysaccharide-chemistry]] — structural basis of immunomodulatory compounds
 - [[lentinan-clinical-research]] — clinical application of shiitake immunomodulation
-- [[medicinal-mushroom-health-benefits]] — health benefits across mushroom species
 - [[adaptogenic-herbs-overview]] — comparison with other immune-modulating herbs
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[mushroom-cytokine-production-immune-activation]]

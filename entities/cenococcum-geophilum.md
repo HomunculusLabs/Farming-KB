@@ -86,11 +86,6 @@ Cenococcum geophilum is a key species for understanding ectomycorrhizal
 diversity and function in stressed ecosystems. Its cosmopolitan
 distribution and stress tolerance make it a reliable partner for tree
 establishment in reforestation and ecological restoration projects. In
-[[permaculture-design]], understanding this species helps in managing soil
-fungal communities for resilient agroforestry systems.
-
-## See Also
-- [[paxillus-involutus]]
-- [[pisolithus-tinctorius]]
+[[paxillus-involutus]]
 - [[suillus-granulatus]]
 - [[laccaria-bicolor]]

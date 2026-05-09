@@ -112,18 +112,12 @@ This is not a system that Liebig's law can describe. There is no single limiting
 
 ## See Also
 
-- [[liebig-law-of-minimum-critique]]
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]
-- [[fukuoka-critique-of-liebig-law-of-minimum]]
 - [[fukuoka-liebig-law-critique]]
 
-- [[liebig-law-of-minimum]]
-
-- [[fukuoka's-four-principles-of-natural-farming]]
-- [[fukuoka-natural-farming-philosophy]]
-- Critique of Scientific Agricultural Laws
+- [[fukuoka-four-principles-of-natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - Soil Acidity and Self-Regulating Systems
 - Reductionism vs Holism in Agriculture
 - Specialized Agricultural Research and Its Limits
-- [[fukuoka's-philosophy-of-non-causality-in-nature]]
+- [[fukuoka-philosophy-non-causality-nature]]

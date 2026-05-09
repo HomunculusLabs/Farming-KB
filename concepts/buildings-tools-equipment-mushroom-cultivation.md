@@ -115,8 +115,6 @@ demonstrate multiple systems so trainees can make informed choices.
 
 ## Related Concepts
 
-- [[mushroom-house-design-management]]
 - [[mushroom-cultivation-overview-disability-empowerment]]
-- [[selecting-trainees-mushroom-cultivation]]
 - [[substrate-preparation-mushroom-growing]]
 - [[training-program-mushroom-cultivation]]

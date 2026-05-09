@@ -100,13 +100,8 @@ same family.
 
 ## See Also
 
-- [[hydnellum-aurantiacum]]
 - [[sarcodon-imbricatus]]
-- [[phellodon-niger]]
 - [[thelephora-terrestris]]
-- [[ectomycorrhizal-fungi]]
 - [[mycorrhizal-fungi]]
-- [[suillus-luteus]]
 - [[boletus-edulis-entity]]
-- [[laccaria-laccata]]
 - [[paxillus-atrotomentosus]]

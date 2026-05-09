@@ -86,51 +86,12 @@ condition and has important implications for nutrient cycling dynamics:
   of mature, undisturbed ecosystems. Nutrient cycling is slower but more
   stable, and soil organic matter tends to be more humified and persistent.
 
-As described in [[lowenfels-soil-food-web-succession]], management practices
-can shift the F:B ratio. No-till systems, perennial crops, and woody organic
-amendments tend to favor fungi. Intensive tillage and annual crops favor
-bacteria. Different plant communities also influence this ratio: brassicas and
-grasses tend to foster bacterial-dominated soils, while perennials and woody
-plants favor fungal-dominated systems.
-
-## Succession in Fungal Decomposition
-
-Fungal communities follow predictable succession patterns during decomposition.
-Early colonizers are typically fast-growing, opportunistic fungi (many
-zygomycetes and some ascomycetes) that rapidly exploit simple sugars and
-proteins in fresh organic matter. As these resources are depleted, the
-community shifts toward slower-growing fungi capable of decomposing more
-recalcitrant materials. Late-stage decomposers include basidiomycete fungi
-that break down lignin and other complex compounds. This succession mirrors
-the broader soil food web succession from bacterial to fungal dominance.
-
-## Fungi in the Soil Food Web
-
-Fungal hyphae serve as a major food source for fungal-feeding nematodes and
-certain microarthropods, as described in [[lowenfels-nematode-food-web-roles]]
-and [[lowenfels-soil-arthropod-macrofauna]]. Fungal decomposition products
-feed bacterial communities, creating cross-feeding interactions. Fungi
-interact with [[lowenfels-mycorrhizal-network-nutrient-sharing]] networks
+As described in [[lowenfels-nematode-food-web-roles]]
+and [[lowenfels-mycorrhizal-network-nutrient-sharing]] networks
 that further extend their influence. The decomposition products of fungi,
-including [[lowenfels-glomalin-soil-aggregation]], contribute to soil structure
-and long-term carbon storage.
-
-## Supporting Fungal Decomposition
-
-To encourage fungal decomposition, practices should minimize soil disturbance,
-provide diverse organic inputs including woody materials, and maintain living
-root systems through [[lowenfels-cover-crops-soil-biology]]. Fungi benefit
+including [[lowenfels-cover-crops-soil-biology]]. Fungi benefit
 from the habitat provided by stable soil aggregates and the continuous food
-supply from surface mulches. [[lowenfels-compost-tea-brewing]] with fungal
-dominance can also inoculate soils with beneficial decomposer fungi.
-
-## See Also
-
-- [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
-
-- [[query-can-fungi-break-down-plastic-pollution]]
+supply from surface mulches. [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
 
 - [[comparison-no-till-vs-living-soil-cannabis]]
-- [[comparison-no-till-vs-mulch-soil-management]]
-
 - [[comparison-amf-vs-endophytic-fungi]]

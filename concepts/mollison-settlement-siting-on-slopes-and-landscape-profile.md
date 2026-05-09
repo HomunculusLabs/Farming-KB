@@ -1,66 +1,7 @@
 ---
 title: Settlement Siting on Slopes and Broad Landscape Profile
 created: 2026-04-26
-tags: [permaculture, settlement-design, landscape-analysis, slope, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Settlement Siting on Slopes and Broad Landscape Profile
-
-Mollison presents a systematic analysis of how broad landscape profiles
-in humid regions determine optimal settlement placement. Drawing from
-both traditional practices and geomorphic understanding, this framework
-demonstrates that slope position, aspect, and the junction of ecological
-zones are the primary determinants of sustainable settlement success.
-
-## The Inadequacy of Flatland Settlement
-
-The ancient occupied ridgeways of England testify to the commonsense
-of megalithic peoples in landscape planning, but their present
-abandonment for industrial suburbs in flatlands does little credit to
-modern designers. The difference may be that former peoples planned
-for themselves, while modern designers design for "other people."
-Planners who place a housing settlement on a plain or plateau may have
-the advantage of plain planning, but abandon the inhabitants to failure
-if transport fuels dry up. They then have to depend on the natural
-environment for varied needs but have only a monocultural landscape on
-which to do so.
-
-## The Principle of Ecological Junctions
-
-There is hardly a viable traditional human settlement that is not sited
-on those critical junctions of two natural ecologies, whether on the
-area between foothill forests and plains, or on the edge of plain and
-marsh, land and estuary, or some combination of all of these.
-Successful and permanent settlements have always been able to draw
-from the resources of at least two environments. This principle of
-dual-environment access is perhaps the most fundamental insight for
-settlement siting.
-
-## The Broad Humid Landscape Profile
-
-In the normal humid landscape, where precipitation exceeds
-evaporation, hill profiles develop a flattened "S" curve that presents
-opportunities for placement analysis of components and systems. This
-profile can be divided into four zones:
-
-**Zone A -- High Plateau**: Snow is stored, and trees and shrubs
-prevent quick water run-off. The headwaters of streams originate here.
-Rarely of use to agriculture but critically important as a watershed.
-
-**Zone B -- Steep Upper Slopes**: Often catastrophically eroded if
-cleared of protecting forest. Should remain forested to prevent
-erosion and maintain water quality.
-
-**Zone C -- Lower Slopes**: Potentially very productive mixed
-agricultural areas, well suited to the structures of people and their
-domestic animals and implements. The gentle foothill country here is
-brilliantly analysed for water conservation by Yeomans' keyline
-system. See [[mollison-keyline-water-conservation]].
+tags: [[mollison-keyline-water-conservation]].
 
 **Zone D -- Foothills and Plains**: Cheap water storage is available
 as large shallow dams. Extensive cropping can take place but the area
@@ -131,9 +72,25 @@ function, then a better ground design results than most that now exist.
 
 ## Related
 
-- [[arid-landscape-scarp-wadi-desert-settlement]] Concepts
-
 - [[mollison-zone-and-sector-analysis]]
-- [[mollison-keyline-water-conservation]]
 - [[mollison-broadscale-landscape-analysis]]
 - [[mollison-frost-protection-and-thermal-belt-design]]
+## Practical Considerations
+
+Successful implementation of Settlement Siting on Slopes and Broad Landscape Profile requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -22,38 +22,6 @@ priority is rapid nutrient cycling or long-term soil building.
 
 ## Leaf Mold Composting
 
-[[leaf-mold-composting]]
-
-Leaf mold is the product of leaves broken down primarily by saprophytic fungi
-rather than bacteria. The result is a dark, crumbly, humus-rich material similar
-to the forest floor. While its nutrient profile is modest (0.5-1% N, 0.2-0.5% P,
-0.3-0.8% K, 60-80% organic matter), leaf mold excels at improving soil
-structure, increasing water retention by 300-500% of its weight, and supporting
-beneficial fungal networks including mycorrhizae. It requires no turning, no
-precise carbon-to-nitrogen ratios, and no special equipment. Nature has been
-producing leaf mold in forests for hundreds of millions of years.
-
-The process is straightforward: collect deciduous leaves, optionally shred them
-with a lawn mower to dramatically speed decomposition, pile them in a wire bin
-or enclosure, moisten to wrung-out sponge consistency, and wait 6-24 months
-depending on leaf type. Fast decomposers like oak, maple, birch, ash, cherry,
-and willow leaves break down in 6-12 months, while waxy leaves like beech,
-sycamore, magnolia, holly, and sweet gum can take 1-2 years. Leaves to avoid
-include black walnut (juglone toxicity), eucalyptus (allelopathic compounds),
-diseased leaves that need hot composting temperatures for pathogen destruction,
-and pine needles (better used as a separate acidic mulch).
-
-The wire bin method is the simplest setup: cut hardware cloth or welded wire
-fencing 3-4 feet tall, form it into a cylinder secured with wire ties, drive
-metal stakes for support, and position it in a shaded or partially shaded area.
-Shredding leaves before adding them is the single most impactful step for
-speeding production. Leaf mold is particularly valuable as a component of
-potting mixes, a mulch for woodland gardens and shade plantings, a soil
-amendment for improving heavy clay or sandy soils, and a fungal inoculant for
-soil that has become bacterial-dominant from repeated synthetic fertilizer use.
-
-## Hot Composting Method
-
 [[hot-composting-method]]
 
 Hot composting is a managed aerobic decomposition process that reaches internal
@@ -142,8 +110,6 @@ recycling while producing both bacterial and fungal-dominated amendments.
 
 ## See Also
 
-- [[comparison-bokashi-vs-hot-composting-method]]
 - [[comparison-vermicomposting-vs-hot-composting]]
-- [[comparison-biochar-vs-compost]]
 - [[comparison-green-manure-vs-composting]]
 - [[comparison-black-soldier-fly-vs-vermicomposting]]

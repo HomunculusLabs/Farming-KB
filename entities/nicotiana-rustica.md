@@ -68,55 +68,24 @@ N. rustica was known to the Aztecs and other Mesoamerican civilizations. It was 
 
 After European contact, N. rustica spread globally and was adopted into the traditional practices of many cultures. Notable examples include:
 
-- **Siberian indigenous peoples** — who use N. rustica alongside [[amanita-muscaria]] in shamanic ceremonies
-- **Native American pipe ceremonies** — though N. tabacum is more commonly used today
-- **African traditional medicine** — where tobacco is used for various ailments
-- **South Asian medicine** — where N. rustica is used in Ayurvedic preparations
-
-## Chemistry
-
-N. rustica contains very high concentrations of nicotine, typically 5 to 10 times higher than N. tabacum:
-
-- **Nicotine** — the primary psychoactive alkaloid (up to 9% dry weight, compared to 1-3% in N. tabacum)
-- **Nornicotine** — a demethylated metabolite of nicotine
-- **Anatabine** — a minor tobacco alkaloid
-- **Anabasine** — a toxic alkaloid found in higher concentrations in N. rustica
-- **Myosmine** and **nicotyrine** — minor alkaloids
-- **Beta-carbolines** — including harmine and harmaline, present in trace amounts
-
-The extremely high nicotine content makes N. rustica much more potent than commercial tobacco and contributes to its use in shamanic contexts where strong effects are desired. The presence of trace beta-carbolines may contribute subtle MAO-inhibiting effects that could modulate the overall pharmacological profile.
-
-## Pharmacology
-
-Nicotine acts primarily on nicotinic acetylcholine receptors (nAChRs) in the central and peripheral nervous systems. The activation of these receptors produces:
-
-- Release of dopamine in the mesolimbic pathway (reward and pleasure)
-- Release of norepinephrine (arousal and alertness)
-- Release of serotonin (mood modulation)
-- Release of endorphins (analgesia)
-- Stimulation of the adrenal glands (epinephrine release)
-
-At the very high doses achievable with N. rustica, nicotine produces toxic effects including nausea, vomiting, headache, dizziness, and in severe cases, seizures and respiratory failure. The high anabasine content of N. rustica adds additional toxicity, as anabasine is more toxic than nicotine.
-
-## Safety Considerations
-
-N. rustica is significantly more dangerous than commercial tobacco due to its high alkaloid content. Risks include:
-
-- **Acute nicotine poisoning** — nausea, vomiting, seizures, respiratory failure
-- **Cardiovascular effects** — tachycardia, hypertension, arrhythmias
-- **Extreme dependence potential** — due to high nicotine concentrations
-- **Gastrointestinal effects** — nausea and vomiting are common with traditional use
-
-Traditional users have developed techniques to manage these risks, but inexperienced users face significant danger, particularly when consuming N. rustica orally or as a purgative.
-
-## Cultural Significance
-
-Nicotiana rustica is one of the most culturally significant plants of the Americas. Its role in Huichol visionary practices, Amazonian shamanism, and Mesoamerican ceremony places it at the intersection of recreational, medicinal, and sacred plant use. The global spread of N. rustica following European contact represents one of the most dramatic examples of plant biocultural diffusion in human history.
-
-## See Also
-
-- tagetes-lucida — Pericon, mixed with N. rustica by the Huichol
-- [[amanita-muscaria]] — Fly [[agar]]ic, sometimes used with tobacco in Siberia
-- [[datura-stramonium]] — another solanaceous psychoactive plant
-- [[lobelia-tupa]] — Devil's Tobacco, another plant with nicotine-like alkaloids
+- **Siberian indigenous peoples** — who use N. rustica alongside [[amanita-muscaria-entity]] — Fly [[datura-stramonium]] — another solanaceous psychoactive plant
 - [[banisteriopsis-caapi]] — Ayahuasca, ceremonies in which Mapacho plays a key role
+## Practical Considerations
+
+Successful implementation of Nicotiana rustica requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

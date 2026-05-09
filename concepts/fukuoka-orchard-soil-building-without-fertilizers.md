@@ -22,30 +22,11 @@ A review of his father's finances revealed the orchard had been run at a loss fo
 
 ## Ground Cover as the Foundation
 
-The purpose of [[fukuoka-ladino-clover-ground-cover-management]] is to promote the conversion of weathered bedrock material into living, organic soil. Fukuoka's method is based entirely on the use of a [[fukuoka-white-clover-ground-cover]] of living plants, enabling soil in the field, garden, and hillside orchard to become naturally enriched simultaneously.
+The purpose of [[fukuoka-white-clover-ground-cover]] of living plants, enabling soil in the field, garden, and hillside orchard to become naturally enriched simultaneously.
 
 ## Ladino Clover: The Primary Cover Crop
 
-After planting seeds of thirty legumes, crucifers, and grasses throughout the orchard, Fukuoka concluded that [[fukuoka-white-clover-ground-cover]] should be the primary cover crop:
-
-1. Eliminates weeds — annual weeds displaced in one year, biennials in two years; after 2-3 years, almost all garden weeds vanish
-2. Improves soil to a depth of 16-18 inches
-3. Seed does not need resowing for 6-8 years
-4. Does not compete strongly with fruit trees for fertilizer or moisture
-5. Grows back easily after cutting and remains hardy even when trampled
-6. Does not hinder farming operations
-
-Disadvantages include susceptibility to summer-killing during hot, dry weather, and retarded growth in shade.
-
-## Managing the Clover Cover
-
-Clover requires meticulous care similar to a lawn. After 6-7 years, growth gradually slows. By about ten years after original planting, weeds begin reemerging — primarily vines and perennials resistant to clover. If clover becomes excessively luxuriant and is left alone, diseases like leaf spot appear and weeds reestablish dominance within 5-6 years.
-
-Perennial weeds such as sorrel, dandelion, bindweed, cogon, and bracken should be cut more frequently, with wood ashes or coal ashes scattered.
-
-## Black Wattle for Deep Soil Improvement
-
-The [[fukuoka-green-manure-clover-revolution]] (a type of acacia) serves as a fertilizer tree that radically improves deep soil strata:
+After planting seeds of thirty legumes, crucifers, and grasses throughout the orchard, Fukuoka concluded that [[fukuoka-green-manure-clover-revolution]] (a type of acacia) serves as a fertilizer tree that radically improves deep soil strata:
 
 - Five to ten trees per quarter-acre among fruit trees
 - Grows five feet or more per year, creating a shelterbelt in 3-4 years
@@ -65,17 +46,7 @@ Along with cover crops, Fukuoka dug trenches and filled them with organic matter
 
 ## Understanding Soil Through Weeds
 
-One can understand the nature of the soil more quickly by examining the [[fukuoka-weed-ecology]] growing in it than by examining the soil itself. The emergence and succession of different weeds over the years as soil becomes richer is more natural and more conducive to soil enrichment than maintaining a single plant species indefinitely.
-
-By sowing vegetable seeds of the same family as the weeds growing in the orchard, vegetable plants can eventually replace the weeds entirely.
-
-## The Natural Orchard as Living System
-
-The qualitative improvement in the soil under natural farming is holistic. Fukuoka applied no lime or micronutrients, and noted no deficiencies at any time. The constant change in conditions of the cover crop showed only that soil changes constantly and fruit trees adapt constantly to such changes.
-
-The process of soil improvement goes hand-in-hand with the overall process of fruit growing, using the forces of living organisms to physically and chemically improve the soil.
-
-The timeline of soil recovery — 5-10 years to build six inches of topsoil through cover crop cultivation alone — challenges the impatience of modern agriculture. Yet this timeline is consistent with natural soil formation rates and produces soil that is qualitatively different from artificially amended soil. Fruit trees on naturally improved soil live two to three times longer than those grown with artificial fertilizers.
+One can understand the nature of the soil more quickly by examining the [[fukuoka-natural-farming-philosophy|soil formation rates]] and produces soil that is qualitatively different from artificially amended soil. Fruit trees on naturally improved soil live two to three times longer than those grown with artificial fertilizers.
 
 The trench burial technique — filling trenches with organic matter including straw, wood chips, branches, and lumber — works in tandem with surface cover crops. While clover improves the top 16-18 inches, trench burial addresses deeper soil strata. The best material proved to be lumber produced directly in the orchard from black wattle trees, creating a closed-loop system where soil improvement generates its own raw materials.
 
@@ -85,8 +56,24 @@ Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-te
 
 ## Related
 
-- [[fukuoka-orchard-soil-restoration-barren-clay]]
-
 - [[fukuoka-natural-livestock-integration-philosophy]]
-- [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+## Practical Considerations
+
+Successful implementation of Orchard Soil Building Without Fertilizers requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

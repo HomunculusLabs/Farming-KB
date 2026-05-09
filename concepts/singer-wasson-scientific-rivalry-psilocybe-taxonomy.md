@@ -21,8 +21,7 @@ type: concept
 The scientific investigation of magic mushrooms was marked not only by
 groundbreaking discoveries but also by fierce personal rivalries. One of
 the most notable was the dispute between Rolf Singer's team and the
-combined forces of [[roger-heim-scientific-study-psilocybin]] and
-[[shroom-cultural-history-western-discovery-valentina-wasson]] over the naming and classification of hallucinogenic mushroom
+combined forces of [[shroom-cultural-history-western-discovery-valentina-wasson]] over the naming and classification of hallucinogenic mushroom
 species. This seemingly dry taxonomic quarrel had lasting consequences
 for the nomenclature of psychoactive fungi.
 
@@ -89,17 +88,7 @@ contemplative well-being.
 ## The Scientific Context of Discovery
 
 This rivalry occurred during a period of intense scientific activity.
-Hofmann's isolation of [[psilocybin-mushroom-distribution-worldwide]] in
-1958 had opened the door to a new era of research. Sandoz had placed
-their branded Indocybin on the market. The identification and naming of
-new species was not merely an academic exercise; it had real implications
-for understanding the distribution, chemistry, and cultural significance
-of hallucinogenic fungi worldwide.
-
-## Gaston Guzman's Comprehensive Work
-
-Of Stein's original team, special mention must be made of the Mexican
-mycologist [[guzman-allen-gartz-global-psilocybe-biogeography]]. Along with the German Jochen Gartz and the American John
+Hofmann's isolation of [[guzman-allen-gartz-global-psilocybe-biogeography]]. Along with the German Jochen Gartz and the American John
 Allen, Guzman dedicated much of his working life to discovering,
 describing and naming every species of hallucinogenic fungus in the
 world. In 1983, he published his magnum opus, The Genus Psilocybe,
@@ -128,13 +117,8 @@ had been used by indigenous peoples for millennia.
 
 ## See Also
 
-- [[brassinosteroid]]
-
 - [[rolf-singer]]
 
-- [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
 - [[roger-heim-scientific-study-psilocybin]]
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[shroom-cultural-history-western-discovery-valentina-wasson]]
-- [[psilocybin-mushroom-chemistry]]
 - [[deconica-crobula]]

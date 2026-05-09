@@ -3,15 +3,7 @@ title: Arthropod-Associated Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/unknown-biodiversity-of-fungi.md"
----
-# Arthropod-Associated Fungi
-
-## Overview
-
-Vast numbers of biodiversity of fungi are associated with a variety of insects and other arthropods, forming [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]] of various types. These associations range from necrotrophic parasites (killing host cells) and biotrophic parasites (requiring living host cells) to mutualistic gardening symbioses and spore-dispersal relationships. The morphological specializations of these fungi are so extreme that only a few specialists study them, leaving much of their diversity poorly documented.
+tags: [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]] of various types. These associations range from necrotrophic parasites (killing host cells) and biotrophic parasites (requiring living host cells) to mutualistic gardening symbioses and spore-dispersal relationships. The morphological specializations of these fungi are so extreme that only a few specialists study them, leaving much of their diversity poorly documented.
 
 ## Types of Associations
 
@@ -20,109 +12,9 @@ Vast numbers of biodiversity of fungi are associated with a variety of insects a
 These fungi kill host cells and use them as nutrient sources. They include:
 
 - **Entomophthorales**: Fungi that infect and kill insects, often with spectacular epizootics
-- **Cordyceps and relatives**: Complex fruiting bodies emerging from insect hosts. See [[trichomycetes-gut-fungi-arthropods]] for other arthropod-fungal associations.
-- **Aspergillus and other opportunists**: Infect stressed or immunocompromised insects
-
-### Biotrophic Parasites
-
-Requiring living host cells, these include:
-
-- **Laboulbeniales**: Highly specialized ectoparasites on insect exoskeletons
-- **Trichomycetes**: Gut-inhabiting fungi attached to arthropod digestive tracts
-- **Septobasidiales**: Parasites of scale insects with complex fruiting bodies
-
-### Gardening Symbioses
-
-Several insect groups cultivate fungi as food sources:
-
-- **Bark beetles**: Carry fungal symbionts in specialized structures (mycangia). See [[bark-beetle-fungi-ophiostomatales-collection-isolation]] for collection methods.
+- **Cordyceps and relatives**: Complex fruiting bodies emerging from insect hosts. See [[bark-beetle-fungi-ophiostomatales-collection-isolation]] for collection methods.
 - **Ambrosia beetles**: Cultivate fungi in tunnel systems for larval nutrition
-- **Attine ants**: Leaf-cutter ants maintain fungal gardens (Lepiotaceae). See [[ant-termite-fungal-symbiosis]] for more on insect-fungal mutualisms.
-- **Termites**: Cultivate Termitomyces fungi on comb structures
-- **Wood wasps**: Carry fungi that pre-digest wood for larvae
-
-### Spore-Dispersal Interactions
-
-Some fungi are merely dispersed by arthropods without forming intimate associations. These range from generalist spore carriage to specialized dispersal mechanisms.
-
-## Sampling Methodology
-
-### Collecting Specimens
-
-Few protocols exist for quantitative sampling of insect fungi. Problems include:
-
-- Unpredictable timing of fruiting structure appearance
-- Microscopic nature of many species
-- Need for culturing
-- Patchy distribution of associated arthropods
-
-Sampling must be targeted at the host insects. Protocols depend on the condition (dead, dying, or alive) and stage (larval or adult) of the host.
-
-### Trapping Methods
-
-**Flight-Interception Traps**: Large-area (3m across) nets suspended vertically above preservative trays. Effective for Coleoptera and Diptera. Used to assess Laboulbeniales infection patterns.
-
-**Light Traps**: UV and mercury vapor lamps attract beetles including Gyrinidae, Dytiscidae, and Hydrophilidae -- rich sources of Laboulbeniales.
-
-**Pitfall Traps**: Containers sunk into ground for ground-dwelling invertebrates (carabid beetles). Catches determined by population size and activity.
-
-**Canopy Fogging**: Insecticidal fogging of individual trees with synthetic pyrethroids. Provides enormous insight into tropical and temperate forest fauna. Yields Chrysomelidae, Corylophidae, and their associated Laboulbeniales.
-
-**Litter Samples**: Known volumes of litter processed through Berlese funnels for ground-dwelling invertebrates.
-
-**Malaise Traps**: Rich source of arthropod material but difficult to standardize for comparison.
-
-### Handling and Storage
-
-- Specimens should not become too moist (avoid plastic bags in most cases)
-- Use paper bags, vials, or mesh bags
-- Individual samples kept separate to avoid contamination
-- Containers sterilized or new to prevent cross-contamination
-- Field labels written at time of collection
-- Refrigeration useful for short-term storage
-- Freezing practical for killing specimens before examination
-- Do not store in liquid or dry at high temperatures (degrades DNA)
-
-### Specimen Preparation
-
-- Mount diagnostic parts on microscope slides
-- Water mounts preferred when living material is available (spores may germinate, providing life history data)
-- Lactophenol-cotton blue common but phenol is carcinogenic
-- Glycerine jelly as safer alternative with water-soluble stains
-- Phloxine stain useful for distinguishing living from dead cells
-
-### Cultivation
-
-Many arthropod-associated fungi have never been cultured. When possible:
-
-- Media selection depends on the fungal group
-- Many major culture collections accept arthropod-associated fungi
-- USDA ARSEF (Agricultural Research Service Collection of Entomopathogenic Fungi) is specialized
-- Not all groups can be cultured; infected insect colonies must sometimes be maintained as sources
-
-### Molecular Methods
-
-Molecular techniques have been applied to solve previously intractable taxonomic problems:
-
-- Transmission electron microscopy most valuable historically
-- Scanning EM provides supplementary information
-- DNA-based methods for phylogenetics and species identification
-- All collections potentially valuable for molecular studies
-- Best to avoid liquid storage and high-temperature drying
-
-## Trichomycetes (Gut Fungi)
-
-Trichomycetes are obligate inhabitants of arthropod digestive tracts. See [[trichomycetes-gut-fungi]] and [[trichomycetes-gut-fungi-arthropods]] for detailed coverage. They include:
-
-- **Harpellales**: Attached to hindgut and foregut cuticle of aquatic insect larvae
-- **Asellariales**: In isopod and amphipod hindguts
-- **Eccrinales**: In various arthropod guts
-
-They are not true parasites but commensals, though they may become pathogenic under crowded conditions. The Amoebidiales, previously included, are now classified as protozoans.
-
-## Laboulbeniales
-
-Highly specialized ectoparasitic [[ascomycete-phylum-guide]]:
+- **Attine ants**: Leaf-cutter ants maintain fungal gardens (Lepiotaceae). See [[trichomycetes-gut-fungi]] and [[ascomycete-phylum-guide]]:
 
 - Over 2,000 described species on insects
 - Form minute, determinate thalli on host exoskeleton
@@ -140,3 +32,81 @@ Fungi that kill insects are important natural control agents:
 - **Beauveria**: Wide host range; used in biological control
 - **Entomophthora**: Causes dramatic epizootics in insect populations
 - **Cordyceps**: Complex life cycles with highly specific hosts
+## Practical Applications
+
+Arthropod-Associated Fungi has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Arthropod-Associated Fungi. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

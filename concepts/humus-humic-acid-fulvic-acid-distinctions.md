@@ -122,9 +122,6 @@ Charcoal is related to leonardite and peat but is too carbonized to function as 
 
 ## See Also
 
-- [[humic-acids-soil-biology-ingham]]
 - [[fungal-decomposition-nutrient-cycling]]
-- [[fungal-glomalin-and-soil-carbon]]
 - [[fungal-contributions-soil-structure]]
-- [[compost-tea-aact]]
 - [[savory-soil-organic-matter-and-decomposition-dynamics]]

@@ -79,11 +79,7 @@ Used primarily for Reishi in Asia:
 - Difficult to achieve multiple flushes on demand
 
 ## Related Topics
-- [[king-stropharia-wine-cap-cultivation]] for detailed bed preparation
 - [[mushroom-substrates]] for substrate selection
-- [[oyster-mushroom-spawn-production]] for spawn preparation
 - [[mushroom-cultivation-basics]] for foundational concepts
-- [[arid-landscape-permaculture]]
 - [[london-outdoor-ridge-mushroom-cultivation]]
-- [[oyster-mushroom-growing-house-site-selection]]
 - [[oyster-mushroom-growing-house-types]]

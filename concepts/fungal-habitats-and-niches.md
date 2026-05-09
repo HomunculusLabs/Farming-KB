@@ -1,7 +1,7 @@
 ---
 title: Fungal Habitats and Niches
 created: 2026-04-28
-tags: [mycology, ecology, habitats, niches]
+tags: [[mycology, ecology, habitats, niches]
 date: 2026-04-28
 updated: 2026-05-01
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -95,18 +95,6 @@ that are severely undersampled.
 ## Anthropogenic Habitats
 
 Human activities have created novel fungal habitats. Compost piles, landfills,
-and polluted sites harbor distinct fungal assemblages. [[mycoremediation]]
-exploits the ability of certain fungi to degrade pollutants including
-petroleum hydrocarbons, heavy metals, and even explosive compounds. Building
-materials support characteristic indoor mold communities, with implications
-for human health. Agricultural soils, shaped by tillage, fertilization, and
-pesticide application, represent dramatically altered fungal landscapes
-compared to their undisturbed counterparts.
-
-## See Also
-
-- [[fungal-biodiversity-estimates]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
+and polluted sites harbor distinct fungal assemblages. [[fungal-biodiversity-estimates]]
 - [[cryptic-fungal-species]]
-- [[fungal-conservation-challenges]]
 - [[environmental-dna-metabarcoding-fungi]]

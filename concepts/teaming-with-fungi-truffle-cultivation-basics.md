@@ -94,13 +94,8 @@ The success of truffle cultivation also demonstrates a broader principle: unders
 
 ## See Also
 
-- [[truffle-cultivation-basics]]
 - [[ectomycorrhizal-host-tree-partnerships]]
-- [[ectomycorrhizal-ecology]]
 - [[ectomycorrhizal-fungal-ecology]]
-- [[ectomycorrhizal-mushroom-fruiting-ecology]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[african-truffle-species]]
-- [[asian-truffle-species]]
 - [[agricultural-chemicals-mycorrhizal-impact]]

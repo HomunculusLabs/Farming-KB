@@ -29,7 +29,7 @@ The most common duration range, typical of the 2C family without alpha-methylati
 Compounds with extended durations requiring significant time commitment:
 - **2C-E** ([[2c-e-compound-profile]]): 8-12 hours
 - **2C-T-7** ([[2c-t-2-compound-profile]]): 8-14 hours
-- **MDA** ([[ayahuasca-and-dmt-plant-medicine]]): 8-12 hours
+- **MDA** ([[mda-compound-profile]]): 8-12 hours
 - **Mescaline** ([[mescaline-compound-profile]]): 10-12 hours
 
 ### Very Long-Acting (14-30+ hours)

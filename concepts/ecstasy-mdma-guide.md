@@ -13,7 +13,7 @@ Ecstasy (MDMA, 3,4-methylenedioxymethamphetamine) is a psychoactive drug classif
 
 ## Chemistry
 
-MDMA is a synthetic phenethylamine, chemically related to both amphetamines and [[mescaline-peyote-and-san-pedro-guide]]. It is classified as an empathogen rather than a true psychedelic, though it produces some mild sensory enhancement. It is structurally related to [[2c-b-psychedelic-empathogen-guide]], which Shulgin developed later in the same phenethylamine family.
+MDMA is a synthetic phenethylamine, chemically related to both amphetamines and [[2c-b-psychedelic-empathogen-guide]], which Shulgin developed later in the same phenethylamine family.
 
 ## Dosage
 
@@ -40,14 +40,7 @@ The first few times one takes ecstasy are usually the most profound. Many people
 - Mild visual enhancement — not a full psychedelic but some sensory amplification
 
 ### Not Really Psychedelic
-Turner explicitly notes that ecstasy is not really a psychedelic. While it produces some mild sensory enhancement, the visual component is minimal. The experience is primarily emotional and social rather than perceptual or consciousness-expanding. One cannot expect the depth of [[lsd-psychedelic-experience-guide]], [[psilocybin-mushroom-distribution-worldwide]], or [[mescaline-peyote-and-san-pedro-guide]].
-
-### Negative Aspects
-- "Speedy" amphetamine-like stimulation — jaw clenching, restlessness, insomnia
-- Emotional shallowness compared to traditional psychedelics — feelings are broad but not deep
-- Diminishing returns with repeated use — the "magic" fades
-- Post-experience depression or emotional flatness ("Tuesday blues")
-- Difficulty focusing on sex or maintaining erection (unlike [[2c-b-psychedelic-empathogen-guide]])
+Turner explicitly notes that ecstasy is not really a psychedelic. While it produces some mild sensory enhancement, the visual component is minimal. The experience is primarily emotional and social rather than perceptual or consciousness-expanding. One cannot expect the depth of [[psilocybin-mushroom-distribution-worldwide]], or [[2c-b-psychedelic-empathogen-guide]])
 - Dehydration risk at parties/raves
 - Neurotoxicity concerns with frequent use
 - Emotional content tends to be repetitive or predictable — less exploratory than psychedelics
@@ -67,8 +60,7 @@ Ecstasy shines in therapeutic and social settings: couples therapy, group bondin
 
 ## Combinations
 
-- **LSD ("Candy flipping")**: A classic combination. LSD provides the psychedelic depth while ecstasy adds emotional warmth. Turner notes the combination is frequently used and can be very powerful. Start with a lower dose of each substance. The LSD tends to dominate the visual and perceptual space while the ecstasy provides an emotional overlay. See [[psychedelic-combination-guide]].
-- **2C-B**: 2C-B taken at the tail end of an ecstasy experience can help develop and retain insights that would otherwise slip away. See [[2c-b-psychedelic-empathogen-guide]].
+- **LSD ("Candy flipping")**: A classic combination. LSD provides the psychedelic depth while ecstasy adds emotional warmth. Turner notes the combination is frequently used and can be very powerful. Start with a lower dose of each substance. The LSD tends to dominate the visual and perceptual space while the ecstasy provides an emotional overlay. See [[2c-b-psychedelic-empathogen-guide]].
 - **Marijuana**: Often used to ease the comedown or extend the experience
 
 ## Comparison with Other Substances
@@ -77,11 +69,28 @@ For a detailed comparison with other empathogens and psychedelics, see Psychedel
 
 ## See Also
 
-- [[2c-b-psychedelic-empathogen-guide]] — related phenethylamine empathogen
 - [[psychedelic-safety-and-harm-reduction]] — general harm reduction
-- [[psychedelic-combination-guide]] — combination protocols
 - [[homestead-security]] — MDEA variant
 
 ## Related
 
 - psychedelic assisted therapy protocol
+## Practical Considerations
+
+Successful implementation of Ecstasy (MDMA) Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

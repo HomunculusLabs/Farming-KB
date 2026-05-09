@@ -3,7 +3,7 @@ title: Fungal Biosorption Mechanisms
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Biosorption Mechanisms
@@ -87,41 +87,7 @@ Fungal biosorption extends to:
 
 ## See Also
 
-- [[fungal-bioaccumulation-vs-biosorption]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[mycofiltration-of-water-contaminants]]
 - [[fungal-biology-fundamentals]]
-- [[fungal-biopesticides]]
-
-## Related
-
 - [[fungal-metal-biosorption-comparative]]
-- [[fungal-chromogens-and-color-change]]
-
-## Cell Wall Modification Through Pretreatment
-
-Chemical and physical pretreatment methods significantly alter fungal cell wall structure and biosorption capacity:
-- **Alkali pretreatment (NaOH):** Dissolves surface impurities and exposes additional binding sites by removing proteins and lipids from the cell wall surface. Alkali treatment also deacetylates chitin to chitosan, increasing the number of free amino groups available for metal coordination. NaOH pretreatment at 0.1-1.0 M for 30-60 minutes typically increases biosorption capacity by 100-300%.
-- **Acid pretreatment (HCl, H2SO4):** Protonates cell wall functional groups, replacing native cations (Ca2+, Mg2+, K+) with H+. This creates an activated biomass with enhanced metal exchange capacity. However, strong acid treatment can damage cell wall polysaccharides and reduce capacity if too aggressive.
-- **Calcium treatment (CaCl2):** Introduces calcium ions that improve the structural integrity of the biomass and create additional ion exchange sites. Calcium-treated biomass shows particularly high affinity for heavy metal cations through Ca2+/metal ion exchange.
-- **Heat treatment:** Autoclaving (121°C, 15-20 minutes) disrupts cell wall structure and can enhance biosorption by 30-50%. However, excessive heat can denature proteins and reduce the availability of amino and sulfhydryl binding sites.
-
-## Multi-Component Systems
-
-Real waste streams rarely contain single metals. Industrial effluents typically contain mixtures of heavy metals along with organic compounds, creating complex biosorption challenges. In binary metal systems, competitive effects depend on the relative affinity of each metal for binding sites and their respective concentrations. Pb2+ and Cu2+ generally outcompete other metals due to their higher electronegativity and smaller hydrated ionic radii. Cd2+ and Zn2+ show mutual competition due to similar chemical properties. In ternary and more complex systems, interactive effects become difficult to predict from single-metal data, necessitating experimental studies with actual waste compositions.
-
-Multi-metal biosorption capacity is generally lower than the sum of individual single-metal capacities, reflecting competition for shared binding sites. However, some studies report synergistic effects where the presence of one metal enhances uptake of another, possibly through changes in cell wall conformation or the creation of new binding sites through metal-induced structural rearrangement. Understanding these interactions is essential for designing effective biosorption systems for real-world applications.
-
-## Advantages Over Conventional Methods
-
-Fungal biosorption offers several advantages over conventional heavy metal removal technologies such as chemical precipitation, ion exchange resins, and membrane filtration. The biomass is widely available as a byproduct of industrial fermentation (e.g., Saccharomyces cerevisiae from brewing, Aspergillus niger from citric acid production), making it a low-cost or negative-cost sorbent. The technology operates at ambient temperature and pressure, requires minimal chemical inputs, and can be applied to dilute waste streams where conventional methods are economically impractical.
-
-## Comparison with Other Biosorbents
-
-While fungal biomass is an effective biosorbent, other biological materials have also been studied for heavy metal removal:
-- **Bacterial biomass:** Certain bacteria (Bacillus, Pseudomonas) show high biosorption capacity but are more expensive to produce at scale than waste fungal biomass.
-- **Algal biomass:** Algae and seaweeds (particularly brown algae like Sargassum) often show higher metal uptake than fungi due to alginate content, but seasonal availability and harvesting costs limit commercial application.
-- **Agricultural waste:** Rice husks, peanut shells, and sawdust show moderate biosorption capacity but require more pretreatment than fungal biomass.
-- **Chitosan-based materials:** Purified chitosan extracted from fungal cell walls or crustacean shells shows excellent biosorption performance but is significantly more expensive than raw fungal biomass.
-
-Despite competition from these materials, fungal biosorption remains attractive because of the sheer volume of waste fungal biomass available from fermentation industries (estimated at millions of tons annually worldwide) and the relatively simple processing required to convert it into effective biosorbent material. See [[mycoremediation-heavy-metals-detailed]] for field applications and [[fungal-heavy-metal-biosorption-detailed]] for quantitative performance data across species and metals.
+- [[mycoremediation-heavy-metals-detailed]] for field applications and [[fungal-heavy-metal-biosorption-detailed]] for quantitative performance data across species and metals.

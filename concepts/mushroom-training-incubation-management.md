@@ -16,44 +16,7 @@ sources:
 # Mushroom Bag Incubation Management
 
 Incubation is the period during which mycelium colonizes the substrate inside each bag after
-[[mushroom-training-inoculation-techniques]]. Proper incubation management is
-critical for achieving high yields during the fruiting phase. The FAO training manual
-provides detailed guidance on incubation conditions, timelines by species, and monitoring
-procedures suitable for farms operated by people with disabilities.
-
-## Preparing the Incubation House
-
-Before introducing newly inoculated bags, the incubation house must be thoroughly prepared:
-
-- Clean around and inside the incubation house using a broom
-- Always inspect for cleanliness before entering with new spawn bags
-- Verify that shelving and racks are in good condition
-- Ensure adequate ventilation controls are functioning
-
-The manual recommends one incubation house for every three fruiting body houses. This ratio
-allows for rotation of mushroom bags through the production cycle, ensuring continuous
-harvests throughout the year.
-
-## Incubation Conditions
-
-After inoculation, substrate bags are transferred to the mushroom incubation house and placed
-on shelves. The following environmental conditions should be maintained:
-
-- Little ventilation and light should be allowed at the beginning
-- After about 10 days, ventilation should be used to regulate desired temperature
-- After 20 to 25 days, the area should be well ventilated and more light can be allowed for
-  constant monitoring
-
-Bags can be placed either horizontally or vertically. Vertical placement takes more space
-but may provide better air circulation around each bag. The choice of orientation may depend
-on the type of shelving system used and the specific needs of the farmer.
-
-## Incubation Periods by Species
-
-Different mushroom species require different incubation times. The following table from the
-FAO manual provides approximate timelines:
-
-### Oyster Mushrooms ([[pleurotus-ostreatus]])
+[[pleurotus-ostreatus]])
 
 | Stage | Timeline |
 |-------|----------|
@@ -64,28 +27,7 @@ FAO manual provides approximate timelines:
 | 4th flush | 14 weeks |
 | 5th flush | 17 weeks |
 
-### Ear Mushrooms ([[auricularia-polytricha]])
-
-| Stage | Timeline |
-|-------|----------|
-| Incubation | 4 weeks |
-| 1st flush | 4 to 5 weeks |
-| 2nd flush | 8 to 9 weeks |
-| 3rd flush | 11 to 12 weeks |
-| 4th flush | 14 to 15 weeks |
-
-### Hed Khon Kao (Lentinus squarrosulus)
-
-| Stage | Timeline |
-|-------|----------|
-| Incubation | 4 to 5 or more weeks |
-| 1st flush | 5 to 6 weeks |
-| 2nd flush | 8 to 9 weeks |
-| 3rd flush | 11 to 12 weeks |
-| 4th flush | 14 to 15 weeks |
-| 5th flush | 17 to 18 weeks |
-
-### Straw Mushrooms ([[volvariella-volvacea]])
+### Ear Mushrooms ([[volvariella-volvacea]])
 
 | Stage | Timeline |
 |-------|----------|
@@ -127,23 +69,29 @@ When contamination is detected, several options are available:
 - Tear the plastic bags off and reuse the sawdust substrate
 - Ferment substrate as compost for gardening
 
-See [[mushroom-training-pest-disease-management]] for detailed
-contamination identification and treatment procedures.
-
-## Transition to Fruiting
-
-When mycelium has fully colonized the substrate (bags appear uniformly white), bags are
-moved to the fruiting body area. The transition involves:
-
-- Cleaning the fruiting body house before transfer
-- Moving bags using a trolley or carrying them carefully
-- Placing bags on shelves in the fruiting house
-- Opening bags according to the specific mushroom type being cultivated
-
-Different species require different bag opening methods. [[mushroom-training-oyster-straw-cultivation]] only need the cotton plug removed, while [[mushroom-training-shiitake-cultivation]] and other species may require cutting the bag at the shoulder or making side cuts.
+See [[mushroom-training-oyster-straw-cultivation]] only need the cotton plug removed, while [[mushroom-training-shiitake-cultivation]] and other species may require cutting the bag at the shoulder or making side cuts.
 
 ## Temperature Management
 
 During incubation, temperature should be maintained between 25 and 35 degrees Celsius. If
 density in the incubation area is too high, accumulated heat from mycelium metabolism can
 raise temperatures beyond optimal levels. Adequate ventilation and spacing of bags helps
+## Practical Considerations
+
+Successful implementation of Mushroom Bag Incubation Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

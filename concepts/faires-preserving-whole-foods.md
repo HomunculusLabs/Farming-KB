@@ -3,66 +3,7 @@ title: Preserving Whole Foods
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Preserving Whole Foods
-
-Food preservation extends the harvest and reduces dependency on constant fresh production. Multiple methods are available, each suited to different foods.
-
-## Food Safety (Botulism Prevention)
-
-Botulism is invisible, tasteless, and odorless. To prevent poisoning:
-- Cook home-preserved food for at least 20 minutes
-- Wash hands frequently during preparation
-- Keep utensils and containers extremely clean
-- Use separate utensils and containers for each food type, especially meat
-
-## Salting Meat
-
-1. Clean meat, cut off unwanted parts. Save fat for clarified fat. Dry with clean cloth, cut into smaller strips
-2. Rub spices into strips, then rub in as much salt as possible (no sodium nitrite products)
-3. Cover with a layer of salt coating
-4. Hang in a place consistently at 59°F (15°C) for at least 3 weeks, checking for spoilage
-5. Stays edible for several months. Salt dissolves into meat water, preventing bacterial growth if balance exceeds 3.5% salt to water (ideally 10%+)
-6. To cook: wash off salt well, may need to soak
-
-## Clarified Fats and Butter (Lard and Ghee)
-
-**Lard (Clarified Fat):**
-1. Save all fats from meat processing, store in freezer until ready
-2. Put in saucepan, simmer on low for a few hours until liquid
-3. Optional: add onions, carrots, leeks, turnips, herbs, spices, salt, pepper for bouillon cubes
-4. Pour through cheesecloth, allow to cool
-5. Lasts years; use in soups, stews, frying
-
-**Ghee (Clarified Butter):**
-1. Melt butter at very low temperature until completely melted — don't stir
-2. Raise heat slightly until steaming — don't let it turn brown
-3. Skim solids from the surface (may take hours)
-4. When butter is golden and completely clear, pour into container
-5. When solid and cool, put lid on tightly
-6. Lasts months at room temperature
-7. Used in cream sauces and frying
-
-## Egg Storage
-
-**Cold storage:** Pack fresh eggs in sawdust or oatmeal, small end down, in wood/plastic/ceramic container. Store at 30-40°F (-1 to 4°C), high humidity. Lasts ~3 months. Don't store near onions.
-
-**Pickling:** Hard-boil eggs, cool in cold water, remove shells. Put in wide-mouthed jars. Soak in brine (1/2 cup salt per 2 cups water) for 2 days. Pour off brine. Heat: 1 quart vinegar + 1/4 cup pickling spice + 2 cloves garlic + 1 tbsp sugar. Pour boiling mixture over eggs. Seal tightly, cure 7 days. Lasts 4-6 months refrigerated.
-
-**Freezing:** Use only fresh, clean eggs (no dirt/manure). Crack into freezer bags — only as many per bag as you'll use at once (can't refreeze). Stir without whipping air, add 1 tbsp sugar OR 1/2 tsp salt per cup of egg. Lasts 8 months.
-
-**Drying:** Beat very fresh eggs, pour onto lined surface 1/8 inch thick. Dry at 120°F (49°C) for 24-36 hours, flip, dry 12-24 more hours. Grind to powder. Use in baking or reconstitute (1/2 cup powder + 1/2 cup water). Lasts 3-4 months.
-
-**Lard coating:** Dip fresh clean eggs in melted lard, dry, buff with towel. Pack in salt in a bucket (no eggs touching). Cool place. Lasts 6 months to 1 year.
-
-See also [[faires-food-drying-and-no-energy-storage]], [[faires-no-energy-food-storage]], [[faires-food-fermentation-methods]], and [[faires-low-energy-refrigeration]].
-
-## See Also
-
-[[faires-orchard-design-and-intercropping]], [[faires-low-energy-refrigeration]], [[preserving-wood-timber-framing]], [[faires-pond-design-and-aquaculture]], [[faires-mimicking-forests]], [[faires-swales-and-water-conservation]], [[faires-duck-and-goose-keeping]], [[faires-city-desert-and-cold-climate-garden-strategies]]
+tags: [[faires-food-drying-and-no-energy-storage]], [[faires-food-fermentation-methods]], and [[faires-orchard-design-and-intercropping]], [[preserving-wood-timber-framing]], [[faires-mimicking-forests]], [[faires-duck-and-goose-keeping]], [[faires-city-desert-and-cold-climate-garden-strategies]]
 
 ## Practical Applications
 
@@ -106,3 +47,62 @@ Designing these connections intentionally creates synergies that multiply the
 benefits of each individual component. The most successful homesteads are those
 where every output becomes an input for another process, closing loops and
 minimizing waste while maximizing productivity and self-reliance.
+## Practical Considerations
+
+When working with Preserving Whole Foods, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

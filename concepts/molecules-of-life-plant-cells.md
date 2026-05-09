@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Molecules of Life in Plant Cells — Proteins, Lipids, and Nucleic Acids
@@ -17,43 +18,7 @@ Carbohydrates are the most abundant organic molecules in plant cells and serve a
 
 ### Types of Carbohydrates
 
-- **Monosaccharides**: Simple sugars like glucose (C6H12O6) and fructose — the direct products of [[photosynthesis-and-chloroplast-function]]
-- **Disaccharides**: Pairs of monosaccharides linked together, such as sucrose (table sugar) which is the primary transport form of sugar in plants
-- **Polysaccharides**: Long chains of monosaccharides used for energy storage and structural support
-
-### Key Functions
-
-- **Energy storage**: Starch (amylose and amylopectin) stores glucose in chloroplasts and amyloplasts for later use
-- **Structural support**: Cellulose, the most abundant organic polymer on Earth, forms rigid cell walls that give plants their shape
-- **Transport**: Sucrose moves through the phloem from source leaves to sink tissues (roots, fruits, growing tips)
-- **Recognition**: Cell surface carbohydrates help plants recognize pathogens and symbiotic partners
-
-### Cellulose and Plant Cell Walls
-
-Cellulose molecules form long, unbranched chains that bundle together into microfibrils. These microfibrils are embedded in a matrix of hemicellulose and pectin, creating a composite material of remarkable strength. This is why wood is so sturdy and why cotton (nearly pure cellulose) is such a useful fiber.
-
-## Proteins
-
-Protein molecules are made of carbon, oxygen, hydrogen, and nitrogen. They are built from twenty amino acids, each with a central carbon atom bonded to a hydrogen atom, an amino group (NH2), a carboxyl group (COOH), and a unique side chain. With just twenty amino acids, a plant cell can form countless combinations to make any protein needed.
-
-### Protein Structure and Function
-
-- Proteins are 10,000 to 100,000 times larger than a single hydrogen atom
-- Composed of peptides — shorter chains of amino acids linked by peptide bonds
-- The order of amino acids and their bonding determines a protein's shape
-- Folding allows proteins to fit into tiny cells and move through cellular membranes and plasmodesmata
-- Protein shapes can be affected by pH, temperature, and chemical signaling
-
-### Amino Acid Categories
-
-Amino acids are classified based on the properties of their side chains, which determine how proteins fold and function:
-
-- **Nonpolar (hydrophobic)**: Tend to cluster inside proteins, away from water
-- **Polar (hydrophilic)**: Often found on protein surfaces where they interact with water
-- **Acidic**: Carry negative charges at cellular pH
-- **Basic**: Carry positive charges at cellular pH
-
-The nitrogen in amino acids comes from soil nitrogen absorbed by roots, which is why adequate [[lowenfels-nutrients-nitrogen-cycle]] is critical for protein synthesis and overall plant health.
+- **Monosaccharides**: Simple sugars like glucose (C6H12O6) and fructose — the direct products of [[lowenfels-nutrients-nitrogen-cycle]] is critical for protein synthesis and overall plant health.
 
 ### Enzymes
 
@@ -117,17 +82,14 @@ Not all genes are active at all times. Plants regulate which genes are expressed
 
 ### Energy for Synthesis
 
-The entire process of protein synthesis is powered by [[adenosine-triphosphate-and-cellular-energy]], which is generated primarily through photosynthesis in chloroplasts and respiration in mitochondria. Without adequate phosphorus and other nutrients from the [[teaming-with-nutrients-composting-and-nutrient-cycling]], plants cannot produce enough ATP to sustain protein synthesis.
+The entire process of protein synthesis is powered by [[teaming-with-nutrients-composting-and-nutrient-cycling]], plants cannot produce enough ATP to sustain protein synthesis.
 
 ## See Also
 
-- [[ph-and-nutrient-availability-garden-soils]]
 - [[nutrient-cycling-in-soil]]
-- [[soil-testing-and-analysis]]
 - [[glomalin-and-soil-carbon]]
-- [[composting-and-soil-biology]]
 - [[soil-microbiology-basics]]
 
 ## Related
 
-- [[composting-and-soil-biology]]
+- [[ozier-pdc-composting-and-soil-building]]

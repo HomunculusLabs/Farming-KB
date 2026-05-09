@@ -15,51 +15,9 @@ type: concept
 
 # Opium History and the Demeter Poppy Goddess
 
-The opium poppy, Papaver somniferum, has been intertwined with human
-civilization for millennia, serving as medicine, sacrament, trade
-commodity, and instrument of empire. Its history reveals deep connections
-to ancient goddess worship, particularly the cult of Demeter, and
-illustrates the complex relationship between psychoactive plants and the
-evolution of human culture.
-
-## The Opium Poppy as Psychoactive Plant
-
-The opium poppy is a major psychoactive plant that evolved in the presence
-of a human food source. In this case, the psychoactivity and nutritional
-value are sectioned off into different parts of the same plant. The seed
-is a delicious and non-psychoactive food, yet when the seed capsule is
-scratched with blade or fingernail, a milky latexlike material accumulates
-and, as it hardens, turns a dark brown. This material is raw opium.
-
-Like the [[psilocybin-compound]] mushroom with its association with cattle, and the
+The opium poppy, [[psilocybin]] mushroom with its association with cattle, and the
 parasitism of ergot on rye and other cereals, the opium poppy represents
-a plant that has co-evolved with human [[mycorrhizal-agricultural-practices]]. This
-pattern of psychoactive plants emerging in relation to human food
-sources is a recurring theme in the ethnobotany of altered states.
-
-## Ancient Egypt and Early Medical Use
-
-Opium in various forms has been in the physicians' armamentarium since at
-least 1600 B.C. An Egyptian medical treatise of that period prescribed
-opium for crying children, just as Victorian nannies dosed infants with
-opiate-laced Godfrey's Cordial to keep them quiet. Poppies and gum opium
-appear in Egyptian funereal arts as well as in the earliest medical
-papyruses. The poppy was known to the Persians in several varieties and
-to the ancient Greeks as "the destroyer of grief."
-
-Theophrastus knew opium as a sleep-inducing drug in 300 B.C., and his
-observations were repeated by Pliny in the first century A.D. with added
-thoughts on opium poisoning. The Greeks consecrated the poppy to Nyx,
-goddess of night, Morpheus, son of Hypnos and god of dreams, and
-Thanatos, god of death. These dedications summarized all its properties.
-
-## Demeter: Goddess of Grain and Poppy
-
-For the Greeks, Demeter was a poppy goddess, bearing sheaves and poppies
-in both hands. The connection between the poppy and the grain goddess
-runs deep. In Minoan texts, the poppy head was used as an ideogram in
-financial tallies. The yield of poppies indicated was so huge that it was
-initially assumed these numbers must refer to grain [[integrate-rather-than-segregate]] opium.
+a plant that has co-evolved with human [[integrate-rather-than-segregate]] opium.
 
 The confusion of grain and poppy is easy to understand since Demeter was
 the goddess of both. The transfer of poppy lore to the Greek Mysteries of
@@ -144,7 +102,6 @@ The British declared war in 1840. The Chinese did not have a chance; the
 war was short and decisive. The Treaty of Tientsin eventually legalized
 the Chinese opium traffic, modeling international drug trading by
 twentieth-century governments.
-
 ## See Also
 
 - [[mckenna-eleusinian-mysteries]]

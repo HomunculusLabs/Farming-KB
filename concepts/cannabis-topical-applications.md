@@ -117,13 +117,6 @@ Adding specific terpenes enhances topical effectiveness:
 | Pinene | Anti-inflammatory, bronchodilator | Pine needles, rosemary, cannabis |
 | Limonene | Antioxidant, skin penetration enhancer | Citrus rind, cannabis |
 
-See [[cannabis-terpene-profile]] for detailed terpene information.
-
-## Related
-- [[cannabis-health-index]] — for conditions and cannabinoid recommendations
-- [[cannabis-thc-therapeutic-profile]] — for THC therapeutic details
+See [[cannabis-health-index]] — for conditions and cannabinoid recommendations
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific therapeutics
-- [[cannabis-tinctures-and-edibles]] — for other consumption methods
-
-## Merged: Cannabis for Hemorrhoids
-The structures of the anus contain channels or hemorrhoids composed of connective tissues filled with small arterial and venous blood vessels that function to make the passing of stool easier. Only when hemorrhoids become inflamed, swollen, or begin to bleed are they cause for concern. - cannabis topical applications for topical preparation methods - [[cannabis-for-gastrointestinal-conditions]] for constipation management - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms - [[cannabis-for-post-surgery-wounds]] for tissue healing applications - [[cannabis-womens-health]] for pregnancy-related hemorrhoids - [[cannabis-health-index]] for the CHI methodology The complete absence of modern controlled studies represents the most significant limitation. In the Western world, about half the population has experienced some form of symptomatic hemorrhoidal issue.
+- [[cannabis-for-gastrointestinal-conditions]] for constipation management - [[cannabis-for-post-surgery-wounds]] for tissue healing applications - [[cannabis-health-index]] for the CHI methodology The complete absence of modern controlled studies represents the most significant limitation. In the Western world, about half the population has experienced some form of symptomatic hemorrhoidal issue.

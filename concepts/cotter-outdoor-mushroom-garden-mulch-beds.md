@@ -1,17 +1,14 @@
 ---
 title: "Outdoor Mushroom Garden Mulch Beds"
 created: 2026-04-28
-tags: [mycology, mushroom-cultivation, wood-chip-bed, king-stropharia, outdoor, mulch]
+tags: [[mycology, mushroom-cultivation, wood-chip-bed, king-stropharia, outdoor, mulch]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# [[outdoor-mushroom-bed-preparation]] Garden Mulch Beds
-
-Cultivating mushrooms outdoors is one of the simplest and most natural forms
-of [[mushroom-cultivation-patent-history]], dating back thousands of years. It can be applied
+# [[mushroom-cultivation-patent-history]], dating back thousands of years. It can be applied
 just about anywhere in the world using local trees and wood debris, making
 it an excellent starting point for beginning cultivators. Compared to indoor
 cultivation, outdoor patches produce somewhat varied yields since you are at
@@ -110,30 +107,5 @@ harvest. Water monthly normally, misting daily when fruit appears.
 In community gardens, mushrooms complement vegetable cultivation
 beautifully. Tall, sun-loving vegetable plants create shade that many
 mushroom species need, while mushroom mycelia unlock soil nutrients and
-encourage [[mycorrhiza]]l relationships with plants. King stropharia thrives
-in hardwood chip mulch and pathway materials. Blewits and almond
-portabellas grow well in manure-based composts. A particularly effective
-strategy is creating organic material heaps to fruit mushrooms first, then
-rotating vegetable crops into the composted mushroom medium the following
-season, building healthy soil in a continuous cycle. Spent vegetation from
-the garden, including squash leaves, cornstalks, and tomato vines, can be
-sun-dried, shredded, and used as substrate for oyster mushrooms or added
-to compost for secondary decomposers.
-
-## Identification and Safety
-
-When cultivating outdoors, spores from competitive species will inevitably
-land and colonize small areas of your substrate. Cultivators need basic
-identification skills including spore prints and mushroom anatomy to
-differentinate cultivated species from wild competitors. After inoculation,
-the several months before fruiting provides time to develop these skills.
-Never identify mushrooms from online image searches alone, as many posted
-photos are mislabeled. Instead, photograph primordia and send images to your
-spawn supplier for verification. Once you have watched a mushroom develop
-through all stages and verified its identity, future harvests of the same
-species become straightforward to identify with confidence.
-
-## See Also
-
-- [[cotter-mushroom-garden-design]]
+encourage [[cotter-mushroom-garden-design]]
 - [[cotter-wood-chip-cultivation-outdoor-beds]]

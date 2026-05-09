@@ -25,17 +25,9 @@ Key characteristics:
 - Builds soil and supports biodiversity
 - Produces diverse yields with minimal input
 
-The [[food-forest-design]] process starts long before any trees go in the ground.
-
-## Step 1: Observe Your Site
-
-The first step is observing your site for at least one full year.
-
-Track and document: sun patterns through seasons, water flow and drainage, soil type and depth, slope and aspect, prevailing winds, existing vegetation, and wildlife patterns. The [[food-forest-design-guide]] recommends creating a base map and overlaying these observations.
+The [[food-forest-design-guide]] recommends creating a base map and overlaying these observations.
 
 ## Step 2: Understand the Seven Layers
-
-The [[food-forest-layers-and-species]] concept is essential for planning.
 
 The [[forest-garden-seven-layers]] reference details each layer:
 
@@ -53,35 +45,7 @@ Filling every niche maximizes productivity and creates a self-maintaining system
 
 ## Step 3: Design Your Zones
 
-The [[permaculture-forest-garden-design]] approach uses zone planning:
-
-- **Zone 1** (closest to house): herbs, salad greens, daily-use plants
-- **Zone 2**: fruit trees, berry bushes, frequently harvested plants
-- **Zone 3**: main food forest, larger trees, occasional harvest plants
-- **Zone 4**: food forest edges, foraging, timber, grazing
-- **Zone 5**: wild area, habitat, observation only
-
-Place the food forest in zones 2-4, with the most intensively managed areas closest to your kitchen.
-
-## Step 4: Plant Support Trees First
-
-Begin with the canopy and support species.
-
-Nitrogen-fixing support trees build soil fertility for productive trees:
-- **Black locust** - fast-growing, excellent nitrogen fixer, rot-resistant wood
-- **Honey locust** - light canopy, edible pods, good support tree
-- **Red alder** - fast nitrogen fixer, good for wet sites
-- **Autumn olive** - nitrogen fixer, edible berries, wildlife habitat
-- **Mimosa** (silk tree) - nitrogen fixer, beautiful flowers
-
-These support trees can be:
-- Coppiced for mulch and biomass
-- Thinned as fruit trees mature
-- Used for firewood or mushroom inoculation
-
-## Step 5: Design Plant Guilds
-
-[[permaculture-plant-guilds]] are the building blocks of a food forest.
+The [[permaculture-plant-guilds]] are the building blocks of a food forest.
 
 A guild is a group of plants working together in mutual support, centered around a fruit tree.
 
@@ -134,15 +98,10 @@ Timing and sequencing are critical for food forest establishment:
 
 ## Key Points
 
-- Start with thorough site observation and design; see [[food-forest-design-guide]]
-- [[food-forest-layers-and-species]] and [[forest-garden-seven-layers]] provide the framework
-- Begin with nitrogen-fixing support trees, then add fruit trees, shrubs, herbs, and ground covers
-- [[permaculture-plant-guilds]] are the functional building blocks for mutual support
+- Start with thorough site observation and design; see [[food-forest-layers-and-species]] and [[permaculture-plant-guilds]] are the functional building blocks for mutual support
 - A food forest takes 5-10 years to reach full productivity but yields begin within 2-3 years
 
 ## Related
 
-- [[query-how-to-start-growing-mushrooms-at-home]] Questions
-
 - [[query-what-are-the-12-permaculture-principles]]
-- [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
+- [[holzer-raised-bed-techniques-hugelkultur]]

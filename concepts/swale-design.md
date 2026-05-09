@@ -83,23 +83,14 @@ Sediment accumulation in swale bottoms gradually reduces infiltration capacity. 
 
 ## See Also
 
-[[permaculture-earthworks]]
-
-[[permaculture-water-harvesting-earthworks]]
-
 [[permaculture-earthworks-and-water-harvesting]]
 
 [[keyline-design]]
 
-[[urban-permaculture-rainwater-harvesting-graywater]]
-
 [[permaculture-dam-design]]
-
-[[permaculture-design]]
 
 [[permaculture-climate-strategies]]
 
 ## Related
 
-- [[mollison-dam-types-landscape-placement]]
 - [[mollison-soil-erosion-control]]

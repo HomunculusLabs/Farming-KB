@@ -140,9 +140,6 @@ the parents from F2 seeds.
 
 ## See Also
 
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-breeding-selection-principles-clarke]]
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]
 - [[cannabis-sex-determination-floral-biology]]

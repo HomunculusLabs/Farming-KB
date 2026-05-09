@@ -3,7 +3,7 @@ title: Village Design
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, site-design, community-finance]
+tags: [[permaculture, site-design, community-finance]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -118,15 +118,8 @@ A mix provides much more for needs and age differences than traditional family h
 
 ## Trust Structures
 
-See [[permaculture-designers-manual-legal-structures]] for Trust A (land trust) and Trust B (trading trust) details.
-
-## Related Topics
-
-- [[permaculture-designers-manual-legal-structures]] - Trust and legal frameworks
-- [[permaculture-designers-manual-bioregional-planning]] - Regional organisation
+See [[permaculture-designers-manual-legal-structures]] - Trust and legal frameworks
 - [[permaculture-designers-manual-designer-checklist]] - Development planning
-- [[permaculture-designers-manual-plant-nursery]] - Nursery as village facility
 - [[permaculture-designers-manual-dam-construction]] - Village water supply
-- [[permaculture-designers-manual-legal-and-social-structures]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-food-forest-guilds]]

@@ -19,8 +19,7 @@ Most fundamental studies on animals were carried out by Dr. Aurelio Cerletti in
 the Sandoz pharmacological department, headed by Professor Ernst Rothlin.
 
 The research program required extensive pharmacological testing on animals
-before systematic [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] with human subjects could begin. These
-experiments had to assay the assimilation and elimination [[mckenna-discovery-and-impact-of-lsd]] in organisms,
+before systematic [[mckenna-discovery-and-impact-of-lsd]] in organisms,
 and above all its tolerance and relative toxicity. Hofmann noted that it would
 have greatly exceeded the scope of his book to mention all the results of the
 several hundred pharmacological investigations conducted worldwide in connection
@@ -75,75 +74,9 @@ tablets containing 0.025 mg (25 mcg), and ampoules of 1 ml containing 0.1 mg
 (100 mcg) for oral administration. The solution could also be injected
 subcutaneously or intravenously, producing identical effects but more rapidly.
 
-The prospectus listed the properties, method of administration, indications [[turner-harmala-alkaloids-preparation-and-dosage]], precautions, and antidote information. The effect of Delysid sets in
-after 30 to 90 minutes and generally lasts 5 to 12 hours, though intermittent
-disturbances of affect may occasionally persist for several days.
-
-## Two Indications
-
-The Sandoz prospectus specified two primary indications for Delysid:
-
-### Analytical Psychotherapy
-
-For eliciting release of repressed material and providing mental relaxation,
-particularly in anxiety states and obsessional neuroses. The initial dose was
-25 mcg, increased at each treatment by 25 mcg until the optimum dose (usually
-between 50 and 200 mcg) was found. Individual treatments were recommended at
-intervals of one week.
-
-### Experimental Studies on Psychoses
-
-By taking Delysid himself, the psychiatrist could gain insight into the world of
-ideas and sensations of mental patients. Delysid could also be used to induce
-model psychoses of short duration in normal subjects, facilitating studies on
-the pathogenesis of mental disease. In normal subjects, doses of 25 to 75 mcg
-were generally sufficient (on average 1 mcg/kg body weight). In certain forms
-of psychosis and chronic alcoholism, higher doses were necessary (2 to 4 mcg/kg
-body weight).
-
-## Precautions and Antidote
-
-The prospectus warned that pathological mental conditions could be intensified
-by Delysid, with particular caution necessary in subjects with suicidal
-tendencies and cases where psychotic development appeared imminent. The psycho-
-affective liability and tendency toward impulsive acts could occasionally last
-for some days. Delysid was to be administered only under strict medical
-supervision, with the supervision continued until the effects had completely
-worn off. The mental effects could be rapidly reversed by intramuscular
-administration of 50 mg chlorpromazine.
-
-## Worldwide Distribution
-
-Sandoz distributed LSD free of charge to qualified experimental and clinical
-investigators around the world. The substance was made available under strict
-controls, with investigators required to submit reports on their findings. This
-policy resulted in an enormous body of research literature spanning pharmacology,
-neurology, and psychiatry.
-
-## From Remedy to Inebriant
-
-During the first years after its discovery, LSD brought Hofmann the same
-gratification that any pharmaceutical chemist would feel on learning that a
-substance might develop into a valuable medicament. This joy was tarnished after
-more than ten years of uninterrupted [[psilocybin-isolation-and-early-scientific-research]] when LSD was swept up
+The prospectus listed the properties, method of administration, indications [[psilocybin-isolation-and-early-scientific-research]] when LSD was swept up
 in the wave of inebriant mania that spread over the Western world, above all
-the [[psychedelic-research-legal-history-united-states]], at the end of the 1950s.
-
-The spread from medicine into the drug scene was introduced by sensational
-magazine reports on LSD experiments carried out in psychiatric clinics. Sidney
-Katz participated in an experiment at the Saskatchewan Hospital in Canada under
-the supervision of noted psychiatrists, but his account appeared not in a
-medical journal but in MacLean's Canada National Magazine as "My Twelve Hours as
-a Madman." The German magazine Quick reported a "daring scientific experiment"
-by the painter Wilfried Zeller. A 1959 Look magazine article on Cary Grant's
-LSD psychotherapy contributed enormously to the diffusion of LSD consumption.
-
-## The Role of Timothy Leary
-
-The evolution of LSD from remedy to inebriating drug was primarily promoted by
-
-- [[timothy-leary-harvard-psilocybin-experiments]]
+the [[timothy-leary-harvard-psilocybin-experiments]]
 ## See Also
 
-- [[sandoz-pharmaceuticals]]
 - [[hofmann-leary-case-and-harvard-research]]

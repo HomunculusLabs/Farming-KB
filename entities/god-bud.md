@@ -103,18 +103,11 @@ God Bud became one of the flagship strains representing Canadian cannabis geneti
 
 ## See Also
 
-- [[og-kush]]
 - [[granddaddy-purple]]
-- [[purple-haze]]
 - [[northern-lights]]
-- [[cannabis-blue-dream]]
 - [[white-widow-entity]]
-- [[skunk-1]]
 - [[jack-herer]]
-- [[chemdawg]]
 - [[girl-scout-cookies]]
-- [[big-bud]]
 - [[master-kush]]
-- [[romulan]]
-- [[cannabis-indoor-growing-guide]]
+- [[cannabis-indoor-growing-basics]]
 - [[green-crack]]

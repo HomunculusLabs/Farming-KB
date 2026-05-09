@@ -131,7 +131,6 @@ contraindicated in pregnancy.
   under Federal Analog Act
 - **UK:** Controlled under Psychoactive Substances Act (2016)
 - **Australia:** Schedule IX; **Canada:** Schedule III CDSA
-
 ## Related Compounds
 
 - **LSD:** Diethylamide analog; ~10–30× more potent, longer duration
@@ -141,10 +140,7 @@ contraindicated in pregnancy.
 
 ## See Also
 
-- [[lysergic-acid-amide]]
 - [[lsd]]
-- [[claviceps-purpurea]]
 - [[ipomoea-tricolor]]
-- [[argyreia-nervosa]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - ergine entity

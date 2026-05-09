@@ -71,43 +71,7 @@ whenever possible to capture strains already adapted to local conditions.
 Seal agar plates with tape or Parafilm and refrigerate for months, up to a
 year. Store sealed cultures in plastic ziplock bags for extra protection against
 drying and for maintaining cleanliness when moving between fridge and laminar
-hood. Be aware that alcohol dissolves permanent marker labeling.
-
-### Making Backups
-
-Duplicates of cultures are essential -- think of it as backing up a computer
-hard drive. Backup cultures should be the purest form maintained. Store
-collections in multiple forms at multiple locations to protect against power
-outages, fire, or natural disaster. Cotter stores duplicates of important
-cultures in liquid form in friends' and family's refrigerators.
-
-### Submerged Agar Cubes
-
-Slice a fully colonized plate into small cubes and transfer to a test tube half
-filled with sterile water. Refrigerate with cubes fully submerged. When needed,
-fish out a cube with a sterile tool. This method preserves viability for over a
-year. Sterilized mineral oil can substitute for water with even higher success
-rates, but oil must be rinsed away in sterile water before use.
-
-### Agar Slants
-
-A common short-term storage method. Mix agar formula with warm water, fill test
-tubes one-third full, and sterilize for 20-30 minutes. After autoclaving, cool
-tubes at an angle (slanted) to create a long slope of agar inside the tube.
-Transfer cultures by cutting a small wedge of mycelium from a purified plate.
-Store tubes in the refrigerator for up to a year or longer. Keep blank,
-pre-poured slants ready for instant backup to avoid firing up the sterilizer
-repeatedly.
-
-### Colonized Grain Storage
-
-Many species store for years on colonized grain submerged in sterile water in
-large tubes or jars. One 50 ml centrifuge tube of colonized grain can last a
-year, pulling out a few grains as needed. The water coating insulates
-cold-sensitive species from refrigeration damage.
-
-Mineral oil can replace water for difficult-to-store species, especially
-cold-sensitive tropical strains like paddy straw ([[volvariella-volvacea]]) that
+hood. Be aware that alcohol dissolves [[volvariella-volvacea]]) that
 die below 50 degrees F (10 degrees C) within a week of general refrigeration.
 
 ### Freezing (Cryopreservation)
@@ -144,6 +108,5 @@ wet cardboard following cardboard culture techniques.
 
 ## See Also
 
-- [[cotter-agar-tissue-culture-techniques]] -- producing clean cultures
 - [[cotter-grain-spawn-production]] -- expansion and generation tracking
 - [[cotter-laboratory-setup]] -- lab design and equipment

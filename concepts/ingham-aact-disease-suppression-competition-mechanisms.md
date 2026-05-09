@@ -84,67 +84,10 @@ for resistant pathogen strains.
 
 ### 4. Predation
 
-The soil foodweb includes predators: protozoa that consume bacteria, and nematodes that consume both bacteria and fungi. When AACT maintains a balanced foodweb, these predators consume pathogenic organisms along with others. Predatory nematodes, beneficial fungi like [[trichoderma]], and other consumers keep pathogen populations in check through grazing pressure.
+The soil foodweb includes predators: protozoa that consume bacteria, and nematodes that consume both bacteria and fungi. When AACT maintains a balanced foodweb, these predators consume pathogenic organisms along with others. Predatory nematodes, beneficial fungi like [[aact-disease-suppression-mechanisms-ingham]]
 
-## Aerobic vs. Anaerobic Disease Suppression
-
-Ingham draws a sharp distinction between how aerobic and anaerobic teas
-suppress disease, describing the mechanisms as "very, very different."
-
-### Aerobic Tea Mechanisms
-
-Aerobic compost tea uses competition for foods, space, and infection sites,
-and predation — none of which are toxic inhibition mechanisms. These are
-mechanical and ecological means of preventing pathogen growth. Ingham
-compares it to how cats control mice: not through poison, but through
-predation and occupation of territory.
-
-### Anaerobic Tea Mechanisms
-
-Anaerobic teas, by contrast, suppress disease through antibiotic and
-inhibitory compound production. Facultative anaerobic organisms produce
-metabolites that are directly toxic to other organisms. While effective in
-some cases, this approach carries risks: the same toxic compounds can harm
-beneficial organisms, anaerobic conditions can support growth of human
-pathogens like E. coli and Salmonella, and Ingham prefers aerobic methods
-for their broader safety and consistency.
-
-## Why Competition-Based Suppression Is Superior
-
-The competitive approach has several advantages over chemical or
-antibiotic-based suppression:
-
-- **No resistance development**: Competition mechanisms do not select for resistant pathogen strains the way antibiotics do. Pathogens cannot develop resistance to being outcompeted for food and space.
-- **Broad spectrum**: AACT suppresses a wide range of diseases simultaneously because it works through general ecological principles rather than specific chemical interactions.
-- **Plant support**: The same beneficial organisms that suppress disease also cycle nutrients, improve soil structure, and support plant growth.
-- **No phytotoxicity**: Because no toxic compounds are involved, there is no risk of damaging plant tissue through over-application.
-- **Self-regulating**: The system naturally maintains balance through predator-prey dynamics and resource competition.
-
-## Disease Cases and Application Timing
-
-Ingham documents success with numerous diseases through competitive
-suppression including fungal foliage diseases (powdery mildew, downy
-mildew, black spot, sooty mold, rust, anthracnose, late blight, brown rot,
-cedar apple rust) and soil-borne diseases (Fusarium, Rhizoctonia,
-Verticillium wilt).
-
-Because AACT suppresses disease through competition rather than toxic
-action, application timing is critical. The tea must be applied before
-disease pressure builds, establishing beneficial populations in advance.
-Once a disease outbreak is severe, the competitive advantage may have
-already shifted to the pathogen.
-
-## The Plant's Role
-
-The system only works when the plant is healthy enough to support the
-beneficial community. A stressed plant produces fewer exudates, reducing
-the food available to beneficial organisms. This creates a feedback loop:
-poor plant health leads to reduced beneficial populations, which leads to
-increased disease pressure, which further stresses the plant.
+- [[ingham-aact-disease-suppression]]
 
 ## See Also
 
-- [[aact-disease-suppression-mechanisms-ingham]]
-
-- [[actively-aerated-compost-tea]]
-- [[ingham-aact-disease-suppression]]
+- [[ingham-aact-disease-suppression-through-food-competition]]

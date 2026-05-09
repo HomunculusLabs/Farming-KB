@@ -114,11 +114,7 @@ harvestable ranges throughout winter.
 
 ## Related Concepts
 
-- [[coleman-row-cover-fabric-management]] — selecting and managing row
-  cover materials
 - [[coleman-unheated-greenhouse-design]] — the outer protective layer
-- [[coleman-high-tunnel-cold-frame-design]] — structural options for
-  protected growing
 - [[coleman-winter-harvest-philosophy]] — the conceptual foundation for
   season extension
 - [[coleman-moveable-greenhouse-system]] — an advanced approach to

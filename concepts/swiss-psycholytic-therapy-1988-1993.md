@@ -67,39 +67,7 @@ One of the most remarkable applications was the treatment of terminal patients. 
 - Even the most severe forms of pain disappeared entirely
 - Relief from pain and anxiety continued after the drug's acute effects had worn off
 - LSD was the most widely studied substance in this context
-- DPT (dipropyltryptamine), a synthetic drug structurally similar to [[query-what-is-the-difference-between-psilocybin-and-psilocin]], was also used (active only when administered by injection)
-
-S. Grof's book provides detailed analysis of these successful treatments, documenting cases where all previous methods of treatment had failed completely.
-
-## A Remarkable Case Study
-
-### The Swiss Woman's Second Journey
-
-Gartz recounts a detailed account from a young Swiss woman's second mushroom experience. Her first experiment with [[psilocybe-cubensis-potency-variation-by-flush]] had already introduced her to mystical experiences. For her second journey, she used 20 [[psilocybe-semilanceata]] mushrooms in a group ritual:
-
-She describes transforming into the Goddess Kali, encountering a guide with a face "turned green, covered with moss" and "horns -- a kind face, yet full of cunning, a little devil's face, like Pan's." She experienced:
-
-- "Infinite harmony, a light that seemed to come from everywhere and nowhere at all"
-- "Consciousness beyond body and barriers, infinite, all-consuming"
-- "An infinite, universal love that embraces everything"
-- "A plane of utter harmony, devoid of contrasts such as good and evil"
-- "The overwhelming peace of a spirituality both cosmic and infinite"
-
-Her post-experience insight: "I realized that even my deepest agonies had become insignificant 'on the other side.' Furthermore, I understood that all the religions with their sets of rules had been created at one time or another for the sole purpose of providing guidelines for humanity, yet excessively narrow interpretations of these rules have rendered them all but irrelevant."
-
-## Valentina Pavlovna's Early Vision
-
-R.G. Wasson's wife Valentina Pavlovna made remarkable observations written in the wake of experiencing the effects of her self-experiment with Mexican magic mushrooms. A medical doctor by profession, she predicted as early as 1957 that the substance would:
-
-- Become a significant new tool in the study of psychic processes
-- Benefit the treatment of alcoholism and drug addiction
-- Help ease the suffering of terminally ill patients with severe pain
-
-It was several years later that researchers, unaware of Pavlovna's article, began treating these very same conditions with LSD -- a substance Gartz notes is "much harder on the patients' systems than psilocybin."
-
-## Gartz's Advocacy
-
-Gartz argues forcefully for the medical use of [[query-what-is-the-difference-between-psilocybin-and-psilocin]], describing it as "a basically non-toxic substance" whose use with terminally ill patients should be permitted. He writes: "The promise of easing the suffering of dying patients alone should be reason enough to allow the use of psilocybin and related substances, considering the reality of fatal illness as one of the grimmer universals of human existence."
+- DPT (dipropyltryptamine), a synthetic drug structurally similar to [[psilocybe-cubensis-potency-variation-by-flush]] had already introduced her to mystical experiences. For her second journey, she used 20 [[query-what-is-the-difference-between-psilocybin-and-psilocin]], describing it as "a basically non-toxic substance" whose use with terminally ill patients should be permitted. He writes: "The promise of easing the suffering of dying patients alone should be reason enough to allow the use of psilocybin and related substances, considering the reality of fatal illness as one of the grimmer universals of human existence."
 
 He challenges the psychiatric establishment: "Many psychiatrists and pharmacologists maintain that the mystical aspects of hallucinogenic substances should be described more accurately as psychotic in nature, and that repeated manifestations of these symptoms are cause for worry and concern, since their existence and nature cannot be explained. The convictions behind these beliefs, however, pale compared to the promise of being able to provide that which strikes at the very essence of practicing medicine: to help patients endure the ultimate anguish of impending death, while making sure they are not left alone to deal with pain and fear."
 
@@ -109,8 +77,6 @@ Gartz predicted that psilocybin would stand out as "the most valuable and benefi
 
 ## See Also
 
-- [[psilocybin-psychotherapy-research-history]] -- Broader historical overview
 - [[psilocybin-toxicity-and-safety-profile]] -- Safety data supporting clinical use
-- [[lsd-history]] -- The primary substance used in terminal patient treatment
 - [[timothy-leary-harvard-psilocybin-experiments]] -- Earlier American research
 - psychedelic assisted therapy protocol -- Modern protocols

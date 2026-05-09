@@ -112,10 +112,6 @@ change the way man lives.
 
 ## See Also
 
-- [[fukuoka-natural-farming-philosophy-green-philosophy]]
-
 - [[fukuoka-five-principles-natural-farming]]
-- [[fukuoka-straw-rice-without-plowing]]
 - [[fukuoka-straw-soil-building]]
-- [[fukuoka-straw-pest-control-natural-balance]]
 - [[fukuoka-straw-healing-the-earth]]

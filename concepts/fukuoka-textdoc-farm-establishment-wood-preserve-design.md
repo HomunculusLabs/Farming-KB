@@ -138,8 +138,6 @@ These methods activate the latent fertility of even depleted, granular soil, rap
 ## See Also
 
 - [[fukuoka-textdoc-natural-soil-management]]
-- [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - [[fukuoka-orchard-without-pruning]]
-- [[fukuoka-wood-preserve-shelterbelt-design]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]

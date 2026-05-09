@@ -1,20 +1,7 @@
 ---
 title: Mushroom Nutrition
 created: 2026-04-28
-tags: [mycology, botany, fungal-physiology]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
-type: concept
----
-
-# Mushroom Nutrition
-
-The nutritional biology of growing gourmet cloning reveals a fungus that is
-far more adaptable than traditional practice suggests. While commercial
-growing has always depended on fermented stable manure, laboratory
-experiments demonstrate that [[agaricus-campestris]]
+tags: [[agaricus-campestris]]
 can grow on chemically defined synthetic media, raising important
 questions about what the mushroom truly requires.
 
@@ -82,15 +69,7 @@ protein contribution.
 ## Nutritional Strategies by Species
 
 Different mushroom species have evolved distinct nutritional strategies.
-Primary decomposers like [[oyster-mushrooms]] (Pleurotus spp.) can colonize
-fresh lignocellulose directly, while secondary decomposers like Agaricus
-bisporus require substrate that has been partially broken down by
-composting microorganisms. This distinction determines cultivation
-approaches: primary decomposers grow on pasteurized straw or sawdust,
-while secondary decomposers need fully composted substrate with specific
-microbial communities established during the composting process.
-
-Carbon-to-nitrogen ratio (C:N) is a critical parameter in [[mushroom-substrate-formulation]]. Most cultivated species prefer a C:N ratio between
+Primary decomposers like [[mushroom-substrate-formulation]]. Most cultivated species prefer a C:N ratio between
 25:1 and 40:1. Too much nitrogen promotes bacterial contamination and
 ammonia accumulation, which is toxic to mycelium. Too little nitrogen
 limits mycelial growth and reduces yields. Supplementing substrates with
@@ -99,6 +78,5 @@ increase yields by 30-100%, but requires careful calculation to avoid
 exceeding the species' tolerance for free ammonia.
 ## See Also
 
-- [[mushroom-compost-preparation]]
 - [[agaricus-campestris]]
 - [[mushroom-spawn-making-detailed]]

@@ -17,28 +17,7 @@ type: concept
 
 # Psilocybin Mushroom Cultural Artifacts
 
-The [[psilocybin-mushroom-image-guide-bruising-reactions]] from Erowid documents a
-fascinating collection of mushroom-related cultural artifacts and art
-spanning thousands of years and multiple continents. These objects
-provide tangible evidence of the deep cultural significance that
-psychoactive mushrooms have held in human societies, from ancient
-Mesoamerican civilizations to contemporary Southeast Asian artistic
-traditions.
-
-## West African Mushroom Figurines
-
-The image guide includes a color photograph of four West African
-mushroom figurines. Three of the statues are from the private
-collection of a collector known as Anubis, while the fourth statue,
-positioned on the far left, is reproduced from Joseph Campbell's
-influential work "The Way of the Animal Powers." The photograph was
-contributed by Anubis and used by Erowid with permission.
-
-### Cultural Context
-
-West African mushroom figurines represent an important but often
-overlooked aspect of African ethnomyological heritage. While much of
-the popular attention on [[archaeology-of-psychedelic-mushroom-use]] has focused on
+The [[archaeology-of-psychedelic-mushroom-use]] has focused on
 Mesoamerica, anthropological evidence suggests that psychoactive
 mushrooms have also been used in various African cultural and
 spiritual contexts. These figurines may represent ceremonial objects,
@@ -66,24 +45,14 @@ ancient Greek and Mesoamerican traditions.
 ### Historical Significance
 
 These terra cotta figurines from the early centuries of the Common
-Era provide [[mexican-mushroom-stones-archaeological-evidence]] of the antiquity of mushroom
-veneration in Mesoameripsilocybin-mushroomsimately A.D. 100, they
-predate the Spanish conquest by over 1,400 years and demonstrate
-that psychoactive mushrooms held cultural and likely religious
-significance long before European contact. The figurines likely
-represent stylized depictions of psilocybin mushrooms, possibly
-Psilocybe species native to the region.
-
-Peter T. Furst's discovery and documentation of these artifacts was
-instrumental in establishing the deep historical roots of mushroom use
-in [[shroom-mesoamerican-civilization]]. His work, along with R. Gordon Wasson,
+Era provide [[shroom-mesoamerican-civilization]]. His work, along with R. Gordon Wasson,
 helped transform understanding of psychoactive mushrooms into a subject
 of serious anthropological and historical richard evans schultesushroom Stones (1000 B.C. to 500 A.D.)
 
 The image guide includes two separate photographs, each showing
 four mushroom stones from Mexico, dating to the period between
 1000 B.C. and 500 A.D. Both photographs are sourced from "Food
-of the Gods" by Richard Evans Schultes and [[albert-hofmann]], two
+of the Gods" by Richard Evans Schultes and gordon-wasson, two
 of the most important figures in ethnobotany and psychedelic
 research.
 
@@ -143,8 +112,6 @@ Together, these artifacts span roughly three millennia of human
 engagement with psychoactive mushrooms. From the ancient mushroom
 stones of Mesoamerica to the terra cotta figurines of early Mexico,
 from West African sculptural traditions to contemporary Balinese
-textile art, the collection demonstrates that mushrooms have inspired
 ## See Also
 
-- [[african-psilocybin-mushroom-guide]]
 - [[asian-psilocybin-mushroom-guide]]

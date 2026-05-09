@@ -86,11 +86,7 @@ Psilocybin mushrooms generally require high humidity for fruiting, with relative
 
 ## Substrate Preferences and Nutritional Ecology
 
-All psilocybin mushrooms are saprophytic, meaning they obtain nutrients by decomposing dead organic matter, but they vary in their substrate specificity. Lignicolous species such as P. cyanescens, P. azurescens, and P. stuntzii decompose woody materials including hardwood chips, sawdust, and woody debris from alder, Douglas fir, and other tree species. These species produce the white-rot enzymes [[lignin-peroxidase-mechanism]] and manganese peroxidase that break down lignin, one of the most recalcitrant components of wood. Terricolous species such as P. semilanceata, P. strictipes, and P. mexicana grow in association with grass roots and decaying grass material, decomposing cellulose and hemicellulose in grass tissues. Coprophilous species like P. cubensis and Panaeolus cyanescens specialize in decomposing herbivore dung, which provides a nitrogen-rich, pre-digested substrate. The nutritional ecology of each species determines its habitat preferences and explains why certain species are found only in specific environments despite having wide geographic distributions.
-
-## Mycorrhizal and Endophytic Associations
-
-While all known psilocybin mushrooms are classified as saprophytes, some species may form weak or facultative associations with living plant roots that blur the line between saprotrophy and mycorrhizal symbiosis. P. semilanceata, for example, is often found in grasslands where its mycelium appears closely associated with grass root systems, leading some researchers to suggest an endophytic or weakly mutualistic relationship. P. azurescens has been observed fruiting from the root zones of living grasses and shrubs in coastal dune ecosystems. These associations, whether truly mycorrhizal or simply rhizosphere commensalism, may help explain why certain Psilocybe species are found repeatedly in specific plant communities. The practical implication for [[mushroom-log-cultivation]] is that mimicking the natural plant-fungal association may improve fruiting outcomes for some species that are difficult to cultivate using standard substrate-only approaches.
+All psilocybin mushrooms are saprophytic, meaning they obtain nutrients by decomposing dead organic matter, but they vary in their substrate specificity. Lignicolous species such as P. cyanescens, P. azurescens, and P. stuntzii decompose woody materials including hardwood chips, sawdust, and woody debris from alder, Douglas fir, and other tree species. These species produce the white-rot enzymes [[mushroom-log-cultivation]] is that mimicking the natural plant-fungal association may improve fruiting outcomes for some species that are difficult to cultivate using standard substrate-only approaches.
 
 ## Conservation Concerns
 
@@ -98,24 +94,13 @@ Several psilocybin mushroom species face conservation threats despite their ecol
 
 ## Sclerotia Formation and Ecological Survival Strategies
 
-Several psilocybin species produce sclerotia, hardened masses of dense mycelium that serve as survival structures during periods of environmental stress. Sclerotia formation is most commonly observed in species from arid or semi-arid grassland habitats where seasonal drought and fire are regular occurrences. P. mexicana and P. tampanensis are the best-known sclerotium-producing species. Sclerotia can survive underground for months or years without moisture, remaining dormant until favorable conditions return. They contain both nutrient reserves and viable mycelial tissue capable of regrowing when rehydrated. In the context of [[mushroom-log-cultivation]], sclerotia are valued because they can be harvested without requiring the environmental triggers needed for fruiting body formation, making them easier to produce indoors. The ability to form sclerotia is shared with many non-psychoactive fungi and represents an ancient ecological strategy for persistence in variable environments. The "philosopher's stones" produced by P. tampanensis are among the most well-known sclerotia in cultivation, noted for their potency and long storage life.
+Several psilocybin species produce sclerotia, hardened masses of dense mycelium that serve as survival structures during periods of environmental stress. Sclerotia formation is most commonly observed in species from arid or semi-arid grassland habitats where seasonal drought and fire are regular occurrences. P. mexicana and P. tampanensis are the best-known sclerotium-producing species. Sclerotia can survive underground for months or years without moisture, remaining dormant until favorable conditions return. They contain both nutrient reserves and viable mycelial tissue capable of regrowing when rehydrated. In the context of [[fungal-interactions-soil-fauna]] that maintain ecosystem function. In grassland ecosystems, the extensive mycelial networks of terricolous Psilocybe species may contribute to soil aggregation and water retention, improving conditions for plant growth in the same habitats where the mushrooms fruit.
 
-## Role in Ecosystem Function and Food Webs
-
-Psilocybin mushrooms play ecological roles in their ecosystems that extend beyond their decomposition of organic matter. As decomposers, they contribute to nutrient cycling by breaking down complex plant polymers and releasing minerals and nutrients back into the soil. Their fruiting bodies serve as food for various invertebrates including slugs, snails, and insect larvae, which in turn become prey for birds and other animals. Some research suggests that the psilocybin and related tryptamine compounds produced by these fungi may have evolved as chemical defenses against insect predation, though this hypothesis remains debated. The mycelial networks of psilocybin mushrooms interact with other soil microorganisms including bacteria and other fungi, competing for resources and contributing to the complex web of [[fungal-interactions-soil-fauna]] that maintain ecosystem function. In grassland ecosystems, the extensive mycelial networks of terricolous Psilocybe species may contribute to soil aggregation and water retention, improving conditions for plant growth in the same habitats where the mushrooms fruit.
-
-- [[mycelium-running-filtering-water-with-fungi]]
 - [[psilocybin-mushroom-habitats-ecology]]
-- [[mushroom-habitats-and-ecological-niches]]
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-- [[mushroom-cultivation-fruiting-chambers]]
 - [[psilocybin-mushroom-identification-field-guide]]
-- [[mushroom-foraging-safety]]
 - [[fungal-succession-patterns]]
-- [[garden-insect-identification]]
 - [[psilocybe-weilii-species-profile]]
-- [[mushroom-pasteurization]]
 - [[rare-endangered-fungi-conservation]]
-- [[fungal-biogeography]]
 - [[mushroom-spore-catapult-mechanism]]
 - [[psilocybin-mushroom-taxonomy]]

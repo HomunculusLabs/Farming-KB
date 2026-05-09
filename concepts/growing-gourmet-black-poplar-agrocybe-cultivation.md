@@ -82,45 +82,7 @@ mushroom is better grown from horizontal surfaces than vertical.
 
 ### Outdoor Cultivation
 Stumps of the above-mentioned trees. Outdoor wood chip beds also
-produce well, much in the same manner as [[growing-gourmet-king-stropharia-cultivation]] cultivation. The willow-populated swamps of Louisiana
-are an ideal setting for deliberate cultivation of A. aegerita.
-Regions of Chile, Japan, the Far East, and southern Europe have
-coincident weather patterns that should support growth.
-
-## Growth Parameters
-
-### Spawn Run
-- Temperature: 70-80 degrees F (21-27 degrees C)
-- Humidity: 95-100%; Duration: 20-28 days
-- CO2: >20,000 ppm; Fresh Air: 0-1 per hour; No light
-
-### Primordia Formation
-- Temperature: 50-60 degrees F (10-16 degrees C)
-- Humidity: 95-100%; Duration: 7-14 days
-- CO2: <2000 ppm; Fresh Air: 4-8 per hour
-- Light: 500-1000 lux
-
-### Fruitbody Development
-- Temperature: 55-65 degrees F (13-18 degrees C)
-- Humidity: 90-95%; Duration: 4-6 days
-- CO2: <2000 ppm; Fresh Air: 4-8 per hour
-- Light: 500-1000 lux
-
-### Cropping Cycle
-Two flushes, 10-14 days apart.
-
-## Yield and Harvest
-
-Up to 1 lb. of fresh mushrooms per 5-6 lb. block of sterilized
-sawdust/chips/bran. Given the size of natural fruitings, large
-diameter willow, poplar, and cottonwood stumps could sustain
-massive fruitings for many years. A more fragile mushroom than it
-appears; clusters should be encouraged. If harvested before veils
-break, shelf-life is prolonged.
-
-## Market Considerations
-
-Sold fresh, because of its resemblance to the [[agaricus-bisporus-cultivation-biology]] (Agaricus brunnescens), marketing is not as difficult as
+produce well, much in the same manner as [[agaricus-bisporus-cultivation-biology]] (Agaricus brunnescens), marketing is not as difficult as
 with many "new" species. Primordia form readily on agar media,
 a notable feature that aids strain selection.
 
@@ -135,8 +97,6 @@ absent any casing.
 
 ## Related Topics
 
-- [[growing-gourmet-king-stropharia-cultivation]]
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]
 - [[growing-gourmet-nutrified-agar-media]]

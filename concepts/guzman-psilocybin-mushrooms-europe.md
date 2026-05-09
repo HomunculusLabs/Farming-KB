@@ -71,20 +71,7 @@ silvatica, P. strictipes, P. pelliculosa.
 ### Great Britain and Ireland
 The British Isles are particularly well-documented. Key species: Amanita
 muscaria, A. pantherina, Claviceps purpurea, Conocybe kuehneriana, Copelandia
-cyanescens, [[gerronema-fibula]], Gymnopilus liquiritiae, G. purpuratus, G.
-sapineus, G. spectabilis, Inocybe corydalina, I. haemacta, Panaeolina
-foenisecii, Panaeolus ater, P. castaneifolius, P. fimicola, P. olivaceus, P.
-papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus, Pluteus
-atricapillus, P. salicinus, Psilocybe cyanescens, P. fimetaria, P.
-semilanceata, P. strictipes.
-
-P. semilanceata has been known in Britain since Sowerby's publications
-(1797-1809), making it one of the earliest documented neurotropic fungi.
-
-### Germany
-Germany is exceptionally well-studied and has the richest recorded Inocybe
-diversity in Europe. Notable: Galerina steglichii (a rare psilocybin-containing
-Galerina), [[inocybe-aeruginascens-profile]] (first described from Germany by Babos 1968), I.
+cyanescens, [[inocybe-aeruginascens-profile]] (first described from Germany by Babos 1968), I.
 coelestium, I. corydalina (both varieties), I. haemacta, Psilocybe
 bohemica, P. cyanescens, P. mairei, P. semilanceata, P. serbica, P.
 strictipes.
@@ -92,21 +79,7 @@ strictipes.
 ### France
 Amanita muscaria, A. pantherina, Claviceps purpurea, Copelandia anomala, C.
 cyanescens, Inocybe aeruginascens, I. corydalina, I. haemacta, Panaeolina
-foenisecii, Panaeolus papilionaceus, P. subbalteatus, [[pluteus-salicinus-profile]],
-Psilocybe cyanescens, P. semilanceata, P. strictipes.
-
-### Italy
-Amanita muscaria, A. pantherina, Claviceps paspali, C. purpurea, Copelandia
-anomala, C. cyanescens, Gerronema fibula, Gymnopilus liquiritiae, G.
-purpuratus, G. spectabilis, Inocybe corydalina, I. haemacta, I. tricolor,
-Mycena cyanorhiza, Panaeolina foenisecii, Panaeolus ater, P. fimicola, P.
-papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus, Pluteus
-cyanopus, P. salicinus, Psilocybe cyanescens, P. fimetaria, P. semilanceata,
-P. strictipes.
-
-### Netherlands
-Amanita muscaria, Claviceps purpurea, Conocybe kuehneriana, Gerronema fibula,
-[[gymnopilus-purpuratus-profile]], G. spectabilis, Inocybe aeruginascens, I. corydalina
+foenisecii, Panaeolus papilionaceus, P. subbalteatus, [[gymnopilus-purpuratus-profile]], G. spectabilis, Inocybe aeruginascens, I. corydalina
 (both varieties), I. haemacta, Panaeolus papilionaceus, Pluteus salicinus,
 Psilocybe cyanescens, P. liniformans var. liniformans, P. puberula, P.
 semilanceata, P. strictipes.
@@ -124,27 +97,4 @@ strictipes.
   steglichii, C. cyanescens, G. spectabilis, I. aeruginascens, I. haemacta,
   P. semilanceata, P. cyanescens.
 - **Scandinavia (Norway, Sweden, Finland):** A. muscaria, A. pantherina, A.
-  regalis, [[conocybe-cyanopus-profile]], P. semilanceata, P. fimetaria, P. silvatica, P.
-  strictipes.
-- **Austria:** Inocybe coelestium, I. corydalina, I. haemacta, I. tricolor, P.
-  bohemica, P. cyanescens, P. semilanceata, P. serbica.
-- **Czech Republic (Czechoslovakia):** P. bohemica (type locality), P.
-  coprinifacies, P. cyanescens, P. fimetaria, P. mairei, P. semilanceata, P.
-  serbica, P. strictipes.
-- **Greece:** A. muscaria, A. pantherina, Claviceps purpurea, P. sphinctrinus.
-- **Ukraine:** A. muscaria, A. pantherina, C. purpurea, Cordyceps capitata,
-  C. ophioglossoides, Panaeolus ater, P. papilionaceus, P. sphinctrinus,
-  Pluteus atricapillus, P. salicinus, P. villosus.
-- **Yugoslavia:** P. serbica (type locality).
-
-## Key species
-
-- **Psilocybe semilanceata** -- The "liberty cap," the most widespread and
-  commonly consumed European psilocybin mushroom. Found across the continent
-  in grasslands, particularly in autumn. Known from Britain since the 18th
-  century.
-- **Psilocybe cyanescens** -- "Wavy caps," originally described from Kew,
-  England. Now widespread in western Europe, especially on wood chip mulch.
-## See Also
-
-- [[guzman-psilocybin-mushrooms-africa]]
+  regalis, [[guzman-psilocybin-mushrooms-africa]]

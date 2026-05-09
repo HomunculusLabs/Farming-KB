@@ -129,14 +129,9 @@ Blesching provides powerful questions for self-reflection:
 
 ## Related Topics
 
-- [[blesching-cannabis-herpes-hsv]] - Herpes research and mind-body
-  analysis for HSV-1 and HSV-2
 - [[blesching-cannabis-gonorrhea]] - Gonorrhea and cannabis research
-- [[blesching-cannabis-hiv-aids]] - HIV/AIDS comprehensive coverage
 - [[blesching-cannabis-immune-system-modulation]] - Stress and immune
   function
-- [[blesching-cannabis-fertility-reproductive-health]] - Sexual health
-  and reproductive considerations
 - [[blesching-cannabis-ptsd-anxiety]] - Trauma-related sexual health
   impacts
 - [[blesching-cannabis-depression]] - Depression and sexual health

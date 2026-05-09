@@ -3,15 +3,7 @@ title: Fungal Degradation of Dioxins and Polychlorinated Biphenyls
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-
-# Fungal Degradation of Dioxins and Polychlorinated Biphenyls
-
-Updated: 2026-04-18
-
-Halogenated aromatic compounds such as dioxins and polychlorinated biphenyls (PCBs) are among the most persistent and toxic environmental pollutants. White rot fungi offer a promising biological approach for their degradation through the non-specific free radical mechanisms of the [[fungal-ligninolytic-enzyme-systems-overview]]. The persistence of these compounds in the environment, their tendency to bioaccumulate in food chains, and their resistance to conventional remediation technologies make fungal degradation an important area of research in fungal degradation of dioxins and polychlorinated biphenyls.
+tags: [[fungal-ligninolytic-enzyme-systems-overview]]. The persistence of these compounds in the environment, their tendency to bioaccumulate in food chains, and their resistance to conventional remediation technologies make fungal degradation an important area of research in fungal degradation of dioxins and polychlorinated biphenyls.
 
 ## Dioxins
 
@@ -71,11 +63,7 @@ Higher chlorination generally reduces the rate and extent of degradation, likely
 
 - Metabolic intermediates include 4-chlorobenzoic acid and 4-chlorobenzoyl alcohol
 
-The observation that PCB degradation occurs under non-ligninolytic conditions is particularly important because it suggests the involvement of cytochrome P450 monooxygenases, extracellular quinone-redox cycling, or other enzyme systems beyond the classical ligninolytic trio. This broader enzymatic capability expands the range of environmental conditions under which fungal PCB degradation can occur and is relevant to [[enzymatic-degradation-in-mycoremediation]].
-
-## Environmental Persistence and Bioaccumulation
-
-Dioxins and PCBs persist in the environment for decades due to their chemical stability, lipophilicity, and resistance to biodegradation. They bioaccumulate in fatty tissues and biomagnify through food chains, with concentrations increasing at each trophic level. Top predators, including humans, can accumulate body burdens that pose cancer, reproductive, developmental, and immunotoxic risks. The extreme persistence of these compounds underscores the importance of developing effective biological degradation methods through [[mycoremediation-techniques]].
+The observation that PCB degradation occurs under non-ligninolytic conditions is particularly important because it suggests the involvement of cytochrome P450 monooxygenases, extracellular quinone-redox cycling, or other enzyme systems beyond the classical ligninolytic trio. This broader enzymatic capability expands the range of environmental conditions under which fungal PCB degradation can occur and is relevant to [[mycoremediation-techniques]].
 
 ## Field Applications and Challenges
 
@@ -91,18 +79,8 @@ Field-scale application of fungal degradation for dioxins and PCBs faces several
 
 - **Monitoring requirements** -- analytical detection of dioxins and PCBs requires sophisticated equipment (GC-MS), making treatment monitoring expensive
 
-Despite these challenges, [[bioremediation-using-fungi]] have shown promise, particularly when combined with soil amendments (surfactants, organic co-substrates) and physical treatments (soil mixing, aeration) that enhance pollutant bioavailability.
-
-## See Also
-
-- fungal degradation of dioxins and polychlorinated biphenyls
-
-- [[chlorophenol-degradation-by-white-rot-fungi]]
-
-- [[ligninolytic-enzymes-bioremediation]]
+Despite these challenges, [[chlorophenol-degradation-by-white-rot-fungi]]
 
 - [[white-rot-fungi-bioremediation]]
-
-- [[bioremediation-using-fungi]]
 
 - [[fungal-treatment-of-industrial-wastewaters]]

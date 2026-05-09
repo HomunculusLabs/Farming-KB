@@ -130,21 +130,14 @@ UK reclassification, seizures by law enforcement increased, including a
 
 Prohibitions on psilocybin-containing mushrooms have prompted retailers
 to seek legal alternatives. Following UK restrictions, online headshops
-began marketing [[amanita-muscaria]] (fly agaric) and [[amanita-pantherina|Amanita muscaria]]
+began marketing [[amanita-pantherina|Amanita muscaria]]
 (panther cap) as substitutes. Purple Ohms capsules containing Hawaiian
 Baby Woodrose with LSA have also been promoted as legal alternatives.
 This substitution effect raises new concerns, as the active compounds in
 Amanita species (muscimol, ibotenic acid) carry substantial toxicity
 risks, and some closely related Amanita species are lethal.
-
 ## See Also
 
-- [[hallucinogenic-mushroom-legal-status-eu]]
-
-- hallucinogenic mushroom legal status europe
 - [[psilocybin-mushroom-legal-status-worldwide]]
-- [[emcdda-hallucinogenic-mushroom-legal-responses]]
-
 - [[psilocybin-chemistry-pharmacology]] for the controlled substances
-- [[smartshop-hallucinogenic-mushroom-market]] for commercial context
-- [[amanita-muscaria]] for the legal alternative species
+- [[amanita-muscaria-entity]] for the legal alternative species

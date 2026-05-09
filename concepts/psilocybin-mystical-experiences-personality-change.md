@@ -79,8 +79,6 @@ These quite simple reminiscences show that psilocybin carries epistemological va
 
 ## See Also
 
-- [[consciousness-and-psychedelics]]
 - [[leary-harvard-psilocybin-project]]
-- [[psilocybin-ego-dissolution-mechanisms]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-depression-anxiety-treatment]]

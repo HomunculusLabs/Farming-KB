@@ -41,38 +41,7 @@ rooftop use. Containers allow complete control over soil mix, drainage,
 and nutrient management. The depth and volume of containers determines
 which crops can be grown successfully. Shallow containers suit lettuce,
 herbs, and radishes while deeper beds support tomatoes, peppers, and even
-small fruit trees. See [[urban-rooftop-and-vertical-gardening]] for
-complementary techniques.
-
-### Green Roof Integration
-
-Green roofs serve dual purposes: building insulation and food production.
-Extensive green roofs use lightweight substrates with shallow-rooted
-plants, while intensive green roofs support deeper soil profiles for
-vegetable cultivation. The integration of food-producing plants into green
-roof design transforms a passive ecological feature into an active food
-system. Moisture management is critical, as rooftops experience higher
-evaporation rates than ground-level gardens.
-
-### Balcony and Rail Growing
-
-Balconies and railings offer additional vertical growing opportunities.
-Plants grown above balcony railings exploit edge effects where light,
-air, and water converge. Trellises attached to railings support climbing
-crops such as beans, cucumbers, and small melons. Hanging baskets and
-stacked container systems multiply the productive area of small balcony
-spaces. The microclimate of balconies varies by orientation, with south
-facing positions receiving the most light and warmth.
-
-### Raised Bed Techniques
-
-Raised beds on rooftops and in urban yards solve multiple problems
-simultaneously. They provide improved drainage, reduce soil compaction
-from foot traffic, and allow importation of quality growing medium. Stick-
-built raised beds are a low-cost option using found materials. Sheet
-mulching within raised beds builds soil fertility over time without
-importing large volumes of commercial soil. See
-[[urban-rooftop-gardening-and-sheet-mulching]] for detailed sheet
+small fruit trees. See [[urban-rooftop-gardening-and-sheet-mulching]] for detailed sheet
 mulching approaches.
 
 ### Vertical Growing Structures
@@ -117,21 +86,4 @@ Rooftop farming naturally integrates with rainwater harvesting systems.
 Growing beds can serve as bio-filtration for greywater when properly
 designed. The combination of food production and water management creates
 multi-functional systems that exemplify permaculture principles. See
-[[urban-water-catchment-cistern-thermal-mass]] for water integration
-strategies.
-
-## Design Considerations
-
-Weight limits of rooftop structures must be carefully assessed before
-installing growing systems. Wet soil is heavy, and the cumulative weight
-of containers, soil, water, and plants can exceed structural capacity.
-Wind exposure increases with elevation, requiring wind protection for
-plants and secure anchoring of containers. Access to water for irrigation
-is essential, and automated drip irrigation systems reduce maintenance
-demands.
-
-## References
-
-- Source: urban-permaculture-guerilla-gardening.md
-- Related: [[urban-permaculture-design]], [[urban-permaculture-productive-yards]]
-- Related: [[urban-permaculture-homesteading]], [[urban-farming-methods]]
+[[urban-permaculture-design]], [[urban-permaculture-homesteading]], [[urban-farming-methods]]

@@ -1,23 +1,3 @@
----
-title: Buller's Drop and the Surface Tension Spore Catapult Mechanism
-created: 2026-04-28
-tags:
-  - mycology
-  - spore-dispersal
-  - biophysics
-  - surface-tension
-  - bullers-drop
-  - basidiospore
-  - mushroom-gills
-  - basidiomycota
-  - hygroscopy
-  - evaporative-cooling
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
-type: concept
----
 
 # Buller's Drop and the Surface Tension Spore Catapult
 
@@ -142,9 +122,11 @@ impressions reveal the hilar appendix at the base of each footprint:
 the decisive signature of the catapult mechanism. While dinosaurs
 trotted past and pterosaurs wheeled overhead, the "dew of heaven"
 was beading on a mushroom before tree resin preserved the instant.
-
 ## See Also
 
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
 - [[bloomfield-buller-experimental-mycology]]
+
+## See Also
+
+- [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]

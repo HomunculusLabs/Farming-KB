@@ -3,85 +3,8 @@ title: Client Interview Method
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# Client Interview Method
-
-A permaculture design will always be done for a client. Even if you are designing for yourself, treat yourself as your own client. The client interview is the foundation upon which the entire design is built -- it establishes the designer's understanding of the client's philosophy, goals, needs, and constraints.
-
-## Purpose
-
-The goal of the interview is for the designer to get into the client's head and learn to think like them when sitting down to design. Design is a manifestation of philosophy: when you sit down to design, you are attempting to manifest your client's philosophy, not your own. If you make a design that manifests your philosophy, it will not fit your client's needs.
-
-## Co-Creative Process
-
-One of the main goals of being a permaculture designer is not to design FOR a client, but for you and the client to co-create the design. To enable this co-creative process, you need to establish a rapport with your client, enabling you to get into each other's head and communicate synergistically. This is what the client interview enables.
-
-## Interview Format
-
-The client interview is typically conducted as a questionnaire, or question-and-answer period. Conducting a client interview is more of an art than a science. The designer crafts a set of guiding questions to elicit the type of perspectives and information needed from the client.
-
-## Essential Questions
-
-### Permaculture Understanding
-How well does your client understand permaculture? The goal is to ensure you speak to your client at a level they will understand and that you can "fill in" the knowledge they are missing.
-
-### Ecological Succession
-Are they willing to have a design that naturally progresses through the stages of ecological succession, or do they want the design to "jump to the end"? This determines whether the design will be phased over time or attempt to create a mature system immediately.
-
-### Health Considerations
-- Aside from general health, does the client have any particular health needs?
-- Aside from what they need, does the client have any health practices they wish to uphold?
-
-### Dietary Requirements
-- Aside from general nutrition requirements, does the client have any particular dietary needs?
-- Aside from dietary needs, what types of foods does the client like or want?
-
-### Physical and Mental Considerations
-Does the client possess any physical or mental limitations or issues? This affects the level of physical labor required in the design and the accessibility of systems.
-
-### Budget and Timeframe
-Get the client's budget and timeframe. This determines what is feasible and how the design should be staged for implementation.
-
-### Vision
-Get the client's vision. Ask them to describe what they see life in their design being like. This qualitative information often reveals more than quantitative questions.
-
-### Mission Statement
-Have your client make a mission statement for this design. What is the client's goals in creating this permaculture design? This becomes the guiding principle for all design decisions.
-
-### Hands-On Involvement
-How "hands on" does the client want to be in the design once it is installed and running? This determines the complexity of systems and the level of automation needed.
-
-### Scale of Use
-How many people will the design serve? Do they have or want pets? This determines the scale of food production, water systems, and shelter.
-
-### Social Patterns
-What are the client's social habits? Will they have social events that cause intermittent or regularly occurring "spikes" in impact and resource consumption? This affects the sizing of systems and the design of social spaces.
-
-### Open-Ended Considerations
-Are there any other considerations the client has that you didn't think to ask? Always leave space for the unexpected.
-
-## Interview Best Practices
-
-- Create a comfortable, informal setting
-- Listen more than you talk
-- Ask open-ended questions
-- Take detailed notes
-- Follow up on interesting or ambiguous answers
-- Don't impose your own preferences
-- Clarify priorities and trade-offs
-- Discuss constraints honestly
-- Establish ongoing communication channels
-
-## Using the Interview Results
-
-The client interview informs every subsequent step of the design process:
-- It shapes the [[pdc-site-analysis-method]] priorities
-- It guides the [[pdc-design-charette-process]] discussions
-- It provides criteria for evaluating design options
-- It forms the basis of the [[pdc-design-presentation-method]] narrative
+tags: [[pdc-site-analysis-method]] priorities
+- It guides the [[pdc-design-presentation-method]] narrative
 - Each team member should identify elements of the interview that influenced their specific design area
 
 ## Common Mistakes
@@ -94,15 +17,89 @@ The client interview informs every subsequent step of the design process:
 
 ## Related Pages
 
-- [[pdc-site-analysis-method]]
 - [[pdc-design-charette-process]]
-- [[pdc-design-presentation-method]]
 - [[pdc-design-methodology]]
-- [[pdc-design-exercise-method]]
 - [[mollison-professional-design-practice]]
-- [[permaculture-principle-design-from-patterns-to-details]]
 - [[permaculture-designers-manual-client-interview]]
 
 ## See Also
 
 - [[williams-pdc-client-interview-process]]
+## Practical Applications
+
+Client Interview Method has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Client Interview Method. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

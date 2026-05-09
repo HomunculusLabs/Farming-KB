@@ -134,12 +134,8 @@ diversity and eliminate perceived long-branch artifacts.
 
 ## Related Topics
 
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] —
-  broader molecular identification approaches for all fungi
 - [[biodiversity-fungal-genetic-diversity]] — genetic diversity
   patterns in fungal populations
-- [[biodiversity-ascomycete-diversity-taxonomy]] — ascomycete
-  systematics including yeasts
 - [[biodiversity-basidiomycete-diversity-taxonomy]] — basidiomycete
   diversity including basidiomycetous yeasts
 - [[biodiversity-fungi-molecular-methods]] — general molecular

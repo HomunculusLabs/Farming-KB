@@ -457,7 +457,7 @@ medicine, agriculture, and industrial biotechnology.
 - [[white-rot-fungi-effluent-decolorization]]
 - [[mycoremediation-enzymology]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]
 - [[fungal-secondary-metabolites-environment]]
 - [[biofertilizers-and-soil-inoculants]]
 

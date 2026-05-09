@@ -118,8 +118,6 @@ traits under selection.
 
 ## See Also
 
-- [[cervantes-backcross-breeding-methods]]
 - [[cervantes-selfing-single-seed-descent]]
-- [[cervantes-seed-population-types-ibl-hybrid]]
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-phenotype-selection]]

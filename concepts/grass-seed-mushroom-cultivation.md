@@ -18,52 +18,8 @@ type: concept
 
 # Grass Seed Mushroom Cultivation
 
-Grass seed substrate is a versatile and efficient medium for the cultivation of hallucinogenic mushroom species, particularly *Psilocybe mexicana* and *Psilocybe tampanensis*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online [[mycology]] community, and remains one of the most accessible methods for small-scale cultivation.
-
-## Applicable Species
-
-The grass seed cultivation method is suitable for several species:
-
-- **Psilocybe mexicana**: Produces both mushrooms and sclerotia on grass seed. This is the original species from which [[albert-hofmann]] first isolated psilocybin and psilocin in 1958.
-- **Psilocybe tampanensis**: Produces both mushrooms and sclerotia. The "Philosopher's Stone" sclerotia of this species are among the most potent naturally occurring psychedelic fungi by weight.
-- **[[psilocybe-cubensis]]**: Produces mushrooms on grass seed, though rye grain is generally preferred for this species due to larger fruiting body size.
-- **[[panaeolus-subbalteatus]]**: Produces mushrooms on grass seed substrate.
-
-## Substrate Preparation
-
-The substrate is based on rye grass seed (*Lolium perenne*) or mixtures of different grass species. The critical requirement is that the seed must not be treated with fungicides — treated seed should be explicitly labeled as such. Seed is typically sourced from animal feed stores where it is sold as bird feed at low cost.
-
-### Standard Recipe for 720 ml Jars
-
-- 110 grams grass seed
-- 180 ml water
-
-The water and seed are combined directly in the jars. The lids are placed on loosely (not screwed tight) to allow pressure equalization during sterilization. A double layer of aluminum foil is crumpled over the lid and the upper portion of the jar for contamination protection.
-
-### Water Content Considerations
-
-Different varieties and even different batches of the same grass seed variety can differ greatly in their ability to absorb water. The GUID text emphasizes that water content is one of the most critical variables:
-
-- **Too much water**: Produces a slimy, anaerobic clump of seed that cannot be shaken to distribute mycelium
-- **Too little water**: Produces dry substrate that yields little or no mushrooms or sclerotia
-
-An alternative preparation method involves soaking the grass seed overnight in water before filling jars, which produces a more homogenous moisture distribution throughout the substrate.
-
-## Sterilization
-
-Jars must be sterilized in a pressure cooker or autoclave. A standard cooking pot is not sufficient to eliminate bacterial endospores and other persistent contaminants.
-
-### Procedure
-
-A layer of water is placed in the bottom of the pressure cooker. Jars are positioned with loose lids inside. Sterilization time is one hour at pressure for standard 720 ml jars. Larger containers (1.5 litre jars or spawn bags) require extended sterilization — two full hours is recommended.
-
-### Post-Sterilization Handling
-
-Once the cooker has depressurized, jars are removed and the grass seed inside is shaken to mix wet and dry kernels, homogenizing moisture distribution. Jars must be checked for cracks before shaking. The jars then cool in a clean location with lids remaining loose to prevent vacuum formation during cooling. Inoculation must wait until jars reach room temperature.
-
-## Inoculation
-
-Any standard inoculation method can be used: [[spore-syringe]], mycelium syringe, agar squares, or liquid culture. The paramount requirement is working clean:
+Grass seed substrate is a versatile and efficient medium for the cultivation of hallucinogenic mushroom species, particularly *Psilocybe mexicana* and *Psilocybe tampanensis*, both of which produce sclerotia (truffle-like underground masses) as well as fruiting bodies. The technique was popularized by the late GUID, a pioneering figure in the online [[psilocybe-cubensis]]**: Produces mushrooms on grass seed, though rye grain is generally preferred for this species due to larger fruiting body size.
+- **[[spore-syringe]], mycelium syringe, agar squares, or liquid culture. The paramount requirement is working clean:
 
 - Syringe needles must be flamed before each inoculation
 - Scalpels for agar transfer must be flamed before use
@@ -132,19 +88,6 @@ Dead pinheads (aborts) should be removed from the casing surface promptly, as th
 
 ## Sclerotia Production
 
-A major advantage of the grass seed method is [[sclerotia-production]] for *Psilocybe mexicana* and *Psilocybe tampanensis*. Sclerotia form within the colonized jar without requiring a casing layer.
-
-### Sclerotia Development
-
-- Colonized jars are stored in a clean, preferably dark location
-- Sclerotia of *P. tampanensis* continue to enlarge for up to 4 months after inoculation
-- Sclerotia also form in the casing layer of cased trays
-- No special environmental triggers are required beyond maintaining the colonized substrate
-
-Sclerotia are dense, hard, truffle-like masses that serve as nutrient reserves for the fungus. They contain psilocybin and psilocin at concentrations comparable to or exceeding those of dried mushroom fruiting bodies, making them a compact and efficient method for producing psychoactive material.
-
-## Related Concepts
-
-- [[psilocybe-mexicana]] for the species biology and natural history
+A major advantage of the grass seed method is [[psilocybe-mexicana]] for the species biology and natural history
 - [[psilocybe-tampanensis-entity]] for the Philosopher's Stone sclerotia-producing species
 - Sclerotia for the biology and chemistry of fungal storage structures

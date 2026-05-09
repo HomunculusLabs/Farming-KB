@@ -115,13 +115,8 @@ Root development takes 1–2 growing seasons before harvestable quantities accum
 
 ## See Also
 
-- [[silene-capensis]]
 - [[entada-rheedii]]
-- [[calea-zacatechichi]]
 - [[nymphaea-caerulea]]
-- [[nymphaea-alba]]
 - [[tagetes-lucida]]
-- [[mucuna-pruriens]]
-- [[psilocybin-compound]]
-- [[paullinia-cupana]]
+- [[psilocybin]]
 - [[theobroma-cacao]]

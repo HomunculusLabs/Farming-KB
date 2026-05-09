@@ -140,8 +140,6 @@ results in a higher pH.
 
 ## See Also
 
-- [[lowenfels-nutrients-soil-chemistry-ph-cec]] - How pH and CEC affect nitrogen availability
 - [[lowenfels-nutrients-phosphorus-mycorrhizae]] - Phosphorus and mycorrhizal nutrient delivery
-- [[lowenfels-nutrients-potassium-calcium-magnesium]] - Cations that compete with nitrogen uptake
 - [[lowenfels-nutrients-micronutrients]] - Molybdenum's role in nitrogen fixation
 - [[lowenfels-nutrients-foliar-feeding-sap-analysis]] - Foliar nitrogen application limitations

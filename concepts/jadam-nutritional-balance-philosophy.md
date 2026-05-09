@@ -77,11 +77,7 @@ Youngsang Cho quotes Karl Marx: "When commercial capital occupies a position of 
 
 ## See Also
 
-- [[jadam-liquid-fertilizer]] -- the JLF system
 - [[jadam-customized-liquid-fertilizer]] -- crop-specific fertilizers
-- [[jadam-seawater-mineral-supplementation]] -- mineral balance through seawater
 - [[jadam-phyllite-solution]] -- mineral balance through rock powder
-- [[jadam-making-organic-farming-inputs]] -- the input-making philosophy
 - [[jadam-human-manure-liquid-fertilizer]]
-- [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]

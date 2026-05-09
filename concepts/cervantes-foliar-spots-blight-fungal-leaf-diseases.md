@@ -62,35 +62,6 @@ fungal growth.
 - Use fresh, sterile growing medium with each crop
 - Do not wet foliage when watering
 - Avoid overwatering and lower grow room
-  [[cervantes-humidity-control-dehumidification]]
-  to 50 percent or less
-- Check humidity both day and night
-- Use dry heat to raise nighttime temperature 5-10 degrees F
-  (3-6 degrees C) below daytime levels, keeping humidity
-  more constant
-- Allow adequate spacing between plants for air circulation
-- Remove damaged foliage promptly
-- Avoid excessive nitrogen application
-- Bordeaux mixture may help keep leaf spots in check, but it
-  is often phytotoxic when applied regularly indoors
-
-## Blight
-
-### Identification
-
-Blight is a general term describing many plant diseases caused
-by fungus, most often appearing a few weeks before harvest.
-Signs of blight include dark, blotchy spots on foliage, slow
-growth, sudden yellowing, wilting, and plant death. Most
-blights spread quickly through large areas of plants, making
-rapid identification and response essential.
-
-### Control
-
-- Use fresh, sterile growing medium
-- Avoid excess nitrogen fertilization, which produces tender
-  tissue susceptible to blight infection
-- Keep plants healthy with proper
   [[cervantes-nutrient-stock-solutions-concentrates]] and good
   drainage to prevent nutrient buildup
 - Apply Serenade (Bacillus subtilis) against Brown Blight
@@ -135,15 +106,10 @@ problems in vegetative growth will continue through flowering
 and must be remedied early. During flowering, only the first
 two to three weeks allow effective intervention. Problems that
 persist through flowering substantially diminish yield.
-
 ## Related Topics
 
-- [[cervantes-downy-mildew-fungal-blight]] - downy mildew
-  specifics
 - [[cervantes-powdery-mildew-prevention-treatment]] - powdery
   mildew management
-- [[cervantes-gray-mold-botrytis-prevention]] - Botrytis
-  prevention
 - [[cervantes-fusarium-vascular-wilt-diseases]] - Fusarium
   wilt
 - [[cervantes-damping-off-seedling-disease-prevention]] -

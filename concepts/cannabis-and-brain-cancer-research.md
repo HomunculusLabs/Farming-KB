@@ -63,18 +63,15 @@ GW Pharmaceuticals has conducted Phase 2 clinical trials using a THC:CBD oromuco
 
 ## Dosage and Administration Considerations
 
-For brain cancer patients considering cannabinoid therapy, several factors from [[cannabis-cannabinoid-receptor-pharmacology]] are relevant:
-
-- Oral THC and CBD reach the brain effectively due to their lipophilic nature and ability to cross the blood-brain barrier
-- [[cannabis-concentrates-and-extracts]] may provide standardized cannabinoid ratios for consistent dosing
+For brain cancer patients considering cannabinoid therapy, several factors from [[cannabis-concentrates-and-extracts]] may provide standardized cannabinoid ratios for consistent dosing
 - The synergistic relationship between THC and CBD suggests that whole-plant preparations may be more effective than isolated cannabinoids
-- Patients should consult [[cannabis-dosing-guidelines]] and monitor for potential [[cannabis-drug-interactions-and-contraindications]] with antiepileptic medications commonly prescribed to brain cancer patients
+- Patients should consult [[cannabis-drug-interactions-and-contraindications]] with antiepileptic medications commonly prescribed to brain cancer patients
 
 ## Strain-Specific Considerations
 
 Both THC and CBD independently inhibit brain cancer cell development and produce apoptosis. Greater effect is produced synergistically when THC and CBD are applied together. Both basic strains (sativa and indica) deliver the full range of plant cannabinoids. Patients may choose based on mental/emotional preference — indicas for relaxation, sativas for energy. Non-psychoactive raw juice from fresh cannabis leaves is an option for those avoiding psychoactivity.
 
-Strains with high levels of [[cannabis-minor-cannabinoids]] such as CBC and CBG may provide additional anti-cancer effects through complementary mechanisms. The [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects through the entourage effect, with pinene and limonene demonstrating potential synergistic activity.
+Strains with high levels of [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects through the entourage effect, with pinene and limonene demonstrating potential synergistic activity.
 
 ## Key Finding
 
@@ -86,11 +83,7 @@ Beyond potential direct anti-cancer effects, cannabis may help manage symptoms c
 
 - Headaches and intracranial pressure-related discomfort
 - Nausea and vomiting from chemotherapy and radiation
-- Seizures associated with brain tumors (see [[cannabis-neurological-conditions]])
-- Fatigue and cognitive changes
-- Anxiety and depression related to diagnosis and treatment
-
-The [[cannabis-for-cancer-patients]] approach encompasses these broader symptom-management benefits, which can significantly improve quality of life during conventional brain cancer treatment.
+- Seizures associated with brain tumors (see [[cannabis-for-cancer-patients]] approach encompasses these broader symptom-management benefits, which can significantly improve quality of life during conventional brain cancer treatment.
 
 ## Limitations and Future Directions
 
@@ -98,16 +91,11 @@ Despite the promising pre-clinical evidence, large-scale randomized controlled t
 
 ## Related
 
-- [[cannabis-and-als-research]]
 - [[cannabis-and-gerd-research]]
-
-- [[cannabis-and-cancer-research]]
 
 - [[cannabis-and-colon-cancer-research]] Topics
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-cancer-patients]]
-- [[cannabis-neurological-conditions]]
 - [[cannabis-immune-modulation]]
 - [[cannabis-chronic-pain-management]]
 ## Merged: Cannabis for Brain Cancer (Glioma)

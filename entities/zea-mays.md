@@ -117,11 +117,7 @@ The crop is also used in the manufacture of adhesives, textiles, pharmaceuticals
 
 ## See Also
 
-- [[sorghum-bicolor]]
 - [[saccharum-officinarum]]
-- [[phaseolus-vulgaris]]
 - [[vigna-unguiculata]]
-- [[pennisetum-glaucum]]
 - [[eleusine-coracana]]
-- [[manihot-esculenta]]
 - [[ipomoea-batatas]]

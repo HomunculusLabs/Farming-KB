@@ -98,8 +98,6 @@ The CHI positions emotional intelligence work as synergistic with cannabis thera
 
 ## See Also
 
-- [[blesching-cannabis-deep-relaxation-healing]] for relaxation techniques
 - [[blesching-cannabis-belief-reprogramming]] for methods of changing limiting beliefs
-- [[blesching-cannabis-epigenetics-and-emotional-trauma]] for how emotions change gene expression
 - [[blesching-cannabis-telomeres-telomerase-longevity]] for how emotions affect cellular aging
 - [[blesching-cannabis-chi-score-methodology]] for the CHI scoring system

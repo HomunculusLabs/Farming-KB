@@ -12,9 +12,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-The wine-cap mushroom (Stropharia rugoso-annulata), also known as the garden giant or king stropharia, is Paul Stamets' preferred species for [[mycofiltration-of-water]] applications. Its aggressive growth, large size, and ability to thrive in wood chip substrates make it ideal for filtering contaminated water and building soil in ecological restoration projects.
-
-Source: [[mycelium-running-techniques]]
+The wine-cap mushroom (Stropharia rugoso-annulata), also known as the garden giant or king stropharia, is Paul Stamets' preferred species for [[mycelium-running-techniques]]
 
 ***
 
@@ -94,44 +92,7 @@ Stropharia is valued not only for filtration but also for soil creation:
 - Approximately 12 inches of wood chips decompose into 1-2 inches of rich soil in 2-3 years when inoculated with mycelium
 - Without inoculation, the same decomposition takes 4-5 years
 - The resulting soil is rich in organic matter, well-structured, and teeming with microbial life
-- [[mycelium-running-multi-kingdom-bioremediation]] develop as insects and microorganisms colonize the decomposing substrate
-
-***
-
-## Cultivation for Gardeners
-
-### Easy to Grow
-
-Stropharia rugoso-annulata is one of the easiest mushrooms for gardeners to cultivate:
-- Can be grown directly in garden beds alongside vegetables
-- Tolerates a wide range of wood chip types
-- Produces large, easily identified fruiting bodies
-- Requires minimal maintenance once established
-- Returns year after year from the established mycelial network
-
-### Companion Planting
-
-Stropharia beds can be integrated into garden landscapes:
-- Place beds between garden rows or around the garden perimeter
-- Use as pathway material — walking on wood chips doesn't harm the mycelium
-- Fruit bodies attract beneficial insects
-- The mycelial network benefits nearby plants through nutrient cycling
-
-***
-
-## Larger Scale Applications
-
-### Agricultural Runoff
-
-Stropharia beds placed at the edges of agricultural fields can filter:
-- Fertilizer runoff (nitrogen, phosphorus)
-- Pesticide residues
-- Animal waste from livestock operations
-- Sediment from erosion
-
-### Road Reclamation
-
-At the [[tahuya-forest-road-reclamation]], Stropharia was recommended for future trials alongside other white rot, brown rot, and mycorrhizal species. The dense mycelial mat it creates is ideal for:
+- [[tahuya-forest-road-reclamation]], Stropharia was recommended for future trials alongside other white rot, brown rot, and mycorrhizal species. The dense mycelial mat it creates is ideal for:
 - Stabilizing road surfaces
 - Filtering runoff into streams
 - Creating insect habitat
@@ -141,9 +102,6 @@ At the [[tahuya-forest-road-reclamation]], Stropharia was recommended for future
 
 ## Related Topics
 
-- [[mollison-designers-water-purification-and-storage-principles]]
 - [[mycorestoration-overview]]
-- [[tahuya-forest-road-reclamation]]
 - [[query-difference-between-white-rot-and-brown-rot-fungi]]
-- [[cortes-island-mycoforestry-project]]
 - [[mycoforestry-forest-management-with-fungi]]

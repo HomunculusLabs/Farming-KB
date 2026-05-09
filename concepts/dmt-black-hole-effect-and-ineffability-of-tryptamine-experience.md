@@ -55,7 +55,7 @@ we're doing.
 ## Comparison with Other Hallucinogenic Compounds
 
 Each major class of hallucinogen constitutes a phenomenologically
-defined universe unto itself. [[psilocybin-compound]] and [[dmt]] invoke what
+defined universe unto itself. [[dmt]] invoke what
 McKenna called the Logos, working directly on language centers so that
 interior dialogue is a primary feature. DMT is distinguished by far
 greater intensity and shorter duration. The smoked experience begins in
@@ -113,38 +113,6 @@ resistance to partial description characterizing the DMT state.
 ## Shamanism and the Validation Problem
 
 In archaic societies, individuals showing signs of oddness, epilepsy,
-or survival of unusual ordeals are identified as potential [[cannabis-strain-shaman|shamans]]
-and trained in breathing, plant usage, and other practices. McKenna
-noted that shamans he encountered shared extraordinary centeredness and
-were typically intellectuals alienated from their societies. They are
-the true phenomenologists of their world who know plant chemistry yet
-call energy fields spirits. The tragedy of modern culture is having no
-shamanic tradition to contextualize these experiences.
-
-## The Endogenous Nature of DMT
-
-DMT is an endogenous hallucinogen present in small amounts in the
-human brain. McKenna emphasized the structural similarity between DMT
-(4-hydroxy-N,N-dimethyltryptamine) and serotonin
-(5-hydroxytryptamine), the major neurotransmitter most concentrated in
-humans. The rapid onset, approximately forty-five seconds, and brief
-duration mean the brain is absolutely at home with this compound,
-suggesting the tryptamine hyperdimensional space is not alien to human
-neurobiology but a latent, largely unexplored capacity.
-
-## Philosophical Implications
-
-If experiences exist intrinsically resistant to linguistic encoding, the
-map of human knowledge has permanent blank spots. McKenna connected this
-to whether Western science and language adequately encompass the full
-range of human experience. He noted that people attaining enlightenment
-are often silent because we cannot understand them, a silence mirroring
-the physical black hole's prevention of signal escape.
-
-## See Also
-
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[dmt]] pharmacology and phenomenology
+or survival of unusual ordeals are identified as potential [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-dmt-experience-and-hyperspace]]
-- [[dmt-self-transforming-machine-elves-mckenna]]
 - [[tryptamine]] compounds overview

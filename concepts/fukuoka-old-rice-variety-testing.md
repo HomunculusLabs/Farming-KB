@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 # Fukuoka Old Rice Variety Testing
 
-In his 1975 speech and related writings, [[natural-farming-fukuoka]] presents the results of decades of [[fukuoka-natural-rice-barley-cultivation]] using traditional varieties. His findings challenge the fundamental assumptions of modern rice breeding and demonstrate that old varieties can outperform modern ones under natural conditions.
+In his 1975 speech and related writings, [[fukuoka-natural-rice-barley-cultivation]] using traditional varieties. His findings challenge the fundamental assumptions of modern rice breeding and demonstrate that old varieties can outperform modern ones under natural conditions.
 
 ## The Tokugawa Period Glutinous Rice
 
@@ -81,14 +81,13 @@ Fukuoka broadens his critique to agricultural education:
 
 ## The Broader Context of Variety Testing
 
-Fukuoka's variety testing connects to his wider project of [[fukuoka-reviving-ancestral-strains]] and his [[fukuoka-insects-create-new-rice-varieties]]:
+Fukuoka's variety testing connects to his wider project of [[fukuoka-insects-create-new-rice-varieties]]:
 
 - Modern breeding has produced rice suited to artificial conditions -- dependent on pesticides and fertilizers
 - Old varieties carry the genetic resilience developed over centuries of natural selection
-- His [[fukuoka-happy-hill-rice-strain]] combined ancient Burmese genetics with Japanese varieties to achieve superhigh yields without chemicals
-- The goal was always to create rice "suited to [[fukuoka-natural-farming-philosophy-of-mu]]" -- strong, hardy rice that can grow without human intervention
+- His [[fukuoka-natural-farming-philosophy-of-mu]]" -- strong, hardy rice that can grow without human intervention
 
-See also: [[fukuoka-natural-rice-barley-cultivation]], [[fukuoka-natural-rice-barley-cultivation]], [[fukuoka-happy-hill-rice-strain]], [[fukuoka-insects-create-new-rice-varieties]], [[fukuoka-reviving-ancestral-strains]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-critique-green-revolution]], [[fukuoka-seed-selection-methods]]
+See also: [[fukuoka-natural-rice-barley-cultivation]], [[fukuoka-insects-create-new-rice-varieties]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-seed-selection-methods]]
 
 ## Merged: Fukuoka Crop Variety Improvement Illusion
 
@@ -96,30 +95,7 @@ See also: [[fukuoka-natural-rice-barley-cultivation]], [[fukuoka-natural-rice-ba
 
 updated: 2026-04-18
 
-Fukuoka argued that the pursuit of improved crop varieties through breeding is fundamentally misguided. The [[fukuoka-critique-laws-agricultural-science]] to plant breeding misunderstands the nature of plant growth and the equilibrium of natural systems.
-
-## The Contradictions of Breeding
-
-Many people believe that taking a variety of rice which bears large heads, growing it with lots of sunlight, applying plenty of fertilizer, and carrying out thorough pest control will give good yields. But these measures cancel each other:
-
-- Varieties bearing large heads usually have fewer heads per plant, defeating dense planting
-- Heavy fertilizer application causes excessive vegetative growth, reducing light exposure
-- Efforts to obtain large stems and heads weaken the plant and increase disease and insect damage
-- Thorough pest control measures result in lodging of the rice plants
-- Water-conserving cultivation may reduce light due to weed growth
-- Attempts to improve photosynthesis efficiency may lower photosynthetic ability
-
-The more improvement measures are combined, the more they cancel each other out.
-
-## The Day Will Never Come
-
-If people expect a plant variety that bears in abundance, is easy to raise, and has good flavor to solve everything, they are in for a long wait. The day will never come when one variety satisfies all conditions.
-
-An improved variety with three good features will also have three bad features. One with six strengths will have six weaknesses. Any variety thought to be better will probably be worse, because new contradictions lie within it that defy solution.
-
-## The Natural Control Mechanism
-
-This property of mutual cancellation derives from the equilibrium of [[fukuoka-natural-farming-philosophy-of-mu]]. Nature inherently abhors the unnatural and makes every effort to return to its true state by discarding human techniques for increasing harvests. A natural control operates to hold down large harvests and raise low harvests, approaching the natural yield without disrupting the balance.
+Fukuoka argued that the pursuit of improved crop varieties through breeding is fundamentally misguided. The [[fukuoka-natural-farming-philosophy-of-mu]]. Nature inherently abhors the unnatural and makes every effort to return to its true state by discarding human techniques for increasing harvests. A natural control operates to hold down large harvests and raise low harvests, approaching the natural yield without disrupting the balance.
 
 ## Breeding Programs Have Failed
 

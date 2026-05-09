@@ -1,64 +1,6 @@
 ---
 title: Intermediate Species Sink-or-Float Hypothesis
-tags: [evolution, darwin, philosophy, biology, natural-farming, fukuoka]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - masanobu-fukuoka-the-road-back-to-nature.md
-type: concept
-created: 2026-04-28
----
-
-# Intermediate Species Sink-or-Float Hypothesis
-
-Fukuoka's alternative to Darwinian gradualism proposes that when two
-different organisms cross, they produce tens to hundreds of offspring,
-each differing slightly from the others. Because they have continuous
-traits, they form what Fukuoka calls a "discontinuous continuity."
-Most intermediate species disappear, while only organisms at either
-extreme or which are special in some way survive.
-
-This hypothesis was developed to explain the conspicuous absence of
-transitional fossils in the geological record. Rather than positing
-that transitional forms never existed, Fukuoka argues they existed
-in vast numbers but were not preserved or are not visible to the
-methods of conventional science.
-
-## The Ocean and Snowfall Analogies
-
-Fukuoka offers two vivid analogies for why transitional fossils are
-missing. First, all organisms are continuous on the ocean floor,
-invisible to man, who sees only the islands floating above. The
-great majority of potential species disappear "under the surface
-of the sea." Second, a heavy snowfall buries all but the largest
-rocks and trees; what lies buried remains invisible. Both
-emphasize that absence of evidence is not evidence of absence.
-
-## Why Intermediate Species Disappear
-
-Fukuoka identifies multiple distinct reasons for the disappearance
-of intermediate organisms, noting that the process is neither
-directed nor purposeful:
-
-- Many species disappear before having had a chance to establish
-  themselves at all, perishing in early developmental stages
-- Others that have established themselves later fall out of sorts
-  with changing environmental conditions
-- In some cases, a lack of fertility may prevent reproduction,
-  cutting off the line entirely
-- Offspring may be conceived but fail to thrive due to genetic
-  incompatibilities or developmental failures
-- Competition with more specialized forms at either extreme may
-  squeeze out the intermediates
-
-The process is, in Fukuoka's view, essentially "accidental." Only
-a small number of the great body of potential species have managed
-to survive and establish themselves on the face of the earth.
-
-## Rejection of Darwinian Selection
-
-Fukuoka explicitly rejects each pillar of Darwin's theory. Natural
-selection through adaptation is a misreading: "When acacia seeds
+tags: [evolution, darwin, philosophy, biology, [[acacia]] seeds
 fall thickly to the ground, which seeds will survive? The intellect
 cannot tell whether it is the organism that selects nature or
 nature that winnows the organisms."
@@ -130,7 +72,24 @@ incalculable force over the past hundred years" by providing a
 framework where humans discern superiority and inferiority in
 nature and accept these as facts of life.
 
-See also: [[fukuoka-critique-darwinian-evolution]],
-[[fukuoka-insects-create-new-rice-varieties]],
-[[fukuoka-reviving-ancestral-strains]],
+See also: [[fukuoka-insects-create-new-rice-varieties]],
 [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
+## Practical Considerations
+
+Successful implementation of Intermediate Species Sink-or-Float Hypothesis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -135,8 +135,6 @@ Crops with built-in antifungal defenses could reduce or
 
 ## See also
 
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
-- [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
 - [[bloomfield-potato-blight-phytophthora-infestans]]
 - [[bloomfield-coffee-rust-and-crop-pathogens]]

@@ -22,26 +22,7 @@ sources:
 
 **Stropharia rugosoannulata**, commonly known as the wine cap mushroom, garden giant, burgundy mushroom, or king stropharia, is a large edible basidiomycete fungus in the family Strophariaceae. It is one of the most versatile and accessible mushrooms for permaculture and home cultivation, valued both as a culinary species and for its remarkable ecological functions in soil building, water filtration, and bioremediation.
 
-First described by Czech mycologist Julius Vincenz von Krombholz in 1836, *S. rugosoannulata* has gained prominence in the permaculture movement through the work of [[paul-stamets]] and others who have demonstrated its capacity for transforming landscapes through mycological intervention.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Strophariaceae
-- **Genus:** *Stropharia*
-- **Species:** *S. rugosoannulata*
-
-### Etymology
-- **Stropharia:** From Greek *strophos* (belt), referring to the ring on the stipe
-- **rugosoannulata:** From Latin *rugosus* (wrinkled) + *annulatus* (ringed), describing the characteristic wrinkled ring on the stem
-
-### Related
-
-- [[stropharia-rugosoannulata-permaculture]]
-- [[mushroom-cultivation-basics]]
+First described by Czech mycologist Julius Vincenz von Krombholz in 1836, *S. rugosoannulata* has gained prominence in the permaculture movement through the work of [[stropharia-rugosoannulata-permaculture]]
 - [[kings-stropharia-garden-giant]] Species
 The genus *Stropharia* contains approximately 30 species. Notable relatives include:
 - *S. ambigua* — a closely related North American species sometimes considered conspecific
@@ -127,19 +108,7 @@ The species fruits from spring through autumn (May–October in the Northern Hem
 - **Moisture:** Requires consistent moisture; benefits from mulch layer to retain water
 - **CO₂ tolerance:** High — can fruit in relatively CO₂-rich environments, making it suitable for raised beds
 
-### [[companion-planting]]
-*Stropharia rugosoannulata* is an excellent companion in polyculture systems:
-- **Garden beds:** Planted between vegetable rows, it breaks down organic matter, releases nutrients, and suppresses weeds
-- **Orchards:** Established beneath fruit and nut trees to cycle nutrients from wood chip mulch
-- **Food forests:** Positioned in the fungal layer of guild plantings
-- **Vermicomposting:** Grows symbiotically with red wiggler worms (*Eisenia fetida*) — mycelium creates conditions favorable to earthworm populations while worms improve substrate aeration and microbial diversity
-
-## Permaculture and Ecological Applications
-### Soil Building
-Wine cap mycelium aggressively colonizes wood chips and coarse organic matter, converting raw carbon into humus and available nutrients. A single wine cap bed can process cubic meters of wood chips annually, transforming them into rich, dark loam. This makes the species invaluable for:
-- Rapid soil creation on degraded land
-- Converting arborist wood waste into productive garden soil
-- [[building-soil]] organic matter and water-holding capacity
+### [[building-soil]] organic matter and water-holding capacity
 - Creating self-sustaining fertility cycles in food forests
 ### Water Filtration
 *Stropharia rugosoannulata* has demonstrated exceptional capacity for biological water filtration:
@@ -147,4 +116,3 @@ Wine cap mycelium aggressively colonizes wood chips and coarse organic matter, c
 - Effectively filters *E. coli*, *Salmonella*, and *Staphylococcus* from greywater and agricultural runoff
 - Paul Stamets' research demonstrated that wine cap mycelium reduced coliform bacteria in downstream water by 99%
 - Can be used in bioswale systems along roadsides and agricultural field margins
-### Bioremediation

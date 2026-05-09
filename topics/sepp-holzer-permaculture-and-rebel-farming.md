@@ -430,7 +430,7 @@ Asia, and the Americas.
   landscapes
 - [[holzer-crater-garden-design]] -- Bowl-shaped gardens for humid
   microclimates
-- [[sepp-holzer-permaculture-and-rebel-farming]] -- Self-fertilising raised beds with organic
+-  -- Self-fertilising raised beds with organic
   cores
 - [[holzer-raised-bed-techniques-hugelkultur]] -- Hugelkultur mound
   construction

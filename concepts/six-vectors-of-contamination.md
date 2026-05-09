@@ -87,10 +87,4 @@ Insects (ants, flies), mites, and other mobile organisms transport contamination
 
 The most powerful diagnostic tool: leave uninoculated samples ("blanks") at every step of cultivation. Observe for two weeks. Under ideal conditions, no contamination should occur no matter how long uninoculated media is stored. If blanks contaminate within 48-72 hours, media was insufficiently sterilized. If contamination appears near the end of two weeks, it is likely endemic to the laboratory environment.
 
-See also: [[mushroom-contamination-identification]], [[mold-identification-guide]], [[agar-culture-techniques-detailed]], [[agar-work-guide]], [[grain-spawn-types-and-preparation]], [[oyster-mushroom-clean-room-design]], [[mushroom-pasteurization]]
-
-*Source: Stamets, P. "Growing Gourmet and Medicinal Mushrooms" -- Chapter 10: The Six Vectors of Contamination*
-
-## Related
-
-- [[mushroom-contamination-control-strategies]]
+See also: [[mold-identification-guide]], [[agar-work-guide]], [[oyster-mushroom-clean-room-design]], [[mushroom-contamination-control-strategies]]

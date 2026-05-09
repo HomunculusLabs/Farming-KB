@@ -19,40 +19,11 @@ sources:
   - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002), Chapter 6, pp. 112-117
 type: concept
 ---
-
 # Amphibian Decline, Fungal Disease, and Climate Interactions
 
-The global decline of amphibian populations that accelerated through the 1980s and 1990s emerged as one of the most puzzling and alarming phenomena in conservation biology. Frogs, toads, and salamanders were disappearing from seemingly pristine habitats where no obvious environmental damage could be identified. The eventual identification of two fungal pathogens — a chytrid fungus parasitizing frog skin and an oomycete water mold infecting amphibian eggs — revealed a complex web of interactions linking climate change, ultraviolet radiation, and opportunistic fungal infection. This story illustrates how fungal disease can act as the final blow in a cascade of environmental stressors.
+The global decline of amphibian populations that accelerated through [[batrachochytrium-dendrobatidis]]: The Chytrid Frog Killer
 
-## The Amphibian Decline Mystery
-
-For over a decade, biologists documented declining amphibian numbers in diverse locations worldwide, including places where habitat destruction, pollution, and other obvious environmental insults appeared minimal. No single definitive cause was identified. Multiple hypotheses competed for explanatory power:
-
-- **Habitat loss and fragmentation**: The destruction of wetlands and breeding ponds.
-- **Chemical contamination**: Pesticides, herbicides, and industrial pollutants.
-- **Introduced predators**: Non-native fish and other species introduced into breeding ponds.
-- **Ozone depletion and UV radiation**: Increased ultraviolet-B radiation reaching the Earth's surface due to stratospheric ozone thinning.
-- **Fungal disease**: Pathogenic fungi exploiting immunocompromised or stressed amphibians.
-
-The UV radiation hypothesis was particularly compelling because amphibian eggs mature in exposed locations — shallow water, often at the edges of ponds — and are exquisitely sensitive to UV damage. According to the worst scenario, amphibians serve as better biological indicators than canaries: if ozone depletion continued unabated, humans might eventually be forced to become nocturnal.
-
-## Batrachochytrium dendrobatidis: The Chytrid Frog Killer
-
-In 1998, a multinational research team published a landmark paper in the Proceedings of the National Academy of Sciences describing a chytrid fungus — see [[bloomfield-chytrid-fungi-early-fungal-evolution|chytrid fungi and early fungal evolution]] — parasitizing the skin of sickened frogs. The pathogen was found to produce spore-bearing capsules (sporangia) buried within the keratinized skin layers of affected amphibians.
-
-### Disease Mechanism
-
-Each sporangium of Batrachochytrium dendrobatidis develops a chimney-like structure that opens at the skin surface and discharges chytrid zoospores into the surrounding water. The zoospores swim through the aquatic environment and infect new hosts by attaching to their skin. The fungus feeds on keratin in the amphibian's skin cells, progressively compromising the skin's barrier function.
-
-In amphibians, the skin serves critical physiological roles beyond protection: it is a major respiratory surface for gas exchange and the primary organ for water and electrolyte balance. Disruption of skin integrity by chytrid infection therefore threatens multiple vital functions simultaneously — the animal effectively suffocates and dehydrates through its own skin.
-
-### The Causation Debate
-
-The authors of the 1998 paper indicted the chytrid as the primary cause of amphibian casualties. However, they paid relatively little attention to the possibility that the fungal infections were a secondary consequence of other sources of stress. This distinction matters enormously for conservation strategy: if chytrid is merely an opportunist exploiting already-weakened animals, then addressing the underlying stressors would be more effective than targeting the fungus directly.
-
-## Saprolegnia ferax: The Toad Egg Pathogen
-
-Four years after the chytrid discovery, a separate research team published a study in Nature that revealed a different fungal threat to amphibians. The oomycete water mold **Saprolegnia ferax** was found to be causing lethal infections of western toad eggs (*Bufo boreas*) in the Pacific Northwest of North America. The biology of this water mold is covered in [[bloomfield-saprolegnia-water-mold-zoospore-discharge|Saprolegnia and zoospore discharge]].
+In 1998, a multinational research team published a landmark paper in the Proceedings of the National Academy of Sciences describing a chytrid fungus — see [[bloomfield-saprolegnia-water-mold-zoospore-discharge|Saprolegnia and zoospore discharge]].
 
 ### The Climate-Disease Chain
 
@@ -117,4 +88,4 @@ The amphibian decline story carries several important lessons for conservation b
 
 Following its formal description in 1998, Batrachochytrium dendrobatidis was recognized as the causative agent of **chytridiomycosis**, a disease that has since been implicated in the decline or extinction of hundreds of amphibian species worldwide. The pathogen has been found on every continent where amphibians occur and is considered one of the most destructive wildlife diseases ever recorded. Its spread has been facilitated by the international trade in amphibians — frogs transported for the pet trade, laboratory research, and human food have carried the pathogen to regions where native amphibian populations had no evolutionary exposure and therefore no resistance.
 
-The story of amphibian decline illustrates a broader principle in disease ecology: emerging infectious diseases rarely result from a single cause. The chytrid fungus and Saprolegnia water mold are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence — challenges explored in [[topics/fungal-biodiversity-assessment-and-conservation|fungal biodiversity and conservation]].
+The story of amphibian decline illustrates a broader principle in disease ecology: emerging infectious diseases rarely result from a single cause. The chytrid fungus and Saprolegnia water mold are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence — challenges explored in fungal biodiversity and conservation.

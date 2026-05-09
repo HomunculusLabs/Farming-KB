@@ -3,16 +3,7 @@ title: Mycoremediation Species Selection Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, remediation, environment]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
-
-## Overview
-
-Selecting the right mushroom species for mycoremediation is critical to success. Different species excel at breaking down different contaminants. This guide summarizes Stamets' species recommendations based on experimental evidence and field observations. See also mycoremediation, [[antiviral-properties-of-mushrooms]], and mycorestoration.
+tags: [[antiviral-properties-of-mushrooms]], and mycorestoration.
 
 ## Primary Mycoremediation Species
 
@@ -35,7 +26,7 @@ Selecting the right mushroom species for mycoremediation is critical to success.
 - **Best for:** Wood chips, straw decomposition; companion cultivation
 - **Key advantage:** Large, robust, excellent for garden integration
 - **E. coli destruction:** Shown to destroy E. coli in experimental settings
-- **See also:** [[king-stropharia-wine-cap-cultivation]], [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
+- **See also:** [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 
 ### Shiitake (Lentinula edodes)
 - **Best for:** Wood decomposition, general mycoremediation
@@ -48,48 +39,7 @@ Selecting the right mushroom species for mycoremediation is critical to success.
 - **Best for:** General decomposition, antimicrobial properties
 - **Key advantage:** Broadest hardwood range of any mushroom; perennial; cosmopolitan
 - **Medicinal:** Immunomodulator, anti-inflammatory, anticancer, antiviral, cardioprotective
-- **See also:** [[ganoderma-lucidum-reishi-comprehensive-profile]]
-
-## Heavy Metal Bioaccumulation
-
-Mushrooms accumulate heavy metals from contaminated substrates. Key findings from Battelle experiments and other studies:
-
-| Metal | Accumulating Species |
-|---|---|
-| Cadmium | Agaricus, Pleurotus, Lentinula |
-| Lead | Agaricus, Lentinula, Pleurotus |
-| Mercury | Agaricus, Lentinula |
-| Copper | Lentinula, Pleurotus |
-| Zinc | Most species |
-| Arsenic | Agaricus (especially A. bisporus) |
-
-**WARNING:** Never eat fruitbodies from contaminated remediation sites. Heavy metals are concentrated in mushroom tissue. Use remediation mushrooms for toxin destruction, not food.
-
-## Species by Contaminant Type
-
-### Petroleum and Hydrocarbons
-- Primary: Pleurotus ostreatus (oyster mushroom)
-- Secondary: Trametes versicolor (turkey tail), Stropharia rugoso-annulata
-
-### PAHs (Polycyclic Aromatic Hydrocarbons)
-- Primary: Pleurotus ostreatus
-- Secondary: Trametes versicolor
-
-### PCBs (Polychlorinated Biphenyls)
-- Primary: Pleurotus ostreatus
-- Secondary: Phanerochaete chrysosporium (white-rot fungus)
-
-### E. coli and Coliform Bacteria
-- Stropharia rugoso-annulata (garden giant)
-- Pleurotus spp. (oyster mushrooms)
-
-### Pesticides and Agricultural Chemicals
-- White-rot fungi (Phanerochaete chrysosporium, Trametes versicolor)
-- Pleurotus spp.
-
-### Dyes and Industrial Chemicals
-- Phanerochaete chrysosporium
-- [[trametes-versicolor]]
+- **See also:** [[trametes-versicolor-entity]]
 - Pleurotus spp.
 
 ## Spawn Types
@@ -125,12 +75,7 @@ Mushrooms accumulate heavy metals from contaminated substrates. Key findings fro
 ## Related Topics
 
 - mycoremediation
-- [[antiviral-properties-of-mushrooms]]
-- mycorestoration
 - [[king-stropharia-wine-cap-cultivation]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[medicinal-mushroom-extraction-preparation]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[maitake-grifola-frondosa-comprehensive-profile]]
-- [[casing-layer-preparation]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]

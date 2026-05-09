@@ -19,11 +19,10 @@ type: concept
 Plant growth-promoting fungi (PGPF) encompass a diverse range of fungal
 organisms that enhance plant growth, nutrient acquisition, and stress
 tolerance through multiple direct and indirect mechanisms. These include
-[[mycorrhizal-fungi]], [[endophytic-fungi]], rhizosphere colonizers, and certain
+[[endophytic-fungi]], rhizosphere colonizers, and certain
 saprophytic species. Singh's comprehensive treatment of PGPF mechanisms
 provides a foundation for understanding how fungi contribute to plant
-health in agricultural, forestry, and [[mycoremediation-pahs]] contexts, and
-connects to [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
+health in agricultural, forestry, and [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]].
 
 ## Indole-3-Acetic Acid (IAA) Production
 
@@ -58,18 +57,7 @@ fungi's general stress-mitigation effects.
 Phosphorus is often the most limiting nutrient for plant growth in
 tropical and subtropical soils, where it is predominantly present in
 insoluble mineral forms. Phosphate-solubilizing fungi (PSF) including
-[[aspergillus-niger]], Penicillium spp., and some Trichoderma species
-solubilize inorganic phosphate through the production of organic acids
-(primarily gluconic, citric, and oxalic acids) that chelate calcium,
-iron, or aluminum bound to phosphate, releasing soluble orthophosphate.
-PSF also produce phosphatase enzymes that mineralize organic phosphorus
-compounds in soil. In combination with mycorrhizal fungi, which
-efficiently transport phosphate to roots, PSF create a synergistic
-system for maximizing plant phosphorus nutrition.
-
-## Siderophore-Mediated Iron Nutrition
-
-As detailed in [[singh-fungal-siderophore-production-iron-acquisition]], many PGPF produce
+[[singh-fungal-siderophore-production-iron-acquisition]], many PGPF produce
 hydroxamate or carboxylate siderophores that chelate Fe3+ from soil
 minerals and deliver it to plant roots. This improves iron nutrition
 in calcareous and alkaline soils where iron deficiency is common.
@@ -88,38 +76,7 @@ sesquiterpenes, alcohols, ketones, and esters can stimulate seed
 germination, enhance root elongation, increase photosynthetic rate,
 and induce systemic defenses. The airborne nature of VOCs means their
 effects can extend over considerable distances, potentially influencing
-neighboring plants through [[singh-mycorrhizal-network-carbon-transfer-plants]] connections.
-
-## Systemic Resistance Induction
-
-PGPF prime plant immune systems for enhanced defense responses without
-constitutively activating them (which would incur growth costs). This
-priming can result in induced systemic resistance (ISR) or systemic
-acquired resistance (SAR), depending on the signaling pathways involved.
-
-### Induced Systemic Resistance
-ISR mediated by PGPF such as Trichoderma, Piriformospora, and
-mycorrhizal fungi typically involves the jasmonic acid (JA) and
-ethylene (ET) signaling pathways. Plants colonized by these fungi show
-faster and stronger activation of defense responses upon subsequent
-pathogen attack, including increased production of pathogenesis-related
-proteins, phenolic compounds, and callose deposition. ISR is effective
-primarily against necrotrophic pathogens and chewing insects.
-
-### Biochemical Priming
-Fungal colonization triggers changes in plant secondary metabolism
-that enhance resistance to multiple stresses. Phenylpropanoid pathway
-activation leads to increased lignin and flavonoid biosynthesis.
-Antioxidant enzyme systems (superoxide dismutase, catalase,
-peroxidase) are upregulated, improving oxidative stress tolerance.
-These primed states can persist for weeks after initial fungal
-colonization, providing lasting protection.
-
-## Nitrogen Fixation and Mobilization
-
-While true nitrogen fixation is rare among fungi, some endophytic
-associations contribute to nitrogen nutrition through indirect
-mechanisms. [[piriformospora-indica]] and related Serendipitaceae enhance
+neighboring plants through [[piriformospora-indica]] and related Serendipitaceae enhance
 nitrogen uptake from soil. Certain fungal endophytes in association
 with nitrogen-fixing bacteria create consortia that improve nitrogen
 availability to plants. Mycorrhizal fungi facilitate access to organic
@@ -147,4 +104,3 @@ metabolites), competition for nutrients and ecological niches in the
 rhizosphere, and enzyme-mediated degradation of pathogen cell walls.
 The combined action of these biocontrol mechanisms with direct growth
 promotion makes PGPF valuable components of [[integrated-pest-management]]
-strategies and sustainable agriculture.

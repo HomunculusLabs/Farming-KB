@@ -1,138 +1,103 @@
 ---
 title: Soil Gaseous Exchange and Aerobic-Anaerobic Micro-Sites
 created: 2026-04-26
-tags: [permaculture, soil-science, soil-biology, ethylene, no-till]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Soil Gaseous Exchange and Aerobic-Anaerobic Micro-Sites
-
-Natural soil is always a mosaic of aerobic and anaerobic
-patches called micro-sites, where either oxygen (aerobic) or
-ethylene (anaerobic) conditions develop. This gaseous dance
-is fundamental to plant nutrition, soil health, and the
-rationale for no-tillage systems in permaculture.
-
-## Gases Manufactured in Soils
-
-Several gases are produced naturally in soils through
-biological and geochemical processes:
-
-- By way of titanium or rutile (TiFe), ammonia is
-  manufactured in sands in the presence of sunlight.
-
-- By way of ferrous iron, ethylene (C2H4) is manufactured
-  in anaerobic soil micro-sites.
-
-- In anaerobic soils and waters, carbon dioxide, methane,
-  sulphuretted hydrogen, ethylene, and sulphur dioxide are
-  formed and escape to air as biogas or marsh gas.
-
-The same products are present in mottled soils of
-hydrophobic clays in winter, soils where crumb structure has
-been destroyed by misuse, where salt has deflocculated clays
-and caused soil collapse, or where water periodically floods
-the soil. Many of these gases are found as a result of humus
-decay and thiobacillus (sulphur bacteria) action.
-
-Ammonia is released from actively nodulating legumes (trees
-and herbs), and is used in unploughed soils as a plant
-nutrient. Gaseous compounds are continually made in the soil
-itself by processes of metabolic growth and decay in the
-presence of metallic catalysts and micro-organisms. Molybdenum,
-vanadium, and zinc all assist root bacteria in the creation
-of available soil nitrogen (as catalysts).
-
-## The Oxygen-Ethylene Cycle
-
-Ethylene inhibits (in the sense of suspending) microbial
-activity, and like carbon dioxide, is present as 1-2 ppm in
-soils. As the ethylene at an oxygen-exhausted site diffuses
-out, oxygen floods back and re-activates the site.
-
-Under natural forests and grasslands, this cycle of oxygen
-and ethylene is continuous, and most nitrogen there occurs
-as ammonia, useful to plants and plant roots.
-
-## The Problem with Cultivation
-
-When we cultivate and aerate soils, nitrogen becomes a
-nitrate or a nitrite (which then inhibit ethylene production),
-and ferric rather than ferrous iron forms, thus making
-ethylene formation difficult. The process from decaying leaf
-to ethylene production requires a ferrous iron catalyst.
-
-Plant nutrients become tightly bound to ferric iron and
-unavailable for root uptake. The production of ethylene is
-essential to plant health and the availability of nutrients.
-
-The aerobic condition of soils such as we get from ploughing
-or digging not only creates a condition of "unavoidable"
-nutrients and ferric iron, but also oxidises humus, which
-goes to air as carbon dioxide. Most plant root pathogens
-require the aerobic condition. The nitrate form of nitrogen,
-which is highly mobile, leaches out when bare soils occupy
-the site.
-
-In all, ploughing and earth turning create a net loss of
-nutrients in several ways, leading to atmospheric pollution,
-stream pollution, and low soil nutrient states.
-
-## Role of Soil Burrowers
-
-Animals are very active in opening up soils with small or
-large burrows. These act as pump pistons (like a train in a
-tunnel) to draw in and exhaust both waste gases and
-atmospheric gaseous elements, which are then diffused to
-roots via soil pores.
-
-Many burrowers (ants, crabs, termites, prairie dogs, worms,
-land crayfish) raise up mounds or chimneys that act as Pitot
-tubes for air flow or to create pressure differentials which
-draw air actively through their burrows. Others erect large
-surface structures of permeable sediments across which waste
-gases diffuse (e.g., termite mounds).
-
-## Recommendations for Soil Health
-
-Smith recommends least soil disturbance, the use of surface
-mulch (not incorporated) as an ethylene precursor (old leaves
-are best for this), and very small but frequent ammonia
-fertiliser until soil balances are recovered.
-
-The ideal conditions for healthy gaseous exchange are:
-
-- Permanent pasture
-
-- Forests
-
-- Orchards with permanent green crop as mulch
-
-- No-dig or mulched gardens
-
-- No- or low-cultivation of field crops, or field crops
-  between strips of forest to provide leaves and nutrients
-
-- The use of legumes in a similar proportion to that
-  occurring in natural plant associations in the area, at
-  all stages of the succession
-
-Under these conditions, soil mineral availability is made
-possible and soils do not lock up nutrients in oxides or
-produce pollutants. When plant leaf (not soil) deficiency
-can be adjusted with aqueous foliar sprays, nature starts
-to function again to obtain nutrients from soils via
-microbes and root mycorrhiza at the micro-site level.
-
-## See Also
-
-- [[mollison-humus-and-organic-matter-in-soils]]
-- [[permaculture-soil-biota-and-earthworms]]
+tags: [[mollison-humus-and-organic-matter-in-soils]]
 - [[mollison-grain-crops-and-no-tillage-systems]]
-- [[mollison-green-manure-soil-fertility]]
 - [[mollison-life-in-earth-burrowers-roots]]
 - [[mollison-soil-elements-periodic-table]]
+## Overview
+
+Soil Gaseous Exchange and Aerobic-Anaerobic Micro-Sites is a key concept within permaculture design and practice.
+Permaculture emphasizes working with natural systems rather than against
+them, creating sustainable and regenerative human habitats that produce
+abundant yields while improving ecosystem health over time.
+
+## Core Principles
+
+Several foundational principles guide the implementation of this approach.
+These include careful observation of natural patterns, capturing and storing
+energy, obtaining a yield, applying self-regulation, using and valuing
+renewable resources, producing no waste, and designing from patterns to
+details. Each principle informs practical decision-making in design.
+
+## Practical Application
+
+In practice, this involves thoughtful integration of elements within the
+landscape to create mutually beneficial relationships. Zone planning,
+sector analysis, and element placement all contribute to efficient and
+resilient systems. The goal is to minimize external inputs while
+maximizing the productivity and ecological health of the system.
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including slope,
+water flow, sun exposure, existing vegetation, soil conditions, and local
+climate patterns. These factors inform the placement of elements and the
+selection of appropriate species and techniques for the specific context.
+
+## Benefits and Outcomes
+
+When properly implemented, these approaches yield multiple benefits
+including improved soil health, increased biodiversity, reduced maintenance
+requirements, enhanced food production, and greater overall system
+resilience. The long-term productivity of well-designed systems typically
+increases over time as ecological relationships mature and strengthen.
+## Practical Considerations
+
+When working with Soil Gaseous Exchange and Aerobic-Anaerobic Micro-Sites, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

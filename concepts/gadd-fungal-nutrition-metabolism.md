@@ -79,16 +79,10 @@ Studies using competitive RT-PCR have shown that fungal enzyme gene expression p
 
 ## See Also
 
-- [[gadd-fungal-sporulation-aerobiology]]
-
 - [[cellulase-enzyme-systems-in-fungi]]
-- [[enzyme-based-bioremediation]]
 - [[soil-food-web-nutrient-cycling]]
 
-- [[fungal-cellulose-decomposition-fungal-enzymes]]
 - [[fungal-chitin-decomposition-nutrient-cycling]]
-- [[fungal-hemicellulose-pectin-decomposition]]
 - [[fungal-lignocellulose-degradation-mechanisms]]
-- [[gadd-fungal-cell-structure]]
 - [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-biodegradation-bioremediation]]

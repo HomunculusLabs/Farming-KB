@@ -95,33 +95,14 @@ The U.S. government's cannabinoid neuroprotection patent cites utility in "limit
 - **Sativa strains** with higher THC content may be more effective for central neuropathic pain via CB1
 - **Hybrid strains** provide balanced CB1/CB2 engagement
 - Whole-plant preparations (like Sativex) that combine THC and CBD may provide the best balance for neuropathic pain
-- The [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] of full-spectrum cannabis enhances pain relief beyond isolated cannabinoids
-
-## Related Topics
-
-- [[cannabis-chronic-pain-management]]
-- [[cannabis-for-chronic-pain]]
+- The [[cannabis-chronic-pain-management]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-for-multiple-sclerosis]]
 - [[cannabis-and-neuroprotection]]
-- [[cannabis-drug-interactions-and-contraindications]]
-
-## Key Insight
-
-Neuropathic pain represents one of the most promising therapeutic applications for cannabis, particularly because conventional analgesics often fail to provide adequate relief. The dual CB1/CB2 mechanism allows cannabis to address both the central pain processing and peripheral inflammation that characterize neuropathic pain conditions.
-
-## See Also
-
 - [[blesching-cannabis-neuropathic-pain]]
 
-- [[dom-compound-profile]]
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[cannabis-for-chronic-pain]]
-- [[cannabis-for-multiple-sclerosis]]
 - [[cannabis-anti-inflammatory-applications]]
 
 ## Merged: Cannabis For Spinal Cord Injuries
-updated: 2026-04-18 Spinal cord injuries (SCI) are among the most devastating traumatic events, resulting from external trauma (car crash, gunshot) or internal trauma (stroke, aneurysm) or diseases such as cancer. The spine houses and protects the spinal cord, the thick bundle of nerves descending from the medulla oblongata through the center of the spine. See also cannabis for neuropathic pain. - Neuropathic pain - [[cannabis-for-multiple-sclerosis]] - Neuropathies general - Muscle spasms Uwe Blesching, The Cannabis Health Index (2015), Section: Spinal Cord Injuries
-## Merged: Cannabis And Neuropathies
-updated: 2026-04-18 Neuropathies are pains generally caused over time by nerve damage from past traumatic events (pressure, heat, cold, chemicals, radiation) or a progression of certain diseases, toxins, pathogens, or lack of nutrients. Deformities, scar tissue, impaired tissue metabolism, impairment of nerve fiber insulation (demyelination), and inflammation all individually or together contribute to neuropathies. Other common causes include diabetes, [[cannabis-for-multiple-sclerosis]], AIDS, and shingles (Herpes zoster). Sativex contains THC and CBD in similar proportions as the strain [[cannabis-sativa-vs-indica-guide]]. See also cannabis for neuropathic pain and [[cannabis-endocannabinoid-system]]. Related: [[cannabis-for-chemotherapy-nausea]], [[cannabis-for-multiple-sclerosis]], Spinal cord injury spasms
+updated: 2026-04-18 Spinal cord injuries (SCI) are among the most devastating traumatic events, resulting from external trauma (car crash, gunshot) or internal trauma (stroke, aneurysm) or diseases such as cancer. The spine houses and protects the spinal cord, the thick bundle of nerves descending from the medulla oblongata through the center of the spine. See also cannabis for neuropathic pain. - Neuropathic pain - [[cannabis-for-multiple-sclerosis]], AIDS, and shingles (Herpes zoster). Sativex contains THC and CBD in similar proportions as the strain [[cannabis-endocannabinoid-system]]. Related: [[cannabis-for-multiple-sclerosis]], Spinal cord injury spasms

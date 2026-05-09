@@ -1,7 +1,7 @@
 ---
 title: "White Rot and Brown Rot Fungi"
 created: 2026-04-28
-tags: [mycology, wood-decay, lignin, cellulose, enzymes]
+tags: [[mycology, wood-decay, lignin, cellulose, enzymes]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -32,9 +32,8 @@ Examples of brown rot mushrooms include the multicolored gilled
 polypore (Lenzites betulina), large lentinus (Lentinus ponderosus),
 sulphur tufts (Laetiporus sulphureus and Laetiporus conifericola),
 velvet polypore (Phaeolus schweinitzii), split-gill polypore
-([[schizophyllum-commune]]), agarikon (Fomitopsis officinalis), unzoned
-rusty gilled polypore ([[gloeophyllum-trabeum]]), and dry rot house
-wreckers (such as [[serpula-lacrymans]] and [[serpula-himantioides]]). Brown
+([[gloeophyllum-trabeum]]), and dry rot house
+wreckers (such as [[serpula-himantioides]]). Brown
 rot fungi are particularly important in conifer forest ecosystems,
 where they are among the primary agents of wood decomposition.
 
@@ -44,10 +43,9 @@ White rot fungi, more numerous than brown rotters, produce enzymes
 that break down the recalcitrant brown fiber in wood (lignin),
 leaving the cellulose largely intact, thus giving the wood a white
 appearance. Among the more powerful white rot mushrooms are the
-oyster mushroom ([[pleurotus-ostreatus]]), maitake ([[grifola-frondosa]]),
-turkey tail ([[trametes-versicolor]]), reishi ([[ganoderma-lucidum]]),
-artist conk ([[ganoderma-applanatum]]), and crust fungus
-([[phanerochaete-chrysosporium]]).
+oyster mushroom ([[grifola-frondosa]]),
+turkey tail ([[ganoderma-lucidum]]),
+artist conk ([[phanerochaete-chrysosporium]]).
 
 White rot mushrooms are mycoremediators of toxins held together by
 hydrogen-carbon bonds. Enzymes secreted by this group's mycelia
@@ -63,63 +61,24 @@ Some species of mushrooms produce both types of rot, leaving a
 mottled white and brown discoloration in the wood. This makes
 identifying rots tricky. Bear's head (Hericium abietis) causes a
 white rot in the core of a stump while the outer regions become
-brown. The clustered woodlover ([[hypholoma-capnoides]]) grows on
-conifers, cedars, and redwoods; although this species belongs to
-the Strophariaceae, a family of white rotters, it is usually seen
-emerging from dark-colored wood.
-
-## Enzymatic Breakdown of Toxins
-
-These complex enzyme mixtures allow white rot mycelium to dismantle
-some of the most resistant materials made by humans or nature. Since
-many of the bonds that hold plant material together are similar to
-the bonds found in petroleum products, including diesel, oil, and
-many herbicides and pesticides, mycelial enzymes are well suited
-for decomposing a wide spectrum of durable toxic chemicals.
-
-Because the mycelium breaks the hydrogen-carbon bonds, the primary
-nonsolid by-products are liberated in the form of water and carbon
-dioxide. More than 50 percent of the organic mass cleaves off as
-carbon dioxide and 10 to 20 percent as water. This is why compost
-piles dramatically shrink and ooze leachate as they mature. The
-similarity between wood chemistry and many industrial pollutants
-is the foundation of mycoremediation technology.
-
-## The Clustered Woodlover and Resistant Woods
-
-The only mushroom species known to have the enzymatic strength to
-saprophytize difficult-to-decompose woods like cedar and redwood
-is the heroic clustered woodlover (Hypholoma capnoides). Cedar and
-redwood logs supporting this mushroom were aged at least 20 years.
-The mycelium struggles to decompose these woods for a long time
-before a mushroom forms. This tree-fungus pairing is suggested for
-experimental or environmental purposes rather than production,
-demonstrating the range of enzymatic capabilities among fungi.
-
-## Key Principles
-
-- Enzyme specificity: Brown rot targets cellulose; white rot
-  targets lignin; some species combine both strategies
-- Lignin peroxidases: White rot enzymes that break hydrogen-
-  carbon bonds shared by wood and many synthetic toxins
-- Manganese peroxidase: Unique to white rot fungi, this enzyme
-  is especially efficient at mineralizing resistant compounds
-- Mass conversion: Over 50 percent of decomposed organic mass
-  converts to carbon dioxide and 10 to 20 percent to water
-
-## Applications
-
-- Mycoremediation of petroleum-contaminated soils using white rot
-  fungi such as oyster mushroom and turkey tail
-- Biopulping in the paper industry using white rot fungi to reduce
-  chemical processing requirements
-- Decomposition of persistent organic pollutants including PCBs,
-  dioxins, and pesticides through enzymatic breakdown
-- Strategic pairing of brown and white rot species for complete
-  decomposition of woody debris in forestry operations
-
-## See Also
-
-- [[mycelium-running-multi-kingdom-bioremediation]]
-- [[mycelium-running-saprophytic-decomposers]]
+brown. The clustered woodlover ([[mycelium-running-multi-kingdom-bioremediation]]
 - [[mycelium-running-mycelium-soil-building]]
+## Practical Considerations
+
+Successful implementation of White Rot and Brown Rot Fungi requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

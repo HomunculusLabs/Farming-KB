@@ -14,12 +14,7 @@ type: concept
 
 ## Overview
 
-[[psychotria-viridis]] (Rubiaceae), known throughout the Amazon as
-**Chacruna** or **Chacrona**, is the second most important ingredient in
-the [[schultes-ayahuasca-magic-drink-amazon]] drink. While the [[banisteriopsis-caapi]] vine provides
-the MAO-inhibiting beta-carboline alkaloids, it is the leaves of
-Psychotria viridis that supply the visionary compound
-[[dmt-dimethyltryptamine-experience-guide]] — the molecule primarily responsible for
+[[schultes-ayahuasca-magic-drink-amazon]] drink. While the [[dmt-dimethyltryptamine-experience-guide]] — the molecule primarily responsible for
 the vivid hallucinatory visions characteristic of the ayahuasca
 experience.
 
@@ -40,26 +35,7 @@ sometimes also referred to by indigenous names such as "Cahua."
 
 ## Role in Ayahuasca Preparation
 
-The preparation of [[schultes-ayahuasca-magic-drink-amazon]] traditionally combines two essential
-plant components. The bark of the Banisteriopsis caapi vine is scraped,
-pounded, and boiled — sometimes for hours — to extract the
-beta-carboline alkaloids harmine, harmaline, and tetrahydroharmine. To
-this base, fresh or dried leaves of Psychotria viridis are added and
-cooked together. The resulting bitter, thick liquid constitutes the
-ayahuasca drink.
-
-The inclusion of Chacruna leaves fundamentally transforms the
-experience. Without the DMT-containing additive, the basic Banisteriopsis
-drink produces visions usually in muted blue, purple, or gray tones.
-When Psychotria leaves are present, the visions become notably more
-vivid and brightly colored — bursting with reds and yellows — and the
-length and intensity of the hallucinatory experience are significantly
-enhanced.
-
-## Chemistry: The Pharmacological Synergy
-
-The leaves of Psychotria viridis contain approximately 0.1% to 0.61%
-[[dmt-dimethyltryptamine-experience-guide]] by dry weight, along with traces of
+The preparation of [[dmt-dimethyltryptamine-experience-guide]] by dry weight, along with traces of
 other alkaloids. DMT is a potent tryptamine hallucinogen, but when taken
 orally it is normally inactive because the enzyme monoamine oxidase
 (MAO) in the gut breaks it down before it can cross the blood-brain
@@ -120,12 +96,8 @@ likely remain uninvestigated for their psychoactive properties.
 
 ## See Also
 
-- [[4-po-dmt]]
-
 - [[schultes-ayahuasca-magic-drink-amazon]] — the primary ayahuasca
   vine and its ceremonial use
-- [[schultes-ayahuasca-analogs-dmt-plants]] — other DMT-containing
-  plants used in ayahuasca preparations
 - [[schultes-syrian-rue-seeds-civilization]] — Peganum harmala, source
   of harmine and harmaline alkaloids
 - [[schultes-morning-glory-ipomoea-seeds]] — another plant containing

@@ -85,46 +85,8 @@ range by sheer biomass.
 
 *Psilocybe stuntzii* is considered weakly to moderately active. Beug and
 Bigwood (1982b) reported a range of 0–0.36% psilocybin and 0–0.12% psilocin
-by dry weight. Repke et al. (1977) reported 0.02% [[baeocystin]]. Potency can
-vary considerably between collections, with some specimens containing only
-trace amounts of active compounds. By weight, it is one of the less potent
-of the bluing Psilocybes.
-
-## Identification Notes
-
-The most characteristic feature of *Psilocybe stuntzii* is its whitish partial
-veil that bruises bluish or is naturally bluish tinged. This bluish annular
-zone, combined with the species' preference for conifer wood chip habitats in
-the Pacific Northwest, is diagnostic. The viscid cap with a gelatinous pellicle
-and the rhizomorphs at the stem base are additional useful field characters.
-The dark purplish brown spore print distinguishes it from many non-active
-species that may share similar habitats.
-
-## Similar Species
-
-- **psilocybe-subfimetaria** — Can occupy similar wood-chip habitats but
-  differs in microscopic features and geographic distribution. Compare
-  cheilocystidia morphology and spore dimensions carefully.
-
-- **psilocybe-liniformans** — Shares the section *Stuntzii* affinity and
-  membranous partial veil characteristics. Distinguished by differences in
-  gill attachment patterns and overall stature.
-
-- **Galerina species** — Several *Galerina* species,
-  particularly *Galerina marginata*, fruit in similar wood-chip and mulch
-  habitats and can resemble *P. stuntzii* in general appearance. *Galerina
-  marginata* contains deadly amatoxins and is one of the most dangerous
-  lookalikes. Carefully note the brown spore print of *Galerina* versus the
-  dark purplish brown spore print of *P. stuntzii*, and examine microscopic
-  features when in doubt. The partial veil in *Galerina* typically lacks the
-  distinctive bluish staining seen in *P. stuntzii*.
-
-## See Also
-
-- [[psilocybe-cyanescens]] — Another common Pacific Northwest psilocybin
+by dry weight. Repke et al. (1977) reported 0.02% [[psilocybe-cyanescens]] — Another common Pacific Northwest psilocybin
   mushroom found in similar habitats.
-- [[psilocybe-azurescens]] — Coastal dune grass species of the Pacific
-  Northwest with significantly higher potency.
 - [[psilocybe-baeocystis]] — Named for the same psychoactive compound found
   in *P. stuntzii*; also native to the Pacific Northwest.
 - galerina-marginata — Deadly toxic lookalike; critical to distinguish

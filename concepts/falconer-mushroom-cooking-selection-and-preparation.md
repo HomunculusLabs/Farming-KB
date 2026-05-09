@@ -2,7 +2,7 @@
 title: Falconer Mushroom Cooking Selection and Preparation
 created: 2026-04-28
 tags:
-  [mushroom-cultivation, victorian-cooking, food-preparation, mushroom-identification, kitchen-skills]
+  [[mushroom-cultivation, victorian-cooking, food-preparation, mushroom-identification, kitchen-skills]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -39,29 +39,7 @@ gills of the mushrooms will retain their pink tinge for a day
 after the frill breaks open, but they soon grow browner and
 blacker, until in a few days they are unfit for food.
 
-In [[falconer-gathering-and-marketing-mushrooms]], the mushrooms should be pulled and
-never cut, and kept in this way until ready to prepare them
-for cooking. By retaining the stem uncut the mushroom holds
-its freshness and plumpness much longer than it would were
-the stems removed.
-
-Keep them in a cool, dark place, and in an earthenware vessel
-with a cover or a thick, damp cloth thrown over it; this will
-preserve their plumpness.
-
-## Inspecting Before Cooking
-
-Carefully inspect the mushrooms before cooking them. If the
-gills are black and the mushrooms are too old do not use them;
-if the cap is perforated by insects discard it, as it is very
-likely there are maggots inside; or if there are dark brown
-spots on the top of the caps throw the mushrooms away. Old
-mushrooms are tough, ill-looking, bad-tasting and indigestible.
-
-Those infested by insects, although not poisonous, are very
-repugnant, and should not be used. But the dangerous mushroom
-is the one affected by "Flock," a disease described in
-[[falconer-mushroom-diseases-treatment]].
+In [[falconer-mushroom-diseases-treatment]].
 
 ## Cleaning and Peeling
 
@@ -139,12 +117,8 @@ preference should always be for flavor over appearance.
 ## Key Principles for the Cook
 
 Several principles emerge from Falconer's treatment of
-[[mushroom-pda-preparation-simplified]] that distinguish the knowledgeable cook
-from the indifferent one:
-
-- Always pull, never cut mushrooms when gathering
-- Keep the stem intact until ready to cook
-- Examine critically for signs of [[falconer-mushroom-insect-enemies]] and disease
+[[falconer-mushroom-insect-enemies]] and disease
 - Peel large mushrooms; rub small ones with vinegar
 - Serve immediately and always hot
-- Preserve aroma by covered cooking and covered serving
+
+See also: [[seed-saving-and-plant-breeding]]

@@ -89,11 +89,7 @@ The systematic exploration of chain length effects provides evidence that:
 
 ## Related Topics
 
-- [[phenethylamine-chemistry-basics]]
 - [[phenethylamine-receptor-pharmacology]]
-- [[2c-family-chemistry-and-sar-pihkal]]
 - [[2c-family-compounds-overview]]
-- [[neurochemical-probes-brain-imaging-pihkal]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]
-- [[md-family-structure-activity]]
 - [[tweetio-series-ethoxy-homologues-pihkal]]

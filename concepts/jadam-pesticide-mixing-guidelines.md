@@ -19,25 +19,9 @@ Proper mixing of JADAM natural pesticide (JNP) ingredients is critical for effec
 ### Step-by-Step for 500 L (132 gal) barrel:
 
 1. **Half-fill** the pesticide barrel with water
-2. **Add JWA** ([[jadam-wetting-agent-jwa]]) separately into the water
-3. **Mix thoroughly** after adding JWA
-4. **Add JS** ([[jadam-sulfur-js]]) separately into the water
+2. **Add JWA** ([[jadam-sulfur-js]]) separately into the water
 5. **Mix thoroughly** after adding JS
-6. **Add JHS** ([[jadam-herb-solution-jhs]]) separately into the water
-7. **Mix thoroughly** after adding JHS
-8. **Fill up** the barrel with water to 500 L
-9. **Mix thoroughly** again
-10. **Mix more when cold** -- cold temperatures reduce solubility
-
-### Critical Rule: Never Mix JWA and JS Directly
-- JWA and JS will **clot** if mixed together directly
-- Always add each ingredient into water separately
-- Water acts as a buffer between the two
-
-## Ingredient Interaction Rules
-
-### JNP Can Be Mixed With JLF
-- JNP can be combined with [[jadam-liquid-fertilizer]]
+6. **Add JHS** ([[jadam-liquid-fertilizer]]
 - When mixing JLF into JNP, increase JWA amount
 - JLF can reduce foaming -- if foam is weak, add more JWA
 
@@ -99,12 +83,8 @@ If you have bees in your greenhouse:
 
 ## See Also
 
-- [[jadam-concentration-cautions]] - Safety warnings for pesticide concentrations
-
 - [[jadam-concentration-guidelines]] - Detailed concentration safety rules
-- [[jadam-natural-pesticide-jnp]] - JNP system overview
 - [[jadam-wetting-agent-jwa]] - Wetting agent making guide
-- [[jadam-water-softener]] - Water quality requirements
 - [[jadam-pest-control-recipes]] - All numbered recipes
 
 ## Related

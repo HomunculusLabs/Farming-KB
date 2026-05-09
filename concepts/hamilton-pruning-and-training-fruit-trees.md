@@ -96,22 +96,7 @@ Sometimes fruit trees fail to produce shoots along one part of the stem. Nature 
 ## General Fruit Cultivation
 
 ### Feeding
-Apply two handfuls of [[mollison-aquaculture-harvest-and-fish-nutrition]] per square yard/meter in early spring. Feeding roots are at the tips of the main root system rather than near the stem, so apply fertilizer in a wide band. Mulch with well-rotted manure or compost for [[mycelium-running-mycelium-soil-building]]. If deficiency symptoms appear, spray immediately with liquid [[hamilton-kelp-and-seaweed-in-organic-gardening]] and apply kelp meal to the soil.
-
-### Watering
-Water when fruit is swelling for best results. Stop watering when fruits color up to discourage fungal disease. Apply water through a hose and sprinkler for at least an hour at a time; small amounts bring roots to the surface where they dry out.
-
-### Thinning
-Most trees drop excess fruit naturally in midsummer. Delay thinning until then. Remove the central ("crown") fruit from each cluster. Thinning does not reduce total weight harvested—fewer fruits, each bigger.
-
-### Pest Protection
-Birds are the most persistent fruit pest. Options include: a fruit cage (strong posts with wires and heavy-duty netting, with a flap or door for access), standard garden netting over small bushes, or individual perforated plastic bags over developing apples and pears. Net only when fruit is nearly ripe.
-
-## Related
-
-- [[hamilton-vegetative-propagation]]
-- [[hamilton-ornamental-trees]]
+Apply two handfuls of [[mycelium-running-mycelium-soil-building]]. If deficiency symptoms appear, spray immediately with liquid [[hamilton-vegetative-propagation]]
 - [[hamilton-greenhouse-management-organic]]
-- [[hamilton-climbing-plants-organic]]
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]
 - [[hamilton-rose-growing-organic]]

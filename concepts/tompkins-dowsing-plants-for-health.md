@@ -114,8 +114,7 @@ The implications of this system for assessing plant and food quality
 suggest that vitality can be measured objectively, and that fresh,
 organically grown produce retains significantly higher radiant energy
 than processed or chemically treated foods. This connects directly to
-the broader themes explored in [[tompkins-plant-perception-experiments]]
-and [[tompkins-kirlian-photography-plant-auras]], where other methods
+the broader themes explored in [[tompkins-kirlian-photography-plant-auras]], where other methods
 of measuring plant vitality and energy fields are documented.
 
 ## Philosophical Implications
@@ -136,11 +135,11 @@ radiations that correlate with their vitality and life force.
 
 ## See Also
 
-- [[tompkins-electricity-plants-historical-discoveries]]
-
 - [[tompkins-kirlian-photography-plant-auras]] - Kirlian photography
   as another method of visualizing plant energy fields
-- [[biodynamic-agriculture-and-steiner]] - Biodynamic methods that
-  also address etheric forces in plants
 - [[plant-intelligence-and-communication]] - Broader context of plant
   sensitivity research
+
+## See Also
+
+- [[tompkins-soil-health-humus-connection]]

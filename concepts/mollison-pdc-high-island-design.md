@@ -14,45 +14,7 @@ sources:
 type: concept
 ---
 
-# High [[island-permaculture-design]]
-
-## High Island Characteristics
-
-High islands, whether volcanic or granitic, over a thousand feet high,
-develop characteristic weather patterns. They will have a very humid top
-with sub-humid slopes. If more than five degrees off the equator, the
-island develops a wet and dry side due to seasonal winds. The wet side
-receives heavy orographic rainfall as winds rise, peak, and fall. On the
-lee side, winds lose moisture, heat up, and gain evaporative power on a
-lower pressure system.
-
-The water table is generally high and catchment potentially good. Fresh
-water often travels out beyond the island and bubbles up in the sea as
-visible springs, known to peoples who do much diving.
-
-## Climate Gradients Downhill
-
-A key high island design principle is playing "climate games downhill."
-If the island is high enough -- two thousand feet -- you gain the
-equivalent of seven to twelve degrees of latitude. This allows:
-
-- Descending from plum and deciduous species at altitude to
-  ultra-tropical equatorial species at sea level
-- Low light tolerance trees at higher elevations where mists are common
-- Mist often reproduces the island shape above it; the cloud belonging
-  to your island is recognizable from the sea
-- The amount of water generated is directly relevant to the amount of
-  forest on the island
-
-Historically, springs have dried up or recommenced flowing depending on
-whether forest is being removed or is extending. Mollison notes that
-fields that were dry grasslands in living memory are now wet, marshy,
-forested areas as forest cover extends downhill.
-
-## The Hawaiian Ohana System
-
-Mollison presents the ancient Hawaiian land division as a model of
-watershed-based [[permaculture-design]]. The Ohana system followed natural
+# High [[permaculture-design]]. The Ohana system followed natural
 volcanic runoff patterns and river systems, dividing land from mountain
 ridge to surrounding reef:
 
@@ -142,9 +104,7 @@ concentrates.
   points
 8. Use cross-wind rock mulch walls for dryland crop establishment
 9. Design for the periodicity of tidal waves and volcanic mud flows
-
 ## See Also
 
-- [[mollison-pdc-low-island-design]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]
 - [[mollison-pdc-solar-greenhouse-design]]

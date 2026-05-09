@@ -1,12 +1,3 @@
----
-title: Plant Vision and Light Perception
-created: 2026-04-24
-updated: 2026-04-24
-type: concept
-tags: [plant-biology, photoreception, phototropism, phytochrome, darwin,
-       photoperiodism]
-sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
----
 
 # Plant Vision and Light Perception
 
@@ -52,7 +43,7 @@ vision.
 Light waves fall between 0.0000004 and 0.0000007 metre long, positioned between radio
 waves (almost half a mile long) and X-rays (one trillion times shorter than radio
 waves). Blue light has the shortest wavelength in the visible spectrum, while red
-light has the longest, with green, yellow, and orange in between. The [[cervantes-photosynthesis-chlorophyll-plant-science]]
+light has the longest, with green, yellow, and orange in between. The [[plant-science-exploring-rich-history]]
 of pigment absorption explains why these particular wavelengths drive plant metabolism. This is why rainbow
 color patterns are always oriented the same direction -- from short-wave blue to
 long-wave red. Plants perceive not only this visible range but extend into
@@ -81,17 +72,7 @@ conditions:
 
 - **a.** Untreated seedling: bent toward light (confirming experimental conditions)
 - **b.** Tip pruned off: went blind, could not bend toward light
-- **c.** Tip covered with lightproof cap: went blind, no bending
-- **d.** Tip covered with clear glass cap: still bent toward light (glass allowed
-  light through)
-- **e.** Middle covered with lightproof tube: still bent toward light
-
-This elegant experiment proved that phototropism results from light hitting the
-shoot tip, which "sees" the light and transfers this information to the midsection
-to direct bending. The bending response was not due to photosynthesis (turning light
-into energy) but to some inherent sensitivity to move toward light. The Darwins had
-successfully demonstrated rudimentary sight in plants. Similar directional growth
-responses, including [[mushroom-tropisms-phototropism-geotropism]] in fungi, have been
+- **c.** Tip covered with [[mushroom-tropisms]]-phototropism-geotropism in fungi, have been
 studied across kingdoms.
 
 ## Photoperiodism: Measuring Day Length
@@ -111,38 +92,14 @@ outside in the fields. The other group was put in the field during the day but m
 to a dark shed every afternoon. Simply limiting the amount of light the plants saw
 was enough to cause Maryland Mammoth to stop growing and start flowering. This
 phenomenon -- photoperiodism -- provided the first strong evidence that plants
-measure how much light they take in. Plants were classified as "short-day"
-(chrysanthemums, soybeans) or "long-day" (irises, barley) based on their flowering
-requirements.
+measure how much light they take in. Plants were classified as "[[chamovitz-photoperiodism-agricultural-applications]]-phytochrome
 
-### Measuring Night, Not Day
+- [[plant-teachers-ayahuasca]]-and-vegetalista-cosmology
 
-Scientists discovered around World War II that plants measure not the length of the
-day but the length of the continuous period of darkness. A few minutes of light in
-the middle of the night could prevent short-day plants from flowering or trigger
-long-day plants to flower prematurely. This technique has practical commercial
-application: chrysanthemum farmers can keep plants from flowering until just before
-Mother's Day by turning on lights briefly each night throughout autumn and winter,
-then stopping two weeks before the desired harvest to trigger simultaneous blooming.
+## Merged: Plant Photoreceptors and Light Sensing
 
-## Phytochrome: The Light-Activated Switch
+# Plant Photoreceptors and Light Sensing
 
-Plants respond only to flashes of red light (not blue or green) when measuring night
-length for photoperiodism. In the early 1950s, Harry Borthwick and colleagues at the
-US Department of Agriculture made the amazing discovery that far-red light --
-wavelengths slightly longer than bright red, barely visible at dusk -- could cancel
-the effect of red light entirely.
+## Overview
 
-This red/far-red switching behavior acts like a biological toggle switch. If you
-take irises (which normally do not flower in long nights) and give them a shot of
-red light in the middle of the night, they will flower beautifully. But if you shine
-far-red light on them right after the pulse of red, it is as if they never saw the
-red light -- they will not flower. Red light turns flowering on; far-red turns it
-off. Only a few seconds of either color is sufficient. On a more philosophical
-level, the plant remembers the last color it saw.
-
-## See Also
-
-- [[chamovitz-photoperiodism-phytochrome-plant-vision]]
-
-- [[amaringo-plant-teachers-and-vegetalista-cosmology]]
+Plants possess sophisticated light-sensing systems that, while fundamentally different from animal vision, allow them to perceive and respond to their light environment with remarkable precision. Unlike humans who form images on a retina, plants use a suite of photoreceptor proteins distributed throughout their tissues to detect light quality, quantity, direction, and duration. These photoreceptors enable plants to optimize growth, development, and survival in constantly changing light conditions. As Daniel Chamovitz describes in "What a Plant Knows," plants can determine whether you are wearing a blue or red shirt, whether another plant has grown over them, and how long the lights have been on — all without eyes or a nervous system.

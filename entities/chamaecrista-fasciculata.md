@@ -136,11 +136,7 @@ Indigenous peoples of eastern North America used partridge pea medicinally. The 
 
 ## See Also
 
-- [[desmanthus-illinoensis]]
 - [[lespedeza-bicolor]]
-- [[ baptisia]]
 - [[lotus-corniculatus]]
-- [[arachis-pintoi-entity]]
 - [[companion-planting]]
-- [[dynamic-accumulators]]
 - [[biological-nitrogen-fixation-agriculture]]

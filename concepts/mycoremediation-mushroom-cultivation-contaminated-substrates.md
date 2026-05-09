@@ -21,7 +21,7 @@ Mushroom cultivation substrates include plant stems, wood, fish oil, alfalfa, sp
 
 Several commercially cultivated mushroom species have demonstrated bioremediation capabilities:
 
-- **Pleurotus ostreatus** (oyster mushroom): Degrades [[mycoremediation-of-petroleum-hydrocarbons]] in creosote-contaminated soil, mineralizing 53% [14C]pyrene, 25% [14C]benz[a]anthracene, and 39% [14C]benzo[a]pyrene to 14CO2 in solid-state fermentation. Removes all PAHs except heterocyclic compounds from aged creosote-contaminated soil. Also degrades [[mycoremediation-pesticide-herbicide-contamination]] and [[mycoremediation-textile-dye-degradation]].
+- **Pleurotus ostreatus** (oyster mushroom): Degrades [[mycoremediation-of-petroleum-hydrocarbons]] in creosote-contaminated soil, mineralizing 53% [14C]pyrene, 25% [14C]benz[a]anthracene, and 39% [14C]benzo[a]pyrene to 14CO2 in solid-state fermentation. Removes all PAHs except heterocyclic compounds from aged creosote-contaminated soil. Also degrades [[mycoremediation-textile-dye-degradation]].
 - **Pleurotus florida**: Mineralizes [14C]heavier PAHs in soils and shows ability to grow from straw substrate into contaminated soil. Degrades eight unlabeled and three 14C-labeled PAHs during solid-state fermentation.
 - **Phanerochaete chrysosporium**: Although not typically cultivated as an edible mushroom, this model white-rot fungus is widely used in bioremediation research. Removes up to 96% of total PAHs from creosote-contaminated soil in 4 months.
 - **Trametes versicolor**: Mineralizes 34.1% of [14C]pyrene during cultivation on wheat straw, the highest rate among species tested.
@@ -33,20 +33,7 @@ SMS is the residual material after mushroom harvest and represents a large-volum
 
 - **Soil bioremediation**: SMS from Agaricus bisporus provides crude laccase activity for phenol oxidation. Fish oil is added to SMS and mixed with creosote-contaminated soil for bioaugmentation, achieving enhanced PAH removal.
 - **Compost bioreactors**: Composting with SMS can reduce extractable [[mycoremediation-of-petroleum-hydrocarbons]] by stimulating biodegradation or binding intermediates to organic matter. SMS-amended compost removed 45% of benzo[a]pyrene with Phanerochaete chrysosporium.
-- **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[comparison-phytoremediation-vs-mycoremediation-detail]], as it contains viable mycelium that can withstand competition from native microflora and penetrate surrounding soil.
-- **Organic fertilizer**: SMS provides high-quality compost containing nutrients (Tomati et al., 1996) and can be used as a soil conditioner.
-
-## Integration with Bioremediation Processes
-
-During mushroom cultivation on contaminated substrates, the ligninolytic enzyme system is co-opted for pollutant degradation. Ligninolytic enzymes show substantially higher activities in solid-state cultivation on natural substrates than in liquid culture. The process can be integrated with:
-
-- **Pretreatment strategies**: Eliminating easily degradable PAHs by stimulating bacteria before white-rot fungal inoculation can enhance subsequent degradation of recalcitrant PAHs.
-- **Surfactant addition**: Nonionic surfactants (Tween 80, Tween 40) enhance ligninolytic enzyme activities during solid-state fermentation and improve PAH bioavailability.
-- **Mixed cultures**: Combining mushroom cultivation fungi with bacteria or other fungi can improve overall degradation efficiency.
-
-## Compost Bioreactors
-
-Composting is one of the most promising reactor systems for hazardous soil treatment, applicable to PAHs, [[mycoremediation-explosive-contaminants]], and [[mycoremediation-pesticide-herbicide-contamination]]. Pilot-scale composting of chlorophenol-contaminated soil achieved >90% removal. Compost bioaugmentation with P. chrysosporium showed removal efficiencies of 62.8% and 65.6% for fungal-amended and unamended systems respectively, with bound residue formation as the primary removal mechanism.
+- **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[mycoremediation-explosive-contaminants]], and [[mycoremediation-pesticide-herbicide-contamination]]. Pilot-scale composting of chlorophenol-contaminated soil achieved >90% removal. Compost bioaugmentation with P. chrysosporium showed removal efficiencies of 62.8% and 65.6% for fungal-amended and unamended systems respectively, with bound residue formation as the primary removal mechanism.
 
 ## PAH Degradation During Cultivation
 
@@ -89,6 +76,5 @@ Several limitations affect fungal bioremediation on contaminated substrates: (1)
 
 ## See Also
 
-- [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
 - [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[mycoremediation-enzyme-production-optimization]]

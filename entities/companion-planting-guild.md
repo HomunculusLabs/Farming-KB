@@ -123,9 +123,7 @@ Some guild designs must account for negative chemical interactions:
 
 ## See Also
 
-- [[query-how-does-companion-planting-work-in-a-food-forest]]
 - [[comparison-companion-planting-vs-crop-rotation]]
-- [[mollison-designers-companion-planting-charts-and-principles]]
 - [[query-what-is-companion-planting-and-how-does-it-work]]
 
 - [[guild-planting]]

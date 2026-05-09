@@ -5,59 +5,21 @@ updated: "2026-04-24"
 sources:
   - "raw/papers/unknown-psilocybin-mushroom-image-guide.md"
 type: concept
-tags: [mushroom-cultivation, psilocybin]
----
-
-# Psilocybin Mushroom Bruising Reactions
-
-Blue bruising is one of the most widely known field indicators of
-psilocybin content in mushrooms. The reaction occurs when psilocin
-oxidizes upon exposure to air after tissue damage. The Psilocybin
-Mushroom Image Guide, while primarily photographic, documents
-species known for this characteristic reaction.
-
-## The Chemistry of Blue Bruising
-
-Blue bruising in psilocybin mushrooms is caused by the oxidation
-of psilocin (not psilocybin itself). When mushroom tissue is
-damaged -- bruised, cut, or crushed -- cellular structures break
-and psilocin is exposed to oxygen. An oxidative enzyme converts
-psilocin into blue-colored compounds. The intensity of bruising
-correlates roughly with psilocin concentration, though this varies
-significantly by species, age, and growing conditions.
-
-## Blue Bruising by Species
-
-### Strong Bruising Reactors
-
-Species documented in the guide known for prominent blue bruising:
-
-- [[psilocybe-cyanescens]] (Wavy Caps): among the strongest bruising
+tags: [[psilocybe-cyanescens]] (Wavy Caps): among the strongest bruising
   reactors; stems and caps develop intense blue-black discoloration
   from even minor handling. This is well-correlated with its high
   potency
-- [[psilocybe-azurescens]]: extremely strong blue bruising reaction;
-  considered one of the most potent psilocybin mushrooms, and the
-  bruising reflects this. Young specimens on alder wood chips
-  develop blueing rapidly
 - [[psilocybe-baeocystis]] (potent psilocybe): as the common name
   suggests, strong bruising consistent with high potency
 
 ### Moderate Bruising Reactors
 
-- [[psilocybe-cubensis]]: moderate blue bruising, particularly on the
-  stem base and where damaged. The guide's photos of fresh and
-  dried specimens show typical bruising patterns. Thai "Giant"
-  strains from Koh Samui exhibit standard cubensis bruising
 - [[psilocybe-semilanceata]] (Liberty Cap): moderate bruising,
   though less immediately obvious than cyanescens. Stems may
   develop blue-green tones at the base
 
 ### Variable Bruising Reactors
 
-- [[panaeolus-subbalteatus]] (=cinctulus): bruising can be subtle
-  or absent, making spore print identification more critical
-  for this species
 - [[gymnopilus-spectabilis-entity]]: may show greenish bruising rather than
   the typical blue; this is a different enzymatic reaction and
   should not be confused with psilocin oxidation
@@ -131,6 +93,5 @@ bruising intensity independently.
 
 ## See Also
 
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[psilocybin-mushroom-image-guide-identification-methods]]
 - [[psilocybin-mushroom-image-guide-spore-color-chart]]

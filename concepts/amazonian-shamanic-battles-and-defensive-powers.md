@@ -104,11 +104,7 @@ Certain sacred perfumes can make witches flee. Perfume and balsamic ointments pr
 
 ## Related Topics
 
-- [[amazonian-sorcery-illness-and-curing-practices]] -- sorcery weapons and curing methods
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] -- shamanic ranks
-- [[amazonian-ship-aceropunta-and-visionary-cosmology]] -- the cosmic context
 - [[yakuruna-water-spirits-of-the-amazon]] -- water realm allies
-- [[amazonian-graded-powers-and-the-seven-rays-of-wisdom]]
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
-- [[psychedelic-shamanism-as-death-practice]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]

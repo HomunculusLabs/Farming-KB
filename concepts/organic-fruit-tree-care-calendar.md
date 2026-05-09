@@ -116,11 +116,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 | Sawfly | Defoliated gooseberries | Hand-pick larvae, encourage ground beetles |
 
 ## Related
-- [[fukuoka-orchard-method]] — for natural orchard management
 - [[orchard-management]] — for conventional orchard comparison
-- [[companion-planting-reference]] — for fruit tree companion plants
 - [[permaculture-chicken-tractors]] — for chickens under fruit trees
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-pruning-fruit-tree-natural-management]]

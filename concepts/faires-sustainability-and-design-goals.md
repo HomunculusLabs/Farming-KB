@@ -3,75 +3,13 @@ title: Sustainability and Design Goals
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Sustainability and Design Goals
-
-Sustainability has been lost in modern industrialized society. The real problem is not population but the manner in which industrialized nations live — using energy and creating waste at an unsustainable rate. Permaculture offers a path to switch gracefully to a low-energy system without discomfort.
-
-## The Problem
-
-Current systems are linear: resources are extracted, used once, and discarded. Everything comes from far away using massive energy inputs. A bottle of shampoo exemplifies this — plastics and chemicals mined, refined in factories, used, and landfilled, with energy consumed at every step.
-
-There is only a fixed amount of energy available on Earth. We are using nonrenewable fuels on credit. Technology alone cannot solve this — the real solution is a low-energy system. Humans in developed countries could reduce energy consumption by 40% without sacrificing much by localizing all production.
-
-## The Three Ethics
-
-1. **Care for the Earth:** All things, living or non-living, have intrinsic worth.
-2. **Care for People:** Humanity is cared for through self-reliance and community responsibility.
-3. **Give Away the Surplus:** The surplus must be shared to fulfill the other two ethics.
-
-Sustainable systems are circular — used items return to their source for natural recycling. When each resource is valued rather than exploited, an excess of resources is the natural result.
-
-## Seven Principles of Design
-
-1. Everything is connected to and supported by everything else.
-2. Every element should serve many functions (functional diversity).
-3. Functional design is sustainable and provides useful product or surplus. Pollution is an overabundance of unused resource; work results when elements don't help each other.
-4. Maximize useful energy in any system; decrease waste of energy.
-5. Successful design serves people's needs and provides diverse connections between elements.
-6. If there is pollution, the system goes into chaos.
-7. Use only what can be returned to the soil; build cooperation and harmony into functional organization.
-
-## Sustainable Land Goals
-
-1. The system should become self-sustaining and productive long-term.
-2. About one-third of land for human food; the rest for animals and fodder.
-3. The land should produce more than needed — surplus can be sold or shared.
-4. A single person can reasonably manage less than 25 acres (10 ha). Smaller is better.
-5. The area should provide full income to workers on-site (no commute).
-6. Any processing (cheese, bread) done on-site.
-7. Beauty should come as a benefit of functionality.
-8. Some areas should remain wild and preserved.
-9. Use low-energy, simple technology.
-10. Soil fertility and water quality are the number-one concern through every activity.
-11. Use native species whenever possible; exotics only if proven low-impact.
-12. Use local materials for building.
-13. Systems should require low maintenance and little work.
-
-## Measuring Success
-
-**Tangible measures:**
-- Water storage covers 10-20% of land, increasing plant and animal production
-- Irrigation is steady and soil is healthy
-- Gravity-fed water saves energy
-- Tree windbreaks and forests cover 20-30% of land
-- Natural areas conserve water through condensation
-
-**Intangible measures:**
-- The farmer performs less physical labor due to system interconnectedness
-- The land has recreational value
-- Future generations can enjoy the land
-
-See also [[faires-permaculture-ethics-and-design-principles]], [[faires-permaculture-ethics-and-design-principles]], and [[faires-ecological-succession-and-edge-design]].
+tags: [[faires-permaculture-ethics-and-design-principles]], [[faires-ecological-succession-and-edge-design]].
 
 This topic connects to broader themes explored throughout the wiki.
 
 ## See Also
 
-[[faires-orchard-design-and-intercropping]], [[faires-pond-design-and-aquaculture]], [[faires-garden-design-zone-1-layout]], [[faires-house-design-and-retrofit]], [[faires-ecological-succession-and-edge-design]], [[faires-water-tank-design]], [[faires-irrigation-design]], [[faires-forest-garden-design]]
+[[faires-pond-design-and-aquaculture]], [[faires-house-design-and-retrofit]], [[faires-water-tank-design]], [[faires-forest-garden-design]]
 
 ## Energy Accounting and Footprint Analysis
 
@@ -119,3 +57,62 @@ A critical concept in sustainable design is choosing the appropriate scale and t
 ## Related
 
 - [[faires-recycling-and-waste-reduction]]
+## Practical Considerations
+
+When working with Sustainability and Design Goals, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

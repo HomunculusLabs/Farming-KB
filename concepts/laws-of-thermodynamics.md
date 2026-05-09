@@ -126,9 +126,6 @@ powered by ATP hydrolysis (dG_deg ~ -30.5 kJ/mol).
 
 ## See Also
 
-- [[carnot-cycle-and-heat-engines]]
-
-- [[composting-and-soil-biology]]
-- [[homestead-energy-conservation]]
+- [[ozier-pdc-composting-and-soil-building]]
 - [[pdc-energy-systems-and-appropriate-technology]]
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]

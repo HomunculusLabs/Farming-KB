@@ -14,35 +14,7 @@ sources:
 
 # Munn and the Mazatec Mushroom Oracular Cure
 
-Henry Munn's essay "The Mushrooms of Language" appears in [[hallucinogens-and-shamanism-harner-anthology]], edited by Michael Harner (Oxford University Press, 1973). Though not a professional anthropologist, Munn resided for extended periods among the Mazatec Indians of Huautla de Jiménez, Oaxaca, Mexico, and is married to the niece of the shaman and shamaness he studied. His essay documents the oracular and linguistic dimensions of Mazatec mushroom healing ceremonies — a rare participant-observer account that benefits from his deep cultural immersion and direct experience with the psilocybin velada. See also [[mazatec-mushrooms-of-language]] for additional context on this essay and [[mazatec-mushroom-culture-and-velada]] for broader cultural background.
-
-## Overview
-
-Henry Munn's essay "The Mushrooms of Language" provides a rare participant-observer account of Mazatec psilocybin mushroom healing ceremonies in Huautla de Jiménez, Oaxaca, Mexico.
-
-Unlike most anthropological accounts, Munn became deeply embedded in the culture — he married into a Mazatec family and experienced the mushroom ceremonies firsthand.
-
-His essay focuses on the oracular and linguistic dimensions of the Mazatec velada (night ceremony), documenting how psilocybin mushrooms function as tools of divination and verbal healing.
-
-## The Mushrooms as Medicine
-
-Among the Mazatecs, many people eat the mushrooms at some point in their lives to cure an ailment or resolve a problem.
-
-The mushrooms are called "medicines" — the means given to men to know and to heal, to see and to say the truth.
-
-The idea of malady includes not only physical illness but mental troubles and ethical problems.
-
-If nothing is wrong with you, there is no reason to eat them.
-
-Until recent times, mushrooms were the only medicine the Indians had.
-
-Their medicinal value is considered both magical and chemical. See [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[psychedelic-mushrooms-species-and-identification]] for the primary species involved.
-
-According to the Indians, syphilis, cancer, and epilepsy have been alleviated; tumors cured.
-
-Particularly effective for stomach disorders and skin irritations.
-
-The shamaness Irene Pineda de Figueroa discovered her vocation when mushrooms cured her of a post-bereavement skin affliction. For more on prominent Mazatec curanderas, see [[maria-sabina-mazatec-mushroom-curandera]] and [[mushroom-cultivation-fundamentals]].
+Henry Munn's essay "The Mushrooms of Language" appears in [[mazatec-mushrooms-of-language]] for additional context on this essay and [[psilocybin-mushroom-biology-chemistry]] for details on the pharmacology and [[maria-sabina-mazatec-mushroom-curandera]] and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
 
 ## The Shaman as Speaker
 
@@ -122,13 +94,7 @@ Suggests the chemical properties of mushrooms activate brain centers connected w
 
 The oracular features of Mazatec shamanism may be direct results of psilocybin's effects on language centers.
 
-This hypothesis connects Munn's ethnographic observations to the broader framework explored in [[hallucinogens-and-shamanism-harner-anthology]].
-
-## See Also
-
-- [[shamanic-use-of-psychedelics]]
-
-- [[psilocybin-psychotherapy]]
+This hypothesis connects Munn's ethnographic observations to the broader framework explored in [[shamanic-use-of-psychedelics]]
 
 - [[psychedelic-therapy-shamanism-comparison]]
 

@@ -25,23 +25,7 @@ Handle all produce gently to avoid bruising, which accelerates spoilage.
 
 Check the garden frequently during peak harvest periods. Many vegetables,
 especially beans, summer squash, and sweet corn, pass their prime quickly
-and become tough or starchy if left too long. See [[vegetable-garden-harvest]] for crop-specific harvest timing.
-
-## Root Crops
-
-Root crops generally store best under cool, moist conditions at 32 to 40
-degrees Fahrenheit with 90 to 95 percent relative humidity.
-
-Beets can be harvested when one inch in diameter. Beet tops at this stage
-make excellent tender greens. Main-crop beets should be harvested before
-hot weather in July. Fall beets should be harvested before the first moderate
-freeze. For storage, wash roots, trim tops to half an inch, and store in
-perforated plastic bags in a refrigerator or cold cellar for two to four
-months. See [[root-vegetable-storage-guide]] and [[carrot-growing-guide]].
-
-Carrots should be harvested in spring before hot weather or in fall before
-the first freeze. For storage, wash roots, trim tops, and place in
-perforated bags. Storage life is two to four months. See [[solomon-growing-root-crops-guide]].
+and become tough or starchy if left too long. See [[root-vegetable-storage-guide]] and [[solomon-growing-root-crops-guide]].
 
 Parsnips develop their sweetest flavor after exposure to cold in late fall.
 They share the same storage requirements as carrots.
@@ -54,25 +38,7 @@ not leave in ground because high soil temperatures accelerate over-ripening.
 Cure for about a week in a shaded, well-ventilated area, then store above
 40 degrees Fahrenheit with high humidity and good ventilation. Avoid light
 exposure, which causes greening. Storage life is two to four months.
-See [[potato-growing-guide]].
-
-Radishes are harvested at half to one inch in diameter. Wash, trim both
-tap root and tops, and store in plastic bags in the refrigerator for up
-to one month. Winter radishes store like carrots.
-
-Turnips can be harvested from one inch in diameter and are best as a fall
-crop. They withstand several light freezes and store like carrots.
-
-## Leafy Greens
-
-Swiss chard can be harvested continuously by breaking off outer leaves. A
-spring planting provides greens from early summer to the first moderate freeze.
-It stores up to two weeks in the refrigerator.
-
-Collards, kale, mustard, and spinach should have leaves harvested when they
-reach suitable size. Harvest the whole plant or just the outer larger leaves.
-Greens do not store well but may be kept in plastic bags in the refrigerator
-for up to two weeks. Freeze any surplus. See [[salad-crops-growing-guide]].
+See [[salad-crops-growing-guide]].
 
 Endive is harvested whole. Wash thoroughly, gather leaves together, and tie
 with a rubber band. Store in plastic bags in the refrigerator for up to
@@ -117,7 +83,7 @@ and the pod is cylindrical.
 
 Green bean pods are most tender when the seed inside is one-fourth mature.
 They become more fibrous as beans mature. Store up to one week in perforated
-bags. See [[solomon-growing-beans-and-peas]] and [[bean-growing-guide]].
+bags. See [[bean-growing-guide]].
 
 Okra pods should be harvested at two to three inches. Over-mature pods are
 woody. Store about one week. Freeze surplus.
@@ -127,17 +93,7 @@ woody. Store about one week. Freeze surplus.
 Tomatoes at peak ripeness keep for about one week in the refrigerator.
 Green mature tomatoes can be stored at 55 to 70 degrees Fahrenheit for three
 to five weeks by wrapping each in newspaper. A cellar at 55 to 58 degrees
-is ideal for holding green tomatoes. See [[tomato-growing-guide]].
-
-Sweet corn is harvested when kernels are plump and tender with dry silks.
-Check maturity by pressing a few kernels with the thumbnail. If milky juice
-exudes, the corn is ready. Harvest at peak quality and store in plastic bags.
-Freeze or can surplus.
-
-Sweet peppers are harvested when fruits are firm and full-sized. If red
-fruits are desired, leave on the plant until the color develops. Sweet
-peppers store for two to three weeks in the warmer part of the refrigerator.
-See [[tomato-pepper-eggplant-growing-guide]].
+is ideal for holding green tomatoes. See [[tomato-pepper-eggplant-growing-guide]].
 
 Eggplant is harvested when fruits are nearly full-grown but color is still
 bright. Eggplants are not adapted to long storage. Keep about one week in

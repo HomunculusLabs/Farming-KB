@@ -130,8 +130,6 @@ Coastal permaculture zones integrate land and sea systems:
 - mollison designers wetland design
 - mollison designers coastal zone management
 - mollison designers polyculture systems
-- [[mollison-designers-plant-nursery-propagation-bed-design]]
 - [[mollison-designers-dam-construction-and-water-storage]]
-- [[mollison-designers-keyline-pattern-plow-technique]]
 - [[mollison-designers-gabions-and-stone-weirs-for-gully-control]]
 - [[mollison-designers-geodesic-and-dome-structures]]

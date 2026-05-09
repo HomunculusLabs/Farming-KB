@@ -127,11 +127,7 @@ The essential oil shows insecticidal and antifungal properties, supporting the p
 
 ## See Also
 
-- [[capsicum-annuum]]
 - [[zingiber-officinale]]
-- [[cuminum-cyminum]]
 - [[elettaria-cardamomum]]
-- [[foeniculum-vulgare]]
 - [[coriandrum-sativum]]
-- [[piper-nigrum-entity]]
 - [[laurus-nobilis]]

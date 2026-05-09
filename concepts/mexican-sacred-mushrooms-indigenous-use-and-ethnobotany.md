@@ -119,10 +119,6 @@ The transformation from sacred ceremonial use to recreational drug represents wh
 
 ## See Also
 
-- [[mexican-indigenous-nomenclature-sacred-mushrooms]]
-
 - [[magic-mushroom-history-timeline]]
-- [[magic-mushroom-preparation-and-consumption-methods]]
 - [[magic-mushroom-cultivation-history]]
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]

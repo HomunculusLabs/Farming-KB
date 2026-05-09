@@ -3,7 +3,7 @@ title: Grassland and Pasture Management (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, forage, livestock-health]
+tags: [[permaculture, design, forage, livestock-health]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -89,11 +89,7 @@ Today, scattered leguminous trees on range are known to supply sufficient nitrog
 
 ## See Also
 
-- [[chisel-plough-soil-conditioning-mollison]]
 - [[keyline-design-water-management]]
-- [[farm-forestry-design-mollison]]
 - [[broadscale-permaculture-techniques-mollison]]
-- [[mollison-keyline-soil-conditioning-humid-water]]
 - [[permaculture-designers-manual-grazing-animals]]
-- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-small-animals]]

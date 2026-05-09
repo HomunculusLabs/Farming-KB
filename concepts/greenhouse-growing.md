@@ -3,7 +3,7 @@ title: Greenhouse Growing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [homesteading, growing]
+tags: [[homesteading, growing]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
@@ -15,7 +15,7 @@ The greenhouse is one of the most valuable assets in the organic garden, providi
 
 ### Size
 
-Buy the biggest greenhouse you can afford, or consider one designed to take additional sections at a later date. In practice, a greenhouse of any size will always be full. Even a tiny greenhouse can accommodate a large quantity of plants and produce, especially if used in conjunction with a [[cold-frame-construction]] or [[extending-growing-season]]. If you cannot heat it all, a large greenhouse can easily be divided.
+Buy the biggest greenhouse you can afford, or consider one designed to take additional sections at a later date. In practice, a greenhouse of any size will always be full. Even a tiny greenhouse can accommodate a large quantity of plants and produce, especially if used in conjunction with a [[extending-growing-season]]. If you cannot heat it all, a large greenhouse can easily be divided.
 
 ### Shape
 
@@ -101,16 +101,8 @@ Common problems include aphids, whitefly, red spider mite, vine weevils, botryti
 
 ## Related Topics
 
-- [[extending-growing-season]] — cloches and cold frames to complement the greenhouse
 - [[cold-frame-construction]] — hardening off greenhouse seedlings
-- [[container-gardening-techniques]] — growing in pots under glass
-
-## Source
-
-Based on *Organic Gardening* by Geoff Hamilton.
 - [[growing-vegetables-with-less-fertilizer]]
-- [[jadam-natural-pesticide-philosophy]]
 - [[geoff-hamilton-organic-techniques]]
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-leaf-mold-as-ideal-soil]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]

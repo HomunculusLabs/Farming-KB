@@ -11,19 +11,7 @@ type: concept
 # Lactic Acid Bacteria in KNF
 
 Lactic Acid Bacteria (LAB) are a critical input in
-[[korean-natural-farming]], valued for their ability to
-improve soil ventilation, promote rapid plant growth, and
-prevent the decay of organic materials during composting.
-LAB are anaerobic microorganisms that break sugar into
-lactic acid in the absence of oxygen.
-
-## What Are Lactic Acid Bacteria?
-
-Lactic acid bacteria are conditionally anaerobic
-microorganisms, meaning they thrive without oxygen but can
-also survive in its presence. They are naturally present in
-many environments and play essential roles in fermentation
-processes. In [[korean-natural-farming]], specific strains
+[[korean-natural-farming]], specific strains
 are cultured and concentrated for agricultural use.
 
 LAB are resistant to high temperatures and function as
@@ -87,11 +75,7 @@ vigorous, resilient organisms.
    at 100 to 200 ppm, helping plants absorb insoluble
    phosphates and overcome saline disorders
 
-6. **Compost acceleration**: When used with [[indigenous-microorganisms-imo]] or mixed compost, LAB speeds
-   fermentation and prevents decay
-
-7. **Livestock use**: LAB at 1:500 dilution with
-   [[fermented-plant-juice-preparation-and-application]]
+6. **Compost acceleration**: When used with [[fermented-plant-juice-preparation-and-application]]
    at 1:300 serves as drinking water to recover
    digestive function in livestock
 
@@ -117,25 +101,7 @@ vigorous, resilient organisms.
 
 ## Integration with Other KNF Inputs
 
-LAB works synergistically with other [[korean-natural-farming]]
-inputs for comprehensive crop management. Used alongside
-[[oriental-herbal-nutrient-ohn]] for plant immunity and
-[[fish-amino-acid-faa]] for nitrogen supplementation, LAB
-helps create a complete nutritional program that follows
-the Nutritive Cycle Theory.
-
-## Scientific Background
-
-LAB's effectiveness in agriculture stems from their role
-in natural decomposition and nutrient cycling. They produce
-lactic acid as a metabolic byproduct, which lowers pH in
-the microenvironment and creates conditions favorable for
-beneficial soil organisms while inhibiting many pathogens.
-
-## See Also
-
-- [[korean-natural-farming]]
-- [[indigenous-microorganisms-imo]]
+LAB works synergistically with other [[oriental-herbal-nutrient-ohn]] for plant immunity and
+[[korean-natural-farming]]
 - [[fermented-plant-juice-preparation-and-application]]
-- [[lactic-acid-bacteria-natural-farming]]
 - [[oriental-herbal-nutrient-ohn]]

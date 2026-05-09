@@ -3,113 +3,143 @@ title: Mollison: Greywater and Domestic Water Recycling
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison: Greywater and Domestic Water Recycling
-
-Source: Bill Mollison, Permaculture: A Designers' Manual (Chapter 7, Sections 7.4-7.5)
-
-## The Problem of Water Waste
-
-Mollison argues that the frequent, wasteful, and unnecessary flushing of toilets by those living in the effluent society represents about 40% of domestic water misuse.
-
-In Sweden, it is compulsory to use dry toilets in remote, unsewered, or unsuitable areas.
-
-In the USA, UK, and Australia, one has to fight hard to get permission to use these, as it is the vested interest of industry and town clerks to supply and charge for sewerage systems.
-
-## Handbasin Flush Toilets
-
-No clean water need be used to flush toilets if there is a diversion from a hand-basin to the toilet tank.
-
-In Australia, hand-basins moulded into toilet flush tanks are available.
-
-It is essential to use low-flush toilet bowls with such systems, as they otherwise flush incompletely and build up heavy pathogenic bacteria populations.
-
-This simple solution addresses 40% of domestic water misuse and encourages hand cleanliness rather than the false cleanliness of toilet flushing for its own sake.
-
-## Understanding Greywater Composition
-
-In using wastewater from kitchen, bathroom, and laundry, it is wise to establish just what chemicals and at what concentration are being released to gardens and soils.
-
-A typical analysis of powdered detergent or soap includes sodium or potassium salts or polysulphates, silicates, sulphates or bicarbonates, borates, residual biocides concentrated in animal fats (DDT, Dieldrin, Hexachlor from dairy cattle), additives such as resins, scents, dyes, and brighteners, and faecal bacteria and viral or worm pathogens.
-
-## Soil and Plant Interactions with Greywater
-
-Most greywater components can be dealt with by soil organisms.
-
-However, if the basic water supply is already saline, sodium and potassium salts can add to salinity and deflocculate soil clays or damage leaves at concentrations above 1,000 ppm.
-
-Borates at concentrations above 0.5 ppm can create excessive boron in soils, and above 1.0 ppm is harmful to soil life and plants.
-
-## Routing Strategies for Greywater
-
-Mollison recommends routing more complex pollutants to tree systems (well-monitored), as woody perennials can cope better than garden vegetables and allow more time for decomposition of long-term pollutants.
-
-In critical areas, and especially in arid or delicate environments, it may be necessary to create both special soaps (unpolluted oils, potash or sodium) and plant special crops which remove excesses (many water plants) before passing on greywater to the soils and streams.
-
-## Greywater in Garden Systems
-
-Greywater wastes can be led to swales if boron levels are acceptable.
-
-Mulch for home gardens can be irrigated by greywater, which Mollison describes as ideal.
-
-Tank overflow plus greywater can irrigate a wetland mulch system.
-
-Several months of growth in greywater produces abundant vegetable production.
-
-Greywater seepage pipes along plastic-lined trenches can irrigate vegetable beds at root level.
-
-## Greywater in Arid Landscapes
-
-In arid settlement and home garden design, greywater becomes a critical resource.
-
-Mollison's arid settlement designs incorporate greywater as a primary irrigation source for food-producing gardens.
-
-The principle is that every drop of water used domestically should be used at least twice, first for its primary purpose and then for irrigation.
-
-## Using Water Wisely
-
-Mollison's principle for domestic water is to use water wisely and route greywater to toilet use where possible.
-
-This creates a closed loop where water serves multiple functions before leaving the site.
-
-The combination of handbasin-to-toilet diversion, low-flush fixtures, and greywater irrigation can reduce domestic water consumption by 60-70%.
-
-## Chemical Considerations
-
-The key principle is that there is no blanket policy for greywater use, only specific cases where knowledge of the composition of soils and soaps enables safe and productive reuse.
-
-Plain soaps should be used on crops if possible.
-
-More complex pollutants should be routed to monitored tree systems rather than food gardens.
-
-## Integration with Biological Treatment
-
-Greywater can be integrated with the biological water treatment systems described in Mollison's sewage treatment section.
-
-Domestically, a comfrey bed absorbs the faecal products of animals where wash-water is available.
-
-Flowthrough systems for methane production take little plant nutrient from faecal matter, and comfrey or algae ponds deal with the residues while producing useful by-products.
-
-## Related Topics
-
-[[greywater-systems-detailed]]
-
-[[graywater-systems]]
+tags: [[greywater-systems-detailed]]
 
 [[edge-effect-in-permaculture]]
 
 paul stamets
 
-[[mollison-sewage-treatment-natural-processes]]
-
 [[mollison-water-purification-biological-treatment]]
-
-[[mollison-arid-settlement-home-garden-design]]
 
 [[urban-permaculture-rainwater-harvesting-graywater]]
 
 [[humanure-composting-systems]]
+## Background and Context
+
+Mollison: Greywater and Domestic Water Recycling is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

@@ -138,13 +138,9 @@ during flowering for maximum essential oil content. In companion planting,
 savory is traditionally grown alongside beans and onions. It is sometimes
 intercropped as a pest deterrent, though scientific evidence for this is
 limited.
-
 ## See Also
 
-- [[thymus-vulgaris-entity]]
 - [[origanum-vulgare-entity]]
-- [[rosmarinus-officinalis-entity]]
 - [[mentha-piperita]]
-- [[salvia-officinalis]]
-- [[lavandula-angustifolia-entity]]
+- [[lavandula-angustifolia]]
 - [[foeniculum-vulgare-entity]]

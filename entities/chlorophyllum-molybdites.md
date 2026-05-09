@@ -24,15 +24,7 @@ sources:
   - Vellinga, E.C. (2003). "Chlorophyllum and Macrolepiota (Agaricaceae) in Australia." Australian Systematic Botany 16(4): 361-370.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - White, J. et al. (2019). "Chlorophyllum molybdites poisonings in the United States." Journal of Medical Toxicology 15(3): 209-214.
-  - Osono, T. & Hirose, D. (2011). "Decomposition of leaf litter by Chlorophyllum molybdites." Mycoscience 52(1): 72-76.
-  - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica." Nordsvamp.
----
-## Overview
-
-*Chlorophyllum molybdites*, commonly known as the green-spored parasol, false parasol,
-or vomiter mushroom, is the most frequently consumed poisonous mushroom worldwide.
-Found globally in tropical and subtropical regions, it is responsible for the
-majority of [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]] cases in North America, Australia, and parts of
+  - Osono, T. & Hirose, D. (2011). "[[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]] cases in North America, Australia, and parts of
 Asia. The species closely resembles edible *Lepiota* and *Macrolepiota* species
 (particularly the parasol mushroom, *M. procera*), leading to frequent
 misidentification. Poisoning causes severe gastrointestinal distress — nausea,
@@ -74,59 +66,7 @@ rhacodes* and its close relatives.
 - **Stipe**: 10–25 cm long, 1–3 cm thick, with a bulbous base. Surface white,
   smooth above the ring, sometimes scaly below. The ring is large, movable
   (can slispore-print-collection-spore-mass-inoculationown the stipe), thick, and double.
-- **[[spore-print]]**: Green to grayish-green (the most important identification
-  character). **Spores**: Broadly ellipsoid, 10–13 × 7–9 µm, thick-walled, with
-  a germ pore, smooth.
-- **Flesh**: White, firm, does not change color when cut. Odor mild, pleasant
-  when young; disagreeable in age. Taste mild.
-- **Chemical features**: KOH on cap surface — negative to pale yellow.
-
-## Distribution and Habitat
-
-Pantropical and subtropical worldwide. Common in the southern United States
-(especially Florida, Texas, and Gulf Coast states), Central and South America,
-the Caribbean, sub-Saharan Africa, South and Southeast Asia, and Australia.
-Frequently found in lawns, pastures, parks, and disturbed ground — often in
-urban and suburban settings, which contributes to high poisoning rates. Grows
-singly to gregariously, sometimes in fairy rings. Prefers warm, wet conditions
-and fruits prolifically after heavy rains during spring through autumn. A
-saprotrophic species on grass and soil organic matter.
-
-## Toxicity and Clinical Presentation
-
-The toxic principles of *C. molybdites* are not fully characterized but are
-believed to include gastrointestinal irritant proteins and possibly
-unidentified alkaloids. The toxin is thermolabile to some degree — cooking
-reduces but does not eliminate toxicity.
-
-**Clinical course:**
-- **Onset**: 1–4 hours post-ingestion (most cases within 1.5–3 hours).
-- **Symptoms**: Profuse vomiting, watery diarrhea, severe abdominal cramps,
-  nausea, headache, and occasionally dizziness. Symptoms are typically
-  self-limiting, resolving within 24–48 hours.
-- **Severity**: Generally mild to moderate in healthy adults. Severe cases
-  can cause significant dehydration, electrolyte imbalances, and hypotension,
-  particularly in children, elderly, or immunocompromised patients.
-- **Treatment**: Supportive care — IV fluid replacement, antiemetics, and electrolyte correction. No specific antidote exists. Fatalities are extremely rare; documented deaths involve young children or patients with preexisting conditions.
-
-*Chlorophyllum molybdites* accounts for an estimated 50–80% of mushroom poisonings in regions where it is common. In Florida alone, it causes hundreds of cases annually.
-
-## Key Identification Features
-
-The single most important identification character is the **green spore print**.
-No edible mushroom has green spores. Other diagnostic features:
-
-1. **Green gills at maturity**: While young specimens have white gills,
-   mature caps always show greenish-gray to dark green gills.
-2. **Movable ring**: The double annulus slides freely on the stipe.
-3. **Large size**: Caps typically exceed 10 cm, much larger than most
-   edible *Lepiota* species.
-4. **Spore color**: Always make a spore print if identification is uncertain.
-   White spore print = likely edible *Macrolepiota*; green = *C. molybdites*.
-
-## Similar Species and Confusion Risks
-
-- ***[[macrolepiota-procera]]*** (parasol mushroom): Edible and highly prized.
+- **[[macrolepiota-procera]]*** (parasol mushroom): Edible and highly prized.
   White spore print, snakeskin pattern on stipe below the ring, smaller
   scales on cap. Generally found in temperate woodlands rather than tropical
   grasslands.

@@ -117,9 +117,7 @@ Timber frame construction has a higher but still favorable environmental profile
 
 ## See Also
 
-- [[comparison-reciprocal-roof-vs-timber-frame]]
-
-[[building-with-natural-materials]] | [[cob-construction]] | [[timber-frame-basics]]
-[[comparison-slip-form-stone-vs-timber-frame]] | [[comparison-cob-construction-vs-straw-bale-construction]]
-[[comparison-cob-vs-adobe]] | [[comparison-straw-bale-vs-adobe]]
+- [[building-with-natural-materials]] | [[timber-frame-basics]]
+[[comparison-cob-construction-vs-straw-bale-construction]]
+[[comparison-straw-bale-vs-adobe]]
 light straw clay | hempcrete | [[passive-solar-design]]

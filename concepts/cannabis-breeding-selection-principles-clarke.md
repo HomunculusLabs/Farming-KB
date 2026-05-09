@@ -140,11 +140,11 @@ exhibited by juvenile or adult plants. Many important traits to be
 selected for in Cannabis floral clusters cannot be judged until long
 after the parents are gone, so many crosses are made early and
 selection of seeds made at a later date.
+## See Also
+
+- [[clarke-marijuana-botany-genetics-breeding]]
+- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 
 ## See Also
 
 - [[cannabis-breeding-traits-selection-criteria-clarke]]
-
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]

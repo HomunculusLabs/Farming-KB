@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [composting, soil]
-sources: []
+sources:
+  - "raw/papers/mycelium-running-stamets.md"
 ---
 # Phase II Composting
 
@@ -88,14 +89,7 @@ Though not a contaminant, Actinomycetes are important to understand:
 
 ## Related
 
-- [[bulk-substrate-preparation]] for Phase I and overall substrate preparation
 - [[composting-systems]] for composting infrastructure and raw materials
-- [[mushroom-cultivation-problems]] for Phase II troubleshooting
 - [[mushroom-contaminant-identification-key]] for Actinomycetes details
-- [[mushroom-cultivation-pests-mites-flies]]
-
-## See Also
-
 - [[stamets-phase-ii-composting]] — Author-specific treatment of the same topic
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[fungal-chromogens-and-color-change]]

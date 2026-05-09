@@ -16,10 +16,7 @@ Motion sickness affects approximately 30% of the population under moderate motio
 
 ## Key Clinical Studies
 
-### CBD and [[cannabis-thc-cbd-ratio-guide-for-conditions]] for Motion-Induced Emesis
-**Cluny et al. (2008)**: "The effects of cannabidiol and tetrahydrocannabinol on motion-induced emesis in Suncus murinus." Basic and Clinical Pharmacology and Toxicology 103(2):150-56.
-
-Both CBD and THC reduced motion-induced vomiting in the Suncus murinus (house musk shrew) model, which is the standard animal model for emesis research. This demonstrated that [[cannabis-minor-cannabinoids]] can address the vestibular (balance-related) component of nausea, not just chemotherapy-induced nausea.
+### CBD and [[cannabis-minor-cannabinoids]] can address the vestibular (balance-related) component of nausea, not just chemotherapy-induced nausea.
 
 ### Endocannabinoid System in Motion Sickness
 **Chouker et al. (2010)**: "Motion sickness, stress and the endocannabinoid system." PLoS ONE 5(5).
@@ -87,13 +84,10 @@ Review of plant-based antiemetics including their active constituents, mechanism
 
 ## Related Topics
 
-- [[cannabis-for-chronic-pain-comprehensive]]
 - [[cannabis-endocannabinoid-system]]
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Motion Sickness section
-- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-for-vomiting-and-nausea]]
-- [[cannabis-for-chemotherapy-nausea]]
 - [[blesching-cannabis-neuropathic-pain]]

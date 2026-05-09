@@ -100,11 +100,7 @@ CSA aligns well with permaculture principles:
 
 ## Related Topics
 
-- [[cash-crop-guide]] — cash crop selection for CSAs
 - [[farmers-market-selling-guide]] — alternative direct sales
-- [[permaculture-community-building]] — community context
 - [[right-livelihood-and-permaculture-business]] — business principles
-- [[holzer-stone-fruit-varieties-and-growing]] — berry production for CSA
 - [[strawberry-growing-guide]] — strawberry production for CSA
-- [[what-natural-farming-method-should-i-use]]
 - [[first-time-grower-common-mistakes]]

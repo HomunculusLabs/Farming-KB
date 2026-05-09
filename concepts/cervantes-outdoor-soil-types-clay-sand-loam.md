@@ -142,8 +142,6 @@ check-up in early August.
 
 ## Related Topics
 
-- [[outdoor-cannabis-growing]]
 - [[cervantes-soil-amendments-perlite-vermiculite-pumice]]
-- [[cervantes-organic-amendments-chart]]
 - [[cervantes-dolomite-lime-ph-buffering]]
 - [[cervantes-ph-management-testing]]

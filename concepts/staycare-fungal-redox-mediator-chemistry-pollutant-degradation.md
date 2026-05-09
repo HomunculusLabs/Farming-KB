@@ -119,8 +119,6 @@ susceptible to fungal bioremediation.
 
 ## See Also
 
-- [[bioremediation-laccase-mediator-systems]]
 - [[staycare-lignin-peroxidase-and-pollutant-degradation]]
-- [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-bioavailability-pollutants-fungal-bioremediation]]

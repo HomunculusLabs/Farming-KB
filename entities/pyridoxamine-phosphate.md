@@ -128,12 +128,12 @@ For curation, PMP deserves its own page because it is repeatedly referenced but 
 
 ## Connections
 
-The concept page [[pyridoxal-phosphate-coenzyme-chemistry]] describes the broader reaction logic that produces PMP.
-The entity [[pyridoxal-phosphate]] is the aldehyde partner that accepts amino groups before PMP forms.
+The concept page [[pyridoxal-phosphate]] is the aldehyde partner that accepts amino groups before PMP forms.
 PMP connects vitamin B6 chemistry to aminotransferases, nitrogen exchange, and amino acid biosynthesis.
 It is an entity because it is a specific compound with a defined formula, database identifiers, and biochemical role.
 
 ## See Also
 
-- [[enzyme-kinetics-michaelis-menten-model]]
 - [[catalytic-triad-enzyme-mechanism]]
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

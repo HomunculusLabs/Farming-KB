@@ -127,15 +127,7 @@ Higher CBD ratios preferred due to stronger immunomodulatory effects. Consider 2
 ## Related Topics
 
 - Cannabis For Inflammation
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-and-fibromyalgia]]
-- [[cannabis-and-diabetes]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Arthritis, Atherosclerosis, Interstitial Cystitis, Periodontitis sections
 - [[cannabis-seed-selection-and-strain-types]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[mushroom-cytokine-production-immune-activation]]
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]

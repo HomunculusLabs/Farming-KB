@@ -141,9 +141,6 @@ system progressively becomes easier to manage.
 
 ## See Also
 
-- [[coleman-greenhouse-soil-management]]
 - [[coleman-sowing-seedling-production]]
-- [[coleman-winter-harvesting-techniques]]
 - [[coleman-tools-small-farm]]
-- [[coleman-four-season-farm]]
 - [[coleman-planting-schedules]]

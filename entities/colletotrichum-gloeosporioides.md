@@ -118,8 +118,6 @@ management programs.
 
 ## See Also
 
-- [[trichoderma-viride]]
 - [[botrytis-cinerea]]
-- [[fusarium-verticillioides]]
 - [[penicillium-expansum]]
 - [[aspergillus-flavus]]

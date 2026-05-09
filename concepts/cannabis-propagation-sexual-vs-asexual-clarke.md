@@ -83,13 +83,8 @@ Various theories explain the unusually potent psychoactive properties of unferti
 
 ## Related
 
-- [[cannabis-sexual-propagation-genetics]] Topics
-
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - Breeding and trait fixing
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - Hybrid vigor and phenotypes
 - [[cannabis-cloning-and-mother-plants]] - Cloning techniques
-- [[cannabis-seed-germination-methods]] - Seed germination
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-- [[cannabis-controlled-pollination-seed-production]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-seed-germination-viability-breeding-clarke]]

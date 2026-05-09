@@ -138,11 +138,7 @@ nutrient source reduction and biomass harvesting for commercial use.
 
 ## See Also
 
-- [[arthrospira-platensis]]
 - [[colocasia-esculenta]]
-- [[xanthosoma-sagittifolium]]
 - [[nasturtium-officinale]]
-- [[moringa-oleifera]]
 - [[tropaeolum-majus]]
-- [[ipomoea-batatas]]
 - [[dioscorea-alata]]

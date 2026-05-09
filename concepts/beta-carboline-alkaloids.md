@@ -18,8 +18,7 @@ sources:
 # Beta-Carboline Alkaloids
 
 Beta-carboline alkaloids are a family of tricyclic compounds derived from the
-condensation of [[tryptamine]] with an aldehyde or ketone. They are found in a
-wide variety of plant species, including [[banisteriopsis-caapi]] (the primary
+condensation of [[banisteriopsis-caapi]] (the primary
 vine component of aypeganum-harmalaum harmala (Syrian rue), and numerous
 other botanical sources. Beta-carbolines have diverse pharmacological
 activities including monoamine oxidase inhibition, serotonergic modulation,
@@ -117,18 +116,11 @@ effects.
 Beta-carboline-containing plants have been used across diverse cultures for
 medicinal and ceremonial purposes. Banisteriopsis caapi is revered in
 and amazonian shamanism as a sacred plant teacher, often referred to simply as
-"la medicina" (the medicine). [[peganum-harmala]] (Syrian rue) has been used in
-traditional medicine across the Middle East and Central Asia for millennia,
-both as a dye plant and as a medicinal agent.
-
-The sophisticated ethnopharmacological knowledge reflected in the
-[[ayahuasca-preparation]], combining MAO-inhibiting beta-carbolines with and maoi combination plants, represents one of the most remarkable examples of
+"la medicina" (the medicine). [[ayahuasca-preparation]], combining MAO-inhibiting beta-carbolines with and maoi combination plants, represents one of the most remarkable examples of
 indigenous pharmacological discovery. This knowledge was developed without
 any understanding of modern biochemistry and likely required extensive
 generational experimentation and observation.
 
 ## See Also
-
-- [[koumine]]
 
 - [[norharmane]]

@@ -24,9 +24,9 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Oriental Herbal Nutrient ([[natural-farming-ohn-preparation|OHN]])
+# Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal herbal tincture in Korean [[ultra-low-cost-farming-overview|Natural Farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen alpha glucan fungal and repel pests.
+OHN is a medicinal herbal tincture in Korean Natural Farming. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
@@ -125,7 +125,7 @@ This simplified version focuses on the two most potent herbs (garlic and ginger)
 |----------|----------|-------|
 | General plant health | 1:1000 | Foliar spray |
 | Pest prevention | 1:500-1000 | Spray before pest season |
-| disease prevention | 1:500 | During humid/wet conditions |
+| Disease prevention | 1:500 | During humid/wet conditions |
 | Active pest infestation | 1:200-500 | Stronger dose, repeat every 3-5 days |
 | Seed treatment (SES) | 1 ml/L | Part of SES solution |
 | Soil drench | 1:500-1000 | Suppress soil-borne pathogens |
@@ -139,8 +139,61 @@ Apply early morning or late evening. OHN can be combined with other KNF inputs (
 
 For crops that are visibly struggling, yellowing, or recovering from damage:
 
-| Input | Amount per 1000ml [[knf-water-soluble-calcium|water]] |
+| Input | Amount per 1000ml water |
 |-------|------------------------|
 | FPJ | 2 ml |
 | BRV | 2 ml |
 | OHN | 1 ml |
+| FAA | 1 ml (for nitrogen-deficient crops) |
+| WS-Ca | 1 ml (for over-luxurious, soft growth) |
+
+Apply every 3-5 days until recovery is visible.
+
+## Pre-Harvest Sweetness Formula (Cho)
+
+Applied 15 days and 2 days before harvest:
+
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| OHN | 1 ml |
+| WS-Ca | 2 ml |
+| Seawater | 30 ml |
+
+Promotes fruit sweetness, maturity, and shelf life.
+
+## Pest Control Applications
+
+OHN is one of KNF's primary pest management tools:
+
+**Insects**: Allicin (garlic) and capsaicin (if hot pepper added) repel sucking and chewing insects. Spray at 1:500 every 5-7 days as preventive.
+
+**Fungal diseases**: Cinnamon's cinnamaldehyde and ginger's gingerol have strong antifungal properties. Effective against powdery mildew, downy mildew, botrytis.
+
+**Bacterial diseases**: Garlic's allicin is broad-spectrum antibacterial. Angelica compounds boost plant immunity.
+
+**Mites**: OHN combined with mackerel FAA creates unfavorable conditions for mite reproduction.
+
+For serious pest pressure, combine OHN with:
+- [[fermented-plant-extract-fpe]] — neem or garlic FPJ for extra punch
+- [[indigenous-microorganisms-imo]] — IMO foliar spray to outcompete pathogens
+- [[lactic-acid-bacteria-lab]] — LAB suppresses pathogenic bacteria
+
+## OHN in the Nutritive Cycle
+
+According to [[nutritive-cycle-theory]]:
+- **Vegetative stage**: OHN at 1:1000 — disease prevention on soft new growth
+- **Changeover period**: OHN at 1:1000 — protect during vulnerable transition
+- **Reproductive stage**: OHN at 1:1000 — pest/disease prevention on flowers/fruit
+- **Pre-harvest**: OHN + WS-Ca + Seawater — sweetness and maturity
+
+OHN can be applied at all growth stages — it does not interfere with the nutritive cycle the way FAA does.
+
+## Safety Notes
+
+- OHN contains alcohol — keep away from open flames
+- Wear gloves when handling concentrated OHN (capsaicin and allicin can irritate skin)
+- Strong smell during application — apply in well-ventilated areas
+- Do not apply OHN to edible portions within 3-5 days of harvest (alcohol and strong herbal taste)
+- For cannabis: strong smell can affect terpene profile if over-applied during late flowering — use sparingly
+
+## See Also

@@ -112,12 +112,8 @@ Instead of interplanting beans with corn, gardeners should:
 
 ## Related Concepts
 
-- [[legume-nitrogen-dynamics]] — full lifecycle of nitrogen in
-  legume plants from nodule to seed
 - [[legume-nitrogen-yields-by-species]] — nitrogen output
   comparison across legume species
-- [[dynamic-accumulator-plants-nitrogen]] — plants that
-  accumulate nitrogen beyond legumes
 - [[dynamic-accumulators-overview]] — broader context on how
   plants cycle nutrients in the garden
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]

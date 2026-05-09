@@ -24,14 +24,7 @@ sources:
 **Psilocybe sylvatica** is a rare psilocybin-containing mushroom in the family
 Hymenogastraceae. The species epithet *sylvatica* refers to its woodland habitat.
 
-It was first described by [[rolf-singer|Rolf Singer]] and Alexander H. Smith in 1958 from
-collections made in the Great Lakes region of North America.
-
-The mushroom is small and easily overlooked, with a hygrophanous cap that
-blues noticeably when bruised, indicating the presence of [[psilocybin-compound]] and
-[[psilocin]].
-
-It is considered one of the less common psilocybin mushrooms in North America
+It was first described by [[psilocybin-mushrooms]] in North America
 and is seldom encountered by foragers compared to more prolific species like
 *P. cyanescens* or *P. cubensis*.
 
@@ -68,63 +61,14 @@ darkening to purplish-brown with spore maturity. Edges slightly fringed.
 base. Hollow, fragile. Surface covered in fine whitish fibrils, sometimes
 with a subtle silky sheen. Bluish where bruised or handled.
 
-**Spore Print:** Dark purplish-brown.
-
-**Spores:** Ellipsoid to subellipsoid, 9–12 × 6–7.5 µm, thick-walled,
-with a broad germ pore. Basidia 2- or 4-spored, occasionally with
-cheilocystidia.
-
-## Distribution and Habitat
-
-*P. sylvatica* is found primarily in temperate hardwood forests of eastern
-North America, with documented collections from Michigan, Wisconsin, New York,
-and Ontario, Canada.
-
-It fruits in the autumn (September through November) and occasionally in
-spring during wet, cool conditions.
-
-The species grows on decaying wood debris, wood chips, leaf litter, and
-occasionally on twigs of hardwoods such as oak (*Quercus* spp.), maple
-(*Acer* spp.), and beech (*Fagus* spp.).
-
-Reports from Europe are unconfirmed and may represent misidentified
-collections of *P. medullosa* or other Section *Psilocybe* taxa.
-
-## Bioactive Compounds
-
-*Psilocybe sylvatica* contains the classic tryptamine alkaloids associated
+**[[tryptamine]] alkaloids associated
 with the genus:
 
 - **Psilocybin** (4-PO-DMT): The primary prodrug, phosphorylated at the
   4-position, dephosphorylated in vivo to the active psilocin.
 - **Psilocin** (4-HO-DMT): The active metabolite and primary psychoactive
   compound, a serotonin 5-HT2A receptor agonist.
-- **Baeocystin** (4-PO-NMT): A minor alkaloid present in lower
-  concentrations, of uncertain pharmacological significance.
-
-Quantitative data for *P. sylvatica* specifically are sparse.
-Related species typically contain 0.2–1.0% psilocybin and
-0.05–0.3% psilocin by dry weight.
-
-The bluing reaction upon bruising is caused by oxidative coupling
-of psilocin derivatives, producing blue-colored quinoid compounds.
-
-## Cultivation
-
-*P. sylvatica* is not commercially cultivated and is rarely grown by hobbyist
-mycologists due to its scarcity in the wild and lack of established
-cultivation protocols.
-
-The species likely requires conditions similar to other woodland
-*Psilocybe* species: temperatures of 18–22°C, high humidity (>90%),
-and a lignicolous substrate such as hardwood sawdust or wood chip
-supplements.
-
-Indoor cultivation would probably benefit from pasteurized hardwood
-sawdust supplemented with wheat bran at 10–20%, similar to techniques used
-for *P. cyanescens* and *P. azurescens*.
-
-No reliable yield data or biological efficiency figures are available for
+- **[[biological-efficiency]] figures are available for
 this species due to the absence of documented cultivation attempts.
 
 ## Related Species

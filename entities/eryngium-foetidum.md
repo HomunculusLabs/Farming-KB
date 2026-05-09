@@ -126,11 +126,7 @@ garlic, lime, and cumin.
 
 ## See Also
 
-- [[coriandrum-sativum]]
 - [[anethum-graveolens]]
-- [[salvia-officinalis]]
 - [[ocimum-basilicum]]
-- [[centella-asiatica]]
 - [[leonurus-cardiaca-entity]]
-- [[moringa-oleifera]]
 - [[tropaeolum-majus]]

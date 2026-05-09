@@ -8,35 +8,10 @@ sources: []
 ---
 # Multi-Purpose Trees for Permaculture
 
-In permaculture, every element should serve multiple functions. Multi-purpose trees exemplify this principle -- providing timber, fodder, nitrogen fixation, bee forage, erosion control, fire protection, and sometimes food, all from a single planting. This guide covers key multi-purpose species from "Permaculture Plants: A Selection" organised by their primary functions. Multi-purpose trees can also be integrated into broader [[faires-livestock-integration-permaculture]] systems where trees provide shelter, fodder, and soil improvement for grazing animals.
-
-## Nitrogen-Fixing Multi-Purpose Trees
-
-### [[tagasaste]] (Chamaecytisus palmensis)
+In permaculture, every element should serve multiple functions. Multi-purpose trees exemplify this principle -- providing timber, fodder, nitrogen fixation, bee forage, erosion control, fire protection, and sometimes food, all from a single planting. This guide covers key multi-purpose species from "Permaculture Plants: A Selection" organised by their primary functions. Multi-purpose trees can also be integrated into broader [[tagasaste]] (Chamaecytisus palmensis)
 One of the most versatile trees in permaculture. Fast-growing pioneer and nurse tree providing:
 |- **Fodder**: Abundant leafy growth, palatable to livestock
-|- **Nitrogen fixation**: Adds fertility to the system -- complementary to [[cover-crops-green-manures]] in building soil nitrogen
-- **Bee forage**: Produces both nectar and pollen; most of winter through spring
-- **Shade and shelter**: Protects establishing seedlings
-- **Mulch**: Leaf litter builds soil organic matter
-- **Poultry forage**: Seed provides excellent poultry feed
-- **Companion**: Good companion to nearly all fruit and nut trees
-
-### Black Locust (Robinia pseudoacacia)
-- **Timber**: Hard, durable, rot-resistant wood; excellent for fence posts and construction
-- **Fodder**: Nutritious leaf fodder for livestock
-- **Bee forage**: Estimated 1600 kg/ha nectar yield in Romania; spring, summer
-- **Nitrogen fixation**: Leguminous, improves soil fertility
-- **Firewood**: High calorific value, coppices readily
-
-### Honey Locust (Gleditsia triacanthos)
-- **Fodder**: Sweet pods valued by livestock (some varieties podless)
-- **Bee forage**: Spring flowering provides nectar and pollen
-- **Timber**: Hard, durable wood
-- **Shade**: Open canopy allows understorey growth
-- **Nitrogen fixation**: Through root-associated bacteria
-
-### [[carob]] (Ceratonia siliqua)
+|- **Nitrogen fixation**: Adds fertility to the system -- complementary to [[carob]] (Ceratonia siliqua)
 - **Food**: Pods (40-50% sugar) eaten fresh, ground into flour, or used as chocolate substitute
 - **Fodder**: Pods are excellent stock feed
 - **Bee forage**: Produces both nectar and pollen; pods fed to bees for winter survival

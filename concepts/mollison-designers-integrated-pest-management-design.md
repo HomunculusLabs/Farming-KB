@@ -1,29 +1,7 @@
 ---
 title: "Integrated organic-pest-and-disease-management in Permaculture Design"
 created: 2026-04-28
-tags: [permaculture, pest-management, ecology, polycultures, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# [[hamilton-pest-and-disease-control-organic]] Management in [[permaculture-design]]
-
-Mollison's approach to pest management in Permaculture: A Designer's Manual is
-fundamentally ecological. Rather than declaring war on specific pest species,
-permaculture IPM designs systems where pest populations are naturally regulated
-by the complexity and resilience of the ecosystem itself. Pests, in Mollison's
-viewing, are indicators of system imbalance rather than enemies to be
-eradicated.
-
-## The Permaculture Perspective on Pests
-
-Mollison argues that pest outbreaks rarely occur in diverse, healthy ecosystems.
-Monocultures create ideal conditions for pest proliferation: abundant uniform
-food, absence of natural enemies, and weakened plants from competitive stress.
-In contrast, [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] create spatial and
+tags: [[hamilton-pest-and-disease-control-organic]] Management in [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] create spatial and
 temporal complexity that disrupts pest lifecycles while supporting predator and
 parasite populations.
 
@@ -69,17 +47,7 @@ late-flowering species.
 
 **Permanent habitat features:** Rock piles, log piles, bare soil patches,
 hedgerows, and ponds provide overwintering sites, nesting habitat, and drinking
-water for beneficial organisms. A [[mollison-designers-pond-construction-liner-sealing]]
-in the landscape supports amphibians and dragonflies that consume pest insects.
-
-**Bird habitat:** Nest boxes, perches, hedgerows, and permanent water sources
-attract insectivorous birds. A single pair of bluebirds can consume thousands
-of pest insects during the breeding season.
-
-**Bat boxes:** Bats consume enormous quantities of nocturnal flying insects
-including moths, mosquitoes, and beetles.
-
-## [[trap-cropping]]
+water for beneficial organisms. A [[trap-cropping]]
 
 Trap crops are sacrificial plantings that attract pests away from main crops.
 The principle exploits the pest's preference for specific host plants. Examples:
@@ -106,16 +74,7 @@ caterpillars and beetles.
 
 **Microbial agents:** Bacillus thuringiensis (Bt) is a soil bacterium that
 produces toxins lethal to certain insect larvae (caterpillars, mosquito larvae).
-[[beauveria-bassiana]] and Metarhizium anisopliae are entomopathogenic fungi that
-infect and kill a wide range of insect pests. These are acceptable in
-permaculture when pest thresholds are exceeded because they are specific and
-non-persistent.
-
-## Cultural Controls
-
-**Crop rotation:** Break pest and disease cycles by rotating crop families
-each season. A minimum three-year rotation is recommended; four-year is better
-for brassicas and solanaceous crops. See [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
+[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 for [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] strategies.
 
 **Sanitation:** Remove diseased plant material, destroy infected debris, and
@@ -147,4 +106,3 @@ recommends the following escalation:
    practice
 
 The goal is always to restore ecological balance, not to achieve pest
-eradication. Every intervention should be followed by analysis: what design

@@ -115,8 +115,6 @@ Beech is the most commonly used hardwood in Europe for furniture framing, plywoo
 ## See Also
 
 - [[hypoxylon-fragiforme]] — Common ascomycete on dead beech wood
-- [[fomes-fomentarius]] — Tinder fungus found on beech trunks
-- [[amanita-muscaria]] — Mycorrhizal associate of beech forests
-- [[inonotus-obliquus]] — Chaga can occur on stressed beech trees
+- [[amanita-muscaria-entity]] — Mycorrhizal associate of beech forests
 - [[platanus-x-hispanica]] — Urban planting alternative with similar form
-- [[arctium-lappa]] — Forest-edge herb companion in temperate ecosystems
+- [[arctium-lappa-entity]] — Forest-edge herb companion in temperate ecosystems

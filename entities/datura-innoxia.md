@@ -137,13 +137,9 @@ including hospitalization and death.
 This ambivalent relationship, combining reverence and fear,
 is characteristic of many powerful psychoactive plants in
 indigenous pharmacopoeias worldwide.
-
 ## See Also
-- [[harner-datura-solanaceous-shamanism]]
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-- [[datura-metel-old-world-ethnobotany]]
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-- [[datura-stramonium]]
 - [[datura-metel]]
 - [[duboisia-hopwoodii]]
 - tropane-alkaloids

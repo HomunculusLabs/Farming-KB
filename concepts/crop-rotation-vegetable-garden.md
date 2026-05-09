@@ -95,32 +95,6 @@ Many modern varieties stay in the ground without
 deteriorating after maturing. Keep a diary recording sowing,
 planting, and harvest dates. After two or three years, a
 pattern emerges. Fill gaps with quick crops or green-manure
-cover crops. Plan a four-year rotation if space permits.
-
-## Disease Management
-
-While rotation delays disease build-up, it does not
-guarantee freedom from attack. Soil-borne diseases like
-clubroot produce millions of spores that can be transported
-on boots or tools. Pests like cabbage white butterflies
-can fly considerable distances. Nonetheless, annual rotation
-remain one of the most important tools in the organic
-gardener's arsenal.
-
-## Deep Bed System
-
-Most crops can be grown in deep beds of loose, organically
-enriched soil. Because roots are encouraged to grow
-downward, crops can be planted closer together than in
-conventional rows. Deep beds dug in heavy soils drain more
-easily if raised. The water retention of light soils is
-improved by working extra organic matter into the top
-couple of inches. Crops are tended from paths running
-beside narrow beds to prevent soil compaction.
-
-## See Also
-
-- [[green-manures-organic-gardening]]
-- [[soil-health-management]]
+[[green-manures-organic-gardening]]
 - [[organic-pest-disease-control]]
 - [[seasonal-vegetable-planting]]

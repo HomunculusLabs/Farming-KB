@@ -18,9 +18,7 @@ It sits at the intersection of mycology, anthropology, ethnobotany, archaeology,
 
 The formal discipline of ethnomycology is generally considered to have been founded by R. Gordon Wasson, a vice president of J.P. Morgan and amateur mycologist, whose extensive research into the cultural significance of mushrooms spanned several decades.
 
-Wasson's most celebrated contribution was his discovery and documentation of the sacred mushroom ceremonies of the Mazatec people of Oaxaca, Mexico, which he first witnessed in 1955 under the guidance of the shaman [[mushroom-cultivation-fundamentals]].
-
-Wasson's subsequent identification of the Vedic Soma as the [[amanita-muscaria-ethnobotany]] represented a groundbreaking synthesis of mycological, philological, and anthropological evidence that opened an entirely new field of scholarly inquiry.
+Wasson's most celebrated contribution was his discovery and documentation of the sacred mushroom ceremonies of the Mazatec people of Oaxaca, Mexico, which he first witnessed in 1955 under the guidance of the shaman [[amanita-muscaria-ethnobotany]] represented a groundbreaking synthesis of mycological, philological, and anthropological evidence that opened an entirely new field of scholarly inquiry.
 
 The term ethnomycology was coined to parallel the established discipline of ethnobotany, reflecting the recognition that the cultural relationships between humans and fungi warranted their own specialized area of study.
 
@@ -30,33 +28,7 @@ Ethnomycology encompasses a broad range of research questions and methodological
 
 It investigates the historical uses of psychoactive fungi in religious and shamanic contexts across all cultures and time periods.
 
-It examines the symbolic and artistic representations of mushrooms in prehistoric, ancient, and medieval art, including the [[psychedelic-mushroom-art-and-iconography]] that appears in diverse cultural traditions.
-
-It studies the linguistic and philological evidence for mushroom-related terminology in ancient languages, tracing the evolution of mushroom-related concepts through the history of human language.
-
-It explores the anthropological and sociological dimensions of mushroom use in indigenous societies, including the role of the mushroom shaman as healer, diviner, and spiritual intermediary.
-
-And it investigates the political and historical forces that have suppressed knowledge of entheogenic mushroom use, from the Spanish Inquisition to modern drug prohibition.
-
-## Wasson's Mycophilia and Mycophobia Theory
-
-One of Wasson's most influential contributions to ethnomycology was his theory of cultural mycophilia and mycophobia.
-
-Wasson proposed that the world's cultures can be broadly divided into two groups based on their attitudes toward mushrooms.
-
-Mycophilic cultures, found primarily in Siberia, Southeast Asia, Mesoamerica, and parts of Africa, have a long tradition of mushroom knowledge and use, and generally regard mushrooms with reverence and appreciation.
-
-Mycophobic cultures, found primarily in Northern Europe and the Anglo-Saxon world, tend to regard mushrooms with fear, suspicion, and disgust, and have largely lost any knowledge of their cultural significance.
-
-Wasson attributed this division to the ancient encounter between Indo-European peoples and the entheogenic mushrooms of Central Asia, proposing that the prohibitions against mushroom use in mycophobic cultures represent the institutionalized suppression of what was once a universal shamanic practice.
-
-This theory, while controversial, provides a useful framework for understanding why knowledge of entheogenic mushroom use survived in some cultures and was violently eradicated in others.
-
-## Key Research Areas
-
-### Mushroom Stones of Mesoamerica
-
-The [[mckenna-mushroom-stones-of-guatemala]] and other pre-Columbian mushroom artifacts provide archaeological evidence for the antiquity of mushroom veneration in the Americas.
+It examines the symbolic and artistic representations of mushrooms in prehistoric, ancient, and medieval art, including the [[mckenna-mushroom-stones-of-guatemala]] and other pre-Columbian mushroom artifacts provide archaeological evidence for the antiquity of mushroom veneration in the Americas.
 
 These stone carvings, dating back as far as 1000 BCE, depict stylized mushroom forms and figures in poses suggesting mushroom-inspired ritual states.
 
@@ -66,19 +38,11 @@ Their existence demonstrates that the mushroom ceremonies documented by Wasson i
 
 The identification of the mysterious Vedic Soma, the sacred plant deity of ancient Hinduism, represents one of the central puzzles of ethnomycology.
 
-Wasson's argument for the [[amanita-muscaria-ethnobotany]] as Soma, while widely accepted in some circles, has been challenged by alternative candidates including various species of Psilocybe and Peganum harmala (Syrian Rue).
-
-The [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] continues to be actively debated, with ethnomycological evidence playing a central role in the discussion.
+Wasson's argument for the [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] continues to be actively debated, with ethnomycological evidence playing a central role in the discussion.
 
 ### European Mushroom Iconography
 
-The study of [[mushroom-iconography-ancient-european-art]] reveals extensive mushroom symbolism in Christian, Celtic, Norse, and other European artistic traditions that had been overlooked or misinterpreted by conventional art historians.
-
-Ethnomycologists argue that much of what has been interpreted as purely decorative or symbolic imagery in medieval and Renaissance art actually encodes knowledge of entheogenic mushroom use that was suppressed by the dominant religious authorities.
-
-### Siberian Shamanism
-
-The [[amanita-muscaria-chemistry-and-pharmacology]] tradition represents the most extensively documented living practice of entheogenic mushroom use, providing a model for understanding how similar practices may have functioned in other cultures where the knowledge has been lost.
+The study of [[amanita-muscaria-chemistry-and-pharmacology]] tradition represents the most extensively documented living practice of entheogenic mushroom use, providing a model for understanding how similar practices may have functioned in other cultures where the knowledge has been lost.
 
 ## Methodological Approaches
 
@@ -94,13 +58,7 @@ Art historical analysis interprets the symbolic content of visual art, looking f
 
 ## James Arthur's Contribution
 
-James Arthur, in Mushrooms and Mankind, extends ethnomycological inquiry into the comparative study of world religions, arguing that [[mushroom-polymorphous-symbolism]] and anthropomorphic representations of mushrooms form a hidden substratum beneath the surface of virtually all major religious traditions.
-
-Arthur's work emphasizes the interdisciplinary nature of ethnomycology, drawing upon archaeology, anthropology, philology, comparative religion, art history, and the study of secret societies to build a comprehensive case for the centrality of entheogenic mushrooms in the development of human religious consciousness.
-
-## Contemporary Significance
-
-Ethnomycology has gained renewed relevance in the context of the modern [[psychedelic-research-timeline]].
+James Arthur, in Mushrooms and Mankind, extends ethnomycological inquiry into the comparative study of world religions, arguing that [[psychedelic-research-timeline]].
 
 As scientific research into the therapeutic potential of psychedelic substances resumes after decades of prohibition, the historical and anthropological knowledge preserved by ethnomycologists provides crucial context for understanding these substances and their effects.
 
@@ -118,10 +76,6 @@ Despite these challenges, ethnomycology has made substantial contributions to ou
 
 ## See Also
 
-- [[wasson-hofmann-ruck-theory]]
-
-- [[mushroom-cultivation-fundamentals]]
-
-- [[psychedelic-mushroom-art-and-iconography]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 - [[mckenna-mushroom-stones-of-guatemala]]

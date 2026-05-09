@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Garden vegetables benefit from the activities of both saprophytic and mycorrhizal mushrooms. Saprophytic mushrooms decompose organic matter, recycle nutrients, and create soil structure. Mycorrhizal fungi extend root systems, improve water uptake, and protect against disease. See also [[king-stropharia-wine-cap-cultivation]], vitamin-d-from-sun-exposed-mushrooms, and [[antiviral-properties-of-mushrooms]].
+Garden vegetables benefit from the activities of both saprophytic and mycorrhizal mushrooms. Saprophytic mushrooms decompose organic matter, recycle nutrients, and create soil structure. Mycorrhizal fungi extend root systems, improve water uptake, and protect against disease. See also [[antiviral-properties-of-mushrooms]].
 
 ## The Mycelial Wave Method
 
@@ -23,83 +23,87 @@ The preferred method for projecting mycelium across an expansive landscape:
 4. Once a mycelial wave begins, cellular momentum crosses inhospitable barriers
 5. You can steer mycelium through an ecosystem by incorporating its favored debris into your landscape design
 
-## Garden Giant (Stropharia rugoso-annulata) [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-### Corn Intercropping (Hungary)
-- Inoculated straw mixed with corn stubble and ploughed into fields every few years during fallow
-- Mycelium nourishes soil; when fields replanted, garden giants emerge between corn rows
-- Once resident, garden giants tend to perpetuate themselves
-- Confirmed at Fungi Perfecti farm: corn and garden giants grow well together, mushrooms often fruiting near emerging cornstalks
-
-### Companion Vegetable Trials (University of Innsbruck, 1999)
-
-Christiane Pisehl conducted controlled experiments testing garden giant companion planting with garden vegetables in low-nutrient local soil:
-
-**Results — Companion Planting Yields:**
-
-| Companion Plant | Control Yield (g d.w.) | With Garden Giant (g d.w.) | Increase |
-|---|---|---|---|
-| Brussels sprouts | 100.5 | 418.7 | **4.2x** |
-| Broccoli | 84.5 | 352.5 | **4.2x** |
-| Kale | 46.6 | 414.2 | **8.9x** |
-| Cauliflower | 38.2 | 290.0 | **7.6x** |
-| Sunflowers | 30.2 | 242.7 | **8.0x** |
-
-**Results — With Elm Oyster (Hypsizygus ulmarius):**
-- Brussels sprouts: 100.5g → 418.7g (4.2x increase)
-
-### Elm Oyster (Hypsizygus ulmarius) Companion Planting
-
-- Enhanced crop production within 25% of the elm oyster's growing area
-- Strong companion for Brassica vegetables
-- Grows well on untreated alder sawdust with wood chips
-- Temperature range: 50-70°F
-- Likely has anti-nematocle properties, strong antimicrobial activity, and immune system benefits
-- Candidate for lowering LDL cholesterol (given Pleurotus ostreatus has these properties)
-
-## How Mushrooms Benefit Gardens
-
-1. **Nutrient cycling** — decompose plant debris into bioavailable forms
-2. **Soil structure** — loosens soil as mass reduces, creating micro-spaces for water absorption
-3. **CO2 enrichment** — heavier-than-air CO2 saturates soil and fuels developing plants; carbon incorporated into plant tissue
-4. **Moisture management** — condensation from grass stems channels water to soil-interface zone where primordia form
-5. **Disease resistance** — mycelium competes with pathogens for resources
-6. **Biodiversity** — habitats with mycelium support richer biodiversity and blossom as mycosystems
-
-## Heliotrope Mushrooms (Sun-Loving Species)
-
-Species that do well in exposed areas, often in association with grasses:
-- Garden giant (Stropharia rugoso-annulata)
-- Shaggy mane (Coprinus comatus)
-- Giant puffballs (Calvatia gigantea)
-- Meadow mushrooms (Agaricus bernardii, A. campestris)
-- Many Psilocybe species
-
-## Siting Guidelines
-
-- Grasslands meeting woodlands: ideal for many species
-- Subsurface moisture flow fuels mycelium
-- 1-2 hours direct sunlight benefits fruiting (more than total shade)
-- Eastern and northern slopes preferred in northern hemisphere
-- Shade canopies can mitigate light exposure
-
-## Making a Mushroom Bed
-
-1. Clear site to mineral earth; lay 2 inches of fresh wood chips
-2. Moist chips before applying spawn; use 5-10 lb spawn per 100 sq ft
-3. Layer spawn and chips in 2-3 inch layers ("lasagna" method), up to 6 inches total depth
-4. Cover with cardboard and/or loose straw
-5. Sprinkle grass seed (10-20% of lawn rate) to stimulate mycelial growth
-6. Leave undisturbed 6+ months; initiate fruiting by soaking bed
-
-## Related Topics
-
-- [[king-stropharia-wine-cap-cultivation]]
+## Garden Giant (Stropharia rugoso-annulata) [[king-stropharia-wine-cap-cultivation]]
 - vitamin-d-from-sun-exposed-mushrooms
-- [[antiviral-properties-of-mushrooms]]
 - [[medicinal-mushroom-extraction-preparation]]
 - mycorestoration
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[companion-planting-with-fungi]]
-- [[temperature-effects-plant-nutrient-uptake]]
 - [[root-anatomy-structure-and-nutrient-uptake]]
+## Practical Applications
+
+Companion Cultivation of Mushrooms with Garden Vegetables has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Companion Cultivation of Mushrooms with Garden Vegetables. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

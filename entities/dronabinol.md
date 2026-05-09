@@ -91,8 +91,8 @@ medicine gained mainstream medical acceptance decades before cannabis
 legalization, with FDA approval dating to the 1980s.
 
 ## See Also
-- [[tetrahydrocannabinol-thc]]
 - [[nabilone]]
-- [[cannabidiol-cbd]]
 - [[cannabinol-cbn]]
 - rimonabant
+
+See also: [[cannabis-as-medicine-clinical-reference]]

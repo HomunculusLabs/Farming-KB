@@ -7,7 +7,7 @@ tags: [general]
 sources: []
 ---
 ---
-title: "[[arbuscular-mycorrhizal-fungi]] vs [[ectomycorrhizal-fungi]]"
+title: "[[ectomycorrhizal-fungi]]"
 tags: [comparison, mycorrhizal-fungi, amf, ecm, symbiosis]
 date: 2026-04-25
 updated: 2026-04-25
@@ -18,17 +18,7 @@ sources: []
 
 ## Overview
 
-Arbuscular [[mycorrhizal-fungi]] (AMF) and ectomycorrhizal fungi (ECM) are the two
-dominant types of mycorrhizal symbioses, together forming associations with the vast
-majority of terrestrial plant species. AMF penetrate root cortical cells to form
-tree-like arbuscules for direct nutrient exchange, associating with 80-90% of all
-plant species including most agricultural crops and grasses. ECM form a dense fungal
-sheath around root tips and extend a Hartig net between root cells, primarily
-partnering with woody plants in temperate and boreal forest ecosystems.
-
-## Arbuscular Mycorrhizal Fungi (AMF)
-
-[[arbuscular-mycorrhizal-fungi]]
+Arbuscular [[arbuscular-mycorrhizal-fungi]]
 
 AMF belong almost exclusively to the phylum Glomeromycota and are among the oldest
 symbionts on Earth, with fossil evidence of arbuscule-like structures dating back
@@ -49,17 +39,6 @@ soil microaggregates into stable macroaggregates. Glomalin is remarkably persist
 in soil, contributing significantly to long-term soil carbon storage and aggregate
 stability. Individual AMF networks can connect multiple plants simultaneously,
 facilitating nutrient and carbon transfer between individuals through common
-[[mycorrhizal-networks]].
-
-AMF associate with the majority of agricultural crops including wheat, corn, rice,
-legumes, and most vegetable species. This makes them critically important for
-sustainable agriculture, as they can reduce fertilizer requirements by 20-60% for
-phosphorus inputs. However, AMF are sensitive to soil disturbance from tillage,
-elevated phosphorus fertilization (which suppresses the symbiosis), and certain
-pesticide applications including some fungicides and soil fumigants. These
-sensitivities mean that conventional practices often inadvertently reduce AMF
-populations over time.
-
 [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 
 ECM are predominantly members of Basidiomycota, though some belong to Ascomycota,

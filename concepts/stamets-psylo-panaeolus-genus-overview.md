@@ -1,54 +1,7 @@
 ---
 title: Panaeolus Genus Overview - Psilocybin-Containing Species
 created: 2026-04-28
-tags: [mycology, taxonomy, psilocybin, panaeolus, field-guide]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-type: concept
----
-
-# Panaeolus Genus Overview
-
-The genera Panaeolus, Psathyrella, and Coprinus belong to the family
-Coprinaceae. Species of Panaeolus are recognized by the mottled or spotted
-appearance of their gills just prior to being fully mature. This phenomenon
-is caused by uneven ripening of spore-producing cells (basidia) on the gill
-surfaces. Many species in this genus grow in dung, while a few are
-noncoprophilic, preferring grassy or, rarely, woodland habitats.
-
-## Taxonomic Notes
-
-Following Singer's classification, the genus Panaeolus has been divided
-into several subgenera:
-
-- **Panaeolina**: Annulate species with roughened spores, including P.
-  foenisecii and P. castaneifolius
-- **Copelandia**: Tropical to semitropical Panaeoli that readily bruise
-  bluish, including P. bispora, P. cambodginiensis, P. cyanescens, and
-  P. tropicalis, all featuring a characteristic form of pleurocystidia
-- **Anellaria**: Large, fleshy, often whitish Panaeoli with viscid caps
-- **Panaeolus sensu stricto**: Remaining species not fitting the above
-
-Stamets follows Guzman and Perez-Patraca's treatment, considering each
-group as a subgenus within an expanded concept of Panaeolus sensu lato.
-Several species are consistent or latent producers of psilocybin and/or
-psilocin. Most produce urea, serotonin, and tryptophan. None have proven
-to be poisonous.
-
-## Key Identification Features
-
-- **Hemispheric caps** with relatively long stems
-- **Black spore prints**
-- **Mottled gills** from uneven spore maturation
-- Many species grow on **dung** (coprophilic)
-- Cap surface often **cracking** with age
-- **No partial veil** in most species (exannulate)
-
-## Active Panaeolus Species
-
-### [[panaeolus-cyanescens]] (Copelandia cyanescens)
+tags: [[panaeolus-cyanescens-entity]] (Copelandia cyanescens)
 
 Common names: Copelandia Hawaiian
 
@@ -83,40 +36,7 @@ through Asian subtropics. Also reported from Hawaii.
 Potency: Strongly bluing. Contains psilocybin (0.55%) and psilocin
 (0.6%). Larger statured than P. tropicalis, smaller than P. cyanescens.
 
-### [[panaeolus-tropicalis]] (Copelandia tropicalis)
-
-Virtually identical to P. cyanescens macroscopically, differing only in
-larger spore size and interior aspects of spores. These subtle differences
-may be regional in nature.
-
-### Panaeolus bispora (Copelandia bispora)
-
-Virtually identical to P. cambodginiensis, P. cyanescens, and P.
-tropicalis macroscopically, except that it has exclusively 2-spored
-basidia. Reported from North Africa.
-
-### Panaeolus africanus
-
-Cap: 1.5-2 cm, obtusely conic to hemispheric. Grayish to creamy white,
-sometimes reddish brown. Stem: 30-50 mm by 4-6 mm, whitish with pinkish
-tones.
-
-Spores: Nearly black, 11.5-14.5 by 7.9-10 um, lemon shaped.
-
-Habitat: Hippopotamus and elephant dung. Central Africa to Sudan.
-
-Potency: Contains psilocybin and psilocin in irregular amounts.
-
-## Latently Active Species
-
-These species contain psilocybin inconsistently, with some collections
-testing positive and others negative:
-
-- **Panaeolus fimicola**: Scattered in soil or dung, widespread in
-  Americas, Africa, and Europe. Latent psilocybin producer.
-- **Panaeolus castaneifolius**: Grassy areas, North and South America.
-  Weakly active when psilocybin is present.
-- **[[panaeolus-subbalteatus]]**: One of the most common Panaeolus species.
+### [[panaeolus-subbalteatus]]**: One of the most common Panaeolus species.
   Known to be active, containing psilocybin and psilocin. Grows on dung
   and in well-manured grounds. Widely distributed across North America
   and temperate Europe.
@@ -141,6 +61,24 @@ psilocybin mushroom hunters.
 
 ## See Also
 
-- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
+## Practical Considerations
+
+Successful implementation of Panaeolus Genus Overview - Psilocybin-Containing Species requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

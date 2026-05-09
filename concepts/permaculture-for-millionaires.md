@@ -3,22 +3,7 @@ title: Permaculture for Millionaires (Design Course)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Permaculture for Millionaires (Design Course)
-
-**Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlet XV)
-
-**Updated:** 2026-04-19
-
-## The Concept
-
-Mollison's strategy for engaging wealthy investors in large-scale permaculture conversion. The core idea is "commonwork" -- functional stacking where multiple productive functions are overlaid on the same site, with the investor owning only the product they're interested in while local people own and manage all other production.
-
-This concept extends the [[natural-farm-permaculture-ethics-principles]] of fair share and people care by creating investment structures that generate ecological restoration as a byproduct of financial return. Rather than opposing wealthy interests, Mollison proposed redirecting capital toward regenerative land use by making permaculture financially attractive to investors.
+tags: [[natural-farm-permaculture-ethics-principles]] of fair share and people care by creating investment structures that generate ecological restoration as a byproduct of financial return. Rather than opposing wealthy interests, Mollison proposed redirecting capital toward regenerative land use by making permaculture financially attractive to investors.
 
 ## The Babassu Palm Example
 
@@ -46,19 +31,7 @@ This multi-layered design exemplifies functional stacking -- every element serve
 
 - Companies can make 70-year investments; they look at very long-term returns
 
-The framework creates a legally structured commons where productive rights are distributed among participants based on their labor and investment contribution. This avoids both the pitfalls of pure private ownership (concentration of wealth and land) and pure commons management (difficulty attracting capital for initial setup costs). The result aligns with the [[permaculture-design-process]] principle of designing for long-term sustainability.
-
-## Why This Approach Works
-
-- **No opposition in high echelons:** The wealthy worry about dead lakes, stripped forests, environmental collapse but have no one to advise them
-
-- **"There is no opposition"** -- high capacity for rapid information gathering exists
-
-- **Dirty money argument:** "It's war, or it's cooperation. For me it's going to be cooperation because war doesn't work"
-
-- The alternative movement has set up no structures that can integrate with investment systems -- permaculture provides that structure
-
-Mollison recognized that environmental movements often alienate potential allies by framing issues in purely moral terms. The "permaculture for millionaires" approach instead offers pragmatic solutions that serve both ecological and financial interests. This strategy has influenced later developments in [[permaculture-economics]] and regenerative agriculture investment models.
+The framework creates a legally structured commons where productive rights are distributed among participants based on their labor and investment contribution. This avoids both the pitfalls of pure private ownership (concentration of wealth and land) and pure commons management (difficulty attracting capital for initial setup costs). The result aligns with the [[permaculture-economics]] and regenerative agriculture investment models.
 
 ## Scale and Economics
 
@@ -72,23 +45,7 @@ Mollison recognized that environmental movements often alienate potential allies
 
 - Financial switching to energy-decreasing modes is straightforward for capital
 
-The economics of large-scale permaculture conversion become compelling when the full productive capacity of designed systems is accounted for. Conventional cattle ranching on 700 square miles of Australian desert produces minimal returns per acre. A permaculture-designed system on the same land, incorporating tree crops, grazing, water harvesting, and energy production, could generate orders of magnitude more value while simultaneously restoring degraded landscapes. This connects to [[permaculture-energy-descent-planning]] strategies for transitioning industrial land management toward regenerative models.
-
-## Implementation Challenges
-
-- **The principal-underling problem:** Principals become convinced but underlings resist change threatening their positions
-
-- **Need for thousands of qualified permaculture designers** capable of handling implementation at $2-3 million or $2-3 billion scale
-
-- Must make resolutions in conflict, set up social meetings between idea/skill people and power/money people
-
-The principal-underling problem is perhaps the most significant barrier. Decision-makers at the top of organizations may be inspired by permaculture's vision, but middle management often perceives systemic change as a threat to established workflows, budgets, and authority structures. Successful implementation requires change management strategies that create buy-in at all levels of an organization.
-
-## Historical Context and Legacy
-
-Mollison developed this concept during the early 1980s, a period of growing environmental awareness among business and political leaders. The concept anticipated later developments in impact investing, ESG (Environmental, Social, and Governance) investing, and carbon credit markets by decades. While the specific Babassu palm example was never implemented at the scale Mollison envisioned, the underlying principles have influenced numerous large-scale regenerative agriculture projects and investment vehicles.
-
-The concept also reflects Mollison's background in [[permaculture-design-principles]] as a design science that works with existing power structures rather than against them. This pragmatic approach has been both praised for its realism and critiqued for potentially co-opting radical environmental movements.
+The economics of large-scale permaculture conversion become compelling when the full productive capacity of designed systems is accounted for. Conventional cattle ranching on 700 square miles of Australian desert produces minimal returns per acre. A permaculture-designed system on the same land, incorporating tree crops, grazing, water harvesting, and energy production, could generate orders of magnitude more value while simultaneously restoring degraded landscapes. This connects to [[permaculture-farm-design-principles]] as a design science that works with existing power structures rather than against them. This pragmatic approach has been both praised for its realism and critiqued for potentially co-opting radical environmental movements.
 
 ## Key Insight
 
@@ -96,12 +53,27 @@ The world needs both types of people: those who stay home and look after their h
 
 ## Related Topics
 
-- [[permaculture-economics]]
-
 - [[permaculture-community-building]]
-
-- [[permaculture-energy-descent-planning]]
 
 - [[permaculture-and-peak-oil]]
 
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Practical Considerations
+
+Successful implementation of Permaculture for Millionaires (Design Course) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

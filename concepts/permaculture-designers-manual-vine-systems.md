@@ -3,7 +3,7 @@ title: Vine Systems
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, plant-systems, food-forest, pruning]
+tags: [[permaculture, plant-systems, food-forest, pruning]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -105,11 +105,7 @@ Mollison notes a "wider market for relatively exotic vine crops, fruits, and nut
 
 ## Related Topics
 
-- [[permaculture-designers-manual-vines-and-climbers]] - Detailed vine species reference
 - [[permaculture-designers-manual-bioregional-planning]] - Zone and sector planning
-- [[permaculture-designers-manual-arid-climates]] - Desert vine-over-garden technique
 - [[permaculture-designers-manual-cold-climates]] - Cold climate trellis design
-- [[permaculture-designers-manual-chicken-tractors]] - Chicken tractor with passionfruit trellis
 - [[nitrogen-fixing-trees]]
-- [[tree-vine-crops-arid-tropical-mollison]]
 - [[permaculture-designers-manual-tropical-climates]]

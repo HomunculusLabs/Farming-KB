@@ -99,11 +99,7 @@ For cultivators seeking reliable, repeatable results:
 
 ## Related
 
-- [[agar-culture-techniques-detailed]] for agar media preparation and isolation methods
 - [[spore-syringe-production]] for the alternative inoculation method
-- [[mushroom-strain-selection-genetics]] for understanding the genetic implications
 - [[grain-spawn-preparation]] for expanding the isolated strain into spawn
-- [[contamination-identification-prevention]] for maintaining sterility
 - [[mushroom-spore-syringe-and-inoculation]]
-- [[stamets-spore-germination-and-tissue-culture]]
 - [[mushroom-long-term-storage]]

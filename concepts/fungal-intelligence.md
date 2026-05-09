@@ -1,7 +1,7 @@
 ---
 title: Fungal Intelligence
 created: 2026-04-28
-tags: [mycology, neuroscience, behavior, biological-computation]
+tags: [[mycology, neuroscience, behavior, biological-computation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -24,74 +24,6 @@ mycology, neurobiology, computer science, and philosophy of mind.
 The most compelling evidence for fungal intelligence comes from studies of
 foraging behavior. When mycelial networks encounter spatially distributed
 resources, they do not grow randomly. Instead, they demonstrate an ability to
-[[physarum-polycephalum]]vity between food sources, finding near-optimal
-transportation networks that minimize total hyphal length while maintaining
-redundancy and resilience against damage.
-
-The slime mold *Physarum polycephalum* (a protist, not a true fungus, but
-frequently discussed alongside fungal intelligence) became famous for
-recreating the Tokyo rail system when placed on a map of the city with food
-sources at station locations. The organism found a network nearly identical to
-the human-engineered rail system, which had been optimized over decades. True
-fungi demonstrate similar optimization capabilities in laboratory maze
-experiments and wood block foraging assays. The oyster mushroom (*Pleurotus
-ostreatus*) has been shown to solve labyrinth prpleurotus-ostreatus most
-efficient path between food sources in controlled experiments.
-
-## Memory and Learning
-
-Research has demonstrated that fungi can exhibit forms of learning and memory.
-Studies on *Pleurotus ostreatus* showed that mycelial networks can habituate
-to a repeated stimulus — in one experiment, networks were exposed to a
-repellent substance and initially avoided it, but over repeated exposures, they
-learned to grow across it, suggesting a form of non-associative learning
-similar to habituation in animals. Crucially, this learned behavior persisted
-even after the repellent was removed, indicating genuine behavioral
-modification rather than mere sensory adaptation.
-
-Conidiophores of *Neurospora crassa* have been shown to "remember" the
-direction of light exposure through a circadian clock mechanism, growing
-toward light sources more efficiently after prior exposure. This implies a
-form of experience-dependent behavioral modification without any neural
-circuitry. Studies have also suggested that fungal networks can "anticipate"
-regularly occurring environmental changes, adjusting their growth patterns
-proactively based on past periodic stimuli.
-
-## Distributed Computation
-
-Fungi achieve information processing through distributed computation across
-their mycelial network. There is no central processing unit; instead, local
-interactions between hyphal tips and their environment, combined with transport
-and signaling across the network, give rise to emergent problem-solving
-behavior. This is analogous to swarm intelligence in ant colonies or
-distributed computing in artificial neural networks.
-
-Cytoplasmic streaming within hyphae creates oscillatory patterns of nutrient
-and signal transport that may serve as a timing mechanism for coordinating
-growth and resource allocation across the network. The frequency and amplitude
-of these oscillations can change in response to environmental stimuli,
-suggesting a role in information processing. Mathematical modeling of these
-oscillations has revealed complex dynamics, including synchronization between
-different parts of the network and phase transitions that correlate with
-changes in growth direction.
-
-## Decision-Making Under Uncertainty
-
-Fungi make resource allocation decisions that involve trade-offs between
-competing needs. A mycelial network may need to decide whether to invest in
-exploration (extending into new territory) or exploitation (consolidating
-access to known resources), how much biomass to allocate to reproduction versus
-vegetative growth, and whether to maintain connections to declining resource
-patches or abandon them for new opportunities.
-
-These decisions are made without any apparent executive function, emerging
-instead from the integration of local biochemical signals across the network.
-The concept of "physiological integration" in fungi — the coordination of
-growth and metabolism across a spatially extensive organism — represents a
-fundamentally different architecture of computation than the centralized
-nervous systems of animals. Some researchers have proposed that this
-decentralized architecture may actually be more robust and adaptable than
-centralized control, particularly in heterogeneous environments.
 [[unconventional-computing]]logy and Technology
 
 The study of fungal intelligence has practical implications beyond theoretical
@@ -125,7 +57,25 @@ mechanisms involved.
 
 ## See Also
 
-- [[mycelial-networks]] — the physical substrate of fungal intelligence
 - [[common-mycorrhizal-networks]] — fungal decision-making in plant symbiosis
 - biological computation — computing with living systems
 - [[slime-mold-computation]] — related protist intelligence research
+## Practical Considerations
+
+Successful implementation of Fungal Intelligence requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

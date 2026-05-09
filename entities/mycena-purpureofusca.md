@@ -104,17 +104,8 @@ The psychoactive properties of *Mycena* species are less well-documented in the 
 
 ## Cultivation Notes
 
-*Mycena purpureofusca* is not cultivated commercially or by hobbyists. The small size, uncertain psychoactive content, and difficulty of cultivation make it impractical compared to more readily cultivated species such as [[psilocybe-cubensis]]. Laboratory cultivation would likely require sterile culture on specific hardwood-based substrates with controlled temperature and humidity conditions. Successful cultivation of any *Mycena* species is rare in amateur mycology, and most collections are obtained through field foraging.
+*Mycena purpureofusca* is not cultivated commercially or by hobbyists. The small size, uncertain psychoactive content, and difficulty of cultivation make it impractical compared to more readily cultivated species such as [[mycena-citrinomarginata]]
 
-## Conservation Status
-
-*Mycena purpureofusca* has not been formally assessed for conservation status by the IUCN. As a saprotrophic species with a wide distribution across temperate forests, it is not currently considered at risk. However, like all forest-dependent fungi, its populations may be affected by habitat loss, deforestation, and changes in forest management practices that reduce the availability of suitable decaying hardwood substrates.
-
-## See Also
-
-- [[mycena-citrinomarginata]]
-
-- [[mycena-cyanorrhiza]] — Related *Mycena* species with confirmed psilocybin content and blue staining
 - [[mycena-galopus]] — Common lookalike species
 - [[psilocybe-cyanescens]] — Potent psychoactive species for comparison of tryptamine profiles
 

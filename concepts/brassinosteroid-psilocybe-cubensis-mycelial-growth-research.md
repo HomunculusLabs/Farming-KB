@@ -1,7 +1,7 @@
 ---
 title: "Brassinosteroid Promotion of Psilocybe Cubensis Mycelial Growth"
 created: 2026-04-28
-tags: [mycology, brassinosteroid, mycelial-growth, phytohormones, research]
+tags: [[mycology, brassinosteroid, mycelial-growth, phytohormones, research]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
@@ -115,11 +115,7 @@ biological growth stimulants as alternatives to synthetic additives.
 
 ## Related
 
-- [[brassinosteroid]] Topics
-
 - [[oss-oeric-growing-parameters-cubensis]] for standard conditions
-- [[oss-oeric-harvesting-and-crop-management]] for yield comparison
 - [[oss-oeric-contamination-troubleshooting]] for cultivation challenges
-- [[gartz-tryptamine-supplemented-cubensis-cultivation]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

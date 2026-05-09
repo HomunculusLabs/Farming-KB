@@ -131,10 +131,9 @@ Generally NOT recommended for sleep:
 
 The Cannabis Health Index emphasizes mind-body connections in sleep disorders. Addressing underlying anxiety, establishing consistent sleep hygiene, and managing stress through meditation, breathwork, or therapy may complement cannabinoid therapy for more comprehensive sleep improvement.
 
-See also: [[cannabis-chronic-pain-management]], [[cannabis-for-mental-health]], [[cannabis-dosing-guidelines-by-condition]], [[cannabis-administration-methods-comparison]], doi entity, doi entity
+See also: [[cannabis-for-mental-health]], [[cannabis-administration-methods-comparison]], doi entity, doi entity
 
 ## See Also
 
-- [[cannabis-insomnia-research]]
 - [[blesching-cannabis-neuropathic-pain]]
 - [[cannabis-anti-inflammatory-applications]]

@@ -335,6 +335,6 @@ Emerging evidence suggests that plants and microbes communicate through chemical
 - [[mycorrhizal-fungi]] — key architects of macroaggregate stability
 - [[no-till-farming-and-conservation-agriculture]] — management that preserves aggregate architecture
 - [[biochar-in-regenerative-agriculture]] — amendments that can influence aggregation
-- [[earthworms-and-vermicomposting]] — ecosystem engineers that build aggregates
+- [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] — ecosystem engineers that build aggregates
 - [[cover-crops-and-green-manures]] — root inputs that fuel aggregate formation
 - [[rock-dusts-and-soil-remineralization]] — mineral amendments that support clay-organic binding

@@ -97,25 +97,15 @@ In food forest design, chop-and-drop mulch pits are placed around fruit trees to
 
 In alley cropping systems, rows of nitrogen-fixing trees or shrubs are established between crop rows and periodically cut. The mulch feeds the inter-row crops while the root systems improve soil structure.
 
-In [[sheet-mulching]] systems, chop and drop provides the green layer of the lasagna-style sheet mulch, complemented by brown materials like cardboard, leaves, or straw.
-
-The technique integrates well with [[biochar]] systems: woody chop-and-drop material can be charred before application, creating biochar-amended mulch with enhanced carbon sequestration properties.
+In [[biochar]] systems: woody chop-and-drop material can be charred before application, creating biochar-amended mulch with enhanced carbon sequestration properties.
 
 ## See Also
 
-- [[sheet-mulching]]
 - [[biochar]]
-- [[dynamic-accumulators]]
 - [[food-forest]]
-- [[companion-planting]]
 - [[hugelkultur]]
-- [[comfrey]]
 - [[moringa-oleifera]]
-- [[agroforestry]]
 - [[silvopasture]]
-- [[keyline-design]]
 - [[guild-planting]]
-- [[swale]]
 - [[no-till-grain-strategy]]
-- [[symphytum-officinale]]
 - [[permaculture]]

@@ -130,8 +130,6 @@ is to be an occupation.
 
 ## See Also
 
-- [[mollison-animal-integration-permaculture-design]]
 - [[mollison-animal-range-management]]
-- [[mollison-tropical-mulch-systems-and-materials]]
 - [[animal-tractoring]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]

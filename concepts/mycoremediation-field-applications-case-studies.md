@@ -3,20 +3,7 @@ title: "Field Applications and Case Studies of Mycoremediation"
 created: 2026-04-26
 updated: 2026-04-24
 type: concept
-tags: [mycology, pollution]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-# Field Applications and Case Studies of Mycoremediation
-
-## Overview
-
-While much mycoremediation research has been conducted at laboratory and bench scale, field applications and pilot-scale studies demonstrate the practical potential and limitations of fungal-based remediation. Field deployments must address competition from native microorganisms, environmental variability, scale-up challenges, and regulatory requirements. This page summarizes documented field applications and case studies from the Singh (2006) source text across multiple contaminant types.
-
-## Treatment Technology Landscape
-
-Table 4.1 from the source summarizes applicable treatment technologies for petroleum hydrocarbon removal. Bioremediation is applicable to both soil and groundwater in both in situ and ex situ configurations. Mycorrhizas are applicable to soil in ex situ treatment, while white-rot fungi are applicable to soil in ex situ treatment. Engineered in situ bioremediation has received wide acclaim because it requires little energy, preserves soil structure, and can detoxify contaminants. Complete mineralization to innocuous end products is preferred over partial degradation to metabolites with unknown fate and effects. Natural attenuation has become a popular cost-effective remedy, as has [[comparison-phytoremediation-vs-mycoremediation-detail]].
+tags: [[comparison-phytoremediation-vs-mycoremediation-detail]].
 
 ## Petroleum Hydrocarbon Field Applications
 
@@ -102,20 +89,13 @@ Beyond the well-documented applications above, mycoremediation research is expan
 
 Translating bench-scale mycoremediation results to field deployment involves several practical considerations:
 
-- **Inoculum production** at commercial scale requires reliable spawn or liquid culture methods. Grain spawn and sawdust spawn production techniques from [[cotter-oyster-mushroom-cultivation]] are directly applicable, though specific fungal species may require optimized media formulations.
-- **Site assessment** should include contaminant profiling, soil characterization (texture, organic matter, pH, moisture), native microbiome analysis, and hydrological mapping. Pre-treatment bioassays using the species intended for deployment help predict field performance.
-- **Monitoring protocols** must establish baseline contaminant concentrations and track degradation over time. The respirometric and molecular methods described above provide complementary data, with chemical analysis (GC-MS, HPLC) serving as the definitive measure of contaminant reduction.
-- Integration with existing technologies such as biopiles, windrow composting, and constructed wetlands can enhance treatment. Mycoremediation works synergistically with [[comparison-phytoremediation-vs-mycoremediation-detail]] when fungal inoculation targets the rhizosphere zone, where root exudates support sustained microbial activity.
+- **Inoculum production** at commercial scale requires reliable spawn or liquid culture methods. Grain spawn and sawdust spawn production techniques from [[comparison-phytoremediation-vs-mycoremediation-detail]] when fungal inoculation targets the rhizosphere zone, where root exudates support sustained microbial activity.
 
 A critical but often overlooked factor in successful field deployment is the timing of inoculation relative to environmental conditions. Fungal inoculation during warm, moist seasons (spring or early autumn in temperate climates) maximizes establishment success, while inoculation during hot, dry summer months or freezing winter conditions leads to poor survival. Pre-inoculation of substrates (spawn or inoculated wood chips) in controlled environments before field deployment can circumvent this timing constraint by allowing fungal biomass to establish before exposure to field conditions.
 
 ## See Also
 
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[mycoremediation-pesticide-herbicide-contamination]]
 - [[mycoremediation-dye-textile-wastewater]]
-- [[bioremediation-using-fungi]]
 - [[mycoremediation-mushroom-cultivation-contaminated-substrates]]
-- [[cotter-oyster-mushroom-cultivation]]
 - [[teaming-with-microbes-fungi-the-underground-network]]

@@ -10,7 +10,7 @@ sources:
 
 # Seed Balls (Tsuchi Dango)
 
-Seed balls, or "tsuchi dango" (earth dumplings), are a no-till seed propagation technique developed by Masanobu Fukuoka. Seeds are encased in a mixture of clay and compost, then scattered on the soil surface. The clay protects seeds from predation and desiccation while compost provides initial nutrients for germination. This technique is central to [[one-straw-revolution-key-concepts]] and connects to [[guerilla-gardening-tactics-methods]] for urban applications.
+Seed balls, or "tsuchi dango" (earth dumplings), are a no-till seed propagation technique developed by Masanobu Fukuoka. Seeds are encased in a mixture of clay and compost, then scattered on the soil surface. The clay protects seeds from predation and desiccation while compost provides initial nutrients for germination. This technique is central to [[guerilla-gardening-tactics-methods]] for urban applications.
 
 ## How Seed Balls Work
 
@@ -84,23 +84,7 @@ Do not scatter during prolonged dry periods -- seeds will sit dormant and may be
 - Vetch -- winter-hardy nitrogen fixer
 - Millet and oats -- fast-growing grasses for erosion control
 
-### Food Production (see [[fukuoka-vegetable-growing-natural-method]])
-
-- Radish, turnip, carrot (large seeds work well)
-- Beans, peas, cowpeas
-- Squash, melon (2-3 seeds per ball)
-- Greens: mustard, komatsuna, lettuce
-- Grains: wheat, barley, rice (in flooded paddies)
-
-### Wildflower and Pollinator Mixes
-
-- Yarrow, cosmos, calendula, echinacea
-- Clover, vetch, buckwheat as nurse plants
-- Native wildflower species appropriate to region
-
-## Guerilla Gardening Applications
-
-Seed balls are ideal for [[guerilla-gardening-tactics-methods]] because:
+### Food Production (see [[guerilla-gardening-tactics-methods]] because:
 
 - No tools required -- carry in pockets and toss into vacant lots
 - No visible soil disturbance -- looks natural
@@ -111,12 +95,6 @@ Scatter at a rate of approximately 10-20 balls per square meter for revegetation
 
 ## Related
 
-- [[edge-effect-in-permaculture]]
 - [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-white-clover-ground-cover]]
-- [[clay-seed-balls-tsuchi-dango]]
-
-## See Also
-
 - [[comparison-tissue-culture-vs-seed-saving]]

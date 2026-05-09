@@ -139,8 +139,6 @@ discussing companion planting and integrated pest management strategies.
 
 ## See Also
 
-- [[borago-officinalis]]
 - [[calendula-officinalis]]
-- [[taraxacum-officinale]]
 - [[urtica-dioica]]
 - [[comfrey-symphytum-officinale]]

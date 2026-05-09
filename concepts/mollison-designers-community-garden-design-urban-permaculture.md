@@ -16,10 +16,7 @@ type: concept
 
 # Community Garden Design and Urban Permaculture
 
-Bill Mollison's [[permaculture-designers-manual-bamboo]] extends permaculture
-design beyond rural homesteads into urban environments through
-community garden design. Urban permaculture applies the same
-[[permaculture-principles]] -- observation, integration, multiple
+Bill Mollison's [[permaculture-principles]] -- observation, integration, multiple
 functions, edge effect, and biological resource management -- to the
 unique constraints and opportunities of cities and towns: limited
 space, contaminated soils, high population density, and the social
@@ -35,7 +32,7 @@ productive, sustainable patterns. Key urban strategies include:
 - Converting vacant lots, rooftops, and marginal spaces to food
   production
 - Capturing and cycling urban waste streams (organic waste, greywater,
-  building materials) through [[vermicomposting]] and [[mollison-designers-aquatic-edge-planted-wetland-design]] treatment systems
+  building materials) through [[mollison-designers-aquatic-edge-planted-wetland-design]] treatment systems
 - Creating social structures that enable cooperative land management
 - Reducing dependence on distant food supply chains
 
@@ -47,10 +44,7 @@ organized around shared and individual spaces:
 ### Shared Infrastructure
 
 Common areas serve all garden members and include:
-- **Tool library and storage:** A shared shed housing [[mollison-designers-appropriate-technology-small-scale-tools]] such as wheel hoes, broadforks,
-  shovels, and wheelbarrows. Sharing reduces per-household cost and
-  storage burden.
-- **Composting area:** Centralized [[vermicomposting]] facilities that
+- **Tool library and storage:** A shared shed housing [[vermicomposting]] facilities that
   accept contributions from all plots and produce finished compost
   for redistribution. Large-scale composting is more efficient than
   individual plot composting.
@@ -60,15 +54,7 @@ Common areas serve all garden members and include:
 - **Meeting and education space:** A sheltered area for workshops,
   seed swaps, harvest sharing, and community gatherings.
 - **Perennial plantings:** Shared fruit trees, berry bushes, and
-  [[mollison-designers-herb-spiral-design-construction]] features that produce for the
-  whole community.
-
-### Individual Allotments
-
-Individual plots range from 10-100 square meters depending on
-available land and demand. Mollison recommends:
-- Permanent raised beds with defined paths to prevent soil compaction
-- No-dig methods following [[soil-food-web]] principles
+  [[soil-food-web]] principles
 - Perennial borders between plots planted with beneficial insect
   habitat and windbreak species
 - Access paths wide enough for wheelbarrows (minimum 60cm)
@@ -106,15 +92,7 @@ community garden:
 
 - **Sun exposure:** Building shadows, trees, and structures create
   complex shade patterns in urban settings. Map solar access across
-  seasons to optimize [[mollison-designers-mixed-orchard-design-species-selection]] and
-  annual crop placement.
-
-- **Water access:** Determine existing water sources and plan for
-  rainwater capture, greywater use, or municipal connection.
-
-- **Access and security:** Consider pedestrian access, visibility from
-  the street (reducing vandalism), and fencing needs for crop
-  protection (especially where [[mollison-designers-goat-management-and-browsing-systems]]
+  seasons to optimize [[mollison-designers-goat-management-and-browsing-systems]]
   or poultry are included).
 
 ## Food Forests and Urban Agroforestry
@@ -125,17 +103,7 @@ margin can produce fruit, nuts, herbs, and vegetables for
 neighborhood residents while providing green space, stormwater
 management, and wildlife habitat.
 
-Layered plantings follow [[mollison-designers-mixed-orchard-design-species-selection]]
-principles adapted to urban scale: dwarf fruit trees, berry bushes,
-herbaceous perennials, and ground covers arranged to maximize
-vertical productivity on small footprints.
-
-## Sharing and Exchange Systems
-
-Community gardens serve as hubs for broader exchange:
-- Seed libraries and swap events maintain genetic diversity
-- Surplus produce distribution reduces food waste
-- Skill workshops (canning, [[mollison-designers-solar-food-drying-preservation]], tool
+Layered plantings follow [[mollison-designers-solar-food-drying-preservation]], tool
   repair) build community self-reliance
 - Tool sharing reduces individual consumption
 - [[mollison-designers-beekeeping-honey-production-permaculture]] apiaries serve multiple
@@ -147,4 +115,3 @@ Mollison acknowledges that community gardens face displacement
 pressure from development, vandalism, internal conflict, and member
 burnout. Long-term land security through land trusts, conservation
 easements, or municipal dedication is essential. Building genuine
-community ownership through participatory design processes creates

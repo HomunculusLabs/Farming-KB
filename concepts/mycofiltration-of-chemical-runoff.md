@@ -73,26 +73,14 @@ The approach is particularly valuable for protecting salmon spawning grounds and
 
 ## See Also
 
-- [[singh-mycofiltration-water-runoff]]
-
 - [[mycofiltration-of-agricultural-runoff]]
-
-[[mycofiltration-of-pathogens]]
 
 [[mycofiltration-overview]]
 
-[[mycofiltration-of-water-stamets]]
-
 [[mycofiltration-of-water-contaminants]]
-
-[[mycofiltration-water-treatment]]
 
 [[mycoforestry-practices]]
 
-[[mycoforestry-forest-restoration]]
-
 [[mycofiltration-of-pathogens]]
-
-[[fungal-bioremediation]]
 
 [[forest-ecology-basics]]

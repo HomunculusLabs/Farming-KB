@@ -123,8 +123,10 @@ scattered, localized efforts end up as half-baked measures.
 
 ## See Also
 
-- [[fukuoka-sowing-desert-greening-worldwide-results]] — Specific project
-results - [[fukuoka-sowing-seed-ball-desert-revegetation]] — The alternative
-approach Fukuoka advocates - [[fukuoka-sowing-natural-farming-philosophy]] — The
-philosophical foundation - [[fukuoka-road-critique-of-modern-science]] — Earlier
+- [[fukuoka-sowing-seed-ball-desert-revegetation]] — The alternative
+approach Fukuoka advocates - [[fukuoka-road-critique-of-modern-science]] — Earlier
 critique of scientific approaches
+
+## See Also
+
+- [[fukuoka-natural-farming-temperate-climates]]

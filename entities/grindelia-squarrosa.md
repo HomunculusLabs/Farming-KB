@@ -133,11 +133,7 @@ well-ventilated area to prevent mold development.
 
 ## See Also
 
-- [[grindelia-robusta]]
-
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[herbal-baths-and-hydrotherapy]]
 - [[herbal-salves-and-balms]]
 
-- [[arnica-montana]] — Fellow Asteraceae medicinal of western NA
 - [[verbena-officinalis]] — Traditional European respiratory herb

@@ -2,7 +2,7 @@
 title: "Yucca filamentosa"
 created: 2026-04-28
 type: species
-tags: [permaculture, xeriscaping, fiber-plants, native-plants, pollinator-plants]
+tags: [[permaculture, xeriscaping, fiber-plants, native-plants, pollinator-plants]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["domain-knowledge"]
@@ -131,10 +131,7 @@ sources: ["domain-knowledge"]
 
 ## See Also
 
-- [[yucca-schidigera]]
-- yucca filamentosa — Spanish Dagger, related southeastern Yucca species
-- [[persea-americana-entity]] — Century Plant, similar architectural xeriscape form
-- [[opuntia-ficus-indica]] — Eastern Prickly Pear, complementary xeriscape native
+- [[persea-americana]] — Century Plant, similar architectural xeriscape form
 - [[echinacea-purpurea]] — Purple Coneflower, native pollinator-supporting companion
 - baptisia australis — Blue Wild Indigo, deep-rooted N-fixer for dry sites
 - [[asparagus-racemosus]] — Garden Asparagus, same family Asparagaceae

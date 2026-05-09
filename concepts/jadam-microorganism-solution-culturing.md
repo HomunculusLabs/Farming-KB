@@ -11,9 +11,7 @@ type: concept
 ## Overview
 JADAM Microorganism Solution (JMS) is the cornerstone input of JADAM
 organic farming, a Korean ultra-low-cost agricultural system developed
-by Young-sang Cho. JMS is produced by culturing [[indigenous-microorganisms]] collected from local leaf mold using simple, affordable
-ingredients and methods accessible to any farmer. The solution contains
-diverse microbial populations including photosynthetic bacteria, [[lactic-acid-bacteria]], yeast, actinobacteria, hay bacillus, and Bacillus natto,
+by Young-sang Cho. JMS is produced by culturing [[lactic-acid-bacteria]], yeast, actinobacteria, hay bacillus, and Bacillus natto,
 all of which are anaerobic organisms that benefit farming when applied
 to soil or plant surfaces.
 The JADAM approach to microbial cultivation fundamentally rejects the
@@ -80,41 +78,5 @@ difficult to cure through conventional means.
 JMS can be sprayed on leaves and branches to maintain microbial
 diversity on plant surfaces, preventing any single pathogen from
 dominating. For foliar application, the solution must be thoroughly
-filtered through fabric (finer than a net) and mixed with [[jadam-wetting-agent-jwa]]. For 500 liters of spray solution, use 20 liters
-of JMS and over 3 liters of JADAM wetting agent. Using more than 20
-liters of JMS makes the wetting agent less effective, as it is broken
-down by microorganisms.
-### Customized Microorganism Medium
-While potatoes serve as the basic medium, farmers can add crop-specific
-ingredients to culture microbes particularly suited to their crop. Bell
-pepper farms use bell peppers, grape growers add grapes, and tomato
-farms incorporate tomatoes. For 500 liters of JMS, blend 1 kilogram of
-the crop ingredient into fine particles and knead into the water. This
-selective medium approach mirrors laboratory selective culture
-techniques, encouraging proliferation of crop-associated microbes.
-## Applications
-### Livestock Integration
-JMS can be fed to animals or sprayed on shelter floors, significantly
-reducing odor and increasing feed conversion ratio. Diluted 20 times
-with water for animal feeding, the microorganisms decompose manure on
-the floor, turning it back into feed through fermentation. This organic
-livestock system, developed from the Japanese Yamagishi movement,
-eliminates the need for manure removal - accumulated waste is broken
-down by microbes and re-consumed by animals.
-### Disease Suppression
-Active soil microorganisms suppress particular pathogens from
-dominating. Increased microbial diversity means increased nutrient
-diversity for plants. Contaminants in soil are broken down by the
-microbes, roots settle well, and plants become healthy. High yield
-and high quality become natural outcomes of restored soil biology.
-### Winter Culturing Adaptation
-For cold-season farming, JMS can be cultured with cold-adapted
-microbes at 20 degrees Celsius. These microbes remain active at
-sub-zero temperatures, providing season-extended soil biological
-activity. This is particularly valuable for early harvest strategies
-and frost damage prevention.
-## References
-- Cho, Y. JADAM Organic Farming: Ultra-Low-Cost Agriculture.
-## See Also
-- [[jadam-microorganism-solution-jms]]
+filtered through fabric (finer than a net) and mixed with [[jadam-microorganism-solution-jms]]
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]

@@ -124,8 +124,6 @@ and enormous plant diversity, support the richest endophyte communities.
 
 ## See Also
 
-- [[mycorrhizal-fungi-symbiosis-with-plants]]
 - [[lichen-symbiosis-fungi-algae-partnership]]
-- [[biodiversity-fungi-plant-pathogens]]
 - [[ergot-fungi-and-ergotism-claviceps-purpurea]]
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]

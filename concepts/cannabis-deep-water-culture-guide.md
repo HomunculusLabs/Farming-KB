@@ -70,7 +70,7 @@ DWC requires careful attention to nutrients:
 - Change the full reservoir every 1–2 weeks to prevent salt buildup and nutrient imbalance
 - Top off with fresh water between changes to maintain volume
 
-See [[cannabis-nutrient-recipes]] for feeding schedules and [[cannabis-nutrient-lockout-and-ph]] for troubleshooting.
+See [[cannabis-nutrient-lockout-and-ph]] for troubleshooting.
 
 ## Growing Stages in DWC
 
@@ -84,41 +84,7 @@ See [[cannabis-nutrient-recipes]] for feeding schedules and [[cannabis-nutrient-
 - Roots should be well-developed and reaching into the solution
 - Increase nutrient strength gradually (EC ~1.0–1.5)
 - 18/6 or 24/0 light schedule
-- See [[cannabis-vegetative-stage-management]]
-
-### Flowering
-- Switch to bloom nutrients (higher phosphorus and potassium)
-- EC ~1.5–2.0 depending on strain tolerance
-- 12/12 light schedule
-- Monitor for nutrient burn at higher concentrations
-
-## Common Problems
-
-### Root Rot (Pythium)
-- Caused by warm water (above 72°F/22°C), poor oxygenation, or contaminated equipment
-- Roots turn brown and slimy instead of white and crisp
-- Treat with hydrogen peroxide (3%, 3ml per gallon), beneficial bacteria (HydroGuard), or reservoir cleaning
-- Maintain water temperature below 70°F
-
-### Algae
-- Green growth on reservoir walls and net pots
-- Block light from reaching the nutrient solution (use opaque reservoirs)
-- Does not directly harm plants but consumes nutrients and can clog air stones
-
-### pH Drift
-- DWC pH tends to drift over time due to plant nutrient uptake
-- Test and adjust pH daily
-- Use pH Up (potassium hydroxide) and pH Down (phosphoric acid) products
-
-## Recirculating vs. Bucket DWC Systems
-
-Two main DWC configurations exist. Single-bucket (or "bubbler") systems are self-contained reservoirs where each plant has its own nutrient solution — simple to set up and isolate, but require individual pH/EC monitoring. Recirculating DWC (RDWC or "current culture") connects multiple buckets to a central reservoir and pump, circulating nutrient solution through the system. RDWC provides more uniform nutrient conditions and reduces per-plant maintenance, but a single contamination event (such as Pythium) can spread rapidly to all connected plants. RDWC systems typically require a chiller to maintain water temperature across the larger volume, and inline UV sterilizers are sometimes added to control pathogen spread between sites.
-
-## Related Topics
-
-- [[cannabis-hydroponic-systems]] — overview of all hydroponic methods
-- [[cannabis-nutrient-recipes]] — feeding schedules for DWC
+- See [[cannabis-hydroponic-systems]] — overview of all hydroponic methods
 - [[cannabis-ph-management-and-soil-flushing]] — pH management in hydroponics
-- [[cannabis-soilless-grow-media]] — alternative growing media
 - [[aeroponics-guide]] — related mist-based growing method
 - [[nutrient-movement-through-soil-to-plant-roots]]

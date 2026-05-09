@@ -125,12 +125,8 @@ change.
 
 ## See Also
 
-- [[fungal-reproduction-life-cycles]]
-
 - [[fungal-life-cycles]]
 
-- [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
 - [[fungal-hyphae-invasive-growth-mechanisms]]
-- [[fairy-rings-mycelium-ecology-soil]]
 - [[mycorrhizal-fungi-symbiosis-with-plants]]
 - [[toxic-mushrooms-poisoning-amatoxins-syndromes]]

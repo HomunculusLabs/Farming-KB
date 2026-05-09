@@ -117,9 +117,6 @@ mycomedicines.
 
 ## See Also
 
-- [[mycofiltration]] — mycelium as a membrane for filtering water
 - [[mycoremediation]] — fungi to degrade environmental pollutants
-- [[paul-stamets]] — the mycologist who coined and developed mycoforestry
 - [[laccaria-laccata]] — mycorrhizal species used in forestry
-- [[suillus-luteus]] — mycorrhizal mushroom of pine forests
 - [[pisolithus-tinctorius]] — ectomycorrhizal fungus for reforestation

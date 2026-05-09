@@ -141,9 +141,6 @@ Unlike T. melanosporum, T. magnatum has resisted reliable cultivation. Inoculate
 
 ## See Also
 
-- [[tuber-melanosporum]]
 - [[cantharellus-cibarius-entity]]
-- [[boletus-edulis-entity]]
 - [[morchella-esculenta]]
-- [[quercus-robur]]
 - [[hazelnut-corylus-spp]]

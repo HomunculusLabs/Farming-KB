@@ -86,41 +86,7 @@ to find live foliage with fresh, flowing sap.
 Several predatory mite species are commercially available and
 effective:
 
-- [[cervantes-biological-pest-control-predators]] and Mesoseiulus (Phytoseiulus)
-  longipes are the two most common and effective predators
-- Phytoseiulus persimilis, Neoseiulus fallacius, Galendromus
-  occidentalis, and Galendromus pyri predators are also
-  available commercially
-- A general dosage of 20 predators per plant is a good
-  starting point
-- Predatory mites travel poorly between plants, so they must
-  be set out on each plant individually
-- Temperature and humidity levels must be proper for predators
-  to thrive
-- Introduce predators as soon as spider mites are seen on
-  vegetative growth, and release every month thereafter
-- Average predator can consume 20 eggs or 5 adult mites daily
-
-Before releasing predators, rinse all plants thoroughly to
-ensure toxic-spray residues are gone. Pyrethrum and
-insecticidal soaps kill predatory mites, so avoid these when
-using biological controls.
-
-## Chemical and Spray Control
-
-Use sprays as a progressive escalation, not a first resort:
-
-- Dip small plants in [[cervantes-neem-oil-organic-pest-control]], [[cervantes-pyrethrum-pyrethroid-insecticides]],
-  or horticultural oil
-- Rotate sprays so mites do not develop immunity
-- Avoid miticides containing acephate (Orthene), which are
-  too toxic for consumable crops
-
-## Cleanliness Protocol
-
-Cleanliness is the most important first step to spider mite
-control. Keep the grow room and tools spotless and disinfected.
-[[cervantes-mother-plants]] often harbor spider
+- [[cervantes-neem-oil-organic-pest-control]], [[cervantes-mother-plants]] often harbor spider
 mites. Spray mothers regularly with miticides, including once
 three days before taking cuttings. Do not introduce new pests
 into the garden on clothing, and prevent animal visits.
@@ -138,13 +104,9 @@ The recommended progression of control measures:
 5. Remove foliage more than 50 percent damaged
 6. Introduce predatory mites before infestations grow out of
    hand
-7. Spray with [[cervantes-pyrethrum-pyrethroid-insecticides]]
-   or [[cervantes-neem-oil-organic-pest-control]]; use
+7. Spray with [[cervantes-neem-oil-organic-pest-control]]; use
    strong miticides only if necessary, rotating sprays
-
 ## Related Topics
 
-- [[spider-mites-cannabis]] - general spider mite management
 - [[cervantes-biological-pest-control-predators]] - predators
-- [[cervantes-whitefly-pest-control]] - related sap-sucking pest
 - [[cervantes-thrips-pest-control]] - another common foliar pest

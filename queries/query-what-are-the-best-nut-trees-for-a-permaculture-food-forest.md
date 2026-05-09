@@ -100,13 +100,8 @@ Space trees according to their mature canopy spread, typically 30 to 60 feet apa
 
 ## Related
 
-- [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture-food-forests]]
-
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] Pages
 
-- [[food-forest-design]]
 - [[food-forest-plant-palette]]
-- [[chestnuts-castanea-spp]]
 - [[hazelnut-corylus-spp]]
-- [[forest-garden-design-principles]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]

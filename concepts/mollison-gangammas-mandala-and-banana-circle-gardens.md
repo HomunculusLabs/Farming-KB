@@ -122,8 +122,6 @@ barrier, windbreak, mulch source, and animal deterrent.
 
 ## See Also
 
-- [[permaculture-zones-in-practice]]
 - [[mollison-tropical-mulch-systems-and-materials]]
-- [[permaculture-designers-manual-tropical-climates]]
 - [[mollison-animal-integration-permaculture-design]]
 - [[permaculture-food-forests-design-course]]

@@ -100,9 +100,7 @@ decomposition rates than aluminum- or iron-rich soils.
 Fungi are the primary decomposers of recalcitrant organic matter. Their
 filamentous growth form allows them to penetrate solid substrates and
 translocate resources across distances. White-rot basidiomycetes are the
-only organisms capable of substantial [[lignin-degradation]]. Saprotrophic
-fungi produce diverse arrays of cellulases, hemicellulases, ligninases,
-pectinases, and proteases (see [[fungal-ecology]]). Key decomposer groups include [[wood-decay-fungi]] and the broader [[soil-food-web]] community.
+only organisms capable of substantial [[fungal-ecology]]). Key decomposer groups include [[soil-food-web]] community.
 
 ### Bacteria
 
@@ -146,5 +144,4 @@ availability. Pesticides and heavy metals can eliminate key decomposer
 groups, slowing nutrient cycling. Soil compaction from machinery reduces
 oxygen availability and invertebrate habitat, suppressing decomposition
 rates in agricultural landscapes.
-
 ## See Also

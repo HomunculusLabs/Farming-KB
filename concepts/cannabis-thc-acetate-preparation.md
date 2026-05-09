@@ -8,7 +8,7 @@ sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 ---
 # Cannabis THC Acetate Preparation
 
-THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt. The pharmacological profile places it alongside other [[psychedelic-consciousness-models]] as a compound that blurs the line between cannabis and classic psychedelics. Understanding the parent compound's chemistry in [[tetrahydrocannabinolic-acid-thca]] is essential since the quality of starting material directly affects acetate yield and purity.
+THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt. The pharmacological profile places it alongside other [[tetrahydrocannabinolic-acid-thca]] is essential since the quality of starting material directly affects acetate yield and purity.
 
 ## Safety Requirements
 
@@ -78,23 +78,19 @@ This conversion uses acetic anhydride, an extremely dangerous chemical. A safety
 - The product volume will be up to 25% more than the starting oil volume
 - THC acetate can be consumed in any customary manner (smoked, oral, etc.)
 
-For growers interested in the upstream cultivation side, [[green-cannabis-ph-management-cannabis-growing]] covers the soil chemistry that influences the precursor cannabinoids in raw plant material. Research into [[cannabis-cancer-pain-research]] explores the therapeutic potential of cannabinoids including acetylated derivatives.
+For growers interested in the upstream cultivation side, [[cannabis-cancer-pain-research]] explores the therapeutic potential of cannabinoids including acetylated derivatives.
 
-See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[cannabis-honey-oil-production]], and [[cannabis-indoor-growing-guide]].
+See also [[cannabis-extraction-basics]], [[cannabis-indoor-growing-basics]].
 
 ## See Also
 
-[[cannabis-reefers-and-tincture-preparation]]
-- [[cannabis-solvent-reflux-extraction-methods]]
-- [[cannabis-reflux-extraction-apparatus]]
+[[cannabis-solvent-reflux-extraction-methods]]
 - [[cannabis-hash-making-from-extracted-oil]]
 
 ## See Also
 
-- [[thc-acetate-synthesis-and-pharmacology]] — pharmacological profile and effects of THC acetate including the characteristic delayed onset
 - [[thc-acetate-and-isomerization]] — relationship between THC acetate formation and cannabinoid isomerization pathways
-- [[tetrahydrocannabinol-thc]] — the parent compound from which THC acetate is derived via acetylation
 - [[tetrahydrocannabinolic-acid-thca]] — the natural acidic precursor to THC, relevant to extraction starting material quality
 
-[[thc-acetate-synthesis-and-pharmacology]] | [[thc-acetate-and-isomerization]] | [[tetrahydrocannabinol-thc]] | [[tetrahydrocannabinolic-acid-thca]]
-[[cannabinoid-biosynthesis-pathway]] | [[cannabis-indoor-growing-guide]] | [[cannabis-solvent-reflux-extraction-methods]] | [[cannabis-reflux-extraction-apparatus]] | [[green-cannabis-ph-management-cannabis-growing]]
+[[thc-acetate-and-isomerization]] | [[tetrahydrocannabinolic-acid-thca]]
+[[cannabis-indoor-growing-basics]] | [[cannabis-reflux-extraction-apparatus]] | [[green-cannabis-ph-management-cannabis-growing]]

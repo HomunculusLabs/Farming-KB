@@ -141,9 +141,6 @@ Spearmint is one of the most versatile culinary herbs, used globally across nume
 
 ## See Also
 
-- [[mentha-piperita]] — peppermint, the more potent, menthol-rich relative
 - [[mentha-pulegium]] — pennyroyal, a more toxic mint species
-- [[ocimum-basilicum]] — basil, another Lamiaceae culinary herb
 - [[rosmarinus-officinalis-entity]] — rosemary, Lamiaceae companion plant
-- [[companion-planting]] — broader context for mint in polyculture design
 - [[calendula-officinalis]] — another insectary plant commonly used in permaculture guilds

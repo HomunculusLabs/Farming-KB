@@ -116,13 +116,10 @@ Hydroponic systems handle watering differently:
 - **Ebb and flow**: Flooding cycles (typically 2–4 times per day during lights-on)
 - **Drip systems**: Continuous or periodic dripping to each plant
 - **NFT**: Thin film of nutrient solution constantly flowing over roots
-- See [[cannabis-hydroponic-systems]] and [[cannabis-deep-water-culture-guide]] for system-specific details
+- See [[cannabis-deep-water-culture-guide]] for system-specific details
 
 ## Related Topics
 
-- [[cannabis-nutrient-lockout-and-ph]] — pH management for nutrient availability
 - [[cannabis-root-rot-prevention-and-treatment]] — root diseases from overwatering
-- [[cannabis-root-bound-symptoms-and-management]] — container-related watering issues
 - [[cannabis-indoor-soil-mix-and-preparation]] — soil mixes that drain properly
-- [[cannabis-vegetative-stage]] — vegetative growth care
 - [[cannabis-flowering-stage]] — flowering stage watering adjustments

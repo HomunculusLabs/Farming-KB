@@ -119,11 +119,7 @@ Photosensitive species (Psilocybe cubensis, Pleurotus ostreatus) respond to spec
 
 ## See Also
 
-- [[stamets-fruiting-strategies-and-primordia-formation]] -- Stamets' fruiting chapter
 - [[mushroom-cultivator-casing-soil]] -- casing techniques before fruiting
-- [[mushroom-cultivator-contamination-prevention]] -- preventing problems during cropping
 - [[monotub-cultivation]] -- environment control systems
-- [[pinhead-initiation-fruiting-triggers]] -- fruiting triggers overview
 - [[mushroom-yield-optimization]] -- primordia formation biology
-- [[mushroom-contamination-control-strategies]]
 - [[environmental-control-mushroom-growing]]

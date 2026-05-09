@@ -16,34 +16,13 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Beta-carboline, tetrahydro derivative
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: 300 mg orally (synthetic racemate)
-
-- Duration: Unknown
-
-- Active routes: oral
-
-## Qualitative Effects
-
-At 300 mg (oral): Subjective effects were described as similar to those experienced
-with 100 mg of [[harmaline-entity-tihkal]]. Only a single trial
+- Source: [[harmaline-entity-tihkal]]. Only a single trial
 exists, with a single volunteer.
 
 ## Natural Occurrence
 
 Tetrahydroharmine is one of the three principal beta-carboline alkaloids
-found in [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]] preparations, along with
-[[harmine-entity-tihkal]] and [[harmaline-entity-tihkal]].
-It is present in [[peganum-harmala]] (Syrian rue) and [[banisteriopsis-caapi]] (ayahuasca
-vine). In analyses of ayahuasca samples, tetrahydroharmine has been reported
-at levels equal to those of harmine, while harmaline is usually present in
-much smaller amounts.
-
-It has also been identified in Calliandra pentandra, a plant sometimes used
-as an ayahuasca component in place of the usual [[psychotria-viridis]]. In one
+found in [[harmine-entity-tihkal]] and [[peganum-harmala]] (Syrian rue) and [[psychotria-viridis]]. In one
 analyzed brew using C. pentandra, a component initially identified as DMT
 by HPLC proved to be tetrahydroharmine upon GCMS analysis — yet the brew
 still exhibited psychopharmacological activity.
@@ -52,8 +31,7 @@ still exhibited psychopharmacological activity.
 
 Tetrahydroharmine is an effective monoamine oxidase inhibitor (MAOI), which
 is critical for its role in ayahuasca. MAO inhibition allows orally inactive
-compounds like [[alpha-n-dmt-entity-tihkal]] to become orally active by preventing
-their metabolic breakdown in the gut and liver. While [[harmine-entity-tihkal]]
+compounds like [[harmine-entity-tihkal]]
 and [[harmaline-entity-tihkal]] are better-studied MAOIs, tetrahydroharmine
 may be an extremely important — and underappreciated — factor in the overall
 pharmacology of ayahuasca preparations.

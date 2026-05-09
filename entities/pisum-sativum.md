@@ -110,9 +110,7 @@ Pea protein isolate (80–90% protein) has become commercially significant as a 
 
 ## See Also
 
-- [[vicia-faba]]
 - [[trifolium-pratense]]
-- [[medicago-sativa]]
 - [[glycine-max]]
 - Cicer arietinum
 - Lens culinaris

@@ -116,15 +116,10 @@ The haustorium-mediated nutrient uptake strategy of B. graminis represents a sop
 The fungus genome reveals a streamlined set of metabolic pathways consistent with its obligate biotrophic lifestyle and dependence on living host tissue for nutrition.
 
 ## See Also
-Related: [[powdery-mildews-erysiphaceae-diversity-host-range]], [[mycoparasite-host-interface-types-interaction-mechanisms]], [[microfungal-diversity-host-plant-relationship]]
+Related: [[mycoparasite-host-interface-types-interaction-mechanisms]], [[compost-tea-recipe-guide]]
 
-- [[compost-tea-recipe-guide]]
-
-- [[fungal-plant-diseases]]
 - [[organic-pest-and-disease-management]]
 
-- [[magnaporthe-grisea]]
 - [[arthrobotrys-oligospora]]
 - monacrosporium haptotylum
-- [[ustilago-maydis]]
 - [[rhizoctonia-solani]]

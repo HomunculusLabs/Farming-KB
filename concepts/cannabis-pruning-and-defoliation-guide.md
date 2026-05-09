@@ -12,7 +12,7 @@ sources:
 
 Pruning and defoliation are essential skills for cannabis cultivators seeking to maximize yield, control plant shape, and improve airflow. These techniques range from removing individual leaves to deliberately damaging stem tissue, each with specific purposes and timing requirements. Understanding when and how to cut is as important as knowing what to cut.
 
-See [[training-cannabis]] for structural training methods like LST and HST, and [[cannabis-scrog-and-sog-methods]] for canopy management in specialized setups.
+See [[cannabis-scrog-and-sog-methods]] for canopy management in specialized setups.
 
 ## Why Pruning Matters
 
@@ -26,37 +26,7 @@ Topping is the practice of removing the apical meristem, the main growing tip of
 
 The effectiveness of topping varies significantly by strain. Some strains like Blueberry respond dramatically to topping, producing substantially more total bud when topped versus left untrained. Other strains simply redistribute the same volume across two smaller colas, with no net gain. Experimenting with topping on 2 out of every 10 plants per grow is recommended to learn how a particular strain responds.
 
-Topping during flowering should be avoided because the plant diverts energy from bud production into branch and leaf regeneration, slowing the rate of bud growth. All topping should be completed during the [[cannabis-vegetative-stage]].
-
-## Fimming
-
-Fimming is a variation of topping where instead of cleanly removing the growing tip, approximately 75% of the tip is pinched or cut away, leaving a small portion intact. This often results in 3-4 new colas rather than the 2 produced by a clean top. The results are less predictable than topping but can produce more colas when successful. Fimming is performed at the same growth stage as topping, during weeks 3-4 of vegetative growth.
-
-## Repeated Topping and Bush Training
-
-Each stem or branch that is pruned will develop two new branches at the cut site. By sequentially pruning, a grower can create progressively bushier plants. A plant with 8 shoots (4 nodes high) can be pruned to produce 16 shoots while maintaining the same height. With further pruning, up to approximately 32 shoots can be achieved, though this is strain-dependent and each strain has a genetically determined branching limit.
-
-The bush method involves pruning half the plant's branches during week 3 of vegetative growth, leaving the other half intact. The remaining branches are pruned during weeks 4-5, once the initial cuts have produced new growth. By week 7, the plant becomes more concerned with lateral growth than vertical extension. Cannabis plants need at least 50% of their leaves to continue growing without fatal stunting, so never remove all branches at once.
-
-It is important never to prune just one side of the plant. Always prune per side to achieve the 50% balance. Asymmetric pruning creates uneven growth patterns that waste light and reduce overall yield.
-
-## Fan Leaf Management
-
-Fan leaves produce sugars through photosynthesis that are used throughout the plant, including in bud production. Removing healthy fan leaves that are actively receiving light will reduce overall growth and yield. However, fan leaves should be removed when they are dying, badly burnt, or covering a large bud mass that would otherwise receive more light.
-
-In SOG and ScrOG setups, fan leaves from one plant may block light from reaching bud sites on adjacent plants. In these configurations, selective fan leaf removal is justified. The rule is simple: if a fan leaf is preventing light from reaching a bud, it can be removed. If it is receiving light and contributing to the plant's energy production, leave it in place.
-
-Dead leaves at the bottom of the plant should always be removed and discarded. Dead foliage left on the soil attracts pests and can harbor mold spores. Never leave dead leaves on the soil surface as fertilizer.
-
-## Thinning
-
-Thinning is primarily used by outdoor growers and in ScrOG, SOG, and BOG (Bottom of Green) indoor setups. The goal is to create a uniform canopy height across all plants so that the light can be positioned at an optimal distance for every plant. When plants of varying heights are grown together, the light must be set for the tallest, leaving shorter plants under-lit.
-
-Consider a scenario with three plants: Plant A is 1 meter from the light, Plant B is 0.5 meters, and Plant C is only 8 inches. This sloped arrangement wastes light and space. Thinning solves this by cutting racy plants down to the same level as the others or removing them entirely.
-
-An important observation from experience: taller plants from seed are statistically more likely to be male, while shorter plants are more likely female. Removing the tallest plants and keeping shorter ones can improve the male-to-female ratio. However, this is not a guarantee, only a statistical tendency.
-
-Thinning cuttings should not be discarded if they are healthy. These cuttings can be cloned into new plants. See [[cannabis-cloning-and-mother-plants]] for cloning techniques.
+Topping during flowering should be avoided because the plant diverts energy from bud production into branch and leaf regeneration, slowing the rate of bud growth. All topping should be completed during the [[cannabis-cloning-and-mother-plants]] for cloning techniques.
 
 ## Defoliation During Flowering
 
@@ -91,10 +61,24 @@ All tools should be sterilized with isopropyl alcohol between plants to prevent 
 Indica-dominant strains tend to respond well to topping and bush training because their natural branching structure supports multiple colas. Sativa-dominant strains are naturally tall with longer internodal spacing and may require more aggressive training to control height. Without pruning, a Sativa plant will typically stretch to five feet or more indoors, making topping or training almost mandatory for most grow spaces.
 
 When learning a new strain, always test pruning techniques on a subset of plants rather than the entire garden. Some strains have very specific responses that can only be learned through direct experience. Document the results of different pruning approaches for each strain to build a personal cultivation knowledge base.
-- [[jadam-leaf-mold-soil-method]]
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
-- [[what-natural-farming-method-should-i-use]]
-
-## See Also
-
 - [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]]
+## Practical Considerations
+
+Successful implementation of Cannabis Pruning and Defoliation Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -24,13 +24,7 @@ To date, 83 elements have been identified in seawater. The major elements includ
 - Boron, Silicon, Strontium, Carbon, Nitrogen (secondary)
 - Phosphorus, Iodine, Manganese, Zinc, Copper, Iron, Selenium, Germanium (trace)
 
-Seawater contains about 100 million marine microorganisms per milliliter, making it an excellent companion to [[jadam-microorganism-solution-jms]]. Mixing the two combines microbial diversity from land (leaf mold) and sea.
-
-## Application Method
-
-- Dosage: 20 liters (5.28 gal) of seawater per 0.1 hectare (1/4 acre), equivalent to approximately 500-600 grams of sea salt
-- Dilution: Mix seawater with 30 to 100 times more plain water (seawater is ~3% salt; plant body fluid is ~1%)
-- Frequency: Apply 3-4 times per month, combined with JMS and [[jadam-phyllite-solution]]
+Seawater contains about 100 million marine microorganisms per milliliter, making it an excellent companion to [[jadam-phyllite-solution]]
 - Warning: Never spray undiluted seawater or sprinkle salt directly onto soil
 
 ## Effects on Crops
@@ -61,13 +55,42 @@ This is part of JADAM's broader principle: the diversity of soil microorganisms 
 
 Fields, rice paddies, and orchards by the sea have been showered with seawater elements for hundreds and thousands of years. They consistently produce better quality food than inland farms -- evidence that sea mineral supplementation works in practice.
 
+
+## Seawater Composition and Mineral Profile
+
+Full-spectrum seawater contains all 92 naturally occurring elements
+in proportions remarkably similar to blood plasma. The primary
+minerals include sodium (10,500 mg/L), magnesium (1,350 mg/L),
+calcium (400 mg/L), potassium (390 mg/L), and trace amounts of
+iron, zinc, manganese, copper, boron, molybdenum, and selenium.
+
+Dilution ratios are critical for agricultural use. Cho Han-kyu
+recommends a base dilution of 1:30 (seawater to fresh water) for
+soil drenching, with adjustments based on crop sensitivity and
+growth stage. Leafy greens and young transplants require more
+dilute solutions (1:50 to 1:100), while established fruit trees
+can tolerate stronger concentrations (1:20 to 1:10).
+
+## Integration with JADAM Inputs
+
+Seawater mineral supplementation works synergistically with other
+JADAM inputs. When combined with JADAM microbial solutions (JMS),
+the trace minerals in diluted seawater support diverse microbial
+populations that might otherwise be limited by mineral deficiency.
+JADAM herbal pesticides (JHS) applied alongside seawater solutions
+may show enhanced efficacy, as plant tissues with balanced mineral
+nutrition produce stronger defense compounds.
+
+The recommended application schedule integrates seawater into the
+regular JADAM input rotation: apply diluted seawater every 2-3 weeks
+during active growth, alternating with JMS applications. Avoid
+applying seawater during flowering for crops where sodium
+sensitivity affects fruit set, and always rinse foliage with fresh
+water after foliar seawater application to prevent salt burn on
+leaf surfaces.
 ## See Also
 
-- [[jadam-crop-residue-fertilizer]] -- the problem seawater solves
 - [[jadam-phyllite-solution]] -- the complementary rock mineral source
-- [[jadam-microorganism-solution-jms]] -- the microbial companion
 - [[jadam-soil-foundation-work]] -- the comprehensive soil preparation method
-- [[jadam-sea-salt-use]] -- sea salt applications in farming
 - [[jadam-leaf-mold-soil-method]]
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[fukuoka-natural-diet-food-philosophy]]

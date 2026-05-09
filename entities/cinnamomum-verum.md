@@ -141,9 +141,6 @@ hepatotoxic risk, while true cinnamon is safe for daily use.
 
 ## See Also
 
-- [[cinnamomum-camphora]]
-
 - [[curcuma-longa]]
-- [[zingiber-officinale]]
 - [[hypericum-perforatum]]
 - [[ocimum-sanctum]]

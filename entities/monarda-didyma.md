@@ -42,37 +42,7 @@ sources:
 **Synonyms:**
 - Monarda coccinea L. ex Gmel.
 - Monarda fulgens Gand.
-- Monarda fistulosa var. didyma (L.) Benth. (incorrect, now treated as separate species)
-
-The genus Monarda honors Nicolás Monardes (1493–1588), Spanish physician and botanist who documented New World medicinal plants.
-
-## Morphology
-
-**Growth habit:** Perennial, clump-forming, 60–120 cm tall, spreading 30–60 cm via rhizomes.
-
-**Stems:** Square (characteristic of Lamiaceae), branching, pubescent to glandular-pubescent.
-
-**Leaves:** Opposite, ovate to lanceolate, 6–15 cm long, 3–8 cm wide. Leaf margins serrate. Dark green, often with reddish tints. Strongly aromatic when crushed, with a scent reminiscent of bergamot orange (Citrus bergamia). The similarity led to the common name "bergamot" (unrelated to the true bergamot citrus).
-
-**Flowers:** Terminal, dense, rounded heads (globular clusters) 3–7 cm across. Individual flowers tubular, 2-lipped, scarlet to crimson. Bracts beneath the flower head are often showy and colored. Blooms mid-summer to early autumn (July–September). Each flower head contains 20–30 individual florets.
-
-**Roots:** Fibrous root system with shallow, spreading rhizomes. Plants form dense colonies over time.
-
-## Distribution and Habitat
-
-**Native range:** Eastern North America, from Maine to Ontario in the north, south to Georgia and west to Michigan and Missouri. Primarily found in the Appalachian region, the Great Lakes area, and the Ozarks.
-
-**Habitat:** Moist woodland edges, stream banks, thickets, and moist meadows. Prefers rich, organic soils with consistent moisture. Naturally occurs in partial shade to full sun, often along watercourses.
-
-**Naturalized range:** Widely cultivated and occasionally escaped from gardens in Europe and western North America.
-
-## Essential Oil Composition
-
-**Essential oil:** Thymol (30–70%), carvacrol, p-cymene, linalool, α/β-pinene, γ-terpinene, and eucalyptol. Chemotype variation is significant; some populations favor carvacrol or geraniol as dominant constituents.
-
-## Bioactive Compounds and Pharmacology
-
-**Antimicrobial activity:** Thymol and carvacrol exhibit broad-spectrum activity against Gram-positive bacteria (Staphylococcus aureus, Streptococcus spp.), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa at higher concentrations), and fungi (Candida albicans). Mechanism involves disruption of bacterial cell membranes via interaction with lipid bilayers.
+- [[candida-albicans]]). Mechanism involves disruption of bacterial cell membranes via interaction with lipid bilayers.
 
 **Antioxidant activity:** The essential oil demonstrates significant free radical scavenging activity in DPPH and ABTS assays, primarily attributed to the phenolic terpenoids.
 
@@ -130,8 +100,7 @@ Bee balm is a versatile multi-functional plant in permaculture designs:
 - **Dynamic accumulator** — deep roots mine minerals from subsoil, accessible through surface mulch or compost
 - **Herb layer in food forests** — fills the 60–120 cm niche between ground covers and small shrubs
 - **Edge plantings** — thrives at the interface between cultivated areas and wild zones
-- **Medicinal guild** — integrates well with other medicinal herbs in a dedicated herb spiral or apothecary garden
-- **Companion planting** — aromatic foliage may help deter certain pest insects when interplanted with tomatoes and peppers
+- **Medicinal guild** — integrates well with other medicinal herbs in a dedicated [[companion-planting]]** — aromatic foliage may help deter certain pest insects when interplanted with tomatoes and peppers
 - **Erosion control** — spreading rhizomes stabilize soil along stream banks and swales
 
 ## Related Species
@@ -143,6 +112,5 @@ Bee balm is a versatile multi-functional plant in permaculture designs:
 
 ## See Also
 
-- [[candida-albicans]]
 - [[companion-planting]]
 - [[dom]]

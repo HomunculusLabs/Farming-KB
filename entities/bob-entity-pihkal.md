@@ -101,11 +101,8 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[bod-entity-pihkal]]
 - [[boh-entity-pihkal]]
-- [[bohd-entity-pihkal]]
 - [[bom-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[bis-tom-entity-pihkal]] -- BIS-TOM (PIHKAL #12)
 - [[bod-entity-pihkal]] -- BOD (PIHKAL #14)

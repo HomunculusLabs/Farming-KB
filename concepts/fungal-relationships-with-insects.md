@@ -3,13 +3,7 @@ title: Fungal Relationships with Insects
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-# Fungal Relationships with Insects
-
-The interrelationships between fungi and insects are among the most complex in biology. Practically all insects engage, consume, or succumb to fungi. From *Mycelium Running* by [[stamets-mycoremediation-principles]].
+tags: [[stamets-mycoremediation-principles]].
 
 ## Overview
 
@@ -86,11 +80,7 @@ Endophytic fungi living inside plant tissues can protect their host plants from 
 
 ## Related Concepts
 
-- [[mycopesticides]] — detailed mycopesticide applications
 - [[fungal-ecology]] — broader fungal ecology
-- [[singh-endophytic-fungi-plant-protection-mechanisms]]
 - [[insect-allies]] — beneficial insects in permaculture
-- [[mushroom-contamination-identification-and-troubleshooting]] — fungal organism scale
 - [[stamets-mycoremediation-principles]] — source author
-- [[mycelium-running-pest-control-with-fungi]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

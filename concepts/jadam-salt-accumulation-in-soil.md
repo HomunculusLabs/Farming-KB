@@ -53,35 +53,10 @@ Key steps:
 
 ## Connection to Cover Crops
 
-The [[jadam-cover-crop-method]] further accelerates the breakdown of soil compaction. Cover crop roots penetrate the compacted layer, physically breaking it apart while adding organic matter and feeding microorganisms.
-
-Rye in particular has strong nutrient absorption capacity and helps eliminate salt from the soil. Sudan grass is another effective species for removing salt from soil under protected cultivation.
-
-## Mineral Leaching
-
-JADAM distinguishes between two types of mineral loss:
-- **Natural leaching**: The inevitable loss of minerals when fruits are harvested and removed from the field. These nutrients came from the soil and are now gone.
-- **Forced leaching**: The preventable loss caused by removing crop residues (stems, leaves, branches) from the field instead of returning them to the soil.
-
-Both forms of leaching deplete soil minerals over time, but forced leaching is entirely avoidable and represents a direct harm to agriculture.
-
-## See Also
-
-- [[jadam-soil-management-principles]] -- comprehensive soil management
-- [[jadam-root-soil-assessment]] -- evaluating soil through root observation
+The [[jadam-soil-management-principles]] -- comprehensive soil management
 - [[jadam-cover-crop-method]] -- cover crops for soil improvement
-- [[jadam-microorganism-solution-jms]] -- the microbial input for soil restoration
 - [[jadam-soil-hardening-prevention]] -- preventing soil compaction
-- [[jadam-antibiotic-soil-contamination]] -- antibiotic buildup in soil
-
-## Sources of Salt Accumulation
-
-JADAM identifies multiple pathways through which salts accumulate in agricultural soils:
-
-- **Chemical fertilizers:** The most significant source in conventional agriculture. Ammonium sulfate, potassium chloride, and monoammonium phosphate all leave behind salt residues. Each application adds both the desired nutrient and an accompanying salt ion that accumulates over time. After 10-20 years of conventional fertilization, salt levels can reach toxic thresholds for sensitive crops.
-- **Irrigation water:** Groundwater in arid and semi-arid regions often contains elevated sodium and bicarbonate levels. Repeated irrigation without adequate drainage concentrates these salts in the root zone. This is the primary cause of soil salinization affecting roughly 20% of irrigated agricultural land worldwide.
-- **Compost and manure:** While generally beneficial, excessive application of manure (especially poultry manure) introduces sodium and other salts. Feedlot manure is particularly high in salt due to mineral supplements in animal feed.
-- **[[jadam-microorganism-solution-jms]] applications:** JADAM notes that even their own microbial solution can contribute to salt accumulation if prepared with hard or mineral-rich water. This is why JADAM emphasizes using clean rainwater or well-water for all preparations.
+- [[jadam-microorganism-solution-jms]] applications:** JADAM notes that even their own microbial solution can contribute to salt accumulation if prepared with hard or mineral-rich water. This is why JADAM emphasizes using clean rainwater or well-water for all preparations.
 
 ## Symptoms of Salt-Stressed Soil
 
@@ -90,15 +65,27 @@ Recognizing salt accumulation early allows intervention before significant yield
 - **Soil surface:** White crusts or efflorescence on dry soil surfaces indicate salt accumulation at the surface. After rain or irrigation, these dissolve and move deeper, concentrating in the root zone.
 - **Plant symptoms:** Leaf margin burn (necrosis starting at leaf tips and edges), stunted growth, wilting despite adequate soil moisture, and reduced fruit set. Symptoms often mimic drought stress because high salt concentrations create osmotic stress that prevents water uptake.
 - **Soil physical changes:** Salt-affected soils develop poor structure, becoming hard and crusty when dry. This reduces water infiltration and root penetration, creating a feedback loop where poor drainage further concentrates salts.
-- **[[jadam-root-soil-assessment]] indicators:** JADAM teaches farmers to assess root zone conditions directly. Salty soils produce shallow, stunted root systems with reduced branching and few fine root hairs.
-
-## JADAM Remediation Strategies
-
-JADAM approaches salt remediation through biological rather than chemical means:
-
-1. **[[jadam-cover-crop-method]]:** Deep-rooted cover crops (radish, ryegrain, mustards) pump water from deep soil layers and deposit it on the surface through transpiration, effectively "pulling" salts upward and away from the root zone of subsequent crops. The cover crop biomass also adds organic matter that improves soil structure and drainage.
-2. **Microbial restoration:** [[jadam-microorganism-solution-jms]] and [[jadam-liquid-fertilizer]] applications restore the microbial community that breaks down salt compounds and converts them into plant-available or leachable forms. The key organisms include salt-tolerant bacteria (Halobacillus, Bacillus species) and mycorrhizal fungi that buffer plant roots from sodium toxicity.
-3. **Organic matter addition:** Regular incorporation of compost and crop residues increases the soil's cation exchange capacity (CEC), providing more sites to hold nutrients while allowing excess sodium to be leached. See [[jadam-crop-residue-fertilizer]] for JADAM's approach to using crop residues as a fertility source.
-4. **Water management:** Improve drainage to allow leaching of excess salts below the root zone. JADAM advocates for minimal irrigation using techniques described in [[jadam-soil-management-principles]] — just enough water to maintain biological activity without creating waterlogging conditions that concentrate salts.
+- **[[jadam-cover-crop-method]]:** Deep-rooted cover crops (radish, ryegrain, mustards) pump water from deep soil layers and deposit it on the surface through transpiration, effectively "pulling" salts upward and away from the root zone of subsequent crops. The cover crop biomass also adds organic matter that improves soil structure and drainage.
+2. **Microbial restoration:** [[jadam-liquid-fertilizer]] applications restore the microbial community that breaks down salt compounds and converts them into plant-available or leachable forms. The key organisms include salt-tolerant bacteria (Halobacillus, Bacillus species) and mycorrhizal fungi that buffer plant roots from sodium toxicity.
+3. **Organic matter addition:** Regular incorporation of compost and crop residues increases the soil's cation exchange capacity (CEC), providing more sites to hold nutrients while allowing excess sodium to be leached. See [[jadam-soil-management-principles]] — just enough water to maintain biological activity without creating waterlogging conditions that concentrate salts.
 
 For [[jadam-soil-hardening-prevention]], JADAM also addresses the physical compaction that often accompanies salt accumulation, using biological aeration through root channels and microbial activity rather than mechanical tillage.
+## Practical Considerations
+
+Successful implementation of JADAM Salt Accumulation in Soil requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

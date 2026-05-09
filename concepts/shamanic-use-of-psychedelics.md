@@ -33,14 +33,14 @@ Psychedelic plants are not universal in shamanism, but they constitute the most 
 
 The most complex and powerful of shamanic plant preparations. See [[ayahuasca-preparation-and-ceremony]] for detailed coverage.
 
-- A brew combining *[[banisteriopsis-caapi]]* (containing harmala alkaloids that act as MAO inhibitors) with DMT-containing plants (typically *Psychotria viridis* or *[[diplopterys-cabrerana]]*).
+- A brew combining *Banisteriopsis caapi* (containing harmala alkaloids that act as MAO inhibitors) with DMT-containing plants (typically *Psychotria viridis* or *Diplopterys cabrerana*).
 - Used by indigenous peoples throughout the Amazon basin, including the Shipibo-Conibo, Shuar, Ashaninka, Quechua, and many others.
 - Shamans use ayahuasca to diagnose illness, communicate with plant spirits, conduct healing ceremonies, and hunt for knowledge.
 - Michael Harner described his first ayahuasca experience among the Shuar of Ecuador: he felt his soul transported in a ship crewed by bird-headed deities and was shown the secrets of life by great black whale-like entities with pterodactyl wings.
 
 ### Psilocybin Mushrooms (Mesoamerica)
 
-See [[mushroom-cultivation-fundamentals]] for detailed coverage of the Mazatec tradition.
+See [[maria-sabina-mazatec-mushroom-ceremony]] for detailed coverage of the Mazatec tradition.
 
 - Used by Mazatec, Mixtec, Zapotec, Nahuatl, and other peoples of Oaxaca and surrounding regions.
 - The Mazatec velada ceremony is a healing practice in which the mushroom spirits (the "saint children") speak through the curandero, revealing the cause of illness and the cure.
@@ -48,7 +48,7 @@ See [[mushroom-cultivation-fundamentals]] for detailed coverage of the Mazatec t
 
 ### Peyote (North America)
 
-- *[[lophophora-williamsii]]*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
+- *Lophophora williamsii*, a small cactus containing mescaline, has been used for thousands of years by indigenous peoples of Mexico and the southwestern United States.
 - The **Native American Church** (NAC) is the largest and most legally recognized peyote-using religious organization, with an estimated 250,000-400,000 members.
 - Peyote ceremonies typically involve all-night prayer, singing, drumming, and the consumption of peyote buttons in a structured ritual context.
 - The NAC has fought legal battles to protect peyote use as a religious freedom, achieving partial legal protections under the American Indian Religious Freedom Act (1994).
@@ -61,7 +61,7 @@ See [[mushroom-cultivation-fundamentals]] for detailed coverage of the Mazatec t
 
 ### San Pedro / Huachuma (Andean South America)
 
-- *[[echinopsis-pachanoi]]* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
+- *Echinopsis pachanoi* (San Pedro cactus) contains mescaline and has been used in Andean healing ceremonies for at least 3,000 years, as evidenced by archaeological finds at Chavin de Huantar in Peru.
 - Healers (curanderos) use San Pedro in ceremonies called *mesadas* to diagnose illness, cleanse negative energies, and promote healing.
 
 ### Fly-Agaric / Amanita Muscaria (Siberia and Northern Europe)
@@ -90,6 +90,6 @@ Michael Harner, after his experiences with ayahuasca among the Shuar, left acade
 ## Related Topics
 
 - [[ayahuasca-preparation-and-ceremony]] for the Amazonian tradition
-- [[mushroom-cultivation-fundamentals]] for the Mazatec tradition
+- [[maria-sabina-mazatec-mushroom-ceremony]] for the Mazatec tradition
 - [[amanita-muscaria-ethnobotany]] for the Siberian tradition
 - [[entheogenic-ceremony-preparation]] for modern ceremony practices

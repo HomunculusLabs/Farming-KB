@@ -45,21 +45,7 @@ diversity centers, though they remain undersampled.
 
 **Southeast Asia**: Thailand, Cambodia, Indonesia, the Philippines,
 and Sri Lanka host numerous tropical species. Copelandia cyanescens,
-C. cambodginiensis, and [[psilocybe-cubensis]] are widespread throughout
-the region.
-
-**Africa**: Tropical Africa is poorly studied but likely harbors
-significant diversity. Current records come from Kenya, Tanzania,
-Uganda, Ivory Coast, and the Central African Republic, suggesting a
-rich but undocumented mycoflora.
-
-## Temperate Region Species
-
-Temperate regions have fewer total species but include several of the
-most well-known and widely distributed neurotropic fungi:
-
-**Pacific Northwest of North America**: This region is a temperate
-diversity hotspot, with species including [[psilocybe-azurescens]], P.
+C. cambodginiensis, and [[psilocybe-azurescens]], P.
 baeocystis, P. cyanescens, P. pelliculosa, P. stuntzii, P.
 semilanceata, P. silvatica, and P. strictipes. The cool, wet climate
 and abundance of wood debris in coastal forests create ideal
@@ -135,9 +121,6 @@ also limits distribution.
 
 ## See Also
 
-- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
-
 - [[worldwide-distribution-psilocybin-mushrooms]]
-- [[mexico-center-neurotropic-fungal-diversity]]
 - [[biogeography-austral-hemisphere-fungi]]
 - [[neurotropic-fungi-classification]]

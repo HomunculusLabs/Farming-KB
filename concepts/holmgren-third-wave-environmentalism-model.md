@@ -3,7 +3,7 @@ title: Holmgren's Third Wave Environmentalism Model
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [permaculture, holmgren, environmentalism, social-movements,
+tags: [[permaculture, holmgren, environmentalism, social-movements,
        energy-descent, history, cultural-dynamics]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
@@ -123,8 +123,6 @@ much influence permaculture can exert when the next wave arrives.
 
 ## See Also
 
-- [[holmgren-beyond-sustainability]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
-- [[permaculture-energy-descent-planning]]
 - [[holmgren-permaculture-flower-conceptual-framework]]
 - [[holmgren-ethical-philosophical-framework]]

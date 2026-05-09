@@ -120,7 +120,5 @@ fertility.
 ## See Also
 
 - [[permaculture-plants-pioneer-nurse-trees]]
-- [[mollison-designers-leucaena-multipurpose-nitrogen-tree]]
-- [[mollison-pdc-nitrogen-fixing-plants]]
 - [[gaias-garden-soil-food-web-living-soil]]
 - [[ozier-pdc-composting-and-soil-building]]

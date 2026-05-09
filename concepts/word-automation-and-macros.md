@@ -83,12 +83,8 @@ settings across their environments.
 
 ## See Also
 
-- [[allegro-word-play-and-secret-names-in-scripture]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
-- [[ebb-and-flow]]
 - [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
-- [[persephone-abduction-and-narkissos]]
-
 - [[microsoft-word-history]]
 - [[basic-electrical-for-homestead]]
 - office automation

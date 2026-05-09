@@ -132,10 +132,7 @@ World and its own psychoactive plants.
 
 ## See Also
 
-- [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
-- [[mckenna-cannabis-cultural-style-and-feminine-plant]]
 - [[mckenna-spice-trade-and-medieval-drug-scarcity]]
-- [[mckenna-cannabis-culture-history]]
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]

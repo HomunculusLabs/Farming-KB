@@ -1,7 +1,7 @@
 ---
 title: Mushroom Crop Sustaining, Flushing, Watering, and Harvesting
 created: 2026-04-26
-tags: [mycology, mushroom-cultivation, harvesting, flushing, watering, environmental-control, crop-management, stamets]
+tags: [[mycology, mushroom-cultivation, harvesting, flushing, watering, environmental-control, crop-management, stamets]
 date: 2026-04-25
 updated: 2026-04-28
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -10,60 +10,9 @@ type: concept
 
 # mushroom crop sustaining flushing watering harvesting, Flushing, Watering, and Harvesting
 
-Chapter X of The [[mushroom-cultivator-phase-i-composting]] covers the environmental management of
-mushroom crops during the cropping cycle — the period from the first flush
-of mushrooms through the final harvest. The mushroom crop grows in cycles
-called flushes or "breaks," normally occurring in seven to ten day intervals
-with each successive flush bearing fewer mushrooms. Proper management of
-temperature, humidity, watering, and harvesting technique determines total
-yield, quality, and duration of production across all flushes.
+Chapter X of The [[knf-fmc-floor-and-temperature-control]] During Cropping
 
-## [[knf-fmc-floor-and-temperature-control]] During Cropping
-
-Once [[mushroom-pinning-primordia-formation-strategies]] has been
-initiated, the temperature of the crop environment shifts from the lower
-pinning temperature to the optimum range for fruitbody development. During
-vegetative growth, substrate temperature was the controlling factor. Once
-the change to generative growth is initiated, air temperature becomes the
-controlling factor for fruitbody development. This is typically several
-degrees warmer than the pinning temperature but cooler than the spawning
-and spawn running temperature.
-
-- The time for button-sized mushrooms to mature is influenced primarily
-  by air temperature. Each species has an optimum temperature for
-  fruitbody development within a broader growing range.
-- Lower temperatures can be used to postpone or lengthen the harvesting
-  period and allow maximum quality control.
-- High temperatures shorten the cropping period by promoting rapid,
-  intense flushes, but carry risks of heat buildup in the substrate,
-  CO2 generation, and accelerated insect and contaminant growth.
-- The substrate continues to generate heat from mycelial metabolism; the
-  growing room's environmental control system must compensate for both
-  external temperature fluctuations and internal heat generation.
-- Temperature stratification within the growing room must be avoided —
-  use fans to ensure uniform air temperature.
-
-**Commercial strategy:** Agaricus growers commonly lower air temperature
-by 2°F, 48 hours prior to the peak of the first and second flushes.
-Further flushes are then run hotter to speed the crop to completion.
-This maximizes quality in the highest-yielding flushes.
-
-## Humidity Management
-
-High relative humidity (85-95%) must be maintained throughout the cropping
-cycle. Key considerations:
-
-- **Evaporation** from the mushroom surface is essential — it drives
-  the flow of nutrients and moisture from the substrate through the
-  mycelial network to the fruitbody.
-- If humidity is too low, mushrooms dry out, crack, and abort.
-- If humidity is too high (above 95%), condensation forms on mushrooms,
-  promoting bacterial blotch and other diseases.
-- The goal is to maintain high ambient humidity while allowing steady
-  evaporation from the crop surface.
-
-Humidity is maintained through the
-[[mushroom-growing-room-environmental-control]] — humidifiers, steam
+Once [[mushroom-growing-room-environmental-control]] — humidifiers, steam
 injection, or evaporative pad systems, combined with proper air circulation.
 
 ## Air Movement During Cropping
@@ -147,4 +96,3 @@ pins are visible.
 - Pick before veil tears; spore release inhibits further pinning.
 - Twist-pull harvesting minimizes damage to neighboring pins.
 - Total crop yield is measured as
-[[biological-efficiency-mushroom-cultivation]].

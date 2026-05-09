@@ -16,46 +16,7 @@ cannabinoids and terpenes but critically on the method of administration.
 Different routes of delivery produce dramatically different pharmacokinetic
 profiles, affecting onset time, duration of effects, bioavailability, and
 the ratio of active compounds that reach systemic circulation. The
-[[blesching-cannabinoid-pharmacology]] page covers the underlying mechanisms.
-In "The
-[[cannabis-health-index]]," [[uwe-blesching]] provides a comprehensive comparison
-of cannabis administration methods, helping patients and clinicians select
-the most appropriate approach for specific conditions and symptom profiles.
-
-## Vaporization (Inhalation)
-
-Vaporization heats cannabis to a temperature that releases active
-cannabinoids and terpenes as a vapor without reaching the point of
-combustion. Blesching identifies vaporization as the preferred inhalation
-method over smoking:
-
-- **Onset**: 1-5 minutes, providing the fastest relief of any method
-- **Bioavailability**: 10-35%, significantly higher than oral routes due to
-  avoidance of first-pass hepatic metabolism
-- **Duration**: 2-4 hours, shorter than oral methods but longer than
-  smoking
-- **Advantages**: Rapid onset allows precise dose titration; avoids
-  combustion byproducts (tar, carbon monoxide, polycyclic aromatic
-  hydrocarbons); preferred for acute symptom management such as
-  breakthrough pain or nausea
-- **Considerations**: Requires specialized equipment; temperature control
-  affects which compounds are vaporized (different cannabinoids and
-  terpenes have different vaporization points); lung irritation possible
-  though significantly less than smoking
-
-Blesching provides a temperature guide for targeted extraction:
-- 157C (315F): THC begins to vaporize
-- 160C (320F): CBD activation begins
-- 180C (356F): Beta-caryophyllene and other terpenes release
-- 190C (374F): Optimal range for broad-spectrum cannabinoid/terpene
-  extraction
-- Above 210C (410F): Risk of combustion increases
-
-## Oral Ingestion (Edibles and Capsules)
-
-Oral administration delivers cannabinoids through the gastrointestinal
-tract to the liver, where they undergo first-pass metabolism. See
-[[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] for how
+[[cannabis-health-index]]," [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] for how
 route of delivery affects the entourage effect:
 
 - **Onset**: 30-120 minutes, with peak effects typically at 2-3 hours
@@ -73,8 +34,7 @@ route of delivery affects the entourage effect:
 
 Blesching particularly recommends oral administration for conditions
 requiring sustained relief, including chronic pain, spasticity, and sleep
-disorders, as explored in [[cannabis-for-chronic-pain]]
-and [[blesching-cannabis-sleep-disorders]].
+disorders, as explored in [[blesching-cannabis-sleep-disorders]].
 
 ## Sublingual/Tinctures
 
@@ -105,8 +65,7 @@ directly to the skin for localized effects:
 - **Advantages**: No psychoactive effects at typical doses; ideal for
   localized pain, inflammation, and skin conditions; can be applied as
   needed without systemic effects; well-suited for
-  [[blesching-cannabis-dermatological-conditions]]
-  and [[blesching-cannabis-rheumatoid-arthritis]] pain
+  [[blesching-cannabis-rheumatoid-arthritis]] pain
 - **Considerations**: Limited to surface and near-surface tissue
   penetration; not effective for systemic conditions; efficacy depends on
   preparation quality and cannabinoid concentration
@@ -143,7 +102,5 @@ routes:
 - **Onset**: 15-45 minutes
 ## See Also
 
-- [[cannabis-health-index]] — scoring system for condition-strain matching
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]] — dosing strategies by administration route
-- [[cannabis-decarboxylation-chemistry]] — thermal conversion of acidic cannabinoids
 - [[tetrahydrocannabinolic-acid-thca]] — THCA pharmacology relevant to raw juice

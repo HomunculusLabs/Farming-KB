@@ -140,8 +140,6 @@ nephrotoxic properties.
   weeks given the long latency period
 
 ## See Also
-- [[cortinarius-cinnamomeus]]
-- [[amanita-muscaria]]
-- [[amanita-phalloides]]
+- [[amanita-muscaria-entity]]
 - [[gyromitra-esculenta]]
 - [[psilocybe-cyanescens]]

@@ -5,50 +5,9 @@ type: concept
 tags: [pf-tek, mushroom-cultivation, vermiculite, brown-rice, substrate, sterilization, contamination]
 created: 2026-05-08
 ---
-
-# PF TEK Vermiculite Brown Rice Substrate and Dry Barrier Technique
-
-## Historical Context
-
-The PF TEK (Psilocybe Fanaticus Technique), introduced by Robert McPherson
-("Psylocybe Fanaticus") in September 1991 via High Times Magazine, represented
-a revolutionary approach to hallucinogenic mushroom cultivation. It enabled
-anyone to grow mushrooms using common kitchen utensils and readily available
-supplies: small canning jars, powdered brown rice, vermiculite, and an
-aquarium. The technique was copied worldwide and became the foundation for the
-internet-distributed "Magic Mushroom Growers Guide" version 3.2.
-
-The fundamental innovation was using vermiculite as a structural base with
-pulverized brown rice as the nutrient source. Traditional grain-based substrates
-produced a dense mycelial mass with little air space. The vermiculite substrate
-allowed mycelial threads to stretch across open spaces, mimicking the airy
-structure of natural substrates and improving both colonization speed and fruiting
-potential.
-
-## Standard Substrate Formula
-
-For a standard 1/2 pint (250 ml) canning jar with tapered sides and no shoulders:
-
-- 1/8 cup brown rice powder (from health food stores or freshly ground)
-- 1/2 to 2/3 cup horticultural vermiculite, medium grade
-- 40-45 cc (ml) water, approximately 3 tablespoons plus 1 teaspoon
-
-A "maximum fruiting formula" variant uses:
+# [[pf-tek-brown-rice-flour-freshness-and-preparation]] ant uses:
 - 1/4 cup brown rice powder
-- 1/2 cup vermiculite
-- 60 cc water
-
-The maximum formula requires light tamping and a loose jar lid during incubation
-to prevent water accumulation at the jar bottom. It should not be incubated above
-70°F (21°C).
-
-## Vermiculite Selection
-
-Vermiculite particle size significantly affects water-holding capacity and
-substrate performance. The finer type has particles averaging around 1mm across
-and holds more water. The coarser type has particles averaging 4-5mm and up to
-8mm across, holding less water. The finer type is recommended because its
-superior water retention supports better mycelial growth and fruiting.
+- 1/2 cup vermiculi [[pf-tek-vermiculite-grading-and-water-retention]] supports better mycelial growth and fruiting.
 
 If the standard formula results in overly wet substrate, reduce water. The
 coarser vermiculite will require less water than the finer type. Regional
@@ -116,24 +75,9 @@ syringe body is angled back toward the lid center, distributing spore solution
 down the side of the jar for thorough inoculation. A few drops per hole, with 1
 cc total per jar (allowing 10 jars per standard syringe).
 
-If the needle plugs during insertion, withdrawing slightly will clear it. Between
-holes, the syringe should be shaken to maintain spore distribution. The needle
-must penetrate below the dry vermiculite layer — spore solution absorbed by the
-non-nutritive top layer will not reach the substrate and will fail to germinate.
+If the needle plugs du [[pf-tek-vermiculite-coarse-vs-fine-comparison]]
 
-## Contamination Identification
-
-Contaminants appear in various colors from pastels to black. Bacterial
-contamination is detectable through the dry vermiculite layer as a sour, foul
-odor within two days of inoculation, accompanied by no spore germination.
-Contaminated jars should be handled carefully — bacteria can be dangerous. If
-contamination appears in control jars, the sterilization time should be extended.
-If contamination occurs after inoculation, the syringe was likely contaminated or
-the dry barrier was breached.
-
-## See Also
-
-- [[mushroom-cultivation-methods-comparison]]
-- [[dual-chambered-terrarium-mushroom-fruiting]]
-- [[mushroom-spore-printing-and-syringe-preparation]]
-- [[perlite-humidification-mushroom-cultivation]]
+- mushroom cultivation methods comparison
+- [[dual-chambered-terrarium]]
+- mushroom spore printing and syringe preparation
+- perlite humidification mushroom cultivation

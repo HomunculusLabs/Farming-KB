@@ -131,10 +131,7 @@ protein on a dry weight basis).
 
 ## See Also
 
-- [[urtica-dioica]]
 - [[glycyrrhiza-uralensis]]
-- [[morus-alba]]
 - [[broussonetia-papyrifera]]
-- [[crotalaria-juncea]]
 - [[vicia-villosa]]
 - [[glycine-max-soybean-permaculture]]

@@ -75,21 +75,12 @@ Stamets argues that preserving old-growth forests is not merely an environmental
 
 ## See Also
 
-- [[mycelium-running-stamets-fungi-and-climate-change]]
-
 - [[mycelium-running-stamets-fungal-ecology-networks]]
 
-- [[antiviral-properties-of-mushrooms]]
 - [[medicinal-mushroom-antimicrobial-antiviral-research]]
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 - [[cancer-medicinal-mushrooms-maitake-d-fraction]]
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
 - [[ganoderma-lucidum-reishi-comprehensive-profile]]
-- [[functional-foods-medicinal-mushrooms]]
 - [[fungal-antibiotics]]
-- [[beta-glucan-receptor-binding]]
 - [[medicinal-mushrooms]]
-- [[mushroom-polysaccharide-chemistry]]
 - [[medicinal-mushrooms-biological-response-modifiers]]

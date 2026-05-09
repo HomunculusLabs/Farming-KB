@@ -110,21 +110,7 @@ species (Pemberton et al. 1990).
 The toxinogenic Trichoderma virens efficiently suppressed Pythium
 ultimum in cotton fields (Howell 1991), illustrating the complex web
 of interactions among soil fungi and the potential for combining
-multiple biocontrol agents in [[integrated-pest-management]] strategies.
-
-## Relevance
-P. oligandrum demonstrates how fungi within typically pathogenic
-genera can evolve beneficial ecological roles. Its rapid host
-suppression mechanism (4.5 minutes to growth arrest) makes it one of
-the fastest-acting mycoparasites known. Compatibility with seed
-coating applications offers practical agricultural deployment, and its
-broad soil tolerance allows use across diverse cropping systems and
-soil types.
-
-## See Also
-Related: [[cervantes-root-rot-pythium-damping-off]], [[soil-building-ecological-garden]], [[bloomfield-pythium-oomycete-water-molds]]
-- [[pythium-ultimum]]
+multiple biocontrol agents in [[cervantes-root-rot-pythium-damping-off]], [[bloomfield-pythium-oomycete-water-molds]]
 - [[rhizoctonia-solani]]
-- [[trichoderma-virens]]
 - [[stachybotrys-chartarum]]
 - phytophthora cinnamomi

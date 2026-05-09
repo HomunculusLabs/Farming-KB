@@ -127,18 +127,13 @@ investigation with modern analytical methods.
 
 ## See also
 
-[[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
-[[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]
 [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 
 ## See Also
 
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
-- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
 - [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
 - guzman allen gartz sacred puffballs gasteromycetes indigenous cultures
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
 - [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
-- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]

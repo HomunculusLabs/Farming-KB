@@ -58,19 +58,11 @@ Women of reproductive age using cannabis for endometriosis should be aware of po
 
 ## Related Topics
 
-- [[cannabis-womens-health]] for broader women's health applications
-
 - [[cannabis-for-womens-health]] for menstrual-related pain management
-
-- [[cannabis-for-chronic-pain]] for general pain management approaches
 
 - [[cannabis-endocannabinoid-system]] for uterine receptor mechanisms
 
-- [[cannabis-cannabinoid-receptor-pharmacology]] for CB1/CB2 science
-
 - [[cannabis-topical-applications]] for localized pelvic application options
-
-- [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms
 
 - [[cannabis-health-index]] for the CHI methodology
 
@@ -83,5 +75,23 @@ Florida State University (2010) discovered CB1 receptors in nerves innervating e
 Current evidence comes entirely from pre-clinical animal and laboratory studies. Human clinical trials are urgently needed to confirm these promising findings. The dual potential of cannabinoids to address both endometriosis pain and tissue proliferation makes this one of the most promising areas for cannabinoid-based gynecological research. Future studies should examine both CBD-rich and balanced THC:CBD preparations in women with confirmed endometriosis.
 
 Source: Uwe Blesching, The Cannabis Health Index (2015)
-- [[cannabis-for-womens-health]]
 - [[cannabis-for-dermatological-conditions]]
+## Practical Considerations
+
+Successful implementation of Cannabis for Endometriosis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

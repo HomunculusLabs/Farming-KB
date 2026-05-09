@@ -10,58 +10,7 @@ sources:
 
 # Bacterial vs Fungal Soil Dominance
 
-A central concept in the [[soil-food-web]] approach to gardening is that different plants prefer different ratios of bacteria to fungi in their soil. This determines what form of nitrogen is available and how plants are best nourished.
-
-## Rule 1: Plants Prefer Different Soil Biology
-
-Some plants prefer soils dominated by fungi; others prefer soils dominated by bacteria. Plants need nitrogen to produce amino acids -- crucial to plant growth and survival. Two forms of nitrogen are available to plants when there is a healthy soil food web: nitrates (NO3-) and ammonium (NH4+). Some plants prefer their nitrogen as nitrates while others prefer ammonium.
-
-## How the Nitrogen Form Is Determined
-
-When [[teaming-with-microbes-nematodes]] and [[teaming-with-microbes-protozoa]] consume fungi and bacteria, nitrogen is released in ammonium form. Ammonium is quickly oxidized (converted to nitrates) by nitrogen-fixing bacteria when they are present in sufficient numbers.
-
-In bacterially dominated soils, the slime produced by soil bacteria has a pH above 7 -- the right environment for nitrifying bacteria to thrive. Nitrification proceeds, and plants receive nitrogen in nitrate form.
-
-Fungi foster lower pH numbers because they produce organic acids to decay organic matter. If there are enough fungal acids to offset the bacterial slimes, the soil's pH drops below 7, making it acidic and unsuitable for most nitrifying bacteria. More ammonium remains as ammonium.
-
-## Rule 2: Vegetables, Annuals, and Grasses
-
-Most vegetables, annuals, and grasses prefer their nitrogen in nitrate form and do best in bacterially dominated soils. Early succession communities (bare soil, pioneer weeds) are naturally bacterially dominated.
-
-## Rule 3: Trees, Shrubs, and Perennials
-
-Most trees, shrubs, and perennials prefer their nitrogen in ammonium form and do best in fungally dominated soils. As ecosystems mature from grassland to shrubland to forest, fungal biomass increases proportionally to bacterial biomass.
-
-## The Succession Continuum
-
-Moving from bare soil through grasslands to old-growth forests, fungal dominance increases at each step. Part of this is explained by the nature of early plant life -- it is hard to form mycorrhizal relationships when the plant dies after only a short period. The litter from annual plants is mostly cellulose, which bacteria prefer. Perennial plants produce litter with lignin and cellulose that are good fungal food sources.
-
-There appears to be approximately the same number of bacteria (100 million to 1 billion) in a teaspoon of garden soil, prairie soil, or forest soil. The difference in dominance has everything to do with the increase in fungal biomass, not a decrease in bacterial biomass.
-
-## F:B Ratios for Specific Plants
-
-The fungal-to-bacterial biomass ratio (F:B ratio) has been observed and measured for many plants:
-
-### Vegetables and Annuals
-- Carrots, lettuce, broccoli, cole crops: F:B 0.3:1 to 0.8:1
-- Tomatoes, corn, wheat: F:B 0.8:1 to 1:1
-
-### Lawns
-- F:B 0.5:1 to 1:1 (a balance between the two)
-
-### Trees and Shrubs
-- Orchard specimens: F:B 10:1 to 50:1
-- Maples, oaks, poplars: F:B 10:1 to 100:1
-- Conifers: F:B 50:1 to 1000:1
-
-### Riparian Trees
-- Alder, beech, aspen, cottonwood: prefer bacterially dominated soils when young; fungally dominated soils (F:B 5:1 to 100:1) when mature
-
-### Flowers
-- Most annuals: prefer bacterially dominated soils
-- Most perennials: prefer fungally dominated soils
-
-See also: [[teaming-with-microbes-fb-ratio]]
+A central concept in the [[teaming-with-microbes-nematodes]] and [[teaming-with-microbes-fb-ratio]]
 
 ## Managing Soil Dominance
 
@@ -70,21 +19,92 @@ Gardeners can shift soil toward bacterial or fungal dominance by choosing approp
 - To increase bacteria: use green mulches, compost worked into soil, fine-ground materials, moist conditions
 - To increase fungi: use brown mulches (leaves, wood chips) on the surface, coarse/dry materials, fungal foods like humic acids
 
-See also: [[teaming-with-microbes-compost-mulch-tea]]
-
-## See Also
-
-- [[teaming-with-microbes-fb-ratio]]
-- [[teaming-with-microbes-bacteria]]
+See also: [[teaming-with-microbes-fb-ratio]]
 - [[teaming-with-microbes-fungi]]
-- [[teaming-with-microbes-compost-mulch-tea]]
 - [[soil-food-web]]
-- [[bacterial-to-fungal-soil-succession]]
-- [[composting-and-soil-biology]]
+- [[ozier-pdc-composting-and-soil-building]]
 
 ## Merged: Earthworms and Vermicastings - Teaming with Microbes
-Earthworms are among the most visible and important members of the [[soil-food-web]]. Charles Darwin studied them extensively and argued that every particle of soil has passed through a worm at least once. Soils with large worm populations are typically bacterially dominated. - [[soil-food-web]] - [[soil-compaction-solutions-ingham]] - [[teaming-with-microbes-protozoa]] - [[mulching-guide]] - [[vermicomposting]]
+Earthworms are among the most visible and important members of the [[soil-food-web]] - [[teaming-with-microbes-protozoa]] - [[vermicomposting]]
 ## Merged: Nitrogen Cycling and Plant Preferences - Teaming with Microbes
-Nitrogen is the basic building block of amino acids and therefore of life. The [[soil-food-web]] cycles nutrients until they become temporarily immobilized in the bodies of bacteria and fungi, then mineralized back into plant-available forms. The form that nitrogen takes -- ammonium or nitrate -- depends on whether the soil is bacterially or fungally dominated. When [[teaming-with-microbes-protozoa-and-nematodes]] eat the bacteria and fungi, some nitrogen is retained by the predator, but much is released as waste in plant-available ammonium (NH4+). Contrast this with chemical fertilizers: a tiny bit hits the root-exudates|rhizosphere where it is absorbed, but most drains through soil until it hits the water table. Related: Earthworms, [[teaming-with-microbes-compost-biology]], [[mulching-guide]], [[teaming-with-microbes-compost-tea-and-inoculation]], [[teaming-with-microbes-no-till-benefits]]
+Nitrogen is the basic building block of amino acids and therefore of life. The [[teaming-with-microbes-protozoa-and-nematodes]] eat the bacteria and fungi, some nitrogen is retained by the predator, but much is released as waste in plant-available ammonium (NH4+). Contrast this with chemical fertilizers: a tiny bit hits the root-exudates|rhizosphere where it is absorbed, but most drains through soil until it hits the water table. Related: Earthworms, [[mulching-guide]], [[teaming-with-microbes-no-till-benefits]]
 ## Merged: Weed Ecology and the Soil Food Web - Teaming with Microbes
-Weeds are not merely random invaders -- their presence provides diagnostic information about soil conditions and the state of the [[soil-food-web]]. Understanding what weeds indicate allows gardeners to address root causes rather than symptoms. The solution is adding nematodes and protozoa via [[teaming-with-microbes-compost-biology]], [[teaming-with-microbes-compost-tea-and-microbial-inoculants]], or protozoa soup to increase [[teaming-with-nutrients-composting-and-nutrient-cycling]]. This nitrogen tie-up at the surface suppresses shallow-rooted weed seeds that might otherwise germinate, while deeper-rooted crop plants access nitrogen mineralized by [[teaming-with-microbes-protozoa-and-nematodes]] in the rhizosphere. - [[mulching-guide]] - [[teaming-with-microbes-no-till-benefits]] - teaming with microbes bacterial vs fungal dominance - [[teaming-with-microbes-protozoa]] - [[teaming-with-microbes-compost-tea-and-inoculation]]
+Weeds are not merely random invaders -- their presence provides diagnostic information about soil conditions and the state of the [[teaming-with-microbes-compost-biology]], [[teaming-with-nutrients-composting-and-nutrient-cycling]]. This nitrogen tie-up at the surface suppresses shallow-rooted weed seeds that might otherwise germinate, while deeper-rooted crop plants access nitrogen mineralized by [[mulching-guide]] - [[teaming-with-microbes-protozoa]] - [[teaming-with-microbes-compost-tea-and-inoculation]]
+## Practical Applications
+
+Bacterial vs Fungal Soil Dominance - Teaming with Microbes has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Bacterial vs Fungal Soil Dominance - Teaming with Microbes. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -56,51 +56,13 @@ Epilepsy affects approximately 50 million people worldwide, making it one of the
 
 ## Mechanisms of Action
 
-The anticonvulsant properties of cannabinoids involve multiple pathways within the [[cannabis-endocannabinoid-system]]:
-
-- **CB1 receptor activation:** CB1 receptors are the most abundant G-protein coupled receptors in the central nervous system. When activated, they reduce presynaptic neurotransmitter release, providing an inhibitory brake on excessive neuronal firing that characterizes seizures. The finding of CB1 receptor redistribution during status epilepticus suggests the brain attempts to recruit more CB1 signaling during seizure activity.
-
-- **Anandamide deficiency correction:** Epilepsy patients show reduced cerebrospinal fluid levels of anandamide, the body's primary endogenous cannabinoid. CBD may work partly by inhibiting FAAH (the enzyme that degrades anandamide), thereby raising endogenous anandamide levels and restoring natural seizure-suppressing mechanisms.
-
-- **GABA modulation:** CBD enhances GABAergic signaling, which is the primary inhibitory neurotransmitter system in the brain. Many conventional anti-seizure drugs work through GABA potentiation, suggesting a shared mechanistic pathway.
-
-- **TRPV1 and 5-HT1A receptor activation:** CBD activates TRPV1 (vanilloid) and 5-HT1A (serotonin) receptors, both of which have demonstrated anticonvulsant properties. The multi-target pharmacology of CBD may contribute to its effectiveness across different seizure types.
-
-- **Neuroprotective effects:** CBD has demonstrated neuroprotective properties in animal models of brain injury, reducing neuronal damage caused by prolonged seizure activity. This is particularly relevant for status epilepticus, where neuronal damage from prolonged seizures is a major concern.
-
-## Epidiolex and Modern Clinical Evidence
-
-Since the studies reviewed in the Cannabis Health Index, CBD has undergone rigorous clinical evaluation. In 2018, the FDA approved Epidiolex (purified CBD, 100 mg/mL oral solution) for treatment of seizures associated with Lennox-Gastaut syndrome and Dravet syndrome — two severe, drug-resistant forms of childhood epilepsy. This was the first FDA approval of a cannabis-derived medication.
-
-Key clinical trial results:
-
-- Dravet syndrome: CBD reduced median convulsive seizure frequency by 39% compared to 13% with placebo
-- Lennox-Gastaut syndrome: CBD reduced drop seizure frequency by 44% compared to 22% with placebo
-- Tuberous sclerosis complex: CBD reduced seizure frequency by 48% compared to 27% with placebo
-
-These results represent a landmark validation of the anticonvulsant properties of CBD and support the findings of the earlier studies reviewed above.
-
-## Strain-Specific Considerations
-
-- CBD, anandamide, and THC all relevant
-
-- CBD has greater affinity for CB2; anandamide and THC bind CB1 and CB2 equally
-
-- **Indicas or indica-dominant strains** — higher CBD:THC ratio, favoring CB2 activation
-
-- CBD oil used in the largest human trial (Leiden/Rome)
-
-- High-CBD strains (e.g., Charlotte's Web, Harlequin) are preferred for seizure management due to CBD's well-established anticonvulsant profile
-
-- Strains rich in [[cannabis-minor-cannabinoids]] like CBDV (cannabidivarin) may offer additional benefits, as CBDV has shown anticonvulsant activity in pre-clinical models
+The anticonvulsant properties of cannabinoids involve multiple pathways within the [[cannabis-minor-cannabinoids]] like CBDV (cannabidivarin) may offer additional benefits, as CBDV has shown anticonvulsant activity in pre-clinical models
 
 ## Dosage and Administration
 
 - Pharmaceutical CBD (Epidiolex) dosing typically starts at 2.5 mg/kg twice daily and titrates to 10–20 mg/kg/day
-- [[cannabis-dosing-guidelines]] for whole-plant cannabis should be followed with medical supervision
 - [[cannabis-cannabinoid-receptor-pharmacology]] considerations include CBD's relatively low oral bioavailability (approximately 6%) due to first-pass metabolism
-- Patients should be monitored for potential [[cannabis-drug-interactions-and-contraindications]] with anti-seizure medications, particularly clobazam, where CBD inhibits its metabolism and increases active metabolite levels
-- [[cannabis-methods-of-consumption]] is relevant — vaporization may provide faster onset for acute seizure management
+- Patients should be monitored for potential [[cannabis-methods-of-consumption]] is relevant — vaporization may provide faster onset for acute seizure management
 
 ## Mind-Body Perspective
 
@@ -108,7 +70,24 @@ Julius Caesar had epilepsy; ancients believed epileptics communed with gods duri
 
 ## Related Pages
 
-- [[cannabis-neurological-conditions]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-mental-health]]
 - [[cannabis-drug-interactions-and-contraindications]]
+## Practical Considerations
+
+Successful implementation of Cannabis and Epilepsy Research (Status Epilepticus) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

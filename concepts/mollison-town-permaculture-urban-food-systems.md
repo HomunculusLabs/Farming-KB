@@ -124,9 +124,7 @@ technologies as a form of government on ourselves and our appetites.
 
 ## See Also
 
-- [[urban-permaculture-food-forest-succession]]
 - [[mollison-tree-crop-systems-permaculture]]
-- [[small-scale-intensive-food-systems-mollison]]
 - [[mollison-urban-permaculture]]
 - [[mollison-aquatic-polyculture-systems]]
 

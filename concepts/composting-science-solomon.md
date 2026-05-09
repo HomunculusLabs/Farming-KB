@@ -110,14 +110,10 @@ The key to good compost:
 - Monitor temperature (should reach 130-150°F)
 - Allow sufficient time for full decomposition
 
-See also: [[compost-building-guide]], [[composting-methods-comparison]], [[composting-and-soil-biology]], [[complete-organic-fertilizer-recipes]], compost carbon-to-nitrogen ratio guide
-- [[building-soil-fertility-long-term]]
+See also: [[composting-methods-comparison]], [[complete-organic-fertilizer-recipes]], compost carbon-to-nitrogen ratio guide
 - [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
-- [[solomon-gardening-when-it-counts-index]]
 - [[solomon-manure-types-and-nutrient-values]]
 
-[[teaming-with-nutrients-composting-and-nutrient-cycling]]
 [[teaming-with-microbes-compost-biology]]
-[[vermicomposting]]
 [[animal-manure-guide]]
 [[teaming-with-microbes-no-till-gardening-soil-health]]

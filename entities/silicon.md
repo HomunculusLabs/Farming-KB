@@ -22,11 +22,7 @@ sources:
 ## Overview
 Silicon is the chemical element with symbol Si and atomic number 14.
 It is a hard, brittle, blue-gray crystalline solid in its elemental form.
-Chemically it belongs to group 14 of the [[mollison-soil-elements-periodic-table]].
-Materials scientists usually treat it as a metalloid and a semiconductor.
-Silicon dominates modern electronics because it is abundant, processable, and electronically useful.
-It is the core material for most transistors, integrated circuits, image sensors, and solar cells.
-In this wiki it is tied to [[semiconductor-band-structure]] as the standard indirect-gap semiconductor.
+Chemically it belongs to group 14 of the [[semiconductor-band-structure]] as the standard indirect-gap semiconductor.
 Its technological importance is so large that the late twentieth-century information economy is often called the Silicon Age.
 
 ## Entity Type
@@ -99,45 +95,7 @@ Modern chips may use high-k dielectrics, metal gates, strained channels, and com
 Even so, silicon process knowledge remains the foundation of mainstream semiconductor manufacturing.
 
 ## Comparison With Gallium Arsenide
-Silicon is cheaper and more abundant than [[gallium-arsenide]].
-It is mechanically stronger in wafer handling and supported by a larger manufacturing ecosystem.
-Its indirect band gap makes it a poor light emitter.
-Gallium arsenide has a direct band gap and higher electron mobility.
-Those GaAs advantages matter for LEDs, lasers, and some high-frequency circuits.
-Silicon advantages matter for scale, cost, oxide quality, integration density, and supply chains.
-The two materials therefore illustrate different optimization targets.
-Band-structure diagrams make these tradeoffs visible rather than merely empirical.
-
-## Biological and Geological Roles
-Silicon is not only an electronics material.
-Silica and silicates are central to geology, soils, sediments, and planetary crusts.
-Diatoms, radiolarians, and some sponges build skeletal structures from silica.
-Many plants accumulate silica in tissues, where it can affect strength and herbivore resistance.
-Most animals require only small amounts, if any, compared with major nutrients.
-In agriculture and ecology, silicon cycling links weathering, soil chemistry, water, and organisms.
-These roles are separate from semiconductor-grade elemental silicon but share the same elemental basis.
-
-## Industrial Production
-Metallurgical-grade silicon is made by reducing silica with carbon in electric furnaces.
-This material is useful for alloys, silicones, and industrial chemistry.
-Semiconductor-grade silicon requires much higher purity.
-Chemical refining can convert silicon into volatile chlorosilanes or related intermediates.
-Those compounds can be purified and decomposed to deposit very pure silicon.
-Single crystals are commonly grown by the Czochralski process or float-zone methods.
-Wafer slicing, polishing, cleaning, and inspection convert ingots into fabrication substrates.
-Every step must control trace impurities because electronic defects can change device behavior.
-
-## Environmental and Supply Notes
-Silicon itself is abundant, but purified silicon production is energy intensive.
-Solar-grade and electronic-grade supply chains depend on electricity, chemicals, and precision equipment.
-Mining silica sand is simpler than producing defect-controlled crystalline wafers.
-The environmental profile therefore depends on the full process chain, not elemental abundance alone.
-Recycling of silicon photovoltaic modules is increasingly important as early large deployments age.
-In chip manufacturing, water, chemicals, and cleanroom energy use are major sustainability concerns.
-Silicon remains favored because performance, infrastructure, and cost are unusually well balanced.
-
-## Related Entities and Concepts
-- [[semiconductor-band-structure]] -- explains why silicon is an indirect-gap semiconductor.
+Silicon is cheaper and more abundant than [[semiconductor-band-structure]] -- explains why silicon is an indirect-gap semiconductor.
 - [[gallium-arsenide]] -- direct-gap III-V comparison material.
 - Germanium -- earlier group-14 semiconductor used before silicon dominance.
 - Silicon dioxide -- oxide partner that made MOS technology practical.
@@ -148,3 +106,5 @@ Silicon remains favored because performance, infrastructure, and cost are unusua
 Silicon is the reference material of modern semiconductor technology.
 Its success comes from abundance, crystal quality, dopability, oxide chemistry, and manufacturing scale.
 Its main limitation in optoelectronics is the indirect band gap.
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

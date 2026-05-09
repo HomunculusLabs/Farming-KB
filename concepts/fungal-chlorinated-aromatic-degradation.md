@@ -141,8 +141,6 @@ and may sorb strongly to soil organic matter.
 
 ## See Also
 
-- [[mycoremediation-pah-and-pcb-degradation]]
 - [[mycoremediation-pcbs-and-dioxins]]
-- [[mycoremediation-enzymology]]
 - [[mycoremediation-heavy-metals-detailed]]
 - [[mycoremediation-of-explosives]]

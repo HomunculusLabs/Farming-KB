@@ -10,7 +10,7 @@ sources:
 
 # Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
 
-[[sepp-holzer]] devotes a substantial chapter to mushroom cultivation, which complements his existing [[holzer-mushroom-cultivation]], [[holzer-mushroom-cultivation-methods]], and [[holzer-mushroom-cultivation-experiments]] pages. His approach covers three main methods: log cultivation, straw cultivation, and wild mushroom propagation.
+[[holzer-mushroom-cultivation]], [[holzer-mushroom-cultivation-experiments]] pages. His approach covers three main methods: log cultivation, straw cultivation, and wild mushroom propagation.
 
 ## Fungal Biology Basics
 
@@ -28,9 +28,7 @@ Holzer emphasises understanding fungal biology before attempting cultivation:
 
 Holzer draws on both European folk medicine and Asian traditions:
 
-- Honey fungus ([[armillaria-mellea]]) -- used as a laxative for centuries in European folk medicine
-- Giant puffball (Calvatia gigantea) and agarikon (Laricifomes officinalis) -- traditionally used to staunch bleeding
-- Shiitake ([[lentinula-edodes]]) -- lowers cholesterol, effective against colds, strengthens immune system, positive effect in cancer treatment. Grows on sycamore logs at the Krameterhof up to 1,500m altitude
+- Honey fungus ([[lentinula-edodes]]) -- lowers cholesterol, effective against colds, strengthens immune system, positive effect in cancer treatment. Grows on sycamore logs at the Krameterhof up to 1,500m altitude
 - Judas' ear (Auricularia auricula-judae) -- treats nausea, lowers blood pressure
 - Lingzhi / reishi (Ganoderma lucidum) -- treats sleeping disorders, strengthens immune system
 - Mushrooms generally: high fibre, low calorie, rich in vitamins and minerals. Best fresh but retain flavour and nutrients when dried. Mushroom tea is used for illness prevention and detoxification

@@ -18,43 +18,7 @@ type: concept
 
 ## Overview
 
-Truffle species (Tuber spp.), which form [[ectomycorrhizal-associations]]
-with trees such as oaks and hazels, produce indole-3-acetic acid (IAA)
-and related auxins that significantly modify root architecture of host
-and non-host plants. Using dual-culture bioassay systems and HPLC-MS
-analysis, researchers have demonstrated that Tuber melanosporum and T.
-borchii exudates induce root branching, root hair elongation, and root
-shortening in Arabidopsis thaliana seedlings. These auxin-mediated
-effects suggest that truffle metabolites play an active role in shaping
-the root environment favorable for mycorrhizal establishment.
-
-## Auxin as a Fungal Signal Molecule
-
-Indole-3-acetic acid (IAA) and similar derivatives, collectively termed
-auxins, are produced by a wide range of symbiotic and pathogenic fungi.
-Externally applied auxin increases root branching and root hair
-formation in many plant species. When secreted by a fungus into the
-soil near plant roots, auxin may serve as a chemical signal that
-modifies root architecture. The modification of plant root architecture
-by auxin-producing microbes may increase the root surface area available
-for fungal colonization, representing a mutualistic strategy for
-establishing and maintaining the symbiotic interface.
-
-## Bioassay Systems for Auxin Detection
-
-A slope agar plate bioassay has been developed to test symbiotic fungi
-for auxin production. Fungal inoculum is placed on the slope of a Petri
-dish containing agar medium, while surface-sterilized Arabidopsis
-thaliana seeds are sown on the flat surface. As the fungus grows down
-the slope, any auxin it produces diffuses into the agar and reaches the
-plant roots. Auxin effects are quantified by counting secondary and
-tertiary roots, measuring root length, and measuring root hair length
-using image analysis software. A. thaliana is particularly suitable
-because it is small, non-mycorrhizal, and has roots sensitive to auxin.
-
-## Dual-Culture Bioassay for Fastidious Fungi
-
-Some [[mycorrhizal-fungi]], including truffles, are difficult to grow on
+Truffle species (Tuber spp.), which form [[mycorrhizal-fungi]], including truffles, are difficult to grow on
 standard plant culture media and require specific medium formulations.
 For these fungi, a dual-culture bioassay system has been developed.
 Square Petri dishes are filled with fungal medium (such as malt extract
@@ -132,6 +96,4 @@ of host trees is essential for production.
 ## See Also
 
 - [[auxin-production-by-symbiotic-fungi]]
-- [[auxin-production-by-symbiotic-fungi]]
-- [[ectomycorrhizal-host-tree-partnerships]]
 - [[piriformospora-indica]]

@@ -41,87 +41,7 @@ Acapulco Gold represents the quintessential Mexican sativa phenotype. It belongs
 
 ### Genetic Relatives and Descendants
 
-- **Acapulco Gold × Colombian Gold:** Early cross used to create hybrid vigor in the 1970s
-- **Skunk #1 lineage:** Contains Mexican landrace genetics (though primarily Colombian and Afghani)
-- **Many modern "Gold" strains:** Often use the name for marketing; few contain actual Acapulco Gold genetics
-- **Original Haze:** One of several Mexican sativa parents in the multi-landrace Haze cross
-
-## Appearance
-
-The name "Gold" refers to the strain's distinctive coloration. True Acapulco Gold produces large, elongated buds that develop a golden-brown or amber hue as they mature, particularly when grown outdoors in full sun. Key visual characteristics:
-
-- **Bud structure:** Large, airy, spear-shaped colas typical of sativa morphology
-- **Color:** Light green base with prominent golden-amber tones; pistils turn rust-orange to gold with maturity
-- **Trichomes:** Moderate trichome coverage, giving buds a slightly shimmering appearance
-- **Leaf structure:** Narrow, finger-like sativa leaves with long inter-nodal spacing
-- **Density:** Fluffy and loose compared to modern indica-dominant hybrids
-
-The golden coloration is partly due to the strain's natural phenotype and partly an artifact of the traditional outdoor curing methods used in Mexico, where buds were dried in the hot sun.
-
-## Aroma and Flavor Profile
-
-Acapulco Gold has a complex, distinctive terpene profile that sets it apart from modern strains:
-
-- **Primary aroma:** Earthy, burnt caramel, and dark coffee notes
-- **Secondary notes:** Sweet woody cedar, lemon zest, and a distinctive spicy, almost peppery quality
-- **Aftertaste:** Smooth, slightly sweet finish with hints of toasted nuts and dried fruit
-- **Smoke quality:** Traditionally described as smooth and expansive, though this varies with curing and handling
-
-### Dominant Terpenes (estimated from historical samples)
-
-1. **Myrcene:** Earthy, musky base notes (herbal relaxation)
-2. **Caryophyllene:** Peppery, spicy quality (anti-inflammatory)
-3. **Limonene:** Citrus undertones (mood elevation)
-4. **Humulene:** Woody, earthy depth (appetite suppression)
-5. **Pinene:** Piney, fresh notes (mental clarity)
-
-## Effects and Pharmacology
-
-### Cannabinoid Profile (historical)
-
-- **THC:** 15–23% in well-grown modern recreations; original landrace likely 8–14%
-- **CBD:** Low, typically <0.5%
-- **THCV:** Present in trace amounts (common in Mexican landraces)
-
-### Subjective Effects
-
-- **Onset:** Gradual, building over 10–15 minutes
-- **Cerebral:** Euphoric, uplifting, and mentally stimulating without being overwhelming
-- **Creativity:** Known for enhancing creative flow and conversational engagement
-- **Energy:** Moderate sativa energy — not racy or anxiety-inducing
-- **Body:** Mild physical relaxation without heavy sedation
-- **Duration:** 2–3 hours (longer than most modern hybrids)
-
-### Medicinal Applications
-
-- Mood elevation and stress relief
-- Mild to moderate depression
-- Fatigue and low motivation
-- Social anxiety (at moderate doses)
-- Mild pain and inflammation (caryophyllene-mediated)
-
-## Cultivation
-
-### Growing Characteristics
-
-Acapulco Gold is considered moderately difficult to cultivate, particularly in indoor environments:
-
-- **Flowering time:** 10–13 weeks (typical of equatorial/near-equatorial sativas)
-- **Yield:** Moderate; 300–400 g/m² indoors, higher outdoors
-- **Height:** Tall — can exceed 2.5 m outdoors; significant stretching in early flower
-- **Climate preference:** Warm, humid, subtropical; similar to its native Guerrero environment
-- **Resistance:** Good mold and pest resistance adapted from landrace hardiness
-
-### Cultivation Challenges
-
-1. **Long flowering period:** The extended bloom time makes indoor cultivation resource-intensive
-2. **Stretch:** Significant vertical growth requires height management (training, SCROG, or topping)
-3. **Light sensitivity:** As a landrace near the equator, it can be sensitive to photoperiod variations
-4. **Authenticity:** True seeds are extremely scarce; many commercially available seeds are crosses
-
-### Recommended Techniques
-
-- Screen of Green (SCROG) to manage height and maximize light penetration
+- **Acapulco Gold × [[screen-of-green]] (SCROG) to manage height and maximize light penetration
 - Long vegetative period with aggressive topping to create an even canopy
 - Organic soil cultivation to enhance the complex terpene profile
 - Extended flush (2–3 weeks) to improve flavor and smoothness
@@ -138,8 +58,26 @@ Acapulco Gold occupies a central place in cannabis culture history:
 
 ## See Also
 
-- [[colombian-gold]] — Related South American sativa landrace
 - [[thai-stick-entity]] — Southeast Asian landrace counterpart
 - haze — Multi-landrace hybrid with Mexican genetics
 - mexican sativa landraces — Overview of Mexico's cannabis genetic heritage
 - [[blesching-cannabis-sativa-indica-classification]] — Detailed comparison of cannabis subspecies classifications
+## Practical Considerations
+
+Successful implementation of Acapulco Gold requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -105,21 +105,6 @@ C. minitans is specialized on Sclerotinia species, particularly
 S. sclerotiorum and S. minor. This specialization ensures
 targeted biocontrol activity with minimal non-target effects, but
 limits utility to Sclerotinia management. Coniothyrium sporulosum
-was found as an antagonist of [[alternaria-alternata]] (Turhan 1993),
-indicating broader biocontrol potential within the genus
-Coniothyrium for future exploration.
-
-## Relevance
-C. minitans represents one of the few mycoparasites to achieve
-commercial-scale application as a biocontrol product. Its long-
-term soil suppressive effect (2+ years), combined with its
-ability to parasitize sclerotia both in soil and within plant
-tissue, makes it uniquely valuable for integrated management of
-Sclerotinia diseases in crops like oilseed rape and sunflower.
-
-## See Also
-Related: [[sclerotinia-sclerotiorum]], [[biodiversity-of-fungi-soil-isolation-methods]], [[jadam-cover-crop-soil-temperature-management]]
-- [[sclerotinia-sclerotiorum]]
+was found as an antagonist of [[sclerotinia-sclerotiorum]], [[jadam-cover-crop-soil-temperature-management]]
 - [[trichoderma-virens]]
-- [[talaromyces-flavus]]
 - [[sporidesmium-sclerotivorum]]

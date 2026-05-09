@@ -16,23 +16,8 @@ type: concept
 
 # Salad and Braising Mix Production
 
-Baby-leaf (mesclun) salads are an ideal crop for the [[coleman-winter-harvest-philosophy]]
-since immature leaves of [[salad-crops-growing-guide]] are far more cold tolerant than
-mature ones. The [[coleman-four-season-farm]] Farm salad mix and braising mix represent
-a carefully developed approach to quality, composition, and marketing
-of winter greens.
-
-## Salad Mix Composition
-
-The winter salad mix includes red lettuces, green lettuces, broadleaf
-arugula, sylvetta arugula, endive, narrow-stem chard, claytonia,
-minutina, spinach, mache, watercress, and beet leaves. All are
-carefully chosen, naturally hardy, winter-salad varieties. Based on
-USDA nutritional data, this salad blend contains at least 5 times more
-calcium, 4 times more iron, 12 times more vitamin A, and 6 times more
-vitamin C than a salad of head lettuce.
-
-## [[mushroom-certification-quality-standards]]
+Baby-leaf (mesclun) salads are an ideal crop for the [[salad-crops-growing-guide]] are far more cold tolerant than
+mature ones. The [[mushroom-certification-quality-standards]]
 
 Quality is the primary concern. The farm does not sell salad mix
 ingredients that are too large, bitter, tough, stringy, or frost
@@ -124,10 +109,5 @@ work well in the braising mix, while larger leaves can be bunched
 and sold as a cooking green similar to spinach but with a milder
 flavor.
 
-See also [[coleman-winter-greens-variety-selection]],
-[[coleman-winter-greens]], and
-[[coleman-marketing-economics]].
-
-## See Also
-
-- [[coleman-salad-mix-quality-standards]]
+See also [[coleman-winter-greens]], and
+[[coleman-salad-mix-quality-standards]]

@@ -3,18 +3,7 @@ title: Coppice Systems - Permaculture Designers Manual
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Coppice Systems
-
-From Permaculture: A Designers' Manual by Bill Mollison.
-
-## Overview
-
-Coppice systems are a fundamental component of permaculture forestry, providing continuous yields of fuelwood, structural poles, mulch, and specialty products from managed tree stands. The Designers' Manual treats coppicing as a key strategy for sustainable forest management, integrating it with [[permaculture-designers-manual-timber-construction]], [[permaculture-designers-manual-charcoal-production]], and [[permaculture-designers-manual-bamboo-species-uses]].
+tags: [[permaculture-designers-manual-timber-construction]], [[permaculture-designers-manual-bamboo-species-uses]].
 
 ## Principles of Coppicing
 
@@ -79,10 +68,7 @@ Although many trees will coppice for 4-30 years, any sign of loss of vigour shou
 ## Products from Coppice Systems
 
 ### Fuelwood and Charcoal
-Coppice systems provide the primary feedstock for both direct fuelwood use and [[permaculture-designers-manual-charcoal-production]]. In village situations, fuelwood and coppice management involves 12-30 species in a complex polyculture.
-
-### Polewood
-Polewood is of increasing importance for fencing, house, and [[permaculture-designers-manual-timber-construction]]. Special uses of fast polewood from Chinese elm, poplar, or similar species include chipping for wallboard or fuel bricks, crushing for fibre or cellulose production, fermenting for stock feed or alcohol distillation, and chipping for distillation to oils, resins, and chemical products.
+Coppice systems provide the primary feedstock for both direct fuelwood use and [[permaculture-designers-manual-timber-construction]]. Special uses of fast polewood from Chinese elm, poplar, or similar species include chipping for wallboard or fuel bricks, crushing for fibre or cellulose production, fermenting for stock feed or alcohol distillation, and chipping for distillation to oils, resins, and chemical products.
 
 ### Willow Coppice
 Willow coppice is specifically highlighted as a multi-product system providing:
@@ -103,17 +89,6 @@ To assess total nitrogen yield from coppice legume systems, both soil nitrogen f
 
 ## Integration with Forest Design
 
-Coppice systems integrate with broader [[permaculture-designers-manual-troubleshooting-design]] in several ways:
-- As a component of hedgerow and contour-bank forests
-- Within fuelwood plantations on a rotation basis
-- As part of tropical forest tree polycultures
-- In integrated village systems where 200-400 species may be managed
-
-The manual notes that a very complex polyculture of many hundreds of species delights both the naturalist and the householder, but becomes difficult to control at extensive scale. Coppice systems work best at small scale with close attention from people, where multiple products can be harvested and managed intensively.
-
-## Forest Establishment with Coppice
-Tree stands for fuel and structural timber are listed among the essential design elements for tropical homesteads. Species can be first seed-planted in a nursery stand, then coppiced to provide early yields while the main forest stand develops. Complementary pioneer species interplanted for medium-term yields ensure continuous productivity as high-value timber species mature.
-- [[gaias-garden-cover-crops-soil-building]]
-- [[permaculture-designers-manual-plant-propagation]]
+Coppice systems integrate with broader [[gaias-garden-cover-crops-soil-building]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-climate-factors]]

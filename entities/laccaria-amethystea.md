@@ -102,22 +102,13 @@ The species has been investigated as a bioindicator of forest health and soil qu
 
 ## See Also
 
-- [[laccaria-ochropurpurea]]
-
 - [[laccaria-bicolor]]
-- [[laccaria-laccata]]
 - [[boletus-rex-veris]]
-- [[mycena-purpureofusca]]
 - [[cortinarius-rubellus]]
-- [[amanita-muscaria]]
 - [[russula-virescens]]
-- [[trametes-versicolor]]
 - [[cantharellus-cibarius-entity]]
 - xerocomellus chrysenteron
-- [[pleurotus-ostreatus]]
 - [[psilocybe-semilanceata]]
-- [[amanita-phalloides]]
 - [[suillus-luteus]]
-- [[lactarius-deliciosus]]
 - [[russula-brevipes]]
 - [[leccinum-scabrum]]

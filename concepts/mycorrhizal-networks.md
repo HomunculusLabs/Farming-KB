@@ -94,7 +94,7 @@ Suzanne Simard's research (referenced by Stamets) demonstrated:
 - **Natural recovery**: Leave wood debris on-site; native mycorrhizae will recolonize
 - **Spore slurries**: Collect mushrooms, blend with water, apply to planting sites
 - **Companion trees**: Plant mycorrhizal host trees to establish networks for future crops
-- **No-till practices**: Preserve existing networks (see [[composting-and-soil-biology]])
+- **No-till practices**: Preserve existing networks (see [[no-till-gardening-method]])
 
 ## See Also
 

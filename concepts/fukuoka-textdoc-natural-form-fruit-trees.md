@@ -123,8 +123,6 @@ nature to determine the outcome.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]] for tree health
 - [[fukuoka-textdoc-what-plowing-really-is]] for soil cultivation philosophy
-- [[fukuoka-textdoc-natural-soil-management]] for soil conditions
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]] for non-intervention
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] for companion planting

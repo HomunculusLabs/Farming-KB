@@ -123,10 +123,7 @@ Bare bulb setups may be appropriate when:
 
 ## See Also
 
-- [[cervantes-reflective-hoods-light-distribution]]
 - [[cervantes-reflective-materials-grow-room-walls]]
-- [[cervantes-lighting-systems]]
 - [[cervantes-high-pressure-sodium-lighting]]
-- [[cervantes-metal-halide-lighting-systems]]
 - [[cervantes-light-movers]]
 - [[cervantes-light-measurement-meters]]

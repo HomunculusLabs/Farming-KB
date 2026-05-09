@@ -25,40 +25,6 @@ wicking beds.
 
 ## Keyhole Gardens
 
-[[keyhole-bed-design]]
-
-A keyhole garden is a circular raised bed, typically 1.5 to 2 meters in
-diameter, with a wedge-shaped notch cut into one side allowing the
-gardener to reach the center. At the center sits a cylindrical compost
-basket made from wire mesh, sticks, or other porous material. As kitchen
-scraps and green waste decompose in the basket, nutrients and moisture
-leach outward into the surrounding soil. This creates a self-fertilizing
-growing system where compost tea percolates directly to plant roots. The
-design was popularized by Send a Cow, a UK-based charity working in
-Uganda, Lesotho, and other African nations, though similar concepts
-exist in traditional gardening worldwide.
-
-Keyhole gardens excel in arid and semi-arid climates because the
-central compost basket acts as an internal irrigation and fertility
-source. They require less water than conventional raised beds since
-moisture wicks outward from the decomposing organic matter. The
-circular shape maximizes the planting area relative to the footprint
-and creates microclimates: heat-loving plants go on the sun-facing
-side, shade-tolerant species on the opposite. Construction materials
-are often scavenged — bricks, stones, corrugated metal, and even
-plastic bottles — making them accessible in resource-limited settings.
-
-The main limitations are size and shape constraints. A single keyhole
-garden produces a modest harvest compared to a rectangular raised bed of
-equivalent area because the central compost basket takes up planting
-space. They are harder to extend or connect into larger systems, and
-the circular layout can feel awkward when growing row crops or plants
-that benefit from straight-line spacing. Reaching the far side of a
-large keyhole garden from the notch can strain the back, negating one
-of raised bed gardening's primary ergonomic benefits.
-
-## Raised Beds
-
 [[raised-bed-gardening]]
 
 Raised beds are rectangular (occasionally square or L-shaped) frames
@@ -138,8 +104,6 @@ keyhole concept applied vertically.
 
 ## See Also
 
-- [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-herb-spiral-vs-keyhole-garden]]
-- [[raised-bed-gardening]]
 - [[comparison-wicking-bed-vs-raised-bed]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]

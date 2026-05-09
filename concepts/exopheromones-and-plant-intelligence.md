@@ -118,13 +118,8 @@ Similar multi-plant preparations exist in other indigenous traditions: the Austr
 
 ## See Also
 
-- [[plant-intelligence-and-communication]]
 - [[exopheromones-and-cross-species-communication]]
-- [[plant-photoreception-and-phototropism]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
-- [[plant-cell-structure-and-organelles]]
-
 - [[stoned-ape-theory]]
-- [[partnership-vs-dominator-societies]]
 - [[dmt-hyperspace-entities]]
 - Symbiosis and Coevolution

@@ -11,39 +11,7 @@ type: concept
 
 # Cannabis and Autism Spectrum Disorder
 
-[[cannabis-health-index]] (CHI) score: Not formally assigned
-Evidence base: **preliminary / anecdotal** (emerging research)
-
-Autism Spectrum Disorder (ASD) encompasses a range of neurodevelopmental
-conditions characterized by challenges in social communication, restricted
-interests, and repetitive behaviors. Many individuals with ASD also
-experience comorbid conditions including anxiety, sensory processing
-difficulties, sleep disturbances, and in some cases seizures.
-
-## Current State of Research
-
-The evidence for cannabis in autism is still in its earliest stages. Most
-of what is known comes from parent-report surveys, case series, and a
-small number of clinical trials, primarily involving CBD-rich preparations.
-Blesching notes that while formal CHI scoring has not been applied due to
-insufficient controlled data, the anecdotal and early clinical evidence is
-significant enough to warrant serious attention.
-
-## Mechanisms of Relevance
-
-Several properties of cannabinoids align with the therapeutic needs of
-individuals on the autism spectrum:
-
-- **Anxiolytic effects**: Many of the behavioral challenges in ASD are
-  driven by underlying anxiety. CBD has demonstrated robust anxiolytic
-  properties through activation of 5-HT1A serotonin receptors and
-  modulation of endocannabinoid signaling
-- **Anti-inflammatory action**: Growing evidence links neuroinflammation
-  to ASD pathophysiology. CBD and THC both possess anti-inflammatory
-  properties via CB2 receptor-mediated pathways
-- **Seizure management**: Approximately 25-30% of individuals with ASD
-  also have epilepsy. Cannabis, particularly CBD, has established
-  anti-convulsant effects (see [[cannabis-for-epilepsy-and-seizure-disorders]])
+[[cannabis-for-epilepsy-and-seizure-disorders]])
 - **Sensory processing modulation**: The ECS regulates sensory gating
   and integration. Some researchers hypothesize that endocannabinoid
   dysfunction may contribute to sensory hypersensitivity in ASD
@@ -98,10 +66,7 @@ Research into the ECS and ASD has revealed:
 
 ## Related Topics
 
-- [[cannabis-for-epilepsy-and-seizure-disorders]] - established use in treatment-resistant
-  epilepsy, highly relevant for ASD comorbidity
-- blesching cannabis anxiety - anxiety management with cannabinoids
-- [[blesching-cannabis-neuroprotection]] - neuroprotective properties
+- [[blesching-cannabis-anxiety]] - anxiety management with cannabinoids
 - [[blesching-cannabis-sleep-disorders]] - sleep improvement
 - blesching cannabis pain management - for self-injurious behaviors
 
@@ -109,3 +74,22 @@ Research into the ECS and ASD has revealed:
 
 Blesching, U. (2017). *The Cannabis Health Index*. North Atlantic Books.
 See sections on neurodevelopmental disorders and emerging applications.
+## Practical Considerations
+
+Successful implementation of Cannabis and Autism Spectrum Disorder requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -3,20 +3,7 @@ title: PDC Education Skills and Apprentice Programs
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Education Skills and Apprentice Programs
-
-Permaculture education is fundamentally different from conventional education. It is not merely about transferring information but about developing practical skills, ecological literacy, and the ability to read and respond to natural systems. The Williams PDC course, taught at the Lost Valley Educational Center, embodies a philosophy of experiential learning where students engage directly with the land, the community, and the design process. The course also addresses how permaculture education can continue beyond the formal PDC through apprenticeships, skill shares, and community learning structures.
-
-## The Nature of Permaculture Education
-
-### Comprehensive World View and Skills
-
-Permaculture education aims to develop a comprehensive world view and practical skill set. It is not enough to understand the principles intellectually -- a permaculture designer must be able to observe [[patterns-in-nature]], analyse site conditions, design integrated systems, implement physical projects, maintain and adapt those systems over time, and facilitate community processes. The media used for education is the land and the community itself.
+tags: [[patterns-in-nature]], analyse site conditions, design integrated systems, implement physical projects, maintain and adapt those systems over time, and facilitate community processes. The media used for education is the land and the community itself.
 
 ### Learning by Doing
 
@@ -34,39 +21,8 @@ The Lost Valley Educational Center serves as a living laboratory for permacultur
 ## The PDC Course Structure
 
 ### What the PDC Provpermaculture-designe Design Certificate course provides:
-- For [[natural-farm-permaculture-ethics-principles]]
-- Understanding of ecological patterns and processes
-- Design methodology and tools (sector analysis, zone planning, element analysis)
-- Technical knowledge across multiple domains (water, earthworks, plants, animals, buildings, energy)
-- Design exercise experience
-- A certificate recognised by the permaculture community
-- Connection to a network of practitioners
-
-### Limitations of the PDC
-
-The Williams course honestly acknowledges what a PDC does not provide:
-- It does not make someone an expert in any single domain
-- It provides an overview, not deep specialisation
-- Hands-on skills require ongoing practice beyond the course
-- Design ability develops through repeated practice with real sites
-- Community skills require real community experience
-
-## Beyond the PDC: Continuing Education
-
-### Apprenticeships
-
-Apprenticeships provide the deep, practical experience that a PDC course cannot offer. By working alongside experienced practitioners over months or years, apprentices develop:
-- Refined observation skills
-- Hands-on technical abilities
-- Understanding of seasonal rhythms and long-term processes
-- Real-world design and implementation experience
-- Mentoring relationships with experienced designers
-
-### Skill Shares
-
-Skill shares are community events where members share their practical knowledge with others. These are described in the Williams course as an essential component of community resilience. Skill shares can cover any practical topic:
-- Food preservation methods and [[natural-building]] techniques
-- [[plant-propagation]] and [[nursery-management]]
+- For [[natural-building]] techniques
+- [[nursery-management]]
 - Tool use and maintenance
 - Animal husbandry
 - Renewable energy systems

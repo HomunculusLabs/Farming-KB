@@ -23,8 +23,7 @@ with polyethylene sheeting to maintain humidity through natural evaporation from
 casing surface. This design avoids the complexity and cost of automated humidification
 systems while providing adequate environmental conditions for a wide range of cultivated
 species.
-The species successfully grown in this system include [[psilocybe-mexicana]],
-[[psilocybe-tampanensis-entity]], [[psilocybe-cubensis]], and [[panaeolus-subbalteatus]].
+The species successfully grown in this system include [[psilocybe-tampanensis-entity]], [[panaeolus-subbalteatus]].
 
 ## Design Philosophy
 
@@ -143,7 +142,5 @@ A spray bottle filled with clean water is the only equipment needed for humidity
 management. The spray bottle should produce a fine mist rather than a coarse stream to
 ## See Also
 
-- [[psilocybin-fruiting-chambers]]
 - [[casing-soil-preparation-mushroom-cultivation]]
-- [[growing-gourmet-flush-management-cropping-cycles]]
 - [[exotic-cultivation-flush-management-and-casing-hygiene]]

@@ -126,10 +126,7 @@ It serves as a food source for various invertebrates including beetles (Coleopte
 
 ## See Also
 
-- [[volvariella-volvacea]]
 - [[amanita-phalloides]]
-- [[amanita-muscaria]]
 - [[pleurotus-ostreatus]]
-- [[agaricus-bisporus]]
 - [[lentinula-edodes]]
 - [[coprinus-comatus-detailed]]

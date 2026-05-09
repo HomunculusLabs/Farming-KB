@@ -16,24 +16,7 @@ Nutrient cycling is the continuous process by which nutrients are converted
 between organic and inorganic forms, moved through the soil, taken up by
 plants, and returned to the soil through decomposition. Understanding these
 cycles is essential for the organic gardener, because the
-[[lowenfels-earthworms-soil-food-web]] is the engine that drives nutrient
-availability in natural and organic
-systems.
-## Mineralization
-
-Mineralization is the process by which soil organisms -- primarily bacteria
-and fungi -- break down organic matter (dead plant material, animal remains,
-manures, and organic fertilizers) and convert the nutrients they contain into
-inorganic, ionic forms that plants can absorb. This is the fundamental
-mechanism by which organic fertilizers become available to
-plants.
-When organic material enters the soil, it is first attacked by fungi and
-bacteria that break down complex molecules (proteins, carbohydrates, lipids)
-into simpler organic compounds. Eventually, these are further decomposed into
-mineral ions -- ammonium (NH4+), phosphate (PO4-3), potassium (K+), and other
-ions. This is why organic fertilizers are generally slow-release: the
-mineralization process takes time, depending on temperature, moisture, and the
-activity of the [[soil-food-web]]. Warmer temperatures (to a point) will speed up
+[[soil-food-web]]. Warmer temperatures (to a point) will speed up
 the microbial process if there is adequate
 moisture.
 The microbes involved in mineralization include bacteria, fungi, protozoa, and
@@ -85,7 +68,6 @@ growth.
 the atmosphere, but plants cannot use it directly. It must be "fixed" --
 converted into a biologically available form. In organic systems, this happens
 primarily through biological nitrogen fixation by
-[[rhizobium-legume-symbiosis]] and
 [[actinorhizal-symbiosis-frankia]] bacteria. Rhizobia form symbiotic
 relationships with legumes (soybeans, clover, alfalfa, peas, beans), forming
 nodules on roots where they convert atmospheric nitrogen into ammonium. The
@@ -132,8 +114,7 @@ surfaces of clay particles and organic matter through ionic attraction and
 does not move much in soil -- it is so tied up that 1 acre of soil might have
 only 1 pound of phosphorus dissolved in water and available to
 plants.
-Approximately 95 percent of all plants associate with [[mycorrhizal-fungi]], which
-provide the plant with phosphorus in return for carbon in [[root-exudates]]. This
+Approximately 95 percent of all plants associate with [[root-exudates]]. This
 biological pathway is the primary means by which plants access phosphorus in
 organic systems. Many believe that we have squeezed the phosphorus cycle to
 the point that mined supplies will be insufficient in only 30 to 40 years,

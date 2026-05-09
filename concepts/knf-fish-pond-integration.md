@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Korean Natural Farming extends its principles of natural biological management to aquaculture. Fish farming in the KNF system uses [[knf-indigenous-microorganism-culture]], [[lactic-acid-bacteria-knf]], and other natural inputs to maintain water quality and fish health without chemicals or antibiotics. The fish pond becomes an integrated part of the farm ecosystem, connected to crop production and livestock through nutrient cycling.
+Korean Natural Farming extends its principles of natural biological management to aquaculture. Fish farming in the KNF system uses [[lactic-acid-bacteria-knf]], and other natural inputs to maintain water quality and fish health without chemicals or antibiotics. The fish pond becomes an integrated part of the farm ecosystem, connected to crop production and livestock through nutrient cycling.
 
 ## Philosophy
 
@@ -30,17 +30,6 @@ The key to natural fish farming is maintaining water quality through biological 
 
 ### LAB for Water Treatment
 
-[[lactic-acid-bacteria-knf]] is the primary input for fish pond water quality:
-
-- Dilute LAB at 1:1,000 and add to pond water periodically
-- LAB suppresses pathogenic bacteria in the water
-- Reduces ammonia and hydrogen sulfide buildup
-- Promotes beneficial microbial community in the pond
-- Helps decompose fish waste and uneaten feed
-- Improves water clarity by breaking down suspended organic matter
-
-### IMO for Pond Ecosystem
-
 [[knf-indigenous-microorganism-culture]] can be added to establish a natural microbial community:
 
 - IMO-4 added to the pond bottom or water introduces diverse beneficial microorganisms
@@ -50,16 +39,7 @@ The key to natural fish farming is maintaining water quality through biological 
 
 ### Other Inputs
 
-- [[knf-oriental-herbal-nutrient]]: Can be added to support fish immune function and disease resistance
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]]: Provides bio-active substances that support natural food chain development
-- [[knf-brown-rice-vinegar]]: Can be placed in the pond to absorb toxins and provide microbial habitat
-
-## Feeding
-
-Natural fish farming reduces dependence on commercial feed:
-
-- Natural pond organisms (phytoplankton, zooplankton, insects) provide base nutrition
-- Supplementary feeding with natural materials (rice bran, vegetable scraps)
 - [[knf-fish-amino-acid]] can be added to feed to enhance protein nutrition
 - The goal is to move toward self-feeding pond ecosystems
 
@@ -130,10 +110,7 @@ The fish pond in KNF is not an isolated system but integrated with the rest of t
 
 ## See Also
 
-- [[knf-lactic-acid-bacteria-serum]]
 - [[knf-indigenous-microorganism-culture]]
-- [[knf-oriental-herbal-nutrient]]
 - [[knf-livestock-odorless-piggery]]
-- [[knf-livestock-chicken-house-natural-farming]]
 - [[cho-han-kyu-life-and-philosophy]]
 - [[fukuoka-natural-livestock-farming]]

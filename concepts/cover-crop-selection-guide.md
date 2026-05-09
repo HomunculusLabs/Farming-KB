@@ -87,8 +87,6 @@ Excellent for no-till gardens; mowed to generate mulch and compost. Shorter vari
 
 ## Related
 
-- [[fagopyrum-esculentum]]
-
 - [[chop-and-drop-mulching]] -- slashing cover crops in place
 - [[white-clover-ground-cover]] -- Fukuoka's use of clover as permanent living mulch
 - [[sheet-mulching]] -- another approach to soil building

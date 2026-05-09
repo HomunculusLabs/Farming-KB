@@ -3,7 +3,7 @@ title: Falconer Growing Mushrooms in Sheds
 created: 2026-04-28
 tags:
   [
-    mushroom-cultivation,
+    [[mushroom-cultivation]],
     shed-cultivation,
     victorian-gardening,
     protected-culture,
@@ -36,32 +36,7 @@ beds.
 The temperature of the interior of a mushroom bed
 should be about 60 degrees during the bearing period;
 and the temperature of the surface of the bed 45 to 50
-degrees at least; if lower than that the mycelium has a
-tendency to rest, and the crop stagnates. This
-temperature cannot be maintained in an open shed in
-hard frosty weather without more trouble than the crop
-is worth. The beds would have to be boxed up and
-mulched very heavily.
-
-Even in a close, warm shed, protection would have to
-be given in this way, but the bed should not be under
-the penetrating influence of piercing winds and
-draughts. The mushroom beds should therefore be
-made in the warmest parts of the warmest sheds.
-
-## Bed Placement and Depth
-
-The beds should be made upon the floor and as much
-to one side as possible, so as to be out of the way, and
-in form flat on the ground, or rounded up against the
-sides of the shed; in the latter case the house should be
-well banked around on the outside with litter or tree
-leaves or earth, so as to exclude frost from the lower
-part of the walls, and thereby prevent the manure in the
-beds from getting badly chilled.
-
-The beds should be made deeper in a cool shed than
-in a cellar or warm [[falconer-mushroom-growing-house-design]], so that they may
+degrees at least; if lower than that the [[falconer-mushroom-growing-house-design]], so that they may
 retain their heat for a long time. This is essential
 because shed environments lack the insulating properties
 of underground cellars.
@@ -138,13 +113,5 @@ become most difficult to manage.
 
 Sheds occupy a middle ground between cellars and
 purpose-built mushroom houses. They lack the steady,
-moderate temperatures of [[falconer-mushroom-cellar-management]] but
-offer more protection than outdoor ridges. For growers
-who already have suitable shed space, they represent an
-economical option that requires only modest additional
-investment in boxing materials and mulching supplies.
-
-## See Also
-
-- [[falconer-growing-mushrooms-in-ridges-outdoors]]
+moderate temperatures of [[falconer-growing-mushrooms-in-ridges-outdoors]]
 - [[falconer-growing-mushrooms-in-open-fields]]

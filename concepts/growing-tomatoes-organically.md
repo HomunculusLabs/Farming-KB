@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Growing Tomatoes Organically
 
@@ -86,19 +87,8 @@ For outdoor bush varieties, protect plants with cloches at the end of the growin
 
 - Start feeding about eight weeks after planting in the greenhouse
 - Use liquid kelp or animal-manure fertilizer every time you water (greenhouse) or every two weeks (outdoor)
-- Comfrey tea is an excellent high-potash organic feed for tomatoes — see [[organic-vegetable-growing-and-market-gardening]]
-- Stop feeding when the last truss has set fruit
-
-## Related
-
-- [[organic-vegetable-growing-and-market-gardening]]
-- [[greenhouse-growing-essentials]]
+- Comfrey tea is an excellent high-potash organic feed for tomatoes — see [[organic-vegetable-growing-calendar]]
 - [[composting-systems]]
-- [[hamilton-pest-and-disease-control-organic]]
-## Related
-
 - [[vegetable-growing-guide]] for general vegetable cultivation
-- [[greenhouse-growing]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for pest reduction strategies
-- [[hamilton-organic-pest-control]] for disease management
 - [[organic-vegetable-garden-rotation-deep-beds]]

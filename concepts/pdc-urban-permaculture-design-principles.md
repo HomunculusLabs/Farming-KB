@@ -68,26 +68,14 @@ A Permaculture Design should endeavor to have systems that yield the resources t
 
 ## Related Pages
 
-- [[urban-permaculture-design]]
 - [[pdc-urban-permaculture-strategies]]
-- [[pdc-zone-analysis-guide]]
 - [[pdc-climate-and-microclimate-analysis]]
-- [[pdc-food-forest-design-and-forest-ecology]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
-- [[food-forest-plant-palette]]
 - [[food-forest-layers-and-species]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
-- [[microfungal-species-diversity-large-areas]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[faires-city-desert-and-cold-climate-garden-strategies]]
-
 - [[pdc-animal-systems-integration]]
 
-- [[pdc-climate-specific-design-strategies]]
-
 - [[pdc-food-forests-and-guild-design]]
-
-- [[pdc-introduction-and-ethics]]
 
 - [[pdc-site-analysis-and-mapping]]

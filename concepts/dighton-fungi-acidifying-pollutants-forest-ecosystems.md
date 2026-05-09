@@ -115,8 +115,6 @@ contrasting effects on nutrient availability in soil.
 
 ## See Also
 
-- [[fungal-sulfur-dioxide-effects]]
 - [[dighton-fungal-responses-climate-change]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[lichen-ecology-and-soil-formation]]
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]

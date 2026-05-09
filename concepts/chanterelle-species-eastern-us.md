@@ -1,7 +1,7 @@
 ---
 title: Chanterelle Species of the Eastern United States
 created: 2026-04-28
-tags: [mycology, chanterelles, foraging, taxonomy, eastern-us]
+tags: [[mycology, chanterelles, foraging, taxonomy, eastern-us]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md]
@@ -128,12 +128,7 @@ they can cause mild gastrointestinal upset.
 
 ## See Also
 
-- [[chanterelle-guide]]
 - [[comparison-morel-vs-chanterelle]]
-- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
-
-- chanterelle species eastern us
-- chanterelle species eastern us
 - [[mushroom-foraging-safety]]
 - [[mycorrhizal-fungi]]
 - black trumpet

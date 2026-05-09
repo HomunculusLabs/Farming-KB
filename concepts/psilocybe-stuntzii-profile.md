@@ -9,13 +9,7 @@ tags: [reference]
 
 # Psilocybe stuntzii Profile
 
-psilocybe stuntzii profile Guzman & Ott is a strongly bluing psychoactive mushroom species native to the Pacific Northwest of North America. First identified in 1972 at the University of Washington in Seattle, it rapidly became one of the most significant species in terms of recreational usage in the region, second only to [[psilocybe-semilanceata]].
-
-## Discovery and Naming
-
-The species was first documented in the fall of 1972 when large numbers of a strongly bluing gilled mushroom with a distinct ring pattern were found at the University of Washington campus in Seattle. The fruiting bodies grew on bark mulch that had been spread widely across the campus by gardeners from a central distribution point.
-
-Due to the distinctive bluing reaction, students at the university assumed the mushroom contained [[query-what-is-the-difference-between-psilocybin-and-psilocin]], a belief later confirmed through biochemical analysis. The sudden appearance of massive numbers of fruiting bodies inspired students to use the mushroom as a hallucinogen.
+psilocybe stuntzii profile Guzman & Ott is a strongly bluing psychoactive mushroom species native to the Pacific Northwest of North America. First identified in 1972 at the University of Washington in Seattle, it rapidly became one of the most significant species in terms of recreational usage in the region, second only to [[query-what-is-the-difference-between-psilocybin-and-psilocin]], a belief later confirmed through biochemical analysis. The sudden appearance of massive numbers of fruiting bodies inspired students to use the mushroom as a hallucinogen.
 
 In 1976, the species was formally named Psilocybe stuntzii by Guzman and Ott, in honor of Daniel E. Stuntz, the mycologist who first collected the specimens.
 
@@ -63,13 +57,13 @@ Under favorable conditions, Psilocybe stuntzii can fruit year-round, making it u
 
 ## Chemistry
 
-Psilocybe stuntzii contains both [[query-what-is-the-difference-between-psilocybin-and-psilocin]] and [[query-what-is-the-difference-between-psilocybin-and-psilocin]], with the characteristic blue staining reaction indicating the presence of these alkaloids. The bluing reaction is notably strong and rapid compared to other species.
+Psilocybe stuntzii contains both [[query-what-is-the-difference-between-psilocybin-and-psilocin]], with the characteristic blue staining reaction indicating the presence of these alkaloids. The bluing reaction is notably strong and rapid compared to other species.
 
 ## Significance and Usage
 
 ### Regional Importance
 
-By the early 1980s, Psilocybe stuntzii had become the second most important psychoactive mushroom species in the Pacific Northwest in terms of usage, after [[psilocybe-semilanceata]] (Liberty Cap). [[panaeolus-subbalteatus-profile]] ("red cap") is another regionally important species, though users believe it to be slightly more poisonous.
+By the early 1980s, Psilocybe stuntzii had become the second most important psychoactive mushroom species in the Pacific Northwest in terms of usage, after [[panaeolus-subbalteatus-profile]] ("red cap") is another regionally important species, though users believe it to be slightly more poisonous.
 
 ### Ecological Spread
 
@@ -91,11 +85,7 @@ Despite widespread usage in the Pacific Northwest, no fatalities or serious phys
 
 ## See Also
 
-- [[stamets-psi-psilocybe-stuntzii-blue-ringers]]
-
 - [[psilocybe-semilanceata]] -- The dominant Pacific Northwest species
-- [[stamets-psi-psilocybe-cyanescens-species-guide]] -- Another major Pacific Northwest bluing species
 - [[psilocybe-pelliculosa-profile]] -- Wood-inhabiting lookalike
-- [[panaeolus-subbalteatus-profile]] -- Regionally important alternative
-- [[mushroom-cultivation-fundamentals]] -- Cultivation techniques
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] -- Cultivation techniques
 - [[psilocybin-north-america-pacific-northwest]] -- Regional overview

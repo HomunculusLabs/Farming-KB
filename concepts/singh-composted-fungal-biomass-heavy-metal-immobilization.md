@@ -58,9 +58,7 @@ binding mechanisms include:
 
 Dead (non-viable) fungal biomass often exhibits higher biosorption capacity
 than living cells because cell lysis exposes additional intracellular binding
-sites. [[spent-mushroom-substrate]] from commercial cultivation operations
-represents an abundant, low-cost source of fungal biomass for compost
-amendment. See [[singh-mushroom-spawn-production-grain-spawn]] for mushroom
+sites. [[singh-mushroom-spawn-production-grain-spawn]] for mushroom
 cultivation context.
 
 ## Soil Remediation Applications
@@ -72,53 +70,10 @@ applications include:
 - **Agricultural soil remediation**: Reducing metal uptake by crops on
   marginally contaminated agricultural land. Compost amendments decrease
   the bioavailable fraction of Cd, Pb, Zn, and Cu while supplying organic
-  matter and plant nutrients, supporting [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] strategies.
-- **Mine tailings reclamation**: Establishing vegetation on metal-rich mine
-  wastes by improving physical structure, water-holding capacity, and nutrient
-  status while immobilizing phytotoxic metals.
-- **Urban brownfield remediation**: Stabilizing mixed metal contamination in
-  former industrial sites prior to residential or commercial development.
-
-## Nutrient Cycling and Soil Health Benefits
-
-Beyond metal immobilization, composted fungal biomass amendments restore
-nutrient cycling in degraded soils. The organic matter input stimulates
-microbial activity, enhances [[singh-fungal-roles-in-soil-aggregate-formation]], increases cation exchange capacity, and improves water retention.
+  matter and plant nutrients, supporting [[singh-fungal-roles-in-soil-aggregate-formation]], increases cation exchange capacity, and improves water retention.
 Compost provides slow-release nitrogen, phosphorus, potassium, and
 micronutrients that support plant establishment and mycorrhizal colonization.
 
-The amendment also supports [[singh-mycorrhizal-response-under-salinity-stress]] by buffering soil pH and providing organic chelators that moderate
-metal and salt toxicity. Humic substances formed during composting directly
-stimulate root growth and nutrient uptake through hormone-like activity.
-
-## Humic Substances and Metal Binding
-
-Humic acids and fulvic acids formed during composting are among the most
-important metal-binding components. Humic substances possess multiple
-functional groups (carboxyl, phenolic hydroxyl, quinone, amino) that form
-stable complexes with metal ions. The binding strength follows the Irving-
-Williams series for divalent cations: Cu > Ni > Co > Zn > Mn > Mg > Ba > Ca.
-
-pH strongly influences humic-metal interactions. Under acidic conditions,
-proton competition reduces metal binding, while alkaline conditions favor
-complex formation and precipitation. The redox-active quinone groups in humic
-substances can also participate in redox transformations, converting Cr(VI)
-to less toxic Cr(III) and reducing U(VI) to less soluble U(IV).
-
-## Limitations and Considerations
-
-Composted fungal biomass amendments are most effective for moderately
-contaminated soils with low to moderate metal concentrations. For severely
-contaminated sites, the amendment capacity may be insufficient to achieve
-remediation targets. Long-term stability of metal immobilization depends on
-maintaining appropriate soil conditions; acidification or organic matter
-decomposition over time can remobilize bound metals. Monitoring programs
-should track bioavailable metal fractions, soil pH, and organic matter content
-over extended periods.
-
-## Related Concepts
-
-- [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
-- [[singh-fungal-roles-in-soil-aggregate-formation]]
+The amendment also supports [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
 - [[singh-mushroom-spawn-production-grain-spawn]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]

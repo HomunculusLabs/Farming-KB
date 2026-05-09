@@ -87,51 +87,13 @@ microbial community structure across the soil-to-root gradient:
    with the other soil (mean = 2162; p = 1.209e-15).
 
 4. **Cultivar-Specific Core Communities**: Each cultivar maintains a
-   core endorhiza community. The Cannabis core included *[[pseudomonas]]*,
-   *Cellvibrio*, *Oxalobacteraceae*, *Xanthomonadaceae*,
-   *Actinomycetales*, and *Sphingobacteriales*.
-
-## Evidence from Two Cannabis Experiments
-
-**First Experiment [[sour-diesel]] esel, Bookoo Kush, Burmese): Illumina
+   core endorhiza community. The Cannabis core included *[[sour-diesel]] esel, Bookoo Kush, Burmese): Illumina
 16S rRNA V4 sequencing of 27 samples from Vista, California (November
 2011). Endorhiza clustered significantly by strain (weighted ADONIS:
 R2 = 0.59, p = 0.004). *Methylophilus* comprised 13% of Bookoo Kush
 endorhiza, 0.13% in Burmese, absent in Sour Diesel.
 
-**Second Experiment** (White Wid [[maui-wowie]] owie, two soil types):
-42 samples from Vista and Orange County (August 2012).
-*Sphingomonas wittichii* was significantly more prevalent in Maui
-Wowie endorhiza — a species known to metabolize phenazine-1-carboxylic
-acid and increase soil survival.
-
-## Alpha Diversity Gradient
-
-The study documented a clear gradient in microbial diversity from
-bulk soil through rhizosphere to endorhiza:
-
-- **Bulk soil**: Highest alpha diversity (chao1: m = 4947)
-- **Rhizosphere**: Slightly reduced (chao1: m = 4525)
-- **Endorhiza**: Dramatically reduced (chao1: m = 3321)
-
-This funneling is consistent with sequential niche filtering.
-Despite differences between soil types in bulk soil and rhizosphere
-diversity, endorhiza alpha diversity converged, supporting
-genotype-driven second tier selection.
-
-## Beta Diversity and Community Distances
-
-Rhizosphere and bulk soil microbiomes are more similar to each other
-than to endorhiza (unweighted: t = 24.59, p < 0.001; weighted:
-t = 211.82, p < 0.001). OTU abundance correlations decreased along
-the gradient: bulk soil to rhizosphere (rho: 0.92), rhizosphere to
-endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42).
-
-## Root Decay and Cannabinoid Correlation
-
-The first experiment sampled roots eight weeks post-harvest;
-*Cellvibrio* abundance was 16.9% versus 0.095% in growing plants,
-indicating r [[decomposition]] tion confounded rhizosphere signals.
+**Second Experiment** (White Wid [[decomposition]] tion confounded rhizosphere signals.
 Cannabinoid concentrations correlated with endorhiza structure
 (Mantel: r = 0.863, p = 0.001), but THC also correlated with
 edaphic variables. BEST analysis identified nitrogen, carbon, and

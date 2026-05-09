@@ -1,23 +1,7 @@
 ---
 title: Mushroom Cloning Technique and Strain Capture
 created: 2026-04-26
-tags: [cloning, mushroom-cultivation, strain-isolation, tissue-culture, spawn-production]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
-
-# Mushroom Cloning Technique and Strain Capture
-
-The surest method of starting a mushroom strain is by
-cloning. Cloning means that a piece of pure, living flesh
-is excised from the mushroom and transferred into a sterile
-nutrient medium in a clean room. This process captures the
-unique genetic characteristics of the parent mushroom.
-
-## Cloning vs. Spore Culture
+tags: [cloning, [[spore]] Culture
 
 A culture arising from cloning is fundamentally different
 from one originating from spores. When spores are germinated,
@@ -79,36 +63,7 @@ The by step procedure for cloning a mushroom:
 2. Using a damp paper towel, wipe the mushroom clean
 3. Lay the specimen on a new sheet of paper towel
 4. Flame-sterilize a sharp scalpel until it is red hot
-5. Cool the scalpel tip by touching the nutrient [[agar]]
-   medium in a petri dish. This same dish will receive
-   the mushroom tissue
-6. Carefully tear the mushroom apart from the base, up the
-   stem, and through the cap
-7. Cut a small section ("square") of flesh about the size
-   of a kernel of grain from the tissue above the gills
-8. Quickly transfer the excised tissue to the nutrient-
-   filled petri dish
-9. Insert the tissue partway into the agar medium rather
-   than resting it on the surface for maximum contact with
-   nutrients
-10. Each time a clone is taken, the scalpel is re-sterilized,
-    cooled, and then the tissue is transferred into a
-    separate petri dish
-
-## Sterile Workflow Prioritization
-
-When working in front of a laminar flow hood, every movement
-is prioritized by degree of cleanliness:
-
-- The cleanest articles remain upstream, nearest to the
-  micron filter
-- The next cleanest downstream in second position
-- The cultivator's hands are usually furthest downwind
-  from the media and cultures
-
-The hot scalpel tip and freshly poured media plates should
-be kept upstream of the mushroom being cloned or the
-[[mycelium]] being transferred. One should always presume
+5. Cool the scalpel tip by touching the nutrient [[mycelium]] being transferred. One should always presume
 hands are replete with contaminants, no matter how many
 times they have been disinfected.
 
@@ -145,5 +100,4 @@ an era of relatively rich growing gourmet global, the time is now
 to preserve as many cell lines from the wild as possible.
 ## See Also
 
-- [[growing-gourmet-button-mushroom-agaricus-cultivation]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]

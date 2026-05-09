@@ -96,13 +96,8 @@ Other aromatic *Piper* species used similarly in traditional medicine include *P
 
 ## See Also
 
-- [[piper-nigrum-entity]]
 - [[piper-betle]]
-- [[piper-longum]]
 - [[piper-methysticum]]
-- [[tagetes-lucida]]
 - [[cymbopogon-citratus]]
-- [[eucalyptus-globulus]]
 - [[ocimum-basilicum]]
-- [[mentha-piperita]]
 - [[rosmarinus-officinalis-entity]]

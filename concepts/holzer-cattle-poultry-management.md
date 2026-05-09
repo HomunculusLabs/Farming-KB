@@ -79,16 +79,8 @@ Earth cellars maintain 80-90% humidity and 8-10C temperature using only the soil
 
 ## See Also
 
-- [[sepp-holzer-cattle-and-poultry-management]]
-
 - [[holzer-livestock-integration]]
-- [[permaculture-animal-integration]]
 - [[holzer-alternative-energy]]
-- [[holzer-alpine-farming-techniques]]
-
-## Related
-
 - [[holzer-wild-cattle-and-old-breeds]]
-- [[holzer-roundwood-shelters-earth-cellars]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]
 - [[permaculture-multi-purpose-plants]]

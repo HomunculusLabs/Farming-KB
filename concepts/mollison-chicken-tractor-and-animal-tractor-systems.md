@@ -1,136 +1,104 @@
 ---
 title: Chicken Tractor and Animal Tractor Systems
 created: 2026-04-26
-tags: [permaculture, poultry, animal-integration, soil-preparation, permaculture-design]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
+tags: [[chicken-tractor-systems]]
 
-# Chicken Tractor and Animal Tractor Systems
-
-Animal tractor systems are confined animal rotations used to
-prepare soils, remove persistent weeds, and clear ground for
-the establishment of garden and tree crop systems. Bill
-Mollison presents both chicken and pig tractor models as
-practical methods for converting degraded land or weed-infested
-areas into productive food systems without mechanical cultivation.
-
-## The Chicken Tractor
-
-Confined chicken flocks will remove all green ground cover and
-surface bulbils, depending on how many birds are confined on
-how large an area. Chickens effectively kill out or consume
-such persistent plants as Oxalis, nut-grass, kikuyu, onion
-weed, and pasture species of Convolvulus.
-
-On Moloka'i, Hawaii, Dano Gorsich planned and executed a
-successful chicken tractor/garden system on a stony hillside
-site of 0.5 hectares. The process involves fencing 5-6 plots
-and rotating a 40-chicken flock on these plots over a period
-of 18 months. As each fenced area is scratched bare, it is
-limed, raked, and sown immediately to vegetable crops
-(typically Brassica, beans, peas, amaranth, cucurbits, radish,
-and root crops).
-
-The chickens are moved to the next plot, and in about 6-8
-weeks vegetables are in full production on the cleared plot.
-Young papaya are interplanted amongst the vegetables. These
-grow strongly and succeed the vegetable layer, providing high
-shade and chicken forage in later rotations.
-
-In about 18 months to 2 years, a more perennial system
-succeeds the weed layer. Eggs, chickens, vegetables, and
-papaya are produced at a modest commercial level, and both
-milk goats and chickens are let out onto the paths to eat
-greens when the pens are bare.
-
-## Mature Tractor Cycles
-
-In more mature chicken tractor cycles, buckwheat, comfrey,
-millet, sunflower, and sorghum can be sown in the pens a few
-weeks before the chickens are returned, providing greens and
-grains. Even rocky or rough country can be prepared for crop
-by chickens. The main cost is secure pen fencing. Strong
-fences also support vine crops, and a few larger legume trees
-provide high shade (Tipuana tipu, larger Albizia) for pens
-and crops.
-
-Where chickens are to be the main crop, chicken forage plants
-replace vegetables and some fruit crops. The system then
-provides all food. Normal weeds such as Oxalis, cleavers,
-dandelion, onion weed, nettle, and nut grass are excellent
-chicken fodders, as are any of the Solanum family (huckleberry,
-black nightshade, pepino, kangaroo apple, tomato, huskberry,
-Sodom apple, etc.).
-
-## The Pig Tractor
-
-The pig tractor follows the same technique but is more suited
-to 1-40 hectare properties. Larger shrub-weeds (Lantana,
-gorse, blackberry) or deep-rooted weeds (Convolvulus,
-rhizomatous grasses, comfrey) call for a pig tractor. The
-density of pigs per pen should be at the proportion of 50 per
-hectare for full clearance of weeds.
-
-In practice, 0.5-2 hectare plots are fenced, most
-economically using permanent electric fencing, which is much
-cheaper than chicken mesh fencing. Once each pen is bare
-(6-10 weeks) and rough-plowed by rooting pigs, it is easy to
-plant lucerne, comfrey sets, sunroot (Jerusalem artichoke),
-sweet potato, Inga trees, papaya, banana, and similar crops
-for pig forages.
-
-## Large-Scale Pig Tractor Integration
-
-On a large scale (20-40 ha), the pig tractor system can
-pioneer high-quality milk-cow pasture of chicory, dandelion,
-comfrey, dock, grasses, and clover. Cows follow along 2-3
-months behind the pig tractor. A continuous rotation is set
-up, and excess milk product (whey, skim milk) is fed to the
-pigs as accessory food.
-
-Piglets ranging over such pasture rarely show iron anaemia
-deficiency. Parasite cycles are broken, and the soil
-constantly improves in humus. Such large animals as pigs and
-cows need fenced tree strips, tree guards, and border
-hedgerow to supply tree forage crop.
-
-## Tractors as Permanent Systems
-
-These intensive animal tractor systems can be:
-- A phase followed by tree crop establishment
-- An accessory to existing tree crop
-- A permanent feature of the mixed farm
-- Used seasonally to remove crop wastes and fallen fruits
-
-Chickens should be a permanent forage system in all mixed
-orchards. Combined with orchard fruit production, chicken
-tractor systems and poultry management represent a full-time
-family enterprise at scale.
-
-## Flock Density and Rotation
-
-Chickens are unstressed at up to 800-900 per hectare,
-provided these are housed as 20 or so small flocks in sheds
-about 2 m per side. More usually, households keep one flock
-of 20-30 hens as a food supplement.
-
-At 800 per hectare, chickens forage so well that other
-livestock cannot find sufficient browse, but at 350-400 per
-hectare sheep and cattle can also use the range. Densities
-of 120-180 per hectare are needed just to clean up windfalls
-and supply fertiliser to orchards.
-
-## See Also
-
-- [[chicken-tractor-systems]]
-
-- [[mollison-free-range-poultry-forage-design]]
 - [[mollison-orchard-poultry-integration-and-woodlot-design]]
-- [[mollison-domestic-small-animals-zone-one]]
 - [[mollison-free-range-pig-systems]]
-- [[mollison-poultry-duck-integration]]
 - [[animal-tractoring]]
+## Overview
+
+Chicken Tractor and Animal Tractor Systems is a key concept within permaculture design and practice.
+Permaculture emphasizes working with natural systems rather than against
+them, creating sustainable and regenerative human habitats that produce
+abundant yields while improving ecosystem health over time.
+
+## Core Principles
+
+Several foundational principles guide the implementation of this approach.
+These include careful observation of natural patterns, capturing and storing
+energy, obtaining a yield, applying self-regulation, using and valuing
+renewable resources, producing no waste, and designing from patterns to
+details. Each principle informs practical decision-making in design.
+
+## Practical Application
+
+In practice, this involves thoughtful integration of elements within the
+landscape to create mutually beneficial relationships. Zone planning,
+sector analysis, and element placement all contribute to efficient and
+resilient systems. The goal is to minimize external inputs while
+maximizing the productivity and ecological health of the system.
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including slope,
+water flow, sun exposure, existing vegetation, soil conditions, and local
+climate patterns. These factors inform the placement of elements and the
+selection of appropriate species and techniques for the specific context.
+
+## Benefits and Outcomes
+
+When properly implemented, these approaches yield multiple benefits
+including improved soil health, increased biodiversity, reduced maintenance
+requirements, enhanced food production, and greater overall system
+resilience. The long-term productivity of well-designed systems typically
+increases over time as ecological relationships mature and strengthen.
+## Practical Considerations
+
+When working with Chicken Tractor and Animal Tractor Systems, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

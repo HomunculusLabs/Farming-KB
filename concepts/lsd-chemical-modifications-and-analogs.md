@@ -18,17 +18,13 @@ sources:
 
 The discovery of LSD's extraordinary psychic activity in 1943 immediately prompted systematic chemical modification of the molecule. At Sandoz pharmaceutical laboratories in Basel, Albert Hofmann and his colleague Dr. Franz Troxler produced numerous LSD derivatives in an effort to understand structure-activity relationships, develop non-hallucinogenic medicinal compounds, and explore the chemistry of the ergot alkaloid family.
 
-The investigation of LSD modifications ran parallel with broader work on the peptide alkaloids of [[ergot-fungus]], which led to the first complete structural formulas for [[ergot-and-lysergic-acid-history]] published in 1951. This work culminated in the total synthesis of ergotamine, achieved in collaboration with Dr. Albert J. Frey and Dr. Hans Ott, and later developed into an industrial process by Dr. Paul A. Stadler. The resulting production methods for peptide ergot-fungus|ergot alkaloids from tank-cultured fungus remain economically significant, supplying starting material for the medicaments Hydergine and Dihydergot.
+The investigation of LSD modifications ran parallel with broader work on the peptide alkaloids of [[ergot-and-lysergic-acid-history]] published in 1951. This work culminated in the total synthesis of ergotamine, achieved in collaboration with Dr. Albert J. Frey and Dr. Hans Ott, and later developed into an industrial process by Dr. Paul A. Stadler. The resulting production methods for peptide ergot-fungus|ergot alkaloids from tank-cultured fungus remain economically significant, supplying starting material for the medicaments Hydergine and Dihydergot.
 
 ## Stereoisomers of LSD
 
 The LSD molecule can exist in four different spatial arrangements, differentiated by the prefix iso- and the letters D and L. Hofmann personally synthesized and self-tested all four forms:
 
-**D-lysergic acid diethylamide (LSD-25)** — the active form. A typical hallucinogenic dose is 0.1 mg (100 micrograms), with effects lasting 8-12 hours. This extraordinary potency, roughly 5,000-10,000 times greater than mescaline-ethnobotany|mescaline, made LSD unique among [[psychedelic-compounds-reference]].
-
-**D-isolysergic acid diethylamide (iso-LSD)** — the iso-configuration at the amide bond renders this compound essentially inactive. No psychic effects were observed up to a dose of 0.5 mg, which is 20 times the threshold dose of LSD itself.
-
-**L-lysergic acid diethylamide (L-LSD)** — the mirror-image enantiomer of LSD. Showed no psychic effects up to 0.5 mg, demonstrating the extreme stereospecificity of LSD's interaction with [[brain-neuroscience-and-psychedelic-mechanism]].
+**D-lysergic acid diethylamide (LSD-25)** — the active form. A typical hallucinogenic dose is 0.1 mg (100 micrograms), with effects lasting 8-12 hours. This extraordinary potency, roughly 5,000-10,000 times greater than mescaline-ethnobotany|mescaline, made LSD unique among [[brain-neuroscience-and-psychedelic-mechanism]].
 
 **L-isolysergic acid diethylamide (L-iso-LSD)** — combining both the L-configuration and the iso-arrangement, this compound was also completely inactive at doses 20 times the active LSD threshold.
 
@@ -42,31 +38,23 @@ Two closely related compounds were produced by replacing the ethyl groups of LSD
 
 **LA-111 (lysergic acid amide)** — With both ethyl groups replaced by hydrogen, the narcotic effect became even more pronounced. Hofmann established these differences through comparative self-experiments, and subsequent clinical investigations corroborated his findings.
 
-Fifteen years after these laboratory syntheses, both LA-111 and LAE-32 were discovered as naturally occurring active principles of the Mexican magic drug [[ololiuhqui-morning-glory-ergot-alkaloid-connection]] (Turbina corymbosa and Ipomoea violacea seeds). This unexpected convergence of laboratory synthesis and traditional ethnobotany was one of the most remarkable findings in [[hallucinogenic-plant-chemistry]].
+Fifteen years after these laboratory syntheses, both LA-111 and LAE-32 were discovered as naturally occurring active principles of the Mexican magic drug [[hallucinogenic-plant-chemistry]].
 
 ## Serotonin Antagonists: BOL-148 and Deseril
 
 One of the most practically significant outcomes of the LSD modification program was the discovery of non-hallucinogenic derivatives with enhanced serotonin-blocking activity. lsd-pharmacology|LSD was known to block the neurotransmitter serotonin (5-hydroxytryptamine), and since serotonin plays a role in allergic-inflammatory processes and migraine pathogenesis, specific serotonin antagonists were of great pharmaceutical interest.
 
-**BOL-148 (2-bromo-D-lysergic acid diethylamide)** — The introduction of a bromine atom at the 2-position of the indole ring eliminated hallucinogenic activity while retaining potent serotonin-blocking properties. BOL-148 became an important research tool in [[brain-neuroscience-and-psychedelic-mechanism]], used to distinguish between serotonin-mediated and LSD-specific effects in experimental settings. It demonstrated that the psychic effects of LSD could be dissociated from its serotonin antagonism.
-
-**Methysergide (Deseril/Sansert)** — Dr. Troxler subsequently produced even stronger and more specifically active serotonin antagonists. The most active of these entered the medicinal market under the trademark "Deseril" (in Europe) or "Sansert" (in English-speaking countries) for the treatment of migraine. Methysergide differs from LSD by the addition of a methyl group and an amidine modification, which eliminates psychedelic effects while enhancing vasoconstrictive and anti-migraine properties.
-
-The clinical success of methysergide represented one of the most important medicinal outcomes of the entire LSD research program at Sandoz, demonstrating how systematic [[hallucinogenic-plant-chemistry]] of a psychedelic compound could yield valuable non-psychedelic pharmaceuticals.
+**BOL-148 (2-bromo-D-lysergic acid diethylamide)** — The introduction of a bromine atom at the 2-position of the indole ring eliminated hallucinogenic activity while retaining potent serotonin-blocking properties. BOL-148 became an important research tool in [[hallucinogenic-plant-chemistry]] of a psychedelic compound could yield valuable non-psychedelic pharmaceuticals.
 
 ## Relationship to Psilocybin Chemistry
 
-The LSD modification work also proved relevant to the later isolation of [[query-what-is-the-difference-between-psilocybin-and-psilocin]] from Psilocybe mexicana mushrooms. Both mushroom compounds, like LSD, belong to the [[tryptamine-family-overview]] class and share structural features with the ergot alkaloids. Psilocybin and psilocin are closely related to LSD chemically and block serotonin in a manner similar to LSD, though they are approximately 100 times less potent by weight.
+The LSD modification work also proved relevant to the later isolation of [[tryptamine-family-overview]] class and share structural features with the ergot alkaloids. Psilocybin and psilocin are closely related to LSD chemically and block serotonin in a manner similar to LSD, though they are approximately 100 times less potent by weight.
 
-The broader structural relationship between LSD, [[psilocybin-compound-profile]], and the ololiuhqui alkaloids (lysergic acid amide and its hydroxyethyl derivative) pointed to a common biochemical theme: several major [[psychedelic-plants-legal-status]] across different cultural contexts produce indole compounds with serotonin receptor activity. This convergence supported theories about the role of [[mckenna-tryptamine-psilocybin-consciousness-evolution]] in brain function and consciousness.
-
-## Significance for Pharmaceutical Chemistry
-
-The LSD modification program exemplified a fundamental principle of [[hallucinogenic-plant-chemistry]]: systematic structural variation of a biologically active lead compound can yield derivatives with radically different pharmacological profiles. From a single parent molecule (LSD), the Sandoz team produced:
+The broader structural relationship between LSD, [[psychedelic-plants-legal-status]] across different cultural contexts produce indole compounds with serotonin receptor activity. This convergence supported theories about the role of [[hallucinogenic-plant-chemistry]]: systematic structural variation of a biologically active lead compound can yield derivatives with radically different pharmacological profiles. From a single parent molecule (LSD), the Sandoz team produced:
 
 Compounds with no activity (iso-LSD, L-LSD, L-iso-LSD), compounds with reduced psychedelic effects and increased sedation (LAE-32, LA-111), compounds that retained serotonin blockade without hallucinogenesis (BOL-148), and clinically useful antimigraine drugs (methysergide/Deseril).
 
-This work also contributed to the broader elucidation of [[ergot-and-lysergic-acid-history]] chemistry. In 1949, Hofmann and Troxler corrected the American researchers' proposed structural formula for lysergic acid, specifying the valid structure of the common nucleus of all ergot alkaloids. This correction was essential for all subsequent synthetic work on [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and their derivatives.
+This work also contributed to the broader elucidation of [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and their derivatives.
 
 ## Other Notable LSD Analogs
 
@@ -94,13 +82,9 @@ Beyond the specific compounds produced, the LSD modification program had a profo
 
 ## See Also
 
-- [[lsd-compound-profile]]
 - [[lsd-pharmacology]]
-- [[lsd-synthesis-history]]
 - [[ergot-and-lysergic-acid-history]]
-- [[psilocin-and-psilocybin-chemistry]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[hallucinogenic-plant-chemistry]]
 - [[tryptamine-family-overview]]
 
 ## The Serotonin Hypothesis and Receptor Pharmacology

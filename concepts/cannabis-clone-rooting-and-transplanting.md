@@ -112,18 +112,10 @@ A propagation tray with humidity dome (7-inch height) costs $20-30 and is essent
 
 ## See Also
 
-- [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
-
-- [[cannabis-cloning-and-mother-plants]]
-
 - [[cannabis-cloning-and-mother-plants]]
 
 - [[cannabis-sea-of-green-sog-method]]
 
-- [[cannabis-grow-room-setup]]
-
 - [[cannabis-seed-germination-methods]]
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
 - [[moist-chamber-technique-fungal-fruiting]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]
 - [[cannabis-growing-environment-setup]]

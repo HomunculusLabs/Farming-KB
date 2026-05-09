@@ -14,34 +14,13 @@ sources:
 type: concept
 ---
 
-# Wet-Dry Tropical [[pdc-climate-design-strategies]] in [[permaculture]]
+# Wet-Dry Tropical [[permaculture]]
 
 The wet-dry tropics adjoin the wet tropics but are poleward of
 them, covering about 15% of earth's surface from latitudes 0
 to 25 degrees, unbalanced in favour of the southern hemisphere.
 These regions include the Campos, Llanos, and Gran Chaco of
-[[neurotropic-fungi-in-south-america]], parts of Central America, areas encircling the
-Congo basin, and many central Pacific islands including Hawaii.
-
-## Climate Characteristics
-
-Winter (the low-sun period) is the dry time, with clear skies
-and intense sunlight taking day temperatures to 38 degrees C or
-more. Humidity is low, and strong desiccating winds may blow.
-Summer (the high-sun period) is like the wet tropics, but
-episodic flooding is more common and natural erosion therefore
-greater. There are no frosts. Temperatures range 21-27 degrees C
-in the wet season, 32-38 degrees C in dry season. Rainfall is
-25-152 cm, decreasing towards desert margins. Rain shadows
-develop on leeslopes or in the lee of mountains.
-
-## Landscape and Vegetation
-
-The landscape features intermittent streams, wadis, flood plains,
-karst areas with sinkholes and cenotes, rounded hills with gully
-erosion potential, and extensive inland swamps. These regions
-contain the vast savannah grasslands of the tropics, with
-thorn-bush and flat-topped [[acacia]] trees evolving to steppe
+[[acacia]] trees evolving to steppe
 grassland on plateaus, with baobabs and dry-deciduous trees.
 Grasses reach 1-6 m in the wet season and are often burnt off.
 
@@ -145,5 +124,4 @@ and Pultenea with their mycelial associates will fix phosphate
 and return it via leaf mould. Dilute molasses or cane and
 ## See Also
 
-- [[mollison-designers-monsoon-tropical-design-strategies]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]

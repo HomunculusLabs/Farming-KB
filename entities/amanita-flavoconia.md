@@ -125,10 +125,7 @@ The distinction between *A. flavoconia* and *A. frostiana* is one of the most co
 
 ## See Also
 
-- [[amanita-muscaria]] — Iconic red-and-white fly agaric with ibotenic acid and muscimol
 - [[amanita-phalloides]] — Death cap, contains lethal amatoxins
-- [[amanita-jacksonii]] — Edible North American species resembling *A. muscaria*
 - [[amanita-pantherina]] — Panther cap, another toxic European and North American species
-- [[amanita-rubescens]] — Blusher, bruises red, widespread in deciduous forests
 - [[muscimol-entity]] — Primary psychoactive compound in section *Amanita*
-- [[ibotenic-acid]] — Excitotoxic glutamate agonist precursor to muscimol
+- [[ibotenic-acid-entity]] — Excitotoxic glutamate agonist precursor to muscimol

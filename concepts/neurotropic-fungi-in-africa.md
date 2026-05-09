@@ -3,15 +3,7 @@ title: Neurotropic Fungi in Africa
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
----
-
-# Neurotropic Fungi in Africa
-
-Africa has remarkably few documented
-[[neurotropic-fungi-world-checklist]] despite its vast size
+tags: [[neurotropic-fungi-world-checklist]] despite its vast size
 and high biodiversity. Only 6–8 neurotropic Psilocybe species are known from the
 entire continent. This is almost certainly an artifact of limited mycological
 exploration rather than true absence.
@@ -90,20 +82,8 @@ Africa represents the largest gap in global knowledge of neurotropic fungi:
 
 ## Saharan Rock Art Evidence
 
-The [[saharan-rock-art-mushroom-cult]] in southern
-Algeria preserves evidence of mushroom use dating back 7,000–10,000 years,
-providing the oldest known evidence for human interaction with psychoactive
-fungi anywhere in the world. This suggests that Africa's relationship with
-neurotropic fungi may be far older and more extensive than the limited modern
-species records indicate.
-
-## Related Topics
-
-- [[neurotropic-fungi-world-checklist]] — Complete world checklist
-- [[neurotropic-fungi-biogeographic-patterns]] — Distribution analysis
+The [[neurotropic-fungi-world-checklist]] — Complete world checklist
 - [[neurotropic-fungi-in-mexico]] — Highest diversity center
-- [[saharan-rock-art-mushroom-cult]] — Ancient mushroom use in North Africa
 - [[gartz-magic-mushrooms-global-distribution-patterns]]
-- [[psilocybin-mushroom-global-distribution]]
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[neurotropic-fungi-in-central-america]]

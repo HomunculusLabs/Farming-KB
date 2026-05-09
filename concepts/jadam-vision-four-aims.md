@@ -20,73 +20,15 @@ From JADAM's perspective, a technology does not qualify as "organic" merely beca
 3. **Scientific** -- Methodology is based on scientific principles and reproducible results
 4. **Effective** -- The process is highly effective and achieves ultra-low cost
 
-Only when organic farming achieves all four aims will it replace conventional agriculture. See [[jadam-sese-philosophy]] for the detailed philosophical foundation.
-
-## "I" Am the Farming Expert
-
-When there were no chemical pesticides or fertilizers, all farmers practiced organic farming. They used what was freely available around them and did not particularly need money. Everything in nature -- byproducts of farming, any organic matter -- was highly valued and treated with respect.
-
-Youngsang Cho argues that historically, there were almost no instances when a farmer could not farm because he had no money. A person with no other means of living could at least resort to farming. But nowadays, one must already have money in order to do farming. There are so many things to buy, invest in, and equip.
-
-The JADAM vision is to bring farming back to the farmers. Nobody else but "I" should be the farming expert. Only then will the farmer recover the viability of farming.
-
-## Viability Through Ultra-Low Cost
-
-JADAM defines viability as the ability to make ends meet after selling at market price, because costs have been reduced to an ultra-low level. This contrasts with the common organic farming model that depends on premium prices:
-
-- Premium-priced organic farming reaches a minority of wealthy consumers
-- Ultra-low-cost organic farming can compete with conventional prices
-- Viability means the farmer profits without needing government subsidies or premium markets
-
-## The Historical Argument
-
-Korean farming was sustainable for millennia, turning soil richer every year. If Koreans had been as exploitative with soil as modern conventional farming, people would have starved long ago. The traditional system contains a complete approach to utilizing microorganisms, liquid fertilizers, and pest control.
-
-JADAM's position: Koreans should be proud as the founders of organic farming. The method practiced by ancestors holds the key to solving high-cost modern organic farming. Stop looking for answers in "modern Western" agriculture and reclaim thousands of years of organic farming history.
-
-## The Commercialization Trap
-
-The fundamental problem is structural: input manufacturers, distributors, and retailers shaped organic farming into its current expensive form. Their profit-seeking motivated the development of agricultural technology. The result is a system where:
-
-- Education, workshops, seminars, and exhibitions confuse farmers
-- Farmers lose confidence in their own abilities
-- Microorganism product producers, liquid fertilizer factories, and pesticide companies claim expert status
-- Costs keep rising in both conventional and organic farming
-
-This is not coincidence. In a capitalistic world, no human activities are left undevoured by commercial interests.
-
-## Technology as the Key
-
-How can agriculture reclaim viability? The answer is technology -- but not technology that serves corporate profit. A system of technology that incurs high cost cannot be an alternative. Even well-designed national policies will fail without practical technology.
-
-JADAM seeks to establish a farming system practiced at ultra-low cost with all inputs self-made. This would increase the viability of organic farming and make it powerful enough to replace conventional farming entirely.
-
-## The Farmer as Researcher
-
-Central to JADAM's vision is the idea that every farmer must become a researcher. Rather than depending on outside experts, farmers should systematically test and observe the effects of their own inputs and methods. This is formalized in the [[jadam-pesticide-research-cup-method]] which trains farmers to develop their own crop-specific pesticide solutions.
+Only when organic farming achieves all four aims will it replace conventional agriculture. See [[jadam-pesticide-research-cup-method]] which trains farmers to develop their own crop-specific pesticide solutions.
 
 ## Reclaiming Agricultural Independence
 
 The four aims are ultimately about reclaiming independence. When farmers can make their own inputs, understand their own soil, and control their own pest management, they are no longer subject to the economic pressures of input manufacturers. This independence is both economic and psychological -- it restores the farmer's dignity and sense of agency.
 
-The [[jadam-patent-free-revolution]] ensures that all JADAM knowledge remains freely accessible, preventing the very commercialization that corrupted organic farming from taking root in the JADAM movement.
-
-## Related Concepts
-
-- [[jadam-sese-philosophy]]
-- [[jadam-ultra-low-cost-agriculture]]
+The [[jadam-sese-philosophy]]
 - [[jadam-natural-farming-philosophy]]
-- [[jadam-patent-free-revolution]]
 - [[jadam-post-2020-agriculture]]
-- [[knf-vs-jadam-vs-em]]
-
-This vision of farmer-as-expert represents a paradigm shift as profound as any in agricultural history. When knowledge is liberated from corporate control and returned to the people who work the land, the entire structure of modern agriculture is transformed.
-
-The four aims are not abstract ideals but a practical checklist. Every new method, every input recipe, every technique developed within JADAM must pass through the SESE filter before being shared. This discipline is what ensures the system remains accessible to ordinary farmers rather than evolving into another expert-dominated domain.
-
-JADAM's growing community of practitioners -- each one simultaneously a student and a teacher -- is the living proof that this vision is not utopian but entirely achievable.
-
-The ultimate test of the four aims is whether a farmer with no money, no special equipment, and no formal education can successfully grow crops using only what nature provides locally. JADAM's answer, demonstrated across thousands of farms, is an unqualified yes.
 - [[jadam-bongha-village-proof]]
 ## Merged: JADAM Challenges Facing Agriculture
 

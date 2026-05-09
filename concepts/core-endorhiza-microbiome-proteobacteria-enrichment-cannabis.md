@@ -64,87 +64,26 @@ endorhiza showed rho of 0.63, and bulk soil to endorhiza showed rho of
 Despite cultivar-specific differences, all Cannabis endorhiza samples
 maintained a conserved core community of bacterial taxa:
 
-- **[[pseudomonas]]** (Gammaproteobacteria): Among the most prevalent
-  genera, Pseudomonas species are plant growth-promoting
-  rhizobacteria producing phytohormones, siderophores, and
-  antimicrobial compounds.
-
-- **Cellvibrio** (Gammaproteobacteria): An aerobic cellulolytic
-  bacterium not typically classified as an endophyte. Its consistent
-  presence may relate to Cannabis fibrous composition and cellulose-
-  derived carbon within root tissue.
-
-- **Oxalobacteraceae** (Betaproteobacteria): Known plant-associated
-  bacteria capable of metabolizing oxalic acid and other plant-derived
-  compounds, potentially managing calcium availability.
-
-- **Xanthomonadaceae** (Gammaproteobacteria): A diverse family
-  including commensal plant-associated species.
-
-- **Actinomycetales** (Actinobacteria): Including Streptomyces and
-  related genera producing antibiotics protecting the host from
-  soil-borne pathogens.
-
-- **Sphingobacteriales** (Bacteroidetes): Commonly associated with
-  plant rhizosphere environments.
-
-Except for Cellvibrio, all core members are well-known endophytes
-primarily within Gammaproteobacteria and Alphaproteobacteria.
-
-## Cultivar-Specific OTU Differences
-
-Significant cultivar differences were composed mostly of Proteobacteria
-from orders Pseudomonadales, Burkholderiales, Sphingomonadales, and
-Rhizobiales. Two notable associations:
-
-- **Methylophilus** explained significant cultivar effect (FDR p =
-  0.012), comprising 13% of Bookoo Kush endorhiza community, 0.13% in
-  Burmese, and was absent from Sour Diesel.
-
-- **Sphingomonas wittichii** showed prevalence in Maui Wowie. It
-  can metabolize phenazine-1-carboxylic acid and has been implicated in
-  increased soil survival, potentially conferring pathogen resistance.
-
-Zero significant unweighted OTU differences between cultivars indicates
-selection acts on OTU abundance rather than presence or absence.
-Cultivars harbor the same species in different proportions.
-
-## Alpha Diversity Gradient
-
-Bacterial diversity declines from soil to root interior. Chao1 metrics
-showed slight reduction from bulk soil (mean 4947) to rhizosphere (mean
-4525), then dramatic reduction to endorhiza (mean 3321). Each
-transition represents an additional selective filter.
-
-## Soil-Origin of Endorhiza Communities
-
-Endorhiza shared significantly more OTUs with their own soil (mean 2934)
-than with alternative soil (mean 2162), confirming the first selection
-tier: soil provides the bacterial colonist pool.
-
-## Edaphic Factors and Cannabinoid Correlation
-
-Nitrogen showed the strongest structuring effect (r = 0.465), followed
-by salinity (0.437), carbon (0.330), water content (0.281), and pH
-(0.221). The same ranking held in both weighted and unweighted
-analyses. These edaphic factors structured communities in bulk soil,
-rhizosphere, and endorhiza, though their influence diminished toward
-the root interior as cultivar effects became dominant.
-
-A significant cannabinoid-microbiome correlation was found
-(Mantel r = 0.863, p = 0.001), but could not be disentangled from soil
-effects since THC variables were also correlated with edaphic factors.
-Plants from one soil type showed both higher THC composition and
-different microbial communities, making it impossible to separate the
-cannabinoid-microbiome association from the soil effect with available
-data.
-
-## See Also
-
-- [[core-endorhiza-bacterial-community-composition-cannabis]]
-
-- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
+- **[[core-endorhiza-bacterial-community-composition-cannabis]]
 
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
-- [[cannabis-rhizosphere-microbiome]] overview
 - [[endorhiza-bacterial-communities]] bacteria and plant root colonization
+## Practical Considerations
+
+Successful implementation of Core Endorhiza Microbiome and Proteobacteria Enrichment in Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

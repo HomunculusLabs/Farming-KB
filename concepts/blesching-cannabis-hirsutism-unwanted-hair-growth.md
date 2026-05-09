@@ -21,10 +21,7 @@ typically affects areas such as the face, chest, and back. While the condition
 can have genetic causes, it is often linked to hormonal imbalances, including
 excess androgen production.
 
-## The [[cannabis-endocannabinoid-system]] and Hirsutism
-
-A multi-institutional study (2009) with researchers from Germany, the United
-States, England, and Hungary identified the [[blesching-endocannabinoid-system-overview]]
+## The [[blesching-endocannabinoid-system-overview]]
 in the skin and its role in hair growth regulation. For hirsutism specifically,
 researchers found that up-regulation of CB1 produces the suppression of hair
 growth.
@@ -92,10 +89,7 @@ Since CB1 up-regulation is the desired mechanism for suppressing unwanted hair
 growth, cannabinoids that activate CB1 receptors (such as THC) may theoretically
 contribute to this effect. THC binds relatively equally with both CB1 and CB2.
 Sativas and sativa-dominant strains generally contain a higher THC:CBD ratio.
-See [[blesching-cannabis-dosing-strategies]] for detailed guidance.
-
-However, no evidence-based CHI rating was applicable, as the research remains
-at the pre-clinical level and no [[schizophyllan-cancer-clinical-trials]] on cannabis for hirsutism
+See [[schizophyllan-cancer-clinical-trials]] on cannabis for hirsutism
 have been conducted.
 
 ## Conventional Hirsutism Treatments
@@ -115,24 +109,7 @@ receptor modulation.
 
 ## The CB1 Bidirectional Paradox
 
-The relationship between hirsutism and [[blesching-cannabis-hair-loss-alopecia]]
-illustrates a fascinating aspect of the endocannabinoid system:
-
-- CB1 up-regulation suppresses hair growth (useful for hirsutism)
-- CB1 down-regulation stimulates hair growth (useful for alopecia)
-- The same receptor, modulated in different directions, produces opposite
-  effects on hair follicles
-
-This bidirectional capacity demonstrates why blanket statements about
-cannabis being "good" or "bad" for hair are inaccurate. The effect depends
-entirely on the direction and degree of receptor modulation, the specific
-condition being treated, and individual patient factors.
-
-## Hormonal Context
-
-Hirsutism in women is often associated with conditions involving hormonal
-imbalance, such as polycystic ovary syndrome (PCOS), adrenal gland disorders,
-or certain medications. The [[blesching-endocannabinoid-system-overview]]
+The relationship between hirsutism and [[blesching-endocannabinoid-system-overview]]
 interacts with multiple hormonal pathways, and understanding these
 interactions is crucial for developing targeted treatments.
 
@@ -147,3 +124,7 @@ Key areas for future investigation include:
 
 - Clinical trials of CB1 agonists for hirsutism treatment
 - Studies comparing cannabinoid-based approaches with conventional treatments
+
+## See Also
+
+- [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]

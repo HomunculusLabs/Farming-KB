@@ -130,11 +130,7 @@ others.
 
 ## See Also
 
-- [[blesching-cannabis-infectious-agents-cancer]]
 - [[blesching-cannabis-inflammatory-bowel-disease]]
-- [[blesching-cannabis-gastrointestinal-disorders]]
 - [[blesching-cannabis-hepatitis]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabis-leukemia-lymphoma]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

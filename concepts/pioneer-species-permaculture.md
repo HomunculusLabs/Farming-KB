@@ -2,13 +2,7 @@
 
 ## Overview
 
-Pioneer species are fast-growing, hardy plants that colonize bare or disturbed ground, creating the conditions necessary for longer-lived species to establish. In permaculture, pioneers are used as [[nurse-plants]] to accelerate ecological succession, restore degraded land, and jumpstart the establishment of food forests, orchards, and other perennial systems. They are the first wave in nature's strategy for transforming barren ground into productive ecosystem.
-
-## The Forest-Grassland Edge Pattern
-
-In nature, pioneers occupy the boundary between grassland and forest. This edge is a dynamic zone where tree seedlings constantly attempt to establish in grass-dominated areas, and grasses constantly try to invade forest margins. Pioneer species are adapted to the harsh conditions of this transition zone — full sun exposure, competition from established grasses, compacted or nutrient-poor soil, and limited water availability.
-
-[[permaculture-design]] applies this pattern directly: when establishing a new system on bare or pastured land, planting pioneers simulates the natural succession process and streamlines reclamation. The pioneers create favorable microclimates, build soil, suppress grasses, and attract the biological activity that later successional species need to thrive.
+Pioneer species are fast-growing, hardy plants that colonize bare or disturbed ground, creating the conditions necessary for longer-lived species to establish. In permaculture, pioneers are used as [[permaculture-design]] applies this pattern directly: when establishing a new system on bare or pastured land, planting pioneers simulates the natural succession process and streamlines reclamation. The pioneers create favorable microclimates, build soil, suppress grasses, and attract the biological activity that later successional species need to thrive.
 
 ## Characteristics of Pioneer Species
 
@@ -25,36 +19,11 @@ Pioneer species share several defining traits:
 
 ## Key Pioneer Species
 
-### Tagasaste ([[chamaecytisus-palmensis]])
-
-Family: Fabaceae
-
-Native to the Canary Islands, tagasaste is one of the most useful pioneer species for temperate and subtropical regions. It grows to 7 meters, tolerates rainfall as low as 300mm, and fixes nitrogen efficiently. In Western Australia, 50,000 hectares of marginal farmland had been planted to tagasaste by 1996, with an estimated 1.5 million hectares potentially benefiting.
-
-Key properties:
-- **Fodder**: Crude protein content of 17–31% in foliage, exceeding lucerne, rye grass, and wheat grain. Ewes on tagasaste produce 30% more wool. Stock carrying capacity reaches 37 sheep/ha by year 6 compared to 1 sheep/ha on pasture alone.
-- **Nurse crop**: Trees growing within 1 meter of tagasaste consistently outperform controls. For timber trees, tagasaste forces straight upward growth; for fruit trees, clipping tagasaste produces mulch and a spreading habit.
-- **Bee forage**: Flowers in winter when little else is available. Staggered cutting extends the flowering period.
-- **Poultry forage**: Prolific seed producer; seed contains 25% crude protein and 12% crude fat.
-- **Wood**: Good firewood; potential for tool handles and craft work.
-
-### Black Locust ([[robinia-pseudoacacia]])
+### Tagasaste ([[robinia-pseudoacacia]])
 
 A nitrogen-fixing legume native to North America, widely planted globally. Black locust grows rapidly (1–2 meters per year), tolerates poor soils, drought, and frost, and produces extremely durable timber resistant to rot and termites. It coppices vigorously, making it valuable for sustainable firewood and fence post production. The fragrant white flowers are excellent bee forage. Black locust is thorny, which provides animal deterrent qualities but can be a management challenge.
 
-### Honey Locust ([[gleditsia-triacanthos]])
-
-Native to North America, honey locust produces 15 tons per acre of protein-rich pods without annual replanting — making it one of the most productive food trees known. The pods are relished by livestock. Honey locust is nitrogen-fixing, drought-tolerant, and casts a light canopy that allows underplanting. Thornless varieties are available for easier management. The timber is hard and durable.
-
-### Tree Lupin (Lupinus arboreus)
-
-An evergreen perennial shrub to 2 meters, native to California. Tree lupin fixes nitrogen and serves as a nurse crop, tolerating frost with some summer watering. It flowers from late winter to early summer with a second autumn flowering, providing valuable bee forage. Can be cut hard to supply nitrogen-rich mulch. Too toxic for most livestock, which is actually an advantage in grazing situations — animals leave it alone while it protects establishing trees.
-
-### Wattles (Acacia spp.)
-
-A vast genus of approximately 850 species native to Australia, wattles are among the most versatile pioneer plants. Notable species include:
-
-- **[[acacia-mearnsii]] (black wattle)**: Fast-growing to 6–10 meters; yields 21–28 tonnes/hectare/year of wet leaves containing 240–285 kg of nitrogen. Indonesian farmers report doubled vegetable and tobacco yields when rotated with A. mearnsii due to green manure effects. Bark yields 36–44% tannin. Extensively planted in South Africa (160,000 ha) and Brazil (125,000 ha).
+### Honey Locust ([[acacia-mearnsii]] (black wattle)**: Fast-growing to 6–10 meters; yields 21–28 tonnes/hectare/year of wet leaves containing 240–285 kg of nitrogen. Indonesian farmers report doubled vegetable and tobacco yields when rotated with A. mearnsii due to green manure effects. Bark yields 36–44% tannin. Extensively planted in South Africa (160,000 ha) and Brazil (125,000 ha).
 - **Acacia melanoxylon (blackwood)**: Reaches 35 meters in ideal conditions; produces premium furniture timber. Coppices and root-suckers. Grows from swamps to mountain heath across a 750–1500mm rainfall range.
 - **Acacia aneura (mulga)**: Outstanding fodder tree surviving on 200–500mm annual rainfall. A daily ration of 1.4 kg of mulga leaf supplies sheep with sufficient protein, calcium, and vitamin A. One of the hardest woods in the world.
 - **Acacia dealbata (silver wattle)**: Fast-growing to 25–28 meters. Regenerates quickly after clearing or fire through prolific suckering. Used for pulp production, clothes pegs, and wood wool.

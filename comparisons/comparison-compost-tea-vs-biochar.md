@@ -23,35 +23,6 @@ once or periodically for permanent soil transformation. Together they represent 
 biological and structural pillars of soil health.
 
 ## Compost Tea (AACT)
-[[compost-tea-aact]]
-Actively aerated compost tea, developed by Dr. Elaine Ingham at the Soil Foodweb
-Institute, is a liquid extract made by steeping high-quality compost or vermicompost in
-dechlorinated water with continuous aeration and a food source (typically unsulfured
-molasses at one tablespoon per gallon) for 18 to 24 hours at 65 to 75 degrees
-Fahrenheit. The aeration multiplies beneficial bacteria, fungi, protozoa, and
-nematodes from the compost into a concentrated microbial solution containing billions
-of organisms per teaspoon that can be applied as a soil drench or foliar spray.
-
-Two variants exist: bacterial-dominated teas for vegetables and annuals (using molasses
-and fish hydrolysate as food sources) and fungal-dominated teas for trees and
-perennials (using kelp, humic acid, and oatmeal to favor fungal growth). The tea must
-be used within hours of brewing to maintain aerobic conditions and prevent pathogen
-proliferation. Foul or putrid odor indicates anaerobic contamination, requiring the
-entire batch to be discarded. Foliar sprays should be applied at dusk or dawn to
-prevent UV damage to applied microbes, with a surfactant like yucca extract added to
-improve leaf adhesion.
-
-Compost tea provides rapid results at very low cost. A five-gallon batch costs
-approximately two to five dollars in materials. The air pump is a one-time investment
-of 15 to 40 dollars. Compost tea suppresses plant diseases through competitive
-exclusion of pathogens, improves nutrient cycling by boosting soil biology that makes
-nutrients available to plants, and works faster than raw compost application because
-the organisms are already active. Its limitations are strict time sensitivity (use
-within four to six hours), dependence on compost quality (poor compost makes poor
-tea), and the fact that it is not a fertilizer and does not supply significant NPK
-directly.
-
-## Biochar
 [[biochar-soil-amendment]]
 Biochar is pyrolyzed biomass (wood, nut shells, bamboo, crop residues) heated in low-
 oxygen conditions at 400 to 700 degrees Celsius to create a highly porous carbon
@@ -122,8 +93,6 @@ benefits and permanent soil improvement in an integrated soil health program.
 
 ## See Also
 
-- [[actively-aerated-compost-tea]]
 - [[comparison-biochar-vs-compost]]
-- [[comparison-biochar-vs-mycorrhiza]]
 - [[comparison-biochar-vs-biofertilizer]]
 - [[comparison-fermented-plant-extract-vs-compost-tea]]

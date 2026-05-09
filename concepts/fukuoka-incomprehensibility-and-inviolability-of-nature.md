@@ -115,9 +115,6 @@ Perhaps the most radical aspect of Fukuoka's epistemology is the idea that knowl
 ## See Also
 
 - [[four-principles-of-natural-farming]]
-- [[do-nothing-farming]]
 - [[fukuoka-energy-productivity-and-the-mechanization-trap]]
-- [[fukuoka-breakdown-japanese-agriculture]]
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]]
-- [[do-nothing-farming]]
 - [[fukuoka-natural-farming-spiritual-light]]

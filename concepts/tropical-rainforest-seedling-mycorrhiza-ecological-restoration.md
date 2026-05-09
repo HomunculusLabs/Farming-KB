@@ -94,11 +94,7 @@ Deforestation in tropical rain forests occurs at approximately 2% annually, cont
 
 ## Related Topics
 
-- [[techniques-arbuscular-mycorrhiza-inoculum-reduction]] - Inoculum management
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - Combined inoculation approaches
-- [[am-fungi-autofluorescence-colonization-assessment]] - Colonization monitoring methods
 - [[glomalin-and-soil-carbon]]
-- [[ectomycorrhizal-ecology]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-- [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

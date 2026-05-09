@@ -3,7 +3,7 @@ title: Fungal Biodiversity and Ecosystem Function
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Biodiversity and Ecosystem Function
@@ -87,14 +87,7 @@ At Chernobyl, intense radiation led to simpler fungal community structure with d
 
 ## See Also
 
-- [[fungal-kingdom-classification]] for fungal taxonomic diversity
 - [[fungal-succession]] for diversity patterns through time
-- [[fungal-responses-climate-change]] for climate impacts on diversity
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[fungal-adaptations-environmental-gradients]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-nitrogen-deposition-fungal-community-responses]]

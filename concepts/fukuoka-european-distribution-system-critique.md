@@ -81,15 +81,7 @@ Transportation itself was a target: moving food thousands of miles required refr
 
 Fukuoka's alternative was not a policy reform but a structural transformation: communities should grow their own food, or obtain it from nearby farms with which they have direct relationships. He envisioned a decentralized food system where the distance between producer and consumer is measured in walking or cycling distance rather than shipping routes. This was not nostalgia for pre-industrial life but a practical observation: when food is grown and eaten locally, the middlemen disappear, quality improves, waste decreases, and the ecological cost of distribution approaches zero.
 
-He pointed to the Italian farmers who had begun practicing [[fukuoka-natural-farming-philosophy-of-mu]] as evidence that alternatives were already emerging. These farmers, he noted, were motivated not by market logic but by a recognition that industrial agriculture was degrading their land and their communities. Their natural farming plots produced diverse, seasonal food for local consumption, bypassing the distribution system entirely. Fukuoka saw in these small-scale experiments the seeds of a larger transformation — if enough people adopted local, natural approaches, the centralized distribution system would lose its power not through political action but through simple irrelevance.
-
-## Connection to Contemporary Local Food Movements
-
-Fukuoka's European observations anticipated many themes that have since become central to the local food movement. Community-supported agriculture (CSA) programs, farmers' markets, food cooperatives, and farm-to-table restaurants all embody his principle of direct producer-consumer relationships. The Slow Food movement, which originated in Italy in the 1980s partly in response to the same industrial food pressures Fukuoka observed, shares his concern for regional food traditions, biodiversity, and the social dimensions of eating.
-
-The concept of "food miles" — the total distance food travels from production to consumption — has become a standard metric in sustainability discussions, quantifying what Fukuoka observed qualitatively. Studies have confirmed that local food systems generally retain more economic value within communities, produce lower carbon emissions from transport, and support greater crop diversity. The rise of urban agriculture, community gardens, and peri-urban farming in European cities represents a practical fulfillment of Fukuoka's vision of local food self-sufficiency.
-
-However, Fukuoka's critique goes deeper than the contemporary local food movement often acknowledges. He did not merely want to replace global supply chains with local ones while maintaining the same consumer mindset. His argument was that the desire for out-of-season food, for exotic ingredients, for constant variety regardless of geography — these desires themselves were symptoms of the dietary delusion he explored in [[fukuoka-origin-agriculture-dietary-cravings]]. A truly local food system requires not just different logistics but a different relationship with food itself: one rooted in gratitude, simplicity, and acceptance of what the land provides in each season.
+He pointed to the Italian farmers who had begun practicing [[fukuoka-origin-agriculture-dietary-cravings]]. A truly local food system requires not just different logistics but a different relationship with food itself: one rooted in gratitude, simplicity, and acceptance of what the land provides in each season.
 
 ## The Role of Media in Food Price Perception
 
@@ -105,12 +97,7 @@ Community food sovereignty — the right of communities to define their own food
 
 ## See Also
 
-- [[fukuoka-european-civilization-standstill]]
 - [[fukuoka-european-agriculture-observations]]
-- [[fukuoka-food-and-human-health]]
 - [[fukuoka-mu-economics]]
-- [[fukuoka-critique-modern-agriculture]]
-
 - [[fukuoka-natural-diet-food-philosophy]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-italian-agriculture-observations]]

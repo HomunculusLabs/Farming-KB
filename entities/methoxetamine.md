@@ -128,7 +128,9 @@ psychoactive substance (NPS) harm reduction and drug policy.
 
 ## See Also
 
-- [[ketamine|Ketamine]] — parent arylcyclohexylamine dissociative anesthetic
 - [[dextromethorphan|Dextromethorphan]] — OTC dissociative NMDA antagonist
-- [[5-meo-dmt|5-MeO-DMT]] — potent short-acting psychedelic tryptamine
-- [[mdma-entity|MDMA]] — serotonergic empathogen with overlapping SERT interaction risk
+- [[mdma|MDMA]] — serotonergic empathogen with overlapping SERT interaction risk
+
+## See Also
+
+- [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]

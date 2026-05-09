@@ -76,11 +76,7 @@ Fukuoka's observation from decades on his farm: "Allowing any animals larger tha
 
 ## Related Concepts
 
-- [[fukuoka-desert-greening-techniques-detailed]] -- specific techniques for desert revegetation
 - [[fukuoka-seed-ball-technique]] -- the clay pellet method for seed dispersal
-- [[fukuoka-clay-pellet-desert-greening]] -- making seed balls for aerial scattering
 - [[fukuoka-desert-greening-projects]] -- documented desert projects
-- [[fukuoka-pine-blight-matsutake-research]] -- California observations
 - [[fukuoka-desert-revegetation-seed-diversity]]
-- [[fukuoka-desert-greening-plant-irrigation]]
 - [[holzer-green-manure-and-soil-building-plants]]

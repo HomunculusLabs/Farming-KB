@@ -23,35 +23,6 @@ environment.
 
 ## Cold Frame Gardening
 
-[[cold-frame-gardening]]
-
-Cold frames are the simplest and cheapest season-extension structure available.
-Essentially a bottomless box with a hinged transparent lid — glass,
-polycarbonate, or even recycled windows — they capture solar radiation to create
-a warm microclimate for plants. A well-built cold frame extends the growing
-season by four to eight weeks in both spring and fall, provides 10 to 20
-degrees Fahrenheit of frost protection, and serves as an essential tool for
-hardening off indoor-started seedlings before transplanting.
-
-The accessibility of cold frames is their greatest strength. They can be built
-from salvaged materials for near-zero cost, require no foundation or utilities,
-and fit into any garden footprint. In summer, the lid can be propped open or
-removed entirely to convert the cold frame into a raised bed. Automatic vent
-openers (bimetallic actuators) eliminate the need for daily temperature
-monitoring. In mild climates (Zone 7 and warmer), cold frames can support winter
-greens production with minimal management.
-
-The limitations are inherent to the design. Cold frames offer limited space —
-typically a few square feet — insufficient for serious crop production.
-Temperature management requires daily attention: on sunny days, internal
-temperatures can spike to 100 degrees Fahrenheit or more within minutes, cooking
-plants if vents are not opened. Night protection is modest without supplemental
-insulation. There is no active heating, humidity control, or protection from
-severe weather events. Cold frames are best understood as season-extenders, not
-season-creators.
-
-## Greenhouse Growing
-
 [[greenhouse-growing]]
 
 Greenhouses are fully enclosed structures — from small polycarbonate units to
@@ -131,12 +102,7 @@ anchors Zone 1 production.
 
 ## See Also
 
-- [[comparison-microgreens-vs-shoots-growing]]
-
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
 
-- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
-
 - [[comparison-greenhouse-vs-cold-frame]]
-- [[comparison-greenhouse-vs-container-gardening]]
 - [[greenhouse-design]]

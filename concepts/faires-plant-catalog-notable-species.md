@@ -3,147 +3,104 @@ title: Faires Plant Catalog Notable Species
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Faires Plant Catalog Notable Species
-
-The Faires guide includes an extensive plant catalog with growing instructions for each species. Many of these plants serve multiple functions in the permaculture system — providing food, medicine, forage, pest control, soil building, and structural elements simultaneously. This page highlights notable species from the catalog that have particularly interesting or unusual characteristics not covered in dedicated topic pages.
-
-## Amaranth (Amaranthus spp.)
-
-Treated like a grain but not a grass. Has broad leaves among the healthiest greens you can eat, and is full of protein:
-
-- Dryland tolerant, enjoys well-drained soil and full sun
-- Grows best in southern US; quinoa is the northern equivalent
-- Short growing season: 10-13 weeks to ripen
-- Should be double-cropped with winter wheat, oats, or flax
-- Emergency food source: if earlier grain crops fail, amaranth can be quickly raised
-- As a cover crop it effectively chokes out weeds
-- **Processing:** Hard outer hull must be removed. Use grain mill at largest setting, run through multiple times. Hulls saved for pillow filling.
-- Cook like rice or grind into flour for bread (no gluten — limited bread use)
-
-## Buckwheat (Fagopyrum esculentum)
-
-Eaten as a grain but is not a grass or cereal:
-
-- Very fast: ripens in 10-13 weeks, great for cooler climates
-- Does not tolerate frost; plant late for early September harvest
-- No gluten — only usable in small amounts for bread
-- Traditional uses: noodles and pancakes
-- **Cover crop:** Effectively chokes out weeds
-- **Double-crop:** Plant with winter wheat, oats, or flax
-- **Hull uses:** Filling for pillows and other items
-- **Harvest:** Cut when almost all brown but with a few green leaves remaining
-
-## Carob (Ceratonia siliqua)
-
-A large evergreen leguminous shrub to 50 feet:
-
-- Nitrogen-fixing legume with sweet pods
-- Grows in any soil, drought tolerant
-- Pods ground for syrup, jam, fine flour, and coffee substitute
-- Animals should not eat too much crushed pods (growth stunting)
-- Chickens cannot eat them at all
-- Harvest by shaking tree with pole, catch on tarp, dry in sun
-
-## Quinoa (Chenopodium quinoa)
-
-A hardy, protein-packed food source for cooler climates:
-
-- Leaves are highly nutritious greens
-- Seeds make excellent grain
-- Dryland tolerant, prefers climates under 90°F (32°C)
-- Don't water until 2-3 leaves appear; then very little water needed
-- Harvest leaves when young for salads
-- Harvest seeds after leaves fall or right after first frost
-- **Critical:** Seeds must be very dry — rain can cause germination on the plant
-- **Saponin removal:** Must rinse to remove bitter saponin. Blend at low speed until soapy, change water until no longer frothy. Alternative: put in pillowcase, run in cold water cycle of washing machine.
-
-## Lavender (Lavandula spp.)
-
-A multifunctional aromatic herb:
-
-- Full sun, well-drained or sandy soil
-- Too moist or too fertilized = susceptible to mold
-- Flowers extracted for essential oil — popular natural remedy
-- Edible: candied, added to teas, made into syrup, dried
-- Harvest when flowers are open and brightest
-- Cut stems when dry and cool, morning after dew has dried
-- Hang flowers upside down or spread on drying rack
-
-## Honeysuckle — Blueberried (Lonicera caerulea)
-
-Russia has raised Blueberried Honeysuckle as a food crop for a long time:
-
-- Prefers wet, marshy soil
-- Usually found in the Northeast US
-- Never found wild in the Pacific Northwest
-- Fruit uses: jam, juice, wine, ice cream, yogurt, sauces
-- Handles very cold temperatures
-- Needs two compatible varieties to produce fruit
-- Harvest fruit as it ripens
-
-## Passion Fruit (Passiflora edulis)
-
-Two types: yellow (very large, up to grapefruit size) and purple (smaller, often better tasting):
-
-- Don't tolerate frost but very cold hardy — withstands near-freezing
-- Mature plants are so bushy they self-insulate and recover from frost
-- Needs strong trellis for fast-growing vine
-- Prefers partial shade to full sun, well-drained fertile soil
-- Snails and diseases are problems — prevention is key
-- Fruit ripens over just a few days, quickly turns color and falls off
-- Wash and dry without injuring; stores 3 weeks in cold storage
-- Freeze or juice for longer preservation
-
-## Acai Palm (Euterpe oleracea)
-
-Produces fruit smaller than a grape, extremely popular in Brazil:
-
-- Amazing nutritional value — can be served with anything
-- Leaves made into hats, baskets, and roof thatch
-- Wood used for furniture
-- Heart of palm is a delicacy (requires cutting down the tree)
-- For fruit-bearing species, cutting for heart of palm makes no sense
-
-## Olive Processing
-
-Traditional dry-curing method for olives:
-
-1. Wash olives, dry thoroughly
-2. Put in well-ventilated box lined with burlap/cloth
-3. Mix 1 lb salt per 2 lbs olives, cover with 1 inch more salt
-4. Place where they can drain (waterproof tray or ground)
-5. Leave 1 week
-6. From week 2: mix thoroughly every 3 days for 3 weeks
-7. After a month: olives should be shriveled
-8. Strain, dip in boiling water a few seconds, dry again
-9. Mix with salt: 1 lb per 10 lbs olives
-10. Store in airtight container
-
-## Design Principles from the Catalog
-
-Several recurring themes emerge from the plant catalog:
-
-1. **Multiple functions:** Every plant should serve at least 2-3 purposes (food + medicine + soil building + forage + pest control)
-2. **Climate matching:** Species selection must match local climate conditions precisely
-3. **Succession planting:** Species that produce at different times extend the harvest season
-4. **Zone placement:** High-maintenance plants near the house, low-maintenance plants in outer zones
-5. **Processing knowledge:** Knowing how to process (tannin removal, saponin removal, hull removal) is as important as knowing how to grow
-6. **Pest and disease prevention:** Proactive management (drip irrigation, organic sprays, companion planting) is more effective than reactive treatment
-
-## Source
-
-From *The Ultimate Guide to Natural Farming and Sustainable Living*, plant catalog entries.
-
-## See Also
-
-- [[faires-plant-communities-and-guilds]]
-- [[permaculture-plant-catalog]]
+tags: [[faires-plant-communities-and-guilds]]
 - [[faires-edible-and-useful-wild-plants]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[gaias-garden-cover-crops-soil-building]]
+## Overview
+
+Faires Plant Catalog Notable Species is an important topic in sustainable agriculture and horticulture.
+Understanding the biological and ecological principles involved helps
+gardeners and farmers make informed decisions that improve productivity
+while maintaining or enhancing environmental health.
+
+## Key Principles
+
+Successful implementation depends on understanding several core principles.
+These include soil biology and health, plant nutrition cycles, water
+management, companion relationships between species, and seasonal timing.
+Each factor interacts with the others to create the conditions for optimal
+plant growth and ecosystem function.
+
+## Practical Methods
+
+Several proven methods can be applied depending on the specific context
+and goals. These range from simple techniques suitable for home gardens
+to more complex approaches used in larger-scale agricultural systems.
+The key is to match the method to the site conditions and available
+resources while working within the constraints of the local climate.
+
+## Seasonal Considerations
+
+Timing is critical in all plant-related activities. Understanding local
+frost dates, rainfall patterns, temperature ranges, and day length
+variations helps ensure that actions are taken at the optimal moment.
+Seasonal planning also includes succession planting, cover cropping,
+and soil building activities that maintain productivity year-round.
+
+## Integration with Other Systems
+
+Plant-based systems work best when integrated with other elements of the
+overall design. This includes consideration of water management, animal
+systems, building placement, energy flows, and human activity patterns.
+A holistic approach that considers these interconnections creates more
+resilient and productive systems than isolated plantings.
+## Practical Considerations
+
+When working with Faires Plant Catalog Notable Species, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

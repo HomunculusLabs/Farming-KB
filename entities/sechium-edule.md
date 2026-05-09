@@ -132,11 +132,7 @@ compared to annual vegetables, supporting soil health and microbial diversity.
 
 ## See Also
 
-- [[momordica-charantia]]
 - [[cucurbita-pepo]]
-- [[ipomoea-batatas]]
 - [[colocasia-esculenta]]
-- [[dioscorea-alata]]
 - [[canna-edulis]]
-- [[carica-papaya]]
 - [[phaseolus-vulgaris]]

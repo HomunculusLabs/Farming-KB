@@ -31,40 +31,16 @@ Unlike bacteria or viruses that must be ingested, many entomopathogenic fungi ca
 
 Several species are commercially available for pest management:
 
-**[[beauveria-bassiana]]** is the most widely used species:
-- Effective against whiteflies, thrips, aphids, beetles, and caterpillars
-- Broad host range makes it versatile for general pest management
-- Available as commercial formulations from multiple suppliers
-- Safe for humans, mammals, and most beneficial insects at recommended rates
-
-**Metarhizium species** specialize in soil-dwelling pests:
-- Effective against root weevils, grubs, and soil-dwelling larvae
-- Persists in soil for months, providing long-term suppression
-- Particularly useful in cannabis for fungus gnat larvae control
-
 **[[cordyceps-and-entomopathogenic-fungi]]** represent diverse specialized species:
 - Many are highly specific to particular insect hosts
 - Some produce visible fruiting bodies from infected insects
-- The [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]] catalog documents their diversity
-
-## Advantages Over Chemical Pesticides
-
-Entomopathogenic fungi offer several important advantages:
-
-- **Safety:** Generally safe for humans, mammals, and non-target beneficial insects
-- **Low resistance:** Pests develop resistance slowly because fungi use multiple infection mechanisms simultaneously
-- **Persistence:** Some species establish in soil and provide ongoing pest suppression
-- **Compatibility:** Can be integrated with other biological and cultural control methods
-- **No residue:** Unlike chemical pesticides, fungal biocontrol leaves no harmful residues on crops
-
-The [[mycopesticides-entomopathogenic-fungi]] reference covers commercial formulations, application rates, and pest-specific recommendations.
+- The [[mycopesticides-entomopathogenic-fungi]] reference covers commercial formulations, application rates, and pest-specific recommendations.
 
 ## Integration with Other Biocontrol Methods
 
 Fungal biocontrol works best as part of an integrated pest management approach:
 
-- Combine with [[trichoderma-harzianum]] soil inoculants for both above and below-ground protection
-- [[singh-entomopathogenic-fungi-biocontrol-agents]] shows that combining fungi with bacteria enhances pest control
+- Combine with [[singh-entomopathogenic-fungi-biocontrol-agents]] shows that combining fungi with bacteria enhances pest control
 - Cultural practices like crop rotation and sanitation reduce initial pest populations
 - Physical barriers like row covers prevent initial pest establishment
 - Beneficial predatory insects complement fungal control by feeding on surviving pest individuals
@@ -88,19 +64,32 @@ For cannabis growers, combining entomopathogenic fungi with regular scouting and
 ## Key Points
 
 - Entomopathogenic fungi infect insects by penetrating the exoskeleton, making them effective against pests that do not eat treated surfaces
-- [[beauveria-bassiana]] is the most commercially available species, targeting a broad range of agricultural pests
-- Metarhizium species are particularly valuable for soil-dwelling pests like grubs and fungus gnat larvae
 - [[cordyceps-and-entomopathogenic-fungi]] represent a diverse group with varying host specificities
 - These fungi are safer for non-target organisms and face lower resistance development than chemical pesticides
 - Environmental conditions, especially humidity and UV exposure, significantly affect field effectiveness
 
 ## Related
 
-- [[query-what-are-mycelium-materials-and-how-are-they-made]]
-
 - [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]] Questions
 
-- [[query-how-to-control-pests-without-chemicals]]
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]
-- [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
+## Practical Considerations
+
+Successful implementation of What Are Entomopathogenic Fungi and How Do They Control Pests? requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

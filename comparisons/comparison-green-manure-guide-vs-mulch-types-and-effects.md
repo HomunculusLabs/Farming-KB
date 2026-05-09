@@ -20,34 +20,6 @@ matter and support soil biology, but they differ in application method,
 timing, nutrient dynamics, and their relationship to soil disturbance.
 
 ## Green Manure
-[[green-manure-guide]]
-
-Green manure crops are grown specifically to add organic matter and nutrients
-to beds that are empty for a period. The practice is particularly valuable on
-light soils that should be kept covered during winter to prevent nutrient
-leaching through drainage. Green manures provide organic matter addition (soft
-green material rots quickly once incorporated), nutrient cycling (deep-
-rooting crops like red clover and lupins reach over 7 feet to bring minerals
-to the surface from subsoil layers), nitrogen fixation (leguminous species
-fix atmospheric nitrogen through root nodules), and weed suppression through
-dense ground cover that outcompetes weeds.
-
-Key green manure species include nitrogen-fixing legumes like alfalfa, broad
-beans, red clover, lupins, and winter tare, plus non-fixing species like
-buckwheat, mustard, and ryegrass. Selection depends on timing (winter vs.
-summer cover), soil needs, and crop rotation constraints. A critical rule:
-never sow a green manure from the same family as the preceding or following
-crop to avoid perpetuating pest and disease cycles in the soil.
-
-Management involves sowing the crop, allowing it to grow, then cutting it at
-the base and allowing it to wilt before digging it into the top 6 inches of
-soil. The crop should not be allowed to become woody before incorporation,
-as woody material rots slowly and can temporarily borrow nitrogen from the
-soil as decomposing microorganisms draw on available nitrogen to break down
-carbon-rich woody tissue. For large crops, a rotary mower can cut the
-material before incorporation with a garden fork or tiller.
-
-## Mulch
 [[mulch-types-and-effects]]
 
 Mulch is any material spread over the soil surface to conserve moisture,
@@ -117,8 +89,6 @@ decomposes over weeks and months.
 ## See Also
 
 - [[comparison-mulching-guide-vs-green-manure-guide]]
-- [[comparison-green-manure-vs-composting]]
 - [[comparison-green-manure-vs-cover-crops]]
-- [[comparison-mulch-vs-cover-crops]]
 - [[comparison-chop-and-drop-mulching-vs-mulching-guide]]
 - [[comparison-living-mulch-vs-cover-crops]]

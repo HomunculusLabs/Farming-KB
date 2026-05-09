@@ -11,38 +11,7 @@ type: concept
 
 # Arbuscular Mycorrhizal Diversity in Grassland Ecosystems
 
-[[arbuscular-mycorrhizal-fungi]] (AMF) form symbiotic associations with the
-roots of the vast majority of grassland plant species, playing foundational
-roles in nutrient cycling, plant community dynamics, and ecosystem stability.
-Singh's treatment of AMF diversity emphasizes that grasslands harbor some of
-the richest and most functionally diverse AMF communities on Earth, with
-composition patterns shaped by complex interactions between plant community
-structure, soil properties, land management practices, and seasonal
-environmental variation.
-
-## AMF Community Composition in Grasslands
-
-Grassland AMF communities typically comprise 30 to 80 morphologically
-distinct taxa within the Glomeromycota, with molecular methods revealing
-even higher operational taxonomic unit (OTU) diversity:
-
-- Dominant families include Glomeraceae, Gigasporaceae, Acaulosporaceae,
-  and Diversisporaceae, each with distinct functional characteristics
-  and host preferences
-- Glomeraceae species (including Rhizophagus and Funneliformis) are
-  often the most abundant, forming extensive intraradical hyphal networks
-  and producing numerous vesicles for lipid storage
-- Gigasporaceae species (Gigaspora and Scutellospora) produce extensive
-  extraradical hyphal networks and large auxiliary cells but lack
-  vesicles, contributing disproportionately to soil exploration
-- Acaulosporaceae species produce distinctive acaulosporic spores formed
-  within the hyphal neck of sporiferous saccules
-- Diversisporaceae and other families contribute specialist functions
-  including tolerance to specific soil conditions
-
-The diversity of AMF communities increases with plant species richness,
-following a well-documented positive correlation that suggests co-evolutionary
-feedbacks between plant and [[fungal-community-assembly]].
+[[fungal-community-assembly]].
 
 ## Seasonal Dynamics
 
@@ -140,11 +109,8 @@ nutrient cycling, and increased susceptibility to invasion by non-mycorrhizal
 plant species. Conservation of AMF diversity is therefore essential for
 maintaining grassland ecosystem services including forage production, carbon
 sequestration, and biodiversity support.
-
 ## See Also
 
-- arbuscular [[mycorrhizal-fungi]] plant interactions - Symbiosis
-  mechanisms underlying AMF function in grasslands
-- [[singh-mycorrhizal-network-chemical-signaling-plants]] - Plant communication
+- arbuscular [[singh-mycorrhizal-network-chemical-signaling-plants]] - Plant communication
   through AMF networks in grassland communities
 - [[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways]] - Nutrient

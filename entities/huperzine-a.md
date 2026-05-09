@@ -112,13 +112,8 @@ Cultivation programs in China and commercial extraction facilities have helped s
 
 ## See Also
 
-- [[l-theanine]]
 - [[bacopa-monnieri]]
-- [[psilocybin-compound]]
-- [[ashwagandha]]
-- [[curcumin]]
+- [[withania-somnifera]]
 - [[ginkgo-biloba]]
-- [[panax-ginseng]]
 - [[rhodiola-rosea]]
-- [[lavandula-angustifolia-entity]]
 - [[valeriana-officinalis]]

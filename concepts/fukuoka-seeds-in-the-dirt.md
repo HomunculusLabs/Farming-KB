@@ -31,14 +31,7 @@ Fukuoka's complete workflow for his grain fields reveals the elegant simplicity 
 2. **Harvest**: Harvest rice while treading on the young shoots of winter grain
 3. **Processing**: After three days drying, thresh the rice and scatter the straw uncut over the entire field
 4. **Amendment**: Scatter chicken droppings over the straw if available
-5. **Rice seeding**: Form [[fukuoka-seed-ball-methods-advanced]] containing seed rice, scatter over the straw before New Year
-6. **Winter**: Nothing left to do — the labor of one or two people suffices for a quarter-acre
-7. **Late May**: Harvest winter grain, noticing clover growing luxuriantly and small rice shoots emerging from clay pellets
-8. **Post-harvest**: Scatter all winter grain straw uncut, flood the field 4-5 days to weaken clover and give rice shoots a chance
-9. **June-July**: Leave the field unirrigated
-10. **August**: Run water through drainage ditches once every week or ten days
-
-"Were I to say that all my method of farming boils down to is the symbiosis of rice and barley or wheat in clover, I would probably be reproached. Yet, that is all there is to it." See [[fukuoka-rice-barley-dual-culture]] for the full grain production cycle.
+5. **Rice seeding**: Form [[fukuoka-rice-barley-dual-culture]] for the full grain production cycle.
 
 ## The Natural Protected Wood
 
@@ -48,7 +41,7 @@ Every natural farm needs a protected wood — a natural preserve that serves as 
 2. **Green manure trees** — planting grasses and trees that send roots deep into the soil, gradually improving it
 3. **Nutrient transport** — enrichment by carrying nutrients built up in the humus of upland woods downhill with rainwater
 
-A bamboo grove may serve equally well as the reserve. A bamboo shoot grows to full size in one year, producing more vegetative growth than ordinary trees. When buried, bamboo's hollow structure retains air and water in the soil, improving soil structure as it decomposes slowly. This approach connects to [[sheet-mulching-lasagna-gardening]] and [[chop-and-drop-mulching]] practices.
+A bamboo grove may serve equally well as the reserve. A bamboo shoot grows to full size in one year, producing more vegetative growth than ordinary trees. When buried, bamboo's hollow structure retains air and water in the soil, improving soil structure as it decomposes slowly. This approach connects to [[chop-and-drop-mulching]] practices.
 
 ## The Three-Year Plan
 
@@ -58,13 +51,7 @@ Fukuoka's practical strategy for any degraded land:
 2. **Year Two**: Reseed heavily with whatever showed any survival. Expect continued high failure. "Anything that shows even the slightest survival rate should be seeded again."
 3. **Year Three**: By now, patterns emerge. "One will begin to have a plan." Vegetation begins to self-organize and compound.
 
-"The same approach and methods for converting farms cultivated with scientific techniques to natural farms can be applied." This mirrors [[composting-and-soil-biology]] in its patience-first approach.
-
-## Starting a Garden
-
-Fukuoka distinguished between the non-integrated garden and the integrated garden. The non-integrated garden is built on hillsides as a separate plot, with most crops being annuals and short growing periods that expose soil to erosion and drought. The integrated garden, by contrast, uses the open space in an orchard to raise an undergrowth of vegetables and field crops — "the very picture of nature."
-
-In the integrated approach, vegetables grow semi-wild among the trees and clover. The farmer observes the types of weeds growing and plants vegetables belonging to the same family of plants — a practice that anticipates [[succession-in-permaculture]]. As the garden matures, it will support any type of crop.
+"The same approach and methods for converting farms cultivated with scientific techniques to natural farms can be applied." This mirrors [[succession-in-permaculture]]. As the garden matures, it will support any type of crop.
 
 ## Clay Pellets as Offering
 
@@ -76,13 +63,26 @@ Modern agriculture demands immediate, measurable results. Natural farming requir
 
 ## Nature's Own Sowing
 
-"The trees and grasses release seeds that fall to the ground, there to germinate and grow into new plants. The seeds sown by nature are not so weak as to grow only in plowed fields." Plants have always grown by direct seeding, without tillage. Human intervention in the seeding process — nursery beds, transplanting, careful spacing — substitutes human anxiety for natural abundance. See [[direct-seeding-techniques]] for modern applications of this principle.
-
-## See Also
-
-- [[fukuoka-seed-ball-methods-advanced]] — practical seed ball techniques
-- [[fukuoka-desert-greening-projects]] — large-scale seeding applications
+"The trees and grasses release seeds that fall to the ground, there to germinate and grow into new plants. The seeds sown by nature are not so weak as to grow only in plowed fields." Plants have always grown by direct seeding, without tillage. Human intervention in the seeding process — nursery beds, transplanting, careful spacing — substitutes human anxiety for natural abundance. See [[fukuoka-seed-ball-methods-advanced]] — practical seed ball techniques
 - [[fukuoka-do-nothing-farming-philosophy]] — the philosophical foundation
-- [[direct-seeding-techniques]] — modern direct seeding practices
 - [[fukuoka-rice-barley-dual-culture]] — the grain production cycle
-- [[composting-and-soil-biology]] — no-till gardening approaches
+- [[ozier-pdc-composting-and-soil-building]] — no-till gardening approaches
+## Practical Considerations
+
+Successful implementation of Seeds in the Dirt requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

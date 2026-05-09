@@ -1,7 +1,7 @@
 ---
 title: fruiting conditions
 created: 2026-04-28
-tags: [mycology, fruiting, mushroom-growing, pinning]
+tags: [[mycology, fruiting, mushroom-growing, pinning]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -83,13 +83,7 @@ Most gourmet mushrooms fruit between 15-22°C (59-72°F). Specific ranges:
 | Shiitake (Lentinula) | 10-20°C (50-68°F) |
 | Lion's Mane (Hericium) | 15-20°C (59-68°F) |
 | Reishi (Ganoderma) | 22-28°C (72-82°F) |
-| King Oyster | 12-18°C (54-64[[agar]]|
-| Button (Agaricus) | 13-18°C (55-64°F) |
-
-### Light
-
-While mushrooms are not photosynthetic, light serves as a directional cue
-for fruiting body development:
+| King Oyster | 12-18°C (54-64[[fruiting-body-development]]:
 
 - Most species need 12 hours on / 12 hours off light cycle
 - Indirect sunlight or 6500K fluorescent/LED lighting is ideal
@@ -101,39 +95,5 @@ for fruiting body development:
 
 Several designs are commonly used:
 
-- **Shotgun Fruiting Chamber (SGFC)**: A plastic tote with many drilled
-  holes on all six sides, filled with damp perlite. Simple, effective for
-  small-scale cultivation. Relies on passive air exchange and perlite
-  humidity.
-- **Monotub**: A larger plastic tote modified with polyfill-stuffed holes
-  for passive FAE and humidity control. Popular for bulk grows.
-- **Martha tent**: A commercial greenhouse tent with humidifier and fan
-  for mid-scale cultivation.
-- **Dedicated fruiting room**: Climate-controlled room for commercial
-  operations, with automated systems for humidity, temperature, and FAE.
-
-## Harvesting
-
-Mushrooms should be harvested at the right stage for optimal quality:
-
-- Harvest just before or as the veil under the cap begins to tear
-- Twist gently at the base rather than cutting to prevent rotting stumps
-- Harvest all mushrooms from a flush promptly to prepare for the next flush
-- Most substrates produce 2-4 flushes with diminishing yields each time
-- After the final flush, spent substrate can be composted or used outdoors
-
-## Flush Management
-
-After harvesting a flush, the substrate needs recovery before the next flush:
-
-- Maintain humidity but reduce FAE slightly for 3-5 days
-- Some growers soak the substrate block in cold water for 4-12 hours to
-  rehydrate before the next flush
-- Second flush typically yields 50-70% of the first flush
-- Third and subsequent flushes continue to decline
-
-## See Also
-
-- [[mushroom-cultivation-fruiting-chambers]]
-- [[mushroom-lighting-and-environmental-requirements]]
+- **[[mushroom-cultivation-fruiting-chambers]]
 - [[mushroom-cultivation-basics]]

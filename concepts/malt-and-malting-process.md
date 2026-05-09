@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Malt and Malting Process
 
@@ -101,17 +102,10 @@ Home maltsters should be prepared for variable results and should test their mal
 
 ## See Also
 
-- [[beer-brewing-basics]] for how to use malt in the brewing process
-- barley varieties for brewing for grain selection
-- ale vs lager fermentation for how malt choices affect fermentation
-- beer styles overview for how different malts define beer styles
 - [[small-scale-grain-growing]] for growing your own brewing grain
-- [[grain-cultivation-small-scale]] for grain farming at home
 - [[history-of-beer-and-brewing]] for the historical development of malting
 
 ## Related
 
-- [[braggot-brewing-guide]]
 - [[what-natural-farming-method-should-i-use]]
-- [[fukuoka-natural-farming-spiritual-light]]
 - [[holzer-stone-fruit-varieties-and-growing]]

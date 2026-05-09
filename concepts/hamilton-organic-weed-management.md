@@ -8,10 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Organic [[weed-management-strategies]]
-
-Weed control in the organic garden relies on physical methods rather than
-chemical weedkillers. [[geoff-hamilton]] strongly advises against chemical
+# Organic [[geoff-hamilton]] strongly advises against chemical
 weedkillers, finding them more time-consuming and awkward to apply between
 cultivated plants than traditional organic methods. The organic approach
 uses hoeing, mulching, ground cover, and careful soil preparation.
@@ -101,25 +98,4 @@ trench 6 inches deep along the fence line, insert a sheet of heavy-gauge
 plastic nailed to the fence base and hanging to the trench bottom, and
 backfill. This provides effective protection for life.
 
-## [[ground-cover-plants]]
-
-The most effective and attractive method of keeping weeds out of
-ornamental borders is competition. Dense planting of shrubs, herbaceous
-plants, and ground cover species creates a canopy that shades the soil
-surface and prevents weed seed germination.
-
-## Useful Weeds
-
-Not all weeds are enemies. Some are beneficial: deep-rooting weeds bring
-up minerals from subsoil; some attract beneficial insects; others can be
-composted to add nutrients. The key is management, not total elimination.
-
-## The Stale Seedbed Technique
-
-Prepare the soil well in advance of sowing. Weed seeds in the top layer
-will germinate, and you can hoe them off before planting your crop.
-Repeat this process several times to progressively reduce the weed seed
-bank in the soil.
-
-See also: [[hamilton-organic-soil-management]], [[hamilton-organic-pest-control]],
-[[hamilton-container-raised-bed-gardening]]
+## [[hamilton-organic-soil-management]], [[hamilton-container-raised-bed-gardening]]

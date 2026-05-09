@@ -73,27 +73,8 @@ ATP turnover in plant cells is remarkably rapid -- a single cell may consume and
 
 Under anaerobic conditions (waterlogged soil), plants shift to fermentation pathways, which produce only 2 ATP per glucose molecule compared to 36-38 from aerobic respiration. This dramatic reduction in ATP yield explains why waterlogged plants quickly show nutrient deficiency symptoms even when nutrients are abundant in the soil. The energy deficit impairs active transport of all essential ions simultaneously.
 
-This energy crisis is particularly relevant to [[plant-nutrient-uptake]], since root cells depend heavily on ATP-driven proton pumps and carrier proteins to acquire minerals from the soil solution. When ATP supply dwindles, the entire nutrient acquisition system grinds to a halt, regardless of soil fertility. Gardeners working with heavy clay soils or poorly drained beds should be especially aware of this connection between soil aeration, root energy metabolism, and nutrient availability.
-
-### ATP in Mycorrhizal Symbiosis
-
-The relationship between ATP and plant-fungal symbioses is also noteworthy. In [[arbuscular-mycorrhizal-fungi]], the fungal partner relies on plant-supplied carbon (ultimately derived from photosynthetic ATP) to fuel its growth and nutrient-scavenging activities. In return, the fungus delivers phosphorus and other minerals to the plant. This cross-kingdom carbon-for-phosphorus trade depends on both organisms maintaining adequate ATP supplies. Understanding ATP dynamics thus provides insight into the metabolic foundation of [[mycorrhizal-networks]] that connect plants underground.
-
-## ATP and Secondary Metabolism
-
-Beyond primary metabolism, ATP fuels the synthesis of secondary metabolites -- compounds that are not strictly required for survival but provide ecological advantages. Plants invest ATP into producing alkaloids, terpenes, phenolics, and defensive compounds that deter herbivores, attract pollinators, or suppress competing plants. Many of these secondary metabolites have practical importance for gardeners: the essential oils in basil and lavender, the capsaicin in hot peppers, and the pyrethrins in chrysanthemum flowers all require significant ATP investment.
-
-## Energy Efficiency in Different Light Conditions
-
-Plants adapt their ATP production strategies to environmental conditions. In full sun, both photosystems operate at capacity, producing abundant ATP and NADPH. Under shade conditions, cyclic photophosphorylation becomes proportionally more important, generating extra ATP without producing NADPH -- since the Calvin cycle requires more ATP than NADPH, this adjustment helps maintain the proper ratio. Understanding these adaptations helps explain why some plants thrive in shade while others demand full sun: their chloroplasts are tuned to different light environments and ATP production regimes.
-
-## Related Topics
-
-- [[photosynthesis-and-chloroplast-function]] -- where light energy becomes chemical energy
-- [[plant-cell-membrane-transport-proteins]] -- ATP-powered ion pumps
-- adenosine triphosphate and cellular energy -- energy currency overview
+This energy crisis is particularly relevant to [[arbuscular-mycorrhizal-fungi]], the fungal partner relies on plant-supplied carbon (ultimately derived from photosynthetic ATP) to fuel its growth and nutrient-scavenging activities. In return, the fungus delivers phosphorus and other minerals to the plant. This cross-kingdom carbon-for-phosphorus trade depends on both organisms maintaining adequate ATP supplies. Understanding ATP dynamics thus provides insight into the metabolic foundation of [[photosynthesis-and-chloroplast-function]] -- where light energy becomes chemical energy
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[fungal-single-cell-protein-production]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 
 ## Practical Context
@@ -116,8 +97,6 @@ control or redesign. When the topic involves cultivation or remediation, small t
 are safer than whole-site changes because they reveal local constraints early.
 
 ## See Also
-- [[holmgren-site-design-as-cellular-design]]
 - [[holmgren-site-design-zones-slopes-cellular]]
 - glutathione and cellular antioxidant defense
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[energy-descent-action-planning]]

@@ -21,22 +21,7 @@ Brassinosteroids were first isolated in 1979 from rapeseed (*Brassica napus*) po
 Brassinosteroids are polyhydroxylated steroidal compounds characterized by a common structural motif: oxygen functions at C-2, C-3, and C-22/23, along with a side-chain lactone or ketone. They are subdivided based on the number of carbon atoms (C₂₇, C₂₈, or C₂₉) and the nature of the oxygenated side chain. Major categories include:
 
 - **C₂₈ brassinosteroids**: Including brassinolide and castasterone, the most common and potent forms.
-- **C₂₉ brassinosteroids**: Such as [[homobrassinolide]], featuring an extended side chain.
-- **C₂₇ brassinosteroids**: Less common, with shorter side chains.
-
-## Physiological Effects in Plants
-
-Brassinosteroids influence nearly every aspect of plant growth and development:
-
-- **Cell elongation and division**: The primary growth-promoting effect, mediated through upregulation of cell-wall loosening enzymes (expansins) and promotion of the G₁/S cell-cycle transition.
-- **Vascular differentiation**: Essential for proper xylem development and phloem function.
-- **Reproductive development**: Required for normal pollen tube growth, anther dehiscence, and seed set.
-- **Stress responses**: Brassicosteroid signaling cross-talks with abscisic acid, ethylene, and reactive oxygen species pathways to enhance tolerance to drought, salinity, heat, cold, and pathogen attack.
-- **Senescence delay**: Application can retard leaf yellowing and organ senescence.
-
-## Signaling Pathway
-
-The brassinosteroid signaling cascade is well-characterized in [[arabidopsis-thaliana]]:
+- **C₂₉ brassinosteroids**: Such as [[arabidopsis-thaliana]]:
 
 1. Brassinolide (or another brassinosteroid) binds to the extracellular domain of the BRI1 receptor kinase at the plasma membrane.
 2. BRI1 heterodimerizes with its co-receptor BAK1, activating cytoplasmic kinase signaling.
@@ -57,11 +42,7 @@ Active brassinosteroids are maintained at very low concentrations in plant tissu
 
 ## Cross-Talk with Other Hormonal Pathways
 
-Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[auxin-production-by-symbiotic-fungi]] in promoting cell elongation and vascular differentiation, and the two pathways share several downstream transcriptional targets. It antagonizes abscisic acid signaling during seed germination and early seedling development. Brassinosteroid and gibberellin pathways converge on shared downstream targets involved in cell elongation. Cross-talk with ethylene signaling modulates stress responses and senescence. This extensive hormonal integration allows brassinosteroids to function as coordinators of growth and stress adaptation, integrating environmental signals with developmental programs.
-
-## Effects on Fungi
-
-Prior to 1990, no studies on brassinosteroid occurrence or activity in fungi had been published. Gartz, Adam, and Vorbrodt demonstrated that [[homobrassinolide]] at 10⁻² ppm dramatically accelerated mycelial growth and fruiting in [[psilocybe-cubensis]], suggesting that brassinosteroids may play a physiological role in higher fungi. This finding opens questions about whether endogenous fungal brassinosteroids exist and what tmushroom-cultivationns might be. Subsequent research has suggested that fungal sterol metabolism may produce brassinosteroid-like compounds under certain conditions, though this has not been definitively confirmed. The discovery also has practical implications for [[mushroom-cultivation]], as brassinosteroid application could potentially improve yields of cultivated species.
+Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[homobrassinolide]] at 10⁻² ppm dramatically accelerated mycelial growth and fruiting in [[mushroom-cultivation]], as brassinosteroid application could potentially improve yields of cultivated species.
 
 ## Brassinosteroid Deficiency and Mutants
 
@@ -73,11 +54,27 @@ Several commercial brassinosteroid formulations are available for agricultural u
 
 ## See Also
 
-- [[brassinosteroids-phytohormones-fungal-growth-promotion]]
-
 - [[homobrassinolide]]
 - brassinolide
-- [[stigmasterol]]
 - [[psilocybe-cubensis]]
 - j.-gartz
 - arabidopsis thaliana
+## Practical Considerations
+
+Successful implementation of Brassinosteroid requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

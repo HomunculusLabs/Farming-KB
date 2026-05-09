@@ -9,7 +9,7 @@ sources:
 ---
 # Fukuoka on Spiritual Aspects of Farming and Nature Connection
 
-In [[fukuoka-road-back-to-nature-overview]], [[natural-farming-fukuoka]] makes explicit what was only implicit in his earlier work: that natural farming is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
+In [[natural-farming-fukuoka]] makes explicit what was only implicit in his earlier work: that natural farming is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
 
 ## The Revelation
 
@@ -53,9 +53,7 @@ The spiritual path requires abandonment of the ego. "One must abandon oneself ea
 
 ## Related Concepts
 
-- [[fukuoka-road-back-to-nature-overview]] — the source book
 - [[fukuoka-road-do-nothing-farming]] — farming as spiritual practice
-- [[fukuoka-road-critique-of-modern-science]] — why intellect separates us from God
 - [[fukuoka-road-one-straw-revolution-continuation]] — the spiritual themes made explicit
 
 ## The Confession: Turning Away from God

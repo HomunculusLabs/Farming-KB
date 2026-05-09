@@ -69,7 +69,7 @@ PIHKAL entry #71. 2,5-DIMETHOXY-4-(n)-PROPYLAMPHETAMINE.
 
 ## Extensions and Commentary
 
-There is a thread of disconnection and of inconsistent reference that pervades most of the reports that I have received concerning the use of DOPR. The word that comes to mind is hypnogogic. There is a drifting into that place that lies between a not-quite-awake and a not-quite-asleep state seems to characterize this compound. There is no question but that it is very potent, and that it is very long-lived. But there is a nagging suggestion of the out-of-body, out-of-center character that is the hallmark of the anesthetic and delusional drugs such as scopolamine or ketamine. With them, the psychedelic effects become clouded with touches of amnesia. If DOPR shows this with it's three carbon alkyl group, thereis every reason to pay close attention as the chain becomes longer.
+There is a thread of disconnection and of inconsistent reference that pervades most of the reports that I have received concerning the use of DOPR. The word that comes to mind is hypnogogic. There is a drifting into that place that lies between a not-quite-awake and a not-quite-asleep state seems to characterize this compound. There is no question but that it is very potent, and that it is very long-lived. But there is a nagging suggestion of the out-of-body, out-of-center character that is the hallmark of the anesthetic and delusional drugs such as [[ketamine]]. With them, the psychedelic effects become clouded with touches of amnesia. If DOPR shows this with it's three carbon alkyl group, thereis every reason to pay close attention as the chain becomes longer.
 
 There had been quite a bit of speculation in the literature that the metabolic attack on DOM was at the 4-position, and this was an oxidation process. In a moment of inspiration, I decided to explore a similar oxidation step in DOPR, since it is probably the most potent of the DO-series. Why not make the compound which would be the first step in this oxidation, the 1-hydroxypropyl analogue? This I did, by using the phthalimide derivative of 2,5-dimethoxyamphetamine (described in the synthesis of DOI) and making the propiophenone using propionic acid as both reagent and solvent, and polyphosphoric acid as the condensing agent. The ketone product (a white crystalline solid from methanol) was dissolved in warm methanol and reduced to the alcohol with sodium borohydride. This product, also a white crystalline solid, was stripped of the phthalimide blocking group with overnight refluxing with hydrazine in ethanol. The product, 2,5-dimethoxy-4-(1-hydroxypropyl)-amphetamine (hydroxy-DOPR) had a mp of 148-150 deg C from IPA. Its activity is not yet known, but there were no effects at all at trials, orally, of up to 200 micrograms.
 
@@ -101,10 +101,7 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[dopr-entity]]
-
 - [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)

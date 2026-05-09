@@ -76,15 +76,10 @@ Studying endophytic fungi requires specialized isolation and identification tech
 
 ## See Also
 
-- [[clavicipitaceous-grass-endophytes]]
 - [[dark-septate-endophytes]]
-- [[biodiversity-fungi-endophytes-tropical-plants]]
 - [[bacterial-endophytes-plant-roots]]
 
-- [[endophytic-fungal-diversity]]
 - [[bacterial-endophytes-plant-roots]]
-- [[bacterial-endophyte-isolation-detection-plant-roots]]
 - [[arthropod-associated-fungi]]
-- [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]
 - [[gadd-fungal-biodiversity-conservation]]

@@ -113,11 +113,7 @@ The strawyard and throwover pen integrate with:
 
 ## See Also
 
-- [[permaculture-chicken-tractors]]
 - [[chickshaw-and-poultry-tractors]]
-- [[poultry-housing-guide]]
 - [[free-range-poultry-forage-design-mollison]]
-- [[mollison-free-range-poultry-forage-design]]
 - [[mollison-orchard-poultry-integration-and-woodlot-design]]
-- [[mollison-poultry-duck-integration]]
 - [[plant-micronutrients-and-their-essential-functions]]

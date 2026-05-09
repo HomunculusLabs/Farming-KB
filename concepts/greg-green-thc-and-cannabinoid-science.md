@@ -13,8 +13,7 @@ with THC (tetrahydrocannabinol) being the primary active ingredient. Greg
 Green's Cannabis Grow Bible provides a detailed overview of cannabinoid
 science, including the distinction between THC levels and THC quantities,
 the various cannabinoid types, and how they contribute to the cannabis
-experience. See also [[green-cannabis-potency-maximizing]] and
-[[green-cannabis-grow-bible-hash-making-and-trichome-extraction]].
+experience. See also [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]].
 
 Understanding cannabinoid science helps growers make informed decisions
 about strain selection, growing techniques, and harvest timing. Green's
@@ -22,38 +21,7 @@ treatment of this topic is notably accessible, breaking down complex
 biochemistry into practical concepts that every grower can apply to
 improve their results.
 
-## Delta 9 THC and Delta 8 THC
-
-Cannabis plants produce psychoactive ingredients called cannabinoids. The
-main cannabinoid that gives the high effect is called delta 9 THC. All
-strains vary in THC levels that come in different percentages. Some
-plants may contain 100% THC but the levels of THC may be low. Other
-plants have only 60% THC, but the levels of THC may be very high.
-
-A good potent plant will have both levels and quantities very high.
-Cannabis plants also produce delta 8 THC. This ingredient is present in
-low levels but does contribute to the overall high. When Green mentions
-THC levels, he is referring to both delta 8 and delta 9 THC combined.
-
-The distinction between levels and quantities is crucial. THC levels are
-genetic and cannot be changed by the grower. THC quantities are under the
-grower's control and relate to bud mass and how much resin the plant can
-generate. A plant with a genetic THC level of 5 might produce only 20%
-THC quantity under poor conditions but 70% under optimal conditions. The
-genetic level remains the same, but the total yield of active compounds
-changes dramatically.
-
-This distinction is empowering for growers because it means that while
-they cannot change the inherent potency of their genetics, they can
-significantly influence the total amount of THC produced per plant through
-better growing practices. Proper lighting, nutrition, and care all
-contribute to maximizing THC quantities within the plant's genetic limits.
-
-## Minor Cannabinoids
-
-Beyond THC, there are other ingredients that add to the cannabis
-experience. These include CBD (cannabidiol), CBN (cannabinol), THCV
-(tetrahydrocannabivarin), CBDV (cannabidivarin), CDC, and CBL. However,
+## Delta 9 THC and [[cannabidivarin]]), CDC, and CBL. However,
 these are only present in very minor quantities compared to THC.
 
 CBD has gained significant attention for its non psychoactive therapeutic

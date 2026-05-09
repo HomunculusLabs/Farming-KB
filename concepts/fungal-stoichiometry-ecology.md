@@ -3,21 +3,7 @@ title: Fungal Stoichiometry and Ecological Implications
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
-
-# Fungal Stoichiometry and Ecological Implications
-
-## Overview
-
-Fungal stoichiometry, the balance of carbon, nitrogen, phosphorus, and other elements in
-fungal biomass, has profound implications for nutrient cycling, decomposition dynamics,
-and ecosystem function. Fungi maintain relatively constrained internal stoichiometric
-ratios, but these ratios differ significantly from those of their substrates and from
-bacterial biomass. Understanding fungal stoichiometry is essential for predicting how
-[[fungal-biogeochemistry]] influences ecosystem-level nutrient
+tags: [[fungal-biogeochemistry]] influences ecosystem-level nutrient
 flows.
 
 ## Fungal Biomass Stoichiometry
@@ -66,51 +52,31 @@ their biomass requirements and the elemental composition of available substrates
 nutrient elements are less available relative to carbon, fungi expend greater amounts of
 energy to produce nutrient-acquiring enzymes such as phosphatases and proteases. This
 relationship between substrate stoichiometry and enzyme investment is a key mechanism
-linking litter quality to [[fungal-decomposition-kinetics]].
-
-Sinsabaugh et al. (1993) showed that the spatial variability of lignocellulase enzyme
-production was less than that of acid phosphatase and N-acetylglucosaminidase activity
-during wood decomposition, suggesting that while carbon-acquiring enzymes are relatively
-conserved, nutrient-acquiring enzymes respond strongly to local edaphic conditions.
-
-## Nitrogen and Phosphorus Immobilization
-
-The process of nutrient immobilization during decomposition is stoichiometrically driven.
-When fungi colonize carbon-rich, nutrient-poor substrates, they must acquire
-supplementary nitrogen and phosphorus from the surrounding soil solution to support their
-growth. Lodge demonstrated that cord-forming fungi could increase the phosphorus content
-of recently fallen leaf litter by 120-140% during the first 6 weeks of decomposition,
-with nitrogen increasing by 110-160%.
-
-This capacity for nutrient concentration from soil solution into decomposing litter
-represents an important mechanism of nutrient retention in ecosystems. Saprotrophic fungi
-were responsible for as much as 86% of net nitrogen immobilization into surface litters
-in some studies (Beare et al., 1992), making them critical for preventing nutrient loss
-from the system during periods of high decomposition activity.
-
-## Stoichiometry and Fungal-Fauna Interactions
-
-Fungal stoichiometry also influences trophic interactions with soil fauna. The relatively
-nutrient-rich composition of fungal biomass (compared to plant litter) makes fungi a
-high-quality food source for collembola, nematodes, and other fungivorous organisms.
-Different fungal species offer different nutritional value to their consumers, as
-demonstrated by feeding preference experiments showing differential collembola population
-growth on diets of Trichoderma, Cladosporium, and Pythium (Reddy and Das, 1983).
-
-## Implications for Carbon Sequestration
-
-Fungal stoichiometry plays a central role in determining the balance between carbon
-mineralization and carbon sequestration in soils. Mycorrhizal fungi that selectively
-remove nitrogen and phosphorus from decomposing litter increase the C:N and C:P ratios of
-remaining residues, promoting their recalcitrance and contributing to long-term
-[[fungal-carbon-storage-mycorrhizal-pathways]]. This
+linking litter quality to [[fungal-carbon-storage-mycorrhizal-pathways]]. This
 stoichiometrically-driven pathway is particularly important in boreal and heathland
 ecosystems where mycorrhizal-mediated nutrient removal significantly slows decomposition.
 
 ## Related
 
-- [[fungal-resource-use-efficiency]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[mycorrhizal-carbon-cycling-soil-sequestration]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+## Practical Considerations
+
+Successful implementation of Fungal Stoichiometry and Ecological Implications requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

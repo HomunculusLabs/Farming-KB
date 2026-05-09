@@ -1,7 +1,7 @@
 ---
 title: "Arthropod-Dispersed Fungi and Spore Interactions"
 created: 2026-04-28
-tags: [mycology, arthropod-dispersal, spore-dispersal, entomogenous-fungi, ecology]
+tags: [[mycology, arthropod-dispersal, spore-dispersal, entomogenous-fungi, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -32,58 +32,7 @@ Arthropods that routinely use fungi as a nutritional resource, grazing
 on hyphae or spore-containing structures, may disperse their food source
 as they move to new habitats. Bees and other flower-visiting insects
 actively collect fungal spores on occasion. The crucifer rusts such as
-[[rust-fungi-biodiversity-life-cycles]] thlaspeos and P. monoica inhibit flowering of their hosts
-and cause pseudoflowers to develop, attracting pollinating insects that
-disperse rust spores.
-
-Some fungi are entirely dependent on arthropods for dispersal of
-diaspores, often to ephemeral substrata. Mites are essential in some
-dispersal associations because certain fungi sporulate deep within
-beetle galleries, and the beetles may undergo their last molt in the
-outer bark, losing previously accumulated spores.
-
-## Ophiostomatoid Fungi and Bark Beetle Associations
-
-In addition to [[bark-beetle-fungi-ophiostomatales-collection-isolation]] and [[bark-beetle-fungi-ophiostomatales-collection-isolation]], other filamentous
-ascomycete genera such as Melanospora, Kathistes,
-Subbaromyces, and Sphaeronemella may depend completely on
-arthropod dispersers, as suggested by their long-necked ophiostomatoid
-perithecia. These fungi typically sporulate deep within bark beetle
-galleries and require arthropod vectors to reach new substrata.
-
-[[insect-arthropod-associated-fungi]], sometimes assigned to the [[laboulbeniales-ectoparasitic-arthropod-associated-ascomycetes]], has a
-well-developed ascospore attachment region that may penetrate the
-arthropod exoskeleton with a haustorium. The ascospore develops into a
-few-celled, conidium-producing anamorph called Thaxteriola. Within the
-substratum, Pyxidiophora often is a contact mycoparasite with some host
-specificity. Several other ascomycete genera with ophiostomatoid
-morphology and arthropod associations also are known or suspected
-mycoparasites.
-
-## Capilliconidia and Specialized Dispersal Structures
-
-Basidiobolus and several members of the Entomophthorales
-produce a specialized diaspore, the capilliconidium, adapted for
-dispersal by arthropods or other invertebrates. At the time of dispersal
-an attached spore produces a sticky droplet at its distal end by which
-it adheres to passing objects, breaking from the capilliconidium at a
-weak place. In Basidiobolus the attached spore can cleave internally
-into ovoid segments, though these have not been observed to germinate.
-
-Myxomycete sporangia often harbor spore- or plasmodium-eating beetles,
-flies, and mites. Beetles in three or more families are referred to as
-slime-mold beetles. Their surfaces sometimes resemble an egg carton with
-spore-size depressions. Slime-mold dispersers may also carry yeasts
-that serve as food for somatic stages of the slime molds.
-
-## Collection and Laboratory Methods
-
-To discover fungi on arthropod surfaces, investigators observe potential
-substrata in moist chambers or examine arthropod surfaces using a
-high-powered dissecting microscope or compound microscope. Mites are
-especially productive to examine, as they are easily mounted on
-microscope slides. Observations of mites led to the discovery of
-[[insect-arthropod-associated-fungi]] species living in beached seaweeds.
+[[bark-beetle-fungi-ophiostomatales-collection-isolation]] and [[insect-arthropod-associated-fungi]], sometimes assigned to the [[insect-arthropod-associated-fungi]] species living in beached seaweeds.
 
 Many of the spores described cannot withstand desiccation and must be
 processed immediately if moist chamber techniques are to succeed. Some
@@ -130,12 +79,7 @@ between insect and ascomycete DNA templates.
 
 ## See Also
 
-- [[biodiversity-sequestrate-fungi]]
-
 - [[biodiversity-fungicolous-mycoparasitic-fungi]]
 
-- [[biodiversity-endolithic-fungi]]
-
 - [[biodiversity-fungi-insect-symbiosis]] for gardening symbioses
-- [[biodiversity-fungi-spore-dispersal]] for wind and other dispersal mechanisms
 - [[biodiversity-fungi-molecular-methods]] for laboratory techniques

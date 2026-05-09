@@ -22,36 +22,6 @@ cultivation success rate, growth speed, and genetic consistency, making it one
 of the most important decisions in mushroom growing.
 
 ## Mushroom Liquid Culture
-[[mushroom-liquid-culture]]
-
-Liquid culture is a suspension of living mycelium growing in a sterilized
-nutrient broth, typically composed of water, light malt extract, honey, or
-sugar. The mycelium is already actively growing and can be inoculated directly
-into grain spawn, bulk substrate, or agar plates. Because the mycelium is alive
-and vegetatively growing, colonization begins immediately upon inoculation with
-no germination phase, dramatically reducing the time to full colonization and
-the window of vulnerability to contamination.
-
-The primary advantage of liquid culture is speed and reliability. LC inoculation
-typically colonizes grain jars in 7-14 days, compared to 3-4 weeks for spore
-inoculation. The living mycelium is already established and growing, giving it a
-significant competitive advantage over contaminant organisms. A single liquid
-culture jar can inoculate dozens of grain jars, making LC extremely cost-
-effective at scale. LC also allows growers to preserve and propagate specific
-strains with desirable characteristics, maintaining genetic consistency across
-multiple grows.
-
-The limitations of liquid culture include the need for sterile preparation
-(pressure cooking the nutrient solution and working in a still air box or flow
-hood), the risk of hidden contamination that can spread to every jar inoculated
-from a single LC batch, and the fact that LC is technically illegal to sell in
-many jurisdictions because it contains living fungal tissue of controlled
-species. Cultivators must either purchase from underground suppliers or produce
-their own, which requires a sterile culture from agar or a confirmed clean spore
-germination. Despite these challenges, liquid culture is the preferred method
-for experienced cultivators who prioritize speed, consistency, and scalability.
-
-## Spore Syringe
 [[spore-syringe]]
 
 A spore syringe is a suspension of microscopic spores collected from the gills
@@ -126,8 +96,6 @@ also create their own LC by germinating spores directly in nutrient broth,
 though this produces genetically variable LC rather than clonal material.
 
 ## See Also
-- [[agar-culture-technique]]
 - [[grain-spawn-preparation]]
-- [[sterile-technique-mushroom-cultivation]]
 - [[sterilization-techniques-mushroom-cultivation]]
 - [[strain-isolation-from-wild-specimens]]

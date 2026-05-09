@@ -109,15 +109,9 @@ The fungus is also used in Korean traditional medicine (sanghwang) and Japanese 
 
 ## See Also
 
-- [[sanghuangporus-sanghuang]]
-
 - [[sanghuangporus-baumii]]
-- [[inonotus-obliquus]]
 - [[phellinus-linteus]]
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[fomes-fomentarius]]
+- [[trametes-versicolor-entity]]
 - [[grifola-frondosa]]
-- [[polyporus-umbellatus]]
 - [[wolfiporia-extensa]]
 - [[poria-cocos]]

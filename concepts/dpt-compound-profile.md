@@ -81,12 +81,8 @@ Synthesized from tryptamine or indole via standard reductive amination with dipr
 
 ## Related
 
-- [[dpt]]
 - [[5-meo-dmt-compound-profile]] — for the most well-known tryptamine
-- [[tryptamine-family-overview]] — for tryptamine chemistry overview
 - [[tihkal-introduction-and-methodology]] — for Shulgin's methodology
-- [[lsd-therapeutic-history]] — for psychedelic therapy history
 - [[psychedelic-research-legal-history-united-states]]
-- [[psilocybin-psychotherapy-research-history]]
 - [[psilocybin-toxicity-and-safety-profile]]
 - [[psilocybin-mushroom-legal-history]]

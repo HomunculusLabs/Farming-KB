@@ -70,15 +70,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[lactic-acid-bacteria]]
 - [[lactobacillus]]
-- [[dom]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 
 ## See Also
 
-- [[lactobacillus-plantarum]]
 - [[lactobacillus-brevis]]
-- [[indigenous-microorganisms]]
 - [[saccharomyces-cerevisiae]]
 - [[bacillus-subtilis|Bacillus subtilis]]

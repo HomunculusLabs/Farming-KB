@@ -110,11 +110,8 @@ The spongy leaf parenchyma has been used as a packing material and wound dressin
 
 - lemnaceae
 - eichhornia crassipes
-- [[nuphar-lutea]]
 - [[lemna-minor]]
-- [[trapa-natans]]
 - [[euryale-ferox]]
-- [[colocasia-esculenta]]
 - [[phytoremediation]]
 - [[kaempferol]]
 - apigenin

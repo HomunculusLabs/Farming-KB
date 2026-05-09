@@ -105,46 +105,7 @@ Additional: organic acids (citric, malic, tartaric), vitamins C/E, trace volatil
 
 **Anti-inflammatory:** Schisandrin and schisantherin A suppress NF-κB and MAPK pathways, reducing TNF-α, IL-6, IL-1β via IκB kinase inhibition.
 
-**Neuroprotective:** Schisandrin B protects against glutamate excitotoxicity and amyloid-beta toxicity. Modulates BDNF/TrkB signaling and reduces neuroinflammation, supporting use as a [[nootropic-herbs-guide|nootropic]].
-
-**Other:** Immunomodulatory (enhances antibodies, phagocytosis), anti-fatigue (extends endurance), cardioprotective (reduces ischemia-reperfusion injury), antitumor (apoptosis in HCC lines).
-
-## Cultivation
-| Parameter | Requirement |
-|-----------|-------------|
-| USDA Zones | 4–8 |
-| Light | Partial shade preferred; tolerates full sun |
-| Soil | Well-drained, loamy, slightly acidic (pH 5.5–6.5) |
-| Water | Moderate; consistent moisture, not waterlogged |
-| Propagation | Seed (90-day stratification), softwood cuttings, layering |
-| Spacing | 1–2 m |
-| Support | Trellis, fence, or pergola required |
-| Time to fruit | 3–4 yr from seed; 1–2 yr from cutting |
-| Yield | 2–4 kg dried fruit per mature vine |
-
-Requires both sexes (1 male per 5–8 female). Prune late winter. Pests: scale insects, spider mites; fungal leaf spot in humidity.
-
-## Preparations and Dosage
-
-- **Decoction** — 2–6 g dried fruit, boiled 15–20 min
-- **Tincture (1:5, 60% ethanol)** — 2–4 mL, 2–3× daily
-- **Standardized extract** — 200–500 mg/day (schisandrins)
-- **Omija tea** — dried berries in hot or cold water (Korean)
-
-## Safety and Contraindications
-
-- Well-tolerated at standard doses; GI upset possible at high doses
-- Inhibits CYP3A4 and P-glycoprotein — interacts with warfarin, tacrolimus
-- Contraindicated in acute inflammatory conditions with excess heat (TCM)
-- Avoid during pregnancy without supervision
-- Caution in epilepsy — some lignans lower seizure threshold in animal models
-
-## See Also
-
-- [[adaptogenic-herbs-guide]] — comprehensive guide to adaptogenic herbs
-- [[nootropic-herbs-guide]] — cognitive-enhancing botanicals
-- hepatoprotective herbs — liver-protective plant medicines
-- traditional chinese medicine herbs — TCM herbal materia medica
+**Neuroprotective:** Schisandrin B protects against glutamate excitotoxicity and amyloid-beta toxicity. Modulates BDNF/TrkB signaling and reduces neuroinflammation, supporting use as a [[adaptogenic-herbs-guide]] — comprehensive guide to adaptogenic herbs
+- [[herbal-materia-medica]]
 - schisandra sphenanthera — Southern Schisandra, related medicinal species
-- [[ashwagandha]] — *Withania somnifera*, another prominent adaptogen
 - [[rhodiola-rosea]] — Arctic root, comparative adaptogenic profile

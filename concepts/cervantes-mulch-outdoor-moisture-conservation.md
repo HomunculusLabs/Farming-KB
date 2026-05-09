@@ -107,7 +107,7 @@ Always put a heavy layer of mulch (30+ cm) around outdoor plants to
 keep soil elements protected and moisture conserved. Replenish organic
 mulches as they decompose throughout the growing season.
 
-For comprehensive outdoor growing information, see [[outdoor-cannabis-growing]]. For soil amendment details, see [[cervantes-organic-amendments-chart]].
+For comprehensive outdoor growing information, see [[cervantes-organic-amendments-chart]].
 
 ## Mulch in Container Gardens
 
@@ -129,9 +129,7 @@ season.
 
 ## Related Concepts
 
-- [[outdoor-cannabis-growing]] - complete outdoor cultivation guide
 - [[cervantes-organic-amendments-chart]] - organic soil inputs
-- [[cannabis-advanced-growing-techniques]] - organic cultivation methods
 - [[cervantes-companion-planting-pest-deterrent]] - companion plants
   as living mulch
 - [[cervantes-container-gardening-pot-size]] - container mulching

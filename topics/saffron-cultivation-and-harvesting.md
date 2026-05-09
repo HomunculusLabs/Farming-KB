@@ -368,3 +368,10 @@ Saffron is well-suited to organic production due to its low input requirements a
 - Obtain certification from an accredited body (USDA NOP, EU Organic, etc.)
 
 Organic saffron typically commands a 20–50% price premium over conventional product, making certification economically attractive for small-scale growers.
+
+## Merged: "Saffron vs Turmeric Cultivation"
+A grower-facing comparison of two of the world's most valuable spice crops: **saffron** (*[[crocus-sativus]]*) and **turmeric** (*[[curcuma-longa]]*). While both command premium prices, their production systems, input requirements, and risk profiles differ dramatically.
+| Factor | Saffron | Turmeric |
+|--------|---------|----------|
+| Climate zone | Mediterranean / temperate (USDA 5–9) | Tropical / subtropical (USDA 8–12) |
+| Temperature range | 15–25 °C active growth; winter chill required | 20–35 °C year-round; no frost tolerance |

@@ -105,38 +105,12 @@ mechanism not found in other vitamin C-rich fruits.
 ## Traditional Medicine
 
 In Ayurveda, amla is one of the most important rasayana herbs and one of the
-three fruits in *Triphala* (with [[terminalia-chebula]] and *Terminalia
-bellirica*). It is unique among common herbs in possessing all six rasas
-(tastes). Classically indicated for alopecia, premature graying, skin
-disorders, bleeding, diabetes, fever, and digestive weakness. In TCM, the
-dried fruit nourishes yin and treats chronic cough with bloody sputum.
-
-## Cultivation
-
-- **Propagation:** Seed (60-70% germination); grafting preferred for clonal
-  consistency
-- **Spacing:** 8-10 m × 8-10 m (123-156 trees/ha)
-- **Yield:** 150-200 kg/tree at maturity (8-10 yr); up to 300 kg managed
-- **Commercial cultivars:** 'Chakaiya', 'Banarasi', 'NA-7', 'Kanchan',
-  'Amrit', 'Krishna'
-- **Pests:** Bark-eating caterpillars, shoot gall maker; relatively
-  pest-resistant
-
-## Permaculture and Agroforestry
-
-- Deep taproot stabilizes soil and cycles nutrients from subsoil
-- Excellent windbreak and boundary tree in tropical food forests
-- High drought tolerance suits dryland agroforestry systems
-- Canopy provides light shade for understory herbs and shrubs
-- Compatible intercrop partners: legumes, [[curcuma-longa]], ginger, medicinal
+three fruits in *Triphala* (with [[curcuma-longa]], ginger, medicinal
   herbs in early years before canopy closure
 
 ## See Also
 
-- [[phyllanthus-niruri]]
-
 - [[terminalia-chebula]] — Co-component of Triphala formulation
-- [[moringa-oleifera]] — Companion tropical multipurpose tree
 - [[curcuma-longa]] — Intercrop companion in tropical systems
-- [[tinospora-cordifolia]] — Ayurvedic rasayana often combined with amla
+- tinospora-cordifolia — Ayurvedic rasayana often combined with amla
 - [[bacopa-monnieri]] — Nootropic Ayurvedic herb, common formulation partner

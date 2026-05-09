@@ -112,16 +112,6 @@ agriculture is perhaps the most dangerous delusion of the modern food system.
 
 ## Connection to Broader Critique
 
-This analysis connects directly to [[fukuoka-textdoc-energy-wasteful-modern-agriculture]], where Fukuoka demonstrates that mechanized agriculture requires
-ten to fifty times the energy input of natural farming. The livestock and
-fishing industries represent the same fundamental error: using enormous energy
-inputs to produce outputs that nature could provide freely and abundantly if
-left to her own devices.
-
-## See Also
-
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-critique-modern-livestock]]
+This analysis connects directly to [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
-- [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-food-civilization-critique]]

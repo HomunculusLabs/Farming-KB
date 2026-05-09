@@ -3,16 +3,7 @@ title: Simplified PDA Medium Preparation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
----
-
-Updated: 2026-04-18
-
-Source: FAO RAP Publication 2001/12, "A Training Manual on Mushroom Cultivation for People with Disabilities" by Johanne Hanko.
-
-A simplified [[mushroom-agar-media-recipes]] preparation method suitable for small-scale production, demonstrated by disabled trainees in Thailand. This procedure is used for [[comparison-tissue-culture-vs-wild-isolation]] maintenance and [[mushroom-spawn-making-detailed]].
+tags: [[mushroom-agar-media-recipes]] preparation method suitable for small-scale production, demonstrated by disabled trainees in Thailand. This procedure is used for [[mushroom-spawn-making-detailed]].
 
 ## Ingredients
 
@@ -72,7 +63,7 @@ Healthy PDA plates should appear clear to slightly cloudy amber with no discolor
 
 ## Variations
 
-Lower-cost alternatives to standard PDA include using sweeter potatoes (higher natural sugar content reduces need for added dextrose), or substituting dextrose with malt extract or honey (use 10g instead of 10g dextrose). Potato carrot agar (PCA) uses a 1:1 mix of potato and carrot extract, providing additional vitamins beneficial for [[mycelium-as-network-organism]] growth. For [[lichens]] and slow-growing fungi, a weaker medium (half-strength PDA) often produces better isolation results.
+Lower-cost alternatives to standard PDA include using sweeter potatoes (higher natural sugar content reduces need for added dextrose), or substituting dextrose with malt extract or honey (use 10g instead of 10g dextrose). Potato carrot agar (PCA) uses a 1:1 mix of potato and carrot extract, providing additional vitamins beneficial for [[lichens]] and slow-growing fungi, a weaker medium (half-strength PDA) often produces better isolation results.
 
 ## Notes for Small-Scale Producers
 
@@ -85,5 +76,4 @@ Lower-cost alternatives to standard PDA include using sweeter potatoes (higher n
 
 Mature mycelium on PDA can be kept in a cool place or in the refrigerator (vegetable section) for extended storage. Check periodically for contamination.
 
-See also: [[mushroom-agar-media-recipes]], [[mushroom-agar-work]], [[mushroom-spawn-making-detailed]], [[tissue-culture-cloning]], [[mushroom-cultivation-for-disabilities-training-program]]
-- [[fukuoka-vegetable-growing-natural-method]]
+See also: [[mushroom-agar-work]], [[tissue-culture-cloning]], [[fukuoka-vegetable-growing-natural-method]]

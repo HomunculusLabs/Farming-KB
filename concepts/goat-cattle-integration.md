@@ -73,18 +73,10 @@ In cool climate systems, Mollison describes the integration of livestock with ha
 
 ## See Also
 
-[[permaculture-domestic-animals]]
-
 [[permaculture-integrated-animal-systems]]
-
-[[mollison-animal-integration-in-permaculture]]
 
 [[animal-tractoring]]
 
-[[permaculture-grazing-and-pasture]]
-
 [[forage-systems-animals-permaculture]]
-
-[[urban-permaculture-fodder-trees-livestock]]
 
 [[permaculture-design]]

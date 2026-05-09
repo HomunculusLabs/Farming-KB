@@ -10,18 +10,7 @@ sources: ["papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.
 # Fungal Disease Case Studies - AACT Treatments
 
 Extracted from Elaine Ingham's AACT Field Guide, covering fungal disease
-suppression using [[ingham-aact-disease-suppression]] and actively aerated
-compost tea.
-
-## Core Principle: Occupation Not Eradication
-
-AACT does not kill pathogens through toxic interactions. The beneficial
-organisms occupy space, use up the food resources that disease organisms
-would need, and thus the disease organisms cannot find a way to infect the
-plant. All surfaces are protected. This is NOT a pesticide effect. There are
-no toxic chemicals involved.
-
-See [[ingham-anaerobic-vs-aerobic-compost-tea]] for the contrast with
+suppression using [[ingham-anaerobic-vs-aerobic-compost-tea]] for the contrast with
 anaerobic brews, which produce toxic compounds and could be considered
 pesticides requiring EPA registration.
 
@@ -93,34 +82,6 @@ grow on. Control the insects making the honeydew and apply AACT.
 
 ## Bacterial vs Fungal Tea Decision Matrix
 
-See [[bacterial-vs-fungal-compost-teas]] for full discussion.
-
-| Disease | Bacterial Tea Only | Fungal Tea Required |
-|---------|-------------------|-------------------|
-| Black spot (normal year) | Yes | Preferred in bad years |
-| Apple scab | Sometimes | Yes, for reliability |
-| Powdery mildew (mild year) | Possible | Yes |
-| Foliar anthracnose | Yes | -- |
-| Root/crown anthracnose | No | Yes |
-| Taphrina (leaf curl) | Yes | Yes, preferred |
-| Rust | Possible | Yes |
-| Sooty mold | Yes (occupies surface) | -- |
-
-**Critical threshold:** Fungi need to be at a minimum level to see disease
-suppression. Fungal biomass of anything over 2 micrograms per ml in the tea
-shows good control of mildew, verticillium, and blight. Any time oxygen
-concentration falls below 5.5 to 6 ppm oxygen, beneficial fungi will be
-lost.
-
-## Key Takeaways
-
-- Coverage is the primary mechanism -- occupy all leaf surfaces
-- Bacterial tea handles easy cases; fungal tea needed for severe conditions
-- Maintaining oxygen in tea above 5.5-6 ppm is critical for fungal survival
-- AACT is a preventative, not a pesticide -- consistent application required
-- Fungi must be brought back in order to suppress disease, hold calcium,
-  nitrogen, phosphorus, and build [[fungal-roles-soil-food-webs]]
-- [[ingham-disease-case-studies-bacterial]]
+See [[fungal-roles-soil-food-webs]]
 - [[ingham-weed-control-through-biology]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[compost-biology-soil-food-web-inoculation]]

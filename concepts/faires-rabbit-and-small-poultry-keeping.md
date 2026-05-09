@@ -3,23 +3,7 @@ title: Rabbit and Small Poultry Keeping
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Rabbit and Small Poultry Keeping
-
-Small livestock — rabbits, pigeons, and quail — are especially practical for urban and suburban homesteaders because they are legal in most places (including where chickens are banned), quiet, and require minimal space. In the [[permaculture-zones-system]], they fit best in Zone 1 near the house or at the edge of Zone 2 where their waste can feed the garden and [[faires-composting-and-vermiculture]].
-
-## Rabbits
-
-permaculture system, rabbits are not pets — they provide meat, manure, and fur. Unlike other animals, they can never be allowed to roam gardens freely because they will eat everything and multiply uncontrollably.
-
-### Housing
-
-- Hutch with mesh floor so droppings fall through for easy cleanup
-- Wire mesh no larger than half an inch
-- Place a [[worm-bin-types-comparison]] underneath for vermicompost — eliminates cleanup and creates fertilizer
+tags: [[permaculture-zones-system]], they fit best in Zone 1 near the house or at the edge of Zone 2 where their waste can feed the garden and [[worm-bin-types-comparison]] underneath for vermicompost — eliminates cleanup and creates fertilizer
 - Keep clean, dry, and sheltered from weather
 - Rabbits are especially practical for urban homesteaders because hutches are legal in most places
 
@@ -94,51 +78,5 @@ Pigeons provide squabs (young pigeons, considered a gourmet dish) and eggs. A br
 
 ## Quail
 
-Quail are exceptionally space-efficient — up to 6 can be raised per square foot (though more space is better for [[homesteading]]). They eat insects (not plants), so they can live in the greenhouse without damaging crops. They are raised more often for eggs than meat, since they are smaller than pigeons but lay more prolifically.
-
-### Housing
-
-- Smaller cages than pigeons
-- Can live in the greenhouse — they eat insects and don't damage plants
-- Need help hatching eggs (poor brooders, like chickens)
-
-### Egg Production
-
-- About 200 eggs per year under natural light (nearly one per day)
-- With supplemental lighting in winter, 300+ eggs per year
-- More often raised for eggs than for meat
-
-### Breeding
-
-- Coturnix (Japanese) quail: eggs hatch in 18 days
-- Eastern Bobwhite quail: eggs hatch in 23 days
-- Butcher at 6 weeks
-
-### Meat Breeds
-
-- Coturnix (Japanese) — most common, fast-growing
-- Eastern Bobwhite — larger, native to North America
-
-### Legal Considerations
-
-Quail are considered wildlife in many places. Check local regulations — you may need a game bird license. Pigeons, quail, and rabbits are sometimes allowed in urban locations where chickens are banned, although not necessarily in the quantities desired for serious production.
-
-## Butchering Squab and Quail
-
-1. Take the bird from the nest in the morning before it eats
-2. Cut off the head and hang to bleed out (same as chicken)
-3. Carefully pull feathers out without scalding (unlike chickens)
-4. Remove feet and discard
-5. Cut body from vent to breastbone, remove organs
-6. Save gizzard, heart, and liver
-7. Rinse with cold water
-8. Refrigerate or freeze as soon as possible
-
-## Integration Notes
-
-- Rabbits: Best in Zone 1 near the house; manure drops directly into worm bins below the hutch
-- Pigeons and quail: Can free-range during day (eating garden pests and weed seeds, fertilizing), return to coop at night
-- All three provide manure for garden fertilization
-- All three are legal in most urban areas where chickens are banned
-- Worm bins under rabbit hutches create a closed-loop system: rabbit manure feeds worms, [[ingham-vermicompost-worm-castings]] fertilize garden, garden scraps feed rabbits
+Quail are exceptionally space-efficient — up to 6 can be raised per square foot (though more space is better for [[ingham-vermicompost-worm-castings]] fertilize garden, garden scraps feed rabbits
 - In winter, rabbits kept in the greenhouse provide body heat alongside compost heating

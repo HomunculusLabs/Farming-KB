@@ -13,19 +13,14 @@ type: concept
 Osamu Shirota, Wataru Hakamata, and Yukihiro Goda published "Concise
 Large-Scale Synthesis of Psilocin and Psilocybin" in the Journal of Natural
 Products in 2003. Working at the National Institute of Health Sciences in
-Tokyo, the team achieved the first gram-scale syntheses of both [[psilocin]]
-(4-HO-DMT) and [[psilocybin-compound]] (4-PO-DMT), the principal hallucinogenic
+Tokyo, the team achieved the first gram-scale syntheses of both [[psilocybin]] (4-PO-DMT), the principal hallucinogenic
 constituents of "magic mushrooms," without requiring any chromatographic
 purification step.
 
 ## Background and Motivation
 
 Psilocin and psilocybin are indolealkylamine hallucinogens structurally
-similar to the neurotransmitter [[serotonin]] (5-hydroxytryptamine, 5-HT).
-Their hallucinogenic effects are likely caused by interference with normal
-brain serotonin actions. LSD is believed to work through a similar mechanism.
-Alongside psilocybin and psilocin, the tryptamines baeocystin and
-norbaeocystin are often present as minor constituents in psilocybin mushrooms.
+similar to the neurotransmitter [[psilocybin-mushrooms]].
 
 The use of magic mushrooms became popular among young people in Japan due to
 relatively low cost and lower perceived legal stigma compared to other drugs.
@@ -40,29 +35,7 @@ high polarity.
 
 ## Psilocin Synthesis
 
-The psilocin synthesis proceeds from commercially available 4-hydroxyindole
-through a four-step sequence:
-
-**Step 1: Acetylation.** 4-Hydroxyindole is protected by treatment with
-acetic anhydride in pyridine and dichloromethane at 0 degrees Celsius to room
-temperature, yielding 4-acetylindole. This protection strategy was preferred
-over benzyl ether protection because benzyl derivatives required a separate
-deprotection step and were unstable without careful reaction control.
-
-**Step 2: Oxalyl chloride reaction.** The protected intermediate is treated
-with oxalyl chloride in diethyl ether at 0 degrees Celsius, followed by
-addition of n-hexane and overnight freezing at minus 20 degrees Celsius. The
-oxalyl chloride adduct (a yellow crystalline glyoxalyl chloride derivative)
-precipitates and is collected by filtration.
-
-**Step 3: Dimethylamine amidation.** The crystalline intermediate is
-dissolved in tetrahydrofuran and treated with dimethylamine and pyridine to
-form the glyoxalylamide. This two-step acylation-amidation conversion proceeds
-in over 80% yield.
-
-**Step 4: Lithium aluminum hydride reduction.** The glyoxalylamide is
-reduced by LiAlH4 in THF under argon atmosphere, refluxing for 2 hours.
-Workup with sodium sulfate and careful quenching affords [[psilocin]] as
+The psilocin synthesis proceeds from commercially available [[psilocin]] as
 white crystals in over 85% yield, with melting point 169 to 174 degrees
 Celsius (decomposing), consistent with literature values.
 
@@ -123,28 +96,4 @@ excess reagent.
 
 Catalytic hydrogenolysis of the zwitterionic intermediate using palladium on
 carbon in methanol at room temperature removed both benzyl groups and yielded
-[[psilocybin-compound]] as a white needle crystalline powder. The overall isolated yield
-from psilocin was greater than 72%, even at gram scale, with melting point 190
-to 198 degrees Celsius, consistent with literature values. The product was
-obtained without any chromatographic purification such as the anion-exchange
-resin used in previous syntheses.
-
-## Comparison with Previous Work
-
-Previous reports on psilocin synthesis had achieved yields of 20% and 47%, and
-reports on psilocybin synthesis were few. The Nichols and Frescas approach had
-required anion-exchange resin chromatography for purification. The Shirota
-method represented a significant practical improvement by eliminating all
-chromatographic steps, making it suitable for the routine production of
-analytical standard compounds needed for forensic identification of
-hallucinogenic mushrooms.
-
-## Analytical Significance
-
-The synthesized compounds served as essential reference standards for the
-identification of psilocybin-containing mushrooms through TLC, GC, and HPLC.
-The availability of pure standards at gram scale supported forensic laboratories
-and regulatory agencies in Japan and elsewhere in their enforcement of
-psilocybin mushroom controls under narcotics legislation. The spectral data
-provided (UV, IR, NMR, mass spectrometry) constitute a complete analytical
-characterization useful for compound verification in forensic contexts.
+[[shirota-psilocin-instability-chromatographic-challenges]]

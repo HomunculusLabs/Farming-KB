@@ -141,4 +141,4 @@ Does not tolerate waterlogging or deep shade.
 
 ## See Also
 
-- [[eleagnus-umbellata-entity]] · [[hippophae-rhamnoides]] · [[black-locust-entity]] · [[honey-locust-entity]]
+- [[eleagnus-umbellata-entity]] · [[black-locust-entity]] · [[honey-locust-entity]]

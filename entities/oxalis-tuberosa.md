@@ -101,20 +101,12 @@ Molecular characterization using AFLP and SSR markers has revealed high genetic 
 
 ## See Also
 
-- [[ullucus-tuberosus]]
 - [[tropaeolum-tuberosum]]
-- [[smallanthus-sonchifolius]]
 - [[arracacia-xanthorrhiza]]
-- [[pachyrhizus-erosus]]
 - [[canna-edulis]]
-- [[dioscorea-alata]]
 - [[colocasia-esculenta]]
-- [[moringa-oleifera]]
 - [[xanthosoma-sagittifolium]]
-- [[lablab-purpureus]]
 - [[pisum-sativum]]
-- [[cajanus-cajan]]
 - [[glycine-max]]
-- [[vicia-faba]]
 - [[mucuna-pruriens]]
 - [[canavalia-ensiformis]]

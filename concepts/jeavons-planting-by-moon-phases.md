@@ -103,9 +103,7 @@ influence on germination timing.
 
 Moon-phase planting is one of several "gardening nuances" that
 complement the core GROW BIOINTENSIVE techniques. It works alongside:
-- [[jeavons-pricking-out-seedlings]]
 - [[jeavons-flat-preparation-seedling-raising]]
-- [[jeavons-surface-cultivation-technique]]
 - [[jeavons-watering-technique]]
 
 The practice is especially relevant for
@@ -129,3 +127,7 @@ planting technique rewards observation, patience, and attention to
 natural cycles. The forces of nature are beautiful, and learning to
 work with them rather than against them is a fundamental principle of
 sustainable food growing.
+
+## See Also
+
+- [[jeavons-transplanting-techniques]]

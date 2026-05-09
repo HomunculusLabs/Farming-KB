@@ -117,14 +117,7 @@ exergy and environmental applications.
 High exergy destruction is not automatically bad if it occurs in a cheap, safe, and unavoidable component. A valve may be selected instead of a turbine because the
 recoverable work is too small, too intermittent, or too expensive to justify.
 
-The most useful studies distinguish unavoidable, avoidable, endogenous, and exogenous destruction. That decomposition separates losses imposed by physics or neighboring
-components from losses that a designer can realistically reduce.
-
-## Related Concepts
-
-- entropy
-- [[carnot-cycle-and-heat-engines]]
-- [[rankine-cycle]]
+The most useful studies distinguish unavoidable, avoidable, endogenous, and exogenous destruction. That [[carnot-cycle-and-heat-engines]]
 - [[heat-transfer-mechanisms]]
 - [[laws-of-thermodynamics]]
 - energy efficiency

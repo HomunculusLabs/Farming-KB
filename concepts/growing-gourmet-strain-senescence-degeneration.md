@@ -34,31 +34,7 @@ rearrangements of a discontinuous mitochondrial gene. Mushrooms,
 like every sexually reproducing organism, can generate only a
 limited number of cell divisions before vitality falters. Signs
 of a strain dying include the inability to colonize substrate,
-produce [[growing-gourmet-primordia-formation-pinning]],
-or develop healthy mushrooms.
-
-Typical warning signs of approaching senescence include:
-  - Delayed fruiting schedules
-  - Increasing susceptibility to disease
-  - Slowing rate of mycelial growth
-  - Inability to form the sexually producing organ
-  - Reduced yield per flush
-
-## Sectoring as an Indicator
-
-Mushroom strains that once produced healthy rhizomorphic
-mycelia often degenerate after many transfers. The decline
-in vigor follows a predictable pattern. A healthy strain is
-first rhizomorphic in appearance. After months of transfers,
-the culture sectors, forming diverging fans of linear, cottony
-and appressed mycelium. An unstable strain develops mycelium
-with aerial tufts of cotton-like growth. The mycelium at the
-center of the petri dish, giving birth to these fans of
-disparate growth, is genetically unstable and in an active
-state of decline, sending forth mutation-ridden chains of
-cells.
-
-The [[growing-gourmet-mycelial-morphology-classification-agar-media]]
+produce [[growing-gourmet-mycelial-morphology-classification-agar-media]]
 changes from desirable rhizomorphic forms to cottony (tomentose)
 formations. The disappearance of rhizomorphs is an indication
 of loss of vigor. When a rhizomorphic mycelium degenerates
@@ -74,49 +50,10 @@ Many strains of Morels, Shiitake, and King Stropharia express
 mutations when transferred on media for more than 10 petri
 dishes.
 
-The [[growing-gourmet-mushroom-life-cycle]]
-means that a culture arising from cloning is fundamentally
-different from one originating from spores. When spores are
-germinated, many different strains are created, offering
-genetic renewal. Cloning cultivated mushrooms repeatedly,
-without returning to stock cultures, is a fast-track to
-genetic demise.
-
-## The Stamets P-Value System
-
-The Stamets "P" value system is an arithmetic scale for
-measuring the expansion of mycelium through successive
-transfers to medium-filled petri dishes. When a culture
-has been isolated from contaminants, the first pure culture
-is designated as P1. Each subsequent transfer increments
-the P value. For commercial production, cell lines should
-be maintained within P10, meaning within 10 successive
-transfers.
-
-A square centimeter of mycelium is generally transferred
-from one culture dish to the next. The number of cell
-divisions across a petri dish is affected by the range
-of cell wall lengths. Some septate strains have cells as
-short as 20 microns while others have cells 200 and longer.
-
-## The Danger of Cloning Cultivated Mushrooms
-
-Many people ask what is wrong with simply cloning a nice
-looking specimen from each crop of cultivated mushrooms to
-get a new strain. Although morphological traits can be
-partially selected for, [[growing-gourmet-strain-evaluation-28-features]]
+The [[growing-gourmet-strain-evaluation-28-features]]
 are soon encountered. Generating mycelium in this fashion
 is a fast-track to genetic demise, quickly leading to loss
-of vigor and yield. By not returning to [[growing-gourmet-stock-culture-library]],
-to young cell lines, one has gone furthest downstream one
-linear chain of cells.
-
-## Preventing Senescence
-
-The key to preventing senescence is maintaining cell lines
-closest to their genetic origins. This means:
-
-  - Preserving multiple backup [[growing-gourmet-stock-culture-library]]
+of vigor and yield. By not returning to [[growing-gourmet-stock-culture-library]]
     of each strain, stored refrigerated
   - Returning to young P1-P3 stock cultures regularly
   - Rotating stock cultures annually by subculturing and

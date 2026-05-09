@@ -132,11 +132,8 @@ LSD sessions for different therapeutic purposes.
 
 ## Related Topics
 
-- [[lsd-pharmacology]] for comprehensive pharmacological
-  profile
 - [[hofmann-lsd-pharmacology-serotonin-brain]] for neurotransmitter
   interactions
-- [[hofmann-lsd-animal-experiments-toxicity]] for toxicity and LD50 data
 - [[hofmann-delysid-product-psychotherapy]] for clinical dosage guidelines
 - [[hofmann-lsd-clinical-research-early-studies]] for early human dosing
   studies

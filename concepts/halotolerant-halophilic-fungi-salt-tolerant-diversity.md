@@ -134,10 +134,6 @@ in salted food environments.
 
 ## See Also
 
-- [[halotolerant-halophilic-fungi-saline-environments]]
-
-- halotolerant halophilic fungi detail
 - [[xerophilic-xerotolerant-fungi]]
-- [[halophilic-fungi]]
 - [[fungi-in-stressful-environments]]
 - [[marine-estuarine-fungi]]

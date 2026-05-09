@@ -90,19 +90,7 @@ Standard Czapek-Dox modified with 15-20% NaCl for isolating halophilic fungi fro
 
 ## See Also
 
-- [[osmotolerant-osmophilic-fungi]]
 - [[fungi-in-stressful-environments]]
-- [[xerophilic-xerotolerant-fungi]]
 - [[halophilic-fungi]]
-- [[acidophilic-alkalophilic-fungi]]
-
-## Sources
-
-- Chapter 14, Fungi in Stressful Environments (Zak and Wildman) in Biodiversity of Fungi
-- Pitt, J.I. and Hocking, A.D. 1997. Fungi and Food Spoilage
-- Corry, J.E.L. 1987. Sugar and polyol permeability
-- Dallyn, H. and Fox, A. 1980. Spoilage of material of low water activity
-- Horikoshi, K. 1991. Alkaliphiles
 - [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-enzyme-activity-nutrient-availability]]

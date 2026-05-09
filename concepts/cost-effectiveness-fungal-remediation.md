@@ -94,11 +94,7 @@ Regulatory acceptance of fungal bioremediation requires demonstration that the t
 
 ## See Also
 
-- [[bioremediation-using-fungi]]
 - [[mycoremediation-scale-up-challenges]]
-- [[bioremediation-using-fungi]]
 - [[mycoremediation-bioreactor-design]]
-- [[key-fungal-species-bioremediation]]
 - [[staycare-spent-mushroom-compost-bioremediation]]
-- [[fungal-solid-state-fermentation-agricultural-waste]]
 - [[fungal-ligninolytic-enzymes-in-industrial-applications]]

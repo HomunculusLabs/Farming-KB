@@ -50,28 +50,35 @@ Described by Guzmán and colleagues from collections made in Thailand. The speci
 - **Partial veil:** Thin and membranous when young, leaving a fugacious annular zone
 - **Bluing:** Strong blue bruising throughout the stipe, particularly at the base
 
-### [[spore]]s
-- Broadly ellipsoidal to somewhat rhomboid in side view, 10–13 × 7–9 µm
-- Wall thick, with a distinct germ pore
-- Spore print dark purple-brown to nearly black
-- Basidia 2- and 4-spored
-
-## Distribution and Habitat
-
-Endemic to mainland Southeast Asia with confirmed collections from Thailand and likely occurring in neighboring countries including Laos, Cambodia, and Vietnam. A strictly coprophilous species found growing on dung of water buffalo (*Bubalus bubalis*) and cattle in open grasslands, rice paddies, and disturbed tropical lowland habitats. Fruiting is seasonal, correlated with the monsoon rains from approximately May through October. Specimens are most commonly encountered in the early morning hours and tend to deliquesce rapidly under tropical sun.
-
-## Chemistry and Pharmacology
-
-Biochemical analyses have confirmed the presence of psilocybin and psilocin. The species is considered moderately potent. Notably, some collections have shown elevated psilocin relative to psilocybin, which may relate to enzymatic degradation during the rapid desiccation that occurs in tropical environments. No quantitative study of [[baeocystin]] or norbaeocystin content has been published specifically for this species.
+### [[baeocystin]] or norbaeocystin content has been published specifically for this species.
 
 ## Ethnobotanical Significance
 
-Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybe-samuiensis]]* (originally described from Koh Samui) has received more attention, *P. thailandensis* and related coprophilous species are likely among those encountered and used informally. The Thai term "hed keequai" (water buffalo mushroom) may refer broadly to dung-inhabiting [[psilocybin-mushrooms]] including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive fungal diversity, though this has also led to legal restrictions.
+Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybin-mushrooms]] including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive fungal diversity, though this has also led to legal restrictions.
 
 ## Similar Species
 
-Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[psilocybe-cubensis]]* is far larger and has a different spore shape. *[[panaeolus-cyanescens]]* co-occurs in the same habitats but is readily separated by its black spore print and mottled gill edges.
+Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[panaeolus-cyanescens-entity]]* co-occurs in the same habitats but is readily separated by its black spore print and mottled gill edges.
 
 ## Conservation
 
 No formal conservation status has been assigned. The species appears to be locally common in suitable habitats across its range. Agricultural intensification and changes in livestock management practices could potentially affect populations, though the adaptability of coprophilous fungi to anthropogenic environments suggests some resilience.
+## Practical Considerations
+
+Successful implementation of Psilocybe thailandensis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

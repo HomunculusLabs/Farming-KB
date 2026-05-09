@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Root Soil Assessment
 
-You can judge the quality of the soil by looking at how the crop roots are doing in it. What is visible (crop aboveground) represents the invisible (root condition). This diagnostic method is central to [[jadam-soil-management-principles]] and is one of the most practical tools in the [[jadam-methods]] toolkit.
+You can judge the quality of the soil by looking at how the crop roots are doing in it. What is visible (crop aboveground) represents the invisible (root condition). This diagnostic method is central to [[jadam-methods]] toolkit.
 
 ## The Root-to-Shoot Ratio
 
@@ -67,8 +67,7 @@ Plants are smart; they look at where they are growing and grow only to the exten
 - For fields, greenhouses, and orchards, refrain from the use of heavy vehicles. Use light ones
 - Avoid livestock manure not certified to be devoid of antibiotics
 - Switch over from chemicals to natural material. A soil contaminated by chemicals with low microbial activity does not respond to input of fertilizer — so farmers use even more, creating a vicious cycle
-- Apply [[jadam-microorganism-solution-jms]] for a prolonged period. As microbial population and diversity increase, chemicals trapped in compacted soil will dissolve; gradually the layer will disappear
-- JMS combined with [[jadam-cover-crop-method]] is the best solution to soil compaction
+- Apply [[jadam-cover-crop-method]] is the best solution to soil compaction
 
 ## What to Look For in Specific Crops
 
@@ -86,9 +85,6 @@ A pear tree nearly a century old has as many pears as young trees. This is the r
 
 ## Related Concepts
 
-- [[jadam-soil-management-principles]] — full soil management framework
-- [[lowenfels-earthworms-soil-food-web]]
 - [[lowenfels-earthworms-soil-food-web]]
 - [[jadam-natural-pesticide-philosophy]] — building soil like forest leaf mold
-- [[jadam-leaf-mold-soil-method]]
 - [[what-natural-farming-method-should-i-use]]

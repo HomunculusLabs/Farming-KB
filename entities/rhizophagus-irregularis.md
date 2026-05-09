@@ -56,13 +56,7 @@ Cosmopolitan — found from arctic tundra to tropical agroecosystems on all inha
 ## Symbiosis Mechanics
 
 ### Carbon Flow (Host → Fungus)
-Receives up to 20% of host plant's photosynthetically fixed carbon as hexoses across the arbuscular interface. Carbon is metabolized via glycolysis and stored as triacylglycerols in vesicles. Allocation increases under low soil phosphorus conditions.
-
-### Nutrient Flow (Fungus → Host)
-- **Phosphorus:** Primary benefit — absorbed by extraradical hyphae beyond the root depletion zone, transported as polyphosphate
-- **Nitrogen:** Assimilates NH₄⁺ and NO₃⁻; transported as arginine via hyphae
-- **Micronutrients:** Zinc, copper, and other trace metals
-- **Water:** Extraradical mycelium improves hydraulic conductivity and drought tolerance
+Receives up to 20% of host plant's photosynthetically fixed carbon as hexoses across the arbuscular interface. Carbon is metabolized via glycolysis and stored as triacylglycerols in vesicles. Allocation increases under [[dighton-fungal-drought-tolerance-plant-water-relations]]
 
 ### Root Zone Expansion
 Extraradical mycelium extends effective root absorptive surface area by 100-1000×. Hyphal networks connect multiple plants simultaneously via common mycorrhizal networks (CMNs).
@@ -92,10 +86,7 @@ Extraradical mycelium extends effective root absorptive surface area by 100-1000
 
 Primary model organism for AMF research. First AMF with a published genome (Tisserant et al., 2013):
 
-- **Genome:** ~150 Mb — smallest known among fungi; ~28,000 protein-coding genes
-- **Notable:** Loss of plant cell wall degradation genes; expansion of transporter families (MST, PT, ammonium transporters)
-
-Key research areas: plant-fungal signal transduction (strigolactone receptors, DMI pathway), nutrient transporter biology (mycorrhiza-specific phosphate and monosaccharide transporters), carbon metabolism and lipid biosynthesis, common mycorrhizal network function and interplant resource sharing, soil microbial community interactions.
+- **Genome:** ~150 Mb — s [[query-how-does-mycorrhizal-network-communication-work-between-plants]]-one-carbon-metabolism-affect-methylation]] gy (mycorrhiza-specific phosphate and monosaccharide transporters), carbon metabolism and lipid biosynthesis, common mycorrhizal network function and interplant resource sharing, soil microbial community interactions.
 
 ## Cultivation
 
@@ -116,15 +107,5 @@ On-farm inoculum via trap crop methods (*Paspalum notatum*, *Sorghum bicolor* in
 
 | Feature | Description |
 |---------|-------------|
-| Spore color | Hyaline to yellow-brown, darkening with age |
-| Spore size | 100-400 μm diameter |
-| Spore wall | Laminated, 3-4 layers |
-| Arbuscule type | Arum-type (highly branched) |
-| Hyphal attachment | Direct from subtending hypha, no bulbous base |
-| Soil niche | Generalist; prefers disturbed/agricultural soils |
-
-## See Also
-
-- [[agroforestry]]
-- [[arbuscular-mycorrhizal-fungi]]
+| [[agroforestry]]
 - [[common-mycorrhizal-networks]]

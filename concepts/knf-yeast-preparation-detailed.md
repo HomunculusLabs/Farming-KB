@@ -65,7 +65,7 @@ The resynthetic function is particularly important: while bacteria and other mic
 ### Dilution
 
 - Standard dilution ratio: 1:1,000 with water
-- Effective when sprayed on leaves together with other KNF inputs such as [[master-cho-knf-ffj-fermented-fruit-juice-guide]] or [[knf-oriental-herbal-nutrient]]
+- Effective when sprayed on leaves together with other KNF inputs such as [[knf-oriental-herbal-nutrient]]
 
 ### When to Use Yeast
 
@@ -87,42 +87,16 @@ The resynthetic function is particularly important: while bacteria and other mic
 
 Yeast occupies the final position in the KNF fermentation hierarchy:
 
-1. [[lactic-acid-bacteria-knf]] -- lactic acid bacteria produce the acidic environment
-2. [[knf-indigenous-microorganism-culture]] -- indigenous microorganisms initiate decomposition
+1. [[knf-indigenous-microorganism-culture]] -- indigenous microorganisms initiate decomposition
 3. **Yeast** -- completes the process, converting sugars to alcohol
 
-This is why yeast is added last in preparations like [[knf-oriental-herbal-nutrient]] and [[knf-fermented-mixed-compost]]. The sequence matters: LAB creates the right pH, IMO breaks down complex materials, and yeast finishes the job by converting remaining sugars and resynthesizing nutrients.
+This is why yeast is added last in preparations like [[knf-fermented-mixed-compost]]. The sequence matters: LAB creates the right pH, IMO breaks down complex materials, and yeast finishes the job by converting remaining sugars and resynthesizing nutrients.
 
 ## Relationship to Other KNF Inputs
 
-- Used in [[knf-oriental-herbal-nutrient]] preparation (added with Soju after initial fermentation)
 - Used in [[knf-fermented-mixed-compost]] to complete fermentation
-- Supports [[knf-brown-rice-vinegar]] production (BRV is made when Makgeolli/yeast fermentation continues to the vinegar stage)
-- Complements [[lactic-acid-bacteria-knf]] -- the two work together in the fermentation sequence
-- Enhances the effectiveness of [[knf-fish-amino-acid]] when applied together
-
-## Yeast vs. LAB: Understanding the Difference
-
-While both are microorganisms used in KNF, they serve different functions:
-
-| Property | LAB | Yeast |
-|----------|-----|-------|
-| Type | Bacteria | Fungus |
-| Primary product | Lactic acid | Alcohol + CO2 |
-| Function | Acidification, suppression | Fermentation completion |
-| Position in chain | First | Last |
-| Oxygen | Conditionally anaerobic | Facultative anaerobe |
-| Temperature tolerance | High | Moderate |
-| Best for | Disease prevention, phosphate solubilization | Recovery, metabolism, resynthesis |
-
-## Transitioning Conventional Farms
-
-One of yeast's most valuable applications is in farm transition:
-
-- Chemical fertilizers leave residues in soil that can take years to decompose naturally
-- Yeast's ability to decompose chemical fertilizers accelerates this transition
-- Apply yeast at 1:500 (stronger than usual) to soil during the first year of transition
-- Combined with [[knf-indigenous-microorganism-culture]] application, yeast can restore soil biology within 1-2 growing seasons
+- Supports [[lactic-acid-bacteria-knf]] -- the two work together in the fermentation sequence
+- Enhances the effectiveness of [[knf-indigenous-microorganism-culture]] application, yeast can restore soil biology within 1-2 growing seasons
 - Monitor plant response and adjust application frequency accordingly
 
 ## Storage
@@ -135,12 +109,7 @@ One of yeast's most valuable applications is in farm transition:
 
 ## See Also
 
-- [[knf-maltose-preparation]]
-
 - [[knf-brown-rice-vinegar]]
-- [[knf-oriental-herbal-nutrient]]
 - [[knf-lactic-acid-bacteria-serum]]
-- [[knf-fermented-mixed-compost]]
 - [[knf-indigenous-microorganism-culture]]
-- [[knf-fish-amino-acid]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]

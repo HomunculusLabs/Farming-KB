@@ -13,25 +13,9 @@ sources:
 Detailed harvest timing and storage instructions for root vegetables
 in the home garden, based on Purdue Extension guidelines. Root crops
 store best under cold, moist conditions (32 to 40 degrees F, 90 to
-95 percent relative humidity). See [[vegetable-storage-conditions-by-temperature-and-humidity]]
-for a complete temperature and humidity reference across all crop types.
-
-Related: [[vegetable-garden-harvest]], [[vegetable-garden-guide]],
-[[vegetable-watering-and-thinning]], [[ultra-low-cost-food-preservation]]
-
-## See Also
-
-[[vegetable-storage-conditions-by-temperature-and-humidity]] — Full temperature/humidity reference for all crops
-[[cole-crop-harvest-and-storage]] — Harvest and storage for broccoli, cabbage, and related crops
+95 percent relative humidity). See [[vegetable-garden-harvest]], [[vegetable-watering-and-thinning]], [[vegetable-storage-conditions-by-temperature-and-humidity]] — Full temperature/humidity reference for all crops
 [[winter-gardening-season-extension]] — Extending the growing season into cold months
-[[stone-cellar-building]] — Building cold storage cellars for root crop preservation
-
-## Storage Conditions for Root Crops
-
-All root vegetables discussed here store best under cold, moist
-conditions: 32 to 40 degrees F with 90 to 95 percent relative
-humidity. Suitable storage locations include the refrigerator, a cold
-moist cellar (see [[stone-cellar-building]] for construction guidance), or an outdoor pit. Perforated plastic bags help
+[[stone-cellar-building]] for construction guidance), or an outdoor pit. Perforated plastic bags help
 maintain proper humidity levels while allowing some gas exchange.
 
 The key to successful root crop storage is harvesting at the right

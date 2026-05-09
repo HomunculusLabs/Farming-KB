@@ -105,46 +105,9 @@ moonshiner-revenuer chase.
 
 Research on the effect of solvent type on THC solution stability
 demonstrated that chloroform and chlorine-containing solvents
-promote significant THC decomposition, particularly accelerated
-by light. A chloroform solution lost 25-35% of THC in 30 minutes
-in sunlight. Ethanol proved better for storage, though slight
-decomposition still occurred.
-
-## Structure of Cannabis Alchemy
-
-The book is organized into eleven chapters and two appendices:
-
-- **Chapter One:** Extraction and Purification of Marijuana and
-  Hashish Oils (basic six-step process)
-- **Chapter Two:** Isomerization (converting cannabidiol to THC)
-- **Chapter Three:** THC Acetate (acetylation to double potency)
-- **Chapter Four:** Preparation of Hashish from extract
-- **Chapter Five:** Increasing Potency of Intact Marijuana Flowers
-- **Chapter Six:** Preparation of Oil Capsules
-- **Chapter Seven:** Smoking Oil by Direct Vaporization
-- **Chapter Eight:** Preparation of Translucent (Honey) Oil
-- **Chapter Nine:** Preparation of "Reefers" (oil-impregnated
-  cigarettes)
-- **Chapter Ten:** High-Volume Extraction Method (industrial scale)
-- **Chapter Eleven:** Advanced Refinement Techniques (fractional
-  distillation, chromatography, pure THC production)
-- **Appendix A:** Letters from Isomerizer users
-- **Appendix B:** Solvent Notes (properties table, hazard data)
-
-## Legacy
-
-*Cannabis Alchemy* is one of the first comprehensive reports on how
-simple chemical techniques create variants of the cannabis experience.
-It bridges academic cannabis chemistry (Adams, Mechoulam) and
-practical underground methods. Its systematic presentation of
-extraction, purification, isomerization, and refinement influenced
-subsequent generations. As the author noted, "the compounds of the
-future can only be guessed at, but if the past enterprise and energy
-of alchemists is any indication, it won't be long before we see for
-ourselves."
+promote significant THC [[lemon-cannabis-alchemy-thc-extraction-purification]]
+- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
 
 ## See Also
 
-- [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-isomerization]]
-- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
+- [[lemon-cannabis-alchemy-hashing-and-extraction]]

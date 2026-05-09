@@ -102,9 +102,7 @@ cannot render a profit, and to stay in business the manager must change.
 ## The Type of Livestock Matters
 
 The choice of livestock species and type has ecological implications beyond
-production. Almost any livestock can produce adequate [[savory-animal-impact-and-herd-effect]] on sandy soil. However, on clay soils that compact badly at
-the surface, sheep and goats have limited effect. Cattle or horses are
-required to really move [[savory-plant-succession-and-community-dynamics]] and improve soil respiration. On some soils, horses have a much
+production. Almost any livestock can produce adequate [[savory-plant-succession-and-community-dynamics]] and improve soil respiration. On some soils, horses have a much
 better impact than cattle. The vegetation also influences the type of animal
 selected: where sheep and goats can trample short vegetation, very tall old
 grass clumps escape, and only larger animals such as cattle will serve.
@@ -117,10 +115,6 @@ the goal: quality of life, production, and future landscape description.
 
 ## See Also
 
-- [[savory-complexity-and-wholistic-thinking]]
-
 - [[savory-livestock-grazing-planning]]
-- [[savory-weak-link-analysis]]
 - [[savory-ranch-financial-planning]]
-- [[savory-wildlife-livestock-integration]]
 - [[savory-livestock-nutrition-and-supplementation]]

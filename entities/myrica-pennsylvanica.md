@@ -109,13 +109,8 @@ Tolerates severe pruning and can be shaped as a hedge, though informal natural f
 ## See Also
 
 - [[elaeagnus-umbellata]]
-- [[hippophae-rhamnoides]]
 - [[caragana-arborescens]]
-- [[robinia-pseudoacacia]]
 - [[gaultheria-procumbens]]
-- [[juniperus-communis]]
 - [[vaccinium-myrtillus]]
-- [[morus-alba]]
 - [[typha-latifolia-entity]]
-- [[sambucus-nigra]]
 - [[viburnum-opulus]]

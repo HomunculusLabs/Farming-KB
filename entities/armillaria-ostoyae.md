@@ -73,33 +73,14 @@ Research into biological control of *A. ostoyae* has explored several approaches
 
 - **Competitive Saprotrophs:** Inoculation of stumps with competing fungi such as *Trichoderma* species or *Phlebiopsis gigantea* can reduce *Armillaria* colonization.
 - **Predation:** Nematode-trapping fungi and other soil microorganisms may influence *Armillaria* populations, though this remains poorly understood.
-- **Mycorrhizal Interactions:** There is evidence that certain [[ectomycorrhizal-fungi]] can provide some protection against *Armillaria* infection, though the mechanisms are not fully elucidated.
-
-## Research Significance
-
-*Armillaria ostoyae* serves as an important model organism for several areas of fungal biology:
-
-- **Clonal Organisms:** Its ability to form massive, long-lived genets makes it a model for studying clonal growth, senescence, and the evolution of longevity in fungi.
-- **[[fungal-genetics]]:** The genome of *A. ostoyae* has been sequenced, providing insights into its pathogenicity mechanisms, wood decay enzymes, and the genetic basis for rhizomorph formation.
+- **Mycorrhizal Interactions:** There is evidence that certain [[fungal-genetics]]:** The genome of *A. ostoyae* has been sequenced, providing insights into its pathogenicity mechanisms, wood decay enzymes, and the genetic basis for rhizomorph formation.
 - **Stable Isotope Ecology:** Studies using nitrogen and carbon stable isotopes (d15N, d13C values) have used *Armillaria* and related fungi to trace nutrient cycling through forest ecosystems, distinguishing between saprotrophic and mycorrhizal nutrient acquisition strategies.
 
 ## Related Species
 
 The genus *Armillaria* contains approximately 10 described species in North America and additional species worldwide. Key related species include:
 
-- *[[armillaria-mellea]]* (European honey fungus) — more common in hardwood forests
-- *Armillaria gallica* — another widespread species with clonal growth
-- *Armillaria tabescens* — ringless honey mushroom
-
-## Notable Genets and Historical Timeline
-
-*Armillaria ostoyae* has a rich history of scientific investigation spanning several decades:
-
-- **1970:** Henri Romagnesi formally describes *Armillaria ostoyae*, distinguishing it from the broader *A. mellea* species complex based on morphological and biological characteristics
-- **1992:** The Malheur National Forest individual in Oregon is identified through somatic incompatibility testing and genetic analysis as a single genet, drawing worldwide attention as potentially the largest organism on Earth by area
-- **1998:** DNA fingerprinting techniques confirm the Oregon genet covers approximately 9.6 km², with age estimates ranging from 2,400 to 8,650 years
-- **2008:** Volk and colleagues propose the reinstatement of the name *Armillaria solidipes* based on Peck's earlier (1900) description, though *A. ostoyae* remains dominant in the forest pathology literature
-- **2011:** The genome of *A. ostoyae* is sequenced, revealing a large genome (~73 Mb) with numerous gene families associated with plant cell wall degradation, detoxification, and [[rhizomorph-development]]
+- *[[rhizomorph-development]]
 - **2015:** Stable isotope studies (d15N, d13C) using *Armillaria* species demonstrate their utility in tracing nitrogen and carbon cycling through forest food webs, distinguishing saprotrophic from mycorrhizal nutrient acquisition strategies
 - **2020s:** Climate modeling studies predict northward range expansion and increased disease severity in North American forests under warming scenarios, prompting revised management guidelines
 
@@ -117,16 +98,7 @@ The genus *Armillaria* contains approximately 10 described species in North Amer
 
 Standard methods for working with *A. ostoyae* in research and diagnostics include:
 
-- **Isolation:** Basidiocarp tissue can be placed directly on [[malt-extract-agar]] (MEA) with antibiotics (streptomycin or chloramphenicol) to suppress bacterial contamination. Rhizomorph tips can also be excised and cultured
-- **Somatic Incompatibility Testing:** Pairing isolates on MEA and observing interaction zones (demarcation lines) to determine whether two isolates belong to the same genet. Compatible pairings fuse without barriers; incompatible pairings produce pigmented reaction zones
-- **Molecular Identification:** ITS rDNA sequencing is the standard barcode method. RAPD, AFLP, and microsatellite markers are used for population genetics and genet mapping
-- **Long-Term Storage:** Cultures can be maintained on wood blocks or in sterile water at 4°C. Cryopreservation in liquid nitrogen with glycerol or DMSO as cryoprotectant is preferred for long-term preservation
-- **Pathogenicity Testing:** Inoculation of young trees (often potted seedlings) with colonized wood chips or mycelial inoculum under controlled conditions, with disease assessment after 6 to 24 months
-
-## See Also
-
-- Armillaria (genus overview)
-- [[wood-decay-fungi]]
+- **Isolation:** Basidiocarp tissue can be placed directly on [[wood-decay-fungi]]
 - forest-pathology
 - Ectomycorrhizas
 - [[armillaria-gallica]]

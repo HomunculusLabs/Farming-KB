@@ -106,11 +106,7 @@ As a chop-and-drop mulch crop, common vetch can be cut at peak biomass and left 
 
 ## See Also
 
-- [[vicia-villosa]]
 - [[trifolium-pratense]]
-- [[trifolium-repens]]
 - [[lotus-corniculatus]]
-- [[melilotus-officinalis]]
 - [[alfalfa-medicago-sativa]]
-- [[dynamic-accumulators]]
 - [[companion-planting-guild]]

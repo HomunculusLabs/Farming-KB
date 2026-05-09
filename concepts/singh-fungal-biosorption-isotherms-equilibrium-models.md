@@ -135,8 +135,6 @@ between the metal ions and fungal binding sites.
 
 ## See Also
 
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
 - [[singh-fungal-biosorption-heavy-metals]]
-- [[singh-fungal-biosorption-reactors-heavy-metals]]
 - [[singh-fungal-biosorption-lead-copper]]
 - [[singh-fungal-biosorption-cadmium]]

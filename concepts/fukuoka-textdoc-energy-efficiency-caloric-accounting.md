@@ -123,8 +123,6 @@ all.
 
 ## See Also
 
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]

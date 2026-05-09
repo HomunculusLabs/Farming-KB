@@ -140,11 +140,8 @@ loss of countenance he cried, "There is this enemy, this demon of which I have t
 you; the force of my words has put it to flight, take care that in quitting me it
 does not hurl itself on one of you and possess him." No one dared to touch it; after
 the sermon, the zealous sophist recovered his "beng."
-
 ## See Also
 
-- [[mckenna-cannabis-dreaming-weavers]] for the broader history of cannabis and culture
 - [[mckenna-opium-tobacco-paradoxical-attitudes]] for opium's parallel history
-- [[mckenna-dominator-vs-partnership-society-model]] for the dominator/partnership framework
 - [[mckenna-sugar-spice-mercantilism]] for the broader pattern of drug commodification
 - [[scythian-cannabis-steam-bath-ritual]] for the archaeological evidence

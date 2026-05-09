@@ -109,13 +109,8 @@ Clone-only cuts are the preferred propagation method as seed-grown plants show s
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[sunset-sherbet]]
-- [[thin-mint-cookies]]
 - [[og-kush]]
-- [[girl-scout-cookies]]
 - [[wedding-cake-cannabis]]
-- [[zookies-cannabis]]
 - [[kush-mints]]
-- [[runtz-cannabis]]
 - [[cereal-milk]]

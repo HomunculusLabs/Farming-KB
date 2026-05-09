@@ -136,6 +136,5 @@ importance of fungi as a pharmacological resource.
 ## See Also
 
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
-- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
 - [[psilocybin-mushrooms-overview]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]

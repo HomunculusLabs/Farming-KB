@@ -88,21 +88,7 @@ At 5% (E)-BCP, this basil variety has shown protective gastrointestinal abilitie
 
 ### Clove (*Syzygium aromaticum*)
 
-At approximately 4% (E)-BCP, clove offers a remarkably broad therapeutic profile including analgesic, anti-inflammatory, antioxidant, antimicrobial, antifungal, antiviral (herpes simplex I and II, hepatitis C), antibacterial (including multi-drug-resistant strains), anticancer, cancer protective (skin and lung), and antidiabetic properties. See [[blesching-cannabis-clove-medicinal-cb2-botanical]] for detailed coverage.
+At approximately 4% (E)-BCP, clove offers a remarkably broad therapeutic profile including analgesic, anti-inflammatory, antioxidant, antimicrobial, antifungal, antiviral (herpes simplex I and II, hepatitis C), antibacterial (including multi-drug-resistant strains), anticancer, cancer protective (skin and lung), and antidiabetic properties. See [[beta-caryophyllene-entourage-effects-cannabis]]
 
-## Synergy with Cannabis
-
-Used in conjunction with cannabis, (E)-BCP-containing spices may produce a synergy of beneficial effects. The CHI framework suggests that combining CB2 activation from dietary sources with cannabinoid therapy from cannabis creates a complementary approach. Since (E)-BCP is non-psychoactive and activates only CB2 receptors, it can supplement cannabis therapy without adding to the psychoactive burden of THC.
-
-## Practical Application
-
-The CHI recommends incorporating (E)-BCP-rich spices into daily cooking as a form of preventive health care. The spice rack is described as "an inexpensive natural pharmacy." Spices can be added or subtracted from most meals, and those using Ayurvedic prescriptions based on the three doshas or Five Element considerations can further fine-tune food and recipe choices with this information.
-
-However, the CHI cautions that spices should not be construed as a silver bullet. Spices can be helpful for bringing awareness and mindfulness to food preparation and encouraging health-conscious food choices.
-
-## See Also
-
-- [[blesching-cannabis-clove-medicinal-cb2-botanical]] for detailed clove pharmacology
-- [[cannabis-indoor-growing-guide]] for curcumin as complementary therapy
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for how multiple cannabis compounds work together
+- [[cannabis-indoor-growing-basics]] for curcumin as complementary therapy
 - [[blesching-cannabis-telomeres-telomerase-longevity]] for CB2 in anti-aging

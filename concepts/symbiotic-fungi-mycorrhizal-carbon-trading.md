@@ -13,27 +13,7 @@ Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 16
 
 ## Introduction
 
-Carbon trading between plants and [[mycorrhizal-fungi]] is a fundamental process in
-terrestrial ecosystems, involving the bidirectional exchange of photosynthetically
-derived carbon from host plants for soil-acquired nutrients delivered by fungal
-partners. This underground economy shapes plant community dynamics, soil carbon
-storage, and ecosystem productivity.
-
-Plants may divert up to 80% or more of net fixed energy to below-ground processes.
-This is not energy lost to the plant; soil organisms in the root zone greatly
-influence plant establishment through effects on nutrient cycling, pathogens,
-soil aeration, and water uptake.
-
-## Carbon Flow from Plants to Fungi
-
-The carbohydrate transfer pathway:
-
-1. Photosynthesis produces carbohydrates in leaves
-2. Carbohydrates are translocated from source to root tissues
-3. At the arbuscular interface, carbon compounds are transferred to the fungal partner
-4. The plant receives phosphorus, nitrogen, and other nutrients in return
-
-In the arbuscular [[mycorrhizal-symbiosis]], the arbuscule is the main exchange site.
+Carbon trading between plants and [[mycorrhizal-symbiosis]], the arbuscule is the main exchange site.
 Alkaline phosphatase activity at the arbuscule relates to both phosphorus uptake
 efficiency and sugar metabolism. Higher 13C enrichment in lipids of intraradical
 mycelia than in plant root lipids indicates that lipid metabolism is more active
@@ -119,18 +99,7 @@ Key findings from carbon tracking experiments:
 
 ## Carbon Trading Through Common Networks
 
-[[common-mycorrhizal-networks]] (CMNs) facilitate carbon redistribution within plant
-communities:
-
-- Extraradical mycelium spreads at 738-1,067 mm per day
-- Large numbers of fungal linkages created through anastomosis
-- Anastomosis frequency: 44-62% between hyphae from different plant species
-- Bidimensional experimental system enables study of nutrient and carbon transfer
-  in hyphal networks interconnecting contiguous plants
-
-## Nitrogen-Carbon Coupling
-
-Carbon and nitrogen trading are tightly coupled in [[mycorrhizal-networks]]:
+[[mycorrhizal-networks]]:
 
 - Nitrogen transfer between plants linked by CMNs can be bidirectional
 - Both N2-fixing and non-N2-fixing plants can serve as donors or receivers
@@ -147,3 +116,7 @@ The 13C-labelling technique provides an objective way to:
 - Follow plant regulation of carbon allocation in established symbiosis
 - Test hypotheses about carbon allocation under different environmental conditions
 - Estimate how much different plant species allocate to AM symbiosis
+
+## See Also
+
+- [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]]

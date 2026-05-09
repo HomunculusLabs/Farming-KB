@@ -97,27 +97,17 @@ The compound's potential for neurotoxicity has not been as extensively studied a
 
 ## See Also
 
-- [[mdma]]
 - [[butylone]]
-- [[ethylone]]
 - [[mephedrone]]
-- [[6-mapb]]
 - [[5-mapb]]
-- [[mxe]]
 - [[3-meo-pcp]]
-- [[deschloroketamine]]
 - [[2c-b]]
 - empathogen
 - MDA
-- [[lsd]]
-- [[psilocybin-compound]]
-- [[dmt]]
-- [[5-meo-dmt]]
-- [[4-ho-met]]
+- [[psilocybin]]
+- [[5-meo-dmt-entity]]
 - [[ketamine]]
-- [[salvinorin-a-entity]]
 - [[harmine]]
-- [[serotonin]]
 - [[psychedelic-harm-reduction]]
 - microdosing
 - psychedelics

@@ -114,22 +114,6 @@ When a breeder wants to incorporate a dominant trait, they can simply
 select for its presence in each generation. Recessive traits require
 more complex approaches such as selfing or test crosses to identify
 homozygous individuals. See
-[[cervantes-backcross-breeding-methods]] for techniques used to
-introgress both dominant and recessive traits into breeding populations.
-
-## Partial and Incomplete Dominance
-
-Not all traits follow simple dominant-recessive patterns. In some
-cases, heterozygous individuals show an intermediate phenotype between
-the two homozygous parents. This is called incomplete dominance. In
-other cases, both alleles may be expressed simultaneously, a condition
-known as codominance. These patterns create more complex inheritance
-ratios than the standard 3:1 Mendelian ratio.
-
-## See Also
-
-- [[cannabis-genetics-and-breeding]] - Overview of cannabis genetics
-- [[cervantes-hybrid-vigor-inbreeding-depression]] - Heterosis effects
+[[cannabis-genetics-and-breeding]] - Overview of cannabis genetics
 - [[cervantes-seed-population-types-ibl-hybrid]] - Population types
-- [[cervantes-selfing-single-seed-descent]] - Achieving homozygosity
 - [[cannabis-phenotype-selection]] - Selecting for desired traits

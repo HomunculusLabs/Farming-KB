@@ -14,30 +14,7 @@ sources:
 type: concept
 ---
 
-# [[mollison-animal-range-management]] and Wildlife Integration
-
-## The Range Management Problem
-
-The PDC addresses the widespread degradation of rangelands worldwide.
-Conventional range management often focuses on stocking rates without
-understanding the ecological dynamics of grassland systems. Mollison
-critiques the standard approach: "Most of the people who are talking
-about range management don't know what they are talking about."
-
-The key insight is that overgrazing is not simply too many animals but
-the wrong pattern of grazing. Continuous grazing allows animals to
-re-browse preferred species before they recover, leading to dominance of
-unpalatable or toxic plants and bare soil exposure.
-
-## Cell Grazing and Time Control
-
-Mollison advocates time-controlled grazing as the primary tool for
-range restoration:
-
-- Animals are concentrated in small areas for short periods
-- The paddock is then rested for a full recovery period
-- Recovery time varies with season -- longer in slow-growing periods
-- Stock density during [[savory-recovery-and-grazing-periods]] is high, mimicking natural herd
+# [[savory-recovery-and-grazing-periods]] is high, mimicking natural herd
   behavior of grazing herbivores
 - This breaks parasite cycles as larvae die before animals return
 
@@ -51,39 +28,7 @@ animals need to be managed."
 Understanding grassland dynamics is essential for range management:
 
 - Grass plants need periodic defoliation to stimulate root dieback and
-  [[nutrient-cycling-in-soil]]
-- Rest periods allow root reserves to rebuild and plant recovery
-- Overrest (no grazing at all) can be as damaging as overgrazing in
-  some environments -- dead material shades new growth
-- Fire plays a role in some grassland systems, removing old growth and
-  stimulating new shoots
-- The interaction of grazing, fire, and rest creates complex and
-  productive ecosystems when properly managed
-
-## Wildlife as Range Managers
-
-The PDC treats wildlife as integral to range systems, not separate from
-them:
-
-- Wild grazers (deer, elk, antelope) perform essential ecological
-  functions including seed dispersal and nutrient cycling
-- Predators regulate herbivore numbers, preventing concentration damage
-- Birds control insects and disperse seeds; burrowing animals aerate
-  soil and increase water infiltration
-- The goal is integration: "We should be looking at wildlife as part
-  of the system"
-
-## Wild Forage Systems
-
-The PDC discusses wild forage plants that can supplement or replace
-domesticated pastures:
-
-- Many native grasses outperform introduced species in drought
-  conditions and provide year-round forage
-- Tree fodder ([[acacia]] pods, [[carob]] beans, honey locust pods) provides
-  high-protein feed during dry seasons when grass is scarce
-- Saltbush (Atriplex) provides palatable browse in arid areas
-- [[tagasaste]] (tree lucerne) produces protein-rich fodder year-round
+  [[acacia]] pods, [[tagasaste]] (tree lucerne) produces protein-rich fodder year-round
 - Cactus (Opuntia) provides emergency fodder and water in deserts
 
 ## Integration of Livestock Types

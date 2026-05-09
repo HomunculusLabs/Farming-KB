@@ -110,9 +110,7 @@ tropical shade trees.
 Primary agroforestry use as a living trellis:
 
 - **Black pepper** (Piper nigrum) — most common support species
-- **Vanilla** (Vanilla planifolia) — support in tropical cultivation
-- **Yam** (Dioscorea spp.) and **Passionfruit** — climbing support
-- **Chayote** (Sechium edule) — climbing framework
+- **Vanilla** ([[sechium-edule]]) — climbing framework
 
 ### Additional Functions
 
@@ -130,7 +128,6 @@ Primary agroforestry use as a living trellis:
 - **Spacing:** 5–8 m in agroforestry; 10–15 m as shade tree
 - **Pruning:** Coppices readily; pollarded at 3–5 m for crop support
 - **Soil:** Adaptable; tolerates poor soils, flooding, moderate salinity
-
 ## Related Species
 
 - **Erythrina poeppigiana** — closely related, shade tree in cacao
@@ -143,8 +140,5 @@ Primary agroforestry use as a living trellis:
 
 ## See Also
 
-- [[colorines-erythrina-seeds-mexican-hallucinogen]]
-
 - [[acacia-confusa]]
-- [[mimosa-tenuiflora]]
 - [[sesbania-grandiflora]]

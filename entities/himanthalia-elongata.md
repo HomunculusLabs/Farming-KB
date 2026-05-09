@@ -102,20 +102,12 @@ Climate change poses a longer-term threat through ocean warming and acidificatio
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
-- [[fucus-vesiculosus]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[gracilaria-verrucosa]]
-- [[sargassum-fusiforme]]
 - [[caulerpa-lentillifera]]
-- [[kappaphycus-alvarezii]]
 - [[gelidium-amansii]]
-- [[pyropia-yezoensis]]
 - [[chlorella-vulgaris]]
-- [[hizikia-fusiforme]]
 - [[monostroma-nitidum]]
 - [[eucheuma-denticulatum]]

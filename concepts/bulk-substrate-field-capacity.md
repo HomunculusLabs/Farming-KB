@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 
 # Bulk Substrate Field Capacity and Moisture Management
@@ -65,15 +66,27 @@ During active fruiting, mushrooms draw water from the substrate to expand their 
 
 ### Watering Between Flushes
 
-Between flushes, a technique called "dunking" can rehydrate substrates. The colonized block or cake is submerged in water for 4-12 hours, allowing it to reabsorb moisture through capillary action. This is especially useful for [[stem-butt-cardboard-cultivation]] cakes and small bulk grows. For larger trays and beds, direct watering of the casing layer between flushes helps replenish moisture reserves.
-
-## Related
-
-- [[bulk-substrate-preparation]]
-- [[mushroom-substrates]]
+Between flushes, a technique called "dunking" can rehydrate substrates. The colonized block or cake is submerged in water for 4-12 hours, allowing it to reabsorb moisture through capillary action. This is especially useful for [[bulk-substrate-preparation]]
 - [[mushroom-cultivation-bulk-substrates]]
-- [[casing-layer-preparation]]
 - [[straw-pasteurization-methods]]
-- [[mushroom-primordia-formation-triggers]]
 - [[wood-loving-substrate-recipes]]
 - [[mushroom-cultivation-grain-spawn]]
+## Practical Considerations
+
+Successful implementation of Bulk Substrate Field Capacity and Moisture Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -12,24 +12,9 @@ type: concept
 # Pasteurization vs Sterilization Methods
 
 Mushroom cultivators employ two fundamentally different approaches to
-[[substrate-preparation]]: pasteurization and sterilization. The choice
-between them depends on the species being grown, the substrate type,
-and the scale of operation. Understanding the distinction is critical
-for success, as improper treatment leads to contamination that can ruin
-entire crops.
-
-## Sterilization
-
-Sterilization aims to destroy all living organisms within a substrate.
-In a single gram of grain, there can be 50,000-100,000 bacteria, more
-than 200,000 actinomycetes, 12,000 fungi, and numerous yeasts. To
-sterilize grain requires the destruction of more than 300,000
-contaminants per gram. This is achieved through autoclaving at 15 psi
-(250 degrees F) for 60-90 minutes in a pressure cooker or autoclave.
-
-Sterilization is required for [[grain-spawn-preparation]] and for
+[[grain-spawn-preparation]] and for
 sawdust-based substrates used for wood-decomposing species. The
-principles of [[stamets-grain-sterilization-contamination-sources]] apply. Proper [[sterile-technique-mushroom-cultivation|sterile technique]] is essential to maintain
+principles of [[sterile-technique-mushroom-cultivation|sterile technique]] is essential to maintain
 aseptic conditions throughout the process. At a constant volume, pressure and temperature
 directly correspond (Boyle's Law). The effect of sterilizing at 60
 minutes at 15 psi equals that of 30 minutes at 30 psi. Doubling
@@ -48,14 +33,7 @@ fraction of surviving organisms can beget millions of cells rapidly.
 Pasteurization selectively destroys harmful organisms while preserving
 beneficial ones. It is the standard treatment for compost-based
 substrates used in Agaricus cultivation and for straw substrates used
-with many species. The [[stamets-phase-ii-composting]]
-process is essentially a pasteurization and conditioning program.
-
-For compost substrates, pasteurization is achieved through exposure to
-live steam for 2 hours at 140 degrees F throughout the substrate. The
-composting process itself, involving specific microbial successions,
-creates a selective medium favoring mushroom mycelium over competitors.
-See [[straw-pasteurization-methods]] for straw-specific pasteurization techniques.
+with many species. The [[straw-pasteurization-methods]] for straw-specific pasteurization techniques.
 
 For straw substrates, pasteurization can be carried out with live steam
 or hot water. Presoaked to approximately 75% water, straw is filled
@@ -95,29 +73,7 @@ factors:
 
 If only a small fraction of one percent of contaminants survive the
 sterilization process, they can render grain spawn useless within days.
-This underscores the importance of proper [[stamets-contamination-sources-laboratory-hygiene]] and following recommended time-temperature protocols precisely.
-Common contaminants include [[trichoderma]] (green mold) and [[bacillus-subtilis|Bacillus]] bacteria (wet spot).
-For pasteurization, the selective survival of beneficial microorganisms is actually desired, as they contribute to substrate selectivity.
-
-## Antibiotics in Sterilization
-
-Some cultivators add antibiotics to agar media to prevent bacterial
-contamination. Most antibiotics like streptomycin are not autoclavable
-and must be added after sterilization while media is still molten.
-Gentamycin sulfate survives autoclaving and is effective against a
-broad range of bacteria at 0.10 grams per liter of media prior to
-sterilization. However, antibiotic use in spawn and substrate
-preparation is generally not practiced; proper sterilization protocols
-are considered sufficient for clean culture work.
-
-## Post-Treatment Handling
-
-After either pasteurization or sterilization, careful handling is
-essential to prevent recontamination. Sterilized containers should be
-allowed to cool in a clean environment before inoculation. For
-pasteurized straw, working quickly during spawning minimizes exposure
-to airborne contaminants. The
-[[stamets-sterile-laboratory-design]]
+This underscores the importance of proper [[trichoderma]] (green mold) and [[stamets-sterile-laboratory-design]]
 principles apply during the inoculation phase regardless of the
 substrate treatment method used. Maintaining a clean workspace and
 using proper transfer techniques are the final barriers against
@@ -125,21 +81,12 @@ contamination after substrate preparation.
 
 ## Related
 
-- [[comparison-pasteurization-vs-sterilization]] Topics
-
 - [[stamets-grain-sterilization-contamination-sources]]
-- [[stamets-non-composted-substrates]]
 - [[stamets-compost-preparation]]
-- [[stamets-spawn-making-and-grain-culture]]
 - [[agaricus-bisporus-cultivation-biology]] -- Agaricus cultivation requiring pasteurized compost
-- [[contamination-prevention-in-mushroom-cultivation]] -- contamination control strategies
 - [[bulk-substrate-preparation]] -- bulk substrate methods for pasteurized and sterilized media
-- [[aseptic-inoculation-technique-fungal-cultures]] -- sterile inoculation following substrate treatment
 - [[agar-medium-preparation]] -- agar media preparation under sterile conditions
-- [[agar-to-grain-wedge-transfer-technique]] -- transferring cultures from agar to sterilized grain
 - [[agar-culture-media]] -- culture media formulations for mushroom cultivation
 
-[[aseptic-inoculation-technique-fungal-cultures]]
 [[agar-medium-preparation]]
-[[agar-to-grain-wedge-transfer-technique]]
 [[agar-culture-media]]

@@ -113,9 +113,6 @@ agricultural science, focused on chemistry alone, has largely ignored.
 
 ## See Also
 
-- [[plant-life-rhythms-pulsatory-growth]]
-
 - [[tompkins-plant-electrical-signals]] for plant bioelectricity
-- [[tompkins-magnetism-plant-growth]] for magnetic effects on plants
 - [[tompkins-lakhovsky-multi-wave-oscillator]] for oscillation theory
 - [[tompkins-plant-growth-regulators]] for growth hormones and auxins

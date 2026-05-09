@@ -126,12 +126,8 @@ divergence.
 
 ## Related Topics
 
-- [[biodiversity-fungi-insect-symbiosis]] — broader arthropod-fungal
-  symbiotic interactions
 - [[biodiversity-nematophagous-predatory-fungi]] — specialized
   nematode-attacking fungi
-- [[biodiversity-fungi-plant-pathogens]] — plant-pathogenic fungi and
-  comparison of pathogenic strategies
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]] — DNA
   methods for identifying entomopathogenic taxa
 - [[biodiversity-fungal-secondary-metabolites]] — bioactive compounds

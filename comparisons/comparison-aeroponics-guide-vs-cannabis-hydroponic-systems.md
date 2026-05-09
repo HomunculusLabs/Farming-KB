@@ -21,36 +21,6 @@ maintenance required. Understanding these differences helps growers choose the
 system that matches their experience level, budget, and quality expectations.
 
 ## Aeroponics
-[[aeroponics-guide]]
-
-Aeroponics grows plants with their roots suspended in an enclosed air chamber
-where a fine mist of nutrient solution is sprayed at regular intervals,
-typically every few seconds to several minutes depending on the system design.
-The roots hang freely in air, absorbing oxygen directly from the atmosphere
-while receiving nutrients and water from the mist. This approach provides
-maximum oxygenation to the root zone, which is often the limiting factor in
-plant growth rates.
-
-The primary advantage of aeroponics is growth speed. Plants grown aeroponically
-typically show 20-30% faster growth rates and can produce higher yields compared
-to traditional hydroponics, largely due to superior root zone oxygenation. Water
-efficiency is also exceptional, using 95% less water than traditional farming
-and significantly less than most hydroponic systems, since the mist is applied
-in precise amounts with minimal runoff. Root systems tend to be more fibrous and
-extensive, improving nutrient uptake efficiency. Some commercial aeroponic
-systems (like the AeroGarden line) have made the technology accessible to home
-growers.
-
-The drawbacks are substantial. Aeroponic systems are highly sensitive to
-equipment failures. If the misting system or pump fails, roots can dry out and
-die within hours, making backup power and redundant systems essential. The fine
-mist nozzles are prone to clogging from nutrient salt buildup, requiring
-frequent cleaning and maintenance. Initial setup costs are higher than basic
-hydroponic systems, and the technology demands more technical knowledge to
-operate successfully. Root diseases can spread rapidly in the warm, humid
-environment of the growing chamber.
-
-## Hydroponics
 [[cannabis-hydroponic-systems]]
 
 Hydroponics encompasses a range of soilless growing methods where plant roots
@@ -123,9 +93,6 @@ experienced commercial cultivators.
 
 ## See Also
 
-- [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
 - [[cannabis-grow-hydroponic-growing-systems]]
-- [[cervantes-hydroponic-systems]]
 - [[cannabis-indoor-growing-basics]]
-- [[drip-irrigation-cannabis]]
 - [[wick-system-cannabis]]

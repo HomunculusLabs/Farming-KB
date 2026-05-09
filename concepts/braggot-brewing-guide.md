@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
 ---
 # Braggot Brewing Guide
 
@@ -108,11 +109,7 @@ Braggot is typically served at cellar temperature (50-55 degrees F), similar to 
 
 ## See Also
 
-- [[mead-making-guide]] for pure honey wine fermentation
 - [[beer-brewing-basics]] for general brewing technique
-- [[malt-and-malting-process]] for grain preparation
 - [[honey-varieties-guide]] for choosing the right honey
-- [[honey-extraction-and-processing]] for producing your own honey
 - [[herbal-beer-ingredients]] for herbs that complement honey
-- [[gruit-beer-and-herbs]] for herbal alternatives to hops
 - [[ale-vs-lager-fermentation]] for yeast selection guidance

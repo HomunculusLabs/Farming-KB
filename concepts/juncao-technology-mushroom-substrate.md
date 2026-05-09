@@ -15,7 +15,7 @@ Juncao (菌草) is a Chinese term where Jun (菌) means fungi and Cao (草) mean
 
 ## Origins and Development
 
-Juncao techniques were invented in 1983 by Professor Zhanxi Lin, director of Fujian Agriculture and Forestry University and the Juncao Research Institute in China. Before Juncao technology, many species of edible and medicinal fungi, including shiitake and [[wood-ear|wood's ear]], were primarily cultivated on sawdust or logs. The expansion of mushroom production led to over-exploitation of broad-leaf tree resources, causing a shortage of raw substrate materials. Major mushroom-producing countries like Japan and China encountered these problems, which restricted further large-scale production development.
+Juncao techniques were invented in 1983 by Professor Zhanxi Lin, director of Fujian Agriculture and Forestry University and the Juncao Research Institute in China. Before Juncao technology, many species of edible and medicinal fungi, including shiitake and wood's ear, were primarily cultivated on sawdust or logs. The expansion of mushroom production led to over-exploitation of broad-leaf tree resources, causing a shortage of raw substrate materials. Major mushroom-producing countries like Japan and China encountered these problems, which restricted further large-scale production development.
 
 The invention of Juncao techniques resolved the conflict between increasing fungi production and protecting ecological environments, enabling fast and sustainable mushroom production growth.
 
@@ -93,7 +93,7 @@ From 1983 to 2003, 37 Juncao species were selected as suitable for mushroom cult
 - Oryza sativa (rice)
 - Musa nana (banana)
 - Setaria anceps
-- Eichhornia crassipes ([[water-hyacinth]])
+- Eichhornia crassipes (water hyacinth)
 - Gossypium hirsutum (cotton)
 - Medicago sativa (alfalfa)
 - Helianthus annuus (sunflower)
@@ -111,37 +111,13 @@ Multiple Pleurotus species thrive on Juncao, including P. ostreatus, P. sapidus,
 
 ### Other Cultivated Species
 
-- [[agaricus-bisporus]] and [[agaricus-blazei]]
-- [[lentinula-edodes]] (shiitake)
-- [[ganoderma-lucidum]] and [[ganoderma-sinense]]
-- [[hericium-erinaceus]] (lion's mane)
-- [[grifola-frondosa]] (maitake)
+- [[agaricus-blazei]]
+- [[ganoderma-lucidum]] and [[hericium-erinaceus]] (lion's mane)
 - [[auricularia-auricula]] and Auricularia cornea (wood ear)
-- [[volvariella-volvacea]] (paddy straw mushroom)
-- [[pholiota-nameko]] and [[agrocybe-cylindracea]]
-- [[coprinus-comatus-detailed]] (shaggy mane)
-- [[stropharia-rugosoannulata]] (wine cap)
-- [[armillaria-mellea]] and [[armillaria-tabescens]]
-- Dictyophora species
-- [[coriolus-versicolor]] (turkey tail)
-- [[poria-cocos]] (fu ling)
+- [[pholiota-nameko]] and [[coprinus-comatus-detailed]] (shaggy mane)
+- [[armillaria-mellea-entity]] and [[coriolus-versicolor]] (turkey tail)
+- [[juncao-grass-substrate-technique]]
 
-## Significance for Sustainable Cultivation
-
-Juncao technology addresses several critical sustainability challenges in mushroom cultivation:
-
-1. **Forest conservation**: By replacing sawdust from broad-leaf trees, Juncao reduces deforestation pressure from mushroom production.
-2. **Rapid renewal**: Grasses regenerate much faster than trees, providing a continuously renewable substrate source.
-3. **Higher nutrient content**: Many Juncao species provide superior nutritional profiles compared to sawdust, potentially improving yields.
-4. **Weed utilization**: Invasive species like [[water-hyacinth]] can be converted from ecological problems into productive mushroom substrates.
-5. **Low-cost cultivation**: Many Juncao species are locally available in tropical and subtropical regions, reducing substrate transportation costs.
-
-The technology is particularly relevant for developing countries in tropical regions where agricultural residues and fast-growing grasses are abundant but sawdust may be scarce or expensive.
-
-## See Also
-
-- [[mushroom-cultivation-basics]]
 - [[mushroom-substrates]]
-- [[oyster-mushroom]]
 - [[mushroom-spawn-production]]
 - [[mushroom-cultivation-bulk-substrates]]

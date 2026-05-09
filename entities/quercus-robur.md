@@ -75,20 +75,8 @@ permanent position due to long tap root development.
 
 ## Relevance
 English oak is a foundational species in European temperate
-ecosystems and a key element in temperate [[permaculture]] forest
-gardens. Its exceptional timber quality (especially for wine barrels),
-wildlife habitat value (supporting 2,300+ insect species), low
-combustibility for firebreaks, and acorn production for livestock
-forage make it a multi-functional design element. Its support for
-biodiversity is unmatched in European tree species, making it
-essential for ecological restoration and conservation-oriented
-permaculture designs.
+ecosystems and a key element in temperate [[nothofagus-obliqua]]
 
-## See Also
-
-- [[nothofagus-obliqua]]
-
-- [[food-forest-design]]
 - [[quercus-suber]]
 - quercus ilex
 - quercus petraea

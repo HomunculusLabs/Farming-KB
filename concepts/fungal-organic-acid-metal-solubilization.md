@@ -70,31 +70,7 @@ aspect of fungal physiology for releasing essential nutrients such as
 phosphate and metal cations into forms available for uptake and
 biogeochemical cycling. Most phosphate fertilizers are applied as
 solid calcium phosphate, which must be solubilized before becoming
-available to plants. [[mycorrhizal-fungi]] increase phosphate uptake partly
-through their high phosphate-solubilizing abilities.
-
-Soil fungi, including mycorrhizas, increase inorganic nutrient
-availability to plants by increasing the mobility of essential metal
-cations and other anions such as sulfate. Fungal organic acids are
-responsible for weathering features in minerals under European
-coniferous forests, where pore networks approximately 3 to 10
-micrometers in diameter have been found in feldspars and hornblendes,
-sometimes containing hyphae.
-
-## Bioremediation Applications
-
-Many fungal species can remove metals from industrial wastes and
-by-products, low-grade ores, and metal-bearing minerals. Heterotrophic
-leaching by fungi occurs mainly through organic acid production, with
-siderophore-mediated leaching important for iron. The resulting
-metal-organic acid complexes could eventually be degraded for metal
-recovery, and interaction of leaching technologies with biosorption
-offers additional possibilities.
-
-However, fungal solubilization can have adverse effects on remediation
-efforts. Pyromorphite, a stable lead mineral that forms in
-contaminated soils and reduces lead bioavailability, can be
-solubilized by phosphate-solubilizing fungi such as [[aspergillus-niger]].
+available to plants. [[aspergillus-niger]].
 Plants grown with pyromorphite as a sole phosphorus source accumulated
 both phosphorus and lead, demonstrating that fungal activities can
 undermine certain remediation strategies.
@@ -140,8 +116,5 @@ processes operating simultaneously in the soil environment.
 
 ## See Also
 
-- [[staycare-fungal-organic-acid-production-metal-leaching]]
-
 - [[fungal-metal-transformations-biosorption]]
-- [[gadd-fungal-metal-interactions]]
 - [[fungal-metal-biosorption-comparative]]

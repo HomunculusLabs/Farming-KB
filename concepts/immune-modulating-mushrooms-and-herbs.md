@@ -3,7 +3,7 @@ title: Immune-Modulating Mushrooms and Herbs
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: []
 ---
 
@@ -63,55 +63,30 @@ Grows on birch in cold climates. Sustainable harvesting is critical.
 ### Lion's Mane (Hericium erinaceus)
 Cognitive enhancement, nerve regeneration (NGF stimulation), immune support.
 Hericenones, erinacines, beta-glucans. 500-3000mg dual extract daily. Also see
-[[adaptogenic-herbs-overview]].
-
-### Cordyceps (Cordyceps militaris)
-Energy, endurance, respiratory health, immune support. Cordycepin, adenosine,
-beta-glucans. 1-3g powder or extract daily. C. militaris is cultivated and
-affordable.
-
-## Immune-Modulating Herbs
-
-### Echinacea (Echinacea purpurea, E. angustifolia)
-Acute immune stimulant for colds/flu. Alkylamides stimulate phagocytosis and
-NK cells. 300-600mg extract 3x daily at onset; most effective at first sign
-of infection. Not for long-term daily use.
-
-### Elderberry (Sambucus nigra)
-Antiviral for colds and flu. Anthocyanins inhibit viral replication, reduce
-duration and severity. 1 tbsp syrup daily for prevention; 3-4x daily during
-illness. Raw berries contain cyanogenic glycosides — always cook.
-
-### Astragalus (Astragalus membranaceus)
-Deep immune tonic, adaptogen. Polysaccharides enhance immune cells and
-interferon production. 1-2g root decoction daily; 2-4ml tincture 2-3x daily.
-Best preventively long-term; traditionally not during acute illness (TCM).
-
-### Andrographis (Andrographis paniculata)
-Acute immune stimulant, anti-infective. Andrographolides are antiviral,
-antibacterial, anti-inflammatory. 400mg standardized extract 3x daily during
-acute illness. Extremely bitter — use capsules.
-
-## Extraction Methods
-
-| Method | Solvent | Extracts | Best For |
-|--------|---------|----------|----------|
-| Decoction | Water | Beta-glucans, polysaccharides | Mushrooms, roots, bark |
-| Tincture | Ethanol | Alkaloids, terpenoids, flavonoids | Herbs, resins |
-| Dual extract | Water + ethanol | Full spectrum | Medicinal mushrooms |
-| Glycerite | Glycerin/water | Mild constituents | Children's preparations |
-| Acetum | Vinegar | Minerals, some alkaloids | Mineral-rich herbs |
-
-## See Also
-
-- [[adaptogenic-herbs-overview]] — Adaptogens with immune-modulating overlap
-- [[medicinal-mushroom-health-benefits]] — Broader mushroom health benefits
+[[adaptogenic-herbs-overview]] — Adaptogens with immune-modulating overlap
 - [[herbal-medicine-making-basics]] — Preparation methods and equipment
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[mushroom-cytokine-production-immune-activation]]
 - [[reishi-mushroom-medicinal-properties]]
+## Practical Considerations
+
+Successful implementation of Immune-Modulating Mushrooms and Herbs requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

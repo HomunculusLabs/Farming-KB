@@ -142,8 +142,6 @@ Gooseberry powdery mildew (*Podosphaera mulsanthi*) is the most significant dise
 
 ## Related Topics
 
-- [[berry-fruit-production-in-permaculture|Berry and Small Fruit Growing]]
 - [[fruit-tree-grafting-guide|Fruit Tree Care and Orchard Management]]
-- [[mollison-designers-companion-planting-charts-and-principles|Companion Planting and Polycultures]]
 - [[lacto-fermentation-and-food-preservation-methods|Food Preservation and Storage]]
 - [[fruit-growing-guide-organic|Orchard Fruit Guide]]

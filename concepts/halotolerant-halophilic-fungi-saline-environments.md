@@ -14,17 +14,8 @@ sources:
 type: concept
 ---
 
-# Halotolerant and [[halophilic-fungi]] in Saline Environments
-Halophilic and halotolerant fungi are species capable of
-growing in environments with elevated salt concentrations,
-ranging from slightly saline soils to hypersaline lakes
-and salt pans. While not a taxonomic group, these fungi
-share physiological adaptations that allow them to
-maintain cellular function under osmotic stress. Their
-study overlaps with research on
-[[fungi-stressful-environments-thermophilic-xerophilic-halophilic]],
-[[osmophilic-osmotolerant-fungi-low-water-activity]], and
-the broader context of [[marine-mycelial-fungi]]. The
+# Halotolerant and [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]],
+[[marine-mycelial-fungi]]. The
 diversity of halophilic fungi in extreme saline habitats
 remains poorly documented and likely represents a
 significant reservoir of undescribed fungal species.
@@ -147,3 +138,7 @@ physiological studies.
 ### Aspergillus and Penicillium
 
 Several species of Aspergillus and Penicillium show
+
+## See Also
+
+- [[dematiaceous-fungi-melanin-fungal-ecology]]

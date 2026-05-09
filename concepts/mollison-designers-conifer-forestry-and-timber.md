@@ -57,20 +57,7 @@ Key principles of sustainable conifer management include selective
 harvesting that removes individual trees or small groups rather than
 clearing entire stands, maintaining a range of age classes across the
 forest to ensure continuous production, and preserving seed trees and
-habitat structures. [[mollison-designers-earthworks-for-erosion-control]] such as access
-tracks and extraction routes must be designed to minimise soil compaction
-and erosion during harvesting operations.
-
-The concept of maximum sustainable yield must be tempered by ecological
-considerations. Mollison argues that forests managed solely for timber
-production sacrifice the non-timber values of water production, wildlife
-habitat, recreation, and carbon sequestration that healthy forests
-provide. A permaculture approach balances timber production with these
-broader ecosystem services.
-
-## Windbreak and Shelterbelt Conifers
-
-Conifers are widely used in [[mollison-designers-windbreak-configurations-for-crops-and-orchards]] and
+habitat structures. [[mollison-designers-windbreak-configurations-for-crops-and-orchards]] and
 shelterbelt plantings due to their dense, evergreen foliage that provides
 year-round wind protection. Mollison provides detailed guidance on
 windbreak design using conifers, including species selection for different
@@ -81,32 +68,7 @@ Conifer windbreaks reduce wind speed on the leeward side for distances of
 10 to 15 times the height of the trees, significantly improving growing
 conditions for crops, pastures, and livestock in sheltered areas. They
 also reduce evapotranspiration from protected areas, effectively
-increasing available moisture. On farms with [[mollison-designers-broadacre-grain-and-pasture-design]],
-conifer shelterbelts improve animal welfare and productivity by reducing
-cold stress in winter and heat stress in summer.
-
-Species selection for windbreaks must account for local climate extremes,
-soil conditions, and expected lifespan. Cypress species (Cupressus spp.)
-are widely used in Mediterranean climates. Spruces and firs perform well
-in cold continental climates. Coastal plantings require salt-tolerant
-species such as maritime pine (Pinus pinaster) or Monterey cypress
-(Cupressus macrocarpa).
-
-## Mixed Species Forestry
-
-Monoculture conifer plantations are ecologically impoverished compared
-to natural mixed forests. They support limited biodiversity, are more
-vulnerable to pest and disease outbreaks, and deplete soil nutrients
-over successive rotations. Mollison advocates for mixed-species forestry
-that combines conifers with broadleaf trees, nitrogen-fixing species,
-and understory plants to create more resilient and productive forest
-systems. Integrating nitrogen-fixing trees such as alder (Alnus spp.) or black locust
-(Robinia pseudoacacia) into conifer stands improves soil nitrogen
-availability and reduces fertiliser needs. Understory plantings of shade-
-tolerant shrubs and ground covers add biodiversity, improve soil
-structure, and provide additional yields such as berries, mushrooms, and
-medicinal plants. This approach connects conifer forestry to the broader
-principles of [[mollison-designers-food-forest-succession-design]] and
+increasing available moisture. On farms with [[mollison-designers-food-forest-succession-design]] and
 mollison designers agroforestry and integrated tree crops.
 
 ## Non-Timber Forest Products
@@ -119,32 +81,6 @@ provides aromatic oils for aromatherapy and cleaning products. Mushrooms,
 particularly chanterelles and porcini, associate with conifer roots and
 can be managed for sustainable harvest.
 
-[[mollison-designers-poultry-forage-design-pastured-systems]] can be integrated
-into conifer forests for pest control, fertiliser distribution, and
-additional meat and egg production. The dappled shade of conifer stands
-provides excellent conditions for free-range poultry, while the birds
-control insect populations and distribute manure that benefits the
-forest floor ecosystem.
-
-## Water and Watershed Protection
-
-Conifer forests play a critical role in watershed protection. Forested
-catchments produce cleaner, more reliable water flows than cleared land.
-Conifer canopies intercept rainfall, reducing the impact of intense
-storms on soil surfaces, while forest floor litter acts as a sponge that
-absorbs and slowly releases water. These functions relate directly to
 [[mollison-designers-rainwater-harvesting-swale-systems]] and
-[[mollison-designers-cloudburst-and-stormwater-management]] at the landscape scale.
-
-Mollison cautions that conifer monocultures can reduce streamflow through
-high transpiration rates, particularly in areas with limited rainfall.
-Mixed forests with a significant broadleaf component generally provide
-better water yield while maintaining soil protection functions.
-
-## Cross-References
-
-- [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]: Shelterbelt planning
-- [[mollison-designers-food-forest-succession-design]]: Multi-strata forest systems
-- mollison designers agroforestry and integrated tree crops: Integration with crops
+[[mollison-designers-windbreak-configurations-for-crops-and-orchards]]: Shelterbelt planning
 - [[mollison-designers-rainwater-harvesting-swale-systems]]: Watershed forest role
-- [[mollison-designers-earthworks-for-erosion-control]]: Access and extraction

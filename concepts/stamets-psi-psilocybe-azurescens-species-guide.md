@@ -1,7 +1,7 @@
 ---
 title: psilocybe-azurescens Species Guide
 created: 2026-04-28
-tags: [mycology, psilocybe, species-guide, pacific-northwest]
+tags: [[mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
@@ -102,21 +102,9 @@ non-undulating cap margin, and broad but pronounced umbo are
 representative features. psilocybe-cyanescens is similar but can be
 macroscopically distinguished by its much smaller stature and
 characteristically sine-wave margin. A variety sometimes called
-"[[psilocybe-cyanescens]] Ossip" from the Astoria area bears resemblance
-to P. azurescens.
-
-## Related Species
-
-- psilocybe-cyanescens - smaller, wavy-capped relative
-- [[psilocybe-cyanofibrillosa]] - Pacific coastal species
+"[[psilocybe-cyanofibrillosa]] - Pacific coastal species
 - psilocybe-serbica - European wood-inhabiting species
-- [[psilocybe-subaeruginosa]] - Australian species
-- psilocybe-venenata - related taxon
-
-## See Also
-
 - [[stamets-psi-psilocybe-mexicana-species-guide]]
-- [[stamets-psi-psilocybe-cubensis-species-guide]]
 - [[stamets-psi-psilocybe-cyanescens-species-guide]]
 
 - psilocybin-potency - comparative potency data across species

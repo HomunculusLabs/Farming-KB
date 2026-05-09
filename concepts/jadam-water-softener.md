@@ -9,26 +9,7 @@ sources:
 ---
 # JADAM Water Softener (JWS)
 
-Hard water containing calcium (Ca), magnesium (Mg), and iron (Fe) is the single biggest enemy of [[ultra-low-jadam-wetting-agent-jwa]]. JWS uses ion-exchange resin to strip these minerals from water, producing soft water that produces vigorous foam and clear solution when mixed with JWA. Without soft water, pesticide will clot, leave marks on produce, and have greatly reduced effectiveness.
-
-## Why Soft Water Matters
-
-- JWA is a soap (saponified oil). Soap reacts with Ca/Mg/Fe in hard water to form insoluble precipitates -- this is the "clotting" or murkiness you see
-- Clotted pesticide leaves marks on fruits and leaves, causing concentration stress and reduced quality
-- Soft water mixed with JWA stays completely clear and produces abundant foam -- this foam IS the pesticide's wetting power
-- Wetting power determines whether pesticide coats the pest thoroughly; without it, pest control fails regardless of active ingredients
-- Even synthetic chemical pesticides are affected by hard water (less foam = less wetting)
-
-## How to Test for Soft Water
-
-1. Take a sample of water in a clear container
-2. Add a few drops of JWA
-3. Shake vigorously
-4. **Good (soft) water**: stays completely clear, produces lots of foam that persists
-5. **Bad (hard) water**: turns murky/cloudy like milk, little or no foam
-6. Gradations exist -- the clearer and foamier, the better
-
-Use only water that passes this test for making JWA, boiling JHS, culturing JMS, and mixing all [[query-how-do-i-make-jadam-natural-pesticide-jnp]].
+Hard water containing calcium (Ca), magnesium (Mg), and iron (Fe) is the single biggest enemy of [[query-how-do-i-make-jadam-natural-pesticide-jnp]].
 
 ## JADAM Water Softener Specifications
 
@@ -87,15 +68,30 @@ The softer the water, the less JWA you need. With very soft water, JWA 3L per 50
 
 ## See Also
 
-- [[jadam-wetting-agent-jwa]] -- JWA is useless without soft water; the two are inseparable
 - [[jadam-natural-pesticide-jnp]] -- the complete pesticide system that depends on soft water
 - jadam pesticide dosage guide -- dosage adjustments based on water quality
 
 ## Related
 
-- [[jadam-herbal-smoker]]
 - [[jadam-pesticide-research-cup-method]]
-- [[jadam-fungal-disease-management]]
 - [[jadam-foam-gun-pesticide-method]]
-- [[jadam-natural-pest-control-methods]]
 - [[knf-pest-control-and-soap-water]]
+## Practical Considerations
+
+Successful implementation of JADAM Water Softener requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

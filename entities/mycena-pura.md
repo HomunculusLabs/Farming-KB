@@ -42,35 +42,72 @@ Unlike wood-inhabiting species or dung-inhabiting species, *M. pura* is a leaf-l
 
 The chemical profile of *M. pura* is complex and notable for containing both psychoactive and toxic components — an unusual combination among mushrooms. In the context of neurotropic fungi, it has been reported to contain small quantities of psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine), placing it in Group 1 of Guzmán's classification of neurotropic fungi.
 
-However, the concentrations of psilocybin are generally considered too low to produce significant psychoactive effects at typical consumption levels. More importantly, *M. pura* contains muscarine (2-methyl-3-hydroxy-5-(N-methyl-N-2-propenylamino)tetrahydrofuran), a toxic alkaloid that acts as an agonist at muscarinic acetylcholine receptors. Muscarine is the same toxic compound found in [[amanita-muscaria]] (the fly agaric) and several Inocybe and Clitocybe species, though in the case of *A. muscaria*, the primary toxins are ibotenic acid and muscimol rather than muscarine itself.
-
-## Toxicity
-
-*Mycena pura* is considered poisonous due to its muscarine content, and consumption should be strictly avoided. While fatalities from muscarine poisoning are extremely rare (the compound is rapidly metabolized and excreted), ingestion can cause unpleasant and potentially dangerous symptoms including excessive sweating (diaphoresis), salivation and lacrimation (tearing), nausea and vomiting, abdominal cramps and diarrhea, blurred vision, slowed heart rate (bradycardia) followed by tachycardia, drop in blood pressure (hypotension), and in severe cases, respiratory difficulties due to bronchoconstriction and increased bronchial secretions.
-
-The symptoms of muscarine poisoning are often described by the mnemonic "DUMBBELSS" (Defecation, Urination, Miosis, Bronchoconstriction, Bronchorrhea, Emesis, Lacrimation, Salivation, Sweating). Medical treatment typically involves administration of atropine, which acts as a competitive antagonist at muscarinic receptors, effectively blocking the effects of muscarine.
-
-The presence of both psilocybin and muscarine in the same species is highly unusual and makes *M. pura* a particularly poor candidate for any kind of use, as the toxic muscarinic effects would likely overshadow any psychoactive effects from the low levels of psilocybin. This dual chemistry serves as an important reminder that not all mushrooms containing psilocybin are safe for consumption.
-
-## Ecological Role
-
-As a saprotrophic decomposer of leaf litter and forest floor debris, *M. pura* plays an important role in nutrient cycling in forest ecosystems. Mycena species collectively are among the primary decomposers of recalcitrant plant materials such as fallen leaves and conifer needles, contributing to the formation of humus and the cycling of carbon and nutrients in forest soils. Despite their small size, Mycena species are ecologically significant components of forest floor fungal communities.
-
-## Related Species
-
-- [[inocybe-geophylla]] — a muscarine-containing species with a similar lilac color form
+However, the concentrations of psilocybin are generally considered too low to produce significant psychoactive effects at typical consumption levels. More importantly, *M. pura* contains muscarine (2-methyl-3-hydroxy-5-(N-methyl-N-2-propenylamino)tetrahydrofuran), a toxic alkaloid that acts as an agonist at muscarinic acetylcholine receptors. Muscarine is the same toxic compound found in [[inocybe-geophylla]] — a muscarine-containing species with a similar lilac color form
 - Clitocybe rivulosa — another toxic mushroom containing muscarine, the fool's funnel
-- [[amanita-muscaria]] — the fly agaric, containing ibotenic acid and muscimol alongside muscarine
 - [[amanita-pantherina]] — the panther cap, containing ibotenic acid and muscimol
 - Mycena galericulata — a common non-toxic relative, the common bonnet
 
 ## See Also
 
-- [[mycena-purpureofusca]]
 - [[mycena-citrinomarginata]]
-- [[mycena-galopus]]
-
-- Mycena — genus overview
 - [[muscarine]] — toxic alkaloid found in this species
-- [[psilocybin-compound]] — psychoactive compound present in trace amounts
 - [[distribution-of-neurotropic-fungi]] — Guzmán, Allen & Gartz source survey
+## Practical Considerations
+
+When working with Mycena pura, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

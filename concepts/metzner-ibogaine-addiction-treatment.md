@@ -9,7 +9,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 # Ibogaine Addiction Treatment
 
-Ibogaine, derived from the African [[iboga-plant]] ([[tabernanthe-iboga]]), has emerged as a
+Ibogaine, derived from the African [[tabernanthe-iboga]]), has emerged as a
 substance with significant potential for treating chemical dependency disorders. Used
 for centuries in the Bwiti religious tradition of Gabon and Zaire, ibogaine's modern
 therapeutic application represents a bridge between indigenous ethnobotanical knowledge
@@ -141,6 +141,5 @@ expanded states of consciousness can heal contracted ones.
 
 - [[ibogaine-anti-addiction-therapy]]
 
-- [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[metzner-ayahuasca-therapeutic-potential]]
 - [[metzner-mdma-assisted-therapy-research]]

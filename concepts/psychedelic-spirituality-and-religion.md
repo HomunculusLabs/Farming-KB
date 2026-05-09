@@ -119,12 +119,8 @@ consciousness, meaning, and the nature of religious experience.
 ## Related
 
 - [[psilocybin-and-mystical-experience]]
-- [[psilocybin-and-mystical-experience]]
-- [[consciousness-as-fundamental-property]]
 - [[eleusinian-mysteries-history-and-structure]]
-- [[shamanic-use-of-psychedelics]]
 - [[amanita-muscaria-ethnobotany]]
 - psychedelic spirituality and religion
-- [[scythian-cannabis-steam-bath-ritual]]
 - [[sacred-sacrament-mushroom-rites]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]

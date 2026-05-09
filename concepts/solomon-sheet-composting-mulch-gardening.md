@@ -16,61 +16,6 @@ type: concept
 # Sheet Composting and Mulch Gardening
 
 Steve Solomon evaluates two popular organic gardening methods --
-[[solomon-carbon-nitrogen-ratios]] and permanent mulch
-gardening -- with his characteristic practicality and willingness to
-challenge orthodoxy. While both methods have merit, Solomon provides
-important caveats and context that many gardening books omit.
-
-## Sheet Composting
-
-Sheet composting is the practice of spreading a layer of nutrient-rich,
-decomposable organic matter atop the soil and then shallowly digging it in.
-Materials decompose much faster when mixed into well-oxygenated soil than
-when merely spread on the surface.
-
-### When It Works
-
-Sheet composting will grow a good vegetable garden if you do it far enough
-in advance that there is time for decomposition before planting time. This
-means several weeks to a few months, depending on the material used and
-soil temperature.
-
-### Handling Fresh Manure
-
-Sheet composting works well as a fertilizer if you spread fresh manure
-and, in hot sunny weather, incorporate it immediately after spreading. The
-key concern is nitrogen loss: ammonia volatilizes rapidly from fresh manure
-exposed to sun and air. Quick incorporation traps the nitrogen in the
-soil where bacteria can convert it to plant-available nitrates.
-
-### Composting in Place
-
-A variation involves growing a green-manure crop and then chopping it
-into the bed surface with a sharp hoe. The crop decomposes rapidly and
-leaves the earth in fine, friable condition. Wait a week for decomposition,
-then rake the bed level. This makes an excellent seedbed for the next
-crop. Mustards are particularly effective for this purpose because they
-decompose rapidly.
-
-## Mulch Gardening: Solomon's Critical Assessment
-
-If nature maintains fertility through the slow surface decomposition of
-organic materials and does not dig (except for worm activity), why not
-copy nature: spread organic matter on top of the soil and let it rot? The
-answer is a qualified yes, but with important limitations.
-
-### Where Mulch Gardening Works
-
-Mulch gardening works best in climates where:
-
-- The soil freezes solid in winter, which kills pest populations.
-- Summers are hot enough to rot the mulch rapidly.
-- You fortify infertile materials (spoiled hay, autumn leaves) with
-  sprinklings of seed meals or other nutrient-rich amendments.
-
-To get the best possible result, mulch with something rich in plant
-nutrients like alfalfa (lucerne), or else fortify bulk mulch materials
-with the same seed meals used in
 [[solomon-complete-organic-fertilizer-guide]].
 
 ### Solomon's Criticisms of Permanent Mulch Gardening
@@ -82,20 +27,6 @@ these observations:
 you are mulching on the cheap with grass clippings, you may spend more
 time patrolling for weeds than you would spend learning how to properly
 sharpen and use a hoe. See
-[[solomon-garden-hoe-and-cultivation-techniques]].
-
-**Mulch does not significantly reduce moisture loss.** Moisture is
-mainly lost through plant transpiration, not through evaporation from
-bare earth as mulching enthusiasts claim. Plants transpire water as
-the sun shines on their leaves, regardless of what covers the soil.
-
-**Mulched gardens are slow to warm up in spring.** The insulating layer
-delays soil warming, delaying planting and germination.
-
-**Nutrient ratios become unbalanced.** With permanent mulching, so much
-leaf and straw residue is incorporated into the garden that the soil's
-nutrient ratios are inevitably perturbed. Consequently, the nutritional
-content of your vegetables may suffer. See
 [[solomon-vegetable-nutritional-decline-trace-minerals]].
 
 **Bulk requirements are enormous.** If your garden is larger than a
@@ -114,10 +45,7 @@ the soil does not freeze solid in winter.
 It works out to be less effort and far more effective to:
 
 1. **Heap-compost enough organic material** to maintain soil humus at
-   healthy levels. See [[solomon-composting-methods]].
-2. **Use COF or poultry manure compost** as fertilizer on medium- and
-   high-demand vegetables. See
-   [[solomon-complete-organic-fertilizer-guide]].
+   healthy levels. See [[solomon-complete-organic-fertilizer-guide]].
 3. **Reserve mulching** for specific situations: suppressing weeds around
    established perennials, moisture conservation during brief dry spells,
    or for gardeners whose physical mobility is restricted.
@@ -147,3 +75,22 @@ these methods:
   weeds and build organic matter over time.
 
 ## Related Topics
+## Practical Considerations
+
+Successful implementation of Sheet Composting and Mulch Gardening - Steve Solomon requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

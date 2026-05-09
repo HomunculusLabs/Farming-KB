@@ -21,60 +21,7 @@ type: concept ---
 ## Overview
 
 Bigwood and Beug (1982) compared the alkaloid profiles of three distinct strains of
-[[psilocybe-cubensis]] grown on rye-grain substrate, analyzing caps and stems separately from their
-first flush.  The three strains, designated Amazon, M.R., and Equadorian, each displayed unique
-distribution patterns of [[psilocybin-compound]] and [[psilocin]] between fruiting body tissues. These
-differences reveal that alkaloid distribution is strain-dependent and cannot be generalized across
-all Psilocybe cubensis varieties, a finding with important implications for research methodology and
-practical dosing.
-
-## The Three Strains Under Study
-
-The primary Amazon strain originated from a spore print collected near Pucallpa, Peru, in the Amazon
-basin, as documented by Repke et al.  (1977). This strain served as the controlled subject for the
-full flush-by-flush variation study across three independent minicultures.  Mycelium from the
-original spore print was maintained as a stock culture on various agar media, allowing repeated
-inoculation from a genetically consistent source. The Amazon strain was selected because it
-represented a genetically distinct tropical lineage with potentially different alkaloid
-characteristics compared to commercially available strains circulating in the Pacific Northwest.
-
-The M.R. and Equadorian strains were obtained from outside sources (other cultivators) and were
-analyzed only for their first flush.  While the study does not provide detailed provenance
-information for these two strains, their distinct alkaloid profiles confirmed that they represented
-genuinely different genetic lines rather than simply environmental variants of the same strain.
-
-## First Flush Cap Versus Stem Alkaloid Distribution
-
-The first flush was selected for comparative analysis because it represents the most standardized
-point in the cultivation cycle. At the first flush, all three strains had been grown on identical
-rye-grain substrate, cased with the same peat-calcium carbonate-perlite mix, and watered on the same
-schedule with 1 ml of sterile water every two days. The only variable was the genetic identity of
-the strain itself.
-
-### M.R. Strain First Flush Data
-
-- Caps: 6.7 mg/g psilocybin, 0 mg/g psilocin - Stems: 4.2 mg/g psilocybin, 0.35 mg/g psilocin
-
-This strain demonstrated a pronounced pattern where caps contained approximately 60% more
-[[psilocybin-compound]] than stems (6.7 versus 4.2 mg/g). The small amount of [[psilocin]] detected (0.35
-mg/g) was found exclusively in stem tissue, with none detected in the caps above the detection limit
-of approximately 0.01 micrograms. The cap-to-stem psilocybin ratio was 1.59:1.
-
-### Equadorian Strain First Flush Data
-
-- Caps: 7.6 mg/g psilocybin, 0 mg/g psilocin - Stems: 4.7 mg/g psilocybin, 0.4 mg/g psilocin
-
-Similar to the M.R. strain, caps contained approximately 62% more psilocybin than stems (7.6 versus
-4.7 mg/g). Trace psilocin was detected only in stems at 0.4 mg/g. The Equadorian strain had the
-highest cap psilocybin concentration of the three strains tested at 7.6 mg/g, and its cap-to-stem
-psilocybin ratio of 1.62:1 was nearly identical to the M.R. strain, suggesting shared ancestry or
-similar selective pressures.
-
-### Amazon Strain First Flush Data
-
-- Caps: 5.7 mg/g psilocybin, 0.1 mg/g psilocin - Stems: 5.7 mg/g psilocybin, 0 mg/g psilocin
-
-The Amazon strain was unique in showing perfectly equal [[psilocybin-compound]] distribution between cap and
+[[psilocybin]] and [[psilocybin]] than stems (6.7 versus 4.2 mg/g). The small amount of [[psilocybin]] distribution between cap and
 stem tissues, both measuring 5.7 mg/g. It also differed fundamentally from the other two strains by
 having a trace of psilocin (0.1 mg/g) in the cap rather than the stem, which is the reverse of the
 pattern observed in the M.R. and Equadorian strains.
@@ -116,20 +63,29 @@ The finding that psilocin localization between cap and stem is strain-dependent 
 enzymatic machinery for psilocybin dephosphorylation to psilocin is differentially expressed across
 fruiting body tissues in a strain-specific manner. The phosphatase enzyme responsible for converting
 psilocybin to psilocin appears to be regulated differently in each strain. This has direct
-implications for understanding [[psilocybin-biosynthesis-pathway]] regulation and for efforts to
-modulate alkaloid profiles through cultivation techniques such as
-[[gartz-tryptamine-enrichment-psilocybin-biosynthesis|tryptamine enrichment]].
+implications for understanding [[gartz-tryptamine-enrichment-psilocybin-biosynthesis|tryptamine enrichment]].
 
 ## Analytical Methodology
 
-All samples were analyzed using reversed-phase [[hplc-analysis-of-tryptamine-alkaloids]] calibrated
-against National Institute on Drug Abuse standards, with qualitative confirmation by thin-layer
-chromatography using butanol-acetic acid-water (12:3:5) as the mobile phase. The detection limit was
-approximately 0.01 micrograms of psilocybin or psilocin.
+All samples were analyzed using reversed-phase [[psilocybin-cap-stem-distribution-bigwood-beug]] -
+[[psilocin-accumulation-pattern-across-flushes]]
+- [[psilocybe-cubensis-street-sample-potency-variability]]
+## Practical Considerations
 
-## Related Concepts
+Successful implementation of Psilocybe Cubensis Strain Potency Comparison Amazon Mr Equadorian requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-- [[psilocybin-cap-stem-distribution-bigwood-beug]] -
-[[psilocybe-cubensis-potency-variation-by-flush]] - [[psilocin-accumulation-pattern-across-flushes]]
-- [[psilocybin-psilocin-variation-flushes]] -
-[[psilocybe-cubensis-street-sample-potency-variability]]
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

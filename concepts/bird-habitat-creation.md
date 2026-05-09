@@ -148,3 +148,43 @@ Different feeders attract different birds:
 - **Goldenrod (Solidago spp.)**: Seeds for winter birds; host for many insect species
 - **Asters (Symphyotrichum spp.)**: Seeds; late-fall nectar for migrating butterflies
 - **Native grasses**: Seeds for sparrows; cover for ground-nesting birds; see [[prairie-ecology]]
+- **Coneflowers (Echinacea spp.)**: Goldfinches relish the seeds in fall and winter
+
+## Seasonal Needs
+
+### Spring (March-May)
+- Migrating birds need high-energy food (suet, mealworms, fruit)
+- Clean and repair nest boxes before breeding season
+- Provide calcium sources (crushed eggshells) for egg-laying females
+- Maintain birdbaths for drinking and bathing
+- Plant native shrubs with spring berries
+
+### Summer (June-August)
+- Reduce feeder reliance; natural food is abundant
+- Continue providing water (critical during hot, dry periods)
+- Monitor nest boxes; record nesting data
+- Avoid pruning during nesting season; birds may be using shrubs and trees
+- Allow some insect populations for birds to feed their young
+
+### Fall (September-November)
+- Increase feeder offerings as natural food diminishes
+- Migrating birds need high-energy foods (suet, sunflower, fruit)
+- Leave seed heads on native plants (coneflowers, sunflowers, grasses)
+- Clean nest boxes after the breeding season
+- Add brush piles for winter cover
+
+### Winter (December-February)
+- Feeders are critical; supplement scarce natural food
+- Heated birdbaths provide essential open water
+- Maintain brush piles and evergreen cover for shelter
+- Suet and high-fat foods help birds survive cold nights
+- Roosting boxes (larger boxes with multiple perches) provide winter shelter
+
+## Window Collision Prevention
+Window collisions kill an estimated 1 billion birds annually in the US:
+
+- Place feeders within 3 feet of windows (birds cannot build up speed) or beyond 30 feet
+- Apply window decals, tape, or screens to break up reflections
+- Close curtains or blinds during peak migration periods
+- Install external screens or netting at least 3 inches from glass
+- Use UV-reflective glass or window films visible to birds

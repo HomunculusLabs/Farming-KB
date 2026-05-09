@@ -106,16 +106,10 @@ Lifecycle analysis of *Ulva*-based bioremediation systems indicates a favorable 
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
-- [[gracilaria-verrucosa]]
 - [[sargassum-fusiforme]]
-- [[chondrus-crispus]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[fucus-vesiculosus]]
-- [[chlorella-vulgaris]]
 - [[caulerpa-racemosa]]
-- [[ethnobotany]]
+- ethnobotany

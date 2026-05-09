@@ -10,45 +10,7 @@ tags: [reference]
 
 # Landform and Topography Reading
 
-So much of the ecology is affected by the shape of the land. Just as soup is contained within a bowl, the ecology is contained with geological features such as hills, valleys, grottos, soil composition, and so on. The shape of the ground affects the local hydro-cycle, creates micro-climates, determines what plants can grow where, and through these effects the animal populations. A [[permaculture]] Designer cannot take the geo-morphology of the site for granted.
-
-## Topography and Water Flow
-
-Following the topographical information of your base map you will want to chart the flow of water across your site. This will be instrumental in helping you determine what earthworks will be needed to slow, spread and drop the flow of water on your site. The ultimate goal of this is to ensure that all rain water which falls on the site stays on the site and infiltrates into the ground, or at least that any water which drains from your site, after being cleansed by bio-swales or some such, is deposited into a naturally occurring water way.
-
-Geological morphology -- the shape of the land -- forms a major component in the hydro-cycle. Mountains, hills, valleys, and other geological formations shape the patterns of how water flows across the surface, creating streams, rivers and lakes. When the land forms depressions in the topography the water collects into lakes; otherwise it continues to flow until it reaches the ocean.
-
-## Watersheds
-
-A watershed is a large basin in the landscape that collects all local precipitation and runoff into one area. Usually all of the water in a watershed ends up deposited into a large body of water such as a lake or river. Watersheds are most often bounded by mountains, hills or crests and funnel down to rivers or lakes. They can be as small as a city park or large enough to encompass several states. According to the US Geological Survey there are approximately 2,110 individual watersheds in the continental U.S., each supporting particular and specific ecological systems.
-
-When the land forms depressions in the topography, water collects into lakes; otherwise it continues to flow until it reaches the ocean. Below the ground, lacing through the geology are small caverns and basins. As water runs off from the surface some amount infiltrates and collects into subsurface features, becoming subsurface flow.
-
-Some sub-surface water flows back to the ocean, but a large amount is stored in aquifers -- essentially lakes underground. Being well away from the heat of the Sun, evaporation rates of aquifers are miniscule and water can be stored for thousands of years. Understanding how water moves both across the surface and below it is essential for reading any landscape.
-
-To build towns, cities, and roads humans move tons of tons of earth, literally re-shaping the landscape. As the landscape is re-shaped the entire watershed is affected. Understanding the watershed your site sits within is fundamental to understanding how water moves through and around your design.
-
-## Reading Slope and Topography for Fire
-
-The topography directly determines how fire moves across a landscape. Unlike water, fire flows uphill. The steeper the hill the faster the fire will move and the hotter it will get. You can backtrack up any slopes in your topography to determine the most likely path a fire will travel.
-
-Fires also need fuel. Very few wildfires start by burning trees. They first burn dry grasses, then shrubs, then dried low hanging tree canopies. Combining the topography analysis and the fuel analysis will tell you the most likely fire sectors for your design.
-
-## Soil Variation on Slopes
-
-When the site slopes you should take soil samples at the top of the slope, the middle and the bottom, as soil characteristics change with elevation on a slope. Two patches of ground with different colorations may indicate different types of soil. Different grasses or ground covers naturally occurring may indicate a difference in infiltration rate. Be sure to clearly number samples and keep track of where they are from, mapping soil types and infiltration rates onto your working base map.
-
-## Berms, Swales, and Keylines on Slopes
-
-Keylines are berms and swales that run across the slope of a hill, essentially catching and slowing water as it flows down. By filling berms and swales with ground covers and soft loamy soil it serves to soak up the water and control the flow so you do not get erosion.
-
-Berms and swales can be used to slow surface water flow, create garden space on slopes and hills, and guide water across your site into garden beds. Terraces should be used when you need to create garden space or a large flat plane of ground for some reason. Terracing is another common strategy -- just like swales, terraces help reduce water flow and create flat growing space.
-
-## Thermal Mass in Topography
-
-Soils also affect the micro-climate of a site. Darker soils and rock features in the topography can function as thermal mass, absorbing heat during the day and releasing it at night. Sands, rocks, stones, and concrete or brick walkways can function as thermal masses in the landscape, which can be exposed to direct sun year round or bordered by plants that provide shade in summer time.
-
-Hills can create shade zones and alter wind patterns. While a [[permaculture-design]] probably will not upheave enough earth to create true hills, secondary structures like chicken coops, greenhouses, gazebos, garages, and yurts can fill the same role as hills with good design planning.
+So much of the ecology is affected by the shape of the land. Just as soup is contained within a bowl, the ecology is contained with geological features such as hills, valleys, grottos, soil composition, and so on. The shape of the ground affects the local hydro-cycle, creates micro-climates, determines what plants can grow where, and through these effects the animal populations. A [[permaculture-design]] probably will not upheave enough earth to create true hills, secondary structures like chicken coops, greenhouses, gazebos, garages, and yurts can fill the same role as hills with good design planning.
 
 ## Erosion and Slope Management
 
@@ -82,15 +44,7 @@ Practice translating contour maps into mental 3D images by tracing water flow fr
 
 ## Keyline Principles
 
-[[keyline-design]], developed by P.A. Yeomans in Australia in the 1950s, is a systematic approach to land management based on the natural topographic patterns of a landscape. The keyline is defined as the line connecting the steepest point of each successive contour within a valley (the "keypoint"). This line represents the point where the valley floor transitions from concave (convex upward) to convex (concave upward) -- the point where water begins to slow and spread rather than concentrate and erode.
-
-Keyline principles for permaculture design:
-- **Cultivation parallel to the keyline**: By ploughing or cultivating parallel to the keyline (not parallel to contour), you progressively widen the cultivation lines as they extend from the valley up toward the ridges. This naturally distributes water from the wetter valley bottoms toward the drier ridges.
-- **Keypoint dam**: A small dam constructed at the keypoint of the primary valley captures the concentrated water flow and distributes it via gravity-fed irrigation channels along the keyline.
-- **Fence and tree line alignment**: Fences, tree lines, and access tracks follow keyline patterns rather than contour or grid lines, creating a landscape infrastructure that works with natural water flow.
-- **Slope irrigation**: Water released from keypoint dams flows outward along the keyline channels, spreading across the slope and infiltrating into the soil profile, reducing the need for pumped irrigation.
-
-The keyline approach transforms the conventional practice of fighting water (draining it away as quickly as possible) into working with water (storing it in the soil for plant use). See [[pdc-water-harvesting-earthworks-design]] for implementation details.
+[[pdc-water-harvesting-earthworks-design]] for implementation details.
 
 ## Slope Analysis and Classification
 

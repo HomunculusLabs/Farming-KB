@@ -7,9 +7,9 @@ updated: 2026-04-28
 sources: [https://www.extension.oregonstate.edu, https://www.sare.org, https://www.rhs.org.uk, https://www.fao.org, https://www.usda.gov]
 type: query
 ---
-# How Do [[query-what-is-syntropic-agriculture-and-how-do-i-start]] Growing Hazelnut Bushes?
+# How Do  Growing Hazelnut Bushes?
 
-Hazelnuts (also called filquery-what-are-the-best-[[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] o-i-make-koji-at-home-for-beginners]]-to-groware one of the easiest nut-producing plants to grow. They are cold-hardy, adaptable to a wide range of soils, and begin producing nuts within 3–5 years. With just two compatible bushes, proper spacing, and basic care, you can harvest your own nuts for decades with minimal effort.
+Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beginners-to-groware one of the easiest nut-producing plants to grow. They are cold-hardy, adaptable to a wide range of soils, and begin producing nuts within 3–5 years. With just two compatible bushes, proper spacing, and basic care, you can harvest your own nuts for decades with minimal effort.
 
 ## What You Need to Know Before Planting
 
@@ -32,59 +32,20 @@ Hazelnuts (also called filquery-what-are-the-best-[[query-what-are-the-most-comm
 | 3–4 | 'Badgersett', 'Somerset', 'Grand Traverse' | These are bred for extreme cold. 'Grand Traverse' handles -30°F. |
 | 4–5 | 'Jefferson', 'Gem', 'Theta', 'Dorris' | OSU-released disease-resistant varieties. Excellent for the Midwest and Northeast. |
 | 5–6 | 'Yamhill', 'Wepster', 'McDonald' | Compact bushes (8–12 ft), good for smaller yards. |
-| 6–8 | 'Barcelona', 'Tonda di Giffoni', 'Ennis' | Classic European filberts. Best nut size and flavor. Watch for eastern filbert blight in humid areas. |
-| 8–9 | 'Butler', 'Hall's Giant' | Only if you get 800+ chill hours. Avoid if winters are mild. |
-
-**Key distinction:** American hazelncorylus-avellanaericana*) are smaller, more cold-tolerant, [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]-resistant. European hazelnuts (*[[corylus-avellana]]*) produce larger nuts but are vulnerable to eastern filbert blight (EFB). OSU hybrids combine European nut size with American blight resistance — these are the best choice for most home growers.
-
-**If you're buying just two bushes:** Get 'Jefferson' (pollinates with 'Gem' or 'Theta')[[query-how-to-clone-cannabis-plants-step-by-step]]' (pollinates with 'Wepster'). Both are EFB-resistant and widely available from nurseries.
-
-## Step-by-Step Planting Guide
-
-### 1. [[organic-garden-soil-preparation]] (1–2 weeks before planting)
-- Test your soil pH. Adjust to 6.0–7.0 with lime (to raise) or elemental sulfur (to lower).
-- Work 2–4 inches of compost into the top 12 inches of soil over a 3-foot radius per planting site.
-- If your soil is heavy clay, build a slight mound (4–6 inches tall, 4 feet wide) to improve drainage.
-
-### 2. When to Plant
-- **Bareroot plants:** Plant in early spring (March–April) while dormant.
+| 6–8 | 'Barcelona', 'Tonda di Giffoni', 'Ennis' | Classic European filberts. [[coleman-overwintered-onions-and-early-spring-crops]] (March–April) while dormant.
 - **Container plants:** Plant in spring or early fall (September–October). Avoid planting after October 15 in zones 4–5 — roots need 4–6 weeks to establish before hard freeze.
 
 ### 3. Planting
 1. Dig a hole 18–24 inches wide and 12–18 inches deep.
 2. Set the plant so the root collar (where trunk meets roots) is exactly at soil level, not buried.
 3. Spread roots outward — do not curl or jam them in.
-4. Backfill with native soil mixed with 1 part compost to 3 parts soil. Do not fill the hole with pure compost.
-5. Water thoroughly: 3–5 gallons immediately after planting.
-6. Apply 3–4 inches of wood chip or bark mulch in a 3-foot circle. Keep mulch 3 inches away from the trunk to prevent rot.
-
-### 4. First-Year Care
-- Water 2–3 times per week (5 gallons each) during dry spells for the first [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-- Do not fertilize at planting. Wait until the second year.
-- Remove any flowers that form — let the plant put energy into root growth.
-- Stake the plant only if the site is very windy. Remove the stake after the first year.
-
-## Pollination Planning
-
-Hazelnuts are monoecious (separate male and female flowers on the same plant) but self-incompatible. You need pollen from a different variety to get nuts.
-
-**Timing matters:** Male catkins release pollen in late winter (January–March). Female flowers are tiny red tufts that emerge slightly before or after. For successful pollination, your two varieties must have overlapping pollen shed and female receptivity.
-
-**Proven compatible pairs:**
-- Jefferson + Gem or Theta
-- Yamhill + Wepster or McDonald
-- Barcelona + Daviana or Butler
-- Badgersett + Somerset (for cold zones)
-
-**Rule of thumb:** Buy your varieties from the same nursery and ask for a compatible pollinator. If buying online, check the nursery's pollination chart. Do not guess — incompatible pairs produce zero nuts even if both plants are healthy.
-
-**Plant at least 15 feet apart** so wind can carry pollen between them. In very still/windy sites, plant within 50 feet. Beyond 50 feet, pollination drops significantly.
+4. Backfill with native soil mixed with 1 part compost to 3 parts soil. Do not fill the hole w [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] lant within 50 feet. Beyond 50 feet, pollination drops significantly.
 
 ## Ongoing Care
 
 ### Watering
 - **Year 2+:** 1–2 inches of water per week during the growing season (April–August).
-- **Critical periods:** Late June through mid-July (nut filling stage). Drought during this window shrinks the nut crop.
+- **Critical periods:** Late June through mid-July (nut filling stage). Drought during this window shrinks the [[permplant-chestnuts-castanea-nut-crop-coppice]].
 - **Mature plants (5+ years):** Drought-tolerant but benefit from deep watering every 2 weeks in summer.
 - Drip irrigation or a soaker hose is ideal. Avoid overhead watering — it promotes fungal disease.
 
@@ -138,11 +99,8 @@ Hazelnuts are monoecious (separate male and female flowers on the same plant) bu
 - [ ] Space bushes 15–20 feet apart (8–10 feet for hedgerows)
 - [ ] Plant bareroot in early spring; container plants in spring or early fall
 - [ ] Set root collar at soil level — do not bury the trunk
-- [ ] Water 3–5 gallons at planting; apply 3–4 inches of mulch (3 inches from trunk)
-- [ ] Water 2–3 times per week during the first growing season
-- [ ] Skip fertilizer in year 1; start with 1/4 cup 10-10-10 in year 2
-- [ ] Begin renewal pruning in year 3 (remove oldest 1–2 stems per year)
-- [ ] Stop fertilizing by July 4 each year
-- [ ] Harvest fallen nuts in late August–September; dry 2–3 weeks before storage
-
 ## See Also
+
+- [[query-how-do-i-start-growing-hickory-trees]]
+- [[nutrient-movement-through-soil-to-plant-roots]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]

@@ -40,11 +40,7 @@ The longer a root is alive, the more extensive the mycorrhizal network becomes. 
 
 Finding and transporting phosphorus appears to be a major function of mycorrhizal fungi. The acids produced by mycorrhizal fungi can unlock, retrieve, and transport chemically locked-up phosphorus back to the host plant. They also free up copper, calcium, magnesium, zinc, and iron for plant use.
 
-Any nutrient compounds not delivered to plant roots are locked in the fungi and released when the fungi die and are decayed by other members of the [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
-
-## Protection from pathogens
-
-Mycorrhizal fungi form protective webs and nets around roots — and even on leaf surfaces in the [[teaming-with-microbes-overview]]. This prevents pathogenic and parasitic fungi from invading the plant. Beneficial mycorrhizal fungi compete with pathogens like Pythium and Rhizoctonia (which cause stem and root rot) for space and nutrients.
+Any nutrient compounds not delivered to plant roots are locked in the fungi and released when the fungi die and are decayed by other members of the [[teaming-with-microbes-overview]]. This prevents pathogenic and parasitic fungi from invading the plant. Beneficial mycorrhizal fungi compete with pathogens like Pythium and Rhizoctonia (which cause stem and root rot) for space and nutrients.
 
 When mycorrhizal populations are reduced by poor gardening practices, plants lose this physical barrier and become vulnerable to root rots and other diseases. The soil food web populations must be in balance, or mycorrhizal fungi are consumed by other organisms and the plant suffers.
 
@@ -60,7 +56,7 @@ All soil fungi are very fragile. Mycorrhizal fungi are damaged or destroyed by:
 
 ## Nitrogen form and mycorrhizal preference
 
-[[teaming-with-microbes-bacterial-vs-fungal-dominance]] (preferred by mycorrhizal plants) tend to have nitrogen in ammonium form because fungal acids lower [[teaming-with-microbes-soil-ph-and-biology]], suppressing nitrifying bacteria. Most trees, shrubs, and perennials — the plants that form mycorrhizae — prefer ammonium nitrogen (Rule #3).
+[[teaming-with-microbes-soil-ph-and-biology]], suppressing nitrifying bacteria. Most trees, shrubs, and perennials — the plants that form mycorrhizae — prefer ammonium nitrogen (Rule #3).
 
 Vegetables, annuals, and grasses prefer nitrate nitrogen and do best in bacterially dominated soils (Rule #2). The fungal-to-bacterial ratio of the soil directly affects what form of nitrogen is available and therefore which plants thrive.
 
@@ -72,20 +68,28 @@ Notable non-mycorrhizal plants include many members of the Brassicaceae family (
 
 To support mycorrhizal fungi in your garden:
 
-- Avoid [[teaming-with-microbes-tilling-damage-to-fungal-networks]] — this is the single most important practice
-- Use brown [[teaming-with-microbes-mulch-and-soil-food-web]] that support [[teaming-with-microbes-fungi-the-underground-network]]
-- Keep all fertilizers with all three NPK numbers below 10
-- Apply mycorrhizal inoculants at planting or transplanting (Rule #19)
-- Maintain soil structure with [[teaming-with-microbes-compost-biology]] and mulch
+- Avoid [[teaming-with-microbes-mulch-and-soil-food-web]] that support [[teaming-with-microbes-compost-biology]] and mulch
 - Avoid compacted soils around trees, shrubs, and perennials
-- Use [[teaming-with-microbes-compost-tea-brewing-guide]] to support overall soil biology
-- Apply fungally dominated compost tea around trees, shrubs, and perennials
-
-## See also
-
-- [[teaming-with-microbes-fungi-the-underground-network]]
-- [[teaming-with-microbes-no-till-benefits]]
+- Use [[teaming-with-microbes-fungi-the-underground-network]]
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[mycorrhizal-biocontrol]]
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
 - [[endomycorrhizal-fungi-sampling]]
+## Practical Considerations
+
+Successful implementation of Mycorrhizal Associations — Teaming with Microbes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

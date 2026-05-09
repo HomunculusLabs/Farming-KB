@@ -23,33 +23,6 @@ astronomical planting calendars. Both share a commitment to treating farms as
 living systems rather than industrial production units.
 
 ## Regenerative Agriculture
-[[regenerative-agriculture]]
-Regenerative agriculture is a holistic land management philosophy that aims to
-restore soil health, enhance ecosystem services, increase biodiversity, and
-sequester atmospheric carbon while producing nutritious food. The five core
-principles — minimize soil disturbance, maximize soil cover, maximize living
-roots, maximize biodiversity, and integrate livestock — form the operational
-foundation. Key practices include no-till farming, cover cropping, diverse
-crop rotations, rotational grazing, composting, and the integration of
-perennials into farming systems.
-The scientific foundation draws on soil microbiology (Dr. Elaine Ingham's soil
-food web), holistic planned grazing (Allan Savory), and soil carbon science
-(Dr. Rattan Lal, Dr. Christine Jones). Regenerative practices sequester
-significant atmospheric carbon through the "liquid carbon pathway" — plants
-pump carbon compounds into soil through root exudates, feeding microbial
-communities that build stable soil carbon. This is arguably the most important
-distinction from organic farming: regenerative agriculture actively improves
-the land over time rather than simply avoiding synthetic inputs.
-Regenerative agriculture is pragmatic and outcome-focused. It does not require
-certification (though Regenerative Organic Certification launched in 2018
-provides a voluntary standard), specific preparations, or esoteric beliefs.
-Farmers adopt regenerative practices based on observable results — increased
-profitability through reduced input costs, improved drought resilience, better
-water retention, and enhanced soil health. This practical accessibility has
-driven rapid adoption across conventional, organic, and transitional farming
-operations worldwide.
-
-## Biodynamic Agriculture
 [[biodynamic-agriculture-and-steiner]]
 Biodynamic agriculture was developed by Rudolf Steiner in a 1924 lecture
 series and represents one of the first comprehensive organic farming systems.
@@ -131,7 +104,5 @@ Together, they represent the most holistic approaches to sustainable food
 production available today.
 
 ## See Also
-- [[comparison-biodynamic-vs-permaculture]]
 - [[comparison-biodynamic-vs-biointensive]]
-- [[comparison-knf-vs-biodynamic]]
 - [[comparison-natural-farming-vs-permaculture]]

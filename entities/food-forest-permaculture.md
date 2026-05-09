@@ -20,49 +20,7 @@ sources:
   - https://www.agroforestry.org/ — temperate agroforestry resources
 ---
 
-# [[food-forest]]
-
-A **food forest** (also called a **forest garden**) is a **perennial polyculture system** designed to mimic the structure and function of a natural forest ecosystem while producing an abundance of food, fiber, medicine, and other useful yields. Rooted in the principles of **permaculture** and **agroforestry**, food forests represent one of the most regenerative, sustainable, and productive forms of human agriculture — capable of producing more calories per acre than conventional annual farming while simultaneously building soil, sequestering carbon, supporting biodiversity, and requiring minimal external inputs once established.
-
-## Core Concept
-
-The fundamental insight behind food forests is that **natural forests are the most productive, self-sustaining ecosystems on land** — they build their own soil, manage their own pests, cycle nutrients, and conserve water, all without human intervention. A food forest applies this template with intentional species selection to maximize human yields while retaining the resilience and self-maintenance of a natural ecosystem.
-
-Unlike conventional agriculture, food forests:
-- Are based on **perennial plants** (no annual tilling)
-- Function as **closed-loop systems** (minimal external inputs)
-- Maximize **biodiversity** (many species, many niches)
-- Produce **multiple yields** simultaneously
-- **Improve over time** (soil deepens, canopy matures, yields increase)
-- Require decreasing labor as the system matures
-
-## The Seven Layers (and More)
-
-Food forests are designed around **vertical stratification** — the concept that different plants occupy different physical niches in a forest structure, allowing maximum utilization of space, light, and resources:
-
-### The Classic Seven Layers
-
-**1. Canopy Layer (Overstory) — 10–30+ meters**
-- Large food-producing trees forming the uppermost canopy
-- Species: Standard apple, pear, walnut, chestnut, pecan, persimmon, mulberry, oak (acorns), honey locust (pods)
-- Function: Shade modulation, wind protection, high-calorie yields, microclimate creation
-- Notes: Slowest to establish but provide the long-term structural framework
-
-**2. Understory Layer (Sub-canopy) — 5–10 meters**
-- Smaller trees that thrive in partial shade beneath the canopy
-- Species: Semi-dwarf fruit trees (plum, cherry, apricot), pawpaw, medlar, serviceberry, elderberry, hazelnut, Korean pine (pine nuts)
-- Function: Diverse fruit and nut production, mid-level habitat
-- Notes: Often the most productive layer for food yield per unit area
-
-**3. Shrub Layer — 2–5 meters**
-- Woody shrubs and bush-forming plants
-- Species: Currants, gooseberries, blueberries, aronia (chokeberry), seaberry, goumi, raspberry, blackberry, bamboo (edible shoots)
-- Function: Berry production, nitrogen fixation (some species), wildlife habitat, wind filtering
-- Notes: High-yielding, relatively fast to establish; many are shade-tolerant
-
-**4. Herbaceous Layer — 0.5–2 meters**
-- Non-woody perennial plants and some self-seeding annuals
-- Species: Comfrey, [[jerusalem-artichoke]], globe artichoke, asparagus, rhubarb, Good King Henry, sea kale, cardoon, lovage, mints, perennial kale
+# [[jerusalem-artichoke]], globe artichoke, asparagus, rhubarb, Good King Henry, sea kale, cardoon, lovage, mints, perennial kale
 - Function: Dynamic nutrient accumulation (comfrey), diverse greens and vegetables, ground cover
 - Notes: Comfrey (*Symphytum* spp.) is considered the "queen" of this layer — deep taproots mine subsoil minerals for surface mulch
 
@@ -74,21 +32,7 @@ Food forests are designed around **vertical stratification** — the concept tha
 
 **6. Root Layer (Rhizosphere) — 0–2+ meters deep**
 - Edible root crops and tuberous perennials
-- Species: Potatoes (in early succession), yacon, oca, mashua, groundnut (*[[apios-americana]]*), Jerusalem artichoke, skirret, Chinese artichoke, horseradish, camas
-- Function: Calorie-dense staple crops, soil aeration, nutrient cycling
-- Notes: Many are shade-tolerant and can be interplanted throughout all layers
-
-**7. Vine Layer (Vertical) — variable height**
-- Climbing and scrambling plants that use other plants as support
-- Species: Kiwi (hardy and fuzzy), grapes, passionflower, hops, perennial beans (*Apios*), climbing nasturtium, akebia, schisandra, groundnut
-- Function: Utilizes vertical space without competing for ground area, additional yields on tree trunks
-- Notes: Must be managed to avoid smothering host plants; best on dedicated trellises or nitrogen-fixing support trees
-
-### Additional Layers (Advanced)
-
-**8. Fungal Layer (Mycorrhizal)**
-- Mushroom-producing fungi integrated throughout the system
-- Species: Wine cap (*[[stropharia-rugosoannulata]]*), shiitake on logs, oyster mushrooms, king stropharia in mulch paths, chanterelles (long-term)
+- Species: Potatoes (in early succession), yacon, oca, mashua, groundnut (*[[stropharia-rugosoannulata]]*), shiitake on logs, oyster mushrooms, king stropharia in mulch paths, chanterelles (long-term)
 - Function: Decomposition, nutrient cycling, mycorrhizal networks connecting plants, additional food yield
 
 **9. Aquatic/Wetland Layer**
@@ -144,6 +88,5 @@ A well-designed food forest produces:
 - **Beauty:** Aesthetic, recreational, and educational value
 ## See Also
 
-- [[agroforestry]]
 - [[building-soil]]
 - [[cover-crops]]

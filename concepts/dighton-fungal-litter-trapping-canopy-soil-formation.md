@@ -114,8 +114,6 @@ translocation within the retained litter.
 
 ## See Also
 
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-leaf-litter-succession]]
-- [[the-soil-food-web]]
 - [[fungal-soil-aggregation]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

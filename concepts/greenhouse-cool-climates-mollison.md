@@ -3,7 +3,7 @@ title: Greenhouse Growing in Cool Climates (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, season-extension, microclimate]
+tags: [[permaculture, design, season-extension, microclimate]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -75,11 +75,7 @@ Besides formal greenhouses, frost-free environments can be created by:
 
 ## See Also
 
-- [[greenhouse-design]]
 - [[greenhouse-growing-essentials]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[permaculture-greenhouse-design]]
-- [[cool-climate-home-garden-mollison]]
 - [[cold-climate-permaculture-guide]]
-- [[permaculture-designers-manual-cold-climate-greenhouse]]
 - [[permaculture-designers-manual-temperate-climate-design]]

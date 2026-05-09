@@ -74,8 +74,6 @@ The basic dilution ratio is 1:1000 (LAB to water).
    leaves, a condition that arises from the abuse of insecticides and
    fungicides.
 2. When using LAB alone, it is more effective to use it with
-   [[cho-fermented-plant-juice-preparation]].
-3. Fields recover fertility and the soil becomes soft and fluffy when
    [[cho-indigenous-microorganisms-collection-and-cultivation]] mixed
    with LAB is sprayed on the field.
 4. LAB is extremely effective in making fruits and leaves large, but
@@ -92,42 +90,8 @@ The basic dilution ratio is 1:1000 (LAB to water).
 - If LAB is used together with mixed compost or IMO, fermentation
   occurs rapidly with very effective results.
 - LAB's key function in compost is to prevent
-  [[cho-fermented-mixed-compost-methods]]
-  from decaying.
-
-## Key Functions and Properties
-
-1. Improves soil ventilation and promotes growth of fruits and leafy
-   vegetables.
-2. During the vegetative growth period of fruiting vegetables,
-   produces higher quality plants that may be stored for longer
-   periods.
-3. Increases solubility of fertilizer.
-4. Reduces damage from gas by neutralizing ammonia gas produced where
-   immature compost is applied.
-5. Resistant to high temperatures.
-6. Acts as a strong sterilizer.
-7. Used to culture IMO-3.
-8. Solubilizes phosphate at 100 to 200 ppm (100 to 200 ml of LAB in
-   1000 ml of water). Using LAB in phosphate-accumulated soil
-   increases capacity to absorb insoluble phosphates and helps
-   overcome saline disorders from phosphate decomposition.
-9. Has resistance to some fungi.
-
-## Storage Guidelines
-
-1. Keep refined LAB serum at cool temperature (1 to 15 degrees C) for
-   longer storage where there are temperature changes.
-2. No storage under direct sunlight.
-3. To keep LAB at normal temperature, mix with the same amount of
-   brown sugar and stir with a wooden stick.
-
-## See Also
-
-- [[knf-lactic-acid-bacteria-serum]] - general KNF LAB reference
-- [[cho-fermented-plant-juice-preparation]] - often combined with LAB
+  [[knf-lactic-acid-bacteria-serum]] - general KNF LAB reference
 - [[cho-oriental-herbal-nutrient-preparation]] - combined in many
   treatment recipes
-- [[cho-fermented-mixed-compost-methods]] - LAB prevents decay in FMC
 - [[cho-indigenous-microorganisms-collection-and-cultivation]] - LAB
   used in IMO-3 culture

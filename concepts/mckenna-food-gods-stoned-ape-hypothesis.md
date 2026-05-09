@@ -85,7 +85,6 @@ In research done in the late 1960s, Roland Fischer gave small amounts of psilocy
 This finding suggests that low doses of psilocybin could confer a genuine adaptive advantage, supporting the hypothesis that psilocybin consumption was a significant factor in hominid evolution.
 
 ## See Also
-- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - [[mckenna-food-gods-tassili-cave-paintings]]
 - Mckenna Tryptamines Consciousness
 
@@ -99,8 +98,6 @@ The Stoned Ape hypothesis faces several serious scientific criticisms:
 - **Speculative chain of reasoning**: The hypothesis connects many speculative steps — from mushroom consumption to visual acuity enhancement to selective advantage to brain expansion — without empirical evidence for each link.
 
 Despite these criticisms, McKenna's hypothesis remains valuable as a thought experiment that challenges the assumption that psychoactive plant use is purely a cultural phenomenon with no biological basis in human evolution. The interdisciplinary dialogue between ethnobotany, neuroscience, and evolutionary biology that the hypothesis has inspired may ultimately yield more nuanced insights into the co-evolutionary relationship between humans and psychoactive plants.
-- [[psilocybin-neuroscience]]
 - [[mckenna-diet-symbiosis-human-evolution]]
-- [[mckenna-plants-and-primates-coevolution]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]

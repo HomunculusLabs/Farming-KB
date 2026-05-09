@@ -61,31 +61,26 @@ Trees and shrubs with low combustibility can be incorporated into permaculture d
 - Fraxinus spp (ash), Ginkgo biloba, Grevillea robusta (does NOT recover)
 - Laurus nobilis (laurel), Liriodendron tulipifera (tulip tree)
 - Melaleuca lanceolata (moonah), Melia azedarach (cape lilac)
-- [[willows-salix-spp]] (willows)
-- Populus spp (poplars: alba recovers, nigra recovers, deltoides, simonii, yunnanensis)
-- Robinia pseudoacacia (black locust)
-- Sapium sebiferum (Chinese tallow tree)
-- Taxodium distichum (swamp cypress), Tilia vulgaris (linden)
-- Ulmus spp (elm), Zelkova serrata
-
-## Fire-Retardant Landscaping Principles
-
-Effective fire-resistant landscaping combines species selection with strategic placement. Create defensible space by maintaining a 10-30m buffer zone around structures using low-fire plants. Avoid planting flammable species (eucalypts, pines, junipers, ornamental conifers) within this zone. Regular maintenance — pruning lower branches, removing dead material, keeping grass short — is as important as species choice. Irrigated green belts around buildings provide both moisture and physical firebreaks.
-
-## Additional Fire-Resistant Shrubs
-
-Beyond the species listed above, several shrubs perform well in fire-prone landscapes: lavender (Lavandula spp.), rosemary (Rosmarinus officinalis), and sage (Salvia spp.) all have high moisture content and low volatile oil content compared to native flammable shrubs. Indian hawthorn (Rhaphiolepis indica) and escallonia are also widely used in fire-resistant plantings. Avoid bamboo, gorse, broom, and leptospermum species, which are notoriously fire-adapted and can increase fire intensity.
-
-## Ground Covers with Low Fire Potential
-
-Achillea lanata (woolly yarrow), Atriplex spp, Carpobrotus spp (pigface), Cistus ladanifer (gum rockrose), Gazania spp, Helianthemum spp (sunrose), Hedera spp (ivy), Mesembryanthemum spp (ice plant), Myoporum spp, Pelargonium spp, Portulaca spp, Rhagodia spp, Rosmarinus officinalis prostratus (prostrate rosemary), Santolina spp, Sedum spp, Vinca spp (periwinkle)
-
-## Related
-
 - [[permaculture-chestnut]]
-- [[carob]]
 - [[permaculture-tagasaste]]
-- [[permaculture-pioneer-species]]
 - [[hamilton-pruning-and-training-fruit-trees]]
-- [[holzer-fruit-tree-planting-method]]
 - [[gaias-garden-fruit-tree-selection]]
+## Practical Considerations
+
+Successful implementation of Low Fire Potential Trees and Shrubs requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

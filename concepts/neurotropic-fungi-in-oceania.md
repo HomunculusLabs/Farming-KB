@@ -3,14 +3,7 @@ title: Neurotropic Fungi in Oceania
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
----
-# Neurotropic Fungi in Oceania
-
-Oceania (Australia, New Zealand, and Pacific islands) has significant diversity of
-[[neurotropic-fungi-world-checklist]], with particularly high species richness in
+tags: [[neurotropic-fungi-world-checklist]], with particularly high species richness in
 eastern Australia and New Zealand. These regions show remarkable biogeographic connections to
 species found in the Americas and Southeast Asia.
 
@@ -96,14 +89,7 @@ neurotropic fungi:
 
 ## Related Topics
 
-- [[magic-mushrooms-australia-new-zealand]] - Detailed Australian/NZ guide
 - [[neurotropic-fungi-biogeographic-patterns]] - Distribution analysis
-- [[neurotropic-fungi-world-checklist]] - Complete checklist
 - [[psilocybe-section-classification]] - Taxonomic sections
-- [[magic-mushrooms-southeast-asia-pacific]] - Pacific connections
-
-Source: Guzman, Allen & Gartz (1998), "A Worldwide Geographical Distribution of the Neurotropic
-Fungi," Ann. Mus. civ. Rovereto 14: 189-280.
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-species-richness-and-diversity-indices]]

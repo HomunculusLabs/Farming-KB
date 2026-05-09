@@ -93,13 +93,9 @@ The disproportionate endemism of serpentine ecosystems makes them conservation p
 
 ## Related Concepts
 
-- [[hyperaccumulator-plants]] for metal concentration adaptations
-- edaphic endemism for soil-driven species specialization
-
 - [[phytoremediation]] for using plants in environmental cleanup
 
 ## See Also
 
-- [[acid-and-alkaline-soil-management]]
 - [[actinomycetes-soil-biology]]
 - [[alkaline-soil-plants]]

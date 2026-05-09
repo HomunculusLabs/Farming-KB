@@ -1,18 +1,7 @@
 ---
 title: Precipitation and Global Weather
 created: 2026-04-28
-tags: [permaculture, precipitation, weather, climate, water]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Precipitation and Global Weather
-
-Understanding global weather systems and precipitation patterns is essential
-for [[permaculture-design]]. Water promises to be the main limiting factor for
+tags: [[permaculture-design]]. Water promises to be the main limiting factor for
 survival and growth, and the major future expense of food gardens and
 agriculture.
 
@@ -121,7 +110,5 @@ critical to design approach.
 
 ## See Also
 
-- [[mollison-designers-precipitation-types-and-design-effects]]
 - [[mollison-designers-climate-classification-and-design-zones]]
-- [[mollison-designers-rainwater-harvesting-swale-systems]]
 - [[mollison-designers-fog-and-dew-harvesting]]

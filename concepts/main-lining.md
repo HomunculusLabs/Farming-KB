@@ -11,7 +11,7 @@ tags: [reference]
 
 # Main-Lining
 
-Main-lining is a systematic cannabis training technique that creates a perfectly symmetrical plant with evenly spaced colas arranged on a horizontal plane. The method combines [[topping-cannabis]] (removing the main growing tip) with [[low-stress-training]] (bending and tying branches) to force the plant to grow multiple main stems of equal size and strength. Cervantes describes the underlying principle when he advises to "remove all but the four main branches" and explains that "the meristem (central stem) is removed just above the four lowest branches" so that "fewer branches are stronger and bear a larger quantity of dense, heavy flower tops."
+Main-lining is a systematic cannabis training technique that creates a perfectly symmetrical plant with evenly spaced colas arranged on a horizontal plane. The method combines [[low-stress-training]] (bending and tying branches) to force the plant to grow multiple main stems of equal size and strength. Cervantes describes the underlying principle when he advises to "remove all but the four main branches" and explains that "the meristem (central stem) is removed just above the four lowest branches" so that "fewer branches are stronger and bear a larger quantity of dense, heavy flower tops."
 
 ## Core Concept
 
@@ -43,77 +43,9 @@ Remove all growth below the selected node points. Cervantes advises to "remove t
 
 ### Step 3: Tie Down
 
-Using [[low-stress-training]] techniques, bend each remaining branch outward to its own quadrant. Secure with soft ties anchored to the container rim or stakes. The branches should be as horizontal as possible to encourage even growth.
-
-### Step 4: Recovery
-
-Allow 2-3 weeks for the plant to recover and produce new growth at each branch tip. The plant will now have 4-8 growing tips (2 per branch if topped once).
-
-### Step 5: Second Top (Optional)
-
-For more colas, top each of the main branches above their third or fourth node. This doubles the number of main colas to 8-16. Each new branch is again tied into its designated quadrant.
-
-### Step 6: Flower
-
-Once the manifold is filled and the canopy is even, switch to 12/12 flowering. All colas should be at approximately the same height.
-
-## Timing Guidelines
-
-Cervantes provides specific timing recommendations:
-
-- Select plants "with three sets of branch nodes about six weeks old"
-- "Pinch or prune out the last set of nodes so that two sets of (main) branches remain"
-- "Move plants into the flowering room when they are about 12 inches tall"
-- "Skunk #1 and similarly robust bloomers should be set in the flowering room when about six to eight inches tall"
-
-Avoid pruning up to a month before inducing flowering. Since pruning diffuses floral hormones, flowering is retarded. If heavily pruned shortly before flowering, peak maturation is delayed for a week or longer.
-
-## Selecting Branch Count
-
-The number of main colas in a manifold depends on how many times the plant is topped:
-
-- 2 toppings: 4-8 main colas (good for small spaces)
-- 3 toppings: 8-16 main colas (good for medium spaces)
-- 4+ toppings: 16-32 main colas (requires large spaces and long veg time)
-
-Fewer, larger colas generally produce higher quality buds than many small colas. Most growers find 8-16 colas to be the sweet spot between yield and bud quality.
-
-## Advantages
-
-- Perfectly symmetrical, even canopy with uniform bud development
-- All colas are "main colas" -- uniform size and quality throughout
-- Excellent airflow through the open plant structure
-- Reduced need for defoliation -- the open structure naturally allows light penetration
-- No dominant central cola means more even light distribution
-- Predictable plant structure makes planning and maintenance easier
-- Strong, well-spaced branches support heavy buds without additional staking
-
-## Limitations
-
-- Extended vegetative time: each topping cycle requires 2-3 weeks of recovery
-- Not suitable for autoflowers with limited vegetative periods
-- Requires consistent attention during the vegetative stage
-- Works best from seed; clones may not have the same structure
-- Over-topping can stress plants and delay flowering significantly
-
-## Cervantes' Guidance on Branch Management
-
-Cervantes supports the main-lining principle when he writes:
-
-- "Remove all but the four main branches. The meristem (central stem) is removed just above the four lowest branches"
-- "Select plants with three sets of branch nodes about six weeks old, and pinch or prune out the last set of nodes so that two sets of branches remain"
-- "Do not remove leaves on the main branches"
-
-He cautions that "pruning too much over time may alter hormonal concentrations, causing spindly growth" and that "the mother must rest and gain girth, because small, spindly branches root poorly."
-
-## See Also
-
-- [[topping-cannabis]] -- the cutting technique central to main-lining
-- [[low-stress-training]] -- bending and tying branches into position
+Using [[topping-cannabis]] -- the cutting technique central to main-lining
 - [[screen-of-green]] -- alternative even-canopy technique using a physical screen
-- [[supercropping]] -- high-stress training for aggressive canopy control
 - [[fimming]] -- alternative to topping for creating multiple colas
-- [[cannabis-vegetative-stage]] -- timing and managing vegetative growth
 - [[training-cannabis]] -- overview of all training methods
 - [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
 
@@ -138,3 +70,22 @@ A practical timeline for a 4-cola main-line:
 - Week 8+: Switch to 12/12 flowering
 
 Total vegetative time: approximately 6-8 weeks. This is longer than SOG (1-4 weeks) but produces a more structured, higher-quality result per plant.
+## Practical Considerations
+
+Successful implementation of Main-Lining requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -51,11 +51,9 @@ Almost all of the 2,5-dimethoxy-4-something-or-other compounds (both phenethylam
 
 ## Relationship to Known Compounds
 
-[[tma-2-entity]] is 2,4,5-trimethoxyamphetamine, a 2,5-dimethoxy-substituted compound with a methoxyl at the 4-position.
+[[tma-6-entity]] (2,4,6-trimethoxyamphetamine), which is described as every bit as potent and fascinating as TMA-2.
 
-The pseudo-analogue is [[tma-6-entity]] (2,4,6-trimethoxyamphetamine), which is described as every bit as potent and fascinating as TMA-2.
-
-Z-7 could be called pseudo-[[dom-entity]], and although it is somewhat down in potency, it is an active drug worthy of clinical study.
+Z-7 could be called pseudo, and although it is somewhat down in potency, it is an active drug worthy of clinical study.
 
 Shulgin predicted that every 2,4,5-thing has a potentially active 2,4,6-pseudo-counterpart.
 
@@ -87,33 +85,13 @@ Shulgin described the pseudo-psychedelics as "the exciting chemistry and psychop
 
 Well over half of all the psychedelic drugs in PIHKAL are 2,4,5-trisubstituted compounds, and every one has a potentially active 2,4,6-pseudo-counterpart.
 
-The concept extends beyond phenethylamines to include the antidepressant [[ariadne-entity]] family of 1-phenyl-2-aminobutanes.
-
-The 1-phenyl-2-aminobutane analog of gamma-2C-T-4 has been prepared as far as the nitrostyrene stage but has not yet been reduced or evaluated.
-
-## Dosage and Duration
-
-Dosage: Above 12 mg (exact effective dose not established).
-
-Duration: Probably short.
-
-No full psychedelic effects were observed at the doses explored.
-
-## See Also
-
-[[2c-t-entity]]
-
-[[2c-t-2-entity]]
+The concept extends beyond phenethylamines to include the antidepressant [[2c-t-entity]]
 
 [[2c-t-4-entity]]
 
-[[2c-t-7-entity]]
-
 [[tma-2-entity]]
 
-[[tma-6-entity]]
-
-[[dom-entity]]
+[[dom]]
 
 [[ariadne-entity]]
 

@@ -3,7 +3,7 @@ title: Fungal Heavy Metal Biosorption and Detoxification
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -110,12 +110,8 @@ Immobilization on inert supports (alginate, polyurethane, silica) enhances handl
 
 ## See Also
 
-- [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]]
-
 - [[fungal-bioremediation]]
-- [[mycorrhizal-fungi-bioremediation]]
 - [[fungal-heavy-metal-uptake-and-translocation]]
-- [[fungal-enzyme-systems-in-bioremediation]]
 - [[fungi-as-environmental-indicators-and-biosensors]]
 
 ## Source

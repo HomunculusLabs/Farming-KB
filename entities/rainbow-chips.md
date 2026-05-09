@@ -109,13 +109,9 @@ mid-October.
 
 ## See Also
 
-- [[cap-junky]]
 - [[sunset-sherbet]]
-- [[thin-mint-cookies]]
 - [[girl-scout-cookies]]
-- [[runtz-entity]]
 - [[zookies-cannabis]]
-- [[og-kush]]
 - [[wedding-cake-cannabis]]
-- [[jungle-cake]]
+- jungle-cake
 - [[georgia-pie]]

@@ -3,7 +3,7 @@ title: Fungal Building Material Deterioration
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Deterioration of Building Materials
@@ -122,11 +122,7 @@ mechanisms involved, as different fungal species and deterioration processes
 may require different treatment approaches.
 
 Related topics:
-- [[fungal-weathering-rocks-minerals]]
 - [[fungal-biogeochemistry]]
-- [[fungal-oxalate-production-metal-transformation]]
 - [[fungal-communities-extreme-environments]]
-- [[fungal-decomposition-of-wood]]
 - [[dry-rot-fungi-serpula-meruliporia]]
-- [[fungi-in-the-environment-decomposition-wood-decay]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]

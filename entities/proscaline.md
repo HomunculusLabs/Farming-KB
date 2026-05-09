@@ -110,13 +110,8 @@ The phenethylamine family as a whole shares the common mechanism of 5-HT₂A ago
 
 ## See Also
 
-- [[mescaline-entity]]
 - [[escaline-entity]]
-- [[allylescaline]]
 - [[2c-b]]
-- [[2c-e]]
 - [[pihkal-introduction-and-methodology]]
-- [[mdma]]
 - [[lsd]]
-- [[psilocybin-compound]]
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]

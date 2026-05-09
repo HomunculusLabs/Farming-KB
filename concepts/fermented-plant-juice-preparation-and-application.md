@@ -1,5 +1,5 @@
 ---
-title: "Fermented Plant Juice Preparation and Application"
+title: Fermented Plant Juice Preparation And Application
 created: 2026-04-28
 tags: [fermented-plant-juice, natural-farming, KNF, plant-nutrition]
 date: 2026-04-25
@@ -10,12 +10,10 @@ type: concept
 
 # Fermented Plant Juice Preparation and Application
 
-[[fermented-plant-juice-fpj]] is a core input in [[korean-natural-farming]]
+[[korean-natural-farming]]
 (KNF) developed by Dr. Han Kyu Cho. FPJ is a fermented extract of a
 plant's sap and chlorophylls, producing a rich enzyme solution full
-of microorganisms such as [[lactic-acid-bacteria]] and yeast that
-invigorates both plants and animals. As described in Cho's Global
-Natural Farming guide, FPJ serves as a natural growth stimulant,
+of microorganisms such as [[natural-farming]] guide, FPJ serves as a natural growth stimulant,
 pest management tool, and plant health enhancer that can replace
 commercial fertilizers and synthetic growth hormones.
 

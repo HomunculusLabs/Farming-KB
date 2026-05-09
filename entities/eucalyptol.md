@@ -136,11 +136,9 @@ children under 6. Topical application is generally well tolerated.
 
 ## See Also
 
-- [[camphor]]
-
-[[rosmarinus-officinalis-entity]] contains significant eucalyptol
+- [[rosmarinus-officinalis-entity]] contains significant eucalyptol
 in its essential oil alongside other bioactive terpenes.
-[[artemisia-vulgaris-entity]] and [[salvia-officinalis]] are
+[[salvia-officinalis]] are
 herbal sources that contribute eucalyptol to traditional medicine
 preparations. [[thujone]] shares the monoterpene class and occurs
 in several of the same plant families.

@@ -1,5 +1,5 @@
 ---
-title: Post-Season Rice Cultivation Failure and the Turn Toward Natural Farming
+title: Fukuoka Textdoc Post Season Cultivation Kochi Turning Point
 created: 2026-04-28
 tags: [fukuoka, natural-farming, rice-cultivation, kochi, rice-borer, scientific-agriculture, turning-point]
 date: 2026-04-28
@@ -9,10 +9,7 @@ sources:
 type: concept
 ---
 
-# Post-Season Rice Cultivation Failure and the Turn Toward Natural Farming
-
-The post-season rice cultivation program in Kochi Prefecture was a pivotal episode in
-Masanobu Fukuoka development as a farmer and thinker. While working as an
+# Post-Season Rice Cultivation Failure and the Turn Toward [[masanobu-fukuoka]] development as a farmer and thinker. While working as an
 agricultural researcher tasked with scientifically increasing food production, he
 participated in a technically sophisticated program to eradicate the yellow rice
 borer through delayed planting. The program failure to achieve genuine yield
@@ -115,17 +112,7 @@ between the surface and underground portions of the plant." The disease might
 even be regarded as "a means by nature for preventing the overly dense growth
 of rice plants, thus aiding photosynthesis and assuring the full production
 of seed." This radical reframing of pest and disease as natural regulators
-rather than enemies became a cornerstone of his [[fukuoka-textdoc-no-pesticide-principle-insect-balance]] philosophy.
-
-## The Broader Significance
-
-### Scientific Agriculture as Status Quo Maintenance
-
-The Kochi experience demonstrated to Fukuoka that even the most advanced
-agricultural technology could do no more than "maintain the status quo." This
-pattern, where scientific agriculture expends enormous effort merely to prevent
-decline rather than to advance, runs throughout Fukuoka critique of
-[[fukuoka-textdoc-increased-production-not-increased-yields]] and connects to his
+rather than enemies became a cornerstone of his [[fukuoka-textdoc-increased-production-not-increased-yields]] and connects to his
 broader argument about the [[fukuoka-textdoc-production-costs-not-coming-down]].
 
 ### Nature as Self-Sufficient
@@ -146,5 +133,3 @@ farming I had never seen but knew must exist." The post-season cultivation
 failure was a cumulative disillusionment with the scientific approach, each
 element contributing to a growing conviction that human knowledge and effort
 were not the path to agricultural truth.
-
-## Connection to Later Developments

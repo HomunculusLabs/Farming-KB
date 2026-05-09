@@ -47,45 +47,54 @@ The legal status of DMT raises profound philosophical questions. If DMT is endog
 McKenna offers simple advice for those who wish to explore these experiences: "Good technique is obvious: one sits down, one shuts up, and one pays attention." The experiences should be taken on an empty stomach, in silent darkness, and in a situation of comfort, familiarity, and security. "Set" (interior feelings and expectations) and "setting" (external situation) should optimize feelings of security and confidence. Comfortable, silent darkness is the preferred environment for what the neo-Platonic mystic Plotinus called "the flight of the alone to the Alone."
 
 See also:
-- [[dmt-dimethyltryptamine-experience-guide]]
 - [[mckenna-dmt-amazonian-ecosystems]]
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-overmind-and-vegetable-mind]]
-- [[mckenna-transcendent-other-and-exopheromones]]
 - [[psilocin-and-psilocybin-chemistry]]
-- [[consciousness-and-psychedelics]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
+- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
-
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
 
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
+- [[dmt-hyperspace-experience]]
+
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-archaic-revival]]
 - [[psychedelic-mushroom-history]]
-- [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
-## Broader Context
+- [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.
 
-This analysis is part of McKenna's larger project, articulated most fully in [[mckenna-food-of-the-gods-thesis]], to construct a comprehensive narrative of humanity's relationship with psychoactive plants. His work draws on a wide range of sources, including anthropology, ethnobotany, linguistics, and personal experience, to argue that psychoactive substances have been a driving force in human cultural evolution.
+The [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+- [[terence-mckenna]]
+called "the major quantum mechanical phenomena" accessible to human
+consciousness alongside dreams. Within the [[mckenna-paradise-regained-dmt-hyperspace]]
 
-The [[psilocybin-and-mystical-experience]] has brought renewed scholarly attention to many of the questions McKenna raised. While his specific historical claims remain debated, the broader question of how psychoactive substances have shaped human consciousness and culture is now being investigated with new methodological tools and a growing body of clinical evidence.
+- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
+- mckenna dmt experience and hyperspace
+- [[terence-mckenna-tryptamine-hypothesis]]
+- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
 
-## Contemporary Relevance
+## Merged: dmt hyperspace experience
 
-McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
-- [[mckenna-dmt-experience-and-overmind]]
+## Endogenous Nature of DMT
+
+DMT is an endogenous compound — present in small amounts within the human brain itself. This fact is central to understanding why the [[serotonin]], the foundational neurotransmitter of mood and perception, is 5-hydroxytryptamine. Psilocybin is 4-phosphoraloxy-N,N-dimethyltryptamine.
+
+DMT sits at the core of this molecular family, suggesting the brain is fundamental [[tryptamine-hallucinogens-and-consciousness]] ompound.
+
+---
+
+## The Tryptamine Continuum
+
+McKenna proposed that tryptamine hallucinogens exist on a continuum of experience, with psilocybin at one end and DMT at the other.
+
+Psilocybin provides a gentler, more extended journey through altered states — a six-hour immersion in visionary landscapes. DMT, by contrast, is an overwhelming five-minute plunge into a completely alien dimension.
+
+The continuum suggests these substances are not producing random hallucinations but rather tuning consciousness to specific frequency bands of reality that are ordinarily inaccessible.
+
+---
+
+## Onset and Phenomenology
+
+When DMT is smoked, the onset is remarkably rapid — approximately 15 to 45 seconds. There is no gradual transition. The world simply dissolves and is replaced by an entirely different order of existence.

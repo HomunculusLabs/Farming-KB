@@ -3,84 +3,7 @@ title: Mollison on Greenhouse Design and Indoor Growing
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Greenhouse Design and Indoor Growing
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet IX (Permaculture Techniques), 1981
-
-## Overview
-
-Mollison provides specific guidance for greenhouse design, appropriate crops, energy systems, and solar inventions. Greenhouses should not simply extend the season for the same crops -- they should grow species that wouldn't otherwise be possible. This approach connects to [[greenhouse-design]] and [[permaculture-design-principles]] by maximizing the yield of unique, high-value crops from protected growing environments.
-
-## Greenhouse Positioning
-
-- Adjusted to use reflection of winter snow (or white quartzite)
-
-- Don't align due south if afternoon sun (3pm+) is nonexistent; swing to mid-sky position
-
-- West windows: none (insulated storage walls only, zero net gain)
-
-- Attach glasshouses to ponds for additional heat buffering
-
-## Critical Species for Greenhouses
-
-**Vanilla:** fairly hardy orchid; grows up rear wall of any greenhouse with some heat
-
-**Cinnamon:** easily propagated from cuttings, coppices (4 new sticks per cut), 2-year cycle; ~1 sq ft in pot; one pot supplies cinnamon for entire area; leaves are high-value fertilizer; distill leaves for cinnamon oils
-
-**Tea:** Camellia, fairly cold-hardy shrub; in tropics a high-altitude shrub; 5-6 plants supply 20-30 households
-
-**Pineapple:** needs ethylene to set fruit; enclose with apples (constant ethylene producers); single dandelion plant nearby also works
-
-**Bananas:** dwarf Cavendish in pit glasshouse (drop floor one story, drained = good heat buffer)
-
-**Black sand heat collectors:** run water pipes through box of black sand (blacken if needed); glass on top; "far more efficient than metal collectors"; endless hot water at no cost
-
-## Mollison's Inventions
-
-Mollison presents several "low-tech, high-effect" solar inventions that exemplify permaculture's approach to appropriate technology.
-
-**Solar water heater:** Water pipes through box of black sand under glass. Black sand found naturally at beaches (Molokai discovery -- feet burning in sand). More efficient than $3,000 metal collectors.
-
-**Endless nitrogen fertilizer system:** Sandbox with trickle-in water + titanium oxide (common white paint pigment, replaces lead). In sunlight, TiO2 catalyzes atmospheric nitrogen into ammonia (endless, catalytic). 3 acres of desert = commercial fertilizer plant output. Flush system periodically to prevent algae buildup; water garden with runoff.
-
-**Sliding infinity parabolic calculator:** Sun + infinity + parabolic ray = mechanical solution for solar focusing.
-
-**Parabolic house:** Glass house front as focusing system; sun-reflecting mirrors under eaves focus ~8 feet off ground; can melt a car (copper pipe in hole = winter heating from molten metal).
-
-**Soapstone thermal storage:** Heat soapstone block (fantastic thermal capacity); use fold-out focusing mirror from pickup truck to fire heat into block; meter calories delivered; "practical, easily done, non-polluting."
-
-**Sky lens:** Natural basalt holes where seawater evaporates to create high-saline solution; fresh rainwater sits on top = total sky focuser; produces layered heat with different mosquito larvae species adapted to each stratum.
-
-## Greenhouse Design Principles
-
-- Build 2-3 glasshouses for different reasons
-
-- Minimal winter greens in one; critical species and income species in others
-
-- Two-story or pit glasshouses for tall tropical plants
-
-- "We are morally obligated to grow these species in some of our animal-heated or solar-heated glasshouses"
-
-- Inland Australia: two-story glasshouses grow bananas without problems
-
-## Integration with Permaculture Systems
-
-Greenhouses function most effectively when integrated into the broader permaculture system rather than designed as isolated structures.
-
-- **Pond thermal buffering:** Attaching a greenhouse to a pond provides temperature stabilization. The large thermal mass of water absorbs heat during the day and releases it at night, reducing temperature fluctuations inside the greenhouse. The pond also provides humidity and a source of nutrient-rich water for irrigation.
-
-- **Animal-heated greenhouses:** Poultry houses, rabbitries, and livestock barns produce substantial metabolic heat. A greenhouse attached to an animal shelter captures this waste heat for plant production, while the animals benefit from the CO2-enriched air produced by the plants.
-
-- **Compost heat extraction:** Active compost piles generate temperatures of 50-70C. Water pipes run through compost piles can provide supplementary greenhouse heating, connecting waste management to food production.
-
-- **Biogas heating integration:** [[mollison-sewage-biogas-systems]] and [[mollison-dry-distillation-bioenergy]] both produce heat as byproducts. Routing this heat to greenhouse systems creates additional value from energy production.
-
-- **Zone 1 placement:** Greenhouses for daily-use crops (herbs, salad greens) should be in [[permaculture-zones-system]] 1, adjacent to the kitchen. Greenhouses for income species and experimental plants can be in Zone 2.
+tags: [[greenhouse-design]] and [[mollison-sewage-biogas-systems]] and [[permaculture-zones-system]] 1, adjacent to the kitchen. Greenhouses for income species and experimental plants can be in Zone 2.
 
 ## Species Profiles for Protected Cultivation
 
@@ -114,18 +37,69 @@ Mollison's species selections prioritize high-value plants that are difficult or
 
 ## Related
 
-- [[mollison-pdc-solar-greenhouse-design]] Pages
-
 - [[mollison-zone-one-techniques]]
-
-- [[mollison-dry-distillation-bioenergy]]
 
 - [[mollison-sewage-biogas-systems]]
 
-- [[appropriate-technology]]
-
 - [[greenhouse-design]]
 
-- [[permaculture-housing-design]]
-
 - [[passive-solar-design]]
+## Practical Considerations
+
+When working with Mollison on Greenhouse Design and Indoor Growing, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

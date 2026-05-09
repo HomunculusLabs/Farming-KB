@@ -22,35 +22,6 @@ forests are defined by their perennial, layered architecture, while polycultures
 be annual, perennial, or mixed in any combination.
 
 ## Food Forest
-[[food-forest-design-guide]]
-A food forest is a designed perennial polyculture that fills every ecological niche with
-useful species across seven primary layers: canopy, understory, shrub, herbaceous,
-ground cover, root, and vine. Additional layers include mycelial networks beneath the
-surface and optional aquatic elements. The design mimics natural forest succession,
-beginning with pioneer species that prepare conditions for productive climax species
-over time. The goal is a self-maintaining, self-fertilizing food-producing ecosystem
-that requires minimal external inputs once mature, functioning like a natural forest
-that produces food instead of just timber.
-
-Food forests build soil over time through continuous leaf litter and root turnover,
-support pollinators and wildlife habitat, and produce diverse yields including food,
-medicine, fiber, fuel, and building materials. They draw inspiration from Amazonian
-terra preta soils that have remained fertile for 500 to 2,500 years without external
-amendment. Sheet mulching prepares the ground for planting, chop-and-drop mulching
-maintains fertility by cycling biomass, and nitrogen-fixing plants are integrated
-throughout all layers to reduce or eliminate nitrogen fertilizer requirements.
-
-The primary limitations are time and space. Food forests take five to fifteen or more
-years to reach full productivity as trees mature and the canopy closes. Initial
-planting costs for trees, shrubs, and perennials are substantial, ranging from several
-hundred to several thousand dollars depending on species selection and density. Full
-seven-layer expression requires at least a quarter acre, though smaller spaces can
-support three to four layers in a compact food forest. Tree losses during
-establishment are common due to drought, pests, and competition, and the design phase
-demands significant knowledge of plant interactions, microclimates, and succession
-dynamics.
-
-## Polyculture
 [[polyculture-design-hemenway]]
 Polyculture design, as articulated by Ianto Evans and other practitioners, creates
 dynamic multi-species plant communities that go beyond simple companion planting to
@@ -122,7 +93,5 @@ following natural succession. This progression allows immediate food production 
 building toward the long-term food forest vision.
 
 ## See Also
-- [[comparison-companion-planting-vs-polyculture]]
 - [[comparison-polyculture-vs-intercropping]]
-- [[comparison-food-forest-vs-backyard-orchard]]
 - [[comparison-mulch-vs-cover-crops]]

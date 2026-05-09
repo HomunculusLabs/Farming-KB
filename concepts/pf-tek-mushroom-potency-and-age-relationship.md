@@ -139,9 +139,6 @@ Individual sensitivity varies enormously. Stamets reported one mycologist who ne
 
 ## See Also
 
-- [[pf-tek-aborts-and-potency-harvesting]]
 - [[pf-tek-desiccant-drying-technique]]
-- [[pf-tek-cake-birthing-technique]]
 - [[pf-tek-alcohol-extraction-method]]
-- [[pf-tek-mushroom-growth-timeline]]
 - [[gartz-tryptamine-enrichment-psilocybin-biosynthesis]]

@@ -1,5 +1,4 @@
 ---
-title: Lions Mane Cultivation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -107,7 +106,7 @@ Lion's Mane is one of the most researched [[medicinal-mushroom-guide|medicinal m
 
 - **Coral-like growth (sparse spines):** Usually caused by insufficient fresh air exchange
 - **Browning:** Excessive light, temperature stress, or delayed harvest
-- **Contamination:** Trichoderma green mold is the most common competitor; maintain strict [[mushroom-cultivation-fundamentals|sterile technique]]
+- **Contamination:** Trichoderma green mold is the most common competitor; maintain strict [[mushroom-cultivation-sterile-technique|sterile technique]]
 - **No fruiting:** Usually caused by insufficient humidity or air exchange
 
 ## See Also

@@ -41,9 +41,7 @@ norbaeocystin.
 ## Potency Variation Between Species
 
 The range of psilocybin concentrations across psychoactive species is
-enormous. [[psilocybe-semilanceata]] averages
-approximately 1% psilocybin of dry weight, making it one of the most potent
-European species. [[psilocybe-cubensis-potency-variation-by-flush]] contains
+enormous. [[psilocybe-cubensis-potency-variation-by-flush]] contains
 roughly double the psilocybin of Psilocybe pelliculosa, which itself has
 only 30-50% of the cyanescens content. The newly discovered Psilocybe
 azurescens from Oregon is described as unusually large and very potent.
@@ -61,38 +59,7 @@ name does not guarantee the same chemical profile across continents.
 Gartz investigated whether the concept of "chemical races" -- distinct
 populations of the same species with significantly different alkaloid
 profiles -- applies to psychoactive mushrooms. Combined analyses of
-[[psilocybe-semilanceata]] specimens from Great Britain,
-Holland, Finland, Sweden, France, Switzerland, and the former
-Czechoslovakia yielded an average of approximately 1% psilocybin of dry
-weight regardless of country of origin.
-
-This finding argued against the existence of dramatic chemical races in
-this species. The concept of chemical race had been hotly debated with
-respect to the fly agaric mushroom, but Gartz concluded that, in contrast
-to plants, such a phenomenon had not been proven to exist in higher
-mushroom species. However, the Pluteus salicinus case demonstrated that
-what appeared to be the same species from different continents could differ
-radically in alkaloid content -- raising the possibility that they were in
-fact different species that had been incorrectly lumped together
-taxonomically.
-
-## Size-Potency Correlation
-
-A consistent finding across multiple species was that smaller mushrooms
-tended to have higher alkaloid concentrations relative to their dry weight
-than larger specimens. This was documented in Gymnopilus purpuratus, where
-large specimens with caps up to 20cm contained approximately 0.1% each of
-psilocin and psilocybin, while smaller specimens showed significantly
-higher concentrations.
-
-This size-potency inverse relationship has practical implications for
-users, who might assume that larger mushrooms are proportionally more
-potent. In fact, a collection of small fruiting bodies could contain more
-alkaloids per gram than an equivalent weight of large specimens.
-
-## Cap vs. Stem Distribution
-
-Gartz's detailed analyses of [[psilocybe-cubensis-potency-variation-by-flush]]
+[[psilocybe-cubensis-potency-variation-by-flush]]
 revealed significant differences in alkaloid distribution between cap and
 stem tissues. Caps consistently contained higher psilocybin concentrations
 than stems -- in one sample series, caps ranged from 1.22% to 1.57%
@@ -113,19 +80,7 @@ compounds. Psilocybin is relatively stable when mushrooms are dried and
 stored at temperatures below 50 degrees Celsius (122 degrees Fahrenheit).
 Psilocin, however, is considerably less stable. Gartz found that levels of
 both psilocin and psilocybin were significantly lower in very old and
-strongly discolored fruiting bodies and mycelia of [[psilocybe-cubensis-potency-variation-by-flush]] compared to younger specimens, confirming that the bluing reaction (oxidation of psilocin) represents actual destruction of active compounds.
-
-These findings have important practical consequences. Attempts to preserve
-fresh mushrooms by freezing with dry ice turned them to mushy pulp and were
-soon abandoned. Preserving mushrooms in honey worked for only short periods.
-The most effective method for long-term preservation is thorough drying at
-moderate temperatures, which preserves psilocybin while accepting the
-inevitable loss of the less stable psilocin.
-
-## The Bluing Reaction and Potency
-
-The relationship between bluing intensity and alkaloid content is
-paradoxical. [[psilocybe-bohemica-central-european]] displays the most
+strongly discolored fruiting bodies and mycelia of [[psilocybe-bohemica-central-european]] displays the most
 impressive bluing reaction among the species Gartz examined, yet its
 psilocin levels are low or non-existent. This is because the bluing
 reflects not the amount of psilocin present but the rate of enzymatic
@@ -136,14 +91,7 @@ compounds themselves are unstable and involve chinone-type chemical bonds
 whose exact structure remains undetermined.
 
 Conversely, species with high psilocybin but slight bluing -- such as
-[[psilocybe-semilanceata]] -- can still be very potent.
-The bluing reaction is therefore an unreliable indicator of either the
-presence or the quantity of psychoactive compounds in a mushroom.
-
-## See Also
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
-- [[gartz-psilocybin-alkaloid-baeocystin-chemistry]]
+[[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
 - [[psilocybin-mushroom-potency-and-dosage-guide]]
-- [[gartz-european-psychoactive-mushroom-species]]
 - [[gartz-magic-mushrooms-global-distribution-patterns]]
 - [[metol-testing-bluing-reaction-mushrooms]]

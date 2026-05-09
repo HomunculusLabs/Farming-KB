@@ -3,7 +3,7 @@ title: Permaculture Crop Rotation
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -94,12 +94,6 @@ Permaculture rotation differs from conventional farming in several ways:
 
 ## Connections
 
-Crop rotation complements [[permaculture-plant-guilds]] by managing the annual planting layers beneath perennial guild canopies. The nutrient cycling principles connect directly to [[soil-nutrient-cycling]], and rotation planning should account for [[organic-garden-soil-preparation]] methods specific to each crop family.
-
-## Related
-
-- [[guild-design-methodology]]
-- [[permaculture-cycles-and-niches-in-time]]
+Crop rotation complements [[soil-nutrient-cycling]], and rotation planning should account for [[guild-design-methodology]]
 - [[urban-permaculture-nitrogen-fixing-green-manures]]
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

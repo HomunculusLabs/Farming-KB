@@ -114,11 +114,7 @@ The sylphs of thunder and lightning teach these methods. The puyo-runas (cloud m
 
 ## Related Topics
 
-- [[hallucinogens-and-shamanism-harner-anthology]] -- tobacco's central role in Amazonian healing
 - [[amazonian-sorcery-illness-and-curing-practices]] -- the illnesses these practices address
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] -- the practitioners
 - [[amazonian-medicinal-plants-in-amaringos-visions]] -- the plants used in treatment
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 - [[plant-micronutrients-and-their-essential-functions]]
-- [[amazonian-medicinal-plants-reference]]
 - [[water-pathways-through-plants]]

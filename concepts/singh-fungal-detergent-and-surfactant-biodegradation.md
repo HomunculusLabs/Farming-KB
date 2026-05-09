@@ -24,7 +24,7 @@ biological degradation of these compounds, fungi contribute important
 complementary capabilities, particularly for recalcitrant surfactant
 structures and under conditions unfavorable to bacteria. Singh's
 treatment of fungal surfactant biodegradation connects to the broader
-scope of [[mycoremediation-pahs]] and [[singh-wood-rot-fungi-structural-timber-decay]].
+scope of [[singh-wood-rot-fungi-structural-timber-decay]].
 
 ## Major Surfactant Classes in the Environment
 
@@ -55,23 +55,7 @@ including rhamnolipids, sophorolipids, and surfactin are microbial-derived
 alternatives with generally higher biodegradability and lower toxicity
 than their synthetic counterparts.
 
-## [[fungal-enzyme-systems]] for Surfactant Degradation
-
-### Cytochrome P450 Monooxygenases
-Fungal cytochrome P450 enzymes play a central role in the initial
-oxidation of alkyl chains in LAS and alcohol ethoxylates. These
-heme-thiolate enzymes introduce hydroxyl groups into terminal and
-subterminal carbon positions, initiating the pathway toward beta-oxidation
-and chain shortening. The broad substrate specificity of fungal P450s
-allows them to attack diverse alkyl chain lengths and branching patterns
-that may resist bacterial degradation.
-
-### Peroxidases and Laccases
-White rot fungal peroxidases, including lignin peroxidase, manganese
-peroxidase, and laccase, contribute to the degradation of the aromatic
-portions of surfactants. These enzymes can oxidize the benzene ring of
-LAS, cleave ether linkages in ethoxylate chains, and mineralize phenolic
-degradation intermediates. Laccase from [[trametes-versicolor]] has been
+## [[trametes-versicolor-entity]] has been
 shown to degrade nonylphenol and other endocrine-disrupting intermediates
 of APEO degradation, offering a promising approach for detoxifying these
 persistent metabolites.
@@ -97,48 +81,6 @@ degrade quaternary ammonium compounds.
 ## Biosurfactants from Fungi
 
 Beyond degrading synthetic surfactants, fungi produce biosurfactants that
-can enhance [[pah-bioremediation]] of hydrophobic pollutants. Yeasts such as
-Candida bombicola (now Starmerella bombicola) produce sophorolipids,
-glycolipid biosurfactants with excellent surface-active properties.
-Pseudozyma species produce mannosylerythritol lipids (MELs). These fungal
-biosurfactants can emulsify hydrocarbons, increase their bioavailability
-for microbial degradation, and have commercial applications as eco-friendly
-detergent ingredients.
-
-## Wastewater Treatment Applications
-
-Fungal surfactant degradation is applied in several wastewater treatment
-contexts. Fungal biofilters using immobilized white rot fungi on wood
-chips or other carrier materials treat surfactant-containing effluents.
-Fungal sequencing batch reactors have been tested for textile wastewater
-containing both dyes and surfactants. The tolerance of many fungi to
-extreme pH and high surfactant concentrations gives them advantages over
-bacterial systems in industrial effluent treatment.
-
-## Factors Affecting Fungal Surfactant Biodegradation
-
-Degradation efficiency depends on surfactant concentration (high levels
-can be toxic to fungi), temperature, pH, oxygen availability, and the
-presence of co-contaminants. Mixed fungal-bacterial consortia often
-outperform pure fungal cultures because bacteria efficiently handle
-primary degradation products while fungi attack the more recalcitrant
-structures. Nutrient availability, especially nitrogen and phosphorus,
-influences enzyme production and overall degradation rates.
-
-## Environmental Fate and Monitoring
-
-Environmental monitoring of surfactant degradation typically involves
-measuring parent compound concentrations and key metabolites using HPLC,
-GC-MS, or LC-MS techniques. Biodegradation tests following OECD
-guidelines (e.g., OECD 301, 306) assess ready and inherent
-biodegradability. Molecular methods targeting fungal functional genes
-(such as laccase and P450 genes) in environmental samples provide
-insights into the role of indigenous fungal communities in surfactant
-removal in natural systems.
-
-## See Also
-
-- [[singh-wood-rot-fungi-structural-timber-decay]]
-- [[singh-fungal-plant-growth-promoting-mechanisms]]
+can enhance [[singh-wood-rot-fungi-structural-timber-decay]]
 - [[mycoremediation-pahs]]
 - [[pah-bioremediation]]

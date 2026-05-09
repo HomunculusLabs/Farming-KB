@@ -72,56 +72,10 @@ The organic approach differs from chemical gardening primarily in its treatment 
 
 ## Green Manures
 
-Living plants grown specifically to improve soil (see [[nitrogen-fixing-trees-and-shrubs]]):
-- Sow on vacant ground, especially in autumn on light soils
-- Prevent nutrient leaching during winter
-- Dig in during spring before they flower
-- Add organic matter and nutrients when incorporated
-- Examples: mustard, phacelia, clover, rye, field beans
+Living plants grown specifically to improve soil (see [[hamilton-worm-composting-manure]] Concepts
 
-## Worm Composting (Vermicomposting)
-
-- Worm compost bins process kitchen waste efficiently
-- Red worms (Eisenia fetida) work quickly in warm weather
-- Top off bins regularly in summer as worms work fast
-- Water if necessary in dry weather
-- Can be brought into heated greenhouse for winter — worms keep working
-- Start the bin outside in spring if worms died over winter, replacing them
-- Produces concentrated, nutrient-rich castings
-
-## Mulching
-
-Spreading organic material on top of soil between plants:
-- Suppresses weed growth by blocking light
-- Conserves soil moisture by reducing evaporation
-- Moderates soil temperature
-- Adds organic matter as it decomposes
-- Protects soil structure from rain compaction
-- Use: compost, well-rotted manure, grass clippings, straw, leaf mold
-
-### Mulch by Soil Type
-- **Clay**: prevents capping (hard crust formation) when rain hits bare soil
-- **Sand**: critical for moisture retention; nutrients drain away quickly without mulch
-- **Chalk**: use acid materials (peat, grass cuttings, compost, manure) to counteract alkalinity
-- **Peat**: less critical but helps prevent rapid drying in hot weather
-
-## The Four Phases of Soil Management
-
-1. **Analyze**: Test soil pH; if starting a new garden, have professional soil analysis done to identify nutrient deficiencies
-2. **Condition**: Apply bulky organic matter (compost, manure) — dig in during autumn, spread as mulch in growing season
-3. **General fertilize**: If organic matter is insufficient, add concentrated organic fertilizers (blood/fish/bone meal, pelleted chicken manure)
-4. **Specific fertilize**: Treat demanding crops (tomatoes need potash, spring cabbage needs extra nitrogen, raspberries prone to iron deficiency on chalk)
-
-## Related
-
-- [[hamilton-worm-composting-manure]] Concepts
-
-- [[soil-building-permaculture]]
 - [[nitrogen-fixing-trees-and-shrubs]]
-- [[soil-building-permaculture]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- [[hamilton-organic-weed-control]]
 - [[hamilton-garden-pond-maintenance]]
-- [[urban-permaculture-nitrogen-fixing-green-manures]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[holzer-green-manure-and-soil-building-plants]]

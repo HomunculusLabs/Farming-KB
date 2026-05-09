@@ -130,9 +130,6 @@ and the subjective experience of the consumer.
 
 ## See Also
 
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
-
 - [[clarke-marijuana-botany-trichome-biology]]
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
 - [[clarke-marijuana-botany-flowering-and-photoperiodism]]

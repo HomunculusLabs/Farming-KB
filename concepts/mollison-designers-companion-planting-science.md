@@ -44,28 +44,7 @@ beans, and the squash shades the soil and suppresses weeds with its
 broad leaves. This principle extends to mollison designers agroforestry and integrated tree crops
 systems where nitrogen-fixing trees support understory crops.
 
-## Pest Deterrence and [[trap-cropping]]
-
-Companion plants can reduce pest pressure through several mechanisms.
-Some plants produce volatile compounds that repel insect pests or mask
-the scent of vulnerable crops, making them harder for pests to locate.
-Marigolds (Tagetes spp.) release thiophenes that repel root-knot
-nematodes in soil. Basil interplanted with tomatoes is reputed to deter
-tomato hornworm and whitefly. Garlic and alliums produce sulphur
-compounds that discourage various insect pests.
-
-Trap cropping is the deliberate planting of species that attract pests
-away from the primary crop. Nasturtiums attract aphids away from
-vegetables, mustard plants draw flea beetles from brassicas, and
-radishes serve as trap crops for root maggots near onions. Once pests
-concentrate on the trap crop, they can be managed more easily through
-targeted removal or biological controls.
-
-Physical mechanisms also play a role. Plants with strong odours or
-unusual textures can disrupt pest navigation and feeding behaviour.
-Dense interplanting creates a more complex habitat that supports greater
-populations of predatory insects and birds, enhancing biological pest
-control as described in [[mollison-designers-integrated-pest-management-design]].
+## Pest Deterrence and [[mollison-designers-integrated-pest-management-design]].
 
 ## Allelopathy: Chemical Interactions Between Plants
 
@@ -111,15 +90,7 @@ Companion plants modify the microclimate around their neighbours in ways
 that can improve growing conditions. Shade-tolerant species benefit from
 the partial shade cast by taller companions during hot periods.
 Windbreak species reduce evaporative water loss from downwind crops.
-[[ground-cover-plants]] moderate soil temperature fluctuations and maintain
-higher humidity at the soil surface, benefiting seed germination and
-shallow-rooted species.
-
-Living mulches of low-growing plants such as white clover between
-vegetable rows suppress weeds, regulate soil temperature, and contribute
-nitrogen fixation while the primary crop grows through them. Mollison
-describes these multi-functional plant associations as the foundation
-of productive polyculture design in [[mollison-designers-food-forest-succession-design]]
+[[mollison-designers-food-forest-succession-design]]
 and intensive garden systems alike.
 
 ## Limitations and Critical Thinking
@@ -136,9 +107,6 @@ guidance than any generalised planting chart.
 
 ## Cross-References
 
-- [[mollison-designers-integrated-pest-management-design]]: Biological pest control
-- mollison designers zone one garden: Garden polyculture design
-- mollison designers agroforestry and integrated tree crops: Tree-crop interactions
 - [[mollison-designers-food-forest-succession-design]]: Multi-strata companion systems
 - mollison designers nutrient cycling: Nitrogen fixation in polycultures
 - [[mollison-designers-humus-building-and-soil-organic-matter]]: Allelopathic weed control

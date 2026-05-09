@@ -18,7 +18,7 @@ Drip irrigation uses pressurized water delivered through tubes and emitters dire
 
 Both approaches conserve water compared to overhead sprinklers, but they differ in precision, energy requirements, maintenance, and ideal applications.
 
-See [[drip-irrigation-guide]] for system design details and [[passive-irrigation-systems]] for DIY passive methods.
+See [[passive-irrigation-systems]] for DIY passive methods.
 
 ## Key Differences
 
@@ -128,10 +128,7 @@ Passive drawbacks include lower precision compared to drip, limited delivery dep
 
 ## See Also
 
-- [[comparison-passive-solar-vs-earth-sheltered]]
-
 - [[comparison-wicking-bed-vs-passive-wick-hydroponics]]
 
-- [[permaculture-designers-manual-greywater-systems]] for recycling household water
-- [[water-harvesting-techniques-comparison]] for capture methods
+- [[graywater-systems]] for recycling household water
 - [[swale-design]] for landscape-scale passive hydration

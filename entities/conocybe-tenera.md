@@ -47,13 +47,7 @@ The species is found primarily in open, grassy habitats including pastures, mead
 ## Psychoactive and Toxic Properties
 
 ### Psilocybin Content
-Some collections of C. tenera have been reported to contain psilocybin|psilocybin in low concentrations, though results have been highly variable between different populations, geographic regions, and analytical studies. Some collections have shown only trace or undetectable levels. The more reliably psychoactive species in the genus is [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]], which has consistently shown higher and more dependable psilocybin|psilocybin and psilocin|psilocin concentrations across multiple analyses.
-
-### Muscarine Concern
-The genus Conocybe as a whole is known to contain species with dangerous levels of muscarine|muscarine, a toxic parasympathomimetic alkaloid that causes symptoms including excessive salivation, sweating, nausea, vomiting, blurred vision, slow heart rate, and in severe cases, respiratory failure. Several Conocybe species have been implicated in documented cases of muscarine|muscarine poisoning in Europe, particularly species in section Pholiotina.
-
-### Amatoxin Risk
-Perhaps most alarmingly, some species now placed in Conocybe or the related genus [[pholiotina-filaris-profile]] contain deadly amatoxins — the same liver-destroying compounds found in [[amanita-phalloides-death-cap]]. The most notorious of these is [[pholiotina-filaris-profile]] (formerly Conocybe filaris), which is virtually indistinguishable from C. tenera in the field.
+Some collections of C. tenera have been reported to contain psilocybin|psilocybin in low concentrations, though results have been highly variable between different populations, geographic regions, and analytical studies. Some collections have shown only trace or undetectable levels. The more reliably psychoactive species in the genus is [[pholiotina-filaris-profile]] contain deadly amatoxins — the same liver-destroying compounds found in [[pholiotina-filaris-profile]] (formerly Conocybe filaris), which is virtually indistinguishable from C. tenera in the field.
 
 ### Warnings
 **No Conocybe species should be consumed.** The extremely small size of these mushrooms, the difficulty of accurate field identification to species level, and the presence of both muscarine|muscarine-containing and amatoxin-containing species within the genus make any attempt at recreational foraging extraordinarily dangerous. The risk of life-threatening muscarine poisoning or fatal amatoxin poisoning far outweighs any potential psychoactive effect from the relatively few psilocybin|psilocybin-containing species in the genus.
@@ -61,10 +55,8 @@ Perhaps most alarmingly, some species now placed in Conocybe or the related genu
 ## Similar Species
 
 - **Conocybe lactea** — A very similar species with a more consistently white to cream-colored cap that lacks the ochre-brown tones of C. tenera; some authorities treat it as synonymous.
-- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]** — A psychoactive species of similar size and habitat, typically with a bluish tinge to the stipe base and more reliably documented psilocybin|psilocybin content.
 - **[[pholiotina-filaris-profile]]** — An extremely dangerous species containing deadly amatoxins, formerly placed in Conocybe, and virtually indistinguishable from C. tenera in the field without microscopic examination.
-- **[[psilocybe-semilanceata]]** — The liberty cap, which may occupy similar grassland habitats but is distinguished by its prominent umbo, darker and more caramel-colored cap, and characteristic bluing reaction when bruised.
-- **[[conocybe-siligineoides]]** — The psychoactive species traditionally used in Oaxaca, Mexico, with documented psilocybin|psilocybin content.
+- **[[archaeology-of-psychedelic-mushroom-use]]** — The psychoactive species traditionally used in Oaxaca, Mexico, with documented psilocybin|psilocybin content.
 
 ## Ecological Role
 
@@ -72,7 +64,7 @@ C. tenera is a saprotrophic species that decomposes organic matter in grassland 
 
 ## Cultural Significance
 
-Within the mycological literature on psychoactive mushrooms, C. tenera occupies a marginal and ambiguous position. It has been included in some authoritative lists of psilocybin-containing fungi, but its variable chemistry and the extreme dangers associated with the genus have kept it from being a sought-after species. The more prominent psychoactive Conocybe species in the ethnopharmacological literature are [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] (from Europe and North America) and [[conocybe-siligineoides]] (from Oaxaca, Mexico, where it is traditionally used in ceremonial contexts).
+Within the mycological literature on psychoactive mushrooms, C. tenera occupies a marginal and ambiguous position. It has been included in some authoritative lists of psilocybin-containing fungi, but its variable chemistry and the extreme dangers associated with the genus have kept it from being a sought-after species. The more prominent psychoactive Conocybe species in the ethnopharmacological literature are [[archaeology-of-psychedelic-mushroom-use]] (from Oaxaca, Mexico, where it is traditionally used in ceremonial contexts).
 
 ## Seasonality
 
@@ -81,3 +73,7 @@ C. tenera fruits from late spring through autumn (May to October in the Northern
 ## Notes
 
 The genus Conocybe contains approximately 100 described species worldwide, many of which are extremely small, fragile, and exceedingly difficult to identify in the field without microscopy. The combination of their diminutive size, habitat in disturbed grassy areas, and highly variable chemistry (ranging from inactive to psychoactive to muscarine-containing to amatoxin-containing) makes them one of the most problematic groups from a foraging safety perspective. Even experienced mycologists typically require microscopic examination of spore morphology, basidial characters, and cystidial features to identify Conocybe species with confidence.
+
+## See Also
+
+- [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]

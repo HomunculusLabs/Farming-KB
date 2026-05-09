@@ -15,17 +15,9 @@ identical or nearly indistinguishable but reproductively isolated and
 genetically distinct. They cannot be reliably told apart by traditional
 morphological examination and are recognized only through molecular,
 behavioral, ecological, or reproductive data. Cryptic speciation is
-particularly prevalent [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]], where simple morphologies and convergent
-evolution mask enormous [[biodiversity-fungal-genetic-diversity]].
+particularly prevalent [[biodiversity-fungal-genetic-diversity]].
 
-## Prevalence [[symbiosis-in-fungi]]
-
-Fungi are especially prone to cryptic diversity for several reasons:
-
-- **Limited morphological characters**: Many fungi, especially microfungi
-  and yeasts, have simple body plans with few diagnostic features. Traditional
-  taxonomy relied heavily on fruiting body morphology, which represents only
-  a small fraction [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] organism's genome.
+## Prevalence [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] organism's genome.
 
 - **Convergent evolution**: Similar ecological pressures can produce
   morphologically identical structures in unrelated lineages. Mushroom
@@ -77,12 +69,7 @@ have revealed many cryptic species complexes.
 
 Cryptic species often occupy different ecological niches, host
 species, or geographic ranges. Correlating genetic lineages with
-ecological differentiation provides [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]] species-level
-distinction even without morphological differences. For example,
-cryptic species of *Mycosphaerella* on eucalypts were distinguished
-primarily by their host specificity and geographic distribution.
-
-### [[aspergillus-fumigatus-population-genetics]]
+ecological differentiation provides [[aspergillus-fumigatus-population-genetics]]
 
 Coalescent-based methods and species delimitation algorithms (GMYC,
 BPP, STACEY) use patterns of genetic variation within and between
@@ -123,8 +110,6 @@ fungal diversity in a state of taxonomic limbo.
 
 ## See Also
 
-- [[fungal-biodiversity]]
 - [[fungal-taxonomy]]
 - species delimitation
-- [[environmental-dna-metabarcoding]]
 - [[gymnopus-dryophilus]]

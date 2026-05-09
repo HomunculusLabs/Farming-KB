@@ -1,7 +1,7 @@
 ---
 title: Sector Analysis for Site Design
 created: 2026-04-28
-tags: [permaculture, sector-analysis, site-analysis, wind-patterns, 
+tags: [[permaculture, sector-analysis, site-analysis, wind-patterns, 
 solar-azimuth, fire-hazard, noise-mapping, microclimate, 
 zone-planning, base-map, topographical-analysis, earthworks]
 date: 2026-04-25
@@ -127,11 +127,7 @@ all five zones.
 
 ## See Also
 
-- [[williams-pdc-sector-analysis]]
-
 - [[ozier-pdc-design-process-analysis-frameworks]]
 
-- [[ozier-pdc-forest-succession-and-food-forests]] for forest placement
 - [[ozier-pdc-hydro-cycle-and-watershed-management]] for water flow
-- [[ozier-pdc-plant-guilds-and-polyculture-design]] for element placement
 - [[ozier-pdc-composting-and-nutrient-cycles]] for soil building zones

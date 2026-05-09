@@ -126,10 +126,6 @@ pest damage remains within tolerable bounds without any chemical inputs.
 
 ## See Also
 
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fukuoka-disease-pest-management]]
-- [[fukuoka-pruning-fruit-tree-natural-management]]
 - [[mushroom-training-pest-disease-management]]
-- [[cotter-natural-pest-control-disease-management]]
-
 - [[jadam-fruit-tree-management]]

@@ -9,38 +9,9 @@ created: 2026-05-08
 
 ## Overview
 
-Terence McKenna proposed that the psilocybin-containing mushroom Stropharia cubensis
+[[stropharia-cubensis]]
 may not have evolved on Earth but could be an extraterrestrial organism that
-radiated throughout the galaxy via spore dispersal. This hypothesis, communicated
-to McKenna during psychedelic experiences and elaborated in his writings, suggests
-that the mushroom functions as a symbiotic organism that has been associated with
-human culture since prehistoric times, transmitting information about the nature
-of consciousness and the cosmos through its psychoactive effects. While highly
-speculative, the hypothesis raises provocative questions about the origins of
-psychoactive fungi and their role in human cognitive evolution.
-
-## The Mushroom's Self-Description
-
-According to McKenna, the Stropharia cubensis mushroom, when encountered in the
-psychedelic state, describes itself as an extraterrestrial organism. The mushroom
-reports that "once a culture has complete understanding of its genetic information,
-it re-engineers itself for survival." The mushroom's survival strategy involves a
-mycelial network when in contact with planetary surfaces and a spore-dispersion
-strategy for interstellar radiation. McKenna reported that the mushroom claims to
-be "a symbiote" that "desires ever deeper symbiosis with the human species."
-
-The mushroom also claims to possess "a huge body of information drawn from the
-history of the galaxy" and states that "the galaxy has been an organized society
-for billions of years." According to the mushroom, "life evolves under so many
-different regimens of chemistry, temperature, and pressure, that searching for an
-extraterrestrial who will sit down and have a conversation with you is doomed to
-failure. The main problem with searching for extraterrestrials is to recognize
-that contact is being made at all."
-
-## Spore Dispersal as Interstellar Strategy
-
-McKenna elaborated a specific biological mechanism by which mushrooms could
-traverse interstellar space. He noted that psilocybin mushroom spores are "deep,
+radiated throughout the galaxy via [[psilocybin-mushroom]] spores are "deep,
 deep purple — the color that they would have to be to absorb the deep ultraviolet
 end of the spectrum." The casing of a spore is described as "one of the hardest
 organic substances known" with an "electron density approaching that of a metal."
@@ -132,13 +103,8 @@ than uncritically accepting its self-description.
 
 ## See Also
 
-- [[dmt-phenomenology]]
 - [[tryptamine-hyperdimensional-entities]]
-- [[tryptamine-glossolalia-and-language]]
-
-## References
-
-- McKenna, T. (1992). "Tryptamine Hallucinogens and Consciousness." The Archaic Revival. HarperSanFrancisco.
+- [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
 - McKenna, T. & McKenna, D. (1975). The Invisible Landscape. Seabury Press.
 - McKenna, T. (1976). Psilocybin: The Magic Mushroom Grower's Guide. And/Or Press.
 - Dick, P.K. (1981). Valis. Bantam Books.

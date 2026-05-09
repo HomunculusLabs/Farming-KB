@@ -50,11 +50,7 @@ Clinical trials have investigated the efficacy of Sceletium extracts for the tre
 
 ## Place in African Ethnopharmacology
 
-Kanna is one of the few African psychoactive plants with well-documented historical use. While Africa has a rich tradition of psychoactive plant use — including [[iboga-and-ibogaine-profile]] (Tabernanthe iboga) in Central Africa, khat (Catha edulis) in East Africa, and various plant-based intoxicants in southern and West Africa — many of these traditions remain poorly documented compared to those of the Americas or Asia.
-
-The study of kanna and other African psychoactive plants represents an important frontier in ethnopharmacology. As research interest in natural products continues to grow, the African continent's rich botanical heritage offers enormous potential for the discovery of new psychoactive and therapeutic compounds. Kanna stands as a model for how traditional African plant knowledge can be translated into modern therapeutic applications.
-
-In the context of [[old-world-hallucinogenic-plants-overview]], kanna represents the southern African contribution to a diverse global pharmacopoeia. Its unique serotonergic alkaloid profile distinguishes it from the tropane-containing plants of Europe, the tryptamine-containing plants of the Americas, and the cannabinoid-containing plants of Asia, demonstrating the remarkable chemical diversity of psychoactive plants across the Old World.
+Kanna is one of the few African psychoactive plants with well-documented historical use. While Africa has a rich tradition of psychoactive plant use — including [[old-world-hallucinogenic-plants-overview]], kanna represents the southern African contribution to a diverse global pharmacopoeia. Its unique serotonergic alkaloid profile distinguishes it from the tropane-containing plants of Europe, the tryptamine-containing plants of the Americas, and the cannabinoid-containing plants of Asia, demonstrating the remarkable chemical diversity of psychoactive plants across the Old World.
 
 ## Historical Context
 
@@ -70,21 +66,28 @@ Clinical and preclinical studies have provided preliminary support for the anxio
 
 ## See Also
 
-[[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — a Mexican plant with unique auditory effects.
-
 [[old-world-hallucinogenic-plants-overview]] — overview of Old World hallucinogenic plants.
-
-[[turkestan-mint-lagochilus-inebrians]] — a Central Asian psychoactive plant.
 
 [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican dream herb with oneirogenic properties.
 
-[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — Mexican morning glories.
-
-## References
-
-Smith, M.T., et al. "Mesembrine Alkaloids from Sceletium tortuosum." Journal of Ethnopharmacology, 1996.
-
-Van Wyk, B.E. & Gericke, N. People's Plants: A Guide to Useful Plants of Southern Africa. Briza Publications, 2000.
-- [[allegro-plants-and-drugs-in-the-ancient-world]]
-- [[mexican-mushroom-stones-archaeological-evidence]]
+[[allegro-plants-and-drugs-in-the-ancient-world]]
 - [[cultural-evolution-and-psychoactive-substances]]
+## Practical Considerations
+
+Successful implementation of Kanna (Sceletium tortuosum): South African Narcotic Plant requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

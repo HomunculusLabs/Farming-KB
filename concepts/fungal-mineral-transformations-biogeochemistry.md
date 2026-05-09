@@ -21,33 +21,7 @@ Fungi play a central role in the transformation of rocks and minerals, driving p
 
 Geomycology is the study of fungal interactions with minerals and geological substrates. Rocks and minerals represent a vast reservoir of essential elements including Na, K, Mg, Ca, Mn, Mo, Fe, Co, Ni, Cu, Zn, and crucially, phosphorus. All these elements must be released into bioavailable forms through weathering — the physical, chemical, and biological breakdown of rock substrates.
 
-Fungi have been components of terrestrial microbial communities since the Ordovician period (480–460 million years ago), inhabiting deserts, metal-rich habitats, and hypersaline environments. Their filamentous growth habit, high surface-area-to-mass ratio, and ability to translocate nutrients within [[mycelial-networks-and-intelligence]] make them exceptionally effective weathering agents.
-
-## Mechanisms of Fungal Weathering
-
-Fungi degrade mineral substrates through two synergistic pathways: biomechanical and biochemical weathering.
-
-### Biomechanical Weathering
-
-Direct biomechanical degradation occurs through hyphal penetration into decayed rocks and tunnelling into otherwise intact mineral matter. Fungal hyphae can exert considerable mechanical force derived from osmotically generated turgor pressure. Penetration is facilitated by thigmotropic reactions — directed growth towards grooves, ridges, and pores in solid materials — and lubrication with mucilaginous slime containing acidic and metal-chelating metabolites.
-
-Indirect biomechanical weathering results from shrinking and swelling of the hydrated mucilage produced by many fungi, which can widen cracks and fissures over time.
-
-### Biochemical Weathering
-
-Biochemical processes are considered more important than mechanical degradation. The three primary mechanisms are:
-
-**Acidolysis (proton-promoted dissolution):** Fungi acidify their microenvironment through excretion of protons and organic acids, and through formation of carbonic acid from respiratory CO₂. Acidolysis is the dominant mechanism when fungi grow with ammonium as a nitrogen source.
-
-**Complexolysis (ligand-promoted dissolution):** Fungi excrete metal-complexing metabolites including carboxylic acids (oxalic, citric), amino acids, siderophores, and phenolic compounds. Organic acids with strong chelating properties perform aggressive attack on mineral surfaces, providing both protons for solubilization and anions that complex metal cations.
-
-**Redoxolysis:** Redox transformations alter the oxidation state of mineral constituents, mobilizing otherwise insoluble metals and minerals.
-
-## Rock-Dwelling Fungal Communities
-
-Rock- and stone-dwelling microorganisms are classified by their position relative to the rock substrate. Epiliths grow on rock surfaces, while endoliths inhabit the rock sub-surface. Endoliths include chasmoliths (growing in pre-existing cracks), cryptoendoliths (growing inside cavities among crystal grains), and euendoliths (actively boring into submerged rock).
-
-Epiliths are often represented by microcolonial black-coloured fungi — spherical clusters of tightly packed cells with thick pigmented walls. Filamentous fungi across the zygomycetes, ascomycetes, and [[basidiomycete-phylum-guide]] occur on rock surfaces and within cracks, fissures, and pores. Fungi have been found in limestone, soapstone, marble, granite, sandstone, andesite, basalt, gneiss, dolerite, amphibolite, and quartz.
+Fungi have been components of terrestrial microbial communities since the Ordovician period (480–460 million years ago), inhabiting deserts, metal-rich habitats, and hypersaline environments. Their filamentous growth habit, high surface-area-to-mass ratio, and ability to translocate nutrients within [[basidiomycete-phylum-guide]] occur on rock surfaces and within cracks, fissures, and pores. Fungi have been found in limestone, soapstone, marble, granite, sandstone, andesite, basalt, gneiss, dolerite, amphibolite, and quartz.
 
 ## Fungal Bioweathering in Practice
 
@@ -59,37 +33,9 @@ Fungal bioweathering of basaltic outcrops in sub-polar areas is believed to be c
 
 Fungi can immobilize mobile metal species through biosorption to biomass (cell walls, pigments, extracellular polysaccharides), intracellular accumulation, and extracellular precipitation. They are highly efficient bioaccumulators of Ni, Zn, Ag, Cu, Cd, and Pb, even from dilute concentrations. Metal binding occurs in both living and dead fungal biomass.
 
-The formation of secondary minerals — organic and inorganic precipitates on and within cell walls — is influenced by environmental pH and cell wall composition. Cations such as Si⁴⁺, Fe³⁺, Al³⁺, and Ca²⁺ stimulate precipitation of compounds that act as bonding agents for [[fungi-in-the-environment-fungal-soil-aggregation-structure]]. Hyphae physically enmesh soil particles, alter alignment, and release organic metabolites that enhance aggregate stability.
+The formation of secondary minerals — organic and inorganic precipitates on and within cell walls — is influenced by environmental pH and cell wall composition. Cations such as Si⁴⁺, Fe³⁺, Al³⁺, and Ca²⁺ stimulate precipitation of compounds that act as bonding agents for [[fungal-ecology-decomposition-cycles]] is especially significant in forest soils where mycorrhizal fungi dominate microbial biomass.
 
-## Carbon and Phosphorus Cycling
-
-Through mineral dissolution, fungi release phosphorus from otherwise insoluble phosphate compounds, making it bioavailable for plants and microorganisms. The [[fungal-ecology-decomposition-cycles]] is especially significant in forest soils where mycorrhizal fungi dominate microbial biomass.
-
-The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[the-soil-food-web]], these processes contribute directly to soil carbon sequestration by forming recalcitrant organic-mineral complexes.
-
-## Calcium Oxalate and Carbonate Biomineralization
-
-Fungi are prolific producers of calcium oxalate crystals, which form on and within hyphal cell walls as a result of oxalic acid secretion reacting with environmental calcium. These crystals serve multiple functions: they regulate intracellular calcium levels, detoxify excess oxalate, modify the local microenvironment pH, and contribute to soil structure. Over geological time, fungal oxalate production has contributed to the formation of calcium carbonate deposits through a process of oxalate oxidation, representing a significant pathway for long-term carbon sequestration. In arid and semi-arid environments, fungal carbonate biomineralization plays a role in the formation of desert varnish, caliche, and other soil surface features.
-
-## Fungi in Soil Aggregation
-
-Soil aggregates — clusters of mineral particles bound together by organic materials — are fundamental to soil structure, water infiltration, and carbon storage. Fungi contribute to aggregate formation through several mechanisms. Hyphae physically enmesh soil particles, binding them together much as roots bind soil. Extracellular polysaccharides and glomalin-related soil proteins (produced abundantly by arbuscular mycorrhizal fungi) act as glue between mineral particles. The secondary mineral precipitates formed during fungal weathering — including oxalates, carbonates, and iron-aluminum complexes — serve as cementing agents within aggregates.
-
-The contribution of mycorrhizal fungi to soil aggregation is particularly significant in grassland and forest ecosystems. Glomalin, discovered by Sara Wright at the USDA in 1996, is a glycoprotein produced by AMF hyphae that can persist in soil for decades. It contributes up to 27% of total soil carbon in some ecosystems and is a major factor in the water-stability of soil aggregates. Managing for fungal abundance through reduced tillage, cover cropping, and organic amendments is therefore a key strategy for building and maintaining soil structure.
-
-## Iron and Manganese Cycling
-
-Fungi play critical roles in the oxidation and reduction of iron and manganese — two elements whose redox chemistry profoundly influences soil fertility and contaminant mobility. Many fungi secrete siderophores — high-affinity iron-chelating compounds — to scavenge iron from mineral surfaces under iron-limiting conditions. Siderophores dissolve iron-bearing minerals (goethite, hematite, ferrihydrite) and make iron available not only to the producing fungus but also to neighboring plants and microorganisms. This siderophore-mediated iron acquisition is particularly important in alkaline soils where iron solubility is extremely low.
-
-Manganese oxidation by fungi can produce manganese oxide minerals that are highly reactive surfaces for the adsorption and oxidation of other elements, including toxic heavy metals and organic pollutants. Wood-rotting basidiomycetes, particularly white-rot fungi, employ manganese peroxidase as part of their lignin-degrading enzyme system, linking manganese cycling directly to carbon cycling in forest ecosystems.
-
-## Fungal Roles in Phosphorus Mobilization
-
-Phosphorus is one of the most limiting nutrients in terrestrial ecosystems, and fungi are among the most effective biological agents for its mobilization from mineral sources. Mycorrhizal fungi access phosphorus from soil volumes that roots cannot reach, while free-living fungi dissolve phosphate minerals through acidolysis and complexolysis. Phosphate-solubilizing fungi, including species of *Aspergillus* and *Penicillium*, are widely used as biofertilizers in sustainable agriculture to reduce dependence on mined phosphate rock — a non-renewable resource whose global reserves are projected to be depleted within 50-100 years at current extraction rates.
-
-## Applications in Bioremediation
-
-The mineral-transforming abilities of fungi have direct applications in fungal-bioremediation|bioremediation. Fungi can immobilize toxic metals, solubilize phosphate for plant uptake in contaminated soils, and transform mineral matrices that sequester pollutants. Their ability to weather concrete and building materials also has implications for [[fungal-building-material-deterioration]] and infrastructure integrity.
+The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[fungal-building-material-deterioration]] and infrastructure integrity.
 
 Mycorrhizal fungi are increasingly used in phytoremediation — the use of plants to clean contaminated soil — because they simultaneously enhance plant metal tolerance and alter metal speciation in the rhizosphere. Fungal bioremediation strategies include biopiles (contaminated soil mixed with organic amendments and inoculated with fungi), mycofiltration (fungal mats used to filter contaminated water), and constructed wetlands where fungal communities contribute to nutrient and pollutant transformation.
 
@@ -115,10 +61,25 @@ Rock surfaces in diverse environments are often colonized by fungal communities 
 
 ## See Also
 
-- [[gadd-mineral-transformations-biogeochemistry]]
-
 - [[fungal-biogeochemistry]]
-- [[fungal-bioremediation-mechanisms]]
 - [[fungal-calcium-oxalate-crystals]]
-- [[brown-rot-fungi-biodegradation]]
-[[rock-eating-fungi-and-mineral-weathering]]
+- [[rock-eating-fungi-and-mineral-weathering]]
+## Practical Considerations
+
+Successful implementation of Fungal Mineral Transformations and Biogeochemical Cycles requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

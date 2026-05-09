@@ -79,11 +79,7 @@ The deep bed system was popularized by organic gardening pioneers and is central
 
 ## Related
 
-- [[organic-farming-methods-comparison]]
 - [[soil-food-web-structure]] for soil biology
-- [[vegetable-growing-guide]] for crop-specific spacing
 - [[cover-cropping-guide]] for bed rotation and green manures
-- [[organic-vegetable-garden-rotation-deep-beds]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[green-manure-cover-crops]]

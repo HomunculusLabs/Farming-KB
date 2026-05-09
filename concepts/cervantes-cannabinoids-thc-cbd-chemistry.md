@@ -102,38 +102,10 @@ restore us to complete health.
 
 The potency and cannabinoid profile of cannabis is influenced by
 genetics, growing conditions, harvest timing, and post-harvest
-handling. See [[cervantes-harvest-timing-trichome-ripeness]] for
-details on optimizing cannabinoid content at harvest. The
-[[cervantes-strain-selection]] guide covers genetic factors affecting
+handling. See [[cervantes-strain-selection]] guide covers genetic factors affecting
 cannabinoid ratios. For information on how cannabinoids interact with
-terpenoids in the entourage effect, see [[cannabis-advanced-growing-techniques]].
-
-## Cannabinoid Degradation
-
-Cannabinoids degrade over time when exposed to light, heat, and air.
-THC slowly converts to CBN through oxidation, which is why properly
-cured and stored marijuana retains more potency. Fresh bud contains
-only trace amounts of CBN, while poorly stored material develops
-higher CBN levels with corresponding loss of psychoactive potency.
-Proper [[cervantes-drying-buds-methods]] and [[cannabis-advanced-growing-techniques]] techniques are essential for preserving cannabinoid content.
-
-## Medical and Therapeutic Potential
-
-Marijuana as medicine is becoming accepted around the world, even
-among scientists and physicians. The combination of multiple
-cannabinoids working together, known as the entourage effect, produces
-therapeutic results superior to isolated single compounds. This is why
-whole-plant cannabis preparations often outperform synthetic THC
-(Marinol) in clinical applications.
-
-## Related Concepts
-
-- [[cannabis-advanced-growing-techniques]] - resin glands that
+terpenoids in the entourage effect, see [[cervantes-drying-buds-methods]] and [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - resin glands that
   produce and store cannabinoids
-- [[cervantes-harvest-timing-trichome-ripeness]] - timing harvest for
-  peak cannabinoid content
 - [[cervantes-flowering-phase]] - cannabinoid production during bloom
-- [[cervantes-strain-selection]] - genetics and cannabinoid profiles
 - [[cervantes-hash-making-extracts]] - concentrating cannabinoids
-- [[cervantes-drying-buds-methods]] - preserving cannabinoid content
-- [[cannabis-advanced-growing-techniques]] - proper storage prevents degradation
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - proper storage prevents degradation

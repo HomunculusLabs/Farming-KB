@@ -49,83 +49,68 @@ At 2.5 mg, users report visual movement, reality distortion, and difficulty find
 
 Body effects including leg twitching and crawling sensations may occur at this dose level.
 
-At 4 mg, the compound functions more as a "mood energizer" with a plus-two effect, described as lacking the seriousness of lsd or [[dom-entity-pihkal]]|DOM.
-
-The clinical literature originally characterized DOET at low doses as having "none of the hallucinogenic effects" while bringing into play "whatever one wants to."
-
-At 6 mg, effects include vivid smell enhancement, rich colors and shapes, serenely self-contained visual perception, and rich eyes-closed fantasy imagery.
-
-At 7 mg, the experience is described as "unbelievably lovely erotic-to-divine" with deep loving and open emotional states.
-
-Sleep may be shallow but pleasant at higher doses.
-
-## Synthesis
-
-The synthesis begins with 2,5-dimethoxy-4-ethylbenzaldehyde (the aldehyde precursor to 2c-e-entity|2C-E).
-
-The aldehyde is condensed with nitroethane and ammonium acetate in acetic acid to form 1-(2,5-dimethoxy-4-ethylphenyl)-2-nitropropene.
-
-The nitrostyrene is reduced with lithium aluminum hydride in ether to yield DOET as the free base, which is then converted to the hydrochloride salt.
-
-The nitropropene intermediate crystallizes as fine yellow crystals with a melting point of 67.5-68.5 degrees Celsius.
-
-## Pharmacological Context
-
-DOET is a positional isomer of dom-entity|DOM (STP), with the ethyl group at the 4-position instead of the methyl group.
-
-Unlike dom-entity|DOM, which was quickly classified as a controlled substance due to its abuse potential, DOET received less regulatory attention.
-
-At modest doses, DOET gained a reputation as a cognitive enhancer, largely free of the sensory distortions that typically attract regulatory scrutiny.
-
-The compound demonstrates the importance of the 4-position substituent in determining both potency and character within the 2,5-dimethoxyamphetamine series.
-
-## The Classic Lady Hecate
-
-HECATE is the Greek goddess of crossroads, the underworld, and magic.
-
-In Greek mythology, she is associated with liminal spaces and transitions, making her name particularly fitting for a compound that exists at the threshold between stimulant and psychedelic effects.
-
-Shulgin's practice of naming particularly significant compounds after mythological figures (the "Classic Ladies") indicates the special status he accorded to DOET.
-
-## Clinical and Research History
-
-The original publications on dom-entity|DOM documented it as a psychedelic with significant abuse potential.
-
-When DOET was studied and discussed in the literature, all reported dosages were kept at the lowest effective levels, with no published mention of the higher psychedelic doses described in PiHKAL.
-
-This deliberate underreporting of higher-dose effects may have helped DOET avoid the immediate regulatory attention that was applied to dom-entity|DOM.
-
-The compound may have been explored for potential therapeutic applications at sub-psychedelic doses.
-
-## Legal Status
-
-DOET exists in a complex mckenna tryptamine research in many jurisdictions.
-
-While not explicitly scheduled in some countries, the Controlled Substance Analogue Enforcement Act of 1986 in the United States may effectively criminalize its use for human trials.
-
-In other jurisdictions, DOET may be covered by generic scheduling of 2,5-dimethoxyamphetamine derivatives.
-
-## Harm Reduction
-
-The broad dose range (2-7 mg) means individual sensitivity varies considerably.
-
-Users should start with low doses and titrate upward carefully.
-
-The 14-20 hour duration requires planning for a full day and night of altered consciousness.
-
-DOET should not be combined with MAOIs or other serotonergic substances.
-
-The compound has not been extensively studied for toxicological profile at recreational doses.
-
-## Index
-
-- dom-entity|DOM: the 4-methyl analogue (STP)
-- [[dob-entity-pihkal]]|DOB: the 4-bromo analogue
-- [[doi-entity-pihkal]]|DOI: the 4-iodo analogue
-- 2c-e-entity|2C-E: the 2-carbon phenethylamine analogue
+At 4 mg, the compound functions more as a "mood energizer" with a plus-two effect, described as lacking the seriousness of lsd or [[dob-entity-pihkal]]|DOB: the 4-bromo analogue
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## See Also
 
-- [[doet-entity-pihkal]]
 - [[2c-g-entity-pihkal]]
+## Practical Considerations
+
+When working with DOET, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

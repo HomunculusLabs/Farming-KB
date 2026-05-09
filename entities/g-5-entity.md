@@ -68,15 +68,9 @@ The synthesis of G-5 was notably challenging, with the nitrostyrene intermediate
 
 ## Related Compounds
 
-[[2c-g-5-entity]] - the phenethylamine homologue
-
 [[2c-g-3-entity]] - the trimethylene phenethylamine
 
-[[2c-g-4-entity]] - the tetramethylene phenethylamine (synthesis not completed)
-
 [[g-3-entity]] - the trimethylene amphetamine
-
-[[ganesha-entity]] - the dimethylene bridge amphetamine
 
 [[2c-g-entity]] - the original phenethylamine in the Ganesha series
 

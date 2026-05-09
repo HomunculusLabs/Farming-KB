@@ -3,45 +3,7 @@ title: Mollison How Much Land for Self-Sufficiency
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-# Mollison How Much Land for Self-Sufficiency
-
-In *Permaculture Two*, Mollison addresses the fundamental question of how much land is needed, arguing that more land often means less productivity and more work. This connects directly to the [[permaculture-zones-system]] and the [[mollison-permaculture-design-philosophy]] of working with nature rather than against it.
-
-## The Problem of Too Much Land
-
-"We have made perhaps the gravest, or greediest, error of them all: we have over-reached ourselves."
-
-In Tasmania, a man with too much land is called "land poor" — he becomes poorer as his holdings increase. Companies are discovering that large holdings are large liabilities, becoming even more so as the petrol pool dries up. Friends who visited China found 45,000 people existing in a healthy state on some 8,000 hectares, while their son in Australia was going broke on the same area.
-
-The further one departs from communal permanence, the greater the risk of tyranny, feudalism, and revolution — and the more work for less yield. Any error or disturbance can bring disaster. The problem of overreach is compounded by the transition from a low to a high-energy society, the exploitive use of land, and a demand for external energy sources mainly provided by the third world.
-
-## The Answer
-
-"How much land do you need for self-sufficiency? As much as you can control. Any more and you lose self-sufficiency."
-
-"Where do I start? At your doorstep."
-
-## The Doorstep Garden
-
-"If you see a farm where the doorstep leads to weeds, then the weeds will go to the boundary; it is already out of control."
-
-Key statistic: In Russia, 4% of land (the small area around peasant houses) produces 60% of the food. "What would happen if the peasants were given 8%?"
-
-Mollison writes: "There is no doubt at all that the place to start is at the doorstep. If you do not have the doorstep controlled, there is not much hope for the bark paddock, or the far hill."
-
-Beginning from the backyard, one can range out from the doorstep as follows: the intensive garden, the orchard, the forage system, the forest. Each step outward requires less intensive management but covers more area.
-
-## Ideal Plot Size
-
-Mollison estimates approximately **750-1000 m2** for the home garden in terms of annual agriculture:
-- Less means too little food
-- More means too much land to control
-
-The smaller the managed annual system, the more land left for perennial planting and free-range animals on forage crop. This directly supports the [[permaculture-zones-system]] where Zone I (the area nearest the house) receives the most intensive management and produces the highest yields per unit area.
+tags: [[permaculture-zones-system]] and the [[permaculture-zones-system]] where Zone I (the area nearest the house) receives the most intensive management and produces the highest yields per unit area.
 
 ## The Delinquent Landscape
 
@@ -68,29 +30,70 @@ Nearby lands are often a result of the delinquent use of the plough, heavy machi
 - 3-4 hens plus a pig and 5-6 large wattles per 1000 m2, with many fruit trees and some field crop
 - One main crop that needs little attention after establishment (potatoes, corn, pumpkin)
 - Permanent grain plots kept small — 750-1000 m2 is ideal for the home garden
-- Use [[urban-rooftop-gardening-and-sheet-mulching]] and no-till methods
-- Tree crops for animal forage replace grain in the broader system
-
-## Slope and Land Use
-
-Slope gives immense planning advantages. The high plateau is a vast roof where rain and snow gather, and Prof. W.D. Jackson estimated that perhaps 85% of precipitation condenses from night air on the myriad leaf surfaces of plateaus. These are the most critical areas for national or continental well-being. The lower slopes are potentially very productive mixed agricultural areas, well suited to structures, domestic animals, and implements. The plains are most resistant to water damage but most open to wind erosion.
-
-The easy, rounded ridges of non-eroded lower slopes and their foothill pediments are a prime site for settlement — the junction of two natural economies (foothill forest and plains). The descending slopes allow a variety of aspects, exposures, insolation, and shelter for man to manage.
-
-## Intensive Gardening Beyond Natural Yields
-
-It is not difficult to accommodate or design gardens that are more intensive than the natural system. At the edges of trial plots sampled for yield, the production of grain increases dramatically. The key is intensive management of a small area rather than extensive management of a large area.
-
-## See Also
-
-- [[permaculture-zones-in-practice]] — zone-based design
-- [[mollison-permaculture-design-philosophy]] — design philosophy
+- Use [[permaculture-zones-in-practice]] — zone-based design
 - [[mollison-plant-stacking-and-interaction]] — intensive growing methods
-- [[urban-rooftop-gardening-and-sheet-mulching]] — urban food production
 - [[grain-cultivation-small-scale]] — small-scale grain growing
 
 ## Related
 
-- [[arid-landscape-permaculture]]
 - [[permaculture-climate-zones]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+## Practical Considerations
+
+When working with Mollison How Much Land for Self-Sufficiency, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

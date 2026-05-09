@@ -17,28 +17,7 @@ elements. Most came from the greenhouse industry or were developed for
 organic growers. Many do what they claim, but when growing a short
 eight to ten-week crop, some additives do not have time to work
 properly if added near the end of flowering. See also
-[[cervantes-nutrient-management]],
 [[cervantes-organic-mineral-amendments]], and
-[[cervantes-foliar-feeding]].
-
-## Plant Hormones
-
-### Abscisic Acid (ABA)
-A naturally occurring hormone that assists plants in adapting to
-environmental stresses like drought or cold temperatures. During
-winter, ABA converts leaves into stiff bud scales that protect the
-meristem from cold damage. Used in the garden, ABA may help plants
-resist drought and unseasonable conditions and improve productivity.
-
-### Auxins
-A group of plant hormones that regulate growth and phototropism.
-They are associated with elongation of plant cells, causing branches
-to grow vertically while inhibiting lateral buds. "Pinching off"
-branch tips reduces auxin levels and encourages bushy lateral growth
-as well as inducing new root formation.
-
-Indole 3 Butyric Acid (IBA) is one of the most common auxin hormones,
-used as an effective rooting hormone. See
 [[cervantes-rooting-hormones-cloning]].
 
 ### Cytokinins
@@ -81,28 +60,7 @@ rhizobium match.
 ### Trichoderma
 Fungi that colonize the root zone, crowding out negative fungi and
 microorganisms while stimulating root development and resistance to
-environmental stress. See [[cervantes-trichoderma-beneficial-fungi]]
-for detailed information.
-
-## Enzymes and Organic Additives
-
-### Enzymes
-Biological protein catalysts that accelerate reaction rates without
-changing themselves. Added to fertilizers and growth additives to
-speed nutrient uptake by roots. More than 1500 different enzymes have
-been identified, grouped into six main classes.
-
-### Cellulase
-A group of enzymes that act in the root zone to break down organic
-material which may rot and cause disease. Dead materials are converted
-into glucose and returned to the substrate for plant absorption.
-
-### Humic and Fulvic Acids
-Humic acids are carbons formed by decomposition of organic substances.
-They encourage strong tissue growth and help in nutrient transport.
-Fulvic acid is water-soluble under all pH conditions and serves as a
-powerful antioxidant and bio-stimulant. See
-[[cervantes-humic-fulvic-acid-soil-conditioners]].
+environmental stress. See [[cervantes-humic-fulvic-acid-soil-conditioners]].
 
 ### Sugar and Molasses
 Molasses, honey, and other sugars increase soil microbials, enhance

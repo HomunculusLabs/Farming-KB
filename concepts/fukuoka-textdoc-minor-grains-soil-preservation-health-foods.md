@@ -49,8 +49,7 @@ their use." Fukuoka argued that this neglect was misguided, as these grains
 deserve "more attention for their very great value as prototypic health foods
 essential for maintaining the physical well-being of human beings."
 
-This perspective connects to Fukuoka broader [[fukuoka-textdoc-decline-quality-food]]
-analysis and his [[fukuoka-textdoc-nature-of-food]] philosophy, which holds that
+This perspective connects to Fukuoka broader [[fukuoka-textdoc-nature-of-food]] philosophy, which holds that
 foods closer to their wild state provide greater nutritional benefit than highly
 refined or genetically improved varieties. The processing and breeding that make
 major grains palatable also strip them of much of their original nutritional
@@ -74,47 +73,6 @@ cultural knowledge of how to grow, harvest, process, cook, and enjoy these grain
 was being lost as diets modernized and globalized.
 
 Fukuoka viewed this seed preservation crisis as part of the broader pattern of
-[[fukuoka-disappearance-natural-diet]] that accompanies the
-industrialization of food systems. As food production becomes more centralized
-and standardized, the diversity of both crops and diets contracts, leaving
-populations dependent on a narrow range of foods.
-
-## Soil Preservation Function
-
-Beyond their importance as food for humans and animals, Fukuoka emphasized that
-minor grains have "played a vital role as coarse organic matter essential for
-soil preservation." This soil function operates through several mechanisms that
-are fundamental to sustainable agriculture.
-
-### Rotational Benefits
-
-When single-cropped or grown continuously, minor grains deplete the soil,
-similar to any crop. However, when rotated with green manure crops and root
-vegetables, they "improve and enrich the soil." The rotation pattern breaks
-pest and disease cycles while the diverse root structures improve soil
-physical properties. The alternation between grain crops and leguminous
-green manures maintains soil fertility without external inputs.
-
-### Soil Structure Improvement
-
-Minor grains contribute to soil health through their root systems and the crop
-residues they leave behind. Unlike the fine roots of rice, the root systems of
-millets and other minor grains penetrate the soil at various depths, creating
-channels for air and water movement. These root channels persist after harvest,
-improving soil drainage and aeration for subsequent crops.
-
-### Organic Matter Contribution
-
-The stems, leaves, and chaff of minor grains provide coarse organic matter
-that feeds soil microbial communities and improves soil structure. This is
-particularly important in upland farming systems where the continuous return of
-organic material is essential for maintaining fertility. The coarser texture of
-minor grain residues, compared with the fine straw of rice, provides different
-decomposition pathways that support a more diverse soil microbiome.
-
-## Relationship to Natural Crop Rotation
-
-Fukuoka minor grains advocacy was part of his broader
 [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] approach. In his
 vision, a natural farm includes winter grains such as barley and wheat as
 cool-season staples, summer grains such as rice and upland rice as warm-season
@@ -144,7 +102,6 @@ recommendations for minor grains and demonstrates the universal applicability of
 rotation principles across crop types. The same principles that govern minor
 grain cultivation, diversity, rotation, organic matter return, and minimal
 disturbance, apply equally to upland rice and other underutilized crops.
+## See Also
 
-## The Wilder Food Principle
-
-Fukuoka observation that "the wilder and more primitive the food, the greater
+- [[fukuoka-minor-grains-millets-superior-foods]]

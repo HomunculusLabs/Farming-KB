@@ -3,7 +3,7 @@ title: Bark Beetle and Ambrosia Beetle Fungi: Collection and Isolation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
 
@@ -124,13 +124,8 @@ Molecular studies show Ambrosiella is polyphyletic (some species related to Cera
 
 ## Related
 
-- [[ophiostoma-minus]] Topics
-
 - [[laboulbeniales-collection-mounting-identification]] — arthropod-associated ascomycetes
-- [[insect-fungi-gardening-symbioses]] — mutualistic insect-fungus associations
 - [[trichomycetes-gut-fungi-arthropods]] — gut-dwelling fungi of arthropods
-- [[fungal-molecular-identification]] — molecular identification of fungal associates
 - [[termite-ant-fungus-gardens]] — fungus-culturing insects
-- [[fungal-biodiversity-forest-ecosystems]] — fungi in forest environments
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]

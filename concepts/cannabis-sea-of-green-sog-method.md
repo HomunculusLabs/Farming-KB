@@ -88,18 +88,10 @@ A well-executed SOG with quality clones can produce 0.5-1.0 gram per watt per gr
 
 ## See Also
 
-- [[cervantes-case-study-energy-efficient-sea-of-green]]
-
 - [[cannabis-grow-room-setup]]
-
-- [[cannabis-lighting-guide]]
 
 - [[cannabis-cloning-and-mother-plants]]
 
-- [[training-cannabis]]
-
-- Cannabis Cultivation Basics
 - [[cannabis-deep-water-culture-guide]]
-- [[cannabis-indoor-growing-basics]]
 - [[cannabis-indoor-ventilation-setup]]
 - [[fukuoka-vegetable-growing-natural-method]]

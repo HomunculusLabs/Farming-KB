@@ -1,7 +1,7 @@
 ---
 title: Oyster Mushroom Species and Varieties
 created: 2026-04-28
-tags: [mycology, oyster-mushroom, species, taxonomy]
+tags: [[mycology, oyster-mushroom, species, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -16,7 +16,7 @@ oyster shells. Several species within this genus are commercially cultivated
 worldwide, each with distinct characteristics in appearance, flavor, growth
 requirements, and substrate preferences. Understanding these differences is
 essential for cultivators selecting appropriate species for their conditions and
-markets. For cultivation techniques and growing parameters by species, see [[stamets-mushroom-growing-parameters-by-species]] and [[stamets-pleurotus-oyster-cultivation]].
+markets. For cultivation techniques and growing parameters by species, see [[stamets-pleurotus-oyster-cultivation]].
 
 ## Pleurotus ostreatus
 
@@ -105,8 +105,4 @@ P. eryngii prefers hardwood sawdust, particularly from deciduous trees. P.
 citrinopileatus performs well on straw and cottonseed hulls. P. djamor excels on
 sugarcane bagasse and rice straw in tropical environments. Matching species to
 locally available and affordable substrates is a key factor in cultivation
-economics. See also [[oyster-mushroom-substrate-preparation]], [[oyster-mushroom-fruiting-conditions]], [[substrate-preparation]], [[fruiting-conditions]], and [[stamets-fruiting-substrate-materials]].
-
-## See Also
-
-- [[oyster-mushroom-species-comparison]]
+economics. See also [[oyster-mushroom-fruiting-conditions]], [[fruiting-conditions]], and [[oyster-mushroom-species-comparison]]

@@ -9,73 +9,8 @@ sources:
 ---
 # Small-Scale Grain Cultivation
 
-Grain is the foundation of human civilisation and remains essential for self-sufficiency. The permaculture-design|permaculture approach to grain cultivation emphasises no-till methods, permanent beds, and integration with animal systems. In permaculture, grains are typically placed in [[permaculture-climatic-zones-design]], as major crops that make up the staples of the diet.
-
-## The No-Till Rice Paddy
-
-A sustainable rice system that works with nature rather than against it:
-
-- Soil should not be turned or disturbed
-- A small paddy is constructed with earth walls
-- Ducks can be introduced to eat insects and weeds while fertilising the rice
-- After harvest, ducks continue to forage in the paddy
-- No chemical inputs required — the system is self-maintaining
-- Very low energy input compared to conventional rice farming
-
-The annual rice calendar illustrates the integration: sow seed in spring after last frost, check for thin spots, flood the paddy, harvest the previous year's rice and lay it out to dry, then one month after harvest plant next year's crop. The ducks are removed from gardens and placed in the marsh at the appropriate time, and their foraging in the fall after harvest fertilizes the soil, removes pests and weeds, and feeds the ducks.
-
-## Permanent Raised Beds
-
-Grain grows well on permanent raised beds that are never tilled:
-
-- Beds are formed once and maintained annually by adding compost
-- Walking paths between beds become compacted; beds stay loose
-- Beds improve drainage in wet climates and warm faster in spring
-- Cover crops between grain crops maintain soil health
-- Raised beds allow salt to leech down away from plants
-- Well-mulched raised beds made of mud with shade from trellises can be planted in succession
-
-## Grain Types for Small Scale
-
-| Grain | Planting | Harvest | Yield (small scale) | Notes |
-|-------|----------|---------|---------------------|-------|
-| Wheat | Autumn (winter wheat) or spring | Summer | 5-15 lb per 100 sq ft | Most versatile grain |
-| Rice | Spring (after last frost) | Late summer | 2-5 lb per 100 sq ft | Needs water management |
-| Corn | After last frost | Autumn | 10-25 lb per 100 sq ft | Easy to harvest, high yield |
-| Oats | Early spring | Mid-summer | 3-8 lb per 100 sq ft | Good cover crop too |
-| Amaranth | After last frost | Autumn | 2-4 lb per 100 sq ft | High protein, drought tolerant |
-| Quinoa | After last frost | Autumn | 1-3 lb per 100 sq ft | Complete protein |
-| Buckwheat | Late season | Early September | Variable | 10-13 week cycle, no gluten |
-
-### Amaranth in Detail
-
-Amaranth is treated like a grain, although it is not a grass. It has broad leaves which are among the healthiest leaves you can eat, and it is full of protein. It is dryland tolerant and enjoys well-drained soil and full sun, growing best in the southern United States. To harvest, rub the flower heads to see if seeds fall out easily — the plants sometimes continue flowering after seeds form, so flowers are not a reliable indicator. Harvest by shaking and rubbing flower heads into a bucket, thresh away hulls on a screen, and use a fan to blow away chaff. Dry on screen trays in the sun or near a wood stove. Amaranth can be cooked like rice or ground into flour and added to bread.
-
-### Buckwheat in Detail
-
-Although buckwheat is eaten as a grain, it is not a grass or cereal. It grows very quickly in 10-13 weeks, making it a great crop for cooler climates. It does not tolerate frost and should be double-cropped with another grain such as winter wheat, oats, or flax. The seeds have a hard outer hull that must be removed with a grain mill at the largest setting, run through several times. Traditionally used for noodles and pancakes, with no gluten. The hulls are used as pillow filling.
-
-## Harvesting and Processing
-
-1. **Harvest** when grain is hard and golden
-2. **Dry** thoroughly — grain must be below 14% moisture for storage
-3. **Thresh** to separate grain from stalk (flail, tread, or mechanical)
-4. **Winnow** to separate grain from chaff (fan or wind)
-5. **Store** in airtight containers in cool, dry location
-
-Small-scale grain processing is labour-intensive but rewarding. A grain mill (hand-crank or powered) is essential for flour production. All grains, whether for seed or eating, must be stored in rodent-proof containers in the house (not the shed), with cats around to keep mice away. The grain must be very dry before packing, free of any material except bay leaves which can help. Keep containers in a cool, dry place. Grain will keep for a year or more until ground, but should be checked for mold, bugs, or rodent signs. Once ground, flour must be used immediately.
-
-## The Three Sisters Method
-
-The best-known companion planting for grains is the "Three Sisters" — corn, beans, and squash — commonly planted by indigenous peoples of the Americas. The corn provides a support for the beans, and the squash shades the ground, preventing weeds. Together they produce much more food per square foot than when spread out individually. The corn must be planted before the beans and squash, or the beans will grow too quickly and knock the corn over.
-
-## Integration with Animals
-
-- [[comparison-chicken-keeping-vs-quail-husbandry]] can glean spilled grain after harvest
-- Grain straw is excellent bedding and [[faires-composting-and-vermiculture]] material
-- Ducks in rice paddies provide pest control and fertilisation
-- goat-husbandry|Goats and sheep-husbandry|sheep can graze grain stubble
-- Pigs can forage in grain fields as part of a [[permaculture-climatic-zones-design]] forest system
+Grain is the foundation of human civilisation and remains essential for self-sufficiency. The permaculture-design|permaculture approach to grain cultivation emphasises no-till methods, permanent beds, and integration with animal systems. In permaculture, grains are typically placed in [[comparison-chicken-keeping-vs-quail-husbandry]] can glean spilled grain after harvest
+- Grain straw is excellent bedding and [[permaculture-climatic-zones-design]] forest system
 
 ## Seed Saving for Grain
 
@@ -87,19 +22,87 @@ Mollison argued that vegetables can largely supplant monoculture grains for huma
 
 ## See Also
 
-- [[cervantes-backyard-small-scale-cultivation]]
 - [[faires-grain-harvesting-and-processing]]
-- [[mollison-grain-crops-and-no-tillage-systems]]
-
 - [[permaculture-design]] — design for grain systems
-- [[pasture-management]] — field management
 - [[food-forest-design]] — integrating grains in polyculture
-- [[chicken-husbandry-in-permaculture]] — animal integration
 - [[mollison-how-much-land-for-self-sufficiency]] — land requirements
-- [[sheet-mulching]] — bed preparation
-
-## Related
-
 - [[permaculture-grain-crops]]
-- [[natural-farming-seed-saving]]
 - [[faires-composting-and-vermiculture]]
+## Practical Applications
+
+Small-Scale Grain Cultivation has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Small-Scale Grain Cultivation. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

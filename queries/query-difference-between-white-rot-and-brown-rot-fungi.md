@@ -37,19 +37,7 @@ white rot fungi leave behind a pale, bleached, spongy or stringy residue that is
 mostly partially degraded cellulose. Well-known white rot species include oyster
 mushrooms (Pleurotus species), shiitake (Lentinula edodes), reishi (Ganoderma
 lucidum), and many other cultivated and wild mushrooms valued for food and medicine.
-The [[basidiomycete-phylum-guide]] covers the broader taxonomic context of these
-important fungi.
-
-Brown rot fungi take a fundamentally different approach to wood decomposition. They
-cannot break down lignin, so they focus on rapidly digesting the more accessible
-cellulose and hemicellulose components. Instead of producing the lignin-degrading
-enzymes characteristic of white rot fungi, many brown rot species generate hydroxyl
-radicals through a Fenton chemistry process that non-enzymatically depolymerizes
-cellulose. This process is extremely fast and efficient at breaking down the
-carbohydrate components of wood, but it leaves the lignin behind as a chemically
-modified brown residue. Brown-rotted wood is characteristically dry, crumbly, and
-cracked into roughly cubic pieces, a pattern that gives brown rot its alternate name
-of "cubical brown rot." The [[brown-rot-fungi-biodegradation]] page explains the
+The [[brown-rot-fungi-biodegradation]] page explains the
 underlying chemistry in detail.
 
 The ecological implications of these different decay strategies are significant for
@@ -59,14 +47,7 @@ phosphorus bound up in lignin complexes that would otherwise remain locked away.
 rot fungi recycle carbon from cellulose rapidly but leave lignin-rich residues that
 persist in the soil for much longer periods of time. This difference affects soil
 development, nutrient cycling, and carbon sequestration dynamics in forest ecosystems
-worldwide. The [[decomposer-fungi-succession]] guide describes how these fungi often
-appear at different stages of wood decomposition, with evidence suggesting brown rot
-fungi colonize earlier in the decay process while white rot fungi dominate later
-stages when more recalcitrant compounds remain.
-
-In bioremediation, white rot fungi are far more useful than brown rot fungi because
-their lignin-degrading enzymes can also break down a wide range of synthetic
-environmental pollutants. The [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
+worldwide. The [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 comparison explains why white rot species like Pleurotus ostreatus are the primary
 organisms used for treating petroleum contamination, PAHs, textile dyes, and other
 recalcitrant chemicals. The lignin-degrading enzyme system is relatively non-specific
@@ -78,28 +59,13 @@ For mushroom cultivation, the distinction between white rot and brown rot matter
 because different species require different substrates and preparation methods. White
 rot fungi like oyster mushrooms and shiitake can digest lignin-rich substrates
 including hardwood sawdust, wood chips, straw, and agricultural waste products. The
-[[cotter-oyster-mushroom-cultivation]] and [[mushroom-cultivation-wood-logs]] guides detail
+[[mushroom-cultivation-wood-logs]] guides detail
 substrate preparation for white rot species used in commercial and hobby cultivation.
 Brown rot fungi are less commonly cultivated but include some edible species. The
-[[mushroom-cultivation-bulk-substrates]] page covers substrate selection principles
-that apply to both groups.
-
-Wood preservation is another area where understanding the difference between white rot
-and brown rot fungi has practical importance. Brown rot fungi are responsible for the
-vast majority of structural damage to wooden buildings because they rapidly destroy
-the cellulose that gives wood its structural strength while leaving the lignin behind,
-meaning the damage can be extensive before it becomes visually obvious. The wood may
-look relatively intact on the surface while being severely compromised internally.
-White rot fungi cause a more visible and slower decay that affects all wood
-components simultaneously. The [[dry-rot-fungi-serpula-meruliporia]] page covers the
+[[dry-rot-fungi-serpula-meruliporia]] page covers the
 most notorious brown rot species that threaten buildings and timber structures.
 
-The [[fungal-biodegradation-and-biodeterioration]] page provides a broader overview of
-how fungi interact with manufactured materials beyond wood, including concrete, paint,
-and synthetic composites. Understanding these decay mechanisms helps in both
-preventing unwanted fungal damage in construction and harnessing fungal degradation
-capabilities for waste processing and material recycling applications. The
-[[fungal-soil-food-web]] describes how these wood decay fungi fit into larger soil
+The [[fungal-soil-food-web]] describes how these wood decay fungi fit into larger soil
 ecosystems where their decomposition products become food for bacteria, protozoa,
 and ultimately plants in a continuous cycle of nutrient cycling.
 
@@ -112,6 +78,4 @@ and ultimately plants in a continuous cycle of nutrient cycling.
 
 ## Related
 
-- [[query-how-do-white-rot-fungi-break-down-lignin]] Questions
-- mycoremediation of oil spills
 - [[cotter-oyster-mushroom-cultivation]]

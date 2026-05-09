@@ -52,7 +52,7 @@ Norbaeocystin occupies the **first committed step** in the psilocybin
 biosynthetic pathway that distinguishes psilocybin-producing fungi from
 other tryptamine-producing organisms. The complete pathway is:
 
-1. L-[[tryptophan]] → tryptamine (via PsiD, decarboxylation)
+1. L → tryptamine (via PsiD, decarboxylation)
 2. Tryptamine → 4-hydroxytryptamine (via PsiH, P450 hydroxylation)
 3. 4-hydroxytryptamine → **norbaeocystin** (via PsiK, phosphorylation)
 4. Norbaeocystin → baeocystin (via PsiM, first N-methylation)
@@ -93,11 +93,6 @@ development before downstream conversion to psilocybin is complete.
 Notable species in which norbaeocystin has been reported include:
 
 - *Psilocybe cubensis* — trace levels
-- *[[psilocybe-semilanceata]]* — trace to low levels
-- *Psilocybe cyanescens* — detectable
-- *Psilocybe azurescens* — trace levels
-- *Psilocybe baeocystis* — detectable (named species)
-- *Panaeolus cyanescens* — trace
 - *[[gymnopilus-spectabilis-entity]]* — trace
 - *Inocybe* species — variable, often trace
 
@@ -143,8 +138,8 @@ trace levels alongside the more abundant alkaloids.
 Chromatographic conditions use reversed-phase columns with acidic
 mobile phases and MRM transitions for quantitative analysis.
 Lack of commercial reference standards remains an obstacle, though
-norbaeocystin can be isolated by preparative HPLC or synthesized.
 ## See Also
 
-- [[psilocybin-compound]]
 - [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
+
+See also: [[tryptamine-chemistry-and-psychedelic-pharmacology]]

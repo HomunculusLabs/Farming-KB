@@ -138,13 +138,8 @@ Hard but rarely used commercially. Not a primary reason to grow carob.
 | Coastal Mediterranean food forest | **Carob** (mid-canopy) |
 
 ---
-
 ## See Also
 
-- [[agroforestry]]
 - [[ceratonia-siliqua]]
-- [[food-forest]]
-
 - [[permaculture-plants-nitrogen-fixing-trees|Legume Trees and Nitrogen-Fixing Permaculture Species]]
-- [[comparison-black-locust-vs-honey-locust|Black Locust vs Honey Locust]]
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]

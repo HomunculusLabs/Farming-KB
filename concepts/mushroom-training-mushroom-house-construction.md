@@ -4,24 +4,7 @@ created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags:
-  - mushroom-cultivation
-  - mushroom-house
-  - construction
-  - low-cost
-  - fao-manual
-sources:
-  - ~/wiki/raw/papers/a-training-manual-for-mushroom-cultivation-by-people-with-disabilities.md
----
-
-# Mushroom House Construction for Small Farms
-
-The mushroom house is the central infrastructure of any mushroom farming operation. The FAO
-training manual provides guidance on building mushroom houses at two scales: commercial
-training centers and low-cost private farms for individual entrepreneurs with disabilities.
-
-## Design Considerations
-
-Mushroom houses must account for four critical [[mushroom-training-environmental-control]]: ventilation (air exchange for CO2 control), humidity (75 to 90
+  - [[mushroom-training-environmental-control]]: ventilation (air exchange for CO2 control), humidity (75 to 90
 percent), temperature (species-appropriate ranges), and light (filtered for fruiting).
 Buildings also need to be adapted for accessibility by people with disabilities.
 
@@ -89,8 +72,7 @@ modifications.
 
 ## Country-Style Pasteurization Setup
 
-Farmers making their own [[mushroom-training-substrate-preparation]] need a
-[[mushroom-training-pasteurization-sterilization]] using 200-liter oil
+Farmers making their own [[mushroom-training-pasteurization-sterilization]] using 200-liter oil
 drums, iron or bamboo screens, and firewood or green fuel.
 
 ## Site Selection
@@ -115,3 +97,7 @@ serving both purposes, managed through timing.
 - Repair damage to walls, roof, or shelving promptly
 - Clean the water trench at least twice monthly
 - Replace spent substrate bags and disinfect shelving between cycles
+
+## See Also
+
+- [[mushroom-growing-house-construction-low-cost]]

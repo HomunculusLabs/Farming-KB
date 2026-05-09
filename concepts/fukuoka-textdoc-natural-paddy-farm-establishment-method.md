@@ -111,14 +111,9 @@ Such a natural orchard is entirely different from conventional orchards employin
 
 ## Wikilinks
 
-- [[masanobu-fukuoka]]
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-orchard-terracing-slope-management]]
-- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
-- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
 - [[fukuoka-natural-farming-philosophy]]

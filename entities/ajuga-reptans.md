@@ -126,13 +126,9 @@ The plant's tolerance of foot traffic makes it suitable for planting between ste
 
 ## See Also
 
-- [[lamium-album]]
 - [[prunella-vulgaris]]
-- [[glechoma-hederacea]]
 - [[leonurus-cardiaca-entity]]
-- [[hypericum-perforatum]]
 - [[symphytum-officinale]]
-- [[achillea-millefolium]]
-- [[salvia-officinalis]]
+- achillea-millefolium
 - [[mentha-piperita]]
 - [[dynamic-accumulators]]

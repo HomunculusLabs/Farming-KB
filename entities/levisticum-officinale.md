@@ -113,27 +113,7 @@ once established.
   lacewings, parasitic flies
 - **Perennial vegetable:** Young stems as celery substitute;
   leaves for soups, stocks; roots as vegetable or tea
-- **Companion planting:** Umbel flowers support pollinators
-  for adjacent fruiting crops
-- **Erosion control:** Deep roots stabilize soil on slopes
-- **Longevity:** 10–20+ years of harvest from one planting
-
-## Cultivation
-
-- **Propagation:** Seed (stratify 2–4 weeks; germinates
-  14–21 days); division of clumps in spring/autumn
-- **Spacing:** 60–90 cm between plants
-- **Harvest:** Leaves from year 1; roots from year 2–3
-- **Yield:** 2–4 kg fresh leaf/plant/season; roots 0.5–1.5
-  kg at harvest
-- **Maintenance:** Cut flower stalks to extend leaf
-  production; divide every 4–5 years
-- **Pests:** Generally pest-resistant; occasional aphids
-
-## See Also
-
-- [[foeniculum-vulgare-entity]]
-- [[angelica-archangelica]]
+- **[[foeniculum-vulgare-entity]]
 - [[symphytum-officinale]]
-- [[achillea-millefolium]]
+- achillea-millefolium
 - [[dynamic-accumulators]]

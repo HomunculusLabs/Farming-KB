@@ -113,8 +113,6 @@ This complementary relationship means that no single species can be replaced wit
 
 ## Related Topics
 
-- [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]] for detailed clover lifecycle
 - [[fukuoka-natural-farming-philosophy]] for companion tree planting
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]] for the broader soil building strategy
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] for managing clover decline
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] for the full rehabilitation timeline

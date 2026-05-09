@@ -22,39 +22,6 @@ problems manifest and must be addressed.
 
 ## NFT
 
-[[nutrient-film-technique]]
-
-Nutrient Film Technique pumps a thin film of aerated nutrient solution
-continuously through enclosed gullies or channels where plant roots dangle into
-the flowing stream. Capillary matting at the bottom of channels stabilizes flow,
-prevents dry spots, and holds root systems in place. Irrigation runs 24 hours
-per day in most configurations, with roots receiving constant moisture and
-abundant oxygen from the thin film's large surface area relative to its volume.
-Three critical design factors determine success: gully incline must be adequate
-to prevent stagnation while gentle enough to maintain consistent film depth,
-flow volume must keep all roots moist, and flow must be consistent across all
-channels.
-
-NFT excels in commercial settings where uniform plant growth and easy access for
-inspection are priorities. The enclosed channels provide clean root access for
-monitoring root health and detecting problems early. The system uses relatively
-little water and nutrient solution compared to reservoir-based methods because
-only a thin film is circulating at any time. Channel systems can be stacked
-vertically, making NFT one of the most space-efficient hydroponic methods
-available. The continuous flow ensures uniform nutrient delivery to all plants.
-
-However, NFT is unforgiving of equipment failures. Even brief pump interruptions
-of a few minutes can dry out the thin film and expose roots to air, causing
-rapid wilting and potential plant death. This makes reliable power backup
-essential for any NFT installation. The system requires established seedlings or
-clones with sufficient root mass to reach the nutrient film; small plants with
-undeveloped roots cannot access the solution. Channel clogging from root growth
-is a common maintenance issue requiring periodic cleaning. The limited water
-volume in the channels means temperature fluctuations affect plants quickly, and
-nutrient concentration changes can happen rapidly.
-
-## DWC
-
 [[deep-water-culture]]
 
 Deep Water Culture submerges plant roots directly in an oxygenated nutrient
@@ -138,8 +105,6 @@ growth before plants are transferred to DWC buckets for the flowering phase.
 
 ## See Also
 
-- [[comparison-dwc-vs-ebb-and-flow]]
 - [[comparison-nft-vs-ebb-and-flow]]
-- [[hydroponic-cannabis]]
 - [[hydroponic-growing-basics]]
 - [[deep-water-culture]]

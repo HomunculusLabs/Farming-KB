@@ -35,7 +35,7 @@ with caps reaching 60–100 cm in diameter, earning it the common name giant mus
 Found in tropical and subtropical grasslands of Asia, the Caribbean, and parts of
 Africa, it is both wild-harvested and commercially cultivated in Southeast Asia.
 The species produces substantial biomass, has significant nutritional value, and
-contains bioactive compounds with antioxidant and anti-inflammatory properties.
+contains [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] properties.
 Its ability to fruit on composted grass substrates makes it relevant to
 permaculture and sustainable agriculture systems.
 
@@ -79,53 +79,8 @@ Caribbean (Puerto Rico, Trinidad, Jamaica), and tropical Africa. Grows solitary 
 gregarious in grasslands, pastures, open fields, and along forest edges.
 Prefers warm, humid conditions with seasonal rainfall. Fruiting occurs during the
 monsoon season in South Asia (June–September) and the wet season in Southeast
-Asia. A saprotrophic species decomposing grass litter and soil organic matter.
-
-## Cultivation
-
-*Macrocybe gigantea* is cultivated commercially in India, Thailand, and China using
-composted grass-based substrates. The cultivation method resembles that of
-*Volvariella volvacea* (paddy straw mushroom):
-
-- **Substrate**: Paddy straw, wheat straw, or mixed grasses composted for 7–10
-  days, supplemented with rice bran (10–15%) and calcium carbonate (2%).
-- **Spawn**: Grain spawn (sorghum or wheat) inoculated at 3–5% wet weight.
-- **Fruiting**: 25–35°C, 85–95% relative humidity. First flush appears 20–30 days
-  after spawning. Biological efficiency ranges from 40–80%.
-- **Yield**: Individual fruiting bodies can reach 5–10 kg fresh weight. Total
-  yield over 2–3 flushes: 400–800 g per kg dry substrate.
-
-## Bioactive Compounds and Pharmacology
-
-Research on *M. gigantea* has identified several bioactive constituents:
-
-- **Polysaccharides**: Water-soluble β-glucans with immunomodulatory activity.
-  Show macrophage activation and DPPH radical scavenging in vitro (IC₅₀ values
-  comparable to ascorbic acid in some fractions).
-- **Phenolic compounds**: Gallic acid, p-coumaric acid, and ferulic acid
-  derivatives contribute to antioxidant capacity.
-- **Lectins**: Mannose-binding lectins with mitogenic activity on lymphocytes and
-  antiproliferative effects on cancer cell lines in preliminary studies.
-- **Anti-inflammatory**: Methanolic extracts reduce COX-2 expression and
-  prostaglandin E₂ production in LPS-stimulated macrophage models.
-
-## Nutritional Value
-
-Fresh *M. gigantea* is rich in protein (18–25% dry weight), dietary fiber, and
-minerals (potassium, phosphorus, magnesium). The amino acid profile is well-balanced
-with significant glutamic acid, aspartic acid, and essential amino acids including
-leucine and lysine. Low in fat and calories, making it suitable for nutritional
-supplementation programs in developing regions.
-
-## Permaculture and Agroforestry Applications
-
-Several properties make *M. gigantea* relevant to permaculture design:
-
-- **Waste conversion**: Efficiently converts agricultural grass residues
-  (paddy straw, sugarcane bagasse, banana leaves) into edible protein,
-  closing nutrient loops in integrated farming systems.
-- **Companion planting**: Can be integrated into agroforestry edges and
-  grassy alleys between tree crops, utilizing shade-tolerant positions beneath
+Asia. A saprotro [[food-forest-understory-plants]] ted farming systems.
+- **Companion planting**: Can be integrated into agroforestry edges a [[mollison-designers-avocado-mango-and-subtropical-tree-crops]], utilizing shade-tolerant positions beneath
   young tree canopies.
 - **Soil building**: Spent substrate is rich in organic matter and microbial
   biomass; can be returned to fields as mulch or compost amendment.
@@ -144,6 +99,5 @@ Several properties make *M. gigantea* relevant to permaculture design:
 
 ## See Also
 
-- [[agar]]
 - [[agroforestry]]
 - [[biological-efficiency]]

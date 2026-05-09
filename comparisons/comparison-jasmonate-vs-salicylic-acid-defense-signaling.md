@@ -41,32 +41,11 @@ type: comparison
 
 # Jasmonate vs Salicylic Acid Defense Signaling Pathways
 
-Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant defense chemistry and informs practical strategies in [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation|integrated pest management]].
-
-## Overview
-
-The JA and SA pathways represent a fundamental dichotomy in plant immunity. JA signaling is generally activated by **chewing herbivores, necrotrophic pathogens, and wounding**, whereas SA signaling responds primarily to **biotrophic and hemibiotrophic pathogens** that feed on living tissue. This division of labor allows plants to deploy targeted defenses rather than mounting a generic, costly response to every threat.
-
-## The Jasmonic Acid (JA) Pathway
-
-### Biosynthesis and Core Mechanism
-
-Jasmonic acid is derived from α-linolenic acid via the **octadecanoid pathway**, localized in chloroplast membranes and peroxisomes. The bioactive form is **jasmonoyl-isoleucine (JA-Ile)**, which acts as the primary signaling molecule.
-
-The core perception mechanism centers on the **COI1-JAZ co-receptor complex**:
-
-1. **COI1** (Coronatine Insensitive 1) is an F-box protein forming part of an SCF ubiquitin ligase complex.
-2. **JAZ proteins** are transcriptional repressors that, in the absence of JA-Ile, bind and suppress MYC2 and related transcription factors.
-3. When JA-Ile accumulates, it acts as a molecular "glue," promoting interaction between COI1 and JAZ proteins.
-4. This triggers ubiquitination and 26S proteasome degradation of JAZ repressors, releasing MYC2 to activate defense gene expression.
-
-### Defense Outputs
-
-JA signaling drives production of **proteinase inhibitors**, **polyphenol oxidases**, **defensins**, and **volatile organic compounds (VOCs)** that attract natural enemies — a mechanism that connects directly to [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes secondary metabolite accumulation, including alkaloids, glucosinolates, and terpenoids.
+Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant defense chemistry and informs practical strategies in [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes secondary metabolite accumulation, including alkaloids, glucosinolates, and terpenoids.
 
 ### Induced Systemic Resistance (ISR)
 
-JA plays a central role in **induced systemic resistance (ISR)**, a form of broad-spectrum immunity triggered by beneficial soil microbes. Rhizobacteria such as *Bacillus* and *Pseudomonas* species prime JA-dependent defenses throughout the plant. ISR is notably linked to [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|mycorrhizal networks]] and [[endophytic-fungi-plant-defense-dighton|endophytic fungi]], which can similarly prime systemic defenses.
+JA plays a central role in **induced systemic resistance (ISR)**, a form of broad-spectrum immunity triggered by beneficial soil microbes. Rhizobacteria such as *Bacillus* and *Pseudomonas* species prime JA-dependent defenses throughout the plant. ISR is notably linked to [[endophytic-fungi-plant-defense-dighton|endophytic fungi]], which can similarly prime systemic defenses.
 
 ### Coronatine: A Pathogen Weapon
 
@@ -134,12 +113,8 @@ Diluted **acetylsalicylic acid (aspirin)** or pure SA solutions have been widely
 
 ### Integrated Approaches
 
-The antagonism between JA and SA has important implications for [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation|IPM]]:
-
-- **Avoid concurrent JA and SA priming** when facing mixed threats, as mutual suppression may reduce overall protection.
-- **Prioritize based on dominant pressure**: use JA priming during peak herbivore windows; SA priming ahead of known biotrophic disease periods.
-- **Leverage microbial partners**: inoculating with ISR-inducing rhizobacteria or [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|mycorrhizal fungi]] provides sustained JA-dependent defense without chemical inputs.
-- **Endophyte applications**: [[endophytic-fungi-plant-defense-dighton|endophytic fungi]] such as *Serendipita indica* can modulate both JA and SA signaling, offering balanced priming against diverse threats.
+The antagonism between JA and SA has important implications for [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|mycorrhizal fungi]] provides sustained JA-dependent defense without chemical inputs.
+- **Endophyte applications**: [[serendipita-indica]]* can modulate both JA and SA signaling, offering balanced priming against diverse threats.
 
 ### Limitations and Considerations
 

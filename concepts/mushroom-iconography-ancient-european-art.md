@@ -3,13 +3,7 @@ title: Mushroom Iconography in Ancient European Art
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/terence-mckenna-food-of-the-gods.md"
----
-# Mushroom Iconography in Ancient European Art
-
-The question of whether [[psychedelic-mushroom-decriminalization]]
+tags: [[psychedelic-mushroom-decriminalization]]
 appear in prehistoric and ancient European art has been a subject of intense
 debate. Various images from cave paintings, stone carvings, and medieval
 manuscripts have been proposed as representations of psychoactive fungi, though
@@ -23,13 +17,7 @@ remarkable rock paintings of this region, one image in particular has attracted
 enormous attention: a figure known as the "bee-masked shaman," surrounded by
 what appear to be rows of mushroom-shaped objects.
 
-The interpretation of this image was popularised by [[psychedelic-mushrooms-species-and-identification]], who reproduced it in two of his widely read books. The figure appears
-to be a human in an elaborate costume or mask, seemingly in a state of ecstatic
-dance or trance, surrounded by mushroom-like forms.
-
-However, whether the figure was really meant to look like a bee, as McKenna
-thought, has been questioned. The "mushrooms" surrounding the figure could
-equally represent other objects. The [[saharan-rock-art-mushroom-cult]] for prehistoric mushroom use in Africa remains
+The interpretation of this image was popularised by [[saharan-rock-art-mushroom-cult]] for prehistoric mushroom use in Africa remains
 extremely limited.
 
 ## Neolithic Mushroom Stones

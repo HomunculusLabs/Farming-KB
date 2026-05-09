@@ -125,19 +125,11 @@ In forest ecology, H. laciniatum is an indicator species for old-growth conditio
 
 ## Related Species
 
-- **[[hericium-erinaceus]]** — Lion's mane; most commercially cultivated Hericium, with a single unbranched mass of spines rather than a branched coral-like form.
 - **[[hericium-coralloides]]** — Very similar; some authorities treat it as conspecific with H. laciniatum. Tends to have shorter, more tightly clustered spines.
-- **[[hericium-americanum]]** — North American species with larger, more robust fruiting bodies and generally longer spines.
-- **[[trametes-versicolor]]** — Turkey tail; another white-rot saprotroph on hardwood, though morphologically very different (shelf-like rather than toothed).
-- **[[fomes-fomentarius]]** — Tinder conk; a common polypore sharing similar hardwood substrate preferences.
+- **[[trametes-versicolor-entity]]** — Turkey tail; another white-rot saprotroph on hardwood, though morphologically very different (shelf-like rather than toothed).
+- **[[silphium-laciniatum]]
 
-## See Also
-
-- [[hericium-erinaceus]]
 - [[hericium-coralloides]]
-- [[hericium-americanum]]
-- [[trametes-versicolor]]
-- [[ganoderma-lucidum]]
+- [[trametes-versicolor-entity]]
 - [[fomes-fomentarius]]
-- [[pleurotus-ostreatus]]
 - [[grifola-frondosa]]

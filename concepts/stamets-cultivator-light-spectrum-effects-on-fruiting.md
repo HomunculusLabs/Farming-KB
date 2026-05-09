@@ -18,7 +18,6 @@ otherwise darkened room. The role of light in mushroom cultivation varies
 significantly by species: some species like Agaricus bisporus require
 no light at all, while others like Pleurotus ostreatus are strongly
 phototropic. Understanding light requirements is essential for proper
-[[stamets-pinning-initiation-stages-environmental-control]] and
 [[stamets-fruiting-strategies-and-primordia-formation]].
 
 ## Light Intensity Requirements by Species
@@ -57,20 +56,7 @@ standard when available, as it provides the broadest spectrum.
 
 ## Lighting System Design for Growing Rooms
 
-The [[stamets-mushroom-growing-room-design]] should be equipped with
-a lighting system providing even illumination to all areas and levels.
-Fluorescent light fixtures are the most practical and give the broadest
-coverage. They should be evenly spaced and mounted vertically on side
-walls or horizontally on the ceiling above the center aisle. An
-alternative is mounting lights on the underside of each shelf tier, at
-least 18 inches above the cropping surface.
-
-To eliminate heat and consequent drying action from fixture ballasts,
-these can be removed and placed outside the room. This is an important
-consideration since heat from lighting fixtures can upset the delicate
-temperature balance required for fruiting, particularly for
-cold-weather species like
-[[stamets-cultivator-enokitake-flammulina-velutipes-cultivation]].
+The [[stamets-cultivator-enokitake-flammulina-velutipes-cultivation]].
 
 ## Light Measurement Units
 
@@ -123,7 +109,5 @@ light fixtures and tubes maintains optimal light output.
 
 ## Related Topics
 
-- [[stamets-mushroom-growing-room-design]]
 - [[stamets-pinning-initiation-stages-environmental-control]]
-- [[stamets-mushroom-growing-parameters-by-species]]
 - [[stamets-fruiting-strategies-and-primordia-formation]]

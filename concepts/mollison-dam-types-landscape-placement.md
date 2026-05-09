@@ -3,14 +3,7 @@ title: Mollison: Dam Types and Landscape Placement
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison: Dam Types and Landscape Placement
-
-Source: Bill Mollison, [[permaculture]]: A Designers' Manual (Chapter 7, Section 9)
+tags: [[permaculture]]: A Designers' Manual (Chapter 7, Section 9)
 
 ## Overview of Dam Types
 
@@ -20,17 +13,7 @@ Earth dams or weirs with retaining walls 6 metres high or less, having a large o
 
 They need not displace populations, stop flow in streams, create health problems, fill with silt, or block fish migrations.
 
-Dams made anywhere but as barriers on streams effectively add to stream flow in the [[mushroom-long-term-storage]].
-
-## Saddle Dams
-
-Saddle dams are usually the highest available storages, on saddles or hollows in the skyline profile of hills.
-
-They can be fully excavated below grade or walled on either side or both sides of the saddle.
-
-Shapes include circular, oblong, or shark-egg shaped with horns or extensions at either end.
-
-Primary uses are for wildlife, stock watering, and high-elevation [[water-storage-techniques]].
+Dams made anywhere but as barriers on streams effectively add to stream flow in the [[water-storage-techniques]].
 
 Saddle dams can also serve as storages for pumped water used for energy generation.
 
@@ -130,8 +113,6 @@ Special deep areas, islands, peninsulas, and shelves can be made inside the dam 
 
 ## Related
 
-- [[mollison-designers-check-dam-types-and-landscape-placement]] Topics
-
-[[mollison-keyline-water-conservation]]
+- [[mollison-keyline-water-conservation]]
 
 [[permaculture-dam-design]]

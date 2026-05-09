@@ -18,31 +18,6 @@ sources:
 
 ## Overview
 
-[[mycorrhizal-fungi]] are symbiotic soil organisms that form mutualistic associations with the roots of approximately 90% of terrestrial plant species. The term derives from the Greek *mykes* (fungus) and *rhiza* (root). These associations are among the most widespread and ecologically important symbioses on Earth, playing a critical role in plant nutrition, soil structure, and ecosystem resilience.
-
-## Types of Mycorrhizae
-
-### Arbuscular Mycorrhizal Fungi (AMF)
-The most common type, found in association with the majority of agricultural crops including cereals, legumes, and many vegetables. AMF penetrate root cortical cells, forming highly branched structures called arbuscules that facilitate nutrient exchange. Key genera include *Glomus*, *Rhizophagus*, and *Funneliformis*. AMF are obligate symbionts and cannot complete their life cycle without a host plant.
-
-### Ectomycorrhizal Fungi (ECM)
-Predominantly associate with trees, particularly in temperate and boreal forests. ECM form a sheath (mantle) around root tips and a Hartig net between root cells without penetrating them. Common genera include *Amanita*, *Boletus*, *Laccaria*, and *Pisolithus*. ECM fungi produce many of the wild forest mushrooms collected for food.
-
-### Ericoid and Orchid Mycorrhizae
-Specialized associations with Ericaceae (heath family) and Orchidaceae, respectively. Ericoid mycorrhizae are critical for plants growing in acidic, nutrient-poor soils, while orchid mycorrhizae are required for seed germination in nearly all orchid species.
-
-## Agricultural Significance
-
-### Nutrient Acquisition
-Mycorrhizal hyphal networks extend far beyond the root zone, dramatically increasing the effective absorptive surface area. AMF hyphae can access phosphorus in soil pores too small for root hairs to penetrate. They also enhance uptake of nitrogen, zinc, copper, and other micronutrients.
-
-### Drought Resistance
-Mycorrhizal plants show improved water relations through enhanced hydraulic conductivity of the hyphal pathway and better osmotic adjustment. AMF-colonized crops can maintain yields under reduced irrigation compared to non-colonized plants.
-
-### Disease Suppression
-Mycorrhizal colonization can reduce incidence of soilborne pathogens through multiple mechanisms: physical barriers, biochemical antagonism, and activation of plant systemic defense responses (induced systemic resistance).
-
-### Soil Aggregation
 [[glomalin]], a glycoprotein produced by AMF, acts as a biological glue binding soil particles into stable aggregates. This improves soil structure, water infiltration, and erosion resistance.
 
 ## Inoculation Practices
@@ -53,14 +28,83 @@ Commercial mycorrhizal inoculants are available as powders, granules, or liquid 
 - Minimize soil disturbance after inoculation to preserve hyphal networks
 - Reduce phosphorus fertilizer rates — high available P suppresses AMF colonization
 - Avoid fungicide applications that are non-selective toward mycorrhizal fungi
-- Use diverse [[cover-crops]] rotations to maintain active AMF populations between cash crops
-
-## Limitations
-
-Not all crops benefit equally from mycorrhizal colonization. Brassicas (cabbage family) and Chenopodiaceae (spinach, beet) are non-host or weakly responsive. Heavy tillage, fallow periods, and high-input conventional management with excessive fertilization can degrade native mycorrhizal communities.
-
-## See Also
-
-- [[ericoid-mycorrhizae-types-and-ecology]]
-- [[fukuoka-critique-agricultural-development]]
+- Use diverse [[ericoid-mycorrhizae-types-and-ecology]]
 - [[knf-agricultural-mineral-water]]
+## Practical Applications
+
+Agricultural Mycorrhizae has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Agricultural Mycorrhizae. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

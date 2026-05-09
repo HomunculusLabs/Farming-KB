@@ -28,13 +28,7 @@ A pattern language approach, drawing from Christopher Alexander's
 work, provides frameworks for creating convivial spaces. Community
 building is a matter of good design. There are patterns that
 connect and patterns that alienate. Understanding this distinction
-is the foundation of social [[permaculture-design]].
-
-## School and Institutional Gardens
-
-A permaculture garden created with students at a middle school
-demonstrates the community-building potential. Within a year, the
-garden contained trees, fruit bushes, an [[herb-spiral]], a pond,
+is the foundation of social [[herb-spiral]], a pond,
 swirling paths, and ripe strawberries. The most important outcome
 was building community among teachers, bus drivers, parents, and
 students, connecting mind and text with deed and classroom with
@@ -125,6 +119,5 @@ human society and nature, starting in the garden and expanding outward.
 
 ## See Also
 
-- [[mollison-designers-community-garden-design-urban-permaculture]]
 - [[urban-permaculture-edge-effect-and-design-principles]]
 - [[permaculture-community-scale-design]]

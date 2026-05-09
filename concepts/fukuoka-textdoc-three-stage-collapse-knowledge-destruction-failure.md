@@ -121,11 +121,9 @@ barest farming essential for sustaining life. Once this becomes clear,
 "people will realize for themselves what they must do. Only natural farming
 lies in the future. Natural farming is the only future for man."
 
-## Related Concepts
+## Related
 
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
-- [[fukuoka-textdoc-scientific-farming-energy-paradox]]
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-one-thing-is-all-things-holism]]

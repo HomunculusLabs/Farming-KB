@@ -82,11 +82,7 @@ With 4-TASB we may be seeing the shift from sensory effects over to out-and-out 
 
 ## Related Compounds
 
-[[3-tasb-entity]] - the 3-thioasymbescaline isomer (4-ethoxy-3-ethylthio-5-methoxy)
-
 [[5-tasb-entity]] - the 5-thioasymbescaline isomer
-
-[[escaline-entity]] - the parent 3,5-dimethoxy-4-ethoxy compound
 
 [[2c-t-17-entity]] - another compound with a bulky thioalkyl group
 

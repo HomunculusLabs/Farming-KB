@@ -8,28 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 type: concept
 ---
 
-# Ecotoxicological Assessment of [[fungal-bioremediation]]
-
-Ecotoxicological assessment is a critical component of fungal
-bioremediation programs that evaluates whether biological treatment
-genuinely detoxifies contaminated environments or merely transforms
-pollutants into different chemical forms. The fundamental concern is that
-fungal transformation of toxic compounds may generate intermediates that
-are as toxic as or even more toxic than the original parent compounds.
-Comprehensive ecotoxicological monitoring throughout the bioremediation
-process is therefore essential for ensuring environmental safety and
-regulatory compliance.
-
-## The Intermediate Toxicity Problem
-
-A key finding from fungal bioremediation research is that the
-transformation of pollutants does not automatically equate to
-detoxification. During the multi-step degradation of persistent
-organic pollutants by white rot fungi, intermediate metabolites may
-accumulate temporarily and exhibit toxicity profiles that differ
-significantly from both the parent compound and the final degradation
-products. For example, Chlorophenol Degradation Pathways White Rot Fungi by
-[[phanerochaete-chrysosporium]] has been shown to produce intermediates
+# Ecotoxicological Assessment of [[phanerochaete-chrysosporium]] has been shown to produce intermediates
 that are toxic to Bacillus megaterium at approximately 6 weeks of
 treatment, despite overall PCP concentration decreasing. This
 demonstrates that chemical analysis of parent compound concentration
@@ -124,9 +103,5 @@ development and regulatory acceptance of these technologies.
 
 See also: Fungal Bioremediation Field Studies,
 Bioavailability of Pollutants in Fungal Bioremediation,
-and [[staycare-persistent-pollutant-bound-residue-formation]].
-
-## See Also
-
-- [[monitoring-and-assessment-of-fungal-bioremediation]]
+and [[monitoring-and-assessment-of-fungal-bioremediation]]
 - [[staycare-bioaugmentation-versus-biostimulation-fungal-bioremediation]]

@@ -10,9 +10,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# [[inocybe-aeruginascens-profile]] Distribution and Psychoactivity
-
-[[inocybe-aeruginascens]] is a mycorrhizal mushroom species that emerged as a
+# [[inocybe-aeruginascens]] is a mycorrhizal mushroom species that emerged as a
 notable psychoactive mushroom in Europe during the 1980s. Unlike other
 psilocybin-containing species, Inocybe aeruginascens requires a symbiosis with
 certain types of trees in order to fruit. Its discovery and expansion across
@@ -54,71 +52,7 @@ Tilia, Quercus, Betula), on lawns in parks and gardens, at edges of trails,
 and even on bare sandy soil.
 
 They may temporarily produce mass quantities of fruiting bodies in locations
-typical for fairy ring mushrooms ([[marasmius-oreades]]), which they closely
-resemble, leading to repeated accidental intoxications.
-
-## Fruiting Season
-
-Unlike thin-fleshed Psilocybe species that don't fruit until fall, Inocybe
-aeruginascens fruits from late May until October, especially common in May
-and June. Fruiting occurs during the greatest biochemical activity of the
-symbiotic partner trees. Following extended rainfall, the species grows in the
-trees' root areas. It frequently suffers from fly larvae infestations in older
-colonies.
-
-## Accidental Intoxications
-
-Between 1977 and 1986, multiple cases of accidental intoxication were
-documented in Eastern Germany, involving at least 22 people across locations
-including Hohen-Neuendorf, Teltow, Potsdam, Oranienburg, Magdeburg, and
-Woltersdorf. In all cases, mushrooms were misidentified as fairy ring mushrooms.
-
-Symptoms included: colorful illusions and hallucinations, spacial illusions,
-feelings of weightlessness, depersonalization, pupil dilation, nausea without
-vomiting, and a marked sense of intoxication described as "mostly amusing."
-All symptoms subsided after several hours with no lasting side effects.
-
-## Alkaloid Content
-
-Psilocybin levels in Inocybe aeruginascens are comparable to Psilocybe
-mexicana. Analyses of more than 100 mushrooms from Hungary and Germany
-(1967 to 1990) revealed fairly constant amounts of psilocybin (0.11% to
-0.38%), some baeocystin, and only trace amounts of psilocin at most.
-
-Notably, baeocystin is accumulated at levels comparable to psilocybin,
-unlike Psilocybe species which contain three to five times more psilocybin
-than baeocystin. Alkaloid content of stored fruiting bodies declined only
-slightly over time.
-
-## Discovery of Aeruginascin
-
-A previously unknown alkaloid named aeruginascin was discovered in Inocybe
-aeruginascens extracts. Its molecular structure is similar to psilocybin and
-baeocystin. It is soluble only in polar solvents (water, methanol, acetic
-acid) and occurs at concentrations comparable to the other two alkaloids.
-
-Aeruginascin is characteristic of the Inocybe species, serving as a
-fingerprint for identification. Its discovery may explain why all cases of
-involuntary intoxication with this species induced euphoria, despite
-unfavorable psychological conditions (knowledge of being poisoned by unknown
-mushrooms). Future research must focus on its molecular structure, synthesis,
-and potentially mood-altering influence.
-
-## Danger of Muscarine Confusion
-
-About 160 species of the Inocybe genus cannot be easily differentiated.
-Many contain muscarine, causing parasympathomimetic symptoms including pupil
-contraction, increased salivation, and in some cases death. However, no
-muscarine was detected in any Inocybe aeruginascens specimens tested, making
-accurate identification critical for foragers.
-
-## Mycorrhizal Biology and Cultivation Challenges
-
-Unlike saprophytic psychoactive mushrooms that grow on decaying organic
-matter, Inocybe aeruginascens forms obligate mycorrhizal associations with
-deciduous trees, primarily poplars (Populus), lindens (Tilia), oaks (Quercus),
-and birches (Betula). This symbiotic relationship means the mushroom cannot be
-cultivated using standard substrate-based methods. The [[fungal-hyphae]]
+typical for fairy ring mushrooms ([[fungal-hyphae]]
 intertwine with tree roots, exchanging minerals and water for carbohydrates
 produced by photosynthesis. This biological dependency limits the species to
 natural or semi-natural settings where suitable host trees are present.
@@ -147,3 +81,7 @@ pharmacological profile. Consistent alkaloid levels across Hungarian and
 German specimens over a 23-year period (1967 to 1990) indicate stable
 chemical production rather than environmentally dependent variation, making
 ## See Also
+
+## See Also
+
+- [[inocybe-aeruginascens-profile]]

@@ -70,7 +70,7 @@ It lets one enzyme serve as a computational node that weighs substrate availabil
 
 ## Receptors and Pharmacology
 
-In [[psilocybin-compound]] [[serotonin]] 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
+In [[serotonin]] 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
 
 A negative allosteric modulator decreases response without necessarily displacing the endogenous ligand. A silent allosteric modulator occupies an allosteric site but has little direct effect until it blocks another modulator.
 
@@ -124,9 +124,7 @@ This can be a feature in drug design but a trap when data from different assays 
 
 ## Related Concepts
 
-Allosteric regulation overlaps with [[enzyme-inhibition]], [[enzyme-kinetics-michaelis-menten-model]], [[cytochrome-p450-enzyme-system]], and pharmacodynamic receptor theory.
-
-It also connects to protein folding misfolding, conformational selection, induced fit, metabolic control analysis, and [[fungal-environmental-sensing]].
+Allosteric regulation overlaps with [[enzyme-kinetics-michaelis-menten-model]], [[fungal-environmental-sensing]].
 
 A practical distinction is that enzyme inhibition describes an observed effect, while allostery explains one class of mechanisms that can create that effect.
 

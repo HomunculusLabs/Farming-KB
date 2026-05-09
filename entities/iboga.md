@@ -142,8 +142,6 @@ Ibogaine is unique among psychedelics for its well-documented capacity to interr
 Wild populations of Tabernanthe iboga are declining due to:
 ## See Also
 
-- [[ibogaine]] — detailed pharmacology of the primary alkaloid
-- [[5-meo-dmt]] — another psychedelic with anti-addictive potential
-- [[psilocybin-compound]] — psychedelic with emerging clinical applications
+- [[5-meo-dmt-entity]] — another psychedelic with anti-addictive potential
 - [[salvia-divinorum]] — plant-derived psychedelic with different receptor profile
 - [[mitragyna-speciosa]] — plant with opioid-like effects used for self-managed withdrawal

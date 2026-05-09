@@ -96,12 +96,8 @@ clinical applications including:
 
 ## See Also
 
-- [[candida-albicans]]
-
 - [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
-- [[coccidioides-species-complex-biogeography]]
 - [[nematophagous-fungi]]
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - [[fungal-species-concepts-estimates]]
 
 ## References

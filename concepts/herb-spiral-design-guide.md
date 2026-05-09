@@ -129,14 +129,11 @@ The spiral shape maximizes edge between different microclimates, creating the mo
 
 - herb spiral design guide
 - herb spiral design guide
-- [[permaculture-designers-manual-keyhole-garden]]
 - [[sheet-mulching-guide]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[holzer-microclimates-permaculture]]
 
 ## Source
 
 Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*
-- [[faires-permaculture-soil-and-sheet-mulching]]
 - [[urban-permaculture-edge-effect-microclimate]]
 - [[holzer-green-manure-and-soil-building-plants]]

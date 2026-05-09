@@ -12,32 +12,7 @@ tags: [cannabis, nutrients]
 
 ## Overview
 
-Molybdenum is a [[cannabis-indoor-soil-mix-and-preparation]] classified as **immobile** in cannabis plants. Molybdenum is seldom deficient and is used by cannabis in very small quantities. This micronutrient is almost never found deficient in cannabis gardens. It is most active in roots and seeds and is required in the smallest quantities of any essential nutrient.
-
-## Role in Plant Biology
-
-Molybdenum is a part of two major enzyme systems that convert nitrate to ammonium. These enzymes are nitrate reductase (which reduces nitrate to nitrite) and nitrite reductase (which reduces nitrite to ammonium). Without these enzymes, plants cannot process nitrogen even when it is abundantly available. Molybdenum is also a cofactor for the enzyme xanthine oxidase, which is involved in the breakdown of purines and the production of ureides. This essential element is:
-
-- Used by cannabis in very small quantities
-- Most active in roots and seeds
-- Critical for nitrogen metabolism and utilization
-- Necessary for the function of nitrate reductase enzyme
-- Involved in converting nitrate to ammonium for protein synthesis
-- Required for symbiotic nitrogen fixation in root-associated bacteria
-
-Without adequate molybdenum, the plant cannot efficiently process nitrogen even when nitrogen is abundantly available. This makes molybdenum indirectly critical for all nitrogen-dependent processes including chlorophyll production, amino acid synthesis, and overall growth. The two major enzyme systems that rely on molybdenum are essential for the nitrogen cycle within the plant.
-
-## Mobility in Soil
-
-Molybdenum is **immobile** within the cannabis plant, meaning it cannot be relocated from older tissue to newer growth once deposited. In the soil, molybdenum behaves opposite to most other micronutrients: it becomes **more available** at higher pH and **less available** at lower pH. This is the reverse of iron, manganese, and zinc, which all become more available in acidic conditions. Molybdenum is present in the soil as the molybdate anion (MoO4 2-), which is highly mobile and subject to leaching, especially in acidic, sandy soils. Deficiencies are worst in acidic soils because the availability of molybdenum decreases as soil pH drops.
-
-## Interactions with Other Nutrients
-
-Molybdenum's primary interaction is with cannabis-nitrogen|nitrogen metabolism. Without molybdenum, the plant cannot convert nitrate to ammonium, leading to nitrogen shortage symptoms even when nitrogen levels are adequate. Molybdenum is also inversely related to [[cannabis-copper-nutrient]] and [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] -- excess molybdenum can induce deficiencies of both. Conversely, copper and iron excess can sometimes affect molybdenum availability, though this is less commonly observed. The relationship between molybdenum and copper is particularly notable: excess molybdenum causes copper deficiency, and this interaction is well-documented in agricultural science.
-
-## Organic Sources
-
-[[organic-fertilizer-sources-guide]] of molybdenum include:
+Molybdenum is a [[cannabis-copper-nutrient]] and [[organic-fertilizer-sources-guide]] of molybdenum include:
 
 - Well-rotted manures (small amounts)
 - Compost
@@ -88,7 +63,7 @@ Excess molybdenum is uncommon in cannabis gardens. However, the interaction betw
 
 ### Symptoms
 
-- An excess of molybdenum causes a deficiency of [[cannabis-copper-nutrient]] and [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
+- An excess of molybdenum causes a deficiency of [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
 
 ### Treatment
 
@@ -116,9 +91,6 @@ Note that molybdenum is required in the smallest quantities of any essential nut
 
 ## See Also
 
-- [[cannabis-nitrogen]]
 - [[cannabis-copper-nutrient]]
-- [[cannabis-iron-nutrient]]
 - [[cannabis-nutrient-deficiency-guide]]
-- [[cannabis-nutrient-toxicity]]
 - [[cannabis-nutrient-solution-preparation]]

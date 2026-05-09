@@ -21,7 +21,7 @@ At the conclusion of his extensive discussion of fruit cultivation, Fukuoka synt
 his three core practices of no weeding, no fertilization, and no pruning into an
 integrated whole. He argues that these three principles cannot be achieved independently;
 they are closely and inextricably tied to each other. This page captures his final
-synthesis on orchard management and the choice between scientific and natural farming.
+synthesis on [[natural-farming]].
 
 ## The Three Principles Are Inseparable
 
@@ -142,9 +142,7 @@ the cities live in crude huts on the mountain among chickens and goats roaming t
 orchard. In the evenings, they gather around the sunken hearth and talk and laugh
 loudly. Fukuoka tried to transfer this vision to the evening conversation of
 farmers, but the rapid-changing world had no time for the foolish talk of a farmer.
-
 ## See Also
 
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]

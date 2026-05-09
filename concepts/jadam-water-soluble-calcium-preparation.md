@@ -93,57 +93,17 @@ shells practical for farms near coastal areas.
 
 ## Calcium Phosphate from Bone Meal
 
-[[jadam-calcium-phosphate-fertilizer]] is
-produced from animal bones, which contain both calcium and phosphorus in
-biologically available forms. This dual-nutrient preparation addresses
-two macronutrient needs simultaneously.
-
-### Bone Meal Preparation
-
-1. **Collect bones** from livestock slaughter, fish processing, or
-   kitchen waste
-2. **Clean thoroughly** to remove meat, fat, and marrow
-3. **Dry completely** in sunlight
-4. **Grind** to fine powder using a mortar, mill, or mechanical grinder
-5. **Treat with acid** (vinegar or natural acid) to convert bone
-   minerals into water-soluble calcium phosphate
-
-The resulting calcium phosphate solution provides both calcium for cell
-wall strength and phosphorus for energy transfer and root development.
-
-## JADAM Mineral Water (JMW)
-
 [[jadam-natural-mineral-water]] is a broader mineral
 supplement approach that includes calcium along with other micronutrients.
 JMW is made by boiling mineral-rich rocks or sea materials in water to
 extract trace minerals into plant-available form.
 
-A related approach uses [[jadam-natural-mineral-water]] derived from evaporated sea water. Sea water contains all
-minerals found in the human body in roughly the same proportions. When
-sea water is partially evaporated and diluted, it provides a balanced
-mineral supplement for crops.
-
-## Integration with JADAM Pesticide
-
-Calcium preparations can be combined with [[jadam-natural-pest-control-methods]]. Adding water-soluble calcium to the pesticide
+A related approach uses [[jadam-natural-pest-control-methods]]. Adding water-soluble calcium to the pesticide
 spray barrel provides simultaneous pest control and calcium
 supplementation. This reduces the number of spray applications needed,
 saving labor and time.
 
 Calcium compounds also enhance the physical properties of pesticide
 sprays. Calcium ions can improve the sticking power of sprays on leaf
-surfaces, complementing the wetting action of [[jadam-wetting-agent-jwa]].
-
-## Cost Comparison
-
-Commercial calcium fertilizers typically cost 15 to 40 dollars per
-acre-season depending on the product and application rate. JADAM calcium
-from eggshells costs essentially nothing beyond the labor of collection
-and processing. For a farm producing its own eggs, the calcium
-fertilizer is a true byproduct of existing food production.
-
-## See Also
-
-- [[jadam-calcium-fertilizer]]
-- [[jadam-calcium-phosphate-fertilizer]]
+surfaces, complementing the wetting action of [[jadam-calcium-fertilizer]]
 - [[jadam-mineral-water-jmw]]

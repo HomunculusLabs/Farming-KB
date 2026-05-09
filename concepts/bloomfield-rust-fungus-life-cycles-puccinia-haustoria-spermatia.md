@@ -143,7 +143,9 @@ acts of plant penetration.
 The standard explanation centers on resilience: two hosts with different
 ## See Also
 
-- [[bloomfield-fungal-plant-pathogens]] for broader plant pathology
 - [[bloomfield-buller-experimental-mycology]] for Buller's contributions
-- [[bloomfield-coffee-rust-and-crop-pathogens]] for Hemileia vastatrix
 - [[bloomfield-fungal-spore-discharge-and-dispersal]] for Buller's drop
+
+## See Also
+
+- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]

@@ -12,18 +12,6 @@ sources:
 
 The language used to describe psychoactive plants and compounds has evolved significantly over the past century. Three terms, hallucinogenic, psychedelic, and entheogenic, are commonly used to describe the same or similar substances, but each carries distinct connotations reflecting different historical contexts, cultural frameworks, and attitudes toward these compounds.
 
-[[psychedelic-compounds-reference]]
-
-## Hallucinogenic
-
-The term hallucinogenic is the most commonly used in the psychiatric and pharmacological research literature. It derives from the Latin alucinari, meaning to wander in one's mind. Hallucinogenic literally means generating hallucinations, referring to the perception-like experiences these substances produce.
-
-The primary criticism of the term is that these drugs do not actually induce true hallucinations in the clinical sense. True hallucinations are perceptions that occur without any external stimulus and are indistinguishable from reality to the person experiencing them. In contrast, the visual and perceptual effects of classical psychedelics are generally recognized by the user as drug-induced, even when they are vivid and immersive.
-
-Despite this criticism, the term hallucinogen deserves rehabilitation in the view of many scholars. The original Latin meaning of wandering in one's mind is actually an appropriate descriptive metaphor for the psychedelic experience, which is commonly described as a journey or trip through inner spaces.
-
-In scientific and medical contexts, hallucinogenic remains the preferred term. The classification 5-HT2A receptor agonist or serotonergic hallucinogen is used in pharmacology to describe the mechanism of action shared by LSD, psilocybin, mescaline, and DMT.
-
 [[hallucinogenic-plant-chemistry]]
 
 ## Psychedelic
@@ -35,18 +23,6 @@ Timothy Leary and the Harvard research group adopted and popularized the term ps
 The term entered widespread popular culture during the 1960s counterculture and has remained the most recognized term among the general public. However, its association with the counterculture and its subsequent political suppression contributed to a stigma that affected research funding and public acceptance for decades.
 
 In contemporary usage, psychedelic refers broadly to the classical hallucinogens (LSD, psilocybin, mescaline, DMT) and sometimes extends to related compounds such as MDMA, ketamine, and Salvia divinorum. The modern psychedelic renaissance in clinical research has rehabilitated the term in academic and medical contexts.
-
-[[psilocybin-and-mystical-experience]]
-
-## Entheogenic
-
-The term entheogen was proposed independently by several scholars including R. Gordon Wasson, Jonathan Ott, and Carl Ruck in the late 1970s. It combines the Greek entheos (full of the god, inspired, possessed) and genesthai (to come into being), meaning generating the divine within or releasing the divine within.
-
-The term was deliberately created to avoid the negative connotations of both hallucinogen (which implies falsehood or illusion) and psychedelic (which had become associated with recreational drug culture). Entheogenic emphasizes the spiritual, religious, and sacred dimensions of these substances, reflecting their traditional use in shamanic and religious contexts across cultures.
-
-The entheogenic perspective frames these substances as tools for connecting with spiritual realities, accessing divine consciousness, or facilitating direct religious experience. This framing aligns with indigenous perspectives that regard psychoactive plants as sacred medicines or plant teachers rather than recreational drugs.
-
-The term has gained currency in academic religious studies, anthropology, and among practitioners of indigenous-influenced spiritual practices. It is less commonly used in medical or pharmacological literature.
 
 [[entheogen-culture]]
 
@@ -60,16 +36,6 @@ Critics of the psychotomimetic classification, including Osmond and Huxley, argu
 
 The term psychotimetic is now considered outdated and misleading, though it appears in historical research literature.
 
-[[brain-neuroscience-and-psychedelic-mechanism]]
-
-## Psycholytic
-
-The term psycholytic, meaning mind-dissolving or mind-loosening, was used to describe a specific model of psychedelic psychotherapy developed primarily in Europe. Psycholytic therapy involved administering psychedelics (usually LSD) in a series of sessions at gradually increasing doses, combined with standard psychoanalytic interaction.
-
-The rationale was that the psychedelic loosened psychological defenses, allowing patients to become more vividly aware of unconscious emotional dynamics and reaction patterns. The approach was developed by European psychiatrists including Hanscarl Leuner and was later extended by Stanislav Grof, who discovered that higher doses could access perinatal and transpersonal realms of consciousness.
-
-Psycholytic therapy differs from the psychedelic therapy model, which typically involved one or a few high-dose sessions aimed at producing a transformative experience. The psycholytic approach was more gradual and analytical.
-
 [[ketamine-psychedelic-journey-guide]]
 
 ## Empathogen and Entactogen
@@ -82,14 +48,6 @@ The empathogen/entactogen classification distinguishes these compounds from both
 
 The term Ecstasy, the street name for MDMA, entered popular culture in the 1980s and became associated with rave culture. This association contributed to the scheduling of MDMA as a Schedule I substance in 1985, despite its promising therapeutic applications that were being documented at the time.
 
-[[mdma-compound-profile]]
-
-## Oneirogen
-
-The term oneirogen refers to substances that produce dream-like states of consciousness. Derived from the Greek oneiros (dream), oneirogens blur the boundary between waking and sleeping consciousness. Examples include Calea zacatechichi (dream herb), Silene capensis (African dream root), and the LSA-containing morning glory seeds.
-
-Oneirogens differ from classical psychedelics in that they tend to produce more sedative, inward-directed experiences with dream-like narrative content rather than the visual enhancement and expanded awareness typical of psychedelics. The experience is often described as hypnagogic, resembling the transitional state between waking and sleeping.
-
 [[consciousness-and-psychedelics]]
 
 ## Dissociative
@@ -101,3 +59,22 @@ The dissociative experience is qualitatively different from the classical psyche
 Ketamine has gained significant attention in recent years for its rapid antidepressant effects at sub-anesthetic doses, leading to FDA approval of esketamine (S-ketamine) for treatment-resistant depression. This therapeutic application represents a different paradigm from the psychotherapeutic uses of classical psychedelics.
 
 [[ketamine-compound-profile]]
+## Practical Considerations
+
+Successful implementation of Psychedelic Terminology Hallucinogenic Entheogenic requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

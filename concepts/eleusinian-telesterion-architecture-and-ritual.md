@@ -13,47 +13,11 @@ sources:
 
 ## Overview
 
-The Telesterion was the great hall at Eleusis where the culminating [[lesser-and-greater-eleusinian-mysteries]] of the Mysteries took place. Its architecture — a vast windowless chamber with rock-cut tiers descending toward a central platform — was purpose-built to contain the hierophant's revelation while excluding all natural light.
-
-## Architectural Description
-
-The Telesterion was "a large, roofed hall, where the initiates gathered" for the final, most secret portion of the rites. The structure underwent multiple phases of construction, reaching its greatest extent under Pericles in the 5th century BCE. The Roman-era telesterion (the one the pilgrims of Wasson's era would have known) was considerably larger than the classical version, but the essential architectural logic remained the same: a dark, enclosed space where hundreds of initiates could simultaneously witness the hierophant's display.
-
-The hall featured tiered seating carved into the rock, descending toward a central platform — the anaktoron or "holy of holies" — where the hierophant performed the climactic revelation. This architectural arrangement meant that initiates in the upper tiers looked down upon those below, creating a visual hierarchy that mirrored the [[set-and-setting-eleusinian-initiation-methodology]] itself.
+The Telesterion was the great hall at Eleusis where the culminating [[set-and-setting-eleusinian-initiation-methodology]] itself.
 
 ## The Anaktoron
 
-The anaktoron was the innermost sanctuary within the Telesterion, accessible only to the hierophant. It was here that the sacred objects (the hiera) were stored and from which the culminating vision — the [[wasson-hofmann-ruck-collaboration]] — was dispensed. The anaktoron's existence confirmed that the Mysteries involved a material, sensory component, not merely symbolic drama.
-
-## The Vision Ceremony
-
-During the climactic night of the [[lesser-and-greater-eleusinian-mysteries]], the initiates entered the Telesterion after completing the [[sacred-road-pilgrimage-to-eleusis]]:
-
-1. The hall was in total darkness
-
-2. The hierophant emerged from the anaktoron and performed the sacred acts
-
-3. Great fire and brilliant light suddenly filled the hall
-
-4. The hierophant displayed sacred objects and uttered sacred words
-
-5. The initiates received the kykeon
-
-This sequence — darkness, then sudden overwhelming revelation of light — was a "spectacle that awed the initiates."
-
-## Ritual Purpose
-
-The Telesterion's architecture served several functions:
-
-- **Sensory deprivation**: The windowless hall created conditions of darkness and silence
-
-- **Communal containment**: Initiates experienced the vision together, reinforcing group bonding
-
-- **Acoustic amplification**: The enclosed space amplified the hierophant's voice
-
-- **Visual focus**: The tiered arrangement directed all attention toward the central revelation
-
-These elements constitute what Wasson identified as the Eleusinian version of the [[set-and-setting-eleusinian-initiation-methodology]] — the controlled preparation of psychological and physical conditions for the psychedelic experience.
+The anaktoron was the innermost sanctuary within the Telesterion, accessible only to the hierophant. It was here that the sacred objects (the hiera) were stored and from which the culminating vision — the [[lesser-and-greater-eleusinian-mysteries]], the initiates entered the Telesterion after completing the [[set-and-setting-eleusinian-initiation-methodology]] — the controlled preparation of psychological and physical conditions for the psychedelic experience.
 
 ## Archaeological Reconstruction
 
@@ -71,28 +35,75 @@ Under Pericles (c. 435 BCE), the architect Coroebus expanded the Telesterion to 
 
 The Telesterion's design functioned as a sophisticated system for managing sensory experience. The windowless construction ensured complete darkness after sunset. The sudden introduction of fire and brilliant light — described by ancient sources as filling the hall — would have produced a dramatic contrast effect, temporarily overwhelming the initiates' dark-adapted vision.
 
-This darkness-to-light sequence has been compared to the strobe-light techniques used in modern [[psychedelic-therapy-mechanisms]], where controlled sensory stimulation is used to direct attention and amplify the subjective experience. The ancient hierophants, whether consciously or intuitively, had developed an effective method for structuring the peak of the psychedelic experience.
-
-The acoustic properties of the enclosed stone hall would have amplified the hierophant's voice and the sounds of ritual instruments — including the gong-like instrument whose "bellowing roar" was described as exceeding "the mightiest thunderclap."
-
-## The Telesterion and Modern Psychedelic Spaces
-
-The Telesterion can be understood as a proto-psychedelic therapy space — an environment specifically designed to support transformative experience. Modern researchers studying [[psychedelic-therapy-set-and-setting]] have identified several features of optimal therapeutic environments that the Telesterion anticipates: controlled lighting, acoustic management, group containment, and a clear visual focus for the therapeutic intervention.
+This darkness-to-light sequence has been compared to the strobe-light techniques used in modern [[psychedelic-therapy-set-and-setting]] have identified several features of optimal therapeutic environments that the Telesterion anticipates: controlled lighting, acoustic management, group containment, and a clear visual focus for the therapeutic intervention.
 
 The Eleusinian hierophants, operating without modern pharmacological knowledge, nevertheless developed through trial and error over centuries a ritual methodology that contemporary science has validated as effective for facilitating peak experiences.
 
 ## Related Concepts
 
-- [[lesser-and-greater-eleusinian-mysteries]]
-
 - [[wasson-hofmann-ruck-collaboration]]
 
-- [[set-and-setting-eleusinian-initiation-methodology]]
-
 - [[sacred-road-pilgrimage-to-eleusis]]
-
-- [[eleusinian-hierophantic-families-eumolpidae-kerykes]]
 
 - [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
 
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
+## Practical Considerations
+
+When working with Telesterion — Architecture and Ritual of the Vision Hall, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

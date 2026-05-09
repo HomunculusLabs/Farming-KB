@@ -143,7 +143,9 @@ concentrated HCl. The addition of 40 ml of anhydrous Et2O with
 stirring produced, after a few moments delay, a spontaneous
 crystallization of 3,5-dimethoxy-4-methallyloxyphenethylamine
 ## See Also
-- [[qualitative-comments-methodology-pihkal]]
 - [[methyl-dob-entity-pihkal]]
-- [[psychedelic-experience-preparation]]
 - [[propynyl-entity-pihkal]]
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

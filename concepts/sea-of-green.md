@@ -110,18 +110,7 @@ SOG pairs naturally with hydroponic systems. Cervantes notes that in hydroponics
 
 ## See Also
 
-- [[screen-of-green]] -- alternative method using fewer plants trained through a screen
 - [[cannabis-vegetative-stage]] -- managing vegetative growth before flowering
-- [[cannabis-photoperiodism-and-light-cycles]] -- understanding light schedules for SOG
 - [[cannabis-clone-rooting-and-transplanting]] -- clone production for perpetual harvest
-- [[cannabis-pruning-and-defoliation-guide]] -- pruning techniques for canopy management
 - [[cannabis-lighting-guide]] -- optimizing light for dense canopy production
-- [[cannabis-nutrient-recipes]] -- feeding schedules for SOG systems
-
-## Watering Considerations in SOG
-
-SOG plants in small containers dry out faster than plants in larger pots. Cervantes emphasizes that water and nutrient management must be closely monitored in small containers. The limited root zone means less buffer against over- or under-watering. Establish a consistent watering schedule based on container weight -- water when the container feels light. In hydroponic SOG systems, automated irrigation reduces this concern but requires regular monitoring of pH and EC levels.
-
-## Security and SOG
-
-SOG's requirement for many plants can be a legal liability in jurisdictions with plant-count limits. Growers in restricted areas may prefer [[screen-of-green]] or [[main-lining]] which achieve similar yields with fewer plants. Cervantes also notes that grow rooms should be "enclosed and camouflaged" and that "no light is visible from outside" -- considerations that apply to any indoor setup but are especially important with high-plant-count SOG operations.
+- [[screen-of-green]] or [[main-lining]] which achieve similar yields with fewer plants. Cervantes also notes that grow rooms should be "enclosed and camouflaged" and that "no light is visible from outside" -- considerations that apply to any indoor setup but are especially important with high-plant-count SOG operations.

@@ -127,8 +127,6 @@ a swale, it should drain into a ditch with a pipe going under the road.
 
 ## See Also
 
-- [[natural-farming-guide-zone-design-system]]
 - [[natural-farming-guide-microclimate-management]]
-- [[natural-farming-guide-contour-farming-strip-cropping]]
 - [[natural-farming-guide-cover-cropping-and-green-manures]]
 - [[natural-farming-guide-hugelkultur-mounded-garden-beds]]

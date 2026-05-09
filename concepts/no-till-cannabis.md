@@ -21,14 +21,7 @@ No-till cultivation is grounded in several core principles that distinguish it f
 - **Soil biology preservation**: The complex ecosystem of bacteria, fungi, protozoa, nematodes, and other organisms is maintained undisturbed.
 - **Continuous organic inputs**: Fresh organic matter is added as a top dressing (mulch layer) rather than being mixed into the soil.
 - **Soil food web**: Rely on the natural decomposition cycle to make nutrients available to plants.
-- **Living soil foundation**: No-till builds on [[comparison-living-soil-vs-hydroponic]] principles, creating increasingly fertile and biologically active soil over time.
-
-## How No-Till Works
-
-In a no-till cannabis garden, the soil is prepared once with a rich organic mix. After each harvest, instead of removing and replacing the soil, the grower simply:
-1. Removes the spent plant stalk and major root mass.
-2. Adds a fresh layer of organic amendments on top as a mulch.
-3. Optionally top-dresses with [[cervantes-compost-tea-organic-brewing]] or compost extract.
+- **Living soil foundation**: No-till builds on [[cervantes-compost-tea-organic-brewing]] or compost extract.
 4. Replants directly into the existing soil.
 
 Over multiple grow cycles, the soil becomes increasingly rich in humus, beneficial microorganisms, and available nutrients. The soil food web becomes more complex and resilient, often resulting in improved plant health and yields over time.
@@ -40,45 +33,7 @@ Over multiple grow cycles, the soil becomes increasingly rich in humus, benefici
 The initial no-till bed should be built with high-quality organic ingredients. Based on Cervantes' recommendations for organic soil mixes:
 
 - **Base mix**: A combination of compost, coco coir or peat moss, and mineral amendments.
-- [[coco-coir-cannabis]]: Provides structure, water retention, and aeration.
-- **Compost**: The biological foundation, providing beneficial microorganisms and slow-release nutrients.
-- **Worm castings**: Concentrated source of beneficial biology and plant nutrients.
-- [[perlite-cannabis]] or [[vermiculite-cannabis]]: For drainage and moisture management (10 to 30 percent of mix).
-- **Rock powders**: For slow-release minerals and trace elements.
-- **Dolomite lime**: To stabilize and buffer pH.
-
-Recommended initial mix proportions:
-- 0.3 compost + 0.3 soilless mix + 0.16 worm castings + 0.16 perlite
-- 0.3 compost + 0.3 soilless mix + 0.3 coco coir
-- 0.5 compost + 0.5 coco coir
-
-Allow amended soil to sit for a month before planting if possible, giving the biological community time to establish.
-
-### Mulch Layer
-
-A thick mulch layer on top of the soil serves multiple purposes in no-till:
-- Retains soil moisture and reduces evaporation.
-- Provides a continuous food source for soil organisms.
-- Suppresses weeds.
-- Regulates soil temperature.
-- Prevents soil compaction from watering.
-
-The mulch layer is replenished with each new planting cycle.
-
-## The Role of Mycorrhizal Fungi
-
-Mycorrhizal fungi are essential to no-till success. In undisturbed soil, mycorrhizal networks develop and persist between growing cycles. These fungal networks:
-- Extend the effective root surface area for improved nutrient uptake.
-- Connect multiple plants, allowing nutrient sharing.
-- Improve soil structure through glomalin production.
-- Protect roots from pathogens.
-- Enhance drought tolerance.
-
-Tilling disrupts these networks, which is why no-till practices preserve and build upon them over time.
-
-## Compost Tea in No-Till
-
-[[cervantes-compost-tea-organic-brewing]] is a key tool for maintaining biological activity in no-till systems. Regular applications of compost tea:
+- [[perlite-cannabis]] or [[cervantes-compost-tea-organic-brewing]] is a key tool for maintaining biological activity in no-till systems. Regular applications of compost tea:
 - Replenish beneficial bacterial and fungal populations.
 - Speed decomposition of organic mulch layers.
 - Provide natural disease suppression.
@@ -122,10 +77,7 @@ Growers can transition to no-till gradually by:
 
 ## See Also
 
-- [[living-soil-cannabis]]
 - [[cannabis-soil-and-nutrient-requirements]]
-- [[cannabis-root-microbiome]]
 - [[compost-tea-guide]]
-- [[coco-coir-cannabis]]
 - [[soil-amendment-reference]]
-- [[composting-and-soil-biology]]
+- [[ozier-pdc-composting-and-soil-building]]

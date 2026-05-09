@@ -91,6 +91,6 @@ In greenhouses, worms can be bred directly in the soil instead of boxes: cover t
 ## Related
 
 - [[sepp-holzer-method]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
+- [[holzer-raised-bed-design]]
 - [[holzer-balcony-garden]]
 - [[polyculture-design-holzer]]

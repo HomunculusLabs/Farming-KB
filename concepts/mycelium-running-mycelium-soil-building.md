@@ -1,7 +1,7 @@
 ---
 title: "Mycelium and Soil Building"
 created: 2026-04-28
-tags: [mycology, soil-science, fungal-ecology, decomposition]
+tags: [[mycology, soil-science, fungal-ecology, decomposition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -119,13 +119,10 @@ improves, and less runoff and erosion occurs.
 - No-till farming practices that preserve existing mycelial networks
 - Mycomulching with inoculated wood chips to build soil on degraded
   land and prevent erosion on slopes and roadways
-- [[sheet-mulching]] with mycelium-infused layers for rapid soil
-  building in urban and suburban landscapes
 - [[riparian-zone-restoration]] using mycelial mats to filter runoff
   and rebuild stream bank soils
 
 ## See Also
 
-- [[mycelium-running-saprophytic-decomposers]]
 - [[mycelium-running-farm-mycofiltration-buffers]]
 - [[mycelium-running-mycelial-archetype-nature]]

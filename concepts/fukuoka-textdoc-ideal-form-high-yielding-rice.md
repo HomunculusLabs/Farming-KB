@@ -116,8 +116,6 @@ nutrients into grain, not through greater vegetative size.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-increased-production-not-increased-yields]] for effort vs harvest
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] for rice with clover
-- [[fukuoka-textdoc-natural-soil-management]] for soil conditions
 - [[fukuoka-textdoc-what-plowing-really-is]] for no-till cultivation
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]] for energy economics

@@ -82,15 +82,6 @@ Fukuoka reports the failure of urban children to adapt: "Children from the citie
 
 ## Connection to Broader Themes
 
-This page connects to [[fukuoka-why-natural-farming-blocked-in-japan]] (barriers to adoption), [[fukuoka-mu-economics]] (alternative economics), and [[fukuoka-natural-farming-method]] (technical basis for self-sufficiency).
-
-## Source
-
-- Masanobu Fukuoka, "The Road Back to Nature," pp. 257-280 (agriculture for tomorrow, village structure, commune experiments, God and nature)
-
-updated: 2026-04-18
-- [[fukuoka-farming-for-all-quarter-acre-vision]]
-- [[fukuoka-decentralized-self-sufficient-communities]]
+This page connects to [[fukuoka-mu-economics]] (alternative economics), and [[fukuoka-farming-for-all-quarter-acre-vision]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-natural-vs-scientific-farming]]

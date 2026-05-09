@@ -99,19 +99,13 @@ Synthesized from 5-methoxyindole via oxalyl chloride to form 5-methoxyindol-3-yl
 
 ## Safety Notes
 
-High doses (reported overdose at unknown but large smoked amount) have produced near-fatal respiratory depression, requiring cardiopulmonary resuscitation. One subject experienced prolonged psychological disturbance requiring antipsychotic medication for three days afterward. See [[psychedelic-harm-reduction]].
+High doses (reported overdose at unknown but large smoked amount) have produced near-fatal respiratory depression, requiring cardiopulmonary resuscitation. One subject experienced prolonged psychological disturbance requiring antipsychotic medication for three days afterward. See [[5-meo-dalt-entity]]
 
-## See Also
-
-- [[dmt-entity-tihkal]] -- the unmethoxylated parent compound
 - [[5-meo-dipt-entity-tihkal]] -- 5-methoxy analogue with diisopropyl substitution, orally active
-- [[5-meo-mipt-entity-tihkal]] -- 5-methoxy analogue with methyl-isopropyl substitution
 - [[bufotenin-entity-tihkal]] -- 5-hydroxy analogue (O-demethylated 5-MeO-DMT)
-- [[harmaline-entity-tihkal]] -- beta-carboline MAOI that can potentiate tryptamines
 - [[psychedelic-mushroom-pharmacology]]
 
 ## Related
 
-- [[dmt-entity-tihkal]]
 - [[psilocin-entity-tihkal]]
 - [[lsd-entity-tihkal]]

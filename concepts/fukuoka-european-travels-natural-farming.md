@@ -9,7 +9,7 @@ sources:
 ---
 # Fukuoka European Travels and Natural Farming Spread
 
-Fukuoka's travels through Europe in the 1980s, documented extensively in [[fukuoka-road-back-to-nature-overview]], reveal both the growing international interest in natural farming and Fukuoka's observations about European agriculture, culture, and the contrast between Western and [[fukuoka-western-vs-japanese-attitudes]].
+Fukuoka's travels through Europe in the 1980s, documented extensively in [[fukuoka-western-vs-japanese-attitudes]].
 
 ## The Yakuso Farm in Holland
 
@@ -89,22 +89,9 @@ Fukuoka's visit to a traditional windmill where Thomas's wheat was milled provid
 - Communal living experiments integrating natural agriculture
 - Willingness to adopt simple lifestyles and vegetarian diets
 
-## [[fukuoka-western-vs-japanese-attitudes]]
+## [[fukuoka-european-natural-farming]]
 
-Fukuoka observed the paradox that while Japan was rapidly Westernizing its agriculture and diet, Europeans were adopting Japanese food and farming practices:
-
-- Europeans followed natural diet with total commitment once decided
-- Japanese drifted "from right to left and back again" without commitment
-- Europeans arrived at Zen temples "as tabulae rasae" (blank slates), while Japanese claimed to understand Zen after minimal meditation
-- The "simplicity of heart" of Westerners pursuing Eastern practices, "knowing full well that what they are doing is little more than mere imitation," impressed Fukuoka deeply
-
-## See Also
-
-- [[fukuoka-road-back-to-nature-overview]]
 - [[fukuoka-western-vs-japanese-attitudes]]
-- [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-natural-orchard-management]]
-- [[fukuoka-decentralized-self-sufficient-communities]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-natural-diet-food-philosophy]]

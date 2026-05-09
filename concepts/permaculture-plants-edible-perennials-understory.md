@@ -114,8 +114,6 @@ The following can be introduced to pasture to increase both honey production and
 
 ## See Also
 
-- [[permaculture-plants-herbaceous-perennials]] - herbaceous perennial systems
 - [[permaculture-plants-fruit-trees-temperate]] - temperate understory fruit trees
-- [[permaculture-plants-fruit-trees-subtropical]] - subtropical understory species
 - [[permaculture-plants-climbers-and-vines]] - understory vines
 - [[permaculture-plants-ground-covers-living-mulches]] - ground layer species

@@ -100,11 +100,7 @@ Weed control in the organic garden relies on prevention, cultural techniques, an
 
 ## Related Concepts
 
-- [[soil-building-permaculture]]
 - [[nitrogen-fixing-trees-and-shrubs]]
-- [[hamilton-seasonal-gardening-calendar]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- [[hamilton-garden-layout-beds-borders-paths]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[holzer-green-manure-and-soil-building-plants]]

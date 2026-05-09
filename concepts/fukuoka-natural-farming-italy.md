@@ -10,7 +10,7 @@ sources:
 
 # Natural Farming Takes Root in Italy
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] documents the early spread of [[fukuoka-natural-farming-philosophy-of-mu]] in Italy, one of the first European countries to embrace his ideas. This section provides a rare concrete example of natural farming being adopted outside Japan.
+In *The Road Back to Nature*, [[fukuoka-natural-farming-philosophy-of-mu]] in Italy, one of the first European countries to embrace his ideas. This section provides a rare concrete example of natural farming being adopted outside Japan.
 
 ## Giannozzo's Farm
 
@@ -40,16 +40,9 @@ Italy's reception of natural farming contrasted with other European countries:
 
 The Italian adoption was significant for several reasons:
 
-- It demonstrated that [[fukuoka-natural-farming-philosophy-of-mu]] could work in European climates and soils
-- It showed that the philosophy could cross cultural boundaries
-- The summer camp model provided a template for education and community-building around natural farming
-- Italian practitioners became bridges for spreading natural farming to other parts of Europe
+- It demonstrated that [[fukuoka-european-travels-natural-farming]], which also took him to Switzerland, Austria, Holland, and other countries. The warmth of the Italian reception gave him hope that natural farming could take root in Western soil.
 
-## Connections to European Tour
-
-This Italian experience was part of Fukuoka's broader [[fukuoka-european-travels-natural-farming]], which also took him to Switzerland, Austria, Holland, and other countries. The warmth of the Italian reception gave him hope that natural farming could take root in Western soil.
-
-See also: [[fukuoka-european-travels-natural-farming]], [[fukuoka-change-come-over-westerners]], [[fukuoka-nelissen-farm]], [[fukuoka-natural-farming-today]]
+See also: [[fukuoka-change-come-over-westerners]], [[fukuoka-natural-farming-today]]
 
 ## Key Points
 
@@ -61,7 +54,7 @@ See also: [[fukuoka-european-travels-natural-farming]], [[fukuoka-change-come-ov
 
 ## See Also
 
-[[fukuoka-natural-farming-new-age]], [[fukuoka-natural-farming-method]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-philosophy-of-mu]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-european-travels-natural-farming]]
+[[fukuoka-natural-farming-method]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-european-travels-natural-farming]]
 
 ## Practical Applications
 

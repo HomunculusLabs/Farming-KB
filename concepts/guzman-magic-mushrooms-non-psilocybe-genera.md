@@ -1,7 +1,7 @@
 ---
 title: Psychoactive Mushroom Species in Non-Psilocybe Genera
 created: 2026-04-28
-tags: [mycology, amanita, panaeolus, gymnopilus, fungal-taxonomy]
+tags: [[mycology, amanita, panaeolus, gymnopilus, fungal-taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -12,15 +12,8 @@ type: concept
 
 ## Overview
 
-While [[psilocybe-baeocystis]] dominates with 116 of the 216 known neurotropic
-species, numerous other genera contain psychoactive fungi. These include
-species with [[psilocybin-potency-dosage-guide]], those with entirely different chemistry (such
-as [[amanita-muscaria-guide]]), and fungi used as sacred mushrooms by indigenous
-peoples despite lacking confirmed chemical analysis.
-
-### Amanita (Amanitaceae)
-
-Three [[amanita-muscaria-guide]] species contain isoxazole derivatives rather than
+While [[psilocybin-potency-dosage-guide]], those with entirely different chemistry (such
+as [[amanita-muscaria-guide]] species contain isoxazole derivatives rather than
 indole alkaloids:
 - **A. muscaria** (Fly Agaric): Contains ibotenic acid and muscimol;
   traditionally used by Siberian peoples (Chukchee, Koryak); Wasson
@@ -138,11 +131,7 @@ Lycoperdon spp.).
 
 ## See Also
 
-- [[non-psilocybe-neurotropic-fungi-genera]]
-
 - [[stamets-psilocybin-genera-beyond-psilocybe]]
 
-- [[guzman-magic-mushrooms-psilocybe-species-list]] for Psilocybe
-  taxonomy
 - [[guzman-magic-mushrooms-chemical-constituents]] for alkaloid details
 - [[guzman-magic-mushrooms-global-biogeography]] for distribution

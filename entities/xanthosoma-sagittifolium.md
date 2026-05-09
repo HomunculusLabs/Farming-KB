@@ -120,17 +120,12 @@ All parts of the plant contain calcium oxalate crystals (raphides) that cause in
 
 ## See Also
 
-- [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
-- [[comparison-breadfruit-vs-cassava]]
+- [[blighia-sapida]]
 
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - [[mollison-designers-cassava-tropical-root-crops]]
 
-- [[permaculture-plants-root-crops-and-tubers]]
-
 - [[colocasia-esculenta]] — taro, the closely related aroid root crop
-- [[manihot-esculenta]] — cassava, another tropical staple root crop
 - [[dioscorea-alata]] — winged yam, tropical tuber for food forests
-- [[pachyrhizus-erosus]] — jicama, tropical root crop with crispy tubers
 - [[moringa-oleifera]] — multipurpose tree companion in tropical systems
-- [[gliricidia-sepium]] — nitrogen-fixing shade tree for malanga intercropping
 - [[leucaena-leucocephala]] — leguminous shade tree for tropical agroforestry

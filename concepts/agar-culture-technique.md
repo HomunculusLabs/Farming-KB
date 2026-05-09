@@ -1,7 +1,7 @@
 ---
 title: Agar Culture Technique
 created: 2026-04-28
-tags: [mycology, agar, tissue-culture, isolation, cultivation]
+tags: [[mycology, agar, tissue-culture, isolation, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -10,9 +10,7 @@ type: concept
 
 # Agar Culture Technique
 
-Agar culture is the practice of growing mushroom [[mycelium]] on a solid,
-gelatinous nutrient medium in petri dishes. It is the cornerstone of
-advanced [[oyster-mushroom-cultivation-economics]], enabling isolate selection, contamination
+Agar culture is the practice of growing mushroom [[oyster-mushroom-cultivation-economics]], enabling isolate selection, contamination
 identification, long-term storage, and clean inoculum production.
 
 ## What Is Agar?
@@ -26,9 +24,7 @@ temperature.
 
 ## Agar Media Formulations
 
-### Malt Extract Agar (MEA)
-
-The most widely used medium for mushroom cultivation:
+### [[mushroom-cultivation]]:
 - Malt extract: 10-20 g
 - Agar: 15-20 g
 - Water: 1 liter
@@ -76,16 +72,9 @@ Cultivators modify basic recipes for specific purposes:
 3. Cover the opening with aluminum foil
 4. Sterilize at 15 PSI for 20-30 minutes (larger volumes need longer)
 5. Allow to cool to approximately 50°C (warm to touch but not hot)
-6. In a [[sterile-cultivation-technique]] environment (SAB or flow hood),
-   pour 20-25 mL per plate
-7. Swirl gently to distribute evenly
-8. Cover immediately and allow to solidify
-9. Store plates upside down to prevent condensation dripping onto the surface
-10. Let plates sit for 24-48 hours before use to check for contamination
+6. In a [[inoculation-methods]] Methods
 
-  [[inoculation-methods]] Methods
-
-### Spore Print/Streak
+### [[spore-print]]/Streak
 
 Spores are transferred from a print or syringe to the agar surface using a
 sterile loop or swab. The goal is to deposit spores sparsely so that

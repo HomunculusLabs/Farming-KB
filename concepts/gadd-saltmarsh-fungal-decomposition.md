@@ -136,8 +136,6 @@ snails interact with fungal decomposition pathways?
 
 ## Related concepts
 
-- [[gadd-fungal-saltmarsh-communities]]
 - [[gadd-fungal-biodegradation-bioremediation]]
-- [[gadd-fungal-wood-succession]]
 - [[gadd-fungal-carbon-sequestration]]
 - [[gadd-mineral-transformations-biogeochemistry]]

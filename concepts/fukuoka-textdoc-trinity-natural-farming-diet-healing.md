@@ -126,8 +126,6 @@ farming, stand closest to the ultimate goal of mankind.
 
 ## See Also
 
-- [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
-- [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]

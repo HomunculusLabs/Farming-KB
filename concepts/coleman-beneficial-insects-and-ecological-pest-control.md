@@ -113,13 +113,8 @@ conventional agriculture.
 
 ## Related
 
-- [[falconer-slug-and-wood-lice-pest-control]] Concepts
-
 - [[coleman-pest-management]] — broader pest management strategies
-- [[coleman-insects-diseases]] — specific insect and disease profiles
 - [[coleman-drip-irrigation-and-water-management]] — irrigation as a
   pest management tool
-- [[coleman-deep-organic-farming]] — the philosophy behind ecological
-  pest control
 - [[coleman-compost-and-organic-fertility-management]] — soil health as
   the foundation of pest resistance

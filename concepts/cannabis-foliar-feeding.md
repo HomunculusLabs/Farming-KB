@@ -22,34 +22,8 @@ Young leaves are more permeable than older leaves. Nutrients and additives penet
 
 ## When to Use Foliar Feeding
 
-- Only when specific [[cannabis-nutrient-deficiency-guide]] manifest
-- As a quick fix, not a routine practice
-- When root uptake is compromised (damaged roots, pH lockout, cold root zone)
-- To speed recovery from specific micronutrient deficiencies
-- During cloning, a single foliar spray of dilute IBA (50-90 ppm) can aid rooting
-- During flowering, when calcium, boron, and iron move slowly and growth stalls
-
-## How to Get the Most Out of Your Spray
-
-### 1. Spray Underneath the Leaves
-
-Spray the bottom of the leaves where stomata are located. Spray with a fine mist and do not create droplets on the leaves. Fine mist is electrically attracted by the foliage.
-
-### 2. Timing
-
-- Do not spray plants that are hot or when atmosphere is too dry
-- Spray in low light: before lights go off or just as they come on
-- If spraying in hot conditions, spray everything with plain water first to cool the room and foliage before applying the real spray
-- Spraying when foliage is hot causes spray to crystallize on the surface, stopping penetration
-- Spraying with plain water 10 minutes afterward often increases penetration
-
-### 3. Mobile vs. Immobile Nutrients
-
-Mobile nutrients move freely within a plant. Immobile nutrients move slowly, but once deposited, they stay. Key distinctions:
-
-- **Mobile nutrients** (cannabis-nitrogen|nitrogen, cannabis-phosphorus|phosphorus, cannabis-potassium|potassium, [[cannabis-magnesium-nutrient]], [[query-how-to-fix-zinc-deficiency-in-cannabis]]): Apply sparingly (one application usually sufficient)
-- **Immobile nutrients** ([[query-how-to-fix-sulfur-deficiency-in-cannabis]], [[cannabis-boron-nutrient]], [[cannabis-copper-nutrient]], [[query-how-to-identify-and-fix-cannabis-iron-deficiency]], [[cannabis-manganese-nutrient]], [[cannabis-molybdenum-nutrient]], [[query-how-to-fix-zinc-deficiency-in-cannabis]]): Often require two or three applications
-- [[cannabis-calcium-nutrient]] and [[cannabis-boron-nutrient]] are poor candidates for foliar feeding because they translocate poorly
+- Only when specific [[cannabis-magnesium-nutrient]], [[query-how-to-fix-sulfur-deficiency-in-cannabis]], [[cannabis-copper-nutrient]], [[cannabis-manganese-nutrient]], [[query-how-to-fix-zinc-deficiency-in-cannabis]]): Often require two or three applications
+- [[cannabis-boron-nutrient]] are poor candidates for foliar feeding because they translocate poorly
 - Urea nitrogen applied as a spray in high humidity penetrates almost instantly
 - Be careful when spraying urea-based fertilizers, and keep them diluted
 - Urea also carries other nutrients into the plant
@@ -97,30 +71,9 @@ Foliar feeding should be considered a supplement to, not a replacement for, a we
 - Foliar feeding is easy to overdo
 - High nutrient levels in foliage confuse the plant and stop root uptake
 - Never use as a replacement for proper root-zone nutrition
-- See [[cannabis-nutrient-toxicity]] for signs of over-application
-- Foliar sprays can accumulate and build up in the foliage
-- Overfertilizing via foliar sprays can become one of the biggest problems for indoor growers
-- Too much fertilizer causes a buildup of nutrients (salts) to toxic levels and changes soil chemistry
+- See [[cervantes-foliar-feeding]]
 
-## Common Mistakes
-
-- Using foliar feeding as a primary nutrient delivery method instead of a supplement
-- Spraying the tops of leaves instead of the undersides where stomata are located
-- Spraying during high light or heat (causes crystallization on leaf surface)
-- Creating droplets on leaves instead of a fine mist
-- Spraying more than once every 10 days (cumulative buildup)
-- Not using a surfactant, leading to poor penetration
-- Using foliar feeding for calcium or boron correction (poor translocation)
-- Spraying with concentrations above 500 ppm or EC above 1.0
-
-## See Also
-
-- [[cervantes-foliar-feeding]]
-
-- [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-nutrient-solution-preparation]]
-- [[cannabis-nutrient-toxicity]]
 - [[cannabis-magnesium-nutrient]]
-- [[cannabis-iron-nutrient]]
 - [[cannabis-manganese-nutrient]]
 - [[canna-indica]]

@@ -19,12 +19,9 @@ sources:
   - Andre, C.M. et al. (2016). "Hemp (*Cannabis sativa* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
   - European Industrial Hemp Association (EIHA) crop variety database
 ---
-
 # Carmagnola
 
-**Carmagnola** is an Italian **fiber-type hemp (*Canapa sativa*)** cultivar (landrace) originating from the Piedmont region of northern Italy, specifically the area around the town of Carmagnola in the province of Turin. It is one of the most historically significant and genetically distinct European hemp varieties, valued for its dual-purpose fiber and seed production as well as its notably high CBD (cannabidiol) content for a fiber-type cultivar. Carmagnola is registered in the European Union's Common Catalogue of plant varieties and is one of the few heritage hemp cultivars that has maintained commercial relevance into the modern era.
-
-## Taxonomy and Classification
+**Carmagnola** is an Italian **fiber-type hemp (*Canapa sativa*)** cultivar (landrace) originating from the Piedmont region of northern Italy, specifically the area around the town of Carmagnola in the province of Turin. It is one of the most historically significant and genetically distinct European hemp varieties, valued for its dual-purpose fiber and [[symbiotic-fungi-mycorrhizal-types-and-classification]]
 
 - **Species:** *Cannabis sativa* L.
 - **Subtype:** Fiber hemp (industrial hemp) — Group I (low THC)
@@ -70,24 +67,10 @@ The Piedmont region was one of the major hemp-producing areas in Europe from the
 ### Flower Characteristics
 
 - **Inflorescence:** Loose, airy clusters typical of fiber-type hemp
-- **Pistil color:** White to pale cream
-- **Resin production:** Moderate for a fiber type — significantly higher than modern industrial cultivars bred purely for fiber
-- **Maturity:** Late-season flowering; harvest typically 130–150 days from sowing in Mediterranean climates
-
-## Agronomic Performance
-
-### Cultivation Requirements
-
-| Parameter | Optimal Range |
-|-----------|---------------|
+- **Pistil [[cannabis-microbiome-soil-type-composition-strain-structure]]----|---------------|
 | Soil type | Loam to clay-loam; pH 6.0–7.5 |
 | Soil fertility | Medium-high; 80–120 kg/ha N |
-| Sowing density | 40–60 kg/ha seed |
-| Row spacing | 12–20 cm (drilled) |
-| Sowing date | March–April (Northern Hemisphere) |
-| Water requirement | 300–500 mm growing season |
-| Temperature | Optimal 20–28°C; tolerates light frost as seedling |
-| Photoperiod | Day-neutral flowering response (moderate) |
+| Sowing density | 40–60[[mollison-designers-day-length-and-flowering-response]] | Day-neutral flowering response (moderate) |
 | Harvest | August–September (Northern Hemisphere) |
 
 ### Yield Data
@@ -142,8 +125,6 @@ The terpene profile of Carmagnola is characteristic of European fiber hemp:
 Carmagnola seeds are nutritionally valuable:
 ## See Also
 
-- [[cannabis-sativa]] — species overview and taxonomy
-- [[cbd]] — cannabidiol compound profile
-- [[hemp-fiber]] — industrial applications of hemp bast fiber
-- [[finola]] — Finnish dwarf hemp cultivar
-- [[hempcrete]] — carbon-negative building material
+- [[fungal-ligninolytic-enzymes-in-industrial-applications]] of hemp bast fiber
+- finola — Finnish dwarf hemp cultivar
+- hempcrete — carbon-negative building material

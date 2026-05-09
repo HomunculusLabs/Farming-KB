@@ -80,9 +80,6 @@ Jasper (1994) identified four roles of mycorrhizae in ecosystem restoration:
 
 ## See Also
 
-- [[mycorrhizal-networks]]
 - [[symbiotic-fungi-mycorrhizal-carbon-trading]]
-- [[mycorrhizal-networks-interplant-carbon-transfer]]
 - [[common-mycorrhizal-networks]]
-- [[fungal-role-in-carbon-cycling]]
 - [[arbuscular-mycorrhizal-networks]]

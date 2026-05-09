@@ -79,13 +79,9 @@ Schultes died on April 10, 2001, in Boston at the age of 86. He is remembered as
 
 ## See Also
 
-- [[albert-hofmann]]
-- [[banisteriopsis-caapi]]
+- gordon-wasson
 - [[plants-of-the-gods-amanita-muscaria]] (concept page)
-- [[psilocybe-cubensis]]
 - [[rivea-corymbosa]]
-- [[richard-evans-schultes-updated]]
 - [[schultes-san-pedro-four-winds]]
-- [[schultes-salvia-diviners-sage]]
 - [[schultes-witches-ointments-flying-salves]]
 - [[wasson-hofmann-schultes-research-network]]

@@ -120,9 +120,6 @@ This dual system allows Shulgin to capture both *how strong* the experience is a
 
 ## See Also
 
-- [[tihkal-introduction-and-methodology]]
 - [[pihkal-introduction-and-methodology]]
-- [[tryptamine-family-overview]]
 - [[tryptamine-consciousness-theory]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[mao-inhibitors-and-psychedelics]]

@@ -4,7 +4,7 @@ created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [mycology, edible-mushrooms, north-america, foraging, fungi]
+tags: [[mycology, edible-mushrooms, north-america, foraging, fungi]
 related: [palmer-mushroom-hunting-field-identification, palmer-mushroom-cooking-culinary-uses]
 type: concept
 updated: 2026-04-26
@@ -16,7 +16,7 @@ Palmer's *About Mushrooms* (1894) documents approximately fifty edible mushroom 
 
 ## The Common or Pasture Mushroom
 
-- **[[agaricus-campestris]]** (meadow mushroom) and **[[agaricus-arvensis]]** (horse-mushroom)
+- **[[agaricus-arvensis]]** (horse-mushroom)
 - The only cultivated fungus, propagated from horse manure via spawn
 - Pink gills when young, darkening through purple to black
 - Has a ring around the stem (annulus), though older specimens may lose it
@@ -24,25 +24,6 @@ Palmer's *About Mushrooms* (1894) documents approximately fifty edible mushroom 
 - A rational explanation for the "horse-mushroom" is that spores pass through the horse's system
 
 ## The Maned Mushroom (Shaggy Mane)
-
-- **[[coprinus-comatus-detailed]]**
-- "Most delicious, and easily recognized"
-- Ovate shape like a turtle's egg; brown, smooth top with white concentric fringe or "mane"
-- Hollow stem that resembles macaroni when cut and cooked
-- Deliquesces (turns to ink) after maturity -- should never be eaten stale or with black gills
-- "This was the first fungus we dared to eat on our own recognition, and has no poisonous counterpart"
-- Twenty years prior to Palmer's writing, Berkeley and Curtis had considered it poisonous
-
-## The Elm-Tree Mushroom
-
-- **Agaricus ulmarius**
-- Grows only in autumn on elm trees, typically in clefts or where limbs have been removed
-- Thick solid stem (sometimes eccentric), broad white gills, firm white flesh
-- Light yellow top, smooth at first, becoming spotted and cracked with age
-- "Fresh, tonic smell," reminiscent of "fish broiled or fried" -- some friends called it the "tree-fish"
-- Often reappears yearly in the same spot
-
-## The Fairy-Ring Champignon
 
 - **[[marasmius-oreades]]**
 - "Very common, easily recognized, and of rare excellence"
@@ -115,6 +96,5 @@ Palper emphasized that edible fungi "furnish a natural alkali which in some syst
 
 ## See Also
 
-- [[palmer-mushroom-hunting-field-identification]] -- How to find and identify these species
 - [[palmer-mushroom-cooking-culinary-uses]] -- Preparation and cooking methods
 - [[mushroom-foraging-safety]]

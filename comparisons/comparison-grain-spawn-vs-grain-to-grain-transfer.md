@@ -24,32 +24,6 @@ Understanding the distinctions between initial grain spawn production and subseq
 expansion through transfers is essential for managing contamination risk, maintaining
 genetic vigor, and scaling cultivation operations effectively.
 ## Grain Spawn Preparation
-[[grain-spawn-preparation]] encompasses the complete process of preparing, hydrating,
-sterilizing, and inoculating grain kernels with mycelium. This is the starting point
-for any grain-based cultivation workflow.
-### Grain Selection and Performance
-Different grain types offer distinct advantages. Performance data for standard grains:
-- **Rye**: 55% water absorption, 76-hour colonization, 11% contamination rate.
-  The standard choice due to balanced performance across all metrics.
-- **Organic wheat**: 34% water absorption, 90-hour colonization, 10% contamination.
-  Lowest contamination rate among common grains, but slower colonization.
-- **Brown rice**: 39-45% water absorption, 86-100-hour colonization, 15-26%
-  contamination. Wide contamination range makes it less predictable for beginners.
-- **Sorghum**: 33% water absorption, 93-hour colonization, 15% contamination.
-  Low water absorption and slow colonization place it behind rye and wheat.
-- **Millet**: 166% water absorption, 83-hour colonization, 13% contamination.
-  Absorbs the most water and colonizes quickly, but small kernels complicate
-  visual contamination inspection.
-- **Perennial grass seeds**: Fastest colonization but prohibitively expensive.
-  Reserved for specialty or high-value applications.
-### Preparation Process
-Preparation involves hydrating grains to their optimal moisture content, then
-sterilizing at 15 psi for 60-90 minutes. Inoculation is performed using either an
-agar wedge or liquid culture (LC). Throughout colonization, jars are visually
-monitored for signs of healthy mycelial growth or contamination. This represents a
-single generation step, moving directly from agar to grain without intermediate
-expansion.
-## Grain-to-Grain Transfer
 [[grain-to-grain-transfer]] is the most efficient spawn expansion technique available,
 enabling cultivators to multiply their inoculum dramatically from a single agar
 culture. It transforms a small number of clean jars into a production-scale spawn
@@ -113,8 +87,6 @@ additional G-1 masters as a backup in case grain-to-grain lines encounter
 contamination. This layered approach balances the low risk of direct inoculation with
 the efficiency of exponential expansion.
 ## See Also
-- [[spawn-grain-to-grain-transfer]]
 - [[grain-spawn-preparation]] - Detailed guide to preparing grain spawn
-- [[grain-to-grain-transfer]] - Complete grain-to-grain transfer protocols
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[cultivator-grain-spawn-preparation-and-inoculation]]

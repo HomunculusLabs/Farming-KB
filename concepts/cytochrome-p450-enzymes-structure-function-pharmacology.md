@@ -38,50 +38,14 @@ Compound I, [Fe4+=O Por*+], one of the most potent biological oxidants, capable
 of H-atom abstraction from C-H bonds (~96-100 kcal/mol).
 6. **Oxygen rebound:** Compound I abstracts H from substrate, then rebounds OH
 (Groves' mechanism, 1976) to yield hydroxylated product. Uncoupling
-(superoxide/H2O2 release) generates [[reactive-oxygen-species-and-oxidative-stress]].
-
-## Human CYP Families in Drug Metabolism
-
-CYP1, CYP2, and CYP3 families account for ~70-80% of phase I drug metabolism:
-
-**CY [[caffeine]] P1A2 metabolizes caffeine, theophylline, clozapine (~10% of drugs).
+(superoxide/H2O2 release) generates [[caffeine]] P1A2 metabolizes caffeine, theophylline, clozapine (~10% of drugs).
 Inducible by smoking. CYP1A1/CYP1B1 activate PAHs to carcinogens; CYP1B1 is
 overexpressed in tumors.
 
 **CYP2:** The most diverse family. CYP2C9 (warfarin, phenytoin, NSAIDs,
 losartan); CYP2C19 (omeprazole, clopidogrel, diazepam, voriconazole); CYP2D6
 (codeine, tramadol, tamoxifen, metoprolol, ~25% of drugs); CYP2E1 (ethanol,
-acetami [[nicotine]] t overdose); CYP2A6 (nicotine); CYP2B6 (bupropion, efavirenz).
-
-**CYP3:** CYP3A4/3A5 metabolize ~50% of drugs. Substrates include midazolam
-(probe), nifedipine, cyclosporine, tacrolimus, simvastatin, erythromycin,
-carbamazepine, fentanyl. CYP3A4 is highly expressed in liver and intestinal
-enterocytes.
-
-## CYP3A4: The Most Important Drug-Metabolizing Enzyme
-
-CYP3A4 metabolizes ~40-50% of drugs. Strong inhibitors: ketoconazole,
-itraconazole, clarithromycin, ritonavir, grapefruit juice (furanocoumarins).
-Inhibition increases substrate AUC 2- to >10-fold: simvastatin + itraconazole
-causes rhabdomyolysis; terfenadine + ketoconazole caused fatal torsades de
-pointes (terfenadine withdrawn).
-
-Strong inducers: rifampin, carbamazepine, phenytoin, St. John's Wort (hyperforin
-via PXR). Induction decreases AUC 50-95%: oral contraceptive failure with
-rifampin; transplant rejection from subtherapeutic cyclosporine. CYP3A4 is
-regulated by PXR (NR1I2) and CAR (NR1I3). Full induction takes 5-7 days;
-recovery takes 7-14 days.
-
-## CYP2D6 Polymorphism and Pharmacogenomics
-
-CYP2D6 is the most polymorphic drug-metabolizing enzyme with >130 alleles:
-
-- **Poor Metabolizers (PM):**:No functional alleles. ~5-10% Caucasians, ~1-3% East Asians.
-- **Intermediate (IM):**:Reduced-function alleles (*9, *17, *41).
-- **Extensive (EM):**:Two functional alleles (*1, *2). ~70-80% of populations.
-- **Ultrarapid (UM):**:Gene duplications (*1xN). ~1-2% Caucasians, up to 29% in Ethiopians.
-
-Critical examples: codeine requires CYP2D6 activation to [[morphine]]. PMs get no
+acetami [[morphine]]. PMs get no
 analgesia; UMs produce excessive morphine (pediatric fatalities). FDA boxed
 warning (2013). Tamoxifen requires CYP2D6 for endoxifen formation; PMs have
 higher breast cancer recurrence. Atomoxetine: PMs have 10x higher AUC. Over 30
@@ -103,10 +67,7 @@ boxed warning (2010). PPI dosing affected: PMs have ~4x higher omeprazole AUC.
 Phase I introduces polar groups (-OH, -NH2, -COOH) through oxidation. CYPs
 account for ~70-80% of phase I. Phase II (UGTs, SULTs, GSTs, NATs) conjugates
 hydrophilic molecules for excretion. Phase I often creates groups needed for
-phase II (CYP hydroxylation enables UGT [[glucuronidation]]), but phases are not
-strictly sequential (morphine undergoes direct glucuronidation). Phase I can
-produce toxic intermediates (CYP2E1 converts acetaminophen to NAPQI); phase II
-[[glutathione-conjugation]] detoxifies these. Overdose depletes glutathione, causing
+phase II (CYP hydroxylation enables UGT [[glutathione-conjugation]] detoxifies these. Overdose depletes glutathione, causing
 hepatic necrosis.
 
 ## Drug-Drug Interactions
@@ -137,12 +98,4 @@ CYP nomenclature (Nelson): CYP + Family (>=40% identity) + Subfamily (>=55%) +
 Gene + Allele (*numeral, e.g., CYP2D6*4). Duplications: xN. Over 800 families
 across species; 18 in humans.
 
-Applications: bioremediation (CYP101 oxidizes [[camphor]]; CYP102A1/P450BM3 degrades
-PAHs); biocatalysis via directed evolution (Frances Arnold, Nobel 2018) for
-regio/stereoselective hydroxylation; plant P450s in microbial systems for
-artemisinin precursors and taxol intermediates; fungal P450s for lignin
-degradation and PCB remediation.
-
-## See Also
-
-- [[cytochrome-p450-enzyme-system]]
+Applications: bioremediation (CYP101 oxidizes [[cytochrome-p450-enzyme-system]]

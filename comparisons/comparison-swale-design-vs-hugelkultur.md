@@ -13,7 +13,7 @@ type: comparison
 
 ## Overview
 
-[[swale-design]] and [[hugelkultur]] are two foundational permaculture 
+[[hugelkultur]] are two foundational permaculture 
 earthwork techniques for managing water and building soil, but they operate at 
 different scales and through different mechanisms. Swales are 
 contour-intervening channels that capture surface runoff and infiltrate it into 
@@ -129,13 +129,9 @@ most powerful integrations in permaculture earthworks design.
 
 ## See Also
 
-- [[swale-design]] for contour mapping and construction details
 - [[hugelkultur]] for bed construction methods and wood selection
-- [[hugelkultur-bed-construction-detailed]] for step-by-step building guides
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]] for the 
 manual reference
-- [[permaculture-designers-manual-swale-design-detailed]] for comprehensive 
-swale design
 - [[sepp-holzer-terracing-and-hugelkultur]] for Holzer's combined earthworks 
 approach
 - [[comparison-hugelkultur-vs-keyline-design]]

@@ -1,7 +1,7 @@
 ---
 title: Saprotrophic Nutrition
 created: 2026-04-28
-tags: [mycology, ecology, decomposition, microbiology]
+tags: [[mycology, ecology, decomposition, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -13,12 +13,7 @@ type: concept
 Saprotrophic nutrition (also called saprophytic nutrition) is a mode of
 feeding in which organisms obtain nutrients by decomposing dead organic
 matter. Fungi are the primary saprotrophs in most terrestrial ecosystems,
-using their [[mycelium]] to secrete enzymesaprotrophic-decompositionorganic polymers and then absorb the resulting simple molecules. This
-process is fundamental to global nutrient cycling and carbon turnover.
-
-## The Saprotrophic Process
-
-[[saprotrophic-decomposition]] occurs in three overlapping phases:
+using their [[saprotrophic-decomposition]] occurs in three overlapping phases:
 
 ### 1. Colonization and Enzyme Secretion
 Fungal spores germinate on dead organic matsaprotrophic-fungiyphae
@@ -112,27 +107,5 @@ forms. This mineralization process is particularly important in forests
 where most nutrients are locked in organic forms. The fungal biomass
 itself represents a significant nutrient pool, and the turnover of
 fungal mycelium (through grazing by microarthropods and nematodes)
-contributes to the [[soil-food-web]].
-
-## Interactions with Other Organisms
-
-Saprotrophic fungi interact with other soil organisms in complex ways:
-- **Competition:** Fungi compete with bacteria and other fungi for
-  resources, often through antibiosis (antibiotic production) or
-  resource preemption.
-- **Antagonism:** Some saprotrophs are mycoparasites that attack and
-  consume other fungi. *Trichoderma* species are well-known mycoparasites
-  used as biological control agents against plant pathogens.
-- **Facilitation:** Fungal enzyme activity can make substrates accessible
-  to bacteria that lack the ability to degrade complex polymers directly.
-- **Grazing:** Soil microarthropods, nematodes, and protozoa feed on
-  fungal hyphae, stimulating nutrient mineralization through the
-  microbial loop.
-
-## See Also
-
-- [[mycelium]] — The fungal network that [[fungal-decomposition]]c
-  decomposition
-- hyphae — Filaments that secrete extracellular enzymes
-- [[mycorrhizal-networks]] — Contrast with saprotrophic feeding
+contributes to the [[mycelium]] — The fungal network that [[mycorrhizal-networks]] — Contrast with saprotrophic feeding
 - [[mycoremediation]] — Applied use of fungal decomposition

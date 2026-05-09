@@ -137,13 +137,8 @@ within Hymenochaetaceae.
 
 ## See Also
 
-- [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
-- [[poria-cocos]]
 - [[inonotus-obliquus]]
-- [[trametes-versicolor]]
 - [[fomes-fomentarius]]
-- [[ganoderma-lucidum]]
 - [[coriolopsis-gallica]]
-- [[bjerkandera-adusta]]
 - [[trametes-hirsuta]]

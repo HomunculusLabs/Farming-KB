@@ -10,23 +10,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Hispolon
 
-Hispolon (6-(3,4-dihydroxyphenyl)-4-hexen-3-one) is a bioactive phenolic compound isolated from the fruiting bodies of [[phellinus-linteus]] (sanghuang) and phellinus igniarius. It exhibits potent anti-inflammatory, anti-tumor, and antioxidant activities, making it one of the most pharmacologically significant small molecules derived from medicinal mushrooms.
-
-## Chemical Properties
-
-Hispolon is a polyphenolic ketone with the molecular formula C12H14O3 and molecular weight of 206.24 g/mol. It is a yellow crystalline solid soluble in organic solvents including ethanol, methanol, DMSO, and chloroform, with limited water solubility. The melting point is approximately 185-187 degrees Celsius.
-
-The compound features a catechol moiety (3,4-dihydroxyphenyl group) responsible for its antioxidant activity, connected via a hexenone linker. This structure is classified as a phenolic diarylheptanoid derivative.
-
-## Natural Occurrence
-
-Hispolon is primarily found in:
-- [[phellinus-linteus]] (Mesima): the richest known source, with concentrations of 0.5-2% dry weight in fruiting bodies
+Hispolon (6-(3,4-dihydroxyphenyl)-4-hexen-3-one) is a bioactive phenolic compound isolated from the fruiting bodies of [[phellinus-linteus]] (Mesima): the richest known source, with concentrations of 0.5-2% dry weight in fruiting bodies
 - phellinus igniarius: significant but lower concentrations
-- [[inonotus-obliquus]] (chaga): detectable amounts in sclerotium extracts
-- Various other Hymenochaetaceae family members
-
-Hispolon content varies with geographic origin, substrate, and age of the fruiting body. Mycelial cultures of [[phellinus-linteus]] produce lower amounts compared to natural fruiting bodies.
+- [[phellinus-linteus]] produce lower amounts compared to natural fruiting bodies.
 
 ## Pharmacological Activities
 
@@ -106,19 +92,7 @@ These interactions have been characterized only in vitro and clinical significan
 
 ## Regulatory Status
 
-Hispolon is not currently approved as a pharmaceutical agent by any major regulatory body. It is available as a component of [[phellinus-linteus]] extracts sold as dietary supplements. Quality control of hispolon content in commercial products is inconsistent due to the lack of standardized analytical methods and reference materials.
-
-## Current Research
-
-Active research areas for hispolon include combination studies with conventional chemotherapeutic agents, investigation of blood-brain barrier penetration for neuroprotective applications, development of prodrugs with improved oral bioavailability, and large-scale fermentation optimization for commercial production from Phellinus mycelial cultures.
-
-## See Also
-
-- [[medicinal-mushroom-immune-modulation]]
-- [[medicinal-mushroom-extraction-preparation]]
-
+Hispolon is not currently approved as a pharmaceutical agent by any major regulatory body. It is available as a component of [[medicinal-mushroom-immune-modulation]]
 - [[phellinus-linteus]]
-- [[inonotus-obliquus]]
-- medicinal-mushrooms
 - [[beta-glucans]]
 - Phelligridin

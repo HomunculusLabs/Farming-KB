@@ -10,16 +10,7 @@ type: concept
 
 # Spent Oyster Mushroom Substrate Recycling
 
-[[spent-mushroom-substrate]] (SMS) is the residual growing material remaining after
-mushrooms have been harvested. Rather than being discarded as waste, SMS
-contains significant nutritional value and can be recycled for multiple
-purposes including animal feed, soil amendment, bioremediation, and further
-mushroom cultivation. Effective SMS recycling increases farm sustainability
-and provides additional income streams for growers.
-
-## Composition of Spent Substrate
-
-SMS from [[cotter-oyster-mushroom-cultivation]] contains digestible nutrition primarily
+[[cotter-oyster-mushroom-cultivation]] contains digestible nutrition primarily
 decomposed by mushroom enzymes. Analysis of Pleurotus compost reveals high
 percentages of the three primary fertilizer nutrients (N, P, K):
 
@@ -69,13 +60,7 @@ of SMS for:
 
 - Intercropping with cabbage and subsequent eggplant crops
 - Organic fertilizer when mixed with Agaricus spent substrate
-- Cucumber cultivation, with improved resistance to [[rhizoctonia-solani]]
-- General horticultural purposes with improved physical soil characteristics
-- Recovery and replenishment of lost topsoil through humus production
-
-## Bioremediation
-
-SMS from [[pleurotus-ostreatus]] cultivation has demonstrated remarkable
+- Cucumber cultivation, with improved resistance to [[pleurotus-ostreatus]] cultivation has demonstrated remarkable
 bioremediation capabilities. The spent substrate contains active ligninolytic
 enzymes that can break down environmental pollutants:
 
@@ -103,9 +88,7 @@ innovative SMS recycling programs:
 ## Reuse in Mushroom Cultivation
 
 SMS can be recycled for additional mushroom cultivation cycles. Research has
-shown that spent substrate from [[pleurotus-cornucopiae]] cultivation can be
-reused for both P. cornucopiae and P. ostreatus production. Spent substrate
-also shows potential as casing material for [[agaricus-bisporus]] cultivation.
+shown that spent substrate from [[agaricus-bisporus]] cultivation.
 
 ## Economic Considerations
 
@@ -123,7 +106,6 @@ developed countries.
 
 ## See Also
 
-- [[oyster-mushroom-spent-substrate-recycling]]
 - [[spent-mushroom-substrate-recycling]]
 
 - Oyster Mushroom Sustainability

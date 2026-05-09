@@ -51,7 +51,7 @@ The species fruits on dead wood of broadleaf trees, especially willow (*Salix* s
 
 Fruiting occurs from spring through autumn, peaking in warm, wet periods. In tropical regions it may fruit year-round following rains.
 
-It is one of the earlier colonizers of freshly fallen timber, competing with other pioneer fungi such as [[pleurotus-ostreatus]] and [[trametes-versicolor]].
+It is one of the earlier colonizers of freshly fallen timber, competing with other pioneer fungi such as [[trametes-versicolor-entity]].
 
 ## Cultivation
 
@@ -109,15 +109,8 @@ The genus *Panus* was historically merged with *Lentinus* but molecular phylogen
 
 ## See Also
 
-- [[panus-conchatus]]
-
 - [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[trametes-versicolor]]
-- [[laetiporus-sulphureus-permaculture]]
+- [[trametes-versicolor-entity]]
 - [[neolentinus-lepideus]]
-- [[polyporus-umbellatus]]
-- lentinus tigrinus
 - [[coriolopsis-capitata]]
-- [[schizophyllum-commune]]
 - [[mycoremediation]]

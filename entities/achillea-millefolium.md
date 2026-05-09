@@ -1,149 +1,113 @@
 ---
-title: "Yarrow (achillea millefolium)"
+title: "Achillea millefolium"
 type: species
-tags: [herbal-plant, permaculture, medicinal-herb, companion-planting]
-date: 2026-04-28
-updated: 2026-04-28
+tags:
+  - asteraceae
+  - medicinal
+  - herbal
+  - perennial
+  - ornamental
+date: 2026-05-08
+updated: 2026-05-08
 sources:
-  - label: "Kew Royal Botanic Gardens — Achillea millefolium"
-    url: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:537188-1"
-  - label: "USDA PLANTS Database — Achillea millefolium"
-    url: "https://plants.usda.gov/home/plantProfile?symbol=ACMI2"
-  - label: "PubChem — Achillea millefolium Compound Summary"
-    url: "https://pubchem.ncbi.nlm.nih.gov/compound/Achillea-millefolium"
-  - label: "Memorial Sloan Kettering — Yarrow"
-    url: "https://www.mskcc.org/cancer-care/diagnosis-treatment/symptom-management/integrative-medicine/herbs/yarrow"
-  - label: "EFSA — Yarrow (Achillea millefolium L.) Herbal Infusion"
-    url: "https://www.efsa.europa.eu/en/efsajournal/pub/7162"
-  - label: "Practical Plants Wiki — Achillea millefolium"
-    url: "https://practicalplants.org/wiki/Achillea_millefolium"created: 2026-05-07
-
-created: 2026-05-07
+  - Chandler, R.F. et al. (1982). "Ethnobotany and phytochemistry of yarrow, Achillea millefolium." Canadian Journal of Botany, 60(10), 2126-2141.
+  - Bennet, B.C. & Hickman, J.C. (1998). "Yarrow." In: The Jepson Manual: Higher Plants of California. UC Press.
+  - European Medicines Agency (2014). "Assessment report on Achillea millefolium." EMA/HMPC/247627/2009.
+  - Tutin, T.G. et al. (1976). "Flora Europaea, Vol. 4." Cambridge University Press.
+  - Saeidnia, S. et al. (2011). "The genus Achillea." Pharmacognosy Reviews, 5(9), 71-79.
 ---
-# [[yarrow]] (*Achillea millefolium* L.)
 
-## Taxonomy
+## Overview
 
-| Rank | Name |
-|------|------|
-| **Kingdom** | Plantae |
-| **Clade** | Tracheophytes, Angiosperms, Eudicots, Asterids |
-| **Order** | Asterales |
-| **Family** | Asteraceae |
-| **Tribe** | Anthemideae |
-| **Genus** | *Achillea* |
-| **Species** | *A. millefolium* |
+**Achillea millefolium** (yarrow, common yarrow) is a perennial herbaceous plant in the family Asteraceae, native to temperate regions of the Northern Hemisphere. It is one of the most widely used medicinal plants in European and Asian traditional medicine, with a recorded history spanning over 3,000 years.
 
-## Etymology
+The species epithet *millefolium* refers to the finely divided, feathery leaves that appear to contain a thousand leaflets. Yarrow is extremely adaptable, colonizing meadows, roadsides, pastures, and disturbed ground across a wide range of elevations and soil types.
 
-- **Genus (*Achillea*)**: Named after Achilles, the Greek hero of the Trojan War. According to the *Iliad*, Achilles used yarrow to treat the wounds of his soldiers — hence its enduring reputation as the "soldier's woundwort."
-- **Species (*millefolium*)**: From Latin *mille* ("thousand") and *folium* ("leaf"), referring to the finely divided, feathery leaf segments that appear almost innumerable.
+Yarrow produces flat-topped clusters of small white to pink flowers and is valued both as a medicinal herb and as an ornamental garden plant. Numerous cultivars with yellow, red, and magenta flowers have been developed for horticultural use.
 
-## Morphology
+In traditional Chinese medicine, dried yarrow stalks were used in I Ching divination for thousands of years. The species is listed in the *Shennong Ben Cao Jing* (c. 200 CE) as a remedy for hemorrhoids, dysentery, and uterine bleeding.
 
-- **Growth habit**: Herbaceous perennial, 20–100 cm tall, rhizomatous, forming dense mats
-- **Stems**: Erect, angular, typically unbranched, woolly when young
-- **Leaves**: Alternate, bipinnatisect or tripinnatisect, 5–20 cm long, sessile, aromatic; segments linear-lanceolate, giving a feathery appearance
-- **Inflorescence**: Flat-topped corymb or corymbiform panicle, 5–15 cm across; composed of numerous small flower heads
-- **Flower heads**: Each 3–5 mm, with 4–6 white (occasionally pink or pale purple) ray florets and 10–20 yellowish disc florets
-- **Root system**: Fibrous roots with creeping rhizomes enabling vigorous spread
-- **Fruit**: Oblong achene, ~2 mm, lacking a pappus
+## Taxonomy and Morphology
 
-## Habiguzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distributiontion
+*A. millefolium* L. was described by Linnaeus in *Species Plantarum* (1753). The genus name honors Achilles, the Greek hero who reputedly used yarrow to treat wounds of his soldiers during the Trojan War.
 
-- **Range**: Cosmopolitan — native to temperamaitake-growth-parameter-comparison-china-japan-north-america]] the Northern Hemisphere (Europe, Asia, North America); widely naturalized in Australasia and southern South America
-- **Habitats**: Meadows, pastures, grasslands, roadsides, disturbed ground, forest edges, montane and subalpine zones up to ~3,500 m elevation
-- **Tolerance**: Highly adaptable; drought-tolerant once established, survives poor soils, pH 4.5–8.0, full sun to partial shade
+**Growth form:** Herbaceous perennial, 10–100 cm tall, growing from a spreading rhizomatous rootstock. Stems are erect, simple or sparingly branched, and covered in woolly hairs. Plants form dense mats through rhizome spread.
 
-## Traditional Uses
+In cultivated garden varieties, the height is typically more uniform at 40–70 cm. Wild populations show considerable morphological variation, leading to a complex of subspecies and varieties that have been variously recognized by different authorities.
 
-### Greek & Roman
-- Homer's *Iliad* records Achilles using yarrow to staunch battlefield wounds
-- Dioscorides and Pliny the Elder described its styptic and anti-inflammatory properties
-- Roman soldiers carried dried yarrow for wound care (*herba militaris*)
+**Leaves:** Alternate, bipinnately or tripinnately dissected, 5–20 cm long, with numerous linear to lanceolate segments 1–5 mm wide. Leaves are aromatic when crushed, emitting a camphoraceous scent. Basal rosette leaves are larger and more divided than stem leaves.
 
-### Traditional Chinese Medicine (TCM)
-- Known as **shì cǎo** (蓍草) or **yáng huā cǎo** (洋花草)
-- Used to stop bleeding, invigorate blood circulation, and clear heat-toxins
-- Employed for traumatic injuries, hemorrhage, and dysmenorrhea
-### Native American
-- Chewed leaves applied to wounds, burns, and insect bites; used as cold/fever remedy and for menstrual complaints across numerous tribes
-### European Folk Medicine
-- Anglo-Saxon herbal tradition listed yarrow as one of the nine sacred herbs (*Nine Herbs Charm*)
-- Used internally for gastrointestinal complaints, menstrual disorders, and as a bitter tonic
-- Topically for bruises, hemorrhoids, and nosebleeds
+**Flowers:** Capitula arranged in dense, flat-topped or slightly convex corymbs 5–15 cm across. Individual capitula are 3–5 mm, with 3–8 white ray florets and 10–30 yellowish disc florets. Flowering occurs June–November depending on latitude.
 
-## Phytochemistry
+**Fruit:** Achenes 1.5–2 mm, compressed, oblong, without a pappus. Seeds are light and wind-dispersed, though germination rates are moderate and improve with cold stratification.
 
-| Compound Class | Key Constituents | Notes |
-|---|---|---|
-| **Flavonoids** | Apigenin, [[luteolin]], rutin, isorhamnetin, [[quercetin]] | Antioxidant and anti-inflammatory |
-| **Sesquiterpene lactones** | Achillin, millefin, leucodin | Anti-inflammatory; potential allergens |
-| **Alkaloids** | Achilleine (0.01–0.04%) | Hemostatic activity |
-| **Essential oil** (0.1–1.4%) | [[camphor]], borneol, α-pinene, β-pinene, 1,8-cineole, chamazulene, sabinene | Chamazulene gives blue color to distilled oil |
-| **Tannins** | Catechic tannins | Astringent action |
-| **Coumarins** | Umbelliferone | Mild anticoagulant and antimicrobial |
-| **Triterpenes & sterols** | β-sitosterol, α-amyrin | Anti-inflammatory |
+A single plant can produce up to 10,000 seeds annually. The seed bank persists for 2–5 years in soil, enabling yarrow to colonize disturbed sites rapidly after vegetation clearance or soil disturbance.
 
-## Pharmacological Actions
+## Distribution and Habitat
 
-- **Hemostatic**: Achilleine promotes platelet aggregation and vasoconstriction at wound sites
-- **Anti-inflammatory**: Flavonoids and sesquiterpene lactones inhibit COX-2 and NF-κB pathways
-- **Antimicrobial**: Essential oil active against *Staphylococcus aureus*, *E. coli*, *[[candida-albicans]]*
-- **Spasmolytic**: Flavonoid fraction relaxes smooth muscle in the GI and uterine tracts
-- **Digestive**: Bitter principles stimulate gastric secretion and bile flow
-- **Antipyretic**: Prostaglandin inhibition supports traditional fever-reducing use
+Yarrow has one of the widest natural distributions of any temperate herb, occurring across Europe, Asia, and North America. It is native from sea level to over 3,500 m elevation in alpine regions.
 
-## Clinical Evidence
+The species thrives in grasslands, meadows, open woodlands, roadsides, and disturbed sites. It tolerates a broad range of soil conditions from sandy loams to clay, and from acidic to alkaline pH. Drought tolerance is excellent once established.
 
-| Condition | Evidence Level | Summary |
-|---|---|---|
-| **Wound healing** | Moderate (in vivo/clinical) | Topical preparations accelerate hemostasis and tissue repair; supported by human case series and animal models |
-| **Dysmenorrhea** | Preliminary (small RCTs) | Yarrow + fennel + fenugreek extract showed significant pain reduction vs. placebo in one 3-arm trial |
-| **GI complaints (bloating, cramping)** | Moderate (traditional use + pharmacology) | Spasmolytic and carminative actions well-documented in vitro; clinical trials limited |
-| **Oral mucositis** | Preliminary | Mouthwash preparations showed benefit in small pilot studies |
+Yarrow is considered an indicator species of moderately fertile, well-drained soils. It increases in abundance under moderate grazing pressure and is a characteristic component of semi-natural grasslands throughout its range.
 
-## Permaculture Applications
+In grassland ecology, yarrow is classified as a competitive stress-tolerant ruderal (CSR strategy). It persists in both managed hay meadows and abandoned old fields, making it a reliable indicator of intermediate disturbance levels.
 
-- **Dynamic accumulator**: Deep roots mine potassium, phosphorus, and copper from subsoil; mulched leaves return these nutrients to surface soil
-- **Pest repellent**: Aromatic foliage deters aphids, flea beetles, and certain moths; commonly interplanted among vegetables
-- **Ground cover**: Dense rhizomatous mats suppress weeds and reduce soil erosion on slopes
-- **Compost activator**: High mineral content accelerates decomposition
-- **Companion plant**: Attracts hoverflies, ladybugs, and parasitic wasps; improves essential oil yield in neighboring aromatic herbs
-- **Ornamental value**: Long-blooming, drought-resistant, attractive to pollinators — suited to [[food-forest]] s, [[herb-spiral]] s, and polyculture borders
+The species has been introduced and naturalized in Australia, New Zealand, and southern South America. In some agricultural contexts, it is considered a persistent weed of pastures and hayfields.
 
-## Cultivation and Propagation
+Taxonomic complexity within *A. millefolium* sensu lato has generated extensive debate. North American populations have been treated as distinct species (*A. lanulosa*, *A. borealis*) or as subspecies of *A. millefolium*. Molecular studies suggest a polyploid complex with multiple origins.
 
-- **Hardiness**: USDA Zones 3–9; tolerates heat, cold, and poor soils
-- **Soil & light**: Prefers well-drained sandy/loamy soil in full sun (6+ hours); tolerates partial shade and clay
-- **Propagation**:
-  - **Seed**: Sow surface in spring; cold stratification (30 days) improves germination (60–80%)
-  - **Division**: Divide clumps in spring or autumn — fastest and most reliable method
-  - **Cuttings**: Basal softwood cuttings in late spring under mist
-- **Maintenance**: Low; cut back after flowering to prevent self-seeding; divide every 3–4 years to maintain vigor
-- **Pests/diseases**: Generally pest-free; susceptible to powdery mildew in humid, poorly ventilated conditions
+## Bioactive Compounds and Pharmacology
 
-## Harvesting and Processing
+Yarrow contains a complex mixture of bioactive secondary metabolites. The essential oil (0.2–1.5% dry weight) is dominated by chamazulene, α-pinene, β-pinene, camphor, borneol, and eucalyptol.
 
-- **Aerial parts**: Harvest during full flowering (mid-summer) when essential oil and flavonoid content peak; leaves can be gathered from early spring onward
-- **Drying**: Hang in small bundles in a warm, dark, well-ventilated area; or dehydrate at ≤40 °C to preserve volatile oils
-- **Storage**: Airtight containers away from light; shelf life 12–18 months
+**Sesquiterpene lactones,** particularly achillin and millefin, contribute to the anti-inflammatory activity of aerial part extracts. These compounds inhibit prostaglandin synthesis and demonstrate in vitro activity against several cancer cell lines.
 
-## Dosage Forms and Safety
+**Flavonoids** including apigenin, luteolin, and their glycosides contribute antioxidant and anti-edema effects. Tannin content (2–8% dry weight) provides astringent properties that support traditional wound-healing applications.
 
-### Common Preparations
+**Alkaloids** are present in low concentrations, including achilleine, a minor alkaloid with reported hemostatic activity. This aligns with the traditional use of yarrow preparations to slow bleeding.
 
-| Form | Typical Dose | Notes |
-|---|---|---|
-| **Dried herb (infusion)** | 2–4 g / 150 mL water, 2–3× daily | Standard internal dose |
-| **Tincture (1:5, 45% ethanol)** | 2–4 mL, 3× daily | Equivalent to ~2–4 g dried herb |
-| **Fluid extract (1:1)** | 1–2 mL, 3× daily | Concentrated; follow manufacturer guidance |
-| **Poultice / compress** | Fresh or dried leaves, moistened | Apply topically to wounds and bruises |
-| **Essential oil** | 1–2 drops in carrier oil (topical only) | Do **not** ingest; strong dermal sensitization risk |
+Clinical evidence supports the use of yarrow preparations for appetite loss and dyspeptic complaints. The German Commission E and EMA have approved internal use for these indications based on traditional and pharmacological data.
 
-### Safety Considerations
+Topical applications of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *Staphylococcus aureus* and *Candida albicans*. The traditional use as a wound-healing herb is attributed to the combined astringent, anti-inflammatory, and antimicrobial properties.
 
-- **Pregnancy**: ⚠️ **Contraindicated** — uterotonic activity may stimulate contractions; historically used to induce menses
-- **Lactation**: Insufficient data; avoid until safety established
-- **Allergies**: Yarrow belongs to the Asteraceae family — cross-reactivity possible in individuals allergic to chamomile, ragweed, marigold, or chrysanthemum
-- **Bleeding disorders / anticoagulants**: May potentiate warfarin, clopidogrel, and NSAID effects due to coumarin content; discontinue 2 weeks before surgery
+## Cultivation
+
+Yarrow is easily cultivated from seed, division, or basal cuttings. Seed should be surface-sown in spring or autumn and germinates within 1–3 weeks at 18–22°C. Division of established clumps in spring or autumn is the most reliable propagation method.
+
+The species is drought-tolerant, cold-hardy (USDA Zone 3), and thrives in full sun to partial shade. It tolerates poor soils and neglect, making it a low-maintenance garden subject. Excessively rich or moist soils promote floppy, leggy growth.
+
+Regular deadheading extends the flowering period and prevents self-seeding in garden settings. Cutting back after the first flush of flowers encourages a second, smaller bloom in early autumn.
+
+In ornamental horticulture, numerous cultivars are available, including 'Paprika' (red flowers), 'Cerise Queen' (deep pink), 'Moonshine' (pale yellow), and 'Coronation Gold' (golden yellow). These selections vary in height from 30 cm to 90 cm.
+
+Yarrow attracts a wide range of beneficial insects, including ladybirds, lacewings, hoverflies, and parasitic wasps. It is widely planted in ecological gardens and insectary strips for biological pest control.
+
+In permaculture design, yarrow is valued as a dynamic accumulator, with deep taproots that mine potassium, phosphorus, and copper from subsoil layers. The chopped foliage can be used as nutrient-rich mulch or added to compost piles.
+
+## Ecological Role
+
+Yarrow provides nectar and pollen for a broad spectrum of pollinators, including bees, butterflies, hoverflies, and beetles. Its prolonged flowering period from early summer to late autumn makes it a valuable resource for late-season foragers.
+
+The flat-topped flower heads provide an ideal landing platform for butterflies and short-tongued bees that cannot access tubular flowers. Yarrow is ranked among the top 20 nectar-producing plants for honeybees in temperate European meadows.
+
+The foliage is rarely browsed by mammals due to its bitter, aromatic essential oils. Deer and rabbit resistance is high, making yarrow a useful component of wildlife gardens and unfenced landscapes.
+
+Yarrow serves as a host plant for several moth species, including the yarrow pug (*Eupithecia millefoliata*) and the lesser belle (*Epiblema graphana*). The flowers are visited by over 80 insect species in European surveys.
+
+The dried aerial parts of yarrow are used to make herbal teas, tinctures, and topical salves. The essential oil is steam-distilled from flowering tops and used in aromatherapy and natural cosmetics formulations.
+
+The rhizomatous root system helps stabilize soil and prevent erosion on slopes and banks. Yarrow is sometimes included in erosion control seed mixes for roadside and riparian plantings.
+
+Yarrow has been used in companion planting systems for centuries. It is believed to enhance the essential oil production of neighboring aromatic herbs and to attract predatory insects that reduce pest populations in vegetable gardens.
+
+## See Also
+
+- [[taraxacum-officinale]]
+- [[valeriana-officinalis]]
+- [[plantago-major]]
+- [[panax-ginseng]]
+- [[eleutherococcus-senticosus]]
+- [[panax-notoginseng]]
+- [[rosmarinus-officinalis-entity]]
+- [[lavandula-angustifolia]]

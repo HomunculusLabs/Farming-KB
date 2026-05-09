@@ -17,10 +17,7 @@ type: concept
 # Fish Pond Water Quality and Aeration Management
 
 Water quality is the single most critical factor determining
-the success of [[mollison-pond-design-freshwater-aquaculture]] systems. All life processes, and decomposition in
-aerated waters, consume oxygen. Managing dissolved oxygen,
-pH, nutrient levels, and waste accumulation determines
-whether a pond supports productive [[mollison-aquatic-polyculture-systems]]
+the success of [[mollison-aquatic-polyculture-systems]]
 or becomes a stagnant, fish-killing environment.
 
 ## Dissolved Oxygen: The Critical Parameter
@@ -63,30 +60,7 @@ then oxygen as air bubbles needs to be supplied.
 
 ## Classification of Water Bodies
 
-Waters (and in particular [[mollison-sewage-lagoon-pond-treatment]]) are classified by their oxygen status:
-
-- AEROBIC: oxygen is well-supplied by wind overturn,
-  turbulent flow, aerators, or rapids, and where there is
-  a light load of decaying organic material
-- FACULTATIVE: many swamps and weed-clogged ponds,
-  secondary treatment sewage ponds where the surface may
-  be aerated but sediment or sludge collects in cold
-  periods and the pond base becomes anaerobic
-- ANAEROBIC: primary sewage ponds and over-fertilised
-  shallows where there is a low (1 ppm or less) oxygen
-  status
-
-## Aeration Methods and Systems
-
-### Mechanical Aerators
-Several commercial aerators are available, and many can be
-solar-powered. Paddle-wheel aerators are commonly used in
-intensive systems. For high-density stocking, aeration is
-non-negotiable.
-
-### Head-Pressure Systems
-Wherever water can be led from a head of 2 m or more,
-fountains, showers, and [[mollison-von-karman-trails-and-flowforms]]
+Waters (and in particular [[mollison-von-karman-trails-and-flowforms]]
 will oxygenate ponds. These are elegant permaculture
 solutions that use gravity rather than fossil energy.
 
@@ -144,6 +118,6 @@ years of liming and management effort.
 ## Temperature Considerations
 
 Temperatures in rice pond water may reach 34 degrees C,
-with optimum fish growth at 22-28 degrees C. In Indonesia,
-fish are pan size at 10-12 weeks, while in cooler areas
-(Japan) it may take 2-3 years of summer seasons to produce
+## See Also
+
+- [[mckenna-ambience-of-intoxication-and-fish-in-water]]

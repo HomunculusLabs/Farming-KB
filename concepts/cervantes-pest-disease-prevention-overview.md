@@ -121,11 +121,7 @@ is why early detection and immediate response are essential.
 
 ## See Also
 
-- [[cervantes-pest-disease]]
 - [[cervantes-biological-pest-control-predators]]
-- [[cervantes-homemade-pest-disease-sprays]]
 - [[cervantes-spider-mites-identification-control]]
-- [[cervantes-powdery-mildew-prevention-treatment]]
 - [[cervantes-gray-mold-botrytis-prevention]]
-- [[cervantes-fusarium-vascular-wilt-diseases]]
 - [[cervantes-air-quality-ventilation]]

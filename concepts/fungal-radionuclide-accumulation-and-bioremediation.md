@@ -3,7 +3,7 @@ title: Fungal Radionuclide Accumulation and Bioremediation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -101,14 +101,9 @@ Their capacity to form metal-organic biominerals during growth on metal-rich sub
 
 ## Related Concepts
 
-- [[fungal-melanin-in-ecology-and-stress-protection]]
 - [[factors-affecting-mycoremediation-efficiency]]
-- [[fungal-heavy-metal-biosorption-detailed]]
 - [[fungal-heavy-metal-uptake-and-translocation]]
-- [[fungal-heavy-metal-interactions]]
 - [[bioavailability-in-fungal-bioremediation]]
-- [[bioremediation-fungal-vs-bacterial]]
 - [[fungal-resource-translocation-in-mycelial-networks]]
-- [[fungal-salt-tolerance-and-ion-homeostasis]]
 - [[fungal-ecosystem-processes-overview]]
 - [[fungal-trophic-modes-and-nutritional-guilds]]

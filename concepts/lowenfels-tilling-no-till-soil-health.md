@@ -137,8 +137,6 @@ proper conditions (organic matter, moisture, no disturbance), provides
 everything plants need.
 
 ## See Also
-- [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 - [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
 - [[faires-soil-management-and-sheet-mulching]]

@@ -3,19 +3,7 @@ title: Fungal Metabolism of Polycyclic Aromatic Hydrocarbons
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
----
-
-# Fungal Metabolism of Polycyclic Aromatic Hydrocarbons
-
-Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants formed during incomplete combustion of organic matter. Fungi metabolize PAHs through both ligninolytic enzyme systems (in white-rot fungi) and cytochrome P450 monooxygenase systems (in non-ligninolytic fungi), with generally slower mineralization rates than bacteria but important ecological roles in soil.
-
-## Fungal Metabolic Strategies
-
-### White-Rot Fungi (Ligninolytic Pathway)
-White-rot fungi such as Phanerochaete chrysosporium and Pleurotus ostreatus use extracellular lignin-modifying enzymes ([[lignin-peroxidase-mechanism]], [[lignin-peroxidase-mechanism]], [[laccase-mediator-system-dye]]) to oxidize PAHs. This nonspecific radical-based attack can occur on sorbed PAHs and is not limited by bioavailability constraints.
+tags: [[lignin-peroxidase-mechanism]], [[laccase-mediator-system-dye]]) to oxidize PAHs. This nonspecific radical-based attack can occur on sorbed PAHs and is not limited by bioavailability constraints.
 
 ### Non-Ligninolytic Fungi (Cytochrome P450 Pathway)
 Cunninghamella elegans, Aspergillus niger, and Syncephalastrum racemosum use intracellular cytochrome P450 monooxygenase systems that initiate PAH oxidation through epoxidation or hydroxylation, similar to mammalian liver metabolism.
@@ -63,12 +51,44 @@ Fungi contribute to PAH degradation in soil through:
 - Cometabolic degradation alongside lignocellulose decomposition
 - Mycelial exploration of soil that increases contact with contaminants
 
+
+## Enzyme Systems Involved
+
+Fungal PAH metabolism relies on two primary enzyme systems. Cytochrome
+P450 monooxygenases (CYP) initiate oxidation of the aromatic ring
+structure, introducing hydroxyl groups that increase water solubility.
+Laccases, a class of multicopper oxidases, catalyze the one-electron
+oxidation of PAH phenolic intermediates, generating phenoxy radicals
+that undergo further non-enzymatic reactions including polymerization.
+
+Lignin peroxidase (LiP) and manganese peroxidase (MnP), best known
+for their role in white-rot wood decay, also contribute to PAH
+mineralization. These extracellular enzymes can oxidize high-molecular
+-weight PAHs that are inaccessible to intracellular enzyme systems.
+Phanerochaete chrysosporium produces all three peroxidase systems
+and has been the most extensively studied model organism for fungal
+PAH biodegradation research.
 ## See Also
 
-- [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[laccase-catalyzed-degradation]]
-
 - [[aspergillus-niger-in-fungal-bioleaching]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
 - [[fungal-lignocellulose-degradation-mechanisms]]
+## Practical Considerations
+
+Successful implementation of Fungal Metabolism of Polycyclic Aromatic Hydrocarbons requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

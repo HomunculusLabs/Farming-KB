@@ -106,15 +106,9 @@ The pancreas "represents the space where we gather, collect, and store" emotions
 
 ## Related Pages
 
-- [[cannabis-and-alcoholism-research]]
-
 - [[cannabis-and-ibs-research]]
-
-- [[cannabis-for-diabetes-and-metabolic-syndrome]]
 
 - [[cannabis-and-diabetes]]
 
-- [[cannabis-endocannabinoid-system]]
 - [[mushroom-cytokine-production-immune-activation]]
-- [[mushroom-immune-cell-activation-mechanisms]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]

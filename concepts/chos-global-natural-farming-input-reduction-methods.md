@@ -98,16 +98,9 @@ Natural Farming inputs can increase yields better than harmful commercial fertil
 
 ## See Also
 
-- [[natural-farming-poster-input-free-farming]]
-
 - [[cho-natural-farming-inputs-overview]]
-- [[cho-indigenous-microorganisms-collection-and-cultivation]]
 - [[cho-fermented-plant-juice-preparation]]
-- [[knf-imo-four-stage-cultivation]]
 - [[knf-nutritive-cycle-theory]]
-- [[knf-input-application-timing]]
 - [[knf-preparations]]
-- [[complete-knf-input-reference]]
 - [[knf-vs-chemical-farming-comparison]]
-- [[beneficial-indigenous-microorganisms-bim]]
 - [[compost-biology-soil-food-web-inoculation]]

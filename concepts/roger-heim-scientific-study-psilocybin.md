@@ -74,15 +74,7 @@ The Heim-Hofmann research programme established psilocybin as a legitimate subje
 
 ## See Also
 
-- [[roger-heim]]
-
 - [[magic-mushroom-cultural-history]]
-- [[global-psychedelic-mushroom-species-diversity]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
-- [[archaeology-of-ecstasy-prehistoric-mushroom-use]]
-- [[albert-hofmann]]
-
-## Related
-
 - [[wasson-hofmann-ruck-theory]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

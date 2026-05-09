@@ -120,10 +120,6 @@ Bamboo construction in permaculture systems includes:
 ## See Also
 
 - mollison designers natural building methods
-- [[mollison-designers-appropriate-technology-small-scale-tools]]
-- mollison designers tropical architecture
-- mollison designers rapidly renewable resources
 - [[mollison-designers-bamboo-construction-uses]]
-- [[mollison-designers-dam-construction-and-water-storage]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]
 - [[mollison-designers-pond-construction-liner-sealing]]

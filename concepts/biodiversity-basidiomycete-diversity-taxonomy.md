@@ -127,8 +127,6 @@ Basidiomycota.
 
 ## See Also
 
-- [[biodiversity-ascomycete-diversity-taxonomy]]
 - [[biodiversity-fungi-wood-decay-succession]]
-- [[biodiversity-fungi-temperate-boreal-forests]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-molecular-methods]]

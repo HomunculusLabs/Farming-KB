@@ -94,14 +94,9 @@ Preservation efforts by breeders like SnowHigh Seeds, who select heirloom geneti
 
 ## See Also
 
-- [[cannabis-landrace-strains]]
 - [[cannabis-landrace-and-heirloom-varieties]]
-- [[cannabis-african-indian-strain-descriptions-clarke]]
 - [[cannabis-colombian-strain-description-clarke]]
-- [[cannabis-thai-strain-description-clarke]]
 - [[cannabis-mexican-strain-description-clarke]]
-- [[cannabis-hindu-kush-strain-description-clarke]]
 - [[cannabis-sativa-dominant-growing-challenges]]
-- [[cannabis-sativa-breeding-evolution]]
 - [[cannabis-genetics-and-breeding]]
 - [[marijuana-strain-guide-sativa]]

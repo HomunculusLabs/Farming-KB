@@ -104,36 +104,7 @@ approaches. Kolmogorov's 1941 theory predicts E(k) ~ k^(−5/3) in the inertial 
 The finite volume method (FVM) dominates industrial CFD, enforcing conservation on unstructured grids (ANSYS Fluent, STAR-CCM+, OpenFOAM) with
 SIMPLE/PISO pressure-velocity coupling. The finite difference method (FDM) uses Taylor series on structured grids for high-order accuracy (WENO,
 compact schemes). Spectral methods expand solutions in global basis functions (Fourier, Chebyshev) with exponential convergence — the gold standard
-for DNS. The [[finite-element-method]] (FEM) handles complex geometries via weak formulations (FEniCS, COMSOL). The lattice Boltzmann method (LBM)
-simulates fluid via particle distributions on a lattice, excelling in complex geometries and multiphase flows. Smoothed particle hydrodynamics (SPH)
-is a meshless Lagrangian method natural for free-surface flows.
-
-## The Millennium Prize Problem
-
-The Navier-Stokes existence and smoothness problem is one of seven Clay Mathematics Millennium Prize Problems (US$1M). The challenge: prove or
-disprove that in three dimensions, given smooth (C^∞) divergence-free initial data with finite energy and zero body forces, the equations admit a
-unique smooth solution for all time. Ladyzhenskaya proved existence and uniqueness in 2D (1969). In 3D, Leray proved existence of weak (finite-energy)
-solutions (1934), but whether these develop singularities (finite-time blowup) is unknown. The convective term can amplify velocity gradients via
-vortex stretching. No blowup has been constructed, nor proven impossible. Terence Tao published important partial results on averaged and modified
-equations (2014–2019).
-
-## Applications
-
-In aerospace, Navier-Stokes solutions govern aircraft aerodynamics, drag reduction, lift, and re-entry heating — modern aircraft design relies
-entirely on CFD. Automotive applications include vehicle aerodynamics, engine flows, and cooling systems. Civil engineers apply them to river
-hydraulics, pollutant dispersion, and wind loading on structures. Meteorologists and oceanographers use them for weather prediction and climate
-modeling — the atmosphere and oceans are Navier-Stokes flows on a rotating sphere with Coriolis forces.
-
-Biomedical applications include hemodynamics (blood flow, aneurysm assessment, heart valves), respiratory airflow, and drug delivery. Energy
-applications span turbomachinery, combustion, and nuclear thermal-hydraulics. Astrophysical applications include stellar interiors, mantle convection,
-accretion disks, and magnetohydrodynamics (MHD). The equations also describe manufacturing processes including casting, injection molding, and
-additive manufacturing flow simulation.
-
-## See Also
-
-- [[navier-stokes-equations-fluid-dynamics]]
-
-- [[hyphal-growth-dynamics]]
+for DNS. The [[navier-stokes-equations-fluid-dynamics]]
 
 - [[fungal-growth-dynamics]]
 

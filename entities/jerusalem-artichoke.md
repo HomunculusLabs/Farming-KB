@@ -124,14 +124,8 @@ declines.
 
 ## Related Concepts
 
-- [[animal-tractoring]]
 - [[food-forest-design-guide]]
-- [[pdc-food-forest-layers-and-succession]]
 - [[permaculture-two-species-compendium]]
-- [[mollison-animal-range-management]]
-
-## See Also
-
 - [[perennial-vegetables]]
 - root crop storage
 - inulin

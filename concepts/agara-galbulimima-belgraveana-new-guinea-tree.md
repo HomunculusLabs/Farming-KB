@@ -136,11 +136,7 @@ alkaloids.
 
 ## See Also
 
-- [[sassafras-albidum]]
-
 - [[galbulimima-belgraveana]]
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[sweet-flag-acorus-calamus-ethnobotany]]
-- [[kanna-sceletium-south-african-narcotic]]
 - [[golden-guide-amanita-muscaria-and-soma]]

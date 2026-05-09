@@ -1,51 +1,7 @@
 ---
 title: Jojoba (Simmondsia chinensis)
 created: 2026-04-28
-tags: [permaculture, oil-crop, drought-tolerant, salt-tolerant, desert]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
-type: concept
----
-
-# Jojoba
-
-Jojoba (Simmondsia chinensis, syn. Simmondsia californica) is a
-drought-tolerant evergreen shrub native to the Californian Gulf region
-and particularly the Sonoran Desert. The name jojoba (pronounced ho-ho-ba)
-comes from the original native American Hohowi. Other common names include
-goat nut, pig nut, coffee bush, and deer nut.
-
-## Description
-
-This drought-tolerant evergreen shrub has been recorded growing to a
-height of 5 m with a spread of 6 m. The trunks are usually multi-stemmed
-and have been recorded up to about 400 mm diameter. The tree lives for
-over 100 years, making it an extremely long-lived crop.
-
-## Climate and Soil Requirements
-
-Established plants are capable of withstanding temperatures as low as -9
-degrees C without long-term damage, but flower buds and new seed can be
-damaged at -2 degrees C. Soil temperature can reach as high as 65 degrees
-C with ambient air temperature as high as 48 degrees C.
-
-Within the plant's natural distribution both summer and winter rainfall
-areas are experienced, so the plant seems able to cope with either
-rainfall pattern. Although the plant will establish in areas as low as
-200 mm of rainfall, most production occurs above 400 mm. Where drainage
-is good it can grow in areas up to 1300 mm rainfall.
-
-The plant will not tolerate waterlogging. Valley bottoms are usually
-avoided because of increased cold and moisture. It seems tolerant of
-most soil types but needs reasonable porosity.
-
-## Salt Tolerance
-
-Jojoba is very resistant to saline water. Trials have shown no loss of
-production at 7,000 ppm, making it one of the most salt-tolerant crop
-plants available. This characteristic makes it suitable for [[salt-tolerant-fodder-species]] systems and rehabilitation of saline lands.
+tags: [[salt-tolerant-fodder-species]] systems and rehabilitation of saline lands.
 
 ## The Oil
 
@@ -136,7 +92,5 @@ system resilience and economic return.
 
 ## See Also
 
-- [[compost-tea-brewing-equipment-ingham]]
 - [[ingham-field-guide-compost-tea-microscope-analysis]]
-- [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]

@@ -13,66 +13,13 @@ sources:
 
 ## Overview
 
-lactarius deliciosus is an ectomycorrhizal basidiomycete fungus in the family Russulaceae, widely known as the saffron milk cap or orange milk cap. It is a prominent edible mushroom found in association with coniferous trees across the Northern Hemisphere. The species is valued both as a culinary fungus and as a subject of ecological research, particularly regarding its [[ectomycorrhizal-associations]] and heavy metal tolerance.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Russulales
-- **Family:** Russulaceae
-- **Genus:** Lactarius
-- **Species:** L. deliciosus
-
-The genus Lactarius is characterized by the production of latex (milk) from the flesh when cut or damaged. The species epithet "deliciosus" refers to its edible qualities, though the culinary reputation of this species varies across different cultural traditions. The Lactarius deliciosus species complex includes several closely related taxa found in different geographic regions.
-
-## Morphology and Identification
-
-lactarius deliciosus produces medium to large basidiocarps with the following distinguishing features:
-
-- **Cap:** Convex at first, becoming depressed or funnel-shaped with age, 5 to 15 cm in diameter. The cap surface is smooth, orange to salmon-colored with characteristic concentric zones of darker and lighter orange. The cap margin is initially incurved, becoming expanded and wavy with age.
-- **Latex:** When cut or bruised, the flesh exudes a copious, carrot-orange to reddish-orange latex (milk). This latex is the most diagnostic feature of the species. Over time, the latex may turn greenish, especially on exposure to air.
-- **Gills:** Adnate to slightly decurrent, crowded, and colored similar to the cap (orange to salmon). The gills bruise greenish when damaged.
-- **Stipe:** Cylindrical, slightly tapering at the base, 3 to 8 cm long anspore-printcm thick. The stipe is typically paler than the cap and may develop greenish stains with age or handling.
-- **Flesh:** Firm and whitish to pale orange, turning greenish when exposed or bruised. The flesh has a mild to slightly peppery taste.
-- **[[spore-print]]:** Pale cream to pale yellow.
+lactarius deliciosus is an ectomycorrhizal basidiomycete fungus in the family Russulaceae, widely known as the saffron milk cap or orange milk cap. It is a prominent edible mushroom found in association with coniferous trees across the Northern Hemisphere. The species is valued both as a culinary fungus and as a subject of ecological research, particularly regarding its [[spore-print]]:** Pale cream to pale yellow.
 - **Spores:** Ellipsoidal, orectomycorrhizal-fungiulate (net-like) pattern, measuring approximately 7 to 9 by 6 to 7 micrometers.
 - **Habitat:** Growing on the ground in association with coniferous trees, particularly pines.
 
 ## Ecology and Habitat
 
-lactarius deliciosus is an obligate [[ectomycorrhizal-fungi]] fungus that forms symbiotic associations primarily with coniferous trees. Its main habitat and host associations include:
-
-- Pine forests (Pinus sylvestris, P. pinaster, P. radiata, and other species)
-- Mixed coniferous and deciduous forests
-- Plantation forests, especially pine plantations
-- Acidic to neutral forest soils, often in sandy or gravelly substrates
-
-The species has a wide distribution across Europe, Asia, North Africa, and has been introduced to other regions with pine plantations (including New Zealand, Australia, and South America). It typically fruits from late summer through autumn, often in abundance following wet periods.
-
-## Role in Ecosystem Processes
-
-### Ectomycorrhizal Symbiosis
-
-As an ectomycorrhizal fungi fungus, lactarius deliciosus forms a mutualistic association with the fine roots of its host trees. The fungus forms a mantle around the root tips and penetrates between cortical cells to form a Hartig net. Through this association, the fungus enhances the tree's access to soil nutrients, particularly:
-
-- Nitrogen, which the fungus can access from both mineral and organic sources
-- Phosphorus, which the fungus solubilizes from soil minerals and organic matter
-- Water, through the extensive extraradical mycelial network
-
-In return, the host tree supplies the fungus with carbohydrates (sugars) produced through photosynthesis. This bidirectional exchange of resources is fundamental to forest nutrient cycling and tree productivity.
-
-### Heavy Metal Tolerance
-
-Research by Hartley et al. (1997a), as cited in Dighton (2003), quantified the heavy metal tolerance of lactarius deliciosus and other ectomycorrhizal fungi. The tolerance of L. deliciosus was expressed as EC50 values (effective concentration causing 50 percent growth reduction):
-
-- **Cadmium (Cd):** EC50 of 0.79 mmol per cubic meter
-- **Lead (Pb):** EC50 of 45 mmol per cubic meter
-- **Zinc (Zn):** EC50 of 100 mmol per cubic meter
-- **Antimony (Sb):** EC50 of 0.66 mmol per cubic meter
-
-These values indicate that lactarius deliciosus has moderate tolerance to lead and zinc but relatively low tolerance to cadmium and antimony compared to other ectomycorrhizal species such as [[suillus-variegatus]] and [[paxillus-involutus]]. This differential metal tolerance among ectomycorrhizal partners may influence fungal community composition on contaminated sites and has implications for forest restoration on metal-polluted soils.
+lactarius deliciosus is an obligate [[suillus-variegatus]] and [[paxillus-involutus]]. This differential metal tolerance among ectomycorrhizal partners may influence fungal community composition on contaminated sites and has implications for forest restoration on metal-polluted soils.
 
 ### Nutritional Composition
 

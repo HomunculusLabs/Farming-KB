@@ -5,21 +5,7 @@ source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [melanin, fungal-pathogenicity, cryptococcus, dermatophytes, radiation-resistance, cell-wall, pigmentation]
 ---
 
-# Fungal Melanin and Pathogenicity
-
-## The Dark Pigment of Fungi
-
-Melanized fungi are ubiquitous organisms that thrive as saprobes on a wide range of substrates.
-
-They grow on surfaces wherever water is available, staining bathroom fittings, wallpaper, water bottles, coffee cups, and even human skin.
-
-Soot from automobiles is often blamed for the discoloration of masonry, but the pollution is often fungal in origin.
-
-Melanized fungi coat the surface of buildings and ancient statuary, pit and penetrate the stone, and hasten its disintegration.
-
-Fungal melanins are complex chemicals synthesized by the assembly of masses of ring-shaped molecules into an invincible polymeric web.
-
-This web will not dissolve in boiling water or hot acid.
+# [[pf-tek-spore-syringe-boiling-water-sterilization]] eb will not dissolve in boiling water or hot acid.
 
 Deposited by the cell as a distinct layer of the wall, these pigments absorb all wavelengths of visible light.
 
@@ -39,17 +25,7 @@ The translucent cells of other species are restricted to subterranean habitats.
 
 Part of the reason that lichens can survive in exposed locations at high elevations is that melanin within the hyphae of the fungal component protects the photosynthetic pigments of the algal partner.
 
-A greater testament to the resilience of melanized fungi comes from reports that dark-pigmented, radiation-tolerant fungi are flourishing in the contaminated soils around the Chernobyl reactor in Ukraine.
-
-These organisms appear to actually harvest energy from ionizing radiation, using melanin as a biological semiconductor.
-
-Much of the scientific information on melanin's significance has come from experiments comparing the behavior of a normal pigmented fungus with an albino version.
-
-These translucent doppelgängers are created by poisoning the enzymes that the fungus uses to manufacture melanin, or by disrupting the genes that encode the same enzymes.
-
-In almost every contest between colored and colorless, the albinos are conquered.
-
-They are fine as long as they are grown in a stress-free environment on agar, but shine ultraviolet light on them and they shrivel.
+A greater testament to the resilience of melanized fungi comes from r [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] traviolet light on them and they shrivel.
 
 Change the temperature in the incubator and they croak.
 
@@ -65,55 +41,7 @@ It enables the fungal cell to rebuff poisons and prevent leaks.
 
 ## Cryptococcus neoformans — A Opportunistic Killer
 
-Cryptococcus neoformans is a yeast that causes meningitis in about 10 percent of AIDS patients.
-
-This fungus is very widespread, and we probably encounter its cells on a frequent basis.
-
-When yeast cells or spores of Cryptococcus are inhaled, they are usually removed in the lifelong river of mucus that cleanses the deepest recesses of our lungs.
-
-But when critical defenses are damaged in the immune-compromised patient, Cryptococcus travels from the lungs to the nervous system.
-
-In the brain it forms abscesses that lead to debilitating headaches, and eventually to blindness, dementia, and death.
-
-A conspicuous feature of Cryptococcus cells is the presence of a capsule built from mixtures of sugar molecules that extends as a wide halo around every cell.
-
-This structure helps the fungus avoid detection and destruction by the immune system.
-
-## Melanin as a Virulence Factor
-
-Recently, there has been a great deal of research on the black pigmentation of cryptococcal cells.
-
-This coloration is due to the presence of a type of melanin, similar in chemical structure to the pigment in human skin.
-
-The pigment is deposited on the inner surface of the cell wall of the yeast, where it creates a resistant barrier.
-
-The pigment confers partial resistance to amphotericin B, demanding high doses of the drug.
-
-It can also protect the fungus from some of the defenses raised by the immune system.
-
-Cryptococcus can manufacture melanin from L-dopa, dopamine, or the hormone epinephrine.
-
-All of these precursors are concentrated in the brain.
-
-L-dopa is used as a drug for controlling the tremors associated with Parkinson's disease.
-
-If L-dopa is added to nutrients in an agar plate, Cryptococcus can be distinguished from other microorganisms by its black colonies.
-
-Some mycologists believe that the blackening of the fungus explains why it colonizes the brain.
-
-It may attempt to grow in other locations in the human body, but in the absence of the precursors for melanin synthesis, its yeasts cannot become pigmented and are vulnerable to removal by immune defenses.
-
-The idea that a fungus might steal chemical components from its host in order to protect itself from the host's defenses begins to indicate the insidious nature of human mycoses.
-
-## Dermatophytes and Skin Infections
-
-Even the healthiest skin is colonized by a varied collection of fungi.
-
-The scalp is a grease bath where yeasts immerse themselves in sebaceous fat and gorge on dandruff flakes.
-
-Dandruff is a complex material exacerbated by stress, diet, hormone balance, and even the weather, but it is always accompanied by Malassezia.
-
-Malassezia is a microscopic epicure that can be grown on agar medium in a Petri dish, but only if bathed with olive oil.
+[[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] ezia is a microscopic epicure that can be grown on agar medium in a Petri dish, but only if bathed with olive oil.
 
 The active component of Head and Shoulders shampoo is pyrithione zinc, which inhibits fungal proliferation on the scalp, but the specifics of its mode of action remain unknown.
 
@@ -144,6 +72,24 @@ By manufacturing melanin from brain chemicals, the fungus simultaneously protect
 ## Amphotericin B — The Wonder Drug
 ## See Also
 
-- [[cordyceps-insect-pathogenic-fungi]] — Fungi that attack insects
 - [[stinkhorn-reproduction-and-spore-dispersal]] — Non-pathogenic fungal adaptations
 - [[hyphal-growth-mechanics-and-invasion]] — How fungi penetrate tissues
+## Practical Considerations
+
+Successful implementation of Fungal Melanin and Pathogenicity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

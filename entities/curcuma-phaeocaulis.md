@@ -103,19 +103,11 @@ Adulteration with *C. kwangsiensis* or *C. wenyujin* rhizomes is common in comme
 
 ## See Also
 
-- [[curcuma-longa]]
 - [[curcuma-zedoaria]]
-- [[curcuma-wenyujin]]
 - [[curcuma-aromatica]]
-- [[curcuma-angustifolia]]
 - [[curcumin]]
-- [[camphor]]
 - [[zingiber-officinale]]
-- [[alpinia-officinarum]]
 - [[amomum-subulatum]]
-- [[elettaria-cardamomum]]
 - [[hedychium-coronarium]]
-- [[zingiber-cassumunar]]
 - [[boesenbergia-rotunda]]
-- [[kaempferia-galanga]]
 - [[alpinia-galanga]]

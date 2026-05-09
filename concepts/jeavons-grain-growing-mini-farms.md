@@ -14,25 +14,6 @@ type: concept
 Growing grains is a central component of the GROW BIOINTENSIVE
 mini-farm system. Grains serve as dual-purpose crops — providing both
 nutritious food and large amounts of carbonaceous material for the
-[[jeavons-composting-methods]]. Jeavons envisions a
-future where backyard gardeners can literally raise their own bread.
-
-## Why Grow Grains?
-
-### Sustainable Soil Fertility
-
-Soil fertility crops — called carbon-and-calorie crops — are essential
-to the GROW BIOINTENSIVE system. Grains grow large amounts of
-carbonaceous material for compost, which in turn feeds the soil with
-humus. Examples of these dual-purpose crops include corn, millet,
-wheat, oats, barley, cereal rye, and amaranth.
-
-### Calorie Production
-
-About 90% of your diet-growing area should eventually be planted in
-nutritious calorie crops. Grains fall into the category of
-weight-efficient calorie crops — they contain a large number of
-calories per pound but have lower yields per unit of area compared to
 [[jeavons-tree-cane-crops]] like potatoes. Each
 garden should optimally contain some of both kinds.
 
@@ -96,23 +77,7 @@ continuous cropping of them has been demonstrated to wear out the
 soil.
 
 It is essential to develop and work within natural sustainable
-cycles. The [[jeavons-crop-rotation-detail]] system of
-heavy feeders, heavy givers, and light feeders helps manage these
-nutrient flows.
-
-## Tools for Small-Scale Grain Processing
-
-### Threshing
-
-Wheat can be threshed easily with a mini-thresher made available by
-public organizations. Foot-treadle-powered mini-threshers are
-available commercially and make grain processing feasible at the
-home scale. This equipment bridges the gap between garden-scale
-growing and practical food production.
-
-### Seed Saving
-
-[[jeavons-seed-saving-and-propagation]] is essential for
+cycles. The [[jeavons-seed-saving-and-propagation]] is essential for
 true self-sufficiency and reduces dependence on external seed sources.
 For information on growing open-pollinated seeds in the smallest area
 while preserving genetic diversity, see Ecology Action's Self-Teaching
@@ -125,19 +90,7 @@ Mini-Series Booklet "Growing to Seed."
 Grain crops contribute significantly to the compost pile. The straw
 and stalks provide the carbonaceous material that, when combined with
 nitrogen-rich kitchen scraps and garden waste, creates balanced
-compost. This is the foundation of the [[jeavons-carbon-farming]] approach that sustains soil fertility over time.
-
-### Rotation Placement
-
-Grains typically function as heavy feeders in the crop rotation and
-should be followed by nitrogen-fixing legumes. Their extensive root
-systems also improve soil structure, with some grain plants producing
-hundreds of miles of roots per season.
-
-### Orchard Underplanting
-
-Compost crops including grains can be grown between
-[[jeavons-tree-cane-crops]] to increase soil
+compost. This is the foundation of the [[jeavons-tree-cane-crops]] to increase soil
 friability and nitrogen content. Medium red clover, with its
 beautiful red flowers, is specifically recommended for this purpose.
 
@@ -147,4 +100,7 @@ The ability to grow one's own bread in the backyard represents a
 fundamental aspect of food self-sufficiency. Combined with area-efficient
 calorie crops like potatoes and weight-efficient grains like wheat, the
 GROW BIOINTENSIVE system provides a practical pathway to growing most
-or all of a family's food at home. The
+
+## See Also
+
+- [[jeavons-master-planning-mini-farms]]

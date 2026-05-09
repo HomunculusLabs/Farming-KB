@@ -114,12 +114,6 @@ Soil may be acid or alkaline depending on lime content. Lime makes some
 nutrients unavailable to plants. The ideal organic approach is to test
 your soil and adjust pH according to the plants you wish to grow, using
 natural lime sources rather than chemical amendments. See
-[[hamilton-organic-soil-management]] for detailed pH management.
-
-## See Also
-
-- [[hamilton-organic-soil-management]]
-- [[hamilton-composting-and-organic-matter-management]]
+[[hamilton-organic-soil-management]]
 - [[hamilton-alternative-soil-conditioners]]
-- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[soil-building-permaculture]]

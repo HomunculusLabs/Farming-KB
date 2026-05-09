@@ -1,7 +1,7 @@
 ---
 title: Oyster Mushroom Contamination Prevention
 created: 2026-04-28
-tags: [mycology, cultivation, oyster-mushroom, contamination]
+tags: [[mycology, cultivation, oyster-mushroom, contamination]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -35,29 +35,7 @@ bright orange-pink, powdery spore masses that spread aggressively.
 Neurospora contamination often indicates insufficient sterilization or
 pasteurization.
 
-**Yellow mold (*[[aspergillus-flavus]]*)** is particularly concerning because
-some strains produce aflatoxins. It appears as yellow-green powdery
-colonies and favors warm, humid conditions with high nitrogen content.
-
-### Bacterial Contaminants
-
-**Bacterial blotch (*Pseudomonas tolaasii*)** primarily affects
-fruiting mushrooms rather than substrate, causing dark, sunken lesions
-on caps. It thrives when water sits on mushroom surfaces in warm,
-stagnant conditions.
-
-**Slimy bacterial rot** (*Bacillus* spp.) in spawn jars produces a
-foul, sour odor and causes grain to become wet and sticky. This
-indicates inadequate sterilization.
-
-## Hygiene Protocols
-
-### Workspace Design
-
-An effective contamination prevention strategy starts with workspace
-layout:
-
-- **Separate zones**: Maintain distinct areas for [[substrate-preparation]],
+**Yellow mold (*[[substrate-preparation]],
   inoculation, incubation, and fruiting. Never mix workflows.
 - **Positive pressure inoculation**: The inoculation area should have
   HEPA-filtered air flowing outward, preventing unfiltered air from
@@ -86,34 +64,7 @@ layout:
 
 ## Process Controls
 
-### [[substrate-pasteurization]] Verification
-
-Confirm pasteurization effectiveness by monitoring core substrate
-temperature with a probe thermometer. The entire mass must reach the
-target temperature for the full duration. Cold spots are the most common
-cause of contamination in pasteurized substrates.
-
-### Inoculation Best Practices
-
-- Inoculate only after substrate has cooled below 25 °C. Heat stress
-  slows mycelium and creates a competitive window for contaminants.
-- Work quickly to minimize open-container time.
-- Shake grain spawn jars thoroughly before opening to distribute
-  mycelium evenly.
-- Seal containers immediately after inoculation.
-
-### Incubation Management
-
-- Maintain incubation temperature at the strain's optimal range
-  (typically 24-28 °C for most *Pleurotus* species).
-- Ensure adequate gas exchange through filter patches or loose lids
-  without allowing airborne spores to enter.
-- Inspect containers daily during the first week. Remove and destroy
-  contaminated blocks immediately — do not attempt to salvage them.
-- Maintain ambient humidity at 60-70% during incubation to prevent
-  filter patches from drying and losing effectiveness.
-
-## [[biological-efficiency]] and Contamination Loss
+### [[biological-efficiency]] and Contamination Loss
 
 Biological efficiency (BE) measures yield as fresh mushroom weight
 divided by dry substrate weight, expressed as a percentage. Oyster
@@ -122,22 +73,7 @@ Contamination losses of 5-15% are considered acceptable in small-scale
 operations. Commercial facilities target losses below 3% through
 strict process controls and environmental monitoring.
 
-## [[integrated-pest-management]]
+## [[oyster-mushroom-contamination-management]]
 
-Beyond microbial contaminants, several pests affect oyster cultivation:
-- **Fungus gnats and shore flies**: Larvae damage mycelium and vector
-  contaminants. Yellow sticky traps and reduced moisture on non-crop
-  surfaces help manage populations.
-- **Mites**: Microscopic arthropods that feed on mycelium and carry
-  mold spores. Maintain clean spaces and avoid introducing contaminated
-  materials.
-- **Slugs and snails**: Damage fruiting bodies directly. Physical
-  barriers and bait traps are primary controls.
-
-## See Also
-
-- [[oyster-mushroom-contamination-management]]
-
-- [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-spawn-production]]
 - [[oyster-mushroom-fruiting-conditions]]

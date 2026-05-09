@@ -1,5 +1,5 @@
 ---
-title: Lacto-Fermentation for food-preservation-canning
+title: Natfarm Lacto Fermentation Preservation
 created: 2026-04-28
 tags: [fermentation, food-preservation, probiotics, lacto-fermentation, self-sufficiency]
 date: 2026-04-25
@@ -11,17 +11,7 @@ type: concept
 # Lacto-Fermentation for Food Preservation
 
 Lacto-fermentation has become more popular again in recent years because it
-saves the [[nutritional-properties-mushrooms]] of the food preserved and contains friendly
-bacteria. Where other types of food preservation techniques try to kill all
-the bacteria, fermentation encourages it. The fermentation process produces
-lactic acid, which kills botulism and other harmful bacteria. For this
-reason, lacto-fermentation can be much safer than canning or even eating
-raw vegetables, which can harbor E. coli. This technique is a key component
-of food systems.
-
-## How Lacto-Fermentation Works
-
-During lacto-fermentation, beneficial bacteria (primarily Lactobacillus
+saves the [[lactobacillus]]
 species) convert sugars in food into lactic acid. This acid acts as a
 natural preservative, creating an environment where harmful bacteria cannot
 survive. The process also produces enzymes and beneficial probiotics that
@@ -127,8 +117,6 @@ brine can be saved and used as a starter for the next batch, carrying the
 beneficial bacteria forward.
 
 ## See Also
-
-- [[natfarm-sheet-mulching-garden-preparation]]
 
 - [[lacto-fermentation-and-food-preservation-methods]]
 - [[lacto-fermentation-recipes]]

@@ -41,13 +41,13 @@ The jujube (*Ziziphus jujuba* Mill.), also known as the Chinese date, red date, 
 | **Hardiness** | USDA Zones 5–9 |
 | **Chill hours** | 150–400 hours (very low requirement) |
 
-Jujube trees exhibit a distinctive zigzag branching pattern with paired thorns at branch nodes (thornless cultivars exist). Leaves are small, glossy, and oval-shaped (2–5 cm long), turning yellow in autumn. Flowers are small, fragrant, yellowish-green, and highly attractive to [[bee-pollinators|bees]]. The fruit is a drupe that changes from green to yellow to brownish-red as it ripens, with smooth or wrinkled skin depending on the cultivar. Fresh jujubes have a crisp, apple-like texture and a sweet, mildly tart flavor.
+Jujube trees exhibit a distinctive zigzag branching pattern with paired thorns at branch nodes (thornless cultivars exist). Leaves are small, glossy, and oval-shaped (2–5 cm long), turning yellow in autumn. Flowers are small, fragrant, yellowish-green, and highly attractive to [[gaias-garden-bees-and-pollinators|bees]]. The fruit is a drupe that changes from green to yellow to brownish-red as it ripens, with smooth or wrinkled skin depending on the cultivar. Fresh jujubes have a crisp, apple-like texture and a sweet, mildly tart flavor.
 
 ## History and Origin
 
 The jujube originated in the region spanning southern China to the Himalayan foothills of northern India. Archaeological evidence from the Neolithic site of Jiahu (c. 7000 BCE) in Henan Province, China, includes jujube seeds, making it one of the oldest domesticated fruit species. The tree spread along trade routes to the Middle East, North Africa, and Mediterranean Europe by the first millennium CE. It was introduced to the United States in the 1830s and is now commercially grown in California, Texas, Oklahoma, and New Mexico.
 
-In traditional Chinese medicine, dried jujube fruits (*Da Zao*) are one of the most commonly prescribed herbs, appearing in hundreds of classical formulations. They are considered a tonic for the spleen and qi, and are used to calm the mind, strengthen the blood, and support digestion. See also [[medicinal-plants]] and [[traditional-herbalism]].
+In traditional Chinese medicine, dried jujube fruits (*Da Zao*) are one of the most commonly prescribed herbs, appearing in hundreds of classical formulations. They are considered a tonic for the spleen and qi, and are used to calm the mind, strengthen the blood, and support digestion. See also [[medicinal-plant-guide]] and [[medicinal-plant-guide]].
 
 ## Major Cultivars and Varieties
 
@@ -68,13 +68,13 @@ Hundreds of jujube cultivars exist in China, with new selections continually dev
 | **Coco** | China | 2–3 cm | Brown | Dried | Mid-Sept | Small, round; excellent dried flavor; high sugar |
 | **Thornless** | Various | Variable | Variable | Both | Variable | Thornless selections; easier orchard management |
 
-Most jujube cultivars are partially to fully self-fruitful, though cross-pollination with a second variety can improve fruit set and size. See also [[fruit-tree-pollination]].
+Most jujube cultivars are partially to fully self-fruitful, though cross-pollination with a second variety can improve fruit set and size. See also [[hamilton-fruit-tree-selection-pollination]].
 
 ## Cultivation Requirements
 
 ### Climate
 
-Jujubes are among the most heat- and drought-tolerant fruit trees available. They thrive in hot summers (30–40 °C is optimal for fruit development) and tolerate winter cold to −28 °C (Zone 5). Their extremely low chill-hour requirement (150–400 hours) makes them ideal for warm-winter climates where [[deciduous-fruit-trees]] with higher chill requirements fail. They do poorly in regions with cool, wet summers, as the fruit may not ripen fully and fungal disease pressure increases.
+Jujubes are among the most heat- and drought-tolerant fruit trees available. They thrive in hot summers (30–40 °C is optimal for fruit development) and tolerate winter cold to −28 °C (Zone 5). Their extremely low chill-hour requirement (150–400 hours) makes them ideal for warm-winter climates where [[pruning-fruit-trees]] with higher chill requirements fail. They do poorly in regions with cool, wet summers, as the fruit may not ripen fully and fungal disease pressure increases.
 
 ### Soil
 
@@ -84,7 +84,7 @@ Jujubes tolerate a remarkably wide range of soil conditions:
 - **Salinity**: Moderately tolerant; suitable for slightly saline soils
 - **Drainage**: Prefers well-drained soils but tolerates periodic waterlogging better than most fruit trees
 
-They perform best in deep, well-drained loams but will produce acceptable crops in poor, rocky, or sandy soils where most fruit trees struggle. This makes them an excellent candidate for [[marginal-land-agriculture]] and [[xeriscaping]].
+They perform best in deep, well-drained loams but will produce acceptable crops in poor, rocky, or sandy soils where most fruit trees struggle. This makes them an excellent candidate for [[chinampas-agriculture]] and [[xeriscaping-guide]].
 
 ### Water
 
@@ -98,7 +98,7 @@ Full sun is essential. Jujubes planted in partial shade produce fewer flowers, l
 
 ### Seed Propagation
 
-Seed-grown jujubes are highly variable and generally not recommended for fruit production. Seeds require 60–90 days of cold stratification at 2–5 °C and have a hard seed coat that benefits from scarification. Germination rates are typically 40–70%. Seedlings are primarily used as rootstock or for [[windbreaks]] and [[living-fences]].
+Seed-grown jujubes are highly variable and generally not recommended for fruit production. Seeds require 60–90 days of cold stratification at 2–5 °C and have a hard seed coat that benefits from scarification. Germination rates are typically 40–70%. Seedlings are primarily used as rootstock or for [[mollison-windbreak-design]] and [[living-fences-and-hedgerows]].
 
 ### Grafting and Budding
 
@@ -120,7 +120,7 @@ Clear the site of perennial weeds. In poor soils, incorporate compost or well-ro
 
 ### Planting
 
-Plant bare-root trees in early spring (before bud break) or container-grown trees in spring or early fall. Dig holes twice the root-ball width and the same depth. Avoid planting too deep—the graft union should remain 5–10 cm above the soil surface. Water thoroughly after planting and apply 5–10 cm of [[mulch]] around the base (keep mulch away from the trunk).
+Plant bare-root trees in early spring (before bud break) or container-grown trees in spring or early fall. Dig holes twice the root-ball width and the same depth. Avoid planting too deep—the graft union should remain 5–10 cm above the soil surface. Water thoroughly after planting and apply 5–10 cm of [[living-mulch-systems-guide]] around the base (keep mulch away from the trunk).
 
 ### Spacing
 
@@ -131,7 +131,7 @@ Plant bare-root trees in early spring (before bud break) or container-grown tree
 | Hedgerow | 2 m × 4 m | 1,250 |
 | Container/patio | Single tree | N/A |
 
-For [[permaculture-food-forests]], jujubes serve well as a mid-canopy or upper-understory tree at 4–6 m spacing, with [[nitrogen-fixing-trees]] as companions and [[ground-covers]] beneath.
+For [[permaculture-food-forest-equivalency]], jujubes serve well as a mid-canopy or upper-understory tree at 4–6 m spacing, with [[nitrogen-fixing-trees]] as companions and [[ground-cover-plants]] beneath.
 
 ## Pruning and Training
 
@@ -147,7 +147,7 @@ Unlike apples and stone fruits, jujubes do not require detailed spur management.
 
 ## Pest and Disease Management
 
-Jujubes are remarkably pest- and disease-resistant compared to most fruit trees, which is one reason they are popular in [[organic-farming]] and low-input systems:
+Jujubes are remarkably pest- and disease-resistant compared to most fruit trees, which is one reason they are popular in [[organic-farming-history]] and low-input systems:
 
 ### Insects
 
@@ -166,7 +166,7 @@ Jujubes are remarkably pest- and disease-resistant compared to most fruit trees,
 
 ### Integrated Management
 
-A [[biological-pest-control]] approach is generally sufficient for jujubes. Maintaining healthy soil biology, encouraging [[beneficial-insects]], and selecting resistant cultivars address most problems. See also [[organic-pest-control]] and [[disease-resistant-fruit-varieties]].
+A [[biological-pest-control-balance]] approach is generally sufficient for jujubes. Maintaining healthy soil biology, encouraging [[beneficial-insects-guide]], and selecting resistant cultivars address most problems. See also [[organic-pest-disease-control]] and [[holzer-recommended-old-fruit-varieties]].
 
 ## Harvesting and Post-Harvest
 
@@ -204,7 +204,7 @@ Hand-picking is standard. Fresh-stage fruit should be clipped with stems attache
 | **Iron** | 0.5 mg | 3% |
 | **Zinc** | 0.1 mg | 1% |
 
-Dried jujubes are nutritionally concentrated, containing 250–300 kcal per 100 g with significantly higher levels of sugar (60–80%), fiber (8–9 g), iron, and potassium. They are one of the richest natural sources of [[vitamin-c]] among temperate fruits, though some vitamin C is lost during drying (retention depends on temperature and method).
+Dried jujubes are nutritionally concentrated, containing 250–300 kcal per 100 g with significantly higher levels of sugar (60–80%), fiber (8–9 g), iron, and potassium. They are one of the richest natural sources of nutrition and phytochemicals in fruits and vegetables among temperate fruits, though some vitamin C is lost during drying (retention depends on temperature and method).
 
 ## Culinary Uses
 
@@ -233,16 +233,16 @@ In traditional Chinese medicine, dried jujube (*Da Zao*) is used to:
 - Harmonize the effects of other herbs in formulations
 - Reduce fatigue and support recovery from illness
 
-The seeds (*Suan Zao Ren*) are a separate medicinal preparation used primarily as a sedative and anxiolytic, prescribed for insomnia, anxiety, and night sweats. See also [[adaptogenic-herbs]] and [[anxiolytic-plants]].
+The seeds (*Suan Zao Ren*) are a separate medicinal preparation used primarily as a sedative and anxiolytic, prescribed for insomnia, anxiety, and night sweats. See also [[adaptogenic-herbs-guide]] and [[adaptogenic-herbs-guide]].
 
 ## Role in Permaculture and Agroforestry
 
 Jujubes offer exceptional value in [[permaculture]] and [[agroforestry]] designs:
 
-- **Drought resilience**: Once established, they require minimal irrigation, making them ideal for [[dryland-farming]] and [[xeriscaping]].
+- **Drought resilience**: Once established, they require minimal irrigation, making them ideal for [[dryland-vegetable-gardening]] and [[xeriscaping-guide]].
 - **Multi-functionality**: Produces fruit, medicine, bee forage, and timber. Leaves are edible and nutritious (used as a vegetable in some regions).
-- **Windbreaks and hedgerows**: Dense, thorny growth makes jujubes excellent [[living-fences]] and windbreaks. See also [[hedgerow-design]].
-- **Companion planting**: Pairs well with [[pomegranate]], [[fig]], [[olive]], and other Mediterranean-climate species. The deep taproot does not compete heavily with shallow-rooted understory plants.
+- **Windbreaks and hedgerows**: Dense, thorny growth makes jujubes excellent [[living-fences-and-hedgerows]] and windbreaks. See also [[hedgerow-planting]].
+- **Companion planting**: Pairs well with [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]], [[fig-cultivation-and-variety-guide]], [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]], and other Mediterranean-climate species. The deep taproot does not compete heavily with shallow-rooted understory plants.
 - **Soil improvement**: Leaf litter adds organic matter. Root exudates support mycorrhizal networks.
 - **Climate adaptation**: Low chill requirement and heat tolerance make jujubes a strategic choice for warming climates where traditional deciduous fruits may become marginal.
 
@@ -260,7 +260,7 @@ Small-scale producers can add significant value through processing:
 | Jujube vinegar | Acetous fermentation | 12+ months | 5–8× fresh |
 | Candied jujube | Sugar syrup, dried | 6–12 months | 6–10× fresh |
 
-See also [[value-added-farming]] and [[small-scale-food-processing]].
+See also [[knf-large-scale-farming]] and [[small-scale-grain-growing-and-processing]].
 
 ## Challenges and Limitations
 
@@ -275,7 +275,7 @@ Despite their many advantages, jujubes have some limitations:
 
 ## Summary
 
-The jujube is a remarkably resilient, productive, and multi-purpose tree that deserves wider adoption in [[sustainable-agriculture]] systems. Its combination of drought tolerance, low chill requirement, pest resistance, and nutritional/medicinal value makes it one of the most practical fruit trees for a warming, water-scarce world. Whether grown as a backyard fruit tree, a [[food-forest]] component, or a commercial crop, jujubes reward growers with reliable yields and versatile harvests for decades.
+The jujube is a remarkably resilient, productive, and multi-purpose tree that deserves wider adoption in [[phosphate-accumulators-sustainable-agriculture]] systems. Its combination of drought tolerance, low chill requirement, pest resistance, and nutritional/medicinal value makes it one of the most practical fruit trees for a warming, water-scarce world. Whether grown as a backyard fruit tree, a [[food-forest]] component, or a commercial crop, jujubes reward growers with reliable yields and versatile harvests for decades.
 
 ## Fertilization and Soil Nutrition
 
@@ -286,7 +286,7 @@ Jujubes have modest nutrient requirements compared to most fruit trees, but targ
 - **Potassium**: Critical for fruit size and sweetness. Apply 50–100 g of K₂O per tree annually, ideally in split applications (half at bud break, half during fruit development). Wood ash or kelp meal are suitable organic sources.
 - **Micronutrients**: Zinc and iron deficiencies can occur in alkaline soils. Foliar applications of chelated zinc and iron correct deficiencies quickly. Boron is important for fruit set; apply 10–20 g of borax per tree in early spring if deficiency symptoms appear.
 
-A [[soil-test]] every 2–3 years is recommended to calibrate fertilization programs. Mulching with compost or aged manure provides slow-release nutrition and improves soil organic matter. Avoid high-nitrogen synthetic fertilizers, which can promote excessive vegetative growth and reduce fruit quality.
+A [[soil-testing]] every 2–3 years is recommended to calibrate fertilization programs. Mulching with compost or aged manure provides slow-release nutrition and improves soil organic matter. Avoid high-nitrogen synthetic fertilizers, which can promote excessive vegetative growth and reduce fruit quality.
 
 ## Regional Adaptation Guide
 
@@ -322,15 +322,15 @@ Choose the earliest-ripening cultivars. Honey Jar and Silverhill ripen in late A
 
 A well-managed jujube tree begins bearing fruit 2–3 years after planting and reaches full production by year 5–7. Mature trees can produce 20–50 kg of fruit annually, with some high-yielding cultivars exceeding 100 kg under optimal conditions. Productivity remains stable for 40–60 years before gradually declining. With proper pruning, irrigation, and soil management, jujube orchards can remain productive for a century or more.
 
-In economic terms, jujubes offer one of the highest returns per unit of water and management input among fruit crops. Their low pest pressure eliminates most spraying costs, and their drought tolerance reduces irrigation expenses. For small-scale and [[homestead-farming]] operations, the combination of fresh fruit, dried product, and medicinal harvest provides diversified income streams from a single tree species.
+In economic terms, jujubes offer one of the highest returns per unit of water and management input among fruit crops. Their low pest pressure eliminates most spraying costs, and their drought tolerance reduces irrigation expenses. For small-scale and [[homesteading]] operations, the combination of fresh fruit, dried product, and medicinal harvest provides diversified income streams from a single tree species.
 
 ## See Also
 
-- [[fig-cultivation]] — another drought-tolerant fruit tree for warm climates
-- [[pomegranate-cultivation]] — complementary Mediterranean fruit species
+- fig cultivation — another drought-tolerant fruit tree for warm climates
+- [[pomegranate-cultivation-and-variety-guide]] — complementary Mediterranean fruit species
 - [[mediterranean-herb-cultivation]] — understory companions for jujube orchards
-- [[drought-tolerant-fruit-trees]] — broader selection of water-wise fruit species
+- [[drought-tolerant-planting-design]] — broader selection of water-wise fruit species
 - [[food-forest-design]] — integrating jujubes into polyculture systems
-- [[drying-and-preserving-fruit]] — methods for processing jujube harvests
-- [[goji-berry-cultivation]] — another Asian superfruit with similar climate requirements
-- [[living-fences]] — using thorny jujube cultivars as barrier hedgerows
+- [[canning-and-preserving]] — methods for processing jujube harvests
+- [[drought-tolerant-planting-design]] — another Asian superfruit with similar climate requirements
+- [[living-fences-and-hedgerows]] — using thorny jujube cultivars as barrier hedgerows

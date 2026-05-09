@@ -110,15 +110,9 @@ Side effects may include dry mouth, dry eyes, anxiety in sensitive individuals, 
 
 ## See Also
 
-- [[og-kush]]
 - [[cannabis-sour-diesel]]
-- [[cannabis-indoor-growing-guide]]
 - [[chemdawg]]
-- [[super-lemon-haze]]
 - [[purple-haze]]
-- [[white-widow-entity]]
 - [[jack-herer]]
-- [[ak-47]]
 - [[gelato-cannabis]]
-- [[girl-scout-cookies]]
 - [[runtz-entity]]

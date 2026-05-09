@@ -142,8 +142,6 @@ removed under vacuum, and the residue suspended in 250 mL H2O. This
 was extracted with 3x50 mL CH2Cl2, the extracts pooled, and the
 solvent removed under vacuum. The residue, 8.6 g of an oily solid,
 ## See Also
-- [[qualitative-comments-methodology-pihkal]]
 - [[methyl-dob-entity-pihkal]]
-- [[pihkal-qualitative-effects-themes]]
 - [[methyl-k-entity-pihkal]]
 - [[methyl-ma-entity-pihkal]]

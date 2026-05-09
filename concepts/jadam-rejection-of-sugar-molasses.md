@@ -64,12 +64,27 @@ This bias likely came from copying the Japanese method (Japan's "Modern Agricult
 
 ## See Also
 
-- [[jadam-anaerobic-fermentation]] -- the preferred fermentation approach
 - [[jadam-making-organic-farming-inputs]] -- broader input philosophy
-- [[jadam-liquid-fertilizer]] -- JADAM's sugar-free liquid fertilizer
 - [[jadam-microorganism-solution-jms]] -- JADAM's sugar-free microbial culture
-- [[jadam-liquid-fertilizer]] -- the three tenets of JADAM input production
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-human-manure-liquid-fertilizer]]
 - [[jadam-food-waste-liquid-fertilizer]]
 - [[permaculture-on-farm-alcohol-fuel-production]]
+## Practical Considerations
+
+Successful implementation of JADAM Rejection of Sugar and Molasses requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

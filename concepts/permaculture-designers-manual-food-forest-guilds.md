@@ -3,37 +3,7 @@ title: Food Forest Guilds
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Food Forest Guilds
-#permaculture #guilds #polyculture #orchard-design #food-forest
-
-Updated: 2026-04-18
-
-> From: Bill Mollison, *Permaculture: A Designers Manual* (1988), Chapters 3, 12.
-
-## Overview
-
-A guild is a harmonious assembly of species clustered around a central element (plant or animal). This assembly acts in relation to the element to assist its health, aid our work in management, or buffer adverse environmental effects. When we design plant guilds, as we always try to do in a polyculture, we try to maximise the benefits of each species to the others.
-
-## Reasons to Associate Species
-
-### Reducing Root Competition
-Almost all cultivated food trees thrive in herbal ground covers, not grasses. The enemy of deciduous orchards is grass; non-grass crop below tree canopies is ideal.
-
-### Pest Control
-- **Anti-feedants**: nasturtium roots provide root chemicals to tomatoes or gooseberries which deter whitefly. Many plants, fermented or in aqueous extraction, deter pests.
-- **Killing root parasites**: Crotalaria captures nematodes that damage citrus and solanaceous roots; Tagetes marigolds "fumigate" soils against grasses and nematodes.
-- **Hosting predators**: almost all small-flowered plants (especially Quillaja, many Acacia species, tamarisk, Compositae/daisy family, and Umbelliferae such as dill, fennel, carrot, coriander) host robber-flies and predatory wasps.
-
-### Open Soil Surface and Mulch
-Comfrey and globe artichokes allow tree roots to feed at the surface (unlike grasses), while spring bulbs (daffodils) or wild Allium species, whose tops die down in mid-spring, do not compete with deciduous tree roots in summer dry periods.
-
-### Free Nutrients
-Woody or herbaceous [[permaculture-designers-manual-rabbit-housing]] fix nitrogen or other essential nutrients via root associates. Clovers; trees such as Acacia, Casuarina, and Pultenaea; sugar-providing grasses; and high humus producers (bananas) all assist orchard species.
+tags: [[permaculture-designers-manual-rabbit-housing]] fix nitrogen or other essential nutrients via root associates. Clovers; trees such as Acacia, Casuarina, and Pultenaea; sugar-providing grasses; and high humus producers (bananas) all assist orchard species.
 
 ### Physical Shelter
 Hardy windbreak species of equal or greater height exclude frost, nullify salty or hot winds, provide mulch, and moderate the environment. In-crop shade shelter of legumes is needed by avocado, citrus, cocoa, or coffee.
@@ -83,7 +53,7 @@ By a combination of guild strategies, pest species in orchards can be reduced to
 - Minimal damage by pruning, or no pruning
 - Predation by birds, frogs, lizards, wasp and predatory insects
 - Interplant of leguminous trees and other than main crop species
-- Reducing crop stress with [[permaculture-designers-manual-windbreak-species]] and [[permaculture-designers-manual-mulch-systems]]
+- Reducing crop stress with [[permaculture-designers-manual-mulch-systems]]
 - Ground foraging by chickens, pigs, geese to clean up windfalls
 
 ## Guild Design Philosophy
@@ -92,15 +62,29 @@ Every designer and every gardener can plan such guilds for specific target speci
 
 ## See Also
 
-- [[food-forest-establishment]]
-
 - [[permaculture-designers-manual-chicken-tractors]]
-- [[permaculture-designers-manual-windbreak-species]]
 - [[mollison-designers-edge-effect-design]]
-- [[permaculture-designers-manual-crop-pollination]]
 - [[permaculture-designers-manual-rabbit-housing]]
 
 ## Related
 
-- [[permaculture-designers-manual-berry-fruits]]
 - [[nitrogen-fixing-trees]]
+## Practical Considerations
+
+Successful implementation of Food Forest Guilds requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -11,8 +11,7 @@ type: concept
 
 # Phytochrome Photoreception
 
-Phytochromes are a family of photoreceptor proteins [[xylem-and-phloem-transport-systems-in-plants]] that detect red
-and far-red light. They are critical for nearly every aspect [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
+Phytochromes are a family of photoreceptor proteins [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
 development, from seed germination to flowering time, and enable plants to
 sense the quality, quantity, and duration of light in their environment.
 
@@ -46,23 +45,10 @@ elongation, accelerated flowering, and reduced leaf expansion.
 
 ## Discovery
 
-Phytochrome was discovered [[allegro-death-and-resurrection-in-the-mushroom-cult]] 1950s through work on lettuce seed
-germination. Researchers found that brief exposure to red light promoted
-germination, but this effect was completely reversed by a subsequent pulse of
-far-red light. This reversibility indicated a single pigment system with two
-interconvertible states, which was later identified as phytochrome.
-
-## Roles [[the-vacuole-and-tonoplast-in-plant-cell-regulation]] Development
+Phytochrome was discovered [[the-vacuole-and-tonoplast-in-plant-cell-regulation]] Development
 
 Phytochromes regulate an enormous range of developmental processes. During
-seed germination, they allow seeds buried [[teaming-with-microbes-bacteria-and-archaea-in-soil]] to detect when they are
-close enough to the surface for sufficient light. In seedlings, they control
-de-etiolation, the transition from dark-grown to light-grown morphology,
-including the opening of cotyledons, development of chloroplasts, and
-inhibition of hypocotyl elongation.
-
-Throughout the plant life cycle, phytochromes influence leaf morphology, stem
-thickness, branching patterns, chloroplast development, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] timing of the
+seed germination, they allow seeds buried [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] timing of the
 vegetative-to-reproductive transition. They also mediate responses to
 photoperiod, enabling plants to measure day length and coordinate flowering
 with seasonal changes.

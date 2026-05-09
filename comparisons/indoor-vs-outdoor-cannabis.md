@@ -24,7 +24,7 @@ sources:
 
 # Indoor vs Outdoor Cannabis Cultivation
 
-Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture-history]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer environmental control at the cost of energy and equipment. This comparison synthesizes from [[cannabis-living-soil-guide]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and cannabis pest management.
+Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture-history]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer environmental control at the cost of energy and equipment. This comparison synthesizes from [[cannabis-living-soil-guide]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and [[cannabis-pest-management]].
 
 ## Head-to-Head Comparison
 
@@ -73,7 +73,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 | **Fungus gnats** | Common (overwatering in containers) | Rare (soil dries naturally between rains) |
 | **Aphids/whiteflies** | Moderate risk | Lower (beneficial insects in ecosystem) |
 | **Animals (deer, rabbits)** | Not applicable | Significant risk — fencing required |
-| **Prevention approach** | Sanitation, filters, biological controls (cannabis pest management) | [[companion-planting-reference]], biodiversity, beneficial insect habitat |
+| **Prevention approach** | Sanitation, filters, biological controls ([[cannabis-pest-management]]) | [[companion-planting-reference]], biodiversity, beneficial insect habitat |
 | **Control options** | Limited in flower (no residue on buds) | More flexibility — foliar sprays safe outdoors |
 | **IPM complexity** | High (no natural backup systems) | Lower (nature provides balance) |
 
@@ -135,7 +135,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 - [[cannabis-vegetative-stage]] — vegetative phase light, training, nutrition
 - [[cannabis-flowering-stage]] — flowering timeline, environment, harvest
 - [[cannabis-plant-nutrition]] — NPK, micronutrients, organic sources
-- cannabis pest management — IPM, organic controls, spray schedules
+- [[cannabis-pest-management]] — IPM, organic controls, spray schedules
 - [[cannabis-lighting-guide]] — PAR/PPFD, spectrum by wavelength
 - [[cannabis-harvest-and-curing]] — trichome timing, drying, curing
 - [[think-grow-model-h-plus]] — specific LED fixture programming

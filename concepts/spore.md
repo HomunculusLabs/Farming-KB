@@ -117,7 +117,7 @@ peaking in late summer and autumn in temperate regions.
 
 ## See Also
 
-- [[mycology]]
 - [[mushroom-anatomy]]
-- [[mycelium]]
 - [[mycorrhiza]]
+
+See also: [[fungal-spore-biology-and-dispersal-mechanisms]]

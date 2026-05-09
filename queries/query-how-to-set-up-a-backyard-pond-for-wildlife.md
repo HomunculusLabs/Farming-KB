@@ -98,8 +98,6 @@ During winter, never break ice by hitting it, as the shock waves can harm hibern
 
 ## Related Pages
 
-- [[water-management]]
 - [[wetland-ecology]]
-- [[wildlife-habitat-creation]]
 - [[permaculture-designers-manual-aquatic-plants]]
 - [[permaculture-design]]

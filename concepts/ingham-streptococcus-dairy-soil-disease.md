@@ -118,10 +118,6 @@ This case study reinforces the broader lesson that AACT is a preventative approa
 
 ## See Also
 
-- [[ingham-leaf-curl-taphrina-disease-control]]
-
 - [[ingham-anaerobic-organisms-role-soil]]
-- [[ingham-compost-contaminants]]
 - [[ingham-aact-disease-suppression]]
-- [[soil-foodweb-balancing-protocol-ingham]]
 - [[animal-manure-guide]]

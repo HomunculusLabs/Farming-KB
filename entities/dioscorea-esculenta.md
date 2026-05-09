@@ -114,8 +114,6 @@ In Filipino traditional medicine, poultices of grated lesser yam are applied to 
 
 ## See Also
 
-[[dioscorea-alata]] [[colocasia-esculenta]] [[xanthosoma-sagittifolium]]
-[[manihot-esculenta]] [[pachyrhizus-erosus]] [[morus-alba]]
-phaseolus coccineus [[vicia-faba]] [[apios-americana]]
-[[typha-latifolia-entity]] [[robinia-pseudoacacia]] [[caragana-arborescens]]
-[[hippophae-rhamnoides]] [[elaeagnus-angustifolia]]
+- [[dioscorea-alata]] [[xanthosoma-sagittifolium]]
+[[pachyrhizus-erosus]] [[vicia-faba]] [[typha-latifolia-entity]] [[caragana-arborescens]]
+[[elaeagnus-angustifolia]]

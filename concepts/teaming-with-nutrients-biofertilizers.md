@@ -11,15 +11,7 @@ sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.m
 
 updated: 2026-04-21
 
-Biofertilizers are living organisms added to soil to promote plant nutrition through biological nutrient production. They go beyond the decaying and cycling functions of general soil microbes — fertilizers actively produce or mobilize plant nutrients. While not fitting the current legal definitions of fertilizers because it is difficult or impossible to quantify their N-P-K contents, there are plenty of microorganisms that produce or are intimately involved in the production of plant nutrients. See also [[biofertilizers-and-soil-inoculants]].
-
-## Symbiotic Nitrogen Fixers
-
-### Rhizobia
-
-Rhizobia are soil bacteria that form symbiotic relationships with legumes (soybeans, locust trees, wisteria, clover, peanuts). The bacteria provide enzymes (nitrogenase) that break triple-bonded atmospheric nitrogen (N2), and the plant provides housing in root nodules plus carbon-based root-exudates|exudates. Nodule environments are low in oxygen, which is essential for nitrogenase to function. The pinkish color inside nodules comes from leghemoglobin, a compound similar to hemoglobin that regulates oxygen levels.
-
-Up to 20 percent excess nitrogen is produced beyond what the legume and bacteria need. This excess moves into the soil and [[composting-and-soil-biology]], where mycorrhiza|mycorrhizal fungi transport much of it to other plants.
+Biofertilizers are living organisms added to soil to promote plant nutrition through biological nutrient production. They go beyond the decaying and cycling functions of general soil microbes — fertilizers actively produce or mobilize plant nutrients. While not fitting the current legal definitions of fertilizers because it is difficult or impossible to quantify their N-P-K contents, there are plenty of microorganisms that produce or are intimately involved in the production of plant nutrients. See also [[ozier-pdc-composting-and-soil-building]], where mycorrhiza|mycorrhizal fungi transport much of it to other plants.
 
 **Critical specificity:** There must be a specific match between Rhizobia species and plant species. Inoculants must be matched carefully. Gardeners can collect nodules from established legumes, open them, and roll seeds in the pink material to inoculate new plantings.
 
@@ -41,11 +33,7 @@ Certain bacteria (*Bacillus megaterium* var. *phosphaticum*, *Bacillus subtilis*
 
 ### Phosphate-Solubilizing Fungi
 
-Fungi including *Penicillium* species and *Aspergillus awamori* release organic acids during their metabolic processes. These acids break the bonds that tie up [[teaming-with-nutrients-composting-and-nutrient-cycling]] in soil, indirectly making it available for plant uptake.
-
-## Mycorrhizal Fungi
-
-mycorrhiza|Mycorrhizal fungi are perhaps the most important fertilizer. In exchange for plant-supplied carbon (which fungi cannot manufacture through [[photosynthesis-and-chloroplast-function]]), mycorrhizal fungi provide:
+Fungi including *Penicillium* species and *Aspergillus awamori* release organic acids during their metabolic processes. These acids break the bonds that tie up [[photosynthesis-and-chloroplast-function]]), mycorrhizal fungi provide:
 
 - **80% of a plant's phosphorus**
 - **60% of its copper**
@@ -53,13 +41,7 @@ mycorrhiza|Mycorrhizal fungi are perhaps the most important fertilizer. In excha
 - **25% of its zinc**
 - **10% of its potassium**
 
-Their hyphae extend root surfaces up to hundreds of times, dramatically increasing nutrient interception. Over 90 percent of plant species form mycorrhizal relationships — this is the norm in nature. Mycorrhizal fungi are the reason trees do so well with so little care. See [[symbiotic-fungi-mycorrhizal-carbon-trading]].
-
-**Application:** Mycorrhizal spores are available commercially and germinate upon receiving root exudates. They are most needed in new gardens, indoor seedling starts, and compost-based growing media (which lack mycorrhizal spores). Local spores can also be collected from soil around thriving plants.
-
-## Plant Growth-Promoting Rhizobacteria (PGPR)
-
-PGPR are root-colonizing bacteria that form symbiotic relationships aiding nutrient synthesis and root growth. *Pseudomonas fluorescens* is the most well-known species, but PGPR are actually a whole host of bacteria that aid in the synthesis of nutrients and positively influence root growth and thus plant nutrition. PGPR help mycorrhiza|mycorrhizal fungi obtain [[teaming-with-nutrients-composting-and-nutrient-cycling]], possibly by producing alkaline phosphatase enzymes that break down phosphate bonds.
+Their hyphae extend root surfaces up to hundreds of times, dramatically increasing nutrient interception. Over 90 percent of plant species form mycorrhizal relationships — this is the norm in nature. Mycorrhizal fungi are the reason trees do so well with so little care. See [[teaming-with-nutrients-composting-and-nutrient-cycling]], possibly by producing alkaline phosphatase enzymes that break down phosphate bonds.
 
 ## Compost and Earthworm Castings
 
@@ -81,9 +63,26 @@ When choosing fertilizer products, gardeners should consider:
 
 ## See Also
 
-- [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]
 - [[teaming-with-nutrients-composting-and-nutrient-cycling]]
-- [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
 - [[soil-food-web-nutrient-cycling]]
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 10
+## Practical Considerations
+
+Successful implementation of Biofertilizers and Microbial Inoculants requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

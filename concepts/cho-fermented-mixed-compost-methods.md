@@ -13,8 +13,7 @@ Natural Farming system. While similar in appearance to ordinary farm
 yard manure, its quality is completely different. FMC is highly
 effective in promoting micronutrient absorption, enhancing plant
 hormone effectiveness, and providing vitamins. It incorporates
-multiple [[cho-natural-farming-inputs-overview]] with
-[[cho-indigenous-microorganisms-collection-and-cultivation]]
+multiple [[cho-indigenous-microorganisms-collection-and-cultivation]]
 for superior biological activity.
 
 ## Seasonal Considerations
@@ -129,11 +128,7 @@ possible.
 
 ## See Also
 
-- [[cho-natural-farming-inputs-overview]]
 - [[knf-fermented-mixed-compost]]
-- [[knf-fmc-method-1-detailed]]
 - [[cho-indigenous-microorganisms-collection-and-cultivation]]
-- [[knf-soil-and-mineral-management]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[teaming-with-microbes-plant-control]]
 - [[teaming-with-nutrients-fertilizer-sources]]

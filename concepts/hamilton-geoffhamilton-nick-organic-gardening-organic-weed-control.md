@@ -59,38 +59,7 @@ As an experiment, a dock root was once nailed to a shed door and left
 for two years to suffer scorching sun, drying winds, and frost. When
 planted again two years later it flourished as if the rest had done it
 good. There is only one way with these perennials and that is to dig
-them out and put them in your regular garbage, not your [[mollison-designers-composting-toilets-and-humanure]]
-bin.
-
-## Hoeing
-
-The hoe is the most effective tool in your armory, and it should be
-used regularly, preferably during dry weather. By pulling it through
-the top layer of soil you can uproot any weeds that appear.
-
-### Dutch Hoe
-A Dutch hoe is probably best for weeding. It should be used walking
-backward to avoid treading on the weeds once they are uprooted. If you
-walk forward, you will probably push them back into the soil and
-effectively transplant them, while walking backward leaves any weeds
-sitting on the soil surface, a prey to drying winds and the heat of the
-sun.
-
-Keep the blade of the hoe no more than half an inch below the surface of
-the soil to avoid damaging the shallow roots of crops.
-
-### Wheel Hoe
-A wheel hoe is a hand-pushed tool with a single wheel at the front and
-a cutting blade behind it. It is much quicker than a conventional Dutch
-hoe for larger areas. Once you have hoed between the rows a couple of
-times to create a soft layer of soil, it is no trouble to push the hoe
-along at a slow walking pace.
-
-## Mulching
-
-An effective way to exclude light and prevent weeds from appearing is
-by mulching — covering the soil surface with a layer of one of several
-materials. This connects directly to [[mycorrhizal-agricultural-practices]].
+them out and put them in your regular garbage, not your [[mycorrhizal-agricultural-practices]].
 
 ### Black Plastic Sheeting
 One of the most effective mulches for eradicating perennial weeds is
@@ -122,27 +91,14 @@ that runs deep into the soil to discourage encroaching roots.
 
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 
 - [[composting]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
-
 - [[mollison-designers-composting-toilets-and-humanure]] for recycling weed material (with caution)
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the philosophy behind natural
-  weed management
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding how soil affects weed
   growth
-- [[hamilton-organic-pest-control]] for broader garden protection strategies
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]

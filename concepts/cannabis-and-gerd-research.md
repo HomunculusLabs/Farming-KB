@@ -108,14 +108,8 @@ Research on 60 heartburn patients found severity correlates with **major life ev
 
 ## Related Pages
 
-- [[cannabis-and-ibs-research]]
-
 - [[cannabis-endocannabinoid-system]]
 
-- [[cannabis-and-anxiety-research]]
-
 - [[cannabis-for-diabetes-and-metabolic-syndrome]]
-- [[cannabis-for-gerd-and-acid-reflux]]
 - [[fungal-monitoring-long-term-studies]]
-- [[cannabis-metabolic-syndrome-research]]
 - [[cannabis-for-vomiting-and-nausea]]

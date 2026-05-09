@@ -1,39 +1,7 @@
 ---
 title: Fungal Mycogenic Mineral Precipitation
 created: 2026-04-28
-tags: [mycology, mineralogy, biogeochemistry, bioweathering, soil-science]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
-type: concept
----
-# Fungal Mycogenic Mineral Precipitation
-
-Fungi play a significant role in the formation of secondary organic and
-inorganic minerals through processes known as mycogenic mineral
-precipitation. These transformations occur via both metabolism-independent
-and metabolism-dependent mechanisms, influencing soil chemistry, nutrient
-availability, and metal mobility in
-terrestrial environments.
-
-## Mechanisms of Mineral Precipitation
-
-Precipitation, nucleation, and deposition of crystalline material on and
-within fungal cell walls are influenced by environmental pH and the
-composition of cell walls themselves. The process may be important in soil
-as the precipitation of carbonates, phosphates and hydroxides increases
-soil aggregation. Cations such as Si4+, Fe3+, Al3+ and Ca2+, which may be
-released through dissolution mechanisms, stimulate precipitation of
-compounds that act as bonding agents for soil particles. Hyphae can enmesh
-soil particles, alter alignment and also release organic metabolites that
-enhance aggregate stability.
-
-## Carbonate Precipitation
-
-Microbial carbonate precipitation coupled with silicate weathering could
-provide an important sink for CO2 in terrestrial environments. In
-limestone, fungi and [[lichens]] are considered to be
+tags: [[lichens]] are considered to be
 important agents of mineral deterioration. Many near-surface limestones
 (calcretes), calcic and petrocalcic horizons in soils are often
 secondarily cemented with calcite (CaCO3) and whewellite (calcium oxalate
@@ -118,11 +86,7 @@ substrates. An estimated 6% of the Earth's land surface is covered by
 lichen-dominated vegetation.
 
 ### Mycorrhizas
-[[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] are involved in proton- and
-ligand-promoted metal mobilization from mineral sources, metal
-immobilization via biosorption and accumulation within biomass, and
-extracellular precipitation of mycogenic toxic metal oxalates.
-Biogeochemical activities of [[mycorrhizal-fungi]] lead to changes in the
+[[mycorrhizal-fungi]] lead to changes in the
 physicochemical characteristics of the root environment and enhanced
 weathering of soil minerals, resulting in metal cation release. This
 symbiotic weathering capacity significantly extends the mineral nutrient
@@ -130,5 +94,4 @@ access of host plants beyond what roots alone could achieve.
 
 ## See Also
 
-- [[mycogenic-mineral-precipitation]]
 - [[dighton-fungal-rock-weathering-mineral-dissolution]]

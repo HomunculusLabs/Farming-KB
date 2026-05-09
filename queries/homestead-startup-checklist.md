@@ -37,10 +37,15 @@ sources:
 - concepts/cover-cropping.md
 - concepts/seed-saving.md
 ---
+
 # Homestead Startup Checklist
+
 A phased startup plan synthesizing the wiki's homesteading knowledge into actionable steps. Assumes USDA Zone 7-8, 2-10 acres. Adapt timelines and scale to your site. See [[seasonal-planning]] for the full monthly calendar.
+
 ## Phase 0: Planning & Site Design (Before Moving In)
+
 **Budget**: $0-500 (books, tools, soil test)
+
 - [ ] Walk the property in all seasons \u2014 map sun, wind, water flow, frost pockets (see [[permaculture-design]] sectors)
 - [ ] Draw zone map: Zone 0 (house) through Zone 5 (wilderness)
 - [ ] Soil test \u2014 send samples for NPK, pH, CEC, organic matter
@@ -48,8 +53,11 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Order seeds: December-January from Johnny's, High Mowing, Baker Creek (see [[seed-saving-techniques]])
 - [ ] Design compost area between kitchen and garden
 - [ ] Identify existing trees, wetlands, slopes \u2014 work with, not against
+
 ## Phase 1: Critical Infrastructure (First Month)
+
 **Budget**: $500-2,000
+
 - [ ] Install rainwater catchment at every downspout (see [[water-management]])
 - [ ] Set up 3-bin compost system near kitchen (see [[composting-systems]])
 - [ ] Install vermicompost bin for kitchen scraps (see [[vermicomposting]])
@@ -58,22 +66,29 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Test well water quality if applicable
 - [ ] Install basic irrigation (hose bibs, drip lines from tanks)
 - [ ] Start [[cover-cropping-guide]] any bare soil (crimson clover, winter rye)
+
 ## Phase 2: Animals \u2014 Months 1-3
+
 **Budget**: $500-1,500
+
 **Start with ducks** (easier than goats, pest control from day one):
 - [ ] Build predator-proof duck shelter (hardware cloth, not chicken wire) \u2014 see [[duck-keeping]]
 - [ ] Set up duck pond/kiddie pool and automatic waterer
 - [ ] Order ducklings (Welsh Harlequin or Khaki Campbell for eggs)
 - [ ] Stock niacin supplement for ducklings
 - [ ] Plan rotational grazing paddocks with electro-net fencing
+
 **Then add goats** (month 2-3):
 - [ ] Build 3-sided shelter, minimum 15-20 sq ft per goat \u2014 see [[goat-keeping]]
 - [ ] Install woven wire fence (4 ft) + electric offset; goats are escape artists
 - [ ] Order minerals (loose goat-specific with copper, not sheep minerals)
 - [ ] Source hay supplier; plan 2-4 lbs/day per adult goat
 - [ ] Set up milking stanchion if keeping dairy breeds (Nigerian Dwarf or Nubian)
+
 ## Phase 3: Garden & Soil \u2014 Months 2-4
+
 **Budget**: $300-800
+
 - [ ] Build raised beds or Hugelkultur mounds (see [[homesteading-infrastructure]])
 - [ ] Sheet mulch new garden areas (cardboard + compost + mulch)
 - [ ] Amend soil based on test results \u2014 see [[soil-fertility-management]]
@@ -82,8 +97,11 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Plant [[cover-cropping-guide]] between rows and on fallow beds
 - [ ] Set up [[greenhouse-design]] or cold frame for season extension
 - [ ] Begin weekly compost tea applications (see [[compost-tea-aact]])
+
 ## Phase 4: Perennials & Food Forest \u2014 Months 3-12
+
 **Budget**: $500-2,000
+
 - [ ] Plant fruit trees (bare-root, late winter) \u2014 see [[food-forest-design]]
 - [ ] Plant berry bushes (blueberry, raspberry, elderberry, blackberry)
 - [ ] Establish herb garden (perennial: sage, thyme, rosemary, lavender; see [[herbal-medicine]])
@@ -92,15 +110,20 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Install swales or contour planting for water management
 - [ ] Order and plant asparagus crowns, rhubarb, strawberry runners
 - [ ] Begin [[seed-saving-techniques]] from open-pollinated varieties
+
 ## Phase 5: Food Processing & Preservation \u2014 Months 6-12
+
 **Budget**: $200-600
+
 - [ ] Set up root cellar or cool storage area (see [[food-preservation-canning]])
 - [ ] Acquire pressure canner, water bath canner, dehydrator
 - [ ] Start fermentation station (sauerkraut, kimchi, kombucha)
 - [ ] Build or buy drying racks for herbs and fruits
 - [ ] Process first harvest: can tomatoes, freeze beans, dry herbs
 - [ ] Render animal fats, make broth from bones (see [[animal-byproducts]])
+
 ## Phase 6: Advanced Systems (Year 2+)
+
 - [ ] Expand [[greenhouse-design]] to 20x48 ft for year-round production
 - [ ] Start dairy processing (chevre, yogurt, hard cheese) \u2014 see [[goat-keeping]]
 - [ ] Add beehives for pollination and honey
@@ -108,7 +131,9 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Build integrated mushroom cultivation on logs and spent substrate
 - [ ] Set up greywater system from house to garden
 - [ ] Explore solar panels, rocket stove, or other energy systems
+
 ## First Year Calendar
+
 | Month | Focus | Key Actions |
 |-------|-------|-------------|
 | Jan | Plan | Soil test, seed orders, zone mapping, fencing |
@@ -123,13 +148,17 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 | Oct | Winterize | Plant garlic/cover crops, root cellaring, clean grow space |
 | Nov | Rest | Mulch perennials, greenhouse winter growing, evaluate year |
 | Dec | Plan | Tool repair, seed orders, review and adjust systems |
+
 ## Key Principles
+
 1. **Start small, observe, expand** \u2014 don't build everything at once
 2. **Close the loops** \u2014 animal manure \u2192 compost \u2192 garden \u2192 food \u2192 scraps \u2192 compost
 3. **Water first** \u2014 nothing works without reliable water infrastructure
 4. **Soil is everything** \u2014 invest in compost, biology, and no-till before buying inputs
 5. **Animals integrate systems** \u2014 ducks eat pests, goats clear brush, manure feeds soil
+
 ## See Also
+
 - [[homesteading-infrastructure]] \u2014 core systems design and layout
 - [[seasonal-planning]] \u2014 full monthly task calendar for Zone 7-8
 - [[permaculture-design]] \u2014 zone and sector analysis methodology
@@ -142,5 +171,7 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [[food-preservation-canning]] \u2014 canning, fermentation, dehydrating, root cellaring
 - [[seed-saving-techniques]] \u2014 open-pollinated varieties, isolation, storage
 - [[cover-cropping-guide]] \u2014 cover crop selection and management
+
 ## Related
+
 - [[outdoor-shelter-building]]

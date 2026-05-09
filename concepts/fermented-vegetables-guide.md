@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [preservation, food]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 # Fermented Vegetables Guide
 
@@ -78,15 +79,7 @@ The most widely known fermented vegetable. Made from shredded cabbage and salt. 
 
 ### Kimchi
 
-Korean fermented vegetables, most commonly based on napa cabbage and Korean radish. Kimchi includes a seasoning paste of gochugaru (Korean chili flakes), garlic, ginger, fish sauce or salted shrimp, and scallions. See [[kimchi-making]] for detailed instructions.
-
-### Pickles (Half-Sour and Full-Sour)
-
-Fermented cucumbers are a completely different product from vinegar pickles. Half-sour pickles are fermented for 3-7 days and retain a fresh cucumber character. Full-sour pickles are fermented for 2-4 weeks and develop a pronounced sour flavor.
-
-### Fermented Hot Peppers
-
-Hot peppers ferment beautifully and develop complex, layered heat. Fermented peppers can be used as a condiment or blended into hot sauce. See [[fermented-hot-sauce-guide]] for details.
+Korean fermented vegetables, most commonly based on napa cabbage and Korean radish. Kimchi includes a seasoning paste of gochugaru (Korean chili flakes), garlic, ginger, fish sauce or salted shrimp, and scallions. See [[fermented-hot-sauce-guide]] for details.
 
 ### Fermented Root Vegetables
 
@@ -116,11 +109,7 @@ Fermented vegetables are rich in probiotics, which support gut health and immune
 
 ## See Also
 
-- [[food-fermentation-guide]] for the broader science of food fermentation
 - [[kimchi-making]] for Korean fermented vegetable traditions
-- [[fermented-hot-sauce-guide]] for fermenting peppers
 - [[faires-food-fermentation-methods]] for homestead-scale fermentation
-- [[vinegar-making]] for another vegetable preservation method
 - [[small-scale-dairy-guide]] for fermented dairy products
-- [[compost-tea-brewing-methods]] for fermentation in gardening context
 - [[lacto-fermentation-and-food-preservation-methods]]

@@ -25,7 +25,7 @@ Myoglobin is regulated mainly by oxygen availability and cellular demand.
 | Feature | Hemoglobin | Myoglobin |
 |---|---|---|
 | Main location | Red blood cells | Skeletal and cardiac muscle cells |
-| Main role | Oxygen transport | Oxygen storage and diffusion buffer |
+| Main role | hemoglobin and oxygen transport | Oxygen storage and diffusion buffer |
 | Structure | Tetramer | Monomer |
 | Heme groups | Four per molecule | One per molecule |
 | Binding curve | Sigmoidal | Hyperbolic |
@@ -67,34 +67,7 @@ Lower pH and higher carbon dioxide shift hemoglobin toward oxygen release throug
 2,3-BPG binds deoxygenated hemoglobin and stabilizes the low-affinity T state.
 Heat also promotes oxygen unloading in active tissues.
 These effects make hemoglobin sensitive to metabolic demand.
-Myoglobin lacks comparable allosteric regulation.
-Its oxygen affinity is mainly set by the structure of its single heme pocket.
-It functions as a reserve that releases oxygen only when intracellular oxygen pressure drops.
-## Transport vs Storage
-The best transporter is not necessarily the tightest binder.
-If hemoglobin had myoglobin-like affinity, it would load oxygen well but release too little to tissues.
-If myoglobin had hemoglobin-like moderated affinity, it would be less useful as a muscle reserve.
-Hemoglobin's lower and adjustable affinity makes it dynamic.
-Myoglobin's high affinity makes it stable.
-The two proteins therefore form a useful handoff system.
-Hemoglobin carries oxygen through blood to muscle capillaries.
-Myoglobin then helps move and store oxygen inside the muscle cell.
-## Carbon Monoxide Sensitivity
-Both proteins can bind carbon monoxide because carbon monoxide competes for the heme iron site.
-Hemoglobin poisoning is especially dangerous because it reduces blood oxygen-carrying capacity.
-Carbon monoxide also left-shifts hemoglobin's remaining oxygen-binding sites, impairing unloading.
-Myoglobin can also bind carbon monoxide, but systemic toxicity is dominated by hemoglobin effects.
-The distal histidine in globins reduces carbon monoxide's potential advantage over oxygen.
-Even so, carbon monoxide binds hemoglobin far more strongly than oxygen under many conditions.
-## Clinical and Laboratory Importance
-Hemoglobin concentration is a routine measure of blood oxygen-carrying capacity.
-Hemoglobin variants cause disorders such as sickle cell disease and thalassemias.
-Glycated hemoglobin is used to estimate long-term blood glucose exposure.
-Myoglobin can enter blood after muscle injury.
-Elevated myoglobin may occur in rhabdomyolysis and can contribute to kidney injury.
-Historically, myoglobin was also used as an early marker of myocardial injury before more specific tests became standard.
-Both proteins are important models in structural biology.
-Their heme chemistry helped establish principles of ligand binding and protein folding.
+Myoglobin lacks comparable [[cannabis-and-sickle-cell-disease]] such as sickle cell disease and thalassemi [[protein-folding-and-misfolding-diseases-biochemistry]] mistry helped establish principles of ligand binding and protein folding.
 ## Evolutionary Relationship
 Hemoglobin and myoglobin belong to the globin protein family.
 They share a conserved fold that positions heme in a hydrophobic pocket.
@@ -118,7 +91,5 @@ Myoglobin is a high-affinity monomer optimized for storage.
 A protein's usefulness depends not only on whether it binds oxygen, but on when and where it releases it.
 ## Related
 
-- [[query-how-does-hemoglobin-know-when-to-release-oxygen]] Topics
-- [[hemoglobin-oxygen-transport-biochemistry]]
 - [[hemoglobin-oxygen-transport-biochemistry]]
 - [[allosteric-regulation]]

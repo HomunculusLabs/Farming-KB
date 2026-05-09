@@ -108,15 +108,8 @@ In tropical agroecosystems, *A. spinosus* provides ground cover that reduces soi
 
 ## See Also
 
-- [[chenopodium-quinoa]]
 - [[chenopodium-pallidicaule]]
-- [[amaranthus-hypochondriacus]]
 - [[spinacia-oleracea]]
-- [[beta-vulgaris]]
 - [[portulaca-oleracea]]
-- [[permaculture]]
-- [[edible-weeds]]
-- [[polyculture]]
 - [[agroforestry]]
-- [[companion-planting]]
 - [[capsicum-annuum]]

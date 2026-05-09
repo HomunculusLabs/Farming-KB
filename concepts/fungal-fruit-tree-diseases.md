@@ -121,8 +121,10 @@ an essential component of sustainable disease management programs.
 
 ## See Also
 
-- [[orchard-fungal-ecology]]
 - [[mycorrhizal-fungi-fruit-trees]]
 - apple scab
-- [[comparison-white-rot-vs-brown-rot-fungi]]
 - [[fukuoka-orchard-floor-management]]
+
+## See Also
+
+- [[fukuoka-natural-fruit-tree-pest-control]]

@@ -26,20 +26,7 @@ sources:
 - **Genus:** *Psilocybe*
 - **Species:** *P. moellerii*
 
-Originally described by Guzmán from Brazilian collections. Named in honor of a contributor to Brazilian [[mycology]]. Sometimes treated in the broader sense of *Psilocybe* Section *Coprophilae*, which encompasses dung-inhabiting species within the genus.
-
-## Description
-
-### Cap (Pileus)
-- **Diameter:** 8–25 mm, conic to campanulate when young, expanding to convex with age
-- **Color:** Dark reddish-brown to brown, fading to ochraceous or tan when dry
-- **Surface:** Smooth, somewhat viscid when fresh, hygrophanous
-- **Margin:** Translucently striate at maturity, sometimes splitting slightly
-- **Context:** Thin, bruising blue to blue-green
-
-### Gills (Lamellae)
-- Adnexed to broadly adnate, close
-- Grayish when young, becoming dark purplish-brown to nearly black with [[spore]] maturity
+Originally described by Guzmán from Brazilian collections. Named in honor of a contributor to Brazilian [[spore]] maturity
 - Lamellulae (short gills) of varying lengths, in 2–3 tiers
 
 ### Stipe (Stem)
@@ -62,11 +49,7 @@ A neotropical species found primarily in Brazil, Colombia, and other parts of no
 
 ## Chemistry and Pharmacology
 
-Contains psilocybin and psilocin. Quantitative analyses indicate moderate potency. The species bluing reaction is strong and immediate, consistent with significant concentrations of [[tryptamine]] alkaloids. Baeocystin may also be present but has not been systematically quantified. Analytical work by Gartz and others on related coprophilous *Psilocybe* species suggests that dung-growing specimens can exhibit considerable variability in alkaloid content depending on substrate and environmental conditions.
-
-## Similar Species
-
-*Psilocybe cubensis* is the most commonly confused species in overlapping habitats; *P. moellerii* is distinguished by its smaller size, conic to campanulate cap that does not expand as broadly, and smaller, differently proportioned spores. *Psilocybe coprophila* is a non-psychoactive lookalike that lacks bluing reactions and has thinner-walled spores without a prominent germ pore. *[[panaeolus-cyanescens]]* also grows on dung in the same regions but belongs to a different genus and has black spores and a mottled gill pattern.
+Contains psilocybin and psilocin. Quantitative analyses indicate moderate potency. The species bluing reaction is strong and immediate, consistent with significant concentrations of [[panaeolus-cyanescens-entity]]* also grows on dung in the same regions but belongs to a different genus and has black spores and a mottled gill pattern.
 
 ## Cultivation
 
@@ -75,3 +58,26 @@ No established cultivation protocols exist specifically for *P. moellerii*. Its 
 ## Etymology
 
 Named for its original collector or descriptor associated with early mycological work in Brazil. The specific epithet commemorates contributions to tropical mycological exploration in the region.
+
+## See Also
+
+- [[neotropical-psilocybin-mushrooms]]
+## Practical Considerations
+
+Successful implementation of Psilocybe moellerii requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

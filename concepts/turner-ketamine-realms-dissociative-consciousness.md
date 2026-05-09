@@ -18,9 +18,7 @@ Davis and distributed by several pharmaceutical companies, ketamine is
 a general anesthetic whose psychedelic properties were discovered after
 recipients reported "reemergence" experiences while coming out of
 anesthesia. Further experiments showed that doses much smaller than the
-anesthetic dose produce [[weil-psychedelic-experience-set-and-setting]]s of incredible intensity.
-Turner rated ketamine at intensity level 10 to Infinity, placing it
-beyond all [[psilocybin-vs-other-psychedelics]] in its capacity to dissolve the
+anesthetic dose produce [[psilocybin-vs-other-psychedelics]] in its capacity to dissolve the
 boundaries of consciousness.
 
 ## Material and Forms
@@ -138,8 +136,5 @@ addiction by providing insights into its negative effects.
 
 ## Related
 
-- [[ketamine-dissociative-pharmacology]] Topics
-
 - [[turner-dmt-hyperspace-and-smoked-tryptamines]]
-- [[turner-2cb-erotic-empathogen]]
 - [[leary-psychedelic-experience-bardo-mapping]]

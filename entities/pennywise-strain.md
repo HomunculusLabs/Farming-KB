@@ -141,9 +141,10 @@ other.
 
 ## See Also
 
-[[harlequin-cannabis]] is the CBD-rich Sativa-dominant parent of
-Pennywise. [[sour-tsunami]] represents another approach to high-CBD
-breeding with different parent genetics. [[cannabidiol-cbd]] covers
-the pharmacology of the compound that defines this strain's medical
-utility. [[jack-herer]] shares lineage through Jack the
+[[sour-tsunami]] represents another approach to high-CBD
+breeding with different parent genetics. [[jack-herer]] shares lineage through Jack the
 Ripper's genetic background in modern breeding programs.
+
+## See Also
+
+- [[cannabis-health-strains-sativa-indica]]

@@ -100,9 +100,6 @@ With water scarcity affecting much of the world — by 2025, an estimated 3 bill
 
 ## See Also
 
-- [[jeavons-grow-biointensive-method-overview]] — The complete method
 - [[jeavons-double-digging-bed-preparation]] — Soil preparation for water retention
-- [[jeavons-composting-methods]] — Compost for moisture retention
 - [[jeavons-flat-preparation-seedling-raising]] — Watering seedlings in flats
-- [[jeavons-master-planning-mini-farms]] — Planning irrigation schedules
 - [[jeavons-natural-pest-control]] — Plant health through proper watering

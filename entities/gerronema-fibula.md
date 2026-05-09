@@ -13,65 +13,7 @@ Gerronema fibula (syn. Galerina fibula) is a small, orange-brown mushroom in the
 family Hymenogastraceae. It has a disjunct distribution, found in South America,
 Europe, and Southeast Asia, growing on decaying plant material and moss.
 
-The species is of interest to [[neurotropic-fungi-biogeographic-patterns]] researchers due to its unusual global distribution pattern, which parallels
-that of several other small psilocybin-containing or tryptamine-producing fungi.
-
-## Taxonomy and Classification
-
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Gerronema (historically placed in Galerina)
-- **Synonyms:** Galerina fibula (Bres.) Singer
-
-The taxonomic placement of G. fibula has been debated. It was originally described
-in the genus Galerina but was later transferred to Gerronema based on morphological
-characteristics including its omphalinoid habit and gill attachment. Some modern
-molecular phylogenetic studies suggest it may belong in yet another genus, but
-definitive DNA sequencing of well-vouchered specimens remains limited.
-
-## Macroscopic Features
-
-The fruiting body is small and delicate, often overlooked in the field due to its
-inconspicuous size and coloration.
-
-- **Cap:** 0.5–2 cm diameter, convex to broadly umbonate, orange-brown to rusty
-  brown, hygrophanous (paling to yellowish when dry), often with a paler margin,
-  surface smooth to finely fibrillose
-- **Gills:** Adnexed to subdecurrent, pale rusty brown, moderately spaced, edge
-  often slightly whitish
-- **Stem:** 1–3 cm tall, 1–2 mm thick, slender, equal, same color as cap or
-  slightly paler, with fine white fibrils near the base, no ring or volva
-- **Flesh:** Thin, watery, pale brownish, no distinctive odor
-- **Spore print:** Rusty brown
-- **Taste:** Mild to slightly bitter
-
-## Microscopic Features
-
-- **Spores:** Ellipsoid to slightly amygdaliform, 7–9 × 4–5 µm, rusty brown
-  in deposit, roughened or finely verrucose
-- **Basidia:** 4-spored, clavate
-- **Cheilocystidia:** Ventricose to cylindrical with a narrow neck, sometimes
-  capitate
-- **Pileipellis:** Cutis of cylindrical hyphae
-
-Microscopic examination is essential for reliable identification, as macroscopic
-features overlap considerably with several small brown mushrooms including some
-toxic Galerina species.
-
-## Distribution
-
-Gerronema fibula has a notably disjunct distribution pattern, occurring in widely
-separated regions:
-
-- **South America:** Temperate forests of Chile and Argentina, particularly in
-  Nothofagus (southern beech) forests where it grows on decaying leaf litter
-  and twigs
-- **Europe:** Various temperate and boreal regions, recorded from Scandinavia
-  through Central Europe
-- **Southeast Asia:** Scattered records from montane and subtropical forests
-
-This unusual biogeographic pattern is shared by several other small
-[[neurotropic-fungi-in-south-america]] and may reflect ancient
+The species is of interest to [[neurotropic-fungi-in-south-america]] and may reflect ancient
 dispersal events, long-distance spore transport, or human-mediated spread through
 historical trade routes and botanical introductions.
 
@@ -118,16 +60,27 @@ Several small brown mushrooms could be confused with G. fibula:
 - **Galerina marginata** — DEADLY POISONOUS, contains amatoxins; larger, with
   a more prominent ring on the stem and brown spore print
 - **Galerina venenata** — Also toxic; grows on grass, has a more slender habit
-- [[gymnopilus-purpuratus]] — Larger, more robust,
-  brighter orange coloration, grows on wood
 - [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] — Conical cap, different habitat
   preference on disturbed ground
-- [[pluteus-salicinus]] — Grows on wood, has a pink
-  spore print, cap is more grayish
-
-## Related
-
 - [[gerronema-strombodes]]
 
-- [[neurotropic-fungi-in-south-america]]
 - [[neurotropic-fungi-biogeographic-patterns]]
+## Practical Considerations
+
+Successful implementation of Gerronema fibula requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -108,8 +108,6 @@ to Cyrenaican silphium.
 
 ## See Also
 
-- [[ferula-assafoetida]]
 - [[boswellia-sacra]]
-- [[commiphora-myrrha]]
 - [[mescaline-entity]]
-- [[psilocybin-compound]]
+- [[psilocybin]]

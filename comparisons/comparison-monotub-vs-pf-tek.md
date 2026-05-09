@@ -12,15 +12,10 @@ type: comparison
 
 ## Overview
 
-[[monotub-cultivation]] and [[pf-tek-guide]] represent two foundationapsilocybe-fanaticuswing mushrooms at home, each occupying a different position on
+[[pf-tek-guide]] represent two foundationapsilocybe-fanaticuswing mushrooms at home, each occupying a different position on
 the spectrum of complexity, cost, and yield.
 
-PF TEK ([[psilocybe-fanaticus]] Technique) was first published in 1992 and remains
-the most accessible entry point for home mycology. Monotub cultivation builds
-on the principles of grain spsubstrate-preparatione to achieve significantly
-higfruiting-chambermore streamlined process.
-
-The two methods differ primarily in their [[substrate-preparation]], sterilization
+PF TEK ([[substrate-preparation]], sterilization
 requirements, fruiting chamber design, and overall scalability. PF TEK uses a
 simple brown rice flour and vermiculite mixture sterilized in half-pint mason
 jars, while monotub cultivation uses colonized grain spawn mixed with a bulk
@@ -60,52 +55,7 @@ monitoring, and humidity management without the complexity of grain work.
 
 ## Monotub Cultivation: The Yield Standard
 
-[[monotub-cultivation]] introduces a two-stage process: first, colonizing
-grain spawn (typically rye, oats, or millet) inside quart jars sterilized in
-a pressure cooker; second, mixing that colonized spawn with a pasteurized bulk
-substrate inside a modified monotub. The bulk substrate, most commonly CVG
-(coco coir, vermiculite, and gypsum), provides the water and nutrients needed
-for large fruiting surfaces. Coco coir
-is naturally clean and can be pasteurized simply by hydrating it with boiling
-water, eliminating the need for complicated pasteurization equipment.
-
-The standard ratio is approximately one quart of grain spawn to two to four
-quarts of CVG substrate. The monotub itself is a large plastic storage bin
-(typically 50 to 80 quarts) modified with holes covered in micropore tape or
-polyfill for gas exchange, providing the fresh air exchange (FAE) needed to
-trigger fruiting and support healthy mushroom development.
-
-The entire tub functions as both the colonizing and fruiting chamber, simplifying
-the process considerably compared to separate chambers. Monotub yields are
-dramatically higher than PF TEK. A single 66-quart monotub can produce 2 to 6
-ounces (56 to 170 grams) dry on the first flush alone, with additional flushes
-bringing the total to 4 to 10+ ounces.
-
-This represents a roughly five to tenfold increase in yield compared to a
-12-jar PF TEK setup. The monotub approach also scales efficiently, as a single
-pressure cooker run can produce enough grain spawn for multiple tubs.
-
-## Grain Spawn: The Bridge Between Methods
-
-The transition from PF TEK to monotub cultivation is centered on learning to
-prepare and inoculate grain spawn. Grain spawn is created by sterilizing whole
-grains — rye berries, oats, wild bird seed, or millet — in quart jars at 15
-PSI for 90 to 120 minutes. The cooked, sterile grains provide an ideal
-nutrient-rich medium for mushroom mycelium to colonize rapidly. Grain spawn requires a pressure cooker because the nutrient-dense grains are
-highly susceptible to bacterial contamination if only steam-sterilized. This is
-the primary equipment barrier that separates PF TEK from monotub cultivation,
-though a basic pressure cooker capable of 15 PSI can be purchased for $50-80.
-
-Once colonized, grain spawn can be used to inoculate more grain (grain-to-grain
-transfer) for exponential expansion, or mixed directly with bulk substrate for
-fruiting. This scalability gives monotub cultivation its significant yield
-advantage over PF TEK.
-
-## Key Differences
-
-| Feature | PF TEK | Monotub |
-|---|---|---|
-| Pressure cooker needed | No (steam sterilization) | Yes (for grain [[substrate-pasteurization]]RF + vermiculite | Grain spawn + bulk CVG |
+[[substrate-pasteurization]]RF + vermiculite | Grain spawn + bulk CVG |
 | Sterilization method | Boiling pot | Pressure cooker (15 PSI) |
 | Substrate pasteurization | Not needed | Bucket tek or heat pasteurization |
 | Typical container | Half-pint jars | 50-80 quart plastic bin |

@@ -32,7 +32,7 @@ Best breeds for grass-fed systems:
 
 Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass: hybrid vigor, good growth rates, acceptable marbling.
 
-## [[pasture-management]]
+## Pasture Management
 
 ### Stocking Density
 - General rule: 1-2 acres per cow-calf pair per year (varies by region and rainfall)
@@ -118,7 +118,7 @@ Improving finish quality:
 - Farmers markets: sell frozen cuts, take pre-orders
 - Buying clubs: sell quarter/half beef shares (best margin, least labor)
 - Restaurant sales: chefs pay premium for local grass-fed
-- Online: [[online-homestead-sales]] platforms
+- Online: online homestead sales platforms
 - On-farm store: if location permits
 - Word of mouth and repeat customers are the strongest channels
 

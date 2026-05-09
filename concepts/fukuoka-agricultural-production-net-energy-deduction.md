@@ -97,14 +97,7 @@ Such scenes can still be found in poor villages not yet swallowed by modern civi
 
 ## The Octopus Eating Its Own Legs
 
-Fukuoka connected energy-deductive agriculture to his [[fukuoka-money-sucking-octopus-economy-critique]] metaphor: "We are the octopus congratulating itself for becoming fat by eating its own legs." High-tech farming methods create the illusion that food can be reliably produced even if the earth loses its fertility, but this illusion rests entirely on continued access to cheap petroleum.
-
-## Natural Farming as Energy Positive
-
-Fukuoka's natural farming method reverses this trend:
-
-- No petroleum inputs — no tractors, no synthetic fertilizers, no chemicals
-- [[fukuoka-clay-seed-pellets]] are made by hand with local materials
+Fukuoka connected energy-deductive agriculture to his [[fukuoka-clay-seed-pellets]] are made by hand with local materials
 - Ground covers of clover and vetch fix nitrogen naturally
 - Mulch from previous crops builds soil organic matter
 - The soil itself becomes increasingly fertile over time rather than being depleted
@@ -123,8 +116,6 @@ Fukuoka challenged the entire framing of "food production" as a goal:
 
 ## See Also
 
-- [[fukuoka-money-sucking-octopus-economy-critique]]
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
-- [[fukuoka-food-civilization-critique]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-natural-farming-global-influence]]

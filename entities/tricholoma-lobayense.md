@@ -22,42 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 - **Genus:** Tricholoma
 - **Species:** T. lobayense
 
-The species was originally described from specimens collected in the Lobaye region of the Central African Republic, from which its specific epithet derives. It is closely related to other medicinal Tricholoma species, including [[tricholoma-matsutake]], which is one of the most prized mushrooms in Asian medicine and cuisine.
-
-## Morphology
-
-Tricholoma lobayense produces medium-sized basidiocarps (fruiting bodies) with the following characteristics:
-
-- **Cap:** Convex to plano-convex, expanding with age. Surface is typically smooth and may range in color from pale brown to tan. Cap diameter generally ranges from 3 to 8 cm.
-- **Gills:** Adnexed to sinuate, white to cream-colored, becoming slightly pinkish with age. The gills are relatively close and may display a faint forking pattern.
-- **Stipe:** Central, cylindrical, slightly tapering toward the base. White to pale brown, often with a smooth or slightly fibrillose surface. A partial veil may be present in young specimens.
-- **Flesh:** White, firm, with a mild to slightly farinaceous odor and taste.
-- **Spore print:** White to cream.
-- **Spores:** Ellipsoidal, smooth, thin-walled, non-amyloid.
-
-The overall appearance is similar to other Tricholoma species, requiring microscopic examination for definitive identification. Care must be taken to distinguish it from potentially toxic Tricholoma species, some of which contain gastrointestinal irritants.
-
-## Distribution and Habitat
-
-T. lobayense is primarily found in tropical and subtropical regions of West and Central Africa. It grows as a saprotrophic or possibly ectomycorrhizal species, associated with forest soils rich in organic matter. It has been documented in:
-
-- Central African Republic (type locality, Lobaye region)
-- Cameroon
-- Democratic Republic of Congo
-- Nigeria
-- Other countries in the Guinean forest-savanna mosaic
-
-The species fruits during the rainy season when humidity and temperature conditions are favorable for fungal growth. It is typically found in lowland tropical forests, often in association with hardwood trees.
-
-## Chemical Composition
-
-Research on the chemical constituents of T. lobayense has identified several bioactive compounds:
-
-- **Polysaccharides:** Beta-glucan-type polysaccharides constitute the primary bioactive fraction. These water-soluble polysaccharides have demonstrated immunomodulatory activity, including stimulation of macrophage activity and enhancement of natural killer (NK) cell function.
-- **Proteins and peptides:** The mushroom contains various proteins, including some with reported lectin-like activity.
-- **Ergosterol:** The fungal sterol ergosterol (provitamin D2) is present in significant quantities, as with most basidiomycete mushrooms.
-- **Phenolic compounds:** Various phenolic acids and related antioxidants have been detected, contributing to the mushroom's free radical scavenging capacity.
-- **Triterpenoids:** Small amounts of triterpenoid compounds have been isolated, though they are less prominent than in species like [[ganoderma-lucidum]].
+The species was originally described from specimens collected in the Lobaye region of the Central African Republic, from which its specific epithet derives. It is closely related to other medicinal Tricholoma species, including [[ganoderma-lucidum]].
 
 ## Medicinal Properties
 
@@ -70,7 +35,7 @@ The most extensively studied property of T. lobayense is its ability to modulate
 - Increased production of cytokines, including interleukins and tumor necrosis factor-alpha (TNF-α)
 - Enhancement of natural killer cell cytotoxicity against tumor cell lines
 
-These immunomodulatory effects are consistent with those observed in other medicinal mushrooms containing beta-glucans, such as [[lentinula-edodes]] (lentinan) and [[trametes-versicolor]] (PSK/PSP).
+These immunomodulatory effects are consistent with those observed in other medicinal mushrooms containing beta-glucans, such as [[trametes-versicolor-entity]] (PSK/PSP).
 
 ### Anti-Tumor Potential
 
@@ -106,7 +71,7 @@ Optimal growth temperatures appear to be in the range of 25-30°C, consistent wi
 
 ## Research Status
 
-T. lobayense remains significantly understudied compared to major medicinal mushrooms such as [[ganoderma-lucidum]] and [[lentinula-edodes]]. Key areas requiring further investigation include:
+T. lobayense remains significantly understudied compared to major medicinal mushrooms such as [[lentinula-edodes]]. Key areas requiring further investigation include:
 
 - Detailed structural characterization of immunomodulatory polysaccharides using NMR and mass spectrometry
 - Controlled in vivo studies evaluating efficacy in standardized animal tumor models
@@ -124,9 +89,7 @@ T. lobayense is generally regarded as safe for consumption based on traditional 
 
 ## See Also
 
-- [[tricholoma-tigrinum]]
-
 - [[tricholoma-matsutake]] — closely related prized medicinal and culinary mushroom
-- [[lentinan]] — beta-glucan immunomodulator from [[lentinula-edodes]]
-- [[schizophyllan]] — polysaccharide immunomodulator from [[schizophyllum-commune]]
-- [[psk-polysaccharide-krestin]] — protein-bound polysaccharide from [[trametes-versicolor]]
+- [[lentinula-edodes]]
+- [[schizophyllum-commune]]
+- [[trametes-versicolor-entity]]

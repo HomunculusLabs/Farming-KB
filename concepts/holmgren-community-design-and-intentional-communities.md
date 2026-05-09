@@ -3,7 +3,7 @@ title: Holmgren Community Design and Intentional Communities
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, sustainability]
+tags: [[permaculture, design, sustainability]
 sources: ["raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"]
 ---
 
@@ -34,66 +34,84 @@ These criteria are reflected in the alternative cultural movement:
 - Home birth, homoeopathy, herbal and traditional medicines, self-healing and personal growth
 - Home schooling, Waldorf (Steiner) and alternative schools, revitalised role for elders
 - Community gardens, city farms and subscription farming
-- [[holmgren-household-economy-and-self-reliance]] and ethical investment
-- Body corporate, co-operatives and other legal structures for community ownership and management
-- Bioregionalism, spirituality of place and indigenous cultural resurgence
-
-These elements are integral parts of a permaculture toolkit for building sustainable culture, complementary to the primary focus on sustainable land use. The degree to which they reflect the design criteria listed above predicts their likely persistence in a low-energy future.
-
-## Co-Housing
-
-"Rugged individualism" is often cited as preventing community living, but this ignores how individualism and socially autonomous existence have become the default wherever industrial affluence prevails. Interestingly, this trend is less apparent in affluent Scandinavia.
-
-The Danish co-housing movement might not be the way of life for the majority in Denmark, but neither is it regarded as weird. Co-housing generally involves a group of people jointly developing medium-density private apartments or houses integrated with some degree of commonly owned and used facilities. Key lessons:
-
-- People can live together and effectively self-govern their community
-- Common ownership structures make incorporation of ecological technologies a strong feature
-- This is a powerful alternative to the view that co-operating with neighbours is impossible or undesirable
-
-## Intentional Communities in Permaculture History
-
-Intentional communities have been a source of ideas on ethics, technical and social alternatives since the origin of permaculture:
-
-- **The Farm (USA):** A long-surviving intentional community of the late 1960s that influenced the design of the Tagari Permaculture community
-- **Tagari community (Tasmania):** Bill Mollison's community in Stanley, Tasmania, established in 1979. Although it lasted only a few years as a close-knit community with shared purse, its strategies influenced other communities — notably buying cheap houses in an existing small country town with farmland owned by the community within walking or bicycling distance.
-- **Fryers Forest:** Holmgren's own eco-village project, informed by lessons from previous communities
-
-## The Kibbutz Case Study
-
-The Zionist kibbutzim represent the most successful intentional community movement:
-
-- Succeeded in creating the nation state of Israel in 1948
-- Their success was partly due to hybrid community vigour — Jews from many different countries and cultural backgrounds
-- Many early kibbutzniks were socialist ex-urbanites from Eastern Europe, anti-religious if not atheist
-- Their decline since the 1970s partly reflects their own success in creating a strong, affluent nation following the path of all developed nations toward increasing individualism
-
-The kibbutz experience provides an instructive case study: successful communities can generate the very affluence that undermines community values. The US government and American Jewish community contributed to this change through aid, culture and politics.
-
-## Use of Ecology to Describe Community
-
-Several permaculture designers have used ecological terminology to describe social functions and community design:
-
-- "Pioneer community" — originally coined by ecologists to reflect social understandings
-- "Niche" — already appropriated by economists for markets
-- Differing types of ecological relationships provide a more sophisticated understanding than simply regarding co-operation as good and competition as bad
-- Shared beliefs and co-operative behaviour are fundamental to community success, but too much similarity in skills, ages, needs and personalities encourages competitive rather than co-operative relationships
-
-## The Fundamental Challenge
-
-Many people can see the enormous efficiency and savings in shared ownership of land, infrastructure and facilities. But as long as individual and nuclear family autonomy remain possible, more co-operative living arrangements seem a remote dream for most people.
-
-The hope that we can continue to live isolated from each other in a sustainable future is the social side of the illusion of a sustainable future in the technosphere. The belief that human nature demands segregated and uncooperative lives is arguably a greater impediment to sustainability than the belief that technology can solve environmental problems.
-
-Intentional communities are tackling the hard but rewarding job of evolving more integrated community life. They are at the vanguard of the social solutions for declining energy. That task requires patience and whole-hearted acceptance and embrace of complexity, rather than any illusion that forced simplicities can work.
-
-## Source
-
-From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holmgren, Principle 8 (Integrate Rather Than Segregate) and Principle 10 (Use and Value Diversity).
-
-## Related
-
 - [[holmgren-permaculture-village-and-community-design]]
-- [[permaculture-intentional-community-design]]
 - [[holmgren-intentional-communities-history]]
-- [[faires-permaculture-community-and-village-design]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Practical Applications
+
+Holmgren Community Design and Intentional Communities has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Holmgren Community Design and Intentional Communities. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

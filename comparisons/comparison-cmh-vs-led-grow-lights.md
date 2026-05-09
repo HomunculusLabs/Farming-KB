@@ -18,35 +18,6 @@ customization at a higher purchase price. The choice between them
 significantly impacts operating costs, grow room climate management,
 and final product quality.
 ## CMH
-[[cmh-grow-lights]]
-Ceramic Metal Halide, also called Light Emitting Ceramic or LEC,
-represents a refinement of traditional metal halide technology using a
-ceramic arc tube similar to the one used in high-pressure sodium
-lamps. The ceramic tube produces a broader, more balanced light
-spectrum than standard metal halide, with better color rendering and
-more uniform output across the photosynthetically active radiation
-range. The 315-watt CMH is the most common size, covering roughly the
-same cultivation area as a 400-watt HPS while consuming less
-electricity, with rated bulb life exceeding 20,000 hours of operation.
-The color temperature of 3,000 to 4,000 Kelvin provides strong blue
-spectral output for vegetative growth and sufficient red output for
-flowering, making CMH a rare single-lamp solution that performs
-credibly through the entire cannabis life cycle without switching
-fixtures. Additional benefits include ultraviolet light output in the
-UV-A and UV-B ranges that research suggests may stimulate terpene and
-THC production, enhancing both potency and aromatic quality. The light
-quality from CMH is widely regarded by experienced growers as
-producing excellent results with dense, resinous flowers.
-CMH fixtures produce moderate heat output, less than equivalent HPS
-systems but still requiring ventilation and possibly air conditioning
-depending on grow room size and ambient temperature. They require
-compatible electronic ballasts, which add to the initial system cost
-but are typically included with fixture purchases. Bulb replacement is
-needed every twelve to eighteen months for peak performance, as light
-output degrades gradually with use. The technology is mature and well-
-understood, with extensive community knowledge and proven performance
-records spanning many years of commercial and hobby cultivation.
-## LED
 [[cannabis-lighting-guide]]
 LED grow lights use arrays of light-emitting diodes, each producing
 specific wavelengths, to deliver targeted spectral output with high
@@ -121,9 +92,6 @@ efficiency continues to improve, hybrid approaches are becoming less
 common, with most new installations choosing pure LED systems for
 their superior efficiency.
 ## See Also
-- [[comparison-cmh-vs-hps-grow-lights]]
 - [[led-vs-hps-grow-lights]]
-- [[comparison-hps-vs-cmh]]
 - [[cannabis-lighting-guide]]
-- [[cannabis-indoor-grow-lighting-systems]]
 - [[cannabis-hid-lighting-specifications]]

@@ -15,21 +15,7 @@ sources:
 
 # Psychoactive Cacti of Central Mexico
 
-Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as [[ethnomycology]] substitutes in ceremonial and healing contexts. The [[mescalero-apache-peyote-use]] and other tribes of the region have traditionally employed these plants in rituals, though many contain alkaloid levels too low to produce significant psychoactive effects. Several of these species are now rare or endangered.
-
-## Peyotillo (Pelecyphora aselliformis)
-
-Peyotillo, botanically known as *Pelecyphora aselliformis*, is also called the hatchet cactus because of its oddly flattened tubercles. It grows in the state of San Luis Potosí in central Mexico. Despite its traditional use, peyotillo contains only traces of mescaline — far too minute to have any psychoactive effect.
-
-Its alkaloid profile includes anhalidine, anhaladine, hordenine, N-methylmescaline, pellotine, 3-demethyltrichocereine, β-phenethylamine, N-methyl-β-phenethylamine, 3,4-dimethoxy-β-phenethylamine, and N-methyl-3,4-dimethoxy-β-phenethylamine. Most of these alkaloids are also found in peyote-cultivation|lophophora (peyote) but in much larger quantities, making peyotillo pharmacologically insignificant by comparison.
-
-## Tsuwiri — False Peyote (Ariocarpus retusus)
-
-The Huichol name "tsuwiri" means False Peyote, reflecting its role as a deceptive plant in Huichol cosmology. The Huichol people make long pilgrimages to sacred places where peyote grows. They believe that if a person has not been properly purified, the spirits will lead them to the False Peyote instead, and partaking of it will cause madness or a bad trip.
-
-Tsuwiri is also known among some tribes as Chautle or Chaute — names shared with other *Ariocarpus* species. The plant contains hordenine, N-methyltryptamine in small amounts (about 0.02 percent), and traces of N-methyl-3,4-dimethoxy-β-phenethylamine and N-methyl-4-β-phenethylamine. It also contains a flavone called retusin (3,3',4',7-tetramethoxy-5-hydroxyflavone). From a scientific standpoint, the alkaloid quantities are insufficient to produce any psychoactive response.
-
-See [[false-peyotes-mexican-cactus-ethnobotany]] for broader coverage of false peyote species.
+Central Mexico is home to a remarkable diversity of cacti used by indigenous peoples as ethnomycology substitutes in ceremonial and healing contexts. The [[false-peyotes-mexican-cactus-ethnobotany]] for broader coverage of false peyote species.
 
 ## Sunami (Ariocarpus fissuratus)
 
@@ -39,61 +25,13 @@ Two varieties exist: var. *lloydii* and var. *fissuratus*, both with similar phy
 
 ## Doñana (Coryphantha macromeris)
 
-Doñana is a small cactus from northern Mexico that has attracted significant research interest because it contains [[cactus-alkaloids-reference]], a phenethylamine reputed to have approximately one-fifth the potency of [[mescaline-compound-profile]].
+Doñana is a small cactus from northern Mexico that has attracted significant research interest because it contains [[mescaline-compound-profile]].
 
 Its full alkaloid profile includes normacromerine, N-formylnor-macromerin, tyramine, N-methyltryptamine, hordenine, N-methyl-3,4-dimethoxy-β-phenethylamine, metanephrine, and synephrine (a macromerine precursor). Several other *Coryphantha* species contain macromerine along with most of these companion alkaloids, including *C. pectinada*, *C. elephantideus*, *C. runyonii*, and *C. cornifera* var. *echinus*.
 
 The practical limitation of Doñana is that macromerine typically constitutes only about 0.1 percent of the dried cactus. Since approximately one gram or more may be needed for a psychoactive effect, one would need to consume more than a kilo of dried material or about twenty pounds of fresh plant — clearly impractical. For this reason, extraction of the mixed alkaloids is necessary for anyone wishing to explore Doñana's psychoactive properties.
 
-See [[mescaline-biosynthesis-and-precursor-enhancement]] for methods of enhancing macromerine production in cultivated Doñana.
-
-## Dolichothele Species
-
-Several tribes occasionally use *Dolichothele* species as peyote-like sacraments. These include *D. baumii*, *D. longimamma*, *D. melalenca*, *D. sphaerica*, *D. surculosa*, and *D. uberiforma*. Recent investigations have revealed small amounts of N-methylphenethylamine, β-O-methylsynephrine, N-methyltryptamine, synephrine, hordenine, and dolichotheline (N-isovalerylhistamine).
-
-## Additional Species of Ethnobotanical Interest
-
-Beyond the well-documented species above, several other Mexican cacti have been identified in ethnobotanical surveys as holding ceremonial or medicinal significance among indigenous communities:
-
-- **Obregonia denegrii** (Artichoke cactus): Native to Tamaulipas, this rare monotypic genus is named after Álvaro Obregón. Contains tyramine (0.003%), hordenine (0.002%), and N-methyltyramine (0.0002%). These sympathomimetics are present in quantities far too minute for psychoactive effects. Its unique artichoke-like morphology has made it a prized collector's item, contributing to poaching pressure in the wild.
-
-- **Aztekium ritterii**: Endemic to a single cliff face in Nuevo León, this tiny cactus was once considered one of the rarest plants on Earth. Named in reference to the Aztec civilization, it was used traditionally by local peoples but contains only trace alkaloids insufficient for psychoactive activity. A second species, *A. hintonii*, was discovered in 1991 in a nearby canyon system.
-
-- **Astrophytum asterias**, **A. capricorne**, **A. myriostigma** (Bishop's cap): Occasionally used ceremonially by northern Mexican tribes. *A. asterias* (sea urchin cactus) contains traces of mescaline and hordenine but at levels far below psychoactive thresholds. These species are widely cultivated as ornamentals and their striking appearance has made them popular in the horticultural trade.
-
-- **Mammillaria micromeris** (Mulato): The Tarahumara claim it prolongs life, gives speed to runners, and clarifies vision for mystical insights. This tiny button cactus contains N-methyl-3,4-dimethoxy-β-phenethylamine and hordenine in trace amounts. Its use among runners suggests possible mild stimulant effects from the sympathomimetic alkaloids present.
-
-- **Epithelantha micromeris** (Rosapara or Button cactus): Believed by many botanists to be closely related to or conspecific with Mulato. Used by the Tarahumara for divination and healing. Contains small amounts of hordenine and N-methyltryptamine.
-
-- **Pachycereus pecten-aboriginum** (Cawe or Cardón): A massive columnar cactus used by the Seri people of Sonora. The flesh is fermented into a ceremonial beverage, and the seeds have traditional medicinal uses. Its psychoactive properties, if any, are mild and likely attributable to hordenine and tyramine content.
-
-- **Strombocactus disciformis**: A rare globular cactus from central Mexico occasionally included in ethnobotanical surveys. Its alkaloid profile remains poorly studied but is believed to contain only trace amounts of sympathomimetic amines.
-- **Leuchtenbergia principis** (Agave cactus): A distinctive monotypic genus from central and northern Mexico with long, papery tubercles resembling agave leaves. Used occasionally by indigenous peoples as a peyote surrogate. Contains hordenine and trace N-methylphenethylamine but no significant mescaline content. Its unusual morphology has made it popular among cactus collectors, adding to conservation pressure.
-- **Coryphantha erecta**: Another member of the Coryphantha genus found in central Mexico, traditionally used alongside C. macromeris. Contains similar alkaloid profiles including macromerine and hordenine, though typically in lower concentrations than C. macromeris.
-
-- **Turbinicarpus species**: Several members of this genus, including *T. pseudopectinatus* and *T. schmiedickeanus*, have been used by indigenous peoples as peyote surrogates. Chemical analysis has consistently found only trace alkaloid levels.
-
-## Alkaloid Comparison Across Species
-
-The following table summarizes the major alkaloids found across Mexican psychoactive cacti, illustrating why peyote and Trichocereus species remain the only practically active genera:
-
-| Species | Primary Alkaloids | Mescaline Content | Practical Activity |
-|---------|------------------|-------------------|-------------------|
-| *Lophophora williamsii* (Peyote) | Mescaline, pellotine, lophophine | 1-6% dry weight | Strongly psychoactive |
-| *Trichocereus pachanoi* (San Pedro) | Mescaline, 3-methoxytyramine | 1-4% dry weight | Strongly psychoactive |
-| *Ariocarpus fissuratus* | Hordenine, N-methyltyramine | Trace | Inactive at normal doses |
-| *Ariocarpus retusus* | Hordenine, N-methyltryptamine (0.02%) | Trace | Inactive |
-| *Coryphantha macromeris* | Macromerine (0.1%), synephrine | None | Weakly active; impractical |
-| *Pelecyphora aselliformis* | Pellotine, hordenine, N-methylmescaline | Trace | Inactive |
-| *Obregonia denegrii* | Tyramine, hordenine | None | Inactive |
-| *Mammillaria micromeris* | Hordenine, N-methyl-3,4-DMPEA | Trace | Inactive |
-| *Astrophytum asterias* | Hordenine, trace mescaline | <0.01% | Inactive |
-
-## Modern Phytochemical Research
-
-Contemporary analytical methods including gas chromatography-mass spectrometry (GC-MS) and high-performance liquid chromatography (HPLC) have refined our understanding of cactus alkaloid profiles. Research published since the 1990s has confirmed that most Mexican "false peyote" species contain only trace quantities of phenethylamine alkaloids. However, some studies have identified previously unknown alkaloids in species like *Turbinicarpus* and *Ariocarpus*, suggesting that the full phytochemical diversity of Mexican cacti has not yet been catalogued.
-
-The [[mescaline-biosynthesis-and-precursor-enhancement]] for mescaline and related phenethylamines in cacti proceeds from the amino acid tyrosine through dopamine, 3,4-dihydroxy-5-methoxyphenethylamine, and 3,5-dimethoxy-4-hydroxyphenethylamine. Species that accumulate intermediates rather than completing the pathway to mescaline tend to have hordenine and tyramine as their primary alkaloids.
+See [[mescaline-biosynthesis-and-precursor-enhancement]] for mescaline and related phenethylamines in cacti proceeds from the amino acid tyrosine through dopamine, 3,4-dihydroxy-5-methoxyphenethylamine, and 3,5-dimethoxy-4-hydroxyphenethylamine. Species that accumulate intermediates rather than completing the pathway to mescaline tend to have hordenine and tyramine as their primary alkaloids.
 Interestingly, the total alkaloid content of most Mexican cacti ranges from 0.01% to 0.5% of dry weight, compared to peyote's 1-8% total alkaloids. This quantitative difference explains why indigenous peoples who used these species as peyote surrogates typically needed to consume much larger quantities. The practical difficulty of harvesting and consuming the required mass of material may have contributed to the preference for peyote in formal ceremony, even among communities where other species were available.
 
 ## Conservation Status and Legal Protection
@@ -109,12 +47,67 @@ The legal status of these cacti varies significantly by jurisdiction. In the Uni
 
 ## See Also
 
-- [[cactus-alkaloids-reference]]
 - [[mescaline-biosynthesis-and-precursor-enhancement]]
-- [[false-peyotes-mexican-cactus-ethnobotany]]
 - [[peyote-cultivation]]
-- [[psychoactive-cacti-species-reference]]
-- [[entheogenic-plants-and-psychoactive-flora]]
-- [[psychedelic-plants-chemical-guide]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]
 - [[cactus-alkaloids-reference]]
 - [[mescaline-compound-profile]]
+## Practical Considerations
+
+When working with Psychoactive Cacti of Central Mexico, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

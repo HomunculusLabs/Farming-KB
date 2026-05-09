@@ -3,18 +3,7 @@ title: Dune Stabilisation - Permaculture Designers Manual
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Dune Stabilisation
-
-From Permaculture: A Designers' Manual by Bill Mollison.
-
-## Overview
-
-Dune stabilisation is a critical component of [[permaculture-designers-manual-temperate-climate-design]] addressed extensively in the Designers' Manual. Sand dunes threaten settlements, farmland, and infrastructure through wind erosion and sand drift. The permaculture approach uses vegetation, earthworks, and strategic design to stabilise dunes and convert them from hazards to productive landscape elements.
+tags: [[permaculture-designers-manual-temperate-climate-design]] addressed extensively in the Designers' Manual. Sand dunes threaten settlements, farmland, and infrastructure through wind erosion and sand drift. The permaculture approach uses vegetation, earthworks, and strategic design to stabilise dunes and convert them from hazards to productive landscape elements.
 
 ## Dune Formation and Dynamics
 
@@ -124,10 +113,7 @@ The design approach recognises that "a series of dune forms, and uses of sand" c
 
 ## See Also
 
-- [[windbreak-and-shelterbelt-design]]
-- [[permaculture-water-harvesting-earthworks]]
-- [[nitrogen-fixing-trees]]
+- [[permaculture-earthworks-and-water-harvesting]]
 - [[permaculture-designers-manual-bamboo-species-uses]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-earth-building-techniques]]

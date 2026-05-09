@@ -130,8 +130,6 @@ combinations work best in your specific climate and soil conditions.
 
 ## See Also
 
-- [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
 - [[natural-farming-guide-cover-cropping-and-green-manures]]
-- [[natural-farming-guide-integrated-pest-management]]
 - [[natural-farming-guide-zone-design-system]]
 - [[natural-farming-guide-no-till-grain-strategy]]

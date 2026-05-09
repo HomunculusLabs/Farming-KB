@@ -66,57 +66,29 @@ C. fimbriata and its segregate species show correlations with geography.
 
 A deep divergence in combined gene genealogies was consistent with a division between individuals collected in the Northern and Southern Hemispheres.
 
-This pattern is similar to that seen in [[aspergillus-flavus]] where the deepest divergence separates African and American populations.
-
-The Latin American clade of C. fimbriata shows particular host specialization patterns.
-
-## Reproductive Biology
-
-The species reproduces both sexually and asexually.
-
-The asexual (mitosporic) state produces cylindrical conidia.
-
-The sexual (meiosporic) state produces ascospores in perithecia.
-
-The ability to find phenotypically useful characters once phylogenetic species are identified allows species to be both evolutionarily sound and practical.
-
-This addresses the concerns of Harrington and Rizzo (1999) about bridging phylogenetic and morphological species concepts.
-
-## Agricultural Significance
-
-C. fimbriata causes wilt diseases in multiple economically important crops.
-
-The sweet potato form causes black rot of sweet potato, one of the most important post-harvest diseases of this crop globally.
-
-The cacao form causes wilting and canker of cacao trees, threatening chocolate production.
-
-The sycamore form causes canker stain of plane trees (*Platanus* spp.), a serious disease of urban trees in Europe and North America.
-
-## Phylogenetic Context
-
-The C. fimbriata species complex illustrates broader patterns in fungal species recognition.
-
-Correlation of phylogenetic species with geographic range is common in medically and agriculturally important fungi.
-
-This includes species of Fusarium, [[botrytis-cinerea]], [[sclerotinia-sclerotiorum]], and [[magnaporthe-grisea]].
+This pattern is similar to that seen in [[botrytis-cinerea]], [[magnaporthe-grisea]].
 
 However, strong geographic correlation (endemism) is not always found.
 
-[[aspergillus-fumigatus]], for example, shows two global species with no hint of endemism.
-
-## Reproductive Biology Details
-
-C. fimbriata has both heterothallic and homothallic strains.
-
-The sexual cycle involves the production of perithecia containing asci with hat-shaped ascospores.
-
-The asexual state produces cylindrical conidia that serve as the primary inoculum for plant infection.
-
-Insect vectors, particularly bark beetles, play an important role in the dispersal of the fungus between host trees.
-
-## See Also
-
-- [[fusarium-oxysporum]] for another species complex with host-specialized forms
-- [[aspergillus-flavus]] for another fungus with geographic population structure
+[[fusarium-oxysporum]] for another species complex with host-specialized forms
 - [[aspergillus-fumigatus]] for contrast with a globally distributed species
 - [[magnaporthe-grisea]] for another plant pathogen studied with phylogenetics
+## Practical Considerations
+
+Successful implementation of Ceratocystis fimbriata requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

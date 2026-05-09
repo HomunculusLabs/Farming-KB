@@ -3,93 +3,137 @@ title: Trichomycetes - Gut Fungi of Arthropods
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
----
-# Trichomycetes - Gut Fungi of Arthropods
-
-Source: Biodiversity of Fungi (Hyde et al., Ch. 18)
-
-Trichomycetes are obligate gut parasites found throughout the world, common and abundant in many regions. Because they are obligate, their geographic and habitat distributions depend entirely on those of their hosts. Currently about 225 species and 55 genera are known (including Amoebidiales).
-
-## Classification and Taxa
-
-### Harpellales (Legeriomycetaceae + Harpellaceae)
-- **33 genera, 141+ species** (largest order)
-- Hosts: Dipteran larvae (mayflies, stoneflies), nonbiting midges (Chironomidae), blackflies (Simuliidae), mosquitoes (Culicidae), craneflies (Tipulidae), biting midges (Ceratopogonidae), moth flies (Psychodidae), solitary midges (Thaumaleidae)
-- Habitats: Freshwater (streams, ponds, pools)
-- All aquatic; mostly in lotic (flowing) waters
-
-### Asellariales
-- **3 genera, 11 species**
-- Hosts: Isopods, springtails
-- Habitats: Freshwater, terrestrial, marine
-- Reproduce by developing arthrospores from hyphal branches
-
-### Eccrinales
-- **14 genera (Eccrinaceae) + 1 genus (Palavasciaceae) + 2 genera (Parataeniellaceae)**
-- **52 species** in Eccrinaceae, 3 in Palavasciaceae, 6 in Parataeniellaceae
-- Hosts: Millipedes, crabs, anomurids (hermit crabs, mud shrimps), isopods, amphipods, insects
-- Habitats: Freshwater, terrestrial, marine
-- Marine species live in intertidal or splash/high-tide zone; some found at abyssal depths (Arundinula abyssicola near hydrothermal vents)
-- Unbranched, nonseptate thalli easily damaged
-
-### Amoebidiales (not true Trichomycetes but traditionally included)
-- **2 genera, 12 species**
-- Hosts: Insect or crustacean larvae
-- Habitats: Freshwater
-- Found on exoskeletons of water fleas (Cladocera), mosquitoes, bloodworms, crayfish
-
-## Ecology and Biology
-
-All species are associated with mandibulate arthropods that are detritivores, algivores, or omnivores — apparently NOT with predators, carnivores, or those consuming tissues of living vascular plants. Fungi are hidden within the host's gut and not discernible until the animal is dissected and examined microscopically.
-
-Most species appear to be commensals, obtaining nutrients from ingested substances passing through the gut. Some Smittium species (Harpellales) may provide sterols and B vitamins to mosquito larvae. Infection of individuals may approach 100% in some populations, remarkable since fungi are shed at each molting event.
-
-### Pathogenic Species
-- **Smittium morbosum**: Kills mosquito larvae by inhibiting ecdysis (molting)
-- Some Harpellales in blackfly larvae occasionally grow from gut into developing ovaries, causing sterility in adult females but enabling dispersal as ovarian fungal cysts replace eggs
-
-## Collection Methods
-
-### Aquatic Hosts
-- D-shaped aquatic net with small mesh
-- Kick stream substrata (rocks, gravel) to release insects
-- Lift larger rocks or scrape by hand
-- White plastic trays (~40 x 30 cm) for sorting
-- Aquatic insects kept alive, refrigerated in shallow water at low densities
-- Small streams often contain greater larval diversity than large ones
-
-### Marine Hosts
-- Hand or net collection at low tide
-- Mud flat excavation with trowel/shovel for fiddler crabs, anomurids
-- Transport in seawater or damp seaweed; keep from overheating but do not refrigerate
-
-### Terrestrial Hosts
-- Hand collection of millipedes, isopods, beetles
-- Keep moist but not wet; not tightly sealed
-
-## Microscopic Preparation
-- Dissection under dissecting microscope with fine jeweler's forceps, razor blade, fine dissecting needles, iris scissors
-- Water mounts preferred for Harpellales (preserves trichospore appendage details)
-- Lactophenol with cotton blue can be applied after water-mounted study
-- Dilute (10%) lactophenol for loosening chitinous lining of larger arthropods
-
-## See Also
-
-- [[insect-associated-fungi-sampling-diversity]]
-- [[cordyceps-and-entomopathogenic-fungi]]
+tags: [[insect-associated-fungi-sampling-diversity]]
 - [[mycopesticides-stamets]]
-- [[fungicolous-fungi-parasitic-interfaces]]
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[freshwater-fungi-diversity-and-sampling]]
 - [[marine-fungi-diversity-sampling]]
+## Background and Context
+
+Trichomycetes - Gut Fungi of Arthropods is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

@@ -138,13 +138,8 @@ storage of WS-K:
 - Improving drought and freezing resistance in plant tissues
 - Reducing lodging problems and increasing overall crop yield and
   quality
-
 ## See Also
 
-- [[knf-water-soluble-potassium-functions]]
-
 - [[knf-potassium-deficiency-and-excess]]
-- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[water-soluble-calcium-wca]]
-- [[korean-natural-farming]]
 - [[knf-nutritive-cycle-theory]]

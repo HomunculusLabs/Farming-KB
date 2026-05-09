@@ -21,12 +21,6 @@ plant layers vertically to maximize the yield from a given area of land. This
 approach mimics the structure of natural forests, where light, water, and
 nutrients are captured and recycled through multiple layers of vegetation.
 Bill Mollison considered multi-strata systems the highest expression of
-[[permaculture-design]], producing more food per unit area than any monoculture
-while building soil, conserving water, and creating habitat.
-
-## The Seven Layers of a Food Forest
-
-Mollison and Robert Hart both described a standard seven-layer model for
 [[food-forest-design]]. Understanding these layers is essential for allocating
 species and managing light competition:
 
@@ -93,51 +87,7 @@ Deep-rooted trees such as oak, walnut, and comfrey mine minerals and water
 from depths of 2 metres or more. Shallow-rooted species such as berries and
 herbaceous perennials occupy the top 30 to 60 centimetres. Nitrogen-fixing
 species with their associated rhizobial bacteria access nitrogen from air
-and share it through [[root-exudates]] and leaf litter.
-
-Designing for root stratification means selecting species with complementary
-root architectures and ensuring that planting densities do not create
-excessive below-ground competition. A useful rule of thumb is that the
-canopy spread of a tree approximates the extent of its root system.
-
-## Species Selection for Each Layer
-
-Choosing species for a multi-strata system requires knowledge of each
-species' mature size, light requirements, root depth, and compatibility
-with neighbours. Mollison emphasizes the importance of selecting species
-that serve multiple functions within each layer.
-
-For the canopy, timber and nut trees such as oak, chestnut, walnut, and
-pecan provide long-term yields while creating the overstory environment.
-Nitrogen fixers like black locust (Robinia), honey locust, and alder can
-be interspersed to supply nitrogen to the system.
-
-The sub-canopy is where most fruit production occurs. Apples, pears,
-persimmons, citrus, avocados, and loquats are classic sub-canopy species.
-Their light requirements vary; choose partially shade-tolerant varieties
-for positions beneath a dense canopy.
-
-## Succession Planning
-
-A multi-strata canopy does not reach its mature form overnight. Mollison
-stresses the importance of designing for succession, starting with fast-
-growing pioneer species that establish quickly and provide early yields
-while slower-growing climax species mature beneath them.
-
-A typical succession strategy begins with nitrogen-fixing pioneers and
-fast-growing short-lived trees that create shade and wind protection.
-Beneath these, the designer plants the intended long-term canopy and
-sub-canopy species. As the climax trees mature, pioneers are gradually
-removed for timber or mulch, opening space for the permanent system.
-
-This process may take 15 to 40 years to complete depending on climate and
-species. During the transition, the system remains productive because each
-successional stage yields useful products. The designer's role is to guide
-rather than force the succession toward the desired mature structure.
-
-## Integration with Other Systems
-
-Multi-strata canopy systems integrate naturally with [[mollison-designers-windbreak-design-species]], livestock grazing, and Mollison Designers  Aquaculture. Poultry can be run through the understory to control pests
+and share it through [[mollison-designers-windbreak-design-species]], livestock grazing, and Mollison Designers  Aquaculture. Poultry can be run through the understory to control pests
 and cycle nutrients. Swales and earthworks can be incorporated to manage
 water distribution across the sloping land typical of forest gardens.
 
@@ -147,3 +97,7 @@ This web of beneficial relationships is what distinguishes a designed food
 forest from a simple collection of trees.
 
 ## See Also
+
+## See Also
+
+- [[mollison-designers-forest-garden-layer-canopy-understory]]

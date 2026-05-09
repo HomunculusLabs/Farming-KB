@@ -107,14 +107,9 @@ Integrated management combining biological control agents, mechanical removal, a
 
 ## See Also
 
-- [[momordica-charantia]]
 - [[trichosanthes-cucumerina]]
-- [[cucurbita-pepo]]
 - [[lagenaria-siceraria]]
-- [[talinum-fruticosum]]
 - [[basella-alba]]
-- [[colocasia-esculenta]]
 - [[abelmoschus-esculentus]]
-- [[manihot-esculenta]]
 - [[dioscorea-alata]]
 - [[carica-papaya]]

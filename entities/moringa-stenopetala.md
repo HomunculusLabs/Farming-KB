@@ -123,11 +123,7 @@ and bacterial load by 80–95%, similar to *M. oleifera* seeds.
 
 ## See Also
 
-- [[moringa-oleifera]]
 - [[gliricidia-sepium]]
-- [[carica-papaya]]
 - [[mangifera-indica]]
-- [[colocasia-esculenta]]
 - [[vigna-unguiculata]]
-- [[artocarpus-heterophyllus]]
 - [[hibiscus-sabdariffa]]

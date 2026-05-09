@@ -15,17 +15,7 @@ Sheet mulching is a method of layering different sheets of materials together,
 something like a layer cake. The beauty of sheet mulching is that you can create
 a new garden without the hard labor of digging and turning dirt. It works for
 every soil type except for the hardest dirt, for which you would need to build
-a [[natural-farming-guide-raised-bed-and-intensive-gardening]]. Sheet mulching also stops every kind of weed, saving
-considerable work.
-
-## Step-by-Step Sheet Mulching Process
-
-1. Plant your largest trees and shrubs first. If you get this out of the way,
-   you won't have to go back and dig through your mulch later.
-
-2. Cover the area with a sprinkling of dolomite, and if the soil is clay, add
-   gypsum as well. Add any nitrogen that you can get, such as composted manure
-   fertilizer and kitchen [[natural-farming-guide-composting-methods-and-techniques]].
+a [[natural-farming-guide-composting-methods-and-techniques]].
 
 3. If you have spare hay that is unfit for any other use, make a 1 or 2 inch
    (2.5 to 5 cm) layer. If the area was covered with tall weeds, simply cut
@@ -66,29 +56,7 @@ considerable work.
 
 At the end of the first summer your soil will be immensely improved. You will
 need to add a small amount of fresh mulch as the season continues, and annuals
-can tolerate food scraps from the kitchen layered under the mulch where [[natural-farming-guide-vermicomposting-and-worm-based-soil-building]]
-will dispose of them immediately. Keep the mulch area well watered. It will
-take frequent watering to keep the area moist at first, but as time goes on,
-it will get better at maintaining moisture.
-
-## Ongoing Maintenance
-
-As the seasons pass, the mulch will settle and shrink. Keep adding layers and
-plant new things as the old ones are eaten, adding mulch layers each time. If
-weeds break through, smash them under and add wet newspaper and a layer of
-sawdust. Grass will give up eventually. If a strong root takes hold, dig it up,
-fill the hole with fresh kitchen scraps, and cover with mulch. Make sure not
-to bury any fresh wood products. They need to be broken down in the air first.
-Mulch should be loose and light, with many different materials mixed together
-to achieve good air texture.
-
-## Soil Repair Integration
-
-For very compacted soil, loosen it with a tool but don't turn it. A chisel plow
-cuts a slice into the ground without turning soil over, allowing air and water
-to be absorbed. On a slope, plow the channels diagonally to prevent water from
-flowing away too easily. In smaller gardens, use a garden fork rather than a
-plow. Water management through [[comparison-swale-design-vs-contour-swale-irrigation-design]] can further help retain moisture in
+can tolerate food scraps from the kitchen layered under the mulch where [[comparison-swale-design-vs-contour-swale-irrigation-design]] can further help retain moisture in
 sheet-mulched areas.
 
 ## Comparison to Traditional Tilling
@@ -133,14 +101,6 @@ finished compost to support root growth.
 
 ## Integration With Hugelkultur
 
-Sheet mulching can be combined with [[natural-farming-guide-hugelkultur-mounded-garden-beds]] by placing wood logs or
-branches at the bottom before adding the cardboard barrier layer. This creates
-a hybrid system that combines the water retention benefits of hugelkultur with
-the weed suppression and soil building of sheet mulching. The wood layer
-provides long-term nutrient release as it slowly decomposes over many years.
-
-## See Also
-
-- [[natfarm-sheet-mulching-garden-preparation]]
+Sheet mulching can be combined with [[natfarm-sheet-mulching-garden-preparation]]
 
 - [[mulching-in-natural-farming]]

@@ -91,30 +91,7 @@ has been applied, particularly in ornamental garden settings.
 The species seems to favor disturbed habitats where woody debris has
 been introduced, including parks, garden beds, and the edges of
 forested areas. It is sometimes found in association with other
-psilocybin mushrooms such as [[psilocybe-cyanescens]], which shares
-similar habitat preferences in the Pacific Northwest.
-
-## Potency and Chemistry
-
-Psilocybe baeocystis is considered one of the more potent
-psilocybin-containing mushrooms. Analysis has revealed the presence of
-psilocybin, psilocin, and baeocystin. The psilocybin content can be
-relatively high compared to other species, contributing to its common
-name "potent psilocybe." The concentration of active compounds can vary
-considerably depending on the specimen, its age, and growing
-conditions.
-
-## Identification Notes
-
-When identifying P. baeocystis in the field, key features to observe
-include the olive-brown viscid cap, the brittle whitish stem, growth
-on woody debris or mossy substrates, and bluish bruising on damaged
-tissue. The species can be confused with other Pacific Northwest
-Psilocybe species, particularly P. cyanescens and P. azurescens, but
-can generally be distinguished by its smaller size, different cap
-shape, and habitat preferences.
-
-As with all wild [[mushroom-identification]], proper caution should be
+psilocybin mushrooms such as [[mushroom-identification]], proper caution should be
 exercised. Several toxic species share similar habitats and general
 appearance, making positive identification essential before any
 consumption. Key lookalikes to be aware of include species of
@@ -123,12 +100,8 @@ same wood chip habitats during the same autumn season.
 
 ## See Also
 
-- [[psilocybe-aztecorum-profile]]
 - [[psilocybe-azurescens-profile]]
-- [[psilocybe-baeocystis]]
 - [[psilocybe-margarinalis]]
-- [[psilocybe-czechica]]
 - [[psilocybe-heliconia]]
-- [[psilocybe-graecia]]
 - [[psilocybe-huautla]]
 - [[psilocybe-equestris]]

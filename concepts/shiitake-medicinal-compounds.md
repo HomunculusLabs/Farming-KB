@@ -31,11 +31,7 @@ It also stimulates acute phase proteins, colony stimulating factors (affecting p
 
 ### Receptor Binding
 
-Like other fungal [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]], lentinan binds to iC3b-receptors (CR3, CD11b/CD18, Mac-1) on phagocytic cells and NK cells, stimulating phagocytosis and cytotoxic degranulation. CR3 is the major receptor for beta-glucans. Small soluble beta-glucans (5-20 KDa) prime CR3 for cytotoxic activation only if CR3 contacts iC3b-opsonised target cells. Particulate and high-molecular-weight beta-glucans (like lentinan and schizophyllan) cross-link membrane CR3, triggering respiratory bursts, degranulation, and cytokine release (Ross, 2000).
-
-### Pre-Clinical Results
-
-In the [[sarcoma-180-antitumour-assay]], lentinan showed remarkable results:
+Like other fungal [[sarcoma-180-antitumour-assay]], lentinan showed remarkable results:
 - 78.1% tumour inhibition at low dose with 6/10 complete regressions
 - 100% tumour inhibition at optimal dose with 10/10 complete regressions
 - 94.2% metastasis inhibition in DBA/2.MC.CS-T model
@@ -47,25 +43,7 @@ Lentinan is approved for clinical use in Japan and manufactured by several pharm
 
 The pivotal randomised controlled study compared tegafur alone (n=68) versus Lentinan plus tegafur (n=77) in 145 patients. The 50% survival time nearly doubled: 92 days (tegafur alone) versus 173 days (Lentinan plus tegafur). Sub-group analysis by tumour extension, histology, and Borrman classification showed that Lentinan significantly prolonged 50% survival across each prognostic factor. Overall survival advantages: 19.5% survived more than one year, 10.4% more than two years, and 6.5% more than three years with combined therapy. The response rate was 14.9% for Lentinan group versus 2.0% for controls (Japan Society for Cancer Therapy criteria).
 
-While numerous clinical trials of Lentinan have been conducted in Japan, none have been placebo-controlled and double-blinded. Lentinan is administered intraperitoneally and classified as a medicine in Japan, whereas [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]] from turkey tail are orally bioavailable.
-
-### Safety and Toxicity
-
-Pre-clinical toxicity tests across multiple species used dosing ranges of 0.0001-30 mg/kg for 5-6 weeks by IV administration. Some swellings and proliferation of reticuloendothelial cells occurred at dosages above 25 mg/kg, and some species showed gastrointestinal or urinary bladder haemorrhages with dermatological changes at doses of 2 mg/kg or above. All lesions occurred in high dose groups and tended to regress after discontinuing Lentinan. Fertility of males was not affected at 0.1-1.0 mg/kg. No abnormalities were detected during fetal organogenesis in rats at 5.0-10 mg/kg, and no abnormality at 5.0 ug/kg during perinatal and lactation periods. There was little or no penetration into the foetus and no excretion into maternal milk (Ajinomoto Technical Document, 1988). No anaphylactic reactions, mutagenicity, haemolysis, blood coagulation effects, or adjuvant-induced arthritis effects were observed.
-
-## LEM (Lentinus edodes Mycelium Extract)
-
-**LEM** is prepared from hot water extract of powdered mycelia harvested before fruiting bodies develop. Its major active constituent is a heteroglycan protein conjugate (protein-bound polysaccharide) containing about 24.6% protein and 44% sugars, plus nucleic acid derivatives and vitamins. Other active polysaccharides, protein-polysaccharide complexes, and water-soluble lignins (including EP3) have been isolated from LEM.
-
-LEM and LAP (obtained from LEM filtrate by ethanol precipitation) both demonstrate strong antitumour activity in animals and humans. Both LEM and LAP activate the host immune system. In Japan Lentinan is presently classified as a medicine whereas LEM and LAP are considered as food supplements (nutriceuticals).
-
-## KS-2
-
-Hot water extracts from cultured mycelium contain **KS-2**, an alpha-mannan peptide containing the amino acids serine, threonine, alanine, and proline.
-
-## AHCC (Active Hexose Correlated Compounds)
-
-AHCC is a proprietary extract from co-cultivation of several Basidiomycete mushrooms including Lentinus edodes, [[mushroom-cultivation-fundamentals]], and Schizophyllum commune grown on rice. It contains polysaccharides, amino acids, and minerals. The glucans are low molecular weight (~5,000 daltons) alpha-1,3 type. A derivative, arabinoxylane, has been shown to increase human NK activity by a factor of 5 over two months. Limited studies suggest efficacy against hepatocellular carcinoma.
+While numerous clinical trials of Lentinan have been conducted in Japan, none have been placebo-controlled and double-blinded. Lentinan is administered intraperitoneally and classified as a medicine in Japan, whereas [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], and Schizophyllum commune grown on rice. It contains polysaccharides, amino acids, and minerals. The glucans are low molecular weight (~5,000 daltons) alpha-1,3 type. A derivative, arabinoxylane, has been shown to increase human NK activity by a factor of 5 over two months. Limited studies suggest efficacy against hepatocellular carcinoma.
 
 ## Key Active Constituents
 
@@ -80,9 +58,25 @@ Increasing examples demonstrate synergy between shiitake-derived compounds and c
 
 ## Related
 
-- [[medicinal-mushroom-guide-shiitake]] -- cultivation and general guide
 - [[medicinal-mushroom-immune-modulation]] -- broader immune modulation mechanisms
-- [[lentinan-clinical-research]] -- detailed lentinan clinical data
 - [[functional-foods-medicinal-mushrooms]] -- dietary supplement context
-- [[mushroom-cultivation-fundamentals]] -- PSK/PSP from turkey tail
 - [[mushroom-cytokine-production-immune-activation]]
+## Practical Considerations
+
+Successful implementation of Shiitake Medicinal Compounds requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

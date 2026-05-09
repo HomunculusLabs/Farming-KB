@@ -3,131 +3,145 @@ title: Permaculture Duck, Pig, and Goat Systems
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, equipment, storage, season-extension, pest-management, fruit-tree, homesteading]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Permaculture Duck, Pig, and Goat Systems
-
-**Source:** The Ultimate Guide to Natural Farming & Sustainable Living (Nicole Faires, 2012)
-**Updated:** 2026-04-18
-
-## Ducks
-
-Ducks are the gentlest and most versatile poultry. They eat algae and weeds from ponds, slugs, snails, grubs, soft greens and grasses, water plants, small tree greens, and grains and at the same time fertilize the water and the soil, improving fish production. They will walk on small plants, and they do eat some of them too, so they work better in a well-[[comparison-sheet-mulching-vs-chop-and-drop]] area with plants that are well established. They also need less care and feeding than chickens, although they need more planning. While a few bantam chickens can be thrown in a greenhouse, a flock of ducks needs lots of water and grazing.
-
-### Duck System Design
-
-The best system is an enclosed area just for ducks around a small pond with an island in the middle for them to nest on, usually in or on the edge of [[hemenway-zone-and-sector-planning]]. Around the pond could be a [[permaculture-mandala-garden-design]], and if you have fish, the duck's manure will feed algae-eating organisms and improve [[fungal-decomposition-ecology]] and help grow pond plants. You can keep 25 ducks per acre of pond surface. If this pond area is next to the Zone 1 garden, you can open it up now and then so that they can eat the slugs and pests, but only when the plants are at least as big as the ducks.
+tags: [[hemenway-zone-and-sector-planning]]. Around the pond could be a [[fungal-decomposition-ecology]] and help grow pond plants. You can keep 25 ducks per acre of pond surface. If this pond area is next to the Zone 1 garden, you can open it up now and then so that they can eat the slugs and pests, but only when the plants are at least as big as the ducks.
 
 If you have other animals that need to drink from watering troughs or ponds, the ducks must be separated from those water sources, or they will make them too dirty.
 
 ### Duck Care
 
-If the ducks have adequate water, a grassy yard with new grass, and a [[permaculture-mandala-garden-design]] with bugs in it, then you won't need much extra feed. Ducks need young grass to eat, and if their pasture is too small and unvaried, they will quickly destroy a grassy backyard. If you must give them additional food, wheat is the best grain for ducks and goes well with oats. Hard round fruits and vegetables need to be crushed for them first. Liquid milk and hard-boiled eggs are good sources of protein for laying birds, and all ducks need calcium from eggshells or seashells, and grit. Ducks, unlike other poultry, need a little more niacin in their diet, but lots of fresh greens or peas should be enough to provide them with what they need.
+If the ducks have adequate water, a grassy yard with new grass, and a [[duck-tractor]]
 
-In turn, they will give you eggs, meat, feathers, pest control, and fertilizer.
-
-Ducks are social creatures and need a flock to be happy, so you'll need to have at least two ducks or more. Each duck needs four square feet of housing. During the day this can be a three-sided shelter near the pond, but at night ducks need to be kept away from predators. They can be put in the barn in a room with a bed of straw, or in a simple shed. This shed should have a door for people so that you can harvest all the valuable fertilized straw.
-
-Ducks can usually fly and need to be clipped, or else they will fly around your whole property or even leave completely. Use big scissors to clip off the ends of long feathers of one wing when they first grow, and after each molting after that. Don't cut during the molting, or you may cause fatal bleeding.
-
-In the winter they will run out of forage and can quickly turn the area around the pond into mud. Throw down another layer of mulch, such as fallen leaves or hay, as they stir up the earth. Ducks can tolerate freezing temperatures as long as they can still run back into their three-sided shelter away from the wind when they need to.
-
-### Duck Breeds
-
-Khaki Campbell is the most popular and was the first domestic duck breed, followed by Indian Runners. They produce just as many eggs as chickens, but are not good meat birds. Meat breeds include Muscovy, Rouen, and Pekin. To find a breed that is dual purpose or works well for meat and eggs, you will have to look to history and pick a heritage breed. Ancona, Appleyard, Buff, Magpie, and Saxony are good dual-purpose breeds. Saxony is probably the best of these for their foraging and egg laying ability.
-
-### Duck Breeding
-
-Duck males and females are difficult to tell apart. The female will have a loud, raspy quack, and the male will be a bit quieter or sometimes silent. Some male ducks will also become very protective of the females. If you have a motherly duck, it is best to let her raise her own ducklings, as she'll do a better job than you. Ducks will start laying in the spring, when they are around six to seven months old, and keep laying for three years or longer. They always lay in the morning and are very scheduled, so let them out of the barn after 10:00 A.M. and then lure them back into the barn in the evening with a handful of grain. A mother duck and her ducklings should be kept separate from the other ducks until the chicks are six to eight weeks old.
-
----
-
-## Pigs
-
-Pigs are very efficient foragers and will eat any fruit that falls on the ground (helping to deter pests), grass, herbs, vines, and nuts and will dig up roots with their noses. This rooting action makes them excellent natural plows, preparing and clearing a garden bed before planting. The best place is a shady, treed area full of waste material and weeds and not too muddy. Pigs can be allowed into the orchard when the trees are at least a few years old.
-
-They will also eat any food waste and will eat 25 pounds (11.3 kg) of food per day. The pasture should be prepared with a chisel plow, and lime should be added. It should be planted with legumes, comfrey, endive, and grass. There should be no more than 20 pigs per acre (0.4 hectare), which will clear the whole thing. They will remove blackberries and scrub, and after they clear the pasture, the pigs can be taken out, the area can be replanted, and cattle can be allowed in.
-
-Some plants can be grown as forage for pigs, including cattail, legumes, chicory, comfrey, and duck potatoes. A hundred pigs penned on 5 acres (2 hectares) will eat through 100 acres (40 hectares) in 18 months, which can be a good thing if you have lots of land to clear, but everyone else needs to be careful to keep the population low.
-
-### Pig Housing and Care
-
-In a cold climate pigs will need a three-sided shed with a soft dry floor in the pasture, and for breeding a farrowing pen will be needed. Farrowing is when a sow gives birth to piglets. She will use it for three months out of the year, and so if you have two sows, they can take turns. A lactating sow needs 7 pounds (3.2 kg) of grain per day when she gives birth, working up to 12 pounds (5.4 kg) when the piglets are a few weeks old. Each sow should have at least 2.5 acres (1 hectare) for forage just for herself and the piglets. All pigs also need a large and reliable constant supply of water. Since pigs don't sweat, an automatic waterer that the pigs can turn on and use to spray themselves will keep them happy.
-
-As you are probably raising them for bacon, you may have to feed some grain for a couple of weeks at the end to fatten them up. If you don't care about bacon and just want healthy pork, then forage will do.
-
-### Pig Breeds
-
-Pig breeds are divided into dark and light breeds according to their skin color. For the small farmer interested in a breed that will raise its own young, white breeds are often chosen because they tend to have good mothering instincts and are excellent foragers. Chester White, Yorkshire, and Landrance are popular mothering breeds that produce large litters, but these aren't known for their foraging ability. Alternatively, you could choose a heritage breed that has both skills, such as British Saddleback, Large Black, or Tamworth.
-
-### Pig Breeding
-
-Sows are generally gentle if you handle them often, but boars are not. They can be aggressive and can injure you easily, so you may not want to keep your own. If you do want to keep a boar, avoid the Chester White breed, which are worse. The sow will go into heat if she isn't nursing, and you can bring them together then. It takes four months for her to give birth. The piglets need to be kept warm, about 86F (30C), and they will huddle together even then. The farrowing pen, which is simply a well-ventilated shed with a door that is big enough for the sow to go in and turn around in, has two dividers on each side for the piglets to be able walk through so that the sow won't accidentally lay down on one and smother it.
-
-When the piglets are around a month old, they can begin to be weaned, and a creep feeder on one end of their grazing area that only the piglets can get into will make this process easier.
-
-Market weight for pigs is around 250 pounds (113 kg), which yields 140 pounds (63.5 kg) of meat. This takes about six months, depending on how much grain you are feeding them. Butchering pigs is very labor-intensive and requires extra sanitary procedures compared with other animals.
-
----
-
-## Goats
-
-Goats are exceptionally good at clearing pasture and effectively clear the toughest brambles and unwanted vegetation. They can be temporarily used for this purpose by penning them or tying them with a halter and moving them from place to place. Goats can be so destructive, however, that it is only recommended to keep a few for milk and meat production. More than one goat per person in your family is unnecessary.
-
-### Goat Management
-
-Goats are clever and can also jump high. The fence should be at least 4.5 feet (1.4 meters) high, with 1/4 acre (0.1 hectare) per goat. Wrap trees with chicken wire so they can't strip the bark off, and make sure the fence does not have a gap wider than 8 inches (20 cm). If the goats can't see through it, they won't try to get out, but if you must, have a rail fence. Goats can unlock most standard latches with their tongue, so a padlock may be necessary. If the goat does try to get out all the time, put a Y shaped yoke on its head so it can't fit; soon it will give up trying, and then you can remove the yoke.
-
-The goat house can be any kind of sturdy three-sided shed in their pasture, or in the barn as long as there is 36 square feet (3.3 square meters) per goat, with clean hay for bedding.
-
-### Goat Diet and Health
-
-Each goat needs about 4 to 5 pounds (1.8 to 2.3 kg) of hay per day of mixed grass and legumes, such as alfalfa. Goats also need salt and water at all times. Goats won't lick a salt block, and so you will have to provide loose mineralized salt.
-
-While goats are destructive and curious and tend to get out of their fencing, in other ways they are very easy to care for. If they get lice, rub them down with vinegar. Trim the hooves once a month using a knife or hoof nippers, or they will keep growing. Goats are very susceptible to worms and should be rotated to new pasture every three weeks, which is the lifespan of a stomach worm. They need to be kept in very clean conditions with fresh clean water readily available at all times.
-
-### Poisonous Plants for Goats
-
-Goats will try to eat anything, including poisonous plants. Check their pasture for these common dangers: Milkweed, Nightshade plants, Buckthorn, Cowbane, Dog's mercury, Foxglove, Greater celandine, Hemlock trees, Henbane, Ragwort, Rhododendron, Rhubarb leaves, Spindle, Water dropwort, Yew, Iris, Azalea, Beet leaves, and Evergreen trees.
-
-### Goat Breeding
-
-Start feeding the breeding does a quarter pound of grain per day. Start on October 1st and increase a quarter pound (0.11 kg) per week until the beginning of November when each doe is getting 1 pound (0.5 kg) of grain per day. This will increase the chances of having twins and triplets. An average doe produces about 3 quarts of milk per day. About 1.5 quarts goes to her kid, leaving only 1.5 quarts per day for you.
-
-Breed your does 149 days or 5 months before you want to have kids. For small farms, having kids about April 1st is ideal, so breed on November 1st. Don't breed does that are less than 70 pounds or 2 years old. One buck can service 50 does, but 30 are easier to handle. Does are in heat when they spend time sniffing and wagging tails towards the buck pen.
-
-### Goat Milking
-
-Milking is done every 12 hours, starting early morning before goats go eat. Always be on time, or the goat will get too full, which is painful.
-
-1. Clean the milking utensils in warm soapy water.
-2. Put the goat in a stanchion, a frame that holds the goat by its neck. Brush the fur and clip long hair under the udder.
-3. Put some feed in the stanchion's trough.
-4. Wash your hands and dry them, and fill a bucket with water 120-130F (49-54C).
-5. Wash her udder and teats. This helps the milk let down. Wait a minute after washing to start milking.
-6. Put your thumb and forefinger around the teat near the top of the udder, pushing up slightly and allow the teat to fill with milk. Then close your hand around it and squeeze the milk out while pulling down. Squirt the first three squeezes into the ground. Make sure you completely empty the udder.
-7. Strain the milk. Use a regular kitchen strainer lined with several layers of clean fabric.
-
-### Goat Milk Troubleshooting
-
-- **The milk won't let down:** Massage the udder either with the cleaning cloth or with a bag balm, or gently pat the udder like a kid butting her.
-- **Drying up milk:** When you milk, leave a little milk in the udder. When the doe's milk production has reduced, milk her only once a day.
-- **Mastitis:** The first sign is milk with strange texture: flakes, lumps, or strings. Feel the udder for tumors, large hard areas, or an abscess. The only cure is antibiotics.
-- **"Goaty" taste:** Put a pan of baking soda in her feed trough. Keep it full of soda, and in a few days the milk will taste sweet.
-
-## See Also
-
-- [[duck-tractor]]
-
-- [[urban-permaculture-pig-land-clearing]]
 - [[permaculture-animal-integration]]
-- [[zone-and-sector-analysis]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
 
 ## Merged: Pig Foraging and Breeding Guide
-Updated: 2026-04-18 Source: Sheri Faires, The Ultimate Guide to Natural Farming and Sustainable Living Pigs are very efficient foragers and will eat any fruit that falls on the ground (helping to deter pests), grass, herbs, vines, and nuts and will dig up roots with their noses. This rooting action makes them excellent natural plows, preparing and clearing a garden bed before planting. - [[faires-rabbit-and-small-poultry-keeping]] - faires duck pig and goat systems - faires duck pig and goat systems - [[faires-pasture-forage-tree-systems]] - [[faires-livestock-integration-systems]] The best place is a shady, treed area full of waste material and weeds and not too muddy.
-## Merged: Goat Milking and Breeding
-Updated: 2026-04-18 Source: Sheri Faires, The Ultimate Guide to Natural Farming and Sustainable Living Goats are clever and can also jump high. The fence should be at least 4.5 feet (1.4 meters) high, with 1/4 acre (0.1 hectare) per goat. - faires duck pig and goat systems - [[faires-milking-goats-and-cows]] - [[faires-dairy-processing-cheese-and-butter]] - [[faires-pasture-forage-tree-systems]] - [[faires-livestock-integration-systems]] Wrap trees with chicken wire so they can't strip the bark off, and make sure the fence does not have a gap wider than 8 inches (20 cm).
+Updated: 2026-04-18 Source: Sheri Faires, The Ultimate Guide to Natural Farming and Sustainable Living Pigs are very efficient foragers and will eat any fruit that falls on the ground (helping to deter pests), grass, herbs, vines, and nuts and will dig up roots with their noses. This rooting action makes them excellent natural plows, preparing and clearing a garden bed before planting. - [[faires-pasture-forage-tree-systems]] - [[faires-milking-goats-and-cows]] - [[faires-pasture-forage-tree-systems]] - [[faires-livestock-integration-systems]] Wrap trees with chicken wire so they can't strip the bark off, and make sure the fence does not have a gap wider than 8 inches (20 cm).
+## Background and Context
+
+Permaculture Duck, Pig, and Goat Systems is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

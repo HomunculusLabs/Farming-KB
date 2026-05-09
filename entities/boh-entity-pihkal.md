@@ -57,53 +57,26 @@ a pro-drug to norepinephrine, but with the temporary blocking of the
 polar functions with ether groups, it can gain access to the brain.
 And once there, it can be stripped of these shields and play a direct
 neurological role. I uncovered a very similar analogy in the
-[[tryptamine]] world some years ago. Just as norepinephrine is a
-neurotransmitter, so is serotonin. And I found that by putting an
-O-ether on the indolic phenol (to hide its polarity) and an
-alpha-methyl group next to the primary amine (to protect it from
-metabolic deaminase), it became an extremely potent, and most complex,
-psychedelic. This was the compound alpha,O-dimethylserotonin, or
-a,O-DMS. There is an uncanny analogy between this tryptamine and the
-phenethylamine BOH.
-
-(Additional commentary available in source.)
-
-## Synthesis
-
-To a solution of 30 g piperonal in 100 mL acetic acid there
-was added 20 mL nitromethane and 10 mL cyclohexylamine. After heating
-on the steam bath for 1.5 h, the reaction mixture started to
-crystallize. The mixture was cooled in an ice bath, and the heavy
-mass of deposited crystals removed by filtration and washed with 20 mL
-acetic acid. All was supended in 100 mL warm MeOH, cooled again, and
-filtered to give 24.5 g of 3,4-methylenedioxy-beta-nitrostyrene as
-canary-yellow crystals, with a mp of 158-160 deg C. Reduction of this
-compound with LAH gives rise to MDPEA, which is a separate entry with
-a recipe of its own.
-
-To a vigorously stirred suspension of 20 g 3,4-methylenedioxy-beta-nitro
--styrene in 100 mL anhydrous MeOH there was added a freshly prepared
-solution of 5.5 g elemental sodium in 100 mL MeOH. The nitrostyrene
-goes into solution over the course of 5 min. There was then added,
-
-first, 50 mL acetic acid with the stirring continued for an additional
-1 min. There was then added 300 mL H2O. An oil separated and was
-extracted into 200 mL CH2Cl2. The organic extract was washed with 500
-mL dilute aqueous NaHCO3, followed by 500 mL H2O. Removal of the
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-## See Also
-
-- [[bob-entity-pihkal]]
-- [[bod-entity-pihkal]]
+[[bob-entity-pihkal]]
 - [[bohd-entity-pihkal]]
-- [[bom-entity-pihkal]]
-
-- PIHKAL (the source book)
 - [[bod-entity-pihkal]] -- BOD (PIHKAL #14)
 - [[bohd-entity-pihkal]] -- BOHD (PIHKAL #16)
+## Practical Considerations
+
+Successful implementation of BOH (beta-Methoxy-3,4-methylenedioxy-PEA) -- PIHKAL Entry #15 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -138,13 +138,8 @@ hypothesis has not been widely tested in the mainstream paleoanthropological lit
 and many of its specific claims remain highly speculative. Nevertheless, it represents a
 creative attempt to connect anatomical differences between hominid species with behavioral
 and cultural factors in a way that complements more conventional explanations.
-
 ## See Also
 
-- [[mckenna-women-gatherers-and-evolution-of-language]]
-
 - [[mckenna-catalyzing-consciousness-and-language]]
-- [[mckenna-psilocybin-and-language-formation]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
-- [[mckenna-plants-and-primates-coevolution]]
 - [[mckenna-world-made-of-language]]

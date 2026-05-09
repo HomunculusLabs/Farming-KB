@@ -130,13 +130,9 @@ for anxiety and stress-related conditions.
 
 ## See Also
 
-- [[vanilla-planifolia]]
 - [[rosa-damascena]]
 - pelargonium graveolens
 - jasminum grandiflorum
-- [[eugenia-caryophyllata]]
 - [[cinnamomum-verum]]
-- [[theobroma-cacao]]
 - [[coffea-arabica]]
-- [[canavalia-ensiformis]]
 - [[piscidia-piscipula]]

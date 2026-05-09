@@ -13,10 +13,7 @@ type: concept
 
 Soil pH—the relative acidity or alkalinity of the soil water
 (affecting the soil solution)—is a critical factor in the
-[[jeavons-grow-biointensive-method-overview]] system. Nutrient availability for
-vegetable plants, soil microbial activity, and soil structure
-are all affected by pH. Understanding and managing pH is
-essential for [[jeavons-fertilization-organic-soil-amendments]] success.
+[[jeavons-fertilization-organic-soil-amendments]] success.
 
 ## Understanding the pH Scale
 
@@ -84,13 +81,7 @@ is critical:
   acidic compost that can lower pH over time when incorporated
   into the compost pile and then applied to soil.
 - **Special leaf or pine needle compost**: Can be used to make
-  soil less alkaline when applied as part of [[jeavons-composting-methods]].
-
-## Organic Matter and pH Buffering
-
-Soil-applied organic matter and manure can alter pH over time.
-When adequate organic matter is maintained, crops will tolerate
-a wider pH range. This is one reason [[jeavons-compost-functions-soil-building]] is so
+  soil less alkaline when applied as part of [[jeavons-compost-functions-soil-building]] is so
 important in the GROW BIOINTENSIVE system—it provides pH
 buffering alongside its many other soil-building functions.
 Manures may be alkaline and raise pH, though they may lower pH
@@ -131,5 +122,5 @@ where humic acid from compost and carbonic acid from roots
 gradually modify soil chemistry—works slowly but persistently,
 making patience essential in pH management.
 
-See also: [[jeavons-fertilization-organic-soil-amendments]], [[jeavons-soil-fertility]],
-[[jeavons-compost-functions-soil-building]], [[jeavons-sustainable-soil-closing-loop]]
+See also: [[jeavons-soil-fertility]],
+[[jeavons-sustainable-soil-closing-loop]]

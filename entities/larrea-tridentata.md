@@ -109,13 +109,8 @@ The sale of chaparral as a dietary supplement is permitted in the United States 
 
 ## See Also
 
-- [[prosopis-glandulosa]]
 - [[opuntia-ficus-indica]]
-- [[arctostaphylos-uva-ursi]]
-- [[trametes-versicolor]]
-- [[glycyrrhiza-glabra]]
+- [[trametes-versicolor-entity]]
 - [[glycyrrhiza-uralensis]]
-- [[passiflora-incarnata]]
 - [[schisandra-chinensis]]
-- [[eleutherococcus-senticosus]]
 - [[rhodiola-rosea]]

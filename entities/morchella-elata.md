@@ -79,59 +79,8 @@ The cap of *M. elata* is conical to broadly conical, 3–10 cm tall and 2–5 cm
 - **Color**: White to cream-colored
 - **Odor**: Pleasant, mild, and slightly nutty or earthy
 - **Taste**: Mild, nutty, and earthy; no bitter or acrid aftertaste
-- **Spore print**: Cream to pale yellow
-
-## Microscopic Features
-
-| Feature | Description |
-|---------|-------------|
-| Spores | Ellipsoid, smooth, hyaline, 20–28 × 12–16 µm |
-| Paraphyses | Septate, cylindrical to slightly clavate, golden-brown in KOH |
-| Asci | Operculate, cylindrical, 8-spored, 250–300 × 16–20 µm |
-| Excipulum | Interwoven to angular (textura intricata/angularis) |
-
-Spores are homothallic — a single spore can give rise to fertile mycelium, an unusual trait among Ascomycetes.
-
-## Distribution and Habitat
-
-### Geographic Range
-
-Black morels are found across temperate regions of the Northern Hemisphere:
-
-- **Europe**: Widespread in montane and subalpine coniferous forests from Scandinavia to the Mediterranean
-- **North America**: Common in western montane forests (Rocky Mountains, Sierra Nevada, Cascade Range) and in post-fire landscapes
-- **Asia**: Reported from the Himalayan region, China, and Japan
-- **Less common**: Eastern North America, where yellow morels predominate
-
-### Habitat and Ecological Associations
-
-Black morels occupy a distinctive ecological niche compared to yellow morels. They fruit primarily in coniferous forests (spruce, fir, pine) and prolifically in the first 1–3 years following forest fires ("fire morels"). Season is spring (April–June), typically 1–3 weeks after yellow morels at the same elevation, in montane to subalpine zones (800–2,800 m). They fruit directly from soil in partial to full shade, often in association with decomposing wood and ash. Their nutritional strategy appears to be facultative mycorrhizal, transitioning to saprotrophic when host trees die or are burned.
-
-### Fruiting Conditions
-
-Black morels require specific environmental triggers for fruiting:
-
-- **Soil temperature**: 8–15°C at 5 cm depth
-- **Air temperature**: Daytime 15–22°C, nighttime 4–10°C
-- **Moisture**: Adequate soil moisture from snowmelt or spring rains
-- **Light**: Partial to full shade under forest canopy
-- **Fire association**: Burn-site morels respond to chemical cues from charred wood and ash, including increased soil pH
-
-## Culinary Value
-
-Black morels are among the most prized wild edible mushrooms, commanding premium prices in commercial markets:
-
-- **Flavor**: Deep, earthy, nutty, and intensely umami; considered more complex than yellow morels
-- **Texture**: Firm and meaty when properly cooked; crisps well in butter
-- **Market value**: Fresh $20–60/lb; dried $80–200+/lb in commercial markets
-- **Toxicity warning**: All raw morels contain hydrazine compounds destroyed by thorough cooking. Never eat raw. Large quantities can cause GI distress even when cooked.
-
-## Similar Species
-
-- **M. esculenta**: Yellow to tan cap, rounded pits, earlier season, hardwood-associated
-- **Verpa bohemica**: Cap hangs freely from stem (not attached at base), smoother surface
-- **Gyromitra esculenta**: Brain-like folded cap, reddish-brown, contains dangerous gyromitrin — potentially lethal
-- **Helvella crispa**: Saddle-shaped cap, fluted stem, different family (Helvellaceae)
+- **[[verpa-bohemica]]**: Cap hangs freely from stem (not attached at base), smoother surface
+- **[[helvella-crispa]]**: Saddle-shaped cap, fluted stem, different family (Helvellaceae)
 
 **Critical warning**: *Gyromitra esculenta* (false morel) is potentially fatal and can be confused with black morels by inexperienced foragers. True morels have a honeycomb-like pit-and-ridge pattern and are hollow from top to bottom when cut longitudinally. False morels have a brain-like, irregularly folded cap and chambered or solid interiors.
 
@@ -141,10 +90,5 @@ Indoor cultivation of morels remains one of the most challenging goals in mycolo
 
 ## Conservation and Ethical Foraging
 
-Cut morels at the base rather than pulling; leave smaller specimens to ensure spore dispersal. Avoid raking or disturbing soil. In some regions, declining yields have been attributed to habitat loss, climate change, and overharvesting. Some jurisdictions require permits for commercial harvesting on public lands.
-
-## See Also
-
-- [[morchella-angusticeps]]
-- [[stamets-morel-morchella-cultivation]]
+Cut morels at the base rather than pulling; leave smaller specimens to ensure [[morchella-angusticeps]]
 - [[morchella-esculenta]]

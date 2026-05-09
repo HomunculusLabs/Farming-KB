@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Chapter 5 provides extensive species lists and design strategies for tree and vine crops in arid, tropical, and coastal Australian environments. This knowledge builds on [[urban-permaculture-fodder-trees-livestock]] and [[tropical-permaculture-guide]].
+Permaculture Two (1979) Chapter 5 provides extensive species lists and design strategies for tree and vine crops in arid, tropical, and coastal Australian environments. This knowledge builds on [[tropical-permaculture-guide]].
 
 ## Arid Zone Species Palette
 
@@ -106,9 +106,6 @@ Tubers and roots: Potato, sweet potato, turnip, carrot, onion, manioc, Jerusalem
 
 ## See Also
 
-- [[arid-zone-permaculture-strategies-mollison]]
 - [[mollison-arid-lands-design-and-erosion-control]]
-- [[mollison-arid-settlement-home-garden-design]]
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[fukuoka-natural-fruit-tree-pest-control]]

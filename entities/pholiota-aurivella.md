@@ -115,11 +115,7 @@ Harvesting *P. aurivella* from managed food forests provides a zero-input protei
 
 ## See Also
 
-- [[hericium-erinaceus]]
 - [[pleurotus-ostreatus]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[fomes-fomentarius]]
-- [[ganoderma-lucidum]]
 - [[pholiota-nameko]]
-- [[pholiota-squarrosa]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

@@ -67,7 +67,7 @@ A similar pattern holds for the N,N-dimethyl series. The 4-methyl ether of psilo
 
 ## Eroticism and Sensory Enhancement
 
-A striking feature is the consistent erotic/sensual component, shared with [[5-meo-dipt-entity-tihkal]] but less prominent with [[5-meo-dmt-entity-tihkal]]. At 4-6 mg orally, the experience is characterized by "ease of interpretive fantasy, almost dream-like, and easy eroticism" without visual effects. At 6 mg the experience becomes "extremely erotic" with "tactile extraordinary" qualities. This sensory-enhancing profile -- music enhancement, food appreciation, tactile sensitivity -- without the visual fireworks of other psychedelics makes it unique among tryptamines.
+A striking feature is the consistent erotic/sensual component, shared with [[5-meo-dmt-entity-tihkal]]. At 4-6 mg orally, the experience is characterized by "ease of interpretive fantasy, almost dream-like, and easy eroticism" without visual effects. At 6 mg the experience becomes "extremely erotic" with "tactile extraordinary" qualities. This sensory-enhancing profile -- music enhancement, food appreciation, tactile sensitivity -- without the visual fireworks of other psychedelics makes it unique among tryptamines.
 
 ## Other 5-Methoxy-N,N-Dialkyl Tryptamines
 
@@ -86,10 +86,7 @@ The complete 5-methoxy series in TIHKAL includes:
 
 ## See Also
 
-- [[5-meo-dmt-entity-tihkal]] -- more potent when smoked; not orally active
 - [[5-meo-dipt-entity-tihkal]] -- diisopropyl analogue with erotic enhancement
-- [[mipt-entity-tihkal]] -- the unmethoxylated parent compound
 - [[dmt-entity-tihkal]] -- parent tryptamine
-- [[bufotenin-entity-tihkal]] -- 5-hydroxy-DMT; the hydroxylated analogue
 - [[harmaline-entity-tihkal]] -- beta-carboline MAOI relevant to tryptamine potentiation
 - [[melatonin-entity-tihkal]] -- N-acetyl-5-methoxytryptamine; endogenous hormone

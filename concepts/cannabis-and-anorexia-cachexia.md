@@ -123,12 +123,8 @@ Patients are encouraged to explore whether emotional factors such as unresolved 
 
 ## See Also
 
-- [[cannabis-for-anorexia-and-cachexia]]
 - [[blesching-cannabis-anorexia-cachexia]]
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
-
 - [[endocannabinoid-system]]
-- [[cannabis-health-index-scoring-system]]
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - Mind Body Medicine and Emotional Molecules

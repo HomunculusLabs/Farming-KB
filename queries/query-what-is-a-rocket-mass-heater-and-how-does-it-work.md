@@ -35,17 +35,7 @@ visible smoke, creosote, or particulate emissions. This complete combustion
 extracts nearly all of the available energy from the wood, making rocket mass
 heaters significantly more efficient than conventional wood stoves.
 
-The [[rocket-stove-design]] covers the fundamental combustion principles that make
-rocket stove technology so efficient, including the critical dimensions and ratios
-for the burn tunnel and feed tube.
-
-After the hot gases exit the combustion chamber, they travel through a thermal
-mass bench or bell before exiting through a vertical chimney. This thermal mass
-absorbs the heat from the exhaust gases and slowly releases it into the room as
-radiant warmth over a period of twelve to twenty-four hours or more.
-
-The thermal mass is typically built from cob (a mixture of clay, sand, and straw)
-or masonry materials like brick or stone. The [[rocket-mass-heater-design]]
+The [[rocket-mass-heater-design]]
 provides detailed construction specifications for different thermal mass
 configurations, including horizontal benches, bell-shaped chambers, and combined
 systems.
@@ -58,19 +48,6 @@ an entire day.
 
 This is fundamentally different from a conventional wood stove, which provides heat
 only while actively burning and requires constant fueling to maintain temperature.
-
-The [[comparison-rocket-stove-vs-masonry-heater]] explains how rocket mass heaters
-compare to traditional masonry heaters, which operate on similar principles of
-thermal mass storage but use different combustion and heat exchange designs.
-
-Building a rocket mass heater is a significant project that requires careful
-planning and attention to safety. The combustion system must be sized correctly
-for the space being heated, the chimney must be properly designed to draw
-adequately, and clearances to combustible materials must be maintained.
-
-The feed tube, burn tunnel, and heat riser are the three critical dimensions that
-must be in proper proportion. A common starting ratio is a 4-inch system for small
-spaces and a 6-inch or 8-inch system for larger homes.
 
 The [[masonry-heater-design]] resource covers broader principles of thermal mass
 heating that complement rocket mass heater design considerations.
@@ -85,13 +62,7 @@ Twigs, branches, prunings, and other small wood pieces that would normally be
 considered waste are ideal fuel for a rocket mass heater, making it an excellent
 match for permaculture properties that generate regular woody prunings.
 
-The [[rocket-stove]] guide explains the broader applications of rocket combustion
-technology beyond home heating, including outdoor cooking, water heating, and
-greenhouse heating applications.
-
-## Key Points
-- A rocket mass heater uses an insulated J-shaped combustion chamber for
-  ultra-efficient wood burning, as detailed in [[rocket-mass-heater-design]]
+The [[rocket-mass-heater-design]]
 - The thermal mass (cob or masonry) absorbs heat during a short, hot fire and
   radiates it for twelve to twenty-four hours afterward
 - Complete combustion at high temperatures produces minimal smoke and extracts
@@ -102,7 +73,24 @@ greenhouse heating applications.
 
 ## Related
 
-- [[query-what-is-a-chinampa-and-how-does-it-work]] Questions
 - [[query-how-to-build-a-passive-solar-greenhouse]]
-- [[query-how-to-design-a-permaculture-property-from-scratch]]
 - [[query-how-to-build-a-compost-pile-that-works]]
+## Practical Considerations
+
+Successful implementation of What Is a Rocket Mass Heater and How Does It Work requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

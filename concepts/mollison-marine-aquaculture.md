@@ -3,18 +3,7 @@ title: Mollison on Marine and Estuarine Aquaculture
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Marine and Estuarine Aquaculture
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet XI (Water in Permaculture), 1981
-
-## Overview
-
-Mollison extends permaculture design principles into marine and estuarine environments, describing tide-based fish traps, salt marsh forage systems, oyster culture, lobster habitat, and phosphate island creation. This extends [[mollison-fish-pond-construction]]. The coastal zone represents one of the most productive biological systems on Earth, and Mollison demonstrates how design intelligence can harvest this productivity sustainably.
+tags: [[mollison-fish-pond-construction]]. The coastal zone represents one of the most productive biological systems on Earth, and Mollison demonstrates how design intelligence can harvest this productivity sustainably.
 
 ## Tide Traps and Fish Capture
 
@@ -120,22 +109,12 @@ Marine permaculture design emphasizes working within the carrying capacity of co
 
 ## Related
 
-- [[tidal-estuarine-aquaculture-mollison]] Pages
-
 - [[mollison-fish-pond-construction]]
-
-- [[mollison-aquatic-polyculture-systems]]
 
 - [[mollison-aquatic-polyculture-and-pond-culture]]
 
-- [[mollison-pond-design-freshwater-aquaculture]]
-
 - [[faires-aquaculture-pond-systems]]
 
-- [[pond-and-aquaculture]]
-
 - [[backyard-water-harvesting]]
-
-- [[permaculture-water-systems]]
 
 - [[sport-fishery-critique-mollison]]

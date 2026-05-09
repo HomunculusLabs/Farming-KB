@@ -129,8 +129,6 @@ ground. Once ground, flour must be used immediately.
 
 ## See Also
 
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-straw-mulch-system]]
 - [[natural-farming-guide-zone-design-system]]
 - [[natural-farming-guide-cover-cropping-and-green-manures]]

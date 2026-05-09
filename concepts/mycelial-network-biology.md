@@ -1,7 +1,7 @@
 ---
 title: Mycelial Network Biology
 created: 2026-04-28
-tags: [mycology, biology, mycelium, fungal-ecology]
+tags: [[mycology, biology, mycelium, fungal-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -47,22 +47,7 @@ cultivation:
   susceptibility
 
 Strain selection for rhizomorphic growth is a key consideration in commercial
-[[spawn-production]]. Environmental factors (CO₂ levels, temperature, substrate
-density) also influence morphology.
-
-## Extracellular Enzymes and Decomposition
-
-Fungi are primary decomposers in terrestrial ecosystems. Mycelium secretes
-**extracellular enzymes** to break down complex organic polymers:
-
-- **Cellulases** — degrade cellulose (the most abundant biopolymer on Earth)
-- **Lignin peroxidases, manganese peroxidases, laccases** — degrade lignin, a
-  complex phenolic polymer that most organisms cannot break down
-- **Proteases** — break down proteins into amino acids
-- **Amylases** — hydrolyze starch into sugars
-- **Chitinases** — degrade chitin from insect exoskeletons and other fungi
-
-**White-rot fungi** (e.g., [[oyster-mushrooms]]) can decompose both cellulose and
+[[oyster-mushrooms]]) can decompose both cellulose and
 lignin, while **brown-rot fungi** primarily target cellulose. This capability
 makes certain mushroom species valuable for **mycoremediation** — using fungi
 to degrade environmental pollutants including petroleum hydrocarbons, PAHs,
@@ -90,31 +75,5 @@ creating symbiotic relationships:
 - The tree provides carbohydrates (sugars) produced through photosynthesis
 - These networks can interconnect multiple trees, facilitating **resource
   sharing** between individuals
-- Known as the "[[wood-wide-web]]," these networks influence forest composition,
-  tree health, and ecosystem resilience
-
-While most cultivated gourmet mushrooms are **saprotrophs** (decomposers),
-understanding mycorrhizal biology is essential for cultivating species like
-chanterelles, porcini, and truffles, which remain challenging or impossible to
-grow commercially without their host plants.
-
-## Senescence and Strain Degradation
-
-Mycelial cultures can undergo **senescence** — a decline in vigor and
-fruiting capacity after extended subculturing. This is thought to result from:
-
-- Accumulation of mutations during mitotic division
-- Telomere shortening in some species
-- Depletion of cellular energy reserves
-
-Strain preservation methods include:
-- **Cold storage** of slant cultures at 4°C (short-term, 6-12 months)
-- **Mineral oil overlay** on agar slants (1-2 years)
-- **Cryopreservation** in liquid nitrogen at -196°C (long-term, decades)
-- **Lyophilization** (freeze-drying) for spore preservation
-
-## See Also
-
-- [[gourmet-mushroom-cultivation]]
-- [[medicinal-mushroom-compounds]]
+- Known as the "[[gourmet-mushroom-cultivation]]
 - [[mushroom-substrate-preparation]]

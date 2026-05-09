@@ -119,31 +119,9 @@ phase angle of +55!. But in psychopharmacology? There is no psychic
 
 A solution of 2.6 g
 
-2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see under [[2c-t-7]] for its
-synthesis) in 20 mL nitroethane and 0.5 g anhydrous ammonium acetate
-was heated on the steam bath overnight. The excess solvent/reagent
-was removed under vacuum leaving an orange oil as a residue that
-cry-stallized spontaneously. This crude product was recrystallized
-from 20 mL boiling MeOH to give, after cooling, filtering, and air
-drying, 2.4 g of
-1-(2,5-dimethoxy-4-(n)-propylthiophenyl)-2-nitropropene as orange
-crystals. Its mp was 83-84 deg C with prior sintering at 81 deg C.
+2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see under [[aleph-2-entity-pihkal]]
+- [[aleph-entity-pihkal]]
 
-A suspension of 1.5 g LAH in 150 mL of warm anhydrous THF was stirred
-under an inert atmosphere and brought up to a gentle reflux. A
-solution of 2.3 g
-1-(2,5-dimethoxy-4-(n)-propylthiophenyl)-2-nitropropene in 25 mL
-anhydrous THF was added dropwise at a rate that maintained the reflux.
-Heating and stirring were continued for 2 days, and then the reaction
-mixture was allowed to stir at room temperature for an additional 2
-days. There was added 1.5 mL H2O (dissolved in 10 mL THF), followed
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
 ## See Also
 
-- [[aleph-2-entity-pihkal]]
-- [[aleph-4-entity-pihkal]]
-
-- [[aleph-entity-pihkal]]
+- [[aleph-6-entity-pihkal]]

@@ -18,22 +18,6 @@ Building healthy garden soil is a long-term process that involves adding organic
 
 Healthy soil is alive.
 
-The [[soil-food-web]] is the interconnected ecosystem of organisms that lives in your garden soil, and understanding it is the single most important concept for building long-term soil health.
-
-The soil food web includes:
-- **Bacteria** - primary decomposers, nutrient cyclers
-- **Fungi** - decompose tough materials, form mycorrhizal partnerships
-- **Protozoa** - eat bacteria, release plant-available nutrients
-- **Nematodes** - graze on fungi and bacteria, cycle nutrients
-- **Earthworms** - aerate soil, create channels, produce nutrient-rich castings
-- **Microarthropods** - fragment organic matter, stimulate fungal growth
-
-When this biological community is thriving, your plants have access to a steady supply of nutrients without synthetic fertilizers.
-
-## Starting with Compost
-
-The fastest way to jumpstart soil biology is by adding finished compost.
-
 The [[compost-building-guide]] covers how to create thermophilic compost using a mix of:
 - **Green materials** (nitrogen-rich): grass clippings, kitchen scraps, manure
 - **Brown materials** (carbon-rich): leaves, straw, wood chips, cardboard
@@ -48,28 +32,7 @@ Apply 1-2 inches of finished compost to garden beds annually for both nutrients 
 
 ## Understanding Compost Biology
 
-Understanding [[compost-biology-organisms]] helps you evaluate whether your compost is truly mature and biologically active.
-
-Signs of healthy, mature compost:
-- Dark brown to black color
-- Crumbly texture (not sticky or clumpy)
-- Rich, earthy smell (no ammonia or sour odor)
-- Visible fungal hyphae when pulled apart
-- Original materials no longer recognizable
-
-Warning signs of problematic compost:
-- Slimy texture indicates anaerobic conditions
-- Ammonia smell means excess nitrogen, incomplete decomposition
-- Recognizable food scraps mean compost is not finished
-- Sulfur or rotten egg smell indicates anaerobic decomposition
-
-Always allow compost to cure for 2-4 weeks after the thermophilic phase before applying to garden beds.
-
-## Cover Cropping for Soil Health
-
-Cover crops are an essential tool for building soil health.
-
-The [[cover-crop-guide-detailed]] explains how different species serve different functions:
+Understanding [[cover-crop-guide-detailed]] explains how different species serve different functions:
 
 | Cover Crop | Primary Benefit | When to Plant |
 |---|---|---|
@@ -92,21 +55,7 @@ Benefits of cover cropping:
 
 ## Biochar for Long-Term Soil Improvement
 
-[[biochar-soil-amendment]] is a powerful long-term soil amendment made from pyrolyzed biomass.
-
-Biochar benefits:
-- Highly porous structure holds water and nutrients
-- Provides habitat for beneficial microorganisms
-- Persists in soil for hundreds to thousands of years
-
-Best practices for biochar use:
-- "Charge" by soaking in compost tea before application
-- Mix with compost rather than applying bare to soil
-- Apply at 5-10% by volume to garden beds
-
-## The Role of Earthworms
-
-The role of [[earthworm-ecology]] in garden soil cannot be overstated.
+[[earthworm-ecology]] in garden soil cannot be overstated.
 
 Earthworms are ecosystem engineers that:
 - Create soil aggregates that improve structure
@@ -125,26 +74,6 @@ A garden with abundant earthworm activity is a garden with healthy soil.
 
 ## Permaculture Soil Management
 
-The [[permaculture-soil-management]] approach emphasizes working with natural processes.
-
-The three soil health principles:
-1. **Minimize disturbance** - avoid excessive tilling that destroys soil structure
-2. **Keep the soil covered** - use mulch or living plants year-round
-3. **Maximize living roots** - maintain root systems through cover cropping
-
-These principles build on each other:
-- Ground cover prevents erosion and moderates temperature
-- Living roots exude sugars that feed soil biology
-- Minimal disturbance preserves fungal networks and soil aggregates
-
-## Key Points
-
-- Feed the soil biology with compost, cover crops, and mulch
-- A diverse [[soil-food-web]] cycles nutrients naturally and suppresses disease
-- [[compost-building-guide]] is the fastest way to add organic matter and beneficial organisms
+The [[soil-food-web]] cycles nutrients naturally and suppresses disease
 - [[cover-crop-guide-detailed]] explains how to select cover crops for specific soil-building goals
-- [[biochar-soil-amendment]] provides long-term improvements in water retention and nutrient availability
-
-## Related Questions
-
 - [[cannabis-living-soil-amendment-schedule]]

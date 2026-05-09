@@ -20,25 +20,7 @@ Fungal metabolism of polycyclic aromatic hydrocarbons (PAHs) produces a
 diverse array of metabolites with varying degrees of toxicity and
 mutagenicity. Understanding the metabolic pathways and the toxicological
 properties of these metabolites is critical for evaluating the safety and
-effectiveness of fungal bioremediation processes. While most fungal
-metabolites are less toxic than parent compounds, certain oxidation
-products can be more toxic and mutagenic.
-
-## Metabolic Pathways
-
-### Pyrene Metabolism
-
-Crinipellis stipitaria strains metabolize pyrene in submerged culture,
-with most strains transforming pyrene more effectively in complex medium.
-More than 60% of pyrene and metabolites, including water-soluble sulfates
-and disulfites, are recovered from the mycelia in fungal cultures. A
-specific pattern of metabolites is formed in each strain, depending on
-the culture medium. Major pathways of pyrene metabolism involve cytochrome
-P450-mediated oxidation to pyrene-1,2-oxide, followed by conversion to
-1-hydroxypyrene and 1-pyrenyl sulfate conjugates.
-
-Pathways for pyrene metabolism have also been proposed for Aspergillus
-niger SK 9317, [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], and Cyclothyrium sp. Each species
+effectiveness of [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], and Cyclothyrium sp. Each species
 produces distinct metabolite profiles reflecting different enzyme
 systems and metabolic capabilities.
 
@@ -61,7 +43,7 @@ troyanus, achieved up to 95% removal. Candida lipolytica detected 3- and
 200 mg/l.
 
 The relative degradation per unit biomass for three mitosporic fungi was:
-[[trichoderma-viride]] (39%), [[fusarium-solani]] (17%), and [[fusarium-oxysporum]]
+[[fusarium-solani]] (17%), and [[fusarium-oxysporum]]
 (8%). T. viride degraded 50% of benzo[a]pyrene without detectable laccase
 or peroxidase activities, suggesting a different metabolic pathway. F.
 solani can store benzo[a]pyrene in intracellular vesicles independently of

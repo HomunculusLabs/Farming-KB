@@ -136,15 +136,9 @@ for cannabis photography and marketing.
 The strain popularized purple cannabis aesthetics worldwide, spawning
 countless imitators and establishing the "purple strain" market category.
 Its name became synonymous with premium indica cannabis.
-
 ## See Also
 
-- [[cannabis-sour-diesel]]
-
 - [[purple-urkle]]
-- [[og-kush]]
 - [[purple-haze-cannabis]]
-- [[purple-kush]]
 - [[northern-lights-cannabis]]
-- [[myrcene]]
 - [[cannabis-indica]]

@@ -75,24 +75,7 @@ and collectors should be aware of agricultural chemical use.
 
 ### Suburban Lawns and Parks
 
-*[[psilocybe-cubensis]]* occasionally fruits in well-fertilized suburban lawns,
-particularly those adjacent to former cattle pasture. However, suburban
-collections carry additional risks from pesticide and herbicide use.
-
-## Field Identification Techniques
-
-### The Blue-Staining Test
-
-The most reliable field test for psilocybin-containing mushrooms is the
-blue-staining reaction. When fresh specimens are bruised or cut, the
-damaged tissue rapidly turns blue or blue-green due to oxidation of
-psilocine. This reaction is particularly pronounced in *Copelandia
-cyanescens* (hence the name "blue meanies") and *Psilocybe cubensis*. The
-test should be applied to the base of the stipe, where the reaction is
-often most visible. Note that some non-psychoactive mushrooms also exhibit
-blueing, so this test is suggestive but not definitive.
-
-### [[spore-print-collection]]
+*[[spore-print-collection]]
 
 Place a mature cap gill-side down on white paper and cover with a glass
 or bowl for 4-12 hours. Key spore print colors: *Psilocybe* species
@@ -142,9 +125,7 @@ are at their freshest and have not yet been damaged by sun or insects.
 Afternoon and evening can also be productive, particularly in shaded areas.
 Avoid hunting during extended dry periods; even well-located habitats will
 not produce during drought conditions.
-
 ## See Also
 
-- [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-pans-cyanescens-australia-distribution]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]

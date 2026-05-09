@@ -113,8 +113,6 @@ possible correlation.
 
 ## Related Topics
 
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[blesching-cannabis-dosing-strategies]]
-- [[blesching-cannabis-administration-methods]]
 - [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-health-index-mental-health-applications]]

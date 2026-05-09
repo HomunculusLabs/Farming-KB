@@ -131,17 +131,9 @@ bread and can thicken soups, stews, and puddings.
 
 ## Role in Permaculture Design
 
-Water plants provide critical functions in [[food-forest-establishment]] and
-[[faires-aquaculture-pond-systems]] systems:
+Water plants provide critical functions in [[faires-aquaculture-pond-systems]] systems:
 
-- [[legume-nitrogen-fixation-mechanism]]: Azolla and Neptunia fix atmospheric nitrogen
-- Water purification: Duckweed removes heavy metals from water
 - [[mycofiltration-silt-erosion-control]]: Emergent and margin plants stabilise banks
-- [[permaculture-bee-forage-system]]: Some aquatic plants produce nectar
-- Food production: Multiple species provide human and animal food
-- Habitat creation: Shelter for fish, insects, and wildlife
-- Fodder Crops: Many water plants serve as livestock feed
-
-## See Also
+- [[permaculture-plants-aquatic-systems-water-plants]]
 
 - [[swale-design-water-harvesting]]

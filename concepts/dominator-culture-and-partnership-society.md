@@ -81,27 +81,13 @@ This left each human being frightened, guilt-burdened, and alone. Existential ma
 
 ## See Also
 
-[[mckenna-food-of-the-gods-thesis]]
-
 [[mckenna-archaic-revival]]
-
-[[psychedelic-plants-and-civilization]]
 
 [[mckenna-psychedelic-shamanism]]
 
-[[psychedelic-mushrooms-species-and-identification]]
-
 [[tryptamine-consciousness-theory]]
-
-[[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
 
 [[mckenna-ur-plant-hypothesis]]
 
-[[tassili-plateau-mushroom-art]]
-
-sugar, slavery, and dominance
-
-## Related
-
-- [[mckenna-mushroom-stones-of-guatemala]]
+[[mckenna-mushroom-stones-of-guatemala]]
 - [[partnership-and-dominator-models]]

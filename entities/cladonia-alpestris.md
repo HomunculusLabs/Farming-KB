@@ -129,19 +129,13 @@ Cladonia alpestris shows somewhat stronger phosphorus-specific allelopathic effe
 
 ## See Also
 
-- [[cladonia-stellaris]]
-
 - [[lichen-air-quality-biomonitoring-sampling-protocols]]
-
-- [[bloomfield-lichens-symbiosis-extreme-survival]]
 
 - [[fungal-biodiversity-forest-ecosystems]]
 
 - cladonia rangiferina - closely related lichen with comparative allelopathic effects on conifer seedlings
 - xanthoria parietina - foliose lichen with photoprotective pigments
 - lecanora conizaeoides - lichen species studied in pollution contexts
-- [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus associated with heathland plants co-occurring with Cladonia mats
-- calluna vulgaris - heathland plant that co-occurs with Cladonia mats
 - [[suillus-luteus]] - ectomycorrhizal fungus in boreal pine forests affected by lichen ground cover
 - arctostaphylos uva ursi - bearberry ground cover showing less allelopathic inhibition than Cladonia alpestris
 - Cetraria - genus of fruticose lichens sharing boreal habitat and slow growth rates with Cladonia

@@ -27,83 +27,14 @@ sources:
 
 Pruning is the single most impactful practice for maximizing bramble yield and fruit quality. Neglected brambles produce tangled, shaded canopies with small, disease-prone berries. A properly pruned bramble planting can yield 2–3× more high-quality fruit than an unmanaged one. This guide covers the pruning systems for all major bramble types.
 
-## Understand the Growth Cycle First
-
-All brambles grow on a **biennial cane cycle from a perennial root system**:
-
-- **Primocane** = first-year cane. Grows vegetatively (leaves, no fruit). Builds the energy reserves that power next year's fruit.
-- **Floricane** = second-year cane. Produces flowers and fruit, then dies after harvest.
-
-Every bramble variety is either **floricane-fruiting** (fruits only on second-year canes) or **primocane-fruiting** (fruits on first-year canes in late summer/fall, and optionally again on the same canes the following summer). The pruning approach depends entirely on which type you have.
-
-## Step 1 — Identify Your Bramble Type
-
-| Type | Fruits On | Harvest Time | Examples |
+## Understand the [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] | Examples |
 |------|-----------|-------------|----------|
 | **Summer-bearing raspberry** | Floricanes (2nd-year canes) | Early–mid summer | 'Tulameen', 'Nova', 'Prelude', 'Canby' |
 | **Everbearing/fall-bearing raspberry** | Primocanes (1st-year canes) | Late summer–fall (or double crop) | 'Heritage', 'Caroline', 'Joan J', 'Autumn Bliss' |
 | **Black raspberry** | Floricanes | Early–mid summer | 'Jewel', 'Bristol', 'Allen' |
 | **Erect blackberry** | Floricanes | Mid–late summer | 'Apache', 'Arapaho', 'Ouachita', 'Triple Crown' |
 | **Trailing blackberry** | Floricanes | Mid–late summer | 'Marion', 'Chehalem', 'Boysenberry', 'Obsidian' |
-| **Primocane-fruiting blackberry** | Primocanes | Late summer–fall | 'Prime-Ark Freedom', 'Prime-Ark Traveler' |
-
-If you're unsure, watch the canes during your first growing season. If fruit appears on the tall, thick canes that grew this year → primocane-fruiting. If fruit appears on shorter, thinner canes with grayish-brown bark that were there last year → floricane-fruiting.
-
-## Step 2 — Pruning for Floricane-Fruiting Brambles (Summer-Bearing)
-
-This applies to summer-bearing raspberries, black raspberries, and all standard (non-primocane) blackberries. Two main pruning sessions per year.
-
-### Session A — Post-Harvest (Immediately After Picking)
-
-This is the most time-sensitive pruning. Do it within 1–2 weeks of your last harvest.
-
-1. **Cut all fruited floricanes to ground level.** These are the canes that bore fruit this summer. They're done — they will not fruit again, and leaving them creates a dense, disease-prune thicket. Cut them as close to the crown as possible.
-2. **Remove weak, damaged, or diseased primocanes.** Any primocane that is thin (pencil-diameter or less), broken, showing cankers, or otherwise unhealthy — cut it out now.
-3. **Thin remaining primocanes to the target density** (see table below). Keep only the strongest, healthiest canes. Space them evenly along the trellis or row.
-
-**Target primocane density after thinning:**
-
-| Bramble Type | Canes per linear foot of row | Canes per plant (hill system) |
-|-------------|------------------------------|------------------------------|
-| Red raspberry | 4–6 | 8–12 |
-| Black raspberry | 3–5 | 5–8 |
-| Erect blackberry | 5–8 | 5–8 |
-| Semi-erect blackberry | 4–6 | 4–6 |
-| Trailing blackberry | 6–10 | 6–10 |
-
-### Session B — Dormant Pruning (Late Winter, Before Bud Break)
-
-Done when plants are fully dormant but before new growth begins (typically February–March, depending on your climate).
-
-**For red raspberries:**
-1. Shorten remaining primocanes to 5–6 feet (or to the top wire of your trellis).
-2. Double-check spacing and remove any canes you missed in summer.
-
-**For black raspberries:**
-1. Tip-prune all canes at 24–30 inches (if not done in summer). This forces lateral branches, which are where the fruit forms.
-2. Shorten each lateral branch to 12–18 inches. These shortened laterals will produce your fruit clusters.
-3. Remove any canes showing winter damage (brittle, cracked, or discolored).
-
-**For erect blackberries:**
-1. Shorten lateral branches to 12–18 inches (if you tip-pruned primocanes during summer, these laterals already exist).
-2. Remove any remaining weak or winter-damaged canes.
-
-**For trailing blackberries:**
-1. Train healthy primocanes onto the trellis wires, weaving them in a fan pattern.
-2. Do NOT shorten trailing canes — their full length is your fruiting surface.
-3. Thin to 6–10 canes per plant.
-
-## Step 3 — Pruning for Primocane-Fruiting Brambles (Fall-Bearing)
-
-You have two options. Option A is dramatically simpler and recommended for most home growers.
-
-### Option A — Single Fall Crop (Recommended)
-
-1. **In late winter (Feb–Mar), mow ALL canes to ground level.** Use a lawn mower set to its highest setting, a string trimmer, or loppers. Cut everything to 1–2 inches above the soil.
-2. New primocanes will emerge from the roots in spring, grow through summer, and produce a fall crop (typically August–October).
-3. After the fall harvest (or after hard frost kills the canes), mow everything to the ground again.
-
-**That's it.** No summer thinning, no lateral management, no spent cane removal during the growing season. This simplicity is the main advantage of primocane-fruiting types.
+| **Primocane-fruiting blackberry** | Primocanes | Late su [[savory-growing-season-and-non-growing-season-management]]. This simplicity is the main advantage of primocane-fruiting types.
 
 **Trade-off:** You sacrifice the early summer crop. Total annual yield is typically 20–30% lower than a well-managed double-crop system, but the labor savings are enormous.
 
@@ -135,15 +66,28 @@ This is a separate, mid-season operation that significantly boosts yield on flor
 
 **Do NOT tip-prune red raspberries.** They fruit along the entire length of the cane, not on laterals.
 
-## Step 5 — Sanitation and Disease Prevention
-
-Pruning is also your primary disease management tool. Follow these rules:
-
-1. **Remove all pruned material from the planting area.** Burn, chip, or compost (hot compost only — 140°F+ for several days). Do not leave cut canes on the ground as disease inoculum.
+## Step 5 — Sanitation and [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] ll pruned material from the planting area.** Burn, chip, or compost (hot compost only — 140°F+ for several days). Do not leave cut canes on the ground as disease inoculum.
 2. **Sanitize pruning tools.** Wipe blades with 70% isopropyl alcohol or 10% bleach solution between plants, especially if any canes show disease symptoms.
 ## See Also
 
-- [[query-what-are-the-best-fig-varieties-for-different-climates]]
-
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
+## Practical Considerations
+
+Successful implementation of How Do I Prune Brambles for Maximum Fruit Production requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

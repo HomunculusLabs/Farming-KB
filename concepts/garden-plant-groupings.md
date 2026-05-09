@@ -4,11 +4,12 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Garden Plant Groupings
 
-[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is a fundamental [[permaculture-design]] tool based on the principle that certain plant combinations benefit each other through pest control, nutrient sharing, improved pollination, or microclimate modification. This guide draws from "Permaculture Plants: A Selection" to provide practical companion planting lists for the home garden and food forest.
+[[permaculture-design]] tool based on the principle that certain plant combinations benefit each other through pest control, nutrient sharing, improved pollination, or microclimate modification. This guide draws from "Permaculture Plants: A Selection" to provide practical companion planting lists for the home garden and food forest.
 
 ## Design Principles
 
@@ -25,10 +26,6 @@ This list is a starting point. Many species have natural companions listed throu
 ## Fruit and Nut Tree Companions
 
 ### Apple
-- **Good companions**: [[permaculture-tagasaste]], lucerne, wallflowers, chives, nasturtiums, garlic
-- **Avoid**: walnut
-
-### Almond
 - **Good companions**: [[tagasaste]], lucerne
 
 ### Apricot

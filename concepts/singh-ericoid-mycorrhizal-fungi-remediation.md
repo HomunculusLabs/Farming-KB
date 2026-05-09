@@ -9,36 +9,7 @@ sources:
 type: concept
 ---
 
-# Ericoid [[mycorrhizal-fungi]] in Bioremediation
-
-Ericoid mycorrhizal fungi form symbiotic associations primarily with
-plants of the order Ericales, including Ericaceae (heathers, heaths,
-blueberries, cranberries) and Epacridaceae. These fungi occupy
-ecologically significant niches, particularly in acidic, nutrient-poor,
-and often metal-contaminated soils such as peatlands, heathlands, and
-mine spoils. Singh's review highlights the unique bioremediation
-potential of ericoid mycorrhizal fungi, including their capacity for
-organic matter decomposition and heavy metal tolerance.
-
-## Symbiosis and Ecology
-
-Ericoid mycorrhizal associations involve intracellular colonization of
-epidermal cells of fine hair roots by fungal hyphae. Within these
-cells, the fungus forms dense hyphal coils (pelotons) that serve as
-the primary interface for nutrient exchange. The host plant provides
-carbon to the fungus, while the fungus enhances the plant's access to
-nitrogen and phosphorus from organic matter in acidic soils. Ericoid
-mycorrhizal fungi are particularly important in heathland and peatland
-ecosystems, where the dominant vegetation belongs to the Ericales. These
-environments are often characterized by low pH, low nutrient
-availability, and high concentrations of phenolic compounds that would
-be toxic to non-adapted organisms.
-
-## Organic Matter Decomposition Capabilities
-
-A distinguishing feature of ericoid mycorrhizal fungi is their ability
-to degrade complex organic matter, particularly phenolic compounds
-abundant in their native habitats. [[hymenoscyphus-ericae]], the most
+# Ericoid [[hymenoscyphus-ericae]], the most
 extensively studied ericoid mycorrhizal fungus, degrades tannin through
 extracellular polyphenol oxidase activity. This enzymatic capability is
 notably absent in ectomycorrhizal fungi, which generally do not produce
@@ -91,11 +62,7 @@ sources allows ericoid mycorrhizal fungi to function across a range of
 nutrient conditions, from pristine peatlands to heavily fertilized or
 nitrogen-contaminated sites.
 
-## Comparison with Other [[mycorrhizal-types]]
-
-Ericoid mycorrhizal fungi differ from both arbuscular and ectomycorrhizal
-fungi in several important respects relevant to bioremediation. Unlike
-[[arbuscular-mycorrhizal-fungi]], which are obligate symbionts with limited
+## Comparison with Other [[arbuscular-mycorrhizal-fungi]], which are obligate symbionts with limited
 saprotrophic capacity, ericoid mycorrhizal fungi can grow independently
 of their host and possess significant saprotrophic abilities. Unlike
 ectomycorrhizal fungi, which form extracellular associations and have
@@ -133,8 +100,6 @@ of ericoid mycorrhizal communities in contaminated environments.
 
 ## See Also
 
-- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[mycoremediation-chemical-warfare-agents]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]

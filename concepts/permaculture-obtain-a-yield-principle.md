@@ -1,15 +1,7 @@
 ---
 title: Permaculture Obtain a Yield Principle
 source: David Holmgren - Permaculture: Principles & Pathways Beyond Sustainability
-tags: [permaculture, design-principles, yield, productivity, holmgren]
-created: 2026-05-08
----
-
-# Permaculture Obtain a Yield Principle
-
-## Overview
-
-"Obtain a Yield" is the third of David Holmgren's twelve permaculture design principles.
+tags: [[permaculture-design-principles]].
 It reminds us that we should design any system to provide for self-reliance at all levels
 by using captured and stored energy effectively to maintain the system and capture more
 energy. There is no point attempting to plant a forest for the grandchildren if we
@@ -36,36 +28,7 @@ dissipated as waste. All biological and self-organising systems show this same p
 
 The modern consumer economy encourages consumption for its own sake — analogous to the
 engine running with no load. The conservation ethic focuses on maximum efficiency —
-analogous to the engine loaded to near-stalling. Permaculture design aims for the
-balance between dissipation and efficiency that gives maximum power from any process.
-
-Howard Odum's list of how successful self-organised systems maximise power includes:
-developing storages of high-quality energy, feeding back work from storages to increase
-inflows, recycling materials, organising control mechanisms for stability, setting up
-exchanges with other systems, and contributing useful work to surrounding environmental
-systems.
-
-## Positive Feedback in Nature and Society
-
-Positive feedback amplifies the harvesting and use of energy. In a bushfire, heat from
-burning preheats green vegetation, creating massive updrafts. Plants use captured
-sunlight to grow more leaves, which capture more energy. Landscape change is often
-driven by positive feedback — reed growth in a billabong slows water flow and increases
-sedimentation, converting creek bed to swamp.
-
-In human society, law, religion and the marketplace distribute rewards to those who
-provide valued outcomes, encouraging more production. In well-adapted systems, positive
-feedback accelerates towards freely available energy, while negative feedback prevents
-overuse.
-
-## Models from Nature
-
-All organisms obtain a yield adequate to sustain them; those that fail quickly disappear.
-Darwin's emphasis on competition and predation was drawn partly from industrial England.
-Kropotkin provided a refutation with diverse examples of cooperative and symbiotic
-relationships in nature and human history.
-
-Competition in nature tests vigour and fitness. Direct seeding encourages the
+analogous to the engine loaded to near-stalling. [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]] vigour and fitness. Direct seeding encourages the
 fastest-growing individuals to prevail. Selective thinning acts as predation, improving
 stock. In human systems, comfort and excessive protection can lead to self-satisfied,
 lazy and dysfunctional behaviour.
@@ -92,46 +55,30 @@ important. Vegetable yields can vary two orders of magnitude depending on fertil
 
 The two strategies are in dynamic tension but the conflicts are less than they seem.
 The area needing high fertility for substantial food production is small, so
-concentrating soil-improving activities in gardens and intensive farms complements
-large-scale areas where we adapt to conditions. Plants adapted to low fertility
-generally grow better with higher balanced fertility — the myth that hardy plants
-dislike fertility stems from unbalanced fertiliser applications, insect predation on
-palatable growth, or competition from fertility-demanding species.
-
-## Timing, Flexibility and the Drip-Feed Culture
-
-Most natural systems go through phases of growth and accumulation leading to abundance.
-Seasonal cycles determine patterns of seasonal abundance. The enormous yield fruit
-trees can produce may all ripen over one or two weeks, and birds may take the lot the
-week before you do. We need to match harvesting to phases of abundance.
-
-The drip-feed culture of weekly wages and shopping is increasingly out of step with
-economic realities. Flexibility and openness to opportunity was one of the skills of
-poverty now largely lost. Permaculture provides a framework for transition to
-self-reliant life where the ups and downs of seasons and opportunities are the norm.
-
-## The Efficiency Trap
-
-Self-reliance is a generalist strategy, but it is easy to fall into chasing efficiency
-beyond maximum power. Just-in-time manufacturing eliminates materials inventories at
+concentrating soil-improving activities in garden [[holmgren-food-systems-and-local-self-reliance]] ories at
 the cost of self-reliance and flexibility. "Loose systems last longer and work better"
 — flexibility can be more important than efficiency. Specialisation comes at a cost
 to flexibility; generalisation at a cost to efficiency. Many permaculture strategies
 are generalist, allowing high flexibility with less emphasis on efficiency.
 
-## Social Relationships and Self-Reliance
-
-If personal and community relationships are only based on emotional benefits and lack
-practical, concrete "yields," it is difficult to sustain them long-term. If we actually
-depend on family, friends and relations to maintain the house, fix the car, supply food,
-we are more likely to resolve difficulties that arise. This truth is more obvious in
-rural communities where everyone understands interdependence.
-
-Permaculture can be thought of as "remedial wholistics" necessary because of generations
-of industrial affluence. It leads by progressive steps to regaining control over our own
-sustenance and a realistic rather than romantic understanding of living with and from
-nature.
-
-- [[permaculture-observe-and-interact-principle]]
-- [[permaculture-catch-and-store-energy-principle]]
+## Social Relationships and [[permaculture-observe-and-interact-principle]]
 - [[permaculture-emergy-accounting]]
+## Practical Considerations
+
+Successful implementation of Permaculture Obtain a Yield Principle requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

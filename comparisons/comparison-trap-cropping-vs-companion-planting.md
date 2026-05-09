@@ -16,24 +16,6 @@ Trap cropping and companion planting are two complementary ecological strategies
 
 ## Trap Cropping
 
-[[trap-cropping]]
-
-Trap cropping is the deliberate practice of growing a sacrificial plant that attracts pests away from the primary cash crop. The strategy exploits the fact that many insects show strong feeding or egg-laying preferences for specific host plants. When pests encounter the trap crop first, they concentrate their feeding and reproduction there, leaving the main crop largely undamaged. This approach is a cornerstone of integrated pest management (IPM) programs and has been validated by university research for several major garden pests, making it one of the most evidence-based organic pest control methods available.
-
-Effective trap cropping requires careful timing and placement. Trap crops should be planted two to three weeks before the main crop so they are well-established and attractive when pests arrive. Perimeter planting is the most common layout, creating a border that intercepts pests moving into the garden. Once the trap crop is heavily infested, it must be actively managed through hand-picking, targeted insecticide application, or complete destruction before pests produce winged forms that migrate to the main crop.
-
-The push-pull strategy refines trap cropping by combining repellent plants near the main crop with attractive trap crops at the perimeter. Well-documented combinations include nasturtiums for aphids, mustard for flea beetles and cabbage worms, dill for tomato hornworms, radishes for flea beetles, and Blue Hubbard squash for squash bugs. Research from Oklahoma State University demonstrated that Blue Hubbard attracted significantly more squash bugs than zucchini, yellow squash, or pumpkins.
-
-Trap cropping offers the advantage of direct, observable feedback: pests visibly concentrate on the trap crop, confirming the strategy is working. Certain trap crops serve as "dead-end" hosts, such as Chinese giant mustard for flea beetles, where the pest cannot complete its life cycle. However, the requirement for active management means that neglected trap crops can become pest nurseries that worsen the original problem.
-
-### Notable Trap Crop Pairings
-
-Some of the most researched trap crop combinations include nasturtiums for aphids (planted at 2-3 per 10 square feet), radishes for flea beetles (interplanted with brassicas), Indian mustard for cabbage worms (as a border crop), and soybeans for Mexican bean beetles (as a perimeter border around snap beans). Each of these pairings has been tested in field conditions and provides reliable, measurable pest reduction when properly managed.
-
-For tomato growers, dill and moonflowers (Datura inoxia) serve as effective hornworm trap crops. Moonflowers are particularly interesting as a "dead-end" trap crop because hornworm larvae that feed on datura die from its toxic alkaloids. For corn earworm, planting an early sweet corn variety two to three weeks before the main crop intercepts egg-laying moths, concentrating the damage on the sacrificial planting.
-
-## Companion Planting
-
 [[solomon-companion-planting-evidence-based]]
 
 Companion planting is the practice of growing different plant species in close proximity based on the belief that they provide mutual benefits such as pest deterrence, improved nutrient availability, or enhanced growth. Popular examples include beans with corn, basil with tomatoes, and marigolds throughout the vegetable garden. The concept has deep roots in traditional gardening folklore and is widely promoted through companion planting charts and reference guides.
@@ -111,14 +93,8 @@ Yet another misconception is that these strategies are only relevant to large-sc
 
 ## See Also
 
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
-
 - [[trap-cropping]]
-- [[solomon-companion-planting-evidence-based]]
 - [[companion-planting-reference]]
-- [[natural-pest-deterrents]]
 - [[beneficial-insects-guide]]
-- [[green-manure-cover-crops]]
 - [[crop-rotation-principles]]
-- [[insectary-plantings]]
 - [[companion-planting-deterrents]]

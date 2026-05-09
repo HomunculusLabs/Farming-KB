@@ -1,5 +1,5 @@
 ---
-title: "Epinephrine, Norepinephrine, and the Endocannabinoid System"
+title: Blesching Cannabis Epinephrine Norepinephrine Endocannabinoid System
 created: 2026-04-26
 tags: [epinephrine, norepinephrine, catecholamines, stress-response, endocannabinoid-system]
 date: 2026-04-25
@@ -13,26 +13,8 @@ type: concept
 
 Epinephrine (adrenaline) and norepinephrine (noradrenaline) are
 catecholamine neurotransmitters and hormones central to the body's
-fight-or-flight response. In "The [[cannabis-health-index]]," [[uwe-blesching]]
-examines how the blesching [[cannabis-endocannabinoid-system]] (ECS)
-modulates catecholamine signaling, providing a neurobiological basis for
-cannabis's effects on stress, anxiety, cardiovascular function, and arousal.
-
-## Catecholamines: The Fight-or-Flight Messengers
-
-Epinephrine and norepinephrine are produced in the adrenal medulla and by
-noradrenergic neurons in the brain. They orchestrate the acute stress
-response:
-
-- **Epinephrine** (primarily hormonal): Increases heart rate, blood
-  pressure, blood sugar; dilates airways; redirects blood flow to muscles.
-  Released into the bloodstream from the adrenal medulla.
-- **Norepinephrine** (both neurotransmitter and hormone): Increases
-  alertness, focus, and arousal in the brain; constricts blood vessels
-  peripherally; modulates attention and the sleep-wake cycle. Released from
-  sympathetic nerve endings and the locus coeruleus in the brainstem.
-
-Together with [[blesching-cannabis-cortisol-stress-endocannabinoid-system]],
+fight-or-flight response. In "The [[uwe-blesching]]
+examines how the blesching [[blesching-cannabis-cortisol-stress-endocannabinoid-system]],
 these catecholamines form the three pillars of the stress response. While
 essential for survival, chronic catecholamine elevation drives
 hypertension, cardiac arrhythmias, anxiety disorders, insomnia, and
@@ -133,7 +115,7 @@ and cortisol excess, which can be combined with cannabinoid therapy:
    catecholamine responses and improves resilience.
 6. **Nature immersion (forest bathing)**: Reduces cortisol and
    catecholamines by 12-16% per research cited by Blesching.
-7. **Limiting caffeine and stimulants**: Directly reduces catecholamine
+7. **Limiting [[caffeine]] and stimulants**: Directly reduces catecholamine
    production and adrenal demand.
 8. **Adequate sleep**: Restores HPA axis sensitivity and reduces basal
    catecholamine levels.

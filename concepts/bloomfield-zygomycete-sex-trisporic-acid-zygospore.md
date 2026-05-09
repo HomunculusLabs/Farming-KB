@@ -123,8 +123,6 @@ The ability to form resilient zygospores that persist in soil for extended perio
 
 ## See Also
 
-- [[bloomfield-fungal-sex-pheromones-mating-communication]] for pheromone systems across fungi
 - [[bloomfield-fungal-reproduction-and-chemical-communication]] for broader reproductive strategies
-- [[bloomfield-saprolegnia-water-mold-zoospore-discharge]] for oomycete sexual pheromones
 - [[bloomfield-fungal-biology-and-hyphal-growth]] for coenocytic vs. septate hyphal organization
 - [[bloomfield-fungal-pathogens-and-parasites]] for other fungal diseases of humans

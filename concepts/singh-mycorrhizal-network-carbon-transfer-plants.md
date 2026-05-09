@@ -23,8 +23,7 @@ plants. Through these networks, carbon compounds can move between
 individual plants, creating belowground pathways for resource sharing that
 influence plant community dynamics, seedling establishment, and ecosystem
 function. Singh's discussion of CMNs connects to broader themes of
-[[singh-mycorrhizal-helper-bacteria-tripartite-interactions]]
-and [[singh-fungal-plant-growth-promoting-mechanisms]].
+[[singh-fungal-plant-growth-promoting-mechanisms]].
 
 ## Structure of Common Mycorrhizal Networks
 
@@ -133,8 +132,6 @@ release into soil and subsequent uptake by neighboring roots.
 
 ## See Also
 
-- [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]]
 - [[singh-fungal-plant-growth-promoting-mechanisms]]
-- [[singh-arbuscular-mycorrhizal-spore-identification]]
 - [[singh-ectomycorrhizal-morphotype-identification]]
 - [[mycoremediation-pahs]]

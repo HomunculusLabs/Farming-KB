@@ -33,117 +33,67 @@ sources:
 
 ## Overview
 
-[[streptomyces]] avermitilis is a Gram-positive, filamentous, soil-dwelling
-bacterium and the natural producer of avermectins — 16-membered macrocyclic
-lactone compounds from which ivermectin is derived. One of the most
-pharmaceutically significant microorganisms ever discovered.
-
-## Taxonomy
-
-- **Domain**: Bacteria → **Phylum**: Actinomycetota → **Class**: Actinomycetes
-- **Order**: Streptomycetales → **Family**: Streptomycetaceae → **Genus**: *Streptomyces*
-- Gram-positive, high GC content (~70.7 mol%), strictly aerobic, non-motile
-- Filamentous growth: substrate [[mycelium]] + aerial hyphae bearing [[spore]] chains
-
-## Discovery
-
-- **1979**: Isolated by Satoshi Ōmura at the Kitasato Institute, Japan
-- **Source**: Soil near a golf course in Kawana, Izu Peninsula, Japan
-- **Context**: Part of a systematic program collecting >23,000 Streptomyces strains
-- **Collaboration**: Sent to Merck & Co.; William C. Campbell identified anthelmintic activity
-- **Type strain**: MA-4680 (ATCC 31267)
-
-## Avermectin Production
-
-Eight avermectin compounds (A1a, A1b, A2a, A2b, B1a, B1b, B2a, B2b)
-produced as secondary metabolites during stationary phase.
-Structures are 16-membered macrocyclic lactones (aglycone + oleandrose
-disaccharide at C-13). B1 components are the most potent anthelmintics;
-wild-type B1a:B1b ratio ≈ 80:20.
-- **Ivermectin** = 22,23-dihydroavermectin B1 (catalytic hydrogenation of B1a)
-- Biosynthetic gene cluster spans ~82 kb; type I PKS genes aveA1–aveA4
-  assemble the aglycone; regulatory gene aveR controls expression
-
-## Mode of Action (Ivermectin)
-
-- Binds irreversibly to **glutamate-gated chloride channels (GluCl)** in
-  invertebrate nerve and muscle cells
-- Channel opening → Cl⁻ influx → membrane hyperpolarization → paralysis → death
-- **Selective toxicity**: GluCl channels absent in mammals
-- Also potentiates GABA-gated chloride channels at higher concentrations
-- Does not cross mammalian blood-brain barrier at therapeutic doses
-  (P-glycoprotein efflux provides additional safety)
-- Active against nematodes and arthropods; no activity against flatworms
-
-## Medical Significance
-
-### Diseases Treated
-- **Onchocerciasis (river blindness)**: *Onchocerca volvulus*. Mass drug
-  administration eliminated transmission in Colombia, Ecuador, Guatemala,
-  Mexico, and much of sub-Saharan Africa. >3.4 billion treatments since 1987.
-- **Lymphatic filariasis**: WHO elimination program (ivermectin + albendazole)
-- **Strongyloidiasis**: Drug of choice (*Strongyloides stercoralis*)
-- **Scabies**: Topical and oral formulations
-- **Head lice**: Topical 0.5% lotion (Sklice)
-- **Rosacea**: Topical 1% cream (Soolantra)
-
-### Nobel Prize
-**2015 Nobel Prize in Physiology or Medicine** — Satoshi Ōmura and William C.
-Campbell "for their discoveries concerning a novel therapy against infections
-caused by roundworm parasites." Shared one-half; other half to Tu Youyou.
-
-## Agricultural and Veterinary Significance
-
-- **Abamectin** (avermectin B1a+B1b mixture): agricultural acaricide/insecticide
-- Controls spider mites (*Tetranychus* spp.), leafminers, fire ants, thrips,
-  diamondback moth. Used in organic and conventional agriculture.
-- Trade names: Avid, Agri-Mek, Zephyr, Vertimec
-- **Veterinary**: Heartworm prevention in dogs (Heartgard, Iverhart);
-  broad-spectrum endectocide for livestock ectoparasite control
-
-## Ecology
-
-- Common soil actinomycete found worldwide, especially in forest/grassland
-  soils with high organic matter
-- Saprophytic — decomposes cellulose, chitin, and other complex polymers
-- Produces **geosmin** (earthy odor compound)
-- Aerial hyphae produce chains of spores dispersed by wind and water
-- Competes with soil microbes via antibiotic production
-- Optimal growth: 25–30 °C, pH 6.5–8.0
-
-## Industrial Production
-
-- Submerged fermentation in 50,000–200,000 L bioreactors (batch/fed-batch)
-- **Medium**: starch, soybean meal, yeast extract, CoCl₂ (cobalt essential
-  for avermectin biosynthesis — incorporated into the molecule)
-- **Strain improvement**: Wild-type yield ~9 µg/mL → production strains
-  >9,000 µg/mL (>1000-fold increase)
-- Methods: random mutagenesis (UV, NTG), metabolic engineering, fermentation
-  optimization targeting precursor supply (propionyl-CoA, methylmalonyl-CoA)
-
-## Genome and Genetics
-
-- **Size**: 8,695,758 bp (8.7 Mb) linear chromosome with ~50 kb terminal
-  inverted repeats — largest known *Streptomyces* genome at time of
-  sequencing (2003, Ikeda et al.)
-- **Genes**: ~7,585 protein-coding; 6 rRNA operons; 66 tRNAs
-- **Secondary metabolite potential**: ~30 biosynthetic gene clusters (BGCs)
-  identified, only avermectin cluster known prior to genome sequencing;
-  orphan BGCs represent potential for novel antibiotic discovery
-- **Plasmids**: Linear plasmids (pSAV1, pSAV2) carry genes for morphological
-  differentiation and secondary metabolism
-- **Genetic tools**: Protoplast transformation, *E. coli* conjugation,
-  CRISPR/Cas9 editing; genome-scale metabolic models available
-
-## Related Species
-
-- **S. coelicolor** A3(2): Model organism; first *Streptomyces* genome (2002)
-- **S. griseus**: Producer of streptomycin
-- **S. scabies**: Plant pathogen; causes potato common scab
-- **S. hygroscopicus**: Producer of rapamycin (sirolimus)
-- **S. venezuelae**: Producer of chloramphenicol
-- **S. lividans**: Heterologous expression host for BGCs
+[[mycelium]] + aerial hyphae bearing [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]]
+- [[actinomycetes-soil-biology]]
+## Practical Considerations
+
+When working with Streptomyces avermitilis, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

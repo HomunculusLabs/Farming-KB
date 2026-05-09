@@ -1,7 +1,7 @@
 ---
 title: Oyster Mushroom Fruiting Conditions
 created: 2026-04-28
-tags: [mycology, cultivation, environment, oyster-mushrooms]
+tags: [[mycology, cultivation, environment, oyster-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -40,24 +40,6 @@ variation. Indoor growers can achieve this with programmable environmental
 controllers.
 ## Fresh Air Exchange (FAE)
 ### Carbon Dioxide Levels
-[[oyster-mushrooms]] are extremely sensitive to CO2 concentration. During
-incubation, high CO2 (5,000--10,000 ppm) promotes rapid mycelial growth.
-For fruiting, CO2 must be reduced to below 1,000 ppm (ideally 400--800 ppm,
-near ambient atmospheric levels).
-### Symptoms of Inadequate FAE
-- CO2 above 1,000 ppm: Elongated stems, small or absent caps, "coral"
-  growth (abnormal branching)
-- CO2 above 1,500 ppm: Severe stem elongation, no cap development, fluffy
-  mycelial overgrowth
-- CO2 above 2,000 ppm: Fruiting body formation may fail entirely
-### Achieving Proper Ventilation
-Active air exchange is necessary in enclosed growing spaces. A minimum of
-4--6 air changes per hour is recommended for fruiting rooms. Passive FAE
-through filter patches on grow bags is sufficient for small-scale operations
-but may limit yields. Oscillating fans improve air circulation without
-creating direct drafts on developing primordia.
-## Humidity
-### Relative Humidity Requirements
 [[oyster-mushrooms]] require high humidity throughout the fruiting cycle:
 - Primordia formation: 90--95% RH
 - Early fruiting development: 85--92% RH
@@ -78,18 +60,7 @@ misting cycles. Water droplets sitting on mushroom surfaces promote bacterial
 growth.
 ## Light
 ### Light Requirements
-[[oyster-mushrooms]] require light for normal fruiting body development, unlike
-some cultivated species (e.g., button mushrooms) that fruit in darkness.
-- **Quantity**: 200--1,000 lux (approximately 10--50 foot-candles)
-- **Duration**: 12 hours on / 12 hours off photoperiod
-- **Spectrum**: Blue light (440--490 nm) is most effective for promoting
-  normal cap development and reducing stem elongation
-### Effects of Light Conditions
-- **No light**: Long stems, no cap development, pale coloration
-- **Insufficient light**: Abnormal morphology, leggy stems
-- **Too much light**: Browning, drying of caps, reduced yield
-- **Indirect natural light**: Often sufficient for home cultivation
-- **[[led-grow-lights]]**: 5000--6500K color temperature works well
+[[led-grow-lights]]**: 5000--6500K color temperature works well
 Light also influences pigmentation in colored varieties. *P. citrinopileatus*
 produces more intense yellow under higher light, while *P. djamor* develops
 deeper pink with adequate exposure.
@@ -103,11 +74,6 @@ most critical period. A systematic approach improves consistency:
 4. **Increase FAE**: Open bags or increase ventilation
 5. **Maintain high humidity**: 90--95% RH for primordia development
 ## Flush Management
-[[oyster-mushrooms]] typically produce 2--4 flushes (harvest cycles) from a
-single substrate block. Each subsequent flush produces fewer and smaller
-mushrooms. Between flushes, allow a 7--14 day rest period with reduced
-humidity and temperature returned to incubation range before re-triggering.
-## See Also
-- [[oyster-mushroom-substrates]]
+[[oyster-mushroom-pinning-induction-fruiting-conditions]]
 - [[oyster-mushroom-species]]
 - [[fruiting-body-development]]

@@ -53,18 +53,9 @@ Fungi decolorize dyes primarily through their ligninolytic enzyme
 systems, which evolved to oxidize the structurally similar phenylpropane
 units of lignin:
 
-- [[singh-fungal-laccase-enzymes-bioremediation]]: Laccases directly
-  oxidize phenolic and aniline-containing dyes through one-electron
-  oxidation. With mediators (HBT, ABTS), laccase systems can cleave
-  azo bonds and decolorize non-phenolic anthraquinone dyes. Laccase
-  is particularly effective against anthraquinone and triphenylmethane
-  dyes.
 - [[singh-manganese-peroxidase-mnp-biodegradation]]: Mn3+-mediated
   oxidation targets phenolic dye structures, generating radicals that
   undergo non-enzymatic cleavage reactions.
-- [[singh-lignin-peroxidase-lip-fungal-degradation]]: LiP oxidizes
-  non-phenolic dye structures through high-redox-potential direct
-  oxidation and veratryl alcohol-mediated indirect oxidation.
 - [[singh-versatile-peroxidase-vp-multifunctional]]: VP combines
   multiple oxidation pathways, providing broad-spectrum dye
   decolorization capability.
@@ -99,16 +90,8 @@ of initial color removal.
 
 ## Fungal Species for Dye Decolorization
 
-- [[staycare-trametes-versicolor-bioremediation-applications]]: Model organism for dye decolorization,
-  achieving >90% removal of many azo and anthraquinone dyes through
-  laccase and MnP production.
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]: Effective LiP and MnP producer
   capable of mineralizing azo dyes to CO2.
-- [[pleurotus-species-guide]]: P. ostreatus, P. sajor-caju, and P.
-  eryngii efficiently decolorize diverse dye classes using laccase,
-  MnP, and versatile peroxidase.
-- bjerkandera adusta: Strong decolorizer producing MnP and VP,
-  effective against recalcitrant dyes.
 - [[aspergillus-niger-in-fungal-bioleaching]]: Ascomycete species effective for both
   enzymatic degradation and biosorption, with the advantage of
   tolerating lower pH conditions common in textile effluents.
@@ -131,15 +114,8 @@ Critical parameters affecting decolorization efficiency:
   transfer but excessive shear can damage mycelial structures.
 - **Incubation time**: Decolorization typically progresses over 24-120
   hours, depending on dye structure, fungal species, and conditions.
-- **Immobilization**: [[singh-fungal-immobilization-bioreactor-technology]] enables continuous operation and biomass reuse.
-
-## See Also
-
-- [[singh-pulp-paper-effluent-fungal-decolorization]]
-
-- [[molasses-wastewater-fungal-decolorization]]
+- **Immobilization**: [[singh-pulp-paper-effluent-fungal-decolorization]]
 
 - [[singh-distillery-wastewater-fungal-treatment]]
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-phytotoxicity-testing-bioremediation-assessment]]
 - [[singh-fungal-immobilization-bioreactor-technology]]

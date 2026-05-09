@@ -21,44 +21,6 @@ and diversify trees, pruning to keep them productive, healthy, and manageable
 for decades.
 
 ## Fruit Tree Pruning
-[[fruit-tree-pruning]]
-Pruning is the selective removal of branches, shoots, and roots to shape
-trees, improve fruit quality, maintain tree health, and manage size. The
-primary goals are improving light and air penetration into the canopy
-(producing larger, sweeter, better-colored fruit), removing dead or diseased
-wood (preventing pathogen spread), renewing bearing wood (fruit trees produce
-best on young wood), and maintaining a manageable tree structure for spraying,
-thinning, and harvesting.
-
-Three main cut types define pruning technique. Thinning cuts remove an entire
-branch back to its point of origin, opening the canopy without stimulating
-excessive regrowth. Heading cuts remove only the terminal portion of a branch
-back to a bud, stimulating vigorous, dense regrowth below the cut; overuse
-creates a tangled, shaded canopy. Reduction cuts remove a larger branch back
-to a smaller lateral branch, reducing length without removing the whole
-branch. Bench cuts remove upright watersprouts back to horizontal branches,
-redirecting growth from vigorous but unfruitful vertical shoots to productive
-horizontal wood.
-
-Timing is critical. Dormant pruning (late winter, before bud break) is best
-for major structural work, removing dead and diseased wood, and thinning
-crowded growth; the tree structure is clearly visible without leaves, and
-vigorous spring regrowth fills gaps. Summer pruning (June through August) is
-best for removing watersprouts, thinning for light penetration, and
-controlling tree size; unlike dormant pruning, summer pruning slows the growth
-of pruned branches.
-
-Different fruit types require different approaches. Pome fruits (apples,
-pears) produce on spurs that remain productive for 10 or more years and are
-typically trained to a central leader form. Stone fruits (peaches, plums,
-apricots) produce on 1-year-old wood and need aggressive annual renewal
-pruning, typically in an open center form. Figs tolerate heavy pruning and are
-often grown as multi-stemmed bushes. Disease prevention through pruning
-includes sanitizing tools between cuts, removing diseased wood 6 to 12 inches
-below visible symptoms, and maintaining open canopy airflow that dries quickly
-after rain.
-
-## Fruit Tree Grafting
 [[fruit-tree-grafting-guide]]
 Grafting joins two plant tissues (rootstock and scion) so they grow together
 as one tree. The key requirement is good contact between the cambium layers of
@@ -133,7 +95,5 @@ varieties onto the framework of an established tree) combines the root system
 and structure of an old tree with new, improved varieties.
 
 ## See Also
-- [[food-forest-design]] — integrating grafted fruit trees into perennial systems
 - [[fruit-tree-propagation]] — broader propagation methods including grafting
-- [[orchard-management]] — complete orchard care beyond pruning and grafting
 - [[season-extension-techniques]] — protecting blossoms from late frost

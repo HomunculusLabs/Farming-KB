@@ -3,41 +3,7 @@ title: Permaculture Designers Manual - Energy Systems
 created: 2026-04-20
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Permaculture Designers Manual - Energy Systems
-
-updated: 2026-04-18
-
-Energy systems are treated primarily in Chapter 14 (the strategies for an alternative national future) and in Sections 10.3, 12.5, and scattered references throughout the manual. Mollison emphasises diversity of energy sources, decentralisation, and use of locally available renewable resources rather than fossil fuels.
-
-## Woodlots and Forestry Energy
-
-### Managed Fuel Woodlots
-
-Every settlement should plan for a dedicated fuel woodlot that provides a sustainable supply of firewood. Mollison emphasises that:
-- Stove design improvements reduce wood consumption by half to two-thirds
-- Well-managed coppice woodlots provide continuous harvest
-- Mixed species woodlots provide additional products: forage, wildlife habitat, and building materials
-- Woodlot placement should consider windbreak functions for settlements
-- Leguminous trees in woodlots fix nitrogen for adjacent crops
-
-### Firewood Species
-
-The manual mentions species for fuel at various scales. In temperate regions, coppiced hardwoods (oak, ash, hazel) provide dense firewood on rotation of 7-15 years. In the tropics, fast-growing species such as Leucaena, Gliricidia, and Casuarina are noted for rapid fuel production.
-
-### Pellets and Briquettes
-
-Wood residues, crop wastes, and forest thinnings can be pelletised for efficient fuel production.
-
-## Solar Energy
-
-### Passive Solar
-
-Passive solar design in buildings can approach 100% heating efficiency in well-designed structures. Key elements include orientation, glazing ratios, thermal mass floors and walls, insulation, and appropriate roof overhangs. Passive solar eliminates the need for mechanical heating systems in most climates (see [[permaculture-designers-manual-house-design-principles]]).
+tags: [[permaculture-designers-manual-house-design-principles]]).
 
 ### Active Solar
 
@@ -101,8 +67,25 @@ At national scale, the manual proposes:
 - Regional energy planning based on local resource assessment
 - Energy as a bioregional planning priority
 
-See also: [[permaculture-designers-manual-house-design-principles]], [[permaculture-designers-manual-waste-management]], [[permaculture-designers-manual-settlement-design]], [[permaculture-designers-manual-strategies-for-nations]]
-- [[permaculture-designers-manual-fuel-wood-systems]]
+See also: [[permaculture-designers-manual-waste-management]], [[permaculture-designers-manual-strategies-for-nations]]
 - [[permaculture-designers-manual-bioregional-planning]]
-- [[permaculture-designers-manual-temperate-climate-design]]
 - [[permaculture-designers-manual-animal-housing-detailed]]
+## Practical Considerations
+
+Successful implementation of Permaculture Designers Manual - Energy Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

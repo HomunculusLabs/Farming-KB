@@ -3,22 +3,7 @@ title: Holmgren Solar Cell Emergy Critique
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Solar Cell EMERGY Critique
-
-Updated: 2026-04-19
-
-David Holmgren's critical analysis of solar photovoltaic cells appears in *Permaculture: Principles and Pathways Beyond Sustainability* (2002) within the discussion of [[holmgren-renewable-resources-detailed]] and [[permaculture-design-principles]]. His assessment, drawing on Howard T. Odum's EMERGY analysis methodology, challenges the popular belief that solar cells can sustain a high-tech society in a post-fossil-fuel future.
-
-## The Core Argument
-
-Despite solar cells becoming "the great symbol of renewable energy, out of all proportion in importance to a future with declining energy," Holmgren argues that a high-tech society running on solar cells is "the stuff of dreams." This somewhat heretical view depends on net energy yield assessments.
-
-This critique connects to [[holmgren-tripartite-altruism]] by challenging one of the most widely held techno-optimist assumptions about energy descent — that solar cells will seamlessly replace fossil fuels.
+tags: [[holmgren-renewable-resources-detailed]] and [[holmgren-tripartite-altruism]] by challenging one of the most widely held techno-optimist assumptions about energy descent — that solar cells will seamlessly replace fossil fuels.
 
 ## EMERGY Analysis vs. Other Methods
 
@@ -36,13 +21,7 @@ The EMERGY methodology is based on universal energy laws and uses an energy symb
 
 ## The Maximum Power Law Argument
 
-A more fundamental argument rests on the Maximum Power Law (Principle 3: [[permaculture-design-principles]]). Because solar energy has been the primary external energy available for life on Earth, billions of years of evolution have probably already optimized the capture and conversion of solar energy. Technological alternatives are unlikely to match that efficiency when properly evaluated.
-
-Holmgren quotes Odum directly: after a billion years of natural selection, "the natural conversion of sunlight to electric charge that occurs in all green plant photosynthesis may already be the highest net EMERGY possible." Studies in biophysics show isolated chloroplasts to be more efficient than hardware cells.
-
-## Trees vs. Solar Cells
-
-This leads to the argument for [[holmgren-trees-nature-solar-power-plants]] as the superior renewable energy pathway. Forest trees are the ultimate development of biological solar energy capture and storage. Modern technology for wood gasifiers and micro-gas turbines appears to be a much more economical pathway for electricity production than solar cells.
+A more fundamental argument rests on the Maximum Power Law (Principle 3: [[holmgren-trees-nature-solar-power-plants]] as the superior renewable energy pathway. Forest trees are the ultimate development of biological solar energy capture and storage. Modern technology for wood gasifiers and micro-gas turbines appears to be a much more economical pathway for electricity production than solar cells.
 
 ## EMERGY Yield Ratios of Biomass
 
@@ -66,33 +45,69 @@ These limited appropriate uses reflect the permaculture principle of matching te
 
 The greatest value from solar cells may be their role in forcing a reassessment of how precious electricity is. The inevitable conclusion is that we should use it only for high-quality functions such as small electric motors, lighting, and communications. People living with autonomous solar power systems are pioneers in a new culture of modest electricity use.
 
-This cultural shift connects to [[consumer-versus-conserver-society]] and the broader argument that energy descent requires not just technological substitution but fundamental changes in expectations and behaviour.
-
-## Long-Term Prognosis
-
-Holmgren predicts that in 200 years, the primacy of trees will be entrenched, while solar cells may be "one of the forgotten high technologies of the past that there is no way to manufacture." This critique demonstrates why permaculture focuses on rediscovering biological solutions as alternatives to technological bias — the idea that "nature knows best" is supported by the most rigorous scientific understandings.
-
-## Environmental Impact Evaluation
-
-Holmgren references an early study of the environmental impacts of a power station on local everglade swamps in Florida. Odum estimated that the total biological productivity of 150 acres of swamp had been reduced by 50% by heated cooling water, but the embodied energy cost of the concrete and steel cooling tower alternative was 100 times greater. This illustrates that simple environmental solutions may have far greater hidden energy costs than initially apparent.
-
-## Complementary Tools
-
-EMERGY accounting has a positive aspect in that it reorganises our understanding of benefits, redefining what we mean by wealth and work. By redesigning both sides of the ledger, it allows us to better distinguish the differences between productive use of natural resources and wasteful ones, and to identify within any system where the gains and losses are accumulating.
-
-## See Also
-
-- [[holmgren-trees-nature-solar-power-plants]]
-
-- [[holmgren-tripartite-altruism]]
+This cultural shift connects to [[holmgren-trees-nature-solar-power-plants]]
 
 - [[holmgren-renewable-resources-detailed]]
 
-- [[permaculture-design-principles]]
-
 - [[holmgren-ecological-footprint-analysis]]
 
-- [[consumer-versus-conserver-society]]
-
-Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Principle 5, pp. 94-100
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
+## Practical Considerations
+
+When working with Holmgren Solar Cell Emergy Critique, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

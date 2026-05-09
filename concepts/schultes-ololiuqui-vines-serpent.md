@@ -132,12 +132,8 @@ accepted until correct identification in 1939.
 
 ## See Also
 
-- [[schultes-peyote-tracks-little-deer]] for another Mexican sacred
-  hallucinogen used in indigenous divination
 - [[schultes-psilocybe-little-flowers-gods]] for the sacred mushrooms
   used in similar Mazatec ceremonial contexts
-- [[schultes-ergot-st-anthonys-fire]] for ergot, the source of related
-  lysergic acid alkaloids in European history
 - [[schultes-datura-holy-flower-north-star]] for the plant mistakenly
   identified as Ololiuqui for centuries
 - [[schultes-ayahuasca-magic-drink-amazon]] for another visionary plant

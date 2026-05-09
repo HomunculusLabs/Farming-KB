@@ -1,7 +1,7 @@
 ---
 title: Overlay Problems and Solutions
 created: 2026-04-28
-tags: [mycology, casing, troubleshooting, overlay, Stamets]
+tags: [[mycology, casing, troubleshooting, overlay, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -128,8 +128,6 @@ detection and correction are critical for minimizing losses.
 
 ## Related Concepts
 
-- [[mushroom-casing-moisture-management]]
 - [[mushroom-casing-scratching]]
-- [[stamets-pinning-initiation-stages-environmental-control]]
 - [[stamets-casing-layer-design]]
 - [[stamets-contamination-identification-and-control]]

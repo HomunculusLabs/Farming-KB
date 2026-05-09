@@ -100,14 +100,7 @@ use of Amanita muscaria (benitengu-take) has historical documentation
 and possible connections to tengu folklore. In India, the speculative
 connection between A. muscaria and the Vedic soma has been debated for
 over a century, with Wasson being a prominent proponent. In Southeast
-Asia, the use of [[psilocybe-cubensis]] and Copelandia species by hill
-tribe peoples in Thailand and neighboring countries has been documented.
-
-## European Historical Ethnomycology
-
-While contemporary European culture does not maintain indigenous mushroom
-traditions, historical evidence suggests that psychoactive fungi may
-have played roles in ancient European cultures. The [[eleusinian-mysteries]]
+Asia, the use of [[eleusinian-mysteries]]
 of ancient Greece have been proposed to involve ergot-derived
 substances. Scandinavian and Celtic folklore contains mushroom-related
 motifs that may reflect ancient psychoactive mushroom use. However,
@@ -136,7 +129,6 @@ scientific literature serves an important preservation function.
 
 ## See Also
 
-- [[traditional-indigenous-use-sacred-fungi]]
 - [[mexico-center-neurotropic-fungal-diversity]]
 - amanita-muscaria-and-ibotenic-acid-fungi
 - [[gasteromycetes-sacred-fungi]]

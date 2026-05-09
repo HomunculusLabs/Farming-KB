@@ -54,33 +54,7 @@ red photopsins, but not the green photopsin.
 ## Darwin's Phototropism Experiments
 
 Charles and Francis Darwin demonstrated that plant bending toward
-light ([[phototropism-photoperiodism-discovery-phytochrome]]) was directed by a dedicated light-sensing
-mechanism at the shoot tip, not by photosynthesis. In their classic
-1880 experiment, canary grass (Phalaris canariensis) seedlings
-grown in darkness were exposed to a dim gas lamp. Five treatments were
-used: (a) untreated control, bending normally; (b) tip removed, no
-bending; (c) tip covered with lightproof cap, no bending; (d) tip
-covered with clear glass cap, bending normally; (e) middle section
-covered with lightproof tube, bending normally. This proved the tip
-detects light and communicates direction information downward to
-coordinate bending. Julius von Sachs had established in 1864 that blue
-light is the primary color inducing phototropism.
-
-## Phytochromes
-
-Phytochromes are primary photoreceptors for red and far-red light,
-existing in two interconvertible forms. Pr absorbs red light (~660 nm)
-and converts to biologically active Pfr; Pfr absorbs far-red light
-(~730 nm) and converts back to Pr. This switching allows plants to
-detect the red to far-red ratio in their environment, a critical signal
-about neighboring vegetation. Under a forest canopy, chlorophyll absorbs
-red light while transmitting far-red light. Phytochromes detect this
-shift and trigger shade-avoidance responses including stem elongation
-and accelerated flowering.
-
-## Cryptochromes
-
-[[cryptochrome-and-blue-light-photoreception|Cryptochromes]] are blue-light photoreceptors central to
+light ([[cryptochrome-and-blue-light-photoreception|Cryptochromes]] are blue-light photoreceptors central to
 circadian rhythm regulation, de-etiolation, and plant development. They
 absorb blue and UV-A light and share structural homology with DNA
 photolyase enzymes, though they have lost DNA repair function and
@@ -109,35 +83,7 @@ UV-induced damage.
 The Maryland Mammoth tobacco strain, discovered in 1906, grew
 continuously without flowering. In 1918, Garner and Allard at the USDA
 discovered that limiting daily light exposure caused flowering. This
-[[phytochrome-red-far-red-switch-and-photoperiodism]] revealed that plants measure day length to time
-critical developmental transitions including the switch from vegetative
-growth to flowering.
-
-## Integration of Multiple Light Signals
-
-A single plant simultaneously detects red light through phytochromes,
-blue light through cryptochromes and phototropins, and UV-B through
-UVR8 receptors, each activating distinct but overlapping signaling
-pathways. A seedling emerging from soil must simultaneously suppress
-stem elongation, orient growth toward light, begin producing chlorophyll,
-and synchronize its circadian clock. This multi-channel perception
-rivals animal visual complexity without a nervous system.
-
-## Comparison with Animal Vision
-
-Animal vision relies on dense photoreceptor arrays forming images
-processed by a central nervous system. Plant light perception is
-distributed across the entire organism, with photoreceptors in leaves,
-stems, roots, and seeds monitoring local conditions and triggering
-tissue-specific responses. Plants cannot form images, but detect color
-ratios, direction, intensity, and duration with spectral range
-exceeding human capabilities in some respects.
-
-## See Also
-
-- [[phototropism-photoperiodism-discovery-phytochrome]] and the Darwin experiments
-- [[phytochrome-red-far-red-switch-and-photoperiodism]] and day-length measurement
+[[darwin-phototropism-discovery-plant-light-perception]] and the Darwin experiments
 - [[phytochrome-photoreception]] red and far-red light sensing
-- [[cryptochrome-and-blue-light-photoreception]] blue light photoreception
-- [[chamovitz-photoperiodism-phytochrome-plant-vision]]
+- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
 - [[darwins-phototropism-experiments]]

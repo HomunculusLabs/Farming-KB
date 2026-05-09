@@ -8,23 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOI
 
-[[al-pihkal-entry-2]] #67. 2,5-DIMETHOXY-4-IODOAMPHETAMINE.
-
-## Chemical Name
-
-2,5-DIMETHOXY-4-IODOAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 1.5 - 3.0 mg. |
-| Duration | 16 - 30 h. |
-
-## Qualitative Comments
-
-> (with 0.6 mg) There was a nice spacey
-> light-headedness for a few hours, [[mollison-designers-cycles-niches-and-time]] seemed to move quite
+[[mollison-designers-cycles-niches-and-time]] seemed to move quite
 > slowly. Then a generic sadness came over me, as I reminisced about
 > earlier days (recalling pleasures now gone) and wondered if I would be
 > allowed to be here on the Farm when I am old and not important. There
@@ -35,61 +19,7 @@ sources: ["Shulgin - PIHKAL"]
 > with a sad view of life. There was no way I could connect with my
 > emotions. Even my sadness was vague. At about the ninth hour I
 > decided that enough was enough, and this strangely disappointing
-> about-plus-two was aborted with 125 micrograms [[mckenna-discovery-and-impact-of-lsd]]. The emotions
-> became present and living within a half hour. I was greatly relieved.
-> The erotic was not a mechanical attempt but a deeply involved feeling
-> with an archetype of orgasm easily available. It was shaped like a
-> flower, richly colored, with an unusual "S" shape to it. This was a
-> lovely end to a difficult day.
->
-> (with 3.0 mg) This is a clear, clean psychedelic. The eyes-closed
-> imagery is excellent, with clearly delineated patterns, pictures, and
-> colors. Perfect for an artist, and next time I'll devote some time to
-> painting. Total ease for the body, but no help for my smoking
-> problem. I still want to smoke. And at sixteen hours into this I am
-> still at 1.5+ but I'll try to go to bed anyway, and sleep.
->
-> (with 3.5 mg) I was at a full crashing +++ for about three or four
-> hours. There was none of the LSD sparkle, but there were moments of
-> `light-headedness' where one could move sideways with reality. I
-> could leave where I was right over there, and come over here and get a
-> strange but authentic view of where the `there' was that I had left.
-> It would be out-of-body, except that the body came over here with me
-> rather than staying there. This doesn't make sense now, but it sure
-> did then. There was no trace of body impact, and I slept late that
-> evening, but with some guardedness due to the intense imagery. This
->
->
->
-> was no more intense than with 3.0 milligrams, but it was a little bit
-> more to the unreal side.
->
-> (with 1.0 mg of the "R" isomer) There was a clear ++ from the second
-> to the eighth hour, but somehow there was not quite the elegance or
-> the push of the racemate. I was sensible, and managed to do several
-> technical chores in a reasonable way. Easy sleep at 15 hours into
-> it.
->
-> (with 2.3 mg of the "R" isomer) The water solution of the
-> hydrochloride salt has a slightly sweetish taste! I was at a +++
-> without question, but there was a slight down mood towards the end.
-> And it lasted a really long time; I was distinctly aware of residual
-> stuff going on, well into the next day.
->
-> (with 6.3 mg of the "S" isomer) I was at a benign one-and-a-half plus
-> at about two hours, and finally flattened out at a ++. Would I double
-> this dose? Probably not, but half again (to 9 or 10 milligrams) would
-> feel safe for a plus 3. By evening I was near enough baseline to
-> drive into town for a social obligation, but even when trying to sleep
-> later that night there was some residue of imagery; remarkably, it was
-> all in slow motion. The fantasies were slow-paced and sluggish. It
-> would have been interesting to have explored eyes-closed during the
-> day.
->
-
-## Extensions and Commentary
-
-Again, as with every other psychedelic amphetamine analogue which has a chiral center and has been expldomd as the individual [[optical-isomers-psychedelic-phenethylamines]], it is the "R" isomer that is the more potent. And again, the other isomer, the "S" isomer, still shows some activity. The same was true with DOB, and DOM, and MDA. The only exception was MDMA, but then that is more of a stimulant, and there is virtually no psychedelic component to its action. Rat studies, where there is a measure of the discrimination of a test compound from saline, have shown the "R" isomer to have about twice the potency of the "S" isomer. That the "R" is more potent is certain, but the above reports would suggest that the factor would bserotoninto times-four rather than times-two.
+> about-plus-two was aborted with 125 micrograms [[optical-isomers-psychedelic-phenethylamines]], it is the "R" isomer that is the more potent. And again, the other isomer, the "S" isomer, still shows some activity. The same was true with DOB, and DOM, and MDA. The only exception was MDMA, but then that is more of a stimulant, and there is virtually no psychedelic component to its action. Rat studies, where there is a measure of the discrimination of a test compound from saline, have shown the "R" isomer to have about twice the potency of the "S" isomer. That the "R" is more potent is certain, but the above reports would suggest that the factor would bserotoninto times-four rather than times-two.
 
 A number of studies with DOI in animal models have shown it to have an extremely high binding capacity to what are called the 5-HT2 receptors. Serotonin is a vital neurotransmitter in the brain, and is strongly implicated in the action of all of the phenethylamine psychedelics. The place where it acts, at the molecular level, is called its receptor site. As an outgrowth of the cooperative studies of the medicinal chemists working closely with the neuropharmacologists, a number of compounds have emerged that interact with these sites. But this one interacts with these sites and not those, and that one interacts with those sites and not these. So, there has developed a collection of sub-divisions and sub-subdivisions of receptor sites, all related to serotonin, but each defined by the particular compound that interacts most tightly with it.
 
@@ -113,14 +43,67 @@ solids were removed by filtration and had a mp of about 340 deg C (reference sam
 
 ## Safety Notes
 
-DOI is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
+DOI is a research chemical documented in PIHKAL. Dosage data [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the DOx family
+## Practical Considerations
+
+When working with DOI -- 2,5-DIMETHOXY-4-IODOAMPHETAMINE -- PIHKAL Entry #67, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

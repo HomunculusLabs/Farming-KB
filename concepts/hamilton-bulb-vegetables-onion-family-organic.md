@@ -27,27 +27,7 @@ well, so it is not difficult to maintain a year-round supply.
 All the bulb vegetables prefer sunshine and a soil rich in organic
 matter, so dig in plenty of well-rotted compost or manure. If
 necessary, add lime to raise the soil pH above 6.5. If you are using
-the [[hamilton-three-year-crop-rotation]],
-grow the bulb vegetables in Plot A, which receives double digging with
-manure incorporated into upper and lower levels.
-
-## Garlic - *Allium sativum*
-
-Sometimes classified as an herb, garlic is one of the easiest
-vegetables to grow, needing only a warm, sunny location. It is sown
-from cloves, the individual segments of the bulb, and can be dried and
-stored for year-round use.
-
-### Varieties
-
-California White grows well in most climates, while Silver Rose stores
-very well. For something big and beautiful, try Elephant Garlic.
-
-### Planting and Care
-
-Separate the cloves and plant them, pointed end up, in holes 1in
-(2.5cm) deep and 6in (15cm) apart. Do this in late winter. On
-[[hamilton-deep-bed-system]], plant the cloves 6in (15cm)
+the [[hamilton-deep-bed-system]], plant the cloves 6in (15cm)
 apart in staggered rows. Keep the rows weed free and, if the site is
 exposed, support the stems to keep them from breaking off in the wind.
 
@@ -112,11 +92,6 @@ can be used as green onions.
 
 ## Rotation and Timing
 
-Bulb vegetables fit into Plot A of the [[hamilton-crop-rotation-and-vegetable-planning]], which receives heavy manuring. Sowing begins in late winter with garlic, with main plantings in early to mid-spring. Harvesting extends from early summer through late autumn.
-
-## Related Topics
-
-- [[hamilton-three-year-crop-rotation]]
-- [[hamilton-deep-bed-system]]
+Bulb vegetables fit into Plot A of the [[hamilton-three-year-crop-rotation]]
 - [[hamilton-vegetative-propagation]]
 - [[hamilton-pest-and-disease-control-organic]]

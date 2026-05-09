@@ -124,8 +124,6 @@ Reported effects are virtually indistinguishable from LSD at equivalent doses. V
 
 ## See Also
 
-- [[lsd]] — The parent compound and active metabolite of 1cP-LSD
 - [[1p-lsd]] — Predecessor prodrug with propionyl masking group
-- [[1v-lsd]] — Contemporary prodrug with valeroyl masking group
-- [[psilocybin-compound]] — Natural psychedelic with overlapping 5-HT2A mechanism
+- [[psilocybin]] — Natural psychedelic with overlapping 5-HT2A mechanism
 - [[dimethyltryptamine]] — Classic tryptamine psychedelic for comparison

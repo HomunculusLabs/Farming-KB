@@ -115,9 +115,6 @@ Harvesting practices that leave the mycelial mat undisturbed (cutting rather tha
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]] — another prized edible ectomycorrhizal mushroom
 - [[agaricus-bisporus]] — the most widely cultivated mushroom globally
-- [[lentinula-edodes-entity]] — shiitake, a commercially significant cultivated mushroom
 - [[pleurotus-ostreatus]] — oyster mushroom, a saprotrophic culinary species
-- [[gyroporus-cyanescens]] — a bluing bolete for comparison
 - [[hericium-erinaceus]] — lion's mane, a medicinal/edible species

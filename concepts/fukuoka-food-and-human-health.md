@@ -10,27 +10,7 @@ sources:
 
 # Food and Human Health
 
-For Masanobu Fukuoka, the connection between farming practices and human health was not abstract but immediate and direct. His [[fukuoka-natural-vs-scientific-farming]] was motivated not only by ecological concerns but by a deep conviction that the way we grow food determines the health of those who eat it.
-
-## The Chain of Degradation
-
-When the soil is killed by chemicals, the food grown in it loses its vitality. When food loses its vitality, the people who eat it lose their health. This is a simple causal chain, but one that modern society has largely chosen to ignore.
-
-Fukuoka saw the epidemic of chronic diseases in modern Japan -- and increasingly in the West -- as a direct consequence of industrial agriculture and processed food. Cancer, allergies, digestive disorders, and mental illness were, in his view, the inevitable result of eating food that had been separated from its natural source.
-
-## Agriculture Arose from Dietary Confusion
-
-Fukuoka traced the roots of agricultural degeneration to confusion about diet itself. "Agriculture arose from human cravings over food. It was man's desire for tasty and abundant food that was responsible for the development of agriculture. Farming methods have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal."
-
-The Japanese diet has undergone rapid development recently, but has this really been for the good? The failure of modern agriculture has its roots in abnormal dietary practices and the low level of basic awareness people have regarding diet.
-
-The very first step that must be taken in setting the proper course for agriculture is to reexamine what "diet" represents. Correcting man's eating habits by establishing a natural diet erects a foundation for natural farming.
-
-## The Soil-Stomach Connection
-
-There is a direct parallel between the soil and the human digestive system. Just as chemical fertilizers kill the soil's microbial life and reduce its ability to provide nutrients to plants, processed foods and chemicals in the diet kill the gut's microbial life and reduce its ability to nourish the body.
-
-The living soil produces living food, which sustains living bodies. Dead soil produces dead food, which creates sick bodies. This is not a metaphor but a biological reality that can be observed in the fields and in the clinic. The [[fukuoka-living-soil]] is the foundation of human health.
+For Masanobu Fukuoka, the connection between farming practices and human health was not abstract but immediate and direct. His [[fukuoka-living-soil]] is the foundation of human health.
 
 ## Food Grown by Nature vs. Food Grown by Man
 
@@ -56,11 +36,7 @@ This "instant" food that panders to consumer cravings has already deviated far f
 
 For Fukuoka, health was not merely the absence of disease but a state of harmony with nature. A healthy person eats food that is in season, grown locally, by natural methods. A healthy person lives in an environment that has not been degraded by human activity. A healthy person has a relationship with the land that sustains him.
 
-Modern medicine, in Fukuoka's view, treats symptoms without addressing causes. It is like treating a diseased tree with chemicals while ignoring the degraded soil that caused the disease. True healing requires restoring the relationship between the person and nature. This is the essence of Fukuoka's [[fukuoka-vegetable-disease-insect-resistance]] philosophy.
-
-## The Cleansing Diet
-
-Fukuoka advocated for a [[fukuoka-cleansing-diet]] based on brown rice and seasonal vegetables as a way to restore health. This diet, rooted in traditional Japanese food wisdom, was not a fad but a return to the way people ate before industrialization transformed food into a commodity.
+Modern medicine, in Fukuoka's view, treats symptoms without addressing causes. It is like treating a diseased tree with chemicals while ignoring the degraded soil that caused the disease. True healing requires restoring the relationship between the person and nature. This is the essence of Fukuoka's [[fukuoka-cleansing-diet]] based on brown rice and seasonal vegetables as a way to restore health. This diet, rooted in traditional Japanese food wisdom, was not a fad but a return to the way people ate before industrialization transformed food into a commodity.
 
 The five tastes -- sweet, sour, bitter, spicy, and salty -- all have their place in a healthy diet. Modern processed food emphasizes sweet and salty at the expense of the others, creating imbalance. A natural diet includes all five tastes in their proper proportions, as found in whole, unprocessed foods.
 
@@ -88,19 +64,9 @@ Dietary reform is therefore not just a matter of physical health but of mental a
 
 ## Related
 
-- [[fukuoka-natural-diet-theory]]
-
 - [[fukuoka-philosophy-eating]]
 
-- [[fukuoka-five-tastes-health]]
-
-See also: [[fukuoka-living-soil]], [[fukuoka-natural-food-philosophy]], [[fukuoka-pest-management-without-chemicals]], [[fukuoka-vegetable-disease-insect-resistance]], [[fukuoka-natural-diet-theory]], [[fukuoka-critique-western-dietetics]]
-
-## Merged: What Is Human Food
-
-# What Is Human Food
-
-From [[fukuoka-the-one-straw-revolution-final-chapter]] (1978), Book III.
+- [[fukuoka-living-soil]], [[fukuoka-pest-management-without-chemicals]], [[fukuoka-natural-diet-theory]], [[fukuoka-the-one-straw-revolution-final-chapter]] (1978), Book III.
 
 ## Natural vs Chemical Flavor
 

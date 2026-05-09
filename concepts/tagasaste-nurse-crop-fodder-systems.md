@@ -1,29 +1,14 @@
 ---
 title: "Tagasaste as Nurse Crop and Fodder System"
 created: 2026-04-28
-tags: [permaculture-plants, nurse-crops, fodder-trees, nitrogen-fixing]
+tags: [[permaculture-plants, nurse-crops, fodder-trees, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
 type: concept
 ---
 
-[[tagasaste]] (Chamaecytisus palmensis), also known as tree lucerne, is
-a nitrogen-fixing legume native to the Canary Islands. It is one of
-the most useful pioneer species in permaculture, valued as stock
-fodder, bee forage, nurse crop, and mulch producer. In Western
-Australia alone, 50,000 hectares of mostly marginal farmland have
-been planted to tagasaste, with an estimated 1.5 million hectares
-that could benefit from it.
-
-## Growth Characteristics
-
-Tagasaste grows to 7 metres and is capable of productive growth in
-areas receiving as little as 300 mm annual rainfall. Drought
-tolerance improves when phosphorus is readily available; liberal
-application of rock phosphate at planting time works well. The
-nitrogen-fixing bacteria are usually already present in soil from
-other legume species including [[acacia]], Albizia, and Cassia.
+[[acacia]], Albizia, and Cassia.
 
 It is generally short-lived, but regular cutting or browsing can
 considerably extend its life expectancy. Today it is a naturalised
@@ -123,8 +108,5 @@ nurse to the permanent tree crop.
 
 ## See Also
 
-- [[permplant-tagasaste-pioneer-fodder-tree]]
-
 - [[fungal-endophytes-grass-crop-systems]]
-- [[nurse-crop-species-permaculture]]
 - [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]]

@@ -78,13 +78,8 @@ Despite these limitations, MFC technology represents a promising integration of 
 
 ## See Also
 
-- [[singh-microbial-fuel-cells-fungal-electrogenesis]]
-
-- [[bioremediation-fungal-vs-bacterial]] — comparison of remediation organisms
-- [[biostimulation-techniques]] — stimulating native microbial populations
+- [[mycoremediation]] — comparison of remediation organisms
 - [[bioaugmentation-strategies]] — introducing specialized remediation organisms
-- [[fungal-bioremediation]] — fungal approaches to contaminant degradation
 - [[fungal-enzyme-systems-in-bioremediation]] — enzyme systems for remediation
-- [[constructed-wetlands-wastewater-treatment]] — wetland treatment systems
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 - [[fungal-single-cell-protein-production]]

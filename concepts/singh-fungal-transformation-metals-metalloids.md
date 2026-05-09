@@ -101,8 +101,6 @@ high external Al concentrations appears to involve different mechanisms
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[singh-uranium-radionuclide-fungal-biosorption]]
 - [[singh-chromium-bioremediation-fungi]]
 - [[fungal-biosorption-desorption-regeneration]]

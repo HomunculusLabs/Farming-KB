@@ -94,7 +94,7 @@ Tinctures can be used as an ingredient in cooking:
 
 ## Advantages Over Other Methods
 
-Compared to [[cannabis-cannabutter-preparation]] and [[neem-oil-cannabis]]:
+Compared to [[neem-oil-cannabis]]:
 
 - Faster onset of effects
 - More precise dosing with dropper bottles
@@ -108,11 +108,7 @@ Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Pub
 
 ## See Also
 
-- [[cannabis-cannabutter-preparation]]
 - [[cannabis-oil-extraction]]
-- [[cannabis-topical-preparations]]
 - [[cannabis-hashish-production]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-seed-selection-and-strain-types]]
-- [[cannabis-topical-applications]]
 - [[honey-based-herbal-preparations]]

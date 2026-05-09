@@ -142,8 +142,6 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 - **Size:** 30–60 cm; striking blue flower spikes
 ## See Also
 
-- [[nitrogen-fixing-plants|Nitrogen-Fixing Plants and Soil Fertility]]
 - [[cover-cropping-guide|Agroforestry and Alley Cropping]]
-- [[cover-crop-quick-reference|Cover Crop Quick Reference]]
 - [[dynamic-accumulator-quick-reference|Dynamic Accumulator Quick Reference]]
 - [[natural-farming-guide-permaculture-design-for-small-holdings|Silvopasture Systems Design]]

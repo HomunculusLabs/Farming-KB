@@ -47,17 +47,15 @@ The taste and odor are mild and undistinguished, sometimes described as slightly
 
 deconica crobula has a widespread distribution across temperate regions of the Northern Hemisphere. It has been reported from Europe, North America, and parts of Asia. The species is coprophilous or lignicolous, typically growing on herbivore dung, enriched soil, or decaying plant material in pastures, meadows, and grasslands.
 
-Fruiting occurs from late spring through autumn, typically after periods of rainfall. It is often found in the same habitats as [[psilocybe-coprophila]] and [[psilocybe-merdaria]], both of which are also non-bluing species now placed in Deconica or related genera.
+Fruiting occurs from late spring through autumn, typically after periods of rainfall. It is often found in the same habitats as [[psilocybe-merdaria]], both of which are also non-bluing species now placed in Deconica or related genera.
 
 ## Chemistry
 
-Unlike species retained in the genus Psilocybe, *D. crobula* does not produce [[psilocybin-compound]], [[psilocin]], or related tryptamine alkaloids. It is not psychoactive. The absence of blue-staining is a reliable field indicator of the lack of psilocybin, though some genuinely psychoactive species may show minimal bluing under certain conditions.
+Unlike species retained in the genus Psilocybe, *D. crobula* does not produce [[psilocin]], or related tryptamine alkaloids. It is not psychoactive. The absence of blue-staining is a reliable field indicator of the lack of psilocybin, though some genuinely psychoactive species may show minimal bluing under certain conditions.
 
 ## Similar Species
 
-- [[psilocybe-coprophila]] — similar habitat, also non-bluing and non-psychoactive
 - [[psilocybe-merdaria]] — coprophilous, small, non-bluing
-- [[psilocybe-semilanceata]] — can grow in similar grassland habitats but has a distinctive conical cap and bruises blue
 - [[psilocybe-fimetaria]] — coprophilous, but bruises blue and is psychoactive
 
 The key distinguishing feature is the complete absence of blue bruising on all parts of the mushroom, combined with microscopic examination of spore and cystidia characteristics.
@@ -77,6 +75,5 @@ Not controlled, as it does not contain scheduled substances.
 ## See Also
 
 - Deconica
-- [[psilocybe-coprophila]]
 - [[psilocybe-merdaria]]
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]

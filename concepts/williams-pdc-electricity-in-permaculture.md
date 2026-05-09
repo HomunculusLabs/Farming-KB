@@ -1,7 +1,7 @@
 ---
 title: Electricity in Permaculture
 created: 2026-04-28
-tags: [permaculture, renewable-energy, solar, electricity, passive-design]
+tags: [[permaculture, renewable-energy, solar, electricity, passive-design]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -125,21 +125,6 @@ off-grid capability is achievable.
 There is no single magic wand for solving electricity consumption. Use
 as many systems as possible, all working together in unison. This
 includes passive design strategies, lifestyle habits, natural lighting,
-[[solar-water-heating]], earthtubes, and multiple renewable generation
-sources, all brought together into a comprehensive energy system.
-
-## Key Principles for Electrical Design
-
-- Reduce demand first through passive design and efficiency
-- Harness multiple renewable sources for resilience
-- Stack functions of all electrical systems
-- Design for phased implementation when budget is constrained
-- Lifestyle choices are as important as technological solutions
-- The goal is minimizing ecological impact, not maximizing convenience
-
-## See Also
-
-- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
-- [[williams-pdc-plants-in-permaculture-systems]]
+[[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]
 - [[williams-pdc-additional-permaculture-principles]]

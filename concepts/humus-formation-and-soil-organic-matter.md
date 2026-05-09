@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 ## What Is Humus
@@ -33,22 +34,7 @@ Plant residues (leaves, stems, roots) and animal materials enter the soil surfac
 Bacteria are the first to colonize fresh organic matter, consuming simple sugars and proteins. Fungi follow, breaking down more complex compounds including cellulose and hemicellulose. This rapid initial decomposition releases large amounts of carbon dioxide and mineral nutrients.
 
 **Stage 3: Secondary decomposition**
-As the easily decomposed compounds are consumed, [actinomycetes and fungi specialize in breaking down the more resistant materials -- particularly lignin. [[fungal-decomposition]] cycles drive this stage, with different fungal species succeeding one another as substrate quality changes.
-
-**Stage 4: Humification**
-Through repeated cycles of microbial consumption, transformation, and excretion, the original organic molecules are progressively restructured into longer, more complex, and more stable carbon compounds. These humic substances become increasingly resistant to further decomposition.
-
-**Stage 5: Mineralization**
-Even stable humus is slowly broken down by specialized microorganisms, releasing a slow, steady trickle of mineral nutrients. This mineralization rate is typically 1-3% per year, providing a sustained nutrient supply.
-
-## Types of Humic Substances
-
-Humus is chemically categorized into three main fractions based on solubility:
-- **Humic acids**: Dark brown to black organic acids that are soluble in alkali but precipitate in acid. These are the most abundant humic fraction and contribute significantly to cation exchange capacity
-- **Fulvic acids**: Yellow to yellow-brown organic acids that are soluble in both alkali and acid. Fulvic acids are smaller molecules with higher oxygen content, and they can chelate (bind) micronutrients, improving their availability to plants
-- **Humin**: The insoluble fraction that remains after extraction. Humin is the most stable and long-lasting component of humus
-
-## The Role of [[root-exudates]]
+As the easily decomposed compounds are consumed, [actinomycetes and fungi specialize in breaking down the more resistant materials -- particularly lignin. [[root-exudates]]
 
 [Root exudates play an important but often overlooked role in humus dynamics:
 - Plants allocate 10-40% of their photosynthetically fixed carbon to root exudates
@@ -60,7 +46,7 @@ Humus is chemically categorized into three main fractions based on solubility:
 
 Humus is one of the most important agents of soil aggregation:
 - It acts as a binding agent, gluing mineral particles (sand, silt, clay) together into aggregates
-- Combined with biological glues like bacterial polysaccharides and [[glomalin-and-soil-carbon]] from [[arbuscular-mycorrhizal-fungi]], humus creates stable soil crumbs (peds)
+- Combined with biological glues like bacterial polysaccharides and [[arbuscular-mycorrhizal-fungi]], humus creates stable soil crumbs (peds)
 - Well-aggregated soil has good porosity -- a balance of macropores (for drainage and aeration) and micropores (for water retention)
 - Humus improves both the structure of clay soils (reducing compaction) and sandy soils (improving water and nutrient retention)
 
@@ -90,30 +76,9 @@ Practices that build humus:
 - Growing [[cover-crops]] and green manures that add both above-ground biomass and root mass to the soil
 - Minimizing tillage -- each tillage event oxidizes approximately 0.5-1.0 tonnes of humus per hectare
 - Using [compost tea to inoculate soil with diverse microbial communities that accelerate humus formation
-- Supporting [[mycorrhizal-fungi]] networks that contribute carbon to soil through hyphal turnover and [[glomalin-and-soil-carbon]] production
-- Incorporating [[biochar]] which provides stable carbon habitat for microorganisms
-
-## Humus Loss
-
-Humus can be depleted through:
-- Excessive tillage, which exposes humus to oxygen and accelerates microbial oxidation
-- Removal of crop residues without replacement
-- Erosion that removes the humus-rich topsoil
-- Bare soil that oxidizes organic matter without replacement
-- Chemical fertilizers that stimulate rapid microbial growth followed by crash, net-depleting soil carbon
-- Monoculture systems that reduce root exudate diversity
-
-## Measuring Soil Organic Matter
-
-Soil organic matter (SOM) tests provide an indirect measure of humus content:
-- Typical agricultural soils contain 1-5% organic matter
-- Healthy garden soils contain 5-10% organic matter
-- Prairie soils under natural vegetation may contain 8-12% organic matter
-- Forest soils can contain 10-30% organic matter, especially in the O horizon
-- A rule of thumb: for every 1% increase in soil organic matter, an acre of soil can hold approximately 20,000 additional gallons of water
-
-Regular [[soil-testing]] for organic matter content allows tracking of humus-building progress over time. An increase of 0.1% per year is considered a realistic goal with good management practices.
+- Supporting [[glomalin-and-soil-carbon]] production
+- Incorporating [[soil-testing]] for organic matter content allows tracking of humus-building progress over time. An increase of 0.1% per year is considered a realistic goal with good management practices.
 
 ## Related
 
-- [[composting-and-soil-biology]]
+- [[ozier-pdc-composting-and-soil-building]]

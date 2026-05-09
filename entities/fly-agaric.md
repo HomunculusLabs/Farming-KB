@@ -26,27 +26,7 @@ sources:
 
 ## Overview
 
-**[[amanita-muscaria]]** (L.) Lam., commonly known as the fly agaric or fly amanita, is one of the most iconic and recognizable organisms on Earth — the quintessential "toadstool" of fairy tales, children's literature, and video game culture. Beyond its striking appearance, A. muscaria is a pharmacologically complex psychoactive mushroom containing the excitatory amino acids [[ibotenic-acid]] and muscimol, which produce a distinctly different psychoactive profile from the tryptamine-containing [[psilocybin-mushrooms]].
-
-The species has a rich ethnobotanical history spanning Siberia, northern Europe, India, and Mesoamerica, and is increasingly studied for its potential therapeutic applications in neurological and psychiatric conditions.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Amanitaceae
-- **Genus:** Amanita
-- **Species:** A. muscaria
-
-### Macroscopic Features
-
-- **Cap:** 8–20 cm, initially globose to hemispherical, becoming convex to flat with age; surface bright red to orange-red (var. muscaria) or yellow to orange (var. formosa, var. flavivolvata) covered with white to pale yellow warts (remnants of the universal veil); margin slightly striate
-- **Gills:** Free, crowded, white to creamy, with a floccose edge
-- **Stipe:** 8–20 cm × 1–2.5 cm, white, cylindrical, slightly tapering upward; bears a prominent skirt-like annulus (ring) near the apex; base bulbous with 2–4 concentric rings of volval remnants (shaggy remnants of the universal veil at the base)
-- **Flesh:** White, firm; odor mild to slightly sweet
-- **[[spore-print]]:** White
+**[[ibotenic-acid-entity]] and muscimol, which produce a distinctly different psychoactive profile from the tryptamine-containing [[spore-print]]:** White
 - **Spores:** Globose to broadly ellipsoid, smooth, 8–12 × 6.5–9 μm, non-amyloid
 
 ### Varieties and Color Morphs
@@ -144,6 +124,5 @@ Contemporary use of A. muscaria is primarily in the form of dried mushroom mater
 
 ## See Also
 
-- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
 - [[fly-agaric-ethnobotany]]
 - [[siberian-fly-agaric-shamanism-urine-recycling]]

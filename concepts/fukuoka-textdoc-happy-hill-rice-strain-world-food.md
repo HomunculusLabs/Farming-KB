@@ -117,12 +117,8 @@ growing.
 
 ## Wikilinks
 
-- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
-- fukuoka textdoc desert rainfall vegetation cycle nature dissected
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
 - [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]]
-- [[natural-farming-philosophy-of-mu]]
 - [[do-nothing-farming]]
 
 ## See Also

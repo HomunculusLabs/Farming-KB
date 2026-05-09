@@ -114,9 +114,7 @@ unexplored.
 
 ## See Also
 
-- [[pihkal-mescaline]]
 - [[pihkal-mescaline-analogs]]
-- [[mescaline-derivatives-pihkal]]
 - [[dosage-ambiguity-fuzzy-numbers-pihkal]]
 - [[pihkal-qualitative-effects-themes]]
 

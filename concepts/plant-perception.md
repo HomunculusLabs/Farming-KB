@@ -113,5 +113,5 @@ Plants exhibit forms of memory:
 - [[cannabis-lighting-guide]] — detailed spectrum requirements per growth stage
 - [[cannabis-vegetative-stage]] — light management in veg
 - [[cannabis-flowering-stage]] — photoperiod control for flowering
-- cannabis pest management — plant defense responses to pest attack
+- [[cannabis-pest-management]] — plant defense responses to pest attack
 - [[soil-food-web-nutrient-cycling]] — chemical signaling in the root zone

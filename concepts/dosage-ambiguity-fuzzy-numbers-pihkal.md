@@ -49,7 +49,7 @@ PiHKAL typically reports dosages as ranges rather than single numbers (e.g., "80
 
 ## The Shulgin Rating Scale as Dosage Companion
 
-The [[tihkal-shulgin-rating-scale]] (+/- through +++) was developed to complement dosage information by providing a qualitative vocabulary for effect intensity. This allowed reports like "a ++ at 20 mg" to be meaningful even when the absolute numbers varied between individuals. See the separate [[tihkal-shulgin-rating-scale]] for the full system.
+The [[tihkal-shulgin-rating-scale]] for the full system.
 
 ## Dosage Comparison Standards
 
@@ -79,11 +79,7 @@ Despite all these uncertainties, Shulgin's dosage assignments remain remarkably 
 
 ## Related Topics
 
-- [[tihkal-shulgin-rating-scale]]
 - [[shulgin-dosage-guidelines]]
-- [[phenethylamine-duration-and-timing]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[pihkal-introduction-and-methodology]]
 - [[turner-psychedelic-combination-experience-reports]]
-- [[inactive-probes-pharmacological-falsification-pihkal]]
 - [[psychedelic-dose-response]]

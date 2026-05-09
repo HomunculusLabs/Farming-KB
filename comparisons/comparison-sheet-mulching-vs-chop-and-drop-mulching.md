@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, mulching, no-till, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 type: comparison
 ---
 
@@ -21,31 +22,6 @@ regenerative growing system, with sheet mulching best suited for initial bed
 creation and chop and drop ideal for ongoing maintenance.
 
 ## Sheet Mulching
-[[sheet-mulching]]
-
-Sheet mulching, sometimes called lasagna gardening, is a no-till method for creating
-new garden beds by layering organic materials directly on top of existing vegetation.
-Popularized by Toby Hemenway in Gaia's Garden and rooted in permaculture design
-principles, the technique mimics the way a natural forest floor builds soil through
-successive layers of deposited organic matter. The process begins by mowing existing
-vegetation short and soaking the area, then laying overlapping cardboard or newspaper
-as a weed barrier, followed by alternating layers of nitrogen-rich materials such as
-manure, grass clippings, or coffee grounds and carbon-rich materials such as autumn
-leaves, straw, or wood chips. A top layer of finished compost provides the planting
-surface.
-
-Sheet mulching excels at converting lawn, compacted soil, or heavily weedy areas into
-productive beds without any digging or soil disturbance. It preserves existing soil
-structure and the microbial and fungal networks that tilling would destroy. The method
-uses freely available waste materials including cardboard, newspaper, leaves, and grass
-clippings, making it accessible to growers on any budget. Beds can be planted into
-immediately using transplants by pulling aside the top compost layer. However, sheet
-mulching requires assembling large volumes of organic materials upfront and takes two
-to twelve months for full decomposition. Gaps in the weed barrier layer create
-pathways for persistent perennial weeds, and direct seeding is difficult until the
-layers break down into a stable seedbed.
-
-## Chop and Drop Mulching
 [[chop-and-drop-mulching]]
 
 Chop and drop mulching, drawn from Masanobu Fukuoka's natural farming philosophy
@@ -117,9 +93,6 @@ creates a self-sustaining fertility cycle that requires fewer external inputs ea
 year as the mulch-producing plantings mature and biomass production increases.
 
 ## See Also
-- [[comparison-chop-and-drop-vs-sheet-mulching]]
 - [[comparison-hugelkultur-vs-sheet-mulching]]
-- [[mulch-types-effects-soil-biology]]
 - [[permaculture-plants-comfrey-chop-and-drop]]
-- [[comparison-no-till-vs-conventional-tillage]]
 - [[gaias-garden-sheet-mulching-guide]]

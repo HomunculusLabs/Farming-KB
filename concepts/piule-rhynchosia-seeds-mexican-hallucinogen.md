@@ -133,8 +133,6 @@ extending well beyond the Aztec period.
 
 ## See Also
 
-- [[golden-guide-morning-glory-and-ololiuqui]]
 - [[colorines-erythrina-seeds-mexican-hallucinogen]]
-- [[mescal-bean-sophora-secundiflora-vision-dance]]
 - [[golden-guide-psilocybin-mushrooms-overview]]
 - [[golden-guide-hallucinogenic-plants-overview]]

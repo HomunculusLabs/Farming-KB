@@ -128,7 +128,9 @@ The species is widely used in biology education to demonstrate plasmodial moveme
 
 ## See Also
 
-- [[physarum-polycephalum]] — The "many-headed slime mold," a model organism for biological computation and network optimization
 - [[myxomycetes-slime-molds]] — The class of plasmodial slime molds
-- [[mycoremediation]] — Using fungi and slime molds for environmental cleanup
 - [[decomposition]] — The ecological process of organic matter breakdown
+
+## See Also
+
+- [[myxomycete-mycetozoan-slime-mold-diversity-ecology]]

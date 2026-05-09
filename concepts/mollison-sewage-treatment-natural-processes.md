@@ -3,20 +3,11 @@ title: Mollison: Sewage Treatment Using Natural Processes
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison: Sewage Treatment Using Natural Processes
-
-Source: Bill Mollison, [[permaculture]]: A Designers' Manual (Chapter 7, Section 7.5)
+tags: [[permaculture]]: A Designers' Manual (Chapter 7, Section 7.5)
 
 ## Overview of Natural Sewage Treatment
 
-Bill Mollison presents a comprehensive framework for treating sewage through biological and natural processes [[integrate-rather-than-segregate]] energy-intensive mechanical systems.
-
-The core principle is that sewage should not be treated as waste but as a resource containing nutrients, elements, [[mycorrhizal-heavy-metal-uptake]]s, and carbon compounds that can be transformed into useful products.
+Bill Mollison presents a comprehensive framework for treating sewage through biological and natural processes [[mycorrhizal-heavy-metal-uptake]]s, and carbon compounds that can be transformed into useful products.
 
 Raw sewage contains dangerous levels of bacteria, viruses, and intestinal worm eggs, but these can be effectively managed through staged biological treatment.
 
@@ -128,11 +119,5 @@ At Hegerstown, Maryland, sewage waters supplied to selected coppiced poplar plot
 
 Domestically, comfrey beds absorb faecal products from animal wash-water, and the resulting crop can be used for fodder or trenched as instant compost.
 
-## Connection to [[permaculture-principles]]
-
-The natural sewage treatment system embodies the permaculture principle of producing no waste by converting a pollution problem into methane energy, algal protein, zooplankton feed, and clean irrigation water.
-
-## Related
-
-- [[mollison-permaculture-two-sewage-waste-treatment]]
+## Connection to [[mollison-permaculture-two-sewage-waste-treatment]]
 - [[mollison-sewage-lagoon-pond-treatment]]

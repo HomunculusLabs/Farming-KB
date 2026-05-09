@@ -3,61 +3,7 @@ title: Arid Zone Permaculture Strategies Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - raw/papers/bill-mollison-permaculture-design-course.md
----
-
-# Arid Zone Permaculture Strategies
-
-updated: 2026-04-18
-
-Permaculture Two (1979) Section 5.1 details strategies for permaculture design in Australian arid zones, with particular attention to Aboriginal communities. See also [[arid-landscape-permaculture]] and [[dryland-permaculture-strategies]].
-
-## Three Categories of Arid Zone Design
-
-1. Home gardens for local survival -- intensive systems around settlements
-2. Broadscale planting for climate modification -- large-scale tree planting
-3. Run-off or local selected site planting -- capturing and directing scarce water
-
-## Home Gardens Around Wiltjas
-
-Sheet mulch plus trickle irrigation is the key to water conservation in arid zone home gardens. Benefits include:
-
-- Reduction of salt and carbonate accumulation
-- Buffering of pH (humic acids offset alkaline soil)
-- Ploughing increases alkalinity to intolerable levels -- mulch is the alternative
-- Heat plus water causes rapid breakdown of mulch materials
-
-### Mulch Species
-
-- Mulga (Acacia aneura)
-- Tamarisk (Tamarix spp.)
-- Desert oaks and casuarinas
-- Bamboo
-- Paulownia
-- Acacia albida
-- Leucaena
-
-### Garden Inputs
-
-Area swept free of burrs. Added materials:
-
-- Bones
-- Ashes
-- Cattle and dog droppings
-- Any available organic material
-
-### Results Beyond Food
-
-- Less rubbish for flies
-- Fewer eye problems
-- Less scabies
-- Few special tools needed; digging superfluous
-
-## House Planning for Climate Modification
-
-People must decide dwelling types themselves and receive funding to build. Traditional wiltja designs provide the basis for climate-appropriate housing. Desert dwellings need underground construction similar to pioneer Australian dairy designs (see [[earth-sheltered-structures-permaculture]]).
+tags: [[arid-landscape-permaculture]] and [[earth-sheltered-structures-permaculture]]).
 
 ## Vitamin C Testing
 
@@ -125,11 +71,23 @@ Mollison's acknowledges that the eventual inheritors of the arid regions will be
 - Cleland, J.B. in Aboriginal Man in South and Central Australia. Govt. Printer, Adelaide, 1966.
 
 #permaculture #arid-zone #dryland #mulch #sheet-mulching #trickle-irrigation #aboriginal-management #nutrient-pump
-
 ## Related
 
-- [[permaculture-designers-manual-arid-climates]]
 - [[permaculture-designers-manual-food-preserving]]
-- [[permaculture-designers-manual-cold-climate-greenhouse]]
 - [[permaculture-designers-manual-pioneer-species]]
 - [[permaculture-designers-manual-cold-climate-design]]
+
+## Merged: How Do I Create a Permaculture Zone Plan for My Property
+
+# How Do I Create a Permaculture Zone Plan for My Property
+
+## Short Answer
+A permaculture zone plan organizes your property into five concentric zones based on the frequency of human attention
+and maintenance each area requires. Zone 0 is your home and immediate living space, Zone 1 contains intensively managed
+gardens and daily-use elements, Zone 2 holds less frequently visited food production systems, Zone 3 encompasses larger-
+scale farming or orcharding, Zone 4 is managed woodland or foraging area, and Zone 5 is wilderness left for nature. This
+zoning framework ensures that high-maintenance elements are placed where you visit most often.
+
+## Understanding the Five Zones
+
+The permaculture zone system was developed by Bill Mollison and David Holmgren as a practical tool for efficient land

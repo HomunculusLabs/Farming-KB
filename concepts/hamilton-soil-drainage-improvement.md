@@ -25,45 +25,7 @@ its own approach to improvement.
 
 ## Understanding Drainage Problems
 
-Heavy soils like [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-are badly drained because the spaces between each particle are too
-small to allow free passage of water and air. The soil is always in
-danger of settling down to form a solid, airless mass. Light soils
-such as sand drain too freely, losing water and nutrients through the
-topsoil and into the subsoil, then out the drainage system.
-
-In some cases, natural drainage may be so poor that it necessitates
-the installation of an artificial drainage system. This is
-particularly true for moorland and fenland peat soils. However, in
-most gardens, drainage can be improved through cultivation and the
-addition of organic matter.
-
-## Improving Clay Soil Drainage
-
-### Chemical Flocculation
-
-Because clay was broken down chemically, it is also possible to
-combine the particles chemically by a process known as "flocculation."
-If sufficient lime is added to the soil, the tiny particles of clay
-will bind together to form much larger crumbs, through which air,
-water, and plant roots can freely pass. Check the requirements of the
-plants you want to grow and use as much lime as you can without making
-conditions intolerable for them.
-
-### Physical Improvement
-
-In addition to chemical methods, if your soil is very heavy, dig
-coarse sand into the soil at approximately one to two bucketfuls every
-square yard/meter when you dig in the organic matter. This physically
-forces the particles apart to allow free passage of air, water, and
-plant roots.
-
-### Raising the Soil
-
-Raising a section of soil above its immediate surroundings will
-improve drainage considerably, helping the soil dry out and warm up.
-Raise your ornamental beds slightly and grow your vegetables on the
-[[hamilton-deep-bed-system]], which will also improve
+Heavy soils like [[hamilton-deep-bed-system]], which will also improve
 drainage and help the soil dry out and warm up.
 
 ### Organic Matter for Clay
@@ -91,20 +53,7 @@ water can pass through more easily.
 
 On sandy soil, drainage is generally too good. The problem is
 retaining water and nutrients rather than removing excess. To reduce
-the problem, spread organic matter or [[hamilton-mulching-materials-and-techniques]] over the beds between plants as often as you can. This lowers the evaporation rate and improves the soil structure.
-
-It is very important to improve sandy soils by adding substantial
-amounts of bulky organic material each year. Because of the
-quick-draining nature of the soil, the organic matter will work down
-into the subsoil very quickly. Dig the organic matter into the top
-few inches or spread it over the surface.
-
-## Improving Chalk Soil Drainage
-
-Generally, drainage on chalk soil is too good and the need is to
-retain water and nutrients. This can be done by adding bulky organic
-matter that will also help to acidify the soil. Grow a crop of
-[[hamilton-green-manure-crops-and-cover-cropping]] during
+the problem, spread organic matter or [[hamilton-green-manure-crops-and-cover-cropping]] during
 the winter and dig it in during the spring. During the growing season,
 sow a fast-growing green-manure crop between vegetables just to keep
 the soil covered.
@@ -130,7 +79,5 @@ have failed.
 
 ## Related Topics
 
-- [[hamilton-soil-types-identification]]
 - [[hamilton-organic-soil-management]]
-- [[hamilton-deep-bed-system]]
 - [[hamilton-mulching-materials-and-techniques]]

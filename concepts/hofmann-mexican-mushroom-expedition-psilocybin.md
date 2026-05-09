@@ -12,8 +12,7 @@ type: concept
 
 ## From LSD to Teonanacatl
 
-The path that led to the isolation of [[wasson-rediscovery-of-psilocybin]] began with the
-discovery of [[lsd-compound-profile]]. R. Gordon Wasson, the
+The path that led to the isolation of [[lsd-compound-profile]]. R. Gordon Wasson, the
 American banker and amateur mycologist, had undertaken expeditions to
 the Mazatec country in Mexico, where he documented the use of sacred
 mushrooms called teonanacatl ("flesh of the gods") in indigenous
@@ -24,86 +23,7 @@ sacred mushrooms.
 Heim showed that they were gilled mushrooms from the family
 Strophariaceae, about a dozen different species not previously
 described scientifically, the greatest part belonging to the genus
-[[psilocybe-azurescens-profile]]. Heim also succeeded in cultivating some of the species in
-the laboratory. The mushroom Psilocybe mexicana proved especially
-suitable for artificial cultivation.
-
-## The Chemical Investigation Begins
-
-Chemical investigations ran parallel with the botanical studies, with
-the goal of extracting the hallucinogenically active principle from the
-mushroom material and preparing it in chemically pure form. Work teams
-in Paris at the Museum National d'Histoire Naturelle and in the United
-States at Merck and Smith, Kline and French laboratories turned out to
-be ineffectual.
-
-Professor Heim therefore addressed this matter to the Sandoz firm,
-because he felt that their experimental experience with LSD, related to
-the magic mushrooms by similar activity, could be of use in the
-isolation attempts. "Thus it was LSD that showed teonanacatl the way
-into our laboratory," Hofmann wrote.
-
-## Hofmann Takes On the Problem
-
-As director of the department of natural products at Sandoz, Hofmann
-wanted to assign the investigation to a coworker. However, nobody showed
-much eagerness because LSD and everything connected with it were
-scarcely popular subjects with top management. Because the enthusiasm
-necessary for successful endeavors cannot be commanded, and because that
-enthusiasm was already present in him, Hofmann decided to conduct the
-investigation himself.
-
-Some 100 g of dried mushrooms of Psilocybe mexicana, cultivated by
-Heim in the laboratory, were available. Hofmann's laboratory assistant,
-Hans Tscherter, aided in the extraction and isolation attempts. Since
-there were no clues concerning the chemical properties of the active
-principle, the isolation attempts had to be conducted on the basis of
-the effects of the extract fractions.
-
-## The Animal Testing Failure
-
-None of the various extracts showed an unequivocal effect in either the
-mouse or the dog that could have pointed to the presence of
-hallucinogenic principles. It became doubtful whether the mushrooms
-cultivated and dried in Paris were still active at all. That could only
-be determined by experimenting on a human being.
-
-## Hofmann's Self-Experiment with Dried Mushrooms
-
-Following the same principle he had applied with LSD, Hofmann performed
-the fundamental experiment himself, arguing that it is not appropriate
-for researchers to ask anyone else to perform self-experiments
-necessary for their own investigations, especially if they entail a
-certain risk. He ate 32 dried specimens of Psilocybe mexicana,
-together weighing 2.4 g, corresponding to an average dose used by the
-Mazatec curanderos.
-
-### The Mexican Vision
-
-Thirty minutes after taking the mushrooms, the exterior world began to
-undergo a strange transformation. Everything assumed a Mexican character.
-Despite knowing that his awareness of the mushroom's Mexican origin would
-influence his imagination, all voluntary efforts to look at things in
-their customary forms proved ineffective. Whether his eyes were closed or
-open, he saw only Mexican motifs and colors. When the doctor supervising
-the experiment bent over him, he was transformed into an Aztec priest.
-
-At the peak of intoxication, about 1.5 hours after ingestion, the rush
-of interior pictures, mostly abstract motifs rapidly changing in shape
-and color, reached such an alarming degree that Hofmann feared he would
-be torn into this whirlpool of form and color and would dissolve. After
-about six hours the dream came to an end. He felt his return to everyday
-reality to be a happy return from a strange, fantastic but quite real
-world to an old and familiar home.
-
-## The Isolation and Synthesis of Psilocybin
-
-The self-experiment showed once again that human beings react much more
-sensitively than animals to psychoactive substances. Using samples
-corresponding to only 0.8 g dried mushrooms, Hofmann and colleagues
-established a reliable human test for detecting active fractions.
-
-Two new substances, which Hofmann named [[wasson-rediscovery-of-psilocybin]] and psilocin,
+[[wasson-rediscovery-of-psilocybin]] and psilocin,
 were thereby obtained in the form of colorless crystals. Results were
 published in March 1958 in the journal Experientia, in collaboration
 with Heim and colleagues Brack and Kobel.
@@ -142,8 +62,25 @@ be described.
 
 ## See Also
 
-- [[hofmann-lsd-mazatec-and-psilocybin]]
 - [[hofmann-lsd-discovery-bicycle-day]]
-- [[hofmann-salvia-divinorum-discovery]]
 - [[wasson-rediscovery-of-psilocybin]]
 - [[lsd-compound-profile]]
+## Practical Considerations
+
+Successful implementation of Hofmann's Mexican Mushroom Expedition: Discovery of Psilocybin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

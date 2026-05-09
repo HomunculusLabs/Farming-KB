@@ -76,12 +76,8 @@ P. viridis has become a globally traded botanical due to the spread of ayahuasca
 
 ## See Also
 
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
-
 - [[banisteriopsis-caapi]]
-- [[diplopterys-cabrerana]]
 - [[dimethyltryptamine]]
 - Ayahuasca (concept page)
-- [[richard-evans-schultes]]
 - [[schultes-psychotria-chacruna-dmt-admixture]]
 - [[psilocybin-mushroom-distribution-worldwide]]

@@ -63,34 +63,11 @@ The purity of the final product depends on the efficiency of the fractionating c
 
 Fractional distillation is typically the final step in a multi-stage refinement process. It follows initial extraction, winterization, petroleum ether purification, and potentially isomerization. Each preceding step removes different classes of impurities, producing a cleaner input material that distills more cleanly.
 
-[[cannabis-chromatography-cannabinoid-purification]] offers an alternative path to high purity that separates compounds based on their affinity for a stationary phase rather than their boiling points. Chromatography can achieve higher purity than distillation for specific cannabinoid isolates but is more labor-intensive and produces smaller quantities per run.
-
-## Related Topics
-
-- [[cannabis-winterization-filtration]] for purification steps preceding distillation
-- [[cannabis-oil-purification-techniques]] for intermediate purification methods
+[[cannabis-winterization-filtration]] for purification steps preceding distillation
 - [[cannabis-chromatography-cannabinoid-purification]] for alternative advanced purification
-- [[cannabis-honey-oil-production]] for charcoal filtration as an alternative refinement
 - [[cannabis-oil-isomerization]] for CBD-to-THC conversion before distillation
-- [[cannabis-indoor-growing-guide]] for solvent handling at scale
 - [[cannabis-concentrates-and-extracts]] for refined products
-- [[cbd-to-thc-isomerization-chemistry]] for the chemistry of THC production
-
-## Comparison with Short-Path Distillation
-
-Modern cannabis processing has largely adopted short-path distillation as the preferred method for cannabinoid purification and isolation. Short-path distillation operates on the same fundamental principles as classical fractional distillation but uses a shorter distillation path, thinner film of material, and higher vacuum to achieve cleaner separations with less thermal exposure.
-
-The short-path apparatus typically consists of a heated boiling flask, a short distillation head with an internal condenser, and multiple receiving flasks on a rotating arm called a cow. The short distance between the boiling surface and the condenser minimizes the time cannabinoids spend at elevated temperatures, reducing thermal degradation.
-
-Wiped-film distillation is a further refinement where a wiper mechanism continuously spreads the oil into a thin film on the heated surface of the distillation column. This thin film evaporates quickly and evenly, providing high throughput with excellent separation efficiency. These modern systems can process liters of crude oil per hour with THC purities exceeding 95 percent.
-
-## Fractional Distillation of Minor Cannabinoids
-
-Beyond THC and CBD, cannabis contains numerous minor cannabinoids including CBG, CBC, THCV, CBDV, and CBN, each with distinct boiling points and pharmacological properties. Fractional distillation under carefully controlled conditions can separate these minor cannabinoids into individual fractions, enabling the production of cannabinoid-specific products.
-
-CBG (cannabigerol), the precursor to all other cannabinoids, is of particular interest because it is present in only trace amounts in most mature cannabis flowers but has shown promising therapeutic properties. Producing CBG through fractional distillation requires careful timing, as CBG is typically the first cannabinoid to distill and is easily contaminated with lighter fractions.
-
-CBN (cannabinol) distills at a temperature between THC and CBD, making it separable in well-controlled distillation runs. CBN is valued for its sedative properties and is a target for sleep-aid formulations. The [[cannabis-minor-cannabinoids]] page discusses the therapeutic potential of these less abundant compounds.
+- [[cannabis-minor-cannabinoids]] page discusses the therapeutic potential of these less abundant compounds.
 
 ## Safety at Vacuum Pressures
 

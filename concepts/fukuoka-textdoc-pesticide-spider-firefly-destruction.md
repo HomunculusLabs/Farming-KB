@@ -133,11 +133,7 @@ The responsible course is not to intervene but to cultivate the conditions in wh
 
 ## See Also
 
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
-- [[fukuoka-matsutake-artificial-cultivation-attempt]]
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
-- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
 - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
-- [[fukuoka-breakdown-japanese-agriculture]]
 - [[fukuoka-do-nothing-farming-philosophy]]

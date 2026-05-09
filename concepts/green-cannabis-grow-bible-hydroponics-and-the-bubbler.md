@@ -15,8 +15,7 @@ type: concept
 ---
 
 # Hydroponics Systems and the Bubbler
-Chapter 9 of [[greg-green]]'s Cannabis Grow Bible provides a comprehensive
-introduction to [[hydroponic-cannabis]] cultivation, covering the basic
+Chapter 9 of [[hydroponic-cannabis]] cultivation, covering the basic
 principles, common system types, nutrient management, and detailed
 instructions for building a simple but effective "bubbler" system.
 
@@ -65,13 +64,7 @@ allow air to reach the roots.
 
 ## Hydroponics Systems
 
-### NFT ([[nutrient-film-technique]])
-
-An all-in-one system that is generally flat and long. A constant flow of
-nutrients runs to the roots and back to the reservoir. The reservoir,
-pumps, and nutrient solution are all contained within the same system.
-
-### Flood and Drain ([[ebb-and-flow]])
+### NFT ([[ebb-and-flow]])
 
 Recognized by its depth. The grow medium sits above the reservoir, which
 pumps nutrients to the roots at set intervals. During the day, plants
@@ -146,3 +139,7 @@ Keep reservoirs away from direct light exposure. Most commercial
 systems are manufactured "light tight." For DIY systems, use thick
 black PVC tape or garbage bags to cover the lid and reservoir. If algae
 develops, clean the system and replace the nutrient solution.
+
+## See Also
+
+- [[green-cannabis-grow-bible-outdoor-growing]]

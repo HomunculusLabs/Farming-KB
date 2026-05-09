@@ -1,7 +1,7 @@
 ---
 title: "Structures in Permaculture Design"
 created: 2026-04-28
-tags: [permaculture, structures, ecological-design, passive-solar,
+tags: [[permaculture, structures, ecological-design, passive-solar,
        rainwater-catchment, green-roofs, windbreaks, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
@@ -129,8 +129,6 @@ harnessed for microclimate benefit.
 
 ## See Also
 
-- [[passive-solar-design]]
 - [[williams-pdc-rain-water-harvesting]]
-- [[williams-pdc-earthworks]]
 - [[pdc-passive-design-principles]]
 - [[pdc-climate-and-microclimate-analysis]]

@@ -117,13 +117,8 @@ critical oversight in evaluating his work.
 
 ## See Also
 
-- [[savory-community-organization-and-shared-grazing]]
-
 - [[savory-land-planning-and-grazing-cell-design]]
-- [[savory-stock-density-vs-stocking-rate]]
 - [[savory-recovery-and-grazing-periods]]
-- [[savory-animal-impact-and-herd-effect]]
 - [[savory-livestock-grazing-planning]]
-- [[savory-flexibility-in-management]]
 - [[savory-overgrazing-vs-overrest]]
 - [[savory-animal-days-and-forage-measurement]]

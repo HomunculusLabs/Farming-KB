@@ -22,7 +22,7 @@ Using fungi to degrade or sequester environmental toxins:
 - Radioactive elements (cesium-134, cesium-137)
 - Chemical warfare agents (VX, sarin, soman surrogates)
 - Pesticides and herbicides
-- See: [[mycoremediation-basics]], [[mycoremediation-oil-spills]], [[mycoremediation-heavy-metals-detailed]]
+- See: [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]]
 
 ### 2. Mycofiltration
 Using mycelial mats to filter water and protect watersheds:
@@ -126,7 +126,7 @@ Mycorestoration integrates with multiple [[permaculture-design]] elements:
 - [[water-management]] via mycofiltration barriers
 - [[food-forest-design]] via mycoforestry practices
 - [[composting-systems]] via spent mushroom compost recycling
-- [[composting-and-soil-biology]] via fungal soil building
+- [[no-till-gardening-method]] via fungal soil building
 - [[cover-cropping-guide]] via fungal decomposition of cover crop residues
 - [[swale-design-construction]] via mycofiltration at discharge points
 

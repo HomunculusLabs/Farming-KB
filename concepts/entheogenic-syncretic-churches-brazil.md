@@ -141,9 +141,6 @@ entheogenic plant medicines naturally lend themselves to both intimate healing
 contexts and larger communal religious frameworks.
 ## See Also
 
-- [[sacramental-ayahuasca-legal-battles-united-states]] for legal battles
 - [[metzner-four-paradigms-psychedelic-healing]] for Metzner's framework
-- [[metzner-hybrid-shamanic-therapeutic-rituals]] for hybrid rituals
 - [[metzner-syncretic-entheogenic-folk-ceremonies]] for folk ceremonies
-- [[metzner-ibogaine-addiction-treatment]] for ibogaine research
 - [[metzner-ayahuasca-therapeutic-potential]] for therapeutic research

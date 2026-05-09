@@ -11,16 +11,7 @@ sources:
 Mineralization and immobilization are the two complementary processes
 by which nutrients move between organic and inorganic forms in soil.
 Together, they form the core nutrient cycling mechanism of the
-[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. Understanding these
-processes is essential for grasping how the soil food web feeds plants
-without synthetic fertilizers.
-
-## Immobilization: Nutrient Lock-Up
-
-Immobilization is the process by which nutrients -- particularly
-nitrogen -- are incorporated into the bodies of soil organisms. When
-bacteria and fungi consume organic matter or absorb root exudates from
-the [[root-exudates]], they
+[[root-exudates]], they
 retain nutrients in their cellular structures. These nutrients are
 temporarily unavailable to plants because they are locked inside living
 microbial biomass.
@@ -46,8 +37,7 @@ Mineralization is the process by which immobilized nutrients are
 converted back into plant-available inorganic forms. This occurs
 primarily when larger organisms consume bacteria and fungi:
 
-1. [[teaming-with-microbes-protozoa]] eat bacteria in the rhizosphere
-2. [[teaming-with-microbes-nematodes]] eat both bacteria and fungi
+1. [[teaming-with-microbes-nematodes]] eat both bacteria and fungi
 3. These predators digest what they need and excrete the excess as waste
 4. The waste contains ammonium (NH4+) and other mineral nutrients
 5. Plant roots absorb these minerals directly from the rhizosphere
@@ -117,18 +107,8 @@ Gardeners can support the mineralization-immobilization cycle by:
 - Maintaining soil organic matter to feed bacteria and fungi
 - Avoiding tillage that destroys fungal hyphae and disrupts microbial
   habitats
-- Using [[teaming-with-microbes-mulch-and-soil-food-web]]
-  to provide food for the soil food web
-- Applying [[teaming-with-microbes-compost-tea-and-microbial-inoculants]] to introduce diverse microbial populations
-- Supporting [[teaming-with-microbes-bacterial-vs-fungal-dominance]] and other soil
-  organisms that aerate and mix soil
-
-## See Also
-
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-protozoa]]
+- Using [[teaming-with-microbes-compost-tea-and-microbial-inoculants]] to introduce diverse microbial populations
+- Supporting [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[teaming-with-microbes-bacteria]]
-- [[teaming-with-microbes-fungi]]
 - [[root-exudates]]
-- [[fungal-mineral-nutrient-immobilization]]
 - [[fungal-nitrogen-mineralization-pathways]]

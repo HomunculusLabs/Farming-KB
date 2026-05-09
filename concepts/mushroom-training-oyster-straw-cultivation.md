@@ -3,16 +3,7 @@ title: Oyster Mushroom Cultivation on Straw Substrate Bags
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, cultivation, oyster-mushroom, substrate, mushrooms]
-sources:
-  - "Mushroom Cultivation for People with Disabilities — A Training Manual (FAO RAP Publication 2001/12, Hanko)"
----
-
-# Oyster Mushroom Cultivation on Straw Substrate Bags
-
-Practical guide to growing oyster mushrooms (Pleurotus spp.) in substrate bags, as taught in the FAO disability training program in Thailand. Oyster mushrooms are the most commonly and easily cultivated mushrooms in Southeast Asia.
-
-See also: [[mushroom-training-adapted-cultivation]], [[mushroom-training-spawn-production]], [[mushroom-training-pest-disease-management]], [[oyster-mushroom-short-log-cultivation]]
+tags: [[mushroom-training-adapted-cultivation]], [[mushroom-training-pest-disease-management]], [[oyster-mushroom-short-log-cultivation]]
 
 ## Oyster Mushroom Species
 

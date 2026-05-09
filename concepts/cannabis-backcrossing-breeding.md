@@ -69,15 +69,7 @@ When the recurrent parent is not very true-breeding, the resulting backcross gen
 
 Another limitation is that the improved variety differs only slightly from the recurrent parent, which limits the genetic diversity introduced. Backcrossing is not suitable for creating entirely new varieties — it is best used for refining an already excellent line by adding one or two specific traits. In a market that increasingly values novel combinations of effects, flavors, and aromas, backcross-derived varieties may be seen as incremental improvements rather than exciting new offerings.
 
-For breeders seeking to develop entirely new combinations of traits rather than refine existing lines, [[clarke-marijuana-botany-genetics-breeding]] and conventional F1 hybrid approaches offer more genetic diversity at the cost of longer selection cycles.
-
-The method also requires the breeder to maintain living copies of the recurrent parent throughout multiple generations, which can be challenging over long breeding programs. Clonal propagation of the recurrent parent is standard practice in cannabis breeding to ensure genetic consistency across all backcross generations. By maintaining the recurrent parent as a clone, the breeder eliminates genetic drift and ensures that every backcross generation is crossed to an identical genetic source. Mother plants kept under continuous vegetative lighting can provide cuttings for years, though genetic stability may decline in very old mother plants due to somatic mutation accumulation.
-
-## Marker-Assisted Backcrossing
-
-Modern cannabis breeding increasingly incorporates molecular markers to accelerate the backcrossing process. Marker-assisted selection (MAS) allows breeders to identify plants carrying the target trait at the seedling stage, eliminating the need to grow plants to maturity before phenotypic evaluation. This is particularly valuable for traits that are expensive or time-consuming to score visually — such as specific cannabinoid or terpene profiles.
-
-DNA markers linked to the target gene can be tracked through each backcross generation, enabling breeders to select progeny that are both homozygous for the desired trait and have the highest proportion of recurrent parent genome. Background selection using markers distributed across the genome can recover the recurrent parent genotype in as few as 2-3 backcross generations, compared to the 6-7 generations typically required using phenotypic selection alone. This technology connects to broader advances in [[cannabis-chemotype-classification-cannabinoid-breeding]] that rely on understanding the genetic basis of chemical phenotypes.
+For breeders seeking to develop entirely new combinations of traits rather than refine existing lines, [[cannabis-chemotype-classification-cannabinoid-breeding]] that rely on understanding the genetic basis of chemical phenotypes.
 
 The most commonly used markers in cannabis include simple sequence repeats (SSRs) and single nucleotide polymorphisms (SNPs). SNP arrays and genotyping-by-sequencing (GBS) have made high-density marker screening cost-effective for cannabis breeding programs. These tools allow simultaneous tracking of the target trait and monitoring of the overall recurrent parent genome recovery across all chromosomes, dramatically accelerating the pace of variety development.
 
@@ -103,17 +95,8 @@ The regulatory environment in medical cannabis further incentivizes backcrossing
 
 ## Backcrossing and Selfing for Line Fixation
 
-After completing the desired number of backcross generations, breeders typically self-pollinate the final backcross population for one or more generations to fix the introgressed trait in homozygous form. Selfing an F2 population derived from the last backcross (BCnF2) allows selection of individuals homozygous for both the target trait and the maximum number of recurrent parent alleles. This final fixation step is what transforms a backcross population into a stable, true-breeding line suitable for commercial release. The resulting inbred backcross line (IBL) can then be maintained through clonal propagation or by continued selfing, depending on the breeder's seed production strategy. See [[cannabis-true-breeding-ibl-strains]] for more on the IBL development process.
-
-The distinction between a backcross line and a fully stabilized IBL is important for seed markets. Backcross populations still segregate for the introgressed trait (unless it was already homozygous), meaning that individual seeds from a BC3 generation may vary in their expression of the target characteristic. Only after selfing and selection can the breeder offer seeds that reliably reproduce the desired phenotype in every plant. This is why experienced breeders often advertise lines as "BX3 S1" or "BC3F2" — the suffix indicates the additional generation of inbreeding that followed the backcross program.
-
-## See Also
-
-- [[cannabis-breeding-basics]]
-- [[cannabis-genetics-and-breeding]]
+After completing the desired number of backcross generations, breeders typically self-pollinate the final backcross population for one or more generations to fix the introgressed trait in homozygous form. Selfing an F2 population derived from the last backcross (BCnF2) allows selection of individuals homozygous for both the target trait and the maximum number of recurrent parent alleles. This final fixation step is what transforms a backcross population into a stable, true-breeding line suitable for commercial release. The resulting inbred backcross line (IBL) can then be maintained through clonal propagation or by continued selfing, depending on the breeder's seed production strategy. See [[cannabis-breeding-basics]]
 - [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-seed-banks-and-genetics]]
-- [[cannabis-chemotype-classification-cannabinoid-breeding]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 - [[cannabis-controlled-pollination-seed-production]]

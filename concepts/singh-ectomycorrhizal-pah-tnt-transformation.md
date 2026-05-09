@@ -106,8 +106,6 @@ T. fibrillosa, showing involvement of monoxygenation pathways.
 
 ## See Also
 
-- [[cotter-mycoremediation-overview]]
 - [[mycoremediation-of-explosives]]
-- [[singh-ericoid-mycorrhizal-fungi-remediation]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
 - [[singh-fungal-degradation-pcbs-dioxins]]

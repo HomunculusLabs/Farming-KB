@@ -23,60 +23,11 @@ sources:
 ---
 # Pelargonium sidoides (South African Geranium)
 
-**Pelargonium sidoides** is a [[medicinal-plant-preparations-tinctures-salves-teas]] native to South Africa, belonging to thequery-what-is-a-wavelet-transform-used-forceae family. Its root has been used for centuries by traditional healers and is the source of a modern herbal pharmaceutical extract marketed as **Umckaloabo** (EPs 7630), one of the most clinically studied [[herbal-medicine]] s for acute respiratory tract infections. It is one of the few botanical medicines with robust randomized controlled trial evidence supporting its efficacy.
+**Pelargonium sidoides** is a [[herbal-medicine]] s for acute respiratory tract infections. It is one of the few botanical medicines with robust randomized controlled trial evidence supporting its efficacy.
 
 ## Taxonomy and Botany
 
-- **Family:**[[australian-magic-mushroom-common-names]]
-- **Genus:** *Pelargonium*
-- **Species:** *P. sidoides* DC.
-- **Common names:** South African geranium, Cape pelargonium, umckaloabo, kalwerbossie, rabassaminha
-- **Not to be confused with:** Common garden geraniums (*Pelargonium × hortorum*) or true geraniums (*Geranium* spp.)
-
-### Description
-A low-growing, tuberous perennial herb reaching 15–30 cm in height. Features heart-shaped leaves with slight silver-grey pubescence (hairy underside) and deep burgundy to near-black flowers — small, five-petaled, borne on slender stalks. The most distinctive feature is the thick, dark reddish-brown tuberous rootstock, which is the primary medicinal part.
-
-### Distribution and Habitat
-- **Native range:** Eastern Cape, Free State, KwaZulu-Natal, Lesotho, and Swaziland in southern Africa
-- **Habitat:** Grasslands, mountain slopes, rocky outcrops at 1000–2800 m elevation
-- **Climate:** Summemexican-sacred-mushrooms-indigenous-use-and-ethnobotanyons with cold, dry winters
-- **Soil:** Well-drained, rocky, nutrient-poor soils
-
-## History and Ethnobotany
-
-### Traditional Use
-Indigenous peoples of southern Africa, including the Basotho, Xhosa, and Zulu, have used *P. sidoides* root for centuries to treat:
-
-- Respiratory infections (coughs, bronchitis, tuberculosis)
-- Gastrointestinal disturbances (diarrhea, dysentery)
-- Wouningoldian-hyphomycetes-spore-dispersal-in-waterkin infections
-- Liver and gallbladder complaints
-- Fever and general malaise
-
-The traditional preparation typically involves boiling the root in water or milk, or chewing the fresh root.
-
-### Discovery by Western Medicine
-In the late 19th century, Englishman Charles Stevens traveled to South Africa to treat his tuberculosis. He was treated by a Basotho traditional healer who prepared a decoction of *P. sidoides* root. Stevens recovered and returned to England with the remedy, which he marketed as "Stevens' Consumption Cure" in the early 1900s. The preparation became known as **Umckaloabo** (derived from a Zulu term roughly meaning "for respiratory suffering"). Despite its initial popularity and reported successes, it fell into obscurity as synthetic antibiotics became dominant in the mid-20th century.
-
-### Modern Revival
-German pharmaceutical company Dr. Willmar Schwabe Pharmaceuticals developed a standardized root extract (designated **EPs 7630**) beginning in the 1970s. The extract is produced via a proprietary ethanol-water extraction process. It has been approved as a prescription herbal medicine in Germany (Commission E monograph) and is sold as an over-the-counter remedy in many countries.
-
-## Chemical Composition
-
-The root of *P. sidoides* contains a complex mixture of bioactive compounds:
-
-### Coumarins
-- **Umbelliferone** (7-hydroxycoumarin)
-- **Scopoletin**
-- **5,6,7-Trimethoxycoumarin**
-- **6,7,8-Trimethoxycoumarin**
-
-### Phenolic Acids and Flavonoids
-- Gallic acid
-- Protocatechuic acid
-- Catechin, epicatechin
-- Gallocatechin
-- [[quercetin]] and quercetin derivatives
+- **Family:**[[quercetin]] and quercetin derivatives
 - Proanthocyanidins (condensed tannins)
 - Dihydrokaempferol
 
@@ -146,3 +97,7 @@ Evidence supports faster symptom resolution in bacterial and viral tonsillophary
 EPs 7630 has been studied in children aged 1–12 years and demonstrates safety and efficacy at age-appropriate doses, making it one of the few evidence-based herbal options for pediatric respiratory infections.
 
 ## See Also
+
+## See Also
+
+- [[herbal-medicine-making]]

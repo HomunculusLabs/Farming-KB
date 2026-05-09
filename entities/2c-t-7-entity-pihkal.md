@@ -57,11 +57,54 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[2c-t-13-entity-pihkal]]
-
 - [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the 2C-T series
+
+## Pharmacology
+
+2C-T-7 is a phenethylamine of the 2C family with a propylthio substituent at
+the 4-position. Like other members of the 2C-T series, the thioether linkage
+at the 4-position is the defining structural feature. The propyl chain length
+appears to be optimal for psychedelic activity within the 2C-T series, with
+shorter chains (methyl, ethyl) producing less potent compounds and longer
+chains reducing activity or altering duration significantly.
+
+The compound is a potent agonist at serotonin 5-HT2A receptors, the primary
+mechanism underlying its psychedelic effects. The 2,5-dimethoxy substitution
+pattern is characteristic of highly active psychedelic phenethylamines, and
+the lipophilic propylthio group at position 4 likely enhances receptor
+affinity and duration of action through increased membrane permeability and
+metabolic stability compared to shorter alkylthio substituents.
+
+## Effects
+
+Shulgin ranked 2C-T-7 among the most acceptable and intrinsically rich
+phenethylamines, placing it alongside 2C-T-2, 2C-B, mescaline, and 2C-E.
+The active dose range of 10-30 mg and duration of 8-15 hours indicate a
+compound with significant potency and extended action. The long duration
+is notable and may present challenges for users seeking a shorter experience.
+At lower doses (around 10 mg), effects are reportedly adequate for many users,
+suggesting a relatively flat dose-response curve at the lower end of the
+active range.
+
+## Legal Status
+
+2C-T-7 has been specifically scheduled as a controlled substance in many
+countries following reports of recreational use and adverse events. In the
+United States, it was emergency-scheduled by the DEA in 2001 and subsequently
+placed under permanent Schedule I control. Several deaths associated with
+2C-T-7 use — particularly when combined with other substances — accelerated
+regulatory action. In the United Kingdom, the 2C family of phenethylamines
+is controlled under the Psychoactive Substances Act and existing drug
+misuse regulations. Canada, Australia, and most European nations have also
+scheduled 2C-T-7 specifically or as part of broader phenethylamine controls.
+
+## Similar Compounds
+
+2C-T-7 is part of the 2C-T series of thio-substituted phenethylamines:
+- 2C-T-2 — the ethylthio analogue, also highly regarded by Shulgin
+- 2C-T-4 — the isopropylthio analogue with different duration profile
+- [[mescaline-entity]] — the natural protoype for all synthetic 2C compounds

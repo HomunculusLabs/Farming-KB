@@ -13,7 +13,7 @@ type: concept
 Fungi can transform metals, metalloids, and organometallic compounds
 through reduction, methylation, and dealkylation reactions. These
 transformations modify the mobility and toxicity of contaminants, making
-them important mechanisms in [[fungal-bioremediation]] and [[heavy-metal-bioremediation]]. Understanding these processes is essential for
+them important mechanisms in [[heavy-metal-bioremediation]]. Understanding these processes is essential for
 developing fungal-based strategies for treating contaminated land and
 water.
 
@@ -127,7 +127,5 @@ mine tailings and industrial waste sites.
 
 ## See Also
 
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
-- [[bioremediation-fungal-metallothioneins-phytochelatins]]
-- [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]
+- [[mycoremediation]]
 - [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]

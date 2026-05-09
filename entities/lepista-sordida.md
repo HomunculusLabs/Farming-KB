@@ -22,41 +22,7 @@ sources:
 ## Overview
 
 Lepista sordida, the lilac-legged Blewit, is an agaricoid mushroom in the
-Tricholomataceae. A close relative of the edible [[clitocybe-nuda-entity|wood blewit]]
-(*L. nuda*), it is smaller, more delicate, and less well-known despite
-widespread distribution. Edible when thoroughly cooked, it possesses documented
-antioxidant and antimicrobial properties.
-
-## Taxonomy
-
-- **Division:** Basidiomycota — **Class:** Agaricomycetes — **Order:** Agaricales
-- **Family:** Tricholomataceae — **Genus:** Lepista — **Species:** L. sordida
-- **Authority:** (Schumach.) Singer (1943); originally *Agaricus sordidus*
-  Schumach. (1803)
-- **Synonyms:** *Tricholoma sordidum*, *Clitocybe sordida*, *Rhodopaxillus
-  sordidus*
-- **Common names:** Lilac blewit, sordid blewit, faded blewit
-
-## Morphology
-
-### Cap
-
-- **Diameter:** 3-8 cm; convex to plano-convex, margin incurved when young
-- **Surface:** Smooth, hygrophanous; dry to slightly moist
-- **Color:** Highly variable — pale lilac, mauve, pinkish-brown, or buff;
-  fades markedly with age; often dull brownish at maturity
-- **Flesh:** Thin (3-6 mm), soft, pale lilac to whitish
-
-### Gills and Stipe
-
-- **Gills:** Adnexed to sinuate, crowded; pale lilac to pinkish-buff, fading
-- **Stipe:** 3-6 cm × 4-10 mm; equal to slightly clavate; smooth to finely
-  fibrillose; distinctly lilac at apex, whitish at base
-- **Mycelium:** Often conspicuously lilac at stipe base
-
-### Microscopic Features
-
-- **Spore print:** Pinkish-buff to pale salmon
+Tricholomataceae. A close relative of the edible [[spore-print]]:** Pinkish-buff to pale salmon
 - **Spores:** Broadly ellipsoid, 5.5-7.5 × 4-5.5 μm, roughly verruculose
 - **Cheilocystidia:** Ventricose to cylindrical, 20-35 × 6-12 μm
 
@@ -68,41 +34,7 @@ antioxidant and antimicrobial properties.
 - **Season:** Late summer to early winter (August-December N. Hemisphere)
 - **Frequency:** Common to locally abundant; fruits in flushes after rain
 
-Unlike [[clitocybe-nuda-entity]], L. sordida frequently appears in urban parks,
-garden compost, and agricultural fields rather than exclusively in woodland.
-
-## Distinguishing Features
-
-| Feature | L. sordida | L. nuda |
-|---------|-----------|---------|
-| Cap | 3-8 cm, brownish-faded | 6-15 cm, violet-blue |
-| Spores | Roughly verruculose | Smooth to faintly rough |
-| Odor | Mild | Distinctly perfumed |
-| Habitat | Grassland, compost | Woodland leaf litter |
-
-The lilac coloration at stipe base is a reliable field character. Must be
-distinguished from some *Cortinarius* species (toxic) by pinkish spore print
-and absence of a cortina.
-
-## Bioactive Compounds
-
-- **Antioxidant phenolics:** DPPH scavenging IC₅₀ ~0.8 mg/mL (methanol extract)
-- **β-glucans:** Moderate immunomodulatory content (~12-15% dry weight)
-- **Antimicrobial peptides:** Aqueous extracts active against *S. aureus* and
-  *E. coli* (zone of inhibition 8-12 mm)
-- **Fatty acids:** Linoleic (~55%), oleic (~20%), palmitic (~15%)
-
-## Edibility
-
-Edible when thoroughly cooked. Raw consumption may cause mild GI upset.
-Flavor is mild, nutty, and earthy — less aromatic than [[clitocybe-nuda-entity]].
-Texture is tender when young. Used in sautés, soups, and mixed mushroom
-dishes. Positive identification is critical due to Cortinarius lookalikes.
-
-## Cultivation
-
-Grown experimentally on composted straw/manure substrates similar to
-[[agaricus-bisporus]] methods. Requires peat-based casing layer; fruits at
+Unlike [[agaricus-bisporus]] methods. Requires peat-based casing layer; fruits at
 12-18 °C with 85-95% humidity. Spawn colonizes grain in 10-14 days at 22-25 °C.
 Cycle: 4-6 weeks spawn to first flush. Not commercially significant but
 adaptable to compost suggests potential.
@@ -116,6 +48,65 @@ microbial communities and moderate organic matter.
 
 ## See Also
 
-- [[clitocybe-nuda-entity]] — Wood blewit, larger and more prized edible relative
-- [[agaricus-bisporus]] — Button mushroom; similar compost cultivation
+- clitocybe nuda entity — Wood blewit, larger and more prized edible relative
+- agaricus bisporus — Button mushroom; similar compost cultivation
 - [[calocybe-gambosa]] — St. George's mushroom; grassland agaric comparison
+## Practical Considerations
+
+When working with Lepista sordida, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

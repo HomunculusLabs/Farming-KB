@@ -124,8 +124,6 @@ as a negative data point in the BOX series exploration.
 
 ## See Also
 
-- [[bod-pihkal-entry-14]]
 - [[bob-pihkal-entry-13]]
-- [[boh-pihkal-entry-15]]
-- [[dom-entity]]
+- [[dom]]
 - [[psilocybin-tryptamine-chemistry-fungi]]

@@ -425,7 +425,7 @@ Rising temperatures and altered rainfall patterns may shift suitable growing zon
 - [[turmeric-and-ginger-rhizome-cultivation]] — Other tropical rhizome spices
 - [[vanilla-cultivation-and-orchid-ecology]] — Vanilla production, another high-value tropical spice
 - [[tea-cultivation-and-camellia-sinensis-processing]] — Tea, a tropical beverage crop with similar agroforestry integration
-- [[black-pepper]] — Pepper, a climbing vine spice with complementary growing conditions
+- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] — Pepper, a climbing vine spice with complementary growing conditions
 - [[moringa-oleifera-cultivation-uses-and-nutrition]] — Another tropical tree crop with medicinal uses
 - [[companion-planting-and-polycultures]] — Integration of cinnamon into multi-strata systems
 - [[biochar-in-regenerative-agriculture]] — Soil improvement for cinnamon plantations

@@ -125,8 +125,6 @@ the spiral forward.
 
 ## See also
 
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
-- [[bloomfield-basidiomycete-biology-overview]]
 - [[bloomfield-plant-hypersensitive-response-rust-arms-race]]
 - [[bloomfield-gymnosporangium-cedar-apple-rust-hawthorn-teleospores]]

@@ -12,27 +12,13 @@ type: concept
 # Atmospheric Steam Sterilization of Sawdust Substrates
 
 Many cultivators cannot afford, nor have access to, large
-production-style [[growing-gourmet-autoclave-retort-selection]] equipment. The size [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-[[sterilization]] vessel is the primary limiting factor
-preventing home cultivators from becoming large-scale
-producers. Atmospheric steam sterilization, also called
-super-pasteurization, provides a practical alternative.
-
-## The Concept
-
-Atmospheric steam sterilization calls for the exposure of
-substrates to prolonged, elevated temperatures exceeding
-190 degrees F (88 degrees C) for at least 12 hours. Since
+production-style [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
 [[water-management]] at sea level boils at 212 degrees F (100 degrees C),
 the mass of sawdust cannot be elevated beyond this
 temperature unless the pressure within the vessel is raised
 above 1 psi.
 
-This method bridges the gap between [[mushroom-training-pasteurization-sterilization]]
-(140-180 degrees F at atmospheric pressure) and true
-sterilization (above 212 degrees F under pressure). While
-not achieving complete sterilization, it is effective enough
-for many [[benjamin-minge-duggar-mushroom-cultivation-research]] applications.
+This method bridges the gap between [[benjamin-minge-duggar-mushroom-cultivation-research]] applications.
 
 ## Distinguishing Pasteurization from Sterilization
 
@@ -56,33 +42,8 @@ Understanding the spectrum of heat treatments is essential:
 ## Retrofitting Vessels for Steam Sterilization
 
 Many cultivators retrofit cargo-style shipping containers
-in a fashion similar to a [[stamets-phase-ii-composting]] chamber. Various
-containers can be converted into functional steam chambers:
-
-- Large-capacity commercial laundry washers
-- Cement mixers
-- Cheese-making vats
-- Beer fermentation vessels
-- Railroad cars and semi-truck trailers
-- Grain hoppers
-- Large-diameter galvanized drain pipe
-
-Once filled to capacity with bags of supplemented sawdust,
-steam is forcibly injected, bringing the mass [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-[[substrate-ph-management]] to 190 degrees F (90 degrees C) for a minimum of
-12 hours.
-
-## Sterilization Profile and Monitoring
-
-Temperature-sensitive indicator strips help cultivators
-determine sterilization profiles. If sawdust is treated in
-bulk and not separated into individual bags, the danger of
-cross-contamination is likely during the unloading and
-spawning process.
-
-Multiple thermometers should be inserted in at least three
-locations: low (within 4-6 inches), midway, and high
-(within 12-24 inches [[allegro-names-of-the-gods-and-their-fertility-origins]] top surface). Temperature
+in a fashion similar to a [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
+[[allegro-names-of-the-gods-and-their-fertility-origins]] top surface). Temperature
 probes should be monitored to gather data for generating a
 pasteurization profile specific to each run.
 

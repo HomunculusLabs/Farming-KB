@@ -134,11 +134,7 @@ This pragmatic framing acknowledges that ayahuasca tourism is not inherently val
 
 ## See Also
 
-- [[western-spiritual-tourism-chronology]]
-
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 
-- [[ayahuasca-tourism-ethics-and-commodification]] -- ethical tensions in Western consumption
 - [[ayahuasca-tourism-peru-retreat-landscape]] -- physical infrastructure Western seekers encounter
-- [[ayahuasca-tourism-shamanic-tourism-economics]] -- economic dynamics shaping the seeker experience
 - [[ayahuasca-tourism-legal-status-by-country]] -- legal frameworks affecting Western seekers

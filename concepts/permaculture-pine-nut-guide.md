@@ -96,16 +96,8 @@ Native, evergreen of south eastern Queensland in Australia, reaching 30-45 m wit
 ## Permaculture Integration
 
 - Pine nuts provide high-calorie, high-protein food from perennial trees
-- Many species are extremely drought and cold tolerant -- suited to [[permaculture-dryland-strategies]]
-- Slow growth means long-term planning needed; plant as part of multi-generational [[permaculture-food-forest-design-principles]]
+- Many species are extremely drought and cold tolerant -- suited to [[permaculture-food-forest-design-principles]]
 - Digger pine (P. sabiniana) allows intercropping due to open canopy
-- Pair with [[permaculture-oak-acorn-processing]] for diverse nut production
-- Pine needles provide mulch and can be brewed as tea
-- Stone pine (P. pinea) at 34% protein is the most nutritious pine nut
-- Consider Korean pine (P. koraiensis) or Siberian pine (P. sibirica) for cold climates
-- Seeds store well, providing winter food security
-- [[permaculture-cold-climate-strategies]]
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+- Pair with [[permaculture-cold-climate-strategies]]
 - [[permaculture-frost-protection-strategies]]
-- [[mollison-berry-production-cool-climates]]
 - [[permaculture-designers-manual-plant-propagation]]

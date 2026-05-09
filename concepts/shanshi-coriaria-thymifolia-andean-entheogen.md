@@ -18,77 +18,7 @@ in Ecuador as an intoxicant, producing effects that include the
 sensation of flight. The chemistry of this species remains poorly
 understood, making it one of the more mysterious entheogenic plants
 documented in the ethnobotanical literature. The plant was documented
-by [[richard-evans-schultes]] and [[albert-hofmann]] in their comprehensive
-survey of hallucinogenic plants, reflecting its confirmed status as
-a psychoactive species despite limited ethnobotanical study.
-
-## Taxonomy and Distribution
-
-Coriaria thymifolia belongs to the family Coriariaceae, which
-contains only the single genus Coriaria. The genus comprises
-approximately 15 species, most of which are shrubs. Members of the
-genus are found across a remarkably disjunct distribution: the
-mountains extending from Mexico through Central and South America to
-Chile, the Mediterranean region extending eastward through the Middle
-East to Japan, and New Zealand. This unusual distribution pattern
-suggests an ancient lineage with origins predating the breakup of
-continental landmasses, making Coriariaceae a phylogenetically
-significant family. The disjunction between South American and
-Mediterranean-Pacific populations is particularly striking and has
-been the subject of biogeographic investigation.
-
-## Botanical Description
-
-Coriaria thymifolia is a shrub adapted to high-altitude Andean
-environments. It produces small fruits that are consumed for their
-intoxicating effects despite the plant's well-documented toxicity to
-livestock. The paradox between toxicity to cattle and deliberate
-human consumption of the fruits suggests either differential
-sensitivity between species or that human users have developed
-specific preparation methods that reduce harmful constituents while
-preserving psychoactive properties. The plant's identification as
-"very poisonous to cattle" is consistent across multiple sources,
-indicating that this toxicity is well-established in local knowledge.
-In New Zealand, the closely related Coriaria arborea (tutu) is
-notorious for causing livestock deaths and occasional human
-poisoning, lending credence to the toxicity reports for C. thymifolia.
-
-## Psychoactive Effects
-
-The primary reported effect of shanshi fruit consumption is a
-sensation of flight, which has led to its classification among
-hallucinogenic plants. The "weird effects" described by Schultes
-and Hofmann include alterations of body perception and spatial
-awareness consistent with a dissociative or deliriant experience
-rather than a classical psychedelic one. The sensation of flight
-is particularly noteworthy as it parallels effects reported for
-other New World entheogens, suggesting either a shared
-pharmacological mechanism or a common cultural interpretation
-of altered states of consciousness. Unlike many classical
-psychedelics that produce primarily visual effects, shanshi
-appears to produce predominantly somatic and spatial distortions.
-
-## Chemistry and Toxicology
-
-The psychoactive principles of Coriaria thymifolia remain
-unidentified. The effects are attributed "possibly to an
-unidentified glycoside," but the chemistry of the species has not
-been adequately characterized. Other Coriaria species are known to
-contain tutin, a sesquiterpene lactone glycoside that is a potent
-GABA receptor antagonist and is responsible for poisoning incidents
-in New Zealand, where Coriaria arborea (tutu) is common. If tutin
-or related picrotoxane-type compounds are present in C. thymifolia,
-this would explain both the toxicity to cattle and the dissociative
-effects experienced by human consumers. Tutin acts as a noncompetitive
-blocker of GABA-A receptors, producing convulsions at high doses
-and altered perception at lower doses.
-
-## Ethnobotanical Context
-
-The use of shanshi by Ecuadorian peasants represents one of the
-lesser-known entheogenic traditions of South America. Unlike the
-well-documented ayahuasca traditions of the western Amazon or the
-San Pedro (Echinopsis pachanoi) ceremonies of the Peruvian Andes,
+by [[echinopsis-pachanoi]]) ceremonies of the Peruvian Andes,
 shanshi use has received minimal ethnobotanical attention. Its
 documentation in Schultes and Hofmann's Golden Guide suggests that
 knowledge of its use was current at the time of their fieldwork
@@ -131,6 +61,24 @@ conducted urgently before the tradition disappears entirely.
 
 ## See Also
 
-- [[entheogen-trichocereus-genus-mescaline-cacti]] for other Andean entheogens
 - [[ayahuasca-botany-and-preparation]] for major South American entheogenic traditions
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] for other auditory hallucinogens
+## Practical Considerations
+
+Successful implementation of Shanshi Coriaria Thymifolia Andean Entheogen requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

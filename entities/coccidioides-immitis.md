@@ -64,11 +64,11 @@ In host tissue, arthroconidia undergo a dramatic morphological transformation in
 
 ### Comparison with Other Dimorphic Pathogens
 
-This dimorphic transition is distinct from the yeast-mold dimorphism seen in [[histoplasma-capsulatum]] and [[blastomyces-dermatitidis]]. While H. capsulatum converts to a yeast form and B. dermatitidis also produces yeast cells, C. immitis produces the unique spherule-endospore cycle that is not found in any other human pathogen.
+This dimorphic transition is distinct from the yeast-mold dimorphism seen in [[blastomyces-dermatitidis]]. While H. capsulatum converts to a yeast form and B. dermatitidis also produces yeast cells, C. immitis produces the unique spherule-endospore cycle that is not found in any other human pathogen.
 
 ## Biohazard Classification
 
-C. immitis is classified in biohazard class 3, the second-highest hazard grade, along with [[histoplasma-capsulatum]] and [[blastomyces-dermatitidis]]. This classification is justified by several factors:
+C. immitis is classified in biohazard class 3, the second-highest hazard grade, along with [[blastomyces-dermatitidis]]. This classification is justified by several factors:
 
 ### Virulence
 
@@ -95,33 +95,13 @@ The fungus survives in soil as a saprotroph, with arthroconidia serving as the r
 
 ## Epidemiological Detection
 
-Like [[histoplasma-capsulatum]], skin testing with standardized fungal antigens (coccidioidin or spherulin) provides a method for detecting previous exposure to C. immitis in human populations. Such testing has been invaluable for:
-
-- Mapping the geographic distribution of the pathogen in endemic areas
-- Assessing the prevalence of exposure in different populations
-- Identifying high-risk areas for public health interventions
-- Evaluating the impact of environmental changes on disease incidence
-
-## Phylogenetic Relationships
-
-Research into the connection between C. immitis and uncinocarpus-reesei has provided insights into the evolution of pathogenicity within the Onygenales. The close phylogenetic relationship between a highly virulent pathogen and a non-pathogenic saprotroph offers opportunities for:
-
-- Identifying the genetic basis of fungal pathogenicity through comparative genomics
-- Understanding how virulence factors evolved ffungal-biodiversitytrophic traits
-- Developing potential therapeutic targets unique to the pathogen
-- Tracing the biogeographic history of the Coccidioides lineage
-
-## Impact on Biodiversity Research
-
-The biohazardous nature of C. immitis affects [[fungal-biodiversity]] research in endemic areas. Soil sampling and environmental surveys in desert regions of the southwestern United States may encounter this pathogen, requiring researchers to take appropriate safety precautions. Any comprehensive survey of biodiversity in an ecosystem should include data from local medical and veterinary authorities on the prevalence of C. immitis and other pathogens.
+Like [[fungal-biodiversity]] research in endemic areas. Soil sampling and environmental surveys in desert regions of the southwestern United States may encounter this pathogen, requiring researchers to take appropriate safety precautions. Any comprehensive survey of biodiversity in an ecosystem should include data from local medical and veterinary authorities on the prevalence of C. immitis and other pathogens.
 
 ## See Also
 
-- [[histoplasma-capsulatum]] — related Onygenalean pathogen, also biohazard class 3
 - [[blastomyces-dermatitidis]] — related dimorphic fungal pathogen
 - uncinocarpus-reesei — non-pathogenic relative with phylogenetic significance
 - Onygenales — the order containing systemic fungal pathogens
 - ajellomyces-capsulatus — teleomorph of H. capsulatum, related teleomorph genus
 - coccidioides immitis entity
-- [[fungal-infections-human]]
 - [[mucormycosis-zygomycete-infections]]

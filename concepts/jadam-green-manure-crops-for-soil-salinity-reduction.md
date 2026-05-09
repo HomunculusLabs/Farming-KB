@@ -8,36 +8,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 type: concept
 ---
 
-# JADAM [[green-manure-crops]] for Soil Salinity Reduction
-
-Soil salinity is one of the most serious and pervasive problems in modern
-agriculture. JADAM approaches salt accumulation not as an inevitable
-consequence of farming but as a manageable condition caused by specific
-human practices, primarily soil compaction and the removal of crop residues.
-The solution involves both correcting the underlying causes and using
-specific green manure crops to actively remove accumulated salt.
-
-## Understanding the Root Cause of Salinity
-
-JADAM's analysis of soil salinity begins by asking nature: "Do you have
-problems with salt accumulation?" Nature answers that she does not. Acid
-rain with all its pollutants falls on natural soil, yet nothing accumulates.
-The reason is that natural soil is open and permeable. When rain falls on
-natural soil, moisture seeps deep, meeting diverse microorganisms that
-purify the water. Purified water flows into aquifers, reaches rivers and
-oceans, and returns to the sky. Material circulation functions properly.
-
-In cultivated fields, heavy vehicles have compressed the soil. Repeated
-application of antibiotics, chemical fertilizers, pesticides, and
-herbicides has left these substances accumulated. A compacted soil layer
-forms approximately 15 cm (6 inches) below the surface. This layer blocks
-both upward and downward movement. Roots cannot penetrate it, and when rain
-falls, water is trapped above this barrier. Instead of draining deep, water
-stagnates, slowly evaporates, and leaves salt behind. This cycle repeats,
-producing progressively more salinized soil.
-
-The fundamental solution is to eliminate the compacted soil layer. JADAM
-achieves this through no-till practices, [[cover-crops]] with vigorous root
+# JADAM [[cover-crops]] with vigorous root
 systems, and microbial activity that breaks down compaction. Cover crops
 play a dual role: their roots physically break through compacted layers,
 and they actively absorb salt from the soil profile.
@@ -136,6 +107,5 @@ through the soil profile without stagnating and evaporating.
 
 ## See Also
 
-- [[solomon-cover-crops-green-manure-guide]]
 - [[mollison-designers-cover-crops-and-green-manure-species]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]

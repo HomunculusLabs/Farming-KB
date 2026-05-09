@@ -55,32 +55,8 @@ cap-and-stem morphology; instead, it forms what mycologists term an "irregularly
 shaped mass of hanging spines" arising from a rough, solid base that may be
 attached to the substrate at a single point or a small area.
 
-The [[spore-print-collection-spore-mass-inoculation]] is white. Spores are broadly ellipsoid to subglobose, smooth,
-hyaline, approximately 5–7 × 4–6 µm in size, and amyloid. The basidia are
-club-shaped, typically four-spored, measuring 25–40 × 4–6 µm. The hyphal
-system is monomitic, consisting of generative hyphae with clamp connections.
-
-Mycelium is white and vigorous, forming dense rhizomorphic networks on suitable
-substrates. Fruit bodies typically weigh 50–500 g in cultivation but can exceed
-1 kg in wild specimens. The texture of fresh fruiting bodies is remarkably
-seafood-like, with a density and mouthfeel frequently compared to lobster or
-crab meat, a quality that has made it highly valued in culinary applications.
-
-## Habitat and Distribution
-
-H. erinaceus is found throughout the Northern Hemisphere, native to temperate
-forests of North America, Europe, and Asia. In North America it ranges from the
-Appalachian Mountains through the Great Lakes region and Pacific Northwest,
-extending north into Canada and south into the mountains of Mexico. In Europe it
-occurs from Scandinavia to the Mediterranean. In Asia it is found across China,
-Japan, Korea, and the Russian Far East.
-
-The fungus is a saprotrophic and facultative parasitic species, primarily
-growing on dead or dying hardwood trees, especially oak (Quercus spp.), walnut
-(Juglans spp.), beech (Fagus spp.), maple (Acer spp.), and sycamore (Platanus
-spp.). It causes a [[white-rot-fungi-bioremediation]] of the host wood, decomposing both lignin and
-cellulose through the action of [[ligninolytic-enzymes-bioremediation]] including laccase,
-[[manganese-peroxidase-mechanism]], and lignin peroxidase.
+The [[white-rot-fungi-bioremediation]] of the host wood, decomposing both lignin and
+cellulose through the action of [[manganese-peroxidase-mechanism]], and lignin peroxidase.
 
 Wild specimens are most commonly found in late summer through autumn (August
 through November in the Northern Hemisphere), though in some warm, humid regions
@@ -100,43 +76,7 @@ A typical substrate formula consists of hardwood sawdust (oak, beech, or mixed
 hardwood) supplemented with wheat bran or rice bran at 10–20% dry weight
 supplementation rate, adjusted to approximately 60–65% moisture content. The
 substrate is sterilized (autoclaved at 121°C for 90–120 minutes), inoculated
-with [[grain-spawn-types-and-preparation]] (typically rye, millet, or sorghum), and incubated at 20–25°C
-in darkness for 20–30 days until full colonization.
-
-**Log-based cultivation** uses hardwood bolts, typically 10–20 cm diameter and
-30–100 cm length, inoculated by drilling holes and inserting spawn plugs. Oak,
-beech, and ironwood logs are preferred. This method produces fruiting bodies
-with morphology and texture closest to wild specimens but requires 1–2 years
-before first harvest.
-
-Optimal fruiting conditions include temperatures of 18–24°C, high humidity
-(85–95% relative humidity), abundant fresh air exchange (1000–1500 ppm CO₂ for
-normal development; excessive CO₂ causes elongated, coral-like malformations),
-and diffuse light (100–500 lux). The species is relatively slow-growing compared
-to other cultivated mushrooms, with a full cultivation cycle typically requiring
-4–6 months from inoculation to harvest. Multiple flushes are possible (typically
-3–5), though the first flush generally produces the largest and most
-aesthetically desirable fruiting bodies. Yields average 15–25% biological
-efficiency (fresh weight of mushrooms per dry weight of substrate).
-
-## Bioactive Compounds
-
-The medicinal properties of H. erinaceus are attributed to two primary classes
-of bioactive compounds, along with several secondary constituents:
-
-**Hericenones** (types C–H) are isolated from the fruiting body and are
-cyathane-type sesquiterpenoids. Hericenones C, D, E, F, G, and H have been
-isolated and characterized. Hericenones E and H have been shown to stimulate
-NGF synthesis in vitro and in vivo.
-
-**Erinacines** (types A–I) are found primarily in the mycelium and are also
-cyathane derivatives. Erinacine A is the most potent stimulator of nerve growth
-factor (NGF) synthesis among the known erinacines, and most mycelium-based
-supplements are standardized to erinacine content. Erinacines A, B, and C were
-first isolated from cultured mycelium filtrates by Kawagishi et al. in the
-early 1990s.
-
-**[[beta-glucan-receptor-binding]] polysaccharides**, particularly (1,3)/(1,6)-beta-D-glucans, are
+with [[beta-glucan-receptor-binding]] polysaccharides**, particularly (1,3)/(1,6)-beta-D-glucans, are
 major cell wall components that contribute to immunomodulatory and anti-tumor
 properties. [[hot-water-and-hydrated-lime-substrate-treatment]] extracts contain 20–40% beta-glucans by dry weight.
 
@@ -147,4 +87,3 @@ acids, and sterols.
 ## Medicinal Properties and Neurogenesis
 
 The most significant pharmacological activity of H. erinaceus is its ability to
-stimulate nerve growth factor (NGF) synthesis. NGF is a neurotrophin essential

@@ -123,13 +123,9 @@ vegetative growth.
 
 ## Related
 
-- [[green-cannabis-vegetative-growth]] Concepts
-
 - [[cannabis-nutrient-management]]
 - cannabis indoor grow environment
-- [[cannabis-seed-germination]]
 - [[training-cannabis]]
-- [[topping-cannabis]]
 - [[supercropping]]
 - [[vegetative-phase-cannabis]]
 - cannabis pest and disease management

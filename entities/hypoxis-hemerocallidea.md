@@ -101,21 +101,12 @@ H. angustifolia, native to eastern North America, was historically used by indig
 
 ## See Also
 
-- [[sutherlandia-frutescens]]
 - [[pelargonium-sidoides]]
-- [[andrographis-paniculata]]
 - [[centella-asiatica]]
-- [[bacopa-monnieri]]
 - [[withania-somnifera]]
-- [[ocimum-sanctum]]
 - [[aloe-vera]]
-- [[turmeric]]
-- [[ginger]]
 - [[moringa-oleifera]]
-- [[commiphora-myrrha]]
 - [[boswellia-sacra]]
-- [[berberine]]
 - [[silybum-marianum]]
-- [[glycyrrhiza-glabra]]
 - [[artemisia-absinthium]]
 - [[curcumin]]

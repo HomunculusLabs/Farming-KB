@@ -3,7 +3,7 @@ title: Recommended Protocols for Sampling Macrofungi
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -77,11 +77,7 @@ The greatest constraints on macrofungal diversity studies are:
 
 ## See Also
 
-- [[macrofungi-sampling]]
 - [[macrofungi-seasonality-annual-variation]]
-- [[macrofungi-woody-substrata-survey-design]]
 - [[fungal-specimen-collection-herbarium-management]]
-- [[fungal-survey-scientific-contributions]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[microfungal-species-diversity-large-areas]]
 - [[fungal-species-richness-and-diversity-indices]]

@@ -110,15 +110,11 @@ Mind-body approaches with evidence for asthma management:
 
 ## See Also
 
-- [[cannabis-for-asthma]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-for-neurological-conditions]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-health-index]]
 
 ## Source
 
 Uwe Blesching, *The Cannabis Health Index*, Asthma section
-- [[cannabis-mind-body-medicine-integration]]
 - [[cannabis-topical-applications]]

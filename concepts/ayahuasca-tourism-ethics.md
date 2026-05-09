@@ -70,19 +70,7 @@ Pentecostal, Adventist, and Catholic missionaries have gained many converts in i
 
 ## The MAPS Connection and Cactus Research
 
-R. Stuart's observations were made during a cactus identification research project in Ucayali, Peru, supported by a grant from Bob Wallace to MAPS (Multidisciplinary Association for Psychedelic Studies). This connection illustrates how ayahuasca tourism research intersects with broader psychedelic scholarship. The [[philosophical-implications-of-psychedelics]] has been instrumental in legitimizing research into traditional psychedelic plant medicines.
-
-## Peru's Drug Policy Context
-
-Peru's approach to ayahuasca stands in contrast to US drug policy. While the drug war is "in full force" in Peru -- with television portrayals of marijuana as a killer weed and cocaine traffickers regularly closing roads -- ayahuasca is regarded as an herbal tonic rather than an illegal drug. The brew and its raw materials are openly sold in markets, and government tourist agencies sponsor ayahuasca festivals. One notable exception was the imprisonment of American ayahuasquero Alan Shoemaker for distributing ayahuasca, though this appears to have been an isolated incident.
-
-## Pablo Amaringo and the Visual Culture
-
-The article references Pablo Amaringo, the renowned Shipibo artist whose paintings depict ayahuasca visions. Amaringo's work, particularly his painting "The Three Powers," has become iconic in the entheogenic art world. His detailed visionary art provides a visual record of the ayahuasca experience that complements the oral traditions of icaros and ceremony. See [[natto-making]] for more on his contributions to entheogenic art and [[psychedelic-mushroom-art-and-iconography]] for broader context on visionary plant art.
-
-## Shipibo Ceremonial Tradition
-
-The Shipibo people of the Peruvian Amazon have a particularly strong ayahuasca tradition. The Shipibo town of San Francisco, near Yarina, is formally proclaimed as the "Centro Ceremonial del Ayahuasca." Shipibo ceremonies feature icaros -- healing songs that are central to the ayahuasca experience. The [[shipibo-icaros-healing-songs]] represents one of the most developed and musically sophisticated forms of entheogenic ceremony in the Amazon.
+R. Stuart's observations were made during a cactus identification research project in Ucayali, Peru, supported by a grant from Bob Wallace to MAPS (Multidisciplinary Association for Psychedelic Studies). This connection illustrates how ayahuasca tourism research intersects with broader psychedelic scholarship. The [[natto-making]] for more on his contributions to entheogenic art and [[shipibo-icaros-healing-songs]] represents one of the most developed and musically sophisticated forms of entheogenic ceremony in the Amazon.
 
 ## Practical Considerations for Prospective Tourists
 
@@ -97,21 +85,11 @@ Based on Stuart's field observations, prospective ayahuasca tourists should cons
 
 ## See Also
 
-- [[entheogen-culture]] -- broader context of entheogenic traditions
 - [[ayahuasca-brewing-guide]] -- practical guide to ayahuasca preparation and use
-- [[ayahuasca-preparation]] -- traditional and modern preparation methods
 - [[beta-carboline-chemistry]] -- chemistry and pharmacology of the brew
 - banisteriopsis caapi -- the primary ayahuasca vine
-- [[mycopesticides]] -- the DMT-containing admixture plant
 - [[shipibo-icaros-healing-songs]] -- Shipibo healing songs
-- [[natto-making]] -- visionary artist
 - [[entheogenic-ceremony-preparation]] -- preparing for entheogenic experiences
-- [[psychedelic-harm-reduction]] -- safety principles
-
-## Related
-
 - [[consumer-versus-conserver-society]]
-- [[philosophical-implications-of-psychedelics]]
 - [[richard-evans-schultes-updated]]
-- [[banisteriopsis-caapi]]
 - [[mckenna-food-of-the-gods-thesis]]

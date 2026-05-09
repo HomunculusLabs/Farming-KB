@@ -117,8 +117,6 @@ Bacteria alone cannot provide the full spectrum of benefits. AACT with the compl
 
 ## See Also
 
-- [[ingham-foliar-pest-deterrence-aact]]
 - [[ingham-pest-management-aact]]
-- [[foliar-pest-deterrence-aact-mechanisms]]
 - [[ingham-leaf-surface-biology-exudates]]
 - [[beneficial-insects-guide]]

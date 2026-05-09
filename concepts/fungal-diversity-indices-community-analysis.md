@@ -3,7 +3,7 @@ title: Fungal Diversity Indices and Community Analysis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 
@@ -101,11 +101,7 @@ Requirements: n >= 15 samples; no confidence intervals for smaller datasets.
 
 ## See Also
 
-- [[fungal-species-richness-and-diversity-indices]]
 - [[fungal-community-ecology]]
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[soil-fungal-isolation-techniques]]
-- [[fungal-species-estimation-methods-total-diversity]]
 - [[fungal-species-estimates-taxonomy]]
-- [[molecular-fungal-taxonomy]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

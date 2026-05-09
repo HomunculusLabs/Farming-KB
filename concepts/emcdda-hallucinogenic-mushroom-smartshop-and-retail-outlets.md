@@ -135,8 +135,6 @@ Following legal restrictions, the retail market adapted rapidly:
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - [[smartshops-and-hallucinogenic-mushroom-retail]]

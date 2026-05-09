@@ -15,16 +15,7 @@ areas without the hard labor of digging and turning dirt. By stacking sheets
 of organic materials like a layer cake, you can build rich soil over existing
 ground, suppress weeds, and establish gardens on almost any soil type. The
 technique is central to and
-[[teaming-with-microbes-no-till-gardening-soil-health]] approaches.
-
-## Overview
-
-The beauty of sheet mulching is that it works for every soil type except the
-hardest compacted dirt (for which you would build a raised bed or use a chisel
-plow). Sheet mulching also stops every kind of weed, saving significant labor.
-It follows composting principles by using brown materials (carbon-rich) and
-green materials (nitrogen-rich) in proper ratios. Over time, the layers break
-down into rich, dark soil teeming with [[teaming-with-microbes-mulch-and-soil-food-web]] organisms.
+[[teaming-with-microbes-mulch-and-soil-food-web]] organisms.
 
 ## Step-by-Step Process
 
@@ -97,28 +88,7 @@ where worms will dispose of them immediately.
 ## Relationship to Soil Health
 
 Sheet mulching connects directly to and
-[[vermicomposting]] practices. The layered approach encourages earthworms
-and beneficial microorganisms. It aligns with by
-preserving soil structure, avoiding tilling, and building organic matter.
-
-Permaculture insists on leaving soil undisturbed. Bare soil is damaged by
-sun, wind, and water. Sheet mulching covers and protects the soil while
-building fertility, making it a cornerstone technique for any
-system.
-
-## Common Materials
-
-Commonly available materials for sheet mulching include cardboard (remove
-tape and staples), newspaper (black-and-white pages only), straw from horse
-stables, leaves raked from yards, seaweed gathered from beaches, and grass
-clippings. Kitchen scraps from meal preparation can also be buried under the
-mulch layers where they will be quickly broken down by worms and other soil
-organisms. The diversity of materials improves the resulting soil quality.
-
-## Advantages Over Traditional Methods
-
-Traditional garden preparation involves digging, tilling, and turning soil,
-which disrupts the [[soil-food-web]] and releases stored carbon. Sheet mulching
+[[soil-food-web]] and releases stored carbon. Sheet mulching
 avoids this entirely. It requires no heavy equipment, can be done by one
 person, and actually improves soil over time rather than depleting it. The
 weed suppression alone saves hours of labor per season. Additionally, the

@@ -19,8 +19,7 @@ type: concept
 Mycophagy -- the consumption of fungi by animals -- is a widespread trophic
 interaction across terrestrial ecosystems. Fungi serve as important food
 resources for both vertebrate and invertebrate animals, with consumption
-ranging from incidental to obligate dependency. In [[barn-design]]'s treatment of
-[[fungal-ecology]], mycophagy is recognized as a key link between fungal
+ranging from incidental to obligate dependency. In [[fungal-ecology]], mycophagy is recognized as a key link between fungal
 primary productivity and secondary production in food webs.
 
 ## Fungi as Nutritional Resources
@@ -114,14 +113,10 @@ that consume fungi affect fungal fecundity, dispersal, and community
 composition. The degree of dependency of many animals on fungi as a food
 source is still not entirely clear, raising the question of what impact the
 removal of fungi from ecosystems would have on faunal populations and
-communities. The [[fungal-soil-food-web]] and [[fungal-trophic-modes-and-nutritional-guilds]] are fundamentally shaped by these grazing interactions.
+communities. The [[fungal-trophic-modes-and-nutritional-guilds]] are fundamentally shaped by these grazing interactions.
 
 ## See Also
 
-- [[dighton-fungal-nutritional-composition-animal-diets]]
-
 - [[fungal-interactions-soil-fauna]]
-- [[dighton-fungal-trophic-interactions-soil-food-webs]]
 - [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
-- [[fungal-grazing-soil-fauna]]
 - [[fungal-secondary-productivity]]

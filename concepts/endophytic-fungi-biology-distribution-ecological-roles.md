@@ -1,39 +1,6 @@
 ---
 title: "Endophytic Fungi: Biology, Distribution, and Ecological Roles"
-tags: [mycology, endophytes, plant-microbe-interactions, fungal-ecology, fungal-diversity, clavicipitaceae, biodiversity-of-fungi]
-created: 2026-04-28
-updated: 2026-04-28
-sources:
-  - unknown-biodiversity-of-fungi.md
-type: concept
----
-
-# Endophytic Fungi: Biology, Distribution, and Ecological Roles
-
-Endophytic fungi are microfungi that colonize internal plant tissues without causing immediate, overt negative effects on their hosts. They represent one of the most poorly understood yet potentially vast components of global fungal biodiversity. Endophytes occupy the internal tissues of virtually all plant species across all biomes, from arctic tundra to tropical rainforests, and blur traditional boundaries between mutualism, commensalism, and parasitism.
-
-## Definition and Circumscription
-
-The term endophyte, in its broadest contemporary sense, applies to fungi capable of symptomless occupation of apparently healthy plant tissue. This definition encompasses virtually the entire spectrum of fungal-plant symbiotic interactions:
-
-- **Parasitism**: Fungi that harm their hosts during the quiescent phase
-- **Commensalism**: Fungi that neither benefit nor harm the host
-- **Mutualism**: Fungi that provide measurable benefits to the host
-
-The defining feature of endophytic fungi is a prolonged, inconspicuous period during which growth and colonization temporarily cease, resuming after a physical or maturational change in the host. This episodic growth pattern distinguishes endophytes from typical pathogens.
-
-## Two Major Types
-
-### Systemic Grass Endophytes
-
-For grass hosts (primarily Poaceae), endophytes denote a particular type of systemic, nonpathogenic symbiosis:
-
-- **Taxonomic affiliation**: Primarily Neotyphodium anamorphs of Balansiae (Clavicipitaceae)
-- **Colonization**: Extensive colonization of leaf, culm, and root tissues
-- **Transmission**: Vertical through host seeds
-- **Sporulation**: Completely suppressed on the host surface
-- **Integration**: Host and fungus function essentially as a single organism
-- **Origin**: Interspecific hybrid strains derived from [[Epichloë]] species that cause partial or complete host sterility (choke disease)
+tags: endophytic fungi biology distribution ecological roles species that cause partial or complete host sterility (choke disease)
 
 Grass endophytes provide protection against herbivory and pathogens, producing fungal alkaloids (lolines, ergot alkaloids, lolitrem, peramine) that deter insects and grazing mammals. Their effects on host fitness are well documented across species of Lolium, Festuca, and other pooid grasses.
 
@@ -55,8 +22,7 @@ Endophytic colonization of land plants by fungi is ubiquitous. Documented hosts 
 
 - **Mosses and hepatics**: Fungal endophytes in non-vascular plants
 - **Ferns and fern allies**: Including Pteridium aquilinum (bracken fern) with 61 endophytic species
-- **Conifers**: Abies alba needles harbor up to 120 species; [[juniperus-communis]] leaves support 114 species
-- **Broad-leaved trees**: [[arctostaphylos-uva-ursi]] leaves contain 176 species; Quercus ilex twigs and leaves harbor 149 species
+- **Conifers**: Abies alba needles harbor up to 120 species; [[arctostaphylos-uva-ursi]] leaves contain 176 species; Quercus ilex twigs and leaves harbor 149 species
 - **Tropical palms and trees**: Heisteria concinna and Ouratea lucens in Panama support 242 and 259 species respectively
 - **Herbaceous plants**: Including crops like Oryza sativa (rice) with 30 endophytic species
 - **Estuarine plants**: Salicornia perennis and Spartina alterniflora
@@ -119,7 +85,5 @@ Endophytic fungi may represent a substantial proportion of undiscovered fungal s
 
 ## See Also
 
-- [[biodiversity-of-fungi-endophytic-fungi]] for inventory and survey methods
 - [[symbiotic-fungi-endophytic-fungi-in-plants]] for agricultural applications
-- [[symbiotic-fungi-endophytic-fungi-plant-protection]] for biocontrol aspects
 - [[bark-xylotropic-endophytes-woody-tissue-colonization]] for woody tissue specialists

@@ -114,9 +114,6 @@ and the duplication of the Soviet results."
 
 ## See Also
 
-- [[tompkins-goethe-plant-metamorphosis-evolutionary-theory]]
-
 - [[tompkins-photosynthesis-biophotons]] for related biophoton research
-- [[tompkins-plant-electrical-signals]] for plant bioelectricity
 - [[tompkins-plant-perception-experiments]] for plant sentience research
 - [[bioluminescent-fungi]] for natural light emission in organisms

@@ -132,8 +132,6 @@ jurisdictions, particularly when sold for ornamental
 
 ## See also
 
-- [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-brewing-guide]]
-- [[ayahuasca-interactions-with-prescription-medications]]
 - [[ayahuasca-pharmacology]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]

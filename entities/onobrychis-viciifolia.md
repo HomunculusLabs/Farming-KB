@@ -115,11 +115,8 @@ Its drought tolerance makes it suitable for dryland farming and climate-resilien
 
 ## See Also
 
-- [[trifolium-pratense]]
 - [[trifolium-repens]]
-- [[alfalfa-medicago-sativa]]
 - [[lotus-corniculatus]]
-- [[melilotus-officinalis]]
 - [[caragana-arborescens]]
 - [[robinia-pseudoacacia]]
 - dalea purpurea

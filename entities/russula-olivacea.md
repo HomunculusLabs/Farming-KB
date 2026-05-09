@@ -100,21 +100,15 @@ Preliminary assays suggest mild antimicrobial activity against Gram-positive bac
 
 **Key lookalikes:**
 
-- **[[russula-vesca]]** — smaller, uniformly pinkish-brown cap, mild taste, more common
 - **[[russula-emetica]]** — bright red cap, very acrid taste, inedible
-- **[[russula-xerampelina]]** — darker purplish-brown cap, fishy or seafood odor when mature
 - **[[russula-brevipes]]** — whitish cap, shorter stipe, grows near conifers
 
 The olive-green coloration and large size help distinguish *R. olivacea* from most of these congeners, but intermediate forms can complicate field identification.
 
 ## See Also
 
-- [[russula-brevipes]]
 - [[russula-emetica]]
-- [[russula-vesca]]
 - [[russula-xerampelina]]
-- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
-- [[amanita-muscaria]]
 - [[suillus-luteus]]
 - [[laccaria-bicolor]]

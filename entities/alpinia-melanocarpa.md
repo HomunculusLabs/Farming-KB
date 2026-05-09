@@ -127,12 +127,8 @@ collections of Alpinia species from Borneo.
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[alpinia-officinarum]]
-- [[alpinia-nigra]]
 - [[alpinia-calcarata]]
-- [[alpinia-zerumbet]]
 - [[hedychium-coronarium]]
-- [[zingiber-officinale]]
 - [[kaempferia-galanga]]
 - [[boesenbergia-rotunda]]

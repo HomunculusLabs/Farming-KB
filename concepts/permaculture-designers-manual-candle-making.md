@@ -3,19 +3,7 @@ title: Candle Making and Wax Production
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# permaculture designers manual candle making and Wax Production
-# Permaculture Designers Manual - Wax Products from Bees and Plants
-
-updated: 2026-04-18
-
-## Overview
-
-Candle making and wax production in permaculture are primarily linked to [[permaculture-designers-manual-pig-systems]] and the multiple products of hive management. The Designers Manual references wax and candles as valuable products of bee range management, alongside honey, pollen, propolis, and royal jelly. Wax production also connects to broader themes of local self-reliance, craft production, and integrated resource use.
+tags: [[permaculture-designers-manual-pig-systems]] and the multiple products of hive management. The Designers Manual references wax and candles as valuable products of bee range management, alongside honey, pollen, propolis, and royal jelly. Wax production also connects to broader themes of local self-reliance, craft production, and integrated resource use.
 
 ## Beeswax Production
 
@@ -140,10 +128,6 @@ Wax production peaks during strong nectar flows when bees are building comb. Hiv
 
 ## Sources
 
-- [[mollison-permaculture-two-zone-planning-and-site-layout]], *Permaculture: A Designers' Manual*, Section 12
-- Bee range management and hive products
-- Candlenut references in Hawaiian and Pacific systems
 - [[permaculture-designers-manual-fuel-wood-systems]]
-- [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-pattern-application]]
 - [[permaculture-designers-manual-soap-candle-making]]

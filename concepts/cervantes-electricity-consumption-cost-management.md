@@ -15,7 +15,6 @@ Managing electricity consumption is a critical aspect of indoor cannabis
 cultivation. It affects both the economics of the operation and
 personal security. This page covers cost calculation, consumption
 management strategies, and security considerations. See also
-[[cervantes-grow-room-electricity-basics]] and
 [[cervantes-grow-room-security-law-enforcement]].
 
 ## Legal Considerations
@@ -122,9 +121,6 @@ changed dramatically.
 
 ## Relationship to Grow Room Design
 
-Efficient [[cervantes-grow-room-design-advanced]] can minimize
-electricity waste. Proper [[cervantes-air-quality-ventilation]] and
-[[cervantes-temperature-management]] reduce the need for supplemental
-cooling equipment that draws additional power. Using efficient
+Efficient [[cervantes-air-quality-ventilation]] and
 [[cervantes-high-pressure-sodium-lighting]] at 600 watts instead of
 1000 watts can provide more light per watt consumed.

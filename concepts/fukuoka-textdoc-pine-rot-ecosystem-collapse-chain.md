@@ -96,8 +96,6 @@ This chain of ecological disruption — each intervention creating the need for 
 
 - [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]] Concepts
 
-- [[fukuoka-pine-blight-matsutake-research|Pine Blight and Matsutake Research]]
 - [[fukuoka-pine-environment-collapse-japan|Pine Environment Collapse in Japan]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse|Pesticide Ecological Cascade and Forest Collapse]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature|No Cause and Effect in Nature]]
 - [[fukuoka-rodenticide-ecosystem-disruption-chain|Rodenticide Ecosystem Disruption Chain]]

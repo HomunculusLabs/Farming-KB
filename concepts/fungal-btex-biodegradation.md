@@ -3,7 +3,7 @@ title: Fungal Btex Biodegradation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Bioremediation of BTEX Compounds
@@ -49,38 +49,14 @@ Fungal advantages:
 
 For field application, BTEX fungal bioremediation requires:
 - Amendment with organic substrates (straw, wood chips) to support fungal growth
-- Proper formulation for inoculum delivery (see [[fungal-formulation-in-situ-bioremediation]])
-- Consideration of BTEX volatility -- these compounds evaporate readily
-- Soil treatment to enhance fungal colonization (see [[fungal-bioremediation-organic-pollutants]])
+- Proper formulation for inoculum delivery (see [[fungal-bioremediation-organic-pollutants]])
 
 ## Related Compounds
 
 The broader context of petroleum hydrocarbon bioremediation:
-- [[mycoremediation-oil-spills]] -- petroleum contamination
 - [[mycoremediation-of-petroleum-hydrocarbons]] -- petroleum hydrocarbons
-- [[fungal-oil-petroleum-bioremediation]] -- fungal petroleum treatment
 - [[mycorrhizal-fungi-hydrocarbon-remediation]] -- plant-fungal systems for hydrocarbons
-- [[fungal-biodegradation-chlorinated-aromatics-and-btex]] -- BTEX with chlorinated compounds
-
-## Trichloroethylene (TCE) Connection
-
-Trichloroethylene is a volatile aliphatic halocarbon compound also degraded by white-rot fungi. The study of volatile organic compound (VOC) degradation by fungi extends the applicability of ligninolytic systems beyond aromatic pollutants.
-
-## Practical Challenges
-
-- BTEX volatility means compounds can be lost to the atmosphere before degradation
-- Groundwater contamination requires in situ treatment approaches
-- Monitoring degradation in mixed plumes is complex
-- Competition between BTEX compounds for enzyme active sites needs study
-- Field trials are needed to establish practical effectiveness
-
-## Monitoring and Assessment
-
-Effective BTEX bioremediation requires careful monitoring:
-- Gas chromatography for tracking BTEX concentrations in soil and water
-- Metabolite analysis to confirm degradation rather than mere volatilization
-- Microbial community analysis to assess fungal colonization and competition
-- See [[bioavailability-in-fungal-bioremediation]] for factors affecting degradation rates
+- [[bioavailability-in-fungal-bioremediation]] for factors affecting degradation rates
 
 ## Fungal Species for BTEX Degradation
 
@@ -131,8 +107,6 @@ either approach alone in treating complex petroleum-contaminated sites.
 
 ## Related Concepts
 
-- [[fungal-bioremediation-organic-pollutants]]
 - [[ligninolytic-enzyme-systems-white-rot-fungi]]
-- [[fungal-enzymatic-diversity-decomposition]]
 - [[fungal-degradation-chlorophenols-btex]]
 - [[fungal-pesticide-and-herbicide-degradation]]

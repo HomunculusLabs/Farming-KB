@@ -140,10 +140,6 @@ the appropriate beta-nitrostyrene as yellow crystals with a mp
 2,4,6-trimethoxyphenethylamine (2,4,6-TMPEA, or 2C-TMA-6) as the
 picrate salt (mp 204-205 deg C) or the hydrochloride salt (mp 234-235
 deg C). It has been shown not to be a substrate to the soluble amine
-oxidase from rabbit liver, a property it shares with [[mescaline-entity]], but
-whether it is or is not active in man is at present unknown.
-## See Also
-- [[qualitative-comments-methodology-pihkal]]
-- [[pdc-trees-and-their-energy]]
+oxidase from rabbit liver, a property it shares with [[qualitative-comments-methodology-pihkal]]
 - [[aleph-2-pihkal-entry-4]]
 - [[tmpea-entity-pihkal]]

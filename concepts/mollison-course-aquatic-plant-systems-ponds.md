@@ -1,7 +1,7 @@
 ---
 title: Aquatic Plant Systems and Pond Design
 created: 2026-04-28
-tags: [permaculture, aquaculture, ponds, aquatic-plants, water-storage, 
+tags: [[permaculture]], aquaculture, ponds, aquatic-plants, water-storage, 
 wetland, duck-potato, wild-rice, watercress, mussels, algae, 
 sewage-treatment, bio-remediation]
 date: 2026-04-25
@@ -120,7 +120,5 @@ phosphates and nitrates. You can let that go into your pond.
 
 ## See Also
 
-- [[mollison-course-keyline-water-harvesting-dams]] for water storage
 - [[mollison-course-swales-and-earthworks-design]] for swale-fed ponds
-- [[mollison-course-zone-planning-and-design]] for pond placement in zones
 - [[mollison-course-coppice-forest-management]] for forest water systems

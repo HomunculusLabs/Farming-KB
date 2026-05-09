@@ -119,8 +119,7 @@ Once you have been mulching an area for a while, digging over or loosening soil 
 - Complete in a month maximum in less sunny areas
 
 ### Holzer's Preferred Mixture
-1. **Nettles** ([[urtica-dioica]], U. urens) -- nitrogen
-2. **Comfrey** ([[symphytum-officinale]], S. x uplandicum) -- potash
+1. **Nettles** ([[symphytum-officinale]], S. x uplandicum) -- potash
 3. **Tansy** (Tanacetum vulgare) -- general tonic
 4. **Horsetail** (Equisetum arvense) -- silica, strengthening
 5. **Wormwood** (Artemisia absinthium) -- pest regulation (aphids, scale insects, red spider mites)
@@ -141,4 +140,4 @@ Once you have been mulching an area for a while, digging over or loosening soil 
 
 Strong and healthy plants are more resistant to disease. Insects usually prefer weakened plants. Natural plant-based pesticides are very easy to make at home and cost nothing.
 
-See also: [[sepp-holzer-soil-fertility-and-green-manure]], [[sepp-holzer-garden-helpers-and-pest-regulation]], [[sepp-holzer-terrace-systems-and-raised-beds]],,
+See also: [[sepp-holzer-garden-helpers-and-pest-regulation]], [[sepp-holzer-terrace-systems-and-raised-beds]],,

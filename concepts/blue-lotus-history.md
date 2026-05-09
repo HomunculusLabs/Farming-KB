@@ -124,13 +124,7 @@ focuses on historical and archaeological significance, modern research has
 confirmed the presence of psychoactive alkaloids and has documented
 contemporary traditional use in parts of Mexico and Central America.
 
-See also: [[maya-entheogens]], [[pre-columbian-mushroom-use]],
-[[aztec-entheogens]], richard evans schultes updated
-- [[mushroom-symbolism-in-ancient-cultures]]
-- [[garden-myths-native-plants-and-invasive-species]]
+See also: [[pre-columbian-mushroom-use]],
+[[mushroom-symbolism-in-ancient-cultures]]
 - [[mexican-mushroom-stones-archaeological-evidence]]
-- [[egyptian-mushroom-temple-architecture]]
-
-## See Also
-
 - [[lotus-corniculatus]]

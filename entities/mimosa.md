@@ -138,13 +138,10 @@ humidity management to prevent bud rot in the later flowering stages.
 
 Purple coloration is enhanced by cooler nighttime temperatures (below
 18°C) during the final two weeks of flowering.
-
 ## See Also
 
-- [[purple-punch]]
 - [[wedding-cake-cannabis]]
 - terpene profile
-- [[limonene]]
 - [[myrcene]]
 - caryophyllene
 - [[cannabis-sativa]]

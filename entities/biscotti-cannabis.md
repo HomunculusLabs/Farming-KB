@@ -102,19 +102,12 @@ The sedative effects can be pronounced enough to cause couch-lock in less experi
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[gelato-33]]
-- [[og-kush]]
 - [[sour-diesel]]
-- [[granddaddy-purple]]
 - [[do-si-dos-entity]]
-- [[animal-cookies]]
 - [[cannabis-blue-dream]]
-- [[gsc-cannabis]]
 - [[ice-cream-cake-cannabis]]
-- [[wedding-cake-cannabis]]
 - [[kosher-kush-entity]]
-- [[mac-1]]
 - [[sundae-driver]]
 - [[chemdawg-cannabis]]
-- [[jungle-cake]]
+- jungle-cake

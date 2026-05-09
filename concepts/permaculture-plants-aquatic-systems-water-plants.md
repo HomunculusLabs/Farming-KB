@@ -54,22 +54,7 @@ peat moss.
 ### Duckweed (*Lemna*, *Wolffia*, *Spirodella*, *Wolffiella* spp)
 Approximately 40 known species of free-floating plants, among the most
 vigorous growers on Earth — some double their numbers every three days.
-Excellent for removing excess nutrients from water. *[[lemna-minor]]* and *L.
-trisulca* concentrate boron, aluminium, manganese, iron, titanium, copper,
-and cobalt from water into their tissues. Good fodder for fish, ducks, and
-domestic animals. *Spirodella* species can produce the feed equivalent of
-60 hectares of soybeans from a single hectare (protein 37–45%).
-
-### Wolffia (*Wolffia arrhiza*)
-The smallest flowering plant on Earth and edible for humans. Dry weight
-composition: 20% protein, 44% carbohydrate, 5% fat, plus vitamins A, B2,
-B6, and G. Cultivated in Burma, Laos, and Thailand as a vegetable, tasting
-like sweet cabbage. Thai calculated annual yield: 10.5 tonnes dry weight
-per hectare per year.
-
-## Key Emergent Food Plants
-
-### Taro (*[[colocasia-esculenta]]*)
+Excellent for removing excess nutrients from water. *[[colocasia-esculenta]]*)
 Possibly the earliest cultivated plant, grown in paddy culture like rice.
 Corms compare nutritionally to potatoes and sweet potatoes. Leaves and
 petioles can be cooked and eaten like spinach. Requires 6–7 month frost-
@@ -90,23 +75,7 @@ can exceed 7 tonnes per hectare (carbohydrate 30%, protein 1.5%). Often
 grown in rotation with rice and as a companion to taro, lotus, and water
 lilies.
 
-### Lotus (*[[nelumbo-nucifera]]*)
-Herbaceous perennial to 2 m, cultivated for seeds, leaves (harvested in
-spring), and rhizomes (harvested in autumn). Leaves can reach 1 m in
-diameter. Native to northern Australia with varieties suited to temperate
-sites.
-
-### Cattail / Cumbungi (*Typha* spp)
-Perhaps the most versatile water plant. Food uses include: pollen (rich
-in protein, carbohydrate, oil) mixed with flour at up to 1:1 ratio; young
-white spring shoots steamed as vegetable; flower heads steamed like corn
-cobs; tubers cooked like potatoes; roots dried and ground into flour
-comparable to rice and corn flour (yield: 7,000 kg/ha). Non-food uses:
-paper pulp, jute-like fibre (7–10 tonnes/ha), caulking material, water
-filtration (absorbs PCPs and other contaminants), bank stabilization, and
-wind shelter to reduce evaporation.
-
-### Water Cress (*[[nasturtium-officinale]]*)
+### Lotus (*[[nasturtium-officinale]]*)
 Fast-growing (30–60 days) broad-leafed herb requiring cool or cold flowing
 water. Extraordinarily nutritious: per 100 g contains 4900 IU vitamin A,
 79 mg vitamin C, 151 mg calcium, and 2.2 g protein. Warning: should not

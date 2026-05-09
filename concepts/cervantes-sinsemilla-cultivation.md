@@ -78,19 +78,7 @@ Several factors can compromise sinsemilla production:
 - **Hermaphrodites:** Sometimes a hermaphrodite with a few male flowers
   will sprout on a predominately female plant. Even a single male
   flower on an otherwise female plant can result in the majority of the
-  crop being pollinated and thus seeded. See [[cervantes-hermaphrodism-intersexuality]] for details.
-
-- **Interrupted dark cycles:** Disrupting the photoperiod will cause
-  plants to suffer stress, and if they suffer enough stress,
-  hermaphrodite tendencies increase.
-
-## Sinsemilla Harvest Timing
-
-The best time to harvest sinsemilla is when THC production is at peak
-levels. The peak harvest window is open for about five to seven days.
-Female pistils change color during flowering, most often from white to
-amber and eventually to reddish brown. Harvest timing depends on the
-desired effect -- see [[cervantes-harvest-timing-trichome-ripeness]].
+  crop being pollinated and thus seeded. See [[cervantes-harvest-timing-trichome-ripeness]].
 
 ## Indoor Sinsemilla Advantages
 
@@ -113,8 +101,6 @@ in greater potency and more desirable sensory characteristics.
 
 ## See Also
 
-- [[cervantes-flowering-phase]]
 - [[cervantes-hermaphrodism-intersexuality]]
-- [[cervantes-sex-determination-pre-flowering]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
 - [[cervantes-pruning-training]]

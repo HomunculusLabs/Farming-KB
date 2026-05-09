@@ -17,23 +17,7 @@ retardants, adhesives, and textiles before their production was banned.
 Dioxins, including polychlorinated dibenzo-p-dioxins (PCDD) and
 polychlorinated dibenzofurans (PCDF), are released from paper mill
 effluents, combustion processes, and as contaminants of chlorophenol
-chemicals. [[fungal-bioremediation]] offers a promising approach for
-degrading these recalcitrant chlorinated aromatic compounds.
-
-## PCB Properties and Environmental Persistence
-
-PCBs are marketed as complex mixtures under trade names including Aroclor,
-Clophen, and Delor. Common formulations include Aroclor 1242, 1254, and
-1260, containing 42, 54, and 60 percent chlorine by weight with an
-average of 3, 5, and 6 chlorine atoms per biphenyl molecule. The inherent
-chemical inertness, owing to a stable molecular structure and
-hydrophobicity, and the presence of a mixture of many congeners in
-commercially available PCBs are central to their low biodegradation in
-ecosystems and persistence in the environment. Mutagenic effects of PCBs
-in rodents are well documented, underscoring the need for effective
-remediation strategies.
-
-## PCB Degradation by [[phanerochaete-chrysosporium]]
+chemicals. [[phanerochaete-chrysosporium]]
 
 The extent of PCB degradation by basidiomycetes depends on the level of
 chlorination and the fungal strain employed. P. chrysosporium degrades
@@ -57,9 +41,7 @@ enzymes are not produced, suggesting alternative enzymatic pathways.
 ## PCB Degradation by Other Fungal Species
 
 Multiple fungal species have demonstrated PCB-degrading capabilities.
-[[aspergillus-niger]] efficiently dechlorinates Aroclor 1242 but not 1254
-from contaminated soils. P. chrysosporium, Coriolopsis polyzona, and
-[[trametes-versicolor]] caused 25, 41, and 50 percent degradation of PCBs
+[[trametes-versicolor-entity]] caused 25, 41, and 50 percent degradation of PCBs
 in a commercial Delor 106 mixture. T. versicolor and Pleurotus
 ostreatus degraded more than 95 percent of mono- and dichlorobiphenyls.
 Bjerkandera adusta, P. ostreatus, and T. versicolor were shown to be
@@ -102,26 +84,6 @@ LiP- or MnP-catalyzed oxidative dechlorination to produce
 tetrachloro-1,4-benzoquinone, which undergoes successive dechlorinations
 to yield 1,2,4-trihydroxybenzene before ring cleavage. Trametes
 versicolor degrades PCP through laccase-mediated pathways, with enhanced
-laccase production in the presence of chlorophenols. [[lentinula-edodes]]
-achieved 99 percent biotransformation of PCP in contaminated soil within
-10 weeks, demonstrating field-relevant remediation potential.
-
-## Challenges and Future Directions
-
-Much more is known about bacterial PCB degradation than fungal pathways.
-Key research needs include elucidating the biochemistry of fungal PCB
-degradation, identifying the specific enzymes involved, and optimizing
-culture conditions for enhanced degradation. The ability of some fungi
-to degrade highly chlorinated congeners without requiring biphenyl
-induction makes them attractive candidates for practical bioremediation
-of PCB-contaminated sites. Development of fungal inocula suitable for
-field application and understanding competitive interactions with
-indigenous soil microorganisms remain important areas for future
-investigation.
-
-## See Also
-
-- [[staycare-lignin-peroxidase-and-pollutant-degradation]]
-- [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
+laccase production in the presence of chlorophenols. [[staycare-lignin-peroxidase-and-pollutant-degradation]]
 - [[fungal-degradation-of-phenols-and-chlorophenols]]
 - [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]

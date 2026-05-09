@@ -3,7 +3,7 @@ title: Fungicolous Fungi Parasitic Interfaces and Ecology
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungicolous Fungi Parasitic Interfaces and Ecology
@@ -65,10 +65,7 @@ The fungicolous habit is widespread throughout the fungi but particularly common
 ## See Also
 
 - [[fungicolous-fungi]]
-- [[fungicolous-fungi]]
-- [[fungicolous-fungi-parasites-associates]]
 - [[lichenicolous-fungi]]
-- [[mushroom-contamination-control-strategies]]
 - [[insect-arthropod-associated-fungi]]
 - biological control of plant pathogens
 
@@ -108,5 +105,4 @@ and examination. Photography and collection of voucher specimens support
 accurate identification and contribute to biodiversity records. Working
 with experienced mycologists and consulting specialist literature greatly
 improves identification accuracy for these often-challenging groups.
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]

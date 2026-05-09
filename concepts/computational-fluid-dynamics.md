@@ -135,16 +135,16 @@ LES and DNS reduce some modeling errors but shift the burden to resolution, wall
 Poor meshes may create artificial diffusion, unstable iterations, nonphysical pressure fields, or hidden local errors.
 
 Responsible CFD treats color plots as diagnostic evidence, not proof; numerical results need budgets, comparisons, and uncertainty estimates.
-
 ## See Also
-- [[navier-stokes-equations-fluid-dynamics]]
-- reynolds number and flow regimes
 - [[turbulence-modeling-fluid-dynamics]]
 - boundary layer theory fluid dynamics
-- [[finite-element-method]]
 - [[heat-transfer-mechanisms]]
 
 ## References
 - Wikipedia, "Computational fluid dynamics," accessed 2026-05-02.
 - NASA Glenn Research Center, "Navier-Stokes Equations," accessed 2026-05-02.
 - Versteeg and Malalasekera, An Introduction to Computational Fluid Dynamics: The Finite Volume Method.
+
+## See Also
+
+- [[navier-stokes-equations-fluid-dynamics]]

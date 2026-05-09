@@ -11,7 +11,7 @@ sources:
 type: comparison
 ---
 
-# [[cannabis-cloning-guide]] vs [[seed-starting-methods-comparison]] Indoors
+# [[seed-starting-methods-comparison]] Indoors
 
 ## Overview
 Cannabis can be propagated both sexually through seeds and asexually
@@ -26,38 +26,6 @@ cannabis grow, from plant uniformity and predictability to genetic
 diversity and long-term breeding potential.
 
 ## Cannabis Cloning
-[[cannabis-cloning]]
-Cannabis cloning involves taking cuttings from a selected mother plant
-and rooting them to produce genetically identical daughter plants. The
-technique, detailed extensively in Cervantes' "Marijuana Horticulture,"
-allows growers to preserve elite genetics indefinitely and ensure that
-every plant in a crop will perform identically in terms of growth rate,
-flowering time, cannabinoid profile, and terpene expression. A single
-high-performing mother plant can supply hundreds of clones over its
-lifetime, providing the foundation for perpetual harvest systems.
-
-The cloning process begins with selecting a healthy branch tip (3 to 6
-inches long) and making a clean 45-degree cut below a node. The cutting
-is treated with rooting hormone (containing auxins like IBA or NAA in
-gel, powder, or liquid form) and placed in a rooting medium such as
-rockwool cubes, peat pellets, or an aeroponic cloning machine.
-Environmental control is critical during the rooting phase: humidity
-must be maintained at 80 to 100 percent, temperatures between 70 and 78
-degrees Fahrenheit, and light kept at low intensity to prevent the
-cutting from transpiring faster than it can absorb water through its
-developing roots. Roots typically emerge in 7 to 14 days.
-
-Cloning eliminates the vegetative growth variability that makes
-seed-grown plants unpredictable. Every clone enters the flowering phase
-at the same height, with the same structure, and matures on the same
-schedule, allowing growers to dial in their lighting, nutrient, and
-training programs with precision. The primary disadvantages are the need
-to maintain a dedicated mother plant (which consumes space, electricity,
-and nutrients), the risk of transmitting pests or diseases from mother
-to clones, and the genetic stagnation that occurs when a single genotype
-is grown repeatedly without introducing new diversity.
-
-## Seed Starting Indoors
 [[seed-starting-indoors]]
 Starting cannabis from seed involves germinating seeds and raising
 seedlings through the vegetative stage before transitioning to
@@ -146,5 +114,3 @@ gardens. Starting from seed provides a clean slate with no inherited
 biological baggage. For legal markets where seed genetics are readily
 available, starting from seed offers access to the newest crosses and
 breeding projects from around the world.
-
-## Hybrid Approaches

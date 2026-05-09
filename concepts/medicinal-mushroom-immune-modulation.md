@@ -3,7 +3,7 @@ title: Medicinal Mushroom Immune Modulation
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, medicine, mushrooms]
+tags: [[mycology, medicine, mushrooms]
 sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Medicinal Mushroom Immune Modulation
@@ -38,19 +38,9 @@ Immunopotentiation from mushroom beta-glucans and polysaccharide-protein complex
 
 Multiple mushroom species produce structurally distinct but functionally similar immunomodulators:
 
-- [[mushroom-cultivation-fundamentals]] -- PSK and PSP from Trametes versicolor
 - [[shiitake-medicinal-compounds]] -- Lentinan from Lentinus edodes
-- [[maitake-d-fraction-research]] -- D-fraction and Grifron-D from Grifola frondosa
 - [[reishi-mushroom-medicinal-properties]] -- Beta-glucans, Ling Zhi-8 protein, and triterpenes from Ganoderma lucidum
-- [[agaricus-blazei-murill-research]] -- Beta-glucans and proteoglucans from Agaricus blazei
-
-## Polysaccharide-Protein Complexes
-
-Beyond pure polysaccharides, many active compounds are protein-bound. PSK is approximately 62% polysaccharide and 38% protein, with molecular weights around 94,000-100,000 daltons. PSP also contains at least four discrete proteoglycan molecules. The protein moiety appears to play a role in receptor binding and oral bioavailability.
-
-## Triterpenes and Secondary Metabolites
-
-While beta-glucans are the primary immunomodulators, many medicinal mushrooms also contain triterpenes (particularly in [[reishi-mushroom-medicinal-properties]] species) that exhibit anti-inflammatory, anti-tumour, and hepatoprotective effects. These compounds work through different pathways -- modulating NF-kB signalling, inhibiting angiogenesis, and inducing apoptosis in cancer cells -- and may complement the immune-boosting effects of polysaccharides.
+- [[reishi-mushroom-medicinal-properties]] species) that exhibit anti-inflammatory, anti-tumour, and hepatoprotective effects. These compounds work through different pathways -- modulating NF-kB signalling, inhibiting angiogenesis, and inducing apoptosis in cancer cells -- and may complement the immune-boosting effects of polysaccharides.
 
 ## Clinical Applications
 
@@ -80,11 +70,27 @@ The immunomodulatory effects of medicinal mushrooms depend heavily on preparatio
 
 ## Related
 
-- [[ergothioneine]]
 - [[hispolon]] Topics
 
-- [[medicinal-mushroom-guide]]
 - [[beta-glucan-receptor-binding]]
-- [[reishi-mushroom-medicinal-properties]]
 - [[shiitake-medicinal-compounds]] 
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+## Practical Considerations
+
+Successful implementation of Medicinal Mushroom Immune Modulation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

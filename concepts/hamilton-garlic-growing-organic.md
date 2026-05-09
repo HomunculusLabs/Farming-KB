@@ -41,9 +41,7 @@ All the bulb vegetables prefer sunshine and a soil rich in organic
 matter, so dig in plenty of well-rotted compost or manure before
 planting. If necessary, add lime to raise the soil pH above 6.5.
 Good drainage is essential; garlic will rot in waterlogged
-conditions. Raised beds or the [[hamilton-deep-bed-system]] can
-improve drainage on heavy soils. Garlic fits well into the allium
-section of a [[hamilton-three-year-crop-rotation]] in Plot A.
+conditions. Raised beds or the [[hamilton-three-year-crop-rotation]] in Plot A.
 
 ## Planting
 
@@ -71,41 +69,10 @@ Garlic has a long history as a companion plant in organic gardening.
 It can be grown under rose bushes, where it is believed to help
 deter aphids and other pests. Planting garlic near tomatoes may
 also offer some protection. See
-[[hamilton-companion-planting-techniques]] for more details on
-using garlic strategically within the garden for pest management.
-
-## Harvesting
-
-Dig up the bulbs in summer when the leaves begin to yellow and die
-back. Lift carefully with a fork to avoid damaging the bulbs. Do
-not wait until the tops have completely died down, as the bulbs may
-split or become more susceptible to disease. Shake off excess soil
-and cure the bulbs by laying them out in a warm, dry, well-ventilated
-place, ideally in the sun, for several days until the skins papery.
-
-## Storing
-
-After curing, clean the bulbs and either string them or store them
-in nets in a frost-free, dry place. Properly dried garlic will store
-for many months. Select the largest, healthiest bulbs for saving as
-next year's planting stock. Regularly inspect stored bulbs and remove
-any showing signs of mold or rotting to prevent spread. The leaves
-can be added to the compost heap.
-
-## Pests and Diseases
-
-Garlic is generally trouble free compared to many vegetables. The
-main threats include onion rust, onion white rot, and onion fly.
-Good crop rotation within the [[hamilton-crop-rotation-and-vegetable-planning]]
+[[hamilton-crop-rotation-and-vegetable-planning]]
 system helps prevent the build-up of soil-borne diseases. Avoid
 planting garlic in the same bed where any allium crop has grown in
-the previous two years. See [[hamilton-pest-and-disease-control-organic]]
-for treatment of any problems that arise.
-
-## Related
-
-- [[hamilton-asparagus-growing-organic]]
-- [[hamilton-rhubarb-growing-organic]]
+the previous two years. See [[hamilton-asparagus-growing-organic]]
 - [[hamilton-leek-growing-organic]] Bulb Vegetables
 
 Garlic is part of the broader bulb vegetable group that includes

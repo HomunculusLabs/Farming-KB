@@ -130,12 +130,6 @@ barriers is consistently more cost-effective than remedial chemical
 treatment after infestation has occurred.
 
 ## See Also
-- [[oyster-mushroom-pest-insect-identification-guide]]
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
-- [[mushroom-pests-insect-control-stamets]]
-
-- oyster insect pests
-- Oyster Disease Management
-- Oyster Contamination Control
 - [[oyster-brown-blotch-disease]]
 - [[oyster-growing-house-types]]

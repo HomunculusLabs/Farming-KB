@@ -2,7 +2,8 @@
 title: "Gobekli Tepe"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 type: concept
 tags: [reference]
 ---
@@ -24,7 +25,7 @@ Its interpretation remains debated because there is no writing and because only 
 Gobekli Tepe is best understood as a regional ceremonial landscape rather than an isolated miracle.
 Nearby sites such as Karahan Tepe and Nevali Cori show related architectural and symbolic traditions.
 Together these places illuminate a transformative period when Southwest Asian societies were experimenting with settlement, cultivation, and ritual life.
-Gobekli Tepe is therefore central to discussions of [[mushroom-cultivation-fundamentals]], [[chinampas]], and other cases where material remains challenge simple cultural timelines.
+Gobekli Tepe is therefore central to discussions of [[chinampas]], and other cases where material remains challenge simple cultural timelines.
 Its public fame has also made it a test case for how archaeology is communicated, sensationalized, and protected.
 
 ## Key Aspects
@@ -111,15 +112,10 @@ It asks how communities create shared places that outlast individual lifetimes.
 It also asks how memory, labor, and symbolism become embedded in stone.
 
 ## Related Concepts
-[[meiji-restoration]] is historically unrelated but similarly shows how new evidence and new institutions can reorganize cultural narratives.
 [[chinampas]] offers a later example of sophisticated landscape engineering outside simple evolutionary stereotypes.
-[[permaculture-patterns-in-nature]] connects indirectly through attention to landscape, settlement, and human ecological design.
-[[mushroom-cultivation-fundamentals]] shares the challenge of interpreting symbolic material culture without written records.
-[[entheogens-in-ancient-cultures]] is relevant as a cautionary comparison for interpreting ritual evidence.
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]] shares the challenge of interpreting symbolic material culture without written records.
 [[dominator-culture-and-partnership-society]] intersects with debates about social hierarchy, though its categories should be applied carefully.
-[[demeter-and-persephone-in-eleusinian-mythology]] provides a later agricultural ritual comparison, not a direct lineage.
-[[entheogenic-plants-and-psychoactive-flora]] illustrates the broader ethnobotanical temptation to overinterpret prehistoric symbols.
-[[bauhaus-movement]] is unrelated in time but comparable as a case where built form carries social ideals.
+[[gaian-psychotherapy-and-entheogenic-plants]] illustrates the broader ethnobotanical temptation to overinterpret prehistoric symbols.
 [[kintsugi]] offers a cultural analogy for memory preserved in material traces.
 
 ## See Also

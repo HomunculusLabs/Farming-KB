@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Lysergic acid diethylamide (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist [[albert-hofmann]] in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
+Lysergic acid diethylamide (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
 
 This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals.
 
@@ -46,10 +46,10 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 
 ### Key Researchers
 - **Humphry Osmond**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
-- **[[stanislav-grof]]**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
+- **Stanislav Grof**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
 - **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for psychedelic research
 - **Myron Stolaroff**: Researched LSD's potential for creativity enhancement
-- **[[timothy-leary]]**: Harvard professor who began researching psilocybin and LSD, later became the most prominent advocate of psychedelic use
+- **Timothy Leary**: Harvard professor who began researching psilocybin and LSD, later became the most prominent advocate of psychedelic use
 
 ## CIA MK-Ultra and Project Artichoke
 
@@ -113,3 +113,5 @@ LSD remains culturally significant in art, music, literature, and technology cul
 
 - [[psychedelic-plants-legal-status]] — current legal status of LSD and other psychedelics
 - [[psilocybin-extraction-guide]] — extraction methods for psilocybin, another classic psychedelic
+
+See also: [[lsd-history-pharmacology-and-culture]]

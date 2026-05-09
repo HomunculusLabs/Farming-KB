@@ -10,7 +10,7 @@ type: comparison
 
 # Polycarbonate vs Glass Greenhouse Glazing
 
-Choosing the right glazing is one of the most important decisions in [[greenhouse-construction]]. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their [[season-extension]] goals, climate, and budget.
+Choosing the right glazing is one of the most important decisions in greenhouse construction. Polycarbonate and glass are the two most common options, each with distinct tradeoffs in light quality, insulation, durability, and cost. This comparison helps growers select the best material for their season extension goals, climate, and budget.
 
 ## Comparison Table
 
@@ -36,7 +36,7 @@ Choosing the right glazing is one of the most important decisions in [[greenhous
 ### Pros
 
 - **Lightweight** — installs on simpler frames without heavy structural support
-- **Excellent insulation** — twin/triple-wall structures trap air for superior [[thermal-mass]] performance
+- **Excellent insulation** — twin/triple-wall structures trap air for superior thermal mass performance
 - **Virtually unbreakable** — withstands hail, falling branches, and accidental impacts
 - **Easy to work with** — cuts with standard saw blades, drills easily
 - **Flexible design** — can be curved for hoop-house or gothic-arch structures
@@ -74,28 +74,7 @@ Choosing the right glazing is one of the most important decisions in [[greenhous
 
 ## Twin-Wall and Triple-Wall Polycarbonate
 
-Multi-wall panels are the most popular choice for hobby and mid-scale [[greenhouse-growing]]. Parallel sheets connected by internal ribs create air channels that provide insulation.
-
-- **Twin-wall (8mm):** R-value ~1.5–1.7; light transmission 80–82%; most common and affordable
-- **Triple-wall (16mm):** R-value ~2.5–2.8; light transmission 72–75%; better insulation, less light
-- **Five-wall (25mm):** R-value ~3.2; light transmission ~58%; maximum insulation for cold climates
-
-End caps must be sealed with aluminum tape (top) and breathable tape (bottom) to prevent moisture and insect infiltration. Install with UV-protected side facing outward. Panels expand 2–3mm per meter with temperature changes, so fastener holes should be oversized.
-
-## Tempered vs Annealed Glass
-
-| Feature | Tempered Glass | Annealed Glass |
-|---|---|---|
-| **Strength** | 4–5× stronger | Standard strength |
-| **Breakage pattern** | Small, blunt pebbles | Large, sharp shards |
-| **Cost** | 20–40% more than annealed | Baseline cost |
-| **Heat resistance** | Excellent (up to 500°F) | Moderate |
-
-Tempered glass is strongly recommended for any greenhouse. It dramatically improves safety when breakage occurs and provides meaningful impact resistance. Annealed glass is only suitable for very sheltered locations with no hail or falling-debris risk.
-
-## Low-Iron Glass
-
-Standard glass contains iron oxide, giving it a slight green tint that reduces light transmission. Low-iron ("ultra-clear") glass removes this tint, achieving up to 97% transmission (vs ~88–90% standard). It costs 30–60% more and suits high-value crops, propagation, and commercial operations where every percent of light matters. For most [[permaculture]] and homestead-scale operations, the cost premium is hard to justify.
+Multi-wall panels are the most popular choice for hobby and mid-scale [[permaculture]] and homestead-scale operations, the cost premium is hard to justify.
 
 ## Climate Considerations
 
@@ -137,13 +116,11 @@ Polycarbonate is the clear winner on raw 20-year cost. Glass closes the gap in m
 
 ### Glass Is Best For
 
-- Permanent, attached [[lean-to-greenhouse]] structures
+- Permanent, attached lean to greenhouse structures
 - Commercial growing operations maximizing yield
 - Botanical collections and display greenhouses
 ## See Also
 
-- [[comparison-greenhouse-vs-underground-walipini]]
 - [[comparison-greenhouse-vs-container-gardening]]
-- [[comparison-greenhouse-vs-cold-frame]]
 - [[comparison-walipini-vs-greenhouse]]
 - [[comparison-cold-frame-gardening-vs-greenhouse-growing]]

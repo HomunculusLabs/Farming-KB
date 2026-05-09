@@ -5,10 +5,7 @@ updated: 2026-04-24
 sources: "Psilocybin Mushrooms of the World (Stamets, 1996)"
 aliases: [baeos, knobby tops, Stuntz's Psilocybe, blue ringers]
 type: concept
-tags: [mushroom-cultivation, mushrooms]
----
-
-# [[psilocybe-baeocystis]] and P. stuntzii
+tags: [[psilocybe-baeocystis]] and P. stuntzii
 
 Two notable Pacific Northwest Psilocybe species, P. baeocystis ("baeos" or
 "knobby tops") and P. stuntzii ("Stuntz's blue legs" or "blue ringers"), are
@@ -102,12 +99,5 @@ collections.
 
 ### Deadly Look-alike Warning
 
-[[galerina-autumnalis]], a deadly mushroom, has the same overall appearance as P.
-stuntzii and would look identical to a color-blind person. The orangish brown
-cap and rusty brown spores are the major visible differences.
-
-## See Also
-
-- [[stamets-mushrooms-world-identification-safety]]
-- [[stamets-mushrooms-world-cyanescens]]
+[[stamets-mushrooms-world-identification-safety]]
 - [[stamets-mushrooms-world-chemistry-potency]]

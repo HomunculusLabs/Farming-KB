@@ -84,11 +84,7 @@ Dr. Igor Kungurtsev found that controlled people who have difficulty letting go 
 
 ## Related Topics
 
-- [[psychedelic-safety-guidelines-turner]]
 - [[dmt-candy-for-the-mind]]
-- [[turner-2cb-erotic-empathogen]]
 - [[lsd-molecule-of-perfection]]
-- [[psychedelic-combination-guide]]
 - [[psychedelic-safety-and-harm-reduction]]
-- [[turner-psychedelic-combination-experience-reports]]
 - [[psychedelic-harm-reduction]]

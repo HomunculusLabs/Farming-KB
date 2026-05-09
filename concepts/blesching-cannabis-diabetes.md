@@ -8,58 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-for-diabetes]] Mellitus
-
-## Evidence-Based Confidence Level and Therapeutic Potential
-
-- Total Number of Studies Reviewed: 6
-- CHI Value: 11
-
-## Overview
-
-Ancient physicians used the Greek word diabetes, which translates as
-"fountain," due to their observation of frequent urination in diabetic patients.
-Mellitus derives from the Greek word for "honey"; thus, diabetes mellitus.
-
-Diabetes is a disease related to the pancreas, a relatively small gland located
-behind the stomach and in front of the spine. The pancreas produces hormones
-such as insulin and glucagon as well as digestive enzymes that break down food
-into basic sugar molecules usable as energy by each cell of the human body.
-
-Between 1958 and 1993, the number of diabetic patients in the U.S. increased
-five-fold. Diabetes emerged as a major public-health concern of the
-twenty-first century. The number of insulin-controlled diabetic patients varies
-greatly among different countries -- less than one per 100,000 in Shanghai,
-China, versus 26 times higher in Allegheny County, Pennsylvania, and more than
-50 times greater incidence in Finland.
-
-## Types and Causes
-
-Orthodox medicine categorizes diabetes into three kinds:
-
-- **Type I** (juvenile diabetes): The pancreas stops producing insulin. Without
-  insulin the body cannot use cellular sugar. Treatment consists of daily
-  insulin injections.
-- **Type II** (adult-onset diabetes): The most common form. The pancreas does
-  not produce enough insulin, or the body's cells are insensitive to insulin.
-  Early Type II usually does not require insulin; oral pharmaceuticals are
-  prescribed.
-- **Gestational diabetes**: Occurs during some pregnancies, often
-  self-correcting after delivery. Hormonal changes may produce temporary insulin
-  resistance.
-
-Some researchers consider diabetes a metabolic disease involving cellular
-resistance to insulin (produced by the pancreas) and leptin (made by fat
-cells). Insulin tells cells when to turn fat or sugar into energy. In
-insulin-resistant people, cells do not get the message and sugar remains poorly
-used, thus fat accumulates.
-
-Recent discoveries suggest fatty livers as another cause -- excessive sugar
-induces the liver to convert sugar into unhealthy fats deposited in the liver,
-producing insulin resistance (metabolic syndrome) in both obese and healthy
-people.
-
-## [[cannabis-and-diabetes]]
+# [[cannabis-and-diabetes]]
 
 While cannabis oil has been used historically in the treatment of diabetes,
 and many diabetic patients claim that cannabis lowers high blood sugar levels
@@ -140,7 +89,5 @@ when and how to exercise.
 
 ## See Also
 
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[cannabis-autoimmune-conditions-detailed]]
 - [[blesching-cannabis-cardiovascular-health]]

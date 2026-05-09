@@ -142,9 +142,6 @@ Progressive specialization in research actually has the opposite effect of its i
 
 ## Wikilinks
 
-[[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]
 [[fukuoka-textdoc-maze-relative-subjectivity]]
-[[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
 [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
 [[fukuoka-textdoc-errors-of-human-intellect]]
-[[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]

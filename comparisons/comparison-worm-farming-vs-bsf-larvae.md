@@ -25,41 +25,6 @@ diverge significantly.
 
 ## Worm Farming
 
-[[worm-farming-for-profit]]
-
-Red Wigglers (Eisenia fetida) are the standard species for
-vermicomposting. These epigeic earthworms live and feed in the
-top 6 inches of organic matter, processing material through their
-digestive systems to produce castings that are among the finest
-soil amendments available. A healthy worm population doubles in 60
-to 90 days under optimal conditions of moisture, temperature, and
-food availability.
-
-Flow-through bin designs enable significant scaling. Worms migrate
-upward toward fresh food placed on top, and finished castings are
-harvested from below without disturbing the active population. This
-continuous-flow approach eliminates the labor-intensive screening
-required by batch systems and allows commercial-scale production.
-
-Revenue streams from worm farming are diverse. Worm castings sell
-for 15 to 40 dollars per cubic foot depending on quality, packaging,
-and market. Live worms command 25 to 50 dollars per pound for
-bait, composting stock, and aquaculture. Worm tea, a liquid extract
-of castings, sells for 10 to 20 dollars per gallon. A three-phase
-scaling approach can build from hobbyist to commercial operations
-generating 1,000 to 5,000 or more dollars per month.
-
-Startup costs are remarkably low at 50 to 100 dollars for a basic
-bin system with starter worms. Feedstock is free from kitchen scraps,
-yard waste, and agricultural byproducts. However, scaling requires
-significant labor for feeding, harvesting, and packaging, as well as
-dedicated space for expanded bin systems. Revenue ramp-up is slow,
-typically requiring 18 or more months to reach meaningful production
-volume. Worm tea has a limited shelf life of just hours unless
-actively aerated.
-
-## Black Soldier Fly Larvae
-
 [[black-soldier-fly-larvae-as-feed]]
 
 Black soldier fly larvae (Hermetia illucens) are increasingly
@@ -136,15 +101,10 @@ This circular integration maximizes waste conversion efficiency,
 diversifies revenue, and creates biological resilience through
 species diversity. Each organism processes material the other
 cannot, creating complementary treatment stages.
-
 ## See Also
-
-- [[comparison-bsf-farming-vs-vermicomposting]]
 
 - [[comparison-dry-farming-vs-xeriscaping]]
 
-- [[comparison-bsf-composting-vs-hot-composting]] for composting
-  methods comparison
 - [[comparison-vermicomposting-vs-hot-composting]] for worm versus
   thermophilic composting
 - [[worm-farming-for-profit]] for detailed vermicompost business

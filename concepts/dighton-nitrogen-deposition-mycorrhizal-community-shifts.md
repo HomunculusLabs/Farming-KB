@@ -114,9 +114,7 @@ acidifying pollutants, and habitat destruction.
 
 ## See Also
 
-- [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[dighton-mycorrhizal-succession-forest-ecosystems]]
 - [[dighton-fungal-greenhouse-gas-nitrogen-saturation]]
 

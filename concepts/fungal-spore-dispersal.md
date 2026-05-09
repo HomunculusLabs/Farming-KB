@@ -1,7 +1,7 @@
 ---
 title: Fungal Spore Dispersal
 created: 2026-04-28
-tags: [mycology, ecology, reproduction, aerobiology]
+tags: [[mycology, ecology, reproduction, aerobiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -115,10 +115,7 @@ the spread of fungal diseases in agricultural and orchard settings worldwide.
 
 ## See Also
 
-- [[fungal-dispersal-limitation-biogeographic-barriers]]
-
 - [[mushroom-fruiting-body-morphology]]
-- [[fungal-endemism-and-biogeography]]
 - [[fungal-biodiversity]]
 - [[orchard-fungal-ecology]]
 - ballistospory

@@ -23,122 +23,87 @@ PIHKAL entry #120. 3-METHOXY-4,5-ETHYLENEDIOXYAMPHETAMINE.
 
 ## Qualitative Comments
 
-No [[qualitative-comments-methodology-pihkal]] available in source.
-
-## Extensions and Commentary
-
-There are times when the Gods smile in
-unexpectedly nice ways. Having found the activity of MMDA, the
-"scientific" thing to do would be to compare it against the other
-"psychotomimetic" amphetamine that was known at that time (this was
-1962), namely TMA. Comparing their structures, the only difference of
-any kind was that two of the adjacent methoxyl groups of TMA were
-replaced with a 5-membered ring, called the methylenedioxy ring.
-
-Where does one go next? Some perverse inspiration suggested
-increasing the size of this ring to a 6-membered ring, the
-ethylenedioxy (or dioxene) homologue. Well, if you thought that
-getting myristicinaldehyde was a difficulty, it was nothing compared
-
-to getting this 6-membered counterpart. But I huffed and I puffed,
-and I did make enough to taste and to evaluate. And it was here that
-I got the divine message! No activity!! So, rather than being
-condemned forever a la Sisyphus to push ever larger rings up my
-psyche, I gave myself permission to pursue another path. The message
-was: "Don't change the groups. Leave them as they are, but relocate
-them instead." And that led directly to TMA-2 and its story.
-
-A couple of diversions may be mentioned here. Before the blessed
-inactivity of MEDA was established, the 7-membered ring counterpart,
-3-methoxy-4,5-trimethylenedioxyamphetamine (MTMA) was prepared by
-essentially the same procedure. The above
-3-methoxy-4,5-dihydroxybenzaldehyde with trimethylene bromide gave
-3-methoxy-4,5-trimethylenedioxybenzaldehyde, white solids, with a
-malononitrile derivative with a mp of 134-135 deg C; the aldehyde with
-nitroethane gave the nitropropene with a mp of 86-87 deg C; and this with
-LAH gave MTDA as the hydrochloride (mp 160-161 deg C) again isolated
-first as the picrate. It had been tasted at up to an 8 milligram
-dosage (no activity, but none expected) before being abandoned. And,
-an initial effort was made to synthesize a five-member ring
-(methylenedioxy) with a methyl sticking out from it. This ethylidine
-homologue got as far as the aldehyde stage. The reaction between
-3,4-dihydroxy-5-methoxybenzaldehyde and 1,1-dibromoethane in acetone
-containing anhydrous potassium carbonate gave a minuscule amount of a
-product that was a two-component mixture. This was resolved by dozens
-of separate injections into a preparatory gas chromatography system,
-allowing the isolation of the second of the two components in a
-quantity sufficient to demonstrate (by NMR spectroscopy) that it was
-the desired 3-methoxy-4,5-ethylidinedioxybenzaldehyde. Starting with
-the pre-prepared dipotassium salt or the lead salt of the
-catecholaldehyde gave nothing. With no activity being found with
-MEDA, all was abandoned.
-
-There are some comments made under MDA for successful chemistry (using
-a different approach) alo#ng these lines when there is no methoxyl
-group present. These are the compounds EDA and IDA. But the
-pharmacology was still not that exciting.
-
-## Synthesis
-
-To a solution of 50 g 3,4-dihydroxy-5-methoxybenzaldehyde
-in 100 mL distilled acetone there was added 70 g ethylene bromide and
-58 g finely powdered anhydrous K2CO3. The mixture was held at reflux
-for 5 days. This was then poured into 1.5 L H2O and extracted with
-4x100 mL CH2Cl2. Removal of the solvent from the pooled extracts gave
-a residue which was distilled at 19 mm/Hg. Several of the fractions
-taken in the 203-210 deg C range spontaneously crystallized, and they
-were pooled to give 18.3 g of 3-methoxy-4,5-ethylenedioxybenzaldehyde
-as white solids with a mp of 80-81 deg C. A small sample with an equal
-weight of malononitrile in EtOH treated with a few drops of
-triethylamine gave 3-methoxy-4,5-ethylenedioxybenzalmalononitrile as
-pale yellow crystals from EtOH with a mp of 153-154 deg C.
-
-A solution of 1.50 g 3-methoxy-4,5-ethylenedioxybenzaldehyde in 6 mL
-acetic acid was treated with 1 mL nitroethane and 0.50 g anhydrous
-
-ammonium acetate, and held on the steam bath for 1.5 h. To the cooled
-mixture H2O was cautiously added until the first permanent turbidity
-was observed, and once crystal-lization had set in, more H2O was added
-at a rate that would allow the generation of additional crystals.
-When there was a residual turbidity from additional H2O, the addition
-was stopped, and the beaker held at ice temperature for several h.
-The product was removed by filtration and washed with a little 50%
-acetic acid, providing 0.93 g
-1-(3-methoxy-4,5-ethylenedioxyphenyl)-2-nitropropene as dull yellow
-crystals with a mp of 116-119 deg C. Recrystallization of an analytical
-sample from MeOH gave a mp of 119-121 deg C.
-
-A stirred suspension of 6.8 g LAH in 500 mL anhydrous Et2O under an
-inert atmosphere was brought up to a gentle reflux. A total of 9.4 g
-1-(3-methoxy-4,5-ethylenedioxyphenyl)-2-nitropropene in warm Et2O was
-added over the course of 0.5 h. Refluxing was maintained for 6 h, and
-then the reaction mixture was cooled and the excess hydride destroyed
-by the cautious addition of 400 mL 1.5 N H2SO4. The two clear phases
-were separated, and the aqueous phase was brought to pH of 6 by the
-addition of a saturated Na2CO3 solution. This was filtered free of a
-small amount of insolubles, and the clear filtrate was heated to 80
-deg C. To this there was added a solution of 9.2 g picric acid (90%
-material) in 100 mL boiling EtOH, and the clear mixture allowed to
-cool in an ice bath. Scratching generated yellow crystals of the
-picrate salt. This salt was filtered free of the aqueous environment,
-treated with 50 mL of 5% NaOH, and stirred until the picric acid was
-totally in the form of the soluble sodium salt. This was then
-extracted with 3x100 mL CH2Cl2, the extracts pooled, and the solvent
-removed under vacuum. The residue weighed 6.0 g, and was dissolved in
-100 mL anhydrous Et2O, and saturated with dry HCl gas. The white
-solids that formed were filtered free of the Et2O, and ground up under
-50 mL of slightly moist acetone, providing 4.92 g of
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
+No [[tryptamine]] research varies by jurisdiction.
 
 ## See Also
 
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
 - [[me-entity-pihkal]]
 - [[phenethylamine-chemistry-basics]]
+## Practical Applications
+
+MEDA (3-METHOXY-4,5-ETHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #120 has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MEDA (3-METHOXY-4,5-ETHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #120. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

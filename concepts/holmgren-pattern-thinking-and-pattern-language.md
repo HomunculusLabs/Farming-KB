@@ -10,68 +10,11 @@ tags: [reference]
 
 # Holmgren Pattern Thinking and Pattern Language
 
-Pattern thinking is the ability to recognise, understand, and apply recurring spatial and temporal structures observable in nature and human systems. It is a central theme in Holmgren's permaculture framework, discussed most extensively within [[holmgren-design-patterns-details-detailed]].
-
-## From Elements to Patterns
-
-The first six principles tend to consider systems from the bottom-up perspective of elements, organisms, and individuals. The second six principles tend to emphasise the top-down perspective of the patterns and relationships that tend to emerge by system self-organisation and co-evolution. The commonality of patterns observable in nature and society allows us not only to make sense of what we see but to use a pattern from one context and scale to design in another.
-
-Pattern recognition, discussed in [[permaculture-design]], is the necessary precursor to the process of design. The spider on its web, with its concentric and radial design, evokes [[permaculture-design]], the best-known and perhaps most widely applied aspect of permaculture design. The design pattern of the web is clear, but the details always vary.
-
-## The Problem of Modernity
-
-Modernity has tended to scramble any systemic common sense or intuition that can order the jumble of design possibilities and options that confront us in all fields. This problem of focus on detailed complexity leads to the design of white elephants that are large and impressive but do not work, or juggernauts that consume all our energy and resources while always threatening to run out of control.
-
-Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system. The proverb "can't see the wood (forest) for the trees" reminds us that the details tend to distract our awareness of the nature of the system; the closer we get the less we are able to comprehend the larger picture.
-
-## Bill Mollison's Pattern Contribution
-
-Bill Mollison's introduction to patterns in nature provides a broad, inspiring picture of a great field of potential applications in permaculture design. This search for spatial and temporal patterns in nature, which takes us beyond the Euclidean geometries that dominate our educated thinking, is important for designers in every field. Mollison says "Learning to master a pattern is very like learning a principle; it may be applicable over a wide range of phenomena, some complex and some simple." Although it is important to understand the relevance of the organic and apparently irregular patterns of nature to human systems, often our attempts to apply these patterns are arbitrary and inappropriate.
-
-## Christopher Alexander's Pattern Language
-
-Christopher Alexander's Pattern Language was a milestone in the recognition and organisation of classic patterns of human-scale built environments. Developing a similar pattern language for the much broader scope of permaculture design is a need that several permaculture designers have recognised. However, two problems complicate this development:
-
-- The processes of biological growth and organisation represent a far greater and more diverse field than the built environment.
-- The implications of the rise and fall of the energy base of humanity must be understood and expressed through design principles before we have the framework needed to systematically identify and organise appropriate patterns.
-
-Whether designing a garden, a village, or an organisation, we need a broad repertoire of familiar patterns of relative scale, timing, and geometry that tend to recur in natural and sustainable human systems. As explained in [[holmgren-obtain-a-yield-detailed]], this balance is actually one that achieves maximum power, but as energy availability and quality decline, our common sense and intuition about what is optimal design often fails us.
+Pattern thinking is the ability to recognise, understand, and apply recurring spatial and temporal structures observable in nature and human systems. It is a central theme in Holmgren's permaculture framework, discussed most extensively within [[permaculture-design]], is the necessary precursor to the process of design. The spider on its web, with its concentric and radial design, evokes [[holmgren-obtain-a-yield-detailed]], this balance is actually one that achieves maximum power, but as energy availability and quality decline, our common sense and intuition about what is optimal design often fails us.
 
 ## Relearning Pattern Recognition
 
-We need to relearn pattern recognition because cultural innovation, especially media technologies, have scrambled the pattern thinking that was common in pre-industrial societies. This loss of ability to see, hear, and otherwise recognise the patterns of nature may be our greatest impediment in our attempt to adapt to the realities of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].
-
-Pre-industrial people lived in direct daily contact with natural patterns: the movement of the sun, the cycle of seasons, the behaviour of weather, the growth patterns of plants and animals. Modern people, by contrast, live primarily in environments designed by humans, where natural patterns are obscured or eliminated. Relearning pattern recognition requires deliberate practice and a fundamental shift in attention.
-
-## Scales in Space and Time
-
-Many issues and strategies in permaculture design relate to selection of appropriate scales of systems, decision-making, and action. Spatial scales can be thought of as ranging from perceivable with the eyes (human scale), down to the microscopic, and up to the global and beyond. Scales in time can be thought of as extending from the human daily life and lifetime, down to the fast and short-lived atomic processes, and up through ecological, historical, and beyond to geological time.
-
-We can readily see change in people, other living things and systems of a similar scale to ourselves, but we find it difficult to perceive -- let alone comprehend -- changes in macro or micro systems at scales very different from those that our senses and personal memory can access. Tools and technology, stories, history and culture have extended this range of comprehension to varying degrees, but human nature, to a surprising extent, is bounded by the human scale of the senses and personal memory.
-
-This bias towards short-term thinking within our own lifetimes has been described as an evolutionary weakness of humans, which we must overcome if we are to survive. To effectively grapple with sustainability questions, we must develop a rich and contextual understanding of how scales in space and time shape the design and evolution of systems.
-
-Systems across a large range can be graphed according to scale in space and time, following the hierarchy of systems model from Howard Odum. This framework is useful for thinking about issues of appropriate scales in design for energy descent.
-
-## Permaculture Landscape Patterns
-
-At the landscape scale, several key patterns recur in permaculture design:
-
-### Catchment Patterns
-
-Catchment landscapes as self-organising systems for catching and storing water, nutrients, and carbon. Rivers and catchments reflect the flow and form of energy. The health of river systems reflects the state of the whole catchment. Headwaters are pure but infertile; estuaries are fertile but accumulate toxins. Catchment protection can be seen as a by-product of applying the design-from-patterns principle. Once we recognise that forests must be the predominant land use in upland catchments, then "the only issue is what sort of forest."
-
-### Vegetation Gradients
-
-Patterns of vegetation type, canopy height, and characteristic herbivores reflect soil fertility gradients across temperate mid-rainfall landscapes. On poor soils, low heath and scrub with low canopy height support browsers like goats. On the richest soils, tall forest with high canopy supports grazers and browsers. This gradient pattern helps determine appropriate land use and species selection.
-
-### Edge Patterns
-
-The productive interfaces between different ecosystem types. Edges tend to have higher diversity and productivity than either adjacent system. See [[holmgren-edge-theory-and-urban-rural-fringe]] and [[holmgren-edges-marginal-detailed]].
-
-### Cellular Settlement Patterns
-
-Nucleated development that mimics the cellular growth patterns of organisms. See [[holmgren-site-design-as-cellular-design]].
+We need to relearn pattern recognition because cultural innovation, especially media technologies, have scrambled the pattern thinking that was common in pre-industrial societies. This loss of ability to see, hear, and otherwise recognise the patterns of nature may be our greatest impediment in our attempt to adapt to the realities of [[holmgren-edge-theory-and-urban-rural-fringe]] and [[holmgren-site-design-as-cellular-design]].
 
 ## Pattern Application Challenges
 
@@ -120,3 +63,22 @@ Energy flow through landscapes follows identifiable patterns that permaculture d
 Developing pattern literacy is a progressive skill that builds through practice and direct observation. Holmgren recommends beginning with simple patterns -- the branching of a tree, the spiral of a snail shell, the net of a spider web -- and gradually developing the ability to recognize more complex and abstract patterns. Field exercises, where students are asked to identify and map patterns in natural and designed landscapes, build the observational skills necessary for pattern-based design. The ultimate goal is not to memorize a catalog of patterns but to develop a way of seeing that reveals the underlying order in natural systems and guides the creation of designed systems that share that order.
 
 ## See Also
+## Practical Considerations
+
+Successful implementation of Holmgren Pattern Thinking and Pattern Language requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

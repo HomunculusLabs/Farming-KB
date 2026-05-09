@@ -3,7 +3,7 @@ title: Mushroom Garden Design
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, garden, outdoor-cultivation, permaculture]
+tags: [[mycology, garden, outdoor-cultivation, permaculture]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Mushroom Garden Design
@@ -139,8 +139,6 @@ Hardwood logs serve dual purposes as mushroom hosts and landscape elements:
 
 ## See Also
 
-- [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-bulk-substrates]]
-- [[mushroom-grain-spawn-preparation]]
 - [[mushroom-cultivation-fruiting-chambers]]
 - [[shiitake-mushroom-cultivation]]

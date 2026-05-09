@@ -74,9 +74,6 @@ raises questions about the undocumented global spread of tropical
 coprophilous fungi through horticultural practices.
 
 ## See Also
-- [[copelandia-panaeolus-genera]]
-- [[panaeolus-cyanescens]]
-- [[panaeolus-tropicalis]]
+- [[panaeolus-cyanescens-entity]]
 - [[panaeolus-subbalteatus]]
-- [[copelandia-cambodginiensis]]
 - [[psilocybe-cubensis]]

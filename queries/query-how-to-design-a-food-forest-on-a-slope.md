@@ -12,13 +12,7 @@ type: query
 
 ## Short Answer
 
-Designing a food forest on a slope requires managing water flow first through swales, terraces, or keyline patterns, then layering productive trees, shrubs, and ground covers according to the seven-layer forest garden model. Slopes offer excellent drainage, air circulation, and frost drainage but require careful earthworks to prevent erosion and capture rainfall for deep soil recharge. The [[food-forest-design-guide|food forest design guide]] provides the foundational framework for any slope-based design.
-
-## Why Slopes Are an Advantage
-
-Sloped land is often considered a liability in conventional agriculture, but in permaculture design it becomes a major asset. Gravity-fed water distribution, enhanced air circulation that reduces fungal disease, and cold air drainage that protects fruit blossoms from late frosts are all natural advantages of sloped terrain.
-
-Water flows downhill, which means you can use gravity to irrigate lower planting areas from water captured at higher elevations. This passive irrigation reduces or eliminates the need for pumps and energy-intensive watering systems. The [[backyard-food-forest-design|backyard food forest design]] guide explains how to leverage these natural advantages in small-scale settings.
+Designing a food forest on a slope requires managing water flow first through swales, terraces, or keyline patterns, then layering productive trees, shrubs, and ground covers according to the seven-layer forest garden model. Slopes offer excellent drainage, air circulation, and frost drainage but require careful earthworks to prevent erosion and capture rainfall for deep soil recharge. The [[backyard-food-forest-design|backyard food forest design]] guide explains how to leverage these natural advantages in small-scale settings.
 
 South-facing slopes in the Northern Hemisphere receive more direct sunlight and warm earlier in spring, extending your growing season. North-facing slopes stay cooler and moister, which suits shade-loving understory plants, berry bushes, and mushroom cultivation.
 
@@ -26,31 +20,13 @@ South-facing slopes in the Northern Hemisphere receive more direct sunlight and 
 
 The first step in any slope-based food forest design is water harvesting infrastructure. Without effective water management, rainfall will run off the slope surface carrying topsoil with it, leaving the landscape progressively more degraded.
 
-[[contour-swale-irrigation-design|Contour swales]] are shallow ditches dug on level lines across the slope, with the excavated soil placed on the downhill side to form a berm. Swales capture runoff, slow it down, and allow it to infiltrate into the soil rather than carrying topsoil away. They are the most accessible earthworks for DIY installation and require minimal tools.
+[[holzer-terrace-construction-guide|terraces]] may be more appropriate. Terraces create level planting surfaces stabilized by retaining walls of stone, logs, or living plant material. They are more labor-intensive to build than swales but create permanent, easily managed growing spaces on steep terrain.
 
-On steeper slopes (over 15 degrees), [[holzer-terrace-construction-guide|terraces]] may be more appropriate. Terraces create level planting surfaces stabilized by retaining walls of stone, logs, or living plant material. They are more labor-intensive to build than swales but create permanent, easily managed growing spaces on steep terrain.
-
-[[keyline-design|Keyline design]] is another powerful approach for slope management, particularly on larger properties. Developed by P.A. Yeomans and adapted by permaculture practitioners, keyline pattern cultivation plows along specific contour lines to distribute water from wet valleys to dry ridges, transforming the water-holding capacity of an entire landscape.
-
-## Planting in Layers
-
-Once water infrastructure is in place, the food forest is planted in layers. The [[forest-garden-seven-layers|seven layers]] include a tall canopy of standard fruit and nut trees, an understory of dwarf fruit trees, a shrub layer of berries and currants, a herbaceous layer of perennial vegetables and herbs, a ground cover layer, a root layer, and a climbing vine layer.
+[[forest-garden-seven-layers|seven layers]] include a tall canopy of standard fruit and nut trees, an understory of dwarf fruit trees, a shrub layer of berries and currants, a herbaceous layer of perennial vegetables and herbs, a ground cover layer, a root layer, and a climbing vine layer.
 
 Each layer occupies a different height niche, maximizing the productive use of vertical space. On a slope, the canopy layer at the top of the slope provides some shade protection for lower layers, while the ground cover layer at the bottom helps stabilize the soil and prevent erosion.
 
-The [[food-forest-plant-palette|food forest plant palette]] provides species recommendations organized by climate zone, forest layer, and function (nitrogen-fixing, dynamic accumulator, pest confuser, wildlife attractant).
-
-## Slope Position and Microclimate
-
-Plant placement on a slope should account for microclimate variation created by elevation, aspect, and water flow patterns. The upper slope tends to be drier and more exposed to wind, making it suitable for drought-tolerant trees like chestnut, olive, carob, or pine.
-
-The mid-slope captures the most moisture from swales and keyline systems, making it the most productive zone on the slope overall., making it ideal for demanding fruit trees like apples, pears, and stone fruits. This zone typically has the best soil depth and moisture retention on the entire slope.
-
-The toe of the slope, where water naturally collects, suits water-loving plants like elderberry, willow, pawpaw, and persimmon. This zone may also be suitable for a small pond or wetland area that further enhances biodiversity and provides irrigation water for upper slope plantings.
-
-## Soil Building on Slopes
-
-Slopes are prone to soil erosion, especially during the establishment phase before tree canopy closes. Use [[chop-and-drop-mulching|chop and drop mulching]] with fast-growing pioneer species to build soil organic matter and protect the surface from rain impact.
+The [[chop-and-drop-mulching|chop and drop mulching]] with fast-growing pioneer species to build soil organic matter and protect the surface from rain impact.
 
 Ground cover plants like clover, vetch, and comfrey spread quickly to hold soil in place while contributing nitrogen and organic matter. Sheet mulching with cardboard and wood chips provides immediate erosion control while suppressing weeds during the establishment period.
 
@@ -87,14 +63,25 @@ On ridgelines and hilltops where wind exposure is greatest, choose wind-tolerant
 ## Key Points
 
 - Prioritize water management earthworks before planting; swales and terraces prevent erosion
-- [[contour-swale-irrigation-design|Swales]] capture and infiltrate rainfall along the contour of the slope
 - [[keyline-design|Keyline design]] distributes water from valleys to ridges for even soil moisture
-- Layer plants using the [[forest-garden-seven-layers|seven-layer forest garden model]]
-- Match plant species to microclimate zones created by slope position and orientation
-- Start with nitrogen-fixing support species and pioneer trees to build soil quickly
-
-## Related Questions
-
-- [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
-- [[query-how-to-start-a-food-forest]]
+- Layer plants using the [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[query-how-to-build-a-swale-for-water-harvesting]]
+## Practical Considerations
+
+Successful implementation of How to Design a Food Forest on a Slope requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

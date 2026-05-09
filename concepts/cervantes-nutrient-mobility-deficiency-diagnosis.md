@@ -20,7 +20,6 @@ symptoms first appear. Mastering this concept allows
 growers to quickly narrow down the cause of foliage
 discoloration and other symptoms.
 
-See also: [[cervantes-nutrient-management]]
 See also: [[cervantes-macronutrient-deficiency-toxicity]]
 
 ## Mobile Nutrients
@@ -94,51 +93,6 @@ The immobile nutrients are:
   of new growth, unlike nitrogen which yellows older
   leaves first.
 
-See also: [[cervantes-micronutrient-deficiency-chelation]]
 See also: [[cervantes-secondary-nutrient-deficiency]]
-See also: [[cervantes-silicon-silica-beneficial-mineral]]
-
-## Diagnostic Strategy
-
-The key diagnostic principle is simple:
-
-1. **Symptoms on lower/older leaves** point to a
-   mobile nutrient deficiency (N, P, K, Mg, Zn).
-2. **Symptoms on upper/newer leaves** point to an
-   immobile nutrient deficiency (Ca, Fe, Mn, B, S,
-   Cu, Mo).
-
-This first step narrows the search dramatically. From
-there, examine the specific pattern of discoloration,
-leaf distortion, growth rate changes, and other
-accompanying symptoms to pinpoint the exact nutrient
-involved.
-
-## Complicating Factors
-
-Nutrient deficiency diagnosis becomes difficult when
-two or more elements are deficient or in excess at the
-same time. Symptoms may not point directly at the
-cause. Cervantes advises that solving mind-bending
-unknown deficiency syndromes is often best approached
-by changing the nutrient solution entirely rather than
-trying to diagnose individual element imbalances.
-
-Do not confuse other problems with nutrient deficiencies:
-
-- **Wind burn** affects foliage near fans or vents
-- **Lack of light** causes leggy, pale growth on
-  plants at the edge of the garden
-- **Temperature stress** causes symptoms on individual
-  plants nearest to heat or cold sources
-- **Fungal and pest damage** usually appears on
-  individual plants rather than uniformly across a
-  strain
-
-Nutrient disorders most often affect an entire strain
-at the same time when receiving the same nutrient
-solution. Different varieties often react differently
-to the same solution.
-
 See also: [[cervantes-troubleshooting-guide]]
-See also: [[cannabis-advanced-growing-techniques]]
+See also: [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

@@ -64,8 +64,7 @@ drop in blood pressure (both systolic and diastolic) as well as a drop in
 intraocular pressure. Scientists noted that the increase in heart rate
 allowed the body to maintain adequate perfusion (cardiac output) while
 lowering both blood and intraocular pressures in a parallel fashion,
-potentially good news for patients with [[blesching-cannabis-glaucoma]] and
-[[blesching-cannabis-cardiovascular-health]].
+potentially good news for patients with [[blesching-cannabis-cardiovascular-health]].
 
 An animal trial from the University of Nottingham Medical School (2009)
 discovered that intravenously administered anandamide (a naturally
@@ -139,8 +138,6 @@ identified and transcended.
 
 ### Related Topics
 
-- [[blesching-cannabis-cardiovascular-health]]
 - [[blesching-cannabis-stroke]]
-- [[blesching-cannabis-heart-disease]]
 - [[blesching-cannabis-atherosclerosis]]
 - [[blesching-endocannabinoid-system-overview]]

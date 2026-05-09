@@ -111,11 +111,8 @@ However, foliar application has limitations. The cuticle of fruit skin is often 
 
 ## See Also
 
-- [[knf-nutritive-cycle-theory]] — The theoretical framework underlying stage-based nutrition.
 - [[knf-vegetative-growth-stage]] — The preceding growth stage.
-- [[knf-input-application-timing]] — Managing transitional nutrient stress.
 - [[knf-water-soluble-calcium]] — Detailed preparation and use of WCA.
-- [[knf-input-application-timing]] — Comprehensive scheduling and dilution guidance.
 - [[knf-troubleshooting]] — Diagnosing and resolving reproductive-stage problems.
 
 ## Common Reproductive Stage Mistakes

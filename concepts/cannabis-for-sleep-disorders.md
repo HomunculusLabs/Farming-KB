@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, sleep]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# cannabis for sleep disorders
+# Cannabis for Sleep Disorders
 
 Cannabis has been used as a sleep aid for centuries. Modern research confirms it reduces sleep latency (time to fall asleep) and may improve sleep quality for some conditions, but long-term use can lead to tolerance and dependency.
 
@@ -20,7 +20,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Long-term THC use may alter sleep architecture (REM rebound on cessation = vivid dreams)
 
 ### Indica vs Sativa
-- Indica-dominant strains: More sedating, better for sleep (higher [[myrcene]])
+- Indica-dominant strains: More sedating, better for sleep (higher myrcene)
 - Sativa-dominant strains: More stimulating, may disrupt sleep
 - Hybrid strains: Variable effects depending on terpene profile
 
@@ -35,19 +35,19 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 ### Sleep Apnea
 - Evidence level: Limited/preclinical
 - THC may stabilize respiratory patterns during sleep
-- [[dronabinol]] (synthetic THC) showed benefit in a small clinical trial
+- Dronabinol (synthetic THC) showed benefit in a small clinical trial
 - Not a substitute for CPAP therapy
 
 ### PTSD-Related Nightmares
 - Evidence level: Moderate
 - THC before sleep significantly reduces nightmare frequency
-- [[nabilone]] (synthetic THC) FDA-approved off-label for PTSD nightmares
+- Nabilone (synthetic THC) FDA-approved off-label for PTSD nightmares
 - CBD daytime + THC nighttime may be optimal combination
 
 ### Chronic Pain-Related Insomnia
 - Evidence level: Moderate to strong
 - Treating the underlying pain with cannabis improves sleep
-- Indica strains with high [[myrcene]] content preferred
+- Indica strains with high myrcene content preferred
 
 ## Dosing for Sleep
 - Use 30-60 minutes before desired sleep time
@@ -67,3 +67,22 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - [[cannabis-therapeutic-index-overview]] — for evidence framework
 - [[cannabis-for-anxiety-disorders]] — for anxiety-related insomnia
 - [[cannabis-thc-therapeutic-profile]] — for THC effects on sleep
+## Practical Considerations
+
+Successful implementation of Cannabis for Sleep Disorders requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

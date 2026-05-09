@@ -5,7 +5,7 @@ updated: 2026-04-23
 sources:
   - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
 type: concept
-tags: [mushroom-cultivation, psilocybin]
+tags: [[mushroom-cultivation, psilocybin]
 ---
 
 # Psilocybin Mushroom Dissemination 1950s-1970s
@@ -31,7 +31,7 @@ chemical ingredients of the Mexican mushrooms. When chemical extracts failed to 
 on animals, Hofmann reasoned that the only way to test was for a human volunteer to eat the mushrooms. In
 July 1957, he consumed thirty-two dried [Psilocybe mexicana in a clinical setting.
 He was not disappointed. The altered state commenced after approximately one and a half hours. The landscape
-changed and took on a Mexican character. By 1958, Hofmann had isolated [[psilocybin-isolation-and-early-scientific-research]] and [[psilocybin-neuroplasticity]], and
+changed and took on a Mexican character. By 1958, Hofmann had isolated [[psilocybin-neuroplasticity]], and
 Sandoz began marketing psilocybin as Indocybin for psychiatric research.
 
 ## The Paris Research: Hôpital Sainte-Anne
@@ -113,11 +113,7 @@ irrepressible human desire for novel experience.
 
 ## See Also
 
-- [[wasson-rediscovery-of-psilocybin]]
 - [[psilocybin-isolation-and-early-scientific-research]]
-- [[1960s-counterculture-and-magic-mushrooms]]
 - [[timothy-leary]]
-- [[mushroom-home-cultivation-history]]
 - [[magic-mushroom-british-underground-and-festivals]]
-- [[global-psychedelic-mushroom-species-diversity]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

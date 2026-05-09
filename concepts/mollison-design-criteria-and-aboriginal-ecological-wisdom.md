@@ -3,16 +3,7 @@ title: Mollison Design Criteria and Aboriginal Ecological Wisdom
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison Design Criteria and Aboriginal Ecological Wisdom
-
-## Why Design Matters
-
-If there is a single claim that distinguishes [[permaculture-climatic-zones-design]] from other systems of agriculture, with the notable exception of keyline concepts, it is that permaculture is primarily a consciously designed agricultural system.
+tags: [[permaculture-climatic-zones-design]] from other systems of agriculture, with the notable exception of keyline concepts, it is that permaculture is primarily a consciously designed agricultural system.
 
 The main reasons for designing a plant system are:
 
@@ -107,24 +98,15 @@ Mollison provides several practical tools for analyzing landscape patterns and d
 
 ## Related Concepts
 
-- [[mollison-permaculture-two-philosophy-and-tagari-community]]
 - [[mollison-broadscale-landscape-analysis]]
-- [[mollison-zone-and-sector-analysis]]
 - [[mollison-arid-lands-design-and-erosion-control]]
 
 ## Source
 
-[[mollison-permaculture-two-philosophy-and-tagari-community]] -- Introduction (philosophy, design criteria, Aboriginal ecological wisdom) and arid lands Aboriginal practices.
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- mollison design criteria and aboriginal ecological wisdom
+[[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[permaculture-design-methodology]]
-- [[mollison-mulching-and-soil-health]]
+- [[permaculture-design]], [[bill-mollison]], [[zone-and-sector-analysis]] for related design topics.
 
-See also [[permaculture-design]], [[permaculture-principles]], [[bill-mollison]], [[permaculture-ethics]], and [[zone-and-sector-analysis]] for related design topics.
-
-[[mollison-designers-pattern-understanding-in-design]] — pattern recognition and application as the foundation of permaculture design
 [[permaculture-element-analysis-design-methods]] — systematic methods for analysing and placing design elements by function and needs
-[[pdc-landform-and-topography-reading]] — reading landscape form, slope, and water flow as the basis for site design
 [[fire-control-in-permaculture]] — fire as a design sector: risk assessment, prevention, and strategic use
 [[permaculture-windbreak-design-detailed]] — windbreak and shelterbelt design for microclimate creation and crop protection

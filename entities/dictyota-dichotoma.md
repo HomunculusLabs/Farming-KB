@@ -104,18 +104,11 @@ Recent transcriptomic studies have begun to elucidate the biosynthetic pathways 
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[sargassum-fusiforme]]
-- [[laminaria-digitata]]
 - [[saccharina-latissima]]
-- [[fucus-vesiculosus]]
 - [[fucus-serratus]]
-- [[caulerpa-racemosa]]
 - [[chondrus-crispus]]
-- [[gracilaria-verrucosa]]
 - [[undaria-pinnatifida]]
-- [[palmaria-palmata]]
 - [[porphyra-umbilicalis]]
-- [[macrocystis-pyrifera]]
 - [[caulerpa-lentillifera]]
-- [[bioactive-compounds]]
+- bioactive compounds

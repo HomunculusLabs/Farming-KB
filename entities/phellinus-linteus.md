@@ -97,9 +97,6 @@ shift from wild-harvested fruiting bodies to fermenter-cultured
 mycelium addresses both sustainability and quality control concerns.
 
 ## See Also
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
 - [[schizophyllum-commune]]
-- [[lentinula-edodes]]
 - [[phellinus-ferreus]]

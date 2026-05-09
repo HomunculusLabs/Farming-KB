@@ -104,9 +104,7 @@ Despite containing psilocybin, *G. junonius* is NOT recommended for consumption 
 
 ## Related
 
-- [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
 - [[stamets-psylo-minor-genera-conocybe-gymnopilus]]
-- [[gymnopilus-purpuratus]]
 - [[gymnopilus-brunneus]]
 - [[gymnopilus-ventricosus]] Species
 

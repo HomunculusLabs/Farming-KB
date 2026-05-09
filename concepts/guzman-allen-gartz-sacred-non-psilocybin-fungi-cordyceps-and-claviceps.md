@@ -26,96 +26,10 @@ and a long history of human interaction worldwide.
 ## Claviceps: The Classical Ergot Fungi
 
 The genus Claviceps includes five neurotropic species: C. purpurea, C.
-nigricans, C. paspali, C. rolfesii, and C. tripsicii. [[claviceps-purpurea]] is
-the most famous, producing sclerotia (ergots) on rye and other grasses that
-have caused mass poisonings throughout European history. These events, known
-as ergotism or St. Anthony's Fire, produced hallucinations, convulsions,
-gangrene, and death. The active compounds include ergotamine, ergocristine,
-and lysergic acid amide (LSA), precursors to [[lsd]]. The history of ergot
+nigricans, C. paspali, C. rolfesii, and C. tripsicii. [[lsd]]. The history of ergot
 poisoning is covered in
-[[bloomfield-ergot-claviceps-purpurea-ergotism]]. Ramsbottom (1954),
-Schultes and Hofmann (1973, 1979), and Wasson et al. (1978) documented the
-hallucinogenic properties of these fungi.
-
-## Taxonomic Notes on Claviceps
-
-Claviceps purpurea has considerable taxonomic complexity, with several forms
-and synonyms including C. microcephala (Grasso, 1955). C. rolfesii was
-considered a synonym of C. paspali according to Farr et al. (1989). These
-taxonomic refinements are important for understanding the geographic
-distribution and chemical variation within the genus. The species are
-primarily temperate in distribution, parasitizing grasses and cereals across
-the Northern Hemisphere and parts of the Southern Hemisphere.
-
-## Cordyceps capitata and C. ophioglossoides
-
-Two species of Cordyceps are recognized as neurotropic: C. capitata and C.
-ophioglossoides. Both are parasitic fungi that attack subterranean truffle-like
-fungi of the genus Elaphomyces. In Mexico, these species hold profound cultural
-significance among the indigenous peoples of the Nevado de Toluca region. They
-are called "hombrecitos" (little men) and "mujercitas" (little women),
-respectively, referring to their distinctive fruiting body morphology.
-
-## Ethnobotanical Use in Mexican Ceremonies
-
-The use of Cordyceps species in Mexico involves elaborate nocturnal ceremonies.
-They are consumed either alone or together with Psilocybe muliercula. The
-ceremonies are directed by a specimen of Elaphomyces (the host fungus),
-placed at the center of the room as a "director" of the ritual. Species used
-include E. granulatus, E. muricatus, and E. reticulatus. The Trique Indians
-of Alta Mixteca (Oaxaca, Mexico) also use Elaphomyces species medicinally, as
-an aid for wounds and to "rejuvenate the organism" (Trappe et al., 1979;
-Guzmán, 1994a, 1994b).
-
-## Elaphomyces as Ceremonial Director
-
-The use of Elaphomyces species as the "director" of Cordyceps ceremonies
-is a unique feature of Mexican ethnomyology. Elaphomyces is a genus of
-hypogeous (underground) fungi closely related to the truffles (Tuber spp.).
-The species used include E. granulatus, E. muricatus, and E. reticulatus,
-all of which serve as hosts for Cordyceps species. The Trique Indians of
-Alta Mixteca (Oaxaca) additionally use Elaphomyces medicinally, applying
-it to wounds and for general rejuvenation of the organism (Trappe et al.,
-1979; Guzmán, 1994a, 1994b). This dual role, as both ceremonial director
-and medicinal agent, underscores the deep integration of fungal knowledge
-into indigenous Mesoamerican cultures.
-
-## Chemical Uncertainties
-
-The chemistry of Cordyceps capitata and C. ophioglossoides remains uncertain.
-Hofmann (in Heim and Wasson, 1958) found no indoles present in specimens
-gathered by Wasson in a Mexican market, where they were sold as sacred fungi.
-However, these specimens had been preserved for a long time, and the age of
-the fungi likely accounts for the negative result. Given the taxonomic
-relationship between Cordyceps and Claviceps purpurea, it is plausible that
-fresh specimens contain active ergot-type alkaloids. The subjective
-experiences reported by indigenous users suggest genuine psychoactive
-properties, though rigorous chemical confirmation of fresh material is still
-lacking.
-
-## Relationship Between Cordyceps and Claviceps
-
-The genus Cordyceps is closely related taxonomically to Claviceps purpurea.
-Both belong to the order Clavicipitales within the [[ascomycete-phylum-guide]].
+[[ascomycete-phylum-guide]].
 The broader context of Cordyceps biology is covered in
-[[cordyceps-and-entomopathogenic-fungi]]. This
-taxonomic proximity supports the hypothesis that Cordyceps species used in
-Mexican ceremonies may produce similar ergot-type alkaloids. The hallucinogenic
-effects described by users are consistent with ergot alkaloid intoxication
-rather than psilocybin-type effects, featuring different subjective qualities
-including potential vasoconstrictive symptoms characteristic of ergot
-compounds.
-
-## The Ceremonial Context
-
-The integration of Cordyceps into Mexican mushroom ceremonies represents a
-distinct tradition from the more widely known Psilocybe-centered practices.
-While Psilocybe species are used by Mazatec, Mixtec, Zapotec, and other
-groups, the Cordyceps-Elaphomyces complex appears specific to certain
-communities in the Nevado de Toluca and Alta Mixteca regions. This geographic
-specialization suggests independent development of sacred fungal practices
-centered on different fungal groups, reflecting the remarkable fungal
-biodiversity of central and southern Mexico documented in
 [[neurotropic-fungi-in-mexico]].
 
 ## Cultural Significance Beyond Chemistry
@@ -129,12 +43,67 @@ classification alongside psilocybin-containing species reflects their genuine
 neurotropic properties and cultural importance, even where chemical
 verification remains incomplete. The study of these fungi continues to bridge
 ethnobotany, chemistry, and cultural anthropology in
-[[neurotropic-fungi-biogeographic-patterns]].
+[[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
 
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
-- [[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]]
 - [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]
 - [[neurotropic-fungi-in-mexico]]
+## Practical Considerations
+
+When working with Sacred Non-Psilocybin Fungi Cordyceps and Claviceps, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

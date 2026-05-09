@@ -3,7 +3,7 @@ title: Mushroom House Construction — Double Walls, Beds, and Ventilation (Dugg
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mushroom-cultivation, fruiting-chamber, equipment, construction]
+tags: [[mushroom-cultivation, fruiting-chamber, equipment, construction]
 sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
 
@@ -109,20 +109,8 @@ Duggar noted that in southern England, open-air mushroom culture was practiced u
 
 ## Modern Relevance
 
-While modern mushroom growing uses purpose-built concrete structures with sophisticated environmental control (see [[environmental-control-mushroom-growing]]), Duggar's fundamental principles remain valid:
-- Double-wall insulation is still standard
-- Roof ventilation is preferred over wall ventilation
-- Sanitary bed supports are critical for disease prevention
-- 3-foot minimum aisles and bed spacing are still recommended
-- Bed depth of 8-10 inches after compression remains standard
-
-## Related Pages
-
-- [[environmental-control-mushroom-growing]]
-- [[mushroom-growing-house-construction-low-cost]]
+While modern mushroom growing uses purpose-built concrete structures with sophisticated environmental control (see [[environmental-control-mushroom-growing]]
 - [[mushroom-bed-installation-spawning-duggar-1915]]
-- [[mushroom-growing-trays-and-shelves]]
 - [[agaricus-bisporus-cultivation-biology]]
-- [[mushroom-compost-fermentation-duggar-method]]
 - [[mushroom-lighting-and-environmental-requirements]]
 - [[fukuoka-vegetable-growing-natural-method]]

@@ -138,13 +138,8 @@ nutrient cycler, and beneficial insect habitat.
 - Potential nitrate accumulation in nitrogen-fertilized agricultural soils;
   harvest from clean, organic sources when possible
 - Not a concern for pets; chickens and other poultry consume it avidly
-
 ## See Also
 
-- [[hamilton-potting-compost-recipes-and-growing-media]]
-
 - [[taraxacum-officinale]] (Dandelion) — companion nutritious weed
-- [[urtica-dioica]] (Stinging Nettle) — nutrient-dense foraging staple
 - [[plantago-major]] (Plantain) — co-occurring medicinal weed
-- [[comfrey-symphytum-officinale]] (Comfrey) — permaculture dynamic accumulator
 - [[yarrow]] (Achillea millefolium) — wound-healing companion herb

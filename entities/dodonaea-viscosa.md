@@ -137,11 +137,7 @@ Once established, plants require minimal irrigation and maintenance, making them
 ## See Also
 
 - atropia belladonna
-- [[tagetes-lucida]]
-- baccharis spp
 - [[caragana-arborescens]]
-- [[elaeagnus-umbellata]]
 - [[hippophae-rhamnoides-permaculture]]
-- [[rhus-typhina]]
 - [[myrica-gale]]
 - [[salix-alba]]

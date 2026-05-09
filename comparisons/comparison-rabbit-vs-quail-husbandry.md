@@ -21,33 +21,6 @@ provide the fastest turnaround of any livestock animal, going from egg to
 harvest in just eight to ten weeks.
 
 ## Rabbit Husbandry
-[[rabbit-husbandry]]
-Domestic rabbits (Oryctolagus cuniculus) have been raised for meat, fur, and
-pellets for centuries. A breeding trio (one buck, two does) can produce
-six to twelve litters per year, with each litter averaging six to ten kits.
-Rabbits are efficient converters of forage and feed to meat, with a feed-
-to-meat ratio of approximately 4:1, and they can be raised entirely on
-pasture with supplemental hay and grain. Housing ranges from simple wire
-hutches to colony setups where rabbits live in groups with underground
-burrow systems for natural behavior.
-
-Rabbits are quiet, odorless when properly managed, and easy to handle,
-making them suitable for suburban homesteads where noise ordinances restrict
-livestock. They produce high-quality, lean meat that is comparable to
-chicken in nutritional profile. Rabbit manure is a cold fertilizer that can
-be applied directly to gardens without composting, providing a valuable soil
-amendment as a byproduct of meat production. Rabbits also reproduce rapidly,
-allowing a small breeding program to scale meat production quickly.
-
-The main challenges include susceptibility to heat stress (rabbits tolerate
-cold well but can die in temperatures above 85 degrees Fahrenheit),
-predation from raccoons, weasels, and birds of prey, and the need for
-regular breeding management to prevent inbreeding. Processing rabbits
-requires skill and is emotionally challenging for beginners. Regulatory
-restrictions vary by jurisdiction, with some areas classifying rabbits as
-livestock and others having no restrictions.
-
-## Quail Husbandry
 [[quail-husbandry-detailed]]
 Coturnix quail (Coturnix japonica) are the most practical micro-livestock
 for space-constrained homesteads. They reach maturity in just six weeks,
@@ -119,8 +92,6 @@ with rabbits on the floor level in hutches and quail in stacked cage
 systems above, making efficient use of vertical space.
 
 ## See Also
-- [[comparison-chicken-keeping-vs-quail-husbandry]]
 - [[comparison-duck-keeping-vs-rabbit-husbandry]]
-- [[comparison-chicken-tractor-vs-free-range]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
 - [[quail-egg-production]]

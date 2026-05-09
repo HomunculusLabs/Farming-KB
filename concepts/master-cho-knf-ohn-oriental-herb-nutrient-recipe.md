@@ -95,16 +95,10 @@ Example: Dilute OHNs 1000x with 18L of water, then add 6cc Angelica, 3cc licoric
 
 ## See Also
 
-- [[master-cho-knf-fish-aminos-and-sea-minerals]]
-
 - [[knf-ohn-oriental-herbal-nutrient-recipe]]
 
-- [[knf-oriental-herbal-nutrient]]
 - [[indigenous-microorganisms-imo]]
-- [[knf-imo-four-stage-cultivation]]
 - [[brown-rice-vinegar-brv]]
-- [[knf-mineral-liquid]]
 - [[knf-seed-treatment-and-soil-foundation]]
-- [[knf-input-application-timing]]
 - [[knf-preparations]]
 - [[monster-cropping]]

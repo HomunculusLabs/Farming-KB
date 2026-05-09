@@ -10,12 +10,7 @@ type: concept
 
 # Tryptophan Biosynthesis from Chorismate
 
-Tryptophan biosynthesis is the branch of the [[chorismate-metabolism-and-branch-pathways]] that produces the essential amino acid L-tryptophan. In fungi, this pathway is of particular significance because tryptophan serves as the direct precursor to all tryptamine-derived alkaloids, including [[psilocybin-compound-profile]], [[dmt-dimethyltryptamine-experience-guide]], and serotonin. The pathway proceeds from chorismate through a series of seven enzymatic steps involving ring rearrangement, phosphoribosyl transfer, and condensation reactions.
-
-## Overview of the Pathway
-
-The tryptophan biosynthesis pathway converts chorismate, the
-end product of the [[shikimate-pathway-in-fungi]],
+Tryptophan biosynthesis is the branch of the [[psilocybin-compound-profile]], [[shikimate-pathway-in-fungi]],
 into L-tryptophan through a sequence of reactions that construct
 the indole ring system and attach it to an alanine-derived amino
 acid side chain. This pathway operates in the cytosol of fungal
@@ -124,16 +119,9 @@ levels:
 ## Connection to Tryptamine Alkaloid Biosynthesis
 
 Once synthesized, tryptophan can be decarboxylated by
-[[tryptophan-decarboxylase]] to form
-tryptamine, the common precursor to all tryptamine-derived
-alkaloids. In psilocybin-producing fungi, this step is
-rate-limiting and subject to product feedback inhibition.
-The availability of tryptophan, therefore, directly constrains
-the biosynthetic capacity for [[psilocybin-biosynthesis-pathway]] and related compounds.
+[[psilocybin-biosynthesis-pathway]] and related compounds.
 
 ## Related Topics
 
-- [[chorismate-metabolism-and-branch-pathways]]
 - [[shikimate-pathway-in-fungi]]
-- [[tryptophan-decarboxylase]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]

@@ -11,17 +11,7 @@ type: concept
 Vermicomposting is the process of using earthworms to convert organic materials
 into nutrient-rich castings, and in *Teaming With Microbes*, Lowenfels and Lewis
 present it as a valuable complement to traditional
-[[lowenfels-composting-science-microbiology]]. Unlike hot composting,
-vermicomposting relies on the digestive activity of worms and their associated
-gut bacteria rather than thermophilic microbial communities. The result is a
-unique, bacterially dominated soil amendment that offers distinct advantages for
-certain gardening applications.
-
-## The Vermicomposting Process
-
-Processing organic materials through earthworms produces vermicompost, which is
-almost always bacterially dominated because few if any fungi are involved in
-worm digestion. Unlike [[lowenfels-composting-science-microbiology]], vermicomposting does not involve heat, as high temperatures would
+[[lowenfels-composting-science-microbiology]], vermicomposting does not involve heat, as high temperatures would
 kill the worms. The worms and the bacteria inside their digestive systems do the
 work of breaking down materials. Special earthworms, typically red wigglers
 (*Eisenia fetida*), are kept in simple wooden or plastic bins where they process
@@ -44,34 +34,9 @@ finished product.
 
 The castings produced by vermicomposting are extraordinary soil amendments. They
 are 50 percent higher in organic matter than unprocessed soil, which
-dramatically increases [[lowenfels-nutrients-soil-chemistry-ph-cec]]. Vermicastings are up to seven times richer in phosphate,
-ten times richer in available potash, five times richer in nitrogen, three times
-richer in usable magnesium, and one and a half times higher in calcium than
-surrounding soil. The worm's digestive enzymes, produced by bacteria in the
-worm's gut, unlock chemical bonds that otherwise tie up nutrients and prevent
-them from being plant- available. All these nutrients bind onto organic matter
-in the fecal pellets.
-
-## Bacterial Dominance and Its Uses
-
-Fresh vermicompost has strong bacterial dominance, and the castings are coated
-with polysaccharides, carbohydrates, and simple proteins that are perfect for
-supporting good bacterial populations. This makes vermicompost particularly
-well-suited for applications where bacterial dominance is desired. Vegetables,
-annual flowers, and lawns all prefer
-[[lowenfels-bacterial-fungal-dominance]], making
+dramatically increases [[lowenfels-bacterial-fungal-dominance]], making
 vermicompost an excellent amendment for these plantings. It can be applied as a
 top dressing, mixed into planting holes, or used as an ingredient in
-[[lowenfels-compost-tea-brewing]] brewing.
-
-## Microbial Diversity in Castings
-
-Vermicastings are not just nutrient-rich; they are teeming with beneficial
-microorganisms. During digestion, worms mix organic matter with diverse
-bacterial communities from their gut. Many of these microbes are incorporated
-into the castings during formation, creating protected enclaves of bacteria and
-fungi. These microorganisms continue their beneficial work after the castings
-are applied to soil, contributing to nutrient cycling,
 [[lowenfels-soil-structure-aggregates]], and disease
 suppression. The microbial diversity in vermicastings often exceeds that of
 traditional compost, as the worm gut provides a unique environment for bacterial

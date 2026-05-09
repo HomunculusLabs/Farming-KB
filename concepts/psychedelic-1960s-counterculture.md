@@ -113,11 +113,6 @@ but as a form of spiritual exploration and consciousness expansion, however
 problematic that framework might be from an anthropological perspective.
 
 ## See Also
-- [[psychedelic-aesthetics-and-creativity]]
-
 - [[wasson-mexico-expeditions]] - The expeditions that started it all
-- [[mushroom-cultivation-fundamentals]] - The curandera at the centre
-- [[mushroom-cultivation-fundamentals]] - Mushroom influence on music
-- [[mushroom-prohibition-timeline]] - The legal response
-- psychedelic 1960s counterculture - Broader psychedelic culture
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] - Mushroom influence on music
 - [[magic-mushroom-cultural-history]] - Full cultural history

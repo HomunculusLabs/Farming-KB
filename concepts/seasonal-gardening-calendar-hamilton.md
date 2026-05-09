@@ -95,14 +95,10 @@ A seasonal calendar divides the gardening year into four periods: spring (March 
 - Check stored produce regularly
 
 ## Related Topics
-- [[seasonal-gardening-calendar]]
 - [[greg-green-odor-control-and-air-filtration]]
-- [[geoff-hamilton-organic-techniques]]
 - [[green-manure-crops]]
 
 ## Source
 - Hamilton, Geoff & Nick Hamilton. "Organic Gardening." The Gardening Year section, pp. 279-283.
-- [[salad-crops-growing-guide]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-pruning-and-training-fruit-trees]]
 - [[hamilton-seasonal-gardening-calendar]]

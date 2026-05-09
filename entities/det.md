@@ -23,7 +23,7 @@ sources:
 
 **DET** (N,N-diethyltryptamine) is a synthetic psychedelic tryptamine and close structural analog of DMT (N,N-dimethyltryptamine).
 
-It was first synthesized in the 1950s and later documented in Alexander Shulgin's TiHKAL (entry #39), where it received a ++ rating for psychedelic activity.
+It was first synthesized in the 1950s and later documented in [[alexander-shulgin]]'s TiHKAL (entry #39), where it received a ++ rating for psychedelic activity.
 
 The compound acts primarily as a 5-HT2A receptor agonist, producing visual and cognitive effects similar to DMT but with a longer duration and different character.
 
@@ -119,17 +119,15 @@ The compound is controlled in several European countries as part of broad trypta
 
 ## See Also
 
-- [[dosage-ambiguity-fuzzy-numbers-pihkal]]
-- [[asb-entity]]
+- [[pihkal-introduction-and-methodology]]
 
 - [[pihkal-introduction-and-methodology]]
 
 - [dmt](dmt.md)
-- [5-meo-dmt](5-meo-dmt.md)
+- [[5-meo-dmt-entity]]](5-meo-dmt.md)
 - [dpt](dpt.md)
-- [psilocin-and-psilocybin-chemistry](psilocin-and-psilocybin-chemistry.md)
+- [[psilocin-and-psilocybin-chemistry]]](psilocin-and-psilocybin-chemistry.md)
 - [harmine](harmine.md)
 - [harmaline](harmaline.md)
-- [ergine](ergine-entity.md)
-- [myristicin](myristicin-entity.md)
-- [5-meo-dipt](5-meo-dipt.md)
+- [ergine]([[ergine-entity]].md)
+- [myristicin]([[5-meo-dipt]](5-meo-dipt.md)

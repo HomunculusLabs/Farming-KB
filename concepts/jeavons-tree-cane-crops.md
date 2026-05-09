@@ -96,8 +96,6 @@ fruit tree companions.
 
 ## See Also
 
-[[jeavons-grow-biointensive-method-overview]]
 [[jeavons-master-planning-mini-farms]]
-[[jeavons-soil-fertility]]
 [[jeavons-companion-planting]]
 [[jeavons-garden-planning-four-year-rotation]]

@@ -58,33 +58,7 @@ G. spectabilis).
 
 | Feature | Description |
 |---------|-------------|
-| [[spore-print]] | Rusty orange to orangish brown |
-| Spores | Ellipsoid, slightly ornamented, rusty brown |
-| Spore size | 7.5-10 × 4.5-5.5 µm |
-| Spore view | Ellipsoid in side view, ovoid in face view |
-| Basidia | 4-spored, clavate |
-| Pleurocystidia | Ventricose, inconspicuous, 23-28 × 5-7 µm |
-| Cheilocystidia | Flask-shaped, capitate to subcapitate, 23-30 × 3-7 µm |
-
-## Distribution and Habitat
-
-Gymnopilus ventricosus is widespread across North America and also reported
-from Europe:
-- **North America:** Widely distributed across the United States and likely
-  much of the continent. Found from the eastern seaboard (Central Park, New
-  York) to the Pacific Northwest.
-- **Europe:** Central and northern Europe.
-- **Habitat:** Gregarious to cespitose on hardwood logs, stumps, or woody
-  debris. Prefers hardwoods over conifers, often found on fallen oak,
-  maple, beech, and other deciduous trees.
-- **Season:** Late summer to autumn (August-November in temperate regions).
-- **Frequency:** Common where suitable hardwood substrate is available.
-- **Ecology:** Saprobic, causing a brown rot of hardwoods.
-
-## Chemistry and Active Compounds
-
-- **Psilocybin:** NOT detected — G. ventricosus is considered inactive
-- **[[psilocin]]:** NOT detected
+| [[psilocin]]:** NOT detected
 - **Novel compounds:** Not specifically reported
 - **Bitter principles:** Present, contributing to the bitter taste (though
   less bitter than G. spectabilis)
@@ -92,18 +66,7 @@ from Europe:
 The key distinction from G. spectabilis is the absence of psilocybin and
 psilocin. Stijve and Kuyper (1988) reported no detectable psilocybin in
 Swiss, Dutch, and American collections of specimens identified as
-G. spectabilis, many of which Beug and [[bigwood]] (1982b) and Smith (1980)
-noted were actually G. ventricosus.
-
-## Similar Species
-
-| Species | Key Differences |
-|---------|----------------|
-| G. spectabilis | Active (contains psilocybin ~0.12%); much more intensely bitter taste; difficult to distinguish macroscopically |
-| G. validipes | Smaller, weakly active (0.12% psilocybin); mild taste; hardwood preference |
-| G. luteofolius | Brighter yellow, smaller, more southern distribution; active |
-| G. junonius | Very large, common in the eastern US; taxonomically confused with G. spectabilis |
-| [[armillaria-mellea]] | Edible honey mushroom; white spore print, grows in clusters at tree bases |
+G. spectabilis, many of which Beug and [[armillaria-mellea-entity]] | Edible honey mushroom; white spore print, grows in clusters at tree bases |
 
 The confusion between G. ventricosus and G. spectabilis is one of the most
 persistent identification problems in the psychoactive mycological literature.
@@ -143,8 +106,6 @@ understanding true chemical diversity within Gymnopilus.
 - Does not bruise bluish
 - Rusty orange spore print distinguishes it from Armillaria (white spores)
   and other hardwood decomposers
-
 ## See Also
 
-- [[gymnopilus-spectabilis-entity]]
 - [[gymnopilus-validipes]]

@@ -103,11 +103,7 @@ These effects mean that endophytic fungi can indirectly influence plant communit
 
 ## Related Pages
 
-- [[clavicipitaceous-grass-endophytes]]
 - [[dark-septate-endophytes]]
-- [[dark-septate-endophytes-stressed-environments]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-fungal-ecology]]
 - [[fungal-biodiversity-ecosystem-function]]
-- [[fungal-biodiversity-grassland]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

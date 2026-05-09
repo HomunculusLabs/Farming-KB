@@ -62,9 +62,6 @@ Fungi treat distillery wastewater through multiple complementary
 mechanisms:
 
 ### Enzymatic Degradation
-- [[singh-fungal-laccase-enzymes-bioremediation]]: Oxidizes phenolic
-  groups within melanoidins, cleaving chromophoric structures and
-  reducing color.
 - [[singh-manganese-peroxidase-mnp-biodegradation]]: Mn3+-mediated
   oxidation depolymerizes melanoidin macromolecules.
 - Proteases and other hydrolases: Degrade proteinaceous components of
@@ -84,63 +81,6 @@ decolorizing the effluent.
 ## Key Fungal Genera for Spent Wash Treatment
 
 ### Aspergillus Species
-- [[aspergillus-niger-in-fungal-bioleaching]]: The most extensively studied fungus for spent
-  wash treatment. Produces extracellular enzymes (laccase, protease,
-  cellulase) that degrade melanoidins and other organic constituents.
-  Achieves 60-85% decolorization and 50-70% COD reduction under
-  optimized conditions.
-- aspergillus oryzae: Effective for both decolorization and
-  production of value-added enzymes during treatment.
-- aspergillus foetidus: Shows high melanoidin-degrading activity
-  with good tolerance to spent wash toxicity.
-
-### Penicillium Species
-- penicillium chrysogenum: Demonstrates significant decolorization
-  capacity, particularly for molasses-based effluents.
-- penicillium decumbens: Produces ligninolytic enzymes effective
-  against melanoidin chromophores.
-- penicillium restrictum: Efficient COD reduction and biomass
-  production from spent wash constituents.
-
-### White Rot Fungi
-- [[staycare-trametes-versicolor-bioremediation-applications]] and [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]: Their
-  ligninolytic enzyme systems (laccase, MnP) effectively oxidize
-  melanoidin structures, though their sensitivity to low pH and high
-  organic loading may require pre-treatment or acclimation.
-
-## Process Parameters and Optimization
-
-Key factors influencing fungal treatment efficiency:
-
-- **pH**: Optimal range 4.0-6.0 for most fungal species; spent wash
-  typically requires pH adjustment before treatment.
-- **Temperature**: 28-35 degrees C for mesophilic fungi; thermophilic
-  species can operate at higher temperatures, reducing cooling costs.
-- **Inoculum concentration**: 5-15% v/v typically provides adequate
-  biomass for treatment without excessive nutrient demand.
-- **Dilution ratio**: Raw spent wash is often diluted 1:2 to 1:5 to
-  reduce toxicity and improve fungal growth.
-- **Aeration**: Adequate oxygen supply is critical; dissolved oxygen
-  levels above 2 mg/L are generally maintained.
-- **Supplementation**: Nitrogen and phosphorus may be added to optimize
-  fungal growth, while carbon sources such as glucose or sucrose can
-  enhance enzyme production.
-- **Retention time**: 48-96 hours for batch systems; continuous systems
-  operate with HRT of 24-72 hours.
-
-## Performance Benchmarks
-
-Under optimized conditions, fungal treatment of distillery wastewater
-achieves:
-- Decolorization: 60-90% color removal
-- COD reduction: 40-70%
-- BOD reduction: 50-80%
-- Phenol removal: 50-85%
-- Heavy metal reduction: Variable, depends on species and conditions
-
-## See Also
-
-- [[singh-textile-dye-decolorization-fungal]]
-- [[singh-fungal-immobilization-bioreactor-technology]]
+- [[staycare-trametes-versicolor-bioremediation-applications]] and [[singh-textile-dye-decolorization-fungal]]
 - [[singh-phytotoxicity-testing-bioremediation-assessment]]
 - [[singh-fungal-laccase-enzymes-bioremediation]]

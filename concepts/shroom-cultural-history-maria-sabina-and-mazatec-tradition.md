@@ -10,11 +10,7 @@ tags: [history, mazatec]
 
 # Maria Sabina and the Mazatec Tradition
 
-## From "Shroom: A Cultural History of the Magic Mushroom" by [[andy-letcher]]
-
-## The Mazatec Mushroom Velada
-
-[[maria-sabina]], a Mazatec Indian, was born in Huautla de Jiménez, Oaxaca, on 17 March 1894. She grew up in a culture where the highest class of curanderos (healers) — the "Wise Men" and "Wise Women" — derived their healing powers from the "sacred" mushrooms. According to curanderos, mushrooms granted access to, or were literally seen as, spirits with whom the healers could form beneficial relationships.
+## From "Shroom: A Cultural History of the Magic Mushroom" by [[maria-sabina]], a Mazatec Indian, was born in Huautla de Jiménez, Oaxaca, on 17 March 1894. She grew up in a culture where the highest class of curanderos (healers) — the "Wise Men" and "Wise Women" — derived their healing powers from the "sacred" mushrooms. According to curanderos, mushrooms granted access to, or were literally seen as, spirits with whom the healers could form beneficial relationships.
 
 ### Childhood Discovery
 
@@ -86,6 +82,5 @@ Sabina's autobiography was compiled by Alvaro Estrada from interviews conducted 
 
 ## Related Concepts
 
-- [[shroom-cultural-history-western-discovery-valentina-wasson]] — Wasson's role in bringing Mazatec mushroom practices to global attention
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]] — The counterculture movement that overwhelmed Huautla
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — The Aztec roots of Mazatec mushroom traditions

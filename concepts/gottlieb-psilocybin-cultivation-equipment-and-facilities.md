@@ -129,13 +129,8 @@ production of 5,000+ doses per week using Gottlieb's methods.
 
 ## See Also
 
-- [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]
-
 - [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
 - [[gottlieb-psilocybin-cultivation-contamination-prevention]]
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[stamets-spawn-making-and-grain-culture]]
 - [[spore-syringe-vs-liquid-culture]]
 - [[psilocybin-large-scale-production]]

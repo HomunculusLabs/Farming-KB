@@ -21,7 +21,7 @@ The species was first described by Rolf Singer in the mid-20th century as part o
 Singer's field work in Mexico during the 1950s and 1960s, conducted in collaboration with R. Gordon Wasson and others, resulted in the description of numerous new species and significantly expanded understanding of the genus in Mesoamerica.
 
 The epithet *fascicata* refers to the tendency of mushrooms to grow in fascicles (dense clusters or bundles), a common growth habit among wood-inhabiting psilocybin mushrooms.
-This growth pattern is also observed in related species such as [[stamets-psi-psilocybe-cyanescens-species-guide]] and [[stamets-psi-psilocybe-azurescens-species-guide]], and is thought to be an adaptation that enhances spore dispersal efficiency from concentrated fruiting points.
+This growth pattern is also observed in related species such as [[stamets-psi-psilocybe-azurescens-species-guide]], and is thought to be an adaptation that enhances spore dispersal efficiency from concentrated fruiting points.
 
 In Guzmán's 1983 monograph *The Genus Psilocybe*, the species was placed within Section Psilocybe based on its bluing reaction, spore morphology, and habitat preferences.
 More recent molecular phylogenetic studies have generally supported this placement, though some species boundaries within the section have been revised based on DNA sequence data.
@@ -47,7 +47,7 @@ More recent molecular phylogenetic studies have generally supported this placeme
 ### Bluing Reaction
 
 The blue staining reaction is prominent and serves as the primary field indicator of psychoactive content.
-The bluing occurs on the stem (especially near the base), gills, and sometimes the cap flesh when bruised, indicating the presence of [[psilocybin-compound]] and/or [[psilocin]].
+The bluing occurs on the stem (especially near the base), gills, and sometimes the cap flesh when bruised, indicating the presence of [[psilocin]].
 The intensity of bluing can vary among specimens and may correlate with alkaloid content, though this relationship is not strictly proportional.
 
 The biochemistry of the bluing reaction involves the enzymatic oxidation of psilocin (and possibly other phenolic compounds) to form blue-colored quinone polymers.
@@ -75,37 +75,20 @@ Associations with specific tree species have not been well documented, but colle
 
 ## Chemistry
 
-The species is confirmed to contain [[psilocybin-compound]] and likely [[psilocin]], based on the strong bluing reaction and its placement within Section Psilocybe.
-Quantitative data from [[bigwood]] and [[beug]] suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[psilocybe-cubensis-potency-variation-by-flush]].
-
-The presence of [[baeocystin]] has been reported in related species from the same geographic region, though specific analysis of *P. fascicata* for this compound remains limited.
-[[norbaeocystin]] may also be present but has not been specifically confirmed in this species.
-
-### Biosynthetic Pathway
-
-The biosynthesis of psilocybin in *P. fascicata* follows the same general pathway described for other Psilocybe species.
-The pathway begins with the amino acid L-tryptophan, which is decarboxylated by the enzyme tryptophan decarboxylase to form tryptamine.
-
-Tryptamine then undergoes a series of enzymatic modifications: monomethylation by an indolethylamine N-methyltransferase yields N-methyltryptamine (MMT), and a second methylation step produces N,N-dimethyltryptamine (DMT).
-A hydroxylation step, catalyzed by a cytochrome P450 monooxygenase, introduces a 4-hydroxyl group on the indole ring, yielding 4-hydroxy-DMT (psilocin).
-Finally, phosphorylation by a psilocybin-specific 4-hydroxytryptamine kinase converts psilocin to psilocybin (4-PO-DMT).
-
-The psilocybin biosynthesis gene cluster (*PsiD*, *PsiK*, *PsiM*) identified in [[psilocybe-cubensis-potency-variation-by-flush]] is expected to be conserved in *P. fascicata* and other members of Section Psilocybe, though direct genetic characterization of this species has not been performed.
+The species is confirmed to contain [[psilocin]], based on the strong bluing reaction and its placement within Section Psilocybe.
+Quantitative data from [[beug]] suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[baeocystin]] has been reported in related species from the same geographic region, though specific analysis of *P. fascicata* for this compound remains limited.
+[[psilocybe-cubensis-potency-variation-by-flush]] is expected to be conserved in *P. fascicata* and other members of Section Psilocybe, though direct genetic characterization of this species has not been performed.
 
 ## Cultivation
 
-*Psilocybe fascicata* is not commonly cultivated, as it is less well-known and less widely distributed than species like [[psilocybe-cubensis-potency-variation-by-flush]] or [[psilocybe-mexicana-cultivation]].
+*Psilocybe fascicata* is not commonly cultivated, as it is less well-known and less widely distributed than species like [[psilocybe-mexicana-cultivation]].
 However, its wood-inhabiting nature suggests it could potentially be grown on sterilized wood-based substrates using techniques similar to those developed for other lignicolous psilocybin mushrooms.
 
 Successful cultivation would likely require a supplemented hardwood sawdust substrate, high humidity, moderate temperatures (20 to 25 degrees Celsius), and adequate fresh air exchange.
 Initiation of fruiting may require a temperature drop or increase in humidity, mimicking natural conditions in its montane habitat.
 
 The cespitose growth habit suggests that inoculated substrates may produce dense clusters of fruiting bodies rather than scattered individuals, which could make it a productive species if cultivation methods are successfully developed.
-A cold shock (reduction of 5 to 10 degrees Celsius) may be beneficial for triggering primordia formation, analogous to fruiting protocols used for [[stamets-psi-psilocybe-azurescens-species-guide]] and other temperate wood-inhabiting species.
-
-## Ethnobotanical Significance
-
-While there is no direct ethnographic evidence that *P. fascicata* was specifically used in indigenous mushroom ceremonies, its distribution overlaps with regions where [[psilocybe-mexicana-cultivation]] and other psychoactive species were traditionally employed by Mazatec, Nahua, and other indigenous peoples.
+A cold shock (reduction of 5 to 10 degrees Celsius) may be beneficial for triggering primordia formation, analogous to fruiting protocols used for [[psilocybe-mexicana-cultivation]] and other psychoactive species were traditionally employed by Mazatec, Nahua, and other indigenous peoples.
 Its psychoactive properties may have contributed to the general knowledge of psychoactive fungi among these communities.
 However, it was likely not a primary ceremonial species given its relative rarity and wood-inhabiting habit.
 
@@ -113,19 +96,14 @@ However, it was likely not a primary ceremonial species given its relative rarit
 
 *Psilocybe fascicata* can be confused with several other small, brown, wood-inhabiting Psilocybe species:
 
-- [[psilocybe-cubensis-potency-variation-by-flush]] — much larger, grows on herbivore dung rather than wood
 - [[psilocybe-coprophila-profile]] — coprophilous habitat on dung, smaller overall stature
 - Non-bluing Psilocybe species in Section Deconica — lack blue staining reaction entirely and are non-psychoactive
-- [[psilocybe-mexicana-cultivation]] — similar size but prefers subterranean sclerotia formation in grassland soils
 - [[stamets-psi-psilocybe-azurescens-species-guide]] — much larger with wavy cap margin, restricted to Pacific Northwest coastal dune grasses
 
 Key differentiating features of *P. fascicata* include its clustered growth on decaying wood, Central American montane distribution, and the combination of small cap size (5–20 mm) with relatively long stems (30–70 mm) arising from a shared base.
 
 ## See Also
 
-- [[psilocybin-compound]]
 - [[psilocin]]
-- [[baeocystin]]
 - [[psilocybe-mexicana-cultivation]]
-- [[bigwood]]
 - [[beug]]

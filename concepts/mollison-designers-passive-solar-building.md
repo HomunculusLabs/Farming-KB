@@ -17,11 +17,7 @@ type: concept
 # Passive Solar Building Design
 
 Passive solar building design uses the energy of the sun to heat, cool, and
-light structures without mechanical systems. Bill Mollison treated buildings
-as integral elements of the permaculture system, not as isolated objects. A
-well-designed building captures, stores, and distributes solar energy while
-sheltering its occupants from wind, rain, and temperature extremes. The
-principles of [[passive-solar-design]] are universal but their application varies
+light structures without mechanical systems. [[passive-solar-design]] are universal but their application varies
 with climate.
 
 ## Fundamental Principles
@@ -65,37 +61,7 @@ to the north and west of buildings, never to the south.
 ## Thermal Mass
 
 Thermal mass is the engine of passive solar heating. Dense, heavy materials
-such as concrete, stone, brick, [[rammed-earth]], and water absorb solar radiation
-striking their surface, store it as heat, and release it slowly as the
-surrounding air cools. This time lag smooths temperature fluctuations and
-keeps the building comfortable through cold nights.
-
-The effectiveness of thermal mass depends on its thickness, material
-properties, surface colour, and placement. Mollison provides these guidelines:
-
-- **Thickness**: A minimum of 100 mm (4 inches) is needed to absorb and store
-  meaningful heat. Optimal thickness for masonry is 100 to 150 mm. Beyond
-  200 mm, additional thickness provides diminishing returns because the daily
-  temperature wave does not penetrate deeply enough.
-- **Surface colour**: Dark surfaces absorb more radiation than light surfaces.
-  Mass elements in direct sun should be dark-coloured; those receiving only
-  indirect radiation can be lighter.
-- **Placement**: Thermal mass should be in direct contact with solar radiation
-  entering through windows. Floor slabs, internal masonry walls, and
-  containers of water are the most common approaches. Mass placed behind
-  insulation or in unlit areas provides no heating benefit.
-
-## Insulation
-
-Insulation is the complement to thermal mass. While mass moderates temperature
-swings, insulation reduces the rate of heat loss through walls, roof, and
-floor. The two must work together: mass without insulation loses heat too
-quickly; insulation without mass provides no thermal stability. Mollison
-recommends insulation levels appropriate to climate. In temperate and cold
-climates, walls should achieve R-20 to R-30 (RSI 3.5 to 5.3), roofs R-30 to
-R-50 (RSI 5.3 to 8.8), and floors R-15 to R-20 (RSI 2.6 to 3.5). Natural
-insulation materials such as straw bale (R-2.4 per inch), sheep's wool,
-cellulose (recycled newspaper), and cork are preferred in [[permaculture-design]]
+such as concrete, stone, brick, [[permaculture-design]]
 because they are renewable, non-toxic, and often locally available.
 
 ## Earth-Sheltered Construction
@@ -146,5 +112,4 @@ Natural ventilation handles cooling needs in most cases.
 
 Buildings in permaculture are not separate from the landscape. Roof water is
 captured for [[mollison-designers-traditional-irrigation-systems]], greywater
-flows to [[mollison-designers-wastewater-treatment-wetlands]], and the
 ## See Also

@@ -82,10 +82,7 @@ GD has few side effects. The FDA exemption from Phase I studies reflects the com
 
 ## See Also
 
-- [[cancer-turkey-tail-psk-clinical-trials]]
 - [[cancer-shiitake-lentinan-therapy]]
-- [[cancer-beta-glucan-pharmacology]]
 - [[cancer-immune-modulation-mechanisms]]
 - cancer integration conventional treatment
-- [[maitake-d-fraction-research]]
 - [[grifron-d-maitake-beta-glucan]]

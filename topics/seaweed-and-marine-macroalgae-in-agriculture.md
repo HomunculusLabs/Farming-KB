@@ -168,7 +168,7 @@ Soluble powders are produced by spray-drying liquid extracts into a fine powder 
 
 ### Fermented Seaweed Products
 
-Fermentation using lactic acid bacteria (LAB), yeasts, or indigenous microorganisms (IMO) can enhance the bioactivity of seaweed extracts by breaking down complex polysaccharides into simpler, more bioavailable forms and generating additional metabolites. Korean Natural Farming (KNF) practitioners produce fermented seaweed extracts (similar to Fermented Plant Extracts or FPEs) as part of their input portfolio. See [[fermented-plant-extract-vs-compost-tea]] for comparisons with other biological amendments.
+Fermentation using lactic acid bacteria (LAB), yeasts, or indigenous microorganisms (IMO) can enhance the bioactivity of seaweed extracts by breaking down complex polysaccharides into simpler, more bioavailable forms and generating additional metabolites. Korean Natural Farming (KNF) practitioners produce fermented seaweed extracts (similar to Fermented Plant Extracts or FPEs) as part of their input portfolio. See [[comparison-fermented-plant-extract-vs-compost-tea]] for comparisons with other biological amendments.
 
 ---
 
@@ -271,7 +271,7 @@ Seaweed cultivation and the application of seaweed-derived amendments to soil co
 Seaweed extracts combine synergistically with many other organic and biological amendments:
 
 - **With [[compost-tea-guide|compost tea]]** — Seaweed provides minerals and hormones while compost tea delivers living microorganisms. Combined applications produce greater effects than either alone.
-- **With [[fish-aminos|fish hydrolysate]]** — Fish amino acids provide nitrogen and additional auxin-like activity; kelp provides cytokinins and micronutrients. Together they approximate a complete biostimulant package. See [[comparison-fish-aminos-vs-kelp-meal]].
+- **With [[fish-amino-acid|fish hydrolysate]]** — Fish amino acids provide nitrogen and additional auxin-like activity; kelp provides cytokinins and micronutrients. Together they approximate a complete biostimulant package. See [[comparison-fish-aminos-vs-kelp-meal]].
 - **With [[mycorrhiza|mycorrhizal inoculants]]** — Seaweed extracts at low concentrations stimulate mycorrhizal colonization. However, high concentrations of some extracts (particularly high-pH alkaline hydrolysates) can inhibit spore germination and should be applied separately.
 - **With [[biochar]]** — Pre-charging biochar with seaweed extract loads the porous carbon matrix with minerals and bioactive compounds. See [[comparison-biochar-vs-compost]] for biochar activation strategies.
 - **With [[cover-crops-and-green-manures|cover crops]]** — Foliar seaweed applications to cover crops during their growth phase enhance biomass production and root exudation, amplifying the soil-building benefits when the cover crop is terminated.

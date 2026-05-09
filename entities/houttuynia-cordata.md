@@ -140,11 +140,6 @@ established.
   rhizomatous spread can displace native vegetation. Check local
   regulations before planting. Container cultivation is recommended
   in areas where it is invasive.
-- **Companion planting:** In permaculture systems, it can serve as
-  a living mulch and ground cover in moist, shady areas where its
-  spread can be managed. The dense root mat helps prevent erosion.
-## See Also
-- [[plantago-major]]
-- [[taraxacum-officinale]]
+- **[[plantago-major]]
 - [[urtica-dioica]]
 - [[moringa-oleifera]]

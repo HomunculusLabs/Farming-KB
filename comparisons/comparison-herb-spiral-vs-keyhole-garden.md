@@ -13,7 +13,7 @@ type: comparison
 
 ## Overview
 
-The [[herb-spiral]] and [[permaculture-designers-manual-keyhole-garden]] are two of the most 
+The [[permaculture-designers-manual-keyhole-garden]] are two of the most 
 recognizable Zone 1 permaculture garden features. Both maximize growing area in 
 compact spaces and incorporate permaculture principles of edge effect and 
 efficient access. However, they serve fundamentally different purposes: the 
@@ -118,11 +118,7 @@ capacity.
 
 ## See Also
 
-- [[herb-spiral]] for detailed construction and planting guides
 - [[permaculture-designers-manual-keyhole-garden]] for building plans and compost basket details
-- [[mandala-garden-design]] for larger-scale circular garden patterns
 - [[zone-1-intensive-garden]] for Zone 1 planning principles
 - gaias garden herb spiral and natural patterns for Toby Hemenway's approach
-- [[mollison-designers-herb-spiral-design-construction]] for the original 
-design manual reference
 - [[comparison-banana-circle-vs-herb-spiral]]

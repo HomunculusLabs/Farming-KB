@@ -33,7 +33,7 @@ ethnomycology addresses questions that are in some ways more mysterious — fung
 have often occupied a liminal space in human cosmologies, associated with death,
 transformation, and the invisible world beneath the soil.
 ## Historical Development
-Ethnobotany emerged from the Western tradition of plant exploration. Colonial-[[richard-evans-schultes]]d useful plants from conquered territories, and while this work
+Ethnobotany emerged from the Western tradition of plant exploration. Coloniald useful plants from conquered territories, and while this work
 was extractive, it laid groundwork for understanding plant-human relationships
 across cultures. Richard Evans Schultes became the field's towering 20th-century
 figure, spending decades in the Amazon documenting indigenous plant use —
@@ -122,8 +122,10 @@ therapy research has renewed funding for ethnomycological study.
 - **Both** when studying entheogenic traditions, traditional fermentation systems,
   or biocultural diversity where plants and fungi are intertwined.
 ## See Also
-- [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]
 - [[allegro-sacred-prostitute-and-the-mushroom-cult]]
 - ethnomycology
-- [[controlled-substances-act-and-psychedelic-research]]
 - [[allegro-names-of-the-gods-and-their-fertility-origins]]
+
+## See Also
+
+- [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]

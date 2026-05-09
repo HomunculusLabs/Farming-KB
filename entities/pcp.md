@@ -118,12 +118,8 @@ Analogues including TCP (thienylcyclohexylpiperidine) and PCE
 
 ## See Also
 
-- [[ketamine]]
 - [[dxm]]
-- [[nitrous-oxide]]
 - [[muscimol-entity]]
-- [[salvinorin-a-entity]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - opium
-- [[papaver-somniferum]]
-- [[ibotenic-acid]]
+- [[ibotenic-acid-entity]]

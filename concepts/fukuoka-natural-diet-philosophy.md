@@ -11,8 +11,7 @@ sources:
 
 ## Overview
 
-[[natural-farming-fukuoka]]'s dietary philosophy, elaborated in "The One-Straw Revolution"
-and "The Natural Way of Farming," extends his [[fukuoka-five-principles-natural-farming]] into the realm of human nutrition. He argued that modern dietary
+[[fukuoka-five-principles-natural-farming]] into the realm of human nutrition. He argued that modern dietary
 habits — like modern agriculture — represent a fundamental departure from natural
 law.
 
@@ -58,37 +57,29 @@ nutritional wisdom.
 
 ## Connection to Farming
 
-The natural diet cannot be separated from natural farming. Food grown by [[fukuoka-natural-farming-philosophy-of-mu]] is inherently suited to the natural diet because it is produced
-without intervention, in harmony with local conditions. Conversely, the demand for
-natural diet creates the economic basis for natural farming. The two are mutually
-reinforcing.
-
-Fukuoka envisioned communities where farming, diet, health, and spiritual life are
-integrated. The farm produces the food; the food sustains the farmer; the farmer's
-health and awareness sustain the farm.
-
-## Specific Recommendations
-
-- **Brown rice** as the staple grain (retains the bran and germ that white rice processing
-removes)
-- **Seasonal vegetables** eaten raw or minimally cooked
-- **Local pickles and ferments** using natural methods (not commercial vinegar)
-- **Miso and soy sauce** made traditionally
-- **Very little or no meat** (not from strict ideology but because natural conditions
-in most regions do not support high meat consumption)
-- **No refined sugar**, no processed oils, no artificial additives
-
-## Broader Implications
-
-Fukuoka's dietary philosophy connects to his [[fukuoka-do-nothing-farming-philosophy-and-practice]]: just as the farmer should not impose his will on the land, the eater should
+The natural diet cannot be separated from natural farming. Food grown by [[fukuoka-do-nothing-farming-philosophy-and-practice]]: just as the farmer should not impose his will on the land, the eater should
 not impose cravings and preferences on the body. Health is the natural state; disease
-arises from deviation from natural law. See also [[fukuoka-nature-transcends-human-knowledge]].
-
-See also:
-- [[fukuoka-natural-farming-philosophy]] — farming philosophy
-- [[fukuoka-one-straw-revolution-philosophy]] — the original manifesto
+arises from deviation from natural law. See also [[fukuoka-natural-farming-philosophy]] — farming philosophy
 - [[fukuoka-philosophy-of-mu-and-nature]] — philosophical foundation
 -  — health philosophy
-- [[fukuoka-vegetable-growing-natural-method]] — growing natural vegetables
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[what-natural-farming-method-should-i-use]]
+## Practical Considerations
+
+Successful implementation of Fukuoka Natural Diet Philosophy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

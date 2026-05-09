@@ -73,14 +73,7 @@ it an important subject for future chemical analysis that could
 confirm or deny its place among psychoactive fungi.
 
 ## See Also
-- [[psilocybe-aeruginosa]]
 - [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-cyanescens]]
 - [[psilocybe-stuntzii]]
-- [[psilocybe-aeruginosa]]
 - [[psilocybe-semilanceata]]
-- [[psilocybe-southeast-asia-pacific]]
-
-## See Also
-
 - [[nymphaea-caerulea]]

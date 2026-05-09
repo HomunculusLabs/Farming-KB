@@ -1,56 +1,13 @@
 ---
-title: Fukuoka's Five Principles of [[natural-farming]]
+title: Fukuoka Five Principles Natural Farming
 created: 2026-04-28
 tags: [natural-farming, permaculture, no-till, organic, philosophy, fukuoka, regenerative-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-    author: [[masanobu-fukuoka]]
-    title: The Natural Way of Farming
-    pages: 1-135
-type: concept
----
-# Fukuoka's [[natural-farming-five-principles]] of Natural Farming
-Masanobu Fukuoka's [[natural-farming-philosophy]] rests on five foundational
-principles that challenge the core assumptions of modern agriculture.
-Developed over fifty years of experimentation on his farm in Ehime
-Prefecture, Japan, these principles reject the idea that human
-intervention improves upon natural processes. Rather than adding
-practices, Fukuoka progressively eliminated them, arriving at a system
-where nature grows the crops.
-The five principles are: no tillage, no fertilizer, no pesticides,
-no weeding, and no pruning. Each was arrived at through decades of
-careful observation. Fukuoka insisted these are not merely techniques
-but expressions of a deeper philosophical stance—that nature already
-possesses everything needed for abundant food production, and human
-knowledge invariably disrupts the natural order it seeks to improve.
-## No Tillage
-Fukuoka observed that seeds in nature germinate and grow without
-plowed fields. The soil is worked naturally by small animals, roots,
-and green manure plants. Plowing destroys soil structure, kills
-beneficial organisms, and accelerates erosion. On his farm, fields
-were left unplowed for over thirty years while consistently producing
-close to 22 bushels of rice and 22 bushels of winter grain per
-quarter-acre. One gram of his soil contained about 100 million
-nitrogen-fixing bacteria and other soil-enriching microbes.
-When straw mulch is spread thickly over the field, it suppresses
-weeds, retains moisture, and decomposes into humus that feeds soil
-organisms. Earthworms, beetles, fungi, and bacteria create channels
-and aggregate soil particles far more effectively than any plow.
-Flood a field with water, stir it up with a plow, and the ground sets
-as hard as stone—this is why farmers must break up hardened soil year
-after year. No-tillage methods break this cycle by allowing the soil
-to maintain its natural crumb structure, with roots of previous crops
-creating channels for water infiltration and air exchange.
-## No Fertilizer
-Chemical fertilizers have been considered indispensable for only the
-last fifty years, yet agriculture existed for millennia without them.
-Even manure and compost, while helpful for speeding crop growth,
-ultimately deplete the land from which the organic material is taken.
-Fukuoka relied entirely on the natural fertility cycle: clover and
-other legumes fix nitrogen, straw mulch returns organic matter, and
-[[the-soil-food-web]] makes nutrients available in a balanced manner.
+    author: [[natural-farming-five-principles]] of Natural Farming
+Masanobu Fukuoka's [[soil-food-web-nutrient-cycling]] makes nutrients available in a balanced manner.
 Fukuoka was critical of organic farming, calling it "just another type
 of scientific farming." The effort to transport, process, and apply
 organic amendments produces only local and temporal gains. When
@@ -70,12 +27,7 @@ microorganisms, and the predator-prey relationships that naturally
 keep pest populations in check.
 Fukuoka illustrated this complexity with pine wilt disease in Japan.
 Conventional wisdom blamed the pinewood nematode, but his observations
-revealed a cascade: soil acidification killed [[matsutake-mushroom]] s
-(symbionts on pine roots), followed by parasitic mold fungi, and only
-then by nematode infestation. The aerial spraying of forests with
-herbicides kills fungi that decompose fallen leaves, destroying
-earthworm habitats. PCP herbicide acts as bactericide and fungicide
-simultaneously, disrupting the entire [[soil-food-web]].
+revealed a cascade: soil acidification killed [[soil-food-web]].
 Treating soil with chloropicrin temporarily alleviates bacterial soft
 rot but kills the bacteria that moderate disease severity, causing
 outbreaks to worsen two years later. Instead of trying to bring nature

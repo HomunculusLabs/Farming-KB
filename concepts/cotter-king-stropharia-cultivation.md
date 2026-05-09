@@ -128,8 +128,6 @@ water quality concerns.
 
 ## See Also
 
-- [[cotter-wood-chip-cultivation-outdoor-beds]]
 - [[cotter-outdoor-mushroom-garden-mulch-beds]]
-- [[cotter-casing-soils-microbial-triggers]]
 - [[cotter-mycoremediation-techniques]]
 - [[cotter-seven-stages-of-mushroom-cultivation]]

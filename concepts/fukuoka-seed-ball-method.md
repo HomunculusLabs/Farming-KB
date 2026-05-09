@@ -127,13 +127,6 @@ The seed ball method represents one of the most elegant expressions of natural
 farming philosophy: working with nature rather than against it. By allowing
 seeds to germinate when and where natural conditions are favorable, the farmer
 saves enormous labor while achieving results that often surpass conventional
-methods. The technique has been adopted by [[natural-farming-animal-husbandry]] practitioners,
-[[permaculture-grain-crops]] designers, and [[guerilla-gardening-guide]] advocates worldwide.
-
-## Related Concepts
-
-- [[clay-seed-balls-tsuchi-dango]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+methods. The technique has been adopted by [[permaculture-grain-crops]] designers, and [[clay-seed-balls-tsuchi-dango]]
 - [[fukuoka-straw-mulch-system]]
-- [[fukuoka-clover-and-green-manure-cropping]]
 - [[no-till-grain-strategy]]

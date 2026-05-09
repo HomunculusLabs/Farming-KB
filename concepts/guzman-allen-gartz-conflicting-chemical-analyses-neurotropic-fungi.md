@@ -118,7 +118,9 @@ and taxonomic work using modern analytical methods.
 
 ## See also
 
-[[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-[[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]]
 [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
+
+## See Also
+
+- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]

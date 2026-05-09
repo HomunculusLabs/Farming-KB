@@ -1,0 +1,138 @@
+---
+title: "Flavoparmelia caperata"
+type: species
+tags:
+  - lichen
+  - ascomycota
+  - foliose-lichen
+  - epiphyte
+  - bioindicator
+date: 2026-05-08
+updated: 2026-05-08
+sources:
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of North America*. Yale University Press.
+  - Hale ME (1979). "How to Know the Lichens." 2nd ed. Wm. C. Brown Company.
+  - Nash TH III (2008). *Lichen Biology*. 2nd ed. Cambridge University Press.
+  - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
+  - Gauslaa Y, Solhaug KA (2001). "Fungal melanins as a sun screen." *Mycological Research* 105: 845-852.
+---
+
+## Overview
+
+**Flavoparmelia caperata**, the common greenshield lichen, is a large foliose lichen in the
+family Parmeliaceae. It is among the most frequently encountered lichens on tree bark in
+temperate regions worldwide.
+
+The species is immediately recognizable by its broad, pale green to yellow-green lobes
+with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It
+forms extensive rosettes up to 20 cm in diameter on trunks and branches.
+
+*F. caperata* is widely used as a bioindicator of air quality and forest continuity. Its
+presence and abundance correlate with atmospheric purity and the availability of stable
+substrates on mature trees.
+
+## Taxonomy and Morphology
+
+**Flavoparmelia caperata** (L.) A. Crespo & Divakar was originally described as *Lichen
+caperatus* by Linnaeus in 1753. It was long placed in the genus *Parmelia* before
+molecular phylogenetics supported its transfer to *Flavoparmelia*.
+
+The thallus is foliose, loosely adnate, forming broad rosettes 5–20 cm across. Lobes are
+irregularly lobate, 5–15 mm wide, with convex margins. The upper cortex is pale green to
+yellow-green and distinctly maculate.
+
+The upper surface displays a reticulate pattern of white pseudocyphellae (pores in the
+cortex) that are diagnostic for the species. The lower surface is black with sparse,
+simple to squarrose rhizines.
+
+Soredia are produced in well-defined marginal soralia that are initially capitate,
+becoming labriform (lip-shaped) at maturity. Apothecia are uncommon but occur as brown
+discs up to 5 mm diameter with a paler thalline margin.
+
+Spores are ellipsoidal, 10–14 × 6–8 µm, colorless, and single-celled. Pycnidia produce
+bacilliform conidia approximately 5 × 1 µm.
+
+**Chemical spot tests** are diagnostic: medulla K+ yellow → C+ pink, KC+ pink, P+ orange.
+The species contains usnic acid in the cortex and protocetraric acid in the medulla.
+
+## Distribution and Habitat
+
+*Flavoparmelia caperata* has a cosmopolitan distribution in temperate and subtropical
+regions. It occurs across Europe, North and South America, Africa, Asia, and Oceania,
+making it one of the most widely distributed foliose lichens.
+
+The species is primarily corticolous, growing on the bark of a wide range of deciduous
+and coniferous trees. It shows a strong preference for well-lit, moderately shaded trunks
+and branches rather than deep shade or full exposure.
+
+It thrives in areas with moderate to high humidity but tolerates drier microsites better
+than many foliose lichens. The species is absent from areas with significant sulfur
+dioxide pollution.
+
+*F. caperata* is particularly abundant in old-growth forests and wooded pastures with
+mature trees. It colonizes both acid and nutrient-rich bark, contributing to its broad
+ecological amplitude.
+
+Elevation range extends from lowlands to approximately 1,800 meters in mountain regions.
+It favors open woodlands and forest edges where light levels are adequate for
+photosynthesis.
+
+## Chemistry
+
+The secondary chemistry of *F. caperata* is dominated by usnic acid in the cortical layer
+and protocetraric acid in the medulla. These compounds serve defensive functions against
+herbivory, microbial infection, and UV radiation.
+
+Usnic acid, responsible for the yellow-green coloration of the upper cortex, exhibits
+broad-spectrum antibiotic and antifungal activity. It absorbs UV radiation, functioning as
+an effective photoprotectant for the underlying photobiont.
+
+Protocetraric acid in the medulla contributes to the species' characteristic K+ yellow
+→ C+ pink spot test reactions. This depsidone is common in Parmeliaceae and provides
+additional antimicrobial protection.
+
+Minor constituents may include atranorin and caperatic acid in some populations. Chemical
+variation has been documented across geographic range, with Mediterranean material
+occasionally differing from North American populations.
+
+## Ecological Role
+
+As one of the most abundant foliose lichens in temperate woodlands, *F. caperata*
+contributes significantly to canopy epiphyte biomass. It provides shelter and foraging
+substrate for diverse invertebrate communities including mites, nematodes, and insects.
+
+The species is an established bioindicator of air quality. Its tolerance threshold for
+sulfur dioxide is well documented, and its distribution patterns are used in national
+lichen monitoring programs across Europe and North America.
+
+*F. caperata* plays a role in forest nutrient cycling by intercepting atmospheric
+deposition and canopy throughfall. Leached minerals and trapped particulates are slowly
+released to the forest floor during rain events.
+
+It supports specialized lichenicolous fungi including *Niesslia* and *Lichenostigma*
+species that grow on its thallus. These parasitic relationships are generally non-lethal
+and contribute to overall lichen community diversity.
+
+## Conservation
+
+*Flavoparmelia caperata* is not considered threatened and is one of the most common
+foliose lichens in its range. However, local declines occur in heavily polluted or
+intensively managed agricultural landscapes.
+
+Loss of mature trees through forestry, urbanization, and agricultural intensification
+reduces available substrate. The species requires stable bark surfaces that develop over
+decades, making it slow to colonize young planted trees.
+
+Air quality improvements in many European countries since the 1980s have facilitated
+population recoveries in previously depauperate areas. This recovery is documented in
+long-term lichen resurvey studies.
+
+## See Also
+
+- [[normandina-pulchella]]
+
+- [[evernia-prunastri]]
+- [[lecanora-muralis]]
+- [[cladonia-portentosa]]
+- [[usnea-hirta]]
+- [[lichen-symbiosis]]

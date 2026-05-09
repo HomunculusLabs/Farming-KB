@@ -59,80 +59,27 @@ The Cannabis Health Index extensively references the work of Dr. William L. Cour
 - Those at risk for falls or confusion from psychoactive effects
 - Patients with cognitive impairment or dementia
 - Elderly patients who cannot tolerate THC's effects
-- See [[cannabis-elderly-patients]] for detailed considerations
-
-### Professional and Working Populations
-- Patients who need symptom relief during work hours
-- Professionals who cannot afford cognitive impairment
-- Individuals operating vehicles or machinery
-
-### Pregnancy and Breastfeeding
-- While cannabis use during pregnancy requires medical supervision, non-psychoactive preparations may offer a lower-risk option for severe nausea
-- THC crosses the placenta and enters breast milk; raw cannabis preparations minimize this exposure
-- Always consult with obstetric providers
-
-### Substance Recovery
-- Individuals in recovery who cannot use psychoactive substances
-- Patients using cannabis as a harm reduction tool from more dangerous substances
-- Those with history of substance misuse who need non-intoxicating options
-
-### Sensitive Individuals
-- People prone to cannabis-induced anxiety or paranoia
-- Patients with psychotic disorders who cannot tolerate THC
-- Individuals who dislike or fear psychoactive effects
-
-## (E)-Beta-caryophyllene: The Dietary Cannabinoid
-
-The Cannabis Health Index highlights (E)-beta-caryophyllene as a dietary cannabinoid available without cannabis:
-
-- **Natural sources**: Black pepper, cloves, cinnamon, rosemary, hops, caraway, oregano, basil, lavender
-- **CB2-selective**: Activates CB2 receptors without affecting CB1 (no psychoactivity)
-- **FDA-approved**: Already approved as a food additive, demonstrating safety
-- **Anti-inflammatory**: Potent anti-inflammatory properties through CB2 activation
-- **Accessible**: No legal restrictions, available in common kitchen spices
-- **Synergistic**: Combines well with cannabis-derived cannabinoids for enhanced effects
-
-This makes beta-caryophyllene particularly relevant for patients who:
-- Live in areas without legal cannabis access
-- Cannot tolerate any form of cannabis
-- Want to supplement cannabinoid therapy with dietary sources
-- Seek anti-inflammatory benefits without any psychoactive risk
-
-## Other Non-Psychoactive Cannabis Preparations
-
-### CBD-Isolate Products
-- Pure CBD extracted from cannabis or hemp
-- Completely non-psychoactive (THC-free)
-- Available as oils, capsules, topicals, and edibles
-- May be less effective than full-spectrum preparations due to loss of entourage effect
-
-### CBD-Dominant Strains
-- Cannabis strains bred for high CBD and low THC (typically <0.3% THC)
-- Legally classified as hemp in many jurisdictions
-- Provide full-spectrum benefits with minimal psychoactivity
-- Charlotte's Web is the most famous example, developed for pediatric epilepsy
-
-### Topical Preparations
-- Cannabis-infused creams, balms, salves, and oils
-- Minimal systemic absorption means no psychoactive effects
-- Ideal for localized pain, inflammation, and skin conditions
-
-### Tinctures (Sublingual)
-- CBD-rich tinctures placed under the tongue
-- Faster onset than oral ingestion
-- Precise dosing through dropper
-- Minimal psychoactivity when THC content is low
-
-## The Therapeutic Advantage of Non-Psychoactive Preparations
-
-Dr. Courtney's central insight is that non-psychoactive cannabis preparations may actually be MORE therapeutic than psychoactive ones for many conditions:
-
-- **Higher dosing possible**: Without psychoactive ceiling, patients can consume much larger amounts of therapeutic cannabinoids
-- **All-day use**: Non-psychoactive preparations can be used throughout the day without functional impairment
-- **Compliance**: Patients more likely to adhere to treatment when it doesn't interfere with daily life
-- **Broader accessibility**: Available to populations who cannot use psychoactive cannabis
-
-See also: doi entity, [[cannabis-indoor-growing-basics]], [[cannabis-indoor-growing-basics]], [[cannabis-elderly-patients]], [[fruit-tree-grafting-guide]], [[cannabis-administration-methods-comparison]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- See [[cannabis-indoor-growing-basics]], [[cannabis-elderly-patients]], [[cannabis-administration-methods-comparison]]
 - [[cannabis-terpene-entourage-effect-profiles]]
-- [[cannabis-for-epilepsy-and-seizure-disorders]]
+- [[jungle-juice]]
+
+- [[afghani-cannabis]]
+## Practical Considerations
+
+Successful implementation of Cannabis Raw Juice and Non-Psychoactive Therapies requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

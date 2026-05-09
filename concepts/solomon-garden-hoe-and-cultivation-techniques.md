@@ -11,8 +11,7 @@ tags: [cultivation, gardening]
 
 # Solomon Garden Hoe and Cultivation Techniques
 
-In "Gardening When It Counts," [[composting-science-solomon]] calls the garden hoe
-the single most important [[garden-hand-tools-solomon]] for
+In "Gardening When It Counts," [[garden-hand-tools-solomon]] for
 low-input vegetable gardening. Of all hoes in his collection, only one
 gets regular use -- the swanneck hoe, properly fitted and kept sharp.
 
@@ -102,32 +101,7 @@ you. The sharp blade still cuts small weeds, working like a scraper.
   sharp.
 - **Making furrows**: Pull the blade through soil for seeding furrows.
   With practice, depth is quite uniform -- critical for even
-  [[seed-germination-techniques-solomon]].
-- **Covering seeds**: Use the flat of the blade to push soil back over
-  furrows.
-- **Hilling potatoes**: Pull earth toward you. For large potato plots,
-  use a larger, heavier hoe.
-
-## Push-Pull Hoes
-
-Solomon singles out one special design: the push-pull hoe ("hula hoe" or
-"stirrup hoe"). Its blade cuts on both push and pull strokes.
-
-- **Stirrup hoe**: Simple design that protects plants from accidental
-  cutting while passing close to vegetables.
-- **Propeller hoe**: Slides better between rows whose leaves are closing
-  the canopy, since its mechanism sits about four inches above the
-  cutting edge.
-
-Run over beds once weekly and a push-pull hoe keeps even a large garden
-manicured with minimal effort. Both are available through mail-order
-garden suppliers.
-
-## See Also
-
-- [[garden-hand-tools-solomon]]
-- [[garden-hand-tools]]
+  [[garden-hand-tools-solomon]]
 - [[solomon-raised-beds-and-bed-preparation]]
-- [[solomon-thinning-spacing-and-direct-seeding]]
 - [[deep-bed-cultivation]]
 - [[intensive-gardening-critique-solomon]]

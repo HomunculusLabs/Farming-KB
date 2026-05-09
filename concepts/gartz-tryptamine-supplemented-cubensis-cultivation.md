@@ -1,7 +1,7 @@
 ---
 title: "Gartz: Tryptamine-Supplemented Cubensis Cultivation"
 created: 2026-04-28
-tags: [mycology, potency, tryptamine, biosynthesis, research]
+tags: [[mycology, potency, tryptamine, biosynthesis, research]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/tryptamine-cubensis-gartz.md]
@@ -126,8 +126,6 @@ production approaches.
 
 ## Related Topics
 
-- [[psilocybin-biosynthetic-metabolic-pathway]] for pathway details
 - [[oss-oeric-dosage-guidelines-and-potency]] for dosing context
-- [[oss-oeric-drying-and-preservation-methods]] for psilocin stability
 - [[oss-oeric-growing-parameters-cubensis]]
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]

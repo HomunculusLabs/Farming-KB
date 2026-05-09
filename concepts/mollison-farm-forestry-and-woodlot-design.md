@@ -141,8 +141,6 @@ design systems.
 
 ## See Also
 
-- [[permaculture-multipurpose-trees]]
-- [[faires-coppicing-and-woodlot-management]]
-- [[mollison-avenue-cropping-with-legumes]]
+- [[woodlot-and-coppicing]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[mollison-windbreak-design]]

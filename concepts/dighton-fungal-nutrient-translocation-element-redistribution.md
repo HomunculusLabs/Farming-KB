@@ -112,8 +112,6 @@ in nutrient-poor ecosystems such as boreal forests and heathlands.
 
 ## See Also
 
-- [[fungal-nutrient-translocation-mycelial-systems]]
 - [[dighton-mycorrhizal-networks-carbon-transfer]]
-- [[fungal-nutrient-dynamics-imaging]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]
 - [[fungal-mineral-nutrient-immobilization]]

@@ -109,18 +109,10 @@ The progression from fluorine through methyl, ethyl, bromine, and iodine at the 
 
 ## Related Compounds
 
-- [[2c-b-entity]] -- the 4-bromo analogue (highly active)
-
 - [[2c-i-compound-profile]] -- the 4-iodo analogue (highly active)
 
-- [[2c-d-entity]] -- the 4-methyl analogue
-
-- [[2c-e-entity]] -- the 4-ethyl analogue
-
-- [[dob-entity]] -- the amphetamine version of 2C-B
+- [[2c-e]] -- the 4-ethyl analogue
 
 - [[doi-entity]] -- the amphetamine version of 2C-I
-
-- [[2c-family-compounds-overview]] -- 2C family overview
 
 - [[phenethylamine-pharmacology]] -- general pharmacology

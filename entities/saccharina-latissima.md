@@ -107,14 +107,8 @@ Kelp forests attenuate wave energy by 50–70%, contributing to coastal protecti
 
 ## See Also
 
-- [[laminaria-digitata]] — closely related oarweed sharing North Atlantic habitat and ecology
 - [[porphyra-umbilicalis]] — red alga with complementary nutritional profile and bioactive compounds
-- [[chondrus-crispus]] — Irish moss with carrageenan chemistry parallel to alginate in industrial use
 - [[palmaria-palmata]] — dulse, a co-occurring red alga with high protein for nutritional comparison
-- [[ulva-lactuca]] — green alga sharing intertidal and subtidal habitat with sugar kelp
-- [[bioremediation]] — kelp cultivation for coastal nutrient extraction and water quality management
 - [[permaculture]] — coastal permaculture incorporating sugar kelp aquaculture systems
-- [[carbon-sequestration]] — cultivated kelp forests as blue carbon sinks
-- [[mycoremediation]] — fungal approaches to water quality complementary to algal systems
-- [[polyculture]] — multi-trophic aquaculture integrating kelp with other marine species
+- carbon sequestration — cultivated kelp forests as blue carbon sinks
 - [[agroforestry]] — multi-trophic aquaculture design parallels terrestrial agroforestry systems

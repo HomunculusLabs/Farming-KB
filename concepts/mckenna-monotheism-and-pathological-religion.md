@@ -89,33 +89,16 @@ The Wasson-Eliade debate has broader implications for the understanding of relig
 McKenna extended this argument to propose that the "perennial philosophy" — the recognition, found across mystical traditions, that consciousness is primary and the material world is derivative — may have its origins not in abstract metaphysical speculation but in the direct experience of ego dissolution induced by psychoactive plants. The similarities between Buddhist voidness, Hindu Brahman, Taoist emptiness, and the psychedelic experience of unity are, in this reading, not coincidental but phenomenological — they describe the same experience, reached through different means.
 
 See also:
-- [[dominator-culture-and-partnership-society]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-techniques-of-ecstasy]]
 - [[mckenna-psychedelic-shamanism]]
-- [[consciousness-and-psychedelics]]
 - [[mckenna-catalyzing-consciousness-and-language]]
-- [[psychedelic-plants-and-civilization]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
+- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
-
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
-- [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

@@ -105,16 +105,10 @@ Research on *F. mosseae* has contributed significantly to understanding the "myc
 
 ## See Also
 
-- [[rhizophagus-irregularis]]
 - [[glomus-mosseae]]
-- [[glomus-intraradices]]
 - [[mycorrhiza]]
-- [[pisolithus-tinctorius]]
 - [[laccaria-bicolor]]
-- [[glycine-max]]
 - [[stropharia-rugosoannulata]]
-- [[rhizosphere]]
-- [[gigaspora-marginata]]
+- rhizosphere
 - [[glomus-fasciculatus]]
-- [[phaseolus-vulgaris]]
 - [[pisum-sativum]]

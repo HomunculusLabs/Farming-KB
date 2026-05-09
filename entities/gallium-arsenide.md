@@ -26,17 +26,7 @@ The material is important because it has a direct band gap rather than the indir
 That direct gap lets electrons and holes recombine efficiently by emitting photons.
 For this reason GaAs is a standard material for infrared LEDs, laser diodes, and high-speed optoelectronics.
 It also appears in microwave electronics where high electron mobility and high saturated velocity matter.
-In this wiki it connects directly to [[semiconductor-band-structure]] as a reference example of a direct-gap semiconductor.
-
-## Entity Type
-- Category: inorganic chemical compound.
-- Formula: GaAs.
-- Constituent elements: gallium and arsenic.
-- Semiconductor family: III-V compound semiconductor.
-- Crystal structure: zinc blende under ordinary device conditions.
-- Band-gap character: direct gap.
-- Typical role: optoelectronic and radio-frequency semiconductor.
-- Wiki relevance: contrast case against indirect-gap [[silicon]].
+In this wiki it connects directly to [[silicon]].
 
 ## Physical and Electronic Identity
 GaAs is not simply doped silicon with a different impurity package.
@@ -99,38 +89,6 @@ GaAs wafers are also more expensive and often more fragile.
 Thus GaAs complements silicon rather than replacing it across the electronics industry.
 
 ## Band-Structure Relevance
-In [[semiconductor-band-structure]], GaAs is the textbook direct-gap comparison material.
-The conduction-band minimum and valence-band maximum occur at the same crystal momentum.
-A photon can therefore carry away energy without needing a phonon to fix momentum balance.
-This makes radiative recombination relatively efficient.
-That fact explains why GaAs can make practical LEDs and diode lasers.
-It also explains why silicon, despite dominating electronics, is a poor ordinary light emitter.
-GaAs demonstrates how band topology can be as important as band-gap size.
-
-## Safety and Environmental Notes
-GaAs contains arsenic, so cutting, grinding, etching, and disposal require controls.
-The intact crystalline compound is not handled like free arsenic powder.
-However, processing can generate arsenic-containing dusts, vapors, solutions, or wastes.
-Industrial wet etching may oxidize arsenic species and produce hazardous residues.
-Fabrication facilities therefore treat GaAs waste streams as regulated chemical materials.
-End-of-life recovery and safe handling matter for devices containing compound semiconductors.
-These concerns are part of why material selection includes process safety as well as performance.
-
-## Related Entities and Concepts
-- [[silicon]] -- the dominant indirect-gap semiconductor used for mainstream integrated circuits.
-- [[semiconductor-band-structure]] -- explains the direct-gap distinction that makes GaAs optically useful.
-- Gallium -- group 13 element supplying the III component of GaAs.
-- Arsenic -- group 15 element supplying the V component of GaAs.
-- Indium gallium arsenide -- related III-V alloy used for longer-wavelength optoelectronics.
-- Aluminum gallium arsenide -- related alloy used in GaAs heterostructures.
-
-## Summary
-Gallium arsenide is the canonical high-performance direct-gap III-V semiconductor.
-Its value comes from the combination of efficient optical transitions and fast electron transport.
-Those same advantages are balanced by cost, arsenic handling, substrate fragility, and weaker oxide technology.
-For wiki navigation, it is best treated as the direct-gap counterpart to silicon in semiconductor examples.
-
-## See Also
+In [[silicon]] -- the dominant indirect-gap semiconductor used for mainstream integrated circuits.
 - [[singh-selenium-arsenic-biotransformation-fungi]]
-- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]

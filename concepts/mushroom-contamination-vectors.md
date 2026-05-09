@@ -140,11 +140,8 @@ favor mushrooms over competitors is the central challenge of
 cultivation. Controlling one vector of contamination must be coupled
 with creating an environment more conducive to mushroom growth than
 to competitor organisms.
-
 ## See Also
 
-- [[grain-spawn-generation]] for spawn preparation methods
 - [[mushroom-sterile-technique]] for laboratory protocols
-- [[mushroom-cultivation-troubleshooting-guide]] for diagnosing specific problems
 - [[enriched-sawdust-cultivation]] for substrate sterilization
 - [[mushroom-cultivation-sterile-laboratory-design]] for facility design principles

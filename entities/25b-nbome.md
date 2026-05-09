@@ -134,16 +134,10 @@ overdose risk.
 - **2C-B:** Parent compound; milligram-range potency, oral
 bioavailability.
 - **25I-NBOMe:** Iodo analogue; most widely encountered NBOMe.
-- **25C-NBOMe:** Chloro analogue; slightly lower potency.
-- **25D-NBOMe:** Desmethyl analogue; lowest potency in series.
-- **DOI:** Related 2,5-dimethoxy-4-iodoamphetamine research compound.
-- **LSD:** Often misrepresented on blotter; distinct pharmacology and
-lower potency.
+- **[[psychedelic-harm-reduction]]
+
+- [[serotonin]]
 
 ## See Also
 
-- [[psychedelic-harm-reduction]]
-
-- [[25i-nbome]]
-
-- [[serotonin]]
+- [[optical-isomers-psychedelic-phenethylamines]]

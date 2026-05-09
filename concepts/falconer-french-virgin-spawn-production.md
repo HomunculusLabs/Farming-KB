@@ -1,17 +1,7 @@
 ---
 title: Falconer French Virgin Spawn Production
 created: 2026-04-28
-tags: [mushroom-cultivation, spawn, french-method, lachaume, victorian-gardening, mycelium]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - ~/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
-
-# French Virgin Spawn Production
-
-William Falconer devoted considerable attention to the French methods
+tags: [[william-falconer]] devoted considerable attention to the French methods
 of producing virgin spawn, drawing extensively from M. Lachaume's
 authoritative book "The Cave Mushroom." Virgin spawn is natural spawn
 that has not yet produced mushrooms and is far more vigorous than
@@ -128,7 +118,5 @@ again.
 
 ## See Also
 
-- [[falconer-mushroom-spawn-types-and-merits]] for comparison of brick and flake spawn
 - [[falconer-mushroom-spawn-preparation]] for English brick spawn making
-- [[falconer-steeped-spawn-and-transplanting]] for steeped spawn techniques
 - [[falconer-paris-cave-mushroom-cultivation]] for cave cultivation context

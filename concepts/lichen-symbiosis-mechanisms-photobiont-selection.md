@@ -3,7 +3,7 @@ title: Lichen Symbiosis Mechanisms and Photobiont Selection
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi, symbiosis]
+tags: [[mycology, fungi, symbiosis]
 sources: []
 ---
 # Lichen Symbiosis Mechanisms and Photobiont Selection
@@ -94,15 +94,12 @@ Lichens produce a remarkable diversity of secondary metabolites (often called "l
 
 ## Comparison with Other Fungal Symbioses
 
-Lichen symbiosis represents one of several major [[fungal-symbiosis-types]] in nature. Unlike [[arbuscular-mycorrhizal-fungi]] that form associations with plant roots for nutrient exchange, or [[endophytic-fungi]] that inhabit plant tissues internally, lichen fungi create an entirely new organismal structure with their photosynthetic partners. The study of lichen symbiosis mechanisms contributes to our broader understanding of [[fungal-symbiosis-with-plants-beyond-mycorrhizae]].
+Lichen symbiosis represents one of several major [[arbuscular-mycorrhizal-fungi]] that form associations with plant roots for nutrient exchange, or [[fungal-symbiosis-with-plants-beyond-mycorrhizae]].
 
 ## See Also
 
-- [[lichens]]
 - [[lichen-biology-guide]]
-- [[lichenized-fungi-detailed]]
 - [[lichenized-fungi-diversity]]
-- [[lichenicolous-fungi]]
 - [[fungal-symbiosis-types]]
 
 ## Related

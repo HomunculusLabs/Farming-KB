@@ -23,40 +23,6 @@ the homestead integrates livestock into its broader food production system.
 
 ## Rabbit Husbandry
 
-[[rabbit-husbandry]]
-
-Rabbits are the most space-efficient meat animal available to homesteaders. A
-breeding trio of one buck and two does, housed in a space no larger than a
-garden shed, produces 80 to 100 or more pounds of meat per year. The
-reproductive cycle is rapid: does kindle (give birth) to litters of six to
-twelve kits, four to six times per year, with kits reaching harvest weight of
-four to five pounds in just eight to twelve weeks. The feed-to-meat conversion
-ratio is highly favorable, and rabbits can supplement commercial pellets with
-hay, fresh greens, and garden surplus.
-
-The management advantages extend beyond space. Rabbits are quiet — a
-significant consideration for urban and suburban homesteaders with
-noise-sensitive neighbors. They produce minimal odor compared to other livestock
-when housing is kept clean. Rabbit manure is a "cold" manure that can be applied
-directly to gardens without composting, making it one of the most immediately
-useful fertility sources. Rabbit pelts provide a valuable secondary product for
-tanning, and certain breeds (Angora) produce wool as a third output. Rabbits
-tolerate cold well, handling temperatures down to roughly zero degrees
-Fahrenheit with adequate shelter.
-
-The limitations are substantial. Rabbits are extremely heat-sensitive —
-temperatures above 85 degrees Fahrenheit cause heat stroke and can be fatal,
-requiring active cooling measures in summer (frozen water bottles, shade cloth,
-fans). Poor ventilation causes ammonia buildup that damages respiratory tracts,
-so housing must balance ventilation with protection. Kit mortality rates target
-under 15 percent but can spike from chilling, doe crushing, failure to nurse, or
-enteritis. Processing requires skill — cervical dislocation or the broomstick
-method — that creates a psychological barrier for some homesteaders. Colony
-housing systems reduce labor but introduce aggression, breeding-tracking
-difficulties, and higher disease transmission.
-
-## Chicken Keeping
-
 [[chicken-keeping]]
 
 Chickens are the most accessible and widely kept backyard livestock, valued
@@ -140,9 +106,6 @@ composted — provides balanced fertility for vegetable production.
 
 ## See Also
 
-- [[comparison-duck-keeping-vs-rabbit-husbandry]]
-
 - [[homesteading-livestock-comparison]]
-- [[comparison-chicken-tractor-vs-free-range]]
 - [[chicken-integration-permaculture-guide]]
 - [[rabbit-husbandry]]

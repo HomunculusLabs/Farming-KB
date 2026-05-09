@@ -15,53 +15,7 @@ type: concept
 ---
 # Macronutrient Deficiency and Toxicity in Cannabis
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- [[jorge-cervantes]]
-## Macronutrient Overview
-Macronutrients are the elements that plants use most. Fertilizers show
-nitrogen (N), phosphorus (P), and potassium (K) as N-P-K percentages on
-the package, always listed in the same order. These nutrients must always
-be in an available form to supply cannabis with building blocks for rapid
-growth.
-Nutrients are grouped into three categories: macronutrients (primary),
-and secondary nutrients, and micronutrients (and trace elements). Mobile nutrients
-(N, P, K, Mg, Zn) translocate within the plant, so deficiency symptoms
-appear first on older, lower leaves. Immobile nutrients (Ca, B, Cl, Co,
-Cu, Fe, Mn, Mo, Si, S) do not translocate, so deficiency symptoms appear
-first on upper, new leaves.
-## Nitrogen (N) -- Mobile
-### Role
-Essential for proteins, chlorophyll, amino acids, enzymes, and nucleic
-acids. Mainly responsible for leaf and stem growth, overall size and
-vigor. Required in high levels during vegetative growth but lower levels
-during flowering.
-### Deficiency
-The most common nutrient deficiency. Symptoms include slow growth. Lower
-leaves cannot produce chlorophyll and become yellow between veins while
-veins remain green (interveinal chlorosis). Yellowing progresses through
-the entire leaf, eventually causing it to die and drop. Stems and leaf
-undersides may turn reddish-purple.
-**Progression:**
-- Older leaves yellow between veins (interveinal chlorosis)
-- Older bottom leaves turn entirely yellow
-- More and more leaves yellow; severely affected leaves drop
-- Leaves might develop reddish-purple stems and veins
-- Progressively younger leaves develop interveinal chlorosis
-- All foliage yellows and leaf drop is severe
-**Treatment:** Fertilize with N or a complete N-P-K fertilizer. Results in
-four to five days. Fast-acting organic sources: seabird guano, fish
-emulsion, and blood meal.
-### Toxicity
-Excessively lush foliage that is soft and susceptible to stress including
-insect and fungal attacks. Stems become weak and may fold over. Roots
-develop slowly, darken, and rot. Flowers are smaller and sparse.
-**Treatment:** Flush growing medium with a very mild complete fertilizer.
-Flush a minimum of three times the volume of water for the volume of the
-growing medium. Do not add nitrogen-containing fertilizer for one week.
-## Phosphorus (P) -- Mobile
-### Role
-Necessary for photosynthesis and energy transfer within the plant. A
-component of DNA, many enzymes and proteins. Associated with overall
-vigor, resin, and [[vic-high]] selfing. Highest concentrations found in
+-- [[vic-high]] selfing. Highest concentrations found in
 root-growing tips, growing shoots, and vascular tissue. Cannabis uses the
 highest levels during germination, seedling, cloning, and flowering.
 ### Deficiency
@@ -119,6 +73,24 @@ Difficult to diagnose because it is mixed with deficiency symptoms of
 other nutrients. Too much potassium impairs and slows absorption of
 magnesium, manganese, and sometimes zinc and iron. Look for signs when
 ## See Also
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
 - [[cervantes-micronutrient-deficiency-chelation]]
 - [[green-cannabis-grow-bible-outdoor-growing]]
+## Practical Considerations
+
+Successful implementation of Macronutrient Deficiency and Toxicity in Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

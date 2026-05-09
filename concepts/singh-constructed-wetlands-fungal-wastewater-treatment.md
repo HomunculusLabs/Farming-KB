@@ -44,74 +44,7 @@ critical decomposition functions:
 These enzymatic capabilities enable the microbial communities to break
 down complex organic compounds in wastewater, reducing BOD and degrading
 recalcitrant pollutants. Fungi are particularly important due to their
-ability to produce [[ligninolytic-enzymes]] that can degrade phenolic
-compounds and other recalcitrant organic molecules.
-
-## Fungal Role in Pulp Mill Effluent Treatment
-
-The role of constructed wetlands in paper mill effluent treatment by
-diverse microbial communities has not been given much consideration in
-the literature. However, fungi in wetland systems contribute to the
-degradation of lignin-derived compounds, chlorinated organics, and
-colored effluents from pulp and paper mills. The ability of white-rot
-fungi and other ligninolytic species to produce extracellular enzymes
-(laccase, manganese peroxidase, and lignin peroxidase) enables them to
-degrade complex aromatic pollutants that bacteria alone cannot efficiently
-process.
-
-## Phytoremediation and Multi-Process Systems
-
-Phytoremediation has received wide acclaim as a cost-effective remedy for
-contaminated sites. A multi-process phytoremediation system comprised of
-volatilization, photooxidation, microbial remediation, and
-phytoremediation proved more than twice as effective as phytoremediation
-alone for the removal of 16 priority PAHs from contaminated soil. This
-demonstrates the synergistic benefits of combining multiple treatment
-mechanisms in integrated systems.
-
-Pilot-scale constructed wetlands have been employed to treat
-PAH-contaminated water and wastewater. The combination of plant uptake,
-rhizosphere microbial degradation, and fungal enzymatic activity in
-wetland systems provides a robust and sustainable approach to treating
-contaminated water. Marsh macrophytes play an important role in the
-cleanup of petroleum hydrocarbons through a combination of direct uptake,
-enhancement of rhizosphere microbial activity, and physical stabilization
-of contaminated sediments.
-
-## Natural Attenuation
-
-Natural attenuation has become a popular and preferred cost-effective
-remedy for the degradation of hydrocarbons and other contaminants. This
-approach relies on naturally occurring biological, chemical, and physical
-processes to reduce contaminant concentrations over time without active
-intervention. Natural attenuation is applicable to both soil and
-groundwater contamination and includes intrinsic bioremediation by
-indigenous microbial communities.
-
-However, natural attenuation alone may not achieve regulatory cleanup
-goals within acceptable timeframes, particularly at heavily contaminated
-sites or for recalcitrant compounds. In such cases, enhanced
-bioremediation through bioaugmentation or biostimulation may be required
-to supplement natural attenuation processes.
-
-## Combined Biological Treatment Approaches
-
-Combined wastewater treatment approaches can achieve comprehensive
-remediation goals by integrating multiple biological treatment
-mechanisms:
-
-- **Fungal-bacterial co-cultures**: Combining the ligninolytic
-  capabilities of fungi with the metabolic versatility of bacteria
-  provides broader contaminant degradation potential.
-- **Phyto-microbial systems**: Plants provide root exudates that
-  stimulate rhizosphere microbial activity while simultaneously taking up
-  and translocating contaminants.
-- **Enzyme-assisted treatment**: Addition of purified or crude fungal
-  enzymes (laccase, peroxidases) to constructed wetlands can enhance
-  the degradation of specific recalcitrant compounds.
-
-The influence of compost bioaugmentation on PAH degradation has been
-studied, with [[fungal-bioaugmentation]] at PAH-contaminated sites showing
+ability to produce [[fungal-bioaugmentation]] at PAH-contaminated sites showing
 promise for enhancing natural degradation processes. Fungal-bacterial
 co-cultures and bioaugmentation are employed to overcome limitations
 associated with single-organism approaches.
@@ -143,7 +76,5 @@ compared to bacterial processes. Further research is needed to:
 
 ## See Also
 
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]
-- [[singh-mycorrhizal-rhizosphere-remediation]]
 - [[singh-fungal-lignin-degradation-pulp-effluents]]

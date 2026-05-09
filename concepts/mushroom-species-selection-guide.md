@@ -1,7 +1,7 @@
 ---
 title: Mushroom Species Selection Guide
 created: 2026-04-28
-tags: [mycology, species, cultivation, beginner]
+tags: [[mycology, species, cultivation, beginner]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -64,8 +64,7 @@ hardwood sawdust or logs as substrate. Two main cultivation methods:
   3-7 years. Requires outdoor space and patience (6-18 month wait for
   first fruiting). Traditional and low-input.
 - **Indoor sawdust blocks**: Supplemented hardwood sawdust in
-  sterilized bags. Requires pressure cooker [[sterilization]] and more
-  controlled [[fruiting-conditions]]. Yields faster (6-10 weeks) and
+  sterilized bags. Requires pressure cooker [[fruiting-conditions]]. Yields faster (6-10 weeks) and
   higher per substrate volume.
 
 Shiitake demands a cold shock (reduce temperature by 10-15°C for 24-48
@@ -107,32 +106,4 @@ outdoors.
 
 An advanced species requiring sterilized substrate (typically rice-based)
 and very precise environmental control. Grows at 18-22°C with high
-humidity. Light is required for proper [[fruiting-body-development]] and
-pigment production. Commercial cultivation uses liquid culture
-inoculation of sterilized grain or rice in jars. The market value is
-high, making it attractive despite the difficulty.
-
-### Morel (Morchella spp.)
-
-Among the most challenging mushrooms to cultivate reliably. No fully
-reliable indoor method exists, though some commercial operations have
-achieved consistent results using specific soil-based methods outdoors.
-Morels associate with certain tree species (elm, ash, tulip poplar) and
-require complex nutritional and environmental triggers. Not recommended
-for beginners.
-
-## Species Selection Matrix
-
-| Species | Difficulty | Substrate | Time to Fruit | Yield Potential |
-|---------|-----------|-----------|---------------|----------------|
-| Blue oyster | Easy | Straw/sawdust | 2-4 weeks | High |
-| Pink oyster | Easy | Straw | 2-3 weeks | Medium |
-| Wine cap | Easy | Wood chips | 4-12 months | Medium |
-| Shiitake | Intermediate | Sawdust/logs | 6-18 weeks | Medium-High |
-| Lion's mane | Intermediate | Sawdust | 4-6 weeks | Medium |
-| Maitake | Advanced | Sawdust | 8-12 weeks | Low-Medium |
-| Reishi | Advanced | Sawdust | 12-24 weeks | Low |
-| Cordyceps | Expert | Grain/rice | 6-8 weeks | Low |
-
-See also: [[grain-spawn-preparation]], [[substrate-pasteurization]],
-[[fruiting-chamber-design]], [[medicinal-mushroom-compounds]]
+humidity. Light is required for proper [[grain-spawn-preparation]], [[fruiting-chamber-design]], [[medicinal-mushroom-compounds]]

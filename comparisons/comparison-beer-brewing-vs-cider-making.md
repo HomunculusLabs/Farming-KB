@@ -23,27 +23,6 @@ Beer offers an enormous range of styles and deep creative control over the final
 
 ## Beer Brewing
 
-[[beer-brewing-basics]]
-
-Beer is built from four core ingredients: water, malted grain, hops, and yeast. Water makes up 90-95% of the finished beer, making its mineral profile surprisingly important to the final character. Malted grain provides the fermentable sugars and much of the flavor and color, with categories including:
-
-- **Base malts** provide the bulk of fermentable sugar and form the backbone of any beer
-- **Crystal/caramel malts** add sweetness, body, and color ranging from light gold to deep amber
-- **Roasted malts** contribute dark color and coffee, chocolate, or toffee-like notes
-
-Hops contribute bitterness, flavor, and aroma depending on when they are added during the boil. Early additions extract more bitterness, while late additions preserve delicate aromas. Yeast drives fermentation, with ale yeasts (top-fermenting, warm 60-75°F) and lager yeasts (bottom-fermenting, cool 35-50°F) being the two main families.
-
-There are two primary approaches to brewing:
-
-- **Extract brewing** is beginner-friendly and uses pre-made malt extract in liquid or dry form, skipping the mashing step entirely. It requires less equipment and time while still producing quality beer. This is the recommended starting point for new brewers who want to learn the fundamentals before committing to all-grain methods.
-- **All-grain brewing** is an intermediate-to-advanced method that starts from raw malted grain. It involves mashing (steeping grains at controlled temperatures to activate enzymes and extract sugars) and sparging (rinsing the grain bed to collect all available sugars), offering far greater control over the final product's body, color, and flavor.
-
-The full process flows through milling, mashing, lautering, boiling, cooling, fermenting (typically 1-4 weeks), conditioning, and finally bottling or kegging. Beer brewing demands more specialized equipment, including a large brew kettle, mash tun, fermenter, airlock, siphon, thermometer, hydrometer, and bottles or kegs. The investment in equipment and ingredients is higher, but the payoff is a highly customizable beverage.
-
-Homesteaders can grow their own grains and hops, creating a truly farm-to-glass product. Barley is the most common brewing grain, but wheat, rye, and oats are also used for different styles. Hops are perennial climbing plants that can be grown on trellises in many climates, and a single hop plant can produce enough cones for several batches of homebrew each year.
-
-## Cider Making
-
 [[cider-making-guide]]
 
 Cider making uses apples as its primary ingredient and is widely regarded as one of the most accessible fermentation projects available, simpler than both beer and wine in terms of both process and equipment. The key to good cider lies in the apple blend. Traditional cider apples fall into several categories:
@@ -118,8 +97,6 @@ Another hybrid method is to use beer yeast strains in cider, which can produce i
 
 ## See Also
 
-- [[beer-brewing-basics]] — Full guide to brewing beer at home
 - [[cider-making-guide]] — Complete cider making walkthrough
-- [[root-beer-making]]
 - [[history-of-beer-and-brewing]]
 - [[mushroom-infused-beer-brewing-principles]]

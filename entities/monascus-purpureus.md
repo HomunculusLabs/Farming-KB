@@ -103,22 +103,12 @@ In permaculture design, Monascus fermentation represents a rare example of a fun
 
 ## See Also
 
-- [[aspergillus-oryzae]]
 - [[saccharomyces-cerevisiae]]
-- [[neurospora-crassa]]
-- rhizopus
-- [[trametes-versicolor]]
-- [[pleurotus-ostreatus]]
+- [[trametes-versicolor-entity]]
 - [[agaricus-bisporus]]
-- [[lentinula-edodes]]
 - [[inonotus-obliquus]]
-- [[fomes-fomentarius]]
 - [[grifola-frondosa]]
-- [[armillaria-mellea]]
 - [[panus-tigrinus]]
-- [[stropharia-rugosoannulata]]
 - [[coprinus-comatus-detailed]]
-- [[volvariella-volvacea]]
 - [[morchella-esculenta]]
-- [[flammulina-velutipes]]
 - [[neurospora-crassa]]

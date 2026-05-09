@@ -3,7 +3,7 @@ title: Fungicolous Fungi on Spores, Sclerotia, and Oospores
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -95,17 +95,12 @@ These mycoparasitic relationships are being harnessed for biological control of 
 
 ## Research Methods
 
-Studying fungicolous fungi requires specialized [[soil-fungal-isolation-techniques]] to separate mycoparasites from their hosts. Direct observation of spore hyperparasitism can be achieved through microscopic examination of field-collected material, while [[fungal-culture-media-formulas-applications]] help isolate specific mycoparasites from soil samples. Molecular methods are increasingly used to identify mycoparasitic fungi directly from infected resting structures without the need for cultivation, which can be challenging given their often fastidious growth requirements.
+Studying fungicolous fungi requires specialized [[fungal-culture-media-formulas-applications]] help isolate specific mycoparasites from soil samples. Molecular methods are increasingly used to identify mycoparasitic fungi directly from infected resting structures without the need for cultivation, which can be challenging given their often fastidious growth requirements.
 
 ## See Also
 
-- [[fungicolous-fungi-parasites-associates]]
-
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 
-- [[saprobic-soil-fungi-ecology-survey]]
-
 - [[soil-fungal-isolation-techniques]]
-- [[mycoparasitic-fungi-biocontrol-agents]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]

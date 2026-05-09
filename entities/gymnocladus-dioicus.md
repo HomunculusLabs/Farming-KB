@@ -120,4 +120,4 @@ In modern agroforestry, the species is gaining attention as a climate-resilient 
 
 ## See Also
 
- [[robinia-pseudoacacia]] · [[gleditsia-triacanthos]] · cercis canadensis · [[caragana-arborescens]] · [[alnus-glutinosa]] · [[paulownia-tomentosa]] · [[ailanthus-altissima]] · [[permaculture]] · [[silvopasture]] · [[dynamic-accumulators]] · [[comfrey-symphytum-officinale]]
+ [[gleditsia-triacanthos]] · cercis canadensis · [[alnus-glutinosa]] · [[ailanthus-altissima]] · [[silvopasture]] · [[comfrey-symphytum-officinale]]

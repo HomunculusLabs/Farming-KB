@@ -134,10 +134,6 @@ alleys between.
 
 ## See Also
 
-- [[history-of-mushroom-cultivation]]
 - [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-bulk-substrates]]
-
 - [[falconer-mushroom-cellar-management]]
-- [[duggar-mushroom-growing-history-and-methods]]
 - [[duggar-mushroom-bed-preparation-and-casing]]

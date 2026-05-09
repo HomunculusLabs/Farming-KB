@@ -118,20 +118,12 @@ The progression from gardener to mini-farmer involves learning increasingly soph
 
 ## See Also
 
-- [[jeavons-double-digging-bed-preparation]] — Deep soil preparation technique
 - [[jeavons-flat-preparation-seedling-raising]] — Seedling production and transplanting
-- [[jeavons-composting-methods]] — Compost production for soil fertility
 - [[jeavons-companion-planting]] — Synergistic plant relationships
-- [[jeavons-master-planning-mini-farms]] — Whole system design and planning
 - [[jeavons-calorie-farming]] — Calorie-efficient crop selection
-- [[jeavons-carbon-farming]] — Carbon crops for compost production
 - [[jeavons-soil-fertility]] — Nutrient management and sustainability
-- [[jeavons-diet-design-self-sufficiency]] — Complete diet planning
 - [[jeavons-biointensive-spacing]] — Close plant spacing technique
-- [[jeavons-seed-saving-and-propagation]] — Open-pollinated seed preservation
 - [[jeavons-water-management-irrigation]] — Water-efficient growing techniques
-- [[jeavons-shade-netting-mini-greenhouses]]
 - [[jeavons-beneficial-herbs-nutrition]]
-- [[jeavons-energy-fiber-crops]]
 - [[jeavons-tree-cane-crops]]
 - [[jeavons-weed-management]]

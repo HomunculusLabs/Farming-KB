@@ -1,7 +1,7 @@
 ---
 title: "Community Design in Permaculture"
 created: 2026-04-28
-tags: [permaculture, community, intentional-community, stewardship,
+tags: [[permaculture, community, intentional-community, stewardship,
        organizational-structure, communication, governance]
 date: 2026-04-25
 updated: 2026-04-25
@@ -10,11 +10,7 @@ sources:
 type: concept
 ---
 
-# Community Design in [[permaculture]]
-
-Community design in permaculture addresses the social and
-organizational structures needed to sustain ecological systems over
-time. While [[permaculture-design]] is about creating architecture and
+# Community Design in [[permaculture-design]] is about creating architecture and
 infrastructure, community is one of the fundamental human needs that
 sustainability must address. Permaculture systems reach a much higher
 potential when plugged into the invisible structure of a community.
@@ -58,93 +54,27 @@ remains into a mission statement about three sentences long and a
 vision of three or four sentences.
 
 Remember that in permaculture you should endeavor to use and value
-diversity and [[integrate-rather-than-segregate]]. There may be intentions
-you have for your personal life that you wish for the community. The
-question is whether you can still live out your intention within the
-intention of the community. If so, then you have created community.
-
-## The Stewardship Mandala Organizational Structure
-
-The Stewardship Mandala is a non-hierarchal organizational structure
-providing autonomy for individuals while maintaining oversight. It is
-composed of individual lobes each headed by a Steward. A Steward is
-not one in charge; stewardship is a position of responsibility for
-caring for a resource for the benefit of the whole group. Each lobe
-represents a specific community function, analogous to departments in
-a business. The Steward does not necessarily do all the jobs
-themselves, but ensures the jobs are getting done, recruiting teams as
-needed.
-
-Within each lobe there can be sub-circles, each representing a more
-specific function within that lobe. Each sub-circle has its own
-sub-steward. There can be sub-mandalas within sub-mandalas, like
-individual organs within the body of an individual being that operates
-cooperatively within a larger community.
-
-For example, a community may have a Food Strategy Lobe with sub-circles
-of Gardens, Kitchen, the Food Co-Op, and Food Not Bombs. Each
-sub-circle would have its own sub-steward responsible for its function.
-
-## The Stewardship Council
-
-Together all of the Stewards of the main lobes form a Stewardship
-Council. The Council is a consensus body that sets the deliverables of
-each lobe. For example, the Council may decide that the Food Lobe
-needs to provide ten pounds of kale every month, or that the
-Education Lobe should run five courses a year.
-
-The goal of the Stewardship Council is not to micro-manage each lobe,
-but to enable communication and coordination between all of the
-different lobes to help them achieve their goals, as well as to
-provide quality check and accountability. In a worst case scenario the
-Council is empowered to remove or replace a Steward if their lobe is
-not performing its function.
-
-## Financial Structure
-
-Each lobe generates its own income if appropriate. The Steward keeps
-ten percent of net income for a discretionary fund and deposits the
-excess into a general fund overseen by the Stewardship Council.
-Individual Stewards can make proposals for how General Funds are used.
-
-## Synergistic Communication
-
-Even with set intention and organizational structure, the group still
-needs to communicate in a way that blends the best of everyone's ideas
-into one. Synergistic Communication is about using and valuing the
-diversity of individual ideas and integrating rather than segregating
-these ideas into a cohesive whole.
-
-The process begins with choosing a facilitator. A call-in opens the
-circle where each person says something focusing and inspirational.
-A check-in follows where the group takes a moment to see how everyone
-is doing. Then the group reviews what has been accomplished since the
-last meeting and proceeds to the agenda. The goal is to ensure that
-every voice is heard and that decisions emerge from the collective
-intelligence of the group.
-
-## Key Principles
-
-- Community amplifies permaculture systems: the network effect means
-  more people in the system creates more value for each individual
-- Set clear intention: a Mission and Vision Statement aligns the
-  community around shared goals while respecting individual diversity
-- Non-hierarchal organization works: the Stewardship Mandala provides
-  autonomy with accountability through distributed responsibility
-- Every member participates: membership should be contingent upon
-  agreement to contribute, embodying the permaculture ethic of fair
-  share
-- Communication must be synergistic: facilitation processes that value
-  diversity and integrate ideas create stronger collective decisions
-
-## Applications
-
-- Creating ecovillages with Stewardship Mandala governance that
-  distributes responsibility across food, building, education, and
-  outreach lobes
-- Organizing urban permaculture guilds where community members
+diversity and [[permaculture-guilds]] where community members
   coordinate seed swaps, work parties, and coordinated food
   strategies
-
 ## See Also
 - [[urban-permaculture-community-building-social-design]]
+## Practical Considerations
+
+Successful implementation of Community Design in Permaculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -120,12 +120,8 @@ acted on scheduling recommendations.
 
 ## See Also
 
-- [[ketamine]]
 - [[dextromethorphan]]
-- [[lsd]]
 - [[mdma]]
 - pcp
-- [[mxe]]
 - [[salvinorin-a-entity]]
-- [[dmt]]
-- [[psilocybin-compound]]
+- [[psilocybin]]

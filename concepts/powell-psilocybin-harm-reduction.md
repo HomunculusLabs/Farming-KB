@@ -38,16 +38,7 @@ some unwelcome symptoms." The theology student took the words of a sermon about 
 Christian message too literally and tried to leave the chapel, a struggle eset-and-setting notes this could have been countered by "administering some self-control rather than
 chlorpromazine" but acknowledges that the subjects were "essentially naive to psilocybin's
 psychological effect." This case illustrates that even in a carefully controlled research
-setting with favourable [[weil-psychedelic-experience-set-and-setting]], adverse reactions can occur — particularly with naive
-users who lack experience with the substance's effects.
-
-## Psychological Struggles as Inevitable
-
-The 25-year follow-up revealed that eight of the ten psilocybin subjects reported
-"psychological struggles" as negative aspects. Powell frames these not as side effects to be
-avoided but as inherent features of genuine psychedelic experience: "One sees oneself clearly
-without the superficial trappings of a contrived image and personality. Psilocybin also seems to
-force one to confront bad habits and neuroses. Nothing remains hidden to [[allegro-canaanite-religion-and-the-mushroom]]."
+setting with favourable [[allegro-canaanite-religion-and-the-mushroom]]."
 
 This psychological "shake-up" will often occur in persons "hitherto blind to self-knowledge."
 Powell warns that "further psychedelic experimentation will prove to be of negative value unless
@@ -68,10 +59,7 @@ The risk factors Powell identifies through this and other examples include:
 
 - Unresolved psychological conflicts and trauma (Koestler's POW memories)
 - Religious guilt or moral anxiety (Koestler's Catholic guilt)
-- Rigid personality structures resistant [[permaculture-design-principles]]
-- Expectation of entertainment rather than genuine engagement
-- Deep psychological wounds that have not been adequately addressed
-- Lack [[fukuoka-ignorant-agriculture-pit-of-knowledge]] about the substance's effects
+- Rigid personality structures resistant [[fukuoka-ignorant-agriculture-pit-of-knowledge]] about the substance's effects
 
 ## Indigenous Models of Safe Use
 
@@ -114,35 +102,6 @@ He argues that "any psychedelic substance with a powerful mystique seems to inst
 those who are unfamiliar with its effects and who are easily threatened by the unknown." This
 fear "often precedes persecution and the spreading of inaccurate information." Powell
 emphasises the importance of "an unconditional flow of informed, hysteria-free knowledge
-regarding the psychological action of visionary plants [[allegro-biblical-references-to-mushrooms-and-fungi]]."
-
-## The Non-Addictive Safety Profile
-
-As a harm reduction point, Powell notes that in the Harvard study of 175 subjects there was
-"no evidence for psychological or physical addiction, although 90% wished to repeat the
-experience. No hangovers were reported." Unlike alcohol, psilocybin does not stupefy and does
-not produce physical dependence. No psychological casualtiesdmtre reported even though more
-moderate doses had been used than in previous experimentation. In a six-month follow-up study
-none of the subjects developed enduring psychotic or neurotic symptoms.
-
-## Schizophrenia and Psychiatric Risk
-
-Powell briefly addresses psychiatric risk through his discussion of DMT research. He notes that
-DMT is found naturally in the human brain and has been investigated as a possible treatment
-for endogenous hallucinatory conditions like schizophrenia. The implication is that
-psychedelics' relationship to psychotic states is complex and not simply one of causation.
-However, he does not provide detailed contraindications for those with pre-existing psychiatric
-conditions, a gap that modern harm reduction guidance has since filled.
-
-## The Core Principle: Approach with a Good Heart
-
-Powell's distilled harm reduction wisdom comes from Graves' warning, which Powell says "still
-rings true today": "whoever prepares to eat hallucinogenic mushrooms should take as careful
-stock of his mental and moral well-being." The mushroom should be approached "cautiously and
-with a 'good heart.'" This combination of psychological preparation, respectful attitude, and
-informed understanding constitutes the essential harm reduction framework that runs throughout
-## See Also
-
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+regarding the psychological action of visionary plants [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 
 - [[powell-psilocybin-solution-psychedelics-and-problem-solving]]

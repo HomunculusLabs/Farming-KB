@@ -30,11 +30,7 @@ Rust fungi are obligate biotrophs that require living host tissue to complete th
 Smut fungi comprise more than 1,300 species in approximately 80 genera, infecting more than 4,000 host species across more than 75 angiosperm families. They are characterized by the production of dark, sooty masses of teliospores that replace host reproductive structures (flowers, seeds, or other organs). Key aspects include:
 
 - Most smut fungi are systemic, growing intercellularly throughout the host plant before producing teliospores in specific tissues.
-- Ustilago maydis (corn smut) is the best-studied species and serves as a model organism for plant-pathogen interactions and [[fungal-genetics]].
-- Smut fungi can cause significant yield losses in cereal crops (wheat, barley, corn, sorghum) and other agricultural plants.
-- Many smut species have complex mating-type systems requiring fusion of compatible haploid cells to establish infection.
-
-### [[biodiversity-powdery-mildews]] (Erysiphales)
+- Ustilago maydis (corn smut) is the best-studied species and serves as a model organism for plant-pathogen interactions and [[biodiversity-powdery-mildews]] (Erysiphales)
 
 Powdery mildews are obligate biotrophic ascomycetes that produce characteristic white, powdery colonies on leaf surfaces, stems, and flowers. They are among the most recognizable plant diseases:
 
@@ -82,15 +78,9 @@ Modern approaches to studying fungal pathogens include both traditional and mole
 
 ## See Also
 
-- [[systemic-fungal-pathogens-vertebrate-ecology]]
-
 - [[bloomfield-fungal-pathogens-and-parasites]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[fungal-plant-diseases]]
 
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[bloomfield-fungal-plant-pathogens]]
-- [[gadd-fungal-ecology-endophytes]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]
-- [[gadd-fungal-biodegradation-bioremediation]]
 - [[gadd-fungal-nutrition-metabolism]]

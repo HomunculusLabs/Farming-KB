@@ -63,20 +63,7 @@ restore the rodent population. This cascade of unintended
 consequences illustrates the insanity of intervening in natural
 systems without understanding their full complexity.
 
-## Pesticide Application on [[fukuoka-rice-dry-field-cultivation]]s
-
-Toxic chemicals are applied at least eight times a year on Japanese
-rice fields. Is it not odd then that hardly any agricultural
-scientists have bothered to investigate why the amount of insect
-damage in these fields remains largely the same as in fields where
-no pesticides are used? The first application does not kill off the
-hordes of rice leafhoppers, but the tens of thousands of young
-spiders on each square yard of land simply vanish, and the swarms
-of fireflies that fly up from the stands of grass disappear at
-once.
-
-The second application kills off the chalcid wasps, which are
-important [[fukuoka-natural-predator-protection]]s, and leaves victim dragonfly larvae,
+## Pesticide Application on [[fukuoka-natural-predator-protection]]s, and leaves victim dragonfly larvae,
 tadpoles, and loaches. Just one look at this slaughter would
 suffice to show the insanity of the blanket application of
 pesticides. Each spray eliminates not only target pests but the
@@ -85,25 +72,7 @@ pests in check.
 
 ## The Pollination Paradox
 
-The application of toxic pesticides to [[apple-tree-care]]s and hothouse
-strawberries kills off pollinating insects such as bees and
-gadflies, forcing man to collect the pollen himself and artificially
-pollinate each of the blossoms. Although he cannot even hope to
-replace the myriad activities of all the plants, animals, and
-microorganisms in nature, man goes out of his way to block their
-activities, then studies each of these functions carefully and
-attempts to find substitutes. What a ridiculous waste of effort.
-
-## The Principle of Non-Intervention
-
-No matter how hard he tries, man can never rule over nature. What
-he can do is serve nature, which means living in accordance with
-its laws. The fundamental error is the assumption that man can
-improve upon natural systems by selectively removing elements he
-finds inconvenient. Every removal triggers a cascade of secondary
-effects that ultimately proves more damaging than the original
-problem. The wise farmer works with nature's balancing mechanisms
-[[integrate-rather-than-segregate]] against them, recognizing that pests and predators
+The application of toxic pesticides to [[integrate-rather-than-segregate]] against them, recognizing that pests and predators
 exist in a dynamic equilibrium that no chemical can replicate.
 
 The lesson extends beyond agriculture to all human interactions
@@ -118,22 +87,5 @@ balance for millions of years without any help from humanity.
 The chain reaction described here begins with what appears to be
 a beneficial act: replanting logged forests with commercially
 valuable species. But this monoculture approach eliminates the
-diverse food sources that supported complex [[fungi-soil-food-webs]]. Small birds
-that fed on insects in mixed forests starve when only cedar and
-pine remain. Their disappearance releases beetle populations that
-would otherwise be controlled. The nematodes these beetles carry
-then attack the very trees that were planted, creating a self-
-defeating cycle that mirrors agricultural pest outbreaks.
-
-This pattern repeats throughout human attempts to "improve" upon
-nature. Whether in forests, fields, or orchards, the simplification
-of complex ecosystems always produces unexpected vulnerabilities.
-Diversity is not merely an aesthetic preference; it is the
-foundation of ecological resilience and the only reliable defense
-against catastrophic collapse.
-
-## See Also
-
-- [[fukuoka-natural-farming]]
-- [[fukuoka-touching-the-great-spirit]]
+diverse food sources that supported complex [[fukuoka-natural-farming]]
 - [[fukuoka-nelissen-farm]]

@@ -1,8 +1,8 @@
 # Forest and Bamboo Beneficial Microorganisms
 
-[[natural-farming]] systems across Asia rely on culturing beneficial [[indigenous-microorganisms]] (BIM) from local environments rather than purchasing commercial microbial inoculants.
+[[indigenous-microorganisms]] (BIM) from local environments rather than purchasing commercial microbial inoculants.
 
-The forest and bamboo microorganism collection methods, developed through the work of [[korean-natural-farming]] pioneer Dr. Han Kyu Cho and popularized by practitioners like Gil Carandang, represent some of the most accessible and cost-effective techniques for [[building-soil]] microbial diversity.
+The forest and bamboo microorganism collection methods, developed through the work of [[building-soil]] microbial diversity.
 
 These methods leverage the fact that healthy, undisturbed ecosystems already contain the microbial communities that sustainable agriculture needs.
 
@@ -100,45 +100,9 @@ When these microorganisms are cultured and applied back to the same crop species
 
 In practice, natural farmers combine multiple sources of microorganisms into a composite inoculant.
 
-The standard BIM recipe calls for 50% [[lactic-acid-bacteria]] (cultured separately from rice wash and milk) and 50% other collected microorganisms.
+The standard BIM recipe calls for 50% [[root-exudates]] create a selective environment that promotes specific microbial functional groups, likely including phosphate-solubilizing and growth-promoting bacteria.
 
-The remaining 50% can be divided among forest microorganisms, bamboo microorganisms, and plant-specific microorganisms in equal parts.
-
-The principle is that greater microbial diversity produces more robust and resilient soil ecology.
-
-Lactic acid bacteria dominate the formulation because of their versatility: they control odors in composting and animal production, aid nutrient decomposition, produce enzymes and natural antibiotics, and help control pathogens including Salmonella and E. coli.
-
-For plant applications, the full BIM mixture is used.
-
-For animal applications, pure lactic acid bacteria alone is preferred.
-
-Bamboo microorganisms are specifically favored for fermenting animal feeds.
-
-## The Science Behind Indigenous Microorganism Collection
-
-The effectiveness of these collection methods can be understood through several ecological principles.
-
-Old-growth forests with deep humus layers represent climax ecosystems with high microbial diversity and complex food webs.
-
-The microorganisms in these environments have co-evolved over centuries, creating stable, competitive communities.
-
-Bamboo's [[root-exudates]] create a selective environment that promotes specific microbial functional groups, likely including phosphate-solubilizing and growth-promoting bacteria.
-
-Plant-specific collection targets the phyllosphere and rhizosphere communities that have co-adapted with the host plant, including [[endophytic-fungi]] and bacteria that can enhance plant immunity.
-
-The use of cooked rice as a universal bait exploits the fact that carbohydrates are the primary energy source for most soil microorganisms.
-
-The subsequent addition of sugar or molasses shifts the community through succession, with tolerant species outcompeting others during fermentation.
-
-## Integration with Bionutrients
-
-Collected microorganisms are rarely used alone in natural farming systems.
-
-They are typically combined with fermented plant extracts (bionutrients) to create more effective preparations.
-
-Bionutrients serve as food sources for the beneficial microorganisms, encouraging their proliferation after application.
-
-Common bionutrient additions include fermented fruit juices (for growth promotion), [[fish-amino-acid]] (for nitrogen), and ginger-garlic extract (as a natural antibiotic).
+Plant-specific collection targets the phyllosphere and rhizosphere communities that have co-adapted with the host plant, including [[fish-amino-acid]] (for nitrogen), and ginger-garlic extract (as a natural antibiotic).
 
 The combination of diverse indigenous microorganisms with targeted bionutrients creates a comprehensive biological approach to soil fertility and plant health.
 

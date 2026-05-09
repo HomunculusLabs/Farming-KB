@@ -77,39 +77,7 @@ The higher colonization frequency at the polluted site suggests that mycorrhizal
 
 The distribution pattern confirms metal exclusion as a tolerance strategy: metals are sequestered in the epidermis, cortex, and endodermis while the vascular tissue remains relatively metal-free. This is consistent with observations in other plant species (Seregin and Ivanov, 2001).
 
-This compartmentalization has important physiological consequences. By restricting metals to outer root tissues, the plant protects sensitive metabolic processes in the stele from metal toxicity. The endodermis, with its Casparian strip, acts as a final barrier preventing metal translocation to the xylem and subsequent shoot accumulation. See [[gadd-fungal-metal-interactions]] for additional context on fungal roles in metal distribution.
-
-## Complementary Analytical Techniques
-
-Micro-PIXE is often used in combination with other microanalytical methods to provide a more complete picture of elemental distributions:
-
-- **EDX (Energy Dispersive X-ray) mapping in electron microscopy**: Provides higher spatial resolution but lower sensitivity for light elements
-
-- **SIMS (Secondary Ion Mass Spectrometry)**: Offers isotopic sensitivity and detection of light elements (H, Li, Be) not accessible to PIXE
-
-- **XANES/XANES-EXAFS**: Provides speciation information, distinguishing between different chemical forms of elements
-
-- **Laser ablation ICP-MS**: Combines spatial resolution with high sensitivity across a wide elemental range
-
-## Applications in Mycorrhizal Research
-
-Micro-PIXE enables researchers to:
-
-- Compare element distributions in mycorrhizal vs. non-mycorrhizal roots
-
-- Assess shifts in element deposition caused by mycorrhization
-
-- Quantify metal localization in specific root tissues
-
-- Study nutrient transport pathways in mycorrhizal roots
-
-- Evaluate the role of AMF in heavy metal tolerance
-
-- Map phosphorus distribution to assess mycorrhizal phosphorus delivery to cortical cells
-
-- Investigate how different AMF species influence metal partitioning within root tissues
-
-These applications are particularly relevant for [[mycorrhiza-soil-bioremediation]], where understanding metal localization patterns helps predict the effectiveness of mycorrhizal-assisted phytoremediation strategies.
+This compartmentalization has important physiological consequences. By restricting metals to outer root tissues, the plant protects sensitive metabolic processes in the stele from metal toxicity. The endodermis, with its Casparian strip, acts as a final barrier preventing metal translocation to the xylem and subsequent shoot accumulation. See [[mycorrhiza-soil-bioremediation]], where understanding metal localization patterns helps predict the effectiveness of mycorrhizal-assisted phytoremediation strategies.
 
 ## Limitations and Considerations
 
@@ -125,14 +93,8 @@ These applications are particularly relevant for [[mycorrhiza-soil-bioremediatio
 
 ## See Also
 
-- [[gadd-fungal-metal-interactions]]
-
 - [[mycorrhiza-soil-bioremediation]]
 
-- [[arbuscular-mycorrhizal-fungi]]
-
 - [[mycoremediation-heavy-metals-detailed]]
-- [[micro-pixe-element-localization-mycorrhizal-roots]]
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]

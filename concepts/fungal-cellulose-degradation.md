@@ -19,8 +19,7 @@ type: concept
 Cellulose is the most abundant organic polymer on Earth and the primary
 structural component of plant cell walls. The enzymatic decomposition of
 cellulose by fungi is fundamental to global carbon cycling and is a
-cornerstone of both [[fungal-ecology-decomposition-cycles]] and commercial
-[[mushroom-cultivation-overview]]. Understanding fungal cellulose degradation
+cornerstone of both [[mushroom-cultivation-overview]]. Understanding fungal cellulose degradation
 mechanisms is essential for improving bioremediation technologies, biofuel
 production, and mushroom substrate utilization.
 
@@ -110,41 +109,6 @@ components of plant cell walls.
 
 Most world mushroom production uses species grown on substrates prepared
 from lignocellulose wastes such as straw and sawdust. Species including
-[[agaricus-bisporus-cultivation-biology]], Pleurotus Ostreatus, and Lentinula Edodes
-have been widely used in physiological studies of cellulose decomposition
-to understand the role of cellulolytic systems in bioconversion of
-lignocellulose wastes to fruit bodies.
-
-Surprisingly little is known of the ecophysiology of the mycelia of these
-fungi in their natural environments. These are very different resources:
-soil and litter for Agaricus species, wood for Pleurotus and Lentinula.
-Published contrasts in their enzyme systems may relate to the autecology
-of their mycelia in these distinct habitats.
-
-## In Vivo Degradation
-
-Immunogold-cytochemical labelling studies have shown that cellulases are
-too large to penetrate intact, secondary wood cell walls. They remain close
-to the surface of fungal hyphae or adhere to the inner surface of the wood
-cell wall. Degradation occurs by surface interaction, but initiation of
-decay can occur at a distance from the hyphae, probably involving diffusible
-small molecules such as hydrogen peroxide, iron ions, and organic acids.
-
-## Applications
-
-Fungal cellulose degradation has applications beyond natural decomposition:
-
-- **Biofuel production:** Cellulases are essential for converting
-  lignocellulosic biomass to fermentable sugars
-- **Mushroom cultivation:** Cellulolytic activity determines how
-  efficiently fungi convert substrate to fruit bodies
-- **Animal feed:** Fungal pretreatment improves digestibility of residues
-- **Waste management:** Fungal cellulose degradation reduces waste volumes
-
-## See Also
-
-- [[lignin-degradation-by-fungi]]
-- [[fungal-enzymes-in-decomposition]]
+[[lignin-degradation-by-fungi]]
 - [[mushroom-substrate-preparation]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[mushroom-composting]]

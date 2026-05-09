@@ -120,11 +120,7 @@ Lavender serves as an excellent pollinator plant, attracting bees, butterflies, 
 
 ## See Also
 
-- [[melissa-officinalis]]
 - [[ocimum-basilicum]]
-- [[origanum-vulgare]]
-- [[rosmarinus-officinalis]]
-- [[salvia-officinalis]]
+- [[rosmarinus-officinalis-entity]]
 - [[scutellaria-baicalensis]]
-- [[thymus-vulgaris]]
 - [[verbena-officinalis]]

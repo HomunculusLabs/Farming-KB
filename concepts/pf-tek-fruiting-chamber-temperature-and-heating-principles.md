@@ -1,6 +1,6 @@
 ---
 title: PF TEK Fruiting Chamber Temperature and Heating Principles
-tags: [mycology, pf-tek, psilocybe-cubensis, fruiting, temperature, humidity, cultivation, mushroom-growing]
+tags: [[mycology, pf-tek, psilocybe-cubensis, fruiting, temperature, humidity, cultivation, mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [fanaticus-pf-tek-psilocybe-fanaticus]
@@ -124,10 +124,6 @@ All of these share the same mechanism of failure: they increase the rate of mois
 
 ## See Also
 
-- [[pf-tek-dual-chamber-terrarium-fruiting-conditions]] for terrarium construction and humidity management
 - [[pf-tek-spraying-and-ventilation-procedure]] for the correct misting technique
-- [[pf-tek-mushroom-growth-timeline]] for the full cultivation timeline from inoculation to harvest
 - [[pf-tek-low-humidity-symptoms-and-remediation]] for diagnosing humidity-related problems
-- [[pf-tek-aborts-and-potency-harvesting]] for harvesting guidance once fruiting begins
-
 - [[pf-tek-primordia-formation-and-pinning-process]]

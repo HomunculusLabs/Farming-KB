@@ -111,11 +111,7 @@ Trees begin bearing fruit at 5–7 years from seed, with full production at 15�
 
 ## See Also
 
-- [[acacia-mearnsii]] — nitrogen-fixing tropical tree for agroforestry
 - [[gliricidia-sepium]] — multipurpose leguminous agroforestry tree
-- [[leucaena-leucocephala]] — fast-growing nitrogen-fixing tree for tropics
 - [[moringa-oleifera]] — multi-purpose tropical tree with medicinal uses
-- [[azadirachta-indica]] — tropical tree with medicinal and insecticidal properties
 - [[glycyrrhiza-glabra]] — source of bioactive triterpenoid saponins
-- [[ceratonia-siliqua]] — Mediterranean pod-bearing tree analog (carob)
 - [[glycine-max-soybean-permaculture]] — nitrogen-fixing legume for agroforestry systems

@@ -8,13 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# [[permaculture-insectary-plants]] and Pest Repellent Plants
-
-Insectary plants attract beneficial insects for pollination and pest control, while pest repellent plants protect crops through chemical or physical means. "A Selection of [[permaculture-plants-fruit-trees-subtropical]]" (Nugent & Boniface, 2004) addresses this topic through its bee forage system, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] lists, and specific insecticidal plant species.
-
-## Bee Forage Systems
-
-Commercial beekeeping often involves transporting hives up to 1000 km to follow honey flow -- an enormous expense converting fossil fuel to honey with poor efficiency. [[permaculture-design]] instead establishes year-round honey flow at permanent hive sites, integrated within the whole property design.
+# [[permaculture-plants-fruit-trees-subtropical]]" (Nugent & Boniface, 2004) addresses this topic through its bee forage system, [[permaculture-design]] instead establishes year-round honey flow at permanent hive sites, integrated within the whole property design.
 
 Bees can effectively travel 2 miles from the hive. Where possible, nectar (N) and pollen (P) producing plants are used in preference to other utility plants offering no bee benefit.
 

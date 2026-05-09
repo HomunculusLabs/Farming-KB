@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-In his 1998 comparative analysis, Ralph Metzner identified four paradigms for understanding the use of psychoactive substances in healing and knowledge-seeking practices. The second paradigm, shamanic rituals of healing and divination, represents the oldest and most widespread form of entheogenic practice, spanning thousands of years and diverse indigenous cultures worldwide. These rituals differ profoundly from Western [[psychedelic-psychotherapy]] in their underlying worldview, particularly in their acceptance of multiple realities and the reality of spirit beings. Understanding these foundational practices is essential for grasping the origins and cultural context of modern [[entheogenic-mushroom-species]] use.
+In his 1998 comparative analysis, Ralph Metzner identified four paradigms for understanding the use of psychoactive substances in healing and knowledge-seeking practices. The second paradigm, shamanic rituals of healing and divination, represents the oldest and most widespread form of entheogenic practice, spanning thousands of years and diverse indigenous cultures worldwide. These rituals differ profoundly from Western [[entheogenic-mushroom-species]] use.
 
 ## The Shamanic Approach to Set and Setting
 
@@ -39,21 +39,7 @@ This intentional structuring makes the shamanic ceremony the logical as well as 
 
 ### Three Distinctive Features
 
-Metzner identifies three features that consistently distinguish traditional shamanic entheogenic ceremonies from Western [[psychedelic-psychotherapy]] sessions:
-
-1. **Minimal verbal interaction**: Traditional ceremonies involve very little or no talking among participants, except during preparatory phases or after the experience to clarify teachings and visions received
-2. **Essential role of singing**: The shaman's singing is invariably considered essential to the success of healing or divination. The singing typically has a fairly rapid beat, similar to the rhythmic pulse in shamanic drumming journeys widespread across Northern Hemisphere shamanistic societies. Psychically, the rhythmic chanting supports movement through the flow of visions and minimises the likelihood of getting stuck in frightening or seductive experiences
-3. **Darkness or low light**: Ceremonies are almost always conducted in darkness or low light, which facilitates the emergence of visions. The exception is the peyote ceremony, done around a fire (also at night), where participants may see visions while staring into the flames
-
-## The Role of the Shamanic Guide
-
-### Central Importance
-
-The role of the guide, curandera, or healer is always described as central and essential. This must be a person with extensive personal experience using these medicines, who agrees to provide an initiatory experience to a seeker or training to an apprentice. In virtually all entheogenic rituals, the guide or shaman does much or all of the singing, and this singing profoundly shapes the quality and content of the experience.
-
-### Training and Initiation
-
-Shamanic healers typically undergo lengthy initiation and training, sometimes lasting years, under the guidance of an experienced elder before working with others. This mirrors the consensus in Western [[psychedelic-psychotherapy]] that the therapist must have prior personal experience with the substances they work with, though the shamanic training is typically far more extensive and immersive.
+Metzner identifies three features that consistently distinguish traditional shamanic entheogenic ceremonies from Western [[psychedelic-psychotherapy]] that the therapist must have prior personal experience with the substances they work with, though the shamanic training is typically far more extensive and immersive.
 
 ## Varieties of Traditional Entheogenic Ceremonies
 
@@ -92,28 +78,7 @@ The ceremonies of the San Pedro cactus in Andean regions sometimes take place ar
 
 ### Iboga/Bwiti Ceremonies
 
-The ceremonies involving the African [[iboga-root-bark-preparation]] plant, used by the Bwiti cult in Gabon and Zaire, feature:
-
-- An altar with ancestral and deity images
-- Participants sitting on the floor with chanting and dancing
-- A mirror in the assembly room through which initiates may "see" their ancestral spirits
-- A powerful death-rebirth experience in which the initiate's "head is opened up"
-
-## Five Experiential Features of Shamanic Entheogenic Practice
-
-Anthropological literature consistently identifies five features of shamanistic experiences with hallucinogenic plants that imply a radically different worldview from the Western paradigm:
-
-### 1. Healing on Multiple Levels
-
-Shamanic healing experiences address physical, psychic, and spiritual levels without making analytical distinctions between them. Three main variations exist:
-
-- **Extraction**: Removal of a toxin implanted by sorcery
-- **Soul retrieval**: Recovery of a split-off psychic fragment or "soul"
-- **Dismemberment and reconstitution**: Experience of being destroyed and then reconstituted with a healthier, stronger "body"
-
-### 2. Access to Hidden Knowledge (Divination)
-
-The experience provides access to hidden knowledge, the aspect of divination, "seeing," prophecy, or visioning. When the intention is healing, divination functions as diagnosis, determining the source of illness and the appropriate remedy. Indigenous healers refer to the [[plant-teachers-ayahuasca|entheogenic plants]] as "plant teachers," recognising that an intelligence associated with the medicine communicates in an interior way to the person who ingests it.
+The ceremonies involving the African [[plant-teachers-ayahuasca|entheogenic plants]] as "plant teachers," recognising that an intelligence associated with the medicine communicates in an interior way to the person who ingests it.
 
 ### 3. Access to Metaphysical Realms
 
@@ -132,18 +97,12 @@ The experience may involve perception of nonmaterial, normally invisible spirit 
 The experience may include identification with a spirit, such as becoming a jaguar or a serpent. Healing and divination are experienced as being done by or with the assistance of such spirits, also referred to as "allies," "power animals," "guardians," or "helpers."
 ## Related
 
-- [[shamanic-healing-variants-and-divination]] Topics
-
 - [[metzner-four-paradigms-psychedelic-healing]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[icaros-power-songs]]
 - [[plant-teachers-ayahuasca]]
 
 ## See Also
 
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
 - [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]
-- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
 - [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
 - [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]

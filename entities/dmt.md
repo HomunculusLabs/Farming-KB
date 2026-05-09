@@ -1,20 +1,5 @@
 ---
-title: N,N-Dimethyltryptamine
-type: chemical
-tags:
-  - psychedelic-compound
-  - [[tryptamine-hallucinogens|tryptamine]]
-  - entheogen
-  - endogenous-compound
-  - schedule-i
-  - pharmacology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A.T. & Shulgin, A. (1997). TiHKAL. Transform Press.
-  - Strassman, R. (2001). DMT: The Spirit Molecule. Park Street Press.
-  - Szára, S. (1956). "Dimethyltryptamine: Its Metabolism in Man." Science.
-  - Dean, J. et al. (2019). "Pharmacology of N,N-dimethyltryptamine." Pharmacology & Therapeutics.
+title: "Dmt"
 ---
 
 # N,N-Dimethyltryptamine (DMT)
@@ -28,15 +13,7 @@ sources:
 - **SMILES:** CN(C)CCC1=CNC2=C1C=CC=C2
 - **Appearance:** White crystalline powder (freebase); white solid (fumarate salt)
 - **Melting point:** 44–46 °C (freebase); 165–168 °C (fumarate)
-- **Solubility:** Freebase soluble in organic solvents; fumarate water-soluble
-
-## Biosynthesis
-
-DMT is biosynthesized from **L-tryptophan** via two enzymatic steps:
-1. **L-Tryptophan → Tryptamine:** Decarboxylation by aromatic L-amino acid decarboxylase (AADC)
-2. **Tryptamine → NMT → DMT:** Sequential N-methylation by indolethylamine N-methyltransferase (INMT)
-
-INMT is expressed in the human pineal gland, cortex, and choroid plexus, supporting the endogenous DMT hypothesis, though psychedelic-relevant brain concentrations have not been conclusively demonstrated.
+- **Solubility:** Freebase soluble in organic solvents; fumarate [[pineal-gland-dmt-entheogenic-experience]], cortex, and choroid plexus, supporting the endogenous DMT hypothesis, though psychedelic-relevant brain concentrations have not been conclusively demonstrated.
 
 ## Natural Occurrence
 
@@ -60,12 +37,7 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 | **5-HT₂A** | ~200 nM | Full agonist (primary psychedelic mechanism) |
 | **5-HT₂C** | ~200 nM | Full agonist |
 | **5-HT₁A** | ~1 µM | Partial agonist |
-| **Sigma-1** | ~100 nM | Agonist |
-| **SERT** | ~2 µM | Substrate/inhibitor |
-
-### Mechanism
-1. **5-HT₂A agonism** on cortical layer V pyramidal neurons increases cortical excitability and amplifies thalamocortical signaling
-2. **DMN disruption:** Reduced default mode network connectivity correlates with ego dissolution
+| **[[default-mode-network-and-ego-dissolution]] connectivity correlates with ego dissolution
 3. **Entropy increase:** DMT produces the largest increase in brain signal diversity of any psychedelic studied
 4. **Sigma-1 activation:** Neuroprotective and anti-inflammatory effects via ER-mitochondrial signaling
 5. **Neuroplasticity:** BDNF/TrkB and mTOR pathway activation
@@ -96,13 +68,7 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 ## Traditional Use
 
 - **Ayahuasca:** Amazonian brew combining DMT plants with MAO-inhibiting *Banisteriopsis caapi*; used by 70+ indigenous groups for healing and divination; legally protected religious sacrament in Brazil and Peru
-- **Yopo/Vilca:** Roasted seed snuff in South America (pre-Columbian tradition)
-- **Epená:** Virola resin snuff used by Amazonian tribes
-- **Jurema wine:** *Mimosa tenuiflora* preparation in Northeastern Brazil
-
-## Modern Research
-
-- **Johns Hopkins:** First FDA-approved IV DMT trial for major depressive disorder (2021+)
+- **Yopo/Vilca:** Roasted seed snuff in South America ([[johns-hopkins-psychedelic-research]]:** First FDA-approved IV DMT trial for major depressive disorder (2021+)
 - **Imperial College London:** fMRI/EEG mapping of DMT's effects on brain connectivity
 - **Therapeutic targets:** Depression, anxiety, substance use disorders, PTSD, end-of-life anxiety
 - DMT has become a key tool for consciousness research due to its rapid, intense, reversible alterations of conscious state
@@ -123,7 +89,6 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 
 ## See Also
 
-- [[5-Methoxy-DMT]] — Related tryptamine with distinct pharmacological profile
-- [[psilocybin-mushroom-potency-and-dosage-guide]] — 4-PO-DMT, prodrug psychedelic tryptamine from mushrooms
-- [[entheogen-ayahuasca-admixture-plants]] — Traditional Amazonian DMT-containing brew
-- [[5-ht2a-receptor]] — Primary target mediating psychedelic effects
+- 5 Methoxy DMT — Related tryptamine with distinct pharmacological profile
+- [[entheogen-ayahuasca-admixture-plants]] — Traditional Amazonian [[dmt-containing-plants-and-maoi-combination]] brew
+- 5 ht2a receptor — Primary target mediating psychedelic effects

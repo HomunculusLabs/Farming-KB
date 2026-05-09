@@ -3,7 +3,7 @@ title: Fungal Invasive Species and Exotic Pathogens
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -99,15 +99,11 @@ This reduced pathogen pressure in the exotic range is thought to contribute to t
 
 This reduced pathogen load also suggests scope for selecting effective biocontrol pathogens from the plant's exotic range, where novel pathogen associations may exist that could be exploited for weed management.
 
-## Related Concepts
+## Related
 
 - [[fungal-mycoparasitism-and-biocontrol-interactions]]
-- [[fungal-allelopathy-mechanisms-and-ecological-effects]]
 - [[fungal-zoospore-biology-and-flagellate-motility]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[fungal-ecosystem-processes-overview]]
-- [[fungal-communities-succession]]
 - [[fungal-biodiversity-forest-ecosystems]]
-- [[fungal-competition-antagonism-soil]]
 - [[ectomycorrhizal-fungal-ecology]]
 - [[fungal-decomposition-succession-resource-quality]]

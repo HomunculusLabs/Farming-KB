@@ -15,79 +15,7 @@ Compounds including trichloroethylene (TCE), tetrachloroethylene (PCE), carbon t
 
 Chlorinated solvents are dense non-aqueous phase liquids (DNAPLs) that sink through groundwater to form persistent source zones, making remediation particularly challenging.
 
-This topic covers the general principles of chlorinated solvent bioremediation, complementing the fungal-specific discussion in [[fungal-biodegradation-chlorinated-aromatics-and-btex]].
-
-## Properties and Environmental Behavior of Chlorinated Solvents
-
-Chlorinated solvents are characterized by high density (typically 1.1 to 1.6 g/mL), low viscosity, and low water solubility.
-
-These properties cause chlorinated solvents to migrate vertically through the subsurface until they encounter low-permeability barriers, where they accumulate as DNAPL pools and ganglia.
-
-Dissolution from DNAPL source zones creates long-lasting groundwater plumes that can extend hundreds of meters from the source area.
-
-Chlorinated solvents are relatively resistant to aerobic biodegradation because the carbon-chlorine bonds are strong and the high degree of halogenation makes the molecules poor substrates for oxygenase enzymes.
-
-The chlorinated ethenes, PCE and TCE, are of particular concern because of their widespread use and their classification as probable human carcinogens.
-
-Reductive dechlorination, where chlorinated compounds serve as electron acceptors under anaerobic conditions, is the primary natural attenuation pathway for chlorinated ethenes in groundwater.
-
-The sequence of reductive dechlorination for chlorinated ethenes proceeds from PCE to TCE to cis-1,2-dichloroethene (cis-DCE) to vinyl chloride (VC) to ethene.
-
-Vinyl chloride is the most toxic intermediate in this sequence and is also a confirmed human carcinogen, making its complete dechlorination to ethene a critical objective for bioremediation.
-
-## Anaerobic Reductive Dechlorination
-
-Anaerobic reductive dechlorination is the most important biologically mediated pathway for chlorinated solvent detoxification.
-
-In this process, microorganisms use chlorinated compounds as terminal electron acceptors in a process called organohalide respiration or dehalorespiration.
-
-Dehalococcoides mccartyi is the only known microorganism capable of complete dechlorination of PCE and TCE all the way to non-toxic ethene.
-
-Other organohalide-respiring bacteria, including Dehalobacter restrictus, Desulfitobacterium hafniense, and Geobacter lovleyi, can partially dechlorinate PCE and TCE to DCE but generally cannot dechlorinate beyond DCE.
-
-The dechlorination process requires a supply of electron donors, which can include naturally occurring organic matter, fermented substrates such as lactate or acetate, or direct addition of hydrogen.
-
-Hydrogen is the direct electron donor for most organohalide-respiring bacteria, and its availability in the subsurface is often the rate-limiting factor for reductive dechlorination.
-
-Competing electron acceptors including nitrate, sulfate, and iron(III) can divert electron flow away from dechlorination, reducing treatment efficiency.
-
-Bioaugmentation with cultures containing Dehalococcoides mccartyi has been successfully applied at hundreds of chlorinated solvent sites, particularly where complete dechlorination stalls at DCE or vinyl chloride.
-
-Biostimulation through addition of electron donors such as lactate, emulsified vegetable oil, or hydrogen-releasing compounds is commonly used to enhance reductive dechlorination at field scale.
-
-[[biostimulation-techniques]] and [[bioaugmentation-strategies]] describe the application of these approaches to chlorinated solvent remediation.
-
-## Aerobic Cometabolism of Chlorinated Solvents
-
-Aerobic cometabolism provides a complementary pathway for chlorinated solvent degradation, particularly for TCE and DCE.
-
-Methanotrophic bacteria, which oxidize methane for energy and carbon, produce soluble methane monooxygenase (sMMO) that fortuitously oxidizes TCE and other chlorinated ethenes.
-
-The cometabolic oxidation of TCE by sMMO produces TCE epoxide, which rapidly decomposes to dichloroacetic acid, glyoxylic acid, carbon monoxide, and formic acid.
-
-The formation of toxic intermediates during cometabolism can inhibit or kill the degrading organisms, requiring careful management of substrate supply rates.
-
-Toluene-oxidizing bacteria produce toluene monooxygenase and toluene dioxygenase enzymes that also cometabolize TCE, though generally with lower transformation rates than sMMO.
-
-Ammonia monooxygenase, produced by nitrifying bacteria including Nitrosomonas europaea, can cometabolize TCE and other halogenated compounds during ammonia oxidation.
-
-Phenol-oxidizing bacteria and propane-oxidizing bacteria provide additional cometabolic pathways for chlorinated solvent degradation.
-
-The need for continuous supply of primary substrates (methane, toluene, ammonia, or propane) makes aerobic cometabolism more expensive to implement than reductive dechlorination for many site conditions.
-
-Aerobic cometabolism is most effective for dissolved-phase plume treatment where contaminant concentrations are relatively low and primary substrate delivery is feasible.
-
-## Combined Anaerobic-Aerobic Treatment
-
-Combined treatment trains that apply anaerobic reductive dechlorination followed by aerobic oxidation are increasingly recognized as the most effective approach for comprehensive chlorinated solvent remediation.
-
-Anaerobic treatment dechlorinates PCE and TCE to DCE and vinyl chloride, while subsequent aerobic treatment oxidizes the remaining chlorinated intermediates.
-
-This sequential approach addresses the primary limitation of reductive dechlorination, which often stalls at DCE or vinyl chloride without producing Dehalococcoides mccartyi.
-
-Sequential anaerobic-aerobic biobarriers have been designed for in situ treatment, with an upgradient anaerobic zone for reductive dechlorination and a downgradient aerobic zone for oxidation of residual intermediates.
-
-[[ectomycorrhizal-remediation]] describes the relative advantages of these deployment strategies for chlorinated solvent treatment.
+This topic covers the general principles of chlorinated solvent bioremediation, complementing the fungal-specific discussion in [[biostimulation-techniques]] and [[ectomycorrhizal-remediation]] describes the relative advantages of these deployment strategies for chlorinated solvent treatment.
 
 ## Monitoring and Assessment
 
@@ -99,9 +27,83 @@ Molecular biological tools including quantitative PCR targeting Dehalococcoides 
 
 Compound-specific isotope analysis (CSIA) can distinguish biodegradation from physical processes such as dilution and dispersion by measuring the isotopic enrichment of carbon and chlorine in residual contaminants.
 
-[[bioremediation-monitoring-and-assessment]] protocols for chlorinated solvent sites integrate chemical, biological, and geochemical parameters to evaluate treatment progress and optimize system performance.
-
-Electron donor consumption, metabolic byproduct accumulation (methane, ethene, chloride), and changes in oxidation-reduction potential provide additional lines of evidence for active dechlorination.
-- [[combined-biological-remediation-approaches]]
-- [[fungal-carbon-substrate-utilization-efficiency]]
+[[combined-biological-remediation-approaches]]
 - [[fungal-btex-and-chlorinated-monoaromatic-biodegradation]]
+## Practical Applications
+
+Bioremediation of Chlorinated Solvents has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Bioremediation of Chlorinated Solvents. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -99,15 +99,9 @@ The empty 1/3 volume of the lunch box is fully covered by white microorganisms (
 
 ## See Also
 
-- [[knf-imo-collection-methods]]
-
 - [[indigenous-microorganisms-imo]]
-- [[knf-imo-four-stage-cultivation]]
 - [[knf-oriental-herbal-nutrient]]
-- [[brown-rice-vinegar-brv]]
 - [[knf-mineral-liquid]]
-- [[knf-seawater-and-fermented-seawater]]
 - [[knf-seed-treatment-and-soil-foundation]]
-- [[knf-fermented-mixed-compost]]
 - [[knf-preparations]]
 - [[monster-cropping]]

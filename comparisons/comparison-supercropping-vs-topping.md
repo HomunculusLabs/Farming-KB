@@ -9,7 +9,7 @@ type: comparison
 ---
 # Supercropping vs Topping
 ## Overview
-Supercropping and topping are two high-[[low-stress-training]] (HST) techniques used primarily in
+Supercropping and topping are two high (HST) techniques used primarily in
 cannabis cultivation to manipulate plant architecture, increase yield, and optimize light
 distribution by disrupting apical dominance. Both techniques break the plant's natural tendency
 to grow a single dominant main stem at the expense of lower branches, but they achieve this
@@ -17,44 +17,14 @@ through different mechanical means. Topping removes the apical meristem entirely
 plant to split its energy between two new co-dominant leaders, while supercropping crushes and
 bends stems to create horizontal growth patterns without removing any plant tissue whatsoever.
 ## Supercropping
-[[supercropping]]
-Supercropping involves selectively crushing the soft inner tissue (the cambium and pith) of
-plant stems and carefully bending them to grow horizontally or at a significant angle from
-their natural vertical orientation. The technique is typically performed during the vegetative
-stage when stems are flexible enough to bend without snapping but mature enough to have
-developed sufficient structural integrity. The grower locates a suitable stem section, gently
-squeezes and rolls it between thumb and forefinger until the inner tissue softens and the stem
-becomes pliable, then carefully bends the stem to the desired angle, usually 90 degrees or more
-from vertical.
-The physiological response to supercropping is dramatic and multi-layered. At the bend point,
-the plant creates a knuckle or callus of reinforced vascular tissue that becomes structurally
-stronger than the original stem, capable of supporting heavy flower development during the
-bloom phase without requiring additional staking or support. The horizontal reorientation of
-the stem redistributes auxin (the primary hormone responsible for apical dominance) from the
-bent section to lower branch points along the stem, stimulating vigorous lateral growth from
-nodes that would otherwise remain dormant. This creates a wider, bushier canopy with multiple
-colas at similar heights.
-Supercropping is most effective when performed systematically across the entire plant, creating
-an even, flat canopy profile where all bud sites receive similar light intensity from the grow
-light above. The technique can be applied multiple times during the [[cannabis-vegetative-stage]],
+[[cannabis-vegetative-stage]],
 progressively training the plant into the desired horizontal structure ideal for indoor grow
 environments where light intensity drops off rapidly with distance from the source.
 Supercropped plants develop thick, reinforced stems that resist falling over under the weight
 of dense flower clusters. The technique requires practice to calibrate the correct pressure:
 too little and the stem springs back to vertical, too much and the stem snaps completely.
 ## Topping
-[[topping-cannabis]]
-Topping is the straightforward process of cutting off the apical meristem, the very top growing
-tip of the main stem, typically just above a node where two opposing leaf branches and their
-associated axillary buds are developing. The removal of the apical meristem eliminates the
-primary source of auxin that was suppressing lateral branching below it. With the dominant
-auxin signal removed, the two axillary buds immediately below the cut site begin growing upward
-as co-dominant leaders, each developing its own apical dominance over the branches below it.
-The result is two main colas where there was previously one dominant central cola.
-Topping can be performed multiple times to exponentially increase the number of main colas. A
-single topping creates 2 colas, topping both of those secondary leaders creates 4, and a third
-round of topping creates 8 main colas. This progressive topping approach, popularized as the
-"manifold" or "[[main-lining]]" technique, involves systematic topping combined with low-stress
+[[main-lining]]" technique, involves systematic topping combined with low-stress
 tying and training to create an even, symmetrical canopy of uniformly sized colas. The process
 takes several weeks of vegetative growth to execute fully but produces remarkably even canopy
 structures and highly consistent bud sizes across all colas at harvest.
@@ -116,14 +86,9 @@ specific branches from overshooting the light canopy, a technique sometimes call
 "chiropractic" adjustments during the stretch phase.
 ## See Also
 
-- [[comparison-two-row-vs-six-row-barley]]
-
 - [[comparison-jnp-vs-jms]]
 
-- [[comparison-gabions-vs-check-dams]]
 - [[comparison-lollipopping-vs-supercropping]]
-- [[comparison-topping-vs-supercropping]]
 - [[comparison-topping-vs-fimming]]
- [[supercropping]]
  [[topping-cannabis]]
  [[training-cannabis]]

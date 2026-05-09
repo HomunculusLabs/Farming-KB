@@ -16,79 +16,7 @@ type: concept
 # Terpene Profile Chemotaxonomy
 
 Chemotaxonomy uses chemical composition profiles to classify organisms and
-establish evolutionary relationships. In [[cannabis-sativa]], terpene profiling
-provides a more nuanced and chemically meaningful classification system
-than the traditional sativa/indica/hybrid paradigm, which is primarily
-based on morphological and historical rather than chemical criteria.
-
-## Monoterpenes in Cannabis
-
-Monoterpenes (C10H16) are the most abundant volatile compounds in cannabis
-and dominate the fresh-plant aroma profile. They are synthesized in
-plastids via the methylerythritol phosphate (MEP) pathway:
-
-**Myrcene** is the dominant monoterpene in most cannabis cultivars,
-typically comprising 30-65% of the total terpene fraction. Its earthy,
-musk aroma is characteristic of many "indica-type" cultivars. Myrcene
-concentrations above 0.5% of dry weight are generally associated with
-sedative effects, consistent with its activity as a GABA-A positive
-allosteric modulator.
-
-**Limonene** ranges from trace amounts to over 20% in citrus-scented
-cultivars. It is biosynthesized from GPP by limonene synthase (LS).
-High-limonene chemovars like Super Lemon Haze and Tangie are prized for
-their energizing, mood-elevating properties. Limonene also enhances
-systemic absorption of topical cannabinoid formulations.
-
-**Terpinolene** is a minor but pharmacologically significant monoterpene
-found in cultivars like Jack Herer and Golden Goat at 1-5% of the terpene
-fraction. Despite being sedative in isolation, terpinolene-containing
-cultivars are often described as stimulating, illustrating the complexity
-of terpene-cannabinoid interactions.
-
-**Alpha-pinene and beta-pinene** together typically constitute 5-15% of
-the terpene profile. Pinene-dominant aromas (pine, rosemary) are
-associated with cultivars like Blue Dream and Dutch Treat. Alpha-pinene's
-acetylcholinesterase inhibition counteracts the memory impairment
-commonly attributed to THC.
-
-**Linalool** reaches its highest concentrations (3-8%) in floral,
-lavender-scented cultivars such as Amnesia Haze and LA Confidential.
-Linalool's anxiolytic properties are mediated through 5-HT1A receptor
-agonism and GABA-A potentiation.
-
-**Terpineol** (alpha-terpineol) contributes lilac and pine floral notes
-and is found at 1-4% in many commercial cultivars. It demonstrates
-significant antibacterial activity against gram-positive pathogens and
-enhances the sedative effects of myrcene.
-
-## Sesquiterpenes in Cannabis
-
-Sesquiterpenes (C15H24) are larger, less volatile molecules that
-contribute to the body and complexity of cannabis aroma:
-
-**Beta-caryophyllene** is unique among cannabis terpenes as a selective
-CB2 receptor agonist, making it functionally both a terpene and a
-cannabinoid. It is responsible for the peppery, spicy notes in cultivars
-like Girl Scout Cookies and OG Kush. Caryophyllene concentrations of
-5-15% are common in modern commercial cultivars.
-
-**Humulene** co-occurs with caryophyllene in many chemovars and provides
-woody, earthy notes. Its appetite-suppressing activity is notable for
-counteracting THC-induced hyperphagia. Humulene is also a potent
-anti-inflammatory through NF-kB pathway inhibition.
-
-**Caryophyllene oxide** is the oxygenated derivative of beta-caryophyllene
-and is often the most abundant sesquiterpene oxide in cannabis. It
-contributes a mild, woody aroma and is used as a botanical insecticide.
-
-**Guaiol** and **delta-3-carene** are minor sesquiterpenes found in
-pine-scented cultivars. Delta-3-carene has been associated with dry mouth
-and eye irritation at high concentrations.
-
-## Terpene Groupings and Effects
-
-Practical chemotaxonomy groups [[cannabis-terpene-profiles]] into functional
+establish evolutionary relationships. In [[cannabis-terpene-profiles]] into functional
 categories based on dominant terpenes and their associated effects:
 
 1. **Myrcene-dominant**: Sedative, relaxing, analgesic. Dominant in
@@ -141,10 +69,26 @@ profiles are highly plastic, varying significantly with growing conditions,
 harvest timing, and post-harvest processing. This environmental
 sensitivity means terpene-based classification requires standardized
 production and analytical protocols to achieve reproducible categorization.
-
 ## See Also
 
-- [[cannabinoid-terpene-entourage-effect]]
 - [[cannabinoid-biosynthesis-pathway]]
-- [[trichome-development-and-morphology]]
 - [[cannabis-chemotype-classification]]
+## Practical Considerations
+
+Successful implementation of Terpene Profile Chemotaxonomy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

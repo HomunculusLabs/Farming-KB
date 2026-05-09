@@ -73,22 +73,16 @@ Those forced to eat such food would complain that complete food takes so much la
 
 ## Foundation for Natural Farming
 
-The first step in setting the proper course for agriculture is to reexamine what diet represents. Correcting eating habits by establishing a natural diet erects a foundation for [[fukuoka-natural-farming-philosophy-of-mu]]. This connects to Fukuoka's [[fukuoka-do-nothing-health-philosophy]]: just as farming should work with nature rather than against it, eating should align with the body's true needs rather than the palate's endless demands.
+The first step in setting the proper course for agriculture is to reexamine what diet represents. Correcting eating habits by establishing a natural diet erects a foundation for [[fukuoka-do-nothing-health-philosophy]]: just as farming should work with nature rather than against it, eating should align with the body's true needs rather than the palate's endless demands.
 
 ## See Also
 
-- [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-food-philosophy]]
 - [[fukuoka-tasty-rice-illusion]]
-- [[fukuoka-do-nothing-health-philosophy]]
 - [[fukuoka-nature-transcends-human-knowledge]]
 
-- [[what-natural-farming-method-should-i-use]]
 - [[dom-compound-profile]]
-- [[2c-d-pihkal-entry-23]]
 - [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 
 - [[fukuoka-road-education-modern-schooling]]

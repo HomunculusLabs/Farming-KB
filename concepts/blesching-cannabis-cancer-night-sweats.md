@@ -88,28 +88,6 @@ Intense dreams, struggling with uncomfortable topics or nightmares, are
 commonly associated with night sweats.
 
 Night sweats in the context of [[blesching-cannabis-palliative-care]]
-highlight the interconnection between emotional states and physiological
-symptoms. Addressing underlying anxiety, processing traumatic memories,
-and cultivating a sense of inner safety may complement cannabinoid
-therapy in reducing both the frequency and severity of night sweats.
-
-## Suggested Blessings
-
-- May you relax and release all fears.
-- May you find your antidote to fear.
-
-## Suggested Affirmation
-
-There is a place in me where I am completely safe.
-
-## See Also
-
-- blesching cannabis autism
-
-- [[blesching-cannabis-palliative-care]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-sleep-disorders]]
-- [[blesching-cannabis-chemotherapy-nausea]]
 - [[blesching-cannabis-anorexia-cachexia]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-ptsd-anxiety]]

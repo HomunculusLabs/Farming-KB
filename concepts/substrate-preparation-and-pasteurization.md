@@ -1,7 +1,7 @@
 ---
 title: substrate preparation and pasteurization
 created: 2026-04-28
-tags: [mycology, cultivation, substrate, pasteurization, sterilization]
+tags: [[mycology, cultivation, substrate, pasteurization, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -13,7 +13,7 @@ type: concept
 The substrate is the bulk material on which mushroom mycelium grows and
 eventually fruits. Unlike grain spawn, which serves as a nursery phase, the
 substrate must provide sufficient mass and nutrition to support a full flush of
-mushrooms. [[substrate-preparation]] — particularly the choice between [[sterilization]]
+mushrooms. [[sterilization]]
 and pasteurization — is one of the most important decisions in a cultivation
 cycle.
 
@@ -110,6 +110,5 @@ without contributing nitrogen that would feed contaminants.
 
 ## See Also
 
-- [[grain-spawn-production]]
 - [[fruiting-chamber-design-and-environmental-control]]
 - [[contamination-prevention-in-mushroom-cultivation]]

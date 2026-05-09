@@ -84,24 +84,7 @@ poultry fodder.
 - Rapid growth enables quick establishment
 
 ## Relevance
-Acacia species are indispensable in [[permaculture-design]] as the primary
-nitrogen-fixing pioneer genus for Australian and similar climates. They form
-the first wave of forest succession, building soil, providing shelter, and
-creating conditions for longer-term tree crops. Their diversity (850+ species)
-ensures an acacia exists for virtually every climate and soil condition.
-
-## See Also
-
-- [[acacia-senegal]]
-
-- [[dynamic-accumulators-overview]]
+Acacia species are indispensable in [[acacia-senegal]]
 
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]
-- [[tagasaste]]
-- Leucaena
-- Black Locust
-- Albizia
-- Casuarina
-- Nitrogen Fixing Plants
-- Pioneer Species
 - [[hordenine]]

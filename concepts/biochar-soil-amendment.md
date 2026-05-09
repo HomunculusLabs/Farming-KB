@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, soil-amendment, minerals, microbes, regenerative, carbon-sequestration, composting, biology, ecology, methods]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Biochar Soil Amendment
@@ -124,7 +123,3 @@ Raw biochar should be inoculated before soil application:
 - [[vermicompost-tea]] — liquid inoculant for charging biochar
 - [[hot-composting-method]] — thermophilic composting for biochar charging
 - [[soil-food-web-nutrient-cycling]] — how biochar interacts with soil biology
-
-## See Also
-
-- [[comparison-terra-preta-vs-modern-biochar]]

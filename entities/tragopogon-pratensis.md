@@ -110,13 +110,8 @@ For foraging purposes, the plant is abundant in its naturalized range and requir
 
 ## See Also
 
-- [[cichorium-intybus]]
 - [[taraxacum-officinale]]
-- [[plantago-major]]
-- [[achillea-millefolium]]
 - [[urtica-dioica]]
-- [[leonurus-cardiaca-entity]]
 - [[valeriana-officinalis]]
-- [[medicago-sativa]]
 - [[trifolium-pratense]]
 - tragopogon pratensis

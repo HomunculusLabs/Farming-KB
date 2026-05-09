@@ -16,109 +16,7 @@ type: concept
 
 # Tryptamine Shamanic Identification and Signs
 
-Terence McKenna, drawing on decades of firsthand experience with tryptamine-containing
-plants and indigenous shamanic practitioners across multiple continents, identified
-specific patterns in how shamanic ability is recognized, cultivated, and transmitted
-across cultures. His observations challenge the Western assumption that shamanism is
-primarily a matter of ritual or religious belief, arguing instead that it is
-fundamentally a set of techniques refined over millennia for exploring extraordinary
-states of consciousness.
-
-## Shamanism as Technique, Not Ritual
-
-McKenna emphasized that shamanism is primarily a body of techniques rather than a
-system of ritual dogma. These techniques have been developed over thousands of years
-and make it possible, though perhaps not for everyone, to systematically explore
-dimensions of consciousness that remain largely inaccessible to modern industrial
-cultures. The techniques involve the careful use of psychoactive plants, fasting,
-sensory deprivation, rhythmic drumming, and other methods that reliably induce
-non-ordinary states of awareness.
-
-The distinction between technique and ritual is critical. Ritual may provide the
-cultural container for shamanic practice, but the core competence lies in the ability
-to navigate, interpret, and return from these extraordinary states with useful
-information. In McKenna's framing, the shaman is closer to a phenomenologist or
-psychonaut than to a priest. The anthropological literature always presents shamans
-as embedded in a tradition, but once one gets to know them, they are invariably very
-sophisticated about what they are doing.
-
-## Signs of Shamanic Calling
-
-In archaic societies where shamanism thrives as a living institution, the signs that
-identify a potential shaman are fairly recognizable. McKenna identified several
-recurrent patterns observed across diverse cultures and geographic regions:
-
-- **Oddness or uniqueness**: The individual stands apart from the group in some
-  distinctive way, exhibiting unusual sensitivity, temperament, or behavior from an
-  early age. This quality is noted by the community and often attracts the attention
-  of established practitioners.
-
-- **Epilepsy**: In many preliterate societies, epilepsy is regarded not as a pathology
-  but as a signature of shamanic potential. The seizure experience is interpreted as
-  a form of involuntary journeying into non-ordinary reality. Those who survive
-  episodes of epilepsy are often brought to the attention of practicing shamans for
-  evaluation and possible training in breathing techniques, plant usage, and other
-  shamanic skills.
-
-- **Survival of extraordinary ordeals**: People who are struck by lightning and live,
-  or who nearly die of a disease and fight their way back to health after weeks in an
-  indeterminate zone between life and death, are thought to possess exceptional
-  strength of soul. The near-death experience itself may serve as an initiation into
-  the shamanic worldview, providing direct experiential knowledge of the boundaries
-  between ordinary and non-ordinary reality.
-
-- **Hypersensitivity to trance states**: Among aspiring shamans, there must be some
-  demonstrable sign of inner strength or an unusual natural capacity for entering
-  and maintaining altered states of consciousness. This sensitivity is the raw
-  material upon which shamanic training builds.
-
-## The Shamanic Phenomenologist
-
-Despite the anthropological literature's tendency to present shamans as passive
-bearers of cultural tradition, McKenna found that actual practicing shamans are
-invariably sophisticated about what they do. They are, in his words, "the true
-phenomenologists of this world." They possess deep knowledge of plant chemistry, even
-though they conceptualize these properties through the language of spirits and
-energies rather than molecular structures.
-
-The shaman's use of the word "spirit" operates as a technical gloss for a complex
-concept, much as a quantum physicist might use the term "charm" to describe a
-property of quarks. The narrowing declensions of meaning through which Westerners
-hear the word "spirit" render it nearly useless for understanding what shamans are
-actually describing. When a shaman speaks of the spirit of a plant, they are
-referring to the specific phenomenological properties of that plant's active
-compounds, the quality of the consciousness it induces, and the information it makes
-available. This is technical language, not superstition.
-
-## Centeredness as the Distinguishing Characteristic
-
-Across diverse cultures and geographic regions, McKenna identified one consistent
-distinguishing characteristic of genuine shamans: extraordinary centeredness. The
-shaman is typically an intellectual, often alienated from the surrounding society,
-yet possessing a quality of grounded presence that sets them apart. A good shaman
-sees exactly who you are and recognizes in others the capacity for the kind of deep
-conversation that shamanic exploration requires.
-
-This centeredness is not passivity or detachment. It is an active quality of being
-fully present while simultaneously maintaining awareness of multiple dimensions of
-reality. The shaman must be able to function in ordinary reality while also being
-attuned to the non-ordinary realms that are the domain of their expertise. In
-traveling around the world and dealing with shamans, McKenna found this centeredness
-to be the single most reliable indicator of genuine shamanic ability.
-
-## Shamanic Training and Plant Knowledge
-
-In traditional societies, identified individuals undergo extensive training under
-experienced elders. This training period can last years and includes instruction in
-breathing techniques, the properties and uses of psychoactive plants, methods for
-navigating and interpreting visionary experiences, and the practical skills needed
-for healing and divination.
-
-A crucial element that McKenna stressed is that indigenous healers are well able to
-distinguish harmful from beneficial medicines through accumulated generational
-knowledge. The vision-inducing plants that have a history of shamanic usage are much
-more likely to be safe than newly discovered or synthesized compounds, the long-term
-risks of which may be unknown. Ralph Metzner, working from a similar perspective,
+[[ralph-metzner]], working from a similar perspective,
 noted that indigenous people are known to have a profound knowledge of plants and
 herbs and their effects on the body and mind.
 
@@ -140,10 +38,66 @@ concentrated in humans. The rapid onset of DMT when smoked, approximately forty-
 seconds with a five-minute duration, suggests that the brain is "absolutely at home
 with this compound," as McKenna put it. By contrast, a hallucinogen like LSD is
 retained in the body for some time, suggesting a less intimate relationship with
-human neurochemistry.
-
 ## See Also
 
-- [[psilocybin-compound]]
-- [[ralph-metzner]]
+- [[psilocybin]]
 - [[serotonin]]
+## Practical Considerations
+
+When working with Tryptamine Shamanic Identification and Signs, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

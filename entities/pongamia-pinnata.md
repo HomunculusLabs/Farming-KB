@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-*Pongamia pinnata* (syn. *Millettia pinnata*), commonly known as pongamia, karanja, or Indian beech, is a fast-growing, nitrogen-fixing leguminous tree native to tropical and subtropical regions of South and Southeast Asia. It has attracted significant attention as a multipurpose [[agroforestry]] species valued for its ability to produce non-edible oilseed suitable for biofuel production while simultaneously improving soil fertility through atmospheric nitrogen fixation. Pongamia thrives on marginal, degraded, and saline soils where many conventional crops fail, making it a premier candidate for [[permaculture]] systems, land restoration, and sustainable bioenergy feedstock programs across tropical latitudes.
+*Pongamia pinnata* (syn. *Millettia pinnata*), commonly known as pongamia, karanja, or Indian beech, is a fast-growing, nitrogen-fixing leguminous tree native to tropical and subtropical regions of South and Southeast Asia. It has attracted significant attention as a multipurpose [[permaculture]] systems, land restoration, and sustainable bioenergy feedstock programs across tropical latitudes.
 
 ## Taxonomy and Classification
 
@@ -56,11 +56,11 @@ The high oleic acid content and low free fatty acid levels make pongamia oil wel
 
 ## Permaculture and Agroforestry Applications
 
-Pongamia is a cornerstone species in tropical [[permaculture]] design due to its multipurpose utility. In [[agroforestry]] systems, it serves as a windbreak, shade tree, and living fence. It integrates well in silvopastoral systems, providing dappled shade for livestock and poultry. The dense canopy can be pruned for mulch, and the leaf litter contributes organic matter to the soil surface.
+Pongamia is a cornerstone species in tropical [[agroforestry]] systems, it serves as a windbreak, shade tree, and living fence. It integrates well in silvopastoral systems, providing dappled shade for livestock and poultry. The dense canopy can be pruned for mulch, and the leaf litter contributes organic matter to the soil surface.
 
-The tree is widely used in [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] systems interplanted with annual food crops, where its nitrogen-fixing capacity reduces or eliminates the need for synthetic fertilizers. Its deep root system draws nutrients from subsoil layers, functioning as one of several [[dynamic-accumulators]] in tropical food forests. Pongamia is also planted along field boundaries, roadways, and riparian zones for erosion control and watershed protection.
+The tree is widely used in [[dynamic-accumulators]] in tropical food forests. Pongamia is also planted along field boundaries, roadways, and riparian zones for erosion control and watershed protection.
 
-Companion species in agroforestry include [[leucaena-leucocephala]], [[gliricidia-sepium]], and [[crotalaria-juncea]], which together can form productive multi-strata nitrogen-fixing polycultures. [[biochar]] produced from pongamia prunings or pressed seedcake retains the nutrient profile of this leguminous biomass, yielding a high-quality soil amendment.
+Companion species in agroforestry include [[gliricidia-sepium]], and [[biochar]] produced from pongamia prunings or pressed seedcake retains the nutrient profile of this leguminous biomass, yielding a high-quality soil amendment.
 
 ## Nitrogen Fixation and Soil Benefits
 
@@ -105,13 +105,9 @@ Active breeding programs in India, Australia, and the United States are addressi
 
 ## See Also
 
-- [[agroforestry]]
 - [[biochar]]
-- [[permaculture]]
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
-- [[dynamic-accumulators]]
 - [[leucaena-leucocephala]]
-- [[gliricidia-sepium]]
 - [[crotalaria-juncea]]
 - biofuel
 - oilseed crops

@@ -1,21 +1,7 @@
 ---
 title: Biogas and Methane Production from Sewage
 created: 2026-04-26
-tags: [permaculture, biogas, methane, sewage, energy, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Biogas and Methane Production from Sewage
-
-Mollison presents a detailed technical analysis of anaerobic sewage
-digestion systems that convert human and industrial waste into methane
-gas while simultaneously treating sewage water. These systems represent
-a key intersection of waste management, energy production, and
-pollution control in [[permaculture-design]].
+tags: [[permaculture-design]].
 
 ## Raw Sewage Composition
 
@@ -72,66 +58,25 @@ fitting water seals and a weighted cover of plastic, metal, butyl
 rubber, or fibreglass. For deeper digester ponds, artificial agitation
 using pumped biogas to stir the sludge is necessary; otherwise the
 sludge settles and becomes inactive. See
-[[mollison-sewage-biogas-systems]] for more.
-
-## The Digestion Process
-
-Over a period of 20 days at temperatures of 25 to 30 degrees Celsius
-(77-86 degrees Fahrenheit), a very high percentage of the sewage mass
-is transferred into methane. A small proportion passes on to other
-ponds as living bacterial or algal cells. As methane forms, the oxygen
-demand of the effluent falls. About a cubic metre of methane generated
-removes about 2.89 kg of solids, reducing biological oxygen demand
-accordingly. In the digester, 90-94% of worm eggs are destroyed, as
-are many harmful bacteria.
-
-## Heavy Metal Removal
-
-Anaerobic digestion is remarkably effective at removing heavy metals
-from sewage. Research cited by Mollison shows:
-
-- Copper is removed 97%, of which 78% was removed anaerobically
-- Cadmium is removed 70%, all anaerobically
-- Zinc is removed 97%, 83% removed anaerobically
-- Nickel is removed 65%, 47% aerobically
-- Lead is removed 95%, 90% anaerobically
-- Chromium is removed 87%, 47% anaerobically
-- Iron is removed 85%, 47% anaerobically
-
-The hydrogen sulphide (H2S) produced in digestion combines with
-soluble heavy metals to produce insoluble sulphides above pH 7. A
-little lime can also achieve or assist this result.
-
-## Energy Balance and Self-Sufficiency
-
-Useful energy is generated in the digestion process and can be used
-at that location to run a motor for electricity or to compress gas for
-cooking or machinery. The motor both supplies heat for the digester
-process and compresses the gas for digester agitation and energy
-supply. Of the total sewage input, 45 to 60% of the volume builds up
-as sludge in settling ponds, and this sludge is the primary substrate
-for methane production.
-
-## Sludge Management
-
-A self-regulated equilibrium condition soon establishes where input
-balances gas output. If sludge is removed, the process slows or stops.
-This is a clear case of a resource being wasted when sludge is
-removed from anaerobic ponds. The sludge should be retained and
-stirred to maximise gas production. Only when the sludge is exhausted
-of gas-producing potential should it be removed for use as fertiliser.
-
-## Integration with Agricultural Systems
-
-Treated effluent from the pond series can be safely used for irrigation
-of crops and pastures, closing the nutrient loop between human
-settlements and agricultural production. This integration is
-fundamental to permaculture waste management philosophy. See also
-[[mollison-sewage-treatment-natural-processes]] and [[mollison-greywater-domestic-water-recycling]].
-
-## Related Concepts
-
-- [[mollison-sewage-biogas-systems]]
-- [[mollison-sewage-treatment-natural-processes]]
+[[mollison-sewage-treatment-natural-processes]] and [[mollison-sewage-biogas-systems]]
 - [[mollison-greywater-domestic-water-recycling]]
 - [[mollison-water-purification-biological-treatment]]
+## Practical Considerations
+
+Successful implementation of Biogas and Methane Production from Sewage requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

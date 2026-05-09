@@ -3,7 +3,7 @@ title: Quinoa Growing Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
 
@@ -41,7 +41,7 @@ Quinoa is direct-seeded after the danger of frost has passed. Sow seeds 0.25-0.5
 
 ## Companion Planting
 
-Quinoa fits well into Permaculture Cover Crops Guide rotations, particularly in cool, dry climates. It is a [[permaculture-wildlife-corridors]] dynamic accumulator, drawing nutrients from deep soil layers. In [[permaculture-design-principles]], quinoa can be interplanted with legumes such as beans or peas for mutual benefit — legumes fix nitrogen while quinoa provides structural support. It also pairs well with root vegetables like potatoes and beets. Avoid planting near lamb's quarter (Chenopodium album), as cross-pollination can occur since they are the same genus.
+Quinoa fits well into Permaculture Cover Crops Guide rotations, particularly in cool, dry climates. It is a [[permaculture-farm-design-principles]], quinoa can be interplanted with legumes such as beans or peas for mutual benefit — legumes fix nitrogen while quinoa provides structural support. It also pairs well with root vegetables like potatoes and beets. Avoid planting near lamb's quarter (Chenopodium album), as cross-pollination can occur since they are the same genus.
 
 ## Culinary Uses
 
@@ -83,13 +83,7 @@ Quinoa is a complete protein (contains all essential amino acids), high in fiber
 
 ## See Also
 
-- [[permaculture-grain-crops]]
-
 - [[grain-harvesting-and-storage]]
 
-- [[permaculture-climate-strategies]]
-
-- Compost Guide
 - [[permaculture-cold-climate-strategies]]
-- [[permaculture-dynamic-accumulator-plants]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]

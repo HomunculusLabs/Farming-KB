@@ -3,7 +3,7 @@ title: Jesus Name Etymology and Mushroom Theories
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: [/Users/t3rpz/wiki/raw/papers/allegro-j-the-sacred-mushroomcross.md]
 ---
 # Jesus Name Etymology and Mushroom Theories
@@ -117,17 +117,9 @@ scholarly rejection the theory has received.
 
 ## See Also
 
-- [[allegro-jesus-name-as-mushroom-epithet]]
-
-- john allegro - The theorist behind these claims
 - [[sacred-mushroom-and-the-cross]] - The full argument
-- [[allegro-philological-methodology]] - The method and its flaws
 - [[sumerian-mushroom-nomenclature]] - Other Sumerian etymologies
-- [[controversy-sacred-mushroom-theory]] - Broader controversy
-
-## Related
-
 - [[allegro-new-testament-names-as-mushroom-cryptograms]]
 
 ## Merged: Sumerian Mushroom Mythology Enki Enlil
-The Sumerian cuneiform clay tablets, dating to at least 4000 BCE, contain the oldest known versions of the Adam and Eve, Garden of Eden, and forbidden fruit narratives. James Arthur and other researchers in ethnomycology have proposed that these tablets, when compared with later Biblical adaptations, reveal a radical inversion of the original story, one in which the "forbidden fruit" was a consciousness-expanding entheogenic substance, most likely the Amanita muscaria mushroom. This theory builds upon the [[sumerian-mushroom-nomenclature]] research and connects to the broader [[allegro-soma-mushroom-thesis]] regarding mushroom symbolism in ancient Near Eastern religions. The Biblical word translated as "serpent" is "nahash" (NHSH), which literally means "to decipher" or "to find out." In ancient times the serpent was universally known as the bringer of knowledge, as reflected in the Biblical euphemism "be ye wise as serpents." See [[mythological-mushroom-symbolism]] for the mushroom-serpent connection. The reading of Sumerian mythology through an entheogenic lens is part of a broader scholarly and speculative tradition that includes [[allegro-philological-methodology]] and the [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]. Related: [[dead-sea-scrolls-entheogenic-reading]], jesus name etymology mushroom theories
+The Sumerian cuneiform clay tablets, dating to at least 4000 BCE, contain the oldest known versions of the Adam and Eve, Garden of Eden, and forbidden fruit narratives. James Arthur and other researchers in ethnomycology have proposed that these tablets, when compared with later Biblical adaptations, reveal a radical inversion of the original story, one in which the "forbidden fruit" was a consciousness-expanding entheogenic substance, most likely the Amanita muscaria mushroom. This theory builds upon the [[allegro-soma-mushroom-thesis]] regarding mushroom symbolism in ancient Near Eastern religions. The Biblical word translated as "serpent" is "nahash" (NHSH), which literally means "to decipher" or "to find out." In ancient times the serpent was universally known as the bringer of knowledge, as reflected in the Biblical euphemism "be ye wise as serpents." See [[allegro-philological-methodology]] and the [[dead-sea-scrolls-entheogenic-reading]], jesus name etymology mushroom theories

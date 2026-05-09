@@ -1,7 +1,7 @@
 ---
 title: Duck Keeping vs Rabbit Husbandry
 created: 2026-04-28
-tags: [homesteading, livestock, poultry, small-scale-farming]
+tags: [[homesteading, livestock, poultry, small-scale-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
@@ -119,8 +119,6 @@ Ducks require more initial investment. A small flock of 4-6 laying ducks costs $
 
 ## See Also
 
-- [[comparison-chicken-keeping-vs-duck-keeping]] for how ducks compare to chickens specifically
 - [[comparison-quail-husbandry-vs-rabbit-husbandry]] for another small livestock pairing
-- [[rabbit-husbandry]] for detailed rabbit care
 - [[duck-keeping]] for detailed duck care
 - [[homesteading-livestock-comparison]] for broader livestock selection guidance

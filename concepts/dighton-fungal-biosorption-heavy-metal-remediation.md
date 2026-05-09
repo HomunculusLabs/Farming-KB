@@ -111,11 +111,8 @@ designing fungal-based remediation systems.
 
 ## See Also
 
-- [[heavy-metal-remediation-fungi]]
-
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 - dighton fungal metal transformations biosorption
-- [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]
 - [[dighton-fungal-rock-weathering-mineral-dissolution]]
 - [[fungal-metal-transformations-biosorption]]
 

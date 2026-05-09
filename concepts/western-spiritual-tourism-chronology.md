@@ -134,7 +134,9 @@ Daime, offered an alternative to Peruvian-style shamanic
 
 ## See also
 
-- [[ayahuasca-tourism-western-seekers-and-integration]]
 - [[ayahuasca-tourism-ethics-and-commodification]]
-- [[entheogenic-syncretic-churches-brazil]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
+
+## See Also
+
+- [[ayahuasca-tourism-western-seekers-and-integration]]

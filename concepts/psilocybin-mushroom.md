@@ -1,7 +1,7 @@
 ---
 title: Psilocybin Mushroom
 created: 2026-04-28
-tags: [mycology, psychedelics, pharmacology, ethnobotany]
+tags: [[mycology, psychedelics, pharmacology, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
@@ -124,8 +124,6 @@ Hofmann in 1958.
 
 ## See Also
 
-- [[hallucinogenic-drugs]]
-- [[psilocybin-compound]]
-- [[psychedelic-psychotherapy]]
+- [[psilocybin]]
 - [[mushroom-cultivation]]
 - [[mycology]]

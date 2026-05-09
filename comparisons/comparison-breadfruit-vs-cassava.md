@@ -14,11 +14,9 @@ sources:
 type: comparison
 ---
 
-# Breadfruit (*Artocarpus altilis*) vs Cassava (*Manihot esculenta*)
+# Breadfruit (*Artocarpus altilis*) vs Cassava (*[[permaculture]] designers, and food security planners make informed decisions.
 
-Two of the most important staple crops in the tropics, breadfruit and cassava serve millions of people across the Pacific Islands, Africa, Latin America, and the Caribbean. While both are carbohydrate-rich food sources adapted to warm climates, they differ significantly in their biology, cultivation, and culinary applications. This comparison examines their key attributes side by side to help growers, permaculture designers, and food security planners make informed decisions.
-
-See also: [[query-what-is-breadfruit-and-how-can-i-grow-it]], [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+See also: [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 
 ## Origin and History
 
@@ -100,7 +98,7 @@ Breadfruit shows moderate resilience but is vulnerable to prolonged drought, str
 
 ## Permaculture Integration
 
-See also: [[pdc-food-forest-layers-and-succession]], [[query-what-is-agroforestry-and-how-can-i-start]]
+See also: [[query-what-is-agroforestry-and-how-can-i-start]]
 
 **Breadfruit** excels in permaculture and agroforestry systems. As a large, long-lived canopy tree, it provides shade, mulch (from leaf fall), and habitat. It integrates naturally into food forests and polyculture designs. Its deep root system improves soil structure and reduces erosion.
 

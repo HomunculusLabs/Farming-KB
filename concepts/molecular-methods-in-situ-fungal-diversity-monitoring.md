@@ -3,7 +3,7 @@ title: "Molecular Methods In Situ Fungal Diversity Monitoring"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [fungal-ecology, mycology, research-methods]
+tags: [[fungal-ecology]], mycology, research-methods]
 sources: []
 ---
 ---
@@ -143,8 +143,9 @@ monitoring:
 Molecular methods are particularly valuable for monitoring fungi in
 complex substrata such as soil, wood, and plant roots where
 traditional methods fail:
+## See Also
+- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 
 ## See Also
-- [[ectomycorrhiza]]
-- [[mycorrhiza]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
+
+- [[molecular-methods-fungal-taxonomy-and-diversity]]

@@ -117,7 +117,6 @@ University.
 
 ## See Also
 
-- [[tompkins-plant-electrical-signals]] for [[plant-bioelectricity]]
-- [[tompkins-radionic-agriculture-pesticides]] for radionic theory
+- [[plant-bioelectricity]]
 - [[tompkins-photosynthesis-biophotons]] for biophoton research
 - [[tompkins-kirlian-photography-plant-auras]] for aura photography

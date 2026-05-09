@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[fimming]] and [[topping-cannabis]] are two of the most popular low-stress canopy management
+[[topping-cannabis]] are two of the most popular low-stress canopy management
 techniques used by cannabis cultivators to increase yield, control plant height, and create
 an even canopy. Both involve cutting the plant's main growing tip to break apical dominance
 and encourage lateral branching. However, they differ significantly in execution,
@@ -28,38 +28,6 @@ approach, fimming offers a faster path to high cola counts for growers willing t
 some inconsistency.
 
 ## Fimming
-
-[[fimming]] stands for "Fuck, I Missed!" — a tongue-in-cheek name reflecting its origin as
-an accidental variation of topping. Instead of cleanly removing the entire apical meristem,
-fimming involves pinching or cutting away roughly 75–90% of the main growing tip while
-leaving the bottom 10–25% intact. This partial removal disrupts apical dominance less
-aggressively and typically produces 3–6+ new colas from a single cut.
-
-**Key characteristics of fimming:**
-
-- **Timing:** Performed during the vegetative stage, usually around weeks 3–5 when the
-  plant has 3–5 nodes.
-- **Cola production:** Yields more colas per cut than topping (3–6+ vs. exactly 2),
-  though the exact number varies by phenotype.
-- **Canopy consistency:** Less predictable; new growth emerges unevenly, leading to a
-  less uniform canopy that may require more defoliation.
-- **Autoflower compatibility:** Not recommended for autoflowers due to their fixed life
-  cycle and limited recovery time.
-- **Efficiency:** A single fim cut can potentially replace multiple topping sessions,
-  reducing the total number of wounds on the plant.
-- **Cost and complexity:** Zero cost and low complexity, requiring only clean scissors
-  or your fingers.
-
-**Drawbacks:** The unpredictable nature of fimming means canopy management during flower
-can be challenging. Uneven colas may compete for light, and some branches may lag behind.
-Fimming is not ideal for growers using SCROG nets or main-lining, which depend on
-predictable branching patterns.
-
-Fimming is best suited for growers who want maximum cola production without the precision
-of repeated topping sessions, and who are comfortable managing an uneven canopy during
-flower.
-
-## Topping
 
 [[topping-cannabis]] is a precise, predictable training technique in which the entire
 apical meristem is removed just above the highest branch node. This cleanly breaks
@@ -138,13 +106,9 @@ When combining methods, allow adequate recovery time between cuts — typically 
 weeks — and avoid performing any training within 4 weeks of the flowering transition.
 Monitor the plant closely for signs of stress, and adjust your feeding and watering
 schedule to support recovery growth.
-
 ## See Also
 
-- [[fimming]]
 - [[topping-cannabis]]
-- [[main-lining]]
-- scrog
 - [[low-stress-training]]
 - apical dominance
 - [[canopy-layer-design-food-forests]]

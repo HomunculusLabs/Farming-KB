@@ -3,63 +3,11 @@ title: Mycorrhizal Silviculture (Lowenfels)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources:
-  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
----
-
-Updated: 2026-04-18
-
-## Overview
-
-Nearly every tree species forms some type of mycorrhizal association, making mycorrhizal understanding essential for silviculture and forestry. [[jeff-lowenfels]]' "Teaming with Fungi" details how [[mycorrhizal-fungi]] are critical for forest health, reforestation, and the ecological relationships that sustain woodland ecosystems.
-
-Source: [[teaming-with-microbes-fungi]]
+tags: [[soil-food-web-nutrient-cycling]]' "Teaming with Fungi" details how [[teaming-with-microbes-fungi]]
 
 ***
 
-## Tree [[mycorrhizal-types]]
-
-### Arbuscular Mycorrhizal Trees
-
-Some trees form only arbuscular mycorrhizae:
-- Blackthorn (Prunus spinosa)
-- Boxwood (Buxus sempervirens)
-- Buckthorn (Rhamnus cathartica)
-- Elder (Sambucus nigra)
-- Elm (Ulmus glabra)
-- Gorse (Ulex europaeus)
-- Horse chestnut (Aesculus hippocastanum)
-- Privet (Ligustrum vulgare)
-- Spindle tree (Euonymus europaeus)
-- Yew (Taxus baccata)
-
-### Ectomycorrhizal Trees
-
-Many commercially and ecologically important trees form only ectomycorrhizae:
-- Black pine (Pinus nigra)
-- Douglas fir (Pseudotsuga menziesii)
-- European beech (Fagus sylvatica)
-- European hornbeam (Carpinus betinus)
-- Fir (Abies spp.)
-- Hazelnut (Corylus avellana)
-- Larch (Larix spp.)
-- Norway spruce (Picea abies)
-- Scots pine (Pinus sylvestris)
-- Silver birch (Betula pendula)
-- Sitka spruce (Picea sitchensis)
-
-### Dual-Association Trees
-
-Some trees form both arbuscular and ectomycorrhizae, typically at different life stages:
-- Alder (Alnus glutinosa)
-- Ash (Fraxinus excelsis)
-- European crab apple (Malus sylvestris)
-- Hawthorn (Crataegus monogyna)
-- Holly (Ilex aquifolium)
-- Poplar (Populus spp.)
-- Rowan (Sorbus aucuparia)
-- Walnut ([[juglans-regia]])
+## Tree [[juglans-regia]])
 - Wild cherry (Prunus avium)
 - Willow (Salix spp.)
 
@@ -124,15 +72,8 @@ Mycorrhizal fungi protect plants from damage by heavy metals and can even filter
 Commercial nurseries sometimes use sterile growing media and fumigation, which can destroy mycorrhizae:
 - Always add mycorrhizal propagules at planting time
 - Use Rhizophagus intraradices for red cedar, redwood, and giant sequoia seedlings
-- Good general-purpose ectomycorrhizal nursery fungi: [[thelephora-terrestris]], [[laccaria-laccata]], Inocybe species
-- For oak inoculation: [[pisolithus-arhizus]] and Scleroderma citrinum
-- For European beech: Scleroderma citrinum
-- For pine seedlings: Hebeloma arenosum
-- For birch seedlings: Leccinum scabrum
-
-### The Puerto Rico Pine Example
-
-In the 1950s, attempts to grow pine trees in Puerto Rico using native island soils failed — seedlings turned yellow and died within two years despite extra fertilization. In 1955, soils from North Carolina pines were used to inoculate Puerto Rican seedlings. The trees thrived because of the appropriate [[ectomycorrhizal-associations]]. This dramatic example illustrates the importance of matching the right fungi to the right trees.
+- Good general-purpose ectomycorrhizal nursery fungi: [[laccaria-laccata]], Inocybe species
+- For oak inoculation: [[ectomycorrhizal-associations]]. This dramatic example illustrates the importance of matching the right fungi to the right trees.
 
 ### Mine Site Reclamation
 

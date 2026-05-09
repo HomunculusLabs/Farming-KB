@@ -110,7 +110,7 @@ for overwintering under cover.
 - Spring-flowering biennials can be replaced with summer annuals for
   continuous color
 - Foxgloves add dramatic vertical interest and attract bees to the
-  comparison [[vermicomposting]] [[composting]]
+  comparison [[composting]]
 - Wallflowers provide richly scented spring color and pair well with
   tulips in the border
 - Keep the area under biennials weeded during winter to prevent pests
@@ -118,6 +118,5 @@ for overwintering under cover.
 
 ## See Also
 
-- [[hamilton-annual-flowers-organic]]
 - [[hamilton-perennial-flowers-organic]]
 - [[hamilton-cottage-garden-design]]

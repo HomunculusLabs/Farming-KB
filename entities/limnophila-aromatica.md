@@ -106,15 +106,9 @@ In Cambodian markets, the herb may be sold alongside *Oenanthe javanica* (water 
 
 ## See Also
 
-- [[persicaria-odorata]]
 - [[eryngium-foetidum]]
-- [[houttuynia-cordata]]
 - [[ocimum-basilicum]]
-- [[cymbopogon-citratus]]
 - [[zingiber-officinale]]
-- [[mentha-spicata]]
 - [[murraya-koenigii]]
-- [[boesenbergia-rotunda]]
 - [[ocimum-sanctum]]
-- [[rosmarinus-officinalis]]
 - [[salvia-officinalis]]

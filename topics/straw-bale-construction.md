@@ -141,7 +141,7 @@ Compared with slip form stone, it is lighter, warmer, and lower in cement use, b
 Compared with conventional framing, it has thicker walls and unfamiliar details but can offer superior energy performance.
 In many ecological houses, straw bale walls are combined with timber frames, rubble trench foundations, lime plasters, and earthen interior mass.
 ## See Also
-- [[straw-bale-construction]]
+- straw bale construction
 - [[mollison-designers-straw-bale-building-techniques]]
 - [[earthbag-construction]]
 - [[natural-building]]

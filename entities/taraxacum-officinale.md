@@ -134,17 +134,11 @@ Wind-dispersed seeds, deep taproot, self-compatibility, apomixis,
 and broad tolerance make it one of Earth's most successful
 colonizers. Considered a noxious agricultural weed but not
 ecologically damaging invasive in most jurisdictions.
-
 ## See Also
 
-- [[taraxacum-kok-saghyz]]
-
 - [[echinacea-purpurea]]
-- [[jerusalem-artichoke]]
 - [[matricaria-chamomilla]]
 
-- [[plantago-major]] — broadleaf plantain, ubiquitous medicinal
-  weed with overlapping wound-healing uses.
 - [[urtica-dioica]] — stinging nettle, nutrient-dense perennial
   with complementary dynamic accumulator properties.
 - Chicoric acid — primary phenolic in dandelion, also in

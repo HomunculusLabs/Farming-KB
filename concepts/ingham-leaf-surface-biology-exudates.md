@@ -12,104 +12,8 @@ type: concept
 # Leaf Surface Biology and Exudates in Compost Tea
 
 Understanding leaf surface biology is essential for effective
-foliar application of [[compost-tea-aact]]. [[elaine-ingham]]'s field
-guide explains that leaf surfaces, like the [[solomon-root-exudates-and-allelopathy]], host
-complex microbial communities that use plant exudates as food
-sources. The interaction between applied tea organisms and existing
-leaf surface biology determines whether foliar applications succeed
-or fail.
-
-## Leaf Surface as a Microbial Habitat
-
-Leaf surfaces are not barren -- they naturally host communities of
-bacteria and fungi that use the exudates plants release onto leaf
-surfaces as food. Both beneficial fungi and pathogenic fungi use
-these exudates to grow. When compost tea is applied, the introduced
-organisms must compete with existing leaf surface organisms for
-these food resources.
-
-The organisms applied in tea must be active and growing when they
-land on leaves. They use the exudates on leaf surfaces as well as
-the foods carried in the tea. No food means no growth, no
-attachment, and no protection.
-
-## Plant Exudates on Leaf Surfaces
-
-Plants release various compounds onto leaf surfaces:
-- Simple sugars that feed bacteria
-- More complex compounds that feed fungi
-- Organic acids and amino acids
-- Stress-related compounds (alcohols) that attract insect pests
-
-Stressed plants put out different exudate profiles than healthy
-plants. Specifically, stressed plants release alcohols that
-attract insect pests. One mechanism by which compost tea reduces
-pest pressure is that tea organisms consume these stress-related
-alcohols, removing the attractant signal.
-
-## Why We Destroy Leaf Surface Biology
-
-Ingham notes that we routinely destroy the biology on leaf surfaces
-through conventional practices:
-- Pesticide applications kill beneficial organisms along with
-  targets
-- Fungicides eliminate the protective fungal community
-- Foliar fertilizers can shift the microbial balance
-- Dust and pollution disrupt surface communities
-- Chlorine in irrigation water kills organisms on contact
-
-The result is bare, unprotected leaf surfaces where pathogens can
-easily establish. Getting the organisms back on leaf surfaces and
-stopping the practices that kill them is the first step toward
-disease prevention.
-
-## How Tea Organisms Attach to Leaves
-
-Organisms must actively attach to leaf surfaces to provide
-protection:
-- Bacteria produce glue materials that bind them to surfaces
-- Fungi produce substances like glomulin that wrap around and bind
-  to surfaces
-- Organisms need to be metabolically active to produce these
-  adhesives
-- Approximately 20 minutes is needed for firm attachment
-- On waxy surfaces, spreader-stickers may be needed
-
-Mid-day sun with small droplets can kill unprotected organisms.
-However, if droplet sizes are large enough (pivot irrigation,
-airplane application, large emitter drip), organisms survive even
-in direct sun because the water column provides protection during
-the attachment period.
-
-## Competitive Exclusion on Leaf Surfaces
-
-The primary disease prevention mechanism on leaves is competitive
-exclusion. Compost tea organisms out-compete other organisms on
-leaf surfaces, resulting in the displacement of potential
-pathogens. This works because:
-
-1. The tea organisms occupy all available space on the leaf surface
-2. They consume the food resources (exudates) that pathogens need
-3. They may directly consume pathogen organisms
-4. They create conditions unfavorable for pathogen growth
-
-The enzymatic ability of many leaf pathogens is weak -- black spot
-fungus, for example, cannot outcompete any other organism on the
-leaf surface. If some beneficial organism is already occupying the
-space, the pathogen cannot establish.
-
-## CO2 and Nutrient Uptake
-
-Microbes on leaf surfaces respire and release CO2, which
-influences plant physiology:
-- Elevated CO2 speeds stomatal opening
-- Increased time stomates stay open improves foliar nutrient
-  uptake
-- As weather gets drier, microbes respire less (self-regulating)
-- This biological system helps plants absorb nutrients when
-  conditions are appropriate
-- If the plant does not need foliar nutrients, it does not pump
-  out the [[root-exudates]] to take them up
+foliar application of [[elaine-ingham]]'s field
+guide explains that leaf surfaces, like the [[root-exudates]] to take them up
 
 ## Fungi as Long-Term Holding Sites
 
@@ -147,3 +51,62 @@ saprophytic organisms that occupy space and consume food resources
 ## Related
 
 - [[humic-acids-soil-biology-ingham]]
+## Practical Considerations
+
+When working with Leaf Surface Biology and Exudates in Compost Tea, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

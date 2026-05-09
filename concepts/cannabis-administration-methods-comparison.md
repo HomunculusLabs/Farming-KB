@@ -112,11 +112,9 @@ Rectal or vaginal suppositories provide high bioavailability by bypassing first-
 | GI tract conditions | Oral, suppositories |
 | Elderly or respiratory concerns | Tinctures, oral, topicals |
 
-See also: [[cannabis-indoor-growing-basics]], [[cannabis-dosing-guidelines-by-condition]], [[cannabis-concentrates-and-extracts]], [[cannabis-extraction-methods]]
+See also: [[cannabis-dosing-guidelines-by-condition]], [[cannabis-extraction-methods]]
 
 ## Related
 
-- [[cannabis-oil-vaporization-methods]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 - [[fukuoka-vegetable-growing-natural-method]]

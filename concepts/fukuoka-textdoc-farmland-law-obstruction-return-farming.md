@@ -135,14 +135,12 @@ water and sewage lines would not be needed, and the problem of pollution
 
 ## See also
 
-- [[farming-for-all:-a-quarter-acre-vision]]
-- [[road-back-to-farming:-obstacles-and-illusions]]
+- [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - Mu Economics and the Economics of Natural Farming
 - Creating True People on the Do-Nothing Road
 - Decentralized Self-Sufficient Communities
 
 ## See Also
 
-- [[homesteading]]
 - [[masanobu-fukuoka]]
 - [[natural-farming]]

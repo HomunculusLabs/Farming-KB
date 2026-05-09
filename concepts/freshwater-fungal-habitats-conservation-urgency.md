@@ -19,16 +19,7 @@ type: concept
 Freshwater habitats harbor a diverse assemblage of true fungi and
 fungus-like straminipiles and protists, yet these ecosystems face
 unprecedented rates of loss and degradation. The urgency of documenting
-freshwater [[fungal-biodiversity]] before habitats disappear is a major
-conservation imperative recognized by mycologists and ecologists alike.
-
-## Diversity of Freshwater Fungi
-
-Fungi are found in all types of freshwater habitats, including rivers,
-streams, drainage ditches, marshes, swamps, bogs, lakes, ponds,
-temporary ponds, and wetlands. The major groups represented include:
-
-- **Chytridiomycetes and Hyphochytriomycetes**: [[zoosporic-fungi]]
+freshwater [[zoosporic-fungi]]
   dispersing through water with motile spores
 - **Peronosporomycetes** (formerly Oomycetes): fungus-like
   straminipiles common in freshwater
@@ -135,15 +126,5 @@ examined periodically.
 ## Pathogenic Fungi in Freshwater Conservation
 
 The intersection of freshwater fungal conservation with wildlife disease
-is exemplified by [[batrachochytrium-dendrobatidis]], a chytridiomycete
-pathogen of amphibians. Molecular evidence suggests this pathogen may
-have recently spread to several continents. This case underscores the
-importance of documenting freshwater fungal diversity both for
-conservation of the fungi themselves and for understanding threats to
-their vertebrate hosts.
-
-## See Also
-
-- [[chytridiomycota-phylogeny-diversity]]
-- [[soil-chytridiomycetes-diversity-distribution]]
+is exemplified by [[chytridiomycota-phylogeny-diversity]]
 - [[marine-estuarine-fungi]]

@@ -10,15 +10,9 @@ type: query
 
 # What Are the Best Nitrogen-Fixing Trees for Permaculture?
 
-[[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees (NFTs) form symbiotic relationships with soil microorganisms that convert atmospheric N₂ into plant-available ammonia. Leguminous trees partner with **rhizobia** (α- and β-proteobacteria) in root nodules, while non-legume fixers partner with **Frankia** actinomycetes (actinorhizal symbiosis). Both pathways are critical for building soil fertility in low-input permaculture systems without synthetic fertilizers. Typical fixation rates range from 20–300 kg N/ha/year depending on species, age, and site conditions.
+[[leaf-litter-microfungal-diversity-tropical-temperate]], root exudates, and decomposing nodules — not just when the tree is chopped.
 
-## Why Nitrogen-Fixing Trees Matter in Permaculture
-
-In mature permaculture systems, nitrogen is often the most limiting nutrient. NFTs reduce or eliminate the need for external inputs (manure, compost, synthetic fertilizer) by tapping the atmosphere's virtually unlimited N₂ reservoir. Beyond fixation, NFTs provide stacked functions: biomass for mulch, fodder for livestock, timber, windbreaks, shade, erosion control, and wildlife habitat. A well-planned NFT component is the engine of a self-fertilizing food forest.
-
-**Legume N-fixation (rhizobial):** Soil rhizobia infect legume root hairs, forming nodules where the enzyme nitrogenase converts N₂ → NH₃. The plant supplies carbon (sugars from photosynthesis) to the bacteria in exchange. Up to 90% of fixed N can be transferred to companion plants via [[leaf-litter-microfungal-diversity-tropical-temperate]], root exudates, and decomposing nodules — not just when the tree is chopped.
-
-**Actinorhizal N-fixation:** *Frankia* actinomycetes form nodules on roots of non-[[legume-trees-and-nitrogen-fixing-permaculture-species]] in 8 plant families. These species often thrive on marginal, nitrogen-poor, or disturbed sites where legumes struggle — sandy soils, wet riparian zones, high-pH soils, and cold climates.
+**Actinorhizal N-fixation:** *Frankia* actinomycetes form nodules on roots of non-legume trees and nitrogen fixing permaculture species in 8 plant families. These species often thrive on marginal, nitrogen-poor, or disturbed sites where legumes struggle — sandy soils, wet riparian zones, high-pH soils, and cold climates.
 
 ## Top Nitrogen-Fixing Trees by Climate Zone
 
@@ -40,38 +34,7 @@ In mature permaculture systems, nitrogen is often the most limiting nutrient. NF
 - **Honey locust (*Gleditsia triacanthos*)** — Deep-rooted, drought-hardy. Edible pods for livestock; excellent canopy for silvopasture. Light N-fixation.
 - **Black locust (*Robinia pseudoacacia*)** — Extremely fast-growing, rot-resistant timber, excellent fence posts. Fixes 100–160 kg N/ha/year. **Invasive in many regions** — manage aggressively.
 - **Mesquite (*Prosopis spp.*)** — Deep taproot (up to 50 m), edible pods, excellent fuelwood. Very drought-hardy. Invasive in parts of Australia and Africa.
-- **Acacia aneura** (mulga) — Australian [[arid-zone-permaculture-strategies-mollison]] staple; multipurpose timber, fodder, and shade. Very slow but drought-enduring.
-
-### Temperate
-
-- **Black locust (*Robinia pseudoacacia*)** — Top temperate N-fixer for biomass and timber. Coppices on 5–10 year rotations.
-- **Honey locust (*Gleditsia triacanthos*)** — Thornless cultivars available. Good silvopasture overstory; light shade allows pasture growth beneath.
-- **Siberian pea shrub (*Caragana arborescens*)** — Extremely cold-hardy (Zone 2). Edible seeds (36% protein), nitrogen-fixing, windbreak staple. Fixes 30–60 kg N/ha/year.
-- **Sea buckthorn (*Hippophae rhamnoides*)** — Actinorhizal. Edible, nutrient-dense berries (vitamin C superfruit). Fixes 15–45 kg N/ha/year; nitrogen-fixation confined to root zone. Dioecious — plant both sexes for fruit.
-- **Alder (*Alnus spp.*)** — Actinorhizal; pioneer on wet/degraded sites. *A. glutinosa* (black alder) and *A. rubra* (red alder) are top performers. Fixes 100–300 kg N/ha/year — among the highest of any tree. Short-lived (40–60 years).
-- **Russian olive (*Elaeagnus angustifolia*)** — Actinorhizal; very drought-hardy, silvery foliage, edible fruit. **Highly invasive in riparian areas of North America** — check local regulations before planting.
-- **Autumn olive (*Elaeagnus umbellata*)** — Actinorhizal; edible berries, wildlife forage, tolerates poor soils. **Invasive in eastern North America** — consider goumi as a non-invasive alternative.
-- **Goumi (*Elaeagnus multiflora*)** — Actinorhizal; non-invasive alternative to autumn olive. Excellent edible fruit, fixes 30–60 kg N/ha/year.
-- **Silverberry (*Elaeagnus commutata*)** — Actinorhizal; very cold-hardy (Zone 2), ornamental and edible. Good windbreak component.
-- **Redbud (*Cercis canadensis*)** — Moderate N-fixer; ornamental, edible flowers. Light shade, understory-compatible.
-- **Kentucky coffeetree (*Gymnocladus dioicus*)** — Slow-growing but long-lived; N-fixing (rhizobial). Drought-tolerant native to central North America. Seeds require processing.
-
-### Cold / Continental (Zone 1–3)
-
-- **Caragana arborescens** — The cold-climate workhorse. Windbreaks, hedge rows, wildlife cover.
-- **Alnus spp.** (*A. viridis*, *A. incana*) — Riparian and upland pioneers; highest N-fixation rates for cold zones.
-- **Elaeagnus commutata** (silverberry) — Reliable actinorhizal shrub for shelterbelts.
-- **Shepherdia argentea** (buffaloberry) — Actinorhizal; edible tart berries, extremely cold-hardy (Zone 2). Dioecious — plant multiple for fruit set.
-
-## Non-Legume (Actinorhizal) Nitrogen Fixers
-
-Actinorhizal trees form nodules with *Frankia* bacteria rather than rhizobia. They often tolerate poorer soils, higher pH, and wetter conditions than legumes. Key genera: **Alnus** (alders), **Elaeagnus** (Russian olive, autumn olive, goumi, silverberry), **Casuarina** (sheoaks — tropical/subtropical), **Hippophae** (sea buckthorn), **Shepherdia** (buffaloberry), **Myrica** (bayberry/sweetfern), and **Coriaria**. These are especially valuable in climates where leguminous NFTs underperform.
-
-## Key Considerations
-
-- **Inoculant requirements**: Many NFTs need specific rhizobial or Frankia strains. If the species is new to your site, apply appropriate inoculant at planting or source pre-inoculated seed.
-- **Canopy effects**: Dense NFT canopies (e.g., black locust, alder) suppress understory crops. Use light-canopy species (honey locust, redbud) over food crops, or space dense species widely.
-- **[[root-competition-plant-spacing-solomon]]**: NFT roots can outcompete adjacent crops for water and phosphorus. Maintain adequate spacing or use root pruning/barriers in intensive systems.
+- **Acacia aneura** (mulga) — Australian [[root-competition-plant-spacing-solomon]]**: NFT roots can outcompete adjacent crops for water and phosphorus. Maintain adequate spacing or use root pruning/barriers in intensive systems.
 - **Coppicing/pollarding**: Black locust, alder, leucaena, gliricidia, and caragana coppice vigorously (regrow from cut stumps). This lets you manage canopy, harvest biomass, and stimulate N-release.
 - **Fodder value**: Leucaena, gliricidia, calliandra, desmanthus, and caragana provide high-protein leaf fodder. Check toxicity (e.g., mimosine in leucaena — plant low-mimosine cultivars or mix with other forages).
 - **Timber value**: Black locust (fence posts, outdoor lumber), alder (furniture, turning wood), acacia (flooring, fuelwood), and carob (ornamental wood) have commercial timber value.
@@ -124,6 +87,5 @@ With proper species selection and management, nitrogen-fixing trees form the bio
 
 ## See Also
 
-- [[permaculture-plant-selection]]
 - [[food-forest-design]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]

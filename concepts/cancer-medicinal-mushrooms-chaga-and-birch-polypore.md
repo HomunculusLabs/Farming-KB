@@ -134,13 +134,9 @@ earlier-stage research targets:
 Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
-- [[chaga-inonotus-obliquus-medicinal-profile]]
 - [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[grifron-d-maitake-beta-glucan]]
 - [[maitake-grifola-frondosa-comprehensive-profile]]
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[cancer-medicinal-mushrooms-maitake-d-fraction]]
 
 ## See Also

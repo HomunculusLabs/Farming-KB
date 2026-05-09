@@ -16,9 +16,7 @@ type: concept
 
 # Hymenogastraceae and Minor Neurotropic Genera
 
-While Psilocybe dominates the [[neurotropic-fungi-in-asia]] with 116 species, several
-other genera contain species with confirmed or suspected psychoactive
-properties. For the complete global distribution, see [[guzman-allen-gartz-global-psilocybe-biogeography]]. Guzmán, Allen and Gartz (1998/2000) documented species of
+While Psilocybe dominates the [[guzman-allen-gartz-global-psilocybe-biogeography]]. Guzmán, Allen and Gartz (1998/2000) documented species of
 Gerronema, Galerina, Mycena, and Agrocybe as containing psilocybin or
 related indoles, though each genus is represented by only one or two
 neurotropic species. These minor genera contribute to understanding the
@@ -44,23 +42,7 @@ Galerina is represented by a single neurotropic species in the Guzmán, Allen
 and Gartz checklist. This is noteworthy because Galerina is a large genus
 containing many extremely toxic species, including the deadly G. marginata
 (syn. G. autumnalis) which contains amatoxins, the same lethal compounds
-found in [[amanita-phalloides]]. The potential confusion between psilocybin-
-containing Galerina species and deadly amatoxin-containing species represents
-a serious hazard for amateur collectors. Horak (1983) reported interesting
-relationships between Galerina species in the South Pacific hemisphere,
-noting connections between South American, Mesoamerican, and Southeastern
-Asian taxa.
-
-## Mycena: One Neurotropic Species
-
-Mycena cyanorhiza is the sole neurotropic species of Mycena recognized by
-Guzmán, Allen and Gartz. However, the genus has a complex history with
-psychoactive claims. Mycena pura was reported to contain hallucinogenic
-principles, but Bresinsky and Besl (1990) and Samorini (1989) considered
-these reports doubtful. The name "cyanorhiza" refers to the blue-staining
-rhizomorphs characteristic of this species, a feature that may correlate
-with psilocybin content. The genus Mycena is one of the largest in the
-[[agar]]icales, with hundreds of species worldwide, making the rarity of
+found in [[agar]]icales, with hundreds of species worldwide, making the rarity of
 confirmed neurotropic species notable.
 
 ## Agrocybe: Farinacea as Neurotropic
@@ -83,45 +65,7 @@ and additional Gymnopilus species. However, many of these reports are
 contradicted by negative findings. Stijve and Kuyper (1988) failed to find
 psilocybin in Hygrocybe psittacina and its varieties, while Stijve and Meijer
 (1993) found no psilocybin in Gymnopilus spp. These discrepancies are
-discussed in [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]].
-
-## Conocybe: A Related Minor Genus
-
-Although placed in Bolbitiaceae rather than with the Hymenogastraceae,
-Conocybe deserves mention as another minor neurotropic genus with four
-species: C. cyanopus, C. kuehneriana, C. siligineoides, and C. smithii.
-C. cyanopus and C. smithii were confirmed to contain psilocybin by Benedict
-et al. (1967). The genus is taxonomically complex, with species having been
-placed in Pholiotina and Galerula at various times. C. siligineoides, the
-Mexican sacred mushroom, has never been recollected since its initial
-discovery in 1955.
-
-## Gymnopilus: Between Confirmed and Doubtful
-
-Gymnopilus is represented by 14 species in the Guzmán, Allen and Gartz
-checklist, making it one of the larger neurotropic genera after Psilocybe
-itself. However, its status is contentious. Gartz (1986e) identified
-contradictions in reports of Gymnopilus species as neurotropic. Stijve and
-Kuyper (1988) did not find psilocybin in G. fulgens or G. spectabilis.
-Stijve and Meijer (1993) similarly failed to detect psilocybin in
-Gymnopilus spp. G. penetrans was studied by Dangy-Cave and Arpin (1974)
-in what appeared to be independent research on neurotropic properties.
-These contradictory results suggest that either psilocybin production in
-Gymnopilus is variable, or that misidentification has again confounded
-the chemical literature.
-
-## Evolutionary Significance of Minor Genera
-
-The scattered distribution of psilocybin production across multiple genera
-and families raises important evolutionary questions. Psilocybin and related
-indoles are found in members of Tricholomataceae (Gerronema, Mycena),
-Strophariaceae (Psilocybe, Hypholoma, Gymnopilus), Plutaceae (Pluteus),
-Coprinaceae (Copelandia, Panaeolus, Panaeolina), Bolbitiaceae (Conocybe),
-and potentially others. This broad phylogenetic distribution suggests either
-convergent evolution toward psilocybin production in multiple lineages or an
-ancient origin of the biosynthetic pathway with subsequent loss in most
-descendant species. Understanding these patterns is central to
-[[neurotropic-fungi-classification]].
+discussed in [[neurotropic-fungi-classification]].
 
 ## Inocybe: The Largest Unconfirmed Genus
 
@@ -147,4 +91,3 @@ P. villosus complete the neurotropic species list for this genus.
 The minor neurotropic genera require substantially more research attention.
 Chemical verification of reported species, proper taxonomic identification,
 and expanded field surveys should be priorities. The discovery of additional
-neurotropic species could significantly increase the known diversity, which

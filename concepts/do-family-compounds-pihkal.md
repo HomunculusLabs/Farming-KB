@@ -22,7 +22,6 @@ All DO compounds derive from 2,5-dimethoxyamphetamine (2,5-DMA), which itself is
 
 Key members documented in PiHKAL include:
 
-- [[dob-compound-profile]] (4-bromo) -- dosage 1-3 mg, duration 18-30 h
 - [[dom-compound-profile]] (4-methyl) -- dosage 3-10 mg, duration 14-20 h
 - DOI (4-iodo) -- dosage 1.5-3 mg, similar duration to DOB
 - DON (4-nitro) -- dosage 3-5 mg
@@ -79,13 +78,8 @@ The extreme potency and long duration of DO-family compounds creates unique risk
 
 ## Related Topics
 
-- [[doet-pihkal-66]]
-
 - [[bod-pihkal-entry-14]]
 
-- [[phenethylamine-chemistry-basics]]
 - [[phenethylamine-receptor-pharmacology]]
-- [[phenethylamine-duration-and-timing]]
 - [[2c-family-compounds-overview]]
-- [[tihkal-shulgin-rating-scale]]
 - [[aleph-family-overview]]

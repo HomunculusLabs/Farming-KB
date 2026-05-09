@@ -2,51 +2,9 @@
 title: Michael W. Beug
 created: 2026-04-28
 type: person
-tags: [mycology, chemistry, education, psilocybin, toxicology]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md
----
-
-# Michael W. Beug
-
-Michael W. Beug is an American mycologist, chemist, and educator known for his
-extensive contributions to mushroom identification, toxicology, and the quantitative
-analysis of psychoactive fungi.
-He served as a professor of chemistry and mycology at The Evergreen State College
-in Olympia, Washington for over three decades, training generations of students
-and amateur mycologists in fungal identification.
-
-## Academic Career
-
-Beug taught chemistry and mycology at The Evergreen State College, where he became
-one of the Pacific Northwest's most respected mycologists.
-His teaching integrated organic chemistry with field mycology, giving students
-practical skills in both laboratory analysis and specimen identification.
-
-At Evergreen, Beug developed innovative interdisciplinary courses combining
-classroom chemistry with field identification.
-His students learned to identify mushrooms using morphological features and
-microscopic examination, and to understand the biochemical basis for mushroom
-toxicity, edibility, and psychoactive properties.
-This integrated approach produced graduates who could bridge field mycology and
-laboratory science, a relatively rare combination of skills.
-
-Beug's teaching philosophy emphasized hands-on learning, regular field forays,
-and critical thinking skills for species identification.
-He was known for his patient approach to teaching microscopy, helping students
-master compound microscopes for spore examination and tissue analysis.
-
-His courses often involved multi-day field trips to diverse Pacific Northwest
-forest habitats, where students observed fungi in natural ecological contexts,
-complementing laboratory work with field experience.
-
-## Research on Psychoactive Mushrooms
-
-Beug is best known for his 1992 collaborative study with [[bigwood]],
+tags: [[bigwood]],
 *Variation of Psilocybin and Psilocin Levels*, which provided the first
-comprehensive quantitative analysis of [[psilocybin-compound]] and [[psilocin]]
+comprehensive quantitative analysis of [[psilocin]]
 concentrations across multiple species of psychoactive mushrooms.
 
 The study analyzed multiple specimens of each species from different collections
@@ -58,10 +16,7 @@ was far greater than many researchers had assumed.
 
 His research demonstrated:
 
-- That [[stamets-psi-psilocybe-azurescens-species-guide]] contains among the highest known concentrations of psilocybin, reaching approximately 1.8% dry weight
-- Significant potency variation within species, challenging assumptions about consistent dosing from natural fungal material
-- The presence of [[baeocystin]] and [[norbaeocystin]] as additional alkaloids in many psilocybin-containing species
-- That [[psilocybe-semilanceata]] has a distinctive alkaloid profile with high psilocybin but low psilocin
+- That [[baeocystin]] and [[psilocybe-semilanceata]] has a distinctive alkaloid profile with high psilocybin but low psilocin
 - Geographic and ecological factors influence alkaloid content, with different regions showing measurably different potency profiles
 
 ### Analytical Contributions
@@ -70,23 +25,7 @@ Beug's collaboration with Bigwood brought rigorous analytical chemistry methods 
 psychoactive fungi research.
 Standardized extraction protocols and HPLC analysis provided quantitative data
 comparable across species and studies, establishing a methodological foundation
-for subsequent research by [[jochen-gartz]] and others.
-
-By publishing detailed analytical protocols alongside their results, Beug and
-Bigwood enabled reproducible research and meaningful cross-study comparisons
-that significantly advanced the field.
-
-## Mushroom Toxicology
-
-Beyond psychoactive species, Beug made significant contributions to understanding
-mushroom toxicology.
-He served on the North American Mycological Association (NAMA) toxicology committee
-and developed identification protocols for distinguishing edible from toxic species.
-
-His toxicology work focused on the genera Amanita and Galerina, both of
-which contain deadly poisonous species easily confused with edible mushrooms.
-The death cap and destroying angel contain amatoxins causing irreversible liver
-failure, while [[galerina-marginata]] contains the same deadly amatoxins in
+for subsequent research by [[galerina-marginata]] contains the same deadly amatoxins in
 habitats similar to the edible honey mushroom.
 
 Beug developed educational materials and identification keys emphasizing critical
@@ -112,8 +51,7 @@ saved lives on multiple occasions.
 Beug was an accomplished mushroom photographer whose images appeared in numerous
 field guides and mycological publications.
 His photographic documentation of Psilocybe species, particularly Pacific
-Northwest taxa like [[stamets-psi-psilocybe-azurescens-species-guide]] and
-[[stamets-psi-psilocybe-cyanescens-species-guide]], provided essential reference
+Northwest taxa like [[stamets-psi-psilocybe-cyanescens-species-guide]], provided essential reference
 material for identification by amateur and professional mycologists.
 
 His photographs were notable for attention to diagnostic features including cap
@@ -139,12 +77,8 @@ publications and mycological journals covering species identification keys,
 chemical analysis methods, and poisonous mushroom recognition.
 His writing was characterized by clear, accessible language making complex
 mycological and chemical concepts understandable to non-specialist audiences.
-
 ## See Also
 
-- [[bigwood]]
 - [[jochen-gartz]]
-- [[psilocybin-compound]]
 - [[psilocin]]
-- [[baeocystin]]
 - [[stamets-psi-psilocybe-azurescens-species-guide]]

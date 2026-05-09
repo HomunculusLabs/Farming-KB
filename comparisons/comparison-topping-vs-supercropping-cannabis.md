@@ -22,31 +22,6 @@ fundamentally different mechanisms, each with distinct advantages, risks, and
 ideal application scenarios.
 
 ## Topping
-[[cannabis-topping-training]]
-Topping is the surgical removal of the apical meristem — the very top growing
-tip of the main stem — using clean, sharp scissors or a scalpel. This breaks
-apical dominance and forces the plant to redirect growth energy to the two
-nodes immediately below the cut site, developing two new main colas instead of
-one. The technique can be repeated multiple times: topping each new leader
-creates 4, 8, or even 16 main colas, dramatically increasing the number of
-bud-bearing branches.
-The optimal timing for topping is after the plant has developed 4-6 true nodes
-(not counting cotyledons) and is in active vegetative growth. The cut is made
-just above the highest set of full leaves, and recovery typically takes 3-7
-days. A variation called FIM (Fuck I Missed) involves cutting roughly 75% of
-the tip instead of removing it entirely, which often results in 3-4 new colas,
-though results are less predictable. Topping is a clean, precise technique
-that produces reliable, repeatable results when done correctly.
-The primary benefit of topping is the creation of an even, flat canopy with
-multiple colas of similar size. This maximizes light utilization across the
-plant, as no single cola shades the others. The main risk is the recovery
-period — the plant temporarily halts vertical growth while redirecting energy,
-which can add several days to the vegetative phase. Topping also creates an
-open wound that requires clean tools to prevent infection. Despite these
-considerations, topping remains one of the most popular and beginner-friendly
-training techniques because of its simplicity and predictable outcomes.
-
-## Supercropping
 [[cannabis-super-cropping-technique]]
 Supercropping is a high-stress training technique that involves intentionally
 damaging the inner tissue of cannabis stems by firmly squeezing and bending
@@ -123,8 +98,6 @@ should always be done first while the plant is young and flexible, followed by
 supercropping once branches have thickened sufficiently for the technique.
 
 ## See Also
-- [[comparison-fimming-vs-topping]]
 - [[comparison-topping-vs-fimming]]
-- [[comparison-supercropping-vs-topping]]
 - [[comparison-lollipopping-vs-supercropping]]
 - [[cannabis-scrog-and-sog-methods]]

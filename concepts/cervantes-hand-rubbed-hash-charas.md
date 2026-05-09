@@ -121,15 +121,7 @@ that contributes to charas's distinctive flavor.
 The method's inefficiency makes it impractical for commercial
 production, but it remains the most accessible method for
 growers with minimal equipment. See
-[[cervantes-dry-sieve-hash-pollinator]] and
 [[cervantes-water-hash-bubble-hash]] for more efficient
-alternatives, and [[cervantes-finger-hash-manicuring]] for
-a related byproduct of the trimming process.
-
-## See Also
-
-- [[cervantes-hash-making-extracts]]
-- [[cannabis-advanced-growing-techniques]]
+alternatives, and [[cervantes-hash-making-extracts]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
-- [[cervantes-manicuring-trimming-buds]]
 - [[cervantes-terpenoids-terpene-profiles]]

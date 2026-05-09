@@ -49,7 +49,7 @@ Biosynthesized in Solanaceae roots from phenylalanine via phenylacetaldehyde →
 tropinone → tropine → littorine → hyoscyamine → scopolamine. The final two
 steps are catalyzed by hyoscyamine 6β-hydroxylase (H6H), which hydroxylates
 then epoxidizes hyoscyamine. The pathway is most active in hairy root cultures
-of [[datura-stramonium]] and [[brugmansia-suaveolens]].
+of [[brugmansia-suaveolens]].
 
 ## Pharmacology
 
@@ -83,65 +83,10 @@ atropine, owing to superior BBB penetration.
 
 At supratherapeutic doses (>1 mg IV, >2 mg oral), scopolamine produces a
 characteristic deliriant syndrome fundamentally distinct from serotonergic or
-dissociative hallucinogens.
-
-- **Dose for delirium:** 0.5-1.0 mg IV, 1-4 mg oral
-- **Duration:** 4-12 hours depending on route and dose
-- **Onset:** 15-45 min IV, 30-90 min oral
-
-### Subjective Effects
-
-- Complete inability to distinguish hallucinations from reality
-- Conversations with phantom persons accepted as genuine
-- Dangerous loss of coordination and spatial awareness
-- Extreme xerostomia, blurred vision, tachycardia
-- **Characteristic anterograde amnesia** — nearly universal
-- Dysphoria and panic more common than with other psychoactive classes
-
-⚠️ **Deliriant states are among the most dangerous altered states: users
-cannot recognize impairment, risk of accidental injury is extreme, and toxic
-psychosis can occur at doses only marginally above the deliriant threshold.**
-
-## Toxicity
-
-- **LD₅₀ (rat, oral):** 1350 mg/kg
-- **LD₅₀ (rat, IV):** 36 mg/kg
-
-### Anticholinergic Toxidrome
-
-"Blind as a bat, mad as a hatter, red as a beet, hot as a hare, dry as a bone,
-the bowel and bladder lose their tone." Mydriasis, hyperthermia, tachycardia,
-urinary retention, agitation, seizures at extreme doses. Treatment:
-physostigmine 1-2 mg IV (reversible anticholinesterase).
-
-## Natural Occurrence
-
-Found primarily in *Datura stramonium* (jimsonweed), *D. metel*, *Brugmansia*
-species (angel's trumpet), *Duboisia myoporoides* (commercial pharmaceutical
-source), and *Scopolia carniolica* (genus namesake). Minor component in
 [[atropa-belladonna]] alongside atropine/hyoscyamine.
 
 ## History
 
 First isolated in 1880 by Albert Ladenburg from *Scopolia carniolica*.
-Ethnobotanical use dates to pre-Columbian South America, where [[brugmansia-suaveolens]]
-preparations served in shamanic ritual and ordeal poison. In the 20th century,
-scopolamine was a component of "twilight sleep" (Dämmerschlaf) obstetric
-anesthesia with morphine (1914-1960s) and was investigated in CIA
-interrogation programs.
-
-## Related Compounds
-
-| Compound | Key Difference |
-|----------|---------------|
-| atropine | No epoxide bridge; less CNS penetration |
-| Hyoscyamine | Direct biosynthetic precursor; no epoxide |
-| Ipratropium | Quaternary ammonium; no CNS activity |
-| Tiotropium | Long-acting M₁/M₃ selective derivative |
-
-## See Also
-
-- atropine — Related tropane alkaloid with primarily peripheral effects
-- [[datura-stramonium]] — Major natural source plant
-- [[brugmansia-suaveolens]] — South American source with ethnobotanical significance
+Ethnobotanical use dates to pre-Columbian South America, where [[datura-stramonium]] — Major natural source plant
 - [[hyoscyamus-niger]] — Henbane, Solanaceae source of tropane alkaloids

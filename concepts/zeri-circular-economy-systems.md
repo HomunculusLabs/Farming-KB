@@ -84,7 +84,7 @@ Sustainable Communities / ZERI-New Mexico works under the US Forest Service Coll
 
 The ZERI model maps directly onto [[integrated-homestead-design]] principles:
 
-- [[mushroom-cultivation-fundamentals]] from animal or crop waste
+- [[mushroom-compost-substrates]] from animal or crop waste
 - [[vermicomposting]] from spent mushroom substrate
 - [[animal-byproducts]] as mushroom substrate input
 - [[cover-cropping-guide]] waste as additional substrate

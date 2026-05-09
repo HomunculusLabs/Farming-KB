@@ -21,34 +21,6 @@ microclimatic diversity, while the keyhole bed maximizes growing area
 efficiency for standard vegetable production.
 
 ## Herb Spiral
-[[herb-spiral]]
-
-The herb spiral creates a vertical, spiral-shaped garden bed typically 5-6
-feet in diameter and 3-4 feet tall at center. By building upward in a
-spiral, it generates distinct microclimates from the hot, dry, well-drained
-top to the cool, moist, shaded bottom. A single spiral can replace a 20-30
-foot row of conventional garden bed while providing ideal conditions for
-Mediterranean herbs (rosemary, thyme, oregano at the top), moderate herbs
-(basil, parsley, dill in the middle), and moisture-loving species (mint,
-watercress at the bottom).
-
-The design embodies permaculture principles including stacking functions
-(vertical growing zones in one structure), edge effect (maximum interface
-between microclimates), and small-scale intensive production. Construction
-uses stone, brick, or concrete block for the retaining walls, filled with
-varying soil mixes: sandy and well-draining at the top, rich loam in the
-middle, moisture-retentive soil at the bottom. A small pond or basin at the
-bottom is traditional but optional for additional moisture management.
-
-The herb spiral's primary strength is its ability to grow species with very
-different water and sun requirements in a single structure. Mediterranean
-herbs that would rot in moist garden soil thrive at the top, while moisture-
-loving herbs that would wilt in full sun flourish at the bottom. The north-
-facing side provides shade for delicate species, while the south-facing side
-maximizes sun exposure. The spiral's verticality also makes harvesting
-ergonomic and adds significant visual interest to the garden landscape.
-
-## Keyhole Beds
 [[keyhole-beds]]
 
 Keyhole beds are circular or horseshoe-shaped garden beds, typically 8-12
@@ -115,8 +87,6 @@ with maximum accessibility for daily harvesting and garden maintenance
 throughout the growing season.
 
 ## See Also
-- [[comparison-keyhole-garden-vs-square-foot-gardening]]
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
-- [[comparison-square-foot-vs-raised-bed-gardening]]
 - [[comparison-banana-circle-vs-herb-spiral]]
 - [[comparison-companion-planting-reference-vs-trap-cropping]]

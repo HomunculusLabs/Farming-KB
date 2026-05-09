@@ -1,5 +1,5 @@
 ---
-title: Stinkhorn Fungi and Gasteromycete Fruiting Bodies
+title: Stinkhorn Fungi Gasteromycetes
 created: 2026-04-28
 tags:
   - mycology
@@ -22,22 +22,7 @@ type: concept
 
 Stinkhorn fungi and related gasteromycetes represent some of the most visually
 striking and biologically ingenious organisms in Kingdom Fungi. Members of the
-[[basidiomycota-classification-major-clades|Basidiomycota]], these fungi have evolved flamboyant
-fruiting bodies that deploy spores through mechanisms radically different from
-the familiar gilled mushroom.
-
-Rather than launching spores ballistically from exposed hymenia, gasteromycetes
-retain their spores internally and rely on animals, wind, rain, or explosive
-force for dispersal. The group encompasses stinkhorns, puffballs, earth-stars,
-bird's nest fungi, and cannon fungi, united by their internal spore production.
-
-The defining characteristic of gasteromycetes is spore formation inside the
-fruiting body rather than on exposed gills or tubes (Greek: gastero = stomach,
-mycetes = fungi). They appear to have evolved from different kinds of ancient
-fungi that produced conventional umbrella-shaped mushrooms, and are regarded as
-a ragbag of species rather than a natural phylogenetic grouping.
-
-## Phallus impudicus: The Shameless Penis
+[[phallus-impudicus]]: The Shameless Penis
 
 The common stinkhorn, *Phallus impudicus*, has been impossible to ignore
 throughout human history. Pliny the Elder featured it in his thirty-seven-volume
@@ -89,61 +74,6 @@ maintaining a rigid column under pressure.
 Cage fungi share the egg-based development of stinkhorns but unfold into more
 open and architecturally diverse structures:
 
-- **Clathrus ruber** forms a spherical cage of red arms with spores on the
-  inside of its bars, resembling a Chinese lantern
-- **Anthurus archeri** separates into four or more bright orange arms that curl
-  back over the egg, creating a star shape; its hatching performance resembles
-  the agonized contortions of an injured lobster
-- **Laternea** fuses arms at their tips and dangles a reeking lantern inside
-  the resulting vault
-- **Ileodictyon** (intestinal net), native to New Zealand and Australia, forms
-  a white polyhedral cage that disengages from its papery skin after emerging
-  from a buried egg
-
-The Maori accorded Ileodictyon nine different names and barbecued its eggs. The
-detached cages were called "feces of ghosts or of the stars." The resemblance
-between the Ileodictyon cage, Buckminster Fuller's geodesic domes, and
-buckminsterfullerenes (buckyballs) reflects the surprising strength offered by
-lightweight polyhedral structure, valuable for fungi that make conservative use
-of building materials.
-
-## Aseroe, Colus, and Lysurus
-
-*Aseroe rubra* from Australasia separates into a star of arms on a central
-column and drapes its gleba over the outer surface of the structure. The arms
-are colored red, and the gleba smells like rotting meat.
-
-*Colus* species from Australia extend as a single orange column before opening
-into a lattice of arms from which the spore slime is suspended like a hammock.
-*Lysurus mokusin* from Asia produces an orange lattice tower resembling a
-miniature Chinese pagoda, making it one of the most architecturally elaborate
-of all stinkhorn relatives.
-
-These diverse forms illustrate how small modifications in the expansion pattern
-of the receptacle can produce radically different architectures. Weakening
-tissue along four or five tracks would cause the shaft to split into arms upon
-pressurized expansion, transforming a Phallus-type body into an Anthurus-type.
-
-## Evolutionary Considerations
-
-Research shows that conspicuous modifications in fruiting body morphology can
-derive from surprisingly minor changes in enzyme expression during development.
-Natural selection probably sculpted these species in a relatively short period,
-perhaps a few million years. Different fly species are lured by particular
-scents and visual cues, so the various receptacles reflect distinctive solutions
-to the challenge of supporting and advertising spore slime.
-
-This parallels the evolution of insect-pollinated flowers like the Sumatran
-corpse flower *Amorphophallus titanum*, which emits stinkhorn-like smells to
-attract carrion beetles. The parallel between stinkhorn entomophily and carrion
-flower pollination represents one of the most striking examples of convergent
-evolution between Kingdom Fungi and Kingdom Plantae.
-
-## Other Gasteromycetes
-
-## See Also
-
-- [[basidiomycota-classification-major-clades|Basidiomycota overview]]
-- [[basidiospore-discharge-mechanism|Basidiospore discharge mechanism]]
-- [[fungal-spore-dispersal|Fungal spore dispersal strategies]]
-- [[cordyceps-insect-pathogenic-fungi|Cordyceps and insect pathogenic fungi]]
+- **[[basidiomycota-classification-major-clades]]
+- [[fungal-spore-dispersal]]
+- [[cordyceps-insect-pathogenic-fungi]]

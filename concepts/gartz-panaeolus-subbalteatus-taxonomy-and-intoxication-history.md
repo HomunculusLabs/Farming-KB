@@ -9,11 +9,7 @@ sources: [~/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
 type: concept
 ---
 
-# [[panaeolus-subbalteatus]] Taxonomy and Intoxication History
-
-The genus Panaeolus contains dark-spored, dung-inhabiting mushrooms that have
-been causing involuntary intoxications since at least the early 19th century.
-[[gartz-global-psilocybin-mushroom-distribution]] is the most important psychoactive European
+# [[gartz-global-psilocybin-mushroom-distribution]] is the most important psychoactive European
 species among the genus, with a long and controversial history of
 identification and chemical analysis.
 
@@ -81,8 +77,7 @@ stains is very rare overall.
 
 ## Alkaloid Content
 
-Stijve concluded that dried fruiting bodies contain about 0.1% [[psilocybin-compound]]
-regardless of location, plus a tiny amount of [[baeocystin]]. However, dried
+Stijve concluded that dried fruiting bodies contain about 0.1% [[baeocystin]]. However, dried
 mushrooms from the Pacific Northwest have been reported to contain 0.16% to
 0.65% psilocybin. The first North American analyses (1959) led to isolation of
 a water-soluble indole compound now generally thought to be baeocystin.

@@ -13,12 +13,7 @@ type: concept
 
 Humus is the end product of decomposition, a stable, incredibly
 complex group of molecules that only slowly undergoes further
-breakdown. [[teaming-with-microbes-humus-formation-and-glomalin]] explains how humus is formed and why it is the single most important
-ingredient for healthy, productive soil.
-
-## How Humus Is Made
-
-[[teaming-with-microbes-soil-food-web-overview]] is essential context for understanding humus:
+breakdown. [[teaming-with-microbes-soil-food-web-overview]] is essential context for understanding humus:
 the journey from leaf to humus follows a precise ecological
 sequence. As a leaf is shredded, chewed, and chemically
 dissolved by soil organisms, some parts decompose more quickly
@@ -124,25 +119,9 @@ rain and forms clay-bound, root-thwarting clods.
 
 ## Humus and Fungal Networks
 
-[[teaming-with-microbes-fungi-the-underground-network]] describes how an intact subterranean ecology develops in humus-rich soil,
-woven by silken fibers of mycelium, riddled with tunnels from
-worms and other creatures. Some naturalists theorize that roots
-and fungal mycelia may translocate water from woody caches to
-plants and fungi many feet away, creating a hidden irrigation
-system powered by the soil food web.
-
-## Building Humus in the Garden
-
-[[composting-science-solomon]] and [[hugelkultur-bed-construction-detailed]] are two practical approaches
-for maintaining and building humus:
-
-- Practice [[gaias-garden-sheet-mulching]] to add constant
+[[composting-science-solomon]] and [[gaias-garden-sheet-mulching]] to add constant
   organic matter
-- Use [[gaias-garden-cover-crops-soil-building]] and green
-  manures
-- Minimize tilling, which burns up organic matter and disrupts
-  fungal networks
-- Apply [[gaias-garden-mulch-plants-ecological-garden]] to
+- Use [[gaias-garden-mulch-plants-ecological-garden]] to
   protect soil surfaces
 - Compost all available organic waste and return it to the soil
 - See [[gaias-garden-soil-food-web-and-humus]] for the complete

@@ -127,8 +127,6 @@ practical application of these technologies at contaminated sites.
 
 ## See Also
 
-- [[singh-fungal-degradation-pcbs-dioxins]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[singh-peroxidase-pah-degradation]]
 - [[singh-fungal-metabolism-phenols-chlorophenols]]

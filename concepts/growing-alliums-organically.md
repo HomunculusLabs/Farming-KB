@@ -8,7 +8,7 @@ sources: []
 ---
 # Growing Alliums Organically
 
-The allium family includes onions, garlic, leeks, shallots, and chives. These are among the most widely grown vegetables and are relatively straightforward in an organic [[container-growing-vegetables-herbs]] [[growing-brassicas-organically]] system. They are useful in crop rotation and their strong scent can help deter certain pests.
+The allium family includes onions, garlic, leeks, shallots, and chives. These are among the most widely grown vegetables and are relatively straightforward in an organic [[growing-brassicas-organically]] system. They are useful in crop rotation and their strong scent can help deter certain pests.
 
 ## General Growing Principles
 
@@ -104,14 +104,9 @@ All bulb alliums store best when:
 
 ## Related
 
-- [[comparison-garlic-vs-onion-growing]]
-
 - [[allium-tuberosum]]
-- [[growing-potatoes-organically]]
 - [[growing-sweet-corn-organically]]
 
-- [[vegetable-growing-guide]] for general vegetable cultivation
 - [[mushroom-crop-rotation-and-substrate-reuse]]
-- [[hamilton-organic-pest-control]] for pest management
 - [[herb-growing-guide]] for chive cultivation
 - [[alliums-growing-guide]]

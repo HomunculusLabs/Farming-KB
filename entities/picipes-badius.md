@@ -112,15 +112,9 @@ Yields are low and the inedible texture limits practical cultivation interest to
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[fomes-fomentarius]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[hericium-erinaceus]]
-- [[suillus-luteus]]
 - [[boletus-edulis-entity]]
-- [[polyporus-umbellatus]]
 - [[coriolopsis-capitata]]
-- [[laccaria-bicolor]]
-- [[armillaria-mellea]]
-- [[pisolithus-tinctorius]]
+- [[armillaria-mellea-entity]]
 - [[rhizophagus-irregularis]]

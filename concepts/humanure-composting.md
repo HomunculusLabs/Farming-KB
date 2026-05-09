@@ -91,7 +91,7 @@ Target C:N ratio: 25-35:1. Humanure is ~5-10:1, cover materials 100-400:1. Layer
 
 Laws vary widely by jurisdiction. In the US, no federal regulation — it's state/local:
 
-- **Permissive states** (few restrictions): Colorado, Oregon, Washington, Vermont, Maine allow [[composting-toilets]] and humanure with minimal permitting
+- **Permissive states** (few restrictions): Colorado, Oregon, Washington, Vermont, Maine allow composting toilets and humanure with minimal permitting
 - **Restrictive states**: some require NSF/ANSI 41 certified systems or prohibit use on food crops
 - **Building codes**: many jurisdictions accept composting toilets under IRC Appendix Q or as alternative systems via variance
 - **International**: Sweden and parts of Scandinavia are permissive; many EU countries require approved systems; Australia has state-level variation

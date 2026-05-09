@@ -131,9 +131,6 @@ agriculture that restores degraded urban and peri-urban landscapes.
 
 ## See Also
 
-- [[broadscale-restoration-watershed-repair]]
 - [[urban-permaculture-swales-raised-beds]]
-- [[urban-permaculture-rainwater-harvesting-graywater]]
 - [[contour-swale-irrigation-design]]
-- [[faires-swales-and-water-conservation]]
 - [[urban-permaculture-edge-effect-and-design-principles]]

@@ -59,20 +59,10 @@ Pressed hashish stores well, particularly when the oil content is sufficient to 
 
 ## Relationship to Traditional Hashish Methods
 
-This oil-based approach to hashish preparation is fundamentally different from traditional methods described in [[cannabis-hashish-making-methods]]. Traditional dry-sift or ice-water hashish relies on mechanical separation of trichomes from plant material, preserving the natural ratio of cannabinoids to terpenes found on the plant surface. Oil-based hashish allows the processor to selectively control potency through chemical refinement of the oil before recombination.
-
-Each approach has advantages. Traditional methods produce hashish with authentic terpene profiles characteristic of the source cultivar. Oil-based methods offer much greater control over final potency and can transform lower-quality starting material into a premium product through chemical refinement.
-
-## Related Topics
-
-- [[cannabis-hashish-guide]] for traditional hashish production methods
-- [[cannabis-hashish-making-methods]] for dry sift and ice water techniques
+This oil-based approach to hashish preparation is fundamentally different from traditional methods described in [[cannabis-hashish-guide]] for traditional hashish production methods
 - [[cannabis-hash-making-from-extracted-oil]] for related oil-to-hashish processes
-- [[cannabis-oil-isomerization]] for oil refinement before hashish preparation
 - [[cannabis-winterization-filtration]] for oil purification steps
-- [[cannabis-honey-oil-production]] for refined oil used in premium hashish
 - [[hashish-binding-pressing-and-storage-techniques]] for pressing and storage details
-- [[cannabis-extraction-basics]] for the initial oil extraction
 - [[cannabis-trichome-guide]] for understanding trichome composition in traditional hashish
 
 ## Water Content and Texture Control

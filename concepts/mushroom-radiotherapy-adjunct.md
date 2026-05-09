@@ -3,7 +3,7 @@ title: Mushroom Radiotherapy Adjunct Use
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Mushroom Radiotherapy Adjunct Use
@@ -79,20 +79,11 @@ More systematic studies are needed to:
 - Conduct large-scale randomized controlled trials with standardized preparations
 
 ## See Also
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 - [[medicinal-mushroom-immune-modulation]]
-- [[medicinal-mushroom-compounds-and-health-benefits]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[medicinal-mushroom-cancer-regulatory-frameworks]]
-
 - [[psk-gastric-cancer-clinical-trials]]
-- [[psp-phase-clinical-trials]]
 - [[mushroom-apoptosis-mechanisms]]
-- [[mushroom-adjunct-immunotherapy-combinations]]
 - [[mushroom-hematopoietic-restoration-post-chemo]]
-- [[mushroom-quality-of-life-cancer]]
 - [[mushroom-apoptosis-mechanisms]]
-- [[mushroom-cancer-clinical-trials-overview]]
 - [[mushroom-hematopoietic-restoration-post-chemo]]

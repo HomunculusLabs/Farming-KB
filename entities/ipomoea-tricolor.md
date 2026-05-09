@@ -132,13 +132,8 @@ Ethnobotanical documentation efforts in Oaxaca, Guerrero, and other Mexican stat
 
 ## See Also
 
-- [[schultes-morning-glory-ipomoea-seeds]]
 - [[ipomoea-violacea]]
-- [[inocybe-tricolor]]
-
 - [[turbina-corymbosa]]
-- [[lysergic-acid-amide]]
 - [[argyreia-nervosa]]
-- [[morning-glory-lsa-and-ergoline-alkaloids]]
 - [[claviceps-purpurea]]
 - Periglandula

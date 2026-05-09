@@ -49,14 +49,7 @@ after rain is essential. Motion-activated sprinklers, ultrasonic devices, and
 even simple wind chimes can startle wildlife away, though effectiveness varies.
 Some gardeners report success with human hair or soap hung from branches, as the
 unfamiliar scent signals human presence. The
-[[query-how-to-control-pests-without-chemicals]] covers these natural deterrent methods in detail.
-
-Habitat modification reduces the attractiveness of your garden to wildlife. Deer
-prefer edge habitats where forest meets open land, so maintaining a clear zone
-between your garden and wooded areas reduces cover that deer use as approach
-corridors. Removing brush piles, tall grass, and fallen fruit eliminates food
-sources and hiding spots for smaller animals like rabbits and groundhogs. If you
-have a [[query-how-to-set-up-a-backyard-pond]], be aware that it attracts
+[[query-how-to-set-up-a-backyard-pond]], be aware that it attracts
 wildlife including raccoons, herons, and frogs that may also investigate your
 garden. Keeping the garden area clean and free of fallen produce reduces the
 food reward that encourages repeat visits.
@@ -66,20 +59,7 @@ than against it. Deer tend to avoid plants with strong fragrances, fuzzy or
 hairy leaves, thorns, or toxic compounds. Lavender, rosemary, sage, thyme,
 yarrow, daffodils, and foxgloves are all relatively deer-resistant and can be
 planted as a perimeter border around more vulnerable crops. This approach aligns
-with [[cervantes-companion-planting-pest-deterrent]] principles, where protective
-plants serve double duty by deterring pests and providing other garden benefits
-like pollinator attraction or soil improvement. For cannabis growers, companion
-planting with deer-repellent herbs around the perimeter of the grow area
-provides an additional layer of protection.
-
-For persistent wildlife problems, a multi-species approach is necessary.
-Groundhogs are best managed with live trapping and relocation or with buried
-fencing. Raccoons that raid sweet corn and fruit can be deterred by electric
-fencing strands positioned at the top and bottom of conventional fences.
-Squirrels that dig up seeds and steal fruit can be managed with physical
-barriers like row covers and wire cloches over individual plants. Birds are
-particularly challenging because they are mobile and protected by law in many
-areas, but netting, scare tape, and [[comparison-trap-cropping-vs-beneficial-insects]] with
+with [[comparison-trap-cropping-vs-beneficial-insects]] with
 sacrificial plants can reduce damage significantly.
 
 In permaculture design, wildlife management is integrated into the broader site
@@ -105,9 +85,6 @@ food sources that encourage animals to stay outside the cultivated zones.
 
 ## Related
 
-- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] Questions
 - [[query-how-to-control-pests-without-chemicals]]
-- [[query-what-is-companion-planting-and-how-does-it-work]]
 - [[query-how-to-design-a-permaculture-property-from-scratch]]
-- [[query-what-is-trap-cropping-and-how-does-it-work]]
 - [[query-how-to-attract-native-bees-and-beneficial-insects]]

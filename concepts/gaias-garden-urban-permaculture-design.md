@@ -3,23 +3,7 @@ title: Urban Permaculture Design in Gaia's Garden
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, permaculture]
-sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
----
-# Urban Permaculture Design in Gaia's Garden
-
-> Cities and suburbs are already built. Urban land can be put to productive use rather than wasted on lawns. Every blossom-decked corner is a reservoir for helpful wildlife. -- Toby Hemenway, Gaia's Garden
-
-## Overview
-
-Although Gaia's Garden is subtitled "A Guide to Home-Scale Permaculture" and addresses gardeners across a range of settings, it contains substantial guidance specifically for urban and suburban gardeners. Hemenway argues that urban and suburban landscapes represent both a challenge (small lots, regulations, neighbor concerns) and an enormous opportunity -- the collective area of yards, parks, and urban green space vastly exceeds the area devoted to agriculture, meaning that converting even a fraction of urban land to ecological gardens would have massive environmental benefits.
-
-## The Urban Challenge
-
-### Most Urban and Suburban Soil Is Degraded
-
-Hemenway notes that most urban and suburban soils are low in organic matter. Years of lawn maintenance with synthetic fertilizers and pesticides have depleted soil life. The ecological garden's first task in urban settings is often soil rehabilitation through [[gaias-garden-sheet-mulching]], composting, and cover cropping.
+tags: [[gaias-garden-sheet-mulching]], composting, and cover cropping.
 
 ### Small Lot Design
 
@@ -96,14 +80,7 @@ Hemenway's water chapter has special relevance for urban gardeners:
 ### Chickens
 
 - Place the coop at the Zone 1/Zone 2 boundary
-- Use [[gaias-garden-chicken-tractors]] on urban garden beds
-- A small flock of 4-8 hens fits in many urban backyards
-- Connect the coop to the compost system for kitchen scrap recycling
-- Some cities allow hens but not roosters
-
-### Ducks
-
-- [[gaias-garden-duck-integration]] is especially suitable for urban settings
+- Use [[gaias-garden-duck-integration]] is especially suitable for urban settings
 - Muscovies are very quiet -- ideal for noise-sensitive neighborhoods
 - A small pond or water feature provides for ducks' water needs
 - Ducks control slugs and insects without scratching up garden beds
@@ -121,22 +98,9 @@ Even in the most impoverished urban landscapes, some wild plants and animals are
 - Most towns have enough vacant lots, neglected corners, parks, and flowery landscaping to nurture a lively community of small wildlife
 - Every blossom-decked corner is a reservoir for helpful wildlife
 - Removing even one urban yard from the conventional lawn model creates habitat that benefits the broader neighborhood
-- [[beneficial-insect-habitat]] plants attract pollinators and pest predators from surrounding areas
-
-## The Retrofit Strategy
-
-Hemenway implicitly advocates for a retrofit approach to suburban landscapes:
-- Work with existing trees, fences, structures, and grades
-- Don't try to convert every backyard to row crops -- focus on ecological function
-- Sheet mulch over lawns to create new growing areas without heavy earthwork
-- Use existing fences as trellises or the backbone for food-bearing hedges
-- A permaculture city garden doesn't look radically different from a well-landscaped conventional yard -- it just functions far more productively
-
-## See Also
-
 - [[gaias-garden-bamboo-permaculture]]
 
-[[gaias-garden-backyard-ecosystem]], [[permaculture-urban-design]], [[permaculture-retrofitting-suburbs]], [[permaculture-zone-planning]], [[urban-permaculture-design]], [[gaias-garden-food-forest-layers]], [[gaias-garden-water-harvesting-swales-and-greywater]]
+[[permaculture-urban-design]], [[permaculture-zone-planning]], [[gaias-garden-food-forest-layers]], [[gaias-garden-water-harvesting-swales-and-greywater]]
 
 ## Source
 

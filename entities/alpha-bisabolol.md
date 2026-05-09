@@ -101,28 +101,5 @@ In the cannabis entourage model, α-bisabolol is theorized to synergize with can
 ## Extraction and Production
 
 Natural (-)-α-bisabolol is primarily extracted by steam distillation of candeia wood bark, yielding a colorless to pale yellow oil. Due to overharvesting concerns with native Brazilian candeia forests, sustainable cultivation programs and synthetic production methods have been developed:
-- **Biotechnological production**: Engineered yeast ([[saccharomyces-cerevisiae]]) strains expressing a bisabolol synthase gene from Matricaria chamomilla can produce α-bisabolol via fermentation, achieving titers of >100 mg/L
-- **Semi-synthetic**: Can be synthesized from (−)-α-pinene via a multi-step chemical route, though this produces racemic mixtures with reduced biological activity
-
-## Key Details
-
-| Property | Value |
-|---|---|
-| Terpene class | Sesquiterpene (monocyclic) |
-| Primary aroma | Sweet, floral, chamomile-like |
-| Aroma threshold | ~10 ppb in air |
-| Common cannabis range | 0.01–0.1% of essential oil |
-| Notable strains | Headband, Pink Kush, Harle-Tsu, ACDC |
-| Key botanical source | Matricaria chamomilla |
-| Primary bioactivity | Anti-inflammatory, wound healing |
-| Safety | GRAS, non-toxic, non-sensitizing |
-
-## Relevance
-
-α-Bisabolol represents one of the best-characterized terpenes in terms of clinical dermatological application. Its dual role as a therapeutic agent and formulation enhancer (permeation promoter, solubilizer) makes it valuable across cosmetics, pharmaceuticals, and cannabis topicals. As sustainability concerns drive demand for biotechnologically produced terpenes, α-bisabolol serves as a model compound for industrial-scale sesquiterpene fermentation. In the context of cannabis science, it exemplifies how minor terpenes can contribute meaningfully to the entourage effect, particularly in CBD-dominant and topical product categories.
-
-## See Also
-
-- [[candida-albicans]]
-- [[cannabis-sativa]]
+- **Biotechnological production**: Engineered yeast ([[candida-albicans]]
 - [[matricaria-chamomilla]]

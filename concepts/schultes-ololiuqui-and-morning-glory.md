@@ -19,10 +19,7 @@ type: concept
 # Ololiuqui and Morning Glory Seeds
 
 Ololiuqui is one of the most ancient and culturally significant
-[[psychoactive-cacti-species-reference]] of Mesoamerica. Used for centuries by Aztec
-priests to commune with their gods and receive messages, the seeds of
-*Turbina corymbosa* and related Morning Glories represent the only
-naturally occurring source of [[beta-carboline-chemistry]] amides known from the
+[[beta-carboline-chemistry]] amides known from the
 plant kingdom, making them chemically unique among [[entheogen-tetrapteris-methystica-alternative-caapi]].
 
 ## Aztec and Colonial Records
@@ -98,8 +95,7 @@ natives as an ever present help in time of trouble."
 
 ## Chemistry: Lysergic Acid Amides
 
-The chemical investigation of Ololiuqui by [[hofmann-lsd-pharmacology-serotonin-brain]] was a
-milestone in [[ethnomycology-cultural-significance-sacred-fungi]]. Lysergic acid alkaloids are the
+The chemical investigation of Ololiuqui by [[ethnomycology-cultural-significance-sacred-fungi]]. Lysergic acid alkaloids are the
 hallucinogenic compounds of Ololiuqui. They are indole alkaloids also
 isolated from Ergot. Lysergic acid amide (also known as ergine) and
 lysergic acid hydroxyethylamide are the main components of the alkaloid
@@ -129,10 +125,7 @@ intoxication.
 
 ## See Also
 
-- [[schultes-peyote-tracks-little-deer]] -- Field documentation of plant use
 - [[hofmann-lsd-pharmacology-serotonin-brain]] -- Chemical analysis of lysergic acid amides
-- [[beta-carboline-chemistry]] -- Core chemical structure shared with LSD
 - [[schultes-peyote-tracks-little-deer]] -- Other major Mesoamerican hallucinogen
-- [[psychoactive-cacti-species-reference]] -- Broader survey of hallucinogenic flora
 - [[entheogen-tetrapteris-methystica-alternative-caapi]] -- Plants in sacred ceremonial contexts
 - [[hofmann-ololiuqui-morning-glory-investigation]]

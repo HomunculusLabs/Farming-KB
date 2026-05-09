@@ -127,11 +127,7 @@ A notable technique discovered by Japanese researchers:
 
 ## See Also
 
-- [[stamets-mushroom-growing-parameters-by-species]] -- all species parameters
 - [[mushroom-cultivator-substrate-preparation]] -- sawdust/bran substrate preparation
-- [[stamets-non-composted-substrates]] -- wood-based substrate methods
 - [[mushroom-cultivator-grain-spawn-production]] -- spawn production
-- [[stamets-shiitake-and-stropharia-cultivation]] -- other species cultivation
 - [[mushroom-sawdust-bran-spawn-preparation]]
-- [[mushroom-cultivator-wood-based-substrates]]
 - [[fungal-single-cell-protein-production]]

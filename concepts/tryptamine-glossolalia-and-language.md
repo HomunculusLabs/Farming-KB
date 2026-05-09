@@ -10,19 +10,7 @@ created: 2026-05-08
 ## Overview
 
 A distinctive and little-studied feature of the tryptamine psychedelic experience
-is the emergence of spontaneous vocal phenomena that Terence McKenna described as
-a form of glossolalia fundamentally different from the classical speaking in tongues
-studied in religious contexts. Under the influence of DMT and psilocybin,
-experiencers report access to a primal "Ursprache" (ancient language) that lies
-behind ordinary language — a translinguistic mode of communication in which meaning
-is "actually beheld in three-dimensional space" rather than merely heard or read.
-This phenomenon suggests that tryptamines act directly on the brain's language
-centers, revealing latent capacities for linguistic expression that may represent
-an evolutionary frontier for human communication.
-
-## The Logos and Language Centers
-
-McKenna's central claim about tryptamine hallucinogens is that they "invoke the
+is the emergence of spontaneous vocal phenomena that [[tryptamine-hallucinogens]] is that they "invoke the
 Logos" — they work directly on the language centers of the brain. This means that
 "an important aspect of the experience is the interior dialogue." Unlike other
 psychedelics such as mescaline, which primarily affect visual perception, the
@@ -137,13 +125,8 @@ may be inadequate to the phenomena it encounters under tryptamines.
 
 ## See Also
 
-- [[dmt-phenomenology]]
 - [[tryptamine-hyperdimensional-entities]]
-- [[psilocybin-extraterrestrial-hypothesis]]
-
-## References
-
-- McKenna, T. (1992). "Tryptamine Hallucinogens and Consciousness." The Archaic Revival. HarperSanFrancisco.
+- [[tryptamine-hallucinogens-and-consciousness]]." The Archaic Revival. HarperSanFrancisco.
 - Graves, R. (1948). The White Goddess. Faber and Faber.
 - Scholem, G. (1960). Major Trends in Jewish Mysticism. Schocken Books.
 - Benny, J. (1978). "Glossolalia." Language 54(2).

@@ -101,22 +101,9 @@ While not considered dangerously poisonous, *S. scabrosus* can cause:
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| [[sarcodon-imbricatus]] | Less scaly cap, paler coloration, slightly less bitter; associated with both conifers and some hardwoods |
-| *Sarcodon underwoodii* | North American species with blue-tinged flesh and different spore ornamentation |
-| *Sarcodon rimosus* | Larger scales, more robust stature; western North America |
 | [[hydnellum-peckii]] | "Bleeding tooth fungus" — exudes red fluid droplets; teeth are on the underside of a more irregular cap |
 | *Bankera fuligineoalba* | Smaller, paler species in the same family; very rare |
-| [[hydnum-repandum]] | Edible sweet tooth — pale orange cap, white teeth, mild pleasant taste; key distinction for foragers |
-
-## Cultivation
-
-*Sarcodon scabrosus* is not commercially cultivated. As an obligate ectomycorrhizal species, it requires living tree roots to complete its lifecycle, making artificial cultivation extremely challenging. No practical cultivation methods exist, and all collections are from wild foraging.
-
-## See Also
-
-- [[sarcodon-imbricatus]] — Related hedgehog mushroom with slightly less bitter flesh
-- [[hydnellum-peckii]] — Bleeding tooth fungus, visually distinctive Thelephorales member
+| [[sarcodon-imbricatus]] — Related hedgehog mushroom with slightly less bitter flesh
 - [[hydnum-repandum]] — Edible hedgehog mushroom, the most commonly foraged tooth fungus
-- [[ectomycorrhizal-fungi]] — Overview of the mycorrhizal lifestyle
-- [[the-soil-food-web]] — Forest floor fungal ecology and decomposition cycles
+- [[soil-food-web-nutrient-cycling]] — Forest floor fungal ecology and decomposition cycles
 - [[boletus-edulis-entity]] — Fellow ectomycorrhizal associate of coniferous forests

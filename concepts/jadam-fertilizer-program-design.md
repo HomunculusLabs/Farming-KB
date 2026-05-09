@@ -64,84 +64,34 @@ Base fertilizer is supplied by:
 
 ### Additional Fertilizer
 
-Additional fertilizer is the [[jadam-animal-byproduct-liquid-fertilizer]] system:
-
--   **GC-JLF** (grass and crop residue JLF) — The main additional
-    fertilizer. Made from wild grass and crop residues. It contains the
-    same nutritional balance the crop needs because it comes from the same
-    type of plant material.
--   **Nitrogen boosters** — When GC-JLF is insufficient:
-    -   Food waste JLF (2.93% nitrogen)
-    -   Human feces JLF (2.48% nitrogen)
-    -   Urine JLF (3.92% nitrogen)
-    -   Fish JLF (7.44% nitrogen)
-    -   Raw anchovy JLF (5.08% nitrogen)
--   **Growth control** — Calcium JLF diluted 100x to slow excessive
-    vegetative growth.
--   **Quality enhancers** — Humus soil JLF, phyllite JLF, chitosan JLF
-    applied anytime during growth.
-
-### Mineral Supplementation
-
-The [[jadam-soil-mineral-replenishment]] component:
+Additional fertilizer is the [[jadam-soil-mineral-replenishment]] component:
 
 -   **Sea water** — 20 liters per 0.1 hectare, providing 83 identified
     minerals.
 -   **Phyllite solution** — 60 kg of fine-powdered phyllite in 500 liters
     of water, providing broad-spectrum rock minerals.
--   **[[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]** — Applied with every
-    watering to maintain soil microbial diversity.
-
-## The Core Application Protocol
-
-The practical JADAM fertilizer program is remarkably simple:
-
-1.  **Every time you water**, add to the water:
-    -   JMS: 500 liters per 0.03 hectare
-    -   Sea water: 20 liters (or sea salt 500 g)
-    -   Phyllite solution: 20 liters
-    -   GC-JLF diluted approximately 100 times
-2.  **Frequency**: 3-4 times per month.
-3.  **Observe and adjust**: Monitor growth and adjust GC-JLF dilution
-    based on plant response.
-4.  **Soil foundation work**: Before transplanting or lowering/sprouting,
-    apply the full protocol intensively to establish strong root
-    settlement.
-
-## Why "Same as the Plant" Works
-
-JADAM explains the logic clearly: harvesting removes organic and inorganic
-nutrients from the soil. These must be replaced with something similar to
-what was taken out. Crop residues and cover crops are "the same" as the
-crop — they contain the same nutritional composition. Using them as
-fertilizer maintains the soil's nutritional balance for that specific crop.
-
-Using rice bran, perilla pulp, or oil cakes as fertilizer disrupts this
-balance because they have the nutritional composition of rice, perilla, or
-castor — not the crop being grown. While zero-input agriculture is
-impossible (harvesting opens the nutrient loop), JADAM closes this loop as
-tightly as possible with on-farm materials, approaching natural nutrient
-cycling while still producing a harvestable surplus.
-
-## Cost and Warnings
-
-Complete organic farming costs approximately $100 per acre (0.4 hectare)
-per year for all inputs including natural pesticides and wetting agent,
-since JLF and JMS materials are produced on-farm from freely available
-resources. Key warnings:
-
--   "Good and bad are one" — Even beneficial inputs become harmful when
-    overused. Organic matter abuse can seriously disrupt soil nutritional
-    balance.
--   Partial body fertilizers (rice bran, bone meal, etc.) should be
-    limited to one-tenth of total fertilizer.
--   Foliar application should be secondary to root feeding. Over-reliance
-    on foliar sprays weakens root nutrient absorption capacity.
--   Always mix foliar applications with [[ultra-low-jadam-wetting-agent-jwa]] for complete coating and absorption.
+-   **[[ultra-low-jadam-wetting-agent-jwa]] for complete coating and absorption.
 
 ## See Also
 
--   [[jadam-animal-byproduct-liquid-fertilizer]]
 -   [[jadam-cover-crop-green-manure-selection-guide]]
--   [[jadam-soil-foundation-work]]
 -   [[jadam-microorganism-solution-jms]]
+## Practical Considerations
+
+Successful implementation of JADAM Fertilizer Program Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

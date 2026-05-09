@@ -103,39 +103,17 @@ characteristics:
   swings
 - Air tightness reduces infiltration losses when properly detailed
 
-Mollison highlights straw bale buildings as examples of [[natural-building]]
-that integrate well with [[passive-solar-design]] principles. The
+Mollison highlights straw bale buildings as examples of [[passive-solar-design]] principles. The
 combination of high insulation and thermal mass (from plaster coatings)
 creates stable interior temperatures with minimal mechanical heating or
 cooling. In temperate climates, straw bale homes can remain comfortable
-year-round with [[permaculture-solar-energy-inventions]] input alone.
-
-## Advantages and Limitations
-
-Advantages include extremely low embodied energy, excellent insulation,
-abundant and renewable material, ease of construction for owner-builders,
-and fire resistance (tightly plastered straw bales outperform
-conventional framed walls in fire tests). Limitations include
-vulnerability to moisture, potential pest issues if poorly detailed,
-thickness of walls reducing interior floor area, and building code
-challenges in some jurisdictions.
-
-## Integration with Permaculture Design
-
-Straw bale construction fits naturally into permaculture design as a
-closed-loop building system: straw is a waste product from grain
-production, walls decompose safely at end of life, and construction
-requires minimal imported materials. Mollison recommends combining
-straw bale walls with [[earth-building-permaculture]] techniques, [[solar-water-heating]]
-systems, and [[rainwater-harvesting-systems]] for fully integrated
+year-round with [[earth-building-permaculture]] techniques, [[rainwater-harvesting-systems]] for fully integrated
 permaculture dwellings. The thick walls also provide excellent sound
 insulation and a sense of solidity that contributes to psychological
 comfort.
 
 ## See Also
 
-- [[natural-building]]
 - [[passive-solar-design]]
-- [[earth-building-permaculture]]
 - [[permaculture-design]]
 - sustainable architecture

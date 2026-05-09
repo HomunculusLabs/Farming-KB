@@ -141,9 +141,9 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 | Best for partial shade | Currant (red/white) |
 ## See Also
 
-- [[comparison-gooseberry-vs-currant]]
-
 - [[pruning-fruit-trees-and-bushes]]
-- [[growing-tree-fruit-organically]]
-
 - [[fruit-tree-propagation]]
+
+## See Also
+
+- [[comparison-gooseberry-vs-currant]]

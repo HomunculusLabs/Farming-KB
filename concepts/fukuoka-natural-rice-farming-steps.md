@@ -62,7 +62,7 @@ The ducks eat insects and snails that would otherwise damage the rice. They upro
 
 This is not a single technique but a small ecosystem, in which each element supports and is supported by the others.
 
-This approach to integrated pest management anticipates many modern [[permaculture-food-forest-design-principles]] techniques and connects to the broader practice of [[composting-and-soil-biology]], where biological processes replace mechanical and chemical interventions.
+This approach to integrated pest management anticipates many modern [[ozier-pdc-composting-and-soil-building]], where biological processes replace mechanical and chemical interventions.
 
 ## Step 5: Straw Mulching
 
@@ -72,22 +72,8 @@ Although it may appear to be crude and backward, spreading fresh straw on a rice
 
 The straw mulch is perhaps the most important element of the entire system, though it may seem the humblest. It serves as both input and output: the straw produced by this year's rice becomes the mulch that protects and feeds next year's crop. No external fertility inputs are needed because the system is largely closed-loop.
 
-The straw also creates the conditions for a healthy [[soil-food-web-nutrient-cycling]] community. As it decomposes, it feeds bacteria and fungi, which in turn feed protozoa and nematodes, which release plant-available nutrients in a slow, steady stream.
+The straw also creates the conditions for a healthy [[fukuoka-natural-farming-philosophy]]: not a rejection of technology, but a recognition that nature's own technologies are more sophisticated, more efficient, and more sustainable than anything human ingenuity can devise.
 
-The soil beneath the mulch becomes dark, crumbly, and alive -- a far cry from the compacted, mineral-only soil of conventional paddies.
-
-## The System as a Whole
-
-What emerges from these five steps is not a set of independent techniques but an integrated system in which each element supports the others. The clover fixes nitrogen and suppresses weeds. The straw mulch retains moisture and builds soil. The clay pellets protect seeds without chemicals. The ducks manage pests and fertilize the soil.
-
-No single element is indispensable in isolation, but together they create a resilient, self-sustaining rice production system.
-
-This is the essence of [[fukuoka-natural-farming-philosophy]]: not a rejection of technology, but a recognition that nature's own technologies are more sophisticated, more efficient, and more sustainable than anything human ingenuity can devise.
-
-[[fukuoka-natural-rice-barley-cultivation]] | [[fukuoka-straw-mulch-system]] | [[clay-seed-balls-tsuchi-dango]] | [[fukuoka-white-clover-ground-cover]] | [[fukuoka-rice-barley-dual-culture]]
-
-## Related
-
-- [[fukuoka-natural-farming-method]]
+[[fukuoka-straw-mulch-system]] | [[fukuoka-white-clover-ground-cover]] | [[fukuoka-natural-farming-method]]
 
 - [[fukuoka-water-management]]

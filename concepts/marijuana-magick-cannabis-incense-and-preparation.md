@@ -107,30 +107,6 @@ In the "Feeding the Flame" ritual, approximately one cup of grain alcohol is pou
 
 ### Cannabis Extraction Medium
 
-Grain alcohol is also the logical medium for [[cannabis-tincture-preparation]] in other contexts, given its superior solvent properties for cannabinoid extraction compared to water. While the text does not explicitly name alcohol as the liquid for the tincture, its inclusion among ritual materials and its established use in herbal preparation traditions make this a reasonable inference.
-
-## Symbolic Framework of Preparation
-
-All preparation methods share a common theological premise articulated throughout the guide: cannabis is a gift from the earth (Pachamama), and the act of preparing it for ritual use is itself a form of worship. The text states: "The earth has given us the herbs to extend our life, to heal our body, to sustain our minds, to help us unleash the joy and happiness and ecstasy within." Preparation transforms raw plant material into a vehicle for divine connection, and the care taken during preparation (measuring, steeping, straining, arranging) reflects the reverence due to the earth's gifts.
-
-## Timing and Ritual Scheduling
-
-The guide embeds preparation within a broader temporal framework that connects mundane and sacred time:
-
-- **Multi-day preparation**: The cannabis-infused oil requires "several days" of steeping, meaning the ritual itself is the culmination of an extended preparatory period. This extended timeline elevates the oil from a simple substance to something that has been "cooked" in both literal and spiritual senses
-- **Several hours for tincture**: The liquid infusion requires "several hours" of steeping -- shorter than the oil but still demanding intentional advance preparation. The practitioner must plan ahead, creating a mental bridge between ordinary time and ritual time
-- **Warm-up periods**: Both the vaporizer and the fog machine in the Smoke and Mirrors ritual require waiting periods to reach operating temperature. This enforced pause becomes an opportunity for mental preparation and transition from ordinary to ritual consciousness
-- **Consumption pacing**: The Blessing the Ground ritual specifies taking one puff per directional invocation, distributing the cannabis consumption across the entire ritual structure rather than consuming it all at once at the beginning. This pacing mirrors the structure of many traditional ceremonies where sacramental substances are consumed incrementally
-
-This attention to timing reflects a principle common to many magical traditions: that the preparation period is itself part of the magical operation. The hours or days spent steeping, infusing, and waiting are not wasted time but are integral to the transformation of raw material into sacred substance.
-
-## The Rosemary Connection
-
-In the Blessing of the Oil ritual, rosemary is used not as an ingredient in the oil itself but as the instrument for drawing the pentagram on the ground. Rosemary has its own rich folklore associations with protection, memory, fidelity, and healing. In European folk tradition, rosemary was placed under pillows to prevent nightmares, burned as incense for purification, and carried by mourners at funerals as a symbol of remembrance. By using rosemary to draw the sacred geometry that frames the oil-blessing ritual, the guide layers an additional herbal tradition onto the cannabis-focused practice, creating a composite botanical sacrament.
-
-## See Also
-
-- [[marijuana-magick-ancient-ritual-use-cannabis]]
-- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
+Grain alcohol is also the logical medium for [[marijuana-magick-ancient-ritual-use-cannabis]]
 - [[marijuana-magick-historical-witches-and-cannabis]]
 - [[marijuana-magick-scrying-and-divination-cannabis]]

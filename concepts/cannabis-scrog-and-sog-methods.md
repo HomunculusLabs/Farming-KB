@@ -12,7 +12,7 @@ sources:
 
 Screen of Green (ScrOG) and Sea of Green (SOG) are two advanced indoor growing techniques designed to maximize yield per square foot by optimizing light distribution across a horizontal canopy. Both methods manipulate plant architecture but differ fundamentally in their approach: SOG uses many small plants flowered early, while ScrOG uses fewer plants trained through a horizontal screen.
 
-See [[training-cannabis]] for related LST and HST methods, and [[cannabis-vegetative-stage-management]] for timing considerations.
+See [[cannabis-vegetative-stage-management]] for timing considerations.
 
 ## Sea of Green (SOG)
 
@@ -110,11 +110,8 @@ Some growers combine elements of both methods, using moderate plant counts with 
 
 ## Related
 
-- [[cannabis-flowering-stage-management]]
 - [[cannabis-topping-training]]
-- [[cannabis-pruning-and-defoliation-guide]]
 - [[training-cannabis]]
-- [[cannabis-cabinet-and-stealth-growing]]
 - [[cannabis-guerrilla-growing-guide]]
 
 ## See Also

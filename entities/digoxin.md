@@ -43,45 +43,7 @@ of the most frequently prescribed oral cardiac medications worldwide.
 - **Molecular weight:** 780.94 g/mol
 - **CAS number:** 20830-75-5
 - **Appearance:** White to off-white crystalline powder
-- **Melting point:** 235 °C (decomposition)
-- **Solubility:** Slightly soluble in water; freely soluble in pyridine;
-  sparingly soluble in dilute alcohol
-
-The digoxin molecule consists of a steroid nucleus (aglycone or genin) linked
-to three sugar residues: two molecules of digitoxose and one of glucose. The
-aglycone contains an unsaturated lactone ring at C-17 (cardenolide type), which
-is essential for Na+/K+-ATPase binding. The sugar moiety modulates
-pharmacokinetic properties including absorption and protein binding.
-
-## Pharmacology and Mechanism of Action
-
-Digoxin's therapeutic and toxic effects both stem from inhibition of the
-membrane-bound Na+/K+-ATPase (sodium pump):
-
-**Positive inotropy (increased contractility):**
-- Na+/K+-ATPase inhibition → increased intracellular Na+
-- Reduced Na+ gradient diminishes Ca2+ extrusion via the Na+/Ca2+ exchanger
-- Elevated intracellular Ca2+ enhances actin-myosin cross-bridge cycling
-- Result: increased force of myocardial contraction without proportional
-  increase in oxygen consumption (unique among inotropes)
-
-**Electrophysiological effects:**
-- Slows conduction velocity through the atrioventricular (AV) node
-- Prolongs AV node refractory period — basis for rate control in AF
-- Enhances vagal (parasympathetic) tone to the heart
-- At toxic concentrations: increased automaticity, delayed afterdepolarizations
-
-**Neurohormonal modulation:**
-- Reduces circulating norepinephrine and renin activity in heart failure
-- Attenuates sympathetic overactivation
-- This neurohormonal effect contributes to long-term clinical benefit
-
-## Natural Sources and Production
-
-**Botanical source:** *Digitalis lanata* (Grecian foxglove, Scrophulariaceae),
-cultivated commercially in Europe, South America, and India. The leaves
-contain 0.2–0.5% total cardenolides, with digoxin and lanatoside C as the
-principal constituents. *[[digitalis-purpurea]]* (common foxglove) contains
+- **Melting point:** 235 °C ([[digitalis-purpurea]]* (common foxglove) contains
 primarily digitoxin rather than digoxin.
 
 **Biosynthetic pathway:**
@@ -143,8 +105,8 @@ xanthopsia — yellow-tinged vision), blurred vision, fatigue
   toxicity; rapidly binds and inactivates free digoxin
 - Temporary cardiac pacing for severe bradyarrhythmias
 - Avoid DC cardioversion in digoxin toxicity (may precipitate ventricular fibrillation)
-
 ## See Also
 
-- [[galantamine]] — Alkaloid Na+/K+-ATPase modulator used in Alzheimer's disease
 - [[thujone]] — Monoterpene with CNS effects and narrow therapeutic window
+
+See also: [[peyote-and-psychoactive-cacti]]

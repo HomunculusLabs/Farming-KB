@@ -128,8 +128,6 @@ present-moment attention.
 
 ## Related Concepts
 
-- [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-sativa-indica-classification]]
-- [[blesching-cannabis-mind-body-medicine]]
 - [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-anandamide]]

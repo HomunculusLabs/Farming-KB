@@ -27,7 +27,7 @@ Homesteading is the practice of self-sufficient living on a small plot of land, 
 ## Core Elements
 
 ### Food Production
-- **Vegetable gardening** — intensive and extensive approaches; see [[nutrient-dense-gardening]] and [[composting-and-soil-biology]]
+- **Vegetable gardening** — intensive and extensive approaches; see [[nutrient-dense-gardening]] and [[no-till-gardening-method]]
 - **Food forests** — perennial food systems; see [[food-forest-design]]
 - **Animal husbandry** — poultry, goats, rabbits for eggs, meat, dairy, manure; see [[duck-keeping]], [[goat-keeping]]
 - **Seed saving** — maintain genetic diversity and self-reliance; see [[seed-saving-techniques]]

@@ -12,30 +12,7 @@ type: concept
 # Plant Nursery and Species Selection for Permaculture
 
 Bill Mollison places the plant nursery as one of the critical
-early-stage components in any [[permaculture-design]]. In
-Permaculture: A Designers' Manual, he emphasises that so many
-species and individuals of each species are needed for a
-comprehensive planting that it is usually necessary to first
-create a small plant nursery to supply the 4,000-8,000 plants
-that can be placed on a hectare.
-
-## The Nursery in System Establishment
-
-While plants are growing in their pots, the designer can fence
-and prepare the soil, and then plant them out to a
-carefully-designed long-term plan. The planning stage is
-critical. The best source of seed and plants is always
-neighbours, public nurseries, or forestry departments. From the
-early planning stages, it pays to collect seed, pots, and hardy
-cuttings for the site, just as it pays to forage for
-second-hand bricks, wood, and roofing.
-
-In the development sequence, the plant nursery is one of the
-components needed early in development, along with access ways,
-shelter, water supply, and perhaps an energy source. Every
-plantation needs a mulched, shaded nursery, no matter how
-modest. Shade is most cheaply provided by light-foliaged
-legumes at wide spacing (e.g., [[acacia]], Albizia).
+early-stage components in any [[acacia]], Albizia).
 
 ## Nursery Enterprises for Bioregions
 
@@ -101,37 +78,5 @@ soils:
   artichoke.
 - Cuttings of small fruits: elderberry, willow, poplar, mulberry,
   Pride of Madeira (Echium fastuosum).
-- Tubed seedlings of Acacia, Prosopis, [[tagasaste]], New Zealand
-  mirror plant (Coprosma), pines, eucalypts, shrubs.
-
-## Propagation Methods
-
-Seed-grown crops produce natural variation. About one in twenty
-trees may show very different characteristics, and of these
-perhaps one-third will be favourable for site, giving a limited
-set of new characteristics for selection. This indicates a need
-for initial over-planting to allow for culling over time.
-
-Grafts and cuttings perpetuate selected characteristics.
-Multi-graft trees allow several varieties on one rootstock,
-saving space in the intensive Zone 1 garden. Selected dwarf or
-multi-graft varieties are placed in Zone 1, grafted varieties
-and seedlings for later grafts in Zone 2, and seedlings thinned
-to selected varieties or managed by browse in Zone 3.
-
-## Nursery as a Village Enterprise
-
-A nursery on site can develop special crop for site, fire
-control, bees, orchards, or forages for animals (comfrey,
-tagasaste, etc.). Consultancy for other sites in architecture,
-landscape, and design is possible, as is implementation and
-provision of plant materials from a nursery on site. Both
-nursery supply and primary or final processing are essential to
-new farm enterprises using new species.
-
-## See Also
-
-- [[vegetative-propagation-methods-mollison]]
-- [[mollison-zone-one-garden-design]]
-- Mollison establishment and maintenance
+- Tubed seedlings of Acacia, Prosopis, [[vegetative-propagation-methods-mollison]]
 - [[mollison-seed-resources-and-sovereignty]]

@@ -32,9 +32,7 @@ not applicable (N/A) due to the primarily theoretical and preclinical nature
 of the evidence. However, the endocannabinoid system research provides a
 strong theoretical foundation for potential therapeutic applications.
 
-See also: [[cannabis-autoimmune-conditions-detailed]],
-[[blesching-cannabis-dermatological-conditions]],
-[[blesching-cannabis-psoriasis]],
+See also: [[blesching-cannabis-dermatological-conditions]],
 [[blesching-cannabis-itching-pruritis]],
 [[blesching-cannabis-immune-system-modulation]]
 

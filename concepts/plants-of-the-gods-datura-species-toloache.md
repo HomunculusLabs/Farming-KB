@@ -119,12 +119,8 @@ Ololiuqui" and was held in great veneration.
 
 ## Related Topics
 
-- [[plants-of-the-gods-brugmansia-angels-trumpet]] — closely
-  related arborescent genus used in South America
 - [[plants-of-the-gods-nightshade-hexing-herbs]] — nightshade
   family hallucinogens including Atropa and Mandragora
-- [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] —
-  deadly nightshade, related tropane alkaloid source
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
   chemical structures of tropane alkaloids
 - [[plants-of-the-gods-lophophora-peyote]] — contrasted with

@@ -3,7 +3,7 @@ title: Fungal Degradation of Textile Dyes
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Degradation of Textile Dyes
@@ -96,16 +96,7 @@ Several reactor configurations have been tested for fungal dye decolorization at
 
 ## Environmental Significance
 
-The ability of fungi to degrade textile dyes has broader implications for understanding [[fungal-enzyme-systems-in-bioremediation]] in contaminated environments. The non-specific oxidative mechanisms employed by white-rot fungi are not limited to dye molecules but extend to a wide range of xenobiotic compounds. This versatility makes fungal systems particularly attractive for treating complex industrial wastewaters containing mixtures of pollutants.
-
-Research into [[ligninolytic-enzyme-production-bioremediation]] has shown that the same enzyme systems responsible for lignin degradation in nature can be harnessed for industrial waste treatment. The key [[key-fungal-species-bioremediation]] used in dye degradation -- including Phanerochaete chrysosporium and Trametes versicolor -- are also effective against other pollutant classes, demonstrating the broad applicability of fungal bioremediation approaches.
-
-## See Also
-
-- [[mycoremediation-of-textile-dyes]]
-- [[key-fungal-species-bioremediation]]
+The ability of fungi to degrade textile dyes has broader implications for understanding [[ligninolytic-enzyme-production-bioremediation]] has shown that the same enzyme systems responsible for lignin degradation in nature can be harnessed for industrial waste treatment. The key [[mycoremediation-of-textile-dyes]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[ligninolytic-enzyme-production-bioremediation]]
 - [[fungal-wastewater-treatment]]
-- [[fungal-solid-state-fermentation-agricultural-waste]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]

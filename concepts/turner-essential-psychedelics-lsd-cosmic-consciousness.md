@@ -113,20 +113,10 @@ in a sober state.
 - cosmic consciousness
 - lsd transparency
 - sensory enhancement
-- [[stanislav-grof]]
-- psychedelic therapy
-- eight-circuit model
 - [[turner-lsd-nitrous-ludiomil-combinations]]
-- [[turner-essential-psychedelics-cosmic-synergism-combinations]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[turner-harmala-psychedelic-potentiation-signature]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]
-- [[leary-psychedelic-bardo-model]]
-- [[mushroom-cultivation-fundamentals]]
-- [[timothy-leary-harvard-psilocybin-experiments]]
-
-## See Also
-
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[pluteus-americanus]]
 
 - [[conocybe-smithii]]

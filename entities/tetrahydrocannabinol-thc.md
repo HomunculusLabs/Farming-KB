@@ -82,11 +82,8 @@ populations. The entourage effect between THC and other cannabinoids
 (particularly CBD) is a key principle in whole-plant cannabis medicine.
 
 ## See Also
-- [[cannabidiol-cbd]]
 - [[anandamide-aea]]
-- [[cannabinol-cbn]]
 - [[cannabigerol-cbg]]
-- [[cannabichromene-cbc]]
 - [[dronabinol]]
 - [[nabilone]]
 - endocannabinoid system (ECS)

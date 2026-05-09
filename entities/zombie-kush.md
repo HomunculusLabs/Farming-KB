@@ -137,13 +137,8 @@ Zombie Kush has several recognized medical applications:
 - **Appetite stimulation** — the munchies effect is pronounced, useful for
 ## See Also
 
-- [[og-kush-cannabis-entity]]
 - [[jack-herer]]
-- [[cannabis-blue-dream]]
 - [[cannabis-northern-lights]]
-- [[super-skunk]]
 - [[acdc-cannabis-strain]]
-- [[sour-diesel-cannabis]]
 - [[granddaddy-purple]]
-- [[myrcene]]
 - [[beta-caryophyllene]]

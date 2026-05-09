@@ -1,15 +1,7 @@
----
-title: "Stamets Biological Efficiency and Yield"
-aliases: [biological efficiency, BE formula, mushroom yield, yield recapture, substrate conversion efficiency]
-tags: [mycology, cultivation, stamets, yield, metrics, substrate-conversion]
-created: 2026-05-08
-source: "Growing Gourmet and Medicinal Mushrooms, Ch. 7 (Stamets, 1993)"
----
 
 # Biological Efficiency: An Expression of Yield
 
-Biological Efficiency (B.E.) is the standard metric for measuring mushroom yield,
-originally developed by the White Button mushroom industry. It quantifies a strain's
+Biological Efficiency (B.E.) is the standard metric for measuring [[mushroom-industry-african-countries]]. It quantifies a strain's
 ability to convert substrate materials into mushrooms. The formula provides a universal
 basis for comparing yields across different species, substrates, and cultivation methods.
 
@@ -50,29 +42,8 @@ equivalent to 200% B.E. Stamets reports succeeding in obtaining such yields with
 ## Substrate Conversion Breakdown
 
 Research by Zadrazil (1976) on Oyster mushroom (Pleurotus ostreatus) decomposition of
-wheat straw revealed the mass balance of conversion. The byproducts of straw substrate
-decomposition are distributed approximately as follows:
-
-- **Carbon dioxide:** 50.0% — respired as the mycelium metabolizes the straw
-- **Water:** 20.0% — evaporated during the metabolic process
-- **Mushrooms:** 10.0% — converted from substrate into fruiting bodies
-- **Residual compost:** 20.0% — remaining undigested or partially decomposed material
-
-This breakdown is illuminating: half of the dry substrate mass is simply converted to
-CO2 through respiration. The residual 20% becomes spent mushroom compost, which retains
-value as a soil amendment. Only 10% becomes mushroom tissue — making the achievements
-of 100%+ B.E. (where more than 10% dry-to-dry conversion occurs) even more remarkable.
-
-## Flush Dynamics and Declining Returns
-
-Biological efficiency depends upon the stage of mushrooms at harvest. Young mushrooms
-("buttons") are more delectable and store better, but picking the entire crop as buttons
-results in substantial loss of yield potential. Mature mushrooms give maximum B.E. but
-have a very short shelf life and limited marketability.
-
-Each species passes through an ideal stage for harvesting as it matures. Features are
-transformed through the re-proportionment of cells without substantial increase in total
-weight. The ideal harvest window is when the mushroom margins are decurved (pointing
+wheat straw revealed the mass balance of conversion. The byproducts of [[mushroom-compost-bed-systems-duggar]], which retains
+value as a [[harvest-window-cannabis]] is when the mushroom margins are decurved (pointing
 downwards) or slightly incurved, well before spore generation peaks.
 
 The first, second, and third flushes (crops) are usually the best, with each successive
@@ -125,15 +96,5 @@ refrigeration, after which a noticeable decline in viability occurs.
 
 ## Ecological Significance
 
-Considering the innate power of mushroom mycelium to transform waste products into
-highly marketable delicacies, it is understandable why scientists, entrepreneurs, and
-ecologists are awestruck by the prospects of recycling with mushrooms. The B.E. framework
-provides a quantitative language for evaluating and comparing these biological recycling
-systems across scales — from home cultivation to industrial waste remediation.
-
-## See Also
-
-- [[stamets-natural-culture-mycological-landscapes]]
-- [[stamets-species-sequencing-recycling-substrates]]
-- [[stamets-home-made-vs-commercial-spawn]]
-- [[stamets-growing-room-design]]
+Considering the innate power of [[stamets-natural-culture-mycological-landscapes]]
+- [[stamets-growing-room-air-circulation-co2-management]]-room-design

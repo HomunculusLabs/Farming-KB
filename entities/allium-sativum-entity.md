@@ -112,13 +112,7 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 
 ## See Also
 
-- [[coriandrum-sativum]]
-
-- Allium cepa
-- Zingiber officinale
 - [[curcuma-longa]]
-- [[glycyrrhiza-glabra]]
 - [[hypericum-perforatum]]
-- [[chamomilla-recutita-entity]]
 - [[ephedra-sinica]]
 - [[allicin]]

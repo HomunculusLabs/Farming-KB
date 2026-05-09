@@ -92,26 +92,10 @@ Leary, Metzner, and Alpert's adaptation was groundbreaking in stripping the text
 
 ## Neuroscience of the Visionary Experience
 
-Modern neuroscience has begun to elucidate the brain mechanisms underlying the visionary experiences Leary described. Functional neuroimaging studies using psilocybin have shown that the drug decreases blood flow and connectivity in the [[default-mode-network-and-ego-dissolution]] (DMN), a set of interconnected brain regions associated with self-referential thinking, autobiographical memory, and the maintenance of the ego-boundary sense. The DMN's suppression correlates strongly with the subjective experience of ego-dissolution — precisely the state that the First Bardo describes as the Clear Light.
-
-Simultaneously, psilocybin increases connectivity between brain regions that are normally functionally segregated. This increased cross-talk between the visual cortex, emotional centers, memory systems, and higher-order association areas provides a neurobiological explanation for the synesthesia, emotional intensity, and flood of imagery and memory that characterize the Second Bardo visions. The progressive elaboration of visionary content — from simple light (Vision 1) through biological forms (Vision 2), emotional unity (Vision 3), and wave perception (Vision 4) to fully mythological narratives (Vision 7) — may reflect the brain's gradual re-establishment of organized activity following the initial disruption of the DMN.
-
-## The Set and Setting Framework
-
-Although Leary's Bardo model focuses on the internal visionary content of the psychedelic experience, his broader framework consistently emphasized the critical importance of "set and setting" — the psychological state of the voyager and the physical and social environment in which the experience occurs. The Bardo instructions themselves function as a form of set preparation, giving the voyager a cognitive map that reduces fear and resistance during ego-dissolution. The physical setting — quiet, comfortable, free from interruptions — and the presence of an experienced guide provide the external conditions that support the voyager in following the instructions rather than being overwhelmed by the content.
-
-This set-and-setting framework, first articulated systematically by Leary and his colleagues, has been validated by decades of subsequent research and is now considered the foundational principle of psychedelic therapy. Contemporary clinical trials with psilocybin for depression, anxiety, and addiction all incorporate carefully designed therapeutic settings and extensive preparatory counseling, directly implementing Leary's insight that the content of the psychedelic experience is shaped as much by psychological preparation and environmental context as by the pharmacology of the substance itself.
-
-## See Also
-
-- [[leary-psychedelic-bardo-model]]
-- [[leary-psychedelic-manual-approach]]
+Modern neuroscience has begun to elucidate the brain mechanisms underlying the visionary experiences Leary described. Functional neuroimaging studies using psilocybin have shown that the drug decreases blood flow and connectivity in the [[leary-psychedelic-bardo-model]]
 - [[visionary-symbols-and-universal-archetypes]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[consciousness-and-psychedelics]]
-- [[ayahuasca-visions]]
 - [[psychedelic-consciousness-expansion]]
-- [[herbal-medicine]]
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
 
 ## Contemporary Relevance of the Bardo Model

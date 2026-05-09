@@ -11,130 +11,8 @@ type: concept
 # Humus and Soil Microbiology
 
 Humus is the most reliable plant food and the foundation of
-[[jeavons-soil-fertility]] in the GROW
-BIOINTENSIVE method. Understanding how humus works at a microbial
-level is essential for building and maintaining healthy, productive
-soil that can sustain high yields over time.
-
-## What Is Humus?
-
-Humus is the living and dead bodies of microbial life formed during
-the [[decomposition]] of organic matter. It represents the stable end
-product of composting and organic matter breakdown in the soil. As
-humus is formed, nitrogen becomes part of its structure, which
-stabilizes nitrogen in the soil because humus compounds are resistant
-to decomposition. The nitrogen and other essential nutrients are
-protected from too rapid solubility and dissipation.
-
-Organic matter in soil typically ranges from 1% to 8% by volume, yet
-it is absolutely essential to the sustenancesoil-lifelife and
-organic matter. A desirable level is about 4% to 6% in temperate
-soils and about 3% in tropical soils.
-
-## How Humus Feeds Plants
-
-### Nutrient Exchange on Humus Surfaces
-
-The surfaces of humus particles carry a negative electric charge.
-Many plant nutrients (calcium, sodium, magnesium, potassium, and most
-trace minerals) carry a positive electrical charge in soil solution
-and are thereby attracted to and adhere to the surface of humus.
-This makes humus a powerful nutrient storage system.
-
-As plant roots grow through the soil in search of nutrients, they
-feed on the humus. Each plant root is surrounded by a halo of
-hydrogen ions that are a by-product of the roots' respiration. These
-hydrogen ions carry a positive electric charge. The root actually
-"bargains" with the humus, exchanging some of its positively charged
-hydrogen ions for positively charged nutrient ions stuck onto the
-surface of the humus.
-
-An active exchange is set up between humus and roots, with plants
-"choosing" which nutrients they need to balance their own inner
-chemistry. Plants pull off whatever combinations of nutrients they
-choose from the humus surface. GROW BIOINTENSIVE practices rely on
-this natural, continual, slow-releasing biological process for
-nutrient release to plants.
-
-### The Role of Organic Acids
-
-Organic acids in humus help dissolve minerals in the soil, making
-mineral nutrients available to plants. Organic acids also increase
-the permeability of plant root membranes, promoting the roots'
-uptake of water and nutrients. This is why compost can unlock
-nutrients already present in the soil but previously unavailable to
-plants.
-
-## The Soil Microbiome
-
-### Microbial Diversity
-
-In 1 gram of humus-rich soil there are:
-- Several billion bacteria
-- 1 million fungi
-- 10 to 20 million actinomycetes
-- 800,000 algae
-
-More than 6 billion microbial life-forms can live in only 1 level
-teaspoon of cured compost. There are more than 6 billion microbial
-life-forms in a 5-gram amount of cured compost, about the size of a
-quarter.
-
-## Functions of Soil Microorganisms
-
-1. **Nutrient decomposition** - Some microorganisms break down
-   complex compounds into simpler ones that plants can utilize.
-
-2. **Nitrogen fixation** - Many species of free-living bacteria fix
-   nitrogen from the air in a form available to plants.
-
-3. **Nutrient stabilization** - Many microorganisms tie up nitrogen
-   surpluses, which are released gradually as plants need nitrogen.
-   An excessive concentration of available nitrogen in the soil,
-   which makes plants susceptible to disease, is thereby avoided.
-
-4. **Nematode control** - Predaceous fungi that attack and devour
-   nematodes are found in large amounts only in soil with adequate
-   humus.
-
-5. **Soil structure building** - Microbes secrete compounds into
-   the soil described as "soil glue" (polysaccharides) that hold
-   soil particles together, improving structure. Fungi, with their
-   thread-like mycelia, literally sew the soil together.
-
-6. **Antibiotic and enzyme production** - Microbial excretions
-   include disease-curing antibiotics and health-producing vitamins
-   and enzymes integral to biochemical reactions in healthy soil.
-
-7. **Living pulsation** - The microbial life provides a living
-   pulsation in the soil that preserves its vitality for plants.
-
-## Humus and Root Systems
-
-It is estimated that one rye plant in good soil grows 3 miles of
-root hairs a day, 387 miles of roots in a season, and 6,603 miles
-6,603 miles of root hairs each season. The roots, which have a
-special topsoil relationship with soil microbes, often weigh about as
-much as the above-ground plant parts. These root systems decay beneath
-the surface after harvesting, contributing significantly to soil humus.
-
-Qualitatively, compost made from healthy plants is considered 4
-times better than that made from manure, and compost in the form
-of plant roots is considered twice as good as surface plant compost.
-
-## Key Temperature Thresholds
-
-Microbial life-forms thrive and greatly increase in activity when
-nighttime air temperature reaches a minimum of 60 degrees F. Key
-temperatures for soil biological activity include:
-
-- **50 degrees F** - Significant nitrogen release occurs in the soil
-- **60 degrees F** - Microbial activity increases markedly
-- **86 to 95 degrees F** - Maximum nitrogen release point
-- **131 degrees F** - Nitrogen release stops in the soil
-
-Understanding these thresholds helps gardeners time their
-[[jeavons-composting-methods]] and planting activities.
+[[decomposition]] of org anic-matter. It represents the stable end
+product of [[jeavons-composting-methods]] and planting activities.
 
 ## Humus and Soil Fertility
 
@@ -147,4 +25,85 @@ core nutrients in forms available to plant roots.
 
 only one other soil component, clay, can hold onto and exchange
 nutrients with plant roots, but humus can hold a far greater amount.
-Building humus through [[jeavons-carbon-farming]] and
+
+## See Also
+
+- [[tompkins-soil-health-humus-connection]]
+## Practical Applications
+
+Humus and Soil Microbiology has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Humus and Soil Microbiology. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -18,7 +18,7 @@ type: concept
 
 The discovery that common spices contain cannabinoid-like compounds represents
 one of the most accessible bridges between cannabis science and everyday
-nutrition. [[uwe-blesching]]'s [[cannabis-health-index]] extensively documents
+nutrition. [[cannabis-health-index]] extensively documents
 (E)-beta-caryophyllene ((E)-BCP) as a dietary cannabinoid that activates CB2
 receptors without psychoactive effects.
 
@@ -60,85 +60,26 @@ Research has shown that (E)-beta-caryophyllene provides:
 ### Black and White Ashanti Peppers (Piper guineense)
 
 The (E)-BCP content in Black Ashanti pepper was measured at 58% and in White
-Ashanti pepper at 52%. For comparison, (E)-BCP content in [[cannabis-sativa]]
-ranges from only 12% to 35%. These peppers also have antibacterial properties
-against E. coli and Staphylococcus aureus.
+Ashanti pepper at 52%. For comparison, (E)-BCP content in [[blesching-cannabis-synthetic-cannabinoids]]
 
-### Indian Bay-Leaf (Cinnamomum tamala)
-
-Tested samples showed 25% (E)-BCP content. Indian bay-leaf, a prominent herb
-in Ayurvedic traditions, also exhibits proven antioxidant and antidiabetic
-properties.
-
-### Grains of Paradise (Aframomum melegueta)
-
-This spice measured 22% (E)-BCP content. Additional scientifically supported
-medicinal uses include promotion of wound healing, antioxidant,
-anti-inflammatory, analgesic, molluscicidal, anti-diarrheal, antimicrobial,
-and may enhance sexual interest and function.
-
-### Black Pepper (Piper nigrum)
-
-Samples yielded (E)-BCP content ranging between 7% and 19%. Scientific
-studies have documented additional benefits including antibacterial
-properties, protective effects against colon cancer, and antioxidant
-activity.
-
-### African Basil (Ocimum micranthum)
-
-This basil variety typically contains 14% (E)-BCP content, making it a
-practical dietary source of cannabinoid activity.
-
-### Additional Sources
-
-Other spices containing (E)-BCP include:
-- Cinnamon (Sri Lanka variety)
-- Rosemary (Rosmarinus officinalis)
-- Black Caraway (Carum nigrum)
-- Mexican Oregano (Lippia graveolens)
-- Clove (Syzygium aromaticum)
-- Basil (Ocimum gratissimum)
-
-## Comparison with Cannabis-Derived Cannabinoids
-
-The (E)-BCP content in Ashanti pepper (52-58%) actually exceeds that found in
-Cannabis sativa (12-35%), making certain spices more concentrated sources of
-this particular cannabinoid than cannabis itself. However, cannabis provides
-a broader spectrum of cannabinoids including THC, CBD, and others not found
-in spice plants.
-
-## Clinical Applications
-
-Blesching recommends (E)-BCP-containing spices as complementary
-"Let Food Be Thy Medicine" interventions for numerous conditions throughout
-the Cannabis Health Index, including:
-
-- Inflammatory diseases (as a CB2 activator)
-- Arthritis and joint pain
-- Hypertension (for non-psychoactive CB2 activation)
-- Systemic sclerosis (theoretical CB2 up-regulation benefit)
-- General immune system support
-
-## Key Takeaways
-
-- (E)-Beta-caryophyllene is an FDA-approved dietary cannabinoid found in
-  common spices that activates CB2 receptors without psychoactive effects.
-- Ashanti pepper contains 52-58% (E)-BCP, exceeding the 12-35% found in
-  Cannabis sativa.
-- (E)-BCP provides potent anti-inflammatory, antioxidant, antimicrobial,
-  and analgesic benefits.
-- Multiple accessible spice sources include black pepper, cinnamon,
-  rosemary, basil, oregano, clove, and caraway.
-- This dietary cannabinoid offers a non-psychoactive entry point to
-  endocannabinoid system activation for patients who cannot or prefer not to
-  use cannabis.
-- (E)-BCP represents a practical "food as medicine" approach to
-  complementing cannabinoid-based therapeutic strategies.
-
-## See Also
-
-- [[blesching-cannabis-synthetic-cannabinoids]]
-
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
 - [[cannabis-terpene-profile]]
+## Practical Considerations
+
+Successful implementation of Cannabis, Caryophyllene, and Dietary Cannabinoids requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

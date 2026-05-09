@@ -3,13 +3,9 @@ title: Gravitropism in Psilocybe cubensis
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, gravitropism, tropism, psilocybe-cubensis, mushroom-development]
-sources:
-  - "Badham, E.R. (1982) Tropisms in the Mushroom Psilocybe cubensis. Mycologia 74(2):275-279"
----
-# Gravitropism in [[psilocybe-cubensis]]
+tags: [[psilocybe-cubensis]]
 
-The negative geotropic response of Psilocybe cubensis basidiocarps, its relationship to spore production, and its interaction with anemotropic (wind-directed) growth. Negative geotropism emerges as a second-phase tropism that overrides wind-directed growth, orienting the pileus horizontally for optimal spore dispersal. See also [[tropisms-psilocybe-cubensis-phototropism]], [[tropisms-psilocybe-cubensis-hyphal-orientation]], [[tropisms-psilocybe-cubensis-phototropism]], and [[fungi-in-the-environment-fungal-spore-dispersal]].
+The negative geotropic response of Psilocybe cubensis basidiocarps, its relationship to spore production, and its interaction with anemotropic (wind-directed) growth. Negative geotropism emerges as a second-phase tropism that overrides wind-directed growth, orienting the pileus horizontally for optimal spore dispersal. See also [[tropisms-psilocybe-cubensis-hyphal-orientation]], [[fungi-in-the-environment-fungal-spore-dispersal]].
 
 ## Two-Phase Model of Directed Growth
 

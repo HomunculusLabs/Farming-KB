@@ -124,12 +124,8 @@ convergence.
 
 ## Related
 
-- [[ballistospore-discharge-mechanism-mushrooms]] Topics
-
 - [[bloomfield-fungal-spore-discharge-and-dispersal]] for
   spore release mechanisms in terrestrial fungi
-- [[bloomfield-fungal-biology-and-hyphal-growth]] for hyphal
-  structure and enzyme secretion
 - [[bloomfields-orchard-fungal-biology-and-ecology]] for the role
   of fungi in breaking down organic matter
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for

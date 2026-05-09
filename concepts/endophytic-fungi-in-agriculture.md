@@ -23,7 +23,7 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 ### Non-clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant families, not just grasses
 - Localized infections, not systemic
-- Hodark-septate-endophytesspore dispersal)
+- Horizontal transmission (spore dispersal)
 - Include diverse genera: Fusarium, Trichoderma, Piriformospora, Serendipita
 - Generally do not produce toxic alkaloids
 - Increasingly studied for agricultural applications
@@ -66,10 +66,11 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Increased root branching and exploration
 - Upregulation of plant nutrient transporter genes
 
-### Salt and Heavy Metal Tolpiriformospora-indicatasis regulation
+### Salt and Heavy Metal Tolerance
+- Ionic homeostasis regulation
 - Sequestration of sodium ions in vacuoles
 - Production of compatible solutes
-- See [[mycoremediation-heavy-metals-detailed]] for heavy metal context
+- See [[mycoremediation-of-heavy-metals]] for heavy metal context
 
 ## Notable Endophytic Species
 
@@ -102,24 +103,25 @@ One of the most studied agricultural endophytes:
 - Root endophytic colonization enhances systemic resistance
 
 ### Epichloe festucae (in tall fescue)
-- Classic grass endophyte study syinoculation-methodsitrem B and ergovaline (toxic to livestock)
+- Classic grass endophyte study system
+- Produces lolitrem B and ergovaline (toxic to livestock)
 - Provides insect resistance and drought tolerance to grass
 - "Novel endophyte" strains provide benefits without livestock toxicity
 
-## Seed Treatment and [[inoculation-methods]]
+## Seed Treatment and Inoculation Methods
 
 ### Seed Coating
 - Most common delivery method for agricultural endophytes
-- Seeds coated with [[spore]] suspension or mycelial slurry
+- Seeds coated with spore suspension or mycelial slurry
 - Carrier materials: peat, talc, alginate beads, polymer coatings
 - Protects endophyte during storage and planting
 - Cost-effective for large-scale agriculture
 
 ### Seed Soaking
-- Seeds immersed in endophyte suspension (liquid culture or [[spore]] suspension)
+- Seeds immersed in endophyte suspension (liquid culture or spore suspension)
 - Simple and inexpensive
 - Shorter shelf life than coating
-- Effective for [[piriformospora-indica]] and Serendipita indica
+- Effective for Piriformospora indica and Serendipita indica
 
 ### Soil Drench
 - Liquid endophyte suspension applied to soil around seedlings
@@ -140,11 +142,57 @@ One of the most studied agricultural endophytes:
 
 ### Cereals and Grains
 - Endophyte-infected tall fescue and perennial ryegrass for pastures
-- [[piriformospora-indica]] increases rice and wheat yield under stress
+- Piriformospora indica increases rice and wheat yield under stress
 - Barley endophytes improve drought tolerance and grain quality
 
 ### Vegetables
 - Tomato: Endophytes reduce Fusarium wilt, improve fruit quality
 - Pepper: Enhanced resistance to Phytophthora and aphids
+- Cucumber: Trichoderma endophytes suppress powdery mildew
+- Lettuce: Endophyte inoculation reduces post-harvest decay
 
-Related: [[endophyte-mediated-plant-stress-tolerance]]
+### Fruit Trees
+- Citrus: Endophytic Beauveria reduces psyllid vectors of citrus greening
+- Apple: Endophytes suppress apple scab and fire blight
+- Grape: Endophytes reduce Botrytis bunch rot; some improve wine quality
+
+### Legumes
+- Soybean: Endophytes increase nodulation and nitrogen fixation
+- Bean: Piriformospora indica improves drought tolerance and yield
+- Endophytes can synergize with rhizobial inoculants
+
+## Research Frontiers
+
+### Microbiome Engineering
+- Designing synthetic endophyte consortia for specific crops and conditions
+- Combining endophytes with mycorrhizal inoculants for multi-functional protection
+- Understanding endophyte-endophyte interactions within plant hosts
+
+### Stress Adaptation
+- Screening endophytes from extreme environments (deserts, salt flats, thermal vents)
+- Pre-conditioning crops with endophytes for climate change resilience
+- Connecting to [[fungi-in-climate-change]] adaptation strategies
+
+### Molecular Mechanisms
+- Multi-omics approaches to understand endophyte-plant communication
+- Small RNA exchange between fungi and plant hosts
+- Epigenetic effects of endophyte colonization on plant gene expression
+
+## Limitations and Challenges
+
+- Endophyte colonization is variable and influenced by environment
+- Laboratory results often exceed field performance
+- Regulatory approval for novel endophyte products varies by jurisdiction
+- Potential for non-target effects (endophytes may affect non-pest organisms)
+- Long-term stability of endophyte-plant associations in agricultural fields is uncertain
+- Some endophytes may become pathogenic under stress or in new hosts
+
+## See Also
+
+- [[fungal-biopesticides]] -- external fungal biocontrol agents that complement endophytes
+- [[fungi-in-climate-change]] -- endophytes as tools for climate-resilient agriculture
+- [[mycorrhizal-networks-and-forest-communication]] -- related underground fungal networks
+
+## Related
+
+- [[fungal-pathogens-in-agriculture]]

@@ -3,14 +3,14 @@ title: Fungal Enzyme Systems
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Enzyme Systems
 
 ## Overview
 
-Fungal enzyme systems are the biochemical machinery that enables saprotrophic and mycorrhizal fungi [[arbuscular-mycorrhizal-networks]] [[ectomycorrhizal-fungal-ecology]] to decompose complex organic matter and acquire nutrients from recalcitrant sources. These extracellular enzymes (ectoenzymes) are secreted into the environment to cleave complex plant polymers into absorbable monomers. The enzymatic repertoire of a fungal species largely determines its ecological niche and role in decomposition successions.
+Fungal enzyme systems are the biochemical machinery that enables saprotrophic and mycorrhizal fungi [[ectomycorrhizal-fungal-ecology]] to decompose complex organic matter and acquire nutrients from recalcitrant sources. These extracellular enzymes (ectoenzymes) are secreted into the environment to cleave complex plant polymers into absorbable monomers. The enzymatic repertoire of a fungal species largely determines its ecological niche and role in decomposition successions.
 
 ## Major Enzyme Classes
 
@@ -83,12 +83,9 @@ The persistence of fungal enzymes in soil means that enzyme activity may continu
 
 ## See Also
 
-- [[fungal-decomposition-processes]] for the broader context of decomposition
 - [[fungal-role-in-carbon-cycling]] for carbon flow implications
-- [[fungal-biology-fundamentals]] for fungal physiology basics
 - [[fungal-decomposition-succession-resource-quality]] for how enzyme competence drives succession
 
 ## Related
 
-- [[brown-rot-fungi-biodegradation]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

@@ -119,12 +119,8 @@ as narcotics by primitive societies.
 
 ## See Also
 
-- [[morning-glory-lsa-and-ergoline-alkaloids]]
-
 - [[schultes-ololiuqui-and-morning-glory]]
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-ayahuasca-and-caapi]]
-- [[golden-guide-peyote-and-mescaline-cacti]]
 - [[golden-guide-psilocybin-mushrooms-overview]]
 - [[golden-guide-syrian-rue-and-maoi-plants]]

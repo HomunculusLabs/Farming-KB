@@ -1,7 +1,7 @@
 ---
 title: Peroxide-Based Sterilization Methods for Mushroom Cultivation
 created: 2026-04-28
-tags: [mushroom-cultivation, sterilization, hydrogen-peroxide, low-tech, substrate-preparation]
+tags: [[mushroom-cultivation, sterilization, hydrogen-peroxide, low-tech, substrate-preparation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -131,8 +131,6 @@ educational settings, and resource-limited communities worldwide.
 
 ## See Also
 
-- [[cervantes-hydrogen-peroxide-sterilization]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]
-- [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-stock-culture-library]]
 - [[growing-gourmet-spawn-laboratory-design]]

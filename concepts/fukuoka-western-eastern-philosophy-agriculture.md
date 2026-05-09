@@ -78,28 +78,14 @@ His prescription: "Instead of praying to God as a mighty power that reigns over 
 ## Connection to Agricultural Practice
 
 These philosophical observations underpin Fukuoka's agricultural methods:
-- [[fukuoka-ignorant-agriculture-pit-of-knowledge]] -- knowledge as an obstacle
 - [[fukuoka-natural-farming-philosophy]] -- food as the basis of health
-- [[fukuoka-natural-diet-philosophy]] -- the philosophy of natural eating
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] -- spirituality and farming
 
-## Related Concepts
+## Related
 
 - [[fukuoka-western-vs-japanese-attitudes]]
-- [[natural-farming-and-spirituality]]
 - [[fukuoka-natural-orchard-management]]
-- [[fukuoka-food-as-strategic-weapon]]
-## Merged: Fukuoka on Western Philosophical Shift Toward Eastern Thought
-
-Source: Masanobu Fukuoka, *The Road Back to Nature* (1996), pp. 34-36
-
-## Descartes and the Western Viewpoint
-
-Descartes said: "I think. Therefore I am." This reflects the Western viewpoint — that nature exists because this self-reflective "I" exists. Westerners have felt that nature may be used and refashioned as man pleases to serve him. This notion was the starting point for the development of sciences that serve man. Using such science, Westerners controlled the world and other races.
-
-But people have begun to realize that there is something wrong with this; they have started to notice the fallacies of Western philosophy. They say: "We see that something's wrong, but we have no idea which way to go from here."
-
-This crisis of confidence in the Western worldview is, for Fukuoka, the necessary precondition for a genuine turn toward [[fukuoka-natural-farming-philosophy-of-mu]]. The intellectual recognition of failure must precede the practical adoption of alternatives.
+- [[fukuoka-natural-farming-philosophy-of-mu]]. The intellectual recognition of failure must precede the practical adoption of alternatives.
 
 ## Questioning Christianity
 
@@ -121,21 +107,7 @@ Many young foreigners who visit Fukuoka's farm come after stopping by a Zen temp
 
 Fukuoka considered this a very small distinction, but the one where the big difference between Japanese and Westerners lies. The Westerners pursue Zen and Eastern philosophy knowing full well that what they are doing may be little more than imitation — yet they have a wonderful simplicity of heart that allows them to commit fully regardless.
 
-For Fukuoka, this capacity to sustain uncertainty — to remain in a state of "not knowing" — is essential to both Zen practice and natural farming. [[four-principles-of-natural-farming]] begins from the recognition that human knowledge is limited and that nature's intelligence surpasses human understanding.
-
-## The Western Commitment to Natural Diet
-
-Having noticed that the Western diet is no good, many in the West are switching to an Eastern diet. This is different from trying it tentatively. The Japanese try a natural diet when their health gives out, but as soon as their condition improves, they return to their former diet. Westerners following a natural diet who visit Fukuoka's farm never, under any circumstances, eat fish or white rice. If they are on a brown rice diet, they stick strictly to that.
-
-Once Westerners decide something is no good, they reject it and never turn back. It is not a matter of good or bad — rather, once they have made up their minds, they stick to that decision. In contrast, the Japanese have lost their simplicity and reason with their minds, ending up with everything half-baked. The Japanese will try A, discover it has advantages and disadvantages, try B, and arrive at a compromise that is neither — unable to commit to either path, they get lost on a different road altogether.
-
-## The Body Changes With Diet
-
-When one lives in the country and one's diet and body changes, everything becomes clear of itself. The mind, body, and soul must be in agreement. Only when all three agree can one make a proper start with natural farming. Just why does someone practice natural farming? When the mind, body, and soul are in agreement, that is when the door opens.
-
-Fukuoka noted that many people come to his orchard huts wanting to become farmers, but inside they haven't really made up their minds. They talk about how "life in the cities is meaningless," but all they want is to give farming a try. If it doesn't suit them, they soon abandon it. Only those who are sick or in total despair, or who are genuinely dedicated to a natural diet and find the wild greens delicious, are able to stay. Both the body and mind must agree — it doesn't matter which you start from, but both must be in accord.
-
-This holistic alignment mirrors the [[fukuoka-natural-farming-philosophy]] that Fukuoka advocates — food is not merely nutrition but a pathway to perceiving nature correctly.
+For Fukuoka, this capacity to sustain uncertainty — to remain in a state of "not knowing" — is essential to both Zen practice and natural farming. [[fukuoka-natural-farming-philosophy]] that Fukuoka advocates — food is not merely nutrition but a pathway to perceiving nature correctly.
 
 ## "Do-Nothing" Nature
 

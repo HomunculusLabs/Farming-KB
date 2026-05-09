@@ -79,9 +79,6 @@ The deeper implication is that human intervention in natural systems creates dep
 
 ## Related Concepts
 
-- [[do-nothing-farming]]
 - [[fukuoka-textdoc-natural-soil-management]]
-- [[fukuoka-soil-building-method]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
-- [[fukuoka-weed-management-and-green-manure]]
 - [[natural-farming-philosophy-of-mu]]

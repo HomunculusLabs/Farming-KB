@@ -79,35 +79,9 @@ Philippine climate: maximum temperature 30-35C, rainfall 55-225mm. Substrates (p
 ### Zero Farm Wastes Integration
 
 Spent substrate from paddy straw mushroom production can be further utilized:
-- Substrate for [[pleurotus-tuberregium-sclerotia-cultivation]], Auricularia, Ganoderma, and Collybia
-- Fishpond fertilizer for tilapia (Oreochromis niloticus)
-- Feed for broiler chickens
-
-This integrated approach creates a zero-waste system linking mushroom, crop, and animal production.
-
-## Nutriceutical Benefits
-
-Beyond table consumption, paddy straw mushroom shows immunobiological activity. Studies report beneficial effects as functional food, supporting its use as a nutriceutical product for additional market value.
-
-## Challenges
-
-- Most Philippine production remains backyard-scale, "hit and miss"
-- Lack of controlled-environment facilities for stable production
-- Small-scale growers lack business management training
-- No strong cooperative tradition among growers (unlike Japan)
-- Intensified rice production (two cropping seasons) has reduced straw availability
-- Pleurotus mushrooms are increasingly outpacing V. volvacea in new plantings
-
-## See Also
-
-- [[volvariella-bombycina]]
-
-- [[stamets-cultivator-paddy-straw-volvariella-volvacea-cultivation]]
-
-- growing gourmet paddy straw mushroom volvariella
+- Substrate for [[volvariella-bombycina]]
 
 - [[pleurotus-tuberregium-sclerotia-cultivation]]
-- [[shiitake-strain-classification-and-substrate-formulas]]
 - [[tropical-mushroom-spawn-production-materials]]
 
 ## Sources
@@ -115,8 +89,6 @@ Beyond table consumption, paddy straw mushroom shows immunobiological activity. 
 - Reyes, R.G., Abella, E.A., Eguchi, F., Iijima, T., Higaki, M., and Quimio, T.H. Chapter 11 in Oyster Mushroom Cultivation (MushWorld, 2004)
 - Quimio, T.H. 1993. Indoor Cultivation of Volvariella volvacea
 - Chang, S.T. and Quimio, T.H. Tropical Mushrooms
-- [[oyster-mushroom-growing-house-site-selection]]
 - [[mushroom-sawdust-bran-spawn-preparation]]
-- [[oyster-mushroom-agricultural-waste-substrates-survey]]
 - [[oyster-mushroom-growing-house-types]]
 - [[oyster-mushroom-cultivation-economics]]

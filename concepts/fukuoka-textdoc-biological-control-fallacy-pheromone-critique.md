@@ -8,12 +8,9 @@ sources:
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-
 # Biological Control Fallacy and Pheromone Pesticide Critique
 
-[[masanobu-fukuoka]] mounted a comprehensive critique of biological pest control methods,
-including pheromone-based pesticides and natural predator introduction, arguing that
-these approaches are fundamentally flawed because they treat symptoms while disrupting
+[[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] symptoms while disrupting
 the deeper ecological order that they claim to protect. His analysis anticipated many
 concerns that would later emerge in mainstream environmental science.
 
@@ -69,73 +66,7 @@ quantities ecologically benign.
 ### Biologically Sourced Pesticides
 
 Another category Fukuoka addressed includes pesticides prepared from biological
-components already present in nature, such as amino acids, fatty acids, and
-nucleic acids. The rationale is that such substances, being natural, are
-unlikely to leave residues. Fukuoka countered that natural origin does not
-equate to ecological safety, as the manner and concentration in which these
-substances are applied differs fundamentally from their natural context. A
-substance that occurs in trace amounts in a leaf may be highly disruptive when
-applied in concentrated solution across an entire field.
-
-### Hormone Disruptors: The Bay Tree Extract
-
-Perhaps Fukuoka most prescient critique concerned a then-new class of chemicals
-that suppress metamorphosis-regulating hormones in insects. A substance extracted
-from the bay tree was found to inhibit secretion of hormones controlling the
-stages of metamorphosis from egg to larva to pupa to adult. Because these
-substances appeared to work selectively on only certain types of insects, they
-were thought to have no effects on other animals and plants.
-
-Fukuoka called this reasoning "incorrect and short-sighted," arguing that animal
-cells, plant cells, and microorganisms are "basically all quite similar." The
-biochemical pathways shared across all life forms mean that a substance affecting
-one organism will inevitably affect others to some degree, even if the effects
-are not immediately visible.
-
-## The Cell Similarity Principle
-
-Fukuoka articulated a fundamental principle underlying his pesticide critique:
-"When a pesticide that works on some insect or pathogen is said to be harmless to
-plants and animals, this is merely a word game that plays on a very minor
-difference in resistance to that substance." His argument proceeds as follows.
-
-A substance effective on insects and microorganisms also acts on plants and animals
-to a greater or lesser degree. What is called "phytotoxicity" in plants and
-"pollution" in animals and man are simply different labels for the same underlying
-biochemical effect. It is unreasonable to expect a substance to work only on
-specific target organisms. Claims of selectivity are based on "minor differences
-in action" that may change over time as populations evolve resistance.
-
-This principle anticipates modern concerns about endocrine disruptors and
-off-target effects of pesticides, which have become major areas of research
-decades after Fukuoka wrote these words. The discovery that neonicotinoid
-insecticides affect bee navigation, that glyphosate may influence soil microbial
-communities, and that various pesticides act as endocrine disruptors in
-vertebrates all confirm Fukuoka intuition about the fundamental similarity of
-cellular biochemistry across life forms.
-
-## The Futility of Selective Control
-
-Fukuoka extended his critique to the broader project of selective pest control
-through any available means. Natural predator introduction fails because it treats
-organisms as discrete tools rather than components of an interconnected system.
-Introducing a predator to control a pest inevitably affects the populations of
-other species, creating ripple effects that cannot be predicted or contained.
-
-Low-toxicity pesticides fail because toxicity is not a binary property but exists
-on a continuum. Even low-toxicity substances exert selection pressure that drives
-resistance evolution and disrupts ecological relationships in ways that may not
-be apparent for years or decades.
-
-Pheromone-based methods fail because manipulating insect behavior through chemical
-signals intervenes in communication systems that evolved over millions of years.
-The long-term consequences of such interference, including effects on non-target
-species that use similar chemical signals, cannot be known in advance.
-
-## Connection to the Non-Intervention Principle
-
-This critique of biological control methods connects directly to Fukuoka core
-principle of [[fukuoka-textdoc-leave-nature-alone-philosophy]]. If nature is
+components already present [[fukuoka-textdoc-leave-nature-alone-philosophy]]. If nature is
 fundamentally self-regulating, then any form of pest control, whether chemical or
 biological, represents an unwarranted intervention that generates more problems
 than it solves. Fukuoka position implies that the correct response to pest

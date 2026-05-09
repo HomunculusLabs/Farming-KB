@@ -20,28 +20,9 @@ information processing is a fundamental property of living matter.
 
 ### Habituation
 Repeated exposure to a non-harmful stimulus leads to a decreased response.
-*[[physarum-polycephalum]]* habituates to repeated light pulses, crossing
-previously-avoided illuminated bridges after sufficient exposure. This
-habituation persists for hours without reinforcement, meeting behavioral
-criteria for simple memory. The effect is stimulus-specific: habituation to
-light does not transfer to chemical stimuli.
-
-### Sensitization
-The reverse of habituation: heightened response to a stimulus after exposure
-to a strong or noxious event. Plants show sensitization to herbivore damage,
-mounting stronger defenses upon subsequent attacks even hours or days later.
-This involves jasmonic acid signaling cascades that prime defense gene
-expression.
-
-### Circadian Memory
-Organisms maintain internal clocks that "remember" the phase of day-night
-cycles even in constant darkness or light. The fungus *[[neurospora-crassa]]*
+*[[neurospora-crassa]]*
 tracks time through a transcription-translation feedback loop involving the
-*frq* gene. [[arabidopsis-thaliana]] uses a multi-loop clock involving CCA1, LHY,
-and TOC1 proteins. These clocks persist for many cycles without external cues.
-
-### Morphological Memory
-Physical changes in body structure encode past experiences. In [[mycelial-networks]]
+*frq* gene. [[mycelial-networks]]
 retain traces of previous nutrient distributions in their tube architecture,
 influencing future growth decisions — a form of structural memory used in
 [[mycelial-network-computation]]. The network effectively "remembers" where
@@ -121,8 +102,5 @@ philosophical implications for understanding the evolution of intelligence.
 
 ## See Also
 
-- [[physarum-computation]]
-- biological computing
-- basal cognition
 - [[bio-electronic-interfaces]]
 - [[mycelial-network-computation]]

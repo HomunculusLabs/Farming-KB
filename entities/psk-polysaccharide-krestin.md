@@ -85,9 +85,6 @@ mushroom-derived pharmaceuticals and paved the way for development
 of PSP, Grifron-D, and next-generation fungal immunomodulators.
 
 ## See Also
-- [[trametes-versicolor]]
-- PSP (Polysaccharide-Peptide)
 - [[lentinan]]
-- [[schizophyllan]]
 - [[beta-glucans]]
 - [[psk-psp-polysaccharide-peptides]]

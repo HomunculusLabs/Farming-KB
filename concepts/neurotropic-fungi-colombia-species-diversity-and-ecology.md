@@ -1,5 +1,5 @@
 ---
-title: Neurotropic Fungi of Colombia Species Diversity and Ecology
+title: Neurotropic Fungi Colombia Species Diversity And Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -55,15 +55,7 @@ Colombia:
   (Guzmán, 1983), its presence in Colombia demonstrates the north-south
   connection along the Andean chain.
 
-- **Psilocybe antioquensis**: One of several species described from
-  Colombian collections by Guzmán et al. (1994), named for the Antioquia
-  department.
-
-- **Psilocybe colombiana**: Another Colombia-endemic species (Guzmán, 1983;
-  Pulido, 1983), reflecting the country's significant contribution to
-  Psilocybe taxonomy.
-
-- **Psilocybe cubensis**: One of the most widely distributed neurotropic
+- **[[psilocybe-cubensis]]**: One of the most widely distributed neurotropic
   fungi globally, P. cubensis is confirmed from Colombia (Heim, 1978;
   Guzmán, 1983; Pulido, 1983; Gartz, 1996). It typically grows on bovine
   dung in tropical lowland pastures.
@@ -75,72 +67,11 @@ Colombia:
   described by Guzmán et al. (1994). This ecological specialization suggests
   adaptation to specific neotropical plant communities.
 
-- **Psilocybe hoogshagenii var. hoogshagenii**: This variety, originally
-  described from Mexico, extends its range into Colombia (Stamets, 1996).
-
-- **Psilocybe pintonii**: A Colombian species (Guzmán, 1983; Pulido, 1983)
-  contributing to the country's endemic Psilocybe diversity.
-
-- **Psilocybe subacutipilea**: Described from Colombian material by
-  Guzmán et al. (1994) and recognized by Guzmán (1995), this species
-  highlights the continued taxonomic discovery in the region.
-
-- **Psilocybe subcubensis**: Confirmed from Colombia (Guzmán, 1983, 1995;
+- **[[psilocybe-subcubensis]]**: Confirmed from Colombia (Guzmán, 1983, 1995;
   Pulido, 1983; Velásquez et al., 1989, 1998), this species is closely
   related to the more widely distributed P. cubensis.
 
-- **Psilocybe yungensis**: Extends from its South American range into
-  Colombia (Guzmán, 1983; Ott, 1993; Stamets, 1996).
-
-- **Psilocybe zapotecorum**: One of the most widespread neotropical
-  Psilocybe species, confirmed from Colombia (Guzmán, 1983; Pulido, 1983;
-  Stijve and de Meijer, 1993; Stamets, 1996).
-
-### Non-Psilocybe Genera
-
-- **Amanita muscaria**: The iconic fly agaric is present in Colombia
-  (Heim, 1978; Pulido, 1983; Velásquez et al., 1998), associated with
-  introduced or naturalized boreal tree species in highland areas.
-
-- **Copelandia cyanescens**: The tropical dung-inhabiting species is
-  confirmed (Pulido, 1983; Gerhardt, 1996).
-
-- **Copelandia cambodginiensis**: Present in Colombia (Ott and Guzmán,
-  1976), another dung-inhabiting tropical species.
-
-- **Cordyceps capitata**: A clavicipitaceous fungus confirmed from
-  Colombia (Velásquez et al., 1998).
-
-- **Gerronema fibula**: Confirmed from Colombia by Singer (1970) and
-  Pulido (1983).
-
-- **Panaeolina foenisecii**: The haymaker's mushroom is present (Pulido,
-  1983).
-
-- **Panaeolus papilionaceus**: Confirmed (Gerhardt, 1996).
-
-- **Panaeolus sphinctrinus**: Present in Colombia (Pollock, 1976; Pulido,
-  1983).
-
-## Species Richness and Biogeographic Significance
-
-Colombia's confirmed neurotropic fungal diversity includes at least 12
-Psilocybe species, 2 Copelandia species, and representatives of several
-other genera. This places Colombia among the most species-rich countries
-in South America for neurotropic fungi, comparable to Brazil and Mexico
-in terms of Psilocybe diversity.
-
-The presence of species described specifically from Colombian collections
-(P. antioquensis, P. colombiana, P. guatapensis, P. heliconiae,
-P. pintonii, P. subacutipilea) indicates that the country has endemic
-diversity that remains incompletely explored. The three Cordilleras create
-isolated highland habitats that may support locally endemic species
-analogous to the situation in Mesoamerica.
-
-## See Also
-
-- [[amanita-muscaria]]
-- [[copelandia-cambodginiensis]]
+- **[[copelandia-cyanescens]]
 - [[copelandia-cyanescens]]
 
 - [Neurotropic Fungi in South America](guzman-allen-gartz-neurotropic-fungi-south-america.md)

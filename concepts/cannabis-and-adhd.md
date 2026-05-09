@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Attention deficit hyperactivity disorder (ADHD) is defined by symptoms of inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. The CDC estimates 1 in 10 children (ages 3-17) have been diagnosed with ADHD, with boys three times more likely to be diagnosed. Up to 5% of the US adult population has ADD. See also [[cannabis-and-epilepsy]], [[cannabis-and-ptsd]], and cannabinoid-receptors.
+Attention deficit hyperactivity disorder (ADHD) is defined by symptoms of inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. The CDC estimates 1 in 10 children (ages 3-17) have been diagnosed with ADHD, with boys three times more likely to be diagnosed. Up to 5% of the US adult population has ADD. See also [[cannabis-and-ptsd]], and cannabinoid-receptors.
 
 ## Clinical Evidence
 
@@ -85,12 +85,7 @@ Six studies support cannabis for ADHD — notably the highest CHI value among ps
 
 ## Related Topics
 
-- [[cannabis-and-epilepsy]]
 - [[cannabis-and-ptsd]]
-- [[cannabis-and-insomnia]]
-- cannabinoid-receptors
 - [[cannabis-for-parkinsons-disease]]
-- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-therapeutic-index-overview]]
-- [[cannabis-cardiovascular-health]]
 - [[cannabis-dosing-and-titration]]

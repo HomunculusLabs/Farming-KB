@@ -118,13 +118,8 @@ speculation. This is the promise psilocybin holds for those confronting their mo
 
 ## See Also
 
-- [[powell-psilocybin-consciousness]]
-
 - [[psilocybin-and-death-anxiety]]
 - [[psilocybin-and-mystical-experience]]
-- [[psilocybin-and-mystical-experience]]
-- [[psilocybin-mystical-experiences-personality-change]]
 - [[consciousness-and-psychedelics]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[psilocybin-ego-dissolution-mechanisms]]
 - [[psychedelic-therapy-models-comparison]]

@@ -100,15 +100,9 @@ starting in hydroponic systems.
 
 ## Related
 
-- [[green-cannabis-soil-mixes]] Pages
-
 - [[cannabis-indoor-soil-mix-and-preparation]]
-- [[cannabis-growing-mediums]]
 - [[cannabis-soilless-grow-media]]
-- [[cannabis-soil-and-nutrients]]
 - [[cannabis-ph-management-and-soil-flushing]]
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[cannabis-soilless-grow-media]]
 - [[green-cannabis-grow-bible-indoor-grow-room-setup]]

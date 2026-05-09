@@ -9,48 +9,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agen
 type: concept
 ---
 
-# [[psilocybin-compound]]-Containing Mushrooms in the US
-
-## Overview
-
-[[psilocybe-cubensis]] and other Psilocybe species, commonly known as
+# [[psilocybe-cubensis]] and other Psilocybe species, commonly known as
 "magic mushrooms," contain the hallucinogenic compounds psilocybin
-(4-phosphoryloxy-N,N-dimethyltryptamine) and [[psilocin]]
-(4-hydroxy-N,N-dimethyltryptamine). These mushrooms are found in many
-regions of the world and grow in several areas of the United States.
-Although labeled toxic because they are psychoactive, psilocybin
-mushrooms are not lethal and are not known to induce internal organ
-damage. However, the primary risk lies in dangerous misidentification
-of poisonous species.
-
-See also: [[hallucinogenic-plants-native-to-united-states]],
-[[amanita-muscaria-pharmacology]]
-
-## Active Compounds
-
-Psilocybin is the primary psychoactive compound found in these
-mushrooms. After ingestion, psilocybin is metabolized in the gut into
-psilocin by the enzyme alkaline phosphatase. Psilocin is the actual
-intoxicating compound, acting primarily as a serotonin 5-HT2A receptor
-agonist. Psilocybin itself serves as a prodrug that is converted to
-the active form during digestion.
-
-## Species and Identification
-
-### Psilocybe cubensis
-
-Psilocybe cubensis is the most commonly encountered species. It
-typically contains 10 to 12 mg psilocybin per gram of dried mushroom.
-This species is widely recognized and is one of the easiest to
-identify and cultivate.
-
-### Other Psilocybe Species
-
-Multiple Psilocybe species contain psilocybin and psilocin, with
-varying potencies. Species identification requires careful attention
-to morphological features including cap shape, color, gill
-attachment, spore print color, and the presence or absence of a
-partial veil. Field guides by mycologists such as [[paul-stamets]] provide
+(4-phosphoryloxy-N,N-dimethyltryptamine) and [[hallucinogenic-plants-native-to-united-states]],
+[[paul-stamets]] provide
 comprehensive identification resources.
 
 ## Geographic Distribution in the US

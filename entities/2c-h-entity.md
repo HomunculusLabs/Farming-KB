@@ -51,7 +51,7 @@ It is readily converted to the hydrochloride salt with a melting point of 138-13
 
 In chemical terms, the compound is amenable to electrophilic attack at the 4-position, which Shulgin calls "where the action is."
 
-From this presumably inactive precursor have evolved active end products such as [[2c-b-entity]], [[2c-i-entity]], [[2c-c-entity]], and [[2c-n-entity]].
+From this presumably inactive precursor have evolved active end products such as [[2c-i]], [[2c-n-entity]].
 
 The 4-position of the 2,5-dimethoxyphenethylamine scaffold can accept a wide range of substituents including halogens, alkylthio groups, and other functional groups.
 
@@ -61,13 +61,9 @@ Future derivatives could potentially arise from carbinol groups, amine functions
 
 2C-H occupies a unique position in the 2C family as the unsubstituted parent compound from which all other 2C variants derive.
 
-The addition of a bromine atom at the 4-position yields [[2c-b-entity]].
+The addition of a bromine atom at the 4-position yields [[2c-i]].
 
-The addition of an iodine atom at the 4-position yields [[2c-i-entity]].
-
-The addition of a chlorine atom at the 4-position yields [[2c-c-entity]].
-
-The addition of a nitro group at the 4-position yields [[2c-n-entity]].
+The addition of a chlorine atom at the 4-position yields [[2c-n-entity]].
 
 Each of these derivatives introduces dramatically different pharmacological properties compared to the inactive parent compound.
 
@@ -103,19 +99,11 @@ In many countries it is not specifically controlled, though it may be regulated 
 
 ## See Also
 
-[[2c-b-entity]]
-
-[[2c-i-entity]]
-
-[[2c-c-entity]]
+[[2c-i]]
 
 [[2c-n-entity]]
 
-[[2c-d-entity]]
-
-[[2c-e-entity]]
-
-[[mescaline-entity]]
+[[2c-e]]
 
 [[phenethylamine-chemistry-basics]]
 

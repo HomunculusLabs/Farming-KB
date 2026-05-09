@@ -10,22 +10,7 @@ type: concept
 
 # Preface to the Japanese Edition: A Farmer's Confession
 
-The Japanese preface, written in June 1984, is one [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-most personally revealing texts masanobu-fukuoka|Fukuoka ever wrote. He
-describes it as "an attempt to paint a true picture of God,
-nature, and man," acknowledging that such an ambitious
-venture is beyond the powers of a slow-witted farmer. Yet
-he chose to write it because of a pivotal event in his
-youth.
-
-## The Vision of God
-
-Fukuoka reveals for the first time that one day, while
-still a young man, he suddenly saw the totality of God. He
-had kept this hidden for almost fifty years, ordinarily
-seeking at all costs to avoid uttering the word God. He
-knew that man is incapable of speaking about God, or of
-understanding or believing in God. Yet in this [[fukuoka-road-english-preface]], he
+The Japanese preface, written in June 1984, is one [[fukuoka-road-english-preface]], he
 deliberately breaks his personal taboo and dares to say
 "God," awaiting divine judgment.
 
@@ -36,10 +21,7 @@ But he was just a stupid, good-for-nothing youth hopelessly
 corrupted by the secular world. Overwhelmed with awe and
 amazement at the indescribably glorious sight of God, he
 shirked his duty. Whether it was cowardice or arrogance, he
-took advantage [[allegro-colour-and-consistency-of-the-amanita-muscaria]] fact that God gives man no
-instructions, and turned his back.
-
-## [[the-road-to-eleusis-wasson-hofmann-ruck]] of Escapism
+took advantage [[the-road-to-eleusis-wasson-hofmann-ruck]] of Escapism
 
 Proud in his youth, Fukuoka thought he did not need to know
 anything, that he needed nothing at all. He declared openly
@@ -51,33 +33,12 @@ back and slowly make my way home."
 
 He knew at heart he was a fool and resolved to live as a
 fool would. On the pretext that it suited him better to
-labor soiled with the mud [[allegro-names-of-the-gods-and-their-fertility-origins]] corrupt world than to
-cruise through the proud and lonely heavens, he entered a
-life of escapism. He turned his back on both God and
-himself.
-
-## Knowing Life and Death
-
-Fukuoka describes knowing both the reality of life [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
+labor soiled with the mud [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 essence of death. He knew that one needs neither to labor
 in order to live nor to fear death. This cleared away all
 his worries and became his intention to live a solitary life
 of serenity in accordance with the principle that it is
-enough to be alive. He spent those days [[allegro-death-and-resurrection-in-the-mushroom-cult]] greatest of
-bliss, enjoying each day with a child's delight.
-
-But as time went by, being basically dull-witted, he lost
-all that he had gained and tumbled back to earth, becoming
-once again a wretched fool. When he saw that he had lost
-his original naivete and inspiration, he begged to be
-readmitted to God's presence. But this was no longer
-allowed of him.
-
-## Decades of Anguish
-
-To others, Fukuoka appeared as someone who had lived
-serenely with nature and carved out his own path while
-remaining dedicated to the way of [[fukuoka-one-straw-revolution-impact]]. In his
+enough to be alive. He spent those days [[fukuoka-one-straw-revolution-impact]]. In his
 heart he too secretly desired this, but the truth was just
 the reverse. Impatient with his own daily imbecility, he
 yearned after a God he was unable to forget. Each day he
@@ -91,14 +52,7 @@ contradictions within and without, he was a disagreeable
 presence even to those in his family. Over the course of
 these decades, he had not lived even a single day at peace.
 
-## Atonement and the Future of [[what-natural-farming-method-should-i-use]]
-
-Fukuoka lays bare his past because he dearly wishes to
-atone for his errors and make the fullest possible use of
-the few remaining years he has left. At the same time he
-wants to search for a way to preserve the light of natural
-farming that has somehow remained burning. He has come to
-sense the danger that [[fukuoka-one-straw-revolution-impact]] may vanish as just
+## Atonement and the Future of [[fukuoka-one-straw-revolution-impact]] may vanish as just
 one transient farming technique.
 
 He makes clear that natural farming is not limited to his

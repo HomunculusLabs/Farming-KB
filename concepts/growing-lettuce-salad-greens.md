@@ -75,14 +75,10 @@ Lettuce is a self-pollinated annual that grows vegetatively for a time, then put
 
 ## Related Concepts
 
-- [[weed-management-strategies]]
 - [[garden-nutrition-and-diet]]
-- [[david-holmgren]]
 - [[solomon-complete-organic-fertilizer-guide]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter on lettuce
 
-- [[root-competition-plant-spacing-solomon]]
 - [[solomon-gardening-when-it-counts-index]]
-- [[home-garden-seed-saving]]
 - [[solomon-growing-salad-greens]]

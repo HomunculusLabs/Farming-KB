@@ -133,11 +133,7 @@ The ecological role of *Mucuna pruriens* in its native and introduced ranges is 
 
 ## See Also
 
-- [[natural-farming-philosophy]]
 - [[cover-crop-species-comparison]]
-- [[legume-nitrogen-fixation-mechanism]]
-
 - [[bufotenin]] — related tryptamine alkaloid found in different plant sources
-- [[catharanthus-roseus]] — another medicinally significant tropical plant with complex alkaloid chemistry
 - [[withania-somnifera]] — Ayurvedic adaptogen herb used alongside *M. pruriens* in traditional formulations
 - [[fagopyrum-esculentum]] — buckwheat, another cover crop with nutritional significance

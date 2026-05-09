@@ -1,5 +1,4 @@
 ---
-title: Permaculture Herb Spiral Details
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -126,16 +125,16 @@ Place herbs according to their preferred conditions:
 
 - Provides habitat for predatory insects and pollinators
 - Creates multiple microclimates in minimal space
-- Demonstrates the permaculture principle of [[permaculture-design-principles|small and slow solutions]]
+- Demonstrates the permaculture principle of [[permaculture-principle-use-small-and-slow-solutions|small and slow solutions]]
 - Excellent educational tool for demonstrating microclimate variation
 - Stone walls absorb heat during the day and release it at night, moderating temperatures
 
 ## Related Concepts
 
 - [[herb-spiral-construction]]
-- [[herb-spiral-design-guide]]
+- [[herb-spiral-design]]
 - [[herb-spiral]]
-- [[permaculture-designers-manual-keyhole-garden]]
+- [[keyhole-garden-design]]
 - [[mandala-garden-design]]
 - [[permaculture-edge-effect-design]]
 - [[permaculture-garden-design-process]]

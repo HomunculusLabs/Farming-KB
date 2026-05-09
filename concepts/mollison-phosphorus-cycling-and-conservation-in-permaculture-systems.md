@@ -32,8 +32,7 @@ sections of the work.
 
 Deep-rooted trees and perennial plants are responsible for bringing
 phosphorus up to the topsoil wherever it is rare in more
-shallow-rooted plants. This function of [[mollison-food-forests-and-structural-forests]] and tree crops is essential for
-long-term [[phosphorus-availability]] in agricultural soils.
+shallow-rooted plants. This function of [[phosphorus-availability]] in agricultural soils.
 
 ## Sources of Phosphorus
 
@@ -89,24 +88,7 @@ Mollison presents a hierarchy of phosphorus conservation strategies:
    phosphorus of contemporary agriculture, even without non-tillage.
 
 2. **Non-tillage farming** would lose even less phosphorus, but is
-   rarely assessed except in dollar yield terms. See [[mollison-no-tillage-grain-systems]].
-
-3. **Bioregional farming** and home gardening with wastes returned to
-   soils would lose even less phosphorus.
-
-4. **Regional food supply**, waste recycling, and devoting 30% of
-   land surface to trees might constitute a sustainable system.
-
-## Deep-Rooted Trees as Phosphorus Pumps
-
-A key permaculture strategy for phosphorus conservation is the use of
-deep-rooted trees and perennial plants as biological pumps. Trees
-access phosphorus from deep soil horizons that are inaccessible to
-annual crops and bring it to the surface through leaf fall, root
-exudates, and woody debris.
-
-Species mentioned as phosphorus cyclers include:
-- Many [[acacia]] species
+   rarely assessed except in dollar yield terms. See [[acacia]] species
 - Casuarina
 - Banksia
 - Pultenaea
@@ -134,15 +116,7 @@ Mollison recommends several design-level strategies:
 
 - **Use greywater recovery**: Recover phosphorus from household
   greywater rather than allowing it to flow to sewers. See
-  [[mollison-greywater-domestic-water-recycling]].
-
-- **Replace phosphate detergents**: Use potash soaps and recover
-  phosphorus from washing water.
-
-- **Plant phosphate-accumulating species**: Include known phosphate
-  cyclers in windbreaks, hedgerows, and interplant systems.
-
-## The Role of [[mycorrhiza]]
+  [[mycorrhiza]]
 
 Mollison notes that mycorrhizal associates of higher plants play a
 critical role in phosphorus uptake. These fungal partnerships extend

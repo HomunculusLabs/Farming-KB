@@ -111,10 +111,7 @@ Antioxidant assays have demonstrated significant free radical scavenging activit
 
 ## See Also
 
-- [[fomes-fomentarius]]
 - [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
 - [[fomitopsis-pinicola]]
-- [[laricifomes-officinalis]]
 - [[piptoporus-betulinus]]
-- [[xylaria-polymorpha]]
+- [[xylaria-polymorpha-entity]]

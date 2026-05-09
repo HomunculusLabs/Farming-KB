@@ -35,7 +35,7 @@ Fukuoka divides natural farming into two types. The first type of natural farmin
 
 The true natural farming goes beyond mere rejection of agricultural chemicals or adoption of organic methods. It requires a fundamental shift in how one perceives the relationship between humans and nature.
 
-[[fukuoka-fallacies-scientific-understanding]] | [[fukuoka-critique-laws-agricultural-science]] | [[fukuoka-natural-farming-new-age]] | [[natural-farming-philosophy]] | mu philosophy
+[[fukuoka-critique-laws-agricultural-science]] | [[natural-farming-philosophy]] | mu philosophy
 
 ## Key Points
 
@@ -62,9 +62,7 @@ The true natural farming goes beyond mere rejection of agricultural chemicals or
 - Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
 
 ## See Also
-- [[fukuoka-three-ways-farming-compared]]
-
-Related topics in this wiki include: [[natural-farming-philosophy]], [[natural-farming-fukuoka]], [[one-straw-revolution-guide]], [[one-straw-revolution-key-concepts]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-cultivation-principle]], [[fukuoka-no-fertilizer-principle]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-do-nothing-farming-philosophy]], [[natural-farming-seed-balls]], [[clay-seed-balls-tsuchi-dango]].
+- [[natural-farming-philosophy]], [[one-straw-revolution-guide]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-fertilizer-principle]], [[fukuoka-natural-rice-farming-steps]], [[natural-farming-seed-balls]], [[clay-seed-balls-tsuchi-dango]].
 
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
 The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
@@ -73,3 +71,22 @@ Winter grain cultivation without tilling demonstrates how carefully timed seedin
 The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
 Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
 Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
+## Practical Considerations
+
+Successful implementation of Fukuoka Relative Merits of Natural Farming and Scientific Agriculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

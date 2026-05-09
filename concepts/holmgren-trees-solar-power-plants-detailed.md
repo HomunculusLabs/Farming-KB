@@ -102,30 +102,10 @@ reforestation but none in managing established forest.
 
 Tree crops that provide human food tend to be more demanding of mineral fertility
 and grow more slowly than hardy forest trees capable of generating the most woody
-biomass. Although [[holmgren-food-forests-agroforestry]] strategies have tended
-to focus on food-producing trees, it is the hardy timber group that is most
-important in reclaiming vast areas of degraded land.
-
-These timber forests provide traditional yields of timber, fibre, and fuel, as
-well as secondary products such as honey, fungi, herbs, meat, and hides. They
-represent the foundational layer of productive land use that makes all other
-forms of agriculture possible through catchment protection, soil building, and
-microclimate modification.
-
-## Integration with Catchment Design
-
-Forests must be the predominant land use in the uplands of catchments. Once this
-is recognised, "the only issue is what sort of forest." The
-[[permaculture-design]] concept began with the
+biomass. Although [[permaculture-design]] concept began with the
 question of how to create forests that were agriculturally productive, rather
 than simply seeing the need for less farmland and more forest for catchment
 protection.
 
-The [[permaculture-design]] places forests primarily in
-Zone 4 (managed rangeland and forests) and Zone 5 (wilderness ecological
-reference), but their influence extends through all zones via shelter, water
-regulation, and nutrient cycling.
-
-See also: [[holmgren-forest-management-sustainable-yield]],
-[[holmgren-solar-cell-emergy-critique]],
+The [[holmgren-forest-management-sustainable-yield]],
 [[holmgren-soil-humus-carbon-storage-rebuilding]]

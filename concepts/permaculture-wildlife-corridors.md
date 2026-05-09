@@ -21,7 +21,7 @@ Wildlife conservation is integral to permaculture design. Mollison's Manual trea
 
 ### Water Bodies as Wildlife Reserves
 
-Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar [[water-conservation]] systems that simultaneously create wildlife habitat.
+Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar water conservation systems that simultaneously create wildlife habitat.
 
 ### Boulders as Wildlife Refuges
 
@@ -79,7 +79,3 @@ Reasons people gift land include:
 - [[permaculture-forestry-systems]] -- Forest gardens as wildlife habitat
 - [[permaculture-duck-pond-systems]] -- Water bodies as wildlife reserves
 - [[permaculture-design-process]] -- Community-scale wildlife integration
-
-## Cultivation Applications
-
-This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

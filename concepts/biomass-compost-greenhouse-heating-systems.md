@@ -65,49 +65,7 @@ destinations:
 
 - A hot water tank for household use, reducing or eliminating the
   need for gas or electric water heating
-- [[radiant-floor-heating]] tubes in the greenhouse floor
-- A thermal mass storage tank that slowly releases heat overnight
-- Radiators in adjacent buildings or animal shelters
-
-The system is remarkably simple in construction and requires no
-moving parts, pumps (if gravity-fed), or electronic controls. The
-only maintenance required is ensuring the compost pile remains active
-and adding fresh material as the decomposition process slows.
-
-## Material Sources for Biomass Compost
-
-A wide variety of organic materials can be used to create heat-
-generating compost. The best results come from a mix of materials:
-
-- Human food waste and kitchen scraps
-- Composting toilet solids (humanure)
-- Animal manure from chickens, rabbits, cows, horses, or pigs
-- Garden waste, prunings, and crop residues
-- Leaves collected from surrounding areas
-- Seaweed (if near coastal areas, ensuring it is not chemically
-  treated)
-- Organic material from commercial garden services (verify it has
-  not been treated with chemicals)
-- Straw, hay, and agricultural byproducts
-
-A mixture of 'brown' materials (high carbon: paper, leaves, dry
-grass, straw) and 'green' materials (high nitrogen: manure, garden
-waste, food scraps) should be used. The pile should be about as
-moist as a damp sponge. Woody materials should make up about half
-the bulk. All materials should be chopped up before adding to speed
-breakdown and increase heat output.
-
-## Sizing Considerations
-
-For effective greenhouse heating, the compost system needs to be
-properly sized relative to the greenhouse space. A compost pile used
-in the greenhouse should be at least 5 feet (1.5 meters) in diameter.
-Smaller piles will not generate enough sustained heat. If building
-wooden bins outside, they should be at least 5 feet (1.5 meters)
-squared. The volume of compost needed depends on the climate, the
-greenhouse insulation, and the desired temperature differential.
-
-## [[composting-toilets]] as Biomass Source
+- [[composting-toilets]] as Biomass Source
 
 A composting toilet system is an ideal partner for biomass heating.
 The solids from a composting toilet become part of the compost pile
@@ -138,10 +96,5 @@ normally be foraging and fertilizing edible forests and pastures,
 confining them for biogas collection breaks the nitrogen cycle.
 Methane is also hazardous, as methane and oxygen mixtures can
 explode. Biomass compost heating achieves similar energy goals more
-safely and in alignment with [[permaculture-principles]].
-
-## See Also
-
-- [[faires-biomass-compost-water-heating]]
-- [[mushroom-compost-bed-systems-duggar]]
+safely and in alignment with [[faires-biomass-compost-water-heating]]
 - [[mollison-designers-solar-water-heating-systems]]

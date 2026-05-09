@@ -9,7 +9,7 @@ sources: [papers/amanita-muscaria-herb-of-immortality.md]
 
 # Muscimol and Amanita Muscaria
 
-Amanita muscaria (the [[fly-agaric-amanita-muscaria]]) is the iconic red-capped mushroom with white spots, found across temperate and boreal forests of the Northern Hemisphere. Unlike [[guzman-psilocybin-mushrooms-mexico-central-america]], Amanita muscaria does not contain psilocybin. Its psychoactive properties come from a completely different pharmacological pathway involving the GABA neurotransmitter system. Proper [[amanita-preparation-methods]] are critical for safe use, as the mushroom contains both the desired compound (muscimol) and a toxic precursor (ibotenic acid). Understanding the [[amanita-muscaria-chemistry-and-pharmacology]] is essential.
+Amanita muscaria (the [[guzman-psilocybin-mushrooms-mexico-central-america]], Amanita muscaria does not contain psilocybin. Its psychoactive properties come from a completely different pharmacological pathway involving the GABA neurotransmitter system. Proper [[amanita-muscaria-chemistry-and-pharmacology]] is essential.
 
 ## Chemistry
 
@@ -51,70 +51,32 @@ In traditional Siberian practice, the mushroom was sometimes consumed after bein
 
 ## Traditional Use
 
-### [[amanita-muscaria-chemistry-and-pharmacology]]
-Amanita muscaria has been used by indigenous peoples of Siberia for thousands of years:
-
-- Used by shamans of the Koryak, Chukchi, Itelmen, and other Siberian peoples
-- Employed in religious ceremonies, healing rituals, and divination
-- Shamans consumed the mushroom to enter trance states and communicate with spirit worlds
-- The intoxication was described as involving visions, feelings of levitation or flying, and encounters with spirits
-- Reindeer were observed seeking out and eating the mushrooms; their behavior (prancing, appearing "drunk") was considered evidence of the mushroom's power
-- Dried mushrooms were sometimes stored for winter use, during which natural decarboxylation occurred
-
-### Other Cultural Uses
-- Found in Sanskrit texts (Soma debate — some scholars have proposed Amanita muscaria as the identity of the Vedic Soma, though this is contested)
-- Used historically in parts of Europe and Asia for various folk medicine purposes
-- Appear in folklore across Northern Europe, often associated with elves, fairies, and the winter solstice
-
-## Dosage
-
-Dosing Amanita muscaria is complicated by natural variation in alkaloid content (species, geography, age of specimen, preparation method). The following are approximate ranges for properly prepared material:
-
-| Dose (Dried Cap Equivalents) | Effect Level |
-|---|---|
-| 1-3 grams | Light — mild relaxation, subtle perceptual changes |
-| 3-7 grams | Moderate — sedation, dreamlike states, mild visual changes |
-| 7-15 grams | Strong — deep sedation, vivid visions, complete dissociation |
-| 15+ grams | Very strong — potentially overwhelming, high risk of adverse effects |
-
-Note: These ranges are highly approximate. The same weight of caps from different specimens can vary 5-10x in active compound content. Start low.
-
-## Duration
-
-| Phase | Duration |
-|---|---|
-| Onset | 30-90 minutes (oral) |
-| Come-up | 30-60 minutes |
-| Peak | 2-4 hours |
-| Main effects | 4-8 hours |
-| After-effects/sedation | 8-12 hours |
-| Total experience | 6-12 hours |
-
-Amanita muscaria is notably more sedating than other psychedelics. Users often fall asleep during the experience and have vivid dreams.
-
-## Effects
-
-### Desired Effects
-- Deep physical relaxation and sedation
-- Dreamlike, dissociative state
-- Mild to moderate visual distortions (geometric patterns, size distortion, synesthesia)
-- Feeling of heaviness or floating
-- Vivid, sometimes lucid dreams (especially if falling asleep)
-- Altered sense of time — time may seem to slow or stop
-- Euphoria (less common than with classical psychedelics)
-- Enhanced appreciation of nature and surroundings
-
-### Comparison with Psilocybin
-The Amanita muscaria experience is fundamentally different from [[psilocybin-compound-profile]]:
+### [[psilocybin-compound-profile]]:
 
 ## Related
 
-- [[amanita-muscaria-ethnobotany]]
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
-- [[amanita-muscaria-drying-and-preparation]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
 
 ## See Also
 
-- [[muscimol-entity]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
+## Practical Considerations
+
+Successful implementation of Muscimol and Amanita Muscaria requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

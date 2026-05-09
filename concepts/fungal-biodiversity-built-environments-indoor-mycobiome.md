@@ -1,7 +1,7 @@
 ---
 title: Fungal Biodiversity in Built Environments and Indoor Mycobiomes
 created: 2026-04-28
-tags: [mycology, biodiversity, indoor-microbiome, built-environment, ecology]
+tags: [[mycology, biodiversity, indoor-microbiome, built-environment, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -141,10 +141,9 @@ fungal biodiversity, with novel species potentially occurring in close
 proximity to human populations. Understanding this hidden diversity is
 critical for accurate exposure assessment and for anticipating emerging
 indoor fungal health risks.
-
 ## See Also
 
-- [[biodiversity-fungi-soil-fungal-communities]]
 - [[biodiversity-xerophilic-fungi-dry-environments]]
-- [[biodiversity-medically-important-fungi-isolation]]
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]]
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

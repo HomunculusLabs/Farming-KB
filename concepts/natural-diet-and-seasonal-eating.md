@@ -11,7 +11,7 @@ type: concept
 
 # Natural Diet and Seasonal Eating
 
-Natural diet, as conceived by Masanobu Fukuoka, is a way of eating grounded in
+[[masanobu-fukuoka]], is a way of eating grounded in
 the cycles and rhythms of nature. It transcends both Western nutritional science
 and Eastern yin-yang philosophy while incorporating insights from both. A
 natural diet arises spontaneously when one lives in accordance with the seasons,
@@ -109,41 +109,6 @@ Fukuoka described a complete annual cycle of natural eating that illustrates
 his principles:
 
 **Spring**: The seven herbs emerge from winter earth, complemented by
-shellfish. Wild herbs, young cherry and persimmon leaves, bamboo shoots with
-rockfish, red sea bream and grunt at barley harvest time, Spanish mackerel
-sashimi, and seaweed gathering along the seashore.
-
-**Summer**: Under the midsummer sun, melon, milk, and honey in cool shade.
-Rapeseed oil and sesame oil revive the body worn by summer heat. Cucumbers,
-squash, eggplant, kidney beans, and early sweet potatoes from the garden.
-
-**Autumn**: Early autumn brings many fruits. Yellow foods such as cereal grains,
-soybeans, and adzuki beans become available. Millet dumplings under the
-moonlight, taros and green soybeans, corn-on-the-cob, chestnuts and rice, and
-the ripened grains of rice that have absorbed the yang of summer.
-
-**Winter**: The first frost brings grilled chicken, mallard, and wild game
-served with warming herbs. Pickled vegetables from the fall harvest. Oysters,
-sea urchins, and sea cucumbers. As spring approaches, the edible butterbur
-flower peeks through snow and hardy green herbs emerge beneath the frost.
-
-## Food as Medicine
-
-Fukuoka believed that the wilder and more primitive the food, the greater its
-medicinal value. He cited the loquat as an example of the principle of using
-the whole plant: not only can the flesh be eaten, the seeds can be ground as a
-coffee substitute, and the leaves infused as tea that Fukuoka called "the best
-of all medicines."
-
-The traditional Japanese culinary arts of making miso, tofu, and fish cooked
-on river rocks with crude natural salt prepared by burning sea salt with brush
-and seaweed represent, in Fukuoka's view, a form of food preparation that
-preserves both nourishment and the spiritual connection between humans and
-nature.
-
-## See Also
-
-- [[natural-farming-five-principles]]
-- [[clay-pellet-seed-broadcasting]]
+shellfish. Wild herbs, young cherry and [[natural-farming-five-principles]]
 - [[soil-self-enrichment]]
 - [[non-causality-in-nature]]

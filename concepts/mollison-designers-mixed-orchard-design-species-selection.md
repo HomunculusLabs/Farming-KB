@@ -16,17 +16,7 @@ type: concept
 
 # Mixed Orchard Design and Species Selection
 
-Bill Mollison's [[permaculture-designers-manual-bamboo]] devotes extensive
-attention to the design of mixed orchards as central elements of
-permaculture food systems. Rather than planting monoculture blocks of
-a single fruit tree, the permaculture approach creates polycultural
-orchards that stack multiple canopy layers, support diverse
-pollinators, cycle nutrients through companion planting, and produce
-food across seasons and years.
-
-## Design Philosophy
-
-The mixed orchard is an application of [[permaculture-principles]] to
+Bill Mollison's [[permaculture-principles]] to
 tree crop systems. Mollison argues that natural forests are
 multi-strata, multi-species systems with high productivity and
 stability, and that orchards should mimic this pattern. A well-designed
@@ -66,44 +56,7 @@ orchard:
    attract beneficial insects.
 
 5. **Ground layer and root zone:** Ground covers, nitrogen-fixing
-   legumes, and root crops. [[mollison-designers-herb-spiral-design-construction]]
-   principles of microclimate creation apply at this scale.
-
-## Species Selection Criteria
-
-Mollison provides guidelines for selecting species in a mixed orchard:
-
-- **Climate adaptation:** Choose species suited to local temperature
-  extremes, rainfall patterns, and frost dates. Use microclimate
-  modification (windbreaks, thermal mass, frost pockets) to extend
-  the range of marginal species.
-
-- **Soil compatibility:** Match rootstock and species to soil type.
-  Stone fruits tolerate heavier soils; pears and apples prefer
-  well-drained loam. Nitrogen-fixing nurse trees improve soil for
-  subsequent plantings.
-
-- **Successional harvest:** Select species that ripen across the full
-  growing season and include storage varieties to extend availability.
-  Early cherries, midsummer peaches, autumn apples, and winter
-  persimmons create a year-round harvest calendar.
-
-- **Pest and disease resistance:** Diversity itself is a pest
-  management strategy. Interplanting different families disrupts pest
-  lifecycles and reduces the need for intervention.
-
-## Rootstock and Spacing
-
-Rootstock selection determines tree size, precocity, and soil
-adaptation. Mollison describes the common rootstock options:
-
-- **Standard (seedling):** Full-size trees (6-10m), long-lived,
-  deep-rooted, slow to bear. Suitable for grazing orchards and
-  silvopasture systems.
-- **Semi-vigorous:** Medium trees (4-6m), earlier bearing, suitable
-  for home orchards.
-- **Dwarfing:** Small trees (2-3m), early bearing, short-lived, heavy
-  pruning required. Best for intensive [[zone-1-intensive-garden]] systems.
+   legumes, and root crops. [[zone-1-intensive-garden]] systems.
 
 Spacing follows the mature canopy diameter plus 1-2 meters for air
 circulation and access. In a mixed orchard, Mollison recommends

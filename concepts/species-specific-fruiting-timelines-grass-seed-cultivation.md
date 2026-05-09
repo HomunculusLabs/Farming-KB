@@ -1,0 +1,128 @@
+# Species-Specific Fruiting Timelines Grass Seed Cultivation
+
+## Overview
+
+Different psilocybin-producing and related mushroom species exhibit significantly different timelines for fruiting body initiation when cultivated on grass seed substrate. Understanding these species-specific timelines is essential for cultivation planning, resource allocation, and troubleshooting when expected fruiting does not occur within the typical window.
+
+## Fruiting Timeline Overview
+
+Based on the grass seed cultivation guide, pinhead (primordia) appearance ranges from 6 to 15 days after cased trays are placed into fruiting conditions. This broad range reflects genuine biological differences between species, not cultivation error. The complete timeline from inoculation to harvest varies even more dramatically.
+
+## Species-Specific Timelines
+
+### *Psilocybe cubensis* (Various Strains)
+
+*P. cubensis* is the fastest and most reliable fruiting species on grass seed substrate. Key timeline parameters include:
+
+| Stage | Typical Duration | Notes |
+|-------|-----------------|-------|
+| Colonization (grass seed jar) | 5–14 days | Depends on temperature and inoculation method |
+| Casing colonization | 3–7 days | Mycelium grows through casing soil |
+| Pinhead initiation | 6–10 days | After exposure to fruiting conditions |
+| Maturation to harvest | 5–7 days | From pinhead to harvestable mushroom |
+| **Total (inoculation to harvest)** | **19–38 days** | Strain-dependent |
+
+**Strain variation within *P. cubensis*** is significant. The Ecuador strain is specifically noted as an "easy fruiting strain" that does not require cold shock treatment. Other strains may have longer or more variable timelines. The guide's 6–15 day pinhead initiation window primarily reflects strain differences within this species.
+
+### *Psilocybe mexicana*
+
+*P. mexicana* has distinct fruiting behavior compared to *P. cubensis*:
+
+- **Flush pattern**: Typically produces one large flush followed by a small second flush, unlike the more consistent multi-flush pattern of *P. cubensis*.
+- **Cold shock response**: Does not benefit from cold shock treatment, similar to *P. tampanensis*.
+- **Fruiting difficulty**: Generally considered a moderate-to-difficult species for fruiting body production, though sclerotia production is relatively straightforward.
+- **Timeline**: Comparable to *P. cubensis* for initial colonization but may have a longer latency before pinning.
+- **Primary value**: Often cultivated primarily for sclerotia ("magic truffles") rather than mushrooms, as sclerotia production is more reliable and prolific.
+
+### *Psilocybe tampanensis*
+
+*P. tampanensis* is notable for its sclerotia-producing capability:
+
+- **Fruiting body production**: Less reliable than *P. cubensis*, with variable success rates.
+- **Cold shock**: Does not benefit from cold shock treatment.
+- **Sclerotia timeline**: Sclerotia continue to enlarge until approximately 4 months after inoculation when left in jars.
+- **Mushroom timeline**: When fruiting does occur, the timeline from casing to harvest is within the 6–15 day range.
+- **Dual production**: Sclerotia can form simultaneously in both colonized jars and in the casing layer of cased trays.
+
+### *Panaeolus subbalteatus*
+
+*P. subbalteatus* (now reclassified as *Panaeolus cinctulus* in some taxonomies) is a coprophilous species that can be cultivated on grass seed:
+
+- **Cold shock**: Does not benefit from cold shock treatment.
+- **Fruiting timeline**: Falls within the general 6–15 day window after casing exposure.
+- **Cultivation notes**: Rye grain is preferred for *P. cubensis* but grass seed works well for *P. subbalteatus*.
+- **Flush consistency**: Produces more constant flushes compared to *P. mexicana*, similar to *P. cubensis*.
+
+## Factors Affecting Timeline Variation
+
+### Temperature
+Room temperature (20°C) or slightly higher is recommended for colonization. Higher temperatures accelerate colonization but may stress the mycelium, triggering metabolite excretion. The fruiting environment temperature also influences pinning speed — cooler temperatures (18–22°C) generally promote faster and more even pinning.
+
+### Inoculation Method
+The choice of inoculant affects colonization speed:
+- **Spore syringe**: Slower, as spores must germinate before colonization begins. Adds 3–7 days to the timeline.
+- **Mycelium syringe or liquid culture**: Faster, as viable mycelium is introduced directly. Reduces colonization time by 3–7 days.
+- **Agar squares**: Intermediate speed, depending on the amount of mycelium transferred and its vigor.
+
+### Substrate Preparation
+The moisture content of the grass seed significantly affects colonization speed:
+- **Too wet**: Slimy, anaerobic conditions slow or stall mycelial growth.
+- **Too dry**: Insufficient moisture limits metabolic activity and hyphal extension.
+- **Overnight soak method**: Produces more homogeneous moisture distribution, potentially reducing variability in colonization speed between jars.
+- **Direct addition method**: Simpler but may produce less consistent results due to variable water absorption between seed batches.
+
+### Casing Quality and Preparation
+- **Casing soil composition**: Peat/vermiculite/limestone mix (10:5:2 ratio) provides good water retention and structure.
+- **Sterilization**: The guide recommends sterilizing casing soil rather than pasteurizing it, which reduces microbial competition and may accelerate mycelial emergence through the casing layer.
+- **Casing depth**: 1.5–2.0 cm provides sufficient moisture reservoir without being so deep that it delays mycelial emergence.
+- **Surface texture**: Rough, uneven casing surface with "small valleys and hills" promotes more even pinning across the surface.
+
+## Fruiting Environment Setup
+
+The guide uses a simple fruiting chamber design that contributes to reliable timelines:
+
+- **Container**: Clear plastic bins covered with polyethylene sheeting.
+- **Air exchange**: Melted holes in bin sides, optionally covered with mesh to exclude insects.
+- **Humidity**: Evaporation from casing surfaces maintains humidity; no external humidification needed.
+- **Capacity**: Five cased trays per bin, creating a self-regulating microclimate.
+- **Misting**: Daily misting prevents casing dryout; increased watering immediately after flush harvest compensates for moisture drawn by maturing mushrooms.
+
+## Troubleshooting Delayed Fruiting
+
+When fruiting does not begin within the expected 6–15 day window:
+
+1. **Verify environmental triggers**: Ensure adequate light exposure and fresh air exchange are present.
+2. **Check casing moisture**: Dry casing will not support pinning. Mist lightly if surface appears dry.
+3. **Assess temperature**: High temperatures (>28°C) can inhibit fruiting; reduce to 20–25°C.
+4. **Evaluate mycelial health**: Yellow metabolites indicate stress; the culture may need more time to recover.
+5. **Consider cold shock**: For strains known to benefit, 12–24 hours at 4°C may trigger fruiting.
+6. **Check contamination**: Hidden mold or bacterial contamination can suppress fruiting.
+
+## Harvest Timing Within the Cycle
+
+Once pinheads appear, mushrooms mature in 5–7 days. Harvest should occur before the veil beneath the cap tears for most species. The guide recommends removing dead pinheads (aborts) promptly, as these can become sites for mold colonization on the casing surface. Regular abort removal helps maintain casing hygiene and supports continued flush production.
+
+## Long-Term Production Planning
+
+Understanding species-specific timelines enables cultivators to plan staggered production schedules. For example, inoculating *P. cubensis* jars one week before *P. mexicana* jars can result in both species reaching the fruiting stage at approximately the same time, optimizing use of limited fruiting chamber space. Similarly, the 4-month sclerotia maturation window for *P. tampanensis* can be used to fill jars during periods when fruiting chamber capacity is not fully utilized.
+
+The 3–6 flush potential per casing (up to 5–6 flushes with proper watering) means that a single casing can remain productive for 8–12 weeks. Planning for staggered inoculation dates allows continuous harvest rather than boom-and-bust cycles. This approach maximizes the efficiency of both colonization incubation space and fruiting chamber capacity.
+
+## Comparison with Alternative Substrates
+
+Grass seed substrate timelines compare favorably to other common substrates for the species discussed:
+
+| Substrate | P. cubensis Colonization | P. mexicana Sclerotia | Cost | Availability |
+|-----------|-------------------------|----------------------|------|-------------|
+| Grass seed | 5–14 days | 4 months to maturity | Moderate | Feed stores |
+| Rye grain | 7–14 days | Similar | Low | Health food stores |
+| Brown rice flour (PF Tek) | 14–21 days | Not typical | Low | Grocery stores |
+| Dung/grain | 14–21 days | Not typical | Low | Agricultural |
+
+Grass seed offers a good balance of colonization speed and versatility across multiple species, making it the substrate of choice for cultivators working with sclerotia-producing *Psilocybe* species.
+
+## See Also
+
+- [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]
+- [[cold-shocking-mushrooms]]
+- [[pinhead-initiation-fruiting-triggers]]

@@ -24,7 +24,7 @@ serious challenges for compost producers and users.
 
 Clopyralid is a synthetic auxin herbicide used on broadleaf weeds in
 agricultural and turf settings. The critical problem with clopyralid
-is that there is no knowledge of any [[aact-bacterial-dominant-tea]] or [[aact-fungal-dominant-tea]] that
+is that there is no knowledge of any [[aact-fungal-dominant-tea]] that
 decompose it. While such organisms may exist, they clearly do not
 occur routinely on grass clippings or other materials commonly
 composted. This means clopyralid can survive the entire composting
@@ -114,22 +114,12 @@ approach is affordable and directly measures the biological impact.
 
 ## Compost Tea and Contaminant Transfer
 
-Contaminants in [[aact-compost-quality-standards-ingham]] can be transferred to [[cervantes-compost-tea-organic-brewing]] during the
+Contaminants in [[cervantes-compost-tea-organic-brewing]] during the
 brewing process. If the compost contains persistent herbicides, those
 compounds may be extracted into the tea along with the beneficial
 organisms. This means contaminated compost produces contaminated tea.
 The solution is to ensure that only clean, well-tested compost is
-used as the starting material for [[aact-brewing-ingredients-ingham]]. There is no way to
-remove these contaminants during the brewing process.
-
-## Long-Term Soil Contamination
-
-Chlordane and similar persistent compounds can remain in soil for
-decades after application. When compost or compost tea is applied to
-previously contaminated soil, the organisms in the tea may help
-accelerate the decomposition of these residues over time. However,
-this is a slow process and should not be relied upon as a primary
-remediation strategy. Building [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] through consistent compost
+used as the starting material for [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] through consistent compost
 tea applications can gradually improve contaminated sites, but
 prevention of contamination is always preferable to remediation. See also [[mycoremediation-pesticide-herbicide-contamination]].
 

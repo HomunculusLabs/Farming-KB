@@ -126,8 +126,6 @@ continuous garden production.
 - mollison designers tree propagation grafting
 - mollison designers food forest establishment
 - mollison designers zone planning
-- [[mollison-designers-seed-saving-variety-preservation]]
 - [[mollison-designers-plant-nursery-propagation-bed-design]]
-- [[mollison-designers-plant-nursery-establishment]]
 - [[permaculture-designers-manual-plant-nursery]]
 - [[mollison-designers-chicken-tractors-egg-production]]

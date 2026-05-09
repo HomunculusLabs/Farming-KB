@@ -116,11 +116,7 @@ during the final two weeks of flowering with cooler nighttime temperatures.
 
 ## See Also
 
-- [[og-kush]]
 - [[sfv-og]]
-- [[hindu-kush]]
 - [[kush-mints]]
-- [[chem-91]]
 - [[master-kush]]
-- [[skywalker-og]]
 - [[jack-herer]]

@@ -51,11 +51,8 @@ The exploration of the psychedelic state — the systematic investigation of the
 The encounter with the Transcendent Other requires proper preparation and technique. As McKenna advises: "Good technique is obvious: one sits down, one shuts up, and one pays attention." The experience should be pursued in a setting of comfort, safety, and respect. The intent should be clear and humble. And the results should be received with gratitude and wonder.
 
 See also:
-- [[mckenna-dmt-experience-and-hyperspace]]
 - [[mckenna-overmind-and-vegetable-mind]]
-- [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[mckenna-language-and-reality]]
-- [[dmt-dimethyltryptamine-experience-guide]]
 - [[consciousness-and-psychedelics]]
 
 ## Key Points
@@ -63,25 +60,14 @@ See also:
 - McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
 - The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
-
-## Significance in Psychedelic Thought
-
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
+- The [[psychedelic-therapy-current-research]].
 
 ## Related McKenna Topics
 
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
-
-## See Also
-
-- [[mckenna-plants-and-primates-coevolution]]
-- [[mckenna-food-of-the-gods-thesis]]
+McKenna's analysis fits within his broader framework of the [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-plants-and-primates-coevolution]]
 - [[mckenna-archaic-revival]]
-- [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]
 ## Merged: Stoned Ape Theory
 
 # Stoned Ape Theory

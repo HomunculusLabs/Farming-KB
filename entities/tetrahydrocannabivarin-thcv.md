@@ -86,9 +86,6 @@ currently under investigation.
 
 ## See Also
 
-- [[thc-bomb]]
 - [[tetrahydrocannabinol-thc]]
-- [[cannabidiol-cbd]]
 - [[cannabigerol-cbg]]
-- [[cannabis-sativa]]
 - [[cannabis-indica]]

@@ -1,20 +1,17 @@
 ---
-title: animal butcher and processing
-type: concept
+title: Animal Butcher and Processing
 created: 2026-04-12
-type: concept
 updated: 2026-04-12
-tyhomesteadingtags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-tags: []
+type: concept
+tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
+sources: []
 ---
-# [[livestock-fencing-guide|animal]] butcher and processing
-On-farm slaughter and processing is a fundamental [[homesteading]] skill that
+# Animal Butcher and Processing
+On-farm slaughter and processing is a fundamental homesteading skill that
 provides complete control over meat quality, animal welfare at harvest, and
-ingham coli compost. Processing your own animals eliminates processing fees and
+food safety. Processing your own animals eliminates processing fees and
 allows full utilization of every part of the animal. This guide covers the
-general process applicable to most homestead livestock (poultry, [[rabbit-husbandry|rabbit]]s,
+general process applicable to most homestead livestock (poultry, rabbits,
 sheep, goats, pigs, and cattle).
 
 ## Legal Considerations
@@ -138,7 +135,7 @@ sheep, goats, pigs, and cattle).
 - Chill the carcass for 12-24 hours (poultry: 4-6 hours, rabbits: 2-4
   hours) before cutting. Cold meat cuts cleanly.
 - Target temperature: 33-40°F internal.
-- Large animals: hang in a cool, dry, well-ventilated space. Permaculture designers manual:
+- Large animals: hang in a cool, dry, well-ventilated space. Small animals:
   submerge in ice water.
 
 ### Basic Cuts (Beef/Lamb/Goat/Pork)
@@ -148,3 +145,56 @@ sheep, goats, pigs, and cattle).
 - **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
   and ground meat.
 - **Cutting order:** Remove legs first, then separate chuck/shoulder from
+  rib/loin, then break individual cuts.
+- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
+  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
+
+### Packaging
+- **Vacuum sealing:** Best method. Removes oxygen, prevents freezer burn,
+  extends storage life to 2-3 years.
+- **Freezer paper:** Wrap tightly in plastic wrap first, then freezer paper.
+  Tape sealed. Label with date, cut, and weight. Storage life: 6-12 months.
+- **Freezer bags:** Submerge bags in water to push air out before sealing.
+  Storage life: 3-6 months.
+- Label everything: species, cut, date packaged, weight.
+
+## Curing and Smoking
+
+### Curing Methods
+- **Dry curing:** Apply salt + Prague powder #1 (6.25% sodium nitrite) to
+  meat. Cure at 36-40°F for 7-14 days per inch of thickness. For bacon,
+  hams, jerky, pancetta.
+- **Brine curing:** Water + salt + sugar + Prague powder #1 (0.25% of meat
+  weight). Submerge meat 5-7 days in refrigerator, then rinse and smoke.
+- **Smoking:** Cold smoke at 70-90°F (flavor only, for bacon/ham) or hot
+  smoke at 140-180°F (cooks and smokes, for ribs/jerky). Wood types:
+  hickory (strong), apple/cherry (mild, sweet), oak (medium). Target temps:
+  145°F whole cuts, 160°F ground, 165°F poultry.
+
+## Byproduct Utilization
+
+- **Bones:** Bone broth, bone meal fertilizer, dog chews.
+- **Fat:** Render into tallow (beef) or lard (pork) for cooking, soap,
+  candles, leather conditioning.
+- **Organs:** Liver, heart, kidneys — excellent nutrition and dog food.
+- **Hides/skins:** Tan for leather. See individual species pages for
+  species-specific notes.
+- **Feathers, blood, manure, hooves:** Compost, fertilizer, crafts, dog
+  chews. See [[animal-byproducts]].
+
+## Sanitation and Food Safety
+
+- Sanitize tools between animals. Maintain cold chain (never above 40°F
+  for more than 2 hours). Clean all surfaces after processing.
+- Freeze at 0°F or below. Thaw in refrigerator only.
+
+## Links
+
+- [[goat-husbandry]]
+- [[sheep-husbandry]]
+- [[pig-husbandry]]
+- [[cattle-husbandry]]
+- [[rabbit-husbandry]]
+- [[duck-keeping]]
+- [[turkey-husbandry]]
+- [[quail-husbandry-detailed]]

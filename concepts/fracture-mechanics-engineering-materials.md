@@ -138,13 +138,9 @@ service methods. Failure analysis involves visual examination,
 fractography (SEM), chemical analysis, mechanical testing, and stress
 analysis. Non-destructive evaluation includes ultrasonic testing (~1 mm
 crack detection), radiography, eddy current, and acoustic emission.
-
 ## See Also
-
-- [[fatigue-crack-growth]]
 
 - [[stress-strain-and-elasticity]]
 
-- [[natural-building-materials-guide]]
 - [[building-with-natural-materials]]
 - [[comparison-cob-building-vs-adobe-construction]]

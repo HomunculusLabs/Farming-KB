@@ -1,18 +1,7 @@
 ---
 title: "Stamets Natural Culture and Mycological Landscapes"
 aliases: [natural culture, laissez-faire cultivation, mycological landscape, outdoor mushroom cultivation, spore mass inoculation, mycelial transplantation]
-tags: [mycology, cultivation, stamets, outdoor-growing, ecology, polyculture]
-created: 2026-05-08
-source: "Growing Gourmet and Medicinal Mushrooms, Ch. 4 (Stamets, 1993)"
----
-
-# Natural Culture: Creating Mycological Landscapes
-
-Natural culture is the cultivation of mushrooms outdoors. After mycological landscapes
-are constructed and inoculated, the forces of Nature take over. Paul Stamets also calls
-this "laissez-faire" cultivation — the mushroom patch is left alone, subject to the
-whims of Nature, except for some timely watering. The habitat is specifically designed,
-paying particular attention to site location and the use of native woods and/or garden
+tags: [[query-how-do-i-make-biodynamic-preparations-for-my-farm-or-garden]]
 by-products. Once prepared, the cultivator launches the selected mushroom species into
 the constructed habitat by spawning.
 
@@ -34,57 +23,7 @@ upon the spawn, substrate materials, and weather conditions.
 
 ## Wild Mushroom Competition
 
-While indoor cultivators compete primarily with molds, wild mushrooms are the major
-competitors outdoors. You may plant one species in an environment where another species
-is already firmly established. This is especially likely if you use old sawdust, chips,
-or base materials. Starting with fresh materials is the simplest way to avoid this
-problem. Piles of aged wood chips commonly support four or five species of mushrooms
-within just a few square feet.
-
-Unless the cultivator uses a high rate of inoculation (25% spawn-to-substrate ratio)
-and uniformly clean wood chips, the concurrence of diverse mushroom species should be
-expected. In the Pacific Northwest, Stamets finds that a 5-10% inoculation rate usually
-results in some mushrooms showing late in the first year, with the most substantial
-crops occurring in the second and third years, and a dramatic drop-off in the fourth
-year. As the patch ages, more diverse mushroom varieties co-occur with the planted
-species.
-
-Nature re-establishes a polyculture environment at the earliest opportunity. Some
-mycologists believe a pre-determined sequence of mycorrhizal and saprophytic species
-prevails around trees as they mature. In complex natural habitats, the interlacing of
-mycelial networks is common — underneath a single tree, twenty or more species may
-thrive.
-
-## The Polyculture Approach
-
-Stamets describes creating a polyculture mushroom patch approximately 50 × 100 feet in
-size using mixed wood chips (mostly alder and Douglas fir) inoculated with three species.
-One year after inoculation: Morels showed in late April through May; King Stropharia
-erupted from June to early September, providing several hundred pounds; and an
-assortment of Clustered Woodlovers (Hypholoma-like species) popped up in late September
-through November. With non-coincident fruiting cycles, this Zen-like polyculture approach
-is limited only by imagination.
-
-## Common Competitor Species in Wood Chips
-
-Outdoor cultivators must be able to distinguish desirable species from dangerous look-
-alikes. The following wild decomposers are most frequently found in wood chip beds in
-northern temperate North America:
-
-**Edible or harmless:** Agrocybe spp., Pholiota spp., Coprinus comatus (Shaggy Mane),
-C. disseminatus, C. micaceus, Pluteus cervinus, Psilocybe cyanescens.
-
-**Toxic (single asterisk):** Clitocybe spp., Hypholoma fasciculare.
-
-**Deadly poisonous (double asterisk):** Galerina autumnalis, Lepiota spp., Pholiotina
-filaris. Outdoor cultivators must hone their mushroom identification skills to avoid
-accidental ingestion of these deadly species.
-
-## Three Methods of Outdoor Cultivation
-
-### 1. Spore Mass Inoculation
-
-The simplest way to grow mushrooms outdoors is to broadcast spores onto prepared
+While indoor cultivators compete primarily with molds, [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] mushrooms outdoors is to broadcast spores onto prepared
 substrates. For gilled mushrooms, caps are severed from stems and laid gills-down on
 clean paper or glass. A glass jar is placed over the mushroom to reduce water loss. After
 12 hours, thousands of spores fall in a radiating symmetry pattern called a Spore Print.
@@ -142,7 +81,4 @@ Stamets describes as "mind-boggling."
 
 ## See Also
 
-- [[stamets-biological-efficiency-yield]]
-- [[stamets-wood-decomposition-lignicolous-mushrooms]]
-- [[stamets-king-stropharia-garden-giant]]
 - [[stamets-species-sequencing-recycling-substrates]]

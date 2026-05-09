@@ -138,13 +138,8 @@ Malawi Gold has been used extensively as breeding stock:
 
 - **Amnesia Haze** — Malawi Gold × Jamaican Lambsbread × Afghan Hawaiian
 - **Chocolope** — Malawi Gold × Chocolate Thai (DNA Genetics)
-- **Malawi x Northern Lights** — Classic hybrid combining African sativa
-  vigor with indica structure
-
 ## See Also
 
 - [[cannabis-sativa]] — Species-level overview of sativa cannabis
-- [[colombian-gold]] — Fellow foundational South American landrace
 - [[thai-stick-entity]] — Southeast Asian landrace with similar flowering traits
-- [[query-how-to-make-sourdough-bread-at-home]] — Jamaican landrace used in Amnesia Haze breeding
 - [[purple-haze]] — Landrace hybrid central to modern sativa genetics

@@ -134,10 +134,6 @@ on very steep ground.
 
 ## Related
 
-- [[mollison-designers-high-island-and-tropical-valley-design]] Concepts
-
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
-- [[mollison-earth-constructs-and-banks]]
 - [[mollison-designers-vetiver-grass-for-erosion-control]]
-- [[mollison-tropical-earth-shaping-polyculture-economics]]
 - [[mollison-tropical-mulch-systems-and-materials]]

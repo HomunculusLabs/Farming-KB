@@ -80,11 +80,7 @@ The MD-family SAR reveals several principles:
 
 ## Related Topics
 
-- [[ayahuasca-and-dmt-plant-medicine]]
 - [[mdma-compound-profile]]
-- [[mmda-2-compound-profile]]
 - [[optical-isomers-psychedelic-phenethylamines]]
-- [[phenethylamine-chain-length-effects]]
 - [[mdma-tolerance-and-cross-tolerance]]
-- [[inactive-probes-pharmacological-falsification-pihkal]]
 - [[neurochemical-probes-brain-imaging-pihkal]]

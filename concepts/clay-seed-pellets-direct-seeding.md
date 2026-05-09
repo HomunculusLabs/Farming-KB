@@ -119,17 +119,9 @@ The clay pellet provides advantages that bare seed cannot: protection from birds
 
 ## See Also
 
-- [[direct-seeding-non-cultivation]]
-
-- fukuoka textdoc clay pellet seed coating direct seeding
 - [[comparison-seed-starting-vs-direct-seeding]]
-- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 - [[comparison-seed-balls-vs-direct-seeding]]
-- [[fukuoka-straw-seed-balls-direct-seeding]]
-
-- [[fukuoka's-four-principles-of-natural-farming]]
-- [[no-till-agriculture]]
-- Desert Revegetation Strategies
+- [[fukuoka-four-principles-of-natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - Direct-Seeded Rice-Barley Succession
 - Seed Dormancy and Germination Triggers

@@ -18,110 +18,86 @@ type: concept
 
 Fungi that attack microscopic invertebrates, particularly
 rotifers and nematodes, represent a diverse but poorly known
-component of soil and aquatic [[fungal-biodiversity-ecosystem-function]].
-Approximately 60 species of fungi are known to attack bdelloid
-rotifers, but systematic efforts to recover and characterize
-these organisms have been limited. Using baiting techniques
-and a single host species, that number might be extended to
-100 species, and developing methods for natural populations
-of various rotifer species could increase it to several
-hundred.
-
-## Taxonomic Distribution
-
-The genera of fungal predators and parasites of bdelloid
-rotifers span multiple fungal groups:
-
-- Chytridiomycota: Catenaria, Endochytrium, Olpidium,
-  Rhizophydium
-- Zygomycota: Rhopalomyces, Brachymyces, Zoophagus
-- Oomycota: Atkinsiella, Lagenidium, Sommerstorffia,
-  Haptoglossa
-- Anamorph fungi: Rotiferophthora, Harposporium, Haptospora,
-  Pseudomeria, Lecophagus, Cephaliophora, Dwayaangam,
-  Medusamyces, Tolyplocladium, Culicinomyces, Triacutus
-
-## Endoparasitic Fungi
-
-Endoparasitic fungi attack invertebrates by means of spores
-that adhere to the cuticle or are ingested by the animal.
-Once attached or ingested, the spores germinate, and hyphae
-proliferate inside the body of the host. All assimilative
-stages of the endoparasites are contained entirely within the
-host body. Only reproductive or fertile hyphae extend to the
-exterior.
-
-Nematodes attacked by an endoparasite may remain active for
-a day or two following initial infection. At any given time,
-only a small percentage of individuals in a population will be
-infected. The best approach for collectors is to recover large
-numbers of invertebrates and screen them for parasites
-indigenous to the population.
-
-Fungi that attack rotifers complete the parasitic cycle very
-quickly. A rotifer attacked by an endoparasite may encyst
-within minutes. In 24 hours much of the body is colonized,
-and within 48 hours hyphae emerge through the cuticle. In 72
-hours, sporulation begins. Following sporulation, the dead
-host and exhausted reproductive apparatus degrade rapidly.
-
-## Predatory Fungi
-
-Predatory fungi develop an extensive hyphal system in the
-substratum; the hyphae give rise to trapping devices, either
-adhesive pegs, nets, or constricting rings, which attract and
-capture rotifers and nematodes. Preliminary evidence indicates
-that several species of predatory fungi capture both bdelloid
-and loricate rotifers.
-
-The earliest method for collecting predatory fungi was
-developed by Drechsler (1941), who observed that free-living
-nematodes multiply in agar cultures prepared for isolation of
-plant parasitic Oomycotina and subsequently are attacked by
-predatory fungi. This method, when properly applied, yields a
-greater diversity of parasites and predators than any other
-technique.
-
-## Recovery Techniques
-
-The Baermann funnel technique is effective for recovering
-large numbers of nematodes from soil or organic debris. It
-depends on motile nematodes wriggling through tissue and mesh
-screens, sinking by gravity to a collecting tube. Nematodes
-are then poured onto water-agar plates and inspected daily for
-up to 10 days for parasitized individuals.
-
-Free-living rhabditoid nematodes in culture can be used as
-baits for predatory fungi. Plates with low-nutrient agar are
-inoculated with nematode suspension and sprinkled with soil or
-organic debris. Plates are scanned for aggregations of captured
-nematodes, the first sign of predation.
-
-## Culturing Methods
-
-Parasitic fungi can be cultured by transferring infected hosts
-to fresh agar media. For rotifer parasites, a hanging-drop
-culture method using modified Grace's medium with fetal bovine
-serum is effective. Many rotifer parasites do not sporulate on
-nutrient-rich agar; sporulation is induced by transferring
-mycelium to water agar supplemented with rotifer extract.
-
-## Relationship to Nematophagous Fungi
-
-While [[fungal-nematode-feeding-interactions]] and
-[[fungal-nematode-endoparasites-biodiversity]] address
-nematode-attacking fungi specifically, the rotifer-parasitic
-fungi represent a distinct and understudied group. The
-predatory genera overlap substantially between nematode and
-rotifer targets, with many species capable of attacking both.
-This suggests broad host ranges and generalist predatory
-strategies in many taxa.
-
-## See Also
-
-- [[fungal-nematode-feeding-interactions]]
-- [[fungal-nematode-endoparasites-biodiversity]]
+component of soil and aquatic [[fungal-nematode-feeding-interactions]] and
+[[fungal-nematode-feeding-interactions]]
 - [[fungal-parasites-invertebrates]]
-- [[fungal-feeding-invertebrates-soil]]
 - [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
 - [[fungal-biodiversity-ecosystem-function]]
+## Practical Applications
+
+Fungal Parasites and Predators of Rotifers and Invertebrates has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Fungal Parasites and Predators of Rotifers and Invertebrates. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

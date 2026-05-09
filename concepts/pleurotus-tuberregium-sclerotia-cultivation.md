@@ -129,8 +129,6 @@ unavailable, un-supplemented OPF or sawdust with sclerotia piece inoculation at
 
 ## Related Concepts
 
-- [[oyster-mushroom-bag-cultivation]]
 - [[oyster-mushroom-substrate-preparation]]
-- [[mushroom-industry-african-countries]]
 - [[mushroom-poverty-alleviation-developing-countries]]
 - [[oyster-mushroom-spawn-production]]

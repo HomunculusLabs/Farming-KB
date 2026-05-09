@@ -67,50 +67,28 @@ conditions, especially cloud cover, may necessitate earlier watering.
   unevaporated water on leaves
 ### Seeds, Seedlings, and Immature Plants
 May require watering in the morning, at noon, and late afternoon.
-Until the [[jeavons-biointensive-spacing]] occurs,
-flats and beds dry out more rapidly. When leaves grow closer together
-and shade the soil, less watering will be required.
-## The "Shiny" Method for Measuring Water
-The primary technique for determining proper watering depth is the
-"shiny" test. When you first begin to water, a shiny layer of excess
-water appears on top of the soil. If you stop watering immediately,
-the shiny layer disappears quickly. Water until the shiny layer
-remains for a specific duration after you stop:
-### Shiny Duration by Bed Age and Soil Type
-- **Newly prepared bed with good structure**: 1/2 to 3 seconds
-- **Newly prepared clayey bed**: 3 to 5 seconds (clay retains more
-  moisture and absorbs water more slowly)
-- **1-month-old bed**: 5 to 8 seconds (compacted somewhat from
-  watering)
-- **2 to 3-month-old bed**: more than 8 seconds
-- **2 to 4-month-old bed**: may require even longer shiny
-### The Finger Test
-The next morning, poke your finger into the bed to verify watering:
-- If the soil is evenly moist for the first 2 inches and continues
-  moist below — you are watering properly
-- If the soil is dry for part or all of the first 2 inches — you
-  need more shiny time
-- If the soil is soggy in part or all of the upper 2 inches — you
-  need less shiny time
-## Water Volume Guidelines
-A simple way to estimate water delivery: fill a 1-gallon jar and time it. If it takes 15 seconds, you are delivering 4 gallons per
-minute. For a 5-by-20-foot bed in moderately heavy clay, expect to
-use 5 to 20 gallons daily, averaging about 10 gallons. The actual
-amount varies with weather, plant type, plant size, and soil
-tightness.
-## Key Principles
-- We are watering the soil, not the plants — the living soil then
-  "waters" the plants
-- Keep the soil alive as a "living sponge cake" to retain water and
-  minimize consumption
-- Water the sides and ends of beds more than the middle, as these
-  edge areas experience more evaporation
-- If you wait until plants are wilting before watering, they suffer
-  permanent damage and become susceptible to pests and diseases
-- Slight drooping on a hot day is normal transpiration — not a signal
-  to water; watering at this time increases water loss
-- Adjust watering to weather: a bed may lose more moisture on a
-  cloudy, windy, dry day than on a hot, clear, humid, still one
-## See Also
-- [[cervantes-moisture-meters-watering-technique]]
+Until the [[cervantes-moisture-meters-watering-technique]]
 - [[cervantes-seedling-care-early-growth]]
+
+## See Also
+
+- [[cannabis-watering-techniques-and-frequency]]
+## Practical Considerations
+
+Successful implementation of Watering Technique in Biointensive Gardens requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

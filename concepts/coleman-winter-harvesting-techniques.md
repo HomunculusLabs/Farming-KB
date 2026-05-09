@@ -16,16 +16,7 @@ updated: 2026-04-26
 
 # Winter Harvesting Techniques
 
-Winter harvesting from [[coleman-unheated-greenhouse-design]] in cold climates presents
-unique challenges that differ markedly from summer harvest. Workers
-must contend with frozen crops, frozen fingers, narrow time windows,
-and the need to re-cover plants quickly to prevent damage. Eliot
-Coleman has developed a set of techniques, tools, and scheduling
-practices that make winter harvesting efficient and reliable.
-
-## The Harvest Window
-
-Harvest days at [[coleman-four-season-farm]] are Mondays and Thursdays. Winter
+Winter harvesting from [[coleman-four-season-farm]] are Mondays and Thursdays. Winter
 crops are delivered to stores and restaurants either late those
 afternoons or early the following mornings. In cold-climate areas
 with unheated greenhouses, a flexible schedule on coleman winter harvesting techniques is
@@ -71,15 +62,7 @@ The key harvesting technique for efficiency is minimizing hand
 travel between the cutting point and the container. On average,
 40 percent of a harvester's time is spent moving the hand to
 the container, so keeping the bucket as close as possible to the
-cutting hand is critical. For [[coleman-winter-harvest-philosophy]], Coleman demonstrates
-harvesting leaf by leaf, showing that holding more cut leaves
-in the hand before dropping them in the container increases
-efficiency significantly.
-
-## Re-Covering After Harvest
-
-Inner covers must be replaced as soon as harvesting is finished.
-Once greenhouse temperatures drop below freezing, light [[coleman-row-cover-fabric-management]]
+cutting hand is critical. For [[coleman-row-cover-fabric-management]]
 material quickly freezes to itself and becomes impossible to place
 back over the supporting wickets without tearing. Even the stronger
 PVA covers mentioned in Coleman's cold greenhouse chapter are

@@ -104,11 +104,7 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 - Use comfrey tea, seaweed extract, or fish emulsion
 
 ## Related
-- [[urban-permaculture-rainwater-harvesting-graywater]] — for broader water strategies
 - [[permaculture-earthworks]] — for earthworks
-- [[irrigation-systems]] — for irrigation options
 - [[drought-gardening]] — for drought-tolerant landscaping
-- [[growing-vegetables-with-less-fertilizer]]
 - [[solomon-gardening-when-it-counts-index]]
-- [[solomon-raised-beds-and-bed-preparation]]
 - [[growing-beans-peas-legume-guide]]

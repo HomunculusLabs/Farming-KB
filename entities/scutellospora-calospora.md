@@ -94,13 +94,9 @@ effectively increasing the absorptive surface area of the root
 system and enhancing uptake of immobile nutrients such as
 phosphorus.
 
-The [[mycorrhizal-symbiosis]] with S. calospora can improve plant
-nutritional status, enhance tolerance to environmental stresses,
-and contribute to soil aggregation through the production of
-[[glomalin-and-soil-carbon]]-related soil proteins and the physical binding action of
+The [[glomalin-and-soil-carbon]]-related soil proteins and the physical binding action of
 hyphae on soil particles. These functions are shared with other AM
-fungal species including [[glomus-mosseae]] and
-[[glomus-intraradices]], although the relative contributions of
+fungal species including [[glomus-intraradices]], although the relative contributions of
 different AM species to ecosystem processes may vary depending on
 environmental conditions and host plant identity.
 
@@ -130,12 +126,5 @@ environmental perturbations, may cascade through the mycorrhizal
 symbiosis to affect plant community dynamics.
 
 The referenced material from Dighton's textbook (pages 211 and 363)
-positions these findings within the broader context of [[fungal-ecology]]
-and ecosystem processes, underscoring the importance of multi-trophic
-interactions in determining the functional outcomes of mycorrhizal
-symbioses in natural and managed ecosystems.
-
-## See Also
-
-- [[glomus-mosseae]]
+positions these findings within the broader context of [[glomus-mosseae]]
 - [[glomus-intraradices]]

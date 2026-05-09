@@ -27,83 +27,12 @@ defines much of the species' ecology and distribution.
 
 Psilocybe coprophila belongs to the genus Psilocybe within the
 family Hymenogastraceae. The species epithet clearly indicates its
-preferred substrate, placing it among the [[coprophilous-fungi]] that
-specialize in colonizing animal dung. This ecological strategy is
-shared with several other psilocybin-containing species, including
-[[panaeolus-subbalteatus]] and various Copelandia species.
+preferred substrate, placing it among the [[panaeolus-subbalteatus]] and various Copelandia species.
 
 It is worth noting that the name Psilocybe coprophila has at times
 been applied to different taxa in the mycological literature, and
 some records attributed to this species may require taxonomic
-verification. The [[psilocybin-mushrooms]] Image Guide documents the
-species through a photograph showing "a nice selection of harvested
-Psilocybe coprophila," though the specific source and collection
-location are not recorded.
-
-## Description
-
-### Cap (Pileus)
-
-The cap of Psilocybe coprophila is typically small, measuring 1 to
-3 cm in diameter, which is consistent with the generally small size
-of many coprophilous fungi. When young, the cap is convex to broadly
-convex, becoming plane or slightly depressed at the center with age.
-The surface is smooth and often slightly viscid when moist.
-
-Cap coloration varies from brownish to grayish-brown or ochraceous,
-often with a slightly hygrophanous quality that causes the color to
-fade as the mushroom dries. The margin is typically even and may be
-slightly striate when moist. The flesh is thin and fragile,
-consistent with the ephemeral nature of dung-inhabiting fungi.
-
-### Gills (Lamellae)
-
-The gills are adnate to adnexed in their attachment to the stem.
-They are close to moderately spaced. The gill color starts as a
-light grayish and progressively darkens to dark purplish-brown as
-spores mature. This dark spore coloration is characteristic of the
-genus Psilocybe and helps distinguish the species from non-psychoactive
-coprophilous genera with lighter spore prints.
-
-### Stem (Stipe)
-
-The stem is slender and fragile, typically measuring 2 to 5 cm in
-length and only 1 to 2 mm in thickness. It is cylindrical and equal,
-with a smooth surface colored whitish to pale brown. The stem is
-hollow and brittle. Blue bruising may develop on damaged tissue,
-though this reaction can be variable and less pronounced than in
-some of the more potent Psilocybe species.
-
-### Spore Print and Microscopy
-
-The spore print is dark purplish-brown to nearly black. Spores are
-ellipsoid to ovoid in shape, smooth, and thick-walled, with a
-distinct germ pore. The microscopic features of the spores are
-important for accurate identification of this species.
-
-## Habitat and Ecology
-
-### Coprophilous Lifestyle
-
-Psilocybe coprophila is fundamentally a coprophilous fungus, meaning
-it grows almost exclusively on animal dung. This ecological
-specialization is an adaptation to a substrate that is rich in
-organic nutrients and provides a unique competitive environment
-relatively free from competition with many other decomposer fungi.
-
-The species is most commonly associated with the dung of herbivorous
-mammals, including cattle, horses, sheep, and other grazing animals.
-The dung provides both the nutritional substrate and the moisture
-necessary for fungal growth and fruiting.
-
-### Geographic Distribution
-
-Psilocybe coprophila has been reported from various tropical and
-subtropical regions around the world, following the distribution of
-suitable herbivore dung in warm climates. It has been documented
-in parts of the Americas, Southeast Asia, and other tropical regions.
-The widespread nature of coprophilous fungi is partly due to the
-efficiency of [[spore-dispersal]] through herbivore grazing, as spores
+verification. The [[spore-dispersal]] through herbivore grazing, as spores
 pass through the animal's digestive system and are deposited in
 fresh dung.
 
@@ -144,7 +73,25 @@ dung habitat, dark purplish-brown spore print, and Psilocybe-like
 features are key diagnostic elements. However, many small
 coprophilous mushrooms grow on dung, and several genera can appear
 similar. Accurate identification requires attention to microscopic
-features and careful observation of macroscopic characteristics.
 ## See Also
 
 - [[psilocybe-aztecorum-profile]]
+## Practical Considerations
+
+Successful implementation of Psilocybe coprophila Profile requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

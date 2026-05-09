@@ -84,11 +84,6 @@ traditional food systems.
 
 ## See Also
 
-- [[food-forest-design]]
-- castanea crenata
-- castanea mollissima
-- castanea dentata
 - [[juglans-regia]]
-- [[quercus-suber]]
-- fagus sylvatica
+- [[fagus-sylvatica]]
 - [[castanea-mollissima]]

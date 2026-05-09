@@ -118,16 +118,10 @@ biology, and comparative genomics of fungal pathogens across major
 fungal lineages.
 
 ## See Also
-Related: [[stamets-mushroom-genetics-mating-systems-reproduction]], [[plant-life-rhythms-pulsatory-growth]], [[fungal-hyphae-invasive-growth-mechanisms]]
-
-- [[the-soil-food-web]]
-
-- [[mushroom-cultivation-basics]]
+Related: [[plant-life-rhythms-pulsatory-growth]], [[soil-food-web-nutrient-cycling]]
 
 - [[fungal-plant-diseases]]
 
-- [[magnaporthe-grisea]]
 - [[fusarium-oxysporum]]
-- [[cryptococcus-neoformans]]
 - [[blumeria-graminis]]
 - [[rhizoctonia-solani]]

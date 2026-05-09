@@ -109,11 +109,7 @@ Key features that distinguish quality rosin presses include:
 
 ## See Also
 
-- [[cannabis-rosin-pressing]]
 - [[pdc-energy-systems-and-appropriate-technology]]
-- [[cannabis-hashish-screening-and-pressing]]
-
 - [[cannabis-alchemy-overview]]
-- [[hashish-production-methods]]
 - [[cannabis-extraction-solvents]]
 - [[cannabis-chromatography-cannabinoid-purification]]

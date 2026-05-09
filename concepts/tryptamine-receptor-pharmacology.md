@@ -59,8 +59,7 @@ to explore alternative functional configurations.
 The unique subjective quality of different tryptamine psychedelics may
 arise from their distinct pharmacological profiles across multiple receptor
 subtypes. While all classical psychedelics share 5-HT2A agonism as a common
-mechanism, their relative affinities for 5-HT1A, 5-HT2C, 5-HT2B, [[allen-gymnopilus-and-other-psychoactive-genera]]
-receptors modulate the character [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] experience, producing differences
+mechanism, their relative affinities for 5-HT1A, 5-HT2C, 5-HT2B, [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] experience, producing differences
 in visual intensity, emotional tone, and cognitive effects.
 
 ## Endogenous Tryptamine Signaling
@@ -75,20 +74,7 @@ at low concentrations that may modulate monoaminergic neurotransmission.
 TAARs are a family of G-protein coupled receptors that are activated by
 endogenous trace amines and may play roles in regulating dopamine, serotonin,
 and norepinephrine release. The TAAR1 receptor in particular has been
-implicated [[allegro-death-and-resurrection-in-the-mushroom-cult]] modulation of dopaminergic and serotonergic tone.
-
-## Receptor Desensitization and Tolerance
-
-Repeated administration of tryptamine psychedelics leads to rapid tolerance,
-a phenomenon mediated primarily by 5-HT2A receptor desensitization and
-downregulation. Within hours of a single dose, 5-HT2A receptor density
-decreases and receptor responsiveness diminishes. This tolerance mechanism
-limits the frequency [[archaeology-of-psychedelic-mushroom-use]] [[use-and-value-diversity-permaculture]] contributes to the low addiction
-potential of classical tryptamines.
-
-The molecular mechanisms of desensitization involve receptor phosphorylation
-by G-protein coupled receptor kinases (GRKs), followed by beta-arrestin
-binding and internalization [[allegro-colour-and-consistency-of-the-amanita-muscaria]] receptor. The kinetics of recovery from
+implicated [[archaeology-of-psychedelic-mushroom-use]] [[allegro-colour-and-consistency-of-the-amanita-muscaria]] receptor. The kinetics of recovery from
 desensitization vary between compounds, contributing to differences in the
 practical frequency of use for different psychedelic substances.
 
@@ -102,34 +88,7 @@ of the amine nitrogen substituents. The 4-hydroxy group of psilocin, the
 DMT all produce compounds with significant 5-HT2A affinity.
 
 Synthetic modifications of the tryptamine scaffold have produced compounds
-with varying receptor selectivity and potency. The [[alpha-methyltryptamine]]
-series, the 5-methoxy tryptamine series, and the substituted N-benzyl
-tryptamines all represent distinct pharmacological families with unique
-receptor interaction profiles and subjective effect characteristics.
-
-## Implications for Drug Development
-
-Understanding tryptamine receptor pharmacology has implications for the
-development of novel therapeutics. Selective 5-HT2A modulators that
-produce therapeutic effects without full psychedelic experiences are an
-active area of research. Additionally, the distinct pharmacology of
-different tryptamine subtypes may enable the development of compounds
-tailored to specific clinical applications such as depression, anxiety,
-or substance use disorders, each optimized for a different balance of
-receptor activities.
-
-## Functional Selectivity and Biased Signaling
-
-Recent advances in receptor pharmacology have revealed that different ligands
-at the same receptor can produce distinct patterns of downstream signaling, a
-phenomenon known as functional selectivity or biased signaling. Classical
-psychedelics may preferentially activate certain downstream pathways of the
-5-HT2A receptor while sparing others, producing their unique effects despite
-activating the same receptor as endogenous serotonin.
-
-For example, beta-arrestin recruitment at the 5-HT2A receptor may play a
-differential role in the effects of various tryptamine ligands. The degree
-of beta-arrestin bias could influence whether a [[2c-t-7-compound-profile]] produces primarily
+with varying receptor selectivity and potency. The [[2c-t-7-compound-profile]] produces primarily
 psychedelic effects, neuroplastic effects, or some combination. This insight
 has significant implications for drug development, as compounds with
 targeted signaling profiles could theoretically produce therapeutic benefits
@@ -147,4 +106,3 @@ of psychedelic tryptamines.
 
 The neuroplastic effects of tryptamines are hypothesized to underlie their
 therapeutic potential in depression, anxiety, and substance use disorders.
-By promoting the growth of new neural connections in brain regions that

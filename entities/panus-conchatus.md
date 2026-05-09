@@ -118,13 +118,8 @@ Panus conchatus is distinguished from Pleurotus species by its tougher, leathery
 
 ## See Also
 
-- [[panus-tigrinus]]
 - [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
+- [[laetiporus-sulphureus]]
 - [[coprinus-comatus-detailed]]
-- [[stropharia-rugosoannulata]]
 - [[agaricus-bisporus]]

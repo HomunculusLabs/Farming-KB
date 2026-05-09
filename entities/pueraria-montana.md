@@ -135,8 +135,6 @@ Eradication of established kudzu is notoriously difficult and typically requires
 
 ## See Also
 
-- [[glycine-max-soybean-permaculture]] — Soybean, another nitrogen-fixing legume for permaculture
 - [[trifolium-repens]] — White Clover, a non-invasive ground cover nitrogen fixer
-- [[comfrey-permaculture]] — Comfrey, another vigorous biomass producer for permaculture
 - [[moringa-oleifera]] — Moringa, a multipurpose tree with medicinal and nutritional value
 - [[permaculture]] — Core permaculture principles and design framework

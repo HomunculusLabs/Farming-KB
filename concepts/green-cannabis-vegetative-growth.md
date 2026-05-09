@@ -1,5 +1,5 @@
 ---
-title: Cannabis Vegetative Growth - greg-green's Cannabis Grow Bible
+title: Green Cannabis Vegetative Growth
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Cannabis Vegetative Growth
 
-From [[screen-of-green]]'s *The Cannabis Grow Bible* (4th ed.), Chapters 2, 5, and 11. See also [[cannabis-environment-control]] for optimizing the grow environment.
+From [[cannabis-environment-control]] for optimizing the grow environment.
 
 ## What Is Vegetative Growth?
 
@@ -147,3 +147,7 @@ reduce potency and alter taste. Experimentation is essential.
 Growers like uniform height so light can be positioned optimally. If
 ## See Also
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+
+## See Also
+
+- [[green-cannabis-grow-bible-vegetative-phase-management]]

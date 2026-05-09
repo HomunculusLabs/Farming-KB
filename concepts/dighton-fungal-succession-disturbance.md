@@ -108,11 +108,7 @@ Lack of viable communal ECM networks post-disturbance is attributed to reduced t
 
 ## See Also
 
-- [[fungal-succession-isotope-tracking]]
-
 - [[fungal-succession]]
-- [[fungal-succession-patterns]]
 - [[fungal-communities-succession]]
-- [[decomposer-fungi-succession]]
 - [[fungal-succession-leaf-litter]]
 - [[fungal-succession-wood]]

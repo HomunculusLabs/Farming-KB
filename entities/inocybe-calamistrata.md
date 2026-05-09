@@ -122,29 +122,7 @@ mycological and pharmacological interest:
 ## Similar Species
 | Species | Distinguishing Features |
 |---|---|
-| [[inocybe-tricolor]] | Also psychoactive; violet tints on cap |
 | [[inocybe-haemacta]] | Reddish-brown cap; different cystidia |
-| [[inocybe-coelestium]] | Bluish tints; distinct microscopic features |
-| Inocybe rimosa | Large, silky cap; non-psychoactive, toxic |
-| Inocybe patouillardii | Contains muscarine; non-psychoactive |
-## Field Identification Tips
-- The fibrous, hairy cap surface is characteristic of the
-  I. calamistrata group within the genus
-- Inocybe species are notoriously difficult to identify
-  without microscopy; macroscopic features alone are
-  insufficient for species-level determination
-- The brown spore print is a key genus-level character that
-  separates Inocybe from Psilocybe (dark purplish-brown)
-- NO species of Inocybe should be consumed based on
-  macroscopic identification alone due to the risk of
-  muscarine-containing lookalikes
-- The small size, drab colors, and mycorrhizal habit mean
-  these mushrooms are easily overlooked by casual observers
-- Bluish bruising, a hallmark of many psilocybin mushrooms,
-  is typically absent or very weak in Inocybe species
-## See Also
-- [[inocybe-tricolor]]
-- [[inocybe-haemacta]]
+| [[archaeology-of-psychedelic-mushroom-use]]
 - [[inocybe-coelestium]]
-- [[psilocybe-semilanceata]]
 - [[panaeolus-subbalteatus]]

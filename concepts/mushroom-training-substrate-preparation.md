@@ -3,16 +3,7 @@ title: Mushroom Substrate Preparation — Sawdust and Rice Straw Bags with Paste
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, cultivation, substrate, sawdust, rice-straw, pasteurization, bagging, mushrooms]
-sources:
-  - "Mushroom Cultivation for People with Disabilities — A Training Manual (FAO RAP Publication 2001/12, Hanko)"
----
-
-# Mushroom Substrate Preparation — Sawdust and Rice Straw Bags with Pasteurization
-
-Complete substrate bag production workflow from the FAO training manual: preparing sawdust-based or fermented rice straw substrate, bagging at 800-1000g per bag, and pasteurization using country-style drums, commercial chambers, or solar heating. Substrate is the "food" mixture that provides all nutrients mushrooms need to develop.
-
-See also: [[mushroom-training-spawn-preparation]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-adapted-cultivation]], [[mushroom-substrate-recipes]], [[mushroom-pasteurization]], [[mushroom-country-style-pasteurization]], [[mushroom-cultivation-disabilities-pasteurization-methods]]
+tags: [[mushroom-training-spawn-preparation]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-substrate-recipes]], [[mushroom-country-style-pasteurization]], [[mushroom-cultivation-disabilities-pasteurization-methods]]
 
 ## Overview
 

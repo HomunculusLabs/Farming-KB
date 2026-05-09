@@ -5,9 +5,7 @@ author: Toby Hemenway
 topics: ecology, succession, garden-design, permaculture, ecosystems, maturity
 ---
 
-# Mature vs Immature Ecosystems in [[ecological-garden-design]]
-
-[[toby-hemenway]]'s *Gaia's Garden* introduces gardeners to a fundamental
+# Mature vs Immature Ecosystems in [[toby-hemenway]]'s *Gaia's Garden* introduces gardeners to a fundamental
 ecological distinction: the difference between immature and mature ecosystems.
 Understanding this distinction transforms how we approach garden design, moving
 from constant intervention toward self-maintaining landscapes modeled on
@@ -79,56 +77,7 @@ but to design gardens that function more like mature ecosystems.
 Rather than waiting decades for natural succession to create a mature
 ecosystem, ecological gardeners **accelerate** the process through design:
 
-1. **Start with [[sheet-mulching]]** — Build soil instantly instead of tilling
-2. **Plant multiple layers** — Canopy trees, understory shrubs, herbs,
-   ground covers, and root crops all at once
-3. **Close nutrient loops** — Compost on-site, use nitrogen fixers, return
-   all plant residues to the soil
-4. **Maximize biodiversity** — Plant many species with many functions
-5. **Eliminate bare soil** — Use living mulches, ground covers, and dense
-   plantings
-
-### The Polyculture Approach
-
-Hemenway illustrates this with his meadow-style polyculture: a single garden
-bed seeded with radish, dill, parsnip, calendula, lettuce, fava beans, and
-buckwheat. As early crops are harvested, later crops expand to fill the gaps.
-The dense, diverse planting naturally suppresses weeds, retains moisture,
-attracts beneficial insects, and builds soil — all without tilling or
-spraying.
-
-### The Role of Perennial Plants
-
-Perennials are key to mature ecosystems. Trees, shrubs, and perennial herbs
-develop deep root systems that:
-- Access water and nutrients from deep soil layers
-- Hold soil in place and prevent erosion
-- Create permanent habitat for soil organisms
-- Produce mulch through leaf drop
-- Establish stable microclimates
-
-By emphasizing perennials over annuals, ecological gardeners shift their
-systems toward maturity and self-sufficiency.
-
-## The Self-Organization Principle
-
-Hemenway draws on John Todd's microcosm experiments to illustrate that
-living systems have four remarkable properties:
-
-1. **Self-organization** — Given sunlight, systems organize themselves
-2. **Self-design** — They create their own internal architecture
-3. **Self-repair** — They recover from disturbance
-4. **Self-perpetuation** — They reproduce and sustain themselves over time
-
-These properties emerge in mature ecosystems but are suppressed in immature
-ones. The gardener's role is to create conditions where they can emerge,
-then step back and let the system work.
-
-## The Forest as Model
-
-The mature forest is the most productive terrestrial ecosystem. It:
-- Produces abundant food (fruits, nuts, seeds, greens, mushrooms)
-- Builds its own soil through leaf litter decomposition
+1. **Start with [[decomposition]]
 - Manages its own water through canopy interception and root uptake
 - Controls its own pests through predator-prey relationships
 - Requires zero inputs from humans

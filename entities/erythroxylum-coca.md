@@ -119,10 +119,7 @@ The vast majority of globally produced coca is diverted into the illicit cocaine
 
 ## See Also
 
-- [[allegro-plants-and-drugs-in-the-ancient-world]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[hallucinogenic-plants-history-ethnobotany]]
-
 - [[plants-of-the-gods-erythroxylum-coca]]
 
 - Cocaine

@@ -78,10 +78,10 @@ This association suggests that the presence of healthy moss populations may be a
 
 ## Chemistry
 
-The species is psychoactive, containing [[psilocybin-compound]] and [[psilocin]] as its primary active alkaloids, confirmed through both chemical extraction and the presence of the characteristic blue bruising reaction.
-Analytical data from researchers including [[bigwood]] and [[beug]] have placed it within the known range of potency for Neotropical Psilocybe species, likely in the low to moderate range.
+The species is psychoactive, containing [[psilocin]] as its primary active alkaloids, confirmed through both chemical extraction and the presence of the characteristic blue bruising reaction.
+Analytical data from researchers including [[beug]] have placed it within the known range of potency for Neotropical Psilocybe species, likely in the low to moderate range.
 
-[[baeocystin]] and [[norbaeocystin]] have been identified in related South American species and are presumed to be present in *P. linearis* as well, though specific quantitative analysis remains limited.
+[[norbaeocystin]] have been identified in related South American species and are presumed to be present in *P. linearis* as well, though specific quantitative analysis remains limited.
 The pharmacological significance of these minor alkaloids is not fully understood, but they may contribute to the overall psychoactive profile.
 
 ### Biosynthetic Pathway
@@ -119,10 +119,7 @@ Additional field surveys are needed to assess population sizes and distribution 
 
 *Psilocybe linearis* may be confused with other small, brown Neotropical psilocybin mushrooms:
 
-- [[psilocybe-cubensis-potency-variation-by-flush]] — much larger, coprophilous habitat on dung
 - [[stamets-psi-psilocybe-cyanescens-species-guide]] — undulating cap margin, temperate distribution
-- [[psilocybe-semilanceata]] — different habitat (grasslands), distinctive conic cap with a pronounced papilla
-- Non-psychoactive Deconica species — lack blue staining reaction entirely
 - [[psilocybe-fascicata]] — Central American distribution, different growth habit in clusters
 
 The most reliable field character for distinguishing *P. linearis* from look-alikes is its elongated, slender stem (30–70 mm) relative to the small cap (5–20 mm), combined with the Andean montane distribution and moss-associated habitat.
@@ -130,9 +127,6 @@ The blue staining reaction further distinguishes it from non-psychoactive Deconi
 
 ## See Also
 
-- [[psilocybin-compound]]
 - [[psilocin]]
-- [[baeocystin]]
 - [[psilocybe-cubensis-potency-variation-by-flush]]
-- [[bigwood]]
 - [[beug]]

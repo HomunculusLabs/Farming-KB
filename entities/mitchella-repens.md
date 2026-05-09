@@ -107,12 +107,8 @@ Key permaculture functions include:
 
 ## See Also
 
-- [[gaultheria-procumbens]]
 - [[vaccinium-myrtillus]]
-- [[vaccinium-corymbosum-entity]]
 - [[arctostaphylos-uva-ursi]]
-- [[maclura-pomifera]]
 - [[sambucus-nigra]]
-- [[aronia-melanocarpa]]
 - [[crataegus-monogyna]]
 - [[food-forest-permaculture]]

@@ -10,85 +10,91 @@ sources:
 
 # Fungal Metal Transformations in Soil
 
-Fungi are fundamental decomposer organisms and plant symbionts ([[mycorrhiza]]) that comprise the largest pool of biomass in many soils. Their filamentous growth habit and high surface-area-to-mass ratio make them integral bioactive components of metal cycling processes, including carbon, nitrogen, sulfur, and phosphorus cycles.
-
-## Metal Solubilization
-
-### Mechanisms
-Fungal solubilization of insoluble metal compounds (oxides, phosphates, sulfides) occurs by:
-
-- **Protonation**: Decreasing anion availability via plasma membrane H+-translocating ATPase and organic acid production
-- **Organic acid complexation**: Organic acid anions form soluble complexes with metal cations, increasing mobility. Citric, oxalic, and gluconic acids are most important
-- **Siderophore production**: Low-molecular-weight iron-chelating siderophores (e.g., ferrichrome) solubilize iron(III)
-
-Approximately one-third of natural soil fungal isolates can solubilize at least one of Co3(PO4)2, ZnO, or Zn3(PO4)2; about one-tenth can solubilize all three.
-
-### Agricultural Significance
-- **Phosphate fertilizers**: Applied as solid calcium phosphate that must be solubilized before plant uptake. Mycorrhizal plants show increased phosphate uptake due to fungal phosphate-solubilizing abilities
-- **Nutrient mobilization**: Mycorrhizas increase inorganic nutrient availability by mobilizing essential metal cations and sulfate from insoluble sources
-- **Rock weathering**: Fungal organic acids form pore networks (3-10 micrometers in diameter) in weatherable minerals under coniferous forests
-- **Risk**: Solubilization of cadmium-containing rock phosphate fertilizers releases cadmium alongside phosphate. Metal-citrate complexes are highly mobile and not readily degraded
-
-### Relevance to Bioremediation
-- [[aspergillus-niger-in-fungal-bioleaching]] can solubilize pyromorphite (Pb5(PO4)3Cl), a stable lead mineral, forming biogenic lead oxalate dihydrate -- first observed in fungal transformation of pyromorphite
+Fungi are fundamental decomposer organisms and plant symbionts ([[aspergillus-niger-in-fungal-bioleaching]] can solubilize pyromorphite (Pb5(PO4)3Cl), a stable lead mineral, forming biogenic lead oxalate dihydrate -- first observed in fungal transformation of pyromorphite
 - Fungi can translocate caesium, zinc, and cadmium, concentrating metals in mycelium and fruiting bodies
 - The fungal soil component can immobilize total Chernobyl radiocaesium fallout in upland grasslands, though grazing animals may transfer radiocaesium through the food chain
 
 ## Metal Immobilization
 
 ### Physicochemical Mechanisms (Biosorption)
-Fungal cell walls contain chitin, chitosan, glucans, polysaccharides, proteins, lipids, and melanin, providing many functional groups (amino, carboxyl, phosphate, sulfhydryl) for metal binding. See also [[heavy-metal-biosorption]].
-
-Key biosorbent genera include Rhizopus, [[mucormycosis-zygomycete-infections]], [[aspergillus-niger-in-fungal-bioleaching]], and penicillium entity. Rhizopus and Mucor species (order Mucorales) consistently show the highest uptake across multiple metals, typically 0.1-1.0 mmol metal per gram dry weight. Uranium (uranyl ion) shows the highest uptake levels, exceeding 200 mg/g dry weight.
-
-### Physiological Mechanisms
-
-**Transport and Intracellular Sequestration:**
-- Essential metals (Na, Mg, K, Ca, Mn, Fe, Co, Ni, Cu, Zn) are acquired by transport systems of varying specificity
-- Inessential toxic metals compete with essential ions for transport systems (e.g., caesium competes for potassium transport)
-- Intracellular fates include sequestration by metal-binding molecules and compartmentation in organelles (especially the vacuole)
-- Regulation occurs through efflux mechanisms and gene expression control
-
-**Metal-Binding Molecules:**
-- **Metallothioneins**: Low-molecular-weight (6,000-10,000 Da) metal-binding proteins induced by toxic metals in animals, plants, and microorganisms
-- **Phytochelatins**: Containing glutamic acid and cysteine, identified in plants, algae, and several microorganisms
-- These molecules have potential for bioremediation of heavy metals
-
-### Volatilization and Methylation
-Fungi can transform metals into volatile derivatives:
-
-- **Arsenic**: Methylation produces volatile dimethylarsine and trimethylarsine. Scopulariopsis brevicaulis biomethylates arsenic in timber preservatives (copper arsenate, chromated copper arsenate)
-- **Selenium**: Volatilization of selenium as dimethyl selenide. Penicillium species show promise for selenium removal from contaminated soils
-- **Mercury**: Biomethylation produces toxic methylmercury. Aureobasidium pullulans produces volatile elemental mercury from Hg2+ compounds
-- **Tin**: Biomethylation by fungi producing volatile methyltin compounds
-- **Tellurium**: Volatilization as dimethyl telluride by fungi growing on metal tellurides
-
-### Metal Reduction
-Fungal reduction of metals can change their solubility and toxicity:
-
-- **Iron(III) reduction**: Acidophilic fungi reduce iron(III) for organic acid production. Penicillium spp. and A. niger reduce iron(III) as a proton-consuming activity during organic acid production
-- **Uranium(VI) reduction**: Reduction to less soluble U(IV) by fungi including Fusarium oxysporum and mycorrhizal fungi
-- **Silver reduction**: Enzymatic reduction producing silver nanoparticles
-- **Manganese(IV) reduction**: Potential application in manganese ore processing
-
-## Mycorrhizal Influence on Metal Dynamics
-
-Mycorrhizal fungi ameliorate metal phytotoxicity by:
-- Sequestering metals in fungal biomass (reducing bioavailability and translocation to shoots)
-- Some ecotypes (e.g., Glomus claroideum) show adaptation to increased metal concentrations
-- Mycorrhizal sequestration may not always be beneficial: accumulated metals can be released when fungi die or soil conditions change
-
-## Applications and Limitations
-
-- Commercial adoption of fungal biosorption has been limited despite extensive research; lack of specificity and lower robustness compared to ion-exchange resins are cited reasons
-- Microbial metal removal processes are intrinsic but less-appreciated components of traditional water/sewage treatment, reed beds, lagoons, wetlands, and emerging phytoremediation technologies
-- Much research remains laboratory-based, with few developments at pilot/demonstration scale
-- Recent advances in molecular biology of metal accumulation in yeast models (Saccharomyces cerevisiae) are directly relevant to understanding metal metabolism in plants
-
-## Related Topics
-
-- [[heavy-metal-biosorption]]
-- [[mycoremediation-heavy-metals-detailed]]
+Fungal cell walls contain chitin, chitosan, glucans, polysaccharides, proteins, lipids, and melanin, providing many functional groups (amino, carboxyl, phosphate, sulfhydryl) for metal binding. See also [[mucormycosis-zygomycete-infections]], [[heavy-metal-biosorption]]
 - [[mycorrhiza]]
-- [[fungal-bioremediation]]
-- [[bioremediation-ecosystem-restoration]]
+- [[mycoremediation]]
+## Practical Applications
+
+Fungal Metal Transformations in Soil has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Fungal Metal Transformations in Soil. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -1,5 +1,5 @@
 ---
-title: Five Historical Periods of Neurotropic Fungi Study
+title: Neurotropic Fungi Five Historical Periods
 created: 2026-04-28
 tags:
   - mycology
@@ -40,22 +40,7 @@ well-documented ancient traditions come from:
   isidros" (after the patron saint of agriculture), "pajaritos" (little
   birds), and "derrumbes" (landslides).
 
-- **Siberia**: Amanita muscaria was used by the Chukchee and Koryak peoples
-  of Siberia, as documented by Wasson and Wasson (1957). This represents
-  the most famous example of a non-psilocybin neurotropic mushroom in
-  traditional culture.
-
-- **New Guinea**: Singer (1958, 1960a), Heim and Wasson (1965), and Heim
-  (1965a, 1978) reported the use of Psilocybe, Russula, and Boletaceous
-  fungi as sacred mushrooms among several aboriginal groups.
-
-## Period 2: Early Erroneous Studies (Early 20th Century)
-
-The second period was characterized by uncertain or erroneous
-identifications of neurotropic fungi. Schultes (1939) initially stated
-that the hallucinogenic fungi of Mexico belonged only to Panaeolus
-campanulatus var. sphinctrinus, a position followed by Singer (1949), who
-also considered Psilocybe cubensis based on some unidentified materials
+- **Siberia**: [[psilocybe-cubensis]] based on some unidentified materials
 from Schultes's collections in Mexico. This period reflected the profound
 taxonomic confusion that existed before systematic mycological investigation.
 
@@ -121,7 +106,7 @@ period has been characterized by:
 - **Chemical verification and correction**: Many earlier chemical studies
   were found to be erroneous. Stijve and Kuyper (1988) did not find
   psilocybin in several species previously reported to contain it,
-  including Psathyrella candolleana, Gerronema fibula, Gymnopilus fulgens,
+  including Psathyrella candolleana, [[gymnopilus-fulgens]],
   G. spectabilis, Hygrocybe psittacina, and others.
 
 - **Global scope confirmation**: The broad distribution of neurotropic
@@ -129,11 +114,9 @@ period has been characterized by:
   the north to Chile, Australia, and New Zealand in the south, and from
   sea level to 4,000 meters elevation.
 
-## Related Topics
+## Related
 
-- The traditional use of neurotropic fungi in Mexico is closely tied to
-  the broader topic of [[teonanacatl-history]].
-- For the global distribution patterns discussed in this historical
-  context, see [[guzman-allen-gartz-global-psilocybe-biogeography]].
+- [[neurotropic-fungi-in-mexico]] is closely tied to
+  the broader topic of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 - Taxonomic challenges in identifying neurotropic species are detailed in
   [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].

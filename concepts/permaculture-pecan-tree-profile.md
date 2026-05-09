@@ -19,70 +19,7 @@ type: concept
 The pecan (Carya illinoensis) is a long-lived deciduous nut tree native to
 North America, belonging to the Juglandaceae family alongside walnuts and
 hickories. It is cross-fertile with hickory species and represents one of
-the most valuable nut crops for [[permaculture-food-forests-design-course]] design.
-
-## Botanical Characteristics
-
-Pecans are impressively long-lived trees capable of reaching 30+ meters
-in height, though mature commercial specimens typically range from 15-25m.
-They begin bearing nuts at 6-7 years of age and reach full production
-maturity at 15-20 years. A mature tree can produce 20-50 kg of nuts per
-season, depending on cultivar and growing conditions.
-
-The tree produces fruit on new growth, which means excessive pruning
-directly reduces yields. Pruning should be limited to removing weak,
-dead, broken, or crossing branches. Older trees may require light pruning
-to stimulate new growth and maintain productivity.
-
-## Nutritional Value
-
-Pecans are exceptionally nutrient-dense. Per 100g of edible portion:
-
-- Energy: 687 calories
-- Fat: 71.2 g (predominantly healthy unsaturated fats)
-- Protein: 9.2 g
-- Carbohydrate: 14.6 g
-- Calcium: 73 mg
-- Potassium: 603 mg
-- Magnesium: 142 mg
-- Phosphorus: 289 mg
-- Iron: 2.4 mg
-- Digestion time: 2.75 hours
-
-## Climate Requirements
-
-Pecans prefer long, warm summers with temperatures in the 24-30 degrees C
-range for optimal growth. Some winter chilling is necessary for fruit set,
-but the trees are sensitive to frost during the active growing season.
-Different cultivars require varying lengths of growing season, making
-cultivar selection critical for each site.
-
-- Minimum growing season: 180 days (short-season cultivars)
-- Unlimited cultivar choice: 230+ day growing seasons
-- Humidity: naturally adapted to high humidity, but pollination is
-  actually better in lower humidity conditions
-
-## Soil and Water Needs
-
-Pecans demand fertile, well-drained soils with good water-holding
-capacity. They will not tolerate saline soils at all. The preferred pH
-range is neutral (6.0-8.0), with neutral soils being ideal. Abundant
-soil moisture is essential, though rainfall at flowering and harvest can
-reduce production. Wind and hail storms also pose risks to crops.
-
-## Pollination
-
-Pecans are monoecious, bearing both male and female flowers on the same
-tree. They are wind-pollinated and self-fertile, but cross-pollination
-between different cultivars produces significantly better quality nuts.
-Multiple cultivars should always be planted together for adequate
-pollination.
-
-## Planting and Spacing
-
-Traditional orchard spacing was 15m x 15m, but modern plantings with
-improved cultivars use 5m x 10m or 7.5m x 7.5m spacing. This closer
-spacing is well-suited to [[permaculture-food-forests-design-course]] designs where
+the most valuable nut crops for [[permaculture-food-forests-design-course]] designs where
 intercropping with understory species maximizes productivity per unit
 area.
 
@@ -108,26 +45,74 @@ Over 500 cultivars exist, with the following being most significant:
 In many regions pecans are relatively pest-free compared to other nut
 crops. The main challenge in Australia and similar regions is damage
 from parrots and cockatoos. This makes pecans a good candidate for
-integrated [[permaculture-plant-guilds]] where protective companion
-planting and habitat management reduce bird pressure.
-
-## Permaculture Integration
-
-Pecans integrate well into [[permaculture-food-forests-design-course]] systems as a
+integrated [[permaculture-food-forests-design-course]] systems as a
 upper canopy element. Their deep root systems improve soil structure
 and nutrient cycling. The deciduous canopy allows winter light through
-to understory crops. Leaf litter contributes to [[sheet-mulching]] and
-soil building. Combining pecans with nitrogen-fixing understory trees
-and [[permaculture-plants-ground-covers-living-mulches]] creates a
+to understory crops. Leaf litter contributes to [[permaculture-plants-ground-covers-living-mulches]] creates a
 productive, self-maintaining polyculture system.
 
 ## Related
 
-- [[carya-illinoinensis]] Concepts
-
 - [[permaculture-food-forests-design-course]]
-- [[permaculture-plant-guilds]]
 - [[permaculture-walnut-guide]]
-- [[permaculture-chestnut]]
 - [[permaculture-plants-ground-covers-living-mulches]]
 - [[sheet-mulching]]
+## Practical Considerations
+
+When working with Pecan Tree Profile for Permaculture Systems, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

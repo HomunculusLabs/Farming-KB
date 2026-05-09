@@ -102,19 +102,11 @@ Rhizome yields in cultivation typically range from 10–20 tonnes per hectare. P
 ## See Also
 
 - [[zingiber-officinale]] — Common ginger, the most widely cultivated Zingiber species
-- [[curcuma-longa]] — Turmeric, a related Zingiberaceae rhizome with anti-inflammatory curcuminoids
 - [[alpinia-galanga]] — Greater galangal, used in Southeast Asian cooking and traditional medicine
-- [[alpinia-officinarum]] — Lesser galangal, a TCM herb with anti-inflammatory properties
 - [[boesenbergia-rotunda]] — Fingerroot, a Southeast Asian Zingiberaceae spice
-- [[kaempferia-galanga]] — Sand ginger, aromatic rhizome used in Thai cooking
 - [[alpinia-zerumbet]] — Shell ginger, a close relative with ornamental and medicinal uses
-- [[cymbopogon-citratus]] — Lemongrass, a tropical aromatic grass with overlapping traditional uses
 - [[tagetes-lucida]] — Mexican tarragon, an aromatic herb with traditional medicinal applications
-- [[cymbopogon-martinii]] — Palmarosa grass, a tropical aromatic crop with sesquiterpene-rich essential oil
 - [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass with economically important essential oil
-- [[salvia-officinalis]] — Common sage, a Mediterranean herb with anti-inflammatory terpenoid compounds
 - [[eucalyptus-globulus]] — Blue gum eucalyptus, a source of 1,8-cineole with medicinal applications
-- [[ocimum-basilicum]] — Sweet basil, a culinary herb with documented anti-inflammatory properties
 - [[lavandula-angustifolia]] — English lavender, an aromatic herb with overlapping topical cosmetic uses
-- [[mentha-piperita]] — Peppermint, an aromatic herb with menthol-based essential oil and medicinal uses
 - [[cinnamomum-verum]] — Ceylon cinnamon, a complementary aromatic spice in traditional medicine

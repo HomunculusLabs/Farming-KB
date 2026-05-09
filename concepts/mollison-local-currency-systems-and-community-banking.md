@@ -3,7 +3,7 @@ title: Mollison: Local Currency Systems and Community Banking
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
+tags: [[permaculture, design, agriculture]
 sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
@@ -123,8 +123,6 @@ These digital adaptations preserve the core permaculture economics principles th
 
 Direct marketing cuts out the retailer and enables products to be sold at lower prices. A group label for products -- "Another Product from [Village]" -- generates interest in community products and gains a valuable reputation for quality, durability, or taste.
 
-See also: [[mollison-local-currency-and-informal-economy]], [[mollison-bioregional-organisation-and-resource-index]], [[mollison-property-trusts-ethical-investment]], [[mollison-village-development-design]]
-- [[permaculture-designers-manual-education-and-training]]
+See also: [[mollison-bioregional-organisation-and-resource-index]], [[mollison-village-development-design]]
 - [[permaculture-designers-manual-water-quality]]
-- [[permaculture-designers-manual-education-strategies]]
 - [[permaculture-designers-manual-income-strategies]]

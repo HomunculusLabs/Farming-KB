@@ -2,7 +2,7 @@
 title: Cannabinoid-Terpene Entourage Effect (Blesching, cannabis-health-index)
 created: 2026-04-26
 updated: 2026-04-25
-sources: "cannabis-for-epilepsy-and-seizure-disorders, The Cannabis Health Index (CHI)"
+sources: "cannabis-for-epilepsy-and-seizure-disorders, The cannabis-health-index (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-health-index-cannabinoid-terpene-synergy blesching-cannabis-dosing-strategies"
 type: concept
 tags: [cannabis]
@@ -66,83 +66,25 @@ of the entourage effect as it applies beyond cannabis:
 | Black pepper | Up to 35% |
 | Clove | 7-19% |
 | Indian bay leaf (Cinnamomum tamala) | 14% |
-| Basil (Ocimum gratissimum) | 14% |
-| Cinnamon (Ceylon) | 7-11% |
-| Rosemary | Variable (measured in samples) |
-| Mexican oregano | Present in significant amounts |
-| Grains of paradise | Present in significant amounts |
-| Black caraway | 8% |
-
-### Therapeutic Applications of BCP
-Research has shown BCP protects against inflammation, pain, and cancer. When
-used in conjunction with cannabis, a synergy of beneficial effects may result.
-BCP-containing spices represent an inexpensive natural pharmacy accessible to
-everyone.
-
-### BCP in Skin Conditions
-Topical application of BCP-containing spice preparations has been studied for
-dermatological conditions. The anti-inflammatory and CB2-activating properties
-of BCP complement cannabis-based topical treatments.
-
-## Furanosesquiterpene in Myrrh
-
-Blesching documents that myrrh contains a specific alkene called
-furanosesquiterpene, present in the essential oil of myrrh. Scientists from
-the University of Texas discovered therapeutic properties in this compound,
-which shares mechanistic pathways with cannabinoids for:
-
-- Pain modulation
-- Anti-inflammatory effects
-- Antimicrobial activity
-- Potential anti-cancer properties
-
-## Whole Plant vs Isolate: The Synergy Question
-
-Blesching presents evidence that the whole plant extract often outperforms
-isolated cannabinoids:
-
-- A breast cancer study showed that the cannabidiol-rich whole plant extract
-  performed as well as isolated CBD as an anti-cancer substance, but the whole
-  plant offered broader therapeutic effects
-- The entourage effect means that 200-250 non-cannabinoid constituents
-  (terpenoids, flavonoids, etc.) contribute to the overall therapeutic outcome
-- No isolated cannabinoid can perform the specific tasks that targeted ECS
-  manipulation requires without also bringing adverse effects that are not well
-  understood
-
-## Practical Application: Building Synergistic Protocols
-
-### Combining Cannabis with Spice-Based Cannabinoids
-Blesching's framework suggests integrating BCP-containing spices with cannabis
-therapy:
-
-1. **Culinary integration**: Add black pepper, cloves, cinnamon, basil, or
-   oregano to meals alongside cannabis-based treatment
-2. **Topical synergy**: Combine cannabis topicals with essential oil
-   preparations containing BCP-rich spices
-3. **Non-psychoactive CB2 support**: For patients who cannot use THC, BCP from
-   spices provides CB2 activation independently
-
-### Terpene-Informed Strain Selection
-When selecting cannabis strains, consider the terpene profile alongside THC:CBD
-ratios:
-
-- Myrcene-dominant strains: Enhanced sedative, muscle-relaxant effects
-- Limonene-dominant strains: Mood elevation, anti-anxiety
-- Pinene-dominant strains: Alertness, bronchodilation, memory retention
-- Linalool-dominant strains: Calming, anti-anxiety, sleep support
-- Caryophyllene-dominant strains: Anti-inflammatory, CB2 activation
-
-## Key Takeaways
-
-- The entourage effect involves 111+ cannabinoids and 200-250 additional
-  constituents working synergistically
-- CBD modulates THC's effects as a negative allosteric modulator at CB1
-- (E)-beta-caryophyllene from common spices activates CB2 without
-  psychoactivity, representing a dietary cannabinoid pathway
-- Whole plant extracts often outperform isolated cannabinoids
-## See Also
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
+| Basil ([[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
 - [[cannabis-terpene-entourage-effect]]
 - [[cannabis-terpene-entourage-effect-profiles]]
+## Practical Considerations
+
+Successful implementation of Cannabinoid-Terpene Entourage Effect (Blesching, cannabis-health-index) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

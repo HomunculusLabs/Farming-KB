@@ -87,20 +87,11 @@ Strains may be bred that dry and cure rapidly to save valuable time. All conditi
 
 ## See Also
 
-- [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]
-
 - [[cannabis-harvest-and-curing]]
-
-- [[cannabis-flowering-stage-management]]
 
 - [[cannabis-trichome-guide]]
 
-- [[cannabis-terpene-profile]]
-
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
 
-- [[cannabis-outdoor-growing]]
-
 - [[cannabis-indoor-growing-basics]]
-- [[first-time-grower-common-mistakes]]
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]

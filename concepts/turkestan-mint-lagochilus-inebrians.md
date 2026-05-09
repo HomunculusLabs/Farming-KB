@@ -46,15 +46,7 @@ The peoples of Central Asia were historically situated along the Silk Road trade
 
 ## Relationship to Other Mint Family Psychoactives
 
-The mint family (Lamiaceae) is not typically associated with powerful psychoactive plants, but several members of the family have recognized effects on consciousness. [[salvia-divinorum-profile]], a Mexican species used by the Mazatec Indians, is the most potent psychoactive member of the family and contains the unique diterpene salvinorin A. Coleus species, also used by the Mazatec, represent additional psychoactive members of the family.
-
-The fact that psychoactivity has arisen independently in multiple genera of the mint family — Lagochilus in Central Asia and Salvia and Coleus in Mexico — demonstrates the evolutionary capacity of this plant family to produce compounds with effects on the human central nervous system. The diterpene chemistry of both Lagochilus and Salvia is particularly noteworthy, as diterpenes are not among the more common classes of psychoactive plant compounds.
-
-## Modern Research Needs
-
-Lagochilus inebrians remains poorly studied by modern standards. No controlled clinical trials have examined its psychoactive or therapeutic properties, and the identity of the active constituent or constituents responsible for its intoxicating effects has not been definitively established. The plant represents an interesting target for future ethnopharmacological research, particularly given its long history of safe traditional use and its official recognition in the Russian pharmacopoeia.
-
-In the context of [[old-world-hallucinogenic-plants-overview]], Turkestan mint represents an under-studied but potentially significant member of the Central Asian psychoactive pharmacopoeia. Its relative obscurity in Western ethnopharmacology may reflect the historical inaccessibility of Central Asia to Western researchers rather than any lack of cultural or pharmacological importance.
+The mint family (Lamiaceae) is not typically associated with powerful psychoactive plants, but several members of the family have recognized effects on consciousness. [[old-world-hallucinogenic-plants-overview]], Turkestan mint represents an under-studied but potentially significant member of the Central Asian psychoactive pharmacopoeia. Its relative obscurity in Western ethnopharmacology may reflect the historical inaccessibility of Central Asia to Western researchers rather than any lack of cultural or pharmacological importance.
 
 ## Historical Context
 
@@ -70,20 +62,28 @@ The plant remains relatively understudied by Western standards, partly due to th
 
 ## See Also
 
-[[kanna-sceletium-south-african-narcotic]] — a South African plant with serotonergic effects.
-
 [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — a Mexican plant with auditory effects.
-
-[[old-world-hallucinogenic-plants-overview]] — overview of Old World hallucinogenic plants.
 
 [[syrian-rue-peganum-harmala-ethnobotany]] — Syrian rue and its traditional uses.
 
-[[belladonna-atropa-belladonna-ethnobotany]] — European nightshade with tropane alkaloids.
-
-## References
-
-Sadykov, A.S. "Alkaloids of Lagochilus Species." Chemistry of Natural Compounds, 1975.
-
-Abdullazhanov, A.T., et al. "Pharmacological Properties of Lagochilus inebrians." Pharmaceutical Chemistry Journal, 1974.
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
+[[turner-harmala-alkaloids-preparation-and-dosage]]
 - [[cultural-evolution-and-psychoactive-substances]]
+## Practical Considerations
+
+Successful implementation of Turkestan Mint (Lagochilus inebrians): Central Asian Intoxicant requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

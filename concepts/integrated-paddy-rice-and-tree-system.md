@@ -12,43 +12,7 @@ created: 2026-04-28
 # Integrated Paddy Rice and Tree System
 
 Masanobu Fukuoka identified the integration of trees into flooded paddy rice
-fields as one of the finest examples of [[natural-farming]] for growing paddy
-rice anywhere in the world. Rather than treating trees and rice as mutually
-exclusive land uses, this system places large and small trees on raised mounds
-directly within the flooded paddies, creating a polycultural landscape where
-rice, trees, draft animals, fish, and amphibians coexist in a self-regulating
-ecological whole. The paddies near Sukhothai, Thailand, served as Fukuoka's
-primary reference for this integrated approach, demonstrating principles that
-could be adapted to rice-growing regions worldwide.
-
-## Trees as Guardians of the Soil
-
-Fukuoka described trees as the guardians of the soil, a principle that applies
-equally to flooded paddies as to orchards and upland fields. In conventional
-rice cultivation, trees are systematically removed from paddy landscapes to
-maximize the area available for mechanized rice production. Fukuoka argued
-that this removal eliminates a critical ecological function: the tree root
-systems that stabilize soil structure, cycle nutrients from deep layers, and
-provide habitat for beneficial organisms. Even in flooded paddies, growing
-trees on mounds right in the fields themselves was, in his view, an excellent
-idea.
-
-Growing trees within paddies requires planting them on raised mounds that keep
-their root crowns above the water line. The mounds can be constructed from
-soil excavated within the field itself, so no external materials are needed.
-The trees chosen should be species tolerant of periodically waterlogged
-conditions at their bases while keeping their main root systems in
-well-drained soil above the flood level.
-
-## Ecological Functions of Trees in Paddies
-
-### Nutrient Cycling
-
-Tree roots extend deep into the subsoil, accessing minerals and nutrients
-unavailable to shallow-rooted rice plants. These nutrients are drawn up into
-the tree's canopy and returned to the paddy ecosystem through leaf fall,
-creating a steady input of organic matter that reduces or eliminates the need
-for external fertilization. In Fukuoka's framework of [[natural-farming]],
+fields as one of the finest examples of [[natural-farming]],
 this natural nutrient cycling replaces the synthetic or organic fertilizer
 inputs that both conventional and organic rice farming depend upon.
 
@@ -135,8 +99,6 @@ ridges and bunds between fields. Compacted ridges become hard, microorganisms
 
 ## See Also
 
-- [[fukuoka-dry-field-rice-compact-plant-theory]]
 - [[fukuoka-straw-mulch-system]]
-- [[fukuoka-white-clover-ground-cover]]
 - [[fukuoka-orchard-floor-management]]
 - [[natural-farming]]

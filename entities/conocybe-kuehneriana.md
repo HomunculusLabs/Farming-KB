@@ -2,36 +2,7 @@
 title: Conocybe kuehneriana
 created: 2026-04-28
 type: species
-tags: [mycology, identification, mushrooms]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
----
-
-# Conocybe kuehneriana
-
-A small, inconspicuous grassland mushroom in the family Bolbitiaceae reported to contain [[psilocybin-compound]] and [[psilocin]].
-
-One of several psychoactive species within the genus Conocybe, a group often overlooked by mushroom foragers due to the small stature and fragile nature of its members.
-
-Named in honor of the French mycologist robert kuhner, who made significant contributions to the taxonomy of agarics and boletes.
-
-## Taxonomy
-
-The genus Conocybe was historically placed in the family Bolbitiaceae but has been subject to taxonomic revision.
-
-Many Conocybe species were previously classified under the genus *Pholiotina* or *Galera*.
-
-Modern molecular phylogenetics has helped clarify relationships within the genus, though taxonomy remains in flux for some species complexes.
-
-conocybe kuehneriana is one of several psilocybin-containing species in the genus.
-
-Other psychoactive Conocybe species include [[conocybe-cyanopus]], [[conocybe-siligineoides]], and conocybe-smithii.
-
-All are small, delicate, brown-spored mushrooms inhabiting grasslands, pastures, and open habitats.
-
-The genus is poorly studied relative to [[psilocybe-aeruginosa]], and many species remain incompletely characterized both morphologically and chemically.
+tags: [[psilocybin]] and [[conocybe-cyanopus]], [[psilocybe-aeruginosa]], and many species remain incompletely characterized both morphologically and chemically.
 
 ## Distribution
 
@@ -115,35 +86,18 @@ Confirmed to contain psychoactive indole alkaloids, though analytical data in pu
 
 Reported constituents:
 
-- **[[psilocybin-compound]]** — Present in detectable quantities, estimated at 0.02-0.1% dry weight
 - **[[psilocin]]** — Present in trace amounts
 
-Concentrations generally lower than those found in [[psilocybe-cubensis]] or [[psilocybe-semilanceata]].
+Concentrations generally lower than those found in [[psilocybe-semilanceata]].
 
 Blue staining reactions upon bruising typically absent or very faint, correlating with low psilocin concentrations.
 
-No [[baeocystin]] definitively reported from this species.
-
-## Identification Challenges
-
-Field identification is extremely challenging due to small size and morphological similarity among Conocybe species.
-
-Microscopic examination of spore size, shape, and cheilocystidia morphology is typically required for reliable species determination.
-
-This presents a significant safety concern, as several Conocybe species contain dangerous toxins.
-
-## Toxicity Warning
-
-While conocybe kuehneriana itself contains psilocybin rather than lethal toxins, the genus Conocybe includes species that are dangerously poisonous.
-
-Some Conocybe species contain amatoxins, the same toxins found in [[amanita-phalloides-death-cap]] (the death cap).
+No [[amanita-phalloides-death-cap]] (the death cap).
 
 The extreme difficulty of distinguishing among Conocybe species without microscopic examination means that attempting to consume any small brown Conocybe mushroom is highly dangerous.
 
 ## Similar Species
 
-[[conocybe-cyanopus]] — Another psilocybin-containing Conocybe, distinguished by microscopic features and tendency toward blue staining.
-
-[[conocybe-siligineoides]] — Also reported as psychoactive, morphologically very similar.
+[[archaeology-of-psychedelic-mushroom-use]] — Also reported as psychoactive, morphologically very similar.
 
 Conocybe apala — A common non-psychoactive species of lawns and grasslands.

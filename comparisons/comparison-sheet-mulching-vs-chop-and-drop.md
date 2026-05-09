@@ -139,11 +139,7 @@ cover crop at maturity and leave it as mulch before direct-planting.
 
 ## See Also
 
-- [[comparison-sheet-mulching-vs-chop-and-drop-mulching]]
-
 - [[sheet-mulching]] — detailed guide to lasagna gardening techniques
-- [[chop-and-drop-mulching]] — comprehensive chop-and-drop reference
-- [[composting-and-soil-biology]] — broader no-till philosophy and practices
-- [[cover-crop-selection-guide]] — choosing cover crops for chop-and-drop
+- [[ozier-pdc-composting-and-soil-building]] — broader no-till philosophy and practices
 - [[permaculture-design]] — woody mulch materials and methods
 - [[composting-methods-comparison]] — comparing composting approaches

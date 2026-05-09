@@ -140,11 +140,8 @@ availability which varies with soil conditions. The co-substrate
 requirements (organic acids and, for non-phenolic degradation,
 lipids or thiols) add complexity but also provide flexibility in
 system design.
-
 ## See Also
 
-- [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
 - [[mycoremediation-enzymology]]
-- [[mycoremediation-enzyme-production-optimization]]
 - [[fungal-laccase-redox-mediators]]
 - [[mycoremediation-of-pahs]]

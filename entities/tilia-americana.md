@@ -1,0 +1,136 @@
+---
+title: "Tilia americana"
+type: species
+tags:
+  - malvaceae
+  - temperate-hardwood
+  - north-american-tree
+  - ornamental
+  - medicinal
+  - honey-source
+date: 2026-05-08
+updated: 2026-05-08
+sources:
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 2 — Hardwoods." USDA Forest Service.
+  - Sternberg, G. (2004). "Native Trees for North American Landscapes." Timber Press.
+  - Coder, K.D. (2006). "American Basswood (Tilia americana)." University of Georgia Warnell School.
+  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
+---
+
+## Overview
+
+**Tilia americana**, commonly known as American basswood or American linden, is
+a large deciduous tree native to eastern and central North America. It ranges
+from New Brunswick and Manitoba south to North Carolina and Oklahoma, and is
+one of the most important nectar-producing trees in eastern forests.
+
+The species is valued for its soft, workable timber, fragrant flowers that
+attract honey bees in enormous numbers, and traditional medicinal uses. Its
+heart-shaped leaves and dense, pyramidal crown make it a popular ornamental
+tree for parks and large landscapes.
+
+American basswood typically reaches 20–25 meters in height with a trunk
+diameter of 60–90 cm. Exceptional individuals in old-growth stands may exceed
+35 meters in height and 120 cm in diameter. The species can live 200–300
+years.
+
+## Taxonomy and Morphology
+
+**Tilia americana** L. was described by Carl Linnaeus in 1753. It was
+historically placed in Tiliaceae but is now classified in Malvaceae subfamily
+Tilioideae. The common name "basswood" derives from "bast" (inner bark fiber),
+reflecting its historical use for cordage and rope.
+
+Leaves are 10–15 cm long and 8–12 cm wide, broadly ovate to cordate with
+coarsely serrate margins and acuminate tips. The base is characteristically
+heart-shaped (cordate) with asymmetrical attachment to the petiole. The
+upper surface is dark green and smooth; the lower surface is paler with
+axillary tufts of white hairs.
+
+Flowers appear in June–July in pendulous cymes borne from a distinctive
+elongate, leaf-like bract. The flowers are 10–14 mm in diameter, creamy
+white to pale yellow, and intensely fragrant. They are among the most
+attractive to bees of any North American tree species.
+
+The fruit is a globose to ovoid drupe, 6–8 mm in diameter, gray-green and
+pubescent, containing 1–2 seeds. The bark is gray to brown, initially smooth,
+developing long, narrow, vertical ridges with age. The wood is pale, soft,
+and lightweight with a fine, even texture.
+
+## Distribution and Habitat
+
+American basswood ranges from southeastern Manitoba, New Brunswick, and Nova
+Scotia south through the Great Lakes region and Appalachian Mountains to
+northern Georgia, and west to eastern Oklahoma and eastern North Dakota.
+
+It is most abundant in the northern hardwood and Great Lakes-St. Lawrence
+forest regions, where it occurs as a scattered component of [[fagus-grandifolia]] forests. Common associates include [[betula-papyrifera]], [[acer-rubrum]].
+
+Basswood prefers rich, moist, well-drained loam soils of bottomlands, north-
+facing slopes, and coves. It is moderately shade-tolerant and often persists
+as a subcanopy tree beneath sugar maple and beech canopies. The species is
+sensitive to drought, fire, and prolonged flooding.
+
+## Cultivation and Landscaping
+
+American basswood is planted as a shade and ornamental tree for its dense,
+symmetrical crown and fragrant midsummer flowers. Several cultivars are
+available, including 'Redmond' (fastigiate form) and 'Nova' (compact form).
+
+The tree transplants readily and grows rapidly, averaging 40–60 cm per year
+in youth. It performs best in deep, moist, well-drained soils with full sun
+to partial shade. It is relatively tolerant of urban conditions including
+compacted soils and air pollution, though it prefers sites away from
+extreme heat.
+
+A notable limitation in landscape use is susceptibility to Japanese beetle
+(*Popillia japonica*) defoliation, which can be severe during outbreak years.
+The tree also produces abundant sprouts from the root system, which can
+create maintenance issues in formal landscape settings.
+
+## Ecology and Wildlife
+
+Basswood flowers are an extraordinary nectar resource. During the 2–3 week
+bloom period in late June and early July, honey bees produce basswood honey,
+one of the premier single-source honeys in North America. The honey is light
+in color with a distinctive, mildly spicy flavor and is slow to granulate.
+
+The seeds are consumed by numerous wildlife species including squirrels,
+chipmunks, mice, and songbirds. Deer and rabbits browse young shoots and
+bark. The tree provides important cover and nesting habitat for cavity-
+nesting birds and small mammals.
+
+Basswood foliage is moderately palatable to white-tailed deer and is browsed
+preferentially over many other hardwood species. In areas with high deer
+density, regeneration can be significantly suppressed. The species is a host
+for several moth larvae, including the linden looper (*Erannis tiliaria*).
+
+## Timber and Uses
+
+Basswood is one of the softest and most workable of the North American
+hardwoods. The wood is light in weight with a specific gravity of
+approximately 0.37, making it lighter than many softwoods. It has a fine,
+uniform texture and straight grain with minimal figure.
+
+It is the premier wood for carving, model making, and woodblock printing. Its
+softness, dimensional stability, and lack of grain raise when carved against
+the grain make it ideal for detailed sculptural work. Other uses include
+musical instrument soundboards, piano keys, drawing boards, and venetian
+blinds.
+
+The inner bark (bast) was historically used by indigenous peoples and
+European settlers for making rope, mats, and cordage. The bast fibers are
+strong and flexible, and were an important material before the widespread
+availability of synthetic fibers.
+
+Basswood is also used for pulpwood, excelsior, crates, and lightweight
+furniture frames. It is not suitable for structural applications due to its
+low strength and decay resistance.
+
+## See Also
+
+- [[fagus-grandifolia]]
+- [[betula-papyrifera]]
+- [[ulmus-americana]]
+- [[carya-ovata]]
+- [[tilia-cordata]]

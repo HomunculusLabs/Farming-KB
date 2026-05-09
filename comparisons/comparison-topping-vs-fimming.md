@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[topping-cannabis]] and [[fimming]] are two of the most widely used high-stress
+[[fimming]] are two of the most widely used high-stress
 training (HST) techniques for controlling cannabis canopy structure and
 increasing yield. Both methods involve physically damaging the apical meristem
 — the plant's dominant central growing tip — to break apical dominance and
@@ -75,27 +75,7 @@ Timing is critical. The plant should have at least four to six nodes before the
 first top, and the stem should be thick enough to support a clean cut —
 typically at least 2mm in diameter. Topping too early, when the stem is thin
 and fragile, can cause the plant to split or die. For a detailed walkthrough,
-see [[topping-cannabis]].
-
-## Fimming: How It Works
-
-Fimming is essentially an imprecise topping. Rather than cutting cleanly through
-the stem, the grower pinches or cuts away roughly 75 to 90 percent of the
-newest growth at the very top of the plant, leaving a ragged stub of the lower
-portion of the shoot tip.
-
-Because the apical meristem is only partially destroyed rather than fully
-removed, the plant's hormonal response is less cleanly directed. Multiple latent
-growth points at and around the cut site are activated simultaneously. The result
-is typically three to six new colas emerging from the cut area, but the number,
-spacing, and vigor of these new branches vary considerably from plant to plant.
-
-Some fimmed plants produce beautifully even multi-headed canopies, while others
-develop an uneven, lopsided structure that requires additional correction through
-selective pruning or low-stress training. Fimming was originally discovered as a
-"mistake" during topping — a grower who missed the clean cut inadvertently
-created the technique. However, the ragged nature of the wound can slow healing
-and increase the risk of infection. For more on this method, see [[fimming]].
+see [[fimming]].
 
 ## Key Differences
 
@@ -118,33 +98,7 @@ well-organized canopy. It is particularly well suited to indoor grows with
 limited vertical space, where controlling height and spreading the canopy
 horizontally is essential for even light distribution. First-time growers should
 start with topping because the outcome is predictable and the technique is easy
-to learn. Topping also pairs well with low stress training cannabis and
-scrog net setups where an even canopy is critical.
+to learn. Topping also pairs well with [[comparison-fimming-vs-topping]]
 
-## When to Choose Fimming
-
-Fimming appeals to experienced growers who are comfortable managing an uneven
-canopy and want to maximize the number of colas from a single intervention. It
-can be useful when a grower wants more branching but wants to minimize the
-number of separate cuts made on the plant. Because fimming leaves more plant
-material at the cut site, some growers argue it carries slightly less shock
-than a full topping cut, though recovery time data suggests the opposite due to
-the ragged wound.
-
-## Hybrid Approaches
-
-Many growers combine both techniques. A common strategy is to top the main stem
-for predictable dual-cola structure, then fim the resulting two branches to
-multiply them further. Others fim early for rapid branching, then use selective
-topping to clean up any uneven growth. Combining these methods with low-stress
-training (LST) such as bending and tying branches creates a highly customized
-canopy tailored to the grow space.
-
-## See Also
-
-- [[comparison-fimming-vs-topping]]
-
-- [[comparison-fimming-vs-topping]]
 - [[comparison-supercropping-vs-topping]]
-- [[topping-cannabis]]
 - [[fimming]]

@@ -138,13 +138,8 @@ five years depending on the severity of degradation, climate, soil type,
 and management consistency. The most depleted soils require the most
 intensive biological amendments initially, with input requirements
 declining as the foodweb recovers its self-regulating function.
-
 ## See Also
 
-- [[ingham-streptococcus-dairy-soil-disease]]
-
 - [[soil-foodweb-balancing-protocol-ingham]]
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
 - [[ingham-aact-disease-suppression-competition-mechanisms]]
-- [[lowenfels-soil-food-web-overview]]
 - [[mycorrhizal-carbon-phosphorus-exchange]]

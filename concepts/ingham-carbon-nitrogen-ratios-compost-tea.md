@@ -13,31 +13,7 @@ type: concept
 ## The Fundamental Role of C:N
 
 Carbon-to-nitrogen ratio is one of the most important factors
-determining the success of both composting and [[cervantes-compost-tea-organic-brewing]].
-The ratio of available carbon to available nitrogen determines
-whether organisms have the building blocks they need for growth,
-reproduction, and metabolic activity. Too much carbon relative to
-nitrogen means organisms cannot build proteins and reproduce. Too
-much nitrogen relative to carbon leads to rapid growth that can
-deplete [[ingham-dissolved-oxygen-management]] and create [[ingham-anaerobic-vs-aerobic-compost-tea]].
-
-## C:N in Composting
-
-In compost piles, the ideal starting C:N ratio is typically around
-25:1 to 30:1. At this ratio, microorganisms have enough carbon for
-energy and enough nitrogen for protein synthesis. Materials high in
-carbon include wood chips, straw, leaves, and paper. Materials high
-in nitrogen include manure, food scraps, and leguminous residues.
-Balancing these materials is essential for achieving proper
-composting temperatures and timely decomposition.
-
-## Simple Sugars and C:N Considerations
-
-Simple sugars have an effectively infinite carbon-to-nitrogen ratio
-because they contain no nitrogen at all. Pure glucose, dextrose, or
-sucrose provides only carbon and energy. If simple sugars are added
-to a system without a source of nitrogen, microbial growth will be
-limited by the lack of nitrogen for protein synthesis. This is why [[ingham-molasses-types-brewing-effects]], which contains small amounts of nitrogen, phosphorus,
+determining the success of both composting and [[ingham-dissolved-oxygen-management]] and create [[ingham-molasses-types-brewing-effects]], which contains small amounts of nitrogen, phosphorus,
 potassium, and other nutrients, is preferred over pure sugar for
 compost tea brewing.
 
@@ -75,33 +51,10 @@ produced and the composition of the microbial community.
 ## C:N and Microbial Community Composition
 
 The carbon-to-nitrogen ratio of available foods in compost tea
-influences which organisms dominate. [[aact-bacterial-dominant-tea]]
-benefit from foods with lower C:N ratios that support rapid
-bacterial reproduction. [[aact-fungal-dominant-tea]] benefit from foods
-with higher C:N ratios, particularly complex carbon sources like [[humic-acids-soil-biology-ingham]]
-and fish oils. Understanding these relationships allows
-the brewer to select foods that support the target community.
-
-## Monitoring C:N Through Brewing
-
-During compost tea brewing, the C:N ratio changes as organisms
-consume food resources. Initially, simple sugars are consumed
-rapidly by bacteria. As these are depleted, organisms shift to
-more complex carbon sources. The dissolved oxygen curve reflects
-this process: an initial dip as bacteria bloom on simple sugars,
-followed by stabilization as the community adjusts to the
-remaining food resources. Monitoring this pattern provides insight
-into whether the recipe is balanced.
-
-## Practical C:N Management
-
-For successful compost tea brewing: use compost with a balanced C:N
-ratio as your base, supplement with foods that provide both carbon
-and nitrogen rather than pure sugars alone, match food selection to
-your target organism community, and monitor oxygen levels to detect
-imbalances in real time. Fish hydrolysate combined with [[ingham-molasses-types-brewing-effects]]
+influences which organisms dominate. [[aact-fungal-dominant-tea]] benefit from foods
+with higher C:N ratios, particularly complex carbon sources like [[ingham-molasses-types-brewing-effects]]
 provides a balanced carbon-to-nitrogen food package that supports
-both bacterial and fungal growth in appropriate proportions. See also [[aact-brewing-ingredients-ingham]] and [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
+both bacterial and fungal growth in appropriate proportions. See also [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
 
 ## C:N in Compost Tea Brewing Water
 

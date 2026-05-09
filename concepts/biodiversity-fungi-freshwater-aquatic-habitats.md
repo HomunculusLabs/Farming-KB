@@ -50,30 +50,7 @@ research of specialist mycologists. Notable contributions include studies
 of chytrids associated with algae in the English Lake District by H. M.
 Canter and colleagues, and saprotrophic chytrids of lake margins and
 muds by L. G. Willoughby. F. K. Sparrow and colleagues documented
-[[zoosporic-fungi]] from aquatic sites and soils throughout northern Michigan
-over approximately 20 years.
-
-### Collection Methods
-
-Chytrids are microscopic and cannot be collected by unaided sight or
-standard microbiological methods such as dilution plating. Baits are
-commonly used to provide chytrids with a fresh substratum to colonize.
-Commonly used baits include chitin (purified shrimp exoskeleton or insect
-wings), cellulose (cellophane, lens paper, onion skin, bleached corn
-straw), keratin (defatted baby hair, snake skin, wool fibers), and pollen
-grains of Pinus, Picea, and Liquidambar species.
-
-For phenological studies, bait bags containing weighted nylon mesh with
-pollen wrapped in lens paper are placed in the habitat for one week at
-temperatures above 20 degrees C or up to a month below 10 degrees C. Gross
-cultures (organic debris and water with added baits) are incubated at
-near-site temperatures and examined periodically for chytrid colonization.
-
-### Isolation and Culturing
-
-Isolation into pure culture is essential for adequate documentation of
-taxonomic characters. Colonized baits or natural substrata are placed on
-nutrient [[agar]] (commonly PmTG with antibiotics), and sporangia are cleaned
+[[agar]] (commonly PmTG with antibiotics), and sporangia are cleaned
 by pushing them through the agar with a fine needle to remove bacteria.
 After cleaning, sporangia are isolated and plates sealed with laboratory
 film. An alternative method for tiny sporangia involves washing the
@@ -95,56 +72,25 @@ significant freshwater organisms in three subclasses: Peronosporomycetidae
 (Peronosporales, Pythiales), Saprolegniomycetidae (Saprolegniales,
 Sclerosporales), and Rhipidiomycetidae. Members are collected from
 freshwater using baiting with seeds, insect exuviae, and organic
-materials. See [[biodiversity-oomycetes-straminipiles]] for detailed
-coverage of this group.
-
-## Freshwater Ascomycetes
-
-Freshwater ascomycetes are an ecologically significant but poorly known
-group. They occur primarily on submerged wood and herbaceous debris in
-lotic and lentic habitats. Many species are obligately aquatic and are
-not found in terrestrial environments. Collection involves gathering
-submerged woody material and herbaceous debris from aquatic habitats,
-carefully examining substrata under a dissecting microscope, and
-incubating samples in moist chambers to induce sporulation. Some species
-produce characteristic ascospores that can be trapped from the water
-column using selective techniques.
-
-## Mitosporic Fungi in Freshwater
-
-Mitosporic fungi (hyphomycetes) are common in freshwater habitats and
-play important roles in decomposition. They occur most frequently on more
+materials. See [[decomposition]]. They occur most frequently on more
 decomposed materials compared with chytrids and peronosporomycetes, which
-are found on senescent tissues. Common genera include Trichoderma,
-Penicillium, and various dematiaceous hyphomycetes. Collection methods
-parallel those for ascomycetes, with emphasis on examining decomposed
-leaf litter, wood, and detritus from various freshwater microhabitats.
+are found on senescent tissues. Common genera include [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
+## Practical Considerations
 
-## Assessing Biodiversity and Abundance
+Successful implementation of Fungi in Freshwater Aquatic Habitats requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-Thorough documentation of fungal diversity in freshwater habitats requires
-integrating multiple approaches. Investigators should make bait
-collections from detritus and water, bait in situ, and examine natural
-substrata because different methods do not always reveal the same species.
-Sampling during all seasons of several years and sampling as many
-microhabitats as possible will increase the probability that most species
-will be found.
+## Future Directions
 
-Quantitative methods for freshwater fungi remain underdeveloped. Numbers
-can be determined using bacteriological methods such as most probable
-number (MPN) when the natural substratum is particulate. For chytrids
-recovered only on baits, crude abundance can be ranked by determining
-the number of bait bags containing the target species out of the total
-placed. The difficulty in isolating and identifying chytrids makes
-studying their diversity challenging, but thorough studies of limited
-areas with reliable species identifications are of greater scientific
-value than ambitious surveys with dubious identifications.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-## Conservation Concerns
-
-Aquatic habitats have disappeared rapidly due to agrarian practices,
-land development, and pollution. Documenting species in existing habitats
-enables detection of habitat alteration effects on composition and
-function. Cultures should be isolated and maintained for future habitat
-restoration, [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-research, and phylogenetics. Freshwater fungal communities intersect

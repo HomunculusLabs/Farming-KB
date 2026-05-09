@@ -504,7 +504,7 @@ On-farm processing significantly increases profitability:
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
 - [[comparison-serviceberry-vs-elderberry-vs-aronia]]
-- [[query-best-elderberry-varieties-for-different-climates-and-uses]]
+- [[heritage-and-landrace-crop-varieties-for-small-farmers]]
 - [[companion-planting-and-polycultures]]
 - [[pollinator-gardens-and-beneficial-insects]]
 - [[beneficial-insects-and-biological-pest-control]]

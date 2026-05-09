@@ -133,8 +133,6 @@ cellulase production.
 
 ## See Also
 
-- [[penicillium-chrysogenum]]
 - [[penicillium-expansum]]
-- [[botrytis-cinerea]]
 - [[pythium-ultimum]]
 - [[fusarium-verticillioides]]

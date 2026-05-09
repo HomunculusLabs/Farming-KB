@@ -4,12 +4,7 @@ created: 2026-04-28
 cresheet-mulching21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, pest-management, plant-growth, fruit-tree, homesteading]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# [[permaculture-soil-biota-and-earthworms]] and Sheet Mulching
+tags: [[permaculture-soil-biota-and-earthworms]] and Sheet Mulching
 
 **Source:** The Ultimate Guide to Natural Farming & Sustainable Living (Nicole Faires, 2012)
 **Updated:** 2026-04-18
@@ -102,16 +97,5 @@ There are many ways to mulch. The method described here is called [sheet mulchin
 
 ## General Soil Improvement
 
-Any soil, not just bad soil, should be improved by planting [cover and [[green-manure-crops]] or adding composted animal manure. You can also add compost (kitchen and yard waste which has decomposed) to the small gardens near the house. Soil that has been cleared most likely needs extra help, because minerals have been leeching out.
-
-Encourage worms and other beneficial creatures to live and grow in the soil. These are the best cultivators, which do their own composting and mulching.
-
-Land that has experienced extreme erosion needs gentle treatment. Avoid grazing any animals on it for a long while, and it may be a good idea to plant a crop of plants that grow deep roots, such as daikon radish, chicory, and leguminous trees.
-
-Deep-rooted trees pull nutrients from the deepest layers of the soil, and their leaves can be used as mulch to return those nutrients back to the soil. The goal is to cover all exposed soil with quick-growing local species of trees and shrubs to prevent erosion.
-- [[gaias-garden-cover-crops-soil-building]]
-- [[what-natural-farming-method-should-i-use]]
-
-## See Also
-
+Any soil, not just bad soil, should be improved by planting [cover and [[gaias-garden-cover-crops-soil-building]]
 - [[sheet-mulching-methods-urban-permaculture]]

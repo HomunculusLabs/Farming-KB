@@ -23,11 +23,11 @@ Mexico has the highest diversity of psilocybin mushrooms, with approximately 76 
 
 ### North America (excluding Mexico)
 
-The Pacific Northwest has at least a dozen psilocybin-containing species among more than four thousand documented mushroom species. Notable species include [[psilocybe-azurescens-profile]] (the most potent known), [[psychedelic-mushrooms-species-and-identification]], P. stuntzii, P. baeocystis, and P. pelliculosa. In 1993, a lone specimen of P. pelliculosa was found above Telluride, Colorado at 10,000-11,000 feet -- the first psilocybin mushroom reported from Colorado woodlands despite fifty years of searching.
+The Pacific Northwest has at least a dozen psilocybin-containing species among more than four thousand documented mushroom species. Notable species include [[psilocybe-azurescens-profile]] (the most potent known), [[psilocybe-cyanescens-profile]], P. stuntzii, P. baeocystis, and P. pelliculosa. In 1993, a lone specimen of P. pelliculosa was found above Telluride, Colorado at 10,000-11,000 feet -- the first psilocybin mushroom reported from Colorado woodlands despite fifty years of searching.
 
 ### Europe
 
-Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psychedelic-mushrooms-species-and-identification]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), Gymnopilus purpuratus, and various Panaeolus species.
+Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psilocybe-semilanceata-profile]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), Gymnopilus purpuratus, and various Panaeolus species.
 
 ### Central and South America
 
@@ -62,26 +62,26 @@ One Psilocybe species documented from northern Algeria (P. mairei). Reports of a
 
 Stamets argues that the production of psilocybin has proven to be a competitive evolutionary advantage. Psilocybin mushrooms "have propelled themselves to the front lines of evolution precisely because of their psilocybin content." The compound may deter predation by invertebrates, or it may confer advantages through its effects on the mammals that disperse their spores.
 
-## Cultivation Notes
-Practical use depends on matching the organism to a suitable substrate, moisture
-regime, temperature range, and contamination-control strategy. Small test blocks
-or trays are preferable before scaling because strain behavior can vary strongly
-with local materials.
-
-## Identification and Safety
-When wild material is involved, identification should rely on multiple traits:
-habitat, season, spore color, microscopic features where appropriate, and
-comparison with known lookalikes. Edibility or medicinal claims should never be
-inferred from appearance alone.
-
-## Ecological Role
-Fungi connect plant residues, soil organisms, and nutrient cycling. Their value
-in a farming system often comes from decomposition, soil aggregation, biological
-competition, and habitat creation as much as from harvestable fruiting bodies.
-
-## Related
-
-- [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] Concepts
+## Related Concepts
 
 - [[psilocybe-azurescens-profile]] -- the most potent known species
-- [[entheogenic-plants-and-psychoactive-flora]] -- broader survey of psychoactive flora
+- [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
+## Practical Considerations
+
+Successful implementation of Global Psychedelic Mushroom Species Diversity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

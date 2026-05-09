@@ -3,13 +3,7 @@ title: Plant Communities and Guilds
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Plant Communities and Guilds
-
-Plant communities (sometimes called guilds) organize plants around a central element based on [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and growing tendencies. This reduces root competition, provides shelter, adds nutrients, and deters pests.
+tags: [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and growing tendencies. This reduces root competition, provides shelter, adds nutrients, and deters pests.
 
 ## The Three Sisters
 
@@ -72,22 +66,7 @@ Common antagonistic pairs: tomatoes + potatoes, beans + onions, cabbage + strawb
 
 Some companions must be grown in succession. Corn must be planted before beans and squash, or beans grow too quickly and knock corn over. Pay attention to growing times and use observation — keep track of what grows well together and what doesn't in your specific conditions.
 
-See also [[faires-mimicking-forests]], [[faires-forest-garden-design]], and [[faires-ecological-succession-and-edge-design]].
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through direct observation.
-
-## Merged: Orchard Design In Permaculture
-
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 12.9) | **Updated:** 2026-04-18
-
-## Overview
-
-Cool temperate humid orchard species include pome fruits (apple, pear, quince, medlar), stone fruits (cherry, peach, plum, apricot), nuts (filbert, walnut, chestnut, hickory), and hardy evergreens such as olive, loquat, and pineapple guava (Feijoa). See also [[orchard-management]] and [[orchard-pest-management]].
+See also [[faires-forest-garden-design]], and [[orchard-management]] and [[orchard-pest-management]].
 
 ## Variety Selection Criteria
 

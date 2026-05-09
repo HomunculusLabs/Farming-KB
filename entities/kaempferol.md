@@ -89,13 +89,13 @@ Drug interactions are possible due to CYP450 inhibition, particularly CYP3A4 and
 
 ## See Also
 
-- [[picrasma-quassioides]]
-
 - [[quercetin]]
 - apigenin
 - luteolin
 - genistein
 - naringenin
-- [[cannabis-flavonoids]]
-- polyphenols
 - [[pistia-stratiotes]]
+
+## See Also
+
+- [[query-what-are-the-health-benefits-of-dietary-polyphenols]]

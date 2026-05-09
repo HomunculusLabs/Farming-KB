@@ -3,7 +3,7 @@ title: Fungal Cyanide Biodegradation Detailed
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Cyanide Biodegradation by Fungi
@@ -88,12 +88,7 @@ Fungi complement bacterial systems by handling conditions where bacteria fail. C
 
 ## Related
 
-- [[staycare-cyanide-biodegradation-by-fungi]] Concepts
-
 - [[fungal-cyanide-degradation]]
-- [[fungal-bioremediation-mechanisms]]
 - [[fungal-enzyme-systems-in-bioremediation]]
-- [[factors-affecting-mycoremediation-efficiency]]
 - [[fungal-metal-redox-transformations]]
-- [[fungal-roles-in-landfill-remediation]]
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]

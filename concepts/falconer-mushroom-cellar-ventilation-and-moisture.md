@@ -114,32 +114,6 @@ He practices this by keeping a large, deep, open box in one
 end of his cellar, half filled with steaming fresh horse
 droppings, and once or twice a day tossing these over with a
 dung-fork, in order to raise a "steam." It is also for this
-purpose that he introduces the [[falconer-loam-for-mushroom-beds]] so soon when making
-the beds, so that it may become charged with food that
-otherwise would be dissipated in the atmosphere.
-
-## Ventilation During Different Phases
-
-The approach to ventilation changes through the growing
-cycle:
-
-1. **Bed-making phase**: Full ventilation through all openings
-   to dissipate heat and gases from the fresh manure
-2. **Spawning to fruiting**: Gradually reduce ventilation,
-   relying primarily on shaft ventilators
-3. **Bearing phase**: Minimal ventilation through shaft only;
-   avoid any cold draughts reaching the bed surfaces
-4. **Post-harvest cleanup**: Full ventilation again to dry and
-   purify the cellar before new beds are installed
-
-This graduated approach ensures the mycelium has adequate
-air without being exposed to temperature shocks that would
-check its growth or damage the developing mushrooms.
-
-## See Also
-
-- [[falconer-mushroom-spawn-types-and-merits]]
-- [[falconer-mushroom-cellar-management]]
+purpose that he introduces the [[falconer-mushroom-spawn-types-and-merits]]
 - [[falconer-mushroom-cooking-selection-and-preparation]]
-- [[falconer-mushroom-bed-boxing-and-protection]]
 - [[falconer-dosoris-mushroom-cellar]]

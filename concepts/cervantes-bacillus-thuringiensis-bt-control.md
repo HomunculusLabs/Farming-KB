@@ -118,11 +118,7 @@ applied according to label directions.
 
 ## See Also
 
-- [[bacillus-thuringiensis]]
-
 - [[cervantes-pest-disease]] for general pest management
-- [[cervantes-pyrethrum-pyrethroid-insecticides]] for organic sprays
 - [[beneficial-insects-cannabis]] for predator introductions
-- [[cervantes-sticky-traps-pest-monitoring]] for physical pest control
 - [[root-rot-cannabis]] for fungus gnat-related root problems
-- [[thrips-cannabis]] and [[leaf-miners-cannabis]] for Bt-targeted pests
+- [[leaf-miners-cannabis]] for Bt-targeted pests

@@ -128,10 +128,6 @@ plant material to destroy reproductive potential.
 
 - [[pasteurization-vs-sterilization]]
 
-- [[pasteurization-vs-sterilization]]
-
-- [[cotter-substrate-preparation]] -- preparing media before treatment
 - [[cotter-laboratory-setup]] -- clean room and HEPA requirements
-- [[cotter-spawn-production]] -- inoculating treated substrates
 - [[mushroom-cultivation-troubleshooting]] -- solving contamination issues
 - [[cotter-mushroom-composting]] -- compost-based cultivation

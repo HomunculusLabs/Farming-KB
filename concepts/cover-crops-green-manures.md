@@ -114,14 +114,9 @@ Some cover crops disrupt pest and disease cycles:
 
 ## See Also
 
-- [[chamaecrista-fasciculata]]
-
 - [[gaias-garden-cover-crops-soil-building]]
-- [[soil-building-ecological-garden]]
 - [[permaculture-nitrogen-fixing-trees-guide]]
-- [[ingham-cover-crops-soil-biology]]
 - [[mollison-mulching-and-soil-health]]
-- [[sheet-mulching-guide]]
 - [[mollison-soil-improvement-and-rehabilitation]]
 
 ## Source
@@ -130,8 +125,6 @@ Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 4: B
 
 ## Related
 
-- [[lowenfels-soil-horizons-profiles]]
 - [[humus-formation-and-soil-organic-matter]]
-- [[bacterial-to-fungal-soil-succession]]
-- [[composting-and-soil-biology]]
+- [[ozier-pdc-composting-and-soil-building]]
 - [[nitrogen-fixing-trees-and-shrubs]]

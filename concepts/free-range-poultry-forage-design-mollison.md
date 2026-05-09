@@ -12,44 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Permaculture Two (1979) Chapter 8 presents the most comprehensive free-range poultry forage system design in permaculture literature. This extends [[chicken-husbandry-in-permaculture]] with detailed species lists, spatial layouts, and management strategies.
-
-## Design Philosophy
-
-Permaculture Two treats poultry in the widest sense: waterfowl, landfowl, pigeons, and even emu. The plant list (Section 8.4) is also a bee forage system and would evolve into a cattle forage situation over time. Many species withstand sea winds, salted soils, and frosts.
-
-The goal is to reduce or obviate the need for stored, husked grains through designed forage systems, staying ahead in terms of energy economics.
-
-## Spatial Layout
-
-The forage system is centered on a homestead with integrated components:
-
-1. The hardy free-range system of Zone II plus normal orchard species -- stored foods gathered from here
-2. Strawyards for seasonal forage, gleaning, and production of stored seeds
-3. Throwover pens for more tender greens and highly-selected browse species such as chard
-4. Storage bins or sheds to store hard foods for the spring "hungry gap" when seeds and berries are few
-
-## Integrated Functions of a Poultry Forage System
-
-- Fire control by scratching, raking, grazing
-- Glasshouse heating using body heat of birds
-- Honey production from flowers of forage crop species
-- Stored food for larger stock species (e.g., goats)
-- Home orchard production
-- Seed production for store or sale
-- Manurial waste disposal for annual gardening or composting
-- Pest control on the range (grasshoppers, snails as examples), potentially encapsulating the home garden as a pest barrier
-- General product diversification (roadside sales, etc.)
-- Evolution to a large-animal (cattle, deer) forage system
-
-## Forage Species by Category
-
-### Trees (Seeds and Pods)
-- Tree lucerne (Chamaecytisus proliferus) -- Early to mid-summer seed drop, foliage also edible
-- Lespedeza (L. bicolor, L. cytobotrya, L. sericea, L. striata)
-- Atriplex (saltbushes) -- Wind, salt, and pest resistant
-- Pea trees (Caragana arborescens, C. siberica)
-- [[carob]] (Ceratonia siliqua) -- Seeds and pods stored for milling
+Permaculture Two (1979) Chapter 8 presents the most comprehensive free-range poultry forage system design in permaculture literature. This extends [[carob]] (Ceratonia siliqua) -- Seeds and pods stored for milling
 - Honey locust (Gleditsia triacanthos)
 - Black locust (Robinia pseudoacacia) -- Seed; leaves may poison stock
 - Mesquites (Prosopis and Strombocarpa) -- Resistant to salt and drought
@@ -58,15 +21,7 @@ The forage system is centered on a homestead with integrated components:
 ### Trees (Nuts and Acorns)
 - Black walnut (Juglans nigra) -- Store for 12 months
 - Persian walnut (J. regia) -- Store for 12 months
-- Chestnut ([[castanea-sativa]]) -- Store 6 months unless chilled or dried
-- Oaks (Quercus spp.) -- Almost all acorns edible for poultry; recommended in UK wartime
-- Beech (Fagus spp.) -- Oil-rich nuts, irregular yield
-- Balanites spp. -- Kernels stored for stock food
-
-### Berries and Fruits
-- Lycium ferocissimum, L. chinensis -- Thorny hedges, salt and wind tolerant
-- Coprosma spp. (C. lucida, C. australis, C. parviflora, C. repens, C. kirkii, C. robusta) -- Poultry survive all year on 3 or so species (NZ Whole Earth Catalogue, 1975)
-- Mulberries ([[morus-alba]], M. nigra) -- High protein value
+- Chestnut ([[morus-alba]], M. nigra) -- High protein value
 - Elderberries (Sambucus spp.)
 - Emu berry (Owenia reticulata, O. acidula)
 - Palms -- Many species yield nuts and fruit in subtropical/tropical areas
@@ -112,14 +67,7 @@ As for orchards: area controlled for browsing herbivores, sown to herbal leys, n
 ## Regulation of Yield
 
 ### Seasonal Forage Pattern
-- Hard seed ([[acacia]], Robinia, Curanga): Mainly early summer, some residue all year
-- Berries: Late summer and autumn, persisting to late winter
-- Large seeds (walnuts, acorns): Autumn to spring, or all year if gathered and dried
-- Greens and annuals: Carry over in spring and early summer
-
-### Poultry Forage Days (P.F.D.)
-
-A metric for valuing forage plants: a black walnut at maturity keeps 8 hens all year = 2,920 P.F.D. value. A 17-year-old [[carob]] yields 3-6 beans daily for 3 goats all year = at least 1,000 G.F.D. (goat forage days) concentrate value. This enables preferential planting of highest-value species.
+- Hard seed ([[carob]] yields 3-6 beans daily for 3 goats all year = at least 1,000 G.F.D. (goat forage days) concentrate value. This enables preferential planting of highest-value species.
 
 ### Egg Production Through Variety Selection
 - Dorkings for winter
@@ -146,3 +94,7 @@ Stored food from two sources: hard seed pods and seed heads from strawyards; gat
 - Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Chapter 8.
 - Smith, R. Tree Crops: a Permanent Agriculture. Devine-Adair, 1977.
 ## See Also
+
+## See Also
+
+- [[mollison-free-range-poultry-forage-design]]

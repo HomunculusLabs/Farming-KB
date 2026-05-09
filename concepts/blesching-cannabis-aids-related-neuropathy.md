@@ -29,9 +29,7 @@ AIDS-related neuropathy is based on 2 studies reviewed with a total CHI value
 of 10, yielding a CHI score of 5.00 -- one of the highest confidence scores
 in the CHI framework.
 
-See also: [[blesching-cannabis-neuropathic-pain]],
-[[blesching-cannabis-neuropathies]],
-[[blesching-cannabis-hiv-aids]],
+See also: [[blesching-cannabis-neuropathies]],
 [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-aids-opportunistic-infections]]
 

@@ -96,11 +96,8 @@ The relationship between emotional well-being and cognitive function is well-doc
 ## See Also
 
 - cannabis alzheimers research
-- [[cannabis-neuroprotection]]
 - [[cannabis-for-neurological-conditions]]
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-for-mental-health]]
 - [[cannabis-health-index]]
 
 ## Source

@@ -136,15 +136,10 @@ in *ocopa* (roasted potato with spiced huacatay cheese sauce) and
   India, and Argentina. Oil used in perfumery, flavoring, and as
   natural pesticide. Attracts bees, butterflies, and beneficial
   predatory insects (ladybugs, lacewings, parasitic wasps).
-
 ## See Also
 
-- [[tagetes-lucida]] — Mexican marigold, related ceremonial and
-  culinary species
 - [[symphytum-officinale]] — Comfrey, another dynamic accumulator for
   permaculture systems
-- [[tropaeolum-majus]] — Nasturtium, companion plant with pest-repellent
-  properties
 - [[cymbopogon-citratus]] — Lemongrass, essential oil crop with similar
   insecticidal uses
 - [[safrole]] — Another plant-derived bioactive compound

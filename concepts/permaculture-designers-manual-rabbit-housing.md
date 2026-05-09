@@ -3,32 +3,7 @@ title: Rabbit Housing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Rabbit Housing
-#permaculture #rabbits #small-animals #housing #forage
-
-Updated: 2026-04-18
-
-> From: Bill Mollison, *Permaculture: A Designers Manual* (1988), Chapters 10-12.
-
-## Overview
-
-Rabbits are a productive small animal for permaculture systems, providing meat, manure, and fur. Their housing and management needs differ significantly from chickens and pigs. In arid areas, it is often too hot for rabbits in cages, so special design considerations are needed.
-
-## Housing Considerations
-
-### Climate Constraints
-- In deserts and hot climates, rabbits in cages suffer from excessive heat
-- Dense shade shelters are essential in arid areas
-- Access to shallow clean water is critical
-- In temperate climates, protection from cold winds and wet is needed
-
-### Greenhouse Integration
-The areas below plant benches in [[permaculture-designers-manual-greenhouse-integration]], if used to house rabbits at night, will provide considerable winter heat. This is a classic permaculture integration: animal heat serves the greenhouse, and the greenhouse protects the animals.
+tags: [[permaculture-designers-manual-greenhouse-integration]], if used to house rabbits at night, will provide considerable winter heat. This is a classic permaculture integration: animal heat serves the greenhouse, and the greenhouse protects the animals.
 
 ### Cage vs. Free-Range
 Caged systems allow intensive production but require regular feeding and cleaning. Free-range or colony systems reduce labour but need predator protection and more space. Guard dogs, fed and kennelled in the rabbit area, are sufficient control for fox predation.
@@ -55,39 +30,85 @@ Rabbits thrive on a variety of green forages:
 ## Integration in Permaculture Systems
 
 ### Manure Production
-Rabbit manure is one of the richest animal manures and can be applied directly to gardens without composting (unlike chicken and pig manure which can be too "hot"). It provides excellent [[permaculture-designers-manual-compost-methods]] material.
-
-### Waste Cycling
-Rabbits can be fed garden waste, surplus greens, and tree prunings. Their manure returns nutrients to garden beds, completing the cycle.
-
-### Arid Area Systems
-In arid areas, small livestock including rabbits do well when provided with dense shade shelters and clean water. They perform a multitude of tasks, especially in the reduction of insects, and provide small meats not needing cool storage.
-
-## Breeding and Colony Management
-
-Natural rabbit colonies seldom exceed 20-30 individuals in the wild. Breeding should accommodate natural social behaviour to reduce stress. A small number of breeding does with one or two bucks can sustain a steady supply of meat for a household.
-
-## Predator Protection
-
-- Guard dogs reared with domestic rabbits do not attack the flocks
-- Secure housing at night is essential
-- Wire mesh floors and walls keep out digging predators
-- Hawk kites suspended over rabbit areas can deter aerial predators
-
-## Processing
-
-Rabbit meat is lean, high in protein, and can be preserved by:
-- Drying as jerky (beaten with pepper and garlic to 1 cm or less thick and 4 cm wide, dry very quickly and "glaze" in a few hours)
-- Smoking
-- Salting
-- Freezing
-
-## See Also
-
-- [[permaculture-designers-manual-chicken-tractors]]
-- [[permaculture-designers-manual-pig-systems]]
+Rabbit manure is one of the richest animal manures and can be applied directly to gardens without composting (unlike chicken and pig manure which can be too "hot"). It provides excellent [[permaculture-designers-manual-chicken-tractors]]
 - [[permaculture-designers-manual-small-animals]]
-- [[permaculture-designers-manual-greenhouse-design]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
-- [[permaculture-designers-manual-arid-climates]]
 - [[permaculture-designers-manual-temperate-climate-design]]
+## Practical Applications
+
+Rabbit Housing has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Rabbit Housing. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

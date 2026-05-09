@@ -1,20 +1,7 @@
 ---
 title: Carob (Ceratonia siliqua)
 created: 2026-04-28
-tags: [permaculture, legume, drought-tolerant, fodder, fire-resistant]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md
-type: concept
----
-
-# Carob
-
-The carob (Ceratonia siliqua) is said to be the largest (to 15 m) of
-Europe's leguminous trees, in the family Caesalpiniaceae. It is a native
-to the Mediterranean region and one of the most versatile multi-purpose
-trees in [[permaculture]] systems.
+tags: [[permaculture]] systems.
 
 ## Description
 
@@ -63,24 +50,8 @@ Expected year 10 returns per hectare (1985 prices, 90-100 trees/ha):
 ## Fire and Salt Tolerance
 
 The carob tree does not burn easily, and when scorched by fire, it
-generally recovers, making it valuable in [[fire-resistant-plants]]
-systems. Some degree of salt tolerance has been observed in carobs
-growing along waterways and in low-lying areas in both Australia and
-Israel.
-
-## Root System
-
-Tap roots of mature trees have been traced down to 20 m. A carob
-seedling develops a long tap root at a very early age: about 250 mm in
-the first two weeks from germination. Trees that remain in shallow pots
-do not develop ideal root systems and lose the advantage of drought
-tolerance.
-
-## Companion Plants
-
-They have been grown in Algeria as companions to grapes with good
-results. They grow well with [[tagasaste]], Albizia lophantha, and
-[[acacia]] decurrens as [[nurse-plants]]. The deep root system of carob makes it
+generally recovers, making it valuable in [[tagasaste]], Albizia lophantha, and
+[[nurse-plants]]. The deep root system of carob makes it
 compatible with many shallow-rooted understorey plants.
 
 ## Propagation

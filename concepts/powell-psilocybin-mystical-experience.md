@@ -132,10 +132,6 @@ rather than endlessly mapping the brain.
 ## See Also
 
 - [[psilocybin-and-mystical-experience]]
-- [[psilocybin-and-mystical-experience]]
-- [[psilocybin-mystical-experiences-personality-change]]
 - [[good-friday-experiment-marsh-chapel]]
-- [[consciousness-and-psychedelics]]
 - [[mckenna-transcendent-other-and-exopheromones]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[psilocybin-ego-dissolution-mechanisms]]

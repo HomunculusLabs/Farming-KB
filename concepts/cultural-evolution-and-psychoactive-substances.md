@@ -88,26 +88,15 @@ role entirely.
 
 See Also:
 
-[[mckenna-food-of-the-gods-thesis]]
-
 [[psychedelic-plants-and-civilization]]
-
-[[psychedelic-mushrooms-species-and-identification]]
 
 [[psychedelic-ancient-history]]
-
-[[psychedelic-plants-and-civilization]]
 
 [[mckenna-archaic-revival]]
 
 global psychedelic traditions
 
-[[amanita-muscaria-ethnobotany]]
-- [[mckenna-human-cognition-and-the-stoned-age]]
-- [[mckenna-diet-symbiosis-human-evolution]]
-
-## See Also
-
+[[mckenna-human-cognition-and-the-stoned-age]]
 - [[wade-davis]]
 
 - [[entheogens-and-cultural-evolution]]

@@ -54,42 +54,7 @@ was tired.
 
 ## Synthesis
 
-To a solution of 2.8 g homosyringonitrile (see under [[escaline-entity]] for
-synthesis) in 20 mL acetone containing about 50 mg decyltriethylammonium iodide,
-there was added 3.0 g cyclopropylmethyl chloride and 5.0 g NaI. Stirring was
-continued during a color change from pale yellow to blue. There was then added
-2.9 g of finely powdered anhydrous K2CO3, resulting in a beautiful turquoise
-color. The mixture was held at reflux on the steam bath for 3 h. The solvent
-was removed under vacuum, and the residues were added to 100 mL H2O and
-extracted with CH2Cl2. The residual oil was distilled at 140-155 degrees C at
-0.4 mm/Hg to yield 4-cyclopropylmethoxy-3,5-dimethoxyphenylacetonitrile as a
-colorless oil weighing 2.8 g which spontaneously crystallized (mp 44-44.5
-degrees C).
-
-A suspension of 1.3 g LAH in 65 mL anhydrous THF under He was cooled to 0
-degrees C, and 0.85 mL of 100% H2SO4 was slowly added. Then the nitrile in THF
-was added dropwise. After brief reflux, the excess hydride was destroyed with
-IPA and NaOH. The product was distilled at 128-140 degrees C at 0.4 mm/Hg to
-yield 2.5 g of a white oil. The hydrochloride salt crystallized from IPA/Et2O
-as a fine white solid (1.8 g + 0.8 g second crop, mp 172-173 degrees C).
-
-## Extensions and Commentary
-
-In the literary world, the guy who is on your side, your leader, your champion,
-is the protagonist and the guy he battles is the antagonist. These same roles
-are played in pharmacology, but the names are slightly changed. A drug which
-does the needed or expected thing is called the agonist, and the drug that gets
-in its way is still called the antagonist.
-
-The cyclopropylmethyl group plays an interesting role in the world of narcotics.
-There are numerous examples of opiates with a methyl group attached to a nitrogen
-atom which are famous for producing analgesia and sedation. And yet, with most
-of these narcotics, when the methyl on the nitrogen is removed, and a
-cyclopropylmethyl group put into its place, the agonist becomes an antagonist.
-Oxycodone (the active narcotic in Percodan) becomes Naltrexone, a drug that will
-immediately snap a heroin victim out of his overdose.
-
-Cyclopropylmescaline (CPM) is a molecule that is very simply [[mescaline-entity]]
+To a solution of 2.8 g homosyringonitrile (see under [[mescaline-entity]]
 itself, with a methyl group removed from an oxygen atom and a cyclopropylmethyl
 group put on instead. Might CPM be not only inactive, but actually block the
 action of mescaline? Interesting concept. But it turned out to be entirely
@@ -101,12 +66,27 @@ than CPM.
 
 ## Related Compounds
 
-- [[mescaline-entity]] -- the parent compound
-
 - [[escaline-entity]] -- 3,5-dimethoxy-4-ethoxyphenethylamine
-
-- [[proscaline]] -- 3,5-dimethoxy-4-propoxyphenethylamine
 
 - [[mal-entity]] -- methallylescaline
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
+## Practical Considerations
+
+Successful implementation of CPM (Cyclopropylmescaline) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

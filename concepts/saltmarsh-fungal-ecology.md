@@ -142,8 +142,6 @@ The saltmarsh environment presents unique challenges:
 - Desiccation during low-tide exposure
 - Seasonal temperature variations
 
-- [[saltmarsh-ascomycete-laccase-genes-in-lignocellulose-decomposition]]
 - [[fungi-in-the-environment-soil-fungal-community-structure]]
-- [[fungi-in-the-environment-fungal-ecosystems]]
 - [[singh-fungal-community-analysis-molecular-methods]]
 - [[fungal-communities-water-aquatic-ecosystems]]

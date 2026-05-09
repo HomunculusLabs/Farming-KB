@@ -142,8 +142,6 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 - Move livestock every 1–7 days depending on stocking density and season.
 ## See Also
 
-- [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
-- [[query-how-to-start-a-food-forest]]
 - [[query-how-to-start-growing-mushrooms-at-home]]
-- [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]]
+- [[arid-zone-permaculture-strategies-mollison]]

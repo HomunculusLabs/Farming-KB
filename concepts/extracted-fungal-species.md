@@ -13,24 +13,7 @@ sources:
 
 ---
 
-## 1. [[pythium-oligandrum]]
-
-**Taxonomic Classification:**
-- Oomycete (Oomycota); genus Pythium. Has spiny oogonia (distinguishing it from many other Pythium species).
-
-**Ecological Role/Niche:**
-- Mycoparasite; one of the most common mycoparasitic Pythium species (Ribeiro and Butler 1992).
-- Develops different types of contact structures on different hosts (Rudakov 1978, 1981).
-- Antagonistic to other soil-borne Pythium and Phytophthora species.
-
-**Habitat:**
-- Soil-borne; widely distributed in temperate zones (Ribeiro and Butler 1992).
-- Distribution is unrelated to vegetation cover, soil pH, or soil texture.
-
-**Biological Control Uses:**
-- Can be used against damping-off caused by P. ultimum (Deacon 1976; Vesely 1977).
-- Oospores are mass-produced in liquid culture and air-dried (McQuilken et al. 1990), then applied as a seed coating (Lutchmeah and Cooke 1985; Martin and Hancock 1987).
-- Can attack [[rhizoctonia-solani]], suppressing its cellulolytic activity and sclerotium formation (Al-Hamdani and Cooke 1983; Hoch and Fuller 1977).
+## 1. [[rhizoctonia-solani]], suppressing its cellulolytic activity and sclerotium formation (Al-Hamdani and Cooke 1983; Hoch and Fuller 1977).
 - Can attack P. cinnamomi and P. parasitica.
 
 **Lifecycle/Morphology Details:**
@@ -41,48 +24,16 @@ sources:
 
 **Interactions with Other Organisms:**
 - Harpophora (Phialophora) radicicola is the host most susceptible to P. oligandrum; other fungi are less affected (Deacon 1976; Laing and Deacon 1990, 1991; Berry et al. 1993).
-- [[stachybotrys-chartarum]] parasitizes P. oligandrum (Deacon and Henry 1978).
-- Olpidiopsis gracilis also attacks certain Pythium species (Pemberton et al. 1990).
-- The toxinogenic [[trichoderma-virens]] efficiently suppressed Pythium ultimum in cotton fields (Howell 1991).
+- [[trichoderma-virens]] efficiently suppressed Pythium ultimum in cotton fields (Howell 1991).
 
 ---
 
-## 2. [[beauveria-bassiana]]
-
-**Taxonomic Classification:**
-- Ascomycete (anamorphic); Deuteromycete (in older classification). Entomopathogenic fungus (EPF).
-- The genus Beauveria has been assigned to various mitotypes based on mitochondrial DNA analysis (Hegedus and Khachatourians 1993b, 2003).
-
-**Ecological Role/Niche:**
-- Entomopathogenic fungal species; infects and kills insects.
-- Isolates obtained from diverse sources: soil, insect hosts (e.g., spruce budworm, Schizaphis graminum), and laboratory cultures.
-
-**Habitat:**
-- Soil; found in diverse geographic regions including temperate (Alberta, Canada; Georgia, USA) and tropical/subtropical areas.
-- Associated with various insect hosts.
-
-**Molecular/Genetic Details:**
-- Mitochondrial DNA of B. bassiana (strain GK2016) has been extensively mapped; contains genes for NAD1, ATP6, srRNA, CO3, NAD6, and tRNA clusters.
-- The NAD1 and ATP6 genes lie between lrRNA and srRNA in B. bassiana and A. nidulans but not in N. crassa and P. anserina.
-- C03 and NAD6 lie between srRNA and lrRNA in B. bassiana, N. crassa, and A. nidulans (Pfeifer et al. 1993).
-- tRNA genes in B. bassiana cluster differently with respect to rRNA regions compared to other fungi.
-- Genotypes from tropical and subtropical areas showed considerably more variation than isolates from temperate regions.
-- RFLP variability in mtDNA has been used for taxonomic identification and to study organelle transmission and reproduction in asexual fungi.
-
-**Practical Applications:**
-- Study of mtDNA in B. bassiana has been used to study [[fungal-biodiversity]], taxonomy, and evolutionary genetics.
+## 2. [[fungal-biodiversity]], taxonomy, and evolutionary genetics.
 - Mitochondrial markers used for identification of genetic loci and pathogenicity-related patterns.
 
 ---
 
-## 3. [[coniothyrium-minitans]]
-
-**Taxonomic Classification:**
-- Ascomycete (pycnidial coelomycete). A related species is Microsphaeropsis centaureae.
-
-**Ecological Role/Niche:**
-- The most common and best-studied parasite of Sclerotinia species (Turner and Tribe 1976; Whipps and Gerlagh 1992; Sandys-Winsch et al. 1993).
-- Sclerotial mycoparasite; attacks sclerotia of [[sclerotinia-sclerotiorum]] and related fungi.
+## 3. [[sclerotinia-sclerotiorum]] and related fungi.
 
 **Habitat:**
 - Distributed worldwide (Whipps and Gerlagh 1992; Sandys-Winsch et al. 1993).
@@ -105,11 +56,7 @@ sources:
 
 **Interactions with Other Organisms:**
 - When C. minitans was applied in combination with Talaromyces flavus against Sclerotinia, it had a nearly equivalent effect (McLaren et al. 1994).
-- Coniothyrium sporulosum was found as an antagonist of [[alternaria-alternata]] (Turhan 1993).
-
----
-
-## 4. [[verticillium-biguttatum]]
+- Coniothyrium sporulosum was found as an antagonist of [[verticillium-biguttatum]]
 
 **Taxonomic Classification:**
 - Ascomycete (anamorphic hyphomycete); anamorph of an ascomycete.

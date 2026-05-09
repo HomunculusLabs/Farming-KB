@@ -18,17 +18,7 @@ type: concept
 # Flush Management and Casing Hygiene in Exotic Mushroom Cultivation
 Flush management is the practice of coordinating watering, misting, and hygiene
 to maximise the number and quality of successive mushroom harvests from a single
-cased tray. Together with [[casing-soil-preparation-mushroom-cultivation]], these
-techniques form the core of the fruiting phase in small-scale cultivation of
-*Psilocybe mexicana*, *P. tampanensis*, *P. cubensis*, and *Panaeolus
-subbalteatus* on sterilised grass seed. Success depends less on elaborate
-equipment and more on attentive daily care and the cultivator's developing
-intuition for substrate moisture.
-
-## The Flush Cycle
-
-A "flush" is one complete wave of mushroom production from a cased tray. The cycle begins once cased trays are transferred into the
-[[fruiting-chamber-setup]]:
+cased tray. Together with [[fruiting-chamber-setup]]:
 
 1. **Pin initiation (days 6 to 15):** Depending on the strain, the first
    pinheads appear 6 to 15 days after the casings are placed in the bins.
@@ -48,15 +38,7 @@ requires careful moisture management and vigilant surface hygiene.
 *P. mexicana* typically produces **one large flush** followed by a **small second
 flush**. Total flush count tends to be lower than for *P. cubensis*. This
 concentrated fruiting pattern means the first harvest is disproportionately
-important to overall yield. See [[psilocybe-mexicana-cultivation]] for further
-species-specific notes.
-
-### *P. tampanensis*, *P. cubensis*, and *Panaeolus subbalteatus*
-
-The other species covered in the source material produce **more constant and
-regular flushes** across multiple rounds. *P. cubensis* is generally the most
-prolific, with flushes diminishing more gradually. *P. tampanensis* is noted for
-its ability to form [[sclerotia-formation-psilocybe-species|sclerotia]] both in
+important to overall yield. See [[sclerotia-formation-in-psilocybe-species|sclerotia]] both in
 the jar and within the casing layer, providing a supplementary harvest
 independent of fruiting-body flushes.
 
@@ -147,4 +129,7 @@ and apply cold shock only to strains that benefit from it. The simple bin
 fruiting chamber provides an adequate environment when these practices are
 followed consistently. Cultivators should expect to refine their watering
 technique over multiple grows, as the source acknowledges that explicit watering
-prescriptions are impractical and that a reliable "feeling" develops only
+
+## See Also
+
+- [[abort-removal-casing-surface-hygiene-sustained-flushes]]

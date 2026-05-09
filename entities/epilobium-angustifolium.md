@@ -119,13 +119,8 @@ Fireweed acts as a nurse plant, providing shade and wind protection for establis
 
 ## See Also
 
-- [[urtica-dioica]]
 - [[plantago-major]]
-- [[calendula-officinalis]]
 - [[hypericum-perforatum]]
-- [[taraxacum-officinale]]
 - [[permaculture]]
-- [[companion-planting]]
 - [[phytoremediation]]
-- [[beneficial-insects-pollinators]]
 - [[chop-and-drop-mulching]]

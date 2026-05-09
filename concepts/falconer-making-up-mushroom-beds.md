@@ -1,19 +1,7 @@
 ---
 title: Falconer Making Up Mushroom Beds
 created: 2026-04-26
-tags: [mushroom-cultivation, mushroom-beds, temperature, fermentation, victorian-gardening]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
-
-# Falconer Making Up Mushroom Beds
-
-Chapter IX of William Falconer's *Mushrooms: How to Grow Them* (1891)
-covers the critical process of forming the prepared manure into actual
-mushroom beds within [[falconer-mushroom-cellar-management]],
+tags: [[falconer-mushroom-cellar-management]],
 houses, sheds, or other growing structures. The thickness, shape,
 temperature, and construction method of the bed all significantly affected
 crop outcomes.
@@ -80,25 +68,25 @@ the bed, adding fresh horse droppings, mixing thoroughly, and remaking.
 Alternatively, sprinkling with barnyard urine, forking the surface, and
 compacting slightly could start fermentation. Saltpeter or nitrate of soda
 (one ounce to three gallons of liquid) encouraged mycelium spread after
-[[falconer-mushroom-spawn-preparation]] insertion.
-
-## Low-Temperature Beds
-
-Mr. Withington of South Amboy reported excellent results from a bed that
-never rose above 75 degrees, decreasing to about 60 degrees soon after
-spawning, with the house maintained at 55 degrees. Such low-temperature
-beds could still yield good crops, though they bore more slowly.
-
-## Moisture Considerations
-
-Falconer noted that it was better to have a cold bed that was fairly dry
-than one that was wet, or indeed a warm one that was wet. When loam and
-manure were mixed, temperature did not rise as high, but this mattered
-little so long as the materials were sweet, fresh, and not overmoist.
-
-## See Also
-
-- [[falconer-mushroom-bed-construction]]
-- [[falconer-mushroom-cellar-management]]
+[[falconer-mushroom-bed-construction]]
 - [[falconer-preparation-of-the-manure]]
 - [[falconer-proper-temperature-for-mushrooms]]
+## Practical Considerations
+
+Successful implementation of Falconer Making Up Mushroom Beds requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

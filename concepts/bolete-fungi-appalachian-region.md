@@ -1,7 +1,7 @@
 ---
 title: Bolete Fungi of the Appalachian Region
 created: 2026-04-28
-tags: [mycology, boletes, appalachian, ecology, taxonomy]
+tags: [[mycology, boletes, appalachian, ecology, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md]
@@ -55,14 +55,7 @@ viscid cap surface and often have a partial veil that leaves a ring on
 the stem. Common Appalachian species include suillus americanus
 (american slippery jack) with eastern white pine, suillus
 granulatus (granulated bolete) under several pine species, and
-[[suillus-luteus]] (slippery jack) with planted pines. While generally
-edible, many Suillus species are considered mediocre and some people
-experience gastrointestinal distress.
-
-### Tylopilus
-
-This genus is distinguished by pinkish or rosy pore surfaces and
-typically darker [[spore]] prints. tylopilus felleus (bitter bolete) is
+[[spore]] prints. tylopilus felleus (bitter bolete) is
 common in Appalachian oak forests and is notable for its intensely
 bitter taste, which renders it inedible despite being non-toxic. It
 closely resembles king bolete but has a distinctive pink pore
@@ -114,17 +107,7 @@ with the regional bolete flora.
 ## Ecological Significance
 
 Boletes are among the most important ectomycorrhizal fungal groups in
-temperate forests. Their [[mycorrhizal-networks]] connect vast numbers of
-trees, facilitating nutrient cycling and inter-tree resource transfer.
-Many boletes are also important food sources for wildlife, including
-deer, squirrels, and numerous insect species. The fruiting bodies
-themselves serve as microhabitats for various arthropods and
-microorganisms.
-
-## See Also
-
-- bolete fungi appalachian region
-- [[mycorrhizal-fungi]]
+temperate forests. Their [[mycorrhizal-fungi]]
 - king bolete
 - bolete fungi appalachian region
 - [[north-carolina-mycodiversity]]

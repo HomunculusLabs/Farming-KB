@@ -14,7 +14,7 @@ Terence McKenna delivered the lecture "Tryptamine Hallucinogens and
 Consciousness" at the Lilly/Goswami Conference on Consciousness and Quantum
 Physics at Esalen Institute in December 1983. Published in 1992 as part of
 The Archaic Revival, the talk presents McKenna's phenomenological framework
-for understanding [[dimethyltryptamine]] (DMT), [[psilocybin-compound]], and ayahuasca
+for understanding [[psilocybin]], and ayahuasca
 as a unique family of hallucinogenic compounds distinct from other psychoactive
 substances in their intensity, visual cortex concentration, and apparent
 capacity to invoke the Logos.
@@ -90,41 +90,7 @@ terrified."
 
 ## The Logos and Language
 
-Central to McKenna's framework is the concept that [[tryptamine]]
-hallucinogens "invoke the Logos," working directly on the language centers of
-the brain so that "an important aspect of the experience is the interior
-dialogue." He distinguished this from the effects of LSD and mescaline, arguing
-that each hallucinogen represents "a phenomenologically defined universe unto
-itself." The DMT-induced glossolalia differs from classical speaking in
-tongues; McKenna described it as a brain state that allows expression of "the
-assembly language that lies behind language," a primal "Ursprache."
-
-## Critique of Scientific Epistemology
-
-McKenna positioned himself as an "explorer rather than a scientist" working
-in a field containing "insufficient data to support even the dream of being a
-science." He critiqued the search for extraterrestrial radio signals (SETI) as
-"a culture bound a presumption as to search the galaxy for a good Italian
-restaurant," while information from psychics, shamans, and mystics is "ruled
-a priori irrelevant, incoherent, or mad." He argued that the structure of the
-"Western intellectual enterprise is so flimsy at the center" that apparent
-certainties about the nature of reality and consciousness should be held
-lightly.
-
-## Epistemological Stance
-
-McKenna advocated an I/Thou relationship with encountered entities: "You say
-you are omniscient, omnipresent, or you say you are from Zeta Reticuli. You
-are long on talk, but what can you show me?" He rejected both uncritical
-genuflection and dismissal, arguing instead that "there is no dignity in the
-universe unless we meet these things on our feet." His approach combined the
-Baconian data collection of natural philosophy with the critical stance of
-magical traditions that "have always understood that one must go into such
-encounters with one's wits about oneself."
-
-## Psilocybin and Latent Human Capacity
-
-McKenna extended his framework to [[psilocybin-compound]] mushrooms, which he described
+Central to McKenna's framework is the concept that [[psilocybin]] mushrooms, which he described
 as conveying one into "the world of the tryptamine hypercontinuum." The
 psilocybin experience builds over approximately an hour and is sustained for
 several hours, presenting the same confrontation with alien intelligence and
@@ -139,3 +105,7 @@ which the intent of meaning is actually beheld in three-dimensional space."
 ## See Also
 
 - [[tryptamine-hallucinogens]]
+
+## See Also
+
+- [[tryptamine-hallucinogens-and-consciousness]]

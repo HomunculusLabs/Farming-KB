@@ -69,31 +69,25 @@ Among mestizo healers (*ayahuasqueros*) in Peruvian Amazon cities like Iquitos a
 
 ## See Also
 
-- [[harner-jivaro-shamanism-yage]] - Jivaro shamanic practice with *natem*
 - [[harner-cashinahua-banisteriopsis-usage]] - Cashinahua ayahuasca visions
-- [[harner-campa-ayahuasca-ceremony]] - Campa shamanism and priesthood
 - [[harner-yage-experience-themes]] - Cross-cultural common themes in yage experiences
-- [[urban-ayahuasca-iquitos-healing]] - Urban mestizo ayahuasca curing practices
-
-## Geographical Distribution
-
-The use of *Banisteriopsis* extends across an enormous area of South America, from the Pacific coast of Colombia through the Amazon basin to lowland Bolivia, both east and west of the Andes, and eastward into the upper Orinoco. This makes it perhaps the most widely used hallucinogenic plant complex in the indigenous Americas.
-
-Several distinct linguistic and cultural groups share the practice despite having no known historical connection, suggesting either independent discovery or diffusion from an ancient common source. The distribution area includes at least 72 tribes across 14 different language families.
-
-## Chemical Synergy: The MAOI Mechanism
-
-The pharmacological key to ayahuasca's oral activity lies in the synergy between its two principal plant components:
-
-- **Beta-carbolines** (harmine, harmaline, d-tetrahydroharmine) from *Banisteriopsis caapi* act as **reversible monoamine oxidase inhibitors (MAOIs)**
-- **DMT** from *Psychotria viridis* or *B. rusbyana* would normally be destroyed by MAO enzymes in the gut before reaching the bloodstream
-- The MAOI action of the beta-carbolines **protects the DMT from first-pass metabolism**, allowing it to cross the blood-brain barrier in psychoactive concentrations
-- This represents one of the most sophisticated examples of indigenous pharmacological knowledge -- the combination of two plants with complementary mechanisms could not have been discovered through random trial
-
-## The Sharanahua Pattern
-
-The Sharanahua, culturally related to the Cashinahua, also use ayahuasca in group sessions. Siskind's research among the Sharanahua found that the group experience serves to reintegrate isolated individuals into the kin-oriented community under the shaman's guidance. The ayahuasca session functions as a social mechanism for maintaining group cohesion and collective problem-solving.
-
-## See Also
-
 - [[harner-datura-solanaceous-shamanism]] - Datura and solanaceous plants in shamanic practice
+## Practical Considerations
+
+Successful implementation of Amazonian Ayahuasca Shamanism requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

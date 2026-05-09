@@ -113,18 +113,6 @@ for the padi crops.
 
 ## Integration with the Tropical Garden
 
-In the [[mollison-tropical-and-coastal-permaculture-design]], coconut forms part of the framework species
-alongside mango, papaya, sapote, banana, limes, cashew,
-macadamia nut, and breadfruit. Coconut, mango, avocado,
-jakfruit, cashew, and pecan serve as dominant overstorey
-species, with coffee, cacao, vanilla, and pigeon pea as
-sub-dominants. The system also integrates pig forage and
-poultry, with comfrey, legumes, grasses, and forbs providing
-ground cover and mulch.
-
-## See Also
-
-- [[mollison-tree-crop-systems-permaculture]]
-- [[mollison-tropical-and-coastal-permaculture-design]]
+In the [[mollison-tree-crop-systems-permaculture]]
 - [[mollison-guild-design]]
 - [[mollison-plant-stacking-and-interaction]]

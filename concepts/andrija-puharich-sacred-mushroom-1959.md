@@ -116,8 +116,6 @@ Puharich's later career further blurred the lines between serious research and f
 
 ## See Also
 
-- [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[sacred-mushroom-and-the-cross]]
-- [[soma-haoma-hypothesis]]
 - [[fly-agaric-siberian-shamanic-practice]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]

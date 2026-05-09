@@ -18,7 +18,7 @@ sources:
 
 **alpha-Amanitin** is a cyclic octapeptide toxin and the most potent of the amatoxins, a
 family of bicyclic peptide toxins found in several species of Amanita, particularly the
-death cap ([[amanita-phalloides]]), the fool's mushroom ([[amanita-verna]]), and the
+death cap ([[amanita-verna]]), and the
 destroying angel complex (amanita virosa, amanita bisporigera).
 
 It is one of the most lethal natural toxins known to science, with a mechanism of action that
@@ -58,45 +58,7 @@ boiling), gastric acid (pH 1 to 3), and digestive enzymes (pepsin, trypsin, chym
 intact, reaching the systemic circulation and target organs in its fully active form.
 
 alpha-Amanitin is not destroyed by drying, freezing, or prolonged storage, meaning that even
-dried specimens of [[amanita-phalloides]] retain their full toxic potential for years. This
-durability makes it impossible to detoxify amatoxin-containing mushrooms through any
-conventional food preparation method.
-
-The ultraviolet absorption spectrum of alpha-amanitin shows a maximum at approximately 305 nm
-due to the tryptophan-derived chromophore. This property is useful for analytical detection
-and quantification of the toxin in biological samples.
-
-## Mechanism of Action
-
-alpha amanitin is an extremely potent and selective inhibitor of RNA polymerase II
-(Pol II), the multi-subunit enzyme responsible for transcribing all protein-coding genes into
-messenger RNA (mRNA) in eukaryotic cells.
-
-The toxin binds to the bridge helix and trigger loop regions of the largest subunit of RNA
-polymerase II (Rpb1) with exceptionally high affinity, with a dissociation constant (Kd) of
-approximately 3 to 10 nanomolar. It effectively locks the enzyme in a conformation that
-prevents RNA chain elongation beyond a short initial transcript of approximately 9 to 12
-nucleotides, effectively blocking all new mRNA synthesis.
-
-By halting mRNA synthesis, alpha amanitin rapidly depletes cells of newly synthesized
-proteins. Cells with high rates of protein turnover are most vulnerable to this effect.
-
-Hepatocytes (liver cells), which constantly synthesize large quantities of plasma proteins
-(albumin, clotting factors), enzymes, and structural components, are the primary targets,
-leading to massive hepatic necrosis within hours of toxin exposure.
-
-The intestinal epithelium, which also has high protein turnover rates, is similarly affected,
-accounting for the severe gastrointestinal symptoms that characterize the early phase of
-amatoxin poisoning. Renal tubular epithelial cells are also susceptible, contributing to the
-acute kidney injury seen in severe cases.
-
-## Toxicity Data
-
-The lethal dose of alpha amanitin in humans is estimated at approximately 0.1 mg per
-kilogram of body weight when administered orally, which translates to approximately 7 mg for
-a 70 kg adult.
-
-A single mature specimen of [[amanita-phalloides]] typically contains 5 to 8 mg of total
+dried specimens of [[amanita-phalloides]] typically contains 5 to 8 mg of total
 amatoxins, of which alpha amanitin is the predominant component (typically 40 to 60
 percent of the total). This means that a single mushroom contains more than enough toxin to
 cause fatal poisoning in an adult human.
@@ -137,6 +99,5 @@ though none provide a complete antidote:
 
 ## See Also
 
-- [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[amanita-species-ecology-identification-mycohhizal]]
 - [[mushroom-toxins-and-poisoning]]

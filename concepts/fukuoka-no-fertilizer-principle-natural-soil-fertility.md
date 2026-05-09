@@ -98,9 +98,6 @@ Fukuoka's no fertilizer principle has profound implications for discussions of s
 
 ## Related Concepts
 
-- [[fukuoka-no-cultivation-principle-soil-self-tillage]]
 - [[fukuoka-orchard-soil-building-without-fertilizers]]
-- [[fukuoka-soil-building-method]]
 - [[fukuoka-textdoc-natural-soil-management]]
-- [[do-nothing-farming]]
 - [[natural-farming-philosophy-of-mu]]

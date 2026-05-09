@@ -12,7 +12,7 @@ type: concept
 # PF TEK Alcohol Extraction Method
 
 The PF TEK alcohol extraction method describes a straightforward technique for
-extracting [[psilocybin-compound]] from dried [[magic-mushrooms-japan]] using pure 200 proof ethyl
+extracting [[magic-mushrooms-japan]] using pure 200 proof ethyl
 alcohol. The process produces a concentrated mushroom liqueur that can be
 metered precisely with a syringe for accurate dosing. The entire procedure
 involves only mushrooms and alcohol, with no additional chemicals or solvents,
@@ -24,8 +24,7 @@ The technique extracts the active alkaloids from dried mushroom material through
 cold solvent extraction in ethyl alcohol. After soaking, the alcohol is filtered
 and then evaporated down to a desired concentration using a small electric fan.
 The resulting liqueur has a pungent mushroomy aroma and can be stored
-indefinitely in the freezer. [[psilocybe-fanaticus]] noted that this method was
-gaining wide popularity in online mycology communities at the time of writing.
+indefinitely in the freezer. [[mycology]] communities at the time of writing.
 
 ## Materials Required
 

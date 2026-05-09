@@ -128,19 +128,11 @@ receptors.
 
 ## See Also
 
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-inflammatory-bowel-disease]]
 - [[cannabis-autoimmune-conditions-detailed]]
-- [[blesching-cannabis-cancer-symptoms]]
-
 - [[blesching-cannabis-alzheimers-dementia]]
 
-- [[blesching-cannabis-arthritis]]
-
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
-
-- [[blesching-cannabis-dermatological-conditions]]
 
 - [[blesching-cannabis-immune-system-modulation]]
 

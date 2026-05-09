@@ -11,32 +11,7 @@ Updated: 2026-04-18
 
 Source: The Cannabis Grow Bible, Greg Green (Ch. 8)
 
-Cloning is the process of taking a cutting from a cannabis plant and encouraging it to grow its own roots, creating a genetically identical copy. Maintaining mother plants provides a reliable supply of clones for perpetual harvests. For an overview of propagation methods, see [[cannabis-propagation-techniques]].
-
-## Why Clone Instead of Growing from Seed
-
-- **Genetic consistency**: Every clone is an exact copy of the mother plant — same growth rate, yield, potency, and flavor
-- **Known sex**: Clones from a verified female mother will always be female (in most cases)
-- **Faster harvests**: Clones skip the germination and seedling phases, saving 1–2 weeks
-- **Preserve desirable phenotypes**: Once you find an exceptional plant, cloning lets you keep it going indefinitely
-- **Perpetual harvest**: With mothers and clones, you can harvest every few weeks year-round
-- **Eliminate males**: By cloning females, you never need to sex plants or worry about accidental pollination
-
-## Selecting and Maintaining Mother Plants
-
-### Choosing a Mother
-
-Select the healthiest, most vigorous female plant from your garden as your mother:
-- Look for strong branching structure
-- Good resistance to pests and diseases
-- Desirable growth characteristics (height, internode spacing)
-- Once you evaluate potency and yield from her clones, keep her or select a better candidate
-
-### Mother Plant Care
-
-Mothers are kept in a perpetual vegetative state under 18/24 hours of light:
-
-For more on the vegetative stage, see [[cannabis-vegetative-stage-management]].
+Cloning is the process of taking a cutting from a cannabis plant and encouraging it to grow its own roots, creating a genetically identical copy. Maintaining mother plants provides a reliable supply of clones for perpetual harvests. For an overview of propagation methods, see [[cannabis-vegetative-stage-management]].
 
 - **Lighting**: Fluorescent or LED lights work well — mothers do not need intense light
 - **Container size**: Larger pots (5–10 gallons) allow mothers to grow large and produce many clones
@@ -127,12 +102,6 @@ Placing cuttings directly into a glass of water. Roots form at the water line. S
 
 ## Related Topics
 
-- [[cannabis-vegetative-growth-stage]]
-- green cannabis grow bible seed germination methods
-- cannabis cloning and mother plants
-- green cannabis grow bible seed germination methods (alternative to cloning)
 - [[cannabis-root-microbiome]] (important for clone health)
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-nutrient-solution-preparation]]
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
 - [[cannabis-clone-rooting-and-transplanting]]

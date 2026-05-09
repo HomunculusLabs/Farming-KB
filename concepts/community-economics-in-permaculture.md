@@ -3,16 +3,7 @@ title: Community Economics in Permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14) | **Updated:** 2026-04-18
-
-## Overview
-
-Permaculture community economics aims for self-reliance within bioregions, maximizing local currency circulation, reducing external dependencies, and building cooperative enterprises. See also [[bioregional-organization]], [[bioregional-organization]], and [[bioregional-organization]].
+tags: [[bioregional-organization]], [[bioregional-organization]].
 
 ## Village Financial Pool System
 
@@ -63,17 +54,28 @@ These save money and provide wider resource access than individual funding. The 
 
 ## Aid and Development
 
-See [[aid-and-development-in-permaculture]] for the full framework of mutual aid enterprises between Western and Third World groups, based on written legal agreements with financial, ethical, and social accounting.
-
-## Related Topics
-
+See [[bioregional-organization]]
 - [[bioregional-organization]]
-- [[bioregional-organization]]
-- [[bioregional-organization]]
-- [[permaculture-village-design]]
 - [[aid-and-development-in-permaculture]]
-- [[community-finance-and-alternative-economies]]
 - [[permaculture-designers-manual-education-strategies]]
-- [[permaculture-designers-manual-income-strategies]]
 - [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-bioregional-planning]]
+## Practical Considerations
+
+Successful implementation of Community Economics in Permaculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

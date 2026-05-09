@@ -120,13 +120,8 @@ Microscopic examination of cheilocystidia size and spore dimensions is necessary
 
 ## See Also
 
-- [[morchella-esculenta]]
 - [[cantharellus-cibarius-entity]]
-- [[amanita-muscaria]]
 - [[agaricus-bisporus]]
-- [[laccaria-bicolor]]
 - [[pleurotus-ostreatus]]
-- [[mycorrhiza]]
 - [[boletus-edulis-entity]]
-- [[suillus-luteus]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

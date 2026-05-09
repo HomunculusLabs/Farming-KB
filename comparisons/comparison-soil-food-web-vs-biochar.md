@@ -22,37 +22,6 @@ sequesters carbon for centuries to millennia.
 
 ## Soil Food Web
 
-[[soil-food-web]]
-
-The soil food web, as conceptualized by Dr. Elaine Ingham and other soil ecologists, describes the complex
-community of organisms that inhabit soil and interact through trophic relationships including predation,
-decomposition, and mutualistic symbiosis. At the base of the web are bacteria and saprophytic fungi that
-decompose organic matter and retain nutrients in their living biomass. These primary decomposers are
-consumed by protozoa (bacterial feeders) and nematodes (bacterial and fungal feeders), which release
-plant-available nutrients through their waste products. Higher trophic levels including microarthropods,
-earthworms, and larger soil predators create a self-regulating system where nutrient availability is matched
-to plant demand through biological feedback loops.
-
-Managing the soil food web involves creating environmental conditions that support diverse, balanced
-microbial communities adapted to the crops being grown. This typically means providing diverse organic
-matter inputs (compost, mulch, cover crop residues, green manures), minimizing soil disturbance (no-till
-practices), maintaining appropriate moisture levels and soil aeration, and avoiding inputs that harm soil
-biology such as synthetic pesticides, high rates of soluble salt fertilizers, and soil compaction. The
-bacterial-to-fungal biomass ratio is a key management metric: bacterial-dominated soils favor
-early-succession plants including weeds and most annual vegetables, while fungal-dominated soils favor
-late-succession plants including perennials, trees, and shrubs.
-
-The soil food web approach is dynamic and self-sustaining once a healthy biological community is
-established. A well-functioning food web provides continuous biological nutrient cycling, natural disease
-suppression (through competition, antibiosis, and predation of pathogens), soil aggregate formation (through
-bacterial glues, fungal hyphae, and earthworm activity), improved water management (through enhanced soil
-structure and porosity), and ongoing carbon sequestration (through humus formation and stabilization). The
-approach requires understanding of ecological principles and attentive observation, but the reward is a
-living soil system that becomes progressively more productive and resilient over time with decreasing
-external inputs.
-
-## Biochar
-
 [[biochar-and-fungi]]
 
 Biochar is produced through pyrolysis, the thermal decomposition of biomass (wood, crop residues, manure,
@@ -139,10 +108,7 @@ enhancement to, rather than a replacement for, active soil food web management.
 
 ## See Also
 
- [[soil-food-web]]
  [[biochar-and-fungi]]
- [[teaming-with-microbes-compost-tea-brewing-guide]]
  [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
- [[biochar]]
  [[biochar-production-guide]]
  [[soil-fungal-community-composition]]

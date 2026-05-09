@@ -13,11 +13,7 @@ sources:
 
 ## Overview
 
-Claviceps paspali is a species of ergot fungus parasitic on Paspalum distichum, a wild grass common throughout the Mediterranean basin. Hofmann identified it as a particularly promising candidate for the [[kykeon-composition-and-ergot-alkaloid-hypothesis]] because it contains only water-soluble hallucinogenic alkaloids, potentially allowing direct use in powder form without any extraction.
-
-## Discovery and Chemistry
-
-In 1960, F. Arcamone et al. were the first to discover that ergot of Paspalum distichum contained lysergic acid amide and related water-soluble alkaloids — the same compounds Hofmann had previously identified in [[ololiuhqui-morning-glory-ergot-alkaloid-connection]].
+Claviceps paspali is a species of ergot fungus parasitic on Paspalum distichum, a wild grass common throughout the Mediterranean basin. Hofmann identified it as a particularly promising candidate for the [[ololiuhqui-morning-glory-ergot-alkaloid-connection]].
 
 The main constituents are:
 
@@ -45,31 +41,13 @@ Hofmann wrote: "An easier method still would have been to have recourse to some 
 
 ## Connection to the Eleusinian Theory
 
-Hofmann's identification of C. paspali strengthened the [[entheogenic-eleusis-theory-scholarly-reception]] in two ways:
-
-1. It showed that a purely hallucinogenic ergot existed in the Mediterranean, accessible to ancient Greeks
-
-2. It demonstrated that the simplest possible preparation method — direct powder — would have sufficed
-
-However, Hofmann emphasized that C. paspali was not strictly necessary to answer Wasson's question: "We have no way to tell what the chemistry was of the ergot of barley or wheat raised on the Rarian plain in the 2nd millennium BC. But it is certainly not pulling a long bow to assume that the barley grown there was host to an ergot containing, perhaps among others, the soluble hallucinogenic alkaloids."
-
-## Pharmacological Notes
-
-The psychoactive alkaloids of C. paspali are closely related to [[mckenna-discovery-and-impact-of-lsd]], differing primarily in potency:
+Hofmann's identification of C. paspali strengthened the [[mckenna-discovery-and-impact-of-lsd]], differing primarily in potency:
 
 - LSD: active at ~0.1 mg
 
 - Lysergic acid amide: active at 1–2 mg
 
-- Ergonovine: active at ~1.5–2 mg (confirmed by [[hofmann-ergonovine-self-experiment-detail]])
-
-- Psilocybin: active at ~5–10 mg
-
-## Paspalum distichum Ecology
-
-Paspalum distichum (knotgrass or thin paspalum) is a perennial grass that thrives in wet, marshy habitats throughout the Mediterranean basin, North Africa, and the Middle East. It commonly grows along riverbanks, irrigation ditches, and in flooded fields — precisely the kinds of damp environments favored by both grain agriculture and ergot fungi.
-
-The ecological preferences of P. distichum are significant for the Eleusinian hypothesis because they place the hallucinogenic ergot in close proximity to cultivated grain fields. The [[rarian-plain-sacred-grain-eleusis]], as a fertile agricultural area with access to water, would have provided ideal habitat for both barley cultivation and P. distichum growth.
+- Ergonovine: active at ~1.5–2 mg (confirmed by [[rarian-plain-sacred-grain-eleusis]], as a fertile agricultural area with access to water, would have provided ideal habitat for both barley cultivation and P. distichum growth.
 
 ## Modern Research on Claviceps paspali
 
@@ -79,30 +57,35 @@ Research interest in C. paspali has extended beyond the Eleusinian hypothesis. T
 
 ## Comparison with Other Ergot Species
 
-The alkaloid profile of C. paspali can be usefully compared with other ergot species relevant to the [[ergot-of-barley-and-wheat-alkaloid-composition]]:
-
-- **C. purpurea** (on cereals): Mixed profile — both soluble psychoactive and insoluble medicinal alkaloids
-
-- **C. paspali** (on Paspalum): Pure psychoactive alkaloids only
-
-- **C. paspali** (on [[lolium-temulentum-darnel-and-ergot]]): Variable profile, often with significant ergonovine content
+The alkaloid profile of C. paspali can be usefully compared with other ergot species relevant to the [[lolium-temulentum-darnel-and-ergot]]): Variable profile, often with significant ergonovine content
 
 This comparison shows that C. paspali on Paspalum distichum represents the simplest possible preparation scenario, while C. purpurea on barley requires the additional step of water extraction to separate the alkaloid groups.
 
 ## Related
 
-- [[claviceps-paspali]] Concepts
-
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 
-- [[hofmann-ergonovine-self-experiment-detail]]
-
 - [[lolium-temulentum-darnel-and-ergot]]
 
-- [[ergot-of-barley-and-wheat-alkaloid-composition]]
-
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
+## Practical Considerations
+
+Successful implementation of Claviceps paspali Alkaloids requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -139,12 +139,9 @@ ecosystems:
 - **Management:** Cut back periodically to encourage bushy regrowth;
   tolerates repeated cutting
 - **Pests:** Generally pest-resistant; occasional leafminer damage
-
 ## See Also
 
-- [[mimosa-pudica]]
 - [[glycyrrhiza-glabra]]
-- [[piper-nigrum-entity]]
 - [[nitrogen-fixing-plants]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - tropical legumes

@@ -99,22 +99,13 @@ The young shoots and leaves are edible but rarely consumed. Some communities in 
 
 ## See Also
 
-- [[kaempferia-galanga]]
 - [[curcuma-zedoaria]]
-- [[curcuma-amada]]
 - [[boesenbergia-rotunda]]
-- [[zingiber-officinale]]
 - [[alpinia-galanga]]
-- [[elettaria-cardamomum]]
 - [[amomum-subulatum]]
-- [[curcuma-caesia]]
 - [[hedychium-coronarium]]
-- [[zingiber-zerumbet]]
 - [[alpinia-officinarum]]
-- [[zingiber-mioga]]
 - [[etlingera-elatior]]
-- [[alpinia-zerumbet]]
 - [[hedychium-gardnerianum]]
-- [[hedychium-coccineum]]
 - [[curcuma-phaeocaulis]]
 - [[curcuma-zedoaria]]

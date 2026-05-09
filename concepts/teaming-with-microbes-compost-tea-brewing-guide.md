@@ -10,7 +10,7 @@ sources:
 
 # Compost Tea Brewing Guide
 
-Actively aerated compost tea (AACT) is the third tool in the [[teaming-with-microbes-mulch-and-soil-food-web]], alongside compost and mulch. It puts microbiology directly into the rhizosphere and [[teaming-with-microbes-overview]], overcoming the limitations of bulk compost and mulch applications. Plants generate exudates from leaves that attract bacteria and fungi to the phyllosphere; compost tea can deliver these protective microbes where compost and mulch cannot reach.
+Actively aerated compost tea (AACT) is the third tool in the [[teaming-with-microbes-overview]], overcoming the limitations of bulk compost and mulch applications. Plants generate exudates from leaves that attract bacteria and fungi to the phyllosphere; compost tea can deliver these protective microbes where compost and mulch cannot reach.
 
 ## What AACT is — and is not
 
@@ -63,25 +63,7 @@ Nonsulfured molasses (powdered or liquid), cane syrup, maple syrup, and fruit ju
 
 ### Fungal foods
 
-To encourage fungal growth, add kelp (Ascophyllum nodosum, a cold-water kelp), [[teaming-with-microbes-humic-and-fulvic-acids]], and phosphate rock dusts. These provide nutrients and surfaces for fungi to attach. Fruit pulps (orange, blueberry, apple), aloe vera extract (without preservatives), fish hydrolysate (enzymatically digested fish including bones), yucca, and zeolites support fungal growth without feeding bacteria.
-
-Fish hydrolysate can be purchased at nurseries or made by adding papain (papaya peptidase) or kiwi to a fish blend for enzymatic digestion of bones.
-
-## Giving fungi a head start
-
-Bacteria multiply rapidly in tea, but the brew time is almost never long enough for fungi to multiply — they only grow bigger. The better approach is to pre-activate fungi 3-4 days before brewing:
-
-1. Mix compost with fungal food: soybean meal, powdered malt, oatmeal, oat bran, or powdered baby oatmeal (3-4 tablespoons per cup of compost)
-2. Ensure proper moisture (a drop can be squeezed from a fistful)
-3. Place in a warm, dark container; a seed-germinating mat works great
-4. After about 3 days at 80F (27C), visible white mycelial threads should cover the compost like "Santa Claus's beard"
-5. In a few more days, the entire container will be glued together with fungal threads
-
-## Teatime
-
-Once the machine is on, bubbles agitate compost and peel microbes out. Foaming signals worm proteins being released — a good sign. Color change toward brown and temperature increase (a few degrees from metabolic activity) are favorable signs.
-
-Add [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] only at the very end of the brew cycle; earlier addition destroys fragile spores and hyphae. Since mycorrhizal fungi live off root exudates, the tea must reach plant roots quickly.
+To encourage fungal growth, add kelp (Ascophyllum nodosum, a cold-water kelp), [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] only at the very end of the brew cycle; earlier addition destroys fragile spores and hyphae. Since mycorrhizal fungi live off root exudates, the tea must reach plant roots quickly.
 
 Brew for 24-36 hours. Good tea develops a healthy, sweet, earthy smell — especially when molasses is used. Use within 4 hours of manufacture. Tea lasts 3-5 days if refrigerated or if air continues bubbling through it. If it smells bad, it has gone anaerobic — discard it, do not put it on plants.
 
@@ -95,7 +77,6 @@ Bacterial bioslime is strong stuff and clogs air holes and tubing. It appears in
 
 ## See also
 
-- [[teaming-with-microbes-compost-tea-and-inoculation]]
 - [[teaming-with-microbes-compost-biology]]
 - teaming with microbes compost tea brewing guide
 - [[compost-tea-aact]]

@@ -140,11 +140,8 @@ conditions become dependent on those nutrients and unable to thrive when
 conditions change. Maintain the lowest generation numbers possible and vary
 media between transfers to keep mycelium exercising its metabolic capabilities.
 The goal is to preserve unique properties of every wild isolate.
-
 ## See Also
 
-- [[cotter-agar-tissue-culture-techniques]] -- producing clean cultures
 - [[cotter-culture-storage-senescence]] -- long-term preservation
-- [[cotter-spawn-production]] -- broader spawn production context
 - [[cotter-laboratory-setup]] -- lab equipment and design
 - [[pelletized-granular-spawn]]

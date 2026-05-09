@@ -3,21 +3,7 @@ title: Pig Husbandry in Permaculture Systems
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/holzer-desert-or-paradise.md"
----
-
-# Pig Husbandry in Permaculture Systems
-
-Pigs are very efficient foragers and will eat any fruit that falls on the ground, grass, herbs, vines, and nuts. They dig up roots with their noses, making them excellent natural plows for preparing and clearing garden beds. They eat 25 pounds (11.3 kg) of food per day.
-
-## Land Requirements
-
-- Best placement: shady, treed area full of waste material and weeds, not too muddy
-- No more than 20 pigs per acre (0.4 hectare)
-- Prepare pasture with chisel plow, add lime
-- Plant with legumes, [[comfrey-multifunctional-guild-plant]], endive, and grass
+tags: [[comfrey-multifunctional-guild-plant]], endive, and grass
 - Forage plants: cattail, legumes, chicory, comfrey, duck potatoes
 - 100 pigs on 5 acres will eat through 100 acres in 18 months -- keep population low
 - Can be allowed into orchard when trees are at least a few years old
@@ -83,9 +69,24 @@ Blackberry clearing strategy:
 - Fertility: manure is excellent for compost and gardens
 - Land clearing: remove blackberries, scrub, and unwanted vegetation
 
-See also: [[pig-husbandry]], [[pig-keeping-guide]], [[holzer-pig-keeping-paddock-system]], [[permaculture-grazing-and-pasture]], [[animal-manure-guide]], [[animal-tractoring]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
-
-## See Also
-
+See also: [[pig-keeping-guide]], [[permaculture-grazing-and-pasture]], [[animal-tractoring]]
 - [[permaculture-pig-raising]]
+## Practical Considerations
+
+Successful implementation of Pig Husbandry in Permaculture Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

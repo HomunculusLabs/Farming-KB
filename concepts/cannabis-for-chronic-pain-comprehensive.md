@@ -142,8 +142,6 @@ Opioids carry risks of addiction, respiratory depression, constipation, and tole
 
 ## Related Topics
 
-- [[cannabis-for-neuropathic-pain]]
 - [[cannabis-for-migraine-and-headache]]
-- [[cannabis-and-arthritis]]
 - [[cannabis-and-fibromyalgia]]
 - [[cannabis-endocannabinoid-system]]

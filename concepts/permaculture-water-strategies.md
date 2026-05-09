@@ -3,67 +3,7 @@ title: Permaculture Water Strategies
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Permaculture Water Strategies
-
-Water is the primary limiting factor in most landscapes and the most critical element to manage in permaculture design. Water has many tasks in the landscape: irrigation, domestic use, energy generation, aquaculture, nutrient transport, and recreation. The permaculture approach is to catch, store, direct, and use water as many times as possible before it leaves the site.
-
-## Core Principle
-
-The primary goal is to catch water from the hills before it ends up at its lowest point, and to store as much water as possible in the soil, in dams, and in tanks. Water is much more easily saved than generated. When choosing a dam site, select the area where you get the most water for the least amount of earth moved.
-
-## Water in the Humid Landscape
-
-In the humid landscape (where precipitation exceeds evaporation), the classic "S" profile of hills presents opportunities for water management. It is in these landscapes that the techniques of water storage, diversion, and the various uses of stream or overland water flow can be most developed.
-
-The overriding design input into humid-area landscape is planned on the basis of water management, followed by access planning (roads and tracks), then plant and animal system planning. In water planning, we start from the highest accessible slopes, and work out methods to lead water flow via the longest routes downhill (working on or near contour), creating small dams, swales, rip-lines, and energy systems.
-
-### Keyline System
-
-In the classic humid landscape, Yeomans developed his Keyline approach to farm water management, which integrates open water storage with soil reconditioning, soil water storage, fencing, and farm forestry in a whole system design. The Keyline system of gravity-flow irrigation refers to gentle foothill country in the headwater regions, but the principles apply to a wide range of soils and landscapes.
-
-Key techniques include:
-- Contour plowing to increase soil water absorption
-- Contour dams at keypoints in the landscape
-- Gravity-fed irrigation from high dams to lower paddocks
-- Flood irrigation for fire control by downslope flooding
-- Integration of forest and farm water systems
-
-## Swales
-
-Swales are level trenches dug on contour, designed to catch and hold water on slopes, allowing it to infiltrate into the soil. They are one of the most important tools in permaculture water management.
-
-A succession of 5-7 swales across a slope can maintain low streamflow even in dry periods. Swales:
-- Catch runoff water and allow it to soak into the soil
-- Prevent erosion by slowing water flow downhill
-- Create moist planting zones along their berms
-- Can serve as pathways along hillsides
-- Can be grazed by geese or planted to useful crops
-- Recharge groundwater aquifers
-
-Swales can be planted in succession from valley to ridge:
-1. Wet zone swales with water-loving plants
-2. Windbreak swales (or terrace swales in humid areas)
-3. Production swales with hardy trees (mango, olive, etc.)
-4. Rocky windbreak swales or interswale plantings
-5. Ridge access road (runoff to swales 4 and 6)
-6. Onward production swales with tender trees (avocado, citrus)
-7. Interswale mulch and forage crops (dolichos, pigeon pea, acacia, lucerne)
-
-## Dams and Open Water Storage
-
-Open water storages are peculiarly appropriate to mesothermal (cool temperate) landscapes. Soils generally possess sufficient clay fractions (over 40%) to ensure secure dam walls, evaporation does not exceed precipitation in normal years, and there is a wide range of plant and animal species dependent on water for their production.
-
-### Dam Design Considerations
-- Site selection for maximum water catchment with minimum earthworks
-- Clay content in soils (at least 40% for secure dam walls)
-- Depth-to-surface-area ratio (deeper dams lose less to evaporation)
-- Placement for gravity-fed distribution to points of use
-- Integration with zone and sector planning
-- [[wildlife-habitat-creation]]
+tags: [[wildlife-habitat-creation]]
 - Aquaculture potential
 
 ## Rainwater Catchment
@@ -138,12 +78,6 @@ Water serves multiple functions:
 
 ## See Also
 
-- [[permaculture-site-analysis]] - Assessing water resources on site
 - [[zone-sector-analysis-guide]] - Placing water elements in the landscape
-- [[permaculture-climate-zones-and-strategies]] - Climate-specific water strategies
-
-## Related
-
 - [[mollison-arid-lands-design-and-erosion-control]]
-- [[permaculture-design-principles]]
 - [[permaculture-ground-cover-plants]]

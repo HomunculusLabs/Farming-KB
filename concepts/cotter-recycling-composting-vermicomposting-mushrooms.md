@@ -10,15 +10,7 @@ sources: [~/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Recycling, Composting, and [[vermicomposting]] with Mushrooms
-
-## Turning Waste into Food, Fuel, and Fertile Soil
-
-In the United States, an average of 35% of home waste and 60% of business waste
-is suitable as mushroom growing substrate. Mushrooms can be grown on toilet
-paper rolls, egg cartons, newspapers, coffee grounds, tea bags, old cotton
-clothing, cardboard, and many other common materials. Beyond yielding edible
-harvests, [[spent-mushroom-substrate]] becomes a living compost starter, mycelial
+# Recycling, Composting, and [[spent-mushroom-substrate]] becomes a living compost starter, mycelial
 biomass for inoculating larger waste streams, and feedstock for vermicomposting.
 This approach treats the home and farm as a closed "space bubble" where
 everything is evaluated for its potential to be recycled and used as a
@@ -143,6 +135,5 @@ regeneration, exemplifies circular economy principles applied at any scale.
 
 ## See Also
 
-- [[cotter-natural-pest-control-disease-management]]
 - [[oyster-mushroom-spent-substrate-recycling]]
 - [[composting-science-solomon]]

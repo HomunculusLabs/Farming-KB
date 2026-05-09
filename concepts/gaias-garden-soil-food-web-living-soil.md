@@ -118,8 +118,6 @@ all soil management practices.
 
 ## See Also
 
-- [[compost-biology-soil-food-web-inoculation]]
 - [[fungal-roles-soil-food-webs]]
-- [[gaias-garden-compost-worm-methods]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[ozier-pdc-composting-and-soil-building]]

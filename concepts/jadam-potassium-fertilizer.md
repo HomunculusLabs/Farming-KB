@@ -32,34 +32,6 @@ and sulfur simultaneously. It does not dissolve easily in water.
 - [[leaf-mold-composting]]: a handful
 
 ### Method
-1. Add 1 part Sul-Po-Mag to 10 parts water
-2. Add leaf mold, close lid
-3. Stir every 2-3 days (critical -- solution can harden if not stirred)
-4. Time: **3+ months**
-5. Keep stirring regularly to prevent hardening
-
-### Analysis (per 100 L: Sul-Po-Mag 10 kg + leaf mold)
-| Parameter | Value |
-|-----------|-------|
-| pH | 8.1 |
-| EC (1:5) ds/m | 0.42 |
-| T-N % | 0.01 |
-| P2O5 % | 0.002 |
-| K2O % | 0.007 |
-| CaO % | 0.021 |
-| MgO % | 0.003 |
-
-## Recipe 2: Potassium Sulfate JLF (K + S)
-
-Potassium sulfate dissolves more easily than Sul-Po-Mag, making it more
-convenient.
-
-### Ingredients
-- Potassium sulfate: 1 part by weight (10 kg per 100 L)
-- Water: 10 parts by weight
-- [[leaf-mold-composting]]: a handful
-
-### Method
 1. Add potassium sulfate to water at 1:10 ratio
 2. Add leaf mold, close lid
 3. Stir occasionally (dissolves more easily than Sul-Po-Mag)
@@ -101,10 +73,7 @@ The simplest and most accessible potassium source.
 
 ## Related
 
-- [[jadam-liquid-fertilizer]] -- base JLF method
 - [[jadam-calcium-fertilizer]] -- calcium for growth control
-- [[jadam-calcium-phosphate-fertilizer]] -- phosphorus source
 - [[jadam-element-function-reference]] -- potassium functions
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-leaf-mold-as-ideal-soil]]
 - [[liquid-fertilizer-from-weeds]]

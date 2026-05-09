@@ -38,32 +38,11 @@ First described by Guzmán in 1979 from collections in the state of Veracruz, Me
 
 ### Gills (Lamellae)
 - Adnexed to adnate, close to subdistant
-- Color begins grayish, darkening to purplish-brown with [[spore]] maturity
-- Edges whitish and finely fimbriate
-
-### Stipe (Stem)
-- **Length:** 30–60 mm
-- **Thickness:** 1–2 mm
-- **Color:** Whitish to pale brownish, darkening toward the base
-- **Surface:** Smooth to slightly silky, bruising blue prominently
-- **Partial veil:** Evanescent, sometimes leaving a faint annular zone
-
-### Spores
-- Ellipsoidal to subellipsoidal in face view, 8–10 × 5–6 µm
-- Basidia 2- or 4-spored
-- Pleurocystidia and cheilocystidia present, ventricose with extended necks
-
-## Distribution and Habitat
-
-Native to subtropical and tropical forests of eastern Mexico, particularly Veracruz and surrounding states. Found growing on clay soils in coffee plantations and disturbed areas, often in association with decaying plant debris and leaf litter. Fruiting occurs during the rainy season from June through September.
-
-## Chemistry and Pharmacology
-
-Contains psilocybin and psilocin as the primary active compounds. [[baeocystin]] has also been detected in varying concentrations. The species is moderately potent compared to other *Psilocybe* species, though systematic quantitative analyses remain limited. Guzmán's original collections confirmed bluing reactions consistent with indoleamine content.
+- Color begins grayish, darkening to purplish-brown with [[baeocystin]] has also been detected in varying concentrations. The species is moderately potent compared to other *Psilocybe* species, though systematic quantitative analyses remain limited. Guzmán's original collections confirmed bluing reactions consistent with indoleamine content.
 
 ## Similar Species
 
-Closely resembles *[[psilocybe-zapotecorum]]* in general stature and habitat preferences but is smaller in all dimensions and differs in spore morphology. The hygrophanous cap and more slender stature help separate it from *Psilocybe caerulescens*, which shares overlapping range in Mexico. Microscopic examination of cystidia and spore size is recommended for confident identification.
+Closely resembles *[[psilocybe-caerulescens]]*, which shares overlapping range in Mexico. Microscopic examination of cystidia and spore size is recommended for confident identification.
 
 ## Ethnobotanical Notes
 
@@ -72,3 +51,62 @@ While not documented as a major ceremonial species, *P. naematoliformis* occurs 
 ## Conservation Status
 
 No formal conservation assessment has been conducted. Like many tropical and subtropical [[psilocybin-mushrooms]], habitat loss through deforestation and agricultural expansion poses a potential threat to wild populations, particularly in the coffee-growing regions of Veracruz where it was originally documented.
+## Practical Considerations
+
+When working with Psilocybe naematoliformis, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

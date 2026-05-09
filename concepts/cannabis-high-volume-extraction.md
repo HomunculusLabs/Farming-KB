@@ -65,31 +65,26 @@ Modern commercial extraction facilities have largely replaced these improvised s
 
 ## Related Topics
 
-- [[cannabis-solvent-reflux-extraction-methods]] for the basic reflux extraction principles
-- [[cannabis-indoor-growing-guide]] for solvent safety considerations
-- [[cannabis-extraction-basics]] for fundamental extraction concepts
+- [[cannabis-indoor-growing-basics]] for solvent safety considerations
 - [[cannabis-winterization-filtration]] for post-extraction purification at scale
-- [[cannabis-fractional-distillation-cannabinoids]] for advanced refinement of large volumes
 - [[cannabis-oil-isomerization]] for isomerization at production scale
-- [[cannabis-extraction-methods]] for comparison with modern commercial methods
-
-## Throughput and Economics
-
-A 55-gallon drum system can process several pounds of cannabis material per extraction cycle. With a three-hour reflux period plus time for heating, cooling, draining, and solvent recovery, a complete cycle takes approximately six to eight hours. Multiple extraction cycles per day are possible with careful scheduling and adequate solvent recovery capacity.
-
-The primary economic advantage of high-volume extraction is the dramatic concentration of value. Raw cannabis flower has a THC content typically ranging from 10 to 25 percent, meaning 75 to 90 percent of the plant material is non-psychoactive. Extraction concentrates the psychoactive components into an oil that represents a small fraction of the original weight while retaining the full psychoactive value. The concentrated oil is far easier to transport, store, and conceal than equivalent amounts of bulk plant material.
-
-Solvent recovery significantly reduces operating costs. In a well-designed system, 80 to 90 percent of the solvent can be recovered and reused across batches. Given that high-quality ethanol or petroleum ether represents a significant expense, efficient solvent recovery is essential for the economic viability of large-scale operations.
-
-## Environmental and Safety Regulations
-
-Modern commercial extraction facilities must comply with fire codes, environmental regulations, and occupational safety standards that did not exist when the classical high-volume methods were developed. Explosion-proof electrical equipment, ventilation systems rated for flammable vapor atmospheres, fire suppression systems, and solvent storage requirements add significant cost and complexity to operations that were originally designed for illicit production.
-
-Environmental regulations govern the disposal of spent cannabis biomass, solvent-contaminated waste, and wastewater from the extraction process. Proper disposal prevents soil and groundwater contamination and avoids legal penalties. Many jurisdictions require extraction operations to obtain specific permits and undergo regular inspections.
-
-## Comparison with Modern Closed-Loop Systems
-
-Modern commercial extraction has moved toward closed-loop hydrocarbon extraction systems that recirculate butane or propane through the cannabis material in a sealed system. These systems offer several advantages over the classical drum-based approach: more precise temperature and pressure control, higher extraction efficiency, reduced solvent consumption, and inherently safer operation due to the closed system design.
-
-However, the fundamental chemistry of solvent extraction remains unchanged. Whether using a 55-gallon drum apparatus or a computer-controlled closed-loop system, the process involves dissolving cannabinoids in a solvent, separating the solvent from the plant material, and recovering the purified oil by removing the solvent. The classical methods described in cannabis alchemy literature remain valuable for understanding the underlying principles.
 - [[cannabis-concentrates-and-extracts]] for products of large-scale extraction
+## Practical Considerations
+
+Successful implementation of Cannabis High-Volume Extraction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

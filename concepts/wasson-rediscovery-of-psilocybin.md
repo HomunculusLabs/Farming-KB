@@ -125,21 +125,10 @@ traditions.
 
 Despite these criticisms, Wasson's Mexican discoveries transformed Mushrooms, Russia and History from a
 ponderous text into a classic. His work led directly to Albert Hofmann's isolation of
-[[psilocybin-isolation-and-early-scientific-research]], opened the door to serious scientific investigation, and introduced the magic mushroom to
-Western consciousness. The veladas were not purely religious ceremonies but acts of healing -- "the vigils
-weren't born of a simple desire to find God, but were done with the sole purpose of curing the sicknesses
-that our people suffer from." Wasson's misrepresentation of this fact was his greatest anthropological
-failure.
+[[gartz-wasson-mexican-mushroom-cult-rediscovery]]
 
-## See Also
-
-- [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
-
-- [[mushroom-cultivation-fundamentals]]
 - [[psilocybin-isolation-and-early-scientific-research]]
-- [[mexican-inquisition-against-mushroom-cults]]
 - [[timothy-leary]]
-- [[albert-hofmann]]
-- [[mycophilia-mycophobia-european-mushroom-history]]
+- gordon-wasson
 - [[1960s-counterculture-and-magic-mushrooms]]
 - [[roger-heim-scientific-study-psilocybin]]

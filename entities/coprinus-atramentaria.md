@@ -48,6 +48,22 @@ Coprine from *C. atramentarius* has been studied extensively as a biochemical to
 
 *Coprinus atramentarius* has also been studied for its ability to degrade environmental pollutants. Research has shown that the species can metabolize certain aromatic compounds and synthetic chemicals, suggesting potential applications in the bioremediation of contaminated soils. The organism's rapid growth and ability to colonize disturbed substrates make it an interesting candidate for ecological restoration applications.
 
+## Culinary History
+
+Despite the coprine risk, *C. atramentarius* has a documented history of
+culinary consumption in parts of Central and Eastern Europe, particularly in
+Poland, Hungary, and the Czech Republic, where it was traditionally collected
+and eaten with the understanding that alcohol must be strictly avoided for
+48-72 hours after consumption. In these regions, the mushroom was valued for
+its mild flavor and tender texture when young. The practice has declined
+significantly since the coprine-alcohol interaction became widely understood
+in the 20th century. Modern mycological authorities universally advise against
+eating *C. atramentarius* due to the difficulty of guaranteeing abstinence
+from alcohol and the risk of accidental cross-contamination with alcohol-
+containing foods or medications. The species' edibility without alcohol was
+established as early as the 19th century, but contemporary foraging guides
+consider the risk unacceptable.
+
 ## Distinguishing from Edible Species
 
 The most important identification challenge with *C. atramentarius* is distinguishing it from the edible *Coprinus comatus* (shaggy mane). Key distinguishing features include:
@@ -59,8 +75,6 @@ The most important identification challenge with *C. atramentarius* is distingui
 
 ## See Also
 
-- [[coprinus-comatus-detailed]]
 - [[amanita-phalloides]]
-- [[agaricus-bisporus]]
 - [[psilocybe-cubensis]]
 - [[volvariella-volvacea]]

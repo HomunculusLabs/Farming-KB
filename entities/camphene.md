@@ -112,12 +112,8 @@ Camphene is structurally and functionally related to several other monoterpenes 
 ## See Also
 
 - pinene
-- [[myrcene]]
 - [[limonene]]
-- [[terpinolene]]
 - [[linalool]]
-- [[beta-caryophyllene]]
 - [[ocimene]]
-- [[zingiber-officinale]]
 - [[valeriana-officinalis]]
 - [[piper-nigrum-entity]]

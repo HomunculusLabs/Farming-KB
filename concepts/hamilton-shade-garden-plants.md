@@ -80,13 +80,9 @@ Ferns and grasses make an attractive change from the usual choices, particularly
 
 ## Related Concepts
 
-- [[hamilton-perennial-flowers-organic]]
 - [[hamilton-climbing-plants-organic]]
-- [[hamilton-rock-garden-design]]
 - [[geoff-hamilton-organic-techniques]]
 
 Source: Geoff Hamilton, The Organic Garden Book
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-composting-and-organic-matter-management]]
 - [[water-pathways-through-plants]]

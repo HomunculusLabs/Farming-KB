@@ -16,36 +16,6 @@ Biochar and compost are two fundamentally different soil amendments that improve
 
 ## Biochar
 
-[[biochar-in-agriculture]]
-
-Biochar is a carbon-rich, porous material produced by heating biomass in low-oxygen
-conditions at 400-900 degrees Celsius through pyrolysis. This thermal decomposition
-drives off volatile gases and leaves behind a stable carbon matrix with a honeycomb-like
-pore structure that persists in soil for hundreds to thousands of years. The most famous
-example is the Amazonian Terra Preta soils, dark man-made earths created by indigenous
-peoples that remain fertile centuries after their formation.
-
-The primary benefits of biochar are structural and long-term. Its extensive porous
-network improves water retention in sandy soils, provides habitat for beneficial
-microorganisms, and dramatically increases cation exchange capacity (CEC). Biochar's
-vast internal surface area hosts microbial communities that cycle nutrients and
-suppress soilborne pathogens. Once incorporated, biochar is essentially permanent.
-
-From a climate perspective, biochar offers unmatched carbon sequestration potential.
-The pyrolysis process locks carbon into a stable form that resists microbial
-decomposition, removing carbon from the active atmospheric cycle for centuries or
-millennia. This makes biochar a net-negative carbon activity, distinguishing it from
-most other soil amendments. However, production requires energy and careful emissions
-management during the pyrolysis process itself.
-
-A critical consideration is that raw biochar can initially harm soil biology if applied
-without pre-treatment. Its high surface area and charge absorb nutrients and water
-from surrounding soil, creating a short-term nutrient draw-down that starves nearby
-plants and microbes. Biochar must be pre-charged or inoculated before application,
-either by soaking in compost tea, mixing with finished compost, or pre-aging with manure.
-
-## Composting
-
 [[teaming-with-nutrients-composting-and-nutrient-cycling]]
 
 Compost is the product of controlled aerobic decomposition of organic materials,
@@ -135,9 +105,6 @@ replenished with fresh biology and nutrients from compost applications.
 
 ## See Also
 
-- [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]
-
 - [[comparison-biochar-vs-vermicomposting]]
-- [[comparison-biochar-vs-cover-crops]]
 - [[comparison-biochar-vs-mycorrhiza]]
 - [[biochar-production-guide]]

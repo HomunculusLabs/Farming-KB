@@ -11,7 +11,7 @@ tags: [nutrients]
 ## Overview
 Potassium, calcium, and magnesium are three essential macronutrient cations that play distinct
 but interconnected roles in plant health. All three are held by the negative charges on the
-surfaces of clay particles and [[mollison-designers-humus-building-and-soil-organic-matter]] [[singh-fungal-interactions-with-heavy-metals-in-soil]], and all three compete with each other for
+surfaces of clay particles and [[singh-fungal-interactions-with-heavy-metals-in-soil]], and all three compete with each other for
 uptake sites on root cell membranes. Their balance in the soil, expressed through base
 saturation percentages, is critical for optimal plant nutrition.
 ## Potassium
@@ -23,31 +23,7 @@ Potassium ions play a key role in the movement of water into and out of cells. T
 guard cells in leaves open and close as a result of different potassium concentrations. This is
 how the plant as a whole regulates carbon dioxide and water levels. A potassium ion (K+) is
 positively charged, making it a cation, and its positive electrical charge acts as a counter
-balance to other charged molecules [[diffusion-osmosis-and-active-transport-in-plants]].
-Potassium also regulates more than sixty key enzymatic reactions, speeding up chemical reactions
-by thousands of times. Its presence is crucial for the formation of starch, used to store the
-sugar made during photosynthesis, and for the movement of sugars themselves.
-### Deficiency Symptoms
-Potassium is mobile in plants, and older leaves show the signs of deficiency first, in the form
-of dead spots due to dead cells. If the mineral or water balance cannot be regulated, cells will
-die. Plants low in potassium will often wilt because of its role in regulating stomata. If
-stomata don't operate properly, water escapes with disastrous consequences.
-Aside from oxygen, the uptake of potassium is the nutrient most affected by compacted soils. A
-whopping 50 percent reduction can occur in compacted soils. Because potassium is required for the
-regulation of carbon dioxide and water levels, which are both important for photosynthesis, it is
-no wonder plants become stunted in anaerobic soils.
-### Soil Behavior and Sources
-Potassium is held by negative charges on the surfaces of clay particles and organic matter in
-soil. It is not adsorbed tightly and is available for plant uptake. Potassium is the eighth most
-abundant element, making up about 2.5 percent of the Earth's crust, and is found in all sorts of
-minerals.
-Good natural sources of potassium include greensand (N-P-K 0-0-7), which contains more than
-thirty elements and lasts 2 to 3 years; wood ashes (N-P-K 0-1-3), which have been used for
-centuries but are alkaline and increase pH; and sulfate of potash (N-P-K 0-0-2), a mineral salt
-that is very soluble and quick acting, lasting about 2 months.
-## Calcium
-### Role in Plants
-Calcium (Ca) is a key structural component of [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Because these form around every plant
+balance to other charged molecules [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Because these form around every plant
 cell, this element is of immediate and obvious importance. Calcium is also a part of many enzymes
 and is important as a signaling molecule. Under normal cell conditions, the cytosol has a very
 low calcium concentration, with supplies sequestered in various organelles such as the vacuole
@@ -104,8 +80,5 @@ Apply too much ammonium, and you may end up with not enough of the other cations
 Potassium uptake is particularly affected by soil compaction. Well-aerated soils have lots of
 microscopic pore spaces that allow for air and water exchange. In poorly aerated soils, carbon
 dioxide from root respiration can build up, react with water to form acid, and combine with
-organic matter to form cell-killing alcohols. Unless soils are aerobic, [[query-how-do-amf-improve-plant-nutrient-uptake]] suffers
-dramatically.
-## See Also
-- [[teaming-with-nutrients-foliar-feeding-and-absorption]]
-See also: [[teaming-with-nutrients-essential-plant-nutrients]], [[teaming-with-nutrients-micronutrients-and-trace-elements]].
+organic matter to form cell-killing alcohols. Unless soils are aerobic, [[teaming-with-nutrients-foliar-feeding-and-absorption]]
+See also: [[teaming-with-nutrients-micronutrients-and-trace-elements]].

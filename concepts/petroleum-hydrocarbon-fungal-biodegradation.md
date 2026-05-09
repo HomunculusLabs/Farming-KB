@@ -38,21 +38,7 @@ Fungal degradation of aromatic components of petroleum, including benzene, tolue
 
 White-rot fungi are particularly effective at degrading aromatic hydrocarbons because their ligninolytic enzyme system, comprising lignin peroxidase, manganese peroxidase, and laccase, has broad substrate specificity. These extracellular enzymes can oxidize a wide range of aromatic compounds without requiring the fungus to take up the substrate into its cells, which is advantageous for large, hydrophobic molecules that cannot easily cross cell membranes.
 
-Pleurotus species have shown excellent capacity to transform high-molecular-weight PAHs in soil. Eight highly condensed PAHs were degraded by Pleurotus sp. Florida in solid wheat straw substrate. The litter rot fungus Marasmiellus troyanus has demonstrated mineralization of benzo-a-pyrene, one of the most recalcitrant PAHs. See [[mycoremediation-of-pahs]] for more details on fungal PAH degradation pathways.
-
-## Environmental Factors Affecting Degradation
-
-Petroleum degradation by fungi is influenced by multiple environmental factors. Low nitrogen levels, low pH, low moisture content, and inadequacy of certain nutrients favor the development of fungi over bacteria. Fungal cells typically contain less nitrogen than bacterial cells, enabling fungi to function favorably in nitrogen-limited ecosystems.
-
-The degradation of hydrocarbons can be accelerated by the addition of specific urea-phosphate, N-P-K fertilizers, and other nutrient sources for fungal growth. Yeast extract and malt extract enhance cell growth and overall alkane degradation by certain fungi. The fungus Penicillium simplicissimum can grow in the presence of pristane, squalane, and alkanes with 20 to 50 carbon chains, demonstrating potential for remediating areas contaminated with recalcitrant long-chain alkanes.
-
-Dispersants have demonstrated positive effects on rates of hydrocarbon degradation through dissolution and emulsification. Fungal levels in analytical freshwater ponds are enhanced significantly after the addition of oil-dispersant mixtures. However, some dispersants are toxic and inhibitory to yeasts and fungi, requiring careful selection of dispersant formulations for combined application.
-
-## Mycorrhizal Fungi in Petroleum Remediation
-
-Mycorrhizal fungi associated with plant roots can contribute to petroleum hydrocarbon degradation in soil. Petroleum hydrocarbon-degrading capabilities have been documented for numerous mycorrhizal fungal species, including Laccaria bicolor, Paxillus involutus, Pisolithus tinctorius, and Amanita pantherina. Mycorrhizal associations support bacterial biofilms in the rhizosphere that can transform pollutants, providing a synergistic remediation mechanism.
-
-The rhizosphere effect enhances petroleum degradation through several mechanisms. Root exudates stimulate microbial activity in soil surrounding plant roots. Plant secondary metabolites may select for microorganisms capable of degrading hydrocarbon analogues. Plasmid transfer among bacteria is more rapid and efficient in rhizosphere environments, facilitating the dispersal of degradation genes when they provide a selective advantage in polluted environments. See [[mycorrhizal-fungi-hydrocarbon-remediation]] for additional detail on mycorrhizal involvement.
+Pleurotus species have shown excellent capacity to transform high-molecular-weight PAHs in soil. Eight highly condensed PAHs were degraded by Pleurotus sp. Florida in solid wheat straw substrate. The litter rot fungus Marasmiellus troyanus has demonstrated mineralization of benzo-a-pyrene, one of the most recalcitrant PAHs. See [[mycorrhizal-fungi-hydrocarbon-remediation]] for additional detail on mycorrhizal involvement.
 
 ## Temperature Considerations
 
@@ -64,27 +50,33 @@ Thermophilic fungi can contribute to hydrocarbon degradation during composting t
 
 No single species of microorganism will completely degrade any particular oil; instead, hydrocarbon degradation involves a consortium of microorganisms. Bacteria and yeasts are generally predominant hydrocarbon degraders in aquatic ecosystems, while fungi and bacteria share dominance in soil environments. However, yeasts and fungi have a significant effect on oil degradation under conditions that select against bacterial growth, such as low pH and low nitrogen environments.
 
-The filamentous growth habit of fungi provides advantages in soil environments, where hyphae can penetrate soil aggregates and access hydrocarbons that are physically inaccessible to bacterial cells. Fungal cells typically contain less nitrogen than bacterial cells, enabling fungi to function in nitrogen-limited ecosystems where bacteria cannot compete effectively. This physiological advantage makes fungi particularly important for hydrocarbon degradation in acidic or nutrient-poor soils. For a detailed comparison, see [[bioremediation-fungal-vs-bacterial]].
-
-## Engineered Approaches
-
-Engineered in situ bioremediation of petroleum-contaminated sites has received wide acclaim because it requires little energy, preserves soil structure, and can detoxify contaminants. Complete mineralization of hydrocarbons to innocuous end products is preferred compared to partial degradation to metabolites whose fate and effects are unknown. Rapid degradation of petroleum occurs under aerobic conditions, though anaerobic degradation pathways also exist.
-
-Fungal cultures inoculated on ceramic support media have shown ability to degrade vapor-phase volatile organic compounds as their sole carbon and energy sources. This biofilter approach combines physical capture of volatile hydrocarbons with biological oxidation, offering a treatment solution for air emissions from petroleum-contaminated sites. See [[bioremediation-using-fungi]] for field-scale applications.
+The filamentous growth habit of fungi provides advantages in soil environments, where hyphae can penetrate soil aggregates and access hydrocarbons that are physically inaccessible to bacterial cells. Fungal cells typically contain less nitrogen than bacterial cells, enabling fungi to function in nitrogen-limited ecosystems where bacteria cannot compete effectively. This physiological advantage makes fungi particularly important for hydrocarbon degradation in acidic or nutrient-poor soils. For a detailed comparison, see [[fungal-bioremediation-mechanisms]] for field-scale applications.
 
 ## See Also
 
-[[bioremediation-using-fungi]]
-
-[[bioremediation-using-fungi]]
-
-[[mycoremediation-of-pahs]]
+[[fungal-bioremediation-mechanisms]]
 
 [[mycoremediation-of-petroleum-hydrocarbons]]
 
-[[mycorrhizal-fungi-hydrocarbon-remediation]]
-
 [[cotter-mycoremediation-overview]]
 
-[[ectomycorrhizal-remediation]]
-- [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
+[[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
+## Practical Considerations
+
+Successful implementation of Petroleum Hydrocarbon Fungal Biodegradation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

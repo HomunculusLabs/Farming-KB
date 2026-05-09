@@ -51,30 +51,6 @@ with several documented species:
   represents the northern limit of Psilocybe distribution in East
   Asia.
 
-- **[[gymnopilus-spectabilis-entity]]**: Known in Japan as "O-waraitake" (the
-  laughing mushroom), this species has a long history of documented
-  use and is widespread in Japanese forests.
-
-- **Amanita muscaria**: Known as "benitengu-take" in Japan, this
-  species is widespread and has historical documentation of use.
-
-## India and the Himalayan Region
-
-India's neurotropic mycoflora includes both tropical and temperate
-species, reflecting the country's geographic and climatic diversity:
-
-- **Psilocybe indica**: An endemic species described from India,
-  found in the western Himalayan region. It represents a unique
-  component of the Indian mycoflora.
-
-- **Psilocybe natarajanii**: Another species described from India,
-  found in tropical and subtropical regions of the subcontinent.
-
-- **Psilocybe pseudoaztecorum**: A species found in India with
-  morphological similarities to the Mexican P. aztecorum, raising
-  interesting biogeographic questions about possible disjunct
-  distributions.
-
 - **[[psilocybe-cubensis]]**: Widespread in tropical India, found on
   bovine dung in pastures throughout the country.
 
@@ -95,9 +71,6 @@ remains incomplete:
 - **Copelandia cyanescens**: Abundant throughout the region on
   bovine and water buffalo dung. C. cambodginiensis, described from
   Cambodia, is also widespread.
-
-- **[[panaeolus-subbalteatus]]**: Found throughout the region on dung
-  and enriched soils.
 
 - **[[psilocybe-samuiensis]]**: Described from Koh Samui, Thailand,
   this species is found in tropical Southeast Asia.
@@ -143,8 +116,6 @@ The Southeast Asian and Pacific neurotropic mycoflora is
 significantly undersampled relative to the Americas and Europe.
 The region likely contains many undescribed species and
 undocumented indigenous uses of neurotropic fungi.
-
 ## See Also
 
-- [[worldwide-distribution-psilocybin-mushrooms]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]

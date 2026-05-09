@@ -141,9 +141,6 @@ several months to over a year.
 It is important to distinguish true non-germination from growth that germinated but
 ## Related Concepts
 
-- [[pf-tek-dry-vermiculite-contaminant-barrier]] for the role of the top vermiculite
-  layer
 - [[inoculation-technique-and-alcohol-flaming]] for proper inoculation procedure
-- [[pf-tek-steam-sterilization-technique]] for avoiding substrate drying
 - [[pf-tek-canning-jar-lid-configuration]] for lid preparation details
 - [[mushroom-spore-syringe-preparation]] for syringe handling and storage

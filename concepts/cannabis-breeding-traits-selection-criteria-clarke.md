@@ -140,11 +140,8 @@ each plant. The production of each aromatic compound may be influenced
 by many genes. Biosynthetic relationships between terpenes and
 cannabinoids have been firmly established. Indeed, cannabinoids are
 synthesized within the plant from terpene precursors.
-
 ## See Also
 
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-breeding-selection-principles-clarke]]
-- [[cannabis-hybridization-back-crossing-methods-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-terpene-and-aroma-chemistry-clarke]]

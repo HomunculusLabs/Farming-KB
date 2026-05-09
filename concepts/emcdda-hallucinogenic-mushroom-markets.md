@@ -105,26 +105,7 @@ Following UK prohibition in July 2005, internet sites stopped selling
 hallucinogenic mushrooms. UK retailers such as EveryOneDoesIt.com and
 Allsalvia.co.uk switched sales to legal alternatives including:
 
-- Fly Agaric (*[[amanita-muscaria]]*)
-- Panther mushroom (*Amanita pantherina*)
-- Purple Ohms capsules (main ingredient: Hawaiian Baby Woodrose, which
-  contains LSA, with effects similar to LSD)
-
-The Irish online headshop THC also stopped mushroom sales after they
-became illegal on 31 January 2006.
-
-## Brand Names and User Terms
-
-Hallucinogenic mushrooms are commonly known as "magic mushrooms" but
-have many names across Europe: "paddos" (Netherlands), "shrooms" (UK),
-"Zauberpilze" (Germany), "champis" (France), "funghi magici" (Italy),
-"magiske svampar" (Sweden), and "magiczne grzybki" (Poland). Other
-English terms include mush, mushies, boomers, cubes, philosopher's
-stone, sacred mushrooms, teonanacatl (Aztec for "divine flesh"), and
-moon children.
-
-Smartshops also popularised the "Herbal highs" label, grouping mushrooms
-with other products like "herbal xtc" and [[salvia-divinorum]].
+- Fly Agaric (*[[salvia-divinorum]].
 
 ## Seizures
 
@@ -132,13 +113,7 @@ Police or customs seizures were reported in 2004 in Czech Republic,
 Estonia, Germany, Greece, Hungary, Lithuania, Netherlands, Norway,
 Poland, Portugal, Slovakia, Slovenia, and Sweden. The largest quantity
 seized was 11.5 kg in Poland. Estonia confiscated 14 mail deliveries of
-[[psilocybin-compound]] mushrooms or their spores/mycelium.
-
-## Related Topics
-
-- [[hallucinogenic-mushroom-legal-status-europe]] for how
+[[hallucinogenic-mushroom-legal-status-europe]] for how
   legislation shaped the retail market
-- [[hallucinogenic-mushroom-prevalence-europe]] for usage
-  data
 - [[emcdda-psilocybin-mushroom-species-and-identification]] for the
   species commonly sold in retail markets

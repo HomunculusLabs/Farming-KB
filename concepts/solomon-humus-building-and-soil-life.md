@@ -128,8 +128,6 @@ further enriching the soil.
 
 - solomon capillarity and soil moisture movement Concepts
 
-- [[solomon-compost-organic-matter]]
 - [[solomon-carbon-nitrogen-ratios]]
-- [[solomon-cover-crops-green-manure-guide]]
 - [[solomon-tilling-and-soil-aeration]]
 - [[solomon-soil-mineral-depletion]]

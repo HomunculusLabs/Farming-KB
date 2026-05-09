@@ -3,7 +3,7 @@ title: Aboriginal Ecology Permaculture Two
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: [papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 ---
 
@@ -43,33 +43,7 @@ Mollison observes: "We lack crop-masters today."
 The Aboriginal model demonstrates several principles central to permaculture:
 
 ### Ecological Knowledge as Design
-The crop-master held detailed knowledge of species, seasons, [[soil-food-web]], and their interactions. This is precisely the knowledge base a permaculture designer needs, accumulated through observation rather than imported from textbooks.
-
-### Taboos as Conservation Mechanisms
-Prohibitions against harvesting certain species at certain times function as conservation measures, ensuring regeneration. Permaculture design similarly zones and times activities to protect and enhance system productivity.
-
-### Feast and Celebration Around Abundance
-Food systems should produce surplus that enables celebration and sharing. Permaculture design aims for abundance, not mere subsistence.
-
-### Territory Defined by Perennial Species
-The brother tree model shows how perennial plantings define and sustain a landscape. Modern permaculture uses tree crops and perennial systems to create long-term productive territories.
-
-## Arid Zone Aboriginal Knowledge
-
-Permaculture Two Section 5.1 (Arid Land Permaculture) draws heavily on Aboriginal ecological knowledge:
-
-### Native Food Species
-- Kurrajong (Brachychiton gregorii) -- nectar, pollen, fodder, bark fibre
-- Bottletree (Apophyllum anomalum) -- fodder, possible spice
-- Ebony (Bauhinia carronii) -- leaves and pods edible stock food
-- Lime bush (Eremocitrus glauca) -- small preserving fruit, grafts
-- Native currant (Canthium latifolium) -- fruit and fodder, poultry
-- Wild oranges (Capparis mitchelli, C. ambonata) -- fruit eaten by Aborigines
-- Berrigan (Eremophila longifolia) -- emu and pigeon food
-- Emu apple (Owenia acidula) -- edible fruit, emu forage
-
-### Land Management
-Aboriginal fire management, seasonal movement, and resource management practices all inform permaculture design for [[arid-zone-permaculture-strategies-mollison]].
+The crop-master held detailed knowledge of species, seasons, [[arid-zone-permaculture-strategies-mollison]].
 
 ## The Inevitability of Aboriginal Land Return
 
@@ -103,16 +77,9 @@ Fresh fruit needing minimal care (no artificial fertilizers, sprays, forcing) is
 
 ## See Also
 
-- [[permaculture-two-design-principles]]
 - [[self-seeding-annuals-permaculture-two]]
-- [[fire-mandalas-permaculture-two]]
-
-## Related
-
 - [[permaculture-design]]
-- [[permaculture-water-harvesting-earthworks]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- [[mollison-permaculture-two-sound-walls-noise-control]]
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 
 ## Practical Context
@@ -137,8 +104,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[permaculture]]
 - [[permaculture-design]]
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[mollison-arid-lands-design-and-erosion-control]]

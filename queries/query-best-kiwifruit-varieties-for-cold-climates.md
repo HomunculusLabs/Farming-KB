@@ -24,45 +24,13 @@ created: 2026-05-03
 
 # What Are the Best Kiwifruit Varieties for Cold Climates?
 
-**Short answer:** For Zones 3–5, the top choices are **hardy kiwi (*Actinidia arguta*)** and **arctic kiwi (*Actinidia kolomikta*)**. The fuzzy supermarket kiwi (*A. deliciosa*) cannot survive below Zone 7 and is not a viable option for cold-climate growers. Within hardy kiwi, the best performers are **Ananasnaya, Geneva, Anna, and Ken's Red**. For the coldest sites (Zone 3), **arctic kiwi** varieties like **Krupnopladnaya** and **September Sun** are your only reliable options.
-
-## Why Fuzzy Kiwi Doesn't Work in Cold Climates
+**Short answer:** For Zones 3–5, the top choices are **[[query-how-do-i-grow-figs-in-cold-climates]]
 
 *Actinidia deliciosa* (the standard brown-fuzzy kiwi) requires 600–800 chilling hours and winter temperatures no colder than about –10°C (14°F). Even in Zone 7, severe winters can cause dieback, and late spring frosts frequently destroy flowers. In Zones 3–6, winter temperatures routinely drop to –20°C to –40°C, killing fuzzy kiwi vines to the ground. Do not attempt it without a heated greenhouse.
 
 ## Hardy Kiwi (*Actinidia arguta*) — Zones 4–7
 
-Hardy kiwi is the most practical kiwifruit for cold climates. Vines survive to –30°C with ease and produce abundant, grape-sized, smooth-skinned fruit that you eat whole—no peeling required. Fruit quality rivals or exceeds fuzzy kiwi, with higher vitamin C content (up to 250 mg per 100 g versus 93 mg) and more intense, complex flavors.
-
-### Top Hardy Kiwi Varieties
-
-**Ananasnaya (also called "Ananaya" or "Anna")**
-- **Hardiness:** Zone 4
-- **Fruit:** 8–15 g, green, smooth skin. Pineapple-like flavor (the name means "pineapple" in Russian).
-- **Ripening:** Late September to mid-October.
-- **Pollinator:** Weiki or any *A. arguta* male.
-- **Notes:** The most widely available and reliable hardy kiwi. Excellent for beginners. Consistent producer with good disease resistance.
-
-**Geneva**
-- **Hardiness:** Zone 4
-- **Fruit:** 6–12 g, green, smooth skin. Sweet-tart, refreshing flavor.
-- **Ripening:** Early to mid-September (one of the earliest *arguta* varieties).
-- **Pollinator:** Any *A. arguta* male.
-- **Notes:** Developed at Cornell University's Geneva Experiment Station. Reliable in short-season climates. Good choice for Zone 4 locations with cool summers.
-
-**Anna (Russian selection, distinct from Ananasnaya)**
-- **Hardiness:** Zone 4
-- **Fruit:** 10–18 g, green, smooth. Very sweet, mild flavor.
-- **Ripening:** Mid-September to early October.
-- **Pollinator:** Any *A. arguta* male.
-- **Notes:** One of the largest-fruited hardy kiwis. Selected in Russia for cold hardiness and fruit size. Prolific once established.
-
-**Ken's Red**
-- **Hardiness:** Zone 4
-- **Fruit:** 8–12 g, smooth skin with red blush. Red flesh. Sweet, berry-like flavor.
-- **Ripening:** Late September to October.
-- **Pollinator:** Any *A. arguta* male.
-- **Notes:** Stunning red-fleshed variety. Excellent for fresh eating and value-added products (jams, wine). Ornamental as well as productive.
+Hardy kiwi is t [[cotter-mushroom-products-and-value-added-applications]] products (jams, wine). Ornamental as well as productive.
 
 **Issai**
 - **Hardiness:** Zone 5 (less cold-hardy than other *arguta* varieties)
@@ -131,19 +99,9 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 
 2. **Protect young vines.** For the first 1–2 winters, mulch heavily (15–20 cm of straw or leaves around the base) and consider wrapping the trunk with burlap or tree wrap.
 
-3. **Snow is your friend.** In Zones 3–4, a reliable snow cover insulates the root zone. Don't shovel snow away from kiwi plantings.
-
-4. **Match pollinator bloom times.** In cold climates, male and female flowers may emerge at slightly different times due to microclimate variation. Plant 2–3 male vines distributed among the females to ensure overlap.
-
-5. **Wind protection is critical.** Cold winter winds desiccate canes. Plant hardy kiwi on the leeward side of buildings, evergreen hedgerows, or other windbreaks.
-
-6. **Short-season considerations.** In Zones 3–4 with growing seasons under 120 days, prioritize early-ripening varieties: Geneva (hardy kiwi), Aromatnaya or Krupnopladnaya (arctic kiwi).
-
-7. **Soil preparation before planting.** Cold soils warm slowly. Amend with compost to improve drainage and warmth. Raised beds can help in heavy clay soils.
+3. **Snow is [[faires-city-desert-and-cold-climate-garden-strategies]]
 
 ## See Also
 
-- [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — complete growing guide
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — trellis crop comparison
-- [[faires-growing-and-season-extension]] — broader cold-climate strategies
 - [[fruit-tree-pruning-training]] — pruning techniques for kiwi vines

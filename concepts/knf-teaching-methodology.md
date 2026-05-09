@@ -104,13 +104,9 @@ Ultimately, KNF teaching embodies a philosophy of farmer empowerment. The goal i
 
 ## See Also
 
-- [[cho-han-kyu-life-and-philosophy]]
 - [[knf-nutritive-cycle-theory]]
-- [[knf-indigenous-microorganism-culture]]
 - [[knf-preparations]]
 
 Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Preface, Forward, Chapter 1.
-- [[korean-natural-farming-imo-recipes]]
 - [[natural-farming-livestock-integration]]
-- [[korean-natural-farming-fpj-and-ffp-recipes]]
 - [[korean-natural-farming-lab-and-ohn-recipes]]

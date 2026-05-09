@@ -115,10 +115,7 @@ where conventional sterilization methods are impractical.
 
 ## See Also
 
-- [[microwave-sterilizable-access-port]]
 - [[microwave-surface-sterilization-technology]]
-- [[trace-water-enhanced-microwave-surface-sterilization]]
 - [[microwave-penetration-elastomeric-materials]]
-- [[microwave-2-45-ghz-water-dipolar-coupling]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[sterilization-techniques-mushroom-cultivation]]

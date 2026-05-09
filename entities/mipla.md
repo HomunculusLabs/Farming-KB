@@ -109,15 +109,9 @@ The synthesis requires laboratory expertise and access to controlled precursors.
 
 ## See Also
 
-- [[lsd]]
 - [[1p-lsd]]
-- [[eth-lad]]
 - [[ald-52]]
-- [[1v-lsd]]
 - [[1b-lsd]]
-- [[1cp-lsd]]
 - [[lysergic-acid]]
-- [[ergotamine]]
-- [[psilocybin-compound]]
-- [[4-ho-mipt]]
+- [[psilocybin]]
 - [[4-aco-dmt]]

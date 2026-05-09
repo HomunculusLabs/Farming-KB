@@ -53,7 +53,7 @@ The soil food web converts organic matter and rock minerals into plant-available
 
 ### Glomalin and Soil Aggregation (Lowenfels/Ingham)
 
-Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contributes up to 30% of soil carbon, binds particles into aggregates, improves aeration/drainage/water-holding capacity, and persists for decades. It cannot be produced without living mycorrhizal hyphae — this is why [[composting-and-soil-biology]] builds soil structure over time. See [[mycorrhizal-networks]] for full mycorrhizal ecology.
+Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contributes up to 30% of soil carbon, binds particles into aggregates, improves aeration/drainage/water-holding capacity, and persists for decades. It cannot be produced without living mycorrhizal hyphae — this is why [[no-till-gardening-method]] builds soil structure over time. See [[mycorrhizal-networks]] for full mycorrhizal ecology.
 
 ## Building Soil Biology
 
@@ -85,10 +85,6 @@ Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape so
 6. **Avoid chemicals** — synthetic fertilizers and pesticides harm soil biology
 
 ## See Also
-
-- [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]
-
-- [[liebig-law-of-minimum-critique]]
 
 - soil food web nutrient cycling — Overview of trophic levels and bacterial vs. fungal dominance
 - soil food web nutrient cycling — Detailed nutrient cycling and fungal ecology

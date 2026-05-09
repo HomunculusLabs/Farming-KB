@@ -19,11 +19,7 @@ type: concept
 
 Compound 8, formally named {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethyl-
 ammonio}-4-O-benzyl phosphate, is a novel zwitterionic intermediate
-discovered during the phosphorylation of [[psilocin]] using the
-tetrabenzylpyrophosphate method. This compound was first identified and
-fully characterized by Shirota, Hakamata, and Goda in 2003. Its
-discovery was unexpected and represents a key finding that enabled the
-practical large-scale synthesis of [[psilocybin-compound]] without chromatographic
+discovered during the phosphorylation of [[psilocybin]] without chromatographic
 purification.
 
 ## Discovery and Formation

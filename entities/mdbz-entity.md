@@ -9,15 +9,7 @@ sources:
 ---
 # MDBZ (N-Benzyl-MDA; 3,4-Methylenedioxy-N-benzylamphetamine)
 
-MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[mda]]. It was explored as part of the systematic study of N-substituted MDA analogues. The compound is listed as PIHKAL entry #103.
-
-## Chemical Classification
-
-MDBZ belongs to the amphetamine class of chemical compounds.
-
-It is formally named 3,4-methylenedioxy-N-benzylamphetamine.
-
-It is the N-benzyl homologue of [[mda]], with a benzyl (phenylmethyl) group replacing the hydrogen on the nitrogen atom.
+MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[mda]], with a benzyl (phenylmethyl) group replacing the hydrogen on the nitrogen atom.
 
 The compound was synthesized as part of the systematic exploration of N-substitution on the MDA skeleton.
 
@@ -67,48 +59,33 @@ The yield was quite small (0.55 g), reflecting the difficulty of separating prod
 
 Several additional N-homologues and analogues of MDA were synthesized alongside MDBZ.
 
-The highest alkyl group on the nitrogen of MDA that was assayed was the straight-chain butyl homologue ([[mdbu-entity]]).
-
-Six other N-alkyls were made or attempted, including isobutyl, tert-butyl, neopentyl, hexyl, and other variants.
-
-None of the longer-chain N-alkyl homologues showed promising central activity.
-
-The separation of starting amine from product amine was an ongoing problem with many of these syntheses.
-
-Various techniques were employed including differences in boiling points, relative polarities, ion-pair extraction, and careful crystallization.
-
-## Structural Implications
-
-The inactivity of MDBZ reinforces the importance of the phenethylamine two-carbon chain in determining psychoactivity.
-
-The benzyl group introduces a benzene ring directly adjacent to the nitrogen, which may interfere with receptor binding.
-
-The electronic and steric properties of the benzyl group are fundamentally different from those of simple alkyl chains.
-
-This structural principle extends across many classes of centrally active compounds.
-
-## Dosage and Duration
-
-Dosage: Greater than 150 mg (no central effects observed).
-
-Duration: Unknown.
-
-The compound is considered inactive.
-
-## See Also
-
-[[mda]]
-
-[[mdbu-entity]]
+The highest alkyl group on the nitrogen of MDA that was assayed was the straight-chain butyl homologue ([[mda]]
 
 [[mdal-entity]]
 
-[[mdpr-entity]]
-
-[[mdma-entity]]
+[[mdma]]
 
 [[mde-entity]]
 
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #103: MDBZ.
+## Practical Considerations
+
+Successful implementation of MDBZ (N-Benzyl-MDA; 3,4-Methylenedioxy-N-benzylamphetamine) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

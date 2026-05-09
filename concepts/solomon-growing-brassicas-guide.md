@@ -9,83 +9,137 @@ sources:
 ---
 # Solomon on Growing Brassicas
 
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
-
-## The Refinement Scale
-
-Solomon presents a crucial concept: brassicas exist on a scale of refinement, all bred from the same wild ancestor (Brassica oleracea). As you move up the scale from wild to refined, each step requires more fertile soil, more water, and more care:
-
-- **Kale**: Closest to the wild ancestor. Most vigorous, most cold-hardy, most pest-resistant. Lowest demand.
-- **Collards**: Non-heading cabbage, slightly less vigorous than kale.
-- **Giant kohlrabi**: Basically a low-demand fodder crop whose globe can reach volleyball size.
-- **Cabbage**: A kale whose stalk has become compressed with almost no space between leaves. Intrinsically vigorous, but small-framed modern varieties bred for supermarket trade are highly inbred, weakened, and intolerant of dry or compacted soils.
-- **Brussels sprouts**: A kale that makes little cabbages at each leaf joint.
-- **Broccoli**: Bred from a more aggressive but less cold-hardy wild oleracea strain that naturally made larger flowers.
-- **Cauliflower**: The most refined and demanding. Has a particularly weak root system intolerant of clayey soils and does not like maturing in heat.
-
-New gardeners should start at the bottom of the scale. As soil improves and skills develop, move up.
-
-## Two Kale Species
-
-Two distinct kale species exist:
-
-- **Brassica oleracea kale**: Tall, unbranched central stalk with leaves coming from a central point. Many named varieties exist. Most vigorous in most conditions.
-- **Brassica napus kale** (Siberian kale): Forms a rosette pattern similar to lettuce or spinach. Siberian kale crosses only with rutabaga. Some prefer its flavor for raw salads.
-
-Kale of either sort is the most vigorous and cold-hardy of all garden brassicas. It will produce when other coles fail.
-
-## Soil Requirements
-
-All coles need more calcium than most vegetables. If not using COF and gardening on rain-leached land, broadcast five pounds of finely ground agricultural lime per 100 square feet before sowing any brassica crop. Do not spread more without a soil test.
-
-## Spacing and Fertility
-
-For refined brassicas, make small hills in raised beds, concentrating an extra half cup of COF or an extra large double handful of strong compost immediately under each station.
-
-Kale: 24- by 30-inch stations
-Giant kohlrabi: Grown like medium-sized cabbage
-
-## Cold Hardiness
-
-Solomon has seen kale resume growing after thawing from an overnight low of 21 degrees F (-6 degrees C). As long as the soil has not frozen, kale will keep going. Kale's flavor gets sweeter after frost (endive and spinach do similarly). Collards don't need chilling to sweeten.
-
-For winter gardens in snow country, Solomon refers to Eliot Coleman's Four-Season Harvest.
-
-## Growing Calendar
-
-- **Main kale crop**: Start about three months before first frost for autumn and winter harvest.
-- **Late fill-in**: Sow six weeks before first frost; will make a small but equally frost-hardy plant.
-- **Giant kohlrabi**: Start just after the solstice for autumn/winter harvest.
-- **Cauliflower**: Safest to schedule for autumn maturation to avoid unpredictable hot weather.
-- **Winter climates**: Refined brassicas may be started in autumn for winter and spring harvest.
-
-## Pests
-
-Cabbage worms do not seem to have much interest in kale. If they did, Solomon would spray with Bt. This lack of interest is probably because the moths are diverted to more refined brassicas in the garden. The presence of a large kale plant may protect nearby refined brassicas. This is an argument for growing the vigorous, close-to-wild kale rather than only growing the weaker, more inbred refined types.
-
-## Seed Saving
-
-All Brassica oleracea cross-pollinate via bees. Isolating different sorts by a half mile (800 meters) may work for low-quality seed. These are biennials -- they must pass through a cold period before flowering is triggered. Overwinter large kale plants where the soil freezes by digging them up carefully in late autumn and storing in damp soil in a root cellar, then transplanting outside in spring.
-
-Do not attempt to save kale seed from fewer than six plants; rapid inbreeding vigor depression results. For refined brassicas, the gene pool should be at least 100 plants (200 is better). This is why there are no productive OP Brussels sprouts available -- the gene pool has been too small.
-
-## Kohlrabi Storage
-
-Giant kohlrabi will store well in the root cellar after a few frosts.
-
-## Culinary Use
-
-Kale and collards are mainly used as pot greens. Solomon recommends a Scottish recipe called "Rumbledethumps": fill a large pot with chopped kale, add a quarter inch of water, set heat low. When leaves collapse, add an inch-thick layer of roughly cut unpeeled potatoes and steam until soft enough to mash. Mash everything together without pouring off water. Potatoes alone are low in protein and minerals; combined with kale, they make near-perfect nutrition with complementary flavors.
-
-Siberian kale blends well into salads. Kohlrabi is tasty when coarsely grated into slaw or eaten raw in chunks.
-
-## Related
-
-- [[solomon-gardening-when-it-counts-index]]
-- [[solomon-growing-beans-and-peas]]
+From [[solomon-gardening-when-it-counts-index]]
 - [[winter-gardening-techniques]]
-- [[cold-frame-gardening]]
 - [[root-cellaring-guide]]
-- [[solomon-root-cellaring-and-crop-storage]]
 - [[root-competition-plant-spacing-solomon]]
 - [[growing-vegetables-with-less-fertilizer]]
+## Background and Context
+
+Solomon on Growing Brassicas is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

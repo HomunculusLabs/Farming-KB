@@ -83,13 +83,8 @@ Oligotrophic fungi are adapted to grow in extremely nutrient-poor environments. 
 
 ## See Also
 
-- [[thermophilic-fungi]]
 - [[xerophilic-xerotolerant-fungi]]
-- [[fungi-in-the-environment-extremophilic-fungi]]
-
 - [[acidophilic-alkalophilic-fungi]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-biodiversity-alpine-arctic]]
-- [[fungal-antarctic-polar-diversity]]
 - [[gadd-fungal-biodiversity-conservation]]
 - [[gadd-fungal-ecology-saprotrophs]]

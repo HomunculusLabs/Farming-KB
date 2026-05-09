@@ -12,31 +12,16 @@ type: comparison
 
 ## Overview
 
-Mulch and cover crops are two of the most effective strategies for [[building-soil]]
-health, suppressing weeds, and conserving moisture in organic and [[permaculture]]
+Mulch and cover crops are two of the most effective strategies for [[permaculture]]
 systems. While both add organic matter and protect soil, they operate through
 fundamentally different mechanisms: mulch is applied material layered on the soil
 surface, while cover crops are living plants grown in place to feed the soil food
-web through [[root-exudates]] and biomass production.
-
-## Mulch
-
-[[teaming-with-microbes-mulch-and-soil-food-web]]
+web through [[teaming-with-microbes-mulch-and-soil-food-web]]
 
 Mulch refers to any material placed on top of soil to suppress weeds, retain
 moisture, and insulate soil temperature. Organic mulches such as leaves, wood
 chips, straw, grass clippings, and bark provide additional benefits by feeding
-and housing [[soil-food-web]] organisms. As mulch decomposes, it creates habitat for
-earthworms, arthropods, bacteria, and fungi, all of which contribute to nutrient
-cycling and soil structure development.
-
-The type of mulch determines which soil organisms dominate. Green mulches like
-fresh grass clippings feed bacterial populations through their simple sugars, while
-brown mulches like wood chips and aged leaves promote fungal growth through their
-higher lignin and cellulose content. Placement also matters: surface mulch favors
-fungi, while mulch incorporated into soil shifts dominance toward bacteria. This
-gives gardeners precise control over the
-[[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+and housing [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 by selecting the right material and application method.
 
 Mulch provides standard agronomic benefits including weed suppression through
@@ -51,12 +36,7 @@ soil-mulch interface, though this rarely affects deeper-rooted plants.
 
 ## Cover Crops
 
-[[cover-crops-soil-health]]
-
-Cover crops are plants grown specifically to benefit the soil rather than for
-harvest. They maintain living roots in the ground year-round, continuously feeding
-soil microbes through root exudates that serve as the primary energy source for
-the [[lowenfels-earthworms-soil-food-web]]. Without living roots, bacterial
+[[lowenfels-earthworms-soil-food-web]]. Without living roots, bacterial
 and fungal populations die back, protozoa and nematodes lose their food source,
 and nutrient cycling shuts down. Cover crops keep this entire biological system
 active.
@@ -70,24 +50,7 @@ beneficial insects. The main trade-off is that cover crops occupy growing space
 and time: they must be seeded, managed, and terminated before the next cash crop.
 
 Termination methods include cutting at soil level (preferred for no-till since it
-preserves [[mycorrhizal-networks]]), crimping with a roller-crimper, or soil
-incorporation (which disrupts fungal networks). Multi-species cover crop mixes
-combine several functions at once and feed a broader range of soil organisms.
-
-## Key Differences
-
-| Aspect | Mulch | Cover Crops |
-|--------|-------|-------------|
-| Nature | Applied organic material | Living plants grown in place |
-| Primary Input | Material (leaves, chips, straw) | Seed and management time |
-| Root Exudates | None | Continuous feeding of soil biology |
-| Nitrogen Fixation | None | Legumes fix atmospheric nitrogen |
-| Soil Structure | Surface protection only | Root channels improve porosity |
-| Weed Suppression | Physical barrier | Competition for light and space |
-| Erosion Control | Good surface protection | Root networks anchor soil |
-| Speed of Effect | Immediate upon application | Weeks to months to establish |
-| Cost | Varies by material source | Seed cost plus opportunity cost |
-| [[soil-life]] Impact | Decomposer food web | Full rhizosphere food web |
+preserves [[soil-life]] Impact | Decomposer food web | Full rhizosphere food web |
 | Fungal/Bacterial Control | Green vs brown material | Grass vs broadleaf species |
 | Compaction Relief | Minimal | Deep taproots break hardpan |
 | Reapplication | Annually or more often | Reseed each rotation cycle |
@@ -137,14 +100,9 @@ cover crop between rows provides continuous soil coverage and biology activation
 Many experienced growers apply compost first, then seed a cover crop, and top
 with additional mulch once terminated, creating a layered system that maximizes
 soil food web diversity across all trophic levels.
-
 ## See Also
-
-- [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 
 - [[comparison-biochar-vs-cover-crops]]
 
-- [[teaming-with-microbes-compost-mulch-tea]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[teaming-with-microbes-no-till-gardening-soil-health]]

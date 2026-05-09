@@ -116,19 +116,11 @@ Fukuoka insisted that there is no way to define or even describe God and nature.
 
 ## See Also
 
-- [[fukuoka-god-nature-and-man-as-one]]
-
 - [[fukuoka-god-nature-and-transcendent-world]]
-
-- [[fukuoka-god-nature-man-unity-philosophy]]
 
 - [[fukuoka-road-back-to-nature-overview]]
 
-- [[fukuoka-nature-as-teacher]]
-
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-
-- [[fukuoka-nature-is-unknowable]]
 
 - [[fukuoka-spiritual-philosophy-farming]]
 

@@ -34,28 +34,7 @@ Water molecules in soil are constantly being split by chemical reactions into
 hydrogen ions (H+) and hydroxyl ions (OH-). Clay and organic matter particles
 carry negative electrical charges that attract and hold hydrogen ions. As
 hydrogen ions accumulate on these surfaces, the soil becomes more acidic.
-Eventually, hydrogen ions occupy all available [[teaming-with-microbes-soil-minerals-cation-exchange]],
-and any additional hydrogen ions remain in solution, further lowering the pH.
-Conversely, in low-rainfall areas, weathering leaves sodium carbonate and
-other alkaline compounds in the soil. When water reacts with these compounds,
-hydrogen ions attach to clay and organic matter surfaces, while hydroxyl ions
-remain in solution, raising the pH.
-
-## How pH Affects Nutrient Availability
-
-The classic nutrient availability chart shows the relationship between pH and
-the availability of each of the fourteen essential mineral nutrients. The
-chart reveals that most nutrients are most available in the slightly acidic
-range of approximately 6.0 to 6.5. This is why most garden plants prefer a
-soil pH in this range.
-
-### Phosphorus and pH
-
-Phosphorus is particularly sensitive to pH. Below pH 6.0, phosphorus (as
-HPO4-2) bonds strongly with iron and aluminum cations, forming insoluble
-compounds that plants cannot access. Above pH 7.0, phosphorus reacts with
-calcium to form calcium phosphate, which is also largely unavailable. The
-sweet spot for [[phosphorus-availability]] is the narrow range around pH 6.0-6.5.
+Eventually, hydrogen ions occupy all available [[phosphorus-availability]] is the narrow range around pH 6.0-6.5.
 
 ### Nitrogen and pH
 
@@ -81,9 +60,7 @@ from growth and maintenance to rhizosphere management. When soil pH is far
 from optimal, the energy cost becomes substantial, resulting in poorer growth.
 This is why gardeners should manage pH proactively.
 
-## Cation Exchange Capacity and pH Buffering
-
-[[teaming-with-microbes-soil-minerals-cation-exchange]]
+## [[teaming-with-microbes-soil-minerals-cation-exchange]]
 is the soil's ability to hold positively charged nutrient ions on the surfaces
 of clay and organic matter particles. CEC ranges from 0 to 100, the latter
 being pure humus with lots of cations. CEC is directly related to pH
@@ -108,35 +85,6 @@ with low-CEC soils, because there would be nothing left by spring due to
 runoff.
 
 ## Testing pH
-
-[[soil-testing]] is the only reliable way to know your soil's pH. Home test kits
-exist but vary in accuracy. Laboratory testing provides more precise results
-and should include both the actual pH (the pH of soil mixed with water,
-representing what the plant experiences) and the buffer pH (the soil's
-resistance to pH change, which determines amendment rates).
-When taking soil samples, use wooden and plastic tools and containers to avoid
-contaminating the sample. Brass, bronze, and galvanized tools can release
-copper or zinc into the samples, distorting results. For gardens, take
-samples down to 6 inches; for lawns, 4 inches from the base of the plant
-down. Take several samples in each area and mix them together.
-A key factor that distinguishes laboratories is their reports. It is
-important to find a laboratory that provides the right kind of information,
-presented in a format that you can understand and interpret. Government
-agencies such as Cooperative Extension Services and universities often
-provide straightforward soil testing results. Home testing kits typically
-only test for nitrogen, phosphorus, and potassium -- but there are fourteen
-essential mineral nutrients, not just three, so these kits are of limited
-value.
-When interpreting pH test results, consider the plants being grown. Most
-vegetables, flowers, and lawn grasses prefer pH 6.0-6.5. Acid-loving plants
--- azaleas, blueberries, potatoes, pines, hollies, camellias, and
-rhododendrons -- prefer pH 4.5-5.5 and have evolved mechanisms for accessing
-nutrients in acidic conditions.
-Water quality also affects soil pH. Irrigation water should be tested when
-soil is first tested. In areas with alkaline irrigation water, soil pH will
-tend to drift upward over time regardless of amendment practices.
-
-## Raising pH (Correcting Acidic Soils)
 
 [[acid-and-alkaline-soil-management]] (below pH 6.0) are common
 in high-rainfall areas where leaching removes calcium and magnesium. The

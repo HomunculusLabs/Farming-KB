@@ -3,18 +3,7 @@ title: Mobile Greenhouse Crop Rotation Patterns
 created: 2026-04-28
 tags:
   - crop-rotation
-  - greenhouse-design
-  - mobile-greenhouse
-  - season-extension
-  - intensive-cropping
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3erpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-type: concept
----
-
-# Mobile Greenhouse [[jeavons-crop-rotation-system]] Patterns
+  - [[jeavons-crop-rotation-system]] Patterns
 
 Mobile greenhouses enable multi-crop and multi-season rotations that
 would be impossible with static structures. By moving a greenhouse
@@ -144,6 +133,5 @@ increase in capital investment for a movable house compared to a
 static house is repaid many times over through extended seasons and
 increased total production.
 
-See also [[coleman-moveable-greenhouse-system]],
-[[coleman-cover-crop-rotation-and-soil-health]], and
+See also [[coleman-cover-crop-rotation-and-soil-health]], and
 [[coleman-succession-planting]].

@@ -9,7 +9,7 @@ sources:
 ---
 # Psilocybe Section Classification
 
-The genus [[psilocybe-subaeruginosa-australia]], the largest group of [[neurotropic-fungi-world-checklist]]
+The genus [[neurotropic-fungi-world-checklist]]
 with 116 species recognized by Guzman, Allen & Gartz (1998), is divided into several taxonomic
 sections based on morphological and chemical characteristics. These sections are important for
 understanding both taxonomy and biogeographic patterns.
@@ -92,13 +92,7 @@ hallucinogenic:
 
 ## Related Topics
 
-- [[neurotropic-fungi-world-checklist]] - Complete checklist of all 216 species
 - [[neurotropic-fungi-biogeographic-patterns]] - How sections correlate with geography
-- [[neurotropic-fungi-in-mexico]] - Center of Psilocybe diversity
 - [[neurotropic-fungi-in-oceania]] - Trans-Pacific section distributions
-- [[psychedelic-mushrooms-species-and-identification]] - Type species of Section Mexicanae
-
-Source: Guzman, Allen & Gartz (1998), "A Worldwide Geographical Distribution of the Neurotropic
-Fungi," Ann. Mus. civ. Rovereto 14: 189-280.
 - [[psilocybin-north-america-pacific-northwest]]
 - [[neurotropic-fungi-in-central-america]]

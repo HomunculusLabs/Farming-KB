@@ -125,13 +125,8 @@ published as of 2026.
 
 ## See Also
 
-- [[silene-undulata]]
-
 - [[mimosa-tenuiflora]]
-- [[calea-zacatechichi]]
 - [[entada-rheedii]]
 - oneirogens
-- [[ethnobotany-of-psychedelic-fungi]]
-- saponins
 - [[calea-zacatechichi]]
 - [[entada-rheedii]]

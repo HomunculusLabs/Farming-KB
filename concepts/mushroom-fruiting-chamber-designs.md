@@ -3,17 +3,7 @@ title: Mushroom Fruiting Chamber Designs
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
----
-# Mushroom Fruiting Chamber Designs
-
-A fruiting chamber provides the controlled environment necessary for mushrooms to form and mature. The key parameters are humidity, fresh air exchange (FAE), temperature, and light. This page covers the major chamber designs from simple to advanced.
-
-## PF Dual Chambered Terrarium
-
-The original fruiting chamber designed by [[pf-tek-psilocybe-fanaticus-cultivation-method]] for use with PF TEK cakes. Built from a standard 10-gallon aquarium.
+tags: [[pf-tek-psilocybe-fanaticus-cultivation-method]] for use with PF TEK cakes. Built from a standard 10-gallon aquarium.
 
 ### Components
 - **10-gallon aquarium**: The main chamber body
@@ -89,17 +79,7 @@ For commercial-scale cultivation, Stamets describes integrated systems:
 
 ## Panaeolus Fruiting Setup
 
-[[panaeolus-cyanescens-bali-omelette]] and P. tropicalis require modified setups:
-- Substrate spawned in autoclave bags
-- After colonization, substrate is transferred to a plastic bin with polyfill-stuffed holes
-- Covered with 1-1.5 cm sterilized casing soil
-- Covered with polyethylene wrap for case run (5-6 days)
-- Once mycelium shows on casing, a second bin is placed upside-down on top (with mesh-covered holes) to create a "mini-greenhouse"
-- These species are extremely sensitive to CO2 -- insufficient FAE causes tall, spindly mushrooms with small caps and many aborts
-
-## Outdoor Beds (Woodlovers)
-
-See [[outdoor-wood-lover-cultivation]] for outdoor fruiting chamber alternatives. Outdoor beds are covered with perforated plastic during colonization and uncovered for fruiting in autumn.
+[[outdoor-wood-lover-cultivation]] for outdoor fruiting chamber alternatives. Outdoor beds are covered with perforated plastic during colonization and uncovered for fruiting in autumn.
 
 ## Key Design Principles
 
@@ -117,13 +97,7 @@ See [[outdoor-wood-lover-cultivation]] for outdoor fruiting chamber alternatives
 - Abortive primordia
 - Cracking or splitting of stems and caps
 
-See [[mushroom-lighting-and-environmental-requirements]] for detailed environmental parameters.
-
-## See Also
-
-- [[fruiting-chamber-design]]
-- [[oyster-mushroom-species-fruiting-parameters]]
+See [[fruiting-chamber-design]]
 - [[mushroom-cultivation-fruiting-chambers]]
-- [[pf-tek-fruiting-chamber]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[fruiting-chamber-design]]

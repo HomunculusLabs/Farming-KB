@@ -18,19 +18,7 @@ One of the farming methods being studied in Japan is the same organic farming th
 
 - On the surface, organic farming and natural farming appear similar, but consider this carefully before you decide
 
-Fukuoka insisted that organic farming and [[fukuoka-natural-farming]] are fundamentally different approaches, even though they may look similar from the outside. The distinction lies not in the materials used but in the philosophical foundation and the relationship to nature that each implies.
-
-## The Philosophical Foundation
-
-Natural farming arose from a religious view that all is unnecessary. The starting point is the philosophy that rejects the human intellect and denies that objects and human actions have any value.
-
-- Organic farming says: nature is deficient, so we must add organic matter to compensate
-
-- Natural farming says: nature is complete; any addition is unnecessary interference
-
-- Organic farming still operates within the framework of scientific agriculture, using knowledge to improve upon nature
-
-- Natural farming operates from the position of [[fukuoka-mu-economics-and-value-of-nothing-essay]], rejecting knowledge itself as a guide
+Fukuoka insisted that organic farming and [[fukuoka-mu-economics-and-value-of-nothing-essay]], rejecting knowledge itself as a guide
 
 - Organic farming is a reaction against chemical agriculture; natural farming is a rejection of all human agricultural knowledge
 
@@ -68,7 +56,7 @@ Fukuoka's teacher is nature itself. Nature is always perfect in every case. Othe
 
 - Even a small ego becomes capable of summoning great strength
 
-This connects to [[fukuoka-nature-as-teacher]] and [[fukuoka-science-continues-rampage]].
+This connects to [[fukuoka-science-continues-rampage]].
 
 ## Transcends Past and Future
 
@@ -82,41 +70,13 @@ Natural farming is a way of farming that transcends past and future. It is a way
 
 - If people were able to live off the land as easily as birds pecking for their food, one would expect this to survive as an enjoyable way of natural farming
 
-See [[fukuoka-natural-farming-transcends-time-space]].
-
-## A Method Beyond Science
-
-Natural farming is a method that actually goes a step beyond science. The proof is that over twenty years, Fukuoka had not read a single book on the topic, and yet had managed to stay at the forefront of rice cultivation practices in Japan.
-
-- Try comparing the findings Fukuoka reported ten years ago with what agricultural testing centers have been doing thereafter
-
-- Most prefectural centers are now doing what one lone farmer tried a decade ago, arriving at the same conclusions -- but ten years after him
-
-- Fukuoka's purpose was not to boast but to note that he walks always the shortest road
-
-- His teacher is nature itself, which is always perfect in every case
-
-## The Direction of Movement
-
-Natural farming remains of course incomplete, but it is gradually moving, and must move, toward the rejection of science. Natural farming arose from the same ignorance as that of children. It may well be that only ignorant children can develop new natural ways of farming. When Fukuoka talks of the non-value of all things, this applies as well to the thing called nature that is observed by man.
-
-## See Also
-
-- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
-
-- [[fukuoka-natural-farming-vs-organic-farming]]
+See [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 
 - [[fukuoka-critique-organic-farming-ecology]]
 
-- [[fukuoka-critique-organic-certification]]
-
 - [[fukuoka-natural-farming-philosophy]]
 
-- [[fukuoka-natural-vs-scientific-farming]]
-
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-
-- [[fukuoka-four-principles-natural-farming]]
 
 - [[fukuoka-nature-as-teacher]]
 

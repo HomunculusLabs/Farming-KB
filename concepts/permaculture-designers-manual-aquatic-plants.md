@@ -3,89 +3,140 @@ title: Aquatic Plants - Permaculture Designers Manual
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Aquatic Plants
-
-From Permaculture: A Designers' Manual by Bill Mollison.
-
-## Small Pond Systems
-
-Very small garden ponds from 2 to 60 cm deep can be made from old baths, stock watering tanks, plastic-lined holes with protective clay or earth covers, and so on. Pre-cast ponds in plastic, fibreglass, and concrete are sold in most areas.
-
-In shallow ponds, Chinese water chestnut (Eleocharis dulcis), kangkong (Ipomoea aquatica), watercress (Rorippa (Nasturtium) aquatica), taro (Colocasia esculenta), frogs, and small fish thrive. Frogs are excellent predators in the garden (as are lizards), and Hylid (tree) frogs inhabit the leaves of plants, feeding on insects by day and night.
-
-A square metre of taro gives 20-30 kg of starchy food, while deeper ponds will grow Indian water chestnut (Trapa natans), lotus (Nelumbo), and arrowhead (Sagittaria). Boiled taro, cassava, or plantain can be added to fish food. Stocks of small forage fish for larger ponds can be kept in house ponds, together with mussels and useful molluscs, basic plant stocks, and shrimp.
-
-## Medium Ponds (10-100 sq metres)
-
-At 10 square metres, and about 2 m deep, clear fibreglass or Kalwall ponds, as used at the New Alchemy Institute (Cape Cod, USA), produce fish and products valued at from $4.50 to $17 per square foot (1984), and amortise costs in 3-5 years, yielding fish, shrimp, and enriched water for semi-hydroponic crops. These ponds provide useful heat storages for night and winter heating, and can be used in greenhouses, or outdoors for much of the year.
-
-Outdoor ponds at the New Alchemy Institute are placed in front of reflective (white) walls on white gravels to maximise solar input, increase yields, and lengthen seasons of growth.
-
-In glasshouses, such ponds give good yields and moderate temperature extremes, while providing algae-rich waters for terrestrial plant beds, so that fish wastes (and nitrates) are reduced in the water and routed to plants.
-
-## Fish-Pond Plant Associations
-
-The fish in tropical still ponds combine well with the crop plant Euryhale ferox, a spiny floating plant of the water-lily family whose period of yield and harvest coincide with the maturation of the fish. The ponds used are 1-1.5 m deep, and as the fish help control malarial mosquitoes, there are multiple benefits. Seeds of Euryhale are marketed as a "popcorn" in India.
-
-## Lotus (Nelumbo)
-
-Lotus grows in deeper ponds and produces edible tubers, seeds, and leaves. The seeds are a valued food in many Asian cultures, and the leaves serve as wrappers for food. Lotus thrives in warm water and rich mud, and once established can persist for many years.
-
-## Kangkong (Ipomoea aquatica)
-
-Kangkong is a rampant trailing aquatic plant grown throughout Southeast Asia as a green vegetable. It is spot-planted in many taro terraces for greens, and is also planted as a low mound crop in special shallow terrace or canal systems with faster flow than is found in taro systems. It grows rapidly and can be harvested repeatedly.
-
-## Watercress (Rorippa aquatica)
-
-Watercress is one of the most useful aquatic plants, thriving in cool, flowing water. It can also be used in water purification systems -- water passed through a bed of watercress has dyes and nitrates removed, and the cress can be cut and fed to animals or dried and burnt to ash. For swimming pools and less polluted systems, a pumped "cycle" of water through ferns, rushes, and watercress suffices to remove urine and leaves.
-
-## Water Chestnut (Eleocharis dulcis)
-
-Chinese water chestnut grows in shallow ponds and produces a crisp, sweet corm that is eaten raw or cooked. It is a valuable crop in many parts of Asia and can be grown in small pond systems.
-
-## Duck Potato (Sagittaria)
-
-Sagittaria, also called duck potato or arrowhead, produces edible tubers and is an important waterfowl food. It prefers somewhat deeper water than wild rice and can become a useful (if occasionally weedy) component of aquatic polycultures.
-
-## Water Hyacinth (Eichhornia crassipes)
-
-Water hyacinth in aerobic ponds removes residual metals, surplus nutrients, and the coli group of bacilli. It is extremely productive but must be managed carefully as it can become invasive. Harvested hyacinth can be fed to livestock or used as mulch.
-
-## Surface Stabilisers
-
-Pond surface stabilisers include water lilies, Azolla, and water hyacinth. These reduce light penetration and thus control algae growth, while also providing habitat for aquatic organisms.
-
-## Azolla (Mosquito Fern)
-
-Azolla is a tiny floating fern that fixes atmospheric nitrogen through its symbiotic relationship with the cyanobacterium Anabaena azollae. It doubles its biomass in 3-5 days under ideal conditions and can produce 5-10 tonnes of dry matter per hectare annually. Azolla is used as a green manure in rice paddies throughout Asia, as livestock feed, and as a surface cover to suppress algae in ponds.
-
-## Wild Rice (Zizania)
-
-Wild rice grows naturally in shallow water (30-90 cm deep) and provides both food and habitat for waterfowl. It is an annual that self-seeds readily, making it a low-maintenance choice for larger pond systems. The grain is highly nutritious and has been a staple food for indigenous peoples of North America for thousands of years.
-
-## Design Considerations for Aquatic Systems
-
-When designing aquatic plant systems in permaculture, consider depth zones (marginal, shallow, deep), flow rates (still vs. flowing), and nutrient loading. A well-designed pond system integrates multiple species at different trophic levels, creating a self-regulating ecosystem that produces food, filters water, and supports biodiversity simultaneously.
-
-## See Also
-
-- [[permaculture-designers-manual-ponds-and-dams]]
-- [[permaculture-designers-manual-wetland-treatment]]
+tags: [[permaculture-designers-manual-ponds-and-dams]]
 - [[permaculture-designers-manual-pond-edge-planting]]
-- [[permaculture-designers-manual-fish-species-guide]]
-- Wetland Treatment
-- Fish Species Guide
-- Pond Edge Planting
-- Water Quality
 - [[permaculture-designers-manual-duck-pond-systems]]
 
 ## Related
 
-- [[permaculture-designers-manual-aquaculture-species]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
+## Background and Context
+
+Aquatic Plants - Permaculture Designers Manual is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

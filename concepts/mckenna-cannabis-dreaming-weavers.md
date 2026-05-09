@@ -124,10 +124,7 @@ effects associated with hallucinogens.
 
 ## See Also
 
-- [[mckenna-archaic-revival]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
-- [[ethnomycology]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
+- ethnomycology
 - [[mckenna-television-dominator-drug]]
-- [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]

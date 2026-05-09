@@ -127,12 +127,8 @@ seeds (like popcorn) is a common preparation method in the Andes.
 
 ## See Also
 
-- [[chenopodium-album]]
 - [[amaranthus-retroflexus]]
-- [[amaranthus-palmeri]]
 - [[ipomoea-batatas]]
-- [[moringa-oleifera]]
 - [[colocasia-esculenta]]
-- [[dioscorea-alata]]
 - [[xanthosoma-sagittifolium]]
 - [[tropaeolum-majus]]

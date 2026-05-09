@@ -137,8 +137,6 @@ specificity patterns.
 
 ## See Also
 
-- [[mycorrhizal-symbiosis]]
 - [[ericoid-mycorrhiza]]
-- [[piriformospora-indica]]
 - [[mycorrhizal-siderophores]]
 - [[endophytic-fungi]]

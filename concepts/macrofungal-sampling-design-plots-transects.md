@@ -121,14 +121,7 @@ Macrofungi are sensitive to air pollution, logging, hurricanes, volcanic eruptio
 
 - [[macrofungal-sampling-protocols]]
 
-- [[recommended-protocols-sampling-macrofungi]]
 - [[fungal-diversity-indices-community-analysis]]
-- [[fungal-species-richness-and-diversity-indices]]
-
-## Related
-
 - [[macrofungal-documentation-photography-spore-prints]]
-- [[fungal-specimen-preparation-herbarium-management]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-monitoring-long-term-studies]]
 - [[fungi-forest-fire-succession-litter-dighton]]

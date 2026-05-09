@@ -140,8 +140,5 @@ from morphologically similar polypore genera.
 
 ## See Also
 - [[inonotus-obliquus]]
-- [[inonotus-obliquus-entity]]
-- [[phellinus-igniarius-entity]]
 - [[fomes-fomentarius]]
-- [[ganoderma-applanatum]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

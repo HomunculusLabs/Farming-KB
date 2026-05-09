@@ -457,13 +457,13 @@ and policy advocacy.
 - [[cover-crop-guide-detailed]] -- comprehensive cover crop selection and
   management
 - [[cover-cropping-guide]] -- cover crop families and strategies
-- [[cover-crops-and-soil-health]] -- cover crops in the soil food web
+- [[cover-crops-soil-health]] -- cover crops in the soil food web
   framework
 - [[silvopasture-systems]] -- integrating trees, forage, and livestock
 - [[holmgren-living-soil-ethic]] -- the ethical foundation of regenerative
   practice
 - [[fukuoka-living-soil]] -- Fukuoka's understanding of soil ecology
-- [[fukuoka-no-till-rice-barley-succession]] -- no-till grain production
+- [[fukuoka-no-tillage-rice-barley-succession]] -- no-till grain production
   in practice
 - [[permaculture-two-design-principles]] -- the design framework behind
   regenerative agriculture

@@ -107,11 +107,7 @@ that touching true nature connects one to something transcendent.
 
 ## See Also
 
-- [[fukuoka-what-is-nature]]
 - [[fukuoka-critique-darwinian-evolution]]
-- [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-nature-perfect-imperfect]]
-- [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
-- [[fukuoka-vegetable-disease-insect-resistance]]
 - [[fukuoka-natural-farming-transcends-time-space]]

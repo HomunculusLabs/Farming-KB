@@ -17,20 +17,7 @@ type: concept
 # IMO Collection from Bamboo Stump and Paddy Field
 
 Dr. Cho's Korean Natural Farming system describes multiple methods for
-collecting [[indigenous-microorganisms-imo]] (IMOs). Beyond the standard
-forest-floor collection method, two specialised techniques target unique
-microbial communities: collection from bamboo stumps and from harvested
-rice paddy fields. These methods capture distinct microbial populations
-adapted to specific ecological niches.
-
-## Standard IMO Collection Context
-
-All IMO collection methods follow the same basic pattern: steamed rice
-is placed in a collection vessel, exposed at a specific site for
-several days, then the colonised rice is preserved with sugar to create
-IMO-2. The specialised methods differ in collection site, the type of
-microbes attracted, and the specific advantages of those microbial
-communities. See [[cho-indigenous-microorganisms-collection-and-cultivation]] for the standard forest method.
+collecting [[cho-indigenous-microorganisms-collection-and-cultivation]] for the standard forest method.
 
 ## Method 1: Bamboo Stump Collection
 
@@ -118,33 +105,13 @@ decomposition and disease suppression.
 ### Advantages of Paddy-Collected IMOs
 
 The Bacillus species from rice paddies serve specific functions in the
-[[natural-farming-soil-management]] system: rapid decomposition of crop
-residues, disease suppression through competitive exclusion, enhanced
-nutrient cycling in rice-based systems, and effective fibre breakdown
-for composting operations.
-
-## Sugar Quality Notes
-
-For all IMO methods, sugar quality matters significantly. The closer
-sugar is to its natural state, the more effective IMO preservation.
-Brown sugar is advisable; crude unrefined jaggery is preferred. White
-refined sugar is not recommended as it lacks trace minerals supporting
-microbial health.
-
-## Integration with IMO Stages
-
-Both bamboo and paddy-collected IMO-1 feed into the standard
 [[knf-imo-four-stage-cultivation]] process:
 
 - **IMO-2**: Preservation with sugar (described above)
 - **IMO-3**: Expansion on rice bran (mass cultivation)
 - **IMO-4**: Final soil-ready form mixed with field soil
-
 ## Related Concepts
 
-- [[cho-indigenous-microorganisms-collection-and-cultivation]]
 - [[indigenous-microorganisms-imo]]
-- [[knf-imo-four-stage-cultivation]]
 - [[natural-farming-soil-management]]
-- [[bionutrients-lab-indigenous-microorganisms-imo]]
 - [[imo-collection-multi-stage-cultivation]]

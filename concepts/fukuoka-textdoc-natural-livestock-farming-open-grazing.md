@@ -135,11 +135,10 @@ state and what form such a return would take.
 
 ## See Also
 
-- [[fukuoka-textdoc-three-ways-farming-compared]] for the
-philosophical framework comparing natural, scientific, and traditional
-farming
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]] for Fukuoka's critique of inductive methodology
-- [[fukuoka-textdoc-greening-deserts-plant-irrigation]] for related
-ecological restoration approaches
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] for the
 parallel approach to plant cultivation
+
+## See Also
+
+- [[fukuoka-textdoc-natural-livestock-open-grazing]]

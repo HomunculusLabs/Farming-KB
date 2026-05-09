@@ -22,42 +22,6 @@ recover valuable resources, but they address different waste streams with
 different biological processes and face different regulatory landscapes.
 
 ## Composting Toilets
-[[composting-toilets]]
-Composting toilets treat human waste through aerobic decomposition, converting
-feces and urine into nutrient-rich compost over 6 to 12 months. They work by
-keeping waste separate from the water supply, processing it on-site through
-biological decomposition, and returning the resulting compost to soil as
-fertilizer. Bill Mollison argued that conventional flush toilets are one of
-civilization's greatest design errors: they contaminate approximately 13,000
-liters of clean water per year per toilet to transport a few kilograms of
-waste into waterways where it causes eutrophication and ecosystem damage.
-
-Three main types exist. Batch systems use two or more chambers or containers:
-while one is in active use, the other composts for 6 to 12 months. Continuous
-systems have a single large chamber where waste moves gradually through the
-decomposition process; they are larger and more expensive but handle higher
-volumes. Dry toilet (humanure) systems, popularized by Joseph Jenkins, are the
-simplest approach: a toilet seat mounted over a bucket, with each use covered
-by carbon-rich material (sawdust, straw, coco coir, rice hulls). The covered
-material is deposited in an outdoor composting bin for 6 to 12 months of
-decomposition.
-
-Pathogen destruction depends on time, temperature, and microbial competition.
-Even without sustained high temperatures, extended composting of 6 to 12
-months reduces pathogen populations to safe levels through competitive
-exclusion by thermophilic and mesophilic microorganisms. When composting
-temperatures reach 55 degrees C for at least three days, pathogens including
-Salmonella, Shigella, and hookworm eggs are destroyed.
-
-Moisture management is critical. Compost should feel like a wrung-out sponge.
-Too dry and decomposition stalls; too wet and the system goes anaerobic,
-producing foul odors. Urine diversion systems significantly reduce moisture
-management challenges, and diverted urine can be diluted and used directly as
-a high-nitrogen fertilizer. The finished compost is safest when applied to
-fruit trees, berry bushes, and ornamental plants rather than root vegetables
-or leafy greens consumed raw.
-
-## Greywater Systems
 [[greywater-systems-detailed]]
 Greywater systems collect, treat, and reuse wastewater from household sources
 other than toilets: sinks, showers, bathtubs, and washing machines. A well-
@@ -138,7 +102,5 @@ Mollison placed at the center of his permaculture waste-free design
 philosophy.
 
 ## See Also
-- [[water-harvesting-techniques-comparison]] — broader water management strategies
 - [[constructed-wetland-design]] — advanced greywater treatment
-- [[vermicomposting]] — alternative waste processing with worms
 - [[permaculture]] — design framework that integrates both systems

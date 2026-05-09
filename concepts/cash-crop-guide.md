@@ -119,11 +119,7 @@ Blackberries are invasive but can be managed:
 
 ## Related Topics
 
-- [[farmers-market-selling-guide]] — direct market sales
 - [[community-supported-agriculture-csa]] — CSA details
-- [[holzer-stone-fruit-varieties-and-growing]] — specific berry crop
 - [[strawberry-growing-guide]] — strawberry production
-- [[right-livelihood-and-permaculture-business]] — permaculture business principles
 - [[greenhouse-growing-guide]] — greenhouse cash crops
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[holzer-fruit-tree-planting-method]]

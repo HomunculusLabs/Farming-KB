@@ -1,5 +1,5 @@
 ---
-title: "Avalanche Awareness and Snow Stability in Permaculture Settlement"
+title: Mollison Designers Avalanche Awareness And Snow Stability
 created: 2026-04-26
 tags:
   - permaculture
@@ -122,28 +122,9 @@ set of strategies:
 
 A new threat follows on the death of steep slope forests by acid
 rain damage, which removes the natural stabilising effect of tree
-cover. [[mollison-designers-windbreak-configurations-for-crops-and-orchards]] and forest preservation are thus
-directly connected to avalanche prevention.
+cover. [[mollison-designers-snow-ice-and-winter-design-strategies]],
+[[mollison-settlement-siting-on-slopes-and-landscape-profile]].
 
-## Permafrost Considerations
+## See Also
 
-In areas underlain by permafrost (permanently frozen ground),
-which occupies 47-50% of Canada, Russia, and Greenland, peaty
-surfaces both prevent melting and rapidly admit cold, thus
-preserving stability. Either by clearing, fire, or overgrazing
-plus ice particle scour (ice particles at minus 40 degrees C are as
-hard and abrasive as sand), the peaty layers can be eroded or
-removed, triggering rapid thaw. Thawed areas can reach 20-45 m
-deep in a few years, with severe erosion effects.
-
-Much permafrost is fossil, at times to 400 m thick, so normal
-melting under peat is slow; earth heat from below reduces
-thickness only about 1 cm per year. In such harsh areas, soils
-are formed only as a result of frost shattering of rock, and both
-soils and rocks are sorted by ice action and thaw (gelifluction).
-
-## Connection to Broader Design
-
-Avalanche awareness connects to [[mollison-designers-snow-ice-and-winter-design-strategies]],
-[[mollison-frost-protection-and-thermal-belt-design]],
-and [[mollison-settlement-siting-on-slopes-and-landscape-profile]].
+- [[mollison-designers-introduction-to-permaculture-philosophy]]

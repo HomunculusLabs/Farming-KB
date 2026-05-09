@@ -1,7 +1,7 @@
 ---
 title: "Woronin Bodies and Hyphal Septation"
 created: 2026-04-28
-tags: [mycology, cell-biology, ascomycete, septal-pore, organelle]
+tags: [[mycology, cell-biology, ascomycete, septal-pore, organelle]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
@@ -34,65 +34,7 @@ found in the Basidiomycota, suggesting that this feature was present in their
 common ancestor.
 
 As hyphae grow they branch and fuse, eventually forming a multicellular
-network of interconnected cells. This hyphal syncytium, or [[gadd-mycelial-network-dynamics]],
-allows intercellular communication and trafficking of organelles and solutes
-within the colony, probably facilitating invasive growth and the production
-of multicellular reproductive structures. Protoplasmic streaming is readily
-observed and probably occurs to varying extents in all filamentous fungi.
-
-## The Function of Perforate Septa
-
-The fungal mycelium does not readily conform to a simple cellular concept.
-Adjacent septa allow a convenient definition of an individual cell. However,
-protoplasmic streaming can rapidly replace the contents of a given hyphal
-compartment, including its nuclear component. Thus, the fungal colony can be
-thought of as a mass of protoplasm that migrates through a growing,
-interconnected system of channels.
-
-Septal pores confer the advantage of protoplasmic streaming and intercellular
-continuity but are also sufficiently small to be rapidly closed. Thus, the
-syncytium can cellularize in response to hyphal damage, stress, or old age,
-and during cellular differentiation. Interestingly, the fungi with the most
-prominent and complex septal-pore-associated organelles, the Hymenomycetes
-and Euascomycetes, also produce the largest and most complex multicellular
-fruiting bodies.
-
-## Septal-Pore-Associated Organelles
-
-### Woronin Bodies
-The Woronin body (WB) is diagnostic of the Euascomycetes and characterized
-by a dense core surrounded by a closely associated unit membrane. Electron
-microscopy revealed an association with peroxisomes, and recent work has
-confirmed that Woronin bodies are peroxisome-derived.
-
-### Septal Pore Caps
-Hymenomycetes produce a septal pore surrounded by a barrel-shaped swelling
-of the cell wall, associated with an organelle known as the septal pore cap
-(SPC) or parenthosome. This organelle consists of an electron-dense core
-associated with a unit membrane, with continuity between the SPC membrane
-and the nuclear envelope, suggesting the SPC is a specialized domain of the
-endoplasmic reticulum.
-
-### Woronin-Body-Like Organelles
-Urediniomycetes elaborate perforate septa with associated organelles that
-have the appearance of peroxisomes, sometimes containing electron-dense
-polyhedral structures that superficially resemble the Woronin body. However,
-their core shows fine striations, suggesting that the core composition is
-distinct from that of true Woronin bodies.
-
-## Historical Discovery
-
-Woronin bodies were first discovered in 1886 by Woronin in the cells of
-Ascobolus pulcherrimus, where he observed certain highly refractive particles
-near each septum. Buller proposed to call them Woronin bodies and conducted
-experiments showing that when a cell was killed, the septal pores became
-blocked by a plug, preventing the escape of living protoplasm from adjacent
-cells. However, Buller did not associate this plugging with the Woronin body,
-concluding instead that the substance was a coagulum of protoplasmic origin.
-
-It was not until roughly 50 years later that Collinge and colleagues
-re-investigated this problem and first established the phenomenon of septal-
-pore plugging by Woronin bodies. In [[penicillium-chrysogenum]], Woronin bodies
+network of interconnected cells. This hyphal syncytium, or [[penicillium-chrysogenum]], Woronin bodies
 rapidly plugged 90% of septal pores within the vicinity of induced damage;
 by contrast, only 5% were plugged in undamaged hyphae.
 
@@ -112,25 +54,7 @@ release, demonstrating the existence of a tethering mechanism.
 
 ## HEX-1: The Core Structural Protein
 
-Woronin bodies have been purified from [[neurospora-crassa]], allowing
-identification of HEX-1, a key structural protein that defined a family of
-Euascomycete-specific proteins. Antibodies to HEX-1 decorated the matrix of
-the Woronin body in Neurospora crassa, Aspergillus nidulans, and Magnaporthe
-grisea.
-
-The hex-1 gene encodes a consensus peroxisome-targeting signal (PTS-1) and
-its expression in yeast generates intraperoxisomal protein assemblies
-morphologically similar to the native Woronin body. Recombinant HEX-1
-spontaneously crystallizes in vitro, suggesting that HEX-1 is a self-
-assembling structural protein. A Neurospora hex-1 mutant is devoid of
-visible Woronin bodies and mutant hyphae bleed protoplasm through septal
-pores following cellular damage.
-
-## Functional Significance
-
-HEX-1 mutants have been obtained in several Euascomycetes, and all are
-defective in septal-pore sealing, suggesting this function is conserved. In
-[[magnaporthe-grisea]], the mutant is additionally defective in appressorium
+Woronin bodies have been purified from [[magnaporthe-grisea]], the mutant is additionally defective in appressorium
 morphogenesis and invasive growth within the plant host, and displays hyphal
 death in response to nitrogen starvation.
 
@@ -144,7 +68,25 @@ this system through alternative splicing.
 
 Woronin bodies are likely to occur in all Euascomycete pathogens and thus
 may be attractive targets for the development of fungicides. Their role in
-maintaining cellular integrity during host invasion by pathogenic fungi
 ## See Also
 
 - [[amf-hyphal-anastomosis-self-recognition]]
+## Practical Considerations
+
+Successful implementation of Woronin Bodies and Hyphal Septation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

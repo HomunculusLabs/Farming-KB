@@ -137,12 +137,8 @@ responsible for its spread.
 
 ## See Also
 
-- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]
-
 - [[peyote-and-mescaline]]
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-amanita-muscaria-and-soma]]
-- [[golden-guide-morning-glory-and-ololiuqui]]
 - [[golden-guide-datura-and-nightshade-deliriants]]
 - [[golden-guide-ayahuasca-and-caapi]]

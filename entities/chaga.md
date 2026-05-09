@@ -23,7 +23,7 @@ created: 2026-05-07
 
 # Chaga
 
-Chaga (*Inonotus obliquus*) is a sterile conk (sclerotium) that forms on living trees of the genus *Betula* (birch) as a parasitic fungal growth. Despite being one of the most commercially popular medicinal mushrooms globally, the visible chaga "conk" is not the fruiting body — it is a dense mass of mycelium and wood tissue formed as a pathogenic response to the fungus *I. obliquus* colonizing the living tree. The actual fruiting body, a shelf-like polypore, develops only after the host tree dies and is rarely encountered in commerce. Chaga is native to the circumboreal forests of the Northern Hemisphere, occurring across Siberia, Scandinavia, Canada, the northern United States, and parts of Central and Eastern Europe.
+Chaga (*[[medicinal-mushrooms]] globally, the visible chaga "conk" is not the fruiting body — it is a dense mass of mycelium and wood tissue formed as a pathogenic response to the fungus *I. obliquus* colonizing the living tree. The actual fruiting body, a shelf-like polypore, develops only after the host tree dies and is rarely encountered in commerce. Chaga is native to the circumboreal forests of the Northern Hemisphere, occurring across Siberia, Scandinavia, Canada, the northern United States, and parts of Central and Eastern Europe.
 
 ## Taxonomy
 
@@ -53,20 +53,7 @@ The actual fruiting body is a sessile or effused-reflexed polypore, 5–30 cm wi
 
 ## Host Range and Ecology
 
-Chaga is primarily associated with **birch species** (*Betula pendula*, *B. papyrifera*, *B. platyphylla*), which provide the highest concentrations of the bioactive compound betulin/betulinic acid that the fungus converts to inotodiol. The fungus has also been documented on:
-
-- *Alnus* (alder) — reduced medicinal quality
-- *Fagus* (beech) — rare
-- *Quercus* (oak) — rare
-- *Fraxinus* (ash) — occasional
-
-Chaga functions as a **white-rot pathogen**, causing a slow heartwood decay that may kill the host over 10–80 years. In healthy forest ecosystems, the resulting deadwood habitat supports diverse saproxylic communities.
-
-## Chemical Composition
-
-### Polysaccharides
-
-Beta-glucans (β-(1→3)(1→6)-D-glucans) constitute the primary immunomodulatory component, accounting for 30–50% of the dry weight of chaga extract. These polysaccharides activate immune responses via dectin-1 receptor signaling and NF-κB pathway modulation.
+Chaga is primarily associated with **birch species** (*[[beta-glucans]] (β-(1→3)(1→6)-D-glucans) constitute the primary immunomodulatory component, accounting for 30–50% of the dry weight of chaga extract. These polysaccharides activate immune responses via dectin-1 receptor signaling and NF-κB pathway modulation.
 
 ### Triterpenoids
 
@@ -134,6 +121,5 @@ Wild chaga populations face increasing pressure from commercial harvest. Key sus
 
 ## See Also
 
-- [[chaga-inonotus-obliquus-medicinal-profile]]
 - [[medicinal-mushroom-extraction-preparation]]
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

@@ -109,20 +109,10 @@ MS patients often take multiple medications. Monitor for interactions with:
 
 ## Related
 
-- [[cannabis-tinctures-and-edibles]]
-
 - [[cannabis-reefers-and-tincture-preparation]]
-
-- [[cannabis-concentrates-and-extracts]]
 
 - [[cannabis-for-multiple-sclerosis]] Topics
 
 - [[cannabis-for-neuropathic-pain]]
-- [[cannabis-for-neuropathic-pain]]
-- [[cannabis-endocannabinoid-system]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Multiple Sclerosis section
 - [[blesching-cannabis-neuropathic-pain]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

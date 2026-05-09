@@ -114,9 +114,7 @@ The three-dimensional energy principle has direct implications for how we evalua
 
 ## Connection to Other Concepts
 
-- [[fukuoka-high-yield-rice-barley|High-Yield Rice and Barley]]
 - [[fukuoka-ground-cover-strategy|Ground Cover Strategy]]
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting|Energy Efficiency and Caloric Accounting]]
 - [[fukuoka-clover-and-green-manure-cropping|Clover and Green Manure Cropping]]
 - [[fukuoka-ecological-balance-principles|Ecological Balance Principles]]
 

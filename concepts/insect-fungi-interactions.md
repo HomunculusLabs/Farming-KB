@@ -113,7 +113,6 @@ many as 1,900 nematodes, ensuring frequent encounters.
 
 ## See Also
 
-- [[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]]
 - [[fungal-insect-interactions-diversity]]
 - [[endophytic-fungi-plant-interactions]]
 

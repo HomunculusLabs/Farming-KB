@@ -111,18 +111,13 @@ Third, that his philosophy is impractical for most farmers. Fukuoka conceded tha
 
 ## See Also
 
-- [[fukuoka-natural-farming-four-principles]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-farming-soil-ecology-principles]]
 - [[four-principles-of-natural-farming]]
-- [[fukuoka-natural-farming-principles]]
-
 - [[fukuoka-natural-farming-philosophy]]
-- [[natural-farming-vs-scientific-agriculture]]
 - [[no-till-agriculture]]
 - Clay Seed Pellets for Direct Seeding
 - Green Manure and Cover Cropping
 - Soil Food Web and Biological Plowing
 - Pest Outbreaks as Ecological Indicators
-- [[korean-natural-farming-and-jadam]]
+- [[query-jadam-vs-korean-natural-farming]]
 - Energy Efficiency in Farming Systems

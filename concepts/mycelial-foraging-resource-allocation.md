@@ -4,7 +4,8 @@ created: 2026-04-10
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 Fungal mycelia are not passive decomposers — they are active foragers that
@@ -123,11 +124,7 @@ emergent collective behavior.
 
 ## Related
 
-- [[fungal-stable-isotope-ecology]]
 - [[mycorrhizal-fungi]]
-- [[fungal-life-history-strategies]]
 - [[fungal-soil-aggregation]]
-- [[fungal-wood-decay-types]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[mycorrhizal-networks-common-mycelial-network]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

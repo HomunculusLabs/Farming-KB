@@ -1,7 +1,7 @@
 ---
 title: Fungal Discovery Methods
 created: 2026-04-28
-tags: [mycology, methods, taxonomy, discovery]
+tags: [[mycology, methods, taxonomy, discovery]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -135,8 +135,6 @@ substantial expertise and resources.
 
 ## See Also
 
-- [[fungal-biodiversity-estimates]]
 - [[mycological-dark-taxa]]
-- [[environmental-dna-metabarcoding-fungi]]
 - [[fungal-kingdom-overview]]
 - [[fungal-taxonomic-impediment]]

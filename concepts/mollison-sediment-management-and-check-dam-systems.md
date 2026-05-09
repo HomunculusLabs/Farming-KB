@@ -123,11 +123,7 @@ fertility and deposits it where crops can use it.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-earthworks-planning-and-post-earthworks-planting]] for
-  comprehensive earthworks planning.
 - [[mollison-soil-erosion-control]] for upstream erosion prevention.
-- [[mollison-dam-types-landscape-placement]] for dam and barrier
-  placement.
 - [[mollison-arid-lands-design-and-erosion-control]] for dryland
   sediment management.
 - [[mollison-flood-retardation-by-trees-and-earthworks]] for the

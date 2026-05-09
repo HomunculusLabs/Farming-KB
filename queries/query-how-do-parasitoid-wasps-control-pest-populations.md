@@ -12,7 +12,7 @@ type: query
 
 ## TL;DR
 
-[[parasitoid-wasps-and-biological-[[organic-pest-and-disease-management|pest control]]|Parasitoid wasps]] are among the most effective natural enemies of agricultural pests. They locate specific host insects, lay their eggs inside or on them, and the developing wasp larvae consume the host from within — ultimately killing it. Because they reproduce faster than their hosts and can track pest population surges, they provide self-sustaining, long-term suppression of pest numbers without the ecological damage caused by broad-spectrum insecticides.
+|Parasitoid wasps are among the most effective natural enemies of agricultural pests. They locate specific host insects, lay their eggs inside or on them, and the developing wasp larvae consume the host from within — ultimately killing it. Because they reproduce faster than their hosts and can track pest population surges, they provide self-sustaining, long-term suppression of pest numbers without the ecological damage caused by broad-spectrum insecticides.
 
 ## How Do Parasitoid Wasps Find Their Hosts?
 
@@ -24,11 +24,7 @@ When a herbivorous insect feeds on a plant, the plant releases **herbivore-induc
 
 ### Host Frass and Scent Detection
 
-Once near the plant, female wasps switch to closer-range chemical cues. **Host frass** (insect feces), regurgitated plant material, and compounds on the host insect's cuticle all provide identifying information. Some wasps can detect sex pheromones produced by the host species, or chemicals associated with host eggs. The wasp essentially "smells" the host through multiple overlapping cues.
-
-### Vibrational Cues
-
-Some parasitoid species, particularly those attacking larvae concealed inside stems or galls, use **vibrational signals**. They detect the substrate-borne vibrations of feeding larvae through the plant tissue, and may even tap the surface to stimulate a response from the hidden host. This helps them pinpoint the exact location for oviposition.
+Once near the plant, female wasps switch to closer-range chemical cues. **Host frass** (insect feces), regurgitated plant material, and compounds on the host insect's cuticle all provide identifying information. Some wasps can detect [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] of feeding larvae through the plant tissue, and may even tap the surface to stimulate a response from the hidden host. This helps them pinpoint the exact location for oviposition.
 
 ## What Happens During the Attack?
 
@@ -66,19 +62,7 @@ Insect immune systems can encapsulate and destroy foreign objects — including 
 
 - **Polydnaviruses** integrate into host cells and express proteins that disable encapsulation responses.
 - **Venom proteins** inhibit hemocyte (immune cell) function and melanization pathways.
-- **Teratocytes** (specialized cells released from the wasp egg) secrete factors that suppress immunity and regulate host development.
-
-This molecular arms race between parasitoid immune suppressors and host defenses is one of the most intensively studied areas in insect ecology.
-
-## How Does This Suppress Pest Populations Over Time?
-
-### Functional Response
-
-The **functional response** describes how many hosts an individual wasp can parasitize as host density changes. Most parasitoid wasps exhibit a Type II functional response: as host density increases, the rate of parasitism rises but eventually plateaus because the wasp is limited by handling time (time spent finding, subduing, and ovipositing in each host). This means wasps efficiently exploit moderate pest populations without over-exploiting them into local extinction.
-
-### Numerical Response
-
-The **numerical response** is equally important: when pest populations surge, wasp populations follow. More hosts mean higher wasp survival and reproduction, producing more wasps in the next generation. This creates a delayed density-dependent feedback loop that naturally dampens pest outbreaks.
+- **Teratocytes** (specialized cells released from the wasp egg) secrete factors that suppress immunity and [[next-generation-sequencing-hidden-fungal-diversity]]. This creates a delayed density-dependent feedback loop that naturally dampens pest outbreaks.
 
 ### Generation Time Advantage
 
@@ -86,13 +70,7 @@ Most parasitoid wasps have **shorter generation times** than their hosts. A typi
 
 ### Population Cycles
 
-In natural and agricultural systems, parasitoid-host dynamics tend to produce **cycling populations**: pests increase → wasps increase → pests decline → wasps decline → cycle repeats. Within [[integrated-pest-management]] frameworks, the goal is to keep both cycles at low amplitudes so that pest numbers remain below economic thresholds.
-
-## Examples of Successful Biological Control
-
-### Trichogramma spp. — Moth Eggs in Corn and Pecans
-
-Trichogramma wasps are tiny egg parasitoids used against lepidopteran pests worldwide. They are mass-reared and released by the millions in corn (against European corn borer), pecans (against pecan nut casebearer), and many other crops. In Brazil, Trichogramma releases on sugarcane have reduced pesticide applications by over 50% while maintaining equivalent yield protection. They are the most widely used biological control agents in the world by release volume.
+In natural and agricultural systems, parasitoid-host dynamics tend to produce **cycling populations**: pests increase → wasps increase → pests decline → wasps decline → cycle repeats. Within  frameworks, [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] d pesticide applications by over 50% while maintaining equivalent yield protection. They are the most widely used biological control agents in the world by release volume.
 
 ### Encarsia formosa — Whiteflies in Greenhouses
 
@@ -112,14 +90,14 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 
 ### Creating Habitat
 
-- **Floral resources**: Plant [[insectary-plants-guide|insectary plants]] and nectar-rich flowers (umbellifers like dill, fennel, yarrow, and sweet alyssum) to provide adult wasps with carbohydrate food sources, extending their lifespan and fecundity.
+- **Floral resources**: Plant  and nectar-rich flowers (umbellifers like dill, fennel, yarrow, and sweet alyssum) to provide adult wasps with carbohydrate food sources, extending their lifespan and fecundity.
 - **Shelter and overwintering**: Maintain hedgerows, ground cover, and undisturbed vegetation patches where wasps can shelter and overwinter.
 - **Reduce tillage**: Many parasitoid wasps pupate in or near the soil. Excessive tillage destroys pupae and disrupts population continuity.
 
 ### Avoiding Harmful Insecticides
 
 - **Broad-spectrum insecticides** (pyrethroids, organophosphates, neonicotinoids) are highly toxic to parasitoid wasps at field-realistic concentrations.
-- **Selective products**: If insecticide use is necessary, choose products with low toxicity to [[[beneficial-insects-pollinators|beneficial insects]]]] (e.g., *Bacillus thuringiensis* for caterpillar control).
+- **Selective products**: If insecticide use is necessary, choose products with low toxicity to  (e.g., *Bacillus thuringiensis* for caterpillar control).
 - **Timing sprays**: If you must spray, do so before releasing wasps and allow sufficient residue breakdown (check product-specific pre-release intervals).
 
 ### Ordering from Insectaries
@@ -130,20 +108,19 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 
 ## Common Misconceptions
 
-### "They're just wasps that sting people"
-
-**False.** The vast majority of parasitoid wasps are far too small to sting humans, and their ovipositors are adapted for piercing insect cuticle, not vertebrate skin. Even larger species like the pimpline ichneumonids are not aggressive toward people. Parasitoid wasps are among the most harmless-to-humans insects in existence.
-
-### "They'll become pests themselves"
 ## See Also
 
-- [[parasitoid-wasps-and-biological-pest-control]]
-- [[beneficial-insects]]
-- [[integrated-pest-management]]
+- 
+- 
+- 
 - insectary plants
 - Trichogramma wasps
 - Encarsia formosa
 - Aphidius colemani
 - insect ecology
 
-- [[comparison-parasitoid-wasps-vs-chemical-pesticides]]
+- 
+
+## See Also
+- [[microfungal-diversity-host-plant-relationship]]
+- [[fungal-virulence-factors-host-immune-evasion]]

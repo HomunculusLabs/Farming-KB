@@ -78,21 +78,8 @@ Acidic herbs or preparations may affect the dissolution and absorption of pH-dep
 
 Elderly patients are at increased risk for herb-drug interactions due to polypharmacy (multiple concurrent medications), age-related changes in drug metabolism and clearance, and increased sensitivity to adverse effects. Patients with liver or kidney impairment may have reduced ability to metabolize and eliminate both herbs and drugs, increasing the risk of accumulation and toxicity.
 
-Pregnant and nursing women should exercise particular caution with herb-drug interactions, as both herbs and drugs may cross the placenta or be excreted in breast milk. See [[herbal-medicine-safety]] for additional safety considerations.
-
-## Communication and Monitoring
-
-Effective management of herb-drug interactions requires open communication between patients, herbalists, and prescribing physicians. Patients should disclose all herbal supplement use to their healthcare providers, including dose, frequency, and duration of use. Healthcare providers should ask specifically about herbal supplement use, as patients may not volunteer this information.
-
-When potentially interacting herbs and drugs are used concurrently, monitoring may include blood levels of the drug (therapeutic drug monitoring), clinical parameters (INR for warfarin, blood glucose for antidiabetic drugs, blood pressure for antihypertensives), and clinical observation for signs of toxicity or reduced effectiveness.
-
-## See Also
-
-- [[herbal-medicine-safety]] — general herbal safety guidelines
-- [[herbal-medicine]] — overview of herbal medicine
+Pregnant and nursing women should exercise particular caution with herb-drug interactions, as both herbs and drugs may cross the placenta or be excreted in breast milk. See [[herbal-medicine-safety]] — general herbal safety guidelines
 - [[herbal-materia-medica]] — individual herb safety profiles
-- [[cannabis-drug-interactions-and-contraindications]] — cannabis-specific drug interactions
 - [[herbal-medicine-preparation-methods]] — safe preparation practices
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-elderly-patients]]

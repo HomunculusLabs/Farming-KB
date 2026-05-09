@@ -23,29 +23,6 @@ the ideal chlorine-free water source for drip irrigation networks, and together 
 form the gold standard for sustainable garden water management.
 
 ## Drip Irrigation
-[[drip-irrigation-guide]]
-
-Drip irrigation delivers water directly to the root zone through a network of tubes,
-emitters, and distribution lines, achieving thirty to fifty percent water savings
-compared to sprinkler systems by minimizing evaporation, runoff, and foliar wetting.
-The system is built around zones grouped by water need, flow capacity, and topography,
-with each zone calculated for the combined flow rate of its emitters to ensure even
-distribution. Emitter types include individual drip emitters for precise delivery to
-individual plants, drip tape for row crops with inline emitters, micro-sprinklers for
-larger areas like berry bushes, and soaker hoses as a simple low-cost option for beds.
-
-Pressure-compensating emitters maintain consistent flow rates across uneven terrain.
-Filtration is essential to prevent clogging, with screen filters for municipal water,
-disc filters for well water, and sand media filters for surface water. A key advantage
-of drip irrigation is fertigation capability, which injects soluble fertilizer during
-the final fifteen to twenty minutes of the irrigation cycle for precise nutrient
-delivery. The system works with any pressurized water source including municipal supply,
-wells, and rainwater tanks. Maintenance includes monthly filter cleaning, seasonal
-line flushing, and periodic emitter inspection. The primary limitations are upfront
-cost, the need for regular maintenance to prevent clogging, and the requirement for
-a pressurized water source.
-
-## Rainwater Harvesting
 [[rainwater-harvesting-systems]]
 
 Rainwater harvesting captures and stores precipitation from roofs and other catchment
@@ -114,11 +91,7 @@ provides reliable irrigation even during dry periods or supply disruptions.
 
 ## See Also
 
-- [[comparison-sprinkler-vs-drip-irrigation]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
-- [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-drought-gardening-vs-rainwater-harvesting]]
-- [[irrigation-systems]]
 - [[comparison-swale-vs-rainwater-harvesting]]
-- [[permaculture-water-harvesting-detailed]]
 - [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]

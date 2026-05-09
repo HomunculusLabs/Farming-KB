@@ -134,17 +134,11 @@ North American neurotropic fungi fall into three main distribution patterns:
    WA, OR, BC.
 2. **Gulf Coast/southeastern tropical species** -- P. cubensis, P.
    caerulescens, Copelandia spp., found from Texas to Florida.
-3. **Widespread temperate species** -- Amanita muscaria, Gymnopilus
 ## See Also
 
-- [[guzman-psilocybin-mushrooms-europe]]
 - [[guzman-psilocybin-mushrooms-south-america]]
 
-- [[chemical-analysis-psilocybin-mushrooms]]
-
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[psilocybin-mushroom-distribution-worldwide]]
 - [[gartz-global-psilocybin-mushroom-distribution]]
-- [[natto-making]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psychedelic-mushroom-art-and-iconography]]

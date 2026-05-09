@@ -10,8 +10,7 @@ tags: [culture, mycology]
 
 # Mycophobia in Western Culture
 
-The concept of [[mycophilia-mycophobia-european-mushroom-history]] -- an irrational fear of
-mushrooms -- was coined by [[gordon-wasson-mushroom-discovery]] and his wife Valentina to explain the
+The concept of [[gordon-wasson-mushroom-discovery]] and his wife Valentina to explain the
 striking cultural differences in attitudes towards fungi between nations. Wasson argued that mycophobia and
 its opposite, mycophilia, were "residual and half-forgotten cultural memories" of ancient religious
 prohibitions placed upon the eating of mushrooms. Andy Letcher subjects this influential theory to rigorous
@@ -27,8 +26,7 @@ camp and Britain firmly in the mycophobic camp.
 
 Wasson's more radical claim was that these attitudes represented the last surviving cultural traces of an
 ancient mushroom-worshipping religion. He proposed that European ancestors had consumed magic mushrooms --
-probably the [[amanita-muscaria-ancient-wine-question]], but perhaps later psilocybin mushrooms -- as part of an
-archaic form of [[mckenna-psychedelic-shamanism]]. As this loosened and gradually became institutionalised, mushroom consumption
+probably the [[mckenna-psychedelic-shamanism]]. As this loosened and gradually became institutionalised, mushroom consumption
 was restricted to a powerful priesthood that placed a terrible taboo upon its profane usage. The cult spread
 widely but eventually gave way to what would become the world's major religions. Nevertheless, the taboo
 persisted in vestigial fashion so that fear of, or fascination with, the mushroom lastingly determined
@@ -123,11 +121,7 @@ along with the theory it supports.
 
 ## See Also
 
-- [[mycophilia-mycophobia-european-mushroom-history]]
 - [[wasson-mycophobia-mycophilia-theory]]
-- [[wasson-rediscovery-of-psilocybin]]
 - [[amanita-muscaria-cultural-history]]
-- [[victorian-mycology-and-fairy-rings]]
 - [[psychedelic-ancient-history]]
-- [[mushroom-folklore-misinterpretations]]
 - [[soma-controversy-fly-agaric-as-divine-mushroom]]

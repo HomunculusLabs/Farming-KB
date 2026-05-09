@@ -113,11 +113,7 @@ Most evidence supports a strictly saprotrophic lifestyle on dead wood.
 
 ## See Also
 
-- [[armillaria-mellea]]
-- [[trametes-versicolor]]
-- [[marasmius-oreades]]
+- [[trametes-versicolor-entity]]
 - [[gymnopilus-spectabilis-entity]]
-- [[pleurotus-ostreatus]]
 - [[schizophyllum-commune]]
-- [[panellus-stipticus]]
 - [[lentinula-edodes]]

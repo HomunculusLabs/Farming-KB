@@ -138,13 +138,9 @@ comfrey, mint, and chives.
 The species is increasingly used in ecological restoration, mine reclamation, and
 native landscaping projects due to its adaptability, cold hardiness, and wildlife
 value. It establishes readily from seed on disturbed sites.
-
 ## See Also
 
-- [[rosa-canina]]
 - [[ribes-nigrum]]
-- [[lonicera-caerulea]]
 - [[aronia-melanocarpa]]
-- [[lycium-barbarum]]
 - [[eleagnus-umbellata-entity]]
 - [[food-forest]]

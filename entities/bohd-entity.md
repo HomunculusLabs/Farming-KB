@@ -92,11 +92,7 @@ uninteresting, at least as potential psychedelic compounds.
 
 ## Related Compounds
 
-- [[boh-entity]] -- 2,5-dimethoxy-4-methylphenethylamine
-
 - [[2c-b-compound-profile]] -- 2,5-dimethoxy-4-bromophenethylamine, the 2C-X parent compound
-
-- [[mescaline-compound-profile]] -- the 3,4,5-trimethoxyphenethylamine reference compound
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 - [[bod-entity]]

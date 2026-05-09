@@ -30,26 +30,13 @@ Ironically, with species never before grown, the strategy of
 "benign neglect" more often leads to success than active interference
 with the natural progression of events. Many early mushroom projects
 only produced when left alone. This principle is especially relevant
-for [[growing-gourmet-natural-culture-myco-landscaping]]
-methods.
-
-## Species by Habitat Category
-
-### Woodland Mushrooms
-
-Species that grow on or in association with wood:
-
-- [[growing-gourmet-wood-ear-auricularia-cultivation]]
+for [[growing-gourmet-wood-ear-auricularia-cultivation]]
 - The Prince (Agaricus augustus)
 - The Almond Agaricus (Agaricus subrufescens)
 - The Sylvan Agaricus (Agaricus sylvicola, A. lilaceps)
-- [[growing-gourmet-black-poplar-agrocybe-cultivation]]
 - [[growing-gourmet-hypholoma-capnoides-cultivation]]
-- [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
 - [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]]
-- [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
-- [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
+- [[shiitake-mushroom-cultivation]]
 - [[growing-gourmet-king-stropharia-cultivation]]
 - The Deer Mushroom (Pluteus cervinus)
 
@@ -66,13 +53,6 @@ Species associated with open fields and meadows:
 ### Dung-Inhabiting Mushrooms
 
 Species that grow on herbivore dung or enriched soils:
-
-- [[growing-gourmet-button-mushroom-agaricus-cultivation]]
-- Magic Mushrooms (Psilocybe cubensis, Panaeolus species)
-
-### Compost/Litter/Disturbed Habitat Mushrooms
-
-Species thriving in disturbed or decomposed habitats:
 
 - [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
 - Scaly Lepiota (Lepiota rachodes)
@@ -99,33 +79,17 @@ When selecting a candidate for cultivation, consider:
    outdoor settings, though obstacles to exotic species can be
    overcome with forethought to design
 3. **Decomposer category**: Understanding whether a species is a
-   [[growing-gourmet-saprophytic-mushrooms-decomposers]] informs substrate selection
-4. **Temperature tolerance**: Temperature-tolerant varieties are
-   more forgiving and easier to grow
-5. **Available raw materials**: Match species to locally abundant
-   substrate materials (see
    [[growing-gourmet-substrate-materials-wood-types]])
 
 ## See Also
 
-- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]
-
 - [[growing-chicories-endive-radicchio]]
 
-- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
 - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
-- [[growing-gourmet-shade-house-hoop-house-structures]]
 - [[growing-gourmet-mushroom-dehydration-methods-equipment]]
-- [[growing-gourmet-cropping-containers-growing-systems]]
 - [[growing-gourmet-bacterial-blotch-disease-management]]
-- [[growing-gourmet-poisonous-mushroom-lookalikes]]
 - [[growing-gourmet-sacred-psilocybe-permaculture]]
-- [[growing-gourmet-cystidia-gill-microanatomy]]
 - [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
-- [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]]
-
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
 - [[growing-gourmet-substrate-materials-wood-types]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-strain-selection]]

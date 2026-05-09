@@ -14,55 +14,7 @@ type: concept
 
 Mushroom spores are among the most remarkable dispersal structures in the
 biological world, enabling fungi to travel vast distances through air,
-water, and by hitchhiking on animals. [[paul-stamets]], in Mycelium Running,
-describes spores as the "fairy dust of mushrooms" - invisible agents of
-ecological connectivity that link forests, meadows, and ecosystems across
-continents. Every human accumulates between 10 and 100 million fungal
-spores on their body and clothes daily, making all people unwitting
-agents of fungal dispersal regardless of their intentions.
-
-Spore dispersal is not random; it follows precise ecological strategies
-that have evolved over millions of years. Fungi recruit specific vectors
-including beetles, birds, bears, and even humans to transport their
-genetic material to new habitats. Understanding these dispersal networks
-is crucial for mycorestoration projects, as successful fungal
-inoculation depends on matching the right spore delivery method to the
-target environment.
-
-The concept that humans serve as spore vectors has profound implications
-for ecology and conservation. Airplane travel and mail service spread
-spores throughout the world, while activities like chopping wood,
-trimming trees, gardening, and even cooking gourmet mushrooms make us
-effective allies in fungal reproduction. Stamets argues that everyone is
-a mushroom grower, whether they want to be or not.
-
-## Key Concepts
-
-### Spore Biology and Mating Requirements
-
-Mushrooms reproduce through spores that travel great distances via
-water, air, or animal carriers. The mycelium germinating from a single
-spore is a monokaryon, typically infertile, meaning it cannot form a
-sporulating parent mushroom until it sexually combines with another
-compatible spore of its own species. Spore density decreases
-exponentially as an inverse square of the distance from the parent
-mushroom, which may explain why mushrooms produce so many spores - to
-guarantee the widest possible matchings distant from the parents.
-
-### Frank Herbert's Spore Slurry Method
-
-Frank Herbert, author of the Dune books, developed a practical technique
-for using spores in the early 1980s. He would place weathered
-chanterelles in a 5-gallon bucket of water with salt, wait 1 or 2 days,
-then pour the spore-mass slurry at the base of newly planted fir trees.
-Remarkably, chanterelles were found growing from trees not even 10 years
-old using this method. This technique has since been confirmed in the
-mushroom industry as a viable method for growing many species from
-elder mushroom spore slurries.
-
-### Insect Vectors and Coevolved Dispersal
-
-The birch polypore ([[piptoporus-betulinus]]) exemplifies insect-mediated
+water, and by hitchhiking on animals. [[piptoporus-betulinus]]) exemplifies insect-mediated
 spore dispersal. Its scent attracts beetles that burrow into the
 mushroom, piercing the spore-rich underlayer to feed on internal flesh.
 The beetles become covered with spores and, when traveling to another
@@ -143,6 +95,5 @@ sites yields the highest colonization rates.
 
 ## See Also
 
-- [[mushroom-ecological-species]]
 - [[psilocybin-mushroom-image-guide-spore-color-chart]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]

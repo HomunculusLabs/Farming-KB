@@ -3,7 +3,7 @@ title: The Merciful Death for Barley — Japanese Agricultural Policy
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
-    title: The One-Straw Revolution - Masanobu Fukuoka
+    title: The One-Straw Revolution - [[masanobu-fukuoka]]
     author: Masanobu Fukuoka
 updated: 2026-05-08
 type: concept
@@ -123,7 +123,5 @@ represents a profound misunderstanding of what agriculture is for.
 
 ## See Also
 
-- [[fukuoka-barley-clover-cultivation]]
 - [[fukuoka-barley-winter-grain-method]]
-- [[fukuoka-serving-nature-philosophy]]
 - [[fukuoka-breakdown-japanese-agriculture]]

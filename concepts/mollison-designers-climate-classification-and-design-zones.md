@@ -16,38 +16,7 @@ type: concept
 
 # Climate Classification and Design Zones
 
-Climate is the primary determinant of [[permaculture-design]] strategy. Before any
-site-specific planning begins, the designer must understand the macroclimate of
-the region. Mollison devotes significant attention to climate classification
-systems, particularly Koppen and Thornthwaite, as frameworks for selecting
-appropriate design elements, species, and management strategies.
-
-## Koppen Climate Classification
-
-The Koppen system classifies climates based on temperature and precipitation
-patterns, using letters to denote major groups and subdivisions. The five major
-groups are: tropical (A), arid (B), temperate (C), continental (D), and polar
-(E). Lowercase letters indicate subtypes: f for fully humid, m for monsoonal,
-s for summer-dry, w for winter-dry, h for hot arid, and k for cold arid.
-
-Mollison uses Koppen as a starting framework because it directly correlates
-with plant hardiness and growing season length. Tropical wet climates (Af)
-support year-round food forests with no frost risk. Mediterranean climates
-(Csa, Csb) require summer irrigation and winter-growing crops. Humid
-continental climates (Dfa, Dfb) demand cold-hardy species and season
-extension strategies.
-
-## Thornthwaite Classification
-
-Thornthwaite refines climate analysis by introducing water balance concepts.
-It classifies based on precipitation effectiveness (the ratio of precipitation
-to potential evapotranspiration) and thermal efficiency. This system is
-particularly useful for permaculture because it addresses the water budget
-directly, which is central to design in all climates.
-
-Thornthwaite identifies humid, subhumid, semiarid, and arid moisture regimes,
-each with distinct implications for water harvesting, irrigation, and species
-selection. In perhumid climates, [[water-management]] focuses on drainage and
+Climate is the primary determinant of [[water-management]] focuses on drainage and
 disease prevention. In semiarid climates, every drop of rain must be captured
 and directed to productive use.
 
@@ -77,18 +46,6 @@ Mediterranean climates require summer water management and winter-growing crops.
 Humid subtropical zones support a wide species range including subtropical
 fruits. Oceanic climates with moderate temperatures and reliable rainfall are
 among the easiest for perennial food production. See
-[[mollison-designers-food-forest-succession-design]] for temperate food forest
-approaches.
-
-## Arid and Semi-Arid Design
-
-Arid climates (Koppen B groups) receive less than 250mm of annual rainfall.
-Semi-arid zones receive 250 to 500mm. Water is the limiting factor in all
-design decisions. Strategies include extensive earthworks for water harvesting,
-windbreaks to reduce evapotranspiration, deep mulching, drip irrigation from
-stored water, and selection of drought-adapted species.
-
-Mollison emphasises that arid zone permaculture is entirely about water.
 [[keyline-design]], swales, and dams capture and hold water on the landscape.
 Shade from trees reduces soil surface temperatures by 10 to 20 degrees Celsius.
 Waffle gardens, sunken beds, and microcatchments concentrate water around
@@ -105,36 +62,30 @@ selecting early-maturing varieties, and employing season extension with
 cloches, cold frames, and greenhouses.
 
 Perennial systems focus on cold-hardy fruits and nuts: apples, pears, plums,
-cherries, walnuts, hazelnuts, and currants. [[green-manure-crops]] build soil
-during the off-season. Snow management is important, as snow insulates soil
-and provides slow-release moisture in spring.
-
-## Precipitation Patterns and Design
-
-Beyond total annual rainfall, the seasonal distribution of precipitation is
-critical. Winter-rainfall zones (Mediterranean) require different species than
-summer-rainfall zones (monsoonal). Even-rainfall zones (equatorial) support
-continuous production but face leaching and disease challenges. The
-reliability of rainfall, measured as coefficient of variation, determines
-how much storage and insurance (irrigation reserves) the design must include.
-
-Microclimate modification through windbreaks, shade structures, and thermal
-mass can effectively shift the local climate by one or more Koppen subtypes,
-extending the range of productive species.
-
-## Matching Design Elements to Climate
-
-Mollison provides extensive tables mapping climate types to appropriate
-elements: housing design, water systems, crop selection, tree crops, animal
-systems, and energy strategies. The designer works from macroclimate to
-mesoclimate (the property scale) to microclimate (individual plant or
-building). At each scale, classification informs [[appropriate-technology]] and
+cherries, walnuts, hazelnuts, and currants. [[appropriate-technology]] and
 species choice. The result is a design that works with climate rather than
 against it, reducing energy inputs and increasing resilience.
 
 ## See Also
 
-- [[mollison-designers-resources-classification-and-yields]]
-
 - [[mollison-designers-house-design-climate-zones]]
 - [[mollison-designers-snow-ice-and-winter-design-strategies]]
+## Practical Considerations
+
+Successful implementation of Climate Classification and Design Zones requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

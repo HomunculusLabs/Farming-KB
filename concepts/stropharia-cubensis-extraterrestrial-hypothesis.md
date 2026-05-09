@@ -118,7 +118,5 @@ primitive, usually nomadic hunter-gatherers."
 
 - [[stropharia-cubensis]] Concepts
 
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[extraterrestrial-contact-and-dmt-experience]]
-- [[dmt-experience-and-hyperspace-entities]]
 - [[terence-mckenna-tryptamine-hypothesis]]

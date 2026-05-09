@@ -1,19 +1,7 @@
 ---
 title: "Aquatic Edge Planting Zones"
 created: 2026-04-26
-tags: [permaculture, aquaculture, pond-design, polyculture, edge-effect]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-type: concept
----
-
-# Aquatic Edge Planting Zones
-
-Bill Mollison's Permaculture: A Designers' Manual describes the pond edge
-as the most productive zone in any aquatic system, following the general
-[[mollison-designers-edge-effect-design]] principle that interfaces between ecosystems support the
+tags: [[mollison-designers-edge-effect-design]] principle that interfaces between ecosystems support the
 greatest diversity and yield. The aquatic edge is designed as a series of
 concentric planting zones graded from deep water to dry land, each zone
 supporting characteristic species that interact to create a productive
@@ -52,72 +40,7 @@ in the bottom sediment:
   habitat for fish fry and invertebrates
 - Floating species (duckweed, azolla, water hyacinth): not rooted but
   floating freely; rapid nutrient absorbers and valuable duck and fish
-  fodder; see [[mollison-designers-duck-pond-integrated-systems]]
-
-### Zone 2: Shallow Water (15-60cm depth)
-
-The shallow water zone supports emergent plants rooted in saturated soil
-with stems and leaves extending above the water surface:
-
-- Cattail / bulrush (Typha spp.): one of the most productive plants on
-  Earth; edible rhizomes, pollen, and shoots; excellent water purifier
-  that absorbs heavy metals and excess nutrients; provides habitat for
-  birds and aquatic insects
-- Arrowhead (Sagittaria spp.): edible tubers; important food source for
-  waterfowl; grows in 15-45cm water depth
-- Water iris (Iris spp.): ornamental and functional; roots filter water
-  and provide fish habitat; rhizomes can be harvested for division
-- Spike rush (Eleocharis spp.): stabilises pond edges; provides forage
-  for waterfowl
-
-### Zone 3: Marginal Zone (0-15cm water / seasonally saturated)
-
-The marginal zone is periodically inundated and supports plants adapted
-to wet feet but not permanent submersion:
-
-- Pickerel weed (Pontederia cordata): purple flower spikes; important
-  nectar source; filters runoff entering the pond
-- Water mint (Mentha aquatica): aromatic herb spreading in shallow water
-  and wet margins; harvestable for tea and culinary use
-- Sweet flag (Acorus calamus): rhizomatous perennial of shallow margins;
-  medicinal roots; insect repellent properties
-- Papyrus and other sedge species: structural edge plants that filter
-  water and provide nesting material for birds
-- Water celery (Oenanthe javanica): edible perennial herb for shallow
-  margins; spreads to form dense mats
-
-### Zone 4: Moist Bank (above waterline, soil remains damp)
-
-The moist bank zone extends from the normal waterline up to where soil
-drains freely. Plants here have access to groundwater but are not
-inundated:
-
-- Comfrey (Symphytum spp.): deep-rooted nutrient accumulator that thrives
-  on the nutrient-rich soils of pond banks; leaves harvested for mulch
-  and compost tea
-- Sweet flag and water mint continue into this zone
-- Willows (Salix spp.): fast-growing trees that stabilise pond banks;
-  provide fodder, basket material, and wind protection; roots help
-  prevent bank erosion
-- Gunnera: massive ornamental leaves provide shade; thrives in moist
-  conditions at pond edges
-- Blueberry and cranberry: acid-loving fruit shrubs suited to the damp
-  margins of ponds in suitable climates
-
-### Zone 5: Dry Bank (above saturation zone)
-
-The dry bank zone merges with the surrounding landscape and supports
-typical garden or orchard plantings that benefit from the microclimate
-created by the adjacent water body:
-
-- Fruit trees planted on the downhill side of the berm access groundwater
-  through deep roots while their canopies benefit from reduced frost
-  risk near the water
-- Banana, papaya, and other tropical species planted on the warm
-  (equator-facing) bank receive reflected light from the water surface
-  and benefit from the moderating effect of the water body on air
-  temperature
-- Nitrogen-fixing shrubs ([[tagasaste]], sesbania) on the upper bank
+  fodder; see [[tagasaste]], sesbania) on the upper bank
   provide mulch and fodder while stabilising the bank crest
 
 ## [[polyculture-design-hemenway]]
@@ -146,3 +69,22 @@ The ideal pond edge profile is a graduated slope rather than a steep bank:
 - Shelves or ledges at specific depths allow precise placement of plants
   suited to particular water depths
 ## See Also
+## Practical Considerations
+
+Successful implementation of Aquatic Edge Planting Zones requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

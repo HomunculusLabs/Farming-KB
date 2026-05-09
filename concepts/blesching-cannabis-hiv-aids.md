@@ -44,14 +44,7 @@ in the following five areas:
 HIV/AIDS-associated wasting syndrome has historically been one of the most
 devastating consequences of the disease. Cannabis demonstrated superior
 ability to stimulate appetite and promote weight gain compared to
-conventional medications like megestrol acetate. The [[blesching-cannabis-anorexia-cachexia]]
-of THC via CB1 receptor activation in the hypothalamus are the primary
-mechanism, though the entourage effect from whole-plant preparations may
-enhance outcomes.
-
-### 2. Nausea and Vomiting
-
-Consistent with findings for [[blesching-cannabis-chemotherapy-nausea]],
+conventional medications like megestrol acetate. The [[blesching-cannabis-chemotherapy-nausea]],
 cannabis was highly effective for HIV-related nausea and vomiting. These
 symptoms may arise from the disease itself, from antiretroviral therapy
 side effects, or from opportunistic infections and their treatments.
@@ -62,40 +55,14 @@ HIV/AIDS patients frequently experience neuropathic pain, headaches,
 musculoskeletal pain, and pain from opportunistic infections. Cannabis
 provided superior analgesia compared to standard pain medications for many
 patients in the study, consistent with broader evidence for
-[[cannabis-chronic-pain-management]].
-
-### 4. Anxiety and Depression
-
-The psychological burden of living with HIV/AIDS is substantial, and
-cannabis showed effectiveness in managing both anxiety and depressive
-symptoms. This aligns with evidence from [[blesching-cannabis-ptsd-anxiety]].
+[[blesching-cannabis-ptsd-anxiety]].
 
 ### 5. Sleep Improvement
 
 Sleep disturbances are common in HIV/AIDS patients due to pain, anxiety,
 medication side effects, and night sweats. Cannabis was rated as more
 effective than standard sleep aids by study participants, connecting to
-findings in [[cannabis-sleep-disorders-and-insomnia]].
-
-## Immunomodulatory Considerations
-
-Beyond symptom management, Blesching discusses the immunomodulatory
-effects of cannabis in the context of HIV/AIDS. The endocannabinoid system
-is intimately involved in immune function, with CB2 receptors playing a
-particularly important role in immune cell regulation. While early concerns
-were raised about potential immunosuppressive effects of cannabis, more
-recent research suggests a more nuanced picture:
-
-- CB2 receptor activation may reduce harmful chronic inflammation while
-  preserving necessary immune surveillance
-- Some studies suggest cannabinoids may actually reduce HIV replication in
-  certain cell types
-- The anti-inflammatory properties of cannabinoids like CBD may help
-  mitigate HIV-associated chronic inflammation, which is increasingly
-  recognized as a major driver of comorbidities in treated HIV patients
-
-These immunomodulatory effects are explored further in
-[[blesching-cannabis-immune-system-modulation]].
+findings in [[blesching-cannabis-immune-system-modulation]].
 
 ## Interaction with Antiretroviral Therapy
 

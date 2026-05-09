@@ -126,19 +126,9 @@ extensively documented.
 
 ## See Also
 
-- [[psilocybe-heckelii]]
-
-- psilocybe aztecorum entity the mushroom cultivator
-
 - [[psilocybe-angustispora]]
-- [[psilocybe-argentipes]]
 - [[psilocybe-fimetaria]]
-- [[psilocybe-kashmeriensis]]
 - [[psilocybe-magnivelaris]]
-- [[psilocybe-mairei]]
-
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
-- [[psilocybe-cubensis-strains-names-and-marketing]]
 - [[psilocybe-tampanensis-entity]]
-- [[dactylium-dendroides-entity-the-mushroom-cultivator]]
 - [[psilocybe-strictipes-entity]]

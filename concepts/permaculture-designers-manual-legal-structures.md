@@ -3,7 +3,7 @@ title: Legal Structures
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, community-finance, ethical-investment]
+tags: [[permaculture, community-finance, ethical-investment]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -105,12 +105,7 @@ A careful search for the right lawyer is essential -- corporate lawyers are ofte
 
 ## Related Topics
 
-- [[permaculture-designers-manual-legal-and-social-structures]] - Broader legal framework
 - [[permaculture-designers-manual-village-design]] - Village development using trusts
-- [[permaculture-designers-manual-bioregional-planning]] - Regional organisation
-- Ethical finance movement
 - [[mollison-property-trusts-ethical-investment]]
-- [[permaculture-designers-manual-income-strategies]]
 - [[mollison-permaculture-community-legal-structure]]
-- [[permaculture-designers-manual-site-development-sequence]]
 - [[permaculture-designers-manual-energy-systems]]

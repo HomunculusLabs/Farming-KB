@@ -20,10 +20,7 @@ type: concept
 
 Molecular approaches to improving the bioremediation activity of fungal
 inoculants remain largely experimental but hold significant promise for
-enhancing [[fungal-bioremediation]] capabilities. Genetic manipulation of
-fungi has focused primarily on increasing production and excretion of the
-extracellular enzymes responsible for pollutant transformation, including
-[[staycare-laccase-enzymes-in-bioremediation]], [[staycare-lignin-peroxidase-and-pollutant-degradation]], and [[staycare-manganese-peroxidase-in-fungal-bioremediation]].
+enhancing [[staycare-laccase-enzymes-in-bioremediation]], [[staycare-manganese-peroxidase-in-fungal-bioremediation]].
 
 ## Heterologous Expression of Ligninolytic Enzymes
 
@@ -87,27 +84,7 @@ Molecular approaches to laccase improvement include:
 Laccases have shown particular promise for treatment of effluents
 containing chlorophenols, synthetic dyes, and other recalcitrant
 compounds. Their ability to function without hydrogen peroxide simplifies
-application in [[fungal-immobilization-bioreactor-systems]].
-
-## Potential for Enhanced Pollutant Transformation
-
-While the potential for molecular manipulation of fungi to increase
-extracellular enzyme production is clear, several barriers exist:
-
-- **Environmental complexity**: laboratory-optimized enzyme production may
-  not translate to field conditions where nutrients, pH, and temperature
-  fluctuate
-- **Regulatory hurdles**: public concern over releasing genetically
-  modified organisms into the environment may limit deployment
-- **Ecological uncertainty**: the behavior of engineered fungi in
-  competition with indigenous microbial communities is unpredictable
-- **Intellectual property**: patent landscapes may complicate
-  commercialization of engineered organisms
-
-## Mycorrhizal Molecular Approaches
-
-An alternative to engineering free-living saprotrophic fungi is to exploit
-[[mycorrhiza-bioassays-soil-infectivity]].
+application in [[mycorrhiza-bioassays-soil-infectivity]].
 Ectomycorrhizal fungi possess ligninase activity and can transform toxic
 organic pollutants including atrazine, 2,4-dichlorophenoxyacetic acid, TNT,
 and 2,4-dichlorophenol. Molecular tools could potentially enhance these
@@ -122,26 +99,10 @@ organisms simultaneously.
 ## Integration with Other Strategies
 
 Molecular approaches are most likely to succeed when integrated with other
-strategies for improving [[fungal-radionuclide-accumulation-and-bioremediation]], including:
-
-- [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
+strategies for improving [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
   and delivery systems to protect engineered strains
-- [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] to increase pollutant bioavailability
 - [[staycare-fungal-consortia-for-enhanced-pollutant-removal]]
   design to create complementary enzymatic capabilities
-- [[staycare-solid-state-fermentation-for-bioremediation]] for cost-effective inoculum production
-
-## Future Directions
-
-Key areas include omics approaches to understanding fungal responses to
-pollutant stress, CRISPR-based gene editing for precise modifications, and
-containment strategies addressing regulatory and public concerns about
-genetically modified fungal release into open environments.
-
-## See Also
-
 - [[fungal-biodegradation-and-biodeterioration]]
-- [[enzymatic-degradation-in-mycoremediation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-cytochrome-p450-in-fungal-biodegradation]]
 - [[singh-genetically-engineered-fungi-bioremediation]]

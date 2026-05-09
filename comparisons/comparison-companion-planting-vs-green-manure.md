@@ -23,35 +23,6 @@ gardeners build more resilient, productive systems.
 
 ## Companion Planting
 
-[[companion-planting-reference]]
-
-Companion planting leverages biological interactions between plants
-grown simultaneously in the same garden space. The practice draws on
-centuries of traditional gardening knowledge and modern research into
-plant chemical ecology. Classic examples include the Three Sisters
-(corn, beans, and squash), where corn provides structure, beans fix
-nitrogen, and squash suppresses weeds with sprawling vines.
-
-The mechanisms behind companion planting are diverse. Some companions
-release volatile compounds that repel insect pests — basil near
-tomatoes deters hornworms and aphids, while marigolds exude
-compounds that suppress root-knot nematodes. Others attract
-beneficial insects: dill and yarrow draw predatory wasps and
-parasitic flies that control caterpillar populations. Physical
-complementarity also plays a role — tall sunflowers can shade
-lettuce in summer heat, while deep-rooted plants like daikon
-radish can break compaction for shallow-rooted neighbors.
-
-Companion planting requires active management and close observation.
-Not all traditional pairings hold up under scientific scrutiny, and
-incompatible neighbors (tomatoes and fennel, beans and onions) can
-stunt growth through allelopathy or resource competition. The
-practice works best in intensive garden settings where plants are in
-close proximity and the gardener can respond to pest pressure
-dynamically.
-
-## Green Manure
-
 [[cover-crops-green-manures]]
 
 Green manures are cover crops grown specifically to improve soil
@@ -143,7 +114,5 @@ companion herbs like comfrey and yarrow fill the herbaceous layer.
 
 ## See Also
 
-- [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-companion-planting-vs-polyculture]]
-- [[comparison-crop-rotation-vs-cover-cropping]]
 - [[comparison-trap-cropping-vs-companion-planting]]

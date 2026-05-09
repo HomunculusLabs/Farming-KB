@@ -93,29 +93,11 @@ The Cannabis Health Index notes that fibromyalgia is "characterized by chronic p
 
 - **Indica strains** are generally preferred for fibromyalgia due to their relaxing, sedating properties
 - Lower THC:CBD ratios favor CB2 activation for anti-inflammatory pain relief
-- The [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] of full-spectrum cannabis may be important for addressing the multi-symptom nature of fibromyalgia
-- Myrcene-dominant strains may enhance muscle relaxation and sedation
-
-## Related Topics
-
-- [[cannabis-chronic-pain-management]]
-- [[cannabis-for-neuropathic-pain]]
+- The [[cannabis-chronic-pain-management]]
 - [[cannabis-sleep-disorders-and-insomnia]]
-- [[cannabis-for-anxiety-disorders]]
 - [[cannabis-for-mental-health]]
-- [[cannabis-dosing-guidelines-by-condition]]
-
-## Key Considerations
-
-Fibromyalgia patients often require a multi-faceted approach to symptom management. Cannabis's ability to address pain, sleep, mood, and inflammation simultaneously makes it a uniquely valuable option. The clinical evidence, while limited to 3 studies, shows consistently positive results with Nabilone, and the broader cannabinoid research base supports efficacy for fibromyalgia-related symptoms.
-
-## See Also
-
 - [[cannabis-and-fibromyalgia]]
 
-- [[dom-compound-profile]]
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-for-inflammatory-conditions]]
 - [[cannabis-endocannabinoid-system]]

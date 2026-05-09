@@ -126,8 +126,6 @@ The relationship between fungal decomposers and potential human infection raises
 
 ## See Also
 
-- [[bloomfield-amatoxin-poisoning-mechanism]] for another fungal toxin with neurological effects
 - [[bloomfield-mushroom-poisons-and-toxidromes]] for broader discussion of fungal poisons
-- [[bloomfield-aspergillus-biology-and-aflatoxins]] for another significant human-pathogenic fungus
 - [[bloomfield-fungal-secondary-metabolites]] for melanin and other fungal pigments
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]] for yeast biology and dimorphism

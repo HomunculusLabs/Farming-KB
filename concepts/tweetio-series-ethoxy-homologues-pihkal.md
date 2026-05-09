@@ -86,11 +86,7 @@ The 2CD-5ETO compound (5-ethoxy-2-methoxy-4-methylphenethylamine) leads directly
 
 ## Related Topics
 
-- [[2c-family-chemistry-and-sar-pihkal]]
 - [[phenethylamine-chemistry-basics]]
-- [[phenethylamine-duration-and-timing]]
 - [[phenethylamine-receptor-pharmacology]]
-- [[fukuoka-three-ways-farming-compared]]
 - [[md-family-structure-activity]]
-- [[do-family-compounds-pihkal]]
 - [[5-methoxy-compounds]]

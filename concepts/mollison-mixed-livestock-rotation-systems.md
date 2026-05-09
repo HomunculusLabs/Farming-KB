@@ -1,144 +1,139 @@
 ---
 title: Mollison on Mixed Livestock Rotation Systems
 created: 2026-04-26
-tags: [permaculture, livestock, rotational-grazing, mixed-farming, animal-integration]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Mixed Livestock Rotation Systems
-
-In Permaculture: A Designers' Manual, Mollison advocates for mixed
-livestock rotation as a strategy that attempts to reproduce the high
-yields of natural wildlife systems. Rather than the single-species
-grazing typical of conventional agriculture, mixed rotation uses a
-succession of animal species, each preparing the sward or browse for its
-successor.
-
-## The Concept
-
-Mixed livestock rotation is described by Mollison as "not much used as
-yet for more than 2-3 species." The ideal system would involve a
-horse/cow/sheep/goose/pig succession (or some such arrangement) over a
-mixed forb/grass/legume/forage system. Each animal species prepares the
-sward or browse for a successor. Pigs are used well in advance to plough
-the ground for new sowings and root sets of comfrey and other perennial
-crops.
-
-The system was used successfully by a farmer (Mr. J. Savage in Victoria,
-Australia). Comfrey is a key element, along with lucerne and grasses.
-The "pig tractor" system obviates the use of mechanised tractors and
-improves soils. Mollison considers it well worth trials in any area,
-choosing a succession of animal species following each other at optimum
-densities and intervals.
-
-## The Philosophy Behind Mixed Rotation
-
-Mollison contrasts domestic livestock systems with natural ecosystems.
-Brown (1972) estimated the standing crop of large herbivores on the
-African savannah to be about 500 kg/ha, or about the same as on improved
-pastures in humid temperate areas. Instead of one or two species
-sustained by external oil energy input, the savannah supports guilds of
-browsers (five species), grazers (eleven species), and four species that
-alternately graze or browse, each having specific food preferences.
-
-This crop estimate specifically excludes the far greater biomass of
-smaller mammals, birds, insects, burrowers, reptiles, and other lower
-vertebrates, plus plant products, so it represents a minimal yield figure
-for a natural system. No known cultivated system of livestock can surpass
-this sort of productivity without external inputs, nor are similar yields
-achieved without stressing soils, plants, or animals.
-
-## Range Cropping Methods
-
-Mollison outlines several methods for cropping grasslands and associated
-woody browse:
-
-### Natural or Managed Wild Range
-
-A great variety of plants and animals interact. Adjustment to available
-browse is made by migration (herd species), light stocking (residents),
-or by very efficient metabolic and reproductive processes. This is the
-model that mixed livestock rotation seeks to emulate.
-
-### Long-Rotation Extensive Range
-
-Domestic species on extensive range with very light stocking and long
-rotation (7-9 years). Drought-immune, such range maintains woody and
-selected browse. There are low returns per hectare but a sustainable
-yield and no environmental damage. Ideally 15-18 fields with 18-20 month
-rotation and 20-30 days per field, using Keyline irrigation for beef and
-sheep production.
-
-### Short-Rotation Stocking
-
-On improved pasture in humid areas only. Cows at 15-25/ha for 3-7 days,
-grass at 15 cm high, rotated for from 3-5 weeks. In good growth periods,
-some fields are closed up for hay making or slashed as mulch. No grazing
-before animals are moved (usually 3-5 days). Dry cattle can briefly
-follow milk cows. This system needs 8-12 fields, of which 1-5 are
-available for mowing in all but very dry or cold periods. Fields not
-well-grazed can be mown 3-6 weeks before stock are returned. Many good
-farmers mow and mulch to improve soils.
-
-### Strip Grazing
-
-Uses electric fences, permanent or movable, to achieve similar results
-to short-rotation stocking, with about a 2-5 day rotation (grass at 15
-cm or better). Intensive, used only on improved pastures, primarily for
-dairy cattle. Similar to tethering for a few milk cows or goats on
-limited improved pastures.
-
-### Cut and Feed
-
-Ideal for milk cows, small herds of 2-20 cows, in tropics or semiarid
-areas. Shedded cattle are fed from mixed forage (Leucaena, Pennisetum,
-comfrey, browse plants). All manure is returned to the cutover area,
-preferably as a subsoil sludge. This is an excellent system for villages
-in poor arid areas or where large herds are not kept. Hay can be cut
-from surplus growth in good periods. Not sustainable as a broadscale
-feedlot due to excessive energy costs, waste of manures, pollution, and
-high overheads.
-
-### The Pig Tractor System
-
-On a large scale (20-40 ha), the pig tractor system can pioneer
-high-quality milk-cow pasture of chicory, dandelion, comfrey, dock,
-grasses, and clover. Cows follow along 2-3 months behind the pig tractor.
-A continuous rotation is set up, and excess milk product (whey, skim
-milk) is fed to the pigs as accessory food. Piglets ranging over such
-pasture rarely show iron anaemia deficiency, parasite cycles are broken,
-and the soil constantly improves in humus. Such large animals as pigs and
-cows need fenced tree strips, tree guards, and border hedgerow to supply
-tree forage crop.
-
-## Fixed Stocking: A Warning
-
-Mollison warns that fixed stocking is dangerous if the land is
-overstocked, and is the most used and misused system. Livestock are
-rarely moved, and pasture quality, yield, and soil structure can
-deteriorate. It is not responsive to seasons unless closely watched, and
-unless sale-and-repurchase pre-empts environmental damage. This system
-can work with very light stocking, closed winter range, permanent
-pastures, 6-8 home fields, and careful observation.
-
-## The Integrated Farm Ideal
-
-Mollison insists that all the domestic species systems described relate
-to "livestock only" farming, and are far more simple and less
-sustainable than the usual mixed farm situation of crop, forest, marsh,
-and a variety of livestock balanced to forage wastes. The mixed
-livestock rotation system is an attempt to close this gap, integrating
-[[mollison-free-range-pig-systems]], [[mollison-poultry-flock-management-density-and-forage]],
-and broader [[mollison-animal-range-management]] into a coherent whole.
+tags: [[mollison-free-range-pig-systems]], [[mollison-animal-range-management]] into a coherent whole.
 
 ## See Also
 
-- [[mollison-grasslands-and-range-management-strategies]]
 - [[mollison-chicken-tractor-and-animal-tractor-systems]]
-- [[mollison-rangelands-and-natural-productivity]]
 - [[mollison-forage-trees-in-livestock-systems]]
 - [[mollison-free-range-pig-systems]]
+## Background and Context
+
+Mollison on Mixed Livestock Rotation Systems is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

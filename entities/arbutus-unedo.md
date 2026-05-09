@@ -110,12 +110,8 @@ The fruit ripens over an extended period from October through December, requirin
 
 ## See Also
 
-- [[vaccinium-myrtillus]]
 - [[arctostaphylos-uva-ursi]]
-- [[myrica-gale]]
 - [[quercus-robur]]
-- [[hypericum-perforatum]]
 - [[urtica-dioica]]
-- [[ceratonia-siliqua]]
 - [[betula-pendula]]
 - [[plantago-major]]

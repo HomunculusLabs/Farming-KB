@@ -21,11 +21,7 @@ pest management over chemical fungicides.
 
 The three most problematic mold genera in mushroom cultivation are Trichoderma
 (green mold), Aspergillus, and Penicillium. Trichoderma is by far the most destructive.
-It grows rapidly, outcompeting mushroom [[mycelium]] for nutrients and space, and produces
-antibiotic compounds that inhibit or kill the mushroom mycelium. Trichoderma harzianum
-is the species most frequently encountered in compost-based systems, while T. viride
-and T. reesei are more common in sawdust-based cultivation. It appears as fast-growing
-white patches that quickly turn green as [[spore]]s mature.
+It grows rapidly, outcompeting mushroom [[spore]]s mature.
 
 Aspergillus species produce black, yellow, or green colonies and thrive in warm
 conditions (above 30 degrees C). Some species produce aflatoxins, making contaminated
@@ -117,6 +113,5 @@ insect vectors and provide early warning of pest pressure.
 
 ## See Also
 - Mushroom Contamination And Biocontrol
-- [[trichoderma-harzianum]]
 - [[mushroom-cultivation-in-kenya]]
 - [[grain-spawn-production]]

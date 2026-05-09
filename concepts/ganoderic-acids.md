@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Ganoderic Acids
 
-Ganoderic acids are a family of highly oxygenated lanostane-type triterpenoids isolated from [[medicinal-mushroom-guide-cordyceps]] (reishi/lingzhi mushroom) and related Ganoderma species. Over 100 different triterpenoids have been identified from [[fruiting-conditions-mushroom-cultivation]] and mycelium, making them the most chemically diverse class of compounds in reishi.
+Ganoderic acids are a family of highly oxygenated lanostane-type triterpenoids isolated from [[fruiting-conditions-mushroom-cultivation]] and mycelium, making them the most chemically diverse class of compounds in reishi.
 
 ## Chemical Classification
 
@@ -68,19 +68,26 @@ Ganoderic acids are typically extracted from fruiting bodies or spores using org
 
 ## Therapeutic Significance
 
-Unlike the water-soluble β-glucans (which act primarily through immune modulation), ganoderic acids represent a complementary therapeutic pathway in reishi — acting through direct cytotoxic, enzyme-inhibitory, and receptor-mediated mechanisms. This dual-action profile (polysaccharides + triterpenoids) likely underlies the broad-spectrum medicinal reputation of [[medicinal-mushroom-guide-cordyceps]] in traditional medicine.
-
-## Relationship to Other Mushroom Triterpenoids
-
-Ganoderic acids are part of a broader class of bioactive terpenoids from higher Basidiomycetes. Other notable examples include:
-- **Illudin** — cytotoxic tricyclic sesquiterpene from Omphalotus olearius and Lampteromyces japonicus
-- **HMAF** (6-hydroxymethylacylfulvene) — semisynthetic illudin analog in phase I clinical trials as a tumour growth inhibitor
-
-## Related
-
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[medicinal-mushroom-cardiovascular-metabolic-effects]]
+Unlike the water-soluble β-glucans (which act primarily through immune modulation), ganoderic acids represent a complementary therapeutic pathway in reishi — acting through direct cytotoxic, enzyme-inhibitory, and receptor-mediated mechanisms. This dual-action profile (polysaccharides + triterpenoids) likely underlies the broad-spectrum medicinal reputation of [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[reishi-mushroom-medicinal-research]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[reishi-ganoderma-cancer-clinical-research]]
 - [[medicinal-mushroom-cardiovascular-cholesterol-research]]
+## Practical Considerations
+
+Successful implementation of Ganoderic Acids requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

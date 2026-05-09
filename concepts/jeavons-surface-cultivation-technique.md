@@ -11,12 +11,7 @@ type: concept
 # Surface Cultivation Technique
 
 Surface cultivation is the practice of loosening only the upper 2
-inches of soil after an initial period of [[jeavons-double-digging-bed-preparation]] has established good soil structure. It is a key maintenance technique in the GROW BIOINTENSIVE method that preserves the developed soil structure and organic matter content while reducing labor over time.
-
-## When to Transition to Surface Cultivation
-
-Once a good soil structure has been established through
-[[jeavons-double-digging-bed-preparation]], it may be
+inches of soil after an initial period of [[jeavons-double-digging-bed-preparation]], it may be
 preferable to use surface cultivation for several years rather than
 repeatedly double-digging the bed. The complete double-dig process
 loosens soil to a depth of 24 inches, but after the first year or two,
@@ -67,33 +62,7 @@ structure to transition to surface cultivation:
   your fingers, it probably has good soil structure.
 
 This test works because well-structured soil has been built up by
-microbial life and plant [[root-exudates]] that act as "threads" and
-"glue" to hold soil particles together in desirable aggregates.
-
-## When to Return to Double-Digging
-
-Whenever the lower soil becomes compacted, the bed should be
-double-dug again to encourage reestablishment of a well-aerated
-structure. Compaction can occur naturally over time from watering,
-plant root activity, and settling. Signs that re-digging is needed
-include:
-
-- Water pooling on the surface rather than infiltrating
-- Plants showing signs of restricted root growth
-- The soil feeling hard and resistant below the cultivated layer
-- Reduced crop yields compared to previous seasons
-
-## Soil Texture and Structure
-
-It is important to understand the distinction between soil texture and
-soil structure:
-
-- **Soil texture** is determined by the basic ingredients: silt, clay,
-  and sand particles. This is an inherent property that is difficult
-  to change significantly.
-- **Soil structure** is the way those ingredients hold together. This
-  can be improved dramatically through proper cultivation and
-  [[jeavons-composting-methods]].
+microbial life and plant [[jeavons-composting-methods]].
 
 With your assistance, "threads" exuded by microbial life and "glue"
 exuded by plant roots help to loosen a clay soil and improve a sandy
@@ -121,8 +90,7 @@ supports abundant plant life.
 Surface cultivation is part of the broader GROW BIOINTENSIVE system.
 Deep soil preparation develops good structure initially, and surface
 cultivation maintains it. Together with regular
-[[jeavons-composting-methods]] applications (up to 1 inch per
-4-month growing season), [[jeavons-fertilization-organic-soil-amendments]], and good
+[[jeavons-fertilization-organic-soil-amendments]], and good
 [[jeavons-crop-rotation-detail]], surface cultivation
 helps maintain the sustainable soil fertility that is the foundation
 of the method.

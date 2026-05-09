@@ -130,8 +130,6 @@ Biodynamic practice also involves a planting calendar based on astronomical posi
 
 ## Related
 
-- [[query-how-do-i-make-biodynamic-preparations-for-my-farm-or-garden]]
-
 - [[compost-building-guide]] — conventional composting methods to complement biodynamic approaches
 - [[hot-composting-method]] — thermophilic composting for nutrient management
 - [[vermicompost-tea]] — another liquid biological soil amendment

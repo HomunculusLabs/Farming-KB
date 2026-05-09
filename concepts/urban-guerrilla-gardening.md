@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines permaculture design principles with direct action to reclaim concrete-dominated cityscapes for food production, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
+Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines permaculture design principles with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
 
 ## Philosophy and Motivation
 
@@ -39,7 +39,7 @@ Core drivers from practitioner accounts:
 
 - Build raised vegetable beds "out of sticks and blackberries" even in "really crappy soil"
 - Use salvaged materials: bathtubs, tires, milk crates, refrigerators
-- [[sheet-mulching]] with newspapers (6 pickup loads), leaf mulch, and straw
+- [[sheet-mulching|Sheet mulching]] with newspapers (6 pickup loads), leaf mulch, and straw
 - Sunk planting basins: dig into hard subsoil (caliche), fill with compost and salvaged manure
 - Grade surrounding soil to drain all rainwater into garden beds
 
@@ -53,7 +53,7 @@ Core drivers from practitioner accounts:
 
 ### Grafting Urban Fruit Trees
 
-- Graft scion wood of good [[fruit-tree-varieties]] onto crabapples in alleyways
+- Graft scion wood of good fruit tree varieties onto crabapples in alleyways
 - Graft onto non-fruiting cherries, peaches, and plums in parks
 - T-bud graft fruit trees and root semi-hardwood cuttings in tins of wet sand
 - Save diverse vegetable, flower, and herb seeds
@@ -102,7 +102,7 @@ Core drivers from practitioner accounts:
 - "Urban permaculture is intensely social — everything you do is within sight, sound, or touch of a neighbor"
 - Start with visible, friendly activity — wave at passersby
 - Neighbors contribute: physical help, security, advice, plants, hot meals, materials
-- School gardens: [[mollison-guinea-pig-integration-in-permaculture-gardens]] at middle schools build community across teachers, bus drivers, and parents
+- School gardens: permaculture gardens at middle schools build community across teachers, bus drivers, and parents
 - Potlucks, workshops, and presentations for knowledge sharing
 - Stream rehabilitation as community project
 - "In fifty years, this coalition building will be a necessity. Now it is a choice"
@@ -114,7 +114,7 @@ Core drivers from practitioner accounts:
 - "Composting creates rich soil from trash"
 - Manure from local stables mixed with yard prunings
 - Leaf mold from municipal leaf collection (6+ pickup loads)
-- Green manure [[hamilton-green-manure-crops-and-cover-cropping]]
+- Green manure crops and cover cropping
 
 ## Broadscale Urban Restoration
 

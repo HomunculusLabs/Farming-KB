@@ -116,7 +116,9 @@ nature's recycling program for raising new nutrients to the surface.
 
 ## See Also
 
-[[jeavons-companion-planting]]
 [[jeavons-natural-pest-control]]
-[[jeavons-backyard-ecosystem-insect-life]]
 [[jeavons-soil-fertility]]
+
+## See Also
+
+- [[jeavons-companion-planting-health-nutrition]]

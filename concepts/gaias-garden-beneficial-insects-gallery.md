@@ -87,8 +87,7 @@ control agents in orchards.
 wood-boring beetle larvae.
 
 A critical point: adult parasitic wasps feed on nectar and pollen, not other
-insects. Without flowering plants, adult wasps starve. [[permaculture-insectary-plants|Insectary plants]]
-such as yarrow, dill, fennel, and coriander provide essential food for adult
+insects. Without flowering plants, adult wasps starve. [[yarrow]], dill, fennel, and coriander provide essential food for adult
 parasitoids.
 
 ## Flies as Predators and Parasitoids
@@ -121,20 +120,6 @@ and hundreds of solitary species — often outperform honeybees as pollinators,
 especially in cool weather and for native plants. Flowering plants provide
 nectar and pollen for adult bees. A succession of blooms from early spring
 through late fall ensures continuous forage. Many
-[[permaculture-plant-guilds|plant guilds]] incorporate insectary plants to
-support pollinator populations.
-
-## The Time Lag Problem
-
-Pests reproduce rapidly and can devastate a garden before their predators arrive
-in sufficient numbers. This time lag is why preventing pest outbreaks through
-habitat creation is more effective than responding after damage appears. A
-garden rich in flowering plants, mulch, and undisturbed refuges maintains a
-standing army of predators and parasitoids ready to respond to any pest.
-
-## Attracting Beneficial Insects
-
-Creating habitat for beneficial insects is central to
 [[gaias-garden-polyculture-design-guidelines|polyculture design]]. Key
 strategies include:
 
@@ -146,5 +131,3 @@ strategies include:
   litter for overwintering.
 - **Avoid broad-spectrum pesticides** that kill beneficials along with pests.
 - **Include a water source** such as a shallow dish with pebbles for drinking.
-
-By designing gardens that welcome beneficial insects, the gardener enlists

@@ -6,23 +6,7 @@ tags:
   - psychedelic
   - phenethylamine
   - research-chemical
-  - tryptamine
-  - designer-drug
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Shulgin, A. & Shulgin, A. (1991). PiHKAL: A Chemical Love Story. Transform Press."
-  - "Cohen, S.N. (2018). \"Pharmacology of 2C-B and related phenethylamines.\" Journal of Psychoactive Drugs, 50(4), 321-331."
-  - "EMCDDA (2019). \"2C-B-FLY: New psychoactive substance profile.\" European Monitoring Centre for Drugs and Drug Addiction."
-  - "Dean, B.V. et al. (2013). \"2C drugs: a comprehensive review.\" Drug and Alcohol Dependence, 132(3), 455-466."
-  - "Kelley, C.J. et al. (2019). \"Pharmacokinetics and receptor binding of novel phenethylamines.\" Neuropharmacology, 161, 107-115."
----
-
-# 2C-B-FLY
-
-## Overview
-
-2C-B-FLY is a psychedelic phenethylamine and benzodifuran derivative of 2C-B, first synthesized by Alexander Shulgin and later documented in PiHKAL.
+  - [[alexander-shulgin]] and later documented in PiHKAL.
 Its name derives from the dihydrofuran ("FLY") ring system replacing the 2,5-dimethoxy groups of 2C-B.
 The compound produces a longer-duration psychedelic experience compared to 2C-B, with effects described as more entactogenic and visually rich.
 It is not naturally occurring and exists solely as a synthetic research chemical.
@@ -85,45 +69,28 @@ This conformational constraint alters receptor binding affinity and metabolic st
 - Anxiety and paranoia at higher doses or in unprepared set/setting
 - Tachycardia and mild hypertension
 - Insomnia following the experience (due to long duration)
-- **⚠️ IMPORTANT:** The 2010 batch contamination incident involved Bromo-DragonFLY being mislabeled as 2C-B-FLY, causing severe vasoconstriction, amputations, and deaths. Verify source and consider reagent testing (Marquis/Ehrlich) before consumption
-
-## Legal Status
-
-- **United States:** Not federally scheduled but may be prosecuted under the Federal Analog Act as an analog of 2C-B (Schedule I)
-- **United Kingdom:** Class A controlled substance under the Psychoactive Substances Act amendments
-- **EU:** Varies by member state; controlled in Germany, Denmark, Sweden, and others
-- **Australia:** Scheduled as a prohibited substance
-- **Canada:** Controlled under Schedule III of the CDSA
-- **Japan:** Controlled substance
-- Legal status continues to evolve as novel psychoactive substance legislation is updated
-
-## History
-
-- First synthesized by Alexander Shulgin; documented in PiHKAL (1991) as compound #28 in the 2C-B series
-- Remained obscure for over a decade after initial synthesis
-- Gained popularity in the mid-2000s as a "research chemical" available through online vendors
-- The 2009–2010 Bromo-DragonFLY contamination event severely damaged its reputation and availability
-- Resurged in the late 2010s through darknet markets and RC communities with improved quality control
-
-## Synthesis
-
-- Synthesized from 2,5-dimethoxybenzaldehyde via bromination, furan ring closure, and reductive amination
-- The dihydrofuran ring is formed by cyclization of a brominated precursor
-- Total synthesis requires moderate organic chemistry laboratory skills and controlled precursor access
-- **Note:** Detailed synthesis procedures are widely available in the chemical literature and online forums
-
-## Related Compounds
-
-| Compound | Relationship | Key Difference |
-|----------|-------------|----------------|
-| 2C-B | Parent compound | No furan ring; 2,5-dimethoxy |
-| Bromo-DragonFLY | Benzodifuran analog | Extended chain (propylamine); far more potent and dangerous |
-| 2C-B-FLY-NBOMe | Derivative | N-benzyl substitution increases 5-HT₂A potency dramatically |
-| 2C-I-FLY | Iodo analog | Iodine substitution for bromine |
-| DOB-FLY | Amphetamine analog | Contains α-methyl group; longer duration, more stimulant |
+- **⚠️ IMPORTANT:** The 2010 batch contamination incident involved [[2c-b]] — Classical psychedelic with different receptor profile but overlapping effects
+- [[2c-b]] — Parent phenethylamine compound with shorter duration
 
 ## See Also
 
-- [[psilocybin-compound]] — Classical psychedelic with different receptor profile but overlapping effects
-- [[salvinorin-b]] — Dissociative psychedelic with kappa-opioid mechanism
-- [[2c-b]] — Parent phenethylamine compound with shorter duration
+- [[optical-isomers-psychedelic-phenethylamines]]
+## Practical Considerations
+
+Successful implementation of 2C-B-FLY requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

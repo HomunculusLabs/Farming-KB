@@ -12,7 +12,7 @@ type: concept
 # Dung Behavior and Nutrient Distribution
 
 The way grazing animals distribute dung and urine across the landscape
-has profound implications for mineral [[savory-water-cycle-management]], [[soil-health-management]],
+has profound implications for mineral [[soil-health-management]],
 and pasture productivity. Savory's observations, building on André
 Voisin's work, reveal that dung distribution is intimately connected
 with animal behavior, predator pressure, and stock density -- all
@@ -111,12 +111,5 @@ to the soil surface in grazing systems.
 
 ## See Also
 
-- [[savory-seed-establishment-and-plant-recruitment]]
-
-- mineral cycle management - The broader nutrient cycling framework
-- stock density vs stocking rate - How density affects dung
-  distribution
-- animal impact and herd effect - Physical effects of concentrated
-  animals
 - [[savory-predator-prey-and-herding-behavior]] - How predators shape movement
 - [[savory-livestock-behavior-and-grazing-styles]] - Species-specific behaviors

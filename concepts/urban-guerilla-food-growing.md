@@ -54,20 +54,7 @@ and cultures, and teach children there is more to life than concrete and fear.
 Taking over abandoned rubble lots for food production involves:
 - Breaking up concrete slabs with sledgehammers
 - Building raised vegetable beds from sticks and scavenged materials
-- [[sheet-mulching]] over weedy areas with cardboard or old carpet
-- Growing nitrogen-fixing beans on trellises while soil prepares
-- Testing soil for contamination before food production
-### Rooftop Gardens
-Rooftops represent enormous untapped growing space in cities. Strategies include:
-- Chicken-wire column planters for vegetables
-- Container gardens utilizing salvaged bathtubs, tires, milk crates, and
-  refrigerators
-- Vertical growing systems on walls and railings
-- Lightweight soil mixes and careful structural assessment
-- Wind protection and heat management for exposed sites
-### Street Tree Grafting
-A bold strategy for urban food production involves grafting scion wood of good
-[[fruit-tree-varieties]] onto existing trees:
+- [[fruit-tree-varieties]] onto existing trees:
 - Grafting onto crab apples in alleyways
 - Top-working non-fruiting cherries, peaches, and plums in parks
 - Returning later for the harvest from publicly accessible trees
@@ -78,40 +65,27 @@ growing food:
 - Bathtubs, tires, and milk crates as planters
 - Old refrigerators as cold frames
 - 55-gallon drums for water catchment and container growing
-- Broken concrete for raised bed walls and [[herb-spiral]]s
-### Park and Public Space Planting
-Local parks can be enhanced with food-producing plants:
-- Planting native species that survive on local rainfall
-- Adding fruit trees and berry bushes to existing plantings
-- Guerrilla planting edible perennials in margins and borders
-- Working with park departments for sanctioned community plots
-## Edge and Vertical Space
-Cities offer more edge and vertical growing space than almost any other
-environment. The edge between sidewalk and street, building and yard, wall and
-air all represent productive growing interfaces. Ecological productivity always
-increases at boundaries because resources from both adjacent systems are
-available.
-Strategies for maximizing edge in urban settings:
-- Herb spirals built from smashed concrete that condense space and create
-  multiple microclimates
-- Trellises on south-facing walls for deciduous vines that shade buildings in
-  summer and allow light in winter
-- Window boxes and balcony railings for herbs and small vegetables
-- Living fences of edible or useful plants replacing chain link
-## Dumpster Diving for Garden Materials
-The urban waste stream provides abundant resources for food growing:
-- Bakery 55-gallon drums linked with PVC pipe for water storage
-- Construction waste for raised bed materials and trellises
-- Restaurant food waste for compost
-- Election signs for trellis roofing
-- Old carpet, cardboard, and newspaper for sheet mulching
-## Community Building Through Growing
-Urban permaculture is intensely social. Everything done is within sight, sound,
-or touch of a neighbor. As Headington notes: "Rather than privatize and control
-daily activities as modern design and technology do, urban culture seeks to
-increase, open up, and share the diverse paths, places, and patterns of urban
-conviviality."
-The garden serves as a symbol of the movement from profane to sacred space,
-transforming ordinary urban landscapes into places of meaning and production.
+- Broken concrete for raised bed walls and [[urban-guerrilla-food-growing-city-agriculture]]
+
 ## See Also
-- [[urban-guerrilla-food-growing-city-agriculture]]
+
+- [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
+## Practical Considerations
+
+Successful implementation of urban guerilla food growing requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

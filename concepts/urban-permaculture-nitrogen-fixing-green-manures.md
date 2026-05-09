@@ -3,7 +3,7 @@ title: Nitrogen-Fixing Green Manures
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, urban-agriculture]
+tags: [[permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
@@ -13,9 +13,7 @@ Nitrogen-fixing green manures are plants -- primarily legumes -- that convert at
 
 ## Why Green Manures Matter
 
-In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[composting-and-soil-biology]]. A healthy stand of leguminous green manure can fix 50-200 kg of nitrogen per hectare per year, depending on species, growing conditions, and inoculation.
-
-Green manures also provide biomass for [[comparison-sheet-mulching-vs-chop-and-drop]], break pest cycles, suppress weeds, improve soil structure, prevent erosion, and feed pollinators. They are the cheapest and most sustainable form of fertilizer available.
+In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[comparison-sheet-mulching-vs-chop-and-drop]], break pest cycles, suppress weeds, improve soil structure, prevent erosion, and feed pollinators. They are the cheapest and most sustainable form of fertilizer available.
 
 ## Sunn Hemp (Crotalaria juncea)
 
@@ -59,14 +57,7 @@ A valuable, nutritious tropical garden bean. Excellent nitrogen-fixer with heavy
 
 ## Clover Species
 
-Clovers are among the most widely used [[jeavons-green-manures-cover-crops]]:
-
-- **White clover** -- low-growing perennial, excellent living mulch under fruit trees, tolerates grazing and mowing, fixes 100-200 kg N/ha/year
-- **Red clover** -- biennial or short-lived perennial, deeper rooted than white clover, good for breaking compacted soils, excellent bee forage
-- **Crimson clover** -- annual, produces striking red flower heads, excellent bee forage, good winter cover crop in mild climates, quick to establish
-- **Subterranean clover** -- self-seeding annual that buries its seed pods underground, ideal for no-till systems as it regenerates without replanting
-
-Clovers are versatile because they can serve as living mulch, cover crop, forage, and bee habitat simultaneously. White clover is particularly useful in orchards and [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] because its low growth habit means it does not compete with tree roots for light.
+Clovers are among the most widely used [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] because its low growth habit means it does not compete with tree roots for light.
 
 ## Integration Strategies
 
@@ -97,12 +88,9 @@ Match the green manure to the season and climate. In most temperate areas, a yea
 ## See Also
 
 - Nitrogen-Fixing Plants Guide
-- [[jeavons-green-manures-cover-crops]]
 - [[hemenway-cover-crops-guide]]
-- [[soil-food-web-nutrient-cycling]]
 - [[compost-tea-recipe-guide]]
 
 ---
 Updated: 2026-04-18
-- [[gaias-garden-cover-crops-soil-building]]
 - [[jadam-fruit-tree-winter-pest-control]]

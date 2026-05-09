@@ -90,11 +90,7 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
-- [[fukuoka-soil-management-observations]]
 - [[fukuoka-soil-building-method]]
-- [[fukuoka-critique-soil-cultivation]]
 - [[fukuoka-soil-self-improvement-without-tillage]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-orchard-soil-building-without-fertilizers]]
-- [[fukuoka-road-back-orchard-restoration-pest-balance]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]

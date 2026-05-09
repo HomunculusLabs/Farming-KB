@@ -4,7 +4,7 @@ created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [mycology, poisonous-mushrooms, amanita, amanitine, fungal-toxins, death-cap]
+tags: [[mycology, poisonous-mushrooms, amanita, amanitine, fungal-toxins, death-cap]
 related: [palmer-mushroom-hunting-field-identification, palmer-edible-mushrooms-north-america]
 type: concept
 updated: 2026-04-26
@@ -100,30 +100,6 @@ Palmer's key insight was that amanitine is **absorbed** through the intestinal v
 
 ## Antidote: Atropine
 
-Palmer was among the first to suggest **atropine** (from *[[atropa-belladonna]]*) as the specific antidote to amanitine:
-- A consulting physician independently suggested belladonna after observing a patient's symptoms
-- Dr. Isaac Ott confirmed with frog experiments: muscarine stops the heart; atropine restores it
-- Dr. Shadle's successful use in the 1885 Farris case provided the first documented human application
-- Other Solanaceae remedies: daturine, hyoscyamine, nicotine/tobacco, stramonium
-- Sub-cutaneous injection was essential; emetics and purgatives were "worse than useless" for amanitine poisoning since the alkaloid had already been absorbed
-
-## Animals and Mushroom Poisoning
-
-Animals are unreliable indicators of edibility:
-- Pigs ate an Amanita stew "without ill effects"
-- Swine are "proof against the noxious properties of *Amanita muscarius*"
-- Yet *Agaricus melleus* (edible for humans) reportedly killed a dog in 12 hours
-- *[[marasmius-oreades]]* (edible champignon) reportedly killed a cat
-- A dog became sick from biting *[[coprinus-comatus-detailed]]* tops
-
-## Non-Amanita Poisonous Mushrooms (Non-Fatal)
-
-- **Russula emetica** and **Russula rosacea** -- acrid, cause nausea and vomiting
-- Bitter, slimy, or highly colored Boleti -- unpleasant but not deadly
-- No recorded death from any Boletus or from puff-ball poisoning
-
-## See Also
-
-- [[palmer-mushroom-hunting-field-identification]] -- How to avoid the Amanita family
-- [[palmer-edible-mushrooms-north-america]] -- Safe species that may resemble Amanitas
+Palmer was among the first to suggest **atropine** (from *[[marasmius-oreades]]* (edible champignon) reportedly killed a cat
+- A dog became sick from biting *[[palmer-mushroom-hunting-field-identification]] -- How to avoid the Amanita family
 - [[mushroom-foraging-safety]]

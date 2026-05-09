@@ -10,14 +10,7 @@ sources:
 
 # Teaming with Microbes — Protozoa
 
-In *Teaming with Microbes*, Lowenfels and Lewis present protozoa as the critical nutrient mineralizers of the [[lowenfels-earthworms-soil-food-web]] — the organisms that convert bacterial biomass into plant-available nutrients right in the rhizosphere.
-
-## Basic Biology
-
-Protozoa are single-celled eukaryotic organisms:
-- Over 60,000 known kinds, with a majority living in soil
-- Heterotrophs — they cannot make their own food
-- They obtain nutrients primarily by ingesting [[teaming-with-microbes-overview]], occasionally fungi and other protozoa
+In *Teaming with Microbes*, Lowenfels and Lewis present protozoa as the critical nutrient mineralizers of the [[teaming-with-microbes-overview]], occasionally fungi and other protozoa
 - Size range: 5 to 500 micrometers (compared to bacteria at 1-4 micrometers)
 - A teaspoon of good soil contains several thousand protozoa (versus a billion bacteria)
 
@@ -72,11 +65,11 @@ Protozoa illustrate a core principle of soil food web gardening:
 - This is why simply adding organic matter without supporting the food web doesn't optimize plant nutrition
 - The presence and diversity of protozoa indicates a functioning soil food web
 
-See also: [[teaming-with-microbes-bacteria]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-overview]], [[protozoa-in-soil]]
+See also: [[teaming-with-microbes-overview]], [[protozoa-in-soil]]
 
 ## See Also
 
-[[teaming-with-microbes-bacteria]], [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-compost-mulch-tea]], [[teaming-with-microbes-classic-soil-science]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fungi]], [[teaming-with-microbes-fb-ratio]]
+[[teaming-with-microbes-nematodes]], [[teaming-with-microbes-compost-mulch-tea]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fb-ratio]]
 
 ## Practical Applications
 
@@ -89,51 +82,10 @@ implementation and scale up as understanding deepens through direct observation.
 
 # Bacterial Biofilm and Slime
 
-Bacterial slime, or biofilm, is a matrix of sugars, proteins, and DNA. It is one of the most important substances produced by soil bacteria, serving multiple critical functions in the [[soil-food-web]].
-
-## Soil Particle Binding
-
-Bacteria are so small they need to stick to things, or they will wash away. To attach themselves, they produce a slime. The secondary result is that individual soil particles are bound together. Think of the plaque produced overnight in your mouth, which enables mouth bacteria to stick to your teeth.
-
-## pH Regulation
-
-The fact that bacterial slime in the soil is slightly alkaline (pH above 7) influences the pH where it counts most -- in the rhizosphere -- and buffers the soil in the area so the pH remains relatively constant. This is crucial because nitrifying bacteria do not generally like acidic environments; their numbers diminish when soil pH drops below 7. The bacterial slime keeps the pH in their vicinity above 7, and nitrification can occur. If the pH is 5 or lower, very little if any ammonium is converted to nitrate.
-
-## Desiccation Protection
-
-Biofilms save bacteria from desiccation as the soil dries. Soil bacteria often live inside sticky globs of biofilms, complete with an infrastructure of channels filled with water for transport of nutrients and wastes.
-
-## Defense Against Antibiotics
-
-Biofilms can be a defense against antibiotics produced by other organisms, including fellow bacteria. Bacteria colonies protected by slime are 1,000 times more resistant than individual bacteria to antibiotics and microbicides.
-
-## Locomotion
-
-Some bacteria use their film as a means of transportation, literally squirting this substance as a means of propulsion. Most bacteria, however, travel using flagella -- whip structures that resemble and operate like propellers.
-
-## Restricting Protozoa Access
-
-Bacterial slime restricts teaming with microbes protozoa access. This film is hard for protozoa to penetrate, and it lacks the oxygen that protozoa require. This is one reason not all bacteria are consumed by protozoa -- another being that bacteria are smaller and able to hide in tiny soil pores.
-
-## Nutrient Retention
-
-Bacteria play a major role in plant nutrition by locking up nutrients that might otherwise disappear as a result of leaching. They do so by ingesting nutrients while decomposing organic matter and retaining them in their cellular structures. Since the bacteria are themselves attached to soil particles, the nutrients remain in the soil instead of being washed away, as is the case with chemical fertilizers.
-
-These nutrients remain immobilized inside the bacteria until the bacteria are eaten and reduced to wastes by protozoa and nematodes, which deposit ammonium in the rhizosphere, right where roots can absorb them.
-
-## See Also
-
-- [[teaming-with-microbes-bacteria]]
+Bacterial slime, or biofilm, is a matrix of sugars, proteins, and DNA. It is one of the most important substances produced by soil bacteria, serving multiple critical functions in the [[teaming-with-microbes-bacteria]]
 - teaming with microbes protozoa
-- [[soil-food-web]]
 - [[root-exudates]]
-- [[composting-and-soil-biology]]
-
-## Merged: Protozoa Grazing and Nutrient Cycling - Teaming with Microbes
-
-# Protozoa Grazing and Nutrient Cycling
-
-Protozoa are among the most important nutrient cyclers in the [[soil-food-web]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
+- [[soil-food-web]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
 
 ## Types of Soil Protozoa
 

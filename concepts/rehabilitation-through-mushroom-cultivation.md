@@ -118,8 +118,6 @@ management, and following up with trainees who completed training.
 
 ## Related Concepts
 
-- [[mushroom-cultivation-overview-disability-empowerment]]
 - [[selecting-trainees-mushroom-cultivation]]
-- [[motivational-sessions-trainees]]
 - [[training-program-mushroom-cultivation]]
 - [[enterprise-development-mushroom-growers]]

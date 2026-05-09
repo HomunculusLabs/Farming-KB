@@ -14,7 +14,7 @@ type: comparison
 ## Overview
 
 Water systems on a homestead or farm can range from simple wildlife ponds to complex
-integrated aquaculture ecosystems. [[aquaculture-in-permaculture]] and [[backyard-pond-building]] represent two ends of this spectrum. Permaculture aquaculture, rooted in Bill
+integrated aquaculture ecosystems. [[backyard-pond-building]] represent two ends of this spectrum. Permaculture aquaculture, rooted in Bill
 Mollison's design principles, treats water as a highly productive resource that yields more
 food per unit area than land-based agriculture when properly managed. Backyard pond building
 takes a more accessible approach, focusing on wildlife habitat, aesthetics, water storage,
@@ -27,41 +27,6 @@ these distinctions helps you choose the right approach for your property, goals,
 available time commitment.
 
 ## Aquaculture in Permaculture
-
-[[aquaculture-in-permaculture]] is Mollison's approach to designing highly productive
-integrated water systems that can yield more food per unit area than equivalent land-based
-agriculture. This system treats the pond as a complete ecosystem with carefully designed
-aquatic edge zonation progressing from dry bank to deep water.
-
-The zonation model typically includes several distinct zones: the dry bank zone with
-terrestrial crops and fruit trees benefiting from moisture, the shallow marginal zone with
-reeds and rushes providing filtration, the emergent zone with edible aquatic plants, the
-submerged zone with rooted aquatic vegetation, and the deep open-water zone for fish and
-other aquatic animals.
-
-Pond sealing in permaculture systems often uses gleying, a technique that creates a
-waterproof layer by compressing organic material such as fresh manure, grass, and soil
-beneath the pond bottom. As this material decomposes anaerobically, it forms an impermeable
-clay-like layer. Gley ponds are labor-intensive to create but use entirely natural materials
-and can last for decades.
-
-Integrated species selection is central to permaculture aquaculture. Ducks, fish, crawfish,
-mussels, and frogs each fill specific ecological niches within the system. Ducks provide
-manure that feeds plankton and algae, which in turn feed fish and filter-feeding mollusks.
-Mussels play a critical role in phosphorus cycling, pulling excess nutrients from the water
-column and depositing them in the sediment.
-
-One of the most innovative techniques is the dryland rotation cycle. Ponds are periodically
-drained, and nutrient-rich bottom mud is used to grow heavy-feeding crops on the dry pond
-bed. After the crop cycle, the pond is re-flooded and the cycle begins again, creating a
-highly productive alternating land-water farming system.
-
-Pond management relies on simple tools like the Secchi disc test to measure water clarity
-and turbidity, providing insight into plankton density and overall pond health. Regular
-monitoring allows the practitioner to balance feeding rates, stocking density, and plant
-cover for optimal production.
-
-## Backyard Pond Building
 
 [[backyard-pond-building]] focuses on creating smaller-scale water features that serve
 multiple purposes including wildlife habitat, landscape aesthetics, water storage, and fire
@@ -140,11 +105,11 @@ duckweed or crawfish as you gain confidence.
 Adding a small duck flock introduces manure-driven fertility that boosts plankton and
 supports fish. The key is to start simple and add complexity as your understanding of
 aquatic ecosystems deepens.
+## See Also
+
+- [[backyard-pond-building]]
+- [[holzer-aquaculture-pond-construction]]
 
 ## See Also
 
-- [[aquaculture-in-permaculture]]
-- [[backyard-pond-building]]
-- [[water-management]]
-- pond ecology
-- [[holzer-aquaculture-pond-construction]]
+- [[comparison-constructed-wetland-vs-backyard-pond]]

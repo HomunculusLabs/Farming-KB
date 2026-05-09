@@ -311,7 +311,7 @@ In permaculture zoning, living fences are primarily **Zone 3–4** elements — 
 
 - [[windbreaks-hedgerows-and-shelterbelts]]
 - [[forest-gardening-and-food-forests]]
-- [[silvopasture-systems-and-integrated-tree-livestock]]
+- [[silvopasture-systems]]
 - [[agroforestry-and-alley-cropping]]
 - [[holistic-grazing-and-pasture-management]]
 - [[companion-planting-and-polycultures]]

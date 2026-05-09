@@ -3,7 +3,7 @@ title: Fungal Bioremediation Mechanisms
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 # Fungal Bioremediation Mechanisms
@@ -85,17 +85,6 @@ Similarly, chromium(VI), a potent carcinogen and mutagen, can be reduced to chro
 Fungi also produce organic acids (oxalic, citric, gluconic) that can solubilize metal contaminants from soil matrices, making them more available for subsequent biosorption or transformation.
 This chemoautotrophic leaching is particularly relevant for mine tailings and electroplating waste remediation.
 The ability of fungi to both mobilize and immobilize metal contaminants through different metabolic pathways makes them versatile agents for metal-contaminated site management.
-See [[bioelectrochemical-remediation]] for electrochemical augmentation strategies.
-
-## Biostimulation and Bioaugmentation Strategies
-
-Two primary strategies are employed to enhance fungal bioremediation in practice.
-Biostimulation involves modifying environmental conditions to favor the activity of indigenous or introduced fungal populations.
-Key parameters include carbon source amendment (adding straw, sawdust, or wood chips to stimulate saprophytic growth), moisture adjustment (maintaining 60-80% water-holding capacity), pH optimization (typically pH 4-5 for white-rot fungi), and aeration (ensuring adequate oxygen for oxidative enzyme systems).
-Bioaugmentation involves introducing specific fungal strains with known degradation capabilities to contaminated sites.
-Pre-grown fungal inoculum (spawn) is typically mixed with a lignocellulosic substrate and incorporated into contaminated soil.
-The choice between biostimulation and bioaugmentation depends on site conditions, contaminant type, and the presence of capable indigenous fungal populations.
-Combined approaches — bioaugmentation followed by biostimulation — often produce the best results.
 See [[factors-affecting-mycoremediation-efficiency]] for detailed parameter optimization.
 
 ## Enzyme-Mediator Systems
@@ -115,20 +104,9 @@ Fungal-bacterial consortia often achieve more complete pollutant degradation tha
 Fungi provide the initial breakdown of complex, high-molecular-weight compounds through extracellular enzymatic oxidation, producing simpler intermediates that bacteria can then mineralize to carbon dioxide and water.
 Bacteria, in turn, can modify environmental conditions (pH, redox potential, nutrient availability) in ways that favor fungal enzymatic activity.
 The physical structure of fungal mycelium also creates microhabitats and transport networks that support bacterial communities.
-Research on [[bioremediation-fungal-vs-bacterial]] approaches increasingly favors consortium-based strategies that leverage the complementary capabilities of both organism types.
-Engineering effective consortia requires understanding interspecies interactions, which can include mutualism, commensalism, competition, and antagonism depending on the species involved and environmental conditions.
-
-## See Also
-
-- [[bioremediation-fungal-vs-bacterial]]
-- [[fungal-bioremediation-organic-pollutants]]
+Research on [[mycoremediation]]
 - [[factors-affecting-mycoremediation-efficiency]]
-- [[factors-affecting-mycoremediation-efficiency]]
-
-## Related
-
 - [[fungal-bioremediation-case-studies]]
-- [[bioremediation-using-fungi]]
-- [[mycoremediation-site-assessment]]
+- fungal bioremediation mechanisms
 - [[bioelectrochemical-remediation]]
 - [[fungal-enzyme-activity-nutrient-availability]]

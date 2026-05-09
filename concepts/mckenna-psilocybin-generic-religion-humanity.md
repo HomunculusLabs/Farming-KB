@@ -104,17 +104,10 @@ The "archaic revival" that McKenna advocates is precisely the revival of this ge
 
 ## See Also
 
-- [[mckenna-abandonment-of-mystery-four-stages]]
 - [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
-- [[mckenna-wasson-soma-contradictions-and-doubts]]
 - [[mckenna-eleusinian-mysteries]]
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
-- [[mckenna-myth-of-glaukos-honey-preservation-mushroom]]
 - [[mckenna-sin-nannar-harran-moon-god-mushroom-iconography]]
-- [[mckenna-catal-huyuk-natufian-link]]
-- [[mckenna-habit-creode-and-cognitive-evolution]]
 - [[mckenna-archaic-revival]]
-- [[mckenna-ergot-and-witches-sabbath-theory]]
 - [[mckenna-minoan-crete-mushroom-religion]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]

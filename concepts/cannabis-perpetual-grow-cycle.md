@@ -109,12 +109,8 @@ Perpetual grow systems introduce several challenges that do not arise in single-
 
 ## See Also
 
-- [[cannabis-cabinet-and-stealth-growing]]
 - [[cannabis-sea-of-green-sog-guide]]
-- [[cannabis-screen-of-green-scrog-guide]]
 - [[cannabis-vegetative-stage]]
-- [[cannabis-flowering-stage]]
 - [[cannabis-cloning]]
-- [[mother-plant-cannabis]]
 - [[cannabis-indoor-growing-basics]]
 - [[cannabis-grow-room-setup]]

@@ -8,7 +8,7 @@ sources: []
 ---
 # Polycyclic Aromatic Hydrocarbons -- Properties and Toxicity
 
-[[mycoremediation-of-petroleum-hydrocarbons]] (PAHs) are among the most widespread and hazardous environmental pollutants targeted by [[fungal-pah-degradation-and-soil-bioremediation]]. Understanding their chemical properties, environmental behavior, and toxicological significance is essential for developing effective remediation strategies.
+[[fungal-pah-degradation-and-soil-bioremediation]]. Understanding their chemical properties, environmental behavior, and toxicological significance is essential for developing effective remediation strategies.
 
 ## Chemical Nature and Sources
 
@@ -89,11 +89,7 @@ PAH exposure is associated with a broader spectrum of health effects than carcin
 
 ## Environmental Persistence and Aging
 
-The environmental persistence of PAHs increases dramatically with molecular weight. Two- and three-ring PAHs have environmental half-lives of days to weeks in aerobic surface soils, while five- and six-ring PAHs can persist for decades to centuries. Over time, PAHs in soil undergo "aging," a process in which the compounds become increasingly sequestered within soil organic matter and soil microaggregates. Aged PAHs are far less bioavailable than freshly deposited PAHs, which reduces both their toxicity and their susceptibility to biodegradation. This aging effect is a major challenge for bioremediation of historically contaminated sites, where PAHs may have been present for decades. Bioavailability-enhancing techniques such as surfactant addition, soil washing, or phytoremediation with exudate-producing plants may be needed to mobilize aged PAHs for [[fungal-pah-degradation-pathways]].
-
-## Fungal Degradation Pathways in Detail
-
-White rot fungi, particularly [[staycare-phanerochaete-chrysosporium-in-bioremediation]], are the most extensively studied fungal PAH degraders. Their ligninolytic enzyme system, which evolved to decompose the structurally similar plant polymer lignin, is nonspecific enough to oxidize a wide range of PAH compounds. Lignin peroxidase (LiP) oxidizes PAHs with ionization potentials below approximately 9.0 eV, generating PAH radical cations that undergo further reactions including ring opening and eventual mineralization to carbon dioxide. Manganese peroxidase (MnP) degrades PAHs indirectly through the generation of Mn(III)-chelate complexes and lipid peroxidation products that can attack PAH molecules. Laccase, a multicopper oxidase, oxidizes PAHs in the presence of mediator compounds such as 1-hydroxybenzotriazole (HBT) or natural mediators, extending the range of PAHs that can be degraded beyond those accessible to LiP and MnP alone. Non-ligninolytic fungi including Cunninghamella, Penicillium, and Aspergillus species degrade PAHs through cytochrome P450 mono-oxygenase systems that mirror mammalian metabolism, producing hydroxylated intermediates that may then be conjugated with sugars or organic acids.
+The environmental persistence of PAHs increases dramatically with molecular weight. Two- and three-ring PAHs have environmental half-lives of days to weeks in aerobic surface soils, while five- and six-ring PAHs can persist for decades to centuries. Over time, PAHs in soil undergo "aging," a process in which the compounds become increasingly sequestered within soil organic matter and soil microaggregates. Aged PAHs are far less bioavailable than freshly deposited PAHs, which reduces both their toxicity and their susceptibility to biodegradation. This aging effect is a major challenge for bioremediation of historically contaminated sites, where PAHs may have been present for decades. Bioavailability-enhancing techniques such as surfactant addition, soil washing, or phytoremediation with exudate-producing plants may be needed to mobilize aged PAHs for [[staycare-phanerochaete-chrysosporium-in-bioremediation]], are the most extensively studied fungal PAH degraders. Their ligninolytic enzyme system, which evolved to decompose the structurally similar plant polymer lignin, is nonspecific enough to oxidize a wide range of PAH compounds. Lignin peroxidase (LiP) oxidizes PAHs with ionization potentials below approximately 9.0 eV, generating PAH radical cations that undergo further reactions including ring opening and eventual mineralization to carbon dioxide. Manganese peroxidase (MnP) degrades PAHs indirectly through the generation of Mn(III)-chelate complexes and lipid peroxidation products that can attack PAH molecules. Laccase, a multicopper oxidase, oxidizes PAHs in the presence of mediator compounds such as 1-hydroxybenzotriazole (HBT) or natural mediators, extending the range of PAHs that can be degraded beyond those accessible to LiP and MnP alone. Non-ligninolytic fungi including Cunninghamella, Penicillium, and Aspergillus species degrade PAHs through cytochrome P450 mono-oxygenase systems that mirror mammalian metabolism, producing hydroxylated intermediates that may then be conjugated with sugars or organic acids.
 
 ## Field Applications and Monitoring
 
@@ -109,13 +105,8 @@ PAH-contaminated sites are regulated under various national and international fr
 
 ## See Also
 
-- [[fungal-pah-degradation-pathways]]
 - [[mycoremediation-of-pahs]]
-- [[bioavailability-in-fungal-bioremediation]]
 - [[fungal-bioremediation-organic-pollutants]]
-- [[fungal-enzyme-systems-in-bioremediation]]
 - [[mycoremediation-pah-and-pcb-degradation]]
-- [[singh-white-rot-fungi-lignin-modifying-enzymes]]
 - [[white-rot-fungi-bioremediation]]
-- [[fungal-bioremediation-organic-pollutants]]
 - [[soil-food-web-assessment]]

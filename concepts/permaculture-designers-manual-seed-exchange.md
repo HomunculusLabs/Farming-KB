@@ -3,7 +3,7 @@ title: Seed Exchange
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, plant-systems, genetics]
+tags: [[permaculture, plant-systems, genetics]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -104,11 +104,7 @@ Mollison frames seed exchange as part of a broader strategy for community self-r
 
 ## Related Topics
 
-- [[permaculture-designers-manual-seed-saving-varieties]] - Detailed seed saving techniques
 - [[permaculture-designers-manual-plant-nursery]] - Propagation and plant supply
-- [[permaculture-designers-manual-bioregional-planning]] - Regional organisation
 - [[permaculture-designers-manual-designer-checklist]] - Planning for self-reliance
-- [[permaculture-designers-manual-legal-structures]] - Legal frameworks for community systems
 - [[permaculture-designers-manual-strategic-planning]]
-- [[permaculture-designers-manual-plant-propagation]]
 - [[mollison-permaculture-two-community-self-reliance]]

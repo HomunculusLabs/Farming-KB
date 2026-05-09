@@ -17,52 +17,7 @@ soil or plants to enhance nutrient cycling, disease suppression, and
 soil structure. In natural farming systems, microbial inoculants are
 farmer-produced inputs that restore and maintain the diverse soil
 microbiome rather than introducing selected commercial strains. Both
-[[korean-natural-farming]] (KNF) and JADAM systems emphasize the use of
-indigenous microorganisms adapted to local conditions.
-
-## The Case for Indigenous Microorganisms
-
-Modern science has identified over one million species of soil
-microorganisms, yet less than one percent can be cultured using current
-laboratory techniques. Commercial microbial products represent a tiny
-fraction of this diversity. JADAM argues that selecting only a few
-"good" microorganisms means providing only a few types of nutrients for
-plants, inevitably creating nutrient imbalance.
-
-One gram of forest leaf mold contains approximately 2 billion to 10
-billion microorganisms across over one million species. Laboratory data
-from Denmark reveals 30,000 protozoa, 50,000 algae, 400,000 fungi,
-and billions of bacteria per gram. This diversity cannot be replicated
-by any commercial product. The best microbial input is one optimized
-for the specific field conditions, with harmony and balance between
-producers, predators, and decomposers.
-
-## JADAM Indigenous Microorganism Solution (JMS)
-
-JADAM's primary microbial input is made from leaf mold collected from
-nearby mountains or forests. The process begins by leaving cooked rice
-in leaf mold, which attracts a colorful diversity of microorganisms.
-This material serves as the starter culture for producing larger
-quantities of JMS through anaerobic fermentation with water and leaf
-mold.
-
-JMS should be intensively applied before active root growth periods.
-For fruit trees, this means after leaves fall until sprouts or flowers
-appear the following year. For field crops, the period extends from
-post-harvest to pre-transplant. During these windows, unlimited water
-can be applied, allowing microorganisms to swim deep and thoroughly
-into the soil through irrigation.
-
-The standard application rate is 500 liters of JMS per quarter-acre to
-8 acres, combined with sea salt and phyllite solution at 500 grams per
-quarter-acre. Regular application (three to four times per month) is
-recommended throughout the year for soil rehabilitation. Microorganisms
-cannot travel without water; they are aquatic organisms that must swim
-to reach their destinations in the soil profile.
-
-## KNF Indigenous Microorganisms (IMO)
-
-The Korean Natural Farming system, developed by Dr. [[cho-han-kyu]], uses
+[[cho-han-kyu]], uses
 a multi-stage IMO preparation process:
 
 ### Stage 1: Collection
@@ -138,10 +93,6 @@ once existed in undisturbed soils.
 
 ## See Also
 
-- [[natural-farming-composting-methods]]
-
-- korean natural farming IMO for detailed IMO preparation
-  protocols
 - [[jadam-uls-technology]] for the complete JADAM input system
 - [[knf-fermented-plant-juice]] for plant-derived inputs used
   alongside microbial inoculants

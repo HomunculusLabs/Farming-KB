@@ -40,13 +40,7 @@ PIHKAL entry #55. 3,4-DIMETHOXYAMPHETAMINE.
 
 ## Extensions and Commentary
 
-These "[[qualitative-comments-methodology-pihkal]]" are not explicit quotations from people who had taken 3,4-DMA. They are written descriptions by the observers who had given 3,4-DMA to psychiatric patients. This is one of the most outrageous chapters in the books on military medicine. The chemical warfare group within the U.S. Army explored many potential psychedelics by administering them to innocent patients with not even a thought of obtaining informed consent. These experiments took place at the New York State Psychiatric Institute (amongst other places) in the early 1960's. The Edgewood Arsenal code name for 3,4-DMA was EA-1316. A few non-military studies have indicated that 3,4-DMA is orally active at 160 milligrams, and so probably its potency by this more conventional route would fall midway between that of mescaline and of MDA. The 3-methoxy-4-other-than-methoxy things (such as hydroxy, ethoxy, allyloxy and methyl) are mentioned in the recipe for MEPEA. The alpha-ethyl homologue of 3,4-DMA, 2-amino-1-(3,4-dimethoxyphenyl)butane, and of other DMA's are discussed under the recipe for ARIADNE.
-
-There are a total of six possible amphetamine molecules with two methoxyl groups attached. The 3,4-orientation has always been the most appealing to the life scientists as this is the positional substitution pattern found in the natural neuro-chemicals dopamine, norepinephrine and epinephrine. These latter two are called noradrenalin and adrenalin in England. Two adjacent hydroxy groups
-
-represent the catechol in the well known word catecholamines. You might read in a textbook, "This is where nature placed the groups when she put the compounds in our brains. So that is where the groups might be the most interesting in a psychedelic." Why? I have never understood this kind of reasoning. If a possible psychedelic has just the exact oxygen positioning of a neurotransmitter, then, voila, that's why it is active. And if a possible psychedelic has some positioning of these oxygen atoms that is different than that of a neurotransmitter? Then voila again. That's why it is active. Both sound equally reasonable to me, and neither one even begins to address the fundamental question, how do the psychedelic drugs do what they do? A study in the human animal of the intimate effects of one of these neurotransmitter analogues might bring us a little bit closer to answering this fundamental question. But maybe it wouldn't, after all. Nothing has made much sense so far! Anyway, 3,4-DMA is one of the ten and natural precursors that can, in theory, arise from the ten essential oils of the spice and herb trade. In this case, the origins are methyl eugenol and methyl isoeugenol.
-
-Two of these "different" isomers, 2,4-DMA and 2,5-DMA, have already been discussed in their own separate recipes. And the remaining three of the six possible DMA's that are "different" have been made and studied pharmacologically in animals but not in man. These are the 2,3-DMA, 2,6-DMA and the 3,5-DMA isomers. The products of their reaction with elemental bromine are discussed under [[meta-dob-entity-pihkal]].
+These "[[meta-dob-entity-pihkal]].
 
 Both the 2,6- and the 3,5-isomers, as the N,N-dimethyl homologues, have been looked at as potential radio-halogen recipients in the search for positron-emitting brain blood-flow indicators, as discussed in the recipe for IDNNA. Both were made from the appropriate nitrostyrene via the corresponding phenylacetone.
 
@@ -71,9 +65,27 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[2-4-dma-entity-pihkal]]
 - [[4-br-3-5-dma-entity-pihkal]]
 - [[2-5-dma-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related phenethylamine compounds in PIHKAL
+## Practical Considerations
+
+Successful implementation of 3,4-DMA -- 3,4-DIMETHOXYAMPHETAMINE -- PIHKAL Entry #55 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

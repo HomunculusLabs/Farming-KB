@@ -20,7 +20,7 @@ The boil-a-bag technique is a method of mushroom-cultivation developed by
 D.H. Jarrold for growing mushrooms indoors using heat-resistant plastic bags as
 the primary growing container. The approach is designed to be accessible to
 home cultivators, requiring relatively inexpensive equipment and readily
-available materials. The technique combines elements of [[mushroom-substrate-sterilization-and-pasteurization]], [[mushroom-spore-syringe-preparation]], and
+available materials. The technique combines elements of [[mushroom-spore-syringe-preparation]], and
 controlled fruiting in a humidity chamber.
 
 ## Overview
@@ -128,11 +128,9 @@ substrates readily.
 
 ## See Also
 
-- [[mushroom-spore-syringe-preparation]]
 - [[mushroom-substrate-sterilization-and-pasteurization]]
 - mushroom-cultivation
 - mycelium
 - substrate
-- [[jarrold-boil-a-bag-mushroom-cultivation-method]]
 - [[sterile-technique-mushroom-cultivation]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

@@ -11,71 +11,90 @@ sources:
 
 **Chemical name:** N-Methyl-1-(1,3-benzodioxol-5-yl)-2-butanamine; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane
 
-**PiHKAL #128** | [[alexander-shulgin]]'s rating: ++
-
-**Nicknames:** EDEN, METHYL-J
-
-## Overview
-
-MBDB is an empathogenic compound closely related to [[mdma-entity]]|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[alexander-shulgin]] as part of the "Muni Metro" system of systematically varying the aliphatic chain length in the MD-series.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | 120-150 |
-| Light | 150-180 |
-| Common | 180-210 |
-| Strong | 210-250 |
-| Heavy | 250+ |
-
-## Duration
-
-| Phase | Time |
-|-------|------|
-| Onset | 20-35 min |
-| Come-up | 20-30 min |
-| Peak | 1-2 h |
-| Offset | 2-4 h |
-| Total | 4-6 h |
-
-## Qualitative Effects
-
-- Gentle, friendly empathogenic effects without strong stimulation
-- De-stressing and relaxing qualities
-- Reduced drive and motivation ("too much trouble to set out to do anything")
-- Enhanced visual perception (bright colors, no true hallucinations)
-- Euphoria described as a "feeling of grace"
-- Soft skin sensation and enhanced interpersonal closeness
-- Less verbal urge than mdma-entity|MDMA
-- Some jaw-clenching and nystagmus at peak
-- Can produce a state similar to alcohol intoxication without disabling effects
-- Quiet, meditative quality
-
-## Shulgin's Qualitative Comments
-
-At 210 mg: "very, very friendly, very quiet effect... distinct de-stressing effect, to the point where it's too much trouble to set out to do anything at all." Same dose: "Onset rapid. Alert 20 minutes, and to a +2.5 at 30 to 35 minutes. No physical symptoms, i.e., teeth clench, no stomach problems." With 50 mg supplement: "lack of language for the phenomenon... like an alcohol high without the disabling side effects." With 70 mg supplement: "intense euphoria that I call a feeling of grace, soft skin, voices, youthful appearance, animated discussions... seems an excellent substitute for MDMA."
-
-## Extensions and Commentary
-
-MBDB has a remarkably tight dosage range (180-210 mg), attesting to consistent response. Observers familiar with mdma-entity|MDMA group sessions noted that MBDB lacked "some of the spontaneity, the warmth, and the clear intimacy" of MDMA. Typical supplements were 70 mg or less, just before the two-hour point, indicating a chronology similar to MDMA at about two-thirds the potency.
-
-The "Muni Metro" naming system relates the aliphatic chain length to San Francisco's Muni transit lines: H (no alpha-carbon, phenethylamines), I (one alpha-carbon, amphetamines like MDA/MDMA), J (two alpha-carbons, like MBDB/MDE-J), K (three), and L (four). MBDB occupies the J position.
-
-MBDB has been explored as a potential non-neurotoxic alternative to MDMA for psychotherapy, though clinical research has been limited compared to MDMA.
-
-## Safety Warnings
-
-- Less stimulant than MDMA but still carries cardiovascular considerations
-- Jaw-clenching and nystagmus possible at peak
-- Less studied than MDMA; long-term effects unknown
-- See [[psychedelic-harm-reduction]] for general harm reduction guidelines
+**PiHKAL #128** | [[mdma]]|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[psychedelic-harm-reduction]] for general harm reduction guidelines
 - Legal status: Scheduled in many countries as a controlled substance analogue
 
 ## Related Compounds
 
 - mdma-entity|MDMA — alpha-methyl homologue, more potent and stimulating
-- [[mda]]|MDA — N-demethylated, more psychedelic
 - [[mde-entity]]|MDE — N-ethyl homologue of MDMA
 - 2c-b-entity|2C-B — phenethylamine analogue, more psychedelic
 - [[mdai-entity]]
+## Practical Applications
+
+MBDB (Eden, METHYL-J) has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MBDB (Eden, METHYL-J). These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

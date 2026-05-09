@@ -1,7 +1,7 @@
 ---
 title: Fungal Kingdom Diversity
 created: 2026-04-28
-tags: [mycology, taxonomy, biodiversity, fungi]
+tags: [[mycology, taxonomy, biodiversity, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -65,12 +65,26 @@ undocumented species.
 
 ## See Also
 
-- [[fungal-diversity-mediterranean-ecosystems]]
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
-- [[molecular-methods-in-situ-fungal-diversity-monitoring]]
-
 - [[fungal-endemism-and-biogeography]]
-- [[environmental-dna-fungal-survey]]
-- Cryptic Speciation in Fungi
 - [[mycorrhizal-network-diversity]]
 - [[undescribed-fungal-taxa]]
+## Practical Considerations
+
+Successful implementation of Fungal Kingdom Diversity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

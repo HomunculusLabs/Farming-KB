@@ -113,36 +113,8 @@ Establishment typically follows this sequence:
 
 ### How do I manage pests and diseases in a tropical food forest?
 
-Tropical food forests have a significant advantage over monocultures when it comes to pest management: biodiversity creates [[jeavons-natural-pest-control]] through predator-prey relationships, trap cropping, and physical barriers. Key strategies include:
-
-- **Maximize diversity.** A complex polyculture with dozens of species is far less susceptible to devastating pest outbreaks than a monoculture. Pests that specialize on one host plant struggle to find enough food in a diverse system.
-- **Attract beneficial insects.** Plant umbellifers (dill, fennel, cilantro in flower), composites (marigold, sunflower), and aromatic herbs (basil, mint) throughout the food forest to attract predatory wasps, ladybugs, lacewings, and other beneficial insects.
-- **Use trap crops.** Plant sacrificial crops that attract pests away from your main crops. For example, nasturtiums attract aphids; sunflowers attract stink bugs.
-- **Encourage birds and bats.** Bird boxes, bat houses, and flowering plants that attract insectivorous birds and bats provide significant pest control, especially against flying insects and fruit-feeding pests.
-- **Practice selective pruning.** Good airflow through the canopy reduces fungal diseases, which are a major challenge in humid tropics. Remove dead, diseased, or crossing branches regularly.
-- **Apply biological controls.** Neem oil, Beauveria bassiana (an entomopathogenic fungus), Trichoderma spp., and Bacillus thuringiensis (Bt) are effective organic tools for specific pest problems.
-
-### How much food can a tropical food forest produce?
-
-Well-established tropical food forests are among the most productive agricultural systems per unit area. Reported yields vary widely depending on species mix, management intensity, and site conditions, but productive systems can produce 10–20 tonnes of edible biomass per hectare per year, comparable to or exceeding conventional tropical monocultures. Unlike monocultures, food forests produce this yield across multiple species and throughout the year, providing dietary diversity, nutritional security, and resilience to crop failure.
-
-A quarter-acre (0.1 hectare) tropical food forest can realistically provide a significant portion of a family's caloric needs (from staple root crops like cassava and sweet potato), a diverse supply of fruits (banana, papaya, guava, citrus, mango), daily greens and herbs, and surplus for sharing or selling at local markets. The key is thoughtful species selection that matches production to actual consumption needs.
-
-### What are the most common mistakes when starting a tropical food forest?
-
-- **Planting too densely.** Overcrowding leads to competition, poor airflow, and disease. Follow recommended spacing and plan for the mature size of each tree.
-- **Ignoring soil preparation.** Jumping straight to planting without building soil through mulching, composting, and nitrogen fixation leads to poor establishment and slow growth.
-- **Not managing water.** Failing to install water management earthworks (swales, ponds, contour planting) before planting is the single most common cause of food forest failure in the seasonal tropics.
-- **Expecting instant results.** A food forest is a long-term investment. The first 2–3 years require significant establishment work; meaningful harvests from tree crops typically begin in year 3–5.
-- **Neglecting succession planning.** Failing to plan for the transition from sun-loving pioneer species to shade-tolerant climax species leads to gaps in production and unused space as the canopy closes.
-
-## See Also
-
-- [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
-- [[query-how-do-i-design-planting-guilds-for-a-food-forest]]
+Tropical food forests have a significant advantage over monocultures when it comes to pest management: biodiversity creates [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-how-can-i-design-a-climate-resilient-food-forest]]
 
-- [[permaculture-humid-tropical-garden-design]]
 - [[mollison-tropical-and-coastal-permaculture-design]]
-- [[permaculture-food-forest-design-principles]]
 - [[permaculture-designers-manual-cold-climate-design]]

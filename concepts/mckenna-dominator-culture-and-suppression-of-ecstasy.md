@@ -134,12 +134,9 @@ understanding that human consciousness participates in a larger web of meaning
 and intelligence. The goal is not to reject modernity but to restore the 
 dimension of ecstatic experience that the dominator culture has systematically 
 excluded.
-
 ## See Also
 
-- [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
 - [[mckenna-catalytic-psychedelics-and-culture]]
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 - [[dominator-culture-and-partnership-society]]
 

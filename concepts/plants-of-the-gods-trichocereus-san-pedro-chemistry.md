@@ -50,37 +50,7 @@ Mescaline, a phenethylamine derivative, is responsible for the visual
 hallucinogenic effects characteristic of San Pedro intoxication. The
 mescaline content makes *T. pachanoi* one of the most significant
 naturally occurring sources of this compound, comparable to
-[[schultes-peyote-tracks-little-deer]] (*Lophophora williamsii*).
-
-## Regional Names and Distribution
-
-San Pedro is known by many indigenous names across its range:
-
-- **San Pedro** — northern coastal Peru
-- **Huachuma** — northern Andean area of Peru
-- **Achuma** — Bolivia (the verb *chumarse* meaning "to get drunk"
-  derives from this name)
-- **Aguacolla** and **Giganton** — Ecuadorian names
-
-## Traditional Preparation and Use
-
-The stems of the cactus are normally purchased in native markets, then
-sliced like bread and boiled for up to seven hours in water. After
-drinking San Pedro, other medicinal herbs begin to "talk" to the
-shaman, activating his own inner power. San Pedro may be consumed
-alone, but it is frequently combined with other plants that are
-separately boiled, producing a drink called **Cimora**.
-
-### Cimora Additives
-
-Numerous plant additives are employed in Cimora preparation:
-
-- *Neoraimondia macrostibas* — Andean cactus
-- *Iresine* spp. — amaranthaceous plant reputed to cure "insanity"
-- *Pedilanthus tithymaloides* — euphorbiaceous species
-- *Isotoma longiflora* — Campanulaceae family, with biodynamic
-  principles
-- [[plants-of-the-gods-brugmansia-angels-trumpet]] (*Brugmansia aurea*
+[[plants-of-the-gods-brugmansia-angels-trumpet]] (*Brugmansia aurea*
   and *B. sanguinea*) — potent hallucinogens frequently added
 - Powdered bones and cemetery dust — added to ensure magical
   effectiveness
@@ -123,19 +93,10 @@ native belief, linking modern practice to ancient traditions.
 The principal effects of *T. pachanoi* have been described by shamans
 as beginning with drowsiness and a dreamy state, followed by slight
 dizziness and a feeling of lethargy, progressing through visionary
-experiences. The effects parallel those of [[schultes-peyote-tracks-little-deer]] but
-with a distinct ceremonial and cultural context rooted in Andean
-shamanism rather than North American indigenous practice.
+experiences. The effects parallel those of [[plants-gods-san-pedro]]
 
-## See Also
-
-- [[plants-gods-san-pedro]]
-
-- [[schultes-peyote-tracks-little-deer]] — peyote and
-  mescaline
 - [[plants-of-the-gods-brugmansia-angels-trumpet]] — common Cimora
   additive
-- [[schultes-san-pedro-four-winds]] — San Pedro ethnographic overview
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] — mescaline
   chemistry
 - [[plants-of-the-gods-hallucinogens-medicine]] — therapeutic

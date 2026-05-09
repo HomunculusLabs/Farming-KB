@@ -3,7 +3,7 @@ title: Fungal Succession on Decomposing Leaves
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Succession on Decomposing Leaves
@@ -26,25 +26,7 @@ As labile nutrients are depleted, secondary colonizers capable of degrading stru
 
 ### Phase 3: Late-Stage Decomposition
 
-The final phase involves fungi capable of degrading lignin and other recalcitrant compounds. [[basidiomycete-phylum-guide]] with ligninolytic enzyme systems (laccase, peroxidase, tyrosinase) often dominate this phase. These fungi mineralize the remaining complex organic matter into humus.
-
-## Drivers of Succession
-
-Multiple factors drive the successional process:
-
-- **Resource quality**: Changes in substrate chemistry as decomposition proceeds, from labile to recalcitrant compounds
-
-- **Moisture content**: Progressive changes in water-holding capacity as leaf structure breaks down
-
-- **pH shifts**: Acidification during early decomposition, potential neutralization later
-
-- **Microclimate**: Changes in temperature and humidity within the leaf litter layer
-
-- **Biological interactions**: Competition, antagonism, and facilitation among fungal species
-
-## Species Turnover
-
-Different fungal species dominate at different stages. A large proportion of [[taxonomic-impediment-fungal-species-description]] become saprobic on the death of their host, giving them an advantage over airborne colonizers. Their intimate pre-existing association with the plant allows immediate utilization of the dead tissue.
+The final phase involves fungi capable of degrading lignin and other recalcitrant compounds. [[taxonomic-impediment-fungal-species-description]] become saprobic on the death of their host, giving them an advantage over airborne colonizers. Their intimate pre-existing association with the plant allows immediate utilization of the dead tissue.
 
 Many endophytic species enter an intermediate necrotrophic stage as the host tissue becomes moribund, allowing even earlier colonization and utilization of energy resources. Some necrotrophic fungi that began as pathogens on living leaves cease to sporulate after the leaf falls and form teleomorph stroma, overwintering until the next season.
 
@@ -76,11 +58,7 @@ Hudson and Webster (1958) discovered that fungal succession varies even between 
 
 ## Interactions with Soil Fauna
 
-Fungal succession on leaves is influenced by interactions with soil invertebrates. Collembola, mites, and other microarthropods feed on fungal mycelium and spores, selectively grazing certain species and thereby shaping community composition. Some soil fauna fragment litter, increasing surface area for fungal colonization, while others transmit fungal propagules between litter particles. These [[fungal-interactions-soil-fauna]] create complex feedback loops that influence decomposition rates and nutrient release patterns.
-
-## Enzymatic Basis of Succession
-
-The successional shift from sugar fungi to cellulolytic and then ligninolytic species reflects the enzymatic capabilities required at each decomposition stage. Early colonizers primarily produce invertases, proteases, and other hydrolases for simple substrates. Secondary decomposers add cellulases, hemicellulases, and pectinases. Late-stage fungi produce [[ligninolytic-enzyme-production-bioremediation]] including laccases, peroxidases, and oxidases that attack the most recalcitrant plant polymers.
+Fungal succession on leaves is influenced by interactions with soil invertebrates. Collembola, mites, and other microarthropods feed on fungal mycelium and spores, selectively grazing certain species and thereby shaping community composition. Some soil fauna fragment litter, increasing surface area for fungal colonization, while others transmit fungal propagules between litter particles. These [[ligninolytic-enzyme-production-bioremediation]] including laccases, peroxidases, and oxidases that attack the most recalcitrant plant polymers.
 
 ## Practical Applications
 
@@ -98,11 +76,8 @@ Understanding fungal succession on leaves has applications in:
 
 ## Related Topics
 
-- [[fungal-leaf-litter-diversity]]
 - [[fungal-biodiversity-forest-floor]]
-- [[fungal-succession-patterns]]
 - [[fungal-decomposition-nutrient-cycling]]
-- [[fungal-decomposition-wood-litter]]
 - [[fungal-communities-succession]]
 
 ## References

@@ -21,7 +21,7 @@ created: 2026-05-03
 
 # Hardy Kiwi vs Fuzzy Kiwi vs Grape for Trellising Systems
 
-Choosing between hardy kiwi (*Actinidia arguta*), fuzzy kiwi (*Actinidia deliciosa*), and grape (*Vitis vinifera* / *V. labrusca*) for a trellis-based planting depends on your climate, available space, maintenance capacity, and goals. All three are vigorous deciduous vines requiring strong support, but they differ dramatically in cold hardiness, fruit characteristics, pollination needs, and upkeep demands.
+Choosing between hardy kiwi (*Actinidia arguta*), fuzzy kiwi (*[[vitis-vinifera]]* / *V. labrusca*) for a trellis-based planting depends on your climate, available space, maintenance capacity, and goals. All three are vigorous deciduous vines requiring strong support, but they differ dramatically in cold hardiness, fruit characteristics, pollination needs, and upkeep demands.
 
 ## Quick Comparison
 
@@ -135,11 +135,8 @@ Hardy kiwi commands premium prices at farmers' markets due to novelty, exception
 
 ## See Also
 
-- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
-
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 
 - comparison hardy kiwi vs fuzzy kiwi vs grape for trellising — detailed kiwifruit growing guide
 - comparison hardy kiwi vs fuzzy kiwi vs grape for trellising — alternative trellised fruits
-- [[gaias-garden-food-forest-history-and-evolution]] — integrating vines into food forests
 - [[zone-and-sector-analysis]] — zone planning for trellised crops

@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, figs, cold-climate, fruit-trees, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 
@@ -38,16 +39,7 @@ reliable main crop are preferred.
 
 Choosing the right variety is the single most important decision for cold-
 climate fig growing. The following varieties have proven hardiness and
-reliable [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in zones 5 through 7.
-
-| Variety | Hardiness | Fruit Quality | Notes |
-|---------|-----------|--------------|-------|
-| Chicago Hardy | Zone 5 (-10°F) | Brown, sweet, medium | Dies back but regrows |
-| Brown Turkey | Zone 6 (0°F) | Brown-purple, rich | Most widely available |
-| Celeste | Zone 6 (0°F) | Small, violet, very sweet | Closed eye resists rain |
-| LSU Purple | Zone 6 (0°F) | Purple, excellent flavor | Good for humid areas |
-| Hardy Chicago | Zone 5 (-10°F) | Brown, good producer | Same as Chicago Hardy |
-| Violette de Bordeaux | Zone 6 (5°F) | Dark purple, exceptional | [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] for cold areas |
+reliable [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] for cold areas |
 | Desert King | Zone 6 (0°F) | Green skin, pink flesh | Excellent breba crop |
 | Negronne | Zone 6 (0°F) | Black, berry-like flavor | Compact growth habit |
 
@@ -58,41 +50,11 @@ offering reliable production with moderate winter protection.
 
 ## Creating a Protected Microclimate
 
-[[natural-farming-guide-microclimate-management]] is essential for fig success in cold regions. Figs
-planted against a south-facing wall receive reflected heat and wind
-protection, often creating a zone that is 5 to 10 degrees warmer than the
-surrounding area. Brick, stone, or stucco walls absorb heat during the day
-and release it slowly at night, moderating temperature swings.
-
-Other microclimate strategies include planting near large rocks or pavement
-that radiate heat, and placing figs under evergreen canopy for wind protection.
-Avoid planting in low-lying frost pockets where cold air collects.
-
-## Winter [[holzer-browsing-protection-methods]]
+[[holzer-browsing-protection-methods]]
 
 Several winter protection methods allow figs to survive and produce in zones
 5 and 6. The simplest approach is heavy mulching. After the first hard frost
-causes leaf drop, pile 12 to 18 inches of straw, leaves, or [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] over
-the base of the plant. This insulates the root crown and lower trunk, which
-is the most cold-sensitive part of the tree. Even if all above-ground wood
-dies back, a protected root crown will send up vigorous new shoots in spring.
-
-For more complete protection, wrap the tree in layers of burlap or frost
-blanket filled with dry leaves or straw. Build a cylinder of chicken wire
-around the tree, fill it with dry leaves, and wrap the exterior with
-tar paper or plastic sheeting to keep moisture out. This method can protect
-the above-ground wood down to about minus 10 degrees Fahrenheit, preserving
-both breba and main crop potential.
-
-The most effective but labor-intensive method is the "fig bury" technique.
-Growers in the coldest regions dig a trench next to the tree, loosen the
-roots on one side, and bend the entire tree into the trench. The tree is
-then covered with soil, mulch, and a tarp. In spring, the tree is uncovered
-and staked upright. This method allows figs to survive in zone 4 with
-minimal dieback, but it requires a flexible young tree and significant
-physical effort each fall and spring.
-
-## [[container-growing-vegetables-herbs]] as an Alternative
+causes leaf drop, pile 12 to 18 inches of straw, leaves, or [[container-growing-vegetables-herbs]] as an Alternative
 
 Growing figs in containers is a practical alternative for cold-climate
 growers who want to avoid winter protection routines. Figs have shallow root
@@ -146,5 +108,3 @@ fermentation. Choose closed-eye varieties like Celeste to prevent this issue.
 ## Related
 
 - [[query-how-to-grow-passionfruit-in-different-climates]]
-
-- [[query-how-to-grow-avocados-in-cold-climates]] Questions

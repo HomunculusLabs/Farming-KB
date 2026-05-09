@@ -127,10 +127,6 @@ From the book's 19 Soil Food Web Gardening Rules:
 - Rule 8: Wet, ground-up mulch promotes faster bacterial colonization.
 - Rule 9: Coarse, dry mulches promote fungal activity.
 
-- [[lowenfels-soil-minerals-nutrients]]
-
-## See Also
 - [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]
-- [[solomon-mulching-and-cover-cropping]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]
 - [[natural-farming-guide-cover-cropping-and-green-manures]]

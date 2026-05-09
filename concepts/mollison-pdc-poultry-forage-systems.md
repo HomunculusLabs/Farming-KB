@@ -14,21 +14,7 @@ sources:
 type: concept
 ---
 
-# Poultry Forage Systems in [[permaculture-design]]
-
-## Overview
-
-[[bill-mollison]]'s [[permaculture]] Design Course devotes considerable attention
-to the design of poultry forage systems, calling it an area "never in
-the history of the world" properly designed or implemented. The PDC
-approach treats poultry not as isolated grain-fed producers but as
-integral components of multi-functional landscape systems that generate
-their own feed, reduce pests, cycle nutrients, and require minimal
-external inputs.
-
-## White Mulberry as Primary Forage
-
-Mollison identifies white mulberry ([[morus-alba]]) as equal to a double
+# Poultry Forage Systems in [[bill-mollison]]'s [[morus-alba]]) as equal to a double
 crop of grain for chicken forage, at 17% protein. The mulberry crop
 provides excellent food during bearing and beyond, because chickens
 continue eating fallen seed long after fruit is gone. Key points:
@@ -146,5 +132,4 @@ Mollison references several traditional forage associations:
   brought with their pigs and poultry
 - Every old chicken yard contains relics of these integrated systems
 
-The PDC notes old systems declined when descendants learned modern
 ## See Also

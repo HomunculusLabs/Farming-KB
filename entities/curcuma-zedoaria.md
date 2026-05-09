@@ -104,17 +104,10 @@ Organic cultivation methods are common, as the species is relatively pest-resist
 
 ## See Also
 
-- [[curcuma-longa]] — Common turmeric, the most commercially important Curcuma species
 - [[zingiber-officinale]] — Culinary ginger, a related Zingiberaceae rhizome crop
-- [[alpinia-galanga]] — Greater galangal, another aromatic Zingiberaceae rhizome
 - [[alpinia-officinarum]] — Lesser galangal, used in TCM and Southeast Asian cuisine
-- [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species with similar culinary uses
 - [[kaempferia-galanga]] — Sand ginger, aromatic rhizome used in Thai and Indonesian cooking
-- [[cinnamomum-verum]] — Ceylon cinnamon, a complementary aromatic spice in traditional medicine
 - [[eucalyptus-globulus]] — Eucalyptus, a source of cineole-rich essential oil with overlapping chemistry
-- [[alpinia-zerumbet]] — Shell ginger, an ornamental and medicinal Zingiberaceae species
 - [[tagetes-lucida]] — Mexican marigold, a source of aromatic essential oils in traditional medicine
-- [[ocimum-basilicum]] — Sweet basil, a culinary herb with documented anti-inflammatory properties
 - [[cymbopogon-citratus]] — Lemongrass, a tropical aromatic grass with related essential oil chemistry
-- [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass cultivated for its essential oil
 - [[salvia-officinalis]] — Common sage, a Mediterranean medicinal herb with anti-inflammatory terpenes

@@ -137,14 +137,9 @@ and cold stratification recommended) or semi-hardwood cuttings.
 It establishes rapidly, often flowering in the second year.
 
 Full sun to partial shade. Drought-tolerant once established.
-USDA hardiness zones 4–9. No serious pest or disease problems.
-
 ## See Also
 
 - [[caragana-arborescens]]
-- [[elaeagnus-umbellata]]
 - [[lespedeza-bicolor]]
-- [[robinia-pseudoacacia]]
 - [[black-locust-entity]]
 - [[melilotus-officinalis]]
-- [[trifolium-repens]]

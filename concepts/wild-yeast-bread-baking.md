@@ -136,6 +136,3 @@ Wild yeast bread baking produces a high-value product for [[farmers-market-selli
 ## See Also
 
 - [[comparison-sourdough-vs-wild-yeast-bread]]
-- [[comparison-wild-vs-cultured-yeast]]
-- [[comparison-sourdough-vs-wild-yeast]]
-- [[wild-fermentation-vs-cultured-yeast]]

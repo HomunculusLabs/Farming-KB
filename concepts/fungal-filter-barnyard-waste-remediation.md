@@ -136,10 +136,6 @@ alike.
 
 ## See Also
 
-- [[cotter-pet-livestock-waste-fungal-remediation-systems]]
-
 - [[tabletop-mycofiltration-unit-construction]]
-- [[enzyme-harvesting-mycorrhizal-systems]]
 - [[cotter-mycoremediation-overview]] concepts
-- [[rhizofiltration]] methods
 - [[mushroom-strain-preservation-species-banking]] cultivation

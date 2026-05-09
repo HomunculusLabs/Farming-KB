@@ -1,17 +1,3 @@
----
-title: "THC Isomerization"
-type: concept
-tags:
-  - cannabis-chemistry
-  - extraction
-  - isomerization
-  - organic-chemistry
-  - cannabinoids
-date: 2026-05-08
-updated: 2026-05-08
-sources:
-  - Ben Lemon (1980). "Cannabis Alchemy: The Art of Modern Hashmaking." And/Or Press.
----
 
 # THC Isomerization
 
@@ -26,12 +12,7 @@ cases increase it five to six times.
 
 ## Rationale
 
-Cannabis resin typically contains tetrahydrocannabinol, cannabidiol (CBD),
-cannabinol (CBN), and various terpenes and other compounds. CBD is
-non-psychoactive but structurally similar to THC and can be chemically
-converted into it.
-
-Experience has shown that the quantity of CBD in cannabis oil is usually
+[[cannabis-oil-capsules-preparation]] is usually
 at least equal to the quantity of THC. Because of this, the strength of
 the oil can be at least doubled through isomerization. In some cases,
 potency may be increased five to six times.
@@ -100,29 +81,7 @@ cyclization of the open-ring CBD molecule into the closed-ring THC
 molecule.
 
 The acid also catalyzes the conversion of THC between its isomeric
-forms. Delta-9-THC and delta-8-THC are the primary isomers, with
-delta-9 being more psychoactive. Under the conditions of the reaction,
-an equilibrium favoring the higher-rotating, more potent isomers is
-established.
-
-## Safety Considerations
-
-Sulfuric acid at 100% concentration is one of the most dangerous
-commonly available chemicals. It causes immediate and severe burns on
-contact with skin, and reacts violently with water (the reaction is
-exothermic and can cause splattering). The acid must always be added
-slowly to other substances, never the reverse.
-
-The refluxing apparatus must be made of Pyrex or other borosilicate
-glass. Stainless steel and other metals will react with the acid.
-
-Adequate ventilation is essential. The ether used in extraction is
-highly flammable, and its vapors form explosive mixtures with air.
-No open flames or sparks should be present.
-
-## Relationship to Other Processes
-
-THC isomerization is distinct from THC acetate conversion. Isomerization
+forms. Delta-9-THC and [[thc-acetate-and-isomerization]] conversion. Isomerization
 converts CBD to THC and optimizes THC isomeric form. THC acetate
 conversion adds an acetate group to THC, producing a compound with twice
 the potency on the Adams scale and a distinctive delayed onset.
@@ -135,10 +94,5 @@ anhydride.
 
 ## See Also
 
-- [[cannabis-extraction-methods]]
-- [[thc-acetate]]
-- [[cannabidiol]]
-- [[tetrahydrocannabinol]]
-- [[hashish-preparation]]
 - [[ben-lemon]]
-- [[honey-oil]]
+- honey oil

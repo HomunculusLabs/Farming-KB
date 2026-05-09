@@ -3,13 +3,13 @@ title: Fruit Tree Grafting Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: permaculture, fruit-tree, orchard, trees, pruning, cultivation, techniques, methods, homesteading, agriculture]
+tags: [permaculture, fruit-tree, orchard, trees, pruning, cultivation, techniques, methods, homesteading, agriculture]
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
-# fruit tree grafting guide
+# Fruit Tree Grafting Guide
 
-[[sepp-holzer]] describes four main grafting techniques for propagating and repairing fruit trees. The aim of grafting is to bind the rootstock and scion so that they grow together, requiring good contact between the cambium layers.
+Sepp Holzer describes four main grafting techniques for propagating and repairing fruit trees. The aim of grafting is to bind the rootstock and scion so that they grow together, requiring good contact between the cambium layers.
 
 ## Rootstock Selection
 
@@ -77,24 +77,6 @@ This method can even save heavily damaged trees. Trees treated this way are bett
 
 It is perfectly possible to graft a number of varieties onto a single tree. This solves the pollination problem for self-incompatible varieties like apples and pears, minimises crop failure risk, and provides varied ripening times from a single tree.
 
-## Timing and Aftercare
-
-Grafting success depends on timing, scion quality, and aftercare. Most
-grafts are performed in late winter to early spring, before bud break but
-after the coldest weather has passed. Scion wood should be collected during
-dormancy from the previous season's growth — one-year-old wood with plump,
-healthy buds is ideal. Scions are stored wrapped in moist paper inside
-plastic bags in the refrigerator until use. After grafting, the union must
-be protected from drying out with grafting wax, parafilm, or tree-wrap
-sealant, and the new graft should be shaded from direct sun for the first
-few weeks.
-
-Common failures include: cambium layers not aligned properly (the single
-most frequent cause of failure), scions drying out before the union forms,
-girdling from binding material left on too long, and frost damage to new
-growth. A successful graft typically shows bud break within 2-4 weeks.
-Any growth below the graft union (from the rootstock) should be removed
-promptly, as it competes with the scion and can overgrow it.
 ## Related
 
 - [[old-fruit-variety-selection]]

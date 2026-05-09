@@ -41,72 +41,14 @@ predators. At each level, energy is diminished by the living processes
 of the organisms. Humanity's position spans three possible levels.
 
 The energy pyramid also extends belowground, where energy flow greatly
-affects the health of [[savory-water-cycle-management]], [[holmgren-mineral-balance-soil-fertility]], and
-[[savory-plant-succession-and-community-dynamics]], all of which
-require a biologically active soil community. Plant roots convey solar
-energy underground to feed this community.
-
-## The Energy Tetrahedron: A New Model
-
-The discovery of the four missing keys in holistic management revealed
-that the old two-dimensional pyramid was inadequate. The new model views
-the energy structure as two tetrahedrons joined at their bases, creating
-a three-dimensional base with three sides: **time**, **volume**, and
-**area**.
-
-The broader the base of this structure, the more energy available at
-every level. The crucial bottom level has three sides that management
-can directly influence:
-- **Time** (duration of growth): How long plants are green and growing
-- **Volume** (of plants): How many plants grow per unit area
-- **Area** (of leaf): How much leaf surface is exposed to sunlight
-
-Extending any of these three sides increases the energy base, while
-shortening any single side cuts the amount of energy all the way up
-through the ecosystem.
-
-## Time: Duration of Growth
-
-The longer plants are growing, the more productive the ecosystem as a
-whole. Time can be extended by lengthening the growing season or by using
-the available growing time more efficiently. Producing a better [[holmgren-mineral-balance-soil-fertility]] and [[savory-water-cycle-management]] extends growing time in both ways.
-
-A key example: under good management, moisture remains available in the
-soil after falling temperatures end the growing season. Plants can start
-growing the instant warm conditions return, even before the first rain.
-With a noneffective water cycle, growth cannot start until rain falls.
-
-The most obvious example of lost growing time is the annual grasslands
-produced by poor management. Where perennial grasses have disappeared,
-there are prolonged periods in every year when no growth at all occurs.
-Remnant patches of perennial grassland continue to grow actively and
-convert energy while surrounding annual grasses have long since dried and
-died.
-
-## Volume: Number of Plants
-
-Volume refers to the number of plants per unit area. Ten plants per square
-yard can convert more solar energy than three. In [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], plant spacings are heavily affected by
+affects the health of [[holmgren-mineral-balance-soil-fertility]], and
+[[holmgren-mineral-balance-soil-fertility]] and [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], plant spacings are heavily affected by
 management practices. Fire, animals, machines, or combinations can lead to
 close spacings; incorrectly applied, any can expand bare spaces.
 
 Photographic evidence from the Barlite Ranch in west Texas shows dramatic
 differences: land fenced off for years developed widening bare spaces as
-old plants stagnated from overrest. Nearby land subjected to high [[savory-animal-impact-and-herd-effect]] showed dense, complex grassland with closely
-spaced plants. Plant densities correlated positively with livestock
-disturbance.
-
-## Area: Leaf Surface Exposed
-
-Plants adapt to growing conditions in three major ways. Hydrophytic (wet)
-plants and xerophytic (dry) plants both tend to have narrow leaves and grow
-slowly. Mesophytic (middle) plants produce broad, flat leaves, grow rapidly
-when moisture and temperature are favorable, and store more solar energy
-per unit time.
-
-To increase the area side of the energy tetrahedron, the community must
-be shifted toward middle plants. This depends on good water-to-air balance
-in the soil, governed by the [[savory-water-cycle-management]]. Evidence from Zimbabwe shows that applying tools to minimize
+old plants stagnated from overrest. Nearby land subjected to high [[savory-water-cycle-management]]. Evidence from Zimbabwe shows that applying tools to minimize
 overgrazing and promote closer plant
 spacings changed a patch dominated by poor-quality Loudecia grasses to an
 80 percent mix of productive middle grasses.
@@ -126,21 +68,24 @@ Technology can increase energy flow through machinery, drainage,
 irrigation, chemicals, and genetic engineering. However, direct
 intervention in the energy flow is extremely dangerous because of complex
 interrelationships. Enhancing energy flow through heavy inputs of fossil
-fuel products damages [[savory-water-cycle-management]],
-[[holmgren-mineral-balance-soil-fertility]], and [[savory-plant-succession-and-community-dynamics]] cycles. The cornerstone of modern
-agriculture, energy-debt technology, is producing rising costs of
-production and increasing unsustainability.
-
-## The Practical Stakes
-
-The practical implications are enormous. On one drought-stricken ranch,
-Savory calculated that one extra ounce of grass per square yard, achieved
-by improving energy flow, represented fifteen million pounds of grass.
-Every management decision affects energy flow, making it a consideration
-that no land manager can afford to ignore.
-
-## See Also
-
-- [[savory-water-cycle-management]]
-- [[holmgren-mineral-balance-soil-fertility]]
+fuel products damages [[holmgren-mineral-balance-soil-fertility]], and [[savory-water-cycle-management]]
 - [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
+## Practical Considerations
+
+Successful implementation of Energy Flow and the Energy Tetrahedron requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

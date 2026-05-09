@@ -86,40 +86,7 @@ fruiting bodies characteristic of the group.
 - **Substrate:** Terrestrial, arising from leaf litter, moss-covered ground,
   and humus-rich soil; sometimes on well-rotted wood fragments buried in litter
 - **Ecology:** Primarily saprotrophic on forest floor litter; some evidence
-  suggests weakly ectomycorrhizal associations in certain habitats
-- **Season:** Late summer to autumn (August–November in Northern Hemisphere)
-- **Frequency:** Uncommon to rare; more frequently encountered in old-growth
-  or minimally disturbed forest stands
-- **Elevation:** Lowland to subalpine, 0–2000 m
-
-## Bioactive Compounds
-
-Research on Clavaria zollingeri biochemistry is limited due to the relative
-rarity of the species, but available studies have identified:
-
-- **Anthocyanin derivatives:** Responsible for the distinctive violet pigmentation;
-  these are unstable and degrade rapidly upon drying or exposure to UV light
-- **Clavaric acid:** A sesquiterpene carboxylic acid isolated from related
-  Clavaria species with reported farnesyl protein transferase inhibitory
-  activity, investigated for anticancer potential
-- **Polysaccharides:** β-glucan and heteroglycan fractions with preliminary
-  immunostimulatory activity demonstrated in vitro
-- **The species has not been extensively screened for novel metabolites,
-  representing an understudied area of natural products chemistry**
-
-## Edibility
-
-- **Edibility:** Technically non-toxic but considered inedible
-- **Taste:** Insipid, watery, lacking any notable flavor
-- **Texture:** Rubbery, gelatinous — unpleasant mouthfeel
-- **There are no documented culinary uses for this species**
-- ⚠️ **Note:** While not poisonous, its rarity and lack of culinary value
-  make collection inadvisable; also resembles some poisonous species in
-  other genera
-
-## Ecological Significance
-
-- **Litter decomposition:** Contributes to breakdown of coniferous needle litter
+  suggests weakly [[decomposition]]:** Contributes to breakdown of coniferous needle litter
   and leaf duff on the forest floor
 - **Mycorrhizal associations:** Some evidence of weak ectomycorrhizal
   capability, potentially facilitating nutrient exchange with host trees
@@ -135,16 +102,12 @@ rarity of the species, but available studies have identified:
 
 | Species | Key Differences |
 |---------|----------------|
-| Clavaria vermicularis | White to cream color, grows in dense clusters |
-| Clavulina cristata (white form) | Branched, antler-like; white to cream |
+| [[clavulina-cristata]] (white form) | Branched, antler-like; white to cream |
 | Clavulina amethystinoides | More extensively branched; found in tropics |
 | Ramaria spp. | Coralloid, extensively branched; many are orange/yellow |
 | Typhula spp. | Much smaller (1–3 cm), on decaying herbaceous stems |
-
 ## See Also
 
-- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
-
-- [[claviceps-purpurea]] — Another Clavariaceae member with potent bioactives
+- [[clitocybe-nuda]] — Another Clavariaceae member with potent bioactives
 - clavulina — Related clavarioid genus with branching fruiting bodies
-- [[clitocybe-nuda-entity]] — Another violet-colored forest fungus
+- [[clitocybe-nuda]] — Another violet-colored forest fungus

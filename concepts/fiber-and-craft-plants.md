@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Fiber and Craft Plants for Permaculture
 
@@ -91,24 +92,11 @@ Leaves are a source of sisal fibre, one of the main fibre crops of the world. Al
 Bark fibre used to make very strong rope. The wood, although somewhat difficult to work, is used in cabinet making because of its beautiful grain. Also used for cartwheels and posts.
 
 ### Cotton and Other Fibres
-Traditional fibre crops can be integrated into permaculture systems as part of diverse polycultures. See [[garden-plant-groupings]] for polyculture design principles.
-
-## Design Considerations
-
-- Plant fibre and craft species in [[zone-sector-analysis-guide]] for regular access and harvesting
-- Combine with nitrogen-fixing [[nitrogen-fixing-trees-and-shrubs]] to maintain soil fertility in craft plantations
-- Use [[chop-and-drop-mulching]] with prunings from craft species to cycle nutrients
-- Establish osier willow beds along waterways for both [[organic-vegetable-growing-and-market-gardening]] and basketry supply
-- Integrate paper-pulp species with permaculture-earthworks|swale plantings for productive water management
-- Consider craft timber as a long-term yield from [[multi-purpose-trees]] plantings
-- Use Typha and Phragmites at pond edges for both [[edible-aquatic-plants]] and fibre production
-
-## Related
-
-- [[multi-purpose-trees]]
+Traditional fibre crops can be integrated into permaculture systems as part of diverse polycultures. See [[zone-sector-analysis-guide]] for regular access and harvesting
+- Combine with nitrogen-fixing [[chop-and-drop-mulching]] with prunings from craft species to cycle nutrients
+- Establish osier willow beds along waterways for both [[multi-purpose-trees]] plantings
+- Use Typha and Phragmites at pond edges for both [[multi-purpose-trees]]
 - bamboo species guide
-- [[edible-aquatic-plants]]
 - [[nitrogen-fixing-trees-and-shrubs]]
-- [[zone-sector-analysis-guide]]
-- [[organic-vegetable-growing-and-market-gardening]]
+- [[organic-vegetable-growing-calendar]]
 - [[permaculture-earthworks]]

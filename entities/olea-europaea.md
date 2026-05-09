@@ -110,12 +110,8 @@ The species is increasingly planted in arid-region restoration projects due to i
 
 ## See Also
 
-- [[rosmarinus-officinalis]]
 - [[cinnamomum-camphora]]
-- [[pogostemon-cablin]]
 - [[rosa-damascena]]
-- [[vanilla-planifolia]]
 - [[pimenta-dioica]]
-- [[vitis-vinifera]]
 - [[ceratonia-siliqua]]
 - [[prunus-dulcis]]

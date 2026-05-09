@@ -112,9 +112,6 @@ As regulatory controls have restricted access to earlier cathinones (mephedrone,
 
 ## See Also
 
-- [[methylone]]
 - [[butylone]]
-- [[ethylone]]
 - [[mephedrone]]
-- [[5-apb]]
 - [[6-mapb]]

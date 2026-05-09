@@ -54,38 +54,34 @@ Composting is a form of biostimulation that involves mixing contaminated soil wi
 
 The composting process generates heat through microbial metabolism, raising temperatures to levels (40 to 65 degrees Celsius) that accelerate degradation kinetics and may kill pathogens. The thermophilic phase is followed by a mesophilic curing phase during which more recalcitrant compounds are gradually mineralized.
 
-Composting has been successfully applied to treat soils contaminated with explosives (TNT, RDX), petroleum hydrocarbons, PAHs, and pesticides. The addition of bulking agents improves soil structure and aeration, while the diverse microbial communities in compost provide a broad metabolic capability for degrading mixed contaminants. See [[composting-methods-comparison]] for details on different composting approaches.
-
-## Temperature Management
-
-Microbial degradation rates approximately double for every 10 degrees Celsius increase in temperature within the mesophilic range (10 to 40 degrees Celsius). Biostimulation strategies may include passive solar heating (using plastic covers to warm soil surfaces), active heating (using buried heating elements or steam injection), or seasonal scheduling of treatment activities to coincide with warmer months.
-
-In cold climates, biostimulation may be combined with insulation (mulch layers, snow management) to extend the effective treatment season. Psychrotrophic (cold-adapted) microorganisms naturally present in many environments can maintain degradation activity at reduced temperatures, though at slower rates.
-
-## Monitoring and Optimization
-
-Effective biostimulation requires monitoring of key parameters including contaminant concentrations, nutrient levels, dissolved oxygen, pH, moisture content, temperature, and microbial activity indicators (respiration rates, enzyme activity, or microbial population counts). Monitoring data is used to adjust amendment application rates and timing to optimize remediation performance.
-
-Nutrient applications may need to be repeated periodically as nutrients are consumed or leached from the treatment zone. The frequency and duration of monitoring depend on the remediation timeline, regulatory requirements, and the complexity of the contaminated site.
-
-## Advantages and Limitations
-
-Biostimulation is generally less expensive than bioaugmentation because it does not require cultivation and formulation of specialized microbial inocula. Native microorganisms are already adapted to site conditions and face less competition from resident communities than introduced strains.
-
-However, biostimulation is limited by the metabolic capabilities of the indigenous microbial population. If the native community lacks the necessary catabolic pathways for the target contaminants, nutrient addition alone will not achieve remediation. In such cases, bioaugmentation (see [[fungal-bioaugmentation-inoculation]]) may be necessary to introduce organisms with the required degradation capabilities. Biostimulation alone is often more effective than bioaugmentation for petroleum hydrocarbon remediation because the required microbial populations are typically already present at contaminated sites.
+Composting has been successfully applied to treat soils contaminated with explosives (TNT, RDX), petroleum hydrocarbons, PAHs, and pesticides. The addition of bulking agents improves soil structure and aeration, while the diverse microbial communities in compost provide a broad metabolic capability for degrading mixed contaminants. See [[fungal-bioaugmentation-inoculation]]) may be necessary to introduce organisms with the required degradation capabilities. Biostimulation alone is often more effective than bioaugmentation for petroleum hydrocarbon remediation because the required microbial populations are typically already present at contaminated sites.
 
 ## See Also
 
-- [[fungal-bioaugmentation-inoculation]] — introduction of specialized remediation organisms
 - [[fungal-bioremediation]] — fungal approaches to contaminant degradation
-- [[bioremediation-fungal-vs-bacterial]] — comparison of remediation organisms
 - [[composting-methods-comparison]] — composting as a biostimulation strategy
-- [[bioaugmentation-strategies]] — approaches to augmenting microbial populations
 - [[white-rot-fungi-bioremediation]] — ligninolytic fungi for pollutant degradation
 
 ## Related
 
-- [[bioremediation-monitoring-and-assessment]]
 - [[constructed-wetlands-wastewater-treatment]]
-- [[bioremediation-using-fungi]]
 - [[pcb-remediation-technologies]]
+## Practical Considerations
+
+Successful implementation of Biostimulation Techniques requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

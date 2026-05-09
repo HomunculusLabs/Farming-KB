@@ -135,7 +135,9 @@ The caryophyllene-dominant profile is unusual and directly responsible for the g
 
 ## See Also
 
-- [[gelato-cannabis]] — Related GSC descendant with different terpene profile
 - [[bubba-kush]] — Indica with similarly heavy sedative effects
-- [[slurricane]] — Potent indica with fruity terpene profile for comparison
 - [[do-si-dos-entity]] — GSC-derived strain with balanced hybrid effects
+
+## See Also
+
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

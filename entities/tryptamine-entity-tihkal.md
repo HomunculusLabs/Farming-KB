@@ -14,23 +14,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 - Synonyms: 3-(2-Aminoethyl)indole, Indole-3-ethylamine
 - Class: Parent tryptamine (unsubstituted)
 - Molecular weight: 160.22
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: 250 mg intravenously
-- Duration: Very short
-- Active routes: intravenous (oral not active due to rapid metabolism)
-
-## Qualitative Effects
-
-At up to 10 mg (IV): No changes in blood pressure or self-rating scores.
-
-At 250 mg (IV, infused over 7.5 minutes): Physical changes included increased
-blood pressure, increased patellar reflex amplitude, and pupillary dilation.
-Subjective changes were described as "not unlike those seen with small doses
-of LSD." A point-by-point comparison revealed a close similarity, consistent
-with the hypothesis that tryptamine and [[lsd-entity-tihkal]] share a
+- Source: [[lsd-entity-tihkal]] share a
 common mode of action.
 
 Detailed observations included: heaviness, tiredness, or numbness of limbs
@@ -51,44 +35,72 @@ recently found in cucumber seedlings.
 
 Tryptamine is produced in the body from the essential amino acid tryptophan
 via the enzyme tryptophan decarboxylase. It is the immediate precursor to
-[[nmt-entity-tihkal]], [[alpha-n-dmt-entity-tihkal]], [[melatonin-entity-tihkal]],
-and [[bufotenin-entity-tihkal]]. See [[tryptophan-decarboxylase]]
-for enzymatic details.
-
-## Synthesis
-
-The standard synthetic route proceeds through gramine: indole is reacted
-with dimethylamine and formaldehyde to give 3-(dimethylaminomethyl)indole
-(gramine, mp 131-132°C, ~32% yield with water present, approaching quantitative
-under anhydrous conditions). Gramine is then treated with sodium cyanide
-to give indole-3-acetonitrile (bp 140-150°C at 0.1 mm/Hg, 79% yield), which
-is reduced with LAH in THF to give tryptamine (mp 112-114°C, 86% yield).
-
-## Occurrence
-
-Tryptamine itself has been detected (along with indoleacetic acid, [[nmt-entity-tihkal]],
-and [[alpha-n-dmt-entity-tihkal]]) in the Illinois Bundleflower legume (Desmanthus
-illinoensis), a plant used in ayahuasca preparations. Tryptamine is also
-the parent compound of an enormous family of natural and synthetic psychoactive
-substances.
-
-## Related TIHKAL Entries
-
-- [[alpha-n-dmt-entity-tihkal]] — N,N-dimethyltryptamine
-- [[nmt-entity-tihkal]] — N-methyltryptamine
+[[amt-entity-tihkal]], [[bufotenin-entity-tihkal]]. See [[nmt-entity-tihkal]],
+and [[amt-entity-tihkal]] — N,N-dimethyltryptamine
 - [[det-entity-tihkal]] — N,N-diethyltryptamine
-- [[4-ho-dpt-entity-tihkal]] — N,N-dipropyltryptamine
 - [[4-ho-dipt-entity-tihkal]] — N,N-diisopropyltryptamine
-- [[psilocin-entity-tihkal]] — 4-hydroxy-DMT
 - [[bufotenin-entity-tihkal]] — 5-hydroxy-DMT
-- [[melatonin-entity-tihkal]] — 5-methoxy derivative
-
-## See Also
-
 - [[tryptamine-hallucinogens]]
 
-- [[tryptamine-family-overview]] — comprehensive family overview
 - [[tryptamine-consciousness-theory]] — consciousness research
-- [[tryptophan-decarboxylase]] — biosynthetic enzyme
 - [[phenethylamine-tryptamine-comparison]] — cross-series comparison
 - [[tryptamine-hypercontinuum]]
+## Practical Considerations
+
+When working with Tryptamine (Tihkal), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

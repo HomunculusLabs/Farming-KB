@@ -87,11 +87,7 @@ The terpenoid content of cannabis is influenced by genetics (strain selection), 
 
 ## See Also
 
-- [[cannabis-terpene-profile]] — basic terpene overview
 - [[cannabis-terpene-profile]] — detailed terpene information
-- [[cannabis-terpene-entourage-effect-profiles]] — entourage effect in detail
 - [[cannabis-strain-selection-guide]] — choosing strains by terpenoid profile
-- [[cannabis-endocannabinoid-system]] — how cannabinoids and terpenoids interact
 - [[cannabis-minor-cannabinoids]] — non-THC/CBD cannabinoids
-- [[cannabis-flavonoids]] — flavonoid compounds in cannabis
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]

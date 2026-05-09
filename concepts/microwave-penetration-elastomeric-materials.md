@@ -113,14 +113,8 @@ Microwave through-seal sterilization fills the specific niche of in-place, on-de
 
 ## Applications in Cultivation and Research
 
-For [[sterilization-techniques-mushroom-cultivation]] and biological research applications, the through-elastomer capability suggests practical approaches for treating inoculation ports, filter housings, sealed culture vessels, and bioreactor connection points without disassembly. This could complement [[aseptic-inoculation-technique-fungal-cultures]] procedures by providing an additional sterilization pathway for sealed connection points.
+For [[aseptic-inoculation-technique-fungal-cultures]] procedures by providing an additional sterilization pathway for sealed connection points.
 
-Specific mushroom cultivation applications include sterilizing the mating surfaces of spawn bags and substrate containers before and after opening, treating inoculation ports on automated cultivation equipment, and maintaining sterility at connection points in recirculating air filtration systems used in clean room environments for [[sterile-cultivation-technique]] operations.
-
-## Related Concepts
-
-- [[microwave-sterilizable-access-port]] for the system design exploiting through-seal penetration
-- [[microwave-surface-sterilization-technology]] for the complete microwave irradiation system
+Specific mushroom cultivation applications include sterilizing the mating surfaces of spawn bags and substrate containers before and after opening, treating inoculation ports on automated cultivation equipment, and maintaining sterility at connection points in recirculating air filtration systems used in clean room environments for [[microwave-sterilizable-access-port]] for the system design exploiting through-seal penetration
 - [[microwave-2-45-ghz-water-dipolar-coupling]] for the electromagnetic physics of microwave-material interaction
-- [[bacterial-spore-microwave-resistance]] for resistant organisms that must be killed through the seal
 - [[surface-sterilization-methods-comparison]] for alternatives that cannot treat through sealed barriers

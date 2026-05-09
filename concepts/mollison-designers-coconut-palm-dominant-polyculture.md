@@ -126,12 +126,8 @@ Pigs are ideal scavengers in tree crops below palms and fruit.
 
 ## Related
 
-- [[mollison-coconut-palm-polyculture-systems]]
-
 - [[mollison-designers-marine-polyculture]] Concepts
 
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
 - [[mollison-village-complex-elements-in-the-humid-tropics]]
-- [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-tropical-earth-shaping-polyculture-economics]]
 - [[mollison-gangammas-mandala-and-banana-circle-gardens]]

@@ -12,7 +12,7 @@ sources:
 # Datura candida
 **Datura candida** (white angel's trumpet) is a perennial shrub or small tree
 in the nightshade family (Solanaceae), native to the Andean regions of
-[[gartz-magic-mushrooms-species-south-america]]. It is one of the so-called "[[tree-daturas-brugmansia-south-american-ethnobotany]]" or "angel's
+[[tree-daturas-brugmansia-south-american-ethnobotany]]" or "angel's
 trumpets," a group of species within the genus *Datura* characterized by
 their large, pendant, trumpet-shaped flowers and woody growth habit. Like
 all Datura species, *D. candida* contains potent tropane alkaloids and has
@@ -23,56 +23,7 @@ ceremonial plant in indigenous South American cultures.
 
 *Datura candida* is a fast-growing, woody perennial that can reach 2 to 5
 meters in height under favorable conditions, occasionally attaining heights
-of 8 meters [[mushroom-mites-and-nematodes-in-cultivation]]. The stems are semi-woody, branching freely, and
-covered with a fine pubescence. The leaves are large (15 to 30 cm long and
-8 to 18 cm wide), ovate to elliptic, with entire or slightly toothed margins,
-a velvety upper surface, and soft pubescence on the underside.
-The most striking feature is the flowers — large, pendulous, trumpet-shaped
-blooms measuring 20 to 30 cm in length, typically pure white or ivory in
-color. The corolla tube is narrow at the base and flares dramatically into
-a broad, lobed mouth. The flowers open in the late afternoon and evening,
-are intensely fragrant (especially at night), and typically last 2 to 3 days
-before wilting. The nocturnal flowering and fragrance suggest adaptation to
-pollination by moths, particularly sphinx moths (Sphingidae).
-The fruit is a large, spindle-shaped capsule, 8 to 15 cm long, which may be
-smooth or covered with soft spines depending on the form or variety. The
-capsule contains numerous kidney-shaped seeds, each approximately 5 to 8 mm
-long. Unlike the herbaceous daturas, whose capsules dehisce (split open)
-when ripe, the capsules of tree daturas tend to remain closed or only
-partially open at maturity. All parts of the plant — leaves, flowers, seeds,
-stems, and roots — contain tropane alkaloids at varying concentrations, with
-the seeds and leaves typically having the highest content.
-
-## Taxonomy and Classification
-
-The taxonomy of the tree daturas has been subject to considerable revision.
-Many modern authorities place the tree daturas in a separate genus,
-*Brugmansia*, distinguishing them from the herbaceous annual species retained
-in *Datura* (such as [[datura-stramonium]] and [[datura-metel]]). Under this
-classification, *Datura candida* becomes *Brugmansia candida*.
-The primary morphological distinctions between the two genera are:
-- *Brugmansia* (tree daturas) are perennial, woody shrubs or trees with
-  pendant flowers and non-dehiscent fruits
-- *Datura* (herbaceous daturas) are annual or short-lived perennials with
-  erect flowers and dehiscent fruits
-The genus *Brugmansia* contains approximately 7 to 9 species, all native to
-South America. The species is closely related to *Datura suaveolens* and
-*Datura aurea*, and hybridization occurs readily between tree datura species,
-both in the wild and in cultivation, making precise identification
-challenging. Numerous cultivated hybrids and horticultural varieties exist,
-further complicating taxonomic clarity.
-
-## Distribution and Habitat
-
-*Datura candida* is native to the Andean regions of South America,
-particularly Ecuador, Peru, Bolivia, and northern Argentina, growing at
-elevations from 200 to 3,000 meters above sea level. It is found in montane
-and subtropical forests, along stream banks and ravines, in disturbed areas
-near human settlements, and in cloud forest margins. The plant prefers
-moist, well-drained, fertile soils in positions with full sun or partial
-shade.
-The species has been widely cultivated and naturalized outside its native
-range in tropical and subtropical regions worldwide, including [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and Southeast Asia,
+of 8 meters [[datura-stramonium]] and [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and Southeast Asia,
 and Australia. It is valued in horticulture for its spectacular, fragrant
 flowers and has escaped cultivation in many areas to become established in
 the wild.

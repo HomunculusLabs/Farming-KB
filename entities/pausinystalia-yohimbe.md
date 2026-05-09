@@ -135,16 +135,11 @@ programs in Cameroon and Nigeria, cultivation trials, and the development
 of synthetic yohimbine production to reduce pressure on wild populations.
 Bark substitutes from related *Pausinystalia* species have been
 investigated, though yohimbine content varies considerably.
-
 ## See Also
-
-- [[yohimbine]]
 
 - [[ephedra-sinica]] — another stimulant-containing plant with
   adrenergic activity
-- [[rauwolfia-serpentina]] — Indian snakerow, source of reserpine
-  and ajmalicine
-- [[piper-methysticum-entity]] — kava, a Pacific psychoactive plant
+- [[piper-methysticum]] — kava, a Pacific psychoactive plant
 - [[turnera-diffusa]] — damiana, another traditional aphrodisiac herb
 - pausinystalia yohimbe — genus overview for related African medicinal trees
 - yohimbine — the primary alkaloid compound isolated from yohimbe

@@ -22,18 +22,7 @@ Mycorrhizal colonization activates plant defense pathways that provide
 protection against subsequent pathogen attack. This phenomenon, termed
 mycorrhiza-induced resistance (MIR), involves both local and systemic
 defense reactions that prime the plant for enhanced responsiveness to
-pathogens. The defense priming triggered by [[arbuscular-mycorrhizal-fungi]]
-(AMF) shares features with induced systemic resistance (ISR) provoked
-by plant growth-promoting rhizobacteria, involving jasmonic acid
-signaling and the activation of pathogenesis-related proteins without
-the constitutive high metabolic cost of fully activated defenses.
-
-## Defense Mechanisms Activated by AMF
-
-AMF colonization stimulates multiple layers of plant defense responses.
-Constitutive synthesis of beta-1,3-glucanase and new isoforms of
-beta-1,3-glucanase and chitinase have been detected within roots
-colonized with [[glomus-mosseae]]. While these enzymatic changes were shown
+pathogens. The defense priming triggered by [[glomus-mosseae]]. While these enzymatic changes were shown
 to be local rather than systemic, they represent an activated defense
 state in mycorrhizal root tissues. Additionally, callose accumulation has
 been observed around cortical cells containing arbuscules, representing
@@ -56,36 +45,7 @@ demonstrating that AMF can confer whole-plant protection.
 Jasmonic acid (JA) is an essential hormone implicated in the ISR
 provoked by rhizobacteria, and JA also accumulates within mycorrhizal
 roots. JA accumulates in cortical cells containing arbuscules and plays
-a dual role in the [[mycorrhizal-symbiosis]]. JA is involved in defense
-responses after biotic and abiotic stresses and would permit regulation
-of the mycorrhizal symbiosis itself. The accumulation of JA within
-arbuscule-containing cells could contribute to the reduction of pathogen
-proliferation, as P. nicotianae hyphae were never observed in the same
-cells as G. mosseae arbuscules. However, excessive JA may be detrimental
-to the symbiosis: overexpression of the JA-biosynthetic enzyme allene
-oxide cyclase increased JA levels but reduced mycorrhizal colonization.
-
-## Interaction with Salicylic Acid Pathways
-
-The mycorrhizal symbiosis involves a complex interplay between JA and
-salicylic acid (SA) signaling pathways. Signaling compounds such as
-nitric oxide, reactive oxygen species, salicylic acid, and jasmonic
-acids participate in the defense responses triggered by AMF
-colonization. The balance between SA-dependent and JA/ethylene-dependent
-defense pathways determines the specificity and effectiveness of the
-primed defense state. In general, MIR appears to operate primarily
-through JA/ethylene-dependent pathways, distinguishing it from systemic
-acquired resistance (SAR) which is SA-dependent.
-
-## The Six Mechanisms of AMF-Mediated Biocontrol
-
-Research has identified six interacting mechanisms through which AMF
-mediate biocontrol of soil-borne pathogens. First, improvement of plant
-nutrient status provides damage compensation. Second, AMF compete with
-pathogens for host photosynthates and colonization sites. Third,
-mycorrhizal colonization changes root anatomy and architecture. Fourth,
-microbial community changes in the rhizosphere favor antagonistic
-organisms. Fifth, local [[plant-defense-mechanisms]] are activated in
+a dual role in the [[plant-defense-mechanisms]] are activated in
 colonized root tissues. Sixth, systemic effects of AMF colonization
 induce systemic resistance throughout the root system. The relative
 contribution of each mechanism depends on the AMF and plant genotype
@@ -130,7 +90,5 @@ disease suppression in specific crop systems.
 
 ## See Also
 
-- [[amf-nematode-interactions]]
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
-- [[mycorrhizal-plant-defense]]
 - [[endophytic-mycorrhizal-induced-systemic-resistance]]

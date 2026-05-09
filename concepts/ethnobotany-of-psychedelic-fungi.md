@@ -65,27 +65,7 @@ attractive to offer.
 The Spaniards succeeded only in driving the custom into the
 hinterlands, where it persists today. Not only did it survive,
 but the ritual adopted many Christian aspects, creating a
-pagan-Christian blend that characterizes modern [[sacred-mushroom-ceremonies]]. The identification of the sacred
-mushrooms was slow in coming because the cult was driven into
-hiding for four centuries.
-
-## Species Used in Traditional Contexts
-
-More than 20 species of mushrooms are employed among seven or
-eight tribes in southern Mexico. The kinds used are determined
-partly by personal preference, partly by the purpose of use,
-and partly by seasonal and regional availability. Stropharia
-cubensis and Psilocybe mexicana may be the most commonly
-employed, but numerous other Psilocybe species as well as
-Conocybe siliginoides and Panaeolus sphinctrinus are also
-important.
-
-Native names for these mushrooms are colorful and meaningful.
-Psilocybe aztecorum is called "children of the waters," P.
-zapotecorum is called "crown-of-thorns mushroom," and P.
-caerulescens var. nigripes is called "mushroom of superior
-reason." These names reflect the deep cultural significance
-of the [[entheogenic-mushroom-species]] in indigenous worldviews.
+pagan-Christian blend that characterizes modern [[entheogenic-mushroom-species]] in indigenous worldviews.
 
 ## The Wasson Re-Discovery
 
@@ -100,27 +80,7 @@ catalyzed scientific and cultural interest.
 
 ## McKenna's Stoned Ape Hypothesis
 
-[[terence-mckenna]] proposed the "stoned ape" hypothesis in Food
-of the Gods, suggesting that psilocybin mushrooms played a
-significant role in the evolution of human consciousness.
-McKenna argued that early hominids incorporating psilocybin
-containing mushrooms into their diet may have experienced
-enhanced visual acuity at low doses, increased sexual activity
-at moderate doses, and ego-dissolution and community-bonding
-at higher doses, potentially catalyzing language development
-and social organization.
-
-## Beyond Mesoamerica
-
-The possibility exists that Psilocybe species are used as
-inebriants outside of Mexico. P. yungensis has been suggested
-as the mysterious "tree mushroom" that early Jesuit
-missionaries reported as being employed by the Yurimagua
-Indians of Amazonian Peru as the source of a potent
-intoxicating beverage. Contemporary ethnobotanists continue
-to document traditional uses of psychoactive fungi across
-cultures, including Amanita muscaria use in Siberian shamanism.
-See [[psychedelic-plant-sources]] for broader context.
+[[psychedelic-plant-sources]] for broader context.
 
 ## See Also
 

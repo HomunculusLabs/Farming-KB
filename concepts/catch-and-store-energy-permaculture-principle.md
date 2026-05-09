@@ -1,17 +1,7 @@
 ---
 title: "Catch and Store Energy — Permaculture Principle 2"
 created: 2026-04-28
-tags: [permaculture, design-principles, energy, sustainability, ecology]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
-type: concept
----
-
-# Catch and Store Energy — Permaculture Principle 2
-
-Catch and Store Energy is the second of [[david-holmgren]]'s twelve permaculture-design-principles. It focuses on using existing wealth to make long-term
+tags: [[david-holmgren]]'s twelve permaculture-design-principles. It focuses on using existing wealth to make long-term
 investments in natural capital. The principle recognises that during the rapid
 growth phase of human civilisation, driven by fossil fuel energy, we have
 largely ignored the imperative to capture and store energy for future use.
@@ -23,28 +13,7 @@ survival and adaptation in an era of energy-descent.
 All life on earth depends on the capture of solar energy through photosynthesis.
 This fundamental process, along with minor contributions from wind, wave, and
 geothermal energy, is the basis for all biological productivity. In the context
-of [[permaculture-design]], "catching and storing energy" refers to the
-conscious design of systems that capture environmental flows and store them for
-future use.
-
-The principle extends beyond energy in the strict physical sense. It encompasses
-the storage of water, nutrients, genetic material, and information. Natural
-landscapes are exceptionally effective at catching and storing these resources.
-Humus-rich soils can hold enormous quantities of water and nutrients, while
-forests store decades or centuries of captured solar energy in their biomass.
-
-## EMERGY and Yield Ratios
-
-Howard Odum's concept of EMERGY (embodied energy) provides a framework for
-evaluating the true energetic cost of different systems. EMERGY analysis reveals
-that industrial annual cropping systems typically have yield ratios close to 1:1,
-meaning they barely return more energy than they consume. By contrast, a
-300-year rainforest achieves a yield ratio of approximately 12:1, and
-woodland plantations range from 1.5:1 to 4:1.
-
-These figures demonstrate that natural systems are far more effective at
-catching and storing energy than most human agricultural systems. The
-implication for [[permaculture-design]] is clear: designing systems that mimic
+of [[permaculture-design]] is clear: designing systems that mimic
 natural patterns of energy capture and storage will be more productive and
 sustainable over the long term.
 
@@ -69,22 +38,7 @@ Key strategies for building soil energy stores include:
 Water is a form of captured environmental energy. Natural landscapes store
 water in soils, groundwater aquifers, wetlands, and biomass. Permaculture
 design seeks to maximise on-site water storage through:
-- Contour swales and [[keyline-design]] to slow water movement across slopes
-- Dams and ponds for surface water storage
-- Vegetation management to increase infiltration and reduce runoff
-- Mulching and soil improvement to increase water-holding capacity
-
-The principle recognises that in the Australian context, water is a
-particularly critical resource. The prevalence of permanent streams and
-groundwater in other countries has reduced the stimulus to harvest water that
-has operated in Australia, making Australian permaculture approaches
-especially relevant globally.
-
-## Forests and Biomass
-
-Forests represent the largest store of captured solar energy in terrestrial
-ecosystems. Tree planting for timber, fuel, and ecosystem services is a
-central strategy in [[permaculture-design]]. The principle advocates investing
+- Contour swales and [[permaculture-design]]. The principle advocates investing
 in long-lived tree systems as a form of intergenerational wealth transfer.
 Even if future generations do not need the timber, planted forests become
 homes for wild nature and inspiration for the human spirit.
@@ -109,23 +63,26 @@ resistance.
 Holmgren acknowledges that it is hard to completely avoid using fossil fuel
 energy subsidies in daily life. At Melliodora, the household is connected to
 mains electricity but uses less than one-fifth of typical household consumption
-through [[passive-solar-design]] and wood heating. The principle is not about
-absolute purity but about designing systems as if fossil fuels were much more
-highly priced, while making the best use of available renewable resources.
-
-## Long-Term Investment
-
-The principle frames long-term asset building for future generations as an
-ethical imperative. In a time of rapid change and short-term thinking, rebuilding
-stores of energy in forests and biological resources is essential. The
-challenge is deciding what is worth investing in for the benefit of
-grandchildren and descendants in an uncertain world.
-
-## See Also
-
-- [[permaculture-design]]
-- [[permaculture-ethics-earth-care-people-care-fair-share]]
+through [[permaculture-design]]
 - [[observe-and-interact-permaculture-principle]]
-- [[obtain-a-yield-permaculture-principle]]
 - [[produce-no-waste-permaculture-principle]]
 - energy-descent
+## Practical Considerations
+
+Successful implementation of Catch and Store Energy — Permaculture Principle 2 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

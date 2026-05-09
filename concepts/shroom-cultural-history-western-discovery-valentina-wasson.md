@@ -77,15 +77,9 @@ Letcher subjects Wasson's theories to sustained criticism:
 
 ## Related
 
-- [[valentina-pavlovna-wasson]]
-
 - [[shroom-wasson-valentina-expedition]] Concepts
 
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — Sabina's life and the Mazatec practices Wasson documented
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]] — The cultural revolution Wasson's article helped trigger
-- [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — Wasson's theories about prehistoric mushroom cults
-- [[mushroom-cultivation-fundamentals]]
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[roger-heim-scientific-study-psilocybin]]
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

@@ -123,14 +123,8 @@ practices.
 
 ## See Also
 
-- [[arbutus-unedo]]
-
 - [[curcuma-longa]]
-- [[zingiber-officinale]]
 - [[alpinia-galanga]]
-- [[boesenbergia-rotunda]]
 - [[kaempferia-galanga]]
-- [[turmeric]]
-- [[ashwagandha]]
-- [[tulsi]]
+- [[withania-somnifera]]
 - [[companion-planting]]

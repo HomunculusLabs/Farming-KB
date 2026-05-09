@@ -134,10 +134,7 @@ percent of total nutrition, closing the nutrient loop.
 
 ## See Also
 
-- [[cho-poultry-natural-farming-methods]]
 - [[cho-imo-collection-bamboo-stump-and-paddy-field]]
-- [[cho-lactic-acid-bacteria-preparation]]
 - [[cho-fermented-plant-juice-preparation]]
-- [[cho-fermented-mixed-compost-methods]]
 - [[natural-farming]]
 - [[korean-natural-farming]]

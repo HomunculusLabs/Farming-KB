@@ -3,13 +3,7 @@ title: Low-Energy Futures in Permaculture
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Low-Energy Futures in Permaculture
-
-Holmgren's closing chapters articulate a vision of low-energy futures grounded in permaculture principles. Rather than presenting a single utopian blueprint, he describes the transition from energy-abundant consumer society to energy-constrained conserver society as an ongoing process of adaptive design. This extends the [[permaculture-energy-descent-planning]] framework into specific strategies for cultural, economic, and technological transformation. The context is set by [[permaculture-global-crisis-response]] and [[consumer-versus-conserver-society]].
+tags: [[permaculture-energy-descent-planning]] framework into specific strategies for cultural, economic, and technological transformation. The context is set by [[consumer-versus-conserver-society]].
 
 ## The Energy Descent Context
 
@@ -29,37 +23,7 @@ Social democratic movements of the late 19th and early 20th centuries mastered a
 
 ## The Built Environment as Energy Store
 
-A central theme in Holmgren's vision is recognising the built environment as a vast store of embodied energy. The houses, roads, pipes, and infrastructure of modern civilisation represent centuries of fossil energy investment. In a low-energy future, maintaining and adapting this infrastructure (rather than replacing it) becomes a primary design task. This connects directly to [[retrofitting-suburbs-permaculture]] -- the incremental transformation of existing suburban fabric rather than building new eco-villages from scratch.
-
-The best use for non-renewable resources should be to establish a system, rather than to maintain or harvest it. Examples include:
-- Passive solar houses using high-embodied-energy glass to capture solar energy while providing lighting and views
-- Bulldozers creating water harvesting and distribution systems maintainable indefinitely by human labour
-- Mineral fertilisers for one-time soil rehabilitation creating permanent improvement in biological productivity
-
-## Future Sustainable Culture
-
-As the rate of change during energy descent slows, more enduring and diverse bioregional cultures will emerge. Holmgren expects these cultures to have the following characteristics:
-
-- **Bioregional political and economic structures**: Governance boundaries that reflect natural systems, especially river catchments
-- **Cross-fertilised populations**: Biogenetically, racially, culturally and intellectually hybrid, giving natural vigour analogous to hybrid ecosystems
-- **Accessibility and low technology dependence**: Complex, centrally controlled technologies likely unreliable; accessible, locally maintainable solutions essential
-- **Incremental development**: Organic and iterative; each step immediately useful and providing feedback for refinement
-
-### Attitudes Adaptive to Descent
-Values contributing to a new descent culture include:
-- Acknowledging useful contributions from outside any particular discipline
-- Learning from knowledge systems outside scientific rationalism
-- Remaining sceptical of official authority unless supported by localised, networked credentials
-- Acknowledging the validity of pre-existing cultures of place
-- Contributing to a culture of place by supporting and celebrating the local
-- Using media and information technology with sceptical caution -- "the icing on the cake, rather than the cake itself"
-
-## Bioregional Organization
-
-Holmgren envisions a future organized at the bioregional scale where human settlements are sized and structured to match the carrying capacity of their local ecosystems:
-- **Settlement size**: Compact villages and towns rather than sprawling metro areas
-- **Food systems**: Local production meeting most dietary needs, with long-distance trade for specialties
-- **Water systems**: Catchment-scale management integrating [[urban-permaculture-rainwater-harvesting-graywater]], storage, and distribution
+A central theme in Holmgren's vision is recognising the built environment as a vast store of embodied energy. The houses, roads, pipes, and infrastructure of modern civilisation represent centuries of fossil energy investment. In a low-energy future, maintaining and adapting this infrastructure (rather than replacing it) becomes a primary design task. This connects directly to [[urban-permaculture-rainwater-harvesting-graywater]], storage, and distribution
 - **Energy systems**: Renewable sources matched to local resources (solar, wind, biomass, microhydro)
 - **Governance**: Participatory decision-making at the community and bioregional scale
 
@@ -91,7 +55,7 @@ Holmgren notes the irony that as global energy flows decline, the interconnected
 
 ## Permaculture as Strategic Framework
 
-Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-water-harvesting-earthworks]] and the [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available.
+Holmgren positions permaculture as "ecological rationalism" -- it recognises the design rules and measures of value in energy descent, and it provides ethical and positive pathways for embracing those design rules. The [[permaculture-ethics]] provide a coherent set of design guidelines that remain valid regardless of the energy available.
 
 The rapid evolution of more appropriate governance, economy and culture, including art and myth, are central to adapting to energy descent. "To claim that it is possible to use Permaculture principles to design a sustainable culture and society may be too big a leap, but I believe it is possible at least to use them for evaluating the diverse cultural phenomena we find ourselves participating in."
 
@@ -107,17 +71,11 @@ The transition to low-energy futures involves multiple parallel pathways:
 Scepticism and resistance to dogma are just as important in a descent culture as in a free one. "Adaptation to energy descent depends on a dynamic balance of values and contextual knowledge rather than holy crusades of good over evil or simplistic, universal solutions."
 
 ## See Also
-- [[permaculture-principles]]
-
 - [[permaculture-energy-descent-planning]]
-- [[consumer-versus-conserver-society]]
 - [[retrofitting-suburbs-permaculture]]
-- [[permaculture-community-scale-design]]
 - [[permaculture-global-crisis-response]]
-- [[permaculture-water-harvesting-earthworks]]
 - [[permaculture-ethics]]
 
 ## Related
 
-- [[mollison-social-and-economic-design]]
 - [[phase-change-materials-thermal-energy-storage]]

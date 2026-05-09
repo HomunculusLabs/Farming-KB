@@ -84,12 +84,7 @@ Historical Colombian varieties included:
 - The older seeds from legendary strains are highly prized by breeders but increasingly rare
 
 ## Related Topics
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-
 - [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-harvest-timing-visual-cues]] - Harvest timing
 - [[cannabis-terpene-profile]] - Terpene and aroma profiles
-- [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]

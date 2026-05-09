@@ -3,46 +3,18 @@ title: psilocybe genus diversity and taxonomy
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mycology, taxonomy, psilocybe, diversity, classification]
+tags: [[mycology, taxonomy, psilocybe, diversity, classification]
 sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
-# [[psilocybe-genus-classification]] Diversity [[fungal-species-concept-and-taxonomy]]
+# [[fungal-species-concept-and-taxonomy]]
 
 The genus *Psilocybe* is the largest and most significant group of
 neurotropic (hallucinogenic) fungi, comprising 116 of the 216 known
-[[panaeolus-panaeolina-neurotropic-species]] documented by Guzmán, Allen, and Gartz (2000). The
-genus exhibits remarkable diversity in morphology, distribution, and
-chemistry, with species found on every continent except Antarctica. See
-also [[neurotropic-fungi-of-mexico]] and [[ergot-fungi-and-cordyceps]].
-
-## Taxonomic Framework
-
-The concept of the genus *Psilocybe* followed in the Guzmán, Allen, and
-Gartz study is that of Guzmán (1983, 1995), a modification of Singer
-(1986) that excludes Section Chrysocystidiatae. The authors did not
-follow Kühner and Romagnesi (1953) and Kühner (1980), who considered
-*Psilocybe*, *Hypholoma*, and *Stropharia* to belong to the same genus.
-Species of *Psilocybe* sensu Noordeloos (1995) such as *P. aeruginosa*,
-*P. albonitens*, and *P. aurantiaca* are not accepted in this framework.
-
-## Neurotropic Sections
-
-The neurotropic species of *Psilocybe* are distributed across several
-taxonomic sections defined primarily by microscopic characteristics and
-the presence of bluing reactions. The sections containing confirmed
-neurotropic species include:
-
-- **Section Aztecorum:** High-elevation Mexican species including *P.
-  aztecorum*, found at elevations up to 4,000 meters
-- **Section Brunneocystidiatae:** Species with chestnut-colored
-  cheilocystidia
-- **Section Cordisporae:** Heart-shaped [[spore]] species
+[[neurotropic-fungi-of-mexico]] and [[spore]] species
 - **Section Cubensis:** Tropical and subtropical species including the
   widespread *P. cubensis*
 - **Section Mexicanae:** Mexican species including *P. mexicana*
-- **Section Semilanceatae:** Temperate species including the [[liberty-cap-psilocybe-semilanceata-history-biology]]
-  (*P. semilanceata*)
-- **Section Stuntzae:** [[psilocybin-north-america-pacific-northwest]] species
+- **Section Semilanceatae:** Temperate species including the [[psilocybin-north-america-pacific-northwest]] species
 - **Section Subaeruginosae:** Australian and New Zealand species
 - **Section Zapotecorum:** Species associated with the Zapotec people of
   Oaxaca, Mexico
@@ -75,13 +47,7 @@ the neurotropic list based on more careful taxonomic analysis:
 
 ## Taxonomic Confusion and Misidentification
 
-The literature on [[neurotropic-fungi]] contains significant taxonomic
-confusion. Misidentification is a major factor contributing to
-contradictions in published chemical studies. Many chemical studies lack
-a proper taxonomic basis, and in some cases, mixtures of different
-species were studied under a single name.
-
-Guzmán found a mixture of *Panaeolus* spp. and *[[psilocybe-mexicana]]*
+The literature on [[psilocybe-mexicana]]*
 together with *P. coprophila*, all identified as *P. coprophila*, in
 material used by Leslie and Repke to isolate psilocybin. *Psilocybe
 coprinifacies* has been the subject of taxonomic disagreement, with

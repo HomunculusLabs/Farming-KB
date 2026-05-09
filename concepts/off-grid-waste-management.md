@@ -99,7 +99,7 @@ Composting chamber is separate from the toilet, connected by a chute or pipe.
 
 ## Humanure System
 
-The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet approach using simple 5-gallon buckets and outdoor [[composting]] bins.
+The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet approach using simple 5-gallon buckets and outdoor composting bins.
 
 ### How It Works
 
@@ -107,8 +107,8 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 2. After each use, add a handful of sawdust, peat moss, or other carbon material
 3. When the bucket is full, empty it into an outdoor compost bin
 4. The compost bin is managed like any other compost pile, maintaining proper carbon-nitrogen balance
-5. After 1-2 years of [[composting]], the material is safe to use on ornamental plants (not food crops)
-6. NEVER use fresh compost on food crops — complete thermophilic [[composting]] is essential for pathogen kill
+5. After 1-2 years of composting, the material is safe to use on ornamental plants (not food crops)
+6. NEVER use fresh compost on food crops — complete thermophilic composting is essential for pathogen kill
 
 ### Compost Bin Design
 
@@ -118,7 +118,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 - Start with a base of straw or leaves
 - Add bucket contents, then cover with fresh carbon material
 - Keep covered to prevent rain saturation
-- Monitor temperature — thermophilic [[composting]] (120-160F) kills pathogens
+- Monitor temperature — thermophilic composting (120-160F) kills pathogens
 
 ### Safety
 
@@ -126,7 +126,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 - Let finished compost age for 6-12 months before use
 - Use only on ornamental plants, fruit trees, or buried in food gardens
 - Hand washing is essential after handling
-- Local regulations vary — some prohibit [[humanure-composting]]
+- Local regulations vary — some prohibit humanure composting
 
 ## Greywater Systems
 
@@ -148,3 +148,52 @@ Greywater (from sinks, showers, laundry) makes up 50-80% of household wastewater
 - No permit required in many jurisdictions
 - Use biodegradable, phosphate-free detergent
 - Do not use with diapers or for washing soiled items
+
+**Branch Drain System**
+- Greywater from shower and bathroom sink flows through a single pipe
+- Splits to multiple mulch basins or a mulch-filled trench
+- Simple gravity flow, no pumps needed
+- 1-inch pipe minimum to prevent clogging
+
+### Branched Drain Greywater System (Simplest Permitted System)
+
+1. All greywater sources drain to a single 3-inch pipe
+2. Pipe splits into multiple 1.5-inch branches using a distribution box
+3. Each branch feeds a mulch basin around a tree or shrub
+4. Basins are filled with wood chip mulch to filter and distribute water
+5. No pumps, no electricity, no moving parts
+
+### Constructed Wetland
+
+For higher-quality treatment:
+1. Greywater flows into a lined, gravel-filled basin
+2. Wetland plants (cattails, reeds, irises) grow in the gravel
+3. Plant roots and gravel bacteria treat the water
+4. Treated water can be used for surface irrigation
+5. Produces beautiful landscape feature
+6. Handles larger volumes than simple mulch basins
+
+### Greywater Guidelines
+
+- Never store greywater for more than 24 hours (pathogens multiply rapidly)
+- Do not use on root vegetables or leafy greens (use on fruit trees, ornamentals)
+- Use biodegradable soaps and cleaners only
+- Do not send greywater with bleach or harsh chemicals to plants
+- Filter out hair and lint before distribution
+- Mulch basins should be 2-3 feet deep and filled with wood chips
+
+## System Comparison
+
+| System | Cost | Maintenance | Water Use | Compost Output | Code Compliance |
+|--------|------|------------|-----------|---------------|----------------|
+| Conventional septic | $5K-15K | Low (pump every 3-5 yr) | Normal | None | Widely accepted |
+| Composting toilet | $900-5K | Moderate (empty every 2-4 wk) | None | Yes | Varies |
+| Humanure | $50-200 | Moderate (empty daily) | None | Yes | Often prohibited |
+| Greywater simple | $100-500 | Low | Reuses 50-80% | N/A | Varies |
+| Greywater wetland | $1K-5K | Low-Moderate | Reuses 50-80% | N/A | Varies |
+
+## See Also
+
+- [[homestead-water-purification]]
+- [[tiny-house-on-wheels]]
+- [[van-life-off-grid]]

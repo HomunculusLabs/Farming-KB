@@ -8,46 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-glaucoma-research]]
-
-## Overview of Glaucoma
-
-Glaucoma can be classified as a group of eye diseases in which vision can be
-partially or completely lost, sometimes without warning. Early glaucoma
-patients may not even be aware of the disease's progress. Ultimately, glaucoma
-damages the optic nerve leading from the eye to the brain, resulting in partial
-or complete blindness.
-
-While other factors may play a role in the disease's development, chronic or
-acute increased intraocular pressure is commonly present, although some
-glaucoma patients maintain normal intraocular pressure. Normally aqueous humor
-(fluid inside the eye) flows through channels to maintain eye health and
-function. In glaucoma patients this fluid becomes blocked.
-
-Allopathic medicine has neither a cure for glaucoma nor the ability to restore
-lost vision due to glaucoma. Instead, doctors focus on surgery and prescription
-medications to slow the disease's progression. While glaucoma is commonly
-observed in the senior population, it may develop at any age.
-
-## Risk Factors
-
-Statistically, people over 40, those with a family history of glaucoma or
-vision problems, diabetic patients, and people taking corticosteroid
-prescription medications are at increased risk for glaucoma. In addition, the
-following ethnic groups are at increased risk: African American, Hispanic,
-Inuit, Irish, Japanese, Russian, and people of Scandinavian descent.
-
-## Symptoms
-
-Symptoms may include loss of peripheral vision, red sclera (white of eye),
-loss of visual acuity, eye aches, tunnel vision, or in some cases nausea and
-vomiting. To diagnose glaucoma, an ophthalmologist (eye doctor) will test
-vision and then examine the eyes after administering a medicated eye drop that
-dilates the pupil.
-
-## Evidence Base: CHI Value 19 (9 Studies Reviewed)
-
-## [[cannabis-and-glaucoma]]
+# [[cannabis-and-glaucoma]]
 
 Cannabis has been part of traditional medicine's treatment of eye disease for
 millennia. Most historical Materia Medicas include cannabis prescriptions for
@@ -146,4 +107,8 @@ glaucoma patients. The mechanism is mediated primarily through CB1 receptors in
 the eye. CBD at higher doses (40 mg) may paradoxically increase IOP,
 suggesting that whole-plant preparations with appropriate THC:CBD ratios may be
 most effective. The discovery of cannabinoid receptors in ocular tissue opens
-additional avenues for neuroprotective treatments that go beyond IOP reduction. See [[blesching-cannabinoid-pharmacology]] for mechanisms and [[blesching-cannabis-dosing-strategies]] for therapeutic dosing guidance.
+additional avenues for neuroprotective treatments that go beyond IOP reduction. See [[blesching-cannabis-dosing-strategies]] for therapeutic dosing guidance.
+
+## See Also
+
+- [[blesching-cannabis-copd]]

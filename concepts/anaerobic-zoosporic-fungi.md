@@ -3,7 +3,7 @@ title: Anaerobic Zoosporic Fungi (Gut Fungi)
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
 # Anaerobic Zoosporic Fungi (Gut Fungi)
@@ -137,12 +137,7 @@ Anaerobic gut fungi represent a unique evolutionary lineage with no close parall
 - Ruminant agriculture and feed efficiency
 
 ## See Also
-- [[anaerobic-rumen-fungi-biology-herbivore-digestion]]
-
 - [[anaerobic-gut-fungi]]
-- [[zoosporic-fungi]]
 - [[fungal-symbiosis-types]]
-- [[fungal-roles-in-agriculture]]
 - [[fungal-enzyme-systems]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]

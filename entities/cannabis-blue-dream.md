@@ -112,11 +112,7 @@ Blue Dream's commercial success demonstrated the market demand for balanced hybr
 
 ## See Also
 
-- [[cannabis-sativa]]
 - [[cannabis-indica]]
-- [[cannabis-northern-lights]]
-- cannabis chemdawg
 - [[girl-scout-cookies]]
-- [[og-kush-cannabis-entity]]
 - [[sour-diesel-cannabis]]
 - [[myrcene]]

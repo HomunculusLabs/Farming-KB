@@ -110,11 +110,8 @@ Commercial guava cultivation centers on a limited number of named cultivars sele
 
 ## See Also
 
-- [[syzygium-aromaticum]]
 - [[terminalia-chebula]]
-- [[moringa-oleifera]]
 - [[punica-granatum]]
-- [[hibiscus-sabdariffa]]
 - [[curcuma-longa]]
 - [[eugenol]]
-- [[caryophyllene]]
+- caryophyllene

@@ -115,7 +115,9 @@ Cordycepin modulates both innate and adaptive immune responses.
 
 ## See Also
 
-- [[cordyceps-militaris]] — Primary natural source and highest cordycepin-producing species
 - [[cordyceps-sinensis]] — Traditional medicinal fungus containing trace cordycepin
-- [[adenosine-triphosphate-and-cellular-energy]] — Endogenous nucleoside to which cordycepin is structurally related
 - [[ergothioneine]] — Another bioactive fungal compound with distinct antioxidant properties
+
+## See Also
+
+- [[cordyceps-cancer-bioactive-compounds]]

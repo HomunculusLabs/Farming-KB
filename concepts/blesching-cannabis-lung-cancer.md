@@ -114,8 +114,6 @@ judged emotions and stifled expressions.
 
 ## See Also
 
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-copd]]
-- [[cannabis-and-asthma]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]

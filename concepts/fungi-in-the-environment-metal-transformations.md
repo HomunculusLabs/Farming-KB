@@ -3,12 +3,7 @@ title: Fungi in the Environment - Metal Transformations
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [mycology, geomycology, metals, bioremediation, fungi]
-sources:
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
----
-
-# [[fungal-metal-transformations]]
+tags: [[fungal-metal-transformations]]
 
 Fungi transform metals through a diverse array of mechanisms that affect metal mobility, bioavailability, toxicity and speciation. These transformations are central to geomycology and have profound implications for environmental remediation, soil fertility, biogeochemical cycling, and even the integrity of human-built structures including nuclear waste containment systems.
 
@@ -22,19 +17,7 @@ Fungi solubilize metals from rocks and minerals through the same biochemical wea
 - **Siderophores**: high-affinity iron-chelating compounds that also mobilize other metals
 - **Amino acids and phenolic compounds**: additional metal-complexing agents excreted during metabolism
 
-[[mycorrhizal-fungi]] excrete low-molecular-mass carboxylic acids contributing to "heterotrophic leaching" of metals from soil minerals. In podzol E horizons under European coniferous forests, weathering of hornblendes, feldspars and granitic bedrock has been attributed to oxalic, citric, succinic, formic and malic acid excretion by ectomycorrhizal hyphae producing micro- to millimolar concentrations at micropores (3-10 micrometres) in weatherable soil minerals. The ectomycorrhizal fungus Piloderma extracted K and/or Mg from biotite, microcline and chlorite and precipitated mycogenic calcium oxalate on the hyphae.
-
-### Mobilization of Toxic Metals
-
-During lithospheric weathering, non-essential toxic metals (Cs, Al, Cd, Hg, Pb) are mobilized alongside essential nutrients. Metals can exert toxic effects through multiple mechanisms:
-
-- Blocking functional groups of essential enzymes
-- Displacing essential metal ions from their normal binding sites
-- Disrupting cellular and organellar membranes
-- Interacting with systems that normally protect against free radicals
-- Generating reactive oxygen species through Fenton-like reactions
-
-Ericoid mycorrhizal and ectomycorrhizal fungi dissolve cadmium-, copper-, zinc- and lead-bearing minerals, including metal phosphates. The ectomycorrhizal fungi [[suillus-granulatus]] and Paxillus involutus released elements from apatite and wood ash (K, Ca, Ti, Mn, Pb) and accumulated them in mycelia, especially rhizomorphs. This demonstrates that mycorrhizal fungi can actively accumulate toxic metals, which has implications for both phytoremediation and food chain contamination.
+[[suillus-granulatus]] and Paxillus involutus released elements from apatite and wood ash (K, Ca, Ti, Mn, Pb) and accumulated them in mycelia, especially rhizomorphs. This demonstrates that mycorrhizal fungi can actively accumulate toxic metals, which has implications for both phytoremediation and food chain contamination.
 
 ## Metal Immobilization and Detoxification
 
@@ -102,6 +85,5 @@ Fungal metal transformations also cause significant deterioration of human infra
 - Fungi colonize and corrode barrier concrete, avoiding granite-filled areas
 - Microfungi adapt to severe radioactive contamination at Chernobyl, where melanized Alternaria, Cladosporium and Aureobasidium colonize highly radioactive concrete
 - Myco-corrosion may reduce the theoretically calculated service life of concrete barriers for nuclear waste, causing potential risk from release of radionuclides
-- [[gadd-fungal-metal-interactions]]
 - [[heavy-metal-bioremediation]]
 - [[fungal-biogeochemistry]]

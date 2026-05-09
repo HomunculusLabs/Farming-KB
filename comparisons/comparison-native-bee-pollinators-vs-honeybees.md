@@ -123,8 +123,6 @@ improves with pollinator diversity rather than relying on a single species.
 
 ## See Also
 
-- [[beekeeping-problems-and-solutions]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[query-how-to-design-a-pollinator-garden]]
 - [[gaias-garden-hedgerows-and-windbreaks]]
 - [[urban-guerrilla-gardening]]

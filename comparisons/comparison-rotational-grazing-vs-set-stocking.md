@@ -3,16 +3,7 @@ title: "Rotational Grazing vs Set Stocking"
 created: 2026-04-28
 tags:
   - grazing
-  - pasture-management
-  - livestock
-  - regenerative-agriculture
-  - comparison
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Savory, Allan. Holistic Management: A Commonsense Revolution to Restore Our Environment. Island Press, 2016."
-  - "Gerrish, Jim. Management Intensive Grazing. Green Park Press, 2004."
-  - "Teague, W.R. et al. 'The role of ruminants in reducing agriculture's carbon footprint in North America.' Journal of Soil and Water Conservation, 2016."
+  - [[water-conservation]], 2016."
   - "Barnes, M.K. et al. 'Effects of rotational vs. continuous grazing on weed populations.' Weed Technology, 2008."
   - "Undersander, D. et al. 'Extending Grazing Seasons.' University of Wisconsin Extension, 2002."
 type: comparison
@@ -20,23 +11,13 @@ type: comparison
 
 # Rotational Grazing vs Set Stocking
 
-> A comparative analysis of two foundational livestock grazing management systems and their impacts on pasture health, animal welfare, economics, and the environment. See also [[permaculture-grazing-and-pasture]] and [[regenerative-agriculture]].
+> A comparative analysis of two foundational livestock grazing management systems and their impacts on pasture health, animal welfare, economics, and the environment. See also [[regenerative-agriculture]].
 
 ## Definition and Core Principles
 
 **Set stocking** (also called continuous grazing) places livestock in a single paddock or pasture for an extended period—often the entire grazing season or year-round. Stocking rates remain fixed, and animals graze selectively, returning repeatedly to preferred species while avoiding less palatable plants.
 
-**Rotational grazing** divides pasture into multiple paddocks and moves livestock between them on a planned schedule. Rest periods between grazing events allow forage plants to recover. Stocking density within a paddock is higher than set stocking, but animals are moved before overgrazing occurs. See [[permaculture-grazing-and-pasture]] for deeper planning frameworks.
-
-## Pasture Health Impacts
-
-### Soil Compaction
-
-Set stocking concentrates animal traffic on preferred areas (near water, shade, gates), creating compacted zones with reduced aeration and water movement. Rotational grazing distributes hoof impact more evenly across paddocks; short-duration, high-density grazing can even break surface crusts beneficially before plants are severely damaged.
-
-### Root Depth and Regrowth Patterns
-
-Under continuous grazing, preferred species are grazed repeatedly before roots can replenish carbohydrate reserves, leading to shallow root systems and reduced drought resilience. Rotational systems allow rest periods that enable deep root growth and full energy recovery, improving both above-ground productivity and below-ground carbon inputs to [[query-what-is-the-soil-food-web-and-why-does-it-matter]].
+**Rotational grazing** divides pasture into multiple paddocks and moves livestock between them on a planned schedule. Rest periods between grazing events allow forage plants to recover. Stocking density within a paddock is higher than set stocking, but animals are moved before overgrazing occurs. See [[query-what-is-the-soil-food-web-and-why-does-it-matter]].
 
 ### Overall Pasture Condition
 
@@ -85,25 +66,7 @@ Rotational grazing supports greater plant species diversity, which in turn suppo
 
 ### Carbon Sequestration
 
-The combination of deep root growth, rest periods, and manure distribution in rotational systems promotes significant soil organic carbon accumulation—making rotational grazing a key practice in [[regenerative-agriculture]]. Set stocking, with its shallow root systems and soil compaction, offers minimal carbon sequestration potential.
-
-### Water Infiltration and Quality
-
-Improved soil structure from rotational grazing increases water infiltration, reducing runoff and erosion. Compacted soils under set stocking shed water, increasing flood risk downstream and reducing groundwater recharge.
-
-## Best Use Cases and Climate Suitability
-
-**Set stocking** may be adequate where land is abundant and inexpensive, pasture productivity is low (arid rangelands with minimal rest response), or management capacity is extremely limited.
-
-**Rotational grazing** excels in humid to sub-humid climates with productive pastures, on operations aiming to maximize per-acre returns, and where regenerative outcomes (soil health, carbon, biodiversity) are priorities.
-
-## Transition Considerations
-
-Moving from set stocking to rotational grazing should be gradual. Start with a simple 4–6 paddock system using temporary electric fencing. Monitor pasture recovery, adjust rest periods seasonally, and invest in portable water before expanding paddock numbers. Stocking rate should be reduced initially until pasture baseline health improves, then increased as carrying capacity rises.
-
-## Hybrid Approaches: Adaptive Multi-Paddock Grazing
-
-Adaptive multi-paddock (AMP) grazing, promoted by [[permaculture-grazing-and-pasture]] practitioners, combines the principles of rotational grazing with real-time decision-making based on pasture recovery, soil moisture, and animal performance. Rather than fixed schedules, animals are moved when paddock conditions indicate it is time—sometimes after hours, sometimes after weeks. AMP represents the most sophisticated evolution of rotational grazing, integrating ecological monitoring with livestock management.
+The combination of deep root growth, rest periods, and manure distribution in rotational systems promotes significant soil organic carbon accumulation—making rotational grazing a key practice in [[permaculture-grazing-and-pasture]] practitioners, combines the principles of rotational grazing with real-time decision-making based on pasture recovery, soil moisture, and animal performance. Rather than fixed schedules, animals are moved when paddock conditions indicate it is time—sometimes after hours, sometimes after weeks. AMP represents the most sophisticated evolution of rotational grazing, integrating ecological monitoring with livestock management.
 
 ## Summary Comparison
 

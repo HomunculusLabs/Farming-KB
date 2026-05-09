@@ -139,12 +139,8 @@ a pungent (*katu*) taste and heating (*ushna*) potency.
   planting; shade-dried to preserve embelin content
 - **Yield:** 500–800 kg fresh berries/ha; variable seed viability
   complicates large-scale cultivation
-
 ## See Also
 
-- [[piper-nigrum-entity]]
 - [[glycyrrhiza-glabra]]
-- [[picrorhiza-kurroa]]
 - [[withania-somnifera]]
-- [[reishi-mushroom-medicinal-properties]]
 - [[adaptogenic-herbs-overview]]

@@ -118,25 +118,7 @@ Research on *P. adiposa* has identified several bioactive compounds:
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| [[pholiota-nameko]] | Smaller, darker cap with thick gelatinous coating (nameko = "slimy"); commercially important in Japan; milder scales |
-| *Pholiota squarrosa* (shaggy scaly cap) | Larger, more prominently scaly cap; bitter taste, mildly toxic; grows at base of trees |
-| *Pholiota aurivella* | Larger species with golden scales; often on birch; considered edible but less flavorful |
 | [[kuehneromyces-mutabilis-entity]] | Similar clustered habit on wood; cap two-toned (darker center, paler margin) when moist; edible, good flavor |
-| [[armillaria-mellea]] | Honey mushroom — also clusters on wood but has white spore print, strong ring, and bitter acrid taste when raw |
-
-## Safety Notes
-
-*Pholiota adiposa* is considered **safe and edible** when thoroughly cooked. Key precautions:
-
-- Must be cooked before consumption (raw mushrooms may cause GI upset)
-- Always confirm identity — several *Pholiota* species are bitter or mildly toxic (*P. squarrosa*)
-- The **conspicuous brown spore print** distinguishes it from deadly *Galerina* species (which also grow on wood but have different morphology)
-- Collect from unpolluted areas — fungi bioaccumulate heavy metals from contaminated substrates
-
-## See Also
-
-- [[pholiota-nameko]] — Related cultivated Pholiota, the nameko mushroom
-- [[kuehneromyces-mutabilis-entity]] — Velvet foot, similar clustered wood-inhabiting mushroom
+| [[pholiota-nameko]] — Related cultivated Pholiota, the nameko mushroom
 - [[lentinula-edodes]] — Shiitake, the primary cultivated wood-decay mushroom for comparison
-- [[armillaria-mellea]] — Honey mushroom, fellow clustered wood-decay species
 - [[fungal-ecology-decomposition-cycles]] — Wood decomposition ecology and fungal roles

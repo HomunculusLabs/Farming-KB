@@ -89,8 +89,6 @@ medicine, as plant cannabinoids may modulate not just anandamide and
 2-AG signaling but the entire family of endocannabinoid pathways.
 
 ## See Also
-- [[anandamide-aea]]
-- [[2-arachidonoylglycerol-2-ag]]
-- [[virodhamine]]
+- [[two-ag]]
 - [[n-arachidonoyl-dopamine-nada]]
 - [[tetrahydrocannabinol-thc]]

@@ -142,8 +142,6 @@ visually rich, and introspective nature of the classic hallucinogen experience.
 ## Psilocybin and Serotonin Structural Relationship
 ## See Also
 
-- [[savory-solar-dollars-and-wealth-classification]]
 - [[lsd-chemical-modifications-and-analogs]]
-- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
 - [[plant-olfaction-and-chemical-sensing]]
 - [[short-day-and-long-day-plant-classification]]

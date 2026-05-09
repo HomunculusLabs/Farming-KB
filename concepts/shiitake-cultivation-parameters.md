@@ -97,17 +97,12 @@ Shiitake occupies a unique position bridging Eastern and Western mycological tra
 
 ## See Also
 
-- [[cultivation-of-shiitake]]
-
 - [[mushroom-yield-optimization]]
-- [[mushroom-substrate-supplementation]]
 - [[bulk-substrate-preparation]]
-- [[spawn-generation-techniques]]
 - [[environmental-control-mushroom-growing]]
 
 ---
 
 Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters III, XI
 Updated: 2026-04-18
-- [[mushroom-sawdust-bran-spawn-preparation]]
 - [[mushroom-cultivator-grain-spawn-production]]

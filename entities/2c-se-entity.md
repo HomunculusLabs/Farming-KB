@@ -93,10 +93,7 @@ centrally active drug with both fluorine and selenium.
 
 ## Related Compounds
 
-- [[2c-t-entity]] -- 2,5-dimethoxy-4-methylthiophenethylamine (sulfur analogue)
+- [[2c-t-2]] -- 2,5-dimethoxy-4-ethylthiophenethylamine
 
-- [[2c-t-2-entity]] -- 2,5-dimethoxy-4-ethylthiophenethylamine
-
-- [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 - [[2c-t-7-entity]]
 - [[alexander-shulgin]]

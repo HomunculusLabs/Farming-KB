@@ -3,7 +3,7 @@ title: Mycorrhizal Crop Rotation Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 
@@ -11,9 +11,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Crop rotation is a standard agricultural practice for improving and maintaining soil quality. However, the type of crop planted can profoundly affect whether [[arbuscular-mycorrhizal-fungi]] survive and thrive. Understanding the mycorrhizal relationships of different crops is essential for planning rotations that maintain healthy fungal populations.
-
-Source: [[teaming-with-microbes-fungi]]
+Crop rotation is a standard agricultural practice for improving and maintaining soil quality. However, the type of crop planted can profoundly affect whether [[teaming-with-microbes-fungi]]
 
 ***
 
@@ -51,27 +49,7 @@ These crops benefit significantly from mycorrhizal associations:
 The most important principle is to avoid extended periods without mycorrhizal host plants:
 - If no host plants are present, fungi cannot get the carbon they need to survive
 - Without host plants, spore banks diminish rapidly
-- Reestablishing [[mycorrhizal-fungi]] through inoculation can take up to 2 months after a non-host crop or fallow period
-
-### 2. Beware of Brassica Rotations
-
-Brassicas are particularly problematic because:
-- They do not form mycorrhizae
-- When they decompose, they release allelopathic chemicals that can prevent mycorrhizal spore formation
-- These chemicals can persist in soil even after plants are removed
-
-**Recommendation:** Do not follow a brassica crop with a highly mycorrhizal-dependent crop without inoculating.
-
-### 3. Avoid Extended Fallow Periods
-
-If a field must be left fallow:
-- Plant a mycorrhizal cover crop instead of leaving bare soil
-- Cover crops maintain the carbon supply to fungi
-- If bare fallow is unavoidable, inoculate before the next planting season
-
-### 4. Minimize Tillage Between Rotations
-
-[[soil-disturbance-mycorrhizal-impact]] destroys hyphal networks. If tillage is necessary:
+- Reestablishing [[soil-disturbance-mycorrhizal-impact]] destroys hyphal networks. If tillage is necessary:
 - Time it as close to planting as possible
 - Inoculate immediately after tilling
 - Consider reduced tillage methods
@@ -146,3 +124,5 @@ Year 2: Soybeans (legume, mycorrhizal) — benefits from existing network
 Year 3: Wheat (somewhat dependent) — maintains network
 Year 4: Oats with clover cover crop — maintains network
 ## See Also
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

@@ -102,6 +102,5 @@ A mineral supplement made by combining IMO with mineral sources.
 - Keep soil covered (mulch, cover crops, living mulch)
 - Diverse inputs create diverse soil biology
 
-See also [[knf-leaf-mold-humus]], [[knf-indigenous-microorganism-culture]], [[knf-mineral-liquid]], [[knf-agricultural-mineral-water]], [[knf-fermented-mixed-compost]], and [[knf-preparations]].
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+See also [[knf-indigenous-microorganism-culture]], [[knf-agricultural-mineral-water]], [[knf-preparations]].
 - [[cover-crops-soil-health]]

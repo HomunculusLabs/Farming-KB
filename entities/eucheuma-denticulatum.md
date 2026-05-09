@@ -106,16 +106,10 @@ Vegetative propagation in commercial settings bypasses the sexual cycle entirely
 
 ## See Also
 
-- [[kappaphycus-alvarezii]]
 - [[chondrus-crispus]]
-- [[gracilaria-verrucosa]]
 - [[pyropia-yezoensis]]
-- [[porphyra-umbilicalis]]
 - [[palmaria-palmata]]
-- [[ulva-lactuca]]
 - [[undaria-pinnatifida]]
-- [[saccharina-latissima]]
 - [[laminaria-digitata]]
-- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
 - [[agar]]

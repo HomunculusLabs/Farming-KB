@@ -34,37 +34,7 @@ diversity including several endemic species.
 ## Asia
 
 ### Widely distributed species
-Amanita muscaria, Claviceps purpurea, [[gerronema-fibula]], Gymnopilus
-liquiritiae, Panaeolus foenisecii, Psilocybe aeruginascens (southeast), P.
-cubensis (southeast), P. subaeruginascens (southeast).
-
-### Japan
-Japan has the most thoroughly documented Asian neurotropic mycobiota:
-- **Agrocybe farinacea** -- A rare neurotropic Agrocybe.
-- **Amanita muscaria, A. pantherina** -- Widespread and well-studied.
-- **Copelandia cyanescens, C. tropicalis**
-- **Cordyceps capitata, C. ophioglossoides**
-- **Dictyophora indusiata** -- A stinkhorn mushroom used in traditional
-  Chinese and Japanese medicine.
-- **Gerronema fibula, Gymnopilus aeruginosus, G. liquiritiae, G. spectabilis**
-- **Panaeolina foenisecii, P. rhombisperma, P. sagarae**
-- **Panaeolus ater, P. fimicola, P. papilionaceus, P. retirugis, P.
-  sphinctrinus, P. subbalteatus**
-- **Pluteus atricapillus, P. salicinus**
-- **Psilocybe argentipes, P. septentrionalis, P. subaeruginascens, P.
-  subcaerulipes, P. venenata** -- Several Japanese endemics.
-
-### India
-India has a significant neurotropic mycobiota, with several endemic species:
-- **Amanita muscaria** -- Possibly the original Soma of Vedic tradition
-  (Wasson 1968).
-- **Copelandia bispora, C. cyanescens, C. tirunelveliensis, C. tropica**
-- **Gymnopilus sapineus, G. spectabilis**
-- **Hypholoma gigaspora, H. guzmanii**
-- **Inocybe corydalina**
-- **Panaeolina foenisecii, Panaeolus africanus, P. ater, P. papilionaceus, P.
-  sphinctrinus, P. subbalteatus, P. venezolanus**
-- **[[psilocybe-cubensis]], P. goniospora, P. indica (endemic), P. natarajanii
+Amanita muscaria, Claviceps purpurea, [[psilocybe-cubensis]], P. goniospora, P. indica (endemic), P. natarajanii
   (endemic), P. pseudoaztecorum (endemic), P. semilanceata**
 
 ### Southeast Asia
@@ -106,25 +76,7 @@ well-documented indigenous use of neurotropic fungi:
 - **China:** Amanita muscaria, Boletus sp., Claviceps purpurea, Gymnopilus
   spectabilis, Panaeolus papilionaceus, P. retirugis, Psilocybe venenata.
 - **Himalaya/Tibet:** Amanita muscaria.
-- **Israel:** Amanita pantherina, [[gymnopilus-spectabilis-entity]], Inocybe tricolor,
-  Panaeolina foenisecii, Panaeolus ater, P. papilionaceus, P. sphinctrinus.
-- **Korea:** Gymnopilus spectabilis, Panaeolus fimicola, P. papilionaceus, P.
-  sphinctrinus.
-- **Iran:** Amanita muscaria (?), Panaeolus papilionaceus.
-- **Nepal:** Psilocybe cubensis (?), P. subcubensis (?).
-- **Turkey:** Claviceps paspali, C. purpurea.
-
-## Oceania (including Australia, New Zealand, and Pacific Islands)
-
-### Australia
-Australia has a distinctive temperate mycobiota with several endemic species:
-- **Amanita muscaria** (introduced)
-- **Claviceps paspali, C. purpurea**
-- **Copelandia cyanescens**
-- **Gerronema fibula, Gymnopilus spectabilis, G. purpuratus**
-- **Panaeolina foenisecii, Panaeolus ater, P. fimicola, P. olivaceus, P.
-  papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus**
-- **[[psilocybe-australiana]] (endemic), P. collybioides, P. cubensis, P.
+- **Israel:** Amanita pantherina, [[psilocybe-australiana]] (endemic), P. collybioides, P. cubensis, P.
   cyanescens, P. eucalypta (endemic), P. semilanceata, P. subaeruginosa
   (endemic), P. subcubensis, P. tasmaniana (endemic)**
 
@@ -137,8 +89,7 @@ New Zealand has a rich mycobiota with several endemic species:
 - **Amanita muscaria** (introduced)
 - **Claviceps paspali, C. purpurea**
 - **Copelandia cyanescens**
-- **[[gymnopilus-purpuratus]], G. spectabilis**
-- **Panaeolina foenisecii, [[panaeolus-subbalteatus]]**
+- **[[panaeolus-subbalteatus]]**
 - **[[psilocybe-aucklandii]] (endemic), P. australiana, P. collybioides, P.
   cubensis, P. eucalypta, P. kumaenorum, P. makarorae (endemic), P.
   semilanceata, P. subaeruginosa, P. subcubensis, P. tasmaniana**

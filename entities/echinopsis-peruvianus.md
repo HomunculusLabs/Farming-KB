@@ -101,13 +101,8 @@ In Australia, all mescaline-containing cacti are restricted under state legislat
 
 ## See Also
 
-- [[echinopsis-pachanoi]]
 - [[echinopsis-bridgesii]]
-- [[echinopsis-lageniformis]]
 - [[mescaline-entity]]
-- [[lophophora-williamsii]]
 - [[peyote]]
-- [[schultes-peyote-and-mescaline]]
 - [[pihkal-mescaline]]
-- [[dmt]]
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]

@@ -1,7 +1,7 @@
 ---
 title: Compost Supplements and Nitrogen Management (Stamets)
 created: 2026-04-28
-tags: [mushroom-cultivation, compost, nitrogen-management, supplements]
+tags: [[mushroom-cultivation, compost, nitrogen-management, supplements]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -140,8 +140,6 @@ longer than necessary.
 
 ## See Also
 
-- [[stamets-compost-preparation]]
 - [[stamets-phase-ii-composting]]
-- [[stamets-fruiting-substrate-materials]]
 - [[agaricus-phase-i-composting]]
 - [[mushroom-substrate-supplementation]]

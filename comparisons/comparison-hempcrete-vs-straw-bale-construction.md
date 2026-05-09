@@ -63,72 +63,29 @@ Both materials sequester carbon biogenically — the CO₂ absorbed by the growi
 ## Cost and Availability
 
 - **Hempcrete**: Hemp shiv and lime binders are more expensive than straw. Industrial hemp processing infrastructure is still developing in many regions, and shipping adds cost. Total material cost for hempcrete walls is roughly 20–40% higher than straw bale. Lime binder is heavy and energy-intensive to produce, partially offsetting hemp's carbon benefits. Hempcrete also requires formwork for casting, adding labor and material costs.
-- **Straw bale**: Straw is extremely cheap — often a byproduct of local grain farming that farmers are happy to give away or sell for minimal cost. Bales are lightweight, easy to handle, and require no formwork. Plaster materials (earth, sand, lime) are also inexpensive. Straw bale construction is frequently one of the lowest-cost [[natural-building]] methods available.
+- **Straw bale**: Straw is extremely cheap — often a byproduct of local grain farming that farmers are happy to give away or sell for minimal cost. Bales are lightweight, easy to handle, and require no formwork. Plaster materials (earth, sand, lime) are also inexpensive. Straw bale construction is frequently one of the lowest-cost [[comparison-scented-geraniums-vs-edible-flowers]]
 
-**Winner for affordability**: Straw bale (significant).
-
-## Building Process and Skill Level
-
-- **Hempcrete** requires mixing shiv and binder to the correct consistency, building temporary formwork, tamping or pouring the mix into wall cavities, and waiting for curing (weeks to months depending on binder type and wall thickness). It is labor-intensive and time-consuming but forgiving — mistakes can be patched, and the material is easy to work with once the mixing process is dialed in.
-- **Straw bale** construction is more intuitive for beginners. Bales are stacked, trimmed, and pinned — skills that can be learned in a weekend workshop. Plastering is the most technically demanding aspect. Load-bearing straw bale requires more engineering knowledge than infill, but the overall process is accessible to owner-builders with minimal experience.
-
-**Winner for beginner accessibility**: Straw bale.
-
-## Durability and Longevity
-
-- **Hempcrete**: Expected lifespan of 300–600+ years when maintained. The lime binder becomes harder and more stone-like over decades. Hempcrete walls are resistant to pests (insects and rodents avoid the alkaline lime) and do not degrade structurally over time. The main concern is mechanical damage to the soft surface before rendering.
-- **Straw bale**: Can last 100+ years with proper detailing and maintenance. The primary risks are moisture intrusion and pest damage. Mice and insects can nest in straw if the wall is not well-sealed, though proper plaster and foundation detailing mitigate this. Long-term durability depends heavily on the quality of the plaster envelope.
-
-**Winner**: Hempcrete.
-
-## When to Choose Each
-
-**Choose hempcrete when**: You want the highest carbon sequestration, excellent moisture resilience without vigilant detailing, thermal mass benefits, mold/pest resistance, and have a higher budget. Ideal for humid or variable climates where moisture management is critical.
-
-**Choose straw bale when**: Budget is a primary concern, you want to involve unskilled volunteers or do owner-builder workshops, you prefer load-bearing walls without a timber frame, and you can ensure excellent moisture detailing (roof overhangs, raised foundations, breathable plasters). Ideal for dry climates where moisture risk is lower.
-
-## Sound Insulation
-
-- **Hempcrete**: Excellent acoustic insulation. The porous, mineralized structure absorbs sound effectively across a broad frequency range, making hempcrete walls particularly well-suited for multi-family dwellings, recording studios, or homes near noisy roads. The lime binder adds mass that further blocks sound transmission.
-- **Straw bale**: Also outstanding for sound attenuation. The thick, fibrous bales create an effective sound barrier comparable to concrete block walls of similar thickness. Plastered straw bale walls have been measured at STC 44–52, which exceeds standard residential code requirements. The combination of thickness and density from the plaster skins provides both absorption and transmission loss.
-
-**Winner**: Tie — both are excellent, with hempcrete slightly better for mid-high frequencies and straw bale slightly better for low-frequency blocking due to thickness.
-
-## Code Compliance and Permitting
-
-- **Hempcrete**: faces regulatory hurdles in some jurisdictions because it is relatively new to the building mainstream. There is no dedicated section in the International Building Code (IBC) or International Residential Code (IRC). Builders typically rely on engineering analysis and performance-based testing to obtain permits. Some regions (notably parts of Europe, and increasingly US states) have adopted hempcrete-specific provisions or accepted it under alternative materials pathways.
-- **Straw bale**: has a longer regulatory track record. ASTM E2396 (Standard Practice for Design and Construction of Straw Bale Structural Wall Systems) provides recognized engineering guidelines. Several US states (California, New Mexico, Arizona, Colorado) and countries (Australia, New Zealand) have adopted straw bale into their building codes. Permitting is more straightforward, though some rural building departments may still be unfamiliar.
-
-**Winner**: Straw bale (more established regulatory pathway).
-
-## Plaster and Finish Compatibility
-
-- **Hempcrete** pairs naturally with lime-based renders, which bond chemically to the lime binder in the hempcrete substrate. Earthen plasters also work well. Cement-based stucco is technically possible but generally discouraged because it reduces vapor permeability. The textured hempcrete surface provides excellent mechanical key for plaster adhesion.
-- **Straw bale** walls are traditionally finished with earth plaster (the most breathable and cheapest option) or lime plaster. A three-coat system (scratch, brown, finish) is standard. As noted, cement stucco is strongly contraindicated because it creates a vapor-impermeable skin that traps moisture inside the bales. Earthen plaster is the most owner-builder-friendly finish and can be made entirely from on-site subsoil.
-
-**Winner**: Tie — both work best with lime or earth plasters, and both suffer with cement finishes.
-
-## Quick Reference Table
-
-| Feature | Hempcrete | Straw Bale |
-|---|---|---|
-| R-value per inch | R-2.1–2.5 | R-2.4–3.0 |
-| Typical wall R-value | R-25–30 (12") | R-30–45 (18") |
-| Thermal mass | High | Low |
-| Moisture tolerance | Excellent | Requires careful detailing |
-| Mold resistance | Very high (alkaline pH) | Moderate (depends on dryness) |
-| Load-bearing | No (needs frame) | Yes (Nebraska style) or infill |
-| Fire resistance | Excellent (inherent) | Very good (with plaster) |
-| Carbon sequestered | 110–165 kg CO₂/m³ | 40–60 kg CO₂/m³ |
-| Relative cost | Higher | Lower |
-| Beginner-friendly | Moderate | High |
-| Expected lifespan | 300–600+ years | 100+ years |
-| Pest resistance | Excellent | Good (with proper sealing) |
-
-## See Also
+- [[comparison-cicadas-vs-locusts]]
 
 - [[comparison-cob-construction-vs-straw-bale-construction]]
-- [[comparison-cob-construction-vs-straw-bale-construction]]
-- [[straw-bale-construction]]
 - [[comparison-straw-bale-vs-adobe]]
 - [[comparison-straw-bale-vs-rammed-earth]]
+## Practical Considerations
+
+Successful implementation of Hempcrete vs Straw Bale Construction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

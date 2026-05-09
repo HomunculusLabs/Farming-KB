@@ -112,11 +112,7 @@ the exploitive farming practices of a single generation."
 - Yields continued to increase and the soil became richer every year over more
   than twenty years of no-till, no-fertilizer practice
 ## See Also
-- [[soil-fungal-ecology]]
 - [[natural-farming-fukuoka]]
-- [[fukuoka-living-soil]]
 - [[fukuoka-natural-farming]]
-- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-straw-mulch-philosophy]]
-- [[fukuoka-soil-building-approach]]
 - [[fukuoka-clover-and-green-manure-cropping]]

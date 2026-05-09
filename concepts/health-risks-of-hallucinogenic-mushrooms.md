@@ -142,8 +142,6 @@ Several factors increase the probability of adverse outcomes:
 - **Inexperienced users**: Individuals unfamiliar with the effects may panic at
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[hallucinogenic-mushrooms-european-trends]]

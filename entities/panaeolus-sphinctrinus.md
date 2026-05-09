@@ -35,28 +35,7 @@ been known under multiple names:
 
 These names reflect differing taxonomic treatments over time. Some
 authorities have placed the species in the genus Anellaria, while
-others retain it within [[stamets-psylo-panaeolus-genus-overview]]. The name *P. semiovatus* is
-frequently encountered in European literature. Despite the synonymy,
-the species is readily recognized in the field by its large size and
-conspicuous annulus.
-
-## Description
-
-### Cap
-
-The cap measures 3 to 6 cm broad, occasionally reaching up to 9 cm. It
-is obtusely conic to parabolic when young, expanding to nearly convex
-with age. In young fruiting bodies the color is cinnamon buff, becoming
-pinkish buff and eventually fading to whitish in maturity. The surface
-is viscid when moist, ranging from smooth to wrinkled. The flesh is
-relatively thick, soft, and whitish.
-
-### Gills
-
-Gill attachment is adnexed, soon seceding (free) from the stem. The
-gills are close to subdistant in spacing. Their color is pallid to
-brownish at first, eventually becoming mottled blackish from the uneven
-ripening of spores, a characteristic feature of the genus [[stamets-psylo-panaeolus-genus-overview]].
+others retain it within [[stamets-psylo-panaeolus-genus-overview]].
 
 ### Stem
 
@@ -97,8 +76,7 @@ Panaeolus species.
 ## Chemistry and Toxicity
 
 Most experts consider panaeolus sphinctrinus to be both nonactive and
-nonpoisonous. Unlike several of its congeners in the genus [[stamets-psylo-panaeolus-genus-overview]],
-this species does not contain psilocybin or [[psilocin-and-psilocybin-chemistry]] in
+nonpoisonous. Unlike several of its congeners in the genus [[psilocin-and-psilocybin-chemistry]] in
 detectable quantities. No significant toxic compounds have been reported,
 and it is not known to cause adverse reactions in humans or animals. It
 is one of the few large Panaeoli that serves as a useful contrast species
@@ -119,18 +97,9 @@ other Panaeoli in the field:
 4. **Horse dung specificity**: Its near-exclusive association with horse
    dung, particularly around stable compost piles, further narrows the
    identification.
-5. **Lack of blue bruising**: Unlike the psychoactive [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
-   species, *P. sphinctrinus* shows no blue bruising reaction when cut
-   or handled.
-
-## See Also
-
-- [[copelandia-panaeolus-genera]]
-
-- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
+5. **Lack of blue bruising**: Unlike the psychoactive [[copelandia-panaeolus-genera]]
 
 - [[stamets-psylo-panaeolus-genus-overview]]
-- [[panaeolus-cyanescens]]
 - [[copelandia-panaeolus-genera]]
 - Anellaria
 - psilocybin

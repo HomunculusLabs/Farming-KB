@@ -14,61 +14,14 @@ type: concept
 Guerilla gardening is the unsanctioned cultivation of plants on land that the gardener
 does not legally own or rent, including vacant lots, roadside margins, parking strips,
 railway embankments, and other neglected urban spaces. The practice merges principles
-of [[mollison-permaculture-two-introduction-design-principles]] with direct community action, reclaiming
-underutilized urban land for food production, ecological restoration, and beautification.
-Rooted in both practical horticulture and political resistance, guerilla gardening
-transforms dead urban spaces into living systems that benefit communities, pollinators,
-and watershed health.
-
-The urban environment presents unique challenges for gardeners: contaminated soils,
-limited water access, vandalism, and legal uncertainty. However, cities also offer
-abundant resources in the form of waste streams, microclimates created by buildings,
-and vast amounts of unused or underused land. The guerilla gardener works at the
-intersection of these constraints and opportunities, using creative techniques to
-establish productive plantings without formal permission or significant financial
-investment.
-
-## Key Concepts
-
-### Site Selection and Assessment
-Successful guerilla gardens begin with careful observation of potential sites. Vacant
-rubble lots, abandoned properties, parking lot margins, and roadside strips are
-primary targets. In Tucson, Arizona, practitioners removed three-foot wide sections
-of asphalt along contour lines of a sloping parking lot and planted native trees,
-using parking lot runoff as irrigation. The same principle applies to driveway
-breakouts where street water is diverted to street trees. Low spots in asphalt or
-concrete lots can have pavement removed to create planting pockets that capture
-runoff. Native plants are preferred for guerilla gardens because they survive on local
-rainfall alone and bring indigenous ecology into the urban core.
-
-### Soil Building in Contaminated Sites
-Urban soils are often compacted, nutrient-poor, or contaminated with heavy metals and
-chemicals. Guerilla gardeners address this through raised beds built from salvaged
-materials such as bathtubs, tires, milk crates, refrigerators, and discarded lumber.
-[[sheet-mulching]] with cardboard, newspaper, and organic matter creates new soil profiles
+of [[sheet-mulching]] with cardboard, newspaper, and organic matter creates new soil profiles
 above contaminated substrates without requiring soil removal. Building compost from
 kitchen scraps, restaurant waste, and yard debris transforms urban waste streams into
 fertile growing medium. The key principle is working with what is available rather
 than purchasing inputs.
 
 ### Grafting onto Urban Trees
-One of the most elegant [[guerrilla-gardening-techniques]] involves grafting productive
-fruit varieties onto existing ornamental or wild trees in public spaces. Scion wood
-from good fruiting varieties can be grafted onto crabapples in alleyways or onto
-non-fruiting cherries, peaches, and plums in parks. The gardener returns later for
-the harvest without having maintained the tree. This approach requires knowledge of
-grafting techniques and timing but transforms ornamental plantings into food-producing
-assets with minimal ongoing maintenance.
-
-### Watershed-Aware Urban Gardening
-Guerilla gardens should be designed with water flow patterns in mind. Laying sticks
-on contour lines creates passive water harvesting structures. Microcatchments made by
-pitting the land with a shovel collect seeds, water, animal droppings, and mulch,
-creating rich sheltered microclimates for plant establishment. Simply laying down
-mulch on bare spots conserves enough moisture for many seeds to germinate. These
-temporary structures serve primarily to allow plants to establish; long after swales
-and check dams have silted up, they remain visible as lines of trees whose roots hold
-soil in place and tap into underground water through [[mycorrhizal-networks]].
+One of the most elegant [[mycorrhizal-networks]].
 
 ### Seed Bombing and Direct Seeding
 Broadcasting seed in clay pellets or simple seed balls allows rapid colonization of
@@ -133,5 +86,4 @@ so valued by their communities that formal legalization follows naturally.
 
 ## See Also
 
-- [[guerilla-gardening-tactics]]
 - [[guerilla-gardening-guide]]

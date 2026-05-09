@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [cultivation, mycology]
-sources: []
+sources:
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 # Cordyceps Cultivation
 
@@ -98,11 +99,7 @@ Harvest when fruitbodies are fully mature (orange-red color, firm texture). Cut 
 
 ## Related Topics
 
-- [[medicinal-mushroom-extraction-preparation]] for processing cordyceps products
 - [[mushroom-substrates]] for grain-based formulations
-- [[oyster-mushroom-spawn-production]] for culture maintenance
 - [[cordyceps-research-cancer]] for medicinal research
-- [[reishi-cultivation]] for another medicinal mushroom cultivation comparison
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[medicinal-mushroom-cardiovascular-cholesterol-research]]
 - [[reishi-mushroom-medicinal-properties]]

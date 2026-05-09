@@ -47,59 +47,27 @@ Consciously or unconsciously, man cannot comprehend nature. Even if one were to 
 
 ## Philosophical Significance
 
-This idea -- that nature transcends all human intellectual frameworks -- is the cornerstone of [[fukuoka-philosophy-of-mu-and-nature]]. Fukuoka's entire critique of science, agriculture, and modern civilization rests on this single insight: that the discriminating mind, by its very nature, cannot grasp the whole of reality. It can only fragment, classify, and distort.
+This idea -- that nature transcends all human intellectual frameworks -- is the cornerstone of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
 
-The implications are radical. If nature cannot be known through the intellect, then the entire project of scientific agriculture -- which attempts to understand and control nature through analysis -- is fundamentally misguided. Not wrong in its details, but wrong in its very premise. See also [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
-
-Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner's mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-mu-economics-and-value-of-nothing-essay]], he explores how this insight leads to the philosophy of Mu, or nothingness, which underpins his farming practice.
-
-The comparison with Basho's haiku is significant. Basho's poetry captures moments of pure, pre-conceptual apprehension of nature -- not an intellectual understanding, but a direct, wordless encounter. Fukuoka suggests that even this poetic vision falls short of true nature, which lies beyond even the light of artistic perception.
-
-## Connection to Natural Farming Principles
-
-In practical terms, the recognition that nature transcends human knowledge is what leads Fukuoka to his famous [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer, no weeding, no pesticides. Each of these prohibitions is an expression of humility before the incomprehensible intelligence of nature.
+Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner's mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer, no weeding, no pesticides. Each of these prohibitions is an expression of humility before the incomprehensible intelligence of nature.
 
 When a farmer tills the soil, he acts on the assumption that he understands what the soil needs. When he applies fertilizer, he assumes he knows what nutrients the plants require. When he pulls weeds, he assumes he can distinguish between "good" and "bad" plants. But all of these assumptions are products of the discriminating mind -- the very faculty that Fukuoka argues cannot comprehend nature.
 
-The alternative is to observe nature closely, without the desire to control or improve it, and to discover that nature already provides everything needed for abundant growth. This is not passive neglect; it is an active attentiveness that paradoxically requires doing less. See [[fukuoka-nature-as-teacher]] for more on how Fukuoka learned to let nature be the guide.
-
-## The Paradox of Description
-
-Fukuoka is acutely aware of the paradox in which he finds himself. To communicate his insight that nature cannot be described, he must use language -- the very tool that distorts and fragments. His books, including [[fukuoka-one-straw-revolution-impact]], are attempts to point beyond themselves, like a finger pointing at the moon. The finger is not the moon, but without it, one might never look up.
+The alternative is to observe nature closely, without the desire to control or improve it, and to discover that nature already provides everything needed for abundant growth. This is not passive neglect; it is an active attentiveness that paradoxically requires doing less. See [[fukuoka-one-straw-revolution-impact]], are attempts to point beyond themselves, like a finger pointing at the moon. The finger is not the moon, but without it, one might never look up.
 
 This is why Fukuoka often says that his words should be discarded once their meaning is grasped. They are provisional tools, not final truths. The truth is in the practice -- in the fields, the orchards, the living earth itself.
 
 ## Related Concepts
 
-- [[fukuoka-philosophy-of-mu-and-nature]]
-
 - [[fukuoka-nature-as-teacher]]
-
-- [[fukuoka-god-nature-and-man-as-one]]
 
 - [[fukuoka-god-nature-and-transcendent-world]]
 
-- [[fukuoka-nature-god-limits-of-knowledge]]
-
 - [[fukuoka-critique-western-dietetics-nutritional-science]]
-
-- [[fukuoka-road-back-to-nature-overview]]
 
 - [[fukuoka-bogus-nature]]
 
-- [[natural-farming-philosophy]]
-
-## Merged: Fukuoka Human Nature Relationship
-
-# Human-Nature Relationship
-
-## The Original Unity
-
-Fukuoka's fundamental proposition: God, nature, and man were "originally one indivisible" unity that has been "torn asunder" by human civilization. The purpose of natural farming and the road back to nature is "the effort to reunify God, nature, and man." This is not sentimental environmentalism but a metaphysical claim about the structure of reality.
-
-The farmer "once worked hand in hand with nature" but "capitulated to the pressures of society and became a subcontractor to the oil industry." Control over his livelihood passed into the hands of the industrialist and businessman. "Today it is the merchant who has the last say over the farmer's right to loss or gain, life or death."
-
-This original capitulation — choosing knowledge and technology over trust in nature's abundance — set in motion the entire modern ecological crisis. See [[fukuoka-critique-modern-agriculture]] for the full analysis.
+- [[fukuoka-critique-modern-agriculture]] for the full analysis.
 
 ## Nature as Indivisible Whole
 
@@ -129,11 +97,7 @@ Traditional farming villages operated on intuitive wisdom without formal philoso
 
 The village people knew what was delicious but had not neglected "the subtle and curious flavors of nature." "A natural diet lies at our feet — a diet that obeys the laws of heaven and has been followed naturally and without want by the people of farming and fishing villages." Within a quiet life passed according to the cycles of nature "lies hidden all the grandeur of the human drama."
 
-This connects to [[permaculture-ethics]] and the principle of designing within natural systems rather than against them.
-
-## Critique of the Oil-Based Society
-
-Fukuoka argued that modern man has become dependent on petroleum for food, clothing, and shelter, severing the connection to natural cycles. "Farming under the open skies has disappeared. Agriculture today has been degraded to the manufacture of petroleum-derived foods." The transition from open cultivation to hothouse horticulture, sand culture, gravel culture, and ultimately to plastic netting with nutrient solutions represents a progressive alienation from soil and from nature itself. See [[fukuoka-critique-modern-agriculture]] for the full analysis.
+This connects to [[fukuoka-critique-modern-agriculture]] for the full analysis.
 
 ## Man as Orchestra Member
 

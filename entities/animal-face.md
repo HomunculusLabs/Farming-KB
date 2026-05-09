@@ -115,8 +115,6 @@ The name "Animal Face" reflects both its parentage (Animal Mints) and its intens
 
 ## See Also
 
-- [[chemdawg-cannabis]] — foundational genetics in the OG Kush lineage
 - [[og-kush-cannabis-entity]] — ancestor of the Face Off OG side of the pedigree
-- [[girl-scout-cookies]] — the Cookie Family lineage that contributed Animal Mints genetics
 - [[wedding-cake-cannabis]] — sibling strain from the same breeder
 - [[jealousy-cannabis-strain-entity]] — another Seed Junky creation with overlapping lineage

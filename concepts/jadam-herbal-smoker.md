@@ -68,47 +68,28 @@ These tiny pests are difficult to reach with liquid sprays because they hide in 
 **Tobacco** (most commonly used):
 - Very effective against mites and whiteflies
 - WARNING: tobacco can leave smell on fruits -- do not use near harvest time
-- If tobacco smell remains on produce, spray [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] to eliminate odor quickly
+- If tobacco smell remains on produce, spray [[jadam-herbal-smoker-livestock]]
 
-**Alternative herbs with pesticidal effect or strong scent:**
-- Gingko leaves or fruits
-- Peppermint
-- Clove
-- Korean mint (Agastache rugosa)
-- Japanese pepper (Zanthoxylum piperitum)
-
-These alternatives are promising but less tested than tobacco. Youngsang Cho considers herbal smoking "a very interesting and promising area that remains to be studied" and believes it could enable completely chemical-free greenhouse farming.
-
-## Advantages Over Liquid Sprays in Winter
-
-- Does not add moisture to the greenhouse environment
-- Reaches every surface including undersides of leaves
-- Penetrates tiny crevices that spray nozzles cannot reach
-- Requires no water (no need for soft water, JWA, or mixing)
-- Very low cost -- uses plant waste and a coal briquette
-
-## Safety Notes
-
-- Always remove beehives before smoking -- smoke is lethal to bees
-- Ensure adequate personal protection when lighting and placing smokers
-- Ventilate greenhouse completely before re-entry next morning
-- Do not use tobacco-derived smoke on crops near harvest (taste residue)
-- The coal briquette remains hot for hours -- place on non-flammable surface
-
-## Potential and Future Development
-
-Cho writes: "Building on this method, I believe greenhouse farming can go completely chemical-free with ease. Find and use plants other than tobacco. This is a very interesting and promising area that remains to be studied."
-
-Farmers are encouraged to experiment with local plant materials and share results with the JADAM community.
-
-## See Also
-
-- [[jadam-herbal-smoker-livestock]]
-
-- [[jadam-herbal-pest-control]] -- JHS liquid pesticides for the same pests
 - [[jadam-pesticide-for-aphids-and-mites]] -- liquid spray programs for mites and whiteflies
-- [[jadam-natural-pesticide-jnp]] -- the complete JNP system
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[jadam-natural-pesticide-programs]]
 - [[building-with-natural-materials]]
+## Practical Considerations
+
+Successful implementation of JADAM Herbal Smoker requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

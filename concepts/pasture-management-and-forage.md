@@ -121,11 +121,7 @@ Most of these should be **sprouted** before feeding — for both animals and hum
 
 ## Related Topics
 
-- [[sheep-keeping-guide]] — sheep-specific pasture needs
 - [[cattle-keeping-guide]] — cattle grazing management
-- [[goat-keeping-guide]] — goat browsing and pasture
 - [[pig-keeping-guide]] — pig forage and land clearing
-- [[barn-design-guide]] — livestock infrastructure
 - [[woodlot-and-coppicing]] — integrating timber with pasture
-- [[gaias-garden-cover-crops-soil-building]]
 - [[holzer-fruit-tree-planting-method]]

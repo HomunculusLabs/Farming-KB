@@ -83,11 +83,8 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[2c-b-entity-pihkal]]
 - [[2c-c-entity-pihkal]]
-- [[2c-d-entity-pihkal]]
 - [[2c-e-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[2c-h-entity-pihkal]] -- 2C-H (PIHKAL #32)
 - [[2c-n-entity-pihkal]] -- 2C-N (PIHKAL #34)

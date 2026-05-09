@@ -140,8 +140,6 @@ of fungi, termites, and beetle larvae.
 
 ## See Also
 
-- [[permaculture-multipurpose-trees]]
 - [[mollison-tropical-soils-and-granitic-sands]]
-- [[mollison-wild-rice-and-taro-polycultures]]
 - [[permaculture-designers-manual-tropical-climates]]
 - [[mollison-animal-integration-permaculture-design]]

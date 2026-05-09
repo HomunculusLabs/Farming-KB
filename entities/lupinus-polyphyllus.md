@@ -3,30 +3,8 @@ title: "lupinus polyphyllus"
 created: 2026-04-28
 type: species
 tags:
-  - [[permaculture]]
-  - nitrogen-fixer
-  - fabaceae
-  - ornamental-plant
-  - pollinator-habitat
-  - invasive-species
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Dunn, P.H. (1959). \"A cytological study of certain Lupinus species.\" Agronomy Journal, 51(9), 521-523."
-  - "Wink, M. (2013). \"Ecology of alkaloids in Lupinus.\" In: Alkaloids: Chemistry and Biology, Vol. 74. Academic Press."
-  - "Forrester, G.E. et al. (2018). \"Lupinus polyphyllus as a nitrogen-fixing green manure.\" Agronomy for Sustainable Development, 38, 34."
-  - "Valtonen, A. et al. (2006). \"Host plant quality and defense in Lupinus spp.\" Entomologia Experimentalis et Applicata, 121(2), 155-163."
-  - "CABI Invasive Species Compendium. \"Lupinus polyphyllus.\" www.cabi.org/isc."
----
-
-# Lupinus polyphyllus (*Lupinus polyphyllus* Lindl.)
-
-## Overview
-
-Lupinus polyphyllus, commonly known as the large-leaved lupine or Russell
-lupine, is a perennial herbaceous legume in the family Fabaceae. Native to
-west [[palmer-edible-mushrooms-north-america]] rica from British Columbia to California, it has become
-widely naturali [[hallucinogenic-mushroom-market-in-europe]] ro [[magic-mushrooms-australia-new-zealand]] land, [[gartz-magic-mushrooms-species-south-america]] ri [[water-harvesting-and-conservation-in-permaculture]] ture
+  - [[palmer-edible-mushrooms-north-america]] rica from British Columbia to California, it has become
+widely naturali [[magic-mushrooms-australia-new-zealand]] land, [[water-harvesting-and-conservation-in-permaculture]] ture
 systems, it is valued as a vigorous nitrogen fixer, pollinator resource, and
 pioneer species for soil rehabilitation.
 
@@ -95,56 +73,25 @@ it one of the most productive perennial nitrogen fixers in temperate climates.
   Biomass incorporation adds both N and organic matter.
 - **Living mulch:** Dense foliage suppresses weeds effectively within a
   1-meter radius of the crown.
-- **[[companion-planting]]:** Pairs well with fruit trees, berries, and heavy-
-  feeding vegetables. The deep taproot brings nutrients from subsoil layers.
+- **[[lupinus-mutabilis]]
 
-### Pollinator Support
-
-The extended flowering period (4–8 weeks) and high nectar production make
-L. polyphyllus an excellent bumblebee resource. Each raceme produces 100–500
-flowers opening sequentially from base to tip, providing sustained forage.
-In permaculture designs, it serves as a pollinator corridor species.
-
-### Erosion Control and Soil Building
-
-The deep root system stabilizes slopes and riverbanks effectively.
-Root biomass contributes to soil organic matter. The species is used in
-restoration of disturbed sites, mine tailings, and roadside cuttings where
-rapid establishment is advantageous.
-
-### Chop-and-Drop Mulch
-
-In food forest systems, mature stems and foliage can be cut as surface mulch
-around fruit trees and garden beds. C/N ratio ≈ 20:1 (nitrogen-rich), providing
-rapid nutrient cycling compared to carbonaceous mulches like wood chips.
-
-## Chemistry and Toxicology
-
-L. polyphyllus produces quinolizidine alkaloids (QAs) as chemical defenses:
-
-- **Lupanine:** Dominant alkaloid (40–70% of QA fraction).
-  Causes respiratory paralysis at high doses in livestock.
-- **Sparteine:** Cardiac glycoside-like activity; also an antiarrhythmic
-  drug historically used in clinical medicine.
-- **Angustifoline, hydroxylupanine:** Minor constituents.
-- **Total QA content:** 0.5–3.0% dry weight (wild); "sweet lupine" cultivars
-  bred to <0.02%.
-
-⚠️ **Livestock toxicity:** All above-ground parts are toxic to sheep and
-cattle, especially during seed set. Symptoms include labored breathing,
-convulsions, and death. Livestock generally avoid the bitter foliage unless
-other forage is scarce.
-
-## Invasive Species Considerations
-
-In Europe, L. polyphyllus forms dense monocultures reducing native plant
-diversity. Explosive seed dispersal, large seed bank (viable 10+ years), and
-competitive ability enable rapid colonization. Management includes mowing
-before seed set, manual taproot removal, and targeted herbicide.
-Permaculture practitioners in invasive zones should consider native
-nitrogen-fixers (Trifolium pratense, Lotus corniculatus) or sterile cultivars.
-
-## See Also
-
-- [[trifolium-repens]] — Alternative temperate nitrogen-fixing ground cover
 - [[lupinus-albus]] — Closely related white lupine with grain uses
+## Practical Considerations
+
+Successful implementation of lupinus polyphyllus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

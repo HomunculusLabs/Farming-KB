@@ -111,13 +111,8 @@ Buprenorphine is a partial MOR agonist used in medication-assisted treatment for
 
 ## See Also
 
-- [[papaver-somniferum]]
 - [[mckenna-opium-history-demeter-poppy]]
-- [[dmt-nn-dimethyltryptamine]]
 - [[ibogaine]]
-- [[salvinorin-a-entity]]
 - [[mitragynine]]
-- [[mescaline-entity]]
-- [[psilocybin-compound]]
-- [[harmine]]
-- [[5-meo-dmt]]
+- [[psilocybin]]
+- [[5-meo-dmt-entity]]

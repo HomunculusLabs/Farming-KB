@@ -57,7 +57,7 @@ A 5,000W generator can run a small electric furnace or several baseboard heaters
 - For wells: insulate the wellhead and pipe from well to house
 
 ### Thawing Frozen Pipes
-1. Shut off for water supply to the frozen section
+1. Shut off water supply to the frozen section
 2. Open the downstream faucet so melting water can flow
 3. Apply heat gradually: hair dryer, heat lamp, or towels in hot water
 4. Work from the faucet end toward the frozen section
@@ -80,7 +80,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Water:** 1 gallon per person per day, additional for pets/livestock. Store indoors protected from freezing. Water purification supplies.
 
-**Food:** Non-perishable food requiring no cooking. Manual can opener. Camp stove with fuel outdoor cooking. High-calorie comfort foods and hot drinks.
+**Food:** Non-perishable food requiring no cooking. Manual can opener. Camp stove with fuel for outdoor cooking. High-calorie comfort foods and hot drinks.
 
 **Warmth:** Sleeping bags rated to 0°F, extra wool blankets, warm layered clothing, waterproof boots and gloves, chemical heat packs, emergency thermal blankets (Mylar).
 
@@ -104,7 +104,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 ## Related Concepts
 
-- safety — Comprehensive safety planning and [[emergency-preparedness]]
+- safety — Comprehensive safety planning and emergency preparedness
 - [[firewood-seasoning-and-storage]] — Ensuring adequate seasoned wood supply for winter heating
 - animal husbandry — Livestock care and management
 - [[homestead-communication]] — Communication during winter power outages

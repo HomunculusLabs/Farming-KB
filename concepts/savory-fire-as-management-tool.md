@@ -133,12 +133,8 @@ mineral cycles.
 
 - savory holistic resource management fire as tool
 
-- [[savory-brittle-environments]] for why fire's effects differ
-  by environment type
 - [[savory-rest-as-management-tool]] for the interaction of fire
   and rest
-- [[savory-animal-impact-and-herd-effect]] for the disturbance
-  that can mitigate fire's damage
 - [[savory-desertification-causes]] for fire's role in land
   degradation
 - [[savory-testing-and-management-guidelines]] for how to evaluate

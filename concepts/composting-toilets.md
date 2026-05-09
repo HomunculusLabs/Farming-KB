@@ -1,7 +1,7 @@
 ---
 title: "Composting Toilets"
 created: 2026-04-28
-tags: [permaculture, waste-management, sanitation, soil-fertility]
+tags: [[permaculture, waste-management, sanitation, soil-fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -135,13 +135,6 @@ nutrient cycle on-site.
 
 In larger-scale applications, composting toilets can serve community
 buildings, eco-villages, and rural settlements. Mollison described
-examples where community-scale [[composting-toilet-systems]] provided all
-the fertilizer needed for adjacent food forests and orchards.
-
-## See Also
-
-- [[permaculture-designers-manual-greywater-systems]]
-- [[vermicomposting]]
+examples where community-scale [[graywater-systems]]
 - [[soil-fertility-management]]
-- [[richard-evans-schultes-updated]]
 - [[zone-1-intensive-garden]]

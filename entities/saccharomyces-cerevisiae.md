@@ -126,12 +126,6 @@ The global economic significance of *S. cerevisiae* spans multiple industries:
 
 ## See Also
 
-- [[saccharomyces-paradoxus]]
-- fermentation-microbiology
-- model-organisms-in-genetics
-- yeast-cell-wall
-- crabtree-effect
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]
 - [[verticillium-malthousei-entity-the-mushroom-cultivator]]

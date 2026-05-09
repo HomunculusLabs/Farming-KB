@@ -111,12 +111,8 @@ similar taxa that have been partially resolved through molecular phylogenetics.
 
 ## See Also
 
-- [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
-- [[phellinus-pomaceus]]
-- [[trametes-versicolor]]
-- [[ganoderma-lucidum]]
+- [[trametes-versicolor-entity]]
 - [[fomes-fomentarius]]
-- [[inonotus-obliquus]]
 - [[coriolopsis-gallica]]
 - [[mycoremediation]]

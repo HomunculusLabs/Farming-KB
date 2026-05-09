@@ -120,10 +120,8 @@ Organisms alter pH through their metabolic waste:
 - Water with dissolved organic matter may contain organisms that compete with your compost biology
 - Generally not a problem, but worth testing if results are inconsistent
 
-See also: [[aact-aeration-oxygen-management-ingham]], [[aact-troubleshooting-ingham]], [[aact-brewing-ingredients-ingham]], [[compost-tea-aact]]
-- [[humic-acids-soil-biology-ingham]]
+See also: [[aact-troubleshooting-ingham]], [[compost-tea-aact]]
 - [[teaming-with-microbes-humic-and-fulvic-acids]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
 
 ## See Also

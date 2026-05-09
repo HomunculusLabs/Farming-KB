@@ -66,19 +66,11 @@ Patients should be aware that cannabis is not a cure for alcoholism but may serv
 
 ## Related Topics
 
-- [[cannabis-for-mental-health]] for mental health considerations
-
 - [[cannabis-endocannabinoid-system]] for reward pathway mechanisms
-
-- [[cannabis-neuroprotection]] for brain protection
 
 - [[cannabis-for-anxiety-disorders]] for anxiety management
 
-- [[cannabis-cbd-therapeutic-profile]] for CBD neuroprotective effects
-
 - [[cannabis-thc-therapeutic-profile]] for THC-specific information
-
-- [[cannabis-drug-interactions-and-contraindications]] for interaction safety
 
 - [[cannabis-health-index]] for the CHI methodology
 

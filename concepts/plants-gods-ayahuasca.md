@@ -74,22 +74,13 @@ The concept of Ayahuasca has expanded to include numerous "Ayahuasca analogs" �
 
 ## See Also
 
-- [[plants-gods-nicotiana]]
-
-- banisteriopsis caapi — Primary botanical source of Ayahuasca
 - [[mycopesticides]] — Chacruna, the DMT-containing additive
 - *Diplopterys cabrerana* — Oco-Yaje, another important additive
-- [[harmala-alkaloids]] — Beta-carboline alkaloid from Banisteriopsis bark
-- Dmt — N,N-dimethyltryptamine, the visionary compound
-- *Tabernaemontana sananho* — Sanango "memory plant" additive
 - [[iboga-plant]] — African hallucinogenic plant with overlapping alkaloids
 - Monoamine Oxidase Inhibitor — Pharmacological mechanism enabling oral DMT activity
 - ethnopharmacology — Study of indigenous plant use in medicine and ritual
 - icaros — Sacred songs sung during Ayahuasca ceremonies by shamans
-- [[orchard-management]] — English botanist who first documented Ayahuasca scientifically
 - [[peganum-harmala]] — Syrian Rue, source of harmine alkaloids used in Ayahuasca analogs
 - *Mimosa tenuiflora* — DMT-containing plant used in some analog preparations
-- [[teonanacatl-and-mesoamerican-mushroom-cults]]
 - [[plants-gods-peyote]]
-- [[schultes-salvia-divinorum]]
 - [[dmt-and-ayahuasca-history]]

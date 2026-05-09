@@ -1,7 +1,7 @@
 ---
 title: Substrate Formulation
 created: 2026-04-28
-tags: [mycology, cultivation, substrate, nutrition]
+tags: [[mycology, cultivation, substrate, nutrition]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -71,43 +71,7 @@ Higher supplementation rates produce higher yields but also increase the
 risk of contamination, particularly during spawn run. Supplemented
 substrates must be sterilized, not merely pasteurized.
 
-## Pasteurization vs. [[sterilization]]
-
-**Pasteurization** (60-80 C for 1-2 hours) kills most contaminants while
-preserving beneficial thermotolerant microorganisms that help defend the
-substrate against later colonization by molds. It is appropriate for
-unsupplemented straw, wood chip, and compost substrates. Hot water
-baths, steam pasteurization chambers, and hydrated lime treatment are
-common methods.
-
-**Sterilization** (121 C for 1-3 hours under pressure) eliminates all
-living organisms. It is required for supplemented substrates because
-the added nutrients would otherwise be rapidly consumed by surviving
-bacteria and molds. Sterilized substrates are vulnerable to contamination
-and must be handled under clean conditions.
-
-## Moisture Content
-
-Optimal substrate moisture ranges from 60-75% depending on the material.
-Straw-based substrates aim for 65-70%, while sawdust substrates are
-typically hydrated to 60-65%. A simple squeeze test gives a rough
-indication: the substrate should hold together when squeezed but release
-only a few drops of water. Excess moisture displaces air, creating
-anaerobic pockets that stall colonization and promote bacterial growth.
-
-## Biological Efficiency
-
-Biological efficiency (BE) is the standard metric for comparing
-substrate performance. It is calculated as:
-
-    BE = (fresh weight of mushrooms / dry weight of substrate) x 100
-
-Oyster mushrooms on supplemented straw commonly achieve 100-200% BE,
-meaning they produce 1-2 kg of fresh mushrooms per kg of dry substrate.
-Shiitake on supplemented sawdust typically yields 75-125% BE. King
-stropharia on wood chips may reach 40-60% BE over multiple flushes.
-
-## [[substrate-preparation]] Methods
+## Pasteurization vs. [[substrate-preparation]] Methods
 
 Beyond the choice of materials, the physical preparation of substrate
 affects colonization speed and yield. Sawdust should be sifted to remove
@@ -138,6 +102,5 @@ maintain stable temperatures.
 
 ## See Also
 
-- [[mushroom-substrate-formulation]]
 - [[chen-maitake-substrate-formulation]]
 - [[grass-seed-substrate-preparation]]

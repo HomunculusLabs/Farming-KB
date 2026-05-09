@@ -1,7 +1,7 @@
 ---
 title: "Macrofungi on Woody Substrata"
 created: 2026-04-28
-tags: [mycology, macrofungi, wood-inhabiting, lignicolous, collection-methods]
+tags: [[mycology, macrofungi, wood-inhabiting, lignicolous, collection-methods]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -69,39 +69,7 @@ monkeys in Malaysia to climb trees and break off branches.
 Pike and colleagues (1975) sampled epiphytes from the trunk of a
 450-year-old Douglas fir by separating the tree into six zones: base,
 moist side, dry side, upper trunk, branch systems greater than 4 cm,
-and branchlets less than 4 cm. They identified 74 species of [[lichens]]
-and 32 species of bryophytes using systematic quadrat sampling at 5-m
-intervals. These techniques are directly applicable to fungi associated
-with woody substrata.
-
-## Field Collection Protocols
-
-Not every specimen encountered needs to be collected. In plot-based
-studies, representatives of all species should be collected. Collectors
-should obtain sporocarps exhibiting a range of developmental stages for
-each taxon. Specimens are removed from the substratum by excavating
-around the base to reveal volvas, rooting bases, bulbs, or attachment
-to buried substrata. Including some of the substratum facilitates
-identification.
-
-Equipment requirements include a cutting and digging tool (knife,
-trowel, or chisel), containers for individual specimens (aluminum foil,
-waxed paper bags, or small boxes), a larger transport container, and
-labels for each specimen. An ax or hatchet is often needed for woody
-substrata. Fleshy fungi dehydrate and decompose quickly; specimens
-transported in a cooler with an ice pack hold up better, especially in
-tropical and subtropical climates.
-
-## Documentation and Preservation
-
-Documentation includes cultures, macrochemical tests, photographs, spore
-prints, and written descriptions. Specimens are prioritized by taxon
-and condition, with fragile and rapidly decaying specimens processed
-first. Field labels should be recorded in pencil or permanent ink on
-waterproof paper, including collection number, collector, date, and
-location.
-
-Most [[agar]]ics and fleshy fungi require a heat source for drying (38-55
+and branchlets less than 4 cm. They identified 74 species of [[agar]]ics and fleshy fungi require a heat source for drying (38-55
 degrees C with wire screen shelves). For polypores, some Corticiaceae,
 and some ascomycetes, air-drying is preferable because the fungus is not
 killed but merely goes dormant, allowing later isolation of cultures.
@@ -140,6 +108,5 @@ when and how often to sample for maximum species coverage.
 
 ## See Also
 
-- [[biodiversity-fungi-wood-decay-succession]] for decomposition processes
 - [[biodiversity-fungi-temperate-boreal-forests]] for habitat context
 - [[biodiversity-microfungi-litter-wood-debris]] for smaller fungi on wood

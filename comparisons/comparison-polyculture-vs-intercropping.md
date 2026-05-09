@@ -12,18 +12,8 @@ type: comparison
 
 ## Overview
 Polyculture and intercropping both grow multiple species together, but they
-differ in [[mollison-permaculture-design-philosophy]], complexity, and management intensity. Intercropping
-is a structured agricultural practice that arranges two or more crops in defined
-spatial patterns like rows, strips, or relay sequences, typically managed at
-field scale with equipment compatibility in mind. Polyculture is a more holistic
-approach that creates dynamic, self-organizing [[faires-plant-communities-and-guilds]] mimicking
-natural ecosystems, where plants fill [[mushroom-habitats-and-ecological-niches]] and create conditions
-for each other through succession. The distinction lies in the degree of
-integration and the role of ecological self-organization versus human-imposed
-spatial design.
-
-## Polyculture
-[[polyculture-design-hemenway]]
+differ in [[faires-plant-communities-and-guilds]] mimicking
+natural ecosystems, where plants fill [[polyculture-design-hemenway]]
 
 Polyculture design creates plant communities of several to many species that
 interact dynamically, much like natural ecosystems. Pioneered for temperate
@@ -56,68 +46,7 @@ often exceeds monoculture, but the output is diverse rather than concentrated in
 a single marketable crop.
 
 ## Intercropping
-[[intercropping-systems]]
-
-Intercropping is a more structured agricultural practice that grows two or
-more crops simultaneously in the same field using defined spatial arrangements.
-The four main types are strip intercropping (wide alternating strips compatible
-with machinery), relay cropping (a second crop planted into a standing crop
-before harvest), row intercropping (alternating rows within beds), and mixed
-intercropping (no distinct rows, essentially synonymous with polyculture at
-field scale). Each type offers different balances of ecological benefit and
-operational practicality.
-
-Strip intercropping is particularly valued in commercial agriculture because
-it maintains equipment-friendly row widths while creating ecological
-interactions at strip borders that reduce pest movement and increase total
-yield. Relay cropping maximizes use of the growing season by overlapping crop
-cycles, eliminating fallow periods. Row intercropping works well in market
-gardens where hand cultivation is the norm. The design logic is typically
-pairwise: corn with beans for nitrogen fixation, carrots with onions for mutual
-pest deterrence, wheat with clover for ground cover after grain harvest.
-
-The intercropping approach is more predictable and easier to manage than
-polyculture because each crop maintains a defined spatial relationship to its
-companions. Planting, fertilizing, pest management, and harvesting can be
-planned crop by crop, and the systems can be adapted to mechanized farming.
-However, the ecological integration is shallower than polyculture. Intercropping
-typically captures the obvious benefits of diversity (reduced pest pressure,
-complementary nutrient use) without achieving the full self-organizing
-resilience that emerges when many species interact dynamically in a shared
-space.
-
-## Key Differences
-| Aspect | Polyculture | Intercropping |
-|--------|------------|---------------|
-| Design philosophy | Self-organizing ecosystem mimicry | Structured spatial
-arrangements |
-| Species count | Many (7-20+) | Typically 2-4 |
-| Spatial arrangement | Mixed, no defined rows | Defined rows, strips, or
-relay patterns |
-| Management intensity | Very high, daily attention needed | Moderate,
-seasonal management |
-| Self-regulation | High, plants create conditions for each other | Low to
-moderate, depends on design |
-| Ecological depth | Deep, emergent properties | Shallow, known pairwise
-benefits |
-| Harvest pattern | Continuous, whole-plant harvest | Often crop-by-crop at
-maturity |
-| Scalability | Garden to small farm | Garden to broadacre agriculture |
-| Mechanization compatibility | Low | Moderate to high (strip/relay types) |
-| Market orientation | Diverse output for self-sufficiency | Can target
-specific crop markets |
-| Skill requirement | Advanced (ecological observation) | Intermediate (crop
-planning) |
-
-## When to Choose Polyculture
-Polyculture is ideal for home gardens, homesteads, and small-scale market
-farms where diverse output, self-sufficiency, and ecological resilience are
-priorities over standardized production. It excels in intensive garden spaces
-where maximizing yield per square foot of diverse food is the goal. Polyculture
-is also the best choice for gardeners who enjoy daily observation and hands-on
-management, as the system rewards close attention and evolves with the
-gardener's understanding. Permaculture food forests and community gardens
-benefit enormously from polyculture design. See [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for
+[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for
 specific beneficial pairings within polyculture designs.
 
 ## When to Choose Intercropping
@@ -142,9 +71,25 @@ patterns (row-based legumes and alliums) can be nested within a broader
 polyculture matrix of mixed greens and herbs. A farm might also use relay
 intercropping to transition between seasonal polyculture plantings, maintaining
 continuous ground cover and biological activity. See
-[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for more on how these systems relate.
-
-## See Also
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - Companion Planting Vs Polyculture
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+## Practical Considerations
+
+Successful implementation of Polyculture vs Intercropping requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

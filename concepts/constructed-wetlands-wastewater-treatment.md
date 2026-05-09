@@ -81,40 +81,14 @@ Constructed wetlands treat municipal wastewater at various levels from primary t
 
 Stormwater management systems use constructed wetlands to remove nutrients, sediments, metals, and hydrocarbons from urban runoff. Agricultural applications include treatment of animal waste lagoon effluent, feedlot runoff, and irrigation return water. Acid mine drainage treatment is a well-established application that leverages the sulfate-reducing and metal-precipitating capabilities of wetland systems.
 
-Emerging applications include treatment of landfill leachate, removal of emerging contaminants such as pharmaceuticals and personal care products, and polishing of reverse osmosis concentrate. See [[wetland-ecology]] for the ecological context of natural wetland function.
-
-## Applications for Homesteads
-
-Small-scale constructed wetlands can treat household wastewater, including [[graywater-systems-for-homesteads]] and even blackwater (combined with septic tank pretreatment). A typical household system requires 2-5 square meters per person for secondary treatment. Integration with [[graywater-systems-for-homesteads]] allows treated water to irrigate gardens and orchards.
-
-## Limitations
-
-Large land area requirements can be prohibitive in urban or densely developed areas. Treatment performance varies seasonally with temperature and plant growth cycles. Clogging of subsurface flow media can reduce hydraulic conductivity over time, requiring maintenance or media replacement. Mosquito vector concerns exist with surface flow systems. Long-term phosphorus removal capacity may be limited by substrate saturation.
-
-Despite these limitations, constructed wetlands offer substantial advantages including low capital and operating costs, minimal energy requirements, natural aesthetic value, wildlife habitat creation, and resilience to fluctuating loads and flow rates. Their ability to provide continuous treatment with minimal maintenance makes them particularly attractive for remote or resource-limited applications.
-
-## See Also
-
-- [[phytoremediation-mechanisms]] — plant-based contaminant removal
-- [[rhizofiltration]] — root-based water filtration
+Emerging applications include treatment of landfill leachate, removal of emerging contaminants such as pharmaceuticals and personal care products, and polishing of reverse osmosis concentrate. See [[graywater-systems-for-homesteads]] and even blackwater (combined with septic tank pretreatment). A typical household system requires 2-5 square meters per person for secondary treatment. Integration with [[phytoremediation-mechanisms]] — plant-based contaminant removal
 - [[wetland-ecology]] — natural wetland function and processes
-- [[fungal-bioremediation]] — fungal roles in contaminant degradation
-- [[bioremediation-fungal-vs-bacterial]] — comparison of remediation organisms
-- [[composting-methods-comparison]] — organic waste treatment alternatives
+- [[mycoremediation]] — comparison of remediation organisms
 - [[edge-effect-in-permaculture]] — small-scale wetland construction
-- [[graywater-systems-for-homesteads]]
 - [[desalination-and-water-treatment-technologies]]
-- [[sustainable-living-habits-for-homesteads]]
 - [[fungal-treatment-of-industrial-wastewaters]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[fungal-communities-water-aquatic-ecosystems]]
-
-## Related
-
 - [[bioelectrochemical-remediation]]
 
 ## Merged: Rhizoremediation Mechanisms
-Rhizoremediation is the use of plant root systems and their associated microbial communities to degrade, sequester, or immobilize environmental contaminants in soil. The rhizosphere, the zone of soil immediately influenced by plant roots, supports microbial activity that is orders of magnitude higher than in bulk soil. See [[mycorrhizal-fungi-rhizosphere-remediation]] for detailed coverage of mycorrhizal involvement. [[phytoremediation-mechanisms]] [[mycorrhizal-fungi-rhizosphere-remediation]] [[mycorrhizal-fungi-bioremediation]] [[mycorrhizal-fungi-hydrocarbon-remediation]] [[petroleum-hydrocarbon-fungal-biodegradation]] [[bioaugmentation-strategies]] constructed wetlands wastewater treatment
-## Merged: Denitrification And Nitrogen Removal Biological Treatment
-Denitrification is the microbial process of reducing nitrate and nitrite to nitrogen gas, effectively removing nitrogen from aquatic systems. In biological wastewater treatment and bioremediation, denitrification is essential for preventing eutrophication of receiving waters and meeting discharge regulations. [[bioslurry-reactors]] constructed wetlands wastewater treatment [[bioaugmentation-strategies]] [[biostimulation-techniques]] [[mycoremediation-bioreactor-design]] [[cotter-mycoremediation-overview]] [[cotter-mycoremediation-overview]] Fungi and bacteria both contribute to nitrogen cycling in treatment systems, with distinct roles and capabilities.
+Rhizoremediation is the use of plant root systems and their associated microbial communities to degrade, sequester, or immobilize environmental contaminants in soil. The rhizosphere, the zone of soil immediately influenced by plant roots, supports microbial activity that is orders of magnitude higher than in bulk soil. See [[phytoremediation-mechanisms]] [[mycorrhizal-fungi-bioremediation]] [[petroleum-hydrocarbon-fungal-biodegradation]] [[bioslurry-reactors]] constructed wetlands wastewater treatment [[biostimulation-techniques]] [[cotter-mycoremediation-overview]] [[cotter-mycoremediation-overview]] Fungi and bacteria both contribute to nitrogen cycling in treatment systems, with distinct roles and capabilities.

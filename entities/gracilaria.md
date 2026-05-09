@@ -136,11 +136,7 @@ coastal acidification mitigation.
 ## See Also
 
 - [[ulva-lactuca]]
-- [[porphyra-umbilicalis]]
 - [[saccharina-latissima]]
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
-- [[palmaria-palmata]]
 - [[chondrus-crispus]]
-- [[kappaphycus-alvarezii]]
 - [[arthrospira-platensis]]

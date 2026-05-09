@@ -26,25 +26,7 @@ in modern psychedelic science.
 
 ## Background and Significance
 
-Psilocybin and psilocin are the primary psychoactive [[tryptamine]]-alkaloids found in mushrooms of the genus Psilocybe and several related
-genera. While psilocybin serves as the stable prodrug (converted to psilocin
-upon ingestion via dephosphorylation), the ratio and absolute quantity of both
-compounds can differ enormously between individual mushrooms, even within the
-same species and growing setup.
-
-This variability matters for several reasons. First, users who rely on dry
-weight as a dosing metric cannot accurately predict the actual dose of
-psychoactive compounds they are consuming. Second, clinical trials using
-psilocybin-assisted-therapy require precise dosing, making natural mushroom
-material impractical without thorough analytical characterization. Third, the
-variability complicates toxicology and forensic analysis, since potency can
-depend heavily on undocumented factors like flush number, substrate, and
-storage conditions.
-
-## Variation Across Flushes (Harvests)
-
-The most detailed controlled study of flush-to-flush variation was conducted by
-Bigwood and Beug (1982), who cultivated an Amazonian strain of [[psilocybe-cubensis]] under rigorously controlled conditions using a rye-grain miniculture
+Psilocybin and psilocin are the primary psychoactive [[psilocybe-cubensis]] under rigorously controlled conditions using a rye-grain miniculture
 method. Their key findings revealed a striking pattern:
 
 - **Psilocybin levels** showed no consistent upward or downward trend across
@@ -99,8 +81,7 @@ butanol-acetic acid-water (12:3:5) mobile phase.
 Modern analytical approaches to assessing psilocybin potency variation have
 expanded to include liquid-chromatography-mass-spectrometry (LC-MS) and
 gas-chromatography-mass-spectrometry (GC-MS), offering improved sensitivity
-and the ability to detect additional alkaloids such as [[baeocystin]],
-norbaeocystin, and [[aeruginascin]].
+and the ability to detect additional alkaloids such as [[aeruginascin]].
 
 ## Factors Influencing Potency
 
@@ -137,14 +118,7 @@ substantial differences in actual compound dosage.
 For clinical applications, this variability underscores why synthetic
 psilocybin is preferred over natural mushroom material in psychedelic-therapy trials, where precise dosing is essential for both efficacy and
 safety.
-
 ## See Also
 
-- [[allen-psilocybin-potency-australian-species]]
-
 - [[stamets-psi-psilocybin-potency-comparative-scale]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
-
-- psilocybin
-- psilocin
 - [[psilocybe-cubensis]]

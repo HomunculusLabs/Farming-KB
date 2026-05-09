@@ -1,17 +1,7 @@
 ---
 title: Mushroom Growing Conditions
 created: 2026-04-28
-tags: [mycology, agriculture, mushroom-cultivation]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
-type: concept
----
-
-# Mushroom Growing Conditions
-
-The successful cultivation of [[agaricus-campestris]] depends upon the
+tags: [[agaricus-campestris]] depends upon the
 careful regulation of three principal environmental factors: temperature,
 moisture, and light. The main factors to be regulated are temperature
 and moisture, and consequently any situation in which these conditions
@@ -32,13 +22,7 @@ commercially successful; yet much depends upon other factors.
 
 A high temperature long continued, such as 72 degrees F for 24 hours,
 is fatal to the pin heads and injurious to the spawn. However, this
-injury is not due to the mushroom [[cotter-mushroom-life-cycle-mycelium-biology]] being
-directly killed by the temperature; rather, it results from the great
-stimulus given to competing organisms at the higher temperature. These
-include insects, fungi, and bacteria that either crowd out or directly
-attack the mushroom mycelium.
-
-Pure cultures of [[agar]]icus campestris grow well up to 85 degrees F so
+injury is not due to the mushroom [[agar]]icus campestris grow well up to 85 degrees F so
 long as sufficient moisture is present. This proves that conditions for
 growth in pure cultures differ from those in the mushroom bed, the
 difference being due in large part to the elimination of certain
@@ -143,8 +127,6 @@ the temperature is unquestionably declining. Recent tests indicate that
 65 to 70 degrees F is generally preferable. Below 50 degrees growth will
 be very slow. Earlier advice recommending spawning at 85 to 90 degrees
 F was incorrect; that temperature is fatal if maintained for some time.
-
 ## See Also
 
-- [[agaricus-campestris]] - the common cultivated mushroom
 - [[mushroom-compost-preparation]] - fermented manure substrate

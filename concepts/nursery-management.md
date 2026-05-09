@@ -79,15 +79,9 @@ Permaculture nurseries can generate income through plant sales to the community.
 
 ## See Also
 
-[[permaculture-plant-propagation-guide]]
-
 [[plant-propagation]]
-
-[[permaculture-seed-saving]]
 
 [[permaculture-plant-selection]]
 
-[[permaculture-design]]
-- [[permaculture-designers-manual-seed-saving-varieties]]
-- [[soil-erosion-control]]
+[[permaculture-designers-manual-seed-saving-varieties]]
 - [[permaculture-designers-manual-plant-propagation]]

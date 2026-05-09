@@ -134,12 +134,9 @@ phosphorus and nitrogen — for host trees while receiving photosynthetically de
 carbon. This mutualism contributes to forest productivity, tree health, and soil
 stability. The species also serves as a food source for small mammals and insects,
 and contributes to decomposition as fruiting bodies break down.
-
 ## See Also
 
-- [[russula-brevipes]]
 - [[russula-cyanoxantha]]
-- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
 - [[cantharellus-cibarius-entity]]
 

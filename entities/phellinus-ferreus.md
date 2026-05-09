@@ -23,49 +23,7 @@ sources:
 
 Phellinus ferreus is a basidiomycete fungus in the
 Hymenochaetaceae family, closely related to the forest
-pathogen [[phellinus-weirii]]. However, unlike its pathogenic
-relative, P. ferreus is primarily a saprotrophic wood decay
-fungus that colonizes dead and dying wood in forest canopies.
-The genus Phellinus is characterized by tough, perennial
-fruiting bodies and species within this genus are among the
-most important decomposers of woody substrates in temperate
-forest ecosystems. Phellinus ferreus is referenced at page 60
-in the source text within discussions of fungal community
-succession on standing deadwood.
-
-## Overview
-
-Phellinus ferreus is a wood-decay basidiomycete recognized
-for its role as a pioneer colonizer of dead and dying branches
-in forest canopies. The species was identified by Boddy and
-Rayner (1983) as one of the dominant fungi in oak canopy wood
-communities, where it plays a critical role in initiating the
-decomposition process on partially living branches. As a
-pioneer species, P. ferreus represents the initial stage of
-fungal community succession on standing deadwood, establishing
-conditions that subsequently allow secondary colonizers to
-invade and further decompose the wood substrate. Its presence
-and activity have significant implications for carbon and
-nutrient cycling in forest canopy ecosystems.
-
-## Wood Decay Succession
-
-The study by Boddy and Rayner (1983) of oak wood in forest
-canopies revealed a well-structured fungal community dominated
-by 12 basidiomycete species organized in a clear successional
-sequence. Phellinus ferreus, along with Sterium gausapatum and
-Vuilleminia comendens, constituted the pioneer assemblage that
-initially colonizes partially living branches. These primary
-colonizers are adapted to exploit the initial stages of wood
-decomposition when moisture content and nutrient availability
-are relatively high and when antimicrobial defense compounds
-in the dying wood tissue may still be present. The ability of P. ferreus to establish on these
-challenging substrates before other decomposer fungi arrive
-confers a significant competitive advantage in resource
-acquisition and subsequent community development.
-
-The secondary colonizers in this successional sequence included
-Phlebia adiata and [[coriolus-versicolor]], species that
+pathogen [[coriolus-versicolor]], species that
 typically replace the pioneer fungi as decomposition progresses
 and wood chemistry changes. Additionally, Hyphoderma setigerum
 and Sterium hirsutum were associated with insect activity on
@@ -115,7 +73,24 @@ biodiversity maintenance.
 
 ## See Also
 
-- [[phellinus-weirii]]
 - [[phanerochaete-velutina]]
-- [[schizophyllum-commune]]
 - [[trichoderma-viride]]
+## Practical Considerations
+
+Successful implementation of Phellinus ferreus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

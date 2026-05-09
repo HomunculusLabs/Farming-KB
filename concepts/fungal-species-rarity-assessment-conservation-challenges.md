@@ -86,33 +86,8 @@ represents a significant step toward formal fungal conservation.
 
 Multiple factors can contribute to rarity in fungal species:
 
-- **Host specificity**: Many ectomycorrhizal mycorrhizal-fungi|fungi are specific to
-  individual host genera, restricting their distribution to areas
-  where those hosts occur
-- **Dispersal limitation**: [[sequestrate-fungi]] depending on animals for
-  [[spore-dispersal]] may be confined to their region of origin for
-  extended periods
-- **Narrow habitat requirements**: Specialized microhabitat conditions
-  may limit species to small areas
-- **Habitat loss and degradation**: As habitats are destroyed, species
-  dependent on those habitats decline
-- **Collection pressure**: Over-harvesting of commercially valuable
-  species may reduce populations
-- **Pollution**: Air and water pollution can eliminate sensitive species
-  from affected areas
-
-## Conservation Strategies for Fungi
-
-Efforts for the preservation of fungi should be directed toward the
-conservation of habitats that are threatened with extinction,
-especially those with threatened animals or host plants. This habitat-
-based approach recognizes that:
-
-- Most fungi cannot be conserved as individuals but only as
-  populations within functioning ecosystems
-- Habitat protection automatically benefits the many fungal species
-  that depend on that habitat, including undescribed species
-- [[coprophilous-fungi]] with narrow host ranges are particularly
+- **Host specificity**: Many ectomycorrhizal [[sequestrate-fungi]] depending on animals for
+  [[coprophilous-fungi]] with narrow host ranges are particularly
   vulnerable; with every loss of habitat or host, the potential for
   loss or reduction in the mycobiota is high
 - Conservation of fungal diversity requires conservation of the

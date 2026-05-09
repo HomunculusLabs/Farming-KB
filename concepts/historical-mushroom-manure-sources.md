@@ -11,9 +11,7 @@ tags: [horse-manure, mushroom-compost, historical-agriculture, mule-manure, cell
 
 In the nineteenth century, there was no known substitute for horse manure as a basis for commercial mushroom production.
 
-[[william-falconer]], writing in 1891, stated this plainly: horse manure was the indispensable foundation of the mushroom grower's art.
-
-Wherever [[agaricus-campestris]] was cultivated on a large scale, fresh horse dung was the starting material.
+[[agaricus-campestris]] was cultivated on a large scale, fresh horse dung was the starting material.
 
 The quality of the manure directly determined the quality and quantity of the mushroom crop.
 
@@ -144,6 +142,5 @@ Field hay was also excellent.
 German peat moss was a comparatively new material in America, used in place of straw for bedding horses.
 ## See Also
 
-- [[mushroom-compost-preparation-historical]] — How manure was fermented and prepared
 - [[nineteenth-century-mushroom-cellars]] — Where mushroom beds were installed
 - [[mushroom-spawn-making-pure-culture]] — How spawn was introduced into prepared beds

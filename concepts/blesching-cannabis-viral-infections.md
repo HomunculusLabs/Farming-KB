@@ -133,13 +133,8 @@ abilities.
 
 ## Related Topics
 
-- [[blesching-cannabis-herpes-hsv]] - Specific coverage of HSV-1 and
-  HSV-2 cannabis research
 - [[blesching-cannabis-hepatitis]] - Cannabis for hepatitis A, B, and C
-- [[blesching-cannabis-hiv-aids]] - Cannabis in HIV/AIDS treatment
 - [[blesching-cannabis-encephalitis]] - Cannabis for viral encephalitis
-- [[blesching-cannabis-immune-system-modulation]] - How cannabis
-  modulates immune function
 - [[blesching-cannabis-fever-temperature-regulation]] - Fever as an
   antiviral immune response
 - [[blesching-endocannabinoid-system-overview]] - ECS role in antiviral

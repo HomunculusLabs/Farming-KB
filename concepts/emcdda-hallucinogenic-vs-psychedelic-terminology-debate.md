@@ -119,8 +119,6 @@ In the 21st century, the terminology landscape has evolved further. The renaissa
 
 ## See Also
 
-- [[emcdda-psilocybin-pharmacology-and-chemistry]]
 - [[psilocin-and-psilocybin-chemistry]]
-- [[psilocybin-compound-profile]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[hallucinogenic-mushroom-legal-status-europe]]

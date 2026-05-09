@@ -3,7 +3,7 @@ title: Mushroom Cultivation Basics — Spawn Biology and Natural Production (Pal
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mushroom-cultivation, grain-spawn, mycelium, species-guide]
+tags: [[mushroom-cultivation, grain-spawn, mycelium, species-guide]
 sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 ---
 
@@ -16,21 +16,6 @@ Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on mushroom cu
 ## Spawn — What It Is and How It Forms
 
 Palmer described spawn as "a white thread mass permeating manure" — the vegetative mycelium of the mushroom fungus growing through its nutrient medium. This is the same fundamental understanding used in modern [[agaricus-bisporus-cultivation-biology]].
-
-### Natural Spawn Formation
-Palmer observed that mushrooms appear naturally where horse manure is deposited, and explained this through a biological mechanism:
-
-1. **Spore ingestion**: Horses swallow mushroom spores while grazing in pastures and meadows
-2. **Intestinal passage**: Some change occurs to the spores during passage through the intestinal canal, or the conditions within the manure provide the right environment for germination
-3. **Mycelial growth**: The white thread-like mycelium develops through the manure
-4. **Fruiting**: Mushrooms appear 6 weeks after the spawn has permeated the manure
-
-### Street Sweepings Method
-Palmer noted that street sweepings (from horse-drawn vehicle era streets) spread on soil would produce mushrooms. This was a practical observation from the 19th century urban environment where horse manure was abundant on streets. The sweepings contained both spores and the organic substrate needed for mushroom growth.
-
-## The Six-Week Cycle
-
-Palmer established that approximately six weeks elapse between spawning (when the mycelium has fully colonized the manure) and the appearance of the mushroom crop. This timing remains roughly consistent with modern cultivation practices for [[agaricus-bisporus-cultivation-biology]].
 
 ## Agaricus Species for Cultivation
 
@@ -104,14 +89,8 @@ Casamajor wrote to Palmer: "In taking a ship around the world there are thousand
 
 ## Related
 
-- [[pf-tek-fruiting-chamber]] Pages
-
 - [[agaricus-bisporus-cultivation-biology]]
-- [[agaricus-species-guide]]
 - [[mushroom-foraging-safety]]
-- [[mushroom-foraging-traditions-europe]]
 - [[mushroom-toxicology-palmer-theory]]
-- [[faires-mushroom-growing-and-foraging]]
 - [[mushroom-spawn-making-detailed]]
-- [[mushroom-growing-reference]]
 - [[palmer-fungus-reproduction-spawn]]

@@ -3,7 +3,7 @@ title: Fungal Endophytes and Plant Fitness
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Endophytes and Plant Fitness
@@ -90,19 +90,7 @@ Dark septate endophytes (DSE) such as Phialocephala fortinii are widespread but 
 
 ## See Also
 
-- [[bark-xylotropic-endophytes-woody-tissue-colonization]]
-
 - [[endophytic-fungi]] for detailed endophyte biology
-- [[fungal-symbiosis-types]] for classification of symbiotic relationships
 - [[mycorrhizal-plant-signaling]] for endophyte signaling mechanisms
-- [[fungal-pathogens-ecosystems]] for the continuum between endophytism and pathogenicity
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[marine-fungal-diversity]]
-
-## Merged: Fungal Endophytes and Antiherbivore Defense
-Fungal endophytes that confer antiherbivore defense represent one of the most striking examples of how fungi can shape entire ecosystems through their interactions with host plants and herbivorous animals. These endophytic fungi, particularly members of the Clavicipitaceae (Ascomycota) associated with grasses, produce alkaloid compounds that deter insect herbivory, reduce grazing by ungulates, and decrease oviposition on host plants. [[fungal-endophyte-diversity-patterns]] [[endophytic-fungal-diversity]] fungal endophytes plant fitness [[fungal-enzymatic-capabilities]] [[fungal-secondary-metabolites-environment]] [[fungal-pathogens-ecosystems]] - Clay, K. - [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]
-## Merged: Fungal Diversity in Grasslands and Savannas
-Grasslands and savannas harbor distinct assemblages of soil fungi characterized by predictable indicator species. The fungal communities of these open habitats differ markedly from those of forests and reflect the unique conditions of grass-dominated ecosystems. [[fungal-biodiversity-grassland]] [[fungal-roles-grassland-ecosystems]] [[saprobic-soil-fungi]] In grasslands and agricultural soils, Acremonium, Arthrinium, Cladosporium, Drechslera, Fusarium, Idriella, Periconia species, Microdochium bolleyi, and Phoma eupyrena are frequently recovered. [[fungal-biodiversity-soil-seasonal]] [[fungal-biomonitoring]] The Wisconsin survey program provides one of the most comprehensive datasets on grassland fungal diversity. [[fungal-community-ecology]] [[fungal-biodiversity]] In prairie ecosystems, pyrenomycetes dominate the phoenicoid (fire-adapted) fungal community. Related: [[fungal-diversity-fire-ecology]], [[fungal-succession-patterns]], [[fungal-community-assembly]], [[fungal-biogeography]], [[endophytic-fungi-in-grasslands]]
+- [[fungal-endophyte-diversity-patterns]] [[fungal-enzymatic-capabilities]] [[fungal-pathogens-ecosystems]] - Clay, K. - [[fungal-biodiversity-grassland]] [[saprobic-soil-fungi]] In grasslands and agricultural soils, Acremonium, Arthrinium, Cladosporium, Drechslera, Fusarium, Idriella, Periconia species, Microdochium bolleyi, and Phoma eupyrena are frequently recovered. [[fungal-biomonitoring]] The Wisconsin survey program provides one of the most comprehensive datasets on grassland fungal diversity. [[fungal-biodiversity]] In [[fungal-diversity-fire-ecology]], [[fungal-community-assembly]], [[endophytic-fungi-in-grasslands]]

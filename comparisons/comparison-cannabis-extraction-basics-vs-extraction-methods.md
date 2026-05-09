@@ -29,45 +29,16 @@ from hand-rubbed charas to laboratory-grade solvent extraction procedures.
 
 ## Extraction Basics
 
-[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] extraction basics vs extraction methods
-
-Extraction basics provides a foundational overview of the principles [[natural-farming-guide-composting-methods-and-techniques]] used
+[[natural-farming-guide-composting-methods-and-techniques]] used
 to separate cannabinoids, terpenes, and other desirable compounds from cannabis plant
 material. The guide focuses primarily on modern commercial extraction systems, which rely
 on solvents to dissolve target compounds away from the plant matrix, followed by careful
 purification and solvent removal to produce clean, potent concentrates. The two most
 common solvent-based approaches in commercial settings are ethanol extraction and butane
-hash oil (BHO) extraction, each with distinct advantages, limitations, [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles
-that producers must understand before choosing a system.
-
-Ethanol extraction uses food-grade ethyl alcohol as a solvent, making it one of the safest
-and most scalable extraction methods available. Ethanol dissolves cannabinoids and terpenes
-effectively, producing full-spectrum extracts that retain the complete compound profile from
-the starting material. However, ethanol is relatively non-selective and also extracts
-chlorophyll, waxes, and lipids, which impart a bitter, grassy flavor. Removing these
-compounds requires winterization, where the crude oil is mixed with ethanol and frozen to
-precipitate waxes and lipids, followed by filtration. Despite this additional step, ethanol
-extraction remains popular for large-scale operations due to its food-grade safety profile
-and ability to process large volumes efficiently.
-
-Butane hash oil (BHO) extraction uses pressurized butane as a solvent to strip cannabinoids
-and terpenes from cannabis material. BHO extraction is prized for its excellent terpene
-preservation, producing concentrates with superior flavor and aroma compared to ethanol
-extracts. The method can produce a wide range of consistencies including shatter, wax,
-budder, and live resin depending on starting material and post-processing techniques. All
-modern BHO extraction must be performed in closed-loop equipment, which recycles the
-butane solvent in a sealed system rather than venting it into the atmosphere. This is both
-an environmental and safety requirement, as butane is highly flammable and improperly
-vented systems pose serious explosion risks. The equipment investment for closed-loop BHO
-systems is substantial, but the quality of the resulting concentrates justifies the cost
-for premium producers.
-
-## Extraction Methods
-
-[[cannabis-solvent-reflux-extraction-methods]]
+hash oil (BHO) extraction, each with distinct advantages, limitations, [[cannabis-solvent-reflux-extraction-methods]]
 
 Extraction methods provides a comprehensive survey of every major technique for separating
-[[cannabis-resin-production-and-quality-traits-clarke]] from plant material, spanning from ancient mechanical methods [[turner-brief-history-psychedelics-ancient-to-modern]]
+[[turner-brief-history-psychedelics-ancient-to-modern]]
 chemical processing. The mechanical methods covered include kief collection through dry
 sieving, hand-rubbed charas production from living plants, and ice water or bubble hash
 extraction using cold water agitation and micron-screen filters. These solventless
@@ -144,7 +115,5 @@ historical techniques.
 Many commercial operations use a hybrid approach drawing from both guides. A common workflow
 involves starting with extraction basics to select and set up a primary ethanol or BHO
 system, then consulting extraction methods for specific optimization techniques or
-
 ## See Also
-- [[cannabis-extraction-basics]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]

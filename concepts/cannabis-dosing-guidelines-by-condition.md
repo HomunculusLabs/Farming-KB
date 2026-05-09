@@ -92,11 +92,9 @@ Effective cannabis dosing is highly individualized. The Cannabis Health Index em
 - **Opioid-dependent**: Cannabis may allow opioid dose reduction; coordinate with prescribing physician
 - **Liver-impaired**: May require lower doses due to altered cannabinoid metabolism
 
-See also: [[cannabis-indoor-growing-basics]], [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-drug-interactions-and-contraindications]], [[cannabis-concentrates-and-extracts]]
+See also: [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-concentrates-and-extracts]]
 
 ## Related
 
-- [[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - [[cannabis-health-index-scoring-system]]
-- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 - [[fukuoka-vegetable-growing-natural-method]]

@@ -3,13 +3,7 @@ title: Shaderoom and Passive Cooling Design
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Shaderoom and Passive Cooling Design
-
-Climate-responsive design is a core principle of [[holzer-stone-cellar-construction]]. Different climates require different strategies for heating, cooling, and ventilation. The shaderoom concept provides passive cooling for hot climates, while attached greenhouses provide passive heating for cold climates.
+tags: [[holzer-stone-cellar-construction]]. Different climates require different strategies for heating, cooling, and ventilation. The shaderoom concept provides passive cooling for hot climates, while attached greenhouses provide passive heating for cold climates.
 
 ## The Shaderoom
 
@@ -108,17 +102,9 @@ Most affordable homes are energy-inefficient. Key improvements:
 
 ## Related Pages
 
-- [[faires-house-design-and-retrofit]]
 - [[faires-underground-and-earth-berm-homes]]
-- [[faires-growing-and-season-extension]]
 - [[faires-low-energy-cooking-methods]]
-- [[faires-underground-and-earth-berm-homes]]
-
-## Merged: Faires Grape Growing And Home Winemaking
-
-# Faires Grape Growing and Home Winemaking
-
-Grapes are one of the most versatile fruits in the [[faires-hugelkultur-and-forest-garden-strategy]] and permaculture landscape. They serve as food, beverage, and structural elements in the homestead design, providing edible fruit, wine, vinegar, raisins, juice, and seed extracts while functioning as trellised windbreaks and shade vines around the home.
+- [[faires-hugelkultur-and-forest-garden-strategy]] and permaculture landscape. They serve as food, beverage, and structural elements in the homestead design, providing edible fruit, wine, vinegar, raisins, juice, and seed extracts while functioning as trellised windbreaks and shade vines around the home.
 
 ## Grape Species and Selection
 

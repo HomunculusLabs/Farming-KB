@@ -101,13 +101,9 @@ Cannabis may support mind-body healing by reducing physiological hyperarousal, i
 
 ## See Also
 
-- [[cannabis-for-ptsd-and-trauma]]
 - [[cannabis-for-anxiety-disorders]]
-- [[cannabis-for-sleep-disorders]]
 - [[cannabis-for-depression]]
-- [[cannabis-for-mental-health]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-neuroprotection]]
 - [[cannabis-health-index]]
 
 ## Source

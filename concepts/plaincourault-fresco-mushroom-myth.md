@@ -3,7 +3,7 @@ title: The Plaincourault Fresco and Mushroom Myth
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
@@ -21,18 +21,7 @@ psychoactive properties.
 The Romanesque Chapel of Plaincourault, located in the Indre department of
 central France, contains a fresco depicting the Temptation in the Garden of Eden.
 In the fresco, a serpent is coiled around a large, distinctive tree-like form
-that bears a striking visual resemblance to the fly-agaric mushroom ([[amanita-muscaria]]).
-
-The tree-form in the fresco has a thick white trunk, a broad canopy, and appears
-to be dotted with white spots or markings against a reddish or brownish
-background. To viewers familiar with the fly-agaric, the resemblance is
-immediately striking.
-
-## Wasson's Initial Interest
-
-[[gordon-wasson]] initially entertained the possibility that the
-Plaincourault fresco depicted a mushroom. This aligned with his broader theories
-about the prevalence of [[teonanacatl-and-mesoamerican-mushroom-cults]] throughout human history and the survival
+that bears a striking visual resemblance to the fly-agaric mushroom ([[teonanacatl-and-mesoamerican-mushroom-cults]] throughout human history and the survival
 of mushroom knowledge in European religious art.
 
 Wasson had presaged Allegro in suggesting that the stories of
@@ -125,6 +114,5 @@ proof, and resemblance alone is not proof.
 
 ## See Also
 
-- [[minoan-mushroom-cult-and-myth-of-glaukos]]
 - [[medicinal-mushroom-dietary-supplements]]
 - [[telluride-mushroom-festival-modern-mycological-culture]]

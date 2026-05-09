@@ -1,19 +1,7 @@
 ---
 title: Psilocybe Tampanensis Cultivation
 created: 2026-04-28
-tags: [mycology, cultivation, psilocybe, tampanensis, sclerotia]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md
-type: concept
----
-# Psilocybe Tampanensis Cultivation
-
-*Psilocybe tampanensis* is a rare psychoactive mushroom species first
-collected near Tampa, Florida in 1977. It is renowned among cultivators
-for its ability to produce sclerotia, colloquially known as
-"philosopher's stones." This species, along with [[psilocybe-mexicana-cultivation]], is one of the primary sclerotia-producing
+tags: [[psilocybe-mexicana-cultivation]], is one of the primary sclerotia-producing
 species cultivated on [grass seed substrate. The source material provides specific cultivation data
 for *P. tampanensis*, particularly regarding sclerotia formation
 timelines and environmental requirements. See also
@@ -138,12 +126,8 @@ pinheads (aborts) should be removed promptly to prevent mold.
 
 ## See Also
 
-- [[psilocybe-tampanensis-entity]]
-
 - [[sclerotia-cultivation]]: Comprehensive sclerotia production guide
-- [[psilocybe-mexicana-cultivation]]: Related sclerotia-producing species
 - [[grass-seed-substrate-preparation]]: Substrate preparation
-- [[casing-layer-preparation]]: Casing soil recipe and application
 - [[fruiting-chamber-setup]]: Low-tech fruiting chamber design
 
 ]

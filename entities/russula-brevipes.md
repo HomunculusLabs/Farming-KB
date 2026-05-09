@@ -135,8 +135,6 @@ particularly in conifer-dominated food forests and agroforestry systems.
 
 ## See Also
 
-- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 - [[russula-cyanoxantha]]
-- [[russula-edible-species]]
 - [[russula-xerampelina]]
 - [[russula-virescens]]

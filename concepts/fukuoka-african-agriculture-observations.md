@@ -1,50 +1,8 @@
----
-title: "Fukuoka African Agriculture Observations"
-created: 2026-05-02
-updated: 2026-05-02
-type: concept
-tags: [natural-farming]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
----
-title: fukuoka african agriculture observations
-created: 2026-04-18
-updated: 2026-04-20
-type: concept
-tags: [fukuoka, natural-farming, philosophy]
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
----
 
 # Fukuoka African Agriculture Observations
 
-[[masanobu-fukuoka]] spent forty days in Africa, primarily in Somalia near
-Ethiopian refugee camps, where [[natural-farming]]al farming methods fdesert-revegetationvegetation. His observations form a sharp critique of both
-the causes of African [[desertification]] and the failure of conventional
-aid approaches.
-
-## The Landscape
-
-Flying over the Somali savanna, Fukuoka saw a splendid panorama of
-vast grassland dotted here and there with thorny bushes and the
-isolated round huts of nomads. Despite the arid appearance, he was
-surprised to find stream and river beds, with at least one live spring
-within any field of view. Two great rivers at least a thousand
-kilometers long flowed through the desert. The desert sand contained
-clay, which meant there was hope for revegetation.
-
-Fukuoka told the young people of Somalia: "This earth is young, that
-it is sleeping. The land must be awakened from its slumber with
-natural farming."
-
-## The Aid System Failure
-
-Fukuoka found that while food, clothing, and other articles were being
-offered to Africa from various quarters, no institution existed for
-providing direct agricultural guidance to farmers and peasants. His
-plan to bring seeds and seedlings was hindered by the Somali
-government, which was promoting cash crop plantations. His intention
+[[natural-farming]] al farming methods fdesert-revegetationvegetation. His observations form a sharp critique of both
+the causes of African [[cash-crop-guide]] plantations. His intention
 to teach for self sufficiency through natural farming was viewed as
 rebellion.
 
@@ -95,23 +53,7 @@ Despite the obstacles, Fukuoka achieved significant results:
 - Practically all vegetables germinated
 - After his return to Japan, large vegetables had grown, and little
   gardens appeared around huts
-- comparison pruning fruit (lemopersimmonmmons, pomegranates) grew especially
-  fast, reaching five meters in half a year
-- The Somali government eventually recognized the benefits of home
-  gardens
-- A proposal by the young Japanese volunteer was accepted at the
-  United Nations, starting a garden project in Somalia and Ethiopia
-  with over a million dollars in funds
-
-## Causes of Desertification
-
-Fukuoka identified both internal and external causes of African
-desertification:
-
-**Internal causes:** Nomadic peoples, no longer content with hunting
-and gathering, began raising large numbers of goats and cattle,
-reducing vegetation variety and triggering rapid disappearance of
-plant life. The goats and cattle consumed vegetation faster than it
+- [[plant-life-rhythms-pulsatory-growth]]. The goats and cattle consumed vegetation faster than it
 could regenerate, creating a negative cycle of bare ground, rising
 soil temperatures, and further vegetation loss.
 
@@ -127,7 +69,7 @@ periods essential for natural recovery of the land.
 ## The Clay in Desert Sand
 
 The discovery that Somali desert sand contained clay was significant
-for Fukuoka's methodology. Clay content meant that seed balls would
+for Fukuoka's methodology. Clay content meant that [[seed-balls-technique]] would
 work -- the clay pellets could protect seeds and hold moisture long
 enough for germination. This finding extended the applicability of
 his desert greening techniques beyond California to genuinely arid

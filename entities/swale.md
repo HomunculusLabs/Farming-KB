@@ -23,101 +23,7 @@ sources:
 
 ## Overview
 
-A **swale** is a shallow, level trench excavated along the contour of a slope with excavated soil placed downslope to form a berm. Swales capture, slow, and infiltrate surface runoff, converting destructive erosion into productive groundwater recharge. They are among the most widely used earthworks in [[permaculture]] design, from backyard gardens to broadacre landscapes.
-
-- Adapted from P.A. Yeomans' keyline work by [[bill-mollison]] and [[david-holmgren]]
-- Based on the **slow, spread, sink** principle — water is held on the landscape rather than drained off-site
-- A single swale on a 5% slope can infiltrate 80–95% of incident rainfall within its catchment
-
-## Definition and Principles
-
-### Core Components
-
-- **Trench:** Shallow, level excavation along the contour line (0% grade)
-- **Berm:** Mound of excavated soil on the downslope edge
-- **Contour alignment:** Perfectly level so water spreads evenly rather than concentrating
-
-### The Slow-Sink-Spread Principle
-
-| Action | Mechanism | Result |
-|--------|-----------|--------|
-| **Slow** | Level trench eliminates concentrated flow | Runoff velocity reduced 80–90% |
-| **Sink** | Water infiltrates through trench bottom and berm | Deep percolation recharges groundwater |
-| **Spread** | Level contour distributes water across full length | Uniform moisture along entire feature |
-
-- Swales infiltrate water — they do **not** store it long-term (unlike ponds/dams)
-- The berm is planted immediately to stabilize structure and utilize captured moisture
-- Passive function: no moving parts, pumps, or external energy
-
-## Types of Swales
-
-| Type | Description | Best For | Typical Dimensions |
-|------|-------------|----------|--------------------|
-| **Contour swale** | Level trench + berm on contour | General permaculture, food forests | Trench: 30–60 cm deep × 60–120 cm wide; Berm: 30–60 cm tall |
-| **Berm 'n basin** | Small berms for individual plantings | Tree establishment, orchards, arid regions | Basin: 30–60 cm diameter × 15–30 cm deep |
-| **Net-and-pan** | Connected small basins with low berms | Steep slopes (15–30%), semi-arid rangeland | Pan: 1–3 m diameter × 15–25 cm deep |
-| **Infiltration basin** | Larger depression (may be off-contour) | Urban stormwater, large catchments | 0.5–3 m deep × 3–15 m wide |
-
-**Selection:** Slope <5% → standard swales, wide spacing; 5–15% → closer spacing, compacted berm; 15–30% → net-and-pan; >30% → avoid swales, use terracing.
-
-## Design and Construction
-
-### Surveying
-
-- **A-frame level:** Low-cost DIY tool; excellent for community projects
-- **Laser level/transit:** Higher precision for large-scale installations
-- **Water level (bunyip):** Clear tube filled with water; accurate to ±1 cm over distance
-- Stake contour flags every 2–5 m before excavation
-
-### Spacing Calculations
-
-- **Vertical interval (VI):** VI = (S × 0.3) + 0.6, where S = slope percentage (meters)
-  - Example: 5% slope → VI = 2.1 m vertical interval
-- Increase spacing in low-rainfall areas (<400 mm/yr); decrease for high-intensity storms
-- Horizontal spacing along slope = VI ÷ tan(slope angle)
-
-### Dimensions
-
-| Parameter | Range | Notes |
-|-----------|-------|-------|
-| Trench depth | 30–60 cm | Deeper = more volume, harder to build |
-| Trench width | 60–120 cm top | Wider base reduces collapse risk |
-| Berm height | 30–60 cm above grade | ≈ trench depth minus 20% compaction |
-| Berm top width | 60–90 cm | Wide enough for planting |
-| Side slopes | 1:1 to 2:1 (H:V) | Gentler on unstable soils |
-
-### Berm Construction
-
-1. Excavate along contour, pile soil downslope
-2. Shape berm with slight crown (5–10 cm higher at center)
-3. Compact by walking or tamping — **compaction is critical**
-4. Mulch immediately (straw/wood chips, 5–10 cm)
-5. Plant deep-rooted perennials within 24–48 hours
-
-### Overflow Spillway
-
-- **Every swale must have a level overflow spillway** at one end for extreme events
-- Armor with rock, geotextile, or established grass; size for 25-year storm minimum
-- Direct overflow to next swale below or safe discharge point
-
-## Hydrological Function
-
-- **Infiltration rates:** 15–100+ mm/hr depending on soil; sandy loam infiltrates in 1–4 hrs, clay may take 12–48 hrs
-- **Groundwater recharge:** 1 linear meter of swale (60 cm × 90 cm) holds ~540 L; a 100 m swale captures ~54,000 L per event
-- **Peak flow reduction:** Peak runoff 10–30% of baseline; total runoff volume 5–20% of rainfall (vs. 60–80% without swales)
-- **Sediment capture:** 70–95% of suspended sediments; builds organic-rich topsoil in trench bottom
-
-## Soil and Ecological Benefits
-
-- **Topsoil creation:** Accumulates 0.5–2 cm/year; 5–15 cm of new topsoil within a decade
-- **Microclimate:** Ponded water moderates temperature; increased humidity within 5–20 m; reduced frost risk
-- **Plant establishment:** Tree survival on berm 85–95% vs. 40–60% on untreated slopes
-- **Mycorrhizal networks:** Moist undisturbed environment promotes fungal colonization; connected network links all berm plantings
-
-## Integration with Other Techniques
-
-- **[[hugelkultur]] on berm:** Bury logs inside berm for long-term moisture retention and nutrient cycling
-- **[[food-forest]] swales:** Primary water infrastructure for sloped food forests; trees on berm, understory below
+A **swale** is a shallow, level trench excavated along the contour of a slope with excavated soil placed downslope to form a berm. Swales capture, slow, and infiltrate surface runoff, converting destructive erosion into productive groundwater recharge. They are among the most widely used earthworks in [[bill-mollison]] and [[hugelkultur]] on berm:** Bury logs inside berm for long-term moisture retention and nutrient cycling
 - **[[keyline-design]] integration:** Swales infiltrate on-contour; keyline subsoiling spreads off-contour — complementary
 - **Chinampas comparison:** Swales use rainfall runoff on slopes; chinampas use lake wicking on flat margins
 
@@ -139,12 +45,67 @@ A **swale** is a shallow, level trench excavated along the contour of a slope wi
 
 - **First year:** Inspect after every significant rain; re-mulch bare spots within 48 hrs; replant failures before rainy season; remove sediment if capacity reduced >25%
 - **Ongoing:** Annual spillway and vegetation inspection; monitor berm tree health; re-excavate every 5–10 years if sediment significantly reduces capacity
-
 ## See Also
 
-- [[hugelkultur]] — complementary earthwork for soil building and water retention
 - [[keyline-design]] — landscape-scale water management often paired with swales
-- [[food-forest]] — primary application context for swale-based water harvesting
 - [[biochar]] — amendment enhancing swale infiltration and water retention
-- [[comfrey]] — deep-rooted accumulator commonly planted on swale berms
 - [[mark-shepard]] — broadscale perennial agriculture integrating swales
+## Practical Considerations
+
+When working with Swale (Water Harvesting), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

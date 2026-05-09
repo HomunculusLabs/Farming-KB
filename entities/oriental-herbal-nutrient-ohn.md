@@ -93,12 +93,7 @@ OHN should be stored in a cool, dark place in sealed glass containers. The alcoh
 
 ## See Also
 
-- [[knf-ohn-oriental-herbal-nutrient-recipe]]
 - [[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]
-- [[oriental-herbal-nutrient]]
 - [[cho-oriental-herbal-nutrient-preparation]]
-- [[bionutrients-lab-oriental-herbal-nutrients-ohn]]
-
 - [[fermented-plant-juice-fpj]] — complementary KNF input for vegetative growth
-- [[lactic-acid-bacteria-serum-labs]] — microbial input for soil and plant health
 - [[indigenous-microorganisms-imo]] — the foundational microbial input in KNF

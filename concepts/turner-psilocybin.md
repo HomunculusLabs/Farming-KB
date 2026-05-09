@@ -85,18 +85,9 @@ One user reported: "The most beautiful and refined interlocking patterns covered
 
 ### Other Combinations
 
-Psilocybin can also be combined with LSD, DMT, or Nitrous Oxide. See the [[psychedelic-combination-guide]] for more details.
-
-## See Also
-
-- [[turner-dmt]]
-- [[turner-lsd]]
+Psilocybin can also be combined with LSD, DMT, or Nitrous Oxide. See the [[turner-dmt]]
 - [[turner-5meo-dmt]]
-- [[psychedelic-combination-guide]]
 - [[psychedelic-safety-and-harm-reduction]]
-- [[turner-lsd]]
-- [[mushroom-cultivation-fundamentals]]
-- [[psilocybin-mushroom-distribution-worldwide]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[mao-inhibitors-and-psychedelics]]
-- [[psychedelic-spirituality-and-religion]]
 - [[mazatec-mushroom-culture-and-velada]]

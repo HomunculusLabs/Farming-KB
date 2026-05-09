@@ -1,7 +1,7 @@
 ---
 title: Dactylium Cobweb Mold and Mushroom Pathogens
 created: 2026-04-26
-tags: [mycology, mushroom-cultivation, contaminants, pathogens, stamets]
+tags: [[mycology, mushroom-cultivation, contaminants, pathogens, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -47,14 +47,7 @@ between trays or beds.
 -   Spray with a 5% solution of formaldehyde or a 2% solution of
     sodium hypochlorite (bleach).
 -   Lower room temperature to slow its growth rate.
--   Improve [[mushroom-cultivator-contamination-prevention]] in casing preparation.
-
-## Trichoderma Blotch (Green Mold Blotch)
-
-### Macroscopic Appearance
-
-Forest green mold that appears on mushroom caps and stems, usually
-following green mold contamination of the [[stamets-casing-layer-design]]. Affected mushrooms may be deformed or
+-   Improve [[stamets-casing-layer-design]]. Affected mushrooms may be deformed or
 discolored. On malt agar, colonies appear bright green with a woolly
 texture.
 
@@ -132,12 +125,8 @@ When a grey/white mold appears on mushrooms or casing:
 
 ## See Also
 
--   [[mushroom-contaminant-identification-key]] — identification
-    framework
 -   [[mushroom-cultivator-contaminants-identification]] — comprehensive
     contaminant profiles
--   [[mushroom-cultivator-contamination-prevention]] — prevention
-    strategies
 -   [[trichoderma-forest-green-mold-guide]] — detailed Trichoderma
     guide
 -   [[mushroom-growing-room-environmental-control]] — environmental

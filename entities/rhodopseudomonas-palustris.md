@@ -71,14 +71,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[korean-natural-farming]]
 - [[fermented-plant-juice]]
-- [[natural-farming]]
 - [[pseudomonas]]
 
 ## See Also
 
-- [[indigenous-microorganisms]]
 - [[azotobacter-chroococcum]]
 - [[lactobacillus-plantarum]]
 - cellulomonas uda

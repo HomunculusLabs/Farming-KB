@@ -127,8 +127,6 @@ These terms are used interchangeably in the literature, though each carries diff
 
 ## See Also
 
-- [[metzner-psycholytic-psychedelic-therapy-models]]
 - [[psychedelic-therapy-models-comparison]]
-- [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
 - [[psycholytic-and-psychedelic-therapy-models]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]

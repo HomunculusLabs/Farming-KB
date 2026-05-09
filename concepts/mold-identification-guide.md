@@ -7,16 +7,16 @@ tags: [fungi, mycology, health, biology, troubleshooting, species-profiles]
 sources: []
 ---
 
-# [[contamination-identification-prevention]] Identification Guide
+# Mold Identification Guide
 
-Molds are rapidly growing, fungal biosorption heavy that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, ingham coli compost, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
+Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
 
 ## Understanding Mold Growth
 
 ### Conditions for Growth
 Mold requires four things to grow:
 1. Moisture: the most critical factor; most molds need water activity (aw) above 0.65
-2. Food source: cellulose (wood, paper, drywall), mollison designers humus, dust
+2. Food source: cellulose (wood, paper, drywall), organic matter, dust
 3. Temperature: most molds grow between 4-38 C, with optimal range 20-30 C
 4. Oxygen: virtually all molds are aerobic
 
@@ -35,7 +35,7 @@ Mold requires four things to grow:
 
 ### Aspergillus
 
-One of the most important genera in indoor environments and the [[ascomycete-phylum-guide]] phylum.
+One of the most important genera in indoor environments and the [[ascomycete-phylum-guide|Ascomycete]] phylum.
 
 #### Common Indoor Species
 - A. niger: black spores, common on decaying vegetation, produces ochratoxin in some conditions
@@ -67,7 +67,7 @@ Closely related to Aspergillus, found in soil, decaying vegetation, and indoor e
 - Spores are smooth or rough-walled, globose, 2-5 um
 - Often produces a characteristic musty odor
 
-### [[stachybotrys-chartarum]] (Black Mold)
+### Stachybotrys chartarum (Black Mold)
 
 The most notorious indoor mold, often called "toxic black mold" in media.
 
@@ -123,13 +123,13 @@ Fast-growing green mold, often found on water-damaged building materials.
 
 - Bright green, rapidly spreading colonies
 - Some species are aggressive colonizers of other fungi
-- T. harzianum is used as a biocontrol agent against snow mold fungi
+- T. harzianum is used as a biocontrol agent against plant pathogens
 - Can cause opportunistic infections in immunocompromised individuals
 - Common in soil and on decaying wood
 
 ### Mucor and Rhizopus
 
-Zygomycete molds (see zygomycete phylum guide).
+Zygomycete molds (see [[zygomycete-phylum-guide]]).
 
 - Very fast-growing, cottony to gray-white colonies
 - Fill petri dishes quickly
@@ -145,3 +145,59 @@ Most common health effect of indoor mold exposure. Symptoms include:
 - Red, itchy, or watery eyes
 - Coughing, wheezing, throat irritation
 - Skin rash in sensitive individuals
+
+### Asthma Exacerbation
+Mold spores and fragments can trigger asthma attacks. Sensitization to specific mold species (Alternaria, Cladosporium, Aspergillus) is a risk factor for severe asthma.
+
+### Hypersensitivity Pneumonitis
+Rare but serious immune-mediated lung disease caused by repeated inhalation of organic particles including mold spores. Requires chronic exposure.
+
+### Mycotoxin Exposure
+Mold-produced secondary metabolites that can cause health effects. Routes of exposure include inhalation, ingestion, and skin contact. Key mycotoxins:
+- Aflatoxins (Aspergillus flavus, A. parasiticus): potent liver carcinogens
+- Ochratoxin A (Aspergillus, Penicillium): kidney damage
+- Trichothecenes (Stachybotrys, Fusarium): immunosuppressive
+- Patulin (Penicillium, Aspergillus): gastrointestinal toxicity
+
+### Opportunistic Infections
+Immunocompromised individuals are at risk for invasive fungal infections:
+- Aspergillosis (Aspergillus fumigatus): lung infection, can disseminate
+- Mucormycosis (Rhizopus, Mucor): aggressive tissue destruction
+- Fusariosis (Fusarium): skin and systemic infections
+
+## Mold Remediation
+
+### Assessment
+- Identify and fix the moisture source (leak, condensation, flooding)
+- Assess the extent of contamination (visible mold growth, water damage)
+- Professional inspection may be warranted for large areas (>10 sq ft)
+
+### Containment and Removal
+- Isolate the affected area with plastic sheeting
+- Use negative air pressure (HEPA-filtered air scrubber)
+- Wear appropriate PPE: N95 respirator, gloves, eye protection
+- Remove and dispose of porous materials with mold growth (drywall, carpet, ceiling tiles)
+- Clean non-porous surfaces with detergent solution
+- HEPA vacuum after cleaning
+
+### Prevention
+- Maintain indoor humidity below 60% (ideally 30-50%)
+- Ensure proper ventilation in bathrooms, kitchens, laundry areas
+- Fix plumbing leaks promptly
+- Use exhaust fans during and after showering
+- Ensure proper drainage away from building foundations
+- Clean and dry water damage within 24-48 hours
+- Use mold-resistant products in moisture-prone areas
+
+### When to Call a Professional
+- Mold area exceeds 10 square feet
+- Mold is in HVAC systems
+- Occupants have health concerns or compromised immune systems
+- Mold is associated with sewage or contaminated water
+- Structural damage is present
+
+## Related
+
+## See Also
+
+- [[psilocybin-mushroom-identification-field-guide]]

@@ -141,9 +141,6 @@ Peppers are moderate to heavy feeders:
 - **Sunscald**: Pale, papery patches on fruit exposed to direct sun after leaf loss. Provide adequate foliage cover or shade cloth
 ## See Also
 
-- [[query-how-to-grow-shiitake-mushrooms-on-logs]]
-- [[query-what-is-seed-viability-and-how-do-i-test-it]]
-- [[design-from-patterns-to-details]]
-
+- [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]

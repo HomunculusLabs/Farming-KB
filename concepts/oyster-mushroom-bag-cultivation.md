@@ -3,16 +3,7 @@ title: Oyster Mushroom Bag Cultivation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-Updated: 2026-04-18
-
-Source: Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (MushWorld, 2004) — Chapter 7, Kwon & Kim (MushWorld)
-
-Bag cultivation is the most commonly used method for [[cotter-oyster-mushroom-cultivation]] worldwide.
+tags: [[cotter-oyster-mushroom-cultivation]] worldwide.
 
 ## Advantages
 
@@ -83,13 +74,8 @@ Typical ratio: substrate to nitrogen supplement = 4:1.
 
 ## Related
 
-- [[jarrold-boil-a-bag-mushroom-cultivation-method]]
-
 - [[cotter-oyster-mushroom-cultivation]]
-- [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]
-- [[oyster-mushroom-short-log-cultivation]]
 - [[oyster-mushroom-spawn-production]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[tropical-mushroom-spawn-production-materials]]

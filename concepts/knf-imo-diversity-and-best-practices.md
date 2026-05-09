@@ -133,11 +133,7 @@ quality and yield year after year.
 
 ## See Also
 
-- [[knf-imo-processing-stages-and-utilization]]
-
 - [[knf-seed-diversity-and-conservation]]
-- [[natural-farming-guide-microclimate-management]]
 - [[chos-global-natural-farming-livestock-applications]]
-- [[natural-farming-guide-biological-pest-control-predators]]
 - [[coleman-compost-and-organic-fertility-management]]
 - [[jadam-making-organic-farming-inputs]]

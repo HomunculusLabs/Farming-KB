@@ -107,10 +107,7 @@ Hankyu Cho, who pioneered Natural Farming in Korea starting from his demonstrati
 
 ## See Also
 
-- [[natural-farming-methods-comparison]]
 - [[organic-farming-methods-comparison]]
-- [[cho-natural-farming-inputs-overview]]
 - [[conventional-vs-organic-vs-regenerative]]
-- [[chos-global-natural-farming-input-reduction-methods]]
 - [[biointensive-carbon-farming]]
 - [[accessible-mushroom-cultivation-for-disabilities]]

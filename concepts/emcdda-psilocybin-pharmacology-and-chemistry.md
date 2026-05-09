@@ -14,13 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybin-compound]] Pharmacology and Chemistry
-
-## Active Compounds
-
-The primary psychoactive compounds in hallucinogenic mushrooms are
-psilocybin and [[psilocin]]. Two further tryptamines, [[baeocystin]] and
-[[norbaeocystin]], could also be present but are thought to be less active
+# [[psilocin]]. Two further tryptamines, [[norbaeocystin]], could also be present but are thought to be less active
 than the former two.
 
 Psilocybin and psilocin are chemically classified as indolealkylamines
@@ -88,47 +82,9 @@ called "psychotomimetic" (resembling psychosis), "psychodysleptic"
 Mushroom potency depends on the species or variety used, their origin,
 growing conditions, and age. The most potent species (e.g. *Psilocybe
 semilanceata*) could contain up to 1% psilocybin, with some higher
-potency reported in specific species (e.g. *[[psilocybe-azurescens]]*,
-*[[psilocybe-bohemica]]*). In other species (*[[psilocybe-cubensis]]*),
-psilocybin and psilocin could be present in up to 0.6% concentration.
-
-These values are used for initial orientation only. Given that the
-psychoactive psilocybin doses are believed to be between 45 ug/kg body
-weight and 315 ug/kg body weight, various speculative calculations could
-be performed to define the number and/or weight of mushrooms needed to
-obtain desired recreational effects. However, it is difficult to
-transpose the maximum dose of the active substance into mushroom weight
-or number, as the concentration may vary. Furthermore, there is usually
-more than one active substance present.
-
-Short-term tolerance may develop rapidly to both physical and
-psychological effects, which means dosages may increase with repeated
-use over short periods.
-
-## Dependency Profile
-
-Psychological and physical dependency does not occur with mushrooms, and
-there are no withdrawal symptoms. This is consistent with the
-pharmacological profile of classical hallucinogens, which do not produce
-the patterns of compulsive use associated with drugs that act on the
-dopaminergic reward system.
-
-## Dose-Response Relationship
-
-The dose-response relationship for psilocybin is non-linear and highly
-individual. Factors influencing the response include body weight,
-individual sensitivity, previous experiences with hallucinogens, set and
-setting, and stomach contents at the time of ingestion. Higher doses
-produce more intense perceptual distortions, greater alterations in
-thought processes, and increased risk of adverse psychological reactions.
-
-## Related
-
-- [[emcdda-psilocybin-non-addictive-profile-tolerance]] Topics
+potency reported in specific species (e.g. *[[psilocybe-bohemica]]*). In other species (*[[psilocybin-pharmacology-and-serotonin-receptors]]
 
 - [[emcdda-psilocybin-mushroom-species-and-identification]] for species
   that contain these active compounds
-- [[emcdda-hallucinogenic-mushroom-dose-effects]] for dosing
-  information and subjective effects
 - [[emcdda-hallucinogenic-mushroom-health-risks]] for toxicity data
   and health consequences

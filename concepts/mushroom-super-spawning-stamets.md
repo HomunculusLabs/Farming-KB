@@ -1,7 +1,7 @@
 ---
 title: Super Spawning and Active Mycelium Techniques
 created: 2026-04-28
-tags: [mycology, spawn, bulk-substrate, inoculation, Stamets]
+tags: [[mycology, spawn, bulk-substrate, inoculation, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -126,10 +126,6 @@ only be used with well-established, vigorously colonized cultures.
 
 ## Related
 
-- [[stamets-antimicrobial-mushroom-charts]] Concepts
-
 - [[stamets-spawning-and-spawn-running]]
-- [[stamets-non-composted-substrates]]
 - [[stamets-outdoor-natural-culture-methods]]
-- [[mushroom-spawn-generation-limits]]
 - [[mushroom-delayed-release-supplements]]

@@ -41,34 +41,7 @@ Pigs are "blessed by nature with a plough in front and a compost spreader
 at the back." They can work any ground -- dry or wet, hard or soft, sandy or
 loamy. Their manure adds fertility. They leave the ground rough, creating
 diverse microclimates. After the first paddock is worked, move them to the
-next. See [[holzer-pig-keeping-paddock-system]] for details.
-
-## Step Two: First Plantings
-
-Once the ground is opened up, free of pests and enriched with pig manure:
-
-- Sow lettuces, radishes, herbs, potatoes, and grain.
-- First salads and radishes appear in 5-6 weeks.
-- Peas and beans follow.
-- The first harvest will be relatively small but improves with every cycle.
-
-## Step Three: Add Perennials
-
-While vegetables grow, plant berry bushes and fruit trees between them.
-Jerusalem artichokes are excellent -- good for humans and pigs alike. The
-first fruit harvest comes in two to three years. Total yield increases
-every year.
-
-## Step Four: The Beautiful Cycle
-
-As you finish harvesting from the first paddock, the pigs have finished
-cultivating the fourth and are ready to return to the first. They eat your
-leftovers and the cycle begins anew. The previously unproductive land has
-become a beautiful garden with great soil and full of biodiversity.
-
-## Assessing the Land First
-
-Before starting, read the land in its totality (see [[holzer-assessing-the-land]]):
+next. See [[holzer-assessing-the-land]]):
 - Size, orientation, slope, and microclimates.
 - Soil type (sandy, clay, humus), soil life (worms, woodlice).
 - Water situation: rainfall, wells, groundwater level, rainwater catchment.
@@ -85,8 +58,25 @@ the ground. Every gardener should have one.
 
 ## Related Topics
 
-- [[holzer-pig-keeping-paddock-system]]
 - [[holzer-raised-bed-design-principles]]
-- [[holzer-crater-gardens-hugelkultur]]
 - [[holzer-assessing-the-land]]
 - [[holzer-intercropping-by-height-suntraps]]
+## Practical Considerations
+
+Successful implementation of Holzer Self-Sufficiency Garden Plan - Creating a Garden from Scratch requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

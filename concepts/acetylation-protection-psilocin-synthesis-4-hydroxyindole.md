@@ -18,9 +18,7 @@ sources:
 type: concept
 ---
 
-# Acetylation Protection Strategy in Psilocin Synthesis from 4-Hydroxyindole
-
-## Overview
+# Acetylation Protection Strategy in [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] verview
 
 The concise large-scale synthesis of psilocin and psilocybin reported by Shirota, Hakamata, and Goda (2003) at Japan's National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on gram scale, yielding both target compounds in high purity without the need for column chromatography at any step.
 
@@ -28,7 +26,7 @@ The concise large-scale synthesis of psilocin and psilocybin reported by Shirota
 
 Previous syntheses of psilocin from 4-hydroxyindole had utilized **benzyl ether protection** of the 4-hydroxyl group (as reported by Nichols and Frescas). The Shirota team evaluated both approaches and selected acetylation for several reasons:
 
-1. **Single-step deprotection**: Acetyl groups can be removed during the final LiAlH4 reduction step, eliminating the need for a separate deprotection reaction. Benzyl protection requires a dedicated deprotection step (catalytic hydrogenolysis).
+1. **Single-step deprotection**: Acetyl groups can be removed during the final LiAlH4 reduction step, eliminating the need for a separate deprotection reaction. Benzyl protection requires a dedicated deprotection step ([[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]).
 2. **Crystalline intermediates**: The acetyl-protected intermediates (4-acetylindole and 3-dimethylaminooxalyl-4-acetylindole) formed as crystalline solids, enabling purification by filtration rather than chromatography.
 3. **Operational simplicity**: Acetylation uses readily available reagents (acetic anhydride, pyridine) under mild conditions, avoiding the handling complexities associated with benzyl protection reagents.
 4. **Stability**: The 4-O-benzyl derivative of 4-hydroxyindole was noted to be "somewhat unstable, without careful control of the reaction conditions," and could not be isolated in crystal form.
@@ -66,10 +64,7 @@ The psilocin produced by this route matched literature values:
 
 ### Forensic and Analytical Applications
 
-The primary motivation for this synthesis was the production of **standard reference compounds** for the identification of psilocybin-containing mushrooms. Following the June 6, 2002 regulation of these fungi under Japan's Narcotics and Psychotropic Control Law, there was an urgent need for:
-
-- **TLC standards**: Thin-layer chromatography identification using Ehrlich's reagent and UV visualization
-- **GC standards**: Gas chromatography reference compounds
+The primary motivation for this synthesis was the production of **standard reference compounds** for the identification of psilocybin-containing mushrooms. Following the June 6, 2002 [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]] rds**: Gas chromatography reference compounds
 - **HPLC standards**: High-performance liquid chromatography reference materials, particularly for reversed-phase methods
 
 Gram-scale production without chromatography made these standards accessible to forensic laboratories without specialized purification equipment.
@@ -97,10 +92,5 @@ The Shirota acetylation route achieved **87.5% yield for psilocin** and **87.5% 
 
 ## Relationship to the Psilocybin Synthesis
 
-The psilocin produced by this acetylation route served as the direct starting material for the phosphorylation step to produce psilocybin. The phosphorylation used the pyrophosphate method (tetrabenzylpyrophosphate with n-butyllithium), and the key innovation was the isolation of a **zwitterionic N,O-dibenzyl phosphate intermediate** (compound 8) that could be purified by simple filtration, avoiding the chromatographic purification that had limited previous syntheses.
-
-## See Also
-
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
+The psilocin produced by this acetylation route served as the direct starting material for the phosphorylation step to produce psilocybin. The phosphory [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
 - [[acetyl-protection-route-psilocin-psilocybin-synthesis]]

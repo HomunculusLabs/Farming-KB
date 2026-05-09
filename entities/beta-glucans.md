@@ -17,87 +17,17 @@ Beta-glucans (beta-D-glucans) are a heterogeneous group of polysaccharides compo
 Fungal beta-glucans are classified by their glycosidic linkage patterns:
 
 ### Beta-1,3-Glucans
-The most common form in mushrooms, consisting of a linear backbone of beta-1,3-linked D-glucose units. Examples include [[lentinan]] from [[lentinula-edodes]], [[schizophyllan]] from [[schizophyllum-commune]], and [[grifolan]] from [[grifola-frondosa]].
+The most common form in mushrooms, consisting of a linear backbone of beta-1,3-linked D-glucose units. Examples include [[lentinula-edodes]], [[schizophyllum-commune]], and [[grifola-frondosa]].
 
 ### Beta-1,3/1,6-Glucans
 Beta-1,3-glucans with beta-1,6-linked side chains. The branching pattern, frequency, and side chain length significantly affect biological activity. Most biologically active mushroom glucans fall into this category.
 
 ### Beta-1,4/1,3-Glucans
-Mixed-linkage glucans found in some fungal species. Polysaccharide-Krestin|PSK from [[trametes-versicolor]] is a beta-1,4-glucan with beta-1,3 and beta-1,6 branches complexed with protein.
-
-### Beta-1,6-Glucans
-Less common, primarily found in yeast cell walls as a branching component. Candida beta-1,6-glucan is a major antigen in fungal infections.
-
-## Conformation
-
-In aqueous solution, beta-1,3-glucans adopt a right-handed triple-helical conformation stabilized by interchain hydrogen bonds. This triple helix is essential for receptor recognition and biological activity. Conditions that disrupt the helical structure (alkaline pH, high temperature, DMSO) typically abolish immunomodulatory activity.
-
-Single-stranded random coil conformations show reduced but still measurable activity. The transition between conformations is concentration-dependent and reversible.
-
-## Receptors and Recognition
-
-### Dectin-1
-
-The primary beta-glucan receptor on immune cells. Dectin-1 (CLEC7A) is a C-type lectin receptor expressed on macrophages, dendritic cells, neutrophils, and some T cells. It recognizes beta-1,3 and beta-1,6 linked glucans, triggering Syk/CARD9-dependent signaling that leads to NF-kB activation and cytokine production.
-
-### Complement Receptor 3 (CR3)
-
-CR3 (CD11b/CD18, Mac-1) recognizes beta-glucans on opsonized particles. Beta-glucan binding to the lectin domain of CR3 primes the receptor for cytotoxic responses against iC3b-opsonized tumor cells. This mechanism underlies the anti-tumor activity of soluble [[lentinan]] and particulate [[pleuran]].
-
-### Lactosylceramide
-
-A glycosphingolipid receptor on macrophages and NK cells that binds beta-glucans and initiates signaling cascades leading to cytokine production and enhanced cytotoxicity.
-
-### TLR2 and TLR4
-
-Toll-like receptors synergize with Dectin-1 to enhance immune activation. TLR2/Dectin-1 co-stimulation produces synergistic TNF-alpha and IL-12 production.
-
-## Biological Activities
-
-### Immunomodulation
-
-Beta-glucans modulate both innate and adaptive immunity:
-- Activate macrophages: enhanced phagocytosis, ROS/RNS production, cytokine secretion
-- Stimulate NK cells: increased cytotoxicity and IFN-gamma production
-- Promote dendritic cell maturation: enhanced antigen presentation and T cell priming
-- Modulate T cell responses: promote Th1 polarization, enhance cytotoxic T lymphocyte activity
-- Activate complement system: alternative pathway activation
-
-### Anti-tumor Activity
-
-Beta-glucans demonstrate anti-tumor effects through immune-mediated mechanisms:
-- Direct macrophage-mediated tumor cytotoxicity
-- Enhanced NK cell tumor killing (CR3-dependent and independent)
-- Anti-angiogenic effects through VEGF inhibition
-- Promotion of tumor-specific T cell responses via dendritic cell cross-presentation
-- Synergistic effects with monoclonal antibody therapy (CR3-dependent cellular cytotoxicity)
-
-### Anti-infective Effects
-
-Beta-glucans enhance resistance to infections:
-- Trained immunity: beta-glucan exposure reprograms monocytes for enhanced innate immune responses lasting weeks to months
-- Enhanced bacterial clearance: increased phagocytosis and oxidative burst
-- Antiviral effects: enhanced IFN production and NK cell activity
-- Protection against fungal infections: paradoxically, beta-glucan immunization can protect against fungal pathogens
-
-### Wound Healing
-
-Beta-glucans promote wound healing through:
-- Macrophage activation and cytokine production
-- Fibroblast proliferation and collagen synthesis
-- Angiogenesis stimulation
-- Enhanced epithelialization
-
-## Major Fungal Beta-Glucans
-
-| Compound | Source | Linkage | Clinical Status |
-|---|---|---|---|
-| [[lentinan]] | [[lentinula-edodes]] | beta-1,3/1,6 | Approved (Japan) |
-| Polysaccharide-Krestin|PSK | [[trametes-versicolor]] | beta-1,4/1,3 | Approved (Japan) |
-| [[polysaccharide-peptide-psp]] | [[trametes-versicolor]] | beta-1,4/1,3 | Approved (China) |
-| [[schizophyllan]] | [[schizophyllum-commune]] | beta-1,3/1,6 | Approved (Japan) |
-| [[grifolan]] | [[grifola-frondosa]] | beta-1,3/1,6 | Supplement |
-| [[pleuran]] | [[pleurotus-ostreatus]] | beta-1,3/1,6 | Supplement |
+Mixed-linkage glucans found in some fungal species. Polysaccharide-Krestin|PSK from [[lentinan]] and particulate [[lentinan]] | [[trametes-versicolor-entity]] | beta-1,4/1,3 | Approved (Japan) |
+| [[trametes-versicolor-entity]] | beta-1,4/1,3 | Approved (China) |
+| [[schizophyllum-commune]] | beta-1,3/1,6 | Approved (Japan) |
+| [[grifola-frondosa]] | beta-1,3/1,6 | Supplement |
+| [[pleurotus-ostreatus]] | beta-1,3/1,6 | Supplement |
 
 ## Cereal vs. Fungal Beta-Glucans
 
@@ -133,8 +63,7 @@ This trained immunity effect has significant implications for vaccine adjuvant d
 
 Effective doses vary by route of administration and specific compound:
 - Oral: 100-500 mg/day for most mushroom beta-glucan supplements
-- Intravenous: 1-10 mg/kg for clinical [[lentinan]] (Japan)
-- Subcutaneous: 20-40 mg for [[schizophyllan]] (Japan)
+- Intravenous: 1-10 mg/kg for clinical [[schizophyllan]] (Japan)
 - Oral: 3 g/day for Polysaccharide-Krestin|PSK (Japan)
 
 Timing relative to meals affects absorption; empty stomach administration generally produces higher peak plasma levels. Chronic daily administration is more effective than intermittent dosing for maintaining trained immunity effects.
@@ -142,7 +71,24 @@ Timing relative to meals affects absorption; empty stomach administration genera
 ## See Also
 
 - medicinal-mushrooms
-- [[lentinan]]
 - [[psk-polysaccharide-krestin]]
-- [[grifolan]]
 - [[pleuran]]
+## Practical Considerations
+
+Successful implementation of Beta-Glucans requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

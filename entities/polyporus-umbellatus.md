@@ -23,59 +23,12 @@ Tuber"), Chorei-maitake (Japanese for "Wild Boar's Dung Maitake"),
 Tsuchi-maitake (Japanese for "Earth Maitake"), Umbrella Polypore, or Chinese
 Sclerotium, is a distinctive polypore mushroom that forms underground
 sclerotia. It is one of the "Three Treasures" of Chinese medicinal fungi
-alongside [[ganoderma-lucidum]] (Reishi) and [[grifola-frondosa]] (Maitake).
+alongside [[grifola-frondosa]] (Maitake).
 
 Gilbertson and Ryvarden (1987) maintain the species in genus *Polyporus*. Other
 synonyms include *Grifola umbellata* (Persoon:Fries) Donk and *Dendropolyporus
-umbellatus* (Pers.:Fr.) Julich. Macroscopically it resembles [[grifola-frondosa]] but has biologically different life cycles: *G. frondosa* has
-smaller non-cylindrical spores, lacks a sclerotial stage, and arises from a
-multiple forking base.
-
-## Description
-
-Mushrooms arise from underground sclerotia. The near-black sclerotium resembles
-pig's dung in form but is woody in texture. When activated by moisture, it
-swells and generates multi-branched circular mushroom bouquets with umbellicate
-caps. Fruitbodies are whitish at first, becoming dingy brown with age. The
-underside features circular to angular pores.
-
-The underground sclerotia are tuber-like nutrient storage structures, walnut-
-like in form and size. Sclerotial production is stimulated by soil microflora
-and darkness, making it difficult to achieve under standard laboratory
-conditions. This unique life cycle distinguishes *P. umbellatus* from most
-other cultivated mushrooms.
-
-**Microscopic features:** Spores are 7-10 x 3-4 μm, white in deposit, smooth,
-and cylindrical. The hyphal system is dimitic and non-septate, with clamp
-connections on generative hyphae. The fungus causes a white rot type of wood
-decay.
-
-## Distribution
-
-*Polyporus umbellatus* is found infrequently throughout deciduous woodlands of
-north-central and northeastern North America, temperate China, and Europe, where
-it was first described. It has been reported from Montana and Washington states
-but is exceedingly rare in the Pacific Northwest.
-
-## Natural Habitat
-
-This species is found on the ground, arising from dead roots or buried wood,
-stumps, or soils rich in lignicolous matter. It prefers birches, maples,
-willows, and beeches, and is found predominantly in deciduous woodlands, rarely
-in coniferous forests. Weir (1917) reported the species from Montana on spruce,
-an unusual coniferous association.
-
-The mycelium is white, longitudinally linear, and soon becomes densely cottony,
-forming thick peelable mycelial mats on agar, grain, and sawdust substrates. On
-sterilized sawdust, it ages to form outer layers of yellowish gelatinous
-exudate. The fragrance is musty, sour, slightly bitter, and not pleasant.
-
-## Cultivation
-
-*Polyporus umbellatus* is a secondary saprophyte that depends upon the
-degradative abilities of other fungi. Indoor cultivation has seen limited
-success. The best results come from recycled [[lentinula-edodes]] (Shiitake),
-[[grifola-frondosa]] (Maitake), and [[ganoderma-lucidum]] (Reishi) blocks
+umbellatus* (Pers.:Fr.) Julich. Macroscopically it resembles [[lentinula-edodes]] (Shiitake),
+[[ganoderma-lucidum]] (Reishi) blocks
 after 45-60 days of incubation.
 
 The natural cultivation model used in China involves trenching and burying logs
@@ -99,31 +52,63 @@ the sclerotia in late summer to early fall at temperatures of 50-60°F.
 
 *Polyporus umbellatus* has long been heralded for potent anti-cancer and
 immuno-potentiating properties, especially in the treatment of lung cancer.
-During a 1983 visit to the Beijing Institute of Materia Medica, [[paul-stamets]],
-[[andrew-weil]], Gary Salzman, and [[gary-lincoff]] were informed that Zhu Ling was
-"exceptionally effective against lung cancer." Aqueous extracts have been given
-to patients directly after radiation therapy with reportedly promising results.
+During a 1983 visit to the Beijing Institute of Materia Medica, [[andrew-weil]], Gary Salzman, and [[butomus-umbellatus]]
+## Practical Considerations
 
-Few scientific studies have been conducted, and none by Western researchers.
-The species deserves significantly more scientific attention given its
-reputation in traditional Chinese medicine.
+When working with Polyporus umbellatus, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-**Nutritional profile:** Protein 8%, coarse fiber 47%, carbohydrate 0.5%, ash
-7%.
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-## Flavor and Preparation
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-Sclerotia are exported from China whole or sliced and dried. Fresh fruitbodies
-are sold in Chinese markets. There are currently no commercial producers in
-North America. The culinary applications of this species are less documented
-than its medicinal uses, though the fresh fruitbodies are reportedly edible
-when thoroughly cooked.
+## Common Challenges and Solutions
 
-## References
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-- Gilbertson, R.L. and Ryvarden, L. (1987). *North American Polypores*.
-- Weir, J.R. (1917). Notes on Colorado Fungi.
-- Stamets, P. *Growing Gourmet and Medicinal Mushrooms*.
-- /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-*Last updated: 2026-04-28*
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -139,12 +139,8 @@ The drug war affects transportation -- cocaine traffickers regularly close the o
 Remote retreat centers require river travel, basic accommodations, and tolerance for developing-world conditions.
 
 These infrastructure limitations both protect the authenticity of the experience and constrain the scale of tourism operations.
-
 ## See Also
 
-- [[brazilian-ayahuasca-churches]]
-
 - [[ayahuasca-tourism-ethics]] — ethical considerations in ayahuasca tourism and commodification
-- [[ayahuasca-tourism-practitioners-and-safety-considerations]] — guidance on evaluating ayahuasca practitioners and ensuring participant safety
 - [[ayahuasca-tourism-western-seekers-and-integration]] — how Western seekers approach ayahuasca and integrate experiences
 - [[psychedelic-spirituality-and-religion]] — broader context of ayahuasca within psychedelic spiritual traditions

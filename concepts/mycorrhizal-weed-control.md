@@ -3,17 +3,7 @@ title: Mycorrhizal Weed Control
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources: []
----
-
-Updated: 2026-04-18
-
-## Overview
-
-Research into arbuscular mycorrhizal fungi has revealed an unexpected benefit for agriculture and gardening: certain mycorrhizal fungi can suppress weed populations by exploiting the fundamental difference between mycorrhizal and non-mycorrhizal plants. This biological approach to weed management offers an alternative to chemical herbicides.
-
-Source: [[teaming-with-microbes-fungi]]
+tags: [[teaming-with-microbes-fungi]]
 
 ***
 
@@ -112,12 +102,8 @@ These chemicals can prevent the formation or propagation of arbuscular mycorrhiz
 
 ## Related Topics
 
-- [[mycorrhizal-fungi-basics-lowenfels]] — Fundamentals of mycorrhizal biology
 - [[mycorrhizal-fertilizer-reduction]]
 - Crop rotation planning with mycorrhizae
-- [[agricultural-chemicals-mycorrhizal-impact]]
 - [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
-- [[agricultural-chemicals-mycorrhizal-impact]]
 - [[symbiotic-fungi-mycorrhizal-types-and-classification]]
-- [[teaming-with-microbes-plant-control]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

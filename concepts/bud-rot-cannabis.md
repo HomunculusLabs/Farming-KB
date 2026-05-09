@@ -123,11 +123,7 @@ When Botrytis symptoms appear:
 
 ## See Also
 
-- [[powdery-mildew-cannabis]] — common concurrent fungal disease
 - [[cannabis-root-rot-prevention-and-treatment]] — another fungal disease affecting cannabis
-- [[cannabis-pest-management-guide]] — comprehensive prevention
 - [[humidity-cannabis-growing]] — environmental control
-- [[cannabis-disease-guide]] — broader disease reference
 - [[gaias-garden-cover-crops-soil-building]]
-- [[jadam-cover-crop-soil-temperature-management]]
 - [[hamilton-pest-and-disease-control-organic]]

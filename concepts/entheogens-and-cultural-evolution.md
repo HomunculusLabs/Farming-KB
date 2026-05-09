@@ -101,15 +101,9 @@ anthropology, neuroscience, and the humanities.
 
 ## See Also
 
-- [[terence-mckenna]]
-
 - [[stoned-ape-hypothesis]]
 
-- [[cultural-evolution-and-psychoactive-substances]]
 - [[gaias-garden-lawn-ecology-and-cultural-critique]]
-- [[truffle-evolution-and-hypogeous-fungi]]
-
 - [[terence-mckenna]]
-- [[gaian-psychotherapy-and-entheogenic-plants]]
 - [[psychedelic-therapy-mechanisms]]
 - [[munn-mazatec-mushroom-oracular-cure]]

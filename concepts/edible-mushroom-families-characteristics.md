@@ -1,19 +1,7 @@
 ---
 title: Edible Mushroom Families and Their Characteristics
 created: 2026-04-28
-tags: [mycology, foraging, edible-fungi, agarics, boleti, puffballs]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md
-type: concept
----
-
-# Edible Mushroom Families and Their Characteristics
-
-## Overview
-
-Julius A. Palmer Jr. identified four grand divisions of large, fleshy fungi based on the nature of their spore-bearing surface, and provided detailed guidance on the edibility and identification of each. His classification, while limited to macroscopic fungi within his personal experience, represented the first practical American guide to edible mushroom identification.
+tags: [[mushroom-identification]].
 
 ## The Four Grand Divisions
 
@@ -65,22 +53,7 @@ The critical distinction is between Boleti (ground-growing, with distinct stems 
 - Color change to red or blue when bruised or cut (though this alone does not indicate poison unless accompanied by bitterness)
 
 ### Notable Edible Species
-- [[boletus-edulis-entity]] — the famous "Cep" of European cuisine, imported canned as "Cepes a l'huile"
-- Boletus sub-tomentosus — the olive-red boletus, one of Palmer's favorites, though dangerous when waterlogged
-- Boletus aestivalis — delicious but susceptible to absorbing environmental odors
-
-### The Fermentation Hazard
-When heavily charged with water, the spongy substance of Boleti can enter "acidulous fermentation." A waterlogged Boletus sub-tomentosus showed brilliant blue on pressing and caused severe purging in three simultaneous cases. Lesson: eat only young specimens with substance "too solid to admit of fermentation."
-
-## Hydnei (Tooth Fungi)
-
-### Safety Profile
-The teeth-bearing toadstools are "also safe fungi for the experiments of the amateur." Worthington G. Smith stated that all species of any size "enjoy a good character."
-
-### Identification
-- Under the cap: small points or spines instead of gills or pores
-- In young specimens, the teeth/spines easily rub off
-- The [[hydnum-repandum]] (spreading hydnum) is the most common edible species
+- [[hydnum-repandum]] (spreading hydnum) is the most common edible species
 
 ### Characteristics of Hydnum repandum
 - Usually yellow, sometimes reddish
@@ -146,5 +119,3 @@ Palmer's rule: "If they are perfectly dry, taste a small piece. If it is not an 
 - Palmer always tasted a small piece of stem from each specimen while washing, even with familiar species
 
 ## Clavaria (Coral Fungi)
-
-Club-shaped or coral-like fungi growing in forests, described by Palmer as "more delicate food than cauliflower, nicer in soup or stew than vermicelli." They have little branches dividing from a common base, grow from a few inches to two feet, and must be eaten young before becoming infested with maggots. Cut off just below the top and gathered perfectly clean.

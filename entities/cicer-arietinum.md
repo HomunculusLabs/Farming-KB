@@ -128,13 +128,8 @@ through its leaf litter and root residues.
 
 ## See Also
 
-- [[pisum-sativum]] — pea, cool-season legume comparison
 - [[vicia-faba]] — fava bean, related cool-season grain legume
-- [[glycine-max]] — soybean, major warm-season legume
 - [[vigna-radiata]] — mung bean, warm-season pulse crop
-- [[medicago-sativa]] — alfalfa, perennial nitrogen-fixing forage
 - [[trifolium-repens]] — white clover, living mulch and nitrogen fixer
-- [[trigonella-foenum-graecum]] — fenugreek, medicinal legume
 - [[canavalia-ensiformis]] — jack bean, tropical cover crop legume
-- [[pachyrhizus-erosus]] — jicama, tuberous legume root crop
 - [[companion-planting]] — intercropping strategies and principles

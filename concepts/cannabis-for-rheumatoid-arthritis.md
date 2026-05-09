@@ -10,7 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis and cannabinoids show significant promise for managing rheumatoid arthritis (RA) pain and inflammation through [[cannabis-endocannabinoid-system]] immune modulation. The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] assigns a CHI value of 10 from 3 studies reviewed.
+Cannabis and cannabinoids show significant promise for managing rheumatoid arthritis (RA) pain and inflammation through [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] assigns a CHI value of 10 from 3 studies reviewed.
 
 ## Understanding Rheumatoid Arthritis
 
@@ -76,16 +76,10 @@ Aggravating factors: poor communication of hurt feelings, suppressed anger, depe
 
 ## See Also
 
-- [[blesching-cannabis-rheumatoid-arthritis]]
-
 - [[cannabis-arthritis-research]]
 
-- [[cannabis-and-arthritis]]
-
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-immune-modulation]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-for-chronic-pain]]
 
 These findings contribute to the growing body of evidence supporting

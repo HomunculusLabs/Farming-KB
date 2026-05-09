@@ -28,29 +28,6 @@ Rain gardens and constructed wetlands both use vegetation and soil to
     load, available land, and treatment objectives.
 
 ## Rain Garden
-[[rain-garden-design]]
-
-A rain garden is a shallow, planted depression designed to capture,
-    absorb, and filter stormwater runoff from impervious surfaces. Sized at
-    five to ten percent of the contributing drainage area with a four to eight
-    inch ponding depth, a properly designed rain garden drains within 24 to 48
-    hours and captures approximately 90 percent of runoff from typical rain
-    events. The system filters 80 to 90 percent of sediments and 50 to 80
-    percent of nutrients through physical filtration, biological treatment by
-    soil microbes, and chemical adsorption.
-
-Construction involves excavating to a flat bottom, amending soil with a
-    mix of 60 percent native soil, 20 percent sand, and 20 percent compost,
-    building a berm on the downslope side, and planting native species in
-    three hydrologic zones. The center zone handles the wettest conditions
-    with species like iris and milkweed, the middle zone features seasonally
-    moist plants like coneflower and switchgrass, and the outer zone uses
-    drought-tolerant species like yarrow and prairie dropseed. Maintenance is
-    intensive during the first two years (watering, weeding) but minimal
-    thereafter, requiring only periodic weeding and mulch replenishment every
-    two to three years.
-
-## Constructed Wetland
 [[constructed-wetland-design]]
 
 A constructed wetland is an engineered system using wetland vegetation,
@@ -126,11 +103,7 @@ The two systems work together in integrated stormwater treatment
 
 ## See Also
 
-- [[comparison-rain-garden-vs-bioswale]]
-
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 
-- [[comparison-greywater-vs-constructed-wetland]]
 - [[constructed-wetlands-wastewater-treatment]]
-- [[comparison-rain-garden-vs-swale]]
 - [[comparison-in-situ-vs-ex-situ-bioremediation]]

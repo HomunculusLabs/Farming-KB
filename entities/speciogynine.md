@@ -103,13 +103,8 @@ control as of 2026.
 
 ## See Also
 
-- [[mitragyna-speciosa]]
 - [[mitragynine]]
-- [[7-hydroxymitragynine]]
 - [[berberine]]
-- [[mahonia-aquifolium]]
 - [[coptis-chinensis]]
-- [[hydrastis-canadensis]]
 - [[sanguinaria-canadensis]]
-- [[panax-ginseng]]
 - [[astragalus-membranaceus]]

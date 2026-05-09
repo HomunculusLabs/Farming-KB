@@ -117,11 +117,6 @@ The most effective and available predators for aphids:
 
 ## See Also
 
-- [[spider-mites-cannabis]] — most common indoor cannabis pest
-- whiteflies-cannabis|Whiteflies — another sap-sucking pest that produces honeydew
-- thrips-cannabis|Thrips — small pest with similar feeding damage
 - [[cannabis-pest-management-guide]] — comprehensive IPM overview
-- [[gaias-garden-host-plants-beneficial-insects]] — lacewings, ladybugs, and parasitic wasps
 - [[cannabis-disease-guide]] — aphids as disease vectors
-- [[cannabis-male-plant-identification]]
 - [[knf-pest-control-and-soap-water]]

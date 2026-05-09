@@ -140,10 +140,8 @@ removed under vacuum and the residue was dissolved in 30 mL benzyl
 alcohol. This solution was heated on the steam bath overnight.
 Removal of the excess benzyl alcohol under vacuum left a residue 13.5
 g of
-1-(N-(benzyloxycarbonyl)amino)-1,1-dimethyl-2-(3,4-methylenedioxyphenyl)ethane
-as an amber oil. The dimethyl group showed, in the NMR, a sharp
 ## See Also
+
 - [[qualitative-comments-methodology-pihkal]]
-- [[ethyl-j-entity-pihkal]]
 - [[ethyl-k-entity-pihkal]]
 - [[mdpea-entity-pihkal]]

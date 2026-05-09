@@ -75,11 +75,7 @@ The three-dimensional structure of raised beds provides significantly more culti
 
 ## See Also
 
-- [[raised-bed-gardening]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
-- [[composting-humus-building-holzer]]
+- [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[gaias-garden-cover-crops-soil-building]]

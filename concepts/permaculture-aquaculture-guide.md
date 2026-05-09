@@ -93,6 +93,6 @@ Edge plantings are critical -- the transition zone between water and land suppor
 ## See Also
 
 - [[rainwater-harvesting-systems]]
-- [[permaculture-design]]
+- [[permaculture-design-methods]]
 - [[permaculture-site-analysis]]
 - [[homestead-water-systems]]

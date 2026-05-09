@@ -91,11 +91,6 @@ Where:
 - **Temporal duration** vs. logistical feasibility
 - **Taxonomic resolution** (morphospecies vs. molecular identification) vs. available expertise
 
-Integration with [[fungal-sampling-methods]] for microfungi and molecular approaches can help address some of these constraints by capturing diversity that is invisible to sporocarp-based surveys.
-
-## Integration with Ecological Studies
-
-Macrofungal sampling is most valuable when linked to specific ecological questions. Studies of [[fungal-succession-in-decomposition]] benefit from timed sampling of woody substrates, while surveys targeting [[ectomycorrhizal-ecology]] require correlation with host tree species and soil conditions. In tropical systems, [[fungal-biodiversity-tropical-ecosystems]] surveys face particular challenges due to hyperdiversity, poorly known taxa, and limited fruiting windows.
-- [[fungal-species-estimation-methods-total-diversity]]
+Integration with [[fungal-succession-in-decomposition]] benefit from timed sampling of woody substrates, while surveys targeting [[fungal-biodiversity-tropical-ecosystems]] surveys face particular challenges due to hyperdiversity, poorly known taxa, and limited fruiting windows.
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[lichen-biodiversity-sampling-protocols-data-analysis]]

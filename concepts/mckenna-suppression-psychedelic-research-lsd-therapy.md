@@ -125,10 +125,7 @@ during the decades when clinical research was impossible.
 
 ## See Also
 
-- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
-
 - [[mckenna-discovery-and-impact-of-lsd]] - the discovery of LSD
-- [[mckenna-invention-of-lsd-and-psychedelic-sixties]] - LSD and the 1960s
 - [[mckenna-drugs-governments-and-intelligence-agencies]] - government involvement
-- [[mckenna-legalization-debate-and-archaic-revival]] - legalization arguments
+- mckenna-legalization-debate-and-archaic-revival - legalization arguments
 - [[mckenna-food-gods-leary-harvard-psilocybin-project]] - Leary at Harvard

@@ -7,7 +7,7 @@ tags: [gardening, permaculture]
 sources: []
 ---
 ---
-title: "[[chinampas]] vs [[raised-bed-gardening]]"
+title: "[[raised-bed-gardening]]"
 tags: [comparison, growing-methods, intensive-gardening, water-management, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
@@ -26,32 +26,6 @@ developed, while raised beds are the most accessible intensive gardening method 
 growers.
 
 ## Chinampas
-[[chinampas]]
-Chinampas are artificial agricultural islands built in shallow water (6-36 inches deep) by
-layering mud, lake sediment, and decaying vegetation between retaining walls of woven willow
-stakes. Developed by the Aztecs in the Valley of Mexico around the 14th century, they are often
-called "floating gardens" (though they are actually rooted to the lake bed). The surrounding
-water provides constant moisture through capillary action, thermal moderation that extends the
-growing season and provides frost protection, and integrated aquaculture opportunities (fish in
-canals fertilize the islands while plant roots filter the water).
-
-Chinampas achieve extraordinary productivity — 2-4 times that of terrestrial gardens, with
-traditional systems supporting up to 7 harvests per year. The continuous dredging of
-nutrient-rich canal muck replenishes fertility indefinitely, creating a self-sustaining system
-that builds carbon-rich soils over centuries. The water buffer eliminates irrigation needs
-entirely and moderates temperature extremes, extending growing seasons significantly. Modern
-adaptations include pond-edge extensions, container chinampas (essentially wicking beds), and
-raft culture systems that make the concept accessible beyond lake beds.
-
-The limitations are primarily site-dependent: chinampas require a water source (pond, wetland, or
-constructed basin), making them impractical for most standard residential lots without existing
-water features. Construction is labor-intensive, requiring significant earth-moving and careful
-water level management. Crop selection is limited — deep-rooted vegetables, potatoes, and very
-heavy plants are unsuitable. Mosquito habitat can be a concern if water is stagnant. The
-traditional system is best suited to temperate or tropical climates where year-round growing is
-possible.
-
-## Raised Bed Gardening
 [[raised-bed-gardening]]
 Raised beds elevate the growing surface in framed structures typically 4 feet wide (reachable
 from both sides), any length, and 6-24 inches tall. They are filled with custom soil mixes —
@@ -120,16 +94,6 @@ infrastructure.
 ## Hybrid Approaches
 Wicking beds are essentially a chinampa concept adapted to dry-land gardening — a contained bed
 with a water reservoir below the soil that wicks moisture upward. Raised beds built adjacent to
-ponds can incorporate capillary wicking from the water body. [[hugelkultur]] raised beds (built over
-buried wood) combine the elevated growing surface of raised beds with the long-term soil
-building and moisture retention of woody decomposition. Aquaponic grow beds bring chinampa-style
-aquaculture integration to raised bed systems using pumped water circulation. These hybrid
-systems capture the water efficiency of chinampas while maintaining the accessibility and
-flexibility of raised bed gardening.
-
-## See Also
-- [[wicking-bed-construction]]
-- [[square-foot-gardening]]
+ponds can incorporate capillary wicking from the water body. [[wicking-bed-construction]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]
-- [[pond-design-and-construction]]
 - [[chinampas]]

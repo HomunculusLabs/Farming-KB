@@ -37,33 +37,7 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 - **Family:** Amanitaceae
 - **Genus:** Amanita
 - **Species:** *A. phalloides* (Vaill. ex Fr.) Link
-- **Synonyms:** *Agaricus phalloides* Vaill. ex Fr., *Amanita virosa* sensu auct. (partially)
-- **Etymology:** Greek *phalloides* means "phallus-shaped," referring to the volva-covered young fruiting body.
-- **Common names:** Death cap, death angel (shared with *A. virosa*), green death cap
-
-## Morphology
-
-### Cap
-
-- 5–15 cm diameter, convex to plano-convex, smooth and slightly sticky when wet
-- Color variable: greenish-yellow, olive-green, pale green to nearly white
-- Cuticle peels easily; margin typically non-striate in mature specimens
-- White universal veil patches (warts) may be present but often wash away
-
-### Gills
-
-- Free to slightly adnexed, crowded, white
-- Gill edges flocculose (finely hairy) — a useful distinguishing feature
-
-### Stipe
-
-- 8–15 cm long, 1–2 cm thick, white, solid
-- Bears a membranous, persistent annulus (skirt-like ring) near the apex
-- Base enclosed in a prominent, sac-like volva (cup)
-
-### Spores
-
-- Spore print: white
+- **Synonyms:** *Agaricus phalloides* Vaill. ex Fr., *[[spore-print]]: white
 - Spores: 8–11 × 6–8 µm, broadly ellipsoid, smooth, amyloid
 - Basidia: clavate, 4-spored
 
@@ -123,17 +97,8 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 
 - Important ectomycorrhizal partner in temperate hardwood forests
 - Facilitates nutrient exchange (phosphorus, nitrogen) between soil and host trees
-- Contributes to forest ecosystem stability through mycorrhizal networks
-- Fruiting bodies decompose rapidly, recycling nutrients to forest floor
-
-## Similar Species and Misidentification Risk
-
-| Species | Edibility | Key Differences |
-|---------|-----------|-----------------|
-| *Amanita phalloides* | **Deadly** | Greenish cap, white gills, sac volva |
-| *Amanita bisporigera* | **Deadly** | White cap, two-spored basidia |
-| *Amanita verna* | **Deadly** | Pure white, lacks green tint |
-| *Volvariella volvacea* | Edible (paddy straw) | Pink spore print, grows on straw |
+- Contributes to forest ecosystem stability through [[amanita-bisporigera]]* | **Deadly** | White cap, two-spored basidia |
+| *[[volvariella-volvacea]]* | Edible (paddy straw) | Pink spore print, grows on straw |
 | *Agaricus campestris* | Edible (meadow mushroom) | Chocolate-brown spore print, no volva |
 | *Tricholoma murrillianum* | Edible (matsutake) | Distinctive spicy odor, lacks volva |
 
@@ -143,6 +108,5 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 
 ## See Also
 
-- [[amanita-muscaria]] — Related Amanita species with different toxin profile (ibotenic acid, muscimol)
-- [[pleurotus-ostreatus]] — Edible alternative commonly cultivated on hardwood substrates
+- [[ganoderma-lucidum]] — Edible alternative commonly cultivated on hardwood substrates
 - [[ganoderma-lucidum]] — Medicinal fungus with hepatoprotective properties (theoretical interest in amatoxin recovery)

@@ -21,35 +21,6 @@ but understanding their individual properties helps in formulating the right mix
 for specific growing conditions and plant needs.
 
 ## Perlite
-[[perlite-cannabis]]
-
-Perlite is a naturally occurring volcanic glass that has been expanded through
-extreme heating, creating lightweight, porous white particles. When mixed into
-soil or growing media, perlite creates air channels that improve drainage and
-prevent soil compaction. The porous structure also provides surface area for
-beneficial microbial colonization. Perlite is essentially chemically inert, with
-a neutral pH of around 6.5-7.5, meaning it does not interact with nutrient
-solutions or alter soil chemistry.
-
-For cannabis cultivation, perlite's primary value is in preventing the root zone
-from becoming waterlogged. Cannabis roots require significant oxygen for healthy
-function, and compacted or water-retentive soil can suffocate roots, leading to
-slow growth, nutrient deficiencies, and root rot pathogens like pythium. A
-typical soil mix incorporates 10-30% perlite by volume, with higher ratios used
-in containers where drainage is critical. Perlite is particularly important for
-indoor container growing, where limited soil volume and frequent watering can
-quickly lead to compaction and drainage problems.
-
-Perlite has some limitations. It provides no nutritional value and negligible
-cation exchange capacity, meaning it cannot hold nutrients for later release.
-The lightweight particles can float to the surface during watering, creating a
-messy appearance and potentially exposing roots. Very fine perlite dust can
-cause respiratory irritation during handling and should be moistened before
-mixing. Despite these minor issues, perlite remains one of the most universally
-recommended soil amendments for cannabis cultivation due to its reliable
-improvement of drainage and aeration.
-
-## Vermiculite
 [[vermiculite-cannabis]]
 
 Vermiculite is a naturally occurring mineral (hydrous phyllosilicate) that has
@@ -122,8 +93,5 @@ systems. Some growers layer amendments, placing perlite at the bottom of
 containers for drainage and vermiculite near the surface for moisture retention.
 
 ## See Also
-- [[cannabis-indoor-soil-mix-and-preparation]]
 - [[coco-coir-cannabis]]
-- [[living-soil-cannabis]]
-- peat free gardening
 - [[cervantes-soil-amendments-perlite-vermiculite-pumice]]

@@ -1,7 +1,7 @@
 ---
 title: Environmental DNA Metabarcoding for Fungal Diversity
 created: 2026-04-28
-tags: [mycology, metagenomics, methodology, dna-sequencing]
+tags: [[mycology, metagenomics, methodology, dna-sequencing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -98,8 +98,6 @@ more rare taxa and provide finer resolution, but may also include more
 sequencing artifacts if filtering is not stringent enough.
 ## See Also
 
-- [[fungal-biodiversity-estimates]]
 - [[fungal-habitats-and-niches]]
-- [[cryptic-fungal-species]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[fungal-conservation-challenges]]

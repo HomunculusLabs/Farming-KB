@@ -18,8 +18,7 @@ type: concept
 
 ## Overview
 
-The relationship between [[arbuscular-mycorrhizal-fungal-diversity]] and ecosystem
-function has been a central question in [[fungal-ecology]], with
+The relationship between [[fungal-ecology]], with
 significant implications for understanding how
 fungal-biodiversity|biodiversity supports ecosystem processes.
 Research has demonstrated that the diversity of mycorrhizal fungal
@@ -35,34 +34,7 @@ specific functional attributes of the fungal species involved.
 Multiple experimental studies have shown that plants perform better
 with multiple mycorrhizal partners than with single species. Chu-Chou
 and Grace (1985) showed that radiata pine seedlings performed better
-in the presence of three [[ectomycorrhizal-ecology]]|ectomycorrhizal
-symbionts than with one. Similarly, two ectomycorrhizal species were
-found to produce larger host plants than one (Parlade and Alvarez,
-1993; Reddy and Natarajan, 1997). The yield of competing Douglas fir
-seedlings was enhanced as the number of ectomycorrhizal partners
-increased (Perry et al., 1989).
-
-Under low fertility conditions in Sweden, Jonsson et al. (2001) showed
-that the growth of birch trees was higher when associated with eight
-ectomycorrhizal species than with comparable plants associated with
-single fungal species. These results suggest functional complementarity
-among mycorrhizal species, where different fungi access different
-nutrient pools or provide different services to the host plant.
-
-### Diversity Versus Species Composition
-
-Baxter and Dighton (2001) manipulated both the actual diversity and
-species composition of ectomycorrhizae on birch seedlings to
-demonstrate that changes in plant performance were related to the
-diversity per se of the ectomycorrhizal community rather than the
-actual species composition. As the community of mycorrhizae increased
-in diversity, the proportional representation of each species declined,
-but the total number of mycorrhizal root tips per plant increased.
-
-In response to increased mycorrhizal diversity, plant shoot biomass
-declined but root biomass increased. Using stepwise multiple regression
-analysis, changes in plant biomass (root and shoot) and plant phosphate
-content were significantly correlated with [[biodiversity-fungi-ectomycorrhizal-diversity]]
+in the presence of three [[biodiversity-fungi-ectomycorrhizal-diversity]]
 rather than the level of root colonization. This suggests that the
 interaction among ectomycorrhizal fungi on the same root system has an
 influence on plant performance independent of either total colonization
@@ -91,9 +63,7 @@ agricultural systems.
 ### Arbuscular Versus Ectomycorrhizal Function
 
 Van der Heijden (2001) showed different functional significance
-between [[arbuscular-mycorrhizal-network-visualization-anastomosis]] and
-ectomycorrhizal associates of willow (Salix repens). The arbuscular
-mycorrhizal fungus [[glomus-mosseae]] had low root colonization but
+between [[glomus-mosseae]] had low root colonization but
 showed significant short-term effects on shoot growth and root length.
 The ectomycorrhizal fungus Hebeloma leucosarx had high colonization
 and improved host plant growth over a longer term.
@@ -103,16 +73,7 @@ phosphorus uptake, shoot growth, root growth, and response duration in
 plants collected in December versus March, while the ectomycorrhizal
 and nonmycorrhizal treatments showed no seasonal difference. The
 differential effects relate to nutrient availability at different times
-of the year and the functional differences between [[mycorrhizal-types]].
-
-## Functional Complementarity
-
-The concept of functional complementarity among mycorrhizal fungi
-suggests that diverse communities can access a broader range of
-nutrient resources than single species. Different mycorrhizal species
-produce different arrays of extracellular enzymes, explore different
-soil volumes through varying hyphal architecture, and respond
-differently to [[fungal-adaptations-environmental-gradients]]. This complementarity is
+of the year and the functional differences between [[fungal-adaptations-environmental-gradients]]. This complementarity is
 analogous to the resource partitioning described for plant communities
 and may explain why diverse mycorrhizal communities often support
 greater plant productivity.

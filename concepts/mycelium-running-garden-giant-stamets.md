@@ -11,11 +11,8 @@ tags: [gardening, mycelium]
 # Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration
 
 The garden giant, also known as king stropharia or wine-cap stropharia
-([[stropharia-rugoso-annulata-mycofiltration]]), is one of the most versatile and
-practical mushrooms for outdoor cultivation. Paul Stamets highlights it
-repeatedly throughout [[mycelium-natures-internet]]
-as a premier species for [[mycoforestry]],
-[[mycofiltration-of-water]], and companion cultivation in gardens.
+([[mycelium-natures-internet]]
+as a premier species for [[mycofiltration-of-water]], and companion cultivation in gardens.
 
 ## Key Characteristics
 
@@ -28,24 +25,8 @@ as a premier species for [[mycoforestry]],
 
 ## Role in Mycofiltration
 
-Stamets's first major [[mycofiltration-membrane-construction]] experiment
-used garden giant mycelium at his farm on Skookum Inlet, Washington.
-He installed a 50-by-200-foot bed of [[unknown-mycelium-mycofiltration]]
-by spreading [[mushroom-cultivation-basics-spawn-biology-palmer]] over several truckloads of wood chips in a natural swale.
-
-The results were remarkable:
-
-- A hundredfold drop in coliform bacteria levels in downstream water
-- The mycelium consumed fecal coliforms from livestock pasture runoff
-- Water exiting the bed was largely cleansed of bacteria
-- This occurred despite doubling the farm's animal population
-
-The garden giant mycelium produces strong rhizomorphic cords that
-function like tenacious biological nets, gripping and holding wood chips
-together. Stamets observed that a single rhizomorphic thread weighing
-0.002 grams supported dowels weighing 6.079 grams -- more than 3,000
-times its own mass. This gripping capacity also stabilizes soil against
-[[mycofiltration-silt-erosion-control]].
+Stamets's first major [[unknown-mycelium-mycofiltration]]
+by spreading [[mycofiltration-silt-erosion-control]].
 
 ## Companion Cultivation with Garden Vegetables
 
@@ -57,18 +38,7 @@ emerge between rows of corn and tend to perpetuate themselves.
 
 Stamets confirmed that corn and garden giants grow well together, with
 mushrooms often selecting to fruit near emerging cornstalks. In
-[[companion-planting-with-fungi]] experiments at his farm, Christiane
-Pisehl from the University of Innsbruck tested 9 mushroom species with
-4 vegetables. The garden giant was among the most vigorous colonizers.
-
-## Creating a Garden Giant Patch
-
-Stamets recommends a straightforward outdoor cultivation method:
-
-1. Clear the site of debris down to mineral earth
-2. Lay down 2 inches of fresh wood chips, spread evenly
-3. Moistening the chips, then broadcast 5-10 pounds of sawdust or chip
-   [[mushroom-cultivation-in-kenya]] per 100
+[[mushroom-cultivation-in-kenya]] per 100
    square feet
 4. Add another 2-4 inches of wood chips on top, moisten again
 5. Cover with torn cardboard to prevent moisture loss
@@ -118,9 +88,6 @@ advancing tips.
 
 ## See Also
 
-- [[mycorrhizal-networks]] -- mycorrhizal partnerships
 - [[mycelium-running-pest-control-with-fungi]] -- using fungi against insects
-- [[mycoforestry-principles-stamets]] -- guiding principles
 - [[mycoremediation-basics]] -- decontaminating toxic waste
-- [[mycelium-running-rot-fungi-wood-decomposition]] -- wood decay fungi
 - [[mycelium-running-symbiotic-fungi-relationships]] -- fungal ecology

@@ -22,35 +22,6 @@ materials, while wine caps are slower but produce larger, meatier caps and
 are uniquely adapted to garden-integrated cultivation alongside vegetables.
 
 ## Oyster Mushroom Cultivation
-[[oyster-mushroom-shelf-cultivation]]
-Oyster mushrooms are among the most versatile and fastest-growing cultivated
-mushrooms. They fruit readily on straw, sawdust, paper, coffee grounds, and
-many other cellulose-rich substrates. Shelf cultivation involves packing
-pasteurized substrate into bags or containers, inoculating with oyster
-spawn, and waiting for full colonization before introducing fruiting
-conditions. Oysters typically colonize straw in two to three weeks and can
-begin fruiting within a few days of being exposed to fresh air and high
-humidity. Multiple flushes of mushrooms can be harvested from a single
-block over several weeks.
-
-The shelf cultivation method is particularly well-suited to small-scale and
-indoor growing because it requires minimal space and no specialized
-equipment beyond basic pasteurization setup. Oysters can be grown on
-windowsills, in closets with humidity tents, or on outdoor logs and stumps.
-The wide variety of oyster species available, including blue, pink, golden,
-and king oyster, offers cultivators diverse flavors, textures, and growing
-preferences to experiment with. Oyster mycelium is also aggressive enough
-to outcompete many contaminants on properly prepared substrate.
-
-The main limitations of oyster cultivation include sensitivity to low
-humidity (caps crack and dry out), short shelf life after harvest compared
-to other cultivated mushrooms, and the need for pasteurization of most
-substrates. Outdoor oyster cultivation is seasonal in most climates, and
-fruiting can be unpredictable depending on weather conditions. Oyster
-mushrooms also produce heavy spore loads that can cause allergic reactions
-in enclosed growing spaces.
-
-## Wine Cap Cultivation
 [[wine-cap-mushroom-cultivation]]
 Wine cap mushrooms (also called king stropharia or garden giant) are one of
 the easiest mushrooms to grow outdoors in garden settings. They thrive on
@@ -123,8 +94,6 @@ and can coexist in a polycultural mushroom garden with complementary
 fruiting seasons and substrate preferences.
 
 ## See Also
-- [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
-- [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[stropharia-rugoso-annulata-mycofiltration]]
 - [[comparison-oyster-vs-shiitake-cultivation]]

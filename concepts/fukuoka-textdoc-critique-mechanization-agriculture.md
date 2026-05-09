@@ -130,8 +130,6 @@ control.
 
 ## See Also
 
-- [[fukuoka-critique-modern-agriculture]]
 - [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-india-visit-agriculture-spirituality]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

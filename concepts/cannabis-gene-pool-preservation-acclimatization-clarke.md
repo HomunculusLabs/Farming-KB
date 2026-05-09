@@ -139,12 +139,8 @@ preserve variety in the gene pool should the patenting of Cannabis
 strains become a reality. With the legalization of cultivation, it is a
 certainty that corporations with the time, space, and money to produce
 pure and hybrid strains will apply for patents.
-
 ## See Also
 
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-breeding-selection-principles-clarke]]
-- [[cannabis-hybridization-back-crossing-methods-clarke]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]
 - [[cannabis-polyploidy-colchicine-treatment-clarke]]

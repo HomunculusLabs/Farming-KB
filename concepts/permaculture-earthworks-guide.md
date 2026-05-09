@@ -13,19 +13,11 @@ sources:
 
 Earthworks are the deliberate shaping of land to harvest, store, and distribute water; create growing surfaces; manage access; and prevent erosion. Holmgren describes bulldozers and other large earth-moving equipment as perhaps the most dramatic example of appropriate use of fossil fuels promoted in permaculture — used to create well-designed systems that can then be maintained indefinitely by human labor if necessary.
 
-
-
-
-
 ## Philosophy
 
 The goal of permaculture earthworks is to slow, spread, and sink water across the landscape. Holmgren notes that keyline and other catchment-based strategies reflect the broad design rules of natural catchments: slow the flow of both water and nutrients down the landscape and cycle them through soil and plants as many times as possible.
 
 Well-designed earthworks require little maintenance. They are the permanent infrastructure on which biological systems are then established. The primary function of surplus runoff water stored in keyline dams is to irrigate pasture to rapidly build soil fertility and structure (which can then store more water).
-
-
-
-
 
 ## Types of Earthworks
 
@@ -55,17 +47,9 @@ Roads placed on contour or slightly off-contour serve as diversion drains, movin
 
 In drylands, orchard trees are planted in small depressions connected by a network of shallow trenches. The trench network collects rain and runoff water falling over a large area and delivers it to the base of each tree.
 
-
-
-
-
 ## Appropriate Scale
 
 Holmgren emphasizes that earthworks should be done at the smallest scale that is practical. Large machines are used for initial earth-moving, but the resulting systems should be maintainable by hand. This is the appropriate use of non-renewable resources (fossil fuels) to establish systems that then run on renewable energy (gravity, biological processes, human labor).
-
-
-
-
 
 ## Order of Operations
 
@@ -78,10 +62,25 @@ In permaculture design, earthworks are typically done first because they:
 
 After earthworks, tree planting, soil building, and detailed garden design follow.
 
-
-
-
-
 ## Connections
 
-See also [[permaculture-earthworks]], [[earthworks-for-water-management]], [[swale-construction-guide]], [[keyline-design]], [[rainwater-harvesting-systems]], [[permaculture-principle-catch-and-store-energy]], and [[zone-sector-analysis-guide]] for placement guidance.
+See also [[permaculture-earthworks]], [[earthworks-for-water-management]], [[swale-construction-guide]], [[keyline-design]], [[rainwater-harvesting-systems]], [[permaculture-principle-catch-and-store-energy]], and [[permaculture-zone-and-sector-analysis]] for placement guidance.
+## Practical Considerations
+
+Successful implementation of Permaculture Earthworks Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

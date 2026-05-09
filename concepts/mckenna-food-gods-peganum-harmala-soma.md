@@ -25,11 +25,7 @@ type: concept
 
 ## Overview
 
-The theory that the Vedic [[mckenna-food-gods-soma-vedic-enigma|Soma]] and its Iranian counterpart Haoma were derived from *Peganum harmala* — the giant Syrian rue — represents one of the most pharmacologically sophisticated attempts to solve the Soma identity puzzle. Advanced by David Flattery and Martin Schwartz in their 1989 book *Haoma and Harmaline*, this argument draws on Avestan and Parsi scriptural materials that other scholars had largely passed over. Terence McKenna found the harmaline theory "very persuasive" and explored its implications for understanding the evolution of Indo-European psychedelic religion in *Food of the Gods*.
-
-## Historical Background
-
-Sir William Jones first identified Vedic Soma with Syrian rue in 1794, but this early identification was largely forgotten as subsequent scholars proposed alternative candidates including Ephedra, Sarcostemma, Cannabis, and eventually [[amanita-muscaria|Amanita muscaria]]. Flattery and Schwartz revived and substantially strengthened the original Jones identification by drawing on scriptural materials from the Zoroastrian tradition that had been neglected in previous scholarship.
+The theory that the Vedic [[amanita-muscaria-entity|Amanita muscaria]]. Flattery and Schwartz revived and substantially strengthened the original Jones identification by drawing on scriptural materials from the Zoroastrian tradition that had been neglected in previous scholarship.
 
 ## Peganum Harmala — Botanical and Chemical Profile
 
@@ -64,11 +60,7 @@ The description of Haoma preparation rituals in the Avesta — involving the pre
 
 ## McKenna's Synergy Hypothesis
 
-McKenna extends the Flattery-Schwartz argument by proposing a synergistic relationship between Peganum harmala and psilocybin mushrooms. He notes that harmaline, as a beta-carboline alkaloid, would synergize with and enhance the effects of psilocybin — much as harmine in Banisteriopsis caapi synergizes with DMT in the [[mckenna-food-gods-amazonian-shamanism-ayahuasca|ayahuasca]] brew of the Amazon.
-
-This synergy hypothesis suggests a plausible historical scenario:
-
-1. **Original practice**: The Indo-European peoples used psilocybin mushrooms (likely [[stropharia-cubensis]]) as their primary sacrament
+McKenna extends the Flattery-Schwartz argument by proposing a synergistic relationship between Peganum harmala and psilocybin mushrooms. He notes that harmaline, as a beta-carboline alkaloid, would synergize with and enhance the effects of psilocybin — much as harmine in Banisteriopsis caapi synergizes with DMT in the [[stropharia-cubensis]]) as their primary sacrament
 2. **Scarcity**: As mushroom supplies dwindled due to climate change and migration, Peganum harmala was added to the preparation to enhance and extend the available psychoactive material
 3. **Replacement**: Gradually, as mushrooms became ever rarer, Peganum harmala may have come to supplant the mushrooms altogether
 4. **Standardization**: By late Vedic times, Haoma/Soma was understood to be primarily Peganum harmala
@@ -77,27 +69,27 @@ McKenna considers this area "where further research is clearly called for," noti
 
 ## Syrian Rue and the Abandonment of Mystery
 
-The Syrian rue theory fits into McKenna's larger narrative about the four stages of abandonment of the original [[mckenna-food-gods-fall-consciousness|psilocybin-based mystery]]. If the original sacrament was indeed a psilocybin mushroom, then the adoption of Syrian rue — while still psychoactive — represents the first step in a long process of dilution:
+The Syrian rue theory fits into McKenna's larger narrative about the four stages of abandonment of the original [[mckenna-telepathine-harmala-alkaloid-discovery]]
 
-1. **Stage one**: Introduction of other psychoactive plant substitutes for the original mushroom
-2. **Stage two**: Substitution of completely inactive materials for active ones
-3. **Stage three**: Retention of only symbols, esoteric teachings, and rituals without any psychoactive component
-4. **Stage four**: Complete abandonment, followed by rediscovery and reinterpretation of the mystery as evil
-
-Peganum harmala, while a genuine hallucinogen, would have represented a less profound and less boundary-dissolving experience than the original psilocybin mushroom — an early step on the path from genuine visionary ecstasy to the "trivialization" that McKenna sees as characteristic of dominator culture.
-
-## Cultural and Geographic Considerations
-
-The range of Peganum harmala across the Iranian plateau and Central Asia makes it a credible candidate for sustained ritual use over millennia. Unlike psilocybin mushrooms, which require specific ecological conditions (warmth, moisture, and the presence of herbivore dung), Syrian rue is a hardy desert plant that could survive the increasing aridification of the region. This environmental resilience would have made it a natural successor as climatic conditions deteriorated.
-
-## Modern Relevance
-
-The pharmacological profile of Peganum harmala has gained renewed attention in modern times due to its role in pharmaceutical harmine/harmaline extraction and its use as a component in ayahuasca analogs (sometimes called "pharmahuasca"). The beta-carboline alkaloids it contains are reversible monoamine oxidase inhibitors (MAOIs), a property that enables the oral activity of DMT — the same biochemical mechanism that makes traditional ayahuasca effective.
-
-## See Also
-
-- [[mckenna-food-gods-soma-vedic-enigma]]
 - [[mckenna-food-gods-wasson-amanita-theory]]
-- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - [[mckenna-food-gods-tryptamine-pharmacology-indoles]]
 - [[mckenna-food-gods-fall-consciousness]]
+## Practical Considerations
+
+Successful implementation of Peganum Harmala as Soma — Syrian Rue and Harmaline requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

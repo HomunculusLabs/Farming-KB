@@ -140,10 +140,10 @@ Multiple alkaloids inhibit:
 - NLRP3 inflammasome activation
 ## See Also
 
-- [[corydalis-cava]]
-
 - [[herbal-medicine]]
 
-- [[medicinal-mushrooms]]
-
 - [[herbal-medicine-making-basics]]
+
+## See Also
+
+- [[herbal-medicine-making]]

@@ -129,10 +129,6 @@ potent symbol for an age caught between reason and enchantment.
 
 ## Related Topics
 
-- [[philosophical-implications-of-psychedelics]] - philosophical
-  - dimensions
 - [[psychedelic-consciousness-models]] - models of consciousness
-- [[neo-shamanic-phenomenology-and-limits-of-science]] - limits of
-  - scientific approach
 - [[psychedelic-aesthetics-and-creativity]] - creative dimensions
 - [[entheogen-culture]] - broader entheogenic cultural context

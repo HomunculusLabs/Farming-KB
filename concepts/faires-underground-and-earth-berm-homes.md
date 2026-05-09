@@ -3,44 +3,7 @@ title: Underground and Earth Berm Homes
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Underground and Earth Berm Homes
-
-Underground houses have been built for thousands of years in every climate. While dirt isn't a great insulator, the sheer quantity of earth acts as thermal mass, keeping homes warm in winter and cool in summer.
-
-## Earth Berm Homes
-
-Most modern North American underground homes are actually earth berm homes — covered in a man-made embankment. The front of the house is shaded with vines, and the roof can be part of the berm with plants growing on it.
-
-In the desert, houses are set far into soil or rock faces. In temperate climates, only the back half may be earth-sheltered.
-
-## Construction Method
-
-The simplest and most fool-proof method:
-1. Build with **steel framing or reinforced concrete** (in many places, the only legal method)
-2. Use **circular or dome shape** for strength
-3. Small is better — the enormous soil weight can crush poorly designed structures
-4. Use pre-designed plans — worth the investment
-
-## Waterproofing (Critical)
-
-The home must be very waterproof due to soil moisture:
-- Polyethylene sheeting (pond liner grade)
-- Clay layers
-- Commercial cement waterproofing products
-
-Add insulation on top of the waterproof membrane (outside the house) to protect from freezing/damage:
-- Polystyrene sheets
-- Spray foam
-
-Some people don't insulate inner walls, but it's wise where the frost line extends deep.
-
-## Sustainability Trade-off
-
-While earth is environmentally friendly, underground homes require significant unsustainable materials for waterproofing and structural safety. There are easier, cheaper, more sustainable options for amateur builders — particularly [[earthbag-construction]].
+tags: [[earthbag-construction]].
 
 ## Living Roofs
 
@@ -68,11 +31,7 @@ A cellar is an underground room maintaining 32-40°F (0-4°C) — optimal for fo
 - Leave floor as dirt (cement cracks and absorbs moisture; for food storage, air moisture is beneficial)
 - Can be an extension of the basement or a separate structure
 
-See also [[earthbag-construction]], faires underground and earth berm homes, [[faires-house-design-and-retrofit]], and [[faires-concrete-and-cordwood-building]].
-
-## See Also
-
-[[faires-orchard-design-and-intercropping]], [[faires-low-energy-refrigeration]], [[faires-pond-design-and-aquaculture]], [[faires-mimicking-forests]], [[mushroom-cultivation-underground-history]], [[faires-swales-and-water-conservation]], [[faires-duck-and-goose-keeping]], [[mollison-earth-constructs-and-banks]]
+See also [[faires-house-design-and-retrofit]], and [[faires-orchard-design-and-intercropping]], [[faires-pond-design-and-aquaculture]], [[mushroom-cultivation-underground-history]], [[faires-duck-and-goose-keeping]], [[mollison-earth-constructs-and-banks]]
 
 ## Practical Applications
 

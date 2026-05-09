@@ -96,16 +96,10 @@ All compost teas should meet SFI minimum standards for bacterial and fungal biom
 
 ## See Also
 
-- [[ingham-aact-disease-suppression]]
 - [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
-- [[aact-brewing-ingredients-ingham]]
-
 - [[aact-bacterial-dominant-tea]]
-- [[aact-fungal-dominant-tea]]
 - [[ingham-soil-food-web-assessment-methods]]
-- [[compost-tea-for-specific-crops]]
 - [[ingham-nutrient-cycling-soil-food-web]]
-- [[bacterial-vs-fungal-compost-teas]]
 - [[humic-acids-soil-biology-ingham]]
 
 ## Practical Context
@@ -130,8 +124,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[fungal-decomposition]]
 - [[elaine-ingham]]
-- [[soil-food-web]]
 - [[decomposition]]
 - [[humic-acids-soil-biology-ingham]]

@@ -14,57 +14,7 @@ sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
-# [[genetic-engineering-of-fungi-for-mycoremediation]] Critique and Warning
-
-Masanobu Fukuoka raised prescient warnings about genetic engineering decades before the technology benatural-way-of-farming-guideread. Writing in *The Natural Way of Farming*, he described a future in which scientists would alter life at will, calling them "a self-appointed surrogate of the Creator" who had gotten hold of "a magic wand, a sorcerer's staff."
-
-His critique was rooted not ifukuoka-nature-transcends-human-knowledgen a deep philosophical conviction that human knowledge, no matter how advanced, could never equal the perfection of nature. Every prediction he made about the direction of biotechnology has proven at least partially accurate.
-
-## Predictions About Plant Genetic Engineering
-
-Fukuoka predicted that genetic engineering would be applied to agriculture in several specific ways.
-
-He foresaw the creation of "curious plants by interspecific genetic recombination" and the production of "gigantic varieties of rice."
-
-He anticipated the crossing of "trees with bamboo" and the growing of "eggplants on cucumber vines."
-
-He predicted that scientists would ripen "tomatoes on trees" and create "rhizobium-bearing tomatoes capable of fixing nitrogen from the air" by transferring genes from leguminous plants.
-
-He also described scientists who believed they could "confer the traits of a delicacy on common vegetables" through genetic manipulation.
-
-## Predictions About Animal Genetic Engineering
-
-Fukuoka extended his predictions beyond plants to the animal kingdom.
-
-He predicted that genetic engineering would be applied to insects, creating "hybrid bee-flies" or "butterfly-dragonflies" that would make it impossible to distinguish beneficial insects from pests.
-
-He envisioned the creation of "hybrids of foxes and raccoons" for zoos.
-
-He warned of the possibility that "vegetable-like or mechanical humans" might be created as workers in factories.
-
-He described scientists envisioning a day when they would "breed superior humans in culture media by transferring in the genes of gifted physicists and mathematicians."
-
-He warned of children being raised in "complete incubators equipped with dispensers supplying artificial protein foods and vitamins," eliminating both the ordeal of childbirth and the work of child-rearing.
-
-## The Philosophical Objection to Altering Life
-
-Fukuoka's objection to genetic engineering was not merely practical but philosophical.
-
-He argued that all products of human knowledge are "arbitrary delusion created by the false reasoning of man in a world of relativity."
-
-No matter what scientists create, "the fruits and creations of human knowledge can never exceed the limits of the human intellect. In the eyes of nature, actions that arise from human knowledge are all futile."
-
-This position rests on the core principle of Mu (nothingness) that underpins Fukuoka's entire philosophy.
-
-If nature is already perfect and complete, any attempt to "improve" upon it through human intervention is fundamentally misguided.
-
-The scientist who believes that "someday human knowledge will be complete" is, in Fukuoka's view, pursuing "mirages, nothing more than wild dancing in the hand of the Lord Buddha."
-
-## The Illusion of Creating Life from Scratch
-
-Fukuoka drew a sharp distinction between nature's ability to create something from nothing and humanity's ability to merely imitate.
-
-He challenged the notion that man could ever fabricate a [[persimmon]] seed artificially:
+# [[persimmon]] seed artificially:
 
 "The level of technology that would be needed to create a single persimmon seed or leaf is incomparably greater than that used to launch a rocket into outer space."
 
@@ -134,16 +84,6 @@ His critique challenges both proponents and opponents of genetic engineering to 
 
 ## Connection to Natural Farming Principles
 
-The genetic engineering critique is inseparable from Fukuoka's five principles of [[natural-farming]]: no tillage, no fertilizer, no pesticides, no weeding, and no pruning.
-
-Each of these principles represents a rejection of the premise that human intervention improves upon nature.
-
-Genetic engineering is simply the most extreme form of this same premise — the belief that nature is imperfect and that human intellect can and should redesign it.
-
-In Fukuoka's framework, the proper response to crop disease or low yield is not to engineer a better plant but to identify and remove the human action that is causing the problem.
-
-"All that remains is a last glimmer of hope that the principle dying like a buried ember in the farming village will be unearthed and revived in time to establish a natural way of farming that unites man and nature."
-
-## See Also
+The genetic engineering critique is inseparable from Fukuoka's five principles of [[fukuoka-textdoc-genetic-engineering-warning]]
 
 - [[masanobu-fukuoka]]

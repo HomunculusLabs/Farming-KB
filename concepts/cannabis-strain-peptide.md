@@ -16,9 +16,7 @@ type: concept
 
 # Peptide
 
-Peptide is a sativa-dominant hybrid [[cannabis-strain-shaman]] bred by Limestone City
-Seeds, part of the Royal Canadian Marijuana Collective based in Canada. This
-strain combines genetics from Durban Poison, Heavy Duty Fruity, and Sweet
+Peptide is a sativa-dominant hybrid [[durban-poison]], Heavy Duty Fruity, and Sweet
 Tooth #3 to create a plant with impressive yields, distinctive citrus-candy
 aromas, and a balanced psychoactive experience.
 
@@ -112,7 +110,6 @@ contribute to its heavy yield potential.
 
 ## See Also
 
-- [[cannabis-strain-guide-reference]]
 - [[cannabis-strain-naming]]
 
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties

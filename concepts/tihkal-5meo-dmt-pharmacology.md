@@ -90,9 +90,6 @@ When combined with harmaline (an MAO inhibitor), oral 5-MeO-DMT becomes active a
 
 ## See Also
 
-- [[tihkal-introduction-and-methodology]]
 - [[pihkal-introduction-and-methodology]]
-- [[tryptamine-family-overview]]
 - [[tryptamine-consciousness-theory]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[mao-inhibitors-and-psychedelics]]

@@ -105,19 +105,8 @@ Deforestation causes a rise in saprophytes and a decline in mycorrhizal mushroom
 - Nutrient cycling breaks down, leading to progressively poorer yields
 - Seedlings from nursery soils typically lack mycorrhizae
 
-[[mycoforestry-principles-stamets]] practices aim to restore networks through:
-
-- Introducing mycorrhizal spore inoculum at replanting
-- Retaining wood debris on-site to feed saprophytic networks
-- [[mycoforestry-spored-oil-techniques]] in chain saws for immediate inoculation
-- [[stump-inoculation-techniques]] to create new network nodes
-
-## See Also
-
+[[mycoforestry-spored-oil-techniques]] in chain saws for immediate inoculation
 - [[mushroom-highways]] -- nutrient transport along mycelial pathways
-- [[mycorrhizal-networks]] -- mycorrhizal network specifics
 - [[mycorrhizal-networks]] -- the science of underground fungal connections
-- [[mycoforestry]] -- forest management leveraging fungal networks
 - [[decomposer-fungi-succession]] -- how network composition changes over time
-- [[fungal-roles-in-mass-extinction-recovery]] -- fungi rebuilding networks after catastrophes
 - [[old-growth-forest-fungi-conservation]] -- protecting ancient fungal networks

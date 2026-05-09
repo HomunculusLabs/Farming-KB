@@ -87,10 +87,9 @@ The entheogenic theory of Eleusis remains a hypothesis rather than a proven fact
 
 As our understanding of ancient pharmacology and the role of psychoactive substances in human culture continues to develop, the theory continues to be refined and debated. It has stimulated productive research and has forced scholars to take the experiential dimension of ancient religion more seriously than was previously common.
 
-See also: [[wasson-hofmann-ruck-theory]], [[eleusinian-mysteries-history-and-structure]], [[kykeon-composition-and-ergot-alkaloid-hypothesis]], [[eleusinian-telesterion-architecture-and-ritual]], albert hofmann
+See also: [[eleusinian-mysteries-history-and-structure]], [[eleusinian-telesterion-architecture-and-ritual]], albert hofmann
 
 ## Related
 
-- [[ancient-greek-mystery-cults-comparison]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

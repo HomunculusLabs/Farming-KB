@@ -67,12 +67,12 @@ The psychoactive constituents of Ololiuqui remained unknown for centuries. Chemi
 
 ## Chemistry
 
-The seeds of Turbina corymbosa contain [[ergot-and-lysergic-acid-history]] alkaloids — the hallucinogenic compounds of Ololiuqui. These are indole alkaloids that have also been isolated from [[ergot-fungus]]. The main components are:
+The seeds of Turbina corymbosa contain [[ergot-fungus]]. The main components are:
 
 - **Lysergic acid amide** (also known as ergine)
 - **Lysergic acid hydroxyethylamide**
 
-The tryptamine radical in the ring structure of lysergic acid establishes its relationship with ergoline alkaloids as well as with the active principles of [[psychedelic-mushrooms-species-and-identification]] and the brain hormone serotonin. [[lsd-pharmacology]] (lysergic acid diethylamide), a semi-synthetic compound, is the most potent hallucinogen known today. It differs from lysergic acid amide only by replacement of two hydrogen atoms for two ethyl groups. The active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100 times less potent than LSD (hallucinogenic dose 0.05 mg).
+The tryptamine radical in the ring structure of lysergic acid establishes its relationship with ergoline alkaloids as well as with the active principles of [[lsd-pharmacology]] (lysergic acid diethylamide), a semi-synthetic compound, is the most potent hallucinogen known today. It differs from lysergic acid amide only by replacement of two hydrogen atoms for two ethyl groups. The active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100 times less potent than LSD (hallucinogenic dose 0.05 mg).
 
 ## Related Species
 
@@ -82,10 +82,6 @@ The cultivated morning glory varieties popular in horticulture — such as "Flyi
 
 ## See Also
 
-- [[plants-gods-peyote]] — Peyote cactus in Native American rituals
 - [[teonanacatl-and-mesoamerican-mushroom-cults]] — Psilocybin mushrooms in Mesoamerica
-- [[schultes-salvia-divinorum]] — Mazatec diviner's sage
 - [[ergot-fungus]] — Source of related ergoline alkaloids
-- [[ergot-and-lysergic-acid-history]] — Chemical basis of Ololiuqui's effects
-
 - [[ololiuqui]]

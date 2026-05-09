@@ -13,23 +13,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Classification
 
-- Family: [[2c-family-chemistry-and-sar-pihkal]]
-- Sub-family: 2C-T series (thioalkyl-substituted phenethylamines)
-- IUPAC: 2,5-dimethoxy-4-(methylthio)phenethylamine
-- Molecular Formula: C11H17NO2S (freebase), C11H18ClNO2S (HCl salt)
-- Code origin: 2C-T from DOT (the original name for ALEPH-1)
-
-## Dosage and Duration
-
-- Dosage Range: 60 - 100 mg (oral)
-- Duration: 3 - 5 hours
-- Onset: Rapid -- effects noted within 15 minutes
-- Shulgins scale: +1 to +3
-
-## Qualitative Comments
-
-(with 60 mg) "Poetry was an easy and natural thing. Both the reading of it
-and the writing of it. This is a potential [[mdma-compound-profile]]
+- Family: [[mdma-compound-profile]]
 substitute since it opens things up but it doesn't do anything to get in the
 way."
 
@@ -64,11 +48,7 @@ later."
 ## Extensions and Commentary
 
 The earliest work with the sulfur atom was with the three-carbon chain
-materials, the [[aleph-7-pihkal-entry-7]]. It was only after a
-considerable time of working with them, and trying to come to peace with their
-property of being so different from person to person as to potency, that the
-two-carbon homologues were looked at. Although the first of these (2C-T) was
-prepared at the same time as [[aleph-7-pihkal-entry-7]], there was a
+materials, the [[aleph-7-pihkal-entry-7]], there was a
 lapse of about four years between their trials. The relatively low potency
 of 2C-T was a bit discouraging.
 
@@ -79,8 +59,7 @@ further than any of the ALEPHs.
 ## Naming Convention
 
 Many of the 2C compounds have their name based on the last letter of the
-amphetamine prototype: 2C-B from [[dob-compound-profile]], 2C-C from
-DOC, 2C-I from [[doi-compound-profile]], 2C-N from DON, etc. Since the
+amphetamine prototype: 2C-B from [[doi-compound-profile]], 2C-N from DON, etc. Since the
 original name for ALEPH-1 was DOT (desoxy- with a thiomethyl group at the
 4-position), the 2C-T naming followed this general pattern. The subsequent
 numbering of 2C-T compounds (2C-T-2, 2C-T-4, etc.) is assigned in strict
@@ -105,7 +84,6 @@ Both mono-ethoxy Tweetios of 2C-T have been synthesized and evaluated:
   (12-25 mg), longer-acting (6-8 h), and widely used in therapeutic settings
 - 2c-t-7-compound-profile|2C-T-7: The heptylthio homologue; one of the
   most potent 2C-T compounds (10-30 mg), 8-15 h duration
-- [[2c-d-pihkal-entry-23]]: The isopropylthio homologue; 8-20 mg, 12-18 h
 - [[aleph-7-pihkal-entry-7]]: The 3-carbon (amphetamine) homologue of
   2C-T, originally code-named DOT
 

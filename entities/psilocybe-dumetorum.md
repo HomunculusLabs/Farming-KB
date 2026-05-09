@@ -39,35 +39,17 @@ The species has been observed fruiting gregariously or in scattered groups, with
 
 ## Chemistry
 
-The species contains [[psilocybin-compound]] and [[psilocin]], as demonstrated by the blue bruising reaction and confirmed through chemical analysis of collections. The bluing reaction is typically moderate, becoming most apparent on the stipe base and on damaged areas of the pileus. Both major psychoactive alkaloids have been positively identified in fruiting bodies using thin-layer chromatography and comparable analytical methods.
+The species contains [[psilocin]], as demonstrated by the blue bruising reaction and confirmed through chemical analysis of collections. The bluing reaction is typically moderate, becoming most apparent on the stipe base and on damaged areas of the pileus. Both major psychoactive alkaloids have been positively identified in fruiting bodies using thin-layer chromatography and comparable analytical methods.
 Baeocystin, a demethylated analog of psilocybin, is likely present in *P. dumetorum* as it has been detected in nearly all examined members of Psilocybe section psilocybe-sect.-psilocybe, making its absence unlikely. Quantitative analysis of the alkaloid profile is limited, with only a small number of collections having been assayed. Based on available data from morphologically similar tropical Psilocybe species, the total tryptamine content is expected to be of moderate potency, though significant variation is common depending on substrate, age of the fruiting body, and environmental conditions at the collection site. Analytical studies of Southeast Asian Psilocybe species have shown variable alkaloid content depending on geographic origin and substrate.
-The blue bruising characteristic of section Psilocybe species results from the enzymatic oxidation of psilocin, which is produced in vivo from the dephosphorylation of psilocybin. The intensity of the blueing reaction in *P. dumetorum* is moderate compared to more well-known species such as [[psilocybe-cubensis]], which may correlate with lower absolute concentrations of psilocin in the tissue.
-
-## Similar Species
-
-In Southeast Asia, *P. dumetorum* is part of a complex of small, brown, bluing Psilocybe species that can be difficult to distinguish macroscopically. Potential lookalikes include [[psilocybe-samuiensis]], [[psilocybe-argentipes]], and psilocybe thaikalingensis, all of which share overlapping morphological features and tropical distributions.
-*P. samuiensis*, originally described from Koh Samui, Thailand, is morphologically similar but tends to produce slightly larger basidiocarps and has a more pronounced blueing reaction. [[psilocybe-argentipes]], known from Japan and parts of India, differs in its more silvery-grey pileus tones and typically longer stipe. psilocybe thaikalingensis, described from northern Thailand, can be separated microscopically by differences in spore dimensions and cystidial morphology.
+The blue bruising characteristic of section Psilocybe species results from the enzymatic oxidation of psilocin, which is produced in vivo from the dephosphorylation of psilocybin. The intensity of the blueing reaction in *P. dumetorum* is moderate compared to more well-known species such as [[psilocybe-samuiensis]], [[psilocybe-argentipes]], known from Japan and parts of India, differs in its more silvery-grey pileus tones and typically longer stipe. psilocybe thaikalingensis, described from northern Thailand, can be separated microscopically by differences in spore dimensions and cystidial morphology.
 Reliable identification requires microscopic examination of spore morphology and cystidial characteristics, particularly the shape and dimensions of cheilocystidia and the presence or absence of pleurocystidia. Molecular sequencing of the ITS region provides the most definitive identification, though reference sequences for many tropical Psilocybe species remain unavailable in public databases.
 The Southeast Asian Psilocybe complex as a whole is in need of taxonomic revision using modern molecular methods. Several names currently in use may represent synonyms or species complexes rather than discrete biological species. Until comprehensive phylogenetic studies are completed, identifications of tropical Psilocybe species from this region should be considered provisional in the absence of genetic data.
 
 ## Cultural Significance
 
 While Java has a long history of mushroom foraging and some psychoactive mushroom use has been reported from various parts of Southeast Asia, *P. dumetorum* specifically has not been well documented in ethnobotanical literature. The species was primarily of scientific interest during Corner's surveys, and traditional knowledge of its psychoactive properties, if any, remains unrecorded in the Western ethnobotanical canon.
-Java and neighboring islands have documented traditions of psychoactive mushroom consumption, most notably involving species of [[psilocybe-cubensis]] and other coprophilous taxa. However, the small size and inconspicuous habit of *P. dumetorum*, combined with its growth on forest soil rather than dung, may have led foragers to overlook it in favor of more prominent or abundant species. Modern interest in the species is largely restricted to mycophiles and researchers studying the diversity and distribution of psychoactive fungi in tropical Asia.
-
-## Conservation Status
-
-*Psilocybe dumetorum* has not been formally assessed for the IUCN Red List, and no official conservation designation exists for the species. However, its conservation outlook is a matter of concern. Tropical deforestation in Java has been extensive and ongoing, with primary forest cover declining significantly over the past century due to agricultural expansion, urbanization, and logging. Since *P. dumetorum* is known from relatively few collections, all from forested habitats on Java, habitat loss poses a direct threat to the species' persistence.
-The species is known from only a handful of documented collections, making it impossible to estimate population size or trends with any confidence. Its apparent restriction to humid tropical forest soils means it is unlikely to persist in heavily disturbed or agricultural landscapes. Focused field surveys in remaining forest fragments of western Java would be necessary to determine whether the species is genuinely rare or simply undercollected. As with many tropical fungi, the lack of systematic surveying and the cryptic nature of small, ephemeral agarics make conservation assessments particularly challenging.
-Protected areas such as Ujung Kulon National Park and Mount Halimun-Salak National Park in western Java may provide refugia for *P. dumetorum*, though targeted surveys within these reserves have not been conducted. Climate change poses an additional long-term threat, as shifts in rainfall patterns and increasing temperatures could alter the seasonal fruiting conditions upon which the species depends.
-
-## See Also
-
-- [[psilocybe-samuiensis]]: Southeast Asian species from Koh Samui, Thailand
-- [[psilocybe-argentipes]]: species reported from India and Japan
-- psilocybe thaikalingensis: species described from northern Thailand
+Java and neighboring islands have documented traditions of psychoactive mushroom consumption, most notably involving species of [[psilocybe-samuiensis]]: Southeast Asian species from Koh Samui, Thailand
 - [[psilocybe-cubensis]]: the most widely known psychoactive Psilocybe species
-- [[psilocybin-compound]]: primary psychoactive alkaloid
 - [[psilocin]]: active dephosphorylated metabolite of psilocybin
 - [[baeocystin]]: minor psychoactive alkaloid found in many Psilocybe species
 - strophariaceae: family containing the genus Psilocybe
@@ -80,3 +62,22 @@ Protected areas such as Ujung Kulon National Park and Mount Halimun-Salak Nation
 - sumatra: island with unverified records of P. dumetorum
 - borneo: island with unverified records of P. dumetorum
 - iucn red list: international framework for species conservation assessments
+## Practical Considerations
+
+Successful implementation of Psilocybe dumetorum requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

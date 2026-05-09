@@ -117,13 +117,8 @@ In forestry, management focuses on **stump removal, root raking, and species con
 
 ## See Also
 
-- [[armillaria-mellea]]
 - [[fomes-fomentarius]]
-- [[ganoderma-lucidum]]
 - [[inonotus-obliquus]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[mycoremediation]]
-- [[fungal-spore-mounting-and-preservation-techniques]]
 - [[decomposition]]
-- [[trametes-versicolor]]
 - [[grifola-frondosa]]

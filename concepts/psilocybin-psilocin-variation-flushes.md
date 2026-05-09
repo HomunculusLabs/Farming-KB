@@ -1,149 +1,135 @@
 ---
-title: Psilocybin and Psilocin Variation Across Flushes
-created: 2026-05-06
-tags: [psilocybin, psilocin, psilocybe-cubensis, alkaloids, mushroom-cultivation, hplc-analysis]
-type: concept
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - variation-of-psilocybin-and-psilocin-levels-bigwood-beug
+title: Psilocybin and Psilocin Variation Across Flushes of Psilocybe cubensis
+aliases: [Psilocybin flush variation, Psilocin accumulation in mushroom flushes, Bigwood Beug psilocybin study]
+tags: [psilocybin, psilocin, psilocybe-cubensis, mushroom-cultivation, flushes, alkaloid-variation, mycology]
+created: 2026-05-08
+source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 ---
 
 # Psilocybin and Psilocin Variation Across Flushes
 
-The alkaloid content of [[psilocybe-cubensis]] varies significantly across successive fruitings (flushes) from the same mycelial culture.
+The alkaloid content of cultivated *Psilocybe cubensis* varies significantly across successive fruitings (flushes) from the same mycelial culture.
 
-This finding, established by Jeremy Bigwood and Michael W. Beug at The Evergreen State College and published in the Journal of Ethnopharmacology in 1982, has important implications for both cultivation practices and dosage predictability for users.
+Psilocin shows a characteristic pattern of accumulation across flushes, while psilocybin levels fluctuate unpredictably without a consistent trend.
 
-The study was motivated by observations that large variations in alkaloid levels occurred not only between different collections of wild mushrooms but even within controlled laboratory cultures across successive fruitings.
+This finding, documented by Bigwood and Beug in 1982, has important implications for both cultivation practice and the predictability of entheogenic experiences with this widely cultivated mushroom species.
 
-## Key Findings
+## The Bigwood and Beug Study
 
-### Psilocybin Levels
+The landmark study by Jeremy Bigwood and Michael W. Beug at The Evergreen State College, published in the *Journal of Ethnopharmacology* in 1982, was the first systematic investigation of alkaloid variation across multiple flushes from a single controlled culture.
 
-[[psilocybin-compound]] levels showed no consistent upward or downward trend as fruiting progressed across multiple flushes from the same culture.
+The research addressed a practical question encountered during their broader investigation of psilocybin and psilocin biosynthesis: why do alkaloid levels seem to change from one fruiting to the next within the same culture?
 
-However, levels varied unpredictably by a factor of four among different minicultures grown under rigidly controlled conditions.
+The researchers cultivated a selected Amazonian strain of *Psilocybe cubensis* originating from a spore print collected near Pucallpa, Peru. They used a carefully controlled "miniculture" system adapted from earlier methods described by San Antonio (1971) and refined by Oss and Oeric (1976).
 
-**Miniculture 1** (six flushes): Psilocybin ranged from 4.8 mg/g dry weight (flush 4) to 13.3 mg/g (flush 3).
+This controlled system allowed repeated harvests from the same mycelial culture under standardized conditions, eliminating environmental variables that might otherwise confound the comparison of alkaloid levels across flushes.
 
-Values at flushes 1, 2, 5, and 6 were 8.3, 6.5, 5.2, and 6.8 mg/g respectively.
+## Cultivation Methodology
 
-**Miniculture 2** (five flushes): Psilocybin ranged from 3.7 mg/g (flush 4) to 7.0 mg/g (flush 2).
+The cultivation system used in the study was designed for controlled, reproducible fruiting of *Psilocybe cubensis* in a laboratory setting.
 
-Values at flushes 1, 3, and 5 were 5.1, 4.7, and 5.2 mg/g respectively.
+Wide-mouth half-pint jars (approximately 250 ml) were charged with 10 grams of rye grain and 15 ml of water, then autoclaved for sterilization. Under sterile conditions, each jar was inoculated with mycelium culture growing on agar.
 
-**Miniculture 3** (five flushes): Psilocybin ranged from 3.2 mg/g (flush 4) to 7.6 mg/g (flush 1).
+Every four days for a 28-day period, the jars were shaken to distribute the growing mycelium evenly across the grain surface, ensuring uniform colonization.
 
-Values at flushes 2, 3, and 5 were 6.2, 5.3, and 6.7 mg/g respectively.
+After 28 days, when the mycelium had fully colonized the grain substrate, the jars were opened and the grain was cased (covered with a layer approximately 2 cm deep) using a mixture of 2 parts peat, 1 part calcium carbonate, and 2 parts perlite and/or vermiculite.
 
-Importantly, psilocybin levels on the last flush were generally similar to those on the first flush, suggesting that mycelial age does not significantly degrade psilocybin production capacity.
+The minicultures were watered once every two days with 1 ml of sterile water delivered via syringe to maintain optimal moisture levels for fruiting.
 
-### Psilocin Levels
+The first flush (fruiting) occurred four to five weeks after initial inoculation, approximately two weeks after the casing layer was applied. The cultures continued producing mushrooms for at least 20 weeks provided they remained uncontaminated.
 
-[[psilocin]] followed a markedly different and more predictable pattern.
+Each miniculture yielded an average of 2.7 grams dry weight of mushrooms over its productive lifetime.
 
-It was generally absent or near-zero in the first one or two flushes, reached maximum concentration by the fourth flush, and then appeared to begin declining.
+Each flush was harvested as soon as the sporocarps (mushroom fruiting bodies) reached maturity. The mushrooms were immediately freeze-dried, sealed in plastic bags, and stored at -5°C until analysis.
 
-This temporal pattern suggests a biosynthetic pathway where psilocin accumulation requires sustained mycelial metabolism over multiple fruiting cycles.
+Voucher specimens were prepared for deposit in the University of Washington Herbarium (WTU) to ensure taxonomic verification and scientific reproducibility.
 
-**Miniculture 1**: Psilocin was 0.5 mg/g at flush 1, rose to 2.6 mg/g at flush 4, then dropped to 0.5 mg/g at flush 6.
+## Analytical Methods
 
-**Miniculture 2**: Psilocin was 0 at flushes 1 and 2, rose to 2.9 mg/g at flush 4, then 2.2 mg/g at flush 5.
+The extraction procedure and analysis followed methods described in the authors' previous paper on psilocybin and psilocin levels in Pacific Northwest mushroom species.
 
-**Miniculture 3**: Psilocin was 0 at flushes 1 and 2, rose to 1.8 mg/g at flush 4, then 1.7 mg/g at flush 5.
+Reversed-phase high performance liquid chromatography (HPLC) was used for quantification, with a Hewlett-Packard 8380A reporting integrator-plotter recording the chromatographic data.
 
-The maximum observed psilocin levels (2.6-2.9 mg/g) were still consistently lower than psilocybin levels at any given flush.
+The system was calibrated against standards from the National Institute on Drug Abuse (NIDA), providing traceability to a recognized reference standard.
 
-### Psilocybin to Psilocin Ratio
+The researchers found a linear relationship with approximately 10% repeatability between concentration and peak area over the range of 0.2 to 3 μg of total psilocybin or psilocin.
 
-Psilocybin was nearly always at least twice the level of psilocin in any given sample.
+The detection limit was approximately 0.01 μg for either compound, providing sufficient sensitivity to detect even trace amounts of psilocin in early-flush samples.
 
-This ratio held across multiple strains, flushes, and cultivation conditions, indicating a stable biosynthetic relationship between the two compounds.
+HPLC results were qualitatively confirmed by thin-layer chromatography (TLC) using a butanol-acetic acid-water (12:3:5) solvent system, providing an independent verification of the chromatographic identification and quantification.
 
-The consistent ratio suggests that psilocin may be a downstream metabolite of psilocybin or that both share a common precursor with differential regulation over time.
+## Key Findings: Psilocybin
 
-## Cultivation Method
+Psilocybin levels showed considerable variability from one flush to the next but did not follow a consistent upward or downward trend across the fruiting cycle.
 
-The study employed a controlled "miniculture" technique adapted from the methods of San Antonio (1971) and Oss and Oeric (1976).
+In the three minicultures studied, psilocybin concentrations ranged from approximately 3.2 to 13.3 mg/g dry weight across all flushes. This represents a variation of approximately a factor of four even under rigidly controlled conditions.
 
-The strain originated from a spore print collected in the Amazon basin near Pucallpa, Peru by Repke et al. (1977).
+Critically, psilocybin levels in the last flush were generally similar to those in the first flush. This suggests that the mycelium does not progressively deplete its capacity to produce psilocybin as fruiting continues over time.
 
-Mycelium from the spore print was maintained as a stock culture on various agars.
+The variation between flushes from the same culture was substantial despite identical growing conditions, substrate composition, and environmental parameters. The source of this variability remains unclear but may relate to subtle changes in mycelial metabolism, microclimate variation within the miniculture, or stochastic elements of the biosynthetic pathway.
 
-Since only one flush could be obtained from agar plates, a rye-grain medium was used.
+This unpredictability means that cultivators cannot assume any consistent relationship between flush number and psilocybin potency. A fifth-flush mushroom may be significantly more or less potent than a first-flush mushroom from the same culture.
 
-A wide-mouth half-pint jar of approximately 250 mL was charged with 10 g of rye grain and 15 mL of water and autoclaved.
+## Key Findings: Psilocin
 
-It was then inoculated under sterile conditions with mycelium culture on agar.
+Psilocin showed a markedly different and more consistent pattern across flushes compared to psilocybin.
 
-Every four days for a period of 28 days, the jars were shaken to distribute the growing mycelium evenly on the grain.
+In most cultures, psilocin was absent or present only in trace amounts in the first flush. In some cultures, psilocin was also absent in the second flush, appearing only from the third flush onward.
 
-In 28 days the mycelium had covered the grain and the jars were opened and cased with a layer about 2 cm deep of 2 parts peat, 1 part calcium carbonate, and 2 parts perlite and/or vermiculite.
+Psilocin levels then increased progressively, reaching a maximum by approximately the fourth flush. After peaking, psilocin levels appeared to begin declining.
 
-The mushrooms were watered once every two days with 1 mL of sterile water via syringe.
+The researchers could generally not follow this decline beyond five flushes because the mycelium typically stopped fruiting after that point. In one culture (Miniculture No. 1), a sixth flush was obtained showing a clear decline from the peak psilocin levels seen in earlier flushes.
 
-The first flush occurred four to five weeks after inoculation, approximately two weeks after casing.
-
-The minicultures continued to produce mushrooms for at least 20 weeks provided they remained uncontaminated.
-
-Five flushes is normally the maximum obtainable before the mycelium stops fruiting.
-
-Yield averaged 2.7 g dry weight per miniculture per flush.
-
-Each flush was harvested as soon as the sporocarps were mature.
-
-The mushrooms were immediately freeze-dried, sealed in plastic, and stored at minus 5 degrees Celsius until analysis.
-
-Voucher specimens were prepared for deposit in the University of Washington Herbarium (WTU).
+This pattern suggests that psilocin accumulation is related to the maturation or aging of the mycelial culture. Possible mechanisms include changes in enzymatic activity over time, progressive accumulation of psilocin as a metabolic byproduct, or age-dependent shifts in the relative rates of biosynthesis for each compound.
 
 ## Cap vs. Stem Distribution
 
-Analysis of cap and stem tissues separately in three different strains revealed important distribution patterns.
+Analysis of cap and stem tissue separately in three different strains revealed interesting patterns of alkaloid distribution between anatomical parts of the mushroom.
 
-**M.R. strain** (first flush): Caps contained 6.7 mg/g psilocybin with 0 psilocin.
+In the M.R. strain and the Ecuadorian strain, caps generally contained approximately twice as much psilocybin as stems. The small amount of psilocin present in these strains was found entirely in the stems, not in the caps.
 
-Stems contained 4.2 mg/g psilocybin and 0.35 mg/g psilocin.
+The Amazon strain showed a different distribution pattern: caps and stems contained equal amounts of psilocybin, with only a trace of psilocin detected in the cap and none in the stem.
 
-**Equadorian strain** (first flush): Caps contained 7.6 mg/g psilocybin with 0 psilocin.
-
-Stems contained 4.7 mg/g psilocybin and 0.4 mg/g psilocin.
-
-**Amazon strain** (first flush): Caps contained 5.7 mg/g psilocybin with 0.1 mg/g psilocin.
-
-Stems contained 5.7 mg/g psilocybin with 0 psilocin.
-
-Caps generally contained approximately twice as much psilocybin as stems across the M.R. and Equadorian strains.
-
-The Amazon strain showed equal psilocybin distribution between cap and stem.
-
-The small amount of psilocin present in the first flush was found primarily in stems of the M.R. and Equadorian strains.
-
-This strain-dependent distribution pattern suggests genetic variation in alkaloid localization within fruiting bodies.
+These strain-specific differences in alkaloid distribution between anatomical parts suggest genetic variation in the enzymatic machinery responsible for alkaloid biosynthesis, transport, and localization within the fruiting body.
 
 ## Street Sample Variability
 
-Five street samples of [[psilocybe-cubensis]] (all cultivated on rye-grain substrate) showed highly variable potency.
+The study also analyzed five dried street samples of *Psilocybe cubensis* of unknown flush number and growing conditions, obtained from commercial sources.
 
-Sample 1 contained 5.6 mg/g psilocybin with 0 psilocin.
+These samples showed highly variable psilocybin levels ranging from 0.7 to 6.2 mg/g dry weight — a nearly tenfold variation between the weakest and strongest samples.
 
-Sample 2 contained 6.2 mg/g psilocybin with 0 psilocin.
+Psilocin levels in the street samples were consistently low or undetectable. This is consistent with the known instability of psilocin, which degrades more readily than psilocybin during drying and storage.
 
-Samples 3 and 4 each contained only 0.7 mg/g psilocybin with 0.3 mg/g psilocin.
+Street samples that are air-dried rather than freeze-dried and stored under uncontrolled conditions would be expected to show significantly reduced psilocin levels regardless of their original potency at harvest.
 
-Sample 5 contained 1.3 mg/g psilocybin with 0.3 mg/g psilocin.
+The tenfold variation in psilocybin levels among street samples highlights the fundamental unpredictability of dosage when consuming mushrooms of unknown provenance, growing conditions, and flush number.
 
-Street samples varied by over tenfold in psilocybin content, with consistently low psilocin levels.
+## Implications for Users and Cultivators
+
+The findings of this study have direct practical implications for both cultivators and consumers of *Psilocybe cubensis*.
+
+The large variation in alkaloid levels — a factor of four among controlled cultures and tenfold among street samples — means that users have no reliable way to predict the potency of a given sample based on appearance, weight, or source alone.
+
+The progressive accumulation of psilocin in later flushes suggests that cultivators seeking maximum total alkaloid content might preferentially harvest later flushes. However, the unpredictable nature of psilocybin variation means that overall potency remains difficult to control.
+
+The study's authors concluded that variations in the subjective experience stem not only from set and setting but also from "very real" dosage differences between samples. This underscores the importance of starting with low doses when consuming mushrooms from unfamiliar sources.
+
+## Biosynthetic Considerations
+
+Psilocin (4-hydroxy-N,N-dimethyltryptamine) is the dephosphorylated, pharmacologically active form. Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) serves as a stable phosphate prodrug converted to psilocin in the body by alkaline phosphatase enzymes.
+
+The progressive accumulation of psilocin in later flushes may indicate a shift in the mycelium's enzymatic activity over time, with increasing phosphatase activity converting stored psilocybin to psilocin, or changes in relative biosynthesis rates for each compound.
+
 ## See Also
 
-- [[psilocybin-compound]]
+- [[psilocybin]]
+- [[mushroom-cultivation-methods]]
 
-- [[psilocin]]
+## References
 
-- [[psilocybe-cubensis]]
+- Bigwood, J. and Beug, M.W. "Variation of Psilocybin and Psilocin Levels with Repeated Flushes." *Journal of Ethnopharmacology*, 5 (1982): 287–291.
+- Beug, M.W. and Bigwood, J. "Psilocybin and Psilocin Levels in Twenty Species." *Journal of Ethnopharmacology*, 5 (1982): 271–285.
 
-- [[mushroom-cultivation]]
+## See Also
 
-- [[alkaloid-biosynthesis]]
-
-- [[hplc-analysis]]
+- [[psilocybin-psilocin-variation-flushes-cubensis]]

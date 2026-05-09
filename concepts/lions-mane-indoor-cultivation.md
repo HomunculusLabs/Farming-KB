@@ -93,10 +93,7 @@ Chen (1992) reported that studies at the Third People's Hospital of Shanghai sho
 
 Cut the mushrooms transverse to the spines into dials and cook at high heat in canola oil until the moisture has been reduced and the dials are light golden brown. Garlic, onions, and almonds also go well with this mushroom. The addition of a small amount of butter near the end of the cooking cycle brings out the lobster flavor.
 
-See also: [[enoki-cultivation]], [[king-oyster-cultivation]], [[maitake-cultivation]], [[shiitake-cultivation-log-method]], [[mushroom-cultivation-bulk-substrates]], [[mushroom-post-harvest-handling]], [[grain-spawn-types-and-preparation]]
-
-*Source: Stamets, P. "Growing Gourmet and Medicinal Mushrooms" -- Hericium erinaceus growth parameters (pp. 387-394)*
-- [[gourmet-mushroom-enriched-sawdust-cultivation]]
+See also: [[king-oyster-cultivation]], [[shiitake-cultivation-log-method]], [[mushroom-post-harvest-handling]], [[gourmet-mushroom-enriched-sawdust-cultivation]]
 
 ## See Also
 

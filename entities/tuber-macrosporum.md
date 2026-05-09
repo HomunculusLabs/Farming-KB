@@ -110,12 +110,8 @@ Ex situ conservation through managed plantations offers a potential safeguard, t
 
 ## See Also
 
-- [[tuber-aestivum]]
 - [[tuber-borchii]]
-- [[tuber-melanosporum]]
 - [[boletus-edulis-entity]]
-- [[cantharellus-cibarius-entity]]
 - [[suillus-luteus]]
-- [[tricholoma-matsutake]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]
 - [[hericium-erinaceus]]

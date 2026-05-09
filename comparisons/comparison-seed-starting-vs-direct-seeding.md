@@ -13,44 +13,6 @@ vigor, season extension, labor, and cost. Steve Solomon's *Gardening When It Cou
 provides the primary reference for both methods, arguing that most gardeners over-rely
 on transplants when direct seeding would produce stronger plants.
 ## Seed Starting Indoors
-[[seed-starting-indoors]]
-Raising vegetable transplants indoors under controlled conditions, especially valuable
-for heat-loving crops in shorter-season climates. Solomon's approach emphasizes
-simplicity and avoids expensive equipment.
-### Equipment and Setup
-- **Containers:** Half-pint containers; newspaper pots are plantable directly into the
-  soil, eliminating root disturbance at transplant time.
-- **Germination cabinet:** A DIY lightbulb-heated box maintaining 80°F/27°C, providing
-  consistent warmth for reliable germination of warm-season crops.
-- **Moisture retention:** Sealed plastic bags placed over pots during germination to
-  maintain high humidity without daily watering.
-- **Lighting:** Once seedlings emerge, strong light is essential to prevent leggy,
-  weak-stemmed growth. Solomon prefers a bright windowsill supplemented with
-  reflected light over expensive grow-light setups.
-### Key Practices
-- **Sowing density:** Plant 2-3 seeds per pot to ensure at least one vigorous seedling.
-- **Progressive thinning:** Thin to the strongest seedling after emergence; do not
-  leave multiple seedlings competing in a small container.
-- **Fertilization:** Minimal before the first true leaf appears. Solomon stresses
-  restraint; over-fertilization of young seedlings produces lush but fragile growth.
-- **Hardening off:** Gradual exposure to outdoor conditions (sun, wind, temperature
-  fluctuations) over 7-10 days before transplanting to prevent shock.
-- **"Mud slurry" transplanting:** Liquid fertilizer mixed into the planting hole at
-  transplant time supports rapid root establishment in the garden bed.
-### Advantages
-- Essential for achieving ripe fruit from tomatoes, peppers, and eggplant in
-  short-season areas where the frost-free period is insufficient for direct seeding.
-- Avoids problems common with commercial transplants: root-bound containers,
-  over-fertilized growth, limited variety selection, and disease introduction.
-- Complete variety control; grow any cultivar from any seed supplier.
-- Extends the effective growing season by several weeks in marginal climates.
-### Disadvantages
-- Requires dedicated indoor space and equipment (heat source, containers, lighting).
-- Demands daily attention to watering, thinning, temperature management, and lighting.
-- Damping-off risk from high humidity during the germination phase.
-- Only economically and practically justified for crops that genuinely need a head
-  start; Solomon warns against starting crops indoors that would do fine direct-seeded.
-## Direct Seeding
 [[direct-seeding-techniques]]
 Sowing seeds directly in the garden where they will grow to maturity. Solomon argues
 this produces healthier, hardier plants than transplants for most crops, and should
@@ -128,10 +90,6 @@ The most practical strategy for most home gardeners combines both methods:
   are favorable, avoiding the temptation to plant too early.
 ## See Also
 
-- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
-
 - [[seed-starting-methods-comparison]]
-- [[solomon-seed-starting-transplanting]]
 - [[seed-starting-indoors-solomon]]
-- [[seed-germination-techniques-solomon]]
 - [[transplanting-techniques-solomon]]

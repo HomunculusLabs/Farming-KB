@@ -77,32 +77,15 @@ Mother plants are a common source of spider mite infestations. Spray mother plan
 
 Predatory mites are the most effective long-term biological control:
 
-- [[gaias-garden-host-plants-beneficial-insects]] and [[gaias-garden-host-plants-beneficial-insects]] are the two most common and effective predators
-- [[gaias-garden-host-plants-beneficial-insects]], [[gaias-garden-host-plants-beneficial-insects]], [[gaias-garden-host-plants-beneficial-insects]], and [[gaias-garden-host-plants-beneficial-insects]] are also available commercially
+- [[gaias-garden-host-plants-beneficial-insects]] are the two most common and effective predators
+- [[gaias-garden-host-plants-beneficial-insects]], [[gaias-garden-host-plants-beneficial-insects]] are also available commercially
 
 Key considerations for predator use:
 
 - Average predator can eat 20 eggs or 5 adults daily
 - General dosage: 20 predators per plant
 - Predatory mites have difficulty traveling between plants — release on each plant individually
-- Release predators as soon as spider mites are seen on [[cannabis-vegetative-growth-stage]], and repeat monthly
-- Rinse all plants thoroughly before release to remove toxic spray residues
-- Works best preventatively when only a few spider mites are present
-- The fungus Hirsutella thompsonii (trade name Mycarid) also kills spider mites
-
-When properly applied and reared, predatory mites work very well. However, once spider mites have infested a garden heavily, predatory mites cannot eat them fast enough to solve the problem alone. Temperature and humidity levels must be at proper levels to give predators the best chance to thrive.
-
-## Organic Controls
-
-**Homemade deterrents** (repel rather than kill):
-
-- Dr. Bronner's Soap, garlic, hot pepper, citrus oil, and liquid seaweed combinations
-- Apply 4-5 times; if mites persist after that, switch to stronger controls
-
-**Stronger organic sprays:**
-
-- Neem oil — very effective against spider mites, works as both contact miticide and repellent
-- [[permaculture-pyrethrum-daisy]] (aerosol) — the best natural miticide; apply 2-3 times at 5-10 day intervals
+- Release predators as soon as spider mites are seen on [[permaculture-pyrethrum-daisy]] (aerosol) — the best natural miticide; apply 2-3 times at 5-10 day intervals
 - Horticultural oil — smothers eggs; can be mixed with pyrethrum
 - Insecticidal soap — 2-3 applications at 5-10 day intervals
 - Cinnamaldehyde (extracted from cinnamon) — kills mites on contact
@@ -142,8 +125,6 @@ Prevention is the most important first step in spider mite control:
 
 ## See Also
 
-- [[cannabis-pest-management-guide]] — comprehensive IPM overview
 - [[gaias-garden-host-plants-beneficial-insects]] — predator and parasite options
-- [[powdery-mildew-cannabis]] — common concurrent fungal problem
 - [[cannabis-disease-guide]] — broader disease reference
 - thrips-cannabis|Thrips — another common cannabis pest with similar damage patterns

@@ -1,13 +1,16 @@
 ---
-title: Passionflower Growingpassiflora-incarnata-04-12
-created: 2026-04-28
+title: Passionflower Growing Guide
+created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, pollinators, permaculture, ethnobotany]
 sources: []
 ---
+
 # Passionflower Growing Guide (Passiflora incarnata)
+
 ## Overview
+
 Passionflower (also called maypop, wild passion vine, or passion vine) is a
 fast-growing perennial vine native to the southeastern United States and
 Central America. Named by Spanish missionaries in the 16th century who saw
@@ -16,7 +19,9 @@ structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
 pain reliever. Passiflora incarnata is the primary species used medicinally
 in North American and European herbal practice.
+
 ## Botanical Profile
+
 - Scientific name: Passiflora incarnata
 - Family: Passifloraceae
 - Hardiness: USDA zones 5-9
@@ -24,15 +29,20 @@ in North American and European herbal practice.
 - Growth habit: Vigorous climbing/trailing vine, 10-25 feet
 - Bloom period: July to September
 - Fruit: Edible egg-shaped fruits (maypops), August to October
+
 The spectacular flowers are 2-3 inches across with a fringe of filaments,
 five stamens, and three styles -- one of the most distinctive flowers in
-the [[harmala-alkaloids]]e vine dies back to the ground each winter in most of
+the plant kingdom. The vine dies back to the ground each winter in most of
 its range and regrows vigorously from the root system in spring.
+
 ## Medicinal Uses
+
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
 harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
 compounds that produce its calming effects.
+
 Key medicinal applications:
+
 - Insomnia: One of the most reliable herbal sleep aids. Clinical studies
   show passionflower improves sleep quality and reduces sleep onset time,
   comparable to some pharmaceutical sedatives but without next-day
@@ -48,6 +58,7 @@ Key medicinal applications:
   opiate withdrawal symptoms, particularly anxiety and insomnia.
 - ADHD: Limited evidence suggests potential benefits for attention and
   hyperactivity in children.
+
 Preparation methods:
 - Tea: Steep 1-2 teaspoons dried herb (leaves and flowers) in 8 oz hot
   water, covered, for 10-15 minutes. Drink 30-60 minutes before bed.
@@ -58,13 +69,16 @@ Preparation methods:
   individuals.
 - Combined formulas: Pairs well with valerian, lemon balm, chamomile, and
   skullcap for enhanced sedative effect.
+
 Safety notes: Passionflower is generally very safe, even for long-term use.
 Mild side effects may include drowsiness, dizziness, or GI upset. Do not
 combine with prescription sedatives, MAO inhibitors, or blood thinners
 without medical supervision. Avoid during pregnancy (theoretically uterine-
 stimulating due to harmane alkaloids, though risk is low). Safe for
 children at appropriate doses.
+
 ## Vine Cultivation
+
 ### Climate and Site Requirements
 Passionflower is surprisingly cold-hardy for a tropical-looking vine:
 - Temperature: Thrives in heat; root system survives winters to -20 degrees F
@@ -78,7 +92,9 @@ Passionflower is surprisingly cold-hardy for a tropical-looking vine:
 - Support: Needs a trellis, fence, arbor, or other structure to climb
 - Spread: Underground runners can extend several feet; plant where spread
   is acceptable
+
 ### Propagation
+
 From seed:
 - Seeds have hard seed coats and benefit from scarification
 - Rub seeds lightly with sandpaper or nick with a knife
@@ -88,12 +104,15 @@ From seed:
 - Germination: 30-90 days (can be very slow)
 - Start indoors 10-12 weeks before last frost
 - Keep warm (75-85 degrees F) and consistently moist
+
 From cuttings (easiest method):
 - Softwood cuttings in early summer root readily
+
 From layering:
 - Long runners can be layered by pinning a node to the ground
 - Cover with soil; roots form at the buried node
 - Separate from parent plant once well-rooted
+
 ### Planting
 - Transplant seedlings or rooted cuttings after all danger of frost
 - Space plants 3-5 feet apart at the base of their support structure
@@ -102,6 +121,7 @@ From layering:
 - Provide a sturdy trellis, fence, or arbor at planting time
 - Water well after planting; keep consistently moist until established
 - Mulch 3-4 inches deep to retain moisture and suppress weeds
+
 ### Care and Maintenance
 - Water regularly during the first growing season
 - Once established, water during dry periods (1 inch per week)
@@ -116,7 +136,9 @@ From layering:
   - Removing unwanted runners in spring
   - Deadheading flowers if you do not want fruit/seeds
   - Containing in large pots or raised beds with root barriers
+
 ## Pollinator Plant
+
 Passionflower is an excellent pollinator plant:
 - The complex flowers are pollinated primarily by large bees (carpenter
   bees, bumblebees) and some butterfly species
@@ -124,25 +146,32 @@ Passionflower is an excellent pollinator plant:
   most notably the Gulf fritillary (Agraulis vanillae), variegated fritillary,
   and zebra longwing
 ## Harvesting
+
 Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry
 mornings. Cut vines 6-12 inches above ground; the plant will regrow. For
-fresh tincture, process immneemtely into 50-60% alcohol (1:2 ratio) and
+fresh tincture, process immediately into 50-60% alcohol (1:2 ratio) and
 macerate 4-6 weeks. For drying, spread on screens at 90-100 degrees F;
 store dried herb in airtight containers for up to 2 years.
+
 ## Common Issues
+
 - Japanese beetles: Handpick or use neem
 - Caterpillars: Butterfly larvae; a feature for butterfly gardeners
 - Root rot: Prevent with well-drained soil
 - Spider mites: Increase humidity in hot, dry conditions
+
 ## Yields
+
 An established vine produces 2-4 lbs fresh herb per year (approximately
 0.5-1 lb dried), plus edible fruit if flowers are not all harvested.
+
 ## See Also
 
-- [[passionflower-passiflora]]
 - [[valerian-growing-guide]] -- the classic combination with passionflower
   for sleep and relaxation formulas
 - [[yarrow-plant-guide]] -- pair with passionflower in nervine tea blends
   for daytime anxiety support
+
 ## Related
+
 - [[st-johns-wort-guide]]

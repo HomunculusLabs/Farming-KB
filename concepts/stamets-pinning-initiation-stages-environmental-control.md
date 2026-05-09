@@ -56,17 +56,7 @@ allowing diffusion of metabolic gases.
 
 ## Stage II: Environmental Transition
 
-[[pinhead-initiation-techniques]] should begin when the mycelium reaches the
-valleys of the casing surface. Within this one to two day period:
-
-1. Substrate and air temperatures are lowered to the fruiting range.
-2. The humidity is maintained at the 95% level.
-3. Carbon dioxide content is reduced by introducing fresh air.
-4. The room is lighted on a 12 hour on/off cycle.
-
-The temperature "shock" is accomplished by ventilation with a large volume of
-cool fresh air, lowering the room temperature below the optimum for spawn
-running. For [[agaricus-brunnescens]], this means dropping air temperature from
+[[agaricus-brunnescens]], this means dropping air temperature from
 70 degrees F to 64 degrees F. Within 48 hours, the substrate temperature should
 fall to fruiting temperatures, effectively slowing vegetative growth.
 
@@ -141,10 +131,7 @@ relationships include:
 
 - Pins that form early delay growth of neighboring primordia. Removing these
   "volunteers" before they develop is advantageous to the main flush.
-
 ## See Also
 
-- [[stamets-fruiting-strategies-and-primordia-formation]]
 - [[stamets-casing-layer-design]]
-- [[stamets-growing-room-air-circulation-co2-management]]
 - [[stamets-crop-watering-flushing-management]]

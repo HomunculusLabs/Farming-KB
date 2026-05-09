@@ -11,42 +11,10 @@ type: concept
 
 # Recovery and Grazing Periods
 
-In [[savory-holistic-resource-management-animal-impact]],
-the relationship between grazing periods and recovery periods is one of the
-most fundamental yet commonly overlooked aspects of [[savory-livestock-grazing-planning]]. Savory demonstrates that these two
+In [[savory-livestock-grazing-planning]]. Savory demonstrates that these two
 periods are inextricably linked: any change to one inevitably affects the
 other, and failing to understand this linkage is a primary cause of both
-[[savory-holistic-resource-management-overgrazing]] and land deterioration.
-
-## The Inseparable Link
-
-Where grazing times are regulated by moving animals from one division of
-land to another until a whole area is covered, longer recovery periods
-require longer grazing periods. The dynamics of this relationship are
-simple but easy to overlook.
-
-Consider land divided into six paddocks grazed by livestock, with animals
-grazing in each for four days. From the time they leave a paddock until
-they return takes twenty days (four days in each of five other paddocks).
-Each paddock receives four days of grazing and twenty days of recovery.
-
-If a severely grazed plant needs forty days to recover, twenty more days
-must be added somewhere in the other five paddocks. Herein lies the rub:
-any change in recovery time in one paddock will change the grazing times
-in many paddocks that follow.
-
-## The Key Axiom
-
-As long as a herd of livestock remains on the land and moves through a
-series of subdivisions, the grazing periods will be inextricably linked to
-the recovery periods. This means that maintaining adequate recovery periods
-requires forward planning and discipline, because they must be built up or
-reduced through shortening or lengthening grazing periods in several or all
-paddocks.
-
-Conversely, grazing periods can be changed on impulse by simply opening a
-gate, but such changes have a cumulative effect on recovery periods. An
-error in either direction can cause [[savory-grazing-mechanics-and-root-sacrifice]], which happens when animals bite off a regrowing plant before it
+[[savory-grazing-mechanics-and-root-sacrifice]], which happens when animals bite off a regrowing plant before it
 has restored its sacrificed roots.
 
 ## Planning Rule
@@ -104,15 +72,14 @@ they have translocated energy to stem bases and roots.
 
 The planning process must account for these variations by adjusting either
 the number of paddocks in use or the speed of moves through them. This is
-where the [[savory-testing-and-management-guidelines]]
-become essential tools for maintaining healthy [[savory-ecosystem-foundation-blocks]].
+where the [[savory-ecosystem-foundation-blocks]].
 
 ## Impact on Ecosystem Processes
 
 Properly managed recovery and grazing periods directly support all four
 ecosystem foundation blocks. Adequate recovery allows plants to rebuild
-root systems, which improves the [[savory-water-cycle-management]] through better infiltration and the [[savory-mineral-cycle-management]] through root turnover. Short grazing periods
-prevent overgrazing and maintain plant vigor, supporting [[savory-energy-flow-and-solar-capture]]. Together they advance [[savory-plant-succession-and-community-dynamics]] toward more complex,
+root systems, which improves the [[savory-mineral-cycle-management]] through root turnover. Short grazing periods
+prevent overgrazing and maintain plant vigor, supporting [[savory-plant-succession-and-community-dynamics]] toward more complex,
 stable communities.
 
 ## Common Mistakes
@@ -125,7 +92,5 @@ paddock adds a day of recovery to all remaining paddocks.
 
 ## See Also
 
-- [[savory-stock-density-vs-stocking-rate]]
 - [[savory-animal-impact-and-herd-effect]]
-- [[savory-overgrazing-vs-overrest]]
 - [[savory-rest-as-management-tool]]

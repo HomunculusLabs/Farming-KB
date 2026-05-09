@@ -125,8 +125,6 @@ molecular-weight distribution analysis.
 
 ## See Also
 
-- [[singh-fungal-lignin-degradation-pulp-effluents]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-immobilization-bioreactor-technology]]
 - [[singh-fungal-metabolism-phenols-chlorophenols]]
 - [[biobleaching-of-pulp-by-white-rot-fungi]]

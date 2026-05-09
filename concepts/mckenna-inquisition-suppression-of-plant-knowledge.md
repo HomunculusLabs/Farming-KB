@@ -94,7 +94,7 @@ independent visionary experience possible.
 McKenna draws explicit parallels between the Inquisition's suppression
 of plant knowledge and modern drug prohibition, arguing that both serve
 to maintain institutional control over consciousness. The suppression
-of plant knowledge about [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] and [[schultes-ergot-st-anthonys-fire]] represents an
+of plant knowledge about [[schultes-ergot-st-anthonys-fire]] represents an
 early chapter in what McKenna sees as a continuous campaign by
 dominator culture against the vegetable mind and the Gaian consciousness
 it mediates. Understanding this history is, in his view, essential to
@@ -133,7 +133,5 @@ framework, not coincidental but structural to dominator culture.
 
 ## See Also
 
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 - [[mckenna-ergot-and-witches-sabbath-theory]]
-- [[solanaceous-hallucinogens-of-medieval-european-witchcraft]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]

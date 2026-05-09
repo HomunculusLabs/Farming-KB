@@ -105,16 +105,10 @@ Tetraspores develop into new gametophytes, completing the cycle. All three phase
 ## See Also
 
 - [[chondrus-crispus]]
-- [[gracilaria-verrucosa]]
 - [[kappaphycus-alvarezii]]
-- [[eucheuma-denticulatum]]
 - [[pyropia-yezoensis]]
-- [[porphyra-umbilicalis]]
 - [[ulva-lactuca]]
-- [[palmaria-palmata]]
 - [[undaria-pinnatifida]]
-- [[saccharina-latissima]]
 - [[laminaria-digitata]]
-- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
 - [[agar]]

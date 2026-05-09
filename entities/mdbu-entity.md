@@ -9,15 +9,7 @@ sources:
 ---
 # MDBU (N-Butyl-MDA; 3,4-Methylenedioxy-N-butylamphetamine)
 
-MDBU is a substituted amphetamine compound and the N-butyl derivative of [[mda]]. It represents the exploration of longer N-alkyl chain substitutions on the MDA skeleton. The compound is listed as PIHKAL entry #102.
-
-## Chemical Classification
-
-MDBU belongs to the amphetamine class of chemical compounds.
-
-It is formally named 3,4-methylenedioxy-N-butylamphetamine.
-
-It is the N-butyl homologue of [[mda]], with a four-carbon butyl chain replacing the hydrogen on the nitrogen atom.
+MDBU is a substituted amphetamine compound and the N-butyl derivative of [[mda]], with a four-carbon butyl chain replacing the hydrogen on the nitrogen atom.
 
 MDBU was synthesized as part of the systematic exploration of N-alkyl chain length on the MDA scaffold.
 
@@ -77,37 +69,13 @@ The reaction with simple ammonia (as ammonium acetate) gives consistently poor y
 
 ## Relationship to Other N-Substituted MDA Compounds
 
-[[mda]] has N-H and is fully psychedelic.
-
-[[mdma-entity]] has N-methyl and is a potent entactogen.
-
-[[mde-entity]] has N-ethyl and is also active.
+[[mdma]] has N-methyl and is a potent entactogen.
 
 [[mdal-entity]] has N-allyl and is inactive, and appears to antagonize LSD.
 
-[[mdpr-entity]] has N-propyl and is inactive alone but enhances LSD.
-
-MDBU has N-butyl and is inactive.
-
-The progression from active to inactive occurs somewhere between the ethyl and propyl chain lengths.
-
-## Dosage and Duration
-
-Dosage: Greater than 40 mg (no central effects observed).
-
-Duration: Unknown.
-
-The compound is considered inactive.
-
-## See Also
-
 [[mda]]
 
-[[mdma-entity]]
-
 [[mde-entity]]
-
-[[mdal-entity]]
 
 [[mdpr-entity]]
 

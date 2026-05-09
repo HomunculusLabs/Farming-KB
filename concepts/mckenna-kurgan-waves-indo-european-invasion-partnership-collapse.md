@@ -125,10 +125,6 @@ The medieval Church conducted the great witch burnings to suppress all knowledge
 
 ## See Also
 
-- [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[amanita-herb-indo-european-origins]]
-- [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-archaic-sexuality-and-partnership-society]]
-- [[mckenna-fall-of-partnership-society]]
-
 - [[terence-mckenna]]

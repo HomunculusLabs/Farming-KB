@@ -23,9 +23,9 @@ sources:
 
 ## Overview
 
-Cereal Milk is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Cookies Fam
-Genetics, crossing **Y-Life** (Girthin-mint-cookies]] Cherry Pie) with
-**Snowman** (a selected [[thin-mint-cookies]] phenotype). Released in the
+Cereal Milk is a balanced  strain bred by Cookies Fam
+Genetics, crossing **Y-Life** (Girthin-mint-cookies Cherry Pie) with
+**Snowman** (a selected  phenotype). Released in the
 late 2010s, it gained commercial popularity for its unique flavor
 profile combining sweet, creamy dessert notes with a subtle fruity
 cereal-like quality.
@@ -38,12 +38,8 @@ recreational and therapeutic use.
 
 **Parent Cross:** Y-Life × Snowman
 
-- **Y-Life:** [[girl-scout-cookies]] × Cherry Pie
-- **Snowman:** Thin Mint Cookies (selected phenotype)
-
-The genetic foundation is heavily Cookies-dominant, inheriting dense
-bud structure, resinous trichome production, and complex terpene
-layering. Cherry Pie contributes sweet fruit notes while Thin Mint
+- **Y-Life:**  × Cherry Pie
+- **Snowman:** [[thin-mint]]
 adds earthy, minty undertones. Approximately 50/50 indica-sativa,
 though phenotypic variation can lean slightly indica-dominant.
 
@@ -135,7 +131,7 @@ LST, scrog, and topping to maximize light penetration.
   hybrid expression
 - **Cereal Milk BX1:** Backcrossed version with enhanced stability
   and resin production
-- **Cinnamon Milk:** Cereal Milk × [[cinnamon-toast-crunch]] cross
+- **Cinnamon Milk:** Cereal Milk ×  cross
 - **Cereal Milk Breath:** Cereal Milk × Mendo Breath cross, heavier
   indica expression
 
@@ -143,6 +139,6 @@ LST, scrog, and topping to maximize light penetration.
 
 **Common:** Dry mouth, dry eyes, mild appetite increase.
 
-**Uncommon:** Anxiety at high doses (less common than other
-Cookies-family strains due to balanced terpene profile), mild
-paranoia in sensitive individuals, dizziness on standing.
+## See Also
+- [[teaming-with-fungi-truffle-cultivation-basics]]
+- [[mushroom-cultivation-for-people-with-disabilities]]

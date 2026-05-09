@@ -2,7 +2,7 @@
 title: Allan Savory
 created: 2026-04-28
 type: person
-tags: [permaculture, holistic-management, regenerative-agriculture, grazing-ecology, rangeland-restoration, zimbabwe, environmentalist, livestock]
+tags: [[permaculture, holistic-management, regenerative-agriculture, grazing-ecology, rangeland-restoration, zimbabwe, environmentalist, livestock]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/savory-holistic-resource-management.md]
@@ -75,50 +75,6 @@ The grazing component of Holistic Management is the most widely known and debate
 
 ## Legacy and Influence
 
-- **Regenerative agriculture movement:** Savory is widely regarded as one of the intellectual founders of the regenerative agriculture movement, alongside figures like Gabe Brown, Joel Salatin, and Colin Seis. His emphasis on soil health, ecosystem function, and the integration of livestock with cropping systems has influenced a generation of farmers and land managers.
-- **Global adoption:** Holistic Management principles have been adopted by land managers on an estimated 40 million acres (16 million hectares) across six continents.
-- **Bridging divides:** Savory's work is notable for finding common ground between ranchers, environmentalists, and scientists — groups that are often in conflict over land-use issues. His framework provides a shared language and decision-making process that can accommodate diverse values and objectives.
-- **Awards and recognition:** Received the Banksia International Award (2003), the Buckminster Fuller Challenge Award (2010), and the International Cattleman's Hall of Fame induction (2019). Named one of the "50 People Who Could Save the Planet" by The Guardian.
-
-## Key Publications
-
-- **Holistic Resource Management** (1988) — The foundational text outlining the complete Holistic Management framework
-- **Holistic Management: A New Framework for Decision Making** (1999, 2nd edition with Jody Butterfield) — Revised and expanded edition of the seminal work
-- **The Grazing Manager** (various editions) — Practical manual for implementing Holistic Planned Grazing
-- **The Savory Institute website and educational materials** — Ongoing publications, case studies, and training resources
-
-## Controversies and Critiques
-
-### The "cows save the planet" debate
-
-Savory's most provocative claim — that properly managed grazing livestock can reverse global desertification and sequester enough carbon to meaningfully offset anthropogenic greenhouse gas emissions — has been the subject of intense scientific debate:
-
-- **Supporters** point to documented improvements in soil carbon on individual ranches, the fundamental logic of restoring natural grassland-herbivore dynamics, and the potential scalability of the approach across the world's 5 billion hectares of grasslands.
-- **Critics** note that the carbon sequestration rates claimed by Savory (potentially hundreds of gigatons) are not supported by peer-reviewed meta-analyses, which typically find sequestration rates of 0.1–3 tonnes CO₂ equivalent per hectare per year — meaningful at scale but insufficient to offset global emissions from the livestock sector.
-- **The methane question:** Livestock produce methane, a potent greenhouse gas. Even if improved grazing sequesters more soil carbon, the net climate impact depends on the balance between sequestration and methane emissions, which varies enormously by system, climate, and management quality.
-
-### Ecological complexity concerns
-
-- Some grassland ecologists argue that Savory's framework oversimplifies the dynamics of arid and semi-arid ecosystems, where vegetation dynamics are primarily driven by rainfall variability rather than grazing management.
-- The claim that "complete rest is as damaging as overgrazing" is contested in environments where historical grazing pressure was light or absent. Research in North American tallgrass prairies and certain arid environments has shown that long-term rest can lead to recovery.
-- The distinction between "overgrazing" (animals returning before plants have recovered) and "overgrazing" (excessive animal density) is central to Savory's framework but is sometimes misunderstood or misapplied by practitioners.
-
-### Response to criticism
-
-Savory has acknowledged that some of his earlier carbon sequestration claims may have been overstated, while maintaining that the core principles of Holistic Management remain valid. He has emphasized that Holistic Management is a decision-making framework, not a prescriptive recipe, and that outcomes depend critically on local context, monitoring, and adaptive management.
-
-## Personal Philosophy and Approach
-
-Savory's approach is grounded in several philosophical principles that distinguish his work from conventional agricultural science:
-
-- **Whole-systems thinking:** Savory insists that land cannot be managed in isolation from the social, economic, and cultural contexts of the people who depend on it. The Holistic Context framework forces practitioners to consider human well-being alongside ecological health.
-- **Management as the root cause:** He argues that most land degradation is caused not by livestock per se, but by human management decisions — including the decision to remove livestock from land where they historically played an essential ecological role.
-- **Humility and uncertainty:** The framework is designed to accommodate uncertainty and adapt to changing conditions. Monitoring and feedback loops are built into every aspect of the management process.
-- **Non-prescriptive methodology:** Holistic Management provides a framework for decision-making, not a set of rigid prescriptions. Practitioners are expected to adapt the approach to their unique context, monitoring results and adjusting their strategies accordingly.
-
-## See Also
-
-- [[masanobu-fukuoka]] — Japanese farmer and philosopher who independently developed a contrasting philosophy of minimal intervention in natural farming
-- [[sepp-holzer]] — Austrian farmer practicing radical ecological farming methods in the Alps
+- **[[masanobu-fukuoka]] — Japanese farmer and philosopher who independently developed a contrasting philosophy of minimal intervention farming
 - [[geoff-lawton]] — Australian permaculture designer and teacher
 - [[bill-mollison]] — Co-originator of the permaculture concept, whose design principles share ecological foundations with Savory's work

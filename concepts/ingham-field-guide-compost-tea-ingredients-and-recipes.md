@@ -107,14 +107,9 @@ When adding minerals to compost, use approximately 80% less than soil chemistry 
 ## See Also
 
 - [[aact-brewing-ingredients-ingham]]
-- [[aact-fungal-dominant-tea]]
 - [[aact-bacterial-dominant-tea]]
-- [[aact-disease-suppression-recipes]]
 - [[compost-tea-recipe-guide]]
-- [[compost-quality-standards]]
 - [[aact-compost-quality-standards-ingham]]
-- [[humic-acids-soil-biology-ingham]]
 - [[bacterial-vs-fungal-compost-teas]]
-- [[vermicomposting]]
 - [[ingham-field-guide-aact-brewing-methodology]]
 - [[keyline-design]]

@@ -114,14 +114,8 @@ The plant should never be consumed without expert knowledge of preparation and d
 
 - [[brugmansia-sanguinea]] — Blood-Red Angel's Trumpet
 
-- [[datura-stramonium]] — Jimsonweed, a related solanaceous hallucinogen
-
 - [[datura-innoxia]] — another Datura species used traditionally
 
-- [[trichocereus-pachanoi]] — San Pedro cactus, often prepared with Brugmansia
-
 - [[atropa-belladonna]] — Deadly Nightshade, another tropane-containing plant
-
-- [[latua-pubiflora]] — Latue, another Chilean solanaceous hallucinogen
 
 - [[desfontainia-spinosa]] — Taique, another Andean hallucinogenic shrub

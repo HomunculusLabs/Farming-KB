@@ -80,26 +80,16 @@ The salve is either brushed onto trees or sprinkled over them. Alternative prote
 
 ## Stone Fruits at Altitude
 
-Despite conventional wisdom, Holzer successfully grows apricots, peaches, plums, and cherries at high altitudes. The key is site selection: south-facing slopes with stone walls behind the trees to absorb and radiate heat. Apricots are particularly successful when planted against stone walls that create a warm microclimate. He recommends planting multiple varieties for cross-pollination and staggered harvest. See [[holzer-microclimates-permaculture]] for microclimate design details.
-
-## Rootstock Selection
-
-Holzer emphasises using vigorous, wild-type rootstocks rather than dwarfing rootstocks. At high altitudes, trees on vigorous rootstocks develop deeper root systems that access water and nutrients from subsoil layers. They also produce larger, more stable trees better able to withstand snow loads and wind. Dwarfing rootstocks may produce earlier crops but the trees are weaker and shorter-lived in challenging conditions.
-
-## Protection Methods
-
-For young trees, Holzer uses simple protection: stone circles around the base (absorbing heat and suppressing grass competition), and in extreme sites, plastic sleeves or thatch wraps for the first two winters. He avoids tree guards that restrict airflow. [[permaculture-fruit-tree-guide]] covers general fruit tree protection strategies.
+Despite conventional wisdom, Holzer successfully grows apricots, peaches, plums, and cherries at high altitudes. The key is site selection: south-facing slopes with stone walls behind the trees to absorb and radiate heat. Apricots are particularly successful when planted against stone walls that create a warm microclimate. He recommends planting multiple varieties for cross-pollination and staggered harvest. See [[permaculture-fruit-tree-guide]] covers general fruit tree protection strategies.
 
 ## Seed-Grown vs Grafted Trees
 
 While most commercial orchards rely on grafted trees, Holzer also experiments with seed-grown fruit trees. These develop genetic diversity and natural resilience, though fruit quality is less predictable. Seed-grown trees serve as rootstock candidates and as genetic material for future breeding. He plants seeds from the best-performing trees to gradually develop locally adapted varieties.
 
-See also: [[permaculture-fruit-tree-guide]], [[permaculture-fruit-tree-guide]], [[holzer-microclimates-permaculture]], [[permaculture-fruit-tree-guide]], [[sepp-holzer-method]], [[permaculture-fruit-tree-guide]]
+See also: [[permaculture-fruit-tree-guide]], [[permaculture-fruit-tree-guide]], [[permaculture-fruit-tree-guide]]
 
 ## Related
 
-- [[sepp-holzer-method]]
 - [[fruit-tree-guild-roles]]
-- [[holzer-fruit-tree-planting-method]]
 - [[holzer-stone-fruit-varieties-and-growing]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

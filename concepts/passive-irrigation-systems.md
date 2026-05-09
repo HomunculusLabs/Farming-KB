@@ -43,7 +43,7 @@ Spacing: Place ollas 45-90 cm apart in a grid pattern for full bed coverage. Clo
 
 Commercial ollas cost $15-40 each. DIY options:
 
--  **[[two-ag]]-pot method** — Glue two unglazed terracotta pots together at their rims with silicone. Plug one drain hole with silicone, leave the other open for filling. Cost: $3-5 per olla.
+-  **Two-pot method** — Glue two unglazed terracotta pots together at their rims with silicone. Plug one drain hole with silicone, leave the other open for filling. Cost: $3-5 per olla.
 -  **Clay pipe sections** — Cut 15-20 cm sections of unglazed terracotta drainage pipe. Cap one end, fill through the other. Cost: $2-4 each.
 -  **Test porosity** — Unglazed clay is essential. Glazed pots will not seep water.
 
@@ -136,4 +136,4 @@ Deep pipes deliver water directly to the root zone of established trees and shru
 
 ## Integration Notes
 
-Passive irrigation systems work best in combination. Use swales for landscape-scale [[water-management]], wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.
+Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.

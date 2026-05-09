@@ -131,8 +131,6 @@ a cautionary example in harm reduction discussions about research chemicals.
 
 ## See Also
 
-- [[pihkal-2c-t-2]]
 - [[pihkal-2c-b]]
-- [[pihkal-2c-e]]
 - [[pihkal-2c-i]]
 - [[pihkal-cautionary-note-and-legal-context]]

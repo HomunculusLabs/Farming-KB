@@ -23,12 +23,7 @@ denotes the XML-based format replacing the legacy binary `.doc`, `.xls`, and
 
 An OOXML file is a ZIP archive containing a collection of XML parts organized
 in a specific directory structure. The archive always includes a
-`[Content_Types].xml` file at its root that maps file extensions to MIME types,
-defining how each part should be interpreted. Relationships between parts are
-described in `.rels` XML files that form a directed graph connecting the
-document's components.
-
-For a `.docx` [[word-document-formats]], the primary content resides in `word/document.xml`,
+`[Content_Types].xml` file at its root that [[word-document-formats]], the primary content resides in `word/document.xml`,
 which uses a rich vocabulary of XML elements to represent paragraphs, runs of
 formatted text, tables, images, and other document structures. Styles are
 defined in `word/styles.xml`, and document properties such as author, title,
@@ -86,8 +81,6 @@ procurement.
 
 ## See Also
 
-- [[docx]] — The Word-specific OOXML format
-- open standards — The movement for open document standards
-- xml — Extensible Markup Language fundamentals
-- ole2 compound binary file format — File format concepts and comparison
 - [[microsoft-word]] — The primary application using OOXML
+
+See also: [[microsoft-word-document-format]]

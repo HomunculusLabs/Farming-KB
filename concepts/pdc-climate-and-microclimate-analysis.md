@@ -86,15 +86,9 @@ Climate affects architecture which affects everyday life, food, cultural habits,
 ## Related Pages
 
 - [[pdc-climate-design-strategies]]
-- [[pdc-climate-design-strategies]]
-- [[pdc-passive-design-principles]]
 - [[pdc-pattern-understanding-in-design]]
-- [[pdc-site-analysis-method]]
 - [[microfungal-species-diversity-large-areas]]
-- [[tropical-vs-temperate-fungal-diversity]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
-- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[permaculture-cold-climate-strategies]]
-- [[fukuoka-change-come-over-westerners]]
 - [[worm-ecology-soil-building]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

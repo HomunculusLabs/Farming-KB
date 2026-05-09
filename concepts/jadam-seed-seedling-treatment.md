@@ -76,11 +76,7 @@ Seed and seedling treatment is the first step in establishing the microbial dive
 
 ## See Also
 
-- [[jadam-soil-foundation-work]] -- comprehensive soil preparation
 - [[jadam-microorganism-solution-jms]] -- the microbial culture for ongoing treatment
-- [[jadam-seawater-mineral-supplementation]] -- mineral supplementation
 - [[jadam-anaerobic-fermentation]] -- the fermentation principle behind microbial activity
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-seed-treatment-leaf-mold]]
-- [[jadam-coexisting-with-wild-grass]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]

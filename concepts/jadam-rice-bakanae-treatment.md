@@ -12,15 +12,7 @@ sources:
 
 ## Overview
 
-Rice bakanae disease (caused by Fusarium fujikuroi) causes elongated, thin, pale seedlings that eventually die. JADAM developed a cold water seed immersion method using [[jadam-sulfur-js]] that completely eliminates bakanae without chemical seed disinfectants.
-
-**Developed by:** Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, Youngsang Cho
-
-## Seed Disinfection Recipe
-
-For the immersion solution (to treat 20 L / 5.3 gal of rice seeds):
-
-- [[jadam-sulfur-js]] 5 L (1.3 gal)
+Rice bakanae disease (caused by Fusarium fujikuroi) causes elongated, thin, pale seedlings that eventually die. JADAM developed a cold water seed immersion method using [[jadam-sulfur-js]] 5 L (1.3 gal)
 - Add water to make 500 L (132 gal) total solution
 
 ### For small batches (20 L / 5.3 gal seeds):
@@ -44,7 +36,6 @@ For the immersion solution (to treat 20 L / 5.3 gal of rice seeds):
 
 If rice seedlings show bakanae disease in the seedbed:
 
-- [[jadam-sulfur-js]] 1.5 L (0.4 gal)
 - [[jadam-wetting-agent-jwa]] 3 L (0.8 gal)
 - Add water to make 500 L (132 gal)
 - Spray on affected seedlings
@@ -67,10 +58,26 @@ This solution can fully replace chemical seed disinfectants.
 
 ## See Also
 
-- [[jadam-natural-pesticide-jnp]] - Overview of JADAM natural pesticide system
 - [[jadam-sulfur-js]] - How to make JADAM sulfur
-- [[jadam-pest-control-recipes]] - All numbered pesticide recipes
 - [[jadam-concentration-guidelines]] - Safety and dosage guidelines
-- [[jadam-natural-pest-control-methods]]
 - [[jadam-rice-water-weevil-control]]
 - [[jadam-natural-vs-chemical-pesticide]]
+## Practical Considerations
+
+Successful implementation of Rice Bakanae Disease Treatment (JADAM Pesticide Recipe #1) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

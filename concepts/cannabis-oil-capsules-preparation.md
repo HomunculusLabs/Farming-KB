@@ -13,7 +13,7 @@ Cannabis oil capsules, sometimes called pot pills, represent one of the most dis
 
 ## Rationale for Capsule Preparation
 
-Oral consumption of cannabis produces effects that differ significantly from inhaled consumption. The cannabinoids are metabolized by the liver through first-pass metabolism, converting THC to 11-hydroxy-THC, a metabolite that is more potent and has a longer duration of action. This makes capsules particularly suitable for sustained therapeutic applications described in [[cannabis-chronic-pain-management]] and [[cannabis-dosing-guidelines]].
+Oral consumption of cannabis produces effects that differ significantly from inhaled consumption. The cannabinoids are metabolized by the liver through first-pass metabolism, converting THC to 11-hydroxy-THC, a metabolite that is more potent and has a longer duration of action. This makes capsules particularly suitable for sustained therapeutic applications described in [[cannabis-dosing-guidelines]].
 
 Capsules offer several advantages over other oral cannabis preparations. They provide consistent dosing, avoid the taste of cannabis oil, are easy to store and transport, and allow the combination of cannabis oil with complementary supplements or herbs. The gelatin capsule shell dissolves in the stomach, releasing the contents for absorption through the intestinal walls.
 
@@ -61,19 +61,13 @@ Cannabinoids in capsule form degrade more slowly than in raw plant material beca
 
 ## Comparison to Other Oral Preparations
 
-Capsules differ from tinctures (described in [[cannabis-tinctures-guide]]) in their absorption characteristics. Tinctures held under the tongue allow sublingual absorption, which bypasses first-pass liver metabolism and produces faster onset with different metabolite ratios. Capsules provide slower onset but longer duration due to full hepatic metabolism.
-
-Compared to baked edibles (discussed in [[cannabis-edibles-guide]]), capsules offer more precise dosing and avoid the variability introduced by uneven distribution of cannabis butter through a batter. They also avoid the calories and sugar associated with baked goods, making them more suitable for regular therapeutic use.
+Capsules differ from tinctures (described in [[cannabis-edibles-guide]]), capsules offer more precise dosing and avoid the variability introduced by uneven distribution of cannabis butter through a batter. They also avoid the calories and sugar associated with baked goods, making them more suitable for regular therapeutic use.
 
 ## Related Topics
 
-- [[cannabis-edibles-guide]] for broader edible preparation methods
 - [[cannabis-tinctures-guide]] for sublingual cannabis preparations
-- [[cannabis-dosing-guidelines]] for dosing principles
 - [[cannabis-concentrates-and-extracts]] for oil preparation methods
-- [[cannabis-oil-purification-techniques]] for oil refinement before capsule preparation
 - [[cannabis-thc-therapeutic-profile]] for therapeutic applications of oral THC
-- [[cannabis-for-chronic-pain]] for clinical applications of oral cannabis
 - [[cannabis-delivery-methods-comparison]] for comparison with other administration routes
 
 ## Advanced Variations
@@ -96,22 +90,4 @@ Another approach to extended release involves coating standard gelatin capsules 
 
 Capsules offer a convenient format for combining cannabis oil with other therapeutic compounds. Herbal supplements such as turmeric, black pepper extract (piperine), or ginger can be included in the filler mixture. Piperine has been shown to increase the bioavailability of various compounds through inhibition of metabolic enzymes, and it may similarly enhance cannabinoid absorption.
 
-Some practitioners create capsules that combine THC-dominant oil with CBD-dominant oil to achieve specific THC-to-CBD ratios without the variability inherent in strain-specific preparations. This allows precise control over the ratio, which is important for therapeutic applications discussed in [[cannabis-thc-cbd-ratio-guide-for-conditions]].
-
-Vitamins and minerals can also be included in capsule formulations, creating a combined supplement that addresses both cannabinoid therapy and nutritional needs. This approach is particularly useful for patients using cannabis to manage conditions associated with nutritional deficiencies.
-
-## Safety Considerations
-
-All cannabis processing should be conducted with attention to safety protocols. This includes proper ventilation when working with solvents, appropriate temperature control during extraction and refinement, and careful handling of concentrated products. Documentation of each step in the process ensures reproducibility and helps identify any issues that may arise. Working in a clean, organized environment reduces contamination risks and improves results.
-
-## Quality Assessment
-
-Evaluating the quality of cannabis products involves assessing multiple factors including cannabinoid profile, terpene content, appearance, aroma, and consistency. Laboratory testing provides the most accurate analysis, but sensory evaluation also plays an important role. Understanding the relationship between starting material quality, processing methods, and final product characteristics helps practitioners refine their techniques over time.
-
-## Regulatory Context
-
-The legal status of cannabis varies significantly by jurisdiction. Practitioners must be aware of and comply with all applicable local, state, and national regulations regarding cultivation, processing, and distribution. This includes licensing requirements, testing mandates, labeling standards, and packaging regulations. Staying informed about regulatory changes is essential for anyone working with cannabis products professionally.
-
-## See Also
-
-[[cannabis-reefers-and-tincture-preparation]]
+Some practitioners create capsules that combine THC-dominant oil with CBD-dominant oil to achieve specific THC-to-CBD ratios without the variability inherent in strain-specific preparations. This allows precise control over the ratio, which is important for therapeutic applications discussed in [[cannabis-reefers-and-tincture-preparation]]

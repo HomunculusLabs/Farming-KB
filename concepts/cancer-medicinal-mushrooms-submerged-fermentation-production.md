@@ -103,8 +103,6 @@ compounds accessible through this technology beyond just polysaccharides.
 
 ## Related Topics
 
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]
 - [[cancer-medicinal-mushrooms-extraction-bioavailability]]

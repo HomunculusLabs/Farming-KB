@@ -19,36 +19,6 @@ siphons. Both are about using swale earthworks for water management, but they di
 application focus.
 
 ## Swale Design
-[[swale-design]]
-
-Swale design is a comprehensive guide to one of the most important earthworks in permaculture and
-regenerative land management. A swale is a shallow, level trench dug along the contour of a slope,
-with the excavated soil placed on the downhill side to form a berm. The swale captures water as it
-flows downhill, holds it temporarily in the channel, and allows it to infiltrate into the soil
-rather than running off the landscape. This rehydrates the soil profile and supports
-deeper-rooting plants on the berm.
-
-The design process involves careful site analysis including slope measurement, soil type
-assessment, rainfall data, and catchment area calculation. Swales must be perfectly level to
-prevent water from concentrating and eroding any single point. Key design considerations include
-spacing between swales on a slope, which depends on the soil infiltration rate and the depth of
-the soil profile. In highly permeable soils, swales can be spaced farther apart, while in clay
-soils they need to be closer together to ensure adequate coverage.
-
-Properly designed swales transform landscapes by reducing erosion, increasing groundwater recharge,
-and creating productive planting zones on the berms. They are a foundational technique for
-drought-proofing properties and are often one of the first earthworks installed in a permaculture
-design. The berm below a swale becomes a prime planting area for trees and perennial crops
-because of the consistent moisture and accumulated topsoil.
-
-Swale design also considers the long-term evolution of the system. Over time, swales fill with
-sediment and organic matter, gradually becoming gentle terraces. This natural succession is
-anticipated in good design, with plantings on the berm selected to mature as the swale evolves.
-Tree roots eventually anchor the berm and help stabilize the entire structure, making the swale
-system increasingly resilient as it matures. Understanding this trajectory helps designers plan
-for the long-term function of their earthworks.
-
-## Contour Swale Irrigation Design
 [[contour-swale-irrigation-design]]
 
 Contour swale irrigation design takes the basic swale concept and applies it specifically to
@@ -127,13 +97,8 @@ the engineered elements ensure critical crops get reliable irrigation.
 
 ## See Also
 
-- [[comparison-terracing-vs-swale]]
-
 - [[comparison-keyline-vs-swale-design]]
 
-- [[comparison-dam-construction-vs-swale-design]]
 - [[swale-design]]
-- [[contour-swale-irrigation-design]]
 - [[keyline-design]]
-- [[rainwater-harvesting-systems]]
 - [[earthworks-for-water-management]]

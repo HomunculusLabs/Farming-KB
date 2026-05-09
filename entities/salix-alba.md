@@ -19,7 +19,7 @@ type: entity
 Salix alba is a large, fast-growing deciduous tree native to Europe
 and western Asia, typically found along riverbanks and in wet areas.
 Willows as a genus are among the most useful trees for erosion
-control, [[water-management]], and salinity mitigation in [[permaculture]]
+control, [[permaculture]]
 systems. White willow is also the original source of salicylic acid,
 the precursor to aspirin (acetylsalicylic acid), making it one of the
 most important medicinal trees in human history.
@@ -82,10 +82,6 @@ source for mulch and fuel.
 
 ## See Also
 
-- [[riparian-zone-restoration]]
-- salix caprea
-- salix viminalis
-- populus tremula
 - [[alnus-rubra]]
 - tamarix
 - [[tagasaste]]

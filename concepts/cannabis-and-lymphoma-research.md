@@ -43,13 +43,7 @@ The ceramide pathway is particularly notable because ceramide accumulation is se
 
 ## Mechanisms of Action
 
-The [[cannabis-endocannabinoid-system]] interacts with lymphoma biology through several pathways:
-
-- **Anandamide-induced apoptosis:** The 2000 Italian study demonstrated that anandamide, the body's own cannabinoid, directly triggers programmed cell death in lymphoma cells. Anandamide activates both CB1 and CB2 receptors, and the apoptosis pathway involves mitochondrial membrane depolarization, cytochrome c release, and caspase activation.
-
-- **Ceramide pathway synergy:** The Swedish study revealed that cannabinoids and ceramide work synergistically to kill lymphoma cells. Ceramide is a sphingolipid messenger that accumulates in response to cellular stress. Cancer cells often have impaired ceramide metabolism, making them more vulnerable to ceramide-mediated death. Cannabinoids can both directly increase ceramide levels and enhance the cell death signaling that ceramide triggers.
-
-- **CB2 receptor selectivity:** Lymphoma cells, being cancers of the immune system, express high levels of CB2 receptors. This provides a degree of selectivity — cannabinoids can target lymphoma cells through CB2 while having minimal effects on most non-immune tissues. This receptor distribution is relevant to [[cannabis-immune-modulation]].
+The [[cannabis-immune-modulation]].
 
 - **De novo ceramide synthesis:** Cannabinoid receptor activation stimulates the enzyme serine palmitoyltransferase, the rate-limiting enzyme in de novo ceramide synthesis. This increase in ceramide production is a key mechanism by which cannabinoids trigger cancer cell death.
 
@@ -81,17 +75,15 @@ Pre-clinical research on cannabinoids and lymphoma has continued to advance:
 
 For lymphoma patients considering cannabinoid therapy, several factors are relevant:
 
-- [[cannabis-cannabinoid-receptor-pharmacology]] considerations include the need to achieve adequate cannabinoid concentrations in lymphoid tissues
 - [[cannabis-concentrates-and-extracts]] may provide standardized cannabinoid doses
 - Oral preparations deliver cannabinoids systemically, reaching lymphoid organs throughout the body
-- Patients must be monitored for potential [[cannabis-drug-interactions-and-contraindications]] with chemotherapy agents (R-CHOP regimen), monoclonal antibodies (rituximab), and other lymphoma treatments
-- [[cannabis-dosing-guidelines]] should be followed with medical supervision
+- Patients must be monitored for potential [[cannabis-dosing-guidelines]] should be followed with medical supervision
 
 ## Strain-Specific Considerations
 
 Given the CB2-mediated mechanism of action, strains with elevated CBD content (which has higher affinity for CB2 than CB1) may be most relevant for lymphoma. Indica and indica-dominant strains typically have higher CBD:CBD ratios that favor CB2 activation.
 
-Strains rich in [[cannabis-minor-cannabinoids]] like CBG and CBC may provide additional anti-cancer effects through complementary mechanisms. The [[cannabis-terpene-profile]] of selected strains, particularly those high in beta-caryophyllene (a natural CB2 agonist), may enhance anti-lymphoma activity.
+Strains rich in [[cannabis-terpene-profile]] of selected strains, particularly those high in beta-caryophyllene (a natural CB2 agonist), may enhance anti-lymphoma activity.
 
 ## Symptom Management
 
@@ -103,16 +95,6 @@ Beyond potential direct anti-cancer effects, cannabis may help manage lymphoma s
 - Nausea and appetite loss during chemotherapy
 - Anxiety and depression related to diagnosis and treatment
 
-The [[cannabis-for-cancer-patients]] approach encompasses these broader symptom-management benefits.
-
-## Limitations of Current Research
-
-All reviewed studies were pre-clinical (laboratory). The concentrations of cannabinoids effective in vitro may not be achievable through typical cannabis consumption. No clinical trials have evaluated cannabis specifically for lymphoma treatment. The synergistic potential with conventional chemotherapy requires clinical validation. Cannabis should not replace conventional lymphoma treatment but may be investigated as a potential adjunctive therapy under medical supervision.
-
-## Related Topics
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-cancer-patients]]
+The [[cannabis-endocannabinoid-system]]
 - [[cannabis-and-leukemia-research]]
-- [[cannabis-immune-modulation]]
 - [[cannabis-drug-interactions-and-contraindications]]

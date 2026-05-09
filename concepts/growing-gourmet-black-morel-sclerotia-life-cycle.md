@@ -14,15 +14,7 @@ sources:
 type: concept
 ---
 
-# [[morchella-angusticeps]]: Black Morel Sclerotia and Life Cycle
-
-The Black Morel (Morchella angusticeps complex) represents the
-most common Morel in western North America. Understanding
-sclerotia -- the hardened, asexual resting structures that Morels
-produce -- is the key to Morel cultivation. This page focuses on
-the sclerotia biology and life cycle of the Black Morel, complementing
-the cultivation-focused
-[[growing-gourmet-morel-cultivation]] page.
+# [[growing-gourmet-morel-cultivation]] page.
 
 ## Taxonomic Considerations
 
@@ -48,16 +40,8 @@ colonize a vast territory in a relatively short time. But when
 they encounter a physical boundary, a non-nutritional zone, or
 competitors, the mycelium stops expanding.
 
-### Sclerotia Formation
-
-After experiencing environmental shock, the mycelium collapses
-and forms a subterranean structure called a sclerotium. A
-sclerotium is a hardened, asexual mass of cells which roughly
-resembles a gold nugget or walnut in form and size. Sclerotia
-are produced by many mushroom species, including Collybia tuberosa,
-[[conocybe-cyanopus]], Hypholoma tuberosum,
-[[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]],
-Pleurotus tuber-regium, Psilocybe mexicana, Psilocybe tampanensis,
+### [[conocybe-cyanopus]], Hypholoma tuberosum,
+[[psilocybe-mexicana]], Psilocybe tampanensis,
 and dozens of others.
 
 Mushrooms which form sclerotia tend to be soil-dwellers. The

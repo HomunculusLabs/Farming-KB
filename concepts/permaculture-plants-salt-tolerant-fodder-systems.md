@@ -1,10 +1,8 @@
 ---
 title: Salt-Tolerant Fodder Systems for Degraded Land Rehabilitation
-source: a-selection-[[permaculture]]-plants.md
+source: a-selection-plants.md
 author: Jeff Nugent and Julia Boniface
-topics: salt-tolerant, fodder, land-rehabilitation, saline-soils, pasture, permaculture
----
-# Salt-Tolerant Fodder Systems for Degraded [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]]
+topics: salt-tolerant, fodder, land-rehabilitation, saline-soils, pasture, [[mollison-pioneer-crop-systems-and-tropical-land-rehabilitation]]
 
 The *Permaculture Plants* reference includes an extensive section on salt-tolerant
 fodder species — plants capable of providing livestock forage on saline,
@@ -124,20 +122,12 @@ to 7 m), and broom honey myrtle (*M. uncinata*).
 ### Casuarina and Acacia Species
 Numerous casuarinas and wattles tolerate saline conditions. *Casuarina obesa*
 and *C. glauca* (swamp sheoak) are particularly noted for saline sites.
-Many [[acacia]] species from across Australia's climatic range show salt
-tolerance, from tropical (*A. auriculiformis*) to arid (*A. ligulata*).
-
-### Warning: Tamarisks
-*Tamarix* species (athel tamarisk) are vigorous and salt-tolerant but
-cause salinization of upper soil. Their roots extract soluble salts and
-deposit them on leaf surfaces, returning salt to topsoil via litterfall.
-They reduce crop yields for up to 50 m and should generally be avoided in
-permaculture systems.
-
-## Design Integration
-
-Salt-tolerant fodder systems fit naturally into [[permaculture-zone-design]] as
+Many [[permaculture-zone-design]] as
 Zone 4 or Zone 5 elements — broader-scale land management where minimal
 intervention yields gradual rehabilitation. They can be combined with
 salt-tolerant windbreaks (Casuarina, Melaleuca) and integrated with
 managed grazing rotations that allow recovery periods.
+
+## See Also
+
+- [[permaculture-salt-tolerant-fodder-plants]]

@@ -3,7 +3,7 @@ title: Fungal Salt Tolerance and Ion Homeostasis
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -109,12 +109,8 @@ The amphipod Ulorchestia spartinophila has complex dietary requirements and grow
 
 ## Related Concepts
 
-- [[fungal-stress-responses]]
 - [[fungal-saltmarsh-decomposition-systems]]
-- [[fungal-saltmarsh-decomposition]]
 - [[fungal-biodiversity-mangrove]]
-- [[fungal-adaptations-environmental-gradients]]
 - [[fungal-exopolysaccharides-and-extracellular-polymers]]
-- [[fungal-melanin-in-ecology-and-stress-protection]]
 - [[fungal-trophic-modes-and-nutritional-guilds]]
 - [[fungal-ecosystem-processes-overview]]

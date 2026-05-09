@@ -3,19 +3,7 @@ title: Paper Making
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Paper Making
-# Permaculture Designers Manual - Local Paper Production from Plant Fibers
-
-updated: 2026-04-18
-
-## Overview
-
-Paper making in the permaculture context relates to local self-reliance, forest product utilization, and the integration of craft industries into [[permaculture-designers-manual-crafts-and-income]]. The Designers Manual references paper production indirectly through discussions of plant fibers, forest management products, and appropriate technology for self-reliant communities. While the manual does not provide detailed paper-making instructions, it establishes the framework for integrating paper production into permaculture design.
+tags: [[permaculture-designers-manual-crafts-and-income]]. The Designers Manual references paper production indirectly through discussions of plant fibers, forest management products, and appropriate technology for self-reliant communities. While the manual does not provide detailed paper-making instructions, it establishes the framework for integrating paper production into permaculture design.
 
 ## Fiber Sources for Paper
 
@@ -78,11 +66,7 @@ Paper making can utilize materials that would otherwise be waste:
 - Garden prunings
 - Fallen leaves
 - Weed harvests
-- [[spent-mushroom-substrate]]
-
-## Paper Mulch and Garden Applications
-
-The manual's emphasis on [[permaculture-designers-manual-mulch-systems]] connects to paper in practical ways:
+- [[permaculture-designers-manual-mulch-systems]] connects to paper in practical ways:
 
 ### Paper as Mulch
 
@@ -104,35 +88,7 @@ Cardboard is used as:
 
 ## Polynesian Wax Paper
 
-The manual references "Polynesian wax paper" and wrapper for baked foods. This suggests traditional Pacific paper-like materials made from plant fibers treated with natural waxes. Such products demonstrate the integration of paper making with other craft traditions ([[permaculture-designers-manual-charcoal-production]], food preservation).
-
-## Craft Paper Products
-
-Hand-made paper from local fibers can produce:
-- Writing and drawing paper
-- Greeting cards and stationery
-- Seedling pots (biodegradable)
-- Gift wrap and decorative papers
-- Book covers and binding materials
-- Packaging materials
-
-## Environmental Considerations
-
-### Energy Requirements
-
-Industrial paper production is energy-intensive and often polluting. Local, small-scale hand paper making:
-- Uses minimal energy (human-powered beating and pressing)
-- Avoids chemical bleaching (natural colors)
-- Uses local, renewable fiber sources
-- Creates zero toxic waste
-- Produces a premium, hand-crafted product
-
-### Chemical Use
-
-Commercial paper production uses chlorine compounds for bleaching, creating dioxins and other pollutants. Permaculture paper making can:
-- Use unbleached fibers (natural colors)
-- Employ hydrogen peroxide for whitening where needed
-- Use natural mordants and [[permaculture-designers-manual-natural-dyes]] for colored papers
+The manual references "Polynesian wax paper" and wrapper for baked foods. This suggests traditional Pacific paper-like materials made from plant fibers treated with natural waxes. Such products demonstrate the integration of paper making with other craft traditions ([[permaculture-designers-manual-natural-dyes]] for colored papers
 - Avoid synthetic sizing agents
 
 ### Water Use

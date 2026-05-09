@@ -128,9 +128,6 @@ In regions with legalized adult-use cannabis, it is available through regulated 
 
 ## See Also
 
-- [[cannabis-sativa]] — Sativa-dominant parent species contributing the strain's morphology
 - [[cannabis-indica]] — Indica genetic background contributing physical relaxation
-- [[myrcene]] — Dominant terpene responsible for mango aroma and sedative modulation
 - [[limonene]] — Secondary terpene contributing mood-elevating and anxiolytic properties
-- [[northern-lights]] — Contrasting indica-dominant strain with high THC, low CBD profile
 - [[jack-herer]] — Another sativa-dominant medical strain with different terpene emphasis

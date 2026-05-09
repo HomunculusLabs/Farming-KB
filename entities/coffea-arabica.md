@@ -136,12 +136,7 @@ significant price premiums in specialty markets.
 ## See Also
 
 - coffea canephosa
-- [[theobroma-cacao]]
 - [[paullinia-cupana]]
-- [[eugenia-caryophyllata]]
 - [[pimenta-dioica]]
-- [[cinnamomum-verum]]
 - [[cinnamomum-cassia]]
-- [[piper-nigrum-entity]]
-- vigna radiata
 - [[canavalia-ensiformis]]

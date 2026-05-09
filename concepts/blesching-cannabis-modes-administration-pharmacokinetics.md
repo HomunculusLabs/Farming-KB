@@ -1,5 +1,5 @@
 ---
-title: Cannabis Modes [[cannabis-health-methods-of-administration]] and Pharmacokinetics
+title: Blesching Cannabis Modes Administration Pharmacokinetics
 source: Uwe Blesching - The Cannabis Health Index (2015)
 source_id: uwe-blesching-the-cannabis-health-index
 tags: [cannabis, pharmacokinetics, administration, vaporization, edibles, tinctures, medical-cannabis]
@@ -8,12 +8,7 @@ created: 2026-05-08
 
 # Cannabis Modes of Administration and Pharmacokinetics
 
-Cannabis is used medicinally in a wide variety of forms, each with distinct pharmacokinetic profiles that affect onset time, duration of effect, bioavailability, and therapeutic appropriateness for different conditions. Understanding these differences is essential for patients seeking to optimize their therapeutic outcomes while minimizing adverse effects. The choice of administration route directly impacts how cannabinoids interact with the [[endocannabinoid-system]], the rate and extent of absorption, and the metabolic pathways involved.
-
-## Major Forms of [[cannabis-as-medicine-clinical-reference]]
-
-### Dried Flower (Buds, Leaves, and Flowers)
-The most traditional and widely used form of medicinal cannabis. Dried flower contains cannabinoids in their decarboxylated (active) form after proper [[cannabis-drying-and-curing]]. It can be consumed via inhalation (smoking or vaporization) or processed into extracts. The THC content of dried flower varies significantly by strain, [[pf-tek-psilocybe-fanaticus-cultivation-method]] ([[indoor-vs-outdoor-cannabis]]. outdoor), and age. Indoor cultivation follows a three-month cycle and tends to produce higher THC content. THC content decreases over time and is affected by UV light, heat, and moisture exposure.
+Cannabis is used medicinally in a wide variety of forms, each with distinct pharmacokinetic profiles that affect onset time, duration of effect, bioavailability, and therapeutic appropriateness for different conditions. Understanding these differences is essential for patients seeking to optimize their therapeutic outcomes while minimizing adverse effects. The choice of administration route directly impacts how cannabinoids interact with the [[cannabis-drying-and-curing]]. It can be consumed via inhalation (smoking or vaporization) or processed into extracts. The THC content of dried flower varies significantly by strain, [[indoor-vs-outdoor-cannabis]]. outdoor), and age. Indoor cultivation follows a three-month cycle and tends to produce higher THC content. THC content decreases over time and is affected by UV light, heat, and moisture exposure.
 
 Cultivation method significantly impacts the cannabinoid profile. Outdoor-grown cannabis may produce lower THC but often contains a richer terpene profile due to greater UV exposure and natural growing conditions. Indoor cultivation allows for precise environmental control but may produce flower with a narrower spectrum of secondary metabolites. The curing process after harvest — typically 2-4 weeks of slow drying in controlled humidity — also affects the final cannabinoid and terpene content.
 
@@ -107,16 +102,5 @@ Inhalation preserves the volatile terpene profile most effectively, as terpenes 
 
 ## Drug Interactions and Contraindications
 
-Cannabinoids interact with the [[cytochrome-p450-enzyme-system]] in the liver, particularly CYP3A4 and CYP2C19. This creates potential interactions with numerous pharmaceuticals metabolized by the same enzymes, including certain anticoagulants, anticonvulsants, antidepressants, and antipsychotics. Patients taking medications with narrow therapeutic indices should consult their physician before combining with cannabis. CBD is a particularly potent inhibitor of CYP enzymes and may raise blood levels of co-administered drugs.
-
-Patients with a history of psychosis or schizophrenia should exercise caution with THC-dominant products, as cannabinoids may exacerbate psychotic symptoms in susceptible individuals. CBD-dominant products or balanced THC:CBD ratios may be more appropriate for patients with psychiatric vulnerability. Pregnant and breastfeeding women are generally advised to avoid cannabis due to potential effects on fetal and infant neurodevelopment.
-
-## Safety Considerations
-
-It is not safe to drive or operate heavy machinery after taking any psychoactive form of cannabis. The subjective therapeutic window varies between individuals and should be established carefully through titration. Patients using any mode of administration should work with their dispensary or physician to understand the cannabinoid profiles of their specific products and find their optimal dosing range. Since most products are not standardized, dose calibration may be needed with each new supply.
-
-## See Also
-
-- [[blesching-endocannabinoid-system-overview]]
-- [[cannabinoid-biosynthesis-pathway]]
+Cannabinoids interact with the [[blesching-endocannabinoid-system-overview]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]

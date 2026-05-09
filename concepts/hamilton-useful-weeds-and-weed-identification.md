@@ -123,7 +123,9 @@ in the ornamental garden will attract the same insect life.
 
 ## Related Topics
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
 - [[hamilton-organic-weed-management]]
-- [[hamilton-wildlife-gardening-biodiversity]]
 - [[hamilton-companion-planting-techniques]]
+
+## See Also
+
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]

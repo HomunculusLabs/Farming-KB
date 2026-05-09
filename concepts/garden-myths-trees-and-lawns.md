@@ -17,21 +17,8 @@ The image of a tree with a massive taproot reaching deep into the earth is one o
 
 ### What the Evidence Shows
 
-- **Most tree roots are shallow**: The vast majority of tree roots (80-90%) are in the top 18-24 inches of soil. This is where oxygen, nutrients, [[falconer-mushroom-cellar-ventilation-and-moisture]] are most available
-- **Taproots are rare in mature trees**: While many tree seedlings produce a taproot, most trees lose their taproot as they mature. The taproot is replaced by a spreading lateral root system that is far more effective at gathering resources
-- **The "root plate" model**: Trees are better understood as being held in place by a broad, relatively shallow root plate -- a pancake of roots spreading outward from the trunk, typically extending well beyond the drip line
-- **Root spread is extensive**: Tree roots commonly extend 2-3 times the diameter of the crown (drip line). In some cases, roots extend 4-7 times the crown radius
-- **Implications for management**:
-  - Trenching or excavation within the drip line can sever major roots, destabilizing the tree
-  - Soil compaction over the root zone (from construction, parking, foot traffic) damages the feeding roots that are concentrated near the surface
-  - Mulch (not turf) under trees protects the shallow root system
-  - Irrigation should be applied broadly under the canopy, not just at the trunk
+- **Most tree roots are shallow**: The vast majority of tree roots (80-90%) are in the top 18-24 inches of soil. This is where oxygen, nutrients, [[garden-myths-planting-and-pruning]]
 
-### See Also
-
-- [[garden-myths-planting-and-pruning]]
-
-- [[pruning-fruit-trees]]
 - [[pruning-fruit-trees-and-bushes]]
 
 ## Myth: Trees Automatically Send Roots Deep to Find Water During Drought
@@ -59,9 +46,7 @@ Thatch is a layer of partially decomposed organic matter between the soil surfac
 
 ### What the Evidence Shows
 
-- **Grass clippings decompose rapidly**: Fresh grass clippings are approximately 80-90% water and contain readily decomposable nitrogen. They break down quickly and contribute to [[mollison-designers-humus-building-and-soil-organic-matter]] without building thatch
-- **Thatch is primarily caused by**: (1) Excessive use of nitrogen fertilizer that stimulates rapid shoot growth; (2) Overuse of fungicides and insecticidesdecompositions the soil organisms that decompose thatch; (3) Growing grass species with high lignin content (like Bermuda grass and zoysia) that decompose slowly; (4) Compacted or poorly drained soils where decomposition is slow; (5) Infrequent mowing that leaves long clippings that mat
-- **Returning clippings is beneficial**: Grasscycling (leaving clippings on the lawn) returns nitrogen and organic matter to the soil, reducing fertilizer needs by 25-30% and improving [[teaming-with-microbes-no-till-gardening-soil-health]]
+- **Grass clippings decompose rapidly**: Fresh grass clippings are approximately 80-90% water and contain readily decomposable nitrogen. They break down quickly and contribute to [[teaming-with-microbes-no-till-gardening-soil-health]]
 - **When clippings ARE a problem**: If clippings are long (more than 1 inch), wet, and left in thick mats, they can smother the grass beneath. This is a mowing frequency problem, not a fundamental problem with returning clippings
 
 ### Best Practice
@@ -74,15 +59,7 @@ The conventional American lawn maintenance regime (weekly mowing, frequent irrig
 
 ### What a Reasonable Lawn Needs
 
-- **Appropriate [[mollison-designers-mixed-orchard-design-species-selection]]**: Choosing grass species adapted to local climate, soil, and light conditions is the single most important factor in lawn health. Cool-season grasses (Kentucky bluegrass, fescue) for northern regions; warm-season grasses (Bermuda, zoysia, buffalo grass) for southern regions. Buffalo grass and fine fescues require dramatically less water and fertilizer than Kentucky bluegrass
-- **Mow high**: Set mowing height at 3-4 inches (for cool-season grasses) or as high as the species allows. Taller grass develops deeper roots, shades out weeds, and retains soil moisture
-- **Water deeply and infrequently**: This encourages deep root growth and drought tolerance. Most lawns need 1-1.5 inches of water per week during active growth, applied in 1-2 deep waterings rather than daily light sprinkling
-- **Fertilize based on soil test**: Most established lawns need nitrogen fertilizer 1-2 times per year (fall for cool-season grasses, late spring for warm-season grasses). Excessive fertilizer promotes thatch, disease, and rapid growth that requires more mowing
-- **Accept some weeds and imperfection**: A lawn that is 90% grass and 10% clover and dandelions is still a functional lawn. Clover fixes nitrogen, reducing fertilizer needs. A few weeds do not constitute a crisis requiring chemical intervention
-
-### The Environmental Case for Reduced Lawn
-
-- **Lawns are the single largest irrigated crop in the [[psychedelic-research-legal-history-united-states]]**: Approximately 40 million acres of lawn
+- **Appropriate [[psychedelic-research-legal-history-united-states]]**: Approximately 40 million acres of lawn
 - **Pesticide and fertilizer runoff** from lawns is a significant source of water pollution
 - **Gas-powered lawn equipment** produces approximately 5% of US air pollution
 - **Consider alternatives**: Where appropriate, replace portions of lawn with native meadow, ground covers, food gardens, or low-maintenance landscape plantings

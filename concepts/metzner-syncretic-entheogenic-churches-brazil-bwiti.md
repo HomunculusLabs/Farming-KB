@@ -136,15 +136,10 @@ gathering.
 
 The transition from shamanic to syncretic form represents a
 democratization of entheogenic experience: access is expanded from a
-limited number of apprentices to large congregations.
-
 ## See Also
 
 - [[metzner-four-paradigms-entheogenic-healing]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies-community-churches]]
-- [[metzner-hallucinogens-psychotherapy-shamanism]]
-- [[brazilian-ayahuasca-churches]]
+- metzner syncretic entheogenic folk ceremonies community churches
+- metzner hallucinogens psychotherapy shamanism
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
-- [[metzner-spirit-beings-multiple-realities-entheogens]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]

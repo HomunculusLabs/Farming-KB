@@ -74,43 +74,23 @@ Excess fertilizer salts accumulate in growing mediums over time, causing nutrien
 
 ## See Also
 
-- [[cervantes-temperature-management]]
 - [[cervantes-odor-control]]
-- [[cervantes-fungus-gnats]]
-
 - [[cervantes-photoperiod-interruption-light-leak]]
-- [[cervantes-nft-aeroponic-systems]]
 - [[cervantes-cannabis-flower-anatomy]]
-- [[cervantes-drain-to-waste-vs-recirculating]]
 - [[cervantes-vapor-pressure-deficit-transpiration]]
-- [[cervantes-fusarium-vascular-wilt-diseases]]
 - [[cervantes-plant-support-trellis-stakes-cages]]
-- [[cervantes-nutrient-stock-solutions-concentrates]]
 - [[cervantes-nutrient-burn-over-fertilization]]
 
-- [[cervantes-nutrient-management]]
-- [[cannabis-advanced-growing-techniques]]
-- [[cervantes-pest-disease]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[cervantes-air-quality-ventilation]]
-- [[cervantes-growing-medium]]
 - [[cervantes-lighting-systems]]
-- [[cervantes-vegetative-phase]]
 - [[cervantes-flowering-phase]]
 
-- [[cannabis-genetics-and-breeding]]
-
 - [[cervantes-indica-sativa-ruderalis-differences]]
-- [[cervantes-damping-off-seedling-disease-prevention]]
 - [[cervantes-downy-mildew-fungal-blight]]
-- [[cervantes-mealybugs-scale-insect-control]]
 - [[cervantes-passive-wick-hydroponic-systems]]
-- [[cervantes-thrips-pest-control]]
 - [[cervantes-ventilation-fan-carbon-filter-setup]]
-- [[cervantes-whitefly-pest-control]]
 - [[cervantes-beetle-borers-bees-wasps-loopers]]
-- [[cervantes-foliar-spots-blight-fungal-leaf-diseases]]
 - [[cervantes-green-algae-growing-medium]]
-- [[cannabis-pest-disease-troubleshooting]]
-- [[cervantes-root-maggots-cutworms]]
-- [[cannabis-pest-disease-troubleshooting]]
+- cannabis pest disease troubleshooting
 - [[cervantes-viral-diseases-cannabis]]

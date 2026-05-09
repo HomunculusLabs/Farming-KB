@@ -29,21 +29,7 @@ granted a numinous vision to initiates, the entire sacred ceremony taking
 place within guarded confines of a hallowed temple. Wasson saw Teotihuacan
 as a Mesoamerican equivalent to Eleusis.
 
-## The [[eleusinian-mysteries]]
-
-The Eleusinian drink has been theorised to contain ergotised barley, which
-would have provided entheogenic substances since ergot, a tiny plant fungus
-growing on wheat and barley, contains LSD-related compounds. Although this
-psychedelic scenario remains unconfirmed and ergot is potentially toxic, the
-potion was almost certain to have contained some form of entheogenic
-alkaloid capable of engendering the type of mystical experience attested to
-in Greek historical literature. The secret was guarded so effectively that
-the exact nature of the kykeon remains unknown to this day.
-
-## Teotihuacan as Sacred Entheogenic Site
-
-At Teotihuacan, mural paintings adorn most temples and shrines, depicting
-various flowers including the morning glory ([[turbina-corymbosa]] or Ipomoea
+## The [[turbina-corymbosa]] or Ipomoea
 violacea), whose seeds contain LSD-related compounds known to have been used
 by the Aztecs for religious communion. Elaborately stylised serpent motifs on
 the architecture signify divine power and mark the temple as a sacred place
@@ -129,6 +115,4 @@ referred to visionary plants, most notably the psilocybin mushroom. The
 Aztec poets were producing art from direct entheogenic experience, their
 works channelling their deific respect for the sacred flora.
 
-See also: [[powell-mayan-civilisation-and-psilocybin-mushroom-use]],
-[[powell-the-other-and-sentient-presence]], [[powell-shamanic-wisdom-and-ritual-practice]]
-- [[calea-zacatechichi-dream-herb-ethnobotany]]
+See also: [[powell-the-other-and-sentient-presence]], [[calea-zacatechichi-dream-herb-ethnobotany]]

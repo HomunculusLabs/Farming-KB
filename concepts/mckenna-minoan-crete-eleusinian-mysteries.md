@@ -137,13 +137,9 @@ worship, and hallucinogenic ecstasy that had flowed for over ten thousand years
 sank at last into that chthonic realm reserved for forgotten religions. Only a
 dim echo of the old ways continued to reverberate in the form of such
 underground concerns as alchemy, hermeticism, midwifery, and herbalism.
-
 ## See Also
 
 - [[mckenna-archaic-revival]]
-- [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[mckenna-agriculture-and-the-fall-from-paradise]]
-- [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-symbiosis-and-human-plant-relationships]]
-- [[mckenna-nostalgia-for-paradise]]

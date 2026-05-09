@@ -111,18 +111,9 @@ Northern gardeners can extend productivity with spun row cover or greenhouse pla
 ## See Also
 
 - polyculture design principles
-- [[polyculture-design-holzer]]
 - [[permaculture-plant-guilds]]
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 - [[permaculture-companion-planting]]
-- [[holzer-polycultures-catch-crop-combinations]]
 - [[permaculture-crop-rotation]]
-- [[permaculture-succession]]
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 7: Creating Communities for the Garden
-
 - [[hemenway-food-forest-design]]
 
 - [[hemenway-zone-and-sector-planning]]

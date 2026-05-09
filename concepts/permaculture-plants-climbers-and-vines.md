@@ -80,25 +80,7 @@ Mulberries are noted as good companion plants for grapes, and the tree itself ca
 
 ## Integration with Bee Forage Systems
 
-Many climbing plants provide nectar and pollen for bees. Passionfruit flowers are visited by pollinators, and vine support trees ([[permaculture-tagasaste]], acacias) are significant bee forage species.
+Many climbing plants provide nectar and pollen for bees. Passionfruit flowers are visited by pollinators, and vine support trees ([[permaculture-plants-bamboo-varieties-uses]]
 
-## Nutritional Comparison of Passionfruit
-
-Per 100g edible portion:
-
-| Constituent        | P. edulis | P. mollissima | P. ligularis | P. quadrangularis |
-|--------------------|-----------|---------------|--------------|-------------------|
-| Calories           | 90        | ?             | 25           | ?                 |
-| Moisture           | 75.1 g    | 69.9-79.1 g   | 92.0 g       | 94.4 g            |
-| Protein            | 2.2 g     | 0.34-0.47 g   | 0.6 g        | 0.112 g           |
-| Fat                | 0.7 g     | 1.5-3.18 g    | 0.1 g        | 0.15 g            |
-| Carbohydrates      | 21.2 g    | ?             | 6.3 g        | ?                 |
-| Ascorbic Acid      | 30 mg     | 10.8-28.1 mg  | 70 mg        | 14.3 mg           |
-
-## See Also
-
-- [[permaculture-plants-bamboo-varieties-uses]]
-
-- [[perennial-vegetables]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[permaculture-design]]

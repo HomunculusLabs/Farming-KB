@@ -1,64 +1,18 @@
 ---
 title: "Fungal Herbarium Collections Management"
 created: 2026-04-28
-tags: [mycology, herbarium, specimen-management, fungal-taxonomy, biodiversity]
+tags: [[mycology, herbarium, specimen-management, fungal-taxonomy, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
 
-# [[fungal-herbarium-collection]]s Management
+# [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] diversity, distribution, and
+morphology. They are essential infrastructure for [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
 
-Fungal herbaria are organized collections of preserved fungal specimens
-that serve as permanent records [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] diversity, distribution, and
-morphology. They are essential infrastructure for [[fungal-species-concept-and-taxonomy]] research,
-biodiversity assessment, and conservation planning. The management of
-these collections involves specimen acquisition, preservation, storage,
-loan systems, record keeping, and increasingly, electronic
-cataloguing and database management.
-
-## Specimen [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
-
-Proper [[virola-snuff-amazon-preparation-and-ceremony]] preservation of fungal specimens is fundamental.
-For macrofungi, specimens should be dried rapidly after collection at
-35 to 45 degrees C. Silica gel drying preserves DNA more effectively
-for molecular studies. Microfungi are preserved on microscope slides
-or in culture vials using lactophenol cotton blue, KOH-phloxine, or
-glycerin-based mounting media sealed to prevent desiccation.
-
-Living cultures complement dried specimens by preserving the organism
-for physiological characterization and molecular analysis. Long-term
-storage methods include lyophilization and cryopreservation at minus 85
-degrees C in glycerol or other cryoprotectant solutions.
-
-## Loan Policies and Procedures
-
-Herbaria promote the use of specimens for scientific purposes through
-gifts, exchanges, and loans. Outgoing loans of identified material and
-loans for determination (unidentified material) are the most common
-transactions. Most herbaria require borrowers to submit a formal letter
-of request indicating the purpose of study. Loans are generally made
-only to recognized institutions, not to individuals, to ensure proper
-handling.
-
-Loan invoices list all specimens shipped and serve as permanent
-records, indicating the nature [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] transaction, package contents,
-any restrictions on use, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] loan duration. Several copies of
-invoices are typically sent, with one signed and returned upon receipt
-and another returned when the loan is returned. Summary reports listing
-overdue loans can be generated periodically as reminders.
-
-## Destructive Sampling Policies
-
-Herbarium specimens frequently are used for morphological and molecular
-studies in place of fresh material. Because destructive sampling can
-damage irreplaceable specimens, most herbaria regulate and monitor the
-practice. Common policies include requiring prior consent for DNA
-sampling, specimen-by-specimen approval, limitations on sampling from
-type specimens or underrepresented taxa, and requirements that
-remaining specimen portions be annotated with details of material
-removed [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] nature of the study.
+Proper [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] transaction, package contents,
+any restrictions on use, [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] nature of the study.
 
 Additional requirements often mandate that molecular data be submitted
 to public databases such as GenBank, with accession numbers provided
@@ -147,4 +101,3 @@ Herbarium specimens serve purposes beyond systematic research. They
 document [[fungal-diversity-extreme-environments]] at particular places and times, relevant
 to conservation and climate change studies. They serve as sources for
 ethnological, medical, and pharmaceutical research. As databases and
-imaging technologies advance, herbaria increasingly serve as

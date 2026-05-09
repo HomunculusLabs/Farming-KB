@@ -3,25 +3,9 @@ title: "Mollison Designers Casuarina Windbreak Erosion Control"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [permaculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
----
-title: "Casuarina Windbreak [[mollison-arid-lands-design-and-erosion-control]]"
+tags: [[mollison-arid-lands-design-and-erosion-control]]"
 created: 2026-04-26
-tags: [permaculture, casuarina, windbreaks, nitrogen-fixing, erosion-control]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-type: concept
----
-
-# Casuarina Windbreak and Erosion Control
-
-Bill Mollison highlights Casuarina (she-oak) species as among the most
-valuable [[permaculture-multipurpose-trees]] for windbreaks and erosion
+tags: [[permaculture-multipurpose-trees]] for windbreaks and erosion
 control systems. Native to Australia and widely naturalised across the
 tropics and subtropics, Casuarina combines nitrogen fixation, rapid
 growth, wind resistance, soil stabilisation, and multiple useful products
@@ -50,7 +34,7 @@ exceptionally effective wind filters.
 Casuarina forms a symbiotic relationship with Frankia bacteria in root
 nodules, fixing atmospheric nitrogen and converting it to forms available
 to plants. This nitrogen fixation capacity rivals that of leguminous trees
-like [[permaculture-plants-legume-trees-acacia-carob-locust]] [[acacia]], carob, and locust, and Leucaena.
+like [[acacia]], carob, and locust, and Leucaena.
 
 Mollison emphasises several advantages of Casuarina as a nitrogen fixer:
 
@@ -59,20 +43,12 @@ Mollison emphasises several advantages of Casuarina as a nitrogen fixer:
   soils alike
 - Casuarina leaf litter is nitrogen-rich and breaks down relatively
   quickly, contributing significant nitrogen to the soil surface
-- [[food-forest-understory-plants]] and adjacent crops benefit from the nitrogen
-  enrichment provided by Casuarina root systems and leaf fall
-- The nitrogen-fixing capacity allows Casuarina to thrive on
-  nitrogen-poor soils including degraded farmland, mine sites, and
-  coastal sands
-
-## Windbreak Design
-
-Casuarina is a premier [[permaculture-designers-manual-windbreak-species]] because its dense, conifer-like
+- [[permaculture-designers-manual-windbreak-species]] because its dense, conifer-like
 foliage provides year-round wind filtration. Unlike deciduous windbreak
 trees that lose effectiveness in winter, Casuarina maintains its
 protective canopy year-round.
 
-Windbreak [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] using Casuarina:
+Windbreak [[permaculture-design-principles]] using Casuarina:
 
 - Height: plant 2-3 rows of Casuarina as the windward component of a
   multi-row windbreak; the tallest row should be on the windward edge
@@ -145,6 +121,5 @@ Casuarina is easily established from seed or nursery seedlings:
   height, typically 3-6 months after sowing.
 - Direct seeding: successful on sandy soils where weed competition is
   low; broadcast seed into prepared ground at the start of the wet season
-- Spacing: 2-3m within rows, 3-5m between rows for windbreaks; wider
 ## See Also
 - [[casuarina-equisetifolia]]

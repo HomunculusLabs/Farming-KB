@@ -60,23 +60,7 @@ John Lilly pioneered Ketamine self-experimentation, injecting himself 24 times a
 - One perception out of each million seems familiar
 - "Personal perceptions" increase in frequency
 - Often experienced as "alien rebirth"
-- Continued visuals with eyes open (resemble [[dmt-dimethyltryptamine-experience-guide]] visuals)
-
-### Aftermath
-- Light, anti-gravity feeling
-- Poor motor coordination, slight dizziness
-- Nausea if moving around
-- Best to relax for a couple of hours
-
-## Personality and Set
-
-Dr. Igor Kungurtsev (Russian psychiatrist) found strong correlation between personality type and Ketamine experience quality:
-- **Controlled people** who have difficulty letting go, or who have relationship problems, often have negative experiences — "the dissolving of the individual self is horrible"
-- **Relaxed people** who can surrender have overwhelmingly positive experiences
-
-## The Integration Problem
-
-The main difficulty: 99% of the experience is inaccessible to normal conscious mind within hours. The experience is so bizarre and otherworldly that "some part of the mind protectively closes off access." Turner found taking Ketamine while already high on [[2c-b-psychedelic-empathogen-guide]] provides a "bridge" between ego and the ego-less state.
+- Continued visuals with eyes open (resemble [[2c-b-psychedelic-empathogen-guide]] provides a "bridge" between ego and the ego-less state.
 
 ## Combinations
 - **2C-B**: Provides a "bridge" for integration
@@ -85,35 +69,9 @@ The main difficulty: 99% of the experience is inaccessible to normal conscious m
 
 ## See Also
 
-- [[2c-b-psychedelic-empathogen-guide]] — 2C-B bridge technique
 - [[dmt-dimethyltryptamine-experience-guide]] — DMT comparison
-- [[harmala-alkaloids-and-ayahuasca-preparation]] — Harmala potentiation
 - [[lsd-psychedelic-experience-guide]] — LSD comparison
-- [[psychedelic-safety-and-harm-reduction]] — safety
-
-## Merged: Hallucinogenic Drugs In Psychotherapy History
-
-# Hallucinogenic Drugs in Psychotherapy History
-
-## Overview
-
-The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals. Understanding this history is essential for contextualizing the modern renaissance of psychedelic-assisted therapy.
-
-The history of psychedelic psychotherapy is not merely a medical narrative — it is also a cultural, political, and philosophical story that reflects changing attitudes toward consciousness, healing, and the relationship between the individual and society. From the optimistic early research of the 1950s, through the countercultural explosion of the 1960s, the dark ages of prohibition, and the careful scientific resurgence of the 21st century, the story of psychedelic therapy illuminates fundamental questions about the nature of consciousness, the limits of pharmacological intervention, and the role of set and setting in shaping human experience.
-
-## Western Paradigm: Psycholytic Therapy
-
-When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **Stanislav Grof**, working within this model, discovered that patients would relive birth and pre-birth memories — patterns he named "perinatal matrices."
-
-Psycholytic therapy emphasized the psychoanalytic framework, using LSD as a tool to access unconscious material more efficiently than conventional talk therapy. Sessions typically involved lower doses (50-200 micrograms) administered over multiple sessions, allowing patients to process material gradually.
-
-The psycholytic approach was particularly associated with European research centers in the United Kingdom, Switzerland, Czechoslovakia, and West Germany. These programs typically operated within academic medical settings and maintained rigorous clinical protocols. The gradual dose escalation allowed therapists to build trust with patients and to develop skill in navigating the psychedelic experience. Many practitioners reported that even a single psycholytic session could accomplish therapeutic breakthroughs that would have taken years of conventional psychotherapy.
-
-## Western Paradigm: Psychedelic Therapy
-
-More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. **Humphry Osmond**, working in Canada with Abram Hoffer on the treatment of alcoholism with LSD, coined the term "psychedelic" (mind-manifesting) in correspondence with Aldous Huxley. Psychedelic therapy usually involved one or a small number of high-dose sessions, during which the unconscious mind would manifest in vivid hallucinatory imagery, leading to insight and transformation.
-
-This approach showed remarkable results in treating alcoholism, with early studies reporting 50% or higher abstinence rates at follow-up — significantly better than conventional treatments of the era. See [[lsd-therapeutic-history]] for detailed coverage of LSD therapy research.
+- [[lsd-therapeutic-history]] for detailed coverage of LSD therapy research.
 
 The contrast between psycholytic and psychedelic therapy illustrates a fundamental tension in psychedelic-assisted therapy that persists to this day: whether to use lower doses over multiple sessions to gradually work through psychological material, or to use high doses to produce a transformative "peak experience" that restructures the patient's relationship to themselves and their problems. Both approaches have their advocates, and modern research has begun to explore which approach is most effective for different conditions and patient populations.
 

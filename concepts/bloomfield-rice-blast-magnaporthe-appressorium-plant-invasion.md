@@ -21,22 +21,7 @@ type: concept
 
 ## Overview
 
-Rice blast, caused by Magnaporthe grisea (now Magnaporthe oryzae), is one
-of the most devastating crop diseases worldwide. A rice field infected by
-Magnaporthe looks as if struck by a bomb. The fungus is remarkable for
-its appressorium, a dome-shaped infection structure generating enormous
-internal turgor pressure to mechanically puncture plant surfaces. At
-over 80 atmospheres, the Magnaporthe appressorium is the most powerful
-mechanical pathogen known, capable of penetrating bulletproof vest
-material.
-
-## Global Significance
-
-Rice ranks as the second largest crop on Earth and the staple food for
-more than half the world's population. Rice blast is most prevalent in
-intensively farmed, nitrogen-fertilized areas; subsistence farmers relying
-on natural soil fertility are less affected. The fungus usually infects
-leaves, spreading as an invasive mycelium that starves developing grain.
+Rice blast, caused by [[mycelium]] that starves developing grain.
 Neck blast, attacking the panicle, causes bleaching and withering that
 leads to especially severe crop loss.
 
@@ -126,6 +111,5 @@ possibility of living fungal computers using guided mycelial circuits.
 
 ## See Also
 
-- [[bloomfield-turgor-pressure-and-hyphal-invasion]] for turgor in other fungi
 - [[bloomfield-fungal-plant-pathogens]] for broader plant pathology
 - [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] for rust comparison

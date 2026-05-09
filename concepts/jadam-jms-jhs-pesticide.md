@@ -15,15 +15,8 @@ sources:
 
 ## Overview
 
-The JMS-JHS pesticide combines [[jadam-microorganism-solution-jms]] with [[jadam-herb-solution-jhs]] and [[jadam-wetting-agent-jwa]] to create a dual-action crop protection spray. This combination provides both the microbial crowding effect of JMS (preventing disease) and the direct insecticidal effect of JHS (killing pests). It is the bridge between prevention and active pest control.
-
-## Recipe
-
-For 500 L (132 gal) of spray solution:
-
-- [[jadam-microorganism-solution-jms]] 10-20 L (2.6-5.3 gal)
-- Jerusalem artichoke [[jadam-herb-solution-jhs]] 5-10 L (1.3-2.6 gal)
-- [[jadam-wetting-agent-jwa]] 3-5 L (0.8-1.3 gal)
+The JMS-JHS pesticide combines [[jadam-herb-solution-jhs]] and [[jadam-microorganism-solution-jms]] 10-20 L (2.6-5.3 gal)
+- Jerusalem artichoke [[jadam-wetting-agent-jwa]] 3-5 L (0.8-1.3 gal)
 - Water to make 500 L (132 gal)
 
 ## How It Works
@@ -84,36 +77,7 @@ You can use both JHS types or just one. For broader coverage, use KPFR JHS which
 ### Active Pest Pressure
 - Increase to 20 L JMS + 10 L JHS + 5 L JWA per 500 L
 - Apply every 2-3 days
-- If disease appears, add 1-2 L of [[jadam-sulfur-js]]
-
-### Transition to Disease Control
-- If disease breaks out: replace JMS with JS (recipe #4 or #5)
-- If pest pressure dominates: replace JMS with more JHS (recipe #7, #8, or #9)
-
-## Enhancement Options
-
-- Add 0.5 kg (1.1 lb) fine red clay powder for increased effectiveness
-- Add JS 1-2 L for combined germicidal + insecticidal effect
-- Add sea water or sea salt for mineral supplementation (soil application only)
-
-## Relation to Other JNP Types
-
-In the JADAM natural pesticide program:
-
-```
-JMS + JWA = JMS germicide (disease prevention)
-JMS + JHS + JWA = JMS-JHS pesticide (this page - prevention + pest control)
-JS + JWA = JS germicide (active disease treatment)
-JS + JHS + JWA = JS-JHS pesticide (active disease + pest treatment)
-JHS + JWA = JHS pesticide (pest control, no disease focus)
-```
-
-## See Also
-
-- [[jadam-jms-pesticide]] - JMS-focused prevention recipe (#11)
-- [[jadam-microorganism-solution-jms]] - JMS production guide
+- If disease appears, add 1-2 L of [[jadam-jms-pesticide]] - JMS-focused prevention recipe (#11)
 - [[jadam-herb-solution-jhs]] - JHS making guide
-- [[jadam-wetting-agent-jwa]] - Essential surfactant
 - [[jadam-natural-pesticide-jnp]] - Complete JNP system overview
-- [[jadam-pest-control-recipes]] - All numbered recipes
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]

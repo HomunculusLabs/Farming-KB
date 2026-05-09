@@ -1,16 +1,7 @@
 ---
 title: "Lichen Water Relations"
 created: 2026-04-28
-tags: [mycology, lichenology, water-relations, poikilohydry, ecophysiology]
-date: 2026-04-25
-updated: 2026-04-25
-sources: gadd-fungal-extremophiles-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
-type: concept
----
-
-# Lichen Water Relations
-
-[[lichens]] are symbiotic associations between a fungal partner (mycobiont) and a
+tags: [[lichens]] are symbiotic associations between a fungal partner (mycobiont) and a
 photosynthetic partner (photobiont), typically a green alga or cyanobacterium.
 As poikilohydric organisms, lichens lack internal mechanisms for controlling
 water content and instead equilibrate their water status with the surrounding
@@ -56,44 +47,7 @@ characteristics.
 
 Many lichens can absorb water vapour directly from the atmosphere, a capacity
 that depends on their thallus morphology and the hygroscopic properties of
-cell walls and extracellular polysaccharides. Vapour uptake is particularly
-important for lichens in arid and semi-arid environments, where liquid water
-is episodic. Species with well-developed cortical layers may have reduced
-vapour exchange, while those with exposed photobiont layers can take up water
-more readily.
-
-The minimum relative humidity at which a lichen can absorb sufficient water
-for photosynthesis varies among species. Some crustose lichens in deserts can
-photosynthesize at relative humidities as low as 60%, while other species
-require liquid water. This variability in water-uptake capacity is a major
-factor determining lichen distribution patterns across moisture gradients.
-
-## Effects of Thallus Morphology
-
-Thallus morphology profoundly influences water relations. Foliose and
-fruticose lichens, with their loosely organized internal structure and
-relatively large surface area, can absorb and lose water rapidly. Crustose
-lichens, closely appressed to their substrate, tend to have slower water
-exchange but may retain water for longer periods.
-
-The presence of specialized structures such as rhizines, cilia, and
-cyphellae can enhance water uptake and retention. Gelatinous lichens,
-containing cyanobacteria as the photobiont, can swell dramatically when
-wetted due to the water-absorbing properties of the cyanobacterial sheath
-polysaccharides.
-
-## Photosynthetic Response to Rehydration
-
-Upon rehydration, lichen photosynthesis resumes within minutes. However, the
-pattern of photosynthetic recovery varies with the type of water supplied.
-When wetted with liquid water, photosynthetic CO2 exchange typically shows
-an initial burst of CO2 release (respiratory burst), followed by a decline
-in respiration and eventual positive net photosynthesis. When hydrated by
-water vapour alone, the respiratory burst may be absent and photosynthesis
-may commence more rapidly.
-
-The initial respiratory burst upon liquid-water rehydration is attributed to
-the rapid activation of mitochondrial respiration and the consumption of
+[[electron-transport-chain-mitochondrial-respiration]] and the consumption of
 carbohydrate reserves accumulated during previous photosynthetic periods.
 The intensity and duration of this burst increase with the duration of
 preceding desiccation.
@@ -134,17 +88,10 @@ competitive interactions. In humid environments, lichens face competition
 from faster-growing vascular plants. Their poikilohydric strategy, while
 effective for survival, limits sustained productivity compared with
 homoiohydrous organisms. In arid and extreme environments such as polar
-regions and deserts, lichens become dominant primary producers because of
-their superior stress tolerance.
-
-Lichens contribute significantly to ecosystem processes including nitrogen
-fixation (when cyanobacterial photobionts are present), carbon fixation,
-rock weathering, and soil formation. Their ability to resume metabolic
-activity rapidly after brief periods of hydration makes them effective
-exploiters of ephemeral moisture in otherwise dry environments.
+regions and deserts, lichens become dominant primary produce [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] osystem processes including nitrogen
+fixation (when cyanobacterial photobionts ar [[biodiversity-xerophilic-fungi-dry-environments]].
 
 ## Climate Change Considerations
 
 ## See Also
-- [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - [[fungal-water-relations]]

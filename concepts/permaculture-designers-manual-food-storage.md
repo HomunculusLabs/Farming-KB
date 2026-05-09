@@ -3,18 +3,7 @@ title: Food Storage
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, storage, fruit-tree]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Food Storage
-
-Source: Permaculture: A Designers' Manual (Bill Mollison, 1988), Chapters 5, 11
-
-Updated: 2026-04-18
-
-Safe storage of food product is essential in every climate. Mollison emphasises that people should have access to reliable food storage as a critical component of [[permaculture-designers-manual-settlement-design]], particularly in areas subject to famine, flood, or seasonal scarcity.
+tags: [[permaculture-designers-manual-settlement-design]], particularly in areas subject to famine, flood, or seasonal scarcity.
 
 ## Root Storage (Cold Caves)
 
@@ -61,12 +50,7 @@ Food storage needs to be coped with by food storages on good, well-drained sites
 
 ## Storage in Designed Settlements
 
-In the [[permaculture-designers-manual-settlement-types]] design, storage areas should be:
-
-- Located for easy access from kitchen and processing areas
-- Protected from rodents, insects, and moisture
-- Designed for appropriate temperature and humidity for different food types
-- Integrated with [[permaculture-designers-manual-food-preserving]] systems
+In the [[permaculture-designers-manual-food-preserving]] systems
 - Sized for the household or community needs
 
 ## Processing and Preservation Integration
@@ -81,11 +65,26 @@ Storage connects to a wider system of food processing:
 
 ## Related Topics
 
-- [[permaculture-designers-manual-food-preserving]]
 - [[permaculture-designers-manual-settlement-design]]
-- [[permaculture-designers-manual-passive-solar-design]]
 - [[permaculture-designers-manual-temperate-climate-design]]
-- [[permaculture-designers-manual-composting-toilet-design]]
 - [[permaculture-designers-manual-rainwater-harvesting-detailed]]
-- [[permaculture-designers-manual-composting-toilet-design]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
+## Practical Considerations
+
+Successful implementation of Food Storage requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

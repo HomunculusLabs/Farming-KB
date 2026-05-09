@@ -79,8 +79,6 @@ If correct, the biochemical hypothesis has profound implications for understandi
 
 ## See Also
 
-- [[hallucinogens-and-shamanism-harner-anthology]]
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
-- [[ayahuasca-preparation-methods]]
 - [[harmala-alkaloids]]
 - [[banisteriopsis-caapi]]

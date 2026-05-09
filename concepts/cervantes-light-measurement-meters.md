@@ -67,23 +67,9 @@ They cost approximately $30-50 and give an accurate idea of light
 distribution across a garden, even if they measure foot-candles
 rather than PAR. Use a light meter to:
 
-- Verify even light distribution from [[cervantes-lighting-systems]]
-- Determine when to add supplemental lighting in dark corners
-- Measure the point where natural daylight intensity equals HID
-  output for [[greenhouse-cannabis-growing]] integration
+- Verify even light distribution from [[greenhouse-cannabis-growing]] integration
 - Check reflector effectiveness after adjusting
-  [[cervantes-reflective-materials-grow-room-walls]]
-
-In greenhouse growing, turn on the HID when daylight intensity drops
-below the HID's output. Measure this point with a light meter. Turn
-off the HID when daylight intensity exceeds the HID output.
-
-## Kelvin Temperature and Color
-
-Light is also measured in spectrum with Kelvin temperature, which
-expresses the exact color a bulb emits. Bulbs with a Kelvin
-temperature from 3000 to 6500 are best for growing marijuana. See
-[[cervantes-light-spectrum-photomorphogenesis]] for detailed
+  [[cervantes-light-spectrum-photomorphogenesis]] for detailed
 spectrum guidance.
 
 The Color Corrected Temperature (CCT) of a bulb is the peak Kelvin
@@ -102,8 +88,7 @@ a CRI of 100, the maximum. A Deluxe Daylight fluorescent achieves
 ## Relationship to Lamp Selection
 
 Understanding these measurements helps when selecting between
-[[hps-grow-lights]], [[cmh-grow-lights]], [[led-grow-lights]], and
-[[cervantes-compact-fluorescent-lighting]]. Each technology has
+[[cmh-grow-lights]], [[cervantes-compact-fluorescent-lighting]]. Each technology has
 different spectral profiles and efficiencies. The "Light Measurement
 Handbook" available free from www.intl-light.com/handbook/ provides
 extensive technical detail for growers who want to deepen their
@@ -115,7 +100,6 @@ When light shines on a garden, leaves near the top of plants get
 more intense light than leaves at the bottom. Top leaves shade
 bottom leaves and absorb light energy. If lower leaves do not receive
 enough light, they yellow and die. Proper spacing, training with
-[[cervantes-pruning-training]], and methods like
 [[screen-of-green]] all aim to maximize the amount of
 foliage receiving sufficient light intensity.
 

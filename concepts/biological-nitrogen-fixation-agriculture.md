@@ -138,13 +138,6 @@ factor perception using shared AM signaling components (CCaMK, DMI1, DMI2
 already present in cereals), and enhancing associative endophytes. Key
 organogenesis genes: **NIN** (master regulator), **CCaMK/CYCLOPS** (calcium
 spiking decoder), **ENOD40** (auxin transport regulation), and **NF-Y complex**
-([[cover-crops]]ific transcription). *Parasponia* uses a single LysM receptor for
-Nod factors, suggesting a simpler path. Full cereal nodulation remains decades
-away but CRISPR and synthetic biology are accelerating progress.
-
-## See Also
-
-- [[cover-crops-green-manures]] — legume cover crops as BNF sources
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] — mycorrhizal P uptake
+([[cover-crops-green-manures]] — legume cover crops as BNF sources
 - [[biofertilizers-and-soil-inoculants]] — microbial inoculant products
 - [[plant-nutrient-uptake-mechanisms]] — root nutrient acquisition

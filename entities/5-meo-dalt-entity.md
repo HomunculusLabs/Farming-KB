@@ -137,13 +137,7 @@ No formal LD₅₀ data are available for humans. Animal toxicity data are extre
 - Use in a safe, comfortable environment with a trusted person present
 ## See Also
 
-- [[5-meo-dpt]]
-
-- [[5-meo-dalt]]
-
-- [[5-meo-dmt]] — more potent 5-methoxy tryptamine
-- [[4-ho-dipt-entity-tihkal]] — related short-acting tryptamine
+- [[5-meo-dmt-entity]] — more potent 5-methoxy tryptamine
 - [[psilocin]] — natural psychedelic tryptamine
-- [[alexander-shulgin]] — chemist who first characterized the compound
 - [[tihkal-dmt-pharmacology]] — source text documenting this and related tryptamines
 - [[serotonin]] — endogenous ligand at 5-HT receptors

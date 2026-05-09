@@ -24,7 +24,7 @@ sources:
 
 The infected ant abandons its colony, climbs to an elevated position on vegetation, and secures itself to the underside of a leaf with a death bite to the main vein.
 
-This behavioral manipulation positions the host optimally for fungal spore dispersal, creating one of the most dramatic examples of parasite-driven host behavior in nature.
+This behavioral manipulation positions the host optimally for , creating one of the most dramatic examples of parasite-driven host behavior in nature.
 
 The species complex was reclassified from *Cordyceps unilateralis* to *Ophiocordyceps unilateralis* in 2007 by Petch and later formalized by Sung et al. (2007).
 
@@ -45,27 +45,7 @@ Molecular phylogenetics has revealed at least 15–20 cryptic species within the
 
 ## Morphology
 
-The fungus produces a conspicuous stroma (fruiting body) that emerges from the posterior of the dead ant's head or thorax.
-
-Stroma length ranges from 1–5 cm, cylindrical to slightly clavate, typically orange-brown to dark brown in color.
-
-The ascomata (perithecia) are ovoid to flask-shaped, partially embedded in the stroma surface, measuring 300–600 × 150–300 μm.
-
-Ascospores are filiform (thread-like), multiseptate, 150–300 μm long, and are actively discharged into the air to infect new hosts.
-
-Beneath the cuticle, the fungus forms a dense network of hyphal bodies within the ant's hemocoel, particularly concentrated in the head and thorax.
-
-## Distribution and Habitat
-
-The fungus is distributed across tropical and subtropical forest regions worldwide, with highest diversity in Southeast Asia and South America.
-
-It is most commonly observed in lowland to montane rainforests below 1500 m elevation, where humidity remains consistently high.
-
-The pathogen is obligately associated with forest canopy environments, as the behavioral manipulation requires the host to climb vegetation.
-
-Infected ants are typically found on the undersides of leaves approximately 25 cm above the forest floor, oriented toward the canopy.
-
-Temperature optima for growth and sporulation range from 20–25°C, matching the microclimate of the forest understory.
+The fungus produces a conspicuous stroma ([[food-forest-understory-plants]]0–25°C, matching the microclimate of the forest understory.
 
 ## Host Range and Specificity
 
@@ -83,23 +63,7 @@ Once inside the hemocoel, the fungus proliferates as yeast-like hyphal bodies th
 
 Behavioral changes manifest approximately 3–7 days post-infection, coinciding with extensive fungal colonization of the ant's central nervous system.
 
-The fungus does not invade neurons directly but surrounds and connects to neural tissue, releasing bioactive compounds that alter motor function.
-
-Infected ants exhibit convulsive movements, loss of proprioception, and disorientation before the final climbing behavior.
-
-The "death bite" (or "death grip") is a stereotyped behavior where the ant clamps its mandibles onto a leaf vein with maximum force.
-
-This bite is so forceful that even after the ant's death, the mandibles remain locked, securing the cadaver to the vegetation.
-
-After host death, the fungus consumes the internal tissues and produces the stroma for spore dispersal.
-
-## Bioactive Compounds
-
-Several secondary metabolites have been isolated from *O. unilateralis* cultures and infected host tissue.
-
-**Cordycepin** (3'-deoxyadenosine), a nucleoside analog with broad biological activity, has been detected in significant quantities.
-
-The fungus produces ergot alkaloids and other indole-derived compounds that may contribute to neurological effects on the host.
+The fungus does not invade neurons direct [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]] and other indole-derived compounds that may contribute to neurological effects on the host.
 
 Specific fungal peptides and small-molecule effectors that interact with insect neuromodulatory pathways have been identified through transcriptomic studies.
 
@@ -115,7 +79,7 @@ Ant colonies have evolved several defensive behaviors, including infected ants b
 
 Some ant species groom infected individuals to remove spores before germination, representing a behavioral immune response.
 
-The fungus creates localized infection zones on the forest floor, generating "graveyards" of dead ants that can contain dozens of cadavers.
+The fungus creates localized infection zon [[query-how-do-parasitoid-wasps-control-pest-populations]] floor, generating "graveyards" of dead ants that can contain dozens of cadavers.
 
 Parasitoid wasps and hyperparasitic fungi (e.g., *Tolypocladium* species) attack the *Ophiocordyceps* stroma, forming a complex multi-trophic interaction web.
 
@@ -127,24 +91,22 @@ Laboratory cultivation is challenging due to the obligate requirement for living
 
 The fungus can be maintained on artificial media (PDA, SDA) as a saprotrophic phase, but fruiting requires infection of live ants.
 
-Researchers use controlled inoculation chambers to study the infection process, monitoring behavioral changes through time-lapse photography.
-
-Genomic sequencing of multiple *O. unilateralis* lineages has revealed expansion of gene families associated with pathogenicity and host manipulation.
-
-CRISPR-based functional genomics approaches are being developed to identify specific genes responsible for behavioral manipulation.
-
 ## See Also
 
-- [[biodiversity-fungi-entomopathogenic-insect-pathogens]]
+- 
 
-- [[ophiocordyceps-sinensis]]
-- [[cordyceps-militaris-cultivation]]
+- 
+- -cultivation
 
 - [claviceps-purpurea](claviceps-purpurea.md)
 - [cordyceps-militaris](cordyceps-militaris.md)
-- [metarhizium-anisopliae](metarhizium-anisopliae.md)
+- ](metarhizium-anisopliae.md)
 - [beauveria-bassiana](beauveria-bassiana.md)
-- [entomophthora-muscae](entomophthora-muscae.md)
+- ](entomophthora-muscae.md)
 - [tolypocladium-ophioglossoides](tolypocladium-ophioglossoides.md)
 - [cordyceps](cordyceps-militaris.md)
-- [purpureocillium-lilacinum](purpureocillium-lilacinum.md)
+- ](purpureocillium-lilacinum.md)
+
+## See Also
+- [[mycoforestry-forest-management-with-fungi]]
+- [[teaming-with-microbes-old-growth-forest]]

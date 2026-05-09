@@ -107,11 +107,7 @@ In Galapagos Islands study (Mahoney 1972), of 250 taxonomic entities recovered b
 
 ## See Also
 
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[particle-filtration-dilution-plating-microfungal-isolation]]
-- [[soil-fungal-isolation-techniques]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[fungal-culture-media-formulas-applications]]
-- [[saprobic-soil-fungi-ecology-survey]]
 - [[biodiversity-of-fungi-soil-isolation-methods]]

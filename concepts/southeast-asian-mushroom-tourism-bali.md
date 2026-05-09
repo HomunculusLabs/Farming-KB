@@ -4,18 +4,13 @@ created: 2026-04-19
 updated: 2026-04-18
 type: concept
 sources: magic-mushrooms-around-the-world-gartz.md
-tags: [mycology, mushrooms]
----
-
-# Southeast Asian Mushroom Tourism and the Bali Omelette Tradition
-
-Since the late 1960s, the custom of using [[psilocybin-compound]]-containing mushrooms has evolved across various countries in Asia and the Pacific Islands. The most distinctive manifestation of this practice is the famous "mushroom omelette" tradition of Bali, Indonesia -- where psychoactive mushrooms were served openly in restaurants as legal culinary specialties for tourists.
+tags: [[psilocybin]]-containing mushrooms has evolved across various countries in Asia and the Pacific Islands. The most distinctive manifestation of this practice is the famous "mushroom omelette" tradition of Bali, Indonesia -- where psychoactive mushrooms were served openly in restaurants as legal culinary specialties for tourists.
 
 ## The Bali Mushroom Omelettes
 
 ### Origin and Development
 
-During the 1970s and 1980s, the mushroom restaurants of Bali became internationally famous. Interested tourists could order mushroom omelettes made with [[panaeolus-cyanescens]] -- house specialties that were completely legal.
+During the 1970s and 1980s, the mushroom restaurants of Bali became internationally famous. Interested tourists could order mushroom omelettes made with [[panaeolus-cyanescens-entity]] -- house specialties that were completely legal.
 
 Initially, local children collected the mushrooms needed to prepare the dishes. In response to increasing demand, commercial cultivation of the Panaeolus species began, using a simple but effective method:
 
@@ -50,9 +45,6 @@ Western amateur mycologists helped disseminate information about these species a
 
 The species found in Southeast Asia and the Pacific Islands largely overlap with those found in other tropical and subtropical regions:
 
-- **[[psilocybe-cubensis]]** -- The most widely distributed tropical psychoactive species
-- **Panaeolus cyanescens** -- Dung-inhabiting tropical species
-- **Panaeolus tropicales** -- Close relative of P. cyanescens, found in Cambodia
 - **[[psilocybe-samuiensis]]** -- Named after Koh Samui, Thailand
 
 In most cases, the differentiation of the two Panaeolus species is an extremely difficult task, even for experienced mycologists.
@@ -90,7 +82,7 @@ In Thailand and Cambodia, Heim found fruiting bodies of Psilocybe cubensis, prov
 
 ### The Soma Question in Southeast Asia
 
-Within the context of discovering Psilocybe samuiensis, Schroeder and Guzman proposed a hypothesis that "soma" -- the substance revered as a deity by the ancient Aryan civilization -- may have referred to a psilocybin-containing mushroom rather than the fly agaric (see [Soma in the Rig Veda and [[amanita-muscaria]] for the competing theory). This proposal adds another layer to the ongoing debate about the identity of the ancient Vedic sacrament.
+Within the context of discovering Psilocybe samuiensis, Schroeder and Guzman proposed a hypothesis that "soma" -- the substance revered as a deity by the ancient Aryan civilization -- may have referred to a psilocybin-containing mushroom rather than the fly agaric (see [Soma in the Rig Veda and [[amanita-muscaria-entity]] for the competing theory). This proposal adds another layer to the ongoing debate about the identity of the ancient Vedic sacrament.
 
 ### Tourism-Driven Discovery
 
@@ -123,10 +115,7 @@ The Southeast Asian mushroom tourism phenomenon demonstrates several important p
 
 ## See Also
 
-- [[asian-psilocybin-mushroom-guide]]
 - [[medicinal-mushroom-dietary-supplements]]
-- [[telluride-mushroom-festival-modern-mycological-culture]]
-
 - [[panaeolus-subbalteatus]] -- The Bali omelette species
 - [Psilocybe cubensis -- Most widely distributed tropical species
 - [Mushroom cultivation -- Cultivation techniques

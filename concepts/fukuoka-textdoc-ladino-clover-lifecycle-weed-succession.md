@@ -105,43 +105,10 @@ and eventual dominance of weeds again in five to six years. To maintain it
 over the years, clover requires the same meticulous care that one gives a
 lawn.
 
-Areas where perennial weeds such as sorrel and dandelion, twining plants
-such as bindweed, and cogon, bracken, and other herbs grow in abundance
-should be cut more frequently than other places, and wood ashes or coal
-ashes scattered. The rate of lateral growth by clover is slow, so when
-starting the orchard, the seed should be sown from one end of the orchard
-to the other to ensure complete coverage. With proper management, this
-clover cover will eliminate the need for weeding, and mowing will be
-incomparably easier than in an orchard overrun with weeds.
-
-## The Disadvantages and Summer Vulnerability
-
-The only disadvantages of ladino clover are that it is susceptible to
-summer-killing and sclerotium disease during hot, dry weather, and that
-growth is retarded in the shade and under trees. In warm regions where it
-tends to lose its vigor in the summer, mixed seeding with alfalfa is
-desirable. Alfalfa is very deep-rooted, sending roots down to depths of
-six feet or more, making it ideal for improving the deeper soil strata.
-A hardy perennial, it is resistant to droughty and cold conditions as well
-as to high temperatures. When mixed with clover, alfalfa helps to
-eliminate other herbs and grasses.
-
-Bur clover, useful in controlling spring weeds, withers in the summer but
-grows back again in the fall and suppresses winter weeds as well. It is a
-useful orchard cover crop and also valuable in the rotation as a crop
-preceding summer vegetables. These complementary legumes fill the gaps in
-the clover lifecycle, providing continuous ground cover across seasons and
-
-## See also
-
-- Black Wattle Green Manure Trees and Orchard Soil Building
-- Ladino Clover Ground Cover Management
-- Clover and Green Manure Cropping
-- [[white-clover-ground-cover]]
+Areas where perennial weeds such as sorrel and [[white-clover-ground-cover]]
 - Natural Weed Management
 
 ## See Also
 
-- [[cover-crops]]
 - [[masanobu-fukuoka]]
 - [[natural-farming]]

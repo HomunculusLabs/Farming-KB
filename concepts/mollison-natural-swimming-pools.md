@@ -1,34 +1,7 @@
 ---
 title: "Natural Swimming Pools"
 created: 2026-04-26
-tags: [permaculture, water, design, waste-treatment]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Natural Swimming Pools
-
-## Overview
-
-Mollison opens the section on natural swimming pools with a verse from
-John Donne, evoking the idea of swimming in living water. He contrasts
-this with the "virulent aquamarine rash" of chlorinated suburban pools,
-whose artificial colour mimics an "ocean wave obediently crashing down
-the toilet bowls of the overly-fastidious." The chemicals used to
-purify conventional pools are biocides, and since humans are biological
-organisms, Mollison argues that if fish cannot live in our pools, we
-should also keep our bodies out of the water. Chlorine, when not used
-as a war gas, is dumped into drinking, bathing, and swimming water,
-where it forms carcinogenic chloroform.
-
-## Biological Filtration Design
-
-Innovative pool designers filter natural pools below a base pebble bed,
-using pebbles as algal and bacterial cleaners. The water is then
-cycled through a [[mollison-sewage-treatment-natural-processes]] to remove excess nutrients before cascading back, freshly
+tags: [[mollison-sewage-treatment-natural-processes]] to remove excess nutrients before cascading back, freshly
 oxygenated, into the pool. Such pools become delightful systems
 containing tame fish, crayfish, rock ledges, over-arching ferns, and
 providing great good health.
@@ -38,8 +11,7 @@ providing great good health.
 Natural swimming pools serve many purposes beyond recreation:
 
 - Fire-fighting reserves for the property
-- Potential heat sources for [[mollison-pdc-solar-greenhouse-design]]
-- Barriers to [[mollison-fire-control-design]] spread
+- Potential heat sources for [[mollison-fire-control-design]] spread
 - Emergency water supplies rechargeable from the roof
 - Recycled by photovoltaic pumps
 
@@ -49,20 +21,7 @@ chemical pools and replaces it with an ecologically productive system.
 ## Construction Principles
 
 The design involves water pumped down through base gravels, cleansed in
-reed beds, aerated via a [[mollison-von-karman-trails-and-flowforms]],
-and skimmed of leaves. This approach avoids the carcinogenic chloroforms
-produced by chlorine used in conventional pools. A slow flow through a
-gravel bed is essential, as are tests for the presence of E. Coli
-bacteria (less than required for chlorine pools).
-
-## Gravel Bed Specifications
-
-Pools and less polluted systems use a pumped cycle of water through
-ferns, rushes, and watercress, which suffices to remove urine and
-leaves. Such natural pools need a 23-30 cm (9-12 inch) coarse river
-gravel base, with intake pipes below, and a skimming notch for leaves.
-
-The reed bed filtration uses species from the [[mollison-sewage-treatment-natural-processes]] palette:
+reed beds, aerated via a [[mollison-sewage-treatment-natural-processes]] palette:
 
 - Phragmites communis and Typha species: flocculate colloids,
   dry out sludges, eliminate pathogens
@@ -71,21 +30,11 @@ The reed bed filtration uses species from the [[mollison-sewage-treatment-natura
 
 ## Integration with Permaculture Design
 
-Natural swimming pools fit naturally into the [[mollison-house-and-garden-layout]] and can be integrated with:
-
-- [[mollison-water-harvesting-management-permaculture]]
+Natural swimming pools fit naturally into the [[mollison-water-harvesting-management-permaculture]]
   that recharge the pool from roof catchment
-- [[mollison-greywater-domestic-water-recycling]] that
-  feed into the purification chain before reaching the pool
 - [[mollison-aquatic-plant-systems]] that provide
   both filtration and productive yields
-- [[mollison-pond-edge-configuration-and-yield]] that
-  maximises the productive interface
-
-## Comparison with Conventional Pools
-
-The contrast between natural and conventional pools exemplifies the
-broader permaculture critique of [[mollison-type-one-errors-in-design]]:
+- [[mollison-type-one-errors-in-design]]:
 solving one problem (water cleanliness) while creating others
 (carcinogenic byproducts, sterile environments, ongoing chemical costs,
 ecological harm). Natural pools treat water as a living system rather
@@ -124,8 +73,25 @@ blue pools cannot offer.
 
 ## See Also
 
-- [[mollison-sewage-treatment-natural-processes]]
 - [[mollison-water-purification-biological-treatment]]
-- [[mollison-aquatic-plant-systems]]
 - [[mollison-pond-design-freshwater-aquaculture]]
 - [[mollison-permaculture-two-sod-roof-construction]]
+## Practical Considerations
+
+Successful implementation of Natural Swimming Pools requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -99,11 +99,7 @@ Geese should only be allowed into well-established areas so they do not squash y
 
 ## Related Topics
 
-- [[chicken-keeping-guide]] — comparing poultry species
 - [[duck-keeping]] — related waterfowl care
-- [[pasture-management-and-forage]] — grazing management
 - [[pig-keeping-guide]] — other homestead livestock
-- [[goat-keeping-guide]] — additional livestock options
 - [[knf-livestock-chicken-house-natural-farming]]
-- [[faires-duck-and-goose-keeping]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]

@@ -10,13 +10,9 @@ tags: [plants]
 
 # Chacruna Plant
 
-Chacruna ([[psychotria-viridis]]) is an evergreen shrub of the Rubiaceae
-(madder family) native to the Amazon basin. Its leaves are the most
-important DMT-containing additive in the preparation of
-[[ayahuasca-preparation]]. Without the addition of chacruna or a
+Chacruna ([[ayahuasca-preparation]]. Without the addition of chacruna or a
 similar DMT source, the ayahuasca brew made solely from
-[[banisteriopsis-caapi]] produces relatively mild effects dominated
-by the [[harmala-alkaloids]]. It is the combination of chacruna's DMT
+[[harmala-alkaloids]]. It is the combination of chacruna's DMT
 with the MAO-inhibiting harmala alkaloids of B. caapi that produces
 the full visionary experience for which ayahuasca is renowned.
 
@@ -56,8 +52,7 @@ in its profound effects on consciousness, perception, and the sense
 of self.
 
 DMT is also found in several other plants used in Amazonian
-shamanism, including [[virola-snuff]] (Virola species) and various
-species of Anadenanthera (see [[anadenanthera-entheogens]]). The
+shamanism, including [[anadenanthera-entheogens]]). The
 compound is also produced endogenously in the human body, though its
 physiological role remains poorly understood.
 

@@ -1,39 +1,7 @@
 ---
 title: "Urine and Human Waste Separation Systems"
 created: 2026-04-26
-tags: [permaculture, waste-treatment, soil, water]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Urine and Human Waste Separation Systems
-
-## Overview
-
-Mollison advocates for the separation of sewage into solids and liquids
-at the domestic level, arguing that this has significant productive
-advantages. The separation of urine from faeces, and of both from
-greywater, allows each waste stream to be treated by the most
-appropriate biological system and each to yield useful products.
-
-## The Nutrient Value of Urine
-
-Urine is a concentrated source of plant nutrients, particularly
-nitrogen and phosphorus. Mollison cites research showing that 2% urea
-sprayed on the foliage of rice plants in padi has increased grain
-protein yields to 40% (11% protein by weight). This demonstrates that
-urine, properly diluted and applied, can significantly enhance crop
-nutrition without the losses and pollution risks associated with
-discharging it into sewage systems.
-
-### Garden Applications
-
-Urine diluted with water to a 5% solution controls moulds on cucurbits
-and aids garden growth or compost activity generally. As a nitrogen-
-rich liquid, it serves as an activator for [[mollison-dry-toilet-composting-systems]] and as a direct foliar feed for
+tags: [[mollison-dry-toilet-composting-systems]] and as a direct foliar feed for
 heavy-feeding crops.
 
 ### Chemical Recovery
@@ -48,11 +16,7 @@ self-reliance in fuels and industrial chemicals.
 Mollison recommends dry toilets in remote, unsewered, or unsuitable
 areas. However, he notes an important limitation: dry toilets reduce
 the potential uses of sewage. When faeces are separated from the liquid
-stream, they cannot be used to produce methane by [[mollison-biogas-and-methane-production-from-sewage]] in
-septic tanks. This trade-off must be weighed against the benefits of
-water conservation and simplicity.
-
-In the [[mollison-dry-toilet-composting-systems]], if no septic tank is present, a
+stream, they cannot be used to produce methane by [[mollison-dry-toilet-composting-systems]], if no septic tank is present, a
 dry toilet will suffice, and the manure can be put under trees in pits.
 Even "toilet paper" can be built into the hedges (Nicotiana is great,
 as is Leucaena).
@@ -122,8 +86,6 @@ multiple functions.
 
 ## See Also
 
-- [[mollison-biogas-and-methane-production-from-sewage]]
 - [[mollison-dry-toilet-composting-systems]]
-- [[mollison-greywater-domestic-water-recycling]]
 - [[mollison-composting-methods]]
 - [[mollison-sewage-lagoon-pond-treatment]]

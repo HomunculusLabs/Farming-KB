@@ -93,12 +93,7 @@ it a multi-functional garden element.
 
 ## See Also
 
-- [[permplant-fig-ficus-carica-fruit-tree]]
 - [[food-forest-design]]
-- [[morus-alba]]
-- morus nigra
-- vitis vinifera
-- ficus macrophylla
 - [[carob]]
 - olea europaea
 - [[figs-ficus-spp]]

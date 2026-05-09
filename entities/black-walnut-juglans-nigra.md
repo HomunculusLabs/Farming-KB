@@ -138,12 +138,14 @@ Black walnut is among the most valuable North American hardwoods:
 - **Bearing age:** 10–15 years from seed; 5–8 years from grafted trees
 ## See Also
 
-- [[black-walnut-juglone-plant-toxicity]]
 - [[juglans-nigra]]
 
 - juglone — The allelopathic compound produced by black walnut
 - allelopathy — The broader phenomenon of plant chemical interference
 - english walnut — The commercial walnut species with low juglone
-- [[food-forest-design]] — Black walnut's role in multistrata agroforestry
 - [[silvopasture]] — Integrating trees with livestock grazing
 - walnut timber — Detailed guide to black walnut timber management and valuation
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]

@@ -43,89 +43,16 @@ a fork, and replacing the topsoil with generous additions of compost.
 
 In practice, Coleman has modified the double-digging approach to use
 the broadfork for initial bed preparation, as described in
-[[coleman-minor-tillage-bed-preparation]]. The broadfork achieves
-similar deep loosening with less labor and soil inversion than
-traditional double-digging. Once established, beds are maintained
-with minimal disturbance in subsequent seasons.
-
-The deep, loose soil profile allows plant roots to penetrate deeply,
-accessing water and nutrients from a larger volume. This deep root
-zone is particularly valuable for winter crops that must establish
-extensive root systems before cold weather limits growth.
-
-## Close Spacing Principles
-
-French intensive gardening spaces plants much more closely than
-conventional row gardening. Coleman's beds are 30 inches wide with
-plants arranged in a hexagonal or offset grid pattern rather than
-single rows. This arrangement uses space more efficiently by
-eliminating the wide aisles between rows.
-
-Close spacing creates a living mulch effect where mature plant
-canopies shade the soil surface, reducing weed germination, conserving
-soil moisture, and moderating soil temperature fluctuations. The dense
-canopy also captures more sunlight per unit area, maximizing
-photosynthetic efficiency.
-
-For winter greens, Coleman spaces individual plants 4 to 8 inches
-apart depending on species and expected mature size. Salad mix is
-broadcast-seeded at high density and harvested as baby leaves. Heading
-crops like kale are spaced at 10 to 12 inches within the bed.
-
-## [[soil-fertility-management]]
+[[soil-fertility-management]]
 
 The French intensive method relies on generous organic matter
 applications to maintain fertility. Coleman applies 1 to 2 inches of
 finished compost before each planting, supplemented with mineral
-amendments based on [[soil-testing]]. The continuous addition of organic
-matter feeds soil organisms that in turn make nutrients available to
-plants.
-
-Coleman views soil fertility as a biological system rather than a
-chemical equation. The goal is to create a self-sustaining soil food
-web that cycles nutrients efficiently. Compost tea, seaweed extracts,
-and [[biodynamic-preparations]] may supplement the compost program, but
+amendments based on [[biodynamic-preparations]] may supplement the compost program, but
 the foundation remains high-quality compost produced on-farm from
 crop residues, animal manures, and off-farm organic materials.
 
-## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-French intensive gardening incorporates companion planting principles
-where certain plant combinations are grown together for mutual benefit.
-While the scientific evidence for many companion planting claims is
-mixed, Coleman observes that diverse plantings tend to be more
-resilient to pests and diseases than monocultures.
-
-In winter production, companion planting is less critical because pest
-pressure is low. However, mixing multiple greens species in the same
-bed provides practical benefits: it diversifies the harvest, reduces
-the risk of total crop failure from any single pest or disease, and
-creates an aesthetically appealing planting that is attractive to
-customers at market.
-
-## Biointensive Principles
-
-John Jeavons' biointensive method extends the French intensive
-approach with an emphasis on calorie production and soil sustainability.
-Coleman incorporates several biointensive principles:
-- **Caloric crops:** Growing a portion of the farm in calorie-dense
-  crops like potatoes, winter squash, and grains for farm
-  self-sufficiency.
-- **Carbon farming:** Growing crops specifically for compost
-  material, ensuring the farm generates its own fertility.
-- **Seed saving:** Maintaining seed stock from the best-performing
-  plants to improve local adaptation over time.
-- **Whole-system accounting:** Tracking all inputs and outputs to
-  ensure the farm operates within its ecological carrying capacity.
-
-## Crop Rotation Within Beds
-
-Intensive bed systems require careful crop rotation to prevent soil
-depletion and pest buildup. Coleman rotates crop families across beds
-each season, following a general pattern of heavy feeders followed by
-light feeders followed by root crops followed by legumes. This
-rotation is adapted for the winter schedule described in
-[[coleman-winter-harvest-planting-schedule]].
+## [[coleman-winter-harvest-planting-schedule]].
 
 ## Integration with Winter Production
 
@@ -136,8 +63,26 @@ Persephone Period. Close spacing maximizes the output of limited
 protected growing space. And the emphasis on soil biology creates
 resilient growing conditions that buffer crops against winter stress.
 
-Combined with [[coleman-high-tunnel-cold-frame-design]] for
-protection and [[coleman-soil-preparation-for-winter]] for seasonal
+Combined with [[coleman-soil-preparation-for-winter]] for seasonal
 fertility management, the French intensive bed method enables the
 extraordinary per-acre productivity that makes small-scale winter
 farming economically viable.
+## Practical Considerations
+
+Successful implementation of French Intensive Bed Method requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

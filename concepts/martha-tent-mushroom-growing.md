@@ -3,7 +3,7 @@ title: Martha Tent Mushroom Growing
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
 
@@ -125,6 +125,5 @@ fail with heavy use. Despite these limitations, Martha tents offer the best
 balance of capacity, control, and affordability for most intermediate-scale 
 home cultivators.
 
-See also: [[fruiting-chamber-design]], [[mushroom-fruiting-chamber-designs]], [[mushroom-grow-room-design]], [[shotgun-fruiting-chamber]], [[monotub-cultivation]], [[monotub-cultivation]], [[psilocybin-fruiting-chambers]]
-- [[mushroom-growing-trays-and-shelves]]
+See also: [[mushroom-fruiting-chamber-designs]], [[shotgun-fruiting-chamber]], [[monotub-cultivation]], [[mushroom-growing-trays-and-shelves]]
 - [[environmental-control-mushroom-growing]]

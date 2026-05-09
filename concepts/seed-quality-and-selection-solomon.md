@@ -113,14 +113,10 @@ Seed viability declines with time and storage conditions. Key principles:
 - Other species (tomatoes, brassicas) can store 3-5 years under good conditions
 - Never use seed that has been stored in hot, humid conditions
 
-See also: [[seed-saving-techniques]], [[seed-saving-vegetables]], [[seed-selection-breeding-holzer]], [[seed-starting-reference]]
+See also: [[seed-saving-vegetables]], [[seed-starting-reference]]
 
 ## Related
 
-- [[solomon-fertigation-and-transplant-establishment]]
-
 - [[solomon-choosing-seeds-and-catalogs]]
-- [[seed-company-supplier-reference]]
 - [[solomon-gardening-when-it-counts-index]]
-- [[home-garden-seed-saving]]
 - [[solomon-garden-tools-selection-and-maintenance]]

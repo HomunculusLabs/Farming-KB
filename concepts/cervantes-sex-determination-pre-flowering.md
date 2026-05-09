@@ -129,10 +129,6 @@ stems.
 
 ## See Also
 
-- [[cervantes-chromosomes-sex-determination-ploidy]]
-
 - [[cervantes-sinsemilla-cultivation]]
-- [[cervantes-hermaphrodism-intersexuality]]
 - [[cervantes-flowering-phase]]
-- [[cervantes-vegetative-phase]]
 - [[cervantes-cloning]]

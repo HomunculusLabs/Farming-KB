@@ -99,19 +99,8 @@ It belongs to *Amanita* section Caesareae, which contains several prized edible 
 
 - Contains no amatoxins or phallotoxins (unlike many *Amanita* species)
 - Good nutritional profile as an edible mushroom
-- Contains ergothioneine, a potent antioxidant also found in [[ganoderma-lucidum]] and other fungi
-- Rich in protein, fiber, B vitamins, and minerals including potassium and phosphorus
-- Contains polysaccharides with potential immunomodulatory properties
-- No psychoactive compounds — safe and non-intoxicating
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| [[amanita-muscaria]] | White warts on cap persist; white universal veil patches; contains ibotenic acid and muscimol |
-| [[amanita-caesarea]] | European species; typically deeper red cap; orange-yellow volva sac at base rather than concentric rings |
+- Contains ergothioneine, a potent antioxidant also found in [[amanita-muscaria-entity]] | White warts on cap persist; white universal veil patches; contains ibotenic acid and muscimol |
 | [[rig-veda-soma-hymns-amanita-muscaria]] | Western North American species; more yellow-orange cap; less common |
-| [[amanita-bisporigera]] | Destroying angel; pure white throughout; deadly poisonous with amatoxins |
 | [[amanita-phalloides]] | Death cap; greenish-yellow cap; white gills; volva as a loose sac at base; contains lethal amatoxins |
 
 > ⚠️ **WARNING:** *Amanita jacksonii* must be distinguished from deadly toxic species in the genus. Never consume any *Amanita* unless positively identified by an experienced mycologist. When in doubt, throw it out.
@@ -134,8 +123,6 @@ It belongs to *Amanita* section Caesareae, which contains several prized edible 
 
 ## See Also
 
-- [[amanita-caesarea]]
-- [[amanita-muscaria]]
-- [[amanita-phalloides]]
+- [[amanita-muscaria-entity]]
 - [[boletus-edulis-entity]]
 - [[cantharellus-cibarius-entity]]

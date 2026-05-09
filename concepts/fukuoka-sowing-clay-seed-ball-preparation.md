@@ -131,10 +131,10 @@ guerrilla gardeners to seed dry, compacted urban sites.
 
 ## See Also
 
-- [[fukuoka-sowing-seed-ball-desert-revegetation]] — How seed balls are used in
-desert revegetation strategy -
-[[fukuoka-sowing-desert-greening-worldwide-results]] — Results achieved using
-these techniques - [[fukuoka-road-seed-ball-experiments]] — Earlier seed ball
-experiments from The Road Back to Nature -
-[[fukuoka-clay-pellet-desert-greening]] — Earlier description of clay pellet
+- [[fukuoka-sowing-desert-greening-worldwide-results]] — Results achieved using
+these techniques - [[fukuoka-clay-pellet-desert-greening]] — Earlier description of clay pellet
 technique
+
+## See Also
+
+- [[fukuoka-clay-seed-ball-technique]]

@@ -128,6 +128,5 @@ commercial breeding. Its most significant offspring include:
 ## See Also
 
 - [[girl-scout-cookies]] — Direct parent strain of Sunset Sherbet
-- [[og-kush]] — Grandparent through Girl Scout Cookies lineage
 - [[gelato-cannabis]] — Most commercially successful Sunset Sherbet offspring
 - [[wedding-cake-cannabis]] — Related dessert-strain descendant

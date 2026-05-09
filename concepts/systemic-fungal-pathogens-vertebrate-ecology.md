@@ -23,45 +23,13 @@ the genus Arthroderma and its related anamorphs in Trichophyton,
 Microsporum, and Epidermophyton, as well as internally invasive
 (systemic) pathogens in the genus Ajellomyces and its related
 anamorphs in Blastomyces, Histoplasma, and Paracoccidioides. Also
-related to this order is the anamorph species [[coccidioides-immitis]], a
-particularly virulent species strongly resembling anamorphic members of
-the Onygenales.
-
-## Onygenalean Systemic Pathogens
-
-### Life Cycles and Ecology
-
-The life cycles of Onygenalean systemic pathogens are poorly known, and
-it is not clear if any have a normal animal host. It seems most likely
-that these fungi persist in infected vertebrates until the animals die
-and then colonize conducive soils or plant debris where they produce
-conidia or ascospores, which may infect additional vertebrates. Infected
-animals apparently cannot transmit the disease directly to other
-animals. The animal hosts thus appear to function as stable sites for
-perennation rather than as loci of population increase and dispersal.
-
-### Geographic Distribution
-
-Systemically pathogenic Onygenales tend to be endemic to particular
-geographic areas for largely undetermined reasons:
-
-- **[[blastomyces-dermatitidis]]**: Specific to an enigmatic range of
+related to this order is the anamorph species [[blastomyces-dermatitidis]]**: Specific to an enigmatic range of
   riparian and rodent-influenced habitats containing soil and plant
   debris, mostly in boreal eastern Canada and adjacent northern
   Wisconsin and Michigan, and in a more southerly zone extending
   from Kentucky through Arkansas. Also found rarely in southern
   Africa, where an evolutionarily divergent lineage recognized as
   a separate serotype occurs.
-
-- **[[histoplasma-capsulatum]] var. capsulatum**: Indigenous to the
-  valleys of the Mississippi River system, occurring in soils
-  particularly influenced by bird excretions and possibly other
-  sources of organic nitrogen. Also found in limited parts of
-  eastern Canada, the American southeast, Central America, South
-  America, and Africa. Associated strongly with depositions of bird
-  or bat guano and with caves. An African and Eurasian variety,
-  H. capsulatum var. farciminosum, causes epizootic outbreaks of
-  lymphocutaneous disease among equines.
 
 - **[[paracoccidioides-brasiliensis]]**: Seldom isolated except from
   infected humans, associated with moist soils in the humid,
@@ -100,50 +68,24 @@ fungus, it produces a yeast form within host tissue.
 
 ### Filobasidiella neoformans
 
-Filobasidiella neoformans var. neoformans (anamorph [[cryptococcus-neoformans]] var. neoformans) appears to be a cosmopolitan colonizer of
-bird and bat guano. The closely related and equally animal-pathogenic
-F. neoformans var. bacillispora grows as an endophyte in the now
-globally dispersed Australian Red River gum tree (Eucalyptus
-camaldulensis) and a few related species. This represents one of the
-few documented cases of a systemic pathogen with a well-characterized
-environmental reservoir in living plant tissue.
-
-### Pneumocystis carinii
-
-Pneumocystis carinii appears to be a contagious disease agent in a
-wide range of vertebrates including humans and rats, but the mechanism
-through which this marginally virulent opportunist maintains an
-epidemiologically significant population is not well understood.
-Infected humans are normally immunocompromised, and the great majority
-of patients in recent years have been infected with AIDS. Molecular
-evidence suggests that isolates from different animal groups are
-specific to those groups. P. carinii cannot be grown in artificial
-culture but can be detected in the environment by a combination of
-filter air sampling and nucleic acid amplification.
-
-## Dimorphic Fungal Pathogens
-
-Several systemic pathogens exhibit thermal dimorphism, growing as
-molds at environmental temperatures and converting to a yeast or
-particulate vegetative phase at mammalian body temperature (37°C):
-- Blastomyces dermatitidis converts to a budding yeast form
-- Histoplasma capsulatum converts to a small yeast
-- Paracoccidioides brasiliensis produces multiple budding yeast cells
-- Sporothrix schenckii converts to elongated yeast cells
-
-This dimorphic switching is a key virulence factor, as the yeast phase
-is adapted for survival and replication within the vertebrate host. The
-mold phase is the environmental saprobic form responsible for
-dispersal and persistence in soil or plant debris.
-
-## Ecological and Conservation Significance
-
-Fungi associated with vertebrate pathogenesis participate in the
-regulation of animal population densities, influencing factors such as
-the availability of animals to predators. The enumeration of such
-
-- [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-## See Also
-
+Filobasidiella neoformans var. neoformans (anamorph [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[subcutaneous-dematiaceous-fungal-pathogens]]
+## Practical Considerations
+
+Successful implementation of Systemic Fungal Pathogens of Vertebrates - Ecology and Distribution requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -114,13 +114,9 @@ gods will not respond to a frugal offering.
 
 ## See Also
 
-- [[fukuoka-desert-greening-projects]]
 - [[fukuoka-desert-greening-techniques-detailed]]
-- [[fukuoka-road-back-desert-reclamation]]
 - [[fukuoka-somalia-desert-greening-mission]]
-- [[fukuoka-clay-pellet-desert-greening]]
 - [[fukuoka-desert-reclamation]]
-- [[fukuoka-desert-greening-projects]]
 - [[fukuoka-india-visit-agriculture-spirituality]]
 
 ## Merged: Fukuoka Sowing Seed in the Desert Dream

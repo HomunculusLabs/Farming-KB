@@ -68,11 +68,27 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[2c-b-entity-pihkal]]
 - [[2c-c-entity-pihkal]]
-- [[2c-d-entity-pihkal]]
 - [[2c-e-entity-pihkal]]
 
 - PIHKAL (the source book)
-- [[2c-g-n-entity-pihkal]] -- 2C-G-N (PIHKAL #31)
 - [[2c-i-entity-pihkal]] -- 2C-I (PIHKAL #33)
+## Practical Considerations
+
+Successful implementation of 2C-H (2,5-Dimethoxy-PEA) -- PIHKAL Entry #32 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

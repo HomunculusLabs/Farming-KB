@@ -126,10 +126,9 @@ penetration, which is central to its neuropharmacological effects.
 
 ## See Also
 
-[[artemisia-absinthium]] is the primary botanical source of thujone
-and the defining ingredient of absinthe. [[salvia-officinalis]]
+[[salvia-officinalis]]
 contains significant thujone alongside other neuroactive terpenes.
-Bicyclic monoterpenes like those found in [[eucalyptol]] share
-the class and exhibit overlapping GABA_A pharmacology.
-[[artemisia-annua]] is a related species noted for its antimalarial
+Bicyclic monoterpenes like those found in [[artemisia-annua]] is a related species noted for its antimalarial
 artemisinin content.
+
+See also: [[peyote-and-psychoactive-cacti]]

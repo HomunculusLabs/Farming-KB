@@ -138,12 +138,8 @@ commercial cannabis offerings.
 
 ## See Also
 
-- [[cannabis-genetics-and-breeding]]
 - [[cervantes-breeding-program-design-goal-setting]]
-- [[cervantes-backcross-breeding-methods]]
 - [[cervantes-filial-breeding-hybrid-generations]]
-- [[cervantes-hybrid-vigor-inbreeding-depression]]
 - [[cervantes-selfing-single-seed-descent]]
-- [[cervantes-open-pollinated-heirloom-seeds]]
 - [[cervantes-landrace-cannabis-populations]]
 - [[cervantes-indica-sativa-ruderalis-differences]]

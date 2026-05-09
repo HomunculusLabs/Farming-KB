@@ -16,18 +16,7 @@ sources:
 
 # Rivea corymbosa
 
-**Rivea corymbosa**, commonly known as **Ololiuqui**, is a woody climbing vine in the morning glory family (Convolvulaceae). It is one of the most culturally significant psychoactive plants in Mesoamerican history, used by the Aztec and their descendants for divination, healing, and religious ceremonies for over a millennium. The seeds contain lysergic acid amide (LSA) and related ergoline alkaloids. The plant is now generally considered synonymous with or conspecific with [[turbina-corymbosa]] in modern botanical nomenclature.
-
-## Taxonomy
-
-- **Family:** Convolvulaceae
-- **Genus:** Rivea
-- **Species:** R. corymbosa
-- **Authority:** (L.) Hallier f.
-- **Synonyms:** Convolvulus corymbosus L., Ipomoea corymbosa (L.) Roth, Turbina corymbosa (L.) Raf.
-- **Common names:** Ololiuqui, Coaxihuitl, Snake Plant, Badoh Negro
-
-**Note on nomenclature:** The taxonomic status of this species has been debated extensively. Many modern authorities place it in the genus Turbina as T. corymbosa, while others retain it in Rivea. The two names are used interchangeably in ethnobotanical literature. See [[turbina-corymbosa]] for additional information under that name.
+**Rivea corymbosa**, commonly known as **Ololiuqui**, is a woody climbing vine in the morning glory family (Convolvulaceae). It is one of the most culturally significant psychoactive plants in Mesoamerican history, used by the Aztec and their descendants for divination, healing, and religious ceremonies for over a millennium. The seeds contain lysergic acid amide (LSA) and related ergoline alkaloids. The plant is now generally considered synonymous with or conspecific with [[turbina-corymbosa]] for additional information under that name.
 
 ## Botany
 
@@ -53,7 +42,7 @@ The seeds of R. corymbosa contain the following ergoline alkaloids:
 | Chanoclavine | Trace | Biosynthetic precursor |
 | Elymoclavine | Trace | Intermediate alkaloid |
 
-The LSA concentration in R. corymbosa seeds is significantly lower than in [[argyreia-nervosa]] (~0.3%) but comparable to [[ipomoea-violacea]]. Notably, the LSH content relative to LSA may be higher in R. corymbosa than in other Convolvulaceae, which may influence the character of the experience — LSH is thought to contribute more to the sedative and vasoconstrictive effects.
+The LSA concentration in R. corymbosa seeds is significantly lower than in [[ipomoea-violacea]]. Notably, the LSH content relative to LSA may be higher in R. corymbosa than in other Convolvulaceae, which may influence the character of the experience — LSH is thought to contribute more to the sedative and vasoconstrictive effects.
 
 ## Ethnohistorical Significance
 
@@ -121,9 +110,6 @@ The 1960 identification was particularly significant because it confirmed that M
 
 ## See Also
 
-- [[turbina-corymbosa]] — current preferred taxonomic name
 - [[lysergic-acid-amide]] — LSA, primary psychoactive compound
-- [[ipomoea-violacea]] — tlitliltzin, related Aztec entheogen
 - [[argyreia-nervosa]] — Hawaiian Baby Woodrose, higher LSA concentration
-- [[salvia-divinorum]] — another Mazatec entheogen
 - [[psilocybe-cubensis]] — sacred mushrooms, co-administered in Mazatec rituals

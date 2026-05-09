@@ -111,12 +111,8 @@ The Wasson-Hofmann-Ruck collaboration established a new paradigm in classical sc
 
 ## Related Topics
 
-- [[hofmann-self-experiment-with-ergonovine]] -- the experimental proof
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] -- the chemistry
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- the kykeon preparation
 - [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]] -- the historical evidence
 
-- [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 - [[entheogenic-eleusis-theory-scholarly-reception]]
-- [[mushroom-cultivation-fundamentals]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]

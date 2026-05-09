@@ -1,7 +1,7 @@
 ---
 title: "Brassinosteroid Enhancement of Mushroom Yield and Dry Mass"
 created: 2026-04-28
-tags: [mycology, yield, dry-mass, brassinosteroid, fruiting, cultivation-efficiency, biomass]
+tags: [[mycology, yield, dry-mass, brassinosteroid, fruiting, cultivation-efficiency, biomass]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
@@ -129,10 +129,8 @@ synthesize. However, regulatory hurdles for novel growth stimulants in
 food production could be substantial and would need to be addressed through
 comprehensive safety testing.
 
-## Related Topics
+## Related
 
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
 - [[brassinosteroid-fungal-fruiting-body-morphology]]
-- [[oss-oeric-harvesting-and-crop-management]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]

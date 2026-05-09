@@ -9,15 +9,7 @@ sources:
 ---
 # MAL (Methallylescaline; 3,5-Dimethoxy-4-methallyloxyphenethylamine)
 
-MAL is an allyl-substituted phenethylamine derived from [[mescaline-entity]] by replacing the 4-methoxy group with a methallyloxy group. It produces mixed stimulant and psychedelic effects with substantial visual activity and a long duration. The compound is listed as PIHKAL entry #99.
-
-## Chemical Classification
-
-MAL belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 3,5-dimethoxy-4-methallyloxyphenethylamine, also known as methallylescaline.
-
-MAL is derived from [[mescaline-entity]] by replacing the 4-methoxy group with a 4-methallyloxy group.
+MAL is an allyl-substituted phenethylamine derived from [[mescaline-entity]] by replacing the 4-methoxy group with a 4-methallyloxy group.
 
 The methallyl group contains a double bond (olefin), which is structurally notable.
 
@@ -65,7 +57,7 @@ MAL is described as producing a mixed bag of effects.
 
 Some subjects experienced predominantly stimulant effects, others predominantly psychedelic effects.
 
-The compound is not as consistently psychedelic as [[mescaline-entity]] or [[dom-entity]].
+The compound is not as consistently psychedelic as [[dom]].
 
 Nor is it as consistently stimulant as amphetamines.
 
@@ -89,11 +81,7 @@ Duration: 12 - 16 h.
 
 ## See Also
 
-[[mescaline-entity]]
-
 [[buscaline-entity]]
-
-[[proscaline]]
 
 [[escaline-entity]]
 

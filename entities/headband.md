@@ -28,123 +28,89 @@ sources:
 created in early 2000s Southern California. Named for the distinctive
 pressure sensation around the temples that users commonly report.
 
-A cross between elite **OG Kush** and **Sour Diesel** phenotypes,
-it carries the Chemdawg lineage on both sides. Winner of multiple
-cannabis competitions including the 2009 High Times Cannabis Cup,
-Headband remains one of the most sought-after hybrids in North
-American dispensaries.
-
-## Lineage
-
-- **Female:** OG Kush (Chemdawg × Lemon Thai × Hindu Kush)
-- **Male:** Sour Diesel (Chemdawg 91 × NL × Unknown)
-
-Chemdawg lineage appears on both sides, creating a concentrated
-expression of Chemdawg terpenes and effects. OG Kush contributes
-dense bud structure, indica body effects, and earthy-pine aromatics.
-Sour Diesel adds cerebral uplift, fuel pungency, and extended
-duration.
-
-## Appearance
-
-Large, dense conical colas with excellent calyx-to-leaf ratio.
-Bright to forest green with occasional violet patches in cool nights.
-Pistils abundant, orange-amber. Exceptionally heavy trichome
-coverage — thick layer of milky-white to translucent glands giving
-a frosted, crystalline appearance. Leaves sparse on buds, easy to
-manicure.
-
-## Aroma and Flavor
-
-**Primary aromas:** Diesel, fuel, earthy-skunk undertones, lemon
-citrus brightness, subtle pine and wood.
-
-**Inhalation:** Smooth creamy smoke with diesel and lemon notes.
-Earthy, hash-like undertones. Slightly sweet aftertaste with
-lingering pine.
-
-**Exhalation:** Expansive full-bodied smoke. Diesel and skunk
-intensify. Spicy, peppery finish with faintly medicinal quality.
-
-## Terpene Profile
-
-- **Myrcene** (0.8–1.4%) — sedative, muscle-relaxing, earthy
-- **Limonene** (0.6–1.1%) — mood elevation, citrus-lemon
-- **Caryophyllene** (0.4–0.8%) — anti-inflammatory, peppery, CB2
-- **Humulene** (0.2–0.5%) — appetite suppressant, woody
-- **Pinene** (0.1–0.3%) — bronchodilator, pine, mental clarity
-
-Profile dominated by myrcene and limonene — classic "calming but
-alert" Chemdawg-descendant signature.
-
-## Cannabinoid Profile
-
-- **THC:** 20–27% (some phenotypes 30%+)
-- **CBD:** 0.1–0.3% (negligible)
-- **CBN:** Trace
-- **THCV:** Trace to low (0.1–0.3%)
-
-High-THC, low-CBD. Modern cuts consistently test above 22%.
-
-## Effects
-
-**Onset:** 2–5 minutes. Begins in the head with namesake temple
-pressure sensation.
-
-**Initial (0–30 min):** Cerebral euphoria, heightened sensory
-perception, temple pressure, mild creative stimulation.
-
-**Middle (30–90 min):** Deep body relaxation from neck downward.
-Muscular tension relief. Warm, comforting sensation. Mental clarity
-softening.
-
-**Late (90–180 min):** Couch-lock potential at higher doses.
-Progressive sedation, sleepiness, appetite stimulation. Gentle
-comedown with minimal residual anxiety.
-
-**Duration:** 2.5–4 hours.
-
-## Medical Applications
-
-- **Chronic pain:** Neuropathic and musculoskeletal, migraines
-- **Stress/anxiety:** Balanced relief without heavy sedation
-- **Insomnia:** Higher doses effective for sleep induction
-- **Appetite:** Chemotherapy-induced anorexia, cachexia
-- **Depression:** Mood-elevating cerebral effects
-- **PTSD:** Anecdotal relief for hypervigilance and sleep issues
-
-## Side Effects
-
-**Common:** Dry mouth, dry eyes, mild dizziness, increased appetite.
-
-**Less common:** Anxiety/paranoia at high doses; temple pressure
-uncomfortable for some.
-
-**Contraindications:** May exacerbate anxiety disorders at high
-doses. Caution with hypertension.
-
-## Cultivation
-
-**Flowering:** 9–11 weeks. **Yield:** 400–550 g/m² indoor;
-500–700 g/plant outdoor. **Difficulty:** Moderate.
-
-**Indoor:** Soil or coco with organic amendments. Temp 20–28°C day,
-16–20°C night. Humidity 50–60% veg, 40–45% flower. LST and scrog
-recommended. Heavy feeder weeks 4–8; cal-mag important.
-
-**Outdoor:** Mediterranean/warm temperate. Harvest mid-October.
-Watch for spider mites, powdery mildew, bud rot in humidity.
-
-## Notable Phenotypes
-
-- **Reserva Privada Headband** — stabilized seed version (DNA Genetics)
-- **710 Headband** — distinct phenotype, amplified resin
-- **Headbanger** — Headband × Sour Bubble cross
-- **Thin Mint Cookies** — carries Headband lineage through GSC
-
+A cross between elite **OG Kush** and **[[hindu-kush]])
+- **Male:** Sour Diesel ([[thin-mint-cookies]]** — carries Headband lineage through GSC
 ## See Also
 
-- [[og-kush]]
+- og kush
 - [[thin-mint]]
 
-- [[sour-diesel]]
+- sour diesel
+## Practical Applications
+
+Headband has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Headband. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -129,15 +129,6 @@ proven efficacy for their pain condition.
 
 ## Complementary Foods for Pain Relief
 
-The [[cannabis-health-index]] also identifies several foods and spices that
-may complement cannabinoid-based pain management, including cacao,
-cayenne, clove, fennel, garlic, ginger, grains of paradise, myrrh,
-nigella, and turmeric. Many of these work through overlapping anti-
-inflammatory pathways that may synergize with cannabinoid therapy.
-
-## See Also
-
-- [[blesching-cannabis-inflammatory-diseases]] — cannabis for inflammatory pain conditions including arthritis
-- [[cannabis-health-cbd-cannabidiol]] — CBD's analgesic and anti-inflammatory properties
+The [[blesching-cannabis-inflammatory-diseases]] — cannabis for inflammatory pain conditions including arthritis
 - [[cannabis-health-methods-of-administration]] — dosing routes for pain management applications
 - [[cannabis-health-strains-sativa-indica]] — strain selection guidance for pain conditions

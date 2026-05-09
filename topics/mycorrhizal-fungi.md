@@ -421,7 +421,7 @@ enhanced resilience to environmental stress.
 [[arbuscular-mycorrhizal-networks]]
 [[agricultural-chemicals-mycorrhizal-impact]]
 [[fungal-soil-food-web]] [[soil-food-web]]
-[[ectomycorrhizal-ecosystem-impact]]
+[[dighton-ectomycorrhizal-ecosystem-impact]]
 
 ## References
 

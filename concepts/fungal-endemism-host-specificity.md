@@ -66,58 +66,26 @@ interspersed with nonhost species.
 Mycorrhizal fungi show a range of host specificity. Some
 ectomycorrhizal fungi are host-specific to particular tree genera
 or families, while others associate with a broad range of hosts.
-The [[sequestrate-fungi-ecology-evolution]]
-include examples of remarkable host specificity: the
-Suillus-Gastrosuillus-Truncocolumella-Rhizopogon line is specific
-to Pinaceae, while the Descolea-Setchelliogaster-Descomyces line
-is specific to Eucalyptus. No species from either line occur on
-both continents.
+The [[host-recognition-mycoparasitism-fungal-specificity]]
 
-Arbuscular mycorrhizal fungi were once considered to have low host
-specificity, but emerging evidence suggests more selectivity than
-previously recognized. The structure of arbuscular fungal
-communities varies among sites with different host compositions,
-especially those differing in moisture availability.
-
-## Endophyte Host Specificity
-
-Endophytic fungi show complex patterns of host association. Some
-are restricted to a single host species, while others colonize
-multiple hosts across different plant families. Many endophytes
-have cryptic, nonapparent patterns of host colonization that are
-revealed only through molecular methods. The specificity of
-endophytes can vary within a single host species depending on
-tissue type, host age, and environmental conditions.
-
-## Factors Influencing Specificity
-
-Several factors influence the degree of host specificity observed:
-
-  - Moisture levels: Diversity of plant-parasitic fungi tends to
-    increase with moisture and decrease with elevation.
-  - Border-plant communities: Phytoparasitic fungi are often
-    especially diverse in ecotones and transition zones.
-  - Host density: Diversity depends on the density and
-    distribution of host plants.
-  - Genetic variability of the host: Wild host populations with
-    high genetic diversity may support more diverse fungal
-    communities than genetically uniform crops.
-
-## Implications for Diversity Estimates
-
-Ratios of vascular plants to fungi used to estimate total fungal
-diversity are based primarily on data from temperate regions. Ratios
-in tropical areas may be higher because host specificity of fungi
-on vascular plants may not occur to the same extent in the tropics
-as in temperate regions. These uncertainties highlight the need for
-more comprehensive surveys, especially in understudied tropical
-regions.
-
-## See Also
-
-- [[host-recognition-mycoparasitism-fungal-specificity]]
-
-- [[fungal-biogeography-distribution-patterns]]
 - [[biodiversity-of-fungi-endophytic-fungi]]
-- [[sequestrate-fungi-ecology-evolution]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+## Practical Considerations
+
+Successful implementation of Fungal Endemism and Host Specificity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

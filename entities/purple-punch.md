@@ -24,17 +24,7 @@ sources:
 **Purple Punch** is an indica-dominant hybrid cannabis strain created by crossing **Granddaddy Purple** (also known as Grand Daddy Purps or GDP) with **Larry OG**.
 First bred by Supernova Gardens in the San Francisco Bay Area, it has become one of the most popular and commercially successful cannabis strains of the late 2010s and 2020s.
 Renowned for its striking purple coloration, sweet dessert-like aroma, and deeply relaxing effects, Purple Punch has earned a reputation as a premier "nighttime" strain.
-Its genetic lineage connects two legendary California cannabis pillars — the colorful, fruity [[granddaddy-purple]] and the potent, gassy Larry OG — producing a cultivar that embodies the best traits of modern West Coast breeding.
-
-## Genetic Lineage
-
-| Parent | Type | Origin | Key Traits |
-|--------|------|--------|------------|
-| Granddaddy Purple | Indica | Northern California (2003) | Purple coloration, grape aroma, heavy sedation |
-| Larry OG | Indica-dominant hybrid | Southern California | OG terpene profile, potent, relaxing |
-
-The cross of these two heavy indica-leaning parents produces a strain that is approximately 80% indica and 20% sativa, though precise ratios can vary by phenotype and breeder.
-Both parent strains are themselves legendary in cannabis culture: [[granddaddy-purple]] defined the purple cannabis aesthetic, while Larry OG represents the pinnacle of Southern California's OG Kush lineage.
+Its genetic lineage connects two legendary California cannabis pillars — the colorful, fruity [[granddaddy-purple]] defined the purple cannabis aesthetic, while Larry OG represents the pinnacle of Southern California's OG Kush lineage.
 This combination yields a plant with the visual appeal and fruit-forward character of GDP combined with the potency and resin production of the OG family.
 
 ## Appearance
@@ -69,7 +59,7 @@ This combination yields a plant with the visual appeal and fruit-forward charact
 |---------|-------------------|-------------------|
 | Myrcene | 0.5–1.5% | Earthy, musky, herbal; contributes to sedative effects |
 | Limonene | 0.3–1.0% | Citrus, fruity; mood elevation, stress relief |
-| [[caryophyllene-oxide]] / β-Caryophyllene | 0.2–0.8% | Spicy, peppery; anti-inflammatory |
+| caryophyllene-oxide / β-Caryophyllene | 0.2–0.8% | Spicy, peppery; anti-inflammatory |
 | Linalool | 0.1–0.5% | Floral, lavender; relaxation, anxiolytic |
 | Pinene | Trace | Pine; may counteract sedative effects |
 
@@ -138,13 +128,6 @@ Purple Punch has become foundational breeding stock with numerous successful cro
 
 | Cross | Name | Notable Traits |
 |-------|------|---------------|
-| Purple Punch × Sunset Sherbert | Purple Punch Sherb | Extra fruity, dessert terpenes |
-| Purple Punch × Gelato | Punch Gelato | Complex terpene fusion, potent |
-| Purple Punch × Do-Si-Dos | Purple Do-Si-Dos | Heavy sedation, gas + fruit |
-
-## See Also
-
-- [[granddaddy-purple]]
-- [[gelato-cannabis]]
+| Purple Punch × [[granddaddy-purple]]
 - [[og-kush]]
 - [[cannabis-indica]]

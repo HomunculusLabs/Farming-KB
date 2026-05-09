@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #5 targets canker, black spot, pear rust, and brown blotch diseases on fruit trees and vegetables. This is a stronger formulation than recipe #4 ([[jadam-fungal-disease-management]]) and includes the option to add [[jadam-herb-solution-jhs]] for combined disease and pest control.
+JADAM pesticide recipe #5 targets canker, black spot, pear rust, and brown blotch diseases on fruit trees and vegetables. This is a stronger formulation than recipe #4 ([[jadam-herb-solution-jhs]] for combined disease and pest control.
 
 **Developed by:** Jaun Gu, Hiseok Bak, Youngsang Cho
 
@@ -20,7 +20,6 @@ JADAM pesticide recipe #5 targets canker, black spot, pear rust, and brown blotc
 
 For 500 L (132 gal) of spray solution:
 
-- [[jadam-wetting-agent-jwa]] 5 L (1.3 gal)
 - [[jadam-sulfur-js]] 1.5 L (0.4 gal)
 - Water to make 500 L (132 gal)
 
@@ -38,13 +37,11 @@ For 500 L (132 gal) of spray solution:
 ## Application Instructions
 
 ### Basic Use
-- Use good water ([[jadam-rice-water-weevil-control]]) for effectiveness
-- Apply regularly with [[jadam-microorganism-solution-jms]] to prevent disease through microbial diversity
+- Use good water ([[jadam-microorganism-solution-jms]] to prevent disease through microbial diversity
 - Apply in early stage of disease outbreak for best results
 
 ### For Combined Pest + Disease Control
-- Add [[jadam-herb-solution-jhs]] to the mixture
-- Increase [[jadam-wetting-agent-jwa]] to 5 L (1.3 gal) or higher
+- Add [[jadam-wetting-agent-jwa]] to 5 L (1.3 gal) or higher
 
 ### Pepper Canker (Serious Infestation)
 - Increase JWA to 10 L (2.6 gal)
@@ -66,9 +63,25 @@ For 500 L (132 gal) of spray solution:
 
 This recipe replaces expensive commercial fungicides. At JADAM-scale production, the total pesticide cost for 330 acres was approximately $7/acre per year.
 
+
+## Prevention Strategies
+
+Canker and leaf spot diseases are most effectively managed through
+prevention rather than treatment. Proper spacing ensures adequate
+air circulation around plants, reducing the humid conditions that
+favor fungal pathogen growth. Removing and destroying infected
+plant material prevents disease spread to healthy tissue. Avoiding
+overhead watering and watering early in the morning allows foliage
+to dry quickly, minimizing infection windows.
+
+Crop rotation breaks disease cycles by removing susceptible hosts
+from the growing area for 2-3 years. Resistant varieties, when
+available, provide the most sustainable long-term solution.
+Maintaining balanced soil nutrition through JADAM inputs
+(particularly adequate calcium and potassium) strengthens plant
+cell walls and natural defense compounds, making plants less
+susceptible to infection.
 ## See Also
 
-- [[jadam-fungal-disease-management]] - Milder recipe #4 for powdery/downy mildew
 - [[jadam-natural-pesticide-jnp]] - JNP mixing system overview
-- [[jadam-concentration-guidelines]] - Concentration safety rules
 - [[jadam-pest-control-recipes]] - All numbered pesticide recipes

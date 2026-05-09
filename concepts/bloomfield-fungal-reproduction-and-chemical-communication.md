@@ -8,20 +8,13 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# [[gadd-fungal-reproduction-spores]] and [[tompkins-plant-chemical-communication]]
+# [[tompkins-plant-chemical-communication]]
 
 ## Overview
 
-Fungi "sing" to one another in chemical pulses and answer with developmental changes. Their reproductive strategies range from simple asexual spore production to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[fungal-sexual-reproduction]] — answering the questions "Where are you?" and "Who are you?" — and related signaling processes that coordinate hyphal cooperation during [[fruiting-body-development]] formation.
+Fungi "sing" to one another in chemical pulses and answer with developmental changes. Their reproductive strategies range from simple asexual spore production to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[fruiting-body-development]] formation.
 
-## A[[fungal-sexual-reproduction-strategies]]
-
-All fungi reproduce asexually through spore production:
-
-- **Zygomycetes**: sporangia at tips of aerial hyphae contain spores created by repeated mitotic division
-- **Ascomycetes**: produce conidia (asexual spores) on specialized structures
-- **Basidiomycetes**: can produce asexual spores, but are primarily known for their sexual basidiospores
-- The [[cannabis-sinsemilla-life-cycle]] follows an endless progression: spore, mycelium, spore, mycelium
+## A[[cannabis-sinsemilla-life-cycle]] follows an endless progression: spore, mycelium, spore, mycelium
 
 A single zygomycete clone from one spore might colonize a kitchen scrap for a house's entire lifetime. The moistened bread experiment (leave a slice on the counter, observe with a magnifying lens after a few days) reveals the complete lifecycle: airborne spore lands, germinates, hyphae colonize the bread, aerial branches produce sporangia, and new spores are released.
 
@@ -129,22 +122,5 @@ Armillaria gallica researchers in Massachusetts found that single mushrooms some
 ## Mushroom Formation: The Unanswered Question
 
 The development of a mushroom fruiting body remains one of the great unsolved mysteries in biology:
-- A fly [[agar]]ic cap can reach dinner-plate diameter with hundreds of perfectly spaced gills
-- Gills must be precisely vertical and evenly spaced — any error prevents spore dispersal
-- Stalk thickness is always attuned to cap weight
-- Hyphae in the fruiting body must communicate positional information with neighbors
-- Different species produce different mushroom forms, suggesting different "songs" of chemical communication
-- Modern genomic and proteomic approaches offer hope for eventually understanding this developmental process
-
-## Historical Notes
-
-### The Hartog Controversies
-
-Marcus Hartog, professor at Queen's College Ireland and student of Anton de Bary ("father of modern mycology"), was wrong about both zoospore flagella (Chapter 6) and oomycete fertilization:
-- He insisted zoospores of Achlya must have flagella (they have short stumps)
-- He refused to believe Trow's serial section evidence that antheridia actually fertilized oogonia
-- His aggressive published critiques of colleagues exemplify the bitter professional rivalries that once characterized mycology
-## See Also
-
-- [[fungal-chemical-signaling]]
+- A fly [[fungal-chemical-signaling]]
 - [[williams-pdc-non-violent-communication]]

@@ -136,10 +136,7 @@ communities.
 
 ## See Also
 
-- [[crocus-sativus]] — natural flavoring plant with medicinal compounds
 - [[glycyrrhiza-glabra]] — another natural sweetener with pharmacological activity
-- [[cymbopogon-citratus]] — lemon grass, aromatic culinary herb
 - [[matricaria-chamomilla]] — chamomile, Asteraceae medicinal herb
 - steviol glycosides — detailed chemistry of stevia's sweet compounds
-- [[artemisia-annua]] — Asteraceae species with potent bioactive compounds
 - [[ginger-growing-guide]] — rhizomatous spice with anti-inflammatory properties

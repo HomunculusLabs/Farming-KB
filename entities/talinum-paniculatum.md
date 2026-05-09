@@ -136,4 +136,4 @@ multiplication for garden establishment.
 
 ## See Also
 
-[[portulaca-oleracea]] · [[moringa-oleifera]] · [[amaranthus-palmeri]] · [[centella-asiatica]] · [[piper-nigrum-entity]] · [[ocimum-gratissimum]] · [[coriandrum-sativum]] · [[eugenia-caryophyllata]]
+[[moringa-oleifera]] · [[centella-asiatica]] · [[ocimum-gratissimum]] · [[eugenia-caryophyllata]]

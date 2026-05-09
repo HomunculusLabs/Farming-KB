@@ -20,9 +20,7 @@ Ectomycorrhizal (ECM) fungi form symbiotic associations with the fine
 roots of trees and shrubs, playing essential roles in forest nutrient
 cycling, tree health, and ecosystem productivity. Their diversity
 represents a significant but still poorly documented component of global
-[[fungal-biodiversity]]. ECM fungi are found across temperate and boreal
-forests worldwide and in select tropical ecosystems, where they associate
-predominantly with [[mycorrhizal-networks-interplant-carbon-transfer]] of Pinaceae, Fagaceae, Betulaceae, and
+[[mycorrhizal-networks-interplant-carbon-transfer]] of Pinaceae, Fagaceae, Betulaceae, and
 other plant families.
 
 ## Species Richness and Taxonomic Composition
@@ -32,29 +30,7 @@ primarily within the Basidiomycota (e.g., Amanitaceae, Boletaceae,
 Cortinariaceae, Russulaceae) and Ascomycota (e.g., Pezizales). Major
 genera include boletes such as Suillus and Laccaria, milkcaps
 (Lactarius, Russula), and tooth fungi (Cantharellus, Gomphus). Surveys
-of ECM [[molecular-methods-fungal-taxonomy-and-diversity]] have revealed that species richness can be
-extraordinarily high in some regions. In Australian ectomycorrhizal
-forests, for example, approximately 600 species were collected in fewer
-than 400 person-days, with 90% estimated to be undescribed.
-
-Species richness is generally greatest at subtropical to middle
-latitudes in ECM forests. In the Northern Hemisphere, richness declines
-from middle latitudes northward into the boreal forest. North America
-and Australia appear to support greater ECM species richness than
-Europe, a pattern attributed to the north-south orientation of major
-mountain ranges in the former continents, which permitted fungal and
-host migrations during the Ice Ages. Europe's east-west mountain ranges
-impeded such migrations, leading to lower species richness despite
-intensive collecting.
-
-## Host Specificity
-
-Host specificity varies considerably among ECM fungi. Some species are
-broadly generalist, colonizing multiple host genera, while others are
-highly specific, associating with only one or a few host species. Pines,
-Douglas fir, spruce, true firs, oaks, and Eucalyptus harbor numerous
-ECM fungi that do not fruit in association with other host genera. This
-degree of host specificity contributes significantly to [[fungal-endemism-and-biogeography]]
+of ECM [[fungal-endemism-and-biogeography]]
 among ECM fungi and influences biogeographic distribution patterns.
 
 The distribution of ECM fungus species is correlated with forest type.
@@ -76,9 +52,7 @@ properties. Rhizopogon species, for example, induce prolific branching
 of host rootlets through auxin production and enhance survival and
 growth of seedlings in forest plantations.
 
-ECM fungi participate in complex [[fungal-ecology]] networks that
-connect individual trees belowground, facilitating nutrient and carbon
-transfer between plants. ECM fungi also influence forest [[fungal-decomposition-resource-quality-determinants]]
+ECM fungi participate in complex [[fungal-decomposition-resource-quality-determinants]]
 saprotrophic fungi for organic resources, and mediate interactions
 between plants and soil organisms. The mycorrhizosphere, the soil volume
 surrounding mycorrhizal roots, supports distinct microbial communities
@@ -111,16 +85,10 @@ strategies.
 
 ## See Also
 
-- [[hebeloma-crustuliniforme]]
-
 - [[biodiversity-smut-fungi-diversity]]
 
-- [[mycorrhizal-networks-interplant-carbon-transfer]]
 - [[fungal-ecology]]
-- [[biodiversity-fungi-soil-fungal-communities]]
 - [[symbiotic-fungi-lichen-symbiosis-mechanisms]]
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[fungal-biodiversity-tropical-forests]]
-- [[forest-ecology-basics]]
 - [[fungal-endemism-and-biogeography]]
 - [[fungal-decomposition-resource-quality-determinants]]

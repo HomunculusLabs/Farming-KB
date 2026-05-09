@@ -84,29 +84,16 @@ gill pattern from uneven spore maturation is a key generic feature.
 - panaeolus foenisecii: Similar grassland habitat but with lighter
   colored gills and spore deposit. The haymaker's mushroom is more common
   and generally considered nonactive.
-- [[panaeolus-subbalteatus]]: Larger species with a broader cap and
-  typically more strongly zonate cap coloration. Generally more potent when
-  active.
-- [[panaeolus-cyanescens]]: A dung-inhabiting species that is strongly
+- [[panaeolus-cyanescens-entity]]: A dung-inhabiting species that is strongly
   active and bruises bluish. Much more robust and readily identifiable by
   its bluing reaction.
-- [[copelandia-panaeolus-genera]]: Another grassland species that may resemble P.
-  castaneifolius but differs in microscopic features.
-
-## See Also
-
-- [[panaeolus-papilionaceus]]
-
-- [[panaeolus-olivaceus]]
+- [[archaeology-of-psychedelic-mushroom-use]]
 
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
-- [[panaeolus-acuminatus-profile]]
 - [[copelandia-panaeolus-genera]]
 
-- [[panaeolus-subbalteatus]]
-- [[panaeolus-cyanescens]]
+- [[panaeolus-cyanescens-entity]]
 - panaeolus foenisecii
-- [[panaeolus-sphinctrinus]]
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
 - psilocybin
 

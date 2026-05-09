@@ -20,23 +20,7 @@ The water cycle is one of the four ecosystem foundation blocks in Allan
 Savory's holistic management framework. Understanding how water moves
 through the ecosystem, and how management practices affect its
 effectiveness, is central to achieving desertification|land restoration
-goals and maintaining productive [[symbiotic-fungi-fungal-endophytes-grassland-ecology]].
-
-## The Fundamental Cycle
-
-A fixed amount of water exists on the planet that constantly cycles from
-the atmosphere to the surface and back. Precipitation follows several
-paths: some evaporates straight away off soil and plant surfaces; some
-runs off into streams, rivers, dams, and lakes; some penetrates the soil
-where a portion is held by soil particles and the rest flows down to
-underground supplies. Water held by soil particles is drawn away by plant
-roots and transpired back into the air, or moves slowly toward drier
-particles. All water eventually cycles between earth and air.
-
-## Effective vs Noneffective Water Cycles
-
-The distinction between effective and noneffective water cycles is critical
-to understanding [[desertification]] and land health.
+goals and maintaining productive [[desertification]] and land health.
 
 **An effective water cycle** means plants make maximum use of rainfall.
 Little evaporates directly off the soil. Any runoff causes no erosion and
@@ -71,25 +55,8 @@ is one of the most widespread and serious problems in brittle environments.
 Soil cover protects the surface from raindrop impact and preserves crumb
 structure. Cover comes in two forms: erect growing plants, which intercept
 rainfall, and dead prone plant material that slows water flow across the
-land. In [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]],
-soil cover is seldom a problem since plants are closely spaced and dead
-material stays in place. In brittle environments, old plant material only
-falls after long delay through oxidation, and wide plant spacings allow
-wind and water to carry litter away.
-
-## The Chain Reaction of Deterioration
-
-A noneffective water cycle triggers a self-reinforcing chain of
-degradation:
-- Increased runoff leads to flooding, siltation, and erosion
-- Decreased surface penetration increases drought frequency and severity
-- Less forage production with greater instability
-- Slower plant growth rates leading to reduced production
-- Falling groundwater supplies and drying springs
-- Unstable rivers prone to flash flooding
-- The deterioration then feeds back into all four ecosystem foundation
-  blocks, including [[savory-plant-succession-and-community-dynamics]],
-  [[holmgren-mineral-balance-soil-fertility]], and [[savory-energy-flow-and-solar-capture]]
+land. In [[savory-plant-succession-and-community-dynamics]],
+  [[savory-energy-flow-and-solar-capture]]
 
 ## The Hidden Problem of Bare Ground
 
@@ -129,18 +96,8 @@ healthy water supplies from healthy watersheds.
 
 To achieve an effective water cycle, management tools must be applied so
 that soil acquires and maintains adequate organic content and animal
-activity. The [[savory-holistic-resource-management-decision-framework]] helps
-determine which tools are most appropriate at any time. The key is to
-prevent the loss of water from the land at the outset, rather than
-relying on engineering solutions that deal with water after it has
-already started flowing away.
+activity. The [[savory-holistic-resource-management-mineral-cycle]]
 
-## See Also
-
-- [[savory-holistic-resource-management-mineral-cycle]]
-
-- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 - [[holmgren-mineral-balance-soil-fertility]]
-- [[savory-plant-succession-and-community-dynamics]]
 - [[savory-animal-impact-and-herd-effect]]
 - [[desertification]]

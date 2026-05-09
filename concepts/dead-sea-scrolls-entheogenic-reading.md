@@ -118,11 +118,6 @@ the interpretation of Jewish law.
 
 ## See Also
 
-- [[allegro-dead-sea-scrolls-and-early-christian-sects]]
-
-- john allegro - The scholar behind the entheogenic reading
 - [[sacred-mushroom-and-the-cross]] - Allegro's full argument
-- [[allegro-philological-methodology]] - His controversial method
 - [[amanita-in-ancient-religion]] - Ancient Near Eastern fertility religion
-- [[canaanite-religion-and-mushroom-symbolism]] - Related claims
 - [[allegro-soma-mushroom-thesis]] - Allegro's broader thesis

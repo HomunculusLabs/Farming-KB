@@ -18,10 +18,8 @@ type: concept
 # Hyphal Growth Kinetics
 
 Hyphal growth is the fundamental mode of vegetative expansion for filamentous
-fungi. Understanding the kinetics of [[mycelium-as-network-organism]] growth
-is essential for optimizing [[mushroom-cultivation-basics]], predicting
-fungal behavior in [[fungal-ecology-forest-ecosystems]], and designing
-effective [[mycoremediation-bioreactor-design]] systems. Fungi grow by hyphal
+fungi. Understanding the kinetics of [[mushroom-cultivation-basics]], predicting
+fungal behavior in [[mycoremediation-bioreactor-design]] systems. Fungi grow by hyphal
 extension, enabling them to reach resources in soil and other environments
 in ways that single-celled organisms cannot.
 
@@ -101,45 +99,6 @@ may not be optimal for fungal growth or for activity of extracellular enzymes.
 
 ## Mycelial Growth During Spawn Running
 
-During [[mushroom-cultivation-basics]], the incubation phase (spawn running)
-is when the mycelium colonizes the substrate. In seven days to two weeks after
-inoculation, spawn jars should be fully colonized with mushroom mycelia. The
-danger during this period is that contamination, if undetected, will likewise
-be produced in large quantities. By balancing environmental parameters,
-especially temperature, the mycelium is favored over competitors.
-
-Overheating is a major problem in incubation rooms with high jar density.
-Many thermophilic fungi that are inactive at room temperature flourish at
-elevated temperatures unfavorable for cultivated mushrooms. Provisions for
-air circulation and temperature stratification prevention are essential.
-
-## Combative Interactions and Growth
-
-In natural environments, hyphal growth brings fungi into contact with
-competitors. The outcome of primary resource capture depends on mechanisms
-that operate in early colonization stages. Early phases involve rapidly
-extending mycelium utilizing free sugars, followed by combative interactions
-with other individuals. Fungi characterized as primary resource capturers
-are disturbance-tolerant with active exploitation strategies.
-
-Secondary resource capturers employ slower growth combined with substrate
-retention and tolerance to developing nutrient stress. These fungi may
-persist in wood much longer than primary colonizers, although they appear
-to be less active degraders under laboratory conditions.
-
-## Monitoring Growth in Cultivation
-
-Regular inspection of spawn jars or cultures is essential during incubation.
-Signs of healthy growth include white, thread-like mycelium spreading from
-inoculation points. Contaminants such as Penicillium and Aspergillus appear
-as colored (typically green) patches. Excessive metabolic waste fluid
-("sweating") indicates incubation at too high a temperature, over-aging, or
-lack of gas exchange.
-
-## See Also
-
-- [[mycelial-networks-and-intelligence]]
-- [[mushroom-indoor-cultivation]]
+During [[mycelial-networks-and-intelligence]]
 - [[mushroom-training-incubation-management]]
-- [[spawn-production-techniques]]
 - [[mushroom-environmental-parameters]]

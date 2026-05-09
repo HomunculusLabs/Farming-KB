@@ -38,7 +38,7 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 
 ### Flavor Profile
 
-**Scented geraniums** offer intense, concentrated aromatics that persist through cooking processes like baking, jelly-making, and syrup infusion. A single rose-scented leaf can perfume an entire cake. Their flavors are primarily derived from essential oils (geraniol, citronellol, linalool), giving them a depth that most edible flowers lack.
+**Scented geraniums** offer intense, concentrated aromatics that persist through cooking processes like baking, jelly-making, and syrup infusion. A single rose-scented leaf can perfume an entire cake. Their flavors are primarily derived from essential oils ([[linalool]]), giving them a depth that most edible flowers lack.
 
 **Edible flowers** (nasturtium, calendula, viola, borage, chamomile, squash blossoms, etc.) provide visual appeal with complementary flavors that are typically lighter and more subtle. Nasturtium has peppery heat, borage tastes of cucumber, calendula is slightly bitter and tangy. They excel as garnishes and fresh additions rather than as primary flavoring agents.
 
@@ -76,56 +76,5 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 
 **Scented geraniums** benefit from their aromatic oils, which provide moderate pest deterrence. Whiteflies and aphids are the main concerns. Their scent can help mask neighboring plants from certain pests, making them functional companion plants.
 
-**Edible flowers** vary enormously. Marigolds (technically edible, though mostly ornamental) repel nematodes; nasturtiums attract aphids away from crops (trap cropping); but many edible flowers like borage and viola have minimal pest deterrence value and may attract their own suite of pests.
-
-## Permaculture and Companion Planting
-
-### Scented Geraniums in Permaculture
-- Act as aromatic pest-confusion plants in garden edges
-- Provide year-round forage material in mild climates
-- Excel in container-based permaculture on patios and balconies
-- Their essential oils have documented antimicrobial and insect-repellent properties
-- Low water requirements suit drought-conscious designs
-- Function as nursery plants—easy to propagate and share within communities
-
-### Edible Flowers in Permaculture
-- Attract pollinators and beneficial insects (critical function)
-- Many are excellent trap crops (nasturtiums for aphids, calendula for slugs)
-- Provide ground cover and living mulch (nasturtium, creeping thyme flowers)
-- Support diverse pollinator populations across bloom seasons
-- Some fix nitrogen or accumulate nutrients (clover flowers, yarrow)
-- Self-seeding varieties create persistent guilds
-
-### Synergistic Approach
-
-The most productive approach combines both. Plant scented geraniums in containers and along garden edges for their aromatic, pest-deterrent qualities, while interplanting edible flowers throughout vegetable beds for pollinator support and visual harvest. Together, they create a multi-layered system that maximizes both function and beauty.
-
-## When to Choose Scented Geraniums
-
-- You want year-round harvest potential (overwintering indoors)
-- Culinary depth and intense flavor are priorities
-- Space is limited (container growing, windowsill, balcony)
-- Aromatherapy or potpourri-making interests you
-- You want low-maintenance, drought-tolerant plants
-- You live in a mild climate (Zones 9–11) where they can grow outdoors year-round
-- Pest deterrence through aromatic masking is desired
-
-## When to Choose Edible Flowers
-
-- Visual presentation and garnishing are priorities
-- You want to support maximum pollinator diversity
-- You're designing integrated vegetable-herb-flower polycultures
-- Self-seeding persistence is valued
-- You need cold-hardy options (pansies, violas, calendula)
-- You're growing for market (edible flowers sell on appearance)
-- Trap cropping for pest management is a primary goal
-
-## Recommendation
-
-Neither is strictly superior—they serve complementary functions. The ideal garden includes both. Start with 3–5 scented geranium varieties in containers (rose, lemon, peppermint, and apple are the most versatile) and add 4–6 edible flower species in-ground (nasturtium, calendula, borage, viola, and chamomile are the most productive). This combination delivers year-round aromatic harvest, seasonal edible flowers, pollinator support, pest management, and garden beauty from a modest investment of space and effort.
-
-## See Also
-
-- [[query-how-do-i-grow-edible-flowers-in-a-permaculture-garden]]
-- [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
+**Edible flowers** vary enormously. Marigolds (technically edible, though mostly ornamental) repel nematodes; nasturtiums attract aphids away from crops ([[permaculture]] and [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
 - [[comparison-duck-keeping-vs-rabbit-husbandry]]

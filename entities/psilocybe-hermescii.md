@@ -48,36 +48,7 @@ Additional molecular data would help confirm its phylogenetic position and asses
 ### Bluing Reaction
 
 The blue staining reaction is a key diagnostic feature distinguishing *P. hermescii* from non-psychoactive look-alikes.
-Bruising develops on the stem base, gills, and cap flesh, though the reaction may be slower and less intense than in more potent species like [[stamets-psi-psilocybe-azurescens-species-guide]].
-The bluing typically develops over 30 seconds to several minutes after injury, beginning as a faint greenish tint that deepens to blue.
-
-## Distribution and Habitat
-
-*Psilocybe hermescii* has been documented from southern Mexico, particularly in the states of Oaxaca, Puebla, and Veracruz.
-These regions are part of the broader Mesoamerican mycological diversity hotspot where many psilocybin-containing species have been identified, including the culturally significant [[psilocybe-mexicana-cultivation]] and [[psilocybe-caerulipes]].
-
-The species grows as a saprotroph on decaying plant material, including leaf litter, woody debris, and enriched soils in humid tropical and subtropical forests.
-It is typically found at elevations between 1,000 and 2,000 meters in cloud forest and pine-oak forest ecosystems.
-Fruiting occurs during the rainy season when humidity is consistently high and temperatures range from 15 to 25 degrees Celsius.
-
-### Ecological Role
-
-As a saprotrophic fungus, *P. hermescii* contributes to the decomposition of leaf litter and plant debris in montane forest ecosystems.
-Its activity helps release bound nutrients back into the soil, supporting plant growth and maintaining the productivity of the forest floor.
-
-The species appears to favor microhabitats with high moisture retention, such as areas beneath dense canopy cover, near stream banks, and in mossy patches.
-These microhabitats provide the consistent humidity required for both mycelial growth and fruiting body development.
-
-*P. hermescii* may interact with a range of soil invertebrates and microorganisms as part of the broader decomposer community.
-Fungi feeding insects and arthropods may contribute to spore dispersal, while bacterial associates in the substrate may facilitate the initial breakdown of complex plant polymers before fungal colonization.
-
-## Chemistry
-
-*Psilocybe hermescii* is confirmed to contain [[psilocybin-compound]] and [[psilocin]] based on chemical analysis and the characteristic blue staining reaction.
-Exact quantitative data on alkaloid content is limited, as the species has not been as extensively studied as more common taxa like [[psilocybe-cubensis-potency-variation-by-flush]] or [[psilocybe-mexicana-cultivation]].
-
-Based on its morphological characteristics and relationship to other Mexican species, it is presumed to have moderate potency, with psilocybin content likely in the range of 0.2% to 0.8% of dry weight.
-The species likely also contains [[baeocystin]], which has been detected in the majority of psilocybin-containing mushrooms that have been subjected to thorough chromatographic analysis.
+Bruising develops on the stem base, gills, and cap flesh, though the reaction may be slower and less intense than in more potent species like [[psilocybe-mexicana-cultivation]] and [[psilocybin]] and [[psilocybe-cubensis-potency-variation-by-flush]] or [[baeocystin]], which has been detected in the majority of psilocybin-containing mushrooms that have been subjected to thorough chromatographic analysis.
 
 ### Biosynthetic Pathway
 
@@ -115,19 +86,9 @@ Field collection and isolation of pure cultures from fresh specimens would be a 
 
 *P. hermescii* may be confused with other small, brown Mexican Psilocybe species:
 
-- [[psilocybe-mexicana-cultivation]] — more widely distributed, often fruits in grasslands and along trails, known to produce subterranean sclerotia
 - [[psilocybe-coprophila-profile]] — typically found on dung, smaller overall stature and more restricted habitat
 - Deconica species — lack bluing reaction entirely, non-psychoactive, often more abundant in similar habitats
-- [[psilocybe-fascicata]] — grows in clusters on wood rather than terrestrial solitary or scattered, slightly larger cap
-
-Key distinguishing features of *P. hermescii* include its terrestrial habit on leaf litter, relatively small cap size (5–15 mm), pruinose stem apex, and distribution in the cloud forests of southern Mexico.
-The combination of these features with the blue staining reaction helps separate it from both non-psychoactive Deconica species and other psychoactive Psilocybe taxa with different ecological preferences.
-
-## See Also
-
-- [[psilocybin-compound]]
-- [[psilocin]]
+- [[psilocybin]]
 - [[baeocystin]]
-- [[psilocybe-mexicana-cultivation]]
 - [[bigwood]]
 - [[beug]]

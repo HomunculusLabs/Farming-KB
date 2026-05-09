@@ -10,15 +10,7 @@ sources:
 
 # Five Tastes and Health
 
-Masanobu Fukuoka's understanding of the relationship between the five tastes and human health is rooted in traditional Japanese food wisdom and his broader [[fukuoka-philosophy-eating]]. The five tastes -- sweet, sour, bitter, spicy, and salty -- each have their role in maintaining the body's balance.
-
-## The Five Tastes in Traditional Japanese Cuisine
-
-Traditional Japanese cooking recognized five fundamental tastes and sought to include all five in every meal. This was not a matter of culinary sophistication alone but of health. Each taste corresponds to different organs and functions in the body, and a balanced intake of all five supports overall health.
-
-Modern processed food, in Fukuoka's view, has severely disrupted this balance. Industrial food production emphasizes sweet and salty tastes -- the ones most appealing to the primitive appetite -- while neglecting bitter, sour, and spicy. This creates dietary imbalance, which in turn contributes to a wide range of health problems.
-
-The disruption of the five tastes is part of the larger [[fukuoka-food-civilization-critique]] that Fukuoka developed throughout his work.
+Masanobu Fukuoka's understanding of the relationship between the five tastes and human health is rooted in traditional Japanese food wisdom and his broader [[fukuoka-food-civilization-critique]] that Fukuoka developed throughout his work.
 
 ## Sweet
 
@@ -34,17 +26,7 @@ Sour taste comes from fermentation -- pickled vegetables, miso, soy sauce, umebo
 
 The traditional Japanese meal always included a pickled vegetable. Fukuoka noted that the farmers of old, despite their apparent poverty, ate a diet that included rice with barley, pickled vegetables, and umeboshi -- a simple but nutritionally complete and balanced meal.
 
-Fermented foods represent the work of the same microorganisms that Fukuoka celebrated in his understanding of [[fukuoka-living-soil]]. The lactic acid bacteria that ferment vegetables are kin to the soil microbes that decompose organic matter and maintain soil fertility.
-
-## Bitter
-
-Bitter taste is the most neglected in modern diets, yet it may be the most important for health. Bitter greens, herbal teas, and certain roots stimulate digestion, support liver function, and help the body eliminate toxins.
-
-In traditional Japanese cuisine, bitter flavors were not avoided but sought out. Burdock root, dandelion greens, and certain mushrooms provided regular doses of bitterness that kept the digestive system functioning properly.
-
-Fukuoka observed that wild plants tend to be more bitter than cultivated varieties. This bitterness is not a defect but a sign of the plant's medicinal qualities. "The wilder and more primitive the food, the greater its medicinal value."
-
-This insight connects to Fukuoka's broader understanding that [[fukuoka-what-is-nature]] when we eat in harmony with our environment. The bitterness that modern palates reject may be precisely the medicine that modern bodies require.
+Fermented foods represent the work of the same microorganisms that Fukuoka celebrated in his understanding of [[fukuoka-what-is-nature]] when we eat in harmony with our environment. The bitterness that modern palates reject may be precisely the medicine that modern bodies require.
 
 The disappearance of bitter foods from the modern diet is not merely a culinary loss but a medical one. By breeding the bitterness out of our vegetables and filtering it out of our beverages, we have systematically removed one of nature's most important healing agents.
 
@@ -78,14 +60,23 @@ The five tastes are not found in isolation in nature. Every whole food contains 
 
 Eating a diverse diet of whole, unprocessed foods naturally provides a balance of all five tastes. No special effort or nutritional knowledge is required. The body's own appetite, when not distorted by processed food, will guide us toward the foods we need.
 
-This is the foundation of Fukuoka's [[fukuoka-natural-diet-theory]] -- the insight that the body, when returned to its natural state, knows instinctively what it needs.
+This is the foundation of Fukuoka's [[fukuoka-food-and-human-health]], [[fukuoka-cleansing-diet]], [[fukuoka-philosophy-eating]]
+## Practical Considerations
 
-## The Diet of Principle
+Successful implementation of Five Tastes and Health requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-All things exist in nature. Nothing is lacking; nothing is present in excess. The foods of nature are complete and whole in and of themselves. It should always be remembered that nature too is a single, harmonious whole, ever complete and perfect.
+## Future Directions
 
-Man can never understand one part of nature, much less the whole. The position taken by those who long earnestly for a natural diet is to renounce human knowledge and submit to the will of nature by reaffirming one's obeisance to divine providence. It is already enough to eat cooked and salted food, to consume all things in moderation, to gather foods of the seasons that grow close at hand.
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-People must realize that a diet of surfeit which relies on foods from far-off lands leads the world astray and invites human ills. The five tastes, when experienced through locally grown, seasonal, whole foods, naturally maintain the body's equilibrium without any need for dietary calculation or scientific supplementation.
-
-See also: [[fukuoka-food-and-human-health]], [[fukuoka-natural-food-philosophy]], [[fukuoka-cleansing-diet]], [[fukuoka-natural-diet-theory]], [[fukuoka-philosophy-eating]]

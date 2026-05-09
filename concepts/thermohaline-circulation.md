@@ -2,32 +2,19 @@
 title: "thermohaline circulation"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 type: concept
 tags: [reference]
 ---
 # Thermohaline Circulation
 ## Overview
-Thermohaline circulation is the large-scale movement of ocean water driven by differences in temperature and salinity.
-The term comes from thermo, meaning heat, and haline, meaning salt.
-
-Together, temperature and salinity control seawater density, and density differences help move water vertically and horizontally through the ocean.
-
-This circulation is sometimes called the global conveyor belt, though that metaphor can oversimplify a complex, turbulent, and regionally variable system.
-
-Cold salty water is dense and tends to sink.
-Warm fresh water is less dense and tends to remain near the surface.
-
-When dense water forms in polar and subpolar regions, it can descend into the deep ocean and spread across ocean basins.
-
-Surface currents, wind stress, sea ice processes, mixing, and Earth rotation all interact with these density-driven flows.
-
-Thermohaline circulation links the climate system, the [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]], marine ecosystems, and regional weather patterns.
+Thermohaline circulation is the [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], and regional weather patterns.
 It transports heat, oxygen, nutrients, and dissolved carbon over distances of thousands of kilometers.
 
 Because deep ocean water can remain isolated from the atmosphequery-how-to-store-mushroom-spores-long-termnturies, the circulation also influences long-term climate memory.
 
-The best-known component is the Atlantic Meridional Overturning Circulationdeep-water-culture]]
+The best-known component is the Atlantic Meridional Overturning Circulationdeep-water-culture
 
 AMOC carries warm surface water northward in the Atlantic and returns colder deep water southward.
 ## Key aspects
@@ -65,13 +52,11 @@ Thermohaline circulation is measured using moorings, floats, tracers, satellites
 
 The Argo float program has greatly improved observations of upper-ocean temperature and salinity.
 
-Deep A [[oss-oeric-legal-disclaimer-and-context]] ons are improving measurements below the traditional two thousand meter limit.
+Deep A  ons are improving measurements below the traditional two thousand meter limit.
 ## History and context
 Early oceanographers recognized that deep ocean water was cold, oxygenated, and not simply stagnant.
 
-Nineteenth century expeditions such as the Challenger expedition helped establish global patterns of temperature, salinity, and marine life.
-
-The modern theory of ocean circulation developed through physical oceanography, fluid dynamics, and geophysical observation.
+Nineteenth century expeditions such as the Challenger expedition helped establish [[navier-stokes-equations-fluid-dynamics]], and geophysical observation.
 
 Harald Sverdrup, Henry Stommel, Walter Munk, and many others contributed to understanding wind driven and density driven circulation.
 The phrase thermohaline circulation became common in discussions of global ocean overturning during the twentieth century.
@@ -100,50 +85,5 @@ Thermohaline circulation redistributes heat and helps shape regional climates.
 
 Northward heat transport in the Atlantic influences temperatures around the North Atlantic basin.
 
-Changes in overturning can shift rainfall belts, storm tracks, sea level patterns, and marine habitats.
-
-The circulation ventilates the deep ocean by carrying oxygen rich surface water downward.
-Deep ventilation affects organisms that live far below the photic zone.
-
-It also helps determine where low oxygen zones expand or contract.
-
-Nutrient cycling depends partly on the movement of deep water back toward the surface.
-
-Upwelled deep water can supply nitrate, phosphate, silicate, and trace metals that support phytoplankton growth.
-The circulation is central to the ocean's role as a carbon sink.
-
-Cold high latitude waters can absorb carbon dioxide and transport dissolved inorganic carbon into the deep ocean.
-
-Biological particles sinking from the surface add another pathway through the biological pump.
-
-Because deep waters may remain away from the atmosphere for centuries, ocean uptake delays some atmospheric warming.
-This delay is not a permanent solution because stored heat and carbon can later re emerge.
-
-Fisheries, shipping, coastal planning, and climate adaptation all benefit from better understanding of overturning circulation.
-
-In climate modeling, thermohaline circulation is a key test of coupled atmosphere ocean simulations.
-
-Small biases in salinity, mixing, clouds, or winds can alter simulated overturning behavior.
-The significance of the concept lies in its scale: local density changes can influence global circulation.
-
-It is one of the clearest examples of how physics connects polar ice, tropical rainfall, deep sea ecosystems, and human futures.
-
-## Related concepts
-climate system
-
-carbon cycle
-ocean acidification
-
-paleoclimatology
-
-Coriolis effect
-
-sea ice
-upwelling
-
-El Nino Southern Oscillation
-
-climate tipping points
-
-biological pump
-  [[[[fungi-in-climate-change]]
+Changes in overturning can shift ra [[cannabis-deep-water-culture-guide]]
+- [[trace-water-enhanced-microwave-surface-sterilization]]

@@ -118,11 +118,10 @@ exchange, diffuse light. Colonization takes 14–21 days; fruiting begins 7–14
 induction. Relatively easy to cultivate and gaining interest for combined enzyme production
 and harvest.
 
-## Related Species
+## Related
 
-- [[trametes-versicolor]] — Turkey tail; another prolific laccase producer and medicinal
+- [[trametes-versicolor-entity]] — Turkey tail; another prolific laccase producer and medicinal
   white-rot fungus.
-- [[ganoderma-lucidum]] — Reishi; medicinal polypore with complementary bioactivity.
 - [[pleurotus-ostreatus]] — Oyster mushroom; efficient lignocellulose degrader used in
   similar bioremediation contexts.
 - [[fomes-fomentarius]] — Tinder conk; white-rot polypore with traditional medicinal use.

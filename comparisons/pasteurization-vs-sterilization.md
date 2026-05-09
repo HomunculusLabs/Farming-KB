@@ -10,55 +10,8 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-# Pasteurization vs Sterilization in [[mushroom-cultivation-in-kenya]]
-Pasteurization and sterilization are the two primary methods used to prepare 
-substrates, casing materials, and equipment for mushroom cultivation. 
-
-Understanding when and why to use each method is fundamental to successful 
-growing, as the choice directly impacts contamination rates, mycelial 
-performance, and yield.
-
-## Definitions and Core Differences
-Pasteurization is a heat treatment process that reduces the population of 
-harmful microorganisms to manageable levels without eliminating all life. 
-
-Typically carried out at temperatures between 140-170°F (60-77°C) for 
-periods ranging from 30 minutes to 24 hours, pasteurization selectively kills 
-competitor fungi, nematodes, and many bacteria while preserving beneficial 
-thermophilic microorganisms. These surviving microbes contribute to substrate 
-selectivity by occupying ecological niches that would otherwise be exploited 
-by contaminants.
-Sterilization is a more aggressive process that eliminates all viable life 
-forms, including bacterial endospores, fungal spores, and viruses. Achieved 
-through steam autoclaving at 15 psi (250°F/121°C) for 30-90 minutes, 
-sterilization creates a truly sterile environment. However, this also 
-destroys beneficial microorganisms that may have aided the mushroom mycelium 
-in defending against later contamination.
-
-## When to Pasteurize
-Pasteurization is the preferred treatment for bulk substrates that will be 
-exposed to open air during spawning or that have inherent biological 
-defenses. The standard applications include:
-Wheat straw substrates for species like [[pleurotus-ostreatus]], Stropharia 
-rugoso-annulata, and [[psilocybe-cubensis]].
-Compost-based substrates for Agaricus species.
-
-Casing layers, especially soil-based mixtures that benefit from retained 
-microflora.
-Wood chip and sawdust substrates for outdoor beds.
-
-The key advantage of pasteurization is that it leaves behind beneficial 
-bacteria such as Pseudomonas putida, which have been shown to enhance 
-primordia formation and increase yields. A casing layer prepared with 
-pasteurization rather than sterilization retains natural resistance to 
-competitors and supports the symbiotic relationship between mycelium and 
-resident microorganisms.
-
-## When to Sterilize
-Sterilization is necessary for substrates and media that lack natural 
-biological defenses or that will be inoculated in a highly controlled sterile 
-environment. Standard applications include:
-[[grain-spawn-preparation]] (rye, millet, wheat).
+# Pasteurization vs Sterilization in [[pleurotus-ostreatus]], Stropharia 
+rugoso-annulata, and [[grain-spawn-preparation]] (rye, millet, wheat).
 
 Agar media for petri dish and slant cultures.
 
@@ -147,4 +100,3 @@ organisms can shelter, the minimum recommended time of 60 minutes at 15 psi
 should not be reduced. Shortcuts in sterilization are a primary cause of 
 contaminated spawn jars.
 Conversely, over-sterilizing agar media by exceeding 250°F can caramelize 
-sugars in the medium, which inhibits mycelial growth and may promote genetic 

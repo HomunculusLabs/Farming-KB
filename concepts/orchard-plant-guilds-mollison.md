@@ -3,7 +3,7 @@ title: Orchard Plant Guilds (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, food-forest, plant-systems]
+tags: [[permaculture, design, food-forest, plant-systems]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -104,11 +104,7 @@ It is beneficial, in cage culture, to use species such as tree frogs, small liza
 
 ## See Also
 
-- [[backyard-orchard-design]]
 - [[berry-fruit-production-in-permaculture]]
-- [[grafting-fruit-trees]]
 - [[pruning-fruit-trees]]
-- [[cold-climate-permaculture-guide]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
-- [[permaculture-designers-manual-grazing-animals]]
 - [[permaculture-designers-manual-climate-factors]]

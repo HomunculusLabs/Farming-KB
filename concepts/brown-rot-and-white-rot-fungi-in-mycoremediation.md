@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Mushrooms that decompose wood can be classified into two subgroups based on the type of rot they cause: brown rotters and white rotters. This distinction is critical for mycoremediation, as the enzymes each group produces determine which toxins they can break down. See also mycoremediation, [[mycoremediation-species-selection-guide]], and [[antiviral-properties-of-mushrooms]].
+Mushrooms that decompose wood can be classified into two subgroups based on the type of rot they cause: brown rotters and white rotters. This distinction is critical for mycoremediation, as the enzymes each group produces determine which toxins they can break down. See also mycoremediation, [[antiviral-properties-of-mushrooms]].
 
 ## Brown Rot Fungi
 
@@ -49,67 +49,69 @@ Mushrooms that decompose wood can be classified into two subgroups based on the 
 - **Turkey tail** (Trametes versicolor)
 - **Reishi** (Ganoderma lucidum)
 - **Artist conk** (Ganoderma applanatum)
-- **Crust fungus** ([[singh-cytochrome-p450-fungal-bioremediation]])
-- **King stropharia** (Stropharia rugoso-annulata)
-- **Shiitake** (Lentinula edodes)
-- **Chaga** (Inonotus obliquus)
+- **Crust fungus** ([[comparison-white-rot-vs-brown-rot-fungi]]
 
-### Mycoremediation Mechanism
-- Bonds holding plant material together are similar to bonds in petroleum products, diesel, oil, herbicides, and pesticides
-- Mycelial enzymes dismantle resistant materials by breaking hydrogen-carbon bonds
-- Primary byproducts: water and carbon dioxide (50%+ of organic mass becomes CO2, 10-20% becomes water)
-- This is why compost piles dramatically shrink and ooze leachate as they mature
-
-## Mottled Rot
-Some species produce both types of rot, leaving a mottled white and brown discoloration:
-- **Bear's head** (Hericium abietis) — white rot in core, brown rot in outer regions
-- **Agaricus brasiliensis** — mottled white rot
-- **Sulphur tuft** (Hypholoma capnoides) — grows on conifers, appears from dark-colored wood
-
-## Species-Habitat Matrix
-
-| Species | Tropical | Temperate | Subtropical | Boreal | Rot Type |
-|---|---|---|---|---|---|
-| Agaricus brasiliensis | X | | X | | White |
-| Agrocybe aegerita | | | X | | White |
-| Coprinus comatus | X | X | X | | White |
-| Flammulina velutipes | | X | X | | White |
-| Fomes fomentarius | | | X | X | White |
-| Ganoderma lucidum | X | X | X | | White |
-| Grifola frondosa | | X | | | White |
-| Hericium erinaceus | | X | X | | White |
-| Inonotus obliquus | | X | | X | White |
-| Laetiporus sulphureus | | X | | | Brown |
-| Lentinula edodes | | X | X | | White |
-| Pleurotus ostreatus | X | X | X | | White |
-| Stropharia rugoso-annulata | | X | | | White |
-| Trametes versicolor | | X | X | | White |
-
-## Multi-Kingdom Approach
-
-The natural order of organism sequencing through damaged ecosystems:
-1. **Fungi** — primary colonizers, break down toxins
-2. **Invertebrates and vertebrates** — attracted by spores and fruitbodies
-3. **Bacteria** — use rotting mushrooms as growth base, produce additional toxin-digesting enzymes
-4. **Plants** — emerge once toxin levels decline; mycorrhizal-infused plants for restoration
-5. **Animals** — return to restored habitat
-6. **Fungi** — cycle repeats
-
-This multi-kingdom synergy is key to successful mycoremediation.
-
-## Related
-
-- [[comparison-white-rot-vs-brown-rot-fungi]]
-
-- [[mycelium-running-white-rot-brown-rot-fungi]] Topics
-
-- mycoremediation
 - [[mycoremediation-species-selection-guide]]
-- [[antiviral-properties-of-mushrooms]]
-- mycorestoration
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
-- [[casing-layer-preparation]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
-- [[mycelium-running-rot-fungi-wood-decomposition]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
 - [[laricifomes-officinalis]]
+## Practical Considerations
+
+When working with Brown Rot and White Rot Fungi in Mycoremediation, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

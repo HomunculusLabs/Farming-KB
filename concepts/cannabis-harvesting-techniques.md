@@ -25,109 +25,93 @@ The ideal harvest window depends on the desired effect:
 - **70–80%+ brown pistils**: Late harvest — more body-heavy, sedative effect, higher CBN, may be slightly less potent in THC
 
 ### By Trichome Color
-See [[cannabis-harvest-timing-visual-cues]] for detailed trichome assessment:
-- **Clear trichomes**: Not ready — THC is not fully developed
-- **Milky/cloudy trichomes**: Peak THC — harvest now for maximum potency
-- **Amber trichomes**: THC degrading to CBN — more sedative effect
-
-### General Timeline
-Most cannabis strains are ready 8–12 weeks after switching to 12/12 flowering. Indica-dominant strains tend to finish faster (7–9 weeks), sativa-dominant strains take longer (10–14 weeks or more). Always use visual indicators rather than counting days alone.
-
-## Pre-Harvest Preparation
-
-1. **Flush**: Begin flushing 1–2 weeks (soil) or 5–7 days (hydro) before harvest. See [[cannabis-flushing-before-harvest]].
+See [[cannabis-flushing-before-harvest]].
 2. **Dark period**: Some growers give plants 24–48 hours of complete darkness before harvest. The theory is that this boosts resin and terpene production as a stress response.
-3. **Prepare drying space**: Set up your drying area before cutting — see [[cannabis-drying-and-curing-guide]].
-4. **Gather tools**: Sharp scissors, pruners, gloves, drying rack or lines, airtight containers for curing.
-
-## Harvest Methods
-
-### Whole Plant Harvest
-
-Cutting the entire plant at the base:
-
-**Advantages**:
-- Faster to execute
-- The plant can hang whole for drying, which some growers prefer for slow, even drying
-- Less handling of individual branches
-
-**Disadvantages**:
-- Not all buds may be at peak maturity
-- Larger plants are harder to handle and hang
-- Less precise control over individual branch drying
-
-**Process**:
-1. Cut the main stem at soil level with clean pruners
-2. Remove large fan leaves (optional — can be done after drying)
-3. Hang the entire plant upside down from a line or hanger
-4. Ensure good air circulation around the entire plant
-
-### Branch-by-Branch Harvest (Recommended)
-
-Cutting individual branches as they mature:
-
-**Advantages**:
-- Harvest each branch at peak maturity
-- Easier to handle and manage
-- More even drying
-- Can harvest over multiple days if different branches mature at different rates
-
-**Process**:
-1. Select branches with trichomes/pistils indicating peak maturity
-2. Cut the branch where it meets the main stem
-3. Trim large fan leaves from the branch
-4. Hang branches individually on lines or drying racks
-
-### Wet Trimming vs Dry Trimming
-
-**Wet Trimming** (trimming immediately after harvest, before drying):
-- Leaves are easier to remove when fresh and rigid
-- Faster drying due to reduced foliage
-- Requires immediate effort
-- Can remove too many sugar leaves, reducing dry weight
-- Many commercial growers prefer this method
-
-**Dry Trimming** (drying first, then trimming):
-- Leaves curl inward around buds during drying, protecting trichomes
-- Slower but some argue better flavor preservation
-- Easier to handle and see bud structure
-- Risk of mold if humidity is too high during the long dry
-- Often preferred by connoisseur growers
-
-## Trimming Tips
-
-- **Use sharp, clean scissors**: Dull scissors crush plant material and damage trichomes
-- **Wear gloves**: Resin will coat your hands and tools
-- **Save trim**: All trimmed leaf material is useful for hash, edibles, or extracts
-- **Sugar leaves**: The small leaves covered in trichomes that grow within the buds — trim minimally to preserve weight and potency
-- **Fan leaves**: Large, low-trichome leaves — remove completely
-
-## Post-Harvest Handling
-
-1. **Hang to dry**: See [[cannabis-drying-and-curing-guide]] for drying procedures
+3. **Prepare drying space**: Set up your drying area before cutting — see [[cannabis-drying-and-curing-guide]] for drying procedures
 2. **Do NOT rush drying**: Slow, controlled drying preserves terpenes and prevents mold
-3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[cannabis-drying-and-curing-guide]].
-
-## Yield Expectations
-
-Typical yields (dried, trimmed weight):
-- **Indoor soil**: 0.5–1.0 gram per watt of light (e.g., 400W light = 200–400g)
-- **Indoor hydro**: 0.5–1.5 gram per watt
-- **Outdoor**: Varies enormously — 100g to 1kg+ per plant depending on size and conditions
-
-Yield depends on strain, grow method, experience, environment, and many other factors.
-
-## Related Topics
-
-- [[cannabis-harvest-timing-visual-cues]] — determining the perfect harvest time
-- [[cannabis-flushing-before-harvest]] — pre-harvest nutrient clearing
+3. **Cure properly**: Curing develops flavor and smoothness over weeks. See [[cannabis-harvest-timing-visual-cues]] — determining the perfect harvest time
 - [[cannabis-drying-and-curing-guide]] — post-harvest processing for quality
-- [[cannabis-trichome-types-and-development]] — trichome biology for harvest timing
 - [[cannabis-flowering-stage]] — flowering phase management
-- [[cannabis-hashish-screening-and-pressing]] — processing trim into hash
-
 - [[cannabis-chronic-pain-management]]
 
 ## See Also
 
 - [[cannabis-manicuring-techniques]]
+## Practical Applications
+
+Cannabis Harvesting Techniques has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Cannabis Harvesting Techniques. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

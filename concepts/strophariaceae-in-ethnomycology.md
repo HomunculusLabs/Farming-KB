@@ -43,26 +43,7 @@ genera of ethnomycological importance:
 - Hypholoma — 6 neurotropic species, often found fruiting on decaying wood
   in forest habitats
 - Stropharia — historically significant; the species now known as
-  [[psilocybe-cubensis]] was originally described as Stropharia cubensis by
-  Earle in 1906
-
-The genus concept followed by Guzmán (1983, 1995) is a modification of Singer's
-(1986) classification, excluding Section Chrysocystidiatae. The broader concept
-of Kühner and Romagnesi (1953), which merged Psilocybe, Hypholoma, and
-Stropharia into a single genus, is not followed in standard ethnomycological
-literature. This taxonomic framework matters because species identifications in
-older literature often use different generic placements, requiring careful
-cross-referencing when tracing historical records.
-
-## The Mexican Rediscovery
-
-The modern history of the Strophariaceae in ethnomycology begins with the
-rediscovery of indigenous mushroom ceremonies in Mexico, a story unfolding
-through the work of several key figures across several decades.
-
-Richard Evans Schultes first reported in 1939 that the Mazatec people of Oaxaca
-used hallucinogenic fungi, initially identifying them as belonging to
-Panaeolus. Rolf Singer (1949) later identified [[psilocybe-cubensis]] among
+  [[psilocybe-cubensis]] among
 the mushrooms used, though based on materials later determined to be
 misidentified. The French mycologist Roger Heim conducted extensive fieldwork in
 Mexico through the 1950s, identifying and cultivating many of the species used
@@ -92,23 +73,14 @@ integration across dozens of ethnic groups.
 
 Among the most significant species in indigenous practice:
 
-- [[psilocybe-mexicana]] — known as "pajaritos" (little birds) among the
-  Mazatec, this was one of the first species from which psilocybin was
-  isolated by Hofmann. It is a small, dung-inhabiting species that produces
-  sclerotia as a survival adaptation.
 - [[psilocybe-caerulescens]] — known as "derrumbes" (landslides) because it
   fruits abundantly after heavy rains on disturbed ground along trails and
   roadcuts. It grows to relatively large size and was extensively studied by
   Guzmán during his 1950s fieldwork.
-- [[psilocybe-zapotecorum]] — used by Zapotec and Mixtec peoples, often in
-  nocturnal ceremonies. Found in grassy areas and disturbed ground at moderate
-  elevations in southern Mexico.
 - [[psilocybe-cubensis]] — known as "san isidros" (after Saint Isidore, patron
   saint of agriculture), the most widely distributed psilocybin species
   globally and the most commonly cultivated. Grows on bovine dung in tropical
   and subtropical regions.
-- [[psilocybe-aztecorum]] — found at elevations up to 4,000 meters in the high
-  mountains of central Mexico, associated with Aztec cultural heritage.
 - [[psilocybe-muliercula]] — used with Cordyceps species in Trique
   ceremonies of Alta Mixteca, Oaxaca, with Elaphomyces as ceremonial
   "director."
@@ -141,9 +113,6 @@ culture" — hierarchical, patriarchal, and warlike social organizations that
 replaced earlier partnership-based societies. Drawing on Riane Eisler's
 ## See Also
 
-- [[ethnomycology-wasson-discovery-narrative]]
 - [[stropharia-cubensis-as-ur-plant]]
-
-- [[psilocybe-global-biogeography]]
 
 - [[stropharia-rugosoannulata]]

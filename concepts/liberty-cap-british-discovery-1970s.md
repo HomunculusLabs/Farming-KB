@@ -125,8 +125,6 @@ remarkable stories in the history of psychoactive plants.
 
 ## See Also
 
-- [[1799-liberty-cap-discovery]]
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
-- [[liberty-cap-rediscovery-in-britain]]
 - [[magic-mushroom-british-underground-1970s]]
 - [[lsd-discovery-and-history]]

@@ -14,14 +14,7 @@ sources:
 type: concept
 ---
 
-# King Oyster Mushroom ([[pleurotus-eryngii]]) Cultivation
-
-## Overview and Description
-
-Pleurotus eryngii is by far the best tasting Oyster mushroom, well
-deserving of the title King Oyster. Popular in Europe, this stout,
-thickly fleshed mushroom is one of the largest species in the genus.
-Preferring hardwoods, this mushroom is easy to grow. For a general guide to growing oyster mushrooms, see [[cotter-oyster-mushroom-cultivation]]. Although it grows
+# King Oyster Mushroom ([[cotter-oyster-mushroom-cultivation]]. Although it grows
 on cereal straws, yields are not as substantial as those of Pleurotus
 ostreatus and P. pulmonarius on the same material at the same rate of
 spawning, unless supplements are added or a unique spawning method is
@@ -91,25 +84,7 @@ Rye, wheat, sorghum, milo, or millet.
 ### Fruiting Substrates
 Most hardwoods, wheat straw, and cottonseed hulls support fruitings.
 Not as adaptive as P. pulmonarius and P. ostreatus to a broad range of
-substrates. See [[mushroom-nutrition-manure-fermentation]] for details on sawdust-based substrate preparation. Pleased results from recycled, re-sterilized waste Shiitake
-substrate. If cultivating on wheat straw, the addition of 5-10%
-cottonseed meal reportedly has the greatest effect in enhancing yield
-(Upadhyay and Vijay, 1991).
-
-### Containers
-Trays, plastic bags, columns, or bottles.
-
-## Growth Parameters
-
-### Spawn Run
-- Temperature: 75 degrees F (24 degrees C)
-- Relative Humidity: 90-95%
-- Duration: 12-16 days
-- CO2: 5000-20,000 ppm
-- Fresh Air Exchanges: 1 per hour
-- Light: not applicable
-
-For conditions that trigger fruiting, see [[mushroom-primordia-formation-triggers]].
+substrates. See [[mushroom-primordia-formation-triggers]].
 
 ### Primordia Formation
 - Temperature: 50-60 degrees F (10-15 degrees C)

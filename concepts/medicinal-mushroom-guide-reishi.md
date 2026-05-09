@@ -16,7 +16,7 @@ Reishi, known as Lingzhi in Chinese medicine and Mannentake in Japanese, is a po
 ## Key Compounds
 
 - **Triterpenes (ganoderic acids):** Bitter-tasting compounds responsible for liver protection, anti-inflammatory effects, and cholesterol reduction. Over 150 triterpenes have been identified.
-- **[[beta-glucans]] (polysaccharides):** Long-chain sugars that modulate immune function by activating macrophages, natural killer (NK) cells, and T-lymphocytes.
+- **Beta-glucans (polysaccharides):** Long-chain sugars that modulate immune function by activating macrophages, natural killer (NK) cells, and T-lymphocytes.
 - **Ganoderma lucidum peptide (GLP):** Potent antioxidant protein.
 - **Nucleosides and adenosine:** Cardiovascular support compounds.
 
@@ -94,9 +94,7 @@ Multiple Ganoderma species are sold as "reishi" commercially:
 - **G. lingzhi:** Recently differentiated from G. lucidum; the species most common in Chinese cultivation.
 - **G. sinense:** Used interchangeably in TCM; black-colored fruiting body.
 
-## Related
-
-- [[phellinus-pomaceus]] Topics
+## Related Topics
 
 - [[medicinal-mushroom-guide-lions-mane]] for cognitive mushroom comparisons
 - [[medicinal-mushroom-guide-turkey-tail]] for immune-focused alternatives

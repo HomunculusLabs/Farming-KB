@@ -104,30 +104,6 @@ where it will rot down. This is particularly useful for
 potatoes, which will not need earthing up when grown
 through plastic or paper mulch.
 
-## [[ground-cover-plants]]
-
-In ornamental borders, the most effective and attractive
-method of keeping weeds out is to provide competition in
-the form of plants that create a canopy over the soil.
-Ground cover plants shade the soil surface and prevent
-weed seeds from germinating by blocking light. This is
-a living mulch that also adds aesthetic value to the
-garden. Choose plants appropriate to your soil type and
-light conditions for best results.
-
-## Spent Mushroom Compost as Mulch
-
-Mushroom compost, a mixture of horse manure, peat, and
-chalk, is a useful if slightly alkaline mulch. Leave it
-for at least a year before use to leach out chemical
-insecticides and harbor pests. Apply sparingly around
-plants as it can scorch young shoots. Never use on
-acid-loving plants due to its chalk content. It is
-particularly good for heavy clay soils.
-
-## See Also
-
-- [[composting-organic-garden]]
-- [[green-manures-organic-gardening]]
+## [[composting-organic-garden]]
 - [[soil-health-management]]
 - [[organic-pest-disease-control]]

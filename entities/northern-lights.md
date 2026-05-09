@@ -120,7 +120,9 @@ Northern Lights has been used as a parent in an extraordinary number of successf
 
 ## Related
 
-- [[jack-herer]] — descendant strain incorporating Northern Lights genetics
 - [[white-widow-entity]] — contemporary classic often compared to Northern Lights in resin production
-- [[cannabis-indica]] — the species category for Northern Lights
 - [[cannabis-strain-selection-guide]] — comprehensive strain reference
+
+## See Also
+
+- [[cannabis-health-strains-sativa-indica]]

@@ -10,57 +10,7 @@ sources:
 
 # Chitting and Presprouting Techniques (Solomon)
 
-From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
-
-## What Is Chitting?
-
-"To chit" means either to presprout seeds or to green-up seed potatoes before planting. When you chit, you initiate sprouting under nearly ideal conditions so that germination failures become apparent before you commit to sowing. The seed is already growing when it is planted.
-
-One advantage of chitting: you won't sow dead or weak seed. Another: seedlings get a head start in growth, which is especially valuable in regions with shorter growing seasons.
-
-## Historical Development of Chitting
-
-The practice of chitting, also known as "chitting" in British English (derived from the Old English "cician," to sprout), has centuries of history in European agriculture. British gardeners have long chitted seed potatoes by setting them in egg cartons on windowsills in late winter — a practice so traditional it is considered standard procedure in the UK. The technique was developed to overcome the challenge of planting potatoes into cold, wet spring soils where direct planting would result in slow emergence or rotting of seed pieces.
-
-Solomon adapted and systematized the chitting technique for a wider range of garden crops, drawing on his decades of experience growing vegetables in the Pacific Northwest of the United States. His germination box method formalizes what resourceful gardeners had practiced informally — bringing the art of presprouting from anecdotal practice to a replicable technique with clear temperature, moisture, and timing parameters.
-
-## Chitting Beans and Peas
-
-It is especially helpful to chit beans and peas. Use the same germination box method used for indoor seedlings — a shallow container with a heat source beneath. Spread seeds on moist paper towels or in barely damp medium, cover to maintain humidity, and keep warm.
-
-As soon as the seeds barely show a root tip emerging, plant them into the ground. Handle carefully to avoid breaking the fragile new root. If chitted properly, beans and peas emerge much faster than direct-sown seed and with much higher stand establishment.
-
-**Temperature requirements for beans:** Most garden beans (Phaseolus vulgaris) germinate best at 25-30°C (77-86°F). Below 15°C (59°F), germination is very slow and erratic. Chitting at 25°C and then transplanting into cool spring soil gives the seed a head start it would not otherwise have.
-
-**Temperature requirements for peas:** Peas (Pisum sativum) are more cold-tolerant, germinating well at 15-20°C (59-68°F). Chitting is particularly valuable for early pea plantings in February or March when soil temperatures may be only 5-8°C. Presprouted peas planted into cold soil will continue growing, while direct-sown seed may sit dormant for weeks.
-
-## Chitting Potatoes
-
-About six weeks before planting, spread uncut seed potatoes on a tray in a brightly lit room that is not too warm. Place them in front of a window that gets no direct sunlight (to avoid drying out). By planting time the potatoes will have turned light green and shoots will be emerging from many eyes. On planting day, cut larger potatoes in chunks, ensuring each chunk contains two eyes that are actually sprouting.
-
-This green-sprouting process (also called "chitting" in British gardening terminology) produces seed pieces that are already growing when planted, resulting in faster emergence and earlier crop maturity. Green-sprouted potatoes also produce higher yields because the plant's energy is directed into tuber production rather than establishing a root system from a dormant seed piece.
-
-**Optimal chitting conditions for potatoes:** Light is essential — without adequate light, the sprouts become long, pale, and fragile ("etiolated"). Temperature should be cool: 10-15°C (50-59°F). Warm conditions above 18°C produce weak, spindly sprouts. The ideal sprout at planting time is stout, dark green or purple, and 1-3 cm long with visible leaf initials.
-
-## Chitting Corn
-
-Corn seed can be chitted on a kitchen counter. Presprout the seeds and plant them as soon as they barely show a root tip. This is particularly useful for the earliest possible plantings or when soil conditions are marginal.
-
-Corn requires soil temperatures above 10°C (50°F) for reliable germination, and germinates optimally at 20-30°C. Chitting at room temperature (20-22°C) and transplanting into cold soil allows the seed to begin growing immediately. Handle presprouted corn carefully — the large seed is easily damaged, and the emerging radical (first root) is the most fragile stage. Plant with the root pointing downward.
-
-## Chitting Carrots
-
-For difficult carrot germination, first chit the seeds on your kitchen counter. As soon as they barely sprout, plant three to four carrots per inch of furrow, about half an inch deep. This approach gives much more reliable stands than direct sowing, especially when conditions are less than ideal.
-
-Carrot seed is notoriously slow and uneven in germination, often taking 2-3 weeks even under good conditions. The seeds contain essential oils that can inhibit germination if not adequately leached by moisture. Presprouting solves both problems: the germination process has already begun, and the seeds have absorbed the initial water they need.
-
-**Temperature requirements for carrots:** Optimal germination at 20-25°C (68-77°F). Above 30°C, germination drops sharply — a significant problem for summer carrot plantings. Chitting at controlled room temperature and then planting avoids the high-soil-temperature problem entirely.
-
-## Chitting Beets
-
-It is better to chit beet seeds first, plant them into moist warm soil, and then provide appropriate care, rather than direct-sowing and hoping for the best. Beet "seeds" are actually seed clusters (glomerules) containing 2-6 individual seeds, each of which may germinate on a slightly different schedule. Chitting allows you to see which seeds in the cluster are viable before committing them to the garden.
-
-Beet germination is inhibited by temperatures above 25°C (77°F) and by uneven moisture. Chitting at 20°C and transplanting into well-prepared, consistently moist beds gives the most reliable stands. See [[solomon-growing-beans-and-peas]] for Solomon's detailed beet growing recommendations.
+From [[solomon-growing-beans-and-peas]] for Solomon's detailed beet growing recommendations.
 
 ## Chitting Other Crops
 
@@ -133,14 +83,7 @@ When properly executed, chitting typically achieves 85-95% successful stand esta
 
 ## Chitting vs. Direct Sowing
 
-Solomon emphasizes that chitting is not always the best approach. In warm climates with reliable growing seasons, direct sowing is simpler and often produces stronger plants because the roots are never disturbed. Chitting is primarily a tool for extending the season and managing risk. For [[solomon-complete-organic-fertilizer-guide]], the same principles apply but with more controlled conditions and the ability to provide supplemental light.
-
-## Related
-
-- [[solomon-garden-hoe-and-cultivation-techniques]]
-- [[solomon-seed-quality-and-germination-testing]]
+Solomon emphasizes that chitting is not always the best approach. In warm climates with reliable growing seasons, direct sowing is simpler and often produces stronger plants because the roots are never disturbed. Chitting is primarily a tool for extending the season and managing risk. For [[solomon-garden-hoe-and-cultivation-techniques]]
 - [[solomon-seed-storage-for-maximum-viability]]
-- [[solomon-seed-saving-fundamentals]]
 - [[solomon-complete-organic-fertilizer-guide]]
-- [[solomon-growing-beans-and-peas]]
 - [[solomon-growing-beans-and-peas]]

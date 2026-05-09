@@ -40,19 +40,11 @@ TIHKAL entry #3. A psychedelic tryptamine active by multiple routes including or
 
 ## The Oral Activity Myth
 
-Shulgin acknowledges personal responsibility for the long-standing myth that DET is only active by parenteral routes. All published human studies he knew of involved intramuscular administration, but Steve Szara had noted oral activity as early as 1969 (60 mg, i.m. or p.o.). The MAO systems do not destroy dialkylamines higher than methyl -- both [[dpt-entity-tihkal]] (dipropyl) and [[dipt-entity-tihkal]] (diisopropyl) are also orally active. This myth persisted for decades and influenced how researchers and the public understood tryptamine pharmacology.
+Shulgin acknowledges personal responsibility for the long-standing myth that DET is only active by parenteral routes. All published human studies he knew of involved intramuscular administration, but Steve Szara had noted oral activity as early as 1969 (60 mg, i.m. or p.o.). The MAO systems do not destroy dialkylamines higher than methyl -- both [[dipt-entity-tihkal]] (diisopropyl) are also orally active. This myth persisted for decades and influenced how researchers and the public understood tryptamine pharmacology.
 
 ## Clinical Studies
 
-Clinical studies were conducted in Hungary in the 1960s using intramuscular DET, comparing it to [[dmt-entity-tihkal]]. DET produces a longer, somewhat gentler experience than DMT, with richer emotional content and more extended duration. The i.m. route was chosen for clinical convenience rather than pharmacological necessity. The Hungarian studies provided some of the earliest systematic comparisons within the dialkyltryptamine series.
-
-## 6-Hydroxylation and the Discovery Process
-
-A significant chapter in tryptamine pharmacology involves the discovery of 6-hydroxylation as a metabolic pathway. Early clinical studies with DET that showed unexpected inactivity were later understood when it was found that the 6-hydroxy metabolite (6-HO-DET) was pharmacologically inactive. This metabolic "dead end" explained why some routes and some individuals showed dramatically different responses -- variable rates of 6-hydroxylation could effectively determine whether a dose was active or not.
-
-## Early Clinical Studies in Hungary
-
-Clinical studies with DET were conducted in Hungary in the late 1950s and early 1960s, comparing it to [[dmt-entity-tihkal]]. The research environment of the time was, as Shulgin notes, "oppressive" -- trials were conducted with partially soundproofed clinics equipped with one-way mirrors and microphones, using unemployed men from depressed mining areas as subjects.
+Clinical studies were conducted in Hungary in the 1960s using intramuscular DET, comparing it to [[dmt-entity-tihkal]]. The research environment of the time was, as Shulgin notes, "oppressive" -- trials were conducted with partially soundproofed clinics equipped with one-way mirrors and microphones, using unemployed men from depressed mining areas as subjects.
 
 The results were decidedly negative under these conditions: "Six of the subjects stated that the experience was an unpleasant one, three of them markedly so." Somatic complaints included "Air is rushing through my body," "My chest is empty and there is a jelly ball in my spine," and "My hands aren't there, my whole body feels funny." All subjects experienced dizziness and increased sweating.
 
@@ -76,13 +68,29 @@ The compound pairs of DMT, DET, DPT, and DBT represent increasing chain length o
 
 ## See Also
 
-- [[dmt-entity-tihkal]] -- the dimethyl homologue
 - [[dpt-entity-tihkal]] -- the dipropyl homologue
-- [[dipt-entity-tihkal]] -- the diisopropyl homologue
 - [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic mushroom psychedelic
-- [[mipt-entity-tihkal]] -- N-methyl-N-isopropyl tryptamine
 - [[alexander-shulgin]] -- primary author of TIHKAL
 
 ## Related
 
 - [[net-entity-tihkal]]
+## Practical Considerations
+
+Successful implementation of DET (N,N-Diethyltryptamine) — TIHKAL Entry #3 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

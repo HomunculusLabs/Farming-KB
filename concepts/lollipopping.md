@@ -81,42 +81,13 @@ He also notes that "removing a few lower branches will diminish the harvest the 
 
 Lollipopping pairs well with other training methods:
 
-- [[sea-of-green]]: in SOG setups, lollipopping removes lower growth that will never receive light due to dense packing
 - [[screen-of-green]]: SCROG naturally removes lower growth below the screen -- lollipopping extends this concept
-- [[low-stress-training]]: LST creates an even canopy where the lollipop line is more clearly defined
 - [[supercropping]]: combined with supercropping, the plant is shaped for maximum top cola production
-- [[topping-cannabis]]: topping creates more main colas at the top of the plant, making lollipopping more effective
-
-## Risks
-
-- Over-defoliation: removing too many leaves at once stresses the plant
-- Removing healthy leaves that contribute to photosynthesis can reduce overall growth
-- Pruning too close to flowering delays maturation
-- Open wounds from cuts can invite pathogens if tools are not sterilized
-
-## Best Practices
-
-- Sterilize pruning tools with rubbing alcohol between cuts
-- Remove no more than 20-30 percent of total foliage at one time
-- Make clean cuts at a 45-degree angle to discourage moisture pooling on wounds
-- Space lollipopping sessions at least one week apart
-- Monitor plants for signs of stress after defoliation
-- Work during the dark period or with minimal light stress
-- Dispose of removed material outside the grow area to prevent pest harborage
-
-## Lollipopping in Different Grow Styles
-
-### SOG Lollipopping
-
-In [[sea-of-green]] setups, plants are packed so tightly that the lower portions receive almost no light. Lollipopping is almost automatic -- the plant naturally abandons lower growth. Formal lollipopping in SOG focuses on cleaning up any remaining lower foliage before it becomes a pest or mold risk.
+- [[sea-of-green]] setups, plants are packed so tightly that the lower portions receive almost no light. Lollipopping is almost automatic -- the plant naturally abandons lower growth. Formal lollipopping in SOG focuses on cleaning up any remaining lower foliage before it becomes a pest or mold risk.
 
 ### SCROG Lollipopping
 
-In [[screen-of-green]] setups, lollipopping is performed on all growth below the screen level. Any branch or bud site that cannot reach the screen is removed. This is essentially the SCROG version of lollipopping and is considered standard practice.
-
-### LST Lollipopping
-
-When [[low-stress-training]] is used, the plant's profile is lowered and more bud sites are exposed to light. The lollipop line shifts downward, potentially preserving more of the plant. Lollipopping in LST setups focuses on removing only the lowest, most shaded material.
+In [[low-stress-training]] is used, the plant's profile is lowered and more bud sites are exposed to light. The lollipop line shifts downward, potentially preserving more of the plant. Lollipopping in LST setups focuses on removing only the lowest, most shaded material.
 
 ## Cervantes on Removing Healthy Leaves
 
@@ -140,10 +111,7 @@ After performing lollipopping, monitor plants for:
 
 ## See Also
 
-- [[defoliation-cannabis]] -- broader defoliation techniques for cannabis
 - [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
-- [[low-stress-training]] -- training methods that complement lollipopping
 - [[sea-of-green]] -- high-density growing where lollipopping is commonly used
-- [[screen-of-green]] -- screen training that naturally removes lower growth
 - [[cannabis-vegetative-stage]] -- timing for pre-flower lollipopping
 - [[cannabis-flowering-stage]] -- understanding flowering stages for lollipopping

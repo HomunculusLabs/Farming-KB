@@ -140,10 +140,6 @@ fungal infections. Additional pests include aphids (infesting young shoots and f
 potentially transmitting viral diseases), whiteflies (causing honeydew and sooty mold),
 ## See Also
 
-- [[pachyrhizus-tuberosus]]
-
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
-- [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
 - [[tihkal-receptor-binding-serotonin]]
-- [[tangerine-dream]]
 - [[blesching-cannabis-aging]]

@@ -79,7 +79,7 @@ illusion of causality. The government's approach exemplified the Western
 scientific pattern of identifying an apparent culprit (nematode), attacking
 it (chemical spraying), and creating new problems while failing to address
 the root cause (soil degradation from pollution). His research connected to
-the themes in [[fukuoka-pine-blight-matsutake-portent]] and [[fukuoka-pine-environment-collapse-japan]].
+the themes in [[fukuoka-pine-environment-collapse-japan]].
 
 ## The Matsutake as Ecological Barometer
 
@@ -94,15 +94,7 @@ insecticide application.
 
 This research validated Fukuoka's natural farming approach, which relies on
 maintaining healthy soil microbiology including mycorrhizal fungi. His citrus
-orchard, described in [[fukuoka-orchard-soil-restoration-barren-clay]], had
-been restored from degraded red clay subsoil by building soil biology rather
-than applying chemical inputs. The pine forest collapse demonstrated what
-happens when soil biology is disrupted at landscape scale.
-
-## See Also
-
-- [[fukuoka-pine-blight-matsutake-portent]]
+orchard, described in [[fukuoka-pine-blight-matsutake-portent]]
 - fukuoka pine rot ecosystem collapse
-- [[fukuoka-pine-environment-collapse-japan]]
 - [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]]
 - [[fukuoka-soil-microbiology]]

@@ -141,9 +141,10 @@ catch it, but 9 out of 10 will stay healthy.
 
 ## Related Topics
 
-- [[blesching-cannabis-viral-infections]] - General viral infection
-  coverage from the [[cannabis-health-index]]
-- [[blesching-cannabis-fever-temperature-regulation]] - Cannabis and
-  fever management
+- [[cannabis-health-index]]
 - [[blesching-cannabis-immune-system-modulation]] - Immune system
   support through cannabinoids
+
+## See Also
+
+- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]

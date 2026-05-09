@@ -118,7 +118,9 @@ can make it superficially resemble other small woodland mushrooms.
 
 ## See Also
 
-- [[laccaria-bicolor]] — two-toned deceiver, related mycorrhizal species
 - [[laccaria-laccata]] — the deceiver, close relative
-- [[agricultural-mycorrhizae]] — overview of mycorrhizal applications
 - [[pisolithus-tinctorius]] — another pioneer ectomycorrhizal fungus
+
+## See Also
+
+- [[mycorrhizal-edible-mushroom-species-overview]]

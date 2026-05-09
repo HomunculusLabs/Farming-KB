@@ -110,8 +110,6 @@ Metzner's analysis raises profound questions for the contemporary revival of psy
 - metzner brazilian ayahuasca churches santo daime udv barquinia
 - metzner psychedelic amplifier and microscope metaphors
 
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-shamanic-healing-divination-worldview]]
-- [[shamanic-trance-cross-cultural-patterns]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[ceremonial-shamanic-use-psychoactive-mushrooms]]

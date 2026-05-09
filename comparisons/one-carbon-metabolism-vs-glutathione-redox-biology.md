@@ -112,8 +112,6 @@ Together they form a central axis linking nutrition, metabolism, pharmacology, a
 
 ## Related Concepts
 
-- [[one-carbon-metabolism]]
 - [[glutathione-biochemistry-and-redox-biology]]
-- [[glutathione-conjugation]]
 - [[phase-ii-metabolism]]
 - [[enzyme-inhibition]]

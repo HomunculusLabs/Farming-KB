@@ -116,7 +116,5 @@ The seizure and offence data from this period illustrate several important drug 
 ## See Also
 
 - [[hallucinogenic-mushroom-legal-status-europe]]
-- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[hallucinogenic-mushroom-legal-loopholes-and-classification-challenges]]

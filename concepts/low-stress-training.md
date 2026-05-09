@@ -11,7 +11,7 @@ tags: [reference]
 
 # Low-Stress Training (LST)
 
-Low-Stress Training (LST) is a cannabis cultivation technique that involves bending and securing branches to create an even, flat canopy without cutting or damaging plant tissue. Cervantes describes bending as a training method that "alters the flow of hormones" and is "much easier on plants than pruning." LST is the foundation of many other training techniques including [[screen-of-green]] and [[main-lining]], and is considered the safest and most forgiving approach to canopy management.
+Low-Stress Training (LST) is a cannabis cultivation technique that involves bending and securing branches to create an even, flat canopy without cutting or damaging plant tissue. Cervantes describes bending as a training method that "alters the flow of hormones" and is "much easier on plants than pruning." LST is the foundation of many other training techniques including [[main-lining]], and is considered the safest and most forgiving approach to canopy management.
 
 ## Core Concept
 
@@ -81,11 +81,7 @@ The key difference from pruning is degree: "pruning affects the plant more drast
 
 ### SCROG
 
-LST is the primary technique used to fill a [[screen-of-green]] screen. Branches are bent and woven through the screen mesh to create an even canopy. Cervantes notes that "bending branches horizontally will encourage the buds to grow vertically towards the light."
-
-### Main-Lining
-
-[[main-lining]] uses LST extensively to position each trained branch into its designated quadrant. The combination of topping and systematic bending creates perfectly symmetrical plants.
+LST is the primary technique used to fill a [[main-lining]] uses LST extensively to position each trained branch into its designated quadrant. The combination of topping and systematic bending creates perfectly symmetrical plants.
 
 ### Combined with Pruning
 
@@ -115,15 +111,7 @@ Multiple tie points are used to pull branches in different directions simultaneo
 
 ### Combination with Topping
 
-LST is often combined with [[topping-cannabis]] for enhanced results. The main stem is topped first, creating two main branches. Each branch is then bent in opposite directions. This combines the branching increase from topping with the height control and even canopy of LST.
-
-### LST for Mother Plants
-
-Mother plants kept for clone production benefit from regular LST to maintain a wide, bushy shape. Cervantes notes that "continually pinching back, as when taking clones from a mother, causes many more little branches to form below the pruned tips. Eventually, the plant is transformed into a hedge-like shape." LST achieves a similar bushy form without the stress of repeated cutting.
-
-## LST and Root Development
-
-LST has an indirect benefit for root development. By keeping the plant shorter and wider, the above-ground biomass is more proportionate to the root system in a given container. A naturally tall plant may become top-heavy in a small pot, while an LST-trained plant maintains better balance. This is especially relevant in [[cannabis-root-bound-symptoms-and-management]] situations where the root system cannot support excessive vertical growth.
+LST is often combined with [[cannabis-root-bound-symptoms-and-management]] situations where the root system cannot support excessive vertical growth.
 
 ## LST in Confined Spaces
 
@@ -131,10 +119,7 @@ Cervantes specifically addresses growing in confined spaces like attics and base
 
 ## See Also
 
-- [[training-cannabis]] -- overview of all cannabis training methods
 - [[supercropping]] -- high-stress alternative involving tissue damage
-- [[screen-of-green]] -- SCROG uses LST to fill the screen
 - [[main-lining]] -- structured topping and LST for symmetrical plants
-- [[topping-cannabis]] -- combining topping with LST for maximum branching
 - [[cannabis-vegetative-stage]] -- timing vegetative growth for LST
 - [[cannabis-pruning-and-defoliation-guide]] -- pruning techniques to combine with LST

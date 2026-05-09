@@ -3,7 +3,7 @@ title: Lichenicolous Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Lichenicolous Fungi
@@ -112,11 +112,7 @@ Because of their host specificity, loss of a host lichen species may result in c
 
 ## See Also
 
-- [[lichenized-fungi-detailed]]
 - [[fungicolous-fungi]]
-- [[fungal-parasites-invertebrates]]
 - [[fungal-biopesticides]]
-- [[lichens]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-dead-wood-diversity]]
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]

@@ -8,9 +8,7 @@ type: concept
 tags: [cannabis, harvesting]
 ---
 
-# [[cannabis-harvesting-techniques]] and Processing
-
-From [[greg-green-sinsemilla-and-pollination]]'s *The [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapters 14 and 17.
+# [[greg-green-sinsemilla-and-pollination]]'s *The [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapters 14 and 17.
 
 ## When to Harvest
 
@@ -145,5 +143,4 @@ through screening processes (discussed in Chapter 17 of the source).
 - [ ] Bud shaken in jars every couple days
 ## See Also
 
-- [[cannabis-grow-harvesting-drying-curing]]
 - [[cannabis-harvest-and-curing]]

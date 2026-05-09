@@ -82,13 +82,8 @@ Natural psychedelics like psilocybin mushrooms have an excellent safety profile.
 
 ## Related
 
-- [[psilocybin-mushrooms-new-zealand-guide]] Topics
-
 - [[global-psychedelic-mushroom-species-diversity]]
-- [[european-psilocybin-species]]
 - [[saharan-rock-art-mushroom-cult]]
-- [[psychedelic-safety-guidelines-turner]]
 - [[lsd-molecule-of-perfection]]
-- [[mycophilia-mycophobia-european-mushroom-history]]
 - [[wasson-hofmann-psilocybin-connection]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]

@@ -21,41 +21,7 @@ The sawdust should be from hardwood species such as oak, maple, beech, alder, or
 
 Sawdust is soaked in water for at least twenty-four hours before use, then drained. The bran is thoroughly mixed into the hydrated sawdust. Proper moisture content is confirmed with a squeeze test: a firm squeeze of the substrate should yield a few drops of water between the fingers without dripping. The mixture is filled firmly into wide-mouth jars or grow bags, leaving adequate headspace.
 
-Because the bran supplement provides readily available nitrogen, this substrate must be sterilized rather than pasteurized. Standard sterilization is 60-90 minutes at 15 psi (250°F). For grow bags, autoclaving at 15 psi for 2 hours ensures complete penetration. Pasteurization is insufficient for supplemented sawdust substrates because competitor molds would rapidly colonize the nitrogen-rich bran before mushroom mycelium could establish dominance. See [[bulk-substrate-field-capacity]] for moisture management details.
-
-## Perlite-Based Spawn Substrate
-
-An alternative spawn medium uses perlite as a structural base rather than sawdust. The recipe consists of 120 milliliters water, 40 grams perlite, 50 grams wheat bran, 6 grams gypsum (calcium sulfate), and 1.5 grams calcium carbonate. The perlite is screened to remove fine powder and particulates, then mixed with dry ingredients. Water is added gradually until all components are thoroughly moistened. This substrate is sterilized for one hour at 15 psi and inoculated from agar media or liquid culture.
-
-The perlite-based substrate provides excellent aeration due to the porous structure of expanded perlite, while the bran supplies nutrition. This formula is particularly useful for species that do not grow well on traditional grain spawn or when a lighter, more airy substrate is desired.
-
-## Supplemented Block Recipes
-
-For high-yield commercial production, sawdust blocks are often further supplemented with additional nitrogen sources. Common supplements include wheat bran at 10-20% dry weight, soybean meal at 5-10%, or commercial mushroom supplements like bran-based formulations. Higher supplementation levels produce faster colonization and larger yields but also increase contamination risk, requiring more rigorous sterilization and sterile handling.
-
-Gypsum (calcium sulfate) is routinely added at 1-2% of dry weight to improve substrate structure, buffer pH, and provide calcium and sulfur. Some formulations include a small amount of calcium carbonate (1-2%) for additional pH buffering, particularly when using acidic sawdust or bran that may lower substrate pH below optimal levels.
-
-## Species-Specific Recipes
-
-Different wood-loving species have distinct substrate preferences:
-
-### Shiitake
-Shiitake grows best on a mix of hardwood sawdust (oak, beech, or maple) supplemented with 10-15% wheat bran and 1% gypsum. A 2:1 sawdust-to-wood chip ratio provides the structure shiitake prefers for forming tight, dense blocks. The traditional log cultivation method using oak or other hardwood logs remains popular for producing premium-quality shiitake with thick, meaty caps.
-Supplementation ratios above 15% can cause excessive CO2 production during
-incubation, leading to slowed colonization or abnormal fruiting. Shiitake
-responds well to a cold shock treatment (refrigeration at 2-5°C for 48-72
-hours) to stimulate fruiting initiation. The moisture content for shiitake
-substrate should be slightly lower than other species, around 55-60%, as
-shiitake is particularly sensitive to overly wet substrates that promote
-bacterial contamination. Some growers add a small amount (1-2%) of calcium
-carbonate to the oak-based mix to maintain pH near 6.0, since oak sawdust
-tends to be slightly acidic. Shiitake blocks typically require a longer
-incubation period of 60-90 days at 20-22°C before being ready for fruiting,
-and the dense block structure helps maintain adequate humidity at the
-fruiting surface during the extended flush cycle.
-
-### Oyster Mushrooms
-Oyster mushrooms are less selective than other wood-loving species and fruit readily on a wide range of substrates. A simple mix of hardwood sawdust with 15-20% wheat bran produces excellent results. Some growers supplement with coffee grounds (up to 25% of dry substrate weight) for additional nitrogen. [[oyster-mushroom-varieties]] species also grow well on straw, making them the most versatile cultivated mushrooms.
+Because the bran supplement provides readily available nitrogen, this substrate must be sterilized rather than pasteurized. Standard sterilization is 60-90 minutes at 15 psi (250°F). For grow bags, autoclaving at 15 psi for 2 hours ensures complete penetration. Pasteurization is insufficient for supplemented sawdust substrates because competitor molds would rapidly colonize the nitrogen-rich bran before mushroom mycelium could establish dominance. See [[oyster-mushroom-varieties]] species also grow well on straw, making them the most versatile cultivated mushrooms.
 Different Pleurotus species have distinct substrate preferences within the
 oyster group. Pleurotus ostreatus (pearl oyster) thrives on a broad range
 of hardwood substrates including oak, beech, and poplar. Pleurotus
@@ -122,14 +88,8 @@ Substrates that are too dry produce sparse mycelial growth and poor fruiting. Ov
 
 ## Related
 
-- [[mushroom-substrates]]
 - [[mushroom-substrate-recipes]]
-- [[mushroom-substrate-supplementation]]
 - [[bulk-substrate-preparation]]
-- [[log-cultivation-methods]]
 - [[synthetic-log-mushroom-cultivation]]
-- [[shiitake-cultivation-guide]]
 - [[oyster-mushroom-substrate-preparation]]
-- [[bulk-substrate-field-capacity]]
-
 - [[wood-decomposition-by-fungi]]

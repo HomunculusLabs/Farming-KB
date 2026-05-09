@@ -95,8 +95,6 @@ In the Philippines, fish emulsion is popular in organic agriculture. The natural
 
 ## See Also
 
-- [[knf-fermented-fruit-juice]]
 - [[natural-farming-lab-preparation]]
-- [[natural-farming-knf-overview]]
 - [[jadam-liquid-fertilizer-philosophy]]
 - [[calcium-phosphate-bionutrient]]

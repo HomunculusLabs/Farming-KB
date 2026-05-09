@@ -105,16 +105,11 @@ The fruit's extreme sourness makes it unsuitable as a standalone dessert fruit b
 
 ## See Also
 
-- [[terminalia-chebula]]
 - [[terminalia-bellirica]]
-- [[withania-somnifera]]
 - [[ocimum-sanctum]]
-- [[tinospora-cordifolia]]
-- [[curcuma-longa]]
+- tinospora-cordifolia
 - [[bacopa-monnieri]]
-- [[gymnema-sylvestre]]
 - [[phyllanthus-niruri]]
-- [[andrographis-paniculata]]
 - [[azadirachta-indica]]
-- [[tinospora-cordifolia]]
+- tinospora-cordifolia
 - [[picrorhiza-kurroa]]

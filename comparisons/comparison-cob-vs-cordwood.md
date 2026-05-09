@@ -20,23 +20,6 @@ wall system. Both are natural building methods suited to owner-builders.
 
 ### Cob Building
 
-[[cob-building]] creates walls by mixing clay-rich subsoil with sand and
-straw, then sculpting the wet material into thick monolithic walls. The
-straw provides tensile strength, the sand prevents cracking, and the clay
-binds everything together. Walls are built up in courses, each allowed to
-dry before the next is added. Finished cob walls are typically 18 to 24
-inches thick, providing massive thermal mass that absorbs heat during the
-day and releases it slowly at night.
-
-Cob excels in design freedom. Walls can be curved, sculpted, niched,
-benched, and shaped into organic forms impossible with conventional
-materials. The material cost is minimal when clay subsoil is available
-on-site. Cob buildings have survived for 500+ years in the UK, demonstrating
-remarkable durability when protected from prolonged moisture at the base
-with a good foundation and roof overhang.
-
-### Cordwood Construction
-
 [[cordwood-construction]] uses short log sections, typically 12 to 24
 inches long, laid crosswise in mortar beds to form walls. The log ends
 create a distinctive pattern on both interior and exterior surfaces. The
@@ -122,9 +105,6 @@ often incorporate elements of each.
 
 ## See Also
 
-- [[straw-bale-construction]]
 - [[adobe-construction]]
-- [[timber-frame-basics]]
 - [[reciprocal-roof-frame]]
-- [[cob-building]]
 - [[cordwood-construction]]

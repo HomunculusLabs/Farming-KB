@@ -90,7 +90,6 @@ and problem-structure hashing help maintain diversity.
 
 ## See Also
 
-- [[synthetic-log-cultivation-methods-guide]]
 - [[synthetic-log-cultivation-species-selection]]
 
 - [[synthetic-data-generation]]
@@ -98,3 +97,7 @@ and problem-structure hashing help maintain diversity.
 - distillation
 - curriculum learning
 - self play
+
+## See Also
+
+- [[synthetic-log-mushroom-cultivation]]

@@ -46,76 +46,64 @@ For non-clay gardens:
 - Half-fill a 5-gallon bucket with ordinary garden soil
 - Blend in about 1.5 gallons of well-rotted manure or well-ripened compost
 - If no compost is available, use sphagnum moss
-- Add exactly one cup (250ml) of [[solomon-complete-organic-fertilizer-guide]] per 3-4 gallons of mix
-
-For clay gardens:
-- Mix equal volumes of clay soil and crumbled sphagnum moss
-- Adding manure or compost to clay makes it too rich and heavy for seedlings
-- Sphagnum moss contains almost no plant nutrients and doesn't decompose rapidly
-- Creates an airy, loose mix that stays loose for months
-
-Key insight: Using your own garden soil means seedlings are already adapted to your conditions. Seeds that thrive in your soil from the start will likely continue thriving to harvest.
-
-## Containers
-
-Seedling pots should hold a bit more than half a pint (250ml) of soil. Options:
-
-- **Plastic pots** (leftover from prior purchases)
-- **Newspaper pots**: Rolled from 3-inch-wide strips into squat cylinders, held with rubber bands
-- The newspaper pot is especially useful because the entire pot can be planted without disturbing roots
-
-For fast-growing cucurbits (no more than one week indoors), use 3-inch newspaper pots.
-
-## Sowing Procedure
-
-1. Fill pots with moist seedling mix to within half an inch of the top
-2. Press the soil down firmly but not hard — you want air spaces but good seed-to-soil contact
-3. Make a small hole with a pencil, drop in seeds, flick loose soil to cover (nothing weighty)
-4. Slip a clear plastic bag over the pot and twist closed
-5. Place in the germination cabinet
-
-The baggie technique: Inside a nearly airtight bag, almost no moisture is lost. The soil stays at perfect moisture content for germination. No watering needed until seeds emerge.
-
-## Timing
-
-- Start tomatoes about 6 weeks before transplanting
-- Start peppers and eggplants after tomatoes are up and growing
-- Start cucurbits 1-2 weeks before transplanting (they grow fast)
-
-Schedule: Tomatoes first, then peppers and eggplants, then consider cucurbits. This staggers the work and matches each crop's growth rate.
-
-## After Germination
-
-Once seedlings emerge:
-- Remove plastic bags
-- Move to brightest, sunniest window available
-- Begin watering as needed
-- Strong, vigorous seedlings should appear within 4 days
-- Seeds emerging after longer periods are weaker — thin them out
-
-Thinning: When seedlings have fully opened seed leaves, thin to the strongest per pot using scissors. Thin again when true leaves appear. Final thinning to one seedling per pot.
-
-## Fertilizing Seedlings
-
-From sowing until the first true leaf forms, the mix should provide only minimal NPK but plenty of calcium (essential nutrient that can't be easily added via liquid fertilizer later).
-
-After one true leaf develops and seedlings can resist fungal diseases, begin liquid feeding:
-- Organic liquid fertilizers are typically deficient in phosphorus
-- A fish emulsion with phosphoric acid added is effective (despite not meeting strict organic certification)
-- Feed every 1-2 weeks at half the recommended strength
-
-## The Problem with Bought Seedlings
-
-Solomon is strongly critical of commercial seedlings:
-
-- **Pot-bound roots**: Nurseries keep seedlings too long to maximize shelf life. A root-bound seedling will struggle after transplanting.
-- **Soft growth**: Grown at high temperatures (especially at night) without wind exposure, producing lush but weak-stemmed plants with water-filled cells. These plants are shocked by outdoor conditions.
-- **Variety selection**: Nurseries choose varieties that look good at 4 weeks old, not varieties that produce well in the home garden.
-- **No hardening off**: Moving directly from greenhouse conditions to the garden causes severe shock — cold, wind, unfiltered sun, and disease all hit simultaneously.
-
-The hardened seedling (smaller, wirier, with thickened stems) will outperform the lush nursery seedling within two weeks of transplanting.
-
-See also: [[seed-starting-indoors]], [[solomon-seed-starting-transplanting]], [[seed-starting-reference]], [[transplanting-techniques-solomon]]
-- [[solomon-potting-mix-and-seedling-soil-recipe]]
-- [[gaias-garden-cover-crops-soil-building]]
+- Add exactly one cup (250ml) of [[seed-starting-indoors]], [[seed-starting-reference]], [[solomon-potting-mix-and-seedling-soil-recipe]]
 - [[solomon-gardening-when-it-counts-index]]
+## Practical Considerations
+
+When working with Seed Starting Indoors (Solomon), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

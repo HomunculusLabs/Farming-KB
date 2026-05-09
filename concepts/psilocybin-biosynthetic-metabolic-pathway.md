@@ -1,7 +1,7 @@
 ---
 title: "Psilocybin Biosynthetic Metabolic Pathway"
 created: 2026-04-28
-tags: [mycology, biochemistry, biosynthesis, psilocybin, metabolism]
+tags: [[mycology, biochemistry, biosynthesis, psilocybin, metabolism]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md]
@@ -127,8 +127,6 @@ both natural cultivation optimization and potential biotechnological
 applications such as heterologous production in microbial systems.
 ## Related Topics
 
-- [[gartz-tryptamine-supplemented-cubensis-cultivation]]
 - [[oss-oeric-dosage-guidelines-and-potency]]
-- [[oss-oeric-psilocybe-cubensis-strain-guide]]
 - [[oss-oeric-growing-parameters-cubensis]]
 - [[light-basidiocarp-initiation-psilocybe-cubensis-research]]

@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Terrarium Design and Humidity Control"
 created: 2026-04-28
-tags: [mycology, cultivation, fruiting-chamber, humidity, oss-oeric]
+tags: [[mycology, cultivation, fruiting-chamber, humidity, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -101,20 +101,9 @@ exchange while maintaining humidity.
 
 ## Related
 
-- [[pf-tek-low-humidity-symptoms-and-remediation]] Topics
-
-- oss oeric terrarium design and humidity for casing soils
 - [[oss-oeric-growing-parameters-cubensis]] for temperature ranges
-- [[oss-oeric-contamination-troubleshooting]] for humidity issues
 - [[oss-oeric-harvesting-and-crop-management]]
-- [[oss-oeric-equipment-and-materials-list]] for supplies
-
-## Modern Terrarium Design Evolution
-
-The basic principles established by Oss & Oeric have been refined
-by subsequent cultivators. The key insight from the original design
-is that a simple, enclosed, humidified container is sufficient for
-fruiting [[psilocybe-cubensis]]. Modern designs have improved on this
+- [[psilocybe-cubensis]]. Modern designs have improved on this
 with features such as:
 
 **Automated Humidification:** Ultrasonic humidifiers connected to

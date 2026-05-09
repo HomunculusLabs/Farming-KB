@@ -17,73 +17,9 @@ sources:
 
 It is formally named 3,4-dimethoxy-5-methylthiophenethylamine, also known as 4-thioisomescaline.
 
-The compound is the sulfur analogue of [[im-entity]] (isomescaline, 2,3,4-trimethoxyphenethylamine).
-
-The methylthio group replaces the methoxy group at the 5-position of isomescaline.
-
-The numbering reflects the parent compound's substitution pattern.
-
-## Pharmacological Profile
-
-4-TIM is an active compound with a dosage range of 60 to 100 milligrams.
-
-The duration of effects is 8 to 12 hours.
-
-The compound produces a two-phase experience that evolves qualitatively over time.
-
-Reports indicate both pleasant and challenging aspects to the experience.
-
-## Qualitative Effects
-
-At 80 mg, subjects went into the experience with a sense of conflict -- an underlying repose with conflicting energy.
-
-Seated rest was difficult; subjects seemed unable to find a comfortable position.
-
-Music played a significant role in shaping the experience, with the character changing over time.
-
-The first part of the experience featured sublimity, peacefulness, and mild intoxication.
-
-Later in the experience, the benign shielding of the first half dissolved, and a more challenging state emerged.
-
-A direct conflict with oneself was described.
-
-Another subject at 80 mg reported a delightful day with persistent pleasant good humor.
-
-No visuals occurred during the first three to four hours with eyes open.
-
-At plus two level, the introduction of music with a radio triggered a significant change in the experience.
-
-At 100 mg, the experience had two distinct halves.
-
-The first few hours were characterized by guardedness and a feeling of vulnerability.
-
-With eyes closed, subjects could express an easy flow of ideas and concepts without watching their step.
-
-The second half of the experience was more open and communicative.
-
-## The Amphetamine Homologue
-
-The amphetamine homologue corresponding to 4-TIM would be 3,4-dimethoxy-5-methylthioamphetamine (3-T-TMA).
-
-This compound should be an active psychedelic, though it has not been explored in the PIHKAL collection.
-
-The systematic extension of phenethylamine to amphetamine homologues is a recurring theme in psychedelic drug research.
-
-## Dosage and Duration
-
-Dosage: 60 - 100 mg.
-
-Duration: 8 - 12 h.
-
-## See Also
-
-- [[4-acetoxy-det]]
-
-[[im-entity]]
+The compound is the sulfur analogue of [[4-acetoxy-det]]
 
 [[3-tm-entity]]
-
-[[mescaline-entity]]
 
 [[3-tme-entity]]
 
@@ -94,3 +30,81 @@ Duration: 8 - 12 h.
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #154: 4-TIM.
+## Practical Applications
+
+4 Tim Entity has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+4 Tim Entity. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

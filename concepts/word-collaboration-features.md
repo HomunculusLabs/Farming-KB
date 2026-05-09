@@ -77,16 +77,10 @@ work from their preferred device.
 
 ## See Also
 
-- [[word-automation-and-macros]]
 - [[water-garden-features]]
-- [[word-document-formats]]
 - [[allegro-word-play-and-secret-names-in-scripture]]
-- [[growing-gourmet-strain-evaluation-28-features]]
-
 - [[wasson-hofmann-ruck-collaboration]]
-- [[word-ribbon-interface]]
 - [[microsoft-word-document-format]]
-- [[microsoft-word]]
 - [[microsoft-word-document-format-history]]
 
 - [[microsoft-word-history]]

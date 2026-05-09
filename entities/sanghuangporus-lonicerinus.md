@@ -92,11 +92,7 @@ The genus is closely related to Phellinus sensu stricto and Inonotus, with which
 
 ## See Also
 
-- [[sanghuangporus-baumii]]
 - [[sanghuangporus-vaninii]]
-- [[ganoderma-lucidum]]
 - [[poria-cocos]]
-- [[phellinus-igniarius-entity]]
-- [[trametes-versicolor]]
-- [[inonotus-obliquus]]
-- [[laetiporus-sulphureus-permaculture]]
+- [[trametes-versicolor-entity]]
+- [[laetiporus-sulphureus]]

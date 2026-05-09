@@ -21,29 +21,12 @@ the local deficiencies in soils can be overcome by seed pelleting.
 In *Permaculture: A Designers' Manual*, Bill Mollison describes this
 technique as a process of embedding seed in a capsule of substances
 that give it a good chance of establishment despite soil deficiencies
-in local sites or microsites. This practice supports [[permaculture-designers-manual-pioneer-species]] and
-[[mollison-soil-improvement-and-rehabilitation]].
+in local sites or microsites. This practice supports [[mollison-soil-improvement-and-rehabilitation]].
 
 ## Seed Pretreatment
 
 The first step in seed pelleting is pretreatment. If seeds have thick
-coats, or need heat or cold treatment or [[mollison-designers-seed-dormancy-and-germination-treatments]] to break dormancy, they must
-be treated before pelleting. This may include:
-
-- Scarification by mechanical nicking, filing, or acid treatment
-- Heat treatment for hard-seeded legumes (oven at 95 degrees C,
-  near-boiling water, or light straw fire)
-- Cold stratification for temperate tree and berry seeds
-- Soaking to initiate the germination process
-
-Pretreatment ensures that the seed is physiologically ready to
-germinate once the pellet absorbs water in the field.
-
-## Inoculation
-
-For legume seed, the next critical step is inoculation with their
-appropriate microbial or fungal spores. This is essential for
-effective [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]. The process is:
+coats, or need heat or cold treatment or [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]. The process is:
 
 1. Purchase the correct inoculant strain for the legume species.
    Most agricultural departments can supply lists of strains of
@@ -95,52 +78,19 @@ nutrient transfer to the plant.
 This method is particularly valuable for direct seeding on
 rehabilitation sites, road embankments, mine spoils, and degraded
 grasslands where seedling establishment is otherwise difficult. It
-eliminates the need for [[mollison-plant-nursery-species-selection]] in many situations.
-
-## Fukuoka's Clay Ball Method
-
-Masanobu Fukuoka achieves a similar result by pressing seed-clay
-mixes of grains through a coarse sieve onto a dust-filled pan which
-is shaken to round off the pellets. This low-tech approach is
-accessible to anyone and does not require specialised equipment.
-Fukuoka's method has been widely adopted in natural farming and
-permaculture circles.
-
-## Connection to Seed Pelleting Equipment
-
-The same vibrating table used to pellet seed serves, when fitted
-with screens, to clean and sort seed from the soil below trees or
-from seed and husk mixtures. The mincer can be returned to the
-kitchen after use. This multi-purpose approach is characteristic
-of permaculture design philosophy.
-
-## Integration with Permaculture Systems
-
-Seed pelleting supports several permaculture strategies:
-- Direct seeding of [[permaculture-designers-manual-pioneer-species]] on degraded land
-- Large-scale [[mollison-savannah-forestry-and-land-rehabilitation]]
-- Establishment of [[mollison-green-manure-soil-fertility]] crops
-- [[mollison-soil-erosion-control]] on steep or disturbed sites
-- Building [[mollison-seed-resources-and-sovereignty]] through
+eliminates the need for [[permaculture-designers-manual-pioneer-species]] on degraded land
+- Large-scale [[mollison-green-manure-soil-fertility]] crops
+- [[mollison-seed-resources-and-sovereignty]] through
   local seed processing capacity
 
 ## See Also
 
-- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] - mycorrhizal
-  inoculation methods for seedling establishment
 - [[stump-inoculation-techniques]] - inoculation of woody
   substrates with fungal partners
-- [[truffle-inoculated-seedlings]] - inoculated seedling
-  production for outplanting
 - [[vegetable-seed-and-transplant-guide]] - seed selection and
   transplant timing guidance
-- [[ultra-low-cost-seed-saving]] - low-cost seed saving
-  methods for local sovereignty
-
-[[teaming-with-fungi-mycorrhizal-inoculation-techniques]] complements
-the inoculation step described above. [[mollison-savannah-forestry-and-land-rehabilitation]]
-describes the large-scale context where pelleted seed is most valuable.
-See also [[mollison-green-manure-soil-fertility]] for green manure
+- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] complements
+the inoculation step described above. [[mollison-green-manure-soil-fertility]] for green manure
 crops that can be established via pelleted seed.
 [[mollison-plant-nursery-species-selection]] covers species that
 benefit from the pelleting approach described here.

@@ -10,10 +10,9 @@ type: concept
 
 Enzymes are the molecular tools that soil microorganisms use to break down
 organic matter, and they play a central role in the decomposition processes
-described throughout *Teaming With Microbes*. Both [[lowenfels-bacteria-role-soil]] and [[lowenfels-fungi-role-soil]] produce enzymes to
+described throughout *Teaming With Microbes*. Both [[lowenfels-fungi-role-soil]] produce enzymes to
 dismantle complex organic compounds into simpler molecules they can absorb.
 Understanding these enzymes is key to understanding how the
-[[lowenfels-earthworms-soil-food-web]] recycles nutrients and builds
 [[lowenfels-humus-formation-benefits]].
 
 ## How Bacterial Enzymes Work
@@ -33,20 +32,7 @@ in a hit-and-miss fashion.
 Cellulose is a complex carbohydrate made of long chains of carbon-based glucose,
 and it constitutes half the mass of plant bodies. Breaking down cellulose is one
 of the most important decomposition tasks in soil.
-[[lowenfels-bacteria-role-soil]] are particularly adept at
-depolymerization of cellulose, breaking straight chains into smaller glucose
-chains. Actinomycetes, the chain-like bacteria that resemble fungal hyphae, are
-especially skilled at decaying cellulose along with chitin, two
-difficult-to-digest brown carbon compounds. These are not normal foods of most
-other bacteria, giving actinomycetes a unique niche in the decomposition
-process.
-
-## Lignin and Fungal Enzymes
-
-Lignin is the tough brown component of barks and woody materials, a much more
-complex organic molecule than cellulose, made of chains of interlinked alcohols.
-Most bacteria cannot break down lignin because it is resistant to their enzymes.
-This is where [[lowenfels-fungi-role-soil]] excel: they produce phenol
+[[lowenfels-fungi-role-soil]] excel: they produce phenol
 oxidase, a strong enzyme that dissolves even lignin. Fungi are the primary decay
 agents for the most recalcitrant carbon compounds in the soil food web. Their
 enzymes allow them to penetrate not only lignin and cellulose in plants but also
@@ -70,19 +56,7 @@ ground than bacteria.
 
 Microbes need nitrogen to produce the enzymes used in decomposition and to build
 proteins, including amino acids necessary for their structure.  This is why
-nitrogen is critical in [[lowenfels-composting-science-microbiology]]: without adequate nitrogen, microbes cannot
-manufacture the enzymes required to break down carbon compounds. The
-carbon-to-nitrogen ratio in organic matter directly affects the rate of
-enzymatic decomposition. When nitrogen is limited, enzyme production slows and
-decomposition stalls. This is why green, nitrogen-rich materials speed up
-composting while brown, carbon-heavy materials slow it down.
-
-## Temperature Effects on Enzyme Activity
-
-Enzyme activity in soil is strongly influenced by temperature. Both bacterial
-and fungal enzymes work faster in warm conditions, which is why decomposition
-proceeds rapidly in summer and slowly in winter.
-[[lowenfels-composting-science-microbiology]] takes advantage of this
+nitrogen is critical in [[lowenfels-composting-science-microbiology]] takes advantage of this
 principle: as microbial metabolic activity generates heat, enzyme activity
 accelerates, creating a positive feedback loop that drives the thermophilic
 stage. However, extremely high temperatures can denature enzymes, which is why

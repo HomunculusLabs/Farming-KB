@@ -140,8 +140,6 @@ for sustainable agriculture.
 
 ## See Also
 
-- [[trichoderma-viride]]
 - [[penicillium-chrysogenum]]
-- [[botrytis-cinerea]]
 - [[fusarium-verticillioides]]
 - [[sclerotinia-sclerotiorum]]

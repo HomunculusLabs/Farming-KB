@@ -9,60 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria and the Ancient Wine Question
 
-One of the most provocative arguments in "Amanita Muscaria: Herb of Immortality" concerns the nature of ancient wine. The author proposes that some or all ancient wines -- particularly those used in sacramental contexts -- were not alcoholic beverages but rather water-based extracts of [[amanita-muscaria-drying-and-preparation]] mushroom. This theory addresses a long-standing puzzle: why was ancient wine always diluted with water before drinking?
-
-## The Puzzle of Ancient Wine Dilution
-
-### Universally Diluted
-
-Across the ancient Mediterranean world, wine was always diluted with water before consumption. The standard ratios were:
-
-- **Greek practice:** 2:1 to 3:1 water-to-wine
-- **Roman practice:** 2:1 to 4:1 water-to-wine
-- **Ancient Near East:** Up to 20:1 water-to-wine
-
-Drinking undiluted wine was considered barbaric, and in some Greek traditions, undiluted wine was reserved for the gods. The Roman word for diluted wine was "merum" (mixed), while undiluted wine was "merum" in the opposite sense.
-
-### The Problem
-
-For alcoholic wine, these dilution ratios are nonsensical:
-
-- A 2:1 water-to-wine ratio would produce a beverage of only 4-5% alcohol -- barely intoxicating
-- A 20:1 ratio would produce something essentially non-alcoholic
-- There is no practical reason why alcoholic wine MUST be diluted
-- The universal, cross-cultural insistence on dilution suggests a different kind of beverage
-
-### The Solution: Water-Soluble Psychoactive Extract
-
-The [[amanita-muscaria-ambrosia-preparation]] of [[amanita-muscaria-drying-and-preparation]] -- a cold-water extract of dried mushroom -- behaves exactly opposite to alcoholic wine regarding dilution:
-
-- **Gets MORE potent when diluted** (up to a point)
-- When properly diluted, it slakes thirst (unlike alcoholic wine, which causes thirst)
-- If not diluted enough, it dries the mouth within minutes
-- The sweet taste of ambrosia would be enhanced by dilution
-
-This paradoxical behavior -- more dilution equals more effect -- perfectly explains why ancient wine was always diluted.
-
-## The Sacred Wine Preparation
-
-### Method
-
-1. Use approximately 1 oz (28 grams) of dried Amanita muscaria per quart of grape juice
-2. Soak for 8-12 hours
-3. Strain and press the mushroom pieces to recover more juice
-4. A few drops of vinegar added per cup at the start seems to make it more potent
-
-### The Dilution Property
-
-The most remarkable property of this preparation: it gets more potent from being diluted with water. For best results, dilute 2-4 cups water per cup of wine before drinking.
-
-When properly diluted, the wine slakes thirst. If not diluted enough, it produces a dry mouth within minutes. This is the exact opposite of alcoholic wine, which always produces thirst regardless of dilution.
-
-### Connection to the Eucharist
-
-In the Christian Eucharist, wine represents the "blood of Christ." If this wine was actually an Amanita muscaria grape juice extract, then the Eucharist was literally:
-
-- **Bread** = Mushroom body ([[amanita-muscaria-eucharist-wafer-preparation]])
+One of the most provocative arguments in "Amanita Muscaria: Herb of Immortality" concerns the nature of ancient wine. The author proposes that some or all ancient wines -- particularly those used in sacramental contexts -- were not alcoholic beverages but rather water-based extracts of [[amanita-muscaria-ambrosia-preparation]] of [[amanita-muscaria-eucharist-wafer-preparation]])
 - **Wine** = Mushroom blood (grape juice extract diluted with water)
 
 The Last Supper becomes a mushroom Eucharist ceremony.
@@ -105,19 +52,7 @@ Water in the ancient world was often contaminated. Mixing wine (with its antisep
 
 - This does not explain why the ratios were so specific and culturally regulated
 - It does not explain why undiluted wine was considered barbaric
-- Amanita muscaria extract also has antibiotic properties (see [[amanita-muscaria-pharmacology-dosing-guide]])
-
-### Social Control Theory
-
-Dilution prevented intoxication and maintained social order at banquets. However:
-
-- The Greeks and Romans were not typically opposed to intoxication
-- Many symposia and convivia ended in drunkenness despite the initial dilution
-- The theory cannot explain the sacramental/religious contexts where dilution was equally mandatory
-
-## The Yeast Connection
-
-The foods used for [[amanita-muscaria-resurrection-experiments]] (grape juice, boiled barley water, honey water) are identical to the food source liquids used for yeast cultivation, yielding wine, beer, and mead respectively. This raises a provocative possibility: were the discoverers of fermentation using Amanita muscaria extract as their template?
+- Amanita muscaria extract also has antibiotic properties (see [[amanita-muscaria-resurrection-experiments]] (grape juice, boiled barley water, honey water) are identical to the food source liquids used for yeast cultivation, yielding wine, beer, and mead respectively. This raises a provocative possibility: were the discoverers of fermentation using Amanita muscaria extract as their template?
 
 The sequence might have been:
 
@@ -137,11 +72,26 @@ If the theory is correct, it would mean:
 
 ## See Also
 
-- [[amanita-muscaria-ambrosia-preparation]] -- Cold water extraction
 - [[amanita-muscaria-ambrosia-preparation]] -- Grape juice method
-- [[amanita-muscaria-eucharist-wafer-preparation]] -- The bread component
 - [[amanita-muscaria-drying-and-preparation]] -- Pre-processing
-- [[amanita-muscaria-resurrection-experiments]] -- Fungal regrowth
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] -- Vedic evidence
-- [[amanita-muscaria-holy-grail-theory-detailed]] -- Related symbolism
 - [[amanita-muscaria-sacramental-wine-preparation]]
+## Practical Considerations
+
+Successful implementation of Amanita Muscaria Ancient Wine Question requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

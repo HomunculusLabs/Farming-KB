@@ -1,7 +1,7 @@
 ---
 title: Appropriate Technology in Permaculture
 created: 2026-04-28
-tags: [permaculture, appropriate-technology, sustainability, design, DIY]
+tags: [[permaculture, appropriate-technology, sustainability, design, DIY]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -9,15 +9,7 @@ sources:
 type: concept
 ---
 
-# [[appropriate-technology]] in Permaculture
-
-Appropriate Technology (AT) is a paradigm for creating technological
-solutions that align with the goals and principles of sustainability.
-While permaculture seeks to reduce humanity's environmental impact,
-modern high technology tends to increase that impact through resource
-consumption, pollution, expense, and dependency on outside agents for
-maintenance, repair, or upgrades. Appropriate Technology offers an
-alternative approach that fits within the [[permaculture-design]] framework.
+# [[permaculture-design]] framework.
 
 ## What is Appropriate Technology?
 
@@ -75,55 +67,25 @@ Popular appropriate technology solutions include:
 - **Pedal Power**: Blenders, sewing machines, washing machines
 - **Cooking Systems**: Rocket stoves, cob ovens, hayboxes
 - **Water Systems**: Play pumps (water pumps powered by playground
-  equipment), [[permaculture-designers-manual-greywater-systems]], Eco-Machines, sand filters
+  equipment), [[graywater-systems]], Eco-Machines, sand filters
 - **Composting**: Sun-Frost Scrap Eater, Green Cone systems
-- **Food Production**: DIY hydroponics, [[aquaponics]], 55-gallon drum
-  gardening systems
-- **Energy**: Wind turbines from salvaged alternators, solar water
-  heaters, earthtubes for passive heating/cooling
+- **Food Production**: DIY hydroponics, [[pdc-appropriate-technology-philosophy]]
+## Practical Considerations
 
-## Applications Across Design Needs
+Successful implementation of Appropriate Technology in Permaculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-Appropriate Technology solutions exist for a vast array of goals
-including building construction, environmental maintenance, cooking,
-energy production, food preparation, food production, lighting,
-refrigeration, transportation, ventilation, air conditioning, and
-water supply and treatment.
+## Future Directions
 
-## AT in the Developed World
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-Appropriate Technology is often discussed only in the context of the
-developing world, but it is arguably most appropriate for developed
-nations, which are the primary cause of ecological destruction. Pedal
-power combined with low-energy electronics could reduce pollution while
-improving public health. Gym treadmills could feed into the power grid.
-Playgrounds could capture child-produced energy. Modern homes could
-integrate greywater systems, eco-machines, and solar cookers.
-
-## The Efficiency Question
-
-A DIY wind generator may not match factory-made units in raw
-efficiency. However, holistic efficiency must account for embodied
-energy, shipping costs, and repair dependency. A $50 afternoon project
-using salvaged materials may outperform a $5000 unit that requires
-continental shipping and expensive repairs.
-
-## Learning Approach
-
-Since AT is not a specific list of gadgets, there is no single manual.
-The question is not "what types of AT exist" but rather: what needs to
-be done, what resources are on hand, and what can be built from them?
-The designer should understand basic mechanics, passive solar, wind
-principles, and have mechanical skills comparable to bicycle repair.
-
-## Key Principles
-
-- Empower people to design their own solutions for unique situations
-- Understanding underlying principles matters more than specific devices
-- Local materials and ecological energy sources take priority
-- The goal is self-reliance, not self-sufficiency
-- Use and value diversity in technological approaches
-
-## See Also
-
-- [[pdc-appropriate-technology-philosophy]]

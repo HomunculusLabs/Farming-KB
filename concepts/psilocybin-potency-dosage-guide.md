@@ -76,12 +76,9 @@ Baeocystin, norbaeocystin, and aeruginascin are closely related to psilocin and 
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution-worldwide]]
 - [[psilocybin-mushroom-lookalikes]]
-- [[psilocybin-mushroom-habitats-ecology]]
 - [[psilocybe-azurescens-profile]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]
 
 ## Safety and Identification
 
@@ -112,5 +109,4 @@ including leaving adequate specimens for spore dispersal and avoiding
 disturbance of sensitive habitats, help protect fungal biodiversity. Citizen
 science efforts to document fungal distributions contribute valuable data for
 conservation planning and monitoring.
-- [[gartz-magic-mushrooms-global-distribution-patterns]]
 - [[mycorrhizal-edible-mushroom-species-overview]]

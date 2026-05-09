@@ -118,13 +118,8 @@ often unknowingly reverting to age-old practices of primitive societies.
 
 ## Related
 
-- [[areca-catechu]] Concepts
-
 - [[amanita-muscaria-cultural-history]]
-- [[ayahuasca-preparation-methods]]
 - [[aztec-entheogens]]
-- [[psilocybin-clinical-research-history]]
 - [[soma-haoma-hypothesis]]
-- [[teonanacatl-history]]
 - [[wasson-rediscovery-of-psilocybin]]
 - [[syrian-rue-peganum-harmala-ethnobotany]]

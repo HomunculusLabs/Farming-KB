@@ -133,14 +133,10 @@ nitrogen source for the compost pile. Oak leaves are abundant in many
 landscapes, and their collection serves the dual purpose of autumn
 lawn maintenance and soil fertility building. The resulting compost
 provides a slow-release source of calcium along with a full spectrum of
-other plant nutrients and beneficial microorganisms.
 ## See Also
-
-- [[using-accumulators-in-compost-and-mulch]]
 
 - [[phosphate-and-potassium-accumulators]]
 
-- [[cho-water-soluble-calcium-and-potassium]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
 - [[jadam-nutrient-management-wetting-agent-and-calcium]]
 

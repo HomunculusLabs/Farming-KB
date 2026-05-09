@@ -131,8 +131,6 @@ the foundation for rebuilding.
 
 ## See Also
 
-- [[fukuoka-traditional-paddy-construction]]
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
-- [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
 - [[fukuoka-natural-rice-barley-cultivation]]

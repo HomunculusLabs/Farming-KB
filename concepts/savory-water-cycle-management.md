@@ -97,12 +97,6 @@ The leverage point for doubling effective rainfall lies in covering the soil and
 
 - Savory, Allan. *Holistic Resource Management*, Chapter 10. Island Press, 1988.
 
-- [[savory-holistic-management-overview]]
-
-## See Also
-
 - [[keyline-design-water-management]]
-- [[permaculture-designers-manual-grazing-management]]
 - [[permaculture-earthworks-and-water-harvesting]]
-- [[permaculture-grazing-and-pasture]]
 - [[fukuoka-natural-livestock-integration-philosophy]]

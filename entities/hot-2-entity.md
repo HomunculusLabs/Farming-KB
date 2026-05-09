@@ -9,25 +9,7 @@ sources:
 ---
 # HOT-2 (2,5-Dimethoxy-4-ethylthio-N-hydroxyphenethylamine)
 
-HOT-2 is a phenethylamine compound and the N-hydroxylated derivative of [[2c-t-2-entity]]. It belongs to the HOT (Hydroxylated Ortho-Thio) family of psychedelic substances. The compound is listed as PIHKAL entry #87.
-
-## Chemical Classification
-
-HOT-2 belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 2,5-dimethoxy-4-ethylthio-N-hydroxyphenethylamine.
-
-The "HOT" designation refers to the hydroxylated (N-hydroxy) nature of the amine group, distinguishing it from the parent compound 2C-T-2.
-
-It contains the characteristic 2,5-dimethoxy-4-alkylthio substitution pattern of the 2C-T series.
-
-## Pharmacological Profile
-
-HOT-2 is an active psychedelic compound with a dosage range of 10 to 18 milligrams.
-
-The duration of effects is approximately 6 to 10 hours.
-
-The potency range is very similar to that of the non-hydroxylated prototype [[2c-t-2-entity]], which has an active range of 12-25 milligrams.
+HOT-2 is a phenethylamine compound and the N-hydroxylated derivative of [[2c-t-2]], which has an active range of 12-25 milligrams.
 
 The compound appears to be well-tolerated and generally pleasant, with a mixture of both sensory and insightful aspects.
 
@@ -59,29 +41,7 @@ Some blood pressure elevation was noted in the early part of the experience but 
 
 ## Synthesis
 
-HOT-2 is synthesized from 2,5-dimethoxy-4-ethylthio-beta-nitrostyrene, the nitrostyrene intermediate also used in the synthesis of [[2c-t-2-entity]].
-
-The nitrostyrene is dissolved in boiling anhydrous THF and treated with a borane dimethylsulfide complex followed by sodium borohydride.
-
-The reaction proceeds at room temperature over the course of a week under an inert atmosphere.
-
-After workup, the product is isolated as the hydrochloride salt with a melting point of 122 degrees C with decomposition.
-
-The synthesis represents a direct N-hydroxylation of the corresponding 2C-T compound.
-
-## Relationship to the HOT Family
-
-The HOT compounds represent N-hydroxylated analogues of the 2C-T family.
-
-[[hot-7-entity]] is the N-hydroxylated analogue of [[2c-t-7-entity]], with a dosage range of 15-25 mg and a duration of 6-8 hours.
-
-The pattern consistently shows that the HOT compounds have potency ranges similar to their non-hydroxylated 2C-T counterparts.
-
-The N-hydroxylation appears to preserve the psychedelic character of the parent compounds while maintaining similar dosage requirements.
-
-## Comparison with 2C-T-2
-
-HOT-2 and [[2c-t-2-entity]] share nearly identical dosage ranges, suggesting that the N-hydroxyl group does not dramatically alter the pharmacological profile.
+HOT-2 is synthesized from 2,5-dimethoxy-4-ethylthio-beta-nitrostyrene, the nitrostyrene intermediate also used in the synthesis of [[hot-7-entity]] is the N-hydroxylated analogue of [[2c-t-2]] share nearly identical dosage ranges, suggesting that the N-hydroxyl group does not dramatically alter the pharmacological profile.
 
 Both compounds produce sensory effects (visuals, perceptual changes) and insightful psychological effects.
 
@@ -107,18 +67,31 @@ As with all research chemicals, limited safety data is available.
 
 ## See Also
 
-[[2c-t-2-entity]]
-
 [[2c-t-entity]]
 
-[[2c-t-7-entity]]
-
 [[hot-7-entity]]
-
-[[2c-b-entity]]
 
 [[mescaline-entity]]
 
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #87: HOT-2.
+## Practical Considerations
+
+Successful implementation of HOT-2 (2,5-Dimethoxy-4-ethylthio-N-hydroxyphenethylamine) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

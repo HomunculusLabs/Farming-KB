@@ -134,13 +134,8 @@ Pass duplicates of each species or strain to a cultivator friend -- mushroom str
 
 ## See Also
 
-- [[cultivator-strain-selection-and-stock-culture]]
-
 - [[stamets-spore-germination-and-tissue-culture]] -- spore germination and tissue culture
-- [[stamets-agar-media-preparation]] -- agar media for strain work
 - [[stamets-spawn-making-and-grain-culture]] -- scaling up selected strains
-- [[mushroom-life-cycle-stamets]] -- mushroom life cycle and genetics
 - [[fungal-spore-biology]] -- spore collection methods
-- [[stamets-mushroom-growing-parameters-by-species]] -- species-specific parameters
 - [[mushroom-sawdust-bran-spawn-preparation]]
 - [[fungal-culture-preservation-long-term-methods]]

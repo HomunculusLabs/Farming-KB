@@ -3,7 +3,7 @@ title: Fungal Poisons and Toxicology
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Poisons and Toxicology
@@ -80,14 +80,7 @@ Many mushrooms cause nausea, vomiting, and diarrhea without containing specific 
 
 ## Why Mushrooms Produce Toxins
 
-Mushroom toxins are described as secondary metabolites. The delayed action of amatoxins makes them poor deterrents for mammalian predators -- the animal has already digested the mushroom by the time symptoms appear. A better explanation lies in their effects on developing insect larvae. Boletes and some Russula species become riddled with insect grubs, and high rates of cell division make embryos very prone to genetic damage. Insect larvae hatching within toxin-saturated flesh of an *Amanita* are likely to be highly vulnerable. Insects and fungi have interacted for 400 million years or more, offering ample opportunity for an evolutionary arms race. See [[fungal-biology-fundamentals]] for more on fungal secondary metabolism.
-
-## Related
-
-- [[mushroom-hunting-and-identification]]
-- [[edible-wild-mushroom-guide]]
+Mushroom toxins are described as secondary metabolites. The delayed action of amatoxins makes them poor deterrents for mammalian predators -- the animal has already digested the mushroom by the time symptoms appear. A better explanation lies in their effects on developing insect larvae. Boletes and some Russula species become riddled with insect grubs, and high rates of cell division make embryos very prone to genetic damage. Insect larvae hatching within toxin-saturated flesh of an *Amanita* are likely to be highly vulnerable. Insects and fungi have interacted for 400 million years or more, offering ample opportunity for an evolutionary arms race. See [[mushroom-hunting-and-identification]]
 - [[amanita-in-ancient-religion]]
-- [[fungal-enzyme-systems]]
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]

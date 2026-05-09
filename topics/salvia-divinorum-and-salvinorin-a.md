@@ -376,7 +376,7 @@ story.
 
 ## See Also
 
-- [[salvia-divinorum-and-salvinorin-a]]
+- salvia divinorum and salvinorin a
 - [[salvia-divinorum-profile]]
 - [[salvia-divinorum]]
 - [[salvinorin-pharmacology]]

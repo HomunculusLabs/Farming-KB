@@ -114,11 +114,7 @@ Beginners typically start with pale ales, amber ales, or stouts, which are forgi
 
 ## See Also
 
-- [[beer-brewing-basics]] for brewing fundamentals
 - [[ale-vs-lager-fermentation]] for the science behind the main categories
-- [[hops-history-and-brewing]] for hop varieties and their role in styles
 - [[malt-and-malting-process]] for how grain choices define styles
-- [[gruit-beer-and-herbs]] for historical herbal beer styles
 - [[herbal-beer-ingredients]] for ingredients beyond standard malt and hops
-- [[history-of-beer-and-brewing]] for how styles evolved over time
 - [[mead-making-guide]] for honey-based fermented beverages

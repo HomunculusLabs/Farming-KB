@@ -9,11 +9,7 @@ sources:
 ---
 # Soil Food Web Assessment
 
-Soil food web assessment is the process of analyzing the living biology in soil, compost, or [[cervantes-compost-tea-organic-brewing]] to determine whether the microbial community is adequate for healthy plant growth. Developed by Dr. Elaine Ingham through the Soil Foodweb Institute (SFI), the method uses direct microscopy rather than plate counts.
-
-## Why Assess the Food Web?
-
-A healthy [[lowenfels-earthworms-soil-food-web]] provides five critical functions:
+Soil food web assessment is the process of analyzing the living biology in soil, compost, or [[lowenfels-earthworms-soil-food-web]] provides five critical functions:
 
 1. **Out-competes disease organisms** by occupying all infection sites and consuming available food
 2. **Retains nutrients** -- prevents runoff and leaching
@@ -94,7 +90,7 @@ Ingham strongly advocates direct microscopy over plate count methods:
 
 Per Ingham's framework:
 
-- **All groups low**: Add quality [[aact-compost-quality-standards-ingham]] and/or [[cervantes-compost-tea-organic-brewing]]
+- **All groups low**: Add quality [[cervantes-compost-tea-organic-brewing]]
 - **Ciliates too high**: Soil is anaerobic or compacted; improve aeration
 - **Fungi too low**: Add fungal foods (humic acid, fish hydrolysate); use fungal compost
 - **Bacteria too low**: Add bacterial foods (molasses); use compost tea
@@ -103,11 +99,7 @@ Per Ingham's framework:
 
 ## See Also
 
-- [[soil-microbiology-basics]]
 - [[compost-tea-brewing-methods]]
-- [[aact-compost-quality-standards-ingham]]
 - [[compost-tea-application-rates]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[fungi-soil-food-webs]]
-- [[fungal-roles-soil-food-webs]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

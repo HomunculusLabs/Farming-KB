@@ -115,12 +115,7 @@ Stuart contextualized ayahuasca tourism within a broader historical pattern of W
 
 - [[ayahuasca-tourism-infrastructure-peruvian-amazon]]
 
-- [[ayahuasca-tourism-economics-commodification-peru]]
-
 - [[ayahuasca-tourism]] - General overview of ayahuasca tourism
-- [[ayahuasca-tourism-shamanic-tourism-economics]] - Broader economic analysis
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]] - Safety and practitioner evaluation
-- [[ayahuasca-tourism-ethics-and-commodification]] - Ethical considerations
 - [[ayahuasca-tourism-peru-retreat-landscape]] - Peruvian retreat infrastructure
-- [[ayahuasca-interactions-with-prescription-medications]] - Drug interaction risks
 - [[icaros-power-songs]] - Ceremonial songs in ayahuasca rituals

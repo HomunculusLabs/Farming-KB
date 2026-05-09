@@ -63,51 +63,13 @@ is robust and prolific, with first flushes yielding medium to large fruits and
 | Light | Indirect ambient or 6500K fluorescent, 12 h on/off |
 | pH | 6.0–7.0 |
 
-Performs well on PF Tek, whole grain spawn, and bulk substrates including
-coconut coir, vermiculite, and composted manure.
-
-## Lifecycle Timeline
-
-1. **Inoculation (Day 0):** Spore syringe or liquid culture introduced to
+Performs well on [[spore-syringe]] or liquid culture introduced to
    sterile grain substrate.
 2. **Colonization (Days 1–14):** Mycelium spreads; full colonization by
    day 10–14.
 3. **Consolidation (Days 14–21):** Mycelium strengthens for 3–7 additional
    days post-colonization.
-4. **Fruiting initiation (Day 21):** Primordia appear within 5–10 days.
-5. **Harvest (Days 28–35):** Mature fruits ready ~5–7 days after pinning,
-   just before the veil tears.
-
-## Potency Profile
-
-Golden Teacher is moderate-potency, with total psilocybin content of ~0.6–0.9%
-dry weight and psilocin at 0.1–0.3%. This places it mid-spectrum — stronger
-than B+ and Ecuador, less potent than Penis Envy or Albino A+. Potency varies
-based on genetics, substrate, environment, and harvest timing.
-
-## Effects Profile
-
-- **Onset:** Gentle and gradual, 20–60 minutes post-ingestion.
-- **Visual:** Moderate distortions — enhanced colors, geometric patterns
-  (eyes closed), mild peripheral warping.
-- **Cognitive:** Introspective, philosophical thought; enhanced creativity
-  and altered time perception.
-- **Emotional:** Euphoria, openness, connectedness; challenging experiences
-  possible at higher doses.
-- **Duration:** 4–6 hours, peaking at 2–3 hours.
-- **Body load:** Generally mild; occasional nausea during onset.
-
-## Dosage Guidelines
-
-| Experience Level | Dried Weight (grams) |
-|---|---|
-| Microdose | 0.1–0.3 |
-| Threshold / light | 0.5–1.0 |
-| Moderate | 1.0–2.5 |
-| Strong | 2.5–4.0 |
-| Intense (experienced only) | 4.0–5.0+ |
-
-Dosages are approximate; individual sensitivity varies. Set and setting are critical.
+4. **[[set-and-setting]] are critical.
 
 ## Spore Characteristics and Microscopy
 
@@ -142,9 +104,7 @@ retaining golden cap coloration, moderate potency, and growth parameters. Some
 phenotypic variation is expected; cloned sub-strains preserve traits more
 consistently. Multiple lineages circulate under the Golden Teacher name due to
 open spore trading, contributing to inter-vendor variability.
-
 ## Related
 
-- [[psilocybe-cubensis]] — The parent species of Golden Teacher.
-- [[psilocybin-compound]] — The primary psychoactive compound produced by the strain.
+- [[psilocin]] — The primary psychoactive compound produced by the strain.
 - [[psilocin]] — The dephosphorylated, active metabolite of psilocybin.

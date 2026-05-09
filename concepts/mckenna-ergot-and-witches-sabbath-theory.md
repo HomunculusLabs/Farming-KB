@@ -10,16 +10,9 @@ tags: [reference]
 
 # McKenna on Ergot and the Witches' Sabbath Theory
 
-In [[mckenna-food-of-the-gods-thesis]], [[psychedelic-mushrooms-species-and-identification]]
+In [[psychedelic-mushroom-set-and-setting]]
 examines the dual role of ergot-fungus|ergot (Claviceps purpurea) in
-Western history: as the likely visionary catalyst of the [[mckenna-eleusinian-mysteries]] and as a factor behind the medieval and early modern witch
-hysteria. These two threads connect the highest religious aspirations of
-classical antiquity with one of its darkest chapters of persecution.
-
-## The Ergotized Beer Theory of Eleusis
-
-The Wasson-Hofmann-Ruck theory, unveiled at a mushroom conference in San
-Francisco in 1977, proposed that the [[kykeon-composition-and-ergot-alkaloid-hypothesis]] was an ergotized beer brewed from barley infected with Claviceps
+Western history: as the likely visionary catalyst of the [[kykeon-composition-and-ergot-alkaloid-hypothesis]] was an ergotized beer brewed from barley infected with Claviceps
 purpurea. The argument draws on several lines of evidence: grain was central
 to the Eleusinian cult as a harvest festival celebrating the Great Mother
 Goddess and Dionysus; the purple traditionally associated with Demeter's robe
@@ -119,12 +112,8 @@ to the modern psychedelic renaissance.
 
 ## See Also
 
-- [[mckenna-eleusinian-mysteries]]
 - [[ergot-of-barley-and-wheat-alkaloid-composition]]
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
-- [[demeter-ergot-symbiosis-eleusinian-symbolism]]
 - [[ergot-and-lysergic-acid-history]]
-- [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]

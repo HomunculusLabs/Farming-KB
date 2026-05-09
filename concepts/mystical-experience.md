@@ -61,31 +61,7 @@ outcome measure in clinical trials of psychedelic-assisted therapy.
 
 The connection between psychedelic substances and mystical experience has been
 a central theme since the earliest research. In the Good Friday Experiment
-(1962), Walter Pahnke administered psilocybin to theology students during a
-religious service and found that many reported classic mystical experiences.
-Modern research at Johns Hopkins has replicated and extended these findings,
-demonstrating that high-dose psilocybin can reliably produce mystical-type
-experiences in the majority of participants.
-
-Crucially, the intensity of the mystical experience during a psychedelic
-session has emerged as one of the strongest predictors of long-term therapeutic
-benefit. Patients who report more complete mystical experiences show greater
-and more sustained improvements in depression, anxiety, and substance use.
-This finding has led researchers to suggest that the mystical or peak
-experience may be a key mechanism of therapeutic change, operating through
-a combination of experiential insight and neurobiological plasticity.
-
-## Cross-Cultural Perspectives
-
-Mystical experiences are reported across virtually all religious and spiritual
-traditions: Sufi fana (annihilation of the self in God), Buddhist nirvana,
-Hindu moksha, Christian mystical union, Jewish devekut, and Taoist wu-wei all
-describe states that share the core features identified by Stace. Indigenous
-shamanic traditions also describe experiences of cosmic consciousness and
-unity that parallel the mystical experience described in formal religious
-contexts.
-
-This cross-cultural ubiquity has led some theorists, including Aldous Huxley
+(1962), [[aldous-huxley]]
 and Huston Smith, to propose a "perennial philosophy" -- the idea that a
 single, universal reality underlies all mystical traditions despite their
 diverse cultural expressions. This hypothesis remains debated but continues to
@@ -125,8 +101,6 @@ information processing architecture rather than purely subjective phenomena.
 
 ## See Also
 
-- [[psychedelic-psychotherapy]]
 - [[shamanism]]
-- [[hallucinogenic-drugs]]
 - [[set-and-setting]]
 - transpersonal psychology

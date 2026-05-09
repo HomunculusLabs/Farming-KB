@@ -125,10 +125,7 @@ populations is regulated in several European countries.
 
 ## See Also
 
-- [[equisetum-arvense]]
 - [[spore]]
-- [[amanita-muscaria]]
-- [[psilocybin-compound]]
-- [[muscimol-entity]]
+- [[psilocybin]]
 - [[zingiber-officinale]]
 - [[turmeric]]

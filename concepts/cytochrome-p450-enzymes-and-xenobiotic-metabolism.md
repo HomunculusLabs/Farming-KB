@@ -62,13 +62,7 @@ Phase II reactions conjugate hydrophilic moieties onto Phase I products, dramati
 
 ## Phase III Transport (Efflux)
 
-ATP-binding cassette (ABC) transporters complete the elimination pathway. P-glycoprotein (ABCB1/MDR1) pumps drugs out of enterocytes, hepatocytes, and across the blood-brain barrier, determining [[first-pass-metabolism-and-oral-bioavailability]] and CNS penetration for digoxin, fexofenadine, and HIV protease inhibitors. BCRP (ABCG2) handles rosuvastatin and sulfasalazine. MRP2 (ABCC2) exports glucuronide and glutathione conjugates into bile. CYP3A4 and P-gp are co-localized on enterocytes and share many substrates, acting synergistically to limit oral bioavailability through cooperative first-pass metabolism and efflux.
-
-## Induction and Inhibition
-
-**Nuclear receptor-mediated induction**: PXR (pregnane X receptor) induces CYP3A4, CYP2B6, CYP2C9 in response to rifampin, carbamazepine, and St. John's Wort. CAR (constitutive androstane receptor) induces CYP2B6 via phenobarbital. AhR (aryl hydrocarbon receptor) induces CYP1A1/1A2/1B1 via dioxins, PAHs, and cigarette smoke. Clinically, rifampin + oral contraceptives causes contraceptive failure; St. John's Wort + cyclosporine causes transplant rejection.
-
-**Inhibition mechanisms**: Reversible competitive inhibition (ketoconazole on CYP3A4, quinidine on CYP2D6), noncompetitive inhibition, and mechanism-based inactivation (MBI) where [[reactive-metabolites-and-bioactivation-toxicology]] form covalent adducts with the heme or apoprotein (erythromycin, paroxetine on CYP2D6). Grapefruit juice furanocoumarins irreversibly inhibit intestinal CYP3A4. Ketoconazole + midazolam increases midazolam AUC 10-15x. Ritonavir is used pharmacologically as a CYP3A4 inhibitor to boost other HIV protease inhibitors.
+ATP-binding cassette (ABC) transporters complete the elimination pathway. P-glycoprotein (ABCB1/MDR1) pumps drugs out of enterocytes, hepatocytes, and across the blood-brain barrier, determining [[reactive-metabolites-and-bioactivation-toxicology]] form covalent adducts with the heme or apoprotein (erythromycin, paroxetine on CYP2D6). Grapefruit juice furanocoumarins irreversibly inhibit intestinal CYP3A4. Ketoconazole + midazolam increases midazolam AUC 10-15x. Ritonavir is used pharmacologically as a CYP3A4 inhibitor to boost other HIV protease inhibitors.
 
 ## Pharmacogenomics
 
@@ -113,17 +107,5 @@ Mechanism-based inactivation (MBI), also called suicide inactivation, occurs whe
 
 ## CYP Evolution and Diversity
 
-The CYP superfamily is ancient, with members found in all domains of life. Bacteria typically have 1-20 CYP genes, while plants have enormous CYP repertoires (*Arabidopsis thaliana* has >240 CYP genes involved in secondary metabolite biosynthesis, including the CYP71, CYP73, CYP75, CYP81, and CYP89 families for phenylpropanoid, flavonoid, alkaloid, and terpenoid pathways). Fungal CYPs are involved in secondary metabolite biosynthesis (including mycotoxins like aflatoxin) and xenobiotic degradation. The expansion of CYP families in mammals correlates with increased dietary complexity and exposure to [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] metabolites, suggesting that detoxification of plant xenobiotics was a major evolutionary driver. CYP2D6 is of particular evolutionary interest as it shows evidence of recent positive selection in some African populations, possibly related to dietary toxin exposure.
-
-## Regulatory Guidance and Drug Development
-
-Regulatory agencies (FDA, EMA, PMDA) require systematic evaluation of CYP-mediated drug interactions during drug development. The FDA 2020 guidance identifies index inhibitors (strong: >5x AUC increase; moderate: 2-5x; weak: 1.25-2x) and index inducers (>40% decrease in AUC of sensitive substrate) for each major CYP. Recommended clinical DDI studies use probe substrates: midazolam for CYP3A4, caffeine for CYP1A2, warfarin for CYP2C9, omeprazole for CYP2C19, and dextromethorphan for CYP2D6. In vitro studies using human liver microsomes, recombinant CYP enzymes, and hepatocytes characterize inhibition mechanism (reversible, time-dependent) and induction potential before clinical studies. Physiologically-based pharmacokinetic (PBPK) modeling increasingly supplements or replaces dedicated clinical DDI studies.
-## Environmental Biomonitoring
-
-Fish CYP1A is highly inducible by environmental PAHs and halogenated aromatics through the AhR pathway. The EROD (ethoxyresorufin O-deethylase) assay measuring CYP1A catalytic activity in fish liver microsomes is the gold-standard biomarker for aquatic contamination. Mussels (*Mytilus* spp.) serve as sentinel species in marine monitoring. Insect CYP6 and CYP9 families confer metabolic resistance to pyrethroid and organophosphate insecticides. Plant CYP71, CYP72, and CYP81 families metabolize herbicides, contributing to resistance evolution. The toxic equivalency factor (TEF) approach integrates CYP1A induction potency of dioxin-like compounds relative to TCDD for environmental risk assessment.
-
-## See Also
-
-- [[cytochrome-p450-enzymes-drug-metabolism]]
-- [[cytochrome-p450-enzymes-structure-function-pharmacology]]
+The CYP superfamily is ancient, with members found in all domains of life. Bacteria typically have 1-20 CYP genes, while plants have enormous CYP repertoires (*Arabidopsis thaliana* has >240 CYP genes involved in secondary metabolite biosynthesis, including the CYP71, CYP73, CYP75, CYP81, and CYP89 families for phenylpropanoid, flavonoid, alkaloid, and terpenoid pathways). Fungal CYPs are involved in secondary metabolite biosynthesis (including mycotoxins like aflatoxin) and xenobiotic degradation. The expansion of CYP families in mammals correlates with increased dietary complexity and exposure to [[cytochrome-p450-enzymes-drug-metabolism]]
 - [[staycare-cytochrome-p450-in-fungal-biodegradation]]

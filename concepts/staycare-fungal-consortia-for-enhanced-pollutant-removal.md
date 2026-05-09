@@ -49,49 +49,7 @@ Fungal consortia — combinations of multiple fungal species, or fungi with bact
 #### Ectomycorrhizal Consortia
 
 - Ectomycorrhizal fungi compete better with indigenous populations than introduced saprophytic fungi (Donnelly & Fletcher, 1995)
-- [[mycorrhizal-fungi]] associated with tree roots in contaminated sites can degrade chlorinated organic compounds including several pesticides (Donnelly et al., 1993)
-- Ectomycorrhizosphere microbial consortia involve complex interactions between mycorrhizal fungi, associated bacteria, and the plant host (Chapter on ectomycorrhizosphere)
-- 14 of 21 ectomycorrhizal fungi tested degraded PCBs; the number of congeners metabolized varied among species (Donnelly & Fletcher, 1995)
-
-### Fungal-Bacterial Consortia
-
-#### Pesticide Degradation
-
-- **MCPA**: Consortia of bacteria and fungi can break down MCPA under aerobic conditions (Duah-Yentumi & Kuwatsuka, 1982; MacRae, 1989). Under anaerobic conditions, however, toxic concentrations of metabolite 5-chloro-o-cresol accumulated.
-- **PCB degradation**: Bacterial-fungal consortia for PCBs combine bacterial dioxygenase pathways (for less-chlorinated congeners) with fungal peroxidase pathways (for recalcitrant structures). PCB degradation generally requires mixed bacterial cultures (Golyshin et al., 1999); adding fungi extends the degradation capability.
-
-#### Advantages of Fungal-Bacterial Partnerships
-
-- Fungi provide initial oxidative attack through ligninolytic enzymes, producing partially oxidized intermediates
-- Bacteria mineralize these intermediates through specialized catabolic pathways
-- Fungal hyphae physically penetrate soil aggregates, increasing contact with sorbed pollutants and transporting bacteria
-- Fungi create microenvironments (pH gradients, organic acid production) that enhance bacterial activity
-- Bacteria may provide growth factors or remove inhibitory metabolites that accumulate during fungal degradation
-
-### Fungal-Algal/Plant Consortia
-
-- Mycorrhizal associations represent natural fungal-plant consortia
-- Mycorrhizal fungi can enhance phytoremediation by:
-  - Reducing metal bioavailability and translocation to the plant (Bradley, Burt & Read, 1981)
-  - Increasing phosphate and metal availability through solubilization (Lapeyrie, Ranger & Vairelles, 1991)
-  - Extending the effective root zone for pollutant contact
-  - Providing enzymatic degradation capability to the plant-fungal system
-
-## Ecological Considerations
-
-### Competition
-
-When introducing consortia into contaminated environments, introduced organisms must compete with:
-- Indigenous microbial populations (often adapted to site conditions)
-- Other introduced organisms within the consortium
-- Predators (protozoa, nematodes, microarthropods)
-
-### Field Trial Results
-
-Despite promising laboratory results, field trials of PCB-degrading organisms have been less effective. The introduced organisms do not compete well with indigenous populations (Unterman et al., 1988). This underscores the importance of:
-- Selecting organisms adapted to target environmental conditions
-- Pre-adaptation or acclimation periods
-- Appropriate formulation (see [[staycare-scale-up-challenges-in-fungal-bioremediation]])
+- [[staycare-scale-up-challenges-in-fungal-bioremediation]])
 - Biostimulation (nutrient addition) rather than bioaugmentation where possible
 
 ### Succession and Community Dynamics
@@ -115,14 +73,7 @@ Effective consortia may need to account for microbial succession:
 An alternative to introducing consortia is biostimulation — stimulating indigenous microbial communities with nutrients, oxygen, or other amendments. Key considerations:
 
 - Indigenous communities are already adapted to site conditions
-- Biostimulation nutrients may favor indigenous species over introduced ones (see [[staycare-scale-up-challenges-in-fungal-bioremediation]])
-- Solid-state fermentation on straw/wood chips provides a growth substrate that supports introduced fungi while also stimulating indigenous populations
-- Some contaminated sites may lack the necessary degradative organisms entirely, requiring bioaugmentation
-
-## See Also
-
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[staycare-mycoremediation-of-pharmaceutical-contaminants]]
+- Biostimulation nutrients may favor indigenous species over introduced ones (see [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[staycare-fungal-biosorption-of-heavy-metals]]
 - [[staycare-scale-up-challenges-in-fungal-bioremediation]]
 

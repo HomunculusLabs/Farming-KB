@@ -108,14 +108,9 @@ Resin-focused selections have been developed specifically for solventless extrac
 
 ## See Also
 
-- [[banana-kush]]
 - [[granddaddy-purple]]
-- [[purple-punch]]
 - [[runtz-entity]]
-- [[gelato-cannabis]]
 - [[mac-1]]
-- [[cannabis-blue-dream]]
 - [[girl-scout-cookies]]
-- [[thin-mint]]
 - [[jack-herer]]
 - [[white-widow-entity]]

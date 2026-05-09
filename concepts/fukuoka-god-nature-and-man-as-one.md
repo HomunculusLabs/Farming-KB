@@ -12,15 +12,7 @@ Updated: 2026-04-18
 
 One of Fukuoka's deepest philosophical chapters explores the relationship between God, nature, and humanity — arguing that the original sin was not just a parable but a scathing description of humanity's fundamental error: turning away from nature.
 
-This chapter stands at the heart of [[fukuoka-natural-farming-philosophy]], connecting the practical work of farming to the most fundamental questions of existence. For Fukuoka, natural farming was never merely an agricultural technique — it was a spiritual practice and a way of perceiving the unity of all things.
-
-## The Original Separation
-
-Man arose on Earth as one child of nature in the course of evolution. After acquiring intelligence, he turned away from a nature ruled over by God and began running at full speed — a heretic pulling his bow at nature. Humanity that has turned its back on God has lost its limbs and is unable to grasp the heart of Mother Nature.
-
-Fukuoka reinterprets the Biblical story of the Fall not as a theological abstraction but as a literal description of what happened when humans began to exert their will upon the natural world. The expulsion from Eden is the expulsion from harmony with nature's own processes. Every act of human intervention — plowing, fertilizing, spraying — is a repetition of that original turning away.
-
-This framing connects directly to [[fukuoka-do-nothing-farming-and-spiritual-life]]: the practice of non-intervention in farming is simultaneously the practice of surrendering the human ego before the greater intelligence of nature. The farmer who does nothing is not being lazy; they are returning to the pre-Fall state of harmony.
+This chapter stands at the heart of [[fukuoka-do-nothing-farming-and-spiritual-life]]: the practice of non-intervention in farming is simultaneously the practice of surrendering the human ego before the greater intelligence of nature. The farmer who does nothing is not being lazy; they are returning to the pre-Fall state of harmony.
 
 ## God as Both Conductor and Performer
 
@@ -28,15 +20,7 @@ God is called the creator of all nature, but this Great Spirit may also be thoug
 
 This passage reveals Fukuoka's panentheistic worldview — God is both immanent within nature and transcendent beyond it. Unlike the Western concept of a creator who stands outside creation, Fukuoka's God permeates every leaf, every insect, every grain of soil. This is why the natural farmer must not impose their own designs on the land: to do so would be to override the divine intelligence already at work.
 
-The metaphor of the orchestra is particularly apt for understanding [[fukuoka-nature-as-teacher]]. Each organism — from the mycorrhizal fungi beneath the soil to the birds overhead — plays its part in a symphony that no human conductor could improve upon. The farmer's role is simply to listen.
-
-## The Illusion of Human Knowledge
-
-The belief that man can improve upon nature and erect a uniquely human civilization of greater plenty and happiness has been nothing other than a smug illusion. Man, unable to create a single thing, unaware even of his insignificance, is only a knight-errant charging at windmills. Mankind is scientifically captivated by the superficial forms of nature that are but reflections of human images.
-
-Here Fukuoka launches one of his most sustained critiques of the scientific project. The error is not merely that science is imperfect, but that its entire direction is wrong — it studies reflections of nature rather than nature itself. Scientific agriculture, in Fukuoka's view, is the quintessential example: researchers isolate variables, test hypotheses, and develop techniques that manipulate nature's surface appearances while missing the underlying wholeness.
-
-This critique extends to [[fukuoka-one-straw-revolution-philosophy]] as a whole. Fukuoka's revolution was not about a new technique but about a fundamental shift in orientation — from mastery to humility, from domination to participation.
+The metaphor of the orchestra is particularly apt for understanding [[fukuoka-one-straw-revolution-philosophy]] as a whole. Fukuoka's revolution was not about a new technique but about a fundamental shift in orientation — from mastery to humility, from domination to participation.
 
 ## The True Nature of Space and Time
 
@@ -44,49 +28,21 @@ Man's notions of space and time are not absolute but merely scientific construct
 
 This section anticipates ecological thinking that would become more prominent decades later. Fukuoka understood that each organism inhabits its own sensory world — a concept modern science calls the "umwelt." A field that looks simple and uniform to a human farmer is actually a complex, multi-layered universe teeming with different temporal and spatial realities.
 
-For the natural farmer, this means that what appears as "weeds" or "pests" are simply other organisms living out their natural existence within the same space. The concept of [[fukuoka-natural-pest-balance]] emerges directly from this understanding: pests are not enemies but participants in a system whose logic the human mind cannot fully grasp.
-
-## The Last Road Left for Humanity
-
-The only road remaining is to search with full heart and soul for the true nature-God and for life. Man need only act naturally in accordance with nature. This is the road there was — returning to nature through natural farming.
-
-Fukuoka presents this not as one option among many but as the only viable path forward. The trajectory of human civilization — ever-increasing intervention, ever-greater environmental destruction — has reached a point of no return. The [[fukuoka-seeding-real-green-revolution]] that Fukuoka advocated was not about increasing yields through technology but about fundamentally reorienting humanity's relationship with the living world.
+For the natural farmer, this means that what appears as "weeds" or "pests" are simply other organisms living out their natural existence within the same space. The concept of [[fukuoka-seeding-real-green-revolution]] that Fukuoka advocated was not about increasing yields through technology but about fundamentally reorienting humanity's relationship with the living world.
 
 ## The Contradiction of Human Progress
 
 Fukuoka saw human progress as a paradox: each technological advance that appeared to improve human life actually deepened the separation from nature. The tractor that replaces the ox destroys the soil structure; the pesticide that kills the pest also kills the pollinators; the fertilizer that boosts yields depletes the soil's natural fertility. Each "improvement" requires further interventions to address its unintended consequences, creating an escalating cycle of damage and repair.
 
-This insight connects to [[fukuoka-pine-blight-matsutake-research]], where Fukuoka observed that irrigation and intensive farming had turned fertile valleys into deserts. The pattern is always the same: human intervention creates the appearance of improvement, then gradually undermines the natural systems that made improvement possible.
+This insight connects to [[natural-farming-and-spirituality]]
 
-## The Farmer's Ode
-
-Fukuoka closes this philosophical chapter with a poem:
-
-"The heavens being the seat of God, those who till the earth beneath are blessed. The singing of the birds in the fields glorifies Him. The rape blossoms speak of Him. The spring that wells up from the earth murmurs eternal truths. This day... a life infinite."
-
-This poem encapsulates Fukuoka's vision of farming as a form of worship. The farmer who works with nature rather than against it becomes a participant in the divine. Every sprouting seed, every blossoming flower, every harvest is an expression of the sacred unity of God, nature, and humanity.
-
-## Connection to [[natural-farming-and-spirituality]]
-
-The spiritual dimension of Fukuoka's philosophy is not an optional add-on but its very foundation. [[fukuoka-do-nothing-farming-and-spiritual-life]] makes clear that the practical techniques of natural farming — no plowing, no chemicals, no weeding — are meaningful only insofar as they express a deeper surrender to nature's intelligence. This chapter on God, nature, and man as one provides the philosophical grounding for that surrender.
-
-## See Also
-
-- [[fukuoka-natural-diet-theory]]
-
-- [[fukuoka-what-is-nature]]
+The spiritual dimension of Fukuoka's philosophy is not an optional add-on but its very foundation. [[fukuoka-natural-diet-theory]]
 
 - [[fukuoka-nature-as-teacher]]
 
-- [[fukuoka-scattering-straw-technique]]
-
 - [[fukuoka-natural-farming-philosophy]]
 
-- [[fukuoka-natural-body-and-health]]
-
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
-
-- [[fukuoka-one-straw-revolution-philosophy]]
 
 - [[natural-farming-and-spirituality]]
 ## Merged: Man Cannot Know Nature

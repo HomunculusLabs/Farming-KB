@@ -3,20 +3,7 @@ title: Mycorrhizal Succession in Primary and Secondary Succession
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources:
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
----
-# Mycorrhizal Succession in Primary and Secondary Succession
-
-## Overview
-
-Mycorrhizal fungal communities undergo predictable changes during both primary succession
-(on newly exposed substrates such as glacial till or volcanic deposits) and secondary
-succession (following disturbance of established ecosystems). These successional patterns
-in mycorrhizal communities influence plant establishment, competitive dynamics, and
-ecosystem development. Understanding mycorrhizal succession is essential for predicting
-[[dighton-mycorrhizal-diversity-ecosystem-function]] during vegetation
+tags: [[dighton-mycorrhizal-diversity-ecosystem-function]] during vegetation
 recovery.
 
 ## Primary Succession on Glacial Forefronts
@@ -59,29 +46,7 @@ acquisition in nutrient-poor pioneer soils.
 
 This finding highlights the importance of non-typical mycorrhizal associations in primary
 succession, where conventional ectomycorrhizal or arbuscular mycorrhizal partners may be
-absent or poorly established. [[dark-septate-endophytes-stressed-environments]] may serve as early-successional
-mycorrhizal associates that facilitate plant establishment until more specialized
-mycorrhizal communities develop.
-
-## Mycorrhizal Diversity and Nutrient Availability
-
-The increase in ectomycorrhizal diversity at canopy closure during primary succession may
-be related to both the relative paucity of available phosphorus and an increasing
-proportion of nutrients locked up in organic forms. It has been speculated that increased
-mycorrhizal diversity allows greater expression of mycorrhizal function in order to
-utilize mixed available resources of inorganic and organic nutrients (Dighton and Mason,
-1985).
-
-Some validation of this hypothesis has come from studies showing that the diversity of
-ectomycorrhizae growing into different tree litters reflects appropriate enzyme functions
-in relation to the relative availability of inorganic nutrients. Where phosphorus is
-immobilized during early stages of leaf litter decomposition, the ectomycorrhizal
-community contains a greater proportion of acid phosphatase producing mycorrhizal types
-(Conn and Dighton, 2000).
-
-## Arbuscular Mycorrhizal Succession Hypotheses
-
-Hart et al. (2001) proposed two hypotheses to explain successional changes in [[arbuscular-mycorrhizal-colonization-patterns]]
+absent or poorly established. [[arbuscular-mycorrhizal-colonization-patterns]]
 fungal species during secondary succession. The driver hypothesis suggests
 that mycorrhizal fungi are the driving force behind changes in plant community
 composition. The passenger hypothesis suggests that changes in mycorrhizal species are
@@ -99,27 +64,25 @@ Allen and Allen (1990) proposed a model for the importance of mycorrhizae in reg
 plant competition during seral succession. In this model, mycorrhizae play critical roles
 in early succession by facilitating plant establishment on nutrient-poor substrates, and
 in later succession by mediating competitive interactions among established plants
-through [[mycorrhizal-networks-common-mycelial-network]].
-
-However, studies on Mount Fuji volcanic desert succession demonstrated that this model is
-both environmentally and plant species-dependent. Mycorrhizal responses varied with rock
-microtopography and plant species identity, suggesting that mycorrhizal succession does
-not follow a simple deterministic pattern but responds to local environmental
-heterogeneity.
-
-## Maintaining Mycelial Networks During Succession
-
-The importance of maintaining a continuous mycelial mat of mycorrhizal fungi to encourage
-rapid development of mycorrhizal associations during colonization has been demonstrated
-in succession studies. Disruption of mycelial networks through disturbance can reset
-mycorrhizal succession, requiring re-establishment from spore banks or animal vectors.
-The continuity of mycorrhizal networks through the successional sequence therefore
-influences the rate and trajectory of vegetation recovery.
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-nitrogen-deposition-fungal-community-responses]]
+through [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-
-## See Also
-
 - [[comparison-primary-vs-secondary-succession]]
+## Practical Considerations
+
+Successful implementation of Mycorrhizal Succession in Primary and Secondary Succession requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

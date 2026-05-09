@@ -137,10 +137,6 @@ preferred for its fast growth.
 
 ## See Also
 
-- [[stamets-patents]]
-
 - [[stamets-slant-culture-strain-preservation]]
-- [[stamets-agar-media-preparation]]
 - [[stamets-spawn-making-and-grain-culture]]
-- [[stamets-mushroom-genetics-mating-systems-reproduction]]
 - [[growing-gourmet-mycelial-morphology-classification-agar-media]]

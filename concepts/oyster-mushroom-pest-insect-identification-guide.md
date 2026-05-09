@@ -3,16 +3,7 @@ title: Oyster Mushroom Pest Insect Identification Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-Updated: 2026-04-18
-
-Source: Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (MushWorld, 2004) — Chapter 8, Jae-Soon Cha (Chungbuk National University, Korea)
-
-Identification guide for the five major fly species and two mite types that are the primary pests of [[cotter-oyster-mushroom-cultivation]]. Oyster mushroom cultivation beds provide ideal conditions for pests: abundant food, warm temperatures, and high humidity.
+tags: [[cotter-oyster-mushroom-cultivation]]. Oyster mushroom cultivation beds provide ideal conditions for pests: abundant food, warm temperatures, and high humidity.
 
 ## Sciarids (Lycoriella mali)
 
@@ -82,11 +73,7 @@ The most important pests of oyster mushroom.
 
 ## Related
 
-- [[oyster-mushroom-green-mold-disease]]
 - [[oyster-mushroom-brown-blotch-disease]]
-- [[cotter-oyster-mushroom-cultivation]]
 - [[cotter-mushroom-pests-diseases]]
-- [[mushroom-cultivation-pests-and-contamination]]
 - [[mushroom-contamination-control-strategies]]
-- [[mushroom-cultivation-pests-mites-flies]]
 - [[oyster-mushroom-species-fruiting-parameters]]

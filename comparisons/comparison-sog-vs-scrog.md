@@ -110,13 +110,8 @@ Ultimately, neither SOG nor SCROG is objectively superior. Both are proven, high
 
 ## See Also
 
-- [[sea-of-green]]: detailed SOG technique and perpetual harvest systems
 - [[cannabis-screen-of-green-scrog-guide]]: full SCROG training walkthrough
-- [[cannabis-pruning-and-defoliation-guide]]: canopy management for both methods
 - [[cannabis-vegetative-stage]]: managing vegetative growth before flowering
-- [[cannabis-lighting-guide]]: optimizing light for dense canopy production
 - [[cannabis-clone-rooting-and-transplanting]]: clone production for SOG operations
-- [[cannabis-photoperiodism-and-light-cycles]]: understanding light schedules for both methods
 - [[cannabis-super-cropping-technique]]: advanced branch manipulation for SCROG training
-- [[cannabis-nutrient-recipes]]: feeding schedules adapted for both SOG and SCROG systems
 - [[cannabis-topping-training]]: combining topping techniques with SCROG for even more bud sites

@@ -112,11 +112,9 @@ Aphids can multiply with amazing speed, exploding from nothing to a serious thre
 - A five percent aphid leaf-area threshold provides an objective intervention trigger
 - Row covers and beneficial insect habitat are practical first defenses before pesticides
 
-## Related Concepts
+## Related
 
 - [[solomon-pest-management-organic]]
-- [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - [[soil-fertility-management]]
-- [[garden-soil-basics]]
 - [[solomon-weed-management-without-chemicals]]
 - [[solomon-row-covers-and-season-extension]]

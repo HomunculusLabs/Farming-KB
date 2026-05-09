@@ -60,27 +60,7 @@ mildly to strongly unpleasant odor.
 
 Another Pseudomonas species, yet unidentified, has been implicated in the cause of a
 more severe form of blotch known as Bacterial Pit. Additionally, Pseudomonas species
-contaminate [[agar]] and grain cultures, inhibiting mycelial growth.
-
-## Control Measures
-
-Prevention and control of Pseudomonas tolaasii involves multiple strategies:
-
-- **Water Treatment:** Use of mildly chlorinated water (150 to 250 ppm) or water free
-  of high bacteria counts for watering crops
-- **Isolation:** Isolating and properly disposing of infected fruitbodies
-- **Humidity Control:** Eliminating excessively high humidity levels during cropping
-  (greater than 92% relative humidity)
-- **Air Circulation:** Preventing stagnant air pockets through a good air circulation
-  system
-- **Evaporation:** Maintaining a sufficient evaporation rate lessens the likelihood of
-  infection
-- **Antibiotics:** Use of antibiotics such as gentamycin sulfate or micron filters can
-  prevent outbreaks in laboratory settings
-
-One biological remedy was proposed by Nair and Fahy (1972), who demonstrated that
-introduction of Pseudomonas fluorescens, a natural antagonist to Pseudomonas tolaasii,
-markedly decreased the occurrence of blotch while not hindering [[agaricus-brunnescens]]
+contaminate [[agaricus-brunnescens]]
 yields. However, some researchers believe Pseudomonas fluorescens to be merely a variety
 of Pseudomonas tolaasii and hesitate to recommend it as a control measure.
 
@@ -121,6 +101,5 @@ and bacteria are then dispersed to adjacent mushrooms through water splash, phys
 contact during harvesting, and insect activity.
 
 ## See Also
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
 - [[verticillium-malthousei-entity-the-mushroom-cultivator]]

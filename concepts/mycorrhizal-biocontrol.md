@@ -3,7 +3,7 @@ title: Mycorrhizal Biocontrol
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Biocontrol
@@ -78,15 +78,7 @@ In field conditions, mycorrhizal biocontrol is one component of integrated disea
 ## See Also
 
 - mycorrhiza — Overview of mycorrhizal symbiosis types
-- [[arbuscular-mycorrhizal-networks]] — The most common mycorrhizal type involved in biocontrol
 - [[plant-defense-mechanisms]] — Broader context of plant immune responses
-- [[mycorrhizal-networks-common-mycelial-network]] — How mycorrhizal networks mediate interplant defense signaling
-- siderophore — Iron-chelating compounds involved in microbial competition
-
-## Related
-
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
-- [[dark-septate-endophytes]]
 - [[common-mycorrhizal-networks]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]

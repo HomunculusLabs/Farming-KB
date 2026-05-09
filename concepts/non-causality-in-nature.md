@@ -1,20 +1,14 @@
 ---
-title: Non-Causality [[pdc-patterns-in-nature]]
+title: Non Causality In Nature
 created: 2026-04-28
 tags: [philosophy, science, epistemology, fukuoka, nature, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - administrator-microsoft-word-[[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]].md
+  - administrator-microsoft-word-fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis.md
 type: concept
 ---
-# [[fukuoka-theory-principle-of-non-causality]] in Nature
-
-Non-causality is [[masanobu-fukuoka]]'s philosophical principle that caufukuoka-textdoc-errors-of-human-intellectas understood by [[fukuoka-errors-human-intellect]], do not truly exist in nature. While
-causal relationships may appear dpermaculture-cycles-[[fungal-habitats-and-niches]]-in-timeble when observing isolated events at a
-specific point in time, examining nature holistically reveals a tangled web of
-relationships that defies resolution into simple cause and effect. This
-principle has profound implications [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]], science, and humanity's
+# [[masanobu-fukuoka]]'s philosophical principle that caufukuoka-textdoc-errors-of-human-intellectas understood by [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]], science, and humanity's
 relationship with the natural world.
 
 ## The Illusion of Cause and Effect

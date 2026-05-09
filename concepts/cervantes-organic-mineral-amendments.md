@@ -118,13 +118,6 @@ fertilizer but are easy to overapply because of
 the high pH. Do not use wood ashes from fireplaces
 that have been burning trash, as they may contain
 toxic residues. See
-[[cervantes-dolomite-lime-ph-buffering]] for
-more on pH management.
-
-## Related Topics
-
-- [[cervantes-organic-amendments-chart]]
-- [[cannabis-advanced-growing-techniques]]
+[[cervantes-organic-amendments-chart]]
 - [[cervantes-dolomite-lime-ph-buffering]]
-- [[cervantes-ph-management-testing]]
 - [[cervantes-nutrient-management]]

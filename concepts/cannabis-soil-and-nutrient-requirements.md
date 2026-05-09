@@ -103,7 +103,7 @@ The NPK ratio on fertilizers indicates the percentage by weight of nitrogen, pho
 - Slower nutrient release but more sustainable.
 - Builds soil health over time.
 - Less risk of nutrient burn.
-- See [[soil-food-web-structure]] and [[soil-nutrient-cycling]].
+- See [[soil-nutrient-cycling]].
 
 ### Synthetic
 - Chemically manufactured mineral salts.
@@ -131,14 +131,10 @@ pH affects nutrient availability. In the wrong pH range, nutrients become "locke
 
 ## See Also
 
-- [[soil-food-web-structure]] for understanding soil biology
 - [[soil-nutrient-cycling]] for how nutrients become plant-available
-- [[cannabis-growing-environment-setup]] for grow medium considerations
 - [[nutrient-dynamic-accumulator-reference]]
 
 ## Related
 
-- [[cannabis-nutrient-recipes]]
 - [[cannabis-soilless-grow-media]]
-- [[cannabis-two-tier-microbiome-selection]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]

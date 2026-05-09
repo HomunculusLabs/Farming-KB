@@ -126,7 +126,7 @@ Measuring community resilience helps identify strengths and gaps:
 - [[permaculture-social-design]] — governance and organizational structures
 - [[permaculture-seed-saving-networks]] — community-based seed systems
 - [[permaculture-urban-design]] — building resilience in urban contexts
-- [[natural-farm-permaculture-ethics-principles]] — people care and fair share ethics
+- [[permaculture-ethics-and-principles]] — people care and fair share ethics
 
 ## Related
 

@@ -34,20 +34,7 @@ sources:
 
 The colonial morphology of *A. oryzae* on standard media includes:
 
-- **Colony Growth:** Rapid growth on Czapek-Dox [[agar]] and malt extract agar at 25 to 30°C. Colonies are typically 4 to 7 cm in diameter after 7 days.
-- **Coloration:** Colony surfaces range from yellow-green to olive-green due to abundant conidial production. The reverse (underside) is colorless to pale yellow.
-- **Conidiophores:** Stipes are rough-walled, 1 to 2 mm long, terminating in vesicles approximately 30 to 50 μm in diameter.
-- **Conidia:** Globose to subglobose, approximately 5 to 8 μm in diameter, with smooth to finely roughened walls.
-- **Sclerotia:** Not typically produced under standard laboratory conditions, unlike *A. flavus*.
-
-The hyphal structure includes characteristic septa with Woronin bodies, which are specialized organelles unique to the Ascomycota that seal septal pores to maintain cellular compartmentalization when hyphae are damaged.
-
-## Historical and Cultural Significance
-
-*A. oryzae* has been used in food fermentation for at least 2,000 years, with its use documented in ancient Chinese texts:
-
-- **Koji Production:** The process of inoculating steamed rice, barley, or soybeans with *A. oryzae* spores to produce koji is the foundational step in making sake, shochu, mirin, soy sauce, miso, and other traditional fermented foods.
-- **Sake Brewing:** In sake production, koji converts rice starches into fermentable sugars (saccharification), which are then fermented by *[[saccharomyces-cerevisiae]]*. The quality of the koji mold directly determines the flavor profile and quality of the final product.
+- **Colony Growth:** Rapid growth on Czapek-Dox [[saccharomyces-cerevisiae]]*. The quality of the koji mold directly determines the flavor profile and quality of the final product.
 - **Soy Sauce and Miso:** In soy sauce production, *A. oryzae* and *A. sojae* are used to ferment a mixture of soybeans and wheat, producing a complex mixture of enzymes that break down proteins into amino acids and starches into sugars.
 - **Cultural Heritage:** The importance of *A. oryzae* in Japanese culture is reflected in its designation as the "National Fungus" (kokkin) of Japan, and koji-making is recognized as an intangible cultural heritage.
 
@@ -125,9 +112,5 @@ Standard techniques for isolating and maintaining *A. oryzae* in the laboratory 
 
 ## See Also
 
-- [[aspergillus-flavus]]
 - [[aspergillus-fumigatus]]
-- [[aspergillus-niger]]
-- fermentation-microbiology
-- Koji
 - [[monascus-purpureus]]

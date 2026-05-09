@@ -117,13 +117,8 @@ DET is the parent compound lacking the 4-hydroxy or 4-acetoxy substitution.
 
 ## See Also
 
-- [[4-acetoxy-dmt]]
 - [[4-ho-dipt]]
-- [[4-ho-mipt]]
 - [[psilocin]]
-- [[psilocybin-compound]]
 - [[bufotenin]]
-- [[dmt]]
-- [[5-meo-dmt]]
-- [[tryptamine]]
+- [[5-meo-dmt-entity]]
 - [[det]]

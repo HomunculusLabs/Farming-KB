@@ -89,12 +89,8 @@ For close to two thousand years, a few ancient Greeks passed each year through t
 
 ## Related Topics
 
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- the kykeon preparation and chemistry
 - [[hofmann-self-experiment-with-ergonovine]] -- experimental validation
-- [[the-road-to-eleusis-wasson-hofmann-ruck]] -- the full collaborative argument
 - [[demeter-and-persephone-in-eleusinian-mythology]] -- the myth behind the ritual
-
-- [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
 

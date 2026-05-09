@@ -141,9 +141,6 @@ Saffron crocus has potential in permaculture systems, particularly in Mediterran
 
 ## See Also
 
-- [[paeonia-lactiflora]]
-
 - [[curcumin]] — Curcumin, another valuable yellow-orange plant compound with overlapping medicinal properties
-- [[cinnamomum-verum]] — Cinnamon, another high-value spice with extensive medicinal use
 - [[glycyrrhiza-glabra]] — Licorice, a medicinal root crop for sustainable agriculture
 - [[moringa-oleifera]] — Moringa, another high-value multipurpose crop for permaculture systems

@@ -141,9 +141,6 @@ anxiety. The oxytocin-endocannabinoid connection is also relevant, as oxytocin
 released by hugs reduces anxiety and fear and enhances bonding.
 
 ## See Also
-- [[blesching-cannabis-oxytocin-endocannabinoid-system]]
 - [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
-- [[blesching-cannabis-serotonin-endocannabinoid-system]]
 - [[cannabis-endocannabinoid-system-overview]]
-- [[blesching-cannabis-sleep-disorders]]
 - [[blesching-cannabis-anxiety]]

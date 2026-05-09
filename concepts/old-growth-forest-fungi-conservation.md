@@ -3,17 +3,7 @@ title: Old-Growth Forest Fungi and Conservation
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-# Old-Growth Forest Fungi and Conservation
-
-Old-growth forests harbor some of the most diverse and ecologically significant fungal communities on Earth. These ancient ecosystems support mushroom species that may exist nowhere else, including organisms with potentially invaluable medicinal and bioremedial properties. The destruction of old-growth forests for timber represents an irreversible loss of fungal biodiversity that may have profound consequences for human welfare.
-
-## Fungal Diversity in Old-Growth Forests
-
-The old-growth forests of the Pacific Northwest — the dominant ecosystem where [[mycoremediation-stamets-approach]] conducted his research — support extraordinary fungal diversity. More than 2,000 species of mushrooms live symbiotically with Douglas firs alone. Randy Molina and colleagues (1997) estimated that approximately 250 species of mycorrhizal fungi associate with hemlocks. Of the more than 527 mushroom species documented growing in old-growth forests, at least 109 are native specifically to the Pacific Northwest (USDA 1993).
+tags: [[mycoremediation-stamets-approach]] conducted his research — support extraordinary fungal diversity. More than 2,000 species of mushrooms live symbiotically with Douglas firs alone. Randy Molina and colleagues (1997) estimated that approximately 250 species of mycorrhizal fungi associate with hemlocks. Of the more than 527 mushroom species documented growing in old-growth forests, at least 109 are native specifically to the Pacific Northwest (USDA 1993).
 
 The fungal community of an old-growth forest includes all four major ecological types: mycorrhizal fungi forming symbiotic partnerships with tree roots, saprophytic fungi decomposing dead organic matter, parasitic fungi obtaining nutrients from living hosts, and endophytic fungi living within plant tissues. The health of a forest ecosystem's foundation is an interplay of mycelial networks from all four types.
 
@@ -68,12 +58,8 @@ When trees are killed for logging, mycorrhizal fungal communities die back. The 
 Wood chips serve as valuable "ecological currency" that can be reinvested into the forest's "ecobank" to enhance sustainability. Inoculated wood chip beds decompose into rich soil within 2-3 years, accelerating the recovery of soil depth and nutrient content that would otherwise take decades.
 
 ## See Also
-- [[mycoforestry-forest-restoration]]
-
-[[fungal-roles-in-old-growth-forests]] — detailed coverage of fungal ecology in ancient forests.
-[[mycoforestry-principles-stamets]] — Stamets' mycoforestry principles and techniques.
+- [[fungal-roles-in-old-growth-forests]] — detailed coverage of fungal ecology in ancient forests.
 [[stamets-mycoforestry-case-studies]] — specific case studies in mycoforestry.
-[[fungal-biodiversity-conservation-status]] — conservation status of fungal species globally.
 [[fungal-partnerships-with-wildlife]] — how animals and fungi interact in forest ecosystems.
 
 ## Historical Context
@@ -90,11 +76,7 @@ Conservation of old-growth fungal communities requires preservation of the fores
 
 ## See Also
 
-[[fungal-partnerships-with-wildlife]] — how animals and fungi interact.
-
 [[fungal-spore-dispersal-animals-wind]] — spore dispersal mechanisms.
-
-[[mycoforestry]] — using fungi in forest management.
 
 [[fungal-ecosystem-roles]] — roles of fungi in ecosystems.
 

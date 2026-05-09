@@ -441,7 +441,7 @@ to act is now, before more of this extraordinary kingdom is lost.
 - [[fungal-biodiversity-mangrove]]
 - [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]
 - [[fungal-biodiversity-alpine-arctic]]
-- [[fungal-biodiversity-extreme-environments]]
+- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-biodiversity-built-environments-indoor-mycobiome]]
 - [[fungal-biodiversity-deep-subsurface-caves]]
 - [[fungal-biodiversity-assessment-methods]]

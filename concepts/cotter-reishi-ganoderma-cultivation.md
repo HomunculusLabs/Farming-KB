@@ -134,8 +134,6 @@ applications.
 
 ## See Also
 
-- [[cotter-mushroom-nutrition-medicinal-compounds]]
 - [[cotter-mushroom-products-and-value-added-applications]]
-- [[cotter-log-stump-cultivation]]
 - [[cotter-mycoremediation-techniques]]
 - [[cotter-laboratory-setup]]

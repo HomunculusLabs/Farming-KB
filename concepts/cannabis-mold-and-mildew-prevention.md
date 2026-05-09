@@ -78,15 +78,7 @@ Mold and mildew are among the most destructive problems in cannabis cultivation,
 - Foul odor from the root zone
 
 **Treatment**:
-- See [[cannabis-root-rot-prevention-and-treatment]] for detailed root rot management
-
-### Damping Off
-
-**Appearance**: Seedling stem becomes thin and dark at the soil line, then falls over and dies.
-
-**Causes**: Fungal infection of young seedlings in overly wet, poorly aerated soil.
-
-**Prevention**: Sterile soil, proper watering, good air circulation. See [[cannabis-seedling-care-guide]].
+- See [[cannabis-seedling-care-guide]].
 
 ## General Prevention Strategy
 
@@ -128,10 +120,7 @@ Mold and mildew are among the most destructive problems in cannabis cultivation,
 
 ## Related Topics
 
-- [[cannabis-pest-management-guide]] — insect pest management
 - [[cannabis-drying-and-curing-guide]] — preventing mold during post-harvest
-- [[cannabis-flowering-stage]] — flowering management
 - [[cannabis-root-rot-prevention-and-treatment]] — root diseases
-- [[cannabis-plant-stress-types-and-recovery]] — stress and disease susceptibility
 - [[cannabis-grow-room-setup]] — environmental control setup
 - [[nutrient-movement-through-soil-to-plant-roots]]

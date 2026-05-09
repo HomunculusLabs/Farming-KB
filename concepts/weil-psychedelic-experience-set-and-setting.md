@@ -126,8 +126,6 @@ While Weil's emphasis on set and setting is well-supported, the framework has li
 
 ## Related
 
-- [[weil-intoxication-and-consciousness-theory]] — The theoretical framework behind set and setting
 - [[weil-the-natural-mind-altered-states-normalcy]] — The book's opening thesis
-- [[weil-cultural-attitudes-toward-altered-states]] — Cultural frameworks for psychedelic use
 - [[weil-the-mind-drug-relationship-paradigm]] — The pharmacological paradigm Weil challenges
 - [[mandrake-plant]] — Author biography

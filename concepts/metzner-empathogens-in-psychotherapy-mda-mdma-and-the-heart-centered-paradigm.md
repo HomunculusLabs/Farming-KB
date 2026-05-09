@@ -119,10 +119,8 @@ healing, simply amplified by the empathogenic compound.
 ## See Also
 
 - [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
-- [[metzner-four-paradigms-psychedelic-healing]]
 - [[metzner-mdma-assisted-therapy-research]]
 
 - Metzner Five Fundamental Conclusions of Psychoactive Assisted Psychotherapy
-- [[metzner-mdma-assisted-therapy-research]]
 - [[psychedelic-psychotherapy]]
 - Set and Setting Hypothesis

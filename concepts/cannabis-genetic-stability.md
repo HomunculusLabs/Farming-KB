@@ -136,11 +136,8 @@ than simply making seeds for profit.
 
 ## See Also
 
-- [[cannabis-true-breeding-ibl-strains]]
 - [[oner-cannabis-breeding-fundamentals]]
 - cannabis-hybridization|Hybridization
 - cannabis-backcrossing|Backcrossing
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-hardy-weinberg-equilibrium]]
-- [[cannabis-seed-banks-and-genetics]]
 - [[cannabis-seed-selection-and-strain-types]]

@@ -130,9 +130,6 @@ more psychoactive material per unit of weight.
 
 ## Related
 
-- [[cannabis-alchemy-overview]]
-
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]
 - [[lemon-cannabis-alchemy-isomerization]]
 - [[lemon-cannabis-alchemy-tinctures-and-edibles]]

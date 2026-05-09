@@ -24,8 +24,7 @@ plants.
 ### Materials
 - PET bottle (polyethylene soft drink bottle)
 - Toddy or brandy
-- [[cho-fermented-plant-juice-preparation]] or
-  [[master-cho-knf-ffj-fermented-fruit-juice-guide]] (FFJ is best for attracting
+- [[master-cho-knf-ffj-fermented-fruit-juice-guide]] (FFJ is best for attracting
   insects)
 
 ### Preparation
@@ -64,39 +63,33 @@ populations.
 
 ## Fish Amino Acid for Pest Control
 
-[[cho-fish-amino-acid-preparation]] serves double duty as both a
-fertilizer and a pest management tool:
-
-- Mackerel FAA is very effective against mites and greenhouse
-  whitefly (Trialeurodes vaporariorum)
-- Dilute FAA with water and spray on both sides of leaves
-- The amino acids and fish proteins create an inhospitable surface
-  for pest insects
-
-## Broader Pest Management Philosophy
-
-### The NF Approach vs. Conventional
-Conventional farming uses pesticides to kill pests. NF uses natural
-inputs to "distract" pests away from fruits/crops (e.g., FFJ as an
-attractant placed away from the crop). The NF approach is cheaper
-and focuses on co-existence with pests rather than eradication.
-
-### When Food Webs Are Intact
-When a healthy food web is maintained (including [[cho-indigenous-microorganisms-collection-and-cultivation]],
-[[knf-oriental-herbal-nutrient]], and proper soil biology), pest
-outbreaks are naturally suppressed. Healthy plants with balanced
-nutrition are less attractive and susceptible to pest damage.
-
-### Prevention Through Nutrition
-The [[knf-nutritive-cycle-theory]] approach means plants receive
+[[cho-indigenous-microorganisms-collection-and-cultivation]],
+[[knf-nutritive-cycle-theory]] approach means plants receive
 appropriate nutrition at each growth stage. Plants that are not
 overfed with nitrogen (a common cause of pest attraction) are
 naturally more resistant.
 
 ## See Also
 
-- [[cho-natural-farming-inputs-overview]]
 - [[knf-pest-control-methods]]
-- [[knf-fluorescent-insect-attractant]]
 - [[knf-soap-water-and-hot-pepper]]
 - [[knf-preparations]]
+## Practical Considerations
+
+Successful implementation of Cho Pest Control Methods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -71,21 +71,13 @@ Duration: 10 - 15 h.
 
 ## See Also
 
-- [[muira-puama]]
-
 - [[elsholtzia-ciliata]]
 
 me
 
 metaescaline
 
-[[escaline-entity]]
-
 [[mescaline-entity]]
-
-[[3-tme-entity]]
-
-5-tme
 
 [[3-te-entity]]
 

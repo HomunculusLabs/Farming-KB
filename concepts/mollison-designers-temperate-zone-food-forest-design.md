@@ -22,8 +22,7 @@ natural woodland ecosystems while producing food, fuel, fiber, and medicine.
 Bill Mollison's *Permaculture: A Designers' Manual* presents the food forest
 as a self-maintaining, multi-strata polyculture that requires decreasing
 inputs over time as the system matures. This approach directly applies
-[[mollison-designers-permaculture-principles-and-ethics]] to perennial food production and
-integrates with [[mollison-designers-triazonal-cultivation-system]] for
+[[mollison-designers-triazonal-cultivation-system]] for
 vertical space optimization.
 
 ## The Seven Layers of a Food Forest
@@ -96,17 +95,7 @@ fruit tree might include:
 
 These guilds reduce or eliminate the need for external fertility inputs and
 pest management, creating self-regulating plant communities. The concept
-extends [[mollison-designers-intensifying-small-farm-production]] strategies
-into perennial systems.
-
-## Herbaceous Layer and Ground Covers
-
-The herbaceous layer provides the greatest diversity per unit area in a food
-forest. Perennial vegetables, culinary herbs, and medicinal plants fill
-ecological niches between trees and shrubs. Many of these species are adapted
-to partial shade and perform well in the dappled light beneath the canopy.
-
-Ground covers are critical for [[mollison-designers-humus-building-and-soil-organic-matter]].
+extends [[mollison-designers-humus-building-and-soil-organic-matter]].
 Living ground covers provide continuous organic matter input through root
 exudates and leaf drop, suppress weed competition, and maintain soil moisture.
 A mix of nitrogen-fixing and non-fixing ground covers ensures both soil
@@ -128,9 +117,7 @@ and accelerates the transition from open land to productive woodland.
 
 ## Integration with Water and Earthworks
 
-Food forests are typically integrated with [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-for passive irrigation. Trees planted on swale berms benefit from stored
-subsurface moisture. [[mollison-designers-water-purification-and-storage-principles]]
+Food forests are typically integrated with [[mollison-designers-water-purification-and-storage-principles]]
 systems can supply supplementary irrigation during establishment. The dense
 vegetation of a mature food forest also contributes to [[mollison-designers-earthworks-for-erosion-control]]
 by intercepting rainfall and reducing surface runoff velocity.

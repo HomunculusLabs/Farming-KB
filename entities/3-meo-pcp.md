@@ -126,7 +126,6 @@ slowing, and craving. The compulsive redose potential is notably high.
 - **Australia:** Schedule 9 (prohibited substance).
 
 It is commonly encountered online despite legal restrictions.
-
 ## Related Compounds
 
 - **PCP (Phencyclidine):** Parent compound, less potent, longer history
@@ -142,9 +141,6 @@ It is commonly encountered online despite legal restrictions.
 
 ## See Also
 
-- [[pcp]]
-
 - [[ketamine]]
-- [[deschloroketamine]]
 - [[methoxetamine]]
 - [[dmt]]

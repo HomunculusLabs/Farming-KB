@@ -1,36 +1,12 @@
-# Darwin's [[phototropism]] Experiments
+# Darwin's  Experiments
 
 ## Overview
 
-Charles Darwin's experiments on phototropism — the tendency [[spirit-mothers-of-plants]] to grow toward light — represent some of the most elegant and foundational work in [[stephen-hales-plant-physiology]].
-
-Conducted in the late [[nineteenth-century-mushroom-literature]] and published in his final book, *The Power of [[darwin-power-of-movement-in-plants]] es-of-life-in-plants]]* (1880), these studies demonstrated that plants possess a rudimentary form of sensory perception.
-
-The experiments revealed that a plant's tip detects light and sends a signal downward, causing the stem to bend.
-
-This finding challenged the assumption that plants are passive organisms and laid the groundwork for modern understandings of [[plant-sensory-biology]].
-
-The significance of these experiments extends well beyond botany, touching on fundamental questions about perception, information processing, and what it means to sense the world.
-
-## Darwin's Botanical Turn
-
-Charles Darwin is best known for *On the Origin of Species* (1859), but many people are unaware that he spent the next twenty years deeply engaged in botanical research.
-
-After publishing his landmark work on evolution, Darwin turned his attention to the movement of plants — a subject that had fascinated him since his voyage on the *Beagle*.
-
-His botanical studies were extensive. He investigated climbing plants, insectivorous species, and the movements of roots and shoots.
-
-These projects were not a departure from his evolutionary thinking; rather, they extended it into new territory.
-
-Darwin believed that understanding how plants moved and responded to their environment could reveal universal principles of biological adaptation.
-
-By the late 1870s, Darwin — working closely with his son Francis — had accumulated enough evidence to synthesize decades of observation into a single, comprehensive volume.
-
-The result was *The Power of Movement in Plants*, published in 1880, which contained the phototropism experiments that would become classics in the field.
+Charles Darwin's experiments on phototropism — the tendency  [[phloem-sap-composition-and-long-distance-signaling-in-plants]]*, published in 1880, which contained the phototropism experiments that would become classics in the field.
 
 The book was widely read and influenced a generation of plant biologists, even as Darwin's health declined in his final years.
 
-## The 1880 [[canary-grass-phototropism-model-organism]] Experiment
+## The 1880  Experiment
 
 The centerpiece of Darwin's phototropism research was a deceptively simple experiment using canary grass (*Phalaris canariensis*) seedlings.
 
@@ -58,21 +34,7 @@ The pattern was clear: if the tip could "see" the light, the plant bent. If the 
 
 These five conditions led Darwin to a crucial distinction: the site of light perception and the site of the bending response are physically separated.
 
-The tip of the seedling acts as the sensory organ — it is the part that "sees" the light. The bending occurs lower down in the stem.
-
-When the tip was removed or shielded from light, the stem could not bend, even though the bending region itself was fully healthy and unobstructed.
-
-Conversely, when the bending region was covered but the tip was exposed, the plant bent normally.
-
-This proved that the tip detects the light and then somehow communicates that information downward to the stem.
-
-Darwin described this signal transmission with remarkable prescience. He proposed that some "influence" travels from the tip to the lower tissues, directing them to grow unevenly and produce the characteristic curve.
-
-Decades later, this influence was identified as the plant hormone auxin, which redistributes to the shaded side of the stem and causes cells there to elongate more than those on the illuminated side.
-
-The identification of auxin was one of the great triumphs of twentieth-century plant biology, and it traced its origins directly back to Darwin's seedling experiments.
-
-## Julius von Sachs and Blue Light
+The tip of the seedling acts as the sensory organ — [[julius-von-sachs-blue-light-phototropism-discovery]] and Blue Light
 
 Darwin's experiments built upon earlier work by the German botanist Julius von Sachs.
 
@@ -88,7 +50,7 @@ Combined with Darwin's work showing that the tip was the perceptive organ, it be
 
 ## Implications for Plant Vision
 
-The concept that plants can "see" is central to [[daniel-chamovitz]]'s *What a Plant Knows*. Chamovitz uses Darwin's phototropism expe [[plant-sensory-biology-and-intelligence]] primary example of plant sensory capability.
+The concept that plants can "see" is central to 's *What a Plant Knows*. Chamovitz uses Darwin's phototropism expe  primary example of plant sensory capability.
 
 While plants do not have eyes, brains, or nervous systems, they nonetheless possess photoreceptors — proteins that absorb light and initiate biochemical signaling cascades.
 
@@ -104,7 +66,7 @@ Darwin's phototropism experiments hold a distinguished place in the history of b
 
 Their influence can be traced across multiple disciplines, from molecular biology to the philosophy of mind.
 
-First, they represent some of the earliest rigorous experimental work on [[plant-sensory-biology-and-intelligence]]. Before Darwin, most observations of plant movement were descriptive. His systematic, controlled approach — varying one condition at a time across five seedlings — set a new standard for plant physiology.
+First, they represent some of the earliest rigorous experimental work on . Before Darwin, most observations of plant movement were descriptive. His systematic, controlled approach — varying one condition at a time across five seedlings — set a new standard for plant physiology.
 
 Second, the experiments directly influenced the discovery of auxin in the 1920s. Darwin's suggestion that a transmitted "influence" caused the bending led other researchers to search for a chemical messenger, culminating in the identification of indole-3-acetic acid as the first known plant hormone.
 
@@ -119,3 +81,7 @@ Finally, these experiments continue to resonate in contemporary plant science. M
 - Darwin, Charles, and Francis Darwin. *The Power of Movement in Plants*. John Murray, 1880.
 
 - Sachs, Julius von. *Handbuch der Experimental-Physiologie der Pflanzen*. Wilhelm Engelmann, 1865.
+
+## See Also
+- [[what-a-plant-knows-plant-vision-and-light-perception]]
+- [[plant-photoreceptors-and-mechanism-of-light-perception]]

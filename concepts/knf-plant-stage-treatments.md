@@ -11,51 +11,27 @@ sources:
 
 ## Overview
 
-Korean Natural Farming prescribes specific treatments at different stages of a plant's life cycle, based on the [[knf-nutritive-cycle-theory]]. Each growth stage has distinct nutritional requirements, and supplying the right inputs at the right time maximizes plant health, yield, and quality. The treatments described here are drawn from Cho's Global Natural Farming methodology and cover five key stages: vegetative growth, changeover period, reproductive growth, sweetness promotion, and crack prevention.
-
-The general dilution ratio for most KNF applications is 1:1000 ml of water. For a complete catalog of all inputs, see [[knf-preparations]].
+Korean Natural Farming prescribes specific treatments at different stages of a plant's life cycle, based on the [[knf-preparations]].
 
 ## Stage 1: Vegetative Growth Treatment
 
-The [[knf-vegetative-growth-stage]] is the foundational period where the plant builds leaves, stems, and root mass. Treatment during this stage is used to promote vegetative growth and increase the volume and size of crops. Nitrogen-dominant inputs are the primary focus.
-
-Key inputs include [[fermented-plant-extract-fpe]] for amino acids and growth stimulants, [[knf-water-soluble-calcium]] for cell wall structure, and [[water-soluble-potassium-wp]] for photosynthesis support. The NF inputs are diluted at a ratio of 1:1000 ml of water, adjusted depending on necessity. Consult [[knf-input-application-timing]] for scheduling details.
-
-## Stage 2: Changeover Period Treatment
-
-The changeover period, also known as "morning sickness," is the transitional stage between vegetative and reproductive growth. During this phase, the plant's nutritional needs shift from nitrogen to phosphorus. For a thorough explanation, see [[knf-input-application-timing]].
+The [[fermented-plant-extract-fpe]] for amino acids and growth stimulants, [[water-soluble-potassium-wp]] for photosynthesis support. The NF inputs are diluted at a ratio of 1:1000 ml of water, adjusted depending on necessity. Consult [[knf-input-application-timing]].
 
 This treatment is given to supply the demand for phosphoric acid during this stage. Phosphorus-dominant inputs are the primary preparations used. The NF inputs are diluted at a ratio of 1:1000 ml of water. Timely application is critical — delaying treatment can result in weak flower formation and reduced fruit set.
 
 ## Stage 3: Reproductive Growth Treatment
 
-During the [[knf-reproductive-growth-stage]], the plant focuses on producing flowers, fruit, and seeds. At this stage, more calcium is required to support fruit development, cell wall integrity, and disease resistance.
-
-Recommended inputs include [[water-soluble-calcium-wca]] as the primary calcium source, [[oriental-herbal-nutrient-ohn]] for trace minerals and bioactive compounds, and [[knf-seawater-and-fermented-seawater]] for balanced minerals. The NF inputs are diluted at a ratio of 1:1000 ml of water.
+During the [[water-soluble-calcium-wca]] as the primary calcium source, [[knf-seawater-and-fermented-seawater]] for balanced minerals. The NF inputs are diluted at a ratio of 1:1000 ml of water.
 
 ## Stage 4: Sweetness Promotion
 
 A specialized treatment for promoting ripeness and enhanced sweetness in fruits is applied near harvest time:
 
-- [[oriental-herbal-nutrient-ohn]]: 1 ml per 1000 ml of water.
-
 - [[water-soluble-calcium-wca]]: 2 ml per 1000 ml of water.
 
-- [[knf-seawater-and-fermented-seawater]] (SW): 30 ml per 1000 ml of water.
-
-All ingredients are mixed in 1000 ml of water and applied as a foliar spray. Spray 15 days and 2 days before harvesting for best results.
-
-## Stage 5: Crack Prevention
-
-Fruits crack when rains arrive after a long drought. KNF offers a preventive treatment that strengthens cell walls:
-
 - [[oriental-herbal-nutrient-ohn]]: 1 ml per 1000 ml of water.
 
-- [[brown-rice-vinegar-brv]]: 2 ml per 1000 ml of water.
-
 - [[fermented-plant-extract-fpe]]: 2 ml per 1000 ml of water.
-
-- [[knf-lactic-acid-bacteria-serum]] (LAB): 1 ml per 1000 ml of water.
 
 - [[knf-seawater-and-fermented-seawater]] (SW): 30 ml per 1000 ml of water.
 
@@ -73,16 +49,69 @@ The following principles apply across all KNF stage treatments:
 
 - Apply foliar sprays during early morning or late evening.
 
-- For preparation details, refer to [[knf-preparations]].
-
-- If issues arise, consult [[knf-troubleshooting]] for diagnostic support.
+- For preparation details, refer to [[knf-troubleshooting]] for diagnostic support.
 
 ## See Also
 
-- [[knf-nutritive-cycle-theory]] — The foundational theory governing stage-specific treatments.
-
 - [[knf-vegetative-growth-stage]] — Detailed information on the vegetative growth phase.
 
-- [[knf-reproductive-growth-stage]] — Detailed information on the reproductive growth phase.
-
 - [[knf-input-application-timing]] — In-depth coverage of the changeover period.
+## Practical Considerations
+
+When working with Plant Stage Treatments, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

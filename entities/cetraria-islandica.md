@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). [[lichens]] of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of North America. Yale University Press.
   - Ingólfsdóttir, K. (2002). "Usnic Acid." Phytochemistry, 61(7), 729–736.
   - Freysdottir, J. et al. (2008). "Immunomodulatory Effects of Lichen-Derived Polysaccharides." Phytotherapy Research, 22(9), 1175–1180.
   - Odinokova, L.N. et al. (2012). "Biologically Active Substances from the Lichen Cetraria islandica." Chemistry of Natural Compounds, 48(3), 465–467.
@@ -30,19 +30,19 @@ Despite its common name, it is not a moss but a symbiotic organism composed
 of an ascomycete fungus (mycobiont) and a green algal photobiont
 (photobiont).
 
-It has been [[query-what-is-a-wavelet-transform-used-for]] centuries across Scandinavia, Iceland, the British
+It has been  centuries across Scandinavia, Iceland, the British
 Isles, and Central Europe as a remedy for respiratory ailments, digestive
 disorders, and wound healing.
 
-Iceland moss is olichenshe most commercially harvested lichens in the world,
+Iceland moss is olichenshe most commercially harvested [[lichens]] in the world,
 with wildcrafted material collected extensively in northern and alpine
 regions.
 
 Its pharmacological interest centers on immunomodulatory polysaccharides
-(lichenin and isolichenin), bitter lichen acids (prsingh-[[ergot-alkaloid-chemistry-history]]-[[fungal-secondary-metabolites-environment]]-metabolites]]),
-and antimicrobial [[biodiversity-fungal-secondary-metabolites]].
+(lichenin and isolichenin), bitter lichen acids (prsingh---metabolites),
+and antimicrobial .
 
-## Taxonomy [[trichome-development-and-morphology]]
+## Taxonomy 
 
 **Classification:** Fungi > Ascomycota > Lecanoromycetes > Lecanorales >
 Cetrariaceae > Cetraria
@@ -60,7 +60,7 @@ tan with white mottling on the lower surface.
 Margins are typically curled inward, abloomfield-asterophora-and-mycoparasites-of-fruiting-bodiesis matte with
 occasional darker reticulations.
 
-Apothecia ([[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]) are rare but when present, brown and lecanorine,
+Apothecia () are rare but when present, brown and lecanorine,
 borne on lobe tips.
 
 **Distinctive features:** The flattened, corrugated thallus with a paler
@@ -83,7 +83,7 @@ volcanic substrates, where it forms extensive mats across the ground.
 It occurs at elevations from sea level to approximately 2,500 meters in
 alpine zones of the Alps, Carpathians, and Rocky Mountains.
 
-C. islandica is relatively tolerant of [[air-pollution-fungal-community-responses]] compared to many
+C. islandica is relatively tolerant of  compared to many
 lichen species, though it declines in heavily industrialized areas.
 
 ## Phytochemistry
@@ -143,7 +143,9 @@ IL-6) in stimulated macrophages.
 
 Topical applications exploit the antimicrobial lichen acids for wound
 healing and minor skin infections.
+## See Also
+- [[teaming-with-microbes-specific-bacteria-fungi]]
 
-## Cultivation and Harvesting
+## See Also
 
-Cetraria islandica is not commercially cultivated — all material is
+- [[biodiversity-lichenized-fungi-symbiosis]]

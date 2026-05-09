@@ -142,8 +142,6 @@ Nickel (Ni) is an immobile element in plants. When nickel is absent, nitrogen in
 accumulates in leaves, resulting in leaf tip burns. It is a mineral present in several different
 kinds of rocks.
 
-- [[lowenfels-nutrients-potassium-calcium-magnesium]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plant-micronutrients-and-their-essential-functions]]
 - [[plant-nutrient-uptake-mechanisms]]

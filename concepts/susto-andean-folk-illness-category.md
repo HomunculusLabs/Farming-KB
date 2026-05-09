@@ -21,7 +21,7 @@ Susto is one of the most widespread folk illness categories in Latin America, pa
 
 These illness categories form the primary diagnostic framework used by ayahuasqueros (ayahuasca healers) in urban Peruvian settings like Iquitos and Belén. Understanding these syndromes is essential for understanding how ayahuasca is used therapeutically in mestizo healing contexts.
 
-The following descriptions are drawn from Marlene Dobkin de Rios's chapter "Curing with Ayahuasca in an Urban Slum" in [[hallucinogens-and-shamanism-harner-anthology]], based on her fieldwork in [[urban-ayahuasca-iquitos-healing]].
+The following descriptions are drawn from Marlene Dobkin de Rios's chapter "Curing with Ayahuasca in an Urban Slum" in [[urban-ayahuasca-iquitos-healing]].
 
 ## Susto (Soul Loss / Fright)
 
@@ -137,11 +137,7 @@ Dobkin de Rios observed that the mestizo population of the Belén district turne
 
 ## See Also
 
-- [[shanshi-coriaria-thymifolia-andean-entheogen]]
-
 - [[shamanic-use-of-psychedelics]]
-
-- [[psychedelic-therapy-shamanism-comparison]]
 
 - [[psychedelic-spirituality-and-religion]]
 

@@ -16,52 +16,7 @@ significance of fungi, particularly psychoactive species, in human
 societies. The relationship between humans and consciousness-altering
 mushrooms extends back millennia and has played a profound role in
 shaping religious practices, social structures, and cultural identity
-across diverse civilizations. [[terence-mckenna]], in Food of the Gods,
-argued that psychoactive fungi were instrumental in the development of
-human consciousness, language, and culture.
-
-## Shamanism and Visionary Plants
-
-Shamanism is the practice of Upper Paleolithic traditions of healing,
-divination, and theatrical performance based on natural magic, developed
-ten to fifty thousand years ago. Mircea Eliade demonstrated that
-shamanism maintains surprising internal coherency across all times and
-places. Whether the shaman is an Arctic-dwelling Inuit or a Witoto of
-the Upper Amazon, certain techniques and expectations remain constant.
-The most important invariant is ecstasy, a state of consciousness that
-connects the practitioner with what McKenna calls the "superhuman
-plane."
-
-The ecstatic part of the shamanic initiation involves a symbolic death
-and resurrection. The novice undergoes initiatory sickness and trances,
-lying as though dead or in deep trance for days. During this time,
-helping spirits approach in dreams and provide instruction. The novice
-undergoes an episode of mystical death and resurrection, sometimes
-envisioned as reduction to a skeleton and reclothing with new flesh, or
-being boiled in a cauldron and devoured by spirits. The shaman emerges
-transformed from a profane into a sacred state of being, invested with
-the power to cure and divine.
-
-## Techniques of Ecstasy
-
-Not all shamans use intoxication with plants to obtain ecstasy, but all
-shamanic practice aims to produce this state. Drumming, manipulation of
-breath, ordeals, fasting, theatrical illusions, and sexual abstinence
-are all time-honored methods for entering trance. Yet none is as
-effective, as ancient, and as overwhelming as the use of plants
-containing chemical compounds that produce visions.
-
-Unlike modern medicine where drugs are given to patients, in shamanism
-the shaman, not the patient, typically takes the psychoactive plant.
-The motivation is entirely different from modern pharmacology. The
-shamanic plants allow the healer to journey into an invisible realm
-where the causality of the ordinary world is replaced with the rationale
-of natural magic. In this realm, language, ideas, and meaning have
-greater power than cause and effect.
-
-## The Amazonian Tradition
-
-McKenna encountered psilocybin mushrooms at San Augustine in the Alto
+across diverse civilizations. [[psilocybin-mushrooms]] at San Augustine in the Alto
 Magdalena of southern Colombia, and visionary brews made from
 Banisteriopsis vines (yage or ayahuasca) near Florencia. These
 experiences introduced him to a class of experiences vital to restoring
@@ -124,10 +79,6 @@ refreshing as they have always been.
 
 ## See Also
 
-- [[cattle-dispersal-psychoactive-fungi-australia]]
-
-- mushroom taxonomy and classification for the scientific
-  classification of fungi including psychoactive species
 - [[fungal-ecology-forest-ecosystems]] for the ecological context of
   fungi in their natural habitats
 - [[stamets-mushrooms-world-identification-safety]] for practical identification

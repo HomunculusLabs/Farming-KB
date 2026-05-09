@@ -3,7 +3,7 @@ title: Saprobic Soil Fungi — Ecology, Biomass, and Survey Methods
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -81,21 +81,12 @@ Organic matter often primarily in the form of relatively intact litter only.
 
 ## Seasonal and Spatial Dynamics
 
-Soil fungal communities are not static — they fluctuate significantly across seasons and with soil depth. [[macrofungi-seasonality-annual-variation]] in fruiting above ground reflect changes in below-ground mycelial activity, though the relationship is complex and not fully understood. Soil moisture, temperature, organic matter input from leaf fall, and root exudate patterns all drive temporal shifts in community composition. Spatial heterogeneity is also considerable: fungal communities can differ dramatically across centimeter scales depending on microhabitat conditions, root proximity, and organic matter distribution.
-
-## Important Products
-
-Fermentation products of soil fungi include penicillin, cephalosporin, cyclosporin, and lovastatin — all important in world medicine. Many additional bioactive compounds from soil fungi continue to be discovered through [[soil-fungal-isolation-techniques]] and screening programs, contributing to pharmaceuticals, agricultural applications, and industrial enzymes. The vast majority of soil fungal species remain uncultured and uncharacterized, representing an enormous reservoir of potentially useful biochemical diversity.
+Soil fungal communities are not static — they fluctuate significantly across seasons and with soil depth. [[soil-fungal-isolation-techniques]] and screening programs, contributing to pharmaceuticals, agricultural applications, and industrial enzymes. The vast majority of soil fungal species remain uncultured and uncharacterized, representing an enormous reservoir of potentially useful biochemical diversity.
 
 ## See Also
 
-- [[fungal-species-richness-and-diversity-indices]]
-
 - [[fungal-culture-media-formulas-applications]]
-
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

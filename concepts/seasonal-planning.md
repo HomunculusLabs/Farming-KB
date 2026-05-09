@@ -69,7 +69,7 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Planting**: Everything in ground. Transplant sweet potatoes (slips), successions of beans, corn.
 - **[[herbal-medicine]]**: Transplant calendula, chamomile, holy basil, ashwagandha seedlings.
 - **Pest management**: Install row covers on brassicas. Set up traps for cucumber beetles, squash bugs.
-- **Cannabis**: Full vegetative growth. Defoliate lower growth. Monitor for pests. See cannabis pest management.
+- **Cannabis**: Full vegetative growth. Defoliate lower growth. Monitor for pests. See [[cannabis-pest-management]].
 - **Animals**: Full pasture rotation. Watch for heat stress in ducks (shade, water). Goats — copper bolus if needed.
 - **Compost**: Turn piles every 2-3 weeks. Harvest finished compost for garden beds.
 
@@ -148,3 +148,40 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 | Spinach | Every 3 weeks | Mar-Apr, Sep-Oct | Direct sow |
 
 ## Fall/Winter Growing (Cold-Hardy Crops)
+
+With a simple low tunnel or cold frame, these crops survive to 15-20°F air temperature:
+- Spinach, kale, collards, mâche, claytonia, mizuna, tatsoi
+- Carrots, beets, parsnips, leeks, radishes (under heavy mulch)
+- Garlic, onions (overwintering)
+
+## Perennial Planning Timeline
+
+| Plant | Plant When | First Harvest | Notes |
+|-------|-----------|---------------|-------|
+| Asparagus | Spring (crowns) | Year 3 | 10+ year productivity |
+| Blueberries | Spring/Fall | Year 3 | Need acidic soil (pH 4.5-5.5) |
+| Fruit trees | Late winter/early spring | Year 3-5 | Bare-root cheapest |
+| Elderberry | Spring | Year 2 | See [[herbal-medicine]] |
+| Raspberry | Spring/Fall | Year 2 | Everbearing crop same year |
+| Strawberries | Spring (bareroot) | Year 1 (light) | Replace beds every 3-4 years |
+| Herbs (perennial) | Spring/Fall | Year 1 | Sage, thyme, rosemary, lavender, lemon balm |
+
+## Integrated Compost Turning Schedule
+
+- **Spring** (Mar-May): Turn every 2 weeks — high nitrogen from animal bedding and spring weeds. Hot compost for garden beds.
+- **Summer** (Jun-Aug): Turn every 1-2 weeks — rapid decomposition. Add grass clippings in thin layers.
+- **Fall** (Sep-Nov): Turn every 3-4 weeks — incorporate fallen leaves, garden residue. Build winter cover crop piles.
+- **Winter** (Dec-Feb): Turn monthly or let rest. Vermicompost bins active indoors/greenhouse. Bokashi ferments kitchen waste.
+
+## Seed Ordering Timeline
+
+- **December-January**: Order seeds from catalogs (Johnny's, High Mowing, Baker Creek, Territorial, Southern Exposure). Garlic and perennial seeds early.
+- **February**: Order potatoes, sweet potato slips, bare-root plants (berries, trees, asparagus). Cover crop seed.
+- **March-April**: Last-minute fill-ins. Succession crop seeds.
+- **August-September**: Order fall cover crop seed, garlic for fall planting, fall transplants.
+
+Cross-reference with [[seed-saving-techniques]] — grow open-pollinated varieties you intend to save seed from.
+
+## Related
+
+- [[vegetable-garden-guide]]

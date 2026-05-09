@@ -27,29 +27,6 @@ Phytoextraction and phytostabilization are two phytoremediation
     and long-term land use goals.
 
 ## Phytoextraction
-[[phytoextraction-mechanisms]]
-
-Phytoextraction uses plants, particularly hyperaccumulators, to absorb
-    heavy metals from soil and translocate them to above-ground tissues for
-    harvest and disposal. The process relies on root exudates that mobilize
-    metals from soil particles, membrane transporter proteins (ZIP, NRAMP, and
-    CAX families) that uptake metals across root cell walls, and xylem
-    transport that concentrates metals in shoots and leaves. Approximately 500
-    known hyperaccumulator species exceed threshold concentrations of 100
-    mg/kg for cadmium, 1,000 mg/kg for nickel, cobalt, copper, lead, and
-    chromium, and 10,000 mg/kg for zinc and manganese.
-
-Chelator-assisted phytoextraction using EDTA or less-leaching
-    alternatives like EDDS enhances metal solubility and plant uptake, though
-    groundwater contamination risks require careful management. Post-harvest
-    biomass disposal options include composting (with mobilization risk),
-    incineration (90 to 95 percent volume reduction with potential metal
-    recovery), and the emerging field of phytomining for economically valuable
-    metals. The key advantage is permanent contaminant removal from the site,
-    potentially achieving regulatory cleanup standards over multiple growing
-    seasons.
-
-## Phytostabilization
 [[phytostabilization]]
 
 Phytostabilization uses plants to immobilize contaminants through
@@ -132,7 +109,5 @@ The most effective remediation programs combine both strategies across
 
 ## See Also
 
-- [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
-- [[comparison-in-situ-vs-ex-situ-bioremediation]]
 - [[rhizofiltration]]

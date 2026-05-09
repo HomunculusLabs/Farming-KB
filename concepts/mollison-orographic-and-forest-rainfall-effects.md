@@ -134,12 +134,8 @@ For permaculture designers, the implications are clear:
 
 ## See Also
 
-- [[forest-edge-windbreak-rainfall-compression]]
-
 - [[mollison-valley-and-mountain-climate-effects]]
 
-- [[mollison-rain-interception-and-throughfall-in-forests]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
-- [[mollison-forest-water-climate]]
 - [[mollison-climate-site-analysis-permaculture]]
 - [[mollison-pdc-swale-design-water-harvesting]]

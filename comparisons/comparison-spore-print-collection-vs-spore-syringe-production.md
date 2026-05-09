@@ -22,35 +22,6 @@ and require different levels of technique, equipment, and sterile procedure.
 Every cultivator benefits from mastering both skills in sequence.
 
 ## Spore Print Collection
-[[spore-print-collection]]
-
-Spore printing is the process of placing a mushroom cap gills-down onto
-paper, glass, or foil to capture the spore deposit as the mushroom releases
-them. The resulting pattern mirrors the gill, pore, or tooth structure
-beneath and provides one of the most important identification features in
-mycology: spore color. Spore prints range from white and cream through pink,
-brown, rust, purple-brown, to black, with color consistency within most
-genera serving as a reliable taxonomic character.
-
-The technique is straightforward and accessible to beginners. A mature
-mushroom cap (convex, not yet flat) is severed from the stem and placed
-gills-down on appropriate paper: white paper for dark-spored mushrooms,
-colored paper for white-spored species. The cap is covered with a cup or bowl
-to slow drying and left for at least 12 hours. A single cap can yield up to
-6 distinct prints over a week before it dries or succumbs to contamination.
-Stamets' preferred method uses glass: two panes sealed with tape create a
-"spore gallery" that protects spores from UV damage for years.
-
-Spore prints are essential for taxonomic identification, useful for art, and
-serve as the starting material for cultivation. They can be stored dry in
-airtight containers for years with refrigeration extending viability. However,
-prints are not directly usable for inoculation; they must first be converted
-into syringes or scraped onto agar media. The main limitation is
-contamination: prints taken in open air may contain mold spores and bacteria
-alongside the desired mushroom spores, requiring careful subsequent handling
-and often necessitating isolation on agar to obtain clean cultures.
-
-## Spore Syringe Production
 [[spore-syringe-production]]
 
 Spore syringe production transforms a spore print into a practical
@@ -117,8 +88,6 @@ The print remains the most reliable long-term storage format for mushroom
 genetics, while syringes are best seen as a convenient short-term tool.
 
 ## See Also
-- [[comparison-spore-syringe-vs-agar-culture]]
 - [[comparison-spore-syringe-vs-liquid-culture]]
-- [[comparison-spore-print-vs-agar-culture]]
 - [[comparison-tissue-culture-vs-seed-saving]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]

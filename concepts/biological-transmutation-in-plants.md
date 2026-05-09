@@ -117,13 +117,6 @@ with lunar phases.
 The implications for agriculture are enormous. Plants may be able to
 bring useful elements to soil for other plants, potentially reducing
 or eliminating the need for certain fertilizers. Understanding
-biological transmutation could revolutionize crop rotation, composting,
-and soil management. Certain plants may be capable of producing rare
-elements of industrial importance through biological nuclear processes.
-
-## Related Concepts
-
-- [[george-washington-carver-plant-work]]
-- [[biodynamic-agriculture-and-steiner]]
+biological transmutation could revolutionize crop rotation, [[george-washington-carver-plant-work]]
 - [[plants-and-electromagnetism]]
 - [[plant-perception]]

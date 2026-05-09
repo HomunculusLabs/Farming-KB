@@ -15,135 +15,86 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Tangie Strain Information." Leafly. https://www.leafly.com/strains/tangie
   - AllBud (2023). "Tangie Marijuana Strain Information." AllBud. https://www.allbud.com/marijuana-strains/sativa/tangie
-  - Smart, R. et al. (2017). "The Genetics of Cannabis sativa." Annual Review of Plant Biology, 68, 269–293.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
-  - Mudge, E.M. et al. (2019). "Cannabis Chemovar Taxonomy." Scientific Reports, 9, 17925.
----
-## Overview
+  - Smart, R. et al. (2017). "The Genetics of [[acapulco-gold-cannabis]]
+- [[cannabis-terpene-profiles]]
+- [[tangie-cannabis]]
+- ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+- cannabis-terpene-profiles-effects]]
+## Practical Applications
 
-Tangie is a sativa-dominant [[cannabis-strain-guide-reference]] renowned for its intensely
-citrus-forward aroma and flavor, among the most vividly orange-scented
-cultivars available in commercial cannabis markets.
+Tangie has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
 
-Bred by DNA Genetics in Amsterdam, Tangie was created as a modern
-revtangerine-dreamssic [[tangerine-dream]] genetics, which had declined in
-quality and availability by the early 2000s.
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
 
-The strain won first place in the Sativa category at the 2013 High Times
-Amsterdam Cannabis Cup, and subsequently earned multiple additional awards
-at competimaitake-growth-parameter-comparison-china-japan-north-america]] Europe and [[palmer-edible-mushrooms-north-america]].
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
 
-Tangie is distinguished by its remarkably bright tangerine-mandarin aroma
-and its uplifting, cerebrally focused effects that make it a popular
-daytime strain for creative work and social activity.
+## Key Considerations
 
-## Lineage
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
 
-Tangie is a cross between **California Orange** (also known as
-Cali-O) and an unnamed Skunk-derived selection.
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
 
-Calmckenna-mdma-and-drug-terror-of-the-1980srange is an old-school West Coast sativa-dominant hybrid
-dating to the 1980s, known for its sweet citrus flavor and moderate
-potency.
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
 
-The Skunk parent contributes the strain's pungent musky undertone and
-robust growth characteristics, balancing the refined citrus notes of
-California Orange.
+## Common Challenges
 
-The resulting cross is approximately 80% sativa and 20% indica, with
-the sativa dominance expressing in its tall stature, narrow leaflets,
-and cerebral effect profile.
+Practitioners commonly encounter several challenges when working with
+Tangie. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
 
-Some breeders have created backcrosses and fchocolopeosses using Tangie
-as a parent, including popular cultivars like Cherry Tangie and
-Tangilope (Tangie × Chocolope).
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
 
-## Appearance and Aroma
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
 
-Tangie plants produce medium to large, somewhat airy buds with an
-elongated, finger-like structure typical of sativa-dominant varieties.
+## Integration and Future Development
 
-The flowers are bright to medium green with occasional orange and gold
-hues, densely covered in translucent trichomes that give a glistening,
-sticky appearance.
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
 
-Pistils are prominently orange-amber, complementing the citrus theme of
-the strain.
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
 
-The aroma is Tangie's signature characteristic — an overwhelming wave
-of fresh tangerine and mandarin orange peel on first approach, followed
-by subtle notes of sweet citrus candy, pine, and earth.
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
 
-When broken apart, the buds release additional nuances of lemon zest,
-herbal skunk, and a faint diesel undertone from the Skunk lineage.
-
-The flavor closely mirrors the aroma: sweet tangerine dominates, with
-a citrus-rind astringency on the exhale and a lingering earthy finish.
-
-## Terpene and Cannabinoid Profile
-
-### Dominant Terpenes
-
-**[[limonene]]** is the overwhelmingly dominant terpene, present at
-significantly elevated levels compared to most [[purple-and-color-changing-cannabis-strains]] —
-responsible for the vivid tangerine aroma and contributing
-mood-elevating, stress-relieving effects.
-
-**[[myrcene]]** is present at moderate levels, providing herbal undertones
-and contributing to the strain's mild physical relaxation.
-
-**[[pinene]]** (both alpha and beta) adds pine and fresh-needle notes while
-potentially counteracting some of limonene's mental stimulation with
-focus-enhancing and bronchodilatory properties.
-
-**Caryophyllene** contributes subtle peppery spice and potential
-[[medicinal-mushroom-antioxidant-anti-inflammatory]] activity via CB2 [[beta-glucan-receptor-binding]].
-
-### Cannabinoid Content
-
-THC levels typically range from 15% to 22%, with select phenotypes
-reaching 25%.
-
-CBD content is very low, generally below 0.1%.
-
-The terpene-to-cannabinoid ratio is notably high, meaning the aromatic
-compounds significantly influence the overall experience — an
-"entourage effect" where limonene drives much of the mood elevation.
-
-## Effects and Medical Applications
-
-Tangie produces predominantly cerebral effects: euphoria, enhanced
-creativity, focused energy, and heightened sociability.
-
-Onset is rapid, felt within 5–10 minutes, with peak effects lasting
-2–3 hours. The experience is notably clear-headed, lacking the heavy
-body stone associated with indica-dominant strains.
-
-Common recreational effects include giggly euphoria, talkativeness,
-artistic inspiration, and mild sensory enhancement.
-
-In medical applications, Tangie is valued for mood disorders including
-depression, anxiety, and PTSD, where its uplifting effects provide
-acute symptom relief without sedation.
-
-It has also been used for fatigue, ADHD-related focus difficulties,
-and mild pain management where a functional daytime medication is needed.
-
-Side effects are generally mild but may include dry mouth, dry eyes,
-and in higher doses, mild anxiety or paranoia — particularly in
-THC-sensitive individuals.
-
-## Cultivation
-
-Tangie is considered moderately easy to grow, making it accessible to
-experienced novices and intermediate cultivators.
-
-It performs best in warm, Mediterranean-like climates when grown
-outdoors, with harvest typically in late October in the Northern
-Hemisphere.
-
-Indoor flowering time is 9–10 weeks, with yields of approximately
-10–14 ounces per square meter.
-
-The plants can grow tall and benefit from topping, low-stress training,
-or SCROG methods to control height and maximize light exposure.

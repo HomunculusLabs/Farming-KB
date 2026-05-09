@@ -110,8 +110,6 @@ of continuous PCP treatment.
 
 ## See Also
 
-- [[singh-fungal-metabolism-phenols-chlorophenols]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-composting-bioremediation-contaminated-soils]]
 - [[fungal-biosorption-desorption-regeneration]]
 - [[singh-chlorpyrifos-organophosphate-fungal-degradation]]

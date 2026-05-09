@@ -109,12 +109,8 @@ Despite his success, Brown's approach has faced criticism and skepticism from mu
 
 ## See Also
 
-- [[joel-salatin]] — rotational grazing pioneer and fellow regenerative farming advocate
 - [[allan-savory]] — holistic planned grazing developer
-- [[mark-shepard]] — restoration agriculture and keyline design practitioner
 - [[elaine-ingham]] — soil microbiologist and compost tea researcher
-- [[geoff-lawton]] — permaculture designer and educator
 - [[david-holmgren]] — co-originator of permaculture design principles
-- [[masanobu-fukuoka]] — natural farming pioneer and author of *The One-Straw Revolution*
 - [[keyline-design]] — water management and landscape hydration system
 - [[bill-mollison]] — co-originator of permaculture design science

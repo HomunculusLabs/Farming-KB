@@ -131,15 +131,10 @@ The field also provides a bridge between laboratory measurements and computation
 Modern multiphysics simulation often couples mechanical deformation with heat transfer, electromagnetism, chemistry, phase change, diffusion, or fluid flow.
 
 The most important practical skill is not merely solving equations but selecting the simplest model that captures the controlling physics at the relevant scale.
-
 ## See Also
 
-- [[lagrangian-mechanics]]
-
 - [[stress-strain-and-elasticity]]
-- [[navier-stokes-equations-fluid-dynamics]]
 - [[finite-element-method]]
-- [[fracture-mechanics-engineering-materials]]
 - [[heat-transfer-mechanisms]]
 - Rheology and viscoelastic material modeling
 

@@ -111,25 +111,14 @@ support plants that prefer fungally dominated soils.
 
 ## See Also
 
-- [[purpureocillium-lilacinum]]
-
 - [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
-
-- [[teaming-with-microbes-protists-and-nematode-predators]]
 
 - [[teaming-with-microbes-no-till-gardening-soil-health]]
 
-- [[teaming-with-microbes-compost-tea-and-microbial-inoculants]]
-
 - [[teaming-with-microbes-bacteria-and-archaea-in-soil]]
 
-- [[teaming-with-microbes-fungi]]
 - [[teaming-with-microbes-fungi-the-underground-network]]
-- [[teaming-with-microbes-mycorrhizal-associations]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-fb-ratio]]
 - [[teaming-with-microbes-decomposition-pathways]]
-- [[teaming-with-microbes-soil-food-web-overview]]
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[teaming-with-microbes-humus-formation-and-glomalin]]
 - [[teaming-with-microbes-old-growth-forest]]

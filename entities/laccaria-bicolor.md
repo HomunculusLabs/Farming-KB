@@ -97,8 +97,6 @@ and fertilizers in tree crop systems.
 
 ## See Also
 
-- [[laccaria-laccata]]
 - [[paxillus-involutus]]
-- [[pisolithus-tinctorius]]
 - [[suillus-granulatus]]
 - [[cenococcum-geophilum]]

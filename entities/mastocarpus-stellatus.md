@@ -105,16 +105,10 @@ Conservation efforts focus on sustainable harvest management rather than active 
 
 ## See Also
 
-- [[chondrus-crispus]]
 - [[gracilaria-verrucosa]]
-- [[kappaphycus-alvarezii]]
 - [[eucheuma-denticulatum]]
-- [[porphyra-umbilicalis]]
 - [[palmaria-palmata]]
-- [[fucus-vesiculosus]]
 - [[fucus-serratus]]
-- [[ulva-lactuca]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[pyropia-yezoensis]]
 - [[undaria-pinnatifida]]

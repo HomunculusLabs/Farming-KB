@@ -28,7 +28,7 @@ One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for
 ### Mechanisms
 - **Memory enhancement:** Enhances dendritic branching and synaptic communication in the hippocampus (memory center). Increases synaptic protein expression.
 - **Antioxidant:** Potent free radical scavenging in brain tissue. Increases endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase).
-- **Anti-inflammatory:** Reducserotoninnflammation by inhibiting COX-2, LOX, and TNF-alpha in brain tissue.
+- **Anti-inflammatory:** Reduces neuroinflammation by inhibiting COX-2, LOX, and TNF-alpha in brain tissue.
 - **Cholinergic:** May enhance acetylcholine release and cholinesterase inhibition, supporting memory formation.
 - **Serotonergic:** Modulates serotonin receptors (5-HT1A, 5-HT2A), contributing to anxiolytic and antidepressant effects.
 - **Neurogenesis:** Promotes growth of new neurons in the hippocampus.
@@ -42,7 +42,7 @@ One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for
 - **Standardized extract (50% bacosides):** 150-300mg, twice daily (300-600mg total).
 - **Traditional leaf powder:** 1-3g per day.
 - Take with a fat-containing meal (bacosides are fat-soluble).
-- Full effects require 8-12 weeks. [[hericium-erinaceus]]term.
+- Full effects require 8-12 weeks. Can be taken long-term.
 
 ### Contraindications
 - Pregnancy and breastfeeding. Thyroid conditions (may enhance hormone production). Bradycardia. Caution with anticholinergic and sedative medications.
@@ -105,7 +105,9 @@ Known as "the herb of longevity" in traditional Chinese and Ayurvedic medicine. 
 ### Contraindications
 - Pregnancy (uterine contractions). Liver disease (rare hepatotoxicity reports). Caution with sedatives and antidiabetic drugs.
 
---[[herbal-medicine]]inkgo biloba)
+---
+
+## Ginkgo (Ginkgo biloba)
 
 ### Overview
 One of the oldest living tree species — fossil records date back 270 million years. Native to China but now grown worldwide. Ginkgo leaf extract (EGb 761) is the most prescribed herbal medicine in Europe, particularly in Germany and France. Used for cognitive enhancement, circulatory support, and tinnitus.
@@ -144,7 +146,54 @@ Mediterranean aromatic herb used since ancient times for memory enhancement. The
 
 ### Key Compounds
 - **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.
-## See Also
+- **Carnosic acid:** Phenolic diterpene. Potent neuroprotective antioxidant.
+- **Rosmarinic acid:** Polyphenol with antioxidant, anti-inflammatory, and anxiolytic effects.
+- **Carnosol:** Phenolic diterpene with anti-inflammatory and neuroprotective properties.
+- **Ursolic acid:** Triterpenoid with anti-inflammatory activity.
 
-- [[bacopa-monnieri]]
-- [[corneliu-e-giurgea]]
+### Mechanisms
+- **Cognitive enhancement:** 1,8-cineole modulates acetylcholinesterase activity and enhances cholinergic neurotransmission. Improves speed and accuracy of cognitive performance.
+- **Neuroprotection:** Carnosic acid activates the Nrf2 pathway, triggering endogenous antioxidant defense systems in the brain. Protects neurons from beta-amyloid toxicity.
+- **Anti-inflammatory:** Rosmarinic acid and carnosic acid reduce neuroinflammation.
+- **Circulatory:** Mild vasodilatory effects improve cerebral blood flow.
+- **Mood:** Aromatherapy studies show reduced cortisol and improved mood with rosemary scent.
+
+### Delivery Methods and Evidence
+- **Aromatherapy:** Smelling rosemary essential oil improves cognitive performance. Blood 1,8-cineole levels correlate with performance scores. 4-10 drops in a diffuser or 2-3 drops on a tissue.
+- **Oral:** Tea, cooked rosemary, or encapsulated extract. Carnosic acid and rosmarinic acid are better absorbed orally.
+- **Topical:** Rosemary oil on temples (diluted) may improve alertness.
+
+### Dosing
+- **Aromatherapy:** 2-4 drops essential oil in a diffuser, or inhale directly 2-3 times daily.
+- **Tea:** 1-2 teaspoons dried herb per cup, steeped 5-10 minutes. 2-3 cups daily.
+- **Extract:** 250-500mg standardized extract daily.
+- **Culinary:** Generous use in cooking provides therapeutic amounts of rosmarinic acid and carnosic acid.
+
+### Contraindications
+- **Essential oil:** Never ingest undiluted. Avoid in epilepsy. Keep away from eyes and mucous membranes.
+- Pregnancy (culinary amounts safe; avoid medicinal doses). Caution with anticoagulants (mild blood-thinning). May interfere with iron absorption.
+
+---
+
+## Combining Nootropic Herbs
+
+- **Memory Stack:** Bacopa + Lion's Mane + Ginkgo — neuroplasticity, neuroregeneration, and cerebral circulation.
+- **Focus Stack:** Rosemary (aroma) + Gotu Kola + Bacopa — acute alertness with long-term cognitive support.
+- **Anti-Anxiety Stack:** Gotu Kola + Bacopa — anxiety reduction without stimulation.
+- **Neuroprotection Stack:** Lion's Mane + Bacopa + Rosemary (oral) — multi-target neuroprotection.
+
+## Timing
+
+| Herb | Best Time | Onset | Duration |
+|------|-----------|-------|----------|
+| Bacopa | With meals | 8-12 weeks | Cumulative |
+| Lion's Mane | AM/afternoon | 2-4 weeks | Cumulative |
+| Gotu Kola | Morning | 1-4 weeks | Cumulative |
+| Ginkgo | Morning/midday | 4-6 weeks | Cumulative |
+| Rosemary (aroma) | Any time | Minutes | 1-4 hours |
+
+## Related Topics
+
+- [[medicinal-mushroom-guide-lions-mane]] for detailed lion's mane information
+- [[adaptogenic-herbs-guide]] for stress-supporting herbs that complement cognitive enhancement
+- [[psychedelic-plants-chemical-guide]] for psychoactive compound comparisons

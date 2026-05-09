@@ -22,33 +22,6 @@ soluble nutrients. Understanding when each approach excels helps growers
 maximize plant health and soil vitality.
 
 ## Foliar Feeding
-[[foliar-feeding]]
-Foliar feeding involves spraying liquid nutrient solutions directly onto
-plant leaves, where nutrients are absorbed through stomata and the
-cuticle. This method provides rapid nutrient uptake, often within hours,
-making it ideal for correcting acute deficiencies such as calcium
-deficiency in tomatoes or magnesium shortages in cannabis. Common foliar
-recipes include dilute kelp tea, fish emulsion combined with liquid
-kelp, and compost tea concentrates applied at low strength.
-
-The primary advantage of foliar feeding is speed: nutrients bypass the
-soil entirely, so problems like pH lockout, cold soil temperatures, or
-root damage do not impede uptake. Foliar applications are most effective
-early in the morning when stomata are open and conditions allow leaf
-surfaces to dry before nightfall, reducing disease risk. However, foliar
-feeding addresses symptoms rather than root causes, and over-reliance on
-it can mask underlying soil health problems that should be corrected
-through proper amendment.
-
-Foliar feeding works best as a supplemental strategy rather than a
-primary fertility program. It cannot replace the long-term nutrient
-reservoir and biological activity that healthy soil provides, and some
-nutrients like calcium are poorly translocated within the plant after
-foliar absorption. The method requires proper equipment (fine mist
-sprayer), attention to environmental conditions, and careful
-concentration to avoid leaf burn.
-
-## Vermicompost Tea
 [[vermicompost-tea]]
 Vermicompost tea is a liquid extract brewed from worm castings that
 delivers beneficial microorganisms, soluble plant nutrients, humic
@@ -139,8 +112,6 @@ tissue testing.
 
 ## See Also
 
-- [[comparison-bokashi-vs-effective-microorganisms]]
 - [[comparison-compost-tea-vs-biochar]]
-- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[bacterial-vs-fungal-compost-teas]]
 - [[comparison-vermicomposting-vs-hot-composting]]

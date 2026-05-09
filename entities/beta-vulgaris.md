@@ -114,11 +114,8 @@ Fodder beet varieties, developed for high dry matter yield, remain important as 
 
 ## See Also
 
-- [[chenopodium-quinoa]]
 - [[amaranthus-caudatus]]
-- [[portulaca-oleracea]]
 - [[daucus-carota]]
-- [[raphanus-sativum]]
-- [[rumex-acetosa]]
+- raphanus sativum
 - [[taraxacum-officinale]]
 - [[cichorium-intybus]]

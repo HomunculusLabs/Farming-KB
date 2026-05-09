@@ -112,8 +112,6 @@ parent's genetics.
 
 ## See Also
 
-- [[cannabis-genetics-and-breeding]]
 - [[cervantes-selfing-single-seed-descent]]
-- [[cervantes-hybrid-vigor-inbreeding-depression]]
 - [[cervantes-feminized-seed-production]]
 - [[cannabis-phenotype-selection]]

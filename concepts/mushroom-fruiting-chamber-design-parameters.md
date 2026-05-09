@@ -13,32 +13,7 @@ type: concept
 A fruiting chamber is an enclosed space where environmental conditions are
 controlled to trigger and support mushroom formation. The transition from
 colonization to fruiting is governed by specific environmental cues that signal
-the [[mycelium]] to form reproductive structures.
-
-## The Fruiting Trigger
-
-During colonization, mycelium grows vegetatively, consuming nutrients and
-expanding through the substrate. Fruiting begins when the organism detects
-specific environmental signals indicating conditions favorable for
-reproduction. The primary triggers are:
-
-- **Fresh air exchange**: A drop in carbon dioxide concentration
-- **High humidity**: Sustained relative humidity above 85 percent
-- **Light**: Exposure to indirect or diffuse light
-- **Temperature shift**: A small drop from colonization temperature
-- **Evaporation**: Moisture evaporating from the substrate surface
-
-These cues occur simultaneously in nature when mycelium reaches the surface of
-its food source and is exposed to the outdoor atmosphere.
-
-## The Big Five Parameters
-
-### Fresh Air Exchange (FAE)
-
-Mushrooms are aerobic organisms that require constant oxygen and produce carbon
-dioxide as a metabolic byproduct. During fruiting, CO2 levels must be kept
-below 800 to 1000 parts per million for most gourmet species. Elevated CO2
-causes elongated stems, small caps, and reduced yields in [[oyster-mushrooms]].
+the [[oyster-mushrooms]].
 
 FAE is provided through passive ventilation (filtered holes), active
 ventilation (fans), or a combination. Passive systems are simpler but require
@@ -101,31 +76,6 @@ controllers.
 
 ## The Pinning Phase
 
-After full colonization and exposure to [[fruiting-conditions]], mycelium forms a
-white, cottony mat on the substrate surface. Within days, tiny pin-like
-structures called primordia emerge. This is the most vulnerable phase of the
-grow. Pins are extremely sensitive to drying, CO2 spikes, and physical
-disturbance. Maintain humidity above 90 percent and avoid opening the chamber
-unnecessarily.
-
-## Harvesting
-
-Mushrooms should be harvested just before or as the veil beneath the cap tears.
-For oyster mushrooms, harvest when the cap margins begin to curl slightly
-upward. For shiitake, harvest when the cap is 70 to 80 percent expanded. Twist
-and pull gently, or cut with a clean knife at the base. Harvesting at the right
-time maximizes both culinary quality and total yield.
-
-## Flush Patterns
-
-Most gourmet mushrooms produce multiple flushes (harvests) from a single
-substrate block. The first flush is typically the largest, with subsequent
-flushes declining in yield. Between flushes, allow the substrate to rest for
-several days. Rehydration by soaking the block in cold water for 6 to 12 hours
-can improve later flush yields.
-
-## See Also
-
-- [[mushroom-substrate-preparation-sterilization]]
-- [mushroom-[[spawn-grain-preparation]]-and-inoculation]
+After full colonization and exposure to [[mushroom-substrate-preparation-sterilization]]
+- [mushroom-and-inoculation]
 - [[mushroom-cultivation-contamination-prevention]]

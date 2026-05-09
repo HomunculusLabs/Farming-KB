@@ -37,17 +37,7 @@ Ectomycorrhizal fungi colonize the exterior of root cells, forming a distinctive
 
 Ectomycorrhizas are predominantly associated with woody plants, especially trees in families such as Pinaceae, Fagaceae, and Betulaceae. They are dominant in temperate and boreal forests, where they play critical roles in nutrient cycling and carbon storage. Ectomycorrhizal fungi are particularly effective at weathering soil minerals and mobilizing nutrients from insoluble sources, making them central to forest ecosystem productivity.
 
-The morphological diversity of ectomycorrhizal associations is considerable. Different fungal species produce distinct mycorrhizal morphotypes with varying degrees of hyphal mantle development, extramatrical mycelium extent, and exploration strategies. Some species are "contact" explorers with short-range hyphae, while others are "long-distance" explorers that produce extensive rhizomorphs capable of transporting nutrients over tens of centimeters. This diversity of exploration strategies allows ectomycorrhizal communities to efficiently exploit heterogeneous soil environments.
-
-## Mineral Weathering Mechanisms
-
-Mycorrhizal fungi are active agents of mineral weathering, employing proton-promoted dissolution (acidolysis) and ligand-promoted dissolution (complexolysis) to release nutrients from mineral substrates. During growth, mycorrhizal fungi excrete low-molecular-mass carboxylic acids including malic, succinic, gluconic, and oxalic acids, which attack mineral surfaces through combined proton donation and metal chelation.
-
-In podzol E horizons beneath European coniferous forests, the weathering of hornblendes, feldspars, and granitic bedrock has been attributed to organic acid excretion by ectomycorrhizal hyphae. Hyphal tips produce micro- to millimolar concentrations of these acids and are directly associated with micropores (3 to 10 micrometers) in weatherable soil minerals, creating localized zones of intense chemical weathering at the mineral-hypha interface.
-
-### Carbon allocation and substrate response
-
-Ectomycorrhizal mycelia respond dynamically to the mineral composition of their immediate environment by regulating growth, carbon allocation, and substrate acidification. Research has shown that carbon allocation within the mycelium of Hebeloma crustuliniforme associated with Scots pine (Pinus sylvestris) was significantly greater when colonizing potassium feldspar patches compared to quartz patches.
+The morphological diversity of [[hebeloma-crustuliniforme]] associated with Scots pine (Pinus sylvestris) was significantly greater when colonizing potassium feldspar patches compared to quartz patches.
 
 This targeted carbon investment demonstrates that fungal foraging is resource-directed rather than random. The mycelium allocates more biological energy to mineral substrates that offer the greatest nutritional return, an adaptive strategy that maximizes the efficiency of the plant-fungal mutualism.
 
@@ -101,22 +91,12 @@ The mechanisms underlying nutrient translocation include mass flow, diffusion, g
 
 At local and global scales, mycorrhizal involvement in biogeochemical cycling has profound implications for ecosystem function, plant productivity, and human agriculture. The ability of mycorrhizal fungi to transform minerals, mobilize nutrients, and sequester carbon means that they are central to the functioning of virtually all terrestrial ecosystems.
 
-In agricultural systems, mycorrhizal associations can reduce the need for phosphorus fertilizers by enhancing the plant's ability to access soil phosphorus from insoluble mineral sources. In forestry, ectomycorrhizal networks are essential for tree nutrition, particularly on nutrient-poor soils. In restoration ecology, mycorrhizal inoculation is increasingly used to accelerate the re-establishment of vegetation on degraded, contaminated, or newly created substrates.
-
-The ongoing study of mycorrhizal biogeochemistry is revealing that these fungal symbionts are far more than passive nutrient conduits. They are active environmental engineers that fundamentally shape the chemistry, biology, and physical structure of the soils in which they grow, with consequences that ripple through entire ecosystems.
-
-## Future Research Directions
-
-Advances in molecular and genomic approaches are rapidly expanding understanding of mycorrhizal function. Genomic studies of arbuscular mycorrhizal fungi are revealing the genetic basis of symbiotic establishment, nutrient exchange, and environmental sensing. These tools are making it possible to identify the specific genes and metabolic pathways involved in mineral weathering, organic matter decomposition, and nutrient transport.
-
-Environmental DNA metabarcoding is allowing researchers to map mycorrhizal community composition across landscapes and to track how these communities respond to environmental change, including climate change, nitrogen deposition, and land-use change. Stable isotope probing and nanoscale secondary ion mass spectrometry (NanoSIMS) are providing direct evidence of nutrient flow between mycorrhizal partners at the single-cell level.
+In agricultural systems, mycorrhizal associations can reduce the need for phosphorus fertilizers by enhancing the plant's ability to access soil phosphorus from insoluble mineral sources. In forestry, ectomycorrhizal networks are essential for tree nutrition, particularly on nutrient-poor soils. In restoration ecology, [[environmental-dna-metabarcoding]] etabarcoding is allowing researchers to map mycorrhizal community composition across landscapes and to track how these communities respond to environmental change, including climate change, nitrogen deposition, and land-use change. Stable isotope probing and nanoscale secondary ion mass spectrometry (NanoSIMS) are providing direct evidence of nutrient flow between mycorrhizal partners at the single-cell level.
 
 These emerging tools promise to transform mycorrhizal research from descriptive ecology to predictive science, enabling better management of mycorrhizal associations in agriculture, forestry, and ecosystem restoration. Understanding the functional diversity of mycorrhizal fungi and how to select for beneficial associations represents a frontier in sustainable land management.
 
 ## See Also
 
-- [[fungal-bioweathering-and-mineral-transformations]]
 - [[fungi-dominant-soil-biomass-ecosystem-engineers]]
 - mycorrhizal fungi in biogeochemical cycling
-- [[arbuscular-mycorrhizal-fungi]]
 - [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

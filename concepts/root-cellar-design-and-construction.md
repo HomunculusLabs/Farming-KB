@@ -104,14 +104,7 @@ bales dry. Best for earth-bermed designs where bales don't contact ground.
 
 ## See Also
 
-- [[permaculture-food-storage-and-preservation]] — Other preservation methods
 - [[organic-garden-soil-preparation]] — Growing crops for root cellar storage
-- [[permaculture-earthworks-and-water-harvesting]] — Siting and drainage
-
-## Related
-
 - [[permaculture-design-course-notes]]
-- [[fukuoka-vegetable-growing-natural-method]]
 - [[permaculture-access-and-circulation-design]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[fukuoka-soil-self-improvement-without-tillage]]

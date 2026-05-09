@@ -88,29 +88,9 @@ Those scientists who diligently propound the myth that we are mere bystanders on
 
 The Gaia hypothesis, formulated by James Lovelock and Lynn Margulis, proposes that Earth's living and non-living components function together as a self-regulating system that maintains conditions suitable for life. This planetary homeostasis -- regulating temperature, atmospheric composition, and ocean salinity over billions of years -- resembles the kind of feedback-controlled intelligence that the Natural Intelligence framework describes at a planetary scale.
 
-The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[the-soil-food-web]] representing one of its most ancient and sophisticated computational substrates.
+The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[mycelial-foraging-resource-allocation]] research demonstrates that mycelial networks can solve spatial optimization problems, allocate resources strategically, and make decisions about growth direction that maximize nutrient acquisition. Mycelium explores its environment, assesses resource quality, and adjusts its growth patterns accordingly -- behaviors that meet many criteria for intelligence.
 
-### Panpsychism and Information Integration
-
-Panpsychism, the philosophical position that consciousness is a fundamental feature of the physical world, aligns closely with the Natural Intelligence framework. Rather than consciousness emerging only at a certain threshold of neural complexity, panpsychism suggests that proto-consciousness or information-processing capacity exists at all levels of organization.
-
-The integrated information theory (IIT) of consciousness, proposed by Giulio Tononi, provides a mathematical framework for measuring information integration in any system. This theory suggests that intelligence is not binary -- present or absent -- but exists on a continuum, with natural systems possessing varying degrees of informational integration.
-
-## Collective Intelligence in Nature
-
-### Swarm Intelligence
-
-Social insects -- ants, bees, and termites -- demonstrate that sophisticated intelligence can emerge from simple individual agents following local rules. Colonies solve complex optimization problems including shortest-path routing, nest construction, and resource allocation without any centralized control. This distributed computation is a hallmark of Natural Intelligence operating through decentralized biological networks.
-
-### Fungal Intelligence
-
-Fungi provide some of the most compelling evidence for intelligence in non-animal organisms. The [[mycelial-foraging-resource-allocation]] research demonstrates that mycelial networks can solve spatial optimization problems, allocate resources strategically, and make decisions about growth direction that maximize nutrient acquisition. Mycelium explores its environment, assesses resource quality, and adjusts its growth patterns accordingly -- behaviors that meet many criteria for intelligence.
-
-Slime molds, though not true fungi, offer even more dramatic evidence. [[myxomycetes-slime-molds]] research has shown that Physarum polycephalum can solve maze problems, recreate optimal transport networks (including reproducing the Tokyo rail system), and exhibit habituation -- a basic form of learning. These organisms, with no nervous system whatsoever, demonstrate that intelligence does not require neurons.
-
-### Mycorrhizal Networks
-
-The [[common-mycorrhizal-networks]] that connect trees and plants through shared fungal symbionts represent a biological internet -- a vast underground communication and resource-sharing network. Through these networks, trees can transfer carbon to shaded seedlings, send chemical warning signals about insect attack, and share water and nutrients across species boundaries. The wood wide web, as it has been called, is a concrete expression of Natural Intelligence operating at the ecosystem scale.
+Slime molds, though not true fungi, offer even more dramatic evidence. [[common-mycorrhizal-networks]] that connect trees and plants through shared fungal symbionts represent a biological internet -- a vast underground communication and resource-sharing network. Through these networks, trees can transfer carbon to shaded seedlings, send chemical warning signals about insect attack, and share water and nutrients across species boundaries. The wood wide web, as it has been called, is a concrete expression of Natural Intelligence operating at the ecosystem scale.
 
 This mycorrhizal intelligence challenges the individualistic model of biology and supports the view that natural systems function as integrated informational wholes rather than collections of competing organisms.
 
@@ -118,13 +98,7 @@ This mycorrhizal intelligence challenges the individualistic model of biology an
 
 ### Fukuoka's Natural Farming
 
-Masanobu Fukuoka's [[fukuoka-do-nothing-farming-philosophy]] represents a practical application of Natural Intelligence thinking to agriculture. Fukuoka observed that the most productive and sustainable farming practices work with natural systems rather than against them. His method of "do-nothing farming" -- allowing natural succession, avoiding plowing, and relying on natural cycles of fertility -- demonstrates that natural systems, when left to their own intelligence, can produce abundant food without human micromanagement.
-
-Fukuoka's philosophy is essentially an acknowledgment that Natural Intelligence already knows how to grow food, and that human intervention should be minimal and guided by observation of natural patterns.
-
-### Permaculture Pattern Language
-
-The [[permaculture-pattern-language]] codifies the design principles by which natural systems organize themselves. Permaculture designers study the patterns found in nature -- branching patterns, spiral patterns, wave patterns, net patterns -- and apply these as templates for human-designed systems. This approach treats natural patterns as the output of Natural Intelligence and seeks to align human designs with these pre-existing informational templates.
+Masanobu Fukuoka's [[permaculture-pattern-language]] codifies the design principles by which natural systems organize themselves. Permaculture designers study the patterns found in nature -- branching patterns, spiral patterns, wave patterns, net patterns -- and apply these as templates for human-designed systems. This approach treats natural patterns as the output of Natural Intelligence and seeks to align human designs with these pre-existing informational templates.
 
 ## Implications for Artificial Intelligence
 

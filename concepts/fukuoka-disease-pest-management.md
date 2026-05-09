@@ -140,10 +140,7 @@ Fukuoka's observations on black wattle (Acacia mearnsii) as a pest management ai
 
 ## See Also
 
-- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-natural-orchard-management]]
-- [[fukuoka-one-straw-revolution-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[integrated-pest-management]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fukuoka-orchard-soil-building-without-fertilizers]]

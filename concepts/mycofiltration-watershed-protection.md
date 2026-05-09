@@ -24,7 +24,7 @@ Stamets conducted tests at his farm on Skookum Inlet, Washington:
 
 - **Pathogen target**: Coliform bacteria (including E. coli) from upstream farms
 - **Primary species**: King stropharia (Stropharia rugoso-annulata)
-- **Setup**: Mycelial mats installed in drainage pathways between upstream pollution sources and downstream waterways
+- **Setup**: Mycelial mats installed in drainage pathways between upstream污染sources and downstream waterways
 - **Results**: Mycelial mats significantly reduced coliform bacteria counts in water passing through them
 - **Mechanism**: Mycelium's extracellular enzymes and antibacterial secretions killed or trapped bacteria; the physical mat structure filtered sediments
 

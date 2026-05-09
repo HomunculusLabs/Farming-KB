@@ -118,13 +118,8 @@ Many European countries have scheduled 2C-D or its parent class of 2C phenethyla
 
 ## See Also
 
-- [[2c-b]]
 - [[2c-e]]
-- [[2c-i]]
 - [[mescaline-entity]]
-- [[pihkal-2c-b]]
 - [[pihkal-2c-e]]
-- [[alexander-shulgin]]
 - [[ann-shulgin]]
-- [[tryptamine]]
 - [[lsd]]

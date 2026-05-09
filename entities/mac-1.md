@@ -14,7 +14,6 @@ tags:
   - creative
   - resin-heavy
   - terpinolene
-  - [[myrcene]]
   - [[limonene]]
   - daytime-strain
   - capulator
@@ -27,24 +26,11 @@ sources:
   - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator
   - "Chemotaxonomic analysis of Cannabis terpenes." Frontiers in Plant Science, 2020.
 ---
-# MAC 1 ([[miracle-alien-cookies]] 1)
-
-MAC 1, also known as Miracle Alien Cookies 1 or simply MAC, is a balanced hybrid (approximately
-50/50 indica-to-sativa ratio) created by the breeder Capulator through a cross of **Alien Cookies** and a
-select **Colombian landrace** male. Released commercially around 2016, MAC rapidly gained prominence for its
-exceptional resin production, compterpene-profile-chemotaxonomyfile, and uniquely balanced effects combining cerebral
-stimulation with physical comfort. The strain has become one of the most influential modern cultivars,
-serving as parent or ancestor in dozens of crosses including Runtz, Miracle 15, and MAC Stomper. MAC 1
-refers specifically to the stabilized phenotype that Capulator released; the original cross produced
-multiple phenotypes, of which #1 was deemed superior.
-
-## Lineage
-
-- **Female pargirl-scout-cookieses ([[girl-scout-cookies]] × Alien green cannabis plant anatomy calyx pistil bud structurebuting dense bud structure,
+# MAC 1 ([[girl-scout-cookies]] × Alien green cannabis plant anatomy calyx pistil bud structurebuting dense bud structure,
   cookie-dough and fuel terpenes, and high resin production from the GSC lineage
 - **Male parent:** Unnamed Colombian landrace sativa, contributing elevated THC, elongated flowering,
   and bright citrus-forward terpenes distinguishing MAC from its cookie ancestry
-- **Breeder:** Capulator (California); selected MAC, [[durban-poison]], and [[chemdawg]] through GSC, with rare Colombian
+- **Breeder:** Capulator (California); selected MAC, [[chemdawg]] through GSC, with rare Colombian
   sativa genetics not commonly found in contemporary commercial strains
 
 ## Appearance

@@ -16,56 +16,7 @@ type: comparison
 
 # Dragon Fruit (Pitaya) vs Passion Fruit Cultivation
 
-Dragon fruit (*Hylocereus* spp., syn. *Selenicereus*) and passion fruit (*[[passiflora-edulis]]*) are two of the most commercially significant tropical and subtropical climbing fruit crops worldwide. They share the trait of being woody climbing plants requiring support structures, yet they differ fundamentally in their biology, water requirements, and management intensity.
-
-Dragon fruit is an epiphytic cactus adapted to arid and semi-arid conditions with minimal water inputs. Passion fruit is a vigorous vine native to humid subtropical and tropical environments with high water demands. These contrasting origins create distinct cultivation profiles: dragon fruit offers lower maintenance and drought tolerance, while passion fruit delivers faster growth, earlier fruiting, and higher per-season yields at the cost of greater water and fertility inputs.
-
-This comparison covers their full cultivation requirements to help growers select the appropriate crop for their climate, soil, market goals, and management capacity. See also comparison dragon fruit vs passion fruit cultivation.
-
-## Comparison Table
-
-| Attribute | Dragon Fruit (Pitaya) | Passion Fruit |
-|---|---|---|
-| **Plant type** | Epiphytic/climbing cactus | Woody perennial vine |
-| **Family** | Cactaceae | Passifloraceae |
-| **USDA Hardiness** | Zones 9b–11 | Zones 9–11 |
-| **Optimal temperature** | 18–30 °C (65–86 °F) | 20–30 °C (68–86 °F) |
-| **Rainfall tolerance** | Low; drought-tolerant once established | Moderate to high; requires regular water |
-| **Soil pH** | 5.5–7.0 | 5.5–6.5 |
-| **Soil drainage** | Well-drained, sandy or rocky soils | Well-drained, loamy preferred |
-| **Support structure** | Posts, trellises, or T-bar systems | Wire trellis, fence, or arbor (2–3 m) |
-| **Propagation** | Stem cuttings (most common), seed | Seed, cuttings, grafting onto rootstock |
-| **Time to first harvest** | 12–18 months from cutting | 9–12 months from planting |
-| **Pollination** | Self-fertile or moth-pollinated (night-blooming) | Self-fertile or bee-pollinated; some need cross-pollination |
-| **Annual yield (mature)** | 10–20 tonnes/ha | 15–25 tonnes/ha |
-| **Fruiting season** | Summer–autumn (4–6 flushes/year) | Summer–autumn; nearly year-round in tropics |
-| **Shelf life** | 1–2 weeks ambient; longer refrigerated | 1–3 weeks ambient |
-| **Major pests** | Mealybugs, scale, fruit flies, birds | Fruit flies, aphids, mites, nematodes |
-| **Major diseases** | Stem canker, anthracnose | Fusarium wilt, brown spot, woodiness virus |
-| **Pruning frequency** | Moderate; post-harvest and structural | Heavy; frequent vine management required |
-| **Water requirement** | Low (200–500 mm/year supplementary) | High (1000–1500 mm/year) |
-| **Nutritional highlight** | Vitamin C, magnesium, betalains (antioxidants) | Vitamin A, C, fiber, potassium, polyphenols |
-| **Productive lifespan** | 20–30+ years | 3–5 years (intensive) |
-
-## Plant Biology and Growth Habit
-
-Dragon fruit is a hemi-epiphytic climbing cactus in the family Cactaceae. It produces fleshy, three-ribbed stems that climb by aerial roots and can extend several meters.
-
-Mature plants form a dense canopy of long, trailing branches. Flowers are large (25–35 cm), white, and nocturnal, opening for a single night. The fruit is a berry with leathery skin and fleshy pulp studded with numerous small black seeds.
-
-Three main commercial types exist: white-fleshed (most common and widely grown), red-fleshed (highest antioxidant content, often commands premium prices), and yellow-skinned (smallest but sweetest, *Hylocereus megalanthus*).
-
-Passion fruit is a vigorous woody vine in the family Passifloraceae. It climbs by tendrils and can extend 6–10 m per year under favorable conditions. The distinctive flowers are complex, showy, and typically 5–8 cm in diameter, blooming over a single day.
-
-Two main commercial types are recognized: purple passion fruit (*P. edulis* f. *edulis*, sweeter, better for fresh market) and yellow passion fruit (*P. edulis* f. *flavicarpa*, more acidic, higher juice yield, more disease-resistant). Fruit is a pepo with a tough rind surrounding aromatic, juicy pulp filled with numerous seeds.
-
-The fundamental biological difference drives most cultivation divergences: dragon fruit stores water in its succulent stems and tolerates extended drought, while passion fruit transpires heavily through its large leaves and requires consistent moisture for growth and fruit production.
-
-## Climate and Hardiness
-
-Dragon fruit tolerates light frost for brief periods once established, but sustained temperatures below 4 °C cause significant stem damage. It thrives in full sun and handles high temperatures exceeding 40 °C if roots remain cool and soil is well-drained. Young plants are susceptible to sunburn when suddenly exposed; gradual acclimation is recommended.
-
-Wind protection is beneficial for young plants, which are easily broken. See [[gaias-garden-hedgerows-and-windbreaks]] for shelter strategies.
+Dragon fruit (*Hylocereus* spp., syn. *Selenicereus*) and passion fruit (*[[gaias-garden-hedgerows-and-windbreaks]] for shelter strategies.
 
 Passion fruit is slightly less heat-tolerant and far more sensitive to water stress. It performs best where annual rainfall is evenly distributed between 1000–1500 mm. Temperatures above 35 °C with low humidity reduce fruit set and increase flower drop. Sustained wind can damage tendrils and break lateral branches.
 
@@ -79,15 +30,7 @@ Passion fruit requires deeper, more fertile soil for sustained high yields. It p
 
 ## Water Management
 
-[[water-management]] is perhaps the single most important differentiator between these crops. Dragon fruit's CAM photosynthesis allows it to open stomata at night, minimizing water loss. Established plants can survive months without irrigation in subtropical climates. During flowering and fruiting, supplemental irrigation (50–100 mm per month) improves fruit size and yield but is not strictly required. Overwatering is more dangerous than underwatering.
-
-Passion fruit requires consistent soil moisture throughout the growing season. Water stress during flowering causes flower drop; stress during fruit development produces small, shriveled fruit. Drip irrigation is recommended, delivering 25–40 mm per week during peak growth. Mulching with organic material helps retain soil moisture and suppress weeds. In areas with dry seasons, irrigation infrastructure is essential — passion fruit cannot be grown as a rain-fed crop in regions with less than 1000 mm annual rainfall without supplementary water.
-
-## Fertilization
-
-Dragon fruit has modest fertilizer requirements compared to passion fruit. A balanced NPK application (e.g., 10-10-10) applied quarterly, supplemented with micronutrients (iron, zinc, manganese), supports steady growth. Excessive nitrogen produces soft, elongated stems more susceptible to disease. Organic fertilizers (compost, worm castings, fish emulsion) work well and improve soil structure.
-
-Passion fruit is a heavy feeder requiring regular fertilization for sustained production. Monthly applications of balanced NPK during the growing season, plus foliar micronutrient sprays (boron for flower retention, calcium for fruit firmness), are standard commercial practice. Yellow passion fruit types are particularly nutrient-demanding. [[soil-testing]] should guide fertilization programs to avoid nutrient imbalances.
+[[soil-testing]] should guide fertilization programs to avoid nutrient imbalances.
 
 ## Support and Trellis Needs
 
@@ -111,19 +54,7 @@ Passion fruit vines fruit faster, typically 9–12 months from planting. They re
 
 Most commercial dragon fruit cultivars are self-fertile, but some red-fleshed types require cross-pollination by moths or bats in their native habitat. In areas where natural pollinators are absent, hand pollination with a brush during the night-blooming window can improve fruit set, fruit size, and seed count.
 
-Passion fruit pollination requirements vary by cultivar. Purple passion fruit is generally self-fertile. Yellow passion fruit often benefits from cross-pollination by bees, carpenter bees, or hand pollination. Insufficient pollination results in misshapen or undersized fruit. Maintaining [[pollinator-habitat]] near plantings is recommended.
-
-## Yield Expectations
-
-Mature dragon fruit plantings yield 10–20 tonnes/ha depending on variety, planting density, and management. Individual plants may produce 20–40 fruits per cycle, with each fruit weighing 200–600 g. Yields stabilize and can persist for 20–30 years with good management.
-
-Passion fruit yields 15–25 tonnes/ha at peak, but the productive lifespan is shorter (3–5 years in intensive systems). Per-plant yields of 60–100 fruits per season are achievable in year 2, with each fruit weighing 30–80 g. The higher per-hectare yield is partly offset by the need for frequent replanting.
-
-## Pest and Disease Profiles
-
-Dragon fruit is relatively pest-resistant due to its cactus defenses (spines, thick cuticle, CAM metabolism). Key pests include mealybugs, soft scale, fruit flies, and vertebrate damage from birds and rodents. Stem canker (*Botryosphaeria dothidea*) and anthracnose (*Colletotrichum* spp.) are the primary disease concerns, both promoted by high humidity and poor airflow. Good sanitation and canopy thinning reduce disease pressure.
-
-Passion fruit faces significantly more pest and disease pressure. Fruit flies are the most serious pest, requiring baiting or netting. Aphids transmit passion fruit woodiness virus. Root-knot nematodes (*Meloidogyne* spp.) damage roots and reduce vigor. Fusarium wilt (*[[fusarium-oxysporum]]* f. sp. *passiflorae*) is a devastating soil-borne disease, best managed by resistant rootstocks, crop rotation, and soil solarization.
+Passion fruit pollination requirements vary by cultivar. Purple passion fruit is generally self-fertile. Yellow passion fruit often benefits from cross-pollination by bees, carpenter bees, or hand pollination. Insufficient pollination results in misshapen or undersized fruit. Maintaining [[fusarium-oxysporum]]* f. sp. *passiflorae*) is a devastating soil-borne disease, best managed by resistant rootstocks, crop rotation, and soil solarization.
 
 ## Pruning Needs
 
@@ -143,7 +74,6 @@ Dragon fruit is low in calories (≈50 kcal/100 g) and notable for vitamin C (�
 
 Passion fruit is calorie-denser (≈97 kcal/100 g) and rich in dietary fiber (≈10 g/100 g), vitamin A (≈1274 IU/100 g), vitamin C (≈30 mg/100 g), and potassium (≈348 mg/100 g). Its intense aromatic flavor and high acidity make it valuable as a juice, concentrate, puree, and flavoring ingredient in food manufacturing.
 
-## Market Value and Commercial Viability
 ## See Also
 
 - [[comparison-guava-vs-passion-fruit-cultivation]]

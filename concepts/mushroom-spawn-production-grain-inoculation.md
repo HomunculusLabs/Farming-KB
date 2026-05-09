@@ -9,11 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# [[mushroom-spawn-production]] and Grain Inoculation
-
-## Overview
-
-[[mushroom-spawn]] is the living fungal inoculum used to introduce mycelium into a
+# [[mushroom-spawn]] is the living fungal inoculum used to introduce mycelium into a
 prepared substrate. Spawn production is a specialized process that requires
 rigorous sterile technique, quality control, and careful strain selection. The
 quality of spawn directly determines the success of the entire cultivation
@@ -92,6 +88,5 @@ contamination resistance but increase input costs.
 
 ## See Also
 
-- [[mushroom-substrate-preparation-composting]]
 - [[agaricus-bisporus-cultivation-biology]]
 - [[fungal-fruiting-body-formation-environmental-triggers]]

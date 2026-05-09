@@ -131,14 +131,9 @@ time for the next crop to use it.
 
 ## See Also
 
-- [[nitrogen-cycle-agriculture]]
-
 - [[trifolium-repens]]
 
-- [[legume-nitrogen-myth-beans-feed-corn]]
-
 - [[legume-nitrogen-dynamics]]
-- [[legume-nitrogen-yields-by-species]]
 - [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
 
 - Nitrogen availability in legume plants is governed by growth stage and

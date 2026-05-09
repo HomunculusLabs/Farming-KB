@@ -128,11 +128,7 @@ debate modelled on the pragmatic practices of the Dutch.
 
 ## Related Topics
 
-- [[magic-mushroom-prohibition-history]] - broader prohibition
-  - timeline
 - [[psychedelic-prohibition-and-the-war-on-consciousness]] - the war
   - on consciousness
-- [[psilocybin-depression-anxiety-treatment]] - modern therapeutic
-  - context
 - [[psilocybin-mushroom-dissemination-1950s-1970s]] - early spread
 - [[shroom-prohibition]] - prohibition in the Shroom narrative

@@ -38,55 +38,7 @@ highlands of Guatemala, Mexico, and El Salvador.
 
 The Aztecs used teonanacatl in religious ceremonies alongside other
 sacred
-plants including [[ololiuqui]] (morning glory seeds), peyote (see
-[[peyote-ceremony]]), and [[datura-stramonium]]. The mushrooms were
-consumed
-in nocturnal ceremonies presided over by priests, during which
-participants
-sought visions and communication with the gods.
-
-The Aztec statue of Xochipilli, the Prince of Flowers, discovered at
-Tlamanalco on the slopes of Popocatepetl, features bas-relief glyphs
-depicting
-entheogenic plants: the tendril of the morning glory, the cap of a
-mushroom,
-and the flower of Nicotiana (tobacco). This statue provides direct
-archaeological evidence of the importance of psychoactive plants in
-Aztec
-religion.
-
-## Colonial Suppression
-
-Following the Spanish conquest, the Catholic Church launched a
-systematic
-campaign to suppress indigenous religious practices, including the
-use of
-teonanacatl. The most important documentation of this persecution
-comes from
-the trial records of the Inquisition in Mexico.
-
-In 1656, the Inquisition tried a man named Martin Garcia for the
-crime of
-using teonanacatl. The trial records provide some of the earliest
-descriptions of the effects of the mushrooms. The Church classified
-the
-mushrooms as a diabolical instrument, and their use was punishable by
-severe
-penalties including whipping, exile, and confiscation of property.
-
-The Spanish chroniclers, including Bernardino de Sahagun, described
-the
-effects of teonanacatl: "Those who eat them see visions and feel a
-drunkenness which lasts two or three days... Some see visions of
-death or of
-being eaten by wild beasts."
-
-The suppression was so effective that knowledge of the mushroom cult
-was
-largely lost to the outside world for nearly 400 years. The practice
-survived
-only in remote indigenous communities, particularly among the Mazatec,
-Chinantec, and Mixtec of Oaxaca. See [[mazatec-mushroom-tradition]]
+plants including [[peyote-ceremony]]), and [[mazatec-mushroom-tradition]]
 for the
 living tradition.
 
@@ -112,33 +64,7 @@ worldwide attention.
 
 Wasson's specimens were identified by the French mycologist Roger
 Heim, who
-sent samples to the Swiss chemist [[albert-hofmann-eleusinian-potion-analysis]] at Sandoz
-Laboratories. In
-1958, Hofmann succeeded in isolating the active compounds:
-
-- **Psilocybin**: The principal active alkaloid; a phosphorylated tryp
-  tamine
-  that is dephosphorylated in the body to produce psilocin
-- **Psilocin**: The dephosphorylated, pharmacologically active form of
-  psilocybin; the compound that directly interacts with serotonin
-receptors
-
-These compounds are closely related to LSD and serotonin, belonging
-to the
-tryptamine class of indole alkaloids. Psilocybin acts primarily as a
-partial
-agonist at serotonin 5-HT2A receptors.
-
-## Species Used
-
-The sacred mushrooms of Mexico belong primarily to the genus
-Psilocybe:
-
-- Psilocybe mexicana (the type species from which psilocybin was first
-  isolated)
-- Psilocybe caerulescens (the "landslide mushroom" widely used by the
-  Mazatec)
-- [[psychedelic-mushrooms-species-and-identification]] (a widely distributed tropical species)
+sent samples to the Swiss chemist [[psychedelic-mushroom-set-and-setting]] (a widely distributed tropical species)
 - Psilocybe zapotecorum (an important species in Oaxacan traditions)
 - Numerous other Psilocybe species (over 100 psychoactive species worl
   dwide)
@@ -147,3 +73,22 @@ Psilocybe:
 
 The rediscovery of teonanacatl had profound effects on Western
 culture:
+## Practical Considerations
+
+Successful implementation of Teonanacatl History requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

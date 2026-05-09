@@ -117,7 +117,7 @@ Taro contains several bioactive constituents:
 
 - **Oxalates:** Calcium oxalate crystals (primary defense compound;
   reduced by cooking and processing)
-- **Phenolic compounds:** Including flavonoids (quercetin, luteolin)
+- **Phenolic compounds:** Including flavonoids ([[luteolin]])
   and phenolic acids with antioxidant activity
 - **Polysaccharides:** Taro mucilage with immunomodulatory properties
 - **Protease inhibitors:** Lectins and amylase inhibitors
@@ -131,20 +131,12 @@ Traditional medicinal uses across cultures include:
 - **Respiratory ailments:** Leaf preparations used in Chinese folk
   medicine for coughs and bronchitis
 
-## Permaculture and Agroforestry Applications
+## [[agroforestry]] Applications
 
 Taro is exceptionally valuable in tropical permaculture systems:
 
 - **Multi-layer production:** Corms underground, leaves as greens,
   petioles as vegetable — full plant utilization
 - **Wetland function:** Thrives in pond margins, drainage swales, greywater zones
-- **Companion planting:** Compatible under banana, papaya, coconut canopies
-- **Soil building:** Leaf litter adds organic matter; corm harvest aerates
-- **Erosion control:** Dense planting stabilizes wetland edges and banks
-- **Resilience:** Tolerates flooding and partial shade reliably
-
-## See Also
-
-- [[morchella-esculenta-entity]]
-- [[morchella-esculenta]]
+- **[[gyromitra-esculenta]]
 - [[gyromitra-esculenta]]

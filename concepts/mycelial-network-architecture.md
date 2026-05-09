@@ -1,7 +1,7 @@
 ---
 title: Mycelial Network Architecture
 created: 2026-04-28
-tags: [mycology, networks, fungal-biology, bio-networks]
+tags: [[mycology, networks, fungal-biology, bio-networks]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -118,8 +118,6 @@ species.
 
 ## See Also
 
-- [[mycorrhizal-networks]]
 - [[fungal-intelligence]]
-- [[biological-network-optimization]]
 - [[common-mycorrhizal-networks]]
 - [[rhizomorph-development]]

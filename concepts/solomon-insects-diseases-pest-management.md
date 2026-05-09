@@ -100,11 +100,7 @@ Solomon discusses several spray approaches:
 
 ## Related
 
-- [[solomon-intensive-vs-extensive-spacing]] for spacing that reduces pest pressure
 - [[solomon-cover-crops-green-manure-guide]] for biological control habitat
-- [[solomon-complete-organic-fertilizer-guide]] for plant nutrition affecting pest resistance
 - [[solomon-mulching-and-cover-cropping]] for cultural pest management
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[cover-crops-soil-health]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]

@@ -119,16 +119,10 @@ and fungal pathogens, including Candida albicans.
 
 ## Related Topics
 
-- [[blesching-cannabis-hiv-aids]] - Fungal infections as opportunistic
-  complications of AIDS
 - [[blesching-cannabis-mrsa]] - Cannabis against drug-resistant
   pathogens including fungal agents
-- [[blesching-cannabis-immune-system-modulation]] - How cannabinoids
-  modulate immune response to fungal pathogens
 - [[blesching-cannabis-herpes-hsv]] - Comparison of cannabis research
   across infectious disease categories
-- [[blesching-cannabis-dermatological-conditions]] - Skin fungal
-  infections and topical cannabis applications
 - [[blesching-cannabis-viral-infections]] - Broader infectious disease
   coverage from the Cannabis Health Index
 - [[blesching-endocannabinoid-system-overview]] - ECS role in immune

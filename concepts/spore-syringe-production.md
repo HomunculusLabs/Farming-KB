@@ -88,16 +88,8 @@ rate is normal for home production — commercial producers achieve lower
 rates through purpose-built clean rooms and automated filling equipment.
 ## Related
 
-- [[spore-syringe-vs-liquid-culture]]
-
-- [[mushroom-cultivation-fundamentals]] for tissue isolation as an alternative to spore inoculation
-- [[mushroom-cultivation-fundamentals]] for maintaining sterility during syringe preparation
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] for tissue isolation as an alternative to spore inoculation
 - [[mushroom-cultivation-grain-spawn]] for grain inoculation procedures
-- [[mushroom-cultivation-fundamentals]] for the broader cultivation context
-
-## Troubleshooting Common Issues
-
-The most common problems in spore syringe production include: contamination introduced during print collection (mitigated by using specimens with intact veils), clumping of spores in solution (addressed by thorough rehydration and gentle agitation), and loss of viability from improper storage (prevented by refrigeration and airtight sealing). Syringes that appear cloudy with bacterial contamination should be discarded immediately -- a clear solution with visible dark spore clusters is the hallmark of a quality spore syringe. Cultivators should also be aware that legal regulations regarding spore syringe possession and distribution vary widely by jurisdiction; in many areas, spore syringes of [[stamets-psi-psilocybe-cubensis-species-guide]] exist in a legal gray area where the spores themselves are legal but cultivation is not.
-- [[mushroom-cultivator-grain-spawn-production]]
+- [[stamets-psi-psilocybe-cubensis-species-guide]] exist in a legal gray area where the spores themselves are legal but cultivation is not.
 - [[mushroom-spore-printing-and-storage]]
 - [[mushroom-spore-syringe-and-inoculation]]

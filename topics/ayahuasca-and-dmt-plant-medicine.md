@@ -451,7 +451,7 @@ claims, and maintain realistic expectations about benefits and risks.
   structure and contemporary use contexts
 - [[ayahuasca-tourism-ethics]] for ethical considerations in ayahuasca
   tourism and practical guidance for prospective visitors
-- [[ayahuasca-vision-art-and-shipibo-tradition]] for Shipibo
+- [[ayahuasca-vision-art-and-Shipibo-tradition]] for Shipibo
   cosmology, icaros, kene designs, and visionary art traditions
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] for the
   three degrees of mastery and the healer/sorcerer distinction

@@ -89,11 +89,7 @@ Rhizosphere tissue collection at Konza Prairie Biological Station (39 degrees 05
 
 ## Related Topics
 
-- [[mycorrhizal-phosphatase-activity-elf97-detection]] - Molecular techniques in mycorrhiza research
 - [[am-fungi-autofluorescence-colonization-assessment]] - AM assessment methods
-- [[dighton-mycorrhizal-diversity-ecosystem-function]] - Fungal diversity and ecosystem function
 - [[fungal-metagenomics]]
-- [[fungal-species-recognition-genetics]]
-- rhizosphere fungal communities rrna rdna
 - [[fungal-monitoring-long-term-studies]]
 - [[fungal-culture-media-formulas-applications]]

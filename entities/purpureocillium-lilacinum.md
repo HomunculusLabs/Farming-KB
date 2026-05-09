@@ -116,9 +116,6 @@ Ecologically similar nematophagous fungi include *Pochonia chlamydosporia* (Clav
 
 ## See Also
 
-- [[beauveria-bassiana]] — entomopathogenic biocontrol fungus
 - [[metarhizium-anisopliae]] — broad-spectrum entomopathogen
-- [[ophiocordyceps-unilateralis]] — zombie ant fungus
 - [[hypoxylon-fuscum]] — wood-decay Xylariaceae endophyte
-- [[xylaria-polymorpha]] — dead man's fingers fungus
 - [[natural-farming-guide-biological-pest-control-predators]] — IPM strategies overview

@@ -118,10 +118,6 @@ greatly influenced by environmental conditions.
 
 ## See Also
 
-- [[mushroom-food-safety-heavy-metal-accumulation]]
-
 - [[fungal-metal-transformations-biosorption]]
-- [[fungal-oxalate-production-metal-transformation]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[mycoremediation-heavy-metals-detailed]]

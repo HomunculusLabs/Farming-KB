@@ -43,29 +43,7 @@ Zinc is a component of many enzymes involved in oxidation-reduction reactions. I
 
 ## Molybdenum (Mo)
 
-Molybdenum synthesizes organic phosphorus compounds once phosphorus enters the plant and is essential for [[actinorhizal-symbiosis-frankia]] bacteria to fix nitrogen in legume root nodules. It is a component of nitrate reductase and nitrogenase. Molybdenum is mobile -- deficiency causes chlorosis in older leaves and a nitrate buildup that causes leaf curling (whiptail). Availability increases with pH, unlike most other micronutrients. Only tiny amounts are needed.
-
-## Nickel (Ni)
-
-Nickel's functions are still being studied, but its absence causes urea accumulation in leaves, resulting in leaf tip burns. Nickel is a component of the enzyme urease, which breaks down urea into ammonia and carbon dioxide. It is immobile in plants and present in several rock types. Nickel was the last element confirmed as essential for higher plants (1987). Deficiency is rare.
-
-## Sodium (Na) -- A Conditional Element
-
-Sodium is not considered essential for all plants, but in C4 plants (sugarcane, maize, sorghum, amaranth), sodium supports osmotic activities by drawing water into cells when potassium ions are insufficient. Other cations such as rubidium can perform the same function, which is why sodium's essential status remains debated. Sodium is mobile in the plants that require it.
-
-## Biochemical Grouping
-
-Nutrients can be classified more meaningfully by their biochemical functions inside the plant rather than by quantity alone. Nitrogen, sulfur, phosphorus, and boron form structural parts -- the first three are protein building blocks, while boron provides strength to polysaccharide connections in cell walls. Potassium, magnesium, calcium, manganese, zinc, iron, copper, and molybdenum activate enzymes and transport electrons. Phosphorus, chlorine, sodium, and potassium affect membrane function. Chlorine, potassium, calcium, and magnesium regulate electrical ion balance.
-
-## Grouping by Mobility
-
-Mobility provides another useful classification framework. In soil, the most mobile nutrients are highly soluble: nitrate-nitrogen, sulfur, boron, and chlorine. Ammonium-nitrogen, potassium, calcium, magnesium, molybdenum, and nickel are adsorbed by clay and organic matter and are less mobile. The most immobile nutrients -- phosphorus, copper, iron, manganese, and zinc -- react chemically and become tied up, though they can become mobile when chelated.
-
-Inside plants, nitrogen, phosphorus, potassium, magnesium, and chlorine are mobile and can be transported to new growth, so deficiency symptoms appear first in older tissue. Iron, zinc, manganese, copper, nickel, sulfur, and molybdenum are somewhat immobile, with deficiency showing in new growth. Calcium and boron are the most immobile of all.
-
-## Mobility and Deficiency Diagnosis
-
-Mobile micronutrients (molybdenum, zinc, chlorine) show deficiency in older leaves. Immobile ones (boron, copper, iron, manganese, nickel) show symptoms in new growth. Nutrient mobility also has direct implications for [[teaming-with-nutrients-foliar-feeding-and-absorption]] -- only mobile nutrients can be redistributed after absorption through leaves. However, diagnosing deficiency by visual symptoms alone is unreliable due to chemical interdependencies -- only soil or tissue testing gives definitive answers.
+Molybdenum synthesizes organic phosphorus compounds once phosphorus enters the plant and is essential for [[teaming-with-nutrients-foliar-feeding-and-absorption]] -- only mobile nutrients can be redistributed after absorption through leaves. However, diagnosing deficiency by visual symptoms alone is unreliable due to chemical interdependencies -- only soil or tissue testing gives definitive answers.
 
 ## Natural Sources
 
@@ -97,24 +75,11 @@ Several elements not considered essential for plant growth nonetheless exert ben
 
 ## Mycorrhizal Delivery of Micronutrients
 
-[[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] are among the most important biological agents for micronutrient acquisition. Their hyphae extend far beyond the root depletion zone, accessing micronutrients from soil volumes that roots alone cannot reach. AMF are particularly effective at delivering zinc, copper, and phosphorus to host plants — nutrients that are highly immobile in soil and readily depleted in the rhizosphere. Ectomycorrhizal fungi produce oxalic and other organic acids that solubilize mineral-bound micronutrients, effectively weathering rock particles to release trace elements in plant-available forms. The mycorrhizal contribution to micronutrient nutrition is so significant that plants growing in low-phosphorus soils often show improved micronutrient status when mycorrhizal colonization is high, even when no micronutrient amendments are applied. This is one of the strongest arguments for maintaining healthy mycorrhizal populations through minimal soil disturbance, appropriate cover cropping, and avoidance of excessive phosphorus fertilization (which can suppress mycorrhizal colonization).
-
-## Chelation and Micronutrient Availability
-
-Chelation — the formation of stable complexes between organic molecules and metal ions — is a fundamental mechanism for maintaining micronutrient availability in soil. Natural chelating agents include amino acids, organic acids (citric, malic, oxalic), humic and fulvic acids, and microbial siderophores. These compounds bind metal ions in soluble complexes that resist precipitation and adsorption, keeping micronutrients available for plant uptake even in alkaline or calcareous soils where they would otherwise become insoluble. Synthetic chelating agents such as EDTA, DTPA, and EDDHA are widely used in conventional agriculture to deliver iron, zinc, and manganese to crops in alkaline conditions, but they are not permitted in organic systems. Organic gardeners rely instead on biological chelation: maintaining active microbial communities that produce siderophores and organic acids, adding compost and humic substances that contain natural chelating agents, and managing soil pH to maximize native micronutrient solubility. The effectiveness of biological chelation is one of the reasons why organically managed soils often show better micronutrient availability than chemically fertilized soils at equivalent pH levels.
-
-## Foliar Micronutrient Application
-
-When soil conditions make root uptake of micronutrients inefficient — as in calcareous soils where iron and manganese precipitate, or in cold wet soils where root activity is reduced — foliar application can provide a direct delivery route. Foliar-applied micronutrients are absorbed through leaf stomata and cuticular pores and can be translocated to deficient tissues, though only mobile nutrients can be redistributed throughout the plant after absorption. The effectiveness of foliar micronutrient sprays depends on formulation (chelated forms are generally more effective than ionic salts), timing (early morning or evening application reduces evaporation and improves absorption), and adjuvants (surfactants and stickers improve leaf coverage and retention). Kelp-based foliar sprays are popular in organic systems because they provide a broad spectrum of micronutrients along with natural growth hormones and amino acids.
-
-## Micronutrient Cycling Through the Soil Food Web
-
-The soil food web drives micronutrient cycling through a process of sequential consumption and mineralization. Bacteria and fungi assimilate micronutrients from soil solution and mineral surfaces, incorporating them into their biomass. When bacterial-feeding protozoa consume bacteria, and fungal-feeding nematodes consume fungal hyphae, the excess micronutrients in the microbial biomass are released in plant-available forms through excretion. This "microbial loop" ensures continuous micronutrient recycling in healthy soils and explains why soils with active food webs maintain better micronutrient availability than degraded or compacted soils. The predation pathway also regulates microbial population dynamics: when protozoa and nematodes graze on bacteria and fungi, the grazed populations respond with increased growth and nutrient immobilization, followed by further mineralization as grazing continues. This oscillating dynamic maintains a steady supply of micronutrients in the rhizosphere, complementing the direct nutrient delivery provided by mycorrhizal fungi and root exudation.
-
-## See Also
-
-- [[teaming-with-nutrients-foliar-feeding-and-absorption]]
-- [[plant-micronutrients-and-their-essential-functions]]
+[[teaming-with-nutrients-foliar-feeding-and-absorption]]
 - [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
 
 Testing is essential: both soil tests and plant tissue tests provide objective data that visual symptoms cannot. When deficiencies are confirmed, address them through organic amendments rather than synthetic supplements, ensuring that the soil food web remains intact to support long-term nutrient cycling.
+
+## See Also
+
+- [[teaming-with-nutrients-composting-and-nutrient-cycling]]

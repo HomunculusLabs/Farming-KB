@@ -112,12 +112,6 @@ widespread across mycorrhizal types.
 
 ## Implications for Forest Management and Carbon Sequestration
 
-The fungal succession model for pine needle decomposition has direct implications for forest carbon cycling and management practices. Because the early stages of decomposition are dominated by phylloplane fungi that are already present on living needles, forest health and needle chemistry influence the initial decomposition trajectory. Nitrogen deposition from atmospheric pollution can accelerate early-stage decomposition by increasing needle nitrogen content, but paradoxically slows late-stage decomposition by suppressing lignin-degrading basidiomycete enzyme production — a phenomenon known as the "nitrogen inhibition effect." This means that nitrogen-saturated forests may accumulate partially decomposed litter with altered carbon chemistry, potentially affecting long-term soil carbon storage and the formation of stable humus. Understanding these [[fungal-enzyme-activity-nutrient-availability]] is essential for predicting how forests will respond to ongoing changes in atmospheric chemistry and climate.
-
-## See Also
-
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[dighton-fungal-succession-resource-decomposition]]
+The fungal succession model for pine needle decomposition has direct implications for forest carbon cycling and management practices. Because the early stages of decomposition are dominated by phylloplane fungi that are already present on living needles, forest health and needle chemistry influence the initial decomposition trajectory. Nitrogen deposition from atmospheric pollution can accelerate early-stage decomposition by increasing needle nitrogen content, but paradoxically slows late-stage decomposition by suppressing lignin-degrading basidiomycete enzyme production — a phenomenon known as the "nitrogen inhibition effect." This means that nitrogen-saturated forests may accumulate partially decomposed litter with altered carbon chemistry, potentially affecting long-term soil carbon storage and the formation of stable humus. Understanding these [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-leaf-litter-succession]]
-- [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

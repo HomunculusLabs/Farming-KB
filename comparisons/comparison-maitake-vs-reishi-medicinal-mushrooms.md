@@ -23,7 +23,7 @@ type: comparison
 
 # Maitake vs Reishi: Medicinal Mushroom Comparison
 
-**Maitake** (*[[grifola-frondosa]]*) and **Reishi** (*Ganoderma lingzhi*, formerly *G. lucidum*) are two of the most extensively researched [[medicinal-mushrooms]] in both traditional Asian medicine and modern clinical research. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
+**Maitake** (*[[medicinal-mushrooms]] in both traditional Asian medicine and modern clinical research. Despite overlapping therapeutic claims, they differ significantly in their bioactive compound profiles, traditional applications, culinary roles, and practical considerations.
 
 ## Taxonomy and Appearance
 
@@ -39,15 +39,6 @@ type: comparison
 ## Active Compounds
 
 ### Maitake
-- **[[beta-glucans]] (β-D-glucans):** The primary immunomodulatory polysaccharides. Maitake is notably rich in β-1,6-glucans with β-1,3 branching, which are associated with immune cell activation.
-- **D-Fraction:** A proprietary protein-bound β-glucan extract (standardized to ≥30% polysaccharides) that is the most studied maitake preparation, particularly in Japan. Research on D-Fraction for immune support and adjunctive cancer therapy is supported by in-vitro, animal, and limited human data, though large randomized controlled trials remain lacking.
-- **Grifolan:** A specific β-glucan isolate studied for macrophage and natural killer (NK) cell activation.
-- **MD-Fraction:** A refined version of D-Fraction with higher purity, researched for enhanced bioactivity.
-- **Ergosterol and other sterols:** Present in smaller amounts.
-
-### Reishi
-- **Triterpenes (ganoderic acids):** A large family (>150 identified) of lanostane-type triterpenoids unique to *Ganoderma* species. Ganoderic acids A through T have demonstrated anti-inflammatory, hepatoprotective, and anti-tumor activity in preclinical studies.
-- **Polysaccharides:** β-1,3/1,6-glucans similar in mechanism to maitake but with distinct structural variations. Reishi polysaccharides show immunomodulatory effects supported by multiple animal and in-vitro studies.
 - **[[ganoderma-lucidum]] peptide (GLP):** A protein shown to have antioxidant properties in preclinical models.
 - **Nucleosides and adenosine:** Present at notable concentrations; contribute to reported calming and adaptogenic effects.
 
@@ -134,6 +125,5 @@ Maitake and reishi represent complementary approaches to medicinal mushroom use.
 
 ## See Also
 
-- [[biological-efficiency]]
 - [[ergosterol]]
 - [[ganoderic-acids]]

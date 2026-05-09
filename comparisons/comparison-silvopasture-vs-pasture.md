@@ -19,18 +19,6 @@ rotational grazing and adaptive multi-paddock management.
 
 ### Silvopasture
 
-[[silvopasture-systems]] combines three productive layers: overstory trees,
-understory forage, and grazing livestock. This integration creates synergies
-where each component benefits the others. Trees provide shade that reduces
-animal heat stress, their leaf litter adds organic matter to soil, and deep
-roots access nutrients unavailable to shallow-rooted grasses. Livestock, in
-turn, control competing vegetation, cycle nutrients through manure, and
-generate income while trees mature. Silvopasture is recognized as one of the
-highest-performing carbon sequestration practices in agriculture, storing 5
-to 10 times more carbon than pasture alone.
-
-### Pasture Management
-
 [[pasture-management]] centers on maximizing forage production and animal
 performance through careful grass stewardship. Rotational grazing moves
 livestock between paddocks to prevent overgrazing, allowing plants to recover
@@ -128,12 +116,8 @@ trees provides the best balance of immediate returns and long-term gains.
 
 ## See Also
 
-- [[comparison-silvopasture-systems-vs-pasture-management]]
-
 - [[comparison-pasture-vs-silvopasture]]
 
-- [[pasture-management-and-forage]]
 - [[food-forest-design]]
-- [[leucaena-alley-cropping-systems]]
 - [[silvopasture-systems]]
 - [[pasture-management]]

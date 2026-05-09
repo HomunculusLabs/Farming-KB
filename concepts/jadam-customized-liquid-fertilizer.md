@@ -11,18 +11,7 @@ sources:
 
 ## Overview
 
-One of JADAM's most innovative concepts is crop-specific liquid fertilizer: making [[jadam-liquid-fertilizer]] from the same crop's residues, waste fruits, and by-products. The principle is that "things similar to my crops are good food for my crops" -- a fruit contains all nutrients needed by its seeds to sprout and grow into a perfect plant.
-
-## The Egg Analogy
-
-An egg is single-celled. Kept warm for a certain period, cell division occurs and a perfect form of life is born. An egg has all nutrients needed to create life -- it is called the "perfect food." Similarly, a fruit contains all nutrients needed by a seed to sprout and grow. A fruit is the "child" of a crop, equivalent to the egg.
-
-Therefore: to grow great tomatoes, use tomato liquid fertilizer. For strawberries, use strawberry JLF. For melons, use melon JLF.
-
-## How to Make
-
-1. Fill half the container with water
-2. Add a handful of [[jadam-natural-pesticide-philosophy]]
+One of JADAM's most innovative concepts is crop-specific liquid fertilizer: making [[jadam-natural-pesticide-philosophy]]
 3. Put crop residues (unsold, left-over, diseased, ugly, malformed fruits) into the water until the container is full
 4. Close the lid and wait
 
@@ -84,12 +73,8 @@ JADAM's fundamental insight: judge fertilizer from the nutritional perspective. 
 
 ## See Also
 
-- [[jadam-liquid-fertilizer]] -- the general JLF method
 - [[jadam-anaerobic-fermentation]] -- the fermentation approach
-- [[jadam-natural-pesticide-philosophy]] microbial starter
 - [[jadam-liquid-fertilizer]] -- the three principles
-- [[jadam-rejection-of-sugar-molasses]] -- why no sugar in JLF
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-human-manure-liquid-fertilizer]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-food-waste-liquid-fertilizer]]

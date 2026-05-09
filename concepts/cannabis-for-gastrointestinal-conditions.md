@@ -118,22 +118,7 @@ Dietary fiber serves as prebiotic fuel for beneficial gut bacteria, which modula
 CB1 receptors in the gut and brain regulate appetite, taste perception, and satiety. This is why cannabis increases appetite (the "munchies") and why rimonabant (a CB1 antagonist) was developed as a weight-loss drug (later withdrawn due to psychiatric side effects).
 
 ### Clinical Implications
-- THC stimulates appetite in cachexia and anorexia (see [[cannabis-for-cachexia-and-appetite-stimulation]])
-- CBD normalizes gut motility (reduces diarrhea without causing constipation)
-- The entourage effect of whole-plant cannabis provides balanced GI effects
-- Vaporized or oral administration preferred over smoking for GI conditions
-
-## Related Topics
-
-- [[cannabis-for-hepatitis]]
-- [[cannabis-for-chronic-pain-comprehensive]]
-- Cannabis And Inflammation
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), GERD, IBS, Pancreatitis, Periodontitis sections
+- THC stimulates appetite in cachexia and anorexia (see [[cannabis-for-hepatitis]]
 - [[cannabis-and-ibs-research]]
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-for-gerd-and-acid-reflux]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]

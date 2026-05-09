@@ -1,16 +1,13 @@
 ---
 title: Permaculture Waste Management
-created: 2026-05-06
-updated: 2026-05-06
+created: 2026-04-13
+updated: 2026-04-13
 type: concept
-tags: []
-sources: []
+tags: [permaculture, composting, greywater, pollution, recycling, water, ecology, homesteading]
+sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
----
-ti
-
-# [[permaculture]] Waste Management
+# Permaculture Waste Management
 
 Waste is a central concept in permaculture. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
 
@@ -51,7 +48,7 @@ For existing septic systems, effluent can flow through:
 - Leach fields planted to useful species
 - Aquatic crop systems for biogas feedstock
 
-## [[composting]] and Organic Recycling
+## Composting and Organic Recycling
 
 ### Dry Toilets
 Where no septic tank is present, a dry toilet suffices. Manure is put under trees in pits. Even "toilet paper" can be built into hedge plantings (Nicotiana, Leucaena).
@@ -78,7 +75,7 @@ Greywater from kitchens, bathrooms, and laundries can be routed through:
 - Reed bed treatment systems
 - Direct irrigation of fruit trees and ornamental plantings
 
-The reduction of water used in sewage systems is itself a design goal -- dry toilets, [[composting-systems]], and greywater reuse all reduce the volume requiring treatment.
+The reduction of water used in sewage systems is itself a design goal -- dry toilets, composting systems, and greywater reuse all reduce the volume requiring treatment.
 
 ## Industrial Waste
 

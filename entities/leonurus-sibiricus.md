@@ -130,7 +130,7 @@ gardens.
 
 ## See Also
 
-- [[leonurus-cardiaca-entity]]
 - [[cannabis-sativa]]
-- [[mimosa-tenuiflora]]
 - [[salvia-divinorum]]
+
+See also: [[peyote-and-psychoactive-cacti]]

@@ -75,8 +75,6 @@ The use of 4-hydroxyindole as a starting material for psilocin synthesis has pre
 
 ## Related Topics
 
-- [[psilocybin-and-psilocin-chemical-synthesis|Psilocybin and Psilocin Chemical Synthesis]]
 - [[lialh4-reduction-glyoxalylamide-psilocin-synthesis|LiAlH4 Reduction to Psilocin]]
-- [[ayahuasca-and-dmt-plant-medicine|Oxalyl Chloride Acylation of 4-Acetylindole]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway|Shirota Large-Scale Synthesis Pathway]]
 - [[acetyl-protection-route-psilocin-psilocybin-synthesis|Acetyl Protection Route for Psilocin and Psilocybin]]

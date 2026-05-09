@@ -75,40 +75,8 @@ Sake is the most refined application of koji technology. The koji-rice-mash-yeas
 
 ### Miso
 
-Miso is made by combining koji (typically on rice or barley) with cooked soybeans and salt, then fermenting for months to years. The koji enzymes break down soybean proteins and starches into the complex, savory paste that is a cornerstone of Japanese cuisine. See [[miso-making]] for detailed instructions.
-
-### Soy Sauce (Shoyu)
-
-Soy sauce is made from a mixture of soybeans and wheat inoculated with koji, then fermented in brine for many months. The long brine fermentation allows complex flavors to develop through the interaction of koji enzymes, lactic acid bacteria, and yeast.
-
-### Amazake
-
-Amazake is a sweet, non-alcoholic (or very low alcohol) beverage made by incubating a mixture of cooked rice and koji at about 140 degrees F (60 degrees C). At this temperature, amylase enzymes are active but yeast cannot grow, producing a sweet rice drink.
-
-### Shochu and Awamori
-
-Japanese distilled spirits that begin with a koji-fermented mash. The koji converts starch to sugar, yeast ferments the sugar to alcohol, and the resulting beverage is then distilled.
-
-### Rice Vinegar
-
-Koji-fermented rice can be further fermented with acetic acid bacteria to produce rice vinegar, a key ingredient in sushi rice and many Asian dishes.
-
-## Koji Beyond Asian Cuisine
-
-The Western discovery of koji has led to creative applications in non-Asian cooking:
-
-- Koji can be used to tenderize and flavor meats (a technique popularized by chef René Redzepi)
-- Koji-fermented beans can substitute for miso in Western recipes
-- Koji can be used to make sweet fermentations of other grains (oats, millet, corn)
-- Koji amylase can be used in brewing as an alternative to barley malt enzymes
-
-## See Also
-
-- [[miso-making]] for detailed miso fermentation instructions
-- [[food-fermentation-guide]] for broader fermentation science
+Miso is made by combining koji (typically on rice or barley) with cooked soybeans and salt, then fermenting for months to years. The koji enzymes break down soybean proteins and starches into the complex, savory paste that is a cornerstone of Japanese cuisine. See [[miso-making]] for detailed miso fermentation instructions
 - [[faires-food-fermentation-methods]] for other fermentation techniques
-- [[malt-and-malting-process]] for the grain-based enzyme system used in Western brewing
 - [[beer-brewing-basics]] for how enzymes work in the mashing process
-- [[sourdough-bread-guide]] for another grain fermentation tradition
 - [[vinegar-making]] for acetic acid fermentation
 - [[faires-food-drying-and-no-energy-storage]]

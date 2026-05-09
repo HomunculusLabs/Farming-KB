@@ -28,9 +28,7 @@ According to the Cannabis Health Index, the evidence for cannabis in treating
 pruritis is based on 3 studies reviewed with a total CHI value of 10, yielding
 a CHI score of 3.33.
 
-See also: [[blesching-cannabis-dermatological-conditions]],
-[[blesching-cannabis-skin-cancer-non-melanoma]],
-[[blesching-cannabis-melanoma]],
+See also: [[blesching-cannabis-skin-cancer-non-melanoma]],
 [[blesching-cannabis-herpes-hsv]],
 [[cannabis-and-fibromyalgia]]
 

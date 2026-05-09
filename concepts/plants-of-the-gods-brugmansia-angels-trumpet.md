@@ -123,11 +123,7 @@ which is in reality a much less common plant.
 
 ## Related Topics
 
-- [[tree-daturas-brugmansia-south-american-ethnobotany]] - detailed
 - [[solanaceous-hallucinogens-pharmacology]] - pharmacology
-- [[nightshade-plants-entheogen]] - Nightshade family overview
 - [[plants-of-the-gods-nightshade-hexing-herbs]] - related Nightshades
-- [[datura-metel-old-world-ethnobotany]] - Datura comparison
 - [[datura-stramonium]] - Jimsonweed profile
-- [[plants-gods-ayahuasca]] - Ayahuasca connection
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey

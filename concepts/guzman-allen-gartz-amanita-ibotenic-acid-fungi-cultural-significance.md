@@ -140,8 +140,6 @@ concentrated in Mesoamerica and New Guinea.
 
 ## See also
 
-[[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
 [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
-[[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 [[guzman-allen-gartz-neurotropic-fungi-europe]]

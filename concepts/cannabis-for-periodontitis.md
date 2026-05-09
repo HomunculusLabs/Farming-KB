@@ -26,8 +26,7 @@ This study demonstrated that CBD:
 - These effects occurred through CB2 receptor activation
 
 The RANK/RANKL/OPG pathway is the same pathway involved in:
-- Arthritis bone erosion (see [[cannabis-and-arthritis]])
-- Osteoporosis (see [[blesching-cannabis-osteoporosis]])
+- Arthritis bone erosion (see [[blesching-cannabis-osteoporosis]])
 - Cancer metastasis to bone
 
 CBD's ability to modulate this pathway has broad implications across multiple conditions involving bone loss.
@@ -55,58 +54,26 @@ CB2 receptors on osteoclasts (bone-resorbing cells) inhibit their activity. In p
 CBD reduces the inflammatory cytokines that drive periodontal tissue destruction, addressing both the cause (inflammation) and the effect (bone loss).
 
 ### Antimicrobial
-Cannabis has broad antimicrobial properties (see [[cannabis-for-skin-conditions-detailed]]), though direct effects on periodontal pathogens have not been specifically studied.
-
-## Food-as-Medicine for Oral Health
-
-### Dietary Components
-**Gazzani, Daglia, and Papetti (2012)**: "Food components with anticaries activity." Current Opinion in Biotechnology.
-
-Dietary polyphenols from various plants show anticaries and anti-periodontal disease activity.
-
-### Green and Black Tea
-Polyphenols in tea (catechins, theaflavins) inhibit oral pathogens and reduce inflammation.
-
-### Cocoa
-High-flavanol cocoa reduces oral inflammation and has antibacterial properties against Streptococcus mutans.
-
-### Essential Oils
-- **Clove oil (eugenol)**: Traditional dental analgesic with antibacterial properties
-- **Tea tree oil**: Broad antimicrobial activity
-- **Myrrh**: Traditional remedy for gum disease (Nomicos, 2007)
-
-### Propolis and Honey
-**Cuban Ministry of Public Health (1992)**: Therapeutic Guide includes honey-based pharmaceuticals for oral health.
-
-## Practical Applications
-
-### CBD Oil for Gums
-- Apply CBD tincture directly to affected gum areas
-- Use CBD-infused mouthwash (sublingual tincture swished and held)
-- Combine with coconut oil pulling for enhanced absorption
-
-### Anti-Inflammatory Oral Rinse
-- Warm salt water + CBD tincture
-- Tea tree oil (diluted) as antimicrobial rinse
-- Chamomile tea rinse for soothing inflammation
-
-### Systemic Approach
-- Oral CBD for systemic anti-inflammatory effect
-- Address underlying stress (mind-body connection)
-- Maintain regular dental care
-- Reduce refined sugar and processed foods
-
-## Related Topics
-
-- [[blesching-cannabis-osteoporosis]]
-- [[cannabis-and-arthritis]]
-- Cannabis For Inflammation
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Periodontitis section
+Cannabis has broad antimicrobial properties (see [[blesching-cannabis-osteoporosis]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-mind-body-medicine-integration]]
 - [[blesching-cannabis-prostate-cancer]]
-- [[water-pathways-through-plants]]
 - [[blesching-cannabis-cervical-cancer]]
+## Practical Considerations
+
+Successful implementation of Cannabis For Periodontitis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

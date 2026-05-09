@@ -120,9 +120,6 @@ Solomon recommends keeping simple records of soil temperature and planting dates
 
 ## See Also
 
-- [[solomon-clay-soil-management-and-remediation|Clay Soil Management]]
 - [[solomon-seed-quality-and-germination-testing|Seed Germination Temperature]]
-- [[season-extension-techniques|Season Extension Techniques]]
 - [[query-how-to-fix-phosphorus-deficiency-in-cannabis|Phosphorus Deficiency in Cold Soil]]
-- [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi|Mycorrhizal Activity and Temperature]]
 - [[solomon-complete-organic-fertilizer-guide|Complete Organic Fertilizer Recipe]]

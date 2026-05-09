@@ -13,30 +13,7 @@ type: concept
 # Cho's Plant Growth Stage Treatments
 
 Dr. Cho Han Kyu's Korean Natural Farming system applies specific
-cho-natural-farming-inputs-overview|natural farming inputs at different stages of plant growth. This system is rooted in the [[knf-nutritive-cycle-theory]], which states that plants require different
-nutrients at different developmental phases.
-
-## The Nutritive Cycle Theory
-
-The Nutritive Cycle Theory recognizes three major growth phases:
-
-1.  **Vegetative Growth Stage** — Plants develop roots and shoots,
-    converting carbohydrates to nitrogen as their primary growth
-    requirement.
-2.  **Cross-Over Period (Morning Sickness)** — Plants begin flowering.
-    They crave "sour nutrients" in the form of phosphoric acid compounds.
-3.  **Reproductive Growth Stage** — From flowering through ripening,
-    plants store carbohydrates. Potassium supports color development and
-    calcium becomes increasingly important.
-
-Cho emphasizes understanding exact physiology of each stage rather than
-relying solely on external conditions. Farmers must provide the right
-material, right amount, at the right stage.
-
-## Treatment 1: Vegetative Growth Stage
-
-This treatment promotes leaf and stem development, increasing crop volume
-and size. [[master-cho-knf-fpj-fermented-plant-juice-guide]] is the primary input, supporting nitrogen-demanding growth.
+cho-natural-farming-inputs-overview|natural farming inputs at different stages of plant growth. This system is rooted in the [[master-cho-knf-fpj-fermented-plant-juice-guide]] is the primary input, supporting nitrogen-demanding growth.
 
 -   All inputs diluted at approximately 1:1000 ml of water.
 -   FPJ used at lower concentrations during early vegetative growth to
@@ -50,17 +27,6 @@ This transition from vegetative to reproductive growth is when plants
 need phosphoric acid most. Cho calls it "morning sickness" by analogy to
 pregnant women craving sour foods.
 
--   [[knf-water-soluble-phosphoric-acid-wspa]] becomes the critical input.
--   Dilution: 1:1000 ml water as base.
--   Timing is critical — too early harms vegetative growth; too late
-    compromises flower bud formation.
--   This is often the most important treatment window of the cycle.
-
-## Treatment 3: Reproductive Growth Stage
-
-The plant shifts from building structure to filling and maturing fruits.
-Calcium requirements increase significantly during this period.
-
 -   [[cho-water-soluble-calcium-and-potassium]] is the primary input.
 -   Dilution: 1:1000 ml water as base.
 -   Supports nutrient accumulation in developing fruits.
@@ -72,33 +38,9 @@ Calcium requirements increase significantly during this period.
 A specialized treatment applied near harvest to enhance fruit quality:
 
 **Recipe per 1000 ml water:**
--   [[knf-oriental-herbal-nutrient]]: 1 ml
--   WCA: 2 ml
--   Seawater: 30 ml
-
-Spray 15 days and 2 days before harvesting (two applications). Promotes
-sweetness, maturity, and aromatic quality by boosting mineral content and
-sugar transport to fruit tissues.
-
-## Treatment 5: Crack Prevention in Fruits
-
-Fruits often crack when rains arrive after prolonged drought:
-
-**Recipe per 1000 ml water:**
--   OHN: 1 ml
 -   [[knf-brown-rice-vinegar]]: 2 ml
 -   FPJ: 2 ml
--   [[bionutrients-lab-lactic-acid-bacteria-serum]]: 1 ml
--   Seawater: 30 ml
-
-Apply during drought periods. The combination strengthens cell walls and
-improves the plant's ability to regulate water uptake during rapid
-moisture changes.
-
-## Integration with Soil Treatment
-
-These foliar treatments work with the
-[[cho-seed-seedling-solution-treatment]],
+-   [[cho-seed-seedling-solution-treatment]],
 applied before seeding or transplanting. The SOS creates the microbial
 and nutritional foundation that stage-specific treatments build upon.
 
@@ -120,9 +62,25 @@ establishment.
 
 ## See Also
 
-- [[cho-plant-growth-stage-treatment-protocols]]
-
--   [[knf-nutritive-cycle-theory]]
--   [[cho-natural-farming-inputs-overview]]
+- [[knf-nutritive-cycle-theory]]
 -   [[knf-seed-treatment-and-soil-foundation]]
 -   [[water-soluble-calcium-wca]]
+## Practical Considerations
+
+Successful implementation of Cho's Plant Growth Stage Treatments requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

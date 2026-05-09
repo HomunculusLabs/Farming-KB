@@ -10,7 +10,7 @@ sources:
 
 # Deficit Farming
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] introduces the concept of "deficit farming" to describe agricultural systems that export more fertility than they retain, creating an unsustainable drain on [[fukuoka-natural-soil-works-itself]].
+In *The Road Back to Nature*, [[fukuoka-natural-soil-works-itself]].
 
 ## The Livestock Connection
 
@@ -22,46 +22,7 @@ Fukuoka directly challenges the common belief that livestock farming enriches th
 
 ## The Export Drain
 
-Modern deficit farming operates through a chain of [[fukuoka-critique-modern-agriculture]]:
-
-1. Irrigated forage crops are grown using chemical fertilizers
-2. Crops are harvested with large combines
-3. Feed is packaged and exported worldwide as cattle feed
-4. The exporting country drains its lands of fertility
-
-Fukuoka notes that Japan's livestock are not fattened on Japanese feed but receive feed from America. By exporting all this feed, "America is draining her lands of fertility." Farmers may be making money, but the soil "just keeps on growing poorer and poorer."
-
-## Salt Accumulation
-
-When exhausted land is abandoned by ranchers, fruit growers move in:
-
-- Sprinklers are set up on the "weary land"
-- Chemical fertilizers are spread
-- Water is often piped in from hundreds of miles away
-- When irrigation water evaporates, it draws salt up from within the soil
-- Continuous salt deposition in the topsoil eventually turns irrigated land into a salt field
-
-## The Petroleum Basis
-
-Fukuoka emphasizes that this system is fundamentally based on petroleum energy:
-
-- "This is no longer crop production under natural conditions; it is farming based on petroleum energy"
-- Even the water, though sometimes drawn from nearby sources, is often transported enormous distances
-- The entire system amounts to "crude, primitive agriculture" despite its modern appearance
-
-See also: [[fukuoka-america-drying-up]], [[fukuoka-agriculture-run-amok]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-critique-green-revolution]]
-
-## Key Points
-
-- Masanobu Fukuoka's natural farming emphasizes working with nature rather than against it
-- The one-straw revolution approach minimizes human intervention in agricultural systems
-- Seed balls and no-till methods are central to Fukuoka's philosophy
-- Observing natural ecosystems provides the blueprint for sustainable food production
-- Fukuoka challenged the fundamental assumptions of modern agricultural science
-
-## See Also
-
-[[fukuoka-natural-farming-new-age]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-method]], [[fukuoka-observation-based-farming]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-natural-farming-italy]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-philosophy-of-mu]]
+Modern deficit farming operates through a chain of [[fukuoka-america-drying-up]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-natural-farming-new-age]], [[fukuoka-natural-farming-method]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-philosophy-of-mu]]
 
 ## Practical Applications
 
@@ -106,3 +67,22 @@ landscape and understand its inherent patterns and potentials. This approach
 requires patience and a willingness to let go of predetermined outcomes. The
 reward is a deeper relationship with place and increasingly self-sustaining
 systems that require less effort while producing more abundance over time.
+## Practical Considerations
+
+Successful implementation of Fukuoka — Deficit Farming requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

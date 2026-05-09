@@ -78,15 +78,9 @@ Traditional uses include immune system support, fatigue reduction, liver protect
 
 ## See Also
 
-- [[growing-gourmet-north-american-reishi-species]]
-
 - [[reishi-cultivation]]
-- [[reishi-cultivation-guide]]
 - [[reishi-cultivation-methods]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[reishi-mushroom-medicinal-properties]]
-- [[reishi-mushroom-medicinal-research]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[gourmet-mushroom-strain-selection]]

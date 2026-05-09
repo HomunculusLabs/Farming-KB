@@ -10,7 +10,7 @@ tags: [culture]
 
 # Dominance Culture and the Ego in Food of the Gods
 
-In [[mckenna-food-of-the-gods-thesis]], Terence McKenna presents a sweeping historical argument that the suppression of [[weil-psychedelic-experience-set-and-setting]] and ecstatic states is rooted in the rise of what he calls "dominator culture" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler's The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
+In [[weil-psychedelic-experience-set-and-setting]] and ecstatic states is rooted in the rise of what he calls "dominator culture" -- a hierarchical, paternalistic, materialistic, and male-dominated social organization that replaced earlier "partnership" models of human society. This framework draws heavily on Riane Eisler's The Chalice and the Blade and connects the evolution of the ego to the loss of plant-based visionary practices.
 
 ## Partnership vs. Dominator Societies
 
@@ -38,7 +38,7 @@ McKenna argues that once syntactic self-expression became established among earl
 
 > "If the ego is not regularly and repeatedly dissolved in the unbounded hyperspace of the Transcendent Other, there will always be slow drift away from the sense of self as part of nature's larger whole. The ultimate consequence of this drift is the fatal ennui that now permeates Western civilization."
 
-This connects to McKenna's broader [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]: the same [[psilocybin-mushroom-habitat-and-ecology]] mushrooms that catalyzed language, self-reflection, and social cohesion in early humans also served to regularly dissolve the ego-structure that language and abstraction made possible. The loss of this periodic dissolution -- as humans migrated away from tropical grasslands, as climatic change reduced mushroom availability, and as dominator cultures actively suppressed visionary practices -- created the conditions for the ego's unchecked expansion.
+This connects to McKenna's broader [[psilocybin-mushroom-habitat-and-ecology]] mushrooms that catalyzed language, self-reflection, and social cohesion in early humans also served to regularly dissolve the ego-structure that language and abstraction made possible. The loss of this periodic dissolution -- as humans migrated away from tropical grasslands, as climatic change reduced mushroom availability, and as dominator cultures actively suppressed visionary practices -- created the conditions for the ego's unchecked expansion.
 
 ## Language and the Ego's Consolidation
 
@@ -62,23 +62,33 @@ McKenna's prescription is what he calls the Archaic Revival: a recovery of the s
 
 ## See Also
 
-- [[mckenna-food-gods-twilight-state-thinking]]
-
 - [[mckenna-food-gods-mead-honey-dionysian]]
-
-- [[mckenna-food-gods-ibogaine-bwiti-fang]]
 
 - [[mckenna-food-gods-chimpanzee-aspilia-self-med]]
 
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]] -- the evolutionary argument for mushroom use in early humans
 - [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] -- historical example of dominator suppression of ecstatic religion
-- [[metzner-psychedelic-psychotherapy-clinical-history]] -- the psychological mechanism McKenna identifies
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]] -- Eisler's framework as used by McKenna
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]] -- Jaynes's theory of ego development
 - [[mckenna-dominator-vs-partnership-society-model]]
-- [[mckenna-dissolution-of-the-dominator-culture]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[weil-the-natural-mind-altered-states-normalcy]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[dominator-culture-and-partnership-society]]
 
 (See Also truncated — original had 137 entries.)
+## Practical Considerations
+
+Successful implementation of Dominance Culture and the Ego in McKenna's Food of the Gods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

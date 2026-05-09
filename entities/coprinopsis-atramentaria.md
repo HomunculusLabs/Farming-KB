@@ -120,11 +120,7 @@ The most reliable identification feature distinguishing C. atramentaria from sim
 
 ## See Also
 
-- [[coprinus-comatus-detailed]]
 - [[coprinellus-micaceus]]
-- [[psilocybe-cubensis]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
 - [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
-- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
-- [[pleurotus-ostreatus]]
 - [[agaricus-bisporus]]

@@ -123,8 +123,6 @@ so-called understanding moves man further from the truth he seeks.
 
 ## See Also
 
-- [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-errors-human-intellect]]
-- [[fukuoka-how-nature-should-be-perceived]]
 - [[fukuoka-nature-is-unknowable]]
 - [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]

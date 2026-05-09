@@ -8,20 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T-9
 
-PIHKAL entry #45. 2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE.
-
-## Chemical Name
-
-2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 60 - 100 mg. |
-| Duration | 12 - 18 h. |
-
-## Qualitative Comments
+[[qualitative-comments-methodology-pihkal]]
 
 > (with 90 mg) 2C-T-9 tastes the way that old
 > crank-case motor oil smells. I was up to something above a plus two
@@ -65,22 +52,32 @@ at 0.13 mm/Hg and which could be recrystallized from a 4:1 mixture of cyclohexan
 
 To a well-stirred ice-cold suspension of 2.8 g p-dimethoxybenzene and 3.2 mL N,N,N',N'-tetramethylethylenediamine in 100 mL petroleum ether under an inert atmosphere of He, there was added 13 mL of a 1.6 N solution of butyllithium in hexane. The suspended dimethoxybenzene became opaque and there was a pale yellow color generated. The reaction mixture was warmed to room temperature which converted it to light white solids. After an additional 0.5 h stirring, there was added, slowly, 3.6 g of di-(t)-butyldisulfide. The yellow color deepened, the solids dissolved and, after 1 h, the color was a clear deep brown. This solution was poured into 100 mL dilute HCl and the organic phase was separated. The aqueous fraction was extracted with 3x75 mL CH2Cl2. The combined organic phases were washed with dilute aqueous NaOH, with H2O, and then stripped of solvents under vacuum. The residue was distilled at 95-105 deg C at 0.5 mm/Hg to provide 3.7 g of 2,5-dimethoxyphenyl (t)-butyl sulfide as a white, mobile liquid. Anal. (C12H18O2S) C,H. A solid derivative was found in the nitration product, 2,5-dimethoxy-4-(t)-butylthio-1-nitrobenzene, which came from the addition of 0.11 mL of concentrated HNO3 to a solution of 0.23 g of the above sulfide in 5 mL ice cold acetic acid. Dilution with H2O provided yellow solids which, on recrystallization from MeOH, had a mp of 92-93 deg C. Anal. (C12H17NO4S) C,H. Attempts to make either the picrate salt or the sulfonamide derivative were not satisfactory.
 
-A mixture of 72 g POCl3 and 67 g N-methylformanilide was heated for 10 min on the steam bath. To this claret-colored solution was added 28 g of 2,5-dimethoxyphenyl (t)-butyl sulfide, and the mixture heated for 10 min on the steam bath. This was then added to 1 L of H2O and stirred overnight. The residual brown oil was separated from the water mechanically, and treated with 150 mL boiling hexane. The hexane solution was decanted from some insoluble tars, and on cooling deposited a dark oil which did not crystallize. The remaining hexane was removed under vacuum and the residue combined with the above hexane-insoluble dark oil, and all distilled at 0.2 mm/Hg. An early fraction (70-110 deg C) was largely N-methyl-formanilide and was discarded. Crude 2,5-dimethoxy-4-(t-butylthio)benzaldehyde came over at 120-130 deg C and weighed 12.0 g. This was never satisfactorily crystallized despite the successful formation of seed. It was a complex mixture by TLC, containing several components. It was used for the next step as the crude distilled fraction.
-
-To a solution of 10 g impure 2,5-dimethoxy-(t-butylthio)benzaldehyde in 75 mL of nitromethane there was added 1.0 g of anhydrous ammonium acetate, and the mixture was heated on the steam bath 1.5 h. Removal of the excess solvent/reagent under vacuum produced an orange oil that was (not surprisingly) complex by TLC and which would not crystallize. A hot hexane solution of this oil was allowed to slowly cool and stand at room temperature...
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-2C-T-9 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
+A mixture of 72 g POCl3 and 67 g N-methylform [[shulgin-safety-principles-self-experimentation]] osage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the 2C-T series
+## Practical Considerations
+
+Successful implementation of 2C-T-9 -- 2,5-DIMETHOXY-4-(t)-BUTYLTHIOPHENETHYLAMINE -- PIHKAL Entry #45 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

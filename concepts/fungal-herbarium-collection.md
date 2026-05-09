@@ -3,15 +3,7 @@ title: Fungal Herbarium Collection — Specimen Management Standards
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/pihkal-a-chemical-love-story.md"
----
-# Fungal Herbarium Collection — Specimen Management Standards
-
-## Overview
-
-Fungal herbaria are repositories of preserved fungal specimens that serve as permanent physical records of fungal diversity, distribution, and taxonomy. Proper specimen management is essential for maintaining the scientific integrity of these collections, which underpin [[fungal-research-compound-reference]], taxonomic studies, and ecological investigations. Herbarium standards ensure that specimens remain accessible and useful for researchers across generations.
+tags: [[fungal-research-compound-reference]], taxonomic studies, and ecological investigations. Herbarium standards ensure that specimens remain accessible and useful for researchers across generations.
 
 ## Label Requirements
 
@@ -80,7 +72,7 @@ Modern herbarium management increasingly relies on electronic databases:
 - **Online querying** — Web-accessible databases dramatically increase the utility of collections, enabling researchers worldwide to search holdings without physical visits
 - **Digitization** — High-resolution imaging of specimens complements database records
 
-Integration of herbarium data with [[dna-barcoding-fungal-identification]] and [[fungal-species-estimates]] maximizes the research value of collections.
+Integration of herbarium data with [[fungal-species-estimates]] maximizes the research value of collections.
 
 ## Destructive Sampling
 
@@ -92,15 +84,10 @@ Physical alteration or destruction of herbarium specimens requires:
 
 Destructive sampling is often necessary for DNA extraction, chemical analysis, or detailed microscopic study, but must always be conducted with the goal of preserving the specimen's ongoing utility.
 
-Herbarium collections are the physical foundation of [[molecular-methods-fungal-taxonomy-and-diversity]] and provide irreplaceable vouchers for the full spectrum of [[fungal-zoospore-biology-and-flagellate-motility]].
+Herbarium collections are the physical foundation of [[fungal-zoospore-biology-and-flagellate-motility]].
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
-
-## See Also
-
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[fungal-specimen-collection-herbarium-management]]
 - [[mushroom-spore-printing-and-storage]]

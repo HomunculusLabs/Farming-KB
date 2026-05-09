@@ -107,33 +107,8 @@ only traces of psilocin at most.
 ## Biochemical Fingerprinting
 
 All other Pluteus species tested so far contained urea, a substance
-that can also be found in the [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
-species. However, the latter also produce compounds like serotonin,
-which do not occur in the Pluteus species. Hence, the different
-species are identifiable by their unique biochemical "fingerprints."
-Other rare Pluteus species with bluish or violet discolorations are
-mentioned in the literature, such as Pluteus cyanopus from Europe.
-Very small amounts of psilocybin (0.035% of dried mushrooms) have
-been found only in Pluteus nigroviridis Babos, an extremely rare
-species from Hungary.
+that can also be found in the [[pluteus-salicinus]]
 
-## Identification Challenges
-
-For unknown reasons, Kreisel described all Pluteus species as
-"non-poisonous" in his 1987 handbook of mushrooms, despite the fact
-that psilocybin had already been discovered in samples of this
-species in 1981 (North America) and 1984 (Norway). Some taxonomic
-methods of classification used earlier can still cause confusion.
-Ricken (1915) designated the mushroom as Pluteus petasatus, adding
-to the nomenclatural complexity.
-
-## See Also
-
-- [[pluteus-salicinus]]
-
-- [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] - Another rare non-Psilocybe psychoactive species
 - [[gartz-psilocybin-potency-and-alkaloid-variations]] - Psilocybin
   potency variations across species
-- [[gartz-mushroom-identification-dangers-and-tips]] - Identification
-  safety guidelines
 - [[pluteus-saliginus]]

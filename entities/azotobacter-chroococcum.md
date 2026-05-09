@@ -71,15 +71,10 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[dom]]
 - [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 - [[electron-transport-chain-mitochondrial-respiration]]
 
 ## See Also
 
-- [[rhodopseudomonas-palustris]]
-- nitrosomonas europaea
-- nitrobacter winogradskyi
 - [[indigenous-microorganisms]]
 - [[lactobacillus-plantarum]]

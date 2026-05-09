@@ -41,7 +41,7 @@ Careful implementation of PSR requires:
 
 ### The Coccidioides Paradigm
 
-The first application of PSR in mycology involved *[[coccidioides-immitis]]*, a fungal pathogen causing valley fever. Comparison of five gene sequences from 17 individuals revealed two phylogenetic species within what had been considered a single morphological species. This landmark study demonstrated that morphologically defined fungal species commonly harbour multiple [[cryptic-species]].
+The first application of PSR in mycology involved *[[cryptic-species]].
 
 ## Multilocus Sequence Typing (MLST)
 
@@ -68,48 +68,7 @@ Fungal microsatellites provide higher-resolution markers for intraspecific varia
 
 ## Challenging Morphological Species: The Histoplasma Case
 
-*[[histoplasma-capsulatum]]* (mitosporic name: *Ajellomyces capsulatus*) provides a compelling example of the conflict between phenotypic and genotypic species recognition. Historically divided into three varieties based on host, geography, and symptoms:
-
-- *H. c.* var. *duboisii* (Africa): bone and skin infections
-- *H. c.* var. *farciminosum* (Eurasia): skin lesions in horses and donkeys
-- *H. c.* var. *capsulatum* (New World): pulmonary infections in humans
-
-When four loci were sequenced from over 130 individuals across the three varieties, **at least seven genetically isolated clades** were discovered, correlating strongly with geography rather than host or symptoms:
-
-- North America 1 and North America 2
-- Latin America A (including a Eurasian subclade) and Latin America B
-- Africa
-- Australia
-- Indonesia
-
-Critically, none of the traditional varieties proved monophyletic:
-- The African clade contained members of both var. *duboisii* and var. *capsulatum*
-- Individuals assigned to var. *farciminosum* were found in three different clades, representing independently evolved, clonally propagating lineages
-- Individuals of var. *capsulatum* occurred in all clades
-
-## Species Divergence and Geologic Time
-
-Sequence data enable estimation of divergence dates among species and populations, which can be compared with geologic, archaeological, or historical events. Studies of *Coccidioides* have yielded important timescales:
-
-- Divergence of the two *Coccidioides* species: **10-12 million years ago (MYA)**
-- Divergence between *Coccidioides* and the related genus *Uncinocarpus*: at least an order of magnitude older
-- Cryptic species within morphological species typically diverge **3-10 MYA**
-- Nearest morphologically distinct species typically diverge **30-100 MYA**
-
-DNA substitution rates used for these estimates ranged from 1.1 x 10^-9 to 4.3 x 10^-9 substitutions per site per year. These timescales are broadly consistent with the dramatic biogeographic events of the Miocene, Pliocene, and Pleistocene epochs.
-
-## Species Maintenance and Reproductive Isolation
-
-Species are maintained by mechanisms that reduce or eliminate gene flow among populations. For fungi, the primary mechanisms include:
-
-- **Geographic isolation**: Populations separated by physical barriers may accumulate genetic differences leading to speciation.
-- **Ecological specialization**: Adaptation to different niches or hosts can create reproductive barriers.
-- **Mating system evolution**: The diverse mating systems of fungi, including homothallism, heterothallism, and pseudohomothallism, influence gene flow patterns.
-- **Clonal reproduction**: Many fungal pathogens rely heavily on clonal propagation, which can maintain species boundaries even in the absence of mating barriers.
-
-The interplay between reproductive mode, natural selection, and geographic distribution determines whether populations remain connected by gene flow or diverge into separate species.
-
-## Impact on [[fungal-taxonomy]]
+*[[fungal-taxonomy]]
 
 The application of molecular methods has had a transformative effect on fungal taxonomy:
 
@@ -122,6 +81,5 @@ Despite these advances, the search for diagnosable phenotypic characters that co
 
 ## See Also
 
-- [[fungal-biodiversity]] for the broader context of fungal species diversity
 - [[extremophilic-fungi]] for environmental factors influencing fungal speciation
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] for ecological context of fungal populations

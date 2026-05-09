@@ -43,14 +43,14 @@ A food forest (forest garden) is a designed agricultural system that mimics the 
 - Smaller trees (15-40 feet) beneath the canopy
 - Primary fruit and nut producers
 - Species: apple, pear, plum, cherry, peach, pawpaw, persimmon, asian pear, quince
-- See [[apple-tree-care]] and stone fruit tree care for individual tree management
+- See [[apple-tree-care]] and [[stone-fruit-tree-care]] for individual tree management
 - Space to allow light penetration to lower layers
 
 ### Layer 3: Shrub Layer
 - Woody shrubs (3-12 feet)
 - Berry bushes, nitrogen-fixing shrubs, flowering shrubs
 - Species: blueberry, currant, gooseberry, elderberry, aronia, serviceberry, hazelnut, seaberry, goumi
-- See [[holzer-stone-fruit-varieties-and-growing]] for acid-loving berry management
+- See [[blueberry-growing-guide]] for acid-loving berry management
 - Include nitrogen fixers (autumn olive, Siberian pea shrub, buffaloberry) to feed the system
 
 ### Layer 4: Herbaceous Layer
@@ -148,3 +148,43 @@ Food forests evolve over time through natural succession.
 - Drip irrigation for establishment; reduce over time
 
 ### Pruning and Thinning
+- Annual pruning of fruit trees for production and light penetration
+- Remove dead, diseased, and crossing branches
+- Thin overgrown areas to maintain diversity and light access
+- Coppice or pollard trees for mulch production
+
+### Fertility Management
+- Chop-and-drop mulching: cut comfrey, clover, and other biomass plants and leave as mulch
+- Leave fallen leaves in place (natural nutrient cycling)
+- Apply compost tea or [[composting-systems-design-comparison]] as needed; avoid tilling
+
+### Pest and Disease Management
+- Diversity is the primary defense — pests struggle in diverse plantings
+- Encourage beneficial insects with flowering plants; accept some pest damage
+- See [[apple-tree-care]] and [[stone-fruit-tree-care]] for specific pest management
+
+### What NOT to Plant Under Trees
+- Grass (competes aggressively), deep-rooted vegetables, walnut-sensitive plants near walnut trees
+
+### Ring Mulching
+- Mulched ring 3-4 feet in radius around each trunk; keep mulch 3-4 inches from bark
+- Apply 3-6 inches of wood chips, leaves, or straw
+
+## Site Assessment Checklist
+- Hardiness zone and microclimate; sun patterns year-round
+- Water flow, drainage, and seasonal wetness
+- Soil type, depth, pH, existing vegetation
+- Wind direction and speed; existing trees and structures
+- Slope and aspect; access paths; water source
+
+## See Also
+
+- [[backyard-orchard-design]] for more focused orchard planning
+- [[urban-farming-methods]] for adapting food forest principles to small spaces
+- [[permaculture-principles]] for broader design principles
+
+## Related
+
+- [[deer-fencing-and-deterrents]]
+- [[wildfire-preparedness-guide]]
+- [[backyard-food-forest-design]]

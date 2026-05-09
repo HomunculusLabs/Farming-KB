@@ -29,34 +29,15 @@ Fungi play a critical and often underappreciated role in the global carbon
 cycle, serving as both decomposers that release carbon dioxide and as
 ecosystem engineers that lock carbon into soil for decades or centuries.
 Understanding how fungi sequester carbon is essential for climate change
-mitigation strategies, regenerative agriculture, and [[biochar]] soil
-management. The fungal kingdom contributes to carbon sequestration through
-several distinct but interconnected mechanisms that operate at different scales
-and timeframes.
-
-Mycorrhizal fungi represent the single largest terrestrial carbon sink among
-soil organisms. Plants allocate a substantial portion of their
-photosynthetically fixed carbon, typically 10 to 40 percent, to their
-mycorrhizal partners through [[symbiotic-fungi-mycorrhizal-carbon-trading]].
+mitigation strategies, regenerative agriculture, and [[symbiotic-fungi-mycorrhizal-carbon-trading]].
 In exchange for nutrients and water, plants send sugars and lipids down into
-the soil through their roots, where [[arbuscular-mycorrhizal-networks]] absorb
-them and use them to build extensive hyphal networks. A significant portion of
-this carbon is incorporated into fungal biomass and subsequently transformed
-into stable soil organic matter that resists microbial decomposition for
-decades.
-
-One of the most important carbon-sequestering compounds produced by fungi is
-[[glomalin-and-soil-carbon]], a glycoprotein exuded by arbuscular mycorrhizal
+the soil through their roots, where [[glomalin-and-soil-carbon]], a glycoprotein exuded by arbuscular mycorrhizal
 fungi. Glomalin acts as a biological glue that binds soil particles together
 into stable aggregates, simultaneously improving soil structure and protecting
 the carbon contained within those aggregates from microbial attack. Research
 has shown that glomalin can persist in soil for 7 to 42 years, making it one
 of the most stable forms of soil organic carbon. The
-[[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]] pathway in forest
-ecosystems operates similarly, with ectomycorrhizal fungi receiving carbon
-from trees and converting it into resistant organic compounds.
-
-The integration of fungi with [[biochar-and-fungi]] creates an additional
+[[biochar-and-fungi]] creates an additional
 carbon sequestration pathway. When biochar is inoculated with mycorrhizal
 fungi, the fungal hyphae colonize the biochar's porous structure, creating a
 stable habitat that protects both the fungal carbon and the biochar carbon
@@ -68,14 +49,7 @@ Saprotrophic fungi also contribute to carbon sequestration, though in a more
 complex way. While decomposition by white-rot and brown-rot fungi releases
 carbon dioxide in the short term, it also converts a portion of the carbon
 into recalcitrant humic substances that resist further breakdown. The
-[[underground-fungal-networks]] created by these decomposers physically
-protect soil carbon by entombing organic particles within aggregations that
-are inaccessible to decomposing organisms. Dead fungal biomass itself contains
-chitin and other resistant compounds that contribute to long-term soil carbon
-pools.
-
-Forest ecosystems demonstrate the greatest fungal carbon sequestration
-potential. In mature forests, the [[wood-wide-web]] of mycorrhizal connections
+[[wood-wide-web]] of mycorrhizal connections
 funnels enormous quantities of carbon from canopy trees into deep soil layers,
 where it becomes stabilized by mineral associations. Protecting and restoring
 these fungal networks through reduced tillage, cover cropping, and minimizing
@@ -108,15 +82,10 @@ decomposition.
 ## Key Points
 - Mycorrhizal fungi receive 10 to 40 percent of plant photosynthate and
   convert it into stable soil carbon
-- [[glomalin-and-soil-carbon]] is a persistent fungal glycoprotein that stores
-  carbon for decades
 - [[symbiotic-fungi-mycorrhizal-carbon-trading]] forms the largest biological
   carbon sink in terrestrial soils
-- [[biochar-and-fungi]] integration enhances long-term carbon storage through
-  synergistic stabilization
-- Protecting [[underground-fungal-networks]] through reduced disturbance is
+- [[underground-fungal-networks]] through reduced disturbance is
   key to maintaining soil carbon stocks
 
 ## Related Questions
-- [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-what-is-the-role-of-bacteria-in-soil-health]]

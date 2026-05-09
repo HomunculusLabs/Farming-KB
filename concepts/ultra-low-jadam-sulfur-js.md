@@ -56,77 +56,25 @@ sulfur products.
 
 ## Key Principle: Wetting Agent Dissolves Sulfur
 
-The critical innovation in JS is using [[ultra-low-jadam-wetting-agent-jwa]]
-to dissolve and suspend sulfur particles in water. Sulfur is naturally
-insoluble in water, which has always been the barrier to easy sulfur
-pesticide production. JWA acts as a powerful surfactant that keeps
-sulfur particles finely dispersed in solution, creating an effective
-sprayable pesticide. This is why JWA is called the "key that opened
-the world of homemade natural pesticides."
-
-## Usage and Application
-
-JS is primarily used as a fungicide and germicide. Standard usage is
-JS concentrate mixed with water to fill a 500 L sprayer tank. Always
-mix JS with soft water. If your water source is hard (high in calcium,
-magnesium, or iron), the wetting power of JWA will be reduced and the
-sulfur will not disperse properly. Test your water with JWA before
-mixing. Use rainwater or a water softener if needed.
-
-Apply JS when humidity is high for maximum effectiveness. On clear, dry
-days, pesticide evaporates quickly and has minimal effect. Spray in
-early morning during spring and autumn, or in the evening of humid days
-during summer. Morning dew conditions (near 100 percent humidity) are
-actually ideal for natural pesticide application.
-
-## Combining with Other JADAM Inputs
-
-JS can be combined with other JADAM inputs to create multi-function
-pesticides:
-
-- **JS + JWA pesticide**: Basic sulfur pesticide for fungal diseases
-- **JS + JWA + JHS**: Adds herbal pest control to sulfur's fungicidal
-  power (called JS-JHS pesticide)
-- **JMS + JWA (JMS germicide)**: Microbial germicide without sulfur
-- **JMS + JWA + JHS (JMS-JHS pesticide)**: All-purpose microbial-herbal
-  pesticide
-
-When combining, start with JS at about 3 L per 500 L of water and
-increase up to 20 L if needed. Always increase JWA proportionally when
-increasing other ingredients to maintain proper wetting power.
-
-## Soil Application Caution
-
-While JS can be used for soil disinfection (JS + JWA applied to soil),
-JADAM recommends against frequent soil sulfur application. Sulfur used
-on soil can harden it over time, causing long-term soil degradation.
-Instead of JS for soil problems, use JADAM Microorganism Solution (JMS)
-to boost microbial ecology. JMS can even control soil nematodes by
-increasing microbial diversity and numbers.
-
-## Pest and Disease Control Range
-
-JS is particularly effective against:
-- Powdery mildew on cucumbers, grapes, strawberries, and other crops
-- Downy mildew on grapes and cucurbits
-- Anthracnose on peppers, mangoes, and other fruits
-- Rust diseases on various crops
-- Mites and spider mites
-- Various fungal leaf spots and blights
-
-## Cost Advantage
-
-The cost of making JS is minimal compared to commercial sulfur
-pesticides. Combined with the rest of the JADAM system, total annual
-pesticide costs drop to approximately $100 per acre. This makes it
-possible for farmers to maintain effective pest control without the
-financial burden of purchased chemical or even commercial organic
-inputs.
-
-## See Also
-
-- [[ultra-low-jadam-wetting-agent-jwa]] - Foundation surfactant for JS
-- [[ultra-low-jadam-herb-solution-jhs]] - Herbal pesticide component
+The critical innovation in JS is using [[ultra-low-jadam-wetting-agent-jwa]] - Foundation surfactant for JS
 - [[ultra-low-cost-jadam-natural-pesticide-jnp]] - Complete pesticide system
-- [[jadam-jms-pesticide]] - Microbial soil solution
 - [[ultra-low-water-softening-for-pesticide-efficacy]] - Water quality needs
+## Practical Considerations
+
+Successful implementation of JADAM Sulfur (JS) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

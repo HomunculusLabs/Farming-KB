@@ -12,74 +12,7 @@ type: concept
 # KNF Fermented Plant Juice
 
 Fermented Plant Juice (FPJ) is a cornerstone input of Korean Natural
-Farming (KNF), developed by [[master-cho]] Han Kyu. FPJ is a fermented
-extract of plants that helps crops absorb nutrients directly, promoting
-healthy growth and enabling their full potential. It serves as both a
-fertilizer and a plant vitality enhancer, working through the action of
-lactic acid bacteria and yeast naturally present on plant surfaces.
-
-## Origin and Principle
-
-The concept behind FPJ draws from the traditional Korean practice of
-making kimchi. Just as kimchi soup, rich in lactic acid bacteria,
-enhances appetite and facilitates digestion, FPJ applies similar
-fermentation principles to plant nutrition. There are approximately
-100,000 to 150,000 microbes per square centimeter of a leaf surface.
-Most of these are lactic acid bacteria and yeast that are highly useful
-for plant growth.
-
-The extraction process uses brown sugar (instead of salt, as in kimchi)
-through osmotic pressure. During fermentation, FPJ produces weak
-alcohols which dissolve chlorophylls. The essence of the plant,
-chlorophylls, lactic acid bacteria, and yeast are extracted from leaves
-and stems. The lactic acid and yeast promote fermentation in which
-brown sugar is broken down into simple sugars and weak alcohol is
-produced by enzymes.
-
-The extracted essence and chlorophylls react with three forms of
-natural energy (chi) in the fermentation jar: water, air, and heat.
-The fermentation process occurs in five stages: recognition of each
-other between microbes and ingredients; harmony; fermentation;
-affection (stabilization); and production of natural farming materials.
-The jar should be filled two-thirds with materials, leaving one-third
-space for the three chi elements.
-
-## Selecting Plant Materials
-
-The choice of plant material is critical to FPJ quality. Master Cho
-emphasized selecting plants with strong chi, or vital energy:
-
-### Japanese Mugwort (Artemisia princeps)
-Strong against both cold and heat with good vitality and high iron
-content. Mugwort FPJ is used to give vitality to crops when they sprout
-buds at the end of the dormant period in spring. The best time to
-collect is from the end of March to April when the plant is full of
-energy. Snap the tender parts containing the growing point and pick
-parts wet with dew. It is possible to make enough FPJ for a whole year
-during spring.
-
-### Dropwort (Oenanthe javanica)
-Full of iron and manganese, beneficial for blood circulation,
-stimulating the peripheral nervous system, and recovery from injury.
-More effective when harvested from winter to May. Spring is the best
-season for making dropwort FPJ. Cut into pieces about 5cm in length.
-Because dropwort produces abundant juice, add more brown sugar for
-storage.
-
-### Other Valuable Plants
-- Bamboo shoots: grow rapidly after rain, ferment quickly (about 5
-  days), cut into small pieces without removing skin.
-- Japanese arrowroot or kudzu vine (Pueraria lobata): collect 15cm
-  new spring vines or soft summer vine tips.
-- Fruit of Japanese cedar (Cryptomeria japonica): collected when sap
-  oozes from the tree in late June; acts as a reinforcing agent when
-  mixed with other FPJs.
-- Chocolate vine fruit (Akebia quinata): pick immature fruits in
-  September before the harvest festival.
-- Seaweeds: effective for plant growth and reinforce fruit color.
-- Ripe fruits with no commercial value: FPJ of ripe fruits is called
-  fruit enzyme.
-- False [[acacia]] flowers (Robinia pseudoacacia): promote flower bud
+Farming (KNF), developed by [[acacia]] flowers (Robinia pseudoacacia): promote flower bud
   formation and increase sugar content.
 
 ## Timing of Collection
@@ -129,14 +62,29 @@ nutritional boost throughout the growing season.
 
 ## See Also
 
-- [[knf-global-adoption]]
-
 - [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-- [[master-cho-knf-ffj-fermented-fruit-juice-guide]]
-
 - [[korean-natural-farming]] IMO for the foundational microbial input
   used alongside FPJ in the KNF system
 - knf lab preparation for setting up a natural farming input
   production workspace
 - [[jadam-uls-technology]] for another Korean approach to ultra-low-
   cost farming inputs
+## Practical Considerations
+
+Successful implementation of KNF Fermented Plant Juice requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

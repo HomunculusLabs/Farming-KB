@@ -14,15 +14,7 @@ sources:
 
 The mushrooms + Syrian Rue was a medium strength dose, pleasant but not overwhelming. The DMT added to the experience, especially in the visual context, and the nitrous blasts felt great whenever taken. The unique portion came toward the end when 75 mg of Ketamine was injected (first time using Ketamine with mushrooms). The Ketamine experience overpowered what was left of the previous high but was pleasantly enhanced, having a wider range of feelings than on Ketamine alone. During part of this time, there was semi-conscious awareness of the body chanting and moving about -- something common with DMT + Syrian Rue but not previously experienced on Ketamine alone.
 
-This crossover effect -- where the somatic chanting pattern typical of harmala-DMT sessions appeared during a Ketamine journey -- suggests that [[turner-harmala-psychedelic-potentiation-signature]] can persist in the body well after the primary psychedelic effects have faded, potentially altering the character of subsequent dissociative experiences.
-
-Additional journeys with mushrooms + Ketamine initially produced good results. However, Turner eventually decided this combination was not appropriate (reasons discussed in the ketamine chapter). This underscores an important theme in Turner's work: that repeated experience with a given combination can reveal drawbacks invisible on first use.
-
-## LSD + Ketamine + DMT
-
-Starting with 200 mcg of LSD, two hours later 100 mg of Ketamine was injected. It was one of the best Ketamine journeys, lasting about 1.5 hours. DMT was smoked a couple of times after the Ketamine journey ended. The DMT produced its usual effects but seemed diminished in intensity by the lingering Ketamine. The same amounts of DMT taken on LSD alone would have produced much more intense experiences. Turner decided to no longer use DMT with Ketamine.
-
-This diminished response is detailed further in [[turner-ketamine-lsd-dmt-interactions-recovery-effects]], where Turner explores the pharmacological and phenomenological basis for the antagonism between residual Ketamine and smoked DMT.
+This crossover effect -- where the somatic chanting pattern typical of harmala-DMT sessions appeared during a Ketamine journey -- suggests that [[turner-ketamine-lsd-dmt-interactions-recovery-effects]], where Turner explores the pharmacological and phenomenological basis for the antagonism between residual Ketamine and smoked DMT.
 
 Another drawback was the extension of the Ketamine recovery period. While on acid, this period was extended by another hour or two, effectively ending the acid trip.
 
@@ -34,17 +26,7 @@ This optimization is one of Turner's most practical findings for combination psy
 
 This combination was described as "absolutely beautiful." The combination of Harmala + LSD + DMT (in either form) is the basis of the trip. The cannabis and nitrous are add-ons. The experience of combining these psychedelics as a group produced effects similar to the combinations of two substances described in the individual chapters. In comparison with a typical LSD trip, there was vastly more space or information to explore, and it felt infused with a spiritual quality.
 
-The inclusion of 5-MeO-DMT alongside DMT is notable. While DMT provides rich visual and narrative content, 5-MeO-DMT tends to produce a more formless, ineffable experience of unity or vastness. Layering these two tryptamines on top of LSD and harmala alkaloids creates what Turner experienced as an expanded informational space -- a hallmark of [[turner-multiple-combinations-cosmic-synergism]].
-
-Cannabis in this context functioned primarily as an intensifier and modulator rather than a primary psychedelic component. Turner observed that cannabis could both amplify visual effects and smooth over rough transitions between different phases of a multi-substance session.
-
-## LSD + Ludiomil + Nitrous Oxide (+ Ketamine)
-
-The Ludiomil was ingested two hours into the LSD trip. The amount of dream activity in subsequent nights was far less than when Ludiomil was taken before LSD. The Ludiomil took effect about 15 minutes after ingesting, and the change was apparent -- it intensified the acid high and produced what Turner described as a "platinum plated" acid trip, as though every perception and thought were coated with a silverish translucent light. Previously described as a "thin invisible membrane between myself and anything my senses touched upon."
-
-The most spectacular part came when taking a balloon of nitrous oxide -- described as a "totally hilarious, melting through the bottom of the universe as it all came swirling down into me." The "melting" sensation was distinct from the common nitrous high.
-
-The detailed phenomenology of this LSD + Ludiomil + nitrous interaction is explored at length in [[turner-lsd-nitrous-ludiomil-combinations]], including Turner's speculation about the pharmacological basis for the "membrane" effect.
+The inclusion of 5-MeO-DMT alongside DMT is notable. While DMT provides rich visual and narrative content, 5-MeO-DMT tends to produce a more formless, ineffable experience of unity or vastness. Layering these two tryptamines on top of LSD and harmala alkaloids creates what Turner experienced as an expanded informational space -- a hallmark of [[turner-lsd-nitrous-ludiomil-combinations]], including Turner's speculation about the pharmacological basis for the "membrane" effect.
 
 ### Ludiomil Timing Experiments
 
@@ -86,12 +68,27 @@ Turner noted, however, that cannabis could also introduce confusion or mental fo
 
 ## Related Topics
 
-- [[turner-multiple-combinations-cosmic-synergism]] - Overview of combination theory
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]] - Ketamine combinations
-- [[turner-harmala-psychedelic-potentiation-signature]] - Harmala potentiation
 - [[turner-lsd-nitrous-ludiomil-combinations]] - LSD + nitrous and Ludiomil
-- [[turner-2c-b-mushroom-combination-warning]] - 2C-B combination warning
 - [[turner-ketamine-lsd-dmt-interactions-recovery-effects]] - Ketamine-LSD-DMT interaction details
 - turner psychedelic safety guidelines - Safety principles
-- [[turner-psychedelic-combination-experience-reports]]
 - [[psychedelic-safety-guidelines-turner]]
+## Practical Considerations
+
+Successful implementation of Turner Multiple Combinations Specific Experience Reports requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

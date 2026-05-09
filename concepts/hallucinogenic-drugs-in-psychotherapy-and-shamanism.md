@@ -47,77 +47,70 @@ Sidney Cohen and Oscar Janiger in Southern California extended the work to creat
 
 ### Set and Setting
 
-Timothy Leary introduced and popularized the [[set-and-setting]] hypothesis. The primary determinants of a psychedelic experience are the internal state (intention, expectation, motivation) and the external context (physical environment, music, presence of guides).
-
-This model contrasts with conventional psychiatric drugs where pharmacological action is paramount and set and setting play minor roles. The framework extends naturally to non-drug altered states including hypnosis, meditation, rhythmic drumming, and fasting.
-
-### Key Principles
-
-Five fundamental conclusions emerged from the psycholytic and psychedelic research traditions:
-
-1. **Expanded consciousness**: psychedelic experiences involve profoundly expanded states with potential for transcending fundamental self-concepts and views of reality
-2. **Catalyst model**: set and setting are the most important determinants; the drug plays the role of a nonspecific catalyst
-3. **Dual metaphors**: the drug as amplifier of psychic contents (due to lowered sensory thresholds), and the drug as microscope for psychology (opening hidden realms to direct observation)
-4. **Experienced therapist**: personal psychedelic experience of the therapist is considered essential for effective treatment
-5. **Transpersonal access**: mystical and spiritual dimensions are routinely accessed, as demonstrated by Grof's holotropic states and Leary's concept of evolutionary remembering
-
-### Empathogens
-
-Alexander Shulgin's discovery of phenethylamines such as MDA, MDMA, and 2-CB introduced substances sometimes called empathogens ("generating empathy"). These primarily expand awareness on the emotional level with minimal perceptual changes.
-
-MDMA was used with notable success in psychotherapy for facilitating relationship communication and healing trauma before its scheduling. The term "ecstasy" reflects the quality of emotional openness these compounds produce.
-
-## Shamanic Rituals of Healing and Divination
-
-Traditional shamanic use of hallucinogenic plants differs fundamentally from Western psychotherapy in both method and worldview. The shaman ingests the medicine to "see" the causes of illness and determine appropriate remedies.
-
-### Key Structural Features
-
-Traditional ceremonies share three distinctive features absent from standard psychotherapy:
-
-1. **Minimal talking**: little or no verbal interaction during the experience itself, with communication limited to preparatory and integrative phases
-2. **Rhythmic singing or drumming**: provides a pulsing framework that supports navigating visionary experiences and prevents fixation on difficult content
-3. **Darkness or low light**: facilitates the emergence of closed-eye visions (the peyote ceremony around a fire being the main exception)
-
-### Common Healing Patterns
-
-Shamanic healing with entheogens follows three primary patterns:
-
-1. **Extraction**: removing a toxin, sorcerous implant, or pathogenic object from the patient's body or energy field
-2. **Soul retrieval**: recovering a split-off psychic fragment or "soul" that has been lost due to trauma
-3. **Death and rebirth**: dismemberment of the patient followed by reconstitution with a healthier, stronger body
-
-### Plant Teachers and Divination
-
-Indigenous healers refer to hallucinogenic plants as "plant teachers," recognizing an intelligence that communicates internally. Divination serves a function equivalent to Western medical diagnosis: determining the source of illness, locating lost soul fragments, and identifying appropriate herbal remedies.
-
-### Cosmological Foundations
-
-Two elements of shamanic cosmology fundamentally challenge the Western materialist worldview:
-
-1. **Multiple realities**: the existence of accessible nonordinary realms including the "spirit world," "upper and lower worlds," "dreamtime," and the "otherworld"
-2. **Spirit beings**: entities encountered in visions (power animals, plant spirits, ancestors, elemental forces) are considered fully real, not merely symbolic projections
-
-## Syncretic Folk Religious Ceremonies
-
-Organized religious movements have incorporated entheogenic plant use into communal worship, shifting emphasis from individual healing to community bonding and celebration.
-
-The Native American Church uses [[golden-guide-peyote-and-mescaline-cacti]] in all-night ceremonies with a "roadman" presiding. In Brazil, three ayahuasca churches (Santo Daime, UDV, and Barquinia) use the brew as a sacrament in weekly ceremonies. The Bwiti cult in Gabon uses [[iboga]] for death-rebirth initiation experiences.
-
-Research confirmed no adverse health effects from long-term ceremonial use and reductions in alcoholism and drug addiction among members. These movements provide social cohesion and protection against the encroachments of consumer culture.
-
-## Hybrid Shamanic Therapeutic Rituals
-
-Modern neoshamanic medicine circles blend Western psychotherapeutic and traditional shamanic elements. They typically incorporate a circle structure with altar or fire, experienced facilitators, darkness, music, directional invocations, and preparatory and integrative practices.
-
-Participants tend to have backgrounds in multiple psychospiritual disciplines and have expanded beyond conventional materialist belief systems, coming to accept the reality of spirit beings and multiple dimensions of consciousness.
-
-William James's observation, made after his research with nitrous oxide nearly 100 years earlier, aptly summarizes this convergence: "Our normal waking consciousness is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different."
-
-## See Also
-
-- Set and Setting in Psychedelic Therapy
-- [[psilocybin-and-psilocin-chemistry]]
+Timothy Leary introduced and popularized the [[golden-guide-peyote-and-mescaline-cacti]] in all-night ceremonies with a "roadman" presiding. In Brazil, three ayahuasca churches (Santo Daime, UDV, and Barquinia) use the brew as a sacrament in weekly ceremonies. The Bwiti cult in Gabon uses [[psilocybin-psilocin-chemistry]]
 - Ayahuasca and Its Chemical Constituents
 - Indigenous Mushroom Traditions
 - Psychedelic Renaissance and Modern Research
+
+## See Also
+
+- [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
+## Practical Considerations
+
+When working with Hallucinogenic Drugs in Psychotherapy and Shamanism, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

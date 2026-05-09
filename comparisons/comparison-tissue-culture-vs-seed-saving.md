@@ -33,31 +33,6 @@ management, and long-term genetic resilience.
 
 ## Tissue Culture
 
-[[tissue-culture-cloning]]
-
-Tissue culture is the process of isolating living tissue from a parent organism and transferring it to a sterile growth medium under
-controlled environmental conditions. In mycology, this means taking a small piece of interior flesh from a mushroom fruitbody and placing it
-on agar to grow out the mycelium. In plants, it involves excising meristematic tissue from shoot tips or nodes and culturing it on hormone-
-supplemented media to induce new plantlets through organogenesis or somatic embryogenesis.
-
-The primary advantage of tissue culture is absolute genetic fidelity. In mushroom cultivation, tissue culture preserves the exact dikaryotic
-genotype of a proven fruiting strain, guaranteeing that the cloned individual will possess identical growth characteristics, fruiting
-timing, yield potential, and biochemical profile as the parent specimen. This bypasses the genetic lottery of spore germination, where each
-spore represents a unique genetic combination and most will underperform compared to the original parent.
-
-Tissue culture also enables the production of disease-free planting material, rapid multiplication of elite individuals from minimal
-starting material, and long-term storage of genetic lines through cryopreservation or slow-growth storage. For international plant exchange,
-tissue-cultured material reduces the risk of transporting soil-borne pathogens across borders. In commercial settings, a single meristem can
-yield thousands of identical plantlets within months, dramatically accelerating the deployment of new cultivars.
-
-The limitations are substantial. Tissue culture requires sterile laboratory conditions, specialized equipment including laminar flow hoods
-and autoclaves, precisely formulated growth media, and considerable technical skill. Contamination rates can be punishing for beginners, and
-the energy inputs for maintaining sterile conditions are significant. Over extended subculturing, cultured lines may accumulate somatic
-mutations and lose vigor through senescence, requiring periodic re-isolation from fresh specimens. The cost of media ingredients,
-consumables, and equipment puts tissue culture beyond the reach of most small-scale farmers without dedicated lab access.
-
-## Seed Saving
-
 [[ultra-low-cost-seed-saving]]
 
 Seed saving is the practice of harvesting, drying, storing, and replanting seeds from existing plants to maintain genetic lines without
@@ -137,7 +112,5 @@ the strengths of both genetic preservation and adaptive evolution.
 
 ## See Also
 
-- [[comparison-seed-saving-vs-hybrid-seeds]]
 - [[comparison-seed-starting-vs-direct-seeding]]
-- [[agar-culture-and-isolation]]
 - [[vegetative-propagation-methods-mollison]]

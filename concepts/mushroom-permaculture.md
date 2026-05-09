@@ -136,8 +136,6 @@ converted into usable products with maximum efficiency.
 
 ## See Also
 
-- [[mushroom-species-sequencing]] for detailed sequencing methods
 - [[agricultural-waste-substrates]] for substrate preparation
-- [[enriched-sawdust-cultivation]] for indoor sawdust methods
 - [[mushroom-casing-layers]] for King Stropharia casing requirements
 - [[mushroom-harvesting-storage-methods]] for post-harvest handling

@@ -120,8 +120,6 @@ Fungi are essential architects of soil structure. Their hyphal networks physical
 
 ## See Also
 
-- [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
-- [[query-what-is-the-role-of-bacteria-in-soil-health]]
 - [[query-what-is-the-role-of-fungi-in-decomposition]]
 - [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil]]

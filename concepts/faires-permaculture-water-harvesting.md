@@ -92,14 +92,9 @@ Marsh construction: layer gravel, sand, 6-inch sticks, and finally 8+ inches of 
 
 ## See Also
 
-- [[faires-water-harvesting-and-swales]]
 - [[faires-swales-and-water-conservation]]
-- [[faires-irrigation-design]]
 - [[faires-water-sources-and-catchment]]
-- [[faires-water-tank-design]]
 - [[graywater-systems]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[faires-water-sources-and-catchment]]
 - [[gaias-garden-cover-crops-soil-building]]

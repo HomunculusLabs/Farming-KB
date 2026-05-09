@@ -89,11 +89,7 @@ The qualitative data from PiHKAL supports a model of MDMA as:
 
 ## Related Topics
 
-- [[mdma-compound-profile]]
 - [[mdma-in-pihkal-context]]
-- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
-- [[ayahuasca-and-dmt-plant-medicine]]
-- [[optical-isomers-psychedelic-phenethylamines]]
+- [[ayahuasca-preparation-and-ceremony]]
 - [[phenethylamine-set-and-setting]]
-- [[first-time-grower-common-mistakes]]
 - [[turner-psychedelic-combination-experience-reports]]

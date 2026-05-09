@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the neurotropic-fungi"
 type: concept
 ---
 
@@ -138,13 +138,9 @@ All Panaeolus and Panaeolina species are coprophilous, playing an important ecol
 - Horse paddocks
 - Cow fields
 - Occasionally on enriched soil
-
 ## See Also
 
-- [[baeocystin]]
 - [[copelandia-cyanescens]]
-- [[copelandia-genus]]
-
 - [[copelandia-genus]]
 - Psilocybe Genus Overview
 - [[neurotropic-fungi-classification]]

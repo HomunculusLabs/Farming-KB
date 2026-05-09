@@ -76,10 +76,7 @@ Significant seasonal variation in temperature or water availability results in d
 Bills and Polishook (1994) detected 78-134 species per collection from Costa Rican litter, with rarefaction curves showing no sign of leveling off. Reanalysis found only 15-28% overlap of named species between samples, underscoring the enormity of under-sampling.
 
 ## See Also
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-
 - [[fungal-species-richness-and-diversity-indices]]
-- [[microfungi-wood-plant-debris-survey]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-species-concept-and-taxonomy]]
 

@@ -141,8 +141,6 @@ Across both Kenya and Zimbabwe, shared challenges include:
 
 ## Related Concepts
 
-- [[mushroom-poverty-alleviation-developing-countries]]
 - [[oyster-mushroom-spawn-production]]
-- [[oyster-mushroom-cultivation-economics]]
 - [[mushroom-training-incubation-management]]
 - [[mushroom-cultivation-disabilities-marketing-and-enterprise]]

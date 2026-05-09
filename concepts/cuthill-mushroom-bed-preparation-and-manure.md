@@ -5,41 +5,7 @@ updated: 2026-04-24
 sources:
   - raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
-tags: [mushroom-cultivation]
----
-
-# Cuthill on Mushroom Bed Preparation and Manure
-
-Bed preparation was the central practical skill in Cuthill's system of
-[[cuthill-mushroom-cultivation-history-19th-century]]. His instructions cover [[falconer-manure-for-mushroom-beds]] selection,
-[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] management, bed construction, [[casing-layer-preparation]], and watering in
-detail.
-
-## Manure Selection
-
-The ideal manure was pure horse droppings:
-
-- Fresh horse-droppings were preferred, especially those mixed with road
-  sand (swept up by a broom, so the strength had not been leached by
-  heavy rains).
-- Cottagers were advised to have children collect horse-droppings along
-  highways during summer.
-- A foundation of strawy dung (from the stable) was used for the base
-  of the bed, with droppings forming the surface layers.
-- Manure from any horse was acceptable, though stable manure from
-  working horses was the common source.
-
-## Summer Preparation of Droppings
-
-Droppings collected during summer were handled differently from winter
-manure:
-
-- Summer droppings were deposited in a heap and trodden firmly. The
-  harder they were pressed, the less they heated.
-- Over-heating had to be guarded against: a "watch or trial stick"
-  inserted into the heap should not be too hot for the hand to bear.
-- Alternatively, droppings could be dried in the sun during summer,
-  which preserved the natural [[cuthill-mushroom-spawn-preparation-historical]] and ensured numerous crops.
+tags: [[cuthill-mushroom-cultivation-history-19th-century]]. His instructions cover [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] management, bed construction, [[cuthill-mushroom-spawn-preparation-historical]] and ensured numerous crops.
 - When kept dry, summer droppings generated spawn naturally, developing
   a "grey, mouldy, and thready appearance" with a mushroom-like smell.
 

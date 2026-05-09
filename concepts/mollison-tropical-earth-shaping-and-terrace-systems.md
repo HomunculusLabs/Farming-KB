@@ -1,15 +1,7 @@
 ---
 title: Tropical Earth Shaping and Terrace Systems
 created: 2026-04-26
-tags: [permaculture, earthworks, terracing, tropical-agriculture, soil-conservation]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Tropical Earth Shaping and [[holzer-terrace-systems]]
+tags: [[holzer-terrace-systems]]
 
 Almost every slope benefits from earth-shaping for soil
 conservation. In the tropics, earth-shaping ranges from
@@ -35,13 +27,7 @@ On very flat sites (less than 4 degrees), a series of raised
 mounds or ridges can operate to drain crops in very wet areas,
 or to impound water for absorption in drier areas. Pits can
 be used only where rainfall is less than 76 cm (30 inches),
-or where [[hamilton-soil-drainage-improvement]] is good.
-
-Different earth-shaping forms suit different crops:
-
-- Mounds increase yield of yams
-
-- Ridges suit cassava and [[sweet-potato-guide]]
+or where [[sweet-potato-guide]]
 
 - Pits are used for taro, arrowroot, and mulch grasses
 
@@ -71,16 +57,7 @@ terrace soils moist.
 
 Where a stream, or part of a stream, can be led to upper
 terraces, wet crops such as rice, taro, watercress,
-kangkong, and [[permaculture-water-chestnut-guide]]s (Indian or Chinese) can be
-cultivated in water-level controlled padi. This is the rich
-wet terrace culture of Asia and Oceania.
-
-## Terrace Stability and Mulch
-
-Essentials for terrace stability include:
-
-- About one-half to one-third of the total terraced area
-  should be devoted to mulch [[permaculture-tree-crop-systems]] providing fodder for
+kangkong, and [[permaculture-tree-crop-systems]] providing fodder for
   livestock or direct leaf and branch mulch to terraces.
 
 - The upper one-third of hills (very steep slopes of 30
@@ -138,12 +115,4 @@ Suitable dry terrace crops include:
 Near homes, terraces can support banana, papaya, melons,
 chilies, peppers, cucurbits, maize, beans, sugar cane,
 cultivated green crops, Brassica, edible Chrysanthemum,
-edible Hibiscus, rosella, horseradish tree ([[permaculture-moringa]]),
-coconut, and mango.
-
-## Vine Crops on Bund Faces
-
-Chayote, cucurbits, beans, passionfruit, and kiwifruit can
-## See Also
-
-- [[mollison-designers-tropical-terrace-design-and-earth-shaping]]
+edible Hibiscus, rosella, horseradish tree ([[mollison-designers-tropical-terrace-design-and-earth-shaping]]

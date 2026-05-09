@@ -1,7 +1,7 @@
 ---
 title: Guild Design in Permaculture
 created: 2026-04-28
-tags: [permaculture, guilds, polyculture, companion-planting, ecology]
+tags: [[permaculture, guilds, polyculture, companion-planting, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
@@ -16,10 +16,8 @@ functional relationships. Drawing from the ecological concept of species
 associations, Bill Mollison developed guild design as a practical tool for
 creating productive polycultures that reduce competition, enhance mutual
 support, and minimize the need for external inputs. Guilds are the building
-blocks of [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] and embody the
-[[permaculture-design]] of functional diversity, relative location,
-and biological resource use. They connect directly to [[integrated-pest-management]]
-through natural pest control and to [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] through
+blocks of [[permaculture-design]] of functional diversity, relative location,
+and biological resource use. They connect directly to [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] through
 nutrient cycling.
 
 ## What Is a Guild?
@@ -68,15 +66,7 @@ borage mine minerals from deep soil horizons and concentrate them in their
 above-ground tissues. When these plants are cut for mulch or composted, they
 bring those minerals to the soil surface where shallow-rooted crop plants can
 access them. This vertical nutrient cycling is essential for maintaining
-[[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] without importing fertilizers.
-
-### Insectary Plants
-
-Flowering plants that attract pollinators and beneficial predatory insects are
-critical guild members. Species such as dill, fennel, umbellifers, alyssum,
-buckwheat, and clover provide nectar and pollen that sustain populations of
-ladybugs, lacewings, parasitic wasps, and hoverflies. These predators control
-pest populations as part of an [[integrated-pest-management]] strategy,
+[[integrated-pest-management]] strategy,
 reducing the need for chemical pesticides.
 
 ### Pest Repellent Plants
@@ -120,28 +110,15 @@ placed to avoid shading the central element. Nitrogen fixers are positioned
 where their root exudates will benefit the target crop. Pest repellent plants
 are concentrated near the most vulnerable parts of the central plant. Mulch
 producers are placed where their cut material will naturally fall or can be
-easily distributed. The principles of [[zone-and-sector-analysis]] inform
-placement decisions, with the most intensively managed guild members placed
-in accessible locations.
-
-## Animal Guilds
-
-Guilds are not limited to plant combinations. Mollison extended the concept
-to include animals in [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]. Chickens in a
+easily distributed. The principles of [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]. Chickens in a
 forage guild with fruit trees, comfrey, and insects create a system where
 the chickens control pests, fertilize the soil, and process fallen fruit while
 the trees provide shade and forage. Ducks in a rice paddy guild control pests
 and weeds while fertilizing the rice crop. Aquatic guilds in
-[[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] combine fish, water plants, and filter
-feeders in mutually beneficial relationships.
-
-## Guilds at Scale
-
-Individual guilds are combined to create larger polycultural systems. A food
-forest is essentially a landscape-scale guild where each tree has its own
-associated understory guild and the entire system functions as an integrated
-whole. [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] applies guild principles to pasture and
+[[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] applies guild principles to pasture and
 cropping systems through companion planting, cover crop mixes, and integrated
 livestock rotations. At every scale, the guild concept of functional
 relationships between elements creates systems that are more productive,
-resilient, and self-maintaining than monocultures.
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]

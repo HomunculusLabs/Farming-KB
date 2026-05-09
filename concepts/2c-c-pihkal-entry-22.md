@@ -13,7 +13,7 @@ tags: [phenethylamine, shulgin]
 
 ## Overview
 
-2C-C is a member of the [[2c-family-chemistry-and-sar-pihkal]] of psychedelic phenethylamines, distinguished by a chlorine atom at the 4-position of the 2,5-dimethoxyphenethylamine backbone. It is less potent and less widely explored than its bromine and iodine siblings [[2c-d-pihkal-entry-23]] and 2C-I, but offers a distinctive profile characterized by sensual warmth, mild visuals, and a paradoxically sedating yet sleep-preventing quality at higher doses.
+2C-C is a member of the [[2c-d-pihkal-entry-23]] and 2C-I, but offers a distinctive profile characterized by sensual warmth, mild visuals, and a paradoxically sedating yet sleep-preventing quality at higher doses.
 
 ## Chemical Information
 
@@ -22,38 +22,13 @@ tags: [phenethylamine, shulgin]
 - Molecular formula: C10H14ClNO2
 - Molecular weight: 215.68 g/mol
 - Class: 2C family phenethylamine (2,5-dimethoxy-4-substituted)
-- The chlorine analog of [[2c-d-pihkal-entry-23]]; amphetamine homologue is DOC
-
-## Dosage and Duration
-
-| Parameter | Value |
-|-----------|-------|
-| Light dose | 20 - 24 mg |
-| Common dose | 24 - 30 mg |
-| Strong dose | 30 - 40 mg |
-| Heavy dose | 40 - 50 mg |
-| Duration | 4 - 8 hours |
-| Onset | 1.5 - 2 hours (slower than 2C-B) |
-
-## Effects and Qualitative Commentary
-
-### 20 mg
-The onset is notably slow compared to [[2c-d-pihkal-entry-23]], taking 1.5 to 2 hours to fully manifest. The experience is longer-lived than 2C-B with a slight metallic overtone. Effects are mild but pleasant.
+- The chlorine analog of [[2c-d-pihkal-entry-23]], taking 1.5 to 2 hours to fully manifest. The experience is longer-lived than 2C-B with a slight metallic overtone. Effects are mild but pleasant.
 
 ### 24 mg
 Produces a "moderately high and thoroughly favorable place" lasting several hours. The quality is distinctly sensual without excessive visual distraction. Users describe a warm, comfortable body state with pleasant sensory enhancement.
 
 ### 40 mg
-Significant visual effects appear. Interestingly, the compound shows less stimulation than [[2c-d-pihkal-entry-23]] and can feel actually sedating, yet users report being unable to sleep. Described as "a very intense form of relaxation" -- a paradoxical combination of deep physical relaxation combined with sleeplessness. Doses up to 50 mg reportedly increase both intensity and duration further.
-
-### Intravenous Administration
-One report of 20 mg IV described the response as "overwhelming," with effects peaking at about 5 minutes and lasting approximately 15 minutes. This route is NOT recommended for casual use.
-
-## Extensions and Commentary
-
-### Halogen Series Comparison
-
-Within the [[2c-family-chemistry-and-sar-pihkal]] halogen series, potency decreases with decreasing atomic weight:
+Significant visual effects appear. Interestingly, the compound shows less stimulation than [[2c-family-chemistry-and-sar-pihkal]] halogen series, potency decreases with decreasing atomic weight:
 
 | Compound | 4-Substituent | Potency | Exploration Level |
 |----------|--------------|---------|-------------------|
@@ -79,7 +54,6 @@ Two synthetic routes are described:
 
 ## Comparison to Related Compounds
 
-- [[2c-d-pihkal-entry-23]]: More potent (12-24 mg vs 20-40 mg), faster onset, more stimulating, more erotic, and more visually intense. 2C-C is the gentler, slower, more sedating cousin.
 - [[2c-d-pihkal-entry-23]]: 2C-D is milder still and longer-acting. Both compounds share a gentle quality, but 2C-C has more visual content.
 - DOI: The amphetamine/iodine analog -- far more potent (1.5-3 mg), far longer-lasting, and more classically psychedelic.
 - [DOB: The amphetamine/bromine analog -- extremely potent (1-3 mg) and very long-acting (18-30 hours).
@@ -92,8 +66,7 @@ Two synthetic routes are described:
 - Despite feeling sedating, the compound prevents sleep at active doses. Plan for a full 8-hour experience.
 - IV administration (20 mg) was described as "overwhelming" -- this route is strongly discouraged outside clinical settings.
 - The [legal status varies by jurisdiction.
-- See [[harm-reduction-guide]] for general psychedelic safety principles.
-- The [[set-and-setting-framework]] applies to all phenethylamine psychedelics.
+- See [[set-and-setting-framework]] applies to all phenethylamine psychedelics.
 
 ## Practical Context
 2c C Pihkal Entry #22 Compound Profile is relevant to farming knowledge because it connects observation,
@@ -117,8 +90,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-dose-response]]
-- [[cannabis-safety-profile-and-overdose-risk]]
 - [[deep-relaxation-and-mind-body-healing]]
 - [[psychedelic-harm-reduction-philosophy]]

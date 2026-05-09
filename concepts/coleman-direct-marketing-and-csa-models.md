@@ -116,11 +116,8 @@ welcome.
 
 ## Related Concepts
 
-- [[coleman-marketing-economics]] — economic benchmarks and financial
-  planning
 - [[coleman-post-harvest-handling-and-storage]] — packaging and
   presentation for market
-- [[coleman-year-round-marketing-calendar]] — seasonal demand patterns
 - [[coleman-four-season-farm]] — the farm as a business model
 - [[coleman-winter-harvest-philosophy]] — the vision behind winter
   marketing

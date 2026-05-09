@@ -11,25 +11,12 @@ type: concept
 
 # PF TEK Aborts and Potency Harvesting
 
-The PF TEK emphasizes that the potency of [[psilocybe-cubensis]] mushrooms is
-largely determined by the age of the specimen at harvest. [[psilocybe-fanaticus]]
+The PF TEK emphasizes that the potency of [[psilocybe-fanaticus]]
 advocated harvesting mushrooms at a young, immature stage and collecting
 aborts, the small malformed mushrooms that cease growing early in the fruiting
 cycle. This approach, combined with cool desiccant drying and a brown rice
 substrate, can produce specimens with potency comparable to the more celebrated
-[[psilocybe-semilanceata]].
-
-## The Science of Age and Potency
-
-It has been scientifically demonstrated that small, immature mushroom specimens
-are significantly more potent by weight than larger mature specimens. As a
-mushroom matures and its cap expands like an umbrella, the overall size
-increases dramatically, but the concentration of active alkaloids (psilocybin
-and psilocin) decreases proportionally. A young mushroom picked before the veil
-breaks will deliver more psychedelic activity per gram of dried material than a
-fully mature specimen picked after sporulation has begun.
-
-Research by [[jochen-gartz]] showed that Psilocybe Cubensis can achieve a baseline
+[[jochen-gartz]] showed that Psilocybe Cubensis can achieve a baseline
 psilocybin content of approximately 1%, which is similar to Psilocybe
 Semilanceata. However, achieving this level depends entirely on cultivation and
 harvesting practices: the substrate used (brown rice), the age at harvest

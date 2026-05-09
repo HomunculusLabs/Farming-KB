@@ -3,12 +3,7 @@ title: Mycorrhizal Fungi in Grasses and Lawns
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources: []
----
-# Mycorrhizal Fungi in Grasses and Lawns
-
-Grasses form associations with [[arbuscular-mycorrhizal-fungi]] that significantly improve their health, resilience, and resource efficiency. Understanding these relationships is key to managing lawns, sports fields, and golf courses with fewer chemical inputs.
+tags: [[arbuscular-mycorrhizal-fungi]] that significantly improve their health, resilience, and resource efficiency. Understanding these relationships is key to managing lawns, sports fields, and golf courses with fewer chemical inputs.
 
 ## Grass Species That Form Arbuscular Mycorrhizae
 
@@ -31,9 +26,7 @@ Associations with arbuscular mycorrhizal fungi benefit grass plants in the same 
 - Tests show that lawn grasses inoculated with mycorrhizal fungi contain more chlorophyll with improved photosynthesis
 - Root systems grow larger, denser, and faster as a result of mycorrhizal association, which can mean total coverage without the need to replant
 - Mycorrhizae improve soil structure as fungal hyphae extend and explore surrounding soils, binding soil particles for better air and water movement
-- Mycorrhizae improve soils damaged by compaction, particularly soils supporting grass on playing fields and parks — see [[soil-compaction-solutions]]
-- Mycorrhizae improve drought resistance by reaching deep into the soil to access water resources
-- Mycorrhizae lessen infection rates from bacterial wilt, parasitic nematodes, and other pathogens, supporting [[mycorrhizal-plant-defense]]
+- Mycorrhizae improve soils damaged by compaction, particularly soils supporting grass on playing fields and parks — see [[mycorrhizal-plant-defense]]
 
 ## Water Management
 
@@ -41,11 +34,7 @@ Providing water to large expanses of grass can be expensive, time-consuming, and
 
 Grasses with mycorrhizal associations are better able to resist the ravages of drought. Arbuscular fungi form tremendous extraradical networks in the soil that increase grass roots' access to water, especially in response to drought. Healthy mycorrhizal grasses with extensive root systems are better equipped to face drought stresses, and grasses bounce back much faster when water again becomes available. The complex mantle formed around roots by ectomycorrhizal fungi holds water, enhancing storage and the plants' ability to interact with surface water. Arbuscular mycorrhizal fungi also form abundant vesicles within grass roots that stay hydrated and spongy to protect roots from desiccation during drought.
 
-[[soil-fungi-and-carbon-cycling]] into the soil, improving soil structure. Glomalin-enriched soil particles stick together, creating pores, tunnels, and reservoirs for greater water retention. Mycorrhizal colonization also increases the number of root aquaporins, the embedded cell membrane protein channels that transport water.
-
-Mycorrhizae also impact gas exchange in plants, helping them expel oxygen and take in carbon dioxide for photosynthesis. They influence the hydraulics of the host grass plant as it balances the water absorbed through roots and released through stomata. Stomata pores open and close to regulate the amount of gases and water vapor expelled from or held within the plant; the stomata close as water becomes scarce and open again to allow respiration.
-
-These water management benefits relate closely to [[drought-gardening-strategies]] for broader application.
+[[drought-gardening-strategies]] for broader application.
 
 ## Weed Management
 
@@ -55,9 +44,7 @@ Monocultures — areas planted in a single crop — are magnets for problems. If
 
 Clover is an excellent addition. This nitrogen-fixing plant also forms mycorrhizae, and because mycorrhizae deliver nitrogen to grass roots, including clover in the lawn is a great way to achieve a healthy lawn without adding fertilizers. The presence of mycorrhizae also increases the number of nitrogen-fixing root nodules. Clover also holds water longer than most lawn grasses, and it shares the water with other organisms in the soil food web.
 
-Even dandelions have uses. They are so proficient at mining minerals with their mycorrhizal partners that they are sometimes used as a [[cover-crop-guide-detailed]]. Plantings in the following year benefit because the soil contains more phosphorus. Because of pollution issues associated with fertilizer use, most lawn fertilizer mixes no longer contain phosphorus. Weeds may someday take the place of the middle number in the N-P-K fertilizer trilogy.
-
-For those who prefer to minimize weeds, studies show that arbuscular mycorrhizal fungi can help [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]] in established lawns and turfgrass. Scientists hypothesize that the fungi either discourage the growth of weeds or help the desired perennial grasses outcompete them.
+Even dandelions have uses. They are so proficient at mining minerals with their mycorrhizal partners that they are sometimes used as a [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]] in established lawns and turfgrass. Scientists hypothesize that the fungi either discourage the growth of weeds or help the desired perennial grasses outcompete them.
 
 ## Inoculation Methods
 
@@ -100,30 +87,4 @@ Some grasses welcome associations with many different types of fungi. In a Canad
 
 ## Mycorrhizal Grass Studies
 
-Research has demonstrated the value of mycorrhizal associations across many grass species, contributing to the broader body of [[mycorrhizal-crop-studies]].
-
-### Annual Bluegrass (*Poa annua*)
-
-This quick-growing, opportunistic weed grass has shallow roots and is not a preferred host for mycorrhizal fungi. Experiments in golf courses have successfully used arbuscular mycorrhizae as a biocontrol for it. The Canadian study found 14 species of arbuscular mycorrhizal fungi in its various root zones. Studies indicate that annual bluegrass does not thrive if mycorrhizae colonization is extensive in other, more favored, perennial grasses.
-
-### Bermuda Grass (*Cynodon dactylon*)
-
-This tough grass is used in greenbelts, playing fields, and lawns. Inoculation with mycorrhizal fungi improves all aspects of growth, from drought resistance to nematode and disease resistance. Less fertilizer is also required.
-
-### Creeping Bentgrass and Kentucky Bluegrass
-
-Creeping bentgrass (*Agrostis stolonifera*) and Kentucky bluegrass (*Poa pratensis*) inoculated with *Funneliformis mosseae*, *Glomus aggregatum*, or *Rhizophagus intraradices* showed 60 percent higher colonization under low phosphorus conditions than controls. Creeping bentgrass showed twice as much established mycorrhizae. *Rhizophagus intraradices* has been used to colonize Kentucky bluegrass, red fescue, and perennial ryegrass. Adding the less effective *Claroideoglomus etunicatum* seemed to provide growth diversity, though it was not as effective when used alone.
-
-### Perennial Ryegrass (*Lolium perenne*)
-
-After inoculation with arbuscular mycorrhizal fungi, ryegrass plants contained up to 29 percent more chlorophyll than uninoculated plants. They also showed increased biomass and better visual quality, and contained more phosphorus, potassium, and zinc concentrations than controls. *Rhizophagus intraradices* proved to be a better colonizer than *Funneliformis mosseae*.
-
-### St. Augustine Grass (*Stenotaphrum secundatum*)
-
-This grass is natively associated with *Rhizophagus intraradices*. It is susceptible to infection by brown patch (*Rhizoctonia solani*) and take-all (*Gaeumannomyces graminis*), which affect its roots. In studies, mycorrhizae did not seem to protect it from infection by these fungi.
-
-### Zoysia (*Zoysia* spp.)
-
-Zoysia grasses do not appear to be the subject of formal studies, but some commercial advertisements suggest that inoculation with arbuscular mycorrhizal fungi is useful and helps the grass survive drought.
-
-These results underscore the importance of [[mycorrhizal-nutrient-transport]] in turfgrass systems and the potential for reducing chemical inputs in lawn management.
+Research has demonstrated the value of mycorrhizal associations across many grass species, contributing to the broader body of [[mycorrhizal-nutrient-transport]] in turfgrass systems and the potential for reducing chemical inputs in lawn management.

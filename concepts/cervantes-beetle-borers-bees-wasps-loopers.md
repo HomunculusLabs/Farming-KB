@@ -106,19 +106,7 @@ stripes, spots, and other designs that provide camouflage.
 ### Damage
 
 These chewing insects eat pieces of foliage and leave telltale
-bite marks in leaves. Some [[cervantes-drying-buds-methods]], leaving a wake of feces that attracts
-diseases. Others roll themselves inside leaves for protection.
-An infestation will damage foliage, slow growth, and eventually
-defoliate, stunt, or kill plants.
-
-Droppings accumulate between buds and fall out when buds are
-hung to dry. Inspect below hung buds to find poop droppings
-that indicate caterpillar activity during flowering.
-
-### Detection
-
-One effective method to check for caterpillars and loopers is
-to spray one plant with [[cervantes-pyrethrum-pyrethroid-insecticides]]
+bite marks in leaves. Some [[cervantes-pyrethrum-pyrethroid-insecticides]]
 aerosol spray and shake the plant afterward. The spray has a
 quick knockout effect, and most caterpillars will fall from the
 plant, making them visible and easy to collect.
@@ -130,20 +118,9 @@ plant, making them visible and easy to collect.
 - Biological: Trichogramma wasps parasitize caterpillar eggs.
   Spined soldier bug (Podisus maculiventris, Podibug) is a
   general predator of caterpillar larvae
-- [[cervantes-bacillus-thuringiensis-bt-control]]: Most effective biological control for
-  caterpillars and loopers. Apply as a foliar spray
-- Sprays: Homemade repellent sprays containing hot pepper and
-  garlic. Pyrethrum and rotenone for chemical control
-
-## Related Topics
-
 - [[cervantes-caterpillars-budworms]] - budworm-specific
   information
-- [[cervantes-bacillus-thuringiensis-bt-control]] - Bt
-  biological control
 - [[cervantes-biological-pest-control-predators]] - predator
   overview
-- [[cervantes-nematodes-root-maggots-soil-pests]] - soil pest
-  management
 - [[cervantes-homemade-pest-disease-sprays]] - DIY spray
   recipes

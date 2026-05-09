@@ -109,14 +109,8 @@ Anti-inflammatory tooth powder: equal parts xylitol + sodium bicarbonate, with c
 
 ## Related Pages
 
-- [[cannabis-and-anxiety-research]]
-
 - [[cannabis-ocd-research]]
 
-- [[cannabis-ptsd-research]]
-
 - [[cannabis-endocannabinoid-system]]
-- [[teaming-with-microbes-plant-control]]
 - [[cannabis-anxiety-and-ptsd-treatment]]
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]

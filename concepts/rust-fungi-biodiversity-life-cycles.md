@@ -3,7 +3,7 @@ title: Rust Fungi — Biodiversity, Life Cycles, and Collection
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -78,14 +78,7 @@ Rusts are unable to grow saprobically — found only where hosts occur. They usu
 
 ## See Also
 
-- [[medically-important-fungi-pathogens-opportunists]]
 - [[straminipiles-oomycetes-fungus-like-chromists]]
-- [[fungicolous-fungi-parasites-associates]]
-
-## Related
-
 - [[fungal-pathogens-in-agriculture]]
-- [[fungal-biodiversity-grassland]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[fungal-species-richness-and-diversity-indices]]
 - [[tropical-vs-temperate-fungal-diversity]]

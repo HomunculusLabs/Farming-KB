@@ -58,42 +58,12 @@ Key design principles from the book:
 - **Work with site forces:** Use existing topography, water flow, solar
   exposure, and microclimates rather than fighting them
 - **Build soil as infrastructure:** Soil is the primary capital investment;
-  [[biochar]], composting, [[hugelkultur]], and [[comfrey|comfrey]]
-  cultivation are core strategies
-- **Design for failure:** Systems should degrade gracefully and continue
-  providing partial function when stressed
-
-### Whole Systems Design LLC
-
-Founded in ~2005, the firm operates at the intersection of permaculture design,
-landscape architecture, and construction. Services include whole-site planning,
-earthworks, water management, food system design, and renewable energy
-integration. The firm has designed and implemented projects across the
-northeastern United States, with emphasis on steep, cold, and marginal sites.
-
-### Vermont Homestead Demonstration Site
-
-Falk's 10-acre property in Moretown serves as the primary testing ground and
-demonstration for his design philosophy. Key features include:
-
-- **Terraced [[hugelkultur]] beds:** Extensive hugelkultur systems on
+  [[hugelkultur]], and [[hugelkultur]] beds:** Extensive hugelkultur systems on
   hillside terrain for frost protection and water retention
 - **Integrated water systems:** Multiple ponds, swales, and gravity-fed
   irrigation; spring development and rainwater harvesting
 - **Food forests:** Mixed cold-hardy fruit and nut tree systems with
-  understory herbs and [[companion-planting|companion planting]]
-- **Rice paddies:** One of the few cold-climate rice cultivation trials in
-  the northeastern US, using short-season varieties
-- **Appropriate technology:** Solar PV systems, wood gasification,
-  rocket mass heaters, root cellaring
-- **Animal integration:** Pigs for site preparation, chickens, ducks,
-  rotational grazing systems
-- **Medicinal and culinary herbs:** Extensive herb gardens integrated with
-  food production zones
-
-## Design Philosophy
-
-Falk's approach to [[permaculture]] is notably pragmatic and site-specific,
+  understory herbs and [[permaculture]] is notably pragmatic and site-specific,
 distinguishing itself from more idealistic or tropical-focused permaculture
 literature.
 
@@ -112,14 +82,8 @@ literature.
 
 ## Key Collaborations and Influences
 
-- **[[sepp-holzer|Sepp Holzer]]:** Falk cites Holzer's terraced pond and
-  hugelkultur systems as major influences on his earthwork approach
-- **[[bill-mollison|Bill Mollison]] and [[david-holmgren|David Holmgren]]:**
-  Foundational permaculture framework
-- **[[paul-stamets|Paul Stamets]]:** Mycological approaches to site
+- **[[bill-mollison|Bill Mollison]] and [[paul-stamets|Paul Stamets]]:** Mycological approaches to site
   remediation and food production
-- **[[mark-shepard|Mark Shepard]]:** Restoration agriculture and perennial
-  polyculture systems
 - **[[eric-toensmeier|Eric Toensmeier]]:** Perennial vegetable systems for
   cold climates
 
@@ -134,10 +98,6 @@ literature.
 
 ## See Also
 
-- [[sepp-holzer]] — Austrian permaculture farmer; major influence on Falk's
-  earthwork methods
 - [[bill-mollison]] — Co-originator of permaculture design framework
-- [[david-holmgren]] — Co-originator of permaculture; 12 design principles
 - [[hugelkultur]] — Core technique featured extensively in Falk's work
-- [[mark-shepard]] — Restoration agriculture; complementary approach
 - [[eric-toensmeier]] — Perennial polyculture specialist; cold-climate focus

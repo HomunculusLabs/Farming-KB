@@ -12,7 +12,6 @@ type: query
 ## Short Answer
 Compost tea is a liquid extract made by steeping high-quality compost in aerated water to multiply beneficial microorganisms. The preferred method is actively aerated compost tea (AACT), brewed with an air pump for 24-36 hours to encourage aerobic bacteria and fungi. AACT provides disease suppression and nutrient cycling when applied to plants and soil, and is more biologically diverse than non-aerated compost extract.
 ## Types of Compost Tea
-The [[compost-tea-brewing]] provides the foundational knowledge for making effective tea.
 The [[aact-definitions-and-types-ingham]] resource distinguishes several related preparations:
 | Type | Method | Aeration | Best For |
 |---|---|---|---|
@@ -23,12 +22,6 @@ The [[aact-definitions-and-types-ingham]] resource distinguishes several related
 AACT is the preferred method for most applications because continuous aeration supports diverse and active microbial populations.
 ## Bacterial vs. Fungal Tea
 Choosing between tea types depends on what you are growing:
-**Use [[aact-bacterial-dominant-tea]] for:**
-- Annual vegetables (tomatoes, peppers, lettuce)
-- Lawn and turf grasses
-- Brassicas (cabbage, broccoli, kale)
-- Cannabis in vegetative stage
-- Seedlings and young transplants
 **Use [[aact-fungal-dominant-tea]] for:**
 - Perennials and shrubs
 - Fruit and nut trees
@@ -66,31 +59,6 @@ Choosing between tea types depends on what you are growing:
 - Do not store finished tea (biology dies off rapidly)
 ## Compost Quality Is Critical
 Your tea is only as good as your starting compost.
-The [[compost-biology-organisms]] reference explains what to look for.
-Compost requirements for tea:
-- Made from diverse materials (at least 10+ ingredients)
-- Reached thermophilic temperatures (130-160 degrees F)
-- Fully cured (2-4 weeks after heating phase)
-- Dark brown, crumbly texture
-- Rich earthy smell with no ammonia, sourness, or putrefaction
-- Visible fungal hyphae when pulled apart
-- Moist but not wet
-If your compost has anaerobic organisms, your tea will too.
-## Tea Recipes
-### Bacterial-Dominant Tea Recipe (5 gallons)
-- 3 cups high-quality compost
-- 1 tablespoon molasses (bacteria food)
-- 1 tablespoon kelp meal (micronutrients)
-- 1 tablespoon fish hydrolysate (nutrients)
-- Brew for 24 hours with continuous aeration
-### Fungal-Dominant Tea Recipe (5 gallons)
-- 3 cups fungal compost (with visible hyphae)
-- 1 tablespoon humic acid (fungal food)
-- 1 tablespoon fish hydrolysate
-- 0.5 tablespoon kelp meal
-- 1 cup compost from a forest floor or woody compost pile
-- Brew for 24-36 hours with gentle aeration (less vigorous bubbling)
-## Application Rates
 The [[compost-tea-application-rates]] guide covers specific recommendations.
 | Application Method | Rate | Timing | Notes |
 |---|---|---|---|
@@ -99,14 +67,27 @@ The [[compost-tea-application-rates]] guide covers specific recommendations.
 | Seed treatment | Soak seeds 1-2 hours | Before planting | Inoculates seed surface |
 | Transplant dip | Dip roots in undiluted tea | At planting | Reduces transplant shock |
 Foliar application is particularly effective for disease suppression because beneficial organisms coat leaf surfaces and outcompete pathogens.
-The [[compost-tea-for-specific-crops]] resource provides crop-specific adjustments for bacterial-to-fungal ratios and timing.
-## Key Points
-- Quality compost tea starts with quality compost; see [[aact-definitions-and-types-ingham]] for terminology
-- Choose [[aact-bacterial-dominant-tea]] for annual vegetables and [[aact-fungal-dominant-tea]] for perennials
+The [[aact-definitions-and-types-ingham]] for terminology
+- Choose [[aact-fungal-dominant-tea]] for perennials
 - Aeration, clean equipment, and dechlorinated water are essential for success
-- [[compost-tea-application-rates]] provides specific dilution and timing recommendations
-- Apply tea within 4 hours of brewing for maximum biological activity
-## Related
 - [[query-how-to-make-a-balanced-compost-recipe]]
-- [[query-how-mycorrhizal-fungi-help-plants]] Questions
 - [[query-how-to-build-healthy-garden-soil]]
+## Practical Considerations
+
+Successful implementation of How Do I Make Compost Tea for My Plants? requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

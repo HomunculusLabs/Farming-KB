@@ -26,40 +26,7 @@ budgets, and anyone interested in sustainable, low-energy cultivation.
 
 ## Cardboard as a Fruiting Substrate
 
-Cardboard cultivation for fruiting is best suited to [[oyster-mushroom-growing-house-types]],
-though it also works as an expansion method for generating pounds of mycelium
-from other wood-loving saprophytes. The method requires only cardboard, water,
-a container, and mushroom spawn.
-
-### Step-by-Step Fruiting Method
-
-1. **Container selection.** A plastic bin works best, maintaining humidity and
-   directing mushroom formation to the inner top layer. Cardboard boxes can
-   be used but require more frequent watering and may fruit on all exterior
-   surfaces, reducing overall yield.
-
-2. **Soaking.** Stack cardboard in the bin and add enough water to cover it.
-   Soak until completely saturated, approximately one hour. Drain excess
-   water and remove the cardboard.
-
-3. **Layering.** Place a few sheets of cardboard at the bottom of the bin,
-   sprinkle a small amount of spawn across the surface, and repeat until the
-   container is full.
-
-4. **Incubation.** Cover with a lid left slightly cracked or a plastic bag.
-   Monitor moisture to keep the cardboard humid but not waterlogged. Optimal
-   colonization temperature is 65-85 degrees Fahrenheit (18-30 degrees
-   Celsius).
-
-5. **Fruiting.** Once fully colonized and completely white, expose to diffuse
-   natural or fluorescent light. Mushrooms typically form at the bin
-   perimeter and can fruit at least twice, though slower than on commercial
-   substrates like pasteurized agricultural waste.
-
-## Cardboard Spawn Expansion (Low-Tech Method)
-
-Beyond fruiting, cardboard serves as a primitive spawn creation system that
-requires no [[mushroom-cultivation-fundamentals]] or laboratory equipment. This method,
+Cardboard cultivation for fruiting is best suited to [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] or laboratory equipment. This method,
 called cardboard inoculation, is suitable for species that grow readily on
 wood, including oysters, blewits, and king stropharia. It is not effective
 for secondary decomposers like almond portabella, or mycorrhizal species.
@@ -103,38 +70,14 @@ mycoremediation of indigo carmine dyes from textile mill waste.
 - Works off-grid with minimal energy inputs
 - Produces spawn that can inoculate logs and wood chip beds
 - Diverts cardboard from waste streams
-- Spent substrate becomes excellent [[compost-building-guide]] or [[vermicomposting]] feed
+- Spent substrate becomes excellent [[vermicomposting]] feed
 
 ## Contamination Awareness
 
 A critical skill for cardboard cultivators is distinguishing mushroom mycelium
 from mold mycelium. Mold mycelium can closely resemble mushroom hyphae, and
 transferring mold to an entire operation can be catastrophic. Cultivators
-should familiarize themselves with common contaminants like [[singh-trichoderma-biocontrol-mechanisms-applications]].
-Any powdery growth on cultures should result in immediate disposal and
-sanitization of the area, hands, tools, and equipment.
+should familiarize themselves with common contaminants like [[oyster-mushroom-outdoor-low-tech-cultivation]]
 
-## Limitations
-
-- Slower colonization and fruiting than laboratory-produced spawn
-- Not suitable for all mushroom species
-- Contamination risk is higher without sterile technique
-- Yields are lower than commercial substrates
-- Requires practice and patience to master consistently
-
-## Connection to Coffee Grounds Cultivation
-
-Cardboard cultivation integrates seamlessly with oyster mushroom coffee  grounds cultivation. Colonized cardboard from coffee grounds projects can
-serve as the inoculum for cardboard expansion. Similarly, spent coffee grounds
-substrate can be used to inoculate cardboard cultures, creating a continuous
-low-tech production cycle using only waste materials.
-
-## See Also
-
-- [[oyster-mushroom-outdoor-low-tech-cultivation]]
-
-- [[oyster-mushroom-coffee-grounds-cultivation]] for combined waste-stream
-  methods
 - [[mushroom-classroom-education-demos]] for educational applications
-- [[community-garden-mushroom-integration]] for garden-scale deployment
 - [[spawn-generation-techniques]] for laboratory spawn production methods

@@ -1,7 +1,7 @@
 ---
 title: Edible Agarics
 created: 2026-04-28
-tags: [mycology, taxonomy, agaricaceae, edible-fungi, identification]
+tags: [[mycology, taxonomy, agaricaceae, edible-fungi, identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -108,9 +108,7 @@ woods. The mycelium has been grown in pure culture.
 
 ## See Also
 
-- [[agaricus-campestris]]
 - [[mushroom-classification-basidiomycete-families]]
-- [[pore-fungi-polyporaceae]]
 - [[wild-mushroom-markets]]
 
 ## References
@@ -120,3 +118,5 @@ woods. The mycelium has been grown in pure culture.
   1900.
 - Peck, C.H. "Edible Fungi of New York." Mem. N.Y.
   State Mus. 3(4), 1900.
+
+See also: [[edible-wild-mushrooms-foraging-guide]]

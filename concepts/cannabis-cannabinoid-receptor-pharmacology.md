@@ -9,64 +9,7 @@ sources:
 ---
 # Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
 
-The [[cannabis-endocannabinoid-system]] operates through a lock-and-key mechanism. Cannabinoid receptors embedded in cell membranes throughout the body function as "locks," while cannabinoids (endogenous, plant-based, or synthetic) serve as "keys." The two primary and best-characterized receptors are CB1 and CB2, with scientists suspecting at least three additional receptors (non-CB1, non-CB2) yet to be fully understood.
-
-## CB1 Receptors (Cannabinoid Receptor 1)
-
-### Location
-
-CB1 receptors are located primarily in the **central nervous system** (brain and spinal cord), with specific concentrations in brain areas regulating:
-
-- **Cerebellum:** Motor control, attention, emotion, thinking
-- **Basal ganglia and limbic system:** Habits, reward processing, emotional memory
-- **Hippocampus:** Memory functions
-- **Male and female reproductive systems**
-- **Hypothalamus:** Circadian cycles, sleep, hunger, thirst (partially)
-- **Substantia nigra:** Dopamine modulation via CB1
-
-### Critical Safety Feature
-
-CB1 receptors are **absent from the medulla oblongata**, the brain region that regulates heart rate and respiratory function. This makes cannabinoid-based pain management inherently safer than opioids, which can cause fatal respiratory depression. This is why there are zero recorded deaths from cannabis overdose.
-
-### Functions
-
-- Pain regulation (central nervous system)
-- Motor control
-- Memory and learning
-- Emotional processing
-- Appetite regulation (eating behavior)
-- Body temperature regulation (partially independent of hypothalamus)
-- Neurogenesis stimulation
-- Neuroplasticity enhancement
-
-### Binding Affinity
-
-- **THC** binds relatively equally to CB1 and CB2
-- **CBD** has lower affinity for CB1 but modulates THC's CB1 effects
-- **Anandamide** (endogenous) is a natural CB1 agonist
-- **Synthetic agonists:** HU210 (primarily CB1), CP55,940, WIN55,212-2
-- **Antagonists:** Rimonabant (SR141716A), AM251
-
-## CB2 Receptors (Cannabinoid Receptor 2)
-
-### Location
-
-CB2 receptors cluster in the **periphery** of the body, especially in tissues involved in immune responses:
-
-- **Spleen** (high concentration)
-- **Gastrointestinal tract**
-- **Immune cells** (tonsils, lymph nodes)
-- **Bone tissue**
-- **Pancreas** (both CB1 and CB2 present)
-- **Heart tissue** (CB1 and CB2 both present)
-- **Eye** (CB1 mediates IOP reduction)
-- **Skin**
-
-### Functions
-
-- Immune system regulation and modulation
-- Anti-inflammatory action
-- Treatment of chronic pain associated with [[cervantes-viral-diseases-cannabis]]
+The [[cervantes-viral-diseases-cannabis]]
 - Protection against inflammatory and oxidative stress
 - Tissue repair and wound healing
 - Cancer-fighting properties (apoptosis induction in tumor cells)
@@ -121,24 +64,17 @@ This explains why sativas tend to produce more cerebral, stimulating effects (CB
 
 ## Related Topics
 
-- [[cannabis-endocannabinoid-system-overview]]
 - [[cannabis-thc-therapeutic-profile]]
-- [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-terpene-entourage-effect-profiles]]
-- [[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - [[cannabis-and-neuroprotection]]
 
 ## Key Insight
 
 The dual-receptor system allows cannabis to address both central nervous system conditions (via CB1) and peripheral/immune conditions (via CB2), with strain selection and THC:CBD ratios determining the therapeutic focus.
-- [[cannabis-for-crohns-and-ibd]]
 - [[cannabis-terpene-entourage-effect-profiles]]
 
 ## See Also
 
-- [[cytochrome-p450-enzymes-structure-function-pharmacology]]
-
 - [[tryptamine-receptor-pharmacology]]
 
-- [[2c-d-pihkal-entry-23]]
 - [[cannabis-for-gastrointestinal-conditions]]

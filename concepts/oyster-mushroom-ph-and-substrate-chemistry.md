@@ -3,13 +3,7 @@ title: Oyster Mushroom Substrate pH and Chemistry
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
----
-# Oyster Mushroom Substrate pH and Chemistry
-
-Understanding substrate chemistry — particularly pH dynamics and nutritional composition — is critical for optimizing [[bulk-substrate-preparation]] and maximizing yields. This page covers pH requirements, nutritional profiles of common substrates, and the physio-chemical changes that occur during the cultivation cycle.
+tags: [[bulk-substrate-preparation]] and maximizing yields. This page covers pH requirements, nutritional profiles of common substrates, and the physio-chemical changes that occur during the cultivation cycle.
 
 ## pH Requirements
 
@@ -105,11 +99,7 @@ For optimal results, target the following pH at each stage:
 
 ## See Also
 
-- [[bulk-substrate-preparation]] — practical substrate preparation methods
-- [[mushroom-cultivation-fundamentals]] — compost-based substrate options
-- [[mushroom-substrates]] — general substrate information
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — compost-based substrate options
 - [[mushroom-yield-optimization]] — maximizing productivity
-- [[mushroom-cultivation-bulk-substrates]]
 - [[oyster-mushroom-substrate-materials-guide]]
-- [[mushroom-compost-fermentation-duggar-method]]
 - [[oyster-mushroom-substrate-preparation]]

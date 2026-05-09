@@ -126,7 +126,9 @@ but species richness remains moderate.
 
 ## See also
 
-[[guzman-allen-gartz-global-psilocybe-biogeography]]
 [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
-[[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+
+## See Also
+
+- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

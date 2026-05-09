@@ -107,14 +107,9 @@ An interesting feature of the helpline data is that it captures a specific type 
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
-- [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
 - [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
-- [[emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]
-- [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
-- [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]

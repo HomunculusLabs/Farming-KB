@@ -105,4 +105,4 @@ From the book's remediation cost comparison chart:
 ## Related
 
 - [[forest-ecology-basics]]
-- [[bioremediation-using-fungi]]
+- [[mycelium-composites-materials]]

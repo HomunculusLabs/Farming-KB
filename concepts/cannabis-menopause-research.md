@@ -35,25 +35,11 @@ While direct cannabis studies specifically for menopause are limited in the CHI 
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-endocannabinoid-system]] interfaces with the hypothalamic-pituitary-gonadal (HPG) axis, which governs reproductive hormone regulation. cb1-receptor density in the hypothalamus influences gonadotropin-releasing hormone (GnRH) secretion, which in turn affects FSH and LH levels that fluctuate during perimenopause.
-
-Anandamide, the body's primary endocannabinoid, is modulated by estrogen levels. As estrogen declines during menopause, anandamide signaling may be disrupted, contributing to mood changes, sleep disruption, and temperature dysregulation (hot flashes). Supplementing with phytocannabinoids like CBD may help restore [[cannabis-endocannabinoid-system]] tone.
+The [[cannabis-endocannabinoid-system]] tone.
 
 CB2 receptors on osteoclasts and osteoblasts play a crucial role in bone remodeling. CB2 activation stimulates osteoblast formation and inhibits osteoclast activity, suggesting therapeutic potential for post-menopausal osteoporosis. CBD's anti-inflammatory properties may also address the chronic low-grade inflammation associated with menopausal metabolic changes.
 
-Terpenes such as myrcene (sedative) and linalool (anxiolytic) found in [[cannabis-terpene-profile]] may provide synergistic benefits for sleep and anxiety, two of the most common menopausal complaints.
-
-## Clinical Evidence
-
-Direct clinical trials of cannabis for menopause are limited. The evidence is primarily derived from studies on individual menopausal symptoms. The Tel Aviv study (2009) on bone metabolism used CB1 and CB2 knockout mice, providing strong preclinical evidence but requiring human confirmation.
-
-Pain management evidence (CHI Value: 23, 28 studies) is the strongest indirect support, drawn from meta-analyses of randomized controlled trials. Sleep improvement evidence (CHI Values: 22-26) and anxiety/depression evidence (CHI Value: 23 each) further support cannabis as a multi-symptom approach to menopause management.
-
-Survey data from medical cannabis patients consistently identifies menopausal women as a growing demographic, with many reporting improvements in hot flashes, sleep quality, mood, and joint pain. However, these reports lack the rigor of controlled clinical trials and are subject to placebo and selection biases.
-
-## Dosing Considerations
-
-Menopause symptom management typically benefits from a flexible dosing approach using [[cannabis-delivery-methods-comparison]] tailored to specific symptoms. For hot flashes and night sweats, sublingual tinctures with a 1:1 THC:CBD ratio provide rapid onset (10-15 minutes) and can be used as needed.
+Terpenes such as myrcene (sedative) and linalool (anxiolytic) found in [[cannabis-delivery-methods-comparison]] tailored to specific symptoms. For hot flashes and night sweats, sublingual tinctures with a 1:1 THC:CBD ratio provide rapid onset (10-15 minutes) and can be used as needed.
 
 For sleep disruption, indica-dominant strains or THC-forward preparations taken 30-60 minutes before bedtime may be effective. Edible formats (gummies, capsules) with longer duration (6-8 hours) can sustain sleep throughout the night. Microdosing CBD (10-25 mg) during the day may help with baseline anxiety and mood stabilization.
 
@@ -67,21 +53,7 @@ Menopausal women often take hormone replacement therapy (HRT), and potential int
 
 THC may exacerbate anxiety, insomnia, or mood instability in some individuals, particularly at higher doses. Women with a history of anxiety disorders or depression should approach THC cautiously and consider CBD-dominant preparations as a starting point.
 
-Bone health concerns should be addressed comprehensively; cannabis is not a replacement for calcium, vitamin D, weight-bearing exercise, or bisphosphonate medications when prescribed. See [[cannabis-cbd-therapeutic-profile]] for detailed safety information.
-
-## Mind-Body Medicine Perspective
-
-Menopause can be viewed as a transition from the biological life-giving phase to the spiritual or wisdom-giving phase. Aggravating factors include stress from self-image concerns related to aging, unexpressed fears of loss of identity, and cultural conditioning. Consider positive reframe: rather than "losing" something, the woman is completing a phase of creative potential and transitioning to embodying creative wisdom.
-
-## Vasomotor Symptoms and Thermoregulation
-
-Hot flashes affect 50-80% of women during perimenopause and are among the most disruptive symptoms.
-The thermoregulatory center in the hypothalamus narrows its thermoneutral zone during menopause, causing the body to trigger heat-dissipation responses (sweating, vasodilation) at smaller temperature deviations.
-CB1 receptors are densely expressed in the hypothalamic preoptic area, the brain region responsible for thermoregulation.
-Animal studies have demonstrated that CB1 activation stabilizes thermoregulatory set points and reduces the frequency of heat-dissipation responses.
-A 2016 survey of 512 perimenopausal and postmenopausal women in Israel found that those using medical cannabis reported significant reductions in hot flash frequency and severity.
-Participants using 1:1 THC:CBD products reported the most consistent relief, suggesting a synergistic interaction between the two cannabinoids for thermoregulatory stabilization.
-See [[cannabis-for-sleep-disorders]] for related sleep disruption research.
+Bone health concerns should be addressed comprehensively; cannabis is not a replacement for calcium, vitamin D, weight-bearing exercise, or bisphosphonate medications when prescribed. See [[cannabis-for-sleep-disorders]] for related sleep disruption research.
 
 ## Sexual Health and Libido
 
@@ -110,20 +82,10 @@ Red clover (Trifolium pratense) contains isoflavones that weakly mimic estrogen 
 Dong quai (Angelica sinensis) has been used in Traditional Chinese Medicine for centuries to address gynecological transitions.
 Maca root (Lepidium meyenii) has shown benefit for menopausal sexual dysfunction in controlled trials.
 These botanicals may be combined with cannabinoid preparations for a multi-target approach, though potential herb-drug interactions should be evaluated, particularly for women on HRT.
-See [[cannabis-anti-inflammatory-applications]] for a broader discussion of integrative anti-inflammatory strategies.
-
-## Cognitive Changes and Brain Health
-
-Many women report subjective cognitive complaints during menopause, including difficulties with memory, attention, and verbal fluency.
-Neuroimaging studies confirm that the menopausal transition is associated with reduced brain glucose metabolism and alterations in hippocampal and prefrontal cortical function.
-The endocannabinoid system plays a critical role in neuroprotection and cognitive function: CB1 receptor activation supports synaptic plasticity, and CBD has demonstrated neuroprotective properties in models of neurodegeneration.
-For menopausal women concerned about cognitive health and long-term dementia risk (women represent two-thirds of Alzheimer's patients), the neuroprotective properties of cannabinoids warrant consideration alongside conventional preventive strategies.
 See [[blesching-cannabis-alzheimers-disease]] for detailed research on cannabinoid neuroprotection.
 
 ## See Also
 
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-health-index]]
-- [[cannabis-for-sleep-disorders]]
 - [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-sleep-disorders-and-insomnia]]

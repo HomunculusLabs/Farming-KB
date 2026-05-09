@@ -3,7 +3,7 @@ title: Gender Balance and Sustainability
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, ethics, sustainability]
+tags: [[permaculture, ethics, sustainability]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 # Gender Balance and Sustainability
@@ -111,39 +111,14 @@ yang-dominant, creating systems that are productive but brittle, efficient but
 unjust. The externalization of care work — unpaid labor of raising children,
 maintaining households, preparing food, caring for the elderly — onto women is
 not incidental to industrial economics but essential to it. Permaculture's
-emphasis on [[holmgren-household-economy-and-self-reliance]] responds to this externalization by bringing production and care
-back into the household, making visible the labor that industrial society treats
-as free.
-## Connection to Indigenous Knowledge Systems
-Many indigenous knowledge systems embody the gender complementarity that Holmgren
-describes. Indigenous agricultural practices frequently assign distinct but
-complementary roles to men and women in the food system: women often manage seed
-selection, home gardens, food processing, and food preservation, while men may
-manage field preparation, hunting, and trade. These roles create dynamic
-partnerships that build redundancy and resilience in the food system. The loss of
-indigenous knowledge through colonization has paralleled the loss of gender
-complementarity in Western societies, and both losses have contributed to the
-ecological and social crises that permaculture seeks to address.
-## Gender Balance in Energy Descent Planning
-As society moves into [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]], gender
+emphasis on [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]], gender
 balance becomes a practical necessity. Systems that are brittle, centralized, and
 optimized for maximum throughput (yang-dominant) are precisely the systems most
 vulnerable to energy scarcity. Systems that are resilient, distributed, and
 optimized for relationship quality and adaptive capacity (yin-balanced) are the
 systems most likely to function well under conditions of energy constraint.
-Holmgren's [[energy-descent-action-planning]]
-framework implicitly requires gender balance at every scale: households that can
-both produce food (yang) and maintain social networks of mutual aid (yin);
-communities that can organize collective projects (yang) and celebrate seasonal
-cycles together (yin); economies that value both material production and the
-non-monetized work of care, education, and cultural transmission.
-## Related Concepts
-- [[forest-garden-design-principles]]
-- [[permaculture-design-principles]]
+Holmgren's [[forest-garden-design-principles]]
 - [[holmgren-corporate-culture-and-ecology]]
-- [[holmgren-household-economy-and-self-reliance]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
 - [[mollison-permaculture-two-community-self-reliance]]
-- [[permaculture-seed-saving-breeding]]
 - [[holmgren-beyond-sustainability]]

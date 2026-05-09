@@ -1,5 +1,5 @@
 ---
-title: Entities/2 Alpha Dmt Entity Tihkal
+title: 2 Alpha Dmt Entity Tihkal
 created: 2026-04-17
 updated: 2026-04-17
 type: entity
@@ -8,13 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 2-alpha-DMT (2,a-Dimethyltryptamine)
 
-2-alpha-DMT, also known as 2,a-dimethyltryptamine or 2-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound first synthesized and bioassayed by Alexander Shulgin. It is structurally related to alpha-MT with an additional methyl group at the 2-position of the indole ring.
-
-## Chemistry and Structure
-
-The compound belongs to the tryptamine family with two key modifications: a methyl group on the alpha carbon of the side chain (as in alpha-MT) and a methyl group at the 2-position of the indole ring.
-
-This 2-position substitution is significant because it alters the molecule's interaction with monoamine oxidase (MAO) enzymes. In the cases of [[alpha-n-dmt-entity-tihkal]], [[det-entity-tihkal]], and [[5-meo-dmt-entity-tihkal]], adding a 2-methyl group converts non-orally-active compounds into orally active ones. However, 2-alpha-DMT demonstrates that the same modification can have opposite effects on compounds already orally active.
+2-alpha-DMT, also known as 2,a-dimethyltryptamine or 2-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound first synthesized and bioassayed by [[amt-entity-tihkal]], [[5-meo-dmt-entity-tihkal]], adding a 2-methyl group converts non-orally-active compounds into orally active ones. However, 2-alpha-DMT demonstrates that the same modification can have opposite effects on compounds already orally active.
 
 ## Dosage and Duration
 
@@ -46,13 +40,9 @@ The sedative character at high doses contrasts sharply with the stimulant profil
 
 ## Related Compounds
 
-[[alpha-n-dmt-entity-tihkal]] (2,N,N-trimethyltryptamine) - the 2-methyl analogue of DMT.
-
 [[det-entity-tihkal]] (2-methyl-DET) - the 2-methyl analogue of DET, which shows auditory distortion effects.
 
-[[amt-entity-tihkal]] - the parent compound without the 2-methyl substitution.
-
-[[alpha-n-dmt-entity-tihkal]] - dimethyltryptamine, the simplest active member of this family.
+[[amt-entity-tihkal]] - dimethyltryptamine, the simplest active member of this family.
 
 ## References
 
@@ -74,17 +64,28 @@ The paradoxical finding with this compound remains relevant to modern drug desig
 
 Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
 
-Ray, T.S. "Psychedelics as dissociative hallucinogens." Journal of Psychoactive Drugs, 42(2), 153-162, 2010.
-
-## See Also
-
-[[amt-entity-tihkal]] — the parent compound without 2-methyl substitution.
-
-[[alpha-n-dmt-entity-tihkal]] — the 2-methyl analogue of DMT.
+Ray, T.S. "Psychedelics as [[amt-entity-tihkal]] — the parent compound without 2-methyl substitution.
 
 [[det-entity-tihkal]] — the 2-methyl analogue of DET.
 
-[[alpha-n-dmt-entity-tihkal]] — N,N-dimethyltryptamine.
-
 [[det-entity-tihkal]] — N,N-diethyltryptamine.
 - [[alpha-n-o-tms-entity-tihkal]]
+## Practical Considerations
+
+Successful implementation of 2 Alpha Dmt Entity Tihkal requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

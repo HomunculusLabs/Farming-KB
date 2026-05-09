@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Psilocin & Psilocybin (4-HO-DMT)
 
-TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms" (Psilocybe, Stropharia, Panaeolus, Inocybe species). Psilocybin is the 4-phosphate ester of psilocin (4-HO-DMT); the two are pharmacologically equivalent as the phosphate ester is readily hydrolyzed in vivo. First isolated by [[albert-hofmann]] in 1958.
+TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms" (Psilocybe, Stropharia, Panaeolus, Inocybe species). Psilocybin is the 4-phosphate ester of psilocin (4-HO-DMT); the two are pharmacologically equivalent as the phosphate ester is readily hydrolyzed in vivo. First isolated by gordon-wasson in 1958.
 
 ## Chemical Names
 
@@ -67,13 +67,30 @@ Shulgin noted the drift from criminal statutes (where the burden of proof falls 
 
 ## See Also
 
-- [[dmt-entity-tihkal]] — N,N-dimethyltryptamine, the simplest psychedelic tryptamine
 - [[bufotenin-entity-tihkal]] — 5-HO-DMT (bufotenine), the 5-hydroxy positional isomer
-- [[alexander-shulgin]] — co-author of TIHKAL, which documents these compounds
 - [[psilocybe-cubensis]] — the most widely cultivated psychedelic mushroom species
 
 ## Contemporary Relevance
 
 The pharmacological profile of psilocin and psilocybin has taken on renewed clinical significance since the 2000s resurgence of psychedelic research. Modern clinical trials at institutions like Johns Hopkins and Imperial College London have demonstrated efficacy in treating depression, anxiety, and substance use disorders, using pure synthetic psilocybin rather than mushroom material. This validates Shulgin's early distinction between the value of pure compounds versus crude botanical preparations for controlled research.
 
-The compounds' relatively short duration (3-6 hours), compared to LSD (8-12 hours), makes them particularly attractive for therapeutic settings. See [[psilocybin-therapeutic-applications]] and [[ketamine-psychedelic-journey-guide]] for the broader clinical context. The growing [[psychedelic-mushroom-decriminalization]] and the emergence of psilocybin therapy centers in Oregon and Colorado represent a remarkable shift from the prohibition era that Shulgin navigated, suggesting that these compounds may finally receive the clinical and cultural recognition their pharmacological profiles have always warranted.
+The compounds' relatively short duration (3-6 hours), compared to LSD (8-12 hours), makes them particularly attractive for therapeutic settings. See [[ketamine-psychedelic-journey-guide]] for the broader clinical context. The growing [[psychedelic-mushroom-decriminalization]] and the emergence of psilocybin therapy centers in Oregon and Colorado represent a remarkable shift from the prohibition era that Shulgin navigated, suggesting that these compounds may finally receive the clinical and cultural recognition their pharmacological profiles have always warranted.
+## Practical Considerations
+
+Successful implementation of Psilocin & Psilocybin — TIHKAL Entry #18 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

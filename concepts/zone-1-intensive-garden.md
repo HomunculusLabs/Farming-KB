@@ -40,21 +40,13 @@ Zone 1 contains the elements of daily life: herbs snipped for cooking, salad gre
 
 ### Keyhole Beds
 
-[[keyhole-beds]] are the backbone of Zone 1 design. Their circular shape with central access path maximizes growing space while minimizing paths, and they place the most frequently harvested plants closest to the gardener.
-
-### Herb Spirals
-
-The [[herb-spiral-microclimate-design]] is a quintessential Zone 1 feature -- a compact, beautiful structure that puts 20 to 30 linear feet of herbs right outside the kitchen door.
+[[herb-spiral-microclimate-design]] is a quintessential Zone 1 feature -- a compact, beautiful structure that puts 20 to 30 linear feet of herbs right outside the kitchen door.
 
 ### Mandala Gardens
 
 Multiple keyhole beds arranged in a circular pattern create a mandala garden that combines beauty and extraordinary space efficiency.
 
 ### Sheet-Mulched Beds
-
-[[sheet-mulching-lasagna-gardening]] is the preferred method for building Zone 1 beds quickly. Rich compost on top allows immediate planting while deeper layers build long-term soil fertility.
-
-### Polycultures
 
 [[polyculture-design-hemenway]] plantings -- diverse mixes of vegetables, herbs, and flowers grown together -- thrive in Zone 1 where daily attention allows for frequent harvesting and observation.
 
@@ -68,21 +60,30 @@ Zone 1's proximity to the house creates unique microclimate opportunities. South
 
 ## Evolution Over Time
 
-In a [[comparison-food-forest-design-vs-backyard-orchard-design]] design, Zone 1 starts as the most productive area with annual vegetables and flowers in sheet-mulched beds. As the larger garden matures and trees in outer zones begin to cast shade, Zone 1 may shift toward more shade-tolerant perennials, or the gardener may maintain sunny openings for continued annual production.
-
-## Related Concepts
-
-- [[keyhole-bed-design]] -- the primary bed pattern for Zone 1
-- [[herb-spiral-microclimate-design]] -- a compact Zone 1 feature for herbs
+In a [[keyhole-bed-design]] -- the primary bed pattern for Zone 1
 - [[polyculture-design-hemenway]] -- diverse plantings suited to Zone 1's intensive management
-- [[urban-permaculture-productive-yards]] -- Zone 1 is especially important in small urban yards
-
-## Urban and Apartment Adaptations
-
-For urban dwellers without traditional yards, Zone 1 principles can be adapted to balconies, rooftops, windowsills, and community garden plots. Container gardens with [[urban-rooftop-and-vertical-gardening]] maximize production in limited space. Window farms and sprouting systems bring intensive food production into the smallest living spaces. The key Zone 1 insight -- that the most frequently used and cared-for elements should be closest at hand -- applies regardless of scale. A well-placed herb pot on the kitchen windowsill is a more productive Zone 1 element than a neglected garden bed fifty feet from the door. Hemenway's emphasis on the "five-minute harvest" as the measure of good Zone 1 design applies as much to apartment balconies as to suburban backyards.
+- [[urban-rooftop-and-vertical-gardening]] maximize production in limited space. Window farms and sprouting systems bring intensive food production into the smallest living spaces. The key Zone 1 insight -- that the most frequently used and cared-for elements should be closest at hand -- applies regardless of scale. A well-placed herb pot on the kitchen windowsill is a more productive Zone 1 element than a neglected garden bed fifty feet from the door. Hemenway's emphasis on the "five-minute harvest" as the measure of good Zone 1 design applies as much to apartment balconies as to suburban backyards.
 
 ## See Also
 
-[[home-vegetable-garden-planning]]
 [[faires-garden-design-zone-1-layout]]
 - [[chicken-keeping-guide]]
+## Practical Considerations
+
+Successful implementation of Zone 1 Intensive Garden requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

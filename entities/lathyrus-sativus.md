@@ -108,13 +108,8 @@ The crop's ability to produce both grain and forage from a single planting makes
 
 ## See Also
 
-- [[pisum-sativum]]
 - [[cicer-arietinum]]
-- [[lens-culinaris]]
 - [[phaseolus-vulgaris]]
-- [[vicia-faba]]
 - [[vigna-radiata]]
-- [[lathyrus-tuberosus]]
 - [[arachis-hypogaea]]
-- [[glycine-max]]
 - [[trigonella-foenum-graecum]]

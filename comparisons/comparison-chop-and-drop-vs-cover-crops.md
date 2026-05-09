@@ -21,31 +21,6 @@ improvement. Understanding when and how to use each method helps growers
 maximize soil health with minimal external inputs.
 
 ## Chop and Drop
-[[chop-and-drop-mulching]]
-Chop and drop mulching is the practice of cutting green vegetation and leaving
-it in place as a surface mulch layer rather than removing or composting it
-elsewhere. This technique is a cornerstone of permaculture and food forest
-management, where established plants are regularly pruned and the cuttings are
-dropped directly beneath them. The mulch layer suppresses weeds, retains soil
-moisture, moderates soil temperature, and slowly releases nutrients as it
-decomposes in contact with soil biology.
-The process is remarkably simple and low-labor: cut plants to the desired
-height using hand pruners, a machete, a scythe, or a weed whacker, and leave
-the cut material where it falls. Over time, soil organisms break down the
-mulch into humus, building soil organic matter without the need to transport
-material to and from a compost pile. This mimics natural forest floor
-processes where leaf litter accumulates and decomposes in place, creating the
-rich, dark soil found in undisturbed forest ecosystems.
-Chop and drop is most effective when used with fast-growing, nitrogen-fixing,
-or nutrient-accumulating plants that can be repeatedly harvested throughout
-the growing season. Species like comfrey, pigeon pea, moringa, leucaena, and
-dynamic accumulators are excellent chop and drop candidates because they
-produce large volumes of biomass quickly and their deep root systems mine
-minerals from subsoil layers. The technique is ideal for established food
-forests, orchards, and perennial systems where the mulch layer can build up
-over time without disturbing plant roots.
-
-## Cover Crops
 [[cover-crop-guide-detailed]]
 Cover crops are plants grown primarily to benefit the soil rather than for
 harvest. They protect soil from erosion, suppress weeds, fix atmospheric
@@ -122,8 +97,6 @@ ecological footprint of fertility management.
 
 ## See Also
 
-- [[panicum-virgatum]]
 - [[comparison-green-manure-vs-cover-crops]]
-- [[comparison-mulch-vs-cover-crops]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-chop-and-drop-mulching-vs-mulching-guide]]

@@ -18,7 +18,7 @@ type: concept
 
 Fungal endophytes of grasses produce a range of alkaloid secondary metabolites
 that deter herbivores, reduce insect feeding, and suppress pathogen attack. In
-[[barn-design]]'s treatment of [[fungal-ecology]], these endophyte-herbivore
+[[fungal-ecology]], these endophyte-herbivore
 interactions illustrate how fungi can exert effects upward through entire
 communities, from individual plants to grazing animal populations and ecosystem
 structure.
@@ -115,12 +115,6 @@ between herbivory defense and pathogenicity. Clay (1990) defined fitness
 relationships ranging from purely pathogenic (endophyte provides no defense)
 through conditionally mutualistic to unconditionally mutualistic
 relationships. This continuum mirrors broader questions about the nature of
-fungal symbioses in [[fungal-functional-groups]].
-
-## See Also
-
-- [[endophytic-fungi-plant-defense-dighton]]
-- [[dighton-aboveground-herbivory-mycorrhizal-effects]]
+fungal symbioses in [[endophytic-fungi-plant-defense-dighton]]
 - [[clavicipitaceous-grass-endophytes]]
-- [[dighton-fungal-mediated-plant-competition]]
 - [[fungal-secondary-metabolites-environment]]

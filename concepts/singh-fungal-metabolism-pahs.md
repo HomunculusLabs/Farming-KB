@@ -3,7 +3,7 @@ title: Fungal Metabolism of Polycyclic Aromatic Hydrocarbons (Singh)
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, remediation, research]
+tags: [[mycology, remediation, research]
 sources:
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
@@ -119,29 +119,10 @@ Composting contaminated soil with organic amendments provides:
 - Thermophilic conditions enhancing degradation rates
 - Nutrient-rich environment supporting diverse microbial communities
 - White-rot fungi in compost degrade PAHs while contributing to organic matter stabilization
-- See [[staycare-fungal-agricultural-waste-conversion]] for composting fundamentals
-
-## Biotechnology and Bioengineering
-
-Emerging approaches for enhancing fungal PAH degradation:
-- **Genetic engineering**: Overexpression of ligninolytic enzyme genes
-- **Enzyme engineering**: Modified laccases and peroxidases with broader substrate ranges
-- **Immobilized enzyme reactors**: Packed-bed reactors with immobilized fungal enzymes for water treatment
-- **Fungal strain improvement**: Selection and adaptation of high-performance PAH-degrading strains
-- **Nanotechnology**: Enzyme-nanoparticle conjugates for enhanced stability and activity
-
-## Related Topics
-
-- [[fungal-pah-degradation-mechanisms]]
-- [[mycoremediation-of-pahs]]
+- See [[fungal-pah-degradation-mechanisms]]
 - [[fungal-ligninolytic-enzyme-systems-overview]]
-- [[singh-fungal-petroleum-hydrocarbon-metabolism]]
 - [[fungal-bioremediation]]
 
-- [[singh-fungal-degradation-pcbs-dioxins]]
-
 - [[singh-fungal-degradation-pesticides]]
-
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 
 - [[singh-mycorrhizal-rhizosphere-remediation]]

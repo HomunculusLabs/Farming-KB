@@ -80,13 +80,7 @@ providing them.
   cabbage family crops. Helps break up clay. Use up to 2 lbs
   per 100 sq ft.
 - **Manure**: Good organic matter source, but limit to 4 cubic
-  feet per year per 100 sq ft. The [[jeavons-grow-biointensive-method-overview]]
-  uses equal ratios of N, P, and K rather than the unbalanced
-  3:1:3 ratio typical of horse manure.
-
-## Compost as Primary Fertility Source
-
-Good [[jeavons-composting-methods]] is the most important
+  feet per year per 100 sq ft. The [[jeavons-composting-methods]] is the most important
 part of the garden. It aerates soil, breaks up clay, binds sand,
 improves drainage, neutralizes toxins, holds moisture, releases
 nutrients, and feeds microbiotic life. Use up to 1 inch of cured
@@ -125,5 +119,9 @@ irregular concentrations. The "twist dig" method—combining an
 up-and-down motion with a twisting spade motion—is easier on
 the back and equally effective.
 
-See also: [[jeavons-soil-fertility]], [[jeavons-soil-ph-testing-balancing]],
-[[jeavons-sustainable-soil-closing-loop]], [[jeavons-composting-methods]]
+See also: [[jeavons-soil-ph-testing-balancing]],
+[[jeavons-composting-methods]]
+
+## See Also
+
+- [[soil-preparation-organic-gardens]]

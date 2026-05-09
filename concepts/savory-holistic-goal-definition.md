@@ -11,14 +11,7 @@ type: concept
 
 # Holistic Goal Definition
 
-The holistic goal is the foundational element of [[savory-holistic-management-overview]].
-Without a clearly defined goal, all planning and management efforts lack direction. Allan
-Savory's framework requires that every goal be defined in three essential parts, all of
-which are interdependent and must be considered simultaneously.
-
-## The Three-Part Goal
-
-The [[savory-holistic-decision-making]] model requires the user to define a three-part
+The holistic goal is the foundational element of [[savory-holistic-decision-making]] model requires the user to define a three-part
 goal: a quality of life statement; a form of production; and a landscape description.
 Each part supports and is sustained by the others in a self-reinforcing cycle.
 
@@ -57,13 +50,8 @@ seek cultural goals that do not depend on profit.
 
 The landscape description portrays the future landscape needed to sustain the production
 indefinitely, which in turn sustains the quality of life. It describes how the four
-[[savory-ecosystem-foundation-blocks]] must function within it. In doing so, one dwells
-not on what exists today but on what must exist in the future.
-
-A ranch landscape goal might describe open grassland at a high successional level with
-scattered trees and shrubs, a mosaic of brush thickets and grassland along river bottoms,
-high successional complexity, a good [[savory-mineral-cycle-management]], sound
-[[savory-water-cycle-management]], and high [[savory-energy-flow-and-solar-capture]].
+[[savory-mineral-cycle-management]], sound
+[[savory-energy-flow-and-solar-capture]].
 
 ## Common Mistakes in Goal Formation
 
@@ -98,39 +86,13 @@ landscape or quality of life. Both have suffered drastically as a result, and of
 has wrecked production in the long run. The form of production must sustain that quality of
 life and be sustained by the landscape or it will fail.
 
-## Goals and [[savory-testing-and-management-guidelines]]
-
-Every action and tool must be tested against the three-part goal. The quality of life
-component is tested through the [[savory-society-and-culture-guideline]], which governs
+## Goals and [[savory-society-and-culture-guideline]], which governs
 holistic management in its broadest sense. Will an action really lead to the quality of
 life we seek, and what will it do to that of others? Production and landscape goals are
-tested against all the [[savory-testing-and-management-guidelines]] to ensure that actions
-advance the whole goal simultaneously rather than one part at the expense of others.
-
-## The Dynamic Nature of Goals
-
-Goals in holistic management are not static. As understanding deepens and circumstances
-change, goals should be revisited and refined. The quality of life component in particular
-may evolve as families grow, communities change, and individuals develop new aspirations.
-However, the landscape description tends to remain more stable because it is anchored in
-the physical requirements of the ecosystem processes.
-
-The key principle is that all three parts must always be aligned. If production goals
-change, the landscape description must be reviewed to ensure it can sustain the new form
-of production. If the landscape changes due to natural events or management actions, the
-production and quality of life implications must be reassessed.
-
-On ranches, massive unnecessary financial outlays on things like fencing and other
-developments often occur when a little patience and understanding could have produced
-greater profitability at the outset and generated the funds for development from the land
-base itself. This is a direct consequence of inadequate goal formation leading to actions
-that pass no holistic test.
-
-## Goals as the Foundation for [[savory-flexibility-in-management]]
+tested against all the [[savory-flexibility-in-management]]
 
 The three-part goal provides the compass for all management decisions. When emergencies
 arise, whether drought, flood, or market collapse, the goal remains the reference point
 for replanning. Without a clear goal, tactical flexibility becomes mere reaction rather
-than purposeful adaptation. Every tool applied, from [[savory-animal-impact-and-herd-effect]]
-to [[savory-fire-as-management-tool]], derives its justification from its ability to
+than purposeful adaptation. Every tool applied, from [[savory-fire-as-management-tool]], derives its justification from its ability to
 advance all three parts of the goal simultaneously.

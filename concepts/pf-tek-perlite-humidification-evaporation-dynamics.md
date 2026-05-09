@@ -118,10 +118,7 @@ This visual monitoring method, while imprecise, is sufficient for the PF TEK's p
 
 ## See Also
 
-- [[pf-tek-perlite-humidification-technique]]
 - [[pf-tek-mushroom-life-cycle-timeline]]
-- [[pf-tek-mycelium-senescence-spore-mass-inoculation]]
-- [[pf-tek-jar-incubation-and-fruiting-conditions]]
 - [[mushroom-evaporative-cooling]]
 - [[mushroom-flush-dynamics-variation-fruiting-cycles]]
-- [[pf-tek-non-germ-spore-syringe-technique]]
+- pf tek non germ spore syringe technique

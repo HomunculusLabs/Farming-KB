@@ -120,6 +120,4 @@ Crosses derived from NYC Diesel include **Sour NYC** (NYC Diesel × Sour Diesel 
 
 ## See Also
 
-- [[lilac-diesel]]
-
-[[sour-diesel]] · [[chemdawg]] · [[afghan-kush]] · [[super-silver-haze]] · [[jack-herer]] · [[trainwreck]] · [[amnesia-haze]] · [[tangie]] · [[cannabis-indoor-growing-guide]] · [[green-crack]]
+- [[sour-diesel]] · [[afghan-kush]] · [[jack-herer]] · [[amnesia-haze]] · [[cannabis-indoor-growing-basics]] · [[green-crack]]

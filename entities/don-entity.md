@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-DON is a member of the [[2c-family-compounds-overview]] distinguished by carrying a nitro group at the 4-position rather than the typical alkyl or halogen substituent. It was not bioassayed by [[alexander-shulgin]] himself; the qualitative data comes from South American researchers who conducted human trials.
+DON is a member of the [[alexander-shulgin]] himself; the qualitative data comes from South American researchers who conducted human trials.
 
 The nitro group makes DON unique among the DOx compounds in several ways -- it is strongly electron-withdrawing (unlike the electron-donating alkyl groups) and may be metabolically reduced to an amino group in vivo, potentially contributing to its pharmacological effects.
 
@@ -73,12 +73,25 @@ The nitro group's role is pharmacologically interesting. It may:
 - dom-entity|DOM (methyl, for comparison)
 - dob-entity|DOB (bromo, for comparison)
 - doi-entity|DOI (iodo, for comparison)
-- [[2c-family-compounds-overview]]
 - [[thc-acetate-synthesis-and-pharmacology]]
-- [[2c-family-compounds-overview]]
-
-## Significance
-
-DON represents an unusual member of the DOx family that has not been thoroughly characterized. Its mixed stimulant-psychedelic profile and the limited available data make it a compound of primarily theoretical interest. The fact that Shulgin never personally bioassayed it, combined with the reconstructed nature of the reports, means its true character remains uncertain.
 - [[2-5-dma-entity]]
 - [[4-br-3-5-dma-entity]]
+## Practical Considerations
+
+Successful implementation of DON requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

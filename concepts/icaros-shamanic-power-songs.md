@@ -1,6 +1,6 @@
 ---
 title: Icaros — Shamanic Power Songs
-source: Pablo Amaringo - Ayahuasca Visions
+source: [[ayahuasca-visions]]
 topics:
   - icaros
   - shamanic-songs
@@ -16,8 +16,7 @@ topics:
 
 ## Overview
 
-Icaros are the sacred power songs of Amazonian shamanism, central to the
-healing practice and cosmology documented in Pablo Amaringo's *Ayahuasca
+Icaros are the sacred power songs of Amazonian [[ayahuasca]]
 Visions*. These melodic incantations, received directly from plant spirits
 during dieta and ceremonial work, are the primary tool through which
 vegetalistas interact with the spirit world, direct healing energy, and
@@ -142,6 +141,5 @@ across generations of practitioners.
 
 ## See Also
 
-- [[vegetalismo-amazonian-plant-medicine]]
-- [[ayahuasca-preparation-brew]]
+- [[ayahuasca-plant-spirits]]
 - [[ayahuasca-plant-spirits]]

@@ -15,68 +15,7 @@ management in the JADAM system. Found on forest floors where leaves have
 decomposed over many years, leaf mold represents the perfect soil
 condition that JADAM strives to recreate in agricultural fields. It is
 the foundation of the entire JADAM approach to soil health, serving as
-both the source of indigenous microorganisms and the template for what
-healthy agricultural soil should look like.
-
-## The Three Tenets of Ideal Soil
-
-JADAM defines ideal agricultural soil through three conditions:
-
-1. **Microorganism composition identical to mountain leaf mold**: The
-   soil should contain the same diversity and balance of microorganisms
-   found in natural forest leaf mold. This includes bacteria, fungi,
-   actinomycetes, protozoa, and algae in a balanced ecological community.
-
-2. **Abundant organic matter**: The soil should have high levels of
-   decomposed and decomposing organic material, providing food for
-   microorganisms and improving soil structure, water retention, and
-   nutrient holding capacity.
-
-3. **Diverse minerals**: The soil should contain a wide spectrum of
-   minerals in balanced proportions, mirroring the mineral diversity
-   found in natural forest ecosystems.
-
-When these three conditions are met, crops grow vigorously with minimal
-pest and disease problems. The system becomes largely self-regulating.
-
-## Plant Nutrient Composition
-
-Understanding plant nutrient needs puts leaf mold's role in perspective.
-Plants obtain nutrients from two sources:
-
-**From water and carbon dioxide (96% of plant body):**
-- Carbon (C): 45%
-- Oxygen (O): 45%
-- Hydrogen (H): 6%
-
-**From soil (3.5% major elements + 0.5% trace elements):**
-- Nitrogen (N): 1.5%
-- Potassium (K): 1.0%
-- Calcium (Ca): 0.5%
-- Magnesium (Mg): 0.2%
-- Phosphorus (P): 0.2%
-- Sulfur (S): 0.1%
-- Silicon (Si): 0.1%
-- Plus trace elements: Fe, B, Mn, Na, Zn, Cu, Ni, Mo, Cl
-
-Leaf mold soil naturally provides all the soil-derived nutrients in
-balanced proportions. The organic matter in leaf mold feeds soil
-microorganisms, which in turn make minerals available to plant roots.
-
-## Collecting Leaf Mold
-
-Leaf mold is collected from the forest floor. Go to a nearby mountain
-or forest where the soil is soft underfoot. Remove the top layer of
-undecomposed leaves. Underneath, you will find soft, dark soil mixed
-with decomposing leaf debris. This material is teeming with millions of
-different indigenous microorganisms and their excreta.
-
-Collect the soft soil, avoiding conifer-dominated areas which tend to
-be acidic. It is better to mix leaf mold from two or three different
-locations for greater microbial diversity. Store in black plastic bags
-or gunnysacks in shade. Keep loosely closed; tight sealing is not
-necessary. Keep moist but drying is not a serious problem. You will use
-about 500 grams each time for making [[jadam-jms-pesticide]].
+both the source of [[jadam-jms-pesticide]].
 
 ## Making Leaf Mold When You Cannot Collect It
 
@@ -93,8 +32,7 @@ ultimate in self-sufficient farming. No purchased inputs are needed.
 
 ## Leaf Mold as Microbial Starter
 
-Leaf mold serves as the starter culture for [[jadam-jms-pesticide]]
-and for [[ultra-low-jadam-liquid-fertilizer-making]]. A handful of leaf
+Leaf mold serves as the starter culture for [[ultra-low-jadam-liquid-fertilizer-making]]. A handful of leaf
 mold added to any organic material and water initiates the decomposition
 process. The indigenous microorganisms in leaf mold are adapted to local
 conditions and are therefore more effective than commercial microbial
@@ -131,7 +69,24 @@ microbial and nutritional foundation for healthy crops.
 
 ## See Also
 
-- [[jadam-jms-pesticide]] - Culturing microbes from leaf mold
 - [[ultra-low-jadam-liquid-fertilizer-making]] - Leaf mold in JLF production
-- [[ultra-low-soil-compaction-and-plow-pan-solutions]] - Building soil structure
 - [[ultra-low-jadam-fertilizer-program]] - Comprehensive soil management
+## Practical Considerations
+
+Successful implementation of Leaf Mold as Ideal Soil Model requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

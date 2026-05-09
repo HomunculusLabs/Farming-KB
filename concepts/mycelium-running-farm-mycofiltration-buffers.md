@@ -1,7 +1,7 @@
 ---
 title: "Farm Mycofiltration Buffers"
 created: 2026-04-28
-tags: [mycology, mycofiltration, agriculture, water-quality]
+tags: [[mycology, mycofiltration, agriculture, water-quality]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -75,49 +75,14 @@ prevent infection from coliform or staph bacteria and protozoa. The
 mats can even trap disease-carrying insects, thwarting disease vectors
 and protecting public health.
 
-A strain of zhu ling ([[polyporus-umbellatus]]), a polypore mushroom,
-was found to be 100 percent effective in vitro in inhibiting the
-malarial parasite Plasmodium falciparum. Mycomulching with this
-species around a malaria-infected swamp could reduce the background
-population of malaria, since the fungus likely consumes the parasite
-and secretes antibiotics into the habitat.
-
-## Factors Affecting Mycofiltration Efficiency
-
-Several factors influence the efficiency of mycofiltration
-installations. These include slope of the land, flow rate of water
-through the filter, thickness of the mycelial mat, and the specific
-mushroom species selected for the target contaminants. The type of
-substrate used (wood chips, straw, cardboard) also affects
-performance. Covering the site with shade-providing plants can
-prevent mycofiltration beds from drying out. Inoculation rates
-should be calibrated to the specific waste profile of each site.
-
-## Key Principles
-
-- Source control: Mycofiltration membranes placed between
-  waste sources and waterways intercept contamination at
-  the point of generation
-- Species specificity: Different mushroom species target
-  different contaminants, from bacteria to heavy metals
-- Scalability: Systems range from small bunker spawn buffers
-  to large landscape-scale mycelial mats
-- Self-sustaining: Once established, mycelial networks grow
-  stronger over time as they process organic debris
-
-## Applications
-
-- Deploying bunker spawn buffers around manure ponds and
-  livestock feedlots to filter waste effluent
-- Installing mycofiltration mats between agricultural fields
-  and adjacent streams and watersheds
-- Using [[aspergillus-niger]] and other fungal species to remove
+A strain of zhu ling ([[aspergillus-niger]] and other fungal species to remove
   heavy metals from contaminated livestock waste streams
 - Designing multi-species mycofiltration mosaics that target
   both biological and chemical contaminants simultaneously
 
 ## See Also
 
-- [[mycelium-running-mycelium-soil-building]]
 - [[mycelium-running-multi-kingdom-bioremediation]]
 - mycelium-running mycorrhiza|mycorrhizal networks
+
+See also: [[mycofiltration-of-pathogens]]

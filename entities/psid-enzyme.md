@@ -11,12 +11,10 @@ sources: []
 # PsiD Enzyme
 
 The PsiD enzyme is a fungal enzyme that catalyzes a key step in the
-[[psilocybin-compound]] biosynthesis pathway. It functions as an L-tryptophan
-decarboxylase, converting the amino acid L-tryptophan into [[tryptamine]],
+[[tryptamine]],
 which serves as the foundational substrate for all downstream modifications
 in the biosynthetic pathway that ultimately produces psilocybin and
-[[psilocin]]. PsiD is encoded by the psiD gene as part of the
-characteristic [[psilocybin-biosynthesis-pathway]] gene cluster found in
+[[psilocybin-biosynthesis-pathway]] gene cluster found in
 psilocybin-producing mushrooms.
 
 ## Discovery and Identification
@@ -25,7 +23,7 @@ The PsiD enzyme was identified as part of the landmark discovery of the
 psilocybin biosynthesis gene cluster. In 2017, a research team led by Jan
 Fricke, Dirk Hoffmeister, and colleagues at the Hans Knoll Institute
 published the characterization of the complete psilocybin biosynthetic
-pathway in [[psilocybe-cubensis]] and [[psilocybe-cyanescens]]. Using a
+pathway in [[psilocybe-cyanescens]]. Using a
 combination of bioinformatics, heterologous expression, and enzyme assays,
 the researchers identified four core enzymes: PsiD, PsiK, PsiM, and PsiH.
 
@@ -71,29 +69,25 @@ psiD and the other genes in the cluster is developmentally regulated, with
 highest expression occurring during the fruiting body stage of mushroom
 growth.
 
-The gene cluster has been found in multiple [[psilocybe-genus-classification]] species and in
-some non-Psilocybe fungi that produce psilocybin, including Inocybe and
-Gymnopilus species. Horizontal transfer of the psilocybin gene cluster
-between fungal species has been proposed as a mechanism for the dispersal
-of psilocybin biosynthesis capability across the fungal kingdom.
-
-## Research Applications
-
-The discovery of PsiD and the complete psilocybin biosynthetic pathway has
-enabled significant advances:
-
-- **Heterologous production** — The psilocybin pathway genes, including psiD,
-  have been expressed in hosts such as E. coli and Saccharomyces cerevisiae
-  (baker's yeast) to produce psilocybin through microbial fermentation.
-- **Metabolic engineering** — PsiD has been used as a component in engineered
-  biosynthetic pathways for the production of novel tryptamine derivatives.
-- **Drug discovery** — Understanding the enzymatic mechanism of PsiD
-  contributes to the broader field of tryptamine alkaloid biosynthesis.
-
-## See Also
-
-- [[psilocybin-compound]]
-- [[psilocin]]
+The gene cluster has been found in multiple [[psilocybin]]
 - [[tryptamine]]
-- [[tryptophan-biosynthesis-from-chorismate]]
 - [[psilocybin-pharmacology-detail]]
+## Practical Considerations
+
+Successful implementation of PsiD Enzyme requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

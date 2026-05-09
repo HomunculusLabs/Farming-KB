@@ -3,7 +3,7 @@ title: Mushroom Immune Cell Activation Mechanisms
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: []
 ---
 
@@ -102,11 +102,7 @@ T-cell competence appears necessary for macrophage resistance selection, suggest
 
 ## See Also
 
-- [[mushroom-immunomodulation-mechanisms]]
 - [[medicinal-mushroom-immune-modulation]]
-- [[beta-glucan-receptor-binding]]
 - [[medicinal-mushrooms-biological-response-modifiers]]
-- [[immune-modulating-mushrooms-and-herbs]]
 - [[mushroom-cytokine-production-immune-activation]]
-- [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[medicinal-mushroom-cancer-chemoprevention]]

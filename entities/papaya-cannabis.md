@@ -121,14 +121,9 @@ Seeds available from several established seed banks including Nirvana Seeds (ori
 
 ## See Also
 
-- [[query-best-light-schedule-for-cannabis]]
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
-- [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
 - [[cannabis-hashish-guide]]
-- [[cannabis-menopause-research]]
-
 - [[myrcene]] — Dominant terpene associated with sedative effects
-- [[cannabis-blue-dream]] — Contrasting sativa-dominant hybrid for comparison
 - [[og-kush]] — Classic indica-dominant with different terpene profile
 - [[limonene]] — Terpene contributing citrus aroma notes
 - Caryophyllene — Terpene adding peppery, spicy character

@@ -100,8 +100,6 @@ For cultivators considering a transition to pelletized spawn, several practical 
 
 ## See Also
 
-- [[growing-gourmet-grain-spawn-generation]]
 - [[growing-gourmet-liquid-inoculation-fermentation]]
-- [[mushroom-cultivation-fundamentals]]
 - [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-spawn-rate-optimization]]

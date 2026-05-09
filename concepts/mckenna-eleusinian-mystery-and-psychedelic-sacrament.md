@@ -139,8 +139,6 @@ human potential and religious authenticity that modern culture has yet to fully 
 
 ## See Also
 
-- [[archaic-revival-philosophy]]
 - [[dominator-culture-and-partnership-society]]
-- [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]
 - [[lysergic-acid-amide-discovery-in-ololiuhqui]]

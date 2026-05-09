@@ -13,16 +13,16 @@ Before mechanical refrigeration, ice houses and spring houses were the
 primary methods of keeping food cold. Ice houses stored winter-harvested
 ice for year-round cooling, while spring houses used the naturally cool
 temperature of groundwater springs. Both remain viable options for the
-off-grid homestead seeking low-tech food [[homesteading-food-preservation|preservation]].
+off-grid homestead seeking low-tech food preservation.
 
 ## Ice Houses
 
-An comparison root cellar is an insulated structure designed to store ice harvested
+An ice house is an insulated structure designed to store ice harvested
 during winter for use throughout the warmer months. With proper construction,
 ice can be retained from January through September with only 50-75% loss.
 
 ### History
-Ice houses have been used since at least 1000 BCE in Persia. In cuthill [[mushroom-cultivation]]
+Ice houses have been used since at least 1000 BCE in Persia. In 19th-century
 America, the commercial ice industry harvested millions of tons from frozen
 lakes and rivers. The ice house was standard equipment on farms, estates, and
 military installations worldwide.
@@ -136,13 +136,48 @@ chill food stored in the structure.
 
 ### Using the Spring House
 
-**root cellaring energy:**
+**Food storage:**
 - Place perishable items (dairy, meat, eggs, vegetables) on shelves or
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage
 - Not cold enough for freezing — use in combination with ice from an
-  [[root-cellaring-guide|ice house]] or root [[earth-cellar-construction|cellar]] for complete
+  [[root-cellaring-guide|ice house]] or root cellar for complete
   preservation
 
 **Other uses:**
 - Cool storage for beverages
+- Milk cooling before processing
+- Fermentation temperature control
+- Emergency water supply
+
+### Maintenance
+- **Annual cleaning** — scrub stone walls and floor; clear debris from the
+  water channel
+- **Flow monitoring** — ensure spring flow remains adequate; drought can
+  reduce or stop flow
+- **Water testing** — test spring water annually for bacteria and minerals
+- **Structural inspection** — check walls, roof, and mortar for damage
+- **Pest proofing** — seal gaps and install screens on ventilation openings
+
+## Comparing Cooling Methods
+
+| Method | Temperature | Duration | Complexity | Cost |
+|---|---|---|---|---|
+| Ice house | 33-40F | Jan-Sep | High | $2,000-5,000 |
+| Spring house | 45-55F | Year-round | Moderate | $1,000-3,000 |
+| Root cellar | 32-40F | Oct-Apr | Moderate | $1,500-5,000 |
+| Combined system | 32-55F | Year-round | High | $3,000-10,000 |
+
+## Choosing Your Approach
+
+- **Cold winter climate** — ice house is most practical; abundant natural
+  ice available
+- **Reliable spring** — spring house provides year-round cooling with no
+  ice harvesting labor
+- **Best of both** — combine a root cellar (for crop storage) with a spring
+  house (for dairy and perishables) for a complete off-grid preservation
+  system
+- **No spring, mild winters** — focus on root cellar and [[solar-oven-cooking|solar  drying]] for food preservation
+
+For water sourcing to support these systems, see
+[[rainwater-harvesting-systems]] and [[well-drilling-and-maintenance]].

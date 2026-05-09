@@ -15,15 +15,7 @@ sources:
 
 ## Overview
 
-Carl Ruck's analysis of [Demeter's iconography and mythology revealed that the goddess's relationship with [ergot ([[claviceps-purpurea]]) was encoded throughout her symbolism — from her color (purple) to her epithets (Erysibe) to the sacred barley that was both her gift and her drug.
-
-## The Color Purple
-
-Demeter could "wear its distinctive color as her robe or on her feet or be named with its epithet, Erysibe." The purple-brown color of ergot sclerotia was associated with Demeter throughout her iconography. This connection extended beyond Eleusis: "The pregnant empresses of Byzantium lived in a porphyry-lined chamber so that their progeny would be born 'in the purple.' Was this 'purple' the color of Claviceps purpurea?"
-
-## The Epithet Erysibe
-
-The Greek word erysibe (ἐρύσιβη) refers to rust or fungal infection of grain. This epithet of Demeter directly connects her to the [[ergot-fungus]], positioning the hallucinogenic corruption of grain as an attribute of the grain goddess herself.
+Carl Ruck's analysis of [Demeter's iconography and mythology revealed that the goddess's relationship with [ergot ([[ergot-fungus]], positioning the hallucinogenic corruption of grain as an attribute of the grain goddess herself.
 
 ## Barley and Ergot as Siblings
 
@@ -73,7 +65,7 @@ This biological parallel was almost certainly not coincidental. The [ergot alkal
 
 The association between grain deities and fungal symbionts is not unique to Greek culture. The [worldwide distribution of hallucinogenic plants includes several grain-fungus associations that parallel the Demeter-ergot relationship:
 
-- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria]] and various ergotized grains. The soma ritual, like the Eleusinian Mysteries, involved the preparation of a sacred drink from plant material under strict ritual conditions.
+- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria-entity]] and various ergotized grains. The soma ritual, like the Eleusinian Mysteries, involved the preparation of a sacred drink from plant material under strict ritual conditions.
 
 - **Mesoamerican corn and ergot**: Corn (maize) in Mesoamerica was subject to ergot infection, and the [sacred morning glories ([[ololiuqui]]) used in Mesoamerican ritual contain the same ergoline alkaloids found in Claviceps purpurea. The pharmacological convergence between Greek and Mesoamerican grain-fungus traditions is one of the strongest arguments for the [comparative entheogenic hypothesis.
 
@@ -81,7 +73,7 @@ The association between grain deities and fungal symbionts is not unique to Gree
 
 ## Modern Scientific Perspectives
 
-Modern [ergot chemistry has confirmed the essential elements of the Demeter-ergot hypothesis. [[albert-hofmann]]'s laboratory work in the 1930s-1970s established that ergot of barley contains water-soluble alkaloids — particularly ergonovine and lysergic acid amide — that are psychoactive at appropriate doses. His [self-experiment with ergonovine in 1976 demonstrated that these compounds can produce altered states of consciousness when consumed orally.
+Modern [ergot chemistry has confirmed the essential elements of the Demeter-ergot hypothesis. gordon-wasson's laboratory work in the 1930s-1970s established that ergot of barley contains water-soluble alkaloids — particularly ergonovine and lysergic acid amide — that are psychoactive at appropriate doses. His [self-experiment with ergonovine in 1976 demonstrated that these compounds can produce altered states of consciousness when consumed orally.
 
 The [Hofmann ergot alkaloid research program provided the chemical foundation for the [Wasson-Hofmann-Ruck theory, confirming that the psychoactive component of the Eleusinian kykeon was chemically plausible. Modern [pharmacological research has further confirmed that ergoline alkaloids act primarily as serotonin receptor agonists, producing the characteristic visionary effects that ancient initiates described as encounters with the divine.
 
@@ -89,7 +81,6 @@ The [ergot hypothesis for the kykeon remains the most chemically specific and ph
 
 ## See Also
 
-- [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
 

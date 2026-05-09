@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Soft fruits grow on bushes, stakes, or briars and are ideal subjects for the small garden. The fruits soon deteriorate after picking, so those you grow in your garden will be of superior quality to anything bought [[allegro-death-and-resurrection-in-the-mushroom-cult]] supermarket. Most soft fruits are relatively easy to grow and suit a wide range of [[williams-pdc-climates-and-biomes]] conditions. All soft fruits are very attractive to birds, so it is essential to protect ripening fruit with netting.
+Soft fruits grow on bushes, stakes, or briars and are ideal subjects for the small garden. The fruits soon deteriorate after picking, so those you grow in your garden will be of superior quality to anything bought [[williams-pdc-climates-and-biomes]] conditions. All soft fruits are very attractive to birds, so it is essential to protect ripening fruit with netting.
 
 ## Soft Fruit Quick Reference
 
@@ -30,16 +30,11 @@ Soft fruits grow on bushes, stakes, or briars and are ideal subjects for the sma
 
 ## Strawberries (Fragaria x ananassa)
 
-One [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] simplest and most rewarding soft fruits. Strawberries are the only [[permaculture-plants-herbaceous-perennials]] [[allegro-plants-and-drugs-in-the-ancient-world]] soft fruit group. They take up little room and are attractive enough to grow in borders if space is limited.
-
-### Varieties
-Varieties change frequently with research. In temperate climates: Pegasus, Albion, Aromel, and Totem. In warmer areas: Red Gauntlet (self-pollinating).
-
-### [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] Site
+One [[permaculture-plants-herbaceous-perennials]] [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] Site
 Well-drained but moisture-retentive soil. For increased drainage, raise the growing area to form 4ft (1.2m) wide beds. Sunny site, avoiding areas with little air flow (increases mildew risk).
 
 ### Planting
-Buy cold-stored runners from a reputable grower who can guarantee freedom from disease. Dress the soil with two handfuls of [[solomon-complete-organic-fertilizer-guide]] per square yard/meter. Plant 2ft (60cm) apart with 18in (45cm) between rows. Set the crown (where leaves join roots) at soil level -- too high [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] plant will not establish; too low and the crown will rot.
+Buy cold-stored runners from a reputable grower who can guarantee freedom from disease. Dress the soil with two handfuls of [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] plant will not establish; too low and the crown will rot.
 
 Strawberries can also be planted through black plastic on raised beds. Cover a 4ft bed with black plastic, cut slits 18in (45cm) apart, and plant through the slits. This suppresses weeds and prevents soil-borne disease.
 

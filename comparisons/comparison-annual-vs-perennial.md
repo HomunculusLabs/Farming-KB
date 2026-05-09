@@ -4,14 +4,16 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [gardening, permaculture]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: "Annual vs Perennial"
 tags: [comparison, plants, farming, food-forests, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Annual vs Perennial
@@ -27,39 +29,9 @@ have essential roles in a complete food production strategy.
 
 ## Annual Crops
 
-[[self-seeding-annuals-permaculture-two]]
-
-Annual crops, including most vegetables, grains, and legumes, complete
-germination, flowering, and seed production within a single season. They
-are the backbone of global agriculture and traditional vegetable gardens,
-offering high yields per unit area and rapid turnaround from planting to
-harvest. The speed of annual production allows farmers to respond to market
-conditions, try new varieties, and adapt crop plans from year to year based
-on experience and changing conditions.
-
-Mollison's [[permaculture]] Two outlines strategies for making annuals more
-self-sustaining within [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]. By allowing four to six
-percent of crops to go to seed each season, farmers can develop locally
-adapted varieties that volunteer the following year without replanting. The
-system integrates continuous mulch at roughly 900 kilograms per 1,000
-square meters annually, using low seeding rates with clover at 1 kilogram
-per hectare and grains at 7 to 16 kilograms per hectare. A five-plot grain-
-legume rotation provides soil fertility while producing staple calories.
-These self-seeding strategies parallel Fukuoka's do-nothing philosophy and
-dramatically reduce annual planting labor.
-
-Despite these innovations, annuals have inherent limitations. They demand
-repeated soil disturbance for planting and harvesting, which disrupts
-[[teaming-with-microbes-tilling-damage-to-fungal-networks]] and soil structure. Soil is left exposed between crops
-without careful management, leading to erosion and [[mollison-designers-humus-building-and-soil-organic-matter]] loss.
-Annuals require ongoing inputs of compost, fertility, and mulch to maintain
-productivity, and their shallow root systems cannot access the deep soil
-layers that perennials reach. The need for seasonal replanting creates an
-annual labor peak that can be difficult to manage on larger scales.
-
-## Perennial Crops
-
-[[perennial-vegetables]]
+[[permaculture]] Two outlines strategies for making annuals more
+self-sustaining within [[teaming-with-microbes-tilling-damage-to-fungal-networks]] and soil structure. Soil is left exposed between crops
+without careful management, leading to erosion and [[perennial-vegetables]]
 
 Perennial vegetables such as asparagus, rhubarb, globe artichokes, sorrel,
 walking onions, and sea kale produce reliable harvests for fifteen to
@@ -103,20 +75,7 @@ aggressively invasive if not managed.
 | Crop Flexibility | High (change each season) | Low (permanent placement) |
 | Root Depth | Shallow to medium | Deep and extensive |
 | Carbon Sequestration | Low | High |
-| [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] | Crop rotation possible | Permanent habitat, scouting needed |
-| Self-Propagation | Self-seeding possible | Division, cuttings |
-| Dietary Diversity | Very high (hundreds of species) | Moderate (dozens of species) |
-| Market Availability | Standard supply chains | Often specialty or direct market |
-| Ecosystem Services | Limited | Erosion control, habitat, carbon |
-
-## When to Choose Annuals
-
-Annuals are the right choice when rapid food production is the priority,
-such as in the first years of establishing a new garden or homestead. They
-provide dietary variety and high-calorie staple crops like grains and
-legumes that perennials cannot match. Self-seeding annual strategies from
-permaculture bridge the gap by reducing replanting labor while maintaining
-the flexibility [[permaculture-design-principles]] varieties. Market gardeners who need predictable,
+| [[permaculture-farm-design-principles]] varieties. Market gardeners who need predictable,
 uniform harvests for restaurant or CSA sales also rely heavily on annual
 crops for their reliability and variety.
 

@@ -15,39 +15,7 @@ JADAM farming is built on the principle that all necessary agricultural
 inputs exist freely in nature. By sourcing materials from the local
 environment rather than purchasing them from agricultural suppliers,
 farmers eliminate the cost of agricultural inputs entirely. This is the
-practical realization of [[jadam-ultra-low-cost-agriculture]].
-
-## The "Free Input" Paradigm
-
-The conventional farming model requires purchasing seeds, fertilizers,
-pesticides, and soil amendments from suppliers. Organic farming, while
-using natural inputs, often simply replaces chemical suppliers with
-organic suppliers at similar or higher prices. JADAM breaks this chain
-by demonstrating that virtually everything needed for crop production
-can be obtained locally without monetary exchange.
-
-This approach eliminates the input cost component that typically consumes
-30 to 50 percent of a farm's revenue. Combined with [[jadam-seed-treatment-and-storage]] and [[jadam-animal-byproduct-liquid-fertilizer]],
-the JADAM farmer achieves true agricultural independence.
-
-## Foraging Strategy
-
-Cho encourages farmers to develop what he calls the "JADAM farmer's eye,"
-the ability to identify and utilize plants growing naturally in their
-local environment. Rather than cultivating specific herbs on the farm,
-farmers can often find equivalent or superior materials growing wild.
-
-The guiding principle is observation: if a plant is healthy and
-unbothered by pests or diseases in its natural habitat, it likely
-contains compounds that could protect crops. If a plant grows
-prolifically, it is well-adapted and requires minimal cultivation.
-
-## Primary Collection Categories
-
-### Pesticide Herbs (JHS Materials)
-
-The most critical local materials are pesticidal plants for
-[[jadam-herb-solution-jhs]]:
+practical realization of [[jadam-seed-treatment-and-storage]] and [[jadam-herb-solution-jhs]]:
 
 - **Jerusalem artichoke** (Helianthus tuberosus): Often found growing
   wild; entire plant is used. The most practical JHS herb, easy to grow
@@ -74,12 +42,7 @@ The most critical local materials are pesticidal plants for
 
 ### Soil and Mineral Materials
 
-- **Leaf mold** ([[jadam-leaf-mold-as-ideal-soil]]): Collected from forest floors where deciduous trees have
-  decomposed naturally for decades. This is the most complete soil
-  improvement material available.
-
-- **Red clay**: Available from construction sites, riverbanks, or
-  natural deposits. Used in [[jadam-sulfur-germicide-js]]
+- **Leaf mold** ([[jadam-sulfur-germicide-js]]
   production.
 
 - **Phyllite powder**: Metamorphic rock powder used as a carrier in JS
@@ -94,16 +57,9 @@ The most critical local materials are pesticidal plants for
 
 ### Kitchen and Farm Waste Materials
 
-- **Food waste**: Fermented and used for [[jadam-food-waste-liquid-fertilizer]], a complete fertilizer requiring no purchase
-  of nutrients.
-
-- **Eggshells**: Source of [[cho-water-soluble-calcium-and-potassium]]. Collected from household kitchens, dried, and processed.
+- **Food waste**: Fermented and used for [[cho-water-soluble-calcium-and-potassium]]. Collected from household kitchens, dried, and processed.
 
 - **Bone meal**: Animal bones provide calcium phosphate for
-  [[jadam-calcium-phosphate-fertilizer]]
-  production.
-
-- **Rice bran and oil cake**: Used as nitrogen sources for
   [[jadam-animal-byproduct-liquid-fertilizer]].
 
 ## Seasonal Collection Calendar
@@ -113,35 +69,28 @@ availability:
 
 - **Spring**: Begin collecting fresh herb leaves (foxglove, tobacco,
   garden balsam). Collect wild grasses before flowering for
-  [[jadam-coexisting-with-wild-grass]]. Sprout Korean
-  pasque flower seeds in trays.
-
-- **Summer**: Peak herb collection season. Maximum leaf biomass
-  available. Produce JHS from fresh herbs. Maintain compost piles.
-
-- **Autumn**: Harvest Jerusalem artichoke tops before frost. Collect
-  gingko fallen leaves. Harvest monkshood and oleander roots. Collect
-  red spider lily roots. Dry and store herbs for winter use.
-
-- **Winter**: Process stored materials. Prepare JWA, JS, and JHS for
-  the following season. Collect pasque flower roots while plants are
-  dormant.
-
-## Environmental and Regional Adaptation
-
-JADAM encourages farmers to experiment with locally available plants not
-on the standard list. A plant that thrives without pest damage likely
-contains protective compounds useful for JHS. This principle makes JADAM
-a truly global system rather than one tied to Korean flora.
-
-## See Also
-
-- jadam local material collection and use
-- jadam local material collection and use
-- [[jadam-jhs-herb-selection-guide]]
-- [[jadam-seed-treatment-and-storage]]
+  [[jadam-jhs-herb-selection-guide]]
 - [[jadam-liquid-fertilizer]]
 - [[jadam-cover-crop-method]]
 - Wild Plant Identification For Farming
 - Foraging For Farming Inputs
 - Jadam Agricultural Independence
+## Practical Considerations
+
+Successful implementation of JADAM Local Material Collection and Use requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

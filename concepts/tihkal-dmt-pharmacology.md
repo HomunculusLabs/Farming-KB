@@ -105,11 +105,7 @@ Shulgin notes that DMT's extraordinary natural distribution has led to the obser
 
 ## See Also
 
-- [[5-methoxy-dmt-pharmacology]]
-
 - [[tihkal-introduction-and-methodology]]
-- [[pihkal-introduction-and-methodology]]
 - [[tryptamine-family-overview]]
-- [[tryptamine-consciousness-theory]]
 - [[psychedelic-safety-and-harm-reduction]]
 - [[mao-inhibitors-and-psychedelics]]

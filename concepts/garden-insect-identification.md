@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Insect Identification
 
-Common garden insect pests as described in [[steve-solomon]]'s *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
+Common garden insect pests as described in Steve Solomon's *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
 
 ## Aphids (Aphididae family)
 
@@ -95,7 +95,7 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 - **Damage**: Adults and larvae suck plant juice and inject a toxin causing wilt and blackened runners.
 - **Control**: Handpicking. Grow a mixed garden offering cover for beneficials, including buckwheat to harbor tachinid fly parasites. End-of-season sanitation — remove all boards, dead plant residue. Thoroughly compost all squash vegetation.
 
-## [[organic-vegetable-growing-and-market-gardening|wireworms]]
+## [[wireworm-control|wireworms]]
 
 - **Control**: Solomon mentions wireworms among the numerous soil-dwelling pests controlled by parasitic nematodes, along with onion maggots, carrot weevils, cutworms, and cucumber beetle larvae. See [[leatherjacket-pest-control]].
 

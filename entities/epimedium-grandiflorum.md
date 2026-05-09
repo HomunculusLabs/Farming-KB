@@ -102,21 +102,12 @@ Biotechnological approaches including hairy root culture and endophytic fungus e
 
 ## See Also
 
-- [[withania-somnifera]]
 - [[rhodiola-rosea]]
-- [[schisandra-chinensis]]
 - [[panax-ginseng]]
-- [[astragalus-membranaceus]]
 - [[glycyrrhiza-glabra]]
-- [[borago-officinalis]]
 - [[leonurus-cardiaca-entity]]
-- [[scutellaria-lateriflora]]
 - [[humulus-lupulus]]
-- [[pulsatilla-vulgaris]]
 - [[passiflora-incarnata]]
-- [[valeriana-officinalis]]
 - [[tribulus-terrestris]]
-- [[maca]]
 - [[turnera-diffusa]]
-- [[ginkgo-biloba]]
 - [[panax-notoginseng]]

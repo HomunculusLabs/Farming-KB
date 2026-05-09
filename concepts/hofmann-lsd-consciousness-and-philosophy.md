@@ -142,8 +142,6 @@ At Eleusis, the mystical vision could be arranged at the prescribed place and
 appointed time for all who were initiated. This could be accounted for by the
 use of a hallucinogenic drug. The characteristic property of hallucinogens, to
 ## See Also
-- [[hofmann-lsd-mazatec-and-psilocybin]]
 - [[hofmann-lsd-pharmacology-and-effects]]
-- [[hofmann-lsd-black-market-and-dangers]]
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[weil-intoxication-and-consciousness-theory]]

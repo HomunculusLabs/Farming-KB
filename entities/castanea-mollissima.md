@@ -110,41 +110,8 @@ parasitoid) have been effective against gall wasp.
 
 ## Permaculture and Agroforestry Applications
 
-Chinese chestnut is a keystone species in temperate food forest design:
-
-- **Canopy layer:** Functions as an upper canopy tree in multi-strata
-  food forests, providing shade-tolerant conditions for understory crops.
-- **Nitrogen cycle:** While not a nitrogen fixer itself, its extensive
-  ectomycorrhizal associations (with *Pisolithus* spp., *Scleroderma*
-  spp.) enhance soil nitrogen cycling and phosphorus availability for
-  neighboring plants.
-- **Mulch production:** Annual leaf fall provides significant organic
-  matter. Leaves break down moderately quickly, improving soil structure.
-- **Silvopasture:** Compatible with grazing livestock beneath the canopy.
-  Fallen chestnuts are eagerly consumed by pigs, poultry, and deer.
-- **Windbreak:** Dense crown provides wind shelter for crops and structures.
-- **Biodiversity:** Flowers support pollinators; nuts feed wildlife.
-
-**Companion plants:** Good associations include comfrey, elderberry,
-hazelnut, and nitrogen-fixing understory shrubs like seaberry. Avoids
-walnut (juglone sensitivity).
-
-## Blight Resistance
-
-Chinese chestnut exhibits strong resistance to chestnut blight
-(*Cryphonectria parasitica*), which functionally extirpated the American
-chestnut (*C. dentata*) after 1904.
-
-Resistance is mediated by hypersensitive response — infected bark cells
-die rapidly, forming contained cankers. Chinese chestnut has been used
-in breeding programs (American Chestnut Foundation backcross project) to
-introgress blight resistance into American chestnut, producing hybrids
-with 15/16 American genome and Chinese blight resistance.
-
-## See Also
-
-- [[castanea-sativa]]
-- [[quercus-robur]]
+Chinese chestnut is a keystone species in temperate [[ectomycorrhizal-associations]] (with *Pisolithus* spp., *Scleroderma*
+  spp.) enhance soil nitrogen cycling and [[castanea-sativa]]
 - [[juglans-nigra]]
 - castanea entity
 - [[comfrey-symphytum-officinale]]

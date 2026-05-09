@@ -32,9 +32,7 @@ has boiled down and cooled, it is ready to drink.
 Chemical analysis has confirmed that the natem tea contains the
 powerful hallucinogenic beta-carboline alkaloids harmaline, harmine,
 and d-tetrahydroharmine, and quite possibly N,N-dimethyltryptamine
-([[dmt-and-ayahuasca-history]]). These structurally related indole derivatives place natem
-in the same pharmacological family as [[psilocybin-mushroom-biology-chemistry]], [[mescaline-compound-profile]],
-and [[hofmann-lsd-mazatec-and-psilocybin]]. The beta-carboline alkaloids function as monoamine
+([[psilocybin-mushroom-biology-chemistry]], [[hofmann-lsd-mazatec-and-psilocybin]]. The beta-carboline alkaloids function as monoamine
 oxidase inhibitors (MAOIs), which would permit orally ingested DMT
 to cross the blood-brain barrier and exert its visionary effects.
 This pharmacological synergy between the harmala alkaloids and DMT

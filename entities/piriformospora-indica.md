@@ -27,12 +27,7 @@ sources: []
 
 # Piriformospora indica
 
-**Piriformospora indica** (reclassified as ***[[serendipita-indica]]*)** is a
-root-colonizing basidiomycete endophytic fungus in the order Sebacinales. Discovered
-in 1998 from the Thar Desert of Rajasthan, India, it is notable as the first member
-of the Sebacinales culturable axenically on synthetic media. Most Sebacinales were
-previously known only from environmental DNA, making *P. indica* a landmark model
-organism for studying root endophyte-plant symbiosis and a tractable alternative [[arbuscular-mycorrhizal-fungi]] ungi (AMF).
+**Piriformospora indica** (reclassified as ***[[arbuscular-mycorrhizal-fungi]] ungi (AMF).
 
 ## Taxonomy and Reclassification
 
@@ -48,21 +43,7 @@ widely used despite reclassification.
 
 *S. indica* produces distinctive **pear-shaped chlamydospores** (12–25 x 10–20 um)
 as primary propagules for root colonization. In culture, the fungus forms dark,
-melanized [[mycelium]] with septate hyphae. During root colonization, hyphae grow
-intercellularly through the cortex and form intracellular vesicles and
-chlamydospores analogous to — but structurally distinct from — AMF arbuscules.
-
-The life cycle proceeds through chlamydospore germination (triggered by root
-exudates), hyphal growth toward host roots, root penetration via root hairs or
-epidermis, intercellular and intracellular colonization of cortical tissue, and
-formation of new chlamydospores. No sexual stage has been observed; reproduction
-is entirely asexual. The fungus grows readily on complex (PDA, MMN) and minimal
-defined media at 25–30C (pH 5.0–7.5).
-
-## Symbiosis with Plants
-
-*S. indica* colonizes over 150 plant species spanning monocots and dicots, including
-rice, wheat, barley, maize, tomato, tobacco, and *[[arabidopsis-thaliana]]*. The
+melanized [[arabidopsis-thaliana]]*. The
 colonization process involves hyphal attachment, epidermal penetration, intercellular
 cortical spread, and formation of intracellular vesicles within a periarbuscular
 membrane.

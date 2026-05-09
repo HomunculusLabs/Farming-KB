@@ -108,13 +108,8 @@ The seeds are edible and nutritionally similar to other amaranth grains, but *A.
 
 ## See Also
 
-- [[amaranthus-caudatus]]
 - [[amaranthus-hypochondriacus]]
-- [[spinacia-oleracea]]
 - [[beta-vulgaris]]
-- [[chenopodium-quinoa]]
 - [[phaseolus-vulgaris]]
-- [[cicer-arietinum]]
 - [[moringa-oleifera]]
-- [[coriandrum-sativum]]
 - [[sorghum-bicolor]]

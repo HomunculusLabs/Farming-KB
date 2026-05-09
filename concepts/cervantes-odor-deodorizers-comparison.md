@@ -139,8 +139,6 @@ security.
 
 ## See Also
 
-- [[cervantes-odor-control]]
 - [[cervantes-ozone-generators-negative-ion-odor]]
-- [[cervantes-ventilation-fan-carbon-filter-setup]]
 - [[cervantes-air-quality-ventilation]]
 - [[cervantes-humidity-control-dehumidification]]

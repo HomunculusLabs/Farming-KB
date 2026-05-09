@@ -57,8 +57,7 @@ Solomon's integrated pest management strategy:
 
 1. **Start with soil**: Build soil fertility and biological activity as the foundation
 2. **Choose adapted varieties**: Select varieties proven to perform in your climate. This is the single most important pest prevention step
-3. **Grow healthy seedlings**: Avoid transplant shock; use [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
-4. **Provide adequate nutrition**: Use [[solomon-complete-organic-fertilizer-guide]] or high-quality compost
+3. **Grow healthy seedlings**: Avoid transplant shock; use [[solomon-complete-organic-fertilizer-guide]] or high-quality compost
 5. **Space appropriately**: Crowded plants compete for resources and are more vulnerable
 6. **Water properly**: Stressed plants attract pests
 7. **Accept some damage**: A healthy garden will still have some insects. The goal is management, not elimination
@@ -101,6 +100,5 @@ Solomon distinguishes between:
 
 For the home food gardener, the threshold for action is higher than for a commercial farmer, because the gardener can tolerate some cosmetic damage and still harvest a good crop.
 
-See also: [[garden-insect-identification]], [[insectary-plants-guide]], [[soil-food-web-structure]], [[garden-disease-identification]]
-- [[solomon-insects-and-diseases-integrated-approach]]
+See also: [[insectary-plants-guide]], [[garden-disease-identification]]
 - [[solomon-gardening-when-it-counts-index]]

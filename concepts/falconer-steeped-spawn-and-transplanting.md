@@ -2,7 +2,7 @@
 title: Falconer Steeped Spawn and Transplanting Techniques
 created: 2026-04-28
 tags:
-  [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, spawning]
+  [[mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, spawning]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -14,27 +14,7 @@ type: concept
 
 # Steeped Spawn and Transplanting Working Spawn
 
-The [[falconer-spawning-the-beds]] involves several
-techniques and variations that Falconer tested extensively.
-His experiments with steeped spawn, flake spawn derived from
-brick, and transplanting working spawn yielded practical
-conclusions that remain instructive.
-
-## Steeped Spawn
-
-As brick spawn is so hard and dry, Falconer tried the effect
-of steeping it in tepid water before planting. Some pieces
-were merely dipped in the water, and others allowed to soak
-in the pails one-half, one, five, and ten hours. The effect
-was prejudicial in every instance and ruinous in the case of
-the long-soaked pieces.
-
-This is an important negative result. The practice of
-steeping brick spawn, sometimes recommended by other
-writers, was found by Falconer to damage the mycelium
-rather than promote its growth. The hard, dry condition of
-brick spawn is in fact essential to preserving the vitality of
-the [[mycelium-network-intelligence]] until it is planted.
+The [[mycelium-network-intelligence]] until it is planted.
 
 ## Flake Spawn from Brick
 
@@ -136,10 +116,7 @@ every case.
 
 ## See Also
 
-- [[falconer-brick-spawn-manufacturing-and-quality]]
-
 - [[spawn-run-and-colonization]]
 
-- [[falconer-mushroom-spawn-types-and-merits]]
 - [[cultivator-grain-spawn-preparation-and-inoculation]]
 - [[grain-spawn-types-and-preparation]]

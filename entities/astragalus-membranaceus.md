@@ -139,11 +139,7 @@ Astragalus activates **telomerase**, the enzyme that maintains telomere length �
 ## Cultivation and Permaculture Applications
 ## See Also
 
-- [[ashwagandha]]
 - [[companion-planting]]
-- [[eleutherococcus-senticosus]]
-
 - [[panax-ginseng]] — Another premier adaptogen and Qi tonic
-- [[withania-somnifera]] — Ashwagandha, complementary adaptogen
 - [[glycyrrhiza-uralensis]] — Licorice root, common formula partner
 - [[eleutherococcus-senticosus]] — Siberian ginseng for endurance

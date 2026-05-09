@@ -19,19 +19,7 @@ Peppers (capsicum or chilli) and eggplant (aubergine) are close relatives
 of the tomato. Many varieties can be perennial where there is no frost. All
 are aggressive growers in suitable weather, responding to fertilization by
 expanding to the limit of their moisture supply and rooting room. Solomon
-suggests that once gardeners learn to grow [[solomon-growing-perennials-asparagus-rhubarb]],
-peppers and eggplants will seem easier.
-
-## Starting from Seed
-
-Start solanum seeds (tomato, pepper, eggplant) about six weeks before
-you will want to transplant. Sow tomatoes first. When these are up and
-growing, start pepper seeds, and a few days later start eggplant seeds.
-When these are up and growing in another week, the whole batch can go
-outdoors.
-
-For detailed seed-starting methods, see
-[[solomon-seed-starting-transplanting]].
+suggests that once gardeners learn to grow [[solomon-seed-starting-transplanting]].
 
 ## Transplanting
 
@@ -39,31 +27,6 @@ Strong, vigorous tomato, pepper, and eggplant seedlings need an entire
 week of gradual hardening off before going into the garden. This process
 acclimates them to outdoor conditions of sun, wind, and temperature
 fluctuation. See
-[[solomon-transplanting-and-hardening-off]].
-
-## Growing Peppers
-
-### Climate Requirements
-
-Peppers are heat-loving plants. They need more warmth than tomatoes and
-significantly more than eggplants. In maritime climates where summers are
-not reliably hot, growing hybrid peppers is highly advantageous and may be
-essential. The best hybrid peppers in Cascadian trials include varieties
-bred for earliness and productivity in cool conditions.
-
-### Black Plastic Mulch
-
-Peppers benefit enormously from black plastic mulch. Lay the plastic over
-their entire wide raised bed before transplanting. The plastic warms the
-soil, suppresses weeds, and conserves moisture. Cut holes in the plastic
-at the spacing you intend and set transplants directly through them.
-
-### Isolation for Seed Saving
-
-Hot peppers and sweet peppers will cross-pollinate, so you must isolate
-hot peppers from sweet ones if you intend to save seed. Allow fruit to get
-fully dead-ripe before extracting seed. The seed-saving procedure for
-peppers is identical to that for tomatoes. See
 [[solomon-seed-saving-guide]].
 
 ### Days to Maturity
@@ -110,13 +73,6 @@ and eggplant varieties remain widely available and of good quality.
 ## Fertilizer Needs
 
 Peppers and eggplants are medium-demand crops. Use
-[[solomon-complete-organic-fertilizer-guide]]
-at the medium rate recommended in Solomon's fertility system. Side-dress
-with compost or additional COF when plants begin setting fruit.
-
-The solanum family benefits from adequate calcium and phosphorus. Blossom
-end rot in peppers and eggplant (similar to the tomato condition) can be
-prevented by ensuring sufficient calcium in the soil. See
 [[solomon-lime-calcium-ph-management]].
 
 ## Pests and Diseases
@@ -126,13 +82,6 @@ prevented by ensuring sufficient calcium in the soil. See
 Flea beetles can be serious pests of eggplant seedlings. The damage is
 characteristic: numerous small holes in the leaves. Floating row covers
 can exclude flea beetles during the vulnerable seedling stage. See
-[[solomon-row-covers-and-season-extension]].
-
-### Aphids and Viruses
-
-Aphids can transmit viruses to peppers. In some years, peppers get virus
-diseases that cause leaf curling and stunting. The best defense is healthy
-soil and adequate plant spacing to reduce stress. See
 [[solomon-insects-and-diseases-integrated-approach]].
 
 ### General Strategy
@@ -144,6 +93,5 @@ room are remarkably resistant to both insects and diseases.
 
 ## Related Topics
 
-- [[solomon-growing-tomatoes]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-transplanting-and-hardening-off]]

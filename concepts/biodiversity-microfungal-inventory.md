@@ -66,81 +66,25 @@ on higher plants, characterize microfungi:
 characterize fungi in disturbed but productive environments.
 Species are ephemeral but growth can be rapid. Many Mucorales
 are ruderals, abundant in soil. A modified ruderal strategy is
-shown by [[coprophilous-fungi-succession]].
-
-**Competitive**: High competitive ability depends on characteristics
-that maximize growth in productive, relatively undisturbed
-conditions by active, antagonistic means. They are persistent,
-long-living, and capable of defending captured resources.
-
-**Stress-tolerant**: Endurance of environmental stress or resource
-depletion selects for communities adapted to particular types
-of stress. They are persistent as long as stress conditions
-prevail and are replaced if stress is alleviated.
-
-## Factors Influencing Diversity
-
-Temperature, water relations, seasonality, and physical factors
-strongly influence microfungal species composition. Plant
-diversity and distribution provide the substrate basis. Individual
-leaves in tropical litterfall can harbor up to 30 different
-species of hyphomycetes. In temperate regions, similar substrata
-such as cupules of Fagus and Quercus are colonized by comparable
-numbers of species.
-
-Microfungi overcome constraints on colonization, especially in
-extreme environments, by exploiting narrowly defined microhabitats.
-Fungal succession varies even between upper and lower internodes
-of grass stems. Primary colonizers of newly fallen leaves differ
-between upper and lower surfaces, even of individual leaves.
-
-## Challenges in Study
-
-**Size**: Large numbers of fungal species are so small as to defy
-sampling except by the most meticulous means. Fruiting bodies are
-frequently as small as 50 micrometers in diameter. The minute
-nature of microfungi makes their direct observation in the field
-difficult.
-
-**Teleomorph and anamorph connections**: Many microfungi have more
-than one morphologically distinct spore-bearing stage. The timing
-of events is often unknown, and linking different reproductive
-states is a significant restraint on biodiversity sampling.
-
-**Ecological knowledge gaps**: Detailed ecological information is
-lacking for most microfungi, except well-known plant pathogens
-studied mainly in agricultural systems. The only systems explored
-systematically are some temperate successional systems in litter
-and wood.
-
-## Emerging Evidence
-
-Emerging evidence suggests that many saprobic fungi are specialized
-to colonize substrata with particular physical characteristics
-rather than particular host taxa. Features such as substratum
-longevity, topography, rigidity, and water retention capability
-have encouraged the evolution of species guilds.
-
-DNA analysis (particularly ribosomal DNA) is showing that genera
-traditionally based on host identity are systematically diverse,
-but species recognized by molecular evidence do not always
-correlate significantly with host-based classifications. Such
-work increases the need for species concepts that conform to
-modern evolutionary theory.
-
-## Inventory Approaches
-
-Complete inventories require sampling on a host-species basis or
-a geographic basis. Rapid assessment techniques and methods of
-estimation have been developed. Field observations, field
-collections, laboratory analysis, specimen processing, cultures,
-and data handling all require standardized protocols. Sampling
-frequency and site analysis must be carefully planned.
-
-## Related Topics
-
-- [[biodiversity-fungi-leaf-litter-decomposition]]
-- [[biodiversity-fungi-wood-decay-succession]]
+shown by [[biodiversity-fungi-leaf-litter-decomposition]]
 - [[biodiversity-of-fungi-endophytic-fungi]]
-- [[biodiversity-of-fungi-soil-isolation-methods]]
 - [[biodiversity-fungal-community-assembly]]
+## Practical Considerations
+
+Successful implementation of Microfungal Inventory Methods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -34,17 +34,7 @@ with toxins and groundwater has become polluted.
 ## Two Rules of Thumb for Regeneration
 
 1. The rougher the structure of the soil, the more air will get in, and
-   the quicker the soil will heal actively. [[holzer-crater-gardens-hugelkultur]] support this process.
-
-2. The more diverse the plant life, the more areas are reached, aired,
-   rooted, and detoxified.
-
-## Emergency Detoxification Procedure
-
-### First Year
-
-1. Plough the land and sow deep-rooting support plants as part of a
-   [[holzer-catch-crop-and-polyculture-design]]
+   the quicker the soil will heal actively. [[holzer-catch-crop-and-polyculture-design]]
 2. If the soil is open and loose, no further cultivation is needed after
    ploughing
 3. If the soil is compacted with high clay content, plough before winter
@@ -56,15 +46,7 @@ with toxins and groundwater has become polluted.
 The degradation of toxins in soil requires three elements:
 - Oxygen (from air reaching the soil)
 - Good root systems (reaching deep into contaminated layers)
-- Active [[soil-life]] (microorganisms that break down toxins)
-
-Simply not using toxins allows healing, but only in the uppermost rooted
-layer, and it takes considerable time. The process can be accelerated by
-using the power of nature.
-
-### Key Plants for Detoxification
-
-**Blue Lupin (Lupinus angustifolius):**
+- Active [[lupinus-angustifolius]]):**
 - Roots can grow several metres into the soil
 - Perennial plant with abundant flowers and seeds in its second year
 - Seeds can be harvested and sold

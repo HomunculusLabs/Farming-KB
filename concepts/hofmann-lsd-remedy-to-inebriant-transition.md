@@ -130,12 +130,8 @@ medicine.
 
 ## Related Topics
 
-- [[hofmann-lsd-black-market-and-dangers]] for the black market and associated
-  dangers
 - [[hofmann-leary-case-and-harvard-research]] for Timothy Leary's role in
   popularizing LSD
-- [[hofmann-sandoz-crisis-lsd-withdrawal]] for Sandoz's decision to stop
-  distribution
 - [[hofmann-lsd-psychedelic-art-expression]] for artistic dimensions of the
   cultural spread
 - [[hofmann-lsd-consciousness-and-philosophy]] for the intellectual and

@@ -108,13 +108,9 @@ Life cycle assessments indicate cardoon bioenergy systems can achieve favorable 
 
 ## See Also
 
-- [[cynara-scolymus]]
 - [[cichorium-intybus]]
-- [[silybum-marianum]]
 - [[carthamus-tinctorius]]
-- [[foeniculum-vulgare]]
-- [[allium-sativum]]
-- [[glycine-max]]
+- [[allium-sativum-entity]]
 - [[arachis-hypogaea]]
-- [[helianthus-annuus]]
-- [[piper-nigrum]]
+- helianthus annuus
+- [[piper-nigrum-entity]]

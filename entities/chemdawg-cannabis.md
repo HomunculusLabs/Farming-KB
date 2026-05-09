@@ -104,18 +104,11 @@ Original Chemdawg cuts remain clone-only and are considered among the most prize
 
 ## See Also
 
-- [[sour-diesel-cannabis]]
 - [[og-kush-cannabis-entity]]
-- [[girl-scout-cookies]]
 - [[wedding-cake-cannabis]]
-- [[northern-lights-cannabis]]
 - [[hindu-kush]]
-- [[jack-herer]]
 - [[cannabis-indica]]
-- [[cannabis-sativa]]
 - [[skunk-1]]
-- [[white-widow-cannabis]]
 - [[gelato-cannabis]]
-- [[super-lemon-haze]]
 - [[amnesia-haze]]
 - [[afghan-kush]]

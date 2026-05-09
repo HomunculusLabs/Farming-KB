@@ -93,15 +93,8 @@ Chemical pesticides provide zero nutritional value and often harm soil biology. 
 
 ## Cost Implications
 
-Since JHS costs only labor (herbs are free or very cheap), the incidental fertilizer value is essentially free. When combined with dedicated [[jadam-liquid-fertilizer]], the total nutritional program remains extremely low-cost.
-
-## See Also
-
-- [[jadam-herb-solution-jhs]] - JHS making guide
-- [[jadam-jhs-herb-selection-guide]] - 100 herbs for JHS production
+Since JHS costs only labor (herbs are free or very cheap), the incidental fertilizer value is essentially free. When combined with dedicated [[jadam-herb-solution-jhs]] - JHS making guide
 - [[jadam-liquid-fertilizer]] - Dedicated JLF for primary nutrition
-- [[jadam-fertilizer-program-examples]] - Complete fertilizer programs
 - [[jadam-element-function-reference]] - Plant nutrient function guide
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
 - [[jadam-making-organic-farming-inputs]]

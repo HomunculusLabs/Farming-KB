@@ -3,61 +3,7 @@ title: Permaculture Forest Garden
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
----
-
-# Permaculture Forest Garden
-
-> If a man walks in the woods for love of them half of each day, he is in danger of being regarded as a loafer. But if he spends his days as a speculator, shearing off those woods and making the earth bald before her time, he is deemed an industrious and enterprising citizen.
-> ~ Henry David Thoreau
-
-The forest garden strategy mimics natural forest ecosystems. In all natural ecosystems, plants are of different heights. Have you ever been hiking in the wilderness and come across a place where all the plants are the same size, growing in perfect rows? That kind of design doesn't exist in nature, and so we want to mimic the forest when we plant our gardens. Big trees form a canopy over smaller trees, which cover shade-loving shrubs, which in turn shade groundcover herbs. On the edges of this forest you will grow edible plants that like the sun. These form a self-sufficient community that maintains itself with less effort on your part.
-
-The characteristics of trees are the main reason why this method is so successful. A tree is a huge biomass that affects everything around it. By its sheer size it provides homes for many creatures and insects, all of which also use it for food. These creatures often distribute the seeds of the tree in return. The roots have fungi that benefit the soil, and trunks and leaves provide shelter from the wind. Even more importantly, the tree changes the temperature and climate around itself. A large oak tree can transpire (or release through evaporation) 40,000 gallons of water per year. Not only is this critical for the earth's water cycle, but it also cools the surrounding air and helps create precipitation. On top of all of this, the structures of the tree store water in the canopy and bark, and from there water runs off down to the plants and soil below.
-
-## Key Principles
-
-1. To mimic this natural pattern, pick plants to grow together based on height, climbing ability, tolerance to shade, and water requirements.
-
-2. In a dry or a cool climate, space the plants farther apart so light and water can be distributed better. In a warm, humid climate put them closer together, although not too close or you may have fungus problems.
-
-3. In a very fertile place with lots of water, put in all of the plants at once. For example, you would plant walnuts (which live a long time), fruit trees like peaches (which don't live as long), legumes like autumn olive (as a nutritious mulch), and perennials like comfrey and yarrow (for weed control).
-
-4. In general, you will not get as much food or useful things from each species as you would if you were farming traditionally. However, if you add up all of the yields (produce) from all of your crops, it will be more than what a traditional farm will have. Diversity, or many species living together, also gives you more security. If you have a bad year for vegetables, then you still have tree fruits, nuts, or other things.
-
-5. Normally, in many gardens and farms, crops would be rotated, or moved around, to prevent pests or disease. The ground might be left fallow, or unproductive for a season, to give the soil a rest. When planting all kinds of different crops in one place and allowing them to mimic a forest, rotation is unnecessary. Animals are placed there for a time, and plants are started at different times, but the pattern follows the natural plant cycles.
-
-6. However, massive amounts of plants and animals aren't added at random. To create an orderly system that works for you rather than against you, you have to create as many relationships between the plants and animals as you can (the same way you did with the elements when you designed your farm).
-
-## Establishing the System
-
-In a regular garden, everything is kept at the Stage 1 or pioneer level, with herbs, weeds, vegetables, or grass growing continuously. Many people use up a great deal of energy by weeding, fertilizing and turning the soil to keep it perpetually in this stage. The opposite is true in nature. Left to themselves, plants will grow (pioneers, herbs and shrubs, and trees) that prepare the way for the next stage. Stage 1 fixes the nitrogen and breaks up the soil so that the later stages can flourish without any effort by humans. By using and accelerating this process, you can use less energy and get more food.
-
-It is important to note, however, that the end goal is not to destroy everything that is already there. We don't want to destroy the landscape or replace all of the existing plants. When you assessed and evaluated your land, you took an inventory of all the major landmarks and plants that were growing. If you have decided to establish your garden in a place where something else already is, then hopefully these two elements will have a mutually beneficial relationship. Our "improvements" should become part of the landscape, not a replacement.
-
-### Establishment Steps
-
-1. When you start developing a piece of land, inevitably a pioneer layer will already be growing. These so-called weeds can be used to build the soil. First, cut down any woody weeds so that they are lying on the ground. These can become part of the mulch.
-
-2. If you want to speed up the process, dig out any large perennial roots. Don't dig too much or you'll encourage more weeds to grow.
-
-3. Lay down cardboard or old carpet on top to mulch and decompose the weeds. There are two kinds of mulch, dead and living. Cardboard is dead mulch, just like leaves, straw, or dead plants, and living mulch is made of the small plants that grow under shrubs and trees. Dead mulch has to be collected and carried in, while living mulch has to be cared for over time, so each has its drawbacks.
-
-4. When the weeds have been broken down and the soil seems ready for planting, fence off the area and begin growing legumes and shrubs that grow well in your local climate and that are useful to you, such as comfrey.
-
-5. The soil will probably not be in the most optimum condition for planting less hardy species. Add mulch, green manure crops, and compost to improve the soil. Allow geese and ducks in to forage.
-
-6. Plant a group of trees as a sort of nucleus or center of your garden. Chickens may sometimes be allowed in to forage at this phase.
-
-7. Once all of these plants have become well established, it takes simple but careful management to make the garden sustain itself. Pigs and other animals may be allowed to forage, the trees produce fruit and mulch, and the smaller plants can be harvested on an ongoing basis.
-
-8. After you harvest the main crops, it is a good idea to plant a cover crop or green manure to protect the soil. This usually happens in the winter. Rye, clover, buckwheat, barley, oats, and vetch are all common cover crops, which you can harvest. Leguminous green manures like clover, vetch, and field peas can be plowed into the soil or mulched before they flower (when the beneficial nitrogen is used up).
-
-## Choosing the Right Plants
-
-Choosing the right species of plants for a specific job is probably the most important task in the [[permaculture-design]] process. When choosing a species, we have to ask:
+tags: [[permaculture-design]] process. When choosing a species, we have to ask:
 
 - What stage is this plant from?
 - Is it a pioneer plant, or a Stage 2 or 3 plant?
@@ -94,11 +40,8 @@ Updated: 2026-04-18
 Source: The Ultimate Guide to Natural Farming and Sustainable Living
 ## See Also
 
-- [[permaculture-plant-selection]]
 - [[backyard-food-forest-design]]
-- [[polyculture-design-hemenway]]
 - [[natural-farm-permaculture-ethics-principles]]
-- [[green-manure-crops]]
 - [[permaculture-tree-crop-systems]]
 
 ## Merged: Permaculture Succession Planting

@@ -104,17 +104,10 @@ Archaeological evidence suggests tarwi was consumed alongside quinoa and kiwicha
 ## See Also
 
 - [[lupinus-albus]]
-- [[cajanus-cajan]]
 - [[pisum-sativum]]
-- [[vicia-faba]]
 - [[glycine-max]]
-- [[lablab-purpureus]]
 - [[mucuna-pruriens]]
-- [[moringa-oleifera]]
 - [[arracacia-xanthorrhiza]]
-- [[smallanthus-sonchifolius]]
 - [[ullucus-tuberosus]]
-- [[tropaeolum-tuberosum]]
 - [[oxalis-tuberosa]]
-- [[canavalia-ensiformis]]
 - [[pachyrhizus-tuberosus]]

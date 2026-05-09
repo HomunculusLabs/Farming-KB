@@ -3,7 +3,7 @@ title: Fungal Bioaccumulation vs Biosorption
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Bioaccumulation vs Biosorption
@@ -83,14 +83,7 @@ In practice, biosorption and bioaccumulation occur simultaneously in living fung
 
 ## See Also
 
-- [[fungal-biosorption-mechanisms]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[fungal-biology-fundamentals]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[soil-food-web-structure]]
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]

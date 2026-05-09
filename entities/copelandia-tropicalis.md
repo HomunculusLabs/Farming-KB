@@ -6,10 +6,10 @@ tags: [fungi, copelandia, panaeolus, psychedelic, tropical, pantropical, coproph
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/[[psilocybin]]-mushrooms-of-the-world-stamets.md"
-  - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-[[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]-&-gartz.md"
+  - "/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-&-gartz.md"
 ---
-# Copelandia tropicalis [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] is (syn. [[panaeolus-tropicalis-cultivation-differences]]) is a small, potently
+# Copelandia tropicalis [[panaeolus-tropicalis-cultivation-differences]]) is a small, potently
 psychoactive mushroom in the family Bolbitiaceae, belonging to the
 "Copelandian Panaeoli" — bluing, dung-inhabiting tropicpsilocybinms known
 for high psilocybin content. Described by Oláh in 1969 and later transferred
@@ -21,37 +21,7 @@ to Copelandia by Singer and Weeks, it is pantropical: guzman-allen-gartz-neurotr
 - **Family:** Bolbitiaceae
 - **Genus:** Copelandia (sometimes retained in Panaeolus)
 - **Species:** C. tropicalis (Ola'h) Singer & R.A. Weeks
-- **Basionym:** [[panaeolus-tropicalis]] Ola'h (1969)
-- **Synonyms:** Panaeolus tropicalis Ola'h
-- **Species number 30** in Guzmán, Allen & Gartz's Copelandia checklist
-- Gerhardt (1996) recognized C. tropica Natarajan & Raman as nom. dubia
-- The epithet "tropicalis" refers to the species' pantropical distribution
-
-## Description
-
-### Macroscopic Features
-
-Cap: 1-2 (2.5) cm broad. Hemispheric to convex to campanulate. Margin
-incurved at first, elevating slightly with age. Not strongly
-translucent-striate unless very wet. Color pallid to grayish to yellowish
-brown at disc, hygrophanous, often with a marginal bluish zone. Surface
-smooth to wrinkled near margin, viscid when wet.
-Gills: Adnexed to more or less uncinate, subdistant, with several tiers of
-intermediate gills. Distinctly mottled, dull grayish with dark blackish
-spotted areas (characteristic of the genus Panaeolus).
-Stem: 60-80 (120) mm long by 2-3 mm thick. Equal or slightly swollen at
-base, hollow. Grayish towards apex, grayish brown in middle, blackish
-towards base. Readily bruising bluish when touched. Surface
-longitudinally striate, pruinose towards base.
-Partial veil: Absent.
-Bluing reaction: Readily bruising bluish on handling, a reliable field
-character for identification.
-
-### Microscopic Features
-
-| Feature | Description |
-|---------|-------------|
-| [[spore]] print | Dark violet black to black |
+- **Basionym:** [[spore]] print | Dark violet black to black |
 | Spores | Lemon-shaped in side view, ellipsoid in face view |
 | Spore size | 10-12 × 7-9 µm |
 | Spore ornamentation | Internally granulated (key diagnostic feature vs. C. cyanescens) |
@@ -69,32 +39,7 @@ Copelandia tropicalis has a wide pantropical distribution:
   Merlin & Allen (1993), Allen (1998)
 - **Southeast Asia:** Cambodia, China, Japan, Singapore, Malaysia, Bonin
   Islands
-- **Africa:** Central Africa, Tanzania, Za [[guzman-psilocybin-mushrooms-mexico-central-america]] America:** Mexico (Guzmán & Pérez-Patraca, 1972; Pollock, 1976)
-- **Oceania:** Bonin Islands, Fiji
-- **Habitat:** Coprophilous — cow dung and dung of wild animals in tropical
-  and subtropical regions
-- **Season:** Year-round in tropical climates with adequate rainfall
-- **Frequency:** Common to locally abundant in suitable habitat
-
-## Chemistry and Active Compounds
-
-- **Psilocybin:** Present — potently active (Stamets)
-- **Psilocin:** Present (indicated by strong bluing reaction)
-- **Baeocystin:** Not specifically reported
-- **Urea:** Present in many Panaeolus species
-- **Potency:** Moderately to potently active
-
-The species has not been quantitatively analyzed, but field bioassays and
-strong bluing indicate significant psychoactive potency. Copelandia species
-tend to be among the more potent psilocybin-containing mushrooms.
-
-## Similar Species
-
-| Species | Key Differences |
-|---------|----------------|
-| C. cyanescens | Larger spores (11-14 × 7-9 µm), no internal granulation; more robust |
-| C. cambodginiensis | Predominantly 4-spored basidia; pleurocystidia with darker apices |
-| [[panaeolus-subbalteatus]] | Larger, non-bluing (or weakly bluing); temperate species; different spore characteristics |
+- **Africa:** Central Africa, Tanzania, Za [[panaeolus-subbalteatus]] | Larger, non-bluing (or weakly bluing); temperate species; different spore characteristics |
 | Panaeolus cinctulus | Temperate to subtropical; larger, with a distinct annular zone; less potent |
 | Panaeolus fimicola | Small, non-bluing, temperate; not psychoactive |
 

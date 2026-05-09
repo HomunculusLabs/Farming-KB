@@ -21,7 +21,7 @@ type: query
 
 ## Short Answer
 
-Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly releases a broad spectrum of plant-essential minerals through natural weathering processes. It replenishes [[dynamic-accumulator-plants-trace-minerals]] depleted by decades of cropping, improves [[biodiversity-of-fungi-biomass-carbon-soil-structure]], supports microbial activity, and can moderate pH. Think of it as a long-term mineral investment rather than a quick-fix fertilizer.
+Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly releases a broad spectrum of plant-essential minerals through natural weathering processes. It replenishes [[biodiversity-of-fungi-biomass-carbon-soil-structure]], supports microbial activity, and can moderate pH. Think of it as a long-term mineral investment rather than a quick-fix fertilizer.
 
 ## What Minerals Do Rock Dusts Supply?
 
@@ -29,15 +29,7 @@ Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly re
 
 - **Calcium (Ca)** — Cell wall structure, root elongation, soil flocculation. Found in limestone, basalt, gypsum dust.
 - **Magnesium (Mg)** — Core of chlorophyll molecule, enzyme activation. Found in dolomite, basalt, olivine.
-- **Potassium (K)** — [[stomata-transpiration-and-plant-water-regulation]], disease resistance, fruit quality. Found in granite, feldspathic rock dusts.
-- **Phosphorus (P)** — Root development, flowering, energy transfer. Found in apatite-rich rock dusts (lower availability).
-- **[[silicon]] (Si)** — Cell wall fortification, pest and disease resistance. Found in basalt, [[diatomaceous-earth-cannabis]], zeolite.
-
-### Micronutrients and Trace Elements
-
-Rock dusts supply trace minerals that conventional NPK fertilizers typically ignore:
-
-- **Iron (Fe)** — Chlorophyll synthesis, [[electron-transport-chain-mitochondrial-respiration]] in respiration
+- **Potassium (K)** — [[silicon]] (Si)** — Cell wall fortification, pest and disease resistance. Found in basalt, [[electron-transport-chain-mitochondrial-respiration]] in respiration
 - **Manganese (Mn)** — Enzyme cofactor, nitrogen assimilation
 - **Zinc (Zn)** — Auxin production, carbohydrate metabolism
 - **Copper (Cu)** — Lignin synthesis, reproductive development
@@ -144,6 +136,5 @@ Rock dust is cumulative. Expect results in growing seasons, not days. It is not 
 
 ## See Also
 
-- [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
 - [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
 - [[query-how-does-crop-rotation-improve-soil-health]]

@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[fukuoka-california-foxtail-greening-discovery]] and [[skunk-1]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European cannabis culture before spreading to North American markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
+Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[skunk-1]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European cannabis culture before spreading to North American markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
 
 ## Lineage and Breeding History
 
@@ -30,11 +30,8 @@ Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine cit
 
 Tangie's terpene profile is dominated by citrus-forward compounds that produce its signature tangerine aroma:
 
-- **[[myrcene]]:** The dominant terpene, contributing earthy, herbal undertones and potentiating the psychoactive effects of THC. Modulates the energetic sativa experience with subtle body relaxation.
-- **Terpinolene:** The second most prominent terpene, adding complex fruity, floral, and herbal notes that enhance the citrus character and contribute to the strain's multifaceted aroma.
 - **[[pinene]]:** Provides subtle pine notes and may help counteract THC-induced memory impairment, contributing to the clear-headed, focused quality of the Tangie high.
 - **Caryophyllene:** Adds a peppery, spicy undertone and activates CB2 receptors for potential anti-inflammatory benefits.
-- **[[limonene]]:** Amplifies the citrus character and contributes mood-elevating, stress-relieving properties — a key contributor to the signature tangerine scent.
 - **[[linalool]]:** Present in smaller quantities, adding floral sweetness and promoting relaxation that tempers the otherwise energetic sativa effects.
 - **Ocimene:** Trace amounts add sweet, woody notes and may contribute to the uplifting quality.
 
@@ -88,34 +85,11 @@ Tangie's uplifting, clear-headed effects make it particularly well-suited for da
 - **2013 High Times Cannabis Cup** — 1st Place, Sativa category (Amsterdam)
 - Tangie's victory at the 2013 Cannabis Cup cemented its reputation and accelerated its spread from Amsterdam coffeeshops to global markets
 - Consistently featured in "Best Citrus Strains" and "Best Sativa Strains" lists across cannabis media
-- Has served as a parent strain for multiple award-winning hybrids including [[tropicana-cookies]] and Forbidden Fruit
-- Rated 4.45 out of 5 stars based on over 1,350 user reviews on Leafly
-
-## Flavor and Aroma Description
-
-Tangie possesses one of the most distinctive and immediately recognizable aromatic profiles in cannabis:
-
-- **Aroma:** Intensely citrus-forward, dominated by fresh tangerine and sweet orange peel. The bouquet is bright, zesty, and refreshing — often described as reminiscent of peeling a ripe tangerine. Subtle skunky and earthy undertones from the Skunk lineage provide depth beneath the dominant citrus character.
-- **Flavor:** On inhalation, delivers a vivid sweet-tangerine and orange flavor with a bright, zesty quality. The exhalation reveals additional complexity: apricot and tropical fruit notes, a touch of creamy sweetness, and a faint skunky finish. The flavor lingers pleasantly on the palate.
-- **Smoke quality:** Smooth and expansive. The citrus terpene profile produces a notably clean-tasting smoke compared to more pungent or diesel-forward strains.
-- **Dominant flavor notes:** Orange, citrus, apricot, tropical fruit, sweet
-
-## Wiki Relevance
-
-Tangie is a significant entry in the cannabis wiki due to its role as a modern classic that revived interest in citrus-flavored sativa strains. As a child of California Orange and Skunk #1 — two foundational genetics in cannabis breeding — Tangie bridges legacy genetics with contemporary market preferences. Its creation by DNA Genetics exemplifies the Amsterdam breeding scene's influence on global cannabis genetics. The strain's success at the 2013 Cannabis Cup helped shift consumer preferences toward terpene-forward, flavor-driven cultivars. Tangie's genetic contributions through descendant strains like Tropicana Cookies and Forbidden Fruit ensure its continued relevance in modern breeding programs.
-
-## See Also
-
-- [[og-kush]] — Foundational West Coast indica-dominant hybrid for comparison
-- [[super-lemon-haze]] — Fellow citrus-dominant sativa with similar uplifting effects
+- Has served as a parent strain for multiple award-winning hybrids including [[og-kush]] — Foundational West Coast indica-dominant hybrid for comparison
 - [[jack-herer]] — Classic sativa-dominant hybrid with comparable creative, cerebral effects
-- [[sour-diesel]] — Another legendary sativa-dominant strain with energizing properties
 - [[amnesia-haze]] — Sativa-dominant strain with similar potency and cerebral stimulation
-- [[cannabis-blue-dream]] — Popular sativa-dominant hybrid offering balanced effects
-- [[cannabis-indoor-growing-guide]] — Pure landrace sativa with energetic daytime effects
-- [[myrcene]] — Dominant terpene in Tangie's profile
+- [[cannabis-indoor-growing-basics]] — Pure landrace sativa with energetic daytime effects
 - [[limonene]] — Citrus terpene key to Tangie's signature aroma
-- [[linalool]] — Floral terpene contributing to Tangie's balanced relaxation
 - [[pinene]] — Pine terpene supporting Tangie's clear-headed focus
 - california-orange — Parent strain contributing citrus genetics
 - skunk — Parent strain contributing foundational hybrid vigor

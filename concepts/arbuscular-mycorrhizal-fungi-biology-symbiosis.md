@@ -3,7 +3,7 @@ title: Arbuscular Mycorrhizal Fungi — Biology and Symbiosis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -95,29 +95,19 @@ A small number of plant orders do not form AM associations. Many other orders in
 
 ## Diversity and Taxonomy
 
-Modern molecular methods, particularly [[molecular-methods-fungal-taxonomy-and-diversity]], have dramatically revised our understanding of AM fungal diversity. The group was formerly placed in the Zygomycota but is now classified in its own phylum, Glomeromycota, containing approximately 250-300 described species. However, environmental DNA sampling suggests the true diversity may be several times higher, with many cryptic species yet to be formally described. Community-level studies using [[fungal-diversity-indices-community-analysis]] have revealed that AM fungal communities are shaped by soil type, host plant identity, and land management practices.
+Modern molecular methods, particularly [[fungal-diversity-indices-community-analysis]] have revealed that AM fungal communities are shaped by soil type, host plant identity, and land management practices.
 
 ## See Also
 
-- [[glomales-taxonomy-arbuscular-mycorrhizal-genera]]
 - [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]
-
-- [[am-fungi-autofluorescence-colonization-assessment]]
 
 - [[saprobic-soil-fungi-ecology-survey]]
 
-- [[biofertilizers-and-soil-inoculants]]
-
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 
-- [[fungal-species-richness-and-diversity-indices]]
 - [[amf-hyphal-anastomosis-self-recognition]]
-- [[arbuscule-isolation-metabolic-activity-assays]]
 - [[auxin-production-by-symbiotic-fungi]]
-- [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - [[compartmented-in-vitro-systems-am-transport]]
-- [[endobacteria-arbuscular-mycorrhizal-fungi]]
 - [[mycorrhiza-helper-bacteria-fungal-interactions]]
-- [[mycorrhizal-siderophores-iron-acquisition]]
 - [[nitrogen-transfer-mycorrhizal]]
 - [[proteomics-early-am-symbiosis-stages]]

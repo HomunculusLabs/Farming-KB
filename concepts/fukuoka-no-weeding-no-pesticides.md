@@ -38,37 +38,8 @@ Many await new pesticides that have no adverse effects and are totally non-pollu
 
 Fukuoka's analysis of red pine disease reveals a cascade of causes: soil acidification kills matsutake mushrooms (symbionts on pine roots), parasitic mold fungi follow, then nematode infestation. The pinewood nematode is merely a secondary symptom. True control means addressing soil conditions, not spraying pesticides.
 
-[[fukuoka-four-principles-natural-farming]] | [[fukuoka-natural-rice-farming-steps]] | [[hamilton-organic-pest-control]] | [[fukuoka-do-nothing-farming-philosophy]] | [[integrated-pest-management]]
-
-## Key Points
-
-1. Central to Fukuoka No Weeding No Pesticides is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
-2. Fukuoka's approach emphasizes observation over action — understanding natural patterns before making any changes to the landscape.
-3. The principle of 'doing nothing' (mu) means eliminating unnecessary human labor, not abandoning the land entirely.
-4. Natural farming seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
-5. Soil health is the foundation — building rich, living soil through natural mulching and decomposition rather than imported fertilizers.
-6. Seed balls (tsuchi dango) allow natural dispersal and germination without tilling or transplanting.
-7. The interplay between ground cover plants, crops, and trees creates a multi-layered productive system.
-8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
-9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
-
-## Practical Applications
-
-- Start with a small area and observe natural vegetation patterns before introducing any cultivation.
-- Use straw mulch and living ground covers (such as white clover) to suppress weeds and build soil organic matter.
-- Introduce seed balls in early spring or fall to establish crops without tilling the soil.
-- Allow beneficial weeds to grow alongside crops — they often serve important ecological functions.
-- Rotate between rice in summer and winter grains (barley, wheat) using the same flooded field without tilling.
-- Create a diverse orchard with ground cover plants that fix nitrogen, attract pollinators, and suppress unwanted vegetation.
-- Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
-- Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
-
-## See Also
-- [[fukuoka-future-modern-agriculture]]
-- [[fukuoka-three-ways-farming-compared]]
-
-Related topics in this wiki include: [[natural-farming-philosophy]], [[natural-farming-fukuoka]], [[one-straw-revolution-guide]], [[one-straw-revolution-key-concepts]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-cultivation-principle]], [[fukuoka-no-fertilizer-principle]], fukuoka no weeding no pesticides, [[fukuoka-natural-rice-farming-steps]], [[fukuoka-do-nothing-farming-philosophy]], [[natural-farming-seed-balls]], [[clay-seed-balls-tsuchi-dango]].
+[[fukuoka-natural-rice-farming-steps]] | [[fukuoka-do-nothing-farming-philosophy]] | [[fukuoka-future-modern-agriculture]]
+- [[natural-farming-philosophy]], [[one-straw-revolution-guide]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-fertilizer-principle]], fukuoka no weeding no pesticides, [[fukuoka-do-nothing-farming-philosophy]], [[clay-seed-balls-tsuchi-dango]].
 
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
 The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
@@ -94,30 +65,13 @@ The spiritual dimension of natural farming emphasizes humility, gratitude, and a
 
 updated: 2026-04-18
 
-The [[fukuoka-four-principles-natural-farming]] is one of Fukuoka's five foundations of [[fukuoka-five-principles-natural-farming]]. Rather than pulling weeds, he proposed using them — a principle he also called "weed utility." The presence of grasses is not only not harmful, it is positively essential to healthy soil.
+The [[fukuoka-five-principles-natural-farming]]. Rather than pulling weeds, he proposed using them — a principle he also called "weed utility." The presence of grasses is not only not harmful, it is positively essential to healthy soil.
 
 ## The False Distinction Between Crops and Weeds
 
 Nature does not arbitrarily call one plant a weed and try to eradicate it. Man created the distinction between "crops" and "weeds." He believes that to raise a crop, he must remove other grasses and herbs. But the growth of weeds is natural; there is no end to their variety or to the labors of those who try to eradicate them.
 
-If one believes crops grow with the aid of fertilizers, then surrounding weeds appear to compete for nutrients. But in [[fukuoka-five-principles-natural-farming]], weeds do not pose any problem at all. Nothing is more natural than to see grass growing at the foot of a tree.
-
-## In Nature, Plants Coexist
-
-In nature, bushes and shrubs grow at the foot of large trees, grasses spread among shrubs, and mosses flourish beneath grasses. Instead of cut-throat competition for nutrients, this is a peaceful world of coexistence. Rather than seeing grasses as harmful, one should recognize that they actually enrich the soil.
-
-## How Weeds Enrich the Soil
-
-1. **Soil loosening**: The deep penetration of grass roots into the earth loosens the soil. When roots die, they leave channels through which water, air, and roots of other plants penetrate
-2. **Organic matter**: Grasses are absolutely essential for the formation and enrichment of topsoil. There would have been no organic material on the soil surface without microorganisms in the earth and grasses on the surface
-3. **Erosion prevention**: Without grasses growing over the ground surface, rainwater would wash away the topsoil. In just a few years, topsoil would wash entirely away, reducing fertility to zero
-4. **Soil biology**: Dead grasses and roots feed earthworms, which attract moles — all part of the soil ecosystem
-
-## Replacing Weeds with Weeds
-
-When weeds interfere with farming operations, the solution is to remove weeds with weeds rather than pull them by hand. A natural meadow appears chaotic but has laws and order. Plants of the same species do not all grow in the same place and way; given types flourish, then fade in an ongoing succession.
-
-By studying and making use of the properties of weeds, one weed can be used to drive out a large number of other weeds. Growing grasses or [[fukuoka-green-manure-clover-revolution]] that take the place of undesirable weeds eliminates the need for weeding while enriching soil and preventing erosion.
+If one believes crops grow with the aid of fertilizers, then surrounding weeds appear to compete for nutrients. But in [[fukuoka-green-manure-clover-revolution]] that take the place of undesirable weeds eliminates the need for weeding while enriching soil and preventing erosion.
 
 ## Weeding Is Positively Harmful
 

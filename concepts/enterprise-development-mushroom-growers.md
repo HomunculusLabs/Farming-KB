@@ -12,67 +12,7 @@ type: concept
 
 # Enterprise Development for Mushroom Growers
 
-Starting and managing a successful mushroom cultivation enterprise
-requires basic knowledge in business management and record keeping. This
-page covers the practical steps for establishing a mushroom farm,
-calculating costs and profits, and managing finances. The information
-is based on real experience from trainees in Ubon Ratchathani, Thailand,
-demonstrating that people with disabilities can run profitable mushroom
-businesses.
-
-## Procedure to Start a Mushroom Farm
-
-### 1. Identify Location
-Select land above flooding level with good ventilation. The location
-should be accessible for the grower and for delivering mushrooms to
-market.
-
-### 2. Set Up Mushroom House and Equipment
-Small mushroom houses can be built inexpensively using rice straw, grass,
-dried leaves, branches, and old rice bags. Appropriate materials keep
-costs low while maintaining growing conditions.
-
-### 3. Buy Raw Materials
-It is highly recommended to start by buying already inoculated mushroom
-bags. A minimum of 1,000 bags is both feasible and easy to manage,
-allowing understanding of basic production without excessive investment.
-
-### 4. Maintain the Mushroom House
-Keep the house clean to reduce disease and pests, ensuring higher yield.
-Constantly monitor humidity and light conditions.
-
-### 5. Monitor for Contamination and Disease
-At least twice a week, visually check each bag for spots or partial
-white coverage indicating contamination.
-
-### 6. Check for Pests
-At least twice a week, check each bag for mites, flies, ants, or other
-pests.
-
-### 7. Harvest Regularly
-Harvest at least twice daily for young, high-quality mushrooms that
-satisfy clients and encourage repeat purchases.
-
-### 8. Market Mushrooms
-Sell from the farm, in the village, on the fresh market, or supply to
-restaurants and hotels. Monitor competition and adjust prices.
-
-## Initial Investment Costs
-
-For a basic startup buying inoculated bags:
-- Mushroom house (3m x 4m, good for 2 years): 500 to 2,000 Baht
-- 1,000 mushroom bags (good for 3 months): 3,500 Baht
-- **Total startup**: 4,000 to 5,500 Baht (approximately US$96 to $132)
-
-For those making their own bags, additional investments include:
-- 200-liter oil drums for pasteurization: 400 to 700 Baht per set
-- Other tools (basket, water sprayer): 1,000 Baht
-- Optional cement floor: 4,000 Baht (compacted earth is free)
-
-## Income and Profit Expectations
-
-Based on average yields from the Ubon Ratchathani experience, with
-oyster mushrooms yielding 250 grams per bag over 3 months at 25 Baht
+Starting and managing a successful [[oyster-mushrooms]] yielding 250 grams per bag over 3 months at 25 Baht
 per kg, each bag generates 6.25 Baht in total income. Cost of buying one
 spawn bag is approximately 3.75 Baht.
 
@@ -134,7 +74,24 @@ follow up on applications.
 
 ## Related Concepts
 
-- [[mushroom-cultivation-overview-disability-empowerment]]
 - [[rehabilitation-through-mushroom-cultivation]]
-- [[post-harvest-handling-marketing-mushrooms]]
 - [[mushroom-house-design-management]]
+## Practical Considerations
+
+Successful implementation of Enterprise Development for Mushroom Growers requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

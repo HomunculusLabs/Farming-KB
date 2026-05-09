@@ -1,7 +1,7 @@
 ---
 title: Asian Neurotropic Mushroom Species
 created: 2026-04-28
-tags: [mycology, asian-fungi, psilocybin-mushrooms, japan, southeast-asia]
+tags: [[mycology, asian-fungi, psilocybin-mushrooms, japan, southeast-asia]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -33,39 +33,7 @@ Japan has one of the best-documented neurotropic fungal records in Asia:
 - **Amanita muscaria**: Well documented by Hongo (1959, 1960); found
   throughout Japan
 - **A. pantherina**: Widely distributed in Japan
-- **[[gymnopilus-spectabilis-entity]]**: One of the most studied Japanese
-  neurotropic species; confirmed psychoactive by multiple studies
-- **G. aeruginosus**: Documented by Koike et al. (1981)
-- **G. liquiritiae**: Found in Japan
-- **Cordyceps capitata** and **C. ophioglossoides**: Parasitic fungi
-  used in traditional medicine
-- **Dictyophora indusiata**: Used in traditional Chinese and Japanese
-  medicine; also used by Chinantec Indians in Mexico
-- **Copelandia cyanescens** and **C. tropicalis**: Subtropical species
-  found in southern Japan
-- **Panaeolina rhombisperma** and **P. sagarae**: Species described by
-  Hongo from Japan
-- Various Panaeolus species: P. ater, P. fimicola, P. papilionaceus,
-  P. retirugis, P. sphinctrinus, P. subbalteatus
-- Pluteus atricapillus and P. salicinus
-
-## India
-
-India is notable for the Soma hypothesis and diverse neurotropic fungi:
-- **Amanita muscaria**: Wasson (1968) proposed this as the identity of
-  the sacred Soma of Vedic texts; this hypothesis remains debated
-- **Psilocybe indica**: Described by Sathe and Daniel (1980) from India
-- **P. cubensis**: Reported from India
-- **P. goniospora**: Reported from India and Africa
-- **P. natarajanii**: Named after Natarajan; described from India
-- **P. pseudoaztecorum**: Described from India by Natarajan and Raman
-- **P. semilanceata**: Reported from India
-- **Copelandia cyanescens**: Known from India since Bose (1920)
-- **C. bispora** and **C. tirunelveliensis**: Described from India
-- **Hypholoma gigaspora** and **H. guzmanii**: Tropical species
-  described from India by Natarajan and Raman
-- **Gymnopilus spectabilis** and **G. sapineus**: Present in India
-- [[inocybe-corydalina-entity]]: Found in India
+- **[[inocybe-corydalina]]: Found in India
 - Diverse Panaeolus species: P. africanus, P. ater, P. papilionaceus,
   P. sphinctrinus, P. subbalteatus, P. venezolanus
 
@@ -130,20 +98,6 @@ of neurotropic fungi:
 - **Heimiella** and **Russula** species: H. anguiformis, H. retispora;
   R. agglutina, R. kirinea, R. maenadum, R. nondorbingi, R.
   pseudomaenadum, R. wahgiensis: Used by aboriginal peoples
-- **[[gerronema-fibula]]**: Found in New Guinea
-## Other Asian Regions
+- **[[guzman-magic-mushrooms-pacific-australian-species]]
 
-- **China**: Amanita muscaria, P. venenata, G. spectabilis
-- **Himalaya**: A. muscaria (Wasson, 1968)
-- **Hong Kong**: Dictyophora indusiata, Pluteus salicinus
-- **Nepal**: P. cubensis and P. subcubensis reported (questionable)
-- **Korea**: G. spectabilis, Panaeolus fimicola, P. papilionaceus
-- **Iran**: A. muscaria (questionable, proposed as Soma)
-- **Israel**: A. pantherina, G. spectabilis, Inocybe tricolor
-- **Malaysia**: B. flammeus, B. nigroviolaceus, C. cyanescens, P.
-  cubensis
-- **Mongolia**: P. fimicola only
-- **Turkey**: Claviceps paspali, C. purpurea
-## See Also
-
-- [[guzman-magic-mushrooms-pacific-australian-species]]
+See also: [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]

@@ -94,13 +94,8 @@ The key to the return voyage: "take it easy, slowly, naturally. Enjoy every seco
 
 ## See Also
 
-- [[leary-psychedelic-bardo-model]]
 - [[leary-peaceful-and-wrathful-visions]]
-- [[leary-psychedelic-manual-approach]]
 - [[default-mode-network-and-ego-dissolution]]
-- [[psychedelic-set-and-setting]]
 - [[psychedelic-integration-guide]]
-- [[psilocybin-psychotherapy]]
 - [[psychedelic-consciousness-models]]
-- [[psychedelic-shamanism-as-death-practice]]
 - [[psilocybin-and-death-anxiety]]

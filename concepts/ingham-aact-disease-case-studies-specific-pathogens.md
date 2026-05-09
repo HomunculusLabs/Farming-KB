@@ -120,8 +120,6 @@ Ingham strongly advises practitioners not to make disease-control claims in comm
 
 ## See Also
 
-- [[ingham-aact-disease-suppression]]
 - [[ingham-disease-case-studies-fungal]]
-- [[ingham-disease-case-studies-bacterial]]
 - [[ingham-aact-disease-suppression-competition-mechanisms]]
 - [[aact-disease-suppression-recipes]]

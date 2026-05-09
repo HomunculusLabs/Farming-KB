@@ -46,9 +46,8 @@ The first and most important step, representing 70% of the work. The human
 body and the surface of the earth are both made up of 70% water. There is no
 life or fertility without water. A healthy hydrological balance enables the
 growing of healthy food without artificial fertiliser, supports
-[[biodiversity-fungi-soil-fungal-communities]] and interactive soil symbioses,
-prevents [[desertification-causes-reversal]] and floods. It
-is acceptable to use heavy machinery to create [[holzer-water-landscapes-retention]] and [[sepp-holzer-terrace-systems-and-raised-beds]] as part of transitional ethics.
+[[desertification-causes-reversal]] and floods. It
+is acceptable to use heavy machinery to create [[sepp-holzer-terrace-systems-and-raised-beds]] as part of transitional ethics.
 
 ### 2. Abolishment of Industrial Livestock Farming
 
@@ -56,20 +55,7 @@ Holzer has nothing against meat consumption when animals are kept naturally
 and slaughtered humanely. Mass production of meat destroys the environment and
 is uneconomical. The immense areas needed to grow animal feed should grow food
 for humans instead. Animals should be integrated into natural cycles using
-permaculture methods. See [[holzer-livestock-integration]] for details.
-
-### 3. Developing More Cultivated Areas
-
-Too much farmland lies fallow or is used for monocultures. The World Food
-Programme reports that 7,000,000 hectares of farmland are lost annually
-through erosion, salinisation, and soil drying. Over 20 years, about
-1,000,000 square kilometres (the size of central Europe) have been lost to
-industrial cultivation. Much of this land could be made viable again using
-natural methods.
-
-### 4. Enlarging Areas Under Cultivation
-
-More food could be grown on existing land through [[holzer-crater-gardens-hugelkultur]], terracing, hugelkultur, and crater gardening.
+permaculture methods. See [[holzer-crater-gardens-hugelkultur]], terracing, hugelkultur, and crater gardening.
 Telegraph poles, bridge piers, and house walls can grow vegetables and herbs
 in cities. Holzer has shown people in slums how to grow vegetables on rubbish
 dumps.
@@ -131,7 +117,5 @@ great soil and full biodiversity.
 
 ## See Also
 
-- [[holzer-water-landscapes-retention]] for the foundation (Step 1)
 - [[reforestation-with-pigs]] for animal integration (Steps 2 and 5)
-- [[holzer-crater-gardens-hugelkultur]] for intensive cultivation (Step 4)
 - [[permaculture-seed-saving-breeding]] for seed autonomy

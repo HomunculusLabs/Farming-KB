@@ -21,14 +21,6 @@ are the banco, the sumiruna (sumi), and the muraya. These represent
 ascending levels of shamanic power, each with distinct specialties,
 spiritual domains, and abilities. One can only reach these degrees
 through years of dieting and fasting with
-[[amazonian-plant-teachers-doctores]]. Pablo Amaringo
-consistently refers to these three ranks as the pinnacle of the
-ciencia vegetalista (vegetalista science).
-
-## The Muraya
-
-The muraya is a shaman who specialises in the underwater world. He
-can travel to the bottom of rivers and lakes, entering the
 [[yakuruna-water-spirits-of-the-amazon]] domain. In visions, the muraya
 descends while two mermaids serve as guides to the golden city
 beneath the waters. Guardian animals -- the tibemama (osprey), the
@@ -138,13 +130,8 @@ for reconnaissance at great distances. The sumi can transform into
 wolves and other animals to evade sorcerers. The banco commands the
 Aceropunta battleship and can raise powers from the depths of the
 earth, including the alipa-tren (train of the earth), the
-huitorunas (dark blue people), and the macanun-caballo (battle horses)
-with their soldiers carrying spears.
-
 ## See Also
 
 - [[shamanic-powers-ayahuasca]] -- Powers wielded at each degree
-- [[yakuruna-water-spirits]] -- The muraya's primary domain
 - [[plant-teachers-ayahuasca]] -- How the degrees are achieved
-- [[mariri-phantom-sorcery]] -- The mariri at each level of mastery
 - [[curandero-healing-ayahuasca]] -- Healing practices by degree

@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Soil Fungal Diversity
 
@@ -95,26 +96,13 @@ Land use change is the most significant driver of soil fungal diversity loss glo
 Soil fungal communities can be categorized into functional guilds based on their ecological roles:
 
 - **Decomposers (saprotrophs)**: The most diverse guild in most soils, responsible for breaking down dead organic matter including leaf litter, wood, and root residues. Decomposers produce a wide array of extracellular enzymes and are critical for carbon and nutrient cycling.
-- **Mycorrhizal fungi**: Form mutualistic associations with plant roots. [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] dominate in grasslands and agricultural soils, while ectomycorrhizal fungi are characteristic of forest soils, particularly under coniferous and hardwood trees. Mycorrhizal fungi influence plant community composition and ecosystem productivity.
-- **Plant pathogens**: Soil-borne pathogens including Fusarium, Rhizoctonia, Pythium, and Verticillium species cause root diseases that reduce crop yields. The abundance and activity of pathogenic fungi is moderated by competition with non-pathogenic community members and by soil suppressiveness.
-- **Endophytes**: Fungi that colonize living plant tissues without causing disease. Some endophytes confer benefits to their host plants including drought tolerance, herbivore resistance, and pathogen protection.
-- **Nematophagous fungi**: Predatory fungi that trap and consume nematodes, playing a role in biological control of plant-parasitic nematodes in agricultural soils.
-
-## Conservation of Soil Fungal Diversity
-
-Soil fungal conservation has received far less attention than the conservation of above-ground biodiversity, despite the critical ecosystem services that soil fungi provide. The primary threats to soil fungal diversity are habitat destruction through land use change, soil pollution, climate change, and the introduction of invasive plant species that alter the quantity and quality of organic inputs to soil. Protecting soil fungal diversity requires maintaining diverse plant communities, minimizing soil disturbance, reducing chemical inputs, and preserving natural habitat patches within agricultural landscapes. Soil fungal inocula from diverse reference ecosystems can be used to restore degraded soils, though the establishment of introduced fungal communities depends on matching the inoculum to local environmental conditions. The concept of "soil health" as articulated by [[lowenfels-earthworms-soil-food-web]] ecology is fundamentally a concept of soil biological diversity, and management practices that promote fungal diversity are increasingly recognized as essential for sustainable agriculture.
+- **Mycorrhizal fungi**: Form mutualistic associations with plant roots. [[lowenfels-earthworms-soil-food-web]] ecology is fundamentally a concept of soil biological diversity, and management practices that promote fungal diversity are increasingly recognized as essential for sustainable agriculture.
 
 ## Related Topics
 
-- [[fungal-communities-succession]] — successional dynamics in soil
 - [[fungal-decomposition-nutrient-cycling]] — functional roles of soil fungi
-- [[fungal-biodiversity-by-ecosystem]] — soil in the context of ecosystem diversity
 - [[fungal-ecology]] — broader ecological framework
-- [[fungal-chromogens-and-color-change]]
 - [[saprobic-soil-fungi]] — saprobic soil fungal ecology
-- [[fungal-functional-diversity]] — functional diversity in soil communities
 - [[ethanol-pasteurization-selective-fungal-isolation]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[ingham-soil-food-web-assessment-methods]]
-- [[fungal-biogeography]]
 - [[fungal-ecosystem-services]]

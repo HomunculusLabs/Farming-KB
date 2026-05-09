@@ -1,24 +1,7 @@
 ---
 title: Windbreak Design and Species Selection
 created: 2026-04-28
-tags: [permaculture, windbreaks, agroforestry, microclimate, tree-selection]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Windbreak Design and Species Selection
-
-Windbreaks are structured plantings of trees and shrubs designed to reduce
-wind speed, modify microclimate, protect crops and livestock, and prevent
-soil erosion. In the Permaculture Designers Manual, Mollison treats windbreaks
-as essential infrastructure for any site exposed to persistent or seasonal
-winds. A well-designed windbreak creates a sheltered zone extending 10 to 15
-times the height of the planting on the leeward side, significantly reducing
-evapotranspiration, mechanical damage to plants, and heat loss from buildings.
-Windbreaks also provide wildlife habitat, timber, fodder, and [[mollison-designers-fuelwood-forestry-systems]] as secondary yields.
+tags: [[mollison-designers-fuelwood-forestry-systems]] as secondary yields.
 
 ## Windbreak Mechanics and Effects
 
@@ -67,16 +50,7 @@ formation create better density than single-row plantings. Mollison
 recommends a minimum of three rows: a windward row of hardy shrubs, a
 central row of tall canopy trees, and a leeward row of medium-height
 trees. Where space is limited, a single dense row of multi-layered
-planting can still provide meaningful protection for [[mollison-designers-house-garden-integration]] and immediate surroundings.
-
-## Species Selection Criteria
-
-### Primary Windbreak Trees
-
-The windward row should consist of tough, wind-resistant species that can
-withstand direct exposure. Suitable species vary by climate but include
-Casuarina spp., Populus spp., Pinus radiata, Cupressus macrocarpa, and
-various [[acacia]] species in warmer climates. These species establish quickly,
+planting can still provide meaningful protection for [[acacia]] species in warmer climates. These species establish quickly,
 have dense foliage, and tolerate pruning and shaping. They form the
 structural backbone of the windbreak and should be selected for longevity
 and wind firmness at maturity.
@@ -85,11 +59,7 @@ and wind firmness at maturity.
 
 The inner rows can include productive species that benefit from the
 protection of the outer windward row. Fruit and nut trees such as
-Citrus, [[feijoa]], Macadamia, or Prunus spp. can be incorporated as
-secondary windbreak species, providing food yields alongside shelter.
-Fodder trees like [[tagasaste]] (Chamaecytisus proliferus) or [[carob]]
-(Ceratonia siliqua) serve the dual purpose of wind protection and
-animal feed production for [[mollison-designers-free-range-poultry-systems]] and livestock grazing systems.
+Citrus, [[tagasaste]] (Chamaecytisus proliferus) or [[mollison-designers-free-range-poultry-systems]] and livestock grazing systems.
 
 ### Shrub and Ground Layer
 
@@ -98,24 +68,7 @@ closing gaps at the base where wind can channel through. Species such as
 Coprosma, Hibiscus, Tamarix, or native leguminous shrubs are effective.
 This layer also provides habitat for insectivorous birds that contribute
 to pest control in adjacent cropping areas, linking windbreak design to
-[[integrated-pest-management]] strategies.
-
-## Establishment and Management
-
-Windbreaks require protection during establishment, particularly from
-grazing animals and weed competition. Tree guards, fencing, and mulching
-are essential in the first two to three years. Irrigation may be needed
-until root systems are established, after which most windbreak species
-are self-sustaining. Pruning should maintain density at the base and
-encourage vertical growth of the canopy. Regular replacement of
-short-lived pioneer species with longer-lived climax species ensures
-the windbreak remains effective over decades.
-
-## Integration with Other Systems
-
-Windbreaks should be designed as multi-functional elements within the
-broader permaculture layout. They define Zone 2 and Zone 3 boundaries,
-provide corridors for wildlife movement, supply [[mollison-designers-fuelwood-forestry-systems]] through periodic coppicing, and create
+[[mollison-designers-fuelwood-forestry-systems]] through periodic coppicing, and create
 sheltered microsites for intensive garden production. Mollison emphasizes
 that windbreaks are not isolated features but connected elements in a
 whole-site design that manages energy flows, water, and nutrient cycles

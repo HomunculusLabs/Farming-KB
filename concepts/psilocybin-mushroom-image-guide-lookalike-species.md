@@ -5,12 +5,7 @@ updated: "2026-04-24"
 sources:
   - "raw/papers/unknown-psilocybin-mushroom-image-guide.md"
 type: concept
-tags: [mushroom-cultivation, psilocybin, species]
----
-
-# Psilocybin Mushroom Lookalike Species
-
-The [[psilocybin-mushroom-image-guide-spore-color-chart]] Guide catalogues psilocybin-containing
+tags: [[psilocybin-mushroom-image-guide-spore-color-chart]] Guide catalogues psilocybin-containing
 fungi, but correct identification requires awareness of non-
 psychoactive or toxic species that share similar morphology. The
 guide's photographic approach highlights the importance of visual
@@ -43,29 +38,6 @@ documented in the guide growing on wood chips. Key differences:
   containing species
 
 ### Panaeolina foenisecii (Haymaker's Mushroom)
-
-Could be confused with [[panaeolus-subbalteatus]], documented in the
-guide growing on horse dung and in grass. Differences:
-
-- P. foenisecii has mottled gills and prefers lawns rather than
-  dung
-- Generally smaller and less robust than P. subbalteatus
-- Does not blue-bruise; spore print dark brown rather than black
-
-### Conocybe and Inocybe Species
-
-Small, brown mushrooms found in similar grassland habitats to
-Psilocybe semilanceata (liberty caps), extensively photographed in
-the guide. Many Conocybe and Inocybe species contain dangerous
-toxins.
-
-- Conocybe species tend to have more bell-shaped caps and
-  conical shapes when young
-- Inocybe species often have fibrous caps and a distinctive
-  musty odor
-- Neither genus typically shows blue bruising
-
-### Hypholoma and Psathyrella Species
 
 Could be confused with [[gymnopilus-spectabilis-profile]] (Big Laughing Gym),
 documented in the guide growing in clusters on wood. Key points:
@@ -108,41 +80,4 @@ identifications.
 
 ## Regional Lookalike Risk Assessment
 
-Based on the [[sequestrate-fungi-taxonomy-geographic-distribution]]s documented in the guide,
-certain lookalike risks are elevated in specific regions:
-
-- Pacific Northwest wood chip beds (California, Germany): high
-  risk of encountering Galerina marginata alongside P.
-  cyanescens and P. azurescens. Extra caution warranted during
-  autumn foraging
-- European grasslands (Germany, Norway): P. semilanceata habitat
-  overlaps with numerous toxic Panaeolina, Conocybe, and
-  Inocybe species that fruit in similar autumn conditions
-- Southeast Asian pastures (Thailand): while P. cubensis is
-  relatively distinctive, dung-inhabiting tropical species
-  diversity means local knowledge of regional toxic species is
-  important
-- Hawaiian pastures (Oahu): C. cambodgeniensis shares pasture
-  habitat with various Panaeolus species; correct genus-level
-  identification is essential
-
-## Photographic Reference for Lookalike Avoidance
-
-The image guide's multiple photographs per species provide
-familiarity with the range of variation within each species,
-which is critical because lookalikes may resemble only some
-growth stages or forms. The guide's inclusion of specimens from
-multiple photographers across different years (e.g., P.
-cyanescens from northern California spanning 1997-1998) helps
-build a robust mental library of species appearance.
-
-## Summary: Key Differentiation Points
-
-| Feature | Psilocybin Mushrooms | Common Lookalikes |
-|---------|---------------------|-------------------|
-| Spore print | Dark purple-brown to black | Rusty brown, white, or light brown |
-| Bruising | Blue to blue-black | Absent or greenish (non-psilocin) |
-| Habitat | Specific substrates documented | Often overlapping but check carefully |
-## See Also
-
-- [[field-guide-psilocybin-mushroom-species-identification]]
+Based on the [[field-guide-psilocybin-mushroom-species-identification]]

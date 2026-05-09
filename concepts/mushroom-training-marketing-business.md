@@ -12,8 +12,7 @@ tags:
 sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
-# [[oyster-mushroom-marketing-economics]] and Business Development
-Mushroom cultivation is ultimately a business enterprise, and the FAO training manual
+# [[mushroom-cultivation]] is ultimately a business enterprise, and the FAO training manual
 emphasizes that marketing and business management skills are as important as cultivation
 techniques. The manual's three-in-one training approach combines rehabilitation, mushroom
 cultivation, and enterprise development into a single integrated program. This page covers
@@ -54,47 +53,7 @@ for certain mushrooms, so farmers should plan their production calendar accordin
 The manual provides a step-by-step procedure for launching a mushroom production farm:
 1. Identify location for the mushroom house: make sure the land is above flooding level
    and offers good ventilation
-2. Set up [[mushroom-training-mushroom-house-construction]] and equipment
-3. Buy raw materials: start by buying already inoculated mushroom bags. A minimum of 1,000
-   bags is both feasible and easy to manage for beginners
-4. Maintain the mushroom house: keep it clean to reduce disease and pest, constantly
-   monitor humidity and light
-5. Check for contamination and disease at least twice a week
-6. Check for pests at least twice a week
-7. Harvest mushrooms at least twice a day to collect only young and strong mushrooms
-8. Implement sale and marketing strategies
-## Initial Investment
-The manual provides cost estimates for starting a small mushroom farm in Thailand:
-| Item | Cost (Baht) |
-|------|-------------|
-| Mushroom house 3m x 4m (holds 2,000 bags, 2 years) | 500 to 2,000 |
-| 1,000 mushroom bags (good for 3 months) | 3,500 |
-| Total minimum investment | 4,000 to 5,500 |
-For farmers who wish to make their own bags, additional equipment includes 200-liter oil
-drums (400 to 700 Baht), gas tank and burner (2,000 to 3,000 Baht, optional), other tools
-(1,000 Baht), and optionally a cement floor (4,000 Baht). Compacted earth can be used for
-free.
-## Financial Record Keeping
-Simple yet accurate accounting must be kept on a daily basis. The manual recommends keeping
-all moneys through a bank account for close monitoring. Required financial records include:
-1. Monthly cash flow statement (daily basis: date, expenses, income, balance, comments)
-2. Inventory book (raw materials, purchase prices, dates, supplier names)
-3. Mushroom sales record (all daily sales)
-4. Raw materials sales record (materials sold to other buyers)
-5. Credit control system (with payment due dates)
-6. Petty cash voucher system
-7. Cash book (bank inflows and outflows)
-Trainees with mental disabilities are also capable of basic bookkeeping and developing
-marketing strategies, according to the manual's experience.
-## Profitability Analysis
-The manual provides detailed profitability projections. With a sales price of 25 Baht per
-kilogram and a yield of 250 grams per bag:
-| Number of Bags | Monthly Income (Buying Bags) | Monthly Income (Making Bags) |
-|----------------|------------------------------|------------------------------|
-| 1,000 | 750 Baht net profit | 1,333 Baht net profit |
-| 3,000 | 2,250 Baht net profit | 4,000 Baht net profit |
-| 6,000 | 4,500 Baht net profit | 8,000 Baht net profit |
-See [[mushroom-training-cost-profit-analysis]] for detailed cost
+2. Set up [[mushroom-training-cost-profit-analysis]] for detailed cost
 breakdowns per bag and justification of all calculations.
 ## Collaboration and Partnerships
 The manual recommends collaborating with various organizations:
@@ -108,3 +67,22 @@ The manual recommends collaborating with various organizations:
 Mushrooms can be processed into various products for additional income:
 ## See Also
 - [[mushroom-training-mushroom-processing]]
+## Practical Considerations
+
+Successful implementation of Mushroom Marketing and Business Development requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -123,8 +123,6 @@ them an efficient use of harvested water.
 
 ## Related Concepts
 
-- [[solomon-irrigation-systems-sprinkler-design]]
 - [[solomon-irrigation-water-scarce]]
-- [[solomon-drought-gardening-and-water-conservation]]
 - [[solomon-watering-and-dry-farming]]
 - [[solomon-self-sufficiency-garden-production]]

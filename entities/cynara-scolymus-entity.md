@@ -17,9 +17,7 @@ prized since antiquity for both culinary and medicinal applications. Beyond
 its value as a gourmet vegetable, artichoke leaf extract is one of the
 best-documented herbal hepatoprotective and choleretic agents, with
 clinically validated benefits for lipid metabolism, digestive function,
-and liver health. The plant is also an excellent [[permaculture]] species,
-providing ornamental structure, nectar for pollinators, and deep-rooted
-soil improvement. Globe artichoke is closely related to [[silybum-marianum]] (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
+and liver health. The plant is also an excellent [[silybum-marianum]] (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
 ## Taxonomy and Naming
 - **Kingdom:** Plantae
 - **Order:** Asterales
@@ -126,22 +124,6 @@ expression, contributing to anti-inflammatory effects.
   secondary buds follow on lateral shoots
 - **Companion planting:** Benefits from interplanting with nitrogen-fixing
   legumes; avoid planting near root crops that compete for deep soil
-  nutrients. For broader digestive herbal approaches, see [[digestive-herbs-and-bitters]].
-## Nutritional Value (per 100 g raw edible portion)
-| Nutrient | Amount | % Daily Value |
-|----------|--------|---------------|
-| Energy | 47 kcal | 2% |
-| Fiber | 5.4 g | 22% |
-| Vitamin K | 14.8 µg | 14% |
-| Vitamin C | 11.7 mg | 13% |
-| Folate | 68 µg | 17% |
-| Magnesium | 60 mg | 15% |
-| Potassium | 370 mg | 8% |
-| Iron | 1.3 mg | 7% |
-## See Also
-
-- [[mollison-tree-biomass-and-forest-as-living-entity]]
-- [[silybum-marianum]]
-- Cynara cardunculus (cardoon)
+  nutrients. For broader digestive herbal approaches, see [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[echinacea-purpurea]]
 - peppermint

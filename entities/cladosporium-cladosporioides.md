@@ -122,18 +122,11 @@ channeling energy to higher trophic levels.
 
 ## See Also
 
-- [[cladosporium-herbarum]]
-
 - [[lichen-air-quality-biomonitoring-sampling-protocols]]
 
-- [[cannabis-mold-and-mildew-prevention]]
+- [[soil-food-web-nutrient-cycling]]
 
-- [[the-soil-food-web]]
-
-- [[laccaria-laccata]] - ectomycorrhizal fungus in forest soil food webs
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus with low collembola palatability
-- [[suillus-luteus]] - ectomycorrhizal pine specialist
 - [[glomus-mosseae]] - arbuscular mycorrhizal fungus in grasslands
-- [[mycena-galopus]] - saprotroph with sulfite sensitivity
 - [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus in heathlands
 - [[paxillus-involutus]] - ectomycorrhizal species with heavy metal tolerance

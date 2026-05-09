@@ -119,11 +119,7 @@ Fukuoka saw this irreversibility as the most dangerous aspect of biotechnology â
 
 ## See Also
 
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
-- [[fukuoka-breakdown-japanese-agriculture]]
 - [[fukuoka-textdoc-food-synthesis-petrochemical]]
-- [[fukuoka-textdoc-vegetable-factory-hydroponic-critique]]
 - [[fukuoka-textdoc-energy-efficiency-natural-farming]]

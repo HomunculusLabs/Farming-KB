@@ -89,18 +89,11 @@ Nutrients can also be classified by their biochemical role:
 
 ## Related Topics
 
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]] -- the primary macronutrients
 - [[plant-enzymes-and-cofactors]] -- how micronutrients activate enzymes
-- [[von-liebig-law-of-the-minimum-and-fertilizer-history]] -- why trace amounts matter
-
 - [[plant-hormones-and-chemical-signaling-systems]]
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plant-nutrient-mobility-in-soil]]
 
-[[teaming-with-nutrients-essential-plant-nutrients]]
 [[teaming-with-nutrients-micronutrients-and-trace-elements]]
-[[teaming-with-microbes-soil-ph-and-biology]]
 [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
 [[teaming-with-nutrients-ph-testing-and-soil-amendment]]

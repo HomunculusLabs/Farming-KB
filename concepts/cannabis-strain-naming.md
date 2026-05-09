@@ -127,24 +127,13 @@ characteristics, and proven performance rather than relying on strain
 names alone. True breeding programs should maintain detailed records
 of crosses, selection criteria, and generation numbers to ensure
 genetic integrity regardless of the name attached.
-
 ## See Also
 
-- [[berry-white]]
 - [[cinnamon-toast-crunch]]
-- [[kali-snacks]]
 - [[sensi-star]]
-- [[zskittlez]]
-
 - [[durban-poison-cannabis-strain]]
 
-- [[miracle-alien-cookies]]
-
 - [[bubblegum]]
-- [[cap-junky]]
 - [[gsc-cannabis]]
-- [[jilly-bean]]
 - [[kali-mist]]
-- [[papaya-cannabis]]
-
 - [[cannabis-strain-guide-reference]]

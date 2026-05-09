@@ -20,11 +20,7 @@ sources:
 
 ## Overview
 
-Purple Kush is a pure indica [[cannabis-strain-guide-reference]] from Oakland, California,
-renowned for deep purple coloration, heavy body effects, and sweet
-earthy aroma.
-
-A cross betweenhindu-kushghani and [[hindu-kush]] — two landrace indica
+Purple Kush is a pure indica [[hindu-kush]] — two landrace indica
 lines from the Hindu Kush mountains — it won first place in the Indica
 category at the 2010 High Times Cannabis Cup.
 
@@ -62,20 +58,27 @@ Sweet, fruity inhale with grape and wild berry notes.
 Smooth, earthy exhale with hash-like qualities.
 Slight skunky aftertterpene-profile-chemotaxonomyish.
 
-## [[terpene-profile-chemotaxonomy]]
-
-- **[[myrcene]] (dominant):** 0.5–1.2% — sedative, earthy aroma.medicinal-mushroom-antioxidant-anti-inflammatorye:** (GDP):** Purple Kush × Big Bud; one of the most
+## [[myrcene]] (dominant):** 0.5–1.2% — sedative, earthy aroma.medicinal-mushroom-antioxidant-anti-inflammatorye:** (GDP):** Purple Kush × Big Bud; one of the most
 famous purple strains worldwide.
-- **[[purple-urkle]]:** Related phenotype from the same Northern California
-genetic pool; often cited as a sibling line.
-- **Purple Kush × OG Kush crosses:** Multiple breeders have combined
-these for increased potency.
-
-## Related Strains
-
-- **Hindu Kush:** Parent; pure landrace with earthy, hashy profile.
-- **Purple Afghani:** Parent; Afghani landrace with purple traits.
 - **[[granddaddy-purple]]:** Notable descendant with sweeter profile.
-- **[[bubba-kush]]:** Related Kush lineage with similar sedative effects.
 - **[[northern-lights]]:** Comparable pure indica with similar therapeutic
 applications.
+## Practical Considerations
+
+Successful implementation of purple kush requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

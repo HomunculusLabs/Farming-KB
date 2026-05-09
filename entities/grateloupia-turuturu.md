@@ -107,14 +107,9 @@ The genus is distinguished from other Halymeniaceae by its combination of cartil
 
 ## See Also
 
-- [[gracilaria-verrucosa]]
 - [[porphyra-umbilicalis]]
-- [[chondrus-crispus]]
 - [[ulva-lactuca]]
-- [[pyropia-yezoensis]]
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[kappaphycus-alvarezii]]
-- [[fucus-vesiculosus]]
 - [[fucus-serratus]]
 - [[laminaria-digitata]]

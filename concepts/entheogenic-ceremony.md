@@ -140,10 +140,11 @@ societies using hallucinogenic plants:
    or direct perception
 ## See Also
 
-- [[psilocybin-compound]] - the active compound in Psilocybe mushrooms used in
-  Mazatec ceremonies
 - [[harmala-alkaloids-and-ayahuasca-preparation]] - the Amazonian decoction used in South American
   entheogenic rituals
-- [[ibogaine]] - the anti-addiction alkaloid from Tabernanthe iboga
 - [[set-and-setting]] - the framework for understanding how context shapes
   psychedelic experience
+
+## See Also
+
+- [[entheogenic-ceremony-preparation]]

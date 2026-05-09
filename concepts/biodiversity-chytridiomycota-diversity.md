@@ -113,8 +113,7 @@ routinely overlooked in standard fungal inventories. Special
 techniques, including baiting with substrata such as pollen,
   chitin, or cellulose, and direct microscopic examination
   of water samples and soil extracts, are required for
-  detection. See [[biodiversity-fungi-aquatic-environments]]
-  and [[biodiversity-fungi-molecular-methods]] for discussion
+  detection. See [[biodiversity-fungi-molecular-methods]] for discussion
   of sampling approaches.
 
 ## Key Conclusions
@@ -131,8 +130,6 @@ techniques, including baiting with substrata such as pollen,
 
 ## See Also
 
-- [[biodiversity-zygomycota-diversity]]
 - [[biodiversity-ascomycete-diversity-taxonomy]]
-- [[biodiversity-fungi-aquatic-environments]]
 - [[fungal-diversity-extreme-environments]]
 - [[biodiversity-fungi-molecular-methods]]

@@ -20,31 +20,6 @@ Soil aggregates are clusters of mineral particles bound together by organic
 materials, biological agents, and physicochemical forces. Their formation and
 stability are critical determinants of soil health, water infiltration, erosion
 resistance, and carbon sequestration. Fungi, particularly arbuscular
-[[mycorrhizal-fungi]] (AMF) and saprotrophic species, play central roles in
-binding soil particles into stable aggregates through physical entanglement
-and production of biological glues.
-
-## Hyphal Binding of Soil Particles
-
-Fungal hyphae physically enmesh soil particles, creating the initial framework
-for aggregate formation. The extensive extraradical mycelial network of AMF
-extends several centimeters beyond the root zone, exploring soil volumes far
-greater than roots alone. This hyphal network wraps around mineral particles,
-binding them together through:
-
-- **Physical entanglement**: Hyphae growing between and around soil particles
-  create a three-dimensional mesh that resists displacement by water or wind.
-  The tensile strength of individual hyphae, combined with network
-  connectivity, provides substantial mechanical stabilization.
-- **Adhesion**: Hyphal surfaces secrete polysaccharide-rich mucilages that
-  adhere to mineral particle surfaces. These extracellular polymeric substances
-  (EPS) include glucans, galactomannans, and glycoproteins that act as bonding
-  agents at the fungus-mineral interface.
-- **Root-hyphae-soil bridges**: AMF hyphae connect roots to soil aggregates,
-  forming continuous organic pathways that stabilize soil structure at the
-  root-soil interface. The hyphal connections between adjacent aggregates
-  contribute to macroporosity and soil structural integrity.
-
 [[saprotrophic-fungi]] also contribute to aggregate formation, particularly through
 decomposition of organic residues and incorporation of decomposed material into
 mineral soil horizons. Their hyphal networks in litter layers create
@@ -114,26 +89,9 @@ Key factors mediating fungal effects on aggregate water stability include:
   kaolinite or sand-dominated soils.
 - **Land management**: Tillage disrupts hyphal networks and reduces GRSP
   concentrations, while no-till and conservation agriculture practices preserve
-  fungal contributions to soil structure. This has implications for [[singh-composted-fungal-biomass-heavy-metal-immobilization]] strategies in
-  agricultural settings.
-
-## Implications for Remediation
-
-Fungal-mediated aggregate formation influences contaminant behavior in several
-ways:
-
-- **Physical protection**: Contaminants bound within stable aggregates are
-  less accessible to leaching, erosion, and biological degradation.
-- **Microhabitat creation**: Aggregates create heterogeneous microenvironments
-  with varying redox conditions, moisture levels, and substrate availability
-  that support diverse microbial communities involved in pollutant
-  transformation.
-- **Root zone stability**: Well-aggregated soils provide better conditions for
-  plant growth in remediation applications, supporting [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]].
+  fungal contributions to soil structure. This has implications for [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]].
 
 ## Related Concepts
 
-- [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]
 - [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
-- [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]

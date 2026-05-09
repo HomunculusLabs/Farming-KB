@@ -30,10 +30,7 @@ clinical dose, while susceptible patients may react within the therapeutic range
 
 ## Chemical Bioactivation
 Many idiosyncratic reactions begin with metabolic bioactivation, especially in the liver
-where [[cytochrome-p450-enzyme-system]] activity is high.
-A parent compound can be converted into an electrophilic intermediate such as a quinone
-imine, epoxide, iminium ion, or acyl glucuronide.
-Reactive intermediates may be detoxified by [[glutathione-biochemistry-and-redox-biology]], hydrolysis, or conjugation before they damage cells.
+where [[glutathione-biochemistry-and-redox-biology]], hydrolysis, or conjugation before they damage cells.
 Risk increases when a metabolite persists long enough to covalently modify proteins,
 lipids, nucleic acids, or transporter systems.
 
@@ -128,9 +125,8 @@ Better models of immune tolerance may explain why most exposed people remain hea
 even when a drug forms reactive intermediates.
 
 ## Related Concepts
-Idiosyncratic toxicity connects [[reactive-metabolites-and-bioactivation-toxicology]]
-with [[phase-ii-conjugation-reactions-drug-metabolism]].
-It also overlaps with [[first-pass-metabolism-and-oral-bioavailability]], glutathione and cellular antioxidant defense, and [[reactive-oxygen-species-and-oxidative-stress]].
+Idiosyncratic toxicity connects [[phase-ii-conjugation-reactions-drug-metabolism]].
+It also overlaps with [[reactive-oxygen-species-and-oxidative-stress]].
 The concept helps distinguish predictable pharmacology from rare immune or stress-
 mediated organ injury.
 

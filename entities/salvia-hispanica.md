@@ -108,14 +108,8 @@ The crop fits well in rotation with legumes and cereals in tropical farming syst
 
 ## See Also
 
-- [[moringa-oleifera]]
 - [[ocimum-basilicum]]
-- [[nepeta-cataria]]
 - [[mentha-piperita]]
-- [[leonurus-cardiaca-entity]]
 - [[robinia-pseudoacacia]]
-- [[tithonia-diversifolia]]
-- amaranthus caudatus
 - [[calliandra-calothyrsus]]
-- [[leucaena-leucocephala]]
 - [[prosopis-juliflora]]

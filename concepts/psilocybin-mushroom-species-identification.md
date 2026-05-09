@@ -127,13 +127,8 @@ based solely on visual identification from a book or website.
 
 ## Related
 
-- [[psilocybin-mushroom-cultural-artifacts]] Concepts
-
 - [[magic-mushroom-global-distribution]]
 - psilocybin mycology chemistry
-- [[stamets-mushrooms-world-identification-safety]]
 - [[spore-print-collection]]
-- [[trichoderma-forest-green-mold-guide]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
-- [[agar-culture-techniques-detailed]]
 - [[sterile-technique-mushroom-cultivation]]

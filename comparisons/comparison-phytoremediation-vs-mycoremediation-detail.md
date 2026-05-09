@@ -21,34 +21,6 @@ operate through different biological mechanisms and are suited to different
 types of contamination and site conditions.
 
 ## Phytoremediation
-[[phytoremediation]]
-Phytoremediation encompasses several distinct mechanisms for handling
-different contaminant types. Phytoextraction uses hyperaccumulator plants to
-take up heavy metals (lead, cadmium, nickel, arsenic) into above-ground
-tissues, which are then harvested and processed for metal recovery or safe
-disposal. Phytodegradation employs plant enzymes to break down organic
-contaminants like petroleum hydrocarbons, chlorinated solvents, and pesticides
-directly within plant tissues. Rhizodegradation leverages root exudates to
-stimulate microbial breakdown of organic contaminants in the soil zone.
-Additional mechanisms include phytostabilization, which immobilizes
-contaminants in place through root-zone pH modification and physical binding
-to prevent migration, and rhizofiltration, which uses plant roots to absorb
-and precipitate contaminants from water. Aquatic plants like water hyacinth
-and duckweed are particularly effective for rhizofiltration applications.
-Phytoremediation costs roughly 10-50% less than conventional excavation and
-disposal methods, making it attractive for large-scale sites with moderate
-contamination levels.
-The limitations of phytoremediation are significant. It is restricted to
-shallow contamination within the root zone (typically 1-3 meters depth),
-making it ineffective for deep soil or groundwater contamination. Plant growth
-is seasonal in most climates, limiting treatment to the growing season.
-Contaminant concentration must be within plant tolerance levels — highly toxic
-sites may kill plants before they can remediate. The process is also slower
-than conventional methods, often requiring years rather than months, and
-harvested biomass from phytoextraction requires proper disposal as hazardous
-material.
-
-## Mycoremediation
 [[cotter-mycoremediation-overview]]
 Mycoremediation uses fungi, specifically mushrooms and their mycelial
 networks, to break down environmental pollutants. From Cotter's "Organic
@@ -129,6 +101,5 @@ types than either method alone.
 
 ## See Also
 - comparison phytoremediation vs mycoremediation detail
-- [[comparison-biochar-remediation-vs-phytoremediation]]
 - [[comparison-bioaugmentation-vs-biostimulation]]
 - [[comparison-in-situ-vs-ex-situ-bioremediation]]

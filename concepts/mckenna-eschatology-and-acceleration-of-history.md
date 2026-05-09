@@ -17,10 +17,7 @@ type: concept
 
 # Tryptamine Eschatology and the Acceleration of History
 
-Terence McKenna proposed that [[tryptamine-hallucinogens-and-consciousness|tryptamine]] hallucinogens provide experiential access
-to an understanding of time and historical process that radically differs from the
-conventional scientific view. Through his experiences with [[mckenna-dmt-experience-and-hyperspace|DMT]], [[psilocybin-compound]], and
-[[mckenna-ayahuasca-and-amazonian-shamanism|ayahuasca]], McKenna developed the idea that history is not the gradual, linear
+Terence McKenna proposed that [[mckenna-dmt-experience-and-hyperspace|DMT]], [[mckenna-ayahuasca-and-amazonian-shamanism|ayahuasca]], McKenna developed the idea that history is not the gradual, linear
 unfolding that physicists describe but rather a "shockwave of eschatology," a process
 of accelerating transformation drawing all human becoming toward a culminating point.
 
@@ -137,13 +134,9 @@ The tryptamine compounds provide evidence for this view because of the quantum
 mechanical correlates to hallucinogenesis. If one atom on the molecular ring of an
 inactive compound is moved, the compound becomes highly active. For McKenna, this
 was "a perfect proof of the dynamic linkage at the formative level between quantum
-mechanically described matter and mind." The implications extend beyond
 ## See Also
 
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- tryptamine hallucinogens and consciousness
-- [[mckenna-food-of-the-gods-thesis]] -- McKenna's stoned ape and food of the gods thesis
 - [[mckenna-exteriorization-soul-translinguistic-matter]] -- exteriorization of the soul concept
-- [[tryptamine-consciousness-theory]] -- tryptamine consciousness theory
 - [[mckenna-dmt-experience-and-hyperspace]] -- DMT experience and hyperspace
 - [[mckenna-archaic-revival]] -- the archaic revival movement
-- [[mckenna-language-and-reality]] -- language and reality in McKenna's philosophy

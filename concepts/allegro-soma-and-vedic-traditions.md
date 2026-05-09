@@ -72,25 +72,11 @@ The Greek Dionysiac rites, the Roman Bacchanalia, the Celtic mushroom traditions
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[sacred-mushroom-and-the-cross]]. While mainstream Assyriologists and biblical scholars have largely rejected his philological methods, the broader question of psychoactive plant use in ancient Near Eastern religion continues to receive serious scholarly attention. The discovery of psychoactive substances at archaeological sites and the analysis of ritual plant residues have opened new avenues for investigating the role of entheogens in ancient religion that were unavailable in Allegro's time.
-
-Critics argue that Allegro's methodology relies on selective citation of Sumerian and Hebrew roots, ignoring established philological standards. Supporters note that his work, even where flawed, raised important questions about the literal reading of ancient religious texts and the possible role of psychoactive substances in the development of religious concepts that deserve further investigation.
-
-## Key Points
-
-- Death-resurrection myths across the ancient Near East share structural similarities with mushroom life cycles
-- Allegro connected Sumerian and Hebrew terminology for life, death, and resurrection to mushroom-related roots
-- The pattern extended from Mesopotamian Tammuz/Inanna cults through Greek Dionysian mysteries to Christian resurrection narratives
-- The goddess-god dynamic in these myths was interpreted as reflecting the earth-mushroom relationship
-- The [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
-- [[sacred-mushroom-and-the-cross]]
 - [[allegro-philological-methodology]]
 - allegro soma and vedic traditions
-- [[allegro-fungal-iconography-in-ancient-art]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
-- [[controversy-sacred-mushroom-theory]]
 - [[sacred-mushroom-hypothesis]]
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[rig-veda-soma-hymns-amanita-muscaria]]

@@ -21,41 +21,6 @@ offs that depend on scale, climate, labor availability, and market goals.
 
 ## Monoculture
 
-[[jadam-monoculture-critique]]
-
-Monoculture is the dominant global farming model, growing a single crop
-variety across large areas for maximum mechanization and efficiency.
-Conventional agronomy holds that repeated monoculture degrades soil through
-nutrient depletion, pathogen buildup, and erosion, necessitating crop
-rotation, synthetic fertilizers, and pesticides. The economic logic is
-clear: uniform fields allow tractor passes, standardized harvest timing,
-and commodity market access at scale. For grain farmers selling into
-commodity markets, monoculture provides the predictability and volume that
-buyers require.
-
-JADAM offers a contrarian perspective that challenges this foundational
-assumption. Youngsang Cho argues that monoculture degradation results not
-from growing one species but from removing crop residues and disrupting
-mineral cycling. Nature grows monocultures in the wild for centuries
-without soil collapse. The key insight is that crop residue contains
-precisely the nutrients that the crop which produced it needs. By returning
-all residues to the soil and maintaining microbial diversity, JADAM claims
-farmers can sustain monoculture without rotation, eliminating the need for
-complex crop planning while maintaining soil health.
-
-Monoculture's operational strengths are significant. A single crop
-simplifies every aspect of farm management: planting, fertilizing, pest
-scouting, harvesting, and marketing all follow one schedule. Equipment can
-be specialized for one crop, reducing capital costs per acre. Pest and
-disease identification is straightforward when only one host species is
-present. However, the uniform host environment also concentrates pest and
-disease pressure, creating epidemics that can devastate entire fields. Soil
-degradation under conventional monoculture management is well-documented,
-with organic matter declining and soil structure deteriorating without
-rotation or cover cropping.
-
-## Polyculture
-
 [[gaias-garden-polyculture-design-guidelines]]
 
 Polyculture interplants multiple species to occupy complementary ecological
@@ -141,10 +106,7 @@ simplicity with polyculture's soil health principles. Crop rotation between
 monoculture cash crops and diverse cover crop mixtures captures some of
 polyculture's soil benefits while maintaining operational simplicity during
 the cash crop phase.
-
 ## See Also
 
-- [[comparison-companion-planting-vs-polyculture]]
 - [[comparison-polyculture-vs-intercropping]]
-- [[comparison-food-forest-vs-polyculture]]
 - [[comparison-green-manure-vs-cover-crops]]

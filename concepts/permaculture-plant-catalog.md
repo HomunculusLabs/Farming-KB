@@ -101,9 +101,7 @@ Reference table of plants organised by function. Sourced primarily from "Permacu
 
 Key species for fire-prone areas: carob, black locust, English oak, holm oak, cork oak, poplar, willow, elm, hazel, hawthorn, linden, sweet chestnut, Ginkgo biloba, Paulownia, olive, photinia, Zelkova. See full list in source (150+ species).
 
-## Related
-- [[solidago-canadensis]]
-- [[epilobium-angustifolium]] Pages
+## Related Pages
 - [[dynamic-accumulators]] -- Detailed accumulator profiles by nutrient
 - [[cover-cropping-guide]] -- Cover crop selection and management
 - [[food-forest-layers-and-species]] -- Species by forest layer

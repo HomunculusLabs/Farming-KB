@@ -16,27 +16,7 @@ of soil particles, secretion of organic binding agents, and precipitation of
 secondary minerals, fungi create and stabilize soil aggregates that are
 fundamental to soil fertility, water retention, and carbon sequestration.
 These contributions are among the most important but underappreciated
-ecosystem services provided by fungi in the environment [[fungal-soil-aggregation]] structure.
-
-## Physical Mechanisms of Soil Binding
-
-### Hyphal Enmeshment
-
-Fungal hyphae physically enmesh soil particles, altering their alignment
-and binding them together through a network of filamentous structures. The
-tangled growth habit of mycelium creates a three-dimensional scaffold that
-holds soil particles in place. Saprotrophic basidiomycetes that form
-extensive mycelial cords and networks are particularly effective at this
-physical stabilization. The persistent networks formed by cord-forming fungi
-can bind soil particles over large areas and extended time periods.
-
-### Mycorrhizal Hyphal Networks
-
-Mycorrhizal fungi contribute significantly to soil aggregation through
-their extensive external mycelial networks. Arbuscular mycorrhizal (AM)
-fungi produce main arterial hyphae in soil with highly thickened cell walls
-that are much less palatable to fungal-feeding invertebrates than
-[[saprotrophic-fungi]]. These persistent hyphal structures provide long-term
+ecosystem services provided by fungi in the environment [[saprotrophic-fungi]]. These persistent hyphal structures provide long-term
 physical binding of soil particles. The external mycelium of AM fungi
 represents a major component of soil microbial biomass, directly adding
 chemically distinct carbon inputs to soil (chitin cell walls rather than
@@ -138,7 +118,5 @@ change, climate change, and soil management practices.
 
 ## See Also
 
-- [[fungi-in-the-environment-extremophilic-fungi]]
 - [[fungi-in-the-environment-soil-fungal-community-structure]]
-- [[fungi-in-the-environment-fungal-ecosystems]]
 - [[fungi-in-the-environment-fungal-mineral-weathering]]

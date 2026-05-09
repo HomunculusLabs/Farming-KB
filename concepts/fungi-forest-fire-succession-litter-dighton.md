@@ -120,11 +120,7 @@ These changes would alter the demands placed on mycorrhizal communities — redu
 
 ## Related Pages
 
-- [[ectomycorrhizal-fungal-ecology]]
 - [[ectomycorrhizal-ecology]]
-- [[fungal-biodiversity-forest-floor]]
 - [[fungal-biodiversity-forest-ecosystems]]
-- [[fungal-community-ecology]]
 - [[fungal-communities-succession]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]

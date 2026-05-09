@@ -36,21 +36,7 @@ A comparison of two regenerative agriculture systems that build soil fertility a
 
 ### Hugelkultur
 
-[[hugelkultur]] (German for "mound culture") originates from Eastern European and alpine farming traditions where raised beds were constructed from woody debris, sod, and organic matter. Austrian farmer **Sepp Holzer** popularized the technique globally through his permaculture work on the Krameterhof farm at 1,500m elevation. The system is founded on the principle that buried logs and branches act as a long-term water reservoir and nutrient bank as they decompose. It is inherently a passive system — once built, the mound largely manages itself through natural decomposition cycles.
-
-### Syntropic Agriculture
-
-Syntropic agriculture was developed by **Ernst Götsch**, a Swiss-born farmer who moved to Brazil in the 1980s and spent decades restoring degraded farmland in the Atlantic Forest region. The system is grounded in the ecological principle of **natural succession** — the process by which ecosystems evolve from pioneer species to climax communities. Götsch's insight was that farmers can actively direct succession to produce food, timber, and fiber while simultaneously regenerating soil and ecosystem health. Species are planted in carefully designed consortia (groups) across multiple strata, and regular pruning drives biomass cycling and light optimization for understory crops.
-
-## Core Techniques and Implementation
-
-**Hugelkultur** construction involves excavating a trench (optional but common), filling it with logs, branches, and woody debris, then layering smaller organic matter, compost, and topsoil. The mound is typically 3–6 feet tall. Nitrogen-rich materials (green manure, compost, or animal manure) are layered between wood to balance the high carbon-to-nitrogen ratio of woody debris. Beds can be oriented on-contour for water harvesting.
-
-**Syntropic agriculture** implementation begins with site analysis and succession planning. Pioneer species (fast-growing, nitrogen-fixing, sun-loving) are planted alongside crop species at high density. Species are arranged in vertical strata — emergent, high canopy, low canopy, shrub, herbaceous, and ground cover. Regular **pruning** is the central management action: cutting biomass from upper strata accelerates succession, opens light for lower strata, and provides organic matter for soil surface mulching.
-
-## Soil Building Approaches
-
-Hugelkultur relies on the fungal decomposition of buried wood over 5–10+ years. As logs break down, they create humus-rich soil, [[biochar]]-like porous structures, and release nutrients slowly. Mycorrhizal networks develop along the decomposing wood, connecting plant roots to a vast nutrient exchange system. The approach is carbon-sequestering at a meaningful scale.
+[[biochar]]-like porous structures, and release nutrients slowly. Mycorrhizal networks develop along the decomposing wood, connecting plant roots to a vast nutrient exchange system. The approach is carbon-sequestering at a meaningful scale.
 
 Syntropic agriculture builds soil through **surface organic matter cycling**. Pruned material is returned as mulch, creating a constant feedstock for soil biology. Unlike hugelkultur's buried approach, syntropic systems concentrate organic matter at the soil surface where decomposition is fastest and most biologically active. The emphasis is on maintaining continuous ground cover and active root networks.
 
@@ -62,7 +48,7 @@ Syntropic agriculture manages water through dense canopy cover (reducing evapora
 
 ## Planting Strategies and Species Selection
 
-Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. Perennial vegetables and [[food-forests]] integrate naturally.
+Hugelkultur is relatively flexible — most garden vegetables, herbs, berries, and small fruit trees perform well on hugel mounds. The decomposing wood favors plants that prefer well-drained, moisture-retentive soils. Perennial vegetables and food forests integrate naturally.
 
 Syntropic agriculture requires deliberate species selection based on **succession phase** and **functional role**. Every species serves at least one purpose: biomass production, nitrogen fixation, pest confusion, microclimate creation, or direct harvest. Common syntropic species include eucalyptus, inga, banana, papaya, manioc, beans, and various timber trees — though species lists are adapted to local ecology and climate.
 
@@ -124,14 +110,7 @@ Yes — these systems are complementary. A hugel mound can serve as the foundati
 
 ## See Also
 
-- [[hugelkultur]]
-- Syntropic Agriculture
-- Food Forests
 - [[agroforestry]]
-- [[biochar]]
-- Compost
-- Natural Succession
 - [[keyline-design]]
-- [[permaculture]]
 - [[agroforestry]]
 - [[decomposition]]

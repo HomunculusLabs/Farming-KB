@@ -76,19 +76,11 @@ The cost of bioslurry treatment is higher per unit volume than passive treatment
 
 ## See Also
 
-[[cotter-mycoremediation-overview]]
-
 [[ectomycorrhizal-remediation]]
-
-[[mycoremediation-bioreactor-design]]
 
 [[mycoremediation-of-explosives]]
 
-[[mycoremediation-of-pahs]]
-
 [[bioaugmentation-strategies]]
-
-[[biostimulation-techniques]]
 
 [[fungal-bioreactor-types]]
 

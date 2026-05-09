@@ -16,38 +16,13 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, 4-hydroxy substituted, N,N-dipropyl
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: Unknown (insufficient data)
-
-- Duration: Unknown
-
-## Qualitative Effects
-
-At 20 mg (oral): "Possible threshold, nothing more." This single report suggests
-activity is nearby but has not been adequately characterized.
-
-## Synthesis
-
-From 4-acetoxyindole via oxalyl chloride to the glyoxyl chloride intermediate,
-then treatment with dipropylamine. The resulting glyoxylamide (mp 130-131°C)
-is reduced with LAH in THF. The product 4-HO-DPT (mp 96-97°C) is obtained
-in 51% yield.
-
-## Pharmacological Notes
-
-The non-hydroxylated analogue 4 ho dpt entity tihkal is well-established
-as an active psychedelic, and it would be difficult to imagine a loss of
-potency from incorporating the "[[psilocin]] signature" 4-hydroxy group. The
+- Source: [[psilocin]] signature" 4-hydroxy group. The
 threshold response at 20 mg suggests activity is nearby, but the compound
 is difficult to synthesize, which may explain the lack of further human trials.
 
 This compound fits the general pattern of 4-hydroxy tryptamines being active
 in the 10-20 mg range, though the dipropyl substitution may shift the dosage
-upward relative to the dimethyl ([[psilocin-entity-tihkal]]) or
-diethyl ([[det-entity-tihkal]]) variants.
+upward relative to the dimethyl ([[det-entity-tihkal]]) variants.
 
 ## Chemical Family and Historical Context
 
@@ -125,7 +100,7 @@ modulating qualitative effects more than quantitative potency.
 
 ## Legal Status
 
-4-HO-DPT is not specifically scheduled in most jurisdictions. As a hydroxylated tryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin-compound]] (both controlled in many countries). In the US, the Federal Analogue Act could apply given structural similarity to scheduled tryptamines. The compound's extreme rarity has kept it below regulatory attention.
+4-HO-DPT is not specifically scheduled in most jurisdictions. As a hydroxylated tryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] (both controlled in many countries). In the US, the Federal Analogue Act could apply given structural similarity to scheduled tryptamines. The compound's extreme rarity has kept it below regulatory attention.
 
 ## Cultural and Historical Significance
 

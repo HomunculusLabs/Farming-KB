@@ -1,7 +1,7 @@
 ---
 title: "Invisible Structures"
 created: 2026-04-28
-tags: [permaculture, invisible-structures, social-design, patterns]
+tags: [[permaculture, invisible-structures, social-design, patterns]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
@@ -137,8 +137,6 @@ able to do the same with invisible structures. Both the
 visible and invisible must work together as a unified design.
 
 ## See Also
-- [[pdc-invisible-structures-and-social-design]]
 - [[permaculture-invisible-structures-economics]]
-- [[mollison-animal-integration-permaculture-design]]
 - [[permaculture-water-pond-systems-design-course]]
 - [[mollison-permaculture-community-legal-structure]]

@@ -135,9 +135,6 @@ framework:
 
 ## See Also
 
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-gastrointestinal-disorders]]
 - [[blesching-cannabis-sleep-disorders]]

@@ -35,8 +35,7 @@ veil that enclosed the entire immature fruiting body. These features
 are shared with the destroying angel (*Amanita virosa*), a pure white
 species that is equally deadly.
 
-Death caps and destroying angels resemble the [[paddy-straw-mushroom]]
-(*[[volvariella-volvacea]]*), widely cultivated in Asia. Vietnamese and
+Death caps and destroying angels resemble the [[volvariella-volvacea]]*), widely cultivated in Asia. Vietnamese and
 Laotian immigrants have been poisoned by this misidentification. In
 Ohio, a family added slices of a pure white mushroom to their soup; the
 poisoning was so severe that two young sisters required liver
@@ -81,7 +80,7 @@ truly unintended by evolution.
 
 ## Other Amanita Toxins
 
-The fly [[agar]]ic (*[[amanita-muscaria]]*) produces muscimol and ibotenic
+The fly [[amanita-muscaria-entity]]*) produces muscimol and ibotenic
 acid, compounds that excite and sedate the nervous system by binding to
 brain receptors. The visual hallucinations induced by this iconic red
 mushroom with white spots have been associated with Lewis Carroll's
@@ -92,25 +91,7 @@ intoxication.
 
 ## Other Dangerous Species
 
-The autumn skullcap (*[[galerina-autumnalis]]*) is a common wood-rotting
-fungus that contains amatoxins. This little brown mushroom (LBM) grows
-on fallen logs and is easily overlooked. Its fruiting bodies never
-exceed finger-length, yet contain the same lethal compounds as the death
-cap. The deadly galerina is particularly dangerous because it can be
-confused with the edible two-toned scalecap (*Pholiota mutabilis*).
-
-Webcap species (*Cortinarius*) contain compounds that destroy kidney
-cells and can induce renal failure. Symptoms may not appear for up to
-three weeks after ingestion. False morels produce a volatile toxin
-called gyromitrin and can be eaten safely only if cooked sufficiently
-to evaporate the toxin, a game of mushroom roulette that mycologist
-Dennis Benjamin questions the sanity of anyone who would play.
-
-## Identification Challenges
-
-The fundamental difficulty in preventing mushroom poisoning lies in the
-tremendous diversity of little brown mushrooms and the subtle
-differences between edible and deadly species. As [[john-ramsbottom]] wrote
+The autumn skullcap (*[[john-ramsbottom]] wrote
 in 1945, "there is only one practical way of distinguishing between
 edible and poisonous toadstools. This experimental method is sure, but
 the result may not profit a man." The safest approach is never to eat
@@ -118,13 +99,10 @@ any wild mushroom without expert guidance.
 
 ## See Also
 
-- [[amanita-phalloides]]
-
 - [[plants-of-the-gods-amanita-muscaria]]
-- [[rig-veda-soma-hymns-amanita-muscaria]]
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
 
-- [[mycotoxins]]([[mycotoxins]].md)
+- [[mycotoxins]].md)
 - [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
 - [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
 - [Phallus Impudicus (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)

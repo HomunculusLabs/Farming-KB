@@ -27,33 +27,7 @@ has been largely replaced by a unified system based on
 molecular phylogeny, the mitosporic forms remain the
 primary basis for identification and enumeration of fungi
 in most ecological studies. Questions about the
-[[fungal-species-concept-and-taxonomy]] directly affect
-how mitosporic diversity is estimated.
-## Magnitude of Diversity
-Mitosporic fungi represent the largest and most diverse
-component of known fungal species. Of the approximately
-72,000 accepted fungal species, the majority are known
-only from their mitosporic states. The hyphomycetes alone
-account for approximately 8,000 to 10,000 described
-species, while the coelomycetes include approximately
-5,000 to 7,000 species. However, these numbers represent
-only a fraction of the true diversity. Estimates of total
-fungal species range from 1.5 million to over 5 million,
-and mitosporic fungi would constitute the majority of
-these.
-## Diversity on Dead Plant Tissue
-Dead and dermal (litter, wood, and other senescent
-plant material) supports an enormous diversity of
-mitosporic fungi. These fungi are the primary decomposers
-of plant litter in most terrestrial ecosystems and play
-critical in nutrient cycling. The species composition
-of mitosporic fungal communities on dead plant tissue
-varies with:
-- **Substrate type**: Different plant species support
-  distinct fungal communities. The chemistry of the
-  substrate, particularly lignin and cellulose content,
-  influences which fungi can colonize.
-- **Stage of [[decomposition]]**: Early successional fungi
+[[decomposition]]**: Early successional fungi
   are replaced by later colonizers as the substrate
   chemistry changes.
 - **Moisture and temperature**: Environmental gradients
@@ -104,21 +78,5 @@ have been synonymized with their sexual counterparts.
 ### Cryptic Species
 Molecular studies have revealed that many morphologically
 defined mitosporic "species" actually comprise multiple
-[[cryptic-species]] that are reproductively isolated but
-morphologically indistinguishable. This is particularly
-common in widespread species and in groups with simple
-morphology.
-### Inadequate Sampling
-Most of the Earth's surface has never been systematically
-surveyed for fungi. Tropical regions, which are believed
-to harbor the greatest fungal diversity, are particularly
-undersampled. Even in well-studied temperate regions,
-most surveys target specific substrates or habitats,
-leaving large gaps in our knowledge.
-## Hyphomycetes on Dead Plant Material
-The hyphomycetes are the most frequently encountered
-mitosporic fungi on dead plant tissue. Common genera
-include Alternaria, Cladosporium, Epicoccum, Fusarium,
-## See Also
-- [[alpha-beta-gamma-diversity-fungi]]
+[[alpha-beta-gamma-diversity-fungi]]
 - [[fungal-species-estimation-methods-total-diversity]]

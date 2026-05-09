@@ -139,7 +139,7 @@ suggest rapid and sustained reductions in default mode network activity.
 
 ## See Also
 
-- [[tryptamine-family-overview]]
 - [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
-- [[psychedelic-compounds-reference]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]
+
+See also: [[peyote-and-psychoactive-cacti]]

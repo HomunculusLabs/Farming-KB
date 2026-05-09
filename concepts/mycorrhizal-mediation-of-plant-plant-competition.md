@@ -3,7 +3,7 @@ title: Mycorrhizal Mediation of Plant-Plant Competition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Mediation of Plant-Plant Competition
@@ -84,14 +84,7 @@ The use of fungicides or soil management practices that disrupt mycorrhizal netw
 
 ## Implications for Invasive Species Management
 
-Invasive plants may exploit mycorrhizal networks to gain advantages over native vegetation. Some invasive species receive carbon or nutrients from native plants through shared CMNs, effectively parasitizing the existing community. Others may disrupt native mycorrhizal networks by introducing incompatible fungal species or by being non-mycorrhizal and depleting shared resources. Understanding these [[mycorrhizal-networks]] dynamics is crucial for developing effective invasive species management strategies that account for belowground interactions.
-
-## See Also
-
-- [[mycorrhizal-effects-on-plant-community-composition]]
-- [[common-mycorrhizal-networks]]
+Invasive plants may exploit mycorrhizal networks to gain advantages over native vegetation. Some invasive species receive carbon or nutrients from native plants through shared CMNs, effectively parasitizing the existing community. Others may disrupt native mycorrhizal networks by introducing incompatible fungal species or by being non-mycorrhizal and depleting shared resources. Understanding these [[mycorrhizal-effects-on-plant-community-composition]]
 - [[arbuscular-mycorrhizal-networks]]
-- [[mycorrhizal-networks-and-forest-communication]]
 - [[mycorrhizal-specificity-and-host-range]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[ectomycorrhizal-ecology]]

@@ -121,7 +121,9 @@ Lactic acid bacteria thrive on the ammonia released during decomposition. By con
 
 ## See Also
 
-- [[natural-farming-imo-collection-and-cultivation]]
 - [[natural-farming-knf-overview]]
-- [[natural-farming-ohn-preparation]]
 - [[natural-farming-fpj-preparation]]
+
+## See Also
+
+- [[natural-farming-ohn-preparation]]

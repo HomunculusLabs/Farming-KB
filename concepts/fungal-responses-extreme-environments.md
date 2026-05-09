@@ -138,9 +138,6 @@ those on exposed litter in the same desert.
 
 ## See Also
 
-- [[psychrophilic-fungi]]
 - [[xerophilic-xerotolerant-fungi]]
-- [[halophilic-fungi]]
 - [[acidophilic-alkalophilic-fungi]]
-- [[rock-inhabiting-microcolonial-fungi-detail]]
 - [[gadd-fungal-extreme-environments]]

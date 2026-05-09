@@ -19,15 +19,13 @@ lesson for agriculture. Heyerdahl wanted to prove that ancient Egyptian
 sailors could have reached the New World in traditional boats made of
 bundled papyrus stalks. He and his crew studied fresco paintings, three
 to four thousand years old, on tomb walls of pyramids for instruction
-on how to construct the crafts. [[allegro-death-and-resurrection-in-the-mushroom-cult]] paintings there was one rope
-depicted, extending from the in-curled tip [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] stern down to the
-afterdeck, for which they could discern no purpose according [[turner-brief-history-psychedelics-ancient-to-modern]]
-physics. [[allegro-plants-and-drugs-in-the-ancient-world]] ensuing construction, it was left out. Ra I collapsed
+on how to construct the crafts. [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] stern down to the
+afterdeck, for which they could discern no purpose according [[allegro-plants-and-drugs-in-the-ancient-world]] ensuing construction, it was left out. Ra I collapsed
 in mid-ocean for lack of that rope. Their second attempt, Ra II, with
 the newly appreciated rope in its assigned place, completed the voyage
 without a hitch.
 
-[[allegro-womans-part-in-the-creative-process]] story of agriculture's transition from [[weil-the-natural-mind-altered-states-normalcy]] knowledge of
+[[weil-the-natural-mind-altered-states-normalcy]] knowledge of
 the past to the chemical insults of the present, there was a part left
 out that is the rope's equivalent -- an unappreciated part without
 which the boat will fall apart. That crucial part is called "soil
@@ -40,8 +38,7 @@ the vital importance of soil organic matter. Some farmers saw the
 undesirable changes in their soil and the diminished health of their
 crops and livestock that followed the shift to chemical farming. Their
 appreciation for soil organic matter was reborn. This philosophy
-connects directly to [[coleman-season-extension-timeline-and-frost-protection]] and the
-broader [[holmgren-permaculture-principles-7-9]] of working with natural systems.
+connects directly to [[holmgren-permaculture-principles-7-9]] of working with natural systems.
 
 The organic pioneers realized that the farm is not a factory, but
 rather a human-managed microcosm of the natural world. Whether in
@@ -50,100 +47,66 @@ and renewed by the recycling of all plant and animal residues, which
 create the organic matter in the soil. This recycling is a biological
 process, which means that the most important contributors to soil
 fertility are alive. They are neither farmers nor fertilizer salesmen.
-They are the population of living creatures in the [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]] whose life
-processes make the plant-food potential of the soil accessible to
-plants -- and their food is organic matter.
-
-A teaspoon of fertile soil contains far more than a million live
-microscopic organisms. The soil is not an inert substance but an
-ecosystem filled with living creatures -- a fascinating universe of
-endlessly interrelated and meticulously choreographed activities.
-
-## Feeding Soil Creatures vs. Feeding Plants
-
-In the chemical approach, fertilizers created in a factory are applied
-to the soil to put a limited number of nutrients in a soluble form
-within reach of plant roots. The chemical idea is to bypass the soil
-and start feeding the plants directly with preprocessed plant food.
-
-In the natural approach, the farmer adds organic matter to nurture all
-those hard-working soil organisms. The natural approach is usually
-called "feeding the soil" as opposed to chemically "feeding the
-plants," but what it is really doing is feeding the soil creatures.
-That is why it works so well. The idea that we could ever substitute a
-few soluble elements for a whole living system is like thinking an
-intravenous needle could deliver a delicious meal.
-
-## Fighting for the Truth
-
-When Coleman started farming organically in 1965, the forces were
-definitely arrayed against organic farmers: the USDA with its
-scientists and enormous budget, all the land-grant universities, the
-extension service, every feed and seed store, and the enormous money
-and power of the agrochemical industry.
-
-When Barry Commoner's group at Washington University published a 1977
-study showing that Midwestern organic farmers were just as successful
-as their chemical-using neighbors, it was the first major eye-opener.
-The USDA's own 1938 Yearbook, "Soils and Men," reads like a basic
-organic-farming textbook. The 1957 Yearbook, "Soil," is even more
-emphatic about the relationship between soil fertility, plant health,
-and nutritional quality.
-
-## Deep Organic vs. Shallow Organic
-
-Coleman borrows two words from the ecology movement to distinguish
-between "deep" organic farming and "shallow" organic farming.
-
-**Deep-organic farmers**, in addition to rejecting agricultural
-chemicals, look for better ways to farm. Inspired by the elegance of
-Nature's systems, they try to mimic the patterns of the natural world's
-soil-plant economy. They use freely available natural soil foods from
-deep-rooting legumes, biointensive-composting|green manures, and composts to correct the causes
-of an infertile soil by establishing a vigorous soil life. They
-acknowledge that the underlying cause of pest problems is plant stress,
-and they avoid pest problems by managing soil tilth, nutrient balance,
-organic-matter content, [[water-management]] drainage, air flow, crop rotations, and
+They are the population of living creatures in the [[water-management]] drainage, air flow, crop rotations, and
 varietal selection to reduce plant stress.
 
-**Shallow-organic farmers**, after rejecting [[agricultural-chemicals-mycorrhizal-impact]],
-look for quick-fix inputs. Trapped in a belief that the natural world
-is inadequate, they end up mimicking the patterns of chemical
-agriculture. They use bagged or bottled organic fertilizers to
-temporarily treat the symptoms of an infertile soil. They treat the
-symptoms of plant stress by arming themselves with the latest natural
-organic weapons. In so doing, shallow-organic farmers continue to
-deliver themselves into the control of an industrial supply network.
+**Shallow-organic farmers**, after rejecting [[coleman-deep-organic-vs-shallow-organic-farming]]
+## Practical Considerations
 
-The difference is a difference in life views. The shallow view regards
-the natural world as consisting of mostly inadequate, usually
-malevolent systems that must be battled or modified. The deep-organic
-view understands that the natural world consists of elegant,
-impeccably designed, smooth-functioning systems that must be studied
-and nurtured.
+When working with Deep-Organic Farming and the Small Farm, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-## In Defense of Instinct
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-Coleman cites an experience with live music as a metaphor for food
-quality. Hearing great artists perform directly, without the
-intermediary of a sound system, the experience was so different and so
-nourishing that it serves as a metaphor: unfiltered music is like fresh
-food grown by a local deep-organic grower. That same music heard
-through a sound system is like industrial organic produce shipped from
-far away.
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-Children are notorious for hating vegetables, but parents near Four
-Season Farm report that their children specifically request the farm's
-salad and spinach. Coleman puts great faith in the honest and unspoiled
-taste buds of children -- they can still detect differences that older
-taste buds may miss and that science cannot measure.
+## Common Challenges and Solutions
 
-## Asking the Right Questions
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-The question we need to ask is not "is it organic?" but rather "is it
-nutritious?" Organic farming has to be much more than the absence of
-the negatives -- chemicals and pesticides. The area where organic
-farming must excel is the presence of the positives -- the full
-nutritional complement of the foodstuff.
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-Paleopathologists who have studied the skeletal remains of
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

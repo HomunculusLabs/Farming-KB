@@ -15,42 +15,7 @@ Spore collection and preparation is the starting point for most mushroom
 cultivation projects. The process begins with taking a spore print from
 a fresh mushroom, progresses through spore germination techniques, and
 culminates in the creation of spore syringes for inoculation. These
-techniques form the foundation of [[stamets-spore-germination-and-tissue-culture]] methods.
-
-## Taking a Spore Print
-
-To take a spore print, select a healthy, young specimen with the veil
-intact. Carefully remove the cap from the stem and place it gills-down
-on a clean surface such as typing paper, a sterile petri dish, or glass
-microscope slides. To lessen evaporation and disturbance from air
-currents, place a cup or glass over the mushroom cap. After a few
-hours, spores will have fallen according to the radiating symmetry of
-the gills, forming the characteristic spore print pattern.
-
-For the purest spore print, remove the veil tissue under aseptic
-conditions in a semi-sterile chamber. A spore print carelessly taken or
-stored can easily become contaminated, decreasing the chance of
-acquiring a pure culture. When using microscope slides, spores can be
-sandwiched between two pieces of glass and taped along the edges to
-prevent entry of contaminant spores.
-
-## Spore Print Storage
-
-If the spore print is taken on paper, cut it out, fold it in half, seal
-in an airtight container, and label with the date, species, and
-collection number. Properly stored spore prints from many species
-remain viable for years. When first produced, spores are moist, inflated
-cells with a relatively high germination rate. As time passes, they dry,
-collapse at their centers, and germination becomes increasingly
-difficult.
-
-## Spore Germination Techniques
-
-Once a spore print is obtained, mushroom culture can begin. Sterilize
-an inoculating loop or scalpel over a flame for 5-10 seconds until red
-hot. Cool the tip by inserting it into sterile media in a petri dish,
-then scrape some spores off the print. Transfer spores by streaking the
-tip across the [[agar]] surface. A similar method involves scraping the
+techniques form the foundation of [[agar]] surface. A similar method involves scraping the
 spore print above an opened petri dish, allowing spores to free-fall
 onto the medium. When starting from spores, inoculate at least three
 media dishes to improve germination success rates.
@@ -107,24 +72,9 @@ spread sporulating mold spores during the transfer process.
 If the original spore print was taken under unsanitary conditions, the
 hydration and syringe technique may favor contaminant spores as much
 as mushroom spores. This is why careful print-taking technique and
-proper [[stamets-contamination-sources-laboratory-hygiene]] are essential. A hot scalpel causes explosive bursts of vapor
-in the microcosm of the petri dish, easily liberating spores of
-neighboring molds, so always cool the scalpel before cutting into agar
-media. The scalpel should always be re-sterilized between transfers to
-different culture dishes to prevent cross-contamination.
-
-## Advantages of Spore Syringes
-
-The spore syringe technique offers several advantages for cultivators.
-A single print can produce many syringes, providing ample inoculum for
-multiple projects. Spore syringes can be stored for extended periods at
-cool temperatures, serving as a backup stock. They also enable the
-distribution of genetics to other cultivators. However, for maintaining
-specific high-performing strains, [[stamets-slant-culture-strain-preservation]] and tissue culture are preferred over multispore methods.
+proper [[stamets-slant-culture-strain-preservation]] and tissue culture are preferred over multispore methods.
 
 ## Related Topics
 
-- [[stamets-spore-germination-and-tissue-culture]]
 - [[stamets-sterile-laboratory-design]]
-- [[stamets-contamination-sources-laboratory-hygiene]]
 - [[stamets-slant-culture-strain-preservation]]

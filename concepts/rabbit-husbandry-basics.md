@@ -105,14 +105,7 @@ Rabbit manure is one of the best organic fertilizers:
 
 ## See Also
 
-- [[permaculture-integrated-animal-systems]] — Integrated animal system design
 - [[homesteading]] — Rabbits vs other livestock options
-- [[soil-food-web-structure]] — How rabbit manure supports soil biology
-
-## Related
-
 - [[composting-systems]]
-- [[permaculture-garden-design-process]]
 - [[growing-food-in-hard-times]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]

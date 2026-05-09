@@ -106,13 +106,8 @@ The blushing reaction is the most reliable field diagnostic for distinguishing D
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[bjerkandera-adusta]]
-- [[fomes-fomentarius]]
 - [[trametes-hirsuta]]
-- [[lentinula-edodes]]
 - [[polyporus-umbellatus]]
-- [[ganoderma-applanatum]]
 - [[laricifomes-officinalis]]
-- [[irpex-lacteus]]
 - [[stereum-hirsutum]]

@@ -31,25 +31,7 @@ He wrote an open letter to world leaders: "No grudge runs as deep as one over fo
 
 ## The International Nature University
 
-In Paris, Fukuoka met the son of an important American Indian chief who was practicing [[natural-farming-fukuoka]] in the center of Paris. This man had scattered vegetable seeds in his garden following Fukuoka's advice.
-
-The American Indian proposed founding an International Nature University near the Palais d'Elysee in Paris, on land with four or five large trees more than two yards in diameter -- evidence that the site had been forested for at least a century or two. The soil was dark and rich, with an additional twenty acres of what appeared to be virgin forest.
-
-Fukuoka endorsed the location based on traditional Japanese wisdom: "In Japan, people often build shrines and temples where the trees are large and the soil is black. They favor places where the earth is good and rich."
-
-## The Vision
-
-The university was conceived as being built by "twelve holy men" from different traditions -- reflecting Fukuoka's belief that restoring the relationship between humanity and nature requires wisdom from multiple cultural perspectives. The proposed hall of mirrors was intended for summit meetings of European heads of state.
-
-The concept of twelve holy men mirrors similar traditions in many cultures where a council of wise elders guides community decisions. Fukuoka saw this as a return to the kind of nature-based governance that indigenous peoples practiced for millennia.
-
-The university was not envisioned as a conventional academic institution with lecture halls and examinations. Instead, it would be a place of direct experience with nature, where students would learn farming, ecology, and philosophy through hands-on work with the land. The curriculum would emerge from the practice of natural farming itself.
-
-## Food as a Weapon
-
-Fukuoka's analysis of global power structures led him to identify food as the ultimate strategic weapon. Nations that control food supplies control populations. The open letter to world leaders was blunt: using food as leverage creates deep grudges that span generations.
-
-This theme connects directly to [[fukuoka-food-as-strategic-weapon]] and reinforces why natural farming is not merely an agricultural technique but a political and moral imperative. When food production requires expensive purchased inputs, farmers become dependent on the same power structures that use food as a weapon.
+In Paris, Fukuoka met the son of an important American Indian chief who was practicing [[fukuoka-food-as-strategic-weapon]] and reinforces why natural farming is not merely an agricultural technique but a political and moral imperative. When food production requires expensive purchased inputs, farmers become dependent on the same power structures that use food as a weapon.
 
 ## The American Indian Perspective
 
@@ -81,11 +63,27 @@ The peace message connects to an earlier episode in Fukuoka's life. In 1941, as 
 
 - [[fukuoka-cultural-disease-five-senses-alienated-nature]] Concepts
 
-- [[fukuoka-peace-march-war-agriculture]]
 - [[fukuoka-european-travels-natural-farming]]
-- [[fukuoka-nature-transcends-human-knowledge]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
-- [[fukuoka-nature-god-limits-of-knowledge]]
 - [[fukuoka-road-back-to-nature-overview]]
 
 The International Nature University project, though never realized, encapsulates the breadth of Fukuoka's vision -- a world where farming, peace, ecology, and cultural wisdom are understood as inseparable facets of a single, whole way of living.
+## Practical Considerations
+
+Successful implementation of Fukuoka Paris Peace March Nature University requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

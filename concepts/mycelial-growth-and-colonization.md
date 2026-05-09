@@ -1,7 +1,7 @@
 ---
 title: Mycelial Growth and Colonization
 created: 2026-04-28
-tags: [mycology, mycelium, growth-phases, biology]
+tags: [[mycology, mycelium, growth-phases, biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -79,8 +79,7 @@ organic molecules into absorbable nutrients. Cellulases break down cellulose
 into glucose. Lignin peroxidases and manganese peroxidases degrade lignin, a
 complex polymer that few organisms can attack. Proteases break down proteins
 into amino acids. The specific enzyme profile varies by species and determines
-what substrates each fungus can colonize. [[pleurotus-ostreatus]] produces
-powerful lignin-degrading enzymes, allowing it to fruit on hardwood. [[agaricus-bisporus]] requires composted substrates where bacteria have partially broken
+what substrates each fungus can colonize. [[agaricus-bisporus]] requires composted substrates where bacteria have partially broken
 down organic matter.
 
 ## Mycelial Networking
@@ -103,7 +102,5 @@ supplemented with grain bran or similar nutrient boosters.
 
 ## See Also
 
-- [[grain-spawn-production]] — inoculating grain with mycelium
 - [[substrate-pasteurization]] — preparing substrate for colonization
-- [[pinning-triggers]] — transitioning from colonization to fruiting
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] — how mycelium interacts with other organisms

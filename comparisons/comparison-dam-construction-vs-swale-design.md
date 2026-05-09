@@ -4,62 +4,23 @@ created: 2026-04-28
 tags: [comparison, water-harvesting, permaculture, earthworks, water-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
-
 # Dam Construction vs Swale Design
 
 ## Overview
 
 Both dam construction and swale design are earthwork strategies for managing water on farms and homesteads, but they serve fundamentally different purposes. Dams create surface water storage impoundments for later use, while swales intercept runoff and infiltrate it into the soil profile.
 
-Understanding when to apply each technique is critical for effective water management in permaculture and regenerative agriculture. Bill Mollison considered water storage a foundational element of productive landscapes, arguing that the first priority in any land design should be to capture, store, and distribute water effectively.
-
-Both approaches play complementary roles in achieving this goal. The choice between them depends on climate, topography, budget, soil type, and the intended use of the captured water. Evaluating these factors carefully at the design stage prevents costly mistakes and ensures that the chosen earthworks deliver lasting value.
-
-In practice, most productive farms benefit from a thoughtful combination of both strategies working together across the landscape. The best designs start with careful observation of how water naturally moves across the site during and after rainfall events.
-
-## Dam Construction
-
-[[[dam-construction]]|Dams]] are engineered structures built to impound water behind a wall or embankment, creating open surface storage. Common types include earth dams, rock-fill dams, and concrete dams. Earth dams are most common on farms, built from compacted local soil with a clay core for sealing against seepage.
-
-Dams serve multiple purposes on a productive farm or homestead:
-
-- **Irrigation supply** for crops and pastures during dry periods
-- **Aquaculture** for fish and water plants
-- **Domestic water** for household use
-- **Livestock watering** direct access or reticulation
-- **Fire protection** as an on-site water reserve
-- **Microclimate moderation** through evaporative cooling
-
-A well-sited dam can store millions of litres of water, providing critical security through extended dry seasons. The engineering requirements are significant and include wall slope ratios, clay core placement, spillway sizing, and compaction standards to prevent structural failure.
-
-Key considerations for dam construction include:
-
-- Site selection based on reliable catchment area
-- Suitable foundation geology to prevent seepage
-- Design capacity calculated from rainfall and evaporation data
-- Legal and regulatory requirements varying by jurisdiction
-- Ongoing maintenance such as silt removal and embankment inspection
-
-Earth dams require careful compaction in layers to prevent internal erosion known as piping. The cost is relatively high due to machinery requirements, professional engineering input, and the large volume of earth that must be moved and placed. Despite the investment, a well-built dam can last for decades with proper maintenance.
-
-Local regulations may require dam safety assessments, environmental impact studies, and construction inspections. Always check permit requirements before beginning construction, as unpermitted dams can face demolition orders and fines.
-
-## Swale Design
-
-[[[swale-design]]|Swales]] are level channels excavated along the contour of a slope, designed to intercept, slow, and infiltrate surface water runoff. Unlike dams, swales do not store water on the surface for extended periods.
+Understanding when to apply each technique is critical for effective water management in permaculture and regenerative agriculture. [[query-how-to-design-a-food-forest-on-a-slope]], designed to intercept, slow, and infiltrate surface water runoff. Unlike dams, swales do not store water on the surface for extended periods.
 
 Their primary purpose is to hold water temporarily so it percolates into the soil, recharging groundwater and creating moist planting zones downslope. Swales are typically built with a level bottom and a downslope berm formed from the excavated material.
 
 Trees and deep-rooted perennials are planted on or below the berm to access the stored soil moisture. This makes swales powerful tools for reforesting degraded land and establishing productive tree crop systems on sloping terrain.
 
-Over time, the increased soil moisture and organic matter accumulation transform the hydrology of the entire slope, creating a self-reinforcing system of water retention and fertility.
-
-Construction can range from hand-dug swales for small gardens to machine-excavated swales for broadacre land repair. Swales are lower cost than dams, simpler to design and build, and can be implemented incrementally across a landscape.
-
-However, they require careful spillway design to safely convey overflow during large storm events. Poorly designed or unmaintained swales can blow out and cause severe erosion damage. Accurate contour surveying using an A-frame, bunyip level, or laser level is essential.
+Over time, the increased soil moisture and [[mollison-designers-contour-surveying-a-frame-bunyip-level]], or laser level is essential.
 
 The spacing between swales depends on slope gradient, soil infiltration rate, and rainfall intensity. On steeper slopes, swales should be spaced closer together to prevent excessive water accumulation in any single channel. On gentle slopes with permeable soils, wider spacing is appropriate.
 
@@ -93,7 +54,7 @@ Swales are the right choice when your goal is to rehydrate the landscape broadly
 
 Choose swales when working with limited budgets, as they can be built progressively and often with hand tools alone. This makes them accessible to smallholders and community groups without heavy equipment.
 
-They are valuable as a first step in landscape restoration, [[building-soil]] moisture and organic matter before introducing more intensive production.
+They are valuable as a first step in landscape restoration,  moisture and organic matter before introducing more intensive production.
 
 Swales work best on slopes between roughly 2 and 15 degrees. On steeper slopes, terraces may be more appropriate. On very gentle slopes, keyline design or broadacre ripping may achieve similar infiltration benefits with less disturbance.
 
@@ -113,11 +74,6 @@ The order of implementation matters. Begin with the highest priority earthworks 
 
 ## See Also
 
-- [[pdc-water-harvesting-earthworks-design|Water Harvesting]]
-- [[[keyline-design]]|Keyline Design]]
-- [[keypoint-dam-water-storage-earthworks|Earthworks]]
-- [[mollison-designers-contour-surveying-a-frame-bunyip-level|Contour Surveying]]
-- [[[irrigation-systems]]|Irrigation Systems]]
-- [[permaculture-humid-landscape-strategies|Landscape Rehydration]]
-- [[natfarm-aquaculture-pond-design|Aquaculture Ponds]]
-- [[soil-erosion-control|Erosion Control]]
+- [[comparison-pond-design-vs-dam-construction]]
+- [[mollison-pdc-swale-design-water-harvesting]]
+- [[pdc-water-systems-design-and-management]]

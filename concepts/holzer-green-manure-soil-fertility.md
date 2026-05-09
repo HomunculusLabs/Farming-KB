@@ -10,7 +10,7 @@ tags: [holzer, soil]
 
 # Holzer Green Manure and Soil Fertility
 
-[[building-soil-fertility-long-term]] is the foundation of farming in [[sepp-holzer-method]]. Holzer defines a healthy soil as one rich in microorganisms -- "a fact that a farmer should never forget, because it is the main requirement for successful farming."
+[[sepp-holzer-method]]. Holzer defines a healthy soil as one rich in microorganisms -- "a fact that a farmer should never forget, because it is the main requirement for successful farming."
 
 ## Soil as Ecosystem
 
@@ -87,9 +87,7 @@ Accumulated biomass is always put to use right where found -- never burned. It c
 
 ### Raised Beds with Biomass
 
-[[holzer-raised-bed-techniques-hugelkultur]] built with whole logs and branches incorporate large amounts of biomass that slowly decompose, releasing heat and nutrients while maintaining soil structure.
-
-### [[holzer-livestock-integration-pigs-cattle]]
+[[holzer-livestock-integration-pigs-cattle]]
 
 Paddock-moved livestock fertilise, till, and harvest simultaneously, while their varied diet prevents disease and maintains soil health.
 
@@ -99,9 +97,6 @@ Holzer regularly checks soil condition throughout autumn and winter: "If I can d
 
 ## See Also
 
-- [[cover-crops-green-manures]]
 - [[building-soil-fertility-long-term]]
-- [[holzer-seed-saving-and-variety-preservation]]
 - [[holzer-raised-bed-techniques-hugelkultur]]
-- [[holzer-livestock-integration-pigs-cattle]]
 - [[sepp-holzer-method]]

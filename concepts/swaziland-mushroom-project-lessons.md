@@ -119,8 +119,6 @@ infrastructure while building long-term capacity.
 
 ## Related Concepts
 
-- [[mushroom-poverty-alleviation-developing-countries]]
 - [[mushroom-industry-african-countries]]
-- [[mushroom-cultivation-in-kenya]]
 - [[oyster-mushroom-spawn-production]]
 - [[oyster-mushroom-substrate-materials-guide]]

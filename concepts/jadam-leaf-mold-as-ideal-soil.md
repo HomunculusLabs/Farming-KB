@@ -80,14 +80,8 @@ In the Jadam system, leaf mold serves as the foundation for a self-sufficient fa
 
 ## Related
 
-- [[jadam-humus-soil-and-leaf-mold-distinction]] Concepts
-
 - [[jadam-microorganism-solution-jms]] -- how leaf mold is used as the starter for microorganism cultivation
-- [[jadam-soil-foundation-work]] -- applying JMS before transplanting for strong root settlement
 - [[jadam-cover-crop-method]] -- growing vegetation to supply organic matter like nature does
-- [[jadam-dualism-critique-agriculture]] -- the philosophical rejection of good/bad microorganism division
 - [[jadam-soil-foundation-work]]
-- [[jadam-phyllite-mineral-solution]]
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-cover-crop-wild-grass-symbiosis]]
 - [[jadam-coexisting-with-wild-grass]]

@@ -128,15 +128,11 @@ Ingham compares tea production to milk production:
 
 Every step matters. You have to test ingredients, pay attention to process, and maintain equipment. "The dog can run through the room at the wrong moment" — in other words, many things can go wrong, and vigilance is required.
 
-See also: [[aact-aeration-oxygen-management-ingham]], [[aact-troubleshooting-ingham]], [[aact-definitions-and-types-ingham]], [[compost-tea-aact]]
-- [[humic-acids-soil-biology-ingham]]
+See also: [[aact-troubleshooting-ingham]], [[compost-tea-aact]]
 - [[aact-brewing-ingredients-ingham]]
-- [[compost-biology-soil-food-web-inoculation]]
 - [[aact-compost-quality-standards-ingham]]
 
 ## See Also
 
-- [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-charcoal-biochar-compost-tea]]
-- [[ingham-yeasts-molds-compost-tea]]
 - [[ingham-light-uv-effects-compost-tea]]

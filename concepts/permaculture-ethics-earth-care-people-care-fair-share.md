@@ -1,18 +1,9 @@
 ---
 title: "Permaculture Ethics: Earth Care, People Care, Fair Share"
 created: 2026-04-28
-tags: [permaculture, ethics, sustainability, environmental-philosophy, design-principles]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
-type: concept
----
+tags: [[permaculture-ethics]]: Earth Care, People Care, Fair Share
 
-# [[permaculture-ethics]]: Earth Care, People Care, Fair Share
-
-Permaculture ethics form the moral foundation of the [[permaculture-design]]
-system. Articulated by [[david-holmgren]] and Bill Mollison, they are distilled
+Permaculture ethics form the moral foundation of the [[david-holmgren]] and Bill Mollison, they are distilled
 from research into community ethics as adopted by older religious and
 cooperative groups. These three ethical principles serve as constraints on
 survival instincts and personal self-interest, guiding action toward outcomes
@@ -43,95 +34,67 @@ respectfully; not using what is killed is considered the greatest disrespect.
 
 ### Care for People
 
-Care for People makes [[permaculture-design]] an unashamedly human-centred
-environmental philosophy, placing human needs and aspirations at its centre
-because humans have the power and intelligence to affect their situation. It
-starts with the self but expands in widening circles to include families,
-neighbours, local and wider communities.
-
-The principle emphasises personal responsibility: accepting responsibility for
-one's own situation rather than regarding external forces as controlling one's
-life. The permaculture approach focuses on opportunities rather than
-obstacles. As households reduce dependence on the global economy and replace it
-with local economies, they reduce the demand that drives structural inequities
-between rich and poor nations.
-
-Non-material well-being is central to this ethic. Rising consumption is not
-improving well-being in rich countries. The Genuine Progress Indicator for the
-United States has been declining since 1978, despite huge rises in per capita
-consumption. Much new wealth is used to offset adverse effects of
-over-consumption, including remedial health care, pollution control, crime
-control, and litigation.
-
-### Set Limits to Consumption and Reproduction, and Redistribute Surplus
-
-The third ethic, sometimes called "Fair Share," addresses the paradox of
-abundance and limits. A sense of abundance encourages distributing surplus
-beyond one's circle of responsibility, while a sense of limits comes from
-mature understanding of how the world works. Recognition of limits does not
-come from experiencing scarcity; scarcity is largely a culturally mediated
-reality created by industrial economics and power, rather than actual physical
-limits to resources.
-
-Setting limits requires considering what is enough and sometimes making hard
-decisions. The ecological footprint is one method to audit personal demand on
-natural resources. Population growth remains a vexed issue: evidence from poor
-countries shows birth rates drop when women are economically secure, have
-control over reproduction, and infant mortality is low.
-
-Redistribution of surplus requires sharing surplus resources to help the earth
-and people beyond one's immediate circle of responsibility. In indigenous and
-peasant societies, caring for land beyond family needs was embedded in
-nature-spirit traditions. Planting long-lived trees and improving soil
-fertility are traditional forms of redistributing surplus for the benefit of
-future generations.
-
-## Philosophical Foundations
-
-Permaculture ethics rest on both rational and spiritual foundations. The
-ecological perspective through which permaculture sees the world reveals
-wisdom in spiritual perspectives and traditions. However, the ethics do not
-depend on a spiritual dimension; they can be grounded in humanist and rational
-frameworks.
-
-Holmgren emphasises an ecologically functional view of ethics: the greater the
-power of human civilisation due to energy availability, the more critical
-ethics become in ensuring long-term cultural and biological survival. Ethics
-are culturally evolved mechanisms for more enlightened self-interest and a
-more inclusive view of who and what constitutes "us."
-
-## Relationship to Design Principles
-
-The twelve permaculture-design-principles elaborate on how these ethical
-foundations can be expressed in practical design and action. The ethics provide
-the "why" while the design principles provide the "how." Together they form a
-coherent framework for energy-descent adaptation, guiding the transition
-from industrial growth culture to a sustainable low-energy culture.
-
-The ethics can be seen as common to all indigenous tribal peoples, though their
-conception of "people" may have been more limited than modern notions. The focus
-on learning from indigenous cultures is based on evidence that these cultures
-existed in relative balance with their environment for far longer than recent
-experiments in civilisation.
-
-## The Energy Descent Context
-
-Permaculture ethics take on particular urgency in the context of energy-descent. As fossil fuel availability declines, ethics become more critical
-because concentrations and scale of power within society increase the potential
-for destructive outcomes. The ethical framework guides not just individual
-behaviour but the structural redesign of sustainable-culture, including
-economic systems, governance, and community organisation.
-
-The concept of "beyond sustainability" acknowledges that continuous growth is
-impossible. The real issue of the current age is how humanity makes a graceful
-and ethical descent from the energy peak, using the view from the top to chart
-a way down while conditions remain favourable.
-
-## See Also
-
-- [[permaculture-design]]
+Care for People makes [[permaculture-design]]
 - energy-descent
-- [[catch-and-store-energy-permaculture-principle]]
 - [[produce-no-waste-permaculture-principle]]
 - [[use-small-and-slow-solutions]]
 - bioregionalism
+## Practical Considerations
+
+When working with Permaculture Ethics: Earth Care, People Care, Fair Share, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

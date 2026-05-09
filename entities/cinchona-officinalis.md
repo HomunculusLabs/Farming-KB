@@ -120,7 +120,7 @@ Seedlings are transplanted at 6–12 months.
 
 Its deep root system prevents soil erosion on Andean slopes, and leaf litter adds organic matter to forest soils.
 
-In permaculture design, Cinchona functions as a canopy-layer element in tropical highland food forest systems (USDA 10–12).
+In [[food-forest]] systems (USDA 10–12).
 
 ## History and Cultural Significance
 
@@ -133,7 +133,6 @@ The Dutch established extensive Cinchona plantations on Java in the mid-19th cen
 Quinine was critical to European colonization of tropical Africa, enabling survival in malaria-endemic regions.
 
 Synthetic antimalarials (chloroquine, 1934; artemisinin, 1972) have largely replaced quinine in first-line therapy, though it remains important for severe malaria treatment.
-
 ## Related Species
 
 | Species | Quinine Content | Key Characteristic |
@@ -145,6 +144,5 @@ Synthetic antimalarials (chloroquine, 1934; artemisinin, 1972) have largely repl
 
 ## See Also
 
-- `[[artemisia-annua]]` — Source of artemisinin, the modern first-line antimalarial
 - `[[camellia-sinensis-entity]]` — Tea, a common understory companion in Cinchona agroforestry
 - `[[piper-nigrum-entity]]` — Black pepper, another tropical spice tree in agroforestry systems

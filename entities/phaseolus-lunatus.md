@@ -106,15 +106,9 @@ Selecting low-cyanide cultivars and proper cooking methods have virtually elimin
 
 ## See Also
 
-- [[phaseolus-vulgaris]]
 - [[vigna-unguiculata]]
-- [[vigna-radiata]]
 - [[glycine-max]]
-- [[cicer-arietinum]]
 - [[arachis-hypogaea]]
-- [[pisum-sativum]]
 - [[lablab-purpureus]]
-- [[lens-culinaris]]
 - [[canavalia-ensiformis]]
-- [[vigna-mungo]]
 - [[apios-americana]]

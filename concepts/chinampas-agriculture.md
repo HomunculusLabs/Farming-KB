@@ -1,7 +1,7 @@
 ---
 title: "Chinampas Agriculture"
 created: 2026-04-28
-tags: [permaculture, aquaculture, traditional-agriculture, wetland]
+tags: [[permaculture, aquaculture, traditional-agriculture, wetland]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -141,10 +141,9 @@ and produce additional harvests.
 - May require regulatory permits for wetland modification
 - Potential for waterborne disease vectors in tropical climates
 - Vulnerability to water contamination from upstream sources
-
 ## See Also
 
-- [[aquaculture-in-permaculture]]
 - [[water-garden-and-ponds]]
-- [[swale-design-construction]]
 - [[aquatic-polyculture-design-mollison]]
+
+See also: [[native-american-planting-methods-and-indigenous-agriculture]]

@@ -12,103 +12,92 @@ Small-scale dairying on the homestead provides fresh milk, cheese, butter, yogur
 
 ## Choosing a Dairy Animal
 
-### Dairy Goats (See [[goat-keeping-guide]])
-- Pros: Smaller size, lower feed requirements, faster return on investment, easier handling
-- Cons: Shorter lactation than cows, smaller volume per animal
-- Best for: Small homesteads (under 5 acres), families wanting 1-3 gallons/day
-
-### Family Cow
-- **Jersey** — 3-5 gallons/day of high-butterfat milk (5%+). Small size, gentle temperament.
-- **Guernsey** — 4-6 gallons/day, golden milk (high beta-carotene). Efficient converters.
-- **Holstein** — 6-10 gallons/day, lower butterfat (3.5%). Highest volume.
-- **Dexter** — Miniature breed, 1.5-3 gallons/day. Excellent for very small acreage.
-
-### Sheep
-- East Friesian and Lacaune breeds produce 1-2 quarts/day. Milk is exceptionally high in solids — ideal for cheese.
-- Requires milking machine (small teats) and more specialized management.
-
-## Milking Routine
-
-### Daily Schedule
-- **Twice daily milking** (12-hour intervals) is standard for peak production
-- Once-daily milking is possible after peak lactation with reduced volume
-- Maintain consistent timing — irregular schedules stress animals and reduce production
-- Total time investment: 20-40 minutes per milking session (goat) or 30-60 minutes (cow)
-
-### Milking Hygiene
-1. Wash udder with warm water and udder wash (test strips work well)
-2. Dry thoroughly with clean paper towels (one per animal)
-3. Strip the first few squirts from each teat onto a black plate — check for clots, color changes
-4. Apply milking machine or hand milk
-5. Post-milking: dip teats in teat dip (iodine-based)
-6. Chill milk immediately to 38°F (3°C) within 1 hour
-
-### Milk Quality Factors
-- Clean bedding keeps udders clean and reduces bacteria count
-- Proper nutrition affects milk flavor — strong-flavored feeds (turnips, certain weeds) can taint milk
-- Stress reduces letdown reflex — handle animals calmly and consistently
-- Somatic cell count indicates udder health — elevated counts mean mastitis
-
-## Milk Processing
-
-### Pasteurization
-- **Raw milk** is legal for personal consumption in many areas; check local regulations for sales
-- **Low-temp pasteurization:** 145°F (63°C) for 30 minutes — preserves more flavor
-- **High-temp pasteurization:** 161°F (72°C) for 15 seconds — faster, more common
-- Cool immediately after pasteurization
-
-### Cream Separation
-- Cream rises naturally in wide-mouth containers (12-24 hours in the refrigerator)
-- Mechanical cream separators process larger volumes faster
-- Jersey and Guernsey milk separates easily due to high butterfat globule size
-
-### Butter Making
-- Separate cream, let it ripen slightly (cultured butter) or use fresh (sweet cream)
-- Agitate (churn) until butter grains form
-- Wash butter in cold water to remove buttermilk
-- Salt to taste (1-2% by weight)
-- Stores 3 months in the refrigerator, 12+ months frozen
-
-### Cheese Making
-- Soft cheeses (chevre, ricotta, mozzarella) are beginner-friendly
-- Hard cheeses (cheddar, gouda) require pressing and aging but are achievable
-- Goats milk makes excellent cheese due to smaller fat globules and naturally homogenized structure
-- Investment: Basic cheese making supplies cost $50-100
-
-## Equipment Needs
-
-### Essential
-- Stainless steel milking pail or bucket milker
-- Milk strainer with disposable filters
-- Thermometer (dairy type)
-- Glass jars for storage
-- Teat dip and dip cup
-- Udder wash solution
-
-### Optional but Useful
-- Milking machine (hand or electric) — essential for cows
-- Cream separator
-- Butter churn
-- Cheese press
-- Milk fridge dedicated to dairy use
-
-## Nutrition for Dairy Animals
-
-Dairy animals have the highest nutritional demands of any livestock class. See [[livestock-feed-management]] for comprehensive feed management.
+### Dairy Goats (See [[livestock-feed-management]] for comprehensive feed management.
 
 - **Lactating does/cows** need 14-18% protein and high energy
 - **Calcium requirements** double during lactation — provide free-choice minerals
 - **Fresh water** intake increases dramatically — a milking doe drinks 1-2 gallons/day
 - **Maintain body condition** — don't let dairy animals lose weight during peak lactation
-- **Pasture quality** directly affects milk flavor and production (see [[pasture-management]])
-
-## Related
-
-- [[goat-keeping-guide]]
-- [[livestock-feed-management]]
+- **Pasture quality** directly affects milk flavor and production (see [[goat-keeping-guide]]
 - [[pasture-management]]
-- [[animal-manure-guide]]
 - [[composting-systems]]
-- [[faires-dairy-processing-cheese-and-butter]]
 - [[sheep-health-and-production]]
 - [[fungal-single-cell-protein-production]]
+## Practical Applications
+
+Small Scale Dairy Guide has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Small Scale Dairy Guide. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

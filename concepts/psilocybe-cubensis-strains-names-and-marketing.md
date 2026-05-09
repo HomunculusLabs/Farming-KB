@@ -86,16 +86,7 @@ Cap, or simply cubensis.
 ## The Impact of Cultivation Technology
 
 The development of cultivation techniques, particularly the
-[[pf-tek-psilocybe-fanaticus-cultivation-method]] method, made cubensis the
-default choice for home growers. Its ease of cultivation and high yield
-ensured that it dominated both the commercial and underground markets.
-The McKenna brothers' publication of their cultivation method under the
-pseudonyms O.T. Oss and O.N. Oonic in 1976 further democratised
-access to home cultivation.
-
-## La Chorrera and the McKennas
-
-The species that [[mckenna-brothers-la-chorrera-experiment-1971]] stumbled upon growing so abundantly at La Chorrera in
+[[mckenna-brothers-la-chorrera-experiment-1971]] stumbled upon growing so abundantly at La Chorrera in
 Colombia was Psilocybe cubensis. As luck would have it, it was the one
 species that has proved the most compliant with human needs, being the
 easiest magic mushroom to grow and producing the most bountiful yields.
@@ -106,24 +97,8 @@ entirely upon your point of view.
 
 A street dose of cubensis is typically in the region of fifteen to
 thirty grams of fresh mushrooms, though experienced users may double
-this. [[mckenna-food-gods-stoned-ape-hypothesis]]
-famously advocated a 'heroic dose' of five dried grams, taken alone on
-an empty stomach, in darkness, with eyes closed, as the optimal
-protocol for encountering the mushroom's visionary potential.
-
-## The Cannabis Trade Model
-
-The marketing of cubensis strains directly borrows from the cannabis
-trade, where strain names like 'Skunk', 'Northern Lights' and 'Purple
-Haze' carry significant cultural weight and commercial value. The
-transposition of this marketing model to mushrooms has been remarkably
-successful, despite the lack of genuine genetic diversity behind most
-commercial strain names.
-
-## See Also
+this. [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]
 
 - [[pf-tek-psilocybe-fanaticus]]
-- [[mckenna-mushroom-cultivation-history]]
 - [[psilocybin-mushroom-chemistry]]
-- [[magic-mushroom-preparation-and-consumption-methods]]
 - [[mushroom-cultivation-underground-history]]

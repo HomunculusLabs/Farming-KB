@@ -103,21 +103,11 @@ Below are the documented herbs from JADAM's guide, organized by type:
 - Use 3-20 L (0.8-5.3 gal) per 500 L (132 gal) of spray
 - Can apply to all crops
 - Causes little concentration stress
-- Use water that passes [[jadam-wetting-agent-jwa]] water test (soft water)
-- Do not use sediments -- filter when particles are present
-- Only use the top clear portion
-
-## Synergistic Herb Combinations
-
-JADAM recommends combining multiple herbs in a single JHS batch for broader-spectrum pest control. Korean pasque flower root (the strongest general insecticide) can be combined with garlic for enhanced repellency, or with tobacco for added knockdown power against hard-bodied insects. When combining herbs, the total herb quantity remains 3 kg — the herbs are simply mixed in the mesh bag before boiling. Cho notes that root-based herbs produce the strongest extracts because roots accumulate secondary metabolites as the plant's chemical defense reserves. For crops facing specific pest pressure, targeted combinations can be devised: peppermint and hot pepper for aphid outbreaks, ginkgo and foxglove for caterpillar problems, and bracken with garlic for general broad-spectrum protection. Field observations by JADAM members suggest that rotating herb combinations seasonally helps prevent pest adaptation, analogous to the [[permaculture-design-principles]] principle of avoiding monoculture approaches even in biological pest management.
+- Use water that passes [[permaculture-farm-design-principles]] principle of avoiding monoculture approaches even in biological pest management.
 
 ## See Also
 
-- [[jadam-herb-solution-jhs]] - JHS overview and philosophy
 - [[jadam-natural-pesticide-jnp]] - How to combine JHS into JNP
-- [[jadam-wetting-agent-jwa]] - Essential companion ingredient
 - [[jadam-jhs-nutritional-analysis]] - Nutritional data showing fertilizer value
-- [[jadam-pest-control-recipes]] - Numbered recipes using JHS
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-foam-gun-pesticide-method]]
 - [[jadam-natural-pest-control-methods]]

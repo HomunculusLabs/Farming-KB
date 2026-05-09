@@ -1,5 +1,5 @@
 ---
-title: "[[brassinosteroid]] Natural Occurrence Across Plant Kingdoms"
+title: Brassinosteroid Natural Occurrence Plant Kingdoms
 created: 2026-04-28
 tags:
   - brassinosteroids
@@ -89,22 +89,7 @@ Fungi and animals are more closely related to each other than either is
 to plants, belonging to the Opisthokonta supergroup. However,
 conservation across the enormous evolutionary distance between green
 algae and flowering plants suggests steroid-based signaling is a broadly
-conserved eukaryotic strategy. The sensitivity of [[psilocybe-cubensis]]
-to brassinosteroids may reflect a conserved steroid receptor system in
-fungi.
-
-## Structural Diversity of Brassinosteroids
-
-The approximately 30 known brassinosteroids share a common steroidal
-backbone with characteristic oxygen substitutions. Brassinolide contains
-a 2alpha,3alpha,22alpha,23alpha-tetrahydroxy-24alpha-methyl-B-homo-7-oxa
--5alpha-cholestan-6-one skeleton. Variations involve differences in side
-chain length, hydroxylation patterns, oxidation states, and B-ring
-lactone presence.
-
-The compound used in the Gartz study, 22S,23S-[[homobrassinolide]], is a
-synthetic analogue with an extended side chain, prepared from
-[[stigmasterol]]. Its ability to promote fungal growth suggests structural
+conserved eukaryotic strategy. The sensitivity of [[stigmasterol]]. Its ability to promote fungal growth suggests structural
 requirements for activity are somewhat flexible, and fungi may respond
 to a range of brassinosteroid-like steroidal structures.
 
@@ -134,16 +119,13 @@ while occurrence in algal lineages hints at aquatic plant ecology.
 
 Fungal sensitivity to brassinosteroids opens the possibility that
 brassinosteroids released by plants could influence fungal behavior in
-natural ecosystems. [[root-exudates]] containing brassinosteroids might
-affect mycorrhizal associations or pathogenic fungal interactions,
-adding a previously unrecognized dimension to plant-fungal communication.
-
-## Related Concepts
-
-- Brassinosteroids as steroidal phytohormones for fungal growth promotion for classification as a hormone group
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
+natural ecosystems. [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
   compound structure and preparation from stigmasterol
 - Steroidal regulation of fungal development and growth for the
   implications of cross-kingdom steroid sensitivity
 
 ## See Also
+
+## See Also
+
+- [[brassinosteroids-phytohormones-fungal-growth-promotion]]

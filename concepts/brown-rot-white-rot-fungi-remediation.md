@@ -12,9 +12,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Wood-rotting fungi are classified into two major categories based on how they decompose wood: brown rot fungi and white rot fungi. This distinction is critical for understanding how mushrooms can be used for [[mycoremediation-stamets-approach]], as each type produces different enzymes that break down different components of wood — and, by extension, different classes of environmental toxins.
-
-Source: [[mycelium-running-techniques]]
+Wood-rotting fungi are classified into two major categories based on how they decompose wood: brown rot fungi and white rot fungi. This distinction is critical for understanding how mushrooms can be used for [[mycelium-running-techniques]]
 
 ***
 
@@ -44,21 +42,9 @@ Brown rot fungi produce quinone reductases and other enzymes powerful enough to 
 
 ### Characteristics
 
-White rot fungi are more numerous than brown rotters. They produce enzymes that break down the recalcitrant brown fiber in wood (lignin), leaving the cellulose largely intact — giving the wood a white appearance. White rot fungi are the primary [[mycoremediation-stamets-approach]] of toxins held together by hydrogen-carbon bonds.
-
-### Key Enzymes
-
-White rot mushroom mycelia secrete three critical enzyme groups:
-- **Lignin peroxidases** — break down lignin's complex aromatic structure
-- **Manganese peroxidases** — mineralize wood and are particularly efficient at breaking hydrogen-carbon bonds; only white rot mushrooms seem to produce this enzyme
-- **Laccases** — oxidize phenolic compounds and have broad substrate specificity
-
-### Notable White Rot Species
-
-- **Oyster mushroom** ([[cotter-mycoremediation-overview]])
+White rot fungi are more numerous than brown rotters. They produce enzymes that break down the recalcitrant brown fiber in wood (lignin), leaving the cellulose largely intact — giving the wood a white appearance. White rot fungi are the primary [[cotter-mycoremediation-overview]])
 - **Maitake** (Grifola frondosa)
-- **Turkey tail** ([[turkey-tail-trametes-versicolor]])
-- **Reishi** ([[ganoderma-lucidum-reishi-comprehensive-profile]])
+- **Turkey tail** ([[ganoderma-lucidum-reishi-comprehensive-profile]])
 - **Artist conk** (Ganoderma applanatum)
 - **Crust fungus** (Phanerochaete chrysosporium)
 - **Shiitake** (Lentinula edodes)
@@ -123,10 +109,7 @@ Stamets provides a comprehensive table mapping mushroom species to their habitat
 
 ## Related Topics
 
-- [[mycoremediation-stamets-approach]] — Stamets' overall mycoremediation framework
 - [[mycoremediation-oil-spills]] — Oil spill cleanup case studies
-- [[mycoremediation-chemical-warfare-agents]] — Chemical warfare agent remediation
 - [[cotter-mycoremediation-overview]] — Oyster mushroom bioremediation specifics
-- [[stamets-mycoremediation-case-studies]] — Additional case studies
 - [[bioavailability-in-fungal-bioremediation]] — Bioavailability considerations in fungal remediation
-- [[bioremediation-fungal-vs-bacterial]] — Comparison with bacterial bioremediation
+- [[mycoremediation]] — Comparison with bacterial bioremediation

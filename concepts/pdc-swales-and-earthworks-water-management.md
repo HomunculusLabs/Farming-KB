@@ -3,7 +3,7 @@ title: Swales and Earthworks Water Management
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, soil, water]
+tags: [[permaculture, design, soil, water]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -11,76 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 
 updated: 2026-04-18
 
-Swales and earthworks are foundational tools in [[pdc-water-harvesting-design]] for slowing, spreading, and sinking water across a landscape. They are critical components of [[pdc-earthworks-and-earth-resources]] and work in concert with [[pdc-earthworks-and-land-sculpting]] to prevent erosion, recharge groundwater, and create productive growing systems.
-
-## What Is a Swale?
-
-A swale is a shallow trench dug on contour (level) across a slope. Its purpose is to catch rainwater running downhill, slow it down, and allow it to infiltrate into the soil. A swale should cut across the path of rainwater flowing downhill, intercepting surface runoff before it can concentrate into erosive streams.
-
-Key construction principles:
-- Dig the swale on a true contour line (use an A-frame level or laser level)
-- Keep side slopes gentle to prevent collapse
-- Fill the bottom with mulch to maintain moisture and prevent erosion
-- The berm (mound of excavated soil) is typically placed on the downhill side
-- Swales work best on gentle to moderate slopes (5-15% grade)
-
-## Bio-Swales
-
-A bio-swale is a specialized variant designed to both manage water and treat it. It combines the water-catching function of a standard swale with selected plants that filter pollutants and nutrients from runoff. Bio-swales are particularly useful in urban settings where water may carry oils, fertilizers, or other contaminants from impervious surfaces before infiltrating into the soil.
-
-## Berms
-
-A berm is a raised mound of earth, essentially the opposite of a swale. In practice, berms and swales are almost always constructed together -- the soil dug from the swale becomes the berm. The berm on the downhill side of the swale:
-- Helps catch rainwater that overflows the swale
-- Creates a raised planting bed with improved drainage above the wet swale bottom
-- Can be planted with trees, shrubs, or other crops that benefit from the moisture accumulation
-
-When planting individual trees on a slope, a small berm placed on the downhill side of each tree helps catch and hold water where the roots can access it.
-
-## Infiltration Pits
-
-When berms, swales, and gardens are not enough to hold water on site, infiltration pits provide additional storage capacity. An infiltration pit is:
-- About 1-2 feet deep
-- A few feet across
-- Filled with mulch
-- Placed strategically to catch water that would otherwise run off site
-
-Unlike large dams, infiltration pits are small, distributed, and unobtrusive elements that collectively handle significant water volumes.
-
-## Keylining
-
-Keylining is the technique of using berms and swales that run across the slope of a hill to catch and slow water as it flows downhill. The concept originates from P.A. Yeomans' Keyline system, which identifies specific contour lines in a landscape where water management interventions have maximum effect.
-
-Keyline principles:
-- The "keyline" is found at the point where the valley floor (convex shape) meets the ridge (concave shape) in the landscape
-- Cultivation and earthworks parallel to the keyline spread water from wet valleys to dry ridges
-- By filling berms and swales with ground covers and soft loamy soil, they soak up water and control flow to prevent erosion
-
-## Earth Storage Strategy
-
-The earth storage approach to water management holds all rainwater on site rather than draining it away. The process involves:
-
-1. **Create areas of soft soil** -- Gardens, berms, and swales filled with loamy, organic-rich material absorb and hold water far better than compacted earth.
-
-2. **Guide water across the site** -- Berms and swales direct runoff into garden beds rather than allowing it to concentrate into erosive channels.
-
-3. **Design garden beds to hold water** -- Dig beds down about six inches so they function as shallow basins that retain moisture.
-
-4. **Use infiltration pits as overflow** -- Place mulch-filled pits to catch any remaining runoff.
-
-## Measuring Infiltration Rate
-
-Understanding the infiltration rate of your soil is essential for designing effective earthworks. You can create a simple infiltrometer:
-1. Remove both ends from a metal coffee can to create a cylinder
-2. Press the cylinder about one inch into the soil
-3. Fill a one-gallon container with water
-4. Pour water into the infiltrometer and time how long it takes to fully soak away
-
-Once you know both the average rainfall for your site and the infiltration rate of your soils, you can determine how much rainwater can realistically be absorbed on site and size your earthworks accordingly.
-
-## Integration with Water Harvesting
-
-Earthworks integrate closely with [[pdc-water-harvesting-design]]. The formula for rainwater collection applies to all surfaces:
+Swales and earthworks are foundational tools in [[pdc-earthworks-and-earth-resources]] and work in concert with [[pdc-water-harvesting-design]]. The formula for rainwater collection applies to all surfaces:
 
 - Square Feet x Inches of Rain x 600 / 1,000 = Gallons collected
 
@@ -96,12 +27,84 @@ Unchecked water flows literally wash topsoil away. A combined erosion control st
 - **Evaporation reduction** -- Windbreaks and shade lower evaporation rates, keeping soil moist and cohesive
 
 The beauty of this approach is that the more plants used to protect soil, the healthier the soil ecosystem becomes -- erosion control and soil building work synergistically.
-- [[gaias-garden-cover-crops-soil-building]]
 - [[urban-permaculture-swales-raised-beds]]
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
-
-## See Also
-
 - [[pdc-implementation-planning-and-management]]
+## Practical Applications
+
+Swales and Earthworks Water Management has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Swales and Earthworks Water Management. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

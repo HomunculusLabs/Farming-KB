@@ -97,8 +97,6 @@ Raised beds should be rebuilt every 5-10 years depending on cultivation type. Th
 
 The varied topography created by terraces generates numerous microclimates. Different terraces can be relatively dry, wet, shady, or sunny depending on their position and orientation. This allows cultivation of species that would otherwise not survive in the local climate.
 
-See also:, [[sepp-holzer-method]], [[sepp-holzer-pond-construction]],, [[permaculture-earthworks]], [[holzer-microclimates-permaculture]]
-- [[holzer-green-manure-and-soil-building-plants]]
+See also:, [[sepp-holzer-pond-construction]],, [[holzer-microclimates-permaculture]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[urban-permaculture-nitrogen-fixing-green-manures]]

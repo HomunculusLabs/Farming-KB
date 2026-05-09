@@ -18,27 +18,7 @@ type: concept
 
 ## Overview
 
-Arbuscular mycorrhizal fungal ([[arbuscular-mycorrhizal-fungi]]) structures, including spores,
-extraradical hyphae, and intraradical hyphae, harbor diverse communities
-of associated bacteria. These bacterial associates range from transient
-surface colonizers to obligate endosymbionts, and many contribute to the
-biocontrol effects attributed to mycorrhizal colonization. Research on
-bacteria isolated from AMF structures reveals that Paenibacillus,
-Bacillus, and Methylobacterium species are commonly associated with
-AMF spores, and that these bacteria can directly antagonize soil-borne
-fungal pathogens through antibiotic production and other mechanisms.
-
-## Methods for Isolating AMF-Associated Bacteria
-
-bacteria isolated from AMF spores are isolated through surface
-disinfection of spores followed by plating on standard culture media.
-Surface disinfection removes external contaminants while preserving
-bacteria within spore walls or in more intimate associations. For
-molecular characterization, DNA is extracted directly from identically
-treated spores and analyzed using PCR-DGGE of the 16S rRNA gene. This
-culture-independent approach typically reveals greater bacterial diversity
-than cultivation-based methods, as many AMF-associated bacteria may be
-non-cultivable under standard laboratory conditions. These methods are also discussed in the context of [[mycorrhizal-fungi-biome-surveys]].
+Arbuscular mycorrhizal fungal ([[mycorrhizal-fungi-biome-surveys]].
 
 ## Bacterial Taxa on AMF Spores
 
@@ -55,25 +35,7 @@ and Paenibacillus taxa from AMF structures using molecular approaches.
 ## Antagonistic Activity Against Pathogens
 
 Several bacterial isolates from AMF spores demonstrate direct antagonism
-against important soil-borne fungal pathogens, contributing to [[mycorrhizal-biocontrol]]. Isolates identified as
-B. simplex, B. niacini, B. drententis, and Paenibacillus spp. showed
-in vitro antagonism against Phytophthora nicotianae, Fusarium solani,
-and Fusarium oxysporum. A Paenibacillus sp. strain B2, previously
-isolated from the mycorrhizosphere of G. mosseae, induced antagonism
-against P. nicotianae both in vitro and in vivo, reducing root necroses.
-Electron microscopy revealed that strain B2 disorganized the cell walls
-of P. parasitica and F. oxysporum. The antibiotic polymyxine B1 and
-analog compounds were identified in exudates from this Paenibacillus
-strain.
-
-## Physical Interactions Between Bacteria and AMF
-
-The capacity of bacteria to adhere to AMF structures has been
-characterized in detail. Rhizobia and pseudomonads adhere to Gigaspora
-margarita spores and hyphae in a strain-dependent manner. Initial
-attachment is governed by non-receptor-dependent physiochemical
-parameters such as electrostatic attraction, later secured by specific
-bacterial cell surface components. This process is related to [[mycorrhizal-helper-bacteria]] interactions. The capacity to adhere to G.
+against important soil-borne fungal pathogens, contributing to [[mycorrhizal-helper-bacteria]] interactions. The capacity to adhere to G.
 intraradices structures depends on the ability to form biofilms.
 Mutants affected in extracellular polysaccharide production, essential
 for biofilm formation, were strongly impaired in attachment to both
@@ -85,21 +47,7 @@ more strongly to the fungal surface.
 
 The zone of soil influenced by individual AMF hyphae, termed the
 hyphosphere, represents an important bacterial habitat distinct from the
-rhizosphere. This concept parallels [[rhizosphere-fungal-community-analysis-rrna-rdna]] research. Bacteria isolated from extraradical and intraradical AMF
-structures or from the hyphosphere include diverse taxa from multiple
-genera. The spore outer layer of G. geosporum has been observed to be
-eroded and covered by mucilaginous products, suggesting that AMF
-structures are directly consumed by bacteria. AMF may specifically favor
-proliferation of some bacteria by serving as substrate or by providing
-surfaces for biofilm formation, thereby shaping the hyphosphere
-microbial community.
-
-## Candidatus Glomeribacter gigasporarum
-
-A non-cultivable obligate bacterial endosymbiont, Candidatus
-Glomeribacter gigasporarum (Burkholderiaceae), was described from
-spores, mycelium, and intraradical hyphae of Gigaspora margarita.
-Found within the fungal vacuoles, this [[endobacteria-arbuscular-mycorrhizal-fungi]] represents a true
+rhizosphere. This concept parallels [[endobacteria-arbuscular-mycorrhizal-fungi]] represents a true
 intracellular symbiosis between a bacterium and an AM fungus. The
 endobacterium was later phenotypically described in detail and shown to
 be widespread within the Gigasporaceae family. The presence of such
@@ -122,19 +70,24 @@ benefits of mycorrhization has likely been underestimated.
 
 ## AMF Effects on Bacterial Biocontrol Agents
 
-AMF can specifically enhance populations of known biocontrol bacteria, a concept central to [[symbiotic-fungi-amf-pgpr-inoculants-microplants]].
-G. mosseae was shown to increase the population of Pseudomonas
-fluorescens within the tomato and leek rhizosphere. Crude extracts from
-G. intraradices mycelium stimulated growth of P. chlororaphis and
-Trichoderma harzianum while reducing germination of F. oxysporum.
-These selective effects suggest that AMF can create conditions in the
-mycorrhizosphere that favor beneficial microorganisms over pathogens,
-potentially amplifying the overall biocontrol effect beyond what the
-fungus alone can achieve.
-
-## See Also
-
-- [[mycorrhizal-root-exudates-pathogen-interactions]]
-- [[endobacteria-arbuscular-mycorrhizal-fungi]]
-- mycorrhiza helper bacteria
+AMF can specifically enhance populations of known biocontrol bacteria, a concept central to [[mycorrhizal-root-exudates-pathogen-interactions]]
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
+## Practical Considerations
+
+Successful implementation of Bacterial Associates of AMF Structures and Biocontrol requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

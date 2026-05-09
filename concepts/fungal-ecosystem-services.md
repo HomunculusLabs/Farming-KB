@@ -136,8 +136,6 @@ on which all life depends.
 
 ## See Also
 
-- [[fungal-kingdom-overview]]
 - [[fungal-biodiversity-estimates]]
-- [[mycorrhizal-symbiosis]]
 - [[fungal-discovery-methods]]
 - [[mycological-dark-taxa]]

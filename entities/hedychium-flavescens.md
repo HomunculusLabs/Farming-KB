@@ -103,18 +103,11 @@ Young shoots are occasionally consumed as a vegetable in some Himalayan communit
 
 ## See Also
 
-- [[hedychium-coronarium]]
 - [[hedychium-coccineum]]
-- [[hedychium-gardnerianum]]
 - [[zingiber-officinale]]
-- [[alpinia-galanga]]
 - [[kaempferia-galanga]]
-- [[elettaria-cardamomum]]
 - [[boesenbergia-rotunda]]
-- [[etlingera-elatior]]
 - [[curcuma-amada]]
-- [[curcuma-caesia]]
 - [[zingiber-zerumbet]]
-- [[alpinia-officinarum]]
 - [[amomum-subulatum]]
 - [[alpinia-zerumbet]]

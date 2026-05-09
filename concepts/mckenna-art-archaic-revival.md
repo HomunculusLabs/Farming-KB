@@ -132,10 +132,6 @@ Like the octopi, our destiny is to become what we think, to have our thoughts
 
 ## See Also
 
-- [[mckenna-archaic-revival]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
-- [[mckenna-overmind-and-vegetable-mind]]
 - [[mckenna-octopus-intelligence-and-archaic-mind]]
-- [[mckenna-transcendent-other-and-exopheromones]]
-- mckenna food of the gods tryptamine dimension
 - [[mckenna-consciousness-expansion-and-drug-war]]

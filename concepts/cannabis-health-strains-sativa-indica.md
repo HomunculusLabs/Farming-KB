@@ -10,8 +10,7 @@ type: concept
 
 # Cannabis Strains (Sativa vs Indica)
 
-Medicinal cannabis consists of two basic species, [[cannabis-sativa]] and
-[[cannabis-indica]], which look different and contain different ratios of
+Medicinal cannabis consists of two basic species, [[cannabis-indica]], which look different and contain different ratios of
 the primary cannabinoids. These ratios are relevant when selecting a
 strain for specific therapeutic purposes. There are hundreds of
 varieties of cannabis with similar appearance and characteristics,
@@ -135,9 +134,6 @@ aligned with the patient's therapeutic goals and personal disposition.
 
 ## See Also
 
-- [[comparison-cannabis-sativa-vs-cannabis-indica]]
-
 - [[cannabis-health-cbd-cannabidiol]] — CBD pharmacology and its role in strain selection for therapeutic use
-- [[blesching-cannabis-inflammatory-diseases]] — indica-dominant strain applications for inflammatory conditions
 - [[cannabis-health-pain-management]] — strain selection considerations for pain relief
 - [[cannabis-health-methods-of-administration]] — how delivery methods interact with strain characteristics

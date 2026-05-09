@@ -1,21 +1,7 @@
 ---
 title: Ethical Basis of an Alternative Nation
 created: 2026-04-26
-tags: [permaculture, ethics, community, social-design, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Ethical Basis of an Alternative Nation
-
-In Chapter 14 of the Permaculture Designers Manual, Mollison lays out
-the ethical foundations for what he calls an "alternative nation" -- a
-people united by common principles rather than by geography or
-political borders. This ethical framework extends the three core
-[[permaculture-ethics]] of earth care, people care, and fair share into a
+tags: [[permaculture-ethics]] of earth care, people care, and fair share into a
 comprehensive social philosophy for sustainable communities.
 
 ## The Need for Common Ethics
@@ -132,7 +118,5 @@ generous acts but strategies for collective security.
 
 ## Related Concepts
 
-- [[mollison-bioregional-organisation-and-resource-index]]
 - [[mollison-permaculture-community-legal-structure]]
-- [[mollison-local-currency-systems-and-community-banking]]
 - [[mollison-the-permaculture-alternative]]

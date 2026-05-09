@@ -1,7 +1,7 @@
 ---
 title: "Nitrogen-Fixing Trees"
 created: 2026-04-28
-tags: [permaculture, agroforestry, soil-fertility, nitrogen-fixation]
+tags: [[permaculture, agroforestry, soil-fertility, nitrogen-fixation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -135,16 +135,10 @@ this restorative capacity.
   actinorhizal for cold temperate
 - Avoid planting potentially invasive NFTs (Leucaena, Gleditsia) near
   natural areas without careful management
-
 ## See Also
-
-- [[albizia-julibrissin]]
 
 - [[parkia-biglobosa]]
 
-- [[eleagnus-angustifolia]]
-
 - [[guild-planting-systems]]
 - Food Forests And Forest Gardens
-- [[soil-fertility-management]]
 - [[windbreak-and-shelterbelt-design]]

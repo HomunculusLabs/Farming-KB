@@ -64,40 +64,30 @@ Also called the "dark reactions" or "light-independent reactions":
 
 ### Temperature
 - Optimal range: 25-35C for most plants
-- See [[temperature-effects-plant-nutrient-uptake]] for detailed temperature effects
-- Enzymes involved (especially RuBisCO) have specific temperature optima
-
-### Water
-- Water stress causes stomata to close, reducing CO2 intake
-- Severe drought can halt photosynthesis entirely
-- Some CAM plants open stomata at night to minimize water loss
-
-## Carbon Partitioning
-
-The products of photosynthesis are distributed to various plant functions:
-- **Respiration:** 30-60% of fixed carbon used immediately for metabolic energy
-- **Root exudates:** 10-40% released into soil (feeding the soil food web and mycorrhizae)
-- **Growth:** Cell wall synthesis, new tissue formation
-- **Storage:** Starch in leaves, roots, tubers, seeds
-- **Secondary metabolites:** Defense compounds, pigments, signaling molecules
-
-## The Carbon Cycle
-
-Photosynthesis is the entry point for carbon into the biological cycle:
-1. Atmospheric CO2 fixed by photosynthesis (~120 Gt C/year globally)
-2. Carbon flows through food webs (plants → herbivores → carnivores → decomposers)
-3. Respiration returns CO2 to the atmosphere
-4. Some carbon is stored long-term in soil organic matter (humus) and plant biomass
-5. mycorrhiza|Mycorrhizal fungi receive 10-20% of plant carbon; produce [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as a soil carbon store
+- See [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as a soil carbon store
 
 ## See Also
 
-- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
-
 - [[molecules-of-life-plant-cells]]
-- [[temperature-effects-plant-nutrient-uptake]]
 - [[mycorrhiza]]
-- [[composting-and-soil-biology]]
 - [[natural-fertilizer-sources-and-application]]
-- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
+## Practical Considerations
+
+Successful implementation of Photosynthesis and the Carbon Cycle in Plants requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

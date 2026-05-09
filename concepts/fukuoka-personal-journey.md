@@ -10,9 +10,7 @@ sources:
 
 # Personal Journey of Masanobu Fukuoka
 
-The story of Masanobu Fukuoka's life is inseparable from the development of his natural farming method. His [[fukuoka-road-to-natural-farming]] was not a straight path but a winding journey through scientific agriculture, spiritual crisis, and decades of patient observation.
-
-The journey gave rise to the [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners around the world.
+The story of Masanobu Fukuoka's life is inseparable from the development of his natural farming method. His [[fukuoka-one-straw-revolution-philosophy]] that has inspired farmers and gardeners around the world.
 
 ## Early Life and Education
 
@@ -72,9 +70,7 @@ When the war ended, he felt a fresh breeze of freedom and returned to his home v
 
 Fukuoka persisted through the difficult early years, and gradually his methods began to bear fruit. Over the course of more than three decades, he refined his approach through constant observation.
 
-He learned to read the signs that nature provided -- the weeds that indicated soil conditions, the insects that signaled [[fukuoka-bushman-world-ecological-balance]] or imbalance, the timing of rains and temperatures that told him when to scatter seeds.
-
-By 1950, he had achieved complete no-tillage cultivation of rice and winter grains. His [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in clay pellets.
+He learned to read the signs that nature provided -- the weeds that indicated soil conditions, the insects that signaled [[fukuoka-barley-clover-cultivation]] method involved scattering rice straw on unplowed fields, allowing clover to grow as a living mulch, and broadcasting seeds in clay pellets.
 
 This technique produced yields comparable to conventional farming while requiring a fraction of the labor and no chemical inputs. One or two people could do all the work of growing rice and winter grain on a quarter-acre field in a matter of a few days.
 
@@ -82,14 +78,4 @@ This technique produced yields comparable to conventional farming while requirin
 
 Fukuoka's methods remained largely unknown outside his local area until the publication of "The One Straw Revolution" in 1975. Translated into many languages, the book attracted a worldwide following among farmers, gardeners, environmentalists, and spiritual seekers.
 
-Fukuoka became one of the most influential figures in the [[fukuoka-natural-farming-global-influence]]. In his later years, he traveled extensively, visiting Africa, India, the United States, and Europe.
-
-He became particularly interested in [[fukuoka-road-back-desert-reclamation]] and [[fukuoka-green-belt-projects]], proposing that seeds be encased in clay pellets and scattered over barren lands to restore vegetation and bring back the rains.
-
-## The Continuing Journey
-
-Fukuoka's journey was not merely a personal story but a model for the transformation that he believed was necessary for all of humanity. He remained at root "an average, foolish man" -- "just an old crow, so to speak."
-
-He told young people not to try to imitate him, asking instead that they simply live in nature and apply themselves to their daily work. The assurance that he knew this one thing had not changed since that morning on the bluff overlooking Yokohama harbour.
-
-See also: [[fukuoka-road-to-natural-farming]], [[fukuoka-early-farming-experiments]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-natural-farming-global-influence]], [[fukuoka-do-nothing-farming-philosophy]]
+Fukuoka became one of the most influential figures in the [[fukuoka-road-back-desert-reclamation]] and [[fukuoka-road-to-natural-farming]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-do-nothing-farming-philosophy]]

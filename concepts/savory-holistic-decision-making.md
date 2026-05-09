@@ -91,8 +91,6 @@ Goals are never set in concrete. They are continually under review and subject t
 
 ## See Also
 
-- [[permaculture-grazing-and-pasture]]
 - [[permaculture-designers-manual-grazing-management]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]
 - [[glomalin-and-soil-carbon]]

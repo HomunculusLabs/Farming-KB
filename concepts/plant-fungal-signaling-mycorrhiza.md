@@ -4,11 +4,10 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
-# Plant-Fungal Signaling in [[mycorrhizal-symbiosis]]
-
-Plant-fungal signaling in mycorrhizal symbiosis encompasses the molecular dialogue between host plants and [[mycorrhizal-fungi]] that precedes and maintains the symbiotic relationship. This signaling involves plant-derived compounds that activate fungal metabolism and fungal signals that modulate plant development and immunity. The communication shares surprising molecular parallels with both plant-pathogen interactions and rhizobial symbiosis.
+# Plant-Fungal Signaling in [[mycorrhizal-fungi]] that precedes and maintains the symbiotic relationship. This signaling involves plant-derived compounds that activate fungal metabolism and fungal signals that modulate plant development and immunity. The communication shares surprising molecular parallels with both plant-pathogen interactions and rhizobial symbiosis.
 
 ## Presymbiotic Signaling
 
@@ -31,27 +30,7 @@ Strigolactones are the primary plant signals that activate AMF:
 Flavonoid compounds serve multiple signaling roles:
 
 - Stimulate hyphal growth of AMF (e.g., in Gigaspora margarita, flavonoids promote growth under CO2-enriched conditions)
-- Are present in [[root-exudates]] of many mycorrhizal host plants
-- May act synergistically with strigolactones in activating fungal presymbiotic growth
-- The specific flavonoid profile of root exudates varies with plant species and nutritional status
-
-### Fungal-to-Plant Signals
-
-#### Myc factors (Lipochitooligosaccharides, LCOs)
-
-Mycorrhizal fungi produce lipochitooligosaccharide signals (Myc-LCOs) analogous to Nod factors of rhizobia:
-
-- LCOs from AMF activate the common symbiosis signaling pathway (CSSP) in host roots
-- The CSSP is shared between AMF and rhizobial symbioses, reflecting their evolutionary common origin
-- Key components include: SYMRK/DMI2 (receptor kinase), CASTOR/POLLUX (ion channels), CCaMK/DMI3 (calcium/calmodulin-dependent kinase), CYCLOPS (transcription factor)
-- Nuclear calcium spiking is the earliest detectable plant response to Myc-LCOs
-- Plants mutated in CSSP components (e.g., Medicago truncatula dmi mutants) fail to form both AMF and rhizobial symbioses
-
-#### Elicitor Molecules
-
-Mycorrhizal fungi produce elicitors that activate plant defense-related signaling:
-
-- Fungal cell wall components (chitin oligomers, [[beta-glucans]]) can trigger defense responses
+- Are present in [[beta-glucans]]) can trigger defense responses
 - The plant response to these elicitors is typically weak and transient compared to pathogen-derived elicitors
 - Chitinase activity increases in roots during both AMF and EMF colonization
 - This "defense paradox" — activation of defense-like responses during mutualistic symbiosis — is a recurring theme

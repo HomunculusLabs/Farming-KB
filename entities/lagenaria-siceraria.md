@@ -110,13 +110,8 @@ Craft applications include birdhouses, decorative carvings, smoking pipes, fishi
 
 ## See Also
 
-- [[cucurbita-pepo]]
 - [[momordica-charantia]]
-- [[phaseolus-vulgaris]]
 - [[glycine-max]]
-- [[cicer-arietinum]]
 - [[arachis-hypogaea]]
-- [[zea-mays]]
 - [[sorghum-bicolor]]
-- [[oryza-sativa]]
 - [[eleusine-coracana]]

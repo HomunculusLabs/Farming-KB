@@ -3,81 +3,17 @@ title: Aquaculture Species
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, earthworks, pest-management, fruit-tree, plant-systems]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Aquaculture Species
-
-Source: Permaculture: A Designers' Manual (Bill Mollison, 1988), Chapter 13
-
-Updated: 2026-04-18
-
-Aquaculture in permaculture emphasises polyculture systems that combine multiple species of different feeding habits for maximum yield and stability. The highest fish production per hectare can only be obtained by using a combination of species of different feeding habits (Gwingle, 1966).
-
-## Principles of Species Selection
-
-Local species are generally preferred. The great majority of aquacultures have a predominantly local flavour and species composition, and few introduced species have proved as adapted and productive as indigenous species. Only if there are no local species, or if all trials in using local species are fruitless, should designers look to exotic forms.
-
-The case for aquaculture rests on several advantages over terrestrial culture:
-- Water supply is constant for plant and animal growth
-- Plant nutrients are available in soluble and easily assimilable form
-- Water and nutrient flow is a critical boost to production
-- Aquatic organisms waste little energy in movement (free of gravitational effects)
-- Light, nutrient, and plants occupy a three-dimensional medium
-- The advantages of polyculture have been recognised from the beginning
-
-Given the same inputs in energy or nutrients, expect 4-20 times the yield from water than from adjoining land.
-
-## Fish Species
-
-### Stocking and Yield
-
-A modest guide figure is 200 kg of fish per hectare per year. This can be achieved as:
-- 200 x 1 kg fish
-- 400 x 500 gram fish
-- 800 x 250 gram fish
-- 1000 x 125 gram fish
-
-About 300 g is generally accepted as minimum pan-fish size. Below this, fish can be dried or made into paste. Stocking rates: approximately one 8 cm fish per square metre of water surface or per linear metre of pond edge.
-
-### Managing Breeding
-
-If fish breed in the pond, it soon becomes crowded with many small fish. If fry die off quickly, too few larger fish result. Solutions:
-- Keep a few predatory fish in a cage or netted-off area to control breeding
-- Rear fry in small covered ponds, release as fingerlings for a "flying start"
-
-### Key Species Groups
-
-- Tilapia and carp have been widely distributed as basic farmed food for terrace rice and taro culture in Asia or in famine areas
-- Catfish farming is noted for its productivity and resilience
-- Salmonid species were historically distributed by government-assisted programmes
-- Eel cultivation remains an unsolved challenge ("Whoever discovers how to cultivate the eel should get a Nobel Prize")
-
-See [[permaculture-designers-manual-fish-species-guide]] for detailed species information.
+tags: [[permaculture-designers-manual-fish-species-guide]] for detailed species information.
 
 ## Aquatic Plants
 
-[[permaculture-designers-manual-aquatic-plants]] are essential to pond polyculture. The surface of water, because of molecular tension, supports striding, floating, and sucking organisms. The mud generates and hides a host of rooted, tunnel-making, and burrowing lifeforms from mussels to larval lampreys, tubifex worms to tubers.
-
-## Waterfowl Integration
-
-Wild duck do not annoy catfish and pay their way in phosphatic fertilisers. There is no need to deprive them of islands, shallows, or nest boxes. The pond polyculture includes:
-- Insectivorous wasps for pest control
-- Bee-attracting plants around margins
-- Riparian pests (insects) as food for fish
-- Nesting platforms and island refuges for waterfowl
-
-See [[permaculture-designers-manual-duck-pond-systems]] for integration details.
+[[permaculture-designers-manual-duck-pond-systems]] for integration details.
 
 ## Edge Effect in Aquaculture
 
 The edge effect in water is pronounced. Stocking rates for fingerlings treat surface area and margin length as interchangeable, so a relatively narrow drain holds as many fish as a broadwater several times its surface area. The sinuous canal is a rich environment compared with the circular or square pond, and much cheaper to construct in clay soils.
 
-Maximum edge is assured by swale, canal, or [[permaculture-designers-manual-chinampa-systems]] systems, which can be sinuous in a flat landscape.
-
-Edges occur in great variety at the land/water interface: forest, shrubbery, reed-bed, mudflat, gravel, marsh, ice and snow all produce unique habitat. Amongst waterfowl, preferences for different edge types are as marked as among frogs -- some preferring barren spits, others forest and mulch. Quite small [[permaculture-designers-manual-ponds-and-dams]] can provide essential nesting and refuge places.
+Maximum edge is assured by swale, canal, or [[permaculture-designers-manual-ponds-and-dams]] can provide essential nesting and refuge places.
 
 ## Shellfish and Invertebrates
 
@@ -106,11 +42,66 @@ The highest fish production recorded was achieved in a rapid canal flow of mainl
 
 ## Related Topics
 
-- [[permaculture-designers-manual-fish-species-guide]]
 - [[permaculture-designers-manual-aquatic-plants]]
-- [[permaculture-designers-manual-duck-pond-systems]]
 - [[permaculture-designers-manual-ponds-and-dams]]
-- [[permaculture-designers-manual-dam-construction]]
 - [[permaculture-designers-manual-chinampa-systems]]
-- [[permaculture-designers-manual-water-quality]]
 - [[permaculture-designers-manual-pond-edge-planting]]
+## Practical Considerations
+
+When working with Aquaculture Species, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

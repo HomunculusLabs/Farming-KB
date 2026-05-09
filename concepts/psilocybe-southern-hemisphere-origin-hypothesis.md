@@ -83,10 +83,7 @@ connections shaped the current distribution.
 
 ## Hongo's Nine Distribution Types
 
-The [[distribution-of-neurotropic-fungi]] worldwide can be categorized using
-the nine types proposed by Hongo (1978) for Japanese fungi:
-
-1. **Cosmopolitan species**: Panaeolus spp. and [[panaeolina-foenisecii]]
+The [[panaeolina-foenisecii]]
 2. **Northern hemisphere species**: Amanita spp., Cordyceps spp.,
    Psilocybe pelliculosa, P. silvatica
 3. **Eurasian species**: Amanita muscaria and some northern hemisphere
@@ -99,40 +96,7 @@ the nine types proposed by Hongo (1978) for Japanese fungi:
 6. **Southeastern Asiatic species**: P. subaeruginascens var.
    subaeruginascens from Japan and Java
 7. **Tropical and subtropical species**: P. cubensis, P. subcubensis,
-   [[copelandia-cyanescens]], C. tropicalis, and other Copelandia species
-8. **Arctic and alpine species**: P. aztecorum var. aztecorum from
-   high Mexican mountains (4,000 m), related to P. baeocystis from
-   the Pacific Northwest and P. quebecensis from Quebec, Canada
-9. **Endemic species**: Numerous Mexican endemics (P. muliercula, P.
-   chiapanensis, P. laurae), Colombian endemics (P. columbiana, P.
-   guatapensis), Brazilian endemics (P. brasiliensis, P. paulensis),
-   and others from Spain, Central Europe, and Puerto Rico
-
-## The Mesophytic Forest Corridor
-
-The mesophytic (cloud) forests of Mexico serve as a critical corridor
-connecting northern and southern mycobiotas. This is demonstrated by:
-
-- Northern species like P. caerulipes reaching northeastern Mexico
-  through mesophytic forests with Fagus (beech)
-- Southern species like P. yungensis reaching Mexico through
-  mesophytic forests with Alnus (alder)
-
-In Mexico itself, 34 of 42 known neurotropic Psilocybe species occur in
-mesophytic forests, compared to only 4 in tropical forests and 4 in
-coniferous forests, despite coniferous forests being more intensively
-studied.
-
-## Temperate vs. Tropical Affinities
-
-Certain species show clear ecological preferences:
-
-- **Temperate-restricted**: Cordyceps capitata, C. ophioglossoides,
-  Claviceps purpurea and allies, Amanita spp., some Gymnopilus and
-  Inocybe species
-- **Tropical/subtropical**: Psilocybe cubensis, P. subcubensis, and
-  Copelandia spp. (with exceptions)
-- **Broadly tempe [[psilocybe-semilanceata]] lanceata (Europe, India, Russia,
+   [[psilocybe-semilanceata]] lanceata (Europe, India, Russia,
   Canada, USA, Chile, Peru, New Zealand, Australia, Tasmania), though
   surprisingly absent from Mexico
 
@@ -144,7 +108,6 @@ continent, despite its high overall biodiversity. No records exist from
 southeastern Russia, Mongolia, Arabia, Turkey, or many regions of Africa.
 This absence is almost certainly due to insufficient mycological
 exploration rather than genuine absence.
-
 ## Related
 
 - [[psilocybe-global-biodiversity-southern-hemisphere-origin]] Topics

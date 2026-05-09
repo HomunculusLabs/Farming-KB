@@ -119,11 +119,7 @@ structure.
 
 ## See Also
 
-- [[teaming-with-microbes-protozoa]]
 - [[teaming-with-microbes-nematodes]]
-- [[teaming-with-microbes-protozoa-and-nematodes]]
 - [[teaming-with-microbes-protozoa-types-amoeba-flagellate-ciliate]]
-- [[teaming-with-microbes-mineralization-and-immobilization]]
 - [[teaming-with-microbes-soil-food-web-overview]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-bacteria]]

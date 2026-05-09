@@ -108,9 +108,6 @@ This observation has implications for how drug monitoring agencies assess the si
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
-- [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]
-- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]

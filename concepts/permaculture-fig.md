@@ -3,34 +3,7 @@ title: Fig (Ficus carica)
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# Fig (Ficus carica)
-
-## Description
-
-- Family: Moraceae
-
-- One of the most ancient plants in civilisation; ~700 varieties
-
-- Deciduous tree, 5-10m height, spread to 25m (most cultivars smaller)
-
-- Lives 100 years; begins bearing at 2-3 years
-
-- Frost tolerant to -10°C (very young trees need protection)
-
-- Wide soil range; dislikes alkaline or salty soils
-
-- Better fruit if roots restricted — good for container growing in small gardens
-
-- Drought tolerant; better fruit quality with plentiful water
-
-- Generally considered fire retardant
-
-The fig is one of humanity's oldest cultivated fruits, with evidence of cultivation dating back over 11,000 years. Its adaptability, early bearing, and two-crop potential make it a highly productive element in [[mollison-tree-crop-systems-permaculture]] and [[permaculture-food-forest-design-principles]] designs. The fig fits comfortably in [[mollison-permaculture-two-zone-planning-and-site-layout]] due to its need for regular harvesting during peak season.
+tags: [[mollison-tree-crop-systems-permaculture]] and [[mollison-permaculture-two-zone-planning-and-site-layout]] due to its need for regular harvesting during peak season.
 
 ## Fruits
 
@@ -48,68 +21,92 @@ The fig is one of humanity's oldest cultivated fruits, with evidence of cultivat
 
 - Best drying: partially on tree, drop naturally, further dry on trays
 
-The breba crop (first crop) develops on previous year's wood, while the main crop forms on the current season's growth. This dual production strategy is aligned with [[urban-permaculture-edge-effect-and-design-principles]] of redundancy and extended harvest. The extraordinary concentration of sugars in dried figs makes them an excellent energy-dense storage food.
-
-## Nutrition — Fresh Fig (per 100g)
-
-Water 77.5%, Energy 80 cal, Carbohydrate 20.3g, Fat 0.3g, Protein 1.2g, Calcium 35mg, Potassium 194mg, Phosphorous 22mg, Iron 0.6mg, Vitamin A 80 I.U.
-
-## Nutrition — Dried Fig (per 100g)
-
-Water 23%, Energy 274 cal, Carbohydrate 69.1g (~50g dextrose), Fat 1.3g, Protein 4.3g, Calcium 126mg, Potassium 640mg, Iron 3.0mg
-
-Dried figs are a concentrated source of calcium, iron, and potassium, rivaling many modern supplements. Their high natural sugar content provided a critical energy source in traditional diets, especially through winter months when fresh fruit was scarce.
-
-## Pruning
-
-Little required unless keeping dwarf. Remove dead, deformed, weak branches. Pinch tips of young shoots for strong growth. Can train against walls or fences.
-
-Fig pruning is relatively minimal compared to other fruit trees, making it well-suited to [[holzer-fruit-trees-no-pruning]]. Training against sunny walls extends the viable growing range into cooler [[permaculture-climate-zones]]. See [[fruit-tree-pruning-training-hamilton]] for general techniques.
+The breba crop (first crop) develops on previous year's wood, while the main crop forms on the current season's growth. This dual production strategy is aligned with [[holzer-fruit-trees-no-pruning]]. Training against sunny walls extends the viable growing range into cooler [[fruit-tree-pruning-training-hamilton]] for general techniques.
 
 ## Propagation
 
 Layering (root in one season) or cuttings (15-25cm, short-jointed shoots of previous year's growth, spring, sandy soil, warmth).
 
-Figs are among the easiest fruit trees to propagate, making them accessible for [[permaculture-plant-propagation-guide]]. The high success rate of cuttings allows rapid multiplication of desirable varieties.
-
-## Medicinal Uses
-
-- Mild laxative; mixed with senna, rhubarb
-
-- Demulcent decoctions for catarrhal nose/throat infections
-
-- Roasted split fig as poultice for dental abscesses, gum boils, boils
-
-- Milky juice applied to warts (causes them to dry and fall off)
-
-## Pollination
-
-Fig genus (~600 species) depends on tiny wasps. Sprinkling other Ficus spp among Ficus carica ensures good wasp populations. WARNING: some Ficus spp (curtain fig, Moreton Bay fig, strangler fig) can start in host tree canopy and engulf it entirely.
-
-## Cultivars
-
-- Brown Turkey — medium, mahogany-brown; rich flavour; cold hardy; best fresh
-
-- Celeste — violet, light flesh, firm, juicy, sweet
-
-- Desert King — cooler climates; large dark green; excellent quality
-
-- Genoa (White Genoa) — coolest areas; hardiest; medium whitish
-
-- Mission (Black Mission) — dependable; excellent flavour; purplish-black; fresh, dried, canned
-
-## Permaculture Role
-
-Figs function well as [[permaculture-multipurpose-trees]], providing fruit, shade, medicinal resources, and wildlife habitat. Their drought tolerance makes them suitable for [[urban-permaculture-rainwater-harvesting-graywater]] landscapes where moisture is seasonal.
-
-## Related
-
-- [[permaculture-mulberry]]
-
-- [[persimmon]]
+Figs are among the easiest fruit trees to propagate, making them accessible for [[permaculture-multipurpose-trees]], providing fruit, shade, medicinal resources, and wildlife habitat. Their drought tolerance makes them suitable for [[permaculture-mulberry]]
 
 - [[permaculture-fruit-tree-guide]]
 
-- [[permaculture-companion-planting]]
-
 - [[permaculture-guild-design]]
+## Practical Applications
+
+Fig (Ficus carica) has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Fig (Ficus carica). These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

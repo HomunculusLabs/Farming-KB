@@ -125,14 +125,8 @@ airflow.
 
 - [[white-cherry-gelato]]
 
-- [[bacio-gelato]]
-
 - [[gelato-cannabis]]
-- [[sunset-sherbet]]
 - [[thin-mint-cookies]]
-- [[girl-scout-cookies]]
 - [[wedding-cake-cannabis]]
-- [[runtz-entity]]
 - [[linalool]]
-- [[limonene]]
 - [[beta-caryophyllene]]

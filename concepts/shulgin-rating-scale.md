@@ -15,9 +15,9 @@ sources:
 
 ## Overview
 
-The Shulgin Rating Scale is a five-level system devised by Alexander Shulgin for quantifying the subjective intensity of a psychedelic drug experience. Used throughout [[pihkal-introduction-and-methodology]] and [[tihkal-introduction-and-methodology]], the scale ranges from +/- (threshold) to ++++ (transcendental), providing a standardized vocabulary for communicating the depth of psychoactive drug effects.
+The Shulgin Rating Scale is a five-level system devised by Alexander Shulgin for quantifying the subjective intensity of a psychedelic drug experience. Used throughout [[tihkal-introduction-and-methodology]], the scale ranges from +/- (threshold) to ++++ (transcendental), providing a standardized vocabulary for communicating the depth of psychoactive drug effects.
 
-The scale was developed as part of Shulgin's broader [[shulgin-safety-principles-self-experimentation]] for self-experimentation. By creating a shared language for experience intensity, it enabled systematic comparison across compounds, dosages, and individuals. This was essential for establishing the [[shulgin-dosage-guidelines]] that accompany each compound entry in PiHKAL.
+The scale was developed as part of Shulgin's broader [[shulgin-dosage-guidelines]] that accompany each compound entry in PiHKAL.
 
 ## The Scale Levels
 
@@ -27,15 +27,7 @@ The scale was developed as part of Shulgin's broader [[shulgin-safety-principles
 
 The +/- level represents the bare minimum detectable effect — a hint that something is happening, but insufficient to confirm pharmacological activity without further testing.
 
-This level is particularly important in the [[psychedelic-dosage-titration-methodology]] because it establishes the starting point for dose-finding. A +/- result signals that pharmacological activity is plausible and justifies a modest increase in the next session.
-
-### PLUS ONE (+)
-
-"The drug is quite certainly active. The chronology can be determined with some accuracy, but the nature of the drug's effects are not yet apparent."
-
-At +1, the substance's presence is confirmed. The timeline of onset can be tracked, but the qualitative character of the experience remains undefined.
-
-The +1 level is often where qualitative differences between compounds begin to emerge. Some substances at +1 produce primarily somatic effects (body sensations, nausea), while others produce cognitive or perceptual shifts. These early observations feed into the [[qualitative-comments-methodology-pihkal]] that Shulgin used to characterize each compound.
+This level is particularly important in the [[qualitative-comments-methodology-pihkal]] that Shulgin used to characterize each compound.
 
 ### PLUS TWO (++)
 
@@ -43,31 +35,11 @@ The +1 level is often where qualitative differences between compounds begin to e
 
 The ++ level is the "museum level" — strong enough to be unmistakably psychoactive, but manageable enough that the experienced user can maintain ordinary activities. Shulgin described a commonly used term for 2C-B at this level as "museum level" — a slightly-over-threshold state allowing public activities without attracting attention.
 
-This concept of retainable agency is important in the context of [[psychedelic-harm-reduction]]. The ++ level represents a dose where the user can still choose to redirect attention to ordinary tasks, making it inherently safer for inexperienced users than higher levels.
-
-### PLUS THREE (+++)
-
-"Not only are the chronology and the nature of a drug's action quite clear, but ignoring its action is no longer an option. The subject is totally engaged in the experience, for better or worse."
-
-At +3, the experience demands full attention. The subject cannot maintain ordinary activities and is immersed in the drug's effects.
-
-The transition from ++ to +++ represents a critical threshold in the [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[psychedelic-safety-and-harm-reduction]].
-
-### PLUS FOUR (+++)
-
-"A rare and precious transcendental state, which has been called a 'peak experience,' a 'religious experience,' 'divine transformation,' a 'state of Samadhi' and many other names in other cultures. It is not connected to the +1, +2, and +3 of the measuring of a drug's intensity. It is a state of bliss, a participation mystique, a connectedness with both the interior and exterior universes, which has come about after the ingestion of a psychedelic drug, but which is not necessarily repeatable with a subsequent ingestion of that same drug."
-
-The ++++ is qualitatively different from the other levels — it is not merely "more intense" but categorically distinct. Shulgin noted: "If a drug (or technique or process) were ever to be discovered which would consistently produce a plus four experience in all human beings, it is conceivable that it would signal the ultimate evolution, and perhaps the end of, the human experiment."
-
-This framing connects the scale to broader discussions in [[mckenna-consciousness-expansion-and-drug-war]] and [[psychedelic-spirituality-and-religion]]. The ++++ represents an experience that transcends pharmacology, touching on what Abraham Maslow called "peak experiences" and what William James described as mystical consciousness.
-
-## Philosophical Significance
-
-Shulgin's explicit statement that ++++ is "not connected to the +1, +2, and +3" is philosophically significant. It suggests that psychedelic intensity is not a single continuum but involves a qualitative leap — a phase transition in consciousness rather than a simple increase in effect magnitude. This idea resonates with contemporary [[psilocybin-and-mystical-experience]], which distinguishes between ordinary altered states and genuinely transformative experiences.
+This concept of retainable agency is important in the context of [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[mckenna-consciousness-expansion-and-drug-war]] and [[psilocybin-and-mystical-experience]], which distinguishes between ordinary altered states and genuinely transformative experiences.
 
 ## Usage in PiHKAL
 
-Every compound entry in PiHKAL Part 2 includes [[qualitative-comments-methodology-pihkal]] from self-experiments, many of which reference the rating scale to indicate the intensity achieved at specific dosages. This allows readers to calibrate expected effects against the [[shulgin-dosage-guidelines]].
+Every compound entry in PiHKAL Part 2 includes [[shulgin-dosage-guidelines]].
 
 The scale also appears in TiHKAL (tryptamine entries) and has been widely adopted by the broader psychedelic research and harm reduction communities as a standard communication tool.
 
@@ -81,14 +53,8 @@ The Shulgin Rating Scale has some recognized limitations:
 - Individual variation in sensitivity means the same dose can produce different scale levels in different people
 - The scale was designed for phenethylamines and tryptamines; its applicability to other classes (e.g., cannabinoids, dissociatives) is less established
 
-Despite these limitations, the scale remains the most widely recognized system for communicating psychedelic experience intensity, referenced extensively in [[psychedelic-harm-reduction]] and contemporary clinical research protocols.
-
-## Related Concepts
-
-- [[shulgin-dosage-guidelines]]
-- [[pihkal-introduction-and-methodology]]
+Despite these limitations, the scale remains the most widely recognized system for communicating psychedelic experience intensity, referenced extensively in [[shulgin-dosage-guidelines]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[psychedelic-dosage-titration-methodology]]
 - [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-experience-stages]]
 ## Merged: Shulgin Animal Models Psychopharmacology

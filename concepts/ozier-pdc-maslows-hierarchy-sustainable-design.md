@@ -8,32 +8,7 @@ topics: psychology, sustainability, human-needs, design, permaculture, maslow
 # Maslow's Hierarchy of Needs in Sustainable Design
 
 William Ozier's PDC text presents an innovative application of Maslow's
-Hierarchy of Needs to [[permaculture-design]]. By reframing sustainability
-through the lens of human psychological needs, Ozier argues that truly
-sustainable architecture and infrastructure must address every level of
-Maslow's pyramid — not just physical survival, but also security, community,
-esteem, and self-actualization.
-
-## The Connection: Why Psychology Matters for Design
-
-Ozier's central insight is that **architecture is literally the physical
-manifestation of philosophy**. Buildings and infrastructure systems begin
-with beliefs about how humans should live. If the philosophical foundation
-is incomplete, the resulting designs — and the cultures they produce — will
-also be incomplete and ultimately unsustainable.
-
-Understanding what humans fundamentally need is therefore a prerequisite for
-designing systems that can sustain them. Maslow's Hierarchy provides that
-framework.
-
-## The Five Needs Applied to Design
-
-### 1. Physiological Needs
-
-The most fundamental: food, water, air, shelter, warmth. A sustainable
-system must reliably provide these through renewable, recyclable, or reusable
-resources. Permaculture food systems, water harvesting, [[passive-solar-design]],
-and [[natural-building]] all address this tier.
+Hierarchy of Needs to [[permaculture]] food systems, water harvesting, [[natural-building]] all address this tier.
 
 ### 2. Security
 
@@ -129,3 +104,7 @@ but creates social isolation, or one that is ecologically sound but makes
 occupants feel economically insecure, is incomplete. The Maslow integration
 ensures that human psychological needs are treated as legitimate design
 criteria alongside soil, water, and yield.
+
+## See Also
+
+- [[ozier-pdc-ecological-design]]

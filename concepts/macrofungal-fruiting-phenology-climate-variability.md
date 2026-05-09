@@ -143,7 +143,9 @@ For studies of fruiting phenology and climate relationships:
 
 - Sampling every 1-2 weeks throughout the fruiting season maximizes
 
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- [[fungal-species-richness-and-diversity-indices]]
-- [[dighton-arbuscular-mycorrhizal-plant-community-effects]]
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
+- [[macrofungal-fruiting-phenology-interannual-variation]]
+
+## See Also
+
+- [[macrofungi-fruiting-phenology-interannual-variation]]
+- [[mollison-valley-and-mountain-climate-effects]]

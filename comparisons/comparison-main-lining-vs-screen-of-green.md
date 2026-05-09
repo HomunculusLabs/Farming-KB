@@ -19,30 +19,6 @@ strengths and limitations of each method is essential for choosing the right app
 specific grow space, plant count, and experience level.
 ## Main-Lining
 [[cannabis-training-techniques-comparison]]
-Main-lining is a systematic cannabis training method that creates perfectly symmetrical plants
-with evenly spaced colas arranged on a horizontal plane. The technique combines topping with
-low-stress training (LST) through bending and tieing to produce a recognizable "hub and spoke"
-manifold pattern. The process begins by selecting a healthy seedling with 3 to 5 true branch
-sets, then cutting the main stem above the 3rd or 4th node. All lower growth below the cut
-point is removed to concentrate the plant's energy on the remaining branches, which are then
-tied outward into equal quadrants using soft plant ties, garden wire, or twine.
-As the plant recovers and each tied branch develops 2 to 3 new nodes, the grower tops each
-branch tip and repeats the tying process. This recursive topping and training builds an
-increasingly complex manifold structure that distributes auxin hormones evenly across all
-growing tips. The sweet spot for main-lining is 8 to 16 colas per plant, with each cola
-receiving similar light intensity, airflow, and nutrient access. The result is a flat,
-table-top canopy where every bud site matures at a uniform rate, simplifying harvest timing
-and improving overall consistency.
-Main-lining requires an extended vegetative period of 6 to 8 weeks to fully develop the
-manifold structure, making it best suited for photoperiod strains rather than autoflowers.
-The technique demands patience and precision during the vegetative stage but rewards growers
-with exceptionally uniform bud development and reduced need for late-stage defoliation.
-Because the open manifold structure naturally promotes good airflow between colas, main-lined
-plants are less prone to mold and pest issues in dense grow environments. The technique is
-ideal for medical growers or anyone working with very few plants who wants to maximize
-quality and yield per plant.
-## Screen of Green
-[[cannabis-training-techniques-comparison]]
 Screen of Green (SCROG) uses a horizontal mesh screen, typically made of nylon netting,
 poultry wire, or rigid trellis panels, to physically constrain plant growth into an even
 canopy. The screen is installed 8 to 20 inches above the growing medium, depending on the
@@ -118,9 +94,6 @@ and support benefits of SCROG. Some growers also use main-lining during early ve
 growth to establish the primary manifold, then introduce a screen for the final weeks of
 vegetative growth to fine-tune canopy evenness before flipping to the 12/12 flowering cycle.
 ## See Also
-- [[comparison-sea-of-green-vs-screen-of-green]]
 - [[cannabis-training-techniques-comparison]]
-- [[cannabis-vegetative-growth-stage]]
 - [[cannabis-pruning-and-defoliation-guide]]
-- [[cannabis-screen-of-green-scrog-guide]]
 - [[comparison-topping-vs-fimming]]

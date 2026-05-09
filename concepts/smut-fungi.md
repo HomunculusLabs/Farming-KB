@@ -71,72 +71,27 @@ In a limited number of gall-forming taxa, the sori may be easy to
 detect because of gross distortion or hypertrophy of the affected host
 organ. Infection by the corn smut fungus Ustilago maydis, for example,
 causes large, tumorlike growths to form on the ears or vegetative
-organs of the corn plant. See [[urediniomycetes-rust-fungi-yeastlike-relatives]] for comparison with
-another major group of biotrophic basidiomycetes.
-
-## Species Richness
-
-More than 1300 species of smut fungi in 80 genera are known from 4000
-species of host plants, representing more than 75 families of
-angiosperms worldwide. The number of known species may account for
-only about half of the extant species. Smut fungi are distributed
-worldwide and are important pathogens of crop plants, including corn,
-wheat, barley, oats, rice, and sugarcane.
-
-## Teliospore Characteristics
-
-The teliospore wall may be smooth or ornamented, with variable
-pigmentation. Ornamentation can be reticulate, cerebriform, echinulate,
-or tuberculate, and spores of some taxa have narrow, dark equatorial
-bands. These characteristics are important for identification.
-Infection by smut fungi is generally recognized only when the
-characteristic dark sori are visible on the host plant.
-
-## Phylogenetic Classification
-
-Ultrastructural studies and molecular phylogenetic analyses support
-the hypothesis that Ustilaginiomycetes includes three major clades, or
-subclasses: Entorrhizomycetidae (including Entorrhizales);
-Ustilaginiomycetidae (including Ustilaginales and Urocystales); and
-Exobasidiomycetidae (including Doassansiales, Entylomatales,
-Exobasidiales, Georgefisherales, Graphiolales, Malasseziales,
-Microstromatales, and Tilletiales).
-
-## Taxonomic Revisions
-
-Numerous taxa that once were assigned to the Ustilaginales (e.g.,
-Microbotryum species) have been demonstrated convincingly to be derived
-members of the Urediniomycetes. The teliospore and the overall "smut"
-morphology are other examples of convergent evolution in morphology
-among fungi. Traditional classifications that placed smuts and rusts
-together in the Teliomycetes are not supported by molecular data.
-
-## Dimorphic Life Histories
-
-Fungi of the Ustilaginiomycetes are characterized by teliospores
-(diploid overwintering spores) and dimorphic life histories that
-include a saprobic yeast state and a pathogenic filamentous state.
-Because of certain morphological similarities, members of this group
-often have been confused with some members of the Urediniomycetes,
-which has led to controversial and conflicting classifications.
-
-## Collection and Identification
-
-Identification of smut fungi requires careful examination of sorus
-type, teliospore morphology, spore ornamentation, and germination
-patterns. Host plant identification is essential because many smut
-species are host-specific. Voucher specimens should include both the
-infected host material and sufficient spore material for microscopic
-examination. Modern molecular methods can help resolve taxonomic
-uncertainties in this group.
-
-## See Also
-
-- [[biodiversity-smut-fungi-diversity]]
-- [[smut-fungi-guide]]
+organs of the corn plant. See [[biodiversity-smut-fungi-diversity]]
 - [[ustilaginomycetes-smut-fungi-classification-diversity]]
 
-- [[urediniomycetes-rust-fungi-yeastlike-relatives]] for related biotrophic basidiomycetes
 - [[kingdom-fungi-phylogeny]] for classification context
-- [[fungi-living-plant-substrata]] for collection techniques
 - [[fungal-species-estimates-biodiversity-overview]] for diversity estimates
+## Practical Considerations
+
+Successful implementation of Smut Fungi Taxonomy and Diversity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

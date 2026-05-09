@@ -117,12 +117,10 @@ strength and the need for medical intervention diminishes.
 The connection between natural farming and natural health is direct
 and inseparable. One cannot have healthy food from unhealthy farming
 practices, and one cannot have healthy bodies from unnatural food.
-See also: [[fukuoka-natural-farming-philosophy]], [[fukuoka-diet-non-discrimination-diet-of-the-sick]]
+See also: [[fukuoka-diet-non-discrimination-diet-of-the-sick]]
 
 ## See Also
 
-- [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-critique-of-education-universities]]
-- [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
 - [[fukuoka-paradoxes-scientific-farming]]
 - [[fukuoka-spiritual-philosophical-foundation]]

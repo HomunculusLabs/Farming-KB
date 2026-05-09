@@ -95,12 +95,7 @@ The specific KNF protocol for LABS has been adopted by sustainable farming movem
 
 ## See Also
 
-- [[bionutrients-lab-lactic-acid-bacteria-serum]]
 - [[knf-lactic-acid-bacteria-serum]]
-- [[lactic-acid-bacteria]]
 - [[lactic-acid-bacteria-lab]]
-- [[lactic-acid-bacteria-natural-farming]]
-
 - [[lactobacillus]] — the primary bacterial genus in LABS
-- [[indigenous-microorganisms-imo]] — the broader KNF microbial input that complements LABS
 - [[fermented-plant-juice-fpj]] — another KNF fermentation input

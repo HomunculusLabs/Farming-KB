@@ -126,13 +126,9 @@ and therapeutic breakthroughs in psychedelic-assisted psychotherapy.
 
 ## See Also
 
-- [[mckenna-maya-tobacco-shamanism-enemas]]
 - [[harner-mescalero-peyote-shamanism]]
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]
-- [[ethnomycology]]
 - [[harner-ayahuasca-shamanism-amazon]]
 
-- [[psychedelic-psychotherapy]]
 - [[hallucinogenic-drugs]]
 - [[ayahuasca-preparation-and-ceremony]]
 - transpersonal psychology

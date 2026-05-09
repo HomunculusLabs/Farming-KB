@@ -3,7 +3,7 @@ title: Mycorrhizal Fungi Biome Surveys
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 
@@ -78,31 +78,9 @@ Mycorrhizal communities shift during ecosystem succession:
 - Disturbance reduces mycorrhizal diversity, with recovery taking decades
 
 ## Importance for [[fungal-indicators-soil-quality-ecosystem-health]]
-
-Mycorrhizal diversity and colonization intensity serve as indicators of ecosystem health:
-
-- High mycorrhizal diversity indicates intact plant-soil interactions
-- Reduced colonization signals soil disturbance or chemical stress
-- Mycorrhizal networks connect individual plants into a common mycorrhizal network
-
-## Agricultural Implications
-
-Mycorrhizal surveys inform agricultural practices:
-
-- Conventional tillage reduces AMF populations
-- Cover crops maintain mycorrhizal inoculum between cash crops
-- Crop rotation affects mycorrhizal community composition
-- Organic farming generally supports higher mycorrhizal diversity than conventional
-
-## See Also
-
-- [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[the-soil-food-web]]
 - [[mycorrhizal-networks-and-forest-communication]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[fungal-biodiversity-inventory-design]]
 
 Source: Comprehensive review of fungal biodiversity and mycorrhizal ecology literature
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]

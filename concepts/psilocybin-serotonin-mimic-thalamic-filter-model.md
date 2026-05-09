@@ -122,8 +122,6 @@ enough mushrooms to take a lethal dose.
 
 ## See Also
 
-- [[psilocybin-mushroom-chemistry]]
 - [[psilocybin-pharmacology-detail]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocin-and-psilocybin-chemistry]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]

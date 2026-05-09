@@ -8,12 +8,7 @@ sources: []
 type: comparison
 ---
 
-# [[solomon-on-root-cellaring]] vs Canning and Preserving
-
-## Overview
-
-Root cellaring and canning are two of the most important traditional food
-[[fungal-culture-preservation-methods]], each taking a fundamentally different approach to extending
+# [[fungal-culture-preservation-methods]], each taking a fundamentally different approach to extending
 the harvest. Root cellaring stores whole foods in their natural state using the
 earth's stable temperature and humidity — no processing required. Canning
 transforms foods through heat processing into shelf-stable, room-temperature
@@ -21,34 +16,6 @@ products sealed in jars. The choice between them shapes how homesteaders manage
 their harvest surplus, storage infrastructure, and food security strategy.
 
 ## Root Cellaring
-
-[[root-cellaring-guide]]
-
-Root cellaring uses the earth's natural thermal mass to maintain cool, stable
-temperatures (typically 32 to 40 degrees Fahrenheit) and appropriate humidity
-levels for long-term storage of whole foods. Design options range from excavated
-basement cellars and standalone underground structures to above-ground insulated
-root cellars and simple straw-bale pits. The method stores crops as-is — no
-cooking, processing, or special equipment needed — relying on optimal temperature
-and humidity to slow metabolic activity and prevent decay.
-
-The strengths are compelling. Root cellaring requires no electricity, no fuel,
-and minimal ongoing cost once built. Stored crops maintain their full nutritional
-profile since no heat processing is involved. Storage durations of two to eight
-months are achievable depending on the crop: potatoes, carrots, beets, turnips,
-and parsnips store for months; apples, onions, garlic, and hard squash also store
-well. Multiple design options accommodate different properties, from full
-basement cellars to simple in-ground pits for apartment gardeners.
-
-The limitations are significant. Root cellaring is inherently site-dependent —
-suitable terrain, drainage, and climate are prerequisites. Not all crops are
-compatible: potatoes and apples cannot be stored together because apples emit
-ethylene gas that causes potatoes to sprout and turn sweet. Root cellars are
-vulnerable to rodent intrusion and extreme cold events in poorly designed
-structures. Above-ground designs are harder to regulate than excavated ones.
-Regular monitoring is needed to remove spoiled items before decay spreads.
-
-## Canning and Preserving
 
 [[canning-and-preserving]]
 
@@ -127,10 +94,7 @@ food security even if one system fails.
 
 ## See Also
 
-- [[comparison-root-cellar-vs-ice-house]]
-
 - [[comparison-smoking-vs-canning]]
 
-- [[comparison-fermentation-vs-canning]]
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-fermentation-vs-canning]]

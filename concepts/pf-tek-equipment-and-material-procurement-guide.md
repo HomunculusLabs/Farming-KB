@@ -137,11 +137,8 @@ surface. Using a sharpened 3-penny nail held with vise grip pliers, 4 holes
 are punched inside the periphery of the rubber sealing edge. The lid is
 ## Related Concepts
 
-- [[pf-tek-jar-selection-and-physical-requirements]] for detailed jar specifications
 - [[pf-tek-substrate-jar-preparation-and-steam-sterilization]] for jar preparation
-- [[pf-tek-inoculation-without-lids-and-alcohol-flaming]] for flame sterilization
 - [[pf-tek-dual-chamber-terrarium-fruiting-conditions]] for terrarium assembly
-- [[pf-tek-desiccant-drying-technique]] for desiccant selection and use
 - [[pf-tek-syringe-sterilization-and-storage]] for syringe preparation and storage
 
 ## See Also

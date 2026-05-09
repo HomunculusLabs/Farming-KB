@@ -11,7 +11,7 @@ sources:
 
 Selecting the right cannabis strain is one of the most important decisions for medical cannabis patients, as different strains produce markedly different therapeutic effects due to their unique cannabinoid and terpenoid profiles. Understanding the relationship between strain characteristics and therapeutic outcomes allows patients and practitioners to make informed choices that address specific health conditions and symptoms.
 
-The cannabis plant has been selectively bred for thousands of years, resulting in an enormous diversity of strains with varying combinations of cannabinoids (THC, CBD, CBG, CBC, CBN, and others) and terpenoids (the aromatic compounds responsible for each strain's distinctive scent and many of its therapeutic effects). See [[cannabis-minor-cannabinoids]] for details on lesser-known cannabinoids and [[cannabis-terpene-entourage-effect-profiles]] for terpenoid effects.
+The cannabis plant has been selectively bred for thousands of years, resulting in an enormous diversity of strains with varying combinations of cannabinoids (THC, CBD, CBG, CBC, CBN, and others) and terpenoids (the aromatic compounds responsible for each strain's distinctive scent and many of its therapeutic effects). See [[cannabis-terpene-entourage-effect-profiles]] for terpenoid effects.
 
 ## Sativa vs. Indica: The Fundamental Distinction
 
@@ -33,7 +33,7 @@ Therapeutically, indica-dominant strains tend to be more sedating, relaxing, and
 
 Indica strains are often considered for conditions involving anxiety, insomnia, chronic pain, and muscle spasticity. CBD has a greater affinity for CB2 receptors, which are primarily associated with the immune system and anti-inflammatory responses. Patients who are CB2-deficient (typically those who are immune-compromised or experience chronic inflammation) may benefit from indica or indica-dominant strains with a lower THC to CBD ratio.
 
-See [[cannabis-endocannabinoid-system]] for more on cannabinoid receptor function and [[cannabis-sativa-vs-indica-guide]] for a comprehensive comparison.
+See [[cannabis-sativa-vs-indica-guide]] for a comprehensive comparison.
 
 ### Hybrid Strains
 
@@ -49,19 +49,19 @@ The selection of cannabis strain should be guided primarily by the symptoms and 
 
 For neurological disorders, epilepsy, PTSD, and mood disorders, patients who are primarily CB1-deficient may benefit from sativa-dominant strains with higher THC content. However, patients prone to anxiety should exercise caution with high-THC sativas, as excessive THC can paradoxically increase anxiety.
 
-Strains with balanced THC:CBD ratios may be optimal for many neurological conditions, as CBD moderates the psychoactive effects of THC while providing its own neuroprotective and anti-seizure properties. See [[cannabis-for-neurological-conditions]] and [[cannabis-for-epilepsy-and-seizure-disorders]] for condition-specific guidance.
+Strains with balanced THC:CBD ratios may be optimal for many neurological conditions, as CBD moderates the psychoactive effects of THC while providing its own neuroprotective and anti-seizure properties. See [[cannabis-for-epilepsy-and-seizure-disorders]] for condition-specific guidance.
 
 ### Pain and Inflammation
 
 Both sativa and indica strains can provide effective pain relief and muscle relaxation. Indica strains may be preferred for chronic pain that interferes with sleep, as their sedating properties address both pain and insomnia simultaneously. Sativa strains may be more appropriate for daytime pain management where sedation would be undesirable.
 
-For inflammatory conditions, strains with higher CBD content and anti-inflammatory terpenoids (beta-caryophyllene, myrcene) are preferred. See [[cannabis-for-chronic-pain]] and [[cannabis-for-inflammatory-conditions]] for detailed guidance.
+For inflammatory conditions, strains with higher CBD content and anti-inflammatory terpenoids (beta-caryophyllene, myrcene) are preferred. See [[cannabis-for-inflammatory-conditions]] for detailed guidance.
 
 ### Immune and Autoimmune Conditions
 
 Patients with immune-compromised conditions, autoimmune disorders, or chronic inflammation are typically CB2-deficient and may benefit from indica-dominant strains with lower THC to CBD ratios. CBD's affinity for CB2 receptors supports immune modulation and anti-inflammatory activity.
 
-See [[cannabis-immune-modulation]] and [[cannabis-autoimmune-conditions]] for condition-specific recommendations.
+See [[cannabis-autoimmune-conditions]] for condition-specific recommendations.
 
 ## Practical Selection Considerations
 
@@ -71,7 +71,7 @@ THC content varies by strain and is affected by whether the material is fresh or
 
 Cannabinoid content decreases over time and is affected by UV light, heat, and moisture exposure. Patients should store cannabis in a cool, dark, airtight container to preserve potency. When switching between strains or batches, patients should re-establish their subjective therapeutic window for the new product, as cannabinoid concentrations can vary significantly.
 
-See [[cannabis-dosing-and-titration]] for guidance on finding the optimal dose and [[cannabis-terpene-profile]] for understanding terpenoid contributions to strain effects.
+See [[cannabis-terpene-profile]] for understanding terpenoid contributions to strain effects.
 
 ## Chemotype Considerations
 
@@ -79,30 +79,16 @@ Beyond the sativa-indica classification, cannabis strains are increasingly categ
 
 Type II (balanced) chemotypes are gaining popularity for medical use because they provide the therapeutic benefits of both THC and CBD while minimizing the psychoactive intensity of high-THC strains. The CBD content helps buffer the psychoactive effects of THC, potentially reducing adverse effects while maintaining therapeutic efficacy.
 
-Landrace varieties, the original, regionally adapted cannabis strains from specific geographic areas (Hindu Kush, Thai, Afghani, Colombian, and others), represent genetically distinct populations with characteristic chemotypes. See [[cannabis-landrace-and-heirloom-varieties]] for more on these foundational genetics.
-
-## See Also
-
-- [[jillybean]]
-
-- [[golden-goat]]
+Landrace varieties, the original, regionally adapted cannabis strains from specific geographic areas (Hindu Kush, Thai, Afghani, Colombian, and others), represent genetically distinct populations with characteristic chemotypes. See [[jillybean]]
 
 - [[kushi-mints]]
 
-- [[london-poundcake]]
 - [[thin-mint-cookies]]
 
-- [[grease-monkey]]
 - [[maui-wowie]]
-- [[super-skunk]]
-
 - [[cannabis-endocannabinoid-system]] — how cannabinoids interact with the body
-- [[cannabis-cbd-therapeutic-profile]] — CBD therapeutic effects
 - [[cannabis-thc-therapeutic-profile]] — THC therapeutic effects
-- [[cannabis-minor-cannabinoids]] — CBG, CBC, CBN, and others
 - [[cannabis-terpene-entourage-effect-profiles]] — terpenoid effects on strain character
-- [[cannabis-dosing-and-titration]] — finding optimal dose
 - [[cannabis-genetics-and-breeding]] — developing new strains
-- [[marijuana-strain-guide-indica]] — indica strain profiles
 - [[marijuana-strain-guide-sativa]] — sativa strain profiles
 - [[marijuana-strain-guide-hybrid]] — hybrid strain profiles

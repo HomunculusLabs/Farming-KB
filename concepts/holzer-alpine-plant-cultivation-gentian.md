@@ -108,11 +108,7 @@ Holzer criticizes conventional nature conservation:
 
 ## See Also
 
-- [[holzer-old-varieties-and-seed-saving]] — old varieties and seed saving
 - [[holzer-farming-philosophy]] — Holzer's farming philosophy
-- [[holzer-assessing-the-land]] — Holzer's approach to site assessment
 - [[symbiosis-art-of-living]] — symbiotic relationships in permaculture
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[holzer-alpine-plant-cultivation]]
-- [[permaculture-designers-manual-seed-saving-varieties]]
 - [[natural-farming-seed-saving]]

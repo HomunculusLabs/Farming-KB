@@ -15,70 +15,9 @@ type: comparison
 
 # Pasture Management vs Silvopasture Systems
 
-A detailed comparison of conventional [[pasture-management]] and integrated
-[[silvopasture-systems]], examining forage production, carbon sequestration,
+A detailed comparison of conventional [[silvopasture-systems]], examining forage production, carbon sequestration,
 livestock welfare, establishment requirements, and long-term productivity.
-Both approaches support [[nutrient-cycling-in-soil]] but differ significantly
-in complexity and time horizon.
-
-## Overview
-
-Open pasture is the foundation of grass-based livestock production. Silvopasture
-adds an intentional tree layer to the pasture system, creating a multi-strata
-production model that generates income from timber or fruit alongside livestock.
-The trade-off is between simplicity and speed versus long-term productivity and
-resilience.
-
-## Rotational Grazing Fundamentals
-
-### Open Pasture
-
-Rotational grazing typically uses 4-8 paddocks with livestock moved every 1-5
-days depending on stocking density and growth rates. The core principle is
-"graze half, leave half." Recovery periods range from 15 to 60 days. Well-
-managed rotational grazing produces 30-200% more forage than continuous grazing
-on the same acreage.
-
-### Silvopasture
-
-Rotational grazing under a tree canopy follows the same principles but requires
-adjusted timing. Shade reduces forage growth rates, so recovery periods may be
-longer. Tree roots compete with forage plants for moisture and nutrients,
-requiring careful species selection and lower stocking densities.
-
-## Forage Species Selection
-
-### Open Pasture Forages
-
-The ideal open pasture mix includes 2-3 grass species and 1-2 legumes:
-
-- **Grasses**: orchardgrass, tall fescue, perennial ryegrass, timothy
-- **Legumes**: white clover, red clover, alfalfa, birdsfoot trefoil
-
-This diversity provides year-round forage, nitrogen fixation, and resilience
-against drought, disease, and pest pressure.
-
-### Silvopasture Forages
-
-Shade tolerance becomes the primary selection criterion:
-
-- Orchardgrass (moderate shade tolerance)
-- Kentucky bluegrass (tolerates partial shade)
-- Chicory (deep taproot, shade tolerant, high mineral content)
-- Plantain (broadleaf, shade tolerant, palatable to livestock)
-
-Legume inclusion is more challenging under shade but red and white clover
-persist in moderate canopy conditions. Forage yields per acre are typically
-lower under trees than in open pasture.
-
-## Carbon Sequestration
-
-One of the most compelling advantages of silvopasture is its carbon sequestration
-potential. While well-managed open pasture sequesters meaningful carbon through
-deep-rooted perennial grasses and improved soil organic matter, silvopasture
-systems sequester **5-10 times more carbon** than pasture alone. This comes
-from both above-ground tree biomass and below-ground root systems. For
-homesteaders interested in [[biochar-soil-remediation]] or maximizing land-
+Both approaches support [[biochar-soil-remediation]] or maximizing land-
 based carbon drawdown, silvopasture is one of the most effective practices.
 
 ## Livestock Welfare and Performance
@@ -108,8 +47,7 @@ Establishment is the primary barrier to silvopasture adoption. Tree planting to
 functional production typically requires 3-8 years. During establishment, young
 trees are extremely vulnerable to livestock damage from browsing, rubbing, and
 trampling. Tree shelters, fencing exclusion zones, and careful grazing
-management are necessary. Practitioners aligned with [[permaculture-design]] or
-the [[sepp-holzer-method]] will find the multi-layer approach philosophically
+management are necessary. Practitioners aligned with [[sepp-holzer-method]] will find the multi-layer approach philosophically
 natural.
 
 ## Income Diversification
@@ -147,4 +85,3 @@ significant heat stress, and carbon sequestration is a management objective.
 | Heat stress mitigation | Minimal | Significant (10-15°F) |
 | Income streams | Livestock only | Livestock + tree products |
 | Management complexity | Moderate | High |
-| Upfront cost | Fencing, water | Fencing, water, tree costs |

@@ -136,15 +136,10 @@ Researchers conducted a single-blind, randomized trial of classic Yang-style tai
 5. **Expressive writing** about traumatic experiences reduces pain and fatigue.
 6. **Tai chi** provides lasting symptom improvement with zero adverse effects.
 7. **A multi-modal approach** combining cannabinoid therapy, emotional processing, positive affect cultivation, and gentle movement addresses fibromyalgia on multiple levels simultaneously.
-
 ## See Also
 
 - [[blesching-cannabis-epigenetics-and-emotional-trauma]]
 
-- [[blesching-cannabis-epigenetics-and-emotional-trauma]]
-
-- [[blesching-cannabis-neuropathic-pain]]
 - [[blesching-cannabis-chronic-non-malignant-pain]]
-- [[blesching-cannabis-inflammation]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[blesching-cannabis-synthetic-cannabinoids]]

@@ -17,34 +17,7 @@ air, organic materials, and nutrients through the natural cycle of growing
 plants. Roots take up minerals and water, use those nutrients to produce
 fruit and leaves that then drop onto the ground to decay and return to the
 soil. Understanding and working with these natural processes is the foundation
-of [[natural-farm-permaculture-ethics-principles]] and sustainable food
-production.
-
-## Assessing Your Soil
-
-Before planting, evaluate your soil:
-
-1. **pH test.** Available at any garden center. Ideally soil should be
-   neutral, around pH 7.
-
-2. **Drainage test.** Dig a hole 1 foot deep, fill with water, and after
-   five minutes fill again. If it takes more than four hours to drain,
-   drainage is a problem.
-
-3. **Observe existing plants.** Bare soil is damaged by sun, wind, and
-   water. Overgrown pioneer plants like blackberries often indicate damaged
-   soil preparing for the next succession stage.
-
-## Nitrogen Fixers and Rhizobium
-
-Certain plants live in a symbiotic relationship with bacteria called rhizobium.
-Almost all legumes and leguminous trees are nitrogen fixers, as are plants
-like alder. The rhizobium converts atmospheric nitrogen into a usable form
-and releases it into the soil. Without rhizobium and nitrogen fixers, nothing
-on earth would grow. Including them in your planting plan is essential for
-maintaining soil fertility without synthetic fertilizers.
-
-## The Art of [[sheet-mulching]]
+of [[sheet-mulching]]
 
 Sheet mulching creates a new garden without the hard labor of digging and
 turning dirt. It works for every soil type except the hardest compacted dirt.
@@ -108,29 +81,7 @@ plow diagonally to prevent water runoff.
 - Don't drain wetlands, which are packed with nutrients
 - Choose edible plant species for their nutritional value
 
-## [[hugelkultur]]
-
-Hugelkultur is a method of burying old wood in the ground under a garden
-bed. It patterns the exact processes of the forest and returns massive
-amounts of organic material to the soil. It retains huge quantities of water
-and breaks down over time, leaving air pockets that provide oxygen to plants.
-
-Wood that has been laying around for a couple of years is the best material,
-including brush, tree stumps, roots, and debris. Avoid treated wood, cedar,
-black locust, and naturally toxic woods like black walnut. Fresh wood can be
-used but will rob nitrogen from soil during decomposition.
-
-### Building a Hugelkultur Bed
-
-1. Remove a strip of sod the size of your bed to use as mulch later.
-
-2. Lay down your wood layer, at least a couple of feet deep.
-
-3. Sandwich layers of mulch and soil including leaves, grass clippings,
-   compost, old straw, and moldy hay. Flip the removed sod upside down on
-   top and add another layer of soil. Use rocks to line the sides.
-
-4. First season, grow a cover crop such as clover to fix nitrogen, then
+## [[cover-crop]] such as clover to fix nitrogen, then
    plant root vegetables like potatoes, carrots, and radishes.
 
 The beds start out very tall and settle over time. Fresh wood requires
@@ -144,7 +95,6 @@ plants suffer from bad weather or pest attacks. Mix one part manure to three
 parts water, ferment for at least two weeks in a container with a loose lid,
 then add 10 to 15 more parts water. Extras like comfrey, seaweed, or kitchen
 compost can be added for a continuous supply.
-
 ## See Also
 
 - [[natural-farm-composting-vermicomposting]]

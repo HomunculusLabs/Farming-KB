@@ -3,14 +3,14 @@ title: Fungal Metal Redox Transformations — Detailed
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Metal Redox Transformations — Detailed
 
 ## Overview
 
-Fungi mediate a remarkable range of metal transformations in the environment, including oxidation, reduction, methylation, complexation, precipitation, and solubilization. These processes fundamentally influence metal mobility, toxicity, and bioavailability in soils and aquatic systems. This page draws primarily from Gadd's comprehensive treatment of fungal roles in metal biogeochemistry. See [[fungal-metal-redox-transformations]] for the summary page and [[fungal-roles-in-metal-biogeochemistry]] for the broader context.
+Fungi mediate a remarkable range of metal transformations in the environment, including oxidation, reduction, methylation, complexation, precipitation, and solubilization. These processes fundamentally influence metal mobility, toxicity, and bioavailability in soils and aquatic systems. This page draws primarily from Gadd's comprehensive treatment of fungal roles in metal biogeochemistry. See [[fungal-roles-in-metal-biogeochemistry]] for the broader context.
 
 ## Solubilization Mechanisms
 
@@ -91,31 +91,6 @@ Fungi promote metal immobilization through precipitation:
 - **Oxalate precipitation**: Formation of insoluble metal oxalate crystals (e.g., copper oxalate, zinc oxalate) at cell surfaces and in surrounding medium
 
 ### Biosorption
-Non-metabolism-dependent binding to cell walls concentrates metals from solution. See [[fungal-biosorption-mechanisms]] for detailed coverage of biosorption processes.
-
-### Intracellular Sequestration
-- **Vacuolar compartmentation**: Metals are transported into vacuoles and stored
-- **Phytochelatin binding**: Intracellular peptide complexes sequester excess metals
-- **Polyphosphate bodies**: Serve as intracellular metal sinks
-
-## Biogeochemical Significance
-
-Fungal metal transformations are fundamental to global biogeochemical cycling:
-
-- **Soil formation**: Fungi are primary agents of rock weathering and soil mineral formation
-- **Nutrient availability**: Solubilization of phosphorus, potassium, and micronutrients from mineral sources
-- **Metal mobility**: Oxidation-reduction reactions control whether metals remain mobile or become immobilized
-- **Toxin production**: Mercury and arsenic methylation creates highly toxic organometallic species
-- **Mineral genesis**: Biogenic precipitation of metal oxalates, oxides, and carbonates contributes to secondary mineral formation
-- **Radionuclide behavior**: Fungi influence the environmental mobility of uranium, thorium, plutonium, and other radionuclides through biosorption, reduction, and complexation
-
-## peat free gardening and Fungal Metal Research
-
-G.M. Gadd has been instrumental in establishing the framework for understanding fungal interactions with metals. His work demonstrates that fungal metal transformations should be viewed as interconnected processes — solubilization and immobilization, oxidation and reduction, and complexation and precipitation operate simultaneously in natural environments, with the net effect determined by environmental conditions and fungal physiology.
-
-## Related
-
-- [[fungal-chromogens-and-color-change]]
-- [[fungal-nutrient-cycling-mineral-transformations]]
+Non-metabolism-dependent binding to cell walls concentrates metals from solution. See [[fungal-chromogens-and-color-change]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

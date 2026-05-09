@@ -126,11 +126,7 @@ poisonous plants.
 
 ## Related Topics
 
-- [[belladonna-atropa-belladonna-ethnobotany]] - Belladonna details
 - [[henbane-hyoscyamus-niger-ethnobotany]] - Henbane ethnobotany
-- [[mandrake-mandragora-officinarum-in-european-folklore]] - Mandrake
 - [[european-witchcraft-hallucinogenic-plants]] - European witchcraft
-- [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] - review
 - [[solanaceous-hallucinogens-pharmacology]] - pharmacology
-- [[lycanthropy-solanaceous-hallucinogens]] - lycanthropy connection
 - [[harner-european-witchcraft-hallucinogens]] - Harner's analysis

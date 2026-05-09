@@ -115,13 +115,9 @@ Despite these initial hurdles, the system rewards persistence. Once the clover g
 
 ## See Also
 
-- [[fukuoka-natural-farming-principles]]
 - [[fukuoka-clay-seed-pellets]]
-- [[fukuoka-clover-and-green-manure-cropping]]
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-weed-management-and-green-manure]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
-- [[fukuoka-rice-and-barley-natural-farming]]
 - [[no-till-agriculture]]
 - [[natural-farming-guide-cover-cropping-and-green-manures]]
 - straw mulching

@@ -19,7 +19,7 @@ Farm woodlots and hedgerows serve multiple on-farm purposes that extend far beyo
 
 Woodlots designed for the farm itself serve several critical functions simultaneously. Species can be selected that provide fuel, structural materials, forage, and shelter in integrated systems. Some very valuable trees, such as black walnut, not only produce young trees for structural use but may be sold as rootstock for grafting. At maturity, premium timber species can provide substantial crop income, potentially funding a farmer's retirement.
 
-The key to effective farm forestry is selecting species that serve multiple functions within the system. Conifers, while useful as timber, are generally slow-growing and less broadly useful in permaculture systems compared to multi-use species. This approach mirrors the broader [[permaculture-multi-purpose-plants]] principles central to [[permaculture-design]] and complements strategies like [[silvopasture-systems]] and [[windbreak-shelterbelt-species-selection]] for integrated land use.
+The key to effective farm forestry is selecting species that serve multiple functions within the system. Conifers, while useful as timber, are generally slow-growing and less broadly useful in permaculture systems compared to multi-use species. This approach mirrors the broader [[permaculture-design]] and complements strategies like [[windbreak-shelterbelt-species-selection]] for integrated land use.
 
 ## Timber Durability Ratings
 
@@ -82,12 +82,11 @@ Additional barrier species include the redoubtable red cedar, honey locust, and 
 
 ## Multi-Use Selection Principles
 
-The permaculture approach to [[hedgerow-planting]] emphasizes choosing species that simultaneously serve structural, forage, shelter, and bee forage functions. The ideal farm hedgerow integrates with [[farm-forestry-design-mollison]] systems, providing windbreaks, wildlife corridors, livestock containment, and harvestable products. Species suited to arid conditions can be paired with those preferring riverine or coastal zones, creating resilient multi-zone farm boundaries.
+The permaculture approach to [[farm-forestry-design-mollison]] systems, providing windbreaks, wildlife corridors, livestock containment, and harvestable products. Species suited to arid conditions can be paired with those preferring riverine or coastal zones, creating resilient multi-zone farm boundaries.
 
 For poultry integration, species that provide both barrier function and forage are especially valuable. The honey locust, for example, produces pods relished by poultry while also forming an effective hedge. Black locust serves as both a nitrogen-fixing fence post tree and a source of nectar for bees.
 
 The design of farm boundaries in permaculture moves beyond single-function fencing toward integrated biological systems that produce food, fuel, fiber, and shelter while containing livestock and modifying microclimate.
-- [[mollison-woodlot-timber-durability-and-hedgerow-barriers]]
 - [[arid-zone-permaculture-strategies-mollison]]
 
 ## See Also

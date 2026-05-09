@@ -88,13 +88,9 @@ Cannabis may address insomnia through multiple pathways simultaneously: reducing
 
 ## See Also
 
-- [[cannabis-for-sleep-disorders]]
 - [[cannabis-sleep-disorders-and-insomnia]]
-- [[cannabis-for-anxiety-disorders]]
 - [[cannabis-for-ptsd-and-trauma]]
-- [[cannabis-for-fibromyalgia]]
 - [[cannabis-for-chronic-pain]]
-- [[cannabis-for-mental-health]]
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-health-index]]
 

@@ -77,10 +77,7 @@ Many plants in Apocynaceae carry alkaloids closely related to ibogaine. Genera i
 
 ## See Also
 
-- [[dmt-entity-tihkal]] — simpler tryptamine psychedelics for comparison
 - [[harmaline-entity-tihkal]] — beta-carboline with MAOI properties, also from Apocynaceae
-- [[harmine-entity-tihkal]] — another Apocynaceae alkaloid with complex medical history
 - [[psychedelic-therapy-models-comparison]] — clinical applications of psychedelics
-- [[psychedelic-harm-reduction]] — ibogaine carries significant cardiovascular risk
 - [[alexander-shulgin]] — primary author of TIHKAL
 - [[claude-naranjo]] — pioneered ibogaine psychotherapy research

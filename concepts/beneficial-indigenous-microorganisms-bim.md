@@ -80,7 +80,3 @@ See [[bionutrients-guide]] for the full bionutrient preparation system that pair
 - [[knf-preparations]] — all KNF inputs overview
 - [[soil-food-web-nutrient-cycling]] — what IMO/BIM does in the soil
 - [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
-
-## Key Considerations
-
-Consider site-specific conditions when implementing this approach. Local climate, soil characteristics, and existing biological communities affect outcomes. Start with small trials before full implementation and maintain detailed records. Connecting with experienced practitioners provides valuable guidance tailored to your context and goals.

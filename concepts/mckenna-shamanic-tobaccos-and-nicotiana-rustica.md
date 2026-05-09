@@ -120,8 +120,6 @@ The rustica-tabacum split thus stands as a microcosm of the larger civilizationa
 
 ## See also
 
-[[mckenna-maya-tobacco-shamanism-enemas]]
 [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-[[mckenna-dmt-experience-and-hyperspace]]
 [[mckenna-psychedelic-plant-use-in-antiquity]]
 [[mckenna-techniques-of-ecstasy]]

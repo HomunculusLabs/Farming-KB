@@ -23,8 +23,7 @@ type: concept
 ## Overview
 
 The experiments conducted by psychopharmacologist Roland Fischer in the late 1960s on the
-effects of psilocybin on visual perception occupy a pivotal position in Terence McKenna's
-stoned ape hypothesis, as presented in *Food of the Gods*. Fischer demonstrated that small
+effects of psilocybin on visual perception occupy a pivotal position in [[stoned-ape-hypothesis]], as presented in *Food of the Gods*. Fischer demonstrated that small
 doses of psilocybin measurably improved human performance on certain visual tasks, particularly
 the detection of when previously parallel lines became skewed. McKenna seized on these findings
 as empirical support for his argument that psilocybin-containing mushrooms conferred direct
@@ -130,21 +129,5 @@ fundamental of these three levels.
 ## Relationship to Huxley's Reducing Valve
 
 Fischer's finding that psilocybin can actually improve perception of the physical world
-complements Aldous Huxley's reducing valve theory, which McKenna also discusses. Huxley
-proposed that the brain and nervous system function primarily as a filter that eliminates
-most of the information available to Mind at Large, leaving only a "measly trickle" of
-consciousness necessary for biological survival. Fischer's work suggests that at certain
-dosages, psychoactive compounds can temporarily widen this filter, allowing in more
-perceptual information without the hallucinatory overload that occurs at higher doses.
-
-This calibration of the reducing valve, the ability of psilocybin to enhance specific
-perceptual channels at low doses while dissolving the filter entirely at high doses, is
-consistent with McKenna's broader argument that the human relationship with psychoactive
-plants has been a continuous process of calibrating consciousness to different levels of
-information access.
-
-## See Also
-
-- [[mckenna-psilocybin-three-levels-of-evolution]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
+complements [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]

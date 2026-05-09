@@ -75,19 +75,11 @@ Light cycle manipulation remains an important tool in the advanced grower's repe
 
 ## See Also
 
-- [[cannabis-lighting-guide]]
-
 - [[cannabis-vegetative-stage-management]]
-
-- [[cannabis-flowering-stage-management]]
 
 - [[cannabis-environment-control]]
 
-- [[cannabis-autoflower-guide]]
-
 - [[cannabis-indoor-growing-basics]]
-
-- [[cannabis-outdoor-growing]]
 
 - [[cannabis-genetics-and-breeding]]
 

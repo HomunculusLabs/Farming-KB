@@ -25,17 +25,7 @@ a wide range of angiosperm hosts, particularly in temperate
 regions. The order is monogeneric or nearly so, with
 Taphrina being the primary genus of interest. These fungi
 represent a deeply divergent lineage within the
-[[ascomycota-phylogeny-major-classes-lineages]] and occupy
-a basal position in the Ascomycota.
-
-## Biology and Life Cycle
-
-Taphrina species are obligate biotrophs that grow
-intercellularly within host tissues without forming
-haustoria or specialized feeding structures. The mycelium
-is typically subcuticular or intercellular and does not
-kill host cells outright but instead alters their growth
-patterns through the secretion of [[tompkins-plant-growth-regulators]],
+[[tompkins-plant-growth-regulators]],
 particularly cytokinins and auxins. This manipulation
 results in characteristic symptoms including leaf curling,
 thickening, chlorosis, and the formation of witches' broom
@@ -86,41 +76,7 @@ yeast-like and filamentous growth forms, their dikaryotic
 mycelium, and their direct ascus formation without an
 ascocarp distinguish them from other ascomycete orders.
 
-Within the [[ascomycete-phylum-guide]], the Taphrinales
-are placed in the class Taphrinomycetes, which also
-includes the fission yeast Schizosaccharomyces and the
-dimorphic snow mold fungi Protomyces and Pneumocystis.
-This class is recognized as one of the earliest-diverging
-lineages of the Ascomycota, retaining ancestral features
-such as a simple fruiting body structure and direct ascus
-formation.
-
-## Protomycetales and Related Gall-Forming Fungi
-
-The Protomycetales are a related group of biotrophic fungi
-that form galls on members of the Asteraceae and other
-plant families. Protomyces species produce large, often
-globose galls on stems, leaves, or inflorescences. Like
-Taphrina, they grow intercellularly and induce host cell
-proliferation. Their spores are thick-walled and can
-persist in soil, serving as the primary inoculum for
-new infections.
-
-The relationship between Taphrinales and Protomycetales
-has been debated. Some authors have merged them into a
-single order, while others maintain them as separate
-orders. Molecular data suggest they are related but
-distinct lineages within the Taphrinomycetes.
-
-## Discovery and Collection
-
-Taphrina species are usually encountered as symptoms on
-their hosts rather than through direct collection. Infected
-leaves with characteristic curling, thickening, or
-discoloration can be collected and examined microscopically
-for the presence of asci on the leaf surface. The asci are
-conspicuous and usually readily visible even with a hand
-lens. [[herbarium-specimens-fungal-collections]] of infected host material are
+Within the [[herbarium-specimens-fungal-collections]] of infected host material are
 valuable for documenting distribution and host range.
 
 ## Ecological and Economic Significance
@@ -140,10 +96,4 @@ a long evolutionary history of coexistence.
 The true diversity of Taphrinales is likely underestimated.
 Many plant species in temperate and subtropical regions
 have not been surveyed for Taphrina infections, and
-[[cryptic-species]] may exist within currently recognized
-taxa. The narrow host specificity of most species means
-that each new host plant surveyed could potentially yield
-a new Taphrina species. Molecular barcoding approaches
-using ITS rDNA sequences have begun to reveal previously
-## See Also
-- [[fungal-fruiting-body-formation-environmental-triggers]]
+[[fungal-fruiting-body-formation-environmental-triggers]]

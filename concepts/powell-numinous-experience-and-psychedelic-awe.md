@@ -137,10 +137,6 @@ highlights the timeless truism that one must come to terms with oneself
 before inward spiritual development can proceed. This self-revealing
 quality is itself part of the numinous power of psilocybin.
 
-See also: [[powell-psilocybin-mystical-experience]], [[powell-ancient-entheogenic-cults-and-the-religious-impulse]],
-[[powell-shamanic-wisdom-and-ritual-practice]]
-
-## See Also
-
-- [[powell-paradigm-shifting-and-the-psychedelic-revolution]]
+See also: [[powell-ancient-entheogenic-cults-and-the-religious-impulse]],
+[[powell-paradigm-shifting-and-the-psychedelic-revolution]]
 - [[weil-psychedelic-experience-set-and-setting]]

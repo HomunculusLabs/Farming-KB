@@ -10,22 +10,7 @@ type: comparison
 
 # Ferrocement vs Cob Construction
 
-Both ferrocement and cob are affordable, low-tech [[query-what-are-the-best-natural-building-methods]] that empower DIY builders to create structures without heavy machinery. Despite sharing this philosophy, they sit at opposite ends of the material spectrum—one uses cement and steel mesh, the other uses raw earth and straw. Understanding their trade-offs helps builders choose the right technique for climate, structure type, and skill level.
-
-## Material Composition
-
-**Ferrocement** consists of a cement-sand mortar (typically 1:2 or 1:3 ratio) applied in thin layers over a framework of welded wire mesh, chicken wire, or rebar. The result is a thin, dense, monolithic shell—usually 2–5 cm thick—that gains its strength from the distributed reinforcement rather than material mass. Additives like acrylic emulsion or superplasticizers can improve workability and waterproofing.
-
-**Cob** is a mixture of subsoil clay (20–30% by weight), sand, and straw fiber, mixed with water to a dough-like consistency and applied in thick monolithic walls by hand or foot. Walls are typically 45–60 cm thick, gaining structural integrity purely from mass and fiber reinforcement. No Portland cement is used. The clay acts as the binder, sand prevents shrinkage cracking, and straw provides tensile reinforcement throughout the matrix.
-
-## Structural Characteristics
-
-| Property | Ferrocement | Cob |
-|---|---|---|
-| **Wall thickness** | 2–5 cm | 45–60 cm |
-| **Compressive strength** | Very high (30–50 MPa) | Moderate (1–5 MPa) |
-| **Tensile strength** | High (steel reinforcement) | Low (straw fibers help minimally) |
-| **Weight** | Light for its strength | Very heavy ([[urban-water-catchment-cistern-thermal-mass]]) |
+Both ferrocement and cob are affordable, low-tech [[urban-water-catchment-cistern-thermal-mass]]) |
 | **Monolithic behavior** | Excellent—shell acts as one unit | Excellent—no joints or cold bridges |
 | **Seismic resistance** | Good (flexible mesh distributes stress) | Poor to moderate (brittle in earthquakes) |
 | **Span capability** | Can vault and dome without formwork | Limited to small openings, timber lintels |
@@ -42,9 +27,7 @@ Ferrocement is essentially a thin concrete shell with minimal thermal mass. With
 
 ## Construction Process
 
-**Ferrocement** requires procuring cement, steel mesh, [[coleman-small-farm-equipment-and-tools]] for cutting and bending wire. The armature is built first—a rebar skeleton with layered mesh tied tightly at multiple points. The mesh is then plastered with mortar in 2–3 passes, working from the outside in to force mortar fully through the mesh layers. Skill matters significantly: too much water weakens the mix, voids in the mesh create weak points, and inconsistent thickness leads to cracking. Curing requires keeping the shell moist for 7–28 days (covering with wet burlap or plastic sheeting). A small dome (3–4 m diameter) can be built by 2–3 people in a week.
-
-**Cob** requires only subsoil (tested on-site for clay content using the "jar test" or ribbon test), sand, straw, and water. Mixing is done by tarp-throwing or foot-mixing directly on the ground—no power tools needed. Walls are built in courses of 30–60 cm height, each allowed to stiffen (typically overnight) before the next is added. Openings for windows and doors are formed with temporary wooden formwork that is removed once the cob sets. A small [[cob-building]] (20–30 m²) typically takes a full building season (3–5 months) with a crew of 3–5 working steadily. No curing period beyond natural drying is required, and walls can be trimmed and sculpted while still plastic.
+**Ferrocement** requires procuring cement, steel mesh, [[cob-building]] (20–30 m²) typically takes a full building season (3–5 months) with a crew of 3–5 working steadily. No curing period beyond natural drying is required, and walls can be trimmed and sculpted while still plastic.
 
 ## Cost Comparison
 
@@ -85,27 +68,11 @@ Many natural builders combine both materials creatively. A common pattern uses c
 
 Properly built ferrocement can last 50–100+ years with minimal maintenance. The main risk is corrosion of the steel reinforcement if the mortar cover is too thin or cracks allow moisture penetration. Using galvanized mesh and maintaining adequate cement cover (minimum 1.5 cm over all reinforcement) mitigates this. Hairline cracks that develop over time can be patched with a cement slurry.
 
-Cob buildings that are kept dry can last centuries—many cob structures in Devon (UK) and Yemen are 300–500 years old and still inhabited. Maintenance involves periodic re-plastering (every 10–20 years) and vigilant protection from water intrusion at foundations and roof lines. One of cob's greatest advantages is reparability: damaged or eroded sections can be repaired by mixing new cob [[coleman-winter-harvest-washing-and-packing]] it directly into the wall, where it bonds seamlessly with the existing material.
-
-## Fire Resistance
-
-Both materials perform well in fire, but through different mechanisms.
-
-**Ferrocement** is essentially non-combustible. The cement matrix does not burn, and the thin profile means there is little fuel within the wall itself. Steel reinforcement may lose some strength at very high temperatures (above 500°C), but the mesh distribution prevents catastrophic failure. Ferrocement is widely used for fireproof enclosures and chimneys.
-
-**Cob** is remarkably fire-resistant despite containing straw. When exposed to flame, the outer surface of a cob wall vitrifies into a ceramic-like crust that protects the interior. The straw is sealed within the dense clay matrix where there is insufficient oxygen to combust. Cob walls have survived building fires that destroyed timber roofs and interiors, leaving the walls structurally intact and reusable.
-
-## Building Codes and Permitting
-
-**Ferrocement** has a somewhat easier path to code compliance because it falls under general concrete/masonry engineering. Engineers can calculate load capacity using standard reinforced concrete formulas adapted for thin-shell sections. Many jurisdictions accept ferrocement for permitted structures, especially domes and water tanks, when stamped by a licensed engineer.
-
-**Cob** faces more permitting challenges. Few building codes explicitly address [[cob-construction]], and most jurisdictions classify it under "alternative materials" requiring special review. Builders typically need to demonstrate compliance through structural calculations, laboratory compression testing of cob samples, or precedent from permitted cob buildings in similar conditions. Some regions (notably parts of Oregon, New Mexico, and the UK) have more established pathways for cob permitting.
+Cob buildings that are kept dry can last centuries—many cob structures in Devon (UK) and Yemen are 300–500 years old and still inhabited. Maintenance involves periodic re-plastering (every 10–20 years) and vigilant protection from water intrusion at foundations and roof lines. One of cob's greatest advantages is reparability: damaged or eroded sections can be repaired by mixing new cob [[cob-construction]], and most jurisdictions classify it under "alternative materials" requiring special review. Builders typically need to demonstrate compliance through structural calculations, laboratory compression testing of cob samples, or precedent from permitted cob buildings in similar conditions. Some regions (notably parts of Oregon, New Mexico, and the UK) have more established pathways for cob permitting.
 
 ## Skill Development and Community
 
-**Cob** has a strong tradition of community workshops and [[natural-building]] schools. The learning curve is gentle—most people can mix and apply cob competently within a single weekend workshop. The tactile, sculptural nature of cob attracts artists and beginners alike. Building parties ("cob jams") are common, making cob a social building method.
-
-**Ferrocement** requires more specializedappropriate-technologyixing ratios, mesh armature construction, and plastering technique. Training resources are fewer, though organizations like the Ferrocement Society and various appropriate-technology groups offer workshops. The method has a strong following in developing countries for low-cost [[mollison-designers-dam-construction-and-water-storage]] and housing.
+**Cob** has a strong tradition of community workshops and [[mollison-designers-dam-construction-and-water-storage]] and housing.
 
 ## Summary
 

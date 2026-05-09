@@ -124,12 +124,8 @@ Schedule I substance under U.S. federal law.
 
 ## See Also
 
-- [[ghost-train-haze]]
-
 - [[trainwreck-generational-breeding]]
 
-- [[cannabis-blue-dream]]
 - [[gmo-cannabis]]
-- [[la-confidential]]
 - [[malawi-gold-entity]]
 - [[trainwreck-cannabis]]

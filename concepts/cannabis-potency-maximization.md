@@ -73,23 +73,10 @@ Post-harvest handling preserves or destroys potency:
 
 ## Harvest Timing
 
-Harvest timing is one of the most impactful decisions for final potency. Trichomes progress through three visible stages: clear (immature, low potency), cloudy/milky (peak THC, optimal harvest for maximum psychoactive effect), and amber (THC degrading to CBN, more sedative effect). Most growers harvest when 50-70 percent of trichomes are cloudy with some beginning to turn amber. Harvesting too early sacrifices potency; harvesting too late shifts the effect profile toward sedation as THC degrades. The [[cannabis-trichome-guide]] provides detailed identification methods.
-
-## Curing for Potency Preservation
-
-Proper curing after harvest preserves and can enhance perceived potency by allowing residual chlorophyll to break down and terpenes to fully develop. Slow drying at 60-70 degrees Fahrenheit and 45-55 percent humidity over 7-14 days, followed by jar curing for 2-8 weeks, produces the smoothest, most potent final product. Rushing the dry-cure process is one of the most common mistakes that reduces the quality of otherwise well-grown cannabis.
-
-## Related
-- [[cannabis-flowering-stage]] — for flowering management details
-- [[cannabis-harvest-and-curing]] — for post-harvest potency preservation
+Harvest timing is one of the most impactful decisions for final potency. Trichomes progress through three visible stages: clear (immature, low potency), cloudy/milky (peak THC, optimal harvest for maximum psychoactive effect), and amber (THC degrading to CBN, more sedative effect). Most growers harvest when 50-70 percent of trichomes are cloudy with some beginning to turn amber. Harvesting too early sacrifices potency; harvesting too late shifts the effect profile toward sedation as THC degrades. The [[cannabis-flowering-stage]] — for flowering management details
 - [[cannabis-seed-banks-and-genetics]] — for strain selection
-- [[cannabis-thc-therapeutic-profile]] — for cannabinoid chemistry
 - [[cannabis-terpene-profile]] — for terpene profiles and effects
 
 ## Terpene Enhancement
 
-Beyond THC quantity, terpene production is increasingly recognized as essential to the overall psychoactive experience and therapeutic value. The [[query-what-is-the-cannabis-entourage-effect]] -- the synergistic interaction between cannabinoids, terpenes, and flavonoids -- means that maximizing terpene diversity can enhance perceived potency even when THC percentages are identical. Strategies for terpene enhancement include: maintaining slightly cooler growing temperatures (particularly at night), using [[living-soil-cannabis]] with diverse microbial communities, avoiding excessive nutrient levels that can dilute terpene concentrations, and selecting strains specifically bred for complex terpene profiles rather than maximum THC alone. The [[cannabis-glandular-trichome-types-resin-production-clarke]] is the site of both cannabinoid and terpene biosynthesis, so conditions that maximize trichome density serve both goals simultaneously.
-
-## See Also
-
-[[cannabis-potency-enhancement-intact-flowers]]
+Beyond THC quantity, terpene production is increasingly recognized as essential to the overall psychoactive experience and therapeutic value. The [[living-soil-cannabis]] with diverse microbial communities, avoiding excessive nutrient levels that can dilute terpene concentrations, and selecting strains specifically bred for complex terpene profiles rather than maximum THC alone. The [[cannabis-potency-enhancement-intact-flowers]]

@@ -112,17 +112,11 @@ The key insight is that SFG and raised bed gardening are not competing methods b
 
 ## See Also
 
-- [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
-
 - [[comparison-sheet-mulching-vs-square-foot-gardening]]
 
-- [[square-foot-gardening]] for the complete SFG method and spacing charts
 - [[raised-bed-gardening]] for construction, materials, and soil volume guidance
-- [[comparison-biointensive-vs-square-foot-gardening]] for another intensive method comparison
 - [[comparison-keyhole-garden-vs-square-foot-gardening]] for keyhole bed alternatives
-- [[companion-planting-reference]] for planning mixed bed layouts
 - [[soil-amendment-reference]] for maintaining healthy raised bed soil over time
-- [[mulching-guide]] for maintaining moisture and reducing weeds in any raised bed
 - [[winter-gardening-season-extension]] for year-round growing in raised beds
 
 Both methods offer substantial improvements over traditional in-ground row gardening. The best choice depends on your space, experience level, and how much structure you want in your garden planning.

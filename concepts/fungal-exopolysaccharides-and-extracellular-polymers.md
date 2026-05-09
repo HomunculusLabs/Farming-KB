@@ -3,7 +3,7 @@ title: Fungal Exopolysaccharides and Extracellular Polymers
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -113,13 +113,8 @@ The gribble has increased longevity when feeding on fungus-colonized wood and is
 
 ## Related Concepts
 
-- [[fungal-microaggregate-formation-and-soil-stability]]
 - [[fungal-glomalin-and-soil-carbon]]
-- [[fungal-contributions-soil-structure]]
 - [[fungal-soil-aggregate-formation-glomalin]]
-- [[fungal-heavy-metal-biosorption-detailed]]
 - [[fungal-melanin-in-ecology-and-stress-protection]]
-- [[factors-affecting-mycoremediation-efficiency]]
 - [[fungal-radionuclide-accumulation-and-bioremediation]]
-- [[fungal-stress-responses]]
 - [[fungal-ecosystem-processes-overview]]

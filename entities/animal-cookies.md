@@ -104,20 +104,10 @@ Training techniques such as low-stress training (LST) and scrogging are recommen
 
 ## See Also
 
-- [[biscotti-cannabis]]
-
 - [[girl-scout-cookies]]
-- [[og-kush]]
 - [[thin-mint-cookies]]
-- [[gelato-cannabis]]
 - [[wedding-cake-cannabis]]
-- [[granddaddy-purple]]
 - [[gorilla-glue]]
-- [[khalifa-kush]]
-- biscotti
 - [[runtz-entity]]
-- [[jealousy]]
-- ice cream cake
-- [[cannabis-indoor-growing-guide]]
-- [[chemdawg]]
+- [[cannabis-indoor-growing-basics]]
 - [[starfighter]]

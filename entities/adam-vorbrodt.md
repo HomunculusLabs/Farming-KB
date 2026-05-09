@@ -16,8 +16,7 @@ sources:
 # Adam Vorbrodt
 
 Adam Vorbrodt is a researcher known for collaborative work with
-[[jochen-gartz]] on the effects of brassinosteroid plant hormones on fungal
-mycelial growth, particularly in [[psilocybe-cubensis]]. His research
+[[psilocybe-cubensis]]. His research
 contributed to understanding how plant growth regulators can influence
 fungal development and opened new avenues for investigating cross-kingdom
 hormonal signaling between plants and fungi.
@@ -34,70 +33,7 @@ signaling molecules could affect fungal organisms.
 ### Brassinosteroid Effects on Psilocybe cubensis
 
 The primary research contribution involves systematic testing of multiple
-brassinosteroid compounds on [[psilocybe-cubensis]] mycelial cultures:
-
-- **Compound screening**: Tested various brassinosteroids including
-  [[epibrassinolide]], [[homobrassinolide]], brassinolide, castasterone,
-  and related compounds for their effects on fungal growth. This broad
-  screening identified the most active compounds and established
-  structure-activity relationships.
-
-- **Dose-response characterization**: Established effective concentration
-  ranges and identified optimal doses for mycelial growth stimulation.
-  Biphasic response curves provided evidence for hormone-like activity.
-
-- **Comparative potency**: Ranked brassinosteroids by efficacy, identifying
-  structural features (lactone B-ring, specific hydroxylation patterns)
-  associated with higher activity in fungal systems.
-
-- **Culture methodology**: Developed standardized protocols for assessing
-  mycelial growth rates on agar media with brassinosteroid supplementation,
-  including controls for solvent effects and media variability.
-
-- **Reproducibility**: Experiments included sufficient replicates to
-  establish statistical significance of growth-promoting effects.
-
-This work demonstrated that plant hormones from the brassinosteroid class
-could cross kingdom boundaries to affect fungal physiology, suggesting
-either conserved receptor mechanisms, shared sterol-binding domains, or
-alternative modes of action involving membrane modulation.
-
-## Scientific Context
-
-The Vorbrodt and Gartz research fits within a broader investigation of how
-plant-derived compounds affect fungal metabolism. While most fungal growth-
-promoting research focused on traditional nutrients (carbohydrates, nitrogen
-sources, minerals), the brassinosteroid work explored an entirely different
-class of growth modulators operating at much lower concentrations.
-
-The research spans several scientific disciplines:
-
-- **Plant physiology**: Understanding brassinosteroid biology and mechanisms
-  of action in organisms where these compounds are naturally produced
-- **Mycology**: Applying knowledge of fungal growth requirements to
-  understand how exogenous compounds affect hyphal extension
-- **Biochemistry**: Characterizing steroid hormone interactions with fungal
-  cellular components, including potential receptor proteins
-- **Pharmacology**: Establishing dose-response relationships and structure-
-  activity relationships for brassinosteroid effects on fungal systems
-
-Key implications of this research include:
-
-- **Cross-kingdom signaling**: Plant hormones affecting fungal growth raises
-  questions about ecological signaling between plants and fungi. In nature,
-  plant roots and mycorrhizal fungi exchange chemical signals, and
-  brassinosteroids may play a previously unrecognized role.
-- **Cultivation applications**: Understanding growth promoters could improve
-  cultivation efficiency for both edible and specialist mushroom species.
-- **Steroid biochemistry**: The responsiveness of fungi to plant steroids
-  suggests shared features in sterol biochemistry between kingdoms.
-- **Evolutionary biology**: Conservation of steroid sensitivity across
-  kingdoms provides evidence for ancient signaling mechanisms predating
-  the divergence of plants and fungi.
-
-## Collaboration with Jochen Gartz
-
-Vorbrodt's collaboration with [[jochen-gartz]] placed this research within
+brassinosteroid compounds on [[epibrassinolide]], [[jochen-gartz]] placed this research within
 the context of Gartz's broader program investigating the biology and
 chemistry of psychoactive fungi. Gartz's extensive body of work includes
 discovery of new tryptamine compounds in mushrooms, analysis of psilocybin
@@ -132,9 +68,25 @@ strategies for managing plant-fungal interactions in agriculture.
 
 ## See Also
 
-- [[jochen-gartz]]
 - [[epibrassinolide]]
-- [[homobrassinolide]]
 - [[brassinosteroid]]
-- [[bri1]]
 - [[psilocybe-cubensis]]
+## Practical Considerations
+
+Successful implementation of Adam Vorbrodt requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

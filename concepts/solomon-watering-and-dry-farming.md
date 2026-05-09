@@ -108,11 +108,7 @@ Clay soil holds moisture well but has other challenges:
 
 ## Related
 
-- [[solomon-intensive-vs-extensive-spacing]] for spacing that affects water needs
 - [[solomon-mulching-and-cover-cropping]] for mulch strategies
-- [[intensive-gardening-critique-solomon]] for soil preparation affecting moisture retention
 - [[solomon-raised-beds-and-bed-preparation]] for bed construction choices
-- [[growing-vegetables-with-less-fertilizer]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
-- [[liquid-fertilizer-from-weeds]]
 - [[soil-preparation-organic-gardens]]

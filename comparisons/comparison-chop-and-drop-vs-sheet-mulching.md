@@ -16,40 +16,6 @@ vegetation and create beds from scratch. Understanding when each method excels
 allows growers to combine them into a complete, regenerative soil-building
 program that minimizes external inputs and maximizes long-term fertility.
 ## Chop and Drop Mulching
-[[chop-and-drop-mulching]]
-Cutting plants in place and leaving cut material on the ground as mulch, which
-decomposes to build soil, conserve moisture, and cycle nutrients directly at
-the point of production. Uses dedicated mulch-producing species such as comfrey,
-cardoon, borage, daikon radish, and leguminous cover crops planted in dedicated
-hedges or as interplanted cover crops throughout the garden. Plants are cut at
-peak biomass just before flowering using machetes, sickles, or brush cutters,
-leaving a 5-15 cm layer that suppresses weeds while still allowing air and
-water to penetrate the soil surface. Deep-rooted dynamic accumulators like
-comfrey mine subsoil nutrients through extensive taproot systems and deposit
-those minerals on the surface where they become available to shallow-rooted
-crops. Leguminous species in the mix fix atmospheric nitrogen, adding a
-fertility source that compost cannot replicate.
-### Advantages
-- Retains 50-70% of nutrients compared to 30-50% carbon loss in hot composting.
-- Extremely labor-efficient: no moving, turning, or spreading compost piles.
-- Builds soil in place without disturbing soil biology or mycorrhizal networks.
-- Reduces irrigation needs by 50% or more through consistent moisture retention.
-- Cycles nutrients from deep soil layers that shallow-rooted crops cannot reach.
-- Works continuously through the growing season as a repeating cut-and-return
-  cycle that accelerates over time as root systems mature.
-### Limitations
-- Nutrient return is less complete and less immediately available than finished
-  compost, making it harder to correct acute deficiencies quickly.
-- Weed suppression is temporary and fades as the mulch layer decomposes,
-  requiring regular re-cutting to maintain coverage.
-- Some species may re-root from stem segments if not cut above the crown
-  properly.
-- Not suitable for kitchen scraps, manure, or non-plant organic waste streams.
-- Slower nutrient release than hot composting; decomposition rate depends on
-  temperature, moisture, and the carbon-to-nitrogen ratio of the cut material.
-- Requires planning ahead to establish mulch-producing plants before they are
-  needed, meaning a lead time of months to years for full system maturity.
-## Sheet Mulching
 [[sheet-mulching]]
 A no-till method for creating new garden beds by layering organic materials
 directly on top of existing vegetation, mimicking the way a natural forest
@@ -132,9 +98,6 @@ nutrient loop without importing additional materials and creating a
 self-sustaining fertility cycle.
 ## See Also
 
-- [[comparison-sheet-mulching-vs-chop-and-drop]]
 - [[sheet-mulching-guide]]
-- [[sheet-mulching-lasagna-gardening]]
 - [[mulch-types-and-effects]]
-- [[comparison-no-till-vs-conventional-tillage]]
 - [[comparison-hugelkultur-vs-sheet-mulching]]

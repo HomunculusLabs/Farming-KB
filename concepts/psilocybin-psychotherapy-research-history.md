@@ -100,24 +100,10 @@ In one exceptionally remarkable case, a participant under the influence of psilo
 
 ## Political Suppression
 
-The unbiased scientific evaluation of hallucinogenic substances remains an all but impossible task due to restrictive legislative measures. As a consequence of the political upheaval of the 1960s and the reaction against [[timothy-leary]]'s promotion of psychedelics, research was effectively shut down in most countries.
-
-The examples from the LSD and psilocybin research literature suggest that controlled human subjects research is possible without risking damage or injury to participants, while gaining a wealth of new insights beyond psychotherapy applications. Wasson's poetic answer to his banker friends who wanted to know why he did not eat the mushrooms every day captures the essential attitude: "There are many who never experienced ecstasy and who may think this is entertaining. But ecstasy is not a form of entertainment."
-
-## Modern Resurgence
-
-After decades of suppression, clinical research into psilocybin-assisted psychotherapy has resumed in the 21st century. Modern studies at institutions such as Johns Hopkins, Imperial College London, and others have built upon the foundational work described here, confirming the therapeutic potential first demonstrated in the 1950s and 1960s.
-
-## See Also
-
-- [[ethnomycology]]
-
-- [[psilocybin-clinical-research-history]]
+The unbiased scientific evaluation of hallucinogenic substances remains an all but impossible task due to restrictive legislative measures. As a consequence of the political upheaval of the 1960s and the reaction against [[psilocybin-clinical-research-history]]
 - [[early-paris-psilocybin-research-1960s]]
 
 - [Psilocybin toxicity and safety profile -- Safety data supporting therapeutic use
 - MDMA-assisted psychotherapy -- Modern successor to psycholytic therapy
 - LSD research history -- Related research program
-- [[stanislav-grof]] -- Key researcher
-- [[albert-hofmann]] -- Discoverer of LSD and psilocybin
 - [[psilocybin-isolation-and-early-scientific-research]]

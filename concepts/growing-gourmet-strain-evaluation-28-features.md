@@ -1,20 +1,7 @@
 ---
 title: Strain Evaluation: 28 Features Checklist for Mushroom Cultivators
 created: 2026-04-26
-tags: [mycology, strain-selection, mushroom-cultivation, genetics]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
-
-# Strain Evaluation: The 28-Feature Checklist
-
-Evaluating a mushroom strain is one of the most important skills a
-cultivator can develop. The characteristics of a strain determine
-everything from yield and quality to marketability and ease of
-cultivation. [[paul-stamets]] identified 28 features that should be
+tags: [[paul-stamets]] identified 28 features that should be
 systematically evaluated when selecting or comparing mushroom strains.
 This comprehensive checklist forms the backbone of intelligent strain
 selection.
@@ -23,36 +10,7 @@ selection.
 
 ### Speed of Colonization (Features 1-2)
 
-  1. Rate of [[growing-gourmet-mushroom-life-cycle]] growth on
-     agar media: The speed at which mycelium expands across a petri dish
-     is a primary indicator of vigor. Faster-growing strains typically
-     colonize substrates more quickly, narrowing the window of
-     opportunity for competitors.
-
-  2. Rate of mycelial growth on grain: The speed of colonization on
-     sterilized grain is often different from growth on agar. Some
-     strains that excel on agar may be slower on grain.
-
-### Fruiting Characteristics (Features 3-12)
-
-  3. Speed of primordia formation: How quickly the strain initiates
-     mushroom formation after being exposed to fruiting conditions.
-
-  4. Number of primordia per unit substrate: The density of pin
-     formation directly affects yield potential.
-
-  5. Percentage of primordia that develop into mature mushrooms: Not
-     all pins mature. A high maturation rate is desirable.
-
-  6. Size and shape uniformity of the fruitbody: Market demands
-     consistency. Strains producing uniform mushrooms command premium
-     prices.
-
-  7. Total yield per flush: The weight of harvestable mushrooms per
-     flush.
-
-  8. Number of flushes: More flushes mean greater total
-     [[growing-gourmet-biological-efficiency-yield]] per block or bed.
+  1. Rate of [[growing-gourmet-biological-efficiency-yield]] per block or bed.
 
   9. Post-harvest mushroom quality: How well mushrooms maintain
      quality after being picked.
@@ -69,26 +27,7 @@ selection.
 
 ### Storage and Preservation (Features 13-18)
 
-  13. [[growing-gourmet-stock-culture-library]] storage
-      longevity: How long the strain remains viable in storage.
-
-  14. Rate of senescence: All strains eventually senesce. Slower
-      senescence is preferred as it extends the useful life of the
-      strain.
-
-  15. Clustering tendency: Mushrooms that grow in tight clusters can be
-      more difficult to harvest but may have higher total yields.
-
-  16. Appearance: Form, size, and color of the mushroom as a whole.
-
-  17. Duration from storage to spoilage: An important aspect of
-      evaluating any strain is its ability to store well. Shiitake
-      mushrooms store and ship far better, on average, than Oyster
-      mushrooms.
-
-  18. Abatement of growth subsequent to harvest: Many mushrooms
-      continue to enlarge, flatten out, and produce spores long after
-      being harvested. Strains of [[pleurotus-pulmonarius]], especially the
+  13. [[pleurotus-pulmonarius]], especially the
       so-called "sajor-caju," are described as "biologically out of
       control" in this regard.
 

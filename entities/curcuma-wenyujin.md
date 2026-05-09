@@ -100,22 +100,13 @@ Conservation efforts focus on maintaining genetic diversity in cultivated popula
 
 ## See Also
 
-- [[curcuma-longa]]
 - [[curcuma-zedoaria]]
-- [[curcuma-phaeocaulis]]
 - [[curcuma-aromatica]]
-- [[curcumin]]
 - [[zingiber-officinale]]
-- [[alpinia-officinarum]]
 - [[elettaria-cardamomum]]
-- [[amomum-subulatum]]
 - [[hedychium-coronarium]]
-- [[boesenbergia-rotunda]]
 - [[kaempferia-galanga]]
-- [[zingiber-zerumbet]]
 - [[alpinia-galanga]]
-- [[curcuma-angustifolia]]
 - [[curcuma-caesia]]
-- [[zingiber-cassumunar]]
 - [[zingiber-mioga]]
 - [[kaempferia-parviflora]]

@@ -3,13 +3,7 @@ title: Permaculture Wholistic Thinking and Systems Design
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Permaculture Wholistic Thinking and Systems Design
-
-Wholistic thinking in permaculture is the practice of understanding systems as integrated wholes rather than as collections of isolated parts. david holmgren presents wholistic thinking as both the foundation and the ultimate goal of permaculture design, arguing that the ability to think wholistically is the essential capacity for navigating [[permaculture-energy-descent-planning]] and designing sustainable systems.
+tags: [[permaculture-energy-descent-planning]] and designing sustainable systems.
 
 ## Beyond Reductionism
 
@@ -31,67 +25,88 @@ The concept of the niche illustrates systems thinking in ecology. In ecology, "n
 
 ## EMERGY as Wholistic Accounting
 
-Within the field of energy accounting methodologies, [[permaculture-emergy-accounting]] is the most wholistic but complex to understand. EMERGY accounting provides a way to quantify the full environmental cost of production by tracing all energy transformations back to their solar origin. This wholistic accounting often challenges the conclusions of more reductionist analyses.
-
-The comparison between EMERGY and Ecological Footprint analysis for Costa Rica illustrates this point. Ecological Footprint analysis suggested the country could sustainably support eighty percent of its population at current consumption levels, while EMERGY analysis suggested only fifty-three percent. The more wholistic analysis gave the more challenging result.
-
-## Wholistic Design Versus Toolkit Approach
-
-A common tendency in permaculture practice is to treat it as a toolkit of techniques and strategies that can be applied independently. Holmgren argues that this approach, while useful, misses the deeper value of permaculture as a wholistic design framework. The principles are not a checklist but an integrated system of thinking that generates appropriate designs for specific places and situations.
-
-The multi-functional aspect of permaculture design is explained through wholistic thinking. A single element in a well-designed permaculture system performs multiple functions, and each function is supported by multiple elements. This redundancy and multi-functionality arise naturally from wholistic design and provide the resilience that characterises sustainable systems.
-
-## Wholistic Thinking in Social Systems
-
-Wholistic thinking applies as much to social and economic systems as to ecological ones. The self-audit process is an exercise in applying systems thinking to one's own life, considering all inputs and outputs, connections and influences, in an integrated way. The same approach can be applied to communities, organisations, and economies.
-
-Holmgren notes that some leaders and powerful people have used wholistic understanding to inform their exercise of power and control over human and natural systems, but few have used wholistic understanding to inform their actions in ways that empower others. The challenge for permaculture is to develop and share wholistic thinking in ways that are liberating rather than controlling.
-
-## Limits of Specialisation
-
-Increasing power is returning to generalists who can think wholistically rather than the specialists who have dominated industrial society. The specialist's deep knowledge of a narrow field is valuable, but without the ability to connect that knowledge to the larger system, it can lead to solutions that create new problems. The permaculture designer as generalist, or "jack of all trades," is better positioned to see connections and design integrated solutions.
-
-This is not to dismiss specialist knowledge but to argue that it needs to be embedded within a wholistic framework. The most effective permaculture designs draw on specialist knowledge of soil science, hydrology, botany, and other fields, but integrate that knowledge into a coherent whole that is greater than the sum of its parts.
-
-## Wholistic Understanding as Ethical Foundation
-
-Much of the need to design for energy descent is informed by ethical principles that have been articulated within permaculture but which are in fact universal. These principles are best understood through wholistic thinking that connects personal behaviour to global outcomes, household economics to planetary systems, and individual gardens to bioregional landscapes.
-
-Rapid energy descent means that our individual behaviour today may be more important than we think. Wholistic thinking reveals these connections and makes it possible to act on them. It is the bridge between understanding the global crisis and taking effective local action.
-
-## The Role of Formal Education
-
-Almost all formal education, and especially higher education, is based on knowledge from within disciplines and sub-disciplines. Almost all formal scientific education is based on bottom-up reductionist thinking. Much of the integrated thinking that is needed to address the environmental crisis is happening outside educational institutions, in communities, households, and grassroots organisations.
-
-The wholistic thinking that permaculture cultivates is largely self-taught or learned through direct experience rather than formal education. This makes permaculture education fundamentally different from mainstream education, and suggests that the most important learning happens through practice rather than theory.
-
-## Grassroots Innovation and Informal Learning
-
-If grassroots approaches to energy descent are to succeed, they must find more efficient ways of spreading information and skills than the current reliance on formal permaculture design courses and published material. Much of the knowledge needed for sustainable living is traditional or vernacular knowledge that has been preserved in practice rather than in books. The amateur enthusiast who develops deep expertise through personal experimentation and lifelong self-education is a model for the kind of learning that energy descent will require.
-
-The work of Melbourne doctor Louis Glowinski, who wrote the definitive guide to growing fruit in southern Australia from his suburban garden, exemplifies the power of dedicated amateur expertise. Such work, done outside the constraints of the marketplace or educational institutions, provides models of how knowledge can be developed and shared in a low-energy future.
-
-## From Wholistic Thinking to Wholistic Design
-
-The ultimate goal of wholistic thinking in permaculture is wholistic design: the creation of systems that function as integrated wholes. Wholistic design considers the full life cycle of materials, the full range of functions of each element, the full web of relationships between elements, and the full spectrum of scales from the household to the bioregion.
-
-This is an aspiration rather than an achievable state. Every real design is partial and incomplete. But the aspiration toward wholeness, the habit of asking "what am I missing?", and the discipline of connecting local actions to global systems, are what distinguish permaculture design from conventional design approaches. Wholistic thinking is both the means and the end of permaculture design.
-
-## See Also
-
-- [[permaculture-design-process]]
-
-- [[permaculture-emergy-accounting]]
+Within the field of energy accounting methodologies, [[permaculture-design-process]]
 
 - [[permaculture-self-audit-and-personal-design]]
 
-- [[permaculture-ethics]]
-
 - [[permaculture-energy-descent-planning]]
 
-- [[permaculture-education-and-design-course]]
-
-## Sources
-
-Holmgren, David. Permaculture: Principles and Pathways Beyond Sustainability. Permanent Publications, 2002. See especially the Introduction, Ethical Principles, and the discussion throughout the text.
 - [[holmgren-problems-of-success-and-energy-descent]]
+## Practical Applications
+
+Permaculture Wholistic Thinking and Systems Design has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Permaculture Wholistic Thinking and Systems Design. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

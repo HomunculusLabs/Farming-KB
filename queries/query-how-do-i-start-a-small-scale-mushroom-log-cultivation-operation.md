@@ -22,33 +22,10 @@ created: 2026-05-07
 
 # How Do I Start a Small-Scale Mushroom Log Cultivation Operation?
 
-A practical guide for beginners looking to grow mushrooms on logs at small commercial or homestead scale.
-
-## Choosing the Right Wood Species
-
-The substrate directly impacts yield, flavor, and longevity.
-
-- **Oak (white/red) — Gold standard.** Dense hardwood with high tannin content. Logs last 4–6 years. Best for shiitake, reishi, and lion's mane.
-- **Maple (sugar/red) — Excellent alternative.** Widely available, good moisture retention, 3–5 year lifespan. Works for shiitake, oyster, and maitake.
-- **Beech — Strong choice for European growers.** Fine-grained, holds moisture well. Good for shiitake and king oyster.
+A practical guide for beginners looking to [[query-how-do-i-grow-king-oyster-mushrooms]].
 - **Ironwood/hophornbeam — Very dense, long-lasting (5–7 years)** but harder to source and drill.
 - **Alder — Fast-growing soft hardwood.** Shorter lifespan (2–3 years) but fruits quickly. Good for oyster varieties.
-- **Avoid:** conifers (pine, fir, cedar), black walnut, black cherry, eucalyptus, and any treated or painted wood. Anti-fungal compounds in these species inhibit mycelium.
-
-## Sourcing Logs
-
-1. **Contact local arborists and tree services** — often the cheapest source; they may deliver for free to avoid disposal fees.
-2. **Partner with landowners doing timber stand improvement** — selective thinning generates usable logs.
-3. **Check municipal wood recycling programs** — some cities offer free hardwood logs from storm damage.
-4. **Fall or buy from firewood suppliers** — verify species and confirm logs are fresh-cut, not seasoned.
-
-**Log specs:** 3–8 inches in diameter, 3–4 feet long. Larger logs last longer but take longer to colonize.
-
-## When to Cut Logs
-
-- **Cut in late winter to early spring (February–April)** before bud break when sugar content is highest.
-- Trees should be **dormant** — sap is rising, providing nutrients for the mycelium.
-- **Inoculate within 2–6 weeks** of cutting. Waiting longer increases contamination risk as wild fungi colonize.
+- **Avoi [[query-what-are-the-best-mushroom-species-for-beginners]] risk as wild fungi colonize.
 - Fresh-cut logs should have intact bark — do not peel or damage it.
 
 ## Best Mushroom Species for Logs
@@ -82,36 +59,7 @@ The substrate directly impacts yield, flavor, and longevity.
 
 ## Stacking Methods
 
-- **Lincoln Log (criss-cross):** Most common. Good airflow, easy to manage. Stack in alternating perpendicular layers, 4–6 logs per layer.
-- **A-frame lean-to:** Logs leaned against a horizontal beam or fence. Good for small spaces. Face logs north or place in shade.
-- **Vertical stacking:** Single log stood upright, partially buried (6" in soil). Good for limited space; bottom stays moist.
-- **Log cabin style:** Stacked like a cabin with corners overlapping. Very stable, moderate airflow.
-
-**Key rule:** Keep logs off direct ground contact (use gravel, pallets, or landscape fabric) to prevent soil-borne contamination.
-
-## Maintenance
-
-### Watering
-- Logs should retain **35–55% moisture content** — they should feel damp but not dripping when squeezed.
-- In dry spells (no rain for 7+ days), soak logs for 12–24 hours by submerging in a tank or sprinkling heavily.
-- Mulch around the base with straw or leaves to retain ground moisture.
-- **Do not overwater** — waterlogged logs promote bacterial rot and competitor fungi.
-
-### Shade and Placement
-- **70–90% shade** is ideal. Use shade cloth, natural tree canopy, or the north side of a building.
-- Avoid full sun — UV degrades mycelium and dries bark.
-- Ensure good air circulation — stagnant air encourages mold.
-- Winter protection: Snow cover is fine; avoid placing logs where water pools or ice dams form.
-
-## Timeline and Fruiting Expectations
-
-| Phase | Timeframe | What Happens |
-|-------|-----------|-------------|
-| Incubation (colonization) | 6–18 months | Mycelium spreads through the log internally; no visible fruiting |
-| First fruiting | 6–18 months after inoculation (species-dependent) | First mushrooms appear, often light yield |
-| Peak production | Year 2–3 | Full yield potential; multiple flushes per year |
-| Decline | Year 4–6 | Yields decrease as wood decomposes |
-| End of life | Year 5–7 | Logs fully decomposed; compost or use as garden mulch |
+- **Lincoln Log (criss-cross):** Most common. Good airflow, easy to manage. Stack in alternating perpendicular layers, 4–6 logs per layer.[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] sed; compost or use as garden mulch |
 
 **Force fruiting (shiitake):** Submerge colonized logs in cold water (50–60°F) for 24 hours to trigger fruiting. Repeat every 8–10 weeks during the growing season for reliable harvests.
 
@@ -144,6 +92,5 @@ The substrate directly impacts yield, flavor, and longevity.
 | Logs (if free from arborist) | $0 |
 ## See Also
 
-- [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-to-start-a-small-scale-snail-farm]]
 - [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]

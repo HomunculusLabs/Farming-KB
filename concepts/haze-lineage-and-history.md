@@ -69,46 +69,7 @@ high. THC content is approximately 16%.
 The Amnesia family represents one of the most commercially successful branches of the Haze
 tree, particularly in European markets where it dominates coffee shop menus.
 
-### [[amnesia-haze]]
-
-One of the most popular strains in European coffee shops, Amnesia Haze has become synonymous
-with potent sativa cannabis. It is widely grown in hydroponic systems and thrives under intense
-lighting, though it can be challenging for novice growers due to its stretch and feeding
-requirements. The strain delivers a powerful, long-lasting high with earthy and citrus flavors.
-
-### Amnesika 2.0
-
-Bred by Buddha Seeds in Spain, Amnesika 2.0 is a stabilized cross between an Amnesia plant and
-a Magnum, featuring G-13 genetics in its lineage. This sativa-dominant auto-flowering strain
-produces enormous central colas and finishes in about 80 days from seed to harvest. The
-auto-flowering trait makes it accessible to growers who lack the space for traditional
-light-cycle management.
-
-### Ripper Haze
-
-Bred by Ripper Seeds in Spain, Ripper Haze descends from the Amnesia genetic line and is known
-by several names including Amnesia Haze. It is a medium-tall plant suitable for both indoor and
-outdoor cultivation, flowering in about 60 days. With THC content reaching 24%, Ripper Haze
-produces a rich smoke with an almost perfect Haze high — intense aroma, heavy resin production,
-and a long, explosive cerebral effect.
-
-### Original Amnesia
-
-Dinafem Seeds' version of the Amnesia line represents the foundational genetics that launched
-the Amnesia phenomenon. Like its descendants, it offers the characteristic Haze-influenced high
-and complex flavor profile that has made Amnesia one of the most recognized names in cannabis.
-
-## Kali Mist Lineage
-
-Kali Mist is another legendary Haze-descended line that has influenced numerous modern
-varieties and remains highly sought after by collectors and breeders.
-
-### Y Griega
-
-Medical Seeds Company of Spain created Y Griega by crossing Kali Mist with Amnesia. With THC
-content reaching an extraordinary 27.12%, Y Griega is one of the most potent sativa-dominant
-strains documented in the literature. The plant can reach 11 feet outdoors but can be managed
-indoors through ScrOG and [[low-stress-training]] techniques.
+### [[low-stress-training]] techniques.
 Flowering runs 90 days, with every inch of stem covered in thick white-haired buds by the end.
 The classic Haze scent sends expectations soaring, and then the high throws you up into the air
 to smash them into a million pieces — a bolt of energy followed by a gentle descent into a
@@ -116,31 +77,9 @@ relaxing bubble hours later. As with all Medical Seeds Company strains, Y Griega
 hash and oil.
 (Section truncated for length.)
 
-## [[jack-herer]] Lineage
-
-Named after the legendary cannabis activist and author of "The Emperor Wears No Clothes," the
-Jack Herer line is one of the most commercially significant Haze descendants.
-
-### Sannie's Jack F7
-
-Holland's Sannie's Seeds spent over a decade breeding and stabilizing this Jack Herer variety
-through an extremely strict selection process where only the very best was good enough. The
-result is a remarkably stable strain that grows to about 3 feet after one week of vegetative
-growth but requires at least a month of vegetation before flowering.
-With a flowering period of 10 to 13 weeks, Sannie's Jack F7 produces incredibly heavy yields —
-up to 750 grams per square yard — of pale green, crystal-covered buds that smell like lemon
-candy with Haze undertones. THC content reaches 22%.
-The spicy Haze taste gives way to a citrus aftertaste, and the powerful head high rushes in
-with incredible force. Sannie's Seeds are regarded as keepers of the Holy Grail in the cannabis
-(Section truncated for length.)
-
 ## [[super-silver-haze]] Descendants
 
 ## See Also
-
-- [[chemdawg-lineage-and-legacy]]
-
-- Diesel Strain Family
 
 - [[african-landrace-sativa-strains]]
 

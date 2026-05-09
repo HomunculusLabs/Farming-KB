@@ -3,7 +3,7 @@ title: Freshwater Fungi — Aquatic Hyphomycetes and Ascomycetes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -97,11 +97,7 @@ Freshwater fungi are critical for:
 
 ## See Also
 
-- [[fungal-species-richness-and-diversity-indices]]
 - [[soil-fungal-isolation-techniques]]
-- [[coprophilous-fungi-ecology-diversity]]
 - [[yeast-biodiversity-isolation-ecology]]
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[fungal-communities-water-aquatic-ecosystems]]
-- [[fungal-chitin-decomposition-nutrient-cycling]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

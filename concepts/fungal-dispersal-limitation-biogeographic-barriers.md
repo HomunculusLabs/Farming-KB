@@ -16,20 +16,7 @@ type: concept
 
 # Fungal Dispersal Limitation and Biogeographic Barriers
 
-Dispersal limitation is a critical factor shaping [[fungal-biodiversity]]
-patterns, influencing species distributions, endemism, and the ability
-of fungal communities to respond to environmental change. Unlike many
-microorganisms traditionally assumed to be cosmopolitan, fungi exhibit a
-wide range of dispersal capabilities, with significant consequences for
-biogeography and conservation.
-
-## The Dispersal Spectrum in Fungi
-
-Fungi occupy a continuum from highly dispersive to severely dispersal-
-limited organisms:
-
-- **Highly dispersive taxa**: Microscopic spores of many molds,
-  yeasts, and [[coprophilous-fungi]] can travel vast distances via wind or
+Dispersal limitation is a critical factor shaping [[coprophilous-fungi]] can travel vast distances via wind or
   animal vectors, potentially achieving cosmopolitan distributions
 - **Moderately dispersive taxa**: Many wood-inhabiting and leaf
   litter fungi have spore dispersal mechanisms that allow regional
@@ -44,8 +31,7 @@ structure in their communities.
 
 ## Sequestrate Fungi as a Model System
 
-[[sequestrate-fungi]] provide perhaps the clearest example of dispersal
-limitation shaping [[fungal-biogeography]]:
+[[fungal-biogeography]]:
 
 - **Host specificity**: Many sequestrate fungi are specific to
   individual host genera (pines, Douglas fir, spruce, true firs,

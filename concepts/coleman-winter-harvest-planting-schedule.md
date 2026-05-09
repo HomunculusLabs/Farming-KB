@@ -10,53 +10,6 @@ type: concept
 
 # Winter Harvest Planting Schedule
 
-Eliot Coleman's winter harvest system depends on precise timing. Crops
-must reach a harvestable size before the shortest days of winter when
-growth nearly ceases, and successional plantings must maintain a
-continuous supply from fall through spring. The planting calendar is
-the operational backbone of the entire system.
-
-## The Persephone Period
-
-Coleman identifies the "Persephone Period" as the time when day length
-drops below 10 hours. In his Maine location (latitude 44 degrees
-north), this occurs from approximately November 5 to February 5. During
-this period, plant growth slows dramatically because insufficient
-sunlight drives photosynthesis.
-
-All winter crops must be fully established before the Persephone Period
-begins. They will not grow significantly during these three months but
-will maintain themselves in a dormant or semi-dormant state, ready to
-resume growth as days lengthen in February. The planting schedule is
-organized around this critical window.
-
-## August Planting Window
-
-Early to mid-August is the first major planting window for winter
-harvest crops. During this period, Coleman seeds and transplants:
-- **Spinach:** Direct-seed for mature plants to harvest through winter.
-- **Kale and collards:** Transplant seedlings started in July.
-- **Scallions:** Direct-seed or transplant for winter harvest.
-- **Tatsoi and mizuna:** Direct-seed for baby leaf production.
-
-August plantings have the longest growing period before winter and
-produce the most vigorous plants. These are the crops that will form
-the backbone of the winter harvest from November through January.
-
-## September Planting Window
-
-September is the primary planting window for salad greens and baby
-leaf crops. During this month, Coleman seeds:
-- **Mache:** Direct-seed for harvest beginning in late November.
-- **Claytonia:** Direct-seed for prolific winter production.
-- **Minutina:** Direct-seed for reliable winter greens.
-- **Arugula:** Both wild and cultivated types for salad mix.
-- **Lettuce:** Cold-hardy varieties for protected culture.
-- **Additional spinach:** Successional plantings for extended harvest.
-
-September plantings must germinate and establish quickly before
-cooling temperatures slow growth. Consistent moisture and row cover
-protection during establishment are critical. See
 [[coleman-row-cover-fabric-management]] for protection details.
 
 ## October Planting Window
@@ -83,15 +36,7 @@ rapidly. Coleman uses this period to begin the spring transition:
 - **February:** Seed early carrots, radishes, turnips, and
   additional salad greens. Transplant early lettuce and brassica
   seedlings.
-- **March:** Begin [[succession-planting]] of warm-season crops.
-  Transplant tomatoes, peppers, and eggplant into the moveable
-  greenhouse's summer position.
-- **April:** Move the greenhouse to its summer position. Begin
-  outdoor direct seeding of spring crops.
-
-The spring transition overlaps with the tail end of winter harvest,
-creating a period of peak production and diversity. See
-[[coleman-year-round-marketing-calendar]] for how this abundance
+- **March:** Begin [[coleman-year-round-marketing-calendar]] for how this abundance
 translates into market opportunities.
 
 ## Succession Planting Intervals

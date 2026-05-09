@@ -1,7 +1,7 @@
 ---
 title: "Field Guide to Psilocybin Mushroom Hunting Methodology"
 created: 2026-04-28
-tags: [mycology, foraging, psilocybin, field-guide, ecology]
+tags: [[mycology, foraging, psilocybin, field-guide, ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
@@ -126,15 +126,9 @@ to eliminate identification error when all criteria are followed.
 
 ## Related
 
-- [[garner-allard-photoperiodism-experiment-methodology]]
-
 - [[field-guide-psilocybin-mushroom-species-identification]]
   for detailed species descriptions
-- [[field-guide-psilocybin-bluing-reaction-identification]] for the
-  critical bluing-reaction identification test
 - [[field-guide-psilocybin-dosage-extraction-cultivation]] for
   post-harvest processing
-- [[allen-subtropical-australia-hunting-techniques]] for comparative
-  hunting methodology in a different region
 - [[oss-oeric-harvesting-and-crop-management]] for cultivation
   harvest techniques

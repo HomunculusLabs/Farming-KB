@@ -1,10 +1,3 @@
----
-title: Plant Memory and Associative Learning
-source: grahamholmes-what-a-plant-knowsindd.md
-type: concept
-tags: [plant-memory, associative-learning, plant-cognition, habituation, Mimosa, conditioning]
-created: 2026-05-08
----
 
 # Plant Memory and Associative Learning
 
@@ -63,54 +56,7 @@ below all animals in cognitive capacity.
 
 ## Potential Associative Learning
 
-Gagliano's more controversial work explored whether Pisum sativum (garden peas)
-could exhibit associative learning — the ability to link two unrelated stimuli.
-In a 2016 study published in Scientific Reports, pea seedlings were trained
-in a Y-maze apparatus where one arm was consistently associated with light and
-the other with wind (or fan). Plants learned to grow toward the arm associated
-with light, even when the light cue was removed and only the fan cue remained.
-
-This suggested that the plants had formed an association between the fan
-stimulus and the light reward — analogous to Pavlov's dogs learning to salivate
-at the sound of a bell. Critics argued that the results could be explained by
-simpler mechanisms such as differential growth rates or thigmomorphogenesis
-(growth responses to mechanical stimulation). The debate highlights the
-difficulty of designing experiments that unambiguously demonstrate associative
-learning in organisms without nervous systems.
-
-## Mechanisms of Plant Memory
-
-Several non-neural mechanisms have been proposed for plant memory:
-
-### Epigenetic Memory
-
-Changes in gene expression through DNA methylation, histone modification, and
-chromatin remodeling can create stable, heritable changes in cellular behavior
-without altering the DNA sequence. Plants use epigenetic mechanisms extensively,
-including "remembering" winter cold through vernalization — a process where
-prolonged cold exposure epigenetically silences the FLC gene, allowing
-flowering in spring. This memory of cold persists through cell divisions and
-across the plant's lifetime.
-
-### Calcium Signaling
-
-Calcium ions serve as universal second messengers in both plant and animal
-cells. Rapid changes in intracellular calcium concentration carry information
-about environmental stimuli and trigger appropriate responses. Calcium waves
-propagate through plant tissues at specific speeds and amplitudes, potentially
-encoding information about the stimulus type, intensity, and location.
-
-### Electrical Signaling
-
-Plants generate action potentials — electrical impulses remarkably similar to
-those in animal neurons — that propagate through phloem tissue. These signals
-can travel throughout the plant body and trigger systemic responses to localized
-stimuli. While plant action potentials lack the complex integration capabilities
-of neural networks, they represent a genuine information transmission system.
-
-### Hormonal Memory
-
-Plant hormones (auxin, gibberellin, cytokinin, abscisic acid, ethylene, and
+Gagliano's more controversial work explored whether [[plant-hormones-and-chemical-signaling-systems]] (auxin, gibberellin, cytokinin, abscisic acid, ethylene, and
 others) can create persistent states of physiological responsiveness. Changes
 in hormone sensitivity or concentration profiles can maintain a plant in a
 particular developmental or defensive state for extended periods.
@@ -132,7 +78,6 @@ complexity of animal nervous systems.
 
 ## See Also
 
-- [[plant-senses-overview]]
-- [[darwin-phototropism-discovery-plant-light-perception]]
-- [[chamovitz-phytochrome-red-far-red-switch-photoperiodism]]
-- [[vernalization-and-epigenetic-plant-memory]]
+- plant senses overview
+- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]-red-far-red-switch-photoperiodism
+- [[plant-memory]]

@@ -111,11 +111,7 @@ Propagation is primarily by seed, which germinates within 2–4 weeks when fresh
 
 - eugenia caryophyllata
 - pimenta dioica
-- [[cinnamomum-verum]]
 - [[zingiber-officinale]]
-- [[curcuma-longa]]
 - [[eugenol]]
-- [[myrcene]]
 - [[cinnamomum-cassia]]
-- [[pimpinella-anisum]]
 - [[foeniculum-vulgare-entity]]

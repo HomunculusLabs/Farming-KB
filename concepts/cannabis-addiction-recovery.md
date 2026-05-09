@@ -112,8 +112,6 @@ Whole-plant cannabis may offer advantages over isolated cannabinoids for addicti
 - Terpenes like myrcene (sedating), limonene (mood-elevating), and linalool (anxiolytic) contribute therapeutic effects
 - Raw cannabis juice provides non-psychoactive cannabinoids for those who cannot tolerate any psychoactivity
 
-See also: doi entity, doi entity, [[cannabis-for-mental-health]], [[cannabis-dosing-guidelines-by-condition]], [[cannabis-drug-interactions-and-contraindications]]
-- [[cannabis-safety-profile-and-overdose-risk]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
+See also: doi entity, doi entity, [[cannabis-dosing-guidelines-by-condition]], [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-plant-stress-types-and-recovery]]
 - [[cannabis-sleep-disorders-and-insomnia]]

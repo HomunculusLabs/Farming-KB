@@ -121,9 +121,6 @@ For **cob walls**, start with clay plaster — it is the default, the cheapest, 
 
 ## See Also
 
-- [[what-natural-farming-method-should-i-use]]
 - [[earth-plaster-and-natural-finishes]]
-- [[fukuoka-natural-no-plan-best-plan]]
-
 - [[cob-construction]]
 - [[rammed-earth]]

@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Rice Cake Tek and Cultivation Methodology"
 created: 2026-04-28
-tags: [mycology, cultivation, substrate-preparation, oss-oeric]
+tags: [[mycology, cultivation, substrate-preparation, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -116,9 +116,6 @@ the Oss & Oeric framework.
 
 ## Related Topics
 
-- [[oss-oeric-contamination-troubleshooting]] for sterile technique
 - [[oss-oeric-terrarium-design-and-humidity]] for fruiting chambers
-- [[oss-oeric-harvesting-and-crop-management]] for harvest methods
 - [[oss-oeric-spore-syringe-preparation]] for spore handling
-- [[oss-oeric-growing-parameters-cubensis]] for environmental control
 - [[oss-oeric-equipment-and-materials-list]] for supplies

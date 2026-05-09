@@ -11,9 +11,7 @@ type: concept
 
 # Non-Brittle Environments
 
-In [[savory-holistic-resource-management-animal-impact]],
-non-brittle environments occupy the opposite end of the brittleness scale
-from [[savory-brittle-environments]]. Understanding
+In [[savory-brittle-environments]]. Understanding
 the distinction between brittle and non-brittle is critical because
 practices that benefit one type of environment can damage the other. Most
 conventional agricultural science was developed in non-brittle environments,
@@ -73,78 +71,12 @@ the soil surface where they feed new plant growth. This process is
 continuous and reliable because humidity levels remain adequate throughout
 the year.
 
-By contrast, in [[savory-brittle-environments]], decay
-is chemical (oxidation) and physical (weathering), slow, and proceeds from
-upper parts of plants first (top-down).
-
-## Soil Cover and Water Cycle
-
-In non-brittle environments, soil cover is seldom a problem since plants
-are spaced so closely that dead material stays in place. The close plant
-spacing means that litter accumulates naturally and protects the soil
-surface from raindrop impact, preventing capping and maintaining good
-[[savory-water-cycle-management]] effectiveness.
+By contrast, in [[savory-water-cycle-management]] effectiveness.
 
 This naturally effective water cycle means that precipitation readily
 soaks into the soil, little evaporates from the surface, and runoff is
 minimal and clear. The close plant spacing also supports a highly
-effective [[savory-mineral-cycle-management]].
-
-## Succession Dynamics
-
-In non-brittle environments it is hard to stop the rise of succession.
-Communities readily establish on even very smooth surfaces, including
-concrete. The successional process starts rapidly and advances through
-well-defined stages toward greater complexity and stability.
-
-If bare soil does occur, it is rapidly colonized by a succession of
-organisms. Given the reliable humidity and biological decay, communities
-progress quickly from simple algae and moss stages through grasslands to
-woody communities. Management that maintains grassland at a particular
-level must actively prevent this natural advancement.
-
-## Management Implications
-
-The management implications of the brittle/non-brittle distinction are
-profound. Most modern agricultural science was developed in the relatively
-non-brittle environments of northern Europe and the eastern United States.
-The recommendations that work well there, such as resting land to allow
-recovery, can be disastrous when applied to brittle environments.
-
-In non-brittle environments:
-
-- Little if any [[savory-animal-impact-and-herd-effect]] is
+effective [[savory-animal-impact-and-herd-effect]] is
   needed for high successional complexity
-- Rest is generally beneficial for all [[savory-ecosystem-foundation-blocks]]
-- Grazing can maintain grassland communities but is not essential for soil
-  health
-- Biological activity plays the lead role in maintaining ecosystem
-  function
-
-## Grazing Effects in Non-Brittle Environments
-
-Grazing in non-brittle environments tends to maintain grass root vigor at
-a high level. If the area would normally progress toward woody communities,
-grazing will impede this shift or halt it at a grassland level of great
-complexity, probably including many legumes and other broad-leaved plants.
-
-Overgrazing will damage root vigor but generally does not expose soil,
-instead leading to formation of a solid mat of grass. While some species
-may disappear, the community tends to remain relatively stable. Given
-enough rainfall, continued overgrazing may produce a shift toward woody
-communities as damaged grass roots allow easy establishment of tap-rooted
-species.
-
-## Humidity as the Determining Factor
-
-The distribution of precipitation and atmospheric humidity throughout the
-year determines brittleness more than total rainfall. A thirty- to fifty-
-inch rainfall area with very dry periods in the growing season may be
-extremely brittle. Non-brittle environments characteristically experience
-reliable moisture in the growing season.
-
-## See Also
-
-- [[savory-brittle-environments]]
-- [[savory-rest-as-management-tool]]
+- Rest is generally beneficial for all [[savory-brittle-environments]]
 - [[savory-plant-succession-and-community-dynamics]]

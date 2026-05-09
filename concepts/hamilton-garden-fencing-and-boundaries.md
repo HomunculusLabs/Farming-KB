@@ -65,18 +65,7 @@ over the top.
 
 Hedges make the best windbreaks. You can choose formal hedges, kept
 compact by clipping, or informal ones allowed to flower. Hedges take
-up [[stamets-growing-room-design]] because they compete with other plants for water and
-nutrients. Never choose privet (Ligustrum ovalifolium) unless
-prepared to sacrifice at least 1 yard or meter along either side. In
-small gardens, choose a formal hedge that can be kept compact. In
-large gardens, informal hedges need at least 3 to 6ft (1 to 2m) of
-growing room on either side.
-
-## Enhancing Existing Walls
-
-Existing walls can be softened and integrated into the garden by
-removing individual bricks and filling the gaps with soil to plant
-[[alpine-plant-cultivation-guide]]s such as pink lewisias. A wooden trellis serves as both
+up [[alpine-plant-cultivation-guide]]s such as pink lewisias. A wooden trellis serves as both
 a practical barrier and a decorative feature when shrubs or climbers,
 such as scented roses, are trained against it. This approach turns a
 bare wall into a living feature that supports wildlife and adds
@@ -117,6 +106,5 @@ timber to keep the gravel contained.
 
 ## See Also
 
-- [[hamilton-hedges-and-windbreaks]]
 - [[hamilton-climbing-plants-organic]]
 - [[hamilton-garden-layout-beds-borders-paths]]

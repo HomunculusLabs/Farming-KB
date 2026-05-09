@@ -9,11 +9,7 @@ sources: ["raw/papers/shulgin-a-pihkal.md"]
 
 # 2C-B - The Erotic Empathogen
 
-2C-B (4-bromo-2,5-dimethoxyphenethylamine) is a psychedelic/empathogen developed by [[alexander-shulgin]]. Intensity ranges from 2 to 7 depending on dosage and individual sensitivity.
-
-## Material
-
-Developed by [[alexander-shulgin]], who has invented approximately 200 psychoactive compounds including DOM (STP). Distributed under street names "Nexus," "Eve," and "Venus." Related to mescaline chemistry (phenethylamine family).
+2C-B (4-bromo-2,5-dimethoxyphenethylamine) is a psychedelic/empathogen developed by [[alexander-shulgin]], who has invented approximately 200 psychoactive compounds including DOM (STP). Distributed under street names "Nexus," "Eve," and "Venus." Related to mescaline chemistry (phenethylamine family).
 
 ## Dosage
 
@@ -64,52 +60,30 @@ Definitely an "up" experience with lots of physical energy. Visual aspect can be
 
 A typical 2C-B experience lasts 4-8 hours depending on dose. Onset occurs within 30-60 minutes. Peak effects are reached around 1.5-2 hours. The comedown is generally smooth, though some users report a residual stimulation lasting several hours after perceptual effects fade. Unlike MDMA, 2C-B does not typically produce significant next-day depression or "Tuesday blues," though sleep may be difficult for several hours after the experience. Some experienced users recommend having a light snack before the session to reduce nausea, and keeping a calm environment available for the comedown phase.
 
-The dose-response curve for 2C-B is notably non-linear. While 16 mg may produce gentle perceptual enhancement, 24 mg can produce full-blown psychedelic experiences with intense visuals and ego dissolution. This steep curve is one reason experienced psychonauts advise first-time users to start with low doses and work up gradually over multiple sessions. See [[psychedelic-safety-guidelines-turner]] for harm reduction principles.
+The dose-response curve for 2C-B is notably non-linear. While 16 mg may produce gentle perceptual enhancement, 24 mg can produce full-blown psychedelic experiences with intense visuals and ego dissolution. This steep curve is one reason experienced psychonauts advise first-time users to start with low doses and work up gradually over multiple sessions. See [[6-mapb]] Topics
 
-## Legal Status
-
-2C-B is classified as a Schedule I controlled substance in the United States and is controlled under international drug scheduling conventions. Despite its illegal status, 2C-B remains one of the more commonly available research chemicals on the underground market, often sold under the guise of other substances. Users should exercise particular caution with street-sold 2C-B, as it may be adulterated or misrepresented.
-
-### Harm Reduction Notes
-
-The combination of empathogenic and psychedelic properties makes 2C-B particularly sensitive to set and setting. Unlike pure empathogens like MDMA, 2C-B's psychedelic component means that unresolved psychological material can surface during the experience. Integration practices (journaling, discussion with trusted friends, mindfulness) are especially valuable after 2C-B experiences. The non-linear dose-response curve means that reagent testing is essential — substances sold as 2C-B may actually be other phenethylamines with very different dose ranges and effect profiles.
-
-## Related
-
-- [[6-mapb]] Topics
-
-- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
 - [[mescaline-peyote-san-pedro-cactus]]
-- [[psychedelic-safety-guidelines-turner]]
 - [[turner-psychedelic-combination-experience-reports]]
-- [[psychedelic-research-legal-history-united-states]]
 - [[turner-multiple-combinations-cosmic-synergism]]
-- [[turner-multiple-combinations-specific-reports]]
-
-## Practical Context
-2c B Erotic Empathogen is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
 - [[set-and-setting]]
-- [[turner-essential-psychedelics-cosmic-synergism-combinations]]
 - [[turner-ecstasy-mdma-heart-opening-psychedelic]]
-- [[psychedelic-research-legal-history-united-states]]
 - [[turner-essential-psychedelics-lsd-cosmic-consciousness]]
+## Practical Considerations
+
+Successful implementation of 2C-B Erotic Empathogen requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

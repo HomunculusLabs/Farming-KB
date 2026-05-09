@@ -98,8 +98,6 @@ track carbon through fungal pathways in situ.
 
 ## See Also
 
-- [[microbial-ecology-fungi]]
 - [[mycorrhizal-symbiosis]]
-- [[savory-soil-organic-matter-and-decomposition-dynamics]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]

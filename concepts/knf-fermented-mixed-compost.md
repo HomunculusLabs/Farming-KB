@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Fermented Mixed Compost (FMC) is the primary soil amendment in [[natural-farming-knf-overview]]. Unlike thermophilic composting that relies on high temperatures to decompose organic matter, FMC uses controlled fermentation with [[knf-indigenous-microorganism-culture]] to create a biologically rich, nutrient-dense compost that feeds soil life while providing balanced nutrition to crops. This page covers the critical decisions of timing, place selection, and material sourcing that determine FMC quality.
+Fermented Mixed Compost (FMC) is the primary soil amendment in [[knf-indigenous-microorganism-culture]] to create a biologically rich, nutrient-dense compost that feeds soil life while providing balanced nutrition to crops. This page covers the critical decisions of timing, place selection, and material sourcing that determine FMC quality.
 
 ## Optimal Timing for Making FMC
 
@@ -116,30 +116,8 @@ These diverse materials provide various vitamins (functioning as supportive enzy
 
 ## Preparation Steps
 
-1. **Prepare [[knf-indigenous-microorganism-culture]]** in advance
-2. **Mix the base materials:** Combine rapeseed oil cake, fish waste, bone meal, bean oil cake, and crab shell. The exact proportions can vary based on available materials.
-3. **Spray with water** and add IMO #4 at 10% of the total material weight by dry weight
-4. **Adjust moisture content** to 65-70% (the mixture should hold together when squeezed but no water should drip from it)
-5. **Pile the mixture** 35-40 cm high on the prepared soil floor
-6. **Monitor temperature** and turn according to the FMC fermentation schedule
-
-## Application
-
-- Apply FMC to the field 2-3 hours before sunset or on a cloudy day
-- Cover FMC with soil immediately after application, or incorporate lightly with a 3cm rotary hoe
-- For surface application, spread under vinyl mulch or rice straw
-- Apply in small lump form rather than finely spread -- lump form is more sustainable and maintains microbial colonies
-- For foliar application, dilute in water at 1:1000 and spray 2-3 hours before sunset
-- Apply 2-3 tons per 100a as a standard application rate
-
-## See Also
-
-- knf fermented mixed compost
-- [[knf-indigenous-microorganism-culture]]
-- [[knf-preparations]]
+1. **Prepare [[knf-indigenous-microorganism-culture]]
 - [[knf-soil-and-mineral-management]]
-- [[compost-building-guide]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
 - [[fungi-in-composting-and-agricultural-waste-conversion]]

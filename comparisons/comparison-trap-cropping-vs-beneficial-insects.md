@@ -22,35 +22,6 @@ sound approaches that work best when combined rather than used in isolation.
 
 ## Trap Cropping
 
-[[trap-cropping]]
-
-Trap cropping is the practice of growing a sacrificial "trap" crop that attracts
-pests away from the main cash crop. The pests concentrate on the trap crop,
-which can then be monitored, managed, or destroyed along with the pests. The
-principle exploits the fact that many pests have preferred host plants and will
-choose them over less-preferred crops when given a choice. This preference may
-be due to earlier maturity, stronger attraction cues like specific colors or
-volatile chemicals, or simply that the trap crop is more palatable.
-
-The push-pull strategy is the most sophisticated trap cropping approach. It
-combines push (repelling pests from the main crop using repellent plants or
-deterrent sprays) with pull (attracting pests to a trap crop planted nearby).
-The combined effect creates a gradient that keeps pests concentrated on the trap
-crop where they can be managed. Classic trap crop pairings include nasturtiums
-for aphids, blue Hubbard squash for squash bugs and vine borers, radishes for
-flea beetles, and Indian mustard for diamondback moths.
-
-Trap cropping requires careful planning and monitoring. The trap crop must be
-planted early enough to be attractive when pests arrive, and it must be
-maintained in good condition or pests may migrate back to the main crop. The
-trap crop itself may require pesticide treatment or regular destruction to
-prevent it from becoming a pest breeding ground. Perimeter trap cropping, where
-the trap crop surrounds the main crop, is often more effective than
-intercropping because pests encounter the trap crop first as they move into the
-area.
-
-## Beneficial Insects
-
 [[beneficial-insects-guide]]
 
 Beneficial insects are predatory, parasitic, or pollinating insects that provide
@@ -114,17 +85,6 @@ seek to work with natural systems rather than against them.
 ## Hybrid Approaches
 
 The most effective IPM programs combine both strategies. Trap crops can be
-surrounded by [[beneficial-insect-habitat]] plants, creating a zone where pests are
-concentrated and their natural enemies are abundant. The trap crop provides a
-reliable food source for pests, which in turn supports a healthy population of
-predators. Some trap crop designs specifically include insectary plants to
-attract parasitic wasps that attack pests on the trap crop itself, creating a
-one-two punch of attraction and predation. This integrated approach is more
-resilient and effective than either strategy alone.
-
-## See Also
-
-- [[trap-cropping]]
-- [[beneficial-insects-guide]]
+surrounded by [[trap-cropping]]
 - [[beneficial-insects-cannabis]]
 - [[weed-management-strategies]]

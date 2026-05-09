@@ -18,7 +18,6 @@ sources:
   - mckenna_t-tryptamines_consciousness.md
 type: concept
 ---
-
 # Tryptamines, the Soul, and the Extraterrestrial Hypothesis
 
 In his 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness," Terence McKenna
@@ -26,20 +25,7 @@ presents a provocative argument that tryptamine compounds, particularly DMT and 
 be connecting the human mind to dimensions of intelligence that are genuinely alien or other.
 His discussion oscillates between two complementary interpretations: that the mushroom itself
 is an extraterrestrial organism, and that the human soul, so alienated from modern
-consciousness, appears as extraterrestrial when encountered through the tryptamine experience.
-Both readings point to the same conclusion: that the reality accessible through these compounds
-is vastly more complex than conventional science has acknowledged.
-
-## The Phenomenology of the DMT Experience
-
-McKenna's account of the DMT experience is remarkably detailed and consistent. The onset occurs
-within approximately fifteen seconds of smoking. A sound like "ripping cellophane" is heard, an
-ascending tone builds, and a shifting geometric surface of colored forms appears. At the
-synaptic site, all available bond sites are being occupied simultaneously, and one experiences
-the mode shift over about thirty seconds.
-
-At that point one arrives in a space that feels "underground, or somehow insulated and domed,"
-a space McKenna calls, borrowing from Joyce's *Finnegans Wake*, the "merry go raum," from the
+consciousness, appears as extraterrestrial when encountered through the [[dmt-finnegans-wake-and-the-merry-go-raum]]," from the
 German word for space. In this space one encounters self-transforming machine-elf entities,
 described as "dynamically contorting topological modules that are somehow distinct from the
 surrounding background, which is itself undergoing a continuous transformation." These beings
@@ -144,7 +130,5 @@ reality ordinarily inaccessible to ordinary awareness.
 
 ## See Also
 
-- [[dmt-dimethyltryptamine-experience-guide]]
-- [[dmt-hyperspace-and-machine-elves]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-psychedelic-shamanism]]

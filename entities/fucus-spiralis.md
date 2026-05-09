@@ -116,11 +116,7 @@ Ascophyllum nodosum occupies a lower tidal position and forms much larger, more 
 
 ## See Also
 
-- [[fucus-vesiculosus]]
 - [[fucus-serratus]]
-- [[laminaria-digitata]]
 - [[ulva-lactuca]]
-- [[porphyra-umbilicalis]]
 - [[himanthalia-elongata]]
-- [[saccharina-latissima]]
 - [[palmaria-palmata]]

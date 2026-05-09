@@ -42,33 +42,6 @@ ratios to induce flowering on demand.
 ## Implementing 12/12
 
 During the [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
-stage, growers either manually turn lights on for 12 hours and off for 12
-hours every day, or they use an automatic timer. If the light fixture comes
-with a timer, it should be set to maintain this schedule precisely.
-
-### Dark Period Integrity
-
-Throughout the 12 hours of darkness it is critical to keep the grow area
-as dark as possible. Key considerations include:
-
-- A small desk light on the other side of the room will cause the plant
-  not to react properly to 12/12, resulting in continued vegetative
-  growth instead of flowering.
-- Any light that penetrates the darkness will stop plants from flowering
-  properly.
-- The grow room must be sealed to the point where it is completely light
-  proof.
-- Greg Green recommends studying "Photography Dark Rooms" for techniques
-  on making spaces light tight using common hardware shop materials like
-  thick black screening around doorframes and any open light points.
-- If you have prevented light from leaking out of your grow space (using
-  Mylar or white walls), you have also prevented light from leaking in.
-
-## Problems with 12/12
-
-### Switching Before Pre-Flowers
-
-If you switch to 12/12 before [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
 have shown, you may encounter several problems:
 
 - Stress-related sex problems (hermaphrodites)
@@ -101,20 +74,7 @@ early. The pre-flowering stage typically lasts between 1 day and 2 weeks.
 
 ## Vegetative Light Cycles
 
-During the [[green-cannabis-grow-bible-vegetative-phase-management]], cannabis plants are typically kept under longer light cycles:
-18 hours of light and 6 hours of darkness (18/6) is the most common.
-Some growers even run 24 hours of continuous light (24/0). The extended
-light period encourages vigorous vegetative growth and prevents the plant
-from entering flowering prematurely.
-
-The switch from 18/6 (or 24/0) to 12/12 is the definitive signal that
-tells the plant to stop growing vegetatively and begin producing flowers.
-
-## Light Cycle and Strain Performance
-
-Different cannabis species respond differently to the photoperiod:
-
-- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+During the [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
   strains typically have shorter flowering times (6-8 weeks under 12/12).
 - Sativa strains may require 10-16 weeks of 12/12 to fully develop
   their flowers.
@@ -125,22 +85,6 @@ Different cannabis species respond differently to the photoperiod:
 
 Proper photoperiod management depends on a well-designed grow environment:
 
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]] must include provisions for light-proofing.
 - [[green-cannabis-lighting-guide]] must be paired with
   reliable timers for consistent photoperiod control.
-- [[green-grow-room-environment]] management must
-  account for the dark period temperature drop that naturally occurs.
-
-## Summary
-
-The 12/12 photoperiod is the primary mechanism by which cannabis plants
-are induced to flower indoors. Maintaining absolute darkness during the
-12-hour dark period is essential for proper flowering. Switching to 12/12
-before pre-flowers appear risks hermaphroditism and abnormal bud
-development. The vegetative phase typically uses 18/6 or 24/0 lighting,
-and the transition to 12/12 should be timed to follow the natural
-appearance of pre-flower indicators on the plant.
-
-## See Also
-
 - [[cannabis-photoperiod-flowering-cycle]]

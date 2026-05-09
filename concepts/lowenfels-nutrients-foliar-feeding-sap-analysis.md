@@ -137,8 +137,6 @@ nutrients.
 
 ## See Also
 
-- [[lowenfels-nutrients-soil-chemistry-ph-cec]] - pH and CEC testing fundamentals
 - [[lowenfels-nutrients-nitrogen-cycle]] - Nitrogen's mobility and foliar application
-- [[lowenfels-nutrients-phosphorus-mycorrhizae]] - Mycorrhizal nutrient delivery
 - [[lowenfels-nutrients-potassium-calcium-magnesium]] - Cation balance testing
 - [[lowenfels-nutrients-micronutrients]] - Iron and zinc foliar quick fixes

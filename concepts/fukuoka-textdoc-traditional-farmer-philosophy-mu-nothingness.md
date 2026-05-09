@@ -130,9 +130,6 @@ extraordinary, methodless road of the farmer, irrespective of the age or directi
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-village-philosophy-disappearance]] for the cultural consequences
 - [[fukuoka-natural-farming-philosophy]] for Buddhist foundations
-- [[fukuoka-textdoc-errors-of-human-intellect]] for the critique of intellectualism
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]] for restoring true humanity
-- [[fukuoka-textdoc-critique-mechanization-agriculture]] for the mechanization critique
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]] for intuitive knowledge

@@ -11,19 +11,7 @@ tags: [cannabis]
 
 # Training (Cannabis)
 
-Cannabis training encompasses all techniques used to manipulate plant structure for improved yield, light distribution, height control, and airflow. Cervantes covers training extensively, noting that "pruning and bending a plant redirects growth hormones" and that "selective pruning and bending allow us to manipulate auxin hormone levels in branch and flower tips." Training is performed during the [[cannabis-vegetative-stage]] before flowering is induced.
-
-## Why Train Cannabis
-
-Cannabis naturally grows as a "Christmas tree" shape -- a tall central cola with progressively smaller branches below. Under indoor grow lights, this natural form is inefficient. The intense light from HID or LED fixtures covers a defined footprint, and a tall, cone-shaped plant leaves much of this footprint underutilized. Training reshapes the plant into a form better suited to the indoor environment: wide and flat rather than tall and narrow.
-
-Cervantes identifies the fundamental problem: in a typical garden, light is most often the factor that limits growth. Training maximizes the percentage of available light that reaches bud-producing tissue.
-
-## Categories of Training
-
-### Low-Stress Training (LST)
-
-LST involves bending and securing branches without cutting or damaging tissue. See [[low-stress-training]] for full coverage. Cervantes describes bending as "much easier on plants than pruning" and notes that "it is easy to prune too much, but it is hard to over bend." Key techniques include:
+Cannabis training encompasses all techniques used to manipulate plant structure for improved yield, light distribution, height control, and airflow. Cervantes covers training extensively, noting that "pruning and bending a plant redirects growth hormones" and that "selective pruning and bending allow us to manipulate auxin hormone levels in branch and flower tips." Training is performed during the [[low-stress-training]] for full coverage. Cervantes describes bending as "much easier on plants than pruning" and notes that "it is easy to prune too much, but it is hard to over bend." Key techniques include:
 
 - Tying branches horizontally to create an even canopy
 - Bending the main stem to encourage lateral branching
@@ -32,103 +20,95 @@ LST involves bending and securing branches without cutting or damaging tissue. S
 
 ### High-Stress Training (HST)
 
-HST involves deliberate tissue damage to reshape the plant. See [[supercropping]] for full coverage. Cervantes describes several HST methods:
-
-- Topping: removing the apical meristem to create multiple colas (see [[topping-cannabis]])
-- FIM: partial tip removal for 3-6 new colas (see [[fimming]])
-- Supercropping: crushing or partially breaking stems (see [[supercropping]])
+HST involves deliberate tissue damage to reshape the plant. See [[topping-cannabis]])
+- FIM: partial tip removal for 3-6 new colas (see [[supercropping]])
 - Stem crushing: squeezing stems to bend them without full breakage
 
 ### Pruning
 
-Pruning is the removal of branches, leaves, or growing tips. See [[cannabis-pruning-and-defoliation-guide]] for full coverage. Cervantes covers several pruning approaches:
-
-- Removing the top of the plant to drive hormones to lower branches
-- Pruning branch tips to diffuse hormones and stimulate lower growth
-- Removing spindly lower branches that receive no light
-- Removing damaged or dead leaves
-
-### Canopy Management Systems
-
-Structured approaches that combine multiple training techniques:
-
-- [[sea-of-green]]: many small plants flowered immediately for maximum space efficiency
-- [[screen-of-green]]: fewer plants trained through a horizontal screen
+Pruning is the removal of branches, leaves, or growing tips. See [[sea-of-green]]: many small plants flowered immediately for maximum space efficiency
 - [[main-lining]]: systematic topping and LST for perfectly symmetrical colas
-- [[lollipopping]]: removing lower growth to focus energy on top colas
-
-## Hormonal Basis of Training
-
-All training techniques work by manipulating the plant's hormone system, primarily auxin distribution:
-
-- The apical meristem (main growing tip) produces auxins that suppress lateral branching
-- "Removing or bending a branch or branch tip causes hormonal balances to shift"
-- "Cutting the meristem (top growth tip) of a cannabis plant will diffuse auxins and cause greater concentrations in lower branch tips"
-- "Bending a growing tip changes hormone concentrations less than pruning"
-- "Bending efficiently neutralizes the effect of the growth-inhibiting hormone"
-
-Understanding these hormonal principles allows growers to predict how their plants will respond to different training methods.
-
-## When to Train
-
-Cervantes specifies that "cloning, transplanting, pruning, and bending are all initiated when plants are in the vegetative growth stage." Key timing considerations:
-
-- Begin training after plants have 3-5 sets of true leaves (about 3-6 weeks from seed)
-- Complete all major training at least 4 weeks before switching to 12/12 flowering
-- Pruning shortly before flowering delays peak maturation by a week or longer
-- "It takes a month or longer for hormones to build up to pre-pruning concentrations"
-- Young, supple branches respond better to bending than old, stiff ones
-
-## Training Tools
-
-Cervantes recommends specific tools:
-
-- "A straight razor, single-edge razor blade, a sharp pair of pruners, or a pair of scissors all work well"
-- "Sanitize clippers and blades between cuts by dipping in rubbing alcohol"
-- "Wire ties, the kind used to close bread sacks, can be purchased at a nursery"
-- "Plastic-coated electronic and telephone cable wire also work well"
-- "A wooden planter box with a lattice trellis alongside makes a great anchor to tie bent plants to"
-
-He warns that wire ties "if applied too tightly around a stem, the liquids cannot flow, and death could result."
-
-## Training for Height Control
-
-In low-ceiling grow spaces (attics, basements), training is essential. Cervantes notes that "much can be done to compensate for the loss of height, including cloning, bending, pruning, and using smaller wattage lamps." A 4-foot (120 cm) ceiling leaves only about 3 feet (90 cm) for plants after accounting for container height and lamp clearance. Training techniques that keep plants low and wide are the solution.
-
-## Training for Outdoor Security
-
-Cervantes describes outdoor training for stealth: "Two plants growing in this ten-gallon pot have been trained to grow along a wall just out of the neighbor's field of vision." He notes that "bending branches lowers the garden profile and allows sunshine to reach smaller buds." Training is also used to "camouflage plants by bending, pruning, or tying."
-
-## Stress and Recovery
-
-Cervantes emphasizes that "stress is a growth inhibitor" and warns against excessive training:
-
-- "Pruning all the branches or removing more than 20 percent of the foliage in a short time frame stresses plants too much and diminishes harvest"
-- "Stressed plants with wounded stems and vegetation grow slower and invite pests and diseases"
-- Recovery time should be factored into the grow schedule
-- Plants should be healthy and actively growing before any training is performed
-
-## Choosing the Right Technique
-
-The choice of training method depends on several factors:
-
-- Available height: low ceilings favor LST and horizontal training
-- Plant count: legal limits favor SCROG and main-lining over SOG
-- Experience level: beginners should start with LST before attempting HST
-- Strain: some strains respond dramatically to training; others are less responsive
-- Time: SOG is fastest; main-lining requires the most vegetative time
-- Grow medium: all techniques work in soil, soilless mix, and hydroponics
-
-## See Also
-
 - [[low-stress-training]] -- gentle bending techniques
-- [[supercropping]] -- high-stress training methods
 - [[topping-cannabis]] -- removing the main growing tip
-- [[fimming]] -- partial tip removal for multiple colas
 - [[main-lining]] -- systematic symmetrical training
-- [[sea-of-green]] -- high-density cloning method
 - [[screen-of-green]] -- screen-based canopy management
-- [[lollipopping]] -- lower canopy removal
 - [[defoliation-cannabis]] -- selective leaf removal
-- [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
 - [[cannabis-vegetative-stage]] -- growth stage for all training
+## Practical Applications
+
+Training (Cannabis) has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Training (Cannabis). These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

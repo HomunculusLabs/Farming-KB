@@ -3,7 +3,7 @@ title: Fungal Endophyte Colonization Patterns
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -94,13 +94,9 @@ Major gaps in understanding include:
 
 ## See Also
 
-- [[fungal-endophytes-grass-crop-systems]]
 - [[microfungal-species-diversity-large-areas]]
-- [[the-soil-food-web]]
 - [[mycorrhizal-fungi-biome-surveys]]
 
 Source: Comprehensive review of endophyte biology (An et al. 1993; Bose 1947; Boursnell 1950; Rayner 1915, 1929)
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

@@ -27,27 +27,7 @@ Synthetic surfactants contained in chemical pesticides do not break down over 80
 
 There is a lack of research into surfactant effects in soil, but considering they are sprayed approximately 100 times in 10 years, the damage will not be small. Natural soap, by contrast, was shown to biodegrade 99.9% in just 5 days.
 
-JADAM does not use synthetic surfactants. The surfactant used in JADAM is made from plant oil and potassium hydroxide, produced in the same method as natural soap. This is why JADAM's pesticides can genuinely be called natural -- not because of their origin, but because of their complete biodegradability. See [[jadam-wetting-agent-jwa]] for the full recipe.
-
-## JADAM's Regulatory Journey
-
-JADAM's path to organic certification approval was fraught with difficulty:
-
-1. In 2010, a state agricultural agency approved all JADAM inputs under national and international standards
-
-2. Shortly after, another division of the same government agency removed JADAM inputs from the approval list and cancelled organic certification of member farmers
-
-3. As farmers making their own pesticides increased, commercial pesticide sales dropped -- the motivation behind the regulatory attack became clear
-
-4. Cho wrote to FiBL (Research Institute of Organic Agriculture, Switzerland) and OMRI (Organic Materials Review Institute) and received confirmation that JADAM methods complied with international organic production standards
-
-5. Government agencies refused to listen
-
-6. After two years of struggle, with help from a JADAM member (Youngsu Hyeon), the Korean Federation of Sustainable Agriculture Organizations president, and a National Assembly member (Seondong Gim), the approval was reclaimed through parliamentary inspection
-
-7. The making processes of JADAM sulfur and wetting agent were included in Korea's organic production regulation law
-
-The episode reveals the tension between corporate agricultural interests and farmer self-sufficiency. When the number of farmers making pesticides and fertilizers on their own increased, commercial pesticide sales dropped -- and the regulatory attack followed. See [[jadam-patent-free-revolution]] for the broader context.
+JADAM does not use synthetic surfactants. The surfactant used in JADAM is made from plant oil and potassium hydroxide, produced in the same method as natural soap. This is why JADAM's pesticides can genuinely be called natural -- not because of their origin, but because of their complete biodegradability. See [[jadam-patent-free-revolution]] for the broader context.
 
 ## USDA National Organic Program Compliance
 
@@ -81,11 +61,27 @@ This philosophy of gradual, non-violent transformation through demonstrated resu
 
 ## Related Concepts
 
-- [[jadam-natural-pesticide-philosophy]] -- the foundational philosophy
 - [[jadam-wetting-agent-jwa]] -- the natural surfactant made from plant oil
-- [[jadam-sulfur-js]] -- natural sulfur made without heating
 - [[jadam-patent-free-revolution]] -- the open-source philosophy
 - Organic Farming Methods Comparison -- JADAM's complete farming system
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[jadam-making-organic-farming-inputs]]
 - [[fukuoka-organic-versus-natural-farming]]
+## Practical Considerations
+
+Successful implementation of JADAM Natural vs Chemical Pesticide Distinction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

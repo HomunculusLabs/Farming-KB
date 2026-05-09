@@ -131,12 +131,8 @@ of chemical investigation can yield diverse therapeutic applications.
 
 ## Related Topics
 
-- [[lsd-pharmacology]] for pharmacological comparison of
-  LSD and its derivatives
 - [[hofmann-lsd-pharmacology-serotonin-brain]] for serotonin-blocking
   mechanisms
-- [[ololiuqui]] for the natural discovery
-  of lysergic acid amide
 - [[hofmann-lsd-sandoz-research-program]] for the research program context
 - [[hofmann-lsd-clinical-research-early-studies]] for clinical testing of
   derivatives

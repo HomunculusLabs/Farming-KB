@@ -123,8 +123,6 @@ pathogens from environmental reservoirs.
 
 ## Related concepts
 
-- [[gadd-fungal-multilocus-sequence-typing]]
 - [[gadd-fungal-species-recognition]]
-- [[gadd-fungal-biodiversity-conservation]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
 - [[gadd-fungal-ecology-pathogens]]

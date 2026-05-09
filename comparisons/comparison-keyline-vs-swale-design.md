@@ -23,32 +23,6 @@ advantages depending on scale, topography, budget, and objectives.
 
 ## Keyline Design
 
-[[keyline-design]]
-
-Keyline design is a landscape management system developed by Australian farmer P.A.
-Yeomans in the 1950s. It uses the natural topography of land to optimize water
-distribution, increase soil fertility, and prevent erosion. The system identifies a
-specific contour line (the keyline) at the point in a valley where the slope changes
-from convex to concave, then cultivates parallel to this line to spread water from
-wetter valleys to drier ridges.
-
-The core technique is keyline pattern cultivation: plowing or cultivating parallel to
-the keyline contour, gradually moving from the valley out toward the ridges. Since
-cultivation lines parallel the keyline but the keyline follows a specific contour, the
-cultivation lines on the ridges fall slightly off-contour, encouraging water to flow
-from wet areas to dry areas. This redistributes soil moisture without any earthworks,
-dams, or channels. The system also emphasizes the keypoint (the highest point in a
-valley where water naturally begins to pool) as the optimal location for dam
-construction for gravity-fed irrigation.
-
-Keyline design integrates tree planting (on contour above the keyline), pasture
-improvement, and soil development into a unified approach. It is particularly
-effective on broadacre grazing and cropping land where swale construction would be
-impractical due to scale. The system was outlined in Yeomans' "Water for Every Farm"
-(1954) and remains one of the most influential frameworks in regenerative agriculture.
-
-## Swale Design
-
 [[swale-design]]
 
 Swale design involves constructing level or near-level channels on contour to
@@ -121,8 +95,6 @@ full moisture profile of a property.
 
 ## See Also
 
-- [[dam-construction]]
 - [[hemenway-hugelkultur-guide]]
-- [[mollison-designers-terracing-slope-stabilization]]
 - [[water-harvesting-techniques-comparison]]
 - [[natural-farming-guide-contour-farming-strip-cropping]]

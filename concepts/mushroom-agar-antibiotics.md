@@ -1,7 +1,7 @@
 ---
 title: Antibiotic Use in Mushroom Agar Culture
 created: 2026-04-28
-tags: [mycology, agar, contamination, antibiotics, Stamets]
+tags: [[mycology, agar, contamination, antibiotics, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -136,8 +136,6 @@ strategies:
 
 ## Related Concepts
 
-- [[stamets-agar-media-preparation]]
 - [[stamets-sterile-laboratory-design]]
-- [[stamets-contamination-sources-laboratory-hygiene]]
 - [[stamets-spore-germination-and-tissue-culture]]
 - [[stamets-contamination-identification-and-control]]

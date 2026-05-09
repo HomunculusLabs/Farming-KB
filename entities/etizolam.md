@@ -116,10 +116,7 @@ The primary mechanism of death in overdose is respiratory depression, potentiate
 
 ## See Also
 
-- [[psilocybin-compound]] — Psychoactive compound comparison
 - [[dimethyltryptamine]] — Natural psychoactive tryptamine
-- [[lsd-d-lysergic-acid-diethylamide]] — Classic psychedelic for comparison
 - [[mescaline-entity]] — Natural phenethylamine psychedelic
-- [[ketamine]] — Dissociative anesthetic with recreational use
 - [[cannabis-endocannabinoid-system]] — Psychoactive plant compounds
 - cannabis — Major psychoactive plant genus

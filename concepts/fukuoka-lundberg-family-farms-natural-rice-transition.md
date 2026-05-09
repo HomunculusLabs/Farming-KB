@@ -1,0 +1,123 @@
+---
+title: Lundberg Family Farms — Natural Rice Transition in California
+tags:
+  - farming
+  - rice
+  - california
+  - organic
+  - natural-farming
+  - united-states
+  - fukuoka
+date: 2026-05-08
+updated: 2026-05-08
+sources:
+  - masanobu-fukuoka-sowing-seeds-in-the-desert.md
+---
+
+# Lundberg Family Farms Natural Rice Transition
+
+## Overview
+
+During his 1986 visit to California, Fukuoka visited Lundberg Family Farms near Chico, California — a 7,500-acre brown rice operation that became one of the most significant examples of large-scale natural farming transition in the United States. The story illustrates both the potential for industrial-scale natural farming and the challenges of shifting from organic to truly natural methods.
+
+## The First Visit
+
+Seven years before his 1986 visit, Fukuoka had traveled to the Lundberg farm to promote natural farming and learn about rice cultivation in the vast fields of the Sacramento Valley. When he presented his philosophy to the owner, Mr. Lundberg, the response was enthusiastic: "This is wonderful! It is a revolution!"
+
+Lundberg took Fukuoka's words to heart. He got rid of six of his tractors and began transitioning to natural farming methods. The scale of this decision is remarkable — a 7,500-acre farm discarding most of its heavy equipment represents an enormous act of faith in natural methods.
+
+## The 1986 Reunion
+
+When Fukuoka returned in 1986, Lundberg told him: "Since I met you, Fukuoka-san, I've become more open-minded. My three brothers and I are all doing natural farming now."
+
+Four large grain elevators stood in different places on the farm, and nearly a hundred farmers had gathered to celebrate the founding of an association aimed at increasing the production of naturally grown rice in the Sacramento Valley and making it available to people around the country. Lundberg presented Fukuoka with a large silver medal for distinguished service.
+
+## The Weed Revelation
+
+The most striking observation Fukuoka made was the condition of the rice fields: thousands of acres filled with barnyard grass. In Japan, such fields would be considered a failure. People would say that so many weeds indicated the natural farming method was flawed.
+
+Neither Lundberg nor the other farmers seemed concerned. Fukuoka realized how truly open-minded Lundberg had become — he had been able to look calmly at all those weeds for seven years without panicking. Despite the barnyard grass, the fields produced 16 to 18 bushels (960 to 1,080 pounds) per quarter acre, matching conventional paddy yields in Japan — and this was achieved using large harvesting equipment, while Japanese farmers had the advantage of managing small fields more intensively.
+
+## The Soil Vitality Secret
+
+Fukuoka identified the key to Lundberg's success: the improved vitality of the soil. Before Fukuoka's first visit, Lundberg had been farming organically, growing rice in each field every two or three years, with fields lying fallow for one year and planted with summer wheat or barley during the second year.
+
+After adopting natural farming methods, Lundberg was able to grow rice in each field every year. Plus, because the rice was naturally grown, he received a much higher price than ordinary brown rice would command.
+
+## Marketing Innovation
+
+Lundberg also demonstrated creative marketing, combining brown, black, and long-grained varieties into various blends. He expressed firm resolve not to surrender to the oil companies or the capitalists who back them, no matter what difficulties he might encounter. This combination of farming innovation and business acumen made the Lundberg operation a model for natural farming at scale.
+
+## The Sacramento Valley Context
+
+The enthusiasm Fukuoka witnessed among rice growers near Chico, in the heartland of California, convinced him that natural farming would expand rapidly and contribute greatly to making wholesome brown rice an everyday part of the American diet. The Sacramento Valley, with its Mediterranean climate (rain in winter, dry summers), presented different challenges from Fukuoka's farm in Japan, but the principles translated successfully.
+
+## Significance for the Natural Farming Movement
+
+The Lundberg story demonstrates several important points:
+
+- Natural farming can work at industrial scale, not just on small family plots
+- The transition from organic to natural farming is possible and profitable
+- Weeds are not the enemy — soil health is the foundation
+- Farmers who embrace natural methods can maintain yields while eliminating chemical inputs
+- The economic case for natural farming strengthens as soil improves over time
+
+## From Organic to Natural
+
+Fukuoka drew an important distinction between organic and natural farming during this visit:
+
+- Conventional farming and organic farming are not fundamentally different in approach
+- Both begin by asking "How can I get nature to produce most efficiently for human beings?"
+- The industrial farmer uses chemicals; the organic farmer uses organic materials
+- Both systems rely on plowing the soil, which Fukuoka did not do
+- Natural farming asks instead "How can I align my actions with nature's own processes?"
+
+"The only way is to follow the road back to nature," Fukuoka wrote. "Once the philosophy is understood, the appropriate techniques will become clear as day."
+
+## The Transition Timeline
+
+The Lundberg transition followed a significant arc:
+
+- **Pre-1979**: Conventional organic farming with crop rotation and fallow periods
+- **1979**: Fukuoka's first visit catalyzes radical change; six tractors discarded
+- **1979-1986**: Seven years of experimentation with natural methods, learning to tolerate weeds
+- **1986**: All four Lundberg brothers practicing natural farming; yields match conventional
+- **1986**: Natural farming association founded with 100 farmers in the Sacramento Valley
+
+This timeline is instructive because it shows that the transition was neither instant nor easy. Seven years of living with weeds and uncertainty were required before the system proved itself. Most farmers would have given up long before that point.
+
+## The Economics of Natural Rice
+
+The economic case for Lundberg's transition was compelling:
+
+- Elimination of tractor fuel and maintenance costs for six machines
+- Elimination of chemical fertilizer and pesticide purchases
+- Ability to grow rice every year instead of every two to three years
+- Premium pricing for naturally grown brown rice
+- Reduced labor costs from simplified farming operations
+- Increasing soil fertility meaning decreasing input needs over time
+
+These savings compound over time. The first years of transition are the hardest, as the soil adjusts and the farmer learns to work with nature rather than against it. But once the system is established, it becomes self-reinforcing and increasingly profitable.
+
+## The Hundred-Farmer Association
+
+The founding of the natural rice growers' association, with nearly a hundred farmers gathered to celebrate, represented a significant milestone. These were not back-to-the-land hobbyists but commercial rice farmers in the heart of California's agricultural heartland. Their willingness to form an association suggests that Lundberg's success had inspired confidence among his neighbors.
+
+The association's goals — increasing production of naturally grown rice and making it available nationwide — aligned with Fukuoka's vision of natural farming spreading from individual farms to regional food systems.
+
+## Lessons for Large-Scale Transition
+
+The Lundberg experience offers several lessons for farmers considering natural methods:
+
+- Start with what you know (Lundberg was already organic, making the transition easier)
+- Expect a multi-year learning curve with uncertain results
+- Soil health improvement is gradual but cumulative
+- Weeds indicate soil imbalances that will self-correct over time
+- Marketing and distribution are as important as growing methods
+- Community support (the association) helps sustain commitment through difficult years
+
+## See Also
+
+- [[fukuoka-sowing-natural-farming-philosophy]]
+- [[fukuoka-one-straw-revolution-principles]]
+- [[fukuoka-critique-green-revolution]]

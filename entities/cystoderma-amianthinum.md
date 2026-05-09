@@ -125,12 +125,7 @@ Identification within the Cystoderma genus requires careful attention to cap col
 
 ## See Also
 
-- [[agaricus-sylvicola]]
 - [[agaricus-campestris]]
-- [[lepiota-procera]]
-- cystoderma carcharias
 - [[russula-delica]]
-- [[tricholoma-terreum]]
 - [[mycena-pura]]
-- [[coprinellus-micaceus]]
 - [[conocybe-cyanopus]]

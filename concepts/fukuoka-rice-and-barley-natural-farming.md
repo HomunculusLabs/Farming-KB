@@ -68,7 +68,7 @@ Fukuoka reports yields of approximately 590 kg (1,300 pounds) of winter grain an
 - [[fukuoka-rice-barley-annual-calendar]]
 - [[fukuoka-soil-building-method]]
 - [[natural-farming-fukuoka]]
-- [[permaculture-design-principles]]
+- [[permaculture-design-principles-beginners]]
 
 ## Related
 
@@ -76,3 +76,22 @@ Fukuoka reports yields of approximately 590 kg (1,300 pounds) of winter grain an
 - [[fukuoka-one-straw-revolution-philosophy]]
 - [[natural-farming-seed-balls]]
 - [[cover-crop-species-comparison]]
+## Practical Considerations
+
+Successful implementation of Fukuoka — Natural Farming of Rice and Barley requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

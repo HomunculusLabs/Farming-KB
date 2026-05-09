@@ -81,10 +81,8 @@ The existence of mycoheterotrophs demonstrates that mycorrhizal mycelial network
 
 Sources: Leake, J.R. in Gadd, Watkinson and Dyer, Fungi in the Environment (Cambridge University Press, 2006), Ch. 8.
 
-See also: [[mycorrhizal-networks-interplant-carbon-transfer]], [[arbuscular-mycorrhizal-networks]], [[ectomycorrhizal-fungal-ecology]], [[mycorrhizal-networks-common-mycelial-network]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+See also: [[arbuscular-mycorrhizal-networks]], [[mycorrhizal-networks-common-mycelial-network]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[mycorrhizal-effects-on-plant-community-composition]]
 
 ## See Also

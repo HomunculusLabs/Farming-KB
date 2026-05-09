@@ -130,12 +130,6 @@ and animal relationships form an interconnected web.
   when these ants are about, opening only when there is enough dew on
   their stems to keep the ants from climbing."
 
-- [[tompkins-plant-perception-experiments]]
-
-## See Also
-
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-perception]]
 - [[bacterial-endophytes-plant-roots]]
-- [[plant-fungal-signaling-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]

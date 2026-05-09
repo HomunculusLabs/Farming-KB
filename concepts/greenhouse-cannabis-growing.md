@@ -11,41 +11,8 @@ tags: [cannabis]
 
 # Greenhouse Cannabis Growing
 
-Greenhouses offer a middle ground between [[outdoor-cannabis-growing]] and fully
-controlled indoor cultivation. They capture free sunlight while providing environmental
-control over temperature, humidity, and [[light-schedule-cannabis]]. Greenhouses can
-extend the growing season and enable techniques like [[light-deprivation-cannabis]] for
-multiple harvests per year.
-
-## Greenhouse Types
-
-Greenhouses, cold frames, and hot frames are all useful structures for extending the
-growing season. Cold frames are small, simple structures with no artificial heat --
-their function is to protect young plants from wind and cold. Hot frames provide heat
-through manure, electricity, steam, or radiant hot-water pipes. Full greenhouses are
-larger, more complex, and more expensive, but offer the greatest flexibility. Simple cold
-frames and hot frames can be assembled from common materials like old framed window panes
-and hay bales.
-
-Cold frames can also be blacked out to induce early flowering and harvest. Hot frames
-are useful to raise early seedlings and clones, after which the structure can be
-converted into a cold frame. Both frames share the advantages of economy, simplicity,
-small size, and portability.
-
-## Site Selection
-
-Choose a sheltered location protected from strong winds. The greenhouse should receive
-maximum sunlight exposure, especially in winter when days are short. Consider the
-footprint and how many plants can be grown safely. Low-profile greenhouses are popular
-where security is a concern. Freestanding greenhouses offer the most flexibility.
-
-Total area is determined by the number of plants you intend to grow. Allow one square
-yard (90 cm2) per mature plant. Add about six inches (15 cm) of space for air
-circulation between benches and sidewalls, plus space for walkways.
-
-## Light Management
-
-Greenhouses can be darkened to induce [[flowering-phase-cannabis]] during mid-summer by
+Greenhouses offer a middle ground between [[light-schedule-cannabis]]. Greenhouses can
+extend the growing season and enable techniques like [[flowering-phase-cannabis]] during mid-summer by
 covering with black plastic for 12 hours daily. This practice allows up to three crops
 per year. When supplementing natural sunlight with artificial light, HID lamps are turned
 on 30 minutes before sunset and off 30 minutes after sunrise. Supplementary lighting
@@ -54,13 +21,7 @@ has greatest effect on the youngest plants.
 ## CO2 Considerations
 
 Closed greenhouses often have too little CO2 during the day for plants to use light
-effectively. [[co2-enrichment-cannabis]] will accelerate growth. Methods range from
-expensive CO2 equipment with infrared sensors to block dry ice. Greenhouses receive
-natural CO2 replenishment through ventilation, unlike sealed indoor rooms.
-
-## Ventilation Requirements
-
-All greenhouses need [[ventilation-cannabis]] and most also need cooling. Calculate fan
+effectively. [[ventilation-cannabis]] and most also need cooling. Calculate fan
 capacity by multiplying the square footage of the greenhouse by the desired air exchange
 rate. Roof vents and side vents make ventilation efficient. Look for an extraction fan
 with the capacity to change the air once every minute. Multiply the greenhouse volume
@@ -141,9 +102,6 @@ to suit the grower's needs.
 
 ## See Also
 
-- [[outdoor-cannabis-growing]] -- comparison with outdoor cultivation
 - [[light-deprivation-cannabis]] -- forcing flowering in greenhouses
-- [[co2-enrichment-cannabis]] -- CO2 management in greenhouse settings
 - [[ventilation-cannabis]] -- air exchange requirements
-- [[guerilla-growing]] -- remote outdoor alternative
 - [[cmh-grow-lights]] -- supplemental lighting for greenhouses

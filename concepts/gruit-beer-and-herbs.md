@@ -81,14 +81,10 @@ Some traditional gruit herbs, particularly wild rosemary (Ledum palustre), conta
 
 ## See Also
 
-- [[history-of-beer-and-brewing]] for the broader historical context
 - [[hops-history-and-brewing]] for the plant that replaced gruit
 - herbal beer ingredients for a wider range of brewing herbs
-- [[sacred-brewing-traditions]] traditions for ritual and ceremonial brewing
 - [[beer-brewing-basics]] for general brewing technique
 - ale vs lager fermentation for fermentation science
 - beer styles overview for modern beer style categories
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[teaming-with-microbes-plant-control]]
-- [[herbal-medicine-safety]]
 - [[pihkal-cautionary-note-and-legal-context]]

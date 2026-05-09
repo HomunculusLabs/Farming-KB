@@ -4,8 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, plant-growth, methods, equipment]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Cannabis Topping and Training Techniques
@@ -121,8 +120,6 @@ Different methods suit different situations:
 5. **Clean tools**: Always use clean, sharp scissors or blades. Sanitize between plants to prevent disease transmission.
 
 ## See Also
-
-- [[gelato-cannabis]]
 
 - [[cannabis-vegetative-stage]] — Training happens primarily during vegetative growth
 - [[cannabis-flowering-stage]] — Transition considerations when moving trained plants to flower

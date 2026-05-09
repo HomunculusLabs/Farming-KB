@@ -55,29 +55,7 @@ PIHKAL entry #40. 4-Ethylthio-2,5-dimethoxy-PEA.
 > (with 22 mg) A slow onset. It took an hour for a plus one, and
 > almost another two hours to get to a +++. Very vivid fantasy images,
 > eyes closed, but no blurring of lines between "reality" and fantasy.
-> Some yellow-grey patterns a la psilocybin. Acute diarrhea at about
-> the fourth hour but no other obvious physical problems. Erotic
-> lovely. Good material for unknown number of possible uses. Can
-> explore for a long time. Better try 20 milligrams next time.
->
-> (with 25 mg) I was at a +++ in an hour! It is most difficult to do
-> even ordinary things. I took notes but now I can't find them. This
-> is much too high for anything creative, such as looking at pictures or
->
-> trying to read. Talking is OK. And to my surprise I was able to get
-> to sleep, and a good sleep, at the seven hour point.
->
-
-## Extensions and Commentary
-
-There is a considerable parallel between
-2C-T-2 and 2C-T-7, and both have proven to be excellent tools for
-introspection. The differences are largely physical. With 2C-T-2,
-there is more of a tendency to have physical disturbances such as
-nausea and diarrhea. And the experience is distinctly shorter. With
-2C-T-7, physical disturbances are less common, but you are into the
-effects for almost twice as long. Both have been frequently used in
-therapy as follow-ups to MDMA.
+> Some yellow-grey patterns a la [[mdma]].
 
 A point of potential misidentification should be mentioned here.
 2C-T-2 has occasionally been called, simply, T-2. This abbreviated
@@ -134,9 +112,5 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[2c-t-2-pihkal-entry-40]]
 - [[2c-n-entity-pihkal]]
-- [[doc-pihkal-64]]
-
-- PIHKAL (the source book)
 - [[2c-t-entity-pihkal]] -- 2C-T (PIHKAL #39)

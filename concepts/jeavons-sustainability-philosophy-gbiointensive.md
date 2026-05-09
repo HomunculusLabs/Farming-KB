@@ -13,37 +13,7 @@ type: concept
 
 Sustainability means living so there are enough resources to live
 well in an alive, diverse, thriving environment—indefinitely. The
-[[jeavons-grow-biointensive-method-overview]] method places sustainability at its core,
-recognizing that with only 42 to 84 years of topsoil remaining
-globally, learning to enrich and maintain soil sustainably is
-vital for human survival.
-
-## The Sustainability Challenge
-
-Most people live on six times or more the resources available
-per person if distributed equally worldwide. We often think of
-sustainability in terms of using nonrenewable resources
-carefully, but more important is using renewable resources well.
-Chemical fertilizers and pesticides derive partly from petroleum,
-while organic fertilizers depend on another farm's soil producing
-raw materials—soil that loses nutrients when those materials are
-constantly removed. The question is not just "Is it productive?"
-but "Does it exhaust the soil?"
-
-## The Loss of Nutrients and Humus
-
-When soil grows crops, it loses the nutrients crops extract and
-the humus soil microorganisms consume. To maintain fertility, both
-must be replenished. Composting crop residues and returning them
-to the soil restores almost all nutrients the crop contained.
-Carbon that left as carbon dioxide returns when carbon-rich crops
-like corn, amaranth, wheat, and rice are grown and composted.
-These crops should cover about 60% of the farm area to generate
-sufficient compost for sustainable soil fertility.
-
-## The Biogeologic Cycle
-
-When [[jeavons-composting-methods]] is added to soil, humic acid (produced
+[[jeavons-composting-methods]] is added to soil, humic acid (produced
 from decomposition) along with carbonic acid around plant roots
 can increase microbial activity, decompose larger minerals, and
 alter soil pH to make previously unavailable nutrients available.
@@ -96,27 +66,29 @@ areas as follows:
 - **10%** in vegetable crops for additional vitamins and minerals
 
 This model produces enough compost material and calories while
-maintaining sustainable soil fertility. See [[jeavons-diet-design-self-sufficiency]]
-for dietary implications.
-
-## Compost and Fertility Goals
-
-Per 100 square feet per 4-6 month growing season:
-- **Beginning sustainability**: 1.6-2.8 cubic feet cured compost
-- **Intermediate sustainability**: 3.6 cubic feet
-- **High sustainability**: 8 cubic feet (1 inch layer)
-
-Approximately 4%-6% organic matter is needed in temperate soils
-(3% in tropical ones). See [[jeavons-compost-functions-soil-building]]
+maintaining sustainable soil fertility. See [[jeavons-compost-functions-soil-building]]
 for compost's role in building this organic matter.
 
 ## The Bigger Picture
 
 GROW BIOINTENSIVE alone is not the answer. It must be part of a
-sustainable collage including [[jeavons-sustainable-soil-closing-loop]], reduced
-consumption, and cooperative community action. Each of us is
-needed. Building truly sustainable agriculture is an essential
-part of building sustainable communities.
+sustainable collage including [[jeavons-sustainable-soil-closing-loop]], [[jeavons-carbon-and-calorie-crop-integration]], [[jeavons-soil-fertility]]
+## Practical Considerations
 
-See also: [[jeavons-sustainable-soil-closing-loop]], [[jeavons-carbon-farming]],
-[[jeavons-carbon-and-calorie-crop-integration]], [[jeavons-soil-fertility]]
+Successful implementation of Sustainability Philosophy of GROW BIOINTENSIVE requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

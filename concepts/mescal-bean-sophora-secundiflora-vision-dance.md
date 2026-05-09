@@ -4,7 +4,8 @@ created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 # Mescal Bean (Sophora secundiflora): Vision Dance and Texas Narcotic
 
@@ -62,32 +63,11 @@ The mescal bean holds a unique place in the ethnopharmacology of North America a
 
 ## Related
 
-- [[ethnomycology]]
-- [[entheogenic-plants-and-psychoactive-flora]]
+- ethnomycology
 - [[old-world-hallucinogenic-plants-overview]]
-- [[entheogenic-plants-and-psychoactive-flora]]
-
-## Historical Context
-
-The mescal bean (Sophora secundiflora) holds one of the oldest documented records of continuous psychoactive plant use in North America. Archaeological evidence from caves and rock shelters in Texas and northern Mexico includes mescal bean remains in contexts dating back over 8,000 years, making it one of the most ancient psychoactive plant traditions in the world.
-
-The red and orange beans were used in vision quests, curing ceremonies, and initiation rites by numerous Native American peoples across the southern Plains and northern Mexico. The Kiowa, Comanche, Apache, and other groups incorporated mescal beans into ceremonial regalia, particularly in the medallion-like rattles worn by dancers in the peyote ceremony, which preserved the beans' symbolic importance even after their use as a primary psychoactive was largely supplanted by peyote.
-
-## Modern Significance
-
-The displacement of mescal bean by peyote in Native American religious practice represents one of the most significant transitions in North American ethnopharmacology. This shift is believed to have occurred because peyote produces more predictable and desirable visionary effects at lower toxicity than the mescal bean, which contains the dangerous alkaloid cytisine alongside its psychoactive constituents.
-
-Modern interest in the mescal bean focuses on its unique alkaloid chemistry — particularly cytisine, which has been investigated as a smoking cessation aid — and its role as a transitional plant in the history of Native American religious practice. The persistence of mescal beans in peyote ceremony regalia testifies to the deep cultural memory of this ancient plant tradition.
-
-## See Also
-
 - [[sophora-secundiflora-entity]]
 
-[[old-world-hallucinogenic-plants-overview]] — overview of Old World hallucinogenic plants.
-
 [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — Mexican morning glories.
-
-[[yopo-anadenanthera-peregrina-snuff]] — South American snuff traditions.
 
 [[tree-daturas-brugmansia-south-american-ethnobotany]] — South American tree daturas.
 

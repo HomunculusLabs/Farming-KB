@@ -1,7 +1,7 @@
 ---
 title: Gourmet Mushroom Cultivation
 created: 2026-04-28
-tags: [mycology, cultivation, gourmet-mushrooms, agriculture]
+tags: [[mycology, cultivation, gourmet-mushrooms, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -13,8 +13,7 @@ type: concept
 Gourmet mushroom cultivation is the practice of growing edible fungi for
 culinary markets. The most commonly cultivated species include **shiitake**
 (*Lentinula edodes*), **oyster mushrooms** (*Pleurotus* spp.), **king oyster**
-(*Pleurotus eryngii*), **enoki** (*[[flammulina-velutipes]]*), **maitake/hen of
-the woods** (*Grifola frondosa*), and **lion's mane** (*[[hericium-erinaceus]]*).
+(*Pleurotus eryngii*), **enoki** (*[[hericium-erinaceus]]*).
 Each species has distinct growing parameters, substrate preferences, and market
 value. The global gourmet mushroom market exceeds $50 billion and is growing
 annually as consumer demand for functional foods and plant-based proteins
@@ -22,13 +21,7 @@ increases.
 
 ## Spawn Production
 
-Cultivation begins with **spawn** — mushroom mycelium propagated on a sterile
-carrier grain such as rye, millet, or wheat. Spawn is to mushrooms what seed is
-to plants, but with critical differences: it is living tissue that must be kept
-sterile and viable. Spawn production requires several steps:
-
-- A **pure culture** isolated from a fruiting body or obtained from a culture
-  bank, maintained on agar plates (malt extract agar or potato dextrose agar)
+Cultivation begins with **spawn** — mushroom [[agar]] plates (malt extract agar or potato dextrose agar)
 - **Sterile technique** — working in a laminar flow hood or still-air box to
   prevent contamination by bacteria, mold spores, or competing fungi
 - **Grain preparation** — soaking, boiling, and sterilizing grain in jars or
@@ -68,8 +61,7 @@ Substrate must be **pasteurized** (60-80°C for 60-90 minutes for straw/coffee
 grounds) or **sterilized** (121°C at 15 PSI for 90-120 minutes for sawdust
 blocks) before inoculation. Supplementation with nitrogen-rich additives (bran,
 soy hulls) increases yields significantly — often doubling or tripling
-[[biological-efficiency]] — but also raises contamination risk, necessitating
-sterilization rather than pasteurization.
+[[sterilization]] rather than pasteurization.
 
 ## Fruiting Parameters
 
@@ -147,4 +139,3 @@ due to short shelf life, perishability, and growing demand from restaurants,
 food service, and health-conscious consumers. Oyster mushrooms offer the fastest
 return (3-4 weeks from inoculation to harvest), while shiitake on logs requires
 6-12 months but produces multiple crops over 3-5 years from a single
- Related concepts include wine cap stropharia cultivation, [[mushroom-cultivation]], [[substrate-preparation]]. See also [[malt-extract-agar]].

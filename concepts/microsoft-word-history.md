@@ -77,16 +77,10 @@ installed word processor globally.
 
 ## See Also
 
-- [[pf-tek-overview-and-history]]
 - [[teonanacatl-history]]
-- [[liberty-cap-psilocybe-semilanceata-history-biology]]
 - [[mushroom-cultivation-patent-history]]
-- [[duggar-mushroom-growing-history-and-methods]]
-
 - [[microsoft-word-document-format-history]]
-- [[microsoft-word-document-format]]
 - [[microsoft-word]]
-- [[herbal-medicine-history]]
 - [[history-psychedelics-ancient]]
 
 - word processing

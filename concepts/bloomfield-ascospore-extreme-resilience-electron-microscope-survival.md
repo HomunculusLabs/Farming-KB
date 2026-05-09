@@ -135,8 +135,6 @@ protective pigmentation and wall chemistry of the fungal hyphae,
 
 ## See also
 
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
-- [[bloomfield-fungal-melanin-radiation-protection-pigmentation]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]

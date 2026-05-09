@@ -103,8 +103,6 @@ Additional uses include basket weaving, paper pulp, musical reed instruments, an
 
 ## See Also
 
-- [[typha-latifolia-entity]]
-- wetland
 - [[phytoremediation]]
 - bioremediation
 - nitrogen
@@ -112,9 +110,7 @@ Additional uses include basket weaving, paper pulp, musical reed instruments, an
 - carbon sequestration
 - bioenergy
 - cattail
-- [[comfrey]]
 - [[stropharia-rugosoannulata]]
-- [[symphytum-officinale]]
 - [[mycoremediation]]
 - paper making
 - [[biochar]]

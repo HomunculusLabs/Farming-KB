@@ -86,37 +86,14 @@ through a variety of lignin-cellulosic wastes.
 
 Only at the stage when fruitbody production is sought does
 the precise formulation of the substrate become crucial.
-For [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]
-(Pleurotus ostreatus, P. eryngii and allies), King Stropharia
-(Stropharia rugoso-annulata), and [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
+For [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
 (Coprinus comatus), outdoor beds of mixed hardwood chips work
 well.
 
 The approach of creating "spore mass slurries" of Morels
 and other species to aerially "bomb" large expanses of
 forest lands is an idea that, as crazy as it may initially
-sound, warrants serious investigation from a [[growing-gourmet-bioremediation-mycofiltration]]
-perspective.
-
-## Spore-Mass Fermentation for Grain Spawn
-
-Asian spawn producers have developed spore-mass inoculation
-techniques to an industrial level. Only recently have Western
-mycologists recognized that a large community of spore matings
-behaves quite differently than paired individuals. The most
-aggressive strains out-race the least aggressive strains to
-capture the intended habitat.
-
-Dr. Alan Rayner at the University of Bath described this
-form of genetic theft as "non-self fusions" between
-genetically different mycelial systems within the same
-species. This ability to adapt has made fungi one of the
-most successful examples of evolution in the biological
-arena.
-
-## Spore-Mass vs. Cloning
-
-A culture arising from [[growing-gourmet-mushroom-cloning-technique]]
+sound, warrants serious investigation from a [[growing-gourmet-mushroom-cloning-technique]]
 is fundamentally different from a culture originating from spores. When spores are
 germinated, many different strains are created, some
 incompatible with one another. A cultivator will not know
@@ -136,12 +113,4 @@ of living tissue.
 
 Spore-mass fermentation techniques are not yet widely used
 by North American or European cultivators. Concern for
-preserving [[growing-gourmet-strain-senescence-degeneration]],
-lack of experience, equipment, and intellectual conflict are
-contributing factors. In mushroom culture, intransigence to
-new ideas has often prevailed, as the slightest variation
-from the norm has resulted in expensive failures.
-
-## See Also
-
-- [[critical-mass]]
+preserving [[critical-mass]]

@@ -19,27 +19,12 @@ All ingredients can be sourced from your kitchen and farm, making it accessible 
 
 ## Detailed Explanation
 
-JADAM Natural Pesticide represents one of the core innovations of the [[youngsang-cho]] JADAM farming system.
-The philosophy behind JNP is that effective pest control does not require expensive synthetic chemicals.
-It also does not require costly certified organic alternatives.
-Instead, [[ultra-low-cost-pest-control]] can be achieved by combining beneficial microorganisms with simple plant-based ingredients.
+JADAM Natural Pesticide represents one of the core innovations of the [[ultra-low-cost-pest-control]] can be achieved by combining beneficial microorganisms with simple plant-based ingredients.
 These ingredients disrupt pest biology while remaining harmless to humans and beneficial insects.
 
 ### The Foundation: JADAM Microorganism Solution (JMS)
 
-The foundation of any JNP recipe is the [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]].
-This is a fermented culture of indigenous microorganisms collected from your local environment.
-Collection uses leaf mold from your property combined with rice wash water as a growth medium.
-The microorganisms in JMS serve multiple functions in the pesticide formulation.
-They colonize plant surfaces to create a protective biological barrier against pathogens.
-They outcompete disease-causing organisms for space and nutrients on leaf surfaces.
-Some species produce natural antimicrobial compounds that suppress fungal diseases on contact.
-The diversity of locally adapted organisms gives JMS an advantage over laboratory-cultured single-strain inoculants.
-
-### The Oil Component
-
-The oil component of JNP is what gives it insecticidal properties.
-The [[ultra-low-jadam-wetting-agent-jwa]] helps the oil-based solution spread evenly across leaf surfaces.
+The foundation of any JNP recipe is the [[ultra-low-jadam-wetting-agent-jwa]] helps the oil-based solution spread evenly across leaf surfaces.
 It also helps the solution penetrate pest exoskeletons for effective contact killing.
 Canola oil is the most commonly recommended oil for several reasons.
 It is inexpensive and available at any grocery store.
@@ -55,18 +40,7 @@ For enhanced efficacy, many JADAM practitioners add crushed garlic, azadirachta-
 These additions provide secondary pest-deterrent effects through natural compounds.
 Allicin in garlic provides antimicrobial and insect-repellent properties.
 Azadirachtin in neem disrupts insect hormone systems, preventing molting and reproduction.
-The [[ultra-low-jadam-herb-solution-jhs]] provides a standardized method for extracting active compounds.
-You can use local weed and herb species from your own property as ingredients.
-These extracts are then incorporated into your JNP recipe for broader pest control coverage.
-Using local weeds further reduces costs and connects your pest management to your specific local ecosystem.
-
-### Application Technique
-
-Application timing and technique are critical for JNP effectiveness.
-The pesticide should be applied in the early morning or late evening.
-During these times, beneficial insects like bees and ladybugs are less active and less likely to be affected.
-Plant stomata are also open during cooler hours, improving absorption of beneficial microbial colonizers.
-Using the [[ultra-low-jadam-wetting-agent-jwa]] ensures proper coverage on both upper and lower leaf surfaces.
+The [[ultra-low-jadam-wetting-agent-jwa]] ensures proper coverage on both upper and lower leaf surfaces.
 Many pests hide on the undersides of leaves, so thorough coverage is essential.
 JNP can be used as both a preventive spray and a curative treatment.
 However, preventive applications every 7 to 14 days during peak pest pressure yield the best results.
@@ -76,10 +50,7 @@ A backpack sprayer or pump-up garden sprayer works well for application.
 ### Integration with Soil Health
 
 One of the key advantages of the JADAM approach is its integration with overall soil health management.
-By maintaining healthy soil biology through the [[ultra-low-jadam-fertilizer-program]], plants develop stronger natural defenses.
-Healthy plants with balanced nutrition are inherently more resistant to pest pressure.
-These defenses work synergistically with JNP applications to create multi-layered pest protection.
-The [[ultra-low-cost-jadam-natural-pesticide-jnp]] system recognizes that pest problems are often symptoms of underlying soil imbalances.
+By maintaining healthy soil biology through the [[ultra-low-cost-jadam-natural-pesticide-jnp]] system recognizes that pest problems are often symptoms of underlying soil imbalances.
 Therefore it addresses both the symptom and the cause simultaneously.
 This holistic approach contrasts sharply with conventional pesticide-only strategies that treat symptoms while ignoring root causes.
 
@@ -104,6 +75,5 @@ It democratizes effective pest control, removing cost as a barrier to organic pr
 
 ## Related Questions
 
-- [[query-jadam-vs-korean-natural-farming]]
 - [[query-how-to-control-pests-without-chemicals]]
 - [[what-natural-farming-method-should-i-use]]

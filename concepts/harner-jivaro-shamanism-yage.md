@@ -94,9 +94,7 @@ The Jivaro system of aggressive and defensive shamanism is one of the most elabo
 
 ## See Also
 
-- [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[ethnomycology]]
-- [[harner-shamanic-journey-and-altered-states]]
+- ethnomycology
 - [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]

@@ -141,10 +141,11 @@ pathways in plants has been extended to studies of shade avoidance, de-etiolatio
 and photoperiodic flowering control. The underlying logic, that selectively
 blocking light from specific tissues can reveal the site of photoreception,
 remains a standard approach in photobiology laboratories worldwide.
+## See Also
+
+- [[darwins-phototropism-experiments]]
+- [[plant-vision-and-phototropism]]
 
 ## See Also
 
-- [[canary-grass-phototropism-model-organism]]
-- [[darwins-phototropism-experiments]]
-- [[julius-von-sachs-blue-light-phototropism-discovery]]
-- [[plant-vision-and-phototropism]]
+- [[cannabis-microbiome-experimental-design]]

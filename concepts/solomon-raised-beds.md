@@ -8,11 +8,7 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# [[raised-bed-gardening]] Methods
-
-## The Case Against Intensive Raised Beds
-
-[[steve-solomon]] directly challenges the intensive gardening orthodoxy that
+# [[steve-solomon]] directly challenges the intensive gardening orthodoxy that
 advocates closely spaced, deeply double-dug raised beds with vegetables planted
 in precise hexagonal patterns. He states flatly that claims of much higher
 yields and less water use per unit of production from intensive beds "are not
@@ -106,6 +102,5 @@ beds and can produce a useful crop in the first season.
 
 ## See Also
 
-- [[solomon-double-digging]] for breaking new ground before making beds -
-[[solomon-irrigation-water-scarce]] for watering strategies by bed type -
+- [[solomon-irrigation-water-scarce]] for watering strategies by bed type -
 [[solomon-complete-organic-fertilizer-guide]] for hill and bed fertility

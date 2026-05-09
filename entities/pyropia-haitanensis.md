@@ -100,12 +100,8 @@ Cultivation may affect local nutrient dynamics, as the large biomass of Pyropia 
 
 ## See Also
 
-- [[pyropia-yezoensis]]
 - [[porphyra-umbilicalis]]
-- [[pyropia-tenera]]
 - [[ulva-lactuca]]
-- [[undaria-pinnatifida]]
 - [[gracilaria-verrucosa]]
-- [[kappaphycus-alvarezii]]
 - [[palmaria-palmata]]
 - [[laminaria-digitata]]

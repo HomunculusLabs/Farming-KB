@@ -141,10 +141,11 @@ organisms to propagate in just measure, becoming neither too numerous nor too
 scarce? Such natural, self-governed providence remains a mystery to Fukuoka. But
 there is one who disrupts this order: man. Man is the sole heretic in the natural
 order. Only he acts as he pleases, and his interventions create cascading damage.
+## See Also
+
+- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
+- [[fukuoka-textdoc-natural-soil-management]]
 
 ## See Also
 
-- [[fukuoka-textdoc-natural-order-microbial-ecology]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
-- [[fukuoka-textdoc-natural-soil-management]]
+- [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]]

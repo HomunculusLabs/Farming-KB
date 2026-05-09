@@ -21,37 +21,7 @@ type: concept
 
 The magic mushroom 'tipped' on both sides of the Atlantic in the 1970s,
 having arrived in the wake of LSD. The
-[[shroom-cultural-history-hippie-revolution-and-counterculture]] of the 1960s had, for the first time in Western history,
-made the effects of magic mushrooms desirable. The colours and
-hallucinations, the bodily perturbations, the sexual excitation, had
-become attractive rather than frightening. But how exactly did knowledge
-of mushrooms spread from the laboratory to the street?
-
-## The Role of Folk Knowledge
-
-The headlong expansion of 'psilocybian consciousness' in the States can
-be attributed to several factors. It was passed on as a form of 'folk
-knowledge' by intrepid experimenters who had returned from the Mexican
-mushroom pilgrimage and discovered hallucinogenic species at home. These
-pioneers shared information through informal networks, word of mouth,
-and the emerging underground press.
-
-## Hostile Press and Moral Panic
-
-Hostile press attention surrounding this newfound habit, which largely
-bemoaned the unwelcome influx of mushroom pickers onto farmers' land,
-succeeded in bringing it to even wider attention. As with many moral
-panics, the media coverage served as inadvertent advertising. The very
-act of condemning the practice spread awareness of it to people who
-might otherwise never have encountered it.
-
-## Academic Research as Information Channel
-
-Mainly, continued academic interest in the matter of mushrooms ensured
-that the latest information concerning taxonomy, identification,
-pharmacology and dosage filtered down into, and circulated freely within,
-popular culture. This reveals a crucial point: although clinical
-psychedelic research had become impossible after the [[leary-harvard-psilocybin-project]], other disciplines were able to carry on investigating these drugs quietly and away from view.
+[[leary-harvard-psilocybin-project]], other disciplines were able to carry on investigating these drugs quietly and away from view.
 
 ## Loopholes in the Research Ban
 
@@ -114,8 +84,6 @@ media coverage.
 
 ## See Also
 
-- [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 - [[leary-harvard-psilocybin-project]]
-- [[pf-tek-psilocybe-fanaticus]]
 - [[acid-house-rave-culture-and-second-mushroom-boom]]
 - [[mckenna-mushroom-cultivation-history]]

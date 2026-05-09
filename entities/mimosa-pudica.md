@@ -85,21 +85,7 @@ Key bioactive compounds identified in *Mimosa pudica*:
 - **Alkaloids:** Mimosine (major alkaloid; found in leaves, seeds, and roots at 0.5–1.5% dry weight), N,N-dimethyltryptamine (DMT) in trace amounts in root bark
 - **Flavonoids:** Quercetin, kaempferol, myricetin derivatives; apigenin, luteolin
 - **Tannins:** Condensed tannins (proanthocyanidins) at 5–10% in leaves
-- **Triterpenoids:** Friedelin, β-amyrin, ursolic acid
-- **Saponins:** Both leaves and roots contain bioactive saponins
-- **Glycosides:** Various phenolic and flavonoid glycosides
-
-## Traditional and Pharmacological Uses
-
-### Traditional Medicine
-- **Ayurveda (India):** Used as *Lajjalu* for wound healing, hemorrhoids, dysentery, and urinary disorders
-- **Traditional Chinese Medicine:** Applied for anxiety, insomnia, and digestive complaints
-- **West African medicine:** Leaves used for diarrhea, convulsions, and as an analgesic
-- **Latin American folk medicine:** Infusions for respiratory infections and as a sedative
-
-### Validated Pharmacological Activities
-- **Wound healing:** Accelerated wound contraction in animal studies; attributed to tannin and flavonoid content
-- **Antimicrobial:** Moderate activity against *Staphylococcus aureus*, *E. coli*, and *Candida albicans*
+- **Triterpenoids:** Friedelin, β-amyrin, [[candida-albicans]]*
 - **Anti-inflammatory:** Significant reduction in carrageenan-induced paw edema in rodent models
 - **Antidiarrheal:** Reduces intestinal motility and fluid secretion; traditional use well-supported
 - **Antivenom:** Inhibitory effects against snake venom (Naja spp.) phospholipase A₂ activity
@@ -112,9 +98,7 @@ Key bioactive compounds identified in *Mimosa pudica*:
 
 - **Nitrogen fixation:** Fixes atmospheric nitrogen via Bradyrhizobium root nodules; improves soil fertility
 - **Living mulch:** Dense, low-growing habit suppresses weeds effectively
-- **Cover crop:** Used as a green manure in tropical and subtropical systems
-- **Erosion control:** Spreading habit and root system stabilize soil on slopes
-- **Companion planting:** Pest-repellent properties; some studies show reduced nematode populations
+- **[[companion-planting]]:** Pest-repellent properties; some studies show reduced nematode populations
 - **Educational plant:** Touch response makes it ideal for botany education and engagement
 - **Bee forage:** Flowers attract pollinators when in bloom
 
@@ -138,7 +122,5 @@ Key bioactive compounds identified in *Mimosa pudica*:
 
 ## See Also
 
-- [[mimosa-tenuiflora]] — Related psychoactive Mimosa species used for DMT extraction
 - [[acacia-mearnsii]] — Another nitrogen-fixing permaculture species
-- [[tagetes-lucida]] — Companion planting herb with bioactive properties
-- [[mimosa-tenuiflora-entity]]
+- [[mimosa-tenuiflora]]

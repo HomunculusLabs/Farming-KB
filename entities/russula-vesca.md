@@ -135,13 +135,8 @@ magnitude.
 
 ## See Also
 
-- [[russula-ochroleuca]]
-
 - [[russula-xerampelina]]
-- [[russula-emetica]]
 - [[boletus-edulis-entity]]
-- [[cantharellus-cibarius-entity]]
 - [[lactarius-deliciosus]]
-- [[amanita-muscaria]]
 - [[agaricus-bisporus]]
 - [[tricholoma-matsutake]]

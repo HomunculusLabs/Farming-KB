@@ -62,34 +62,12 @@ The progression from 17th to 20th century cultivation followed a clear path:
 4. **Pure culture** (1930s): Sinden's development of grain spawn using pure cultures on sterilized grain
 5. **Modern era** (1970s-present): PF TEK, monotubs, agar isolation, flow hoods, and species diversification
 
-## Asian Cultivation Traditions
-
-While European mushroom cultivation began with Agaricus in the 17th
-century, Asian cultures developed distinct cultivation traditions
-independently. The shiitake (Lentinula edodes) was first cultivated in
-China approximately 1,000 years ago using a method called "nature
-cultivation" — inoculating logs with spore-rich material collected from
-wild specimens and placing them in shaded forest areas favorable for
-fruiting. This technique spread to Japan around 400 years ago and was
-refined into the traditional "tanabata" method, where shiitake growers
-managed specific forest stands of shii trees (Castanopsis cuspidata)
-for log production.
-
-The enokitake (Flammulina velutipes) and maitake (Grifola frondosa)
-were also cultivated historically in Japan using outdoor log methods.
-The development of pure culture techniques in the early 20th century
-revolutionized Asian mushroom cultivation, allowing for more reliable
-inoculation and higher yields. Sawdust-based cultivation, developed
-in Japan in the 1970s-80s, further increased production efficiency and
-is now the dominant method for shiitake, oyster, and enoki mushrooms
-worldwide. Today, China produces over 80% of the world's cultivated
-mushrooms, with shiitake alone accounting for approximately 25% of
-total global production.
 ## See Also
 
 - [[mushroom-cultivation-basics]] for modern techniques
 - [[mushroom-species-guide]] for species beyond Agaricus bisporus
 - [[paul-stamets]] for the modern revolution in mushroom cultivation
+
 
 See also: [[julius-palmer]] for details on julius palmer.
 
@@ -102,6 +80,3 @@ See also: [[benjamin-duggar]] for details on Benjamin Duggar's scientific contri
 
 - [[mushroom-cultivation-history]]
 
-## Cultivation Applications
-
-This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

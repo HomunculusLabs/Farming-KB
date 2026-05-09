@@ -133,8 +133,6 @@ adulterated with MDMA.
 
 ## See Also
 
-- [[pihkal-mdma]]
 - [[pihkal-mescaline]]
-- [[pihkal-2c-b]]
 - [[pihkal-dom]]
 - [[pihkal-cautionary-note-and-legal-context]]

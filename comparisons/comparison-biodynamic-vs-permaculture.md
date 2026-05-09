@@ -21,36 +21,6 @@ systems thinking. Comparing them reveals two distinct paths toward sustainable l
 stewardship, one through cosmic forces and the other through ecological design.
 
 ## Biodynamic Agriculture
-[[biodynamic-agriculture-and-steiner]]
-Biodynamic agriculture was founded by Rudolf Steiner in the 1920s through a series of
-lectures that introduced the concept of "etheric formative forces" as non-material
-energies shaping living organisms. Central to biodynamics is the idea that a farm is a
-living organism whose health depends on cosmic and terrestrial forces working in
-harmony. Steiner argued that analyzing the chemical components of soil reveals nothing
-of its true biological vitality, a perspective drawn from Goethe's holistic science.
-This philosophical stance sets biodynamics apart from all other agricultural systems
-in its insistence that non-material forces govern biological quality.
-
-The practice revolves around nine biodynamic compost preparations made from specific
-plant materials (yarrow, chamomile, stinging nettle, oak bark, dandelion, valerian)
-buried in natural containers like cow horns, deer bladders, and cow intestines at
-astronomically significant times. These preparations are applied in homeopathic
-dilutions to compost piles and fields. Dr. Ehrenfried Pfeiffer further developed the
-system with a compost starter culture of approximately 50 beneficial microorganisms
-sourced from outstanding soils worldwide, along with diagnostic methods including
-copper chloride crystallization and silver nitrate chromatography to assess soil and
-plant vitality through crystal pattern analysis.
-
-Biodynamic methods have documented impressive results, including doubled crop yields
-without chemical fertilizers and rapid compost transformation from raw manure to
-finished humus in approximately one month. Weed seeds and disease organisms are
-destroyed during the thermophilic composting process at 140 degrees Fahrenheit. However,
-the esoteric foundations, including references to planetary influences and homeopathic
-dilutions up to one billion-fold, place biodynamics firmly outside conventional
-scientific frameworks and make it inaccessible to many farmers who cannot accept the
-spiritual premises underlying the techniques.
-
-## Permaculture
 [[permaculture-design]]
 Permaculture was co-developed by Bill Mollison and David Holmgren in 1978 as a design
 system for creating sustainable human settlements. Rather than a set of farming
@@ -123,8 +93,6 @@ landscape.
 
 ## See Also
 
-- [[comparison-biodynamic-preparations-vs-biofertilizers]]
 - [[comparison-biodynamic-vs-biointensive]]
-- [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-biointensive-vs-permaculture]]
 - [[comparison-sepp-holzer-vs-biodynamic]]

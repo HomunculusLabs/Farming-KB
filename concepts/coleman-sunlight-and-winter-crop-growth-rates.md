@@ -115,6 +115,5 @@ minimal protection due to naturally longer winter days.
 ## See Also
 
 - [[coleman-double-cover-microclimate-protection]]
-- [[coleman-cold-hardy-varieties]]
 - [[coleman-cool-greenhouse]]
 - [[coleman-cold-hardiness-testing-ratings]]

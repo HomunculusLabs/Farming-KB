@@ -111,12 +111,7 @@ Zone 5 provides invaluable information for the permaculture designer:
 
 ## Related Topics
 
-- [[permaculture-zone-0-house-design]] — zone planning overview
 - [[permaculture-zones-and-sectors]] — managed grazing zones
-- [[woodlot-and-coppicing]] — managed forest production
 - [[zone-1-intensive-garden]] — intensive human management
-- [[permaculture-food-forest-design-principles]] — food forest design
-- biodiversity and ecosystem health — why biodiversity matters
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[gaias-garden-cover-crops-soil-building]]

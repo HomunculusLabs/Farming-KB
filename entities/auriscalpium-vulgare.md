@@ -120,11 +120,6 @@ it near the Polyporales and the Thelephorales.
 
 ## See Also
 
-- [[spore-print]]
-
 - [[foeniculum-vulgare-entity]]
-- [[origanum-vulgare-entity]]
-
-[[hydnellum-peckii]] · [[hericium-erinaceus]] · [[fistulina-hepatica]] ·
-[[sarcodon-imbricatus]] · [[hydnum-repandum]] · [[lentinula-edodes]] ·
-Pisolithus · [[thelephora-terrestris]] · [[tricholoma-matsutake]]
+- [[hydnellum-peckii]] · [[fistulina-hepatica]] ·
+[[hydnum-repandum]] · [[thelephora-terrestris]] · [[tricholoma-matsutake]]

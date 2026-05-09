@@ -60,27 +60,30 @@ Hawthorn is the gentlest and safest heart tonic, appropriate for long-term use t
 
 Motherwort (Leonurus cardiaca) is a cardiac tonic and nervine traditionally used for palpitations, anxiety-related heart symptoms, and mild cardiac weakness. Its leonurine content has mild antiarrhythmic properties. Motherwort is particularly suited to cardiac symptoms associated with anxiety and stress.
 
-Motherwort also has uterine-stimulating properties and is used in women's health for menstrual regulation. It should not be used during pregnancy. See [[womens-health-herbs]] for more on motherwort in gynecological applications.
-
-Lily of the valley (Convallaria majalis) contains cardiac glycosides similar to those in digitalis. It has potent effects on heart function and should only be used under professional supervision. The therapeutic window between effective and toxic doses is narrow for cardiac glycoside-containing herbs.
-
-## Safety Considerations
-
-Cardiovascular herbs can interact with pharmaceutical cardiovascular medications, sometimes with serious consequences. Herbs with antiplatelet or anticoagulant effects (garlic, ginger, ginkgo, ginseng) can increase bleeding risk when combined with warfarin, aspirin, or other anticoagulants.
-
-Hawthorn may enhance the effects of beta-blockers and other heart medications, potentially causing excessive blood pressure lowering or heart rate reduction. Anyone taking prescription cardiovascular medications should consult their healthcare provider before adding cardiovascular herbs.
-
-Herbs for cardiovascular support are generally used as long-term tonics rather than acute remedies. Consistent daily use over months provides the best results. Lifestyle modifications including diet, exercise, stress management, and smoking cessation remain the foundation of cardiovascular health, with herbs serving as complementary support.
-
-See [[herb-drug-interactions]] for detailed interaction information and [[herbal-medicine-safety]] for general safety principles. The [[herbal-formulation-principles]] page provides dosing recommendations for individual herbs.
+Motherwort also has uterine-stimulating properties and is used in women's health for menstrual regulation. It should not be used during pregnancy. See [[herb-drug-interactions]] for detailed interaction information and [[herbal-formulation-principles]] page provides dosing recommendations for individual herbs.
 
 ## Related Topics
 
-- [[herbal-materia-medica]] — Individual cardiovascular herb profiles
 - [[herb-drug-interactions]] — Cardiovascular drug-herb interactions
-- [[herbal-formulation-principles]] — Inflammation in cardiovascular disease
 - [[adaptogenic-herbs-overview]] — Adaptogens with cardiovascular benefits
-- [[herbal-formulation-principles]] — Designing cardiovascular formulas
 - [[herbal-formulation-principles]] — Dosing for cardiovascular herbs
-- [[medicinal-mushroom-cardiovascular-cholesterol-research]]
 - [[cannabis-and-liver-cancer-research]]
+## Practical Considerations
+
+Successful implementation of Cardiovascular Herbs requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

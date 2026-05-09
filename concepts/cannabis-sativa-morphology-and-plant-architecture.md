@@ -47,17 +47,7 @@ particularly relevant for outdoor growers in exposed locations.
 Sativa leaflets are characteristically narrow and long, often described
 as "finger-like." A typical sativa leaf may have 7-13 long, slender
 leaflets per fan leaf, compared to the broader, shorter leaflets of
-indica-dominant varieties. This reduced leaf surface area per unit
-volume is an adaptation to humid tropical conditions, allowing better
-air circulation around leaf surfaces and reducing the risk of fungal
-pathogens like powdery mildew and botrytis.
-
-The leaf color in sativa varieties ranges from light to medium green.
-Some Southeast Asian and African landraces express unique leaf
-coloration, including purple-tinged leaf stems and veins, particularly
-when exposed to cooler nighttime temperatures during late flowering.
-
-Leaf structure also correlates with cannabinoid and terpene profiles.
+indica-dominant varieties. This reduced [[sativa-terpene-profiles-and-aromatic-diversity]].
 Narrow-leaflet varieties (NLV) tend to produce higher ratios of THC to
 CBD and express tropical, fruity, or spicy terpene profiles. This
 morphological-chemical correlation has been noted by breeders and
@@ -65,34 +55,7 @@ researchers since the 1970s.
 
 ## Branching Pattern
 
-Sativa plants typically display an apical-dominant growth pattern with
-strong central cola development. The primary cola often accounts for a
-significant portion of total yield. Secondary branches develop at
-alternating nodes along the main stem, and these branches can become
-quite long, creating a Christmas-tree silhouette in untrained plants.
-
-The branching architecture of sativa is more expansive than indica.
-Where indica varieties tend to form a dense bush, sativas spread
-outward with longer, thinner branches. This open structure facilitates
-light penetration to lower canopy sites, which is advantageous in
-full-sun outdoor environments but can reduce indoor efficiency without
-training.
-
-Lower branches on tall sativa plants often lag behind the upper canopy
-in development. This apical dominance is pronounced, and growers
-frequently remove lower branches (lollipopping) to redirect energy
-toward top colas. The elongated lower branches, when left unmanaged,
-can produce smaller, less developed flower sites.
-
-## Root System
-
-Sativa varieties develop deep, extensive root systems that mirror their
-above-ground vigor. The taproot extends significantly deeper than in
-compact indica varieties, which is an adaptation to well-drained
-tropical soils. This deep rooting allows sativa plants to access
-moisture and nutrients from deeper soil horizons during dry periods.
-
-In container cultivation, the root system quickly fills available
+Sativa plants typically display an apical-dominant g [[green-cannabis-transplanting-root-bound-management]] fills available
 volume. Sativa-dominant plants often become root-bound faster than
 indica counterparts of the same age. Growers should use larger
 containers or employ air-pruning pots to encourage dense, fibrous root
@@ -140,11 +103,7 @@ Understanding these adaptations helps cultivators provide appropriate
 growing conditions. Attempting to grow a pure sativa in an
 indica-optimized environment (short vegetative cycles, compact spacing,
 high-density training) often leads to suboptimal results. Respect for
-the sativa morphology and its underlying biology is key to realizing
-the full potential of these remarkable plants.
-
 ## See Also
 
 - [[cannabis-sativa-vs-indica-guide]]
-- [[cannabis-landrace-sativa-heritage-varieties]]
 - [[cannabis-photoperiodism-and-light-cycles]]

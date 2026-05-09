@@ -122,9 +122,6 @@ conditions.
 
 ## See Also
 
-- [[staycare-soft-rot-fungi-in-pollutant-degradation]]
-
 - [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]]
-- [[staycare-trametes-versicolor-bioremediation-applications]]
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[staycare-fungal-degradation-of-synthetic-dyes]]

@@ -3,7 +3,7 @@ title: Fungi on Cultivated Mushrooms — Pathogens and Competitors
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: []
 ---
 
@@ -83,27 +83,15 @@ Unlike mostly cosmopolitan soil fungi, SCIF distributions are determined by thei
 
 ## See Also
 
-- [[fungicolous-fungi-parasites-associates]]
 - [[magic-mushroom-cultivation-history]]
-- [[soil-fungal-isolation-techniques]]
 - [[fungicolous-fungi-spores-sclerotia-oospores]]
-
-- [[fungi-in-the-environment-bioremediation-applications]]
 
 - [[fungi-in-the-environment-decomposition-wood-decay]]
 
-- [[fungi-in-the-environment-extremophilic-fungi]]
-
 - [[fungi-in-the-environment-fungal-biodiversity]]
-
-- [[fungi-in-the-environment-fungal-ecosystems]]
 
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
 
-- [[fungi-in-the-environment-lichen-biology]]
-
 - [[fungi-in-the-environment-plant-fungal-interactions]]
-
-- [[fungi-in-the-environment-soil-fungi-roles]]
 
 - [[fungi-in-the-environment-symbiotic-relationships]]

@@ -27,27 +27,6 @@ evidence of therapeutic potential.
 
 Cannabinoids have shown potent abilities to destroy and inhibit the growth
 of numerous microbes. Furthermore, the involvement of the
-[[blesching-endocannabinoid-system-overview]] in modulating inflammatory
-responses to both acute and chronic injuries suggests a prominent and
-beneficial role in wound care. Anecdotes of modern-day users have reported
-successful treatments of slow-healing skin wounds with cannabis-infused
-honey and cannabis-infused oils.
-
-## Cannabis-Infused Honey
-
-Modern medicine has rediscovered honey's ancient use in the care of
-infected wounds. Applied to slow-healing skin wounds such as ulcerations,
-burns, or infected wounds, honey provides numerous therapeutic benefits.
-Honey is antibacterial, anti-inflammatory, improves circulation, reduces
-swelling, stimulates formation of new capillaries and connective tissue,
-and reduces pain. The Cuban Ministry of Health widely recommends honey as a
-skin-protective agent, as an antimicrobial for skin infections prepared as
-a topical cream, alcohol tincture, and oral drops.
-
-While no current studies examine the combined and possibly synergistic
-properties of honey and cannabis in infused form, it is interesting to note
-that many of the therapeutic properties of honey also exist in cannabis,
-most notably anti-inflammatory and pain-reducing properties. See
 [[blesching-cannabis-dermatological-conditions]] for additional
 dermatological applications.
 
@@ -75,44 +54,8 @@ As with all natural, biologically active substances, effects are usually
 optimal within a specific therapeutic window, which may vary from person
 to person. Taking too much may aggravate symptoms; taking too little may
 have a sub-optimal effect. Start slowly and increase application until you
-reach your therapeutic window. See [[blesching-cannabis-dosing-strategies]]
-for guidance on titration.
-
-### Strain-Specific Considerations
-
-For wound care, topical applications are most relevant. Both THC and CBD
-have demonstrated anti-inflammatory and antimicrobial properties in
-laboratory settings. CBD's affinity for CB2 receptors, which are involved
-in immune modulation and inflammation, may be particularly beneficial for
-wound healing applications.
-
-- Indica strains with higher CBD content may be preferred for topical
-  anti-inflammatory effects
-- Whole-plant cannabis topicals (salves, oils, poultices) leverage the
-  entourage effect of multiple cannabinoids and terpenes
-- Raw cannabis juice provides non-psychoactive CBD acid (CBDA) with CB2
-  activation potential
-
-### Mind-Body Medicine and Wound Care
-
-Few people consciously choose to inflict injuries on themselves. However,
-within the paradigm that each person generates their experiences, examining
-the complex interplay of conscious, subconscious, and unconscious often
-reveals free will at work. A person may never consciously decree "I am
-going to hurt myself today," but can become aware of consciously held
-beliefs concerning punishment. With a belief in punishment, injuries will
-occur to meet a self-generated need. The use of guilt as motivation and its
-implicit demand for purification through punishment makes the choice for
-injury more visible. Examination of self-hatred, inappropriately expressed
-anger, harbored anger, and underlying belief structures may reveal
-surprising aspects of the possible "why" and "how" of traumatic events.
-
-### Related Topics
-
-- [[blesching-cannabis-dermatological-conditions]]
-- [[blesching-cannabis-post-surgery-wounds]]
+reach your therapeutic window. See [[blesching-cannabis-dermatological-conditions]]
 - [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-cannabis-dosing-strategies]]
 - [[blesching-cannabis-chemotherapy-nausea]]
 
@@ -130,3 +73,22 @@ surprising aspects of the possible "why" and "how" of traumatic events.
   systemic effects
 - Individual therapeutic windows vary; starting low and increasing slowly
   is the recommended approach
+## Practical Considerations
+
+Successful implementation of Cannabis and Wound Care requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

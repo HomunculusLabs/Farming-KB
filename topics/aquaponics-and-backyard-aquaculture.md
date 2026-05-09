@@ -427,7 +427,7 @@ disturbance.
 - [[aquaponics]] for core system types and cycling
 - [[aquaponics-fish-species]] for detailed species profiles
 - [[aquaponics-plant-selection]] for comprehensive crop guides
-- [[aquaculture-design-in-permaculture]] for permaculture integration
+- [[aquaculture-in-permaculture]] for permaculture integration
 - [[holzer-aquaculture-fish-farming]] for Sepp Holzer's self-sustaining ponds
 - [[faires-aquaculture-pond-systems]] for homestead pond construction
 - [[faires-pond-design-and-aquaculture]] for pond design and stocking

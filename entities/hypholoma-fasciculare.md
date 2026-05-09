@@ -117,13 +117,7 @@ This seasonal pattern of fruiting ensures spore release coincides with periods o
 H. fasciculare is widely distributed across temperate forests of the Northern Hemisphere.
 
 ## See Also
-Related: [[gaias-garden-woody-soil-building-dead-wood-swale]], [[mycelial-foraging-resource-allocation]], [[fungal-mycelial-foraging-resource-heterogeneity]]
-
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]
+Related: [[mycelial-foraging-resource-allocation]], [[hypholoma-pluteus-inocybe-conocybe-genera]]
 - [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
 
-- [[phanerochaete-velutina]]
-- resinicium bicolor
-- stropharia caerulea
 - [[fungal-serpula-lacrymans-dry-rot-buildings]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Neuronal Pharmacology and Synaptic Mechanisms
+title: Powell Psilocybin Neuronal Pharmacology Synaptic Mechanisms
 created: 2026-04-28
 tags: [psilocybin, neuroscience, neurons, synapse, neurotransmitter, brain, powell]
 date: 2026-04-25
@@ -128,13 +128,6 @@ changes in consciousness, we can come to a deeper understanding of the
 nature of mind. Just as brain damage research allows speculation about
 normal brain function, so too can the analysis of altered states of
 consciousness lead to insights about the nature of normal consciousness.
-The synapse is where psilocybin, caffeine, and all psychoactive
-substances exert their effects, making it the critical nexus between
-chemistry and conscious experience.
-
-## See Also
-
-- [[powell-psilocybin-brain-plasticity]]
-- [[powell-psilocybin-consciousness]]
+The synapse is where psilocybin, [[powell-psilocybin-brain-plasticity]]
 - [[powell-mutability-of-consciousness-chemical-lens]]
 - [[powell-psilocybin-set-and-setting]]

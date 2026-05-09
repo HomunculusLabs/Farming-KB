@@ -86,18 +86,10 @@ Fukuoka's assessment: "Man sowed the seed the first year, nature made some adjus
 
 ## Related Concepts
 
-- [[fukuoka-pine-blight-matsutake-research]] -- detailed California observations
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]] -- critique of oil-based farming
-- [[fukuoka-natural-diet-food-philosophy]] -- broader food philosophy
 - [[fukuoka-desert-cause-vegetation]] -- theoretical framework
-- [[macrobiotics]] -- the macrobiotic movement
-
 - [[fukuoka-road-back-clover-barley-rice-method]]
 
-- [[fukuoka-road-back-to-nature-overview]]
-
 - [[fukuoka-road-back-clover-barley-rice-method]]
-
-- [[fukuoka-road-back-orchard-restoration-pest-balance]]
 
 - [[fukuoka-road-back-clover-barley-rice-method]]

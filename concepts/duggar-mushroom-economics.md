@@ -97,9 +97,6 @@ Formerly, florists furnished a considerable and often dominant portion of the mu
 
 ## Related
 
-- [[duggar-mushroom-marketing-economics-1915]] Concepts
-
 - [[duggar-mushroom-history-and-overview]] - Development of the mushroom industry
-- [[duggar-mushroom-growing-room-design]] - Infrastructure costs and requirements
 - [[duggar-mushroom-harvest-and-post-harvest]] - Packaging and shipping for market
 - [[duggar-mushroom-spawn-preparation]] - Spawn as a cost factor

@@ -17,24 +17,7 @@ type: concept
 
 Tomatoes are one of the most popular garden vegetables and the gateway crop
 for many new gardeners. Steve Solomon considers them an excellent starting
-point because once mastered, related crops like [[solomon-growing-peppers-eggplant]]
-will seem easier. Tomatoes are aggressive growers in suitable weather,
-responding to fertilization by expanding to the limit of their moisture
-supply and rooting room.
-
-## Growth Requirements
-
-Tomatoes are not frost-hardy. Most varieties need 100 to 120 growing days
-from emergence to first ripe fruit. Where there are fewer than 150
-frost-free days, gardeners must get at least a 50-day head start by using
-transplants. Those in warm climates may direct-seed tomatoes, though most
-still use transplants to obtain extra production time.
-
-Solomon's advice for areas with more than 150 frost-free days: grow or buy
-only two or three early-maturing transplants of a bush determinate variety
-for early-season supply, then directly seed a few more open-pollinated
-plants. This simplifies the season and frees you from dependence on garden
-centers. See [[solomon-garden-centers-seedling-traps]]
+point because once mastered, related crops like [[solomon-garden-centers-seedling-traps]]
 for why buying seedlings is often a poor investment.
 
 ## Direct Seeding Technique
@@ -88,29 +71,11 @@ the soil is reasonably fertile, the vine usually will not become sick.
 Key issues include:
 
 - **Fruit worms**: The same larvae that eat corn. Can be controlled by
-  spraying Bt (see [[solomon-growing-corn-guide]]).
-- **Blossom-end rot**: Caused by insufficient calcium. If your subsoil
-  offers sufficient calcium, a few years of light applications of lime
-  will provide enough. See
-  [[solomon-lime-calcium-ph-management]].
+  spraying Bt (see [[solomon-lime-calcium-ph-management]].
 - **Hornworms**: Large caterpillars that eat foliage. Hand-picking is
   usually sufficient. Have faith: once the soil fertility improves,
   hornworm pressure fades away. See also
-  [[solomon-insects-diseases-pest-management]].
-
-## Variety Selection
-
-There are many OP and hybrid tomato varieties. Hybrids offer disease
-resistance and uniformity, which matters for commercial growers who run
-down soil organic matter and do not rotate enough. Some heirlooms have
-superior flavor but may not adapt well to cool or dry climates and rarely
-carry disease resistance.
-
-Solomon suggests experimenting with one new heirloom annually but mainly
-growing varieties proven to work locally. The best flavor is found in
-slicing (firm-fleshed) "beefsteak" varieties that require warm humid
-nights. In maritime climates, these classics often fail to ripen. See
-[[solomon-choosing-seeds-and-catalogs]].
+  [[solomon-choosing-seeds-and-catalogs]].
 
 Special variety types worth knowing:
 
@@ -125,16 +90,10 @@ Special variety types worth knowing:
 
 ## Fertilizer Needs
 
-Tomatoes are a high-demand crop. Use [[solomon-complete-organic-fertilizer-guide]]
-(COF) liberally. Side-dressing during the growing season with compost or
-additional COF can boost production. Adequate phosphorus and calcium are
-critical. The relationship between soil minerals and tomato health is
-explored in [[solomon-soil-mineral-depletion]].
+Tomatoes are a high-demand crop. Use [[solomon-soil-mineral-depletion]].
 
 ## Related Topics
 
-- [[solomon-growing-peppers-eggplant]]
 - [[solomon-vegetable-nutritional-decline-trace-minerals]]
-- [[solomon-root-systems-and-spacing-science]]
 - [[solomon-seed-saving-guide]]
 - [[solomon-food-preservation-storage]]

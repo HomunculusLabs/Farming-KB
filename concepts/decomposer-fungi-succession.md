@@ -22,15 +22,7 @@ Primary decomposers are typically the first fungi to grow on fresh organic mater
 - Typically fast-growing, sending out rapidly extending strands of mycelium
 - Quickly attach to and decompose plant tissue
 - Primary and secondary decomposers are the easiest to cultivate
-- Foundation of [[mushroom-cultivation-for-food-sovereignty]] mushroom growing
-
-Key primary decomposer species:
-
-- **Oyster mushrooms** (Pleurotus species): Aggressive colonizers of fresh wood, straw, and agricultural waste; among the fastest-growing cultivated mushrooms
-- **Shiitake** (Lentinula edodes): Primary decomposer of hardwood logs; one of the most commercially important species worldwide
-- **Maitake** (Grifola frondosa): Decomposes hardwood stumps and buried wood; prized culinary and medicinal species
-
-Species employ different sets of [[fungal-enzyme-systems-and-nutrient-cycling]] to break down plant matter. Different primary decomposers specialize in different substrates -- fresh lignin, cellulose, grasses, or softer materials. This enzymatic specialization allows diverse communities to coexist.
+- Foundation of [[fungal-enzyme-systems-and-nutrient-cycling]] to break down plant matter. Different primary decomposers specialize in different substrates -- fresh lignin, cellulose, grasses, or softer materials. This enzymatic specialization allows diverse communities to coexist.
 
 ## Secondary Decomposers
 
@@ -56,8 +48,7 @@ King Stropharia (Stropharia rugosoannulata) bridges primary and secondary roles:
 
 - First digests fresh debris, then continues as microbial communities develop
 - Creates soil as complex communities of microbes join with it
-- Dual capability makes it ideal for [[companion-planting-with-fungi]]
-- Excellent for mycofiltration-overview|mycofiltration and [[mycoforestry]] applications
+- Dual capability makes it ideal for [[mycoforestry]] applications
 - Deep burgundy when young, sometimes achieving majestic stature
 
 ## Tertiary Decomposers
@@ -84,43 +75,8 @@ Some mushrooms blur the line between categories through dual strategies:
 - Oyster mushrooms are classic saprophytes but found on dying cottonwood, oak, poplar, birch, maple, and alder
 - Reishi (Ganoderma lucidum) is considered saprophytic but classified as parasitic in some jurisdictions
 
-This crossover means some species function as both destructive agents and critical agents of [[dighton-fungal-ecosystem-services-framework]].
+This crossover means some species function as both destructive agents and critical agents of [[mycoforestry]], mycorestoration-ecology|restoration, and sustainable [[fungicolous-fungi-succession-sporocarps]]
 
-## The Succession Timeline
-
-The full succession from fresh material to mature soil follows a general pattern:
-
-1. **Initial colonization** (days to weeks): Primary decomposers attack fresh material with enzymes breaking down lignin and cellulose; mycelium rapidly extends through substrate
-2. **Microbial community development** (weeks to months): Bacteria, actinomycetes, and yeasts join; substrate heats as microbial activity intensifies
-3. **Secondary wave** (months to years): As temperatures moderate, secondary decomposers colonize partially broken-down material
-4. **Soil formation** (years): Tertiary decomposers complete transformation into humus-rich soil
-5. **Mycorrhizal establishment** (years to decades): Mycorrhizal fungi partner with plants in the new soil
-
-## Implications for Cultivation
-
-Understanding succession is essential for successful mushroom cultivation:
-
-- **Substrate preparation**: Create the right decomposition stage for your target species
-- **Species selection**: Primary decomposers for fresh substrates, secondary for composted
-- **Timing**: Know when in the succession your target species will fruit
-- **Competition management**: Recognize which competing species appear at each stage
-- **Stacking species**: Multiple successional stages can produce different mushrooms over time
-- The wisest method is the one that works; pay attention to what the mycelium tells you
-
-## Ecological Significance
-
-After catastrophes, saprophytes lead the way toward renewal:
-
-- Supporting construction of complex life-supporting soils
-- Creating a highly energized state of regrowth -- nature's vanguard for habitat renewal
-- Converting dead plant material into living soil for new generations
-- Essential for [[mycoforestry]], mycorestoration-ecology|restoration, and sustainable [[mushroom-cultivation-in-kenya]]
-
-## See Also
-
-- [[fungal-decomposition-of-wood]] -- wood decomposition processes and enzymes
 - [[fungal-ecology-decomposition-cycles]] -- broader decomposition ecology
-- [[the-soil-food-web]] -- decomposition dynamics on the forest floor
 - [[mycoforestry]] -- managing decomposition in forest ecosystems
-- [[mushroom-cultivation-basics]] -- practical cultivation applications
 - [[fungal-enzyme-systems-and-nutrient-cycling]] -- enzymatic basis of decomposition

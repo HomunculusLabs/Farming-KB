@@ -109,14 +109,9 @@ Ectomycorrhizal fungi are produced by collecting fruiting bodies (mushrooms, tru
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-spore-extraction-methods]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[arbuscular-mycorrhizal-networks]]
-- [[ectomycorrhizal-host-tree-partnerships]]
 - [[ectomycorrhizal-ecology]]
-- [[agricultural-chemicals-mycorrhizal-impact]]
 - [[compost-biology-soil-food-web-inoculation]]
 - [[fungal-roles-soil-food-webs]]

@@ -102,19 +102,12 @@ Modern pharmacological studies have confirmed antibacterial activity against ora
 
 ## See Also
 
-- [[satureja-hortensis]]
-- [[thymus-vulgaris]]
-- [[origanum-vulgare]]
+- [[thymus-vulgaris-entity]]
 - [[salvia-officinalis]]
-- [[rosmarinus-officinalis]]
 - [[lavandula-angustifolia]]
-- [[hyssopus-officinalis]]
 - [[marrubium-vulgare]]
-- [[ocimum-basilicum]]
 - [[agastache-foeniculum]]
-- [[salvia-sclarea]]
 - [[melissa-officinalis]]
-- [[ethnobotany]]
-- [[leonurus-cardiaca]]
+- ethnobotany
 - [[perilla-frutescens]]
 - [[glechoma-hederacea]]

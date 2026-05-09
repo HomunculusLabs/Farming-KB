@@ -118,11 +118,7 @@ In the 2,800-jar continuous rotation system:
 
 ## See Also
 
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
 - [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[mycelial-broth-alkaloid-production]]
-- [[psilocybin-large-scale-production]]
 - [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]

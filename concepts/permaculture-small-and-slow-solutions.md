@@ -1,5 +1,4 @@
 ---
-title: Permaculture Small And Slow Solutions
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -57,13 +56,13 @@ Small, local systems generally require less energy to build and maintain than la
 - Start with a small area and expand as you learn what works
 - Begin with [[permaculture-sheet-mulch-detailed-guide|sheet mulching]] one bed rather than tilling the entire yard
 - Plant a few trees first, observe their performance, then add more
-- Use [[permaculture-herb-spiral-details|herb spirals]] and [[permaculture-designers-manual-keyhole-garden|keyhole beds]] -- small features with big impact
-- [[zone-sector-analysis-guide|Zone planning]] itself is an expression of this principle: concentrate intensive design where it matters most
+- Use [[permaculture-herb-spiral-details|herb spirals]] and [[keyhole-garden-design|keyhole beds]] -- small features with big impact
+- [[permaculture-zone-and-sector-analysis|Zone planning]] itself is an expression of this principle: concentrate intensive design where it matters most
 
 ### Water Management
 
 - Start with [[rainwater-harvesting-systems|rain barrels]] before investing in large cisterns
-- Build small [[organic-vegetable-growing-and-market-gardening|swales]] and observe their effect before constructing large earthworks
+- Build small [[swale-construction-guide|swales]] and observe their effect before constructing large earthworks
 - Use [[rain-garden-design|rain gardens]] and [[permaculture-sheet-mulch-detailed-guide|sheet mulch]] to improve infiltration before excavating ponds
 - [[permaculture-water-harvesting|Water harvesting]] begins with the roof and works outward
 
@@ -100,14 +99,14 @@ Even in these cases, the principle suggests that the response should be the mini
 
 ## Connection to Other Principles
 
-- [[permaculture-design-principles|Observe and interact]]: Small solutions allow for more observation
+- [[permaculture-principle-observe-and-interact|Observe and interact]]: Small solutions allow for more observation
 - [[permaculture-principle-design-from-patterns-to-details|Design from patterns to details]]: Understanding patterns before committing to details
-- [[permaculture-design-principles|Use edges and value the marginal]]: Small changes at edges can have large effects
-- [[permaculture-design-principles|Integrate rather than segregate]]: Many small integrated elements are more effective than a few large isolated ones
+- [[permaculture-principle-use-edges-and-value-the-marginal|Use edges and value the marginal]]: Small changes at edges can have large effects
+- [[permaculture-principle-integrate-rather-than-segregate|Integrate rather than segregate]]: Many small integrated elements are more effective than a few large isolated ones
 
 ## Related Concepts
 
-- [[permaculture-design-principles]]
+- [[permaculture-principle-use-small-and-slow-solutions]]
 - [[permaculture-principles]]
 - [[permaculture-design-process]]
 - [[permaculture-garden-design-process]]

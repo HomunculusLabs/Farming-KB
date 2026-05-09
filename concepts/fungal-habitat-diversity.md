@@ -1,7 +1,7 @@
 ---
 title: Fungal Habitat Diversity
 created: 2026-04-28
-tags: [mycology, ecology, habitats, biodiversity]
+tags: [[mycology, ecology, habitats, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -102,29 +102,6 @@ roots, leaves, flowers, and seeds.
 The functional diversity of fungal communities varies dramatically
 across habitat types. Forest soils support the widest range of
 functional guilds, including wood decomposers, leaf litter
-saprotrophs, ectomycorrhizal and [[arbuscular-mycorrhizal-fungi]], and
-soil-borne pathogens. Grasslands are dominated by AMF and
-fast-growing saprotrophs adapted to frequent disturbance. Arctic and
-alpine habitats support communities rich in psychrotolerant
-saprotrophs and dark-septate endophytes. Aquatic habitats harbor
-specialized Chytridiomycota that parasitize algae and decompose
-particulate organic matter. Each habitat type contributes unique
-functional traits to the global fungal repertoire.
-
-## Conservation Implications
-
-Because many fungi are habitat specialists, habitat destruction directly
-threatens fungal diversity. Deforestation, wetland drainage, and soil
-degradation eliminate the specific conditions required by many fungal
-species. Conservation strategies that protect habitat heterogeneity —
-including dead wood, diverse plant communities, and undisturbed soil —
-are essential for preserving fungal biodiversity. Protected area networks
-should be designed with fungal diversity in mind, ensuring representation
-of the full range of habitat types and environmental gradients.
-
-## See Also
-
-- [[fungal-species-estimates]]
-- [[soil-mycobiome]]
+saprotrophs, ectomycorrhizal and [[fungal-species-estimates]]
 - [[endophytic-fungi]]
 - [[fungal-biogeography]]

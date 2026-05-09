@@ -120,13 +120,8 @@ with a distinctive dextrinoid reaction.
 
 ## See Also
 
-- [[xerula-furfuracea]]
-
 - [[agaricus-bisporus]]
-- [[armillaria-mellea]]
 - [[mycelium]]
-- [[spore-print]]
-- [[trametes-versicolor]]
-- [[coprinus-comatus-detailed]]
+- [[trametes-versicolor-entity]]
 - [[volvariella-volvacea]]
 - [[pleurotus-eryngii]]

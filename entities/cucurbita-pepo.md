@@ -115,7 +115,6 @@ The species is susceptible to squash vine borer (*Melittia cucurbitae*), powdery
 ## See Also
 
 - [[colocasia-esculenta]]
-- [[daucus-carota]]
 - [[cajanus-cajan]]
 - [[lemna-minor]]
 - cucurbitaceae

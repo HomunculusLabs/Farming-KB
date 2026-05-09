@@ -137,14 +137,11 @@ and Raman from India. The prevalence of endemism in Mexico, which
 leads the world with 44 taxa of neurotropic Psilocybe, reflects
 both genuine evolutionary diversification and the intensity of
 mycological exploration in that country.
-
 ## See also
 
-[[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 [[guzman-allen-gartz-global-psilocybe-biogeography]]
-[[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
 [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 
 ## See Also
 
-- [[neurotropic-fungi-distribution]]
+- [[guzman-nine-distribution-types-neurotropic-fungi-detailed]]

@@ -22,35 +22,6 @@ support immune function, their preparation methods, cultivation potential,
 and specific health applications differ significantly.
 
 ## Chaga
-[[chaga-mushroom-research]]
-Chaga forms a dark, cracked mass on the trunk of living birch trees,
-primarily in boreal and temperate forests of the Northern Hemisphere. It
-has been used in traditional medicine across Siberia, Scandinavia, and
-North America for centuries, typically prepared as a tea or decoction from
-the dried, powdered conk. Chaga is one of the most antioxidant-rich foods
-known, scoring exceptionally high on the ORAC scale due to its
-concentration of melanin, superoxide dismutase, and betulinic acid
-derived from its birch host tree.
-
-The primary health benefits of chaga center on its antioxidant and anti-
-inflammatory properties. Research has investigated chaga for potential
-anti-cancer activity, immune system support, blood sugar regulation, and
-liver protection. The betulinic acid content, unique to chaga growing on
-birch, has shown promising antitumor activity in laboratory studies.
-Traditional use focuses on general vitality, digestive health, and as an
-adaptogenic tonic consumed daily as a warm beverage similar to coffee or
-tea in its preparation and ritual.
-
-Chaga cannot be reliably cultivated and must be sustainably wild-harvested
-from birch forests, which raises ecological concerns as commercial demand
-has increased. Overharvesting can damage host trees, and the slow growth
-rate of chaga means that a productive conk takes five to twenty years to
-develop. Preparation requires long simmering or extraction to access the
-beneficial compounds locked in the tough fungal tissue. The earthy, vanilla-
-tinged flavor is mild and pleasant, making chaga one of the more
-enjoyable medicinal mushroom teas.
-
-## Turkey Tail
 [[turkey-tail-trametes-versicolor]]
 Turkey tail is one of the most common bracket fungi in the world, found on
 dead and dying hardwood across every continent except Antarctica. Its
@@ -123,9 +94,6 @@ that reduces pressure on wild chaga populations.
 
 ## See Also
 
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 - [[comparison-chaga-vs-reishi-medicinal]]
-- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-- [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[white-rot-fungi]]

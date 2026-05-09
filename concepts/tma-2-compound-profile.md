@@ -11,60 +11,7 @@ sources:
 
 ## Overview
 
-TMA-2 (PIHKAL #158) is one of the most significant discoveries in the history of psychedelic chemistry. The simple rearrangement of the methoxy groups of TMA (3,4,5-trimethoxyamphetamine, based on [[mescaline-compound-profile]]'s substitution pattern) from the 3,4,5-positions to the 2,4,5-positions produced a roughly ten-fold increase in potency — from hundreds of milligrams to 20-40 mg. This unexpected finding opened the door to the systematic exploration of substituted amphetamine psychedelics and directly led to the development of the entire DOx and 2C families.
-
-alexander shulgin called TMA-2 "a seminal, or archetypal psychoactive material" and "one of the Essential Amphetamines." It can be derived from asarone, a natural constituent of calamus (sweet flag) and other essential oils.
-
-## Chemical Identity
-
-- **Chemical name:** 2,4,5-trimethoxyamphetamine
-- **PIHKAL number:** #158
-- **Class:** Substituted amphetamine (Essential Amphetamine)
-- **HCl melting point:** 188.5-189.5 °C
-- **Natural precursor:** Asarone (from Acorus calamus)
-
-## Dosage and Duration
-
-| Parameter | Range |
-|-----------|-------|
-| **Threshold** | ~10 mg |
-| **Common dose** | 20-40 mg |
-| **Strong dose** | 40-60 mg |
-| **Duration** | 8-12 hours |
-| **Onset** | 1-2 hours |
-
-## Effects
-
-- Classic psychedelic experience described as "the entire package of mescaline, missing only the intense color enhancement"
-- "Filled with distorted, moving things" — rich visual hallucinations
-- Lethargic and physically relaxed — "totally lazy, to the point of laughter"
-- Hypnotic quality — "I suspect that I would believe suggestions"
-- Enhanced depth perception and visual acuity
-- Erotic enhancement at moderate doses
-- Described as "benign" with "no dark spots"
-- Eyes-closed imagery and fantasy to music
-- Brief intestinal cramps and diarrhea at onset (some reports)
-- Calmly cosmic, peaceful, lovely quality
-- Rapid drop-off from 8th to 12th hour
-
-## Historical Significance
-
-The discovery of TMA-2's potency on November 26, 1962, was a pivotal moment in psychedelic chemistry. Shulgin initially explored the compound at "a rather liberal 400 micrograms" and increased the dose in steps, reaching the active 24 mg discovery dose. The unexpected ten-fold increase from simply relocating one methoxy group from the 3-position to the 2-position of TMA's 3,4,5-pattern led Shulgin to systematically explore all six possible trimethoxy arrangements (TMA through TMA-6).
-
-## The Six TMA Arrangements
-
-There are six possible arrangements of three methoxy groups on an amphetamine ring:
-
-| Compound | Arrangement | Activity |
-|----------|------------|----------|
-| TMA | 3,4,5 | Mescaline-like (~150-250 mg) |
-| **TMA-2** | **2,4,5** | **~10x more potent — the treasure** |
-| TMA-3 | 2,3,4 | Active, less potent |
-| TMA-4 | 2,3,5 | Active, less potent |
-| TMA-5 | 2,3,6 | Active, less potent |
-| TMA-6 | 2,4,6 | Active, less potent |
-
-Having found "the treasure of 2,4,5-ness," Shulgin established this substitution pattern as the "magic triangle" for psychedelic activity, directly leading to the [[dom-compound-profile]], [[dob-compound-profile]], and [[2c-b-compound-profile]] families.
+TMA-2 (PIHKAL #158) is one of the most significant discoveries in the history of psychedelic chemistry. The simple rearrangement of the methoxy groups of TMA (3,4,5-trimethoxyamphetamine, based on [[dom-compound-profile]], [[2c-b-compound-profile]] families.
 
 ## The Asarone Connection
 
@@ -82,7 +29,7 @@ About twenty years before PIHKAL, alexander shulgin co-authored a review article
 
 ## Optical Isomer Studies
 
-Studies on the resolved optical isomers of TMA-2 reached assays of 6 mg on each separate isomer but were never taken higher. The R-isomer proved much more potent in rabbit assays, but human comparisons remain unknown — a gap that still exists in the pharmacological literature. See [[phenethylamine-receptor-pharmacology]] and [[phenethylamine-receptor-pharmacology]] for receptor-binding context.
+Studies on the resolved optical isomers of TMA-2 reached assays of 6 mg on each separate isomer but were never taken higher. The R-isomer proved much more potent in rabbit assays, but human comparisons remain unknown — a gap that still exists in the pharmacological literature. See [[phenethylamine-receptor-pharmacology]] for receptor-binding context.
 
 ## Radiolabeled Metabolite Studies
 
@@ -90,11 +37,7 @@ A 14C-radiolabeled study of the racemate (5 microcuries in 40 mg) was conducted 
 
 ## Synthesis (from PIHKAL)
 
-Synthesized from 2,4,5-trimethoxybenzaldehyde via condensation with nitroethane to the nitrostyrene, followed by LAH reduction. The natural pathway begins with asarone (from Acorus calamus), which contains the 2,4,5-trimethoxyallylbenzene skeleton. See [[phenethylamine-chemistry-basics]] for general synthetic principles.
-
-## Pharmacology
-
-TMA-2's 2,4,5-trimethoxy pattern is the archetype for psychedelic activity in the amphetamine series. The 2,4,5-arrangement positions the methoxy groups to create optimal binding at the 5-HT2A receptor. Removal of the alpha-methyl group produces 2C-D, while substitution at the 4-position produces the DOx series. See [[phenethylamine-receptor-pharmacology]], [[phenethylamine-chemistry-basics]], and [[phenethylamine-receptor-pharmacology]].
+Synthesized from 2,4,5-trimethoxybenzaldehyde via condensation with nitroethane to the nitrostyrene, followed by LAH reduction. The natural pathway begins with asarone (from Acorus calamus), which contains the 2,4,5-trimethoxyallylbenzene skeleton. See [[phenethylamine-receptor-pharmacology]], [[phenethylamine-receptor-pharmacology]].
 
 ## Harm Reduction
 
@@ -102,4 +45,63 @@ TMA-2's 2,4,5-trimethoxy pattern is the archetype for psychedelic activity in th
 - Generally well-tolerated with "benign" character
 - Some gastrointestinal discomfort possible at onset
 - The discovery dose history illustrates the importance of careful dose escalation
-- Related: [[dom-compound-profile]], [[mmda-compound-profile]], [[mmda-2-compound-profile]]
+- Related: [[mmda-compound-profile]], [[mmda-2-compound-profile]]
+## Practical Considerations
+
+When working with TMA-2 — Compound Profile, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

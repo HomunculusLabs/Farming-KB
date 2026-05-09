@@ -142,8 +142,6 @@ The most critical difference between smoked and edible cannabis:
   response
 - **Empty vs. full stomach**: Absorption varies with food intake
 
-- [[oner-cannabis-terpene-profiles-effects]]
 - [[cannabis-terpene-entourage-effect-profiles]]
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[oner-cannabis-water-extraction-ice-water-hash]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

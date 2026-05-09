@@ -30,9 +30,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Ethocybin** (4-phosphoryloxy-*N,N*-dimethyltryptamine; **4-PO-DMT**) is a synthetic psychedelic tryptamine and a close structural analogue of [[psilocybin-compound|psilocybin]]. Where psilocybin carries a phosphoryloxy group at the 4-position of the indole ring attached to dimethyltryptamine, ethocybin substitutes an ethylphosphoryloxy group.
-
-The compound was first synthesized and characterized by Alexander Shulgin, who documented it in [[lsd-entity-tihkal|TIHKAL]] (Tryptamines I Have Known and Loved). Ethocybin is a prodrug — the phosphate ester is cleaved in vivo by alkaline phosphatase enzymes to produce the active metabolite 4-HO-DMT ([[psilocin|psilocin]]), the same active metabolite produced by psilocybin.
+**Ethocybin** (4-phosphoryloxy-*N,N*-dimethyltryptamine; **4-PO-DMT**) is a synthetic psychedelic tryptamine and a close structural analogue of [[lsd-entity-tihkal|TIHKAL]] (Tryptamines I Have Known and Loved). Ethocybin is a prodrug — the phosphate ester is cleaved in vivo by alkaline phosphatase enzymes to produce the active metabolite 4-HO-DMT ([[psilocin|psilocin]]), the same active metabolite produced by psilocybin.
 
 ## Chemical Properties
 
@@ -72,52 +70,10 @@ Purification is typically achieved via column chromatography or recrystallizatio
 
 ## History
 
-Ethocybin was first synthesized by Alexander Shulgin and his research group in the late 1970s or early 1980s. It was included in [[lsd-entity-tihkal|TIHKAL]] (published 1997) with a detailed entry describing its synthesis, dosage, and effects.
-
-Shulgin reported a threshold dose of 10 mg and noted that the compound's effects were "qualitatively indistinguishable" from psilocybin at equivalent psilocin-yielding doses. He speculated that the ethyl substitution might slightly prolong the duration of action due to slower enzymatic cleavage.
-
-The compound has seen limited use outside of research contexts. It is occasionally encountered as a research chemical in the psychedelic community but remains far less common than psilocybin itself or 4-AcO-DMT as a psilocin prodrug.
-
-## Comparison with Related Compounds
-
-| Compound | Key Feature | Active Metabolite | Relative Potency |
-|---|---|---|---|
-| Psilocybin | 4-PO-DMT | Psilocin (4-HO-DMT) | Reference (1×) |
-| **Ethocybin** | **4-ethyl-PO-DMT** | **Psilocin (4-HO-DMT)** | **~0.7× by weight** |
-| 4-AcO-DMT | 4-acetoxy-DMT | Psilocin (4-HO-DMT) | ~0.8× by weight |
-| 4-HO-MET | 4-HO-*N*-ethyl-DMT | 4-HO-MET (active directly) | ~1.2× psilocybin |
-| Baeocystin | 4-PO-*N*-methyl-DMT | 4-HO-*N*-methyl-DMT | ~0.5× psilocybin |
-
-The key distinction of ethocybin among psilocin prodrugs is the ethylphosphoryloxy ester. All four compounds in the table ultimately produce closely related 4-substituted tryptamines, but differ in pharmacokinetic properties.
-
-## Harm Reduction
-
-As with all classical psychedelics, ethocybin carries risks that can be mitigated through responsible use practices. The primary risks are psychological — anxiety, paranoia, and challenging ("bad trip") experiences at high doses or in unprepared users.
-
-Users should test with a low threshold dose (5–10 mg) before proceeding to full doses. A sober trip sitter is recommended for doses above 15 mg. Ethocybin should not be combined with other serotonergic substances (SSRIs, MAOIs, tramadol) due to theoretical serotonin syndrome risk.
-
-There is no known lethal dose in humans. The compound is non-addictive and tolerance develops rapidly, requiring 5–7 days between uses for full effect return. Individuals with personal or family history of psychosis or schizophrenia should avoid all classical psychedelics.
-
-## Legal Status
-
-Ethocybin is unscheduled in most jurisdictions under its specific name but is controlled as an analogue of psilocybin in countries with blanket tryptamine analogue laws. In the United States, it may fall under the Federal Analogue Act as a Schedule I substance analogue.
-
-In the United Kingdom, ethocybin is controlled as a Class A drug under the Psychoactive Substances Act amendments. In the EU, most member states control it under their respective drug analogue provisions. The legal landscape varies significantly by jurisdiction.
-
-Internationally, the compound is not specifically listed in the UN Convention on Psychotropic Substances but may be covered by national analogue provisions. Researchers requiring ethocybin for legitimate laboratory investigation must obtain appropriate controlled substance licenses in their jurisdiction.
-
-## See Also
-
-- [[psilocybin-compound]]
-- [[psilocin]]
+Ethocybin was first synthesized by Alexander Shulgin and his research group in the late 1970s or early 1980s. It was included in [[psilocybin]]
 - [[4-aco-dmt]]
-- [[4-ho-met]]
-- [[5-meo-dmt]]
 - [[5-meo-dmt-entity]]
 - [[bufotenine]]
-- [[serotonin]]
 - [[tryptamine]]
-- [[dmt]]
 - [[5-ho-dmt]]
-- [[baeocystin]]
 - [[norbaeocystin]]

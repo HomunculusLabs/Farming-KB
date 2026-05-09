@@ -80,35 +80,7 @@ light exposure before returning to normal fruiting conditions.
 ## Species That Do Not Benefit
 
 Three specific species are identified in the source as not benefiting from cold shock
-treatment in the grass seed cultivation context. [[psilocybe-mexicana]],
-[[psilocybe-tampanensis-entity]], and [[panaeolus-subbalteatus]] show no improvement in
-fruiting performance when subjected to the cold shock procedure.
-
-For these species, the cold shock represents an unnecessary step that adds handling
-time and potential contamination exposure without any corresponding yield benefit.
-The reasons for this differential response likely relate to the natural fruiting
-triggers of each species in their native habitats.
-
-Psilocybe mexicana is native to subtropical and tropical regions of Mexico and Central
-America where seasonal temperature fluctuations are relatively mild compared to
-temperate zones. This species has evolved to respond to rainfall patterns and substrate
-moisture levels as its primary fruiting cues rather than temperature drops.
-
-Psilocybe tampanensis, originally collected near Tampa, Florida, inhabits subtropical
-grassland environments where temperature cues are similarly less significant than
-moisture cues for initiating fruiting. The species is also noted for its ability to
-produce sclerotia, an alternative survival and reproduction strategy that further
-reduces its dependence on temperature-triggered fruiting.
-
-Panaeolus subbalteatus is a widely distributed species commonly found in temperate
-grasslands and manure-enriched soils. Despite its temperate distribution, it appears
-to initiate fruiting primarily through moisture and substrate availability cues rather
-than temperature drops. The species fruits prolifically after rain events regardless
-of the ambient temperature.
-
-## The Ecuador Cubensis Exception
-
-The source specifically notes that the Ecuador strain of [[psilocybe-cubensis]] is an
+treatment in the grass seed cultivation context. [[psilocybe-tampanensis-entity]], and [[psilocybe-cubensis]] is an
 easy fruiting strain for which cold shock is not necessary. This strain reliably
 initiates pinning when simply moved from the casing incubation environment to the
 fruiting chamber with its standard temperature, humidity, and light conditions.
@@ -143,7 +115,5 @@ Some strains fruit earlier and more readily than others, and these easier strain
 begin showing primordia even before the cold shock is applied. The duration of one
 ## See Also
 
-- [[cold-shocking-mushrooms]]
 - [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]
-- [[pinhead-initiation-fruiting-triggers]]
 - [[psilocybe-cubensis-cultivation]]

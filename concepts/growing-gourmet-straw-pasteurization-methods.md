@@ -35,12 +35,7 @@ mushroom mycelium.
 
 Growing on straw is far less expensive than growing on sawdust.
 Many cottage growers enter the gourmet mushroom industry by first
-cultivating [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] on straw. Straw supports all the gourmet Oyster
-mushrooms, including Pleurotus citrinopileatus, P. cystidiosus,
-P. djamor, P. eryngii, P. euosmus, P. ostreatus, and P. pulmonarius.
-Other mushrooms like [[growing-gourmet-king-stropharia-cultivation]], [[growing-gourmet-shaggy-mane-coprinus-cultivation]],
-growing gourmet paddy straw mushroom volvariella, and
-[[growing-gourmet-button-mushroom-agaricus-cultivation]] also thrive on straw-based substrates.
+cultivating [[growing-gourmet-king-stropharia-cultivation]], [[growing-gourmet-button-mushroom-agaricus-cultivation]] also thrive on straw-based substrates.
 
 ## The Hot Water Bath Method
 
@@ -137,13 +132,7 @@ attempting alternative methods commercially.
 
 ## Related Topics
 
-- [[growing-gourmet-hot-water-pasteurization-straw]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
 - [[growing-gourmet-gypsum-lime-ph-management]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-
-## See Also
-
 - [[growing-gourmet-species-sequencing-substrate-recycling]]
 - growing gourmet pink oyster djamor cultivation

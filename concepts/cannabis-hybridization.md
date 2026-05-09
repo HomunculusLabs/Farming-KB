@@ -125,11 +125,7 @@ is lost and unavailable to future generations.
 
 ## See Also
 
-- [[oner-cannabis-breeding-fundamentals]]
-- cannabis-backcrossing|Backcrossing
 - [[cannabis-genetic-stability]]
-- [[cannabis-true-breeding-ibl-strains]]
 - [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-strain-selection-guide]]
 - [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-seed-banks-and-genetics]]

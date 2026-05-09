@@ -128,8 +128,6 @@ livestock feed, mulch, or vermicomposting feedstock.
 
 ## See Also
 
-- [[cotter-seven-stages-of-mushroom-cultivation]]
 - [[cotter-mushroom-rescue-modules-disaster-relief]]
-- [[cotter-pasteurization-sterilization-methods]]
 - [[cotter-spawn-production]]
 - [[cotter-urban-mushroom-cultivation]]

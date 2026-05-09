@@ -3,7 +3,7 @@ title: Mycorrhizal Fertilizer Reduction
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: [papers/teaming-with-fungi-lowenfels.md]
 ---
 
@@ -13,54 +13,7 @@ Updated: 2026-04-18
 
 One of the most compelling practical benefits of mycorrhizal fungi for agriculture and horticulture is their potential to reduce or eliminate the need for synthetic fertilizers, particularly phosphorus. As fertilizer costs rise and phosphorus supplies become constrained, mycorrhizal partnerships offer a sustainable alternative that can maintain or increase crop yields while reducing pollution from nutrient runoff.
 
-Source: [[teaming-with-microbes-fungi]]
-
-***
-
-## The Phosphorus Problem
-
-### Supply Constraints
-
-Fertilizer costs, especially phosphorus, are rising because of supply constraints. Phosphorus is a finite resource, and high-quality phosphate rock deposits are being depleted globally. This creates both economic and food security concerns.
-
-### Current Practice: Over-Application
-
-To compensate for the unavailability of phosphorus in many soils, farmers saturate fields with synthetic chemical phosphate fertilizers. The logic is that once all soil exchange sites are full of phosphorus ions, excess nutrients will be more readily available to plants. However, this practice creates serious problems:
-
-- Excess phosphorus inhibits mycorrhizal spore germination and fungal growth
-- It can take **decades** for phosphorus levels to reduce to the point where mycorrhizae can thrive again
-- Runoff of excess phosphorus causes eutrophication of waterways
-- The practice is economically wasteful
-
-### Organic Over-Fertilization
-
-Excess phosphorus is also problematic for organic farmers who amend soils with animal manures containing high levels of phosphate salts (often exceeding 1,000 parts per million). Soil amended with manure may still have excess phosphorus 100 years after application.
-
-***
-
-## How Mycorrhizae Reduce Fertilizer Needs
-
-### Phosphorus Uptake Efficiency
-
-Mycorrhizal fungi access phosphorus that is chemically and physically unavailable to plant roots:
-- Hyphae extend into soil micro-pores that roots cannot reach
-- Fungi secrete acids and enzymes that dissolve phosphorus compounds in soil
-- The extended hyphal network dramatically increases the effective absorptive surface area
-- Phosphorus is transported back to the plant through the fungal hyphae
-
-### Nitrogen Uptake
-
-Mycorrhizal fungi also enhance nitrogen uptake:
-- They access nitrogen sources unavailable to roots
-- Mycorrhizal hyphae bring more nitrogen to roots during drought conditions
-- During drought, this additional nitrogen helps maintain plant vigor
-
-### Quantified Benefits
-
-Research documented in Lowenfels shows:
-- Arbuscular mycorrhizal plants often grow **two to three times larger** if less fertilizer is used
-- Plants increase their phosphorus and nitrogen uptake when mycorrhizal fungi are maintained
-- Crop-specific results vary (see [[mycorrhizal-inoculation-methods-agriculture]])
+Source: [[mycorrhizal-inoculation-methods-agriculture]])
 
 ***
 
@@ -126,11 +79,8 @@ Inoculating seed and/or soil with mycorrhizal fungi can be a cost-effective way 
 
 ## Related Topics
 
-- [[mycorrhizal-fungi-basics-lowenfels]] — Fundamentals of mycorrhizal biology
 - [[mycorrhizal-inoculation-methods-agriculture]]
 - Crop rotation and mycorrhizal management
-- [[agricultural-chemicals-mycorrhizal-impact]]
 - [[weed-management-strategies]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
 - [[glomalin-and-soil-carbon]]
 - [[teaming-with-microbes-plant-control]]

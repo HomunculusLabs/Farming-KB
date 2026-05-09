@@ -134,12 +134,8 @@ ecosystem processes across environmental gradients.
 
 ## Related Topics
 
-- [[fungal-diversity-extreme-environments]] — comprehensive treatment
-  of all stress-tolerant fungal groups
 - [[biodiversity-fungi-soil-ecosystems]] — soil fungal communities
   including xeric habitats
-- [[biodiversity-fungal-culture-media]] — media formulations including
-  DG18 and selective media
 - [[biodiversity-fungi-soil-fungal-communities]] — soil fungal
   community structure and dynamics
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]] — role of

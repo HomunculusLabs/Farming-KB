@@ -21,33 +21,6 @@ without electricity, making them invaluable for self-sufficient food systems.
 
 ## Root Cellaring
 
-[[solomon-root-cellaring-food-preservation]]
-
-Root cellaring stores whole fruits, vegetables, and seed stock in a naturally
-cool, humid environment, typically between 32 and 40 degrees Fahrenheit with
-85 to 95 percent relative humidity. The earth itself provides insulation,
-keeping temperatures stable without any energy input. Steve Solomon considers
-root cellaring the cornerstone of a serious self-sufficient food preservation
-strategy, bridging the gap between growing seasons in climates where winter
-prevents fresh harvesting.
-
-The method is best suited to root vegetables like potatoes, carrots, parsnips,
-beets, turnips, and rutabagas, as well as cabbage and kohlrabi. Crops like
-squash and pumpkins need slightly warmer, drier conditions. Solomon stores root
-crops in damp sand or sawdust to maintain humidity and prevent shriveling.
-Harvest timing matters: light frosts improve flavor by converting starches to
-sugars, but hard freezes cause damage. Potatoes require curing for one to two
-weeks before cold storage, and darkness is essential to prevent solanine
-production from greening.
-
-Beyond vegetable storage, root cellars serve as vernalization chambers for
-biennial seed stock. Solomon overwinters kale and cabbage plants in damp soil
-beds inside his cellar, satisfying their cold requirement so they flower and
-set seed when transplanted back outside in spring. This dual purpose makes the
-root cellar a multi-functional piece of homesteading infrastructure.
-
-## Dehydration
-
 [[solar-food-dehydrator-diy]]
 
 Dehydration preserves food by removing the moisture that bacteria, yeast, and
@@ -141,10 +114,7 @@ complement each other perfectly. Root cellaring uses the cold season to its
 advantage, while dehydration capitalizes on peak summer solar energy. Solomon
 himself recommends drying as a supplement to root cellaring, particularly for
 beans, peas, and herbs that do not require cold, humid storage.
-
 ## See Also
-- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
-- [[solomon-food-preservation-storage]]
 - [[natfarm-food-drying-dehydration]]
 - [[root-cellar-design-and-construction]]

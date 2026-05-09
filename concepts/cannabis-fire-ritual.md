@@ -130,6 +130,9 @@ area away from structures is essential.
 
 ## See Also
 
-- [[cannabis-spiritual-use]] for the [[holmgren-ethical-philosophical-framework]]
-- [[blessing-ground-ritual]] for the complementary earth-blessing ritual
+- [[holmgren-ethical-philosophical-framework]]
 - [[cannabis-healing-ritual]] for another directional ceremony
+
+## See Also
+
+- [[marijuana-magick-ancient-ritual-use-cannabis]]

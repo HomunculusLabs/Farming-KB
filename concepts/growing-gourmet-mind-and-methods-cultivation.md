@@ -1,27 +1,7 @@
 ---
 title: Mind and Methods for Mushroom Cultivation Overview
 created: 2026-04-26
-tags: [mycology, cultivation-methods, sterile-technique, overview]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
-
-# Mind and Methods for Mushroom Cultivation
-
-Sterile tissue culture has revolutionized the biological sciences. For
-the first time in the history of human evolution, select organisms can be
-isolated from nature, propagated under sterile conditions in the
-laboratory, and released back into the environment. Since a
-competitor-free environment does not exist naturally on this planet, an
-artificial setting is created -- the laboratory -- in which select
-organisms can be grown in mass.
-
-## Historical Foundation
-
-Louis Pasteur (1822-1895) pioneered [[mushroom-cultivation-fundamentals]] by recognizing
+tags: [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] by recognizing
 that microorganisms are killed by heat, most effectively by steam or
 boiling water. Tissue culture of one organism in absence of competitors
 became possible for the first time. By the early 1900s, growing
@@ -77,24 +57,14 @@ neighboring media and cultures are not likewise infected.
 
 For indoor, high-intensity cultivation on straw (or similar material),
 three basic steps are required. Four steps are needed for cultivation on
-[[supplemented-sawdust-block-cultivation]]. Within each step, several generations of transfers
-occur, with each resulting in five-to-hundred-fold increases in mycelial
-mass.
-
-### Step I: Culturing Mycelium on Nutrified Agar Media
-
-Mushroom mycelium is first grown on sterilized, [[growing-gourmet-nutrified-agar-media]] in petri dishes and/or in test tubes. Once pure and grown out, cultures are transferred using the standard cut-wedge technique.
+[[growing-gourmet-nutrified-agar-media]] in petri dishes and/or in test tubes. Once pure and grown out, cultures are transferred using the standard cut-wedge technique.
 
 ### Step II: Producing Grain Spawn
 
 Cultures from petri dishes are expanded by inoculating sterilized grain
 housed in bottles, jars, or bags. Once grown out, each jar can inoculate
 10 (range: 5-20) times its original mass for a total of three
-generations of expansions. [[growing-gourmet-grain-spawn-generation]] is inoculated into sawdust, straw, etc. at a rate between 3-15% (wet mass of spawn to dry mass of substrate).
-
-### Step III: Producing Sawdust Spawn
-
-[[growing-gourmet-sawdust-spawn-production-use]] creation is inoculated
+generations of expansions. [[growing-gourmet-sawdust-spawn-production-use]] creation is inoculated
 with grain spawn. Sawdust spawn is best used to inoculate a "fruiting
 substrate," typically logs or supplemented sawdust formulas. One 5 lb.
 bag of sawdust spawn can effectively inoculate 5-20 times its mass, with
@@ -135,14 +105,10 @@ room takes about 15 minutes.
 When mushroom mycelium encounters unfamiliar components, a delay in
 growth called the "lag period" occurs. This can be significantly reduced
 by adding 3-5 grams of the end-substrate (in most cases hardwood sawdust)
-to the [[growing-gourmet-nutrified-agar-media]] formula. This
-simple step can greatly accelerate the [[growing-gourmet-mushroom-life-cycle]], decreasing
+to the [[growing-gourmet-mushroom-life-cycle]], decreasing
 the duration of colonization prior to fruiting.
 
 ## Related Topics
 
-- [[growing-gourmet-six-vectors-of-contamination]]
 - [[growing-gourmet-nutrified-agar-media]]
-- [[growing-gourmet-grain-spawn-generation]]
-- growing gourmet sawdust spawn creation
 - [[growing-gourmet-home-spawn-vs-commercial-spawn]]

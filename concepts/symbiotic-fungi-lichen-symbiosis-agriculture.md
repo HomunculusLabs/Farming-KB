@@ -7,33 +7,7 @@ tags: [mycorrhizal, fungi, symbiosis, biology]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# [[lichen-symbiosis]] and Its Relevance to Agriculture and Land Management
-
-Updated: 2026-04-18
-
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapter 1: Symbiosis - The Art of Living
-
-## What Are Lichens?
-
-Lichens are self-supporting associations between a fungus (mycobiont) and a photosynthetic partner (photobiont). Approximately 20% of all known fungal species are lichenized. Lichens are remarkable in that the fungal partner in the symbiosis often differs so much from its free-living form that it would be unrecognizable as the same species.
-
-A lichen is a morphologically, physiologically, and biochemically integrated entity, and the dual organism does not correspond to the sum of its parts. It is not a question of which partner is more important, because each partner has a role to play.
-
-See also: [[lichen-symbiosis-mechanisms-photobiont-selection]], [[fungal-lichen-stress-tolerance-and-poikilohydry]]
-
-## Types of Lichen Associations
-
-### Two-Member Associations
-
-Most lichens involve a fungus (usually an Ascomycete) and a green alga (e.g., Trebouxia, Trentepohlia). The alga provides photosynthetically fixed carbon, while the fungus provides structure, water retention, and mineral acquisition.
-
-### Three-Member Associations
-
-Some lichens involve a fungus, a green alga, and a cyanobacterium (blue-green alga). The cyanobacterium provides nitrogen fixation capability, making these lichens significant nitrogen inputs in nutrient-poor ecosystems. In such associations, the blue-green alga is relieved of photosynthesis and produces more heterocysts for exclusive nitrogen fixation.
-
-### Lichenicolous Lichens
-
-Some lichens are parasites of other lichens ([[lichenicolous-fungi]]), adding further complexity to lichen community dynamics.
+# [[lichen-symbiosis-mechanisms-photobiont-selection]], [[lichenicolous-fungi]]), adding further complexity to lichen community dynamics.
 
 ## Lichens as Soil Formers and Stabilizers
 
@@ -97,7 +71,7 @@ Lichen bioindicators provide information relevant to agriculture:
 - **Nitrogen deposition**: Changes in lichen communities indicate excess nitrogen that may cause water pollution and ecosystem changes
 - **Monitoring effectiveness**: Lichen surveys can track the effectiveness of pollution control measures
 
-See also: [[fungal-ecosystem-indicator-species]], [[fungal-indicators-soil-quality-ecosystem-health]]
+See also: [[fungal-indicators-soil-quality-ecosystem-health]]
 
 ## Lichen Metabolites and Agriculture
 

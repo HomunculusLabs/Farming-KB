@@ -115,9 +115,7 @@ For ecological writing, however, the genus is also a model for fungal antagonism
 
 ## Related entities
 
-[[trichoderma-harzianum]] is a major biocontrol species and frequent contaminant reference point.
 [[trichoderma-reesei]] is notable for cellulase enzyme production.
-[[trichoderma-viride]] is an older name complex often encountered in cultivation literature.
 [[trichoderma-virens]] is associated with mycoparasitism and biological control.
 [[pleurotus-species-and-varieties]] pages mention Trichoderma because oyster blocks are vulnerable to green mold.
 

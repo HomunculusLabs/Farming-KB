@@ -129,13 +129,8 @@ scaly cap, causes brown rot rather than white rot.
 
 ## See Also
 
-- [[pleurotus-ostreatus]]
 - [[lentinula-edodes]]
-- [[panus-tigrinus]]
-- [[trametes-versicolor]]
-- [[laetiporus-sulphureus-permaculture]]
+- [[trametes-versicolor-entity]]
 - [[agaricus-bisporus]]
-- [[grifola-frondosa]]
 - [[schizophyllum-commune]]
-- [[coprinus-comatus-detailed]]
 - [[hericium-erinaceus]]

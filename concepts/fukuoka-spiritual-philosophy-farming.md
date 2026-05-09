@@ -87,7 +87,6 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
-- [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
 - fukuoka spiritual philosophy farming
 
@@ -103,31 +102,13 @@ Fukuoka described his moment of awakening, at age twenty-five, as a spiritual ex
 
 This was not a religious experience in any conventional sense. Fukuoka was not affiliated with any particular religion. But his awakening had the characteristics of what in Zen Buddhism is called satori -- a direct, intuitive grasp of reality that transcends intellectual understanding.
 
-The awakening was rooted in a "deeply earnest struggle over the meaning of life" and emerged from "the depths of doubt and skepticism." It was not wishful thinking but a raw, personal confirmation of reality. From this experience, Fukuoka derived the conviction that nature is complete and that crops are more than capable of growing by themselves. See also [[fukuoka-one-straw-revolution-philosophy]].
-
-## Beyond Dualistic Thinking
-
-The spiritual dimension of natural farming lies in its rejection of dualistic thinking. Western science is built on the separation of subject and object, mind and matter, human and nature. Natural farming, rooted in Eastern philosophy, seeks to dissolve these separations.
-
-When the farmer identifies himself with the rice plant -- when he becomes one with the object of his attention -- the boundary between self and other dissolves. This is not a metaphor but an actual state of consciousness that Fukuoka experienced and that he believed was accessible to anyone who devoted themselves to careful observation of nature.
-
-Fukuoka insisted that to truly know nature, one must abandon the self-other dichotomy entirely. "To know the real Fuji, one must look at the self in relation to Fuji rather than at the mountain itself. One must look at oneself and Fuji prior to the self-other dichotomy. When one's eyes are opened by forgetting the self and becoming one with Fuji, then one will know the true form of the mountain." This principle, central to [[fukuoka-what-is-nature]], applies equally to farming: the farmer must become one with the rice plant, the soil, the entire living ecosystem.
+The awakening was rooted in a "deeply earnest struggle over the meaning of life" and emerged from "the depths of doubt and skepticism." It was not wishful thinking but a raw, personal confirmation of reality. From this experience, Fukuoka derived the conviction that nature is complete and that crops are more than capable of growing by themselves. See also [[fukuoka-what-is-nature]], applies equally to farming: the farmer must become one with the rice plant, the soil, the entire living ecosystem.
 
 ## Seeing Nature as Wholistic
 
 Fukuoka drew a sharp distinction between the analytical knowledge of science and the intuitive grasp of wholeness. "Examining the parts never gives a complete picture," he warned. A scientist who climbs Mount Fuji and studies its rocks, wildlife, geology, and meteorology may conclude he understands the mountain -- but "if a lifetime of study leads to the conclusion that Fuji consists mostly of rocks and trees, then it would have been better not to have climbed it in the first place."
 
-"One can know Fuji by looking at it from afar. One must see it and yet not examine it, and in not examining it, know it." This paradox captures the essence of [[fukuoka-mu-nothingness-philosophy]]: true understanding comes not from analysis but from direct, non-discriminating awareness.
-
-"Without the whole, the parts are lost, and without the parts, there is no whole." But the moment we distinguish between the parts and the whole, we fall into confusion. The "all" of mathematical form is not the same as the "whole" of living truth. "Farming by the hand of nature is a world alive, not a world of form."
-
-## The Illusion of Human Knowledge
-
-Fukuoka's spiritual critique extended to the very foundations of human knowledge. He argued that all knowledge is relative and contextual, and that the belief that human knowledge can understand or improve upon nature is itself a form of delusion.
-
-"All is arbitrary delusion created by the false reasoning of man in a world of relativity," he wrote. "Man has learned and achieved nothing. He is destroying nature under the illusion that he controls it." This is not anti-intellectualism but a recognition that the intellect, while useful within its domain, cannot grasp the wholeness of nature.
-
-If human knowledge is "unenlightened and imperfect," then the nature perceived and built up by this knowledge must also be imperfect. And paradoxically, "the very incompleteness of the nature conceived and born of human knowledge -- a nature that is but a pale shadow of true nature -- is proof that the nature from which science derived its image of nature is whole and complete." This insight is central to [[fukuoka-nature-perfect-imperfect]].
+"One can know Fuji by looking at it from afar. One must see it and yet not examine it, and in not examining it, know it." This paradox captures the essence of [[fukuoka-nature-perfect-imperfect]].
 
 ## Nature's Perfection and Human Error
 

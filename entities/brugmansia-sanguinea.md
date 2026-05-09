@@ -104,19 +104,11 @@ The deliriant effects mean that users may engage in dangerous behavior while com
 
 ## See Also
 
-- [[echinopsis-pachanoi]]
-
 - [[brugmansia-aurea]] — the most widespread Andean Brugmansia species
-
-- [[datura-innoxia]] — a related solanaceous hallucinogen used in Mexico
 
 - [[datura-stramonium]] — Jimsonweed, widely used solanaceous deliriant
 
-- [[datura-metel]] — another Datura species with traditional use
-
 - [[trichocereus-pachanoi]] — San Pedro cactus, commonly prepared with Brugmansia
-
-- [[desfontainia-spinosa]] — Taique, another Andean hallucinogenic shrub
 
 - [[latua-pubiflora]] — Latue, a Chilean solanaceous hallucinogen
 

@@ -101,22 +101,13 @@ The growing interest in natural products for cognitive enhancement has positione
 
 ## See Also
 
-- [[muira-puama]]
 - [[paullinia-cupana]]
-- [[damiana]]
 - [[turnera-diffusa]]
-- [[bacopa-monnieri]]
 - [[uncaria-tomentosa]]
-- [[tabebuia-avellanedae]]
 - [[anadenanthera-peregrina]]
-- [[ephedrine]]
 - [[hordenine]]
-- [[rhodiola-rosea]]
 - [[withania-somnifera]]
-- [[schisandra-chinensis]]
 - [[hypericum-perforatum]]
-- [[passiflora-incarnata]]
 - [[pausinystalia-yohimbe]]
-- [[erythroxylum-coca]]
 - [[ipomoea-tricolor]]
 - [[ergine-entity]]

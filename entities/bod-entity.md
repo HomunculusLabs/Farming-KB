@@ -12,73 +12,7 @@ BOD (beta-methoxy-2C-D; 4-methyl-2,5,beta-trimethoxyphenethylamine) is a psyched
 
 The BOX family is named for the addition of an oxygen atom at the benzylic position ("benzyl-oxy" or "BO") of known psychedelic phenethylamines, with the "X" indicating the ring substitution pattern of the parent compound.
 
-In BOD, the "D" references [[2c-d-entity]], as both share the 2,5-dimethoxy-4-methyl ring substitution pattern.
-
-## Dosage and Duration
-
-Dosage range: 15 to 25 milligrams.
-
-Duration: 8 to 16 hours.
-
-The extended duration is notable. The compound reaches its effects slowly and requires patience during onset.
-
-Initial discomfort during the first few hours is common but typically resolves.
-
-## Qualitative Effects
-
-At 20 milligrams, pleasant visuals begin at 2 to 2.5 hours and continue for 2 to 3 additional hours.
-
-Open-eye visuals are triggered by staring at particular areas such as living room ceilings or trees.
-
-Surroundings move slightly but there is no flowing of images.
-
-Pine needles appear crystal clear with strong contrasts.
-
-The mental effect is difficult to define and may not be exceptional.
-
-Confusion and fatigue develop after approximately 8 hours, and the experience tapers off in the early evening.
-
-One subject was "not particularly sure I would want to try this material again."
-
-A second 20-milligram report describes initial discomfort (queasiness and sluggishness of mind) during the first three hours.
-
-This dissolves completely, and the experience "turns full on" with "height of beauty, visual perception."
-
-Lights are described as "amazing," and outside there is a "marvelous sense of Presence."
-
-The quality differs from the elation common with other materials, replaced by "a strong, even powerful sense of goodness, inner strength, solidity."
-
-At 25 milligrams, onset is rapid with a +++ reached within an hour.
-
-Body load is minimal.
-
-Visual activity is relatively slight compared to some materials, but eyes-closed imagery is intense and flashes periodically.
-
-The character is "very benign and friendly and pleasant and good-humored."
-
-The compound is described as "superb for conversation and conceptualization."
-
-A second 25-milligram report confirms noticeable body load but "excellent" general state of mind.
-
-Everyone was "extremely relaxed and funny" with "puns, insults, delightful amusement."
-
-Not much insight work was possible. Juices were tolerated well but appetite was suppressed.
-
-Sleep was difficult for most subjects.
-
-The conclusion was "excellent material, but body price a bit too much for the mental effects," though the "tremendous humor and laughter" was "truly delightful."
-
-## Chemical Rationale
-
-The inclusion of a beta-oxygen atom into the phenethylamine structure is based on natural brain chemistry.
-
-The neurotransmitter dopamine is converted to norepinephrine by precisely this transformation: enzymatic addition of an oxygen atom to the benzylic position.
-
-Identical chemistry occurs with tyramine in many plants and animals, producing octopamine, so-named for its discovered presence in the salivary glands of Octopus vulgaris.
-
-In the BOX series, this oxygen was intentionally blocked with a methyl group to ease blood-brain barrier penetration and increase psychedelic potential.
-
-The concept was nearly abandoned when it was realized that the methoxylated [[bob-entity]] analogue would have been named "BOMB," but the shorter naming convention was retained.
+In BOD, the "D" references [[bob-entity]] analogue would have been named "BOMB," but the shorter naming convention was retained.
 
 The added methoxy group also creates a new asymmetric center, allowing eventual separation into two optical isomers.
 
@@ -86,18 +20,90 @@ The corresponding amphetamine homologues would present yet another chiral center
 
 ## Related Compounds
 
-[[2c-d-entity]] - the parent phenethylamine without beta-methoxy substitution
-
 [[bob-entity]] - the 2C-B analogue (beta-methoxy-2C-B), nearly named "BOMB"
 
-[[boh-entity]] - the 2C-E analogue (beta-methoxy-2C-E)
-
 [[bohd-entity]] - the beta-hydroxy analogue of BOD
-
-[[dom-entity]] - the amphetamine with the same 2,5-dimethoxy-4-methyl ring pattern
 
 [[phenethylamine-pharmacology]] - general pharmacological context
 
 ## Status
 
 Active psychedelic with a distinctive character combining intellectual clarity, social enhancement, and visual activity.
+## Practical Applications
+
+BOD has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+BOD. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

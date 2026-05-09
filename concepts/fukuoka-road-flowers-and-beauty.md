@@ -11,26 +11,7 @@ type: concept
 # Flowers and Beauty in European Civilization
 
 While traveling through the European countryside, masanobu-fukuoka|Fukuoka
-was struck by the beauty and cleanliness [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] landscape.
-Woods are common in cities as well as the countryside. Roses
-blossomed wildly in flower gardens on country farms, while
-flower boxes in urban homes were decked out with beautiful
-live flowers. Wherever he went, the whole town seemed filled
-with flowers.
-
-## The Tranquility of European Life
-
-The townsfolk brought rattan chairs out onto the stone
-pavement and leisurely drank tea. Things were so quiet and
-tranquil that Fukuoka wondered where all the working people
-had gone. It seemed as if time had stopped. The sensation
-was such that even he, a stranger in a strange land, forgot
-that he was a visitor.
-
-## The Wild Flowers of Switzerland and Austria
-
-One thing that caught his attention was the striking beauty
-[[allegro-colour-and-consistency-of-the-amanita-muscaria]] wild flowers. The flowers by the roadside in
+was struck by the beauty and cleanliness [[allegro-colour-and-consistency-of-the-amanita-muscaria]] wild flowers. The flowers by the roadside in
 Switzerland and Austria had such splendidly large petals
 that they looked more like cultivated flowers than wild
 flowers. He suspected these were either the native stock of
@@ -44,22 +25,12 @@ the fact that he saw few plants which resembled wild grasses.
 Perhaps the cultivation of flowers had wiped out the native
 grasses and resulted in a simplified vegetative cover.
 
-## Weekend [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] the Affection for Flowers
-
-While on the subject of flowers, Fukuoka observed the
-weekend vegetable gardens on the outskirts of towns and
-cities. One often sees tens and hundreds of miniature
-gardens no more than a few square yards in size with cute
-little huts on each plot. Although vegetables are also grown,
-flowers and spice blossoms seem more common. The intensity
-of affection all Europeans have for flowers [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] loving
+## Weekend [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] loving
 care they lavish on them is something very special.
 
 ## Two Ways of Enjoying Nature
 
-[[allegro-death-and-resurrection-in-the-mushroom-cult]] summers, everyone takes to the mountains, forests,
-or sea to enjoy nature. But their way of enjoying nature
-differs from that of people [[allegro-plants-and-drugs-in-the-ancient-world]] Orient. Rather than
+[[allegro-plants-and-drugs-in-the-ancient-world]] Orient. Rather than
 nature, what they really seem to be enjoying is people in a
 natural setting. The Japanese carouse in self-oblivion under
 the cherry blossoms in spring, but Westerners don't step out
@@ -72,7 +43,7 @@ Japan. It does not give rise to the sad, lonely Japanese
 ambience of wabi-sabi. He wondered whether the spirit and
 mystery of Mother Nature that frees us from our sense of
 self does not exist in the forests and flower gardens of the
-West created by egoistic man. See [[fukuoka-food-civilization-critique]] and [[fukuoka-european-civilization-standstill]].
+West created by egoistic man. See [[fukuoka-european-civilization-standstill]].
 
 ## The Corruption of Ikebana
 

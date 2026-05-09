@@ -105,17 +105,10 @@ The species also contains small amounts of ergosterol (provitamin D2), consisten
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]]
 - [[lactarius-deliciosus]]
-- [[trametes-versicolor]]
 - [[suillus-luteus]]
-- [[boletus-edulis-entity]]
 - [[russula-cyanoxantha]]
-- [[armillaria-mellea]]
 - [[clavulina-cristata]]
-- [[chroogomphus-rutilus]]
 - [[fomes-fomentarius]]
-- [[agaricus-campestris]]
 - [[lepista-nuda]]
-- [[russula-vesca]]
 - [[suillus-grevillei]]

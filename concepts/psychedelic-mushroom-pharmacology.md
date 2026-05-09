@@ -4,19 +4,18 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
-sources:
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Pharmacology
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin-compound]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
-The principal mechanism of action of psilocin is agonism (activation) of the [[serotonin]] 2A receptor (5-HT2A), a Gq/11-coupled G-protein-coupled receptor (GPCR). Psilocin acts as a full or near-full agonist at this receptor, with an estimated Ki (inhibition constant) of approximately 6-20 nM, making it a high-affinity ligand.
+The principal mechanism of action of psilocin is agonism (activation) of the serotonin 2A receptor (5-HT2A), a Gq/11-coupled G-protein-coupled receptor (GPCR). Psilocin acts as a full or near-full agonist at this receptor, with an estimated Ki (inhibition constant) of approximately 6-20 nM, making it a high-affinity ligand.
 
 ### Receptor Binding Profile
 
@@ -54,7 +53,7 @@ Psilocin is lipophilic enough to cross the blood-brain barrier readily. It distr
 Psilocin is primarily metabolized in the liver through two pathways:
 
 1. **Oxidative deamination** by monoamine oxidase (MAO), primarily MAO-A, producing 4-hydroxy-indoleacetic acid (4-HIAA)
-2. **[[glucuronidation]]** by UDP-glucuronosyltransferases (UGTs), producing psilocin-O-glucuronide, the primary metabolite excreted in urine
+2. **Glucuronidation** by UDP-glucuronosyltransferases (UGTs), producing psilocin-O-glucuronide, the primary metabolite excreted in urine
 
 The plasma half-life of psilocin is approximately 2-3 hours. Subjective effects typically last 4-6 hours, depending on dose.
 
@@ -121,7 +120,7 @@ This increased connectivity may allow the brain to escape entrenched patterns of
 
 Rapid and significant tolerance develops to the effects of psilocybin:
 
-- **Cross-tolerance** occurs with other serotonergic psychedelics (LSD, DMT, [[mescaline-entity]])
+- **Cross-tolerance** occurs with other serotonergic psychedelics (LSD, DMT, mescaline)
 - Tolerance is largely gone within 7-14 days of abstinence
 - The mechanism involves 5-HT2A receptor downregulation and desensitization
 - No evidence of physical dependence or withdrawal syndrome
@@ -142,9 +141,12 @@ Important pharmacological interactions:
 Psilocybin has a very high safety profile:
 
 - **LD50** (lethal dose 50%) in rodents: approximately 285 mg/kg IV — far exceeding any reasonable human dose
+- **No known lethal overdose** in humans from psilocybin mushrooms alone
+- The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
+- Cardiovascular effects include mild, transient increases in heart rate and blood pressure
+
+See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
+
 ## See Also
 
-- [[global-psychedelic-mushroom-species-diversity]]
 - [[psychedelic-mushroom-set-and-setting]]
-- [[psychedelic-mushroom-dosage-guide]]
-- [[mushroom-cultivation-fundamentals]]

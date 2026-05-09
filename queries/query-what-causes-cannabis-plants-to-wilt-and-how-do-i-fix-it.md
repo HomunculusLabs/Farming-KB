@@ -40,21 +40,7 @@ mobile nutrients to newer growth. The pot will feel noticeably light when
 lifted. The remedy is simple: water thoroughly until runoff appears from
 the drainage holes, ensuring the entire root zone is saturated. For
 future prevention, establish a consistent
-[[cannabis-watering-schedule-and-frequency]] based on
-pot weight or finger-depth soil moisture testing rather than a fixed
-calendar interval.
-
-Overwatering is paradoxically more common than underwatering among newer
-growers and is far more damaging in the long term. When soil remains
-constantly saturated, air spaces in the growing medium fill with water,
-depriving roots of the oxygen they need for cellular respiration. Roots
-in anaerobic conditions begin to die and rot, creating an environment
-where opportunistic pathogens like pythium-oligandrum|Pythium and
-fusarium-oxysporum|Fusarium thrive. Overwatered plants have drooping,
-soft leaves that feel heavy and may show yellowing from the bottom up.
-The soil surface may appear wet or even develop green algae. Treatment
-involves allowing the soil to dry out significantly and improving drainage
-through better [[cannabis-pot-selection-and-container-sizing]], adding perlite-cannabis|perlite or other aeration
+[[cannabis-pot-selection-and-container-sizing]], adding perlite-cannabis|perlite or other aeration
 amendments, and reducing watering frequency.
 
 Root-bound conditions occur when a plant has outgrown its container and
@@ -65,13 +51,6 @@ efficiently. Signs include roots visibly circling the drainage holes,
 rapid drying after watering, and stunted growth despite good nutrition.
 The solution is to transplant into a larger container, being careful to
 gently loosen the root ball during the process. Following
-[[cannabis-transplanting-guide]] and choosing
-appropriate pot sizes for each growth stage prevents this issue from
-developing in well-managed grows.
-
-Heat stress can cause dramatic midday wilting even when soil moisture is
-adequate. When temperatures exceed the plant's comfort range, typically
-above 85 degrees Fahrenheit (29 degrees Celsius), the rate of
 [[stomata-transpiration-and-plant-water-regulation]] exceeds
 the roots' ability to absorb and transport water. Leaves may appear
 canoe-shaped, curling upward at the margins to reduce surface area exposed
@@ -86,27 +65,25 @@ deficiency. Excessive nutrient salt concentrations, measurable with an
 ec-tds-cannabis|EC/TDS meter, create osmotic stress that prevents
 roots from absorbing water even when it is present in the medium. This is
 sometimes called "nutrient lockout" and often manifests alongside
-[[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] symptoms like scorched
-leaf tips. Flushing the medium with plain, pH-balanced water helps restore
-the osmotic balance and allows the plant to recover. Severe deficiency of
-any major nutrient can also cause wilting by disrupting the plant's
-ability to maintain cell pressure.
-
-## Key Points
-- Wilting from underwatering features dry soil and crisp leaves;
-  overwatering features wet soil and soft, heavy leaves
-- Overwatering kills roots by depriving them of oxygen and invites
-  pythium-ultimum|Pythium root rot pathogens
-- Root-bound plants wilt despite adequate watering and need to be
-  transplanted to larger containers immediately
-- Heat stress causes midday wilting that resolves overnight when
-  temperatures drop; improve airflow to prevent
-- Salt buildup from excess nutrients causes osmotic stress that mimics
-  underwatering; flush with plain water to correct
-
-## Related Questions
-- [[query-how-to-fix-overwatering-in-cannabis]]
-- [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
+[[query-how-to-fix-overwatering-in-cannabis]]
 - [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
-- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
 - [[query-what-causes-nutrient-lockout-in-cannabis]]
+## Practical Considerations
+
+Successful implementation of What Causes Cannabis Plants to Wilt and How Do I Fix It? requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

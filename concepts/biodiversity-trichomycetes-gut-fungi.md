@@ -133,15 +133,9 @@ subsequent publications.
 
 ## Related
 
-- [[coprophilous-fungi-biodiversity-indicators]] Topics
-
 - [[biodiversity-fungi-aquatic-environments]] — broader context of
   fungal diversity in aquatic systems
-- [[biodiversity-fungi-insect-symbiosis]] — other arthropod-fungal
-  interactions
 - [[biodiversity-fungal-culture-media]] — media for isolating gut
   fungi and related microorganisms
-- [[biodiversity-nematophagous-predatory-fungi]] — fungi that attack
-  other soil invertebrates
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]] —
   molecular approaches to identifying trichomycete taxa

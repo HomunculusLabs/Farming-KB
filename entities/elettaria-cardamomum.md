@@ -100,21 +100,12 @@ Cardamom is typically grown as an understory crop in agroforestry systems, inter
 
 ## See Also
 
-- [[zingiber-officinale]] — Common ginger, a related Zingiberaceae rhizome spice
 - [[curcuma-longa]] — Turmeric, a Zingiberaceae rhizome crop with anti-inflammatory properties
-- [[alpinia-galanga]] — Greater galangal, a Zingiberaceae spice used in Southeast Asian cuisine
 - [[cinnamomum-verum]] — Ceylon cinnamon, a complementary aromatic spice in Indian and Middle Eastern cooking
-- [[eucalyptus-globulus]] — Blue gum eucalyptus, a primary commercial source of 1,8-cineole
-- [[piper-nigrum]] — Black pepper, the "King of Spices" often paired with cardamom in spice blends
-- [[cymbopogon-citratus]] — Lemongrass, a tropical aromatic grass with cineole-rich essential oil
+- [[piper-nigrum-entity]] — Black pepper, the "King of Spices" often paired with cardamom in spice blends
 - [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species with related essential oil chemistry
-- [[alpinia-officinarum]] — Lesser galangal, a TCM Zingiberaceae herb
 - [[cymbopogon-martinii]] — Palmarosa, a tropical grass with 1,8-cineole in its essential oil
-- [[vetiveria-zizanoides]] — Vetiver, a tropical grass with economically important essential oil
 - [[salvia-officinalis]] — Common sage, a Mediterranean aromatic herb with medicinal terpenoids
-- [[lavandula-angustifolia]] — English lavender, an aromatic herb with overlapping essential oil uses
 - [[tagetes-minuta]] — Marigold, an aromatic plant used in companion planting with spice crops
-- [[ocimum-basilicum]] — Sweet basil, a culinary herb paired with cardamom in aromatic spice traditions
-- [[rosmarinus-officinalis]] — Rosemary, a Mediterranean aromatic herb with cineole-rich essential oil
-- [[mentha-piperita]] — Peppermint, an aromatic herb with complementary digestive medicinal uses
+- [[rosmarinus-officinalis-entity]] — Rosemary, a Mediterranean aromatic herb with cineole-rich essential oil
 - [[kaempferia-galanga]] — Sand ginger, a Zingiberaceae species with aromatic seed-like rhizome

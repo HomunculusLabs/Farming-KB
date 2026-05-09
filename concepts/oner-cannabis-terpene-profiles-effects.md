@@ -103,34 +103,9 @@ expression:
   flavor"
 - CookieWreck: "Give your cut buds a nice long curing period to draw out the best
   flavors and smells"
-- [[greenhouse-growing]] with "a warm environment will bring out a rich terpene signature"
-- "A good curing period is also recommended" for multiple strains to enhance aromatic
-  qualities
-
-## Terpene Profiles and Breeding
-
-Breeders actively select for terpene profiles when choosing parent plants:
-
-- The "fuel-like Sour Diesel smell" is a trait breeders try to preserve in Diesel
-  crosses
-- Flavor and aroma are key criteria when breeders evaluate offspring for keeping or
-  culling
-- The "rich terpene signature" of certain strains makes them valuable as breeding
-  stock
-
-## Effect Profiles Associated with Terpene Profiles
-
-While Oner does not make explicit terpene-effect correlations, patterns emerge:
-
-- **Citrus/limonene-dominant**: Associated with energetic, cerebral, uplifting highs
-- **Diesel-dominant**: Often produces strong, long-lasting, balanced effects
-- **Fruity/tropical**: Typically accompanies euphoric, creative, social effects
-- **Pine/forest**: Often paired with focused, clear-headed effects
-- **Earthy/herbal**: May indicate more grounded, relaxing effects despite sativa
-  dominance
+- [[oner-cannabis-phenotypes-genetic-expression]]
+- [[oner-cannabis-hashish-production]]
 
 ## See Also
 
-- [[oner-cannabis-phenotypes-genetic-expression]]
-- [[oner-cannabis-breeding-fundamentals]]
-- [[oner-cannabis-hashish-production]]
+- [[cannabis-terpene-entourage-effect-profiles]]

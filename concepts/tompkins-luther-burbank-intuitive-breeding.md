@@ -125,7 +125,9 @@ influence gene expression in plants remains a frontier of research.
 
 ## See Also
 
-- [[tompkins-ancient-plant-knowledge]] for historical plant wisdom
 - [[tompkins-george-washington-carver-plant-alchemy]] for Carver's methods
-- [[tompkins-plant-perception-experiments]] for plant sensitivity
 - [[tompkins-plants-response-to-human-intent]] for human-plant bonds
+
+## See Also
+
+- [[luther-burbank-plant-breeding-methods]]

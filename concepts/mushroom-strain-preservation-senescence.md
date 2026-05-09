@@ -3,7 +3,7 @@ title: Mushroom Strain Preservation and Senescence
 created: 2026-04-22
 updated: 2026-04-22
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: [raw/papers/gottlieb-a-the-psilocybin-producers-guide.md]
 ---
 
@@ -13,20 +13,7 @@ Maintaining viable mushroom cultures over time requires understanding the biolog
 
 ## Overview
 
-Mushroom cultivators face a fundamental tension: cultures must be continually expanded to maintain production, but each generation of subculturing brings the strain closer to senescence. Understanding the biology behind this decline and implementing appropriate preservation strategies is essential for any long-term cultivation operation, from home growers to [[psilocybin-large-scale-production]].
-
-## The Senescence Factor
-
-### What Is Senescence?
-
-Senescence in fungi is the progressive loss of vigor, growth rate, and productive capacity that occurs after repeated cell divisions in a vegetative (asexual) mycelial lineage. Unlike plants and animals, where senescence occurs at the organism level, fungal senescence operates at the cellular level within an individual mycelial network.
-
-### Causes
-
-The primary driver of senescence is the accumulation of deleterious mutations and epigenetic changes during repeated mitotic cell divisions. Each time mycelium is transferred from one medium to another, millions of cell divisions occur. Over many generations:
-
-- Nuclear mutations accumulate in the dikaryotic cells
-- Mitochondrial DNA degrades (mitochondrial senescence is particularly well-documented in [[fungal-biology-fundamentals]])
+Mushroom cultivators face a fundamental tension: cultures must be continually expanded to maintain production, but each generation of subculturing brings the strain closer to senescence. Understanding the biology behind this decline and implementing appropriate preservation strategies is essential for any long-term cultivation operation, from home growers to [[fungal-biology-fundamentals]])
 - Epigenetic silencing of essential genes increases
 - Telomere-like structures at chromosome ends shorten
 - Plasmid-like senescence-inducing elements may proliferate
@@ -59,17 +46,7 @@ The rate of senescence varies enormously between species and even between strain
 
 The simplest preservation method, suitable for short-to-medium term storage (up to one year):
 
-1. Maintain stock cultures on [[agar]] media in petri dishes or slants
-2. When mycelium has fully colonized the agar surface, tighten the lid
-3. Store at standard refrigerator temperature (35-40°F / 2-4°C)
-4. Cold temperatures dramatically slow metabolic activity and mutation accumulation
-5. Before use, allow the culture to return to room temperature before opening
-
-This method is adequate for personal cultivation but is not optimal for long-term preservation of valuable strains.
-
-### Media Alternation
-
-Gottlieb's specific recommendation for combating senescence in the [[mycelial-broth-alkaloid-production]] context:
+1. Maintain stock cultures on [[mycelial-broth-alkaloid-production]] context:
 
 - Alternate between different agar media formulations for successive stock culture transfers
 - If PDA (Potato Dextrose Agar) is used for the first transfer, use MEA (Malt Extract Agar) for the second, then PDA again

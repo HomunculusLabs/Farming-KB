@@ -75,33 +75,7 @@ An enhancement to the basic reflux method involves multiple soaking cycles befor
 
 ## Related Topics
 
-- [[cannabis-indoor-growing-guide]] for detailed solvent safety information
 - [[cannabis-solvent-reflux-extraction-methods]] for reflux chemistry details
-- [[cannabis-extraction-basics]] for fundamental extraction concepts
 - [[cannabis-winterization-filtration]] for post-extraction purification
-- [[cannabis-high-volume-extraction]] for scaled-up reflux apparatus
 - [[cannabis-oil-isomerization]] for processing extracted oil
-- [[cannabis-extraction-methods]] for comparison with other extraction approaches
-
-## Reflux vs. Simple Soaking
-
-A common question among beginners is whether reflux is necessary or whether simple soaking (maceration) is sufficient for extraction. Simple soaking does extract cannabinoids, but it is significantly less efficient than reflux because the solvent is not actively cycling through the plant material. At room temperature, cannabinoid solubility is lower and diffusion rates are slower than at the boiling point of the solvent.
-
-Reflux extraction achieves in three to four hours what simple soaking might require several days to accomplish. The continuously boiling solvent maintains maximum solubility and creates convective currents that constantly bring fresh solvent into contact with the plant material.
-
-The cycling extraction technique described in classical literature combines the advantages of both approaches. Multiple 24-hour soaking cycles in fresh solvent extract the majority of the oil, and a short soxhleting period afterward removes the remainder. This approach minimizes active processing time while maintaining high extraction efficiency, making it practical for individuals with limited weekend availability for processing.
-
-## Alternative Condenser Designs
-
-While the ice-cooled lid described in the basic apparatus is effective, several alternative condenser designs offer improved performance. A copper coil immersed in a bucket of ice water, with one end connected to the pot and the other returning condensed solvent, provides more efficient condensation than a flat lid. The increased surface area of the coil allows for faster processing.
-
-A Liebig condenser, consisting of a tube within a tube with cold water flowing through the outer tube, is the standard laboratory condenser and can be adapted for the kitchen-scale extraction apparatus. These are available from scientific supply houses and provide professional-grade condensation at modest cost.
-
-For the 55-gallon drum scale system, the copper tube matrix in the condenser drum provides the large surface area needed to condense the volume of solvent vapor produced by a drum-sized boiling vessel. The circulating ice water through the drum provides continuous cooling capacity far exceeding what ice blocks on a lid could achieve.
-
-## Energy Efficiency Considerations
-
-The water bath method of heating is not the most energy-efficient approach to reflux extraction. Much of the heat energy applied to the water bath is lost to the surrounding environment. However, the safety advantages of indirect heating outweigh the energy costs for most small-scale operators.
-
-Insulating the water bath with foam or fiberglass reduces heat loss and speeds the time to reach boiling. A tight-fitting lid on the water bath (separate from the condenser lid on the inner pot) further improves energy efficiency. These simple modifications can reduce energy consumption by 30 to 50 percent without compromising safety.
 - [[cannabis-hash-making-from-extracted-oil]]

@@ -20,7 +20,7 @@ Vanilla is the world's most labor-intensive spice, derived from the cured seed p
 
 ## Taxonomy and Species
 
-Vanilla belongs to the family [[Orchidaceae]], subfamily Vanilloideae, tribe Vanilleae. The genus comprises approximately 110 species distributed across tropical and subtropical regions worldwide. Of these, only three are commercially cultivated for vanilla production:
+Vanilla belongs to the family orchid care guide, subfamily Vanilloideae, tribe Vanilleae. The genus comprises approximately 110 species distributed across tropical and subtropical regions worldwide. Of these, only three are commercially cultivated for vanilla production:
 
 - **Vanilla planifolia** Andrews (syn. *V. fragrans*) — The primary commercial species, producing the classic "Bourbon" vanilla. Native to the Gulf coast of Mexico. Long, slender pods with high vanillin content. Accounts for approximately 95% of global production.
 
@@ -72,7 +72,7 @@ Vanilla prefers loose, well-draining, slightly acidic to neutral soils (pH 5.5�
 
 ### Support Structures
 
-As climbing vines, vanilla requires physical support to grow and flower. In traditional cultivation, support is provided by living trees (often [[leguminous-trees]] or [[shade-trees]]), dead poles, or artificial trellises. Common support trees include:
+As climbing vines, vanilla requires physical support to grow and flower. In traditional cultivation, support is provided by living trees (often [[permplant-carob-drought-tolerant-food-tree]] or [[williams-pdc-trees]]), dead poles, or artificial trellises. Common support trees include:
 
 - **Gliricidia sepium** (madre de cacao) — fast-growing, nitrogen-fixing, prunable shade
 - **Erythrina spp.** (coral tree) — provides dappled shade, fixes nitrogen
@@ -218,12 +218,12 @@ The ancestral home of vanilla, now a minor producer (<1% of global supply). Mexi
 Vanilla is ideally suited to [[agroforestry]] and [[permaculture]] systems because of its natural growth habit as a climbing understory vine. Integration strategies include:
 
 - **Multi-strata agroforests**: Vanilla as the mid-canopy layer, with fruit or nut trees above, root crops or cover crops below
-- **Spice garden polycultures**: Intercropping with [[turmeric-and-ginger-rhizome-cultivation|turmeric]], [[black-pepper|black pepper]], [[cinnamon|cinnamon]], and [[cardamom|cardamom]]
+- **Spice garden polycultures**: Intercropping with [[turmeric-and-ginger-rhizome-cultivation|turmeric]], [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation|black pepper]], [[cinnamomum-verum|cinnamon]], and [[elettaria-cardamomum|cardamom]]
 - **Shade-grown coffee systems**: Vanilla vines on shade trees in coffee plantations
 - **Food forest understory**: Vanilla as a productive vine layer in [[food-forest]] designs
-- [[Nitrogen-fixing-trees|Nitrogen-fixing support trees]] provide both physical support and biological fertility
-- [[Mulching]] with organic matter maintains soil moisture and organic content
-- [[Compost-tea-and-biological-extracts|Compost tea]] applications support beneficial mycorrhizal associations
+- [[nitrogen-fixing-trees|Nitrogen-fixing support trees]] provide both physical support and biological fertility
+- [[sheet-mulching]] with organic matter maintains soil moisture and organic content
+- [[compost-tea-and-biological-extracts|Compost tea]] applications support beneficial mycorrhizal associations
 - Vanilla aerial roots benefit from [[the-soil-food-web|soil food web]] interactions when reaching the ground layer
 
 ## Pests and Diseases
@@ -234,7 +234,7 @@ Vanilla cultivation faces several significant biotic threats:
 - **Fusarium proliferatum** — Causes fruit rot
 - **Colletotrichum spp.** (anthracnose) — Dark lesions on leaves, stems, and pods
 - **Uromyces spp.** (rust) — Orange pustules on leaf undersides
-- **Root-knot nematodes** (*Meloidogyne spp.*) — Galling on roots, stunted growth; managed with crop rotation and [[marigold]] intercropping
+- **Root-knot nematodes** (*Meloidogyne spp.*) — Galling on roots, stunted growth; managed with crop rotation and [[comparison-french-marigold-vs-mustard-biofumigation]] intercropping
 - **Scale insects** (*Diaspis spp.*, *Aspidiotus spp.*) — Suck sap from stems and pods
 - **Spider mites** (*Tetranychus spp.*) — Prevalent in dry conditions; managed by maintaining humidity
 - **Snails and slugs** — Damage young shoots and aerial roots
@@ -279,7 +279,7 @@ Current research directions in vanilla science include:
 
 ## Vanilla in Perfumery
 
-Beyond food, vanilla is one of the most important ingredients in perfumery, appearing in approximately 25% of all fine fragrances. Vanilla absolute, vanilla oleoresin, and synthetic vanillin are used as base notes for their warm, sweet, comforting character. Vanilla is particularly prominent in [[amber|oriental]], gourmand, and fougère fragrance families. High-quality vanilla absolute from Madagascar and Tahiti is among the most expensive perfumery raw materials.
+Beyond food, vanilla is one of the most important ingredients in perfumery, appearing in approximately 25% of all fine fragrances. Vanilla absolute, vanilla oleoresin, and synthetic vanillin are used as base notes for their warm, sweet, comforting character. Vanilla is particularly prominent in oriental, gourmand, and fougère fragrance families. High-quality vanilla absolute from Madagascar and Tahiti is among the most expensive perfumery raw materials.
 
 ## Vanilla in Traditional Medicine
 
@@ -312,7 +312,7 @@ See [[query-how-do-i-grow-vanilla-at-home|How Do I Grow Vanilla at Home?]] for a
 - [[comparison-vanilla-vs-cacao-cultivation|Vanilla vs Cacao Cultivation]]
 - [[fermented-foods-and-beverages|Fermented Foods and Beverages]]
 - [[agroforestry-and-alley-cropping|Agroforestry and Alley Cropping]]
-- [[spice-cultivation|Spice Cultivation]]
+- [[elettaria-cardamomum|Spice Cultivation]]
 - [[tropical-root-crops-cassava-taro-sweet-potato-and-yam|Tropical Root Crops]]
 - [[the-soil-food-web|The Soil Food Web]]
 - [[mangrove-ecosystems-and-coastal-restoration|Mangrove Ecosystems]]

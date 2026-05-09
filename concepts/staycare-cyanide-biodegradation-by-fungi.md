@@ -66,25 +66,7 @@ Major industrial sources of cyanide contamination include:
 Despite its toxicity, several fungal species produce cyanide as a
 secondary metabolite. Cyanogenesis is widespread within the
 Basidiomycetes and also occurs among Ascomycetes and Zygomycetes.
-[[marasmius-oreades]] produces cyanide from glycine, converting it to
-carbon dioxide possibly via formamide and formate (Bunch & Knowles,
-1980). This capacity for cyanide production is closely linked to the
-ability to subsequently degrade it, suggesting an evolutionary
-adaptation that confers ecological advantages such as pathogenicity
-and competitive ability.
-
-## Cyanide Hydratase: The Key Enzyme
-
-Cyanide hydratase (formamide hydrolyase, EC 4.2.1.66) is the primary
-fungal enzyme responsible for cyanide detoxification. It catalyzes the
-hydration of HCN to formamide:
-
-    HCN + H2O -> HCONH2
-
-The enzyme was first characterized from Stemphylium loti, a pathogenic
-fungi of the cyanogenic plant birdsfoot trefoil (Fry & Millar, 1972).
-It has since been identified in multiple fungal species including
-[[fusarium-solani]], [[fusarium-oxysporum]], [[fusarium-lateritium]],
+[[fusarium-solani]], [[fusarium-lateritium]],
 Gloeocercospora sorghi, and Leptosphaeria maculans.
 
 ### Enzyme Properties
@@ -142,8 +124,6 @@ cyanide availability rather than total cyanide concentration.
 
 ## Related Concepts
 
-- [[staycare-organometallic-compound-dealkylation-by-fungi]] — Fungal
-  degradation of other metal-containing pollutants
 - [[staycare-fungal-biosorption-of-heavy-metals]] — General fungal-metal
   interactions including biosorption and precipitation
-- [[cotter-mycoremediation-overview]] — Principles of [[fungal-bioremediation]]
+- [[fungal-bioremediation]]

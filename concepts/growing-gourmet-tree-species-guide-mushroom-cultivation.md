@@ -134,13 +134,9 @@ successful cultivation is to match the skills of the
 cultivator with the right strain on the proper substrate
 under ideal environmental conditions.
 
-See also: [[growing-gourmet-substrate-materials-wood-types]]
 See also: [[growing-gourmet-substrate-preparation]]
-See also: [[growing-gourmet-outdoor-log-inoculation-techniques]]
-See also: [[shiitake-mushroom-cultivation-and-medicinal-properties]]
+See also: [[shiitake-mushroom-cultivation]]
 
 ## See Also
-
-- [[mushroom-tree-associations-guide]]
 
 - [[mushroom-cultivation-photographic-guide]]

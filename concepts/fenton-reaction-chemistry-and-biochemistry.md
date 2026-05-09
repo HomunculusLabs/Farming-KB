@@ -23,7 +23,8 @@ related:
   - bioremediation-fenton-chemistry
   - bioremediation-laccase-mediator-systems
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
@@ -60,21 +61,7 @@ Other transition metals catalyze analogous reactions with hydrogen peroxide. Cop
 
 ## Role in Biological Oxidative Stress
 
-The hydroxyl radical is extraordinarily short-lived (~10^-9 s in biological media) and damages whatever biomolecule it encounters at its site of generation. Key molecular targets include DNA bases (forming mutagenic 8-hydroxy-2'-deoxyguanosine, 8-OHdG), polyunsaturated [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] in cell membranes (initiating lipid peroxidation chain reactions), and proteins (causing carbonylation, cross-linking, and fragmentation). Cellular sources of H2O2 include mitochondrial electron transport chain Complexes I and III, NADPH oxidases (NOX enzymes), xanthine oxidase, and peroxisomal oxidases.
-
-### Lipid Peroxidation
-
-The lipid peroxidation chain reaction is a major consequence of Fenton chemistry in membranes. Initiation occurs when OH. abstracts hydrogen from a polyunsaturated fatty acid (LH -> L. + H2O). Propagation follows as the lipid radical reacts with oxygen (L. + O2 -> LOO.) and then abstracts hydrogen from a neighboring fatty acid (LOO. + LH -> LOOH + L.). Termination occurs when two peroxyl radicals combine or when chain-breaking antioxidants intervene. The reactive aldehydes produced, particularly 4-hydroxynonenal (4-HNE) and malondialdehyde (MDA), form protein adducts and DNA damage. Glutathione peroxidase 4 (GPx4) is the key enzymatic defense, reducing lipid hydroperoxides to alcohols; its pharmacological inhibition triggers ferroptosis.
-
-### Neurodegenerative Disease
-
-In Parkinson's disease, elevated iron in the substantia nigra combines with dopamine-derived H2O2 to drive Fenton-mediated dopaminergic neuron death. Neuromelanin-bound iron may further catalyze local Fenton reactions. In Alzheimer's disease, amyloid-beta plaques concentrate redox-active iron and copper, and Abeta-metal complexes catalyze local OH. generation, causing oxidative damage that promotes further plaque accumulation. In ALS, mutations in SOD1 may cause aberrant Fenton-like chemistry contributing to motor neuron death.
-
-### Cardiovascular Disease and Cancer
-
-In atherosclerosis, iron deposits in plaques catalyze LDL oxidation (oxLDL) via Fenton chemistry; oxidized LDL is taken up by macrophages to form foam cells, driving plaque progression. Ischemia-reperfusion injury represents an acute Fenton event where iron from damaged cells catalyzes destructive hydroxyl radical formation upon reoxygenation. Hereditary hemochromatosis directly increases Fenton substrate, leading to multi-organ damage.
-
-In cancer biology, Fenton-mediated ROS play a dual role. They can initiate carcinogenesis through DNA damage and mutations, but are also exploitable therapeutically. Many chemotherapeutic agents (doxorubicin, bleomycin, cisplatin) work partly through iron-dependent ROS generation. Cancer cells often have elevated labile iron pools, making them potentially more vulnerable to Fenton-based therapies. The concept of ferroptosis -- iron-dependent, non-apoptotic [[blesching-cannabis-apoptosis-and-cancer-cell-death]] driven by lipid peroxidation -- is directly linked to Fenton chemistry and represents an active area of cancer drug development.
+The hydroxyl radical is extraordinarily short-lived (~10^-9 s in biological media) and damages whatever biomolecule it encounters at its site of generation. Key molecular targets include DNA bases (forming mutagenic 8-hydroxy-2'-deoxyguanosine, 8-OHdG), polyunsaturated [[blesching-cannabis-apoptosis-and-cancer-cell-death]] driven by lipid peroxidation -- is directly linked to Fenton chemistry and represents an active area of cancer drug development.
 
 ## Antioxidant Defense Systems
 
@@ -98,34 +85,9 @@ Solid catalysts including magnetite (Fe3O4), goethite, iron-loaded zeolites, and
 
 ## Fenton Chemistry in Brown Rot Fungi
 
-[[mycelium-running-white-rot-brown-rot-fungi]] (*Serpula lacrymans*, *Gloeophyllum trabeum*, *Postia placenta*) employ a non-enzymatic Fenton system as their primary cellulose-degrading mechanism. They secrete oxalic acid to lower local pH to ~2-4 and solubilize iron from wood, produce low-molecular-weight quinones (2,5-dimethoxyhydroquinone) to reduce Fe3+ to Fe2+, and generate H2O2 through glycerol oxidation. The resulting hydroxyl radicals cleave cellulose chains non-enzymatically at a distance from hyphae, creating diffusible oligosaccharides. This allows [[brown-rot-and-white-rot-fungi-in-mycoremediation]] fungi to degrade cellulose and hemicellulose while leaving lignin intact (Kersten & Cullen, *J. Biotechnol.*, 2007, 129, 608-617).
+[[brown-rot-and-white-rot-fungi-in-mycoremediation]] fungi to degrade cellulose and hemicellulose while leaving lignin intact (Kersten & Cullen, *J. Biotechnol.*, 2007, 129, 608-617).
 
 ## Environmental and Atmospheric Fenton Chemistry
 
-In soils, Fe(II)-bearing minerals (pyrite FeS2, siderite FeCO3, magnetite Fe3O4, green rust) generate hydroxyl radicals through Fenton-like reactions with microbially and photochemically produced H2O2. [[mollison-designers-humus-building-and-soil-organic-matter]] quinone groups mediate sustained Fe(III)/Fe(II) cycling. In atmospheric chemistry, iron-containing mineral dust in cloud droplets catalyzes Fenton reactions influencing tropospheric oxidative capacity. Acid mine drainage creates intense natural Fenton conditions through simultaneous pyrite-derived Fe2+ and H2O2 production.
-
-## Detection and Measurement of Hydroxyl Radicals
-
-Direct detection of hydroxyl radicals is challenging due to their extremely short lifetime (~1 ns). Common methods include electron spin resonance (ESR) spectroscopy with spin traps such as DMPO (5,5-dimethyl-1-pyrroline N-oxide), which forms stable nitroxide adducts detectable by ESR. Terephthalic acid is used as a fluorescent probe, producing highly fluorescent 2-hydroxyterephthalic acid upon hydroxylation. Benzoic acid hydroxylation to salicylic acid (measured by HPLC) provides quantitative assessment. For biological systems, 8-OHdG measurement in DNA serves as a biomarker of cumulative hydroxyl radical damage. Advanced techniques include muonium spin rotation and ultrafast laser spectroscopy for direct kinetic measurements of the Fenton reaction.
-
-## Clinical and Pharmacological Relevance
-
-Understanding Fenton chemistry is critical for several clinical scenarios. Iron chelation therapy (deferoxamine, deferasirox) in hemochromatosis works by reducing the labile iron pool available for Fenton reactions. The cardiotoxicity of anthracycline antibiotics (doxorubicin, daunorubicin) is mediated partly through iron-dependent Fenton chemistry in cardiac tissue, and co-administration of dexrazoxane (an iron-chelating prodrug) reduces this toxicity. Acetaminophen (paracetamol) hepatotoxicity involves CYP-mediated bioactivation to NAPQI, which depletes glutathione and leaves cells vulnerable to endogenous Fenton reactions. The therapeutic window of many antioxidants is narrow because, at high concentrations with available transition metals, they can paradoxically promote Fenton chemistry rather than prevent it.
-
-## Detection and Measurement of Hydroxyl Radicals
-
-Direct detection of hydroxyl radicals is challenging due to their extremely short lifetime (~1 ns). Common methods include electron spin resonance (ESR) spectroscopy with spin traps such as DMPO (5,5-dimethyl-1-pyrroline N-oxide), which forms stable nitroxide adducts detectable by ESR. Terephthalic acid is used as a fluorescent probe, producing highly fluorescent 2-hydroxyterephthalic acid upon hydroxylation. Benzoic acid hydroxylation to salicylic acid (measured by HPLC) provides quantitative assessment. For biological systems, 8-OHdG measurement in DNA serves as a biomarker of cumulative hydroxyl radical damage. Advanced techniques include muonium spin rotation and ultrafast laser spectroscopy for direct kinetic measurements.
-
-## Clinical and Pharmacological Relevance
-
-Understanding Fenton chemistry is critical for several clinical scenarios. Iron chelation therapy (deferoxamine, deferasirox) in hemochromatosis works by reducing the labile iron pool available for Fenton reactions. The cardiotoxicity of anthracycline antibiotics (doxorubicin, daunorubicin) is mediated partly through iron-dependent Fenton chemistry in cardiac tissue, and co-administration of dexrazoxane (an iron-chelating prodrug) reduces this toxicity. Acetaminophen hepatotoxicity involves CYP-mediated bioactivation to NAPQI, which depletes glutathione and leaves cells vulnerable to endogenous Fenton reactions. The therapeutic window of many antioxidants is narrow because, at high concentrations with available transition metals, they can paradoxically promote Fenton chemistry rather than prevent it.
-
-## Limitations and Side Reactions
-
-Key waste reactions include OH. scavenging by excess Fe2+ (k ~3.2 x 10^8 M-1s-1), bicarbonate (k ~8.5 x 10^6 M-1s-1 in natural waters), and H2O2 (k ~2.7 x 10^7 M-1s-1). Radical-radical recombination (OH. + OH. -> H2O2) also wastes radicals. Iron sludge generation at pH > 3-4 is the major practical obstacle in water treatment. Non-productive H2O2 decomposition competes with the Fenton pathway at elevated temperature or alkaline pH. The extremely short hydroxyl radical half-life (~1 ns) in biological systems means damage is highly localized.
-
-## See Also
-
-- [[bioremediation-fenton-chemistry-brown-rot-fungi]]
-- [[fungal-metal-redox-transformations]]
+In soils, Fe(II)-bearing minerals (pyrite FeS2, siderite FeCO3, magnetite Fe3O4, green rust) generate hydroxyl radicals through Fenton-like reactions with microbially and photochemically produced H2O2. [[mycoremediation]]
 - [[glutathione-biochemistry-and-redox-biology]]

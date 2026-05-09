@@ -3,7 +3,7 @@ title: Mycoremediation Overview
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, mycoremediation, bioremediation, ecology]
+tags: [[mycology, mycoremediation, bioremediation, ecology]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Mycoremediation Overview
@@ -122,22 +122,13 @@ Not all mushrooms are equal; even different strains of the same species show pro
 
 ## See Also
 
-- [[creosote-soil-mycoremediation]]
-
 - [[mycoremediation-stamets-approach]]
-- [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-bulk-substrates]]
-- [[mushroom-grain-spawn-preparation]]
 - [[contamination-identification-prevention]]
 
-- [[mushroom-cultivation-troubleshooting]]
 - [[cotter-laboratory-setup]]
-- [[cotter-mushroom-business-marketing]]
 - [[cotter-mushroom-composting]]
-- [[cotter-mushroom-garden-design]]
 - [[cotter-mushroom-pests-diseases]]
-- [[cotter-mycoremediation-techniques]]
 - [[cotter-oyster-mushroom-cultivation]]
-- [[cotter-shiitake-cultivation]]
 - [[cotter-spawn-production]]
 - [[cotter-substrate-preparation]]

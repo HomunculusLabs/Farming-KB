@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Urban Rooftop Gardening and Sheet Mulching
 
@@ -66,36 +67,18 @@ Almond, black locust, carob, fig, mesquite, olive, pomegranate, rosemary, prickl
 
 ## Guerilla Gardening
 
-The urban permaculture reader is subtitled "A Reader Compiled for the DIY Skillshare Conference" and includes the ethos of guerilla gardening — reclaiming neglected urban spaces for food production. This connects to the broader [[urban-permaculture-energy-cycling-principles]] principles of closing loops and creating self-sufficient local systems.
+The urban permaculture reader is subtitled "A Reader Compiled for the DIY Skillshare Conference" and includes the ethos of guerilla gardening — reclaiming neglected urban spaces for food production. This connects to the broader [[reciprocal-roof-frame]]
 
-## Irrigation and Water Management
-
-Rooftop gardens require careful water management. Containers on roofs dry out faster than ground-level gardens due to increased wind exposure and shallower soil profiles. Drip irrigation systems, self-watering containers, and rainwater collection from the roof surface itself can reduce water demands. Mulching container surfaces with straw, wood chips, or living ground covers significantly reduces evaporation. The principle of closing water loops -- capturing rainwater, using it for irrigation, and allowing excess to drain into rain gardens or greywater systems -- is fundamental to sustainable rooftop garden design.
-
-## See Also
-
-- [[reciprocal-roof-frame]]
-
-- [[urban-permaculture-energy-cycling-principles]] — energy cycling in urban settings
-- [[permaculture-design-principles]] — core design principles
-- [[food-forest-design]] — food forest concepts
+- [[permaculture-farm-design-principles]] — core design principles
 - [[cho-fermented-mixed-compost-methods]] — composting methods
 
 ## Related
 
-- [[urban-permaculture-design]]
-
 - [[urban-permaculture-cows-bamboo-integration]]
-
-- [[urban-permaculture-edge-effect-microclimate]]
 
 - [[urban-permaculture-fodder-trees-livestock]]
 
-- [[urban-permaculture-food-forest-succession]]
-
 - [[urban-permaculture-nitrogen-fixing-green-manures]]
-
-- [[urban-permaculture-rainwater-harvesting-graywater]]
 
 - [[urban-permaculture-swales-raised-beds]]
 

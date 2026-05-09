@@ -130,8 +130,6 @@ of fungal attack.
 
 ## See Also
 
-- [[dighton-fungal-biomass-production-aquatic-ecosystems]]
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[freshwater-fungi-ingoldian-spores]]
 - [[dighton-fungal-decomposition-nutrient-cycling]]
 - [[dighton-fungi-mangrove-coastal-ecosystems]]

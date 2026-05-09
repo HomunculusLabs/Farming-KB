@@ -1,24 +1,12 @@
-# Japan Narcotics Control Law Amendment Regulating [[psilocybin-containing-mushrooms-in-us]] ning Fungi (2002)
+# Japan Narcotics Control Law Amendment Regulating  ning Fungi (2002)
 ## Overview of the Regulatory Change
 On June 6, 2002, the Japanese government enacted a critical amendment to the Narcotics and Psychotropics
-Control Law that brought psilocybin- [[query-what-is-the-difference-between-psilocybin-and-psilocin]] in]]-containing fungi under formal legal regulation for the
-[[first-time-grower-common-mistakes]] in the nation's history.
-Prior to this amendment, dried [[psilocybin-mushrooms]] were sold openly in Japanese shops, head shops, and
+Control Law that brought psilocybin-  in-containing fungi under formal legal regulation for the
+ in the nation's history.
+Prior to this amendment, dried  were sold openly in Japanese shops, head shops, and
 through mail-order catalogs as legal "herbal products" or "aromatic herbs," despite containing significant
-quantities of the Schedule I [[controlled-substances-act-and-psychedelic-research]] psilocybin and psilocin.
-The 2002 amendment closed this regulatory loophole by specifically designating the fungi themselves as
-controlled substances, making the possession, cultivation, sale, [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] of psilocybin-containing
-mushrooms a criminal offense punishable by imprisonment and substantial fines under Japanese law.
-This legislative action represented a significant shift in Japan's drug control policy and had immediate
-practical consequences for both commercial mushroom vendors and the scientific community studying these
-organisms and their bioactive constituents.
-The Shirota, Hakamata, and Goda (2003) paper on the concise large-scale synthesis of psilocin and psilocybin
-explicitly references this regulatory change as a motivating factor for their work, noting that Japan
-regulated magic mushrooms in June 2002 and highlighting the consequent need for reliable analytical standards.
-## Background: The Popularity of Magic Mushrooms in Japan
-During the late 1990s and early 2000s, Japan developed one of the world's largest open markets for
-psilocybin-containing mushrooms, with an estimated 500 or more retail outlets selling dried mushroom
-products across th [[psilocybin-mushrooms-biology]] he 2002 ban.
+quantities of the Schedule I  [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] selling dried mushroom
+products across th  he 2002 ban.
 Several factors contributed to the popularity of psilocybin mushrooms in Japan during this period, including
 their relative affordability compared to other recreational substances, their natural and "organic" image
 that appealed to health-conscious consumers, and the widespread perception that they were legal and safe.
@@ -128,12 +116,16 @@ The synthesis demonstrates how regulatory imperatives can catalyze chemical inno
 practical methodologies that serve both the immediate forensic needs that motivated them and the longer-term
 scientific research programs that benefit from reliable access to well-characterized reference compounds.
 ## See Also
-- [[serotonin-receptor-interference-psychedelic-mechanism]]
-- [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
-- [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
+- 
+- 
+- 
 ## References
 - Shirota, O., Hakamata, W., and Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin. Journal of Natural Products, 66(8), 1120-1123.
 - Adlaf, E.M., et al. (2001). Mushroom use and associated factors. Canadian Journal of Public Health, 92(4), 277-281.
 - Japan Narcotics and Psychotropics Control Law, Amendment of June 6, 2002. Ministry of Health, Labour and Welfare.
 - United Nations Convention on Psychotropic Substances (1971). Schedule I listings for psilocybin and psilocin.
 - Tsujikawa, K., et al. (2003). Determination of psilocin and psilocybin in mushroom samples. Forensic Science International, 134(1), 72-79.
+
+## See Also
+- [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]

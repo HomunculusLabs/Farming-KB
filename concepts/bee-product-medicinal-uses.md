@@ -1,13 +1,13 @@
 ---
-title: bee product medicinal uses
+title: Bee Product Medicinal Uses
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, medicine, health, animal-husbandry, nutrition]
+tags: [homesteading, medicine, health, animal-husbandry, nutrition]
 sources: []
 ---
 
-# bee product medicinal uses
+# Bee Product Medicinal Uses
 
 Honey bees produce several products with documented medicinal properties.
 Beyond honey's well-known antibacterial effects, propolis, pollen, royal
@@ -78,7 +78,7 @@ source and region.
 ### Medicinal Properties
 - **Antibacterial** — active against Gram-positive bacteria including
   Staphylococcus aureus and Streptococcus species
-- **Antifungal** — effective against [[candida-albicans]] and dermatophytes
+- **Antifungal** — effective against Candida albicans and dermatophytes
 - **Antiviral** — shows activity against influenza and herpes simplex virus
 - **Anti-inflammatory** — inhibits prostaglandin and leukotriene synthesis
 - **Antioxidant** — flavonoids scavenge free radicals
@@ -144,7 +144,46 @@ mandibular glands.
 - **Neuroprotective** — animal studies show improved cognitive function
   and protection against neurodegenerative diseases
 - **Anti-inflammatory** — reduces inflammatory markers in vitro
-## See Also
-Related: [[bee-products-beyond-honey]], [[holzer-beekeeping-and-honey-production]]
+- **Antioxidant** — significant free radical scavenging activity
+- **Wound healing** — promotes fibroblast migration and collagen synthesis
+- **Cholesterol** — some evidence for LDL reduction
 
-- [[palmer-medicinal-mushroom-uses-historical]]
+### Applications
+- **Fresh royal jelly** — most potent; must be refrigerated
+- **Lyophilized (freeze-dried)** — stable at room temperature; retain most
+  bioactivity
+- **Tinctures and capsules** — standardized preparations available
+- **Topical** — in skin creams for anti-aging and wound healing
+
+### Safety
+- Allergic reactions possible, especially in those with bee allergies
+- Can interact with warfarin and other blood thinners
+- Not recommended during pregnancy
+
+## Beeswax
+
+While less therapeutically active than other bee products, beeswax has
+medicinal and health applications:
+
+- **Skin barrier** — forms protective, breathable layer on skin; used in
+  salves and balms
+- **Anti-inflammatory** — mild anti-inflammatory properties when applied
+  topically
+- **Carrier for herbs** — excellent base for herbal salves (calendula,
+  plantain, comfrey)
+- **Allergy relief** — beeswax candles release negative ions and do not
+  produce soot; better for indoor air quality than paraffin
+
+## Quality and Sourcing
+
+For medicinal use, source bee products from reputable beekeepers who use
+sustainable practices. Raw, unprocessed products retain the highest levels
+of bioactive compounds. See [[beekeeping-problems-and-solutions]] for
+understanding how chemical treatments may affect product purity.
+
+For harvesting and processing these products, see
+[[honey-extraction-and-processing]].
+
+## See Also
+
+- [[gourmet-medicinal-mushroom-spawn-grain-production]]

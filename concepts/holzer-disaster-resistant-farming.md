@@ -84,11 +84,7 @@ This demonstrates that the principles -- diversity, observation, working with na
 
 ## See Also
 
-- [[holzer-farming-philosophy]]
 - [[regenerative-agriculture-history]]
-- [[permaculture-design]]
 - [[holzer-water-landscapes]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[holzer-livestock-philosophy-pig-breeds]]
 - [[holzer-thailand-permaculture-project]]

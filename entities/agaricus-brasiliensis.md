@@ -128,18 +128,10 @@ Generally recognized as safe when consumed as food; no serious adverse effects r
 
 ## See Also
 
-- [[agaricus-bisporus]]
-
 - [[agaricus-blazei]]
-
-- [[agaricus-subrufescens]]
 
 - [[lentinula-edodes]]
 
-- [[ganoderma-lucidum]]
-
-- [[trametes-versicolor]]
-
-- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]]
+- [[trametes-versicolor-entity]]
 
 - [[medicinal-mushroom-extraction-preparation]]

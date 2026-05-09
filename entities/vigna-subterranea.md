@@ -115,11 +115,7 @@ Several wild Vigna species in Africa serve as genetic resources for breeding pro
 
 ## See Also
 
-- [[vigna-unguiculata]]
 - [[cajanus-cajan]]
-- [[vigna-radiata]]
 - [[cicer-arietinum]]
-- [[lens-culinaris]]
 - [[phaseolus-vulgaris]]
-- [[sorghum-bicolor]]
 - [[pennisetum-glaucum]]

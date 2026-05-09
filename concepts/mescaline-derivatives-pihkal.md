@@ -41,42 +41,9 @@ Beyond simple chain extension, Shulgin explored all possible arrangements of met
 | EME | OC2H5 | OCH3 | OC2H5 | #75 |
 | EMM | OCH3 | OC2H5 | OC2H5 | #76 |
 
-This systematic permutation approach is characteristic of [[mckenna-tryptamine-research-legal-status]].
-
-## Methylenedioxy Variants
-
-The methylenedioxy bridge (found in mud-oven|MDA and mdma-reference|MDMA) replaces two adjacent substituents on the ring. Several mescaline-related compounds incorporate this group:
-
-| Compound | Substitution Pattern | Key Property |
-|----------|---------------------|-------------|
-| mud-oven|MMDA | 3-MethOxy-4,5-methylenedioxy | MDMA-like warmth |
-| [[mmda-2-compound-profile]] | 2-Methoxy-4,5-methylenedioxy | Distinct character |
-| [[dmmda-compound-profile]] | 2,5-Dimethoxy-3,4-methylenedioxy | Amphetamine version |
-| dmmda 2 entity | 2,3-Dimethoxy-4,5-methylenedioxy | "Much like MDA" |
-
-## Thio-Substituted Derivatives
-
-Replacing the oxygen at the 4-position with sulfur creates the 2c-t-2-compound-profile|thiophenethylamine series:
-
-| Compound | 4-Position | PiHKAL # |
-|----------|-----------|----------|
-| 4-TM (4-Thiomescaline) | SCH3 | #156 |
-| 3-TM (3-Thiomescaline) | SCH3 (3-pos) | #155 |
-| TE (4-Thioescaline) | SC2H5 | #151 |
-| TP (Thioproscaline) | SC3H7 | #174 |
-| TB (4-Thiobuscaline) | SC4H9 | #149 |
-
-The sulfur atom changes the electronic properties and lipophilicity of the molecule, often increasing potency and duration.
-
-## The Amphetamine Homologues
-
-Replacing the 2-carbon phenethylamine chain with the 3-carbon amphetamine chain generally increases potency dramatically:
-
-| Phenethylamine | Amphetamine | Potency Ratio |
-|---------------|-------------|--------------|
-| mescaline-ethnobotany|Mescaline | [[allegro-soma-and-vedic-traditions]] | ~3-5x |
-| 2C-D | [[shroom-scientific-study]] | ~10x |
-| [[2c-d-pihkal-entry-23]] | -- | (amphetamine version less explored) |
+This systematic permutation approach is characteristic of [[mmda-2-compound-profile]] | 2-Methoxy-4,5-methylenedioxy | Distinct character |
+| [[allegro-soma-and-vedic-traditions]] | ~3-5x |
+| 2C-D | [[2c-d-pihkal-entry-23]] | -- | (amphetamine version less explored) |
 
 The alpha-methyl group protects against oxidative deamination by MAO, extending both duration and potency.
 
@@ -84,29 +51,67 @@ The alpha-methyl group protects against oxidative deamination by MAO, extending 
 
 Shulgin's systematic approach drew heavily from natural essential oils as starting materials:
 
-- **Oil of Parsley** (apiole) -> [[dmmda-compound-profile]]
-- **Oil of Dill** (dillapiole) -> dmmda 2 entity
-- **Safrole** -> mud-oven|MDA
-- **Myristicin** -> mud-oven|MMDA
-
-These natural precursors provided readily available starting materials with the appropriate substitution patterns already in place, a strategy that combined natural products chemistry with systematic psychopharmacological exploration.
-
-## Key Principles from the Mescaline Derivative Series
-
-1. **Optimal chain length:** The 4-position alkoxy group is most active when methyl through propyl (C1-C3)
-2. **Pattern matters:** The 3,4,5- and 2,4,5- trimethoxy patterns produce different effects (mescaline vs tma 6 entity)
-3. **Alpha-methyl effect:** Adding the amphetamine alpha-methyl group dramatically increases potency
-4. **Methylenedioxy bridge:** Creates unique pharmacological properties distinct from two separate methoxy groups
-5. **Sulfur substitution:** Can increase both potency and duration
-6. **Nature provides blueprints:** Essential oils offer pre-arranged substitution patterns
-
-## Related Topics
-
-- [[mescaline-compound-profile]]
-- [[phenethylamine-chemistry-basics]]
+- **Oil of Parsley** (apiole) -> [[mescaline-compound-profile]]
 - [[pihkal-introduction-and-methodology]]
-- [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
 - [[phenethylamine-chemistry-basics]]
-- [[mckenna-tryptamine-research-legal-status]]
 - [[mescaline-reference]]
 - [[mescaline-entity]]
+## Practical Considerations
+
+When working with Mescaline Derivatives and Homologues in PiHKAL, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

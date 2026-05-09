@@ -5,16 +5,9 @@ source_id: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [mycelium, network-analysis, graph-theory, resilience, fungal-networks, foraging, resource-distribution, biological-networks]
 created: 2026-05-08
 ---
-
 # Mycelial Network Resilience and Graph Theory Analysis
 
-Fungal mycelia are among the most complex biological networks in nature. A single fungal colony can extend over thousands of square meters, with interconnected hyphal branches forming a branching network that forages for nutrients, transports resources, and responds to damage. Researchers have applied graph theory — the mathematical study of networks — to quantify the structural properties of mycelial networks and assess their resilience to disturbance. This approach, documented extensively in Gadd et al.'s "Fungi in the Environment," reveals that fungal networks exhibit remarkable structural optimization and damage tolerance.
-
-## Why Study Mycelial Networks?
-
-Mycelial networks face the fundamental challenge of all transport networks: efficiently connecting resource locations (nutrient-rich patches) while maintaining connectivity when parts of the network are damaged. Unlike engineered networks designed by humans, mycelial networks grow organically without a central blueprint, yet they achieve structural properties that compare favorably to optimized theoretical models. Understanding how fungi build and maintain resilient networks has implications for fields ranging from ecology to computer science and transportation engineering.
-
-The model organism for much of this research is **Phanerochaete velutina**, a wood-decaying basidiomycete that produces extensive mycelial cords — thick, differentiated hyphal bundles that function as high-capacity transport pathways. P. velutina grows outward from a resource base (usually a wood block) across inert surfaces, exploring for new resources and forming network connections when resources are encountered.
+Fungal mycelia are among the most complex biological networks [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]. P. velutina grows outward from a resource base (usually a wood block) across inert surfaces, exploring for new resources and forming network connections when resources are encountered.
 
 ## Network Representation
 
@@ -118,7 +111,8 @@ Mycelial network structure changes significantly over time as the colony grows a
 
 ## See Also
 
-- [[fungal-bioweathering-and-mineral-transformations|Fungal Bioweathering and Mineral Transformations]]
-- [[mycelial-cord-formation-and-function|Mycelial Cord Formation and Function]]
-- [[wood-decay-fungi-ecology|Wood Decay Fungi Ecology]]
 - [[biological-network-theory|Biological Network Theory]]
+
+## See Also
+
+- [[mycelial-network-nutrient-transport-imaging-gadd]]

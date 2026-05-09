@@ -1,7 +1,7 @@
 ---
 title: "Stock Culture Preservation Methods"
 created: 2026-04-28
-tags: [mycology, strain-preservation, culture-storage, slant-culture,
+tags: [[mycology]], strain-preservation, culture-storage, slant-culture,
       mushroom-cultivator, strain-vitality]
 date: 2026-04-25
 updated: 2026-04-25
@@ -14,15 +14,7 @@ type: concept
 Once a pure strain has been created and isolated, saving it as a
 "stock culture" is essential for long-term cultivation success. Stock
 cultures, commonly called "slants," are media-filled glass test tubes
-sterilized and inoculated with mushroom [[mycelium]]. Every experienced
-cultivator maintains a collection of stock cultures known as a
-"species bank," which is an integral part of the cultivation process.
-
-## Preparing Slants
-
-### Materials
-- Glass test tubes, 20 mm x 100 mm, with screw caps
-- Any of the standard [[mushroom-cultivator-agar-media-formulas]] discussed by Stamets and Chilton
+sterilized and inoculated with mushroom [[mushroom-cultivator-agar-media-formulas]] discussed by Stamets and Chilton
 
 ### Procedure
 1. Mix the chosen agar media formula
@@ -110,18 +102,7 @@ Four additional methods are described in the Mushroom Cultivator:
    manure/straw compost kept at 36-38 degrees Fahrenheit
 3. **Sawdust/bran storage**: Inoculation of sawdust/bran media for
    wood decomposer species (see wood-based substrates)
-4. **Spore storage**: Saving spores aseptically under refrigerated
-   conditions, perhaps the simplest method for home cultivators
-
-## Strain Degeneration Warning
-
-The mushroom's nature is to fruit, sporulate, and evolve. Cultivation
-techniques should evolve with the mushroom. The cultivator must
-selectively isolate and maintain promising strains as they develop.
-It should not be surprising if five years down the line a stored
-strain poorly resembles the original in its fruiting potential or
-form. For detailed guidance on identifying and selecting vigorous
-strains, see [[mushroom-cultivator-strain-selection]].
+4. **[[mushroom-cultivator-strain-selection]].
 
 ## Key Considerations
 

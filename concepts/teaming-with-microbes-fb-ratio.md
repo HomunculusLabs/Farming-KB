@@ -10,7 +10,7 @@ sources:
 
 # Teaming with Microbes — The Fungal to Bacterial Ratio
 
-In *Teaming with Microbes*, Lowenfels and Lewis present Dr. Elaine Ingham's research on the [[bioremediation-fungal-biomass-biosorbent-material]] as one of the most important concepts for gardening with the [[lowenfels-earthworms-soil-food-web]].
+In *Teaming with Microbes*, Lowenfels and Lewis present Dr. Elaine Ingham's research on the [[lowenfels-earthworms-soil-food-web]].
 
 ## The Discovery
 
@@ -62,11 +62,11 @@ Rototilling has a devastating effect on the F:B ratio:
 - Each tilling resets the soil toward early succession (bacterial dominance)
 - This is why trees and perennials struggle in repeatedly tilled soils
 
-See also: [[bacterial-vs-fungal-soil]], [[teaming-with-microbes-fungi]], [[teaming-with-microbes-bacteria]], [[soil-food-web-structure]]
+See also: [[teaming-with-microbes-fungi]], [[soil-food-web-structure]]
 
 ## See Also
 
-[[teaming-with-microbes-bacteria]], [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-protozoa]], [[teaming-with-microbes-compost-mulch-tea]], [[teaming-with-microbes-classic-soil-science]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fungi]]
+[[teaming-with-microbes-nematodes]], [[teaming-with-microbes-protozoa]], [[teaming-with-microbes-classic-soil-science]], [[teaming-with-microbes-fungi]]
 
 ## Research Background
 
@@ -111,11 +111,7 @@ For the gardener, the best way to classify nematodes is by their eating habits. 
 
 Plant-parasitic nematodes have needle-like stylets that enable them to puncture plant cell walls with ease. Some are ectoparasitic (feeding on the root surface), while others are endoparasitic (entering into the root to feed). They can create lesions in the root as well as cysts and large bulges that gardeners refer to as root knots. Obviously, nematodes that eat roots do not help the crop.
 
-See also: [[nematode-management]]
-
-### Bacterivores
-
-Bacterivores eat [[teaming-with-microbes-bacteria]]. Their specialized mouthpart is usually a hollow tube. A bacteria-eating nematode can consume multitudes of tiny bacteria in an hour.
+See also: [[teaming-with-microbes-bacteria]]. Their specialized mouthpart is usually a hollow tube. A bacteria-eating nematode can consume multitudes of tiny bacteria in an hour.
 
 ### Fungivores
 

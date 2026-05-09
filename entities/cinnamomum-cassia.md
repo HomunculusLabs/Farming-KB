@@ -26,24 +26,7 @@ sources:
 
 ## Overview
 
-Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, is an evergreen tree in the family Lauraceae. It is the source of the most widely consumed cinnamon product in the world — the thick, rough bark quills sold as "cinnamon" in most North American and European markets. Native to southern China and mainland [[fungi-of-southeast-asia]], C. cassia has been used for over 4,000 years in Chinese medicine (as "Rou Gui" 桂枝/肉桂) and remains one of the most economically important spice trees globally. The bark, twigs, leaves, and buds all have commercial applications, yielding [[essential-oils-and-hydrosol-distillation]] rich in cinnamaldehyde and coumarin.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Angiospermae
-- **Class:** Magnoliopsida
-- **Order:** Laurales
-- **Family:** Lauraceae
-- **Genus:** Cinnamomum
-- **Species:** C. cassia (Nees & T. Nees) J. Presl (1825)
-
-- *Cinnamomum aromaticum* Nees (1836) — widely used synonym
-- *Laurus cinnamomum* L. (1753) — pre-Linnaean usage
-
-### Key Distinction from Cinnamomum verum
-
-C. cassia (cassia) and C. verum (Ceylon cinnamon) are the two most [[commercially-important-pleurotus-species-cultivation-guide]] cinnamon species:
+Cinnamomum cassia, known as Chinese cassia, Chinese cinnamon, or simply cassia, is an evergreen tree in the family Lauraceae. It is the source of the most widely consumed cinnamon product in the world — the thick, rough bark quills sold as "cinnamon" in most North American and European markets. Native to southern China and mainland [[commercially-important-pleurotus-species-cultivation-guide]] cinnamon species:
 
 - **Bark:** Cassia — thick (2–5 mm), hard, rough, single-layer quills; Ceylon — thin (0.5–1 mm), papery, multi-layered cigar-like quills.
 - **Flavor:** Cassia — bold, pungent, strongly sweet with harsh heat; Ceylon — delicate, warm, complex with citrus notes.
@@ -54,23 +37,7 @@ C. cassia (cassia) and C. verum (Ceylon cinnamon) are the two most [[commerciall
 
 ### Vegetative Description
 
-- **Growth habit:** Medium-sized evergreen tree, 10–15 m tall [[mushroom-flies-in-cultivation]], up to 20 m in the wild. Dense, rounded crown. Aromatic all parts.
-- **Trunk:** Diameter 30–60 cm at maturity. Bark grey-brown, rough and fissured on mature trees, smooth on young branches. The commercial bark is stripped from branches and young stems, not the main trunk.
-- **Leaves:** Alternate, leathery, ovate to elliptic-lanceolate, 8–20 cm × 4–8 cm, with 3 prominent longitudinal veins (trinerved). Upper surface dark glossy green, lower paler and densely pubescent when young. Margin entire. Strongly aromatic when crushed.
-- **Young shoots:** Covered with fine rusty-brown pubescence, becoming glabrous.
-
-### Reproductive Structures
-
-- **Inflorescence:** Axillary or terminal panicles, 5–15 cm long, pubescent, bearing 5–15 flowers.
-- **Flowers:** Small, 4–6 mm, bisexual, creamy white to pale yellow. Perianth of 6 tepals in 2 whorls, pubescent externally. Stamens 9 in 3 whorls; third whorl with paired glandular appendages.
-- **Fruit:** Drupe, ellipsoidal to ovoid, 1–1.5 cm, dark purple to black when ripe, seated in cup-shaped perianth tube.
-- **Seed:** Single, ellipsoidal, 8–10 mm, brown, hard-shelled.
-- **Flowering:** March–May; fruiting August–October. Pollinated by small flies and bees.
-
-## Distribution and Habitat
-
-- **Native range:** Southern China (Guangxi, Guangdong, Yunnan, Guizhou, Fujian, Hainan), northern Vietnam, Laos, Myanmar. Guangxi produces ≈80% of world supply.
-- **Naturalized/cultivated:** Widely planted in tropical Asia (Indonesia, India, Sri Lanka, Bangladesh, Thailand, Cambodia, Japan), East Africa (Madagascar, Tanzania, Kenya), [[gartz-magic-mushrooms-species-south-america]] (Brazil, Ecuador), and Caribbean.
+- **Growth habit:** Medium-sized evergreen tree, 10–15 m tall [[gartz-magic-mushrooms-species-south-america]] (Brazil, Ecuador), and Caribbean.
 - **Elevation:** 100–500 m native; cultivated from sea level to 1,000 m.
 - **Climate:** Requires warm, humid tropical to subtropical conditions. Optimal temperature 20–30°C. Tolerates brief light frost but not sustained freezing. Annual rainfall requirement: 1,250–2,500 mm, with a distinct dry season preferred for bark harvesting.
 - **Soil:** Prefers deep, fertile, well-drained sandy loam to loam soils, slightly acidic (pH 5.5–6.5). Tolerates poor soils but bark quality suffers. Does not tolerate waterlogging.
@@ -142,9 +109,7 @@ The most clinically significant modern application of C. cassia is its role in g
 - **Pollinator support:** Flowers provide dry-season nectar for bees; cassia honey is a valued product.
 - **Windbreak:** Dense, evergreen foliage effective for crop protection.
 - **Yield:** Bark harvested from year 3–4, every 2–3 years. 2–5 kg dried bark per harvest per tree. Trees productive for 40–60 years.
-
 ## See Also
 
-- [[cinnamomum-verum]] — Ceylon cinnamon, the "true cinnamon" with lower coumarin content
 - [[eugenia-bone]] — Clove, sharing eugenol chemistry and antimicrobial properties
 - [[zingiber-officinale]] — Ginger, companion spice in five-spice powder and chai

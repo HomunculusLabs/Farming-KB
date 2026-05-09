@@ -103,10 +103,6 @@ The minimal technology approach extends to all aspects of the design: no automat
 
 ## See Also
 
-- [[coleman-greenhouse-ventilation-design]]
-
 - [[coleman-winter-harvest-philosophy]] — The movable greenhouse concept
-- [[coleman-protected-cultivation]] — Inner layer and row-cover systems
 - [[coleman-greenhouse-soil-management]] — Soil preparation for greenhouse growing
-- [[coleman-succession-planting]] — Timing strategies for continuous harvest
 - [[coleman-cold-hardy-varieties]] — Crops suited to unheated winter production

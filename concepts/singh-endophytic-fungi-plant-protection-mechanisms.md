@@ -72,9 +72,7 @@ and heavy metal stress through multiple mechanisms:
 - **Antioxidant enhancement**: Endophyte-colonized plants show elevated
   activities of superoxide dismutase, catalase, peroxidase, and glutathione
   reductase, reducing oxidative damage under stress conditions. See also
-  [[singh-mycorrhizal-response-under-salinity-stress]] for parallel mechanisms
-  in mycorrhizal fungi.
-- **Hormonal modulation**: Endophytes produce [[singh-fungal-plant-growth-regulators-production]] including auxins, gibberellins, and abscisic acid
+  [[singh-fungal-plant-growth-regulators-production]] including auxins, gibberellins, and abscisic acid
   analogs that modulate host stress responses. ABA-like compounds from
   endophytes can trigger stomatal closure to reduce water loss during drought.
 - **Root architecture modification**: Endophyte-produced auxins stimulate
@@ -99,11 +97,7 @@ pathogens through several strategies:
 - **Mycoparasitism**: Some endophytes exhibit direct antagonism against plant
   pathogens through hyphal coiling, penetration, and enzymatic degradation of
   pathogen cell walls, similar to Trichoderma biocontrol mechanisms described
-  in [[singh-trichoderma-biocontrol-mechanisms-applications]].
-
-## Bioremediation Applications
-
-Endophytic fungi contribute to [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] by enhancing plant growth on contaminated soils while directly
+  in [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] by enhancing plant growth on contaminated soils while directly
 degrading organic pollutants. Root endophytes from contaminated sites often
 show higher tolerance and degradation capacity for specific contaminants,
 suggesting adaptive selection. Endophytes can also transform heavy metals to
@@ -111,9 +105,6 @@ less bioavailable forms within root tissues.
 
 ## Related
 
-- [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]] Concepts
-
 - [[singh-fungal-plant-growth-regulators-production]]
-- [[singh-mycorrhizal-response-under-salinity-stress]]
 - [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
 - [[singh-trichoderma-biocontrol-mechanisms-applications]]

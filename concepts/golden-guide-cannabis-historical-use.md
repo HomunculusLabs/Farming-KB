@@ -35,108 +35,65 @@ Classification of Cannabis is disputed by botanists. The plant is sometimes
 placed in the fig or mulberry family (Moraceae) or the nettle family
 (Urticaceae), but it is now usually separated, together with the hop plant
 (*Humulus*), into a distinct family: Cannabaceae. It has been widely thought
-that there is one species, *[[cannabis-sativa]]*, which has developed many
-"races" or "varieties." Current research indicates that there may be other
-species: *C. indica* and *C. ruderalis*. All Cannabis is native to central
-Asia.
-
-## Ancient History of Use
-
-History of Cannabis use dates to ancient times. Hemp fabrics from the late
-8th century B.C. have been found in Turkey. Specimens have turned up in an
-Egyptian site nearly 4,000 years of age. In ancient Thebes, the plant was
-made into a drink with opium-like effects. The Scythians, who threw cannabis
-seeds and leaves on hot stones in steam baths to produce an intoxicating
-smoke, grew the plant along the Volga 3,000 years ago. Chinese tradition puts
-the use of the plant back 4,800 years.
-
-Indian medical writing, compiled before 1000 B.C., reports therapeutic uses
-of cannabis. That the early Hindus appreciated its intoxicating properties is
-attested by such names as "heavenly guide" and "soother of grief." The
-Chinese referred to cannabis as "liberator of sin" and "delight giver." The
-Greek physician Galen wrote, about A.D. 160, that general use of hemp in
-cakes produced narcotic effects. In 13th century Asia Minor, organized
-murderers, rewarded with hasheesh, were known as hashishins, from which may
-come the term assassin in European languages.
-
-Objects connected with the use of cannabis were found in frozen tombs of the
-ancient Scythians in the Altai Mountains. The small, tepee-like structure was
-covered with a felt or leather mat and stood over a copper censer. Carbonized
-hemp seeds were found nearby. The Scythian custom of breathing cannabis fumes
-in the steam bath was mentioned about 500 B.C. by the Greek naturalist
-Herodotus.
-
-## Medicinal Value
-
-The medicinal value of Cannabis has been known for centuries. Its long
-history of use in folk medicine is significant, and it has been included
-more recently in Western pharmacopoeias. It was listed in the United States
-Pharmacopoeia until the 1930s as valuable, especially in the treatment of
-hysteria. The progress made in modern research encourages the belief that so
-prolific a chemical factory as Cannabis may indeed offer potential for new
-medicines.
-
-## Chemistry
-
-The chemistry of Cannabis is complex. Many organic compounds have been
-isolated, some with narcotic properties and others without. A fresh plant
-yields mainly cannabidiolic acids, precursors of the tetrahydrocannabinols
-and related constituents, such as cannabinol, cannabidiol,
-tetrahydrocannabinol-carboxylic acid, stereoisomers of
-tetrahydrocannabinol, and cannabichromene.
-
-It has been demonstrated that the main effects are attributable to delta-1-
-tetrahydrocannabinol (THC). The tetrahydrocannabinols, which form an oily
-mixture of several isomers, are non-nitrogenous organic compounds derived
-from terpenes. They are not alkaloids, although traces of alkaloids have
-been reported in the plant. Until recently, little was known about the
-effects of pure tetrahydrocannabinol on man. Controlled studies are now
-possible with the recent synthesis of the compound, a major advance in
-studying the mechanism of physiological activity of this intoxicant.
-
-## Methods of Use
-
-Methods of using Cannabis vary. In the New World, marihuana (maconha in
-Brazil) is smoked, the dried, crushed flowering tips or leaves, often mixed
-with tobacco in cigarettes, or "reefers." Hasheesh, the resin from the
-female plant, is eaten or smoked, often in water pipes, by millions in Moslem
-countries of northern Africa and western Asia. Asiatic Indians regularly
-employ three preparations narcotically: bhang consists of plants gathered
-green, dried, and made into a drink with water or milk or into a candy
-(majun) with sugar and spices; charas, normally smoked or eaten with spices,
-is pure resin; ganjah, usually smoked with tobacco, consists of resin-rich
-dried tops from the female plant.
-
-## Effects
-
-Effects of Cannabis are highly variable from person to person and from one
-plant strain to another. This variability comes mainly from the unstable
-character of some of the constituents. Over time, the inactive cannabidiolic
-acid converts to active tetrahydrocannabinols and eventually to inactive
-cannabinol, such chemical changes usually taking place more rapidly in
-tropical than in cooler climates.
-
-The principal narcotic effect is euphoria. Everything from a mild sense of
-ease and well-being to fantastic dreams and visual and auditory hallucinations
-are reported. Beautiful sights, wonderful music, and aberrations of sound
-often entrance the mind; bizarre adventures to fill a century take place in
-a matter of minutes. Soon after taking the drug, a subject may find himself
-in a dreamy state of altered consciousness. Normal thought is interrupted,
-and ideas are sometimes plentiful though confused. A feeling of exaltation
-and inner joy may alternate with feelings of depression and panic. Perception
-of time is almost invariably altered.
-
-Whether cannabis should be classified primarily as a stimulant or depressant
-or both has never been determined. The drug's activities beyond the central
-nervous system seem to be secondary, consisting of a rise in pulse rate and
-blood pressure, tremor, vertigo, difficulty in muscular coordination,
-increased tactile sensitivity, and dilation of the pupils. Although
-cannabis is definitely not addictive, psychological dependence may often
-result from continual use of the drug.
-
-## See Also
-
-- [[golden-guide-hallucinogenic-plants-overview]]
-- [[golden-guide-datura-and-nightshade-deliriants]]
+that there is one species, *[[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
 - [[golden-guide-peyote-and-mescaline-cacti]]
+## Practical Considerations
+
+When working with Golden Guide: Cannabis Historical Use and Chemistry, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

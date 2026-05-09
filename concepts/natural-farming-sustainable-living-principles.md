@@ -136,11 +136,7 @@ ecosystem that cares for itself.
 
 ## Related Concepts
 
-- [[permaculture-design-course-methodology]]
 - [[zone-and-sector-analysis]]
-- [[succession-in-permaculture]]
-- ecological succession
 - [[swale-design-construction]]
-- [[soil-food-web]]
 - [[urban-permaculture-design]]
 - [[biointensive-gardening-overview]]

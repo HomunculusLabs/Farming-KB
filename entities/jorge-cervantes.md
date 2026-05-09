@@ -125,10 +125,7 @@ Cervantes' strongest domain is cultivation practice, while Clarke's strongest do
 
 ## See Also
 
-- [[robert-connell-clarke]]
 - [[cannabis-botany-and-taxonomy]]
-- [[cervantes-cloning]]
 - [[cervantes-flowering-phase]]
-- [[cervantes-seed-germination]]
 - [[cervantes-spider-mites-identification-control]]
 - [[cervantes-hash-cannabis-oil-production]]

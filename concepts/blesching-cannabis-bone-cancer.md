@@ -57,33 +57,9 @@ This study was particularly significant because it demonstrated that a CB2-targe
 
 ### Study 2: Anandamide and Bone Cancer Pain (University of Minnesota, 2008)
 
-Researchers at the University of Minnesota investigated the role of endogenous cannabinoids, specifically [[anandamide-aea]], on pain associated with bone cancer in a rodent model. The study found a direct correlation between anandamide levels and pain experience:
+Researchers at the University of Minnesota investigated the role of endogenous cannabinoids, specifically [[cannabidiol-cbd]] has a greater affinity for CB2 receptors than for CB1 receptors. This pharmacological profile makes cbd-rich strains particularly relevant for bone cancer applications.
 
-- Higher levels of anandamide were associated with reduced bone cancer pain
-- Lower levels of anandamide corresponded to increased pain
-
-The researchers concluded that "the data provide evidence that manipulation of peripheral endocannabinoid signaling is a promising strategy for the management of bone cancer pain." This finding suggests that enhancing the body's own endocannabinoid production, rather than relying solely on exogenous cannabinoids, could be a viable therapeutic approach.
-
-### Study 3: Cannabinoid Receptors and Bone Disorders (University of Edinburgh, 2008)
-
-British scientists conducted a comprehensive review of the existing literature on cannabinoids and bone disorders. Their analysis supported the broader conclusion that "cannabinoid receptor ligands show a great promise in the treatment of bone diseases associated with accelerated osteoclastic bone resorption, including osteoporosis, rheumatoid arthritis, and bone metastasis."
-
-This review was significant because it extended the implications beyond bone cancer specifically to encompass the wider category of bone metastasis and other conditions involving excessive osteoclast activity. The mention of osteoporosis and rheumatoid arthritis alongside bone metastasis suggests a common mechanistic pathway involving CB2-mediated osteoclast regulation.
-
-## Study Summary Table
-
-| Drug | Study Type | Year, Location, Key Results | CHI |
-|---|---|---|---|
-| AM1241 | Animal (murine) | 2010, University of Arizona: Reduction in pain, fractures, and bone loss | 2 |
-| Anandamide (AEA) | Animal (mice) | 2008, University of Minnesota: Higher anandamide reduced pain | 2 |
-| Endocannabinoid system | Review | 2008, University of Edinburgh: CB receptors show promise in bone metastasis | 4 |
-| | | **Total CHI Value** | **8** |
-
-## Strain-Specific Considerations
-
-The animal studies from Arizona employed the CB2-stimulating synthetic cannabinoid AM1241. For patients seeking plant-based alternatives, [[cannabidiol-cbd]] has a greater affinity for CB2 receptors than for CB1 receptors. This pharmacological profile makes cbd-rich strains particularly relevant for bone cancer applications.
-
-[[calocybe-indica]] strains tend to have relatively less [[tetrahydrocannabinol-thc]] and relatively more CBD and [[cannabinol-cbn]], thus favoring CB2 signaling. Patients considering cannabis for bone cancer should discuss CB2-predominant strain options with their healthcare provider, as the therapeutic goal is to maximize CB2 activation for bone-protective and analgesic effects while minimizing CB1-mediated psychoactivity.
+[[tetrahydrocannabinol-thc]] and relatively more CBD and [[cannabinol-cbn]], thus favoring CB2 signaling. Patients considering cannabis for bone cancer should discuss CB2-predominant strain options with their healthcare provider, as the therapeutic goal is to maximize CB2 activation for bone-protective and analgesic effects while minimizing CB1-mediated psychoactivity.
 
 ## Mechanism of Action
 

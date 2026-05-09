@@ -119,7 +119,7 @@ nourish essence and blood, and moisten the intestines.
 
 Primary indications include impotence, premature ejaculation, lower back and
 knee pain, female infertility, and constipation in the elderly. It is often
-combined with [[cuscuta-chinensis]], [[cistanche-tubulosa]], and other
+combined with [[cistanche-tubulosa]], and other
 kidney-yang tonics.
 
 In Mongolian medicine, it is considered one of the three most important
@@ -138,13 +138,8 @@ Cultivation efforts have been initiated in northwestern China, with
 artificial inoculation of host plants showing promise for sustainable
 production. However, the complex host-parasite relationship makes large-scale
 cultivation challenging.
-
 ## See Also
 
-- [[cistanche-tubulosa]]
-- cistanche deserticola
 - [[astragalus-membranaceus]]
-- [[panax-ginseng]]
 - [[cuscuta-chinensis]]
-- [[glycyrrhiza-uralensis]]
 - [[withania-somnifera]]

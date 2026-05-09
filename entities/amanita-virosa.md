@@ -108,13 +108,8 @@ The species serves as a primary teaching specimen in mycology courses worldwide,
 
 ## See Also
 
-- [[amanita-phalloides]] — death cap, the other major amatoxin-containing Amanita
 - [[amanita-pantherina]] — related Amanita with different toxicity profile
-- [[amanita-muscaria]] — iconic Amanita with muscimol/ibotenic acid
 - [[muscimol-entity]] — GABAergic psychoactive compound from A. muscaria
-- [[amanita-gemmata]] — another white-gilled Amanita species
 - [[alpha-amanitin]] — the primary lethal toxin
-- [[galerina-marginata]] — non-Amanita species that also contains amatoxins
 - [[amanita-poisoning-identification-antidotes-palmer]] — clinical management guide
-- [[amanita-muscaria-pharmacology]] — comparative Amanita toxicology
 - [[volvariella-volvacea]] — edible lookalike responsible for misidentifications

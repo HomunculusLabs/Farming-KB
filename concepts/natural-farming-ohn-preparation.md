@@ -124,8 +124,6 @@ The ginger-garlic combination serves as a natural antibiotic for plants and anim
 
 ## See Also
 
-- [[natural-farming-lab-preparation]]
 - [[natural-farming-knf-overview]]
-- [[natural-farming-fpj-preparation]]
 - [[knf-fermented-fruit-juice]]
 - [[ginger-garlic-extract-bionutrient]]

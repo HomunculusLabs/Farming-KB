@@ -117,8 +117,6 @@ environment.
 
 ## See Also
 
-- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-natural-farming-philosophy]]
-- [[fukuoka-straw-vegetable-growing]]
 - [[fukuoka-straw-rice-without-plowing]]
 - [[fukuoka-straw-mandala-orchard-design]]

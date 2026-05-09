@@ -118,14 +118,7 @@ Incompatible with JWA (poor foam, clotting):
 
 ## See Also
 
-- [[jadam-wetting-agent-jwa]] -- making the wetting agent
 - [[jadam-natural-pesticide-jnp]] -- complete pesticide recipes
-- [[jadam-pest-control-recipes]] -- crop-specific pest control
-
-## Related
-
 - [[jadam-canola-oil-surfactant-method]]
-- [[jadam-foam-gun-pesticide-method]]
 - [[jadam-natural-pest-control-methods]]
-- [[knf-pest-control-and-soap-water]]
 - [[jadam-fruit-tree-winter-pest-control]]

@@ -19,13 +19,8 @@ disease is particularly problematic in poorly managed Oyster Substrate Preparati
 
 ## Causal Organisms
 
-The primary causal agents of green mold disease in [[cotter-oyster-mushroom-cultivation]]
-include several species:
-
-- **[[trichoderma-harzianum]]**: The most common and destructive species,
+The primary causal agents of green mold disease in [[trichoderma-harzianum]]**: The most common and destructive species,
   responsible for major crop losses in commercial operations.
-- **[[trichoderma-viride]]**: Another aggressive species that rapidly colonizes
-  substrate materials.
 - **[[trichoderma-koningii]]**: Less common but still capable of causing
   significant damage.
 - **Trichoderma pseudokoningii**: Occasionally isolated from infected
@@ -89,14 +84,7 @@ reducing the effectiveness of benomyl and thiabendazole. Recent research
 indicates that prochloraz-manganese complex (Sporgon) is by far the most
 effective chemical control agent currently available. However, reliance on any
 single chemical control should be avoided, as resistance can develop over
-time. [[integrated-pest-management]] combining cultural practices with targeted
-chemical application is the most sustainable approach.
-
-## Impact on Yield
-
-Green mold infections can cause complete crop failure in severe cases. Even
-moderate infections significantly reduce yield by competing for nutrients and
-space. The economic impact is particularly severe in [[oyster-mushroom-shelf-cultivation]] systems where large substrate masses are at risk. Early
+time. [[oyster-mushroom-shelf-cultivation]] systems where large substrate masses are at risk. Early
 detection and rapid response are essential to minimize losses. In commercial
 Korean operations, green mold has been identified as the single most costly
 disease in terms of lost production and increased chemical control expenses.
@@ -106,25 +94,5 @@ disease in terms of lost production and increased chemical control expenses.
 The choice of substrate material influences green mold susceptibility.
 Cotton waste substrates tend to harbor more naturally occurring microorganisms
 that can compete with Trichoderma, while sawdust-based substrates may be more
-vulnerable due to their lower microbial diversity. Proper [[oyster-substrate-fermentation]] can significantly reduce green mold risk by establishing
-beneficial microbial populations that suppress pathogen development. The pH
-of the substrate after fermentation is also important: substrates with pH
-above 7 are less susceptible to green mold colonization.
-
-## Prevention Strategy
-
-A comprehensive prevention strategy includes multiple layers of defense.
-First, ensure that all raw materials are fresh and free from visible mold
-contamination. Second, maintain strict hygiene throughout the growing facility,
-including regular disinfection of surfaces and equipment. Third, optimize
-substrate preparation parameters (temperature, moisture, pH) to favor
-mushroom mycelia over competitive fungi. Fourth, monitor crops daily during
-the critical spawn run period when green mold is most likely to establish.
-
-## See Also
-
-- Oyster Contamination Control
-- Oyster Disease Management
-- [[oyster-straw-substrate-preparation]]
-- [[oyster-substrate-fermentation]]
+vulnerable due to their lower microbial diversity. Proper [[oyster-straw-substrate-preparation]]
 - [[oyster-brown-blotch-disease]]

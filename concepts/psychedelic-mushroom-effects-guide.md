@@ -1,10 +1,8 @@
 ---
 title: Psychedelic Mushroom Effects Guide
-type: concept
 created: 2026-04-12
-updated: 2026-05-06
+updated: 2026-04-12
 type: concept
-uppsilocybin-mushroomspe: concept
 tags: [mycology, psychopharmacology, psychedelics, consciousness, psychology, entheogen-research, health, safety]
 sources: []
 ---
@@ -13,7 +11,7 @@ sources: []
 
 ## Overview
 
-The effects of [[psilocybin-mushrooms]] span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
+The effects of psilocybin mushrooms span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
 
 ## Dose-Response Levels
 
@@ -57,7 +55,7 @@ The classic psychedelic experience:
 
 Intense experience requiring significant preparation:
 
-- **Visuals**: All previous effects intensified. Objects may morph or transform. Vision may become highly patterned or kaleidoscopic. Possible [[2c-t-13-entity]] encounters or archetypal imagery. Vision may be significantly altered
+- **Visuals**: All previous effects intensified. Objects may morph or transform. Vision may become highly patterned or kaleidoscopic. Possible entity encounters or archetypal imagery. Vision may be significantly altered
 - **Emotional**: Extremely intense emotions. Possible ego dissolution (complete loss of sense of self). Feelings of cosmic unity, unconditional love, or confrontation with shadow aspects of psyche. Terror and ecstasy may alternate
 - **Cognitive**: Complete departure from ordinary thought. Non-linear, non-verbal cognition possible. Profound philosophical, spiritual, or mystical insights. May experience ego death — a temporary cessation of self-referential awareness
 - **Somatic**: Significant physical effects — intense sensations, possible feeling of leaving the body, nausea, vomiting (sometimes experienced as purging), tremor, pupil dilation
@@ -65,7 +63,7 @@ Intense experience requiring significant preparation:
 
 ### Level 5: Heroic (5.0g+)
 
-Full [[mystical-experience]]; approach with extreme caution:
+Full mystical experience; approach with extreme caution:
 
 - **Visuals**: Complete visual immersion. Ordinary perception may be largely replaced by visionary content. May feel unable to distinguish eyes-open from eyes-closed states
 - **Ego dissolution**: Complete and often irreversible (during the experience) dissolution of ego. Merging with a perceived universal consciousness. Complete loss of ordinary self-identity
@@ -91,7 +89,7 @@ The emotional spectrum under psilocybin is dramatically widened:
 
 - **Positive**: Euphoria, awe, wonder, gratitude, love, connection, peace, joy, humor, bliss, mystical ecstasy
 - **Challenging**: Anxiety, fear, grief, sadness, anger, guilt, shame, existential dread, paranoia, confusion
-- **Neutral**: Coset-and-settingditative, detached observation
+- **Neutral**: Contemplative, meditative, detached observation
 
 Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by set and setting — see [[psychedelic-mushroom-set-and-setting]].
 

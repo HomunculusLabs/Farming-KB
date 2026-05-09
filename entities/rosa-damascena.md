@@ -113,12 +113,8 @@ In multistrata systems, Damask rose occupies the shrub layer beneath fruit trees
 
 ## See Also
 
-- [[lavandula-angustifolia-entity]]
 - [[ocimum-basilicum]]
-- [[rosa-canina]]
 - [[melissa-officinalis]]
-- [[salvia-officinalis]]
 - [[rosmarinus-officinalis-entity]]
-- [[alchemilla-vulgaris]]
 - [[calendula-officinalis]]
 - [[hippophae-rhamnoides]]

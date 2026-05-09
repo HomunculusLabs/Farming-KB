@@ -49,7 +49,7 @@ and *CITES Appendix II* regulates its trade.
 - **Genus:** *Swertia* L.
 - **Species:** *S. chirayita* (Roxb. ex Flem.) Karsten
 
-[[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] persists between *S. chirata*, *S. angustifolia*,
+ persists between *S. chirata*, *S. angustifolia*,
 and *S. alata*, which are often sold interchangeably in herbal markets.
 
 ## Morphology
@@ -79,9 +79,9 @@ It occupies subalpine and temperate habitats in open grasslands, forest
 clearings, and rocky slopes at 1,200–3,000 meters elevation.
 
 The species prefers moist, well-drained, acidic to neutral soils with
-himedicinal-[[mushroom-extraction-methods]]-bioactive-compounds]](1,500–3,000 mm).
+himedicinal--bioactive-compounds(1,500–3,000 mm).
 
-## [[medicinal-mushroom-extraction-bioactive-compounds]]
+## 
 
 The principal bioactive constituents are **xanthones** and **secoiridoid
 glycosides**, contributing to its intensely bitter taste and
@@ -108,7 +108,7 @@ amarogentin typically comprising 0.2–0.5%.
 medicine. Gentiopicroside and swertiamarin protect against
 CCl₄-induced hepatotoxicity in animal models.
 
-**A [[wavelet-transform]]-used-foretic:** Swertiamarin and mangiferin demonstrate hypoglycemic
+**A -used-foretic:** Swertiamarin and mangiferin demonstrate hypoglycemic
 activity via enhanced insulin secretion. Used for *madhumeha* (diabetes).
 
 **Anti-inflammatory and antioxidant:** Xanthones inhibit COX-2,
@@ -130,18 +130,23 @@ and fungal pathogen susceptibility.
 
 Propagation by seed requires cold stratification (30–60 days) with
 germination rates of 30–50%. Plants spaced 30–45 cm in partial shade.
-Harvest at flowerifungal-[[gadd-fungal-biodiversity-conservation]]-statuse content.
+Harvest at flowerifungal--statuse content.
 
 Conservation cultivation programs have had limited success replacing
 wild collection due to quality differences.
 
-## [[fungal-biodiversity-conservation-status]]
+## 
 
 *Swertia chirata* is classified as **Critically Endangered** by the
 IUCN Red List. Primary threats include overharvesting (demand exceeds
 wild supply ~5:1), habitat destruction, and climate-driven range shifts.
 
-The species is listed on **CITES Appendix II**. Ex situ conservation
-through [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] and managed cultivation is essential for survival.
+## See Also
 
 ## See Also
+- [[mushroom-cultivation-for-people-with-disabilities]]
+- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
+
+## See Also
+
+- [[herbal-plant-remedies]]

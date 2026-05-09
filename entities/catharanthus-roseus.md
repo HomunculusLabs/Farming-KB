@@ -16,11 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 *Catharanthus roseus* is an evergreen subshrub or herbaceous perennial growing 30–100 cm tall. The leaves are glossy, elliptic to oblong, 2–9 cm long, arranged oppositely along the stem. The flowers are salverform (tubular with a flat corolla limb), approximately 3–4 cm in diameter, with five petals. Flower color in wild populations is typically pink to rose with a darker central eye, though white-flowered cultivars are common.
 
-The plant is adapted to tropical and subtropical climates and has naturalized widely in tropical regions worldwide. It is drought-tolerant once established and grows readily in poor sandy soils. In [[fukuoka-natural-farming]], it is grown as an annual.
-
-## Pharmacologically Active Constituents
-
-*C. roseus* produces over 130 different **alkaloids**, making it one of the most chemically complex and medicinal plants known. The most important are the **dimeric indole alkaloids**:
+The plant is adapted to tropical and subtropical climates and has naturalized widely in tropical regions worldwide. It is drought-tolerant once established and grows readily in poor sandy soils. In [[indole]] alkaloids**:
 
 - **Vinblastine** (vincaleukoblastine): Used primarily to treat Hodgkin's lymphoma, non-Hodgkin's lymphoma, and testicular cancer
 - **Vincristine** (leurocristine): Used primarily to treat acute lymphoblastic leukemia (ALL) in children, Wilms' tumor, and various other cancers
@@ -52,13 +48,38 @@ The use of the plant as a supposed oral hypoglycemic agent in the Caribbean was 
 
 For pharmaceutical production, the plant is cultivated on a commercial scale in several countries. The total chemical synthesis of vinblastine and vincristine is complex and economically impractical, so these drugs are still derived primarily from plant extraction. It requires approximately 500 kg of dried leaves to produce 1 gram of vincristine, making the supply chain vulnerable to crop failures.
 
+## Economic Importance
+
+The global market for vinblastine and vincristine is valued at hundreds of
+millions of dollars annually. Vincristine alone is estimated to be administered
+to over 10,000 cancer patients per year in the United States. The commercial
+cultivation of *C. roseus* for pharmaceutical extraction occurs primarily in
+India, Madagascar, China, and several European countries. India is the largest
+producer, supplying significant quantities of dried leaf material to
+pharmaceutical companies worldwide. The extreme inefficiency of natural
+extraction (500 kg leaves per gram vincristine) has driven intense research
+into alternative production methods including plant cell fermentation, hairy
+root cultures, and semi-synthetic routes from catharanthine and vindoline.
+Despite decades of effort, fully economic synthetic production has not been
+achieved, keeping *C. roseus* agriculture critically important to oncology.
+
+## Conservation Status
+
+*C. roseus* is listed as **Least Concern** by the IUCN due to its extremely
+wide naturalization range and abundance in cultivation. However, wild
+populations in its native Madagascar face pressure from habitat destruction.
+The species has become invasive in several tropical regions including parts of
+Australia, Pacific islands, and East Africa, where it displaces native
+vegetation in disturbed areas. Paradoxically, the plant's weedy invasiveness
+in non-native ranges has helped ensure a reliable pharmaceutical supply,
+while its native habitat in Madagascar's spiny thickets continues to
+diminish due to agricultural expansion and charcoal production.
+
 ## Toxicity
 
 All parts of the plant are toxic if ingested in quantity. Symptoms of poisoning include nausea, vomiting, diarrhea, hypotension, and neurological symptoms including tremor and seizures. The plant should not be used in herbal self-medication due to the narrow therapeutic window of its active alkaloids.
 
 ## See Also
-Related: [[cancer-medicinal-mushrooms-extraction-bioavailability]]
-
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]] — another pharmacologically important alkaloid from a tropical plant
+Related: [[mckenna-heroin-cocaine-and-synthetic-drugs]] — another pharmacologically important alkaloid from a tropical plant
 - [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] — another medicinal plant preparations with a long history of both therapeutic use and toxicity
 - catharanthus roseus — the genus containing this species

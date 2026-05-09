@@ -86,15 +86,9 @@ To change a pistillate cutting to a staminate pollen parent:
 
 ## Related
 
-- [[cannabis-gene-pool-preservation-acclimatization-clarke]] Topics
-
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - Hybrid vigor and phenotypes
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
 - [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-maturation-and-harvest-by-latitude-clarke]] - Maturation by latitude
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-potency-enhancement-intact-flowers]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-disease-pest-resistance-breeding-clarke]]
 - [[cannabis-grafting-intergeneric-humulus-clarke]]

@@ -3,7 +3,7 @@ title: Fungal Woronin Bodies and Septal Pore Organization
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -51,23 +51,13 @@ The phylogenetic distribution of Woronin bodies and their associated genes has a
 
 ## See Also
 
-- [[woronin-bodies-multicellular-fungal-lifestyle]]
-
 - [[gadd-woronin-bodies-hyphal-septation]]
-
-[[fungal-hyphal-organization]]
 
 [[fungal-mycelial-network-architecture]]
 
-[[fungal-cellulose-decomposition-fungal-enzymes]]
-
 [[fungal-ecology]]
 
-[[fungal-kingdom-classification]]
-
 [[fungal-phylogeny-systematics]]
-
-[[fungal-speciation-evolution]]
 
 [[fungal-sexual-reproduction]]
 
@@ -98,4 +88,4 @@ Woronin body plugging serves several critical functions:
 - **Heterokaryon maintenance**: Controls nuclear distribution in multinucleate hyphae
 - **Pathogenicity**: Some plant pathogens require Woronin bodies for full virulence
 
-See also: [[fungal-appressorium-and-infection-structures]], [[fungal-stress-responses]], fungal cell biology
+See also: [[fungal-stress-responses]], fungal cell biology

@@ -6,17 +6,7 @@ sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
   - "allegro-j-the-sacred-mushroomcross.md"
 type: concept
-tags: [mushroom-cultivation]
----
-
-# The Name 'Jesus' as a Mushroom Epithet
-
-Perhaps the single most provocative claim in John Marco Allegro's "The
-Sacred Mushroom and the Cross" is that the name "Jesus" itself was not a
-personal name at all, but an epithet for the sacred mushroom. According to
-Allegro's philological analysis, the Greek name Iesous (and its Hebrew
-equivalent Yehoshua or Joshua) derived from Sumerian compound words that
-described the [[allegro-colour-and-consistency-of-the-amanita-muscaria]] -- its shape, its
+tags: [[allegro-colour-and-consistency-of-the-amanita-muscaria]] -- its shape, its
 growth habits, and its psychoactive properties. The entire Christian story
 of Jesus of Nazareth was, in this reading, a personification of the sacred
 fungus.
@@ -57,17 +47,7 @@ its juice was applied by anointing (khristos); and the anointed one became
 the Christ.
 
 The identity of this anointing plant was, Allegro argued, the mushroom
-itself -- specifically the [[allegro-colour-and-consistency-of-the-amanita-muscaria]], whose juice, when extracted and mixed with oil, served as the original chrism or holy anointing oil. This connection between the plant called Chreston and the practice of chrism (anointing) explained how a botanical epithet became a divine title.
-
-## The "Jesus" Mushroom in Classical Sources
-
-Allegro pointed to several classical descriptions of plants that, when read
-with an awareness of mushroom nomenclature, appeared to describe the
-psychoactive fungus. Pliny's account of the Halicacabum was particularly
-telling: its root was taken by those who wished to "display the inspired
-prophet" and to be "seen publicly raving in unpretended madness." This
-description of deliberate, ritualized madness induced by consuming a plant
-root matched exactly the pattern of [[amanita-muscaria-cultural-history]] use in shamanic and cultic contexts worldwide.
+itself -- specifically the [[amanita-muscaria-cultural-history]] use in shamanic and cultic contexts worldwide.
 
 Pliny's further observation that the Halicacabum was "antipathetic to the
 nature of asps" -- that it could counteract snake venom -- connected it to
@@ -127,10 +107,7 @@ personified through mythology.
 This interpretation, while extreme, highlights an important question about
 early Christian vocabulary that continues to be debated: the extent to which
 Christian theological language was shaped by, or borrowed from, the
-religious vocabulary of the [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-and its [[amanita-muscaria-cultural-history]] mystery cults.
-- [[jesus-name-etymology-mushroom-theories]]
+religious vocabulary of the [[amanita-muscaria-cultural-history]] mystery cults.
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
-- [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[allegro-fertility-philosophy-of-the-ancient-near-east]]

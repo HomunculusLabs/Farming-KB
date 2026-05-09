@@ -12,41 +12,7 @@ type: concept
 # Natural Protective Forests for Farm Design
 
 Appendix A of *Sowing Seeds in the Desert* provides detailed guidance for
-creating natural protective forests as part of a [[fukuoka-rice-and-barley-natural-farming]]. Protective forests serve as the foundation for building
-deep, fertile soil and establishing a self-sustaining agricultural ecosystem.
-They embody Fukuoka's principle that the farm should include not only fields
-but also the surrounding hills and forests, with all elements working together
-as one integrated system.
-
-## Selecting a Farm Site
-
-Fukuoka recommends establishing a farm in the mountain foothills rather than in
-isolated mountain forests or flat valley floors. The slightly elevated position
-offers a better climate and reduced flood risk, while providing access to
-firewood, vegetables, and other materials needed for satisfying the necessities
-of food, clothing, and shelter. Proximity to a river makes crop production
-easier.
-
-The ideal site features large trees growing densely on the hills, deep and
-dark-colored soil (black or dark brown), and clean water. A good environment
-and fine scenery are considered essential for living enjoyably, both materially
-and spiritually. Fukuoka emphasizes that no matter what the land is like, crops
-can be grown with effort, but the process is far easier when the place is rich
-with the bounties of nature.
-
-## Foundation Principles for Soil Building
-
-The foundation for farm success is building deep, fertile soil through three
-primary methods:
-
-1. **Coarse organic matter**: Burying decaying tree trunks and branches in the
-   ground builds soil organic matter, though this requires considerable labor.
-   In general, Fukuoka prefers letting plants do the work of soil building.
-
-2. **Deep-rooted plants**: Planting trees, shrubs, grasses, and legumes with
-   extensive root systems softens the soil and brings nutrients from lower
-   levels back to the surface, gradually improving soil structure and
-   fertility. This aligns with Fukuoka's broader [[fukuoka-soil-self-improvement-without-tillage]].
+creating natural protective forests as part of a [[fukuoka-soil-self-improvement-without-tillage]].
 
 3. **Forest nutrient flow**: Causing rainwater to flow over the farm from
    wooded slopes above carries nutrients from the humus-rich forest soil. The
@@ -64,26 +30,7 @@ plants selected for multiple purposes:
 - **Fuel and building materials**: Trees providing wood for construction and
   heating
 - **Habitat**: Plants supporting birds, insects, and wildlife that contribute
-  to [[fukuoka-natural-pest-balance]]
-- **Food production**: Plants yielding food for farm animals, wildlife, and
-  people
-- **Medicinal benefits**: Plants with healing properties
-- **Insect attraction**: Species that support pollinators and beneficial
-  insects
-- **Soil improvement**: Nitrogen-fixing and soil-building plants
-
-Often a single plant fulfills many of these functions simultaneously. The
-guiding principle is integration: all elements on the farm should work together
-as one living system.
-
-## Raising a Protective Forest: Hillside Strategy
-
-Fukuoka provides a specific succession-based strategy for establishing
-protective forests on hillsides where soil is thin and dry:
-
-**Stage 1: Erosion control.** First grow trailing plants like *Ixeris debilis*
-and kudzu (*Pueraria lobata*) to halt soil erosion. Kudzu is particularly
-useful for [[fukuoka-black-wattle-fertilizer-tree-method]], though care
+  to [[fukuoka-black-wattle-fertilizer-tree-method]], though care
 must be taken with running varieties that can become invasive.
 
 **Stage 2: Pioneer species.** Plant or sow seeds of pines and Sawara cypress
@@ -127,8 +74,6 @@ be used.
 
 ## See Also
 
-- [[fukuoka-green-belt-projects]]
 - [[fukuoka-wood-preserve-shelterbelt-design]]
-- [[fukuoka-natural-orchard-development]]
 - [[fukuoka-soil-building-method]]
 - [[fukuoka-clover-and-green-manure-cropping]]

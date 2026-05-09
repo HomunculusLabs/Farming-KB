@@ -4,12 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, earthworks, swales, keyline, soil-management]
----
-
-# PDC Earthworks and Land Sculpting
-
-The Williams PDC presents earthworks as one of the most transformative and permanent design interventions available to the permaculture designer. Williams describes earthworks as "sculpting the land" to create conditions favorable for plant and animal growth, [[water-management]], and microclimate optimization.
+tags: [[water-management]], and microclimate optimization.
 
 ## The Scale of Earthworks
 
@@ -44,25 +39,7 @@ Swales are one of the most important earthwork tools in permaculture. Williams d
 - Reduces the need for irrigation
 - Builds soil over time through organic matter accumulation in the moist zone
 
-**[[mycoremediation-bioreactor-design-considerations]]**:
-- Must be absolutely level along the contour to prevent concentrated water flow
-- Spacing depends on slope gradient (steeper slopes need closer swale spacing)
-- The berm (excavated soil placed on the downhill side) is the primary planting zone
-- Spillways must be designed to safely manage overflow during extreme rain events
-- Swales should be planted immediately to stabilize the soil
-
-**Caution**: Williams warns that swales are highly regulated in many jurisdictions. Designers must check local regulations and permitting requirements. In some areas, swales may be classified as dams or water impoundment structures requiring engineering certification.
-
-### Terraces
-
-Terraces create level planting areas on slopes by cutting into the hillside and using the excavated material to build retaining walls. Williams distinguishes terraces from swales:
-
-- **Terraces are level planting surfaces** supported by retaining structures
-- **Swales are water capture trenches** with planting on the berm
-
-Terraces are appropriate when the slope is too steep for direct planting, when crops require level ground (e.g., rice paddies), or when the design calls for intensive growing on hillsides.
-
-### [[keyline-design]]
+**[[keyline-design]]
 
 Williams references Keyline design as a foundational earthworks approach for broadacre landscape management:
 
@@ -74,32 +51,7 @@ Williams references Keyline design as a foundational earthworks approach for bro
 
 ### Ponds and Dams
 
-Earthworks for water storage include ponds, dams, and [[constructed-wetlands-wastewater-treatment]]:
-
-**Siting considerations**:
-- Use the lowest practical point in the landscape to maximize catchment area
-- Ensure the site has suitable clay content for water retention (or plan for liners)
-- Consider evaporation rates (deeper ponds lose less water proportionally)
-- Design for multiple functions: water storage, wildlife habitat, aquaculture, fire protection, recreation, aesthetic value
-
-**Design principles**:
-- Shape: Irregular shapes with multiple bays and peninsulas maximize edge and habitat diversity
-- Depth variation: Shallow shelves for emergent plants, deeper zones for fish and water storage
-- Islands: Small islands in ponds provide predator-free nesting for waterfowl
-- Spillways: Must be designed for extreme events with energy dissipation measures
-
-### Paths and Access Earthworks
-
-Williams includes paths as earthworks because they change how water moves across a site:
-
-- **Compacted paths** (gravel, paved): Create runoff that must be directed to planting areas
-- **Mulched paths**: Absorb water and allow infiltration
-- **Swale-paths**: Paths that double as water capture features (depressed, mulched walkways)
-- **Access roads**: Must be designed to shed water without causing erosion
-
-## Soils and Earthworks
-
-Williams connects earthworks directly to soil [[mollison-grasslands-and-range-management-strategies]]:
+Earthworks for water storage include ponds, dams, and [[mollison-grasslands-and-range-management-strategies]]:
 
 ### Soil as the Foundation
 
@@ -109,13 +61,7 @@ The single most important thing you can do for a design is to create and maintai
 - Create conditions for organic matter accumulation
 - Enable the establishment of deep-rooted plants that build soil structure
 
-### [[sheet-mulching]] and Earthworks
-
-Williams advocates combining earthworks with sheet mulching (lasagna gardening):
-1. Complete earthworks first
-2. Plant the berm or terrace immediately
-3. Sheet mulch the entire area to suppress weeds, retain moisture, and begin building soil
-4. Allow the earthworks and mulch to work together to create optimal [[mushroom-growing-conditions]]
+### [[mushroom-growing-conditions]]
 
 ### The [[soil-food-web]]
 

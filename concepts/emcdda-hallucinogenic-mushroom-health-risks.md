@@ -27,101 +27,7 @@ adverse events can and do occur, particularly related to mental health.
 
 ### Acute Toxicity
 
-Acute toxicity of [[psilocybin-compound]] is believed to be low, so fatal
-intoxications related to consumption of hallucinogenic mushrooms are
-rare. One allegedly toxicologically confirmed death case directly
-attributed to ingestion of a large amount of mushrooms was reported in
-France. The Czech Republic reported one death case, a suicide in 2004,
-in which the presence of hallucinogenic mushrooms was detected and
-mentioned in the autopsy report.
-
-### Medical Assistance Data
-
-The reported number of people seeking medical assistance is very low:
-- Czech Republic: 4 cases (2003) and 10 cases (2004)
-- Poland: 2 cases (2003) and 3 cases (2004) at one toxicological
-  centre
-- Slovenia: 2 intoxications (2005)
-- Sweden: Poisons Information Centre calls remained low and stable at
-  30-40 calls annually over five years
-
-Coverage and capacity of reporting systems and case definitions across
-the EU vary substantially, making it difficult to draw firm conclusions.
-
-### Chronic Toxicity
-
-There is no systematic research, but no evidence of chronic toxicity
-exists so far. Not enough data is available about mutagenicity and
-teratogenicity to draw conclusions. No irreversible organ damage by
-psilocybin has been reported.
-
-### Treatment
-
-Intoxication with hallucinogenic mushrooms is not always easily
-diagnosed unless there is information about recent ingestion from the
-user, friends, or family. First aid usually aims at reassuring the user,
-preventing them from possibly harming themselves or others, and
-assisting them to an appropriate medical unit. Benzodiazepines are
-reported to be the safest medication of choice, effective for most
-patients.
-
-## Mental Health Risks
-
-### Bad Trips
-
-Use of hallucinogenic mushrooms is more commonly linked to mental
-health risks. Although there is no evidence of what proportion of users
-experience a "bad trip," these users are most likely to contact emergency
-care systems. In such cases, intoxicated individuals are usually:
-- Extremely anxious
-- Severely agitated
-- Confused and disoriented
-- With impaired concentration and judgement
-
-In serious cases, acute psychotic episodes may occur, including:
-- Bizarre and frightening images
-- Severe paranoia
-- Total loss of reality
-- Risk of accidents, self-injury, or suicide attempts
-
-A UK Mixmag survey (2005) found that nearly a quarter of those who had
-used hallucinogenic mushrooms in the last year experienced a panic
-attack.
-
-### Post-Trip Effects
-
-A bad trip is usually followed by:
-- Faintness, sadness, and depression
-- Paranoid interpretations
-- These symptoms may persist for days, weeks, or even months
-
-Some of these symptoms are likely to be associated with the use of
-other controlled substances.
-
-### Long-Term Risks
-
-Intermittent and chronic psychotic states resulting from
-hallucinogenic mushrooms are possible. In some individuals, use can
-bring to the surface underlying psychotic or personality disorders.
-
-Flashbacks can occur, although less frequently than with LSD. These
-episodes are generally perceptual alterations or pseudo-hallucinations.
-
-### Fatal Cases
-
-Some extreme cases have been reported:
-- March 2004, Manchester, UK: a 31-year-old man died after leaping
-  from a tower block window after consuming "Hawaiian" psilocybin
-  mushrooms in combination with alcohol. The coroner confirmed the
-  contributory role of mushrooms together with alcohol.
-- 2005, Dun Laoghaire, Ireland: a 33-year-old man died after falling
-  from the fourth floor of a building after consuming hallucinogenic
-  mushrooms.
-
-## Amanita Risks
-
-The prohibition of psilocybin mushrooms has provoked emerging retailer
-interest in *[[amanita-muscaria]]* (fly agaric) as a legal alternative. The
+Acute toxicity of [[amanita-muscaria-entity]]* (fly agaric) as a legal alternative. The
 active chemicals in these (muscimol, ibotenic acid, muscarin) carry
 substantial toxicity risks. Some closely related *Amanita* species are
 highly toxic and could cause fatal poisoning. This represents a
@@ -139,9 +45,66 @@ Key risk factors for adverse effects include:
 
 ## Related Topics
 
-- [[emcdda-hallucinogenic-mushroom-dose-effects]] for dosing and
-  acute effects that precede health risks
 - [[emcdda-psilocybin-pharmacology-and-chemistry]] for the chemical
   basis of toxicity
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]] for prevention
   and risk reduction approaches
+## Practical Considerations
+
+When working with Hallucinogenic Mushroom Health Risks, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

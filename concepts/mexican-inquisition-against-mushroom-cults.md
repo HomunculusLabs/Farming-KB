@@ -5,21 +5,8 @@ updated: 2026-04-23
 sources:
   - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
 type: concept
-tags: [mushroom-cultivation]
----
-
-# Mexican Inquisition Against Mushroom Cults
-
-The Spanish colonial suppression of indigenous [[teonanacatl-and-mesoamerican-mushroom-cults]] in Mexico represents one of the earliest
-documented campaigns against [[psychedelic-mushroom-art-and-iconography]] use. Beginning in the sixteenth century,
-Catholic missionaries and colonial authorities systematically targeted the
-ritual consumption of teonanacatl ("God's flesh") as part of a broader programme
-of cultural and spiritual extermination.
-
-## Pre-Conquest Mushroom Use
-
-At the time of the Spanish invasion, mushrooms were being consumed in a variety
-of religious, recreational and diplomatic contexts within the [[aztec-mushroom-feasts-and-revelations]]. The most comprehensive
+tags: [[teonanacatl-and-mesoamerican-mushroom-cults]] in Mexico represents one of the earliest
+documented campaigns against [[aztec-mushroom-feasts-and-revelations]]. The most comprehensive
 early account was compiled by the Franciscan friar Bernardino de Sahagun, who
 spent some sixty years studying the indigenous populations. In his Florentine
 Codex, he recorded that mushrooms called teonanacatl — literally "God's flesh" —
@@ -66,14 +53,8 @@ underground that it escaped the attention of colonial record-keepers.
 The suppression was effective enough that by the time Western ethnographers and
 mycologists began seriously investigating Mexican mushroom practices in the
 twentieth century, the surviving traditions were confined to a few remote
-highland communities, most notably among the [[mushroom-cultivation-fundamentals]] people of Oaxaca.
-
-## Continuity and Survival
-
-Despite centuries of suppression, mushroom ceremonies survived in pockets of
-[[mexican-mushroom-stones-archaeological-evidence]] culture. The
-[[mushroom-cultivation-fundamentals]],
-who would later become famous through [[gordon-wasson-mushroom-discovery]]'s
+highland communities, most notably among the [[mexican-mushroom-stones-archaeological-evidence]] culture. The
+[[gordon-wasson-mushroom-discovery]]'s
 expeditions, was born in 1894 into a culture where, although mushroom use was
 not openly discussed, it was understood that the highest class of curanderos
 derived their healing powers from the sacred mushrooms. This continuity,

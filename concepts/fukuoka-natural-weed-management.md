@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Weed management in [[natural-farming-fukuoka]]'s [[fukuoka-natural-farming-philosophy-of-mu]] is based on a fundamentally different relationship with weeds than
+Weed management in [[fukuoka-natural-farming-philosophy-of-mu]] is based on a fundamentally different relationship with weeds than
 conventional
 agriculture. Rather than seeking to eliminate weeds, Fukuoka worked to manage
 the
@@ -37,14 +37,7 @@ weeds being eliminated.
 
 ## Techniques
 
-1. **Ground cover competition:** [[fukuoka-white-clover-ground-cover]]
-serves as a living mulch that suppresses weed germination by blocking light
-and occupying
-soil surface space. The clover is a "weed" itself, but one that is beneficial
-and
-manageable.
-
-2. **Straw mulch:** [[fukuoka-straw-mulch-philosophy]] provides a
+1. **Ground cover competition:** [[fukuoka-straw-mulch-philosophy]] provides a
 physical
 barrier to weed seed germination. Seeds that do germinate through the mulch
 are often
@@ -69,27 +62,7 @@ thrives.
 
 ## What Fukuoka Did NOT Do
 
-- **No herbicides:** Chemical weed killers are prohibited by the [[fukuoka-four-principles-natural-farming]]
-- **No mechanical weeding:** Tillage to control weeds is also prohibited
-— it damages
-soil structure and creates conditions for more weeds
-- **No hand weeding (minimal):** Fukuoka did very little hand weeding, only
-removing
-weeds that directly threatened crop establishment
-
-## The Weed Cycle
-
-Fukuoka observed that weed populations naturally fluctuate. An initial period
-of
-weed management may be needed when converting from conventional to natural
-farming,
-but over time the system reaches an equilibrium. The first few years may
-show more
-weed pressure as the soil biology adjusts and the natural balance reestablishes.
-
-## Philosophical Basis
-
-The approach to weeds reflects [[fukuoka-do-nothing-farming-philosophy-and-practice]]:
+- **No herbicides:** Chemical weed killers are prohibited by the [[fukuoka-do-nothing-farming-philosophy-and-practice]]:
 weeds
 are not enemies to be conquered but aspects of nature to be understood. The
 farmer
@@ -100,11 +73,8 @@ field?"
 rather than "How do I kill these weeds?"
 
 See also:
-- [[fukuoka-four-principles-natural-farming]] — no weeding principle
 - [[fukuoka-straw-mulch-system]] — mulch technique
-- [[fukuoka-white-clover-ground-cover]] — clover ground cover
 - [[fukuoka-natural-rice-barley-cultivation]] — application in rice
-- [[fukuoka-vegetable-growing-natural-method]] — application in vegetables
 - [[fukuoka-natural-orchard-management]] — application in orchards
 
 ## See Also

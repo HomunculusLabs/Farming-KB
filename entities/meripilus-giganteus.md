@@ -1,33 +1,3 @@
----
-title: "Meripilus giganteus"
-created: 2026-04-28
-type: species
-tags:
-  - giant-polypore
-  - fungi
-  - polypore
-  - root-rot
-  - hardwood
-  - parasitic
-  - edible-mushroom
-  - temperate
-  - europe
-  - north-america
-  - brown-rot
-  - forest-pathogen
-  - foraging
-  - meripilaceae
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Ryvarden L., Gilbertson R.L. (1994). "European Polypores." Fungiflora,
-    Oslo, Part 2, pp. 564-567.
-  - Schwarze F.W.M.R., Engels J., Mattheck C. (2000). "Fungal Strategies of
-    Wood Decay in Trees." Springer-Verlag, Berlin.
-  - Kuo M. (2024). "Meripilus giganteus." MushroomExpert.com.
-  -=https://www.mushroomexpert.com/meripilus_giganteus.html
-  -=https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=181805
----
 
 # Meripilus giganteus
 
@@ -35,23 +5,9 @@ sources:
 
 **Meripilus giganteus**, the giant polypore or black-staining polypore, is a
 large bracket fungus in the family Meripilaceae that parasitizes root systems
-and butts of hardwood trees, especially beech (*Fagus sylvatica*) and oaks
-(*Quercus* spp.). It produces massive, multi-layered basidiocarps exceeding
-80 cm in diameter at the base of infected trees. A significant forest pathogen
-in temperate hardwood ecosystems, it causes a characteristic brown rot that
+and butts of hardwood trees, especially beech (*[[brown-rot-and-white-rot-fungi-in-mycoremediation]] that
 dramatically reduces structural integrity of the host. Young specimens are
-edible, and the species is a key decomposer in forest nutrient cycling.
-
-## Taxonomy
-
-**Fungi → Basidiomycota → Agaricomycetes → Polyporales → Meripilaceae →
-Meripilus → M. giganteus** (Pers.) P. Karst.
-
-Originally described as *Boletus giganteus* by Persoon in 1800, transferred
-to *Meripilus* by Karsten in 1882. The genus contains approximately 10 species
-globally, with *M. giganteus* the most widely distributed. The genus name
-derives from Greek *meros* (part) and *pilus* (cap), referring to the
-compound, multi-layered fruiting body structure.
+edible, and the species is a key decomposer in forest [[fruiting-body-development]] structure.
 
 ## Morphology
 
@@ -123,21 +79,10 @@ cellulose — of interest in industrial biomass processing.
 A major agent of coarse woody debris decomposition in temperate hardwood
 forests. By killing weakened or over-mature trees, it creates canopy gaps
 driving forest succession and structural diversity. Large, long-lasting
-basidiocarps provide habitat for fungal-feeding invertebrates and serve as
-moisture reservoirs in the forest floor microclimate. Does not form
-mycorrhizal associations.
-
-## Related Species
-
-- ***Meripilus sumstinei*** (North American giant polypore) — Eastern North
-  American counterpart; very similar; some authorities consider conspecific.
-- ***Bondarzewia berkeleyi*** — Similar habitat (hardwood root rot) but in
-  Russulales; spores are amyloid; pore surface does not stain black.
-- ***Grifola frondosa*** (Maitake) — Superficially similar multi-capped
+basidiocarps provide habitat for [[bondarzewia-berkeleyi]]*** — Similar habitat (hardwood [[grifola-frondosa]]*** (Maitake) — Superficially similar multi-capped
   structure; smaller; pores do not bruise black; highly valued edible.
 
 ## See Also
 
-- [[agar]]
-- [[bondarzewia-berkeleyi]]
+- [[decomposition]]
 - [[decomposition]]

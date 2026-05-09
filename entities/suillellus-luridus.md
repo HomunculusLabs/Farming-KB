@@ -133,8 +133,10 @@ is a valued culinary mushroom.
 
 ## See Also
 
-- [[boletus-edulis-entity|Boletus edulis]]
 - [[rubroboletus-satanas|Rubroboletus satanas]]
 - Neoboletus erythropus
-- [[gyromitra-esculenta|Gyromitra esculenta]]
-- [[amanita-muscaria|Amanita muscaria]]
+- [[amanita-muscaria-entity|Amanita muscaria]]
+
+## See Also
+
+- [[edible-wild-mushrooms-foraging-guide]]

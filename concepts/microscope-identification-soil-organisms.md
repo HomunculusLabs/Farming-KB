@@ -119,16 +119,10 @@ For compost tea, the key indicators under the microscope:
 
 ## See Also
 
-- [[lowenfels-protozoa-nematodes]]
-
 - [[hamilton-soil-types-identification]]
 
-- [[cover-crops-soil-health]]
 - [[fungal-competition-antagonism-soil]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
-
 - [[ingham-soil-food-web-assessment-methods]]
 - soil microscope analysis
-- [[ingham-nutrient-cycling-soil-food-web]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

@@ -12,35 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Potassium is a primary [[cannabis-indoor-soil-mix-and-preparation]] classified as **mobile** in cannabis plants. It is used at all stages of growth. Soils with a high level of potassium increase a plant's resistance to bacteria and mold. The potash form of potassium oxide is K2O. Potassium is usually present in the soil, but it can be locked in by high salinity. Potassium is listed in the potash form on fertilizer labels.
-
-## Role in Plant Biology
-
-Potassium is unique among the primary nutrients because it does not become part of any structural molecule in the plant. Instead, it remains as a free ion (K+) and functions as a regulatory and activator element. Potassium serves multiple essential functions in cannabis:
-
-- Combines sugars, starches, and carbohydrates, essential to their production and movement
-- Essential to growth by cell division
-- Increases the chlorophyll in the foliage
-- Helps regulate the stomata openings so plants make better use of light and air
-- Essential in the accumulation and translocation of carbohydrates
-- Necessary to make the proteins that augment the oil content and improve flavor in cannabis plants
-- Encourages strong root growth
-- Associated with disease resistance and water intake
-- Activates over 60 enzymes involved in plant growth and development
-- Maintains turgor pressure within plant cells
-- Regulates the opening and closing of stomata to control transpiration
-
-## Mobility in Soil
-
-Potassium is **mobile** within the plant, meaning it can be translocated from older leaves to newer growth when supplies are limited. In the soil, potassium is relatively mobile compared to phosphorus but can still become locked up by high salinity, particularly when sodium levels are elevated. In saline soils, sodium competes with potassium for uptake, effectively causing a potassium deficiency even when potassium is present in adequate amounts. Potassium leaches readily from sandy soils but is held more tightly in clay soils, where it can sometimes become fixed in the clay mineral structure. At low levels, sodium appears to benefit plants and may even make up for potassium deficiency, but too much leads to sodium stress and roots lose the ability to absorb water.
-
-## Interactions with Other Nutrients
-
-The interaction between potassium and other cations is one of the most common sources of secondary nutrient problems in cannabis cultivation. Too much potassium impairs and slows the absorption of [[cannabis-magnesium-nutrient]], [[cannabis-manganese-nutrient]], and sometimes [[query-how-to-fix-zinc-deficiency-in-cannabis]] and [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]. Excess sodium in the soil can block potassium uptake and mimic potassium deficiency symptoms. During flowering, the shift from nitrogen-dominant to potassium-dominant nutrition means careful monitoring is essential to avoid creating secondary deficiencies.
-
-## Organic Sources
-
-[[cannabis-organic-fertilizers]] can add potassium through:
+Potassium is a primary [[cannabis-magnesium-nutrient]], [[query-how-to-fix-zinc-deficiency-in-cannabis]] and [[cannabis-organic-fertilizers]] can add potassium through:
 
 - Soluble potash (wood ashes) mixed with water
 - Kelp meal and seaweed extracts
@@ -76,7 +48,7 @@ Potassium-starved plants initially appear healthy, which makes early detection d
 
 ### Treatment
 
-Fertilize with a complete [[cannabis-chemical-fertilizers]]. Occasionally, a grower will add potassium directly to the nutrient solution. [[cannabis-foliar-feeding]] to cure a potassium deficiency is not recommended.
+Fertilize with a complete [[cannabis-foliar-feeding]] to cure a potassium deficiency is not recommended.
 
 During flowering, a foliar spray of potassium can help flowering, especially if temperatures dip below 50F (10C) or above 80F (25C).
 
@@ -86,7 +58,7 @@ Toxicity occurs occasionally and is difficult to diagnose because it is mixed wi
 
 ### Symptoms
 
-Too much potassium impairs and slows the absorption of [[cannabis-magnesium-nutrient]], [[cannabis-manganese-nutrient]], and sometimes [[query-how-to-fix-zinc-deficiency-in-cannabis]] and [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]. Look for signs of toxic potassium buildup when symptoms of magnesium, manganese, zinc, and iron deficiencies appear.
+Too much potassium impairs and slows the absorption of [[cannabis-manganese-nutrient]], and sometimes [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]. Look for signs of toxic potassium buildup when symptoms of magnesium, manganese, zinc, and iron deficiencies appear.
 
 ### Treatment
 
@@ -114,10 +86,7 @@ Potassium is used at all stages of growth but becomes particularly important dur
 
 ## See Also
 
-- [[cannabis-nitrogen]]
 - [[cannabis-phosphorus]]
-- [[cannabis-magnesium-nutrient]]
 - [[cannabis-nutrient-deficiency-guide]]
-- [[cannabis-nutrient-toxicity]]
 - [[cannabis-foliar-feeding]]
 - [[cannabis-nutrient-solution-preparation]]

@@ -133,17 +133,6 @@ In TCM, the dried, roasted silkworm feces (called "Can Sha") are also used medic
 
 ## See Also
 
-- [[permaculture]] — sustainable design framework integrating mulberry and other multi-functional species
 - [[food-forest]] — polyculture food production system where mulberry serves as a canopy tree
-- [[robert-hart]] — pioneer of forest gardening who included mulberry in his designs
 - [[bill-mollison]] — co-originator of permaculture concept
-- [[mimosa-hostilis]] — another multi-functional tree species used in permaculture contexts
-
-## References
-
-1. Chan, E.W., et al. (2016). "Phytochemistry, pharmacology, and clinical trials of *Morus alba*." *Chinese Journal of Natural Medicines*, 14(1), 17–30.
-2. Thaipitakwong, T., Numhom, S., & Aramwit, P. (2018). "Mulberry leaves and their potential effects against cardiometabolic risks." *Nutrients*, 10(10), 1662.
-3. Asano, N., et al. (1994). "Sugar-mimic glycosidase inhibitors: Natural occurrence, biological activity and prospects." *Tetrahedron: Asymmetry*, 5(9), 1645–1680.
-4. Sánchez, M.D. (2002). "Mulberry for animal production." FAO Animal Production and Health Paper No. 147.
-5. Kimura, T., et al. (2007). "Food-grade mulberry powder enriched with 1-deoxynojirimycin suppresses the elevation of postprandial blood glucose." *Journal of Agricultural and Food Chemistry*, 55(14), 5869–5874.
 - [[lonicera-caerulea]]

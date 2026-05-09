@@ -85,16 +85,7 @@ Dr. R.R. Brooks of Massey University, New Zealand, used "hyperaccumulator" plant
 
 - [[dynamic-accumulator-quick-reference]]
 
-- [[dynamic-accumulator-quick-reference]]
-
-- [[legume-nitrogen-dynamics]] -- detailed nitrogen fixation timing and the beans-feed-corn myth
 - [[comfrey-plant-guide]] -- deep dive on the premier permaculture accumulator
-- [[dynamic-accumulators]] -- general accumulator concept and permaculture applications
-
-## Related
-
 - [[arid-landscape-permaculture]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[liquid-fertilizer-from-weeds]]
-- [[permaculture-dynamic-accumulator-plants]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

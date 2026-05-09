@@ -97,17 +97,7 @@ For homebrewers choosing between ale and lager:
 
 ## See Also
 
-- [[beer-brewing-basics]] for the complete brewing process
 - [[yeast-biology]] for the science of brewing yeast
-- [[yeast-biology-guide]] for detailed yeast information
-- wild fermentation vs cultured yeast for spontaneous and mixed fermentation
-- beer styles overview for the range of ale and lager styles
 - [[malt-and-malting-process]] for the grain side of brewing
-- [[history-of-beer-and-brewing]] for how ale and lager developed historically
-
-## Related
-
-- index-brewing
 - [[wild-yeast-bread-baking]]
-- [[wild-fermentation-vs-cultured-yeast]]
 - [[strain-isolation-from-wild-specimens]]

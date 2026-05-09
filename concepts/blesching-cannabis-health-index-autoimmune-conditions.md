@@ -80,15 +80,7 @@ Blesching draws on psychosomatic medicine to suggest autoimmune diseases may mir
 ## Related Topics
 - blesching-cannabis-health-index-inflammatory-conditions
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- blesching-cannabis-health-index-neurological-disorders
-- endocannabinoid-system
-- cannabidiol-cbd
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
 - [[cannabis-and-ibs-research]]
-- [[cannabis-mind-body-medicine-integration]]
 - [[cannabis-anxiety-and-ptsd-treatment]]
-- [[cannabis-chronic-fatigue-research]]
 - [[cherry-pie-cannabis]]

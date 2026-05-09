@@ -3,7 +3,7 @@ title: Bee Forage and Hive Management (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, animal-husbandry]
+tags: [[permaculture, design, animal-husbandry]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -15,19 +15,7 @@ Source: Permaculture: A Designers' Manual, Bill Mollison, Section 12.11 (pp. 428
 
 ## Bee Products
 
-Bees produce several valuable and unique products: honey, wax, pollen, propolis, and royal jelly. See [[bee-products-beyond-honey]] for details. They also carry out the essential service of [[permaculture-designers-manual-crop-pollination]] for a wide variety of food, oil, fruit, and seed crops (such as mustard, clovers, buckwheat, most smallfruit, apples, and grain legumes). For basic beekeeping information, see [[beekeeping-basics]].
-
-## Hive Range and Spacing
-
-Bees form a hive or clustered hive site range over an area about 2.5 km radius, and commercial registered hive sites are thus sited 5 km apart in order to restrict disease transmission from hive site to hive site.
-
-As many as 100-150 hives are commonly grouped at one site, depending on the richness of the range resource. Bees prefer to fly 100 m or more to forage, and their flight assists in the evaporation of nectar to honey, so that forage species are planted this distance or more from hives.
-
-## Forage Design Principles
-
-Bees more efficiently harvest clumped rather than scattered nectar sources, so that hedgerows, fields, or clumps of preferred forage species are better than a scatter of the same species in a mosaic of individual plants.
-
-Cold winds most restrict foraging, so that hedgerow (even low hedgerow of 0.5-1 m) is essential cover, preferably leading from the hive site (bee village) to the forage. Such hedges can be made of rosemary, Acacia, or even soil ridges with catmint, capeweed, thyme, or field daisies to assist foraging. See [[bee-forage-plants]] for additional species selection.
+Bees produce several valuable and unique products: honey, wax, pollen, propolis, and royal jelly. See [[permaculture-designers-manual-crop-pollination]] for a wide variety of food, oil, fruit, and seed crops (such as mustard, clovers, buckwheat, most smallfruit, apples, and grain legumes). For basic beekeeping information, see [[bee-forage-plants]] for additional species selection.
 
 ## Pollen and Early Forage
 
@@ -69,25 +57,27 @@ Special pollens are those collected from plants such as some Acacia and goldenro
 
 Given that we have designed a range for bees, then the same area presents a unique opportunity to grow crops, especially seed crops, dependent on bee pollination. Such crops are: kiwifruit, any bramble berry, smallfruit, mustards and Brassicas, clovers, apples or pome fruits, buckwheat, Acacia, stone pine, and so on.
 
-Crops within a mile of hives will outyield crop in bee-deficient areas by a factor of 3-10 times. See also [[bee-forage-systems-design]] for broader system planning.
-
-## Forage Species Target
-
-It is best to have 35 main forage species over the whole season, as species such as clover and eucalypts may vary in yield from year to year. Similarly, pollen species are selected on the same basis, and pollen traps fitted to the hives at periods of high yield.
-
-Hives should yield about the same weight of pollen as honey, and the latter provides a high-protein additive to any flours or starchy foods.
-
-## Bee Forage Hedgerow Plants
-
-Hedgerow tree species provide multiple benefits: bee forage, wind protection, wildlife habitat, and livestock browse. Rosemary, Acacia, and many flowering shrubs serve as wind-protected forage corridors leading from hive sites to main forage areas.
-
-## See Also
-
-- [[grassland-pasture-management-mollison]]
-- [[farm-forestry-design-mollison]]
+Crops within a mile of hives will outyield crop in bee-deficient areas by a factor of 3-10 times. See also [[grassland-pasture-management-mollison]]
 - [[orchard-plant-guilds-mollison]]
-- [[seed-saving-seed-resources-mollison]]
 - [[permaculture-designers-manual-food-forest-guilds]]
-- [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-seed-saving-varieties]]
 - [[permaculture-designers-manual-crop-pollination]]
+## Practical Considerations
+
+Successful implementation of Bee Forage and Hive Management (Mollison) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

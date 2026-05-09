@@ -20,32 +20,6 @@ a massive brick or stone body to store heat from a hot, fast fire and release it
 of a home.
 
 ## Rocket Stove
-[[rocket-stove]]
-A rocket stove uses an insulated J-tube or L-tube combustion chamber (feed tube 4D, burn tunnel
-3D, heat riser 6D) lined with refractory materials and insulated with perlite, vermiculite, or
-wood ash. Wood is fed horizontally into a vertical burn tunnel, creating a strong draft that
-achieves near-complete combustion of wood gases at 1000-1800 degrees F. The rocket mass heater
-variant extends the concept by routing exhaust gases through a cob or masonry bench that stores
-heat for 12-24 hours from a single 1-2 hour burn.
-
-Rocket stoves excel at using small-diameter waste wood — branches, twigs, and scrap that would
-otherwise be discarded — reducing fuel needs by 80-90% compared to open fires. They produce very
-little smoke when properly constructed and operated. The materials are inexpensive (often
-salvageable), and the design is simple enough for DIY construction using cob, firebrick, and
-metal chimney components. Rocket mass heaters are particularly effective because they combine
-clean combustion with thermal mass storage, providing gentle, even heat long after the fire is
-out. They can be built into benches, beds, or cob seating areas, making them dual-purpose
-features in a home.
-
-The drawbacks are significant: combustion chamber temperatures pose serious burn hazards,
-building code acceptance for indoor rocket mass heaters is limited in many jurisdictions, and
-performance depends critically on correct dimensions and construction quality. Horizontal flue
-runs are limited to 20-30 feet, requiring careful layout. The technology is still considered
-experimental by many code officials, and finding insurance coverage can be difficult. Rocket
-stoves are best suited to off-grid homesteads, outdoor kitchens, and greenhouse heating where
-code restrictions are less relevant.
-
-## Masonry Heater
 [[masonry-heater-design]]
 A masonry heater (also called kachelofen, tile stove, or Russian stove) burns a hot, fast fire
 in an insulated firebox and routes the exhaust gases through internal channels or bell chambers
@@ -127,8 +101,6 @@ chamber represents a promising frontier in efficient wood heating, combining the
 engineering principles of both traditions.
 
 ## See Also
-- [[passive-solar-design]]
 - [[cob-construction]]
-- [[rocket-stove-design]]
 - [[rocket-mass-heater-design]]
 - [[masonry-heater-design]]

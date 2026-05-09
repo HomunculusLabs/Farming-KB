@@ -27,8 +27,7 @@ alkylleads or organotins from water (Macaskie & Dean, 1987, 1990; Gadd,
 2000b). Degradation of organometallic compounds by fungi can proceed
 through two general pathways:
 
-1. **Direct biotic action**: [[enzymatic-degradation-in-mycoremediation]] mediated by
-   specific [[fungal-enzymes-degradation]] that cleave metal-carbon bonds.
+1. **Direct biotic action**: [[fungal-enzymes-degradation]] that cleave metal-carbon bonds.
 2. **Indirect facilitation of abiotic degradation**: Fungi alter
    environmental conditions, such as pH, and excrete metabolites that
    promote the chemical breakdown of organometallic compounds.
@@ -132,8 +131,6 @@ important implications for environmental management:
   in diverse environmental conditions.
 
 ## Related
-
-- [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]] Concepts
 
 - [[staycare-fungal-biosorption-of-heavy-metals]] — Broader treatment of
   fungal interactions with metallic elements and compounds

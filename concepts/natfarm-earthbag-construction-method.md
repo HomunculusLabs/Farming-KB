@@ -1,7 +1,7 @@
 ---
 title: Earthbag Construction for Sustainable Homes
 created: 2026-04-28
-tags: [earthbag, natural-building, sustainable-housing, permaculture, low-cost]
+tags: [earthbag, [[natural-building]], sustainable-housing, permaculture, low-cost]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
@@ -50,18 +50,7 @@ case use reinforced concrete.
 Dig a trench the width of the base of your wall, following the outline of
 the house. The base width must be at least a tenth of the wall height: if
 your wall is 10 feet high (3 meters), the base must be 1 foot (30 cm)
-thick. Trenches in wet and [[permaculture]] designers manual need to be dug below frost level.
-
-### Step 3: Gravel Base
-Fill the trench with gravel or concrete. The first layer of bags can be
-filled with gravel and laid in the trench. If you have a very wet climate,
-the first few rows can also be filled with gravel. Some people embed rebar
-in the concrete to pin the base down.
-
-### Step 4: Drainage
-In very wet climates, install a perforated pipe in a trench dug around the
-perimeter of the walls. The pipe sits on a bed of gravel. You could also
-build a swale beyond that to force water into the soil to
+thick. Trenches in wet and [[swale]] beyond that to force water into the soil to
 be soaked up by trees rather than by the foundation.
 
 ### Step 5: Fill and Lay Bags
@@ -112,11 +101,7 @@ traditional peaked roof is recommended over dome or cone roofs because it
 harvests rainwater more effectively. The eaves should extend far enough so
 that the walls are not exposed to moisture.
 
-## Connection to [[permaculture-design]]
-
-Earthbag homes integrate with principles.
-The thermal mass of the walls naturally regulates indoor temperature. The
-home can incorporate [[urban-permaculture-rainwater-harvesting-graywater]] from the roof and
+## Connection to [[urban-permaculture-rainwater-harvesting-graywater]] from the roof and
 for wastewater. The excavated soil from the building
 site fills the bags, creating zero waste. This approach embodies the
 ethic of using local,
@@ -124,5 +109,4 @@ abundant materials to create durable, functional shelter.
 
 ## See Also
 
-- [[earthbag-construction]]
 - [[earthbag-construction]]

@@ -60,7 +60,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin-compound]] and [[psilocin]] as primary psychoactive alkaloids
+- Contains [[psilocin]] as primary psychoactive alkaloids
 - Moderate potency compared to other Psilocybe species
 - Bluing reaction is prominent on the cap, gills, and stipe when damaged
 - Potency can vary depending on substrate, age, and environmental conditions
@@ -70,7 +70,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 - The distinctive ovate to flask shaped cheilocystidia with elongated necks are the key microscopic feature separating this species from similar taxa
 - The combination of spring fruiting, east coast distribution, and prominent bluing help distinguish it from lookalikes
-- Can be confused with [[psilocybe-cyanescens]] and [[psilocybe-caerulipes]] but differs in seasonality, geographic range, and microscopic features
+- Can be confused with [[psilocybe-caerulipes]] but differs in seasonality, geographic range, and microscopic features
 - The persistent annular zone on the stipe is more prominent than in many other Psilocybe species
 - The chestnut brown cap that fades to pale is characteristic when fresh
 
@@ -79,11 +79,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - Can be cultivated on standard lignicolous substrates including hardwood sawdust and wood chip based preparations
 - Prefers hardwood supplemented substrates over grain only approaches
 - Fruitbody formation is triggered by temperature drops and high humidity, mimicking its natural spring fruiting conditions
-- Similar cultivation parameters to [[psilocybe-azurescens]] and [[psilocybe-cyanescens]] but generally considered easier due to more forgiving environmental requirements
+- Similar cultivation parameters to [[psilocybe-cyanescens]] but generally considered easier due to more forgiving environmental requirements
 
 ## Similar Species
 
-- [[psilocybe-caerulipes]] — found in similar habitat but fruits later in the season and has different cystidia
 - [[psilocybe-cyanescens]] — more robust, wavy cap margin, different cystidia, and typically autumn fruiting
 - [[psilocybe-subaeruginosa]] — Australian species with similar appearance but different distribution
 - Several non psychoactive Galerina and Stropharia species share similar habitat and should be carefully distinguished

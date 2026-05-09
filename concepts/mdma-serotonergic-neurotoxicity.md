@@ -15,8 +15,7 @@ type: concept
 known for its empathogenic and stimulant effects. A significant body of
 research has examined the potential for MDMA to cause serotonergic
 neurotoxicity, particularly with respect to long-term changes in serotonin
-neurons [[allegro-death-and-resurrection-in-the-mushroom-cult]] brain. Understanding this risk is critical for evaluating both
-recreational [[use-and-value-diversity-permaculture]] clinical applications of MDMA-assisted therapy.
+neurons [[use-and-value-diversity-permaculture]] clinical applications of MDMA-assisted therapy.
 
 ## Mechanism of Serotonin Release
 
@@ -40,21 +39,7 @@ Several mechanisms have been proposed for MDMA-induced serotonergic damage.
 One prominent theory involves the formation of reactive oxygen species and
 reactive nitrogen species during the metabolism of excess serotonin. The
 enzyme monoamine oxidase converts serotonin to 5-hydroxyindoleacetaldehyde,
-which can generate hydrogen peroxide [[allen-gymnopilus-and-other-psychoactive-genera]] reactive metabolites that
-damage neuronal components.
-
-Another pathway involves auto-oxidation of dopamine. When SERT is saturated,
-MDMA can also be taken up by the dopamine transporter, leading to dopamine
-accumulation in serotonergic neurons. Dopamine auto-oxidation generates
-quinones and other reactive species that are particularly toxic to serotonin
-axons. This mechanism explains why dopaminergic drugs that increase dopamine
-levels in serotonin neurons can exacerbate MDMA neurotoxicity.
-
-Hyperthermia, a common side effect of MDMA use, significantly potentiates
-neurotoxicity through multiple mechanisms. Elevated body temperature increases
-the metabolic rate of reactive species formation, disrupts cellular ion
-homeostasis, and promotes blood-brain barrier permeability. Temperature
-reduction is one [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most effective interventions for reducing
+which can generate hydrogen peroxide [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most effective interventions for reducing
 neurotoxic damage in animal models.
 
 ## Evidence from Animal Studies
@@ -62,13 +47,7 @@ neurotoxic damage in animal models.
 Animal studies, primarily in rats and non-human primates, have consistently
 demonstrated that high or repeated doses of MDMA produce long-lasting
 reductions in serotonin markers including SERT density, serotonin tissue
-levels, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] density of serotonergic axon terminals. These changes can
-persist for months to years after administration, though some recovery
-occurs over time through axonal sprouting.
-
-Primate studies have shown particularly pronounced and long-lasting effects,
-with some studies reporting incomplete recovery even years after exposure.
-However, dose translation between species is challenging, [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] doses used
+levels, [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] doses used
 in many animal studies exceed typical recreational human doses.
 
 ## Evidence from Human Studies

@@ -49,29 +49,7 @@ among the highest reported values. Mucor meihi showed 1.15 mmol per
 gram for chromium(VI). While Penicillium and Aspergillus species were
 initially reported as poor biosorbents, more recent studies have
 shown contrasting evidence with improved performance. Yeasts including
-[[saccharomyces-cerevisiae]] and Candida maltosa are not among the best
-performers but are frequently employed as model organisms.
-
-## Biosorption Isotherms
-
-Biosorption isotherms plot metal uptake (q, in mmol or mg per gram)
-against equilibrium metal concentration (Ce, in mmolar) following a
-contacting period. Representative isotherms for chromium(VI) by
-Mucor meihi and copper(II) by Rhizopus arrhizus at pH 4 show
-characteristic Langmuir-type saturation curves. Initial binding is
-rapid at low concentrations, followed by a plateau as sites become
-saturated. Isotherm fitting using Langmuir and Freundlich models is
-standard for characterizing biosorption performance and comparing
-biomass-metal systems.
-
-## Binding Mechanisms
-
-Fungal cell walls contain multiple potential binding sites including
-chitin, amino, carboxyl, phosphate, sulfhydryl, and other functional
-groups. While chitin and chitosan were identified as key binding
-sites in early studies, carboxyl, phosphate, and other moieties are
-now recognized as of principal importance. X-ray studies of lead
-bound to [[penicillium-chrysogenum]] cell walls showed phosphoryl groups
+[[penicillium-chrysogenum]] cell walls showed phosphoryl groups
 accounting for up to 95% of binding, with carboxyl groups making up
 5%. At low concentrations, carboxyl groups were preferentially bound
 due to greater affinity. For zinc, carboxyl groups accounted for up
@@ -142,9 +120,11 @@ These modifications increase binding site density, improve mechanical
 stability, and enable repeated use in column or batch reactors.
 Immobilization of fungal biomass on porous carriers combines binding
 properties with the physical characteristics of the support material.
+## See Also
+
+- [[mycoremediation]]
+- [[mycoremediation]]
 
 ## See Also
 
-- [[bioremediation-using-fungi]]
-- [[bioremediation-fungal-biomass-biosorbent-material]]
-- [[bioremediation-fungal-metal-metalloid-transformations]]
+- [[singh-fungal-biosorption-isotherms-equilibrium-models]]

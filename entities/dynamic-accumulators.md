@@ -138,12 +138,7 @@ minerals from construction-exposed subsoil. Chicory and dandelion are effective 
 - **Yarrow** (*A. millefolium*): Copper accumulator (up to 35 mg/kg). Deep fibrous roots
 ## See Also
 
-- [[equisetum-arvense]]
 - [[rumex-crispus]]
 
-- [[leucaena-leucocephala]]
-
-- [[achillea-millefolium]]
 - [[agroecology]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[styphnolobium-japonicum]]

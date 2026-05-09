@@ -1,7 +1,7 @@
 ---
 title: Fungal Diversity in Temperate and Boreal Forests
 created: 2026-04-28
-tags: [mycology, temperate-forests, boreal-forests, fungal-ecology, biogeography]
+tags: [[mycology, temperate-forests, boreal-forests, fungal-ecology, biogeography]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -127,8 +127,6 @@ vegetation zones.
 
 ## See Also
 
-- [[biodiversity-fungi-tropical-rainforests]]
 - [[biodiversity-fungi-soil-ecosystems]]
-- [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
 - [[biodiversity-lichenized-fungi-symbiosis]]
 - [[mycorrhizal-networks-interplant-carbon-transfer]]

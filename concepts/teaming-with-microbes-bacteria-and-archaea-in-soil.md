@@ -114,14 +114,9 @@ with alkaline pH from bioslime production.
 
 ## See Also
 
-- [[teaming-with-microbes-bacteria]]
 - [[teaming-with-microbes-actinomycetes]]
-- [[teaming-with-microbes-bacteria-the-smallest-workers]]
 - [[teaming-with-microbes-mineralization-and-immobilization]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[teaming-with-microbes-fb-ratio]]
-- [[teaming-with-microbes-soil-food-web-overview]]
 - [[teaming-with-microbes-soil-ph-and-biology]]
-- [[teaming-with-microbes-decomposition-pathways]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]

@@ -27,23 +27,7 @@ how knowledge of these organisms evolved through five distinct periods.
 The earliest use of neurotropic fungi dates to ancient peoples across multiple
 continents. In Mesoamerica, the Aztec and other indigenous groups used
 teonanácatl ("divine mushroom"), first documented by Sahagún (1569-1582). In
-Siberia, the Chukchee and Koryak peoples used [[amanita-muscaria]] ceremonially. In
-New Guinea, aboriginal groups used various species of Psilocybe, Russula, and
-Boletaceous fungi as sacred mushrooms. North American indigenous peoples also
-utilized certain fungi in spiritual contexts. These traditional practices formed
-the foundation upon which modern mycological science would eventually build.
-
-## The Term Teonanácatl and Early Reports
-
-The Nahuatl word teonanácatl, meaning "divine mushroom," was first reported
-by the Spanish chronicler Bernardino de Sahagún in the 16th century. This term
-is now used indiscriminately to name any Mexican hallucinogenic fungi, though it
-originally referred to specific species. Guzmán (1997) documented more than two
-hundred common names for sacred fungi, many in indigenous languages. Among the
-most common Spanish names used by indigenous peoples are "san isidros" (after
-the patron saint of agriculture), "pajaritos" (little birds), and "derrumbes"
-(landslides), typically referring to [[psilocybe-cubensis-potency-variation-by-flush]],
-[[psilocybe-mexicana-entity-the-mushroom-cultivator]], and
+Siberia, the Chukchee and Koryak peoples used [[psilocybe-cubensis-potency-variation-by-flush]],
 [[psilocybe-zapotecorum]], respectively.
 
 ## Schultes and the Initial Scientific Inquiry

@@ -1,7 +1,7 @@
 ---
 title: "Field Guide to Psilocybin Mushroom Species Identification"
 created: 2026-04-28
-tags: [mycology, field-identification, psilocybin, species-guide, safety]
+tags: [[mycology, field-identification, psilocybin, species-guide, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
@@ -138,13 +138,9 @@ not blue when damaged and contains no psilocybin.
 rarely consumed intentionally due to difficulty of identification
 and the presence of toxic look-alike species. Identification
 requires microscopic examination of spore morphology.
-
 ## Related
-
-- [[psilocybin-mushroom-species-overview]]
 
 - [[mushroom-species-selection-guide]] Topics
 
-- [[oss-oeric-psilocybe-cubensis-strain-guide]] for cultivation focus
 - [[oss-oeric-dosage-guidelines-and-potency]] for dosage information
 - [[mushrooms-fungi-from-around-the-world-guide]]

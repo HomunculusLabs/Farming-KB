@@ -140,11 +140,8 @@ For urban or space-limited settings:
 - **Swale + hugel**: Water-harvesting swales with hugel mounds on the berm
 - **Wofati**: Paul Wheaton's earth-bermed passive solar structure incorporating hugel principles
 - **Hugelbeet**: German permaculture variant with optimized coniferous/deciduous wood ratios
-
 ## See Also
 
-- [[permaculture]] — Design system that incorporates hugelkultur
-- [[sepp-holzer]] — Austrian farmer who popularized hugelkultur in modern permaculture
-- [[biochar]] — Charcoal-based soil amendment with similar carbon sequestration benefits
+- [[sepp-holzer-entity]] — Austrian farmer who popularized hugelkultur in modern permaculture
 - [[sheet-mulching]] — Surface composting technique often used in combination with hugelkultur
 - [[gaias-garden-swales-and-berms-construction]] — Water-harvesting earthworks complementary to hugel beds

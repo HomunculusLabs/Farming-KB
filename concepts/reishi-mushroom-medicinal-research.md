@@ -74,12 +74,8 @@ The bitterness is proportional to triterpenoid content and is considered a quali
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]]
+- [[turkey-tail-mushroom-cancer-research]]
 - [[maitake-mushroom-research]]
 - [[chaga-mushroom-research]]
 - [[reishi-cultivation-guide]]
 - [[medicinal-mushroom-guide-reishi]]
-
-## Cultivation Applications
-
-This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

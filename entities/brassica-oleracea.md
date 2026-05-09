@@ -110,12 +110,8 @@ The species became a global commodity crop through European colonization. It now
 ## See Also
 
 - [[sinapis-alba]]
-- [[raphanus-sativus]]
 - [[arabidopsis-thaliana]]
-- [[kaempferol]]
 - [[quercetin]]
-- [[luteolin]]
 - [[capsicum-annuum]]
-- [[solanum-lycopersicum]]
 - [[daucus-carota]]
 - [[allium-cepa]]

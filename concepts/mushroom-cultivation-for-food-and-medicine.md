@@ -3,7 +3,7 @@ title: Mushroom Cultivation for Food and Medicine
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 
@@ -68,20 +68,12 @@ Mushrooms are rich in:
 
 ## Integration with Homestead
 
-- [[kitchen-composting-and-vermicomposting]] spent mushroom substrate as nutrient-rich soil amendment
-- Grow mushrooms on agricultural waste (straw, corn stalks, sawdust) from the homestead
-- Use coffee grounds from the kitchen as free substrate for oyster mushrooms
-- Integrate wine cap mushrooms into [[garden-care-and-succession-planting]] mulch beds
+- [[garden-care-and-succession-planting]] mulch beds
 - Medicinal mushrooms (reishi, lion's mane, turkey tail) can be dried and used for teas and tinctures
 
 ## See Also
 
-- [[gartz-mushroom-cultivation-classic-and-new-techniques]]
-
 - [[kitchen-composting-and-vermicomposting]]
-- [[garden-care-and-succession-planting]]
 - [[sustainable-living-habits-for-homesteads]]
-- [[lacto-fermentation-and-food-preservation-methods]]
 - [[fungi-in-composting-and-agricultural-waste-conversion]]
-- [[reishi-mushroom-medicinal-properties]]
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]

@@ -133,11 +133,7 @@ This redundancy serves several purposes:
 
 ## Related Topics
 
-- [[root-anatomy-structure-and-nutrient-uptake]] -- where these pathways converge
 - [[water-pathways-through-plants]] -- the complete water transport picture
-- [[plasmodesmata-and-intercellular-communication-in-plants]] -- symplastic connections
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] -- membrane crossing mechanisms
-- [[the-vacuole-and-tonoplast-in-plant-cell-regulation]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[plant-nutrient-uptake-mechanisms]]

@@ -31,7 +31,7 @@ sources:
 The genus *Angelica* belongs to the family Apiaceae (the carrot or parsley family) and the subfamily Apioideae. The species epithet and common name derive from medieval European folklore: according to legend, the Archangel Michael revealed the plant's medicinal virtues to a monk during a plague epidemic, hence *archangelica* — "the angelic herb." This association with divine healing persisted throughout the medieval period, and the plant was sometimes called "herb of the Holy Ghost."
 
 Several other *Angelica* species share common names and uses:
-- *Angelica sinensis* ([[dong-quai]]) — Chinese angelica; primary women's tonic in TCM
+- *Angelica sinensis* (dong quai) — Chinese angelica; primary women's tonic in TCM
 - *Angelica dahurica* (Bai Zhi) — used in traditional Chinese and Kampo medicine
 - *Angelica sylvestris* (wild angelica) — European native, less aromatic, occasionally used
 
@@ -98,35 +98,7 @@ Angelica has a rich pharmacological profile attributed to its diverse phytochemi
 
 **Respiratory system:** As an expectorant, angelica promotes productive coughing in bronchitis, pleurisy, and chronic respiratory congestion. Its warming, diaphoretic properties make it useful in the early stages of colds and influenza — traditionally combined with elderflower and peppermint in fever teas.
 
-**Women's health:** Though less specific than its Chinese cousin [[angelica-sinensis]] (dong quai), European angelica has emmenagogue properties and has been used to stimulate delayed or absent menstruation. It was historically employed for dysmenorrhea and menopausal symptoms, though this use is less supported by modern clinical evidence.
-
-**Circulatory system:** The coumarin constituents have mild anticoagulant and blood-thinning effects. Angelica was traditionally used as a "blood purifier" and to promote peripheral circulation, particularly in cases of cold extremities and poor venous return. **Caution:** this anticoagulant effect necessitates caution in patients on warfarin or other blood-thinning medications.
-
-**Nervous system:** Angelica has mild nervine (calming) properties and has been used for nervous exhaustion, anxiety-related digestive complaints, and sleep difficulties, particularly when digestive discomfort contributes to insomnia.
-
-### Dosage
-
-- **Dried root decoction:** 1–3 g dried root in 150–250 ml water, simmered 10–15 minutes, 2–3 times daily
-- **Tincture (1:5, 45% ethanol):** 2–4 ml, 2–3 times daily
-- **Liquid extract (1:1):** 0.5–2 ml, 2–3 times daily
-
-### Contraindications and Safety
-
-- **Pregnancy:** Contraindicated — emmenagogue and uterine-stimulating effects may risk miscarriage
-- **Photosensitivity:** Furanocoumarins (bergapten, psoralen) can cause severe sunburn and photodermatitis in light-skinned individuals, especially with topical application followed by UV exposure
-- **Anticoagulant interaction:** Enhances the effect of warfarin, heparin, and antiplatelet drugs; discontinue 2 weeks before surgery
-- **Diabetes:** May affect blood glucose levels; monitor carefully with hypoglycemic medications
-- **Not recommended** for children under 6, or prolonged use exceeding 4–6 weeks without professional supervision
-
-## Culinary Uses
-
-Angelica is a versatile culinary plant with a distinctive sweet-celery-licorice flavor:
-
-- **Candied angelica:** Young stems are candied in sugar syrup and used as decoration for cakes, desserts, and confections — particularly traditional in France and Scandinavia
-- **Stems:** Chopped into fruit compotes, rhubarb dishes, and tart fillings; the sweet flavor complements tart fruits
-- **Leaves:** Used in salads (young leaves only), soups, and fish dishes
-- **Root:** Dried and ground as a spice; used in gin production (a key botanical in some formulations), Chartreuse, Benedictine, and other liqueurs
-- **Seeds:** Used as a spice, similar to [[permaculture-fennel]] or caraway
+**Women's health:** Though less specific than its Chinese cousin [[permaculture-fennel]] or caraway
 - **Jam and jelly:** Particularly traditional in Norway and Iceland, where angelica jam (*engelsk-syrin*) is a specialty
 
 ## Permaculture and Ecological Value
@@ -142,5 +114,8 @@ Angelica has significant value in permaculture and ecological gardening:
 
 ## See Also
 
-- [[companion-planting]]
 - [[food-forest]]
+
+## See Also
+
+- [[permaculture-plants-herbaceous-perennials]]

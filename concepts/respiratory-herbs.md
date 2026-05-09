@@ -64,24 +64,12 @@ Steam inhalation is a traditional method of delivering volatile oils from herbs 
 
 Effective herbs for steam inhalation include eucalyptus, peppermint, thyme, rosemary, and tea tree. The volatile oils are carried by the steam to the nasal passages, sinuses, and bronchi, providing decongestant, antimicrobial, and anti-inflammatory effects directly where they are needed.
 
-Steam inhalation should be used with caution in children (risk of burns) and in individuals with asthma (some people find steam triggers bronchospasm). See [[herbal-steam-inhalation]] for detailed steam inhalation guidance and safety precautions.
-
-## Formulation and Dosage
-
-Respiratory herb formulas typically combine herbs from several action categories to address the multiple aspects of respiratory conditions. A formula for a wet cough might include an expectorant, an antimicrobial, and a demulcent. A formula for a dry cough might include an antitussive, a demulcent, and an anti-inflammatory.
-
-Acute respiratory conditions (colds, flu, acute bronchitis) respond well to frequent doses of tea or tincture every two to four hours for the first one to three days. Chronic respiratory conditions (asthma, chronic bronchitis, allergies) benefit from consistent daily use of respiratory tonic herbs over longer periods.
-
-Honey-based preparations are particularly appropriate for respiratory herbs because honey coats the throat and has its own antimicrobial properties. Herbal cough syrups combining expectorant herbs with honey are effective and palatable. See respiratory herbs for syrup preparation methods and [[honey-based-herbal-preparations]] for honey-based medicine making.
+Steam inhalation should be used with caution in children (risk of burns) and in individuals with asthma (some people find steam triggers bronchospasm). See [[honey-based-herbal-preparations]] for honey-based medicine making.
 
 ## Related Topics
 
-- [[herbal-steam-inhalation]] — Steam inhalation methods and safety
-- respiratory herbs — Cough syrup and medicinal syrup preparation
 - [[honey-based-herbal-preparations]] — Honey as a medicine carrier
-- [[herbal-medicine-preparation-methods]] — Antimicrobial herbs for respiratory infections
 - [[herbal-formulation-principles]] — Anti-inflammatory support for airways
-- [[herbal-materia-medica]] — Individual respiratory herb profiles
 - [[herbal-formulation-principles]] — Dosing for respiratory conditions
 
 ## Merged: Herbal Syrups
@@ -135,3 +123,5 @@ Thyme honey syrup combines thyme's antimicrobial, expectorant, and antitussive p
 ## Shelf Life and Storage
 
 Honey-based syrups typically last one to three months refrigerated in a clean glass jar. Sugar-based syrups (with sufficient sugar concentration) can last six months or more. Adding a small amount of vodka or brandy (one to two tablespoons per cup of syrup) extends shelf life by further inhibiting microbial growth.
+
+See also: [[herbal-medicine-making]]

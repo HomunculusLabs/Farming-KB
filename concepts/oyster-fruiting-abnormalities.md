@@ -20,53 +20,7 @@ mushrooms with desirable morphology.
 ## Temperature and Humidity Effects
 
 Temperature and humidity interact to affect fruiting body shape. For a typical
-[[pleurotus-ostreatus]] strain, optimal conditions are 13-16C with relative
-humidity above 80%. Deviations from these ranges produce characteristic
-abnormalities.
-
-### High Temperature, High Humidity (above 16C, above 80%)
-
-Under warm and humid conditions, the following abnormalities develop:
-
-- Cap-to-stipe ratio becomes smaller, producing small caps with long stipes
-- Cap color lightens from grey to brownish-grey
-- Depression forms in the center of the cap
-- Overall mushroom appearance is elongated and spindly
-- These conditions may accelerate growth rate but produce inferior quality
-
-### High Temperature, Low Humidity (above 16C, below 60%)
-
-Combined heat and dryness produces the most severe deformations:
-
-- Cap margins become thin and brittle, prone to cracking
-- Cap turns into an umbrella shape as edges curl upward
-- Cap color becomes very light, ranging from light grey to nearly white
-- Stipe becomes very thick relative to cap size
-- Mushrooms are tough and less palatable
-
-### Low Temperature, Low Humidity (below 12C, below 60%)
-
-Cold and dry conditions slow development significantly:
-
-- Cap color becomes dark brown
-- Stipe becomes thick or develops barrel-shaped swelling in the middle
-- Fruiting bodies grow very slowly, producing low yields
-- Extended cropping cycles increase production costs
-- Mushrooms may appear stunted or deformed
-
-### Low Temperature, High Humidity (below 12C, above 80%)
-
-Cool, moist conditions produce the strongest fruiting bodies:
-
-- Relatively strong color and firm fruiting body texture
-- Fruiting bodies grow slowly with reduced numbers
-- Individual mushrooms tend to be larger and more robust
-- Overall yield may be lower but quality is superior
-
-## Carbon Dioxide Concentration Effects
-
-Elevated CO2 concentration inside mushroom houses is one of the major causes
-of abnormal [[fruiting-body-development]]. Proper ventilation is needed to reduce
+[[fruiting-body-development]]. Proper ventilation is needed to reduce
 CO2, but excessive air movement also induces abnormalities. The relationship
 between CO2 concentration and fruiting body morphology is well documented:
 
@@ -81,16 +35,7 @@ At 0.03% CO2 (fresh air), mushrooms develop normal cap-to-stipe proportions.
 As CO2 increases to 0.1-0.3%, caps become progressively smaller while stipes
 elongate, producing the characteristic "coral" or "antler" morphology. Above
 0.5% CO2, even stipe development is suppressed, producing severely stunted
-fruiting bodies. These effects are consistent with [[oyster-substrate-carbon-nitrogen-ratio]] observed across different Pleurotus species.
-
-## Substrate Moisture Effects
-
-Watering after primordium formation is critical for producing high yields of
-quality mushrooms. Both overwatering and underwatering cause problems:
-
-### Excessive Moisture
-
-- Disease incidence increases significantly, particularly [[oyster-brown-blotch-disease]] and bacterial infections
+fruiting bodies. These effects are consistent with [[oyster-brown-blotch-disease]] and bacterial infections
 - Substrate becomes waterlogged, restricting oxygen availability
 - Free water on mushroom surfaces promotes pathogen growth
 - Mushrooms become soft and watery with reduced shelf life
@@ -119,7 +64,24 @@ factors simultaneously. Key practices include:
 ## See Also
 
 - Oyster Fruiting Conditions
-- [[oyster-substrate-carbon-nitrogen-ratio]]
-- Oyster Growing House Design
 - [[oyster-insect-pests]]
 - Oyster Disease Management
+## Practical Considerations
+
+Successful implementation of Fruiting Body Abnormalities in Oyster Mushrooms requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

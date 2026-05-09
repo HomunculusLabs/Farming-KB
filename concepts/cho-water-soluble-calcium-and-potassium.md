@@ -12,17 +12,8 @@ Water-soluble mineral inputs are a distinctive feature of Dr. Cho's
 Natural Farming. By converting normally insoluble minerals into
 plant-available forms through acid extraction, NF makes calcium,
 potassium, phosphorus, and other minerals readily absorbable. The two
-most important are [[water-soluble-calcium-wca]]
-(WS-Ca) and [[knf-water-soluble-potassium-detailed]] (WS-K), both corresponding to key stages of the
-[[knf-nutritive-cycle-theory]].
-
-## Water-Soluble Calcium (WS-Ca)
-
-### Source Material
-Calcium carbonate (CaCO3), the main component of eggshells and
-seashells, is one of the most abundant substances on Earth. However,
-calcium carbonate is insoluble in water. Natural Farming extracts
-water-soluble calcium by dissolving eggshells in [[knf-brown-rice-vinegar]] (BRV).
+most important are [[knf-water-soluble-potassium-detailed]] (WS-K), both corresponding to key stages of the
+[[knf-brown-rice-vinegar]] (BRV).
 
 ### Preparation
 1. Collect eggshells; remove the inner peel (clears non-calcium
@@ -124,10 +115,7 @@ conditions can cause unwanted vegetative growth.
 
 ## See Also
 
-- [[cho-natural-farming-inputs-overview]]
 - [[knf-water-soluble-calcium]]
-- [[knf-water-soluble-potassium-detailed]]
 - [[knf-water-soluble-calcium-phosphate]]
-- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[knf-brown-rice-vinegar]]
 - [[knf-nutritive-cycle-theory]]

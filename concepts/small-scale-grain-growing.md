@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [grain, homesteading, cultivation, harvesting, processing, agriculture, plants, sustainability]
-sources:
+sources: []
 ---
 
 # Small Scale Grain Growing
@@ -39,7 +39,7 @@ Used for flour, malting (beer and whiskey), soups, and animal feed. One of the e
 - Winter barley: plant in fall, harvest in early summer. Zone 6 and warmer.
 - Hulled vs hull-less: hull-less (naked) barley is much easier to process for food. Hulled barley requires pearling or dehulling.
 - Yield: 50-80 bushels per acre (1 bushel = 48 pounds).
-- [[two-ag]]-row vs six-row: two-row has larger kernels and is preferred for malting. Six-row has higher protein and enzyme content.
+- Two-row vs six-row: two-row has larger kernels and is preferred for malting. Six-row has higher protein and enzyme content.
 
 ### Corn / Maize (Zea mays)
 The highest-yielding grain crop. Used for cornmeal, polenta, hominy, popcorn, and animal feed.

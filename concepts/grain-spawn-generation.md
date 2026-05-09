@@ -28,35 +28,7 @@ and thorough colonization of the target substrate.
 
 ## Choice of Grain
 
-Rye grain is the most popular choice for [[grain-spawn-production]]. Rye
-kernels are of an ideal size, absorb water well, and provide excellent
-nutrition for mycelial growth. Other grains used successfully include
-wheat, milo (sorghum), corn, and millet. The general principle is that
-smaller kernels provide more inoculation points per unit volume, which
-accelerates colonization of the final substrate. Millet, being the
-smallest of these grains, offers the most individual points of
-inoculation, while larger grains like corn offer fewer but each carries
-more nutritional reserves. Most cultivators settle on rye or wheat as
-the optimal balance of availability, cost, kernel size, and mycelial
-performance.
-
-## Inoculation Rates
-
-The rate at which grain spawn is introduced into the final substrate
-has significant implications for colonization speed, contamination
-resistance, and economics. Commercial cultivators typically inoculate
-at 3-7% of the substrate mass (wet weight basis). This rate is
-economically efficient but leaves the substrate vulnerable to
-contamination during the extended colonization period. When cultivators
-generate their own spawn, a higher rate of 8-15% is common and
-recommended. This higher inoculation rate accelerates colonization
-significantly, giving competitive mushroom mycelium a head start over
-potential contaminants. The faster the substrate is fully colonized,
-the less opportunity competitors have to establish themselves.
-
-## Grain Preparation Methods
-
-Two primary methods are used to prepare grain for spawn production.
+Rye grain is the most popular choice for [[spawn-production]].
 Both achieve the goal of hydrating the grain to optimal moisture levels
 while rendering it free of competitors through sterilization.
 
@@ -142,9 +114,7 @@ possible but not recommended for production-quality spawn due to
 senescence concerns. Each transfer carries a small risk of
 contamination or genetic degradation, so limiting the number of
 generations preserves both purity and vigor.
-
 ## See Also
 
-- [[mushroom-contamination-vectors]] for preventing contamination
 - [[mushroom-sterile-technique]] for laboratory protocols
 - [[enriched-sawdust-cultivation]] for the next stage after grain spawn

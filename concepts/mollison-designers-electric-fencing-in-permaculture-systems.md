@@ -1,21 +1,7 @@
 ---
 title: Electric Fencing in Permaculture Systems
 created: 2026-04-26
-tags: [permaculture, fencing, livestock, appropriate-technology, grazing]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Electric Fencing in Permaculture Systems
-
-Electric fencing is a key enabling technology in permaculture, allowing
-flexible and economical livestock management across multiple zones.
-Mollison references electric fencing in contexts ranging from intensive
-rotational grazing to pig tractor systems and poultry protection. It
-represents an [[mollison-permaculture-appropriate-technology]] that reduces the cost and increases the flexibility of
+tags: [[mollison-permaculture-appropriate-technology]] that reduces the cost and increases the flexibility of
 animal integration in designed systems.
 
 ## Rotational Grazing with Electric Fencing
@@ -90,25 +76,10 @@ The key advantages of electric fencing in permaculture systems include:
 - Portability: temporary fences can be moved seasonally
 - Low environmental impact: no need for extensive post-hole digging or
   permanent wire structures
-- Compatibility with [[mollison-zone-planning-frequency-distance-and-placement]]: different paddock sizes can be created to match management intensity
-
-## Limitations in Tropical Environments
-
-Mollison notes an important limitation: in tropical areas where coarse
-grasses grow rapidly, electric fence lines can become short-circuited
-by vegetation pressing against the wires. This is a particular problem
-for repelling larger animals such as pythons, pigs, bandicoots, and
-foxes. The solution is to maintain a dense, low-growing ground cover
-along fence lines, or to overshadefence lines with tree canopies.
-
-## Integration with Design Systems
-
-Electric fencing enables the integration of livestock with
-[[mollison-permaculture-two-zone-planning-and-site-layout]],
+- Compatibility with [[mollison-permaculture-two-zone-planning-and-site-layout]],
 allowing animals to be precisely placed where their foraging,
 manuring, or land-clearing functions are needed. It supports
-[[mollison-mixed-livestock-rotation-systems]]
-and [[mollison-animal-range-management]] by making
+[[mollison-animal-range-management]] by making
 paddock subdivision economically viable.
 
 Mollison believes that with modern machines, fencing, and water

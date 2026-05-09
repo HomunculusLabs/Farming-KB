@@ -1,7 +1,7 @@
 ---
 title: Mushroom Pinning and Primordia Formation Strategies
 created: 2026-04-26
-tags: [mycology, mushroom-cultivation, fruiting, primordia, stamets]
+tags: [[mycology, mushroom-cultivation, fruiting, primordia, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -11,33 +11,7 @@ type: concept
 # Mushroom Pinning and Primordia Formation Strategies
 
 Chapter IX of The Mushroom Cultivator provides a systematic framework for
-triggering [[mushroom-primordia-formation-triggers]]
-— the pivotal transition from vegetative mycelial growth to reproductive
-mushroom development. This process, called pinning, pin setting, or
-pinhead initiation, requires precise manipulation of environmental
-factors.
-
-## The Basic Pinning Strategy
-
-In nature, primordia formation responds to seasonal changes: cooling
-temperatures, increased rainfall and humidity. Indoor cultivators
-replicate these conditions artificially. The key factors, working in
-combination:
-
--   **Temperature drop** — most species fruit at lower temperatures than
-    the mycelial growth optimum.
--   **Increased humidity** — a humid microclimate (95% RH) is critical
-    for developing primordia.
--   **Fresh air / reduced CO2** — primordia have low CO2 tolerance.
--   **Light** — required by photosensitive species for initiation and
-    normal fruitbody development.
-
-Mushrooms form only when all factors coincide. The modification of any
-single factor beyond requirements can inhibit or stop the process.
-
-## Stage I: Preparation
-
-Following [[stamets-casing-layer-design]] application, the
+triggering [[stamets-casing-layer-design]] application, the
 casing is conditioned for even mycelial growth. Key requirements:
 
 1.  The casing layer is at optimum moisture capacity.
@@ -134,9 +108,6 @@ pinning.
 
 ## See Also
 
--   [[mushroom-cultivator-fruiting-conditions]] — fruiting environment
-    management
 -   [[mushroom-primordia-formation-triggers]] — primordia biology
--   [[stamets-casing-layer-design]] — casing layer preparation
 -   [[mushroom-cultivator-casing-soil]] — casing soil materials
 -   [[stamets-growing-room-design]] — growing room construction

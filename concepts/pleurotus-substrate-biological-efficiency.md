@@ -82,65 +82,13 @@ Substrates with moderate biological efficiency include:
 
 ## Spent Substrate Recycling
 
-[[spent-mushroom-substrate]] from Pleurotus cultivation need not be
-wasted. It has been suggested as a substrate for King Stropharia
-cultivation. Spent Agaricus compost amended with cotton waste can
-support satisfactory cultivation of [[volvariella-volvacea]].
+[[volvariella-volvacea]].
 Successive crops of mushrooms can be grown on spent substrate,
 though biological efficiency typically decreases with each cycle.
 
 ## Regional Substrate Adaptation
 
-[[cotter-oyster-mushroom-cultivation]] was introduced to Nepalese scientists
-in 1981. Growing P. sajor-caju on stump and chopped paddy straw
-packets was successful in Kathmandu by 1982. The technology spread
-rapidly because it was simple, easy to adopt, and suitable to
-local conditions. P. ostreatus was introduced later in 1998.
-Mid-hill regions of Nepal are the most appropriate areas for
-oyster mushroom production.
-
-## Environmental Conditions by Species
-
-Temperature and humidity requirements vary among Pleurotus species:
-
-- **P. sajor-caju**: Summer crop at 25-30C and 80% humidity in
-  Kathmandu; winter crop at 22-26C and 70% in Terai regions.
-- **P. ostreatus**: Winter season at 5-20C and 70% humidity.
-- **P. salmoneo-straminieus**: Produces approximately 1 kg fresh
-  mushrooms per 5 kg bag (70% moisture), yielding 67% BE.
-- Oyster mushrooms cannot be grown in Terai during summer
-  (30-40C and 70% humidity).
-
-## Substrate Preparation Methods
-
-Substrates require pasteurization or sterilization before
-inoculation. Paddy straw packets are prepared by chopping straw
-into short lengths, soaking, and heat-treating. For bag
-cultivation, substrate is mixed with supplements (rice bran at
-10-20% is common), hydrated to 65-70% moisture, and sterilized
-or pasteurized before inoculation with grain spawn.
-
-## Supplementation Effects
-
-Supplementation can significantly increase biological efficiency.
-Common supplements include rice bran, wheat bran, cottonseed meal,
-and various agricultural byproducts. Supplementation at 10-20% of
-dry substrate weight typically boosts yields by improving the
-nitrogen content and carbohydrate availability of the substrate.
-
-## Strain Selection Impact
-
-Different strains within the same Pleurotus species can show
-significant variation in biological efficiency on identical
-substrates. Growers are encouraged to test multiple strains and
-select those best adapted to their local conditions and available
-substrates. Breeding programs continue to develop improved strains
-with higher BE values and better substrate utilization.
-
-## See Also
-
-- [[pleurotus-natural-log-cultivation-methods]]
-- [[cotter-oyster-mushroom-cultivation]] cultivation guide
+[[pleurotus-natural-log-cultivation-methods]]
 - [[bulk-substrate-preparation]] preparation techniques
 - biological efficiency calculations
 - [[accessible-mushroom-cultivation-for-disabilities]] fundamentals

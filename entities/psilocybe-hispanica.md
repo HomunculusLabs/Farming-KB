@@ -2,40 +2,15 @@
 title: Psilocybe hispanica
 created: 2026-04-28
 type: species
-tags: [mycology, identification, mushrooms]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
----
-
-# Psilocybe hispanica
-
-A rarely encountered psilocybin-containing mushroom of section Semilanceata, described from the high-altitude alpine meadows of the Spanish Pyrenees.
-
-First described by [[gaston-guzman]] in 2000 from specimens collected in the Pyrenees mountains of northern Spain.
+tags: [[gaston-guzman]] in 2000 from specimens collected in the Pyrenees mountains of northern Spain.
 
 The specific epithet *hispanica* refers to Spain, the country of the type locality.
 
-The species was differentiated from the closely related [[psilocybe-semilanceata]] (liberty cap) on the basis of larger spore size and distinct cheilocystidia morphology.
-
-Molecular phylogenetic studies have confirmed its placement within a European clade of section Semilanceata, supporting recognition as a distinct species rather than a variant of [[psilocybe-semilanceata]].
+The species was differentiated from the closely related [[psilocybe-semilanceata]].
 
 The species belongs to section Semilanceata of the genus psilocybe, characterized by species with a peeling gelatinous pellicle on the cap, hygrophanous pileus, and a preference for grassland habitats.
 
-Other members of this section include [[psilocybe-semilanceata]], [[psilocybe-serbica]], [[psilocybe-caerulescens-entity]], and psilocybe-galindoi.
-
-## Distribution
-
-Known primarily from alpine and subalpine grasslands of the Pyrenees mountain range in northern Spain, at elevations typically above 1,700 meters.
-
-Also reported from other high-altitude grassland habitats in the Iberian Peninsula.
-
-Considered potentially endemic to the Iberian mountain ranges, though comprehensive survey work in other European alpine systems has been limited.
-
-Fruits in autumn, typically September through November.
-
-Often appears in the same general season and habitat as [[psilocybe-semilanceata]], with which it may be confused in the field.
+Other members of this section include [[psilocybe-serbica]], [[psilocybe-semilanceata]], with which it may be confused in the field.
 
 Grows solitary to gregarious on rich organic soils in pastures and meadows, particularly in areas grazed by livestock.
 
@@ -97,29 +72,19 @@ Pileipellis a cutis with embedded gelatinous hyphae.
 
 ## Chemistry
 
-Chemical analysis confirmed the presence of [[psilocybin-compound]] and trace amounts of [[psilocin]].
+Chemical analysis confirmed the presence of [[psilocin]].
 
-Concentrations are moderate, generally lower than those of [[psilocybe-semilanceata]] or [[psilocybe-azurescens]].
+Concentrations are moderate, generally lower than those of [[psilocybe-azurescens]].
 
 Estimated total alkaloid content in the range of 0.1-0.5% dry weight.
 
 Does not show prominent bluing reactions upon bruising, correlating with lower psilocin concentrations.
 
-No [[baeocystin]] or [[norbaeocystin]] definitively reported, though comprehensive alkaloid profiling has not been performed.
+No [[norbaeocystin]] definitively reported, though comprehensive alkaloid profiling has not been performed.
 
 Flesh is whitish and does not change color appreciably when cut.
 
 ## Similar Species
-
-[[psilocybe-semilanceata]] — The liberty cap is the most commonly confused species.
-
-Has smaller spores (typically 10-13 x 6-8 um) and a more pronounced papilla.
-
-Far more widely distributed across Europe and far more commonly encountered.
-
-psilocybe-galindoi — A Mexican species in the same section.
-
-Found in high-altitude grasslands but geographically disjunct from the European populations.
 
 [[psilocybe-serbica]] — Southeastern European species found in mountainous regions.
 
@@ -131,20 +96,6 @@ No documented traditional or indigenous uses of psilocybe hispanica exist.
 
 As a recently described species (2000), it was identified through scientific survey rather than ethnobotanical inquiry.
 
-The species is classified as a controlled substance in many jurisdictions due to its [[psilocybin-compound]] content.
-
-Its restricted range and rarity mean it is seldom encountered outside of mycological research contexts.
-
-In Spain, the species is not specifically listed but falls under general psilocybin mushroom prohibition.
-
-## Conservation
-
-Due to its restricted high-altitude alpine habitat, the species may be vulnerable to climate change.
-
-Warming temperatures could reduce suitable subalpine grassland zones in the Pyrenees.
-
-## See Also
-
-- [[psilocybe-wassonii]]
+The species is classified as a controlled substance in many jurisdictions due to its [[psilocybe-wassonii]]
 
 - [[psilocybe-skyoi]]

@@ -141,8 +141,6 @@ of water, reducing runoff and establishing forests.
 
 ## See Also
 
-- [[permaculture-climate-zones-and-strategies]]
 - [[permaculture-cold-climate-strategies]]
-- [[mollison-cold-climate-strategies-detailed]]
 - [[permaculture-climate-zones]]
 - [[mollison-climate-site-analysis-permaculture]]

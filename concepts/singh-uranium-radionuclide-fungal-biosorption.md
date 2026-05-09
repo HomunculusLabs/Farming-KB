@@ -132,8 +132,6 @@ designing effective bioremediation strategies.
 
 ## See Also
 
-- [[fungal-radionuclide-accumulation-and-bioremediation]]
 - [[radioactive-contamination-and-fungi]]
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[mycoremediation-heavy-metals-detailed]]
 - [[singh-mycorrhizal-fungi-rhizosphere-remediation]]

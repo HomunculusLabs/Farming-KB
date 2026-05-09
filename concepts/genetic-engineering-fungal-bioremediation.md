@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 # Genetic Engineering for Fungal Bioremediation
 
@@ -74,17 +75,10 @@ Current research directions include the development of fungi with enhanced toler
 
 ## See Also
 
-[[cotter-mycoremediation-overview]]
-
 [[mycoremediation-emerging-techniques]]
-
-[[bioaugmentation-strategies]]
 
 [[ligninolytic-enzyme-production-bioremediation]]
 
-[[mycoremediation-enzymology]]
-
 [[fungal-enzyme-systems-in-bioremediation]]
 
-[[bioslurry-reactors]]
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
+[[singh-fungal-treatment-industrial-wastewaters-overview]]

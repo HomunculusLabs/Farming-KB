@@ -141,8 +141,9 @@ Native bees need nectar and pollen from early spring through late fall. Aim for 
 
 ## See Also
 
-- [[comparison-native-bee-pollinators-vs-honeybees]]
 - [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
-- [[companion-planting-reference]]
-
 - [[query-how-to-attract-native-bees-and-beneficial-insects]]
+
+## See Also
+
+- [[comparison-native-bee-pollinators-vs-honeybees]]

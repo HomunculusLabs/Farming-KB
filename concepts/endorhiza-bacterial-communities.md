@@ -118,8 +118,6 @@ soil as the primary source pool from which the plant selects its endophytes.
 
 ## See Also
 
-- [[rhizosphere-microbiome-selection-model]] for the assembly framework
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar-level differences
-- [[cellvibrio-and-root-decay-microbiome]] for an atypical endorhiza member
 - [[microbial-alpha-diversity-soil-plant-gradient]] for diversity patterns
 - [[cannabis-microbiome-research]] for the full study overview

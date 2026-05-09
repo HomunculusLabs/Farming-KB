@@ -20,67 +20,9 @@ Manganese peroxidase (MnP; EC 1.11.1.13) is an extracellular
 heme-containing glycoprotein produced predominantly by white-rot
 basidiomycetes. MnP plays a central role in lignin depolymerization and
 the oxidative degradation of a wide range of environmental pollutants.
-The enzyme was first characterized in [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-and has since been identified in numerous ligninolytic fungi.
-
-## Enzyme Structure and Catalytic Cycle
-
-MnP is a heme protein (protoheme IX) with a molecular weight of
-approximately 40-50 kDa, stabilized by two structural calcium ions that
-are critical for thermal stability and proper folding. The enzyme
-requires hydrogen peroxide (H2O2) as an electron acceptor and
-manganese(II) (Mn2+) as a reducing substrate.
-
-The catalytic cycle operates as follows:
-1. Native MnP (resting state, Fe3+) reacts with H2O2 to form Compound I
-   (Fe4+=O, porphyrin pi-cation radical), a highly oxidizing two-
-   electron-oxidized intermediate.
-2. Compound I oxidizes Mn2+ to Mn3+, being reduced to Compound II
-   (Fe4+=O).
-3. Compound II oxidizes a second Mn2+ to Mn3+, returning the enzyme to
-   its resting Fe3+ state.
-
-The key feature of MnP is the generation of Mn3+, a diffusible oxidant
-that, chelated by organic acids such as oxalate, malate, or lactate,
-can penetrate lignin and soil matrices to oxidize phenolic substrates
-at sites distant from the fungal hyphae.
-
-## The Mn2+/Mn3+ Redox Cycle
-
-The Mn3+-organic acid chelate complex serves as a diffusible redox
-mediator. Mn3+ chelates oxidize phenolic lignin subunits, generating
-phenoxyl radicals that undergo spontaneous reactions leading to C-alpha
-cleavage, alkyl-aryl cleavage, and demethoxylation of the lignin
-polymer. This indirect oxidation mechanism allows MnP to act on substrates
-too large to enter the enzyme's active site.
-
-Organic acid chelators serve dual roles: they stabilize Mn3+ in solution
-(preventing MnO2 precipitation) and modulate the redox potential of the
-Mn3+/Mn2+ couple. Oxalate is the predominant physiological chelator in
-most white-rot fungi, produced as a metabolic byproduct of the fungal
-oxalic acid pathway.
-
-## Lignin Depolymerization
-
-MnP degrades lignin through several mechanisms:
-- Oxidation of phenolic lignin units to phenoxy radicals
-- C-alpha-C-beta cleavage of phenylpropane side chains
-- Demethylation of methoxyl groups on aromatic rings
-- Generation of quinones and carboxylic acids from lignin fragments
-- Coupling with lipid peroxidation pathways (via chelated Mn3+
-  initiating unsaturated lipid oxidation)
-
-The enzyme works synergistically with [[singh-lignin-peroxidase-lip-fungal-degradation]] and [[singh-fungal-laccase-enzymes-bioremediation]]
-in the complete ligninolytic system of white-rot fungi.
-
-## White Rot Fungal Producers
-
-Major MnP-producing fungi include:
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]: The model organism for MnP study,
+The enzyme was first characterized in [[singh-lignin-peroxidase-lip-fungal-degradation]] and [[staycare-phanerochaete-chrysosporium-in-bioremediation]]: The model organism for MnP study,
   producing multiple MnP isozymes under manganese-sufficient and
   nitrogen-limited conditions.
-- [[staycare-trametes-versicolor-bioremediation-applications]]: Produces MnP alongside laccase, enabling
-  efficient degradation of recalcitrant organics.
 - [[pleurotus-species-guide]]: P. ostreatus and P. pulmonarius produce MnP
   as part of their ligninolytic enzyme arsenal.
 - ceriporiopsis subvermispora: A selective lignin degrader with
@@ -120,7 +62,24 @@ MnP gene expression is regulated by:
 
 ## See Also
 
-- [[singh-lignin-peroxidase-lip-fungal-degradation]]
 - [[singh-versatile-peroxidase-vp-multifunctional]]
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-soil-fungal-bioremediation-strategies]]
+## Practical Considerations
+
+Successful implementation of Manganese Peroxidase (MnP) in Biodegradation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

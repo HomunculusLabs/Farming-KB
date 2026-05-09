@@ -125,10 +125,6 @@ reproductive isolation.
 
 ## Related
 
-- [[bloomfield-fungal-life-cycle-spiral-versus-circle]] Topics
-
 - [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
-- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]

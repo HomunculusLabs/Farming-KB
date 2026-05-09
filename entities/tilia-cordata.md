@@ -138,13 +138,9 @@ sources: ["domain-knowledge"]
 - Planting: Transplant as balled-and-burlapped or container-grown; fall planting preferred
 - Pruning: Formative pruning when young; mature trees need little; avoid heavy spring pruning (bleeding)
 - Pests/diseases: Generally pest-free; aphids produce honeydew (sooty mold); linden gall mite occasionally
-- Fertilization: Light applications of balanced fertilizer in early spring benefit young trees
-- Mulch: 5–8 cm organic mulch over root zone, kept away from trunk
 ## See Also
 
-- [[houttuynia-cordata]]
+- [[aesculus-hippocastanum]]
+
 - [[melissa-officinalis]] — Lemon balm; shares anxiolytic and nervine indications; traditional tea companion
 - [[valeriana-officinalis]] — Valerian; complementary sedative herb often combined with linden in sleep formulations
-- [[hypericum-perforatum]] — St. John's wort; overlaps in anxiolytic/mild depressive indications
-- tilia cordata — Large-leaved lime; close relative with similar uses but larger leaves and earlier bloom
-- tilia cordata — Common lime; natural hybrid of T. cordata and T. platyphyllos

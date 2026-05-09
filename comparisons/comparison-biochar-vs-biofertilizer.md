@@ -21,34 +21,6 @@ fertility, they are increasingly used together in integrated soil management pro
 
 ## Biochar
 
-[[biochar]]
-
-Biochar is a porous, carbon-rich solid material produced by heating biomass in a low-oxygen
-environment through pyrolysis at temperatures of 300 to 900 degrees Celsius. It is distinguished
-from ordinary charcoal by its intended application as a long-term soil amendment. Depending on the
-feedstock (hardwood, softwood, nut shells, rice husks, or manure) and production temperature,
-biochar develops a highly porous internal structure with surface areas ranging from 100 to 500
-square meters per gram. This structure gives biochar exceptional water-holding capacity and cation
-exchange capacity (CEC), enabling it to retain moisture and attract positively charged nutrients
-such as calcium, magnesium, potassium, and ammonium within the root zone.
-
-Once incorporated into soil, biochar is essentially permanent. It resists microbial decomposition
-for centuries to millennia, making it one of the most durable soil amendments available. A typical
-application of 5 to 10 percent by volume sequesters significant carbon while simultaneously
-improving soil structure, aeration, and drainage. In sandy soils it boosts water retention by 10
-to 30 percent, and in heavy clay soils it reduces compaction and improves tilth. Biochar also
-provides microhabitat for beneficial bacteria, fungi, and protozoa, and its pores can shelter
-mycorrhizal hyphae from predation by soil microarthropods.
-
-However, raw biochar must be conditioned or charged before use. Fresh biochar acts as an empty
-sponge that can temporarily draw nutrients and water away from plants. Common charging methods
-include mixing biochar into compost piles for several months, soaking it in compost tea or liquid
-fertilizer, or combining it with mineral amendments and letting it cure. Biochar is typically
-alkaline (pH 8 to 10), so it can raise soil pH by 0.3 to 1.0 units, which benefits acidic soils
-but may be problematic in already alkaline conditions.
-
-## Biofertilizer
-
 [[biofertilizers-and-soil-inoculants]]
 
 Biofertilizers are preparations of living microorganisms that enhance plant nutrition through
@@ -129,9 +101,6 @@ reclamation where both physical and biological soil functions need restoration s
 
 ## See Also
 
-- [[biochar]]
 - [[biofertilizers-and-soil-inoculants]]
-- [[biochar-in-agriculture]]
 - [[mycorrhizal-fungi]]
-- [[nutrient-cycling-in-soil]]
 - [[soil-food-web-nutrient-cycling]]

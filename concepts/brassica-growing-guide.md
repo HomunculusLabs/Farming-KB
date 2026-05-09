@@ -95,7 +95,7 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Green caterpillars chew holes in leaves and bore into heads
 - Management:
   - Floating row covers prevent egg-laying (most effective)
-[[neem]]Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
+  - Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
   - Handpick caterpillars in small plantings
   - Companion plant with thyme, dill, or mint (may deter egg-laying)
   - Neem oil or spinosad sprays as secondary options
@@ -123,7 +123,9 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Worst on young seedlings
 - Floating row covers on seedlings are the best prevention
   - kaolin clay (Surround WP) sprayed on leaves as a deterrent
-  - Plants outgrow damagintegrated-pest-managementugs and Snails
+  - Plants outgrow damage once established
+
+### Slugs and Snails
 - Feed on leaves at night; leave slime trails
 - Beer traps, diatomaceous earth, copper tape barriers
   - Handpick at night with a flashlight
@@ -146,5 +148,43 @@ Brassicas are among the most cold-tolerant vegetable families.
 - **Brussels Sprouts**: Hardy to 0-10F; best after several frosts
 - **Collards**: Hardy to 10F; similar to kale
 - **Cabbage**: Hardy to 20F; late varieties can survive to 10F
+- **Broccoli**: Hardy to 25F; heads may be damaged below 28F
+- **Cauliflower**: Least cold-hardy; damaged below 28F
 
-Related: [[hemenway-cold-air-drainage-and-frost-management]], [[coleman-cold-hardy-varieties]]
+### Season Extension
+- Low tunnels with row cover fabric protect to 15-20F
+- Heavy row cover (frost blanket) adds 4-8 degrees of protection
+- Cold frames and hoop houses extend harvest into winter
+- See [[urban-farming-methods]] for season extension structures
+
+## Common Problems
+
+### Clubroot
+- Soil-borne disease causing swollen, deformed roots
+- Plants wilt and stunt
+- Prevention: raise pH to 7.0-7.5 with lime, rotate crops 4+ years
+- Resistant varieties available for some brassicas
+
+### Black Rot
+- Bacterial disease causing V-shaped yellow/brown lesions on leaf edges
+- Spreads by water splash and contaminated tools
+- Remove affected leaves; avoid overhead watering
+- Use certified disease-free seed and 3-year rotation
+
+### Bolting
+- Caused by exposure to temperatures below 50F for extended periods followed by warmth
+- Most common in early spring plantings of broccoli and cabbage
+- Prevent by using bolt-resistant varieties and proper transplant timing
+
+## Nutrition
+
+- Brassicas are heavy nitrogen feeders
+- Side-dress with compost or balanced fertilizer 3-4 weeks after transplant
+- Adequate boron prevents brown heart and hollow stem in cauliflower
+- Consistent water is critical — drought stress causes tough, bitter leaves and small heads
+
+## See Also
+
+- [[lettuce-and-leafy-greens]] for companion cool-season greens
+- [[seasonal-gardening-calendar]] for planting and harvest timing
+- [[food-forest-design]] for integrating brassicas into perennial systems

@@ -59,13 +59,61 @@ The principle leads to a fundamentally different approach to farming problems:
 - Instead of "What nutrient is deficient?", ask "How do I restore mineral diversity?"
 - Instead of "How do I eliminate this disease?", ask "How do I prevent any single organism from dominating?"
 
-## Related Concepts
+## Insect Pests and Ecological Balance
 
-- [[jadam-dualism-critique-agriculture]] -- the systematic critique of dualistic thinking
-- [[jadam-leaf-mold-as-ideal-soil]] -- accepting nature's microbial diversity
+JADAM extends the good-and-bad-are-one principle to insect management.
+Conventional agriculture classifies insects as either beneficial or
+pest, spraying to eliminate the latter. JADAM views this as misguided
+because pest outbreaks are symptoms of ecological imbalance, not
+independent problems to be solved through eradication.
+
+When predator insect populations are healthy, pest species remain
+contained naturally. Lady beetles, lacewings, predatory mites, and
+parasitic wasps each keep specific pest populations in check. When
+broad-spectrum pesticides destroy these predators, the pests rebound
+faster than their natural enemies, creating a cycle of escalating
+chemical dependency. JADAM's [[permaculture]] design similarly emphasizes whole-system thinking
+and ecological balance, and the two philosophies align closely on
+pest management and soil biology. However, JADAM's philosophical
+foundation is explicitly rooted in Korean Buddhist non-dualism,
+giving it a distinct cultural and intellectual grounding that
+influences how practitioners relate to their land and its organisms.
+
+Biodynamic agriculture introduces the concept of farm individuality
+and cosmic influences, which JADAM does not address. Both traditions
+share a holistic worldview, but JADAM grounds its non-dualism in
+observable microbial ecology and practical low-cost techniques
+rather than esoteric preparations or astronomical calendars.
+
+## Implications for Disease Management
+
+Plant disease in conventional agriculture triggers a search for the
+causal pathogen and a targeted eradication strategy. Under the
+good-and-bad-are-one principle, disease is viewed as evidence that
+the plant's defenses or its environment have been weakened, allowing
+a normally benign organism to become pathogenic.
+
+This mirrors the human microbiome understanding: Candida albicans
+lives harmlessly in most people but causes thrush when the bacterial
+community is disrupted by antibiotics. Similarly, many soil-borne
+fungi only cause disease when the microbial community has been
+simplified by monoculture, tillage, or chemical inputs. The JADAM
+response is to restore the conditions that kept the organism in
+check rather than to attack the organism directly.
+
+This approach has practical limits. Some pathogens, such as certain
+viruses and aggressive bacterial infections, may require direct
+intervention even in JADAM systems. The principle is a guiding
+heuristic, not an absolute rule that denies the existence of genuine
+agricultural threats requiring targeted responses.
+
+## Economic Consequences for Farmers
+
+Adopting the good-and-bad-are-one principle has direct economic
+benefits. Farmers who stop purchasing commercial microbial
+inoculants, targeted pesticides, and disease-specific treatments
+eliminate major input costs. JADAM's [[jadam-dualism-critique-agriculture]] -- the systematic critique of dualistic thinking
 - [[jadam-soil-foundation-work]] -- balance over eradication
-- [[jadam-natural-vs-chemical-pesticide]] -- the biodegradability distinction
 - [[jadam-sea-salt-use]] -- even good things in proper measure
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-natural-farming-philosophy]]
 - [[jadam-natural-mineral-water]]

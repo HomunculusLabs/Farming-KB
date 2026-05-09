@@ -86,14 +86,11 @@ The availability of genome sequences for key bioremediation fungi is acceleratin
 
 ## Integration with Mycoremediation Practice
 
-The practical deployment of these species requires addressing the challenges described in [[mycoremediation-scale-up-challenges]]. Understanding [[enzymatic-degradation-in-mycoremediation]] mechanisms and optimizing [[ligninolytic-enzyme-production-bioremediation]] are critical for translating laboratory results to field applications. The choice between species also interacts with [[fungal-bioremediation-mechanisms]] and site-specific environmental conditions.
+The practical deployment of these species requires addressing the challenges described in [[enzymatic-degradation-in-mycoremediation]] mechanisms and optimizing [[fungal-bioremediation-mechanisms]] and site-specific environmental conditions.
 
 ## See Also
 
-- [[ligninolytic-enzyme-production-bioremediation]]
 - [[mycoremediation-of-pahs]]
-- [[fungal-degradation-of-textile-dyes]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[fungal-bioremediation-mechanisms]]
 - [[fungal-wastewater-treatment]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]

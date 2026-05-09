@@ -3,14 +3,7 @@ title: Hugelkultur and Forest Mimicry in Permaculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, soil, animal-husbandry, water, equipment, pest-management, plant-growth, fruit-tree, food-forest, homesteading]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# [[hugelkultur]] and Forest Mimicry in [[permaculture]]
-
-**Source:** The Ultimate Guide to Natural Farming & Sustainable Living ([[nicole-faires]], 2012)
+tags: [[hugelkultur]] and Forest Mimicry in [[nicole-faires]], 2012)
 **Updated:** 2026-04-18
 
 ## Hugelkultur
@@ -27,7 +20,7 @@ The most difficult part of this is moving the wood and arranging it into the sha
 
 Using fresh wood is tempting because you may be clearing ground and cleaning up, and rather than making a big ugly pile somewhere and waiting for years for it to rot, it would be much nicer to stick it in the ground to be a [raised bed, especially since it still absorbs water and irrigates the bed for you. You can do this, but because wood that is decomposing robs the soil of nitrogen rather than giving it back, you must add something to the soil to break down the wood faster and add needed nitrogen.
 
-The key ingredient is urine. If you have a separating compost toilet, you can simply divert your household liquids to the [[hugelkultur-beds]]. Straw gathered from animal bedding can be added as a mulch layer as well. The urine helps break down the wood and provides nitrogen to the soil. The other key component is fungi, which will naturally grow and help speed the process. The [[soil-food-web]] is essential to this process working effectively.
+The key ingredient is urine. If you have a separating compost toilet, you can simply divert your household liquids to the [[soil-food-web]] is essential to this process working effectively.
 
 ### Steps to Building a Hugelkultur Bed
 
@@ -79,13 +72,7 @@ In a regular garden, everything is kept at the Stage 1 or pioneer level, with he
 
 4. When the weeds have been broken down and the soil seems ready for planting, fence off the area and begin growing legumes and shrubs that grow well in your local climate and that are useful to you, such as comfrey.
 
-5. The soil will probably not be in the most optimum condition for planting less hardy species. Add mulch, [[green-manure-crops]], and compost to improve the soil. Allow geese and ducks in to forage.
-
-6. Plant a group of trees as a sort of nucleus or center of your garden. Chickens may sometimes be allowed in to forage at this phase.
-
-7. Once all of these plants have become well established, it takes simple but careful management to make the garden sustain itself. Pigs and other animals may be allowed to forage, the trees produce fruit and mulch, and the smaller plants can be harvested on an ongoing basis.
-
-8. After you harvest the main crops, it is a good idea to plant a cover crop or green manure to protect the soil. This usually happens in the winter. Rye, clover, buckwheat, barley, oats, and vetch are all common [[cover-crops]], which you can harvest. Leguminous green manures like clover, vetch, and field peas can be plowed into the soil or mulched before they flower (when the beneficial nitrogen is used up).
+5. The soil will probably not be in the most optimum condition for planting less hardy species. Add mulch, [[cover-crops]], which you can harvest. Leguminous green manures like clover, vetch, and field peas can be plowed into the soil or mulched before they flower (when the beneficial nitrogen is used up).
 
 ### Important Note
 
@@ -100,7 +87,5 @@ A liquefied tea is an efficient method of adding nutrients to the soil quickly. 
 3. Add 10-15 parts more water. It should look like weak tea.
 4. As you use it, keep adding more manure and water so you can have a continuous supply.
 5. Extras can be added to the tea, including comfrey (which adds potassium), seaweed, or kitchen compost.
-- [[gaias-garden-cover-crops-soil-building]]
 - [[what-natural-farming-method-should-i-use]]
-- [[faires-hugelkultur-and-forest-garden-strategy]]
 - [[organic-vegetable-garden-rotation-deep-beds]]

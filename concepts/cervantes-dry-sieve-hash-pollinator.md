@@ -130,8 +130,6 @@ the quality of the original material.
 
 ## See Also
 
-- [[cervantes-hash-making-extracts]]
 - [[cervantes-water-hash-bubble-hash]]
-- [[cannabis-advanced-growing-techniques]]
 - [[cervantes-pressing-hash]]
 - [[cervantes-manicuring-trimming-buds]]

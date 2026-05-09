@@ -113,13 +113,8 @@ Several breeders have used Gelonade as a parent in further crosses, including co
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[gelato-33]]
-- [[lemon-haze]]
 - [[tropicana-cookies]]
-- [[jack-herer]]
 - [[sour-diesel]]
-- [[terpinolene]]
 - [[limonene]]
-- [[beta-caryophyllene]]
 - [[linalool]]

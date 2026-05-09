@@ -102,8 +102,6 @@ strains of P. pulmonarius widely grown commercially.
 
 ## See Also
 
-- [[cotter-shiitake-cultivation]]
 - [[mushroom-mycelium-and-mycofiltration]]
-- [[grain-spawn-production]]
 - [[maitake-grifola-frondosa]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]

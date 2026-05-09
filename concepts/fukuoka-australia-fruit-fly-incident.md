@@ -100,15 +100,9 @@ into the country past the quarantine barrier.
 
 ## See Also
 
-- [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]]
-
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 
-- [[fukuoka-medfly-quarantine]]
 - [[fukuoka-pest-ecology]]
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fukuoka-ecological-balance-principles]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[fukuoka-natural-farming-transcends-time-space]]
-- [[fukuoka-road-back-orchard-restoration-pest-balance]]
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]

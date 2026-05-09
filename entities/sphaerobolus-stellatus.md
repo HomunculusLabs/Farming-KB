@@ -19,105 +19,84 @@ The species holds the record for fungal propulsion, launching its spore masses u
 
 ## Taxonomy and Classification
 
-S. stellatus belongs to the order Geastrales within the class [[agar]]icomycetes.
-
-The genus *Sphaerobolus* contains a small number of species, all sharing the characteristic ballistospore-shooting mechanism.
-
-The genus name derives from Greek: *sphaira* (sphere) and *bolos* (throw), directly describing the spore ejection mechanism.
-
-## The Spore-Launching Mechanism
-
-Sphaerobolus uses a miniature springboard to eject a single 1 mm diameter black ball (gleba) filled with spores.
-
-There is nothing else like this mechanism in the living world.
-
-The device develops as a sphere on the surface of the dung, which cracks open to reveal an inner cup glistening with fluid that cradles the gleba.
-
-Held under increasing tension, the inner cup finally everts, propelling the gleba in an arching trajectory.
-
-The operation was first described by Pier Antonio Micheli in his *Nova Plantarum Genera*, published in 1729, where he referred to the fungus as *Carpobolus*.
-
-The rapid motion of the inner cup is audible as a popping sound, as is the impact of the gleba on the lid of a culture dish.
-
-A flaccid tennis ball serves as a good mechanical model: pressing one half into the other forms a dish, which then flips outward to restore the sphere.
-
-For detailed analysis of the mechanism, Terence Ingold (1972) provided an elegant description in his classic review published in the Transactions of the British Mycological Society.
-
-## Ecological Strategy
-
-As a dung fungus, S. stellatus faces the challenge of spore dispersal from a finite resource.
-
-The evolution of mechanical spore-shooting devices represents an adaptation to escape the dung heap and deposit spores onto nearby grass blades or other surfaces.
-
-There, spores may be ingested by herbivores, completing the life cycle.
-
-To achieve an arching trajectory, Sphaerobolus aims toward the sun and hits anything in its path.
-
-The spore mass must land on a suitable substrate for germination.
-
-When it lands on automobile paintwork instead, the fungus is condemned to travel thousands of miles with no prospect of germination.
-
-The gleba remains fastened to the vehicle indefinitely, and the spores inside can survive for years.
-
-## Pest Status
-
-The artillery fungus has become a significant nuisance in suburban environments, particularly in North America.
-
-The glebal mass is very sticky, and as it dries it becomes firmly glued to surfaces.
-
-When it lands on automobile paintwork, vigorous rubbing will dislodge the black blob but leaves a circular depression deep enough that it cannot be buffed out by polishing.
-
-Cars parked next to thousands of the fungal trampolines in a flower bed become conspicuously "dalmatianed."
-
-This potentially ruins the day for:
-
-- The car owner
-- The insurance company
-- The mulch supplier
-- The landscaping company
-- The parking lot owner
-
-One study at Pennsylvania State University estimated that US$1 million in claims for automobile damage were filed in a single year in Pennsylvania alone.
-
-Ohio is another hot spot, but the fungus grows in most parts of the United States during periods of warm, wet weather.
-
-House exteriors are another common target for the fungus.
-
-## Historical Dispersal
-
-Two centuries ago, the artillery fungus travelled across oceans on the sopping wood of decaying warships.
-
-It was figured by the botanical artist James Sowerby during his investigation of the disintegrating Queen Charlotte in 1812.
-
-Shooting from ship to ship was far more effective than lodging on painted metal.
-
-The fungus had some prospect of continuing to grow and reproduce at sea and, one day, of making it back to land when the timber was recycled.
-
-This may have enabled Sphaerobolus to spread far beyond its prehistoric distribution.
-
-## Habitat and Distribution
-
-S. stellatus grows on woody mulch and dung in warm, moist conditions.
-
-It is particularly problematic when wood mulch is used in landscaping near parked vehicles.
-
-The fungus fruits readily on decomposing wood chips, bark mulch, and similar cellulose-rich substrates.
-
-Bird's nest fungi do precisely the same kind of damage, although their spore masses are propelled by raindrops splashing into their cup-shaped fruiting bodies rather than by an internal spring mechanism.
-
-## Morphology of Fruiting Bodies
-
-The fruiting bodies of S. stellatus are small, spherical structures (typically 2 to 3 mm in diameter when mature) that develop on the substrate surface.
-
-Initially white or cream-coloured, they darken as they mature.
-
-The fruiting body consists of an outer wall (peridium) that opens to reveal the inner cup (cupule) containing the gleba.
-
-The entire structure is a remarkable example of biomechanical engineering in the fungal kingdom, operating through the buildup and sudden release of turgor pressure.
-
-## See Also
-
-- [[coprinus-comatus-detailed]] for another fungus commonly found on enriched substrates
-- [[serpula-lacrymans]] for another building-associated fungus
+S. stellatus belongs to the order Geastrales within the class [[coprinus-comatus-detailed]] for another fungus commonly found on enriched substrates
 - [[meruliporia-incrassata]] for another wood-decay fungus affecting human structures
 - [[coniophora-puteana]] for another fungus causing damage in damp buildings
+## Practical Applications
+
+Sphaerobolus stellatus has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Sphaerobolus stellatus. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

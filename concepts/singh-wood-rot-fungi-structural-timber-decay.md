@@ -22,117 +22,7 @@ structural wood products. They are classified into three main decay types,
 brown rot, white rot, and soft rot, based on their enzymatic strategies
 and the residual materials they produce. Understanding these decay
 mechanisms is essential for timber preservation, building conservation,
-and for harnessing fungal enzymes in [[mycoremediation-pahs]] and industrial
-biotechnology.
-
-## Lignocellulose Composition of Wood
-
-Wood is composed primarily of three structural polymers: cellulose (40
-to 50 percent), hemicellulose (20 to 30 percent), and lignin (20 to 30
-percent). Cellulose, a linear polymer of glucose, provides tensile
-strength. Hemicellulose, a branched polymer of various pentose and
-hexose sugars, cross-links cellulose microfibrils. Lignin, a complex
-aromatic polymer of phenylpropanoid units, fills the spaces between
-cellulose and hemicellulose, providing rigidity and resistance to
-microbial attack. The relative proportions vary among wood types:
-softwoods (gymnosperms) have more lignin and different hemicellulose
-composition than hardwoods (angiosperms).
-
-## Brown Rot Decay
-
-Brown rot fungi, predominantly Basidiomycota in the orders Boletales and
-Polyporales, selectively remove cellulose and hemicellulose while largely
-leaving lignin intact. The residual wood is brown, cracked in a cubical
-pattern, and dry and brittle. Brown rot is the most destructive form of
-decay in structural timber because it can reduce wood strength by up to
-80 percent after only 10 to 20 percent mass loss, due to rapid depolymerization
-of cellulose early in the decay process.
-
-### The Fenton Reaction
-Brown rot fungi employ a non-enzymatic mechanism centered on the Fenton
-reaction: Fe2+ + H2O2 produces Fe3+ + hydroxyl radical + hydroxide ion.
-The hydroxyl radical is one of the strongest oxidants in biological
-systems and attacks cellulose chains directly, causing rapid depolymerization
-well ahead of the advancing fungal hyphae. Brown rot fungi generate H2O2
-through extracellular oxidoreductases and maintain Fe2+ through
-siderophore systems and reductive mechanisms. This chelator-mediated
-Fenton system is a hallmark of brown rot.
-
-### Key Brown Rot Genera
-Important brown rot genera include Serpula (notably Serpula lacrymans,
-the cause of dry rot in buildings), Gloeophyllum, Postia (formerly
-Poria), and Coniophora. Serpula lacrymans is particularly notorious for
-its ability to transport water through rhizomorphs over long distances,
-initiating decay in timber that would otherwise be too dry for fungal
-growth.
-
-## White Rot Decay
-
-White rot fungi, primarily Basidiomycota in the orders Polyporales and
-Hymenochaetales, are capable of degrading all three major wood
-components, including the recalcitrant lignin polymer. The residual wood
-is typically pale, bleached, fibrous, and sometimes spongy. White rot is
-the most common decay type in hardwoods and is responsible for the vast
-majority of lignin degradation in forest ecosystems.
-
-### Lignin-Degrading Enzyme Systems
-White rot fungi produce lignin peroxidase (LiP), manganese peroxidase
-(MnP), and laccase, which collectively oxidize lignin through radical-mediated reactions. LiP oxidizes non-phenolic lignin subunits, which
-constitute the majority of lignin polymer, using H2O2 as a co-substrate.
-MnP generates Mn3+ chelates that diffuse into the wood matrix and oxidize
-phenolic and some non-phenolic structures. Laccase, a multicopper oxidase,
-oxidizes phenolic compounds and works with mediators to extend its
-substrate range. Some white rot fungi also employ Fenton chemistry
-alongside enzymatic degradation.
-
-### Selective vs. Simultaneous Decay
-White rot fungi are subdivided by their decay selectivity. Selective white
-rot fungi preferentially degrade lignin, leaving cellulose-enriched
-residues, while simultaneous white rot fungi degrade all components at
-comparable rates. Selective decay is valuable in biopulping, where lignin
-removal without excessive cellulose loss is desirable.
-
-## Soft Rot Decay
-
-Soft rot fungi, mainly Ascomycota (e.g., Chaetomium, Xylaria) and some
-Deuteromycota, cause a slower form of decay characterized by cavity
-formation within the secondary cell wall. They produce cellulases and
-hemicellulases but have limited lignin-degrading ability. Soft rot is the
-dominant decay type in water-saturated wood and in environments too
-extreme for basidiomycetes, such as tropical marine environments, cold
-soils, and treated timber where preservative chemicals inhibit
-basidiomycete growth. Type 1 soft rot forms cylindrical cavities aligned
-with the cellulose microfibrils, while Type 2 causes a general erosion
-of the cell wall from the lumen inward.
-
-## Dry Rot in Buildings
-
-Dry rot, caused primarily by Serpula lacrymans, is the most feared form
-of timber decay in buildings. Despite its name, dry rot requires moisture
-(typically above 20 percent wood moisture content) to initiate growth.
-Once established, S. lacrymans can conduct water through thick
-rhizomorphs from distant moisture sources to colonize dry timber. The
-fungus can spread through masonry and behind plaster, making it
-difficult to detect and eradicate. Control measures include moisture
-management, removal of affected timber, and application of fungicidal
-preservatives. Modern building codes emphasize prevention through
-adequate ventilation and damp-proofing.
-
-## Wood Preservation Strategies
-
-Timber preservation targets the vulnerabilities of decay fungi.
-Broad-spectrum preservatives include copper-based compounds (copper
-quat, ACQ), borates, and organic biocides such as triazoles. Creosote
-and chromated copper arsenate (CCA) were historically important but are
-now restricted due to environmental concerns. Modified wood products
-created by acetylation, furfurylation, or thermal modification alter
-wood chemistry to resist fungal attack without added biocides. Natural
-resistance in heartwood of species like teak, oak, and cedar is
-attributed to extractives with antifungal properties.
-
-## Applications in Bioremediation
-
-Wood decay fungi are increasingly applied in [[pah-bioremediation]]. White
+and for harnessing fungal enzymes in [[pah-bioremediation]]. White
 rot fungi can degrade a wide range of xenobiotic pollutants, including
 polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls
 (PCBs), chlorinated phenols, and synthetic dyes, using the same
@@ -141,10 +31,85 @@ Brown rot Fenton chemistry has been explored for oxidation of persistent
 organic pollutants. Spent mushroom substrate from cultivated white rot
 fungi (e.g., Pleurotus spp.) is used as a biofilter and soil amendment
 for contaminant removal.
-
 ## See Also
-
-- [[bioremediation-using-fungi]]
 
 - [[singh-fungal-siderophore-production-iron-acquisition]]
 - [[singh-fungal-detergent-and-surfactant-biodegradation]]
+## Practical Applications
+
+Wood Rot Fungi and Structural Timber Decay has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Wood Rot Fungi and Structural Timber Decay. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

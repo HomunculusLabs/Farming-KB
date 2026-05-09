@@ -1,7 +1,7 @@
 ---
 title: fruiting environment parameters
 created: 2026-04-28
-tags: [mycology, fruiting, environment-control, climate]
+tags: [[mycology, fruiting, environment-control, climate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -73,34 +73,7 @@ fruiting:
 
 - **During incubation**: CO2 can be 5,000-10,000 ppm; high CO2 promotes
   mycelial growth and suppresses premature pinning
-- **At [[fruiting-initiation]]**: CO2 must drop below 1,000 ppm to trigger
-  normal fruit body formation
-- **During development**: CO2 should stay below 800 ppm for proper cap
-  development
-
-### CO2 Effects on Morphology
-
-High CO2 during fruiting causes characteristic deformities:
-
-- **Abnormally long stems** -- The mushroom stretches upward seeking fresh
-  air
-- **Small or absent caps** -- Cap development is suppressed by elevated CO2
-- **Coral-like growth** -- Severe CO2 elevation causes branching,
-  undifferentiated structures instead of normal fruit bodies
-- **Velvet stem** -- Dense hairy growth on stems, a response to stagnant air
-
-### Air Exchange Methods
-
-- **Passive ventilation** -- Open windows, gaps, filter patches on bags;
-  suitable for low-density operations
-- **Active ventilation** -- Exhaust fans with intake filtration; required
-  for commercial growing rooms
-- **Cyclical FAE** -- Timer-controlled ventilation cycles (e.g., 5 minutes
-  every 30 minutes) balance CO2 control with humidity retention
-
-## Light
-
-Light serves two functions in [[cotter-oyster-mushroom-cultivation]]: triggering
+- **At [[cotter-oyster-mushroom-cultivation]]: triggering
 fruiting and guiding fruit body orientation (phototropism).
 
 - **Intensity**: 500-1000 lux is sufficient; direct sunlight is harmful
@@ -142,6 +115,5 @@ management into a single system.
 
 ## See Also
 
-- [[mushroom-cultivation-phases]]
 - [[oyster-mushroom-species]]
 - [[mushroom-contamination-prevention]]

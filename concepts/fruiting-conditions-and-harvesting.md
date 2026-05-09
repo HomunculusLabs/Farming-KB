@@ -40,33 +40,7 @@ system, which molecularizes water spray into a fine mist that envelops the
 cakes without directly wetting them.
 
 Symptoms of low humidity include:
-- Fuzzy white [[mycelium]] growing on mushroom caps (mild)
-- Deformed, convoluted, and withering mushrooms and primordia (severe)
-
-The fuzzy white growth on caps is not contamination and does not detract from
-quality, but deformed mushrooms indicate humidity must be increased.
-
-### Temperature
-
-The ideal fruiting temperature range is 65 to the upper 80s Fahrenheit. The
-key principle is to avoid overheating. These fungi grow well at 60 degrees
-and have been seen growing at even cooler temperatures. Cool temperatures
-slow growth but never pose a problem. A too-hot terrarium will produce
-spreading mycelium but no mushrooms.
-
-### Light
-
-Normal room light or indirect sunlight is sufficient. A small, low-wattage
-fluorescent plant light encourages phototropic upward growth and can be left
-on continuously. Do not shine light directly into the terrarium.
-
-## The Fruit Bodies
-
-### Normal Sporocarps
-
-These are the perfect mushroom specimens with well-formed caps and stems. They
-are beautiful but, somewhat counterintuitively, they are not the most potent.
-Normal mushrooms are best suited for [[spore]] collection and display.
+- Fuzzy white [[spore]] collection and display.
 
 ### Aborts
 
@@ -121,30 +95,8 @@ digestibility, and potency.
 
 ### The Potency Summary
 
-From research by [[jochen-gartz]], P. Cubensis can achieve 1% psilocybin content
-(similar to P. Semilanceata), but this depends on:
-
-1. **Growing medium**: Brown rice substrate
-2. **Age**: Harvested young, before sporulation
-3. **Preservation**: Cool dried with desiccant
-
-By harvesting only young and abortive specimens, yield is lower but quality
-is excellent. As the cap expands, size increases but potency by weight
-decreases.
-
-## The Fruiting Cycle
-
-The fruiting cycle lasts approximately 2 weeks. After the initial flush, the
-mycelium cake begins to turn blue and no more mushrooms form. If the cake is
-thoroughly cleaned after the initial fruiting, sometimes secondary fruit
-bodies form, but they are usually sparse and small.
-
-## Consumption Advice
-
-Eating the fungi is best done as a ritual: deliberate, controlled, and
-methodical. Consume the entire dose at one sitting rather than piecemeal. The
-lag time in response can defeat peak performance if the dose is spread out.
+From research by [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 
 ## See Also
 
-- [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
+- [[azurescens-fruiting-seasons-and-conditions]]

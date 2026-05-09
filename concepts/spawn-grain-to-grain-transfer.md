@@ -1,7 +1,7 @@
 ---
 title: Spawn and Grain-to-Grain Transfer
 created: 2026-04-28
-tags: [mycology, cultivation, spawn, inoculation]
+tags: [[mycology, cultivation, spawn, inoculation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -97,8 +97,6 @@ recommended precaution.
 
 ## See Also
 
-- [[agar-culture-and-isolation]]
 - [[cultivator-sterile-technique-and-agar-culture]]
-- [[bulk-substrate-preparation]]
 - [[mushroom-species-selection]]
 - [[contamination-identification]]

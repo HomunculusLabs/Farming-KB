@@ -121,11 +121,7 @@ Generally regarded as safe in normal quantities. Limited safety data for pregnan
 
 ## See Also
 
-- [[history-of-mycology-timeline]]
-
 - [[medicinal-mushrooms]]
-
-- [[herb-growing-guide]]
 
 - [[quercetin]] — Major flavonoid found in Cistus
 - Gallic acid — Phenolic acid constituent

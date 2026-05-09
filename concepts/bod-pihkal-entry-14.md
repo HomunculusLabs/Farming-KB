@@ -13,46 +13,7 @@ Beta-Methoxy-2C-D; 4-Methyl-2,5,beta-trimethoxyphenethylamine
 
 ## Overview
 
-BOD is the founding member of the BOX series of phenethylamines -- compounds where a beta-oxygen atom (benzylic oxygen) has been added to the phenethylamine backbone of known psychedelic drugs. The addition mimics the natural enzymatic conversion of dopamine to norepinephrine in the brain. BOD is the beta-methoxy derivative of [[2c-d-pihkal-entry-23]], producing a distinctive profile of pleasant visuals, conversational enhancement, and humor, accompanied by notable body load and extended duration.
-
-## Chemical Information
-
-- Chemical name: 4-Methyl-2,5,beta-trimethoxyphenethylamine
-- CAS: Not widely registered
-- Molecular formula: C12H19NO3 (free base), C12H20ClNO3 (HCl salt)
-- Molecular weight: 225.28 g/mol (free base)
-- Class: BOX series phenethylamine (beta-oxy substituted phenethylamine)
-- Named from: "B" for benzylic oxygen + "D" for 2C-D substitution pattern
-
-## Dosage and Duration
-
-| Parameter | Value |
-|-----------|-------|
-| Light dose | 15 - 20 mg |
-| Common dose | 20 - 25 mg |
-| Strong dose | 25+ mg |
-| Duration | 8 - 16 hours |
-| Onset | 30 min - 3 hours |
-
-## Effects and Qualitative Commentary
-
-### 20 mg -- Visuals with Confusion
-Pleasant open-eye visuals begin at 2-2.5 hours and continue through 4-5 hours. Visuals appear after staring at particular areas (ceilings, trees). Surroundings tend to move slightly but images don't flow. Pine needles appear crystal clear with strong contrasts. The mental effect is difficult to define -- not particularly great. Confusion and fatigue develop after 8 hours. "Not particularly sure I would want to try this material again."
-
-### 20 mg -- From Discomfort to Beauty
-The first 3 hours are marred by queasiness and mental sluggishness. Then the user begins moving in and out of a pleasant place, and the discomfort dissolves completely. "Height of beauty, visual perception. Lights below are amazing. Outside, marvelous sense of Presence. There is not an elation, as often with other materials, but a strong, even powerful sense of goodness, inner strength, solidity."
-
-### 25 mg -- Conversational Enhancement
-Quick onset (within 30 minutes), reaching +++ within an hour. Minimal body load. Little visual compared to some materials. Intermittent intense eyes-closed visions. "Very benign and friendly and pleasant and good-humored feeling. Superb for conversation and conceptualization."
-
-### 25 mg -- Humor and Body Load
-Noticeable body load for everyone. "The general state of mind was excellent; everyone was extremely relaxed and funny. Puns, insults, delightful amusement." Not much insight work possible. Sleep was difficult -- not deep and not refreshing. "Excellent material, but body price a bit too much for the mental effects. Pleasant, and I wouldn't hesitate to take it again, but nothing very memorable except the tremendous humor and laughter."
-
-## Extensions and Commentary
-
-### The BOX Series
-
-BOD was the first exploratory member of the BOX family. The name comes from "benzyl-oxy" (BO) plus the letter indicating the aromatic substitution pattern. The original concept was to name the methoxy variant as "OM" (so [[2c-d-pihkal-entry-23]]'s BOX variant would be "BOMB"), but this was dropped. Other BOX members include:
+BOD is the founding member of the BOX series of phenethylamines -- compounds where a beta-oxygen atom (benzylic oxygen) has been added to the phenethylamine backbone of known psychedelic drugs. The addition mimics the natural enzymatic conversion of dopamine to norepinephrine in the brain. BOD is the beta-methoxy derivative of [[2c-d-pihkal-entry-23]]'s BOX variant would be "BOMB"), but this was dropped. Other BOX members include:
 
 - BOB (beta-methoxy-2C-B): The most potent BOX member, but with concerning neurological overtones
 - BOH (beta-hydroxy-2C-D): The unmethylated version
@@ -69,21 +30,85 @@ The added beta-methoxy group creates a new asymmetric center, allowing separatio
 
 ## Synthesis Summary
 
-The [[2c-d-pihkal-entry-23]] nitrostyrene is treated with sodium methoxide in methanol, followed by acetic acid quench, to give 1-(2,5-dimethoxy-4-methylphenyl)-1-methoxy-2-nitroethane (canary yellow crystals, mp 78-79 C). Reduction with LAH/H2SO4 in THF at reflux for 2 hours gives the free base, which is distilled (bp 115-130 C at 0.4 mm/Hg) and converted to HCl salt (mp 171-172 C, decomposition).
-
-## Comparison to Related Compounds
-
-- [[2c-d-pihkal-entry-23]]: The parent compound without beta-oxygen. 2C-D is milder, more ambiguous, and shorter-acting. BOD adds visual richness and conversational enhancement at the cost of body load and longer duration.
-- [[2c-d-pihkal-entry-23]]: BOB (the 2C-B BOX variant) is the beta-methoxy analog of 2C-B. BOB is more potent but raises neurological safety concerns.
-- mdma-reference|MDMA: BOD's conversational enhancement and humor production have MDMA-like qualities, but without the deep emotional opening or empathogenic warmth.
-
-## Harm Reduction Notes
-
-- Long duration (8-16 hours) requires a full day commitment. Do not plan evening activities.
-- Body load is consistently reported -- queasiness, sluggishness, difficulty sleeping. Prepare for physical discomfort.
-- The beta-oxygen substitution creates an additional chiral center; racemic mixtures mean unpredictable individual responses.
-- The BOX series is relatively unexplored compared to the 2C or DOx families. Exercise additional caution.
-- See [[harm-reduction-guide]] for general psychedelic safety principles.
-- The [[lsd-set-and-setting-framework]] framework is essential, especially given the long duration and body load.
-- See [[pihkal-cautionary-note-and-legal-context]] for jurisdictional status.
+The [[2c-d-pihkal-entry-23]]: The parent compound without beta-oxygen. 2C-D is milder, more ambiguous, and shorter-acting. BOD adds visual richness and conversational enhancement at the cost of body load and longer duration.
+- [[harm-reduction-guide]] for general psychedelic safety principles.
+- The [[pihkal-cautionary-note-and-legal-context]] for jurisdictional status.
 - [[tweetio-series-ethoxy-homologues-pihkal]]
+## Practical Applications
+
+BOD - PIHKAL Entry #14 Compound Profile has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+BOD - PIHKAL Entry #14 Compound Profile. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

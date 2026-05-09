@@ -9,7 +9,7 @@ sources:
 ---
 # Amanita Genus Morphology
 
-The genus Amanita includes both the deadliest mushrooms known and well-known edible species. Understanding its morphology — particularly the volva, ring, and spore characteristics — is essential for safe [[mushroom-foraging-traditions-europe]] and [[mushroom-contaminant-identification-key]] (Ramsbottom, 1945).
+The genus Amanita includes both the deadliest mushrooms known and well-known edible species. Understanding its morphology — particularly the volva, ring, and spore characteristics — is essential for safe [[mushroom-contaminant-identification-key]] (Ramsbottom, 1945).
 
 ## Key Characteristics
 
@@ -30,18 +30,7 @@ When the volva is composed mainly of thin-branched hyphae with few rather elonga
 
 - The cap is usually free from all trace of the volva
 - Occasionally in dry weather, parts may adhere to the cap surface
-- Examples: [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
-
-### Type 2: Friable (Warty) Volva
-
-When the volva is composed of few hyphae and many thick-walled spherical cells, it has insufficient tenacity to hold together. As the cap is pressed against it by the elongating stem, it breaks into wart-like portions that remain on the cap surface.
-
-- The base of the stem shows concentric rings or scales from the fragmented volva
-- Examples: [[allegro-colour-and-consistency-of-the-amanita-muscaria]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
-
-### Intermediate Type
-
-An intermediate condition occurs in species like [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], where portions of the volva remain on the cap as irregular patches rather than distinct warts.
+- Examples: [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], [[allegro-colour-and-consistency-of-the-amanita-muscaria]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], where portions of the volva remain on the cap as irregular patches rather than distinct warts.
 
 ## Stem Base
 
@@ -56,37 +45,39 @@ In the young stage, a membranous partial veil encloses the developing gills. As 
 Not all members of the genus are harmful. Ramsbottom (1945) describes:
 
 **Deadly species** (cell-degenerating toxins):
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — death cap
 - [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — destroying angel
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — destroying angel
-
-**Poisonous species** (nervous system toxins):
 - [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — fly agaric
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — panther cap
-
-**Edible species**:
-- Amanita rubescens — the blusher, a well-known edible species
 - [[agaricus-species-guide]] — Caesar's mushroom, much prized on the Continent but absent from Britain
 
 **Less dangerous:**
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — rare, contains cell-degenerating toxins but is much less dangerous than the deadly Amanita species
-
-## Identification Importance
-
-The Amanita genus is the single most important group for [[mushroom-foraging-safety-guide]]. The deadly species ([[mushroom-toxins-and-poisoning]] and allies) are responsible for the majority of fatal mushroom poisonings worldwide. Their white gills, white spore print, volva, and ring are the key field marks that distinguish them from [[agaricus-species-guide]] species commonly sought as edibles.
+- [[mushroom-foraging-safety-guide]]. The deadly species ([[agaricus-species-guide]] species commonly sought as edibles.
 
 ## See Also
 
-- [[amanita-ceceliae]]
-
 - [[ramsbottom-poisonous-fungi-species]]
-- [[mushroom-toxins-and-poisoning]]
 - [[mushroom-foraging-safety-guide]]
-- [[amanita-muscaria-pharmacology-dosing-guide]]
 - [[mushroom-etymology-and-nomenclature]]
 
 ## Related
 
-- [[psilocybin-mushroom-identification]]
 - [[mushroom-poisoning-and-lookalikes]]
 - [[mushroom-foraging-safety]]
+## Practical Considerations
+
+Successful implementation of Amanita Genus Morphology requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

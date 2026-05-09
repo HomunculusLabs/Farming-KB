@@ -124,8 +124,6 @@ antibiotic production and industrial biotechnology.
 
 ## See Also
 
-- [[aspergillus-flavus]]
 - [[penicillium-expansum]]
-- [[botrytis-cinerea]]
 - [[trichoderma-viride]]
 - [[colletotrichum-gloeosporioides]]

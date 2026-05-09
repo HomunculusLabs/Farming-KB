@@ -92,7 +92,7 @@ T. natans contains several bioactive constituents:
 
 - **Tannins:** Condensed tannins (proanthocyanidins) at 5–10% dry weight
 - **Phenolic acids:** Gallic acid, ellagic acid, and caffeic acid
-- **Flavonoids:** Quercetin, kaempferol derivatives
+- **Flavonoids:** [[kaempferol]] derivatives
 - **Triterpenoids:** Various trapa-specific triterpenoid saponins
 - **Alkaloids:** Trace amounts of pyrrolizidine-type alkaloids
 
@@ -119,28 +119,8 @@ Traditional cultivation in China and India uses shallow pond beds:
   or by wading; labor-intensive manual process
 - **Yield:** 1,500–3,000 kg fresh fruit per hectare in managed systems
 
-## Permaculture Applications
-
-- **Edible yield:** Starchy seeds are a calorie-dense aquatic crop
-- **Water filtration:** Dense floating canopy shades water, reducing
-  algal blooms; root uptake removes excess nitrogen and phosphorus
-- **Habitat creation:** Floating mats shelter fish fry, amphibians,
-  and aquatic invertebrates
-- **Biomass production:** Submerged and surface biomass can be
-  composted or used as mulch
-- **Polyculture:** Compatible with rice paddies, fish ponds, and
-  duck-foraging systems
-
-⚠️ **Invasive potential:** Outside its native range, T. natans can form
-impenetrable mats that displace native vegetation, deplete dissolved
-oxygen, and impede recreation. Cultivation should be restricted to
-contained water bodies in non-native regions.
-
-## See Also
-
-- [[euryale-ferox]] — Fox nut, another aquatic starchy seed crop in
+## [[euryale-ferox]] — Fox nut, another aquatic starchy seed crop in
   Asian traditional food systems
-- [[nelumbo-nucifera]] — Sacred lotus, complementary aquatic food crop
 - [[azolla-filiculoides]] — Floating aquatic fern for nitrogen fixation
   and pond water quality management
 - lemna — Duckweed, high-protein floating aquatic plant for

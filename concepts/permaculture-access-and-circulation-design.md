@@ -1,5 +1,4 @@
 ---
-title: Permaculture Access And Circulation Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -38,7 +37,7 @@ On sloped land, roads and main pathways should follow the contour wherever possi
 ### Multiple Functions
 
 Every path and road should serve more than one purpose:
-- Access routes that also function as [[organic-vegetable-growing-and-market-gardening|swales]] for water harvesting
+- Access routes that also function as [[swale-construction-guide|swales]] for water harvesting
 - Pathways that define garden bed shapes (keyhole beds, mandala gardens)
 - Roads that double as firebreaks
 - Paths that channel foot traffic away from sensitive areas
@@ -141,8 +140,8 @@ Mollison emphasizes the connection between roads and water:
 ## Related Concepts
 
 - [[permaculture-zones-and-sectors]]
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[keyline-design]]
-- [[permaculture-water-harvesting-earthworks]]
+- [[permaculture-earthworks-guide]]
 - [[permaculture-mapping-and-reading-the-landscape]]

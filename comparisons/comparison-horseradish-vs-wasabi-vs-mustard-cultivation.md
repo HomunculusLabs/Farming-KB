@@ -14,13 +14,7 @@ type: comparison
 
 # Horseradish vs Wasabi vs Mustard: Cultivation Comparison
 
-Horseradish (*[[armoracia-rusticana]]*), wasabi (*Eutrema japonicum*), and mustard (primarily
-*[[sinapis-alba]]* and *[[brassica-juncea]]*) share a family connection in Brassicaceae, a reliance on
-glucosinolate hydrolysis for their signature pungency, and centuries of use as spicy condiments.
-Despite these commonalities, their cultivation requirements differ dramatically — from
-horseradish's near-indestructible resilience to wasabi's exacting demands. This comparison helps
-growers select the right pungent crop for their climate, skill level, and intended use. See also
-[[permaculture-horseradish]].
+Horseradish (*[[sinapis-alba]]* and *[[permaculture-horseradish]].
 
 ## At-a-Glance Comparison
 
@@ -46,62 +40,8 @@ growers select the right pungent crop for their climate, skill level, and intend
 
 Horseradish is the most forgiving. It thrives across USDA zones 3–9, tolerates a wide range of
 soil types, and survives both hard freezes and summer heat. It performs best in deep, loose loam
-but will produce a usable root even in heavy clay. In [[query-how-to-transition-from-conventional-to-no-till-farming]]
-systems, horseradish benefits from improved soil structure and serves as a deep-rooted dynamic
-accumulator. It needs at least 6 hours of sun but tolerates partial shade without significant
-yield loss.
-
-Wasabi demands the opposite extreme: cool temperatures (8–20 °C), constant high humidity, and
-deep shade. In its native habitat it grows alongside mountain streams where water stays below
-15 °C year-round. Outside Japan, commercial cultivation requires shade structures, misting
-systems, or hydroponic setups. Temperature spikes above 25 °C can be fatal, and winter
-protection is essential below zone 7.
-
-Mustard occupies a broad middle ground. Most species are cool-season annuals grown in spring or
-fall, tolerating light frost. They perform well in [[query-what-is-companion-planting-and-how-does-it-work]] as a
-quick-maturing intercrop or [[cover-crop]]. Asian mustard varieties (*B. juncea*) are more
-heat-tolerant. Mustard also functions as a biofumigant cover crop; glucosinolate breakdown
-suppresses soil-borne pathogens and nematodes when incorporated into soil.
-
-## Propagation & Planting
-
-Horseradish is propagated from root cuttings ("sets"), 15–20 cm long, planted horizontally 5–10
-cm deep in early spring with crown buds upward. Each set produces multiple lateral roots, making
-even a small start rapidly productive — and invasive. Sets can be divided from established plants
-in late autumn.
-
-Wasabi propagation is slow and delicate. Commercial growers rely on tissue culture for
-disease-free plantlets; home growers may use offsets separated from mature plants. Seed
-germination is unreliable (often below 50%). Planting sites must be prepared with gravel beds,
-shade cloth, and reliable water before plants arrive.
-
-Mustard is simplest: direct-sow seeds 1 cm deep, 2–5 cm apart in rows 30–45 cm apart, thinning
-to 10–15 cm. Succession sowing every 2–3 weeks extends harvest windows. Seeds germinate in
-3–7 days at 15–25 °C soil temperature.
-
-## Care & Maintenance
-
-Horseradish requires virtually no care once established. Mulch to retain moisture and suppress
-weeds. Plant in buried containers or dedicated beds with root barriers to prevent spread.
-Removing the main root at harvest while leaving lateral roots ensures perpetual regrowth.
-
-Wasabi demands constant attention: pH monitoring (6.0–7.0), temperature control, shade
-management, and protection from wind. Fungal diseases (*Pythium*, *Phytophthora*) and aphids
-are frequent problems. Nutrient management must balance nitrogen for leaf growth with potassium
-and phosphorus for rhizome development. Many growers reduce nitrogen in the second stage to
-force rhizome enlargement.
-
-Mustard benefits from regular watering and nitrogen side-dressing during rapid vegetative growth.
-Flea beetles (*Phyllotreta* spp.) are the primary pest; floating row covers provide effective
-organic control. Downy mildew can affect dense plantings — ensure adequate spacing. Mustard's
-rapid growth means weed pressure is minimal after the seedling stage.
-
-## Harvesting
-
-Horseradish roots are best harvested in late autumn after the first frost, which concentrates
-flavor. Spring harvest before new growth is also possible but yields milder roots. Limit each
-plant to one primary root by removing lateral shoots for maximum size. See
-[[permaculture-horseradish]] for detailed processing techniques.
+but will produce a usable root even in heavy clay. In [[query-what-is-companion-planting-and-how-does-it-work]] as a
+quick-maturing intercrop or [[permaculture-horseradish]] for detailed processing techniques.
 
 Wasabi rhizomes are ready 18–36 months after planting at 10–15 cm length with characteristic
 bumpy texture. Above-ground petioles are harvested periodically as a secondary crop. Flower
@@ -141,4 +81,4 @@ investigate potential anticancer properties of isothiocyanates across all three 
   and provides both edible greens and seeds for condiment making.
 - **Permaculture integration:** Horseradish works as a dynamic accumulator in guild plantings;
   mustard serves as a biofumigant cover crop and pest-repelling companion. See
-  [[query-what-is-companion-planting-and-how-does-it-work]] for integration strategies.
+  [[comparison-french-marigold-vs-mustard-biofumigation]]

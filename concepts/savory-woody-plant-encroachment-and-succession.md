@@ -138,9 +138,6 @@ and track progress toward the holistic goal.
 
 ## Related Concepts
 
-- [[savory-plant-succession-and-community-dynamics]]
 - [[savory-fire-as-management-tool]]
-- [[savory-brittle-environments]]
 - [[savory-overgrazing-vs-overrest]]
-- [[savory-water-cycle-management]]
 - [[savory-animal-impact-and-herd-effect]]

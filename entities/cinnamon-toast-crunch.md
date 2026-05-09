@@ -100,13 +100,9 @@ Cloning is straightforward from healthy vegetative cuttings, with root developme
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[thin-mint-cookies]]
-- [[wedding-cake-cannabis]]
 - [[animal-cookies]]
-- [[gelato-cannabis]]
 - [[cereal-milk]]
-- [[jungle-cake]]
-- [[slurricane]]
+- jungle-cake
 - [[zookies-cannabis]]
 - [[mac-1]]

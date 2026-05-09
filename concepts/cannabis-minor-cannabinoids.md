@@ -9,42 +9,7 @@ sources:
 ---
 # Minor Cannabinoids and Their Therapeutic Potential
 
-Beyond THC and CBD, the cannabis plant contains over 70 identified cannabinoids, many of which show significant therapeutic potential. The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] documents the receptor pharmacology and therapeutic applications of several minor cannabinoids that deserve attention alongside the major compounds.
-
-## Cannabigerol (CBG)
-
-CBG is often called the "stem cell" or "mother" cannabinoid because it is the biosynthetic precursor to THC, CBD, and CBC. In the living plant, CBG is present in small amounts as most is converted to other cannabinoids during growth.
-
-### Receptor Pharmacology
-- Binds with both CB1 and CB2 receptors relatively equally
-- May act as a partial agonist at CB1 and CB2
-- Also interacts with other receptor systems including 5-HT1A (serotonin)
-
-### Therapeutic Potential
-- **Antidepressant**: CBG demonstrated antidepressant-like actions alongside THC, Delta-8-THC, CBN, CBC, and CBD (University of Mississippi, 2010)
-- **Anti-inflammatory**: CBG shows anti-inflammatory properties through CB2 engagement
-- **Antibacterial**: CBG has demonstrated antibacterial activity, particularly against MRSA
-- **Neuroprotective**: Shows potential in neurodegenerative conditions
-- **Glaucoma**: May help reduce intraocular pressure
-- **Appetite stimulation**: Preliminary evidence suggests appetite-stimulating effects
-
-## Cannabinol (CBN)
-
-CBN is a degradation product of THC. As cannabis ages and is exposed to oxygen and light, THC gradually converts to CBN. This is why older cannabis tends to be more sedating.
-
-### Receptor Pharmacology
-- Higher affinity for CB2 than CB1 receptors
-- Relatively weak CB1 agonist (about 10% of THC's potency at CB1)
-
-### Therapeutic Potential
-- **Sedative/sleep aid**: CBN is the primary cannabinoid associated with cannabis's sedative effects, making it relevant for insomnia treatment
-- **Antidepressant**: Demonstrated antidepressant-like actions in animal studies (2010)
-- **Anti-inflammatory**: CB2-mediated anti-inflammatory effects
-- **Pain relief**: Mild analgesic properties
-- **Antibacterial**: Demonstrates antibacterial activity
-- **Appetite stimulation**: May enhance appetite
-
-CBN is particularly relevant to the [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] discussion because CBN content increases as cannabis ages. Patients seeking sedative effects may benefit from aged cannabis with higher CBN content.
+Beyond THC and CBD, the cannabis plant contains over 70 identified cannabinoids, many of which show significant therapeutic potential. The [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] discussion because CBN content increases as cannabis ages. Patients seeking sedative effects may benefit from aged cannabis with higher CBN content.
 
 ## Cannabichromene (CBC)
 
@@ -106,7 +71,7 @@ The Cannabis Health Index consistently emphasizes that whole-plant cannabis, con
 
 Research into minor cannabinoids is still in early stages. As analytical methods improve and breeding techniques allow for cannabinoid-specific strains, the therapeutic potential of CBG, CBN, CBC, THCV, CBDV, and other minor cannabinoids will become clearer. Patients seeking specific minor cannabinoid profiles should look for laboratory-tested products with full cannabinoid analysis.
 
-See also: [[doi-entity]], doi entity, doi entity, doi entity, [[cannabis-indoor-growing-basics]], [[cannabis-indoor-growing-basics]], [[fruit-tree-grafting-guide]]
+See also: [[cannabis-indoor-growing-basics]], [[fruit-tree-grafting-guide]]
 
 ## Merged: Cannabis Calyx And Trichome Development
 
@@ -128,7 +93,7 @@ The calyx is a small, teardrop-shaped pod that forms at the nodes of female cann
 
 ## Calyx Development Stages
 
-Calyx development follows a predictable pattern through the [[cannabis-vegetative-growth-stage]] and into [[cannabis-flowering-stage]] Guide. Pre-flowers appear as tiny teardrop shapes at branch nodes 3-6 weeks after germination. During early flowering, calyxes multiply rapidly, forming dense clusters called colas. In mid-flowering, unpollinated calyxes swell dramatically as the plant continues producing resin in an effort to catch pollen. By late flowering, calyxes are fully swollen and heavily coated with trichomes.
+Calyx development follows a predictable pattern through the [[cannabis-flowering-stage]] Guide. Pre-flowers appear as tiny teardrop shapes at branch nodes 3-6 weeks after germination. During early flowering, calyxes multiply rapidly, forming dense clusters called colas. In mid-flowering, unpollinated calyxes swell dramatically as the plant continues producing resin in an effort to catch pollen. By late flowering, calyxes are fully swollen and heavily coated with trichomes.
 
 ## Environmental Factors Affecting Calyx Development
 
@@ -144,6 +109,6 @@ Trichomes are tiny, mushroom-shaped glandular hairs that cover the surface of ca
 
 - **Terpenes** — aromatic compounds that give cannabis its scent
 
-- Other cannabinoids and flavonoids
+## See Also
 
-## Trichome Types
+- [[cannabimovone]]

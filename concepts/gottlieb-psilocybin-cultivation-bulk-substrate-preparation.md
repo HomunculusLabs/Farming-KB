@@ -126,11 +126,7 @@ Stropharia cubensis fruiting bodies.
 
 ## See Also
 
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
 - [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[strain-isolation-from-wild-specimens]]
 - [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
-- [[mycelial-broth-alkaloid-production]]
 - [[psilocybin-large-scale-production]]

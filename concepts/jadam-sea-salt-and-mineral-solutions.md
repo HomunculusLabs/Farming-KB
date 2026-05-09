@@ -92,18 +92,11 @@ Modern science cannot precisely determine which mineral is deficient or in what 
 
 ## Related
 
-- [[jadam-sea-salt-use]]
 - [[jadam-seawater-mineral-supplementation]]
-- [[jadam-phyllite-solution]]
 - [[jadam-phyllite-mineral-solution]]
-- [[jadam-mineral-water-jmw]]
 - [[jadam-natural-mineral-water]]
-- [[jadam-mineral-fertilizer]]
 - [[teaming-with-nutrients-fertilizer-application]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]
 - [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-soil-foundation-work]]
-- [[jadam-natural-mineral-water]]
 - [[jadam-phyllite-mineral-solution]]
 - [[jadam-salt-accumulation-in-soil]]

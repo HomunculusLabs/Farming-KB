@@ -1,7 +1,7 @@
 ---
 title: Palmer on the Neglected Science of Mycology in America
 created: 2026-04-28
-tags: [mycology-history, american-science, nineteenth-century, palmer, cryptogamic-botany]
+tags: [[mycology-history, american-science, nineteenth-century, palmer, cryptogamic-botany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
@@ -126,11 +126,10 @@ never found a publisher." This absence of accessible American
 literature was, in Palmer's view, the fundamental barrier to wider
 knowledge and safer use of fungi as food.
 
-See also: [[bloomfield-history-of-mycology-pioneers]], [[palmer-mushroom-taxonomy-classification-system]],
+See also: [[palmer-mushroom-taxonomy-classification-system]],
 palmer-mushroom-charts-prang-publication
 
 ## See Also
 
-- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
 - [[mushroom-crop-rotation-and-substrate-reuse]]
 - [[oyster-mushroom-ph-and-substrate-chemistry]]

@@ -118,13 +118,8 @@ hymenophore, providing a clear distinguishing feature upon close inspection.
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]]
 - [[cantharellus-tubaeformis]]
-- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
-- [[laccaria-bicolor]]
-- [[armillaria-mellea]]
-- [[trametes-versicolor]]
+- [[armillaria-mellea-entity]]
 - [[agaricus-bisporus]]
-- [[mycorrhizae]]
 - [[mycology]]

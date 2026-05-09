@@ -128,23 +128,7 @@ A 2019 meta-analysis concluded elderberry supplementation substantially reduced 
 - Easily propagated from hardwood cuttings (20–30 cm) in winter or softwood cuttings in summer
 - Plant spacing: 2–3 meters; begins fruiting at 2–3 years, full production by year 4–5
 - Annual yield: 10–15 kg of berries per mature bush
-- Excellent [[food-forest]] species with minimal care; nitrogen-fixing through endophytic bacteria
-- Root suckering creates wildlife thickets; responds well to [[fermented-plant-juice]] and [[comfrey]] mulch
-
-## Varieties and Cultivars
-
-| Cultivar | Characteristics | Use |
-|----------|----------------|-----|
-| 'Adams No. 1' | Large fruit clusters, vigorous | Commercial production |
-| 'York' | Largest berries, late ripening | Home gardens, commercial |
-| 'Haschberg' | Austrian selection, very high yields | Commercial extraction |
-| 'Black Beauty' | Dark purple foliage, pink flowers | Ornamental landscaping |
-| 'Black Lace' | Deeply dissected dark purple foliage | Ornamental |
-| 'Sambucol' | Proprietary cultivar for supplement production | Nutraceutical |
-
-## See Also
-
-- [[sambucus-canadensis]]
+- Excellent [[fermented-plant-juice]] and [[lithospermum-erythrorhizon]]
 
 - [[calendula-officinalis]]
 - [[symphytum-officinale]]

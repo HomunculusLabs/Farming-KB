@@ -117,7 +117,9 @@ differentiation step of the model.
 
 ## See Also
 
-- [[endorhiza-bacterial-communities]] for tier 2 community details
 - [[soil-edaphic-factors-microbial-communities]] for tier 1 drivers
-- [[cannabis-cultivar-microbiome-specificity]] for cultivar selection effects
 - [[cannabis-microbiome-research]] for the complete study overview
+
+## See Also
+
+- [[cultivar-cannabis-microbiome-two-tier-selection-model]]

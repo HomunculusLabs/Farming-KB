@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
 # Detailed Goat Husbandry Guide
@@ -118,13 +119,9 @@ Milkweed, nightshade plants, buckthorn, cowbane, dog's mercury, foxglove, greate
 - New mothers give even less
 - Milk comes in 3-5 days after kidding -- during this time do not give grain
 
-See also: [[goat-keeping-guide]], [[goat-cheese-making]], [[cheese-making-basics]], [[dairy-and-cheesemaking]], [[permaculture-grazing-and-pasture]]
-- [[permaculture-multi-purpose-plants]]
-- [[water-pathways-through-plants]]
+See also: [[goat-cheese-making]], [[dairy-and-cheesemaking]], [[permaculture-multi-purpose-plants]]
 - [[first-time-grower-common-mistakes]]
 
 ## See Also
-
-- [[comparison-goat-husbandry-vs-sheep-husbandry]]
 
 - [[quail-husbandry-detailed]]

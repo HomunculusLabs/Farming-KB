@@ -8,11 +8,9 @@ tags:
   - stress-relief
   - home-garden
   - cultivation
-  - [[kava-kava-ethnobotany-chemistry|kava]]
   - [[chamomile-growing-guide|chamomile]]
   - lemon-balm
   - lavender
-  - [[passionflower-passiflora|passionflower]]
   - [[ashwagandha-growing-guide|ashwagandha]]
 date: 2026-04-28
 updated: 2026-04-28
@@ -144,6 +142,5 @@ sources:
 - **Consult a healthcare provider** before combining anxiolytic herbs with pharmaceuticals, especially SSRIs, benzodiazepines, or blood pressure medications
 - **Passionflower and valerian** can enhance sedative effects of other substances
 - **Ashwagandha** may affect thyroid function — monitor if you have thyroid conditions
-- **Lemon balm** may interfere with thyroid medication (theoretically)
-- **Kava** should not be combined with alcohol or benzodiazepines; see dedicated kava page for full safety information
-- **Pregnancy and breastfeeding**: Most anxiolytic herbs have insufficient safety data — consult your provider
+## See Also
+- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]

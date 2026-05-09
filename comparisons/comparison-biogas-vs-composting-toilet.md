@@ -23,24 +23,7 @@ biological mechanisms and serve different primary purposes.
 
 ## Biogas Digesters
 
-[[biogas-digester-basics]]
-
-A biogas digester is a sealed container where organic waste breaks down in
-the absence of oxygen through a four-stage process: hydrolysis, acidogenesis,
-acetogenesis, and methanogenesis. The primary output is biogas, a mixture of
-50 to 70 percent methane and 30 to 45 percent carbon dioxide, which can be
-used directly for cooking, lighting, or running generators. The secondary
-output is nutrient-rich digestate, a liquid fertilizer that retains most of
-the nitrogen and phosphorus from the original waste.
-
-Small-scale digesters suitable for a family or small community come in three
-main designs. Fixed-dome digesters use underground masonry construction and
-are extremely durable but require skilled building. Floating-drum digesters
-have an inverted steel drum that rises and falls with gas production,
-providing constant pressure. Tubular digesters use long plastic bags and
-represent the lowest-cost option, though they have the shortest lifespan.
-
-The [[permaculture-designers-manual-biogas-digester]] details how Bill
+[[permaculture-designers-manual-biogas-digester]] details how Bill
 Mollison integrated biogas into broader permaculture sewage treatment
 systems. He described sealed pond digesters 3 meters wide by 30 meters long
 serving 1,000 people, with remarkable pathogen destruction: 90 to 94 percent
@@ -49,12 +32,7 @@ percent for copper, zinc, and lead.
 
 ## Composting Toilets
 
-[[composting-toilets]]
-
-Composting toilets treat human waste through aerobic decomposition, converting
-it into safe, nutrient-rich compost. Unlike biogas digesters, composting
-toilets do not produce energy but instead prioritize simplicity, low cost,
-and direct soil amendment. The [[mollison-designers-composting-toilets-and-humanure]]
+[[mollison-designers-composting-toilets-and-humanure]]
 page describes how Mollison advocated for composting toilets as a fundamental
 permaculture technology, arguing that flush toilets represent one of the
 greatest design errors in modern civilization.
@@ -70,39 +48,6 @@ Human excreta contains roughly 4.5 kilograms of nitrogen, 1.5 kilograms
 of phosphorus, and 1 kilogram of potassium per person per year. Mollison
 calculated that these nutrients could fertilize enough food to feed the
 person who produced them, creating a genuine closed-loop nutrient cycle.
-The [[comparison-composting-toilets-vs-humanure]] page explores the nuances
-between different composting toilet approaches.
-
-## Key Differences
-
-| Aspect | Biogas Digester | Composting Toilet |
-|--------|----------------|-------------------|
-| Process | Anaerobic digestion | Aerobic composting |
-| Primary output | Methane gas (energy) | Compost (soil amendment) |
-| Secondary output | Liquid digestate (fertilizer) | Compost (fertilizer) |
-| Energy produced | Yes, cooking and heating | No |
-| Complexity | Moderate to high | Low to moderate |
-| Cost | $100 to $2,000+ | $50 to $3,000+ |
-| Temperature needs | Warm (77 to 86F optimal) | Ambient acceptable |
-| Maintenance | Regular feeding, gas management | Turning, moisture control |
-| Pathogen destruction | 90-94% worm eggs, 85-97% metals | Time and temperature dependent |
-| Space needed | Moderate (digester + piping) | Minimal to moderate |
-| Climate sensitivity | High (cold slows production) | Low (works most climates) |
-| Odor potential | Moderate (sealed system) | Low if managed well |
-| Best for | Energy production, warm climates | Soil building, simplicity |
-
-## When to Choose a Biogas Digester
-
-A biogas digester is the better choice when energy production is a priority.
-Off-grid homesteads that need cooking fuel, lighting, or electricity
-generation will find the methane output invaluable. In warm climates where
-digester temperatures stay in the optimal mesophilic range (85 to 105F)
-year-round, biogas systems operate efficiently with minimal heating. Farms
-with livestock produce abundant manure feedstock, making a digester a
-natural addition that converts waste into both energy and fertilizer.
-
-The energy return is significant: a well-managed small digester produces 1
-to 3 cubic meters of biogas per day, enough for 2 to 4 hours of cooking.
 The [[mollison-sewage-biogas-systems]] page describes how community-scale
 systems can offset substantial energy costs while simultaneously treating
 sewage. The digestate liquid is a potent fertilizer that retains nitrogen
@@ -140,11 +85,8 @@ aerobic ponds for further treatment, ultimately producing clean water
 for irrigation and algae for animal feed. These systems represent the
 most complete realization of the permaculture principle that waste equals
 food and every element should perform multiple functions.
-
 ## See Also
 
-- [[biogas-digester-basics]]
 - [[composting-toilets]]
-- [[mollison-designers-composting-toilets-and-humanure]]
 - [[mollison-sewage-biogas-systems]]
 - [[permaculture-designers-manual-biogas-digester]]

@@ -116,15 +116,9 @@ mushroom's deep cultural penetration across Eurasia.
 
 ## Related
 
-- [[plants-of-the-gods-nutmeg-myristica]]
-
 - [[plants-of-the-gods-pituri-duboisia]] Topics
 
-- [[amanita-muscaria-ethnobotany]] - broader ethnobotanical context
 - [[amanita-muscaria-chemistry-and-pharmacology]] - detailed chemistry
-- [[fly-agaric-siberian-shamanic-practice]] - Siberian shamanic use
 - [[siberian-fly-agaric-shamanism-urine-recycling]] - urine recycling
-- [[golden-guide-amanita-muscaria-and-soma]] - Soma hypothesis
 - [[amanita-muscaria-cultural-history]] - cultural history overview
-- [[rig-veda-soma-hymns-amanita-muscaria]] - Vedic Soma connection
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey

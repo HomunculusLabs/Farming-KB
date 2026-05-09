@@ -25,36 +25,7 @@ type: comparison
 
 # Tempeh vs Tofu
 
-Tempeh and tofu are the two most important whole-soybean foods in global cuisine, but they are fundamentally different products made by completely different processes. Tofu is a coagulated soy milk curd — essentially the soy equivalent of cheese. Tempeh is a solid-state fungal fermentation of whole soybeans — more like a molded, fungal-bound bean cake. Understanding the differences between them helps cooks choose the right ingredient and appreciate the science behind each.
-
-## Production Methods
-
-### Tofu: Coagulation
-
-Tofu production begins by extracting the liquid portion of soybeans:
-
-1. **Soaking and grinding**: Soybeans are soaked 8–12 hours, then ground with water into a slurry
-2. **Cooking**: The slurry is heated to denature lipoxygenase (which causes beany flavor) and extract protein
-3. **Straining**: The cooked slurry is filtered through cloth, separating okara (soy pulp) from soy milk
-4. **Coagulation**: A coagulant is added to the hot soy milk (~75–80°C), causing soy proteins to aggregate into curds:
-   - **Nigari** (magnesium chloride): Traditional Japanese coagulant; delicate, slightly mineral flavor
-   - **Calcium sulfate (gypsum)**: Produces firm, smooth tofu; common in Chinese-style tofu
-   - **Glucono delta-lactone (GDL)**: Slow-acting, produces silky smooth tofu; common for Japanese silken tofu
-   - **Lemon juice or vinegar**: Home coagulant; produces soft, slightly tangy curds
-5. **Pressing**: Curds are pressed in a mold to expel whey and achieve desired firmness
-
-The process discards the okara (fiber-rich pulp) and the whey (water-soluble proteins, sugars, minerals), concentrating the insoluble protein fraction.
-
-### Tempeh: Solid-State Fermentation
-
-Tempeh keeps the whole bean intact through the process:
-
-1. **Soaking and dehulling**: Soybeans are soaked (often acidified) and hulls are removed
-2. **Cooking**: Dehulled beans are boiled/steamed until soft
-3. **Inoculation**: *Rhizopus oligosporus* spores are mixed into the cooled beans
-4. **Incubation**: Beans ferment at 28–32°C for 24–48 hours as fungal mycelium binds them into a cake
-
-No component is discarded. The entire soybean — protein, fiber, fat, and carbohydrates — remains in the final product, partially pre-digested by fungal enzymes.
+Tempeh and tofu are the two most important whole-soybean foods in global cuisine, but they are fundamentally different products made by completely different processes. Tofu is a coagulated soy milk curd — essentially the soy equivalent of cheese. Tempeh is a [[knf-water-soluble-phosphoric-acid-detailed]] proteins, sugars, minerals), concentrating the insolubl [[fungal-enzymes-in-environmental-bioremediation]].
 
 ## Nutritional Comparison
 
@@ -125,9 +96,7 @@ No component is discarded. The entire soybean — protein, fiber, fat, and carbo
 
 Both tofu and tempeh have favorable environmental profiles compared to animal proteins:
 
-- **Water footprint**: Tofu production uses less water per gram of protein than tempeh because the soaking and cooking steps are shorter and less intensive. However, the okara byproduct of tofu production is often discarded (or used as animal feed), whereas tempeh utilizes the whole bean with zero waste.
-- **Energy**: Tofu requires more energy for the initial extraction and heating of soy milk, but tempeh requires controlled incubation at 28–32°C for 24–48 hours.
-- **Processing**: Tofu requires specialized equipment (soy milk extractor, molds, press). Tempeh can be made with kitchen basics — pot, colander, plastic bags — plus a source of warmth.
+- **Water footprint**: Tofu production uses less water per gram of protein than [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] can be made with kitchen basics — pot, colander, plastic bags — plus a source of warmth.
 - **Land use**: Both are highly efficient users of agricultural land compared to animal proteins, producing 10–20× more protein per hectare than beef.
 
 ## Which to Choose?
@@ -141,8 +110,6 @@ Both tofu and tempeh have favorable environmental profiles compared to animal pr
 | Iron needs | Tempeh | 2.7mg/100g with better bioavailability |
 | Delicate soups and desserts | Tofu (silken/soft) | Custard-like texture |
 ## See Also
-
-- [[comparison-cmh-vs-led-grow-lights]]
 
 - [[comparison-perlite-vs-vermiculite]]
 

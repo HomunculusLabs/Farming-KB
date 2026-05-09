@@ -97,12 +97,8 @@ The rhizosphere is where most nutrient cycling and uptake occurs. Mycorrhizal fu
 
 ## Related Topics
 
-- [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] -- the tissue types described here
 - [[water-pathways-through-plants]] -- how water moves from root hairs through xylem
-- [[diffusion-osmosis-and-active-transport-in-plants]] -- the physics of nutrient entry
 - [[root-exudates]] -- the chemicals roots release into the rhizosphere
 
-- [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[ingham-nutrient-cycling-soil-food-web]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

@@ -3,14 +3,7 @@ title: Mushroom Casing Layer Design and Application (Stamets)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - raw/papers/the-mushroom-cultivator-stamets.md
----
-
-Updated: 2026-04-18
-
-Source: [[paul-stamets]], *The Mushroom Cultivator* (1983)
+tags: [[paul-stamets]], *The Mushroom Cultivator* (1983)
 
 Casing is the practice of covering the substrate surface with a layer of moist material having specific structural characteristics. It encourages fruiting and enhances yield potential in many, but not all, cultivated mushroom species.
 
@@ -18,16 +11,11 @@ Casing is the practice of covering the substrate surface with a layer of moist m
 
 | Species | Casing Status |
 |---------|--------------|
-| [[agaricus-brunnescens]] | Required |
 | [[agaricus-bitorquis]] | Required |
-| [[coprinus-comatus-detailed]] | Optional |
 | [[flammulina-velutipes]] | Optional |
 | Lentinus edodes | Optional |
 | Lepista nuda | Optional |
-| [[pleurotus-ostreatus]] | Not Required |
-| P. ostreatus (Florida) | Required |
-| [[panaeolus-cyanescens]] | Required |
-| [[psilocybe-cubensis]] | Optional |
+| [[panaeolus-cyanescens-entity]] | Required |
 | [[psilocybe-cyanescens]] | Optional |
 | Stropharia rugoso-annulata | Optional |
 | [[volvariella-volvacea]] | Not Required |

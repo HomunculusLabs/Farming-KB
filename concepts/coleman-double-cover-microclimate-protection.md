@@ -3,7 +3,7 @@ title: Double Cover Microclimate Protection
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The Winter Harvest Handbook - Eliot Coleman
+    title: The Winter Harvest Handbook - [[eliot-coleman]]
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -122,7 +122,5 @@ considered impossible.
 
 ## See Also
 
-- [[coleman-cold-hardiness-testing-ratings]]
 - [[coleman-high-tunnel-cold-frame-design]]
-- [[coleman-cool-greenhouse]]
 - [[coleman-cold-hardy-varieties]]

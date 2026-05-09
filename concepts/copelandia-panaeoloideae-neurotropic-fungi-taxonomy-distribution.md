@@ -7,8 +7,7 @@ tags:
   - copelandia
   - panaeolus
   - panaeolina
-  - [[southern-hemisphere-origin-of-neurotropic-fungi]]
-  [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]] in]]
+  - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]] in]]
   - biogeography
   - guzman-allen-gartz
 date: 2026-04-28
@@ -17,7 +16,7 @@ sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
 ---
-# Copelandia and Panaeoloideae [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
+# Copelandia and Panaeoloideae 
 
 The Panaeoloideae fungi represent one of the four major groups of
 neurotropic mushrooms, comprising 29 species across three genera:
@@ -33,11 +32,11 @@ among the most taxonomically confused and chemically disputed groups.
 Copelandia species are tropical and subtropical bluing mushrooms that
 grow on herbivore dung. The genus was established by Singer and includes:
 
-- **C. cyanescens** (Berk. and Broome) Singpanaeo [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] tion-guideknown
-  species, synonymous with [[panaeolus-cyanescens]]. Found across tropical
+- **C. cyanescens** (Berk. and Broome) Singpanaeo  tion-guideknown
+  species, synonymous with . Found across tropical
   regions worldwide, it sometimes occurs in disturbed temperate zones,
-  including the Val [[neurotropic-fungi-of-mexico]] xico at 2,220 m altitude and central Europe.
-  In Maui, Hawaiian Archipelago, it grows at 3,000 m elevatipsilocybin]] tropicalis** (Olah) Singer: A tropical species with confirmed
+  including the Val  xico at 2,220 m altitude and central Europe.
+  In Maui, Hawaiian Archipelago, it grows at 3,000 m elevatipsilocybin tropicalis** (Olah) Singer: A tropical species with confirmed
   psilocybin content.
 - **C. cambodginiensis** (Olah and R. Heim) Singer: Originally described
   from Cambodia.
@@ -88,7 +87,7 @@ occurring infrequently in Europe).
 ### Gymnopilus and Other Genera
 
 Stijve and Meijer (1993) failed to find psilocybin and other psilocybian
-compounds in Gymnopilus spp. and [[panaeolina-foenisecii]]. Similarly,
+compounds in Gymnopilus spp. and . Similarly,
 Gymnopilus spectabilis, long reported as hallucinogenic, yielded
 questionable results upon re-analysis. However, Tanaka et al. (1993)
 identified neurotropic oligoisoprenoides in G. spectabilis, suggesting a
@@ -102,7 +101,7 @@ Several distribution patterns emerge from the Panaeoloideae:
   found worldwide. Surprisingly, P. foenisecii is not recorded from
   Central America or the Caribbean, and in Japan it is common but
   absent from major mycological references by Imazeki and Hongo.
-- **Tropical/subtropical**: [[copelandia-cyanescens]], C. tropicalis, and
+- **Tropical/subtropical**: , C. tropicalis, and
   other Copelandia species (with exceptions like C. cyanescens in
   temperate disturbed zones).
 - **Northern/endemic**: Panaeolus moellerianus and P. olivaceus from the
@@ -114,3 +113,7 @@ Several distribution patterns emerge from the Panaeoloideae:
 
 - The taxonomic challenges with these fungi are part of the broader
   issues discussed in
+
+## See Also
+- [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
+- [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]

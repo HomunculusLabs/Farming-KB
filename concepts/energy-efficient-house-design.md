@@ -109,14 +109,7 @@ House design should incorporate:
 
 ## See Also
 
-- [[permaculture-climate-zones-and-strategies]] - Climate-specific design responses
 - [[zone-sector-analysis-guide]] - Placement of house in the landscape
-- [[bioregional-organization]] - Regional material and energy resources
-
-## Related
-
 - [[natural-building-materials-guide]]
-- [[earth-sheltered-structures-permaculture]]
 - [[permaculture-cold-climate-strategies]]
-- [[mollison-permaculture-two-sound-walls-noise-control]]
 - [[permaculture-humid-landscape-strategies]]

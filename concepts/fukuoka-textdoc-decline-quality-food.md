@@ -105,28 +105,10 @@ efficiency and productivity is actually a form of systematic impoverishment.
 
 ## Connection to Natural Farming
 
-In [[fukuoka-textdoc-energy-wasteful-modern-agriculture]], Fukuoka demonstrates
-that scientific agriculture requires up to fifty times the energy input of
-natural farming per unit of food produced. The decline in food quality is
-inseparable from this energy extravagance. Food grown under natural conditions
-by a farmer who works with nature, rather than against it, retains qualities
-that artificial cultivation can never replicate. The very notion of improving
-food through technology reveals a misunderstanding of what food fundamentally
-is: not merely a collection of nutrients but a living expression of the
-relationship between earth, plant, and human being.
-
-## See Also
-
-- [[fukuoka-natural-farming-philosophy]]
-
-- [[fukuoka-petroleum-agriculture-food-quality-decline]]
-
-- [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
+In [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-food-civilization-critique]]
 - [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-natural-food-philosophy]]
 - [[fukuoka-textdoc-nature-of-food]]

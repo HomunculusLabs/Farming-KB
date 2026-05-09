@@ -103,18 +103,11 @@ The most important farming task in JADAM:
 
 ## Related
 
-- [[jadam-soil-management-principles]]
 - [[jadam-soil-foundation-work]]
-- [[jadam-soil-surface-management-no-till]]
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-cover-crop-method]]
 - [[jadam-coexisting-with-wild-grass]]
-- [[jadam-salt-accumulation-in-soil]]
 - [[jadam-cover-crop-soil-temperature-management]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
-- [[jadam-coexisting-with-wild-grass]]
 - [[jadam-leaf-mold-as-ideal-soil]]
-- [[jadam-leaf-mold-soil-method]]
 - [[growing-vegetables-with-less-fertilizer]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]

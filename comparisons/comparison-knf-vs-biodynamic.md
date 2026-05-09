@@ -51,10 +51,8 @@ precise one-hour vortex stirring process called "dynamization."
 KNF uses a system of **fermented natural inputs** producedfermented-plant-juicey available materials. Core inputs infish-amino-acidgenous
 microorganisms) collected from forest soils and multiplied through a
 four-stage cultivation process, FPJ (fermented plant juice), FFJ
-([[knf-fermented-fruit-juice]]), FAA ([[fish-amino-acid]]), OHN (oriental herbal
-nutrient), WCA (water-soluble calcium), and BRV ([[brown-rice-vinegar-brv]]).
-Each targets a specific nutritional need at a specific plant growth
-stage per Cho's [[cho-nutritive-cycle-theory]]. No animal organs or esoteric
+([[fish-amino-acid]]), OHN (oriental herbal
+nutrient), WCA (water-soluble calcium), and BRV ([[cho-nutritive-cycle-theory]]. No animal organs or esoteric
 containers are needed; inputs are fermented in simple vessels using
 brown sugar as an osmotic preservative.
 ## Soil Management Approach
@@ -121,7 +119,5 @@ want a system based on observable microbial ecology and plant growth
 stages, or are working in tropical or subtropical climates where IMO
 cultivation thrives. KNF has proven especially effective in Southeast
 Asia, the Pacific Islands, and among smallholder farmers worldwide.
- Related concepts include [[permaculture]].
-## See Also
-- [[korean-natural-farming-imo-recipes]]
+ Related concepts include [[korean-natural-farming-imo-recipes]]
 - [[nutritive-cycle-theory]]

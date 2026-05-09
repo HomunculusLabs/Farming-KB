@@ -123,11 +123,7 @@ they do return when both overgrazing and partial rest are stopped.
 
 ## See Also
 
-- [[savory-livestock-grazing-planning]] for how planned grazing
-  addresses both overgrazing and overrest
 - [[savory-brittle-environments]] for why decay processes differ
-- [[savory-animal-impact-and-herd-effect]] for the role of physical
-  disturbance in breaking overrest cycles
 - [[savory-rest-as-management-tool]] for the full analysis of rest as
   a management tool
 - [[savory-desertification-causes]] for how these forces drive

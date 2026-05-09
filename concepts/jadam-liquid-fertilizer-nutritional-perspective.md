@@ -125,13 +125,9 @@ all essential nutrients without the complexity of laboratory analysis.
 - Crop residues contain nutrients in the exact balance the crop needs
 - Rice bran, perilla pulp, and oil cake are nutritionally unbalanced
 - C/N ratio, pH adjustment, and full fermentation are unnecessary
-- JLF can be used at any stage of [[decomposition]] if properly diluted
-- Wild grasses add diversity and are free fertilizer ingredients
-- Standard dilution is 100 times; start there and adjust as needed
-- JLF improves with age: prepare in spring for use the following year
+- JLF can be used at any stage of [[jadam-nutritional-balance-fertilizer]]
+- [[jadam-wild-grass-liquid-fertilizer]]
 
 ## See Also
 
-- [[jadam-nutritional-balance-fertilizer]]
-- [[jadam-liquid-fertilizer]]
-- [[jadam-wild-grass-liquid-fertilizer]]
+- [[jadam-human-manure-liquid-fertilizer]]

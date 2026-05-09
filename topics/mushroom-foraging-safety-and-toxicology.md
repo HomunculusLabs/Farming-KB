@@ -577,7 +577,7 @@ the absence of symptoms is not a reason for complacency.
 - [[psilocybin-mushroom-identification]]
 - [[fungal-spore-print-guide]]
 - [[mushroom-foraging-safety]]
-- [[psilocybin-mushroom-species-and-identification]]
+- [[psilocybin-mushroom-species-identification]]
 - [[edible-wild-mushrooms-foraging-guide]]
 
 ## References

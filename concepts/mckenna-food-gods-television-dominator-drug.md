@@ -141,7 +141,5 @@ Thanks to them we have, in this most chaotic of centuries, taken into our frail 
 
 - [[mckenna-television-as-hidden-persuader]] Concepts
 
-- [[mckenna-food-gods-designer-states-of-consciousness|Designer States of Consciousness]]
 - [[mckenna-food-gods-natural-synthetic-drugs|Natural and Synthetic Drugs]]
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego|Dominance Culture and the Ego]]
 - [[mckenna-food-gods-archaic-revival|The Archaic Revival]]

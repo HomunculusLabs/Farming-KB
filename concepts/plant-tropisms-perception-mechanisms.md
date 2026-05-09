@@ -15,10 +15,7 @@ type: concept
 Plant tropisms are directional growth responses in which plants orient
 their growth toward or away from external stimuli. The study of these
 mechanisms has a rich history, from early botanical observations through
-the groundbreaking instrumentation of Sir [[jagadis-chandra-bose]], whose
-work challenged the assumption that plant sensitivity was negligible.
-The research documented in *The Secret Life of Plants* reveals that
-[[plant-perception]] extends far beyond simple mechanical responses,
+the groundbreaking instrumentation of Sir [[plant-perception]] extends far beyond simple mechanical responses,
 encompassing electrical signaling and what Bose termed "primary
 perception" -- a sensitivity that may rival or exceed human sensory
 capabilities in certain dimensions.
@@ -136,15 +133,10 @@ The French philosopher Henri Bergson, after hearing Bose lecture at the
 Sorbonne in 1923, declared: "The dumb plants had by Bose's marvelous
 inventions been rendered the most eloquent witnesses of their hitherto
 unexpressed life story." Romain Rolland inscribed a copy of his novel
-to Bose as "To the Revealer of a New World."
-
 ## Related
 
 - [[tompkins-plant-perception-experiments]] Concepts
 
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
-- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
-- [[tompkins-bose-plant-nervous-system-hypothesis]]
-- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]

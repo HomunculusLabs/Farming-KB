@@ -26,11 +26,8 @@ Mulberries are among the easiest fruit trees to grow, tolerating a wide range of
 
 Three species dominate cultivation, each with distinct strengths:
 
-- **[[morus-alba]] (White Mulberry)** — Zones 4–9. Native to China; fast-growing, drought-tolerant once established. Leaves are the primary food source for silkworms. Fruit is typically mild and sweet; some cultivars produce white or lavender berries. Best for cold climates and silkworm production. Some varieties can reach 40–60 ft if unpruned.
 - **[[morus-nigra]] (Black Mulberry)** — Zones 6–10. Native to Southwest Asia. Slow-growing but produces the richest, most complex fruit flavor — often compared to fig or blackberry. Less cold-hardy; prefers longer, hotter summers for best fruit. Ideal for orchards and food gardens where flavor is paramount. Typically stays under 30 ft.
-- **[[morus-rubra]] (Red Mulberry)** — Zones 5–9. Native to eastern North America. Vigorous grower with reddish-purple fruit. Excellent wildlife value and well-adapted to humid continental climates. Good choice for native-focused plantings and permaculture systems. Can hybridize with M. alba where ranges overlap.
-
-See also: [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
+- **[[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
 
 ## What Are the Best Mulberry Cultivars?
 
@@ -130,5 +127,4 @@ Absolutely — mulberries are a keystone species in food forests and forest gard
 
 ## See Also
 
-- [[berry-growing]]
 - [[companion-planting]]

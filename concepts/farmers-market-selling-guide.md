@@ -4,25 +4,31 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [business, economics, homesteading, food, community, regulation]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
+
 # Farmers Market Selling Guide
+
 Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and community building. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
+
 ## Getting Started
+
 ### Finding Markets
 - USDA National Farmers Market Directory (localharvest.org)
 - Visit markets as a customer first: observe foot traffic, vendor mix, pricing
 - Talk to market managers about vendor openings and product categories
 - Consider market days, hours, and season length
 - Multiple markets: many vendors do 2-3 markets per week for higher revenue
+
 ### Application Process
 - Apply early (many markets have waitlists)
 - Application typically requires: product list, farming practices, insurance certificate, photos
 - Market manager may visit your farm
 - Annual vendor fees: $100-500 depending on market size and location
 - Some markets charge per-market-day fees ($15-50/day) instead of annual fees
+
 ## Licensing and Regulations
+
 ### Common Requirements
 - Business license (county or city level)
 - Sales tax permit / seller's permit
@@ -31,6 +37,7 @@ Farmers markets are the primary sales channel for homestead-scale producers. The
 - Health department permit (for some products -- varies by state)
 - Liability insurance (most markets require $1-2 million aggregate)
 - Organic certification (only if making organic claims; not required to sell at market)
+
 ### Cottage Food Laws
 Most states allow home-produced non-potentially hazardous foods:
 - Baked goods (bread, cookies, muffins)
@@ -40,8 +47,11 @@ Most states allow home-produced non-potentially hazardous foods:
 - Granola and trail mix
 - Pickles (properly acidified)
 - NOT allowed: meat, dairy, canned low-acid foods, fresh-cut produce
+
 Check your state's cottage food law for specifics -- see homestead tax planning for business structure.
+
 ## Booth Setup
+
 ### Essential Equipment
 - 10x10 pop-up canopy (weighted legs -- market requirement)
 - Tables: 6-foot or 8-foot folding tables (2-3 per booth)
@@ -54,12 +64,15 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 - Scale (NTEP-certified if selling by weight)
 - Bags: paper or compostable (many markets ban plastic)
 - Business cards or flyers
+
 ### Canopy Setup
 - Position canopy to avoid afternoon sun on products
 - Weights on all four legs (market rule -- wind hazards)
 - Banner on front: farm name, location, tagline
 - Side panels for weather protection (optional)
+
 ## Display Techniques
+
 ### Visual Merchandising Principles
 - Height variation: use crates, baskets, and risers to create levels
 - Color: group colorful items together for visual impact
@@ -67,6 +80,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 - Cleanliness: wipe tables, trim vegetables, remove damaged items
 - Signage: consistent style, readable from 5+ feet away, include price and variety
 - Use chalkboards or printed signs
+
 ### Product Display Tips
 - Vegetables: arranged in baskets by type, with some slightly exposed to show quality
 - Eggs: cartons arranged in neat stacks, display one open carton showing egg color
@@ -74,6 +88,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 - Herbs: in jars or small bouquets, fresh misted
 - Bread: stacked on bread boards or in baskets, cut sample loaves
 - Value-added: arranged by type, tasting samples if possible
+
 ### The Power of Samples
 - Cut fruit for sampling with toothpicks
 - Bread slices with butter or jam
@@ -81,12 +96,15 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 - Samples increase sales 20-40%
 - Have napkins, toothpicks, and a trash container
 - Check market rules on sampling (some require permits)
+
 ## Pricing Strategy
+
 ### Pricing Methods
 - Cost-plus: production cost + 30-50% markup (minimum for sustainability)
 - Market comparison: price within 10% of other vendors for similar items
 - Perceived value: premium products (organic, grass-fed, heritage breed) justify higher prices
 - Round numbers: $4, $5, $6 are easier than $3.75 or $4.50
+
 ### General Price Guidelines (Farmers Market, 2024-2026)
 | Item | Price Range |
 |---|---|
@@ -99,28 +117,35 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 | Dried herbs (1oz) | $3-6 |
 | Hot sauce (5oz) | $7-12 |
 | Jam/jelly (8oz) | $6-9 |
+
 ### Pricing Tips
 - Price per unit (each) for larger items, per pound for smaller
 - Bundle deals: "3 for $10" moves more volume
 - Early bird specials: discount last-week's produce at market open
 - Honor system: some vendors use self-serve for packaged goods
+
 ## Customer Relationships
+
 ### Building Loyalty
 - Learn regular customers' names and preferences
 - Share farm stories and growing practices
 - Offer a "regulars" perk: hold items, early access, bonus items
 - Email list or text group for weekly availability
 - Social media: post market photos, behind-the-scenes content
+
 ### Handling Complaints
 - Replace or refund without argument (word of mouth is powerful)
 - Use feedback to improve
 - Document food safety practices in case of alleged illness
+
 ### Educating Customers
 - Recipe cards with market purchases
 - Cooking tips and storage advice
 - Explain why your products cost more (grass-fed, organic, hand-harvested)
 - Customers who understand your methods become advocates
+
 ## Sales Tips
+
 - Arrive early for setup (1-2 hours before market opens)
 - Stay until official close (latecomers are often buyers)
 - Smile, make eye contact, greet everyone
@@ -129,20 +154,19 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 - Track sales by item to identify best sellers
 - Accept SNAP/EBT if the market offers it (many provide token systems)
 - Partner with complementary vendors: bread + jam, meat + vegetables
+
 ## Record Keeping
+
 - Track daily sales by product (spreadsheet or app)
 - Record weather, customer count, and notes
 - Calculate revenue per hour (market time + prep + travel)
 - Use data to decide which markets and products are most profitable
 - Keep receipts for all market expenses (booth fees, supplies, equipment)
+
 Farmers market success builds the foundation for [[online-homestead-sales]] and supports the broader [[csa-farm-share-model]] approach to homestead revenue.
+
 ## Related
+
 - [[online-homestead-sales]]
 
-## See Also
-
-- [[soil-food-web-management-for-farmers]]
-- [[mushroom-cultivation-photographic-guide]]
-- [[root-crops-growing-guide]]
-- [[field-guide-psilocybin-dosage-extraction-cultivation]]
-- [[mason-jar-preserving-guide]]
+See also: [[community-food-systems-and-csa-farms]]

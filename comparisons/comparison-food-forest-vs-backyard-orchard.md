@@ -12,7 +12,7 @@ A comparison of two approaches to perennial food production with fruit trees at 
 ## Overview
 Food forests mimic natural forest structure with seven vertical layers of edible and useful plants arranged in mutually beneficial relationships. Backyard orchards focus on practical tree fruit production using rootstock selection, pollination planning, and smart spacing to maximize fruit yield in limited space.
 Both approaches center on perennial crops and long-term food production, but they differ dramatically in complexity, diversity, maintenance, and time to productivity.
-See [[food-forest-design]] for ecosystem design principles and [[backyard-orchard-design]] for focused fruit production methods.
+See [[backyard-orchard-design]] for focused fruit production methods.
 ## Key Differences
 | Aspect | Food Forest | Backyard Orchard |
 |--------|-------------|------------------|
@@ -94,9 +94,7 @@ This phased approach delivers fruit quickly from the orchard layer while gradual
 Food forest drawbacks include high initial design complexity, long establishment period, difficulty managing harvest across many species, potential shade competition between layers, and challenges accessing fruit in dense plantings.
 Backyard orchard drawbacks include ongoing maintenance that does not decrease, vulnerability to pest and disease pressure, soil fertility management needs, and limited production diversity.
 ## See Also
-- [[comparison-food-forest-design-vs-backyard-orchard-design]]
 - [[comparison-arbuscular-vs-ectomycorrhizal]]
-- [[forest-garden-design-principles]] for ecosystem mimicry theory
 - [[food-forest-layers-and-species]] for plant selection guidance
 - guild design permaculture for companion planting in perennial systems
 - [[comparison-food-forest-vs-polyculture]]

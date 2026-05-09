@@ -132,8 +132,6 @@ bulk media pasteurization.
 
 ## See Also
 
-- [[cotter-seven-stages-of-mushroom-cultivation]]
 - [[cotter-spawn-production]]
-- [[cotter-laboratory-setup]]
 - [[cotter-natural-pest-control-disease-management]]
 - [[cotter-pasteurization-sterilization-methods]]

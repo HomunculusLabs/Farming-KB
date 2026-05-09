@@ -3,73 +3,7 @@ title: Holmgren Integrated Land Uses and Land Tenure
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Integrated Land Uses and Land Tenure
-
-Integrated land uses — where every farm is to some degree a forest — were perhaps more central to the original permaculture-ethics|permaculture vision than companion planting and guilds. Holmgren argues that the technical issues of integrating trees with crops and pasture are only part of the picture; the prevailing system of freehold land ownership remains one of the greatest impediments to integrated rural land use.
-
-## The Freehold Impediment
-
-Almost every large farm has some potential to include enterprises as diverse as livestock husbandry, cropping, horticulture, aquaculture, apiculture and forestry in ways that increase the productivity of all enterprises. Unfortunately, it is uncommon for one farming family to have the skills, capital, or even the cultural disposition to manage this diversity.
-
-Rural landscapes with a patchwork of pastoral, cropping, horticultural and forestry land use on separate freehold titles may be quite diverse, but the level of integration is always impeded by the tendency of each owner-operator to maximise their primary enterprise:
-
-- The grazier sees trees as taking up space that could grow more grass
-- The forester sees grass as a fire hazard and "unstocked" forest
-- Each landholder optimises for one output at the expense of system integration
-
-## The Strata Title Solution
-
-Holmgren's realisation of the importance of land tenure came when working with New Zealand planner and resource ecologist Haikai Tane in 1979 and 1984. The relatively recent innovation of strata or body corporate title was being used in shopping centres and industrial estates. The key insight: this modern form of land tenure could be applied to rural land.
-
-**In shopping centres:** As co-owners, small businesses gained economies of scale to employ marketing, accounting and other shared services, as well as more bargaining power with large chain stores sharing the centre.
-
-**In industrial estates:** Sharing of waste management services provided economies of scale for small businesses dealing with stricter pollution control regulations. This created opportunities for industrial ecology where the output of one business was the input of another.
-
-**Applied to rural land:** Strata title could allow integration of forestry, horticulture, aquaculture and apiculture into existing broadacre pastoral farms without subdividing the land. Within the current affluent society, the desire to live in a rural environment provided the economic opportunity for reorganising farms into rural residential communities while expanding and integrating their productive land use.
-
-## Rural Eco-Villages with Body Corporate Tenure
-
-Rural eco-villages using body corporate land tenure provide a more sustainable way — economic, ecological and social — for people to live in attractive rural environments than conventional subdivision. However, development has been slow due to:
-
-- Planning schemes that give no incentives and actively discourage group rural resettlement
-- Rural land being relatively cheap due to low commodity prices and poor economic viability of agriculture
-- Reluctance to deal with the complexities and constraints of community
-
-## The Caste System as Zoning Analogy
-
-A Hare Krishna devotee with considerable experience of farm management and permaculture design presented a zoning interpretation of the traditional Indian caste system's regulation of land use:
-
-- Everyone had the right to garden (Zones 1 and 2) for family needs
-- Those with technical ability and entrepreneurial drive were allowed access to arable land (Zone 3) for market crops
-- Use of forests and rangelands (Zone 4) was strictly regulated
-- There was always the sacred (Zone 5), beyond utilitarian use by anyone
-
-The Brahmin elite understood that the entrepreneurial drive which generated material wealth in privatised Zone 3 was constrained by the need for human and animal labour inputs. If unrestrained in Zone 4 commons, this wealth-producing but short-term focus would greedily over-exploit the apparently free resources of fertility, water, fodder, fuel and other yields that managed natural systems provided to the whole of society.
-
-This is a powerful analogy: the caste system, whatever its social injustices, encoded ecological wisdom about managing the relationship between private enterprise and common resources.
-
-## Collective Commons or Feudalism
-
-Most pre-industrial societies had broadacre commons, and all community members had varying rights to use them. The Enclosure Acts in England began the global process of privatising the commons, which is still proceeding in poorer countries.
-
-In rich countries, remaining commons in state forests and national parks are an unlikely source of innovative management models. Their fate seems determined by bureaucratic and increasingly corporatised management structures, leading to carve-ups and privatisation.
-
-Without models of common ownership, redevelopment and management for broadacre farmland, the default model for a low-energy future will be some form of feudalism. The aggregation of most better farmland into very large holdings makes this feudal future most likely. In energy descent, more diverse and integrated land uses will develop, which will be much more labour-intensive. Large farms will again become communities of some sort.
-
-## Land Systems Concept
-
-The Land Systems concept provides a framework for understanding landscape patterns:
-
-**Definition:** "An area or group of areas throughout which there is a recurring pattern of topography, soils and vegetation" (Christian and Stewart).
-
-The method identifies whole landscapes as systems (often cutting across adjacent catchments in bands from headwaters to the sea) reflecting climate, geology and topography. Within these land systems there is a characteristic pattern of repeating land "components" with more uniform microclimate, slope, aspect, soil type and natural vegetation.
-
-**Key insight:** Poorly drained wetlands tend to be seen as unproductive, whereas recognition of [[faires-pond-design-and-aquaculture]] as one of the most productive land uses can reverse this view. Similarly, sloping land tends to be classified as problematic, whereas permaculture strategies emphasise the advantages of slope.
+tags: [[faires-pond-design-and-aquaculture]] as one of the most productive land uses can reverse this view. Similarly, sloping land tends to be classified as problematic, whereas permaculture strategies emphasise the advantages of slope.
 
 **Application:** Land Systems describe self-organising systems as a series of nested geographic systems projected up to encompass the bioregion and down to include individual sites. This provides a top-down approach that can overcome the blinkered and reactive understanding of land that farmers experience when only dealing with specific problems within existing paddocks.
 
@@ -90,8 +24,84 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 
 ## See Also
 
-- [[holmgren-permaculture-land-tenure-and-legal-structures]]
 - [[holmgren-corporate-culture-and-ecology]]
-- [[holmgren-forest-management-and-sustainable-harvesting]]
 - [[holmgren-community-design-and-intentional-communities]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Practical Applications
+
+Holmgren Integrated Land Uses and Land Tenure has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Holmgren Integrated Land Uses and Land Tenure. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

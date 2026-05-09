@@ -54,50 +54,19 @@ updated: 2026-05-02
 
 ## Overview
 - Eli Yablonovitch is an American physicist and electrical engineer.
-- He is a central founder of the modern field of [[photonic-crystals]].
+- He is a central founder of the modern field of photonic-crystals.
 - His 1987 work argued that a three-dimensional photonic band gap could inhibit spontaneous emission.
 - That proposal made periodic dielectric structure a tool for controlling quantum optical processes.
-- Alongside Sajeev John, he helped turn photonic crystals into a named research field.
-- His group later demonstrated a three-dimensional microwave photonic crystal with a full band gap.
-- That structure became known as Yablonovite.
-- His work also influenced semiconductor lasers, solar cells, and integrated photonic devices.
-- He is therefore both a person entity and a bridge between physics and engineering practice.
-
-## Identity and education
-- Yablonovitch was born on 15 December 1946 in Puch bei Hallein, Austria.
-- He is commonly identified as an American scientist and engineer.
-- His undergraduate education was at McGill University.
-- His doctoral training was at Harvard University.
-- His doctoral adviser was Nicolaas Bloembergen.
-- Bloembergen's nonlinear optics background placed Yablonovitch in a strong optical-physics lineage.
-- The combination of physics and electrical engineering shaped his later career.
-- His research style frequently joined fundamental wave physics to manufacturable devices.
-
-## Institutional career
-- Yablonovitch has held positions in academic, industrial, and communications-research laboratories.
-- Institutions associated with his career include Bell Telephone Laboratories.
-- He also worked at Exxon and Bell Communications Research.
-- He held academic posts at the University of California, Los Angeles.
-- He later became associated with the University of California, Berkeley.
-- His career path reflects the late twentieth-century overlap of semiconductor physics and telecommunications.
+- Alongside Sajeev John, he helped turn [[semiconductor-physics-and-devices]] and telecommunications.
 - Industrial research exposed him to device constraints, materials constraints, and manufacturing constraints.
 - Academic work gave him a platform for broader photonics and energy research.
 
 ## Photonic crystal contribution
-- The [[photonic-crystals]] concept page identifies Yablonovitch as one of the two modern founders.
+- The photonic-crystals concept page identifies Yablonovitch as one of the two modern founders.
 - His 1987 contribution emphasized inhibited spontaneous emission in a three-dimensional band-gap medium.
 - The key idea was that photons, like electrons in a crystal, can face forbidden frequency bands.
 - If no optical mode is available at an emitter's transition frequency, emission can be suppressed.
-- This reframed spontaneous emission as something engineered by the surrounding electromagnetic environment.
-- The idea linked solid-state band theory, quantum optics, and nanostructured materials.
-- It also made cavity quantum electrodynamics relevant to patterned semiconductors.
-- The work remains a standard historical starting point for photonic band-gap research.
-
-## Yablonovite
-- Yablonovite is the photonic-crystal structure named after Yablonovitch.
-- It was an early three-dimensional structure exhibiting a complete photonic band gap at microwave scale.
-- Microwave-scale experiments were practical before visible-wavelength nanofabrication matured.
-- The structure showed that a full band gap was not merely a mathematical speculation.
+- This reframed spontaneous emission as something engineered by the surrounding electromag [[query-how-do-photonic-crystals-create-structural-color]] ion.
 - It provided a tangible laboratory model for later optical photonic crystals.
 - The result helped validate the analogy between electronic crystals and photonic crystals.
 - Its importance lies in proof of principle rather than direct consumer use.
@@ -111,10 +80,7 @@ updated: 2026-05-02
 - This contribution connects his entity page to laser diodes and optical communication.
 - It shows that his influence was not limited to photonic band-gap physics.
 - The work also illustrates his recurring interest in density of states and carrier behavior.
-- In practical terms, it affected the design of many real optoelectronic devices.
-
-## Solar energy and light trapping
-- Yablonovitch has also contributed to solar-cell physics.
+- In practical terms, it affected the design of m [[holmgren-solar-cell-emergy-critique]] ch has also contributed to solar-cell physics.
 - A recurring theme in that work is light trapping inside photovoltaic absorbers.
 - Light trapping increases the optical path length through a thin absorbing material.
 - Better trapping can reduce material use while preserving absorption.
@@ -132,19 +98,14 @@ updated: 2026-05-02
 - The breadth of these awards reflects impact across condensed matter, optics, and engineering.
 
 ## Relevance to this wiki
-- This entity was mined because [[photonic-crystals]] referenced Yablonovitch without a dedicated page.
+- This entity was mined because photonic-crystals referenced Yablonovitch without a dedicated page.
 - He anchors the historical section of that concept page.
 - He is a useful link target for future pages on photonic band gaps.
 - He is also relevant to pages on semiconductor lasers and quantum optics.
 - The entity helps distinguish the person from the concept named photonic crystal.
-- It also supports comparison with [[sajeev-john]], the other founder named in the concept page.
-
-## Connections
-- Related concept: [[photonic-crystals]].
-- Related entity: [[sajeev-john]].
+- It also supports comparison with [[sajeev-john]].
 - Related structure: Yablonovite.
 - Related physics: inhibited spontaneous emission.
-
 ## See Also
-- [[photonic-crystals]]
+- photonic-crystals
 - [[fukuoka-three-dimensional-orchard-design]]

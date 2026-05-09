@@ -101,15 +101,9 @@ The trajectory of sativa breeding continues toward strains that combine the best
 
 ## See Also
 
-- [[cannabis-breeding-basics]]
 - [[cannabis-breeding-fundamentals]]
-- [[cannabis-genetics-and-breeding]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
-- [[cannabis-phenotype-and-genotype-guide]]
 - [[cannabis-backcrossing-breeding]]
-- [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-feminized-seeds]]
-- [[autoflowering-breeding]]
 - [[cannabis-sativa-dominant-growing-challenges]]
-- [[cannabis-landrace-sativa-heritage-varieties]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]

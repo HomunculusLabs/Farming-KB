@@ -79,8 +79,6 @@ approximately three months tend to produce higher THCA/THC content
 than outdoor annual cycles.
 
 ## See Also
-- [[tetrahydrocannabinol-thc]]
 - [[cannabigerolic-acid-cbga]]
-- [[cannabidiolic-acid-cbda]]
 - [[cannabidiol-cbd]]
 - [[cannabis-sativa]]

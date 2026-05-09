@@ -110,12 +110,8 @@ Major global cultivars include Cabernet Sauvignon, Merlot, Chardonnay, Pinot Noi
 ## See Also
 
 - [[food-forest]]
-- [[chop-and-drop]]
 - [[permaculture-multi-purpose-plants]]
-- [[moringa-oleifera]]
 - [[symphytum-officinale]]
-- [[comfrey]]
 - [[permaculture]]
-- [[guild-planting]]
 - [[rosmarinus-officinalis-entity]]
 - [[origanum-vulgare-entity]]

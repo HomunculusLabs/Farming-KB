@@ -80,15 +80,7 @@ Progress is being made using selective enrichment of PCR-amplified DNA to probe 
 AM fungi are modular organisms like plants, but the functional component is the mycelium — not the part measured when determining spore abundance. Infectivity assays (most probable number method, mean infection percentage) estimate all propagules but cannot partition contributions of individual species.
 
 ## See Also
-- [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]
-
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[soil-fungal-isolation-techniques]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
-- [[fungal-species-richness-and-diversity-indices]]
-
-## Related
-
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]

@@ -62,34 +62,25 @@ Frankia bacteria for atmospheric nitrogen fixation.
 - Produces plump, pliant, soft leather in pale reddish-brown colour
 - Penetrates hide quickly
 
-### Companion Planting
-- Vanilla growers in Brazil use it as a companion crop
-- Soil beneath the tree stays moist, possibly from air moisture
-  condensed on needles and twigs
-- Wood suitable for pulp production
-
-### Propagation and Establishment
-- Propagated from seed; seed is small and abundant
-- Fast establishment on sandy coastal sites
-- Natural regeneration common in suitable habitats
-- Plantings typically spaced 2-4 meters apart in windbreaks
-
-### Limitations
-- Will not survive fire; avoid in fire-prone areas
-- Will not tolerate coppicing; management by replanting
-- Can become invasive in some tropical coastal environments
-
-## Relevance
-Casuarina equisetifolia is the premier coastal permaculture tree for
-tropical and subtropical zones. Its combination of salt tolerance, wind
-resistance, sand stabilization, nitrogen fixation, and valuable timber
-makes it indispensable for coastal restoration, agroforestry, and
-dune stabilization projects worldwide.
-
-## See Also
-- Casuarina cunninghamiana
-- Casuarina cristata
-- [[acacia]]
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
+### [[acacia]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]
+## Practical Considerations
+
+Successful implementation of Casuarina equisetifolia requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

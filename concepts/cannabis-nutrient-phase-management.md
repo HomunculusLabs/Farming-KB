@@ -139,12 +139,8 @@ excess of one nutrient altering the availability of others. pH
 problems, soil composition, and water quality can all contribute.
 The remedy is to transplant into fresh soil or flush the existing
 medium thoroughly.
-
 ## Related Concepts
 
-- [[cannabis-vegetative-growth-stage]]
 - [[flowering-phase-cannabis]]
-- [[ingham-compost-tea-recipe-ratios]]
 - [[cannabis-nutrient-lockout-and-ph]]
-- [[soil-ph-management]]
 - [[cannabis-chemical-burn-vs-deficiency]]

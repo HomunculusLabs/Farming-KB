@@ -141,9 +141,6 @@ fruit production, all without the need for chemical inputs.
 
 ## See Also
 
-- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]
-- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]

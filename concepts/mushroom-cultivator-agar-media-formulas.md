@@ -1,7 +1,7 @@
 ---
 title: "Agar Media Formulas for Mushroom Culture"
 created: 2026-04-28
-tags: [mycology, agar-media, mushroom-cultivation, tissue-culture,
+tags: [[mycology, agar-media, mushroom-cultivation, tissue-culture,
       mushroom-cultivator]
 date: 2026-04-25
 updated: 2026-04-25
@@ -62,9 +62,7 @@ fast colonization rate:
 
 The addition of ground rye grain or grain extract to whatever media
 is chosen clearly promotes the growth of strandy mycelium. Rhizomorphic
-mycelia run faster, form more [[mushroom-cultivator-strain-selection]], and in the final analysis yield more mushrooms than
-cottony mycelia. This morphological preference is significant for
-strain development and [[mushroom-cultivator-grain-spawn-production]].
+mycelia run faster, form more [[mushroom-cultivator-grain-spawn-production]].
 
 ## Antibiotic Supplementation
 
@@ -82,49 +80,7 @@ region to region. In areas of questionable water purity, distilled
 water is advisable. For most practical purposes, tap water can be used
 without harm to mushroom mycelium.
 
-pH becomes important at [[mushroom-cultivator-contaminants-identification]] or when culturing exotic species. The pH of media
-can be adjusted by adding a drop at a time of 1 molar concentration
-of hydrochloric acid (HCl) or sodium hydroxide (NaOH). The medium
-is thoroughly mixed and then measured using a pH meter or pH papers.
-Reference values: one molar HCl has a pH of 0, one molar NaOH has a
-pH of 12, and distilled water has a pH of 7.
-
-## Sterilization Protocol
-
-After thoroughly mixing the dry ingredients with water to make one
-liter of medium, sterilize in a pressure cooker for 30 minutes at 15
-psi (250 degrees Fahrenheit). A small-mouthed vessel is recommended
-for holding the agar media. The media container should be filled only
-to two-thirds to three-quarters of its capacity. The cooker must not
-exceed 250 degrees Fahrenheit or else the sugar in the media will
-caramelize. Media with caramelized sugar inhibits mycelial growth
-and promotes genetic mutations.
-
-### Altitude Adjustments
-
-Pressure and temperature directly correspond (Boyle's Law). At 5000
-feet elevation, the pressure must be increased to 20 psi (5 psi above
-the recommended 15 psi sea level standard) to achieve the same
-sterilization effect. A doubling of pressure reduces sterilization
-time by one half.
-
-## Pouring Plates
-
-Once sterilized, allow the pressure cooker to return to 1 psi before
-opening. One liter of agar media generously fills thirty 100 x 15 mm
-petri dishes. Before pouring, vigorously shake the molten media to
-evenly distribute its ingredients. To reduce condensation on the
-inside of the lid, wait 45 minutes after the cooker reaches 1 psi
-before pouring.
-
-## Media Rotation for Strain Vitality
-
-Growing a strain on the same agar formula is not recommended because
-the nutritional composition of the medium exerts a selective influence
-on the mushroom mycelium's ability to produce digestive enzymes. By
-varying the media, the strain's enzyme system remains broadly based
-and the mycelium is better suited for survival across diverse
-substrates. This practice is critical for long-term [[mushroom-cultivator-stock-culture-preservation]].
+pH becomes important at [[mushroom-cultivator-stock-culture-preservation]].
 
 ## Choosing Between Formulas
 

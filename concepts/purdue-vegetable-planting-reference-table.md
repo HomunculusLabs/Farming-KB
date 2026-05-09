@@ -139,11 +139,6 @@ The following crops are also covered in the Purdue guide:
 - **Winter Squash:** 6 ft rows, 72 in spacing, May 15-Jun 15, 85-110 days
 - **Sweet Potatoes:** 3 ft rows, 12 in spacing, 50 plants, May 20-Jun 10, 130-140 days
 
-See [[purdue-vegetable-harvest-and-storage-guide]] for harvest timing and storage conditions for all crops.
-
-## See Also
-
-- [[purdue-nitrogen-side-dressing-schedule]]
-- [[purdue-four-step-garden-fertilization-program]]
+See [[purdue-nitrogen-side-dressing-schedule]]
 - [[purdue-vegetable-harvest-and-storage-guide]]
 - [[purdue-garden-planning-and-layout]]

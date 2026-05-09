@@ -116,18 +116,11 @@ Key facts:
 
 ## Related
 
-- [[green-cannabis-photoperiod-12-12-light-cycle]]
-
 - [[green-cannabis-grow-bible-outdoor-growing]] Pages
 
-- [[cannabis-vegetative-stage]]
 - [[cannabis-vegetative-stage-management]]
-- [[cannabis-topping-training]]
 - [[cannabis-pruning-and-defoliation-guide]]
-- [[training-cannabis]]
 - [[cannabis-pre-flowering-and-sexing]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
-- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-growth-stage-checklist]]

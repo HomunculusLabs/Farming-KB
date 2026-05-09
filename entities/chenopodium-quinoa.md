@@ -137,12 +137,8 @@ breeding programs in Denmark and the Netherlands.
 
 ## See Also
 
-- [[chenopodium-album]]
 - [[amaranthus-retroflexus]]
-- [[amaranthus-palmeri]]
 - [[ipomoea-batatas]]
-- [[moringa-oleifera]]
 - [[colocasia-esculenta]]
-- [[dioscorea-alata]]
 - [[tropaeolum-majus]]
 - [[xanthosoma-sagittifolium]]

@@ -124,9 +124,6 @@ Irrigation strategy must account for clay's water-holding characteristics:
 
 ## See Also
 
-- [[permaculture-soil-management|Soil Structure Management]]
 - [[solomon-complete-organic-fertilizer-guide|Complete Organic Fertilizer Recipe]]
-- [[solomon-composting-methods|Composting Methods]]
 - [[jeavons-double-digging-bed-preparation|Double Digging Bed Preparation]]
-- [[query-how-do-i-improve-soil-drainage-in-my-garden|Drainage Solutions]]
 - [[manure-quality-variability-and-fertilizer-value|Manure Quality Variability]]

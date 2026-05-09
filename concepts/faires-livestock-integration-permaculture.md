@@ -102,14 +102,9 @@ Animal manure is a critical nutrient source. The permaculture barn is ideally tw
 
 ## See Also
 
-- [[faires-livestock-integration-systems]]
 - [[faires-chicken-coops-tractors-and-breeding-guide]]
-- [[faires-permaculture-chicken-integration]]
 - [[faires-duck-pig-and-goat-systems]]
-- [[faires-pasture-forage-tree-systems]]
 - [[faires-zone-and-sector-planning]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[urban-permaculture-food-forest-succession]]
-- [[faires-chicken-coops-tractors-and-breeding-guide]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[ingham-nutrient-cycling-soil-food-web]]

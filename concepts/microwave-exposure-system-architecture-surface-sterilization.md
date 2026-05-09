@@ -123,13 +123,8 @@ coupling are not assured.
 
 ## See Also
 
-- [[microwave-sterilization-system-hardware-architecture]]
-
 - [[microwave-surface-sterilization-technology]]
-- [[microwave-2-45-ghz-water-dipolar-coupling]]
 - [[microwave-sterilizable-access-port]]
-- [[trace-water-enhanced-microwave-surface-sterilization]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
-- [[microwave-steam-flash-sterilization-mechanism]]
 - [[microwave-penetration-elastomeric-materials]]
 - [[sterilization-techniques-mushroom-cultivation]]

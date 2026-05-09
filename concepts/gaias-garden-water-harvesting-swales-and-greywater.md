@@ -10,7 +10,7 @@ sources:
 
 # Gaia's Garden: Water Harvesting, Swales, and Greywater
 
-Chapter 5 of [[toby-hemenway]]'s Gaia's Garden presents a comprehensive approach to catching, conserving, and using water in the ecological garden. This page complements the existing [[gaias-garden-net-and-pan-water-harvesting]] page.
+Chapter 5 of [[gaias-garden-net-and-pan-water-harvesting]] page.
 
 ## The Fivefold Path to Water Wisdom
 
@@ -19,71 +19,7 @@ Hemenway introduces five complemensoil-lifeniques that, used together, make ampl
 1. High organic matter content in soil -- holds moisture, adds fertility, stores nutrients, boosts soil life, fluffs soil
 2. Deep mulching -- slows evaporation, cools soil, adds fertility, boosts soil life, smothers weeds
 3. Water-conserving plants -- need less water, survive drought
-4. [[permaculture]]ngs -- shade soil, smother weeds
-5. Soil contouring -- catches water, directs it where needed, helps plants survive wet and dry periods, builds humus, adds visual interest
-
-These techniques embody the permaculture principle that "each function is supported by many elements." If one system fails, others compensate. The case study of the Zemach garden in Los Alamos, New Mexico (designed by Ben Haggard) demonstrates this: the garden can last months between waterings in a high-desert climate with summer water bills up to $300/month, yet relies almost not at all on municipal water.
-
-## Holding Water in the Soil
-
-The cheapest place to store water is in the soil. Key facts:
-
-- Soil with 2% organic matter can reduce irrigation needed by 75% compared to poor soils with less than 1% organic matter
-- 1 foot of rich, moist soil blanketing a backyard holds as much water as a 3-inch-deep lake the same size
-- Humus and organic matter act as a sponge, swelling to hold several times their weight in water
-- Rich soil is stingy with water: a rainstorm must saturate the soil before a single drop trickles away as runoff
-- Unlike pond water, moisture held in soil does not evaporate easily
-- Rivers are fed by creeks, which are fed by water slowly seeping from humic earth over weeks and months
-
-## Swales
-
-A swale is a shallow trench laid out dead level along the land's contours. It functions as a long, skinny pond:
-
-- Water runs into a swale, spreads out along its length, and slowly percolates into the soil
-- An underground lens of stored water forms below the swale, held together by hydrostatic tension
-- This underground reservoir aids plant growth for tens of feet downslope
-- Excavated earth is piled on the downhill side to make a berm; cross-section looks like the letter S on its side
-
-### How to Make a Swale
-
-1. Determine spacing: 18 feet apart for 40-50 inches of annual rainfall, increasing to 50 feet apart for 15 inches. On steep slopes or compacted soils, bring swales closer together.
-
-2. Lay out on contour using a leveling device (surveyor's transit, peep-sight level, water level, line level, or homemade A-frame level).
-
-3. Dig 1 foot deep and 18 inches wide (or for gentler swales: 6 inches deep but 2-3 feet wide, with wider berm).
-
-4. Periodically check the bottom is level along its length. Drive pegs every 6-10 feet on hilly ground.
-
-5. Partially fill with mulch to help hold water and make less noticeable.
-
-6. Plant the berm with trees and shrubs whose roots hold the berm in place and leaves add humus. Shade slows evaporation.
-
-### Swale Variations
-
-- Straw-filled swales: on-contour trench 1-3 feet deep packed with straw or hay, topped with thin sandy topsoil, for formal areas where standard swales would be too deep
-- Fishscale swales: shorter, overlapping swales used when existing trees or obstacles make long swales impossible
-- Infiltration swales can be used in all climates, not just deserts -- in the Northwest, an 80-foot swale held moisture weeks after rains stopped, while grass above the swale browned within days
-
-### The Pond-Swale-Garden System
-
-Tom Ward's Ashland, Oregon example integrates multiple water elements:
-- 3,000-gallon pond fed by downspouts from neighbouring houses
-- Swale runs alongside the pond; overflow dribbles into the swale via a rock waterfall
-- Vegetable garden downhill from the swale receives subsurface irrigation from the underground moisture lens
-- Blueberry bushes at the outlet end of the swale capture any remaining water
-- The entire system uses gravity and natural water flow -- no pumps or municipal water
-
-## Water-Conserving Plants
-
-Hemenway recommends matching plants to available water through several strategies:
-
-### Native Plants
-- Adapted to local water regime
-- Provide familiar food and habitat for regional wildlife
-- Available for show, culinary herbs, medicinal herbs, food, and wildlife habitat
-
-### Mediterranean-Climate Plants
-Unlike desert plants (which cannot survive wet roots)[[ficus-carica]]ean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly ehippophae-rhamnoidesunpredictable dry spells. Examples include:
+4. [[ficus-carica]]ean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly ehippophae-rhamnoidesunpredictable dry spells. Examples include:
 
 - Almond (Prunus dulcis), fig (Ficus carica), olive (Olea europaea), grape (Vitis vinifera)
 - Pomegranate, quince (Cydonia oblonga), sea buckthorn (Hippophae rhamnoides)
@@ -123,7 +59,7 @@ Formula:
 4. Storage size possible (budget, space, aesthetics; ponds vs tanks)
 5. Placement relative to catchment (use gravity whenever possible)
 
-## [[permaculture-designers-manual-greywater-systems]]
+## [[graywater-systems]]
 
 Greywater -- water from sinks, showers, and laundry drains -- is "nearly pure but just dirty enough to be unfit for direct human reuse." Plants and soil organisms eagerly consume both the water and its dissolved contents.
 

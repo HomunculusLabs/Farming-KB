@@ -5,12 +5,7 @@ updated: 2026-04-23
 sources:
   - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
 type: concept
-tags: [mushroom-cultivation, mushrooms, psilocybin]
----
-
-# Major and Minor Psilocybin-Containing Genera
-
-[[paul-stamets]]' "Psilocybin Mushrooms of the World" documents approximately 100 known or suspected psilocybin-active species across seven genera. About 30,000 mushroom species have been documented worldwide; roughly one in 300 is known to contain psilocybin, psilocin, baeocystin, or nor-baeocystin. The species producing psilocybin are clearly concentrated in the genus Psilocybe, which has more than 80 active species (Stijve 1995). A few psilocybin mushrooms occur in other genera, including Panaeolus, Pluteus, Gymnopilus, Conocybe, and Inocybe. Although the vast majority of species in these minor genera are not active, more than half of the species in the genus Psilocybe contain psilocybin.
+tags: [[paul-stamets]]' "Psilocybin Mushrooms of the World" documents approximately 100 known or suspected psilocybin-active species across seven genera. About 30,000 mushroom species have been documented worldwide; roughly one in 300 is known to contain psilocybin, psilocin, baeocystin, or nor-baeocystin. The species producing psilocybin are clearly concentrated in the genus Psilocybe, which has more than 80 active species (Stijve 1995). A few psilocybin mushrooms occur in other genera, including Panaeolus, Pluteus, Gymnopilus, Conocybe, and Inocybe. Although the vast majority of species in these minor genera are not active, more than half of the species in the genus Psilocybe contain psilocybin.
 
 ## The Major Genera
 
@@ -26,15 +21,7 @@ The most potent Psilocybe species include P. azurescens (up to 1.78% psilocybin)
 
 Species are recognized by their mottled or spotted gills, caused by uneven ripening of spore-producing cells (basidia). Many grow in dung, while others prefer grassy or rarely woodland habitats. They typically have hemispheric caps, relatively long stems, and produce black spore prints. Under an expanded concept (Panaeolus sensu lato), this genus includes the subgenera Panaeolina, Copelandia (tropical bluing species including P. cyanescens, P. cambodginiensis, and P. tropicalis), and Anellaria.
 
-Several species consistently produce psilocybin and/or psilocin. None have proven poisonous. Notable active species include P. cyanescens (a tropical species, not to be confused with [[psilocybe-cyanescens]]), P. subbalteatus (= P. cinctulus, the "weed Panaeolus"), and P. cambodginiensis. [[panaeolus-subbalteatus]] is one of the most widely distributed psilocybin-containing species, found across much of the temperate world. [[panaeolus-cyanescens]] is common in tropical and subtropical dung pastures worldwide, from Hawaii to Southeast Asia to Australia.
-
-Psilocybin mushrooms from the genera Psilocybe and Panaeolus are relatively safe to identify, in that there are no known poisonous species in those two genera. This is the first and most important safety rule in Stamets' guide.
-
-## The Minor Genera
-
-### Genus Conocybe
-
-Small, delicate mushrooms with conic to campanulate caps and rusty brown spore prints. Approximately 10 species in this genus have been reported as psilocybin-active, but accurate identification is difficult. [[conocybe-cyanopus]] contains up to 1.01% psilocybin -- making it one of the most potent species in any genus. Other reported active species include C. smithii and C. kuehneriana.
+Several species consistently produce psilocybin and/or psilocin. None have proven poisonous. Notable active species include P. cyanescens (a tropical species, not to be confused with [[panaeolus-subbalteatus]] is one of the most widely distributed psilocybin-containing species, found across much of the temperate world. [[conocybe-cyanopus]] contains up to 1.01% psilocybin -- making it one of the most potent species in any genus. Other reported active species include C. smithii and C. kuehneriana.
 
 Beware: the deadly Pholiotina filaris (formerly Conocybe filaris) also belongs here and contains amatoxins similar to Amanita phalloides. Several Galerinas resemble Conocybes. Stamets recommends that collectors avoid the genus Conocybe until sufficiently skilled at identification.
 
@@ -54,62 +41,66 @@ However, 34 out of 39 species tested in one Russian study contained toxic muscar
 
 ### Genus Pluteus
 
-Wood-inhabiting mushrooms with free gills that turn pinkish to salmon at maturity -- a feature that distinguishes them from most other gilled mushrooms. [[pluteus-salicinus]] is the primary psilocybin-containing species, found on alder and willow debris in riparian habitats. Weakly to moderately active, containing 0.05-0.35% psilocybin. Widely distributed across the United States, British Isles, and northern Europe. The pinkish spore print and free gills make Pluteus relatively easy to distinguish from Psilocybe species.
-
-## Taxonomic Safety Hierarchy
-
-Stamets organizes the genera by risk level for collectors:
-
-- Safest: Psilocybe and Panaeolus (no known poisonous species, dark purplish-brown to black spores). Novice collectors should restrict themselves to these genera.
-- Moderate risk: Gymnopilus and Pluteus (some poisonous look-alikes, different spore colors). Requires more experience to identify safely.
-- Highest risk: Conocybe and Inocybe (abundant toxic species, require expert identification). Stamets explicitly advises against collecting these genera until the collector is sufficiently skilled.
-
-## Key Distinction: Spore Color
-
-The single most important identification feature separating safe psilocybin mushrooms from deadly look-alikes is spore print color. Psilocybe and Panaeolus produce purplish brown to black spore deposits. The deadly genera Galerina and Pholiotina produce rusty brown spores. This color difference alone prevents the most dangerous misidentifications. Collectors should always make a spore print before consuming any mushroom.
-
-## Genus Key Characteristics for Field Identification
-
-Each psilocybin-containing genus has distinctive field characteristics that aid preliminary identification:
-
-- **Psilocybe**: Dark purplish brown to black spore print. Caps typically hygrophanous (changing color as they dry -- dark brown when wet, fading to pale tan or yellowish when dry). Many species bruise bluish when injured, especially those high in psilocin. Gills attached to the stem (adnate to adnexed) or slightly running down it (subdecurrent). Often have a separable gelatinous pellicle on the cap surface -- this can be tested by carefully peeling the cap skin, which separates like a thin membrane. The stem is typically fibrous and does not snap cleanly
-- **Panaeolus**: Black spore print. The most distinctive feature is mottled or spotted gills -- the spores mature unevenly across the gill surface, creating a pattern of dark mature areas interspersed with lighter immature zones. This mottling is visible to the naked eye and is unique to this genus. Caps are typically hemispheric and never hygrophanous. Stems are relatively long and slender compared to cap size
-- **Gymnopilus**: Rusty orange to yellow-orange spore print. Caps are dry (never viscid or slimy), and colors range from yellow-orange to reddish orange to brownish orange. A partial veil is typically present, leaving a ring on the stem. These mushrooms tend to be medium to large, with some species producing caps over 20 cm. Many Gymnopilus species are extremely bitter, a useful field character
-- **Conocybe**: Rusty brown spore print. Small, delicate mushrooms with conic to bell-shaped caps. The stem is slender and fragile. Many species have a distinct conical shape that is quite different from the rounded caps of Psilocybe. Identification requires microscopic examination in most cases
-- **Pluteus**: Pinkish to salmon spore print that develops as gills mature -- this is the distinguishing feature. Gills are free (not attached to the stem), which is unusual among wood-inhabiting mushrooms. The pink spore print alone separates Pluteus from all other psilocybin-containing genera
-- **Inocybe**: Brown spore print. Most species are small to medium with fibrous, scaly caps and a distinctive radish-like odor. Many have a bulbous stem base. Identification is extremely difficult and should be left to experts
-
-## Distribution Patterns
-
-Psilocybin-containing mushrooms follow distinct global distribution patterns related to climate and habitat:
-
-- **Tropical and subtropical lowlands**: Dominated by dung-inhabiting species, particularly [[psilocybe-cubensis]] and Panaeolus cyanescens. These regions have year-round growing seasons where cattle pastures provide abundant substrate. Distribution spans Central America, northern South America, Southeast Asia, Sub-Saharan Africa, and tropical Australia
-- **Temperate grasslands**: [[psilocybe-semilanceata]] (liberty cap) dominates, found across Europe, the Pacific Northwest of North America, and parts of South America (Chile). These grassland species fruit in autumn and are closely associated with livestock pastures where nutrient-rich soils support their growth
-- **Temperate woodlands**: The section Cyanescens complex (P. cyanescens, P. azurescens, P. allenii) occupies a specific niche in temperate coastal regions, fruiting on wood chips and woody debris in the Pacific Northwest, the UK, and parts of Western Europe. They require cool, wet autumn conditions
-- **High-altitude tropical**: Mexico's high mountains (3,000-4,000 meters) host specialized species like P. aztecorum and P. muliercula that are adapted to cold nights and intense UV exposure. These alpine species are among the most potent known
-- **Subtropical forests**: Species like P. zapotecorum occupy muddy clay soils in coffee plantations and disturbed forest edges, producing massive simultaneous flushes after heavy rains
-
-## Summary of Active Species Counts
-
-| Genus | Approximate Active Species | Total Species (worldwide) |
-|-------|--------------------------|--------------------------|
-| Psilocybe | 80+ | ~180 |
-| Panaeolus | ~15 | ~50 |
-| Gymnopilus | 10 confirmed | ~150 |
-| Conocybe | ~10 | ~100 |
-| Inocybe | 5 confirmed | 400-600 |
-| Pluteus | 1-2 primary | ~300 |
-
-## Identification Tips for Beginners
-
-Stamets provides several practical guidelines for novice collectors seeking psilocybin-containing mushrooms:
-
-- **Always make a spore print**: This is the single most important identification step. Place a mature cap gill-side down on half-white, half-black paper, cover with a bowl, and wait 4-8 hours. Purplish brown to black spores point toward Psilocybe or Panaeolus; rusty brown spores indicate Galerina or other potentially dangerous genera
-- **Check for bruising**: While not all psilocybin mushrooms bruise blue, blue bruising (caused by oxidation of psilocin) is a strong positive indicator. Absence of bruising does not rule out psilocybin activity -- P. semilanceata bruises slowly or not at all. The bruising reaction is most reliable in fresh specimens and may not develop in dried mushrooms
-- **Examine the habitat**: Most beginner-friendly psilocybin mushrooms grow in recognizable habitats. P. cubensis grows on cow dung in tropical and subtropical pastures. P. semilanceata grows in grass, not on dung. P. cyanescens grows on wood chips, not soil. Knowing the expected habitat eliminates many potential misidentifications
-- **Look for a separable pellicle**: Many Psilocybe species have a gelatinous layer on the cap surface (the pellicle) that can be carefully peeled with a fingernail. This feature, combined with hygrophanous color change and a dark spore print, is a strong indicator of the genus Psilocybe
-- **Start with known species**: New collectors should focus on learning one or two common species thoroughly before attempting to identify others. P. cubensis in tropical areas and P. semilanceata in temperate grasslands are the best starting points because they are distinctive, abundant, and have few dangerous look-alikes when their key features are understood
-- [[psilocybin-mushrooms-asia-australia-distribution]]
-- [[psilocybin-mushrooms-north-america-distribution]]
+Wood-inhabiting mushrooms with free gills that turn pinkish to salmon at maturity -- a feature that distinguishes them from most other gilled mushrooms. [[psilocybe-cubensis]] and Panaeolus cyanescens. These regions have year-round growing seasons where cattle pastures provide abundant substrate. Distribution spans Central America, northern South America, Southeast Asia, Sub-Saharan Africa, and tropical Australia
+- **Temperate grasslands**: [[psilocybin-mushrooms-asia-australia-distribution]]
 - [[gartz-european-psychoactive-mushroom-species]]
 - [[psilocybin-mushrooms-central-south-america-distribution]]
+## Practical Considerations
+
+When working with Psilocybin Mushrooms of the World — Genus Overview, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -13,15 +13,8 @@ type: concept
 
 ## Overview
 
-[[mycorrhizal-plant-signaling]] is closely related to fungal auxin production.
-Many symbiotic fungi produce indole-3-acetic acid (IAA), the principal
-natural auxin, which plays a significant role in modifying root architecture
-during mycorrhizal establishment. Fungal auxin production can induce
-characteristic changes in host root systems including increased branching,
-reduced primary root elongation, and enhanced root hair formation. These
-morphological effects are central to understanding [[mycorrhizal-plant-signaling]]
-and the hormonal basis of [[fungal-symbiosis-with-plants-beyond-mycorrhizae]].
-For broader context on fungal symbiotic relationships, see [[symbiosis-in-fungi]].
+[[mycorrhizal-plant-signaling]]
+and the hormonal basis of [[symbiosis-in-fungi]].
 
 ## Bioassay for IAA Detection
 
@@ -58,27 +51,10 @@ directly extracted and analysed.
 
 ## Piriformospora indica
 
-[[piriformospora-indica]] is an endophytic basidiomycete that promotes
-growth in many plant families. Unlike [[arbuscular-mycorrhizal-fungi]], P. indica
+[[arbuscular-mycorrhizal-fungi]], P. indica
 grows readily on artificial media and can colonise cruciferous plants
-including A. thaliana. For broader context on [[endophytic-fungi]] and their roles in plant health, see the dedicated pages.
-
-In bioassays, A. thaliana inoculated with P. indica showed increased root
-branching and reduced main root length, producing a characteristic "bushy
-roots" phenotype that closely resembles the effects of exogenous auxin
-application. Similar enhanced root branching was observed in the mycorrhizal
-plant Lotus japonicus when inoculated with P. indica.
-
-The IAA content in P. indica culture filtrate was determined by HPLC-MS and
-GC-MS to be 1.36 +/- 0.36 micromolar after 4 weeks of growth in liquid
-medium at 23 C. Both the crude culture filtrate and ethyl acetate extracts
-inhibited main root length while increasing branching, consistent with auxin
-activity.
-
-## Truffles (Tuber spp.)
-
-Truffles are [[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
-and hazels, and some shrubs including Cistus spp. See [[truffle-guide]] and [[truffle-cultivation-basics]] for further details on truffle biology.
+including A. thaliana. For broader context on [[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
+and hazels, and some shrubs including Cistus spp. See [[truffle-cultivation-basics]] for further details on truffle biology.
 Production of IAA by
 ectomycorrhizal fungi is well-documented and may drive ectomycorrhiza
 genesis alongside other signalling molecules.
@@ -113,10 +89,7 @@ necessary to confirm IAA production and determine its concentration.
 
 ## Ectomycorrhizal Fungi
 
-[[ectomycorrhizal-fungi]] produce a wide range of auxin-like compounds.
-Many ectomycorrhizal basidiomycetes produce IAA or auxin-like compounds:
-
-- [[hebeloma-crustuliniforme]], Laccaria laccata, [[pisolithus-tinctorius]], and [[suillus-bovinus]] have all been shown to produce IAA in culture
+[[hebeloma-crustuliniforme]], Laccaria laccata, [[suillus-bovinus]] have all been shown to produce IAA in culture
 - Production levels vary with culture conditions, media composition, and fungal species
 - Auxin production is often higher in young mycelial cultures
 
@@ -138,12 +111,8 @@ For testing culture filtrates or extracted compounds:
 3. Apply sterile filtrate directly to filter discs, or extract with ethyl acetate at pH 3
 ## See Also
 
-- [[mycorrhizal-fungi]] — overview of mycorrhizal types and ecology
 - [[mycorrhizal-symbiosis]] — mycorrhizal symbiosis mechanisms
-- [[mycorrhizal-nutrient-uptake]] — nutrient exchange in mycorrhizae
 - [[truffle-auxin-root-morphogenesis]] — truffle-specific auxin effects
-- [[symbiotic-fungi-mycorrhizal-bioassays-agriculture]] — bioassay methods for mycorrhizal fungi
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] — AMF biology and symbiosis details
-- [[arbuscular-mycorrhizal-colonization-patterns]] — AMF colonization patterns in roots
 - [[endophytic-fungi]] — endophytic fungal associations with plants
 - [[mycorrhizal-fungal-diversity]] — diversity of mycorrhizal fungal communities

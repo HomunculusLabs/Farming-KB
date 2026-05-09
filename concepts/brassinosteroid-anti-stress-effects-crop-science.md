@@ -22,34 +22,7 @@ type: concept
 Beyond their growth-promoting properties, brassinosteroids have
 demonstrated significant anti-stress effects in agricultural
 applications. The Gartz, Adam and Vorbrodt (1990) study on
-[[psilocybe-cubensis]] references promising results of using
-brassinosteroid compounds to achieve higher crop yields and anti-stress
-effects, citing Maught (1981) and Hamada (1986). These anti-stress
-effects represent one of the most practically important aspects of
-brassinosteroid biology, as abiotic stresses including drought,
-temperature extremes, salinity, and heavy metal contamination are among
-the primary constraints on global crop production.
-
-## Types of Stress Addressed by Brassinosteroids
-
-Brassinosteroids confer tolerance against a wide range of abiotic stress
-factors. Research through the 1980s and 1990s demonstrated that treated
-plants showed improved survival and productivity under water deficit,
-high temperature, low temperature, high salinity, and exposure to
-pesticides and herbicides. The breadth of these protective effects
-suggests that brassinosteroids activate general stress-response pathways
-rather than stress-specific mechanisms.
-
-In drought conditions, brassinosteroid application reduces
-transpirational water loss, improves root system architecture, and
-maintains photosynthetic efficiency under water-limited conditions. The
-hormone modulates stomatal conductance and enhances synthesis of
-protective osmolytes such as proline and glycine betaine, which help
-cells maintain turgor and protect protein structure during dehydration.
-
-## Heat and Cold Stress Tolerance
-
-Under heat stress, brassinosteroid-treated plants maintain higher levels
+[[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]], brassinosteroid-treated plants maintain higher levels
 of heat shock proteins (HSPs) and show reduced membrane lipid
 peroxidation. The protective effect is mediated through enhanced
 antioxidant enzyme activity, including superoxide dismutase, catalase,
@@ -65,8 +38,7 @@ at lower temperatures.
 
 ## Salinity Stress and Ion Homeostasis
 
-Salinity stress impairs plant growth through osmotic effects and ionic
-toxicity from sodium and chloride ions. Brassinosteroids help plants
+Salinity stress impairs plant growth through [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]] om sodium and chloride ions. Brassinosteroids help plants
 cope by enhancing selective potassium transport over sodium, maintaining
 favorable K+/Na+ ratios in the cytoplasm. This is relevant to the Gartz
 study context, where KH2PO4 supplied the critical potassium ion.
@@ -102,29 +74,7 @@ genes.
 The antioxidant defense system is central to brassinosteroid-mediated
 protection. Brassinosteroids upregulate multiple antioxidant enzymes,
 reducing oxidative damage that is a common consequence of most abiotic
-stresses. This general antioxidant enhancement explains the broad-
-spectrum nature of brassinosteroid stress protection.
-
-## Agricultural Application Methods
-
-Brassinosteroids can be applied through foliar sprays, seed treatments,
-or soil drenches. Foliar application is most common because
-brassinosteroids are absorbed efficiently through leaf surfaces and
-translocated systemically. Effective concentrations are extremely low,
-typically 0.01 to 1.0 ppm, making brassinosteroids among the most potent
-plant growth regulators known.
-
-Economic viability has historically been limited by synthesis cost.
-Natural brassinosteroids occur at parts per billion concentrations,
-making extraction impractical. Synthetic homologues like the
-22S,23S-homobrassinolide used in the Gartz study can be prepared from
-stigmasterol, but multi-step synthesis remains expensive relative to
-conventional agrochemical inputs.
-
-## Relevance to Fungal Cultivation
-
-The anti-stress properties may have implications for fungal cultivation
-beyond direct growth promotion. If brassinosteroids can reduce
+stresses. This general antioxidant enhanceme [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]. If brassinosteroids can reduce
 physiological stress from suboptimal environmental conditions on fungal
 cultures, they might improve cultivation success under less-than-ideal
 conditions. Temperature fluctuations, substrate pH changes, and
@@ -135,14 +85,9 @@ stress conditions specifically. Future research on brassinosteroid
 effects on fungi under abiotic stress could reveal practical applications
 for commercial mushroom cultivation, where environmental control
 failures and substrate variability are ongoing challenges.
-
 ## Related Concepts
 
-- Brassinosteroids as steroidal phytohormones for fungal growth promotion for the broader context of brassinosteroids in fungal
-  systems
-- Brassinosteroid enhancement of mushroom yield and dry mass for
-  the growth promotion effects observed in the Gartz study
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
+- Brassinosteroids as steroidal phytohormones for fungal [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
   compound used in research
 
 ## See Also

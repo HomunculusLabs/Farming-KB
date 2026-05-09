@@ -134,7 +134,6 @@ when they stepped onto the lunar surface, the trends showed a
 
 ## See Also
 
-- [[tompkins-radionic-agriculture-pesticides]] for radionic applications
 - [[tompkins-photosynthesis-biophotons]] for biophoton emission
-- [[tompkins-plant-electrical-signals]] for [[plant-bioelectricity]]
+- [[plant-bioelectricity]]
 - [[tompkins-kirlian-photography-plant-auras]] for aura photography

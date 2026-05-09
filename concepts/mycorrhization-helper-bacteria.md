@@ -119,13 +119,8 @@ The synergy between AMF and MHB arises from complementary mechanisms:
 
 ## See Also
 
-- [[streptomycete-mycorrhization-helper-bacteria]]
 - [[fungal-biology-fundamentals]]
 - [[ectomycorrhizal-ecology]]
-- [[ectomycorrhizal-ecology]]
-- [[mycorrhizal-biocontrol]]
-
-- mycorrhiza — Overview of mycorrhizal symbiosis
 - [[mycorrhizal-biocontrol]] — Pathogen suppression by mycorrhizal fungi
 - plant-growth-promoting-rhizobacteria — Broader category of beneficial root bacteria
 - rhizosphere — The soil zone around plant roots
@@ -133,8 +128,6 @@ The synergy between AMF and MHB arises from complementary mechanisms:
 
 ## Related
 
-- [[in-vitro-mycorrhizal-systems]]
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
-- [[fungal-succession-roots]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]

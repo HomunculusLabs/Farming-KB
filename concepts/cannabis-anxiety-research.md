@@ -73,16 +73,7 @@ Higher doses of THC (typically above 15 mg) can paradoxically increase anxiety, 
 This inverted-U dose-response curve is one of the most clinically important aspects of cannabinoid therapy for anxiety.
 CBD modifies this relationship: when CBD is co-administered with THC, it raises the threshold at which THC becomes anxiogenic, effectively widening the therapeutic window.
 A 1:1 THC:CBD ratio is often recommended for anxiety patients who are sensitive to THC's psychoactive effects.
-This biphasic pattern underscores the importance of starting with low doses and titrating gradually, a principle emphasized throughout the [[cannabis-health-index]] framework.
-
-## The Endocannabinoid Deficiency Hypothesis
-
-Dr. Ethan Russo's clinical endocannabinoid deficiency (CECD) hypothesis proposes that insufficient endocannabinoid signaling may underlie several treatment-resistant conditions, including anxiety disorders, migraines, fibromyalgia, and irritable bowel syndrome.
-According to this theory, some individuals may produce inadequate amounts of anandamide or 2-AG, or have excessive FAAH enzyme activity that breaks down these signaling molecules too quickly.
-This deficiency creates a physiological vulnerability to stress and anxiety that phytocannabinoids can help correct.
-Supporting this hypothesis, genetic studies have identified polymorphisms in the CB1 receptor gene (CNR1) and the FAAH gene that are associated with increased anxiety vulnerability and altered stress responses.
-Individuals with a specific FAAH C385A polymorphism produce less of the enzyme that degrades anandamide, and these individuals show measurably lower anxiety and stress reactivity.
-See [[cannabis-endocannabinoid-system]] for the molecular biology of endocannabinoid signaling.
+This biphasic pattern underscores the importance of starting with low doses and titrating gradually, a principle emphasized throughout the [[cannabis-endocannabinoid-system]] for the molecular biology of endocannabinoid signaling.
 
 ## Cannabidiol and Serotonin Receptors
 
@@ -90,20 +81,7 @@ CBD's anxiolytic mechanism extends beyond the endocannabinoid system to include 
 A 2014 study by Campos et al. demonstrated that CBD's anti-anxiety effects in animal models were blocked by 5-HT1A antagonists, confirming the serotonergic pathway.
 This dual mechanism — CB1/CB2 modulation plus 5-HT1A activation — may explain why CBD is effective for anxiety even in individuals who do not respond to conventional SSRIs.
 CBD also activates TRPV1 (transient receptor potential vanilloid 1) channels, which are involved in pain signaling and stress response.
-The multi-target pharmacology of CBD contrasts with single-mechanism pharmaceuticals and may underlie its broad therapeutic profile for anxiety, as documented in [[cannabis-cbd-therapeutic-profile]].
-Additionally, CBD has been shown to enhance anandamide signaling by inhibiting its reuptake, providing an indirect endocannabinoid boost without direct receptor activation.
-
-## Terpenes and the Entourage Effect
-
-The anxiolytic properties of cannabis are not limited to cannabinoids.
-Terpenes — aromatic compounds found in cannabis and many other plants — contribute significantly to the therapeutic profile.
-Linalool, found in lavender and many cannabis strains, has demonstrated anxiolytic effects in animal studies comparable to diazepam (Valium).
-Myrcene, the most abundant terpene in most cannabis varieties, produces sedative and muscle-relaxant effects.
-Beta-caryophyllene, a selective CB2 agonist, has anti-inflammatory and anxiolytic properties.
-Limonene elevates mood and reduces anxiety through interaction with the adenosine A2A receptor.
-Nerolidol produces sedative effects and may enhance transdermal absorption of other compounds.
-The entourage effect — the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents — means that whole-plant preparations often outperform isolated CBD or THC for anxiety management.
-See [[cannabis-terpene-profile]] for detailed terpene pharmacology.
+The multi-target pharmacology of CBD contrasts with single-mechanism pharmaceuticals and may underlie its broad therapeutic profile for anxiety, as documented in [[cannabis-terpene-profile]] for detailed terpene pharmacology.
 
 ## Comparison with Pharmaceutical Anxiolytics
 
@@ -112,18 +90,10 @@ Benzodiazepines carry significant risks including dependence, tolerance, cogniti
 SSRIs require 4-6 weeks for therapeutic onset and can produce sexual dysfunction, weight gain, and emotional blunting.
 Cannabis offers a different pharmacological profile: rapid onset (minutes with inhaled, 1-2 hours with oral), no known risk of fatal overdose, and a different side effect profile.
 However, cannabis carries its own risks including cognitive effects, potential dependence with heavy use, and legal restrictions that vary by jurisdiction.
-The optimal approach for many patients may involve combining cannabis with therapy, lifestyle modifications, and [[nervine-herbs-and-anxiety-relief]] rather than relying solely on any single intervention.
-
-## See Also
-
-- [[cannabis-for-anxiety-disorders]]
-- [[cannabis-for-mental-health]]
+The optimal approach for many patients may involve combining cannabis with therapy, lifestyle modifications, and [[cannabis-for-anxiety-disorders]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-and-ptsd]]
 - [[cannabis-for-depression]]
-- [[cannabis-for-sleep-disorders]]
 - [[cannabis-chronic-pain-management]]
-- [[cannabis-health-index]]
 - [[nervine-herbs-and-anxiety-relief]]
 
 ## Source

@@ -128,23 +128,12 @@ addition harder than for aryl bromides or iodides. Ligand design was crucial for
 
 Competing beta-hydride elimination, ligand oxidation, metal black formation, and catalyst poisoning can all prevent productive catalysis
 even when oxidative addition occurs. Mechanistic studies therefore track every step of the catalytic cycle, not only substrate activation.
-
 ## Related Concepts
 
 Oxidative addition links organometallic chemistry, coordination chemistry, cross coupling catalysis, c h activation,
-ligand field theory, and [[glutathione-biochemistry-and-redox-biology]]. It is one of the clearest places where inorganic electron counting directly informs
-organic synthesis.
-
-Its conceptual partner is reductive elimination. Together they create a reversible gate for moving fragments between organic molecules and
-metal centers, enabling catalytic bond formation under conditions that would be impossible for purely organic reagents.
-
-## References
-
-- Hartwig, J. F. Organotransition Metal Chemistry: From Bonding to Catalysis.
-- Crabtree, R. H. The Organometallic Chemistry of the Transition Metals.
-- Miessler, Fischer, and Tarr. Inorganic Chemistry.
-- Wikipedia: Oxidative addition and Organometallic chemistry, consulted for
-orientation during mining.
-- [[photoredox-catalysis]]
-- [[phase-transfer-catalysis]]
+ligand field theory, and [[photoredox-catalysis]]
 - [[fenton-reaction-chemistry-and-biochemistry]]
+
+## See Also
+
+- [[oxidative-addition-vs-photoredox-catalysis]]

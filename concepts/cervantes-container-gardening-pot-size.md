@@ -45,44 +45,7 @@ Cervantes provides a practical container size progression based on plant age:
 | 6-18 months     | 10-gallon (38 L) pot        |
 
 For short plants reaching full maturity in 90 days, there is little need for
-containers larger than three gallons (11 L). Large [[cervantes-mother-plants]] kept for months will need substantially larger containers.
-
-## Transplanting Strategy
-
-### Direct Planting Approach
-
-Seedlings and cervantes-cloning|clones can be transplanted directly into
-a three- to five-gallon (11-19 L) pot. This approach requires fewer
-containers, involves less work, and causes less plant stress. The larger soil
-volume holds water and nutrients longer, requiring less frequent watering.
-
-However, when planted directly into large containers, the majority of roots
-tend to grow out along the container walls and bottom rather than developing a
-dense internal root mass.
-
-### Stepped Transplanting Approach
-
-For a more extensive root system, transplant in stages:
-1. Start in a root cube or peat pot
-2. Move to a four-inch (10 cm) pot
-3. Transplant into a three-gallon (11 L) pot or grow bag
-
-Stepped transplanting encourages roots to develop a dense, compact system
-within a small ball of growing medium before expanding. This produces a more
-efficient root structure overall.
-
-## Transplanting Technique
-
-Transplanting is the second most traumatic experience after cloning. Tiny root
-hairs are extremely delicate and may be easily destroyed by light, air, or
-clumsy handling. Follow these steps for success:
-
-1. **Pre-treat with Vitamin B1** - Water the clone with half-strength
-   Trichoderma bacteria or Vitamin B1 solution two days before transplanting
-2. **Prepare the new container** - Fill with rich potting soil or soilless
-   mix to within two inches of the top
-3. **Pre-moisten the medium** - Water with a mild quarter-strength
-   [[cervantes-nutrient-stock-solutions-concentrates]] solution until saturated
+containers larger than three gallons (11 L). Large [[cervantes-nutrient-stock-solutions-concentrates]] solution until saturated
 4. **Remove the root ball** - Place your hand over the container top with the
    stem between your fingers; invert and let the root ball slip out intact
 5. **Position carefully** - Place the root ball in the prepared hole; ensure
@@ -125,9 +88,4 @@ simple. Set the cube or pot directly into a hole in the growing medium and
 ensure firm contact. The cube integrates into the surrounding medium as roots
 grow through it, minimizing disturbance.
 
-See also: [[cannabis-advanced-growing-techniques]],
-[[cervantes-growing-medium]], [[cervantes-vegetative-phase]], [[comparison-coco-coir-vs-peat]], [[perlite-cannabis]]
-
-## See Also
-
-- [[comparison-greenhouse-vs-container-gardening]]
+See also: [[cervantes-growing-medium]], [[comparison-coco-coir-vs-peat]], [[comparison-greenhouse-vs-container-gardening]]

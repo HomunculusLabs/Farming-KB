@@ -122,19 +122,13 @@ Despite being slower, the plant system is remarkably sophisticated. Plants can i
 
 ## Related
 
-- [[hallucinogen-terminology-and-chemical-classification]]
+- [[stigmasterol-as-brassinosteroid-biosynthetic-precursor|Stigmasterol As Brassinosteroid Biosynthetic Precursor]]
 
 - [[daniel-chamovitz]]
 
-- [[plant-signaling-pathways]]
-
 - [[what-a-plant-knows-plant-vision-and-light-perception]] Topics
 
-- [[phloem-sap-composition-and-long-distance-signaling-in-plants]] -- the RNA signaling system
 - [[the-vacuole-and-tonoplast-in-plant-cell-regulation]] -- calcium signaling and pH
-- [[stomata-transpiration-and-plant-water-regulation]] -- ABA and stomatal control
 - [[adenosine-triphosphate-and-cellular-energy]] -- energy for signal transduction
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[water-pathways-through-plants]]
 - [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]

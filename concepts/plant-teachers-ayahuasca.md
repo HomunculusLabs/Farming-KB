@@ -63,36 +63,7 @@ Plant-teachers communicate through several channels:
   where spirits of plants appear and teach directly
 - **Dreams**: Plants such as renaquilla (Ficus sp.) send their spirit
   mothers to teach healers in their dreams
-- **Icaros**: Each plant possesses its own [[icaros-power-songs]]
-  or power song, which the vegetalista learns through ingestion
-- **Physical effects**: Sensations in the toes, fingers, ears, lips, eyes,
-  and nose signal the plant's effect on the nervous system
-
-## Dietary Requirements for Learning
-
-To receive knowledge from plant-teachers, one must maintain strict diets.
-Each plant demands its own specific dietary regimen. For example:
-
-- **Remocaspi** (Aspidosperma excelsum): Requires a strict diet; its
-  spirit, a wise old Chinese king with a golden crown, bestows sublime
-  wisdom but will bring death upon those who fail to comply
-- **Puka-lupuna** (Cavanillesia hylogeiton): Demands rigorous diet;
-  immediate death awaits the unprepared
-- **Ajosquiro** (Galizia corazema): Requires a very rigid and severe
-  diet, symbolised by ferocious monkeys
-- **Renaquilla** (Ficus sp.): If dieted correctly, its Shipibo woman
-  spirit teaches fracture healing in dreams
-
-## Plants as Both Healers and Sorcerers
-
-Plant-teachers are morally neutral -- they can be used for healing or for
-harm depending on the practitioner's intention. The puka-lupuna tree's
-mother-spirit, for instance, is "very useful to sorcerers who do evil
-things" and "the knowledge that this princess bestows is almost always
-turned towards sorcery and very seldom towards curanderos that heal and
-save lives." Similarly, the caballo piripiri grants great strength when
-prepared with jagua (Genipa americana), and the marupa-machaco viper's
-icaro is sung by vegetalistas who swallow [[mariri-phantom-sorcery]]
+- **Icaros**: Each plant possesses its own [[mariri-phantom-sorcery]]
 extracted from poisonous animals.
 
 ## The Campa Indians as Masters of Plant Knowledge
@@ -121,14 +92,8 @@ calls the ciencia vegetalista or aiquimia palistica (plant alchemy). This
 science encompasses healing, sorcery, divination, and the ability to
 travel to other worlds. One can only become a good vegetalista by keeping
 a diet or fasting for years, gradually ascending through the three
-degrees: muraya, sumi, and [[banco-sumiruna-muraya]].
+degrees: muraya, sumi, and [[entheogenic-ceremony]]
 
-## See Also
-
-- [[entheogenic-ceremony]]
-
-- [[ayahuasca-preparation]] -- The brewing process and its disciplines
 - [[spirit-mothers-of-plants]] -- The guardian spirits of individual plants
-- [[shamanic-powers-ayahuasca]] -- Powers received through plant-teachers
 - [[icaros-power-songs]] -- Songs taught by the plant spirits
 - [[banco-sumiruna-muraya]] -- The hierarchy of vegetalista practitioners

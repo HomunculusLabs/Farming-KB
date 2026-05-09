@@ -96,25 +96,14 @@ Horseradish is sometimes included in food forest understory plantings. Its shade
 
 ## See Also
 
-- [[sinapis-alba]]
 - [[zingiber-officinale]]
-- [[capsicum-annuum]]
 - [[allium-sativum-entity]]
-- [[turmeric]]
 - [[berberis-vulgaris]]
-- [[artemisia-absinthium]]
-- [[ginger]]
 - [[piper-nigrum-entity]]
-- [[eugenia-caryophyllata]]
 - [[cinnamomum-verum]]
-- [[wasabia-japonica]]
-- [[boesenbergia-rotunda]]
+- wasabia japonica
 - [[curcumin]]
-- [[cymbopogon-citratus]]
 - [[moringa-oleifera]]
-- [[aloe-vera]]
 - [[withania-somnifera]]
-- [[ocimum-sanctum]]
 - [[bacopa-monnieri]]
-- [[berberine]]
 - [[glycyrrhiza-glabra]]

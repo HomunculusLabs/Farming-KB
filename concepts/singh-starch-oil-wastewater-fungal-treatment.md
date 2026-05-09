@@ -132,8 +132,6 @@ of 0.31 cubic meters methane per kg COD reduced.
 
 ## See Also
 
-- [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[singh-fungal-bioreactor-types-configurations]]
-- [[fungal-treatment-of-distillery-and-brewery-wastes]]
 - [[singh-immobilized-fungal-bioreactors-wastewater-treatment]]
 - [[singh-pharmaceutical-wastewater-fungal-treatment]]

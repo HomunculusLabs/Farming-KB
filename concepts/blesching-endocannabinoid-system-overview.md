@@ -117,33 +117,6 @@ cells, and soothes coughs.
 
 2. **2-Arachidonoyl glycerol (2-AG)**
 
-3. **2-Arachidonoyl-glyceryl-ether ([[noladin-ether]])**
-
-4. **O-Arachidonoyl-ethanolamine (Virodhamine)**
-
-5. **N-Arachidonoyl-dopamine (NADA)**
-
-## How the System Works
-
-If cannabinoid receptors function as a lock, cannabinoids are the key.
-Scientific knowledge of cannabis and its most potent constituents is expanding
-exponentially. Cannabis has repeatedly demonstrated profound therapeutic
-efficacy for multiple conditions. A search in the U.S. National Library of
-Medicine using the single keyword "cannabinoids" currently yields more than
-15,000 studies.
-
-The ECS can be activated to help move beyond limiting ways of being and behaving
-based on past experiences. It can be activated to support movement toward
-whatever can produce enhanced health and vitality now. One of the plant's many
-astounding capabilities is that it simultaneously relaxes and stimulates the
-autonomic nervous system. Cannabinoids induce these changes by enhancing and
-balancing individual cellular function as well as that of the whole organism.
-
-To date, more than 111 cannabis-based cannabinoids have been isolated, and
-researchers are beginning to look at other plant constituents such as terpenoids
-as important co-factors in inducing therapeutic effects. Hundreds of medical and
-## See Also
-- [[cannabis-endocannabinoid-system-overview]]
-- [[blesching-cannabis-oxytocin-endocannabinoid-system]]
+3. **2-Arachidonoyl-glyceryl-ether ([[cannabis-endocannabinoid-system-overview]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]
 - [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]]

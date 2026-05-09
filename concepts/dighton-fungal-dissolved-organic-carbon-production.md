@@ -108,9 +108,7 @@ decomposition is a significant component of coastal nutrient budgets.
 
 ## See Also
 
-- [[dighton-fungi-elevated-co2-global-carbon-cycling]]
 - [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[dighton-aquatic-hyphomycete-conidia-community-dynamics]]
 - [[dighton-fungi-mangrove-coastal-ecosystems]]
 - [[dighton-fungal-nutrient-immobilization-turnover]]
 

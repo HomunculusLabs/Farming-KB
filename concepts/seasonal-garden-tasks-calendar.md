@@ -23,128 +23,76 @@ Gardening is far from an exact science, and the gardener who makes rules and sti
 
 ### Throughout Spring
 - Heavy soils: rake soil for sowing
-- Light soils: dig in overwintered green-mancover-cropsrops [[permaculture-cycles-and-niches-in-time]] to allow soil to settle
-- Start hoeing regularly
-- Mulch between plants to control weeds and help water retention
-- Water regularly in dry weather, particularly newly planted items
-- Check worm [[composting-organic-garden]]; put outside if overwintered inside
+- Light soils: dig in overwintered green-mancover-cropsrops [[composting-organic-garden]]; put outside if overwintered inside
 - Start spraying with insecticides or fungicides as necessary but never on open flowers
-- Construct a [[gaias-garden-net-and-pan-water-harvesting]]
-- Carry out grafting
-### Early Spring — Ornamental Garden
-- Rake lawn with spring-tine rake
-- Start mowing lawn when grass is growing well
-- Sow new seed lawns and resow patches
-- Lay turf lawns
-- Feed lawns and borders with blood, fish, and bone meal
-- Lift and divide perennials
-- Prune hybrid bush roses, cutting away frost damage
-- Finish planting bare root deciduous trees, shrubs, and hedges
-- Start outside sowing of hardy annuals and many shrubs [[permaculture-designers-manual-vines-and-climbers]]
-- Start planting summer-flowering bulbs and perennials if ground is workable
-- Start planting sweet peas
-- Take softwood cuttings of heathers and layer shrubs
-### Early Spring — Vegetable Garden
-- Feed spring cabbages with dried blood or [[comparison-fish-aminos-vs-kelp-meal]]
-- Start sowing peas and beets outside under cloches, and green beans in greenhouse
-- Sow leeks, Brussels sprouts, and cabbages in a stale seedbed
-- Start sowing chard outside
-- Plant sea kale, shallots, garlic, onion sets, potatoes, and Jerusalem artichokes
-- Plant out peas and early spinach sown in greenhouse in late winter
-### Early Spring — Fruit Garden
-- Feed red currants and white currants with rock potash; black currants with blood, fish, and bone meal
-- Check netting on fruit bushes
-- If figs were protected for winter, remove straw and sacking, retrain branches
-- Graft apples, pears, and plums
-- Hand-pollinate blossoms covered with fabric
-### Mid-Spring — Ornamental Garden
-- Plant bare root evergreen trees, shrubs, and hedges
-- Prune shrubs that flower on one-year-old wood immediately after flowering
-- Prune shrubs that flower on wood made in the same season
-- Prune heathers as they finish flowering
-- Plant floating, submerged oxygenating and marsh plants in and around pond
-- Finish planting sweet peas
-- Continue planting perennials; dig up and divide crowded clumps
-- Continue sowing herbs; thin those sown in early spring
-- Take cuttings of half-hardy perennials overwintered inside
-- Plant tubs and hanging baskets for spring and summer color
-- Start spraying roses if black spot has been a problem
-### Mid-Spring — Vegetable Garden
-- Plant asparagus crowns
-- Sow sweet corn outside under polyethylene and in greenhouse in pots
-- Sow main crop Florence fennel, peas, okra, turnips, kohlrabi, salsify, scorzonera, carrots, beets, cauliflower, broccoli, kale, and Swiss chard outside
-- Plant out globe artichokes, green beans, and onions sown inside; finish planting potatoes
-- Set up canes for runner beans
-- Plant eggplant and peppers under cloches
-### Mid-Spring — Fruit Garden
-- During day, remove some cloches protecting strawberries for pollinator access
-- Continue hand-pollinating blossoms
-### Late Spring — Ornamental Garden
-- Finish planting bare root evergreen plants
-- Support tall perennials
-- Trim [[fukuoka-natural-alfalfa-black-wattle-ground-cover]] after flowering
-- When all frost danger has passed, plant out half-hardy annuals and perennials
-- If half-hardy annuals in seed trays look yellow, feed with liquid kelp fertilizer
-- Dig and heel in spring-flowering bulbs if space is needed
-- Start clipping fast-growing hedges
-- Prune early flowering climbers; start tying in climbers
-- Plant deep-water [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- Sow hardy perennials and biennials in a seedbed
-- Start taking softwood cuttings
-- Look out for caterpillars on roses and other ornamentals
-- Control aphids
-### Late Spring — Vegetable Garden
-- Finish planting squash and fruiting vegetables under cloches
-- Mound soil around potatoes
-- Plant out leeks
-- Transplant celery, sweet corn, green and runner beans, fruiting vegetables, and celeriac
-- Pinch off tops of broad beans if affected by blackfly
-- Place carpet pad around newly planted cabbages to protect against cabbage root fly
-- Erect carrot fly barriers around carrots
-### Late Spring — Fruit Garden
-- Water fruit bushes and trees
-- Mulch under strawberry plants with straw; cover with netting against birds
-- Start tying in and pinching off wall-trained fruit
-- Pull up unwanted raspberry shoots growing into paths
-- Thin gooseberries for large dessert fruits; use thinnings for cooking
-- Put out codling moth traps
-- Leave blossoms uncovered in daytime for insect pollination
-## Summer
+- Construct a [[composting]]
 
-### Throughout Summer
-- Water garden in dry weather but do not water ripe fruit
-- Continue hoeing; many weeds will be seeding — very important to cut down perennial weeds
-- Continue mulching to control weeds and retain moisture
-- Top off worm compost regularly (worms work fast now); water if necessary
-- Watch continually for signs of pests and diseases; treat immediately
-- Best season for softwood cuttings and budding
-- Start layering
-### Early Summer — Ornamental Garden
-- Remove rose suckers
-- Cut back early flowering perennials
-- Continue to dig up and heel-in spring-flowering bulbs
-- In cold areas, start planting half-hardy perennials and annuals
-- Plant deep-water aquatic plants
-- Transplant to nursery rows seedlings of perennials and biennials sown in early spring
-- Continue sowing biennials; continue propagating climbers by layering
-### Early Summer — Vegetable Garden
-- In colder areas, plant out tender vegetables: sweet corn, outdoor tomatoes, green beans, zucchini
-- Transplant autumn and winter cole crops; protect from cabbage root fly
-- Finish transplanting leeks
-- Support asparagus ferns with stakes in exposed areas
-- Harvest and store shallots
-- Tie cucumbers to stakes if growing on tripod frames
-- If growing sweet corn under plastic, cut slits for leaves
-- Plant out sweet corn raised in greenhouse
-- Sow chicory outside
-- Earth up main crop potatoes; harvest early potatoes
-### Early Summer — Fruit Garden
-- Protect cherries against birds; pick when ripe
-- Start summer pruning trained soft fruit to encourage fruiting branches
-- Continue tying in and pinching off wall-trained trees
-- Feed black currants if necessary
-- Pin down strawberry runners if wanted for forcing, or cut them off
-### Mid-Summer — Ornamental Garden
-- Trim fast-growing hedges regularly
-## See Also
-- [[composting]]
+## Merged: Seasonal Homesteading Calendar
+
+# Seasonal Homesteading Calendar
+
+Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15, first frost ~October 25-November 5, growing season 180-210 days. Adapt dates for your specific zone. See [[homesteading]] for planning priorities.
+
+---
+
+## January
+
+**Garden tasks**: Finalize seed orders. Review last year's garden journal. Layout crop rotation maps. Inventory stored seeds -- test viability of older seed. Order cover crop seed. Plan new beds or expansions.
+
+**Livestock**: Check waterers for freeze damage; heated buckets or de-icers. Goats -- continue hay feeding, mineral access, hoof trim if overdue. Ducks -- ensure dry shelter, check for frostbite on feet. Monitor body condition -- adjust feed if losing weight.
+
+**Food preservation**: Use up frozen/canned stores. Inventory pantry. Plan preservation goals for coming year. Check root cellar conditions (temperature, humidity).
+
+**Infrastructure**: Repair fencing before ground thaws. Sharpen and oil tools. Build new raised beds or [[cover-cropping-guide]] plan for the year.
+
+---
+
+## March
+
+**Garden tasks**: Start tomatoes, brassicas indoors (6-8 weeks). Direct sow: peas, spinach, radishes, carrots, beets, turnips, potatoes (St. Patrick's Day tradition). Plant bare-root fruit trees, berries, asparagus, rhubarb. Take soil samples -- send to lab. Apply lime if needed (takes months to act).
+
+**Livestock**: Ducks -- increase forage as pasture greens up. Goats -- reduce hay as browse becomes available. Watch for kidding season. Set up electro-net fencing for rotational grazing.
+
+**Food preservation**: Start [[seed-starting-reference]] schedule finalized. Succession planting calendar written. Mark expected harvest dates for perennials.
+
+---
+
+## April
+
+**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cover-cropping-guide]] -- terminate crimson clover and winter pea (crimp or mow 2-3 weeks before planting).
+
+**Livestock**: Spring pasture rotation begins. Integrate ducklings with flock. First rotational graze. Check for parasites after turnout.
+
+**Food preservation**: Start early rhubarb and asparagus recipes. Blanch and freeze early greens.
+
+**Infrastructure**: First hot compost of spring -- mix winter accumulation with fresh greens. Turn compost piles. Set up trellises, stakes, cages. Install row covers for brassicas.
+
+**Planning**: Evaluate germination rates. Adjust planting schedule if behind.
+
+---
+
+## May
+
+**Garden tasks**: Everything in ground. Transplant sweet potato slips. Succession sow beans, corn, cucumbers. Transplant herbs (calendula, chamomile, holy basil, ashwagandha). Install [[cannabis-vegetative-stage]] -- training (LST, topping), defoliation.
+
+**Livestock**: Full pasture rotation. Watch for heat stress in ducks (shade, water). Goats -- copper bolus if needed. Monitor for internal parasites (FAMACHA scoring).
+
+**Food preservation**: First harvests of herbs -- begin drying. Make herb vinegars. Freeze early strawberries.
+
+**Infrastructure**: Turn compost every 2-3 weeks. Harvest finished compost for garden beds. Build trellises for climbing crops. Set up deer fencing if needed.
+
+**Planning**: Note what's thriving and struggling. Adjust watering schedules as weather warms.
+
+---
+
+## June
+
+**Garden tasks**: Summer crops in full production -- trellis tomatoes, prune suckers, train cucurbits. Succession sow fall brassicas indoors (late June). Sow beans, cucumbers for second crop. Harvest chamomile, calendula, yarrow at peak -- begin drying for [[food-preservation-canning]] season begins. Canning strawberries, making jam. Freeze peas, beans. Begin lacto-fermentation of early summer vegetables.
+
+**Infrastructure**: Maintain hot compost piles. Start [[homestead-canning-recipes]]
+
+- seasonal-homesteading-fall-winter -- July through December tasks
+- [[homesteading]] -- core elements, planning priorities, skills progression
+- [[composting-systems]] -- hot/cold composting, vermicompost, bokashi
+- [[duck-keeping]] -- duck care through the seasons
+- [[goat-keeping]] -- goat management and breeding calendar

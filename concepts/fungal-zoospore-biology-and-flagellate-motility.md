@@ -3,7 +3,7 @@ title: Fungal Zoospore Biology and Flagellate Motility
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -115,13 +115,8 @@ Understanding the temperature responses of zoospore biology is therefore importa
 
 ## Related Concepts
 
-- [[fungal-invasive-species-and-exotic-pathogens]]
 - [[fungal-conidia-and-spore-types]]
-- [[fungal-sclerotia-and-resting-structures]]
-- [[fungal-spore-biology]]
 - [[fungal-spore-biology]]
 - [[fungal-saltmarsh-decomposition-systems]]
-- [[fungal-saltmarsh-decomposition]]
 - [[freshwater-fungi-ingoldian-spores]]
-- [[aquatic-hyphomycetes-and-ingoldian-spores]]
 - [[fungal-ecosystem-processes-overview]]

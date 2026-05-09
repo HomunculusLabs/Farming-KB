@@ -24,34 +24,6 @@ surface runoff. Both transform destructive runoff into productive soil
 moisture but operate through different mechanisms.
 
 ## Keyline Design
-[[keyline-design]]
-Keyline design is a comprehensive landscape management system that identifies
-specific contour lines — called "keylines" — where the valley floor changes
-from convex to concave slope. The keypoint is the highest point in a valley
-where water would naturally begin to pool or slow down. The keyline contour
-passes through this point and extends across the full valley width and up the
-adjacent ridges. Cultivation parallel to the keyline, but with a slight
-outward drift on ridges, moves water from wetter valley bottoms to drier
-ridges without requiring earthworks.
-The core technique is keyline pattern cultivation, which creates a subtle plow
-pattern that guides surface water across the landscape from valleys to ridges.
-Unlike contour plowing, which keeps water in valleys (where it can cause
-erosion), keyline cultivation deliberately moves water to the dry ridges where
-it infiltrates and charges the soil profile. The Yeomans plow, a subsoil-
-breaking implement with narrow shanks, is used to fracture compacted subsoil
-layers without inverting the soil surface, improving deep drainage and root
-penetration while preserving surface cover.
-Keyline design integrates water management with soil development, tree
-planting, and pasture improvement into a unified landscape approach. The
-system includes the design and placement of dams in the upper valleys for
-water storage, the use of irrigation channels (or "lockpipes") to gravity-feed
-water from high dams to lower areas, and the strategic placement of tree belts
-along keylines for wind protection, microclimate creation, and further water
-harvesting. Keyline design is particularly well-suited to broadacre
-agricultural land and large properties where earthworks are impractical but
-water distribution is critical.
-
-## Contour Swales
 [[contour-swale-irrigation-design]]
 Swales are broad, shallow trenches excavated on true contour across sloping
 land to capture, slow, and infiltrate surface water runoff. They are typically
@@ -130,7 +102,5 @@ the broad-scale efficiency of keyline with the targeted water capture of
 swales.
 
 ## See Also
-- [[comparison-keyline-vs-swale]]
 - [[comparison-keyline-vs-swale-design]]
-- [[comparison-swale-vs-contour-line-water-management]]
 - [[comparison-terracing-vs-swales]]

@@ -1,16 +1,14 @@
 ---
 title: cotter-substrate-preparation
 created: 2026-04-28
-tags: [mycology, cultivation, substrate, mushroom-growing]
+tags: [[mycology, cultivation, substrate, mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
 
-# [[cotter-substrate-preparation]]
-
-substrate preparation is the foundational step in [[mushroom-cultivation]] that
+# [[mushroom-cultivation]] that
 determines the success or failure of the entire grow. The substrate is the
 material on which mushroom mycelium feeds and fruits, and its preparation
 involves selecting, hydrating, pasteurizing or sterilizing, and inoculating
@@ -99,6 +97,5 @@ can establish.
 
 ## See Also
 
-- [[mushroom-spawn-production]]
 - [[fruiting-chamber-design]]
 - [[mycelial-colonization]]

@@ -19,7 +19,7 @@ type: concept
 Soil fauna do not graze fungi randomly. Selective feeding preferences among
 fungal species can fundamentally alter the outcome of fungal competition,
 shifting community composition and thereby modifying ecosystem processes. In
-[[barn-design]]'s treatment of [[fungal-ecology]], selective grazing represents a
+[[fungal-ecology]], selective grazing represents a
 key mechanism by which animals act as ecosystem engineers, restructuring
 decomposer communities from the bottom up.
 
@@ -93,41 +93,6 @@ the preferred fungal species. Under intense grazing pressure, growth of the
 preferred fungus declines relative to less preferred species. Grazing
 selection and intensity can thus alter the outcome of competition within the
 fungal community. This process operates alongside abiotic factors in shaping
-[[dighton-fungal-competition-resource-partitioning]].
-
-## Indirect Effects Through Plant Pathogens
-
-Selective grazing by soil fauna can also affect fungal-plant pathogen
-dynamics. By preferentially consuming certain fungal species, fauna may
-release pathogenic fungi from competitive suppression, or conversely reduce
-pathogen inoculum by grazing infected tissues. These indirect trophic
-cascades add another layer of complexity to understanding how faunal
-grazing shapes fungal community structure.
-
-## Implications for Litter Decomposition
-
-Changes in the distribution of fungi in the decomposer community can affect
-both the rate of leaf litter decomposition and the rate of nutrient
-mineralization. Since different fungal species produce different arrays of
-extracellular enzymes and have different substrate preferences, shifts in
-community composition driven by selective grazing can alter the trajectory
-of decomposition. For example, if grazing eliminates a lignin-decomposing
-species while favoring a sugar-utilizing species, the long-term
-decomposition of recalcitrant litter fractions may be delayed.
-
-However, observations of collembola feeding behavior in rhizotrons suggest
-these animals spend considerable time grooming and "wandering" while
-nibbling at hyphae rather than consuming large quantities at once. The
-importance of this low-intensity, diffuse grazing pattern -- particularly
-given that severing even a single hyphum inhibits its translocatory function
--- remains an active area of investigation. The net ecosystem effect of
-these many small grazing events may be cumulative and substantial, even if
-individual interactions appear minor.
-
-## See Also
-
-- [[dighton-fungal-grazing-feedbacks-decomposition]]
-- [[fungal-interactions-soil-fauna]]
+[[dighton-fungal-grazing-feedbacks-decomposition]]
 - [[fungal-collembola-interactions]]
-- [[dighton-fungal-trophic-interactions-soil-food-webs]]
 - [[dighton-aboveground-herbivory-mycorrhizal-effects]]

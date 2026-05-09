@@ -3,7 +3,7 @@ title: Pattern Application in Permaculture Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, patterns, principles]
+tags: [[permaculture, design, patterns, principles]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -93,11 +93,7 @@ Pitjantjatjara people of Australia sing over sand patterns and are able to "sing
 
 ## Related Topics
 
-- [[mollison-designers-edge-effect-design]] - Edge effect design
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
-- [[permaculture-designers-manual-cropping-patterns]] - Cropping patterns
 - [[permaculture-designers-manual-keyhole-garden]] - Keyhole garden design
-- [[keyline-design]] - Keyline design
 - [[mandala-garden-design]] - Mandala garden patterns
-- [[permaculture-designers-manual-settlement-design]] - Settlement design
 - [[chisel-plough-soil-conditioning-mollison]]

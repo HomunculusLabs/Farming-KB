@@ -18,54 +18,7 @@ type: concept
 
 Germinating mushroom spores and isolating pure strains from
 the resulting mycelium is the foundation of mushroom breeding
-and strain development. While [[growing-gourmet-mushroom-cloning-technique]]
-captures an existing phenotype, spore germination creates
-genetic diversity, producing many strains from a single
-mushroom, each with unique characteristics.
-
-## Collecting Spores for Germination
-
-Mushroom spores are collected by taking a spore print. The
-cap is severed from the stem and placed, gills down, upon
-a piece of typing paper or glass. A bowl or plate lessens
-evaporation and disturbance from air currents. Within 24
-hours, spores fall in a beautiful pattern according to the
-radiating symmetry of the gills. A single mushroom can
-produce from tens of thousands to a hundred million spores.
-
-Paul Stamets prefers collecting spores on plates of glass,
-approximately 6 x 8 inches, creating sealed "Spore Booklets"
-that can be stored at room temperature for years.
-
-## The Germination Process
-
-To germinate spores, an inoculation loop, sterilized needle,
-or scalpel is brought into contact with the spore print. The
-tool is flame-sterilized until red hot and immediately cooled
-by touching it to a petri dish filled with sterilized nutrient
-medium. The tip sizzles as it cools, then picks up hundreds
-of spores.
-
-The spore-laden loop is then streaked across the surface of
-another media dish in an "S" pattern. With heavy spore prints,
-the "S" streaking technique may not sufficiently disperse
-the spores. In this case, the scalpel or loop should be
-immersed into a sterile vial holding 10cc of water. After
-shaking thoroughly, one drop is placed onto the nutrient
-medium surface and tilted to spread the spore-enriched
-droplet across the surface.
-
-## Germination Timeline
-
-Five days after inoculation, spores may be seen germinating
-according to the streaking pattern. Colonies of germinating
-spores are then subcultured into more petri dishes. After the
-mycelium has grown away from the subculture site, a small
-fragment of pure mycelium is again subcultured into more petri
-dishes.
-
-If these cultures do not sector, then back-ups are made for
-[[growing-gourmet-stock-culture-library]] and future use.
+and strain development. While [[growing-gourmet-stock-culture-library]] and future use.
 This last transfer usually results in individual dikaryotic
 strains which are labelled. Each labelled strain is then
 tested for productivity. Mini-culture experiments must be
@@ -135,14 +88,6 @@ Repeated subculturing and dispersal usually results in success.
 
 ## From Isolation to Strain Library
 
-Once pure [[growing-gourmet-dikaryotic-mycelium-clamp-connections]]
-strains are isolated and characterized, they enter the strain
-evaluation process. Each strain is tested for growth rate,
-[[growing-gourmet-strain-evaluation-28-features]],
+Once pure [[growing-gourmet-strain-evaluation-28-features]],
 yield potential, and other characteristics. The best performers
-are preserved in the [[growing-gourmet-stock-culture-library]]
-as the foundation for future production.
-
-## See Also
-
-- [[amf-spore-strain-variability-effectiveness]]
+are preserved in the [[amf-spore-strain-variability-effectiveness]]

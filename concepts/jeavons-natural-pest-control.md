@@ -116,10 +116,7 @@ The GROW BIOINTENSIVE method uses a hierarchy of responses to pest problems:
 
 ## See Also
 
-- [[jeavons-grow-biointensive-method-overview]] — The complete method
 - [[jeavons-companion-planting]] — Detailed companion planting guide
-- [[jeavons-double-digging-bed-preparation]] — Soil preparation for plant health
 - [[jeavons-composting-methods]] — Compost for disease suppression
-- [[jeavons-water-management-irrigation]] — Proper watering to prevent stress
 - [[jeavons-soil-fertility]] — Nutrient balance for pest resistance
 - [[jeavons-master-planning-mini-farms]] — Planning rotations and companions

@@ -13,25 +13,7 @@ sources:
 
 ## Overview
 
-cylindrocarpon destructans is a soil-borne fungal plant pathogen belonging to the phylum [[ascomycota-phylogeny-major-classes-lineages]]. It is the causal agent of cylindrocarpon root rot, a disease affecting a wide range of woody and herbaceous plants, particularly fruit trees and forest nursery seedlings. The species is notable for its destructive impact on root systems and for the demonstrated ability of arbuscular mycorrhizal fungi to suppress its pathogenic effects.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Nectriaceae
-- **Genus:** Cylindrocarpon (teleomorph: Neonectria)
-- **Species:** C. destructans
-
-The taxonomy of the genus Cylindrocarpon has been substantially revised. Many species, including C. destructans, have been linked to teleomorphs in the genus Neonectria. The species has also been referred to in some literature under the synonym Cylindrocarpon radicicola.
-
-## Morphology and Identification
-
-cylindrocarpon destructans is recognized by the following morphological characteristics:
-
-- **Mycelium:** The vegetative mycelium is hyaline to pale-colored, septate, and grows moderately on artificial media. Colonies on potato dextrose [[agar]] are typically white to pale buff, becoming darker with age.
+cylindrocarpon destructans is a soil-borne fungal plant pathogen belonging to the phylum [[agar]] are typically white to pale buff, becoming darker with age.
 - **Conidiophores:** Erect, simple or sparingly branched, bearing conidia at their tips.
 - **Macroconidia:** Cylindrical to slightly curved, predominantly three-septate (occasionally one to five septate), hyaline, and smooth-walled. They are typically 25 to 50 micrometers in length.
 - **Microconidia:** Ellipsoidal to cylindrical, one-celled or one-septate, produced in addition to macroconidia in some isolates.
@@ -72,30 +54,11 @@ As a soil inhabitant, cylindrocarpon destructans also participates in the decomp
 
 ### Mycorrhizal Suppression of Disease
 
-One of the most significant ecological interactions involving cylindrocarpon destructans is the suppression of its pathogenic activity by arbuscular mycorrhizal (AM) fungi. As documented by Dighton (2003), Traquair (1995) demonstrated that inoculation of peach tree seedlings with the AM fungus [[glomus-intraradices]] significantly reduced the severity of cylindrocarpon root rot caused by C. destructans.
-
-Key findings from this research include:
-
-- AM-inoculated seedlings showed reduced root lesion development compared to uninoculated controls
-- The mycorrhizal fungus induced greater fitness in the host plants through competition with the pathogen
-- The primary function of the mycorrhizal association in this context was inferred to be pathogen defense rather than improved phosphorus uptake
-- The mycorrhizal fungus appeared to occupy root cortical space that would otherwise be available for pathogen colonization
-
-This interaction illustrates the broader principle that [[dighton-arbuscular-mycorrhizal-plant-community-effects]] fungi can provide significant biocontrol benefits to their host plants beyond nutrient acquisition.
+One of the most significant ecological interactions involving cylindrocarpon destructans is the suppression of its pathogenic activity by arbuscular mycorrhizal (AM) fungi. As documented by Dighton (2003), Traquair (1995) demonstrated that inoculation of peach tree seedlings with the AM fungus [[dighton-arbuscular-mycorrhizal-plant-community-effects]] fungi can provide significant biocontrol benefits to their host plants beyond nutrient acquisition.
 
 ### Similar Interactions in Forest Systems
 
-Dighton (2003) also notes parallel findings in forest tree systems, where ectomycorrhizal fungi including [[laccaria-laccata]], [[hebeloma-crustuliniforme]], H. sinapizans, and [[paxillus-involutus]] were shown to reduce the incidence of chestnut ink disease caused by Phytophthora cambivora and P. cinnamomi on seedling trees. These findings underscore the general importance of mycorrhizal associations in plant defense against root pathogens.
-
-### Interaction with Soil Fauna
-
-Soil microarthropods and nematodes may interact with cylindrocarpon destructans through grazing on fungal mycelium, potentially influencing the population dynamics of the pathogen in soil. However, specific interactions between soil fauna and this pathogen remain relatively understudied compared to other soil-borne pathogens.
-
-### Life Cycle and Epidemiology
-
-The life cycle of cylindrocarpon destructans involves both asexual and sexual reproductive phases:
-
-- **Asexual reproduction:** Macroconidia and microconidia are produced on infected root tissue and in soil. These spores are dispersed by water movement, soil cultivation, and contaminated planting material. Conidia germinate in the presence of [[root-exudates]] and initiate infection through wounds or natural openings in the root surface.
+Dighton (2003) also notes parallel findings in forest tree systems, where ectomycorrhizal fungi including [[hebeloma-crustuliniforme]], H. sinapizans, and [[root-exudates]] and initiate infection through wounds or natural openings in the root surface.
 - **Sexual reproduction:** The teleomorph (Neonectria radicicola) produces perithecia containing asci with ascospores. Sexual spores may contribute to genetic recombination and the generation of new pathogenic races.
 - **Survival structures:** Chlamydospores allow long-term survival in soil, persisting for years in the absence of a susceptible host. The fungus also survives in infected root debris, which serves as an inoculum reservoir.
 
@@ -108,27 +71,26 @@ cylindrocarpon destructans has considerable economic importance in several secto
 - **Fruit production:** Root rot caused by C. destructans leads to significant losses in peach, apple, and other fruit tree production, particularly in nursery settings.
 - **Forestry:** The pathogen causes damping-off and root rot in conifer and hardwood seedlings in forest nurseries, reducing seedling quality and survival after outplanting.
 - **Ornamental horticulture:** The species attacks a range of ornamental plant species in nursery and landscape settings.
-- **Biocontrol research:** The demonstrated ability of [[mycorrhizal-fungi]] to suppress C. destructans infection has implications for sustainable disease management strategies that reduce reliance on chemical fungicides.
-
-## Management
-
-Management strategies for cylindrocarpon root rot include:
-
-- Use of mycorrhizal inoculants to enhance plant resistance
-- Soil solarization and fumigation in nursery settings
-- Crop rotation and use of resistant rootstock
-- Improved drainage and soil aeration
-- Biological control using antagonistic microorganisms
-
-## Research Notes
-
-Dighton (2003) discusses cylindrocarpon destructans primarily in the context of mycorrhizal-mediated disease suppression, using the Traquair (1995) study as a key example. The species serves as an important model system for understanding how mycorrhizal associations can protect plants from soil-borne pathogens, contributing to the broader understanding of the multifunctional roles of mycorrhizae in ecosystem processes.
-
-## See Also
-
-- Cylindrocarpon
-- arbuscular mycorrhiza
-- [[glomus-intraradices]]
+- **Biocontrol research:** The demonstrated ability of [[glomus-intraradices]]
 - root rot fungi
 - Biocontrol
 - plant pathology
+## Practical Considerations
+
+Successful implementation of Cylindrocarpon destructans requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

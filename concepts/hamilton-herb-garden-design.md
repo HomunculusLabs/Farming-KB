@@ -8,11 +8,7 @@ type: concept
 tags: [design, gardening]
 ---
 
-# [[herb-garden-design]] and Cultivation
-
-Herbs are among the most rewarding plants to grow, serving both practical
-and ornamental purposes. They attract pollinating insects and predators
-that help control garden pests. [[geoff-hamilton]] provides detailed guidance
+# [[geoff-hamilton]] provides detailed guidance
 on designing and cultivating a productive herb garden.
 
 ## Planning the Herb Garden
@@ -144,5 +140,5 @@ the organic garden. Its deep roots bring up minerals from subsoil. It
 produces large quantities of leaves ideal for mulching, and its high
 potash content makes it excellent for liquid manure production.
 
-See also: [[hamilton-organic-soil-management]], [[hamilton-wildlife-gardening-biodiversity]],
-[[hamilton-container-raised-bed-gardening]], [[hamilton-organic-seed-saving-propagation]]
+See also: [[hamilton-wildlife-gardening-biodiversity]],
+[[hamilton-organic-seed-saving-propagation]]

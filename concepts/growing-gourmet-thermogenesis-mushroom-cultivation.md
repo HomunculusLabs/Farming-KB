@@ -1,5 +1,5 @@
 ---
-title: Thermogenesis in Mushroom Cultivation
+title: Growing Gourmet Thermogenesis Mushroom Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -38,19 +38,7 @@ thermogenesis has direct practical implications. As the
 percentage of nitrogen supplements increases relative to
 the base substrate, the greater the likelihood of
 contamination, and thus the greater the need for full
-and thorough [[growing-gourmet-autoclave-retort-selection]].
-
-## Dangers of Uncontrolled Thermogenesis
-
-Should internal temperatures exceed 100 F (38 C) in the
-core of each substrate bag or container, latent
-contaminants, especially thermophilic bacteria and black
-pin molds (Aspergillus, Rhizopus, and Mucor), spring forth,
-contaminating each and every bag. These same bags, incubated
-at 75 F (24 C), would otherwise be successfully colonized.
-
-The danger zone begins above 95 F (35 C). Above this
-temperature, thermophilic fungi and bacteria reign supreme,
+and thorough [[thermophilic-fungi]] and bacteria reign supreme,
 and the mushroom mycelium cannot compete. One major drawback
 of high spawning rates is increased thermogenesis. The
 cultivator who uses 8-15% spawn rates must be especially
@@ -61,38 +49,6 @@ vigilant about temperature management.
 When grain spawn is used to inoculate enriched sawdust
 substrates, thermogenesis is significantly higher than
 when [[growing-gourmet-sawdust-spawn-production-use]]
-is used. Grain spawn boosts the nitrogen content of the
-substrate, which accelerates biochemical reactions.
-By enriching the substrate with grain spawn, two main
-by-products result: heat and carbon dioxide.
-
-This is one of the cardinal reasons why sawdust spawn is
-preferred over grain spawn for inoculating supplemented
-sawdust fruiting blocks. Thermogenesis is reduced to a
-more manageable level. Colonization is faster, more even,
-and the risk of thermal contamination is lower.
-
-## Monitoring Internal Temperatures
-
-A small thermometer placed between two touching bags allows
-the laboratory manager to track internal temperatures and
-be sure they do not stray into the danger zone above 95 F
-(35 C). The air temperature in the incubation room must be
-set lower than the ideal growth temperature to compensate
-for the self-heating effect.
-
-Concentrated pockets of growth adjacent to vast regions of
-no growth result in poor completion and uneven heating. If
-evenly inoculated, colonization proceeds more uniformly
-and temperature management is simpler.
-
-## Strategies for Managing Thermogenesis
-
-  - Set ambient incubation temperatures 5-10 F below the
-    species' ideal growth temperature
-  - Space substrate bags well apart on open wire rack
-    shelving to allow heat dissipation
-  - Use [[growing-gourmet-sawdust-spawn-production-use]]
     instead of grain spawn for supplemented substrates
   - Avoid over-supplementation of substrates with nitrogen
   - Monitor internal temperatures with strategically placed
@@ -119,11 +75,7 @@ to sterilization profiles and heat penetration dynamics.
 
 ## Thermogenesis in Outdoor Cultivation
 
-Even in [[growing-gourmet-outdoor-mushroom-bed-establishment]],
-thermogenesis plays a role. Large masses of inoculated
-substrate can generate significant heat, which may be
-beneficial in cool weather but problematic in warm conditions.
-The [[growing-gourmet-growing-room-ventilation-air-exchange]]
+Even in [[growing-gourmet-growing-room-ventilation-air-exchange]]
 requirements of outdoor beds must account for both CO2
 removal and heat dissipation.
 

@@ -10,9 +10,7 @@ sources:
 
 # The Road to Natural Farming
 
-Masanobu Fukuoka's journey to natural farming was not a sudden revelation but a gradual awakening over many years. His [[fukuoka-personal-journey]] reveals how a trained agricultural scientist came to reject the very foundations of his profession.
-
-The road he traveled connects directly to his broader [[fukuoka-one-straw-revolution-impact]] and represents one of the most remarkable intellectual and spiritual journeys in the history of agriculture.
+Masanobu Fukuoka's journey to natural farming was not a sudden revelation but a gradual awakening over many years. His [[fukuoka-one-straw-revolution-impact]] and represents one of the most remarkable intellectual and spiritual journeys in the history of agriculture.
 
 ## Early Disillusionment
 
@@ -38,15 +36,7 @@ Initially, he tried various organic methods -- composting, green manuring, mulch
 
 By 1950, he had transitioned from light tillage to complete no-tillage for barley and wheat. The key technique was scattering rice straw on unplowed fields after the rice harvest. The straw decomposed in place, maintaining soil structure and fertility without any need for plowing.
 
-Agricultural experts forbade this practice, believing it would invite disease, but Fukuoka's results proved them wrong. His [[fukuoka-barley-clover-cultivation]] demonstrated that nature could provide everything the crops needed.
-
-## The Principle of Increasing Simplicity
-
-The road to natural farming is a process of doing less and less. Fukuoka summarized his journey as follows: first, he stopped using chemicals; then he stopped composting; then he stopped tilling; then he stopped weeding; then he stopped pruning.
-
-Each step was taken only after careful observation confirmed that the practice was unnecessary. This is the opposite of the usual path in agriculture, where the trend is toward more inputs, more technology, more complexity.
-
-Natural farming moves in the direction of simplicity, toward the condition of [[fukuoka-mu-nothingness-philosophy]] -- nothingness, the state where human action is no longer needed because nature provides everything.
+Agricultural experts forbade this practice, believing it would invite disease, but Fukuoka's results proved them wrong. His [[fukuoka-mu-nothingness-philosophy]] -- nothingness, the state where human action is no longer needed because nature provides everything.
 
 ## The Five Principles
 
@@ -86,13 +76,9 @@ These writings are the record of one farmer who for fifty years has wandered abo
 
 Of course, in a sense, natural farming will never be perfected. It will not see general application in its true form, and will serve only as a brake to slow the mad onslaught of scientific agriculture.
 
-That natural farming has yet to gain wide acceptance shows just how mortally nature has been afflicted by man's tampering and the extent to which the human spirit has been ravaged and ruined. The road to natural farming is ultimately the road back to [[fukuoka-what-is-nature]] -- not a resource to be managed but a living whole to which we belong.
-
-See also: [[fukuoka-personal-journey]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-early-farming-experiments]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-barley-clover-cultivation]]
+That natural farming has yet to gain wide acceptance shows just how mortally nature has been afflicted by man's tampering and the extent to which the human spirit has been ravaged and ruined. The road to natural farming is ultimately the road back to [[fukuoka-personal-journey]], [[fukuoka-early-farming-experiments]], [[fukuoka-barley-clover-cultivation]]
 
 ## Related
 
-- [[fukuoka-god-nature-man-unity-philosophy]]
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-- [[fukuoka-nature-transcends-human-knowledge]]
 - [[fukuoka-science-destroyer-of-nature]]

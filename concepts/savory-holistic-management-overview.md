@@ -103,18 +103,10 @@ The framework's power lies in its simplicity and universality. It does not requi
 
 ## See Also
 
-- [[permaculture-designers-manual-grazing-management]]
 - [[keyline-design-water-management]]
-- [[permaculture-grazing-and-pasture]]
 - [[fukuoka-natural-livestock-integration-philosophy]]
-- [[livestock-fencing-guide]]
-
 - [[savory-brittle-environments]]
-- [[savory-desertification-causes]]
 - [[savory-holistic-decision-making]]
-- [[savory-land-monitoring]]
 - [[savory-livestock-grazing-planning]]
-- [[savory-ranch-financial-planning]]
 - [[savory-soil-carbon-sequestration]]
-- [[savory-water-cycle-management]]
 - [[savory-wildlife-livestock-integration]]

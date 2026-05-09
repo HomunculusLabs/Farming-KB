@@ -129,13 +129,8 @@ range that extends well above that of most other environmental fungi.
 
 ## See Also
 
-- [[aspergillus-niger-in-fungal-bioleaching]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 
-- [[aspergillus-fumigatus-population-genetics]]
-
-- aspergillus nidulans
 - [[aspergillus-niger-in-fungal-bioleaching]]
-- [[neurospora-crassa]]
 - [[cryptococcus-neoformans]]
 - [[candida-albicans]]

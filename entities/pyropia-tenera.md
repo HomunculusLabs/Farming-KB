@@ -106,15 +106,9 @@ Efforts to conserve wild genetic diversity include the establishment of germplas
 
 ## See Also
 
-- [[porphyra-umbilicalis]]
 - [[pyropia-yezoensis]]
-- [[palmaria-palmata]]
 - [[ulva-lactuca]]
-- [[undaria-pinnatifida]]
 - [[gracilaria-verrucosa]]
-- [[laminaria-digitata]]
 - [[saccharina-latissima]]
-- [[chondrus-crispus]]
 - [[kappaphycus-alvarezii]]
-- [[eucheuma-denticulatum]]
 - [[fucus-vesiculosus]]

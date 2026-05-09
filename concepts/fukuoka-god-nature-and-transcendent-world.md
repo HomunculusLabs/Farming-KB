@@ -86,13 +86,8 @@ updated: 2026-04-18
 
 ## See Also
 
-- [[fukuoka-nature-god-transcendent-world]]
-
 - [[fukuoka-nature-god-limits-of-knowledge]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-learning-about-nature-distances-one-from-nature]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-rice-and-barley-natural-farming]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-natural-farming-method]]

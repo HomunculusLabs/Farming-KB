@@ -21,37 +21,16 @@ type: concept
 
 ## Overview
 
-Organic nutrients, manure, [[cervantes-compost-tea-organic-brewing]], blood and bone meal, and other
-natural amendments all work well to increase soil nutrient content, but
-nutrients are released and available at different rates. The nutrient
-availability may be tricky to calculate, but it is somewhat difficult to
-over-apply organic fertilizers. Organic nutrients seem to be more
-consistently available when used in combination with one another.
-
-Most indoor organic gardens use potting soil high in worm castings, peat,
-sand, manure, leaf mold, compost, and fine [[cervantes-dolomite-lime-ph-buffering]]. In a container,
+Organic nutrients, manure, [[cervantes-dolomite-lime-ph-buffering]]. In a container,
 there is little space to build the soil by mixing all kinds of neat
 composts and cervantes organic amendments chart. It is easier and safer to throw old,
 depleted soil outdoors and start new plants with fresh organic soil.
 
 Usually, growers use a mix of about 20 percent worm castings with other
-organic agents to get a strong, readily available [[cannabis-nitrogen]] base. They
-fertilize with bat guano, the organic super bloom, during flowering.
-
-## Nitrogen-Rich Amendments
-
-### [[cervantes-organic-mineral-amendments]]
+organic agents to get a strong, readily available [[cervantes-organic-mineral-amendments]]
 Collected at slaughterhouses, dried, and ground into a powder. Packed
 with fast-acting soluble nitrogen (12 to 15 percent by weight), about 1.2
-percent [[cannabis-phosphorus]], and under one percent potash. Apply carefully because
-it is easy to burn foliage. Cervantes advises avoiding any dried blood
-or blood meal that could carry Mad Cow Disease.
-
-### Fish Meal and Fish Emulsion
-Fish meal is made from dried fish ground into a meal. Rich in nitrogen
-(about 8 percent) and contains around 7 percent phosphoric acid and many
-trace elements. Fish emulsion, an inexpensive soluble liquid, is high in
-organic nitrogen, trace elements, and some phosphorus and [[cannabis-potassium]]. This
+percent [[cannabis-potassium]]. This
 natural fertilizer is difficult to over-apply and is immediately available
 to plants. Even deodorized fish emulsion smells like dead fish.
 

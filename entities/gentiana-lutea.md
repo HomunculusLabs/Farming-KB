@@ -138,8 +138,6 @@ The bitter value (Bitterwert) of gentian root is standardized to 10,000–20,000
 
 ## See Also
 
-- [[artemisia-absinthium]]
 - [[valeriana-officinalis]]
-- [[taraxacum-officinale]]
 - [[glycyrrhiza-glabra]]
 - [[chamomilla-recutita-entity]]

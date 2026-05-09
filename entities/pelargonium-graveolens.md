@@ -128,23 +128,13 @@ The oil is generally recognized as safe (GRAS) for food and cosmetic use.
 
 ## Permaculture and Agroforestry Applications
 
-*P. graveolens* serves multiple functions in permaculture design systems.
-Its aromatic foliage deters pest insects, making it a useful companion
-plant for vegetable gardens and orchards.
-
-The shrub provides nectar for pollinators when in bloom and contributes
-to garden biodiversity. Its relatively low water requirements suit
-drought-adapted food forest understories in Mediterranean climates.
+*P. graveolens* serves multiple functions in [[food-forest]] understories in Mediterranean climates.
 
 Rose geranium can be integrated into hedgerows and living fence systems,
 providing both aromatic harvest and wind protection. Pruned material is
 valuable as mulch, contributing organic matter and mild allelopathic
 compounds that suppress weed germination.
-
 ## See Also
 
-- [[herbal-medicine]]
 - [[essential-amphetamines-and-natural-precursors]]
-- [[mollison-designers-tropical-soils-and-cation-exchange-management]]
-
-- [Pelargonium sidoides](pelargonium-sidoides.md)
+- [[pelargonium-sidoides]](pelargonium sidoides.md)

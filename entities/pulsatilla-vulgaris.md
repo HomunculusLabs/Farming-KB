@@ -133,13 +133,8 @@ Requires excellent drainage, full sun, and alkaline soil.
 
 ## See Also
 
-- [[alchemilla-vulgaris]]
-
 - [[berberis-vulgaris]]
-- [[prunella-vulgaris]]
 - [[thymus-vulgaris-entity]]
-- [[artemisia-vulgaris-entity]]
-
 - [[herbal-medicine]]
 
 - clematis

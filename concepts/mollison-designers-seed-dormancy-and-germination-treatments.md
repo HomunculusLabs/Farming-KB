@@ -17,7 +17,7 @@ type: concept
 # Seed Dormancy and Germination Treatments in Permaculture
 
 Understanding seed dormancy and the conditions required for
-germination is fundamental to [[mollison-plant-nursery-species-selection]] and successful [[permaculture-designers-manual-pioneer-species]] in any permaculture system. In
+germination is fundamental to [[permaculture-designers-manual-pioneer-species]] in any permaculture system. In
 *Permaculture: A Designers' Manual*, Bill Mollison devotes
 considerable attention to the various treatments that break seed
 dormancy, drawing on both scientific understanding and traditional
@@ -30,21 +30,7 @@ vegetable seeds is profound. Between 0-38 degrees C (32-100 degrees
 F), the time to germinate can be reduced to one-tenth or one-fourth
 of that in cold soils by increasing soil temperatures. However, at
 the extremes of this range, many plants have limiting factors which
-result in no germination. Understanding these thresholds is critical for [[mollison-plant-nursery-species-selection|species selection]]
-in any permaculture system.
-
-While almost all vegetable seed will germinate in soils at 15-20
-degrees C (59-68 degrees F), some species have specific requirements:
-celery refuses to germinate above 24 degrees C (74 degrees F), and
-many cucurbits, beans, and subtropicals do not germinate below 10
-degrees C (50 degrees F). Practical approaches include waiting until
-soils warm, or warming soils with greenhouses, clear or black plastic
-mulch, or simply exposing bare earth to sun. A soil thermometer
-inserted 2.5 cm (1 inch) deep is sufficient to measure readiness.
-
-## Light Requirements for Germination
-
-The [[stomata-transpiration-and-plant-water-regulation|relationship between plants and light]] extends beyond photosynthesis to germination cues. A second effect on germination is light itself. Carrots need a
+result in no germination. Understanding these thresholds is critical for [[stomata-transpiration-and-plant-water-regulation|relationship between plants and light]] extends beyond photosynthesis to germination cues. A second effect on germination is light itself. Carrots need a
 definite quantity of light and are usually surface-planted to
 achieve this. For light-requiring seeds, we can surface-scatter
 them, or first soak them overnight and then subject them to a day
@@ -61,25 +47,11 @@ species and for understanding weed emergence patterns.
 
 ## Stratification (Cold Treatment)
 
-[[mollison-humus-and-organic-matter-in-soils|Organic matter]] in cold soils plays a key role in protecting seeds during stratification.
-Cold-area seed, and specifically tree and berry seeds from boreal
-or cold areas, should spend the period from autumn to spring in a
-refrigerator when taken to warmer climates. Apple seeds stored in
-sand or chestnuts in peat sprout in this way, and can be potted out
-as they shoot. This reproduces the exposure to cold at about 0-5
-degrees C (32-40 degrees F) that they normally experience at the
-litter level in cold forests or marshes. This technique connects directly to [[mollison-cold-climate-strategies-detailed]]. See also [[mollison-seed-resources-and-sovereignty]] for sourcing cold-adapted varieties.
-
-Wild rice and other "soft" aquatic seeds are stored in open ponds,
-or under water in an ordinary refrigerator. Stratification can also
-be accomplished by keeping such seeds in sand or peat (or water for
-aquatics) in cold shaded valleys, or under open cool trellis in
-warm climates. They can be checked late in winter and spring for
-signs of germination. This technique connects directly to [[mollison-cold-climate-strategies-detailed]].
+[[mollison-cold-climate-strategies-detailed]]. See also [[mollison-cold-climate-strategies-detailed]].
 
 ## Heat Treatment for Hard-Seeded Legumes
 
-The [[growing-beans-peas-legume-guide|cultivation of legumes]] often requires overcoming physical dormancy. The opposite of [[mollison-native-seed-forage-systems-and-arid-species-lists]] is heat treatment, applied to many
+The [[mollison-native-seed-forage-systems-and-arid-species-lists]] is heat treatment, applied to many
 tree legume seeds. Methods include:
 
 - Heating in an oven at 95 degrees C (200 degrees F) for 10-20
@@ -106,45 +78,23 @@ in bird crops, and packaging in manure, to which a great many
 seeds are naturally adapted.
 
 This method simultaneously achieves scarification, partial
-[[mollison-native-seed-forage-systems-and-arid-species-lists]], and inoculation with beneficial microorganisms,
-while the manure provides a nutrient-rich germination medium.
-It is particularly effective for [[mollison-designers-seed-pelleting-and-pretreatment]] in permaculture systems that
+[[mollison-designers-seed-pelleting-and-pretreatment]] in permaculture systems that
 integrate livestock.
 
 ## Seed Scarification
 
 Seeds with thick or hard coats may need scarification to break
-dormancy. The [[mycorrhizal-inoculation-formulations|preparation of inoculants]] sometimes involves scarification as well. This is a mechanical process of nicking, filing, or
-abrading the seed coat to allow water penetration. In traditional
-practice, seeds are rubbed between sandpaper, nicked with a knife,
-or soaked in dilute acid. Scarification is often combined with
-other treatments: heat, cold [[mollison-native-seed-forage-systems-and-arid-species-lists]], or inoculation
+dormancy. The [[mollison-native-seed-forage-systems-and-arid-species-lists]], or inoculation
 before .
 
 ## Practical Germination Testing
 
-The [[home-garden-seed-saving|practice of seed saving]] makes germination testing essential. For any batch of saved or purchased seed, a simple germination
-test can be conducted by placing 10-20 seeds between moist paper
-towels in a warm location and counting sprouts after the expected
-germination period. This gives a percentage viability that informs
-sowing rates and the need for fresh seed sources. Mollison
-emphasises that local seed sources, adapted to day length and
-climate, are always preferable to imported seed.
-
-## Integration with Permaculture Design
-
-Seed treatment knowledge supports many permaculture strategies:
-breaking dormancy for [[permaculture-designers-manual-pioneer-species]], ensuring reliable germination in
-[[permaculture-designers-manual-plant-nursery]], and building
-local seed sovereignty through [[mollison-seed-resources-and-sovereignty]]. The overall approach is to work with natural seed
+The [[permaculture-designers-manual-pioneer-species]], ensuring reliable germination in
+[[mollison-seed-resources-and-sovereignty]]. The overall approach is to work with natural seed
 adaptations rather than against them, using gentle, low-energy
 methods that mirror natural processes.
-
 ## See Also
 
-- [[mollison-plant-nursery-species-selection]]
 - [[mollison-seed-resources-and-sovereignty]]
-- [[mollison-cold-climate-strategies-detailed]]
 - [[mollison-designers-seed-pelleting-and-pretreatment]]
-- [[permaculture-designers-manual-pioneer-species]]
 - [[permaculture-designers-manual-plant-nursery]]

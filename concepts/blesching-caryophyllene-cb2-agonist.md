@@ -13,8 +13,7 @@ type: concept
 
 Beta-caryophyllene (BCP) is a naturally occurring sesquiterpene that has
 garnered significant attention in cannabinoid research for its unique
-status as a selective CB2 receptor agonist. In "The [[cannabis-health-index]],"
-[[uwe-blesching]] highlights beta-caryophyllene as a remarkable example of how
+status as a selective CB2 receptor agonist. In "The [[uwe-blesching]] highlights beta-caryophyllene as a remarkable example of how
 non-cannabinoid plant compounds can directly engage the endocannabinoid
 system to produce therapeutic effects. Its widespread presence in common
 foods and its FDA-approved status as a food additive make it one of the
@@ -85,39 +84,7 @@ CB2 receptor activation:
 - The compound has shown efficacy in animal models of inflammatory
   conditions including colitis, arthritis, and neuroinflammation
 - These effects are consistent with broader evidence for
-  [[blesching-cannabis-immune-system-modulation]]
-
-Blesching notes that BCP's anti-inflammatory potency is comparable to
-pharmaceutical CB2 agonists in preclinical models, suggesting its
-therapeutic potential may extend well beyond its current applications.
-
-## Antimicrobial Activity
-
-Beta-caryophyllene demonstrates broad-spectrum antimicrobial properties:
-
-- Antibacterial activity against both Gram-positive and Gram-negative
-  bacteria, including some antibiotic-resistant strains
-- Antifungal effects against Candida species and dermatophytes
-- Potential as a food preservative due to its antimicrobial and
-  antioxidant properties
-
-These antimicrobial properties complement its anti-inflammatory effects
-and may be relevant to conditions where infection and inflammation
-co-occur.
-
-## Anti-Cancer Potential
-
-Emerging research reviewed by Blesching suggests anti-cancer properties
-of beta-caryophyllene:
-
-- BCP has demonstrated cytotoxic effects against multiple cancer cell
-  lines in vitro, including colorectal, breast, and prostate cancer cells
-- The compound may induce apoptosis (programmed cell death) in cancer
-  cells through CB2-dependent and CB2-independent mechanisms
-- BCP has shown anti-angiogenic properties, potentially inhibiting tumor
-  blood supply formation
-- The compound may enhance the efficacy of conventional chemotherapy
-  agents, connecting to [[cannabis-cancer-symptom-management]]
+  [[cannabis-cancer-symptom-management]]
 
 These findings are primarily from preclinical studies, and clinical trials
 are needed to evaluate BCP's anti-cancer potential in humans.

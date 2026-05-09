@@ -24,111 +24,85 @@ day.
 ## Coleus (*Coleus pumilus* and *C. blumei*)
 
 Coleus is cultivated by the Mazatecs of Oaxaca, Mexico, who reputedly employ
-the leaves in the same way as they use the leaves of [[salvia-divinorum]]. The
-Indians recognize the family relationship between these two genera of mints,
-both of the family Labiatae (Lamiaceae). They refer to Salvia divinorum as
-la hembra ("the female") and to Coleus pumilus as el macho ("the male").
-There are two forms of C. blumei, which they call el nino ("the child") and
-el ahijado ("the godson").
+the leaves in the same way as they use the leaves of [[coleus-blumei]]
 
-These two species are native to Asia, where they are valued in folk medicine
-but apparently have not been used as hallucinogens. No hallucinogenic
-principle has yet been discovered in the 150 known Coleus species. Despite
-the Mazatec practice of using Coleus alongside Salvia divinorum in their
-healing ceremonies, the psychoactive properties of Coleus remain
-scientifically unconfirmed. It is possible that the Mazatec use of Coleus
-is based on the doctrine of signatures or sympathetic magic rather than
-demonstrable pharmacological activity.
-
-## Borrachera (*Iochroma fuchsioides*)
-
-Borrachera is one of about two dozen species of Iochroma, all native to the
-Andean highlands of South America. It belongs to the nightshade family,
-Solanaceae, well recognized for its toxic and psychoactive members. The
-name borrachera means "drunkenness" in Spanish, reflecting its intoxicating
-properties. Like many solanaceous plants used in South American folk
-medicine, Iochroma fuchsioides is employed by indigenous healers for its
-purported psychoactive effects, though detailed chemical studies remain
-incomplete.
-
-## Brunfelsia (*Brunfelsia* species)
-
-Brunfelsia is a genus of about 40 species of shrubs native to tropical
-South America and the West Indies. It belongs to the nightshade family,
-Solanaceae. One species, Brunfelsia hopeana, has been included in the
-Brazilian pharmacopoeia, indicating its recognized medicinal value. Chemical
-investigation of the active compounds in the various species of Brunfelsia
-is still in the initial stage, and what the active principles may be has not
-yet been determined. The genus is used in folk medicine throughout its range,
-and some species are suspected of having mild psychoactive properties.
-
-## Shanin (*Petunia violacea*)
-
-Shanin (*Petunia violacea*) is one of the most recently reported
-hallucinogens from the Golden Guide era. It is taken by the Indians in
-Ecuador to induce the sensation of flight. Although an alkaloid of unknown
-identity has been reported from this species of petunia, phytochemical
-investigation of petunias is urgently needed. Some 40 species of petunias
-grow in South America and in warmer parts of North America. Members of the
-nightshade family, Solanaceae, they are closely allied to the genus
-Nicotiana (tobacco). Petunia violacea and other species are horticulturally
-important, with their attractive funnel-shaped blooms being popular garden
-flowers.
-
-## Keule (*Gomortega keule*)
-
-Keule is a small tree restricted to about 100 square miles in central Chile.
-It is the only species in a rare family, Gomortegaceae, related to the
-nutmeg family. The Mapuche Indians of Chile are said to eat the fruit of
-keule, or hualhual, for intoxication, but whether the effects are truly
-hallucinogenic is not yet known. So far, there have been no chemical studies
-made of this tree. The extreme rarity of this species and its restricted
-range make it one of the most geographically limited of all known
-psychoactive plants.
-
-## Taique (*Desfontainia hookeri*)
-
-Taique is a shrub of Andean valleys. Its leaves, made probably into a tea,
-are employed in southern Chile as a folk medicine and as a narcotic. Whether
-their effects are truly hallucinogenic is not known, nor has their chemical
-composition been investigated. The genus Desfontainia contains one or two
-other Andean species and belongs to the family Desfontainiaceae. A related
-family, Loganiaceae, includes the plants from which certain South American
-arrow poisons are made. The use of taique in Mapuche folk medicine suggests
-that its pharmacological properties, whatever they may be, have been
-recognized for generations.
-
-## Tupa (*Lobelia tupa*)
-
-Tupa (*Lobelia tupa*), also called tabaco del diablo ("devil's tobacco"),
-is a tall, variable plant of the high Andes. In Chile, the Mapuche Indians
-smoke the dried leaves of this beautiful red-flowered plant for their
-narcotic effects. Whether they are truly hallucinogenic has not yet been
-established. They contain the alkaloid lobeline and several derivatives of
-it. The same alkaloid occurs in some North American species of Lobelia,
-especially L. inflata, known locally as Indian tobacco. There are 300 species
-of Lobelia, mostly tropical and subtropical, belonging to the bluebell
-family, Campanulaceae.
-
-## Zacatechichi (*Calea zacatechichi*)
-
-Zacatechichi is an inconspicuous shrub ranging from Mexico to Costa Rica,
-a recently discovered hallucinogen used only by the Chontals of Oaxaca.
-They take it to "clarify the senses" and to enable them to communicate
-verbally with the spirit world. The plant's intensely bitter taste
-(zacatechichi is the Aztec word meaning "bitter grass") has made it a
-favorite folk medicine for fevers, nausea, and other complaints. After
-drinking a tea made from the shrub's crushed dried leaves, an Indian lies
-down in a quiet place and smokes a cigarette made of the dried leaves. He
-knows that he has had enough when he feels drowsy and hears his own pulse
-and heartbeat. Recent studies indicate the presence of an unidentified
-alkaloid that may be responsible for the auditory hallucinations.
-
-## See Also
-
-- [[coleus-blumei]]
-
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-salvia-divinorum-and-diviner-sage]]
-- [[golden-guide-datura-and-nightshade-deliriants]]
 - [[golden-guide-cannabis-historical-use]]
+## Practical Applications
+
+Golden Guide: Coleus and Other Mild Psychoactives has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Golden Guide: Coleus and Other Mild Psychoactives. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

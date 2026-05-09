@@ -25,17 +25,7 @@ permaculture principles for extending the growing season. Unlike conventional
 glasshouses that rely on fossil fuel heating, a well-designed passive solar
 greenhouse uses the building itself as a solar collector, storing daytime heat
 in thermal mass and releasing it slowly at night. The concept draws heavily on
-[[passive-solar-design]], which emphasizes building orientation,
-glazing ratios, and thermal mass placement for maximum solar gain during winter
-months when the sun angle is lowest and heat retention matters most.
-
-### Orientation and Shape
-The most critical design element is orientation. In the Northern Hemisphere,
-the glazing wall should face due south (within 15 degrees) to capture maximum
-low-angle winter sun. The north wall should be insulated and opaque, often
-built with materials like straw bales, earthbags, or concrete. This insulated
-back wall can double as thermal mass if built from stone, concrete, or rammed
-earth. The [[underground-greenhouse-walipini]] takes this concept further by
+[[underground-greenhouse-walipini]] takes this concept further by
 sinking the structure into the ground, using the earth's stable subsurface
 temperature as thermal mass while berming earth against the north wall for
 additional insulation. The roof angle should be steep enough to shed snow but
@@ -49,30 +39,7 @@ rule of thumb is roughly 2 to 3 gallons of water (or equivalent thermal mass)
 per square foot of glazing. Water is particularly effective because it has the
 highest heat capacity of common building materials, storing about twice as much
 heat per unit volume as stone or concrete. The
-[[biomass-compost-greenhouse-heating-systems]] approach goes a step further by
-incorporating active composting inside or beneath the greenhouse, where
-microbial decomposition generates consistent bottom heat that can keep the
-space frost-free through winter without any fuel input.
-
-### Ventilation and Cooling
-Ventilation is equally important for summer performance. Without adequate
-airflow, a passive solar greenhouse can easily overheat to lethal temperatures
-on sunny days, even in winter. Roof vents at the peak combined with low intake
-vents create a natural chimney effect that pulls hot air out and draws cool air
-in. Automated vent openers that respond to temperature eliminate the need for
-electrical controls. Proper ventilation also manages humidity, preventing
-fungal diseases that thrive in stagnant, moist air. In hot climates, shading
-cloth, deciduous vine trellises on the exterior, and evaporative cooling from
-water features can supplement natural ventilation.
-
-### Glazing Materials
-The choice of glazing material affects both light transmission and insulation.
-Double-wall polycarbonate panels offer good insulation with moderate light
-transmission, lasting 10 to 15 years before yellowing. Single-layer glass
-provides maximum light but poor insulation. Twin-wall or triple-wall
-polycarbonate provides an insulating air gap while maintaining adequate light
-levels for plant growth. Some designs use removable insulation panels that cover
-the glazing at night during the deepest cold snaps. The [[solar-water-heating]]
+[[solar-water-heating]]
 concept can be integrated to warm irrigation water, reducing thermal shock to
 plant roots during cold weather watering.
 
@@ -105,32 +72,10 @@ gravel beneath the soil beds, which stores heat and allows warm air from the
 greenhouse to circulate beneath the root zone via perforated pipes, effectively
 creating a subterranean heating system powered entirely by the sun. This ground
 storage concept works particularly well when combined with
-[[winter-gardening-techniques]] such as cold frames inside the structure, row
-covers over beds, and selecting cold-hardy varieties.
-
-### Winter Growing Strategies
-For cold climate gardeners, combining a passive solar greenhouse with winter
-gardening techniques creates multiple layers of protection. This "layers of
-defense" approach means even if the outer greenhouse drops below freezing, the
-microclimate under row covers inside the greenhouse may stay above 28 degrees
-Fahrenheit, which is sufficient for many winter crops like kale, spinach, mache,
-and claytonia. Succession planting from late summer through fall ensures
-continuous harvests through the darkest months.
-
-## Key Points
-- Orient the greenhouse glazing wall within 15 degrees of true south for
-  maximum winter solar gain
-- Include 2 to 3 gallons of water or equivalent thermal mass per square foot
-  of glazing area
-- Incorporate roof vents and low intake vents for natural convective cooling
-  without electricity
-- Consider sinking the structure into the ground using
-  [[underground-greenhouse-walipini]] techniques for earth-tempered stability
+[[underground-greenhouse-walipini]] techniques for earth-tempered stability
 - Layer protection strategies like row covers and cold frames inside the
   greenhouse extend the frost-free season further
 
 ## Related Questions
-- [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-how-to-build-a-raised-bed-garden]]
-- [[query-how-to-build-a-swale-for-water-harvesting]]
 - [[query-what-are-the-12-permaculture-principles]]

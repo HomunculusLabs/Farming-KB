@@ -1,7 +1,7 @@
 ---
 title: "Duggar Tissue Culture and Pure Spawn Method 1915"
 created: 2026-04-28
-tags: [mycology, tissue-culture, pure-culture, spawn-making, duggar,
+tags: [[mycology, tissue-culture, pure-culture, spawn-making, duggar,
       history-of-mycology, sterilization]
 date: 2026-04-25
 updated: 2026-04-25
@@ -114,13 +114,7 @@ rather than reliance on unpredictable natural spawn collection.
 
 ## Comparison with Modern Techniques
 
-Duggar's tissue culture method parallels the modern [[mushroom-cultivator-tissue-culture-spore-germination]] described by Stamets and Chilton.
-The fundamental principle remains identical: excising interior
-tissue from a fresh mushroom and transferring it to sterile nutrient
-media under aseptic conditions.
+Duggar's tissue culture method parallels the modern [[mushroom-cultivation-sterile-laboratory-design]] reflect the
+early state of the art. See also [[duggar-mushroom-spawn-preparation-techniques]].
 
-However, the tools and facilities available to Duggar were far more
-primitive. The emphasis on dry heat sterilization as a preliminary
-step, the horizontal positioning of tubes during transfer, and the
-reliance on simple cotton plugs without [[mushroom-cultivation-sterile-laboratory-design]] reflect the
-early state of the art. See also [[pure-culture-spawn-method-duggar-usda-1902]] and [[duggar-mushroom-spawn-preparation-techniques]].
+See also: [[mushroom-cultivation-fundamentals]]

@@ -87,8 +87,6 @@ area of investigation that may yield new non-psychoactive treatments
 for inflammation and other conditions.
 
 ## See Also
-- [[cannabigerol-cbg]]
 - [[cannabidiolic-acid-cbda]]
-- [[tetrahydrocannabinolic-acid-thca]]
 - [[cannabichromene-cbc]]
 - [[cannabis-sativa]]

@@ -1,7 +1,7 @@
 ---
 title: Fungal Biodiversity Crisis
 created: 2026-04-28
-tags: [mycology, biodiversity, conservation, taxonomy]
+tags: [[mycology, biodiversity, conservation, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -120,8 +120,6 @@ unknown.
 
 ## See Also
 
-- [[fungal-taxonomy]]
 - [[mycorrhizal-networks]]
-- [[environmental-dna-metabarcoding]]
 - [[fungal-ecosystem-services]]
 - [[cryptic-fungal-species]]

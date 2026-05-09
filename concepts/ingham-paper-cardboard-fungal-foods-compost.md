@@ -127,8 +127,6 @@ The same comparative testing approach applies to any new ingredient. Without tes
 
 ## Related Concepts
 
-- [[aact-fungal-dominant-tea|Fungal dominant compost tea]]
 - [[aact-compost-quality-standards-ingham|Compost quality standards]]
-- [[ingham-beauveria-parasitic-fungi|Beauveria and parasitic fungi]]
 - [[actinomycetes-soil-biology|Actinomycetes in soil biology]]
 - [[fungal-decomposition-nutrient-cycling|Fungal decomposition and nutrient cycling]]

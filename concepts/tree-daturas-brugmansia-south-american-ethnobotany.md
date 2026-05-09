@@ -29,11 +29,7 @@ The indigenous use of tree daturas spans a wide range of purposes, including div
 
 Like all members of the nightshade family, tree daturas contain tropane alkaloids, primarily scopolamine (hyoscine) and hyoscyamine, with atropine as a minor component. The alkaloid content varies considerably depending on the species, plant part, growing conditions, and time of harvest. The leaves and seeds typically contain the highest concentrations.
 
-The [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] is characterized by anticholinergic effects — competitive blockade of muscarinic acetylcholine receptors throughout the body. These effects include pupil dilation, dry mouth, increased heart rate, urinary retention, elevated body temperature, and, at hallucinogenic doses, vivid true hallucinations, delirium, and amnesia.
-
-## Differences from Herbaceous Datura
-
-The tree daturas of South America differ from the herbaceous daturas in several important respects. While herbaceous daturas like [[datura-metel-old-world-ethnobotany]] are primarily Old World species used in Asia and the Middle East, the tree daturas are predominantly New World species native to the Andean region.
+The [[datura-metel-old-world-ethnobotany]] are primarily Old World species used in Asia and the Middle East, the tree daturas are predominantly New World species native to the Andean region.
 
 The cultural context of their use also differs. Old World datura use is characterized by relatively pragmatic applications — medicine, crime, and occasional recreational intoxication — while South American tree datura use is typically embedded in elaborate shamanic and ceremonial contexts. This difference parallels the broader pattern distinguishing New World from Old World hallucinogen use.
 
@@ -57,7 +53,7 @@ The spread of tree daturas beyond their native Andean range through horticultura
 
 Tree daturas remain relatively understudied compared to other psychoactive plants, partly because their extreme toxicity makes controlled human studies impractical. The ethnopharmacological study of their traditional uses, however, has contributed to our understanding of how indigenous peoples manage the risks associated with highly toxic psychoactive plants through culturally transmitted knowledge of preparation, dosage, and ceremonial context.
 
-In the broader context of [[old-world-hallucinogenic-plants-overview]], tree daturas represent the New World counterpart of the European solanaceous hallucinogens — [[belladonna-atropa-belladonna-ethnobotany]], [[henbane-hyoscyamus-niger-ethnobotany]], and [[mandrake-mandragora-officinarum-in-european-folklore]] — sharing the same tropane alkaloid chemistry but embedded in very different cultural traditions.
+In the broader context of [[belladonna-atropa-belladonna-ethnobotany]], [[mandrake-mandragora-officinarum-in-european-folklore]] — sharing the same tropane alkaloid chemistry but embedded in very different cultural traditions.
 
 ## Historical Context
 
@@ -73,20 +69,28 @@ The plants have also attracted horticultural interest worldwide for their large,
 
 ## See Also
 
-[[belladonna-atropa-belladonna-ethnobotany]] — European belladonna with shared tropane chemistry.
-
 [[henbane-hyoscyamus-niger-ethnobotany]] — European henbane and its traditional uses.
-
-[[mandrake-mandragora-officinarum-in-european-folklore]] — mandrake in European folklore.
 
 [[datura-metel-old-world-ethnobotany]] — Old World Datura metel ethnobotany.
 
-[[solanaceous-hallucinogens-pharmacology]] — pharmacology of the solanaceous hallucinogens.
-
-## References
-
-Schultes, R.E. & Hofmann, A. Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers. Healing Arts Press, 1992.
-
-Pinkus-Higdon, L. "The Genus Brugmansia." Acta Horticulturae, 2009.
-- [[yage-common-themes-south-american-indians]]
+[[yage-common-themes-south-american-indians]]
 - [[garden-myths-native-plants-and-invasive-species]]
+## Practical Considerations
+
+Successful implementation of Tree Daturas (Brugmansia): South American Ethnobotany requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

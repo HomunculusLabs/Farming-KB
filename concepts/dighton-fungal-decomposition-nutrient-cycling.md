@@ -84,9 +84,6 @@ Fungal decomposition mediates:
 
 ## See Also
 
-- [[fungal-decomposition]]
 - [[fungal-enzyme-systems]]
-- [[soil-food-web]]
 - [[fungal-role-in-carbon-cycling]]
-- [[fungal-nutrient-cycling-forests]]
 - [[decomposer-fungi-succession]]

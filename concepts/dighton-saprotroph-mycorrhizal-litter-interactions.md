@@ -18,10 +18,7 @@ type: concept
 
 The interactions between saprotrophic and mycorrhizal fungi in the
 decomposition of leaf litter represent a critical but poorly understood
-interface in ecosystem nutrient cycling. These two major [[fungal-functional-groups]] compete for resources, may suppress or facilitate each other, and
-collectively determine the balance between nutrient immobilization and
-mineralization. In [[barn-design]]'s treatment of [[fungal-ecology]], the
-saprotroph-mycorrhizal interaction is central to understanding [[fungal-decomposition-nutrient-cycling]].
+interface in ecosystem nutrient cycling. These two major [[barn-design]]'s treatment of [[fungal-decomposition-nutrient-cycling]].
 
 ## The Gadgil and Gadgil Effect
 
@@ -106,9 +103,7 @@ depends on whether the interaction is net facilitative or net competitive:
   may increase nutrient retention within the mycorrhizal pathway,
   reducing leaching losses
 
-This balance has implications for ecosystem-level [[dighton-fungal-roles-in-nutrient-cycling]] and the efficiency of nutrient use by plant communities.
-Understanding these interactions is particularly important for predicting
-how forests will respond to changes in [[dighton-fungal-responses-climate-change]].
+This balance has implications for ecosystem-level [[dighton-fungal-responses-climate-change]].
 
 ## Knowledge Gaps
 
@@ -124,8 +119,6 @@ saprotroph-mycorrhizal interactions:
 
 ## See Also
 
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[dighton-fungal-competition-resource-partitioning]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
 - [[dighton-fungal-nutrient-immobilization-turnover]]

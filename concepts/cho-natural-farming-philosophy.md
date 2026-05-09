@@ -136,21 +136,12 @@ adapt it through attentive observation and responsive management.
 ## Legacy and Global Impact
 
 Dr. Cho continued developing his system until his passing. The Janong
-Natural Farming Institute served as the primary training center, attracting
-students worldwide. His son, Cho Youngsang, has continued promoting the
-system through Cho Global Natural Farming. The philosophy has influenced
-permaculture, regenerative agriculture, and sustainable agriculture
-movements worldwide, demonstrating that farming can be both productive
-and ecologically restorative.
-
 ## See Also
 
 - [Nutritive Cycle Theory](cho-nutritive-cycle-theory.md)
 - [Indigenous Microorganisms (IMO)](indigenous-microorganisms-imo.md)
 - [Natural Farming Inputs](natural-farming-inputs-cho.md)
 ## See Also
-- [[chos-natural-farming-imo-collection-cultivation]]
 - [[cho-indigenous-microorganisms-collection-and-cultivation]]
-- [[natural-farming-imo-collection-and-cultivation]]
 - [[natural-farming-poster-korean-techniques-summary]]
 - [[query-jadam-vs-korean-natural-farming]]

@@ -142,8 +142,6 @@ The suppression of hepatic stellate cell activation is particularly important, a
 
 ## See Also
 
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
-- [[tihkal-receptor-binding-serotonin]]
 - [[tangerine-dream]]
 - [[blesching-cannabis-aging]]

@@ -494,3 +494,5 @@
 - [[worm-bin-types-comparison]]
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
+- [[endorhiza-endophytic-bacteria]]
+- [[two-tier-selection-model-plant-microbiome]]

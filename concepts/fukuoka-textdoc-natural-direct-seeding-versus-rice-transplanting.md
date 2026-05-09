@@ -126,10 +126,7 @@ truly solved unless a common solution is found for all areas.
 
 ## See Also
 
-- [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
-- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]

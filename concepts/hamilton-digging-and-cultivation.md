@@ -73,23 +73,7 @@ rough surface also allows rain and frost to kill weeds and pests.
 Sandy and chalky soils crumble to a fine tillage more readily than
 heavy soils. The problem with light soils is that they drain easily,
 causing leaching of nutrients. To minimize this, keep the ground
-covered for winter by sowing a [[hamilton-green-manure-crops-and-cover-cropping]]
-in fall and digging it in shortly before sowing. This prevents
-nutrient loss and adds organic matter to the soil structure.
-
-## Digging for Drainage
-
-The most common reason for badly drained soil is a compacted impervious
-layer beneath the surface. This can often be solved by digging deeply
-to break up the compacted layer. Incorporating gravel and lots of
-organic matter helps raise cultivated areas. One or two bucketfuls
-each of gravel and organic matter per square yard should be sufficient.
-Improvement takes time, but growing plants on heavy soil itself helps
-improve drainage by opening up the soil.
-
-## When Not to Dig
-
-Digging is unnecessary if the correct [[hamilton-organic-soil-management]]
+covered for winter by sowing a [[hamilton-organic-soil-management]]
 methods are followed. Some organic gardeners advocate no-dig methods,
 where organic matter is applied as a surface mulch and left for
 earthworms to incorporate naturally. This approach works well on
@@ -109,11 +93,7 @@ ground.
 
 ## Summary
 
-Proper digging technique is fundamental to [[organic-soil-management]].
-Double digging prepares new ground by working organic matter deep into
-the soil profile, while annual single digging maintains soil structure.
-Heavy soils benefit from fall digging left rough over winter, while
-light soils need winter cover crops to prevent nutrient leaching. The
+Proper digging technique is fundamental to [[cover-crops]] to prevent nutrient leaching. The
 key principles are: never dig wet soil, use appropriately sized tools,
 work rhythmically without straining, and rotate digging areas across
 the garden over a five-year cycle. No-dig methods offer a viable

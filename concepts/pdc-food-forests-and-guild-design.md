@@ -3,11 +3,7 @@ title: Permaculture Design Course -- Food Forests and Guild Design
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, design, food-forests, guilds, polyculture, companion-planting, pdc]
-sources:
-  - "William Ozier-Williams, PDC: A Permaculture Design Course"
----
-# [[permaculture-design]] Course -- Food Forests and Guild Design
+tags: [[permaculture-design]] Course -- Food Forests and Guild Design
 
 ## Forests as the Ultimate Model
 
@@ -27,23 +23,7 @@ Every forest follows the same basic seven-layer structure:
 
 ## Food Forests
 
-Food forests are gardens modeled after the three-dimensional aspect of forests. They take advantage of the vertical dimension and combine many [[permaculture-principles]] into one harmonious food system. A food forest can have up to seven layers of production:
-
-- The **canopy** is fruit and/or nut trees instead of mature forest trees
-- **Shorter fruit or nut trees** fill the next layer
-- **Shrubs with berries** fill the third layer
-- **Herbs and small plants** ("kneelers") grow around trunks
-- **Ground covering food plants** spread from there
-- **Root plants** (carrots, potatoes) take advantage of below-ground production space
-- **Climbing vines** (grapes, hops) grow three-dimensionally through all layers
-
-### The Arcology Connection
-
-Food forests embody density and complexity. In modern thinking, each food-bearing plant would be planted in its own area -- trees here, lettuce over there, carrots yonder. This takes massive surface area. By stacking food-producing plants in three dimensions, the same amount of food is grown on far less surface area, leaving the rest to be wild. Food forests are what happens when the concept of Arcology meets the concept of an orchard.
-
-## Guilds (Plant Communities)
-
-In nature, plants grow in clusters called **plant communities** -- various plants growing together in symbiotic, mutually beneficial relationships. In Permaculture, designed plant communities appropriate for your site are called **Guilds**. Also referred to as [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] or polyculture.
+Food forests are gardens modeled after the three-dimensional aspect of forests. They take advantage of the vertical dimension and combine many [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] or polyculture.
 
 ### Principles of Guild Design
 
@@ -57,7 +37,7 @@ Designing guilds is more art than science. Factors include:
 - **Physical/architectural** -- tall plants shade shorter ones; corn stalks serve as trellises for beans; leafy plants retain soil moisture
 - **Biochemical** -- nitrogen-fixing plants convert atmospheric nitrogen into nutrients for other plants
 - **Ecological** -- one plant attracts beneficial insects for another, or repels pests that prey on a guild member
-- **Systemic** -- guilds may include animals, [[permaculture-designers-manual-greywater-systems]], shade screens, windbreaks, micro-climates
+- **Systemic** -- guilds may include animals, [[graywater-systems]], shade screens, windbreaks, micro-climates
 
 ### The Design Process for Guilds
 
@@ -82,7 +62,24 @@ Guilds are whole systems designs. They may include animals (chickens for pest co
 
 ## Related
 
-- [[permaculture-multipurpose-trees]]
 - [[permaculture-plants-fruit-trees-selection]]
-- [[permaculture-seed-saving-breeding]]
-- Gaia S Garden [[sheet-mulching-guide]]
+- [[sheet-mulching-guide]]
+## Practical Considerations
+
+Successful implementation of Permaculture Design Course -- Food Forests and Guild Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

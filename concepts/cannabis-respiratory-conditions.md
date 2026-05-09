@@ -92,50 +92,9 @@ Research on cannabis and pulmonary function has produced mixed results:
 
 ## Related
 
-- [[cannabis-asthma-research]]
 - [[cannabis-anti-inflammatory-applications]] -- anti-inflammatory mechanisms
-- [[cannabis-cardiovascular-health]] -- cardiovascular-respiratory connections
 - [[cannabis-endocannabinoid-system]] -- receptor biology
-- [[cannabis-therapeutic-index-overview]] -- evidence framework
-- cannabis respiratory conditions
-
-## Merged: Cannabis For Copd
-
-# Cannabis for COPD
-
-Chronic obstructive pulmonary disease (COPD) is a type of lung disease characterized by narrowing of the airways, which decreases the passage of gas exchange in and out of the lungs. The major culprit in orthodox medicine is cigarette smoking, with toxic gases producing initial low-grade inflammation that progresses to chronic bronchitis and emphysema.
-
-## Disease Progression
-
-Burned carbon deposits deep inside the lung cause slow destruction of alveoli, the lung structures that exchange gases with blood. This leads to further deterioration where even the slightest exertion causes shortness of breath. Symptoms include chronic coughing, exercise limitation, and progressive weight loss.
-
-## Evidence Base
-
-The Cannabis Health Index (CHI) rates the evidence for cannabis in COPD at a CHI value of 3, based on 2 studies reviewed. The evidence is limited but provides some important insights, particularly regarding the distinction between smoking cannabis alone versus combining it with tobacco.
-
-## Weight Gain and Exercise Improvement
-
-A 2005 study enrolled 18 COPD patients with secondary weight loss and limited exertion potential. Patients received twice daily orally administered oil containing between 3.3 and 4.2 mg THC. After 16 days, results indicated an average weight gain of 1.5 kg and a 36 percent average increase in walking distance.
-
-This is a significant achievement, especially when compared to orthodox treatment protocols. The dual benefit of weight gain and improved exercise capacity addresses two of the most challenging aspects of COPD management.
-
-## Cannabis Smoking Versus Tobacco
-
-Canadian scientists (2009) examined the effects of tobacco alone, tobacco with cannabis, and cannabis alone on COPD. The researchers concluded that smoking both tobacco and marijuana synergistically increased the risk of respiratory symptoms and COPD. However, smoking only marijuana was not associated with an increased risk of respiratory symptoms or COPD.
-
-This finding is significant because it distinguishes the respiratory risk of cannabis from tobacco and suggests that cannabis smoking alone does not carry the same COPD risk as tobacco smoking.
-
-## Anti-Inflammatory Mechanism
-
-COPD is fundamentally an inflammatory disease of the lungs. Cannabinoids, particularly CBD and THC, have demonstrated potent anti-inflammatory properties that may address the underlying inflammation driving COPD progression. CB2 receptors in lung tissue may mediate anti-inflammatory effects relevant to COPD pathology.
-
-The endocannabinoid system is present in lung tissue and airways, suggesting that cannabinoid-based treatments could modulate the inflammatory processes central to COPD.
-
-## Administration Method Considerations
-
-Given that COPD is a lung disease, smoking any substance is not ideal. The 2005 study demonstrating benefit used oral THC oil, which avoids respiratory irritation entirely. Vaporization may also be preferable to smoking as it produces fewer harmful byproducts.
-
-Oral administration of cannabis oil or THC capsules is likely the safest approach for COPD patients. See [[cannabis-administration-methods-comparison]] for a detailed comparison of delivery routes.
+- [[cannabis-administration-methods-comparison]] for a detailed comparison of delivery routes.
 
 ## Bronchodilator Properties
 

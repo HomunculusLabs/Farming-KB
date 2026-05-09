@@ -105,14 +105,7 @@ Dried specimens serve as physical vouchers for biodiversity studies. Most
 fleshy fungi can be air-dried, desiccated using silica gel, or freeze-dried.
 Freeze-dried specimens maintain shape and color better. After 5 to 6 years,
 cells of freeze-dried specimens may still be viable. Specimens are stored
-in [[fungal-biodiversity-herbarium-collections]] packets on
-acid-free sheets at 40 to 60% relative humidity.
-
-## DNA Banking
-
-Preserving fungal DNA extends culture collections into the molecular era.
-DNA from cultures or field specimens can be stored at -20 or -80 degrees
-Celsius for use in [[biodiversity-fungi-molecular-methods]]. DNA banking complements living collections by preserving
+in [[biodiversity-fungi-molecular-methods]]. DNA banking complements living collections by preserving
 genetic material from organisms that cannot be cultured, such as obligate
 biotrophs.
 
@@ -130,8 +123,6 @@ results recorded alongside preservation dates and replicate vial counts.
 
 ## See Also
 
-- [[biodiversity-fungal-culture-media]]
 - [[fungal-biodiversity-herbarium-collections]]
-- [[biodiversity-fungi-molecular-methods]]
 - [[biodiversity-fungi-conservation]]
 - [[strain-isolation-from-wild-specimens]]

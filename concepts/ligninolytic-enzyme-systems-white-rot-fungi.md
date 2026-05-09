@@ -3,7 +3,7 @@ title: Ligninolytic Enzyme Systems White Rot Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Ligninolytic Enzyme Systems of White-Rot Fungi
@@ -83,7 +83,7 @@ The non-specific nature of ligninolytic enzymes -- evolved to attack the random,
 - Pesticides and herbicides
 - Endocrine-disrupting chemicals
 
-See [[fungal-degradation-energetic-compounds-detailed]] and [[fungal-enzymatic-diversity-decomposition]] for specific applications.
+See [[fungal-enzymatic-diversity-decomposition]] for specific applications.
 
 ## Regulation of Ligninolytic Enzyme Production
 
@@ -106,12 +106,8 @@ Notable ligninolytic fungi include:
 
 ## Related Concepts
 
-- [[fungal-enzymatic-diversity-decomposition]]
 - [[fungal-enzyme-systems]]
-- [[fungal-decomposition-processes]]
-- [[fungal-enzymatic-diversity-decomposition]]
 - [[fungal-enzymatic-diversity-decomposition]]
 - [[fungal-bioremediation-organic-pollutants]]
-- [[fungal-degradation-of-pcbs-by-white-rot-fungi]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-single-cell-protein-production]]

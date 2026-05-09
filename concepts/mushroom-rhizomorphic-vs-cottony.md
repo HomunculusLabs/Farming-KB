@@ -1,7 +1,7 @@
 ---
 title: Rhizomorphic vs Cottony Mycelial Morphology
 created: 2026-04-28
-tags: [mycology, mycelium, strain-selection, Stamets, mushroom-cultivation]
+tags: [[mycology, mycelium, strain-selection, Stamets, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -140,11 +140,8 @@ transferred to a petri dish may produce both types: Stamets documents cases
 where the stringy sector formed abundant primordia while the cottony sector
 did not, a common occurrence in agar culture that reinforces the importance
 of morphology-based selection.
-
 ## Related Concepts
 
-- [[stamets-mycelial-morphology-strain-evaluation]]
 - [[stamets-spore-germination-and-tissue-culture]]
-- [[stamets-slant-culture-strain-preservation]]
 - [[mushroom-strain-selection-genetics]]
 - [[stamets-agar-media-preparation]]

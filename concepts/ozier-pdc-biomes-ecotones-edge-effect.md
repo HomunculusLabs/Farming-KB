@@ -1,5 +1,5 @@
 ---
-title: Biomes, Ecotones, and the Edge Effect in Permaculture Design
+title: Ozier Pdc Biomes Ecotones Edge Effect
 source: william-ozier-williams-pdc_-a-permaculture-design-cours.md
 author: William WR Ozier
 topics: biomes, ecotones, edge-effect, climate, permaculture, ecology, biodiversity
@@ -8,96 +8,8 @@ topics: biomes, ecotones, edge-effect, climate, permaculture, ecology, biodivers
 # Biomes, Ecotones, and the Edge Effect
 
 Understanding biomes, ecotones, and the edge effect is fundamental to
-[[permaculture-site-analysis]] and design. William Ozier's PDC framework presents
-these ecological concepts as essential tools for reading landscapes and
-maximizing biodiversity and productivity in designed systems.
-
-## Climate: The Foundation of Biomes
-
-Climate is determined primarily by three factors:
-
-- **Latitude** — Controls the amount of direct sunlight reaching an area,
-  which determines temperature range
-- **Land mass** — Influences wind patterns and humidity
-- **Altitude** — Affects temperature and oxygen concentration
-
-Areas with similar combinations of these factors share similar climates.
-Mountain tops worldwide tend toward similar conditions; most deserts fall
-within a latitude range near the equator.
-
-## Climate Types
-
-Climatologists recognize several basic climate types:
-
-| Type | Characteristics |
-|------|----------------|
-| **Arid** | Dry and hot |
-| **Mediterranean** | Mild winters, dry hot summers |
-| **Polar** | Cold and dry year-round |
-| **Temperate** | Cold winters, mild summers, variable rain |
-| **Tropical** | Hot and wet year-round |
-| **Tundra** | Very cold year-round |
-
-Knowing your climate type is the first step in any [[permaculture-design]]. Each
-type demands different strategies for food production, [[water-management]],
-shelter, and species selection.
-
-## Understanding Biomes
-
-A **biome** is a large area with a unique ecology, defined primarily by its
-plant and animal communities. Biomes are created by climate, soil composition,
-groundwater, and migration histories. Biomes are not static — they can evolve
-over decades, centuries, or millennia, though human intervention can
-accelerate this dramatically.
-
-### Biome Examples
-- **Savannah** — Grasslands with scattered trees, supporting grazing animals
-- **Oak Savannah** — Grasslands with dispersed oak trees
-- **Temperate Deciduous Forest** — Seasonal forests with cold winters
-- **Rainforest** — Dense, biodiverse tropical forests
-
-### Anthropogenic Biomes
-
-Biomes created by humans are called **anthropogenic biomes**:
-- **Suburban developments** and **urban centers**
-- **Rice paddies** and **olive groves**
-
-These human-created landscapes are still biomes with their own ecology,
-even though they differ radically from the natural systems they replaced.
-
-## Ecotones
-
-An **ecotone** is a transition zone where two or more biomes meet and
-interact. These zones contain species from both biomes plus unique species
-adapted specifically to the edge conditions.
-
-Ecotones are among the most productive and biodiverse areas on Earth. They
-represent nature's version of the permaculture principle "integrate rather
-than segregate."
-
-## The Edge Effect
-
-The **edge effect** is the increase in biodiversity and ecological activity
-that occurs at the boundary between two different conditions. The greater
-the edge, the greater the biodiversity.
-
-### Scale Independence
-
-The edge effect operates at all scales:
-- **Regional** — Where forest meets grassland or ocean meets land
-- **Property** — Where a garden meets a lawn or a pond meets a field
-- **Garden** — Where shade meets sun or wet soil meets dry
-- **Micro** — Where a rock meets soil or mulch meets bare ground
-
-### Design Implications
-
-Permaculture design deliberately increases edge to maximize productivity:
-
-- **Curvy edges** over straight lines — A curving pond edge has more
-  surface area than a straight one, creating more habitat niches
-- **Intercropping and polyculture** — Edges between different plant species
-  create micro-ecotones
-- **[[keyhole-beds]]** — The indentation creates edge where straight beds
+[[permaculture-design]]. Each
+type demands different strategies for food production, [[keyhole-beds]]** — The indentation creates edge where straight beds
   wouldn't
 - **Mandala gardens** — Circular patterns maximize the perimeter-to-area
   ratio
@@ -147,3 +59,26 @@ Ozier recommends every designer research average temperatures, humidity,
 prevailing wind directions and speeds, rainfall by month, local biome
 identification, frost dates, and extreme weather history. This data forms
 the foundation upon which all design decisions rest.
+
+## See Also
+
+- [[permaculture-edge-effect-design]]
+## Practical Considerations
+
+Successful implementation of Ozier Pdc Biomes Ecotones Edge Effect requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

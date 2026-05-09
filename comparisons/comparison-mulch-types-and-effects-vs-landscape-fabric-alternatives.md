@@ -20,31 +20,6 @@ how they complement each other, is essential for efficient no-till gardening.
 
 ## Mulch Types and Effects
 
-[[mulch-types-and-effects]]
-
-Organic mulches are divided into two broad categories based on their effect on
-soil biology. Green mulches (fresh grass clippings, green plant cuttings, alfalfa
-meal) have higher nitrogen content and moisture, favoring rapid bacterial
-colonization. Brown mulches (autumn leaves, wood chips, shredded bark, straw)
-have higher lignin content and lower moisture, supporting fungal dominance.
-
-The distinction matters because different crops thrive under different soil
-biology regimes. Vegetables and annuals prefer bacterial-dominated soils, so
-green mulches that are finely ground and incorporated work best for them.
-Perennials, trees, and shrubs prefer fungal-dominated soils, making coarse
-brown mulches left on the surface the better choice. Surface mulch tends to
-favor fungi since fungal hyphae can travel from soil up into the material more
-easily than bacteria can access it.
-
-Application depth is critical: 2-3 inches of mulch is ideal. Thicker layers
-block moisture and air exchange, potentially smothering mycorrhizal networks.
-Mulch should never be placed directly against plant stems or tree trunks, as
-this invites microbial decay of the plant tissue itself. A best practice is to
-lay compost down first, then cover with mulch, so compost organisms inoculate
-the mulch layer and accelerate decomposition.
-
-## Landscape Fabric Alternatives
-
 [[landscape-fabric-alternatives]]
 
 Landscape fabric is widely sold for weed suppression but has serious drawbacks
@@ -127,8 +102,6 @@ garden centers introduces chemicals that defeat the purpose of organic mulching
 
 ## See Also
 
-- [[chop-and-drop-mulching]]
 - [[sheet-mulching]]
-- [[mulching-guide]]
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-mulch-vs-living-mulch]]

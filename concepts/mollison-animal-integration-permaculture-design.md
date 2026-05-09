@@ -143,7 +143,9 @@ design, with strategies developed for each context.
 
 ## See Also
 
-- [[mollison-animal-integration-in-permaculture]]
 - [[permaculture-animal-integration-design]]
-- [[mollison-tropical-and-coastal-permaculture-design]]
 - [[mollison-designers-pattern-understanding-in-design]]
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

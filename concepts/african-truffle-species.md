@@ -74,7 +74,7 @@ In many African communities, truffles serve as both food and medicine. Tradition
 
 African truffle mycology is an emerging field with significant research needs. Many species are known only from initial descriptions, and their ecology, distribution, and conservation status are poorly understood. Climate change, desertification, and land-use change threaten truffle habitats across the continent, particularly in North Africa and the Sahel where desertification is advancing rapidly.
 
-International collaboration between African mycologists and research institutions in Europe, North America, and Asia is essential to advance understanding of African truffle diversity and to develop conservation and sustainable use strategies. See [[desert-truffles]] for detailed desert truffle information and [[fungal-diversity-deserts-arid-lands]] for fungal ecology in arid Africa.
+International collaboration between African mycologists and research institutions in Europe, North America, and Asia is essential to advance understanding of African truffle diversity and to develop conservation and sustainable use strategies. See [[fungal-diversity-deserts-arid-lands]] for fungal ecology in arid Africa.
 
 ## Practical Context
 African Truffle Species is best interpreted in relation to site goals, climate
@@ -96,18 +96,9 @@ are safer than whole-site changes because they reveal local constraints early.
 
 ## See Also
 
-- [[desert-truffles]]
-
 - [[truffle-guide]]
-
-- [[fungal-diversity-deserts-arid-lands]]
-
-## Related
 
 - [[ectomycorrhizal-ecology]]
 
-- [[mycorrhizal-fungi]]
-
-- [[ethnomycology]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[microfungal-species-diversity-large-areas]]

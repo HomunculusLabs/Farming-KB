@@ -117,12 +117,8 @@ The texture is crisp and slightly crunchy, with a mild, slightly sweet flavor. E
 
 ## See Also
 
-- [[enoki-cultivation]]
 - [[enoki-cultivation-guide]]
-- [[enoki-mushroom-cultivation]]
 - [[medicinal-mushroom-guide-enoki]]
-- [[mushroom-cultivator-enoki-cultivation]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-indoor-growing-environment]]

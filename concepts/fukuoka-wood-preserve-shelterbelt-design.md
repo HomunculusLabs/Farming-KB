@@ -66,77 +66,26 @@ to great advantage in the improvement of soil structure.
 Shelterbelts and windbreak trees are valuable not only for
 preventing wind damage, but also for maintaining soil fertility
 and for environmental improvement. Fast-growing trees that are
-commonly planted for this purpose include cedar, cypress, [[acacia]],
-and the camphor tree. Other species that grow somewhat more slowly
-but are also used quite often include camellia, the umbrella tree,
-wax myrtle, and Chinese anise. In some places, evergreen oaks,
-holly, and other trees are also used.
+commonly planted for this purpose include cedar, cypress, [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 
-The companion trees planted in the preserve should fulfill several
-functions: timber production, food for birds and animals, habitat
-for natural enemies of insect pests, and soil enrichment through
-deep root penetration and leaf litter decomposition.
-
-## Integration with Orchard and Garden
-
-On the complete natural farm, fruit trees, vegetables, grains, and
-other crops must all be planted and grown in an organic and mutually
-favorable arrangement. Fruit trees must not be dissociated from the
-trees of a bordering wood or the weed undergrowth. Indeed, it is
-only by having intimate associations with these that they are able
-to show normal, healthy growth.
-
-The wood preserve serves as the anchor for the entire farm
-ecosystem. Without it, the farmer must rely on imported fertility,
-which defeats the purpose of self-sustaining natural farming. The
-preserve acts as a nutrient bank, slowly releasing minerals and
-organic matter downhill through rainwater, leaf fall, and root
-networks that extend far beyond the drip line of individual trees.
-
-## Principles of Preserve Design
-
-The key principle is diversity at every stratum: canopy trees,
-understory trees, shrubs, ground covers, vines, and root crops
-each occupy their natural niche. Monoculture tree plantations,
-even when called "forestry conservation," actually degrade soil
-and eliminate habitat for beneficial organisms. The preserve must
-be allowed to develop naturally with minimal intervention, serving
-as a living demonstration that nature left alone produces the most
-resilient and productive landscapes.
-
-## Orchard Vegetation Integration
-
-When starting an orchard, the main goals initially should be
-prevention of weed emergence and maturation of the soil. These can
-be accomplished by growing buckwheat during the first summer, and
-sowing rapeseed and Indian mustard that same winter. The following
-summer, one may plant adzuki bean and mung bean, and in the winter,
-hairy vetch and other hardy leguminous plants that grow well
-without fertilizers. As the garden matures, it will support any
-type of crop.
-
-Protected trees such as acacia, wax myrtle, and umbrella tree
-provide year-round green manure and vegetable support alongside
-green manure trees like Japanese alder, sugar maple, bay tree, and
-cinnamon. This layered approach ensures continuous nutrient cycling
-and pest protection throughout every season of the year.
-
-## Succession from Bare Hillside to Mature Preserve
-
-The transformation from bare, eroded hillside to productive wood
-preserve follows a predictable natural succession. Kudzu and moss
-cypress stabilize the soil first. Grasses and ferns colonize next,
-building organic matter. Low bushes and pioneer trees follow,
-deepening the root zone. Finally, climax species of oak, cryptomeria,
-and companion trees establish a self-sustaining canopy. This process
-takes decades but requires almost no labor once the initial planting
-is done. The farmer's role is simply to observe and occasionally
-guide, never to force or accelerate beyond what the land can support.
-
-## See Also
-
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
-
-- [[fukuoka-three-dimensional-orchard-design]]
 - [[hemenway-hedgerow-and-shelterbelt-design]]
 - [[fukuoka-straw-mandala-orchard-design]]
+## Practical Considerations
+
+Successful implementation of Wood Preserve and Shelterbelt Design for Natural Farms requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

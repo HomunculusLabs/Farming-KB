@@ -38,7 +38,7 @@ The Grow Biointensive method (originally called the "Biointensive method" and ba
 
 5. **Carbon farming**: Devoting approximately 60% of growing area to crops that produce significant amounts of carbon (compost material) to maintain soil fertility.
 
-6. **Calorie farming**: Growing calorie-dense root crops and grains to meet dietary needs efficiently. Key crops include potato, [[sweet-potato-guide]], [[garlic-growing-guide]], [[permaculture-jerusalem-artichoke]], wheat, rye, [[barley-varieties-for-brewing]], and quinoa.
+6. **Calorie farming**: Growing calorie-dense root crops and grains to meet dietary needs efficiently. Key crops include potato, [[garlic-growing-guide]], [[barley-varieties-for-brewing]], and quinoa.
 
 7. **Open-pollinated seeds**: Using open-pollinated (heritage) varieties rather than hybrids, enabling farmers to save their own seed and maintain genetic diversity.
 
@@ -83,39 +83,7 @@ Key soil management principles include:
 
 A central goal of Jeavons's work is enabling gardeners to grow a complete, nutritionally balanced diet from a minimal land area. His research has identified the most space-efficient crops for meeting human nutritional needs:
 
-- **Calorie crops**: potato (highest calorie yield per unit area), [[sweet-potato-guide]], [[garlic-growing-guide]], [[permaculture-jerusalem-artichoke]], burdock, and various root crops.
-- **Calorie-dense grains**: wheat, rye, [[barley-varieties-for-brewing]], oats, corn, amaranth, and quinoa.
-- **Protein crops**: [[soybean-oil-wastewater-fungi]], fava bean, garbanzo bean, lentil, pea, and sunflower seeds.
-- **Vitamin and mineral crops**: A diverse range of leafy greens, root vegetables, and fruits.
-
-Jeavons calculates that a complete diet for one person can theoretically be grown on as little as 2,000–4,000 square feet (approximately 185–370 square meters) using biointensive methods, though this requires significant skill and experience to achieve.
-
-## Research Methodology
-
-Ecology Action's research is distinguished by:
-
-- **Detailed record-keeping**: Decades of data on yields, inputs, and soil health parameters.
-- **Replicated trials**: Systematic testing of varieties, spacings, and techniques.
-- **Sustainability calculations**: Tracking the full resource budget of the farming system, including calories produced vs. calories invested.
-- **Open sharing**: All research findings are published and made freely available to farmers and gardeners.
-
-The research farm in Willits, California, maintains ongoing trials of over 100 crop varieties and publishes regular research reports documenting yields, sustainability indicators, and best practices.
-
-## Criticisms and Limitations
-
-The biointensive method has faced some criticism regarding:
-
-- The significant labor required for double-digging, especially in the initial years
-- Challenges in scaling the method beyond small plots
-- The difficulty of growing complete protein sources in some climates
-- The learning curve associated with mastering the integrated system
-
-Jeavons has addressed these concerns through ongoing research into reduced-tillage approaches, improved tools, and regionally adapted varieties. Ecology Action has also developed simplified teaching methods to make the system more accessible to beginning gardeners.
-
-## See Also
-
-- [[eliot-coleman]] — Four-season organic farming
-- [[masanobu-fukuoka]] — Natural farming
+- **Calorie crops**: potato (highest calorie yield per unit area), [[garlic-growing-guide]], [[barley-varieties-for-brewing]], oats, corn, amaranth, and quinoa.
+- **Protein crops**: [[eliot-coleman]] — Four-season organic farming
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] — Permaculture design
-- [[elaine-ingham]] — Soil food web ecology
 - [[allan-savory]] — Holistic grazing management

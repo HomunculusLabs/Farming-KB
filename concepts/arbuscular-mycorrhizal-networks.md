@@ -79,14 +79,7 @@ Amaranthus and Perry (1989) showed Douglas-fir survival was 90% in partially cle
 
 ## See Also
 
-- [[mycorrhizal-networks]] for network-level processes
 - [[mycorrhizal-plant-signaling]] for communication mechanisms
-- [[fungal-symbiosis-types]] for comparison with other mycorrhizal types
-
-## Related
-
 - [[fungal-chromogens-and-color-change]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[arbuscular-mycorrhizal-colonization-patterns]]
-- [[mycorrhizal-networks]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]

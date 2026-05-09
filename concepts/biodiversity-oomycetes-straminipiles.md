@@ -74,60 +74,12 @@ The Saprolegniomycetidae (water molds) are primarily aquatic
 organisms found in freshwater habitats. They are important
 decomposers of dead organic matter in water and can also act as
 opportunistic parasites of fish and other aquatic organisms. In
-[[biodiversity-fungi-aquatic-environments]],
-water molds contribute to nutrient cycling and energy flow.
-
-## Relationship to True Fungi
-
-Although oomycetes resemble true fungi in their filamentous growth
-habit and absorptive nutrition, they differ in several fundamental
-respects. Oomycetes have cell walls composed primarily of cellulose
-and beta-glucans rather than chitin. Their diploid vegetative phase
-contrasts with the haploid vegetative phase of most true fungi.
-Their zoospores bear two flagella of different types (heterokont),
-while true fungi lack flagellated cells entirely.
-
-These differences reflect the deep evolutionary separation between
-oomycetes (stramenopiles) and the true Fungi. The convergent
-evolution of filamentous growth and absorptive nutrition in these
-two lineages represents one of the most striking examples of
-morphological convergence in eukaryotic microorganisms.
-
-## Plasmodiophorales
-
-The Plasmodiophorales are plant parasites whose life cycles
-include multinucleate plasmodia. Although studied historically by
-mycologists, several unique characters set the group apart from
-the true fungi, including cruciform nuclear division and mode of
-penetration during infection. Phylogenetic analyses suggest the
-organisms are more closely related to alveolate protozoans than
-to any slime-mold groups or Fungi. More recently they have been
-included as basal members of the Cercozoa, a protozoan phylum.
-
-## Study Methods
-
-Culture media specifically formulated for oomycetes are available,
-such as A/T Oomycete Medium (modified from Newall and Fell), which
-contains V8 juice supplemented with amphotericin-B, thiabendazole,
-chloramphenicol, and ampicillin to suppress bacterial and fungal
-contamination while supporting oomycete growth. These selective
-media are essential for isolating oomycetes from environmental
-samples containing diverse microbial communities.
-
-## Biogeography and Diversity
-
-Oomycetes are distributed worldwide in aquatic and terrestrial
-environments. Their diversity is likely vastly underestimated,
-as many species are difficult to detect without specialized
-isolation techniques. Tropical regions, in particular, are
-poorly surveyed for oomycete diversity. In [[biodiversity-fungi-plant-mutualisms]],
+[[biodiversity-fungi-plant-mutualisms]],
 the economic impact of oomycete diseases drives much of the
 research on this group.
 
 ## Related Topics
 
-- [[biodiversity-fungi-aquatic-environments]]
 - [[biodiversity-fungi-plant-pathogens]]
-- [[biodiversity-chytridiomycota-diversity]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungal-culture-media]]

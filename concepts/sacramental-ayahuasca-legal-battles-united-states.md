@@ -140,10 +140,6 @@ rules and are open to people of any background. This openness created
 complications for the DEA, which began redrafting peyote regulations in 2000 by
 ## See Also
 
-- [[alan-shoemaker-ayahuasca-legal-peru]]
-
 - [[entheogenic-syncretic-churches-brazil]] for the Brazilian ayahuasca churches
-- [[metzner-four-paradigms-psychedelic-healing]] for Metzner's framework
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for hybrid rituals
-- [[metzner-ayahuasca-therapeutic-potential]] for therapeutic research
 - [[gottlieb-peyote-legal-status-and-conservation]] for peyote legal issues

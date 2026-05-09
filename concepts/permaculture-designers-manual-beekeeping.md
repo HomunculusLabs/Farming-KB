@@ -3,21 +3,7 @@ title: Beekeeping
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Beekeeping
-#permaculture #bees #honey #pollination #forage
-
-Updated: 2026-04-18
-
-> From: Bill Mollison, *Permaculture: A Designers Manual* (1988), Chapter 12, Section 12.11.
-
-## Overview
-
-Bees produce several valuable and unique products: honey, wax, pollen, propolis, and royal jelly. They also carry out the essential service of [[permaculture-designers-manual-crop-pollination]] for a wide variety of food, oil, fruit, and seed crops such as mustard, clovers, buckwheat, most smallfruit, apples, and grain legumes.
+tags: [[permaculture-designers-manual-crop-pollination]] for a wide variety of food, oil, fruit, and seed crops such as mustard, clovers, buckwheat, most smallfruit, apples, and grain legumes.
 
 ## Bee Range
 
@@ -93,11 +79,7 @@ Crops within a mile of hives will out-yield crops in bee-deficient areas by a fa
 
 ## See Also
 
-- [[permaculture-designers-manual-crop-pollination]]
 - [[permaculture-designers-manual-windbreak-species]]
-- [[permaculture-designers-manual-food-forest-guilds]]
 - [[permaculture-designers-manual-small-animals]]
-- [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
-- [[permaculture-designers-manual-cold-climate-design]]
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]

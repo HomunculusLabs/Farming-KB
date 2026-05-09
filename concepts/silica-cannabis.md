@@ -41,23 +41,7 @@ and increase heat and drought tolerance.
 ### Structural Strength
 
 Silica-fortified cannabis develops thicker, stronger stems and branches. This is
-particularly valuable during [[flowering-phase-cannabis]] when bud weight increases
-rapidly. Stronger branches are less likely to bend or break under the weight of dense
-colas, reducing the need for staking or trellising.
-
-### Pest and Disease Resistance
-
-The silica layer on leaf surfaces acts as a physical deterrent to piercing-sucking
-insects and fungal pathogens. Thicker cell walls are harder for pathogens to penetrate.
-Growers using silica supplements often report reduced incidence of powdery mildew and
-botrytis. Pests and diseases have a difficult time penetrating plants that are sprayed
-with a silicon-based repellent/insecticide.
-
-### Environmental Stress Tolerance
-
-Silicon-enhanced plants cope better with heat stress, drought conditions, and high light
-intensity. The strengthened cuticle reduces water loss through
-[[stomata-transpiration-and-plant-water-regulation]], helping plants maintain turgor
+particularly valuable during [[stomata-transpiration-and-plant-water-regulation]], helping plants maintain turgor
 during hot periods.
 
 ### Improved Nutrient Uptake
@@ -90,47 +74,10 @@ growing. It is highly soluble and provides both silicon and potassium. Potassium
 silicate is alkaline and will raise the pH of nutrient solutions -- this must be
 accounted for when managing [[ph-management-cannabis]].
 
-### Silicic Acid
-
-Silicic acid (monosilicic acid) is the plant-available form of silicon. Some
-commercial products provide pre-converted silicic acid, which is immediately available
-to plants without requiring conversion. Silicic acid products typically have less impact
-on pH than potassium silicate.
-
-### Diatomaceous Earth
-
-Diatomaceous earth (DE) is composed of fossilized diatoms and contains amorphous
-silicon dioxide -- fossilized silica-shell remains of tiny one-celled creatures called
-diatoms. It can be mixed into soil or applied as a foliar spray. DE also has
-insecticidal properties when used as a physical barrier. However, be aware that
-chemically treated and heated DE contains crystalline silica that is very hazardous if
-inhaled.
-
-### Natural Sources
-
-Clay minerals, feldspar, and certain rock dusts contain silicon that slowly becomes
-available in soil over time. These are more relevant for outdoor growing and long-term
-soil building.
-
-## Application
-
-Silica supplements should be added to the nutrient solution or applied as a foliar
-spray. When using potassium silicate, add it before adjusting pH, as it will raise pH
-significantly. Follow manufacturer recommendations for dosage rates. Consistent
-application throughout the grow cycle provides the best results.
-
-## Silicon and pH
-
-Because potassium silicate is highly alkaline, adding it to nutrient solutions
-increases pH. Always add silica products first, then adjust pH down with a "pH Down"
-product. Failure to account for this pH shift can push nutrient solution pH outside the
-optimal range for [[ph-management-cannabis]].
-
 ## Interaction with Other Nutrients
 
 Silicon supplementation may increase the plant's demand for other nutrients due to
-accelerated growth. Monitor [[ec-tds-cannabis]] to ensure nutrient levels remain
-adequate. Silicon works synergistically with [[cal-mag-supplementation]] to build
+accelerated growth. Monitor [[cal-mag-supplementation]] to build
 strong cell walls. Silicon assists in keeping iron and manganese levels consistent
 in plant tissue.
 
@@ -144,6 +91,5 @@ operations.
 
 ## See Also
 
-- [[cal-mag-supplementation]] -- complementary cell wall strengthening nutrients
 - [[ph-management-cannabis]] -- pH adjustment when using silica
 - [[ec-tds-cannabis]] -- monitoring nutrient concentration with silica

@@ -116,12 +116,8 @@ Mescaline is classified as a Schedule I controlled substance under the United Na
 
 ## See Also
 
-- [[trichocereus-pachanoi]]
 - [[trichocereus-bridgesii]]
-- [[entheogen-trichocereus-genus-mescaline-cacti]]
-
 - [[trichocereus-pachanoi]]
-- [[trichocereus-bridgesii]]
 - [[lophophora-williamsii]]
 - [[mescaline-entity]]
 - Brugmansia

@@ -16,25 +16,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, N-ethyl-N-isopropyl substituted
 
-- Source: [[tihkal-introduction-and-methodology]]
-
-## Dosage and Duration
-
-- Dosage: 24-40 mg orally
-
-- Duration: 4-6 hours
-
-- Active routes: oral
-
-## Qualitative Effects
-
-At 24 mg: Something strange — feeling urpy but simultaneously horny. The
-two sensations do not integrate. The experience ends abruptly with a return
-to baseline.
-
-At 40 mg: Some similarities with [[det-entity-tihkal]] and [[5-meo-mipt-entity-tihkal]]
-— not too pleasant with somewhat dysphoric components and visual effects
-in the background. A "little elephant" effect reminiscent of [[5-meo-dmt-entity-tihkal]].
+- Source: [[det-entity-tihkal]] and [[5-meo-dmt-entity-tihkal]].
 Another 40 mg report notes sparkling and an unsure stomach, plus remarkable
 sexual functionality despite the experience not feeling erotic. Described
 as "barely plus 1" with a diuretic component.

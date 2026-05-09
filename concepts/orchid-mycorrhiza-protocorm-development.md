@@ -88,11 +88,7 @@ Some orchid species have abandoned photosynthesis entirely and depend completely
 
 ## See Also
 
-- [[ericoid-and-orchid-mycorrhizae]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
-- [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[siderophores-mycorrhizal-fungi]]
-- [[dark-septate-endophytes]]
 - [[mycorrhizal-plant-signaling]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[mycorrhizal-networks-common-mycelial-network]]

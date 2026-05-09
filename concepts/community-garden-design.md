@@ -121,15 +121,10 @@ Primarily serves as a teaching garden with classes, workshops, and tours. Often 
 
 ## See Also
 
-- [[permaculture-community-building]]
 - [[permaculture-community-design]]
-- [[permaculture-community-resilience]]
 - [[permaculture-intentional-community-design]]
-- [[urban-permaculture-design]]
 - [[urban-permaculture-productive-yards]]
-- [[urban-farming-methods]]
 - [[permaculture-village-design]]
-- [[permaculture-social-design]]
 - [[holmgren-permaculture-village-and-community-design]]
 
 ## Source
@@ -138,4 +133,4 @@ Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*; Bill Molliso
 
 ## Related
 
-- [[urban-permaculture-and-guerrilla-gardening]]
+- [[urban-guerrilla-gardening]]

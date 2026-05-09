@@ -3,16 +3,7 @@ title: Antiviral Properties of Mushrooms
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
-
-## Overview
-
-Mushrooms are being actively explored by virologists as new sources of antiviral medicines. Stamets identified at least 13 species with direct antiviral activity against HIV, herpes, influenza, and other viruses. Mushrooms offer protection from infectious diseases through three mechanisms: direct antimicrobial agents, host-mediated immune response enhancement, and mycofiltration to reduce environmental pathogen loads. See also [[medicinal-mushroom-extraction-preparation]], [[ganoderma-lucidum-reishi-comprehensive-profile]], and [[turkey-tail-trametes-versicolor]].
+tags: [[medicinal-mushroom-extraction-preparation]], [[turkey-tail-trametes-versicolor]].
 
 ## Species with Direct Antiviral Activity
 
@@ -83,15 +74,10 @@ Several species — oyster, shiitake, maitake, turkey tails, and other polypores
 
 ## Related
 
-- [[nutritional-properties-mushrooms]] Topics
-
 - [[medicinal-mushroom-extraction-preparation]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[maitake-grifola-frondosa-comprehensive-profile]]
-- [[turkey-tail-trametes-versicolor]]
 - [[chaga-inonotus-obliquus-medicinal-profile]]
 - mycoremediation
 - mycorestoration
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[agrocybe-aegerita-pioppino-medicinal-profile]]
 - [[medicinal-mushroom-antimicrobial-antiviral-research]]

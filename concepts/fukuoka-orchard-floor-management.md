@@ -56,11 +56,7 @@ Chickens run free through the orchard, performing multiple functions: pest insec
 
 ## Why a Ground Cover Matters
 
-Fukuoka explained that without grasses growing over the surface of the ground, rainwater would wash away part of the topsoil each year. "In twenty to thirty years, the topsoil would wash entirely away, reducing soil fertility to essentially zero." The ground cover in his orchard serves as the primary mechanism for [[fukuoka-natural-soil-fertility]] without imported fertilizers. Deep root penetration from grasses and green manure crops works the soil down to twelve inches or more, far deeper than any plow could reach.
-
-## The Three-Dimensional Orchard
-
-Fukuoka's orchard design is inherently three-dimensional, with multiple layers of vegetation occupying different vertical niches. Tall protection trees form the canopy, fruit trees occupy the mid-level, ground covers and vegetables fill the understory, and root crops work the soil below. This multi-strata approach mirrors natural forest ecosystems and anticipates modern [[permaculture-food-forest-design-principles]]. Each layer contributes organic matter, moderates microclimate, and supports beneficial insect populations.
+Fukuoka explained that without grasses growing over the surface of the ground, rainwater would wash away part of the topsoil each year. "In twenty to thirty years, the topsoil would wash entirely away, reducing soil fertility to essentially zero." The ground cover in his orchard serves as the primary mechanism for [[permaculture-food-forest-design-principles]]. Each layer contributes organic matter, moderates microclimate, and supports beneficial insect populations.
 
 ## Building Soil Without Fertilizers
 
@@ -76,11 +72,26 @@ All organic material produced in the orchard stays in the orchard. Leaves, prune
 
 ## See Also
 
-- [[fukuoka-weed-ecology]] — the theory behind beneficial ground covers
 - [[fukuoka-natural-fertility-cycle]] — how orchard floors build soil
-- [[permaculture-food-forest-design-principles]] — modern agroforestry approaches
 - [[fukuoka-rice-barley-dual-culture]] — Fukuoka's grain production method
-- [[no-pruning-fruit-trees]] — Fukuoka's approach to tree shape
 - [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+## Practical Considerations
+
+Successful implementation of Orchard Floor Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

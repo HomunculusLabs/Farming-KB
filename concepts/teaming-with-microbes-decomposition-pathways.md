@@ -9,11 +9,7 @@ sources:
 ---
 
 Decomposition is the process by which organic matter is broken down into
-simpler compounds, ultimately forming [[fungal-roles-soil-food-webs]]
-and releasing nutrients for plant uptake. Different plant compounds
-require different organisms and enzymatic pathways for decomposition.
-Understanding these pathways is central to the
-[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
+simpler compounds, ultimately forming [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
 
 ## The Hierarchy of Decomposability
 
@@ -25,10 +21,7 @@ The general order from easiest to most resistant is:
 2. **Proteins and amino acids**: Rapidly decomposed by many organisms
 3. **Hemicellulose**: Moderately resistant polysaccharide; decomposed
    during thermophilic composting
-4. **[[fungal-cellulose-decomposition-fungal-enzymes]]**: Straight chains of
-   glucose; requires specific enzymes (cellulases) but is abundant in
-   all plant matter
-5. **[[fungal-decomposition-ecology]]**: Complex,
+4. **[[fungal-decomposition-ecology]]**: Complex,
    three-dimensional polymer that binds and protects cellulose; the
    most resistant plant component
 6. **Cutin, waxes, and suberin**: Protective surface coatings on
@@ -80,70 +73,8 @@ cellulose.
 
 ### Actinomycetes
 
-[[teaming-with-microbes-overview]] (chain-like
-bacteria that resemble fungi) play a major role in lignin decomposition
-during the later stages of composting. Their continued attack on
-resistant plant remnants produces the characteristic earthy smell of
-good compost and soil.
-
-## Chitin Decomposition
-
-Chitin is a structural polysaccharide found in fungal cell walls, insect
-exoskeletons, and crustacean shells. It is a polymer of N-acetylglucosamine.
-
 [[teaming-with-microbes-overview]] are particularly
 adept at decaying chitin. When arthropods molt or die, their chitinous
 exoskeletons become food for these specialized bacteria. The breakdown
 of chitin releases nitrogen back into the soil, contributing to the
-[[teaming-with-microbes-mineralization-and-immobilization]]
-cycle. Some gardeners deliberately add chitin sources (crab shells,
-shrimp shells) to suppress pathogenic fungi, since the actinomycetes
-stimulated by chitin decomposition also produce antifungal compounds.
-
-## Cutin, Waxes, and Suberin
-
-These protective coatings are the outermost barriers of plants:
-
-- **Cutin**: Waxy polyester coating on leaves and stems
-- **Suberin**: Waxy material in cork cells of bark and root endodermis
-- **Waxes**: Long-chain hydrocarbons on leaf surfaces
-
-Fungi, particularly those that penetrate hard surfaces through apical
-growth, are the primary decomposers of these resistant materials. Some
-fungi can even dissolve the cuticle and cell walls of living plants --
-the same capability that makes them effective decomposers also makes
-them potential pathogens.
-
-## Tannins and Phenols
-
-Tannins are secondary plant compounds that bind proteins and inhibit
-enzymatic activity. They are particularly concentrated in oak leaves,
-pine needles, and certain other plant materials. Phenols are aromatic
-compounds that can be toxic to microorganisms at high concentrations.
-
-These compounds slow decomposition significantly. Materials high in
-tannins (oak leaves, conifer needles) create the acidic, slow-decomposing
-litter layers characteristic of forest floors. Fungi are more tolerant
-of tannins than bacteria, which is one reason forest soils are fungally
-dominated.
-
-## Composting as Managed Decomposition
-
-Compost provides a controlled window into decomposition pathways. The
-three stages of composting mirror the ecological succession of
-decomposers:
-
-### Stage 1: Mesophilic (68-104F)
-Bacteria begin depolymerizing cellulose into glucose chains. Brown rot
-fungi and certain Bacillus and Heliospirillum species attack resistant
-materials and produce heat-resistant endospores.
-
-### Stage 2: Thermophilic (104-150F)
-Complex carbohydrates are fully broken down. Hemicelluloses are decayed.
-Additional bacteria (Arthrobacter, Pseudomonas, Streptomyces and other
-actinomycetes) and more fungi join the process. High temperatures kill
-pathogens and weed seeds.
-
-### Stage 3: Maturation (cooling)
-Lignin decomposition is completed by actinomycetes and basidiomycetes.
-Physical decomposers ([[teaming-with-microbes-earthworm-ecology-and-vermicomposting]],
+[[teaming-with-microbes-earthworm-ecology-and-vermicomposting]],

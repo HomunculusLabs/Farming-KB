@@ -75,13 +75,9 @@ Psychosomatic research suggests mind-body connections in arthritis:
 
 ## See Also
 
-- [[cannabis-for-rheumatoid-arthritis]]
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-for-inflammatory-conditions]]
 - [[cannabis-chronic-pain-management]]
-- [[cannabis-for-chronic-pain]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-health-index]]
 
 ## Source

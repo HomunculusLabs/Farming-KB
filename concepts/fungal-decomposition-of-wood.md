@@ -3,13 +3,7 @@ title: Fungal Decomposition of Wood
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
----
-# Fungal Decomposition of Wood
-
-Fungi are the primary decomposers of wood on Earth. Through extracellular enzymes, they dismantle lignin and cellulose — the two most abundant organic polymers on the planet — recycling carbon, hydrogen, nitrogen, phosphorus, and minerals into nutrients for living organisms. From *Mycelium Running* by [[stamets-mycoremediation-principles]].
+tags: [[stamets-mycoremediation-principles]].
 
 ## Overview
 
@@ -96,10 +90,7 @@ Select saprophytic mushrooms can defend forests from parasitic blights like *Arm
 
 ## See Also
 
-- [[saprotrophic-fungi]] — comprehensive saprotrophic fungi guide
 - [[fungal-ecology]] — broader fungal ecology overview
-- [[the-soil-food-web]] — forest floor decomposition
 - [[cotter-mycoremediation-overview]] — using decomposition for pollution cleanup
-- [[mycoforestry-applications]] — applied forest mycology
 - [[mushroom-species-guide]] — cultivation parameters by species
 - [[fungal-wood-decomposition-spatial-variation]] — geographic and microhabitat factors

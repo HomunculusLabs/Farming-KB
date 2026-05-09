@@ -122,10 +122,7 @@ Common cultivars include 'Common' (standard green), 'Forescate' (deep rose flowe
 ## See Also
 
 - [[allium-sativum-entity]]
-- [[borago-officinalis]]
 - [[ocimum-basilicum]]
-- [[thymus-vulgaris-entity]]
 - [[rosmarinus-officinalis-entity]]
-- [[coriandrum-sativum]]
 - [[permaculture]]
 - [[urtica-dioica]]

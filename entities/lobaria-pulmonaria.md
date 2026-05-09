@@ -42,19 +42,7 @@ The lobe margins are typically rounded and bear short, hair-like structures (cil
 
 The common name "lung lichen" derives from the resemblance of its thallus surface to lung tissue.
 
-Historically the species was used in [[herbal-medicine]] for respiratory ailments based on the doctrine of signatures.
-
-The lower surface is pale with a network of raised veins and scattered rhizines.
-
-## Triple Symbiosis
-
-Lobaria pulmonaria is a cephalodiate lichen, meaning it maintains a triple symbiosis involving three partners:
-
-- The dominant fungal mycobiont (an ascomycete)
-- A green algal photobiont (typically *Dictyochloropsis reticulata*) providing fixed carbon through photosynthesis
-- A cyanobacterial partner (typically *Nostoc* spp.) housed in specialized cephalodia structures that fix atmospheric nitrogen
-
-In cephalodiate [[lichens]], the fungal partner creates microaerobic conditions around the cyanobacterial colony.
+Historically the species was used in [[lichens]], the fungal partner creates microaerobic conditions around the cyanobacterial colony.
 
 This results in increased heterocyst frequencies and thus enhanced nitrogen fixation compared with the free-living state.
 
@@ -70,63 +58,24 @@ Its nitrogen-fixing capability provides a significant input of biologically avai
 
 The species also provides microhabitat for invertebrates and retains moisture in the forest canopy.
 
-Its thalli support diverse communities of [[lichenicolous-fungi]] and other microorganisms.
-
-The decomposing thalli contribute to soil organic matter and influence forest floor chemistry.
-
-## Bioindicator Value
-
-L. pulmonaria is widely recognized as a bioindicator of forest continuity and air quality.
-
-The species is sensitive to air pollution, particularly sulphur dioxide and acid rain.
-
-Its presence indicates relatively clean air.
-
-It is also associated with old-growth forest conditions, requiring the microclimate stability, substrate availability, and dispersal opportunities provided by continuous forest cover.
-
-The decline of L. pulmonaria in managed forests has been documented across Europe and North America.
-
-## Distribution and Conservation
-
-L. pulmonaria is broadly distributed across temperate and boreal regions of the Northern Hemisphere.
-
-It is also found in montane tropical forests.
-
-However, populations have declined significantly in many areas due to:
-
-- Habitat loss and forest fragmentation
-- Air pollution (particularly sulphur dioxide)
-- Forest management practices that remove old trees
-
-The species requires specific conditions including high humidity, moderate light levels, and the presence of suitable substrate (typically bark of mature trees).
-
-Conservation efforts for L. pulmonaria often focus on maintaining old-growth forest reserves and reducing air pollution.
-
-## Water Relations
-
-Like other lichen-forming fungi, L. pulmonaria exhibits poikilohydric water relations.
-
-It relies on atmospheric moisture rather than vascular tissue for hydration.
-
-Desiccated thalli can survive temperature extremes in a dormant state and resume metabolic activity upon rehydration.
-
-The species is adapted to continuous wetting and drying cycles but cannot survive under continuously moist conditions at elevated temperatures.
-
-This sensitivity to continuous moisture is a key constraint on its distribution and abundance.
-
-## Nitrogen Fixation Rates
-
-The cyanobacterial partner in L. pulmonaria fixes atmospheric nitrogen at rates that vary with environmental conditions.
-
-Moisture, light, and temperature all influence nitrogenase activity.
-
-Nitrogen fixation rates are typically highest under moist, warm conditions with moderate light.
-
-The fixed nitrogen is released slowly through leaching and decomposition of lichen thalli.
-
-This slow-release nitrogen input is particularly important in old-growth forests where other nitrogen sources may be limited.
-
-## See Also
-
-- [[xanthoria-parietina]] for another foliose lichen
+Its thalli support diverse communities of [[xanthoria-parietina]] for another foliose lichen
 - [[peltigera-canina]] for another lichen with nitrogen-fixing capability
+## Practical Considerations
+
+Successful implementation of Lobaria pulmonaria requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

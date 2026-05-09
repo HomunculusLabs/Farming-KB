@@ -9,7 +9,7 @@ sources: []
 
 # Aquaponics Fish Species
 
-Choosing the right fish species is critical to [[aquaponics]] system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop.
+Choosing the right fish species is critical to aquaponics system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop.
 
 ## Tilapia (Oreochromis spp.)
 

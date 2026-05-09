@@ -1,7 +1,7 @@
 ---
 title: Oyster Mushroom Species
 created: 2026-04-28
-tags: [mycology, taxonomy, cultivation, oyster-mushroom]
+tags: [[mycology, taxonomy, cultivation, oyster-mushroom]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -86,7 +86,7 @@ culture technique and regular subculturing is essential for consistent productio
 
 ## See Also
 
-- [[oyster-mushroom-substrates]]
 - [[mushroom-cultivation-environments]]
-- [[spawn-preparation]]
 - [[biological-efficiency]]
+
+See also: [[mushroom-cultivation-fundamentals]]

@@ -20,12 +20,7 @@ Layering is a method of increasing plants that involves burying part of
 a stem in the soil while it remains attached to the parent plant. The
 buried section develops its own root system, and once sufficiently
 established, the new plant can be severed and transplanted. Layering
-is one of the simplest and most reliable forms of [[hamilton-vegetative-propagation]], requiring no special equipment and offering high success
-rates even for beginners.
-
-## Why Choose Layering
-
-The great advantage of layering over [[hamilton-taking-cuttings-softwood-hardwood]] is that the new plant remains attached to the parent and
+is one of the simplest and most reliable forms of [[hamilton-taking-cuttings-softwood-hardwood]] is that the new plant remains attached to the parent and
 continues to receive water and nutrients while its own root system
 develops. This makes layering particularly suitable for plants that are
 difficult to propagate from cuttings, including many shrubs, climbers,
@@ -101,21 +96,7 @@ a favourite clematis or vigorous climber from a single stem.
 
 Newly separated layers should be transplanted carefully to avoid
 damaging their often delicate root systems. Prepare the planting hole
-well with [[hamilton-composting-and-organic-matter-management]]
-or well-rotted manure. Water thoroughly after planting and keep the
-soil moist through the first growing season. Mulch around the base to
-conserve moisture and suppress weeds.
-
-## Summary
-
-Layering is a simple, reliable propagation method that exploits the
-plant's natural tendency to form roots on stems that contact soil.
-Tip layering is ideal for bramble fruits, normal layering suits shrubs
-and climbers that are difficult from cuttings, and serpentine layering
-efficiently multiplies vigorous climbers like clematis. Layering
-requires no special equipment, offers very high success rates, and
-produces strong new plants. It complements
-[[hamilton-taking-cuttings-softwood-hardwood]] and
+well with [[hamilton-taking-cuttings-softwood-hardwood]] and
 [[hamilton-grafting-budding-techniques]] as essential skills
 in the organic gardener's propagation repertoire.
 
@@ -132,3 +113,7 @@ few weeks to establish independently before lifting and
 transplanting to its final position. A handful of bonemeal
 worked into the planting hole gives the young plant the
 phosphorus it needs for continued root development.
+
+## See Also
+
+- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]

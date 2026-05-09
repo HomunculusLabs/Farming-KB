@@ -104,11 +104,7 @@ The coordination between plasmalemma and tonoplast ensures that the cytosol rema
 
 ## Related Topics
 
-- [[plant-cell-membrane-transport-proteins]] -- overview of membrane structure
 - [[diffusion-osmosis-and-active-transport-in-plants]] -- the physical principles
-- [[adenosine-triphosphate-and-cellular-energy]] -- the energy source for active transport
 - [[plant-cell-structure-and-organelles]] -- the cellular context
-- [[the-vacuole-and-tonoplast-in-plant-cell-regulation]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[water-pathways-through-plants]]

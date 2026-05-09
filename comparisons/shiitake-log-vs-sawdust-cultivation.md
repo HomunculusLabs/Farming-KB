@@ -15,18 +15,12 @@ Cultivation of Shiitake is a centerpiece of Asian culture, having employed thous
 ## Log-Based Cultivation
 ### Process
 Hardwood logs (typically oak, 3-4 feet long and 4-8 inches diameter) are inoculated with plug spawn or sawdust spawn. The logs are then stacked in ricks or laid in shade-clothed, uninsulated greenhouses and incubated for 6-12 months. Fruiting is stimulated by soaking logs in water (a trough, pond, or brick-framed pool) for 12-48 hours. This immersion triggers the mycelium to form mushrooms within days. The surface topography of Shiitake blisters as a result of this technique.
-For detailed log inoculation procedures, see [[shiitake-cultivation-log-method]].
-### Spawn Selection for Logs
-The choice of spawn type significantly affects colonization speed and yield on logs:
-- **Plug spawn:** Wooden dowels colonized with mycelium, inserted into drilled holes and sealed with wax. Simple and reliable but slower to colonize.
-- **Sawdust spawn:** Inoculated into holes or into the cambium layer after chainsaw cuts. Faster colonization but requires careful handling.
-- **Grain spawn:** Generally not recommended for logs as it is more susceptible to contamination in outdoor environments and may attract pests.
-Quality spawn preparation is critical — see [[mushroom-grain-spawn-preparation]] for best practices in producing vigorous, contamination-free inoculum.
+For detailed log inoculation procedures, see [[mushroom-grain-spawn-preparation]] for best practices in producing vigorous, contamination-free inoculum.
 ### Advantages
 - Low startup cost -- logs are often free or inexpensive from woodland management
 - Minimal infrastructure required (no sterilization equipment, no climate control)
 - Produces mushrooms for several years (3-5 year productive lifespan per log)
-- Fits well within [[cotter-mycoremediation-overview]] and [[permaculture-design-principles]] systems
+- Fits well within [[permaculture-farm-design-principles]] systems
 - Mushrooms are considered by many connoisseurs to have superior flavor and texture
 - Provides modest supplementary income for woodlot owners
 - Naturally integrated with forest management practices
@@ -51,7 +45,7 @@ Research by Kerrigan (1982) published a short booklet on the economics of Shiita
 ## Supplemented Sawdust Cultivation (Indoor)
 ### Process
 A substrate of hardwood sawdust, wood chips, and bran (typically the supplemented sawdust formula described for Shiitake cultivation) is hydrated to 60-65% moisture, bagged in polypropylene bags with microporous filter patches, and sterilized. After cooling, bags are inoculated with grain or sawdust spawn using the through-spawning method. Full colonization occurs in 20-35 days at 72-76°F. Blocks are then exposed to fruiting conditions with reduced temperature, increased fresh air exchange, and light introduction.
-See [[mushroom-cultivation-bulk-substrates]] for substrate formulation details and [[mushroom-cultivation-fruiting-chambers]] for environmental control during fruiting.
+See [[mushroom-cultivation-fruiting-chambers]] for environmental control during fruiting.
 ### Asian vs. American Methods
 Japanese, Taiwanese, and Thai production systems typically utilize cylindrically shaped bags filled with 1 kg of supplemented sawdust which are top-inoculated. This method gives a maximum of two flushes. Most successful American growers have adapted these methods by doubling or tripling the mass of each fruiting block through through-spawning, producing larger blocks (2-3 kg) that provide 4-5 flushes before expiring. Stamets' method gives rise to fruitings within 20-35 days of inoculation -- two to three times faster than most cultivators achieve on sterilized substrates.
 ### Advantages
@@ -91,12 +85,5 @@ The debate over flavor and quality between log-grown and sawdust-grown Shiitake 
 - **Sawdust-grown Shiitake** produce larger caps more quickly, with a milder flavor and softer texture. They are more visually uniform, which is advantageous for commercial packaging and retail sales.
 - **Donko-grade** (thick, cracked-cap) Shiitake, the premium product in Japanese markets, is difficult to produce on sawdust substrate and is most reliably achieved through log cultivation with specific strain selection and environmental manipulation.
 ## Comparison to Other Specialty Mushrooms
-The log vs. sawdust decision applies differently to other species. [[lions-mane-cultivation]] is almost exclusively done on supplemented sawdust, as this species performs poorly on logs. Oyster mushrooms can be grown on either substrate, but sawdust is preferred for commercial production. Each species has unique growth parameters that influence the optimal cultivation method.
-## Key Decision Factors
-The choice between methods depends on available capital, infrastructure, production scale goals, climate and hardwood availability, technical expertise, market demands, and whether production is standalone or supplementary to other farm operations. For those with limited capital but access to hardwoods, log culture remains a viable entry point. For commercial-scale production, indoor sawdust cultivation is the clear path to profitability.
-See also: [[shiitake-cultivation-log-method]], [[mushroom-substrate-comparison]], [[mushroom-cultivation-bulk-substrates]], [[mushroom-grow-room-design]], [[mushroom-pasteurization]], [[lions-mane-cultivation]], [[enoki-cultivation]], [[king-oyster-cultivation]]
-*Source: Stamets, P. "Growing Gourmet and Medicinal Mushrooms" -- Lentinula edodes growth parameters (pp. 259-270)*
-## See Also
-
-- [[log-culture-outdoor-mushroom-cultivation]]
+The log vs. sawdust decision applies differently to other species. [[shiitake-cultivation-log-method]], [[mushroom-cultivation-bulk-substrates]], [[mushroom-pasteurization]], [[enoki-cultivation]], [[log-culture-outdoor-mushroom-cultivation]]
 - [[shiitake-cultivation-on-sawdust]]

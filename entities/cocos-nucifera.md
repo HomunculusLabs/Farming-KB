@@ -108,12 +108,8 @@ The toddy (sap) tapped from unopened inflorescences is fermented into palm wine 
 
 ## See Also
 
-- [[saccharum-officinarum]]
 - [[musa-acuminata]]
-- [[manihot-esculenta]]
 - [[vanilla-planifolia]]
-- [[euterpe-oleracea]]
 - [[areca-catechu]]
-- [[cinnamomum-verum]]
 - [[curcuma-longa]]
 - [[zingiber-officinale]]

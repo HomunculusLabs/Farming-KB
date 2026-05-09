@@ -102,13 +102,9 @@ Cool humid climate soils share several features:
 
 ## Design Integration
 
-These factors combine in Mollison's [[mollison-designers-small-forest-farm-cool-humid-layout]]
-design, where house sites are placed above the frost line, windbreaks protect
-key production areas, and soil management builds on natural humus
-accumulation. The [[mollison-designers-cold-caves-root-cellar-storage]]
+These factors combine in Mollison's [[mollison-designers-cold-caves-root-cellar-storage]]
 design draws directly from the cool humid climate's need for long-term food
 storage during long winters.
 
-See also: [[mollison-designers-winter-forest-foraging-wildlife-cooperation]],
-[[mollison-designers-free-range-forage-design-principles]],
+See also: [[mollison-designers-free-range-forage-design-principles]],
 [[holzer-climate-zone-microclimate-creation]]

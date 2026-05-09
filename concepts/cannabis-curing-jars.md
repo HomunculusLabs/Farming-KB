@@ -109,11 +109,7 @@ To track drying progress, weigh buds at harvest and during curing:
 
 ## See Also
 
-- [[cannabis-manicuring-techniques]]
 - [[cannabis-quality-testing]]
-- [[cannabis-yield-optimization]]
 - [[cannabis-hashish-production]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-testing-and-quality]]
-- [[cannabis-drying-and-curing-guide]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]

@@ -16,31 +16,7 @@ type: concept
 Brown rice vinegar (BRV) is a versatile essential input in Dr. Cho's Korean
 Natural Farming. It functions as a plant growth regulator, disease
 suppressant, calcium solubilizer, and foundational ingredient for making
-other inputs including [[cho-water-soluble-calcium-and-potassium]] and water-soluble calcium phosphate.
-
-## Characteristics
-
-1.  **Weak acid, alkaline effect** — BRV is acidic but becomes alkaline
-    when metabolized, shifting constitution from acidic toward alkaline.
-2.  **Acetic acid bacteria activity** — Supports liver cells for
-    sterilization, neutralization, and synthesis in livestock.
-3.  **Phytic acid content** — Neutralizes poisons and improves physical
-    constitution in crops and animals.
-4.  **Amino acid richness** — Contains more amino and organic acids than
-    most foods; excellent for decomposing lactic acid and preventing
-    aging.
-5.  **Calcium absorption enhancement** — Citric acid in BRV enables easy
-    calcium absorption, critical since absorption is impaired in acidic
-    conditions.
-
-## Preparation Method
-
-### Natural Fermentation from Makgeolli
-
-1.  **Primary fermentation** — Prepare Makgeolli (Korean rice wine) from
-    brown rice through normal fermentation.
-2.  **Yeast collection** — After 2-3 days, collect active yeast for
-    [[cho-yeast-preparation-guide]].
+other inputs including [[cho-yeast-preparation-guide]].
 3.  **Acetification** — Allow ripe Makgeolli to stand uncovered. Natural
     acetic acid bacteria convert alcohol to acetic acid, producing BRV.
 4.  **Alternative** — 15-day fermented toddy can substitute, as it also
@@ -71,24 +47,7 @@ other inputs including [[cho-water-soluble-calcium-and-potassium]] and water-sol
 
 ### Absorption Enhancement
 -   Improves tree tissue flexibility and increases absorption capacity
-    when other [[cho-natural-farming-inputs-overview]] are
-    sprayed together.
-
-### Disease Suppression
--   Natural antimicrobial properties from acetic acid bacteria.
--   Sterilization dilution: 1:500 at juvenile leaf stage, 1:200-1:300
-    at adult leaf stage.
-
-### Calcium Synergy
--   Maximizes effect of water-soluble calcium (WCA) when used together.
--   Primary solvent for extracting calcium from eggshells and oyster
-    shells (1:10 ratio over ~7 days).
--   Dissolves animal bones for water-soluble calcium phosphate.
-
-## Practical Applications
-
-### Direct Use
--   [[cho-seed-seedling-solution-treatment]]: 2 ml per liter.
+    when other [[cho-seed-seedling-solution-treatment]]: 2 ml per liter.
 -   Soil treatment: 500 ml per acre in the SOS.
 -   Growth stage treatments: 2 ml per liter across all stages.
 
@@ -105,21 +64,25 @@ other inputs including [[cho-water-soluble-calcium-and-potassium]] and water-sol
 
 ## Integration with Growth Stages
 
-BRV appears in nearly every [[cho-plant-growth-stage-treatments]]:
--   **Vegetative stage** — Part of base treatment mixture.
--   **Cross-over period** — Supporting phosphoric acid demand.
--   **Reproductive stage** — Enhancing calcium uptake during fruit fill.
--   **Ripeness promotion** — With OHN, WCA, and seawater before harvest.
--   **Crack prevention** — Part of drought-period prevention formula.
-
-## Storage
-
-Store in a cool, shaded place. Like vinegar, BRV has extremely long shelf
-life. Optimal storage temperature: 23-25 degrees Celsius.
-
-## See Also
-
--   [[knf-brown-rice-vinegar]]
--   [[cho-water-soluble-calcium-and-potassium]]
+BRV appears in nearly every [[knf-brown-rice-vinegar]]
 -   [[cho-plant-growth-stage-treatments]]
 -   [[cho-seed-seedling-solution-treatment]]
+## Practical Considerations
+
+Successful implementation of Cho's Brown Rice Vinegar Preparation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

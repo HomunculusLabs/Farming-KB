@@ -22,40 +22,6 @@ crops and conditions.
 
 ## Seed Starting Indoors
 
-[[seed-starting-indoors]]
-
-Starting seeds indoors allows you to control temperature, moisture, and light
-during the critical germination and early growth period. This is essential for
-heat-loving crops like tomatoes, peppers, and eggplant in shorter-season
-climates where the frost-free period is too short for direct seeding to produce
-a full harvest. A germination cabinet (a simple insulated box with a heat source
-like a 25-40 watt bulb and a sliding glass top) maintains the 80F target
-temperature needed for reliable germination of warm-season crops. Solomon
-recommends containers holding about 250ml of soil, with newspaper pots being
-ideal for fast-growing cucurbits.
-
-The plastic bag method is a key technique for indoor starting: each pot is
-slipped into a nearly airtight clear bag after sowing, which prevents moisture
-loss and temperature fluctuations that cause the growing medium to become too
-wet. Inside the bag, the soil stays at perfect moisture levels until seedlings
-emerge, eliminating the need for watering during germination. Fertilizer
-strategy changes after the first true leaf emerges, shifting from minimal
-nutrients (to prevent damping-off diseases) to regular feeding with liquid
-fertilizer. Garden center transplants are often suspect due to mislabeled
-varieties, pot-bound roots, leggy growth from high greenhouse temperatures, and
-improper hardening off.
-
-The sowing schedule cascades from one germination cabinet: start tomatoes about
-6 weeks before transplant date, then peppers and eggplant once tomatoes are
-established, followed by the hardiest cucurbits 2 weeks after solanums, and
-finally tender cucurbits like melons when it is warm enough to put tomatoes
-outside. This staggered approach maximizes the utility of limited indoor space.
-The critical disadvantage of indoor starting is the labor involved in hardening
-off seedlings (gradually exposing them to outdoor conditions over 7-10 days) and
-the risk of transplant shock when moving plants to the garden.
-
-## Direct Seeding Techniques
-
 [[direct-seeding-techniques]]
 
 Direct seeding is the simplest and most natural approach to establishing crops.
@@ -143,7 +109,5 @@ market gardeners may start dozens of flats indoors for precision transplanting.
 
 ## See Also
 
-- [[comparison-seed-starting-vs-direct-seeding]]
 - [[comparison-seed-balls-vs-direct-seeding]]
-- [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
 - [[comparison-cannabis-cloning-vs-seed-starting-indoors]]

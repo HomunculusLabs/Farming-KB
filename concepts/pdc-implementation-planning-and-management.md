@@ -4,12 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, scheduling]
----
-
-# PDC Implementation Planning and Management Schedules
-
-A [[permaculture-design]] is only as good as its implementation. The Williams PDC teaches that moving from design concept to installed reality requires careful implementation planning, phasing, and ongoing management schedules. Williams addresses implementation through the lens of ecological succession, resource availability, and the client's capacity for involvement.
+tags: [[permaculture-design]] is only as good as its implementation. The Williams PDC teaches that moving from design concept to installed reality requires careful implementation planning, phasing, and ongoing management schedules. Williams addresses implementation through the lens of ecological succession, resource availability, and the client's capacity for involvement.
 
 ## Design from Patterns to Details: The Implementation Philosophy
 
@@ -30,10 +25,7 @@ Williams does not prescribe a rigid phasing system but implies a logical sequenc
 
 ### Phase 1: Earthworks and Water Infrastructure
 
-Water is the first priority. Before any planting or building, the [[water-management]] infrastructure must be in place:
-- Install swales, berms, and infiltration pits on contour
-- Set up rainwater catchment cisterns and distribution systems
-- Establish [[permaculture-designers-manual-greywater-systems]]
+Water is the first priority. Before any planting or building, the [[graywater-systems]]
 - Create or modify water courses for controlled flow
 - Ensure all earthworks have overflow routes and emergency spillways
 
@@ -45,18 +37,7 @@ Once water management is established, structures can be built:
 - Primary structures (home, outbuildings) using locally appropriate materials
 - Perimeter systems (fencing, windbreaks, privacy screens)
 - Access infrastructure (paths, roads, parking)
-- Utility systems (solar, greywater plumbing, [[composting-toilets]])
-
-Material selection follows the principle of starting on-site and expanding outward: first look for on-site resources, then search the immediate local area, and only source from further away when local options are exhausted.
-
-### Phase 3: Zone 1 Installation
-
-Daily-use systems are installed next because they receive the most attention and are most critical to daily life:
-- Annual vegetable gardens
-- Herb gardens near the kitchen
-- Culinary herb spirals
-- Cold frames and season extension
-- [[composting-systems]]
+- Utility systems (solar, greywater plumbing, [[composting-systems]]
 - Outdoor living spaces
 
 ### Phase 4: Zone 2 Installation

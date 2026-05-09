@@ -10,23 +10,6 @@ type: comparison
 
 # Lacto-Fermentation vs Canning: A Comprehensive Comparison
 
-[[solomon-food-preservation-storage]] is a cornerstone of self-sufficiency, and two of the most widely practiced methods are lacto-fermentation and canning. While both can extend the usability of seasonal harvests, they operate on fundamentally different principles and produce very different nutritional outcomes. This comparison examines each method in depth to help you make informed choices for your homestead pantry.
-
-## At a Glance
-
-| Attribute | Lacto-Fermentation | Canning |
-|-----------|-------------------|---------|
-| **Preservation Mechanism** | Lactic acid bacteria (LAB) | Heat sterilization |
-| **Equipment Needed** | Minimal (jars, salt, water) | Specialized (canner, jars, lids) |
-| **Nutrition Impact** | Retains and enhances nutrients | Destroys heat-sensitive vitamins |
-| **Shelf Life** | Months to over a year (cool storage) | 1-5 years (room temperature) |
-| **Refrigeration Needed** | After opening; some types before | Not required |
-| **Botulism Risk** | Very low (acid environment) | Serious risk if done incorrectly |
-| **Temperature Sensitivity** | High (fermentation is temperature-dependent) | Moderate (processing temp is controlled) |
-| **Probiotic Content** | High | None (all microbes destroyed) |
-
-## Lacto-Fermentation Overview
-
 [[lacto-fermentation-and-food-preservation-methods]] harnesses lactic acid bacteria (LAB) — naturally present on the surfaces of vegetables and fruits — to convert sugars into lactic acid. This process creates an acidic, anaerobic environment that inhibits harmful pathogens including Clostridium botulinum, the organism responsible for botulism. With a salt concentration of 2-3% by weight, beneficial LAB outcompete spoilage organisms, producing a safe, preserved food that is alive with beneficial microorganisms.
 
 ### How Lacto-Fermentation Works
@@ -58,20 +41,7 @@ type: comparison
 
 ## Canning Overview
 
-[[canning-and-preserving]] uses heat to destroy microorganisms and enzymes, then seals food in sterile jars to prevent recontamination. Two primary methods exist: water bath canning for high-acid foods (pH ≤ 4.6, processed at 212°F) and pressure canning for low-acid foods (processed at 240-250°F to eliminate botulism spores). Canning is the method of choice when maximum shelf stability without refrigeration is the primary goal.
-
-### How Canning Works
-
-1. Food is prepared according to a tested recipe specifying acidity, headspace, processing time, and method.
-2. Jars are filled, leaving specified headspace, and sealed with two-piece metal lids.
-3. Jars are processed in a boiling water bath or pressure canner for the prescribed time at the required temperature.
-4. Upon cooling, vacuum seals form, indicating a successful preserve.
-5. Sealed jars are shelf-stable at room temperature for 1-5 years or longer.
-
-### Key Advantages of Canning
-
-- **Long shelf stability:** Properly canned foods remain safe and palatable for 1-5 years stored at room temperature, making them ideal for deep pantry reserves.
-- **No refrigeration required:** This makes canning invaluable for off-grid living, [[emergency-preparedness]], and long-term food security planning.
+[[emergency-preparedness]], and long-term food security planning.
 - **Standardized recipes:** USDA-tested recipes provide reliable, science-backed processing times and safety parameters that take the guesswork out of preservation.
 - **Wide food range:** Both high-acid (fruits, pickles, tomatoes) and low-acid (vegetables, meats, soups, beans) foods can be safely preserved through appropriate canning methods.
 - **Convenience:** Canned goods are ready to eat with minimal preparation — simply open and serve, making them practical for busy seasons on the homestead.

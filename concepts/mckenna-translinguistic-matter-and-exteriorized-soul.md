@@ -136,14 +136,10 @@ existence.
 The tryptamine state, in McKenna's account, provides a preview of this
 future — a "stepping out of the moving image and into eternity, the
 eternity of the standing now."
-
 ## See Also
 
-- [[hyperspace-logos-consciousness]]
+- [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
+
 - [[the-logos-and-translinguistic-matter]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-psilocybin-language-poetry-vocal-impulse]]
 - [[consciousness-and-psychedelics]]
-- [[dmt-compound-profile]]
-- [[tryptamine-hallucinogens]]
-- [[mckenna-valis-hibernation-of-the-logos]]

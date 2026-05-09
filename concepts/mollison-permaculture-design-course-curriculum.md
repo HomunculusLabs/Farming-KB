@@ -117,14 +117,12 @@ this done in the next five years if we keep it to ourselves."
 
 ## See Also
 
-- [[mollison-animal-integration-permaculture-design]]
 - [[permaculture-chicken-forage-systems-design-course]]
-- [[mollison-tropical-and-coastal-permaculture-design]]
 - [[mollison-designers-pattern-understanding-in-design]]
 - [[coastal-permaculture-design-mollison]]
 
-- [permaculture-design-course](permaculture-design-course.md)
-- [permaculture-design](permaculture-design.md)
-- [permaculture-ethics](permaculture-ethics.md)
+- [[permaculture-design-course](permaculture-design-course.md)
+- [[permaculture-design](permaculture-design.md)
+- [[permaculture-ethics](permaculture-ethics.md)
 - [mollison-permaculture-two-introduction-design-principles](mollison-permaculture-two-introduction-design-principles.md)
 - [mollison-zone-sector-analysis-permaculture](mollison-zone-sector-analysis-permaculture.md)

@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, food, recipe, preparation, animal-husbandry]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Cheese Making Basics
@@ -143,8 +142,8 @@ Whey is a valuable byproduct of cheese making:
 - Rubbery mozzarella: Curd not hot enough during stretching (must reach 135 F)
 - Off-flavors: Old milk, unclean equipment, or contamination
 
-## Related
-
-- [[cheese-cannabis]] Topics
+## Related Topics
 
 - [[food-fermentation-guide]] for the science of bacterial cultures in food
+- [[food-dehydration-guide]] for preserving aged cheeses
+- [[sourdough-bread-guide]] for using whey in bread recipes

@@ -8,20 +8,10 @@ sources: [raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF [[cho-soil-treatment-and-seed-preparation]] Solution (SOS)
-
-The Soil Treatment Solution (SOS) is a comprehensive [[korean-natural-farming]] approach to building fertile, productive soil without
+# KNF [[korean-natural-farming]] approach to building fertile, productive soil without
 relying on deep tilling or synthetic soil conditioners. In Natural
 Farming, earthworms till the land, straw-and-leaves mulching
-suppresses weeds, and indigenous microorganisms manage soil health.
-The SOS combines multiple NF inputs into a single treatment applied
-to condition soil before planting and throughout the growing season.
-
-## Philosophy of Soil Treatment in KNF
-
-Good, fertile soil is the basis of productive land. Conventional
-farming relies on deep tilling and soil conditioners to prepare
-fields, but Natural Farming departs from this approach. Dr. Cho's
+suppresses weeds, and [[natural-farming]] departs from this approach. Dr. Cho's
 system recognizes that soil is a living ecosystem teeming with
 microorganisms that, when properly supported, will maintain soil
 structure, fertility, and health naturally.
@@ -125,26 +115,4 @@ management practices described in the source:
   weeds and maintain soil moisture.
 - Cover cropping to add organic matter and protect soil from
   erosion.
-- Use of [[knf-fermented-mixed-compost]] for ongoing soil
-  fertility maintenance.
-
-## Key Principles
-
-- Fertile soil is built through biological processes, not mechanical
-  tilling.
-- IMO-4 should be applied on the soil surface, not buried deeply.
-- Apply treatments in the late afternoon to protect microorganisms
-  from UV radiation.
-- Degraded fields need longer recovery time (14 days vs 7 days)
-  before planting.
-- The SOS combines microbial, nutrient, mineral, and organic matter
-  inputs for comprehensive soil conditioning.
-
-## Applications
-
-- Pre-planting soil conditioning for new fields or degraded land
-- Ongoing soil health maintenance through mid and late-season
-
-## See Also
-
-- [[knf-seed-treatment-and-soil-foundation]]
+- Use of [[knf-seed-treatment-and-soil-foundation]]

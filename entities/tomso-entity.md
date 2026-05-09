@@ -8,9 +8,7 @@ sources: []
 ---
 # TOMSO
 
-TOMSO (2-Methoxy-4-methyl-5-methylsulfinylamphetamine) is a sulfoxide metabolite analogue of 5-TOM, designed to explore the metabolic fate of sulfur-containing [[phenethylamine-chemistry-basics]].
-
-It is documented as entry #173 in PiHKAL by [[alexander-shulgin]].
+TOMSO (2-Methoxy-4-methyl-5-methylsulfinylamphetamine) is a sulfoxide metabolite analogue of 5-TOM, designed to explore the metabolic fate of sulfur-containing [[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -108,11 +106,9 @@ Users should be aware that combining TOMSO with alcohol can produce unexpectedly
 
 The 10-16 hour duration, once activated by alcohol, requires planning for a full day of altered consciousness.
 
-The compound should not be combined with other substances that affect cytochrome P450 metabolism. For general harm reduction guidance, see [[psychedelic-safety-and-harm-reduction]].
-
-Caution is required in the synthesis due to the generation of hydrogen cyanide.
-
-## Index
-
-- [[phenethylamine-pharmacology]]: general pharmacology
+The compound should not be combined with other substances that affect cytochrome P450 metabolism. For general harm reduction guidance, see [[phenethylamine-pharmacology]]: general pharmacology
 - dom-entity|DOM: the classic psychedelic amphetamine for comparison
+
+## See Also
+
+- [[tomso-entity-pihkal]]

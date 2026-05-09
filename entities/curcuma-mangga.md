@@ -122,12 +122,8 @@ retaining their aromatic character.
 
 ## See Also
 
-- [[curcuma-longa]]
 - [[curcuma-zedoaria]]
-- [[curcuma-caesia]]
 - [[curcuma-aromatica]]
-- [[curcuma-angustifolia]]
 - [[zingiber-officinale]]
-- [[alpinia-galanga]]
 - [[kaempferia-galanga]]
 - [[elettaria-cardamomum]]

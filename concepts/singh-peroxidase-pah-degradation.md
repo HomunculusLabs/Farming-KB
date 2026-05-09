@@ -72,7 +72,7 @@ degradation with 0.4% mineralization. Addition of 5 mM glutathione
 (GSH) enhanced benzo[a]pyrene mineralization to 4.0% CO2 while
 maintaining greater than 99% degradation.
 
-## [[trametes-versicolor]] MnP
+## [[trametes-versicolor-entity]] MnP
 
 Trametes versicolor MnP degraded 75% of phenanthrene (10 mg/l) in 11
 days and 100% of fluorene in 7 days (Collins and Dobson, 1996).
@@ -96,25 +96,6 @@ more hydrophilic products.
 
 Composting is a promising reactor system for hazardous soil treatment
 with PAH-contaminated soils. A compost bioreactor enhanced removal of
-benzo[a]pyrene by [[phanerochaete-chrysosporium]], removing about 45% of
-the initial compound (McFarland et al., 1992). Compost bioaugmentation
-with P. chrysosporium achieved removal efficiencies of 62.8 plus or
-minus 5.9% and 65.6% plus or minus 1.2% for fungal-amended and
-unamended systems, respectively (McFarland and Qiu, 1995).
-
-## Constructed Wetland Applications
-
-Pilot-scale constructed wetlands treat PAH-contaminated water with
-fungal participation (Giraud et al., 2001). A total of 40 fungal species
-from 24 genera were identified from contaminated wetlands. Assay on
-liquid medium indicated efficient degradation of fluoranthene by 33
-species and 70% anthracene removal by two species. No correlation exists
-between extracellular phenol oxidase activity and degradative ability.
-
-## See Also
-
-- singh peroxidase pah degradation
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-pah-biodegradation-fungi-soils-bioreactors]]
+benzo[a]pyrene by [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[cotter-mycoremediation-overview]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]

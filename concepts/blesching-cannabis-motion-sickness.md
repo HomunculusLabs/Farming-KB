@@ -100,8 +100,6 @@ beliefs that produce unwarranted fear of change."
 
 ## See Also
 
-- [[blesching-cannabis-chemotherapy-nausea]]
 - [[blesching-cannabis-gastrointestinal-disorders]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-ptsd-anxiety]]
 - [[blesching-cannabis-dosing-strategies]]

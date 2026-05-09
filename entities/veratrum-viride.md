@@ -133,14 +133,7 @@ Pollinators include various bees and flies attracted to the nectar.
 
 ## See Also
 
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[herbal-baths-and-hydrotherapy]]
-- [[herbal-salves-and-balms]]
-
-- veratrum album
-- colchicum autumnale
-- aconitum napellus
-- convallaria majalis
 - [[digitalis-purpurea]]
 - nicotiana tabacum
 - [[atropa-belladonna]]

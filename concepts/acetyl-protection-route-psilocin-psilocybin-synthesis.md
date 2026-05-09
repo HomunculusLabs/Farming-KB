@@ -115,11 +115,7 @@ The catalytic hydrogenolysis step using palladium on carbon is also well-establi
 
 - [[psilocybin-synthesis]]
 
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
-- [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
-- [[psilocybin-tryptamine-chemistry-fungi]]
 - [[synthetic-tryptamine-methods]]

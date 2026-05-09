@@ -106,11 +106,7 @@ The herbal highs category thus predates the specific mushroom ban and represents
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - [[emcdda-herbal-highs-market-product-substitution-bans]]
-- [[lsa-containing-plants-guide]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
-- [[emcdda-hallucinogenic-mushroom-legal-responses]]
 - [[fly-agaric-amanita-muscaria]]
-- [[amanita-muscaria-pharmacology-dosing-guide]]
 - [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]

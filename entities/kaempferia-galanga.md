@@ -24,19 +24,7 @@ sources:
 - **Genus:** Kaempferia
 - **Species:** K. galanga
 - **Authority:** L.
-- **[[australian-magic-mushroom-common-names]]:** Galanga, Greater Galangal, Kencur (Indonesian), Pro Hom (Thai)
-
-The genus Kaempferia was named in honor of the German physician and botanist Engelbert Kaempfer, who traveled extensively in Asia in the late 17th century. K. galanga is sometimes confused with Alpinia galanga (the "greater galangal" of commerce), and the taxonomic relationship and common name overlap between these species has caused considerable confusion in both the botanical and culinary literature.
-
-True K. galanga is generally smaller and more aromatic than A. galanga. The two species can be distinguished by differences in their inflorescence structure, leaf arrangement, and the chemical composition of their essential oils.
-
-## Morphology
-
-Kaempferia galanga is a short-stemmed herb with a highly aromatic rhizome. The plant grows close to the ground with broad, attractive leaves that are typically 4 to 7 inches (10 to 18 cm) long and 2 to 4 inches (5 to 10 cm) wide.
-
-The leaves are often patterned with lighter veins against a darker green background, giving them an ornamental appearance. The distinctive leaf patterning makes the plant easily recognizable even when not in flower. The leaves arise directly from the rhizome, with very short or no above-ground stem.
-
-The flowers are small and white or pale purple, emerging directly from the rhizome near the base of the leaf stems. The plant rarely flowers [[mushroom-mites-and-nematodes-in-cultivation]], and propagation is typically done vegetatively through division of the rhizome.
+- **[[mushroom-mites-and-nematodes-in-cultivation]], and propagation is typically done vegetatively through division of the rhizome.
 
 The rhizome is the primary plant part used both culinarily and medicinally, with a characteristic spicy, camphoraceous aroma. Fresh rhizomes are aromatic and firm, with a pale interior and a brownish exterior skin.
 
@@ -73,42 +61,11 @@ In Malaysia, K. galanga was historically added to the arrow poison prepared from
 
 ### Hallucinogenic Use (New Guinea)
 
-There are vague reports that Galanga is employed as a hallucinogen in New Guinea. The specific context, [[gottlieb-peyote-extraction-and-preparation-methods]], [[emcdda-psilocybin-mushroom-dose-and-effects]] of this use remain poorly documented in the ethnobotanical literature. Some researchers have suggested that the hallucinogenic effects attributed to Galanga in New Guinea may actually result from confusion with other species or from adulteration of preparations with other psychoactive plants.
+There are vague reports that Galanga is employed as a hallucinogen in New Guinea. The specific context, [[emcdda-psilocybin-mushroom-dose-and-effects]] of this use remain poorly documented in the ethnobotanical literature. Some researchers have suggested that the hallucinogenic effects attributed to Galanga in New Guinea may actually result from confusion with other species or from adulteration of preparations with other psychoactive plants.
 
 ## Chemistry
 
-The rhizome of K. galanga contains a complex mixture of [[medicinal-mushroom-extraction-bioactive-compounds]], including:
-
-- **Ethyl cinnamate** — a major aromatic constituent
-- **Ethyl p-methoxycinnamate** — a significant aromatic compound
-- **Kaempferol** and related flavonoids — antioxidant compounds
-- **Ethyl 4-methoxybenzoate** — an aromatic ester
-- **3-carene** and other terpenoids
-- Various essential oils contributing to the characteristic aroma
-
-The psychoactive constituents, if any, responsible for the reported hallucinogenic effects in New Guinea have not been specifically identified. Some researchers have speculated that trace amounts of asarone or related phenylpropene compounds may be present, as these are known psychoactive agents found in other Zingiberaceae species, though definitive evidence is lacking.
-
-## Pharmacology
-
-The essential oil of K. galanga has demonstrated various pharmacological activities in laboratory studies, including anti-inflammatory, antimicrobial, and antioxidant effects. Ethyl cinnamate has been shown to have sedative and muscle relaxant properties at high doses. Whether these properties relate to the reported hallucinogenic effects remains unclear.
-
-## Historical Documentation
-
-Kaempferia galanga has been known in Asian medicine and cuisine for millennia. It appears in ancient Ayurvedic texts and Chinese pharmacopoeias. The plant was first described in Western botanical literature by Carl Linnaeus in the 18th century. Reports of its psychoactive use in New Guinea appear primarily in the ethnobotanical literature of the mid-20th century, notably in the work of Schultes and Hofmann.
-
-## Safety Considerations
-
-K. galanga is generally regarded as safe when used in culinary quantities. However, the essential oil and concentrated preparations may have different safety profiles. High doses of the essential oil could potentially cause gastrointestinal distress or central nervous system effects. As with any plant used in traditional medicine, proper identification is important, as confusion with similar-looking species could lead to unintended exposures.
-
-## Cultural Significance
-
-Kaempferia galanga bridges the worlds of everyday cuisine and ethnopharmacology. While its culinary and medicinal uses are well-documented and widespread, its potential hallucinogenic applications in New Guinea represent an intriguing but poorly understood aspect of its ethnobotanical profile. The plant's importance in Southeast Asian traditional medicine and cuisine ensures its continued cultivation and study, which may eventually clarify the nature and basis of its reported psychoactive properties.
-
-## Comparison wmyristica-fragranss
-
-K. galanga can be compared with several other rhizomatous plants that have reported psychoactive properties:
-
-- [[sweet-flag-acorus-calamus-ethnobotany]] — Sweet Flag, contains asarone compounds with psychoactive activity
+The rhizome of K. galanga contains a complex mixture of [[sweet-flag-acorus-calamus-ethnobotany]] — Sweet Flag, contains asarone compounds with psychoactive activity
 - myristica-fragrans — Nutmeg, contains myristicin, a psychoactive phenylpropene
 - alpinia-galanga — Greater Galangal, often confused with K. galanga in the literature
 
@@ -119,8 +76,6 @@ The Zingiberaceae family contains several species with bioactive essential oils,
 The reported psychoactive use of K. galanga in New Guinea deserves further ethnobotanical investigation. Key research questions include the specific indigenous communities that use the plant as a hallucinogen, the preparation methods employed, and the subjective effects experienced by users. Chemical analysis of New Guinea populations of K. galanga could also reveal chemotypic variation not present in cultivated Asian populations.
 
 ## See Also
-
-- [[alkaline-soil-plants]]
 
 - [[sweet-flag-acorus-calamus-ethnobotany]] — Sweet Flag, another rhizome with reported psychoactive properties
 - tagetes-lucida — Pericon, a plant with both culinary and psychoactive uses

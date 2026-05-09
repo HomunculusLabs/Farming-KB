@@ -115,8 +115,8 @@ approaches to psychoactive substances.
 
 ## See also
 
-[[ayahuasca-tourism-legal-status-by-country]]
 [[ayahuasca-tourism-peru-retreat-landscape]]
-[[ayahuasca-tourism-western-seekers-and-integration]]
 [[ayahuasca-tourism]]
-[[ayahuasca-pharmacology]]
+[[peruvian-drug-war-ayahuasca-legal-acceptance-contrast]]
+
+- [[peruvian-ayahuasca-government-festivals-and-presidential-ceremony]]

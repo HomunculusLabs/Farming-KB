@@ -119,10 +119,6 @@ local populations of *T. sanguinea* and other wood-decay fungi face pressure fro
 
 ## See Also
 
-- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
-
-- [[trametes-versicolor]]
-- [[ganoderma-lucidum]]
+- [[trametes-versicolor-entity]]
 - [[fomes-fomentarius]]
-- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
 - [[laccase]]

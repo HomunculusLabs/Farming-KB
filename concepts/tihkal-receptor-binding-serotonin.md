@@ -97,9 +97,6 @@ Shulgin documents a case where 2-iodo-1-methyl-LSD (MIL) -- a compound with sero
 
 ## See Also
 
-- [[tihkal-introduction-and-methodology]]
 - [[pihkal-introduction-and-methodology]]
-- [[tryptamine-family-overview]]
 - [[tryptamine-consciousness-theory]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[mao-inhibitors-and-psychedelics]]

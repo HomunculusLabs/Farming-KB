@@ -1,31 +1,13 @@
 ---
 title: "Food Processing, Preservation, and Storage"
 created: 2026-04-28
-tags: [permaculture, food-preservation, storage, self-reliance, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Food Processing, Preservation, and Storage
-
-Mollison addresses food processing and storage as essential components of
-permaculture self-reliance in Permaculture: A Designer's Manual. A productive
-garden or farm generates seasonal abundance that must be preserved for lean
-periods. Without processing and storage capacity, much of the harvest is lost
-to spoilage, and the system cannot support year-round food security.
-
-## Principles of Permaculture [[mollison-designers-temperate-zone-food-forest-design]]
+tags: [[mollison-designers-temperate-zone-food-forest-design]]
 
 Mollison's approach favors low-energy, low-technology methods that can be
 practiced at household and community scale. The hierarchy of preference:
 
 1. Eat fresh from the garden (primary strategy)
-2. Extend the season with [[zone-1-intensive-garden]]
-   and protected cropping
-3. Store whole foods in their natural state ([[mollison-designers-cold-caves-root-cellar-storage]]ing, grain storage)
+2. Extend the season with [[mollison-designers-cold-caves-root-cellar-storage]]ing, grain storage)
 4. Process with minimal energy input (drying, fermentation, pickling)
 5. Process with moderate energy input (canning, freezing)
 6. Use high-energy methods only when necessary
@@ -129,12 +111,7 @@ compounds in wood smoke. Requires fuel and skill but produces excellent flavor.
 meat, and vegetables. Submerging vegetables in olive oil extends shelf life
 for several months (requires refrigeration).
 
-## Integration with [[permaculture-design]]
-
-Mollison recommends locating food processing and storage facilities in Zone 1
-for daily access. A dedicated processing area with work surfaces, water supply,
-fuel (for canning), and storage shelving should be part of every permaculture
-homestead design. The [[mollison-designers-plant-nursery-propagation-bed-design]]
+## Integration with [[mollison-designers-plant-nursery-propagation-bed-design]]
 and food processing areas can share infrastructure (work surfaces, water,
 shelter).
 

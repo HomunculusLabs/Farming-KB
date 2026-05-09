@@ -131,8 +131,6 @@ mindful awareness.
 
 - [[mind-body-medicine-emotional-molecules]] Concepts
 
-- [[blesching-cannabis-endocannabinoid-mind-body]]
 - [[blesching-cannabis-anandamide]]
-- [[blesching-cannabis-mental-disorders]]
 - [[blesching-cannabis-sleep-disorders]]
 - [[cannabis-chronic-pain-management]]

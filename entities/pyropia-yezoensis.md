@@ -108,14 +108,9 @@ Climate change and ocean acidification pose emerging threats to cultivation, mot
 In natural settings, *P. yezoensis* provides habitat and foraging substrate for intertidal invertebrates including limpets, small crustaceans, and juvenile fish. It is susceptible to oomycete pathogens such as *Olpidiopsis* spp., which can devastate aquaculture crops.
 
 ## See Also
-- [[porphyra-umbilicalis]]
 - [[ulva-lactuca]]
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
-- [[chondrus-crispus]]
 - [[saccharina-latissima]]
-- [[palmaria-palmata]]
 - [[kappaphycus-alvarezii]]
-- [[gracilaria-verrucosa]]
 - [[eucheuma-denticulatum]]
 - [[taurine]]

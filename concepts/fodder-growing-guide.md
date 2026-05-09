@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Fodder Growing Guide
 
@@ -36,13 +37,7 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 - **Dairy goat:** 0.5-1 ton of hay per year
 - **Sheep:** 0.3-0.5 tons of hay per year
 - **Meat rabbits:** Minimal hay needs; primarily pellets and garden greens
-- See [[livestock-feed-management]] for detailed feed requirements by species
-
-### Crop Selection by Purpose
-- **Ruminants** — Grass-legume hay, corn silage, root crops
-- **Poultry** — Grain crops (corn, oats, barley), sprouted fodder, vegetable greens
-- **Pigs** — Root crops, corn, garden surplus, sprouted barley
-- **Rabbits** — Grass hay, sprouted fodder, garden greens (see [[rabbit-husbandry-guide]])
+- See [[rabbit-husbandry-guide]])
 
 ## Field Fodder Production
 
@@ -94,19 +89,13 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 
 ## Integration with Other Systems
 
-- Use [[composting-systems]] to build soil fertility for fodder crop fields
-- Integrate [[pasture-management]] rotation with annual fodder crop planting
-- Use [[animal-manure-guide]] application rates for fertilizing fodder fields
-- Fodder crops fit into [[silvopasture-systems]] as understory plantings
+- Use [[pasture-management]] rotation with annual fodder crop planting
+- Use [[silvopasture-systems]] as understory plantings
 - Garden surplus and crop residues supplement fodder programs
 
 ## Related
 
-- [[livestock-feed-management]]
 - [[pasture-management]]
-- [[composting-systems]]
 - [[animal-manure-guide]]
-- [[silvopasture-systems]]
 - [[rabbit-husbandry-guide]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[solomon-crop-rotation-and-garden-planning]]

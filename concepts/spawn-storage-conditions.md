@@ -88,8 +88,6 @@ If the spawn fails, the excuse heard more often than not is that the spawn was m
 
 ## See Also
 
-- [[growing-gourmet-grain-spawn-generation]]
 - [[growing-gourmet-spawn-production]]
-- [[growing-gourmet-home-spawn-vs-commercial-spawn]]
 - [[growing-gourmet-stock-culture-library]]
 - [[growing-gourmet-strain-senescence-degeneration]]

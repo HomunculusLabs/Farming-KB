@@ -134,8 +134,6 @@ McKenna-type psychonauts -- suggesting that people had learnt how to take
 mushrooms safely. The Dutch model remains influential in drug policy reform
 discussions worldwide, and the truffle trade that succeeded the mushroom
 trade continues to operate under its own set of legal ambiguities.
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[gartz-european-psychoactive-mushroom-species]]
-- [[psilocybin-mushroom-legal-status-worldwide]]
 - [[mushroom-cultivator-substrate-preparation]]
 - [[european-magic-mushroom-growkit-market]]

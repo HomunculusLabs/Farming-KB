@@ -3,14 +3,7 @@ title: Holmgren Household Economy and Self-Reliance
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Household Economy and Self-Reliance
-
-The household economy is the fundamental unit of permaculture-ethics|permaculture practice. Holmgren argues that rebuilding household and local economic self-reliance is not nostalgic traditionalism but a strategic response to [[energy-descent-action-planning]] — the necessary transition from high-energy to low-energy society. The household, not the corporation or the nation-state, is the scale at which sustainable systems can be most effectively designed and managed.
+tags: [[energy-descent-action-planning]] — the necessary transition from high-energy to low-energy society. The household, not the corporation or the nation-state, is the scale at which sustainable systems can be most effectively designed and managed.
 
 ## Rebuilding Household Storages of Energy
 
@@ -65,37 +58,29 @@ Examples of container reuse at Melliodora:
 - Milk cartons as plant pots and tree guards
 - 200-litre drums for grain storage and liquid manure
 
-The "next best use" hierarchy — eat leftovers, then feed to fowls, then compost — represents the [[permaculture-zones-and-sectors]] in domestic practice.
-
-## Frugality as Cultural Value
-
-Holmgren identifies frugality as one of the traditional personal, community and cultural values that have been important catalysts for the growth and development of global capitalism. However, that growth effectively undermines those values, just as the fertility of prime agricultural soils has been undermined by chemical monocultures. Rebuilding frugality is not a return to poverty but a recognition that wealth stored in diverse household forms is more resilient than wealth stored in abstract financial instruments.
-
-## The Household Scale in Permaculture Design
-
-Households and gardens are, almost by definition, on a human scale: the tasks and the available yields fit the capacities and needs of people. These are normal scales for providing not only food needs but also health care, education, and entertainment. In industrial society, functions at this scale have been dwarfed by "economies of scale," but these were considered sensible and efficient in pre-industrial times.
-
-The Melliodora example illustrates the household economy in practice:
-
-- Home-produced food combined with infrequent bulk purchase dramatically reduces "food miles"
-- Site and local energies (passive solar and wood) illustrate small scale relative to centralised gas and electricity
-- Home birth and home education deal with life's processes without large-scale institutions
-- Working from home reduces the need for travel at high speed
-- Slowly accumulated savings fund gradual development rather than borrowed money for rapid growth
-
-## The Prosperous Road Down
-
-Howard and Elizabeth Odum's concept of "the prosperous road down" is central to Holmgren's vision. The challenge is to transform ourselves so that we are happy, healthy and comfortable without the need to consume the planet and the future. This requires that the household economy be rebuilt not as austerity but as abundance — the abundance of a well-stocked cellar, a diverse seedbox, and a productive garden.
-
-## Source
-
-From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holmgren, Principles 2 (Catch and Store Energy), 3 (Obtain a Yield), 4 (Apply Self-regulation and Accept Feedback), 6 (Produce No Waste), and 9 (Use Small and Slow Solutions).
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
+The "next best use" hierarchy — eat leftovers, then feed to fowls, then compost — represents the [[permaculture-farm-design-principles]]
 - [[permaculture-principle-apply-self-regulation]]
-- [[mollison-permaculture-two-community-self-reliance]]
 - [[holmgren-catch-and-store-energy-detailed]]
 
 ## See Also
 
 - [[holmgren-food-systems-and-local-self-reliance]]
+## Practical Considerations
+
+Successful implementation of Holmgren Household Economy and Self-Reliance requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

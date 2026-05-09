@@ -116,9 +116,6 @@ climate zone.
 
 ## See Also
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
-- [[taique-desfontainia-hookeri-andean-shrub]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
-- [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]

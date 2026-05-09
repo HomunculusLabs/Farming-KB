@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [food, nutrition]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 # Root Cellaring and No-Energy Food Storage
@@ -73,13 +74,8 @@ Raised wooden beds can simply be covered with straw and plastic over the plants.
 
 ## See Also
 
-- [[comparison-root-cellaring-vs-dehydration]]
-
 - [[root-cellar-design-and-construction]]
-- [[root-cellaring-guide]]
 - [[canning-and-preserving]]
-- [[food-preservation-canning]]
 - [[homesteading-food-preservation]]
-- [[faires-low-energy-cooking-and-food-preservation]]
 - [[raised-beds-vs-in-ground-vs-containers]]
 - [[faires-food-drying-and-no-energy-storage]]

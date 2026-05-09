@@ -16,19 +16,7 @@ type: concept
 
 # Zone 1 - The Intensive Garden
 
-Zone 1 in [[permaculture-design]] is the area of most intensive use, closest to
-the home center. Bill Mollison defines it as the zone requiring frequent
-attention -- visited many times daily. This is where the kitchen garden, herbs,
-salad greens, and other daily-harvest crops are located. Zone 1 is designed for
-convenience, efficiency, and maximum yield from minimum area.
-
-## Principles of Zone 1 Design
-
-The core principle is placing the most frequently used and tended elements
-closest to the dwelling. Mollison emphasizes that energy efficiency in human
-movement is paramount -- paths should be short, wide, and well-defined. Every
-step saved in daily routines compounds over years of use. Zone 1 design
-integrates closely with [[permaculture-zone-planning]] to create logical,
+Zone 1 in [[permaculture-zone-planning]] to create logical,
 energy-conserving layouts around the home.
 
 ## The Kitchen Garden
@@ -38,33 +26,7 @@ continuously: salad greens, culinary herbs, cherry tomatoes, climbing beans,
 radishes, spring onions, and other quick-turnover crops. Mollison advocates
 for dense, polycultural planting where multiple species occupy the same bed
 in beneficial combinations. Intercropping reduces pest pressure and maximizes
-photosynthetic efficiency. See [[mollison-aquatic-polyculture-systems]] for detailed guild
-combinations.
-
-Key design elements include:
-- Raised beds for improved drainage and soil warmth
-- Narrow bed widths (1.0-1.2m) allowing reach from both sides without
-  stepping on soil
-- Mulched pathways between beds to suppress weeds and protect soil structure
-- Trellises and vertical structures for climbing plants
-- Cold frames or cloches for season extension
-
-## Herb Spiral and Intensive Herb Gardens
-
-Mollison popularized the herb spiral as a space-efficient Zone 1 element. The
-spiral creates multiple microclimates in a small footprint: sunny and dry at
-the top, cool and moist at the base, with varying aspects around the curve.
-This allows Mediterranean herbs (rosemary, thyme, oregano) at the top and
-moisture-loving herbs (mint, parsley, chives) at the bottom.
-
-## Path and Access Design
-
-Access design in Zone 1 follows the principle of least effort. Main paths
-should be wide enough for wheelbarrows (minimum 1m), paved or heavily mulched,
-and direct. Secondary paths between beds can be narrower. Mollison advises
-against right-angle grid layouts where curved or radial paths reduce walking
-distance. Paths should drain well and ideally lead rainwater into garden beds
-via swales or graded surfaces. This connects to [[mollison-designers-sector-analysis-wind-sun-fire]]
+photosynthetic efficiency. See [[mollison-designers-sector-analysis-wind-sun-fire]]
 considerations for water management.
 
 ## Intensive Planting Systems
@@ -117,17 +79,4 @@ Zone 1 is not separate from the dwelling but integrated with it. Window boxes,
 porch gardens, indoor herb racks, and trellises on walls extend Zone 1 into
 the building itself. The kitchen door is the primary access point, and the
 transition from kitchen to garden should be seamless. This architectural
-integration is a key feature of [[permaculture-housing-design]].
-
-## Maintenance Calendar
-
-Zone 1 requires daily attention: watering, harvesting, pest inspection, and
-light weeding. Weekly tasks include succession sowing, compost turning, and
-mulch top-up. Monthly tasks involve crop rotation planning, soil testing, and
-infrastructure maintenance. Mollison stresses that the daily visit should be
-pleasant and productive -- if Zone 1 feels like a chore, the design needs
-adjustment.
-
-## See Also
-
-- [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
+integration is a key feature of [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]

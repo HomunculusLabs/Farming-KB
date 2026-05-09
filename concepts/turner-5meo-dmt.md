@@ -86,9 +86,6 @@ A small dose of 5-MeO produces only bodily symptoms and a slight alteration of c
 ## See Also
 
 - [[turner-lsd]]
-- [[turner-lsd]]
-- [[turner-psilocybin]]
 - [[psychedelic-combination-guide]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]
 - [[mao-inhibitors-and-psychedelics]]

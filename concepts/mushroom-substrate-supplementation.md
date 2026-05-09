@@ -3,18 +3,7 @@ title: Mushroom Substrate Supplementation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
----
-
-# Mushroom Substrate Supplementation
-
-Substrate supplementation is the practice of adding nutritional amendments to base substrates to improve mycelial growth rate, yield, and nutritional quality of cultivated mushrooms. paul stamets provides detailed data on supplementation strategies in The Mushroom Cultivator.
-
-## Role of Supplements
-
-The base substrate provides the primary nutritional platform for mushroom growth. Supplements add concentrated sources of nitrogen, vitamins, minerals, and carbohydrates that the base substrate alone may lack in sufficient quantity. Different supplements can dramatically affect both the rate and quality of [[mycelium-running-saprophytic-decomposers]] colonization and subsequent fruitbody production.
+tags: [[mycelium-running-saprophytic-decomposers]] colonization and subsequent fruitbody production.
 
 ## Common Supplements
 
@@ -31,54 +20,17 @@ The base substrate provides the primary nutritional platform for mushroom growth
 **Calcium Carbonate (CaCO3 / Chalk)**
 - Used to buffer pH upward
 - Combined with gypsum for optimal pH buffering to 6.5
-- Used at 0.2% in [[shiitake-cultivation-guide]] sawdust substrate
-- Component of perlite spawn formulation (1.5g per 120ml water)
-
-**Lime**
-- Used in casing layer preparation to adjust pH
-- Caution: excessive liming of the casing can cause overlay (dense mycelial mat) and prevent mushroom formation
-
-### Nitrogen-Rich Supplements
-
-**Rice Bran**
-- Standard supplement for [[shiitake-cultivation-guide]] and [[growing-gourmet-enoki-cultivation]] sawdust substrates at 10% ratio
-- Provides carbohydrates, nitrogen, B vitamins
-- Cost-effective and widely available
-- 4 parts sawdust to 1 part rice bran is the standard formula
-
-**Wheat Bran**
-- Alternative to rice bran for sawdust-based substrates
-- Similar nutritional profile
-- Component of perlite spawn (50g per container)
-
-**Yeast Powder**
-- Superior to rice bran for [[shiitake-cultivation-guide]] at 2% supplementation rate
+- Used at 0.2% in [[shiitake-cultivation-guide]] and [[shiitake-cultivation-guide]] at 2% supplementation rate
 - Rich in B vitamins and amino acids
 - Promotes vigorous mycelial growth
 
 **Soybean Meal**
-- Highly effective for [[shiitake-cultivation-guide]] at 5% supplementation
-- Rich source of nitrogen and plant proteins
-- One of the best-performing supplements in Stamets' data
-
-**Milk Powder**
-- Effective supplement for [[shiitake-cultivation-guide]] at 2%
+- Highly effective for [[shiitake-cultivation-guide]] at 2%
 - Provides proteins, fats, and lactose
 - Must be used at proper rates to avoid contamination
 
 **Molasses**
-- Used at 1.5% for [[shiitake-cultivation-guide]] supplementation
-- Provides simple sugars for rapid energy
-- Can promote contamination if overused
-
-**Peptone**
-- Used in MPG (Malt Peptone Grain) agar formula at 5g per liter
-- Nitrogen-rich protein digest
-
-### Carbohydrate Supplements
-
-**Corn Starch**
-- Used in liquid culture for [[growing-gourmet-enoki-cultivation]] at 5%
+- Used at 1.5% for [[growing-gourmet-enoki-cultivation]] at 5%
 - Inhibits pellet formation in liquid culture when combined with malt
 
 **Malt / Malt Extract**
@@ -116,9 +68,9 @@ Higher nutritional content increases contamination risk. Supplements must be tho
 
 ## See Also
 
-- [[bulk-substrate-preparation]]
+- [[juncao-technology-mushroom-substrate]]
+
 - [[grain-spawn-preparation]]
-- [[casing-layer-preparation]]
 - [[mushroom-yield-optimization]]
 - Mushroom Nutritional Properties
 

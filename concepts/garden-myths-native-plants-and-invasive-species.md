@@ -19,9 +19,7 @@ The claim that native plants require less maintenance, water, and pest managemen
 ### The Balanced View
 Native plants are an excellent choice for many garden situations and provide critical ecological services (pollinator support, wildlife habitat, regional character). However, plant selection should be based on matching the plant's requirements to the site conditions, not solely on nativity. A well-adapted non-native plant in the right conditions will outperform a poorly matched native plant every time.
 ### See Also
-- [[chelation-and-metal-binding-in-plants]]
 - [[hemenway-nurse-plants-and-chaperone-species]]
-- [[native-plant-gardening]]
 - [[invasive-species-management]]
 ## Myth: Non-Native Plants Are Always Harmful to Wildlife
 The native-plant-only movement sometimes implies that any non-native plant provides no ecological value. This is not supported by research.
@@ -50,9 +48,7 @@ Effective invasive species management typically requires an integrated approach:
 5. **Monitor and follow up**: Single treatments rarely succeed. Plan for multi-year management with monitoring
 6. **Replace, don't just remove**: Fill the void left by invasive removal with desirable native plants that can compete for the released resources
 ### See Also
-- [[chelation-and-metal-binding-in-plants]]
 - [[hemenway-nurse-plants-and-chaperone-species]]
-- [[invasive-species-management]]
 - [[weed-management-strategies]]
 ## Myth: Native Plants Never Become Invasive
 The assumption that native plants are inherently well-behaved in garden settings ignores the reality that "native" refers to a geographic range, not a specific garden.
@@ -73,30 +69,28 @@ While drought-tolerant native plants do need less water than many ornamentals, t
 ### The Balanced View
 Drought-tolerant natives are an excellent choice for water-wise gardens, but they still require thoughtful site assessment, proper planting, establishment irrigation, and occasional supplemental water during extreme conditions. "Drought-tolerant" means they survive with less water, not zero water.
 ### See Also
-- [[chelation-and-metal-binding-in-plants]]
 - [[hemenway-nurse-plants-and-chaperone-species]]
-- [[native-plant-gardening]]
 - [[drought-gardening-strategies]]
-- [[invasive-species-management]]
-## Myth: Removing Invasive Plants Automatically Restores Native Ecosystems
-The assumption that invasive removal alone will result in native plant recovery ignores the ecological damage that invasive populations may have caused and the competitive dynamics of plant communities.
-### Why Removal Alone Is Often Insufficient
-- **Legacy effects**: Long-term invasive populations alter soil chemistry, soil microbial communities, nutrient cycling, and hydrology. These changes can persist after invasive removal and inhibit native plant re-establishment
-- **Seed bank depletion**: If invasive plants have been present for many years, the native seed bank may be depleted. Removing invasives does not automatically restore the seed bank
-- **Vulnerable sites**: Disturbed sites left bare after invasive removal are immediately vulnerable to reinvasion by the same or different invasive species
-- **Herbivore pressure**: In some areas, overabundant deer populations preferentially browse native seedlings while leaving invasive plants (which are often unpalatable) untouched. Removing invasives without addressing herbivory simply gives deer more native plants to eat
-### The Balanced Approach
-Effective ecological restoration requires:
-1. **Invasive removal** (the starting point, not the endpoint)
-2. **Site preparation** (addressing soil conditions, reducing seed bank)
-3. **Native plant installation** (active replanting, not passive reliance on natural recolonization)
-4. **Long-term monitoring and maintenance** (continued invasive management, native plant establishment support)
-5. **Addressing broader stressors** (deer management, hydrology restoration, pollution reduction)
-### See Also
 - [[chelation-and-metal-binding-in-plants]]
-- [[hemenway-nurse-plants-and-chaperone-species]]
 - [[invasive-species-management]]
-- [[native-plant-gardening]]
 - [[weed-management-strategies]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[ingham-weed-control-through-biology]]
+## Practical Considerations
+
+Successful implementation of Garden Myths About Native Plants and Invasive Species requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

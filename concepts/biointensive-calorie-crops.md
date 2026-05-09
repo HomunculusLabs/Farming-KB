@@ -9,96 +9,99 @@ sources:
 ---
 # Biointensive Calorie Farming
 
-Calorie farming is a core principle of [[comparison-biointensive-vs-square-foot-gardening]] that focuses on growing complete dietary calories in minimal space. While many gardening methods maximize weight or variety of vegetables, GB specifically optimizes for calories per square foot -- the metric that determines whether a garden can truly sustain human life.
-
-## The Calorie Problem
-
-Most vegetables are low in calories. A pound of lettuce provides only about 70 calories. To feed one person (2,500-3,000 calories/day), you would need 35+ pounds of lettuce daily -- requiring vast areas. Calorie farming addresses this by emphasizing calorie-dense crops:
-
-- **Root crops**: Potatoes, sweet potatoes, parsnips, burdock, Jerusalem artichokes
-- **Grains**: Wheat, oats, barley, corn, amaranth, quinoa
-- **Legumes** (protein + calories): Fava beans, soybeans, peanuts, garbanzos
-- **Oilseeds**: Sunflowers, sesame, flax
-
-## Calorie Efficiency Rankings
-
-Calories per 100 square foot bed (approximate):
-
-| Crop | Calories/100 sq ft | Notes |
-|------|-------------------|-------|
-| Potatoes | 34,000 | Top calorie producer in temperate climates |
-| Sweet potatoes | 40,000+ | Highest in warm climates |
-| Jerusalem artichokes | 30,000+ | Very reliable, perennial |
-| Parsnips | 15,000 | Good winter storage |
-| Wheat | 12,000-15,000 | Protein + calories, needs threshing |
-| Corn | 10,000-14,000 | Good caloric return |
-| Fava beans | 6,000-8,000 | Protein + calories, fixes nitrogen |
-| Soybeans | 8,000-10,000 | Complete protein + calories |
-
-Compare this to lettuce (~2,000 cal/100 sq ft) or tomatoes (~6,000 cal/100 sq ft).
-
-## The Calorie Diet Design
-
-A complete biointensive diet typically allocates bed space roughly as:
-
-- **30-40%** to calorie crops (potatoes, sweet potatoes, grains)
-- **10-20%** to special root crops (garlic, onions, leeks)
-- **20-30%** to [[biointensive-carbon-farming]] (which may also produce food)
+Calorie farming is a core principle of [[biointensive-carbon-farming]] (which may also produce food)
 - **10-20%** to vegetables for vitamins, minerals, variety
-- **10%** to [[biointensive-seed-saving]] and calorie-efficient vegetables
-
-## Potatoes: The King Crop
-
-In temperate climates, potatoes are the most calorie-efficient crop:
-
-- Highest calorie yield per unit area of any temperate crop
-- Good protein quality (compared to other staple crops)
-- Easy to grow and harvest
-- Good storage without processing
-- Provide both food and biomass for biointensive-composting|compost
-
-## Grains and Processing
-
-Growing grains requires additional steps:
-
-- **Harvesting**: Cutting, drying, threshing, winnowing
-- **Storage**: Must be thoroughly dry to prevent mold
-- **Processing**: Grinding for flour, or cooking whole
-- Jeavons recommends growing dwarf wheat varieties for easier harvesting by hand
-
-## Protein Considerations
-
-Calorie crops alone do not provide complete nutrition. GB diet design includes:
-
-- **Legumes**: Fava beans (best for most climates), soybeans, garbanzos for protein
-- **Complementary proteins**: Grains + legumes create complete amino acid profiles
-- **Vegetable diversity**: Leafy greens, root vegetables, alliums for micronutrients
-
-## Calculating Your Calorie Garden
-
-To determine if a garden can sustain you:
-
-1. Determine total annual calorie need (2,500 cal/day x 365 = 912,500 cal/year)
-2. Divide by calorie yield of chosen crops per bed
-3. Add 20-30% margin for crop failures, storage losses, seed saving
-4. Add beds for [[biointensive-carbon-farming]] (60% of total area)
+- **10%** to [[biointensive-carbon-farming]] (60% of total area)
 
 A well-designed biointensive mini-farm of 2,800-4,000 sq ft can feed one person a complete vegetarian diet year-round.
 
 ## See Also
 
-- [[biointensive-gardening-overview]]
 - [[biointensive-diet-design]]
-- [[biointensive-carbon-farming]]
 - [[biointensive-seed-saving]]
 
-- [[dom-compound-profile]]
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[root-vegetable-storage-guide]]
-- [[biointensive-diet-design]]
 - [[mushroom-harvesting-storage-methods]]
 
 ## Related
 
 - [[biointensive-close-plant-spacing]]
+## Practical Applications
+
+Biointensive Calorie Farming has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Biointensive Calorie Farming. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

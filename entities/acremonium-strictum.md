@@ -13,25 +13,7 @@ sources:
 
 ## Overview
 
-acremonium strictum is a cosmopolitan fungal species belonging to the phylum [[ascomycota-phylogeny-major-classes-lineages]]. It is known for its diverse ecological roles, functioning as an ericoid mycorrhizal endophyte of ericaceous plants, a soil saprotroph, and notably as a radiation-tolerant organism capable of colonizing extreme environments, including the walls of the Chernobyl nuclear reactor facility.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Bionectriaceae
-- **Genus:** Acremonium (syn. Acremoniella)
-- **Species:** A. strictum
-
-The taxonomy of the genus Acremonium has been subject to considerable revision, and many species formerly placed within this genus have been reassigned based on molecular phylogenetic analyses. The genus is characterized by simple, unbranched or sparingly branmalt-extract-agars bearing single, cylindrical conidia.
-
-## Morphology and Identification
-
-acremonium strictum is a hyphomycetous fungus with the following key morphological characteristics:
-
-- **Colony:** On standard media such as potato dextrose [[agar]] or malt extract agar, colonies grow slowly to moderately, reaching a diameter of 2 to 4 cm within 14 days at 25 degrees Celsius. Colonies are typically compact, velvety to floccose, and range in color from pale grayish-green to rose or salmon-pink.
+acremonium strictum is a cosmopolitan fungal species belonging to the phylum [[agar]] or malt extract agar, colonies grow slowly to moderately, reaching a diameter of 2 to 4 cm within 14 days at 25 degrees Celsius. Colonies are typically compact, velvety to floccose, and range in color from pale grayish-green to rose or salmon-pink.
 - **Hyphae:** Hyaline, septate, and thin-walled, forming a dense mycelial mat.
 - **Conidiophores:** Simple, erect, unbranched or sparingly branched, arising from the substrate hyphae. They are thin-walled and bear phialides at their apices.
 - **Conidia:** Cylindrical to ellipsoidal, hyaline, smooth-walled, produced in slimy heads (gloioconidia) at the tips of the phialides. Conidia typically measure 3 to 7 micrometers in length.
@@ -51,7 +33,7 @@ acremonium strictum is a widely distributed species found across a broad range o
 
 ### Ericoid Mycorrhizal Symbiosis
 
-One of the most ecologically significant roles of acremonium strictum is its function as an ericoid mycorrhizal fungus. As documented in Dighton (2003), A. strictum, along with [[oidiodendron-maius]], forms [[plants-without-mycorrhizal-associations]] with salal (Gaultheria shallon), an important ericaceous understory plant in Pacific Northwest forests.
+One of the most ecologically significant roles of acremonium strictum is its function as an ericoid mycorrhizal fungus. As documented in Dighton (2003), A. strictum, along with [[plants-without-mycorrhizal-associations]] with salal (Gaultheria shallon), an important ericaceous understory plant in Pacific Northwest forests.
 
 In this symbiotic role, acremonium strictum enables its host plant to access organic forms of nutrients that would otherwise be unavailable. Specifically, the ericoid mycorrhizae of salal are able to utilize:
 
@@ -94,33 +76,8 @@ The ability of acremonium strictum to colonize environments contaminated with he
 
 - Biostabilization of radionuclide-contaminated soils
 - Bioaccumulation of heavy metals from polluted environments
-- Development of fungal-based [[pcb-remediation-technologies]] for nuclear sites
-
-## Physiological Adaptations
-
-acremonium strictum possesses several physiological adaptations that enable its survival in diverse and extreme environments:
-
-- **Melanin production:** Some isolates produce melanin in their cell walls, which may provide protection against ionizing radiation, ultraviolet light, and enzymatic degradation.
-- **Enzymatic versatility:** The species produces a range of extracellular enzymes, including cellulases, pectinases, and proteases, which allow it to utilize diverse organic substrates.
-- **Stress tolerance:** Adaptations to osmotic stress, temperature extremes, and oxidative stress enable survival in fluctuating environments.
-
-## Economic and Practical Significance
-
-acremonium strictum has several areas of practical importance:
-
-- **Bioremediation:** Its radiation tolerance and ability to colonize [[singh-fungal-biofilms-in-contaminated-environments]] make it a candidate organism for bioremediation of radionuclide-contaminated sites.
+- Development of fungal-based [[singh-fungal-biofilms-in-contaminated-environments]] make it a candidate organism for bioremediation of radionuclide-contaminated sites.
 - **Agriculture:** As an ericoid mycorrhizal fungus, it contributes to the health and nutrition of ericaceous crops such as blueberries and cranberries.
-- **Medicine:** Although rarely pathogenic to humans, the species has been occasionally implicated in [[blesching-cannabis-aids-opportunistic-infections]], particularly in immunocompromised patients.
-
-## Research Notes
-
-Dighton (2003) references acremonium strictum in two distinct ecological contexts: as an ericoid mycorrhizal endophyte facilitating organic nitrogen uptake by salal, and as a radiation-tolerant species isolated from the Chernobyl reactor room. These dual roles highlight the remarkable ecological plasticity of this species and its importance in understanding fungal adaptations to extreme environments.
-
-## See Also
-
-- [[ericoid-mycorrhiza]]
-- [[oidiodendron-maius]]
-- gaultheria shallon
-- radiation tolerance in fungi
+- **Medicine:** Although rarely pathogenic to humans, the species has been occasionally implicated in [[ericoid-mycorrhiza]]
 - [[ascomycota-phylogeny-major-classes-lineages]]
 - soil fungi

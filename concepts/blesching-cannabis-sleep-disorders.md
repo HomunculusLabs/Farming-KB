@@ -142,8 +142,6 @@ past traumatic events in cases of insomniacs.
 Whatever the physical reasons for insomnia may be, a commonly observed thread
 is the inability to let go and relax. The mind is constantly engaged in
 ## See Also
-- [[cannabis-sleep-disorders-and-insomnia]]
 - [[cannabis-for-sleep-disorders]]
-- [[cannabis-for-epilepsy-and-seizure-disorders]]
 - [[cannabis-for-anorexia-and-cachexia]]
 - [[cannabis-for-cough-and-bronchospasm]]

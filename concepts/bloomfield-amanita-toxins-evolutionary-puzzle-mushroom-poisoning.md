@@ -114,7 +114,7 @@ newborn umbilical stumps to stop bleeding.
 
 ## See Also
 
-- [[bloomfield-amatoxin-poisoning-mechanism]] for detailed biochemistry
+- [[amanita-cesarea]]
+
 - [[bloomfield-mushroom-poisons-and-toxidromes]] for broader toxicology
-- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]] for coprine
 - [[bloomfield-fungal-secondary-metabolites]] for secondary metabolism

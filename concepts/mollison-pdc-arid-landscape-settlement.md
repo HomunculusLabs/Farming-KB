@@ -19,7 +19,7 @@ type: concept
 ## The Arid Landscape Profile
 
 The Permaculture Design Course provides detailed analysis of arid
-landscape geomorphology as the basis for settlement design. For complementary strategies, see [[keyline-design]] and [[permaculture-earthworks]]. In the
+landscape geomorphology as the basis for settlement design. For complementary strategies, see [[permaculture-earthworks]]. In the
 classic arid landscape, two erosion levels define the landform: a
 receding scarp traveling geologically backwards, a down-drop of the
 scarp, a back slope, and then a slope to the pediment. Scarps are very
@@ -103,7 +103,7 @@ not food but water. When water reaches wadi soils:
 ## Desert Agriculture and Water Storage
 
 The PDC describes strategies for reliable agriculture in limited desert
-water situations. See [[permaculture-dam-design]] for dam construction details and [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for erosion control in arid regions:
+water situations. See [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for erosion control in arid regions:
 
 - Rock wall dams can store 100,000 gallons, built from rock and cement
 - Rock diversion drains from molded concrete or low stonewalls can
@@ -116,35 +116,4 @@ water situations. See [[permaculture-dam-design]] for dam construction details a
 
 ## Animal Systems in Arid Landscapes
 
-Mollison discusses the complex role of animals in desert ecology. For Mollison's analysis of aquaculture in arid environments, see [[mollison-arid-lands-aquatic-species]]:
-
-- Camels, horses, donkeys, pigs, and cattle all contribute to the
-  spread of deserts through overgrazing
-- Twenty thousand horses is "an enormous load" for the landscape
-- In India, the cow is treated as holy because only cows can convert
-  roughage that humans cannot eat; 70-90% of rural cooking fuel is cow
-  dung
-- The approach shifts from cattle-focused management to "real arid land
-  agriculture that counts on its own resources"
-
-## Fencing and Stabilization
-
-On the edges of arid lands, simple strategies enable reclamation:
-
-- Fifty-foot square fences rapidly stabilize sand across hundreds of
-  yards around settlements
-- Tree belts of even 20 yards width moisturize the air and moderate
-  conditions
-- Encapsulated seed with nutrients can be planted in spiral patterns to
-  establish vegetation
-- These strategies enable the beginning of productive systems in
-  previously hostile environments
-
-## Key Design Principles for Arid Lands
-
-1. Observe the scarp and pediment profile before placing any element
-2. Locate dwellings under cliff overhangs with thermal mass protection
-3. Use box canyons for settlement with single-point fence defense
-4. Store water in sand-filled tanks where evaporation is eliminated
-5. Plant rapidly-responding tree crops at wadi moisture points
-6. Build rock dams and diversion drains to concentrate scattered flow
+Mollison discusses the complex role of animals in desert ecology. For Mollison's analysis of aquaculture in arid environments, see [[mollison-pdc-arid-landscape-scarp-ecology-and-settlement]]

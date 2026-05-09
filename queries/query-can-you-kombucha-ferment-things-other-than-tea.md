@@ -22,16 +22,7 @@ The SCOBY's microbial community evolved on tea and depends on specific compounds
 
 - **Nitrogen** — Caffeine and theanine (amino acids) feed yeast metabolism and microbial growth. Without them, fermentation is slower and the SCOBY may weaken over successive batches.
 - **Tannins** — Tea polyphenols provide structure for the cellulose pellicle and contribute antimicrobial protection. Low-tannin substrates produce thinner, weaker pellicles.
-- **Minerals** — Tea contains trace minerals (manganese, fluoride, potassium) that support microbial activity.
-- **pH buffer** — Tea's natural acidity provides a favorable starting environment.
-
-When you replace tea with another liquid, you're altering the nutrient environment the SCOBY has adapted to. Some alternatives work well; others will gradually degrade the culture.
-
-## What Works Well
-
-### Green Tea → White Tea → Oolong
-
-All true teas (*Camellia sinensis*) work. Green tea produces lighter, more floral kombucha. White tea gives champagne-like delicacy. Oolong creates complex, layered flavors. You can blend tea types for unique profiles.
+- **Minerals** — Tea contains [[aact-tea-types-and-definitions-ingham]] for unique profiles.
 
 **Verdict: Fully compatible. No risk to SCOBY health.**
 
@@ -87,31 +78,7 @@ Coconut water contains natural sugars and minerals that support fermentation. It
 Pure herbal teas (rooibos, chamomile, peppermint, hibiscus) lack caffeine and tea polyphenols. They can be blended with true tea at a 50/50 ratio for flavored kombucha.
 
 **Problems:**
-- Pure herbal tea as the sole base will weaken the SCOBY within 2–3 generations
-- Some herbs contain antimicrobial essential oils that inhibit fermentation
-- Strongly flavored herbs can overpower the subtle fermentation character
-
-**Verdict: Blend with true tea. Never use 100% herbal tea as your sole base for more than one batch.**
-
-## What Doesn't Work
-
-### Milk / Dairy
-
-Kombucha SCOBY is not adapted to dairy fermentation. Milk's lactose, proteins, and fat create an entirely different fermentation environment. The SCOBY will not produce good results in milk.
-
-**For dairy fermentation**, use milk kefir grains, yogurt cultures, or *Lactobacillus* starter cultures — these are specifically adapted to metabolize lactose and thrive in dairy.
-
-### Alcohol
-
-Adding alcohol to sweetened tea and inoculating with SCOBY produces vinegar (which is essentially what over-fermented kombucha becomes). The SCOBY will oxidize ethanol into acetic acid, but this is a one-way process — you won't get an alcoholic kombucha beverage this way.
-
-### Pure Water + Sugar (No Tea)
-
-Without any tea, you're just fermenting sugar water. The SCOBY may survive for a batch or two but will progressively weaken without the nitrogen, minerals, and polyphenols that tea provides. The resulting liquid will taste like dilute, slightly fermented sugar water — bland and uninteresting.
-
-### Soda / Energy Drinks / Commercial Beverages
-
-These contain preservatives, artificial sweeteners, phosphoric acid, and other additives that are hostile to fermentation organisms. The SCOBY will be damaged or killed.
+- Pure [[knf-water-soluble-phosphoric-acid-detailed]] cial sweeteners, phosphoric acid, and other additives that are hostile to fermentation organisms. The SCOBY will be damaged or killed.
 
 ## Practical Recommendations
 
@@ -128,19 +95,5 @@ These contain preservatives, artificial sweeteners, phosphoric acid, and other a
 |-----------|--------|------------|-------|
 | Black tea | ✅ Yes | None | Gold standard |
 | Green/white/oolong tea | ✅ Yes | None | Fully compatible |
-| Coffee | ⚠️ Partially | Moderate | Use dedicated SCOBY |
-| Fruit juice (diluted) | ⚠️ Partially | Moderate | Avoid preservatives; one-off only |
-| Coconut water | ⚠️ Partially | Moderate | Needs supplemental sugar |
-| Herbal tea blends | ⚠️ Partially | Low (if blended) | Mix 50/50 with true tea |
-| Jun (green tea + honey) | ✅ Yes (with Jun culture) | N/A | Requires Jun-specific SCOBY |
-| Milk/dairy | ❌ No | High | Use kefir grains or yogurt culture |
-| Pure sugar water | ❌ No | High | SCOBY weakens rapidly |
-| Soda/commercial drinks | ❌ No | Very high | Preservatives kill SCOBY |
-
-**Bottom line:** The SCOBY is adapted to tea and sugar. Within the tea family (*Camellia sinensis*), you have enormous creative freedom. Beyond tea, most alternatives work as one-off experiments but cannot sustain a SCOBY indefinitely. For continuous non-tea fermentation, you need cultures adapted to those specific substrates — milk kefir grains for dairy, water kefir grains (tibicos) for sugar water, *Lactobacillus* cultures for vegetables.
-
-## See Also
-
-- [[query-how-does-spirulina-compare-to-other-protein-sources-for-homestead-use]]
-- [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
+| Coffee | ⚠️ Partially | Mod [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
 - [[query-can-fungi-clean-up-oil-spills]]

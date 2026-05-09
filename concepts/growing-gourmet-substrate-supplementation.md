@@ -84,8 +84,7 @@ Simply spacing spawn bags or jars apart from one another, and
 lowering spawn room temperatures as thermogenesis begins, can stop
 this catalytic climb. For many of the gourmet wood decomposers, a
 temperature plateau of 75-85 degrees F (24-29 degrees C) is ideal
-during the [[growing-gourmet-grain-spawn-generation]] run
-and [[growing-gourmet-substrate-preparation]].
+during the [[growing-gourmet-substrate-preparation]].
 
 Thermogenesis is reduced to a more manageable level when using
 sawdust spawn for inoculation into supplemented sawdust substrates
@@ -117,29 +116,12 @@ seen. Spent tea leaves proved to be an excellent supplement.
 
 Another study by Morales et al. (1991) found that the addition of
 cotton waste to a sawdust/bran (12.5%) formula significantly
-improved yields of [[shiitake-mushroom-cultivation-and-medicinal-properties]].
-
-## Supplementing Outdoor Beds
-
-Supplementation of outdoor beds risks competition from contaminants
-and insects. The danger with raising the base nutrition of the
-substrate is that, as the base nutrition is raised, so too is its
-receptivity to contaminants. For outdoor cultivation, nutritional
-enhancement should be approached with caution.
-
-## Okara as a Substrate Base
-
-Soybean roughage (Okara), the main by-product of tofu and tempeh
-production, is essentially the extracted roughage of boiled soybean
-mash. Okara is perfectly suited for quick colonization by a wide
-variety of mushrooms, from the Pleurotus species to [[growing-gourmet-reishi-cultivation]], even Morels.
+improved yields of [[growing-gourmet-reishi-cultivation]], even Morels.
 Several companies currently use Okara for generating mycelium for
 extraction and/or for flavorings.
 
 ## Related Topics
 
-- [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]
-- [[growing-gourmet-biological-efficiency-yield]]
 - [[growing-gourmet-grain-spawn-generation]]
 - [[growing-gourmet-substrate-materials-wood-types]]

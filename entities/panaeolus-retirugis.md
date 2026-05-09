@@ -107,11 +107,8 @@ compounds detected include:
 ## Similar Species
 | Species | Distinguishing Features |
 |---|---|
-| [[panaeolus-cyanescens]] | Strongly bluing; larger and more robust |
 | [[panaeolus-subbalteatus]] | Larger cap; found on soil and dung |
-| [[panaeolus-fimicola]] | Smaller, less rugose cap surface |
 | [[panaeolus-foenisecii-taxonomy-debate]] | Gills never truly mottled; inactive |
-| [[copelandia-cyanescens]] | Intensely bluing; belongs to Copelandia |
 | [[panaeolus-acuminatus]] | Distinctly pointed cap; narrower spores |
 ## Field Identification Tips
 - Look for the characteristic mottled gill pattern that
@@ -134,9 +131,6 @@ specific conservation concerns have been identified for this
 species. Habitat loss affecting grazing mammals could
 indirectly impact local populations.
 ## See Also
-- [[panaeolus-cyanescens]]
 - [[panaeolus-subbalteatus]]
-- [[copelandia-cyanescens]]
 - [[panaeolina-foenisecii]]
-- [[panaeolus-venenosus]]
 - [[psilocybe-cubensis]]

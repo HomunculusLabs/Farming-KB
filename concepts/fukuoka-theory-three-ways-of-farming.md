@@ -16,17 +16,7 @@ type: concept
 
 # Fukuoka's Three Ways of Farming: Mahayana, Hinayana, and Scientific
 
-[[masanobu-fukuoka]] divided farming into three fundamental categories based on
-the relationship between human action and natural forces. This philosophical
-framework, rooted in Buddhist terminology, reveals the core assumptions
-underlying different approaches to agriculture and their relative merits.
-
-## The Three Categories
-
-Fukuoka arranged the three ways of farming along a spectrum from absolute to
-relative:
-
-- **Absolute World:** Mahayana [[natural-farming]] (pure natural farming)
+[[natural-farming]] (pure natural farming)
 - **Relative World:** Hinayana natural farming (organic, idealistic farming)
   and scientific farming (scientific agriculture)
 
@@ -140,8 +130,6 @@ Fukuoka summarizes the yield relationships:
 
 ## Related Concepts
 
-- [[fukuoka-theory-principle-of-non-causality]] for Fukuoka's argument that
-  causal relationships in agriculture cannot be unraveled by science
 - [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]] for the
   epistemological framework underlying these distinctions
 - [[fukuoka-orchard-cover-crop-black-wattle-system]] for practical

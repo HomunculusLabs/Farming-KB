@@ -36,31 +36,7 @@ Ayahuasca has been used for centuries — possibly millennia — in shamanic, he
 
 The classical ayahuasca brew contains two essential components:
 
-1. **[[banisteriopsis-caapi]]** (malpighiaceae) — the ayahuasca vine
-   - Provides the β-carboline alkaloids harmine, harmaline, and tetrahydroharmine (THH)
-   - These compounds act as reversible MAO-A inhibitors, preventing the gastrointestinal breakdown of DMT
-   - The vine also contributes its own psychoactive and visionary qualities
-
-2. **[[psychotria-viridis]]** (chacruna) or **[[diplopterys-cabrerana]]** (chaliponga) — the DMT admixture
-   - Provides N,N-dimethyltryptamine (DMT), a potent 5-HT₂A agonist
-   - Without MAO inhibition, orally ingested DMT is rapidly metabolized by MAO-A in the gut and liver, producing no psychoactive effects
-
-### Chemical Profile
-
-| Compound | Source | Approximate Concentration | Primary Action |
-|----------|--------|--------------------------|----------------|
-| Harmine | B. caapi | 0.3–0.7% vine dry weight | MAO-A inhibition, 5-HT₂A partial agonism |
-| Harmaline | B. caapi | 0.1–0.6% vine dry weight | MAO-A inhibition |
-| THH | B. caapi | 0.05–0.2% vine dry weight | Weak MAO-A inhibition, SERT inhibition |
-| DMT | P. viridis | 0.1–0.7% leaf dry weight | 5-HT₂A agonism, psychedelic effects |
-| NMT | P. viridis | Trace | Minor psychoactive contribution |
-
-### Ayahuasca Analogs
-
-The pharmacological principle of combining an MAOI with DMT has been adapted globally using alternative botanical and synthetic sources:
-
-- **Pharmahuasca:** Synthetic harmine/harmaline combined with freebase DMT
-- **Anahuasca:** [[peganum-harmala]] ([[syrian-rue]]) seeds + Mimosa tenuiflora root bark
+1. **[[psychotria-viridis]]** (chacruna) or **[[peganum-harmala]] ([[syrian-rue]]) seeds + Mimosa tenuiflora root bark
 - **Jurema:** Mimosa tenuiflora (jurema preta) + P. harmala
 - **Changa:** A smokable blend of DMT-infused herbs with harmala alkaloids, developed in the early 2000s by Australian psychonauts
 

@@ -3,14 +3,7 @@ title: Mollison Native Seed Forage Systems and Arid Species Lists
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison Native Seed Forage Systems and Arid Species Lists
-
-It is very probable, with the many useful Acacia species present in arid areas, that a successful [[mollison-designers-free-range-poultry-systems]] could be quickly evolved. Perpetual grain plots, unploughed, can yield about 11,750 kg of grain per hectare plus legume seed in arid conditions. Such a system would be ideally sited under vine crop or Paulownia, with small trials of about 400 m2 (1/10 acre) needed.
+tags: [[mollison-designers-free-range-poultry-systems]] could be quickly evolved. Perpetual grain plots, unploughed, can yield about 11,750 kg of grain per hectare plus legume seed in arid conditions. Such a system would be ideally sited under vine crop or Paulownia, with small trials of about 400 m2 (1/10 acre) needed.
 
 ## Poultry Forage Species for Arid Areas
 
@@ -84,25 +77,12 @@ Using the CSIRO "ripple-flow" process, all grains, sunflower, and legumes can be
 
 ## Integrated Poultry Range Design
 
-If an area of mulga were fenced and selected breeds of [[mollison-designers-free-range-poultry-systems]] tried out (with guinea fowl and pigeon), the foregoing species would provide the bulk, if not all, of the fodder. Most species could be introduced with mulga as the cover crop, and less useful species gradually eliminated.
-
-Ducks do well in arid Australian settlements (e.g., Ernabella) but need special protection from dogs, foxes, etc. Grain can be fed in early stages, with lab-lab beans tried for greens and ground cover in alternating pens.
-
-Poultry on range in mixed orchards greatly reduce the larvae of insect pests, especially fruit fly and termites.
-
-## Related
-
-- [[atriplex-halimus]]
-
-- [[forage-and-fodder-trees-permaculture-systems]] Concepts
+If an area of mulga were fenced and selected breeds of [[atriplex-halimus]]
 
 - [[mollison-arid-lands-design-and-erosion-control]]
-- [[mollison-arid-settlement-home-garden-design]]
 - [[mollison-free-range-poultry-forage-design]]
-- [[permaculture-chicken-tractors]]
 - [[mollison-aquatic-plant-systems]]
 
 ## Source
 
-[[mollison-permaculture-two-philosophy-and-tagari-community]] -- Arid lands section, native species lists, poultry forage, and aquatic species.
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+[[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

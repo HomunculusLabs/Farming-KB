@@ -1,20 +1,14 @@
 ---
 title: "Permaculture Beekeeping Guide"
 created: 2026-04-28
-tags: [permaculture, beekeeping, pollination, honey, livestock, permaculture-design]
+tags: [[permaculture, beekeeping, pollination, honey, livestock, permaculture-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# [[permaculture-beekeeping]] Guide
-
-Bees are essential producers in any permaculture system. Without their
-pollination services, producing enough food to feed a household or community
-would be significantly more difficult. Beyond pollination, bees produce honey
-and beeswax, both valuable products for home use and barter. In a
-[[permaculture-design]], beekeeping integrates with the broader landscape through
+# [[permaculture-design]], beekeeping integrates with the broader landscape through
 strategic hive placement, forage planning, and coordination with other system
 elements such as orchards, water features, and animal systems.
 
@@ -126,10 +120,5 @@ queen loss and colony decline. Workers should maintain a clean hive
 actively; neglect of cleaning duties is an early warning sign. Before
 starting beekeeping, get tested for bee sting allergies and always work with
 a partner who can provide assistance in case of anaphylactic reaction. See
-also [[permaculture-zone-planning-guide]] for hive placement within zone
-designs.
-
-## See Also
-
-- [[chicken-integration-permaculture-guide]]
+also [[chicken-integration-permaculture-guide]]
 - [[cold-climate-permaculture-guide]]

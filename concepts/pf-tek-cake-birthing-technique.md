@@ -122,8 +122,6 @@ If the cake feels excessively wet or soggy after birthing, it may have been over
 
 ## See Also
 
-- [[pf-tek-canning-jar-lid-configuration]] for lid preparation before birthing
 - [[pf-tek-mushroom-growth-timeline]] for understanding when to birth
-- [[pf-tek-aborts-and-potency-harvesting]] for harvesting the first growth forms
 - [[pf-tek-fruiting-chamber]] for the terrarium where cakes are placed
 - [[pf-tek-dry-vermiculite-contaminant-barrier]] for the barrier that is scraped away

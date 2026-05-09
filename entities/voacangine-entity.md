@@ -9,9 +9,7 @@ sources:
   - "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md"
 ---
 # Voacangine
-Voacangine is a monoterpenoid indole alkaloid found primarily in the bark and
-root bark of several Apocynaceae plant species, most notably Voacanga africana
-and Tabernanthe iboga. It is a biosynthetic precursor to ibogaine and serves
+Voacangine is a monoterpenoid [[plants-of-the-gods-tabernanthe-iboga-chemistry]]. It is a biosynthetic precursor to ibogaine and serves
 as the primary psychoactive alkaloid in traditional West African preparations
 of Voacanga bark. Structurally classified as an iboga-type alkaloid, voacangine
 shares the complex pentacyclic framework characteristic of this family but
@@ -34,17 +32,7 @@ serotonin, and NMDA receptor systems.
   soluble in water; insoluble in hexane
 - **Spectroscopy:** IR (KBr): 1725 cm⁻¹ (ester C=O), 1610 cm⁻¹ (indole);
   UV (EtOH): λmax 227, 280 nm
-## Biosynthesis and Natural Occurrence
-Voacangine is biosynthesized via the strictosidine pathway common to
-monoterpenoid indole alkaloids, beginning with condensation of tryptamine and
-secologanin to form strictosidine. A series of enzymatic transformations
-including hydroxylation, methylation, and ring closure generate the iboga-type
-pentacyclic framework, with voacangine produced as an intermediate in the
-pathway toward ibogaine.
-Voacangine is found in the following plant species:
-- **Voacanga africana:** Root bark (0.3–1.0% voacangine), stem bark
-  (0.1–0.5%), and seeds (trace amounts). Primary commercial source, harvested
-  in West and Central Africa (Cameroon, Ghana, Nigeria).
+## Biosynthesis and [[plants-of-the-gods-tabernanthe-iboga]] na, Nigeria).
 - **Tabernanthe iboga:** Root bark contains voacangine at 0.05–0.2%
   alongside ibogaine at 0.5–6.0%. Voacangine is a minor alkaloid in this
   species relative to ibogaine.
@@ -75,49 +63,7 @@ distinct from ibogaine:
   bioavailability of approximately 30–50%, with a plasma half-life of
   1–3 hours — significantly shorter than ibogaine's 4–8 hour half-life.
 ## Traditional and Ethnobotanical Use
-Voacangine-containing plants have a rich history of use in West and Central
-African traditional medicine and ritual practice:
-- **Voacanga africana bark preparations:** In Cameroon, Ghana, and Nigeria,
-  the root and stem bark is prepared as a decoction or maceration in palm
-  wine for use as a stimulant, aphrodisiac, and ceremonial intoxicant.
-- **Psychoactive effects:** At traditional doses, voacangine-containing
-  preparations produce mild stimulant effects followed by sedation, with
-  reported visual disturbances, heightened sensory perception, and dream-like
-  states. Effects are generally milder and shorter-lasting than ibogaine.
-- **Medicinal applications:** Traditional healers prescribe voacanga bark
-  for fever, malaria, intestinal parasites, diarrhea, gonorrhea, and as a
-  general tonic. The bark is also applied externally as a poultice for
-  wounds and skin infections.
-- **Hunting and divination:** In some Central African traditions, voacanga
-  preparations are used by hunters to enhance alertness and stamina, and
-  by diviners to induce visionary states.
-## Commercial and Research Applications
-Voacangine serves several commercial and research purposes:
-- **Semi-synthetic ibogaine production:** Voacangine extracted from Voacanga
-  africana root bark can be chemically converted to ibogaine through
-  hydroxylation at C-12, providing an alternative to direct extraction from
-  the slower-growing Tabernanthe iboga. This semi-synthetic route is the
-  primary commercial source of ibogaine used in contemporary therapy clinics.
-- **Research tool compound:** Voacangine is used in pharmacological research
-  as a comparative compound to ibogaine for structure-activity relationship
-  studies of iboga alkaloids.
-- **Supply chain:** Voacanga africana is commercially cultivated and
-  wild-harvested in West Africa, with Cameroon being the primary exporter
-  of dried root bark for pharmaceutical extraction.
-## Safety and Toxicology
-- **Acute toxicity:** LD50 in mice (IP): approximately 250 mg/kg. Oral
-  toxicity is lower, with LD50 > 500 mg/kg, indicating moderate acute
-  toxicity.
-- **Cardiovascular effects:** The hERG channel blockade raises theoretical
-  concerns about QT prolongation and arrhythmia risk, particularly at doses
-  exceeding traditional use levels.
-- **Gastrointestinal effects:** Nausea, vomiting, and ataxia are common at
-  doses above the psychoactive threshold. These effects are generally
-  self-limiting.
-- **No established lethal dose in humans.** Traditional use over centuries
-  suggests a reasonable safety margin at ceremonial doses.
-## Legal Status
-Voacangine is not specifically scheduled under the United Nations Convention
+Voacangine-containing plants have a rich history of [[sacramental-ayahuasca-legal-battles-united-states]] uled under the United Nations Convention
 on Psychotropic Substances. In the United States, it is not a federally
 scheduled controlled substance, though it may be subject to the Federal Analog
 Act if marketed for human consumption with psychoactive intent. The parent
@@ -125,6 +71,24 @@ plant material (Voacanga africana bark) is widely available through botanical
 suppliers and online vendors.
 ## See Also
 - Ibogaine
-- [[tabernanthe-iboga]]
 - [[harmine-entity-tihkal]]
 - [[ergine-lsa]]
+## Practical Considerations
+
+Successful implementation of Voacangine requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

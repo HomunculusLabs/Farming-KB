@@ -114,8 +114,6 @@ The emerging model of psychedelic-assisted therapy also raises important questio
 
 ## See Also
 
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-ego-dissolution-mechanisms]]
-- [[psilocybin-mystical-experiences-personality-change]]
 - [[leary-harvard-psilocybin-project]]
 - [[consciousness-and-psychedelics]]

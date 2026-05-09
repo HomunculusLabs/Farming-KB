@@ -115,8 +115,6 @@ This is why Solomon emphasizes the importance of working soil to a consistent te
 
 ## Related Concepts
 
-- [[vegetable-seed-spacing-systems]]
 - [[jeavons-water-management-irrigation]]
-- [[building-soil-fertility-long-term]]
 - [[comparison-xeriscaping-vs-drought-gardening]]
 - [[seed-germination-techniques-solomon]]

@@ -124,8 +124,6 @@ virulence and secondary metabolism.
 
 ## See Also
 
-- [[penicillium-chrysogenum]]
 - [[penicillium-expansum]]
-- [[fusarium-verticillioides]]
 - [[colletotrichum-gloeosporioides]]
 - [[botrytis-cinerea]]

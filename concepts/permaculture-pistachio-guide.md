@@ -63,19 +63,12 @@ Pistachios are relatively pest-resistant compared to other nut crops, but severa
 
 **Pistacia chinensis** (Chinese pistachio, Huang-lien-mu) -- This deciduous native of China grows to a height of 14 m. It prefers a light well drained soil. The nuts are eaten roasted, the leaves and young shoots are eaten as a vegetable.
 
-**Pistacia lentiscus** (Mastic tree) -- An evergreen shrub or small tree native to the Mediterranean region, growing to 4 m. It is extremely drought tolerant and thrives on poor, rocky soils where other species struggle. The mastic resin harvested from this species has been commercially valued for over 2,500 years and is used in chewing gum, varnishes, and traditional medicine. The berries are edible and have been used to make a traditional liqueur on the Greek island of Chios. P. lentiscus is also a useful component in [[permaculture-windbreak]] and habitat restoration in Mediterranean climates due to its ability to stabilize soil and provide wildlife cover.
-
-**Pistacia integerrima** (Kabul pistachio) -- A deciduous tree from the western Himalayas reaching 15 m, valued for its galls which are used in traditional Ayurvedic medicine. The species demonstrates exceptional cold hardiness and may be useful as a rootstock or breeding partner in areas with colder winters than the Mediterranean climate zone typically supports.
-
-## Permaculture Integration
-
-- One of the most [[permaculture-dryland-strategies]] suitable nut trees due to high drought and salt tolerance
+**Pistacia lentiscus** (Mastic tree) -- An evergreen shrub or small tree native to the Mediterranean region, growing to 4 m. It is extremely drought tolerant and thrives on poor, rocky soils where other species struggle. The mastic resin harvested from this species has been commercially valued for over 2,500 years and is used in chewing gum, varnishes, and traditional medicine. The berries are edible and have been used to make a traditional liqueur on the Greek island of Chios. P. lentiscus is also a useful component in [[permaculture-dryland-strategies]] suitable nut trees due to high drought and salt tolerance
 - Dioecious nature requires strategic planting: 1 male to 9 females at 8 m spacing
 - Long-lived tree producing for decades once established
 - High protein (19.3%) and fat (53.7%) content make it a calorie-dense staple
-- Pair with [[carob]] and [[permaculture-olive-guide]] for Mediterranean dryland food forests
-- Can be integrated into [[permaculture-windbreak]] as a component species
-- Consider intercropping with [[permaculture-ground-cover-plants]] during the 5-15 year establishment period
+- Pair with [[permaculture-olive-guide]] for Mediterranean dryland food forests
+- Can be integrated into [[permaculture-ground-cover-plants]] during the 5-15 year establishment period
 
 ## Establishing a Pistachio Food Forest
 
@@ -88,33 +81,9 @@ During the long establishment period, the space between young pistachio trees ca
 - **Aromatic herbs** (lavender, rosemary, thyme) attract pollinators and may deter pests with volatile oils
 - **Small fruits** (figs, pomegranates) can produce within 3-5 years while pistachios mature
 
-The root architecture of mature pistachio trees also creates beneficial conditions for mycorrhizal networks. Deep-rooted pistachios and shallow-rooted understory species together support a vertically stratified fungal community, enhancing overall nutrient cycling. This principle of root zone complementarity is central to food forest design and mirrors the successional patterns described in [[teaming-with-microbes-fungi-the-underground-network]].
-
-Water management in pistachio food forests can leverage contour swales, keyline design, and mulch basins to maximize rainfall infiltration. Young trees benefit from deep watering that encourages taproot development, after which they become largely self-sufficient in semi-arid climates. Drip irrigation with mulch can supplement rainfall during establishment without the water waste associated with overhead sprinkler systems.
-
-## Harvesting and Processing
-
-Harvest occurs in late summer to early autumn when the hulls split open, revealing the shell inside. The traditional method involves spreading tarps and knocking the nuts from branches with long poles. Commercial operations use mechanical shakers.
-
-Post-harvest processing is critical: the hulls must be removed within 24 hours to prevent staining and aflatoxin contamination. Hulls can be composted or used as mulch. The in-shell nuts are then dried to 5-7% moisture content for storage. Properly dried pistachios store for a year or more at room temperature. Salt roasting is the most common preparation method: nuts are soaked in brine, dried, and then roasted at 250-300 F for 10-15 minutes. Raw pistachios can also be pressed for oil (yielding approximately 50-60% by weight), which has a rich, nutty flavor suited to cooking and salad dressings.
-
-## Pruning and Canopy Management
-
-Young pistachio trees require formative pruning to establish a strong central leader and 3-5 well-spaced scaffold limbs. Without training, pistachios naturally develop a bushy, multi-stemmed habit that is difficult to harvest and prone to crowding. Pruning is best done during dormancy in late winter. Mature trees benefit from annual maintenance pruning to remove dead wood, improve light penetration, and maintain canopy openness for air circulation — this reduces disease pressure, particularly from Alternaria and Botrytis. Avoid pruning during rainy periods, as wet conditions increase infection risk at pruning wounds.
-
-## Climate Resilience
-
-As climate change intensifies drought conditions in Mediterranean and semi-arid regions worldwide, pistachios are gaining attention as a climate-resilient crop. Their water requirements (approximately 6,000-8,000 cubic meters per hectare) are significantly lower than almonds (~12,000) or walnuts (~10,000), making them one of the most water-efficient nut crops for Permaculture Water Systems systems.
-
-In Iran, the world's largest pistachio producer, traditional orchards rely on deep-rooted mother trees and minimal irrigation, demonstrating that productive pistachio cultivation is possible without the intensive water inputs used in Californian commercial production. Afghan varieties in particular show exceptional drought hardiness and may offer valuable genetics for breeding programs aimed at climate adaptation.
-
-## Nutritional and Economic Value
-
-Beyond their value as a food crop, pistachios contribute to permaculture systems in several ways. The high oil content (53.7%) makes them an excellent calorie-dense staple that stores well, contributing to food sovereignty. The shells can be used as mulch, biochar feedstock, or a carbon-rich brown material in composting systems. Pistachio shells have also been investigated as a biofilter medium for water purification, linking nut production to [[cotter-mycoremediation-overview]] and ecological wastewater treatment.
+The root architecture of mature pistachio trees also creates beneficial conditions for mycorrhizal networks. Deep-rooted pistachios and shallow-rooted understory species together support a vertically stratified fungal community, enhancing overall nutrient cycling. This principle of root zone complementarity is central to food forest design and mirrors the successional patterns described in [[cotter-mycoremediation-overview]] and ecological wastewater treatment.
 
 The global pistachio market has grown steadily, with demand increasing as consumers shift toward plant-based proteins and healthy fats. For permaculture designers, this economic viability supports the case for including pistachios as long-term productive elements in food forest designs, where their 5-15 year establishment period represents a long-term investment in perennial food security. With proper site selection, rootstock choice, and companion planting, a pistachio food forest can produce for 50-100 years or more, making it one of the most enduring investments in a permaculture landscape.
 
-- [[holzer-fruit-tree-planting-method]]
 - [[root-cellaring-and-no-energy-food-storage]]
-- [[permaculture-tree-pruning-methods]]
 - [[permaculture-food-forest-design-principles]]

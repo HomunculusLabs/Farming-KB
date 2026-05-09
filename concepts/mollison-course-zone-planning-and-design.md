@@ -1,7 +1,7 @@
 ---
 title: Zone Planning and Design in Permaculture
 created: 2026-04-28
-tags: [permaculture, zones, site-design, zone-one, zone-two, zone-three, 
+tags: [[permaculture, zones, site-design, zone-one, zone-two, zone-three, 
 zone-four, zone-five, house-site, access-design]
 date: 2026-04-25
 updated: 2026-04-25
@@ -113,11 +113,8 @@ becomes.
 
 ## See Also
 
-- [[permaculture-site-analysis]] for detailed zone mapping techniques
 - [[pdc-climate-and-microclimate-analysis]] for understanding environmental
   factors that influence zone placement
-- [[mollison-course-keyline-water-harvesting-dams]] for water system design
-  that integrates with zone planning
 - [[mollison-course-swales-and-earthworks-design]] for earthworks within
   zone systems
 - [[mollison-course-aquatic-plant-systems-ponds]] for pond design within

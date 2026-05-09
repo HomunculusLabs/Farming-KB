@@ -113,8 +113,6 @@ organisms present at different stages of resource decay.
 
 ## See Also
 
-- [[fungal-enzyme-systems-and-nutrient-cycling]]
 - [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[fungal-saprotrophic-enzymatic-strategies]]
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-enzyme-activity-nutrient-availability]]

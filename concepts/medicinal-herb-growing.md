@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, cultivation, medicine, plants, gardening, drying, harvesting, plant-growth, ethnobotany]
-sources: [papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: []
 ---
 
 # Medicinal Herb Growing
@@ -85,26 +85,12 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ### Preservation Beyond Drying
 - Tinctures: alcohol extracts. 1:2 to 1:5 herb-to-alcohol ratio. 100-proof vodka is standard. Steep 4-6 weeks, shake daily, strain.
-- Infused oils: herb steeped in carrier oil (olive, coconut, [[jojoba]]). Use for salves and massage oils.
+- Infused oils: herb steeped in carrier oil (olive, coconut, jojoba). Use for salves and massage oils.
 - Salves: combine infused oil with beeswax (1:4 to 1:5 beeswax to oil ratio).
 - Honey: herbs infused in raw honey. Excellent for cough syrups and soothing preparations.
 
-## Related
-
-- [[lycium-barbarum]]
-- [[rosa-canina]] Concepts
+## Related Concepts
 
 - [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted
 - [[saving-seeds]] -- save seeds from your best medicinal herb specimens
-
-## See Also
-
-- [[helichrysum-italicum]]
-
-- [[vinca-minor]]
-- [[yarrow-achillea-millefolium]]
-
-- [[hibiscus-sabdariffa]]
-
-- [[lomatium-dissectum]]

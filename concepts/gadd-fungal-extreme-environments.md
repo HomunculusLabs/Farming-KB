@@ -83,8 +83,6 @@ Filamentous fungi respond to four types of environmental signals: (a) abiotic an
 
 ## See Also
 
-- [[gadd-fungal-rock-weathering]]
 - [[gadd-fungal-metal-interactions]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[dark-septate-endophytes-stressed-environments]]

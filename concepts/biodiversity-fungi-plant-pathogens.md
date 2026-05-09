@@ -38,7 +38,7 @@ significant disease agents.
 
 ## Rusts and Smuts
 
-The [[rust-fungi]] (Urediniomycetes) and [[smut-fungi]] (Ustilaginiomycetes)
+The [[smut-fungi]] (Ustilaginiomycetes)
 of the Basidiomycota are among the most specialized and
 complex plant pathogens. The Uredinales displays some of the
 most complex life cycles among fungi. In the most extreme
@@ -63,17 +63,12 @@ weakly phytopathogenic fungi in healthy plant tissues
 emphasizes the heterogeneous ecology of endophyte
 associations and the evolutionary continuum between latent
 pathogens and symptomless endophytes. Fusarium species,
-many associated with wilt diseases covered in [[cervantes-fusarium-vascular-wilt-diseases]], cankers, and root
-diseases, are frequent but seldom dominant components of
-the endophyte biota of healthy plants. See
-[[biodiversity-fungi-endophytes-tropical-plants]] for further
+many associated with wilt diseases covered in [[biodiversity-fungi-endophytes-tropical-plants]] for further
 discussion of the endophyte-pathogen continuum.
 
 ## Mycoparasites and Biocontrol
 
-[[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]] and biotrophic plant pathogens
-are frequently attacked by
-mycoparasites. [[trichoderma-virens]] species, well-known
+[[trichoderma-virens]] species, well-known
 biocontrol agents of plant pathogens, are polyphagous
 mycoparasites that are difficult to distinguish morphologically
 from genetically distinct strains, highlighting the importance
@@ -108,28 +103,10 @@ diversity is expected but the least sampling has occurred.
 
 ## Ecological Consequences
 
-[[fungal-plant-diseases]] shape plant community composition through
-their effects on host survival, reproduction, and competitive
-interactions. Pathogenic fungi contribute to forest dynamics
-by creating canopy gaps when they kill dominant trees, and
-they influence agricultural productivity through crop
-diseases. The Janzen-Connell hypothesis, which proposes that
-host-specific pathogens maintain tropical forest tree
-diversity by disproportionately killing seedlings near
-conspecific adults, underscores the fundamental role of
-fungal pathogens in maintaining ecosystem-level biodiversity.
-
-## See Also
-
-- [[biodiversity-ascomycete-diversity-taxonomy]]
-- [[biodiversity-basidiomycete-diversity-taxonomy]]
+[[biodiversity-ascomycete-diversity-taxonomy]]
 - [[biodiversity-fungi-plant-mutualisms]]
-- [[biodiversity-fungi-endophytes-tropical-plants]]
 - [[biodiversity-fungi-soil-ecosystems]]
-- [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
 - [[rust-fungi]]
-- [[smut-fungi]]
 - [[trichoderma-virens]]
-- [[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]]
 - [[cervantes-fusarium-vascular-wilt-diseases]]
 - [[fungal-plant-diseases]]

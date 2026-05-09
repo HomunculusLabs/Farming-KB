@@ -100,9 +100,6 @@ consequences that far outstrip any health risks.
 
 ## Related
 
-- [[shroom-counterculture]] -- The 1960s counterculture context
-- Shroom Entheogenic Renaissance -- The revival of psychedelic
-  research
 - [[shroom-mazatec-tradition]] -- Indigenous use context
 
 ## Source
@@ -111,8 +108,6 @@ Letcher, Andy. Shroom: A Cultural History of the Magic Mushroom.
 HarperCollins, 2006. Lines 1250-1270, 9800-10000, 12100-12350.
 
 ## See Also
-
-- [[psilocybin-mushroom-legal-history]]
 
 - [[shroom-scientific-study]]
 

@@ -118,11 +118,7 @@ and specifically focused on cultivating Stropharia cubensis carpophores.
 
 ## See Also
 
-- [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[mycelial-broth-alkaloid-production]]
-- [[psilocybin-large-scale-production]]
 - [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]

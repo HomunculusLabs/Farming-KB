@@ -120,11 +120,10 @@ Ingham's approach to nematodes exemplifies her overall philosophy:
 - Testing is required to confirm results — observation alone is insufficient
 - Local, indigenous organisms are preferred over introduced species
 
-See also: [[aact-definitions-and-types-ingham]], [[aact-brewing-ingredients-ingham]], [[soil-food-web-structure]], [[aact-applications-guide-ingham]]
+See also: [[aact-brewing-ingredients-ingham]], [[aact-applications-guide-ingham]]
 
 ## Related
 
 - [[ingham-moss-algae-control]]
-- [[ingham-nutrient-cycling-soil-food-web]]
 - [[ingham-cover-crops-soil-biology]]
 - [[compost-biology-soil-food-web-inoculation]]

@@ -1,5 +1,5 @@
 ---
-title: "[[moringa]] ga-oleifera-cultivation-uses-and-nutrition]] vs. [[moringa-stenopetala]]"
+title: "Moringa oleifera vs Moringa stenopetala"
 created: 2026-04-28
 tags:
   - moringa
@@ -36,19 +36,7 @@ type: comparison
 | **Drought tolerance** | Excellent | Excellent, slightly better in prolonged dry seasons |
 | **Nutritional density** | Exceptionally high | Slightly higher in some minerals (Ca, Fe) |
 | **Leaf taste** | Peppery, horseradish-like | Milder, more cabbage-like, less bitter |
-| **[[query-can-moringa-be-used-for-water-purification]]** | Well-studied, highly effective | Effective, less studied |
-| **Global availability** | Widespread (supplements, powder, fresh) | Limited outside East Africa |
-| **Optimal climate** | Tropical / subtropical arid to semi-arid | Subtropical / mild tropical, higher elevations OK |
-
-## Botanical Differences
-
-*Moringa oleifera* is a small to medium fast-growing deciduous tree with a characteristic open crown, drooping branches, and smooth pale bark. Its leaves are tripinnate with 2–6 pairs of pinnae, each bearing small (1–2 cm) elliptic to obovate leaflets with a slightly hairy underside.
-
-*Moringa stenopetala* is generally larger and more robust, reaching 10–15 m in favorable conditions. Its leaflets are notably larger (2–4 cm), thicker, and more leathery, giving the canopy a denser appearance. The specific epithet *stenopetala* refers to its narrow flower petals — a key diagnostic feature distinguishing it from *M. oleifera*. Flowers of *M. stenopetala* are also creamy-white to pale yellow, slightly larger, and more fragrant.
-
-## Native Range and Climate Adaptation
-
-*Moringa oleifera* originates from the foothills of the Himalayas in northern India and Pakistan but has naturalized across tropical and subtropical regions worldwide — from [[fungi-of-southeast-asia]] to West Africa, Central America, and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
+| **[[fungi-of-southeast-asia]] to West Africa, Central America, and the Caribbean. It thrives in USDA zones 9–11, preferring well-drained sandy or loamy soils and full sun.
 
 *Moringa stenopetala* is endemic to the Rift Valley region of East Africa, particularly Ethiopia and southern Kenya, where it grows naturally at 400–1,800 m elevation. It is better adapted to cooler conditions and higher elevations than *M. oleifera*, making it a practical choice for East African highland farming systems where *M. oleifera* would struggle.
 
@@ -128,5 +116,4 @@ Both species share a broad pharmacological profile: anti-inflammatory, antioxida
 
 - [[comparison-perlite-vs-vermiculite]]
 
-- [[agroforestry]]
 - [[moringa-oleifera]]

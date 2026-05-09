@@ -134,8 +134,6 @@ established concept that deserves further process optimization.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[fungal-metal-redox-transformations]]
-- [[mycoremediation-heavy-metals-detailed]]
 - [[fungal-biosorption-mechanisms]]
 - [[fungal-heavy-metal-biosorption-detailed]]

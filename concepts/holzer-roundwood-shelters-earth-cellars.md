@@ -34,37 +34,9 @@ It is possible to build a roundwood shelter with a width of three metres, a leng
 
 Earth is the cheapest and best insulation. The temperature of the soil balances out fluctuations and provides a steady room temperature. The shelters can also be used to store fruit and crops. Since paddocks are also used to grow crops and animals change paddocks regularly, some shelters can be used as storage rooms during the winter -- exactly where the crops are.
 
-holzer roundwood shelters earth cellars | [[sepp-holzer-livestock-integration]] | [[root-cellar-design-and-construction]] | [[sepp-holzer-method]]
+holzer roundwood shelters earth cellars | [[root-cellar-design-and-construction]] | [[ben-law]]
 
-## Key Points
-
-1. Sepp Holzer's approach to Holzer Roundwood Shelters Earth Cellars demonstrates the power of working with natural landscape features rather than against them.
-2. Holzer's Krameterhof farm at 1,500m elevation in Austria proves that extreme climates can support abundant food production.
-3. The method relies on creating diverse microclimates through strategic use of water, earthworks, and plant placement.
-4. Raised beds and hugelkultur are central techniques that improve drainage, warmth, and soil fertility simultaneously.
-5. Animal integration — particularly pigs and poultry — plays a crucial role in soil preparation and pest management.
-6. Holzer emphasizes the importance of observing the land for at least a year before making major design decisions.
-7. Water retention landscapes including ponds and swales are key infrastructure elements in Holzer's approach.
-8. The method avoids synthetic inputs entirely, relying on natural cycles and biological diversity for fertility and pest control.
-9. Fruit trees are managed without pruning, allowing them to develop natural forms suited to their environment.
-10. Crop diversity and polyculture systems provide resilience against weather extremes, pests, and disease.
-
-## Practical Applications
-
-- Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
-- Construct raised beds using available materials — logs, branches, soil, and organic matter in layered mounds.
-- Install ponds and water features at high points to enable gravity-fed irrigation and create reflective microclimates.
-- Integrate livestock grazing patterns with crop rotation to naturally fertilize and manage vegetation.
-- Plant fruit trees and berry bushes on mounds and slopes where water drainage is optimal.
-- Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
-- Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
-- Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
-
-## See Also
-
-- [[ben-law]]
-
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-raised-bed-design-principles]], [[holzer-microclimates-permaculture]], [[holzer-assessing-the-land]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
@@ -91,3 +63,22 @@ Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire prot
 ## Related
 
 - [[holzer-roundwood-shelter-construction]]
+## Practical Considerations
+
+Successful implementation of Holzer Roundwood Shelters and Earth Cellars requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

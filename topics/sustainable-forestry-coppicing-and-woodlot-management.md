@@ -410,7 +410,7 @@ the living base that produces the material.
 
 ## See Also
 
-- [[faires-coppicing-and-woodlot-management]]
+- 
 - [[mollison-course-coppice-forest-management]]
 - [[mollison-designers-fuelwood-forestry-coppice-pollard]]
 - [[mollison-designers-fuelwood-forestry-systems]]
@@ -429,4 +429,12 @@ the living base that produces the material.
 - Holmgren, David. Permaculture principles and long-rotation forestry writings.
 - Faires, Nicole. Woodlot and coppicing guidance in permaculture practice.
 - Stamets, Paul. Mycelium Running and mycoforestry writings.
-- Traditional coppice and pollard forestry literature from European working woods.
+- Traditional coppice and pollard forestry literature from European working woods.## Merged: Faires Coppicing and Woodlot Management
+- faires-[[passive-solar-and-biomass-energy]] — energy systems
+
+## Merged: "Coppicing vs Pollarding"
+Both coppicing and pollarding are ancient, regenerative methods of harvesting wood from living trees without killing the stool (root system). They rely on a tree's ability to produce new shoots from dormant buds at or near the cut surface. The key difference lies in **cutting height** and the resulting implications for grazing tolerance, labour, and application.
+| Aspect | Coppicing | Pollarding |
+|---|---|---|
+| **Cutting height** | Near ground level (5–15 cm) | Above browsing reach (1.5–3 m) |
+| **Regrowth point** | Stool (base of trunk) | Pollard head (top of trunk) |

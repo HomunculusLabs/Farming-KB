@@ -3,7 +3,7 @@ title: Dermatophyte Fungi and Human Disease
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
 ---
 # Dermatophyte Fungi and Human Disease
@@ -97,14 +97,8 @@ Dermatophytes are keratinophilic (keratin-loving) fungi:
 
 ## Related Topics
 
-- [[melanized-fungal-pathogens]] - Overview of human fungal pathogens
 - [[cryptococcus-neoformans-pathogenesis]] - Another human fungal pathogen
-- [[melanized-fungal-pathogens]] - Melanized fungi causing disease
 - [[mucormycosis-zygomycete-infections]] - Zygomycete infections
-- [[amphotericin-b-antifungal]] - Antifungal drug used for serious fungal infections
 - [[fungal-spore-biology]] - Target for antifungal drugs
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] - The substrate that dermatophytes exploit
-
-Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 2.
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]

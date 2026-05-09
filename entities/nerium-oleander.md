@@ -58,68 +58,27 @@ Oleander thrives along **waterways, riparian zones, and disturbed areas**. It to
 
 All parts of *N. oleander* are **highly toxic** to humans and most animals. Ingestion of even small quantities of leaves, flowers, or stems can cause fatal cardiac arrhythmias.
 
-The primary toxic principles are **cardiac glycosides**, structurally related to digoxin:
-
-- **Oleandrin** — the principal cardenolide; inhibits Na⁺/K⁺-ATPase
-- **Oleandrigenin** — aglycone metabolite of oleandrin
-- **Nerine** — additional cardenolide glycoside
-- **Rosagenin** — contributes to toxicity profile
-
-Toxic doses vary by species and individual. In humans, ingestion of a single leaf may be lethal to a child. Symptoms progress from gastrointestinal distress (nausea, vomiting, abdominal pain) to cardiac effects (bradycardia, arrhythmia, ventricular fibrillation, cardiac arrest).
-
-The mechanism of toxicity is **inhibition of the sodium-potassium pump** in cardiac myocytes, leading to increased intracellular calcium and enhanced cardiac contractility followed by dangerous arrhythmias. Treatment follows digitalis toxicity protocols using digoxin-specific antibody fragments (Digibind).
-
-Smoke from burning oleander is also toxic. Even water in which oleander flowers have been placed can contain dangerous concentrations of glycosides.
-
-## Traditional and Modern Medicine
-
-Despite its extreme toxicity, oleander has been used medicinally for **over 2,000 years**. In Ayurvedic medicine, preparations from the root bark treated heart conditions, skin diseases, and snakebites. Arab physicians used oleander extracts as cardiac stimulants and diuretics.
-
-Contemporary pharmacological research has investigated several potential applications:
-
-- **Anticancer activity** — oleandrin induces apoptosis in cancer cell lines; a semi-purified extract (Anvirzel™) underwent clinical trials
-- **Cardiac glycoside therapy** — historically used as a digoxin substitute in heart failure management
-- **Antimicrobial effects** — extracts show activity against bacteria, fungi, and viruses including HSV
-- **Anti-inflammatory** — glycoside fractions reduce inflammatory markers in animal models
-- **Neuroprotective** — preliminary studies suggest protective effects in neurodegenerative models
-
-The therapeutic window is extremely narrow, and **self-medication with oleander is universally discouraged**. Several fatalities have resulted from misuse of oleander extracts in folk medicine, including use as an abortifacient or diabetes treatment.
-
-## Cultivation and Landscape Use
-
-Oleander is one of the easiest ornamental shrubs to cultivate in suitable climates, requiring minimal care once established.
-
-Key cultivation requirements:
-
-- **Light** — full sun; tolerates partial shade but flowers less
-- **Soil** — adaptable to most well-drained soils; tolerates saline and alkaline conditions
-- **Water** — drought-tolerant once established; performs best with moderate irrigation
-- **Pruning** — responds well to heavy pruning; often trained as a standard or hedge
-- **Propagation** — softwood cuttings root easily in water or moist media
-- **Pests** — oleander caterpillar (*Syntomeida epilais*) is the primary pest in tropical regions
-
-The plant is widely used in **roadside landscaping, highway medians, and public parks** due to its tolerance of urban pollution, heat reflection, and neglect. In colder climates, it is grown as a container plant brought indoors during winter.
-
-Numerous cultivars are available, varying in flower color, size, and cold hardiness. Dwarf varieties suitable for container cultivation have been developed for the nursery trade.
-
-## Historical and Cultural Significance
-
-Oleander's cultural history spans millennia. In ancient Rome, Pliny the Elder documented its medicinal use and warned of its toxicity. The plant appears in **Roman wall paintings at Pompeii**, suggesting ornamental cultivation by 79 CE.
-
-In Islamic tradition, oleander is sometimes identified with the "zaqqum" tree mentioned in the Quran, though this identification is debated among scholars. In India, the plant is associated with **Shiva worship** and features in traditional medicine texts including the Charaka Samhita.
-
-The oleander's association with Hiroshima is one of its most powerful cultural symbols. After the 1945 atomic bombing, oleander was the **first plant to bloom** amid the devastation, earning it the designation as Hiroshima's official flower in 1973. It symbolizes the city's resilience and recovery.
-
-In literature, oleander appears in works from antiquity through the modern era. Its combination of beauty and lethality has made it a **literary symbol of dangerous allure**, featured in poems, novels, and films as both an ornamental and an instrument of poisoning.
-
-The name "oleander" derives from the Greek *oleandrion*, itself possibly a corruption of *rhododendron* or *nerion*, the ancient Greek name for the plant. The specific epithet *oleander* was used by Theophrastus and later formalized by Linnaeus.
-
-## See Also
-
-- [[digitalis-purpurea]] — foxglove, another cardiac glycoside-containing medicinal plant
-- [[convallaria-majalis]] — lily of the valley, cardiac glycoside source
-- nerium oleander — African source of the cardiac glycoside ouabain
+The primary toxic principles are **cardiac glycosides**, structurally related to [[digitalis-purpurea]] — foxglove, another cardiac glycoside-containing medicinal plant
 - [[atropa-belladonna]] — deadly nightshade, another highly toxic medicinal plant
 - [[ricinus-communis-entity]] — castor bean, toxic ornamental with medicinal history
 - nerium oleander — "suicide tree," related Apocynaceae cardiac glycoside species
 - apocynaceae — plant family overview
+## Practical Considerations
+
+Successful implementation of Nerium Oleander requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

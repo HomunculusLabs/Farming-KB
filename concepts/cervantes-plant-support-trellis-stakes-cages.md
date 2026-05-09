@@ -118,10 +118,7 @@ support structures must bear.
 
 ## See Also
 
-- [[cervantes-pruning-training]] - training techniques for canopy
-  management
 - [[screen-of-green]] - SCROG method using screen
   supports
-- [[sea-of-green]] - SOG technique for many small plants
 - [[cervantes-flowering-phase]] - flowering support requirements
 - [[cervantes-co2-enrichment]] - CO2 effects on stem strength

@@ -119,12 +119,7 @@ Many homesteaders combine elements of both systems:
   the above-ground structure during cold nights.
 ## See Also
 
-- [[comparison-walipini-vs-greenhouse]]
 - [[greenhouse-design]]
-- [[underground-greenhouse-walipini]]
 - [[earth-sheltered-structures-permaculture]]
-- [[biomass-compost-greenhouse-heating-systems]]
-## See Also
-
 - [[comparison-walipini-vs-greenhouse]]
 - [[comparison-duckweed-vs-azolla]]

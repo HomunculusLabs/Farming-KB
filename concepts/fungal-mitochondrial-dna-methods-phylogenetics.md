@@ -3,14 +3,7 @@ title: Fungal Mitochondrial DNA — Methods and Phylogenetics
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
-sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
----
-
-# Fungal Mitochondrial DNA — Methods and Phylogenetics
-
-Mitochondrial DNA (mtDNA) is an excellent system for studying [[fungal-speciation-evolution]]ary genetics, biodiversity, and taxonomy. Its small size, ease of purification, high copy number, and simple restriction patterns make it particularly valuable for phylogenetic analysis.
+tags: [[fungal-speciation-evolution]]ary genetics, biodiversity, and taxonomy. Its small size, ease of purification, high copy number, and simple restriction patterns make it particularly valuable for phylogenetic analysis.
 
 ## Advantages of mtDNA for Fungal Studies
 
@@ -111,10 +104,7 @@ Relative positions and orientations of mitochondrial genes are highly variable a
 
 ## See Also
 
-- [[pcr-methods-fungal-identification-monitoring]]
 - [[ribosomal-rna-sequencing-yeast-identification]]
-- [[fungal-phylogeny-kingdom-classification]]
 - [[fungal-species-recognition-genetics]]
-- [[fungal-pellet-formation-structure]]
 - [[fungal-species-recognition-genetics]]
 - [[fungal-culture-media-formulas-applications]]

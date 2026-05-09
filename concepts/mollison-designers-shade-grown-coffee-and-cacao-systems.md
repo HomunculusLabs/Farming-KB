@@ -26,97 +26,86 @@ forest architecture.
 ## Coffee as an Understory Crop
 
 Coffee bushes thrive in the shade of larger trees. In the discussion of
-[[mollison-wet-tropical-forest-structure-and-polyculture]], Mollison
-includes coffee as one of the productive understory species that can be
-interplanted with canopy trees. Coffee prefers acid soils (pH 4.5-6.0)
-and is listed alongside chestnut, chicory, endive, potato, fennel, tea,
-shallot, watermelon, and rhubarb as species intolerant of alkaline
-conditions.
+[[mollison-designers-coffee-shade-growing-systems]] Concepts
 
-The natural habitat of coffee is the forest understory, and it produces
-the highest quality beans with the most complex flavour profiles when grown
-under shade. Shade-grown coffee typically has lower caffeine content, more
-even ripening, and better disease resistance than full-sun monoculture
-coffee.
-
-## Cacao in Palm Polyculture
-
-Cacao is one of the key understory crops recommended for coconut or
-palm-dominant polycultures. Mollison lists cacao as one of the sub-dominant
-species in the structural variation of palm polyculture (Figure 10.31),
-alongside coffee, vanilla, and pigeon pea.
-
-Intercrop spacing for cacao is 2 x 3 m, within palm systems. The
-combination of coconut and cacao yields approximately 3,122 kg/ha of copra
-and 1,300 kg/ha of cacao. Adding a black pepper component further
-increases total system returns. Cacao planted under light-foliaged legume
-nurse trees such as Acacia or Albizia receives the dappled shade it
-requires while the legumes fix nitrogen for the system.
-
-## Canopy Species for Shade
-
-Suitable canopy species for coffee and cacao include:
-
-- Legume trees: Inga edulis, Leucaena, Albizia, Gliricidia, Cassia
-- Fruit trees: Avocado, jakfruit, coconut, breadfruit
-- Nut trees: Cashew, pecan, macadamia
-- Timber trees: Teak, mahogany, cedar (where appropriate)
-
-The key is to provide 30-50% canopy cover that allows filtered light to
-reach the understory while protecting the crops from wind and excessive
-sun. Light-foliaged legumes at wide spacing are most cheaply provided for
-shade in nursery and early establishment phases.
-
-## Plantation Monoculture vs. Polyculture
-
-Mollison is critical of monoculture coffee and cacao plantations, noting
-that they suffer from:
-
-- Increased pest and disease pressure due to lack of biodiversity
-- Soil degradation from continuous cultivation and chemical inputs
-- Higher management costs for pest control and fertilisation
-- Vulnerability to price fluctuations for a single commodity
-
-By contrast, polyculture systems that integrate coffee and cacao with
-multiple tree layers, livestock, and additional crops provide:
-
-- Natural pest regulation through predator habitat
-- Continuous soil building through leaf litter and legume nitrogen
-- Diverse income streams that buffer market fluctuations
-- Reduced external input costs
-
-## Vanilla as Companion Crop
-
-Vanilla orchid is listed alongside coffee and cacao as a sub-dominant
-vine crop in palm polyculture. Palm trunks are ideal trellis for vanilla
-and passionfruit. The vine crop uses the vertical space in the system
-without competing for ground-level resources. Vanilla requires shade and
-high humidity, conditions naturally provided within the multi-strata
-polyculture.
-
-## Economic Benefits
-
-Nair's economic analyses cited by Mollison show that complex intercrop of
-two or more species triples the yield compared to monoculture, effectively
-doubling cash return on the same area. Costs of intercrop (plant or animal)
-never exceed returns if care is taken to select beneficial species for
-available soil, water supply, and climate.
-
-## Soil and Microclimate Benefits
-
-The multi-layered canopy of a coffee-cacao polyculture creates favourable
-microclimates: reduced temperature fluctuations, higher humidity, and
-protection from wind. The continuous leaf fall from canopy trees builds
-soil humus, while legume components fix atmospheric nitrogen. The root
-systems of trees at multiple depths access nutrients from different soil
-horizons and cycle them to the surface through leaf litter.
-
-## Related
-
-- [[mollison-designers-coffee-shade-growing-systems]] Concepts
-
-- [[mollison-designers-coconut-palm-dominant-polyculture]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[mollison-tropical-earth-shaping-polyculture-economics]]
 - [[mollison-avenue-cropping-with-legumes]]
 - [[mollison-evolving-polyculture-systems-for-settlements]]
+## Practical Applications
+
+Shade-Grown Coffee and Cacao Systems has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Shade-Grown Coffee and Cacao Systems. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

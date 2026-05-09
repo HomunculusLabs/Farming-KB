@@ -1,30 +1,7 @@
 ---
 title: Cool Climate Home Garden Design
 created: 2026-04-26
-tags: [permaculture, gardening, cool-climate, food-storage, season-extension]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Cool Climate Home Garden Design
-
-One special feature of cool area home gardens is the need to
-grow and store crops (in the field or home) over the winter
-months, as growth effectively ceases from late autumn to
-early spring. The middle of spring is known as the "hungry
-gap", when winter crops are finished and new crops are not
-yet yielding.
-
-## Bridging the Winter Food Gap
-
-The winter food gap is bridged by growing root crops,
-cucurbits, and subsequently processed crops for preservation.
-These crops mature in late summer and are stored or preserved.
-Staple root crops include potato, parsnip, carrot, and minor
-species such as oca, sunroot (Jerusalem artichoke), and bulbs
+tags: [[jerusalem-artichoke]]), and bulbs
 such as onions.
 
 Field crops left to over-winter include fava bean, kale, chard
@@ -143,7 +120,5 @@ as windbreak in the garden.
 
 ## See Also
 
-- [[mollison-zone-one-garden-design]]
 - [[mollison-zone-one-techniques]]
-- [[mollison-barrier-plants-in-garden-design]]
 - [[mollison-tropical-home-garden-design]]

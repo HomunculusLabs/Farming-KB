@@ -3,20 +3,13 @@ title: "Stamets Psylo Psilocybe Semilanceata"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
-tags: [mycology, species]
+tags: [[mycology, species]
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---
 title: Psilocybe semilanceata - Species Profile
-tags: [mycology, species, psilocybin, grassland, taxonomy]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
----
-
-# [[psychedelic-mushrooms-species-and-identification]]
+tags: [[psychedelic-mushroom-set-and-setting]]
 
 **Authority**: (Fries) Kummer
 
@@ -131,18 +124,7 @@ aware of this dangerous overlap.
 
 - **Psilocybe strictipes**: Similar grassland species but lacks the
   distinctive umbo
-- **[[psilocybe-pelliculosa-profile]]**: Woodland species, differs in habitat
-- **Psilocybe silvatica**: Conifer woodland species, more yellow in caps
-- **Psilocybe subfimetaria**: Related species
-- **Galerina species**: Deadly look-alikes in similar habitats; rusty
-  brown spores distinguish them
-- **Psilocybe samuiensis**: Subtropical equivalent
-
-## See Also
-
-- [[psilocybe-verrucosa]]
-
-- [[psilocybe-subfimetaria]]
+- **[[psilocybe-verrucosa]]
 
 - [[psilocybe-kumaenorum]]
 

@@ -140,11 +140,8 @@ collection involves bark incisions during the dry season
 (November–March). The exuded resin hardens into irregular,
 yellowish-brown tears over 2–3 weeks. Average yields are
 0.5–2 kg of dried resin per tree per year.
-
 ## See Also
 
-- [[boswellia-serrata]]
 - [[cinnamomum-verum]]
-- [[cinnamomum-cassia]]
 - [[myristica-fragrans]]
 - [[punica-granatum]]

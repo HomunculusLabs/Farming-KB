@@ -16,17 +16,13 @@ type: concept
 # Sooty Molds and Black Mildews - Tropical Foliar Fungi
 Sooty molds and black mildews are two groups of
 fungal-biodiversity|Ascomycetes that form dark, conspicuous
-colonies on the surfaces of [[fungi-living-plant-substrata]]s. Though ecologically
-distinct -- sooty molds are saprobic while black mildews are
-obligate parasites -- they are often confused [[allegro-death-and-resurrection-in-the-mushroom-cult]] field due
+colonies on the surfaces of [[allegro-death-and-resurrection-in-the-mushroom-cult]] field due
 to their similar appearance. Both groups are especially
-abundant [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] regions and represent a significant but
-understudied component of [[fungal-parasites-living-plants-estimating-diversity]].
+abundant [[fungal-parasites-living-plants-estimating-diversity]].
 ## Sooty Molds
 ### Biology
 The sooty molds are saprobic ascomycetes belonging to several
-different [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] Dothideales. They form black mats on
-living leaves and stems and are particularly abundant [[allegro-plants-and-drugs-in-the-ancient-world]]
+different [[allegro-plants-and-drugs-in-the-ancient-world]]
 tropics. Sooty molds use the honeydew secreted by plants or
 sap-sucking insects, such as aphids and scale, as their
 primary nutrient source. They show no host preference, and
@@ -59,7 +55,7 @@ Reynolds (1975) recognized two growth forms for sooty molds:
    representative.
 ### Geographic Distribution
 Sooty molds predominate along the continental margins of
-North and [[stamets-mushrooms-world-south-america]], in [[stamets-mushrooms-world-mexico-central-america]], and on islands
+North and [[stamets-mushrooms-world-mexico-central-america]], and on islands
 in the Western Hemisphere. They occur in some form in most
 vegetation types worldwide but are prevalent around the
 margins of rain forest communities. Hughes (1976) noted that
@@ -112,8 +108,4 @@ Species of Meliola are characterized by mycelial setae,
 which arise laterally from hyphal cells and immediately bend
 to assume a perpendicular position. Setose colonies tend to
 collect debris such as pollen and insect frass that absorbs
-[[water-management]], potentially creating microhabitats for other organisms.
-### Habitat Preferences
-Black mildews are most diverse in the tropics, where they are
-## See Also
-- [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
+[[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]

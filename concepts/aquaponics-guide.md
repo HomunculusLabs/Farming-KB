@@ -3,13 +3,13 @@ title: Aquaponics Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, cultivation, water, water-management, ecology, biology, nutrients, equipment]
+tags: [homesteading, cultivation, water, water-management, ecology, biology, nutrients, equipment]
 sources: []
 ---
 
 # Aquaponics Guide
 
-[[aquaponics]] combines aquaculture (raising fish) and hydroponics (growing plants in water) into one integrated system. Fish waste feeds the plants, and plants filter the water for the fish. It is a closed-loop, water-efficient method ideal for homesteads with limited space.
+Aquaponics combines aquaculture (raising fish) and hydroponics (growing plants in water) into one integrated system. Fish waste feeds the plants, and plants filter the water for the fish. It is a closed-loop, water-efficient method ideal for homesteads with limited space.
 
 ## How the Nitrogen Cycle Works
 
@@ -83,12 +83,12 @@ The general ratio is 1:1 grow bed volume to fish tank volume (by gallons). For b
 
 ## Plants That Thrive in Aquaponics
 
-Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, peppers, cucumbers, strawberries. Root vegetables are challenging in media beds but can work in organic vegetable garden with fine media.
+Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, peppers, cucumbers, strawberries. Root vegetables are challenging in media beds but can work in deep beds with fine media.
 
 ## Common Problems
 
 - pH crash: usually from insufficient carbonate hardness -- add potassium carbonate or crushed eggshells
-- nutrient deficiencies: iron and potassium are most common -- supplement with chelated iron and potassium hydroxide
+- Nutrient deficiencies: iron and potassium are most common -- supplement with chelated iron and potassium hydroxide
 - Fish deaths: usually from ammonia spikes, temperature shock, or low dissolved oxygen
 - Algae: reduce light exposure on water surfaces, add more plants
 
@@ -96,3 +96,5 @@ Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, 
 
 - [[worm-farming-for-profit]] -- worms can live in media beds and break down solid fish waste
 - [[homesteading-income-streams]] -- aquaponic greens and fish are premium market products
+
+See also: [[aquaponics-and-backyard-aquaculture]]

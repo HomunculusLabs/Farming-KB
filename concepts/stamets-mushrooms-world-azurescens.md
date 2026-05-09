@@ -5,10 +5,7 @@ updated: 2026-04-24
 sources: "Psilocybin Mushrooms of the World (Stamets, 1996)"
 aliases: [Astoriensis, flying saucer mushroom, indigo Psilocybe]
 type: concept
-tags: [mushroom-cultivation, mushrooms]
----
-
-# [[psilocybe-azurescens]] — Description and Habitat
+tags: [[psilocybe-azurescens]] — Description and Habitat
 
 Psilocybe azurescens Stamets and Gartz is among the most potent psilocybin
 mushrooms known. Originally discovered along the northern Oregon coast near
@@ -73,15 +70,7 @@ retained most of its original potency — a notable feature shared with
 P. semilanceata.
 
 This species is unique not only in its potency but also in its relatively high
-baeocystin content, roughly on par with [[stamets-mushrooms-world-semilanceata]]. The flesh actually becomes indigo-black where
-damaged, and it exhibits one of the strongest bluing reactions Stamets has
-seen in any Psilocybe.
-
-## Distinguishing Features
-
-The silky white stem, caramel-colored cap, relatively large stature,
-nonundulating cap margin, and broad but pronounced umbo are representative
-features. [[stamets-mushrooms-world-cyanescens]] is
+baeocystin content, roughly on par with [[stamets-mushrooms-world-cyanescens]] is
 similar to P. azurescens but can be macroscopically distinguished by its much
 smaller stature and characteristically sine-wave (wavy) cap margin.
 
@@ -94,13 +83,5 @@ Psilocybe species, which typically require milder conditions.
 
 ## Related Species
 
-See also [[stamets-mushrooms-world-cyanescens]],
-[[psilocybe-cyanofibrillosa]], Psilocybe serbica, [[psilocybe-subaeruginosa]], and
-Psilocybe venenata. An Internet-sourced collection called "Psilocybe
-cyanescens Ossip" from Astoria, Oregon, bears a resemblance to P. azurescens.
-
-## See Also
-
-- [[stamets-mushrooms-world-cyanescens]]
-- [[stamets-mushrooms-world-chemistry-potency]]
+See also [[psilocybe-cyanofibrillosa]], Psilocybe serbica, [[stamets-mushrooms-world-cyanescens]]
 - [[stamets-mushrooms-world-identification-safety]]

@@ -68,8 +68,7 @@ When told that the cypress trees, which appear so often in Van Gogh's
 paintings, are used for mourning the souls of the dead, Fukuoka
 responded: "In my eyes, they are lamenting the decline and ruin of
 the Italian mountains." This observation connected to his broader
-concerns about [[fukuoka-desert-cause-vegetation]] and
-[[fukuoka-european-civilization-standstill]].
+concerns about [[fukuoka-european-civilization-standstill]].
 
 ## The Trip to Pratovecchio
 
@@ -100,9 +99,11 @@ Italian.
 
 ## See Also
 
+- [[fukuoka-dragonfly-as-messiah-natural-salvation]]
+
+- [[fukuoka-uc-davis-student-dialogue-natural-farming]]
+
 - [[fukuoka-european-travels-natural-farming]]
-- [[fukuoka-natural-farming-italy]]
 - [[fukuoka-european-agriculture-observations]]
-- [[fukuoka-nelissen-farm]]
 - [[fukuoka-one-straw-revolution-impact]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]

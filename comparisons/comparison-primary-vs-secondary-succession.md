@@ -21,23 +21,7 @@ type: comparison
 ---
 ## Introduction
 
-[[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] describes the directional, predictable process by which
-biological communities change over time following a disturbance or the creation
-of dighton-fungi-volcanic-glacier-primary-successionundamental types are recognized: **primary succession**,
-which begins on lifeless substrates with no pre-existing soil, and **secondary
-succession**, which occurs where an existing community has been disturbed but
-soil and some organisms remain. Understanding the distinction is critical for
-ecology, conservation, and land management. Both processes follow the same
-general principle — progressive replacement of communities — but differ
-enormously in starting conditions, speed, and the mechanisms driving change.
-
-## Comparison Table
-
-| Feature | Primary Succession | Secondary Succession |
-| | -| -|
-| **Starting conditions** | Bare rock, lava, sand, or glacial till — no soil or organisms | Disturbed site with intact soil and seed bank |
-| **Soil presence** | Absent; must develop from weathering and organic input | Present; often nutrient-rich from prior community |
-| **Time to climax community** | Hund [[lichens]] thousands of years | Decades to a few centuries |
+[[lichens]] thousands of years | Decades to a few centuries |
 | **Pipermaculture-designers-manual-herbaceous-plantses** | Lichens, cyanobacteria, mosses, wind-dispersed forbs | Fast-growing herbaceous plants, grasses, shrubs |
 | **Examples** | V fungal enzyme activity nutrient availabilityial moraines, sand dunes, mine tailings |
 | **Role of facilitation** | Dominant; early species alter substrate for later arrivals | Important but less critical; soil already supports growth |
@@ -109,7 +93,7 @@ interventions restoration practitioners should consider.
 Understanding succession types is essential for effective restoration:
 
 - **Primary succession sites** require active intervention — soil amendments,
-  [[mycorrhizal-inoculation]], [[nurse-plants]], and careful pioneer species selection.
+  [[nurse-plants]], and careful pioneer species selection.
   Natural recovery may be impractically slow for human management timescales.
   Mine reclamation and volcanic restoration are canonical examples.
 
@@ -142,3 +126,7 @@ guidelines, and monitoring protocols in major restoration programs worldwide.
 - Severe disturbances create a continuum between the two types rather than a
   sharp boundary; assessment of residual soil and biota determines the
   appropriate restoration strategy.
+
+## See Also
+
+- [[mycorrhizal-succession-primary-secondary]]

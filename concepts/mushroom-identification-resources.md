@@ -125,7 +125,7 @@ Ramsbottom provides the most thorough early ethnographic account of A. muscaria 
 
 - **North America:** "Mushrooms Demystified" (David Arora), "National Audubon Society Field Guide to North American Mushrooms," "Mushrooms of the Northeastern United States and Eastern Canada"
 - **Europe:** "Mushrooms" (Roger Phillips), "The Mushrooms and Toadstools of Great Britain and Europe"
-- **Australia/New Zealand:** "A Field Guide to Australian Fungi" (Bruce Fuhrer), "Magic Mushrooms of Australia & New Zealand" ([[john-w-allen]])
+- **Australia/New Zealand:** "A Field Guide to Australian Fungi" (Bruce Fuhrer), "Magic Mushrooms of Australia & New Zealand" ([[john-allen]])
 - **Mexico/Central America:** Guzman's monograph of Psilocybe, "Field Guide to the Mushrooms of Mexico"
 - **General reference:** "Mushrooms of the World" (Benjamin, 1995) as referenced in Mr. Bloomfield's Orchard
 

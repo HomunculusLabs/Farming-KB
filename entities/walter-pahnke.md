@@ -128,11 +128,8 @@ his MEQ remains a standard instrument in contemporary clinical trials.
 
 ## See Also
 
-- [[psilocybin-clinical-research-history]]
 - [[roland-griffiths]]
-- [[albert-hofmann]]
-- [[humphry-osmond]]
+- gordon-wasson
 - [[stanislav-grof]]
-- [[rick-strassman]]
 - [[mystical-experience]]
 - [[compass-pathways]]

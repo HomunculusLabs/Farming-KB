@@ -134,9 +134,10 @@ sharply with the broad distributions seen in sections like
 
 ## See also
 
-[[guzman-allen-gartz-global-psilocybe-biogeography]]
 [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
-[[psilocybe-section-classification]]
 [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-[[guzman-allen-gartz-neotropical-psilocybe-species]]
 [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
+
+## See Also
+
+- [[guzman-allen-gartz-psilocybe-habitat-vegetation-associations]]

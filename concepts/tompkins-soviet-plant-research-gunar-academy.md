@@ -119,20 +119,8 @@ regular periods of rest and quiet."
 ## Significance
 
 The Soviet research at the Timiryazev Academy represents some of the
-most rigorous institutional investigation into [[tompkins-plant-perception-experiments]] conducted during the twentieth century. The fact that this
-work received official support from the Soviet scientific establishment,
-including publication in *Pravda*, stands in contrast to the skepticism
-that characterized much of Western institutional science's response to
-similar findings. The Gunar team's development of biopotential pulse
-measurement as a diagnostic tool for plant health anticipates modern
-approaches to [[plant-fungal-signaling-mycorrhiza]] and
-[[plant-hormones-and-chemical-signaling-systems]]
-research.
-
-## See Also
-
-- [[tompkins-cleve-backster-primary-perception]] - Backster's parallel
+most rigorous institutional investigation into [[plant-fungal-signaling-mycorrhiza]] and
+[[tompkins-cleve-backster-primary-perception]] - Backster's parallel
   American research
-- [[tompkins-plant-electrical-signals]] - Plant electrical signaling
 - [[tompkins-mitogenetic-rays-plant-cell-communication]] - Soviet-era
   discoveries in cell-to-cell communication

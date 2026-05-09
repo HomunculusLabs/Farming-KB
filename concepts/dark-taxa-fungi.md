@@ -37,53 +37,7 @@ Dark taxa are discovered through environmental sequencing of diverse substrates:
   that are rarely collected independently
 - **Aquatic sediments** — marine and freshwater substrates contain poorly
   studied fungal communities
-- **Air samples** — aerobiology captures [[spore]]s of fungi that may never be
-  found in situ
-- **Insect guts** — the mycobiome of beetles, ants, and termites harbors
-  specialized fungal symbionts
-
-## Why They Remain Undescribed
-
-Several barriers prevent dark taxa from being formally described:
-
-1. **No specimen**: Environmental sequences come from bulk DNA extractions,
-   not individual organisms. The International Code of Nomenclature
-   traditionally requires a physical specimen (type) for valid publication.
-2. **No culture**: Many fungi resist standard cultivation, preventing
-   morphological study and genome sequencing from isolates.
-3. **No phylogenetic placement**: Sequences from single loci (ITS alone) may
-   not resolve placement within the fungal tree of life.
-4. **Taxonomic expertise gap**: There are too few trained mycological
-   taxonomists to process the flood of molecular data.
-5. **Scale of the problem**: The sheer volume of unique sequences from
-   environmental surveys dwarfs the capacity of the taxonomic community.
-   A single soil metabarcoding study can generate thousands of novel
-   OTUs, far more than could ever be formally described individually.
-
-## Quantifying the Unknown
-
-A proposed amendment to the nomenclatural rules, sometimes called the "seq-code"
-or DNA-based nomenclature, would allow formal naming of fungi based solely on
-DNA sequences. Proponents argue this is essential for cataloguing dark taxa.
-Opponents warn that sequence-only names could create taxonomic chaos without
-morphological anchors. As of 2026, the debate remains unresolved, though the
-trend favors eventual adoption of sequence-based nomenclature for at least some
-fungal groups.
-
-## Estimating Dark Taxa Abundance
-
-Global metabarcoding initiatives have attempted to quantify dark taxa. The
-UNITE database for fungal ITS sequences contains millions of sequences, of which
-a significant fraction remain unclassified at the species level. Earth
-Microbiome Project data suggests that for every described fungal species, there
-may be 10-20 dark taxa detectable in environmental samples.
-
-## Implications for Ecology
-
-Dark taxa are not merely a taxonomic curiosity. They may play critical but
-unrecognized roles in ecosystem function. Saprotrophic dark taxa could be major
-decomposers; pathogenic dark taxa could drive disease in plants or animals;
-[[mycorrhiza]]l dark taxa could influence plant community composition. Understanding
+- **Air samples** — aerobiology captures [[mycorrhiza]]l dark taxa could influence plant community composition. Understanding
 ecosystem processes requires understanding all participants, not just the
 named ones.
 
@@ -115,7 +69,25 @@ a framework for organizing the vast uncharted territory of fungal diversity.
 
 ## See Also
 
-- [[fungal-biodiversity]]
 - [[environmental-dna-sequencing-fungi]]
 - [[fungal-cryptic-species]]
 - fungal metabarcoding
+## Practical Considerations
+
+Successful implementation of Dark Taxa (Fungi) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

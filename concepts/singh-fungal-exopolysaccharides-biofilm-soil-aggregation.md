@@ -22,70 +22,10 @@ soil particles into stable aggregates essential for productive soil function.
 ## Glomalin and Related Glycoproteins
 
 Glomalin, discovered by Sara Wright in 1996, is a glycoprotein produced by
-[[arbuscular-mycorrhizal-fungi]] that has revolutionized understanding of fungal
-contributions to soil carbon storage and aggregation:
-
-- Glomalin is operationally defined as glomalin-related soil protein (GRSP),
-  extracted from soil using citrate buffer at high temperature (121 degrees
-  Celsius) and measured through Bradford protein assay
-- GRSP concentrations in soil range from 1 to 15 milligrams per gram of
-  soil, contributing an estimated 27 percent of total soil carbon in some
-  ecosystems
-- The protein is deposited on hyphal walls and in the soil matrix during
-  hyphal growth and turnover, persisting for years to decades due to
-  hydrophobic and metal-binding properties that resist microbial degradation
-- Glomalin contains iron and other metals in its structure, contributing to
-  the formation of stable iron-organic matter complexes in soil
-- Total GRSP pools can reach hundreds of grams per square meter in
-  mycorrhizal-dominated ecosystems, representing a significant global
-  carbon sink
-
-Two operationally defined fractions are recognized: easily extractable GRSP
-(EE-GRSP) representing recently deposited material, and total GRSP (T-GRSP)
-including more recalcitrant fractions with longer turnover times.
-
-## Exopolysaccharide Production by Fungi
-
-Beyond glomalin, diverse fungal species produce a wide range of
-exopolysaccharides with soil-binding properties:
-
-- Beta-glucan exopolysaccharides produced by [[trichoderma-forest-green-mold-guide]] species,
-  [[aspergillus-niger-in-fungal-bioleaching]], and [[penicillium-entity]] species form viscous gels
+[[trichoderma-forest-green-mold-guide]] species,
+  [[fungal-roles-soil-food-webs]] species form viscous gels
   that coat soil particle surfaces and bridge adjacent particles
-- Pullulan, produced by [[aureobasidium-pullulans]], is a linear
-  alpha-glucan with excellent film-forming properties used in industrial
-  applications and contributing to soil crust formation
-- Galactomannans and other heteropolysaccharides from various soil fungi
-  provide additional binding capacity through diverse functional groups
-  including carboxyl, hydroxyl, and amino groups
-- EPS composition varies with fungal species, growth conditions, carbon
-  source, and environmental stress, allowing functional adaptation to
-  different soil environments
-
-Fungal EPS production is stimulated by nutrient limitation, particularly
-nitrogen and phosphorus starvation, and by environmental stresses including
-desiccation, salinity, and metal exposure that trigger protective matrix
-formation.
-
-## Mechanisms of Soil Aggregate Formation
-
-Fungal-mediated soil aggregation operates through multiple complementary
-mechanisms:
-
-- Physical entanglement: fungal hyphae physically wrap around soil
-  particles, binding them together through mechanical tension. Hyphal
-  networks create a three-dimensional scaffold that resists slaking
-  and dispersion forces
-- Biological bonding: EPS and glomalin coat hyphal surfaces and soil
-  particles, forming adhesive bridges that cement mineral grains into
-  stable microaggregates (less than 250 micrometers)
-- Aggregate hierarchy: fungal mechanisms primarily stabilize
-  microaggregates that subsequently combine into macroaggregates through
-  additional biological and physicochemical processes
-- Organic matter occlusion: fungal EPS creates hydrophobic coatings
-  around aggregates that protect enclosed organic matter from microbial
-  decomposition, contributing to long-term carbon sequestration
-- Root-fungal-soil continuum: [[mycorrhizal-fungi]] connect root systems to
+- Pullulan, produced by [[mycorrhizal-fungi]] connect root systems to
   soil aggregates, creating integrated structures that resist wind and
   water erosion
 
@@ -146,5 +86,4 @@ bacterial partners:
   including desiccation, UV radiation, and toxic metal exposure,
   enhancing fungal survival in contaminated soils
 - The biofilm matrix concentrates extracellular enzymes, creating
-  localized zones of high enzymatic activity for pollutant degradation
 ## See Also

@@ -22,7 +22,7 @@ Mushroom foraging is rewarding but carries genuine risks. Several mushroom speci
 ## Deadly Species
 
 ### Death Cap (Amanita phalloides)
-Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species ([[paddy-straw-mushroom]], some caesar's mushrooms).
+Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species (paddy straw mushroom, some caesar's mushrooms).
 
 ### Destroying Angel (Amanita virosa, A. bisporigera, A. ocreata)
 Pure white, elegant mushrooms in the Amanita genus. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.
@@ -39,10 +39,10 @@ A small brown mushroom that grows on wood -- the same habitat as many edible spe
 
 | Edible Species | Deadly Lookalike | Key Differences |
 |---------------|-----------------|-----------------|
-| Paddy straw ([[volvariella-volvacea]]) | Death cap (A. phalloides) | Death cap has white gills and a volva; paddy straw has pink gills |
+| Paddy straw (Volvariella volvacea) | Death cap (A. phalloides) | Death cap has white gills and a volva; paddy straw has pink gills |
 | Honey mushroom (Armillaria mellea) | Deadly galerina (G. marginata) | Galerina has a brown spore print; Armillaria has white spores |
 | Caesar's mushroom (Amanita caesarea) | Death cap | Careful attention to volva color, gill color, and spore print needed |
-| Chanterelle ([[cantharellus-cibarius-entity]]) | Jack-o'-lantern (Omphalotus olearius) | Jack-o'-lantern has true gills; chanterelles have forked ridges |
+| Chanterelle (Cantharellus cibarius) | Jack-o'-lantern (Omphalotus olearius) | Jack-o'-lantern has true gills; chanterelles have forked ridges |
 
 ## Spore Prints
 
@@ -70,5 +70,24 @@ A proper identification considers ALL of these features:
 ## See Also
 
 - [[gourmet-mushroom-species-guide]]
-- [[the-soil-food-web]]
-- [[mushroom-cultivation-fundamentals]]
+- [[fungal-ecology-forest-floor]]
+- [[psilocybin-mushroom-cultivation-basics]]
+## Practical Considerations
+
+Successful implementation of Mushroom Foraging Safety requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -86,12 +86,8 @@ Key areas requiring further investigation:
 
 ## Related Topics
 
-- [[bioremediation-ecosystem-restoration]]
 - [[mycoremediation-of-petroleum-hydrocarbons]]
-- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[fungal-bioremediation]]
-- [[cotter-mycoremediation-overview]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[staycare-fungal-agricultural-waste-conversion]]
 - [[fungal-nitrogen-deposition-fungal-community-responses]]
 - [[mycorrhiza-soil-bioremediation]]

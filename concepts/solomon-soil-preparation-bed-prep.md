@@ -104,8 +104,6 @@ Roots breathe oxygen and exhale carbon dioxide. They cannot get oxygen from leav
 
 ## See Also
 
-- [[soil-building-permaculture]]
 - [[sheet-mulching-lasagna-gardening]]
-- [[composting-and-soil-biology]]
 - [[no-till-cannabis]]
 - [[soil-food-web-nutrient-cycling]]

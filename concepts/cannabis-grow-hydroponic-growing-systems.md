@@ -12,61 +12,12 @@ type: concept
 
 Hydroponics is the technique of growing plants without soil, using beds
 of sand, gravel, or artificial mediums that are flooded with a nutrient
-solution. As [[greg-green]] explains in The Cannabis Grow Bible, hydroponics
-is a very successful way of growing cannabis for large bud quantities or
-year-round production. When done correctly, hydroponics can produce a
-flowering plant in three-quarters the normal time required for a soil
-grow.
-
-## Fundamentals of Hydroponic Growing
-
-A basic hydroponics system consists of a pot, a reservoir, a grow
-medium, a pump, and a set of growth nutrients. The system has a top
-layer holding the grow medium and a lower layer holding the water with
-added nutrients. The plant develops roots that grow through the medium
-and down into the nutrient solution. Water and nutrients are pumped into
-the lower portion at certain timed intervals.
-
-The plant can devote more of its energy into upper-body growth rather
-than putting energy into roots searching for water and air. Hydroponics
-produce massive root clusters. One can easily pick up a 2-gallon bucket
-full of root growth from a single plant. However, if a hydroponics
-system is not well maintained, the whole unit may fail and kill plants
-very quickly. This is the biggest problem the hydroponics grower faces.
-
-## Major Hydroponic System Types
-
-Several hydroponic systems are commonly used for cannabis cultivation:
-
-**[[nutrient-film-technique]] (NFT):** An all-in-one system where the
+solution. As [[nutrient-film-technique]] (NFT):** An all-in-one system where the
 reservoir containing pumps and nutrient solution is contained in the same
 unit. These systems are generally flat and long, with a constant flow of
 nutrients to the roots and back to the reservoir.
 
-**Flood and Drain ([[ebb-and-flow]]):** An all-in-one system recognized by
-its depth. The grow medium is located above the reservoir which pumps
-nutrients and water to the roots at a set time and rate. During the day
-the plant goes through spells of dryness as the nutrient solution is
-pumped into the medium and slowly drained back into the reservoir.
-
-**Drip Irrigation System:** Plants are located in separate chambers and
-nutrients are fed to the medium by a small dripper. The solution drains
-through much like an Ebb and Flow system.
-
-**Aeroponics:** Professional-grade systems where plants are grown in a
-medium placed into slots along a lengthy tube. Inside the tube, nozzles
-mist the roots of each plant with grow nutrients. These systems are
-generally expensive and used by experienced commercial growers.
-
-## Automatic and Manual Hydroponic Pots
-
-These are pots designed for growing one plant at a time. In each pot, a
-pump delivers nutrients into the bottom until they reach the roots. The
-roots absorb what they can until dry, then more nutrient solution is
-delivered. These units are good for growers who wish to grow big bushy
-cannabis plants in a simple stand-alone unit.
-
-## The [[deep-water-culture]] Bubbler
+**Flood and Drain ([[deep-water-culture]] Bubbler
 
 The Deep Water Culture system, also known as "The Bubbler," is one of
 the most famous and simplest homemade hydroponic systems. It is very
@@ -132,8 +83,5 @@ needs more or less nutrition based on visual cues.
 
 ## See Also
 
-- [[cervantes-sterilizing-grow-systems]]
-
 - [[cannabis-grow-room-setup]]
-- [[cannabis-indoor-growing-guide]]
 - [[cannabis-growing-environment-setup]]

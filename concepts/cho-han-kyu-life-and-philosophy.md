@@ -88,24 +88,9 @@ Cho was not only a farmer and inventor but also a dedicated teacher. His approac
 
 Cho developed a complete library of natural farming inputs, each produced from locally available materials:
 
-- [[knf-indigenous-microorganism-culture]] (Indigenous Microorganisms) -- the foundation
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]] and FPJ (Fermented Fruit/Plant Juice) -- nitrogen sources
-- [[knf-fish-amino-acid]] (Fish Amino Acid) -- protein/nitrogen source
 - [[knf-oriental-herbal-nutrient]] (Oriental Herbal Nutrient) -- health tonic
-- [[lactic-acid-bacteria-knf]] (Lactic Acid Bacteria) -- digestive aid and pathogen suppressor
-- [[water-soluble-calcium-wca]] and [[water-soluble-calcium-wca]] -- mineral sources
-- [[knf-brown-rice-vinegar]] (Brown Rice Vinegar) -- growth promoter and mineral solvent
-- [[knf-fermented-mixed-compost]] (Fermented Mixed Compost) -- soil amendment
-- Mineral liquids (M-A through M-E) -- stage-specific mineral supplements
-
-## Legacy
-
-Cho Han-Kyu passed away in 2015, but his system continues to spread globally. The Cho Global Natural Farming organization continues to teach and promote his methods. His greatest legacy is the demonstration that farming can be productive, profitable, and environmentally regenerative when it works with nature rather than against it.
-
-## See Also
-
+- [[water-soluble-calcium-wca]] and [[knf-brown-rice-vinegar]] (Brown Rice Vinegar) -- growth promoter and mineral solvent
 - [[four-principles-of-natural-farming]]
-- [[knf-preparations]]
 - [[knf-nutritive-cycle-theory]]
-- [[korean-natural-farming-imo-recipes]]
 - [[korean-natural-farming-lab-and-ohn-recipes]]

@@ -15,44 +15,14 @@ Emerging contaminants represent a diverse and rapidly expanding class of
 environmental pollutants that includes pharmaceuticals, personal care
 products, endocrine-disrupting compounds, microplastics, per- and
 polyfluoroalkyl substances (PFAS), and other novel synthetic chemicals.
-Singh's treatment of [[mycoremediation]] addresses fungal capabilities for
-transforming these recalcitrant compounds, which often persist through
-conventional wastewater treatment processes and accumulate in aquatic and
-terrestrial environments.
-
-## Pharmaceutical Compounds
-
-Pharmaceutical residues enter the environment through wastewater discharge,
-agricultural runoff from manure application, and improper disposal. Fungal
-systems offer promising degradation pathways for several major drug classes:
-
-- Antibiotics including tetracyclines, sulfonamides, and fluoroquinolones
-  are susceptible to laccase-mediated oxidation and cytochrome P450
-  transformation by white-rot fungi such as [[turkey-tail-trametes-versicolor]] and
+Singh's treatment of [[turkey-tail-trametes-versicolor]] and
   bjerkandera adusta
 - Non-steroidal anti-inflammatory drugs (NSAIDs) including diclofenac,
   ibuprofen, and naproxen undergo oxidative degradation by fungal
   peroxidases, with removal efficiencies reaching 80 to 95 percent in
   optimized reactor systems
 - Anticancer drugs including cyclophosphamide and 5-fluorouracil are
-  transformed by fungal [[ligninolytic-enzymes]] through N-dealkylation and
-  aromatic ring oxidation
-- Beta-blockers, lipid regulators, and antiepileptics show variable
-  susceptibility to fungal degradation depending on molecular structure
-  and functional group substitution patterns
-
-The broad substrate specificity of fungal lignin-modifying enzymes makes
-them particularly valuable for pharmaceutical degradation, as these enzymes
-evolved to oxidize structurally diverse lignin subunits.
-
-## Personal Care Products
-
-Personal care product ingredients including UV filters, synthetic musks,
-antimicrobial agents, and preservatives have been detected worldwide in
-surface waters, sediments, and biota:
-
-- Triclosan, a widely used antimicrobial agent, is efficiently degraded
-  by [[turkey-tail-trametes-versicolor]] laccase through ether bond cleavage and
+  transformed by fungal [[turkey-tail-trametes-versicolor]] laccase through ether bond cleavage and
   phenoxy radical coupling reactions
 - UV filter compounds including benzophenone-3 and octocrylene undergo
   photolytic and enzymatic transformation in fungal treatment systems
@@ -141,9 +111,9 @@ reactor designs:
 
 - fungal laccase enzymes decolorization - Laccase enzymes central to
   emerging contaminant transformation
-- [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] - Ligninolytic enzyme systems
-  responsible for broad-spectrum pollutant oxidation
-- bioremediation technologies overview - Broader remediation context
-  for emerging contaminant treatment
 - [[singh-fungal-consortia-synergistic-biodegradation]] - Multi-species approaches
   for complex emerging contaminant mixtures
+
+## See Also
+
+- [[singh-fungal-degradation-pesticides]]

@@ -140,10 +140,8 @@ designed.
 
 ## See Also
 
-- [[permaculture-two-design-principles]]
 - [[mollison-permaculture-two-design-in-landscape]]
-- [[permaculture-food-forest-design-principles]]
 - [[mollison-animal-integration-permaculture-design]]
-- [[pdc-urban-permaculture-design-principles]]
+- [[permaculture-design-principles]]
 
-- [permaculture](permaculture.md)
+- [[permaculture](permaculture.md)

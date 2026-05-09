@@ -117,9 +117,7 @@ of sustainable productive systems.
 
 ## See Also
 
-- [[food-forest-layers-and-species]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-- [[gaias-garden-food-forest-case-studies]]
 - [[ozier-pdc-ecological-design]]
 - [[ozier-pdc-composting-and-soil-building]]
-- [[ozier-pdc-animal-systems-integration]]
+- ozier pdc animal systems integration

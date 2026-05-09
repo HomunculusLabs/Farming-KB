@@ -110,12 +110,8 @@ The species plays an ecological role as a food source for birds and small mammal
 
 ## See Also
 
-- [[hypericum-perforatum]]
 - [[taraxacum-officinale]]
-- [[arctium-lappa]]
 - [[centella-asiatica]]
-- [[leonurus-cardiaca-entity]]
 - [[valeriana-officinalis]]
-- [[verbascum-thapsus]]
 - [[melissa-officinalis]]
 - [[scutellaria-baicalensis]]

@@ -110,9 +110,7 @@ production and fitness requires further investigation.
 
 ## See Also
 
-- [[dighton-aquatic-hyphomycete-conidia-community-dynamics]]
 - [[dighton-fungi-mangrove-coastal-ecosystems]]
-- [[dighton-fungal-trophic-interactions-soil-food-webs]]
 - [[dighton-fungal-grazing-feedbacks-decomposition]]
 - [[freshwater-fungi-ingoldian-spores]]
 

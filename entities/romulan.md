@@ -136,9 +136,6 @@ alertness or coordination due to strong sedative profile.
 
 ## See Also
 
-- [[white-widow-cannabis]] — grandparent lineage (White Widow → White Rhino)
 - [[ak-47-cannabis]] — balanced hybrid with shared relaxing qualities
-- [[northern-lights-cannabis]] — classic indica with similar sedative profile
 - [[granddaddy-purple]] — purple indica with overlapping therapeutic applications
-- [[chemdog]] — influential parent of many modern hybrids
 - [[myrcene]] — dominant terpene responsible for sedative body effects

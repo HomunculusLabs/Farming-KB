@@ -45,19 +45,10 @@ Nutrient burn is the visible damage that results from excessive nutrient concent
 ## Causes
 
 ### Over-Fertilization
-The most common cause. Following manufacturer recommendations at full strength is often too much for cannabis, especially young plants. See [[cannabis-nutrient-recipes]] for proper dosing.
-
-### Salt Buildup
-Over multiple feedings, nutrient salts accumulate in the soil or growing medium. Even moderate feeding schedules can lead to toxic salt levels over time without periodic flushing. See [[cannabis-ph-management-and-soil-flushing]].
+The most common cause. Following manufacturer recommendations at full strength is often too much for cannabis, especially young plants. See [[cannabis-ph-management-and-soil-flushing]].
 
 ### Small Containers
-Plants in small pots with limited soil volume have less buffer against nutrient concentration. They need feeding less frequently and at lower concentrations than plants in large containers. See [[cannabis-pot-selection-and-container-sizing]].
-
-### Hot Soil
-Pre-fertilized potting soils (especially those with slow-release fertilizers) can burn seedlings. Young plants do not need heavy feeding and should be started in plain or lightly amended soil.
-
-### Improper pH
-pH outside the optimal range can cause certain nutrients to become excessively available while locking out others, creating a toxic imbalance. See [[cannabis-nutrient-lockout-and-ph]].
+Plants in small pots with limited soil volume have less buffer against nutrient concentration. They need feeding less frequently and at lower concentrations than plants in large containers. See [[cannabis-nutrient-lockout-and-ph]].
 
 ## Prevention
 
@@ -94,7 +85,7 @@ It is critical to distinguish between burn (too much) and deficiency (too little
 | Progression | Older leaves affected first | Depends on nutrient mobility |
 | Soil EC | Elevated | Low |
 
-See [[cannabis-chemical-burn-vs-deficiency]] for detailed comparison and [[cannabis-nutrient-deficiency-and-toxicity-guide]] for the full deficiency and toxicity reference.
+See [[cannabis-nutrient-deficiency-and-toxicity-guide]] for the full deficiency and toxicity reference.
 
 ## Seedling Sensitivity
 
@@ -105,13 +96,7 @@ Seedlings are extremely vulnerable to nutrient burn. During the first 1–2 week
 - After 2 weeks, introduce nutrients at quarter strength maximum
 - Gradually increase to half strength by week 4
 
-See [[cannabis-seed-germination-methods]] for proper seedling care.
-
-## Related Topics
-
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]] — full deficiency/toxicity reference
-- [[cannabis-chemical-burn-vs-deficiency]] — distinguishing burn from deficiency
+See [[cannabis-nutrient-deficiency-and-toxicity-guide]] — full deficiency/toxicity reference
 - [[cannabis-nutrient-lockout-and-ph]] — pH-related availability problems
-- [[cannabis-ph-management-and-soil-flushing]] — flushing procedures
 - [[cannabis-nutrient-recipes]] — proper feeding schedules
 - [[cannabis-chronic-pain-management]]

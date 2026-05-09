@@ -1,5 +1,5 @@
 ---
-title: Cleve Backster and Primary Perception
+title: Tompkins Cleve Backster Primary Perception
 created: 2026-04-28
 tags: [plant-perception, backster-effect, galvanometer, esp, polygraph,
       consciousness, plant-intelligence]
@@ -113,11 +113,11 @@ but rather an uncovering of what had been known and forgotten.
 
 ## Related Topics
 
-- [[tompkins-marcel-vogel-plant-human-communication]] for Vogel's
-  independent confirmation and extension of Backster's work
 - [[tompkins-plant-electrical-signals]] for the broader study of
   bioelectrical phenomena in plants
-- [[tompkins-plants-response-to-human-intent]] for further experiments
-  on plant sensitivity to human consciousness
 - [[tompkins-plant-perception-experiments]] for the scientific
   community's response to the Backster Effect
+
+## See Also
+
+- [[cleve-backster-plant-perception-experiments]]

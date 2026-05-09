@@ -45,48 +45,7 @@ centers of landrace diversity include:
 - The Indian subcontinent and African continent, each with distinct
   regional populations
 
-See [[cervantes-indica-sativa-ruderalis-differences]] for the major
-cannabis subspecies and their characteristics.
-
-## Characteristics of Landrace Populations
-
-Landrace populations are typically variable within their group, showing
-a range of phenotypes that reflect the natural genetic diversity of the
-population. Unlike modern commercial varieties that are bred for
-uniformity, landraces maintain variation for most traits. Individual
-plants within a landrace population may differ significantly in height,
-flowering time, leaf shape, cannabinoid profile, and aroma.
-
-This variation is both a challenge and an opportunity for breeders. The
-challenge is that landraces do not breed true for specific traits. The
-opportunity is that this very variability contains novel gene
-combinations that may not exist in modern breeding stock.
-
-## Landraces as Breeding Foundation Stock
-
-Many of the most celebrated cannabis varieties trace their lineage to
-landrace populations. For example, Hindu Kush landraces contributed the
-dense, resinous bud structure found in many modern indica-dominant
-varieties. Thai and Colombian landraces contributed the cerebral,
-energetic effects and tall growth patterns found in sativa-dominant
-lines.
-
-Neville, founder of the Seed Bank, traveled the world to find the best
-cannabis seeds from landrace populations, recognizing their irreplaceable
-value as breeding foundation stock.
-
-## Loss of Landrace Populations
-
-Landrace populations face threats from multiple sources. Government
-eradication programs have destroyed wild cannabis populations in many
-regions. Urbanization and agricultural expansion have eliminated native
-habitats. Modern commercial varieties have replaced traditional
-landraces in areas where cannabis has been cultivated for centuries.
-
-The loss of landrace populations represents an irreversible loss of
-genetic diversity. Once a landrace population is gone, the unique gene
-combinations it contained cannot be recovered. This contributes to the
-broader [[cervantes-genetic-bottleneck-and-diversity-loss]] affecting cannabis. Climate change poses an additional
+See [[cervantes-genetic-bottleneck-and-diversity-loss]] affecting cannabis. Climate change poses an additional
 threat as native environments shift beyond the adaptive range of
 local landraces.
 
@@ -104,22 +63,25 @@ within a family or shared among friends. Heirloom varieties are non-
 hybrid (open-pollinated), meaning they breed relatively true. Growers
 can save seeds from their crops, plant them the following year, and
 expect offspring very much like the parent generation. See
-[[cervantes-open-pollinated-heirloom-seeds]] for details.
-
-## See Also
-
-As modern breeding continues to narrow the gene pool, landrace
-populations become increasingly valuable. They contain alleles and gene
-combinations that may have been lost from commercial breeding stock.
-Future breeding breakthroughs in disease resistance, novel cannabinoid
-profiles, or environmental adaptation may depend on access to landrace
-genetics. Preserving these populations should be a priority for the
-cannabis community.
-
-## See Also
-
-- [[cervantes-indica-sativa-ruderalis-differences]] - Subspecies
-- [[cervantes-genetic-bottleneck-and-diversity-loss]] - Diversity loss
+[[cervantes-indica-sativa-ruderalis-differences]] - Subspecies
 - [[cervantes-open-pollinated-heirloom-seeds]] - Heirloom varieties
-- [[cervantes-strain-selection]] - Choosing varieties
 - [[cannabis-genetics-and-breeding]] - Breeding fundamentals
+## Practical Considerations
+
+Successful implementation of Landrace Cannabis Populations requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

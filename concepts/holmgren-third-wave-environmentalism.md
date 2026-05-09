@@ -8,7 +8,7 @@ type: concept
 tags: [reference]
 ---
 # Holmgren Third Wave Environmentalism
-[[david-holmgren]] situates his articulation of [[permaculture-design]] principles
+[[permaculture-design]] principles
 within a historical framework of environmental awareness he calls the "third wave
 of environmentalism." This framework helps explain why permaculture's systematic
 design approach is particularly relevant to the early 21st century and
@@ -67,17 +67,7 @@ second-wave assumptions:
 The second wave largely assumed that technological innovation could solve
 environmental problems without requiring fundamental changes in consumption
 patterns or economic structures. Holmgren challenges this by framing the
-environmental crisis within [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] —
-arguing that the fossil fuel pulse that enabled industrial civilisation is
-inherently temporary, and that no combination of renewable technologies can
-sustain current levels of energy throughput. The image of clean green technology
-where we do not need to mess with nature is identified as a significant barrier
-to effective adaptation.
-### Beyond Green Consumerism
-Green consumerism assumes that market choices can drive environmental
-improvement. Holmgren argues for bottom-up redesign processes starting with the
-individual and household, emphasising
-[[holmgren-household-economy-and-self-reliance]] over consumer
+environmental crisis within [[holmgren-household-economy-and-self-reliance]] over consumer
 choice. The focus shifts from buying green products to reducing dependence on
 the consumer economy altogether. Non-material well-being — enjoying a sunset,
 walking for health, playing with children — becomes central rather than
@@ -93,33 +83,7 @@ adaptation to change, not preservation of current arrangements.
 The second wave often focused on specific environmental issues (climate change,
 biodiversity loss, pollution) as separate problems requiring separate solutions.
 The third wave, informed by
-[[holmgren-wholistic-design-thinking]], recognises these as
-interconnected symptoms of deeper structural problems in human civilisation's
-relationship to energy and resources. Learning to think wholistically is critical
-to effective design for energy descent.
-## The Role of Permaculture
-The permaculture concept and movement have already changed the lives of
-thousands of people and affected perhaps millions in a myriad of ways. All this
-has occurred without any substantial support from powerful institutions,
-corporations, or governments. Although Bill Mollison's role in permaculture's
-initial global spread is unquestioned, its persistence, evolution and influence
-must be attributed to its relevance to people's lives and situations.
-Permaculture has been pinned to a future with less energy. In a world of abundant
-energy and resources, its impact would contract. But insofar as permaculture is
-an effective response to the limitations on use of energy and natural resources,
-it will move from its current "alternative" status toward the social and economic
-mainstream of the post-industrial era.
-## Connection to Counterculture Dynamics
-The waves of environmentalism connect to broader patterns of counterculture.
-Environmental innovation tends to cluster in periods of economic recession, when
-the mainstream growth narrative loses its grip on public imagination. Permaculture
-has been part of a continuous lineage of counterculture that provides the
-cultural soil from which environmental innovations emerge.
-## Specific Third-Wave Innovations
-The third wave has generated concrete innovations that distinguish it from
-previous waves. Transition Towns, launched in Totnes, England in 2006, explicitly
-applies permaculture design principles to community-level energy descent
-planning. The [[permaculture-retrofit-suburbia]] movement, inspired
+[[permaculture-retrofit-suburbia]] movement, inspired
 by Holmgren's work, focuses on converting existing suburban properties into
 productive, low-energy households. Community-supported agriculture (CSA) models,
 food cooperatives, tool libraries, and time banks represent economic innovations
@@ -139,12 +103,7 @@ existing power structures. The third wave demands honesty about trade-offs: a
 genuinely low-energy future will require reduced consumption, shorter supply
 chains, and more localized economies — outcomes incompatible with the growth-
 dependent logic of corporate capitalism.
-## Movement-Building Strategies
-Permaculture education should address energy descent, teaching design as
-adaptation. Sites should model reduced fossil energy dependence while
 ## See Also
 
 - [[holmgren-biological-services-working-animals]]
-[[david-holmgren]], [[permaculture-design]], [[holmgren-beyond-sustainability]],
-[[holmgren-household-economy-and-self-reliance]], [[holmgren-wholistic-design-thinking]],
-[[energy-descent-action-planning]], [[permaculture-retrofit-suburbia]],
+[[permaculture-design]], [[holmgren-household-economy-and-self-reliance]], [[energy-descent-action-planning]], [[permaculture-retrofit-suburbia]],

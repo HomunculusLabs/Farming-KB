@@ -17,27 +17,7 @@ sources:
 # Gymnopilus brunneus
 
 **Gymnopilus brunneus** is a wood-inhabiting mushroom in the family Cortinariaceae
-and one of several Gymnopilus species reported to contain [[psilocybin-compound]]. The genus
-Gymnopilus is notable for containing both psychoactive and non-psychoactive species, many
-of which are large, conspicuous, and brightly colored. G. brunneus, as the species epithet
-suggests (from Latin "brunneus," meaning brown), is distinguished by its predominantly
-brown coloration, contrasting with the more vivid orange and yellow tones of better-known
-psychoactive species like [[gymnopilus-spectabilis-entity]] and [[gymnopilus-junonius]].
-
-## Taxonomy and Classification
-
-Gymnopilus brunneus is classified within the genus Gymnopilus, a group of saprotrophic
-mushrooms traditionally placed in Cortinariaceae based on their rust-colored spore
-prints and presence of a partial veil. Molecular phylogenetic studies have confirmed the
-monophyly of Gymnopilus and its placement within the Agaricales, though its precise
-family-level classification has been subject to revision. Some modern treatments place the
-genus in Hymenogastraceae based on molecular evidence.
-
-The genus contains approximately 200 species worldwide, with a significant number found in
-tropical and subtropical regions. Many Gymnopilus species are large and wood-inhabiting,
-growing on dead wood, stumps, and fallen logs. Only a subset of the genus contains
-psychoactive compounds, and G. brunneus is one of the species confirmed to produce
-[[psilocybin-compound]]. The distribution of psychoactive compounds within the genus does not
+and one of several Gymnopilus species reported to contain [[gymnopilus-spectabilis-entity]] and [[psilocybin]]. The distribution of psychoactive compounds within the genus does not
 follow clear phylogenetic patterns, suggesting either multiple independent evolutionary
 origins of psilocybin biosynthesis or repeated evolutionary loss of the trait.
 
@@ -104,27 +84,15 @@ abundant coarse woody debris. Fruiting generally occurs from late summer through
 though in warmer climates the fruiting season may extend into early winter. The species
 tends to fruit in clusters or scattered groups rather than singly.
 
-G. brunneus has been reported from [[guzman-psilocybin-mushrooms-north-america]], Europe, and parts of Asia,
-though its exact range remains incompletely documented due to taxonomic confusion within
-the genus. Many collections may have been misidentified as other Gymnopilus species due
-to the morphological similarity within the genus.
-
-## Chemistry
-
-Chemical analysis of Gymnopilus brunneus has confirmed the presence of [[psilocybin-compound]],
+G. brunneus has been reported from [[psilocybin]],
 placing it among the psychoactive members of the genus. The Gymnopilus genus is
 unusual among mushroom genera in that psychoactive and non-psychoactive species coexist
 within the same group.
 
 Key psychoactive compounds detected in G. brunneus:
 
-- [[psilocybin-compound]]: The primary psychoactive indole alkaloid, present in varying
-  concentrations
 - [[psilocin]]: The dephosphorylated, pharmacologically active form of psilocybin
-- [[baeocystin]]: A demethylated analog of psilocybin, present in minor quantities
-
-The psilocybin content is generally considered low to moderate compared to other
-psychoactive Gymnopilus species such as [[gymnopilus-spectabilis-entity]]. Concentrations can
+- [[gymnopilus-spectabilis-entity]]. Concentrations can
 vary significantly between collections depending on geographic origin, substrate, age,
 and environmental conditions.
 
@@ -132,19 +100,7 @@ and environmental conditions.
 
 Distinguishing G. brunneus from other Gymnopilus species can be challenging:
 
-- [[gymnopilus-spectabilis-entity]]: The "big laughing gym" is typically larger and more vividly
-  colored (bright orange to yellow-orange) compared to the subdued brown of G. brunneus.
 - [[gymnopilus-junonius]]: Very similar to G. spectabilis and often considered
   conspecific. Large, orange, grows in clusters at the base of living trees.
-- [[gymnopilus-luteofolius]]: Smaller with purplish to reddish tones, distinguishable by
-  distinctive coloration and smaller stature.
-- gymnopilus penetrans: Non-psychoactive, grows on conifer wood, more yellowish cap.
-
-The combination of brown coloration, bitter taste, rusty spore print, and growth on wood
-are the primary identifying features. Microscopic examination is often necessary for
-definitive identification.
-
-## See Also
-
 - [[gymnopilus-spectabilis-entity]]: The most famous psychoactive Gymnopilus species
 - [[gymnopilus-junonius]]: Large, orange, widely distributed relative

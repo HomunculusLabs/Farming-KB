@@ -1,7 +1,7 @@
 ---
 title: Fungal Species Estimates
 created: 2026-04-28
-tags: [mycology, biodiversity, estimation, taxonomy]
+tags: [[mycology, biodiversity, estimation, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -119,8 +119,8 @@ industrial enzymes, and bioremediation tools.
 
 ## See Also
 
-- [[fungal-endophytes]]
 - [[mycorrhizal-networks]]
-- [[biodiversity-fungi-soil-fungal-communities]]
 - [[environmental-dna-metabarcoding]]
 - fungal species estimates
+
+See also: [[fungal-identification-and-biodiversity-assessment]]

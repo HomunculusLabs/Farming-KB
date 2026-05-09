@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #7 targets moth larvae and scale insects using high concentrations of [[jadam-wetting-agent-jwa]] and Jerusalem artichoke [[jadam-herb-solution-jhs]]. This is a stronger formulation than recipe #6, designed for chewing pests that are more difficult to control than sucking insects.
+JADAM pesticide recipe #7 targets moth larvae and scale insects using high concentrations of [[jadam-herb-solution-jhs]]. This is a stronger formulation than recipe #6, designed for chewing pests that are more difficult to control than sucking insects.
 
 **Developed by:** Hyunho Cha, Youngsang Cho
 
@@ -23,8 +23,7 @@ JADAM pesticide recipe #7 targets moth larvae and scale insects using high conce
 
 For 500 L (132 gal) of spray solution:
 
-- [[jadam-wetting-agent-jwa]] 8 L (2.1 gal)
-- Jerusalem artichoke [[jadam-herb-solution-jhs]] 15 L (4 gal)
+- [[jadam-herb-solution-jhs]] 15 L (4 gal)
 - Water to make 500 L (132 gal)
 
 ## Target Pests
@@ -74,25 +73,12 @@ Jerusalem artichoke JHS can be replaced with:
 ## Adding Disease Control (JS)
 
 To also control fungal diseases:
-- Add [[jadam-sulfur-js]] 1-2 L (0.26-0.53 gal) per 500 L
-- When JS is added, you lose the ability to spray consecutively
-
-## Red Clay Enhancement
-
-- Add 0.5 kg (1.1 lb) of very fine red clay powder per 500 L
-- Increases effectiveness against all target pests
-- See [[jadam-red-clay-powder-method]] for preparation
+- Add [[jadam-red-clay-powder-method]] for preparation
 
 ## Relative Strength
 
 - Recipe #7 is **stronger than** recipe #6 (aphid/mite)
 - Recipe #7 is **weaker than** recipe #8 (planthopper/leafhopper)
-- For maximum strength against all pests including stinkbugs, see [[jadam-stinkbug-mealybug-pesticide]] (recipe #9)
-
-## See Also
-
-- [[jadam-aphid-mite-pesticide]] - Recipe #6 for aphids and mites
-- [[jadam-planthopper-leafhopper-pesticide]] - Recipe #8 for sucking insects
+- For maximum strength against all pests including stinkbugs, see [[jadam-aphid-mite-pesticide]] - Recipe #6 for aphids and mites
 - [[jadam-stinkbug-mealybug-pesticide]] - Recipe #9 (strongest broad-spectrum)
-- [[jadam-herb-solution-jhs]] - Making JHS from various herbs
 - [[jadam-concentration-guidelines]] - Safety and dosage rules

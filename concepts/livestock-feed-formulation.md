@@ -1,5 +1,5 @@
 ---
-title: livestock feed formulation
+title: Livestock Feed Formulation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
 sources: []
 ---
 
-# livestock feed formulation
+# Livestock Feed Formulation
 
 Understanding livestock nutrition and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of
@@ -38,7 +38,8 @@ feeds, and practical formulation for homestead-scale operations.
 - Excess: wasted money, increased nitrogen excretion (environmental concern).
 
 ### Energy
-- Required for maintenance, movement, production, and body blesching cannabis fever.
+- Required for maintenance, movement, production, and body temperature
+  regulation.
 - Measured as Total Digestible Nutrients (TDN), Net Energy (NE), or
   Metabolizable Energy (ME).
 - Sources: carbohydrates (grains, molasses) and fats (oilseeds, animal fat).
@@ -98,7 +99,7 @@ feeds, and practical formulation for homestead-scale operations.
 - **Distillers grains (DDGS):** 25-30% CP, high energy and fat. Byproduct
   of ethanol production. Good for cattle.
 - **Linseed (flaxseed) meal:** 34-36% CP. Good for ruminants. Adds omega-3
-  stable carbon isotope.
+  fatty acids.
 
 ### Forages
 - See [[hay-and-forage-management]] for detailed forage analysis.
@@ -131,19 +132,62 @@ feeds, and practical formulation for homestead-scale operations.
 ### Mineral Supplements
 - Loose mineral formulated for species, offered free-choice.
 - Include salt (sodium chloride) — animals self-regulate salt intake.
-- Add solomon vegetable nutritional based on regional deficiencies.
+- Add trace minerals based on regional deficiencies.
 - Blocks vs. loose: loose minerals are consumed more reliably.
 
 ### Protein Blocks and Tubs
 - Pressed or cooked blocks with 20-40% protein.
-- Convenient, weather-resistant, good for extensive mollison designers sheep.
+- Convenient, weather-resistant, good for extensive grazing systems.
 - More expensive per unit of protein than loose supplements.
 
 ### Feed Additives
 - **Probiotics:** Support rumen and gut health.
 - **Prebiotics:** Feed beneficial gut microbes.
 - **Yeast culture:** Improves fiber digestion in ruminants.
+- **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
+  and immune health (anecdotal evidence).
+- **Diatomaceous earth:** For parasite control (limited evidence, widely
+  used).
+- **Kelp (seaweed):** Trace mineral supplement. 1-2 oz/head/day for cattle,
+  0.5 oz for sheep/goats.
+
+## Winter Feeding
+
+### Challenges
+- Reduced forage quality (hay loses nutrients over time).
+- Increased energy requirements for thermoregulation.
+- Frozen water sources.
+- Limited pasture access.
+
+### Strategies
+- Stockpile pasture for late fall/early winter grazing. See
+  [[pasture-management]].
+- Body condition animals before winter. Thin animals need extra energy.
+- Feed higher-quality hay in the coldest months.
+- Increase grain during extreme cold: cattle need 1% more energy per 10°F
+  below lower critical temperature (20-30°F with winter coat).
+- Provide windbreaks and shelter. Use baleage for higher quality winter feed.
+- Feed in late afternoon — fermentation heat peaks 6-8 hours later,
+  warming animals during the coldest part of night.
+
+### Ration Example (Winter, 1000 lb Beef Cow)
+- 25 lbs good grass hay (10% CP, 55% TDN) + 5 lbs alfalfa-grass mixed hay
+  (15% CP, 58% TDN) + free-choice loose mineral and salt.
+- Provides ~12 lbs TDN and 1.7 lbs CP — adequate for mid-gestation.
+  Adjust for stage of production.
+
+## Ration Balancing Basics
+
+1. Determine animal requirements (species, weight, production stage).
+2. Test hay/forage to know actual nutritional content.
+3. Calculate forage contribution to maintenance needs.
+4. Fill the gap with grain, protein supplement, or minerals.
+5. Monitor body condition and adjust.
+
+### Body Condition Scoring (BCS)
+- Scale 1-9 for cattle (5 = ideal), 1-5 for sheep/goats (3 = ideal).
+- Score monthly for cattle; before breeding and lambing for sheep/goats.
+
 ## See Also
-Related: [[holzer-livestock-integration-pigs-cattle]]
 
 - [[livestock-feed-management]]

@@ -64,43 +64,7 @@ Within a single species, seed provenance matters enormously. A persimmon from Ge
 - **Canopy**: Honey locust, carob, mesquite, blight-resistant chestnut
 - **Understory**: Persimmon, jujube, white mulberry
 - **Shrubs**: Seaberry, goumi, autumn olive (check invasiveness lists), currants
-- **Herbaceous**: Good King Henry, perennial kale, [[jerusalem-artichoke]], groundnut
-- **Ground cover**: Comfrey, yarrow, clover, creeping thyme
-
-### Diversity Rules
-
-- Plant **3–5 species per functional niche** (e.g., multiple nitrogen fixers, multiple fruit producers).
-- Include **30%+ native species** for pollinator and wildlife support.
-- Always include "weedy" resilient backups — Jerusalem artichoke, daylily, Siberian pea shrub — that produce no matter what.
-
----
-
-## What Structural Design Elements Build Microclimate Resilience?
-
-Your food forest's physical structure is its climate armor. Think in layers and edges.
-
-### Windbreak Design
-
-- Plant a multi-row windbreak windward: dense evergreens inside (cedar, juniper), medium deciduous in the middle (hazelnut, elderberry), tough shrubs outside (seaberry, rugosa rose).
-- Windbreaks reduce wind speed for **10–15× their height**. Plan accordingly.
-- On small sites, even a single dense hedge of comfrey, bamboo, or willow provides meaningful protection.
-
-### Canopy Layers and Thermal Mass
-
-A seven-layer food forest (canopy, understory, shrub, herbaceous, ground cover, root, vine) creates a thermal buffer — canopy reduces ground-level temperature by 10–15°F on hot days. Design canopy to be **partially deciduous** so winter sun reaches lower layers. Add thermal mass (stone walls, ponds, large rocks) on the north side of sensitive plantings; a small pond near frost-sensitive trees can raise nighttime temperature by 2–5°F.
-
----
-
-## How Do I Build Water Resilience?
-
-Design for both abundance and scarcity.
-
-### Swales and On-Contour Earthworks
-
-- Swales are shallow ditches on contour with excavated soil mounded downhill. They catch, spread, and sink runoff, recharging groundwater.
-- Space swales every 10–50 feet on moderate slopes. Plant canopy trees on the berm where soil is deepest.
-
-### [[keyline-design]]
+- **Herbaceous**: Good King Henry, perennial kale, [[keyline-design]]
 
 For larger properties, keyline patterning (P.A. Yeomans) plows shallow subsoil channels along the "keypoint" where a valley transitions from convex to concave, spreading water from wet valleys to dry ridges.
 
@@ -121,7 +85,7 @@ Healthy soil holds more water, cycles more nutrients, and supports the microbial
 
 - **Mulch**: Mix woody mulch for perennials with green chop-and-drop for active areas. Never leave bare soil — it erodes, heats up, and loses carbon.
 - **Biochar**: Inoculate it first (mix with compost for 2–4 weeks), then apply at 5–10% of soil volume in planting holes. It improves water retention and sequesters carbon for centuries.
-- **[[mycorrhizal-inoculation]]**: These fungi extend root networks by up to 700× and dramatically improve drought resilience. Avoid tilling. Use [[sheet-mulching]] and minimal-disturbance planting. Inoculate bare-root plantings with commercial products or import soil from a healthy nearby forest.
+- **[[sheet-mulching]] and minimal-disturbance planting. Inoculate bare-root plantings with commercial products or import soil from a healthy nearby forest.
 
 ---
 
@@ -144,6 +108,5 @@ Build earthworks and windbreaks before planting. Set up temporary irrigation for
 
 ## See Also
 
-- [[agroforestry]]
 - [[food-forest]]
 - [[graywater-systems]]

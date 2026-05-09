@@ -1,21 +1,14 @@
 ---
 title: "Permaculture Herb Spiral Design"
 created: 2026-04-28
-tags: [permaculture, herb-spiral, garden-design, microclimate, zone-1]
+tags: [[permaculture, herb-spiral, garden-design, microclimate, zone-1]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 type: concept
 ---
 
-# Permaculture [[herb-spiral-design-guide]]
-
-The [[herb-spiral]] is a classic [[permaculture-design]] element that combines the
-principles of vertical stacking, edge effect, and microclimate creation into
-a compact, highly productive garden feature. Shaped like a snail shell with a
-ramp spiraling upward from the ground to a central peak, the herb spiral is
-typically about five and a half feet (1.6 meters) in diameter and two to
-three feet tall. It is placed in [[mollison-permaculture-two-zone-planning-and-site-layout]],
+# Permaculture [[herb-spiral]] is a classic [[mollison-permaculture-two-zone-planning-and-site-layout]],
 as close to the kitchen door as possible, so that herbs can be grabbed while
 cooking. The spiral demonstrates how natural patterns, particularly spirals
 found throughout nature from seashells to galaxies, can be harnessed to
@@ -94,10 +87,7 @@ Brussels sprouts, onions, celery, broccoli, kale, mustard, spinach,
 peppers, zucchini, and fennel.
 
 The spiral also connects to other permaculture elements. It can provide
-forage for [[permaculture-beekeeping-guide]], as many herbs are
-excellent nectar sources. The stone walls can shelter beneficial predatory
-insects. The small pond at the base can serve as a water source for birds
-and insects. Combined with [[permaculture-windbreak-design-species]] to protect it from drying winds, the herb spiral
+forage for [[permaculture-windbreak-design-species]] to protect it from drying winds, the herb spiral
 becomes a self-sustaining, highly productive element of the Zone 1 garden.
 
 ## Maintenance and Seasonal Care

@@ -18,9 +18,9 @@ type: concept
 
 The nutritional quality of fungi as food for animals is a critical determinant
 of fungal roles in supporting secondary production within ecosystems. In
-[[barn-design]]'s treatment of [[fungal-ecology]], understanding the chemical
+[[fungal-ecology]], understanding the chemical
 composition of fungal tissue explains why fungi are preferred food items for
-many vertebrate and invertebrate consumers and how fungi sustain [[fungal-secondary-productivity]] in [[fungal-soil-food-web]] dynamics.
+many vertebrate and invertebrate consumers and how fungi sustain [[fungal-soil-food-web]] dynamics.
 
 ## Macronutrient Composition
 
@@ -114,8 +114,6 @@ webs to affect animal populations and ecosystem-level productivity.
 
 ## See Also
 
-- [[dighton-fungal-mycophagy-vertebrate-invertebrate-diets]]
 - [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
-- [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
 - [[fungal-stoichiometry-ecology]]

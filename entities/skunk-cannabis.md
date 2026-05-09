@@ -98,20 +98,12 @@ In the UK, the term gained prominence during the 2000s as imported hashish was l
 The strain itself is classified as a controlled substance in most jurisdictions. Skunk genetics are widely available through licensed seed banks in jurisdictions with legal cannabis markets, where it remains a popular choice for both commercial and home cultivation.
 
 ## See Also
-- [[chemdawg]]
 - [[afghan-kush]]
-- [[ak-47-cannabis]]
 - [[northern-lights]]
-- [[sour-diesel]]
 - [[master-kush]]
-- [[critical-mass]]
 - [[white-widow-entity]]
-- [[super-skunk]]
 - [[purple-haze-cannabis]]
-- [[og-kush]]
 - [[cannabis-blue-dream]]
-- [[gelato-cannabis]]
 - [[wedding-cake-cannabis]]
-- [[girl-scout-cookies]]
 - [[do-si-dos-entity]]
 - [[banana-kush]]

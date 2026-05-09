@@ -131,8 +131,6 @@ interactions with their environment.
 
 ## See Also
 
-- [[photosynthesis-and-chloroplast-function]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-perception]]
 - [[bacterial-endophytes-plant-roots]]
 - [[plant-fungal-signaling-mycorrhiza]]

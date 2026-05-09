@@ -45,14 +45,7 @@ The primary bioactive compound identified in Agaricus bisporus is
 beta-glucan derived from the fruiting body. While the concentration of
 medicinal compounds is lower than in many Asian medicinal mushroom
 species, the sheer volume of global production means this mushroom
-remains a significant source of dietary [[beta-glucans]] for large
-populations.
-
-### Medicinal Properties
-Research has demonstrated several important health benefits for
-Agaricus bisporus. It has confirmed antitumour activity, though it is
-generally considered less potent medicinally than many Asian species
-such as Lentinula edodes or [[ganoderma-lucidum]]. Additional documented
+remains a significant source of dietary [[ganoderma-lucidum]]. Additional documented
 properties include the reduction of blood platelet binding, which may
 contribute to cardiovascular health.
 
@@ -82,6 +75,5 @@ glycemia and cardiovascular risk markers makes it relevant to public
 health nutrition strategies.
 
 ## See Also
-- [[agaricus-blazei]]
 - [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]

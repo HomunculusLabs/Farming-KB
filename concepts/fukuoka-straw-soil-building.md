@@ -25,17 +25,7 @@ work the fields without pulling a plow or swinging a hoe? Let the grasses plow
 the topsoil and the trees work the deeper layers.
 
 Farmers usually plow the soil to a depth of about four to eight inches, whereas
-the roots of grasses and [[green-manure-crops]] work the soil down to twelve inches,
-fifteen inches, or more. When these roots reach down deep into the earth, air
-and water penetrate into the soil together with the roots. As these wither and
-die, many types of microorganisms proliferate. These organisms die and are
-replaced by others, increasing the amount of humus and softening the soil.
-Earthworms eventually appear where there is humus, and as the number of
-earthworms increases, moles begin burrowing through the soil.
-
-## Why Plowing Is Harmful
-
-It is in the nature of [[faires-soil-management-and-sheet-mulching]] to swell and grow more porous with each passing
+the roots of grasses and [[faires-soil-management-and-sheet-mulching]] to swell and grow more porous with each passing
 year. This is absolutely essential for microorganisms to multiply in the earth,
 for the soil to grow more fertile, and for the roots of large trees to
 penetrate deep into the ground. Working the soil with plow and hoe actually
@@ -46,36 +36,7 @@ Applying chemical fertilizers encourages the tree to grow a shallow root
 structure that extends along the topsoil. Fertilizer application and weeding
 bring a halt to the normal aggregation and enrichment of topsoil. Clearing new
 land for agriculture by pulling up trees and bushes robs the deeper layers of
-the soil of a source of [[query-what-is-the-role-of-actinomycetes-in-soil-health]], halting the active proliferation of soil
-microbes. These very actions are what make plowing and turning the soil
-necessary in the first place.
-
-There is no need to plow or improve a soil because nature has been working at
-it with its own methods for thousands of years. Man has restrained the hand
-of nature and taken up the plow himself. No amount of research can teach man
-everything there is to know about the soil, and he will certainly never create
-soils more perfect than those of nature.
-
-## Crops Depend on the Soil, Not Fertilizer
-
-When we look directly at how and why crops grow on the earth, we realize that
-they do so independently of human knowledge and action. This means that they
-have no need basically for such things as fertilizers and nutrients. Crops
-depend on the soil for growth. Crops can be grown without fertilizer, and this
-does not yield the poor harvests people generally believe. In fact, by taking
-full advantage of the inherent powers of nature, one can obtain yields equal
-to those that can be had with heavy fertilization.
-
-Scientists typically begin by analyzing rice and barley plants and identifying
-the various nutrients. They then apply the nutrients as fertilizer, and
-observing that the plants grow as expected, they conclude that the fertilizer
-is what makes the crops grow. But this is circular reasoning -- the plants
-were already capable of growth without the added nutrients.
-
-## Building Up Orchard Earth
-
-The purpose of soil management is to promote the conversion of weathered
-material from bedrock and stone into [[fukuoka-straw-mulch-philosophy]] suitable for growing crops, and
+the soil of a source of [[fukuoka-straw-mulch-philosophy]] suitable for growing crops, and
 enrichment of this soil. The soil must be turned from dead, inorganic matter
 into living, organic material. Unfortunately, soil management as it is
 normally practiced today consists basically of clean cultivation that turns

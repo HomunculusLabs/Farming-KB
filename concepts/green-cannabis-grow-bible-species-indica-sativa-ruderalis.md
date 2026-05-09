@@ -115,8 +115,6 @@ and couch-lock effects.
 
 ## See Also
 
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
-- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]
 - [[green-cannabis-grow-bible-indoor-grow-room-setup]]

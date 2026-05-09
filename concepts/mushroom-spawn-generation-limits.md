@@ -1,7 +1,7 @@
 ---
 title: Spawn Generation Limits and Transfer Logistics
 created: 2026-04-28
-tags: [mycology, spawn, grain-transfer, contamination, Stamets]
+tags: [[mycology, spawn, grain-transfer, contamination, Stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["the-mushroom-cultivator-stamets.md"]
@@ -137,8 +137,6 @@ available master cultures to minimize the need for excessive expansion.
 
 ## Related Concepts
 
-- [[stamets-spawn-making-and-grain-culture]]
 - [[stamets-spawning-and-spawn-running]]
-- [[stamets-grain-sterilization-contamination-sources]]
 - [[mushroom-super-spawning-stamets]]
 - [[mushroom-rhizomorphic-vs-cottony]]

@@ -127,19 +127,11 @@ For most home gardens, a combination works best: chop-and-drop for perennial bed
 
 ## Related
 
-- [[chop-and-drop]]
-
 - [[dynamic-accumulators-overview]] Pages
 
-- [[dynamic-accumulator-plants-nitrogen]]
 - [[dynamic-accumulator-plants-phosphorus]]
-- [[dynamic-accumulator-plants-potassium]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[dynamic-accumulator-plants-trace-minerals]]
 - [[dynamic-accumulators]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[dynamic-accumulator-plants-trace-minerals]]
-- [[teaming-with-nutrients-composting-and-nutrient-cycling]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[green-manure-cover-crops]]
 - [[sida-rhombifolia]]

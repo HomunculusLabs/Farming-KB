@@ -133,14 +133,10 @@ bridge between traditional landrace genetics and modern stabilized breeding,
 preserving the qualities that defined equatorial sativa varieties long before
 contemporary hybridization. For many connoisseurs, Kali Mist remains the
 benchmark against which all other pure sativas are measured.
-
 ## See Also
 
-- [[trainwreck]]
 - [[sour-diesel]]
-- [[amnesia-haze]]
 - [[jack-herer]]
-- [[thai-stick-entity]]
 - [[cannabis-sativa]]
 
 ## References

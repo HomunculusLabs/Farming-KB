@@ -62,7 +62,7 @@ has allowed the species to spread widely throughout the country.
 
 ## Habitat and Ecology
 
-Unlike the dung-inhabiting [[psychedelic-mushrooms-species-and-identification]] or [[panaeolus-cyanescens-bali-omelette]],
+Unlike the dung-inhabiting [[panaeolus-cyanescens-bali-omelette]],
 P. subaeruginosa is primarily a wood-inhabiting species. Its preference for
 decaying wood chips, bark mulch, and buried woody debris places it in a
 different ecological niche. In urban and suburban environments, it is frequently
@@ -79,56 +79,12 @@ The psychoactive properties of psilocybe subaeruginosa australia were first
 confirmed in 1970 when Picker and Rickards reported finding psilocybine (but
 no psilocine) in Australian specimens. This was only the second record of
 hallucinogenic mushrooms in Australia, following the 1958 documentation of
-[[psychedelic-mushrooms-species-and-identification]] by Aberdeen and Vogt.
-
-The development of a more accurate method for determining the exact amounts of
-hallucinogenic compounds was driven by the need to analyze confiscated specimens
-of P. subaeruginosa. Australian chemists eventually produced a procedure
-providing excellent quantification for psilocin and psilocybin following a
-simple extraction involving homogenization of the dried mushroom in methanol
-(Perkel et al., 1980).
-
-## Related Species
-
-Three species described by Guzman and Watling (1978) are closely related to
-psilocybe subaeruginosa australia and were identified based on their bluing reactions:
-
-- Psilocybe australiana -- exhibits "much bluing at the base of the stipe" when
-  handled; known only from around New South Wales
-- Psilocybe eucalypta -- exhibits an "intense bluing at the base of the stipe";
-  found near Canberra and Sydney in eucalyptus forests
-- Psilocybe tasmaniana -- exhibits a "blue-green tone at the base of the stipe";
-  found in New South Wales and Tasmania
-
-All three are very similar to psilocybe subaeruginosa australia, and all are closely
-aligned with Psilocybe cyanescens of the Northern Hemisphere. The bluing
-reaction in these species is consistent with the presence of psilocine, as
-discussed in [[metol-testing-bluing-reaction-mushrooms]].
+[[metol-testing-bluing-reaction-mushrooms]].
 
 ## Dosage
 
 Dosage for psilocybe subaeruginosa australia is approximately the same as that given
-for [[psychedelic-mushrooms-species-and-identification]]: 1 to 3 large specimens, 4 to 6 small specimens,
-or 1 to 2 grams of dried material. However, bioassays of related Australian
-wood-chip species suggest they may be as potent as Psilocybe cyanescens, which
-is considered one of the most potent psilocybian species commonly found
-worldwide.
-
-## Legal Status
-
-The increasing recreational use of psilocybe subaeruginosa australia prompted
-governmental concern. Between 1969 and 1975, the non-traditional use of
-psychoactive mushrooms increased rapidly in Australia. Dr. Malcolm Hall, then
-Principal Research Officer of the Narcotics Section of the Commonwealth Police
-Force, noted that psilocybine and psilocine were listed as Schedule 3 drugs in
-the Tasmanian Dangerous Drugs Order of 1965, and were later designated as
-Schedule 1 drugs by the International Convention on Psychotropic Substances of
-1971.
-
-## See Also
-
-- [[psychedelic-mushrooms-species-and-identification]] -- the most common dung-inhabiting psychoactive species
-- [[panaeolus-cyanescens-bali-omelette]] -- another common Australian psychoactive species
+for [[psychedelic-mushroom-set-and-setting]] -- the most common dung-inhabiting psychoactive species
 - [[cattle-dispersal-psychoactive-fungi-australia]] -- how fungi arrived in
   Australia
 - [[psychedelic-mushroom-set-and-setting]] -- factors influencing the

@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # The Molecules of Life in Plants
@@ -75,11 +76,7 @@ This stress-responsive allocation of molecular resources is a key survival mecha
 
 ## Related Topics
 
-- [[molecular-bonds-and-chemistry-for-gardeners]] -- the bonds holding these molecules together
 - [[photosynthesis-and-chloroplast-function]] -- how plants produce carbohydrates
-- [[plant-enzymes-and-cofactors]] -- proteins that catalyze reactions
 - [[adenosine-triphosphate-and-cellular-energy]] -- energy currency for molecular synthesis
-- [[plant-cell-membrane-transport-proteins]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[plant-cellulose-and-carbohydrate-chemistry]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]

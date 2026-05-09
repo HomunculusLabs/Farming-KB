@@ -18,13 +18,7 @@ Masanobu Fukuoka identifies four major types of diet in *The Natural Way of Farm
 
 A lax, self-indulgent diet influenced by the external world that submits to cravings and fancies. This diet, directed by the mind, is called an "empty diet." It is the root of a thousand diseases and represents the condition of most people in modern urban societies.
 
-The empty diet is driven by cravings for flavor and stimulation rather than genuine bodily need. People who practice this diet pursue novelty in food, consuming highly processed, artificially flavored, and out-of-season products. This diet reflects a fundamental disconnection between the eater and the source of food — a hallmark of [[fukuoka-disappearance-natural-diet]].
-
-## Type 2: Scientific, Physically-Centered Diet
-
-The diet of most people, where nutritional food is consumed to sustain the body. This is a scientific diet that "spins centrifugally outward with increasing desires." It is based on nutritional science that treats food as matter needed for sustaining biological life, balancing starch, fat, protein, vitamins, and minerals in calculated proportions.
-
-Fukuoka critiques this as fundamentally flawed: it lacks awareness of man as a living, breathing creature. Menus treat humans as mechanical beings. Dietetics "appears useful rather in the development of anti-natural man isolated from nature." For a deeper analysis, see [[fukuoka-critique-western-dietetics]].
+The empty diet is driven by cravings for flavor and stimulation rather than genuine bodily need. People who practice this diet pursue novelty in food, consuming highly processed, artificially flavored, and out-of-season products. This diet reflects a fundamental disconnection between the eater and the source of food — a hallmark of [[fukuoka-critique-western-dietetics]].
 
 In contrast with the simple Eastern diet of brown rice and vegetables that provides everything the body needs, Western dietetics teaches that health cannot be maintained unless one has a balanced diet with a full complement of nutrients: starch, fat, protein, vitamins, minerals, and so on.
 
@@ -58,7 +52,7 @@ The diet of true man is life and sustenance provided by the heavens. Its charact
 
 Fukuoka concludes: "Natural farming, natural diet, and natural healing are all part of one whole. Without an established natural diet, farmers have no idea what it is they should produce. Both natural diet and natural farming can be achieved only by natural people. This trinity begins and is realized at once."
 
-This trinity connects farming, food, and health into a single inseparable whole. See [[fukuoka-natural-diet-philosophy]] and [[fukuoka-natural-body-and-health]].
+This trinity connects farming, food, and health into a single inseparable whole. See [[fukuoka-natural-body-and-health]].
 
 ## The Diet of the Sick
 
@@ -74,35 +68,17 @@ The plants of the mountains and streams always grow and mature while maintaining
 
 Fukuoka describes the scientific diet as spinning "centrifugally outward with increasing desires" — always reaching for more variety, more exotic foods, more complex preparation. In contrast, the diet of principle moves "centripetally" — drawing inward toward simplicity and wholeness. The non-discriminating diet achieves the ultimate centripetal convergence: complete union with nature's provision.
 
-This movement from centrifugal to centripetal mirrors the movement of [[fukuoka-mu-farming-epistemology]] — from scientific farming's outward expansion toward natural farming's inward condensation toward Mu.
-
-## Food as Gift
-
-Central to the non-discriminating diet is the recognition that food is not something man selects from within nature but a gift bestowed from above. This reframes the entire human relationship with food: from one of mastery and calculation to one of gratitude and receptivity.
-
-The character of food lies neither exclusively in itself nor in man. Only when food, the body, and the soul fuse together completely within nature does a true natural diet become possible. This is the foundation of [[fukuoka-natural-diet-as-foundation]].
+This movement from centrifugal to centripetal mirrors the movement of [[fukuoka-natural-diet-as-foundation]].
 
 ## See Also
 
 - fukuoka natural diet four types
 
-- [[fukuoka-natural-diet-philosophy]]
-
 - [[fukuoka-natural-food-philosophy]]
-
-- [[fukuoka-critique-western-dietetics]]
 
 - [[fukuoka-natural-farming-philosophy]]
 
-- [[natural-farming-food-philosophy]]
-
-Source: Masanobu Fukuoka, *The Natural Way of Farming*, Chapter 5
-
-## Merged: Summing Up Diet: The Four Classifications
-
-# Summing Up Diet: The Four Classifications
-
-From [[fukuoka-the-one-straw-revolution-final-chapter]] (1978), Book IV.
+- [[fukuoka-the-one-straw-revolution-final-chapter]] (1978), Book IV.
 
 ## Four Classifications of Diet
 

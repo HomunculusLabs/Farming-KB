@@ -10,35 +10,7 @@ tags: [reference]
 
 # Kykeon and the Eleusinian Mysteries in Food of the Gods
 
-In [[mckenna-food-of-the-gods-thesis]], [[terence-mckenna]] devotes significant attention to the [[eleusinian-mysteries]], the most important religious initiation rite of ancient Greece, arguing that they represent one of the last surviving outposts of Archaic ecstatic religion in the Western world -- and that their power derived from a psychoactive sacramental beverage.
-
-## The Festival at Eleusis
-
-For nearly two thousand years, spanning classical Greek and Roman civilizations, a great festival was celebrated each September on the Eleusinian plain near Athens. The cult centered on two goddesses: Demeter and her daughter Kore (Persephone), who was abducted into the underworld by Pluto. The festival was held twice yearly: the Lesser Mysteries in spring to welcome vegetation's return, and the Great Mysteries at harvest time.
-
-The Mysteries had deep roots in mckenna food of the gods kykeon and eleusinian mysteries. Archaeological evidence compiled by leading historians of religion shows that:
-
-- The oldest Telesteria (cult structures) are pre-Hellenic
-- The name "Eleusis" itself suggests pre-Hellenic Crete
-- Cult vessels including the kemoi and libation jugs are common to both Eleusinian and Minoan cults
-- The form of the Telesteria may be a further development of the so-called Minoan theater
-- The anaktoron is the same as Cretan repositories and house chapels
-- Purification rites of the Eleusinian cult originated in Crete's Minoan religion
-- A double ancient tradition traces the mysteries to Crete, independently confirmed by both Diodoros and the Homeric Hymn to Demeter
-
-The cult's kernel was a fertility religion, which was also the central theme of Minoan religion -- the same religion of the mckenna food of the gods kykeon and eleusinian mysteries and ecstatic intoxication by indole hallucinogens.
-
-## The Power of the Mystery
-
-The Mysteries commanded extraordinary reverence. Cicero wrote that people came "from all quarters" to be initiated, and the Greek orator Aristides declared: "Is there a single Greek, a single Barbarian so ignorant, so impious, as not to consider Eleusis as the common temple of the world?" The temple's architecture was remarkable for its magnificence and immense extent; Strabo observed that it could contain as many people as the largest amphitheater.
-
-McKenna identifies the source of this power: "The power of the Eleusinian Mysteries lay in the fact that they possessed no dogma but, rather, involved certain sacred acts that engendered religious feeling and into which each successive age could project the symbolism it desired." This openness to reinterpretation across centuries and cultures is precisely what gave the Mysteries their extraordinary longevity and cross-cultural appeal.
-
-He is sharply critical of classical scholars who, "unfamiliar with the reality-transforming power of plant hallucinogens, have fallen victim to the prejudiced attitude toward ecstasy that typifies the constipated patriarchal academy and hence have been baffled by the Mystery." He dismisses scholarly speculations -- that the sacred object was a phallus, or a female sexual symbol called the "womb," whose display would cause initiates to recognize their "beatific lot" -- with dry humor: "Displaying a representation of the vagina might have riveted a room full of male Victorian classicists, but one would like to believe that the mystical wellspring of the classical world was something more than a peep show."
-
-## The Dionysian Connection
-
-The Eleusinian rites did not exist in isolation. McKenna traces a line of descent from Minoan Crete through the [[dionysian-cults]] to Eleusis itself. The Dionysian theme entered Greece from the south, from "island cultures with roots ten thousand years deep in the religion of the mushroom Mother Goddess," and from Asia Minor, "but via four millennia of incubation within Minoan civilization." The mysteries planted on Grecian shores at Eleusis were "the latest, last, and most baroque adumbrations of the great Archaic religion of the Goddess, cattle, and ecstatic intoxication by indole hallucinogens."
+In [[terence-mckenna]] devotes significant attention to the [[dionysian-cults]] to Eleusis itself. The Dionysian theme entered Greece from the south, from "island cultures with roots ten thousand years deep in the religion of the mushroom Mother Goddess," and from Asia Minor, "but via four millennia of incubation within Minoan civilization." The mysteries planted on Grecian shores at Eleusis were "the latest, last, and most baroque adumbrations of the great Archaic religion of the Goddess, cattle, and ecstatic intoxication by indole hallucinogens."
 
 The Dionysian and Eleusinian mystery cults coexisted as "the last frail outposts in the west" of the Archaic partnership tradition. They were, from the perspective of the emerging patriarchy, "something wild, ancient, and potentially dangerous."
 
@@ -52,7 +24,7 @@ Graves further suggested that recipes in classical sources for the ritual Eleusi
 
 ## Wasson and Hofmann's Ergotized Beer Theory
 
-The most developed version of the psychedelic Eleusis hypothesis was proposed by R. Gordon Wasson, [[albert-hofmann]], and Carl Ruck, unveiled at a mushroom conference in San Francisco in 1977. Their theory held that the source of intoxication was not mushrooms directly but an ergotized beer brewed from [[claviceps-purpurea]], the [[ergot-fungus]] that infects edible grains.
+The most developed version of the psychedelic Eleusis hypothesis was proposed by R. Gordon Wasson, gordon-wasson, and Carl Ruck, unveiled at a mushroom conference in San Francisco in 1977. Their theory held that the source of intoxication was not mushrooms directly but an ergotized beer brewed from [[ergot-fungus]] that infects edible grains.
 
 Several lines of evidence support this theory. Grain was centrally important to the cult; the festival was a harvest celebration. Ergot produces powerful alkaloids capable of causing hallucination, triggering labor, and vasoconstriction. The purple traditionally associated with Demeter's robe may signify the distinctive purple color of ergot sclerotia, the asexual resting stage in the organism's life cycle.
 
@@ -109,8 +81,6 @@ Several modern researchers and experimental archaeologists have attempted to rec
 The difficulty of these reconstructions lies in identifying ergot strains capable of producing psychoactive effects (specifically, lysergic acid amide or ergonovine) without the toxic alkaloids (primarily ergotamine) that cause the symptoms of ergotism. Modern analytical chemistry has identified over 40 different alkaloids in ergot sclerotia, and their proportions vary dramatically between strains and growing conditions. The question of whether a naturally occurring ergot strain could have produced the desired effects without toxicity remains unresolved, though some researchers argue that the alkaloid profile of Claviceps purpurea growing on barley under Mediterranean conditions may differ significantly from the strains that caused ergotism epidemics in Northern European rye fields.
 
 ## See Also
-
-- [[catholic-church-suppression-eleusinian-mysteries]]
 
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]] -- McKenna's framework for understanding the suppression of ecstatic religion
 - ergot -- the fungus proposed as the active ingredient

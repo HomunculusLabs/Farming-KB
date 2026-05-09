@@ -131,13 +131,8 @@ widespread horizontal transfer or deep conservation of the gene cluster.
 
 ## See Also
 
-- [[omphalotus-olearius]]
-- [[armillaria-mellea]]
-- [[xylaria-polymorpha]]
+- [[armillaria-mellea-entity]]
 - [[mycena-purpureofusca]]
-- [[panellus-stipticus]]
 - [[psilocybe-cubensis]]
-- [[fomes-fomentarius]]
-- [[trametes-versicolor]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
 - [[clavariadelphus-pistillaris]]

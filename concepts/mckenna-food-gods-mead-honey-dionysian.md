@@ -125,8 +125,6 @@ believes was the foundation of human culture.
 
 ## See Also
 
-- [[mckenna-catal-huyuk-natufian-link]]
 - [[mckenna-food-gods-fall-consciousness]]
-- [[mckenna-food-gods-genesis-first-drug-bust]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]
 - [[mckenna-food-gods-partnership-dominator]]

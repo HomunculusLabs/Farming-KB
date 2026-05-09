@@ -108,14 +108,8 @@ Post-harvest, shoots are rapidly cooled and kept refrigerated to maintain qualit
 
 ## See Also
 
-- [[atriplex-halimus]]
 - [[hippophae-rhamnoides]]
-- [[elaeagnus-umbellata]]
 - [[typha-latifolia-entity]]
-- [[rumex-crispus]]
-- mangrove
 - [[ceratonia-siliqua]]
-- [[plantago-major]]
 - [[urtica-dioica]]
-- [[quercus-robur]]
 - [[hypericum-perforatum]]

@@ -17,7 +17,7 @@ into the soil, they create a unique microbial habitat enriched with
 diverse bacterial communities. Among these microorganisms, mycorrhiza
 helper bacteria (MHB) play a particularly important role by promoting
 mycorrhiza formation and plant fitness. This topic is central to
-[[mycorrhiza]] function and [[arbuscular-mycorrhizal-fungal-diversity]].
+[[arbuscular-mycorrhizal-fungal-diversity]].
 
 ## The Mycorrhizosphere Concept
 
@@ -124,4 +124,4 @@ promote beneficial mycorrhizal symbiosis while suppressing pathogenic
 fungi makes MHB particularly attractive as bioinoculants for sustainable
 plant production systems.
 
-See also: [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], [[arbuscular-mycorrhizal-fungi]], [[fungal-bacterial-partnerships-mycorrhizosphere]], biological control of plant pathogens by fungi.
+See also: [[arbuscular-mycorrhizal-fungi]], [[fungal-bacterial-partnerships-mycorrhizosphere]], biological control of plant pathogens by fungi.

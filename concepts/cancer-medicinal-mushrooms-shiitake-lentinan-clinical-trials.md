@@ -108,17 +108,11 @@ mushroom also reduces triglyceride levels.
 Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
-- [[lentinan-gastric-cancer-combination-therapy]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[fungal-single-cell-protein-production]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
-- [[water-activity-osmophilic-fungal-media-preparation]]
 - [[psk-gastric-cancer-clinical-trials]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
-- [[cannabis-indoor-growing-guide]]
+- [[cannabis-indoor-growing-basics]]
 
 ## See Also
-
-- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
 
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]]

@@ -141,10 +141,8 @@ The unique combination of chemical-free, low-thermal-impact, complex-geometry-ca
 
 ## Relevance to Mushroom Cultivation
 
-For [[sterilization-techniques-mushroom-cultivation]], conventional autoclaving dominates for complete substrate sterilization while [[substrate-pasteurization]] handles bulk substrates. Microwave surface sterilization offers complementary advantages for treating equipment surfaces, inoculation ports, laboratory tools, and transfer connections between uses. The low thermal impact suits heat-sensitive equipment components, and the residue-free nature avoids introducing chemicals into cultivation environments.
-
+For [[substrate-pasteurization]] handles bulk substrates. Microwave surface sterilization offers complementary advantages for treating equipment surfaces, inoculation ports, laboratory tools, and transfer connections between uses. The low thermal impact suits heat-sensitive equipment components, and the residue-free nature avoids introducing chemicals into cultivation environments.
 ## Related Concepts
 
-- [[microwave-surface-sterilization-technology]] for detailed microwave system design
 - [[microwave-steam-flash-sterilization-mechanism]] for the water-enhanced kill mechanism
 - [[bacterial-spore-microwave-resistance]] for microwave-specific spore challenges

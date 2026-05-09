@@ -18,63 +18,7 @@ One of the most compelling arguments for Korean Natural Farming (KNF) is its eco
 
 KNF economics are built on several fundamental advantages:
 
-**Locally sourced, homemade inputs:** Natural Farming uses natural materials instead of chemicals to make its unique inputs. Materials are locally available and cheap, and the farming inputs are made by the farmers instead of being purchased from the market, thus lowering cost for the farmers and converting waste as resources. Every KNF input -- from [[knf-indigenous-microorganism-culture]] to [[master-cho-knf-ffj-fermented-fruit-juice-guide]] to [[knf-brown-rice-vinegar]] -- can be produced on-farm from materials found in the local environment.
-
-**Zero waste, zero emission:** In livestock raising, Natural Farming accomplishes the dream method of "zero emission." No wastewater is emitted. Wastes are recycled and converted to resources. The livestock housing itself serves as a waste treatment facility, fertilizer factory, and feed mixer -- eliminating the need for expensive waste treatment infrastructure.
-
-**Reduced input costs:** By making inputs at home from local materials, farmers eliminate dependence on commercial suppliers. The book emphasizes that materials used by the Janong Natural Farming Institute in South Korea can be substituted with natural resources distinct to each region or ecosystem, making the system adaptable anywhere without import costs.
-
-## Cost Comparison: KNF vs Conventional Farming
-
-### Crop Production Costs
-
-| Cost Category | Conventional | KNF |
-|---|---|---|
-| Fertilizers | High (purchased NPK, micronutrients) | Very low (homemade IMO, FPJ, FMC, LAB) |
-| Pesticides | High (chemical sprays, multiple applications) | Very low (AIA, FIA, fish odour methods) |
-| Soil amendments | Moderate to high (lime, gypsum, etc.) | Low (seawater, loess powder, oyster shells) |
-| Seed treatment | Moderate (chemical treatments) | Very low (SES solution) |
-| Tillage | High (machinery, fuel, labor) | Very low (nature's tillers -- earthworms, microbes) |
-| Weed management | Moderate to high (herbicides, cultivation) | Very low (grass mulching with BRV) |
-| Irrigation | High (conventional systems) | Reduced (improved soil water retention) |
-
-### Livestock Production Costs
-
-| Cost Category | Conventional | KNF |
-|---|---|---|
-| Commercial feed | Very high (imported, processed) | Low (homemade from local materials) |
-| Veterinary care | High (disease from crowded conditions) | Very low (natural immunity, OHN, LAB) |
-| Heating/cooling | High (artificial climate control) | Very low (compost heat, natural ventilation) |
-| Waste treatment | High (facilities, water, labor) | Zero (microbial breakdown on-site) |
-| Cleaning labor | High (daily cleaning required) | Minimal (self-cleaning microbial floors) |
-| Housing infrastructure | High (concrete, metal, equipment) | Moderate (simple local materials) |
-| Antibiotics/chemicals | High (routine use) | Zero |
-
-### Input Cost Comparison Table (from the book)
-
-The book provides a direct comparison between conventional farming and KNF across key categories:
-
-**Conventional Farming:**
-- Use of imported or artificial microorganisms
-- Use of chemical fertilizers
-- Mechanical tillage (conventional farming with deep ploughing)
-- Tilling land arduously (laborious/strenuous) every year
-- Expensive state-of-the-art technology and facilities needed for livestock management
-- Planting more crops in a limited area
-- Use of pesticides to kill pests
-
-**Natural Farming:**
-- Uses indigenous microorganisms (IMOs) -- safe, cheap and easy to make and very effective
-- Use of Nutritive Cycle Theory -- nurtures and strengthens the crop in a natural way
-- Use of Nature's Tillers (aerobic and anaerobic bacteria, fungi, mole crickets, earthworms and moles) -- fosters aggregated soil clusters providing air, water drainage, and good habitat for microorganisms
-- Grass mulching as remedy for weeds (using brown rice vinegar) -- holds moisture, provides good habitat, prevents soil erosion
-- The use of microbes made use of for cost-cutting techniques -- the livestock housing itself is a waste treatment facility, fertilizer producer and feed mixer
-- Planting with proper distance in crops and plants -- more yield because it emphasizes formless nutrients such as sunlight and air
-- Use of natural inputs to distract pests (e.g., Fermented Fruit Juice) -- cheaper and focuses on co-existence with pests
-
-## Higher Yield with Lower Cost
-
-KNF strictly follows the [[knf-nutritive-cycle-theory]], using accurate amounts of substances at the precise moment, nourishing the soil with the right amounts of nutrients when the plants or animals need it. This precision eliminates waste from over-application and prevents the nutrient imbalances that reduce yield in conventional systems.
+**Locally sourced, homemade inputs:** Natural Farming uses natural materials instead of chemicals to make its unique inputs. Materials are locally available and cheap, and the farming inputs are made by the farmers instead of being purchased from the market, thus lowering cost for the farmers and converting waste as resources. Every KNF input -- from [[master-cho-knf-ffj-fermented-fruit-juice-guide]] to [[knf-nutritive-cycle-theory]], using accurate amounts of substances at the precise moment, nourishing the soil with the right amounts of nutrients when the plants or animals need it. This precision eliminates waste from over-application and prevents the nutrient imbalances that reduce yield in conventional systems.
 
 The result is higher yield with lower cost -- the book states that NF "produces more with less cost and labour" and is "highly economical and practicable in terms of production and productivity of crops and livestock."
 
@@ -113,11 +57,27 @@ KNF avoids many costs that conventional farmers bear:
 
 ## See Also
 
-- [[knf-vs-chemical-farming-comparison]]
 - [[knf-nutritive-cycle-theory]]
-- [[knf-fermented-mixed-compost]]
 - [[knf-indigenous-microorganism-culture]]
 
 Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapters 1, 8.
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
+## Practical Considerations
+
+Successful implementation of KNF Economic Benefits requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

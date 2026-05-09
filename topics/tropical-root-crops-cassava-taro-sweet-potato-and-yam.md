@@ -378,3 +378,10 @@ Tropical root crops are increasingly recognized as climate-resilient staples:
 - [[composting-and-soil-biology]]
 - [[cover-crops-and-green-manures]]
 - [[agroforestry-and-alley-cropping]]
+
+## Merged: How Do I Choose Between Cassava, Taro, Sweet Potato, and Yam for My Tropical Garden?
+**Start with sweet potato** — it's the easiest to grow, fastest to harvest (3–5 months), has the fewest hazards, and provides both edible roots and leaves. Then add cassava for calorie production on poor soils, taro if you have wet areas or ponds, and yam if you have the labor and patience for a high-value, long-storing staple. Most tropical gardeners benefit from growing a combination rather than choosing just one.
+```
+Is your soil waterlogged or do you have a pond/wetland area?
+├── YES → Plant TARO in the wet zone
+└── NO ↓

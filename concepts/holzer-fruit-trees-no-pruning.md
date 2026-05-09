@@ -32,7 +32,7 @@ To prevent large-scale damage, I introduce a large number of distraction plants 
 
 For particularly high browsing danger, a homemade salve of bone salve, linseed oil, slaked lime, fine quartz sand and fresh cow dung is painted or sprinkled on the trees. The bone salve has an intense and long-lasting odour which repels deer for many years.
 
-holzer fruit trees no pruning | [[holzer-permaculture-landscape-design]] | [[holzer-experiences-soil-test-areas]] | [[no-pruning-fruit-trees]] | [[sepp-holzer-method]]
+holzer fruit trees no pruning | [[holzer-experiences-soil-test-areas]] | [[sepp-holzer-method]]
 
 ## Key Points
 
@@ -59,10 +59,9 @@ holzer fruit trees no pruning | [[holzer-permaculture-landscape-design]] | [[hol
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
 
 ## See Also
-- [[holzer-ancient-cereals-growing]]
 - [[holzer-grafting-fruit-forest]]
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], holzer fruit trees no pruning, [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-raised-bed-design-principles]], [[holzer-microclimates-permaculture]], holzer fruit trees no pruning, [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
@@ -75,3 +74,22 @@ The method has been successfully adapted in projects across Europe, Africa, Asia
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
+## Practical Considerations
+
+Successful implementation of Holzer Fruit Tree Cultivation Without Pruning requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

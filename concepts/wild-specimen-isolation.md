@@ -11,17 +11,7 @@ sources:
 
 # Wild Specimen Isolation
 
-Wild specimen isolation is the process of obtaining pure [[cotter-outdoor-mushroom-garden-mulch-beds]] cultures from field-collected mushrooms, forming the foundation of any home or commercial cultivation operation. Comprehensive protocols for this technique are detailed in The Mushroom Cultivator.
-
-## Two Methods of Starting a Culture
-
-A mushroom culture can be started in one of two ways:
-
-1. **Spore germination**: Spores are viable for weeks to months after the mushroom has decomposed, making them practical for remote collection and transport.
-
-2. **Tissue cloning**: A piece of interior tissue from a live specimen is cut and transferred to agar. Tissue cultures must be taken within one to two days of picking, after which a healthy clone becomes increasingly difficult to establish.
-
-The choice between methods depends on circumstances. Spore germination produces a wider range of genetic diversity (each spore is genetically unique), which can be advantageous for [[mushroom-genetics-strain-selection]] programs. Tissue cloning preserves the exact genetics of a particularly desirable specimen, ensuring that the cultivated mushrooms will share the parent's characteristics including size, flavor, and growing speed.
+Wild specimen isolation is the process of obtaining pure [[mushroom-genetics-strain-selection]] programs. Tissue cloning preserves the exact genetics of a particularly desirable specimen, ensuring that the cultivated mushrooms will share the parent's characteristics including size, flavor, and growing speed.
 
 ## Spore Print Technique
 
@@ -45,11 +35,7 @@ Spore print color is one of the most important field identification characterist
 
 - **Purple-brown prints** -- typical of Psilocybe cubensis and other psychoactive gymnopiloid species
 
-Recording spore print color alongside habitat, substrate, and morphological notes creates a comprehensive specimen record that aids in both identification and future reference. This documentation practice is especially important when collecting specimens for [[mushroom-cultivation-fundamentals]] work.
-
-## The Partial Veil Advantage
-
-Agaricus brunnescens, Psilocybe cubensis, and many other species have a partial veil -- a thin tissue layer extending from cap margin to stem. This veil seals the gill from the outside, creating a semi-sterile chamber. By choosing a healthy young specimen with the veil intact and carefully removing the veil tissue under aseptic conditions, nearly contaminant-free spores are obtainable. This is the ideal way to start a [[spore-syringe-production]].
+Recording spore print color alongside habitat, substrate, and morphological notes creates a comprehensive specimen record that aids in both identification and future reference. This documentation practice is especially important when collecting specimens for [[spore-syringe-production]].
 
 Specimens collected at the right maturity stage -- with the partial veil just beginning to tear -- offer the best combination of spore viability and cleanliness. Overly mature specimens with exposed gills have accumulated environmental contaminants on their spore surfaces, while immature specimens may not have produced sufficient spores.
 
@@ -95,11 +81,7 @@ If sporulating mold colonies develop adjacent to growing mycelium, the culture s
 
 ## See Also
 
-- [[agar-culture-techniques-detailed]]
-
 - [[grain-to-grain-transfer]]
-
-- [[strain-selection-development]]
 
 - [[contamination-identification-prevention]]
 

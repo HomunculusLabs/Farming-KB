@@ -91,10 +91,8 @@ An imitation can never outclass the original. Imperfection shall always lie in t
 
 The amount of technology needed to create a single persimmon seed artificially is incomparably greater than that used to launch a rocket into outer space. The world's scientists pooling all their knowledge and resources could not fabricate one seed. Yet man persists in the reverie that he might one day fabricate an entire fruit.
 
-## Related Concepts
+## Related
 
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming|The Entanglement of Natural and Scientific Farming]]
-- [[fukuoka-natural-farming-philosophy-of-mu|Natural Farming and the Philosophy of Mu]]
 - [[fukuoka-five-principles-natural-farming|Five Principles of Natural Farming]]
-- [[fukuoka-four-principles-natural-farming|Four Principles of Natural Farming]]
 - [[fukuoka-textdoc-errors-of-human-intellect|The Errors of the Human Intellect]]

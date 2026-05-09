@@ -1,7 +1,7 @@
 ---
 title: Mycorrhiza
 created: 2026-04-28
-tags: [mycology, ecology, botany, symbiosis]
+tags: [[mycology, ecology, botany, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
@@ -119,9 +119,6 @@ ecological function.
 
 ## See Also
 
-- [[fungal-ecology]]
 - [[mycelium]]
-- [[amanita]]
 - [[ectomycorrhiza]]
-- [[humic-acids-soil-biology-ingham]]
 - [[crataegus-monogyna]]

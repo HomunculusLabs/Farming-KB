@@ -75,49 +75,16 @@ Several Spanish-language names were adopted by Indian communities:
 - **San Isidros** (Saint Isidores), named after the Catholic patron
   saint of agriculture, reflects syncretic blending of pre-Columbian
   mushroom veneration with Spanish Catholicism. Most commonly used for
-  [[psilocybe-cubensis]], which grows in manured agricultural fields.
-
-- **Pajaritos** (little birds), capturing both small size and possibly
-  the capacity to transport the user to transcendent states. Most
-  commonly associated with [[psilocybe-mexicana]].
+  [[psilocybe-mexicana]].
 
 - **Derrumbes** (landslides), referring to dramatic psychological
   effects or the way mushrooms appear after heavy rains on disturbed
-  earth. Most commonly associated with [[psilocybe-zapotecorum]].
-
-## The Mazatec Naming Confusion
-
-The Mazatec Indians of Oaxaca use the word nise (little bird) for both
-[[psilocybe-mexicana]] and [[schizophyllum-commune]]. While P. mexicana
-is a well-documented neurotropic species, S. commune is a common edible
-fungus with no known psychoactive properties. The confusion arises from
-superficial visual similarity between the small, fan-shaped fruiting
-bodies. This overlap led to erroneous reports of S. commune as
-hallucinogenic in Australia, when original observations may have
-involved P. mexicana in Mexico.
-
-## Mixtec Puffball Nomenclature
-
-The Mixtec Indians of Oaxaca developed names for puffball fungi
-(Gasteromycetes) used alongside true neurotropic species in ceremonies.
-Heim and Wasson (1962) first reported use of [[lycoperdon-mixtecorum]]
-and [[lycoperdon-marginatum]] as narcotic fungi. However, subsequent
-chemical analysis by Ott et al. (1975) confirmed that at least nine
-species used by the Mixtec contained no neurotropic properties. The
-Mixtec also used Scleroderma verrucosum, experimentally proven to
-be poisonous. Ott et al. concluded that the Mixtec narcotic puffballs
-were edible species used in a manner suggesting confusion with more
-traditional neurotropic fungi for religious or magical purposes.
-
-## Chinantec and Trique Ceremonial Fungi
-
-The Chinantec Indians of Oaxaca use [[dictyophora-indusiata]] in its
+  earth. Most commonly associated with [[psilocybe-mexicana]] and [[lycoperdon-mixtecorum]]
+and [[dictyophora-indusiata]] in its
 three forms as special narcotic fungi for divination purposes, though
 neurotropic properties remain uncertain. The Trique Indians of Alta
 Mixteca use Cordyceps capitata and Cordyceps ophioglossoides
-alongside [[psilocybe-muliercula]] in nocturnal ceremonies, calling
-them hombrecitos (little men) and mujercitas (little women)
-respectively. The host fungi [[elaphomyces-granulatus]], Elaphomyces muricatus, and Elaphomyces reticulatus are placed at the ceremony
+alongside [[elaphomyces-granulatus]], Elaphomyces muricatus, and Elaphomyces reticulatus are placed at the ceremony
 center as a director. These Elaphomyces are also used separately to
 heal wounds and to rejuvenate the organism.
 
@@ -134,12 +101,8 @@ considerable ethnographic value.
 
 ## See Also
 
-- [[guzman-magic-mushrooms-mexican-diversity]]
 - [[guzman-magic-mushrooms-new-guinea-sacred-fungi]]
-- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
-
 - [[neurotropic-fungi]] overview and classification
-- [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[psilocybe-mexicana]] ethnobotany and chemistry
 - [[psilocybe-zapotecorum]] distribution and traditional use
 - Cordyceps in Mesoamerican ceremonial use

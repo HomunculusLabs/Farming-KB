@@ -135,15 +135,10 @@ are primarily responsible for radical-scavenging activity.
 ### Anticancer
 Extensive preclinical data demonstrates curcumin's anticancer activity
 against multiple cell lines. Mechanisms include:
-- Induction of apoptosis via caspase activation
 ## See Also
 
-- [[curcuma-amada]]
-- zingiber officinale
-- [[piper-methysticum-entity]]
-- [[ashwagandha]]
+- [[curcuma-amarissima]]
+
+- [[piper-methysticum]]
 - [[panax-ginseng]]
 - [[bacopa-monnieri]]
-- [[astragalus-membranaceus]]
-- [[rhodiola-rosea]]
-- glycyrrhiza glabra

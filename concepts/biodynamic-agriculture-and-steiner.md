@@ -127,13 +127,7 @@ populations can transform raw manure into high-quality compost within
 one month. Pfeiffer's crystallization and chromatographic methods enable
 quality assessment of soils, seeds, and produce. Crop yields can be
 doubled using biodynamic methods without chemical fertilizers or
-pesticides. Plant symbiosis research guides [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] strategies.
+pesticides. Plant symbiosis research guides [[rudolf-steiner]] Concepts
 
-## Related
-
-- [[rudolf-steiner]] Concepts
-
-- [[biological-transmutation-in-plants]]
 - [[george-washington-carver-plant-work]]
-- [[luther-burbank-plant-breeding-methods]]
 - [[plants-and-electromagnetism]]

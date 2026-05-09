@@ -80,46 +80,8 @@ Water mold related to Pythium:
 
 ### Soil Grows
 
-1. **Do not overwater**: Follow the finger test — see [[cannabis-watering-techniques-and-frequency]]
-2. **Ensure proper drainage**: Containers must have drainage holes; soil mix must include perlite (25–40%)
-3. **Use well-aerated soil**: Avoid heavy, compacted soil mixes
-4. **Clean pots and tools**: Sterilize between uses
-5. **Avoid reusing soil**: If reusing, sterilize by solarization (baking in the sun) or pasteurization
-
-## Treatment
-
-### For Hydroponic Systems
-
-1. **Change the reservoir immediately**: Dump all nutrient solution
-2. **Clean the system**: Flush with hydrogen peroxide solution (3% H2O2 at 3–5ml per gallon)
-3. **Trim dead roots**: Gently remove brown, slimy roots with sterilized scissors. Leave any white, healthy roots.
-4. **Reset with fresh solution**: Refill with fresh, properly pH'd nutrient solution
-5. **Add beneficial bacteria**: Products containing Bacillus species or Trichoderma help recolonize the root zone
-6. **Add hydrogen peroxide**: At 1–2ml of 3% H2O2 per gallon of nutrient solution for the next few reservoir changes to suppress pathogens
-7. **Lower water temperature**: Aim for 65°F (18°C)
-8. **Monitor closely**: Check roots daily for improvement. Recovery takes 1–2 weeks.
-
-### For Soil Grows
-
-1. **Stop watering**: Let the soil dry out significantly
-2. **Improve drainage**: If the soil is waterlogged, the plant may need to be transplanted into fresh, well-draining soil
-3. **Treat with H2O2**: Water with diluted hydrogen peroxide (1:10 ratio of 3% H2O2 to water) to kill surface pathogens
-4. **Transplant if severe**: Remove the plant, trim affected roots, and repot in fresh soil with plenty of perlite
-5. **Add beneficial microbes**: Mycorrhizal inoculants and beneficial bacteria products can help re-establish root health
-
-### Recovery Expectations
-
-- Mild root rot: Plant recovers in 1–2 weeks with proper treatment
-- Moderate root rot: Recovery takes 2–4 weeks; some yield reduction is likely
-- Severe root rot: Often fatal. If the majority of the root system is brown and mushy, the plant may not recover. Consider replacing it.
-
-## Related Topics
-
-- [[cannabis-watering-techniques-and-frequency]] — preventing overwatering
-- [[cannabis-root-bound-symptoms-and-management]] — root system health
+1. **Do not overwater**: Follow the finger test — see [[cannabis-watering-techniques-and-frequency]] — preventing overwatering
 - [[cannabis-deep-water-culture-guide]] — DWC maintenance
-- [[cannabis-hydroponic-systems]] — hydroponic system care
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]] — deficiency from root damage
-- [[cannabis-indoor-soil-mix-and-preparation]] — well-draining soil mixes
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[cannabis-nutrient-solution-preparation]]

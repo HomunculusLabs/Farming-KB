@@ -58,14 +58,51 @@ Linalool has shown significant neuroprotective effects in preclinical models. It
 
 ### Antimicrobial Activity
 
-Linalool exhibits antimicrobial activity against a range of pathogens including Gram-positive and Gram-negative bacteria, fungi (including *[[candida-albicans]]* and *Aspergillus* species), and some enveloped viruses. These properties may contribute to the traditional use of lavender and linalool-containing preparations for wound healing.
+Linalool exhibits antimicrobial activity against a range of pathogens including Gram-positive and Gram-negative bacteria, fungi (including *[[cannabis-anti-inflammatory-applications]], [[oner-cannabis-terpene-profiles-effects]]
 
-## Clinical Evidence
+## Metabolism and Pharmacokinetics
 
-Linalool is one of the few cannabis terpenes with meaningful clinical data. Inhalation aromatherapy clinical trials have demonstrated that inhaled linalool reduces anxiety, improves sleep quality, and decreases cortisol levels in patients undergoing medical procedures. Topical applications have shown efficacy in reducing post-operative pain and improving wound healing.
+Linalool is absorbed through inhalation, oral, and dermal routes, with
+pharmacokinetics varying by administration method. Inhaled linalool achieves
+rapid onset due to direct absorption through the pulmonary epithelium and
+olfactory nerve pathway, with effects noticeable within minutes. Oral
+absorption is slower but produces sustained plasma levels. The compound is
+metabolized primarily by hepatic cytochrome P450 enzymes, producing linalool
+oxides, 8-hydroxylinalool, and other oxidized metabolites that may retain
+biological activity.
 
-## Safety Profile
+Linalool's relatively short half-life (estimated at 1-2 hours in humans)
+supports its use in acute applications such as anxiolysis and sleep induction.
+Its lipophilicity allows distribution to the central nervous system, which
+is relevant to its anxiolytic, sedative, and neuroprotective effects.
 
-Linalool is classified as GRAS by the FDA. It has a favorable safety profile with low acute toxicity (oral LD50 > 2 g/kg in rodents), no evidence of mutagenicity or carcinogenicity, and is generally well tolerated in topical, inhaled, and oral applications. Potential adverse effects include skin sensitization in rare cases and mild gastrointestinal discomfort at high oral doses.
+## Industrial and Cosmetic Applications
 
-Related: [[cannabis-anti-inflammatory-applications]], [[cannabis-indoor-growing-guide]], [[oner-cannabis-terpene-profiles-effects]]
+Linalool is one of the most commercially important terpenes, with annual
+global production estimated in the thousands of metric tons. It is a key
+ingredient in perfumery, valued for its fresh floral character and ability
+to blend with a wide range of fragrance materials. Lavender essential oil,
+containing 20-50% linalool, accounts for a significant portion of global
+linalool supply. The compound is also used in scented household products,
+soaps, and detergents.
+
+In the cannabis industry, isolated linalool is a common component of terpene
+formulation blends used to enhance vape cartridges, topicals, and tinctures.
+Its calming profile makes it particularly popular in products marketed for
+relaxation, sleep, and anxiety relief. Food-grade linalool from natural
+sources is preferred for these applications.
+
+## Drug Interactions
+
+Linalool's modulation of GABA-A receptors may potentiate the effects of other
+GABAergic substances including benzodiazepines, barbiturates, and alcohol.
+This interaction could enhance sedative effects but also increase the risk
+of excessive CNS depression when combined with these agents. Linalool may
+also interact with cytochrome P450 enzymes, potentially altering the
+metabolism of pharmaceuticals processed through hepatic oxidation pathways.
+These considerations are relevant for cannabis preparations that combine
+linalool-rich cultivars with other sedating compounds.
+
+Related: [[oner-cannabis-terpene-profiles-effects]]
+
+See also: [[cannabis-as-medicine-clinical-reference]]

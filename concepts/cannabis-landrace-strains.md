@@ -56,7 +56,7 @@ longer. Classic sativa landraces include:
 
 Sativa landraces often prove disappointing when grown under artificial
 light, as they evolved for intense equatorial sun and long growing
-seasons. See [[cannabis-thai-strain-description-clarke]] and [[cannabis-colombian-strain-description-clarke]].
+seasons. See [[cannabis-colombian-strain-description-clarke]].
 
 ## Cannabis Indica
 
@@ -68,29 +68,7 @@ reddish to purple. Indica strains generally contain a higher CBD-to-THC
 ratio, producing a heavy, incapacitating "stone." Heavily
 resin-laden indica plants tend to be more pest-resistant, though few
 with dense compact buds resist gray (bud) mold. See
-[[cannabis-sativa-vs-indica-guide]].
-
-## Cannabis Afghanica
-
-Cannabis afghanica originated near present-day Afghanistan. It is
-quite short (seldom reaching six feet) with distinctive broad, dark
-green leaflets and leaves, dense branching, short internodes, and long
-leaf stems (petioles). Pure C. afghanica examples include hash plants
-and Afghani strains. It is cultivated exclusively for drugs, with much
-resin made into hashish, and is known for high cannabinoid content.
-Many growers and breeders do not distinguish C. afghanica from C.
-indica, lumping them together. See [[cannabis-hindu-kush-strain-description-clarke]] and [[cannabis-mexican-strain-description-clarke]].
-
-## Cannabis Ruderalis
-
-Cannabis ruderalis was first brought to Amsterdam from Central Europe
-in the early 1980s by the Seed Bank to enhance their breeding program.
-Similar plants grow from Minnesota north through Manitoba and
-Saskatchewan, Canada. C. ruderalis is a short, weedy plant containing
-very little THC, but it begins flowering after only a few weeks of
-growth regardless of photoperiod. This automatic flowering trait has
-made it valuable for autoflowering breeding programs. See
-[[autoflowering-breeding]].
+[[cannabis-hindu-kush-strain-description-clarke]] and [[autoflowering-breeding]].
 
 ## Landrace Importance in Breeding
 
@@ -118,12 +96,7 @@ botanical term.
 
 ## See Also
 
-- [[sativa-landrace-strains-and-geographic-origins]]
-
 - [[oner-cannabis-breeding-fundamentals]]
-- [[cannabis-sativa-vs-indica-guide]]
 - [[cannabis-strain-guide-reference]]
-- [[cannabis-strain-naming]]
 - [[cannabis-genetic-stability]]
-- [[autoflowering-breeding]]
 - [[panama-red]]

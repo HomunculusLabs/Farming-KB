@@ -1,48 +1,7 @@
 ---
 title: Nutritional Properties of Mushrooms
 created: 2026-04-28
-tags: [mycology, nutrition, health, food, mushrooms]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
-type: concept
----
-
-# Nutritional Properties of Mushrooms
-
-## Overview
-
-Many species of mushrooms are highly nutritious foods. The
-FDA has officially designated mushrooms as "healthy foods,"
-and nutritionists increasingly recognize their value as
-medicinal foods rich in protein, complex carbohydrates,
-minerals, and bioactive compounds. Understanding the
-nutritional profile of mushrooms helps consumers and health
-professionals make informed dietary choices.
-
-## Macronutrient Profile
-
-Mushrooms are rich in protein, very low in simple
-carbohydrates, rich in high molecular weight complex
-carbohydrates (polysaccharides), high in antioxidants, and
-very low in fat. They contain no cholesterol. Because most
-fresh mushrooms are 90 percent water, nutritional analysis
-is best done on a dry weight basis.
-
-**Protein content** ranges from 3 percent for tough,
-inedible species like agarikon to 33 to 35 percent for
-shiitake, nameko, and portobello. A 200g (wet) serving of
-maitake provides approximately 5g of protein -- 10 percent
-of daily needs for a 140-pound person.
-
-**Complex carbohydrates** are the dominant macronutrient.
-These are high molecular weight polysaccharides,
-particularly beta-glucans, which range from 8.9 percent in
-almond portobello to 14.5 percent in maitake to 41 percent
-in reishi. Beta-glucans are the primary bioactive compounds
-responsible for the immune-modulating effects attributed to
-medicinal mushrooms.
+tags: [[medicinal-mushrooms]].
 
 **Fat content** ranges from 0.3 to 4 percent, with
 polyunsaturated fats making up 10 to 30 percent of total
@@ -54,97 +13,93 @@ percent ergosterol.
 
 Mushrooms are excellent sources of dietary fiber, with
 edible varieties ranging from 20 percent fiber (dry weight)
-for Agaricus species to 50 percent for Pleurotus species.
-This fiber includes both soluble and insoluble forms, with
-beta-glucans being a major soluble fiber component. High
-fiber intake supports digestive health, blood sugar
-regulation, and cardiovascular function.
-
-## Vitamins
-
-Mushrooms lack vitamins A and C but provide several B
-vitamins:
-- **Riboflavin (B2)**: Present in significant amounts
-- **Niacin (B3)**: A serving of maitake provides 87
-  percent of the daily value
-- **Pantothenic acid (B5)**: Provides 8 percent of daily
-  value
-- **Thiamine (B1)**: Provides 4 percent of daily value
-
-### Vitamin D
-Mushrooms contain ergosterols, which upon exposure to
-ultraviolet light convert to provitamin D2. Research has
-shown that light-exposed mushrooms can provide significant
-vitamin D content. A 200g serving of UV-exposed maitake
-provides at least 30 percent of the daily vitamin D
-requirement. Sun-drying mushrooms can dramatically increase
-their vitamin D content.
-
-## Minerals
-
-Mushrooms are good sources of essential minerals:
-- **Selenium**: A serving provides 17 percent of daily
-  needs. Some mushrooms hyperaccumulate selenium.
-- **Copper**: Important for immune function and
-  antioxidant production
-- **Potassium**: A serving of maitake provides 464 percent
-  of the daily value, making mushrooms an excellent
-  potassium source
-- **Ergosterol**: A precursor to vitamin D, unique to
-  fungi, comprising up to 15 percent of mushroom fat
-
-## Medicinal Compounds
-
-Beyond basic nutrition, mushrooms contain numerous
-bioactive compounds:
-- **Triterpenoids**: Particularly abundant in reishi,
-  with anti-inflammatory properties
-- **Glycoproteins**: Immune-modulating compounds found
-  across many species
-- **Natural antibiotics**: Compounds that inhibit
-  bacterial growth
-- **Enzymes and enzyme inhibitors**: Bioactive proteins
-  with various health effects
-
-The National Institutes of Health fund research into
-medicinal properties of mushrooms, and doctors worldwide
-increasingly recognize mushrooms as medicinal foods.
-
-## FDA Ratings
-
-The FDA states that a food is "excellent" if a single
-serving supplies 20 percent of daily nutritional needs,
-and "good" if it supplies 10 percent. Given this
-definition, mushrooms rank "good" to "excellent" in
-several categories: niacin (excellent), potassium
-(excellent), selenium (good), and protein (good for
-smaller individuals).
-
-## Comparative Nutrition
-
-Among commonly cultivated mushrooms:
-- **Shiitake**: 32.93% protein, high in B vitamins
-- **Maitake**: 25.51% protein, highest in beta-glucans
-- **Oyster**: 19-30% protein (varies by species), high
-  fiber
-- **Reishi**: 15.05% protein, highest in complex
-  carbohydrates (71%)
-- **Turkey tail**: 10.97% protein, very high fiber
-  (76.06%)
-
-## Culinary and Health Integration
-
-Paul Stamets notes that consuming a half pound of freshly
+for Agaricus species to 50 percent for [[paul-stamets]] notes that consuming a half pound of freshly
 cooked mushrooms in combinations of shiitake, maitake, and
 oysters is not unusual in his household. This level of
 consumption provides substantial portions of daily
 nutritional needs while delivering the immune-modulating
 benefits of beta-glucans and other medicinal compounds.
-
 ## See Also
 
-- [[antiviral-properties-of-mushrooms]]
 - [[psilocybin-mushrooms-north-america-distribution]]
 - [[psilocybin-mushrooms-central-south-america-distribution]]
 
 - medicinal mushrooms
+## Practical Applications
+
+Nutritional Properties of Mushrooms has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Nutritional Properties of Mushrooms. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

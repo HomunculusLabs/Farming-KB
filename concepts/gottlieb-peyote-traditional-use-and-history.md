@@ -8,37 +8,10 @@ type: concept
 tags: [history]
 ---
 
-# [[huichol-peyote-tradition]]al Use and History
-
-## Pre-Columbian Origins
-
-The known history of peyote dates back to pre-Columbian times, possibly as early as
-300 BC. Throughout this long history, peyote has served as a sacred plant central to
-the spiritual practices of numerous indigenous peoples of Mexico and the American
-Southwest.
-
-## Spread to [[neurotropic-fungi-in-north-america]]n Tribes
+# [[neurotropic-fungi-in-north-america]]n Tribes
 
 During the past two centuries the religious use of peyote spread northward into the
-[[hallucinogenic-plants-united-states]] and Canada among many of the Plains Indian Tribes including:
-
-- Navajo
-- Comanche
-- Sioux
-- Kiowa
-
-Peyote eventually came to replace the hallucinogenic but dangerous red mescal bean
-(Sophora secundiflora) as a ceremonial sacrament.
-
-## Standardization of the Peyote Ritual
-
-During the 1800s the North American peyote ritual was standardized. By 1920 the
-ceremonial practices of most tribes were identical with only minor variations. This
-standardization contributed to the formation of the Native American Church, which
-established peyote as a religious sacrament long before prohibition laws came into
-existence.
-
-## The [[peyote-ceremony]]
+[[peyote-ceremony]]
 
 The Navajo peyote ritual makes wise use of the different phases of the peyote
 experience:
@@ -53,12 +26,7 @@ experience:
 The entire experience may last from 6 to 12 hours. After all the peyote effects have
 passed there is no comedown. One is likely to feel pleasantly relaxed and much at
 peace with the world. Most tribes fast for at least a day before taking peyote. During
-the ceremony Indians encourage vomiting [[integrate-rather-than-segregate]] restraint if the urge presents
-itself, believing it to be a purging of both physical and spiritual ills.
-
-## Huichol Indian Uses
-
-The Huichol people of [[psychoactive-cacti-of-central-mexico]] maintain some of the most traditional peyote
+the ceremony Indians encourage vomiting [[psychoactive-cacti-of-central-mexico]] maintain some of the most traditional peyote
 practices:
 
 ### Wound Healing

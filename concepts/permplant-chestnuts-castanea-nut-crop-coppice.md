@@ -20,41 +20,7 @@ Chestnuts (Castanea spp) are close relatives of the oaks, belonging to
 the family Fagaceae. They are long-lived, deciduous, drought-resistant
 trees that thrive on well-drained and preferably light soils. With a
 fair lime tolerance but inability to withstand salinity, chestnuts have
-been valued for millennia as a |staple carbohydrate source and [[mollison-designers-chestnut-as-multipurpose-tree-crop]] in permaculture systems.
-
-## Nutritional Value
-
-Chestnuts are unique among nuts for their high carbohydrate and low fat
-content, making them more like a grain than a typical nut. Nutritional
-composition of fresh chestnuts per 100 grams:
-
-- Water: 52.5%
-- Energy: 194 calories
-- Carbohydrate: 42.1 g
-- Fat: 1.5 g
-- Protein: 2.9 g
-- Calcium: 27 mg
-- Potassium: 454 mg
-- Phosphorus: 88 mg
-- Iron: 1.7 mg
-- Magnesium: 41 mg
-- Digestion time: 2.75 hours
-
-Dried chestnuts per 100 grams provide 377 calories with 78.6 g
-carbohydrate, 4.1 g fat, and 6.7 g protein, making them an excellent
-storable staple food.
-
-## Yield Potential
-
-By year 10, a grove planted at a density of 56-70 trees/ha could yield
-0.77 t/ha of nuts under minimal irrigation and 1.7 t/ha under full
-irrigation. Mature trees of the Spanish chestnut can reach yields of
-5,000 kg per hectare. Chestnuts can be eaten raw but are tastier freshly
-roasted, boiled, or preserved by drying or pickling.
-
-## Key Species
-
-### Spanish Chestnut ([[castanea-sativa]])
+been valued for millennia as a |staple carbohydrate source and [[castanea-sativa]])
 A large, spreading tree up to 35 metres tall with girth up to 1-3
 metres. Prized for timber in Europe where the tree is coppiced. The
 young timber is tough and durable but old growth wood is of little use
@@ -89,7 +55,6 @@ said to be the sweetest of any species.
 
 ## Related
 
-- [[stamets-crop-watering-flushing-management]]
 - [[jadam-crop-rotation-critique]] Species: Chinquapins (Chrysolepis spp)
 
 Chrysolepis chrysophylla (golden chinquapin) is very closely related to
@@ -114,34 +79,6 @@ production from standard trees.
 
 Chestnut timber and foliage have relatively low combustibility compared
 to many other tree species. This makes them suitable for planting as
-components of [[mollison-designers-fire-resistant-landscape-design]] and
-as barriers in fire-prone regions.
+components of [[permaculture-design]]
 
-## Growing Conditions
-
-Chestnuts prefer well-drained, light, acidic to neutral soils. They are
-drought-resistant once established but produce better crops with adequate
-moisture. They require good air circulation to reduce disease pressure.
-Spacing of 10-15 metres between trees is typical for nut production.
-
-## Culinary Uses
-
-Chestnuts are a versatile food that can be used in many ways:
-
-- Eaten raw, roasted, or boiled
-- Dried and ground into flour for breads and cakes
-- Preserved by pickling
-- Used in stuffings, soups, and stews
-- Made into chestnut puree and confectionery
-- Roasted chestnuts are a traditional winter street food
-
-## Role in [[permaculture-design]]
-
-In a [[comparison-food-forest-design-vs-backyard-orchard-design]], chestnuts
-typically occupy the canopy layer, providing both carbohydrate-rich food
-and valuable timber. Their drought resistance makes them suitable for
-|dryland systems. As |Mollison noted, chestnuts represent one of the most important staple tree crops
-for temperate permaculture, offering a reliable annual carbohydrate
-harvest from a perennial system.
-
-- [[chestnuts-castanea-spp]]
+In a [[chestnuts-castanea-spp]]

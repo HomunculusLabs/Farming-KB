@@ -117,15 +117,8 @@ The species is among the first colonizers of freshly fallen branches and contrib
 
 ## See Also
 
-- [[medicinal-mushroom-guide]]
-
 - [[mushroom-cultivation-basics]]
-- [[edible-wild-mushrooms-by-region]]
-
 - [[auricularia-auricula-judae]] — European wood ear, the type species of the genus
-- [[auricularia-polytricha]] — commercially cultivated wood ear mushroom
 - [[tremella-fuciformis-entity]] — snow fungus, a related jelly fungus used in Asian cuisine
-- [[trametes-hirsuta]] — white-rot polypore sharing tropical hardwood substrate
 - [[lentinula-edodes]] — shiitake, another tropical/subtropical cultivated mushroom
-- [[coriolopsis-gallica]] — tropical polypore co-occurring on hardwood logs
 - [[volvariella-volvacea]] — paddy straw mushroom, another tropical cultivated species

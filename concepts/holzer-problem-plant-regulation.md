@@ -86,11 +86,7 @@ A single species can only become prevalent if there is an imbalance. The main pr
 
 ## See Also
 
-- [[holzer-indicator-plants]] — Holzer's indicator plant system
 - [[holzer-green-manure-crops]] — green manure crops for soil building
-- [[holzer-pig-integration]] — pig integration on the farm
 - [[holzer-livestock-integration]] — livestock integration overview
-- [[holzer-livestock-philosophy-pig-breeds]] — detailed pig integration
 - [[weed-suppression-strategies]] — general weed suppression approaches
-- [[sepp-holzer-garden-helpers-and-pest-regulation]] — garden helpers and pest regulation
 - [[holzer-green-manure-and-soil-building-plants]]

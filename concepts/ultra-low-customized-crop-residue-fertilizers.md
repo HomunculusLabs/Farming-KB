@@ -52,82 +52,65 @@ harvest or is removed during cultivation:
 
 ## Making Crop-Specific JLF
 
-The process follows the standard [[ultra-low-jadam-liquid-fertilizer-making]]
-method:
-
-1. Fill half the container with water.
-2. Add a handful of leaf mold for microbial starter.
-3. Add crop residues and fruits until the container is full.
-4. Close the lid and wait.
-5. Use after 1 to 3 months depending on the material.
-
-Softer materials like fruits and young leaves decompose quickly, often
-within a month. Tougher materials like stems and branches take longer.
-Dilute 20 to 300 times for application. Standard dilution is about 100
-times for most crop residue JLF.
-
-## Nitrogen Content Comparison
-
-Different JLF types vary widely in nitrogen content. Knowing these
-values helps farmers choose the right JLF for their situation:
-
-- Wild grass JLF: 0.01% nitrogen (balanced, general use)
-- Purslane JLF: 0.20% nitrogen (fast decomposition, color enhancer)
-- Tomato JLF: 0.27% nitrogen (moderate nitrogen)
-- Spinach JLF: 0.29% nitrogen (moderate nitrogen)
-- Food waste JLF: 2.93% nitrogen (high nitrogen supplement)
-- Human feces JLF: 2.48% nitrogen (high nitrogen)
-- Urine JLF: 3.92% nitrogen (very high nitrogen)
-- Raw anchovy JLF: 5.08% nitrogen (extreme nitrogen)
-- Fish JLF: 7.44% nitrogen (highest nitrogen source)
-
-Crop residue JLF typically falls in the low to moderate range, making
-them ideal as the main additional fertilizer throughout the growing
-season without risk of over-fertilization.
-
-## Advantages Over Commercial Organic Inputs
-
-Most farmers rely on purchased organic inputs like rice bran, perilla
-pulp, oil cakes, bone meal, and oyster shell. JADAM identifies a
-critical problem with these "partial body fertilizers": they contain
-nutritional profiles suited to the source plant, not the target crop.
-
-For example, if you apply generous amounts of rice bran to tomatoes,
-the soil's nutritional balance shifts toward what is good for growing
-rice, not tomatoes. Overuse of perilla pulp will make soil better
-suited for perilla, potentially harming strawberries. Oil cakes often
-contain 50 percent castor pomace, making soil favorable for castor.
-
-Crop residue JLF avoids this problem entirely because you are giving
-the plant exactly what it needs, in the proportions it needs it.
-
-## The GC-JLF System
-
-When you combine wild grass and crop residues in one liquid fertilizer,
-it is called GC-JLF (Green Cover JLF). This is the main additional
-fertilizer in the JADAM system. Wild grass has a nutrient composition
-similar to most crops because they are all plants. Crop residue JLF
-provides the exact match. Together, they create a complete nutritional
-package.
-
-GC-JLF diluted about 100 times, applied 3 to 4 times per month, serves
-as the sole additional fertilizer for most crops. When growth seems
-weak, supplement with nitrogen-rich inputs like food waste JLF, urine
-JLF, or fish JLF.
-
-## Closing the Nutrient Loop
-
-The fundamental insight is that farming creates an open nutrient loop.
-Every harvest removes organic and inorganic nutrients from the soil.
-Fertilizer is simply the process of putting back what was taken out.
-The most logical approach is to give back materials that are identical
-or similar to what was removed. Crop residue JLF does exactly this,
-creating a nearly closed nutrient loop that maintains soil nutritional
-balance over time.
-
-## See Also
-
-- [[ultra-low-jadam-liquid-fertilizer-making]] - General JLF principles
-- [[ultra-low-jadam-fertilizer-program]] - Complete fertilizer programs
+The process follows the standard [[ultra-low-jadam-liquid-fertilizer-making]] - General JLF principles
 - [[jadam-jms-pesticide]] - Microbial soil amendment
-- [[ultra-low-green-manure-cover-crop-species]] - Base fertilizer from cover crops
+- [[cover-crops]]
+## Practical Considerations
+
+When working with Customized Crop Residue Fertilizers, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

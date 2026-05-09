@@ -3,75 +3,17 @@ title: Permaculture Pig Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
 # Permaculture Pig Raising
 
-Pigs are very efficient foragers in a [[permaculture-design]] system, serving as natural plows, orchard cleaners, and waste recyclers while producing meat and manure.
-
-## Role in the System
-
-Pigs eat fallen fruit (helping deter pests), grass, herbs, vines, nuts, and dig up roots with their noses. Their rooting action makes them excellent natural plows for preparing and clearing garden beds. The best placement is a shady, treed area full of waste material and weeds.
-
-Key integration:
-
-- Can be allowed into the [[permaculture-zone-planning]] orchard when trees are at least a few years old
+Pigs are very efficient foragers in a [[permaculture-zone-planning]] orchard when trees are at least a few years old
 
 - They eat 25 pounds (11.3 kg) of food per day, including all food waste
 
-- Excellent for land clearing: after pigs clear a pasture, replant and rotate with [[permaculture-designers-manual-cattle-systems]]
-
-- 100 pigs on 5 acres will eat through 100 acres in 18 months -- useful for clearing but requires careful population control
-
-- Maximum 20 pigs per acre (0.4 hectare) for normal grazing
-
-## Pasture and Forage
-
-Prepare the pasture with a chisel plow and add lime. Plant with:
-
-- Legumes
-
-- Comfrey
-
-- Endive
-
-- Grass
-
-- Additional forage: cattail, legumes, chicory, comfrey, duck potatoes
-
-## Housing
-
-In a cold climate, pigs need a three-sided shed with a soft dry floor. For breeding, a farrowing pen is needed (used three months per year -- two sows can take turns). The farrowing pen is a well-ventilated shed with a door big enough for the sow to enter and turn around, with two dividers on each side so piglets can walk through and avoid being accidentally smothered. A creep feeder allows only piglets to access supplemental food.
-
-All pigs need a large, reliable constant supply of water. Since pigs don't sweat, an automatic waterer that they can spray themselves with keeps them happy.
-
-## Breeds
-
-Breeds are divided by skin color:
-
-- White breeds: good mothering instincts, large litters, but not known for foraging. Popular: Chester White, Yorkshire, Landrance
-
-- Heritage breeds: both good mothering and foraging ability. Recommended: British Saddleback, Large Black, Tamworth
-
-Avoid Chester White for boars as they are more aggressive.
-
-## Feeding and Finishing
-
-Lactating sows need 7 pounds (3.2 kg) of grain per day at birth, working up to 12 pounds (5.4 kg) when piglets are a few weeks old. Each sow needs at least 2.5 acres (1 hectare) for forage. For bacon production, feed some grain for a couple of weeks at the end to fatten them up. For healthy pork without concern for bacon, forage alone suffices.
-
-## Breeding
-
-Sows are generally gentle if handled regularly, but boars are aggressive and can injure you. Consider renting a boar rather than keeping one. The sow goes into heat when not nursing; gestation is four months. Piglets need to be kept warm (about 86F / 30C) and will huddle together even then. Weaning begins at about one month old using a creep feeder.
-
-## Production
-
-Market weight is around 250 pounds (113 kg), yielding 140 pounds (63.5 kg) of meat, reached in about six months depending on grain supplementation. Butchering pigs is very labor-intensive and requires extra sanitary procedures -- recommended to hire a professional unless raising commercially.
-
-## Health and Common Ailments
-
-Preventive health management is essential for a successful pig operation. Pigs in a [[permaculture-animal-integration]] system benefit from diverse forage, clean living conditions, and low stocking densities, which reduce disease pressure significantly compared to confinement operations.
+- Excellent for land clearing: after pigs clear a pasture, replant and rotate with [[permaculture-animal-integration]] system benefit from diverse forage, clean living conditions, and low stocking densities, which reduce disease pressure significantly compared to confinement operations.
 
 Common health concerns include:
 
@@ -111,14 +53,30 @@ Integration strategies:
 
 - Off-season garden cleanup: After harvest, move pigs into garden beds to root out remaining crop residues, weed roots, and pest larvae overwintering in the soil
 
-- Composting acceleration: Pig manure is "hot" and breaks down quickly when combined with carbon material in [[permaculture-composting]] systems
-
-- [[comfrey-multifunctional-guild-plant]] patches: Plant comfrey near pig areas -- pigs will browse it and the deep-rooted comfrey mines nutrients from subsoil layers
+- Composting acceleration: Pig manure is "hot" and breaks down quickly when combined with carbon material in [[comfrey-multifunctional-guild-plant]] patches: Plant comfrey near pig areas -- pigs will browse it and the deep-rooted comfrey mines nutrients from subsoil layers
 
 - Food waste recycling: Pigs consume virtually all kitchen scraps, dairy, and garden waste, closing nutrient loops on the homestead
 
 - Apple and pear orchard cleanup: Pigs efficiently process windfall fruit, reducing pest pressure for the following season
 
 The key principle is to match pig activity to the farm's seasonal rhythm. Allow pigs into areas when their rooting behavior is beneficial (clearing, tilling) and exclude them when plants need protection (establishing seedlings, growing crops).
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[permaculture-cold-climate-strategies]]
+## Practical Considerations
+
+Successful implementation of Permaculture Pig Raising requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -15,18 +15,7 @@ created: 2026-05-03
 
 ## Can You Grow Cacao at Home?
 
-Yes, but with caveats. Cacao (*Theobroma cacao*) is a strictly tropical understory tree native to the Amazon basin. It thrives in humid conditions with consistent warmth and filtered sunlight. Growing cacao at home is realistic if you live in a frost-free tropical climate (USDA zones 11–12) or have a heated greenhouse. A single tree can produce enough pods for small-batch chocolate, but expect a multi-year commitment before your first harvest. For a broader look at tropical [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]], cacao is one of the more demanding species compared to bananas or papayas.
-
-## What Climate Zone Do I Need?
-
-Cacao requires:
-- **Temperature:** 21–32 °C (70–90 °F) year-round, never below 15 °C (59 °F)
-- **Rainfall:** 1,500–2,500 mm (60–100 in) annually, well-distributed
-- **Humidity:** 70–90% relative humidity
-- **USDA Hardiness Zones:** 11–12 (southern Florida, Hawaii, Puerto Rico, tropical Pacific islands)
-- **Shade:** Young trees need 40–60% shade; mature trees tolerate more light but still prefer partial canopy
-
-If you are outside these zones, a climate-controlled greenhouse with supplemental humidity and heating is your only option. See [[permaculture-greenhouse-indoor-growing]] for setup details.
+Yes, but with caveats. Cacao (*Theobroma cacao*) is a strictly tropical understory tree native to the Amazon basin. It thrives in humid conditions with consistent warmth and filtered sunlight. Growing cacao at home is realistic if you live in a frost-free tropical climate (USDA zones 11–12) or have a heated greenhouse. A single tree can produce enough pods for small-batch chocolate, but expect a multi-year commitment before your first harvest. For a broader look at tropical [[permaculture-greenhouse-indoor-growing]] for setup details.
 
 ## How Do I Start Cacao from Seed?
 
@@ -37,20 +26,7 @@ Cacao seeds lose viability within 1–2 weeks of being removed from the pod, so 
 4. **Keep warm and humid** — 27–30 °C (80–86 °F) with 80%+ humidity. A propagation heat mat and clear humidity dome work well.
 5. **Germination** typically occurs in 7–21 days. Expect 70–90% success with fresh seed.
 
-Seedlings are sensitive to root disturbance; transplant into individual containers when the first true leaves appear. For more on [[seed-germination-techniques-solomon]], consult that guide.
-
-## What Soil and Site Conditions Does Cacao Need?
-
-| Factor | Ideal Range |
-|--------|-------------|
-| Soil type | Well-draining loam or sandy loam, rich in organic matter |
-| pH | 5.0–6.5 (slightly acidic) |
-| Drainage | Excellent — waterlogged roots kill cacao quickly |
-| Shade | 40–60% for seedlings; 25–40% for mature trees |
-| Wind protection | Essential — cacao has brittle branches |
-| Elevation | 0–600 m (0–2,000 ft); some varieties tolerate up to 900 m |
-
-Avoid heavy clay soils and low-lying areas prone to flooding. Raised beds or mounds improve drainage in marginal sites. For soil amendment strategies, see [[query-how-to-design-a-food-forest-guild-for-fruit-trees]].
+Seedlings are sensitive to root disturbance; transplant into individual containers when the first true leaves appear. For more on [[query-how-to-design-a-food-forest-guild-for-fruit-trees]].
 
 ## How Do I Plant and Care for Young Cacao Trees?
 
@@ -66,22 +42,7 @@ Avoid heavy clay soils and low-lying areas prone to flooding. Raised beds or mou
 - **Watering:** Keep soil consistently moist but never waterlogged. During dry spells, water deeply 2–3 times per week.
 - **Fertilizing:** Apply a balanced fertilizer (e.g., 10-10-10) quarterly, plus micronutrient sprays (boron, zinc) twice yearly.
 - **Mulching:** Maintain a 5–10 cm layer of organic mulch around the base, keeping it away from the trunk.
-- **Pruning:** Remove dead, diseased, or crossing branches. Shape young trees to encourage a low, spreading canopy (see [[no-pruning-fruit-trees]]).
-
-## How Long Until My Tree Produces Pods?
-
-From seed, cacao trees begin flowering at **3–5 years**. Pods mature about 150–170 days after pollination. A healthy tree in ideal conditions can produce 20–30 pods per year by year 6–8. Peak production occurs at 10–15 years and can continue for 40+ years with proper care. Grafted trees may fruit a year earlier than seed-grown trees.
-
-## What Pests and Diseases Should I Watch For?
-
-| Pest/Disease | Symptoms | Management |
-|--------------|----------|------------|
-| **Cacao pod borer** (Conopomorpha cramerella) | Premature pod ripening, internal tunneling | Remove infested pods; bag young pods; pheromone traps |
-| **Black pod rot** (Phytophthora palmivora) | Dark brown/black lesions on pods spreading rapidly | Copper-based fungicides; improve air circulation; remove infected pods |
-| **Witches' broom** (Moniliophthora perniciosa) | Bunched, distorted shoots; unproductive growth | Prune affected branches; resistant varieties; fungicide sprays |
-| **Mirids (Sahlbergella)** | Feeding damage on pods and shoots; dark spots | Neem oil sprays; biological control with ants |
-| **Mammals** (squirrels, monkeys, rodents) | Pod damage and theft | Protective netting; traps; companion plant barriers |
-Integrated pest management is essential. See [[query-what-is-integrated-pest-management-for-organic-gardens]] for detailed strategies.
+- **Pruning:** Remove dead, diseased, or crossing branches. Shape young trees to encourage a low, spreading canopy (see [[query-what-is-integrated-pest-management-for-organic-gardens]] for detailed strategies.
 
 ## When and How Do I Harvest Cacao Pods?
 
@@ -147,4 +108,3 @@ Crack roasted beans with a rolling pin, grain mill, or specialized cracker. Sepa
 
 1. **Melt** chocolate to 45–50 °C (113–122 °F) to fully dissolve all cocoa butter crystals.
 2. **Cool** to 27–28 °C (80–82 °F) while stirring — stable Type IV and V crystals form.
-3. **Reheat** gently to 31–32 °C (88–90 °F) — melts unstable crystals, leaving only stable Type V.

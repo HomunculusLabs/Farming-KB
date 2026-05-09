@@ -127,11 +127,7 @@ leaf-eating caterpillars. No serious diseases have been reported in cultivation.
 
 ## See Also
 
-- [[garcinia-mangostana]]
 - [[mangifera-indica]]
-- [[carica-papaya]]
 - [[punica-granatum]]
-- [[artocarpus-heterophyllus]]
 - [[moringa-oleifera]]
-- [[hibiscus-sabdariffa]]
 - [[passiflora-edulis]]

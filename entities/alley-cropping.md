@@ -125,11 +125,7 @@ machinery designed to navigate between tree rows.
 
 ## See Also
 
-- [[agroforestry]]
 - [[silvopasture]]
-- [[food-forest]]
 - [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
-- [[chop-and-drop]]
 - [[biochar]]
-- [[mycoremediation]]
 - [[companion-planting]]

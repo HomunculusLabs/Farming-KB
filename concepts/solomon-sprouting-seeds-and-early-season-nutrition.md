@@ -126,8 +126,6 @@ has passed and the soil has warmed.
 
 ## Related Concepts
 
-- [[solomon-seed-quality-and-germination-testing]]
 - [[solomon-chitting-and-presprouting-techniques]]
-- [[solomon-seed-starting-transplanting]]
 - [[solomon-potting-mix-and-seedling-soil-recipe]]
 - [[solomon-climate-zones-and-growing-seasons]]

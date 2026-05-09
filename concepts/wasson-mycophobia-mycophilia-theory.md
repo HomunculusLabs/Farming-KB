@@ -13,57 +13,7 @@ Updated: 2026-04-18
 
 R. Gordon Wasson (1898-1986), a vice president of J.P. Morgan and amateur mycologist, proposed one of the most influential theories about cultural attitudes toward mushrooms: the mycophobia-mycophilia dichotomy. This theory, developed through decades of cross-cultural research, argues that human societies can be divided into two fundamental types based on their relationship with mushrooms — a division that shapes cuisine, folklore, language, and even religion.
 
-Source: [[magic-mushroom-cultural-history]]
-
-***
-
-## The Core Theory
-
-### Two Cultural Types
-
-Wasson observed that world cultures fall into two distinct categories:
-
-**Mycophilic cultures** (mushroom-loving):
-- View mushrooms positively as food and cultural symbols
-- Have extensive traditions of mushroom foraging, identification, and preparation
-- Include most Slavic, Mediterranean, and Mesoamerican societies
-- Possess elaborate folk taxonomies for mushroom species
-- Transmit foraging knowledge across generations
-- Feature mushrooms prominently in cuisine and folklore
-
-**Mycophobic cultures** (mushroom-fearing):
-- View mushrooms with suspicion, fear, or disgust
-- Have limited or no tradition of mushroom foraging
-- Include Anglo-Saxon (British, American, Australian), Scandinavian, and most Germanic societies
-- Tend to regard all wild mushrooms as potentially poisonous
-- Use "toadstool" terminology to distinguish "bad" from "good" mushrooms
-- Lack significant mushroom folklore beyond warning tales
-
-***
-
-## Wasson's Personal Journey
-
-### From Mycophobe to Mycophile
-
-Wasson was himself born into an Anglo-Saxon mycophobic family. His "eureka moment" came in 1927 during his honeymoon in the Catskill Mountains with his wife Valentina Pavlovna Guercken, a Russian émigré from a mycophilic culture. While walking in the forest, Valentina enthusiastically picked and prepared wild mushrooms. Wasson, initially horrified at the idea of eating wild fungi, was converted by the experience.
-
-This personal encounter inspired a lifelong research project that would take Wasson across multiple continents and into the heart of indigenous mushroom traditions.
-
-***
-
-## Key Publications
-
-### "Mushrooms, Russia, and History" (1957)
-
-Wasson's magnum opus, co-authored with Valentina, established the mycophobia-mycophilia framework. The two-volume work combined:
-- Personal memoir of their mycological journey
-- Extensive cross-cultural analysis
-- Historical documentation of mushroom attitudes across civilizations
-- Beautiful botanical illustrations
-
-### "The Divine Mushroom of Immortality" (1973)
-
-Wasson's later work connected the mycophilia-mycophobia theory to religious history, arguing that the Soma of the Rig Veda was in fact the fly-agaric mushroom ([[allegro-colour-and-consistency-of-the-amanita-muscaria]]). This controversial thesis linked mushroom use to some of the earliest religious traditions in human history.
+Source: [[allegro-colour-and-consistency-of-the-amanita-muscaria]]). This controversial thesis linked mushroom use to some of the earliest religious traditions in human history.
 
 ***
 
@@ -95,8 +45,7 @@ Mycophilic cultures have rich positive folklore about mushrooms:
 
 Mycophobic folklore is predominantly cautionary:
 - Poisoning stories
-- Association with witches and evil (see [[witches-fungi-and-flying-ointments]])
-- Fairy rings as dangerous or malevolent (see [[fairy-rings-folklore-and-science]])
+- Association with witches and evil (see [[fairy-rings-folklore-and-science]])
 - The toad as a symbol of poison
 
 ***
@@ -136,15 +85,9 @@ Despite its limitations, Wasson's theory remains one of the most influential fra
 - Modern foraging revival movements in mycophobic cultures
 
 ***
-
 ## Related
 
-- [[wasson-mycophobia-mycophilia-theory-critique]] Topics
-
 - [[mushroom-foraging-traditions-europe]]
-- [[aztec-mushroom-feasts-and-revelations]]
 - [[soma-controversy-fly-agaric-as-divine-mushroom]]
-- [[european-mushroom-poisoning-history]]
 - [[fairy-rings-folklore-and-science]]
-- [[witches-fungi-and-flying-ointments]]
 - [[mushroom-symbolism-western-art]]

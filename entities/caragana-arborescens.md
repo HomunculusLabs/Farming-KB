@@ -3,14 +3,14 @@ title: "Caragana Arborescens"
 created: 2026-05-02
 updated: 2026-05-02
 type: entity
-tags: [permaculture, species]
+tags: [[permaculture, species]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: "Caragana arborescens"
 type: species
-    tags: [permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
+    tags: [[permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -23,8 +23,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 ## Overview
 
 **Caragana arborescens** is a deciduous, nitrogen-fixing shrub or small tree in the family Fabaceae, native to Siberia, Mongolia, and northern China.
-It is one of the hardiest and most versatile woody legumes in temperate [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]], valued for its exceptional cold tolerance, windbreak performance, edible pods and seeds, nitrogen fixation, and drought resilience.
-Widely planted across the northern hemisphere for shelterbelts, [[mollison-designers-vetiver-grass-for-erosion-control]], and as a fodder crop.
+It is one of the hardiest and most versatile woody legumes in temperate [[mollison-designers-vetiver-grass-for-erosion-control]], and as a fodder crop.
 
 ## Botanical Description
 
@@ -75,37 +74,7 @@ It tolerates severe wind exposure, ice loading, and heavy snow accumulation.
 It is a standard component of prairie shelterbelt systems across the Canadian Prairies and northern US states.
 
 ### Nitrogen-Fixing Canopy Support
-In [[mollison-designers-climate-zone-2-orchard-food-forest]] systems, caragana serves as a nitrogen-fixing overstory or middle canopy element, feeding understory fruit and nut crops.
-Its dappled shade is compatible with berry bushes and shade-tolerant perennials.
-
-### Erosion Control
-The extensive, deep root system stabilizes slopes, roadcuts, and degraded soils.
-It is planted on mine spoils, gully walls, and sand dunes for reclamation.
-
-### Hedgerow and Barrier
-The thorny branches and dense growth form effective livestock barriers, privacy screens, and wildlife corridors.
-Caragana tolerates shearing and can be maintained as a formal hedge at 1.5 to 2 meters.
-
-### Bee Forage
-The abundant yellow flowers are a major nectar and pollen source for honey bees and bumblebees in early summer, producing a light, mild-flavored honey.
-
-## Cultivation
-
-Propagation is straightforward from seed after scarification and cold stratification for 30 to 60 days.
-Direct seeding in early spring is successful on prepared sites. Hardwood cuttings root at 50 to 70 percent under mist.
-Transplants establish rapidly with a 60 to 80 percent survival rate. Plant spacing is 1.5 to 3 meters within rows.
-Growth is rapid, reaching 1 to 2 meters in the first three years.
-Caragana responds well to coppicing and can be cut back hard to rejuvenate aging plants.
-
-## Longevity and Management
-
-Individual plants live 40 to 60 years in favorable conditions.
-Productivity declines after 25 to 30 years but can be extended through periodic coppicing at 10 to 15 year intervals.
-Caragana can become weedy in disturbed grasslands through seed dispersal and root suckering, though it is less aggressive than many other nitrogen-fixing shrubs.
-
-## Companion Planting and Polyculture Integration
-
-Siberian peashrub serves as an effective nitrogen-fixing nurse tree for establishing fruit and nut food [[mollison-designers-temperate-zone-food-forest-design]], it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
+In [[mollison-designers-temperate-zone-food-forest-design]], it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
 Compatible companions include apple, plum, cherry, and hazelnut as the eventual main canopy, with currants, gooseberries, and herbs in the understory.
 Caragana is also combined with sea buckthorn and autumn olive in multi-species windbreaks for enhanced biodiversity and resilience.
 Its early leaf emergence in spring and late leaf retention in autumn extend the period of photosynthesis and nitrogen contribution.
@@ -146,5 +115,4 @@ The genus name derives from the Mongolian word caragan meaning black.
 Russian settlers in Siberia relied on caragana pods as a protein supplement during long winters.
 It was introduced to North America by Eurasian immigrants in the 18th century and adopted by prairie agricultural agencies in the 20th century as the primary shelterbelt species for the Great Plains.
 The Prairie Farm Rehabilitation Administration planted millions of caragana seedlings across the Canadian Prairies from the 1930s through the 1970s.
-
 ## See Also

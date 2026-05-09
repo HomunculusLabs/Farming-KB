@@ -72,15 +72,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[ectomycorrhizal-fungi]]
 - [[ectomycorrhizal-associations]]
-- [[mycorrhizal-fungi]]
 - [[spore-print]]
 
 ## See Also
 
-- [[russula-emetica]]
 - [[suillus-luteus]]
-- [[laccaria-laccata]]
 - [[pisolithus-tinctorius]]
-- [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]

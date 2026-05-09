@@ -107,7 +107,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Dosage**: 2-4 g dried chaga/day in tea; 500-1500 mg dual extract/day
 - **Cultivation**: Cannot be reliably cultivated for fruiting body. Mycelial cultivation possible but traditional chaga is a sterile conk (sclerotium) that grows on living birch trees for 10-20 years. Most commercial products are wild-harvested.
 - **Sourcing**: Wild harvested from birch forests (Siberia, Canada, northern US, Scandinavia). Quality varies widely. Look for betulin content and third-party testing for heavy metals. Overharvesting is a conservation concern.
-- **Cautions**: High oxalate content -- may contribute to kidney stones with heavy use. Contains compounds that may interact with blood thinners. Avoid in pregnancy (traditional contraindication). Potential for contamination with heavy metals from polluted environments.
+- **Cautions**: High oxalate content -- may contribute to kidney stones with heavy use. Contains compounds that may interact with blood thinners. Avoid in pregnancy (traditional禁忌). Potential for contamination with heavy metals from polluted environments.
 
 ### [[medicinal-mushroom-guide-agaricus-blazei|Agaricus blazei]] (Agaricus subrufescens)
 
@@ -148,3 +148,51 @@ Medicinal mushrooms work primarily through immunomodulation rather than direct c
 - Mechanism: Activates cytotoxic T-cells and NK cells; induces cytokine production; enhances dendritic cell maturation
 - Dose: 3 g/day standardized PSK (oral)
 - Also shows antiviral activity against HPV, HIV, and hepatitis
+
+### Reishi (Ganoderma lucidum)
+- Ganoderic acids induce apoptosis and inhibit metastasis in vitro and in animal models
+- Inhibits tumor-induced angiogenesis via suppression of VEGF
+- Clinical evidence emerging but less robust than PSK
+- Used extensively in traditional Chinese medicine for "fu zheng" (restoring normal body function)
+- Ganodermanontriol and lucidenic acids show direct cytotoxic effects on cancer cell lines
+
+### Safety Profile
+- Remarkably few adverse reactions in Phase I clinical trials
+- No reports of short-term or long-term toxicity from purified mushroom polysaccharides used clinically
+- However, immunostimulatory effects could theoretically interfere with certain immunotherapies — consult oncologist
+
+### Key Insight from Cancer Research Commission
+"The ability of mushroom-derived polysaccharides when taken prior to and during radiotherapy and/or chemotherapy to significantly reduce the side-effects of these treatments" is perhaps the most encouraging observation. Mushrooms improve quality of life and survival while reducing the debilitating effects of conventional treatment.
+
+## Preparation Methods Summary
+
+| Method | Best For | Notes |
+|--------|----------|-------|
+| Hot water decoction | Beta-glucans, water-soluble polysaccharides | Simmer 30-120 min. Standard for PSK/PSP |
+| Ethanol tincture | Triterpenes, sterols, terpenoids | Essential for reishi triterpenes |
+| Dual extraction | Full-spectrum products | Water + ethanol, combined |
+| Capsules (powder) | General wellness | Limited bioavailability without extraction |
+| Food/culinary | Daily maintenance | Shiitake, maitake, lion's mane are excellent food |
+| Fermented products | Gut health synergy | Kombucha, tempeh-style products |
+
+## Sourcing Quality
+
+- Look for: beta-glucan content on label, third-party testing (heavy metals, pesticides), fruiting body vs mycelium specification, extraction method
+- Fruiting body extracts generally preferred for most species (higher beta-glucan concentration in mature fruiting bodies)
+- Mycelium-on-grain products: ensure starch content is subtracted from total polysaccharide claims
+- Organic certification preferred -- mushrooms bioaccumulate environmental contaminants
+- Avoid products with fillers or unlisted ingredients
+
+## See Also
+
+- [[medicinal-mushroom-guide-meshima]]
+
+- [[andrew-weil]]
+
+- [[mushroom-species-guide]] -- Cultivation parameters, substrate, environmental needs
+- [[herbal-medicine]] -- Integration with plant-based remedies
+- [[fungal-ecology]] -- Ecological roles and decomposition mechanisms
+- [[mycoremediation-basics]] -- Fungal enzyme systems relevant to medicinal applications
+- [[soil-food-web-nutrient-cycling]] — Fungi in the soil trophic web
+
+See also: [[eugenia-bone]] — author of Mycophilia, food and science writer on fungi.

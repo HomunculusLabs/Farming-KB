@@ -24,8 +24,7 @@ The Pacific Islands and Hawaiian Archipelago harbor a remarkable diversity of
 neurotropic fungi despite their geographic isolation. Hawaii in particular
 presents one of the most concentrated assemblages of neurotropic mushroom
 species known from any island chain, with species spanning four genera:
-Copelandia, Panaeolus, Psilocybe, and [[amanita]], plus the ergot
-fungus [[claviceps-paspali]]. This diversity is largely attributable to the
+Copelandia, Panaeolus, Psilocybe, and [[claviceps-paspali]]. This diversity is largely attributable to the
 introduction of livestock and the resulting coprophilous habitats.
 
 ## Hawaiian Neurotropic Mycoflora
@@ -135,9 +134,7 @@ on South Pacific mycogeography.
 
 ## See Also
 
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-- [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 

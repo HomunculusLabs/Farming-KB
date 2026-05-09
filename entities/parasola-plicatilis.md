@@ -101,19 +101,12 @@ The black, deliquescent fluid produced during spore maturation contains melanize
 
 ## See Also
 
-- [[coprinellus-disseminatus]]
 - [[coprinus-atramentaria]]
-- [[coprinus-comatus]]
 - [[pleurotus-ostreatus]]
-- [[agaricus-bisporus]]
 - [[calvatia-gigantea]]
-- [[lycoperdon-perlatum]]
-- [[panaeolus]]
 - [[panaeolus-cambodginiensis]]
-- [[conocybe]]
-- [[coprinopsis]]
-- [[inocybe-geophylla]]
+- conocybe
+- coprinopsis
 - [[lepista-nuda]]
-- [[clitocybe-nuda]]
-- [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]
 - [[stropharia-rugosoannulata]]

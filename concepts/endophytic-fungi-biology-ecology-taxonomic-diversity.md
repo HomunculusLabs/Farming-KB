@@ -3,7 +3,7 @@ title: Endophytic Fungi — Biology, Ecology, and Taxonomic Diversity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -122,11 +122,7 @@ Endophytes likely represent a massive proportion of undescribed fungal diversity
 
 ## See Also
 
-- [[clavicipitaceous-grass-endophytes]]
-- endophytic fungi biology ecology taxonomic diversity
 - [[dna-barcoding-fungal-identification]]
-- [[fungal-culture-media-formulas-applications]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-roles-in-old-growth-forests]]
 - [[endophytic-fungi-diversity-and-ecology]]

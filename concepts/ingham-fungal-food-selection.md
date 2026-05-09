@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-The foods added to compost tea during brewing determine whether bacteria or fungi will dominate the final product. Dr. [[elaine-ingham]] provides a clear hierarchy of food resources based on their molecular complexity and their relative ability to support fungal growth. Understanding this hierarchy allows brewers to deliberately steer the biology of their tea toward bacterial or fungal dominance, depending on the needs of their crop and soil. See also [[aact-brewing-ingredients-ingham]] and [[aact-bacterial-dominant-tea]] vs [[aact-fungal-dominant-tea]].
+The foods added to compost tea during brewing determine whether bacteria or fungi will dominate the final product. Dr. [[aact-brewing-ingredients-ingham]] and [[aact-fungal-dominant-tea]].
 
 ## The Fungal Food Gradient
 
@@ -72,62 +72,7 @@ Ingham consistently recommends humic acids as the premier fungal food for compos
 
 - Long-chain carbon molecules derived from decomposed organic matter
 - Too complex for bacteria to fully utilize
-- Ideal substrate for [[fungal-enzyme-systems]]
-- The food that produced the best fungal growth in David Loring's compost comparison trials
-- Available in liquid form for easy addition to tea
-
-Loring's trials compared four different composts with four different amendments. The best fungal growth occurred "only in the humic acid food additions, not in the algae additions."
-
-### Malt
-
-Malt (malt extract, barley malt) contains more structurally complex sugars than molasses:
-
-- More fungal food per unit than molasses
-- Less likely to cause explosive bacterial growth
-- Supports steady fungal biomass development
-- Useful when moderate fungal-to-bacterial ratio increase is desired
-
-### Fish Hydrolysate
-
-Fish hydrolysate (not fish emulsion, which is processed with heat and acid) provides complex proteins and amino acids:
-
-- Excellent fungal food due to protein complexity
-- Also contains nitrogen, phosphorus, and trace minerals
-- Warning: Ingham cautions that poorly processed fish products can swell and become contaminated during storage
-- Use fresh, properly processed products only
-
-### Soy Sauce
-
-Soy sauce ranks high on Ingham's fungal food gradient because of its complex protein content. However, it is less commonly used in large-scale brewing due to cost and salt content.
-
-### Kelp
-
-Kelp meal or liquid kelp provides complex carbohydrates and minerals:
-
-- Supports both bacterial and fungal growth
-- Contains natural plant growth hormones (cytokinins, auxins)
-- Provides trace minerals including iodine
-- A good all-around food that does not strongly favor either group
-
-## Food Combinations
-
-In practice, most brewers use combinations of foods to achieve the desired biology:
-
-### For Bacterial Tea
-- Primary: Molasses (1 tablespoon per gallon)
-- Optional: Small amount of kelp for mineral supplementation
-- Avoid: Humic acids (they shift balance toward fungi)
-
-### For Fungal Tea
-- Primary: Humic acids
-- Secondary: Malt or fish hydrolysate
-- Minimal or no molasses
-- The key is to reduce or eliminate simple sugars that feed bacteria
-
-### Balanced Tea
-- Moderate amounts of both simple and complex foods
-- Useful when moderate F:B ratio is desired
-- Monitor results with [[ingham-aact-testing-methods]] to verify biology
+- Ideal substrate for [[ingham-aact-testing-methods]] to verify biology
 
 ## Reducing Molasses to Increase Fungi
 

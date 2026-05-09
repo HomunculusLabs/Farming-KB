@@ -1,31 +1,7 @@
 ---
 title: Mushroom Spawn Growth and Cultivation
 created: 2026-04-28
-tags: [mycology, cultivation, spawn, agriculture, fungal-biology]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md
-type: concept
----
-
-# Mushroom Spawn, Growth, and Cultivation
-
-## Overview
-
-The subterranean life of fungi was poorly understood in the 19th century, and Palmer devoted significant attention to describing the nature of mushroom spawn, the process of fungal growth, and the challenges of artificial cultivation. His observations, based on years of careful watching, corrected many popular misconceptions about how mushrooms grow and reproduce.
-
-## The Nature of Spawn
-
-### What Spawn Is
-
-Spawn is the subterranean vegetative part of the fungus, analogous to the vine of a grape plant. The visible mushroom above ground represents only the fruiting body, while the spawn is the persistent living tissue from which new mushrooms arise year after year.
-
-Palmer described observing spawn during earth-moving operations near the Brunswick Hotel in Boston:
-
-> "As the pick of the workman broke up the soil, a white substance ran through every piece. Starting with large branches, it divided and sub-divided like the veins on the back of the hand."
-
-This "white vine" was the spawn of the [[coprinus-comatus-detailed]]. The smell was strong enough to be noticed from across the street.
+tags: [[coprinus-comatus-detailed]]. The smell was strong enough to be noticed from across the street.
 
 ### Microscopic Structure
 
@@ -71,7 +47,7 @@ However, like any crop, mushroom spawn can fail in unfavorable years or even bec
 
 ### Why Only One Species Is Cultivated
 
-The common mushroom ([[agaricus-campestris]] / [[agaricus-arvensis]]) is the only fungal species ever successfully propagated by artificial means. Palmer proposed a plausible explanation: it follows the horse and grows from horse manure. The spores are probably swallowed in large numbers during grazing, and some necessary change for reproduction occurs either in the intestinal canal or in the manure. This explains why old manure heaps eventually generate their own spawn and produce fine mushrooms.
+The common mushroom ([[agaricus-arvensis]]) is the only fungal species ever successfully propagated by artificial means. Palmer proposed a plausible explanation: it follows the horse and grows from horse manure. The spores are probably swallowed in large numbers during grazing, and some necessary change for reproduction occurs either in the intestinal canal or in the manure. This explains why old manure heaps eventually generate their own spawn and produce fine mushrooms.
 
 ### The Cultivation Process
 
@@ -115,6 +91,5 @@ Palmer noted that the celebrated truffle differs from all other mushrooms in tha
 
 ## See Also
 
-- [[mushroom-cultivation-basics-spawn-biology-palmer]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-compost-spawn]]

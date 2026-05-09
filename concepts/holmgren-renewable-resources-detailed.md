@@ -3,62 +3,9 @@ title: Holmgren Use and Value Renewable Resources - Detailed
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Principle 5: Use and Value Renewable Resources and Services (Detailed Analysis)
-From "Permaculture: Principles and Pathways Beyond Sustainability" by David
-Holmgren.
-## Core Definition
-Renewable resources are those which are renewed and replaced by natural processes
-over reasonable periods without the need for major non-renewable inputs.
-Renewable resources should be seen as our sources of income, while non-renewable
-resources can be thought of as capital assets. Spending our capital assets for
-day-to-day living is unsustainable in anyone's language.
-Renewable services (or passive functions) are those we gain from plants, animals
-and living soil and water without them being consumed. For example, when we use a
-tree for wood we are using a renewable resource, but when we use a tree for
-shade and shelter, we gain benefits from the living tree that are non-consuming
-and require no harvesting energy.
-## Criteria for Using Renewable Resources
-To develop a deeper sense of appropriate use of renewable energies and resources,
-we need to understand both the broad patterns and specific requirements so that
-we:
-- Make the best of what renewable resources can offer
-- Ensure use is within the renewable limits of the resource
-The industrial mindset where resources are used in gross and standardised ways
-must be replaced by a great diversity of resources, each contributing in
-different ways.
-## Resource Replacement Time and Product Half-Life
-To decide whether use of a renewable resource is reasonable, it is helpful to
-ask: "Will the function or product which the resource is being used for last at
-least as long as it took nature to generate the resource?"
-It is appropriate to make relatively ephemeral daily use of the sun, tides,
-water and wind because they are daily or seasonally renewable. On the other
-hand, the use of timber from trees is more problematic because of the time they
-take to grow. Paper products have a half-life of maybe a few years, but the
-trees may have taken decades or even hundreds of years to grow.
-## Multiple Products from Every Resource
-We should be suspicious of any use that achieves 100% conversion to a single
-product because this probably represents a devaluing of many of the potential uses
-for the natural resource. By-products with varying degrees of value are the
-inevitable outcome of any sensible use of a natural resource.
-## Investment of Non-Renewable Energies
-Modern agriculture has been transformed from our prime means of harvesting
-renewable resources to one of our largest consumers of non-renewable resources.
-While teaching Permaculture in Israel, I suggested that a glass of milk in
-Australia was perhaps 20% oil, while in Europe the figure was perhaps 50%; and
-that from what I had seen of Israeli dairy farming, 80% of a glass of milk must
-be oil.
-EMERGY evaluations show the inputs for good-quality tidal and hydropower sites
-are very low because the landscape-forming processes have already created most of
-the infrastructure needed. In the case of biomass from forest waste or thinnings,
-the photosynthesis and the natural processes of the forest have already done
-most of the work.
-[[permaculture-design-principles]] |
-[[permaculture-principles]] | [[holmgren-catch-and-store-energy-detailed]] |
-[[energy-descent-action-planning]] | [[permaculture-water-harvesting-earthworks]]
+tags: [[permaculture-farm-design-principles]] |
+[[holmgren-catch-and-store-energy-detailed]] |
+[[permaculture-earthworks-and-water-harvesting]]
 ## Renewable Services in Permaculture Design
 A key distinction in Holmgren's framework is between renewable resources (which
 are consumed when used) and renewable services (which provide ongoing benefits
@@ -110,39 +57,31 @@ Water is perhaps the most important renewable resource in any permaculture
 design, and Holmgren's principle applies to it with particular urgency. Rainwater
 falling on a site is a daily or seasonally renewable resource that should be
 captured, stored, and used as close to where it falls as possible, following the
-principle of [[catch-and-store-energy-permaculture-principle]]. Every
-time water is pumped from deep aquifers, transported long distances through
-pipes, or treated with energy-intensive processes, non-renewable energy is being
-spent to deliver what nature provides freely. Swales, ponds, rain gardens, and
-cisterns harvest water using gravity and landscape contour rather than pumps and
-pipes. Greywater recycling systems return water from household use to the
-landscape through biological filtration rather than energy-intensive treatment
-plants. The renewable service of a healthy landscape — its capacity to absorb,
-filter, store, and gradually release water — is far more valuable than any
-engineered water infrastructure, and it improves over time as soil organic matter
-increases and vegetation matures.
-## Renewable Resources and Economic Resilience
-Holmgren's principle has direct economic implications. Households and communities
-that rely primarily on renewable resources and services are less vulnerable to
-supply chain disruptions, price volatility, and resource depletion than those
-dependent on non-renewable inputs. A household that grows its own food using
-compost from its own waste, irrigates with harvested rainwater, heats with
-fuelwood from its own woodlot, and generates electricity with solar panels has
-replaced monetary expenditures with biological and physical systems that are
-largely independent of fossil energy and global markets. This is the economic
-logic behind [[permaculture-retrofit-suburbia]]:
+principle of [[permaculture-retrofit-suburbia]]:
 converting energy-consuming, import-dependent suburban properties into
 productive, self-reliant households that derive most of their needs from on-site
 renewable resources and services. The transition from non-renewable to renewable
 resource use is not merely an environmental imperative but an economic strategy
 for building resilience against the
-[[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] that Holmgren anticipates.
-## See Also
-- [[holmgren-produce-no-waste-detailed]]
-Related topics: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]],
-[[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]],
-[[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]],
-[[permaculture-energy-descent-planning]], [[permaculture-pattern-language]],
-[[permaculture-design]], [[permaculture-site-analysis]],
-[[permaculture-zone-planning]], [[permaculture-design-principles]],
-[[permaculture-design-principles]], [[permaculture-principle-produce-no-waste]]
+[[holmgren-produce-no-waste-detailed]]
+Related topics: [[permaculture-earthworks-and-water-harvesting]],
+[[permaculture-design]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-energy-descent-planning]], [[permaculture-design]], [[permaculture-zone-planning]], [[permaculture-farm-design-principles]], [[permaculture-principle-produce-no-waste]]
+## Practical Considerations
+
+Successful implementation of Holmgren Use and Value Renewable Resources - Detailed requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

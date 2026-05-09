@@ -5,18 +5,7 @@ updated: 2026-04-24
 sources: "james-arthur, mushrooms-and-mankind"
 wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-christmas-tree-amanita-muscaria arthur-mushrooms-hinduism-buddhism arthur-phallic-symbolism-mushrooms"
 type: concept
-tags: [mushroom-cultivation]
----
-
-# Mushroom Iconography in Medieval European Art
-
-## The Paradise Tree and German Medieval Tradition
-
-During Germany's Middle Ages, a popular play symbolic of the paradise story was
-staged on December 24th, the religious feast day of Adam and Eve. Central to
-this tradition was "The Paradise tree," a fir tree decorated with apples
-representing the fruit of the Tree of Knowledge in the Garden of Eden. As James
-Arthur demonstrates, this "fruit" is the [[amanita-muscaria]] mushroom. Two more
+tags: [[amanita-muscaria-entity]] mushroom. Two more
 symbolic connections with the mushroom were the candles and cookies also hung on
 the tree, where candles represent Christ and cookies represent the wafers of
 the Christian sacrament.
@@ -128,11 +117,7 @@ the original entheogenic meaning.
 
 ## See Also
 
-- [[arthur-mushrooms-sumerian-egyptian-art]] - Mushroom symbolism in Sumerian
-  and Egyptian art, the source traditions
 - [[arthur-christmas-tree-amanita-muscaria]] - The Christmas tree and Amanita
   muscaria connection
-- [[arthur-mushrooms-hinduism-buddhism]] - Eastern mushroom symbolism that
-  shares these iconographic roots
 - [[arthur-phallic-symbolism-mushrooms]] - The phallic dimension of mushroom
   symbolism in ancient religions

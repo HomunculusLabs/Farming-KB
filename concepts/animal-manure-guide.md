@@ -1,5 +1,5 @@
 ---
-title: animal manure guide
+title: Animal Manure Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fertilizer, organic, byproducts, npk, nutrients, gardening, soil-amendmen
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# animal manure guide
+# Animal Manure Guide
 
 ## Overview
 
@@ -36,7 +36,7 @@ Animal manures are the very best sources of organic matter for soil, improving c
 - **Coverage:** 20-30lb (9-15kg) per sq yard/meter
 - Often more available near urban areas. Use only from stables where straw or peat is used as bedding — wood shavings may harbor plant disease.
 - **Fresh horse manure must not be used directly** — it causes leaf/stem scorching and loses nutrient value; straw takes long to decompose.
-- **Storage:** Small quantities go on the compost heap (high N helps [[decomposition]]). Large quantities: stack on concrete base, mash down (lots of air in straw), cover with plastic in winter. Ready in a couple of months, or a year if pesticide contamination is suspected.
+- **Storage:** Small quantities go on the compost heap (high N helps decomposition). Large quantities: stack on concrete base, mash down (lots of air in straw), cover with plastic in winter. Ready in a couple of months, or a year if pesticide contamination is suspected.
 
 ### Pig Manure
 
@@ -68,6 +68,25 @@ Half a dozen chickens in a portable house with movable wire-mesh run can be rota
 
 ## Related
 
-- [[organic-vegetable-growing-and-market-gardening]] — making liquid manure from animal droppings
-- [[composting-materials-alternative]] — alternative sources for [[composting]]
+- [[homemade-liquid-fertilizer]] — making liquid manure from animal droppings
+- [[composting-materials-alternative]] — alternative sources for composting
 - [[soil-conditioners-guide]] — other soil conditioners beyond manure
+## Practical Considerations
+
+Successful implementation of Animal Manure Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

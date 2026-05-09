@@ -105,17 +105,11 @@ The global market for clary sage essential oil has grown steadily, driven by dem
 
 ## See Also
 
-- [[salvia-officinalis]]
-- [[rosmarinus-officinalis]]
-- [[lavandula-angustifolia]]
-- [[thymus-vulgaris]]
-- [[origanum-vulgare]]
+- [[rosmarinus-officinalis-entity]]
+- [[thymus-vulgaris-entity]]
 - [[marrubium-vulgare]]
-- [[satureja-hortensis]]
 - [[ocimum-basilicum]]
-- [[hyssopus-officinalis]]
 - [[agastache-foeniculum]]
-- [[perilla-frutescens]]
-- [[leonurus-cardiaca]]
+- [[leonurus-cardiaca-entity]]
 - [[melissa-officinalis]]
-- [[ethnobotany]]
+- ethnobotany

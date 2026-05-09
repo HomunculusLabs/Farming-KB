@@ -114,12 +114,8 @@ Key identification features for G. spectabilis: large size (cap >8 cm), bright o
 
 ## See Also
 
-- [[psilocybe-cubensis]]
 - [[psilocybe-cyanescens]]
-- [[psilocybe-azurescens]]
 - [[psilocybe-subaeruginosa]]
-- [[psilocybe-semilanceata]]
-- [[panaeolus-cyanescens]]
-- [[pluteus-salicinus]]
+- [[panaeolus-cyanescens-entity]]
 - [[gymnopilus-junonius]]
-- [[psilocybin-compound]]
+- [[psilocybin]]

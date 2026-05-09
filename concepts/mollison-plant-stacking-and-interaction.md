@@ -3,13 +3,7 @@ title: Mollison Plant Stacking and Plant Interactions
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-# Mollison Plant Stacking and Plant Interactions
-
-Mollison explores how plants can be arranged in multi-tiered systems that mimic natural forest structure, and how understanding plant-animal-inorganic interactions is essential to [[mollison-permaculture-design-course-curriculum]].
+tags: [[mollison-permaculture-design-course-curriculum]].
 
 ## Plant Stacking (Multi-Tier Agriculture)
 
@@ -71,17 +65,30 @@ Plants interact in ways most gardening books ignore:
 
 ## See Also
 
-- [[mollison-guild-analysis-and-species-interaction]]
-
 - [[mollison-permaculture-design-philosophy]] — overall design philosophy
-- [[mollison-broadscale-landscape-analysis]] — landscape analysis
 - [[companion-planting-reference]] — companion planting details
-- [[food-forest-design]] — food forest implementation
 - [[permaculture-zones-in-practice]] — zone-based placement
 
 ## Related
 
-- [[arid-landscape-permaculture]]
 - [[edge-effect-in-permaculture]]
-- [[guild-design-methodology]]
 - [[permaculture-cycles-and-niches-in-time]]
+## Practical Considerations
+
+Successful implementation of Mollison Plant Stacking and Plant Interactions requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

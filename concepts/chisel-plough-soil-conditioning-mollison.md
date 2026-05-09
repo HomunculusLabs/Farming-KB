@@ -3,7 +3,7 @@ title: Chisel Plough and Soil Conditioning (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, soil, no-till]
+tags: [[permaculture, design, soil, no-till]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -102,13 +102,8 @@ Any reduction in cultivation saves energy and soils, and wherever no-tillage sys
 
 ## See Also
 
-- [[soil-conditioning-chisel-plow-biological-methods]]
-
 - [[earthmoving-tools-permaculture-mollison]]
-- [[keyline-design-water-management]]
 - [[keyline-design]]
-- [[acid-and-alkaline-soil-management]]
 - [[nitrogen-fixing-trees]]
-- [[urban-permaculture-nitrogen-fixing-green-manures]]
 - [[permaculture-designers-manual-water-quality]]
 - [[mollison-keyline-soil-conditioning-humid-water]]

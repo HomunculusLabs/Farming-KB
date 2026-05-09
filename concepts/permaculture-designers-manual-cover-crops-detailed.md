@@ -3,19 +3,7 @@ title: Cover Crops and Green Manures
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Cover Crops and Green Manures
-# Permaculture Designers Manual - Soil Protection and Fertility Building
-
-updated: 2026-04-18
-
-## Overview
-
-Cover crops and green manures are fundamental tools in the permaculture approach to soil management. They serve multiple functions simultaneously: protecting soil from erosion, building organic matter, fixing atmospheric nitrogen, suppressing weeds, and providing mulch material for other crops. The Designers Manual integrates cover crops and green manures into broader strategies for [[permaculture-designers-manual-charcoal-production]], [[permaculture-designers-manual-rabbit-housing]], and [[permaculture-designers-manual-cropping-patterns]].
+tags: [[permaculture-designers-manual-charcoal-production]], [[permaculture-designers-manual-cropping-patterns]].
 
 ## Functions of Cover Crops
 
@@ -140,6 +128,4 @@ Cover crops can also be food producers:
 - Assomada project, Cape Verde - pioneer legume reclamation
 
 ## Merged: Permaculture Designers Manual Alley Cropping
-> From: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 5, 6, 9, 10 Alley cropping and agroforestry systems interplant trees with crops or pastures to create productive, multi-layered systems. Mollison presents these as fundamental permaculture strategies for increasing yield, conserving soil, and reducing maintenance. - [[permaculture-designers-manual-windbreak-species]] for hedgerow selection. - [[permaculture-designers-manual-rabbit-housing]] for nitrogen-fixing intercrop. - [[permaculture-designers-manual-grazing-management]] for integrated animal systems. Related: [[permaculture-designers-manual-food-forest-guilds]], Tree crops, [[permaculture-designers-manual-mulch-systems]], Cover crops
-## Merged: Permaculture Designers Manual Tree Crops
-Chapter 6 of the Designers' Manual (Trees and Their Energy Transactions) establishes the theoretical foundation for tree crops, while Chapter 12 (Section 12.9 Orchards, 12.10 Farm Forestry) provides practical guidance for temperate tree crop systems. Trees are, for the earth, the ultimate translators and moderators of incoming energy. - [[permaculture-food-forest-design-principles]] - [[permaculture-designers-manual-bamboo]] - [[comfrey-multifunctional-guild-plant]] - [[permaculture-designers-manual-tropical-climates]] - [[permaculture-designers-manual-temperate-climate-design]] - [[permaculture-designers-manual-oil-seeds]] Bill Mollison, Permaculture: A Designers' Manual, Tagari Publications, 1988. At the crown of the forest, the vast energies of sunlight, wind, and precipitation are being modified for life and growth.
+> From: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapters 5, 6, 9, 10 Alley cropping and agroforestry systems interplant trees with crops or pastures to create productive, multi-layered systems. Mollison presents these as fundamental permaculture strategies for increasing yield, conserving soil, and reducing maintenance. - [[permaculture-designers-manual-rabbit-housing]] for nitrogen-fixing intercrop. - [[permaculture-designers-manual-food-forest-guilds]], Tree crops, [[permaculture-food-forest-design-principles]] - [[comfrey-multifunctional-guild-plant]] - [[permaculture-designers-manual-temperate-climate-design]] - [[permaculture-designers-manual-oil-seeds]] Bill Mollison, Permaculture: A Designers' Manual, Tagari Publications, 1988. At the crown of the forest, the vast energies of sunlight, wind, and precipitation are being modified for life and growth.

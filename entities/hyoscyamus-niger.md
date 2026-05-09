@@ -14,29 +14,7 @@ sources:
 **Henbane** is a biennial or annual plant in the nightshade family (Solanaceae),
 native to Europe, northern Africa, and western and central Asia. It is one of
 approximately 20 species in the genus *Hyoscyamus*. Henbane has a long and
-notorious history as a hallucinogenic and toxic plant, deeply embedded [[mandrake-mandragora-officinarum-in-european-folklore]] and the mythology of medieval witchcraft.
-
-## Botanical Description
-
-Henbane is an herbaceous plant growing 30 to 100 cm tall in its second year.
-The plant is covered with sticky, glandular hairs that exude a characteristic
-fetid, somewhat narcotic odor. The leaves are large, elliptical to ovate,
-irregularly toothed or pinnately lobed, and arranged alternately along the
-stem. The basal rosette of leaves forms in the first year of growth, with the
-flowering stem bolting in the second year (in biennial forms).
-
-The flowers are produced in one-sided, leafy spikes. Individual flowers are
-funnel-shaped, 2 to 3 cm long, with a greenish-yellow corolla marked by
-conspicuous purple veins and a dark purple throat. The calyx is tubular and
-persists and enlarges around the fruit. The fruit is a pyxidium (a capsule
-that opens by a lid) containing numerous small, grayish-brown to brown seeds,
-each roughly 1 to 1.5 mm in length.
-
-## Distribution and Habitat
-
-*Hyoscyamus niger* is widely distributed across Europe, the Mediterranean
-region, North Africa, and temperate regions of Asia including the Middle
-East, Central Asia, and Siberia. It has been introduced and naturalized [[neurotropic-fungi-in-north-america]], Australia, and other temperate regions. The plant grows
+notorious history as a hallucinogenic and toxic plant, deeply embedded [[neurotropic-fungi-in-north-america]], Australia, and other temperate regions. The plant grows
 readily in disturbed soils, waste ground, along roadsides and railway
 embankments, near cultivated fields, and in rubble and debris. It prefers
 well-drained, nitrogen-rich soils and full sun but tolerates partial shade.
@@ -73,9 +51,9 @@ seeds and leaves, with lower concentrations in stems and roots.
 ## Historical and Ethnobotanical Uses
 
 Henbane was one of the most frequently included plants in the so-called
-witches' brews [[witches-fungi-and-flying-ointments]] of [[arthur-mushroom-iconography-medieval-europe]]. These preparations
+witches' brews [[arthur-mushroom-iconography-medieval-europe]]. These preparations
 combined henbane with other Solanaceae species such as Atropa
-belladonna, [[mandragora-officinarum]], and [[datura-stramonium]] to
+belladonna, [[datura-stramonium]] to
 produce complex mixtures reported to induce visual hallucinations and the
 sensation of flight. The ointments were typically applied topically to the
 skin, mucous membranes, or under the arms, allowing the fat-soluble tropane
@@ -106,45 +84,5 @@ relating to its use in folk rituals.
 The association of henbane with witchcraft is one of its most prominent
 cultural attributes. Along with belladonna, mandrake, and datura, henbane was
 considered one of the primary ingredients in the pharmacological basis of
-[[solanaceous-hallucinogens-of-medieval-european-witchcraft]]. Modern scholars, most notably Michael D. Harner and
-subsequent researchers, have proposed that the experiences attributed to
-witches — flying through the air, attending sabbaths, transforming into
-animals, and communicating with spirits — can be largely explained by the
-effects of tropane alkaloid-containing plants applied as ointments. The
-specific sensations of floating, the vivid visual hallucinations, and the
-state of dissociative delirium produced by scopolamine and hyoscyamine closely
-parallel the descriptions recorded in witch trial testimony.
-
-The German folk name *Bilsenkraut* is cognate with the name of the Norse
-god Baldr, suggesting an even older association with pre-Christian Germanic
-mythology. Some scholars have proposed that henbane may have been used in
-Norse ceremonial or shamanic contexts, though direct evidence for this is
-limited.
-
-## Toxicology
-
-All parts of the plant are toxic. The seeds represent the highest risk of
-accidental poisoning because they contain the highest alkaloid concentration
-and may be inadvertently consumed when present in grain or feed. Symptoms of
-henbane poisoning appear within 30 minutes to several hours of ingestion and
-include dilated pupils, blurred vision, photophobia, dry mouth and throat,
-difficulty swallowing, hoarseness, tachycardia, palpitations, flushed skin,
-hyperthermia, urinary retention, constipation, agitation, confusion,
-incoherent speech, visual hallucinations, and delirium. Severe poisoning can
-progress to coma, seizures, respiratory depression, and death. The
-combination of hallucinations and delirium frequently leads to dangerous and
-accidental self-injury. A classic mnemonic for anticholinergic poisoning is
-"blind as a bat, mad as a hatter, red as a beet, hot as a hare, dry as a
-bone, the bowel and bladder lose their tone."
-
-Treatment of henbane poisoning is primarily supportive, with intravenous
-physostigmine (a cholinesterase inhibitor) used as a specific antidote in
-severe cases to reverse the anticholinergic effects by increasing synaptic
-acetylcholine levels.
-
-## Modern Pharmaceutical Use
-
-## See Also
-
-- [[henbane-hyoscyamus-niger-ethnobotany]]
+[[henbane-hyoscyamus-niger-ethnobotany]]
 - [[atropine]]

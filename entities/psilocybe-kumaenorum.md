@@ -10,11 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Psilocybe kumaenorum
 
-**Psilocybe kumaenorum** is a [[psilocybin-compound]]-containing mushroom species originally described from Papua New Guinea. It represents one of the more obscure psychoactive fungi documented in the broader Australasian and Pacific region, and relatively little has been published about its chemistry, ecology, or traditional use compared to better-known species.
-
-## Taxonomy and Classification
-
-*Psilocybe kumaenorum* was described from specimens collected in Papua New Guinea. The species epithet derives from the Kuma people, an indigenous group from the Highland region of Papua New Guinea, reflecting the ethnomycological context of its discovery. It belongs to the family Hymenogastraceae, order Agaricales. The species was documented as part of mycological surveys conducted in the Pacific Islands and Melanesia, where researchers including [[john-w-allen]] catalogued the psychoactive mushroom flora of the region. The species has not been included in recent molecular phylogenetic studies of the genus Psilocybe, meaning its placement within the broader phylogeny remains uncertain. It may belong to the same clade as other tropical and subtropical species like *P. cubensis* and *P. subcubensis*, but molecular confirmation is needed.
+**Psilocybe kumaenorum** is a [[john-w-allen]] catalogued the psychoactive mushroom flora of the region. The species has not been included in recent molecular phylogenetic studies of the genus Psilocybe, meaning its placement within the broader phylogeny remains uncertain. It may belong to the same clade as other tropical and subtropical species like *P. cubensis* and *P. subcubensis*, but molecular confirmation is needed.
 
 ## Morphology
 
@@ -26,19 +22,14 @@ Spores are ellipsoid to sub-ellipsoid, with a dark purplish-brown spore print. T
 
 ## Chemistry
 
-The species is reported to contain [[psilocybin-compound]] and likely [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic bluing reaction observed in collected specimens. However, detailed quantitative analytical data remain limited in the published scientific literature. The bluing reaction is caused by the enzymatic oxidation of psilocin, mediated by laccase enzymes, producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
+The species is reported to contain [[psilocin]], based on its classification within the psychoactive Psilocybe group and the characteristic bluing reaction observed in collected specimens. However, detailed quantitative analytical data remain limited in the published scientific literature. The bluing reaction is caused by the enzymatic oxidation of psilocin, mediated by laccase enzymes, producing blue-colored quinone polymers. This reaction is shared by virtually all psychoactive Psilocybe species and serves as the primary field indicator of psychoactive alkaloid content.
 
 ## Chemical Profile
 
 While no published HPLC or GC-MS data specific to *P. kumaenorum* exists, comparison with better-studied tropical and subtropical Psilocybe species provides context:
-- [[psilocybe-cubensis]] typically contains 0.5–1.2% psilocybin and 0.1–0.6% psilocin per dry weight
 - [[psilocybe-subcubensis]] generally contains lower concentrations, roughly 0.3–0.6% psilocybin
 
-Most analytical work on Pacific psychoactive fungi has focused on more commonly encountered species such as [[copelandia-cyanescens]] and [[psilocybe-cubensis]], leaving species like *P. kumaenorum* relatively understudied from a phytochemical perspective. No published analytical data specific to *P. kumaenorum* appears to exist in the peer-reviewed literature as of 2026. The [[psilocybin-biosynthesis-pathway]] in this species is presumed to be the same conserved pathway found across the genus, involving the enzymes PsiD, PsiK, PsiM, and PsiH.
-
-## Distribution & Habitat
-
-*Psilocybe kumaenorum* is native to Papua New Guinea and possibly other parts of Melanesia. It grows in tropical and subtropical environments, favoring enriched soils, decomposing plant matter, and possibly dung substrates in the humid highland and lowland forests of the region. Papua New Guinea's extraordinarily diverse fungal flora, supported by its tropical climate with high rainfall and extensive rainforest cover, provides ideal conditions for numerous Psilocybe and Copelandia species. The Kuma Highlands region, with its cool montane temperatures and consistent moisture, is particularly suited to psilocybin mushroom fruiting. Other psychoactive species documented from Papua New Guinea and the broader Melanesian region include [[copelandia-cyanescens]], [[psilocybe-cubensis]], and [[psilocybe-subcubensis]]. Fruiting conditions in the Papua New Guinea highlands are favorable year-round due to consistent rainfall, though peak fruiting likely coincides with the wetter months.
+Most analytical work on Pacific psychoactive fungi has focused on more commonly encountered species such as [[psilocybe-cubensis]], leaving species like *P. kumaenorum* relatively understudied from a phytochemical perspective. No published analytical data specific to *P. kumaenorum* appears to exist in the peer-reviewed literature as of 2026. The [[copelandia-cyanescens]], [[psilocybe-subcubensis]]. Fruiting conditions in the Papua New Guinea highlands are favorable year-round due to consistent rainfall, though peak fruiting likely coincides with the wetter months.
 
 ## Ethnomycological Significance
 
@@ -50,7 +41,7 @@ The species was documented as part of mycological surveys conducted in the Pacif
 
 ## Similar Species
 
-Within Papua New Guinea and the broader Pacific region, *P. kumaenorum* may be confused with other small, brown-spored Psilocybe species found in similar habitats. [[psilocybe-cubensis]] is considerably larger and typically grows directly on bovine dung, while *P. kumaenorum* is smaller and associated with soil and plant debris. [[psilocybe-subcubensis]] occupies a similar ecological niche but is better documented and more widely distributed. [[psilocybe-samuiensis]] is another tropical species from Southeast Asia and the Pacific with overlapping morphology. Non-psychoactive lookalikes in the region include numerous inactive Psilocybe, Psathyrella, and Galerina species, underscoring the importance of careful identification. The risk of confusion with [[galerina-marginata]] is a particular safety concern, as Galerina species contain lethal amatoxins and can be found in similar forest and grassland habitats.
+Within Papua New Guinea and the broader Pacific region, *P. kumaenorum* may be confused with other small, brown-spored Psilocybe species found in similar habitats. [[psilocybe-subcubensis]] occupies a similar ecological niche but is better documented and more widely distributed. [[galerina-marginata]] is a particular safety concern, as Galerina species contain lethal amatoxins and can be found in similar forest and grassland habitats.
 
 ## Identification Notes
 
@@ -61,12 +52,7 @@ Field identification of *Psilocybe kumaenorum* is challenging due to its rarity,
 - Dark purplish brown spore print
 - Slender, hollow stipe with smooth to pruinose surface
 
-The bluing reaction is the primary field indicator of psychoactive content, though its intensity can vary depending on the freshness of the specimen and environmental conditions. In the diverse fungal communities of Papua New Guinea's forests, numerous non-psychoactive species share the general appearance of *P. kumaenorum*, making reliance on bluing as the sole identification criterion dangerous. The risk of confusion with [[galerina-marginata]] or other amatoxin-containing species is a particular safety concern. Microscopic examination of spore morphology and cheilocystidia is essential for definitive identification. The species is too rare and poorly documented to be reliably identified by non-specialists.
-## Molecular Phylogeny
-
-The phylogenetic placement of *Psilocybe kumaenorum* within the genus remains unresolved, as the species has not been included in any published molecular phylogenetic study. Based on its geographic origin (Papua New Guinea) and tropical habitat, it may belong to one of several clades within the genus that are predominantly distributed in tropical and subtropical regions. Possible affiliations include:
-- A clade containing other tropical Asian-Pacific species such as [[psilocybe-samuiensis]] and [[psilocybe-cubensis]]
-- The [[psilocybe-subcubensis]] complex, which includes small, dung-associated tropical species
+The bluing reaction is the primary field indicator of psychoactive content, though its intensity can vary depending on the freshness of the specimen and environmental conditions. In the diverse fungal communities of Papua New Guinea's forests, numerous non-psychoactive species share the general appearance of *P. kumaenorum*, making reliance on bluing as the sole identification criterion dangerous. The risk of confusion with [[psilocybe-samuiensis]] and [[psilocybe-subcubensis]] complex, which includes small, dung-associated tropical species
 - A potentially distinct lineage endemic to the Australasian region
 
 DNA barcoding of existing herbarium specimens or fresh collections from Papua New Guinea would help resolve the species' phylogenetic position and assess whether it represents a distinct lineage or falls within the morphological variation of a more widely distributed species. The tropical Pacific mycoflora remains severely undersampled, and molecular studies of this region would likely reveal new species and clarify the relationships of poorly known taxa like *P. kumaenorum*.
@@ -74,7 +60,7 @@ DNA barcoding of existing herbarium specimens or fresh collections from Papua Ne
 
 *Psilocybe kumaenorum* is potentially vulnerable due to the limited documentation of its distribution and the ongoing threats to tropical forest habitats in Papua New Guinea. The country's rainforests are subject to pressure from logging, agricultural expansion, and mining, which could threaten the microhabitats where the species occurs. However, the species' conservation status cannot be formally assessed without additional field data. Key research priorities for this species include:
 - Comprehensive morphological description from fresh material with microscopic illustrations
-- Chemical analysis using HPLC or LC-MS to quantify [[psilocybin-compound]] and [[psilocin]] content
+- Chemical analysis using HPLC or LC-MS to quantify [[psilocin]] content
 - DNA barcoding and phylogenetic analysis using ITS and other genetic markers
 - Field surveys in Papua New Guinea highlands to assess distribution and abundance
 - Ethnopharmacological research with indigenous Kuma communities to document any traditional knowledge
@@ -85,17 +71,10 @@ The extremely limited published information about *P. kumaenorum* makes it one o
 While specific seasonal data for *P. kumaenorum* are not well documented, the tropical climate of Papua New Guinea's highlands provides conditions suitable for fungal fruiting year-round. Peak fruiting likely coincides with the wetter months, when consistent rainfall maintains the high humidity levels necessary for fruiting body development. In the highland regions where the species was originally documented, the climate is cooler and more seasonal than the lowland tropics, with distinct wet and dry seasons that may influence fruiting patterns. The combination of consistent moisture and moderate temperatures in the Papua New Guinea highlands (typically 15–25°C) creates ideal conditions for psilocybin mushroom fruiting throughout much of the year.
 ## See Also
 
-- [[psilocybe-aucklandii]] — psychoactive species from New Zealand
 - [[copelandia-cyanescens]] — widely distributed psychoactive species in the Pacific
-- [[copelandia-cambodginiensis]] — another Pacific Copelandia species
 - [[psilocybe-subcubensis]] — dung-inhabiting tropical and subtropical psychoactive species
-- [[gymnopilus-purpuratus]] — another psychoactive genus found in the Australasian region
 - [[psilocybe-cubensis]] — the most widely distributed tropical psychoactive mushroom
-- [[psilocybe-samuiensis]] — tropical species from Southeast Asia with overlapping range
 - [[john-w-allen]] — researcher who documented psychoactive fungi of the Pacific region
-- [[psilocybe-eucalypta]] — Australian wood-inhabiting psychoactive species
 - [[galerina-marginata]] — deadly lookalike containing amatoxins
-- [[baeocystin]] — secondary alkaloid found in related Psilocybe species
 - [[psilocybin-biosynthesis-pathway]] — genetic basis of psilocybin production
-- [[psilocybin-compound]] — primary psychoactive compound
 - [[psilocin]] — active metabolite

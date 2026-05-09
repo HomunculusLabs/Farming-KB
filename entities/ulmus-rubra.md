@@ -133,18 +133,9 @@ U. rubra has several applications in permaculture and agroforestry systems:
 - **Nitrogen dynamics:** Leaf litter contributes to soil organic matter and nutrient cycling.
 
 The species coppices readily, allowing sustainable bark harvest on a managed rotation. Coppiced trees regenerate bark within 5-10 years, making managed plantations viable for sustainable herbal production.
-
 ## See Also
 
-- [[alnus-rubra]]
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
-- [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
 - [[tihkal-receptor-binding-serotonin]]
-- [[tangerine-dream]]
-
-- ulmus rubra
-- tilia americana
-- althea officinalis
 - [[glycyrrhiza-glabra]]
-- [[plantago-major]]
 - [[aloe-vera]]

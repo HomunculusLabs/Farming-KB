@@ -41,7 +41,7 @@ The permaculture principle is to slow, spread, and sink water on the landscape r
 |--------|----------------|-------|------|------------------------|-------------|---------------------|---------------------|------------------------------|
 | **Swales (on-contour)** | Capture runoff, infiltrate into soil profile | Medium-Large | $0-500 (manual); $500-2000 (machine) | Moderate (requires contour mapping, digging) | Low after establishment; check after heavy rain | Hundreds to thousands of gallons per rain event | Sloped land (3-15%); any soil with infiltration | Food forest berm planting; keyline integration; [[food-forest-design]] |
 | **Rain gardens** | Infiltrate roof/yard runoff in planted depressions | Small | $50-300 | Easy-Moderate | Very Low (weeding, mulch refresh) | Tens to hundreds of gallons per event | Flat to gentle slope; near downspouts or runoff points | Graywater mulch basins; native plantings; [[pollinator-habitat]] |
-| **Keyline plowing** | Distribute water from valleys to ridges; deep soil infiltration | Large | $500-3000 (tractor + keyline plow) | Moderate-High (requires land analysis) | Low (periodic subsoiling every 3-5 years) | Waters entire landscape profile; no ponding | Undulating terrain with primary valleys; 4-12% slopes | Swale systems; tree planting along keylines; [[permaculture-design]] |
+| **Keyline plowing** | Distribute water from valleys to ridges; deep soil infiltration | Large | $500-3000 (tractor + keyline plow) | Moderate-High (requires land analysis) | Low (periodic subsoiling every 3-5 years) | Waters entire landscape profile; no ponding | Undulating terrain with primary valleys; 4-12% slopes | Swale systems; tree planting along keylines; [[permaculture-design-methods]] |
 | **Greywater (branched drain)** | Recycle household wastewater to landscape irrigation | Small-Medium | $100-500 | Moderate (plumbing modifications) | Very Low (top off mulch annually) | 30-80 gallons/day (household) | House with 2%+ slope to landscape; gravity-fed | Food forest irrigation; [[food-forest-design]]; [[graywater-systems]] |
 | **Greywater (mulch basin)** | Treat and infiltrate graywater at point of discharge | Small | $20-100 per basin | Easy | Low (refresh mulch every 2-3 years) | 15-40 gallons per use (surge) | Any landscape area near graywater outlet | Branched drain outlets; fruit tree irrigation; [[graywater-systems]] |
 | **Rainwater tanks** | Capture and store roof runoff for later use | Small-Large | $500-5000+ (tank dominates cost) | Moderate (gutters, plumbing, foundation) | Low-Moderate (screen cleaning, annual tank inspection) | 500-50,000+ gallons (tank dependent) | Any building with roof catchment; elevated for gravity | [[drip-irrigation-guide]]; [[pond-and-aquaculture]]; [[emergency-preparedness]] |
@@ -88,13 +88,10 @@ Start with rainwater harvesting (tanks) and graywater reuse (branched drain to m
 
 ## See Also
 
-- [[comparison-keyline-vs-contour-swale]]
-
 - [[swale-design-construction]] — Contour mapping, sizing, construction, and planting
 - [[graywater-systems]] — System types, soap considerations, mulch basin design
 - [[rainwater-harvesting-systems]] — Catchment calculation, tanks, filtration, distribution
 - [[keyline-design]] — Keypoints, keylines, dam series, cultivation patterns
 - [[drip-irrigation-guide]] — System design, emitter sizing, scheduling
 - [[homestead-water-systems]] — Complete water sourcing, storage, and distribution
-- [[permaculture-design]] — Water management in the broader design process
-- [[query-how-do-i-save-water-in-a-vegetable-garden]]
+- [[permaculture-design-methods]] — Water management in the broader design process

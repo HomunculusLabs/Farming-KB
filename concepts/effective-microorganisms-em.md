@@ -107,4 +107,3 @@ Both approaches work. EM is convenient and consistent; IMO captures local biolog
 - [[jadam-methods]]
 - [[fermented-plant-extract-fpe]]
 - [[knf-vs-jadam-vs-em]] — comparison
-- [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]

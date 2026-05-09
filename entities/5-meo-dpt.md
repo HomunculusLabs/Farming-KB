@@ -111,11 +111,7 @@ Purification is typically achieved through acid-base extraction followed by recr
 
 ## See Also
 
-- [[5-meo-dmt]]
 - [[5-meo-mipt]]
-- [[5-meo-dipt]]
 - [[dmt]]
-- [[dmt-nndmt]]
 - [[psilocin]]
-- [[bufotenin]]
 - [[tryptamine]]

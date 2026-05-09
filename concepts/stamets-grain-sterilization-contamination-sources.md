@@ -136,8 +136,6 @@ avoided because contaminants can be present at the periphery.
 
 ## See Also
 
-- [[stamets-spawn-making-and-grain-culture]]
 - [[stamets-spawning-and-spawn-running]]
-- [[stamets-slant-culture-strain-preservation]]
 - [[stamets-contamination-sources-laboratory-hygiene]]
 - [[mushroom-sterilization-methods]]

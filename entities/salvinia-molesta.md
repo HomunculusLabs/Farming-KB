@@ -101,13 +101,8 @@ The species has been studied as a potential bioindicator of water quality due to
 
 ## See Also
 
-- [[azolla-filiculoides]]
 - [[azolla-caroliniana]]
-- [[lemna-minor]]
 - [[pistia-stratiotes]]
-- [[trapa-natans]]
 - [[nymphaea-alba]]
-- [[nasturtium-officinale]]
 - [[typha-latifolia-entity]]
-- [[phragmites-australis]]
 - [[canna-indica]]

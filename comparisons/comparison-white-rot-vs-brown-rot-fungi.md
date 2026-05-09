@@ -23,36 +23,6 @@ bioremediation applications, forest ecology, and the global carbon cycle.
 
 ## White Rot Fungi
 
-[[white-rot-fungi]]
-
-White rot fungi are the only organisms on Earth capable of completely degrading
-lignin, the tough brown polymer that gives wood its structural rigidity. This
-ability makes them the most powerful natural decomposers of wood and the primary
-agents of mycoremediation. Their name comes from the white appearance of wood
-after they have removed the brown lignin, leaving behind the lighter cellulose
-fibers.
-
-The enzymatic arsenal of white rot fungi is remarkable. They produce lignin
-peroxidases (LiP), manganese peroxidases (MnP), and laccases, extracellular
-enzymes that work together to dismantle lignin's complex three-dimensional
-structure. These same enzymes are capable of oxidizing a wide range of aromatic
-environmental pollutants including polycyclic aromatic hydrocarbons (PAHs),
-polychlorinated biphenyls (PCBs), chlorophenols, dyes, and explosives. This
-cross-reactivity between lignin-degrading enzymes and xenobiotic compounds is
-the foundation of fungal bioremediation. Species like Phanerochaete
-chrysosporium, Trametes versicolor, and Pleurotus ostreatus are widely studied
-for their pollutant-degrading capabilities.
-
-White rot fungi play a critical role in the global carbon cycle by recycling the
-enormous carbon reservoir stored in lignin. Without white rot fungi, lignin
-would accumulate indefinitely, and nutrient cycling in forest ecosystems would
-slow dramatically. However, their ligninolytic enzyme system is oxygen-
-dependent, which limits their activity to aerobic environments. They require
-careful moisture and temperature management in controlled bioremediation
-applications.
-
-## Brown Rot Fungi
-
 [[staycare-brown-rot-fungi-in-bioremediation]]
 
 Brown rot fungi primarily degrade cellulose and hemicellulose while only
@@ -129,11 +99,7 @@ either approach alone.
 
 ## See Also
 
-- [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]]
-
 - [[comparison-white-rot-fungi-vs-trichoderma]]
 
-- [[white-rot-fungi-bioremediation]]
 - [[staycare-brown-rot-fungi-in-bioremediation]]
-- [[wood-decomposition-by-fungi]]
-- [[bioremediation-fungal-vs-bacterial]]
+- [[mycoremediation]]

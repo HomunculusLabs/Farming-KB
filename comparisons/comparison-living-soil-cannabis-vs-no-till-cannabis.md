@@ -21,33 +21,6 @@ feeding soil biology rather than plants directly, but differ in emphasis,
 scope, and how they are implemented in practice.
 
 ## Living Soil Cannabis
-[[living-soil-cannabis]]
-
-Living soil for cannabis is a biological approach that relies on the soil
-food web, bacteria, fungi, protozoa, nematodes, and other organisms to break
-down organic matter and make nutrients available to plant roots. The core
-principle is to feed the soil, not the plant: organic inputs are decomposed
-by soil biology into plant-available forms, creating a self-regulating system
-that reduces the need for bottled nutrients and frequent pH adjustments.
-
-Building living soil starts with a quality mix of compost, worm castings,
-coco coir or peat moss, and mineral amendments (perlite, vermiculite, rock
-powders, dolomite lime). Cervantes recommends proportions like 30% compost,
-30% soilless mix, 16% worm castings, and 16% perlite. The mix should sit for
-a month before planting to allow the biological community to establish and
-begin cycling nutrients through decomposition and mineralization processes.
-
-Mycorrhizal fungi are a critical component of living soil, extending the root
-network and improving nutrient and water uptake dramatically. Compost tea is
-a vital management tool, providing concentrated inoculants of beneficial
-biology that can be brewed as bacterial-dominant, fungal-dominant, or
-balanced teas depending on the needs of the growing system and stage of plant
-growth. Living soil has greater pH buffering capacity than inert media, with
-optimal pH between 6.5 and 7.0 for nutrient availability. Clean rainwater or
-reverse osmosis water is the ideal irrigation source to avoid chlorine and
-chloramine that can harm beneficial soil microorganisms.
-
-## No-Till Cannabis
 [[no-till-cannabis]]
 
 No-till cannabis cultivation avoids tilling, digging, or otherwise disrupting
@@ -116,9 +89,6 @@ specific growing situation and space constraints.
 
 ## See Also
 
-- [[comparison-no-till-vs-tilling]]
 - [[comparison-living-soil-vs-hydroponic]]
-- [[comparison-no-till-vs-living-soil-cannabis]]
 - [[comparison-no-till-vs-raised-bed]]
-- [[organic-nutrients-vs-synthetic-nutrients]]
 - [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]

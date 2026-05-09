@@ -141,9 +141,9 @@ In these experiments, spores were subjected to temperatures as low as
 minus 180 degrees Celsius, dried in a vacuum, and irradiated with an
 ## Related Topics
 
-- [[hyphal-biology-and-turgor-pressure]]
 - [[gasteromycete-fruiting-bodies]]
-- [[aquatic-fungi-and-zoospore-biology]]
-- fungal melanism and stress resistance
-- mushroom fruiting body development
 - [[bloomfields-orchard-spore-discharge-mechanisms]]
+
+## See Also
+
+- [[fungal-spore-biology-and-dispersal-mechanisms]]

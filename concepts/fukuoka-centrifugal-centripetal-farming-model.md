@@ -1,26 +1,18 @@
 ---
-title: "Centrifugal vs Centripetal Farming: Natural and [[fukuoka-critique-of-scientific-agriculture]] Compared"
-source: "[[masanobu-fukuoka]] — The [[natural-way-of-farming-guide]] [[fukuoka-theory-three-ways-of-farming]]: The Theory"
+title: Fukuoka Centrifugal Centripetal Farming Model
+source: "[[natural-way-of-farming-guide]] [[fukuoka-theory-three-ways-of-farming]]: The Theory"
 tags: [natural-farming, scientific-farming, centrifugal, centripetal, farming-philosophy, energy-efficiency, fukuoka, agricultural-theory]
 created: 2026-05-08
 ---
 
-# Centrifugal vs Centripetal Farming: Natural [[masanobu-fukuoka]] Agriculture Compared
-
-## Overview
-
-Masanobu Fukuoka developed a powerful conceptual model for comparing [[natural-farming]] with scientific (conventional) agriculture using the metaphors of centripetal (inward-moving, converging) and centrifugal (outward-moving, diverging) forces. This framework, presented with accompanying figures in *The Natural Way of Farming: The Theory*, reveals fundamental structural differences between the two approaches that explain why scie [[fukuoka-five-principles-natural-farming]] ure is "doomed to extinction" while natural farming remains "forever new."
-
-## The Centripetal Nature [[fukuoka-naming-problem-of-natural-farming]]
+# Centrifugal vs Centripetal Farming: Natural [[natural-farming]] with scientific (conventional) agriculture using the metaphors of centripetal (inward-moving, converging) and centrifugal (outward-moving, diverging) forces. This framework, presented with accompanying figures in *The Natural Way of Farming: The Theory*, reveals fundamental structural differences between the two approaches that explain why scie [[fukuoka-naming-problem-of-natural-farming]]
 
 Natural farming is characterized by **convergence and simplification**:
 
 - **Objective**: Non-action and a return to nature.
 - **Direction**: Inward — moving toward the center, toward simplicity, toward nature's original state.
 - **Process**: Reducing inputs, reducing complexity, reducing labor.
-- **[[savory-holistic-resource-management-energy-flow]]**: Efficient — produces 130 pounds of rice (200,000 kcal) per man-day of labor without outside inputs.
-- **Knowledge requirement**: Minimal — the farmer observes and follows nature's patterns rather than imposing external knowledge.
-- **Scalability**: Boundless and yielding — Fukuoka describes it as "the [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving way of Bodhidharma."
+- **[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving way of Bodhidharma."
 
 Natural farming appears "fragile and vulnerable" but is actually potent — "it brings victory unfought." It does not compete with nature but works within its existing systems. Because it is founded on principles derived from a fundamental view of nature, it "remains current and applicable in any age. Although ancient, it is also forever new."
 

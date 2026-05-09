@@ -106,11 +106,7 @@ Standard yeast description includes:
 
 ## See Also
 
-- [[endophytic-fungi-isolation-methods]]
 - [[freshwater-fungi-diversity-and-sampling]]
-- [[marine-fungi-diversity-sampling]]
 - [[moist-chamber-techniques-fungi]]
-- [[fungal-solid-state-fermentation-agricultural-waste]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

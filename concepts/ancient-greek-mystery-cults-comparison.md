@@ -9,15 +9,7 @@ sources:
 ---
 # Ancient Greek Mystery Cults — Comparison
 
-A comparative overview of the major mystery cults of the ancient Greek and Greco-Roman world, their shared features, and their distinctive characteristics in relation to the [[eleusinian-mysteries-history-and-structure]].
-
-## What Were the Mystery Cults?
-
-The mystery cults (or mysteries) were secret religious initiation ceremonies in the ancient Mediterranean world. Unlike the public, civic religions of Greece and Rome, which emphasized public sacrifice, communal worship, and social obligation, the mysteries offered personal, experiential encounters with the divine.
-
-The word "mystery" derives from the Greek word "mysterion," meaning "that which is closed" or "secret." Initiates were bound by oaths of secrecy and were forbidden to reveal what they had experienced.
-
-The mysteries centered on religions that preceded the Greeks in their aboriginal primitivism, just as the [[eleusinian-mysteries-history-and-structure]] were considered among the most ancient religious practices in the Greek world.
+A comparative overview of the major mystery cults of the ancient Greek and Greco-Roman world, their shared features, and their distinctive characteristics in relation to the [[eleusinian-mysteries-history-and-structure]] were considered among the most ancient religious practices in the Greek world.
 
 ## Common Features
 
@@ -37,11 +29,7 @@ Connection to myths of death and rebirth, descent to the underworld, and return.
 
 ## The Eleusinian Mysteries
 
-The most important and longest-lasting of all the mystery cults, celebrated at Eleusis near Athens for nearly 2,000 years. Dedicated to Demeter and Persephone, the Mysteries promised initiates a blessed afterlife and offered a culminating visionary experience involving the [[kykeon-composition-and-ergot-alkaloid-hypothesis]].
-
-The Eleusinian Mysteries were unique in their antiquity, their official connection with the Athenian state, and the universality of their appeal. They were open to any Greek speaker who had not committed murder and who could afford the modest initiation fee.
-
-The climax of the Eleusinian initiation was the epopteia — a vision experienced in the Telesterion after drinking the sacred kykeon. The [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]] proposes that this vision was pharmacologically induced.
+The most important and longest-lasting of all the mystery cults, celebrated at Eleusis near Athens for nearly 2,000 years. Dedicated to Demeter and Persephone, the Mysteries promised initiates a blessed afterlife and offered a culminating visionary experience involving the [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]] proposes that this vision was pharmacologically induced.
 
 ## The Mysteries of Samothrace
 
@@ -73,7 +61,7 @@ The mysteries of Dionysus were among the most ancient and widespread of all the 
 
 The Dionysian mysteries involved nocturnal rites, often conducted in wild, mountainous settings. The Maenads (female devotees) performed ecstatic dances and were said to achieve states of divine possession.
 
-The connection between Dionysus and the [[eleusinian-mysteries-history-and-structure]] is explored in the [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]] article.
+The connection between Dionysus and the [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]] article.
 
 ## The Mithraic Mysteries
 
@@ -85,14 +73,11 @@ The Mithraic rites were conducted in underground temples called mithraea, which 
 
 The mystery cults shared with shamanic traditions worldwide the use of altered states of consciousness as a means of contacting the divine. The question of whether specific cults employed psychoactive substances to induce these states remains debated.
 
-The [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]] proposes that the Eleusinian Mysteries specifically used an ergot-based preparation in the kykeon. Similar hypotheses have been proposed for the Dionysian mysteries (wine enhanced with psychoactive additives) and for the Orphic rites (possibly involving other psychoactive plants).
-
 The [[harner-cross-cultural-patterns-shamanic-plant-use]] of psychoactive plant use in religious contexts suggest that the mystery cults' emphasis on secrecy may, in some cases, have served to protect the knowledge of psychoactive preparations.
 
 ## Significance
 
 The mystery cults represented an important counter-tradition to the civic religions of the ancient world. Where civic religion emphasized social conformity and collective identity, the mysteries offered individual transformation and personal access to the divine. Their influence on the development of Western religious thought — particularly on early Christianity — has been extensively debated.
 
-See also: [[eleusinian-mysteries-history-and-structure]], [[wasson-hofmann-ruck-theory]], [[demeter-and-persephone-in-eleusinian-mythology]], [[entheogenic-eleusis-theory-scholarly-reception]], [[shamanic-use-of-psychedelics]]
-- [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
+See also: [[wasson-hofmann-ruck-theory]], [[entheogenic-eleusis-theory-scholarly-reception]], [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[blesching-cannabis-skin-diseases]], [[blesching-cannabis-psoriasis]], and cannabinoid-receptors.
+Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[blesching-cannabis-psoriasis]], and cannabinoid-receptors.
 
 ## Clinical Evidence
 
@@ -74,15 +74,6 @@ One study supports cannabis for eczema, with additional preclinical evidence fro
 The concept of endocannabinoid tone — the baseline activity level of the ECS — is particularly relevant to chronic skin conditions like eczema. Research suggests that individuals with atopic dermatitis may have deficient cutaneous endocannabinoid signaling, which contributes to the chronic inflammation cycle.
 FAAH (fatty acid amide hydrolase), the enzyme responsible for breaking down anandamide, is overexpressed in eczematous skin, leading to faster degradation of the body's natural anti-inflammatory cannabinoids.
 Topical FAAH inhibitors are being investigated as a complementary strategy to restore endocannabinoid tone in affected skin.
-See [[cannabis-endocannabinoid-system]] for details on ECS regulation.
-
-## Terpenes and Topical Formulations
-
-Beyond cannabinoids, terpenes found in full-spectrum cannabis extracts may provide additional dermatological benefits.
-Beta-caryophyllene, a sesquiterpene that acts as a selective CB2 agonist, has demonstrated anti-inflammatory and analgesic properties in preclinical studies.
-Pinene possesses antimicrobial activity that may help prevent secondary skin infections, a common complication of eczema due to scratching and compromised barrier function.
-Linalool has been shown to reduce skin inflammation in animal models.
-When combined with cannabinoids in topical preparations, these terpenes may produce an entourage effect, enhancing therapeutic outcomes.
 See [[cannabis-terpene-profile]] for a comprehensive guide to terpene properties.
 
 ## Emerging Research Directions
@@ -99,24 +90,8 @@ While effective, these treatments carry significant risks with long-term use: co
 Calcineurin inhibitors carry FDA black box warnings regarding theoretical lymphoma risk.
 Cannabis-based topicals may offer a safer long-term maintenance option, particularly for patients who experience steroid withdrawal or require frequent application.
 However, head-to-head clinical trials comparing cannabinoid preparations to standard therapies are still needed.
-See [[cannabis-anti-inflammatory-applications]] for broader context on cannabis as an alternative to conventional anti-inflammatories.
-
-## Pediatric Considerations
-
-Eczema predominantly affects children, with up to 20% of pediatric populations affected.
-The use of cannabinoid therapies in pediatric dermatology requires careful consideration.
-Topical CBD preparations have an excellent safety profile in children due to minimal systemic absorption, though formal pediatric clinical trials remain limited.
-Parents should be advised that THC-containing products, even topicals, carry theoretical risks of systemic absorption in young children with compromised skin barriers.
-Pediatric dermatologists are increasingly open to cannabinoid-based alternatives, particularly for patients who have not responded adequately to conventional first-line therapies.
-
-## Related Topics
-
-- [[blesching-cannabis-skin-diseases]]
-- [[blesching-cannabis-psoriasis]]
+See [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-dermatological-conditions]]
-- [[cannabis-and-asthma]]
-- cannabinoid-receptors
 - [[cannabis-autoimmune-conditions]]
-- [[mushroom-cytokine-production-immune-activation]]
 - [[mushroom-immune-cell-activation-mechanisms]]
 - [[cannabis-hash-making-from-extracted-oil]]

@@ -138,8 +138,6 @@ Dictyophora indusiata is considered one of the four most prestigious edible fung
 
 ## See Also
 
-- [[phallus-impudicus-entity]] — Related stinkhorn fungus in the same family
 - [[tremella-fuciformis-entity]] — Another prized Chinese culinary and medicinal fungus
-- [[lentinula-edodes]] — Shiitake, companion species in Chinese mushroom cultivation
 - [[morchella-esculenta]] — Morel, fellow member of China's four prestigious fungi
 - [[trichoderma-harzianum]] — Common contaminant competitor in D. indusiata cultivation

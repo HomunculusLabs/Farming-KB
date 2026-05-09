@@ -137,13 +137,7 @@ conditions; it is farming based on petroleum energy. Even the water, although
 
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-farming-philosophy]]
-
 - [[fukuoka-desert-cause-vegetation]] for Fukuoka on vegetation and desertification
-- [[fukuoka-deficit-farming]] for the deficit farming concept
 - [[fukuoka-machine-culture-doomed]] for machine culture critique
-- [[fukuoka-american-agriculture-observations]] for broader US observations
 - [[fukuoka-monoculture-meat-based-agricultural-system]] for monoculture critique
 - [[fukuoka-soil-self-improvement-without-tillage]] for natural soil building

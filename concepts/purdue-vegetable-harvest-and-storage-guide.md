@@ -17,7 +17,7 @@ type: concept
 
 # Purdue Vegetable Harvest and Storage Guide
 
-A [[allen-australian-psilocybe-species-comprehensive-guide]] to harvesting vegetables at the right stage and storing them under optimal conditions, organized by storage [[vegetable-storage-conditions-by-temperature-and-humidity]] category. Based on Purdue University Cooperative Extension Service recommendations (HO-32-W).
+A [[vegetable-storage-conditions-by-temperature-and-humidity]] category. Based on Purdue University Cooperative Extension Service recommendations (HO-32-W).
 
 ## Storage Categories Overview
 
@@ -83,21 +83,7 @@ Vegetables are grouped into four storage categories based on their temperature a
 
 **Eggplant:** Harvest when fruits are nearly full grown but color is still bright. Not adapted to long storage — keep in warmer part of refrigerator for about 1 week.
 
-**Peppers, Sweet:** Harvest when fruits are firm and full size. Leave on plant for red color if desired. Store 2 to 3 weeks in the warmer part of the refrigerator in plastic bags. Cool [[mollison-designers-cold-caves-root-cellar-storage]] also possible.
-
-**Tomatoes:** Ripe tomatoes keep about 1 week refrigerated or at 45-50 degrees F. Green mature tomatoes (normal size, whitish-green skin) stored at 55-70 degrees F. Wrap each individually in newspaper and inspect weekly for ripeness — mature green tomatoes last 3 to 5 weeks this way.
-
-**Watermelon:** Store at room temperature for about 1 week, or at 45-50 degrees F for 2 to 3 weeks. Harvest when the underside turns yellowish and the tendril at the fruit stem junction dies. Mature melon produces a dull thud when thumped versus a ringing sound for immature fruit.
-
-## Cool, Dry Storage (45-55 degrees F, 50-60% RH)
-
-**Onions, Dry:** Harvest when 2/3 to 3/4 of the tops have fallen over and necks have shriveled. Remove tops, place in shallow boxes or mesh bags, cure in open garage or barn for 3 to 4 weeks. Store in mesh bags in as cool a place as can be found. During humid weather, ensure ventilation.
-
-**Peppers, Hot:** Pull plants late in the season or string peppers together and hang to dry in a warm place. Store in a dry, cool place (usually a basement).
-
-## Warm, Dry Storage (55-60 degrees F, 60-70% RH)
-
-**Pumpkins and [[winter-squash-guide]]:** Harvest before frost when skin is hard and colors darken. Remove from vine with a portion of stem attached. Store on shelves in single layers so air can circulate around them. Properly cured squash can store for several months.
+**Peppers, Sweet:** Harvest when fruits are firm and full size. Leave on plant for red color if desired. Store 2 to 3 weeks in the warmer part of the refrigerator in plastic bags. Cool [[winter-squash-guide]]:** Harvest before frost when skin is hard and colors darken. Remove from vine with a portion of stem attached. Store on shelves in single layers so air can circulate around them. Properly cured squash can store for several months.
 
 ## Warm, Moist Storage (55-60 degrees F, 80-85% RH)
 
@@ -127,6 +113,5 @@ Vegetables are grouped into four storage categories based on their temperature a
 
 ## See Also
 
-- [[purdue-vegetable-planting-reference-table]]
 - [[purdue-nitrogen-side-dressing-schedule]]
 - [[vegetable-harvest-and-storage-guide]]

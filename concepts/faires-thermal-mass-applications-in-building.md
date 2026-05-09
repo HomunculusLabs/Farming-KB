@@ -3,14 +3,7 @@ title: Faires Thermal Mass Applications in Building
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Faires Thermal Mass Applications in Building
-
-Thermal mass is a foundational concept in [[faires-passive-solar-energy-systems]] and permaculture building. It refers to the ability of dense, heavy materials to absorb, store, and slowly release heat energy. The Faires guide applies thermal mass principles across a wide range of building and landscape applications, from house construction to garden windbreaks.
+tags: [[faires-passive-solar-energy-systems]] and permaculture building. It refers to the ability of dense, heavy materials to absorb, store, and slowly release heat energy. The Faires guide applies thermal mass principles across a wide range of building and landscape applications, from house construction to garden windbreaks.
 
 ## Thermal Mass Fundamentals
 
@@ -93,38 +86,7 @@ Water is one of the most effective thermal mass materials due to its high specif
 
 - A dam or pond keeps plants and people warmer in cold weather and cooler in heat
 - Water holds and reflects heat — as temperature drops at night, heat radiates into surrounding gardens
-- A water tank kept in the [[faires-shaderoom-and-passive-cooling-design]] provides passive thermal storage
-- Water features can cool surrounding air through evaporation
-
-## Building Design Integration
-
-The guide recommends integrating thermal mass into house design through several strategies:
-
-- **South-facing windows** allow solar energy to enter and fall on thermal mass floors/walls
-- **Deciduous vines** on the sunny side: shade in summer, allow sun through in winter
-- **Earth mounds** on the west side protect from hot evening sun and provide insulation
-- **Underground houses** use earth as continuous thermal mass envelope
-- **Greenhouse integration** — the house at Melliodora includes a greenhouse within the building envelope
-
-## Climate-Specific Applications
-
-| Climate | Best Thermal Mass Strategy |
-|---------|---------------------------|
-| Desert | Rock around roots, earth-sheltered buildings, water features |
-| Temperate | Stone floors, earth berm, deciduous vine shading |
-| Cold | Underground/earth-berm construction, massive interior walls, compost heating |
-| Tropical | Limited benefit; focus on shade and ventilation instead |
-| Humid | Earth-bag walls with breathable plaster finishes |
-
-## Source
-
-From *The Ultimate Guide to Natural Farming and Sustainable Living*, sections on passive energy, building design, earth construction, climate strategies, and orchard planning.
-
-## See Also
-
-- [[mollison-thermal-mass-passive-building]]
-- [[faires-city-desert-and-cold-climate-garden-strategies]]
+- A water tank kept in the [[mollison-thermal-mass-passive-building]]
 - [[underground-house-and-earth-berm-construction]]
-- [[faires-underground-and-earth-berm-homes]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[mollison-permaculture-two-earth-houses-plant-shelters]]

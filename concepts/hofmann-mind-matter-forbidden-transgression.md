@@ -128,14 +128,6 @@ Despite his uncertainty with regard to the fundamental dangers that could
 lie in the use of hallucinogenic substances, Hofmann continued
 investigations on the active principles of the Mexican magic morning
 glories. In their seeds, those called ololiuhqui by the ancient Aztecs,
-he found as active principles [[ergot-and-lysergic-acid-history]] chemically very closely related to LSD, an almost
-unbelievable finding that connected the fungal world with higher plants
-across broad evolutionary distances.
-
-## See Also
-
-- [[hofmann-lsd-consciousness-and-philosophy]]
-- [[hofmann-lsd-pharmacology-and-effects]]
+he found as active principles [[hofmann-lsd-consciousness-and-philosophy]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[lsd-discovery-and-history]]
 - [[hofmann-lsd-discovery-bicycle-day]]

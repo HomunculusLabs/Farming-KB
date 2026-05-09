@@ -104,7 +104,7 @@ Add essential oils at **1-2% of total weight** (roughly 6-12 drops per ounce of 
 - 20 drops lavender essential oil
 - 10 drops tea tree essential oil
 Melt the oil and beeswax together, test consistency, remove from heat, stir in vitamin E and essential oils, pour into four 1-oz tins. Use on minor cuts, scrapes, dry skin, and bug bites.
- Related pages include [[herbal-salves-and-balms]], [[calendula-salve-making]], [[herbal-medicine]], and [[medicinal-plant-preparations-tinctures-salves-teas]].
+ Related pages include [[calendula-salve-making]], [[medicinal-plant-preparations-tinctures-salves-teas]].
 ## See Also
 - query how to make herbal salves and balms at home
 - [[herbal-medicine-history]]

@@ -107,16 +107,10 @@ The species contains ergosterol (provitamin D2), which converts to vitamin D2 up
 
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[agaricus-subrufescens]]
-- [[laccaria-amethystea]]
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
+- [[trametes-versicolor-entity]]
 - [[cantharellus-cibarius-entity]]
-- [[suillus-luteus]]
 - [[russula-brevipes]]
-- [[pleurotus-ostreatus]]
 - [[lactarius-deliciosus]]
-- [[suillus-granulatus]]
 - [[leccinum-scabrum]]
 - xerocomellus chrysenteron

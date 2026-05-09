@@ -67,20 +67,7 @@ Dig a deep hole to identify three layers:
 
 ### Acidity and Alkalinity (pH)
 - Lime content significantly affects fertility and plant range
-- pH affects availability of some nutrients (see [[phosphorus-availability]])
-- Test before starting; adjust with lime (to raise pH) or acid materials (to lower)
-
-## Exposure, Aspect, and Orientation
-
-### Aspect
-- **South-facing**: maximum sun, warmest — ideal for tender vegetables, fruit walls, greenhouse
-- **North-facing**: coolest, shadiest — suited to shade-loving plants, ferns
-- **East-facing**: morning sun, afternoon shade — good for plants that scorch in hot afternoon sun
-- **West-facing**: afternoon sun — warm but can be harsh in summer
-
-### Exposure
-- Wind exposure affects plant growth, water loss, and damage risk
-- [[hamilton-hedges-and-windbreaks]] protect gardens from prevailing winds
+- pH affects availability of some nutrients (see [[hamilton-hedges-and-windbreaks]] protect gardens from prevailing winds
 - Frost pockets: cold air drains to low points; avoid planting frost-tender species in these areas
 - Coastal exposure: salt spray limits plant choices
 - Sheltered gardens warm faster in spring, extending the growing season
@@ -98,22 +85,7 @@ Dig a deep hole to identify three layers:
 - Deep bed system: raises soil above surroundings, improves drainage and warming
 - Beds should be narrow enough to reach across without stepping on soil
 - Plan paths for year-round access, especially on heavy soils in wet weather
-- See [[hamilton-garden-layout-beds-borders-paths]]
-
-### Ornamental Garden Planning
-- Consider year-round interest: evergreen structure, seasonal flowers, winter bark, autumn color
-- Layer planting: trees for height, shrubs for structure, perennials for color, ground cover for weed suppression
-- Plan for succession of bloom through seasons
-- Include [[hamilton-wildflower-meadow]] and [[hamilton-rock-garden-design]] for diversity
-
-### Vegetable Garden Planning
-- Plan rotation before each season
-- Include permanent features (asparagus, rhubarb) in the layout
-- Allow space for compost bins, leaf mold area, and tool storage
-- Consider water access for irrigation in dry periods
-
-### Water Features
-- [[hamilton-garden-pond-maintenance]] support wildlife and create microclimates
+- See [[hamilton-wildflower-meadow]] and [[hamilton-garden-pond-maintenance]] support wildlife and create microclimates
 - Construct ponds in spring
 - Include marsh plants, submerged oxygenators, and deep-water aquatics
 
@@ -131,12 +103,7 @@ Winter is the planning season:
 
 ## Related
 
-- [[hamilton-garden-fencing-and-boundaries]] Concepts
-
 - [[hamilton-seasonal-gardening-calendar]]
-- [[soil-building-permaculture]]
 - [[phosphorus-availability]]
-- [[hamilton-garden-layout-beds-borders-paths]]
 - [[hamilton-hedges-and-windbreaks]]
-- [[hamilton-drought-gardening]]
 - [[hamilton-shade-garden-plants]]

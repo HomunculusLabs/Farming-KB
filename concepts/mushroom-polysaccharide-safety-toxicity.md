@@ -5,45 +5,7 @@ updated: 2026-04-23
 sources:
   - Cancer Treatments and Medicinal Mushrooms
 type: concept
-tags: [mushroom-cultivation, safety, toxic]
----
-
-# Mushroom Polysaccharide Safety and Toxicity
-
-Mushroom-derived polysaccharides have an exceptionally favourable safety
-profile. Across decades of clinical use involving tens of thousands of
-patients, serious adverse events have been remarkably rare, contrasting
-sharply with conventional chemotherapy and other
-biological response modifiers.
-
-## Pre-Clinical Toxicity: Lentinan
-
-### Acute and Subchronic Studies
-
-Toxicity testing of lentinan across multiple species at 0.0001-30 mg/kg
-for 5-6 weeks by i.v. administration showed:
-
-- Reticuloendothelial cell swelling at doses >25 mg/kg
-- GI or urinary bladder haemorrhages in some species at >=2 mg/kg
-- All lesions regressed after discontinuation
-
-### Reproductive Safety
-
-- Male fertility unaffected at 0.1-1.0 mg/kg
-- No fetal abnormalities at 5.0-10 mg/kg in rats
-- No perinatal/lactation effects at 5.0 ug/kg
-- No foetal penetration or excretion into maternal milk
-
-### Genotoxicity
-
-No mutagenicity, haemolysis, coagulation effects, arthritis induction, or
-anaphylactic reactions detected in standard testing.
-
-## Pre-Clinical Toxicity: PSP
-
-### Reproductive Safety
-
-[[psk-psp-polysaccharide-peptides]] showed no teratogenic, abortifacient, or
+tags: [[psk-psp-polysaccharide-peptides]] showed no teratogenic, abortifacient, or
 embryotoxic effects. No deleterious effects on ovarian follicular
 development, steroidogenesis, ovulation, oocyte quality, pregnancy, or
 embryo development (Ng and Chan, 1997).
@@ -111,10 +73,7 @@ polysaccharides offer a substantially more favourable safety profile.
 
 ## See Also
 
-- [[mushroom-polysaccharide-administration-routes]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]
-- [[psp-phase-clinical-trials]]
 - [[mushroom-polysaccharide-chemotherapy-synergy]]
-- [[mushroom-cancer-clinical-trials-overview]]
 - [[medicinal-mushroom-regulatory-frameworks]]
 - [[medicinal-mushrooms-biological-response-modifiers]]

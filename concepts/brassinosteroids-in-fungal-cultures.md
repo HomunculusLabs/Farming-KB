@@ -6,12 +6,9 @@ type: concept
 tags: [brassinosteroid, phytohormone, mycelial-growth, fruiting, psilocybe-cubensis, fungal-physiology]
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 ---
-
 # Brassinosteroids in Fungal Cultures
 
-Brassinosteroids are a class of steroidal plant growth regulators that were
-first shown to promote fungal growth in the landmark 1990 study by Gartz,
-Adam, and Vorbrodt. Their application to [[psilocybe-cubensis]] mycelial
+Brassinosteroids are a class of steroidal [[psilocybe-cubensis]] mycelial
 cultures at concentrations as low as 10⁻² ppm produced dramatic increases
 in both colonization speed and fruiting body production, suggesting these
 phytohormones may play a previously unrecognized biological role in higher
@@ -34,14 +31,7 @@ involve:
 - Higher **crop yields** in agricultural applications
 - Promising **anti-stress effects** under suboptimal growing conditions
 
-Despite extensive study in plants, no prior research had examined the
-occurrence or activity of brassinosteroids on fungi before the Gartz et al.
-study.
-
-## The Gartz Study Design
-
-The study examined the effect of synthetic 22S,23S-homobrassinolide (see
-[[22s-23s-homobrassinolide-chemistry-and-synthesis]]) on a strain of
+Despite extensive study [[22s-23s-homobrassinolide-chemistry-and-synthesis]]) on a strain of
 *Psilocybe cubensis* characterized by high cultivation stability. Two
 cultivation systems were tested with ten replicate runs each:
 
@@ -126,10 +116,8 @@ used in agriculture could potentially be substituted.
 
 ## See Also
 
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] — the specific compound
-  used in this study and its preparation from stigmasterol
-- [[mycelial-growth-factors]] — environmental and nutritional factors
-  affecting mycelial colonization speed
-- [[fruiting-triggering]] — conditions that initiate the mushroom formation
-  cycle
 - [[psilocybe-cubensis]] — species profile and cultivation overview
+
+## See Also
+
+- [[aseptic-inoculation-technique-fungal-cultures]]

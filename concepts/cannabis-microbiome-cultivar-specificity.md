@@ -115,8 +115,6 @@ Understanding the Cannabis microbiome has practical implications for cultivation
 
 ## See Also
 
-- [[rhizosphere-microbiome-selection-model]]
 - [[query-how-do-bacteriophages-affect-soil-microbiome-and-plant-health]]
-- [[bacterial-endophytes-plant-roots]]
 - [[cannabis-sativa-indoor-cultivation-techniques]]
 - [[plants-without-mycorrhizal-associations]]

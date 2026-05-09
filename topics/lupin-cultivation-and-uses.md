@@ -180,7 +180,7 @@ to high soil manganese and boron levels.
 
 ### Green Manure and Cover Crop
 
-Lupins excel as [[green-manure-vs-cover-crops|green manure]] and cover crops. Their
+Lupins excel as [[green-manure-cover-crops|green manure]] and cover crops. Their
 advantages include:
 
 - **High biomass production**: Annual lupins can produce 8–12 tonnes of dry matter per hectare

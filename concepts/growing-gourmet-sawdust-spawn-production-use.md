@@ -18,17 +18,7 @@ type: concept
 
 Sawdust spawn serves as a critical intermediate step in
 the mycelial expansion pathway for many wood-decomposing
-gourmet and medicinal mushrooms. While [[growing-gourmet-grain-spawn-generation]]
-is preferred for straw-based cultivation, sawdust spawn
-offers distinct advantages for inoculating supplemented
-sawdust fruiting blocks and sterilized wood substrates.
-
-## Purpose and Advantages
-
-Sawdust spawn is used for one of five primary purposes:
-
-  1. Inoculation into supplemented sawdust fruiting blocks
-  2. Creation of [[growing-gourmet-plug-spawn-production]]
+gourmet and medicinal mushrooms. While [[growing-gourmet-plug-spawn-production]]
      for stump and log inoculation
   3. Direct inoculation into outdoor wood chip beds
   4. As a bridge step between grain spawn and enriched
@@ -37,48 +27,11 @@ Sawdust spawn is used for one of five primary purposes:
 
 The key advantage of sawdust spawn over grain spawn for
 inoculating supplemented sawdust is reduced
-[[growing-gourmet-thermogenesis-mushroom-cultivation]].
-Grain spawn adds nitrogen to the substrate, which accelerates
-biochemical reactions and produces heat and carbon dioxide.
-Sawdust spawn, having lower nitrogen content, generates less
-internal heat, making colonization more manageable.
-
-## The "Leap Off" Advantage
-
-The mycelium has already acclimated to the sawdust substrate
-when sawdust spawn is used. This means "leap off" is faster
-from sawdust spawn than from grain spawn. Recovery after
-inoculation is quicker, and colonization is more even. There
-are also more points of inoculation per unit mass compared
-to grain spawn, providing more distributed colonization.
-
-## Production Process
-
-### Substrate Formula
-The base substrate for sawdust spawn is composed of
-fast-decomposing hardwoods such as alder, poplar, and
-cottonwood. A typical formula includes:
-  - Hardwood sawdust
-  - Small amount of supplementation (lower nitrogen than
-    fruiting blocks)
-  - Water to 60-65% moisture content
-
-The substrate is loaded into bags, sterilized, and
-inoculated with either [[growing-gourmet-liquid-inoculation-fermentation]]
+[[growing-gourmet-liquid-inoculation-fermentation]]
 or grain-to-sawdust transfer.
 
 ### Inoculation from Grain Spawn
-The recommended path from [[growing-gourmet-plug-spawn-production]]
-to sawdust spawn involves:
-  - Inoculating sterilized sawdust with grain spawn
-  - Incubating at 75 F (24 C) for approximately two weeks
-  - In 3 days, recovery from inoculation is visible as
-    grain kernels become surrounded by fuzzy mycelium
-
-### Inoculation from Liquid Culture
-Liquid inoculation techniques can directly inoculate
-sawdust spawn bags. The
-[[growing-gourmet-liquid-inoculation-fermentation]]
+The recommended path from [[growing-gourmet-liquid-inoculation-fermentation]]
 broth is distributed evenly through the sawdust mass,
 providing thousands of inoculation points.
 
@@ -117,21 +70,7 @@ temperature from thermogenesis.
 
 ## Spawn Storage Considerations
 
-[[growing-gourmet-harvesting-storage]]
-for only a short period before a decline in viability occurs.
-As spawn ages and food resources deplete, the mycelium's
-rate of growth declines and metabolic wastes accumulate. The
-mycelium's anti-disease defensive mechanisms fail as
-opportunistic molds and bacteria proliferate.
-
-Good quality spawn on Day 60 from inoculation can be half
-as viable as at Day 30. Spawn should generally be used at
-peak vitality. If not, refrigeration at 35-40 F (1.6-4.4 C)
-for several weeks can effectively slow the rate of decline.
-
-## Grain vs. Sawdust for Straw
-
-For [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
+[[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 cultivation on cereal straws, grain spawn is preferred. Grain
 spawn boosts the nutritional base of straw, radically improving
 yields compared to using an equal mass of sawdust spawn. Two

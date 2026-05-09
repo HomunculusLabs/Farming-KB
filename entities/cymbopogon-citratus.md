@@ -118,10 +118,6 @@ sources:
 
 ## See Also
 
-- [[stevia-rebaudiana]]
-
 - [[ocimum-sanctum]] — complementary aromatic medicinal herb used alongside lemongrass in Thai and Ayurvedic traditions
-- [[piper-methysticum-entity]] — another aromatic tropical plant with anxiolytic and ceremonial uses
 - [[cymbopogon-flexuosus]] — genus overview and comparison with East Indian lemongrass (C. flexuosus)
-- [[tagetes-lucida]] — another aromatic companion plant with pest-deterrent and ceremonial properties
 - [[vetiveria-zizanoides]]

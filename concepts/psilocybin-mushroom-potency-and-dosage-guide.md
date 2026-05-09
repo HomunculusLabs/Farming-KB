@@ -17,12 +17,9 @@ Mushroom potency is primarily determined by the concentration of psilocybin and 
 
 | Species | Approximate Max Psilocybin | Notes |
 |---------|---------------------------|-------|
-| [[stamets-psi-psilocybe-azurescens-species-guide]] | Highest (1.8%+) | Coastal Oregon species; most potent known |
 | [[psilocybe-semilanceata]] | Up to ~1% | Liberty Cap; native European species; widely available |
 | Psilocybe bohemica | Up to ~1% | Central European species |
-| [[psilocybe-cubensis-potency-variation-by-flush]] | Up to ~0.6% | Most common cultivated species; primary smartshop product |
-
-These values are approximate and used for initial orientation only. Actual concentrations vary significantly between individual specimens and collections. The [[psilocybin-mushroom-distribution-worldwide]] of potency variation is complex and influenced by genetic, environmental, and post-harvest factors.
+| [[psilocybin-mushroom-distribution-worldwide]] of potency variation is complex and influenced by genetic, environmental, and post-harvest factors.
 
 ## Psychoactive Dose Ranges
 
@@ -65,36 +62,29 @@ Some users report smoking dried mushrooms for faster but milder effects. However
 - **Duration**: The primary experience lasts 2-6 hours
 - **After-effects**: Residual effects (difficulty sleeping, mild perceptual changes, introspective mood) may last an additional 2-6 hours
 
-The experience is most commonly described as "tripping" and shares characteristics with other [[psychedelic-compounds-reference]].
-
-## Factors Affecting Response
-
-Individual response to psilocybin mushrooms varies greatly and is influenced by:
-
-- **Set**: The user's mindset, expectations, and current emotional state
-- **Setting**: The physical and social environment
-- **Previous experience**: Familiarity with psychedelic states
-- **Food intake**: Fasting before consumption generally produces stronger, faster effects
-- **Body weight**: Larger individuals generally require higher absolute doses
-- **Medication**: Interactions with psychiatric medications (especially SSRIs and MAOIs) can significantly alter effects
-
-Source: raw/papers/carolina-mushrooms_08qxp.md
-
-## See Also
-
-- [[psilocybin-mushroom-dosage-and-acute-effects]]
-
-- [[african-psilocybin-mushroom-guide]]
+The experience is most commonly described as "tripping" and shares characteristics with other [[psilocybin-mushroom-dosage-and-acute-effects]]
 
 - [[asian-psilocybin-mushroom-guide]]
-
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]
 
 - [[turner-psilocybin-mushroom-experience-guide]]
-- [[asian-psilocybin-mushroom-guide]]
 - [[psilocybin-mushrooms-and-ecology]]
-- [[psilocybe-mushroom-species-guide]]
-
-## Related
-
 - [[microdosing-theory-and-practice]]
+## Practical Considerations
+
+Successful implementation of Psilocybin Mushroom Potency and Dosage Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

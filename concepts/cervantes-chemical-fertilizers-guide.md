@@ -138,13 +138,8 @@ microbes:
 - The key difference is control: chemical fertilizers offer more
   precise, immediate control; organic methods provide slower, more
   buffer-rich delivery
-
 ## See Also
 
-- [[cervantes-chemical-fungicides-insecticides]]
-
 - [[cervantes-nutrient-management]]
-- [[cervantes-fertilizer-application-strain-feeding]]
-- [[cannabis-advanced-growing-techniques]]
-- [[cervantes-organic-amendments-chart]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
 - [[cervantes-macronutrient-deficiency-toxicity]]

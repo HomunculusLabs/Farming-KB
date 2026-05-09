@@ -93,13 +93,7 @@ Containers dry out much faster than garden soil. In summer, containers may need 
 
 ## Related Concepts
 
-- [[pdc-water-harvesting-design]]
 - [[pdc-climate-and-microclimate]]
-- [[pdc-soil-strategies]]
 - [[hamilton-wildflower-meadow]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book; Permaculture Design Principles
 - [[gaias-garden-cover-crops-soil-building]]
-- [[permaculture-ground-cover-plants]]
 - [[hamilton-shade-garden-plants]]

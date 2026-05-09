@@ -117,11 +117,7 @@ administration) became the dominant mode of use for Anadenanthera.
 
 ## Related Topics
 
-- [[anadenanthera-entheogens]] - detailed entheogen profile
-- [[ayahuasca-and-dmt-plant-medicine]] - Cebil snuff details
-- [[yopo-anadenanthera-peregrina-snuff]] - Yopo snuff profile
+- [[ayahuasca-preparation-and-ceremony]] - Cebil snuff details
 - [[yopo-snuff]] - general Yopo reference
-- [[golden-guide-hallucinogenic-plants-dmt-containing-species]] - DMT
 - [[entheogen-jurema-mimosa-hostilis-ethnobotany]] - related snuffs
-- [[virola-snuff]] - Amazonian snuff tradition
 - [[hallucinogenic-plants-history-ethnobotany]] - general survey

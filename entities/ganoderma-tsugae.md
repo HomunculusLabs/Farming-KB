@@ -74,27 +74,6 @@ sterile bag culture on supplemented sawdust substrates. Submerged
 fermentation can also be employed for mycelial biomass production.
 
 ### Traditional Use
-Ganoderma tsugae is used similarly to [[reishi-ganoderma-lucidum]]) in
-traditional medicine. It is prepared as teas, decoctions, and
-powdered extracts. While Ganoderma lucidum is more widely known in
-traditional Chinese medicine, Ganoderma tsugae has been used
-indigenously in north america and is increasingly recognised as a
-viable substitute or complement to G. lucidum in therapeutic
-applications.
-
-## Relevance
-
-Ganoderma tsugae is significant as a North American native alternative
-to the well-established Ganoderma lucidum, offering similar medicinal
-properties from a locally available source. For growers, it represents
-a high-value medicinal mushroom that can be cultivated on hemlock and
-other hardwood substrates. The unique Fip-gts immunomodulatory protein
-and its well-characterised structural domains make this species
-particularly interesting for biopharmaceutical research. As demand for
-reishi products continues to grow globally, Ganoderma tsugae provides
-an important additional source of bioactive ganoderma compounds.
-
-## See Also
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
+Ganoderma tsugae is used similarly to [[tsuga-mertensiana]]
+- [[trametes-versicolor-entity]]
 - [[phellinus-linteus]]

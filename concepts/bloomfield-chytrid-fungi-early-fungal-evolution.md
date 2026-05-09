@@ -1,5 +1,5 @@
 ---
-title: Chytrid Fungi and Early Fungal Evolution
+title: Bloomfield Chytrid Fungi Early Fungal Evolution
 created: 2026-04-28
 tags:
   - mycology
@@ -45,10 +45,7 @@ Chytrids are found everywhere in freshwater habitats and wet soils.
 They are among the most ecologically diverse fungal groups, occupying
 roles as saprobes, parasites of plants and animals, and symbionts in
 the digestive systems of herbivores. Their dependence on water for
-spore dispersal restricts them to moist environments, but within these
-habitats they are remarkably abundant and diverse.
-
-## [[batrachochytrium-dendrobatidis]] and Amphibian Decline
+[[batrachochytrium-dendrobatidis]] and Amphibian Decline
 
 Recently, chytrids achieved fame by parasitizing frogs and toads.
 Biologists have been concerned by declining amphibian populations in
@@ -106,24 +103,5 @@ plant fiber (cellulose). By altering the chemical composition of this
 material, anaerobic chytrids facilitate the growth of other
 microorganisms critical to digestion, including the bacteria responsible
 for methane production. This food processing activity parallels the
-ecological role of [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] in streams.
-
-## Parasites of Aquatic Insects
-
-Chytrid species also infect mosquito larvae and other aquatic insects,
-algae, and oomycete fungi. This ecological breadth demonstrates the
-versatility of the chytrid body plan. Their simple thallus organization,
-lacking true hyphae in many species, represents an ancestral condition
-from which more complex fungal forms evolved. The chytrids remind us
-that not all fungi are terrestrial organisms growing as networks of
-hyphae; some have maintained a far more intimate relationship with
-water and the swimming life. Their position at the base of the fungal
-evolutionary tree makes them indispensable for understanding how the
-fungal kingdom diversified from aquatic ancestors into the vast
-terrestrial organisms we see today, including mushrooms, molds, and
-yeasts.
-
-## See Also
-
-- [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
+ecological role of [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
 - [[biodiversity-fungi-soil-fungal-communities]]

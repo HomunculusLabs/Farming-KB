@@ -8,12 +8,7 @@ tags:
   - food-processing
   - leaching
   - nutrition
-  - homesteading
-date: 2026-05-03
-updated: 2026-05-03
-sources:
-  - Suellen, S. "Acorns and Eat 'em." Caren C. Peterson, 1984.
-  - Bainbridge, D. A. "Use of Acorns for Food." Permaculture Activist, 2012.
+  - [[permaculture]] Activist, 2012.
   - USFS. "Acorns as Food: History, Processing, and Nutrition." USDA Forest Service, 2018.
   - McArthur, E. D. "Proceedings: Oak Woodlands and Hardwoods." USDA Forest Service RMRS, 2005.
   - Daniel, C. "Wild Plants I Have Known... and Eaten." Chelsea Green Publishing, 2010.
@@ -140,11 +135,7 @@ Acorns are rich in complex carbohydrates, healthy unsaturated fats, and minerals
 | **Leached whole acorn meats, frozen** | 6–12 months | Freeze in portion bags |
 | **Canned acorn mush** | 1+ year | Pressure canning required (low acid) |
 | **Dried, unprocessed shelled acorns** | 6 months | Process before they become rancid |
-
 ## Related Topics
 
-- [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone|Nut Tree Cultivation]]
 - [[food-forest-layers-and-species|Forest Gardening and Food Forests]]
-- [[lacto-fermentation-and-food-preservation-methods|Food Preservation and Storage]]
-- Homesteading Skills
 - [[query-how-to-grow-and-use-stinging-nettle|Stinging Nettle Foraging and Nutrition]]

@@ -119,8 +119,6 @@ Ingham emphasizes several areas where understanding remains incomplete:
 
 ## Related Concepts
 
-- [[ingham-molasses-types-brewing-effects|Molasses types and brewing effects]]
 - [[molasses-fungal-food-sticker-spreader-ingham|Molasses as fungal food and sticker-spreader]]
-- [[aact-fungal-dominant-tea|Fungal dominant compost tea]]
 - [[aact-bacterial-dominant-tea|Bacterial dominant compost tea]]
 - [[aact-brewing-ingredients-ingham|AACT brewing ingredients]]

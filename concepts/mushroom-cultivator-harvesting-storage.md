@@ -132,18 +132,10 @@ No matter the preservation technique, label each container with:
 - Date
 ## See Also
 
-- [[mushroom-cultivator-harvesting-preserving]]
-
 - [[natfarm-rainwater-harvesting-storage]]
 
-- [[cuthill-mushroom-cultivation-history-19th-century]]
 - [[cuthill-mushroom-growing-seasons-and-temperature]]
-- [[cuthill-mushroom-house-construction-and-management]]
 - [[cuthill-mushroom-bed-preparation-and-manure]]
-- [[cuthill-mushroom-spawn-preparation-historical]]
-
 - [[stamets-harvesting-drying-and-storage]] -- Stamets' harvesting chapter
-- [[mushroom-harvesting-techniques]] -- general harvesting techniques
 - [[mushroom-harvesting-storage-methods]] -- storage methods overview
-- [[mushroom-post-harvest-handling]] -- post-harvest handling
 - [[mushroom-harvesting-potency]] -- potency considerations

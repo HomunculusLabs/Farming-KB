@@ -128,8 +128,6 @@ Modern civilization, by contrast, has built its identity on the conquest of natu
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]
-- [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]

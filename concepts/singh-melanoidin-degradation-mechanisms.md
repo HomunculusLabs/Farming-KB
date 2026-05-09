@@ -122,8 +122,6 @@ removal also warrants additional study to optimize treatment processes.
 
 ## See Also
 
-- [[singh-distillery-wastewater-fungal-treatment]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-manganese-peroxidase-mnp-biodegradation]]
 - [[singh-fungal-bioreactor-types-configurations]]

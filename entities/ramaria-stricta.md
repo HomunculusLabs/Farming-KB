@@ -134,17 +134,10 @@ gastrointestinal distress including nausea, vomiting, and diarrhea.
 difficult to separate without microscopic examination of spore
 ornamentation.
 
-- **[[sarcodon-imbricatus]]** — Tooth fungus sharing similar forest
-  habitat but with a cap-and-stem morphology and spiny hymenium.
-- **[[trametes-versicolor]]** — Common wood-decomposing bracket fungus
+- **[[trametes-versicolor-entity]]** — Common wood-decomposing bracket fungus
   occupying similar niche on decaying logs, different growth form.
-- **[[hericium-erinaceus]]** — Wood-inhabiting fungus with branching
-  form but producing pendant spines, in the Hericiaceae.
-- **[[armillaria-mellea]]** — Root-rot pathogen and saprotroph sharing
+- **[[armillaria-mellea-entity]]** — Root-rot pathogen and saprotroph sharing
   forest-floor habitat, but forming agaricoid mushroom clusters.
-
 ## See Also
-
-- [[ramaria-formosa]]
 
 - [[boletus-edulis-entity]] — Ectomycorrhizal associate of the same temperate

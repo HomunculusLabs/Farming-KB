@@ -3,7 +3,7 @@ title: Mushroom Cultivation Overview
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 # Mushroom Cultivation Overview
@@ -41,7 +41,6 @@ Cultivation typically follows these stages:
 
 ### Stage 1: Spore Collection and Germination
 Spore prints are collected from mature caps. Spores are germinated on
-[[mushroom-agar-work]] to obtain mycelium. See
 [[mushroom-spore-syringe-and-inoculation]] for details on spore syringe
 preparation.
 ### Stage 2: Agar Culture and Strain Isolation
@@ -52,22 +51,13 @@ fruitbodies can also be cloned onto
 agar.
 ### Stage 3: Grain Spawn Preparation
 Pure mycelium is transferred from agar to sterilized grain (rye, brown rice,
-millet) to expand the mycelial mass. See [[mushroom-grain-spawn-preparation]].
-The colonized grain is called "spawn" and serves as inoculum for larger
-substrates.
-### Stage 4: Substrate Colonization
-Spawn is mixed with a bulk substrate appropriate to the species:
-- **Dung-loving species** (P. cubensis, Panaeolus): straw, manure, composted substrates
-- **Wood-loving species** (P. azurescens, P. cyanescens): hardwood chips, sawdust, supplemented wood
-
-See [[mushroom-substrate-recipes]] for substrate formulations.
+millet) to expand the mycelial mass. See [[mushroom-substrate-recipes]] for substrate formulations.
 
 ### Stage 5: Fruiting
 Once fully colonized, the substrate is introduced to fruiting conditions --
 appropriate temperature, humidity, fresh air exchange (FAE), and light. A
 casing layer (non-nutritive soil mix) may be applied to induce pinning for
-some species. See [[mushroom-fruiting-chamber-designs]] and
-[[mushroom-lighting-and-environmental-requirements]].
+some species. See [[mushroom-lighting-and-environmental-requirements]].
 ### Stage 6: Harvest and Preservation
 Mushrooms are harvested before or just as the veil tears for maximum potency.
 They are dried using desiccant or a dehydrator and stored
@@ -85,10 +75,6 @@ weeks.
 Mycelium is grown on sterilized rye grain, then mixed with a pasteurized bulk
 substrate (coir, manure, straw) in a larger container. Higher yields than PF
 TEK but requires a pressure cooker and more
-[[mushroom-sterile-technique]].
-### Outdoor Woodlover Beds
-Wood-loving species (P. azurescens, P. cyanescens) are grown on sterilized
-wood chips, then expanded into outdoor beds. See
 [[outdoor-wood-lover-cultivation]].
 ### Panaeolus Cultivation
 Panaeolus cyanescens and P. tropicalis require a dung-based substrate (dried

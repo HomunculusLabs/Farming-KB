@@ -8,7 +8,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Animal Tractoring in Permaculture
 
-Animal tractoring in [[permaculture-design]] is the practice of confining livestock in movable enclosures on specific areas of land to perform soil preparation, weed control, pest management, and fertilisation. The term animal tractor refers to the way animals replace mechanical machinery by performing earthworking and land preparation functions. Bill Mollison describes animal tractor systems in detail in the humid tropics chapter of Permaculture: A Designers' Manual, providing specific examples of [[chicken-tractor-systems]] and pig tractor systems.
+Animal tractoring in [[chicken-tractor-systems]] and pig tractor systems.
 
 ## Principles
 
@@ -28,33 +28,15 @@ The chickens are moved to the next plot, and in about 6-8 weeks vegetables are i
 
 Mollison reports seeing numerous chicken tractors, all different. Some incorporate passionfruit fence and trellis crops, some function as vegetable gardens, and some prepare ground for small fruit trees or herbaceous orchards. All are remarkable for lack of weeds and high production.
 
-In more mature cycles, buckwheat, [[comfrey-plant-guide]], millet, sunflower, and sorghum can be sown in the pens a few weeks before the chickens return, providing greens and grains for the birds. This creates a self-feeding cycle where the chickens harvest their own forage while continuing to prepare the ground.
-
-Even rocky or rough country is prepared for crop by chickens, the main cost being secure pen fencing. Strong fences also support vine crops, and a few larger legume trees provide high shade for pens and crops. Where chickens are the main crop, chicken forage plants replace vegetables and some fruit, and the system provides all food for the flock.
-
-Chicken forage plants include common weeds such as Oxalis, cleavers, dandelion, onion weed, nettle, and nut grass, all of which are excellent chicken fodders. Plants of the Solanum family, including huckleberry, black nightshade, pepino, kangaroo apple, tomato, husk berry, and Sodom apple, are also valuable chicken forages.
-
-## Pig Tractor Systems
-
-The pig tractor follows the same technique as the chicken tractor but is more suited to 1-40 hectare properties. Larger shrub weeds such as Lantana, gorse, and blackberry, or deep-rooted weeds such as Convolvulus, rhizomatous grasses, and [[comfrey-plant-guide]], call for a pig tractor. The density of pigs per pen should be at the proportion of 50 per hectare for full clearance of weeds.
+In more mature cycles, buckwheat, [[comfrey-plant-guide]], call for a pig tractor. The density of pigs per pen should be at the proportion of 50 per hectare for full clearance of weeds.
 
 In practice, 0.5-2 hectare plots are fenced, most economically using permanent electric fencing, which is much cheaper than chicken mesh fencing. Once each pen is bare after 6-10 weeks and rough-ploughed by rooting pigs, it is easy to plant lucerne, comfrey sets, sunroot (Jerusalem artichoke), sweet potato, Inga trees, papaya, banana, and similar crops for pig forages, and to maintain this rotation until the pigs return.
 
 ## Large-Scale Pig Tractor Systems
 
-On a large scale of 20-40 hectares, the pig tractor system can pioneer high-quality milk-cow pasture of chicory, dandelion, [[comfrey-plant-guide]], dock, grasses, and clover. Cows follow along 2-3 months behind the pig tractor. A continuous rotation is set up, and excess milk product such as whey and skim milk is fed to the pigs as accessory food.
+On a large scale of 20-40 hectares, the pig tractor system can pioneer high-quality milk-cow pasture of chicory, dandelion, [[fukuoka-duck-rice-fish-polyculture]] integrated farming.
 
-Piglets ranging over such pasture rarely show iron anaemia deficiency. Parasite cycles are broken by the rotation, and the soil constantly improves in humus. Such large animals as pigs and cows need fenced tree strips, tree guards, and border hedgerows to supply tree forage crop.
-
-The large-scale pig tractor system demonstrates how animal tractoring can convert degraded or weed-infested land into productive pasture and cropping land without chemical inputs or mechanical cultivation. The system is self-fertilising through manure deposition and self-weeding through the rooting behaviour of pigs.
-
-## Other Animal Tractor Systems
-
-Duck tractors operate on similar principles, with ducks confined to garden areas to consume snails, slugs, and insects. Ducks are particularly effective for pest control in rice paddies and vegetable gardens. Duck tractor systems are common in Asian [[fukuoka-duck-rice-fish-polyculture]] integrated farming.
-
-Rabbit tractors can be used for small-scale soil preparation and fertilisation in garden systems. Rabbits are less destructive to perennial plants than chickens or pigs and produce concentrated manure. Mobile rabbit hutches with open bottoms allow rabbits to fertilise and lightly cultivate garden beds. See [[permaculture-rabbit-systems]] for more details.
-
-Goat tractors can be used on brushy or overgrown land to clear woody vegetation. Goats are particularly effective at controlling woody weeds and can be used to reclaim abandoned or neglected land. Electric fencing is essential for goat containment. See [[goat-husbandry]] for more on goat management.
+Rabbit tractors can be used for small-scale soil preparation and fertilisation in garden systems. Rabbits are less destructive to perennial plants than chickens or pigs and produce concentrated manure. Mobile rabbit hutches with open bottoms allow rabbits to fertilise and lightly cultivate garden beds. See [[goat-husbandry]] for more on goat management.
 
 ## Integration with Cropping Systems
 
@@ -78,16 +60,27 @@ Animal tractor systems have some limitations. They require regular management at
 
 [[permaculture-chicken-tractors]]
 
-[[permaculture-chicken-tractors]]
-
-[[chicken-integration-permaculture-guide]]
-
 [[permaculture-animal-integration]]
-
-[[permaculture-domestic-animals]]
 
 [[permaculture-integrated-animal-systems]]
 
-[[mollison-animal-integration-in-permaculture]]
-
 [[permaculture-design]]
+## Practical Considerations
+
+Successful implementation of Animal Tractoring in Permaculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

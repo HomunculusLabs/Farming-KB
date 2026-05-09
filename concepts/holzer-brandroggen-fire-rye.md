@@ -86,8 +86,6 @@ Brandroggen literally means "fire rye" -- rye varieties sown after plant matter 
 
 Every single product of the threshing and winnowing process is used on the farm. Nothing is wasted -- the blind ears become bedding or feed, broken grains feed chickens, stalks provide scratching material, and only the finest clean grain is used for seed and bread. This complete utilization serves as an example against modern throw-away culture.
 
-See also: [[holzer-ancient-cereals-growing]], [[grain-harvesting-and-storage]], [[grain-processing-and-milling-guide]], [[small-scale-grain-growing]]
-- [[holzer-ancient-cereals-growing]]
+See also: [[grain-harvesting-and-storage]], [[small-scale-grain-growing]]
 - [[holzer-old-varieties-and-seed-saving]]
-- [[holzer-stone-fruit-varieties-and-growing]]
 - [[microfungi-wood-plant-debris-survey]]

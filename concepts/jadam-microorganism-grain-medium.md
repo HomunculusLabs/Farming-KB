@@ -63,34 +63,7 @@ lactic acid bacteria and yeasts -- over pathogens.
 
 ### Placement
 1. Place steamed rice in a bamboo basket or on a wooden tray
-2. Cover with [[leaf-mold-composting]] (1-2 cm layer on top)
-3. Place in a shaded, well-ventilated location in the field
-4. Ideal spots: under trees, near hedgerows, edges of fields
-5. Elevate off the ground slightly (prevents soil contamination)
-
-### Time
-- Leave for **5-7 days** in warm weather (25-30C / 77-86F)
-- Leave for **7-14 days** in cooler weather
-- Rice is ready when white mycelium covers the surface
-- Sweet/sour smell indicates healthy fermentation
-- Bad smell (putrid) indicates failure -- discard and retry
-
-### What Grows
-- White cottony growth = beneficial fungi (most desirable)
-- Sweet-sour smell = lactic acid bacteria (excellent)
-- Yeast-like aroma = yeast fermentation (good)
-- Black, green, or putrid = contamination (discard)
-
-## From Grain Medium to JMS
-
-Once the grain is colonized:
-1. Take the fermented grain + leaf mold mixture
-2. Add to water at approximately 1:10 ratio (grain medium to water)
-3. Add additional leaf mold (handful per 100 L)
-4. Optionally add brown sugar or wild honey (1-2 kg per 500 L) to boost
-   microbial activity
-5. Ferment 3-7 days with lid loosely closed
-6. This becomes your [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
+2. Cover with [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 
 ## Grain-to-JMS Ratios Summary
 
@@ -111,13 +84,9 @@ Once the grain is colonized:
 
 ## Related
 
-- [[jadam-microorganism-solution-jms]] -- complete JMS method
 - [[jadam-customized-microorganism-medium]] -- tailoring for specific crops
-- [[leaf-mold-composting]] -- essential ingredient and microbial inoculant
 - [[beneficial-indigenous-microorganisms-bim]] -- broader IMO context
-- [[jadam-making-organic-farming-inputs]]
 - [[jadam-leaf-mold-soil-method]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[jadam-leaf-mold-as-ideal-soil]]
 
 ## See Also

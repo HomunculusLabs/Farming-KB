@@ -137,13 +137,7 @@ changes and their willingness to comply with new restrictions.
 The UK prohibition was estimated to have affected approximately 300 shops and market
 ## See Also
 
-- [[amanita-muscaria]]
 - [[amanita-pantherina]]
-- [[argyreia-nervosa]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]] for the full overview
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] for smartshop
-  analysis
 - [[emcdda-hallucinogenic-mushroom-legal-loopholes]] for retailer legal strategies
-- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]] for
-  legislative timeline
 - [[emcdda-hallucinogenic-mushroom-dose-effects]] for pharmacology information

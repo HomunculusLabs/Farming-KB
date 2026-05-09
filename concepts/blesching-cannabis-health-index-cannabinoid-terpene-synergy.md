@@ -91,17 +91,13 @@ Pharmaceuticals like Dronabinol (synthetic THC) and Nabilone contain single cann
 
 ## Related
 
-- [[blesching-cannabis-health-index-autoimmune-conditions]] Topics
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - blesching-cannabis-health-index-inflammatory-conditions
 - endocannabinoid-system
 - sativa-vs-indica
 - entourage-effect
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
 - blesching cannabis health index cannabinoid terpene synergy
-- [[cannabis-terpene-entourage-effect]]
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[cannabis-for-cachexia-and-appetite-stimulation]]

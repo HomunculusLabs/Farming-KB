@@ -66,16 +66,6 @@ Also called English or Persian mulberry (native to Persia). Small rounded tree s
 ### Red Mulberry (M. rubra)
 Native to eastern and central United States. Ripe fruits eaten fresh or made into preserves, jellies, and pies. Dried fruit mixed with almond meal for confectionery. Young shoots and unfolded leaves eaten raw or boiled.
 
-## [[permaculture-feijoa]] (Feijoa sellowiana)
-
-Family: MYRTACEAE
-
-Also called pineapple guava. A bushy, evergreen shrub (1-6 m) native to southern Brazil, northern Argentina, western Paraguay, and Uruguay. Prefers deep, rich, organic soil kept summer-moist. Drought tolerant but produces less fruit under drought stress. Prefers a cool season and better-flavoured fruit in cooler regions. Tolerates temperatures to -11C. Shallow fibrous root system.
-
-Fruit has the flavour suggested by the name pineapple guava -- delicious out of hand, also valuable in fruit salads. High in pectin, makes good jelly. Good windbreak species.
-
-Nutritional per 100g: Water 84%, Protein 0.9g, Iodine 0.165-0.39mg, Ascorbic acid 28-35mg.
-
 ## [[permaculture-pawpaw]] (Asimina triloba)
 
 Family: ANNONACEAE
@@ -111,12 +101,9 @@ Deciduous tree native to Japan, China, and the Himalayas. Suited to temperate an
 - **Multi-layer design**: Combine tall trees (mulberry, persimmon) with understory shrubs (feijoa) and ground covers
 - **Season extension**: Loquat fruits in spring, persimmon and feijoa in autumn/winter, pawpaw in autumn
 - **Frost pockets**: Feijoa, jujube, and olive are most frost-hardy; protect loquat flowers and pawpaw from late frosts
-- **[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]**: All fruit trees benefit from [[permaculture-tagasaste]], lucerne, garlic, and Albizia lophantha as companions
+- **[[permaculture-tagasaste]], lucerne, garlic, and Albizia lophantha as companions
 
 ## See Also
 
-- [[cercis-canadensis]]
-
 - [[permaculture-plants-fruit-trees-selection]] - broader fruit tree categories and principles
-- [[permaculture-plants-fruit-trees-subtropical]] - subtropical fruit species
 - [[permaculture-plants-legume-trees-acacia-carob-locust]] - companion nitrogen fixers

@@ -119,9 +119,7 @@ climates.
 ## See Also
 
 - fennel
-- [[foeniculum-vulgare-entity]]
 - [[glycyrrhiza-glabra]]
-- [[ocimum-basilicum]]
 - [[piper-nigrum-entity]]
 - [[zingiber-officinale]]
 - cuminum cyminum

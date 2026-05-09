@@ -140,11 +140,7 @@ structure, providing sustained humidification. Unlike vermiculite, perlite
 does not absorb and hold water but instead wicks it upward for gradual
 evaporation over weeks. Cakes can be placed directly on the perlite, where
 wick-like action transfers moisture directly to the cakes.
-
 ## See Also
-- [[oss-oeric-terrarium-design-and-humidity]]
 - [[community-garden-design]]
-- [[stamets-casing-layer-design]]
-
 - [[pf-tek-overview-and-history]]
 - [[fruiting-conditions-and-harvesting]]

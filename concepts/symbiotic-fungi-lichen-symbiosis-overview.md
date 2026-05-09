@@ -85,15 +85,9 @@ In the case of lichens, the integration is so complete that the dual organism fu
 
 ## See Also
 
-- [[lichens]]
 - [[lichen-biology-guide]]
-- [[lichen-symbiosis-mechanisms-photobiont-selection]]
 - [[lichen-ecology-environmental-sensitivity]]
-- [[lichen-ecology-and-soil-formation]]
 - [[lichenized-fungi-biology-ecology-diversity]]
-- [[lichenized-fungi-detailed]]
 - [[lichenized-fungi-taxonomy-diversity]]
-- [[lichenicolous-fungi]]
 - [[symbiotic-fungi-lichen-symbiosis-mechanisms]]
-- [[symbiotic-fungi-lichen-symbiosis-agriculture]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]

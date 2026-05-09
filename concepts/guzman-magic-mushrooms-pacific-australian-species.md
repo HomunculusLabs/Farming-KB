@@ -1,7 +1,7 @@
 ---
 title: Pacific and Australian Neurotropic Mushroom Species
 created: 2026-04-28
-tags: [mycology, australian-fungi, pacific-islands, psilocybin-mushrooms, new-zealand]
+tags: [[mycology, australian-fungi, pacific-islands, psilocybin-mushrooms, new-zealand]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -52,11 +52,6 @@ Allen et al. (1991).
 - **Amanita muscaria**: Introduced and naturalized; documented by
   Cleland (1976)
 - **Copelandia cyanescens**: Present; confirmed by Pollock (1976)
-- **[[gymnopilus-spectabilis-entity]]** and **G. purpuratus**: Both present
-- **Panaeolina foenisecii**: Widespread; documented by Southcott (1974)
-- **Panaeolus** species: P. ater, P. fimicola, P. olivaceus, P.
-  papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus
-- **Claviceps paspali** and **C. purpurea**: Both present
 - **[[gerronema-fibula]]**: Documented from Australia
 
 ## Tasmania
@@ -99,45 +94,6 @@ New Zealand has a notable neurotropic mycoflora documented by Allen et al.
 - **P. tasmaniana**: Shared with Australia and Tasmania
 - **Amanita muscaria**: Present in New Zealand (introduced)
 - **Copelandia cyanescens**: Present in New Zealand
-- **[[gymnopilus-purpuratus]]** and **G. spectabilis**: Both present
-- **Panaeolina foenisecii** and **Panaeolus subbalteatus**: Present
-
-## Oceania and Pacific Islands
-
-### Hawaii
-- **Copelandia cyanescens**: Abundant; confirmed by Heim et al. (1966a)
-- **C. anomala**, **C. bispora**, **C. cambodginiensis**, **C.
-  tropicalis**: All present
-- **Amanita muscaria**: Present (Merlin and Allen, 1993)
-- **Panaeolus subbalteatus** and **P. sphinctrinus**: Present
-- **Psilocybe cubensis**: Questionably reported (Allen, 1998)
-
-### Other Pacific Islands
-- **Fiji**: C. cyanescens and P. cubensis
-- **Samoa**: C. cyanescens used traditionally (Cox, 1981)
-- **Bonin Islands**: C. tropicalis (Hongo, 1977a)
-- **New Caledonia**: Hypholoma neocaledonica (endemic)
-- **Solomon Islands**: Gerronema fibula
-- **Macquarie Island (sub-Antarctic)**: Panaeolus mollearius,
-  one of the southernmost neurotropic records
-
-## Biogeographic Significance
-
-The Australasian-Pacific neurotropic mycoflora reveals important
-biogeographic connections:
-1. The close relationship between P. aucklandii (New Zealand) and P.
-   zapotecorum (Mexico/South America) suggests ancient Gondwanan
-   connections or trans-Pacific dispersal
-2. P. samuiensis (Thailand) is closely related to P. mexicana (Mexico)
-3. P. makarorae (New Zealand) represents a unique southern hemisphere
-   lineage
-4. The presence of P. subaeruginosa in Australia and its absence from
-   South America suggests independent evolution in the southern
-   hemisphere
-
-## See Also
-
-- [[guzman-magic-mushrooms-global-biogeography]] for worldwide patterns
-- [[guzman-magic-mushrooms-neotropical-species]] for American species
+- **[[guzman-magic-mushrooms-global-biogeography]] for worldwide patterns
 - [[guzman-magic-mushrooms-asian-species]] for Southeast Asian and New
   Guinea species

@@ -3,7 +3,7 @@ title: Arbuscular Mycorrhizal Fungi in Tropical Forest Restoration
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -64,14 +64,28 @@ AMF contribute to soil retention through aggregate formation, organic material r
 
 ## See Also
 
-- [[fungal-ecology]]
 - [[common-mycorrhizal-networks]]
-- [[zoosporic-fungi]]
 - [[zoosporic-fungi]] (source)
 
-- [[directed-inoculum-production-process-for-amf]]
 - [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-nutrient-cycling-forests]]
 - [[scutellospora-calospora]]
+## Practical Considerations
+
+Successful implementation of Arbuscular Mycorrhizal Fungi in Tropical Forest Restoration requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

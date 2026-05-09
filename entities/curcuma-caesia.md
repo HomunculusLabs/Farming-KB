@@ -105,12 +105,8 @@ Conservation through cultivation is increasingly promoted. Several Indian agricu
 
 ## See Also
 
-- [[curcuma-longa]]
 - [[zingiber-officinale]]
-- [[alpinia-galanga]]
 - [[kaempferia-galanga]]
-- [[elettaria-cardamomum]]
 - [[curcuma-zedoaria]]
-- [[boesenbergia-rotunda]]
 - [[hedychium-coronarium]]
 - [[withania-somnifera]]

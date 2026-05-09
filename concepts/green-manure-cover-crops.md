@@ -72,19 +72,10 @@ Do not let the crop become too woody before digging in, or the rotting process w
 Key points:
 - Cut plants at the base and leave to wilt before digging
 - Do not bury material deeper than about 6in (15cm)
-- If the crop has become woody, apply liquid [[kelp-meal-fertilizer]] or [[hamilton-animal-manure-types-and-use]] tea to assist decomposition
+- If the crop has become woody, apply liquid [[hamilton-animal-manure-types-and-use]] tea to assist decomposition
 - Dig in before flowering## Related
 
-- [[sinapis-alba]] Topics
-
 - [[animal-manure-guide]] — animal manure as an alternative or supplement
-- [[crop-rotation-benefits]] — fitting green manure into the rotation cycle
 - [[garden-bed-preparation]] — incorporating green manure during bed preparation
-- [[ground-cover-plants]] — permanent ground cover options
-
-## Source
-
-Based on *Organic Gardening* by Geoff Hamilton.
 - [[nitrogen-fixing-trees-and-shrubs]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[gaias-garden-cover-crops-soil-building]]

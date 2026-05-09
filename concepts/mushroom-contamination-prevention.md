@@ -1,7 +1,7 @@
 ---
 title: Mushroom Contamination Prevention
 created: 2026-04-28
-tags: [mycology, contamination, sterile-technique, biosecurity, hygiene]
+tags: [[mycology, contamination, sterile-technique, biosecurity, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -57,17 +57,7 @@ synergistically; failure in any single area compromises the entire protocol.
 ## Facility Design and Workflow
 
 Cultivation facilities should follow a unidirectional workflow from dirty to
-clean zones. [[substrate-preparation]] occurs in a separate area from inoculation
-and incubation. The cleanest area is reserved for sterile work (agar work,
-spawn production). Physical barriers between zones reduce cross-contamination.
-Positive pressure with HEPA-filtered air in the sterile work area prevents
-unfiltered air from entering during door openings. Floors and walls in the
-inoculation area should be smooth, non-porous, and easily cleanable. Regular
-cleaning schedules with appropriate disinfectants (quaternary ammonium
-compounds, bleach solutions at 500 ppm available chlorine) maintain baseline
-sanitation.
-
-## Pasteurization vs. [[sterilization]]
+clean zones. [[sterilization]]
 
 Pasteurization (heating to 60 to 80 degrees Celsius) reduces microbial load by
 killing most organisms while preserving beneficial thermotolerant bacteria. It
@@ -92,8 +82,6 @@ water purity.
 
 ## Related Concepts
 
-- [[oyster-mushroom-spawn-preparation]] describes sterile work during grain
-  inoculation where contamination prevention is most critical
 - [[oyster-mushroom-substrate-preparation]] covers pasteurization and
   sterilization methods that suppress competitors
 - [[oyster-mushroom-fruiting-environment]] addresses managing the growing

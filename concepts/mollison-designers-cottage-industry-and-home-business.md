@@ -66,43 +66,17 @@ the mollison designers nutrient cycling loop.
 
 Beyond food processing, Mollison advocates for the revival of craft skills
 and small-scale manufacturing at the village level. Timber from
-[[mollison-designers-conifer-forestry-and-timber]] can be converted into
-furniture, building components, tools, and craft items using small-scale
-sawmilling and woodworking equipment. Natural fibres from
 [[mollison-designers-broadacre-grain-and-pasture-design]] systems (wool, hemp,
 flax) can be processed into textiles, rope, and paper. Clay and stone
-from [[mollison-designers-earth-building-cob-adobe-rammed-earth]] provide
-materials for pottery, sculpture, and construction.
-
-These craft enterprises are inherently energy-efficient compared to
-industrial manufacturing because they use human skill rather than
-energy-intensive machinery, process materials locally rather than
-transporting goods across continents, and produce durable goods designed
-for repair and longevity rather than planned obsolescence. Mollison sees
-craft production as both an economic strategy and a cultural practice that
-maintains knowledge, skills, and aesthetic traditions within communities.
-
-## Service-Based Home Enterprises
-
-Many permaculture-related enterprises are service-based rather than
-product-based. Landscape design and installation, permaculture
-consulting and teaching, plant nursery operation, seed production and
-[[mollison-designers-community-seed-banks-and-exchange]] management,
+from [[mollison-designers-community-seed-banks-and-exchange]] management,
 composting services, and small-scale renewable energy installation all
 represent viable home-based business opportunities that draw directly
 on permaculture knowledge and skills.
 
 Mollison emphasises that the demand for permaculture-related services is
 growing as awareness of environmental limits increases. Practitioners who
-develop expertise in specific areas such as [[mollison-designers-rainwater-harvesting-swale-systems]],
-[[mollison-designers-earthworks-for-erosion-control]], or
-[[mollison-designers-food-forest-succession-design]] can
-build successful consulting practices while simultaneously improving
-their local environment and building community resilience.
-
-## Integration with Home and Settlement Design
-
-Cottage industry must be physically integrated into [[mollison-designers-settlement-village-design]] from
+develop expertise in specific areas such as [[mollison-designers-earthworks-for-erosion-control]], or
+[[mollison-designers-settlement-village-design]] from
 the outset. Mollison recommends allocating dedicated workspace within or
 adjacent to residential buildings, with appropriate access for materials
 and customers. Processing facilities should be located in Zone 1 or Zone
@@ -135,9 +109,6 @@ with the source of their food and goods.
 
 ## Cross-References
 
-- [[mollison-designers-settlement-village-design]]: Enterprise space planning
-- mollison designers nutrient cycling: Processing waste cycling
 - [[mollison-designers-conifer-forestry-and-timber]]: Timber processing
-- [[mollison-designers-community-seed-banks-and-exchange]]: Seed enterprises
 - [[mollison-designers-rainwater-harvesting-swale-systems]]: Water consulting
 - [[mollison-designers-food-forest-succession-design]]: Orchard-based products

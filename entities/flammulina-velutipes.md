@@ -89,8 +89,6 @@ unique protein-based (rather than polysaccharide-based) anti-cancer
 compound from fungi.
 
 ## See Also
-- [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]
-- [[grifola-frondosa]]
 - [[agaricus-blazei]] (Himematsutake)
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

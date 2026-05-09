@@ -124,9 +124,6 @@ recognition of its value that extends beyond casual or opportunistic use.
 
 ## See Also
 
-- [[golden-guide-datura-and-nightshade-deliriants]]
 - [[culebra-borrachera-methysticodendron-amesianum]]
-- [[iochroma-fuchsioides-borrachera-ethnobotany]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
-- [[golden-guide-ayahuasca-and-caapi]]
 - [[golden-guide-hallucinogenic-plants-overview]]

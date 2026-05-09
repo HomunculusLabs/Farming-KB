@@ -8,30 +8,7 @@ sources: []
 ---
 # Psychedelic Therapy Models Comparison
 
-Psychedelic-assisted therapy encompasses a diverse range of approaches, from rigorously controlled clinical protocols to indigenous ceremonial traditions that predate modern medicine by millennia. Each model operates from different assumptions about the nature of healing, the role of the guide or therapist, the appropriate dose, and the importance of preparation and integration. This comparison covers five major models. For historical context, see [[lsd-therapeutic-history]]. Set and setting principles are covered in [[psychedelic-therapy-set-and-setting]] and integration practices in [[philosophical-implications-of-psychedelics]].
-
-## Model Comparison Table
-
-| Model | Typical Substance | Dose Level | Number of Sessions | Therapist/Guide Role | Integration | Setting | Legal Status (2026) |
-|-------|------------------|------------|-------------------|---------------------|-------------|---------|---------------------|
-| **Psycholytic Therapy** | LSD, psilocybin | Low-Moderate (sub-breakthrough) | 10-30+ sessions over months | Active analyst; interprets experience during session | Extended psychotherapy; interpretive | Clinical office | Research only |
-| **Psychedelic Therapy (Grof)** | LSD, Holotropic Breathwork | High (breakthrough/s mystical) | 1-3 sessions | Non-directive sitter; minimal intervention | Integration therapy after session | Clinical, dim room, eyeshades, music | Research only |
-| **MAPS MDMA Protocol** | MDMA | Full therapeutic (80-120 mg + 40-60 mg booster) | 3 sessions over 12 weeks | Co-therapist pair; supportive presence | Extensive preparation (3 sessions) + integration (3+ sessions) | Clinical; comfortable room, music, eyeshades | FDA breakthrough therapy; approved in some countries |
-| **Johns Hopkins Psilocybin Protocol** | Psilocybin | High (20-30 mg/70 kg) | 1-2 sessions | Guide pair; supportive, non-directive | Preparation + integration sessions | Clinical; living-room-like, music, eyeshades | Research only; expanded access |
-| **Indigenous Ceremony** | Ayahuasca, psilocybin, peyote, iboga, San Pedro | Moderate-High (ceremonial dose) | Ongoing (ceremony cycle) | Curandero/shaman/facilitator; active guide | Community-based; ceremonial context | Traditional ceremonial space (maloca, teepee, temple) | Varies; legal in some countries, decriminalized in others |
-
-## Detailed Model Breakdown
-
-### Psycholytic Therapy
-
-Developed in the 1950s-60s by European psychiatrists (Sandison, Leuner), psycholytic therapy uses sub-breakthrough doses of LSD or psilocybin administered in a series of 10-30+ sessions. The dose is calibrated to lower psychological defenses while maintaining ego awareness, allowing the patient to explore traumatic material, unconscious conflicts, and emotional patterns in a psychoanalytic framework. The therapist takes an active role, engaging with the patient during the experience to interpret symbols, explore emotions, and work through psychological material.
-
-**Key features:** Low-moderate doses, many sessions, active therapist engagement, psychoanalytic framework, emphasis on verbal processing during the experience.
-**Evidence base:** Historical studies showed efficacy for neurosis, depression, and personality disorders. Limited modern research.
-
-### Psychedelic Therapy (Grof Model)
-
-[[stanislav-grof]] developed this approach at Spring Grove State Hospital in the 1960s. Unlike psycholytic therapy, it uses high doses intended to produce a full mystical or ego-dissolution experience. The therapist acts as a non-directive sitter — present, reassuring, but not interpreting. Music is carefully curated to support the emotional arc of the experience. Grof later developed Holotropic Breathwork as a drug-free method to access similar non-ordinary states.
+Psychedelic-assisted therapy encompasses a diverse range of approaches, from rigorously controlled clinical protocols to indigenous ceremonial traditions that predate modern medicine by millennia. Each model operates from different assumptions about the nature of healing, the role of the guide or therapist, the appropriate dose, and the importance of preparation and integration. This comparison covers five major models. For historical context, see [[psychedelic-therapy-set-and-setting]] and integration practices in [[stanislav-grof]] developed this approach at Spring Grove State Hospital in the 1960s. Unlike psycholytic therapy, it uses high doses intended to produce a full mystical or ego-dissolution experience. The therapist acts as a non-directive sitter — present, reassuring, but not interpreting. Music is carefully curated to support the emotional arc of the experience. Grof later developed Holotropic Breathwork as a drug-free method to access similar non-ordinary states.
 
 **Key features:** High doses, 1-3 sessions, non-directive sitter, music as therapeutic tool, emphasis on perinatal matrices and transpersonal experiences.
 **Evidence base:** Historical studies for alcoholism, terminal illness anxiety, and neurosis. Modern influence on Johns Hopkins and MAPS approaches.
@@ -69,11 +46,65 @@ Indigenous psychedelic traditions span thousands of years and multiple continent
 
 ## Verdict
 
-No single model is universally superior. The MAPS MDMA protocol has the strongest empirical evidence for PTSD and is closest to mainstream medical acceptance. The Johns Hopkins psilocybin protocol has demonstrated broad efficacy across conditions. Indigenous ceremonies offer the deepest cultural and spiritual context but lack standardized protocols and carry additional risks from plant preparations (MAOI interactions with ayahuasca, cardiac risks with iboga). Psycholytic therapy's strength is in its depth — many sessions allow for sustained therapeutic work but require significant time commitment. For individuals seeking structured, evidence-based treatment, the MAPS and Hopkins models are the most accessible as research expands. For those drawn to spiritual and communal contexts, indigenous ceremonies provide a fundamentally different healing paradigm that modern clinical models are only beginning to understand. See [[philosophical-implications-of-psychedelics]] for practical integration guidance applicable across all models.
-
-## Related
-
-- [[claude-naranjo]]
-- [[johns-hopkins-psychedelic-research]]
+No single model is universally superior. The MAPS MDMA protocol has the strongest empirical evidence for PTSD and is closest to mainstream medical acceptance. The Johns Hopkins psilocybin protocol has demonstrated broad efficacy across conditions. Indigenous ceremonies offer the deepest cultural and spiritual context but lack standardized protocols and carry additional risks from plant preparations (MAOI interactions with ayahuasca, cardiac risks with iboga). Psycholytic therapy's strength is in its depth — many sessions allow for sustained therapeutic work but require significant time commitment. For individuals seeking structured, evidence-based treatment, the MAPS and Hopkins models are the most accessible as research expands. For those drawn to spiritual and communal contexts, indigenous ceremonies provide a fundamentally different healing paradigm that modern clinical models are only beginning to understand. See [[claude-naranjo]]
 - [[maps-multidisciplinary-association-for-psychedelic-studies]]
 - [[psychedelic-research-legal-history-united-states]]
+## Practical Considerations
+
+When working with Psychedelic Therapy Models Comparison, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

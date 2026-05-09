@@ -117,16 +117,9 @@ Palmer's work was foundational in establishing:
 
 ## Related
 
-- [[amanita-poisoning-amanitine-toxicology]] Pages
-
 - [[amanita-genus-morphology]]
-- [[amanita-muscaria-guide]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
-- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[mushroom-poisoning-guide]]
-- [[mushroom-poisoning-and-lookalikes]]
 - [[mushroom-foraging-safety]]
-- [[classical-roman-mushroom-poisoning]]
 - [[european-mushroom-poisoning-history]]
-- [[mushroom-foraging-safety]]
 - [[mushroom-toxicology-palmer-theory]]

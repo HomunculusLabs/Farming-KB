@@ -82,7 +82,7 @@ The book concentrates on diseases and conditions for which cannabis shows promis
 
 ## Evidence-Based Strain and Form Considerations
 
-The CHI system also incorporates strain-specific and form-specific considerations, recognizing that different cannabis varieties present with different [[cannabinoid-biosynthesis-pathway]] and [[cannabis-terpenoid-profiles-detailed]] profiles. sativa-dominant strains, indica-dominant strains, and their respective hybrids can produce different therapeutic outcomes for the same condition. The CHI methodology accounts for these differences by noting which specific strains, preparations, and cannabinoid profiles were used in each study.
+The CHI system also incorporates strain-specific and form-specific considerations, recognizing that different cannabis varieties present with different [[cannabis-terpenoid-profiles-detailed]] profiles. sativa-dominant strains, indica-dominant strains, and their respective hybrids can produce different therapeutic outcomes for the same condition. The CHI methodology accounts for these differences by noting which specific strains, preparations, and cannabinoid profiles were used in each study.
 
 This strain-specific dimension is particularly important because the therapeutic effects of cannabis are not attributable to any single compound but rather to the interactive effects of multiple cannabinoids and terpenoids working together, a phenomenon sometimes referred to as the entourage effect. The CHI system acknowledges this complexity by noting the specific cannabis preparations used in each study wherever possible.
 
@@ -110,11 +110,11 @@ Each CHI disease entry includes qualitative healing tools that complement the qu
 - **Suggested Blessings**: Inspirational statements that patients can use or adapt to support their healing intention
 - **Suggested Affirmations**: Positive self-statements designed to reinforce healing-oriented belief patterns
 
-These tools reflect Blesching's integration of [[mind-body-medicine]] with evidence-based cannabis science, providing patients with a comprehensive therapeutic framework that addresses both the biochemical and psychosocial dimensions of illness.
+These tools reflect Blesching's integration of mind body medicine with evidence-based cannabis science, providing patients with a comprehensive therapeutic framework that addresses both the biochemical and psychosocial dimensions of illness.
 
 ## Integration with Mind-Body Medicine
 
-The CHI methodology is unique among cannabis evidence-rating systems in that it explicitly integrates [[mind-body-medicine]] considerations alongside pharmacological evidence. Each disease entry includes not only the research evidence and CHI score but also strain-specific recommendations, mind-body perspectives on the condition, powerful questions for self-reflection, suggested blessings, and affirmations. This holistic approach reflects Blesching's conviction that combining evidence-based cannabis science with mindfulness techniques produces synergistic healing outcomes.
+The CHI methodology is unique among cannabis evidence-rating systems in that it explicitly integrates mind body medicine considerations alongside pharmacological evidence. Each disease entry includes not only the research evidence and CHI score but also strain-specific recommendations, mind-body perspectives on the condition, powerful questions for self-reflection, suggested blessings, and affirmations. This holistic approach reflects Blesching's conviction that combining evidence-based cannabis science with mindfulness techniques produces synergistic healing outcomes.
 
 ## Limitations of the CHI System
 
@@ -132,6 +132,5 @@ The CHI score methodology provides a transparent, reproducible framework for eva
 
 ## See Also
 
-- [[blesching-cannabis-anorexia-cachexia]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-rheumatoid-arthritis]]

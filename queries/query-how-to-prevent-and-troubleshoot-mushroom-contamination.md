@@ -26,12 +26,6 @@ When contamination does occur, accurate identification and prompt action can oft
 
 The most frequent mushroom contaminants include Trichoderma (green mold), Aspergillus (yellow-green mold), cobweb mold, and various bacterial contaminants.
 
-The [[mushroom-contamination-identification]] guide provides detailed descriptions and photographs to help you identify each type.
-
-Trichoderma is the most common and destructive contaminant in mushroom cultivation.
-
-It spreads rapidly, overgrowing mushroom mycelium and releasing antibiotics that inhibit further growth.
-
 The [[trichoderma-forest-green-mold-guide]] covers identification and treatment strategies specifically for this aggressive competitor.
 
 Bacterial contamination typically appears as slimy patches, sour smells, or slowed mycelial growth.
@@ -44,14 +38,6 @@ Bacterial contamination is often a sign of inadequate drying after sterilization
 
 The single most important factor in preventing contamination is clean technique.
 
-The [[sterile-technique-mushroom-cultivation]] reference outlines essential practices for maintaining cleanliness.
-
-These include working in a still-air box or laminar flow hood, flame-sterilizing tools between uses, and wearing gloves and masks.
-
-Your inoculation area should be cleaned before every use with a 70 percent isopropyl alcohol solution.
-
-All tools, jars, and containers must be sterilized before use.
-
 The [[contamination-identification-prevention]] guide emphasizes that most contamination originates from airborne spores.
 
 These spores land on exposed substrate or spawn during transfer operations.
@@ -61,42 +47,6 @@ Minimizing the time that substrate or spawn is exposed to open air dramatically 
 ### Substrate Preparation and Treatment
 
 Proper substrate treatment is your first line of defense against contamination.
-
-The [[mushroom-substrate-pasteurization-comparison]] resource explains the differences between pasteurization and sterilization.
-
-Pasteurization heats substrate to 160 to 170 degrees Fahrenheit for 1 to 2 hours.
-
-This kills most competitors while preserving beneficial thermophilic organisms.
-
-Sterilization, typically achieved with a pressure cooker at 15 PSI for 90 minutes, kills all organisms including bacterial endospores.
-
-This is necessary for grain spawn but can be counterproductive for bulk substrates.
-
-Without beneficial microbes, bulk substrates become vulnerable to any contamination that does get in.
-
-Choose your treatment method based on the type of substrate and spawn you are using.
-
-### Environmental Control
-
-Contaminants thrive in stagnant, warm, humid conditions.
-
-Good air exchange in your grow area reduces CO2 buildup and limits the spread of mold spores.
-
-Keep humidity high enough for mushroom growth, typically 80 to 95 percent.
-
-However, avoid water pooling or condensation that creates breeding grounds for bacteria.
-
-Temperature management is critical for contamination prevention.
-
-Most mushroom species grow best around 70 to 75 degrees Fahrenheit.
-
-Many contaminants prefer warmer conditions above 80 degrees.
-
-Keeping your growing area slightly cooler than the optimum for contaminants gives your mushroom mycelium a competitive advantage.
-
-### Troubleshooting Steps
-
-When you spot contamination, the first step is accurate identification.
 
 The [[troubleshooting-mushroom-contamination]] resource provides a decision tree for diagnosing problems.
 
@@ -140,8 +90,7 @@ Each contaminated jar teaches you something about your process, your environment
 
 ## Key Points
 
-- Identify contaminants accurately using [[mushroom-contamination-identification]] before deciding on a course of action
-- [[sterile-technique-mushroom-cultivation]] practices including still-air boxes and flame sterilization are your best prevention tools
+- Identify contaminants accurately using [[sterile-technique-mushroom-cultivation]] practices including still-air boxes and flame sterilization are your best prevention tools
 - Proper pasteurization or sterilization per [[mushroom-substrate-pasteurization-comparison]] eliminates most competitors
 - Environmental control including air exchange and temperature gives your mycelium a competitive edge over contaminants
 - When in doubt, throw it out: contaminated spawn or substrate should be removed promptly to protect future grows

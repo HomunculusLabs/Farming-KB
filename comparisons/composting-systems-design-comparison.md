@@ -60,7 +60,7 @@ For [[duck-keeping]] and [[goat-keeping]] manure, a hot pile or enclosed bin is 
 
 ### Integration with Garden Beds
 
-**Sheet composting** and **trench composting** are the most garden-integrated systems. Sheet composting (lasagna gardening) builds beds in place by layering browns and greens directly on the site — no turning, no transport. Trench composting digs waste into rows where crops will grow, decomposing in place and fertilizing the next crop. Both are excellent [[composting-and-soil-biology]] strategies.
+**Sheet composting** and **trench composting** are the most garden-integrated systems. Sheet composting (lasagna gardening) builds beds in place by layering browns and greens directly on the site — no turning, no transport. Trench composting digs waste into rows where crops will grow, decomposing in place and fertilizing the next crop. Both are excellent [[no-till-gardening-method]] strategies.
 
 ### Multi-Bin Strategy
 
@@ -106,7 +106,7 @@ Don't use just one system — use the right tool for each waste stream. A **hot 
 - [[composting-systems]] — Full composting methods and troubleshooting
 - [[vermicomposting]] — Worm bin setup and management
 - [[bokashi]] — Kitchen fermentation system
-- [[composting-and-soil-biology]] — Composting as a no-till foundation
+- [[no-till-gardening-method]] — Composting as a no-till foundation
 - [[cover-cropping-guide]] — Cover crop residue as compost input
 - [[soil-food-web-nutrient-cycling]] — The biology these methods support
 - [[permaculture-design]] — Integrating composting into whole-system design

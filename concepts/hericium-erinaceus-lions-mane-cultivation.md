@@ -1,69 +1,14 @@
 ---
-title: [[hericium-erinaceus]] (Lion's Mane) Cultivation
+title: Hericium Erinaceus Lions Mane Cultivation
 tags: [hericium-erinaceus, lions-mane, mushroom-cultivation, medicinal-mushrooms, sawdust-cultivation, nerve-growth-factor]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
+  - Growing Gourmet and medicinal-mushrooms (Stamets, 1993)
 type: concept
 created: 2026-04-28
 ---
-# [[cancer-medicinal-mushrooms-hericium-erinaceus]] (Lion's Mane) Cultivation
-
-## Introduction
-
-Hericium erinaceus is one of the few mushrooms that imparts the flavor of
-lobster when cooked, making it a prized gourmet species amonallegro-canaanite-religion-and-the-mushrooms and
-chefs alike. The mushroom produces cascading white spines that givaustralian-magic-mushroom-common-namesing, unmistakable appearance. It is known by numerous common names
-including Lion's Mane, Monkey's Head, Bear's Head, Old Man's Beard, Hedgehog
-Mushroom, Pom-Poturkey-tail-mushroom-cultivation-and-medicinal-propertiesname Yamabushi-take. Its combination of culinary excellence and significant medicinal properties has made it one of the most sought-after cultivated mushrooms worldwide.
-
-## Taxonomic Synonyms
-
-This species was formerly classified as Hydnum erinaceum Fr. within the
-broader tooth fungus group before being reassigned to the genus Hericium. Two
-closely related species warrant comparison: H. coralloides and H. abietis.
-These differ from H. erinaceus in both habitat preference and spine
-morphology. Most notably, H. coralloides produces forking spines, while H.
-erinaceus spines are distinctly non-forking and pendant. H. abietis tends to
-be associated with conifer substrates, further distinguishing it from the
-broadleaf preference of H. erinaceus.
-
-## Description
-
-The fruitbody of Hericium erinaceus is composed of downward-cascading,
-non-forking spines that arise from a common base or short pseudo-stem. In the
-wild, specimens can reach up to 40 cm in diameter, forming impressive
-spherical masses of soft, hanging spines. When young and fresh, the mushroom
-is pure white. As it ages, the spines and base discolor, turning brown to
-yellow-brown, particularly at the tips. The overall form is roughly globular
-to irregular, with spines ranging from 1 to 5 cm in length depending on
-maturity.
-
-## Distribution and Natural Habitat
-
-Hericium erinaceus has a broad global distribution, found across North
-America, Europe, China, and Japan. Within North America, it is most abundant
-in the southern United States, though its range extends well into temperate
-northern regions. It typically fruits in late summer through autumn in
-hardwood forests. In nature, H. erinaceus grows on dying or dead hardwood
-trees, most commonly oak, walnut, beech, maple, and sycamore. It can also be
-found on a variety of other broad-leaf tree species. The mushroom fruits from
-logs, stumps, and standing dead or stressed trees. Its preference for
-hardwoods is a key consideration for both outdoor and indoor cultivation,
-directly informing substrate selection.
-
-## Microscopic Features
-
-Spores of Hericium erinaceus are white in deposit, ellipsoid in shape, and
-measure 5.5 to 7.0 micrometers by 4.5 to 5.5 micrometers. The spore surface
-is smooth to slightly roughened. Clamp connections are present on the hyphae
-but are infrequent, which can serve as a diagnostic feature when examining
-cultures under the microscope. The basidia are typically four-spored.
-
-## Mycelial Characteristics
-
-The [[mycelium]] of H. erinaceus is whitish and distinctive in its growth
+# [[mycelium]] of H. erinaceus is whitish and distinctive in its growth
 pattern. It forms triangular zones of collected rhizomorphs that radiate
 outward from a dense center, creating a pattern that can resemble the
 structure of glaciated mountains. With age, cultures become yellow to pinkish
@@ -146,3 +91,7 @@ applications in neurodegenerative conditions.
 ## Flavor Profile
 
 Hericium erinaceus ranks as one of the Stamets family's favorite gourmet
+
+## See Also
+
+- [[lions-mane-mushroom-hericium-erinaceus]]

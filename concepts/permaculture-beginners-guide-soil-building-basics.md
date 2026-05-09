@@ -3,12 +3,12 @@ title: Permaculture Beginners Guide — Soil Building Basics
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, soil, soil-building, ecology, erosion, burnett, broadscale]
+tags: [[permaculture, soil, soil-building, ecology, erosion, burnett, broadscale]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
 # Permaculture Beginners Guide — Soil Building Basics
 
-[[graham-burnett]]'s "Permaculture: A Beginners Guide" (2001) addresses soil health primarily through the lens of broadscale agricultural damage and the permaculture response. While the guide is more focused on design principles and zoning than detailed soil science, it establishes the critical connection between industrial farming practices and soil degradation, and positions ecological design as the solution. See [[faires-hugelkultur-and-soil-building]], [[fukuoka-soil-building-approach]], and [[acid-and-alkaline-soil-management]] for more detailed soil-building methods from other sources.
+[[faires-hugelkultur-and-soil-building]], [[acid-and-alkaline-soil-management]] for more detailed soil-building methods from other sources.
 
 ## The Soil Crisis: Industrial Agriculture's Impact
 

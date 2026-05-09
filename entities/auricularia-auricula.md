@@ -19,18 +19,7 @@ type: entity
 Auricularia auricula is one of the oldest cultivated mushrooms in human
 history, with cultivation in China dating back to approximately 600 AD.
 It accounts for 7.9% of total world mushroom production and is listed
-among the 10 most important [[medicinal-mushrooms]]. The species is valued
-both as a culinary ingredient in Asian cuisine and as a traditional
-medicine with demonstrated antilipemic and other health-promoting
-properties.
-
-## Key Details
-
-### Taxonomy and Classification
-Auricularia auricula is a basidiomycete fungus in the order
-Auriculariales. It is a wood-decomposing fungus that produces
-distinctive ear-shaped, gelatinous fruiting bodies on dead or dying
-hardwood trees, particularly elder (Sambucus nigra), from which the
+among the 10 most important [[sambucus-nigra]]), from which the
 common name "Judas ear" derives. The fruiting body is brown to
 dark brown, thin, and rubbery when fresh, becoming brittle when dried.
 
@@ -92,6 +81,5 @@ species demonstrates how traditional Chinese medicine applications
 can be validated through modern pharmacological research.
 
 ## See Also
-- [[tremella-fuciformis-entity]]
 - [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]

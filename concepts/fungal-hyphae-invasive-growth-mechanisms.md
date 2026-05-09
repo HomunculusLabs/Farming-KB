@@ -131,8 +131,6 @@ bioremediation.
 
 ## See Also
 
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - [[fairy-rings-mycelium-ecology-soil]]
-- [[mycorrhizal-fungi-symbiosis-with-plants]]
 - [[biodiversity-fungi-plant-pathogens]]
 - [[aquatic-fungi-spore-dispersal-ingold]]

@@ -9,15 +9,7 @@ sources:
 ---
 # Biointensive Diet Design
 
-Biointensive diet design is the process of planning a complete, nutritionally adequate vegetarian diet that can be grown entirely within a [[comparison-biointensive-vs-square-foot-gardening]] mini-farm. It integrates [[biointensive-calorie-crops]], [[biointensive-carbon-farming]], and vegetable production into a unified planting plan.
-
-## Design Principles
-
-1. **Complete nutrition**: The diet must provide adequate calories, protein, fats, vitamins, and minerals year-round
-2. **Minimal area**: Everything must be growable in the available space (typically 2,800-4,000 sq ft per person)
-3. **Closed-loop fertility**: The system must produce enough biointensive-composting|compost to sustain itself
-4. **Seasonal planning**: Year-round food production and storage must be accounted for
-5. **Seed sovereignty**: [[biointensive-seed-saving]] must be included in the plan
+Biointensive diet design is the process of planning a complete, nutritionally adequate vegetarian diet that can be grown entirely within a [[biointensive-calorie-crops]], [[biointensive-seed-saving]] must be included in the plan
 
 ## The GB Diet Composition
 
@@ -87,15 +79,9 @@ Fat is the most difficult nutrient to produce in a small garden:
 
 ## See Also
 
-- [[biointensive-gardening-overview]]
-- [[biointensive-carbon-farming]]
 - [[biointensive-carbon-farming]]
 - [[biointensive-seed-saving]]
-- [[biointensive-composting]]
-
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]
-- [[biointensive-calorie-crops]]
 - [[root-vegetable-storage-guide]]
 - [[permaculture-food-storage-and-preservation]]

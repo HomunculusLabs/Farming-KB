@@ -16,26 +16,7 @@ type: concept
 
 # Slope Analysis and Keyline Design
 
-Slope analysis and keyline design are foundational tools in [[permaculture-design]] for understanding and managing the three-dimensional landscape.
-Bill Mollison drew extensively on P.A. Yeomans' keyline system, adapting it
-for permaculture applications. Together, these approaches allow designers to
-read the land's shape, predict water movement, and place earthworks,
-structures, and plantings for maximum efficiency and minimum erosion.
-
-## Slope Classification
-
-Mollison classifies land by gradient and identifies appropriate uses for each
-slope category:
-
-**0-3% (flat to gently sloping)**: Ideal for buildings, intensive gardens,
-and water storage. Drainage can be problematic -- water tends to pond.
-Surface drainage and raised beds may be needed. Most of the site's
-infrastructure belongs on flat land.
-
-**3-8% (gentle slope)**: Excellent for most agricultural uses. Easy to
-work with machinery. Water moves slowly enough for infiltration but fast
-enough to prevent waterlogging. Pastures, orchards, and field crops all
-perform well. [[keyline-design]] earthworks are most effective in this range.
+Slope analysis and keyline design are foundational tools in [[keyline-design]] earthworks are most effective in this range.
 
 **8-15% (moderate slope)**: Suitable for orchards, agroforestry, and
 pastures with careful management. Terracing or contour planting prevents
@@ -45,11 +26,7 @@ are very effective at capturing runoff on moderate slopes.
 **15-30% (steep slope)**: Limited to tree crops, forestry, and controlled
 grazing. Erosion risk is high without permanent vegetation cover. Structures
 require extensive foundations. Access is difficult and expensive. Best used
-for timber production, watershed protection, and [[food-forest-design]].
-
-**30%+ (very steep)**: Essentially non-arable. Should remain under permanent
-forest cover. Access limited to foot trails. Critical for watershed
-protection. Usually designated as Zone 4 or Zone 5 in [[permaculture-zone-planning]].
+for timber production, watershed protection, and [[permaculture-zone-planning]].
 
 ## Landform Elements
 
@@ -115,30 +92,7 @@ distribution across the entire landform.
 
 ## Keyline Water Management
 
-Mollison integrates keyline principles with broader [[backyard-water-harvesting]]
-strategies:
-
-**Keyline dams**: Dams sited in the upper valley just above the keyline
-can irrigate the entire area below through gravity. Water stored at this
-elevation is the most valuable on the property because it flows to every
-lower point without pumping.
-
-**Keyline channels**: Contour channels following the keyline pattern
-distribute water across the landscape. They can be connected to dams,
-overflow pipes, or road drains to create an integrated water distribution
-network.
-
-**Contour swales**: Shallow ditches on contour, planted with trees, that
-capture and infiltrate surface runoff. Swales on the keyline pattern
-distribute water more broadly than simple contour swales.
-
-## Keyline Tree Planting
-
-Tree planting follows the keyline cultivation pattern. Tree rows on the
-keyline pattern distribute rainfall infiltration across the landform. On
-ridges, trees help retain moisture that would otherwise run off. In valleys,
-trees help spread water onto adjacent slopes. Mollison recommends this
-pattern for [[mollison-windbreak-design]], [[farm-forestry-design-mollison]], and [[food-forest-design]] plantings.
+Mollison integrates keyline principles with broader [[mollison-windbreak-design]], [[food-forest-design]] plantings.
 
 ## Practical Applications and Sector Integration
 
@@ -147,4 +101,3 @@ identify contours and the keyline position, chisel plow cultivation along
 keyline patterns for soil infiltration, contour dam construction at optimal
 positions, and road alignment along keyline contours to serve as water-
 harvesting features. Slope analysis integrates with [[mollison-designers-sector-analysis-wind-sun-fire]] for a complete site understanding. Limitations include steep
-slopes (above 15%) requiring modified patterns, very flat land (below 2%)

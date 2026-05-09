@@ -19,8 +19,7 @@ as roots grow downward and the plant drinks, the water level drops, creating an
 expanding air
 gap that provides oxygen to upper roots. It is the simplest hydroponic method 
 but produces
-lower yields than active systems like DWC. The [[cannabis-deep-water-culture-guide]] and
-[[nutrient-film-technique]] pages cover active hydroponic alternatives.
+lower yields than active systems like DWC. The [[nutrient-film-technique]] pages cover active hydroponic alternatives.
 
 ## Detailed Explanation
 
@@ -40,35 +39,7 @@ complexity than traditional hydroponic systems or even soil-based growing.
 
 The principle behind the Kratky method is elegantly simple. A plant is suspended
  in a net
-pot filled with an inert growing medium like [[rockwool-cannabis]], hydroton 
-clay pebbles,
-or perlite. The net pot sits in a container filled with nutrient solution so 
-that the bottom
-of the net pot just touches the water surface at planting. As the plant grows, 
-its roots
-extend downward into the nutrient solution to absorb water and nutrients. 
-Meanwhile, the
-plant transpires and the solution level gradually drops over the course of the 
-grow. The
-expanding gap between the declining water surface and the net pot exposes the 
-upper portion
-of the root system to air, allowing those roots to absorb oxygen directly from 
-the
-atmosphere without any mechanical assistance.
-
-This dual-zone root system, with lower roots submerged in nutrient solution and 
-upper roots
-exposed to air, eliminates the need for the air pumps and airstones that active 
-hydroponic
-systems like deep water culture require for root zone oxygenation. The plant 
-essentially
-manages its own root zone environment as it grows. However, this self-regulating
- aspect also
-means less grower control over the growing conditions. You cannot easily adjust 
-nutrient
-concentrations mid-grow or rapidly correct problems like nutrient burn or 
-deficiency once the
-reservoir is filled. The [[cannabis-deep-water-culture-guide]] page explains how
+pot filled with an inert growing medium like [[cannabis-deep-water-culture-guide]] page explains how
  active DWC
 systems offer greater control at the cost of added complexity and equipment.
 
@@ -86,8 +57,7 @@ plant, with 10 gallons or more preferred for larger plants or longer flowering
 periods.
 Fill the container with nutrient solution to just below the net pot bottom at 
 planting, and
-let the system run without intervention until harvest. The [[cannabis-growing-mediums]] and
-[[cannabis-environment-control]] pages cover medium selection and environmental
+let the system run without intervention until harvest. The [[cannabis-environment-control]] pages cover medium selection and environmental
 requirements for cannabis grows including Kratky systems.
 
 Nutrient management in a Kratky system requires careful upfront calculation. 
@@ -103,23 +73,7 @@ pure water
 is consumed and nutrients remain in solution. This contrasts with active hydro 
 systems where
 the reservoir is regularly topped off with fresh water and adjusted. The
-[[cervantes-nutrient-management]] page covers nutrient concentration management 
-across
-different growing systems and methodologies.
-
-The main advantage of the Kratky method is its simplicity and reliability for 
-small-scale
-grows. There are no pumps to fail, no timers to program, no reservoirs to top 
-off daily,
-and no electricity costs beyond lighting. This makes it ideal for beginners, 
-budget-conscious
-growers, stealth grows where noise from water pumps is a concern, and off-grid 
-or
-low-resource situations. The passive nature of the system also means fewer 
-points of failure
-compared to active hydroponic setups with multiple components that each have 
-failure modes.
-The [[aeroponics-guide]] page contrasts the Kratky method with more complex 
+[[aeroponics-guide]] page contrasts the Kratky method with more complex 
 hydroponic
 approaches for cannabis cultivation.
 
@@ -128,12 +82,6 @@ approaches for cannabis cultivation.
 - Plants develop a dual-zone root system with lower roots in nutrient solution and upper roots exposed to air
 - Use at least 5 to 10 gallon containers with light-proof exteriors; start with a slightly lower nutrient concentration
 - Better suited for autoflowering-cannabis|autoflowering strains due to their shorter lifecycle
-- Yields are lower than active systems like [[cannabis-deep-water-culture-guide]] and aeroponics-cannabis|aeroponics but simplicity is unmatched
-
-## Related
-
-- [[query-what-is-the-cannabis-entourage-effect]] Questions
-- [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
+- Yields are lower than active systems like [[query-what-is-the-cannabis-entourage-effect]] Questions
 - [[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]]
-- [[query-what-is-the-best-cannabis-grow-medium-for-beginners]]
 - [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]

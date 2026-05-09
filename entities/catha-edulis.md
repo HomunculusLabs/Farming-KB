@@ -115,13 +115,6 @@ Khat's legal status varies dramatically worldwide, reflecting the tension betwee
 ## See Also
 
 - [[inga-edulis]]
-- [[kanna-sceletium-south-african-narcotic]]
 - [[boletus-edulis-entity]]
-- [[weil-cultural-attitudes-toward-altered-states]]
-
-- Cathinone
-- Amphetamine
-- Methamphetamine
-- Ephedra
 - [[erythroxylum-coca]]
 - [[paullinia-cupana]]

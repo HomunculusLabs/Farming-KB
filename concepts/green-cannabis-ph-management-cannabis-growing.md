@@ -20,25 +20,10 @@ pH is one of the three main factors to consider when evaluating growing
 medium for cannabis (along with nutrients and structure). Greg Green's
 "The Cannabis Grow Bible" emphasizes that maintaining proper pH is
 essential for nutrient availability and overall plant health. pH problems
-can cause [[green-cannabis-soil-flushing-nutrient-leaching]], stunted growth, and potentially fatal nutrient deficiencies
-if left uncorrected.
-
-## What is pH
-
-pH is a measurement of how acidic or alkaline a substance is, using a
-scale from 1 to 14:
-
-- 7 is neutral (pure water).
-- Below 7 is acidic (0 is extremely acidic).
-- Above 7 is alkaline (14 is extremely alkaline).
-
-For cannabis cultivation, the target pH depends on the growing medium:
-
-- Soil-based systems: Cannabis prefers a pH of 7.0 (neutral).
-- [[green-cannabis-rockwool-hydroponic-growing-media]]
+can cause [[green-cannabis-rockwool-hydroponic-growing-media]]
   systems: Cannabis prefers a pH range of 5.2 to 6.3.
 
-See [[soil-ph-management]] and [[substrate-ph-management]] for detailed pH management guidance.
+See [[substrate-ph-management]] for detailed pH management guidance.
 
 It is easier to maintain a pH range rather than an exact set point.
 Regular monitoring with small pH meters (available at most gardening and
@@ -132,9 +117,7 @@ appropriate pH level before use:
 
 ### Nutrient Lockout
 
-pH problems are a major cause of [[nutrient-lockout]] -- a condition where
-the plant cannot access one or more nutrients despite their presence in
-the growing medium. See [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
+pH problems are a major cause of [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
 for pH testing and amendment guidance. Lockout can occur when:
 
 - pH is too high or too low for specific nutrients to be soluble.

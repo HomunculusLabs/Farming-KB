@@ -139,7 +139,7 @@ Both systems are compatible — many growers combine techniques from both.
 - [[fermented-plant-extract-fpe]] — KNF FPJ approach
 - [[nutritive-cycle-theory]] — Cho's growth stage framework (KNF-specific)
 - [[fermented-mixed-compost-fmc]] — KNF compost method using IMO
-- cannabis pest management — JADAM pesticides for cannabis
+- [[cannabis-pest-management]] — JADAM pesticides for cannabis
 
 ## Related
 

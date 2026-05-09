@@ -109,13 +109,8 @@ Her legacy is perhaps most visible in the Pacific Northwest's unusually dense co
 
 ## See Also
 
-- [[toby-hemenway]] — Fellow Pacific Northwest permaculture educator and author of Gaia's Garden
 - [[sepp-holzer-entity]] — Austrian permaculture pioneer whose site-observation philosophy parallels Hobbs' approach
-- [[ben-falk]] — Vermont-based permaculture designer and author of The Resilient Farm and Homestead
 - [[mark-shepard]] — Restoration agriculture pioneer, complementary agroforestry approach
-- [[darren-doherty]] — Keyline Design modernizer and broad-acre permaculture practitioner
 - [[richard-perkins]] — No-till market gardening educator, bridging permaculture and commercial farming
-- [[ernst-gotsch]] — Brazilian syntropic agriculture pioneer, sharing Hobbs' ecological succession emphasis
 - [[david-holmgren]] — Co-originator of permaculture; Holmgren's principles underpin Hobbs' teaching
-- [[permaculture-design]] — The design methodology framework Hobbs teaches and practices
 - [[agroforestry]] — Core practice area Hobbs integrates into permaculture design

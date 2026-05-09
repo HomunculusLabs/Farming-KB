@@ -137,10 +137,7 @@ effluent streams where conventional methods are cost-prohibitive.
 
 ## Related Topics
 
-- [[fungal-biosorption-isotherms]] for equilibrium modelling details
 - [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] for
   binding site chemistry
-- [[staycare-fungal-biosorption-of-heavy-metals]] for species-specific
-  data
 - [[fungal-immobilization-bioreactor-systems]] for reactor engineering
 - [[fungal-heavy-metal-biosorption-detailed]] for comprehensive treatment

@@ -119,13 +119,8 @@ Novel endophyte strains have been developed that retain insect-deterrent alkaloi
 
 ## Related Pages
 
-- [[arbuscular-mycorrhizal-fungi]]
 - [[arbuscular-mycorrhizal-networks]]
-- [[fungal-biodiversity-grassland]]
 - [[fungal-biodiversity-in-soil-ecosystems]]
-- [[fungal-contributions-soil-structure]]
 - [[fungal-decomposition-nutrient-cycling]]
-- [[fungal-community-ecology]]
 - [[clavicipitaceous-grass-endophytes]]
-- [[bacterial-to-fungal-soil-succession]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

@@ -140,8 +140,6 @@ of the halogenated DO compounds.
 
 ## See Also
 
-- [[pihkal-dom]]
 - [[pihkal-dob]]
-- [[pihkal-doi]]
 - [[pihkal-mda]]
 - [[pihkal-cautionary-note-and-legal-context]]

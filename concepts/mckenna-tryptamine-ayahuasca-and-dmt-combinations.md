@@ -90,9 +90,9 @@ McKenna concludes his discussion with a direct statement: "My testimony is that 
 
 ## See Also
 
-- [[ayahuasca-preparation]]
+- [[barquinha-church-umbanda-orixas-ayahuasca-syncretism]]
+
 - [[ayahuasca-brewing-guide]]
-- [[dmt-smoking-and-administration-methods]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
 

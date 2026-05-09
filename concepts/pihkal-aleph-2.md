@@ -136,8 +136,6 @@ compounds.
 
 ## See Also
 
-- [[2c-t-entity-pihkal]]
 - [[pihkal-2c-t-2]]
-- [[pihkal-2c-t-7]]
 - [[pihkal-mescaline]]
 - [[pihkal-cautionary-note-and-legal-context]]

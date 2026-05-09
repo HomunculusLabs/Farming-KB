@@ -113,13 +113,7 @@ slopes may only just be starting to collapse as the roots of
 cleared forests rot, and could still be saved by pines, Acacias,
 or chestnuts.
 
-It is as valid to plant an [[acacia]] for the considerable
-by-product of swift moth or ghost moth larvae as it is to plant
-a mulberry for silkworms, and to use moles instead of mole
-ploughs, or gophers as daffodil gardeners (unpaid). The
-implications are that many of these effects may be put to use,
-or their uses appreciated in
-[[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
+It is as valid to plant an [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 strategies.
 
 ## Geology and Life Forms
@@ -135,7 +129,5 @@ oceanic islands.
 
 ## See Also
 
-- [[permaculture-soil-biota-and-earthworms]]
 - [[mollison-mulching-and-soil-health]]
-- [[mollison-plant-stacking-and-interaction]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]

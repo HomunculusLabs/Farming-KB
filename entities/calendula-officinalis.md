@@ -135,15 +135,10 @@ Calendula is a highly valued companion plant in permaculture and organic gardeni
 
 ## See Also
 
-- [[plantago-lanceolata]]
-
 - [[valeriana-officinalis]]
-- [[calendula-salve-making]]
 - [[laricifomes-officinalis]]
 
-- [[symphytum-officinale]] — Comfrey, another permaculture wound-healing plant
 - [[urtica-dioica]] — Nettle, dynamic accumulator for permaculture systems
-- [[achillea-millefolium]] — Yarrow, companion plant with similar ecological roles
-- [[trifolium-repens]] — White clover, nitrogen-fixing ground cover for permaculture
+- achillea-millefolium — Yarrow, companion plant with similar ecological roles
 - [[filipendula-ulmaria]]
 - [[tropaeolum-majus]]

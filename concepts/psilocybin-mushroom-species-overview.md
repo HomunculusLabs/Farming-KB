@@ -26,12 +26,6 @@ genus.
 The genus Psilocybe is the largest and most widely recognized group of
 psilocybin-containing mushrooms. Species in this guide include:
 
-- **[[psilocybe-azurescens]]**: Among the most potent psilocybin mushrooms
-  known. Found growing on alder wood chips, with documented populations
-  in the Pacific Northwest of North America and in Germany near
-  Stuttgart. Caps develop characteristic wavy margins at maturity.
-  Forms fairy rings in suitable habitats.
-
 - **[[psilocybe-baeocystis]]**: Known as the "potent psilocybe," this
   species is found growing on mossy substrates. It is one of the more
   potent members of the genus, containing significant levels of
@@ -44,14 +38,6 @@ psilocybin-containing mushrooms. Species in this guide include:
 
 - **Psilocybe crobulus**: A less commonly documented psilocybin
   species with limited information available in the guide.
-
-- **[[psilocybe-cubensis]]**: The most widely cultivated and commercially
-  available psilocybin mushroom. Commonly called "cubes" or "gold
-  tops." Found naturally on dung in tropical and subtropical
-  regions, with notable populations in Thailand, Mexico, Florida,
-  and throughout Central America. The guide documents specimens
-  from Koh Samui, Thailand, and Jacksonville, Florida, with caps
-  reaching 5.5 inches across.
 
 - **[[psilocybe-cyanescens]]**: Known as "Wavy Caps," this potent species
   is widely distributed in the Pacific Northwest of North America and
@@ -67,19 +53,9 @@ psilocybin-containing mushrooms. Species in this guide include:
   guide through harvested specimens, though detailed habitat
   information is limited.
 
-- **[[psilocybe-pelliculosa-entity]]**: Known as the "Conifer Psilocybe," this
-  species is associated with coniferous forest habitats in the Pacific
-  Northwest of North America.
-
 - **[[psilocybe-samuiensis]]**: Described by Guzman, Bandala, and Allen,
   this species was collected from manured rice paddy soil on Koh Samui,
   Thailand. Named after its type locality.
-
-- **[[psilocybe-semilanceata]]**: Known as the "Liberty Cap," this is one
-  of the most widely distributed psilocybin mushrooms. Found across
-  Europe (documented in Germany's Black Forest and Southern Norway) and
-  in temperate regions worldwide. Typically grows in grasslands,
-  pastures, and lawns.
 
 - **[[psilocybe-subcubensis]]**: Described by Guzman, this species from
   Koh Samui, Thailand, is closely related to P. cubensis but is
@@ -98,15 +74,6 @@ classified within Panaeolus. They are known for their potency:
   in the image guide.
 
 ## Genus Gymnopilus
-
-- **[[gymnopilus-spectabilis-entity]]**: Known as the "Big Laughing Gym," this
-  wood-inhabiting species grows on stumps and tree bases. Documented
-  growing in Mendocino, California, with photos also sourced from
-  published field guides. Can produce large clusters with orange to
-  yellow caps that may become deformed. One of the few non-Psilocybe
-  genera containing psilocybin.
-
-## Genus Panaeolus
 
 - **[[panaeolus-subbalteatus]]** (= Panaeolus cinctulus): A widely
   distributed species found growing on horse dung, documented in the
@@ -127,6 +94,5 @@ and the southeastern United States including Florida (P. cubensis).
 
 ## See Also
 
-- [[field-guide-psilocybin-mushroom-species-identification]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[psilocybin-mushroom-image-guide-lookalike-species]]

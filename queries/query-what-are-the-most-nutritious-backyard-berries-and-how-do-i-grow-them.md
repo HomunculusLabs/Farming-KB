@@ -10,7 +10,7 @@ sources: []
 
 ## Quick Answer
 
-Aronia (chokeberry) and [[sea-buckthorn-cultivation-and-uses]] top the nutrition charts — aronia leads in antioxidants (ORAC >16,000) while sea buckthorn delivers rare omega-7 fatty acids and 10–15× the vitamin C of oranges. For a more beginner-friendly start, blueberries, elderberries, and haskap offer excellent nutrition with proven growing techniques and wide climate adaptability.
+Aronia (chokeberry) and sea buckthorn cultivation and uses top the nutrition charts — aronia leads in antioxidants (ORAC >16,000) while sea buckthorn delivers rare omega-7 fatty acids and 10–15× the vitamin C of oranges. For a more beginner-friendly start, blueberries, elderberries, and haskap offer excellent nutrition with proven growing techniques and wide climate adaptability.
 
 ## Top 10 Most Nutritious Backyard Berries
 
@@ -47,19 +47,7 @@ Aronia (chokeberry) and [[sea-buckthorn-cultivation-and-uses]] top the nutrition
 
 ### 3. Goji Berry
 
-- **Planting:** Space 4–6 ft apart in full sun; extremely [[drought-tolerant-planting-design]] once established.
-- **Key Tip:** Contain roots or prune aggressively — goji spreads by suckering and seed.
-- **Harvest:** July–October (continuous harvest on established plants).
-- **Yield:** 2–4 lbs per plant in early years; up to 8 lbs at maturity.
-- **Note:** Eat fresh or dried; zeaxanthin content is highest in dried berries.
-
-### 4. Haskap (Honeyberry)
-
-- **Planting:** Plant two compatible varieties for cross-pollination; space 4–5 ft apart.
-- **Key Tip:** Net early — birds love them and harvest precedes most other fruit.
-- **Harvest:** Late May–June (one of the first fruits of the season).
-- **Yield:** 4–8 lbs per bush by year 4–5.
-- **Note:** Flavor improves after 1–2 days [[post-harvest-handling-marketing-mushrooms]]; store at room temp briefly.
+- **Planting:** Space 4–6 ft apart in full sun; extremely [[post-harvest-handling-marketing-mushrooms]]; store at room temp briefly.
 
 ### 5. Elderberry
 
@@ -107,16 +95,12 @@ Aronia (chokeberry) and [[sea-buckthorn-cultivation-and-uses]] top the nutrition
 
 ## Common Beginner Mistakes
 
-1. **Wrong [[soil-ph-management]] for blueberries** — Planting in neutral/[[alkaline-soil-plants]] causes chlorosis and poor fruiting. Test and amend with elemental sulfur.
+1. **Wrong [[alkaline-soil-plants]] causes chlorosis and poor fruiting. Test and amend with elemental sulfur.
 2. **Forgetting sea buckthorn needs a male** — Female-only plantings yield zero fruit. Always buy a labeled male.
 3. **Pruning errors** — Removing all 1-year-old canes on brambles eliminates next year's fruit. Know your crop's fruiting wood.
 4. **Not netting from birds** — Birds can strip an entire bush in a single morning. Net before berries ripen.
 5. **Over-fertilizing** — Berries generally need less nitrogen than vegetables. Excess N produces lush foliage, not fruit.
-6. **Ignoring drainage** — Most berries (except aronia/elderberry) need well-drained soil. [[raised-beds-vs-in-ground-vs-containers]] solve heavy clay.
-
-## Resources for Further Reading
-
-- **Cornell University [[berry-growing]] Guides** — Comprehensive cultivar recommendations and pest management.
+6. **Ignoring drainage** — Most berries (except aronia/elderberry) need well-drained soil. [[berry-growing]] Guides** — Comprehensive cultivar recommendations and pest management.
 - **Oregon State University Extension — Berry Production** — Excellent PNW-focused growing guides.
 - **USDA Plant Hardiness Zone Map** — Confirm your zone before selecting varieties.
 - **"The Berry Grower's Companion" by Barbara L. Bowling** — Practical reference for home growers.

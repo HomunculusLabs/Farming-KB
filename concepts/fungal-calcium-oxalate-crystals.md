@@ -3,7 +3,7 @@ title: Fungal Calcium Oxalate Crystals
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -69,21 +69,12 @@ Calcium oxalate production has been documented across a wide range of fungal tax
 
 ## See Also
 
-[[fungal-oxalate-production-metal-transformation]]
-
 [[fungal-mineral-weathering]]
-
-[[fungal-biogeochemistry]]
 
 [[fungal-weathering-rocks-minerals]]
 
-[[fungal-soil-aggregation]]
-
 [[glomalin-and-soil-carbon]]
-
-[[fungal-role-in-phosphorus-cycling]]
 
 [[ectomycorrhizal-ecology]]
 
-[[fungal-decomposition-processes]]
-- [[fungal-calcium-signalling]]
+[[fungal-calcium-signalling]]

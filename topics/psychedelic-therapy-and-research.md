@@ -469,7 +469,7 @@ for years to come.
   distress
 - [[controlled-substances-act-and-psychedelic-research]] — Legal history and
   regulatory framework
-- [[cannabis-and-ptsd-research]] — Endocannabinoid system and trauma
+- [[cannabis-ptsd-research]] — Endocannabinoid system and trauma
   treatment
 - [[psychedelic-mushrooms-species-and-identification]] — Species profiles
   and identification

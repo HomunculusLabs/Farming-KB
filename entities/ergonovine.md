@@ -110,13 +110,8 @@ Ergonovine has not been reliably detected in morning glory species (*Ipomoea* sp
 
 ## See Also
 
-- [[ergotamine]]
 - [[ergometrine]]
-- [[ergine-entity]]
 - [[claviceps-purpurea]]
-- [[lysergic-acid]]
 - [[lsd]]
-- [[ergot-fungus|ergot]]
-- [[psilocybin-compound]]
-- [[amanita-muscaria]]
+- [[psilocybin]]
 - [[harmine]]

@@ -3,7 +3,7 @@ title: Fungal Degradation of PCBs by White-Rot Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -89,22 +89,12 @@ Solid-state bioreactors have been demonstrated for PCB remediation:
 
 White-rot fungi degrade PCBs extracted from historically contaminated soil at high concentrations. P. chrysosporium was most effective at 3000 mg/l, removing up to 34% of the PCB mixture. Tween 80 emulsified PCB extracts without inhibiting fungal growth, while Triton X-100 and Tergitol NP-10 inhibited growth by 75-95%.
 
-Field-scale experiments have shown practical difficulties due to competition from indigenous soil organisms and the difficulty of growing fungi to sufficient biomass. Detection of fungal growth in soils by PCR may help assess survival and relative contribution to [[fungal-bioremediation]]. Various studies have shown practical difficulties because of the competition offered by indigenous organisms in treated soils.
-
-## See Also
-
-- [[petroleum-degradation-fungi]]
-
-- [[mycoremediation-pcbs-and-dioxins]]
+Field-scale experiments have shown practical difficulties due to competition from indigenous soil organisms and the difficulty of growing fungi to sufficient biomass. Detection of fungal growth in soils by PCR may help assess survival and relative contribution to [[petroleum-degradation-fungi]]
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
-- [[white-rot-fungi-bioremediation]]
-
 - [[fungal-bioremediation]]
 
-- [[fungal-bioremediation]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]
-- [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]
 - [[fungal-competition-survival-contaminated-soils]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]

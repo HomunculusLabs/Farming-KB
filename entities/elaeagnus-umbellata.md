@@ -99,25 +99,14 @@ However, the displacement of native shrub species (e.g., native *Viburnum*, *Cor
 
 ## See Also
 
-- [[elaeagnus-multiflora]]
-
 - [[elaeagnus-angustifolia]]
-- [[caragana-arborescens]]
 - [[robinia-pseudoacacia]]
-- [[morus-alba]]
 - [[hippophae-rhamnoides]]
-- [[pachyrhizus-erosus]]
 - [[lathyrus-tuberosus]]
-- [[leucaena-leucocephala]]
 - [[gleditsia-triacanthos]]
-- [[prosopis-glandulosa]]
 - [[opuntia-ficus-indica]]
-- [[symphytum-officinale]]
 - [[urtica-dioica]]
-- [[achillea-millefolium]]
-- [[taraxacum-officinale]]
+- achillea-millefolium
 - [[plantago-major]]
-- [[verbascum-thapsus]]
 - [[stellaria-media]]
-- [[glycyrrhiza-glabra]]
 - [[leonurus-cardiaca-entity]]

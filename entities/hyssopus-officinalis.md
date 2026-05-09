@@ -107,14 +107,9 @@ Hyssop's compact size makes it suitable for edges, borders, and pathways in perm
 
 ## See Also
 
-- [[lavandula-angustifolia-entity]]
 - [[thymus-vulgaris-entity]]
-- [[origanum-vulgare-entity]]
 - [[mentha-piperita]]
-- [[salvia-officinalis]]
 - [[rosmarinus-officinalis-entity]]
 - majorana hortensis
-- [[ Melissa-officinalis]]
-- [[mentha-spicata]]
-- [[achillea-millefolium]]
+- [[melissa-officinalis]]
 - [[hypericum-perforatum]]

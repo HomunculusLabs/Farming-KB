@@ -104,13 +104,8 @@ The fire sector should be kept clear of litter and dead logs, with grass kept sh
 
 ## See Also
 
-- [[faires-growing-and-season-extension]]
 - [[faires-seed-starting-transplanting-guide]]
-- [[faires-climate-zones-and-microclimate-design]]
 - [[faires-city-desert-and-cold-climate-garden-strategies]]
-- [[faires-passive-solar-energy-systems]]
 - [[faires-city-desert-and-cold-climate-garden-strategies]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[faires-hugelkultur-and-forest-garden-strategy]]
 - [[faires-no-energy-food-storage]]

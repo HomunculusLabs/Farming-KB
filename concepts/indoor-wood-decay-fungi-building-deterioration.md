@@ -18,15 +18,7 @@ type: concept
 
 Wood-decay fungi that colonize buildings represent a significant threat to
 built structures worldwide. Among these, the dry rot fungi Meruliporia
-incrassata and [[serpula-lacrymans]] are the most destructive, capable of
-transforming the wooden frameworks of homes and other buildings into crumbling
-debris. Unlike indoor moulds that rely on ambient moisture, dry rot fungi
-transport water through specialized root-like structures, enabling them to
-destroy wood in otherwise dry buildings.
-
-## The Dry Rot Problem
-
-[[meruliporia-incrassata]] causes extensive dry rot in California and the
+incrassata and [[meruliporia-incrassata]] causes extensive dry rot in California and the
 southeastern United States, while Serpula lacrymans is responsible for
 similar destruction in Britain, Europe, Australia, and Japan. The name
 Serpula means serpent or worm, evoking the root-like structures that invade
@@ -110,17 +102,6 @@ Historical remedies include:
 
 ## Health Concerns
 
-Unlike indoor moulds such as [[stachybotrys-chartarum]], dry rot spores do not
-carry toxins. However, dry rot spores are certainly allergenic and their
-tremendous numbers in contaminated homes pose respiratory concerns. Documented
-health effects include asthma and hypersensitive pneumonitis involving gamma
-globulins. Cases of severe breathing difficulties, joint pains, and weight
-loss have been reported, with patients showing high levels of antibodies (IgE
-and IgG) to Serpula spores.
-
-## See Also
-
-- [[dry-rot-fungi-serpula-meruliporia]]
-- [[gadd-fungal-biodegradation-bioremediation]]
+Unlike indoor moulds such as [[dry-rot-fungi-serpula-meruliporia]]
 - [[fungal-cellulose-decomposition-fungal-enzymes]]
 - [[artillery-fungus-and-built-environment-fungi]]

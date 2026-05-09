@@ -1,23 +1,6 @@
 ---
 title: Straw Substrate Boil-a-Bag Cultivation Method
-tags: [mushroom-cultivation, straw-substrate, bag-cultivation, sterilization, inoculation, fruiting, humidity, jarrold]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
-type: concept
-created: 2026-04-28
----
-
-# Straw Substrate Boil-a-Bag Cultivation Method
-
-The boil-a-bag cultivation method, developed by D.H. Jarrold, is a technique
-for growing mushrooms indoors using pasteurized straw as the primary
-substrate, contained within heat-resistant plastic bags. The method is notable
-for its use of a vermiculite filter can system for gas exchange during
-colonization, two distinct inoculation approaches based on needle length, and
-a simple aquarium-based humidity chamber for fruiting. It represents a
-low-cost alternative to jar-based cultivation methods like the [[pf-tek]] for
+tags: [[pf-tek]] for
 growers working with straw substrates rather than grain-based formulations.
 The entire cycle from inoculation to harvest is self-contained, with spore
 printing at the end closing the loop for subsequent grows.
@@ -77,47 +60,6 @@ between the substrate and the external environment.
 
 **Filtration layers:** The bottom is lined with approximately 1 cm of rock
 wool or ordinary loft insulation fiberglass. The can is then filled with
-[[vermiculite-cannabis]] to within 1 cm of the top. Alternatively, small pieces of rock
-wool can be used instead of vermiculite as the primary filter medium. A final
-thin layer of rock wool is placed on top to hold the vermiculite in place and
-prevent it from spilling during handling.
-
-**Assembly with bag:** The filter can sits inside the open neck of the bag,
-secured with masking tape wrapped three times around the bag neck and pressed
-firmly onto both the can and bag surfaces. This creates an airtight seal
-around the can while allowing gas exchange through the filter medium. The can
-can be opened for long-needle inoculation and then closed again, or left in
-place throughout colonization.
-
-## Straw Substrate Preparation
-
-### Chopping and Soaking
-
-Straw is chopped to lengths of 3 to 10 cm. Pre-cut straw is available from
-many pet stores as animal bedding, which saves preparation time and ensures
-consistent piece size. The chopped straw is placed in a large watertight
-container for hydration and supplementation.
-
-A heaped tablespoon of Marmite, Vegemite, or yeast extract is dissolved in
-boiling water and poured over the straw along with approximately 6 liters of
-additional boiling water. The yeast extract serves as a nutrient supplement
-intended to accelerate spore germination and mycelial growth. The straw is
-weighed down with a second container filled with water to keep it fully
-submerged, and soaked for approximately one hour with periodic checking to
-ensure the water level remains above the straw surface.
-
-### Draining and Supplementation
-
-After soaking, the straw is turned out into a bathtub and left for one hour to
-drain thoroughly. If the straw is still too wet after draining, excess water
-is squeezed out by hand until the straw reaches the correct moisture content,
-which Jarrold describes as having surplus water removable by hand squeezing.
-
-A few handfuls of brown rice flour are sprinkled over the straw as additional
-food for the mycelium and mixed in thoroughly by hand. For six bags worth of
-substrate, approximately three to four handfuls of brown rice flour is
-recommended. The brown rice flour supplementation parallels the role of brown
-rice powder in the
 [[pf-tek-substrate-jar-preparation-and-steam-sterilization]], providing
 readily available carbohydrates that support rapid mycelial colonization.
 
@@ -141,10 +83,7 @@ because the brown rice flour supplement creates a nutrient-rich environment
 that is more vulnerable to bacterial contamination than plain straw alone.
 
 ## Spore Syringe Preparation
-
 ## See Also
 
-- [[pf-tek-psilocybe-fanaticus]]
 - [[oyster-straw-substrate-preparation]]
-- [[pressure-cooker-sterilisation-fungal-substrate]]
-- [[mushroom-cultivation-fundamentals]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

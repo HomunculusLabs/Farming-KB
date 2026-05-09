@@ -102,40 +102,12 @@ mass:
 
 - Raised floors for flood protection and airflow
 - Roof design that handles very heavy rainfall with generous gutters and
-  overflow paths directing water to [[mollison-designers-roof-water-catchment-calculations]]
-- Adjustable openings that can be sealed during storms but opened wide
-  for ventilation during calm humid periods
-- Ventilated roof cavities to prevent condensation and heat buildup
-- Materials resistant to rot, mould, and termite attack
-
-## General Principles
-
-Across all climate zones Mollison identifies universal permaculture design
-principles for housing:
-
-1. Use local, renewable, or recycled materials wherever possible
-2. Design for the specific microclimate, not just the regional climate
-3. Integrate the house with its productive landscape -- zone 0 connects
-   directly to zone 1 food production
-4. Build for durability and repairability rather than replacement
-5. Design multiple functions into every element (a wall that stores heat,
-   supports a roof, and grows a vine)
-6. Start small and build incrementally, testing designs before committing
-   to large structures
-
-Mollison cautions against importing building designs from one climate to
-another without substantial modification. The most energy-efficient and
-comfortable houses are those that work with local conditions rather than
-fighting them. See also [[mollison-designers-lime-and-cement-natural-building]],
-[[mollison-designers-earth-rammed-tire-construction]], and
+  overflow paths directing water to [[mollison-designers-lime-and-cement-natural-building]],
 [[mollison-designers-wool-insulation-and-natural-textiles]].
 
 ## See Also
 
-- [[mollison-designers-climate-zone-1-intensive-garden]]
 - [[mollison-designers-climate-zone-2-orchard-food-forest]]
-- [[mollison-designers-climate-zone-3-farm-forestry]]
 - [[mollison-designers-climate-zone-4-forage-gathering]]
-- [[mollison-designers-climate-zone-5-wilderness-conservation]]
 - [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-climate-zones-permaculture-strategies]]

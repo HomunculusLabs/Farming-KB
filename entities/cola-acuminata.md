@@ -105,16 +105,10 @@ In agroforestry systems, cola trees are intercropped with food crops including c
 ## See Also
 
 - cola nitida
-- [[caffeine]]
 - [[theobromine]]
 - xanthine alkaloids
 - malvaceae
 - west african plants
-- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
-- stimulant plants
-- catechin
-- procyanidin
-- tropical forest plants
 - [[agroforestry]]
 - nigeria agriculture
 - [[mollison-designers-cassava-tropical-root-crops]]

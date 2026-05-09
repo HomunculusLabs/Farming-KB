@@ -28,9 +28,7 @@ According to the Cannabis Health Index, the evidence for cannabis in treating
 uveitis is based on 3 studies reviewed with a total CHI value of 6, yielding a
 CHI score of 2.00.
 
-See also: [[blesching-cannabis-glaucoma]],
-[[cannabis-autoimmune-conditions-detailed]],
-[[blesching-cannabis-infectious-agents-cancer]],
+See also: [[cannabis-autoimmune-conditions-detailed]],
 [[blesching-cannabis-immune-system-modulation]],
 [[blesching-cannabis-herpes-hsv]]
 

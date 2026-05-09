@@ -103,8 +103,6 @@ researchers studying this important medicinal mushroom genus.
 
 ## See Also
 
-- [[cotter-shiitake-cultivation]]
 - [[maitake-grifola-frondosa]]
-- [[mushroom-mycelium-and-mycofiltration]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]
 - [[grain-spawn-production]]

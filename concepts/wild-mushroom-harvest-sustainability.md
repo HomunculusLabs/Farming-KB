@@ -3,7 +3,7 @@ title: Wild Mushroom Harvest Sustainability
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology, mushrooms]
 sources: []
 ---
 # Wild Mushroom Harvest Sustainability
@@ -44,7 +44,7 @@ The age of the forest stand also matters. Many ectomycorrhizal mushroom species 
 
 Climate change is emerging as the most significant long-term threat to wild mushroom sustainability. Changing precipitation patterns, increasing temperatures, and more frequent extreme weather events are affecting fungal fruiting patterns across the globe.
 
-Many European mushroom species are showing shifts in fruiting timing, with autumn-fruiting species now fruiting later in the year and some species showing reduced fruiting frequency. Mediterranean and southern European regions are experiencing particular declines as warming and drying conditions become less favorable for mushroom fruiting. See [[ethnomycology]] for climate impacts on fungi.
+Many European mushroom species are showing shifts in fruiting timing, with autumn-fruiting species now fruiting later in the year and some species showing reduced fruiting frequency. Mediterranean and southern European regions are experiencing particular declines as warming and drying conditions become less favorable for mushroom fruiting. See ethnomycology for climate impacts on fungi.
 
 ## Sustainable Harvesting Practices
 
@@ -72,31 +72,15 @@ Many countries and regions have specific regulations governing wild mushroom har
 
 Certification systems for sustainably harvested wild mushrooms are being developed in several countries. These systems typically require compliance with specific harvesting standards, documentation of harvest practices, and monitoring of mushroom populations and forest health.
 
-In Europe, the Natura 2000 network of protected areas includes regulations affecting wild mushroom harvest. Several European countries have developed national guidelines for sustainable wild mushroom harvesting. See [[mushroom-quality-of-life-cancer]] for certification and quality standards.
-
-Long-term monitoring of mushroom fruiting patterns is essential for assessing sustainability. Phenological networks that track fruiting timing and abundance provide valuable data for understanding population trends and the effects of climate change.
-
-## Community and Economic Sustainability
-
-Sustainable wild mushroom harvest also requires attention to the social and economic dimensions. Many commercial mushroom harvesters are from marginalized communities who depend on mushroom income for their livelihoods. Sustainable management must consider the needs of these communities while protecting the resource.
-
-Community-based management approaches, where local harvesters have stewardship responsibility for mushroom-producing areas, have shown promise in several regions. These approaches combine traditional ecological knowledge with scientific understanding to develop harvest practices that are both ecologically sustainable and economically viable. See [[mycoforestry-forest-management-with-fungi]] for integrated approaches.
+In Europe, the Natura 2000 network of protected areas includes regulations affecting wild mushroom harvest. Several European countries have developed national guidelines for sustainable wild mushroom harvesting. See [[mycoforestry-forest-management-with-fungi]] for integrated approaches.
 
 ## See Also
 
-- [[mushroom-quality-of-life-cancer]]
-
 - [[porcini-commercial-market]]
-
-- [[matsutake-mushroom]]
-
-## Related
 
 - [[ectomycorrhizal-ecology]]
 
-- [[ethnomycology]]
-
-- [[mushroom-foraging-safety]]
+- ethnomycology
 
 - [[mycoforestry-forest-management-with-fungi]]
 - [[mycorrhizal-networks-common-mycelial-network]]

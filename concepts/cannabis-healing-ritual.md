@@ -92,59 +92,9 @@ ye" for several minutes.
 
 During this time, the practitioner visualizes cannabis leaves as athames
 pointing toward celestial space, acting as lightning rods attracting bolts of
-positive energy. Colors of energy are imagined soaking into the [[cannabis-leaf-morphology-and-phyllotaxy]]
-and pulsating with green energy and life.
-
-### East: Knowledge and Wisdom
-
-When the pulsating sensation reaches the brain, the practitioner turns east
-and says: "Earth, give me the knowledge and wisdom to improve myself, my
-health, my mind and my spirit. Feed me with your bounty, mother earth,
-pachamama, sustainer."
-
-### West: Emotional Healing
-
-Turning west, the practitioner says: "Earth, give me the emotional power to
-heal, to help others heal, to help society heal, to help the earth heal, to
-help the entire universe heal. You are the sustainer of life, the healer of
-all that lives on your surface."
-
-### North: Gratitude for Earth's Gifts
-
-Facing north again and looking to the ground, the practitioner says: "Earth,
-you have given us the plant and the animals to feed us, to clothe us, to help
-us grow and flourish on your verdant surface. Allow us to heal and allow me
-to heal. You have given us the herbs to extend our life, to heal our body, to
-sustain our minds, to help us unleash the joy and happiness and ecstasy
-within. You allow us to reach the depths of our minds when we might not be
-able to ourselves. Thank you, mother, for the gifts you have bestowed upon
-us."
-
-## The Athame Sky and Earth Channeling
-
-The practitioner faces north with the athame pointed toward the sky, held
-well above the head. Healing power from the heavens is visualized raining
-down, attracted by the athame's power. The body is infused with this energy
-and with blue and white light for several minutes.
-
-The athame is then pointed toward the ground while the practitioner
-visualizes green healing energy from the earth flowing upward into the body.
-The blue and white energy from above continues healing the mind and spirit,
-while the green energy from below heals the body. This position is held for
-several minutes.
-
-## Closing the Ritual
-
-Facing south, the practitioner says: "Thank you mother earth for your healing
-properties, for your healing energies and for all you have given us now."
-
-Looking toward the circle, they add: "Thank you for your power at this
-moment, and thank you for what you have helped me attain now."
-
-The broom is used to brush the salt circle into nothingness. The ritual is
-complete.
+positive energy. Colors of energy are imagined soaking into the [[cannabis-spiritual-use]] for the philosophical context
+- [[blessing-ground-ritual]] for the earth-blessing ceremony
 
 ## See Also
 
-- [[cannabis-spiritual-use]] for the philosophical context
-- [[blessing-ground-ritual]] for the earth-blessing ceremony
+- [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]

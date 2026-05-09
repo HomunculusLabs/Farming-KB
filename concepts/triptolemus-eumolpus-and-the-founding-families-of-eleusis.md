@@ -105,11 +105,7 @@ The Eumolpidae and Kerykes were the custodians of this promise, maintaining the 
 
 ## Related Topics
 
-- [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] -- the founding myth
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] -- the ritual the families controlled
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- what was actually revealed
 - [[the-road-to-eleusis-wasson-hofmann-ruck]] -- the modern interpretation
-- [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
-- [[eleusinian-hierophantic-families-eumolpidae-kerykes]]
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]

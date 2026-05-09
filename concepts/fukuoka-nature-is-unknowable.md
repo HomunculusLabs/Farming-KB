@@ -52,7 +52,7 @@ Explaining the word "nature" is impossible. Yet people seem to think that by stu
 
 - Once nature becomes estranged from God, it is no longer able to return to its original self
 
-This is the same as the estrangement of man from God. The stronger the conscious desire to know, the further man becomes distanced from nature. See [[fukuoka-god-nature-and-man-as-one]] and [[fukuoka-nature-transcends-human-knowledge]].
+This is the same as the estrangement of man from God. The stronger the conscious desire to know, the further man becomes distanced from nature. See [[fukuoka-nature-transcends-human-knowledge]].
 
 ## Crossing Mountains Gets You Nowwhere
 
@@ -104,19 +104,11 @@ Fukuoka insisted that nature is fundamentally perfect. Here are to be found the 
 
 ## See Also
 
-- [[fukuoka-what-is-nature]]
-
 - [[fukuoka-god-nature-and-man-as-one]]
-
-- [[fukuoka-nature-transcends-human-knowledge]]
 
 - [[fukuoka-nature-perfect-imperfect]]
 
-- [[fukuoka-how-nature-should-be-perceived]]
-
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]
-
-- [[fukuoka-wholistic-nature-perception]]
 
 - [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]

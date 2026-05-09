@@ -112,10 +112,7 @@ An important consideration for long-term mother plant maintenance is the potenti
 
 ## See Also
 
-- [[cervantes-cloning]]
 - [[cervantes-vegetative-phase]]
-- [[cervantes-strain-selection]]
 - [[cervantes-seed-germination]]
-- [[cervantes-pest-disease]]
 - [[cannabis-cloning]]
 - [[cannabis-phenotype-selection]]

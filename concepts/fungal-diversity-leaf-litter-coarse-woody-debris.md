@@ -3,7 +3,7 @@ title: Fungal Diversity Leaf Litter Coarse Woody Debris
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Biodiversity in Leaf Litter and Coarse Woody Debris
@@ -80,20 +80,9 @@ Fungi on litter and CWD perform essential ecosystem functions:
 
 ## Related
 
-- [[leaf-litter-microfungal-diversity-tropical-temperate]] Topics
-
 - [[fungal-biodiversity-forest-floor]]
 - fungal diversity leaf litter coarse woody debris
-- [[fungal-leaf-litter-succession]]
 - [[fungal-decomposition]]
-- [[fungal-biodiversity-grassland]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapters 5 and 16: Fungal Decomposition of Plant Litter and Coarse Woody Debris
-- Frankland, J.C. 1992. Mechanisms in fungal succession
-- Polishook, J.D. et al. 1996. Fungi from decaying leaves in Puerto Rico
 - [[fungal-ecosystem-roles]]
-- [[blue-lotus-history]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]

@@ -3,29 +3,7 @@ title: Tropical Mushroom House Construction
 created: 2025-01-15
 updated: 2026-04-14
 type: concept
-tags: [mycology, mushrooms]
-sources: []
----
-# Tropical Mushroom House Construction
-
-In tropical and subtropical climates, mushroom houses can be built for very low cost using locally available materials. A basic structure suitable for 1,000 bags can be built for as little as 500 Baht (approximately US$12).
-
-## Sizing and Capacity
-
-| Capacity (bags) | Approximate Size |
-|-----------------|------------------|
-| 1,000           | 2m x 3m          |
-| 2,000           | 3m x 4m          |
-| 3,000           | 4m x 5m          |
-| 4,000           | 5m x 6m          |
-
-The ratio should be one incubation house for every three fruiting body houses, allowing rotation of substrate bags through the production cycle.
-
-## Required Environmental Controls
-
-Mushroom houses must account for four critical factors:
-
-- **Ventilation** — fresh air exchange to manage [[fruiting-conditions-mushroom-cultivation]] and reduce condensation
+tags: [[fruiting-conditions-mushroom-cultivation]] and reduce condensation
 - **Humidity** — maintained at 80-85% during fruiting through misting and watering
 - **Temperature** — species-dependent, typically 20-37°C for tropical varieties
 - **Light** — indirect natural light; most cultivated mushrooms fruit with ambient illumination
@@ -99,17 +77,7 @@ This setup mushroom-pasteurization|pasteurizes 80-100 mushroom-substrates|substr
 
 ## Pest Prevention
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] planted around the perimeter deters insects
-- Lime spread on shelves, poles, and ground discourages pests
-- Regular cleaning reduces contamination sources
-- Water trench around the structure blocks crawling insects
-
-## See Also
-
 - [[mushroom-cultivation-environmental-parameters]] — temperature, humidity, and CO2 requirements
-- [[substrate-bag-preparation]] — preparing and pasteurizing substrate
 - [[homestead-mushroom-business]] — economics and scale considerations
-- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] — alternative cultivation method for Volvariella
 - [[mushroom-cultivation-troubleshooting-guide]] — diagnosing common cultivation problems
-- [[mushroom-lighting-and-environmental-requirements]]
 - [[mushroom-environmental-parameters]]

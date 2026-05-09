@@ -16,28 +16,7 @@ type: concept
 
 # Zone 4 - Forage and Gathering Zone
 
-Zone 4 in [[permaculture-design]] is the extensive management zone, visited
-monthly to seasonally. It is the area where humans harvest wild or semi-wild
-resources with minimal active management. Mollison describes Zone 4 as the
-foraging, grazing, and timber-gathering area that connects the managed
-landscape to the wilderness of Zone 5. The primary inputs are observation and
-opportunistic harvesting; the primary outputs are foraged foods, timber,
-fodder, and genetic resources.
-
-## The Role of Zone 4
-
-Zone 4 serves as a buffer and transition between intensive production and
-wilderness. It provides:
-- Wild food harvesting (nuts, berries, mushrooms, herbs, wild greens)
-- Timber and pole harvesting from managed or natural forest
-- Occasional grazing for livestock (seasonal or emergency)
-- Seed and genetic material collection
-- Wildlife habitat and corridor
-- Fire protection buffer for inner zones
-- Recreation and nature observation
-
-Mollison emphasizes that Zone 4 is not neglected land but purposefully
-managed at low intensity. See [[permaculture-zone-planning]] for how Zone 4
+Zone 4 in [[permaculture-zone-planning]] for how Zone 4
 relates to the broader zone system.
 
 ## Foraging Systems
@@ -101,7 +80,7 @@ reliable water flow. Springs emerging in Zone 4 should be protected and
 developed for stock water or gravity-fed supply to lower zones. Swales and
 check dams in Zone 4 gullies slow runoff and increase infiltration, reducing
 erosion and improving downstream water quality. This relates to
-[[keyline-design]] and [[backyard-water-harvesting]] principles.
+[[backyard-water-harvesting]] principles.
 
 ## Seed Sources and Genetic Reservoirs
 
@@ -109,21 +88,7 @@ Mollison assigns Zone 4 a critical role as a genetic reservoir. Wild plant
 populations in Zone 4 contain genetic diversity that may be needed for future
 breeding programs. Climate-adapted local ecotypes of useful species should be
 identified, mapped, and protected. Seed collection from Zone 4 wild
-populations supports [[seed-saving-vegetables]] programs and provides plant material for
-Zone 2 and Zone 3 plantings.
-
-## Fire Management
-
-In fire-prone regions, Zone 4 serves as the primary fire management buffer
-between the managed landscape and wilderness. Mollison recommends:
-- Maintaining fuel-reduced corridors along boundaries with Zone 3
-- Creating firebreaks along ridgelines and property boundaries
-- Managing understory fuel loads through selective grazing or controlled
-  burning
-- Retaining moist gullies and riparian zones as fire refuges
-- Planting fire-resistant tree species in strategic locations
-
-Fire management connects to [[zone-and-sector-analysis]] for identifying fire risk
+populations supports [[zone-and-sector-analysis]] for identifying fire risk
 directions and [[permaculture-slope-analysis-and-reading]] for understanding fire behavior on
 different landforms.
 
@@ -147,4 +112,3 @@ Nature is the primary manager; humans are occasional harvesters and observers.
 Zone 4 provides critical connectivity for wildlife movement. Mollison
 recommends maintaining continuous vegetation corridors linking Zone 5
 wilderness areas through Zone 4. These corridors support natural pest
-control by allowing predatory species to move from wild areas into managed

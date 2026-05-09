@@ -38,9 +38,9 @@ Key umbellifers for insectary use:
 - Parsley (Petroselinum crispum) -- biennial, flowers in second year
 - Parsnip (Pastinaca sativa) -- biennial, left to flower provides major insectary value
 - Dill (Anethum graveolens) -- annual, attracts parasitic wasps
-- Coriander (Coriandrum sativum) -- annual, [[succession-planting]] extends bloom period
+- Coriander (Coriandrum sativum) -- annual, succession planting extends bloom period
 - Queen Anne's lace (Daucus carota) -- wild carrot, excellent insectary
-- Yarrow ([[achillea-millefolium]]) -- flat flower heads attract many beneficials
+- Yarrow (Achillea millefolium) -- flat flower heads attract many beneficials
 
 ### Composite Flowers
 
@@ -91,4 +91,4 @@ Perennial insectary hedges along garden edges and between crop zones provide per
 
 - [[permaculture-livestock-forage-systems]] -- Including bees as pollinators and honey producers
 - [[permaculture-forestry-systems]] -- Insectary plants in the understory of food forests
-- [[permaculture-design-principles]] -- The ethical basis for working with natural systems
+- [[permaculture-introduction-and-ethics]] -- The ethical basis for working with natural systems

@@ -64,71 +64,32 @@ number of thermotolerant and thermophilic fungi at approximately
 
 Thermophilism is strongly developed in the Phycomycetes,
 Ascomycetes, and mitosporic ascomycetes (hyphomycetes), but is
-absent from the [[basidiomycota-classification-major-clades]].
-Key genera include Thermomyces, Thermoascus, Talaromyces,
-Chaetomium, Rhizomucor, Malbranchea, Myriococcum, and
-Scytalidium. Widespread species include Thermomyces
-lanuginosus, T. stellatus, Rhizomucor miehei, R. pusillus,
-Thermoascus aurantiacus, and Scytalidium thermophilum.
-
-Undescribed species are frequently encountered (Tansey and
-Jack 1976), suggesting that the true diversity of thermophilic
-fungi will increase as additional habitats are evaluated.
-Closer examination of the ecological role of these fungi in
-decomposition processes, especially cellulose and lignin
-degradation, is warranted, particularly in arid and semi-arid
-ecosystems.
-
-## Ecological Roles in Decomposition
-
-Thermophilic fungi play essential functional roles in the
-self-heating phase of composting and other thermogenic
-environments. Rhizomucor pusillus, for example, is a primary
-sugar fungus on wheat-straw compost, whereas Humicola insolans
-can hydrolyze pure cellulose (Chang 1967). Phanerochaete
-chrysosporium, a fast-growing thermotolerant fungus that causes
-white rot, degrades lignin (Rosenberg 1978).
-
-## Isolation Methods
-
-Successful isolation of thermophilic and thermotolerant fungi
-requires incubation of material at temperatures between 45
-degrees C and 50 degrees C. Primary isolation cultures should
-never be grown below 40 degrees C. Initial transfer plates
-should be incubated at 50 degrees C, then moved to 40 degrees
-C to prevent agar from drying (Cooney and Emerson 1964).
-
-Moisture loss is a significant problem at high temperatures.
-Evaporation can be reduced by placing plates in sealed
-containers lined with moist paper towels. Sealing plates with
-Parafilm helps, but moisture condensation can then become an
-issue. Potato-dextrose agar is unsatisfactory because it tends
-to shrivel at 50 degrees C.
-
-Enrichment cultures with recalcitrant carbon sources
-(cellulose, chitin, keratin, lignin) can selectively isolate
-functional guilds of thermophilic fungi capable of degrading
-complex polymers. Safety measures must be used when working
-with thermotolerant fungi growing at or near 37 degrees C
-because some can be serious human pathogens (Tansey and Brock
-1973).
-
-## Relationship to Other Extremophiles
-
-Thermophilic fungi are part of a broader spectrum of
-[[fungal-responses-extreme-environments]] that includes
-[[psychrotolerant-psychrophilic-fungi-ecology]],
+absent from the [[fungal-responses-extreme-environments]] that includes
 [[halotolerant-halophilic-fungi]], and
-[[acidophilic-alkalophilic-fungi]]. Understanding how these
-fungi adapt to temperature extremes provides insight into
-fungal physiology, [[fungal-enzyme-systems-and-nutrient-cycling]],
+[[fungal-enzyme-systems-and-nutrient-cycling]],
 and the limits of eukaryotic life.
 
 ## See Also
 
-- [[fungal-responses-extreme-environments]]
 - [[psychrotolerant-psychrophilic-fungi-ecology]]
-- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[composting-humus-building-holzer]]
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]
+## Practical Considerations
+
+Successful implementation of Thermophilic and Thermotolerant Fungi - Ecology and Isolation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

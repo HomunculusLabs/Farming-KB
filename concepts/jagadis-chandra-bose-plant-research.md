@@ -131,9 +131,6 @@ telegraphy work anticipated modern radio communications.
 
 ## Related
 
-- [[jagadis-chandra-bose]] Concepts
-
 - [[cleve-backster-plant-perception-experiments]]
-- [[plant-bioelectricity]]
 - [[plant-perception]]
 - [[sound-and-music-effects-on-plants]]

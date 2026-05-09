@@ -1,7 +1,7 @@
 ---
 title: saprotrophic nutrient strategies
 created: 2026-04-28
-tags: [mycology, fungal-biology, nutrient-cycling, ecolodecompositiontion]
+tags: [[mycology, fungal-biology, nutrient-cycling, ecolodecompositiontion]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
@@ -9,27 +9,11 @@ type: concept
 ---
 
 # Saprotrophic fungi obtain nutrients by decomposing dead organic matter,
-occupying a fundamentally different ecological niche from [[arbuscular-mycorrhizal-fungi]] or parasitic fungi. Their [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
+occupying a fundamentally different ecological niche from [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
 are shaped by the chemical complexity of their substrates, competitive
 interactions with other decomposers, and the stoichiometric constraints of
 fungal metabolism. Understanding these strategies is essential for predicting
-[[dighton-litter-quality-fungal-decomposition-rates]], soil carbon dynamics, and ecosystem responses to
-environmental change.
-
-## Fundamental Nutrient Modes
-
-### Carbon Acquisition
-
-Saprotrophs face the challenge of extracting carbon from complex polymers
-that are structurally resistant to enzymatic attack. Their carbon strategies
-include:
-
-- **Broad-spectrum enzymatic production:** Most saprotrophs secrete
-  cellulases, hemicellulases, pectinases, and proteases simultaneously,
-  enabling them to exploit heterogeneous substrates
-- **Lignin specialization:** White-rot fungi invest heavily in lignin
-  peroxidases, manganese peroxidases, and laccases, allowing them to access
-  the most recalcitrant carbon in wood. [[white-rot-fungi]] profiles
+[[white-rot-fungi]] profiles
   these lignin-degrading specialists in detail.
 - **Fenton chemistry:** Brown-rot fungi generate hydroxyl radicals through
   non-enzymatic iron reduction and hydrogen peroxide production, a
@@ -102,35 +86,7 @@ Saprotrophs vary in environmental stress tolerance:
 - **Temperature extremes:** Thermophilic fungi decompose compost above 50
   degrees C; psychrotolerant species remain active near freezing
 - **Heavy metal resistance:** Some saprotrophs sequester metals in vacuoles or
-  precipitate them extracellularly, enabling growth on [[mycoremediation-mushroom-cultivation-contaminated-substrates]]
-
-## Stoichiometric Constraints and Nutrient Economy
-
-Fungal biomass has a characteristic C:N:P ratio of approximately 100:10:1.
-When substrates are nutrient-poor relative to this ratio, fungi face
-stoichiometric challenges:
-
-- **Carbon overflow:** Excess carbon is respired as CO2 or excreted as
-  extracellular metabolites when it cannot be converted to biomass
-- **Nutrient recycling:** Fungi translocate nutrients from older, depleted
-  mycelium to actively growing tips
-- **Nitrogen mining:** Fungi in nitrogen-limited wood extend hyphae beyond the
-  wood-soil interface to access mineral soil nitrogen
-- **Carbon use efficiency (CUE):** Fraction of assimilated carbon retained in
-  biomass. Ranges from 0.1 to 0.6, decreasing under nutrient limitation and
-  increasing with substrate quality
-
-## Functional Classification by Substrate
-
-Saprotrophic fungi are classified by the substrates they specialize on:
-
-- **Litter saprotrophs:** Decompose leaf litter; broad-spectrum enzyme producers
-- **Wood saprotrophs:** Woody tissue specialists; divided into white-rot,
-  brown-rot, and soft-rot functional types
-- **Dung saprotrophs:** Coprophilous fungi decomposing herbivore dung, often
-  with life cycles synchronized to animal digestion timing
-- **Soil saprotrophs:** Generalist decomposers of mixed organic matter.
-  [[soil-food-web-structure]] describes how these interact with bacteria
+  precipitate them extracellularly, enabling growth on [[soil-food-web-structure]] describes how these interact with bacteria
   and microfauna.
 - **Fungal saprotrophs:** Mycophagous fungi that decompose other fungi
 
@@ -147,4 +103,3 @@ ecosystem responses to environmental change:
   carbon storage
 - **Carbon feedbacks:** The balance between fungal CUE and decomposition rate
   determines whether warming accelerates or decelerates soil carbon loss.
-  [[soil-food-web-nutrient-cycling]] provides the ecosystem-level framework.

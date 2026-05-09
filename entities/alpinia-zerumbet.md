@@ -98,23 +98,13 @@ The species has naturalized in parts of Hawaii, Florida, and the Caribbean, wher
 
 ## See Also
 
-- [[alpinia-galanga]]
 - [[boesenbergia-rotunda]]
-- [[zingiber-officinale]]
 - [[cymbopogon-citratus]]
-- [[eugenia-caryophyllata]]
 - [[curcuma-longa]]
-- [[turmeric]]
-- [[ginger]]
 - [[cinnamomum-verum]]
-- [[piper-nigrum-entity]]
 - [[murraya-koenigii]]
-- [[ocimum-sanctum]]
 - [[moringa-oleifera]]
-- [[aloe-vera]]
 - [[withania-somnifera]]
-- [[centella-asiatica]]
 - [[bacopa-monnieri]]
-- [[andrographis-paniculata]]
 - [[azadirachta-indica]]
 - [[glycyrrhiza-glabra]]

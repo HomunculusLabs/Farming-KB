@@ -117,10 +117,6 @@ from other routes.
 ## Related
 
 - [[shirota-psilocin-psilocybin-synthesis]]
-- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]
-
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 - [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]

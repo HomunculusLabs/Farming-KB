@@ -1,7 +1,7 @@
 ---
 title: Spawn Preparation
 created: 2026-04-28
-tags: [mycology, cultivation, spawn, grain]
+tags: [[mycology, cultivation, spawn, grain]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -11,30 +11,7 @@ type: concept
 # Spawn Preparation
 
 Spawn is the living fungal mycelium propagated on a nutritious substrate,
-serving as the "seed" for [[mushroom-cultivation]]. Preparing clean, vigorous
-spawn is arguably the most critical step in any mushroom growing operation.
-Contaminated or weak spawn leads directly to crop failure, while quality
-spawn dramatically improves yields and consistency.
-
-## Grain Spawn Basics
-
-Grain spawn is the most common form used by small-to-medium cultivators.
-Whole grains such as rye, millet, wheat, or sorghum provide an ideal
-combination of nutrition, moisture retention, and air space between
-individual kernels. Each kernel colonized by mycelium becomes a discrete
-inoculation point when mixed into a bulk substrate, greatly accelerating
-colonization speed compared to using a single mass of inoculum.
-
-Rye grain is widely considered the gold standard for general-purpose grain
-spawn. Its individual kernels are large enough to shake apart after
-colonization, distributing mycelium evenly throughout a substrate bag or
-log. Millet is favored when many inoculation points are desired due to
-its small kernel size, though it can be more difficult to hydrate evenly.
-
-## Hydration and Loading
-
-Grains must be hydrated to approximately 50-55% moisture content before
-[[sterilization]]. Over-hydrated grains clump together, reducing air exchange
+serving as the "seed" for [[sterilization]]. Over-hydrated grains clump together, reducing air exchange
 and promoting anaerobic bacterial growth. Under-hydrated grains slow
 mycelial growth because the fungus cannot access dissolved nutrients
 efficiently.
@@ -124,16 +101,5 @@ While grain spawn is the most common, several other spawn types exist:
 
 ## Scale Considerations
 
-The choice of [[spawn-production]] method scales with operation size.
-Hobbyists may prepare a few quart jars per week in a home pressure
-canner. Small commercial operations typically use 5-10 pound grain bags
-in autoclaves, producing enough spawn for dozens of substrate blocks per
-batch. Large operations may maintain dedicated spawn production rooms
-with industrial autoclaves and clean-room inoculation facilities,
-producing hundreds of pounds of spawn per week.
-
-## See Also
-
-- [[duggar-mushroom-spawn-preparation-techniques]]
-- [[grain-spawn-preparation]]
+The choice of [[duggar-mushroom-spawn-preparation-techniques]]
 - [[spawn-grain-preparation]]

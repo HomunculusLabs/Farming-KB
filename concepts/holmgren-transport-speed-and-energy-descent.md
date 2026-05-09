@@ -64,29 +64,7 @@ Holmgren describes Permaculture as "aid for addicts" and applies addiction
 frameworks to understand widespread dependence on car transport. The
 term "hedonic treadmill" describes how continuous increases in material
 wealth are now needed to maintain happiness measures, which Holmgren
-identifies as [[holmgren-consumer-addiction-and-hedonic-treadmill]].
-
-He argues that a complete social and environmental audit of car transport
-shows the damage is deep and long-term, even if people suffer in ways not
-directly connected to their driving decisions. The irrational anger of
-people unable to get petrol during strikes indicates emotional and
-physical dependence comparable to pharmacological addiction. He suspects
-many commuters unable to get petrol would be "as dangerous as heroin
-addicts denied their hit." The same could be said for many television
-viewers and shoppers if they were denied their respective hits.
-
-## Urban Sustainability and Transport
-
-Transport is central to the urban sustainability debate. The more
-car-dependent a city is, the more unsustainable and unliveable it tends
-to be. While efficient public transport is commendable for reducing
-energy waste, even European high-speed train commuting of 100-200
-kilometres has created patterns inherently unsustainable during energy
-descent.
-
-Radical commentators have suggested that low movement and slow speed are
-fundamental sustainability criteria for cities. Holmgren supports this
-view as consistent with [[permaculture-small-and-slow-solutions]].
+identifies as [[permaculture-small-and-slow-solutions]].
 
 ## Techno-Optimism and Its Limits
 
@@ -100,24 +78,7 @@ economically viable air transport.
 
 ## Food Miles and Local Production
 
-At [[holmgren-built-environment-household-energy-storage]],
-home-produced food combined with infrequent bulk purchase dramatically
-reduces "food miles" and speed. Perishable food brought from great
-distances demands fast transport. Working from home, with commitment to
-the local and regional over national and global, reduces the need for
-long-distance high-speed travel.
+At [[permaculture-small-and-slow-solutions]] applies directly: slow, local, human-powered systems are more resilient, more equitable, and more adaptive than high-speed, fossil-fuel-dependent infrastructure. Community-scale tool libraries, cooperative food processing facilities, and local energy grids further reduce transport demand by providing shared resources within walking distance.
 
-## Bicycle Transport
-
-Bicycle transport is specifically listed among the small-scale,
-minimal-movement alternatives associated with Permaculture. It represents
-the human-scale approach to mobility that energy descent demands.
-
-## Permaculture Transport Redesign Strategies
-
-Holmgren advocates for a layered approach to transport redesign that works from the local outward. At the household scale, this means arranging the home and garden so that daily activities (cooking, gardening, child care, home-based work) require no motorized transport. At the neighborhood scale, it means co-locating residences with essential services: food production, schools, healthcare, and social spaces within walking or cycling distance. At the regional scale, rail-based freight and passenger systems replace trucking and aviation for non-urgent movement. Holmgren emphasizes that the most energy-efficient transport is no transport at all — designing systems where needs are met on-site eliminates the need for movement. The principle of [[permaculture-small-and-slow-solutions]] applies directly: slow, local, human-powered systems are more resilient, more equitable, and more adaptive than high-speed, fossil-fuel-dependent infrastructure. Community-scale tool libraries, cooperative food processing facilities, and local energy grids further reduce transport demand by providing shared resources within walking distance.
-
-See also [[permaculture-self-reliance-and-political-action]],
-[[holmgren-household-economy-and-self-reliance]],
-[[permaculture-retrofitting-suburbs]],
+See also [[holmgren-household-economy-and-self-reliance]],
 [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].

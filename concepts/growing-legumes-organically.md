@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Growing Legumes Organically
 
@@ -78,11 +79,7 @@ All require warm climates. Lima beans need soil temperature of 65F (18C) to germ
 
 ## Related
 
-- [[vegetable-growing-guide]] for general vegetable cultivation
 - [[cover-cropping-guide]] for green manure crops
-- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 - [[hamilton-organic-pest-control]] for pest management
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for interplanting strategies
 - [[crop-rotation-benefits]]
-- [[soil-building-permaculture]]
 - [[organic-vegetable-garden-rotation-deep-beds]]

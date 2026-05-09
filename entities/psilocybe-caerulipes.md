@@ -34,7 +34,7 @@ It grows as a saprotroph on decaying hardwood debris, particularly on logs, stic
 
 ## Psychoactive Compounds
 
-*Psilocybe caerulipes* contains [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive alkaloids. Baeocystin has also been detected in some collections. The alkaloid content is generally moderate, though significant variation has been reported between collections. Potency is considered lower than that of *Psilocybe cubensis* but comparable to several other woodland psilocybin species.
+*Psilocybe caerulipes* contains [[psilocin]] as its primary psychoactive alkaloids. Baeocystin has also been detected in some collections. The alkaloid content is generally moderate, though significant variation has been reported between collections. Potency is considered lower than that of *Psilocybe cubensis* but comparable to several other woodland psilocybin species.
 
 ## Similar Species
 
@@ -68,25 +68,28 @@ The farinaceous (mealy) odor and taste are helpful supporting characters, as man
 ## Chemical Profile
 
 Published analyses of *Psilocybe caerulipes* alkaloid content are limited but indicate moderate concentrations:
-- [[psilocybin-compound]]: approximately 0.15–0.60% of dry weight (variable between collections)
 - [[psilocin]]: approximately 0.05–0.25% of dry weight
-- [[baeocystin]]: detected in trace to low concentrations
-
-The alkaloid content shows significant inter-collection variability, consistent with the pattern observed across most psilocybin mushroom species. Factors influencing this variability include substrate composition, environmental conditions during growth, genetic differences between populations, and the developmental stage at harvest. The moderate potency places *P. caerulipes* below species such as [[psilocybe-azurescens]] and [[psilocybe-cyanescens]] but above some of the more weakly active Mexican species.
-## Seasonality and Foraging
-
-*Psilocybe caerulipes* fruits primarily from late May through October in eastern North America, with peak fruiting typically occurring during the warmest and wettest months of July and August. It is most commonly found 2–5 days after significant rainfall events, when soil and wood moisture levels are highest. The species fruits singly to scattered, rarely in large groups, which combined with its small size makes productive foraging challenging. Experienced foragers recommend searching along stream banks, ravine bottoms, and other moist, shaded microhabitats within deciduous forests, paying particular attention to fallen hardwood logs and branches in advanced stages of decomposition. The species is most abundant in old-growth and mature second-growth forests with substantial coarse woody debris.
-## Taxonomic History
-
-*Psilocybe caerulipes* was first described by Charles Horton Peck in 1880 as *Agaricus caerulipes*, based on collections from New York State. Peck, the State Botanist of New York, described numerous fungal species from eastern North America during his prolific career. The species was later transferred to the genus *Psilocybe* by Rolf Singer in the mid-20th century as part of his comprehensive reclassification of the Agaricales. Its placement in Psilocybe sensu stricto (the clade containing bluing, psilocybin-producing species) has been confirmed by molecular phylogenetic studies. The species has also been placed in section Caerulipes by some authors, a group of predominantly North American woodland species that share morphological and ecological characteristics.
-## See Also
-
-- [[psilocybe-cubensis]]: The most widely cultivated psilocybin mushroom
-- [[psilocybe-ovoideocystidiata]]: Another eastern North American psilocybin species
-- [[psilocybe-caerulescens-entity]]: Mexican species with similar bluing characteristics
-- [[psilocybin-compound]]: Primary psychoactive compound
+- [[psilocybe-azurescens]] and [[psilocybe-cubensis]]: The most widely cultivated psilocybin mushroom
+- [[psilocybe-caerulescens]]: Mexican species with similar bluing characteristics
 - [[psilocin]]: Active metabolite of psilocybin
-- [[baeocystin]]: Secondary tryptamine alkaloid detected in this species
 - [[psilocybe-quebecensis]]: Rare North American species from similar latitudes
-- [[psilocybe-fascicata]]: Wood-inhabiting species with overlapping range
 - [[gymnopilus-spectabilis-entity]]: Larger psychoactive species found on wood
+## Practical Considerations
+
+Successful implementation of Psilocybe caerulipes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

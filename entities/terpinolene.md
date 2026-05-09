@@ -134,9 +134,7 @@ its typically low abundance:
 
 ## See Also
 
-- [[myrcene]]
 - [[limonene]]
-- [[linalool]]
 - [[beta-caryophyllene]]
 - [[pinene]]
 - cannabis terpenes

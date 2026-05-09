@@ -1,5 +1,5 @@
 ---
-title: [[wavelet-transform]]
+title: wavelet transform
 subtitle: A multiscale method for analyzing signals with localized waves
 tags: [signal-processing, mathematics, data-analysis, compression, time-frequency-analysis]
 date: 2026-05-02
@@ -126,7 +126,7 @@ Short-time Fourier analysis adds localization by using a fixed window.
 Wavelet analysis uses windows that change with scale, giving long windows for low frequencies and short windows for high frequencies.
 This variable resolution is one of its defining advantages.
 Wavelets can also complement state-estimation methods such as the [[kalman-filter]].
-A Kalman filter estimates hidden states through time using a dynamical model and noisy observations.
+A [[kalman-filter]] estimates hidden states through time using a dynamical model and noisy observations.
 A wavelet transform reorganizes observed data into scale-localized coefficients.
 The two methods answer different questions, but both are used for noisy, time-varying signals.
 Hybrid systems may use wavelets for denoising or feature extraction before statistical filtering.
@@ -144,3 +144,7 @@ They are especially powerful when data contain both broad trends and sharply loc
 ## See Also
 wavelet transform
 [[kalman-filter]]
+
+## See Also
+
+- [[query-what-is-a-wavelet-transform-used-for]]

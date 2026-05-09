@@ -37,18 +37,7 @@ them particularly challenging for bioremediation:
   progressively through food chains, reaching highest levels in
   top predators.
 
-## DDT Degradation by [[phanerochaete-chrysosporium]]
-
-Phanerochaete Chrysosporium in Bioremediation has been identified as the most efficient fungal
-species for DDT degradation. The white rot fungus degrades DDT through
-a pathway that differs fundamentally from bacterial degradation routes.
-While bacteria primarily reduce DDT to DDD (dichloro-diphenyl-
-dichloroethane) through reductive dechlorination, P. chrysosporium
-oxidizes the benzylic carbon to produce dicofol (2,2-bis(4-chlorophenyl)-
-2,2,2-trichloroethanol), a tertiary alcohol. This fungal oxidative
-pathway is significant because dicofol is itself a known acaricide
-with its own environmental concerns, highlighting the importance of
-monitoring degradation intermediates in [[fungal-bioremediation]] systems.
+## DDT Degradation by [[fungal-bioremediation]] systems.
 
 Optimal DDT degradation by P. chrysosporium occurs on cellulose or
 starch as the primary carbon source. In soil system experiments, a
@@ -68,9 +57,7 @@ fungal degradation:
   may enhance its bioavailability for fungal enzymatic attack.
 - **Aldrin and dieldrin**: These cyclodiene insecticides are extremely
   persistent, with field half-lives of approximately 3 and 8 years
-  respectively. [[trichoderma-koningii]] has been shown to degrade
-  dieldrin to carbon dioxide, though the process is slow.
-- **Endosulfan**: [[aspergillus-niger]] has demonstrated the ability to
+  respectively. [[aspergillus-niger]] has demonstrated the ability to
   metabolize endosulfan isomers, representing a potential route for
   detoxification of this commonly used organochlorine insecticide.
 - **Methoxychlor, chlordane, heptachlor, and mirex**: These
@@ -118,14 +105,7 @@ soil microorganisms, and the extended treatment times required due to
 the persistence of the target compounds.
 
 See also: Fungal Pesticide POP Degradation,
-[[staycare-fungal-degradation-of-pcbs-and-dioxins]],
-and Bioavailability of Pollutants in Fungal Bioremediation.
-
-## See Also
-
-- [[bioremediation-using-fungi]]
-
-- [[staycare-fungal-degradation-of-triazine-herbicides]]
+[[fungal-bioremediation-mechanisms]]
 
 - [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
 - [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]]

@@ -130,9 +130,6 @@ individuals report sensitivity even to cooked material.
 
 ## See Also
 
-- [[armillaria-mellea]] — ringed honey mushroom, closest relative
 - [[armillaria-gallica]] — honey mushroom species, common in European forests
-- [[armillaria-ostoyae]] — dark honey mushroom, aggressive conifer pathogen
 - [[fomes-fomentarius]] — tinder fungus, another wood-decay basidiomycete
-- [[hericium-erinaceus]] — lion's mane, edible mushroom on hardwoods
 - [[pleurotus-ostreatus]] — oyster mushroom, shared hardwood substrate

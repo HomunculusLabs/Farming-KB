@@ -105,45 +105,6 @@ nozzle selection, or pump type accordingly.
 Helicopters and airplanes can successfully apply compost tea because
 the water drops produced are large enough to protect organisms during
 descent. The organisms arrive at the leaf surface in an active state
-with time to produce attachment glue. Center pivot [[irrigation-systems]]
-are also acceptable anytime during the day because the large drop
-sizes protect organisms from UV exposure during application.
-
-## Drip Line Application
-
-Drip irrigation systems can be used for compost tea application,
-but the small emitter openings can clog with organic material. Clean
-drip lines with 3 to 10 percent vinegar or 3 percent hydrogen
-peroxide rather than chlorine or hydrogen-based products. Do not use
-chlorine or hydrogen in the drip system to clean it, as these
-chemicals can leave residues that harm the organisms in subsequent
-tea applications. Vinegar, citric acid, and fulvic acid are
-acceptable alternatives for cleaning drip lines.
-
-## Water Volume and Coverage
-
-Good foliar coverage requires enough water to coat the leaf surface
-without excessive runoff. Most recommendations suggest applying
-enough tea to just before the point of runoff. Too little volume
-means inadequate coverage and poor organism establishment. Too much
-volume wastes tea and may cause runoff that moves organisms off the
-target area. The sticker-spreader and the sprayer settings both
-affect how efficiently the tea covers the leaf surface.
-
-## Biofilm Management in Sprayers
-
-Biofilm can develop in spray tanks and hoses over time, potentially
-harboring anaerobic organisms that can contaminate subsequent tea
-batches. A recirculation hose in the spray tank helps wash off any
-developing biofilm while you are spraying the tea out. Tank material
-is also important: surfaces that wash easily and do not provide
-rough texture for biofilm attachment are preferred. Regular cleaning
-with vinegar or citric acid solutions prevents biofilm buildup
-without harming organisms.
-
-## See Also
-
-- [[compost-tea-brewing-equipment-ingham]]
-- [[ingham-field-guide-compost-tea-microscope-analysis]]
+with time to produce attachment glue. Center pivot [[compost-tea-brewing-equipment-ingham]]
 - [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]

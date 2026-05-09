@@ -3,13 +3,7 @@ title: Neurotropic Fungi Biogeographic Patterns
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
----
-# Neurotropic Fungi Biogeographic Patterns
-
-The global distribution of [[neurotropic-fungi-world-checklist]] reveals striking
+tags: [[neurotropic-fungi-world-checklist]] reveals striking
 biogeographic patterns that provide insights into the evolutionary history and ecology of these
 organisms. Analysis by Guzman, Allen & Gartz (1998) of 216 neurotropic species across 20 genera
 identified several key distributional patterns.
@@ -106,15 +100,8 @@ species continue to be described from previously unsurveyed areas.
 
 ## Related Topics
 
-- [[neurotropic-fungi-world-checklist]] - Complete species checklist
 - [[neurotropic-fungi-in-mexico]] - Highest diversity center
-- [[neurotropic-fungi-in-south-america]] - Possible origin region
 - [[psilocybe-section-classification]] - Taxonomic framework
-- [[neurotropic-fungi-in-oceania]] - Trans-Pacific connections
-
-Source: Guzman, Allen & Gartz (1998), "A Worldwide Geographical Distribution of the Neurotropic
-Fungi," Ann. Mus. civ. Rovereto 14: 189-280.
 - [[neurotropic-fungi-in-africa]]
-- [[neurotropic-fungi-in-asia]]
 - [[neurotropic-fungi-in-north-america]]
 - [[sacred-fungi-groups-world]]

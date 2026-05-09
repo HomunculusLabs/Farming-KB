@@ -75,18 +75,12 @@ The mutability of consciousness through chemistry has profound implications. If 
 
 ## See Also
 
-- [[lsd-compound-profile]]
-
 - [[philosophical-implications-of-psychedelics]]
-- [[psychedelic-consciousness-expansion]]
-- [[psilocybin-and-mystical-experience]]
 - [[psilocybin-and-mystical-experience]]
 - [[default-mode-network-and-ego-dissolution]]
 
 ## Related
 
 - [[psilocybin-and-mystical-experience]]
-- [[psilocybin-and-mystical-experience]]
-- [[ketamine-reference]]
 - [[psychedelic-therapy-shamanism-comparison]]
 - [[psilocybin-waking-dreams-and-serotonergic-neurochemistry]]

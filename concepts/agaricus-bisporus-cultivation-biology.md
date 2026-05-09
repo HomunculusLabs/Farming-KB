@@ -88,37 +88,9 @@ Genetic improvement of A. bisporus has traditionally been slow due to its predom
 
 Molecular approaches including genome sequencing, marker-assisted selection, and genetic transformation are being applied to improve traits such as yield, disease resistance, shelf life, and nutritional quality.
 
-Understanding the genetic basis of agronomically important traits is a major focus of mushroom research, with [[mushroom-genetics-strain-selection]] playing a central role in developing improved commercial varieties.
-
-## Composting and Substrate Innovation
-
-The biology of compost preparation for A. bisporus is closely linked to [[organic-composting-methods]] and [[mushroom-cultivation-bulk-substrates]]. Recent research has explored alternative substrate formulations that reduce reliance on traditional horse manure and wheat straw, including supplemented straw-only composts and locally available agricultural residues. The microbial ecology of composting, particularly the succession of thermophilic bacteria and actinomycetes that convert raw organic materials into selective substrate, remains an active area of investigation.
-
-## Nutritional and Economic Value
-
-A. bisporus is valued as a nutritious food source, containing protein, fiber, B vitamins, potassium, and selenium, while being low in calories and fat.
-
-The species accounts for the majority of global mushroom production, worth billions of dollars annually.
-
-Different market forms (white button, cremini/brown, portobello) represent the same species at different maturity stages, providing versatility in culinary applications.
-
-## See Also
-
-- [[growing-gourmet-compost-phase-i-phase-ii-agaricus]]
-
-- [[genetic-improvement-agaricus-bisporus-molecular-approaches]]
+Understanding the genetic basis of agronomically important traits is a major focus of mushroom research, with [[organic-composting-methods]] and [[growing-gourmet-compost-phase-i-phase-ii-agaricus]]
 
 - [[mycorrhizal-fungi]]
 
-- [[mycorrhizal-agricultural-practices]]
-
-## References
-
-- Mohammadi Goltapeh E, Danesh YR, Kamal S, Varma A (2009) Biology and molecular approaches in genetic improvement of cultivated button mushroom. In: Varma A, Kharkwal AC (eds) Symbiotic Fungi, Soil Biology 18. Springer.
-
-- Chang ST, Hayes WA (1978) The Biology and Cultivation of Edible Mushrooms. Academic Press.
-
-- Sonnenberg ASM, et al. (2005) Molecular genetics of Agaricus bisporus. In: The Mycota. Springer.
 - [[mycelium-running-pest-control-with-fungi]]
-- [[mushroom-cultivation-pests-mites-flies]]
 - [[symbiotic-fungi-mycorrhizal-inoculum-production]]

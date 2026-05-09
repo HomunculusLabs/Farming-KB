@@ -112,11 +112,7 @@ E. pungens (thorny olive) is primarily ornamental, with inedible fruit, whereas 
 
 ## See Also
 
-- [[elaeagnus-umbellata]]
 - [[elaeagnus-angustifolia]]
-- [[hippophae-rhamnoides]]
 - [[dynamic-accumulators]]
-- [[companion-planting]]
 - [[food-forest]]
-- [[silvopasture]]
 - [[rubus-idaeus-entity]]

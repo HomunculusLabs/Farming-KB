@@ -61,51 +61,9 @@ ideal for starting clones or seedlings. The Wide Spectrum GroLux
 supplements natural light and covers the blue to far-red regions.
 
 Warm White and Cool White bulbs used together make excellent lamps to
-root clones. See [[cervantes-light-spectrum-photomorphogenesis]] for
-more on how spectrum affects plant development.
-
-## Full-Spectrum Marketing
-
-The term "full-spectrum" was coined in the 1960s by photo-biologist
-Dr. John Ott to describe electric light sources that simulate the
-visible and UV spectrum of natural light. Today many fluorescent lamps
-are advertised as "full-spectrum" grow lights. All such bulbs are
-tri-phosphor-coated, emitting the visible light spectrum from 2700 K
-to 6400 K by mixing three colors associated with the three cone types
-in human eyes.
-
-Cervantes warns that "full-spectrum" marketing is rampant with hype.
-Resellers purchase tri-phosphor bulbs from manufacturers and market
-them as "Grow Lites" at inflated prices. Major lamp manufacturers do
-not sell tri-phosphor-coated lights as "full-spectrum."
-
-## How Fluorescent Lamps Work
-
-Fluorescent lamps create light by passing electricity through gaseous
-vapor under low pressure. The tubular glass bulb is coated on the
-inside with phosphor. The mix of phosphorescent chemicals in the
-coating and the gases contained within determine the spectrum of
-colors emitted. Electricity arcs between two electrodes at each end of
-the tube, stimulating the phosphor to emit light energy.
-
-Light emission is strongest near the center of the tube and somewhat
-less at the ends. If rooting just a few cuttings, place them under the
-center of the fixture for best results. The ballast radiates almost
-all heat produced by the system, and is located far enough from tubes
-that plants can touch them without being burned.
-
-## Best Uses for Cannabis
-
-Fluorescent lights excel in specific applications:
-
-- **Rooting clones and seedlings**: Low heat output allows close
-  placement without burning tender young plants. See
-  [[cervantes-cloning]] and [[cervantes-seedling-care-early-growth]]
-- **Mother plant maintenance**: Adequate for keeping mothers healthy
-  in [[cervantes-mother-plants]]
+root clones. See [[cervantes-cloning]] and [[cervantes-mother-plants]]
 - **Small closet or stealth grows**: Limited heat signature makes them
-  suitable for [[cervantes-indoor-grow-room-setup]]
-- **Side lighting supplement**: Can supplement [[hps-grow-lights]] in
+  suitable for [[hps-grow-lights]] in
   larger rooms, though CFLs are not ideal as primary side lighting
 
 ## Limitations
@@ -113,7 +71,6 @@ Fluorescent lights excel in specific applications:
 Plants will flower under fluorescent lights, but buds will be small
 and light. With enough fluorescent fixtures, literally lining the grow
 space, a mature crop is possible but impractical compared to
-[[cervantes-lighting-systems]]. For serious flowering, HID or
 [[led-grow-lights]] are far more efficient in terms of lumens per
 watt and canopy penetration.
 
@@ -128,9 +85,4 @@ to 12 years. The end of a magnetic ballast's life is usually
 accompanied by smoke and a chemical odor. Electronic ballasts simply
 stop working. If a ballast has brown slime or sludge on or around it,
 this could contain carcinogenic PCBs and must be disposed of at an
-approved location. See [[cervantes-ballasts-hid-electrical]] for more
-on ballast technology and safety.
-
-## See Also
-
-- [[cervantes-no-reflective-hood-lighting]]
+approved location. See [[cervantes-no-reflective-hood-lighting]]

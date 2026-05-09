@@ -10,13 +10,7 @@ tags: [reference]
 
 # Holmgren Action Learning Loop
 
-The action learning loop is a core iterative process in David Holmgren's permaculture design methodology, explicitly discussed within [[permaculture-design]]. It provides a practical framework for moving from narrow, linear thinking to broader wholistic understanding through incremental adjustment and continuous feedback.
-
-## The Process
-
-Planning and design processes, like life in general, often involve incremental adjustment in response to experience. The simple action learning loop allows designers to start wherever they are, no matter how little knowledge they have, and proceed from a very narrow perspective to a broader and more wholistic one by incremental adjustment.
-
-The loop follows a cycle of: observe, think, design, implement, and observe again. Each cycle deepens understanding and refines the design. This process is fundamental to [[holmgren-wholistic-design-thinking]] and distinguishes permaculture design from one-off planning exercises that assume a static context.
+The action learning loop is a core iterative process in David Holmgren's permaculture design methodology, explicitly discussed within [[holmgren-wholistic-design-thinking]] and distinguishes permaculture design from one-off planning exercises that assume a static context.
 
 ## Key Considerations
 
@@ -33,11 +27,7 @@ The last point is particularly important. Human tendency toward attribution erro
 
 After each cycle of observation and action, it is valuable to "restate the principle" -- that is, to reformulate understanding of the design principle or problem in light of new experience. This prevents the designer from becoming locked into an initial understanding that may have been based on limited observation.
 
-This restatement process is a form of [[holmgren-self-regulation-feedback-detailed]] at the individual cognitive level. It guards against the design cul-de-sacs that arise when proven solutions become entrenched and resistant to revision. The willingness to restatement reflects intellectual humility and openness to surprise -- qualities essential for working with complex living systems.
-
-## The Wholistic Learning Loop
-
-The action learning loop is described as the wholistic learning loop embodied in Principle 1. It connects observation and interaction at every stage, ensuring that abstract thinking remains grounded in real-world experience. This is particularly important for [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]], where the consequences of actions may be slow to manifest and difficult to attribute to specific causes.
+This restatement process is a form of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]], where the consequences of actions may be slow to manifest and difficult to attribute to specific causes.
 
 The wholistic learning loop differs from purely academic or theoretical learning because it insists on the two-way relationship between thinking and doing. Observation without action is passive and disconnected; action without observation is blind and potentially destructive. The loop insists on both simultaneously, creating a feedback process that continuously improves both understanding and practice.
 
@@ -78,7 +68,7 @@ Bringing multiple perspectives to bear on shared projects through community meet
 
 ## Relationship to Other Principles
 
-The emphasis on starting small and learning from failure connects this principle directly to [[use-small-and-slow-solutions]]. Diversity in trials increases the chances of finding successful adaptations, connecting to [[permaculture-principle-use-and-value-diversity]].
+The emphasis on starting small and learning from failure connects this principle directly to [[permaculture-principle-use-and-value-diversity]].
 
 The loop's insistence on feedback connects it to [[holmgren-self-regulation-feedback-detailed]], which extends the individual learning process to the system level. A well-designed system should incorporate its own feedback loops that enable self-regulation without requiring constant human intervention.
 

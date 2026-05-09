@@ -127,7 +127,6 @@ beginning to investigate.
 
 ## See Also
 
-- [[tompkins-plant-electrical-signals]] for [[plant-bioelectricity]]
-- [[tompkins-plant-growth-regulators]] for auxins and hormones
+- [[plant-bioelectricity]]
 - [[tompkins-plant-roots-intelligence]] for root sensitivity
 - [[tompkins-photosynthesis-biophotons]] for biophoton research

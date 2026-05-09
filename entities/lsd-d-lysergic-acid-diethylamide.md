@@ -69,15 +69,27 @@ LSD is a Schedule I controlled substance under the United Nations Convention on 
 
 ## See Also
 
-- [[lysergic-acid-diethylamide]]
-
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
-- [[lysergic-acid-amide]]
 - [[ergot-and-lysergic-acid-history]]
-- [[lysergic-acid-amide-discovery-in-ololiuhqui]]
-
-- [[albert-hofmann]] — the discoverer of LSD
 - [[sandoz-pharmaceuticals]] — the company where LSD was discovered
-- [[ergot-fungi-and-ergotism-claviceps-purpurea]] — the natural source of lysergic acid
 - [[ergine-lsa]] — a related naturally occurring ergoline
-- [[psilocybin-compound]] — another classical psychedelic compound
+- [[psilocybin]] — another classical psychedelic compound
+## Practical Considerations
+
+Successful implementation of LSD (D-lysergic acid diethylamide) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

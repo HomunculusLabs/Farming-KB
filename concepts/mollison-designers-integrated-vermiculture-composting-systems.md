@@ -127,9 +127,6 @@ Worm systems integrate with other permaculture elements:
 
 - mollison designers soil building
 - mollison designers composting methods
-- [[mollison-designers-chicken-tractors-egg-production]]
-- mollison designers microbial ecology
 - [[mollison-designers-duck-pond-integrated-systems]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[mollison-designers-integrated-pest-management-design]]

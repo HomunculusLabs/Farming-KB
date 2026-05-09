@@ -138,12 +138,8 @@ culture and biology is, in McKenna's view, the fundamental mechanism through whi
 mushroom creode channeled human development.
 
 ## Implications for Cultural Change
-
-The creode framework has sobering implications for those who seek to change entrenched
 ## See Also
 
 - [[mckenna-archaic-revival]]
-- [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-four-stages-abandoning-mystery]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-lumsden-wilson-gene-culture-coevolution]]

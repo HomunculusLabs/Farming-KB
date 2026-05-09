@@ -4,9 +4,10 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
-# Growing Soft Fruit [[growing-tree-fruit-organically]] [[pruning-fruit-trees-and-bushes]] Organically
+# Growing Soft Fruit [[pruning-fruit-trees-and-bushes]] Organically
 
 Soft fruits encompass brambles, shrubs, and herbaceous perennials. Cane fruits need wire support systems. All soft fruit needs bird netting -- without it, birds will take the entire crop.
 
@@ -83,12 +84,7 @@ Soft fruits encompass brambles, shrubs, and herbaceous perennials. Cane fruits n
 
 ## Related
 
-- [[comparison-blueberry-vs-haskap-cultivation]]
-
 - [[organic-fruit-tree-care-calendar]]
-- [[hamilton-organic-pest-control]] for bird and pest protection
 - [[plant-propagation-methods]]
-- [[composting-systems]] for mulch materials
 - [[growing-tree-fruit-organically]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[hamilton-pruning-and-training-fruit-trees]]

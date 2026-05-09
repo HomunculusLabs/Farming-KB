@@ -113,12 +113,10 @@ The concept of "set and setting" — first articulated by Timothy Leary, Ralph M
 - Microdosing: minimal set/setting concerns (sub-perceptual)
 - Macrodosing: full set/setting preparation essential
 - Integration circles: group processing of experiences
-
 ## Related
+
 - [[psychedelic-experience-stages]] — for the experiential stages
-- [[psychedelic-dose-response]] — for dosage considerations
 - [[lsd-therapeutic-history]] — for clinical history
-- [[ketamine-psychedelic-journey-guide]] — for psychotherapy approaches
 - [[psychedelic-therapy-mechanisms]]
 
 ## Merged: Hybrid Shamanic Therapeutic Rituals

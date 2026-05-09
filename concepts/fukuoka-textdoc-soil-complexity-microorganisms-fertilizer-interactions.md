@@ -128,7 +128,5 @@ and air.
 ## See Also
 
 - [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
-- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]
-- [[fukuoka-textdoc-what-plowing-really-is]]
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]

@@ -76,15 +76,9 @@ Wild peyote populations in Texas and northern Mexico have declined significantly
 
 ## Related
 
-- [[mescaline-containing-cacti]]
-
 - [[mescaline-entity]] Topics
 
-- [[psychedelic-safety-guidelines-turner]]
 - [[lsd-molecule-of-perfection]]
-- [[psilocybin-mushrooms-turner-guide]]
 - [[5-meo-dmt-compound-profile]]
-- [[2c-b-erotic-empathogen]]
 - [[psychedelic-research-legal-history-united-states]]
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
 - [[turner-brief-history-psychedelics-ancient-to-modern]]

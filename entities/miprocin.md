@@ -140,11 +140,8 @@ Alexander Shulgin documented miprocin as **TiHKAL Entry #33**, with an active or
 - Serotonin syndrome risk is theoretical but low when used alone; combining with SSRIs, MAOIs, or other serotonergic drugs is strongly discouraged
 - Users with personal or family history of psychotic disorders should exercise caution with all classical psychedelics
 - Purity and identity of gray-market products cannot be guaranteed without analytical testing; trip sitting is recommended at doses above 20 mg
-
 ## See Also
 
-- [[psilocin]]
-- [[psilocybin-compound]]
-- [[4-ho-met]]
+- [[psilocybin]]
 - [[4-ho-dipt-entity-tihkal]]
 - [[5-meo-mipt]]

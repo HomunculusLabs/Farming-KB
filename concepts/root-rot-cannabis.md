@@ -138,12 +138,10 @@ Root rot is particularly dangerous in hydroponic systems due to the shared water
 
 ## See Also
 
-- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
 - [[cannabis-root-rot-prevention-and-treatment]]
 
 - [Bud Rot (Botrytis) — fungal disease affecting buds and stems
 - [Fungus Gnats — root-feeding pests that create entry wounds
 - [Powdery Mildew — common concurrent fungal problem
 - cannabis pest management — comprehensive IPM overview
-- [[cannabis-disease-guide]] — broader disease reference
 - [[nutrient-movement-through-soil-to-plant-roots]]

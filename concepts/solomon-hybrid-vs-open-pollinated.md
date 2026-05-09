@@ -60,14 +60,7 @@ So it is true on average that modern hybrids are not as nutritious or tasty as o
 
 The hybrid-vs-OP debate is ultimately about whether the gardener values short-term convenience or long-term self-reliance. Hybrid seed must be purchased every year — the cost accumulates over a lifetime of gardening. Open-pollinated seed, once purchased, can be saved indefinitely, with the seed-saving investment paying for itself within 2-3 growing seasons for a serious gardener.
 
-Solomon notes that for gardeners growing primarily for home consumption rather than market sale, the yield difference between hybrids and well-adapted OP varieties is often negligible. The hybrid advantage is most pronounced in commercial settings where uniformity, transport tolerance, and maximum yield per acre are economically critical. For a [[solomon-intensive-vs-extensive-spacing]], flavor, nutritional density, and regional adaptation often matter more than sheer yield.
-
-## Common Mistakes
-
-- **Assuming all heirlooms are superior:** Many heirloom varieties were preserved for sentimental reasons, not superior performance. Trial them rigorously before committing garden space.
-- **Saving seed from too few plants:** For outcrossing crops like brassicas and carrots, saving from fewer than 20-30 plants leads to genetic bottlenecks. The resulting population loses vigor within a few generations.
-- **Mixing varieties:** Allowing cross-pollination between different varieties of the same species produces offspring that may not resemble either parent. Maintain isolation distances or grow only one variety per species if saving seed.
-- **Ignoring regional adaptation:** A variety that performs brilliantly in one climate may fail completely in another. This is why [[seed-saving-principles-solomon]] is so valuable — it selects for genetics adapted to your specific conditions.
+Solomon notes that for gardeners growing primarily for home consumption rather than market sale, the yield difference between hybrids and well-adapted OP varieties is often negligible. The hybrid advantage is most pronounced in commercial settings where uniformity, transport tolerance, and maximum yield per acre are economically critical. For a [[seed-saving-principles-solomon]] is so valuable — it selects for genetics adapted to your specific conditions.
 
 ## Specific Variety Recommendations
 
@@ -97,12 +90,8 @@ Maintaining varietal purity when saving seed from outcrossing species requires k
 - **Carrots**: Insect-pollinated, requiring 1/4 to 1/2 mile isolation. Wild Queen Anne's Lace (*Daucus carota*) will cross with cultivated carrots, so wild populations should be eliminated from the isolation zone
 
 ## Related
-- [[seed-saving-vegetables]]
 - [[seed-saving-techniques]]
 
-- [[solomon-seed-saving-guide]] for seed saving techniques
 - [[solomon-complete-organic-fertilizer-guide]] for seedling management
-- [[solomon-intensive-vs-extensive-spacing]] for growing space per plant
 - [[growing-vegetables-with-less-fertilizer]]
-- [[first-time-grower-common-mistakes]]
 - [[home-garden-seed-saving]]

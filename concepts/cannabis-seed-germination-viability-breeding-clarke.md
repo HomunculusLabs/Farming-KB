@@ -85,13 +85,8 @@ The genetic diversity within imported seed populations is both a challenge (unpr
 
 ## Related
 
-- [[knf-seed-soaking-cannabis-germination]] Topics
-
 - [[cannabis-propagation-sexual-vs-asexual-clarke]] - Propagation methods overview
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - Breeding techniques
 - [[cannabis-seed-germination-methods]] - Modern germination methods
-- [[cannabis-seed-storage-and-viability]] - Seed storage details
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-- [[cannabis-controlled-pollination-seed-production]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-seed-selection-and-strain-types]]

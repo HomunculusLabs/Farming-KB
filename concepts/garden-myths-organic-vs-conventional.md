@@ -97,9 +97,7 @@ Organic matter is one of the most important tools for soil management, but it is
 
 ### See Also
 
-- [[organic-garden-soil-preparation]]
 - [[building-soil-fertility-long-term]]
-- [[composting-methods-comparison]]
 - [[soil-testing-and-analysis]]
 
 ## Myth: No-Till Methods Are Always Superior to Tilling
@@ -128,7 +126,5 @@ No-till is an excellent default practice for established gardens. However, the c
 
 ### See Also
 
-- [[penicillium-entity]]
 - [[soil-compaction-solutions]]
-- [[garden-bed-preparation]]
 - [[garden-bed-designs]]

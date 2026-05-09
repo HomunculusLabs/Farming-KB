@@ -49,19 +49,7 @@ The mycorrhizal dependency (MD) of a plant species is calculated as: MD = (dry w
 
 ## Ecological Applications
 
-- Assessing the impact of land use change on [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities
-- Evaluating the role of mycorrhizae in plant community dynamics
-- Monitoring restoration success in degraded ecosystems
-- Comparing mycorrhizal function across different soil types
-- Investigating the effects of agricultural management practices on mycorrhizal symbiosis
-
-## Limitations of Bioassays
-
-Bioassays have important limitations. They typically assess only a subset of the total AM fungal community, as not all species establish equally well under controlled conditions. Results from pot experiments may not accurately predict field performance, where soil heterogeneity, competing organisms, and environmental variability introduce complexity that laboratory conditions cannot replicate. The choice of trap plant can bias results, as different host species select for different fungal assemblages.
-
-## Relationship to Sustainable Agriculture
-
-Mycorrhiza bioassays are directly relevant to [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. Understanding the ecological function of native mycorrhizal communities helps inform decisions about when and how to supplement with commercial inoculants. Field bioassays can reveal whether native AM fungal populations are already providing adequate services, potentially saving the cost of unnecessary inoculant applications.
+- Assessing the impact of land use change on [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. Understanding the ecological function of native mycorrhizal communities helps inform decisions about when and how to supplement with commercial inoculants. Field bioassays can reveal whether native AM fungal populations are already providing adequate services, potentially saving the cost of unnecessary inoculant applications.
 
 ## Applications in Soil Health Assessment
 
@@ -92,16 +80,8 @@ sources: []
 
 ## See Also
 
-- [[agricultural-mycorrhizae]]
-
 - [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]]
-- [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
-
-## Related
-
 - [[mycorrhizal-diversity-assessment]]
-- [[mycorrhizal-carbon-nitrogen-economics]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - mycorrhiza bioassays ecological studies

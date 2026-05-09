@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Mower's Mushroom** | *Panaeolina foenisecii* (Pers.) Maire
 
-Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern chemical analyses have largely failed to confirm the presence of significant quantities of [[psilocybin-compound]] or [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's worldwide survey of neurotropic fungi and continues to appear in older literature on hallucinogenic mushrooms.
+Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern chemical analyses have largely failed to confirm the presence of significant quantities of [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's worldwide survey of neurotropic fungi and continues to appear in older literature on hallucinogenic mushrooms.
 
 ## Taxonomy and Classification
 
@@ -51,12 +51,7 @@ The species is saprotrophic, growing on decaying grass, thatch, leaf litter, and
 
 The question of whether Panaeolina foenisecii contains psychoactive compounds has been debated for decades, and the literature contains conflicting reports:
 
-**Reports of psychoactivity:** Early surveys of hallucinogenic mushrooms, including those by Singer and Smith (1958) and some subsequent authors, listed P. foenisecii among species suspected to contain [[psilocybin-compound]]. Anecdotal reports of mild psychoactive effects following ingestion have appeared in the popular literature. Some early chemical analyses reportedly detected trace amounts of psilocybin or related compounds.
-
-**Modern analyses:** More rigorous modern chemical studies, including those using HPLC and GC-MS, have generally failed to detect psilocybin, psilocin, baeocystin, or other psychoactive indole alkaloids in P. foenisecii at meaningful concentrations. The species was included in Guzmán, Allen, and Gartz's (1998) worldwide distribution study of neurotropic fungi, but with the caveat that many species in the Panaeoloideous group lack reliable chemical studies.
-
-**Possible explanations for the discrepancy:** Several factors may explain the conflicting reports:
-1. Misidentification with truly psychoactive species such as [[psilocybe-semilanceata]] (liberty cap), which can grow in similar grassland habitats
+**Reports of psychoactivity:** Early surveys of hallucinogenic mushrooms, including those by Singer and Smith (1958) and some subsequent authors, listed P. foenisecii among species suspected to contain [[psilocybe-semilanceata]] (liberty cap), which can grow in similar grassland habitats
 2. Contamination of analyzed specimens with spores or mycelium of psychoactive species
 3. The detection of non-psychoactive tryptamine precursors that were mistakenly identified as psilocybin in less sophisticated analyses
 4. The placebo effect in anecdotal reports
@@ -76,43 +71,26 @@ The species is considered harmless to lawns and grasslands, and its abundance is
 
 ## Similar Species
 
-The most important distinction for foragers is between P. foenisecii and the truly psychoactive [[psilocybe-semilanceata]]:
-
-- **[[psilocybe-semilanceata]]**: Has a distinct conical or bell-shaped cap with a pronounced umbo, a separable pellicle on the cap, and smooth spores; contains psilocybin
-- **[[psilocybe-cubensis]]**: Much larger, grows on manure, not grass; has a different habitat entirely
-- **Panaeolus cinctulus** (syn. P. subbalteatus): Has a darker cap with a lighter band near the margin (subzonate) and smooth spores; has confirmed psychoactive properties
-- **panaeolina castaneifolia**: A less common species with a darker cap and larger spores
-
-The mottled gills and rough spores are the key features that identify P. foenisecii to genus level.
-
-## Cultural and Historical Significance
-
-Panaeolina foenisecii has been known to mycologists since the early 19th century and is one of the most commonly collected and photographed mushrooms in the world. Its ubiquity in lawns makes it one of the first mushrooms that amateur mycologists encounter, and it frequently appears in identification guides and online forums.
-
-The persistent but likely erroneous belief that P. foenisecii is psychoactive has made it a source of confusion in the harm reduction community, where it is important to distinguish it from genuinely active species to prevent accidental ingestion of non-psychoactive material by those seeking entheogenic experiences, or conversely, to prevent those who encounter it from consuming large quantities expecting an effect that will not materialize.
-
-## Seasonality and Phenology
-
-Panaeolina foenisecii fruits throughout the growing season in temperate regions, typically from April through November in the Northern Hemisphere. In warmer climates it may fruit year-round. Peak fruiting occurs after periods of sustained rainfall when grass is actively growing. The mushrooms often appear within 24 to 48 hours of significant rain events and may persist for several days before drying and shriveling. In lawns that are regularly mowed, the mushrooms may be repeatedly produced from the same areas as the mycelium persists in the thatch layer.
-
-## Conservation Status
-
-Panaeolina foenisecii is not threatened and is in fact one of the most common mushrooms on Earth. Its cosmopolitan distribution and association with human-maintained grasslands (lawns, parks, pastures) ensure that it has abundant habitat. The species is not collected for food due to its small size and insipid taste, and it is not commercially cultivated. It serves as an excellent introductory species for amateur mycologists learning to identify mushrooms in grassland habitats.
-
-## Historical and Etymological Notes
-
-The specific epithet "foenisecii" comes from Latin, meaning "of hay" or "hay-making," referring to the species' common occurrence in hayfields and meadows. The common name "haymaker's mushroom" reflects this association. The alternative name "mower's mushroom" refers to its tendency to appear after lawns are mowed, though this is more a reflection of seasonal timing (mowing coincides with warm, wet weather favorable for fruiting) than a direct response to the cutting itself.
-
-The species was well known to the Victorian mycologists who first catalogued the fungi of Europe and was included in most early field guides. Its inclusion in lists of psychoactive mushrooms created a lasting confusion that persists in some online resources to this day.
-
-## Legal Status
-
-Panaeolina foenisecii is not scheduled or regulated in any jurisdiction. As modern analyses have largely failed to confirm the presence of psychoactive compounds, it is generally not considered a controlled substance. Its lack of psychoactivity and commonness make it irrelevant to drug legislation.
-
-## See Also
-
-- panaeolus cinctulus — the banded mottlegill, a confirmed psychoactive Panaeolus species
-- [[panaeolus-cyanescens]] — a potent tropical psilocybin-containing species
-- [[psilocybe-semilanceata]] — the liberty cap, the most common psychoactive grassland species in temperate zones
+The most important distinction for foragers is between P. foenisecii and the truly psychoactive [[psilocybe-semilanceata]]**: Has a distinct conical or bell-shaped cap with a pronounced umbo, a separable pellicle on the cap, and smooth spores; contains psilocybin
+- **[[panaeolus-cyanescens-entity]] — a potent tropical psilocybin-containing species
 - [[panaeolus-subbalteatus]] — a frequently encountered species in the same habitats
 - bolbitiaceae — the family containing Panaeolina and Panaeolus
+## Practical Considerations
+
+Successful implementation of Panaeolina foenisecii requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

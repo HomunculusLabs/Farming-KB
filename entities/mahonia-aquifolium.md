@@ -132,9 +132,6 @@ activation and LDL receptor upregulation.
 
 ## See Also
 
-- [[berberine]]
 - [[berberis-vulgaris]]
-- [[arctostaphylos-uva-ursi]]
 - [[comfrey-permaculture]]
-- [[black-locust-entity]]
 - [[food-forest-permaculture]]

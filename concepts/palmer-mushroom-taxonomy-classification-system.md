@@ -39,43 +39,7 @@ parts rather than necessarily American species.
 Palmer noted that about one thousand kinds of good-sized fungi existed,
 with distinctions between many so slight that an amateur would not
 notice them. Out of this large number, only one variety, the horse-
-mushroom (Agaricus arvensis), was ever propagated artificially, and
-so far as was known, it was the only species susceptible of
-cultivation.
-
-## Palmer's Practical Four-Division System
-
-Palmer proposed his own simplified classification based on the nature
-of the spore-bearing surface. He avoided scientific terms wherever
-possible, giving only generic names to enable identification. His
-system recognized four grand divisions:
-
-### 1. Agaricini (Gill-bearing Fungi)
-
-The largest family, bearing thin plates (gills) set on edge running
-to a common center like wheel spokes, with the stem as the hub.
-Palmer regarded these as the least safe for the amateur, although
-this class contains the celebrated "mushroom" of commerce. The
-gills may be free from the stem (as in the common mushroom) or
-attached (as in various other genera). The gill color progression
-from pink through purple to black is characteristic of the meadow
-mushroom group.
-
-### 2. Boleti (Pore-bearing Fungi)
-
-Bearing a substance resembling fine sponge instead of gills.
-Generically a polyporus, but when the stem is distinct and the
-tubes easily separable, it is classified as a boletus. Palmer
-distinguished edible boleti from polyporei: the latter grow mostly
-on wood with abortive stems, while edible boleti grow from the ground
-with distinct stems. Edible boleti have brown, yellowish, or greenish
-pores with russet or brown caps; dangerous ones are brilliantly
-colored or turn blue when bruised.
-
-### 3. Hydnei (Teeth-bearing Fungi)
-
-Bearing small points or spines instead of gills or pores. The
-spreading hydnum (Hydnum repandum) is the common example, usually
+mushroom ([[hydnum-repandum]]) is the common example, usually
 yellow to reddish, firm-fleshed, with a deformed or eccentric stem.
 Palmer cited Smith's authority that all species of any size enjoy a
 good character, making this a safe group for beginners.
@@ -141,10 +105,7 @@ British Fungology"), Cooke ("Handbook of British Fungi"), Smith
 ("Toadstools"), and Badham, plus French works of Cordier and Sicard
 and the German authority Fries. These sources provided the taxonomic
 framework within which he worked.
-
 ## See Also
 
-- [[palmer-mushroom-anatomy-and-structure]]
 - [[palmer-specific-mushroom-species-guide]]
-- [[palmer-about-mushrooms-poisonous-species-to-avoid]]
 - [[palmer-about-mushrooms-edible-species-identification]]

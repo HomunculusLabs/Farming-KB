@@ -124,8 +124,6 @@ most respected and demanding members of the 2C family.
 
 ## See Also
 
-- [[pihkal-2c-b]]
 - [[pihkal-2c-i]]
-- [[pihkal-mescaline]]
 - [[pihkal-dom]]
 - [[pihkal-introduction-and-methodology]]

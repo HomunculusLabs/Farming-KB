@@ -109,11 +109,7 @@ DNA barcoding and metabarcoding have revealed that:
 
 ## See Also
 
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[ribosomal-rna-sequencing-yeast-identification]]
-- [[pcr-methods-fungal-identification-monitoring]]
 - [[fungal-phylogeny-kingdom-classification]]
-- [[fungal-rdna-primers-molecular-identification]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[fungal-species-concepts-estimates]]
 - [[rhizosphere-fungal-community-analysis-rrna-rdna]]

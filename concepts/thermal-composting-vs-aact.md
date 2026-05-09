@@ -89,5 +89,5 @@ Best practice: use both. Thermal compost to build the soil base (apply 1/4-1/2 i
 ## Related
 - [[compost-building-guide]] — for thermal composting methods
 - [[compost-tea-recipe-guide]] — for AAct brewing recipes
-- soil microscope analysis — for assessing both products
+- [[soil-microscope-analysis]] — for assessing both products
 - [[soil-food-web-structure]] — for understanding the biology being added

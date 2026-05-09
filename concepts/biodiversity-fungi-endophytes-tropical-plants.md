@@ -1,15 +1,7 @@
 ---
 title: Fungal Endophytes in Tropical Plants
 created: 2026-04-24
-tags: [mycology, endophytes, tropics, plants, ecology, symbiosis]
-sources: Biodiversity of Fungi (Mueller & Bills)
-type: concept
-updated: 2026-04-26
----
-
-# Fungal Endophytes in Tropical Plants
-
-Fungal endophytes — fungi that inhabit healthy plant tissues without causing apparent disease — are among the most diverse and least documented groups of fungi in tropical ecosystems. [[endophytic-fungi]] have been recovered from every plant tissue examined, including foliage, stems, bark, xylem, and roots, and from plants ranging from arctic mosses and hepatics to tropical palms and broad-leaved trees.
+tags: [[endophytic-fungi]] have been recovered from every plant tissue examined, including foliage, stems, bark, xylem, and roots, and from plants ranging from arctic mosses and hepatics to tropical palms and broad-leaved trees.
 
 ## Definition and Scope
 
@@ -49,10 +41,7 @@ Endophytic fungi may influence host plant ecology in several ways:
 
 ## See Also
 
-- [[bryophyte-hepatic-pteridophyte-endophytes]]
-
 - [[biodiversity-fungi-tropical-rainforests]]
-- [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-molecular-methods]]
 
 ## Distribution and Host Range

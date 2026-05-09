@@ -91,35 +91,11 @@ Water quality is fundamental to growing success. Chlorine in municipal water can
 pH affects nutrient availability across the growing medium. Most nutrients are available to cannabis roots at pH 6.0-6.5 in soil and 5.5-6.0 in hydroponic systems. Outside these ranges, essential nutrients become "locked out" — present but unavailable to roots. pH should be checked regularly and adjusted with pH-up (potassium hydroxide) or pH-down (phosphoric acid) products.
 
 ## Related Topics
-- [[cervantes-cloning]] — Rooting medium for clones
 - [[cervantes-indoor-grow-room-setup]] — Grow room configuration
-- [[cervantes-nutrient-management]] — Feeding schedules
-
-## Organic Soil Amendments
-
-Many organic amendments can be mixed into soil to improve its structure, nutrient content, and biological activity:
-
-- **Compost**: Decomposed organic matter that improves soil structure, water retention, and microbial diversity. Well-aged compost provides a slow-release source of macro- and micronutrients.
-- **Worm castings (vermicompost)**: Rich in beneficial microorganisms, plant growth hormones, and readily available nutrients. Can be mixed into soil or brewed into compost tea for foliar or root-zone application.
-- **Bat guano**: Available in high-nitrogen (fresh) and high-phosphorus (aged) varieties. A powerful organic fertilizer that also supports beneficial microbial populations.
-- **Kelp meal**: Provides trace minerals, growth hormones (cytokinins, auxins), and vitamins. Promotes root development and overall plant vigor.
-- **Bone meal**: High in phosphorus and calcium. Slow-release amendment that supports root development and flowering.
-- **Blood meal**: High-nitrogen organic amendment. Useful for correcting nitrogen deficiencies during vegetative growth but should be used sparingly to avoid burning.
-- **Perlite**: Added at 10-30% by volume to improve aeration and drainage in heavy soils.
-- **Dolomite lime**: Adds calcium and magnesium while raising pH. Especially important in peat-based soil mixes which tend to be acidic.
-
-A common basic organic soil recipe is: 1/3 peat moss or coco coir, 1/3 compost, 1/3 aeration (perlite/vermiculite), plus amendments (1 cup each of worm castings, bone meal, and kelp meal per cubic foot of soil).
-
 - [[growing-gourmet-enoki-cultivation]]
-
-- [[growing-gourmet-king-stropharia-cultivation]]
 
 - [[growing-gourmet-lions-mane-cultivation]]
 
-- [[growing-gourmet-maitake-cultivation]]
-
 - [[growing-gourmet-morel-cultivation]]
-
-- [[growing-gourmet-reishi-cultivation]]
 
 - [[growing-gourmet-strain-selection]]

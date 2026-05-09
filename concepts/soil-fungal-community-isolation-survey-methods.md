@@ -82,10 +82,7 @@ exoskeletons, keratinous material, cellulose, or pollen) in contact
 with soil to trap specific groups of fungi. This method is particularly
 valuable for recovering:
 
-- **[[keratinophilic-fungi]]**: Using hair, feathers, or snake skin as bait
-- **Predatory fungi**: Using nematode cultures or living nematodes
-- **Chytridiomycetes**: Using pollen grains, cellulose, or chitin as
-  bait for [[zoosporic-fungi]]
+- **[[zoosporic-fungi]]
 - **Oomycetes**: Using susceptible plant tissue or seeds as bait
 
 ### Soil Washing Techniques
@@ -93,21 +90,7 @@ valuable for recovering:
 Soil washing methods, such as serial washing of root samples, are used
 to separate fungi tightly associated with root surfaces from those
 that are merely contaminants. This approach has been particularly
-valuable for studying mycorrhizal and [[endophytic-fungi]] associated with
-roots.
-
-## Fractionating the Soil Fungal Community
-
-Different isolation methods capture different fractions of the soil
-fungal community. No single method recovers all species present:
-- Dilution plating favors rapidly sporulating species
-- Soil plates favor species growing as mycelium
-- Baiting favors species with specific trophic capabilities
-- Molecular methods detect species that cannot be cultured
-
-Inventories using a single isolation method detect only a portion of
-the organisms present. The combination of multiple methods is essential
-for a more complete characterization of [[soil-fungal-diversity]].
+valuable for studying mycorrhizal and [[soil-fungal-diversity]].
 
 ## Selective Media
 
@@ -147,3 +130,7 @@ are geographically remote or ecologically unusual. Several modern
 comprehensive guides to the major genera and species of soil fungi
 have been compiled, including those by Barron (1968), Domsch et al.
 (1980), and Watanabe (1994).
+
+## See Also
+
+- [[microfungal-biodiversity-ecology-wood-debris-sampling]]

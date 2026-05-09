@@ -134,8 +134,6 @@ The fungus breaks down woody debris and leaf litter, releasing nitrogen and othe
 These nutrients support overall forest productivity and benefit surrounding plant communities.
 
 ## See Also
-- [[morchella-esculenta|Morchella esculenta]]
 - [[morchella-angusticeps|Morchella angusticeps]]
-- [[amanita-phalloides|Amanita phalloides]]
 - [[fomes-fomentarius|Fomes fomentarius]]
 - [[laricifomes-officinalis|Laricifomes officinalis]]

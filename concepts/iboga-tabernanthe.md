@@ -117,9 +117,7 @@ Wild T. iboga populations are declining due to:
 - Cultivation efforts are underway but scale remains limited
 - Sustainable sourcing and fair trade programs have been proposed to support both conservation and local communities
 
-## Related
-
-- [[tabernanthine]] Pages
+## Related Pages
 
 - [[psychedelic-compounds-reference]] for pharmacological comparison with other entheogens
 - [[richard-evans-schultes-updated]] documented iboga use during his ethnobotanical fieldwork in the region

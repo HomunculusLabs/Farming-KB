@@ -74,14 +74,10 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Fungal siderophores and oxalates mediate metal mobility
 
 ## Applications
-- [[cotter-mycoremediation-overview]] — fungal weathering for bioremediation
+- [[mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
 
 ## See Also
 
 - [[fungal-symbioses-in-mineral-weathering-and-biogeochemistry]]
-- [[fungi-in-the-environment-fungal-mineral-weathering]]
-- [[dighton-fungal-rock-weathering-mineral-dissolution]]
-- [[fungal-mycogenic-mineral-precipitation]]
-- [[fungal-mineral-transformations-biogeochemistry]]

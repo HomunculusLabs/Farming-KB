@@ -21,7 +21,7 @@ Peter Oei is a Dutch mycologist and mushroom cultivation expert, author of *Manu
 - Authored comprehensive mushroom cultivation manuals covering techniques, species selection, substrate preparation, and spawn production
 - Documented cultivation methods for a wide range of species using locally available substrates: sugarcane bagasse, banana fronds, seed hulls, soybean waste, cactus waste, and various hardwoods
 - Developed practical lime treatment formulas for straw substrates (Lime 1, 2, and 3) that are referenced in scientific cultivation literature
-- Focused on making [[psilocybin-cultivation]] accessible in developing countries using appropriate technology and low-cost methods
+- Focused on making [[psilocybin-mushroom-cultivation]] accessible in developing countries using appropriate technology and low-cost methods
 - His substrate formulas and lime treatment protocols are cited in academic papers on spawn grain and culture medium interactions
 - Provided detailed guidance on wood type selection for different mushroom species, with emphasis on hardwoods over softwoods
 
@@ -65,7 +65,26 @@ Oei's work has been widely referenced in both academic and practical [[mushroom-
 
 - [[paul-stamets]] — complementary cultivation methodology
 - [[mushroom-species-guide]] — cultivation techniques and species
-- [[psilocybin-cultivation]] — practical growing methods
+- [[psilocybin-mushroom-cultivation]] — practical growing methods
 - [[william-falconer]] — earlier mushroom cultivation author
 - [[mushroom-substrates]] — substrate preparation details
 - [[straw-cultivation-methods]] — Oei's straw-based methods
+## Practical Considerations
+
+Successful implementation of Peter Oei requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

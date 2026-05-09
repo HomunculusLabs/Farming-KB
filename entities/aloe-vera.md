@@ -142,8 +142,6 @@ products containing aloin is generally considered safe.
 ## See Also
 
 - aloe vera — check for additional entity variants
-- [[tagetes-lucida]]
 - [[calendula-officinalis]]
-- [[ocimum-tenuiflorum-entity]]
 - [[symphytum-officinale]]
 - [[rheum-palmatum]]

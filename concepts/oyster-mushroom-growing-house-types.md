@@ -3,12 +3,12 @@ title: Oyster Mushroom Growing House Design and Environmental Control
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, cultivation, mushrooms]
+tags: [[mycology, cultivation, mushrooms]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
 # Oyster Mushroom Growing House Design and Environmental Control
 
-The growing house is the controlled environment where [[oyster-mushroom-species-fruiting-parameters]] occurs in [[cotter-oyster-mushroom-cultivation]] cultivation. Proper design and environmental control are essential for consistent, high-quality production. Unlike many other crops, mushroom fruiting requires precise management of temperature, humidity, fresh air exchange, and light.
+The growing house is the controlled environment where [[cotter-oyster-mushroom-cultivation]] cultivation. Proper design and environmental control are essential for consistent, high-quality production. Unlike many other crops, mushroom fruiting requires precise management of temperature, humidity, fresh air exchange, and light.
 
 ## Growing House Types
 
@@ -80,58 +80,7 @@ Relative humidity during fruiting should be maintained at 85-95%:
 
 Adequate ventilation is critical for normal mushroom development:
 
-- Oyster mushrooms require significantly more fresh air than enoki-cultivation|enoki or [[stamets-cultivator-log-cultivation-shiitake-hericium]]
-- CO2 should be maintained below 1000 ppm during fruiting
-- Fresh air also helps regulate temperature and humidity
-- Air circulation within the growing room prevents stagnant pockets of high CO2
-
-**Ventilation design**:
-- Intake air should be filtered (at minimum with dust filters; HEPA preferred)
-- Exhaust fans remove CO2-laden air
-- Circulation fans distribute air evenly throughout the room
-- Ductwork should be designed to prevent condensation buildup
-
-### Light
-
-Oyster mushrooms require light for proper development:
-
-- Indirect natural light through windows or translucent panels works well
-- Fluorescent lighting on timers provides consistent, controllable illumination
-- LED grow lights are increasingly used for energy efficiency
-- Light intensity: 200-1500 lux depending on species
-- Photoperiod: 8-12 hours of light per day is typical
-- Light also helps orient mushroom growth direction
-
-## Growing House Layout
-
-### Shelf Systems
-
-Multi-tier shelving maximizes vertical space utilization:
-- Typically 3-5 tiers per rack
-- Each tier holds substrate bags or trays
-- Minimum 30-45 cm between tiers for mushroom growth and air circulation
-- Shelves should be made of non-porous materials (galvanized steel, epoxy-coated, or plastic)
-- Wood shelves should be avoided as they become sites for mold growth
-
-### Bag Arrangement
-
-For bag cultivation:
-- Bags can be hung from ceiling hooks or placed on shelves
-- Hanging bags allow 360-degree fruiting and better air circulation
-- Bags on shelves are simpler to manage but may have uneven fruiting
-- Minimum spacing of 10-15 cm between bags for adequate air exchange
-
-### Room Zones
-
-Well-designed growing houses may have separate zones:
-- **Transition area**: Buffer zone between laboratory and growing room
-- **Incubation area**: Warm, dark area for mycelial colonization
-- **Fruiting area**: Cooled, lit, humidified area for mushroom production
-- **Harvesting/packaging area**: Clean area for post-harvest handling
-
-## Cleanliness and Sanitation
-
-Maintaining a clean growing environment is essential for preventing [[contamination-identification-prevention]]:
+- Oyster mushrooms require significantly more fresh air than enoki-cultivation|enoki or [[contamination-identification-prevention]]:
 
 - Floors should be smooth, non-porous, and easily cleanable
 - Walls and ceilings should be washable
@@ -146,3 +95,5 @@ When planning growing house capacity:
 - Growing rooms should not be filled to more than 1/4-1/8 of total air volume
 
 ## See Also
+
+See also: [[natural-building-techniques]]

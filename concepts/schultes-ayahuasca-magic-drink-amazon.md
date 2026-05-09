@@ -131,12 +131,8 @@ specific.
 
 ## See Also
 
-- [[schultes-syrian-rue-seeds-civilization]] for the Old World plant whose
-  beta-carbolines can substitute for Banisteriopsis in ayahuasca analogs
 - [[schultes-san-pedro-four-winds]] for the Andean cactus with related
   shamanic flight experiences in South American ceremonies
-- [[schultes-ololiuqui-vines-serpent]] for the Mexican seeds whose
-  individual use contrasts with ayahuasca's communal ceremonies
 - [[schultes-psilocybe-little-flowers-gods]] for the sacred mushrooms
   whose tryptamine chemistry connects them to the Chacruna additive
 - [[schultes-peyote-tracks-little-deer]] for another New World visionary

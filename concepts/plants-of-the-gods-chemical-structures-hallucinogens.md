@@ -21,20 +21,8 @@ type: concept
 Chemical determination of the molecular structure of the hallucinogenic
 principles in sacred plants has led to remarkable results. Almost all
 plant hallucinogens contain the element nitrogen and therefore belong
-to the large class of chemical compounds known as [[plants-of-the-gods-phytochemistry-sacred-plants]].
-Among the more important plants with psychoactive properties, only
-[[plants-of-the-gods-cannabis-ancient-cultures]] and
-[[schultes-salvia-divinorum]] are the most significant
-examples that do not contain nitrogen. The main active principle of
-Cannabis is tetrahydrocannabinol (THC), while the main active principle
-of Salvia divinorum is salvinorin.
-
-## Relationship to Brain Chemistry
-
-The principal plant hallucinogens are closely related in their chemical
-structure to hormones present in the brain -- that is, to physiological
-agents that play a role in the biochemistry of mental functions. The
-active principle in the [[schultes-peyote-and-mescaline]] cactus
+to the large class of chemical compounds known as [[plants-of-the-gods-cannabis-ancient-cultures]] and
+[[schultes-peyote-and-mescaline]] cactus
 is the alkaloid mescaline, a compound closely related to the brain
 hormone norepinephrine (noradrenaline). Norepinephrine belongs to the
 group of physiological agents known as neurotransmitters because they
@@ -45,82 +33,73 @@ structure. Both are derivatives of phenylethylamine.
 ## Tryptamine Derivatives
 
 Psilocybin and psilocin, the active principles of Teonanacatl (the
-hallucinogenic Mexican mushrooms of the [[schultes-psilocybe-little-flowers-gods]]
-genus), are derived from the same basic compound as the brain hormone
-serotonin: tryptamine. Tryptamine is also the basic compound of an
-essential amino acid, tryptophan, which is widely distributed in the
-human organism. The structural relationship can be clearly seen in
-molecular models showing psilocybin, psilocin, and serotonin.
-
-## Ergoline Alkaloids
-
-The [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] vine
+hallucinogenic Mexican mushrooms of the [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] vine
 (*Turbina corymbosa*) contains hallucinogenic principles that are also
 tryptamine derivatives. In this case, tryptamine is incorporated in a
 complex ring structure called ergoline. Lysergic acid amide and lysergic
 acid hydroxyethylamide (the two principal active constituents of
 Ololiuqui) share this ergoline structure with the neurotransmitter
-serotonin and with the [[plants-of-the-gods-claviceps-ergot-alkaloids]], demonstrating the deep chemical connections across these
-plant families.
-
-## Stereoisomers and Pharmacological Activity
-
-The ability of hallucinogens to produce changes in brain function is due
-not only to their chemical composition, but also to the peculiar spatial
-arrangement of the atoms in their molecules. This is clearly seen in the
-case of lysergic acid diethylamide (LSD), the most powerful
-hallucinogen known. LSD may be regarded as a chemically modified form
-of an active principle in Ololiuqui. The only difference between LSD and
-lysergic acid amide is that two hydrogen atoms of the amide have been
-replaced by two ethyl groups.
-
-With LSD, a dose of 0.05 mg produces a deep hallucinogenic intoxication.
-With iso-LSD, which differs from LSD only in the spatial arrangement of
-the atoms, ten times that dose has no effect whatsoever. Molecules
-differing only in spatial arrangement are known as stereoisomers.
-Stereoisomers can exist only with molecules that are asymmetrical in
-structure, and one theoretically possible spatial arrangement is in
-general more active.
-
-## Molecular Dimensions
-
-The real dimensions of atoms and molecules are almost unimaginable: 0.1
-mg of a hallucinogen, barely visible, consists of about 200 quadrillion
-molecules. In molecular models, black balls represent carbon atoms,
-white hydrogen, red oxygen, green nitrogen, and in the psilocybin
-molecule a yellow ball indicates a phosphoric atom. There is in fact
-no space between connected atoms; they touch, and atoms of various
-elements differ in size.
-
-## Implications for Pharmacology
-
-That the important plant hallucinogens and the brain hormones serotonin
-and noradrenaline have the same basic structure cannot be due to mere
-chance. This astounding relationship may explain the psychotropic
-potency of these hallucinogens. Having the same basic structure, these
-compounds may act at the same sites in the nervous system as the brain
-hormones -- like similar keys fitting the same lock. As a result, the
-psychophysiological functions associated with those brain sites are
-altered, suppressed, stimulated, or otherwise modified. Next to chemical
-composition, spatial configuration plays the most crucial role in
-determining hallucinogenic and general pharmacological activity.
-
-## Classification of Hallucinogen Chemistry
-
-Plant hallucinogens can be classified into several major chemical
-families: phenylethylamines (mescaline from [[schultes-peyote-and-mescaline]]);
+serotonin and with the [[schultes-peyote-and-mescaline]]);
 tryptamines (psilocybin from mushrooms, DMT from
-[[schultes-ayahuasca-magic-drink-amazon]] plants); ergolines
-(LSD-related compounds from Ololiuqui and ergot); tropane alkaloids
-(from [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]]
+[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]]
 and other nightshades); and indole alkaloids (from
-[[plants-of-the-gods-tabernanthe-iboga]]).
-THC from Cannabis and salvinorin from Salvia are notable non-nitrogenous
-exceptions. This chemical taxonomy reveals the deep evolutionary
-connections between plant secondary metabolism and animal neurochemistry.
-These molecular parallels are a central theme in Schultes and
-Hofmann's work.
+[[plants-of-the-gods-salvia-divinorum-diviners-sage]]
+## Practical Considerations
 
-## See Also
+When working with Chemical Structures of Hallucinogens, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-- [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

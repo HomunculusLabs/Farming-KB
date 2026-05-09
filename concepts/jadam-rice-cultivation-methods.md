@@ -37,57 +37,7 @@ JADAM strongly advocates returning rice straw to the field. The traditional autu
 ## Seed Treatment
 
 ### Rice Bakanae Disease Control
-Developed by Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, and [[youngsang-cho]].
-
-**Recipe:** JADAM sulfur (JS) 5 L + water to make 500 L (132 gal)
-
-**Procedure:**
-1. Put rice seeds in small porous bags
-2. Immerse in cold JS solution for 48 hours
-3. White film forms on surface (normal reaction)
-4. Rinse very thoroughly with water
-5. Start sprouting
-
-**Variations:**
-- Government-supplied varieties: rinse and rub 3 times before immersing
-- Thick-husked rice: increase JS to 7 L
-- Waxy/colored rice: use 7 L JS
-- Can replace chemical seed disinfectant
-- Also applicable to garlic and onions (~30 minute immersion)
-
-### If Seedlings Diseased in Seedbed
-- JS -- 1.5 L + JWA -- 3 L + water to make 500 L
-- Spray on affected seedlings
-
-## Water Rice Weevil Control
-
-### Surface-Spreading Agent
-Developed by Seongmin Bak and Youngsang Cho.
-
-**Preparation (concentrated):**
-- JWA -- 3 L + Water -- 5 L; stir well
-- Add JS -- 0.5 L; stir
-- Add canola oil -- 3 L; mix with drill for 10 minutes
-
-**Application:**
-1. First apply 500 L of standard mix (JWA 5 L + JS 2 L + water) on rice paddy dikes, 1-2 times, early morning
-2. Transplant rice
-3. Sprinkle surface-spreading agent undiluted on water surface, 1-2 times
-4. 1 L of agent covers 0.1 ha (1/4 ac)
-5. Sprinkle in early morning with little wind
-6. Use repeatedly when infestation is serious
-7. Apply intensively on waterways where cold water enters the field
-8. Does not kill water snails
-
-## General Rice Pest and Disease Control
-
-### Formula #3 -- Comprehensive Rice Protection
-Effective against brown planthopper, Asiatic rice borer, armyworm, rice leaf roller, rice blast, rice sheath blight, smut, stinkbug, earth mite, rice moth larvae.
-
-**Standard Recipe (500 L / 132 gal):**
-- JWA -- 5 L (1.3 gal)
-- JS -- 2 L (0.53 gal)
-- Jerusalem artichoke JHS -- 5 L (1.3 gal)
+Developed by Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, and [[jerusalem-artichoke]] JHS -- 5 L (1.3 gal)
 - Korean pasque flower root (KPFR) JHS -- 5 L (1.3 gal)
 
 **Adjustments for specific problems:**
@@ -137,6 +87,5 @@ Effective against brown planthopper, Asiatic rice borer, armyworm, rice leaf rol
 
 ## See Also
 
-- [[natural-farming-philosophy]]
 - [[soil-food-web-nutrient-cycling]]
 - [[compost-tea-recipe-guide]]

@@ -12,52 +12,7 @@ sources:
 
 ## Overview
 
-Fine red clay powder is used in several JADAM pesticide recipes to enhance effectiveness. When added at 0.5 kg per 500 L of spray solution, it improves pesticide adhesion and coverage. For winter fruit tree spraying ([[jadam-fruit-tree-winter-pest-control]]), 2 kg per 500 L is used. The powder must be finely processed to avoid clogging sprayers.
-
-**Method developed by:** Chanmo Gim, Goseong, Korea
-
-## Making Fine Red Clay Powder
-
-### Step 1: Dissolve Raw Red Clay
-- Take raw red clay and dissolve it in water
-- Use a large container with plenty of water
-- Stir thoroughly until all clay is suspended
-
-### Step 2: Filter with Felt
-- Pour the clay-water mixture through felt fabric
-- Felt captures large particles, rocks, and organic debris
-- Only fine clay particles pass through with the water
-
-### Step 3: Settle
-- Let the filtered water sit undisturbed for approximately **1 hour**
-- Fine clay particles will settle to the bottom
-- Coarser particles that passed the filter will settle faster
-
-### Step 4: Discard Upper Water
-- Carefully pour off or siphon off the upper clear water
-- The fine clay sediment remains at the bottom
-
-### Step 5: Dry in Shade
-- Remove the settled clay and dry it in the **shade**
-- Do NOT dry in direct sunlight (sun drying can harden the clay into unusable lumps)
-- Shade drying preserves the fine, powdery consistency
-
-### Step 6: Slice and Store
-- Slice the dried clay lump into approximately 2 kg (4.4 lb) portions
-- Store in a dry place
-- Dissolve in water when ready to use
-
-## Usage in Pesticide Recipes
-
-### Standard Enhancement (0.5 kg per 500 L)
-Used in recipes #6, #7, #8, #9, #10, #11, #12 to increase effectiveness against:
-- Aphids, mites, moths
-- Planthoppers, leafhoppers
-- Stinkbugs, thrips
-- Slugs and snails
-
-### Winter Fruit Tree Spray (2 kg per 500 L)
-Used in [[jadam-fruit-tree-winter-pest-control]] (recipe #13):
+Fine red clay powder is used in several JADAM pesticide recipes to enhance effectiveness. When added at 0.5 kg per 500 L of spray solution, it improves pesticide adhesion and coverage. For winter fruit tree spraying ([[jadam-fruit-tree-winter-pest-control]] (recipe #13):
 - Slice 2 kg lump and dissolve in water
 - Filter out any remaining large particles
 - Use air pump/aerator to keep clay suspended during spraying
@@ -80,11 +35,66 @@ When spraying clay-enhanced pesticide:
 
 ## See Also
 
-- [[jadam-fruit-tree-winter-pest-control]] - Primary use of 2 kg clay per 500 L
 - [[jadam-stinkbug-mealybug-pesticide]] - Recipe #9 with clay enhancement
-- [[jadam-canker-leaf-spot-pesticide]] - Recipe #5 disease control
 - [[jadam-natural-pesticide-jnp]] - JNP system overview
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-pest-control-recipes]]
 - [[jadam-herbal-pest-control]]
+## Practical Considerations
+
+When working with Fine Red Clay Powder Method (JADAM Technique), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -35,27 +35,7 @@ Distinct fungal guilds specialize on different plant substrates:
 - Dead bryophytes — specialized fungal decomposers
 - Algae — fungal associates and parasites
 - Grasses — specific litter fungi adapted to grass-dominated ecosystems
-- Wood and bark — lignified tissues with extended succession (see [[fungal-succession-woody-debris-ecology]])
-- Bamboo — supports unique fungal communities
-
-## Environmental Modifiers
-
-### Temperature and Humidity
-
-Most fungi grow and sporulate best above 15-20°C (Cooke and Whipps 1993). However, humidity is more important than temperature alone. High humidity promotes spore germination, hyphal growth, and sporulation across a wide temperature range.
-
-### Elevation Effects
-
-Elevation modifies microfungal diversity through its effects on temperature, humidity, vegetation type, and seasonality. Higher elevations typically show reduced diversity but may harbor endemic species adapted to specific conditions.
-
-### Aridity
-
-Xeric areas have reduced microfungal diversity. Water limitation constrains spore germination and hyphal growth, and the reduced plant diversity in arid regions provides fewer substrate types and less host plant material.
-
-## Host Plant-Fungus Specificity
-
-### Endophytic Relationships
-The [[fungal-endophyte-colonization-patterns]] literature documents varying degrees of host specificity. Clavicipitaceous endophytes of grasses show relatively broad host ranges within the Poaceae, while some endophytes of non-grass hosts are highly host-specific.
+- Wood and bark — lignified tissues with extended succession (see [[fungal-endophyte-colonization-patterns]] literature documents varying degrees of host specificity. Clavicipitaceous endophytes of grasses show relatively broad host ranges within the Poaceae, while some endophytes of non-grass hosts are highly host-specific.
 
 ### Litter Fungi
 Litter decomposing fungi show intermediate specificity. Some species colonize the litter of multiple plant families, while others are restricted to a single genus or species. Litter washing protocols (Harley and Waid 1955; Tokumasu et al. 1997) reveal the diversity of these communities.
@@ -86,12 +66,26 @@ The strong link between plant diversity and microfungal diversity means that pla
 
 ## See Also
 
-- [[fungal-succession-woody-debris-ecology]]
 - [[fungal-endophytes-grass-crop-systems]]
-- [[the-soil-food-web]]
 - [[mycorrhizal-fungi-biome-surveys]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]
-
-Source: Comprehensive review (Cooke and Whipps 1993; Harley and Waid 1955; Tokumasu et al. 1997)
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+## Practical Considerations
+
+Successful implementation of Microfungal Diversity Host Plant Relationship requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -6,141 +6,134 @@ updated: 2026-04-28
 sources:
   - Pieterse CMJ, Zamioudis C, Berendsen RL, et al. Induced systemic resistance by beneficial microbes. Annual Review of Phytopathology. 2014;52:347-375.
   - Van Wees SCM, Van der Ent S, Pieterse CMJ. Plant immune responses triggered by beneficial microbes. Current Opinion in Plant Biology. 2008;11(4):443-448.
-  - Shoresh M, Harman GE, Mastouri F. Induced systemic resistance and plant responses to fungal [[dighton-mycorrhizae-pathogen-biocontrol-interactions]]. Annual Review of Phytopathology. 2010;48:21-43.
-  - Ryu CM, Farag MA, Hu CH, et al. Bacterial volatiles promote growth in Arabidopsis. Proceedings of the National Academy of Sciences. 2003;100(8):4927-4932.
-  - Verhagen BWM, Trotel-Aziz P, Couderchet M, Höfte M, Aziz A. Pseudomonas spp.-[[endophytic-mycorrhizal-induced-systemic-resistance]] to Botrytis cinerea is associated with induction and priming of [[mycorrhiza-induced-resistance-defense-priming]] in grapevine. Journal of Experimental Botany. 2010;61(1):249-260.
-  - Conrath U, Beckers GJM, Flors V, et al. Priming: getting ready for battle. Molecular Plant-Microbe Interactions. 2006;19(10):1062-1071.
-type: query
-created: 2026-04-28
----
+  - Shoresh M, Harman GE, Mastouri F. Induced systemic resistance and plant responses to fungal [[endophytic-mycorrhizal-induced-systemic-resistance]] to Botrytis cinerea is associated with induction and priming of [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+## Background and Context
 
-# How Does Induced Systemic Resistance (ISR) Work and How Can Biocontrol Agents Trigger It
+How Does Induced Systemic Resistance Work and How Can Biocontrol Agents Trigger It is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
 
-## What is Induced Systemic Resistance?
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
 
-Induced systemic resistance (ISR) is a plant's enhanced defensive capacity triggered by prior exposure to a beneficial microorganism. Unlike Systemic Acquired Resistance (SAR), which is activated after actual pathogen infection and depends on salicylic acid (SA) signaling, ISR is activated by non-pathogenic rhizobacteria and fungi and primarily depends on jasmonic acid (JA) and ethylene (ET) signaling pathways. A key distinction: ISR does not directly activate defenses — it **primes** the plant to respond faster and stronger when a real pathogen attack occurs.
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
 
-Think of it as a fire drill. The plant doesn't expend energy maintaining full defensive readiness at all times (which would reduce growth), but when ISR is active, the alarm system is pre-wired to trigger faster when actual danger is detected.
+## Key Principles and Mechanisms
 
-## How ISR Differs from Systemic Acquired Resistance (SAR)
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
 
-| Feature | ISR | SAR |
-|---|---|---|
-| **Trigger** | Beneficial rhizosphere microbes (PGPR, Trichoderma, mycorrhizae) | Pathogen infection causing tissue damage and necrosis |
-| **Primary hormones** | Jasmonic acid (JA) and ethylene (ET) | Salicylic acid (SA) |
-| **Key regulatory protein** | NPR1 (same as SAR, but different signaling upstream) | NPR1 |
-| **Defense spectrum** | Effective against necrotrophic fungi, herbivores, some bacteria | Effective against biotrophic pathogens and viruses |
-| **Growth cost** | Minimal — priming is metabolically cheap | Moderate — SA accumulation can reduce growth |
-| **Transgenerational** | No evidence for inherited priming in most cases | Some evidence in *Arabidopsis* for SAR-derived priming |
-| **Speed of onset** | 24–72 hours after root colonization | 48–96 hours after initial infection |
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
 
-## The Molecular Signaling Cascade
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
 
-### Step 1: Root Colonization and Microbe Recognition
+## Methods and Techniques
 
-When a biocontrol agent like *Trichoderma harzianum* or *Pseudomonas fluorescens* colonizes plant roots, the plant detects conserved microbial molecules called microbe-associated molecular patterns (MAMPs):
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
 
-- **Flagellin** (from bacteria): Detected by FLS2 receptor kinase
-- **Lipopolysaccharide (LPS)** (from Gram-negative bacteria): Detected by LORE receptor
-- **Chitin fragments** (from fungi): Detected by CERK1/LYK5 receptor complex
-- **Ergosterol** (from fungi): Detected by yet-unidentified G-protein-coupled receptors
-- **Surfactants and lipopeptides** (from *Bacillus* spp.): Detected by membrane-associated receptors
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
 
-This recognition is intentionally weak — enough to signal "friend" but not strong enough to trigger a full defense response (which would reject the beneficial organism).
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
 
-### Step 2: Hormonal Signaling
+## Applications and Use Cases
 
-MAMP recognition activates a cascade that shifts the plant's hormonal balance:
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
 
-1. **JA biosynthesis is upregulated**: Lipoxygenase (LOX) enzymes convert linolenic acid to 13-HPOT, which is then converted to jasmonic acid through the AOS and AOC enzymes
-2. **ET biosynthesis is upregulated**: ACC synthase and ACC oxidase convert S-adenosylmethionine to ethylene
-3. **SA pathway is mildly modulated**: NPR1 protein translocates from cytoplasm to nucleus (same as SAR) but through JA/ET signaling rather than SA accumulation
-4. **Crosstalk is managed**: The JA and SA pathways are antagonistic — when one is active, it suppresses the other. ISR walks a fine line, activating JA/ET enough to prime defenses without completely suppressing SA-mediated pathogen defenses
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
 
-### Step 3: Defense Priming
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
 
-The nuclear translocation of NPR1 is the central event. In the nucleus, NPR1 interacts with TGA transcription factors to alter chromatin structure at defense gene loci. The genes aren't fully activated yet — instead:
+## Challenges and Limitations
 
-- Histone acetylation marks are placed at defense gene promoters (making them ready for rapid transcription)
-- RNA polymerase II is pre-recruited but paused
-- Transcription factor proteins accumulate in inactive forms
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
 
-When a pathogen eventually attacks, the primed gene loci are transcribed 2–10× faster than in non-primed plants, and the defense response reaches full intensity within hours rather than days.
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
 
-## What Biocontrol Agents Trigger ISR?
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
 
-### Fungal Biocontrol Agents
+## Future Directions and Resources
 
-| Agent | MAMPs/Signals | ISR Effectiveness | Best Against |
-|---|---|---|---|
-| *Trichoderma harzianum* | Chitin oligomers, xylanase, swollenin | Strong — among the best-studied ISR triggers | *Fusarium*, *Botrytis*, *Rhizoctonia*, leaf pathogens |
-| *Trichoderma asperellum* | Chitin, cell wall glycoproteins | Strong — root colonization specialist | Root pathogens, some foliar diseases |
-| *Trichoderma virens* | Gliotoxin (at sub-toxic levels), peptaibols | Moderate to strong | Damping-off, soil-borne fungi |
-| arbuscular-mycorrhizal-fungionization-patterns]]al-fungi-diversity]] | Lipochitooligosaccharides (Myc-LCOs) | Moderate — slower onset than Trichoderma | Root pathogens, herbivores |
-| *Pythium oligandrum* | Elicitin-like proteins (POD-1, Oligandrin) | Moderate | *Phytophthora*, *Botrytis* |
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
 
-### Bacterial Biocontrol Agents
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
 
-| Agent | MAMPs/Signals | ISR Effectiveness | Best Against |
-|---|---|---|---|
-| *Pseudomonas fluorescens* WCS417 | Flagellin, lipopeptides (massetolide) | Very strong — model ISR organism | *Fusarium*, *Alternaria*, *Pseudomonas syringae* |
-| *Bacillus subtilis* FB17 | Surfactin, fengycin, iturin lipopeptides | Strong — also produces VOCs | Damping-off, foliar pathogens |
-| *[[bacillus-amyloliquefaciens]]* | Surfactin, bacillomycin D | Strong | *Rhizoctonia*, *Fusarium*, leaf spot diseases |
-| *Bacillus velezensis* | Iturin, fengycin, bacillaene | Strong — broad-spectrum ISR | Multiple pathogens and herbivores |
-| *Serratia marcescens* | Chitinase, prodigiosin | Moderate | Soil-borne fungi, some insects |
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
 
-### Volatile-Mediated ISR
-
-Some biocontrol agents trigger ISR without physical contact, through volatile organic compounds (VOCs):
-
-- **2,3-butanediol** (from *Bacillus subtilis* and *Pseudomonas chlororaphis*): Triggers ISR through airborne signals; effective across chamber-divided experiments
-- **Acetoin** (from *Bacillus* spp.): Similar ISR-triggering capacity to 2,3-butanediol
-- **6-Pentyl-α-pyrone** (from *Trichoderma* spp.): Coconut-scented VOC with both direct antifungal and ISR-inducing properties
-
-VOC-mediated ISR is particularly relevant for greenhouse production, where enclosed environments allow volatile accumulation.
-
-## Practical Application Guide
-
-### For Trichoderma-Based ISR
-
-1. **Apply early**: ISR requires 5–14 days of root colonization before the plant is fully primed. Apply at seeding or transplanting, not after disease symptoms appear
-2. **Use adequate inoculum**: 10⁶–10⁸ CFU/g for soil applications; insufficient colonization fails to trigger ISR
-3. **Minimize fungicide use**: Most fungicides kill or suppress Trichoderma before ISR can be established. If fungicides are necessary, apply Trichoderma first and allow 2+ weeks before any chemical treatment
-4. **Support root health**: Healthy roots = more colonization surface = stronger ISR. Ensure adequate aeration, moderate moisture, and balanced nutrition (especially calcium and silicon, which strengthen cell walls for the primed defenses to work with)
-
-### For PGPR-Based ISR
-
-1. **Combine strains**: *Pseudomonas* + *Bacillus* combinations often provide stronger ISR than single-strain applications, as they produce complementary MAMPs
-2. **Use seed treatment**: Seed coating with PGPR ensures the bacteria are present at the earliest root emergence, maximizing colonization time
-3. **Add carbon sources**: Drenching with a dilute molasses or humic acid solution after PGPR application feeds the bacteria and extends rhizosphere persistence from days to weeks
-4. **Avoid excessive nitrogen**: High ammonium fertilization suppresses ISR by disrupting JA signaling. Moderate N rates and preference for nitrate over ammonium support ISR priming
-
-### Monitoring ISR Activation
-
-There is no simple field test for ISR status, but these indicators suggest successful priming:
-
-- **Gene expression markers** (lab test): Elevated PR-1, PDF1.2, and VSP2 transcript levels in leaf tissue, detectable by qPCR 7–14 days after inoculation
-- **Enhanced callose deposition** (lab test): Stronger callose response to flg22 peptide treatment in leaf tissue samples
-- **Field observation**: Inoculated plants show less disease severity than uninoculated controls when both are exposed to the same pathogen pressure, even though the biocontrol agent may never contact the foliar pathogen directly
-
-## Frequently Asked Questions
-
-**Does ISR protect against all diseases?**
-
-No. ISR primarily enhances defense against **necrotrophic fungi** (*Botrytis*, *Alternaria*, *Sclerotinia*), some **bacterial pathogens**, and **chewing herbivores**. It is generally less effective against biotrophic pathogens (*powdery mildew*, *[[downy-mildew-biology-diversity-peronosporales]]*, rusts) and viruses, which are better controlled through SA-dependent SAR.
-
-**Can I over-apply biocontrol agents?**
-
-Yes. Excessive colonization can trigger a full MAMP-triggered immunity (MTI) response instead of the mild recognition needed for ISR. This causes growth reduction and may paradoxically make plants more susceptible to pathogens that exploit JA/ET signaling. Follow product label rates and avoid combining multiple ISR inducers at full rates simultaneously.
-
-**How long does ISR last?**
-
-Priming typically persists for 2–6 weeks after the initial colonization event. In annual crops, a single early application may not protect through the entire growing season. Booster applications every 3–4 weeks are recommended for long-season crops. In perennials, established root colonization provides more sustained ISR.
-
-**Is ISR compatible with chemical disease control?**
-
-Partially. Systemic acquired resistance activators like acibenzolar-S-methyl (Actigard) can synergize with biocontrol ISR, but their SA-dependent pathway may antagonize JA/ET-dependent ISR if applied simultaneously. Space applications by at least 7 days. Copper-based and sulfur-based fungicides are the most compatible with ISR-active biocontrol programs.
-
-**Does ISR reduce yield?**
-
-Unlike constitutive defense activation, properly induced ISR through biocontrol agents typically does not reduce yield and may even increase it by 5–15%. The priming mechanism is metabolically inexpensive — the plant only invests in full defense when a real pathogen is detected. However, poorly calibrated applications (excessive inoculum, multiple simultaneous ISR inducers) can cause growth penalties.

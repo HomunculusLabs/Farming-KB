@@ -3,7 +3,7 @@ title: Fungal Biomass Estimation Methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 Fungal Biomass Estimation Methods
@@ -139,11 +139,7 @@ forest, demonstrating that even small proportional biomass can represent
 significant absolute nutrient stocks.
 
 Related topics:
-- [[fungal-feeding-invertebrates-fungivory]]
 - [[fungal-respiration-carbon-flux]]
-- [[fungal-nutrient-cycling-forests]]
 - [[fungal-enzymatic-diversity-decomposition]]
-- [[fungal-decomposition-kinetics]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[ectomycorrhizal-ecology]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

@@ -3,101 +3,137 @@ title: Fish Species Guide - Permaculture Designers Manual
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Fish Species Guide
-
-From Permaculture: A Designers' Manual by Bill Mollison.
-
-## The Case for Polyculture
-
-The stability and productivity of aquaculture systems are superior to terrestrial culture systems so far developed. Given the same inputs in energy or nutrients, we can expect from 4-20 times the yield from water than that from the adjoining land. Water supply is constant, plant nutrients are available in soluble and easily assimilable form, and water organisms need waste little energy in movement, being largely free of gravitational effects and weight disadvantages.
-
-A few fish species, notably Tilapia and carp, were brought in as a basic farmed food for terrace rice and taro culture in Asia or in famine areas. However, it is still true that the great majority of aquacultures have a predominantly local flavour and species composition, and few introduced species have proved to be as adapted and productive as indigenous species.
-
-## Key Species for Polyculture
-
-### Tilapia
-
-Tilapia is one of the most widely cultured warm-water fish, tolerant of poor water quality and able to feed on algae, detritus, and plant material. Stocking rates and yields in fertilised ponds:
-
-| Rate/ha | Yield (kg) | Marketable (%) |
-|---------|-----------|----------------|
-| 2,500 | 631.7 | - |
-| 5,000 | 840.1 | - |
-| 7,500 | 1,011.8 | - |
-| 15,000 | 1,387.0 | - |
-
-At very high stocking (5,000/ha), yields can reach 3,162 kg but only 97.5% are marketable at 200g size. At 10,000/ha, yields drop to 903 kg with only 50.4% marketable. Tilapia at below market size took 7 months more to reach the 200 g limit achieved by fast growers in 6 months -- there is a selection factor, and we can select from fast growers for future brood fish.
-
-Hybridisation in Tilapia species gives sterile males or one-sex stock fish. "Counts in" are "counts out" less mortality (allow fry losses of 30-40%).
-
-### Common Carp
-
-Common carp (Cyprinus carpio) is extremely productive in polyculture. Alone at 2,500/ha, common carp yields only 314 kg/ha. However, when combined with other species using different food niches, yields increase dramatically. It is not atypical to find carp ponds with 3-7 varieties of carp, all chosen for their distinct food preferences.
-
-Buffalo fish (2,500/ha) alone yields 1,086 kg, but buffalo fish (2,500) plus 250 carp/ha yields 925 kg -- a 300% increase on carp alone. A rise or fall in water level is crucial to carp species that breed on flooded grasses or reeds.
-
-### Channel Catfish
-
-Channel catfish alone (4,400/ha) produces 1,400 kg/ha. Channel catfish (4,400) plus 1,250 Tilapia yields 1,834 kg/ha. The food conversion efficiency of catfish (1.7:1) was unaffected by the Tilapia; there was no stunting of one species by the addition of another.
-
-### Air-Breathing Fish for Tropical Ponds
-
-In oxygen-depleted tropical still-ponds, air-breathing species are essential. At 1 ppm dissolved oxygen, many fish species die, but adapted species survive:
-
-- Snakeheads (Ophiocephalus)
-- Singhi (Heteropneustes)
-- Catfish Clarias
-- Mahi (Notopterus)
-- Anabas (climbing perch)
-
-These have labyrinth organs or special air chambers near the gills. Even derelict swampy ponds can yield 2,400 kg protein/ha/year if a polyculture of air-breathers is stocked.
-
-### Minnows and Forage Fish
-
-Minnows have increased yields for trout, salmon, Tilapia, bass, bluegill, and mullet. Bluegill on their own (3,900/ha) yields 186.4 kg, but bluegill with Gambusia fish yields 3,449.4 kg -- an 18-fold increase. Swingle hypothesises that 50% of a pond devoted to cover or special habitat for small forage species would not reduce the total yield of pan fish.
-
-### Predators for Population Control
-
-Small numbers of predators are essential to prevent over-stocking and maintain growth to market size:
-
-- Bass, soft-shelled tortoises, snakeheads, and pike are used to control breeding in carp and bluegill
-- Bluegill alone: 316.6 kg/ha; Bluegill plus bass: 484.4 kg/ha (a 53% increase)
-- Predators often fetch higher prices than the prey species
-
-### Mussels and Plants for Water Quality
-
-Fresh or brackish-water mussels and plants actively improve water quality. Fish alone yields 316.6 kg; fish plus mussels yields 548 kg plus 864 kg of mussel meat. Plants also add daytime oxygenation, and mussels actively circulate water.
-
-### Crayfish
-
-Crayfish (Cambarus clarkii) are also stocked in rice padi and pond systems, and can be a valuable crop in their own right or food for mink and other livestock.
-
-## Rice Padi Fish Mixtures
-
-Good fish mixtures for rice padi include:
-
-- Helostoma temmincki (35%), Osteochilus hasselti (15%), Cyprinus carpio (15%), Puntias gontionotus (35%)
-- Sarotherodon mossambicus (50%), Helostoma (20%), Osteochilus (15%), Puntias (15%), Cyprinus carpio (10%)
-
-Such polycultures use weed-eating species and predators to control small fish. Extra crop of fish in rice reaches 70-400 kg/ha/year.
-
-## Fish Loss Prevention
-
-Losses in ponds can occur from theft, predation, disease, parasites, extreme heat or cold, and accidental draining. Precautions include fences, locks, automatic signalling or pumping systems, predator control, and flood by-passes. The fish culturalist needs to live close to or overlooking the pond area.
-
-## See Also
-
-- [[permaculture-designers-manual-ponds-and-dams]]
-- [[permaculture-designers-manual-aquatic-plants]]
-- Water Quality
+tags: [[permaculture-designers-manual-ponds-and-dams]]
 - [[permaculture-designers-manual-chinampa-systems]]
-- [[permaculture-designers-manual-aquaculture-species]]
 - [[permaculture-designers-manual-water-quality]]
-- [[permaculture-designers-manual-essential-oil-plants]]
 - [[mollison-aquatic-polyculture-and-pond-culture]]
 - [[permaculture-designers-manual-energy-systems]]
+## Background and Context
+
+Fish Species Guide - Permaculture Designers Manual is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

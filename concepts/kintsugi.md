@@ -28,7 +28,7 @@ It is durable, glossy, adhesive, and resistant to water when properly cured.
 Raw urushi can irritate skin because it contains urushiol compounds.
 Craftspeople handle it carefully and allow repaired objects to cure in a humid cabinet.
 Gold powder is the iconic surface material, but silver, brass, tin, or colored powders may be used.
-Rice flour, clay powder, wood powder, and other fillers can thicken lacquer for different repair stages.
+[[jadam-red-clay-powder-method]], wood powder, and other fillers can thicken lacquer for different repair stages.
 The ceramic object may be porcelain, stoneware, earthenware, or raku ware.
 The best material choice depends on the object's value, intended use, break pattern, and ceramic body.
 Modern hobby kits sometimes substitute epoxy and metallic pigments.
@@ -61,8 +61,8 @@ Some repairs are quiet and restrained.
 Others are bold, branching, and almost cartographic.
 The aesthetic power lies in the tension between fragility and renewed usefulness.
 
-## History [[oss-oeric-legal-disclaimer-and-context]]
-Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultureiod and the rise of tea culture.
+## History 
+Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultur kombucha brewing and fermented tea culture e rise of tea culture.
 One often repeated story concerns shogun Ashikaga Yoshimasa and a damaged Chinese tea bowl.
 According to the story, unsatisfactory metal staple repairs encouraged Japanese artisans to develop a more refined method.
 The historical details are difficult to verify, but the tale captures a real cultural shift.
@@ -83,7 +83,7 @@ The joint-call approach can create a deliberately hybrid form.
 Some repairs use fine lines that respect the original silhouette.
 Other repairs emphasize the seam as a new visual feature.
 Stitched metal staple repairs are distinct from kintsugi but historically related to ceramic mending.
-Museum conservation may use reversible materials rather than traditional [[ingham-coli-compost-tea-food-safetytableware-repair-requires-special-attention-to-ingham-coli-compost,-curing,-and-cleaning.-decorative-repairs-may-prioritize-symbolism-over-durability.-the-category-is-therefore-both-technical-and-interpretive.-##-cultural-meanings-kintsugi-is-often-used-as-a-metaphor-for-resilience-after-trauma.-the-repaired-vessel-suggests-that-damage-need-not-erase-worth.-it-also-suggests-that-healing-may-remain-visible.-this-metaphor-has-spread-widely-in-psychology,-self-help,-design,-and-popular-writing.-kintsugi-is-not-merely-an-inspirational-slogan.-it-involves-patience,-toxic-materials,-trained-hands,-and-material-constraints.-the-cultural-meaning-deepens-when-the-craft-process-is-respected.-the-object-is-not-improved-because-it-broke.-it-is-transformed-because-someone-invested-care-in-repair.-that-distinction-keeps-the-metaphor-from-romanticizing-damage-itself.-##-conservation-issues-professional-conservators-evaluate-whether-a-kintsugi-repair-should-be-preserved,-stabilized,-or-reversed.-an-old-repair-may-be-historically-significant-in-its-own-right.-removing-it-can-erase-evidence-of-ownership,-taste,-and-past-restoration-practice.-however,-old-repairs-may-also-be-structurally-weak-or-chemically-unstable.-gold-lacquer-seams-can-complicate-dating-[[soil-testing-and-interpretation]] if poorly documented.
+Museum conservation may use reversible materials rather than traditional  if poorly documented.
 Museums must balance appearance, authenticity, stability, and reversibility.
 Urushi repair is durable but not always compatible with modern conservation ethics.
 Epoxy repairs may yellow or become difficult to remove.
@@ -104,7 +104,7 @@ It also raises questions about cultural appropriation and historical accuracy.
 
 ## Misconceptions
 Kintsugi is not simply gluing pottery with gold paint.
-[[query-how-to-process-acorns-for-foodnal work depends on urushi chemistry and staged curing.
+query-how-to-process-acorns-for-foodnal work depends on urushi chemistry and staged curing.
 It is not always safe for food use unless materials and curing are appropriate.
 It is not a universal ancient Japanese response to all broken objects.
 It belongs to specific craft, tea, and aesthetic histories.
@@ -125,3 +125,7 @@ Kintsugi matters because it makes continuity visible.
 The golden seam is evidence that fragility and beauty can coexist.
 
 ## See Also
+
+## See Also
+- [[broadscale-restoration-watershed-repair]]
+- [[building-with-natural-materials]]

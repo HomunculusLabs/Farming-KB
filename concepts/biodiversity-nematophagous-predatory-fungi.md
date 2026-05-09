@@ -1,7 +1,7 @@
 ---
 title: "Nematophagous and Predatory Fungi"
 created: 2026-04-28
-tags: [mycology, nematophagous-fungi, fungal-predators, soil-fungi, biodiversity]
+tags: [[mycology, nematophagous-fungi, fungal-predators, soil-fungi, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -22,13 +22,7 @@ microfauna.
 
 ## Modes of Existence
 
-[[fungal-parasites-and-predators]] of microfauna have three fundamental
-modes of existence: predation, parasitism of adult invertebrates, and
-parasitism of invertebrate eggs and cysts.
-
-### Predatory Fungi
-
-Predatory species form extensive [[mycelial-networks]] in soil and capture
+[[mycelial-networks]] in soil and capture
 multiple animal prey per mycelial individual. They produce specialized
 capture organs including adhesive knobs, adhesive networks (three-
 dimensional nets), and constricting or nonconstricting rings. When a
@@ -41,32 +35,7 @@ their trapping devices.
 
 Predatory fungi with adhesive networks include species of Arthrobotrys,
 Dactylella, and Monacrosporium. These fungi produce three-dimensional
-hyphal networks coated with adhesive material on [[biodiversity-fungi-soil-fungal-communities]] organic matter.
-Species with constricting rings, such as Dactylaria and some
-Arthrobotrys species, produce specialized hyphal loops that swell
-rapidly when triggered by nematode movement, constricting and trapping
-the animal within seconds.
-
-### Endoparasitic Fungi
-
-Endoparasitic fungi form at most extremely limited mycelia external to
-their animal hosts. They produce infective conidia or zoospores that
-adhere to the surface of the host, germinate, and penetrate the
-cuticle. Once inside, the fungus develops extensively, consuming the
-host's internal tissues and eventually killing it. The fungus then
-emerges to produce new infective spores.
-
-Endoparasitic species include those that produce adhesive spores
-(e.g., Drechmeria coniospora), which stick to nematode cuticles and
-germinate to form infection hyphae, and those with motile zoospores
-(e.g., Catenaria anguillulae, a chytridiomycete), which actively seek
-out and infect nematodes in aquatic or water-saturated environments.
-Some endoparasites produce spores that are ingested by nematodes and
-germinate within the digestive tract.
-
-### Egg and Cyst Parasites
-
-A specialized group of [[nematophagous-fungi]] attacks nematode eggs and
+hyphal networks coated with adhesive material on [[nematophagous-fungi]] attacks nematode eggs and
 cysts rather than adult animals. These fungi are particularly
 important in agricultural systems where plant-parasitic nematodes
 cause significant crop damage. Species of Paecilomyces lilacinus and
@@ -147,3 +116,5 @@ soils and aquatic habitats that have been poorly sampled. Describing
 new or rare parasites requires careful observation of trapping or
 infection structures, spore morphology, and host specificity.
 ## See Also
+
+See also: [[soil-nematodes-ecology-and-management]]

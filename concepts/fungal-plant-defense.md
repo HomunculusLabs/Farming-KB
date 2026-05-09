@@ -138,9 +138,6 @@ in crop plants.
 
 ## See Also
 
-- [[mycorrhizal-symbiosis]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhiza-root-exudates]]
 - [[piriformospora-indica]]
-- [[mycorrhiza-nutrient-exchange]]
 - [[mycorrhizal-networks]]

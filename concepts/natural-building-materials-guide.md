@@ -116,7 +116,3 @@ Many natural buildings combine multiple materials for optimal performance:
 - [[earth-plaster-and-natural-finishes]] for breathable wall finishing options
 - [[timber-frame-basics]] for structural frame options to pair with infill materials
 - [[rocket-mass-heater-design]]
-
-## See Also
-
-- [[fracture-mechanics-engineering-materials]]

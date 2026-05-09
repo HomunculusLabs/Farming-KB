@@ -76,7 +76,7 @@ The species is found in pastures, grassy fields, and forest clearings, often gro
 
 ## Chemistry
 
-psilocybe rugosoannulata contains [[psilocybin-compound]] and [[psilocin]] as its primary active compounds. While quantitative analytical data is limited due to the species' relative rarity in collections, available data suggests moderate alkaloid levels consistent with other Neotropical coprophilous Psilocybe species.
+psilocybe rugosoannulata contains [[psilocin]] as its primary active compounds. While quantitative analytical data is limited due to the species' relative rarity in collections, available data suggests moderate alkaloid levels consistent with other Neotropical coprophilous Psilocybe species.
 
 Baeocystin has been detected as a minor constituent. The alkaloid profile of dung-inhabiting Psilocybe species often shows higher variability than that of wood-inhabiting species, possibly reflecting differences in substrate nutrient availability and microbial competition in the coprophilous niche. Studies of psilocybin variation across the genus have documented that environmental factors including substrate nitrogen content, temperature during fruiting, and degree of desiccation all influence final alkaloid concentrations.
 
@@ -84,9 +84,7 @@ Baeocystin has been detected as a minor constituent. The alkaloid profile of dun
 
 psilocybe rugosoannulata can be confused with several Neotropical Psilocybe species that share its dung-inhabiting ecology:
 
-- **[[psilocybe-cubensis]]** — Much larger and more robust (cap to 8 cm); more commonly encountered; lacks the distinctive rugose annulus; has a more persistent membranous veil
 - **[[psilocybe-hoogshagenii]]** — Has a pronounced apical appendage on the cheilocystidia and a persistent annulus, but the annulus is not rugose; typically has a more pronounced umbo
-- **[[psilocybe-mexicana]]** — Generally smaller with a more conic cap; found primarily in Mexico; has a different cheilocystidial morphology
 - **[[psilocybe-wassonii]]** — Restricted to high-altitude pine forests in Mexico; distinct habitat and distribution; lacks the rugose annulus
 
 The wrinkled annulus is the most reliable macroscopic feature for distinguishing psilocybe rugosoannulata from similar species in the field.
@@ -97,7 +95,7 @@ psilocybe rugosoannulata was described by Rolf Singer as part of his monumental 
 
 ## Toxicity and Safety
 
-psilocybe rugosoannulata is not physically toxic. The active compounds [[psilocybin-compound]] and [[psilocin]] have low physiological toxicity, and no deaths have been attributed to psilocybin mushroom ingestion alone. However, foragers should exercise caution to distinguish it from potentially dangerous species. In tropical pastures, species of Galerina and other toxic genera may co-occur with psilocybin mushrooms. The blue bruising reaction provides a useful preliminary screening tool, though it is not infallible.
+psilocybe rugosoannulata is not physically toxic. The active compounds [[psilocin]] have low physiological toxicity, and no deaths have been attributed to psilocybin mushroom ingestion alone. However, foragers should exercise caution to distinguish it from potentially dangerous species. In tropical pastures, species of Galerina and other toxic genera may co-occur with psilocybin mushrooms. The blue bruising reaction provides a useful preliminary screening tool, though it is not infallible.
 
 ## Ethnobotanical Context
 
@@ -119,4 +117,4 @@ The presence of psilocybe rugosoannulata in tropical pastures indicates a health
 
 ## Legal Status
 
-psilocybe rugosoannulata is controlled as a psilocybin-containing species under the drug laws of most countries where it occurs. In Brazil, psilocybin mushrooms are not specifically scheduled, but the active compounds [[psilocybin-compound]] and [[psilocin]] are controlled substances under international conventions including the UN Convention on Psychotropic Substances. In Colombia and Ecuador, the species is implicitly controlled through the scheduling of its active constituents.
+psilocybe rugosoannulata is controlled as a psilocybin-containing species under the drug laws of most countries where it occurs. In Brazil, psilocybin mushrooms are not specifically scheduled, but the active compounds [[psilocin]] are controlled substances under international conventions including the UN Convention on Psychotropic Substances. In Colombia and Ecuador, the species is implicitly controlled through the scheduling of its active constituents.

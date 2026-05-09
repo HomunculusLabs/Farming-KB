@@ -139,9 +139,6 @@ coconut, mango, and breadfruit plantings.
 
 - mollison designers integrated animal systems
 - mollison designers silvopasture design
-- [[mollison-designers-chicken-tractors-egg-production]]
-- mollison designers forage crop systems
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[mollison-designers-pig-tractor-systems-and-land-preparation]]
 - [[mollison-designers-duck-pond-integrated-systems]]
 - [[mollison-designers-soil-water-storage-in-forest-systems]]

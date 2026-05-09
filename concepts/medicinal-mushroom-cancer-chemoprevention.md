@@ -3,7 +3,7 @@ title: Medicinal Mushroom Cancer Chemoprevention
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, medicine, mushrooms]
+tags: [[mycology, medicine, mushrooms]
 sources: []
 ---
 
@@ -81,11 +81,7 @@ The regulatory pathway for chemopreventive mushroom products differs by region:
 
 ## See Also
 
-- [[cancer-prevention-dietary-mushroom-intake]]
 - [[functional-foods-medicinal-mushrooms]]
-- [[medicinal-mushroom-regulatory-frameworks]]
 - [[medicinal-mushroom-dietary-supplements]]
-- [[medicinal-mushroom-guide]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-cancer-regulatory-frameworks]]

@@ -16,7 +16,8 @@ tags:
   - plant-nutrition
   - environment
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
@@ -87,9 +88,7 @@ N₂O has a GWP₁₀₀ of 273 (IPCC AR6), atmospheric lifetime ~114 years, cur
 
 ### 4R Nutrient Stewardship
 
-Right [[cover-crops]]ch form to soil conditions), right rate (calibrate to yield goals and soil supply), right time (synchronize with crop demand via split applications), right place (subsurface placement, banding). Adoption can improve NUE by 15–30 percentage points and reduce N₂O by 20–50%.
-
-### Cover [[biological-nitrification-inhibition]]ume covers (cereal rye, radish) scavenge 20–70 kg N/ha, reducing leaching by 40–80%. Legume covers (crimson clover, hairy vetch) fix 50–200 kg N/ha. Soybean contributes 25–50 kg N/ha to subsequent corn; alfalfa fixes 200–300 kg N/ha over 3–4 years.
+Right [[biological-nitrification-inhibition]]ume covers (cereal rye, radish) scavenge 20–70 kg N/ha, reducing leaching by 40–80%. Legume covers (crimson clover, hairy vetch) fix 50–200 kg N/ha. Soybean contributes 25–50 kg N/ha to subsequent corn; alfalfa fixes 200–300 kg N/ha over 3–4 years.
 
 ### Biological Nitrification Inhibition and Precision Management
 
@@ -122,9 +121,6 @@ The Haber-Bosch process consumes ~9–12 GJ per tonne NH₃ (modern plants ~8 GJ
 
 ## See Also
 
-- [[biological-nitrogen-fixation-agriculture]]
-
-- [[composting-and-soil-biology]]
-- [[legume-nitrogen-fixation-mechanism]]
+- [[ozier-pdc-composting-and-soil-building]]
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]
 - [[jadam-natural-nitrogen-fertilizer]]

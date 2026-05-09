@@ -3,7 +3,7 @@ title: Fungal Degradation of Pesticides (Singh)
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, remediation, research]
+tags: [[mycology, remediation, research]
 sources:
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
@@ -111,11 +111,7 @@ Fungal enzyme-based biosensors enable rapid pesticide monitoring:
 
 ## Related Topics
 
-- [[staycare-fungal-pesticide-pop-degradation]]
 - [[fungal-bioremediation]]
-- [[fungal-ligninolytic-enzyme-systems-overview]]
 - [[singh-fungal-metabolism-phenols-chlorophenols]]
-- [[mycoremediation-basics]]
 - [[fungal-solid-state-fermentation-agricultural-waste]]
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[staycare-fungal-agricultural-waste-conversion]]

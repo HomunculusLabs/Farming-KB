@@ -141,9 +141,6 @@ Choosing the right nut trees for your climate zone is one of the most important 
 
 ## See Also
 
-- [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 - [[query-how-to-design-a-food-forest-for-a-tropical-climate]]
-- [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
 - [[mollison-designers-climate-zone-2-orchard-food-forest]]
-- [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]

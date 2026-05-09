@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Green Manure Guide
 
@@ -24,11 +25,7 @@ Deep-rooting crops like red clover and lupins reach down over 7ft (2m), bringing
 
 ### Nitrogen Fixation
 
-[[permaculture-plants-nitrogen-fixing-trees]] like beans, clovers, and lupins fix atmospheric nitrogen through bacteria in root nodules. When the green manure is dug in, this nitrogen becomes available to subsequent crops.
-
-### Weed Suppression
-
-Green manure crops cover the ground well, providing shade and competition for water and nutrients that discourages all but the most tenacious weeds. See [[weed-suppression-strategies]] for complementary approaches.
+[[weed-suppression-strategies]] for complementary approaches.
 
 ## Sowing and Management
 
@@ -42,15 +39,7 @@ Choose a crop unlike either the preceding or following crop to avoid perpetuatin
 
 ### Soil Preparation
 
-Prepare the seedbed as thoroughly as for any other crop. If soil is low in nutrients, apply [[organic-fertilizer-sources-guide]] before sowing. Firm the bed by walking before sowing. Small seeds can be scattered by hand and raked in, or sown in rows 6in (15cm) apart. Large seed goes in rows about 1ft (30cm) apart.
-
-### Digging In
-
-- Do not let the crop become woody before digging in or rotting will take nitrogen from the soil
-- Cut down at the base with a spade and allow to wilt for a few days
-- For large crops, cut up finely with a rotary mower before incorporating
-- Do not bury material deeper than about 6in (15cm)
-- If the crop is woody, apply [[cervantes-compost-tea-organic-brewing]] or animal manure tea to assist rotting
+Prepare the seedbed as thoroughly as for any other crop. If soil is low in nutrients, apply [[cervantes-compost-tea-organic-brewing]] or animal manure tea to assist rotting
 
 ## Nitrogen-Fixing Green Manures
 
@@ -78,19 +67,7 @@ One of the most useful crops -- grows through winter when land is vacant. Produc
 
 ### Buckwheat (Fagopyrum esculentum)
 
-Requires the whole summer. Sow when weather is warm. Tall with extensive root system. Does not fix nitrogen but attracts [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] that eat greenfly. Sow in rows 6in apart or scatter at 1oz per 7 sq yards.
-
-### Rye (Secale cereale)
-
-Extensive root system, useful green material. Sow perennial variety late summer or fall, dig in spring. Leave a few plants to mature for seed saving. Scatter at 1oz per sq yard or sow in rows 9in apart.
-
-### Phacelia (Phacelia tanacetifolia)
-
-One of the best green manures despite not fixing nitrogen. Fast growing, soft when young so will not rob soil of nitrogen. Does not withstand cold -- sow after frost threat passes, dig in after about eight weeks. Scatter at 1oz per 4 sq yards. Also excellent at attracting hoverflies and other beneficial insects.
-
-### Mustard (Sinapsis alba)
-
-Quick-growing, shallow-rooted, good weed suppressor. Useful where land cannot be spared for long. Sow spring and summer, dig in before flowering. Important disadvantage: it is a brassica and could harbor [[clubroot-disease-management]]. Scatter at 1oz per 4 sq yards or sow in rows 6in apart.
+Requires the whole summer. Sow when weather is warm. Tall with extensive root system. Does not fix nitrogen but attracts [[clubroot-disease-management]]. Scatter at 1oz per 4 sq yards or sow in rows 6in apart.
 
 ### Italian Ryegrass (Lolium multiflorum)
 
@@ -98,15 +75,7 @@ Fast-growing and bulky, germinates quickly even in cold soils. Can be dug in bef
 
 ## Integration with Garden Systems
 
-Green manure fits well within [[jadam-crop-rotation-critique]] systems. On [[deep-bed-cultivation]], sow green manure between crops or during winter fallow periods. The resulting organic matter feeds the [[lowenfels-earthworms-soil-food-web]], improving the growing conditions for the next vegetable or flower crop.
-
-## Related
-
-- [[cover-crop-guide-detailed]] -- detailed cover crop reference
-- [[cover-crop-selection-guide]] -- choosing the right cover crop
-- Cover Crop Species Comparison -- species comparison tables
+Green manure fits well within [[deep-bed-cultivation]], sow green manure between crops or during winter fallow periods. The resulting organic matter feeds the [[cover-crop-guide-detailed]] -- detailed cover crop reference
 - [[companion-planting-deterrents]] -- phacelia and buckwheat attract beneficial insects
-- [[organic-fertilizer-recipes]] -- liquid feeds to assist green manure decomposition
 - [[crop-rotation-benefits]] -- integrating green manure into rotation plans
-- [[soil-fertility-management]] -- overall soil fertility approaches
 - [[legume-nitrogen-dynamics]] -- nitrogen fixation mechanics

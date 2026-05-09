@@ -56,53 +56,7 @@ The combination of stippling and black fecal spots is characteristic of thrips d
 
 ## Cultural and Physical Control
 
-- **Cleanliness**: First line of defense in any [[cannabis-pest-management-guide]] program
-- **Sticky traps**: Blue or pink sticky traps are effective for monitoring and control — thrips are attracted to these colors
-- **Water spray**: Misting plants with water impairs thrip travel and mobility; adults have difficulty moving on wet surfaces
-- **Manual removal**: Works only if a few thrips are present, but they are hard to catch due to their speed
-- **Isolation**: Quarantine infested plants to prevent spread to healthy plants
-- **Caution**: Thrips can be very vexing to control once they get established; early intervention is critical
-
-## Organic Controls
-
-- **Homemade sprays**: Tobacco-nicotine base sprays can be effective against thrips at various life stages
-- **Insecticidal soap**: Apply at regular intervals; effective against soft-bodied larvae and adults
-- **Neem oil**: Can be effective as a repellent and antifeedant, disrupting thrips feeding behavior
-- **Horticultural oil**: Smothers eggs and immature stages on contact
-- **Garlic and hot pepper sprays**: Repel thrips and may reduce feeding pressure
-
-## Chemical Controls
-
-- **Pyrethrum**: Natural pyrethrum or synthetic pyrethrum applied as directed; one of the most effective chemical controls
-- **Insecticidal soap**: Applied at regular intervals for ongoing control of soft-bodied stages
-- **Spinosad**: Effective against thrips at various life stages; relatively safe for beneficial insects
-- **Application schedule**: Apply 2-4 times at 5-10 day intervals to break the reproductive cycle
-- Rotate chemical controls to prevent resistance development — thrips can develop resistance to repeated use of the same product
-
-## Biological Controls
-
-Several effective predators and parasites are available:
-
-- **Predatory mites**: Amblyseius cucumeris, Amblyseius barkeri, Neoseiulus cucumeris, Iphiseius degenerans, Neoseiulus barkeri, Euseius hibisci — these feed on thrips larvae and are commercially available
-- **Parasitic wasps**: Thripobius semiluteus, Ceranisus menes, Goetheana shakespearei — these parasitize thrips larvae and pupae
-- **Pirate bugs**: Orius species — generalist predators that aggressively hunt thrips adults and larvae; among the most effective biocontrols for thrips
-- **Fungal control**: Verticillium lecanii is effective against thrips; fungal spores attach to and kill thrips on contact
-
-Release predators as soon as thrips are detected. Predatory mites work best when introduced before infestations become severe. Ensure all toxic spray residues are washed off plants before releasing biological controls. The key to success with biological controls is introducing them early and maintaining a population through regular releases.
-
-## Prevention
-
-- Inspect all new plants, cuttings, and clones for thrips before introducing them to the garden
-- Install blue or pink sticky traps as a routine monitoring practice
-- Maintain good air circulation and avoid conditions that favor thrips establishment
-- Keep the grow room clean and free of plant debris that could harbor thrips
-- Control weeds in and around the growing area, as thrips can breed on many plant species
-- Check plants regularly, especially on new growth and flower buds
-- Consider introducing predatory mites preventatively in environments where thrips are a recurring problem
-
-## Impact on Indoor Cannabis Crops
-
-Thrips cause relatively moderate problems to indoor cannabis crops compared to [[spider-mites-cannabis]], but their damage should not be underestimated:
+- **Cleanliness**: First line of defense in any [[spider-mites-cannabis]], but their damage should not be underestimated:
 
 - Stippling damage reduces photosynthetic capacity across affected leaves
 - Bud damage from thrips feeding inside flower buds directly impacts harvest quality
@@ -132,11 +86,6 @@ While no cannabis varieties are specifically bred for thrips resistance, some fa
 
 ## See Also
 
-- [[spider-mites-cannabis]] — the most common cannabis pest with similar stippling damage
-- whiteflies-cannabis|Whiteflies — another flying cannabis pest
-- aphids-cannabis|Aphids — common sap-sucking pest with similar damage patterns
 - [[leaf-miners-cannabis]] — another pest that damages leaf tissue internally
-- [[cannabis-pest-management-guide]] — comprehensive IPM overview
 - [[gaias-garden-host-plants-beneficial-insects]] — predator and parasite options
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[knf-pest-control-and-soap-water]]

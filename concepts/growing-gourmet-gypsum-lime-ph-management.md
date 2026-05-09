@@ -127,10 +127,6 @@ making it easier to shake and distribute during inoculation.
 
 ## Related
 
-- [[growing-gourmet-sciarid-phorid-fly-management]] Topics
-
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]
-- [[growing-gourmet-grain-spawn-generation]]
 - [[growing-gourmet-hot-water-pasteurization-straw]]

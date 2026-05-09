@@ -127,12 +127,8 @@ timescales.
 
 ## See Also
 
-- [[cryptochrome-and-blue-light-photoreception]]
 - [[daniel-chamovitz]]
-- [[phytochrome-molecular-switch-mechanism]]
+- phytochrome molecular switch mechanism
 
-- [[cryptochrome-and-blue-light-photoreception]] for detailed cryptochrome biology
-- [[phytochrome-molecular-switch-mechanism]] for the Pr/Pfr system and gene family
 - [[plant-vision-and-phototropism]] for behavioural consequences of light sensing
-- [[what-a-plant-knows-plant-vision-and-light-perception]] for the primary source
 - [[shade-avoidance-syndrome]] for an ecological application of evolved photoreception

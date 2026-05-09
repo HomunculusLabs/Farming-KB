@@ -3,7 +3,7 @@ title: Fungal Saprotrophic Enzymatic Strategies
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -111,14 +111,9 @@ Wood-boring crustaceans such as the gribble (Limnoria tripunctata) are incapable
 
 ## Related Concepts
 
-- [[fungal-enzyme-induction-and-regulation]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[fungal-decomposition-processes]]
 - [[fungal-decomposition-of-wood]]
-- [[fungal-decomposition-wood-litter]]
 - [[fungal-cellulose-decomposition-fungal-enzymes]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-decomposition-resource-quality-determinants]]
-- [[fungal-nitrogen-mineralization-pathways]]
 - [[fungal-carbon-substrate-utilization-efficiency]]
 - [[fungal-ecosystem-processes-overview]]

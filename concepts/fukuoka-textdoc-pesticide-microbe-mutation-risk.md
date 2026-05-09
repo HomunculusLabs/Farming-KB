@@ -121,9 +121,6 @@ spraying created cascading new problems across multiple trophic levels.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
-- [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-textdoc-natural-order-food-chain-unity]]
 - [[fukuoka-textdoc-no-pesticide-principle-insect-balance]]

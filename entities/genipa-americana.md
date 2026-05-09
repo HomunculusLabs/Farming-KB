@@ -107,16 +107,10 @@ The wood is moderately heavy, durable, and used locally for construction, tool h
 
 ## See Also
 
-- [[bixa-orellana]]
 - [[carica-papaya]]
-- [[mangifera-indica]]
 - [[paullinia-cupana]]
-- [[curcuma-longa]]
 - [[senna-alexandrina]]
-- [[acorus-calamus]]
 - [[cedrela-odorata]]
-- [[cinchona-officinalis]]
 - [[theobroma-cacao]]
-- [[aloe-vera]]
 - [[elettaria-cardamomum]]
 - [[inga-edulis]]

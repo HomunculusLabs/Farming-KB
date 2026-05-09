@@ -16,13 +16,7 @@ type: concept
 
 # Pattern Understanding in Permaculture Design
 
-Pattern understanding is the conceptual foundation of [[permaculture-design]].
-Bill Mollison devotes significant attention to patterns because he believes
-that nature's patterns are the templates for efficient, sustainable design.
-By recognizing, understanding, and applying natural patterns, designers create
-systems that work with natural processes rather than against them. Pattern
-literacy is the ability to read patterns in nature and translate them into
-design solutions. This connects to [[mollison-designers-design-methods-overview-process]] as a core
+Pattern understanding is the conceptual foundation of [[mollison-designers-design-methods-overview-process]] as a core
 analytical skill.
 
 ## Why Patterns Matter
@@ -109,9 +103,7 @@ system. The principle "maximize edge" is one of the most frequently applied
 in permaculture design.
 
 Design applications include:
-- Pond edges (richer than open water or dry land) for [[pond-and-aquaculture]]
-- Forest edges (more species than forest interior or open field) in
-  [[food-forest-design]]
+- Pond edges (richer than open water or dry land) for [[food-forest-design]]
 - Keyline cultivation creating more edge between cultivated and uncultivated
   soil
 - Zigzag and crenellated boundaries instead of straight lines to maximize
@@ -147,4 +139,3 @@ insight is that patterns operate at all scales -- design solutions
 discovered at one scale apply at any other. This fractal quality means
 garden patterns inform regional planning and vice versa. See
 [[permaculture-principles]] for how pattern understanding connects to the
-broader design framework. Ultimately, pattern understanding is a design

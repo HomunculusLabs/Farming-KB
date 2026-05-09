@@ -69,29 +69,7 @@ The preference exhibited by earthworms for F. lateritium
 colonized material may relate to the nutritional quality of
 the fungal mycelium, the degree of substrate modification by
 fungal enzyme activity, or specific chemical cues produced
-during the [[fungal-decomposition]] process. Regardless of the
-underlying mechanism, this feeding preference positions
-earthworms as potentially important consumers and vectors of
-F. lateritium within soil ecosystems, influencing both the
-distribution and population dynamics of this fungal species
-through their selective feeding behavior.
-
-## Spore Viability and Gut Passage
-
-Despite the high palatability of Fusarium lateritium to
-earthworms, Moody et al. (1996) found that spore germination
-was completely eliminated after passage through earthworm
-digestive tracts. When Lumbricus terrestris was fed 900
-spores of F. lateritium, zero viable spores were recovered
-from the hindgut. Similarly, Aporrectodea longa, when fed
-237 spores, also yielded zero viable spores after gut
-passage. This complete destruction of spore viability stands
-in sharp contrast to the fate of other fungal species tested
-in the same experimental system.
-
-For comparison, Mucor heimalis showed substantially greater
-spore survival, with 400 viable spores recovered out of 4060
-fed to earthworms. [[chaetomium-globosum]] exhibited even
+during the [[chaetomium-globosum]] exhibited even
 more remarkable gut tolerance, with 33 out of 41 spores
 remaining viable after passage through the earthworm
 digestive system. These interspecific differences in spore
@@ -122,11 +100,6 @@ decomposer, combined with its susceptibility to earthworm gut
 passage, positions F. lateritium as a species whose
 population dynamics are closely tied to the activities of soil
 invertebrate communities, illustrating the interconnected
-nature of [[soil-food-web]] interactions.
-
-## See Also
-
-- [[chaetomium-globosum]]
-- [[trichoderma-viride]]
+nature of [[chaetomium-globosum]]
 - [[cladosporium-cladosporioides]]
 - [[schizophyllum-commune]]

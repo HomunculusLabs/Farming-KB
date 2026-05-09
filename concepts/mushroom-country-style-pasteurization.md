@@ -3,16 +3,7 @@ title: Country-Style Substrate Bag Pasteurization
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
----
-
-Updated: 2026-18
-
-Source: FAO RAP Publication 2001/12, "A Training Manual on Mushroom Cultivation for People with Disabilities" by Johanne Hanko. Developed in Ubon Ratchathani, Thailand.
-
-A low-cost mushroom-pasteurization|pasteurization system using 200-liter oil drums, designed to be accessible and affordable for small-scale mushroom farmers including people with disabilities. See also [[mushroom-cultivation-for-disabilities-training-program]].
+tags: [[mushroom-cultivation-for-disabilities-training-program]].
 
 ## Country-Style System
 
@@ -87,7 +78,5 @@ Common problems with country-style pasteurization include incomplete heat penetr
 - The drum system is ideal as it can be operated from a seated position
 - Fire management may need assistance from another team member
 
-See also: [[mushroom-pasteurization]], [[oyster-mushroom-substrate-preparation]], [[accessible-mushroom-cultivation-for-disabilities]], [[oyster-mushroom-bag-cultivation]], [[oyster-mushroom-substrate-preparation]]
-- [[oyster-mushroom-green-mold-disease]]
-- [[mushroom-cultivation-inoculation-methods]]
+See also: [[oyster-mushroom-substrate-preparation]], [[oyster-mushroom-bag-cultivation]], [[oyster-mushroom-green-mold-disease]]
 - [[mushroom-substrate-pasteurization-comparison]]

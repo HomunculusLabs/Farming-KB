@@ -102,47 +102,13 @@ The flowers provide nectar and pollen for a variety of insect pollinators, inclu
 
 The submerged portions of the plant provide habitat and shelter for aquatic invertebrates, fish fry, and amphibian larvae.
 
-The dense growth of water lilies in ponds and slow-moving waterways creates microhabitats that support [[water-management]]communities.
+The dense growth of water lilies in ponds and slow-moving waterways creates microhabitats that support [[ipomoea-tricolor]]
 
-## Conservation and Threats
-
-Natural populations of *Nymphaea caerulea* in the Nile River basin have declined significantly in recent decades due to water pollution, habitat destruction, and the construction of dams and water management infrastructure.
-
-The Aswan High Dam and other water control projects have altered the hydrology of the Nile, affecting the seasonal flooding patterns that created and maintained the shallow-water habitats where the blue lotus naturally grows.
-
-Agricultural runoff, industrial pollution, and urban wastewater have degraded water quality in many parts of the Nile basin, further threatening wild populations.
-
-Egypt has enacted regulations to protect wild blue lotus populations, and the species is included in national lists of protected plants.
-
-Conservation efforts include habitat restoration, water quality improvement, and the establishment of protected areas along the Nile.
-
-## Modern Research Directions
-
-Recent scientific interest in *Nymphaea caerulea* has focused on several areas of research.
-
-Phytochemical studies using modern analytical techniques (HPLC, LC-MS, GC-MS) are attempting to resolve the longstanding controversy over the plant's alkaloid constituents.
-
-Pharmacological studies are investigating the potential therapeutic properties of nuciferine and other aporphine alkaloids for conditions including anxiety, depression, and substance use disorders.
-
-Archaeological and Egyptological research continues to shed light on the role of the blue lotus in ancient Egyptian religion, medicine, and daily life.
-
-Ethnobotanical surveys are documenting the declining traditional knowledge of the plant's uses in rural Egyptian communities.
-
-## Legal Status
-
-*Nymphaea caerulea* is not scheduled as a controlled substance in most jurisdictions. In the United States, the plant is legal to grow, possess, and sell without restriction. Egypt has enacted restrictions on the harvesting of wild populations of the blue lotus from the Nile to protect declining natural populations. The plant is not listed under the UN Convention on Psychotropic Substances.
-
-## See Also
-
-- [[ipomoea-tricolor]]
-
-- [[stropharia-caerulea]]
 - [[psilocybe-caerulea]]
 
 - Nymphaea nouchali
 - Nelumbo nucifera
 - Nuciferine
 - Apomorphine
-- [[allegro-plants-and-drugs-in-the-ancient-world]]
 - [[nymphaea-ampla]]
 - [[nuciferine]]

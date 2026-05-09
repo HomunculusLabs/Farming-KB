@@ -106,15 +106,9 @@ The species contributes to the early stages of wood decomposition in conifer eco
 
 ## See Also
 
-- [[fomes-fomentarius]]
 - [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
 - [[inonotus-obliquus]]
-- [[bjerkandera-adusta]]
 - [[daedaleopsis-confragosa]]
-- [[polyporus-umbellatus]]
 - [[laricifomes-officinalis]]
-- [[coriolopsis-gallica]]
 - [[gloeophyllum-trabeum]]
-- [[pholiota-squarrosa]]
 - [[lentinula-edodes]]

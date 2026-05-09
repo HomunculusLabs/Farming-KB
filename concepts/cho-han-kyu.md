@@ -55,69 +55,31 @@ Dr. Cho's contributions to agricultural science are both theoretical and practic
 
 ### Indigenous Microorganisms (IMOs)
 
-The cornerstone of the GNF system is the collection, cultivation, and application of [[indigenous-microorganisms-imo]]. Dr. Cho developed a simple but effective method for capturing beneficial microorganisms from the local environment — typically from forest soils or rice paddies — and multiplying them through controlled fermentation on cooked rice and other substrates. These IMOs are then incorporated into compost, liquid fertilizers, and soil treatments, dramatically improving soil structure, nutrient availability, and disease resistance. The principle behind IMOs is that locally adapted microorganisms are already perfectly suited to the local climate, soil type, and crop conditions — a form of biological intelligence that cannot be replicated by commercial laboratory cultures imported from distant regions.
-
-### Nutritive Cycle Theory
-
-Dr. Cho's [[nutritive-cycle-theory]] provides a systematic framework for understanding and meeting plant nutritional needs throughout the complete growth cycle. Rather than applying a uniform fertilizer regimen as conventional agriculture does, the Nutritive Cycle Theory recognizes that plants require different nutrient profiles at different stages of growth — early vegetative growth, reproductive stage, and maturation each demand specific mineral and biological inputs. This theory allows farmers to precisely target their inputs for maximum efficiency and plant health, reducing waste while optimizing yields.
+The cornerstone of the GNF system is the collection, cultivation, and application of [[nutritive-cycle-theory]] provides a systematic framework for understanding and meeting plant nutritional needs throughout the complete growth cycle. Rather than applying a uniform fertilizer regimen as conventional agriculture does, the Nutritive Cycle Theory recognizes that plants require different nutrient profiles at different stages of growth — early vegetative growth, reproductive stage, and maturation each demand specific mineral and biological inputs. This theory allows farmers to precisely target their inputs for maximum efficiency and plant health, reducing waste while optimizing yields.
 
 ### Natural Farming Inputs
 
 Dr. Cho developed a complete system of natural farming inputs, all produced through fermentation and sourced from locally available materials:
 
-- [[fermented-plant-juice-fpj]]: Made from rapidly growing plant tips, rich in growth hormones and bioavailable nutrients
-- Fermented Fruit Juice (FFJ): Produced from sweet fruits, providing energy sugars and potassium for fruiting crops
-- Oriental Herbal Nutrient (OHN): A blend of fermented medicinal herbs used to boost plant immunity and vitality
-- Lactic Acid Bacteria Serum (LABS): Cultured from rice wash water, used to suppress pathogenic organisms and improve nutrient cycling
-- Fish Amino Acid (FAA): Made from fish waste, providing a concentrated nitrogen source for vegetative growth
-- Water-Soluble Calcium (WSC): Derived from eggshells or animal bones, strengthening cell walls and improving fruit quality
-
-Each input serves a specific function in the overall system, and together they form a comprehensive toolkit that replaces the entire range of synthetic chemical inputs used in conventional agriculture. All of these inputs can be produced on-farm using simple equipment and locally available materials.
-
-## Spread to 15+ Countries
-
-From its origins in South Korea, Global Natural Farming has spread to more than 15 countries across multiple continents, including Japan, the Philippines, Thailand, Vietnam, India, Nepal, Sri Lanka, China, Kenya, Uganda, Tanzania, the United States, Brazil, and several Pacific Island nations. In many of these countries, GNF has been adopted as part of national agricultural policy or supported by government extension programs and international development organizations.
-
-The system's rapid international adoption is due to several key factors: its remarkably low cost, its adaptability to diverse climates and crop types, its proven effectiveness in improving both yields and long-term soil health, and its alignment with growing global interest in sustainable and regenerative agriculture. In the Philippines, the government officially integrated natural farming methods into its agricultural extension services. In Hawaii and other Pacific islands, GNF has become a cornerstone of the local food sovereignty movement. In East Africa, organizations have adapted Dr. Cho's techniques for smallholder farmer training programs, with particularly strong adoption in Kenya and Uganda where GNF methods have been applied to staple crops like maize and vegetables. In India, several state governments have incorporated natural farming principles inspired by Dr. Cho's work into their agricultural policies, reaching millions of farming households.
-
-## Comparison to Other Agricultural Thinkers
-
-Dr. Cho is frequently compared to three other foundational figures in alternative agriculture, each of whom developed influential but distinct approaches:
-
-- **Masanobu Fukuoka** (Japan): Like Fukuoka, Dr. Cho emphasized working with nature rather than against it, and both shared a deep skepticism of industrial agriculture. However, while Fukuoka's "do-nothing farming" philosophy sought to minimize human intervention, Dr. Cho developed a more systematic and interventionist approach, providing farmers with a detailed, repeatable toolkit of inputs and techniques applicable across diverse farming conditions.
-
-- **Rudolf Steiner** (Austria): Steiner's biodynamic agriculture shares with GNF a focus on biological processes and a holistic view of the farm as a living organism. Dr. Cho's system, however, is grounded in observable soil biology and practical microbiology rather than esoteric cosmology, making it more immediately accessible to conventional farmers seeking credible transition methods without requiring adherence to spiritual or metaphysical frameworks.
-
-- **Bill Mollison** (Australia): Mollison's permaculture design system and Dr. Cho's GNF both emphasize local adaptation, closed-loop systems, and the observation of natural patterns. While permaculture is primarily a broad design framework for integrating human settlements with natural systems, GNF provides specific, repeatable techniques for soil and crop management that can be adopted incrementally by farmers of any scale.
-
-## Philosophy of Respecting Nature
-
-At the heart of Dr. Cho's work is a philosophy of **respecting nature's intelligence**. He believed that nature already possesses the knowledge and capacity to grow healthy plants and maintain fertile soil — the proper role of the farmer is to support and enhance these natural processes, not to override them with synthetic inputs and forced interventions. This was not merely a practical methodology but a deeply held worldview about the fundamental relationship between humans and the natural world.
-
-This philosophy manifests in several key principles:
-
-- **Use what is locally available**: Every input should come from the farm's own environment, reducing dependency on external supplies and ensuring that the biology applied is adapted to local conditions
-- **Feed the soil, not the plant**: Healthy soil biology naturally provides plants with the nutrients they need in the right forms and at the right times through biological nutrient cycling
-- **Observe before acting**: Farmers should understand the natural cycles and patterns of their land before intervening, and all interventions should mimic natural processes as closely as possible
-- **Minimize waste**: Every byproduct in the GNF system becomes an input for another process, creating truly closed-loop farm ecosystems that mirror the efficiency of natural ecosystems
-- **Empower the farmer**: By eliminating dependency on purchased inputs, natural farming restores autonomy and dignity to agricultural communities that have been marginalized by industrial agriculture
-
-## Legacy and Continuing Influence
-
-Dr. Cho Han Kyu's legacy endures through the thousands of farmers, researchers, and organizations worldwide who continue to practice and develop Global Natural Farming. The Janong Natural Farming Institute continues to operate, offering training programs and certification courses. His methods have been validated by numerous agricultural research institutions, and his inputs have been shown to improve soil organic matter, crop yields, and plant disease resistance across a wide range of crops and climates.
-
-His influence is increasingly recognized within mainstream sustainable agriculture circles. The principles underlying GNF — feeding soil biology, using locally adapted microorganisms, and working with natural fermentation processes — have been adopted and adapted by regenerative agriculture movements worldwide. Researchers studying soil microbiome science have confirmed many of the mechanisms that Dr. Cho identified through decades of careful observation and experimentation. Modern molecular biology tools have revealed the extraordinary complexity and diversity of soil microbial communities, validating his core insight that nurturing this invisible ecosystem is the key to sustainable crop production. Studies have shown that farms using GNF methods develop significantly higher microbial biomass and diversity compared to chemically managed soils, leading to improved nutrient cycling, disease suppression, and drought resilience.
-
-The global regenerative agriculture movement, which has gained tremendous momentum in the 2020s, owes a significant intellectual debt to Dr. Cho's pioneering work. His emphasis on soil biology as the foundation of farming predates the current mainstream interest in soil health by several decades, and his practical input-making techniques remain among the most accessible and effective tools available to farmers seeking to transition away from chemical dependence.
-
-His life's work stands as a powerful demonstration that agriculture can be
-both productive and ecologically regenerative, and that the path forward
-lies in partnership with nature rather than domination of it.
-
-## See Also
-
 - [[indigenous-microorganisms-imo]] — The cornerstone technique of GNF
-- [[nutritive-cycle-theory]] — The theoretical framework guiding inputs
 - [[fermented-plant-juice-fpj]] — A key natural farming input
-- [[natural-farming-pest-control]] — Non-chemical pest management
 - [[lactic-acid-bacteria-lab]] — Microbial input for disease suppression
+## Practical Considerations
+
+Successful implementation of Dr. Cho Han Kyu requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

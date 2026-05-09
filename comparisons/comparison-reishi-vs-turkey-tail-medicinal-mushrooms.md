@@ -10,7 +10,7 @@ type: comparison
 
 # Reishi vs Turkey Tail: Medicinal Mushroom Comparison
 
-[[reishi-mushroom-medicinal-properties]] (*Ganoderma lucidum*) and [[turkey-tail-trametes-versicolor]] (*Trametes versicolor*) are the two most clinically researched medicinal mushrooms in the world. Both are inedible polypores that require extraction for consumption, both have billion-dollar markets, and both are used as cancer adjuvant therapies in Asia. Despite these similarities, they differ markedly in biochemistry, cultivation, traditional use, and therapeutic emphasis.
+[[turkey-tail-trametes-versicolor]] (*Trametes versicolor*) are the two most clinically researched medicinal mushrooms in the world. Both are inedible polypores that require extraction for consumption, both have billion-dollar markets, and both are used as cancer adjuvant therapies in Asia. Despite these similarities, they differ markedly in biochemistry, cultivation, traditional use, and therapeutic emphasis.
 
 ## Taxonomy and Biology
 
@@ -103,24 +103,8 @@ Turkey Tail (Yun Zhi, "cloud mushroom") has a humbler cultural profile. Used in 
 
 **Choose Turkey Tail** for: evidence-based cancer adjunct therapy, immune restoration during or after chemotherapy, simpler daily immune maintenance, easier cultivation, or when budget is a concern (Turkey Tail supplements are typically less expensive).
 
-**Use both** for complementary coverage: Turkey Tail for targeted immune training and cancer support, Reishi for broader systemic benefits including organ protection and adaptogenic stress response. They work well in tandem and are noted to complement each other in [[mycorestoration]] applications.
-
-## Ecological Roles
-
-Both species are prodigious decomposers of dead hardwood, but their ecological niches differ. Reishi causes white butt and root rot, often fruiting from the base of stumps or partially buried logs. Its perennial nature and cosmopolitan range make it a sentinel organism for forest ecosystem health. Turkey Tail is more prolific as a primary coloniser, quickly establishing on recently fallen branches and decomposing them efficiently through white rot enzymatic activity. In [[staycare-trametes-versicolor-bioremediation-applications]], Turkey Tail has been more extensively studied for pollutant degradation, while Reishi shows broad-spectrum antimicrobial activity useful for [[compost-biology-soil-food-web-inoculation]] applications.
-
-## Safety and Contraindications
-
-Both mushrooms are regarded as safe with low toxicity, even at large doses. However, Reishi's anti-platelet effects warrant caution before surgery, and its blood pressure-lowering properties may interact with antihypertensive medications. Turkey Tail's immune-stimulating effects could theoretically be problematic for autoimmune conditions, though clinical reports of adverse effects are rare. Neither mushroom should replace conventional cancer treatment; their established role is adjunctive.
-
-## See Also
-
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
-
-- [[comparison-chaga-vs-reishi-medicinal]]
+**Use both** for complementary coverage: Turkey Tail for targeted immune training and cancer support, Reishi for broader systemic benefits including organ protection and adaptogenic stress response. They work well in tandem and are noted to complement each other in [[staycare-trametes-versicolor-bioremediation-applications]], Turkey Tail has been more extensively studied for pollutant degradation, while Reishi shows broad-spectrum antimicrobial activity useful for [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
 
 - [[reishi-cultivation-guide]] for detailed Reishi growing methods
-- [[turkey-tail-trametes-versicolor]] for Turkey Tail identification and research
 - [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]] for PSK/PSP clinical details
-- [[reishi-triterpenoids-pharmacology]] for Reishi triterpene pharmacology
 - [[medicinal-mushroom-immune-modulation]] for broader immunology context

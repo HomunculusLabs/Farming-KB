@@ -97,19 +97,11 @@ Conservation concerns center on habitat loss from commercial forestry operations
 
 ## Related Species
 
-- **[[lobaria-pulmonaria]]** — Lungwort lichen, another large foliose lichen of old forests
-- **peltigera** — Dog lichens, related Peltigerales with cyanobacterial photobionts
 - **[[cladonia-rangiferina]]** — Reindeer lichen, important caribou forage
 - **Nephroma bellum** — Similar species with smoother thallus and cyanobacterial photobiont
 
 ## See Also
 
-- [[medicinal-mushroom-guide]]
-
-- nephromataceae
-- foliose lichen
-- bipartite lichen
-- coccomyxa
 - [[old-growth-forest-fungi-conservation]]
 - boreal forest
 - arctic ecology

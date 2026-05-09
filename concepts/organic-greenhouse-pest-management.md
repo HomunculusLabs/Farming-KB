@@ -126,11 +126,7 @@ Affecting tomatoes, cucumbers, and many other plants. Symptoms include yellow mo
 
 ## Related
 
-- [[greenhouse-growing]]
 - [[greenhouse-growing-essentials]] for setup and equipment
-- [[hamilton-organic-pest-control]] for general pest management
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for biological pest deterrence
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[knf-pest-control-and-soap-water]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[hamilton-pest-and-disease-control-organic]]

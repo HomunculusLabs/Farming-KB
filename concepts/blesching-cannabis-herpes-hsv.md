@@ -109,19 +109,11 @@ themselves and others.
 
 ## Related Topics
 
-- [[blesching-cannabis-immune-system-modulation]] - How cannabis
-  modulates immune function relevant to viral outbreaks
 - [[blesching-cannabis-hiv-aids]] - Herpes as an opportunistic infection
   in immunocompromised patients
-- [[blesching-cannabis-encephalitis]] - Herpes as a cause of
-  encephalitis
 - [[blesching-cannabis-mrsa]] - Cannabis antibacterial research for
   comparison
-- [[blesching-cannabis-dermatological-conditions]] - Skin manifestations
-  of herpes outbreaks
 - [[blesching-cannabis-fever-temperature-regulation]] - Fever as immune
   response during outbreaks
-- [[blesching-endocannabinoid-system-overview]] - CB1/CB2 receptor
-  mechanisms involved in antiviral response
 - [[blesching-cannabinoid-pharmacology]] - THC mechanisms of action
   against viral replication

@@ -121,14 +121,9 @@ Despite its controversial status in academic circles, the Stoned Ape Theory has 
 
 ## See Also
 
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[stoned-ape-hypothesis]]
-- [[psilocybin-stoned-ape-hypothesis-critique]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
-
+- [[psychedelic-mushroom-set-and-setting]]
 - [[partnership-vs-dominator-societies]]
-- [[exopheromones-and-plant-intelligence]]
 - [[eleusinian-mysteries]]
 - [[dmt-hyperspace-entities]]
 - Qatal Huyuk

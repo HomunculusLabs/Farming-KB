@@ -17,36 +17,6 @@ longer-lived perennials in warm climates, while tomatoes are heavier feeders
 with larger yields and more complex support needs. Understanding these
 differences helps gardeners allocate space and resources effectively.
 ## Pepper Growing
-[[pepper-growing-guide]]
-Peppers (Capsicum spp.) thrive in warm conditions with soil temperatures above
-60F for planting and daytime temperatures of 70-85F for optimal growth. They are
-notably more heat-tolerant than tomatoes and can continue producing through
-summer heat that causes tomatoes to drop blossoms, making them the better
-solanaceous choice for hot southern climates. Peppers range from sweet bell
-types to mildly hot jalapenos and serranos to intensely hot habaneros and ghost
-peppers, with varieties adapted to every culinary need and climate zone. Most
-pepper plants are compact and bushy, growing 2-4 feet tall, making them
-well-suited to container growing and smaller garden spaces where tomatoes would
-overwhelm adjacent plantings.
-Peppers require consistent moisture but are more drought-tolerant than tomatoes
-once established, thanks to their smaller leaf area and deeper root systems.
-They benefit from phosphorus-rich fertilizer at planting (bone meal or rock
-phosphate) and regular side-dressing with balanced fertilizer during fruiting.
-Avoid excess nitrogen, which promotes leafy growth at the expense of fruit.
-Common pests include aphids, flea beetles, pepper weevils, and hornworms, while
-bacterial leaf spot and anthracnose are the primary disease concerns. Good air
-circulation through proper spacing (18-24 inches apart) prevents most fungal
-issues.
-Peppers can be harvested at any stage from immature green to fully ripe (red,
-yellow, orange, or purple depending on variety), with flavor, sweetness, and
-heat intensity all increasing as fruits mature. A single bell pepper plant
-produces 10-30+ fruits per season, while hot pepper varieties often produce even
-more abundantly. In frost-free climates, peppers are perennial and can produce
-for several years, making them an excellent investment for warm-climate
-gardeners. Start seeds indoors 8-10 weeks before last frost, as peppers
-germinate slowly (7-14 days) and need a long head start to reach transplanting
-size.
-## Tomato Growing
 [[tomato-growing-guide]]
 Tomatoes (Solanum lycopersicum) are the highest-yielding garden crop for most
 home gardeners, with indeterminate varieties producing continuously from
@@ -120,9 +90,6 @@ tomatoes perform best in areas with good air circulation and consistent
 moisture. Intercropping peppers between tomato rows uses space efficiently, as
 the shorter pepper plants fill the understory below the tall tomato canopy.
 ## See Also
-- [[comparison-tomato-vs-pepper-growing]]
 - [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
-- [[companion-planting-reference]]
 - [[tomato-pepper-eggplant-growing-guide]]
-- [[comparison-cannabis-sativa-vs-cannabis-indica]]
 - [[comparison-autoflowering-vs-photoperiod]]

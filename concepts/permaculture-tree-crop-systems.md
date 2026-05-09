@@ -71,9 +71,24 @@ A more assured income from tree crops, coupled with wider market for relatively 
 - [[food-forest-design]] -- food forest as the highest expression of tree crop systems
 - [[permaculture-grazing-and-pasture]] -- integration of livestock under tree crops
 - [[permaculture-livestock-forage-systems]] -- tree fodder as a forage strategy
-- [[permaculture-design]] -- tree prunings as mulch resource
+- [[permaculture-woody-mulch-systems]] -- tree prunings as mulch resource
 - [[permaculture-settlement-design]] -- tree crops in village and community landscapes
+## Practical Considerations
 
-## See Also
+Successful implementation of Permaculture Tree Crop Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-- [[dalbergia-sissoo]]
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

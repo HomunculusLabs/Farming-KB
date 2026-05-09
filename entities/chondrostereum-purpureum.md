@@ -119,8 +119,6 @@ This white-rot capability places *C. purpureum* among the ecologically important
 
 ## See Also
 
-- [[trametes-versicolor]] — Related white-rot polypore with similar ligninolytic enzyme systems
-- [[lentinula-edodes]] — Cultivated white-rot fungus used in shiitake production
+- [[trametes-versicolor-entity]] — Related white-rot polypore with similar ligninolytic enzyme systems
 - [[pleurotus-ostreatus]] — Oyster mushroom, another white-rot basidiomycete
-- [[agaricus-bisporus]] — Contrasts with litter-decomposing agarics in decay strategy
-- [[amanita-muscaria]] — Example of an ectomycorrhizal fungus contrasting with saprotrophic lifestyle
+- [[amanita-muscaria-entity]] — Example of an ectomycorrhizal fungus contrasting with saprotrophic lifestyle

@@ -116,13 +116,6 @@ productive forests where only scrub had existed.
 
 Carver demonstrated the economic viability of crop rotation with legumes,
 the industrial potential of underutilized plants, and the superiority of
-[[organic-soil-management]]. His methods show that intuitive plant research,
-guided by direct observation and communion with nature, can yield
-practical results rivaling or exceeding laboratory-based approaches.
-
-## Related Concepts
-
-- [[luther-burbank-plant-breeding-methods]]
-- [[biological-transmutation-in-plants]]
+[[luther-burbank-plant-breeding-methods]]
 - [[biodynamic-agriculture-and-steiner]]
 - [[plant-perception]]

@@ -1,36 +1,8 @@
 ---
 title: Grass Seed Substrate Cultivation of Psilocybe Species
 created: 2026-04-28
-tags: [mycology, cultivation, substrate, grass-seed, psilocybe]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-cultivation-of-fruitbodies-and-sclerotia.md
-type: concept
----
-
-# Grass Seed Substrate Cultivation of Psilocybe Species
-
-Grass seed is a versatile, low-cost substrate for cultivating several
-psychoactive mushroom species. The method uses rye grass seed (*Lolium
-perenne*) in standard 720 ml jars, processed through hydration,
-sterilisation, inoculation, and colonisation. The colonised substrate
-can then be cased for mushroom production or left in-jar for
-sclerotia-cultivation|sclerotia formation depending on the species.
-
-## Suitable Species
-
-The grass seed substrate method supports four species:
-
-- *Psilocybe mexicana* (mushrooms and sclerotia)
-- *Psilocybe tampanensis* (mushrooms and sclerotia)
-- *[[psilocybe-cubensis]]* (mushrooms; rye grain is sometimes preferred)
-- *[[panaeolus-subbalteatus]]* (mushrooms only)
-
-For sclerotia-producing species (*P. tampanensis* and *P. mexicana*),
-the colonised jars can be left uncased in a dark location; sclerotia
-form directly within the substrate over up to four months. See
-[[sclerotia-cultivation]] for details on that pathway.
+tags: [[psilocybe-cubensis]]* (mushrooms; rye grain is sometimes preferred)
+- *[[sclerotia-cultivation]] for details on that pathway.
 
 ## Selecting Grass Seed
 
@@ -128,7 +100,6 @@ trays, and covered with a thin (1.5 to 2.0 cm) layer of casing soil.
 The casing recipe from this method is **10 parts peat, 5 parts
 vermiculite, and 2 parts limestone (marl)**, mixed dry with water
 added to field capacity, then sterilised for one hour. See
-[[casing-layer-preparation]] for full casing procedures and
 [[fruiting-chamber-setup]] for the simple plastic bin fruiting setup
 with polyethylene sheeting described in the source material.
 
@@ -139,11 +110,6 @@ colonised substrate without casing or fruiting triggers. Jars are
 stored in a clean, preferably dark location. Sclerotia continue to
 enlarge for up to four months after inoculation. They may also form in
 the casing layer of trays cased for mushroom production. See
-[[sclerotia-cultivation]] for comprehensive coverage of sclerotia
-biology and harvest techniques.
-
-## Related
-
-- [[grass-seed-substrate-species-compatibility]]
+[[grass-seed-substrate-species-compatibility]]
 
 - [[grass-seed-cultivation-of-psilocybe-mushrooms]] Concepts

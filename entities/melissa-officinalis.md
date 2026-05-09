@@ -135,13 +135,8 @@ The plant requires minimal maintenance once established, tolerates poor soils, a
 
 ## See Also
 
-- [[lemon-balm-melissa-officinalis]]
-
 - [[valeriana-officinalis]] — commonly paired nervine herb for sleep and anxiety
-- [[salvia-officinalis]] — related Lamiaceae species with overlapping medicinal uses
 - [[ocimum-basilicum]] — aromatic Lamiaceae culinary herb
-- [[mentha-piperita]] — mint family relative with carminative properties
 - [[hypericum-perforatum]] — herbal antidepressant for comparison
-- [[achillea-millefolium]] — companion plant with overlapping permaculture functions
-- [[passiflora-incarnata]] — anxiolytic herb often combined with lemon balm
+- achillea-millefolium — companion plant with overlapping permaculture functions
 - [[agastache-rugosa]] — bee-attracting Lamiaceae species for pollinator gardens

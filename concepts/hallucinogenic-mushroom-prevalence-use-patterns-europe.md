@@ -1,10 +1,3 @@
----
-title: Hallucinogenic Mushroom Prevalence and Use Patterns in Europe
-source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
-type: concept
-tags: [hallucinogenic-mushrooms, prevalence, ESPAD, drug-surveys, EU, epidemiology]
-created: 2026-05-08
----
 
 # Hallucinogenic Mushroom Prevalence and Use Patterns in Europe
 
@@ -12,9 +5,7 @@ created: 2026-05-08
 
 Systematic data on hallucinogenic mushroom use in the European Union has been
 historically limited. Most drug surveys collected information on LSD consumption
-or a general "hallucinogenic drugs" category rather than specific data on
-mushroom use. By the mid-2000s, most school surveys and some general population
-surveys had begun including specific questions about hallucinogenic mushrooms,
+or a general "[[hallucinogenic-mushrooms-european-prevalence]],
 providing the first comprehensive prevalence picture across EU member states.
 
 ## General Population Prevalence
@@ -119,13 +110,7 @@ stable rather than growing pattern of acute incidents.
 Several factors appear to limit the diffusion of hallucinogenic mushroom use:
 unpredictable potency, negative effects including nausea and panic attacks, lack
 of sociable effects compared to ecstasy, limited repeat use appeal, and the
-inherently challenging nature of the psychedelic experience. The Dutch risk
-assessment noted that mushrooms tend to be taken experimentally, with people
-generally discontinuing use after a few experiences.
-
-## See Also
-
-- [[eu-hallucinogenic-mushroom-smartshop-market-2006]]
-- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
-- [[espad-drug-use-survey-methodology]]
-- [[emcdda-early-warning-system-emerging-trends]]
+inherently challenging nature of the [[eu-hallucinogenic-mushroom-smartshop-market-2006]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]-chemistry-and-pharmacology-emcdda
+- espad drug use survey methodology
+- emcdda early warning system emerging trends

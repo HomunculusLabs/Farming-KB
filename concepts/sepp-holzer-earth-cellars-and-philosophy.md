@@ -120,7 +120,5 @@ Holzer consistently recommends natural water treatment systems across his projec
 - Mag. Claudia Holzer: biologist, dissertation on species diversity of insects in Krameterhof raised bed systems, works in ecological education and permaculture
 - Josef Andreas Holzer: studied forestry, then ecology and biodiversity, works intensively with permaculture principles
 
-See also: [[sepp-holzer-global-projects]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-pond-construction]], [[permaculture-building-design]], [[irrigation-systems]],
-- [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
+See also: [[sepp-holzer-terrace-systems-and-raised-beds]], [[permaculture-building-design]], [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
 - [[mollison-permaculture-two-earth-houses-plant-shelters]]

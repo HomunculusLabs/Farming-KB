@@ -19,46 +19,7 @@ type: concept
 Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (AMF)
 that plays a central role in soil aggregation and carbon sequestration.
 Discovered by USDA researcher Sara Wright in 1996, glomalin has transformed
-our understanding of how [[lowenfels-mycorrhizal-network-nutrient-sharing]]
-contribute to soil structure. In "Teaming With Microbes," Lowenfels and
-Lewis highlight glomalin as a critical but often overlooked component of
-healthy soils, describing it as the biological glue that holds soil
-particles together into stable aggregates.
-
-## What Is Glomalin?
-
-Glomalin is a sticky, iron-containing glycoprotein that coats mycorrhizal
-hyphae and is deposited in soil as hyphae grow, turnover, and decompose. It
-is remarkably resistant to microbial decomposition, persisting in soil for
-7 to 42 years depending on soil conditions. This recalcitrance makes glomalin
-one of the most stable forms of soil organic carbon. Although initially
-thought to be a specific compound, glomalin is now understood to represent a
-family of related glycoproteins produced by AMF. It is extracted from soil
-using a citrate buffer and measured as glomalin-related soil protein (GRSP).
-
-Glomalin concentrations in soil vary widely depending on mycorrhizal activity,
-soil type, and management practices. Native prairie soils can contain 100
-milligrams of glomalin per gram of soil, while degraded agricultural soils
-may contain less than 10 milligrams per gram. This difference reflects the
-impact of management practices on mycorrhizal populations and soil biological
-health.
-
-## Production by Mycorrhizal Fungi
-
-Glomalin is produced exclusively by arbuscular mycorrhizal fungi as part of
-their normal growth and hyphal turnover. As AMF hyphae extend through soil,
-they secrete glomalin onto their surfaces and into the surrounding soil
-matrix. When hyphae die and decompose, glomalin is released and persists in
-soil. This continuous production and deposition means that glomalin
-accumulates over time in soils with active mycorrhizal populations.
-
-The amount of glomalin produced depends on several factors. AMF species
-differ in their glomalin production capacity. Soil conditions that favor
-mycorrhizal colonization, such as low available phosphorus and minimal
-disturbance, promote greater glomalin accumulation. Plants that support
-robust mycorrhizal associations, including most perennials and many
-agricultural crops, drive higher glomalin production. Practices described in
-[[lowenfels-cover-crops-soil-biology]] that maintain living root systems are
+our understanding of how [[lowenfels-cover-crops-soil-biology]] that maintain living root systems are
 essential for sustaining glomalin production.
 
 ## Soil Aggregate Stability
@@ -128,23 +89,11 @@ that support AMF inherently support glomalin accumulation:
 - **Minimize tillage:** Tillage breaks hyphal networks and exposes glomalin
   to oxidation, reducing both production and existing pools
 - **Maintain continuous living roots:** Mycorrhizal fungi need host plants
-  year-round; [[lowenfels-cover-crops-soil-biology]] prevent AMF starvation
-- **Reduce phosphorus fertilizer:** High available phosphorus suppresses
-  mycorrhizal colonization and glomalin production
-- **Avoid fungicides:** Many fungicides harm AMF, reducing glomalin
-  production
-- **Diverse rotations:** Plant diversity supports diverse AMF communities
-  and potentially higher glomalin production
-
-## Connections to Soil Food Web Health
-
-Glomalin links [[lowenfels-mycorrhizal-network-nutrient-sharing]] to the
+  year-round; [[lowenfels-mycorrhizal-network-nutrient-sharing]] to the
 physical structure of soil, making it a bridge between biological and
 physical soil health. Aggregates formed with glomalin provide habitat for
-the [[lowenfels-rhizosphere-bacteria-plant-interaction]], protection for
-[[lowenfels-soil-protozoa-cycling]], and shelter for
-[[lowenfels-soil-arthropod-macrofauna]]. The [[lowenfels-soil-food-web-succession]]
+the [[lowenfels-soil-protozoa-cycling]], and shelter for
+[[lowenfels-soil-food-web-succession]]
 from bacterial to fungal dominance corresponds with increasing glomalin
 accumulation as ecosystems mature. Glomalin exemplifies the central thesis
 of Lowenfels and Lewis: that biological processes, not chemical inputs, are
-the foundation of soil health and plant productivity.

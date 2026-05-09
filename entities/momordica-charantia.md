@@ -126,12 +126,8 @@ Crop residue after harvest can be incorporated into compost as a nutrient-rich g
 ## See Also
 
 - [[cucurbita-pepo]]
-- [[pachyrhizus-erosus]]
 - [[moringa-oleifera]]
-- [[azolla-filiculoides]]
 - [[lemna-minor]]
-- [[glycyrrhiza-glabra]]
 - [[passiflora-incarnata]]
-- [[allium-sativum-entity]]
 - [[zingiber-officinale]]
 - [[curcuma-longa]]

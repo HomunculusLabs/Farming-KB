@@ -1,18 +1,15 @@
 ---
 title: Herbal Plant Remedies
-created: 2026-05-06
-updated: 2026-05-06
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
-tags: []
-sources: []
+tags: [medicine, herbs, herbalism, natural-remedies, health, plants, gardening, recipe, preparation, calendula, thyme]
+sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
-
----
-ti
 
 # Herbal Plant Remedies
 
-Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by [[sepp-holzer]]. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
+Simple traditional herbal remedies that can be made by people with small gardens without great difficulty, as described by Sepp Holzer. These were once found in almost every "home pharmacy." As the potency of medicinal plants can vary from place to place, recipes should be adapted — with experience, the correct strength can easily be determined.
 
 ## Calendula Salve (Calendula officinalis)
 
@@ -127,7 +124,6 @@ Mentioned by Holzer as a well-established remedy. Sage nutrient content is great
 
 ## Related
 
-- [[sepp-holzer-method]] — Holzer's broader [[permaculture]] philosophy and techniques
+- [[sepp-holzer-method]] — Holzer's broader permaculture philosophy and techniques
 - [[alkaline-soil-plants]] — many medicinal herbs tolerate alkaline conditions
 - [[soil-food-web-nutrient-cycling]] — healthy soil grows more potent medicinal plants
-- [[tanacetum-parthenium]]

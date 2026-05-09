@@ -135,16 +135,10 @@ It is regulated as a pharmaceutical precursor in some countries due to potential
 The plant sources are generally uncontrolled, though cultivation of *Datura* and *Atropa* species may be restricted.
 
 Hyoscyamine is listed in many pharmacopoeias including USP, EP, and BP.
-
 ## See Also
 
-- [[atropine]]
 - [[scopolamine]]
-- [[atropa-belladonna]]
 - [[hyoscyamus-niger]]
-- [[datura-stramonium]]
 - [[mandragora-officinarum]]
-- [[brugmansia-sanguinea]]
 - [[lsd]]
-- [[ergine-entity]]
 - [[mescaline-entity]]

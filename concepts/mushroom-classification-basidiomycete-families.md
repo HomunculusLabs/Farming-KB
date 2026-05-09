@@ -81,11 +81,7 @@ Duggar emphasized spore print color as one of the most practical field identific
 
 ## See Also
 
-- [[mushroom-spawn-history-and-methods-duggar]]
 - [[mushroom-nutrition-manure-fermentation]]
-- [[mushroom-compost-bed-systems-duggar]]
 - [[fungal-sexual-reproduction]]
-- [[mushroom-foraging-safety]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
-- [[mushroom-cultivation-wood-logs]]
 - [[oyster-mushroom-species-fruiting-parameters]]

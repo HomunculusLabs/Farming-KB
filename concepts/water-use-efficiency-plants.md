@@ -133,9 +133,6 @@ crop, and management system.
 
 ## See Also
 
-- [[evapotranspiration-crop-water-use]]
-
 - [[stomata-transpiration-and-plant-water-regulation]]
-- [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - [[photosynthesis-carbon-cycle-plants]]
 - [[solomon-irrigation-water-scarce]]

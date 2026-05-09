@@ -1,135 +1,142 @@
 ---
 title: Cannabis Rhizosphere Microbiome
-created: 2026-04-28
-tags:
-  - cannabis
-  - microbiome
-  - rhizosphere
-  - soil-science
-  - endophytes
-  - mycology
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
-type: concept
+slug: cannabis-rhizosphere-microbiome
+source: understanding-cultivar-specificity-cannabis-microbiome.md
+tags: [cannabis, microbiome, rhizosphere, soil-biology, cultivation]
+created: 2026-05-08
 ---
 
 # Cannabis Rhizosphere Microbiome
 
-The cannabis rhizosphere microbiome refers to the community of microorganisms
-associated with the root systems of Cannabis plants. The first comprehensive
-characterization of the [[cannabis-endorhiza-microbiome]], rhizosphere, and bulk soil microbiomes of
-multiple [[cannabis-sativa]] cultivars was published by Winston et al. (2014),
-who used Illumina 16S rRNA gene sequencing of the V4 region across five
-distinct cultivars grown in California.
+## Overview
 
-## Two-Tier Selection Model
+The rhizosphere is the narrow zone of soil directly influenced by
+root secretions and associated microorganisms. In Cannabis spp.,
+the rhizosphere hosts a dynamic microbial community serving as the
+critical transition between bulk soil ecology and the plant's
+internal root microbiome (endorhiza).
 
-The microbial communities associated with cannabis roots are governed by a
-two-tier selection model. In this framework, the bulk soil [[edaphic-factors]]
-such as pH, nitrogen, carbon, salinity, and water content primarily determine
-which microorganisms are available to colonize the rhizosphere. This represents
-the first tier of selection. The second tier occurs when specific cultivar
-genotypes selectively filter and enrich particular bacterial taxa during root
-colonization, shaping the [[cannabis-endorhiza-microbiome]] community composition.
+## Defining the Cannabis Rhizosphere
 
-This model was supported by PCoA analyses showing that soil type was the
-dominant factor determining PC1 (32.06% of variance) in unweighted UniFrac
-analyses, while cannabis strain dominated PC1 (34.51%) in weighted analyses,
-indicating that soil determines which organisms are present while the plant
-genotype controls their relative abundances.
+The rhizosphere is operationally defined as soil that remains
+adhered to roots after removal from the growing medium. In the
+Winston et al. (2014) study, rhizosphere samples were collected
+by shaking roots into a sterile whirlpak bag, capturing the
+tightly adhering soil fraction experiencing strongest root
+influence.
 
-## Endorhiza Communities
+The rhizosphere is distinct from bulk soil (no direct root
+influence) and endorhiza (bacteria colonizing root tissue).
+It represents a transitional environment where edaphic factors
+and plant-driven selection begin to interact.
 
-The endorhiza (root interior) microbiome showed the strongest cultivar
-specificity among all sample types. A core community of [[pseudomonas]],
-Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and
-Sphingobacteriales was consistently found across all cultivars. Most of these
-are well known [[endophytic-fungi-and-plant-health]] primarily within the orders Gammaproteobacteria
-and Alphaproteobacteria.
+## Community Composition
 
-Notable cultivar-specific differences included:
+The cannabis rhizosphere is dominated by typical agricultural
+soil bacterial phyla:
 
-- **Methylophilus** comprised 13% of the Bookoo Kush endorhiza community,
-  0.13% in Burmese, and was absent in Sour Diesel
-- **Sphingomonas wittichii** was prevalent in [[maui-wowie]], a species that
-  can metabolize phenazine-1-carboxylic acid and may enhance soil survival
+- **Proteobacteria**: Most abundant, encompassing Alpha-, Beta-,
+  and Gammaproteobacteria classes.
+- **Acidobacteria**: Abundant though reduced compared to bulk soil.
+- **Actinobacteria**: Common root associates with plant growth-
+  promoting properties.
+- **Bacteroidetes**: Including Flavobacteriales and
+  Sphingobacteriales involved in organic matter decomposition.
+- **Firmicutes**: Including biocontrol Bacillus species.
 
-## Taxonomic Shifts from Soil to Root
+Rhizosphere bacteria also interact with fungal saprotrophs and
+mycorrhizal mutualists that are essential for nutrient cycling.
 
-The transition from bulk soil through the rhizosphere to the endorhiza is
-characterized by predictable taxonomic shifts:
+## Rhizosphere vs Bulk Soil
 
-- **Acidobacteria** dramatically decrease in abundance within the endorhiza
-  (order iii1-15 showed the most significant decrease, Bonferroni-corrected
-  ANOVA: p = 1.12e-7)
-- **Proteobacteria** and **Actinobacteria** increase in relative abundance
-  within the root
-- Of 51 OTUs significantly differentiating between sample types, 17 that
-  increased in the endorhiza were predominantly Proteobacteria, including
-  several from the Rhizobiales order
+### Community Differentiation
 
-## Edaphic Factors
+In Experiment 1, rhizosphere samples did not cluster separately
+from other sample types (unweighted UniFrac ADONIS: R² = 0.07,
+p = 0.07; weighted: R² = 0.09, p = 0.10). Experiment 2, with
+greater edaphic variation, showed significant differentiation
+(weighted: R² = 0.13, p = 0.001). The rhizosphere effect on
+presence/absence is subtle, but abundance effects become
+significant with greater edaphic variation.
 
-Edaphic factors were strongly correlated with community structure across
-all sample types. The relative importance of factors in structuring microbial
-communities was:
+### OTU Abundance Correlation
 
-1. Nitrogen (strongest effect; weighted r-stat: 0.465)
-2. Salinity (r-stat: 0.437)
-3. Carbon (r-stat: 0.330)
-4. Water content (r-stat: 0.281)
-5. pH (r-stat: 0.221)
+Mean OTU abundance was highly correlated between bulk soil and
+rhizosphere (Pearson's rho: 0.92), versus much lower correlation
+between rhizosphere and endorhiza (rho: 0.63), and bulk soil
+and endorhiza (rho: 0.42). This confirms the rhizosphere as a
+transitional community more similar to bulk soil.
 
-A BEST analysis determined that nitrogen, carbon, and water content together
-optimally explained community variance (rho = 0.632).
+## Beta Diversity Relationships
 
-## Alpha Diversity Gradient
+Rhizosphere communities are significantly more similar to bulk
+soil than to endorhiza:
 
-Alpha diversity follows a clear gradient, peaking in bulk soil and declining
-progressively through the rhizosphere to the endorhiza. In the second experiment
-(chao1 values):
+- Rhizosphere-bulk soil distances significantly lower than
+  rhizosphere-endorhiza distances (unweighted: t = 24.59,
+  p < 0.001; weighted: t = 211.82, p < 0.001).
+- Rhizosphere-bulk soil distances also lower than bulk soil-
+  endorhiza distances (unweighted: t = 25.15, p < 0.001).
+- Rhizosphere-endorhiza distances were NOT significantly
+  different from bulk soil-endorhiza distances (p > 0.05).
 
-- Bulk soil: mean 4947
-- Rhizosphere: mean 4525
-- Endorhiza: mean 3321
+This suggests the primary community shift occurs at the root
+tissue boundary, not in the surrounding soil.
 
-The reduction from rhizosphere to endorhiza was dramatic compared to the modest
-difference between bulk soil and rhizosphere. This pattern is consistent with
-strong selective filtering during root colonization.
+## Influencing Factors
 
-## Cannabinoid Correlations
+### Edaphic Factors
 
-Cannabinoid profiles were significantly correlated with endorhiza community
-structure (unweighted Mantel r-stat: 0.863, p = 0.001). However, THC
-concentration was also correlated with soil edaphic variables, making it
-difficult to disentangle the effects of plant secondary metabolism from soil
-chemistry on microbiome composition.
+Soil properties remain the dominant structuring force. Nitrogen,
+salinity, carbon, water content, and pH all significantly
+correlated with rhizosphere beta-diversity (p = 0.001 for all).
 
-## OTU Sharing Between Soil Types
+### Cultivar Effects
 
-White Widow plants grown in two different soils shared significantly more OTUs
-with their own soil (mean 2934) than with the alternate soil (mean 2162;
-t = 10.05, p = 1.209e-15). This confirmed that endophytic microbes are largely
-inherited from the surrounding soil environment, with subsequent filtering by
-the host genotype.
+Cultivar effects on rhizosphere were weaker than on endorhiza.
+In Experiment 1, strain differences were not significant. In
+Experiment 2, some effects emerged but remained less pronounced
+than endorhiza cultivar-specificity.
 
-## Cultivars Studied
+### Seasonal Dynamics
 
-The research examined five cultivars across two experiments:
+Rhizosphere communities fluctuate in response to temperature
+changes, water content, pH shifts from root exudation, and
+CO2/O2 gradients around roots.
 
-- **Sour Diesel** — [[cannabis-sativa]], high THC to CBD ratio
-- **Bookoo Kush** — sativa-dominant hybrid, moderately high THC to CBD ratio
-- **Burmese** — balanced hybrid, moderate THC to CBD ratio
-- **Maui Wowie** — [[cannabis-sativa]], high THC to CBD ratio
-- **White Widow** — balanced hybrid, moderate THC to CBD ratio
+## Functional Roles in Cultivation
+
+### Nutrient Cycling
+Nitrogen fixation, phosphorus solubilization, and organic matter
+decomposition make nutrients bioavailable to cannabis roots.
+
+### Plant Growth Promotion
+Rhizosphere microbes produce phytohormones (auxins, cytokinins,
+gibberellins), low molecular weight compounds, and enzymes
+regulating plant growth and metabolism.
+
+### Disease Suppression
+Beneficial organisms suppress pathogens through competitive
+exclusion, antibiotic production, and induced systemic resistance.
+
+### Water Retention
+Microbial exopolysaccharides improve soil aggregation and water-
+holding capacity, directly benefiting plant hydration.
+
+## Cultivation Applications
+
+- **Compost teas and amendments** enrich rhizosphere with
+  beneficial organisms.
+- **Cover cropping** between cycles maintains microbial diversity.
+- **Minimal tillage** preserves established rhizosphere networks.
+- **Mycorrhizal inoculation** enhances fungal-bacterial
+  partnerships essential to rhizosphere function.
 
 ## See Also
 
-- [[cannabis-endorhiza-microbiome]]
-- [[soil-food-web]]
-- [[mycorrhizal-fungi]]
-- [[edaphic-factors]]
-- [[cannabis-minor-cannabinoids]]
-- [[endophytic-fungi-and-plant-health]]
+- [[endorhiza-endophytic-bacteria]]
+- [[soil-edaphic-factors-microbial-communities]]
+
+## See Also
+
+- [[cannabis-microbiome-soil-type-composition-strain-structure]]

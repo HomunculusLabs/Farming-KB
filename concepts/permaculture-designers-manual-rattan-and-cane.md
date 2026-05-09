@@ -15,21 +15,8 @@ updated: 2026-04-18
 
 ## Overview
 
-Rattan (from the Malay "rotan") refers to approximately 600 species of climbing palms in the subfamily Calamoideae, native to [[permaculture-designers-manual-tropical-climates]] regions of Africa, Asia, and Australasia. The Designers Manual references rattan and cane in the context of tropical forest management, craft production, and the multiple products obtainable from integrated in forest systems. Rattan represents an important non-timber forest product that supports local economies while maintaining forest cover.
-
-## Rattan in the Designers Manual
-
-The manual discusses cane and climbing species in the context of tropical vine and liana systems. Rattan is included among the climbing plants that can be managed in forest and garden systems for multiple yields.
-
-## Forest Products Including Rattan
-
-The small forest farm model lists a wide range of sustainable yields from managed woodland. While rattan is not specifically named in every context, it fits within the broader category of non-timber forest products that the manual advocates for diversified forest management.
-
-### Tropical Forest Integration
-
-In tropical [[permaculture-design-course-methodology]], rattan and other climbing palms are integrated into:
-- Mixed-species forest gardens
-- food forest understories
+Rattan (from the Malay "rotan") refers to approximately 600 species of climbing palms in the subfamily Calamoideae, native to [[permaculture-design-course-methodology]], rattan and other climbing palms are integrated into:
+- Mixed-species [[food-forest]] understories
 - Riparian buffer zones
 - Community forest management areas
 

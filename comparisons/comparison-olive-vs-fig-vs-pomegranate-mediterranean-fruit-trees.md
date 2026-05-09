@@ -142,8 +142,6 @@ All three are excellent permaculture candidates. Key design considerations:
 - ❌ Slow to reach full production
 ## See Also
 
-- [[comparison-grafting-vs-budding-fruit-trees]]
 - [[mollison-designers-olive-fig-and-mediterranean-tree-crops]]
-- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[comparison-central-leader-vs-open-center-fruit-tree-training]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]

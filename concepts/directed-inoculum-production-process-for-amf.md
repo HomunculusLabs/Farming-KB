@@ -85,44 +85,10 @@ This limitation has important practical implications for commercial inoculum pro
 
 - The physiological status of the host plant is a major factor determining mycorrhizal dependency
 
-DIPP-adapted inoculum has potential applications in [[mycorrhiza-soil-bioremediation]], where AMF strains tolerant of heavy metals can improve phytoremediation outcomes. Similarly, salt-adapted strains may improve crop performance in saline agricultural soils.
-
-## Host Plant Considerations
-
-The choice of trap plant species significantly influences DIPP outcomes. Different plant species vary in their mycorrhizal dependency and the degree to which they support fungal biomass production. Commonly used trap plants include:
-
-- **Allium porrum** (leek): High mycorrhizal dependency, widely used for inoculum production
-
-- **Plantago lanceolata** (ribwort plantain): Moderate dependency, useful for selection experiments
-
-- **Sorghum bicolor**: Fast-growing, supports good sporulation
-
-- **Medicago sativa** (alfalfa): Legume host that may influence nitrogen dynamics during selection
-
-## Economic Considerations
-
-The maximum price for AMF inoculum in commercial horticulture ranges from approximately 0.01 to 0.12 Euro per cutting, depending on production costs and application scale. The DIPP approach adds some cost through the selection phases but can deliver superior performance under challenging site conditions, potentially justifying the additional investment.
-
-## Limitations and Future Directions
-
-- Genotypic stability remains a fundamental challenge, as adapted traits can be lost within 1-2 propagation cycles
-
-- Scale-up from pot experiments to field application requires validation at each step
-
-- The interaction between adapted AMF genotypes and local microbial communities is not well understood
-
-- Molecular tools for monitoring genotypic changes during selection would improve the precision of DIPP
-
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-
-- [[arbuscular-mycorrhizal-fungal-diversity]]
+DIPP-adapted inoculum has potential applications in [[arbuscular-mycorrhizal-fungi]]
 
 - [[mycorrhiza-soil-bioremediation]]
 
-- [[mycorrhizal-carbon-nitrogen-economics]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- [[symbiotic-fungi-mycorrhizal-inoculum-production]]
 - [[mycorrhizal-nitrogen-transfer-between-plants]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

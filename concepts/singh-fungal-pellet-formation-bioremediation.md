@@ -128,8 +128,6 @@ utility of pellet-based systems.
 
 ## See Also
 
-- [[singh-bioreactor-design-for-fungal-bioremediation]]
 - [[singh-fungal-bioreactor-types-configurations]]
-- [[singh-fungal-immobilization-bioreactor-technology]]
 - [[singh-fungal-treatment-industrial-wastewaters-overview]]
 - [[singh-immobilized-fungal-bioreactors-wastewater-treatment]]

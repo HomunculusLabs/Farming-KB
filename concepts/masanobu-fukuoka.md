@@ -71,66 +71,14 @@ farmer and land was destroyed.
 
 ## Desert Revegetation Vision
 
-In his later years, Fukuoka became deeply concerned with [[desertification]] and
-proposed a method for revegetating barren lands using clay seed pellets. The
-pellets were made by coating a mixture of seeds with soil and then clay. When
-scattered over deserts, the hard clay pellets protected seeds from predators and
-prevented premature germination. Fukuoka believed that "rain does not fall from
-the heavens; it issues forth from the ground." He argued that deserts do not
-form because there is no rain; rather, rain ceases to fall because vegetation
-has disappeared. Revegetation, not dams or irrigation, was the path to
-restoring rainfall patterns.
-
-## Happy Hill Rice
-
-Fukuoka developed a rice variety he called "Happy Hill," created through natural
-cross-pollination among the diverse rice strains in his fields rather than
-through laboratory breeding. The variety incorporated the hardiness of wild rice
-while maintaining high yields. He calculated that a single head of Happy Hill
-rice could yield 5,000 grains in one year when sown over a ten-square-yard area.
-Properly propagated, this could expand to cover 7,000 acres within four years,
-potentially providing seed rice for an entire nation.
-
-## Critique of Human Knowledge
-
-Throughout his writings, Fukuoka consistently challenged the supremacy of human
-intellect. He argued that man is "but an arrogant fool who vainly believes that
-he knows all of nature and can achieve anything he sets his mind to." He believed
-that the discrimination of the human intellect creates a false image of nature,
-one divided into categories of good and bad, useful and harmful, pest and
-beneficial. This discriminating knowledge prevents genuine understanding because
-it fragments what is inherently whole.
-
-His critique extended to the entire trajectory of human civilization. He saw the
-destruction of forests, the spread of deserts, and the pollution of air and water
-as direct consequences of humanity's arrogance in believing it could improve upon
-nature. He wrote that "all begins by relinquishing human knowledge," a statement
-that captures both the radical simplicity and the profound challenge of his
-philosophy. The path forward, in his view, was not more knowledge but less: a
-return to the intuitive, direct relationship with nature that traditional farming
-communities once maintained.
-
-## Legacy and Influence
-
-Fukuoka's influence extends far beyond Japan. His books have been translated into
-numerous languages and his farming methods have been adopted and adapted by
-farmers worldwide. He received the Ramon Magsaysay Award (often called Asia's
-Nobel Prize) in 1988 for his contributions to public service. His work
-anticipated and influenced the no-till farming movement, regenerative agriculture,
-and [[permaculture]]. He saw natural farming as more than an agricultural technique,
+In his later years, Fukuoka became deeply concerned with [[permaculture]]. He saw natural farming as more than an agricultural technique,
 calling it "the practical foundation of a spiritual movement, of a revolution to
 change the way man lives."
 
 ## See Also
 
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-fallacies-scientific-understanding]]
-- [[fukuoka-natural-cover-grass-green-manure]]
 - [[fukuoka-seed-ball-methods-advanced]]
-- [[fukuoka-california-foxtail-greening-discovery]]
-
 - [[natural-farming]]
-- [[four-principles-of-natural-farming]]
 - [[clay-seed-pellets]]
-- [[no-till-agriculture]]
 - [[natural-diet]]

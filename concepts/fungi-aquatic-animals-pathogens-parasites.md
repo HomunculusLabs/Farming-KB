@@ -3,7 +3,7 @@ title: Fungi Associated with Aquatic Animals — Pathogens and Parasites
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -90,11 +90,7 @@ Same techniques used for infected and uninfected specimens. Choice governed by a
 
 ## See Also
 
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[medically-important-fungi-pathogens-opportunists]]
-- [[marine-fungi-diversity-sampling]]
 - [[insect-arthropod-associated-fungi]]
-- [[insect-associated-fungi-sampling-diversity]]
 - [[fungi-associated-aquatic-animals]]
-- [[freshwater-fungi-diversity-and-sampling]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

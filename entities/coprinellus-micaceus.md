@@ -38,59 +38,9 @@ worldwide. The species epithet *micaceus* ("mica-like") refers to the fine,
 glistening granules on the young cap surface — a distinctive field mark.
 
 Though edible when young, C. micaceus contains small amounts of coprine (the
-compound causing disulfiram-like reactions in *Coprinopsis atramentaria*), but
-at significantly lower concentrations. Its prolific fruiting on disturbed ground
-and buried wood makes it one of the most common "urban mushrooms," frequently
-appearing in parks, gardens, and along city streets.
-
-## Taxonomy
-
-| Rank | Classification |
-|------|----------------|
-| Kingdom | Fungi |
-| Phylum | Basidiomycota |
-| Class | Agaricomycetes |
-| Order | Agaricales |
-| Family | Psathyrellaceae |
-| Genus | *Coprinellus* |
-| Species | *C. micaceus* |
-
-### Taxonomic History
-
-Originally described as *Agaricus micaceus* by Schäffer in 1774, later
-transferred to *Coprinus* by Fries. Molecular phylogenetic studies by Redhead,
-Vilgalys, and colleagues (2001) demonstrated that *Coprinus* sensu lato was
-polyphyletic, splitting coprinoid fungi into *Coprinus*, *Coprinopsis*,
-*Coprinellus*, and *Parasola*. C. micaceus was placed in *Coprinellus*.
-
-### Similar Species
-
-- **Coprinellus truncorum**: Nearly identical but lacks mica-like granules.
-  Spores slightly larger.
-- **Coprinopsis atramentaria**: Larger, lacks granules, higher coprine —
-  dangerous with alcohol.
-- **Coprinellus disseminatus**: Much smaller, thinner stems, caps that do
+compound causing disulfiram-like reactions in *[[coprinellus-disseminatus]]**: Much smaller, thinner stems, caps that do
   not deliquesce.
-- **Parasola plicatilis**: Umbrella-shaped, grows on bare soil, more
-  delicate.
-
-## Morphology
-
-### Macroscopic Features
-
-- **Cap**: 1-3 cm diameter, ovate to bell-shaped when young, expanding to
-  broadly convex with striate margin. Surface covered with fine, glistening,
-  mica-like particles readily washed away by rain. Color: honey-brown to
-  ochraceous, paler at margin, fading to buff-grey. Margin prominently
-  plicate-striate nearly to center.
-- **Gills**: Free to narrowly adnate, very crowded. White → grey →
-  pinkish-brown → blackening and deliquescing (dissolving into ink) from
-  margin upward. This autodigestion is characteristic of coprinoid fungi.
-- **Stem**: 3-10 cm × 2-5 mm, cylindrical, hollow, white, pruinose above,
-  sometimes slightly bulbous at base. Connected to white mycelial cords.
-  No annulus.
-- **Flesh**: Thin, fragile, white. Mild mushroomy flavor when young.
-- **Spore print**: Dark brown to black.
+- **[[spore-print]]**: Dark brown to black.
 
 ### Microscopic Features
 
@@ -141,10 +91,9 @@ coprinoid fungi.
 
 Not commercially cultivated due to small size and extremely short shelf life.
 Can be grown on pasteurized hardwood sawdust or straw substrates. Occasionally
-encountered as a "weed" mushroom in commercial mushroom cultivation facilities.
-
+encountered as a "weed" mushroom in commercial [[mushroom-cultivation]] facilities.
 ## See Also
 
-- [[agar]]
-- [[coprinopsis-atramentaria]]
-- [[dom]]
+- agar
+- coprinopsis atramentaria
+- dom

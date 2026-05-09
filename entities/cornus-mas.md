@@ -36,114 +36,69 @@ appear in Homer's Iliad and Roman agricultural texts. The fruit is
 exceptionally high in vitamin C, anthocyanins, and iridoid glycosides,
 with growing interest in its nutraceutical potential. It is widely
 regarded as one of the most valuable multi-purpose plants for
-temperate permaculture systems.
+temperate [[permaculture-design]]:
 
-## Taxonomy and Morphology
+- **[[food-forest-layers-and-species]]
 
-**Classification:**
-
-- Kingdom: Plantae
-- Division: Magnoliophyta
-- Class: Magnoliopsida
-- Order: Cornales
-- Family: Cornaceae
-- Genus: *Cornus*
-- Species: *C. mas* L.
-
-**Synonyms:** *Cornus mascula* L., *Cornus erythrocarpa* Christian
-
-**Growth habit:** Large shrub or small tree, typically 3–8 m tall,
-occasionally reaching 12 m. Multi-stemmed with spreading, rounded
-crown. Long-lived — specimens over 100 years are documented.
-Bark gray-brown, exfoliating in thin plates on older branches.
-
-**Leaves:** Opposite, ovate to elliptic, 4–10 cm long, 2–5 cm wide,
-dark green above, lighter below, with 3–4 pairs of lateral veins.
-Autumn color is variable — yellow to red-purple.
-
-**Flowers:** Small (5 mm diameter), bright yellow, in dense umbels
-of 15–25 flowers, appearing February–March before leaves. One of
-the first woody plants to bloom in temperate regions. Bisexual,
-insect-pollinated.
-
-**Fruit:** Elongated drupe, 1.5–3 cm long, bright cherry-red when
-ripe (August–September). Flesh is firm and tart when fresh,
-sweetening after frost or cooking. Contains a single elongated seed.
-
-## Distribution and Habitat
-
-*Cornus mas* is native to a region spanning from southern-central
-Europe (Italy, Balkans, Austria, Hungary) through Turkey, the
-Caucasus, and into western Iran. It has been widely planted and
-naturalized across Europe and is now found from the UK to Russia.
-
-The species occupies forest margins, open woodlands, and scrubby
-hillsides in its native range. It thrives in well-drained soils
-from limestone to slightly acidic, and is remarkably drought-tolerant
-once established. Hardy to USDA zone 4 (−30 °C).
-
-Elevation range: 200–1600 m. Prefers full sun to partial shade,
-with best fruit production in full sun.
-
-## Nutritional and Chemical Profile
-
-Cornelian cherry fruits are exceptionally rich in bioactive compounds,
-with the following approximate composition per 100 g fresh weight:
-
-- **Vitamin C:** 80–130 mg (higher than oranges)
-- **Anthocyanins:** 200–800 mg (primarily pelargonidin and cyanidin
-  glycosides) — responsible for the red color and antioxidant activity
-- **Iridoid glycosides:** cornin (verbenalin), loganic acid,
-  cornuside — unique to the *Cornus* genus, with documented
-  anti-inflammatory and hepatoprotective properties
-- **Sugars:** 8–14 g (glucose, fructose)
-- **Organic acids:** malic acid, tartaric acid
-- **Minerals:** calcium, potassium, iron
-- **Pectin:** high — excellent for jams
-
-The fruit also contains ellagic acid and gallic acid, contributing
-to antioxidant capacity among the highest of temperate fruits.
-
-## Cultivation
-
-**Propagation:** Primarily by seed (stratification required — 3–5
-months cold-moist at 1–5 °C). Softwood and hardwood cuttings
-possible but strike rates are moderate. Grafting onto seedling
-rootstock is standard for named cultivars.
-
-**Spacing:** 3–5 m in orchards; 0.5–1.5 m in hedgerows.
-
-**Yield:** Bears at 3–5 years from seed, 2–3 from graft.
-Mature trees produce 20–50 kg annually.
-
-**Key cultivars:**
-
-- **'Koral'** — large fruit (4+ g), excellent flavor, Hungarian
-  selection
-- **'Jolico'** — Canadian selection, early ripening, reliable
-- **'Pioneer'** — Russian selection, large fruit, high yield
-- **'Elegantnyj'** — large, oblong fruit, very high vitamin C
-
-## Permaculture Applications
-
-Cornelian cherry is considered one of the most valuable multi-function
-species in temperate permaculture design:
-
-- **Food forest understory** — fits between tall canopy and shrub
-  layer; early flowers fill a critical pollinator niche
-- **Hedgerow component** — dense growth, thornless stems, provides
-  fruit and windbreak simultaneously
-- **Wildlife support** — fruits feed birds in autumn; flowers feed
-  early bees; dense branching provides nesting cover
-- **Pollinator support** — critical early nectar source; blooming
-  4–6 weeks before most temperate fruit trees
-- **Ornamental value** — showy winter/spring flowers, attractive
-  bark, good autumn color, fits urban landscapes
-
-## See Also
-
-- [[food-forest-layers-and-species]]
-
-- [[food-forest]]
+- food forest
 
 - [[permaculture-dogwood-cornus-capitata]]
+## Practical Considerations
+
+When working with Cornus mas, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

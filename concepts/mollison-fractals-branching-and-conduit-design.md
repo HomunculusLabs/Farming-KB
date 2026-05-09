@@ -124,8 +124,6 @@ resilience.
 
 ## See Also
 
-- [[mollison-tessellation-and-annidation-in-design]]
 - [[mollison-stream-orders-and-branching-magnitudes]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-boundary-harmonics-and-edge-geometry]]
 - [[mollison-water-harvesting-management-permaculture]]

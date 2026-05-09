@@ -101,35 +101,7 @@ detection systems challenges philosophical assumptions about the uniqueness
 of animal perception. If vision is broadly defined as the ability to
 detect, discriminate, and respond to electromagnetic radiation in ways that
 provide adaptive information about the environment, then plants clearly
-possess a form of vision. Daniel Chamovitz argues in *What a Plant Knows*
-that the question is not whether plants see, but rather how their seeing
-differs from ours. Plants cannot form images, but they can detect light
-direction, intensity, colour, duration, and spectral quality with
-sensitivity that in some respects exceeds human capabilities. This
-reframing has implications for how we understand intelligence,
-communication, and awareness across the tree of life.
-
-## Practical Applications of Understanding Plant Photoreception
-
-Knowledge of comparative photoreception has direct applications in
-agriculture, horticulture, and controlled-environment growing. Manipulating
-light spectra to target specific photoreceptors allows growers to control
-plant architecture, flowering time, nutritional quality, and pest
-resistance. Far-red supplementation can accelerate flowering in
-short-day crops. UV-B exposure increases flavonoid and antioxidant
-production in leafy greens and herbs. Blue light enrichment promotes
-compact growth and essential oil production in aromatic herbs. These
-precision lighting strategies exploit the specific photoreceptor systems
-described above, turning fundamental plant physiology into practical
-growing tools. As LED technology continues to advance, the ability to
-target individual photoreceptor pathways with narrow-band light will
-only increase, making comparative photoreception knowledge increasingly
-valuable for sustainable food production.
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[chamovitz-rhodopsin-to-phytochrome-human-plant-photoreception-parallels]]
-- [[plant-photoreceptor-evolution-from-photolyases]]
+possess a form of vision. [[what-a-plant-knows-plant-vision-and-light-perception]]
+- chamovitz rhodopsin to phytochrome human plant photoreception parallels
 - [[phytochrome-photoreception]]
 - [[plant-light-discrimination-beyond-human-vision]]

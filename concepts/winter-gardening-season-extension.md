@@ -116,13 +116,9 @@ Solomon's perspective is practical:
 
 ## Related Concepts
 
-- [[winter-gardening-techniques]]
 - [[permaculture-cold-climate-strategies]]
-- [[permaculture-designers-manual-cold-climates]]
 - [[composting-methods-comparison]]
 
 Sources: Steve Solomon, *Gardening When It Counts*; William Ozier Williams, *PDC: A Permaculture Design Course*
-- [[permaculture-designers-manual-cold-climate-greenhouse]]
 - [[soil-erosion-control]]
-- [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-seed-saving-varieties]]

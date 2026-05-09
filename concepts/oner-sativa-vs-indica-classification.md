@@ -120,6 +120,5 @@ yield and potency often fails to deliver.
 ## See Also
 
 - [[oner-sativa-renaissance-rise-of-the-second-child]]
-- [[oner-sativa-landrace-preservation]]
 - [[oner-cannabis-breeding-fundamentals]]
 - [[oner-cannabis-terpene-profiles-effects]]

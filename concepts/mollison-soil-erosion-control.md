@@ -8,9 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
-# Mollison: [[soil-erosion-control]]
-
-Source: [[bill-mollison]], Permaculture: A Designers' Manual (Chapter 8, Section 8.17)
+# Mollison: [[bill-mollison]], Permaculture: A Designers' Manual (Chapter 8, Section 8.17)
 
 ## The Nature of Erosion
 
@@ -98,29 +96,7 @@ Swales, contour drains, and check dams slow water movement across slopes.
 
 Proper drainage prevents water concentration that creates gullies.
 
-Water comparison [[xeriscaping-guide]] reduce runoff volume.
-
-## Repair Strategies
-
-### Gully Rehabilitation
-
-Gullies can be stabilised by filling with organic matter, rock, or brush.
-
-Check dams within gullies slow water flow and trap sediment.
-
-Pioneer vegetation established in stabilised gullies prevents re-erosion.
-
-### Slope Rehabilitation
-
-Severely eroded slopes need a combination of mechanical stabilisation and biological re-vegetation.
-
-Gabions (rock-filled mesh baskets) create permeable barriers that trap silt while allowing water through.
-
-Terracing converts unstable slopes into productive, stable growing areas.
-
-### Biological Soil Building
-
-Deep-rooted plants such as radish (daikon), comfrey, lucerne, and [[acacia]]s shatter compacted subsoil and create channels for water infiltration.
+Water comparison [[acacia]]s shatter compacted subsoil and create channels for water infiltration.
 
 Earthworms, termites, and burrowing organisms rebuild soil crumb structure over time.
 

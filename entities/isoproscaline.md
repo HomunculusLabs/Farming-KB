@@ -101,20 +101,12 @@ The compound is controlled by name in few countries due to its rarity. Legal sta
 
 ## See Also
 
-- [[proscaline]]
 - [[mescaline-entity]]
-- [[escaline-entity]]
 - [[allylescaline]]
-- [[3c-e-entity-pihkal]]
 - [[2c-b]]
-- [[alexander-shulgin]]
 - [[pihkal-introduction-and-methodology]]
-- [[ergine-entity]]
 - [[myristicin-entity]]
-- [[elemicin]]
 - [[lophophora-williamsii]]
-- [[echinopsis-pachanoi]]
 - [[echinopsis-bridgesii]]
-- [[morning-glory-entheogens]]
 - [[muscimol-entity]]
-- [[ibotenic-acid]]
+- [[ibotenic-acid-entity]]

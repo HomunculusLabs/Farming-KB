@@ -1,29 +1,7 @@
 ---
 title: Fungal Enzymes in Biodegradation
 created: 2026-04-28
-tags: [mycology, enzymes, bioremediation, biochemistry]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
-  - ~/wiki/raw/papers/mycelium-running-stamets.md
-type: concept
----
-
-# Fungal Enzymes in Biodegradation
-
-## Overview
-
-Fungi produce a diverse arsenal of extracellular enzymes that degrade
-complex organic polymers, making them among the most effective
-organisms for breaking down environmental pollutants. White-rot fungi
-are particularly notable for their ability to decompose lignin, the
-tough, recalcitrant polymer that gives wood its structural rigidity.
-The same non-specific enzymatic systems that evolved to break down
-lignin also degrade a wide range of anthropogenic pollutants including
-polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls
-(PCBs), dyes, explosives, and pesticides. This cross-reactivity forms
-the biochemical basis of [[fungal-bioremediation]].
+tags: [[fungal-bioremediation]].
 
 ## Lignin Peroxidase (LiP)
 
@@ -128,8 +106,6 @@ that few other biological systems can match.
 
 ## See Also
 
-- [[fungal-bioremediation-mechanisms]]
 - [[mycoremediation-oil-spills]]
-- [[fungal-bioaccumulation-heavy-metals]]
 - [[stamets-mycoremediation-principles]]
 - mycelial mats

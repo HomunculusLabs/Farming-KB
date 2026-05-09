@@ -140,11 +140,8 @@ Golden Teacher occupies a prominent place in contemporary psychedelic culture:
 - **Music and art:** Its name has become shorthand for the archetypal "magic mushroom" experience in creative communities.
 - **Psychedelic renaissance:** Serves as the most accessible entry point for cultivation, microdosing, and community-based practice.
 - **Microdosing:** One of the most commonly cited strains; clinical evidence remains mixed, with some studies showing placebo-dominant effects.
-
 ## See Also
 
-- [[golden-teacher-cubensis]]
 - [[golden-teacher-cannabis]]
-- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]

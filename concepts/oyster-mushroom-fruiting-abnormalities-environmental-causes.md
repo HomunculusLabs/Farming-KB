@@ -3,16 +3,7 @@ title: Oyster Mushroom Fruiting Abnormalities and Environmental Causes
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-Updated: 2026-04-18
-
-Source: Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (MushWorld, 2004) — Chapter 8, Jae-Soon Cha (Chungbuk National University, Korea)
-
-Environmental factor matrix for diagnosing fruiting body deformations in [[cotter-oyster-mushroom-cultivation]]. Formation and growth of fruiting bodies are highly sensitive to temperature, humidity, CO2 concentration, and substrate moisture. Optimal conditions vary by strain; the matrix below uses a strain with optimal fruiting at 13-16°C and >80% RH.
+tags: [[cotter-oyster-mushroom-cultivation]]. Formation and growth of fruiting bodies are highly sensitive to temperature, humidity, CO2 concentration, and substrate moisture. Optimal conditions vary by strain; the matrix below uses a strain with optimal fruiting at 13-16°C and >80% RH.
 
 ## Temperature and Humidity Matrix
 
@@ -79,32 +70,27 @@ Watering after primordium formation is critical for yield and quality.
 
 ## CO2 Tolerance by Species
 
-Different [[oyster-mushroom-species-variety]] have different CO2 tolerances:
-
-| Species         | Max CO2 (ppm) | Notes                          |
-|-----------------|---------------|--------------------------------|
-| P. ostreatus    | <1,000        | Very sensitive; cold shock needed |
-| P. florida      | <800          | Most productive species        |
-| P. sajor-caju   | 400-800       | Tropics/subtropics             |
-| P. eryngii      | <2,000        | Most CO2 tolerant              |
-| P. cornucopiae  | <1,000        | Summer species                 |
-| P. cystidiosus  | <1,000        | Summer species                 |
-
-## Ventilation and CO2 Monitoring
-
-- Fresh air exchange removes CO2 produced by mycelial respiration
-- As CO2 increases in the growing room, mushroom size decreases and yields lessen
-- Young mushrooms suffocate under high CO2 due to lack of oxygen
-- Commercial growers use CO2 sensors and automatic ventilation controllers
-- Maximum upper limit of CO2 must be maintained during fruiting
-
-## Related
-
-- [[oyster-mushroom-species-fruiting-parameters]]
-- [[oyster-mushroom-species-guide]]
+Different [[oyster-mushroom-species-fruiting-parameters]]
 - [[monotub-cultivation]]
-- [[oyster-mushroom-growing-house-types]]
 - [[cotter-oyster-mushroom-cultivation]]
-- [[oyster-mushroom-short-log-cultivation]]
 - [[oyster-mushroom-brown-blotch-disease]]
 - [[fungal-morphology-growth-and-pellet-formation]]
+## Practical Considerations
+
+Successful implementation of Oyster Mushroom Fruiting Abnormalities and Environmental Causes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

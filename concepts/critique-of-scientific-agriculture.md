@@ -18,11 +18,9 @@ type: concept
 
 # Critique of Scientific Agriculture
 
-[[masanobu-fukuoka]]'s critique of scientific agriculture is one of the most thorough
-and philosophically grounded challenges to modern [[cho-poultry-natural-farming-methods]] ever articulated.
+[[cho-poultry-natural-farming-methods]] ever articulated.
 He argued that scientific agriculture is fundamentally misguided because it attempts
-to improve upon nature through [[fukuoka-nature-transcends-human-knowledge]] and intervention, when in fact nature
-is already perfect and self-sufficient. According to Fukuoka, [[fukuoka-paradoxes-scientific-farming]]
+to improve upon nature through [[fukuoka-paradoxes-scientific-farming]]
 does not increase productivity; it merely prevents the decline in productivity that
 its own methods have caused.
 
@@ -31,22 +29,7 @@ its own methods have caused.
 Fukuoka challenged the core assumption of scientific agriculture: that its methods
 increase yields beyond what nature can provide unassisted. He argued that high-yield
 practices and scientific methods of increasing production only appear to exceed the
-[[mollison-rangelands-and-natural-productivity]] of the land because man has already hamstrung nature through
-destructive practices. High-yield technologies are glorified attempts to stave off
-reductions in productivity that scientific agriculture itself has created.
-
-Fukuoka identified three specific conditions under which scientific inputs appear
-effective, demonstrating their limited and defensive rather than productive nature.
-Chemical fertilizers are effective only when the soil is already dead. Pesticides
-are effective only for protecting unhealthy plants. Farm machinery is useful only
-when one has to cultivate a large area. Conversely, these methods are ineffective or
-even detrimental on fertile soil, healthy crops, and small fields.
-
-The experience of Japanese rice cultivation illustrated this pattern. Research
-stations were unable to produce more than 15 to 20 bushels per quarter-acre until
-around 1965 because all they were doing was analyzing and interpreting rice that
-yielded 15 to 20 bushels to begin with. Respective ten-percent improvements through
-new varieties, tilling techniques, fertilization, and [[coleman-beneficial-insects-and-ecological-pest-control]] might theoretically
+[[coleman-beneficial-insects-and-ecological-pest-control]] might theoretically
 add up to a forty-percent increase, but actual field improvements amounted to only
 two to ten percent. As Fukuoka put it, one plus one plus one does not make three;
 it makes one.
@@ -146,5 +129,3 @@ Fukuoka predicted organic farming would eventually be assimilated by the very sy
 it claims to oppose.
 
 ## The Path Forward
-
-The only effective path is to relinquish human knowledge and trust nature's inherent

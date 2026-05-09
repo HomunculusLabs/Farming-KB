@@ -108,14 +108,9 @@ Commercial harvest regulations include size limits, seasonal closures, and desig
 
 ## See Also
 
-- [[alaria-esculenta]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[undaria-pinnatifida]]
-- [[fucus-vesiculosus]]
 - [[porphyra-umbilicalis]]
-- [[hizikia-fusiforme]]
 - [[palmaria-palmata]]
-- [[chlorella-vulgaris]]
 - [[ulva-lactuca]]
 - [[sargassum-fusiforme]]

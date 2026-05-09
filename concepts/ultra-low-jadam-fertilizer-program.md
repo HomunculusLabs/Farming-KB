@@ -14,51 +14,8 @@ The JADAM Fertilizer Program is a radically simplified approach to crop
 nutrition that replaces the conventional practice of dividing plant
 growth into stages and applying different fertilizers for each stage.
 Instead, JADAM uses a consistent program based on GC-JLF (Green Cover
-[[jadam-liquid-fertilizer]]) supplemented with JMS (JADAM Microorganism
-Solution), sea minerals, and targeted nitrogen sources when needed. The
-total annual cost is approximately $100 per acre.
-
-## Critique of Conventional Fertilizer Programs
-
-Conventional agriculture divides plant growth into nutritional and
-reproductive cycles, prescribing high nitrogen during vegetative growth,
-high phosphorus during flowering, high potassium during fruit
-development, and various micronutrients at different stages. This
-system, JADAM argues, serves primarily as a marketing tool for
-fertilizer companies. It makes farming complicated, expensive, and
-dependent on purchased inputs.
-
-Nature does not grow plants this way. Trees grow for centuries without
-anyone dividing their growth into stages and applying different
-fertilizers. The JADAM method asks: observe nature, and do as nature
-does. The answer to the "perfect fertilizer program" lies in nature.
-
-## The Base Fertilizer: Cover Crops and Crop Residues
-
-Base fertilizer in JADAM comes from two sources:
-
-1. **Cover crops**: Growing cover crops during fallow periods provides
-   organic matter and nutrients directly to the soil. Focus on growing
-   enough cover crop to supply 100 percent of base fertilizer needs.
-
-2. **Crop residues**: After harvest, crop residues left on the field
-   decompose and return nutrients to the soil. This mimics the natural
-   cycle where fallen leaves and dead grass feed the next generation.
-
-You can supplement with manure from grass-eating animals. Chicken and
-pig manure can also be used. If you cannot grow cover crops, bring in
-sawdust, tree bark, or leaves, all of which make excellent fertilizer.
-
-## The Additional Fertilizer: GC-JLF
-
-The main additional fertilizer is GC-JLF, made from wild grass and crop
-residues combined. [[ultra-low-jadam-liquid-fertilizer-making]] explains
-how to make it. [[ultra-low-customized-crop-residue-fertilizers]]
-explains why crop-specific residues are optimal.
-
-GC-JLF is diluted about 100 times and applied throughout the season.
-The standard calculation is 1 ton (264 gal) of water per 0.03 hectares
-(0.08 acres). Always add [[jadam-jms-pesticide]]
+[[ultra-low-jadam-liquid-fertilizer-making]] explains
+how to make it. [[jadam-jms-pesticide]]
 when applying additional fertilizer. When growth seems weak, supplement
 with nitrogen-rich JLF such as food waste, urine, or fish JLF.
 
@@ -131,7 +88,5 @@ It is easy, costs almost nothing, and rewards high quality and yield.
 
 ## See Also
 
-- [[ultra-low-jadam-liquid-fertilizer-making]] - How to make JLF
 - [[ultra-low-customized-crop-residue-fertilizers]] - Crop-specific JLF
-- [[jadam-jms-pesticide]] - Microbial solution
 - [[ultra-low-green-manure-cover-crop-species]] - Cover crop base fertilizer

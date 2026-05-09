@@ -138,11 +138,7 @@ distinctive features.
 
 ## See Also
 
-- [[russula-vesca]]
-
 - [[russula-emetica]] — toxic lookalike, acrid peppery taste
-- [[boletus-edulis-entity]] — fellow mycorrhizal edible of deciduous forests
 - [[amanita-rubescens]] — co-occurring woodland mushroom (edible when cooked)
-- [[lactarius-deliciosus]] — similarly colored mycorrhizal mushroom with latex
 - [[cantharellus-cibarius-entity]] — companion woodland edible foraging target
 - [[leccinum-scabrum]]

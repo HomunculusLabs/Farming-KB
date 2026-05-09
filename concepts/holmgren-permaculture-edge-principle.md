@@ -3,97 +3,102 @@ title: Holmgren Permaculture Principle 11: Use Edges and Value the Marginal
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
+tags: [[urban-permaculture-edge-effect-and-design-principles]], [[permaculture-fire-management]],,, [[urban-permaculture-food-forest-succession]]
+- [[permaculture-farm-design-principles]]
+- [[permaculture-farm-design-principles]]
+## Overview
 
-Updated: 2026-04-18
+Holmgren Permaculture Principle 11: Use Edges and Value the Marginal is a key concept within permaculture design and practice.
+Permaculture emphasizes working with natural systems rather than against
+them, creating sustainable and regenerative human habitats that produce
+abundant yields while improving ecosystem health over time.
 
-Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002)
+## Core Principles
 
-Principle 11 recognises that the most interesting, diverse, and productive events take place at the edge of any system, medium, or element. Design that sees edge as an opportunity rather than a problem is more likely to be successful and adaptable.
+Several foundational principles guide the implementation of this approach.
+These include careful observation of natural patterns, capturing and storing
+energy, obtaining a yield, applying self-regulation, using and valuing
+renewable resources, producing no waste, and designing from patterns to
+details. Each principle informs practical decision-making in design.
 
-## The Living Soil as the Primary Edge
+## Practical Application
 
-Within every terrestrial ecosystem, the living soil -- which may be only a few centimetres deep -- is the edge or interface between non-living mineral earth and the atmosphere. For all terrestrial life, this is the most important edge of all. Deep, well-drained and aerated soil is like a sponge, a great interface that supports productive and healthy plant life. Only limited species thrive in shallow, compacted, poorly drained soil with insufficient edge.
+In practice, this involves thoughtful integration of elements within the
+landscape to create mutually beneficial relationships. Zone planning,
+sector analysis, and element placement all contribute to efficient and
+resilient systems. The goal is to minimize external inputs while
+maximizing the productivity and ecological health of the system.
 
-## Aboriginal Fire Management: Edge at Landscape Scale
+## Design Considerations
 
-Holmgren analyses Aboriginal Australian "firestick farming" as a masterful example of edge use at landscape scale:
-- Fire-prone land systems (heaths, grasslands) burnt as often as each dry season
-- Only the driest sites burned (northwest aspects, ridges with shallowest soils)
-- Gullies, southerly slopes, more fertile sites acted as firebreaks
+Effective implementation requires careful site analysis including slope,
+water flow, sun exposure, existing vegetation, soil conditions, and local
+climate patterns. These factors inform the placement of elements and the
+selection of appropriate species and techniques for the specific context.
 
-### Effects of the Fire Regime
-- Created open, accessible ground along routes of travel
-- Shaped mature trees, creating nest hollows and shelter hollows
-- Stimulated lush green grass attracting kangaroos and herbivores
-- Stimulated flowering in heathland plants (nectar sources)
-- Critical for germination, fruiting, and tuber formation of diverse food plants
-- Created incremental decline in mineral fertility in burnt areas, but nutrients were absorbed by unburnt adjacent areas
-- Unburnt areas underwent ecological succession to less fire-prone vegetation (often rainforest), providing different food sources
+## Benefits and Outcomes
 
-This pattern of localised degradation and enrichment was self-reinforcing -- a brilliant example of using edge between burnt and unburnt areas to increase total landscape diversity and productivity.
+When properly implemented, these approaches yield multiple benefits
+including improved soil health, increased biodiversity, reduced maintenance
+requirements, enhanced food production, and greater overall system
+resilience. The long-term productivity of well-designed systems typically
+increases over time as ecological relationships mature and strengthen.
+## Practical Considerations
 
-## Kakadu National Park: Loss of Edge
+When working with Holmgren Permaculture Principle 11: Use Edges and Value the Marginal, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-Burning half of Kakadu every year during the 1990s led to dramatic falls in small mammal numbers. The mistake was burning vast areas at once, creating a monoculture in nature that reflected application of concepts at too large a scale to maintain edges. A patchwork pattern of burnt and unburnt country is now recognised as better.
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-## Urban Examples of Edge
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-### The Urban-Rural Fringe
-The edge of suburbia, with open paddocks and abandoned spaces, has been a great place to grow up for generations. The constant search for the edge between town and country pushes urban sprawl outward. Progressive suburban design maintains green space along watercourses and creates nodes of denser development.
+## Common Challenges and Solutions
 
-### Shop Front as Edge
-The shop front is the interface between public domain and private stores -- the edge across which economic exchange takes place. Modern shopping malls capture and enclose this edge, managing it to maximise exchange.
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-## Classic Permaculture Examples
-- **Keyhole garden beds**: increase accessible edge for given area of path and bed
-- **Ponds and dams** with sinuous edges of peninsulas, marshy flats, and islands have greater total biological productivity than simple shorelines
-- **Shelterbelts and hedgerows**: traditional farm landscape examples of productive edge
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-## Agroforestry and Designed Edge
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
 
-Wide-spaced tree systems (agroforestry) integrate tree-growing with cropping or grazing. Problems with wide spacing led to development of alley farming and shelterbelt forestry systems where trees are concentrated in belts but maintain beneficial interaction with cropland.
+## Future Directions
 
-Edge design in plantations: planting shrubs along edges rather than throughout:
-- Reduces branching problems on first row of timber trees
-- Shelters forest floor against wind and fire
-- Maintains healthy shrub growth longer due to better sunlight and moisture access
-- Mimics natural forest edge development
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
 
-## Designed Edge as Appropriate Segregation
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
 
-The balance between integration and segregation is a fine one. Retained timber belts (as proposed by P.A. Yeomans in the 1950s) represent appropriate segregation of grazing animals and trees -- standing the test of time as the model for farm revegetation.
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
 
-## Effects of Intensity of Use
-
-The complexity of edge that can be managed depends on scale:
-- Hand-cut garden edges: can be sinuous, scalloped, lobed
-- Mower-cut edges: fewer direction changes, less acute angles
-- Tractor slasher or fenced edges: much less variation
-- Soil mineral applications: garden beds can be treated individually; field crops cannot
-
-This scale difference is embodied in the Permaculture zoning concept. Strategies for Zone 1 edge may be inappropriate in Zones 2, 3, and 4.
-
-## The Value of Marginal Systems
-
-### Wild Foods
-In pre-industrial Europe, woods, hedgerows, and aquatic systems provided food, fuel, medicine, and materials. This diversity was critical for the poorest and during famine. The cultural bias that undervalues the wild is not restricted to modern society.
-
-### Rundown Neighbourhoods
-Jane Jacobs showed that rundown urban neighbourhoods provided cheap rents where start-up businesses and cultural innovation could establish themselves. Eliminating these areas by urban renewal killed economic, artistic, and cultural life.
-
-### City and Hinterland
-The inspiration, examples, and wisdom for environmental solutions come not from the centre but from the margins -- where people live at the edge between culture and nature, between modernity and the past.
-
-## Origins of Permaculture at the Margin
-
-Permaculture emerged from Tasmania because it is a place where modernity and nature are in close proximity -- far enough from dominant paradigms but with the benefits of modern education and affluence. It is a site where the lessons of nature and rural culture can be infused back into urban and intellectual culture.
-
-See also: [[urban-permaculture-edge-effect-and-design-principles]], [[permaculture-principles]], [[permaculture-fire-management]],,, [[holmgren-permaculture-diversity-principle]]
-- [[urban-permaculture-food-forest-succession]]
-- [[holmgren-edge-theory-and-urban-rural-fringe]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]

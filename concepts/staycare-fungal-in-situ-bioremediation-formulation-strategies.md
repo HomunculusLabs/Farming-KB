@@ -11,12 +11,7 @@ type: concept
 
 # Fungal In Situ Bioremediation Formulation Strategies
 
-In situ [[fungal-bioremediation]] requires introducing fungal inocula into
-contaminated environments where they face competition, predation, variable
-moisture and temperature, and nutritional limitations. Formulation
-strategies aim to protect and sustain introduced fungi, giving them a
-competitive advantage over indigenous microorganisms. These approaches
-draw from biocontrol science, mushroom [[spawn-production]], and microbial
+In situ [[spawn-production]], and microbial
 pesticide delivery technologies.
 
 ## The Challenge of Field Application
@@ -91,60 +86,6 @@ and semolina. The dough is kneaded, passed through a pasta machine to
 form thin sheets, air-dried, and crushed into granules. This produces a
 homogenous mixture of fungi, nutrients, and filler. However, wheat
 gluten inhibits the growth of some white rot fungi including
-[[phanerochaete-chrysosporium]], limiting the universality of this approach.
-
-## Pelleted Substrate Coating
-
-An innovative approach developed by the USDA Forest Products Laboratory
-involves coating pelleted solid substrates with an alginate suspension of
-fungal propagules. Pellets composed of aspen sawdust, starch, cornmeal,
-and calcium lignosulfonate are ground to uniform size, dried, and coated
-with the alginate-fungal biomass mixture. The coated pellets are
-incubated until a dense mycelial layer overgrows the surface.
-
-Species including Irpex lacteus, Bjerkandera adusta, and Trametes
-versicolor formulated as mycelium-coated pellets removed over 80 percent
-of pentachlorophenol from unsterile soil microcosms within four weeks.
-Uncoated pellets without pre-established mycelium failed to survive due
-to competition from indigenous Trichoderma and Fusarium species.
-
-## Biological Potential of Inoculum
-
-The biological potential of fungal inoculum is defined as the amount of
-fungal biomass produced per unit weight or volume of carrier material
-on a dry weight basis. Traditional carriers such as straw, corn cobs,
-and wood chips often have low inoculum potential, requiring vast
-quantities for effective site treatment. Fluorescein diacetate (FDA)
-hydrolysis assays provide a practical indicator of biological potential
-in solid substrates, although quantification remains challenging due
-to the difficulties of measuring filamentous growth in opaque media.
-
-## Key Factors for Success
-
-Several factors determine the effectiveness of formulated fungal
-inocula in field applications:
-
-- **Pre-established mycelium**: Inocula with pre-grown mycelium
-  survive better than those relying on spore germination in situ
-- **Nutrient supplementation**: Carbon sources in the formulation
-  provide a head start for the introduced species
-- **Mechanical stability**: Pellets must survive handling and
-  application without crumbling
-- **Shelf life**: Temperature is the most important variable;
-  refrigerated storage extends viability to over four years
-- **Competitive exclusion**: Selective biocides such as benomyl,
-  to which white rot fungi are resistant, can suppress competitors
-
-## Future Directions
-
-Mixed bacterial-fungal consortia deserve greater research attention.
-Manufacturing technology for producing sufficient inocula at
-environmental scale remains a barrier. Cost-effective alternatives to
-alginate and methods for maintaining introduced populations against
-indigenous competition are active areas of investigation.
-
-## Related Topics
-
-- [[staycare-fungal-formulation-in-situ-bioremediation]] for
+[[staycare-fungal-formulation-in-situ-bioremediation]] for
   additional formulation details
 - [[fungal-immobilization-bioreactor-systems]] for

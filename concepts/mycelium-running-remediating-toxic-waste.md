@@ -10,9 +10,7 @@ tags: [mycelium, pollution, toxic]
 
 # Remediating Toxic Waste with Fungi
 
-[[mycelium-natures-internet]] explores how fungi can
-address a wide spectrum of environmental toxins. Beyond petroleum
-hydrocarbons, [[mycoremediation-heavy-metals-detailed]] and chemical
+[[mycoremediation-heavy-metals-detailed]] and chemical
 decontamination represent major frontiers in fungal bioremediation.
 
 ## The Toxic Legacy
@@ -26,59 +24,7 @@ toxin loads, and exposure increases as environments become more polluted.
 ## Heavy Metal Bioaccumulation
 
 Mushrooms can selectively concentrate heavy metals, offering potential
-for [[heavy-metal-bioremediation]] while also posing food safety risks:
-
-### Arsenic
-- Used as a wood preservative; now banned in home construction lumber
-- EPA maximum: 10 micrograms per liter in drinking water
-- Shaggy manes (Coprinus comatus) accumulated 494 micrograms/g (dry
-  weight) near a Canadian mine -- 250 times the EPA limit
-- Matsutake (Tricholoma magnivelare) also accumulates arsenic
-- Shaggy manes may serve as bioindicator species for arsenic
-
-### Cadmium
-- The Agaricus genus stands out for hyperaccumulating cadmium
-- Agaricus brasiliensis from China showed 2.75 mg/kg vs. 0.53 mg/kg
-  from Washington
-- Maximum acceptable intake: 2 ppb per kg body weight per day
-- Intakes as low as 1 microgram per day can harm neurological and
-  immune systems
-- Oyster mushrooms absorb the least cadmium among tested species
-
-### Cesium-137
-- A by-product of nuclear fission; Chernobyl contaminated much of Europe
-- Bioaccumulation ranged from 1,180x in Paxillus atrotomentosus to
-  more than 10,000x in Gomphidius glutinosus
-- Bay boletus (Boletus badius) concentrated 3,030 Bq/kg
-- European Commission set safety limit at 600 Bq/kg for marketed
-  mushrooms
-- Norbadione A pigment in boletus binds cesium, suggesting a mechanism
-  for scavenging radioactive contaminants
-
-### Lead
-- Most mushrooms do not actively concentrate lead above environmental
-  levels
-- Shaggy manes in cities could be bioindicators of lead contamination
-- Adding lime (calcium carbonate) reduces lead solubility in soils
-
-### Mercury
-- Selenium-deficient diets may increase mercury toxicity, further
-  impairing immunological function
-
-## Pentachlorophenol (PCP) and Preservative-Treated Wood
-
-The U.S. Department of Agriculture published a patent application for
-fungal degradation of PCP-treated wood. House wrecker fungi --
-Meruliporia incrassata and Antrodia radiculosa -- showed no reluctance
-to colonize preservative-saturated wood that other cultures avoided.
-Ironically, the fungus that is the bane of homeowners could be a boon to
-mycoremediators.
-
-## The PCB Connection
-
-Mushrooms like turkey tail (Trametes versicolor) are multibeneficial --
-preventing blights, fighting bacteria, and breaking down toxic chemicals
-like PCBs and dioxins. The same [[medicinal-mushrooms]] that help human immune systems also help
+for [[medicinal-mushrooms]] that help human immune systems also help
 ecosystems detoxify.
 
 ## Saprophytic vs. Mycorrhizal Approaches
@@ -115,10 +61,26 @@ eaten until determined safe through testing.
 
 ## See Also
 
-- [[mycelium-running-bioremediation-mushroom-projects]] -- project case
-  studies
 - [[mycoremediation-heavy-metals-detailed]] -- heavy metal focus
-- [[heavy-metal-biosorption]] -- metal absorption mechanisms
 - [[mycoremediation-of-pahs]] -- PAH degradation
 - [[mycoremediation-of-explosives]] -- explosives remediation
 - mycelium running remediating toxic waste -- this page
+## Practical Considerations
+
+Successful implementation of Remediating Toxic Waste with Fungi requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

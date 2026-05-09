@@ -4,64 +4,13 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Organic Garden Soil Preparation
 
-Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or raised bed -- has long-term implications for soil health. This connects to [[nutrient-cycling-in-soil]], [[soil-food-web-structure]], and [[compost-building-guide]].
-
-## Soil Testing
-
-Before any amendment, test the soil to understand its current state:
-
-### What to Test
-
-- **pH**: determines nutrient availability (most vegetables prefer 6.0-7.0)
-- **NPK**: nitrogen, phosphorus, potassium levels
-- **Organic matter percentage**: target 3-5% for vegetable gardens
-- **Cation exchange capacity (CEC)**: indicates nutrient-holding ability
-- **Base saturation**: Ca, Mg, K ratios (ideal Ca 60-70%, Mg 10-20%, K 2-5%)
-- **Trace elements**: boron, zinc, iron, manganese, copper (if deficiencies suspected)
-
-### Testing Methods
-
-- **DIY test kits**: inexpensive, rough estimates only, useful for pH screening
-- **Cooperative extension lab**: $15-30, comprehensive analysis with amendment recommendations
-- **Private labs**: Logan Labs, A&L Great Lakes -- more detailed, $25-50
-- **Soluble paste test (Haney test)**: measures soil biology activity, $20-40
-
-Take samples from multiple spots in the garden at 4-6 inch depth. Mix composite sample. Test every 2-3 years or when problems arise.
-
-## pH Amendment
-
-### Raising pH (making more alkaline)
-
-| Amendment | Effectiveness | Speed | Notes |
-|-----------|-------------|-------|-------|
-| Agricultural lime (CaCO3) | Moderate | 3-6 months | Standard choice, adds calcium |
-| Dolomitic lime | Moderate | 3-6 months | Adds calcium + magnesium; use if Mg is low |
-| Wood ash | Mild | 1-3 months | Fast-acting, contains K + trace minerals; use sparingly |
-| Oyster shell flour | Mild | 6-12 months | Slow-release, adds calcium |
-
-### Lowering pH (making more acidic)
-
-| Amendment | Effectiveness | Speed | Notes |
-|-----------|-------------|-------|-------|
-| Elemental sulfur | Strong | 3-6 months | Bacteria convert S to sulfuric acid; needs warm soil |
-| Peat moss | Mild | Immediate | Lowers pH slightly, adds organic matter |
-| Pine needles | Mild | Slow | Mulch layer, minimal effect |
-| Aluminum sulfate | Very strong | Immediate | Avoid in organic systems; can build up to toxic levels |
-
-## Organic Matter Incorporation
-
-Organic matter is the engine of healthy soil:
-
-- **Compost**: 1-2 inches worked into top 6 inches, or surface-applied in no-till systems
-- **Aged manure**: 1 inch, well-composted only (fresh manure burns plants and harbors pathogens)
-- **Leaf mold**: excellent for soil structure and water retention
-- **Worm castings**: concentrated source of nutrients and microbes, use as top-dress
-- **Green manure cover crops**: grown and incorporated in place -- see [[nutrient-cycling-in-soil]]
+Soil preparation sets the foundation for a productive garden. Organic methods focus on building soil biology, maintaining soil structure, and providing nutrients through natural amendments. The approach chosen -- no-till, double-dig, or raised bed -- has long-term implications for soil health. This connects to [[soil-food-web-structure]], and [[nutrient-cycling-in-soil]]
 
 Aim to add 1/4 to 1/2 inch of organic matter per year to maintain soil organic matter levels.
 
@@ -133,7 +82,5 @@ Frame materials: untreated cedar, galvanized metal, concrete block. Avoid pressu
 2. Apply compost (1-2 inches surface, or work in lightly)
 3. Adjust pH if needed based on test results
 ## Related
-- [[garden-myths-organic-vs-conventional]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

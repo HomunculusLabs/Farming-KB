@@ -99,7 +99,9 @@ The ultimate goal is a mini-farm that:
 
 ## See Also
 
-- [[biointensive-carbon-farming]]
 - [[green-manure-crops]]
-- [[jeavons-composting-methods]]
 - [[jeavons-soil-fertility]]
+
+## See Also
+
+- [[jeavons-calorie-farming]]

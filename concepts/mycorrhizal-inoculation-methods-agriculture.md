@@ -3,18 +3,7 @@ title: Mycorrhizal Inoculation Methods for Agriculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources:
-  - "raw/papers/teaming-with-fungi-lowenfels.md"
----
-
-Updated: 2026-04-18
-
-## Overview
-
-Inoculating agricultural crops with mycorrhizal fungi requires different approaches depending on the scale of operation, the crop type, and the existing soil conditions. Jeff Lowenfels' "Teaming with Fungi" outlines methods ranging from small-scale gardening to large-scale commercial agriculture, with specific protocols for different scenarios.
-
-Source: [[teaming-with-microbes-fungi]]
+tags: [[teaming-with-microbes-fungi]]
 
 ***
 
@@ -106,45 +95,11 @@ For crops that form arbuscular mycorrhizae (most vegetables, grains, legumes):
 
 For trees and shrubs requiring ectomycorrhizae:
 - Use species-specific inoculants when available
-- For pines: Hebeloma arenosum, [[pisolithus-arhizus]]
-- For oaks: Pisolithus arhizus, Scleroderma citrinum
-- For birches: Leccinum scabrum
-- For general-purpose nursery use: [[thelephora-terrestris]], Laccaria laccata, Inocybe species
+- For pines: Hebeloma arenosum, [[thelephora-terrestris]], Laccaria laccata, Inocybe species
 
 ### Non-Host Crops
 
 Do NOT inoculate non-mycorrhizal crops (brassicas, beets, buckwheat, spinach):
 - The inoculum will be wasted
 - Non-host plants do not produce the root exudates needed for fungal colonization
-- Planning crop rotations to avoid planting non-hosts before dependent crops is essential (see [[mycorrhizal-crop-rotation-guide]])
-
-***
-
-## Application Rates
-
-### General Guidelines
-
-While specific rates vary by product, general principles include:
-- More propagules per unit area increases the probability of successful colonization
-- Container growing allows higher concentrations of propagules per unit volume than field conditions
-- For critical applications (high-value crops, difficult sites), use higher rates
-- For established plantings, apply near root zones for maximum contact
-
-### Reinoculation
-
-Depending on conditions, periodic reinoculation may be beneficial:
-- After heavy tillage that destroys existing networks
-- After periods without host plants (fallow, non-host crops)
-- When soil conditions have degraded mycorrhizal populations (high phosphorus, chemical damage)
-- Every 1-2 years in container growing situations
-
-***
-
-## Success Factors
-
-### Critical Requirements
-
-1. **Root contact** — the most important factor; propagules must touch roots
-2. **Appropriate pH** — mycorrhizal fungi thrive in pH 5.5-7.0
-3. **Low phosphorus** — high phosphorus inhibits colonization (see [[mycorrhizal-fertilizer-reduction]])
-4. **Minimal soil disturbance** — tillage destroys networks (see [[soil-disturbance-mycorrhizal-impact]])
+- Planning crop rotations to avoid planting non-hosts before dependent crops is essential (see [[mycorrhizal-fertilizer-reduction]])

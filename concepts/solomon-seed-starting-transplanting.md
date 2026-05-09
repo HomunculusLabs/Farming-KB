@@ -109,10 +109,6 @@ For corn: classic OP sweet corn varieties are closely related to Native American
 
 ## See Also
 
-- [[seed-starting-reference]]
-
 - [[home-garden-seed-saving]]
-- [[permaculture-plant-propagation-guide]]
 - [[cold-frame-construction]]
-- [[zone-1-intensive-garden]]
 - [[jeavons-grow-biointensive-method-overview]]

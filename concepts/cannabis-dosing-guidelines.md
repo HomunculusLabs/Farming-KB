@@ -11,17 +11,14 @@ sources:
 
 ## Overview
 
-Cannabis dosing is inherently more complex than dosing conventional pharmaceuticals. The [[cannabis-endocannabinoid-system]] that cannabis interacts with varies significantly between individuals. The plant contains over 100 cannabinoids and 200+ terpenes that interact synergistically through the entourage effect, and individual responses vary enormously based on genetics, tolerance, metabolism, and the method of consumption. Understanding [[cannabis-drug-interactions-and-contraindications]] is critical. There is no single "correct dose" -- the goal is to find the minimum effective dose that produces the desired therapeutic or recreational effects with minimal side effects.
+Cannabis dosing is inherently more complex than dosing conventional pharmaceuticals. The [[cannabis-drug-interactions-and-contraindications]] is critical. There is no single "correct dose" -- the goal is to find the minimum effective dose that produces the desired therapeutic or recreational effects with minimal side effects.
 
 ## Why Cannabis Dosing Is Challenging
 
 Several factors make standardized cannabis dosing difficult:
 
 - **Variable potency**: Cannabis flower potency ranges from less than 5% to over 30% THC. Concentrates can exceed 90% THC. Without lab testing, potency is unknown
-- **Individual sensitivity**: Genetic differences in endocannabinoid system function, liver enzyme activity (particularly CYP450 enzymes), and receptor density create wide variation in response
-- **Tolerance**: Regular users develop tolerance to THC, requiring progressively higher doses for the same effect. Tolerance develops to THC but much less so to CBD
-- **Consumption meset-and-settingion, oral, sublingual, and topical routes have vastly different bioavailability, onset times, and duration of effects
-- **[[set-and-setting]]**: Psychological state, environment, and expectations significantly influence the experience
+- **Individual sensitivity**: Genetic differences in [[set-and-setting]]**: Psychological state, environment, and expectations significantly influence the experience
 - **Plant chemistry**: Different cannabinoid and terpene profiles produce different effects even at the same THC dose
 
 ## Consumption Methods and Bioavailability

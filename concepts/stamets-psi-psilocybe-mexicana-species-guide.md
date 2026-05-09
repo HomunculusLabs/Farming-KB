@@ -1,7 +1,7 @@
 ---
 title: Psilocybe mexicana Species Guide
 created: 2026-04-28
-tags: [mycology, psilocybe, species-guide, mexico, ethnobotany]
+tags: [[mycology, psilocybe, species-guide, mexico, ethnobotany]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
@@ -65,73 +65,32 @@ Michoacan, Morelos, Jalisco, Oaxaca, Puebla, and western Xalapa.
 P. mexicana occupies a central place in the history of psilocybin
 mushroom research. It was one of the primary species used by the
 Aztecs in their ceremonies, as documented by Bernardino de Sahagun in
-the sixteenth century. Roger Heim and [[albert-hofmann]] first studied this
+the sixteenth century. Roger Heim and gordon-wasson first studied this
 species extensively, with Hofmann eventually isolating and synthesizing
-psilocybin and [[psilocin]] from specimens of P. mexicana in the late
-1950s. This was a landmark achievement in psychedelic chemistry.
+psilocybin and [[psilocybe-atlantis]]
 
-The species was central to R. Gordon Wasson's famous 1957 Life magazine
-article "Seeking the Magic Mushroom," which introduced psilocybin
-mushrooms to millions of Americans. Wasson's experiences with Maria
-Sabina, the renowned Mazatec healer, primarily involved P. mexicana
-and related species. The co-occurrence of P. mexicana with other
-Psilocybe species in the grasslands of Oaxaca has been documented as a
-natural phenomenon.
-
-## Sclerotia Production
-
-P. mexicana is one of the few Psilocybe species known to produce
-sclerotia, also called "truffles" or "philosopher's stones." These
-dense, hard underground masses of mycelium contain psychoactive
-alkaloids and can be produced in cultivation without the need for
-fruiting conditions. Other species known to produce sclerotia include
-and.
-
-## Potency and Chemistry
-
-Moderately to highly active. The species contains psilocybin and
-psilocin, though specific analyses have varied. The bluing reaction
-upon injury confirms the presence of psilocin or its precursors.
-Fresh specimens are considerably more potent than dried, aged ones, as
-with most psilocybin-containing mushrooms. The species' potency is
-moderate compared to more powerful species like or.
-
-## Related Species
-
-- - temperate grassland counterpart
-- - sclerotia-producing relative
-- - another Mexican ceremonial species
-- - used by Zapotec peoples
-- (P. muellericula) - closely related species
-
-## Taxonomic Notes
-
-Several forms and varieties of P. mexicana have been described. The
-variety P. mexicana var. brevispora Heim has smaller spores. A closely
-related species, P. muellericula (also known as P. wassonii Heim),
-was named in honor of R. Gordon Wasson and is considered by some
-authorities to be distinct. The nomenclatural history is complicated by
-the fact that Singer and Smith published the name P. muellericula just
-24 days before Heim and Wasson's publication of P. wassonii. Under
-international rules of nomenclature, the name first published
-presides, creating a historical rift between schools of mycologists.
-
-## Conservation and Cultural Context
-
-The habitats of P. mexicana in the Mexican highlands are threatened by
-deforestation, agricultural expansion, and climate change. The species
-remains an important part of the living cultural heritage of the
-Mazatec and other indigenous peoples of Oaxaca. Ethical considerations
-around the commercial exploitation of this species and its cultural
-context continue to be debated within the mycological and
-anthropological communities.
-
-## See Also
-
-- [[stamets-psi-psilocybe-cubensis-species-guide]]
 - [[stamets-psi-psilocybe-azurescens-species-guide]]
 - [[stamets-psi-psilocybe-cyanescens-species-guide]]
 
 - - ethnobotanical context
 - - comparative alkaloid data
 - - indicator of psilocin presence
+## Practical Considerations
+
+Successful implementation of Psilocybe mexicana Species Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

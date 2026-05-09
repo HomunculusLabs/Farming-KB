@@ -3,7 +3,7 @@ title: Sheep Grazing
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, animal-husbandry, forage, livestock-health]
+tags: [[permaculture, animal-husbandry, forage, livestock-health]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -109,14 +109,8 @@ Sheep follow pigs in the systematic control of rampant blackberry over areas of 
 
 ## Related
 
-- [[permaculture-designers-manual-dune-stabilisation]] Topics
-
 - [[permaculture-designers-manual-animal-forage-systems]] - Forage systems design
-- [[permaculture-designers-manual-cattle-systems]] - Cattle in permaculture
 - [[permaculture-designers-manual-goat-management]] - Goat systems
-- [[permaculture-designers-manual-arid-climates]] - Arid zone management
-- Agroforestry integration
 - [[soil-erosion-control]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-water-quality]]

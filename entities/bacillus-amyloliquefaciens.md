@@ -6,8 +6,7 @@ tags:
   - bacteria
   - biocontrol
   - plant-growth-promoting
-  - [[permaculture]]
-[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] trol
+  - [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] trol
   - soil-biology
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,20 +15,9 @@ sources:
   - Chowdhury, S.P. et al. (2015). "Role of volatile compounds in the interaction of Bacillus amyloliquefaciens with plants and fungi." Frontiers in Microbiology 6: 1222.
   - Ryu, C.M. et al. (2004). "Volatile compounds emitted by rhizobacteria promote growth and induce systemic resistance in Arabidopsis." PNAS 101(20): 8127-8132.
   - Xu, Z. et al. (2018). "Bacillus amyloliquefaciens: A biocontrol agent for plant disease management." Biological Control 126: 71-81.
-  - Altabe [[solomon-soil-temperature-and-nighttime-plant-growth]](2019). "Bacillus amyloliquefaciens plant growth promoting activities." Microbiological Research 227: 126269.
----
-# Bacillus amyloliquefaciens
+  - Altabe [[bloomfield-fungal-plant-pathogens]] gens and stimulapermaculturene defenses.
 
-## Overview
-
-*Bacillus amyloliquefaciens* is a Gram-positive, endospore-forming soil
-bacterium in the family Bacillaceae, widely used as a plant growth-
-promoting rhizobacterium (PGPR) [[odonata-dragonflies-damselflies-ecology-and-biological-control]] agent.
-
-The species produces antimicrobial lipopeptides, polyketides, asnow-mold-fungi-cold-temperature-plant-pathogensanic compounds that suppr [[bloomfield-fungal-plant-pathogens]] gens and stimulapermaculturene defenses.
-
-It is a workhorse organism in [[phosphate-accumulators-sustainable-agriculture]], permaculture
-[[coleman-greenhouse-soil-management]], and commercial biofungicide formulations.
+It is a workhorse organism in [[coleman-greenhouse-soil-management]], and commercial biofungicide formulations.
 
 ## Taxonomy
 
@@ -46,7 +34,7 @@ Originally described by Fukumoto in 1943 as a source of alpha-amylase.
 The type strain FZB42 genome (2007) revealed 8.5% devoted to secondary
 metabolite synthesis — one of the largest known arsenals among bacteria.
 
-## Morphology [[plant-anatomy-and-physiology]]
+## Morphology plant anatomy and physiology
 
 - **Cell shape:** Rod-shaped, 0.7–0.9 × 1.8–3.0 µm.
 - **Motility:** Peritrichous flagella, highly motile.
@@ -112,7 +100,6 @@ other PGPR.
 
 ## Pathogens Suppressed
 
-- *[[fusarium-oxysporum]]* (Fusarium wilt)
 - *[[rhizoctonia-solani]]* (damping off, root rot)
 - *Botrytis cinerea* (gray mold)
 - *Phytophthora capsici* (phytophthora blight)

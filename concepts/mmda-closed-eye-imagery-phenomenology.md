@@ -81,11 +81,7 @@ MMDA was independently synthesized and named by both Shulgin and Dr. Gordon A. A
 
 ## Related Topics
 
-- [[mmda-2-compound-profile]]
 - [[essential-amphetamines-and-natural-precursors]]
-- [[consciousness-and-psychedelics]]
 - [[phenethylamine-set-and-setting]]
-- [[pihkal-qualitative-effects-themes]]
 - [[tweetio-series-ethoxy-homologues-pihkal]]
-- [[mmda-2-compound-profile]]
 - [[shulgin-designer-drugs-analysis]]

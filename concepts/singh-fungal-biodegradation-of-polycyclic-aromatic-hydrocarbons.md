@@ -23,22 +23,7 @@ environmental pollutants consisting of two or more fused benzene rings.
 They are generated through incomplete combustion of organic materials
 and are found in petroleum, coal tar, and various industrial effluents.
 The Singh source extensively documents the capacity of filamentous fungi,
-particularly [[brown-rot-and-white-rot-fungi-in-mycoremediation]], to degrade PAHs that are recalcitrant to
-bacterial attack, especially those with four or more rings.
-
-## PAH Structure and Environmental Persistence
-
-PAHs range from low-molecular-weight compounds such as naphthalene
-(two rings) and anthracene (three rings) to high-molecular-weight
-compounds including phenanthrene (three rings), pyrene (four rings),
-and the potent carcinogen benzo-a-pyrene (five rings). Environmental
-persistence increases with molecular weight and ring number.
-Low-molecular-weight PAHs are somewhat soluble and more readily
-degraded, while high-molecular-weight PAHs are highly hydrophobic,
-sorbing strongly to soil organic matter and remaining bioavailable
-for extended periods.
-
-## [[fungal-enzyme-systems]] for PAH Degradation
+particularly [[fungal-enzyme-systems]] for PAH Degradation
 
 Fungi deploy an extracellular, nonspecific enzymatic arsenal that
 confers advantages over bacterial intracellular systems. The principal
@@ -46,8 +31,7 @@ enzyme families involved include:
 
 - Laccase (EC 1.10.3.2): A multicopper oxidase that oxidizes PAHs
   through single-electron transfers, generating phenoxy and
-  phenoxy-derived radicals. Laccase from [[staycare-trametes-versicolor-bioremediation-applications]] and
-  [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] has demonstrated activity against anthracene,
+  phenoxy-derived radicals. Laccase from [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] has demonstrated activity against anthracene,
   phenanthrene, and benzo-a-pyrene. Mediator compounds such as
   1-hydroxybenzotriazole (HBT) and 2,2,6,6-tetramethylpiperidine-1-
   oxyl (TEMPO) can extend the substrate range of laccase.
@@ -118,7 +102,5 @@ mineralization:
 
 ## See Also
 
-- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]
-- basidiomycete fungi petroleum hydrocarbon cleanup
 - [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]
 - [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

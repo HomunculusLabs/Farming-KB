@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-Biodynamic farming and organic farming share a foundational commitment to avoiding synthetic chemicals and [[building-soil]] health, but they diverge significantly in philosophy, practices, certification standards, and scientific framing. Organic agriculture is primarily a regulatory framework focused on input restrictions and ecological management, while biodynamic agriculture is a holistic spiritual-ecological system developed by philosopher [[rudolf-steiner]] in 1924 that treats the farm as a self-sustaining organism embedded in cosmic and terrestrial rhythms.
+Biodynamic farming and organic farming share a foundational commitment to avoiding synthetic chemicals and [[rudolf-steiner]] in 1924 that treats the farm as a self-sustaining organism embedded in cosmic and terrestrial rhythms.
 
 ## Origins and Philosophy
 
@@ -45,17 +45,7 @@ Biodynamic agriculture originated in a series of eight lectures delivered by Rud
 
 Biodynamic farming treats the entire farm — soil, plants, animals, and humans — as an interconnected, self-sustaining organism. The ideal biodynamic farm (a "farm individuality") produces its own fertility through livestock integration, composting, and cover cropping, and aims to minimize external inputs. Organic farming, while encouraging similar practices, operates within a regulatory compliance framework: it specifies which inputs are prohibited (synthetic fertilizers, most synthetic pesticides, GMOs) and which are permitted, without necessarily requiring the holistic self-sufficiency that biodynamics demands.
 
-### The [[biodynamic-preparations]]
-
-The most distinctive feature of biodynamic farming is the use of nine specific preparations (numbered 500–508), applied in homeopathic doses:
-
-| Preparation | Composition | Purpose |
-|---|---|---|
-| 500 (Horn Manure) | Cow manure buried in a cow horn over winter | Stimulates soil biological activity, humus formation, root growth |
-| 501 (Horn Silica) | Finely ground quartz buried in a cow horn over summer | Enhances light absorption, photosynthesis, fruit quality, disease resistance |
-| 502 (Yarrow) | Yarrow flowers fermented in a stag bladder | Connects potassium and sulfur processes; supports flowering |
-| 503 (Chamomile) | Chamomile flowers fermented in a cow intestine | Stabilizes nitrogen, supports calcium mobilization in compost |
-| 504 ([[stinging-nettle]]) | Stinging nettle fermented in its own juice | Regulates iron, supports soil intelligence, stimulates compost |
+### The [[stinging-nettle]]) | Stinging nettle fermented in its own juice | Regulates iron, supports soil intelligence, stimulates compost |
 | 505 (Oak Bark) | Oak bark fermented in an animal skull | Provides calcium; regulates fungal balance, disease resistance |
 | 506 (Dandelion) | Dandelion flowers fermented in a cow mesentery | Connects silica and potassium; supports flowering and seed formation |
 | 507 (Valerian) | Valerian flower juice extract | Provides warmth, phosphorus; used as a compost spray |
@@ -120,6 +110,5 @@ Both systems overlap significantly with permaculture principles. Permaculture's 
 
 ## See Also
 
-- [[organic-farming-methods-comparison]]
 - [[comparison-biodynamic-vs-permaculture]]
 - [[knf-vs-chemical-farming-comparison]]

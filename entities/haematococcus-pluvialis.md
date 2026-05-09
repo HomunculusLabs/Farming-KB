@@ -106,16 +106,12 @@ CRISPR-Cas9 editing is under development for *H. pluvialis*, with early reports 
 
 ## See Also
 
-- [[chlorella-vulgaris]]
 - [[nannochloropsis-gaditana]]
-- [[arthrospira-platensis]]
 - [[saccharomyces-cerevisiae]]
-- [[glycine-max]]
-- [[aquaculture]]
 - [[permaculture]]
-- [[sustainability]]
-- [[climate-change]]
-- [[photosynthesis]]
-- [[anti-inflammatory]]
-- [[nutrition]]
-- [[fermentation]]
+- sustainability
+- climate change
+- photosynthesis
+- [[cannabis-anti-inflammatory-applications]]
+- nutrition
+- fermentation

@@ -1,7 +1,7 @@
 ---
 title: Cryptic Fungal Species
 created: 2026-04-28
-tags: [mycology, speciation, phylogenetics, taxonomy, genomics]
+tags: [[mycology, speciation, phylogenetics, taxonomy, genomics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -121,7 +121,7 @@ subtle ones, remains important for field identification and ecological study.
 
 ## See Also
 
-- [[fungal-species-estimates]]
 - [[fungal-taxonomic-impediment]]
-- [[environmental-dna-fungal-survey]]
 - [[biodiversity-fungi-tropical-fungal-diversity]]
+
+See also: [[fungal-identification-and-biodiversity-assessment]]

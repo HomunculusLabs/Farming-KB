@@ -45,9 +45,7 @@ Hyphae thoroughly insinuate themselves in decaying leaves, raising the protein c
 
 ## Life Cycle Complexity
 
-Ingoldian fungi are the asexual phases (anamorphs) of fungi that produce sexual spores in other habitats. The mycelia that form tetraradiate and sigmoid spores in streams are connected to the [[truffle-evolution-and-hypogeous-fungi]] that produce perithecia and other sexual structures on land.
-
-This pleomorphy -- the ability of a single organism to produce radically different spore types in different phases -- was first recognized by the [[fungal-kingdom-classification]]. Spore formation is not restricted to submerged locations; Ingoldians are also found on plants that overhang creeks, entering the water during rainstorms.
+Ingoldian fungi are the asexual phases (anamorphs) of fungi that produce sexual spores in other habitats. The mycelia that form tetraradiate and sigmoid spores in streams are connected to the [[fungal-kingdom-classification]]. Spore formation is not restricted to submerged locations; Ingoldians are also found on plants that overhang creeks, entering the water during rainstorms.
 
 ## Aero-Aquatic Relatives
 
@@ -83,51 +81,9 @@ The interplay between the specific topic discussed here and wider themes in scie
 
 ## Related
 
-- [[fungal-spore-dispersal-animals-wind]]
 - [[aquatic-fungi-and-ingoldian-spores]]
-- [[the-soil-food-web]]
-## Merged: Arthur Henry Reginald Buller -- Mycologist
-
-# Arthur Henry Reginald Buller
-
-A. H. Reginald Buller (1874-1944) was a British-born mycologist who spent his career at the University of Manitoba in Winnipeg, Canada, and became one of the most accomplished experimental mycologists of the twentieth century. His seven-volume Researches on Fungi remains one of the monumental works in the field.
-
-## Early Life and Career
-
-Buller studied at the University of Birmingham, where he earned his doctorate, and also studied at Leipzig. He became Professor of Botany at the University of Manitoba, where he remained for decades. He lived in the Fort Garry Hotel in Winnipeg, paying 50 Canadian dollars monthly -- well beyond the means of most professors.
-
-The hotel minimized domestic distractions, which was a lifelong imperative for Buller, whose eccentricities were legendary. His usual scholarly attire was a four-button black jacket and striped pants cut by a tailor in Birmingham. Although fashionable when he arrived in Winnipeg, this style became a peculiar costume over forty years.
-
-At the first meeting of the Mycological Society of America in 1932, Buller sat in the front row with his pant legs hitched up, revealing one white sock and the other dark. His colleagues never forgot the image.
-
-## Research on Spore Discharge
-
-Buller's greatest contributions were in the study of fungal spore discharge mechanisms. His meticulous observations of ballistospore launch, including the discovery of "Buller's drop" -- the fluid droplet that forms at the base of basidiospores before launch -- revolutionized understanding of how mushrooms disperse their reproductive cells.
-
-The appearance of Buller's drop on rust basidiospores established that rusts are basidiomycete fungi, a finding that resolved long-standing questions about their classification. This discovery connected the economically devastating rust fungi to the mushroom lineage, with implications for both taxonomy and plant pathology.
-
-Buller discovered that insects act as pollinators of rust fungi, transferring sex cells between compatible strains on barberry leaves. By advising plant pathologist John Craigie to study insects visiting infected leaves, Buller played a leading role in solving the puzzle of rust sexuality. This finding was crucial for understanding the [[fungal-interactions-living-plant-surfaces]] life cycle.
+- [[fungal-interactions-living-plant-surfaces]] life cycle.
 
 ## The Lloyd Connection
 
-In February 1920, Buller spent a day with [[fungal-kingdom-classification]] in Cincinnati. The meeting between the professor and the amateur millionaire was a rare delight for both bachelors, who were bound by mutual authority in the mycological community and a shared obsession with fungi.
-
-After their meeting, Lloyd requested a photograph of Buller for his Mycological Notes, and they corresponded about various fungi until Lloyd's death. In almost every letter, the friends referred to that winter's day in Cincinnati.
-
-## Later Years and Decline
-
-Buller was elected to the Royal Society of Canada and later to the Royal Society of London, accumulating an impressive string of post-nominal letters. However, his relationships with colleagues deteriorated over the years. Collaborations led to accusations of stolen ideas, and other colleagues resented old arguments. The campus became poisoned by stories about the old mycologist's transgressions.
-
-When Buller retired in 1936, the university comptroller turned him out of his office, confining him to a single desk in a crowded laboratory. His leather furniture was dumped outside the building and soaked in a rainstorm. The faculty club refused to accept the gift of his treasured billiard table.
-
-In 1939, Buller became stranded in New York during the outbreak of war and was forced to return to Winnipeg.
-
-## Death and Legacy
-
-In January 1944, after suffering from severe headaches for several months, Buller checked himself into the Winnipeg General Hospital and directed his concern to his unpublished research. He bequeathed his manuscripts to Kew and his extraordinary botanical library to the government's Dominion Rust Research Laboratory.
-
-Buller and his glioblastoma died in 1944. His ashes returned in a copper urn and were kept open on social occasions, allowing his ageing adversaries to add their cigarette ashes to the great man's bones. In 1963, the science building on campus was renamed the Buller Biological Laboratories.
-
-## Scientific Significance
-
-Buller's work bridged pure mycology and practical plant pathology. His research on rust fungi informed the barberry eradication programs that reduced [[fungal-interactions-living-plant-surfaces]] losses. His spore discharge studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller's drop" and "Buller's phenomenon," ensuring his place in the permanent vocabulary of mycology.
+In February 1920, Buller spent a day with [[fungal-interactions-living-plant-surfaces]] losses. His spore discharge studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller's drop" and "Buller's phenomenon," ensuring his place in the permanent vocabulary of mycology.

@@ -101,13 +101,8 @@ The essential oil has niche applications in perfumery and aromatherapy, though c
 
 ## See Also
 
-- [[hedychium-coronarium]]
 - [[hedychium-gardnerianum]]
-- [[zingiber-officinale]]
 - [[alpinia-galanga]]
-- [[curcuma-longa]]
 - [[elettaria-cardamomum]]
-- [[alpinia-purpurata]]
 - [[canna-indica]]
-- [[zingiber-zerumbet]]
 - [[boesenbergia-rotunda]]

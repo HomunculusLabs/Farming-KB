@@ -3,18 +3,7 @@ title: Mycorrhizal Inoculation Formulations
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, soil-biology, symbiosis]
-sources:
-  - "raw/papers/teaming-with-fungi-lowenfels.md"
----
-
-Updated: 2026-04-18
-
-## Overview
-
-Commercial mycorrhizal inoculants are available in several formulations for different application scenarios in agriculture, horticulture, and silviculture. Understanding the types of formulations, their proper use, and their limitations is essential for achieving successful mycorrhiza|mycorrhizal establishment. Jeff Lowenfels' "Teaming with Fungi" provides a detailed guide to these products and their application.
-
-Source: [[teaming-with-microbes-fungi]]
+tags: [[teaming-with-microbes-fungi]]
 
 ***
 
@@ -141,10 +130,7 @@ Mycorrhizal fungal spores will NOT grow and thrive if they do not come into cont
 - Later application still provides benefits but misses early growth advantages
 
 ***
-
 ## Related Topics
 
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
 - [[agricultural-chemicals-mycorrhizal-impact]]
-- [[mycorrhiza]]
 - [[mycorrhizal-agricultural-practices]]

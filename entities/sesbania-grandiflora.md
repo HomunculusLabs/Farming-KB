@@ -2,21 +2,7 @@
 title: "Sesbania grandiflora"
 created: 2026-04-28
 type: species
-tags: [permaculture, species, fabaceae, nitrogen-fixer, edible,
-  tropical, agroforestry, fodder, medicine]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "https://en.wikipedia.org/wiki/Sesbania_grandiflora"
-  - "https://pfaf.org/user/Plant.aspx?LatinName=Sesbania+grandiflora"
----
-
-# Sesbania grandiflora
-Sesbania grandiflora (agati, hummingbird tree) is a fast-
-growing nitrogen-fixing legume tree in Fabaceae native to
-Southeast Asia and Northern Australia. Widely cultivated in
-the tropics for edible flowers, leaves, and pods, fodder,
-medicine, and agroforestry. Notable for extremely rapid
+tags: [[agroforestry]]. Notable for extremely rapid
 growth (up to 8 m/year), waterlogging tolerance, and prolific
 large showy flowers popular in South/Southeast Asian cuisine.
 One of the most productive multipurpose tropical trees.
@@ -92,7 +78,7 @@ One of the most productive multipurpose tropical trees.
 ## Phytochemicals
 - **Saponins:** Triterpenoid saponins in leaves and seeds;
   mild raw-seed toxicity reduced by cooking
-- **Flavonoids:** Kaempferol, quercetin, isorhamnetin
+- **Flavonoids:** [[quercetin]], isorhamnetin
   glycosides; antioxidant
 - **Tannins:** Condensed tannins protect protein in
   ruminant digestion; reduce bloat
@@ -143,8 +129,6 @@ One of the most productive multipurpose tropical trees.
 - **Cuttings:** Stem cuttings root readily in moist conditions
 - **Pruning:** Cut at 0.5-1 m; regrows rapidly; prune
   every 2-3 months in fodder systems
-- **Pests:** Relatively pest-free; pod-borers on seed
 ## See Also
-- [[leucaena-alley-cropping-systems]]
-- [[gliricidia-sepium]]
-- [[alfalfa-medicago-sativa]]
+- alley-cropping-systems]]
+- [[medicago-sativa]]]

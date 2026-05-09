@@ -3,25 +3,13 @@ title: Permaculture Ethics and Design Principles
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Permaculture Ethics and Design Principles
+tags: [[consumer-versus-conserver-society]] demands circular systems where used items return to their source and are recycled naturally.
 
-Permaculture is a design system that integrates ecology, human communities, and agriculture into one cohesive whole. Coined by Bill Mollison and David Holmgren in 1978, the term evolved from "permanent agriculture" to "permanent culture" because the philosophy encompasses every facet of human life.
-
-> The definition of insanity is doing the same thing over and over again and expecting different results. ~ Einstein
-
-## The Sustainability Crisis
-
-Most continents now support many more people than they did a thousand years ago. The industrial revolution triggered a population explosion that strained every natural system. Current industrial systems are linear: resources flow from source to landfill in a straight line. A bottle of shampoo involves mining, refining, factory production, chemical release into water, and landfill disposal -- all using nonrenewable energy. [[consumer-versus-conserver-society]] demands circular systems where used items return to their source and are recycled naturally.
-
-Permaculture proposes that humans could make do with 40% less energy without sacrificing quality of life by localizing all energy and resource flows. This relates directly to the broader conversation about [[consumer-versus-conserver-society]] and [[permaculture-energy-descent-planning]].
+Permaculture proposes that humans could make do with 40% less energy without sacrificing quality of life by localizing all energy and resource flows. This relates directly to the broader conversation about [[permaculture-energy-descent-planning]].
 
 ## Three Ethics of Permaculture
 
-These three ethics form the moral foundation of all permaculture design. See also [[permaculture-ethics]] and [[permaculture-design-principles]].
+These three ethics form the moral foundation of all permaculture design. See also [[permaculture-farm-design-principles]].
 
 1. **Care for the Earth**: All things, living or non-living, have intrinsic worth. Soil, water, air, plants, and animals all deserve protection and stewardship.
 2. **Care for people**: Humanity is cared for through self-reliance and community responsibility. Access to resources and knowledge is essential.
@@ -31,19 +19,15 @@ Sustainable systems are circular -- used items go back to their source where the
 
 ## Seven Design Principles (Faires' Synthesis)
 
-Faires distills permaculture into seven core principles. For a more detailed treatment see [[permaculture-design-principles]] and [[permaculture-water-harvesting-earthworks]].
+Faires distills permaculture into seven core principles. For a more detailed treatment see [[permaculture-earthworks-and-water-harvesting]].
 
-1. **Everything is connected** -- Every element is connected to and supported by everything else. This echoes the [[permaculture-pattern-language]] understanding of natural systems.
-2. **Multiple functions** -- Every element should serve many functions. Permaculture focuses on function over aesthetics. See [[permaculture-principle-use-and-value-diversity]] and [[permitted-vs-forced-functions]].
-3. **Sustainable function** -- Functional design provides a useful product or surplus. Pollution is an overabundance of a resource; work results when one element doesn't help another. See [[permaculture-principle-produce-no-waste]].
-4. **Maximize useful energy** -- Decrease the waste of energy in any system. See [[permaculture-design-principles]].
-5. **Diversity** -- Successful design provides many useful connections between elements. See [[permaculture-design-principles]].
-6. **Pollution causes chaos** -- Systems that produce pollution break down. See [[permaculture-principle-apply-self-regulation]].
-7. **Cooperation over opposition** -- Use only what can be returned to the soil; build harmony into the functional organization of a system. See [[competition-cooperation-permaculture]].
+1. **Everything is connected** -- Every element is connected to and supported by everything else. This echoes the [[permaculture-principle-use-and-value-diversity]] and [[permaculture-principle-produce-no-waste]].
+4. **Maximize useful energy** -- Decrease the waste of energy in any system. See [[permaculture-farm-design-principles]].
+6. **Pollution causes chaos** -- Systems that produce pollution break down. See [[competition-cooperation-permaculture]].
 
 ## Connecting Principles to Practice
 
-These principles are not abstract philosophy -- they guide every design decision. For example, the principle of multiple functions means a single [[faires-forest-garden-design]] element like an apple tree provides fruit, shade, mulch material, bee forage, and windbreak. The principle of maximizing useful energy means designing [[backyard-water-harvesting]] systems that capture and store rainwater on site rather than pumping it in.
+These principles are not abstract philosophy -- they guide every design decision. For example, the principle of multiple functions means a single [[backyard-water-harvesting]] systems that capture and store rainwater on site rather than pumping it in.
 
 ## Sustainable Land Goals
 
@@ -68,26 +52,15 @@ When designing a system for land, the following goals guide the process:
 
 At its essence, permaculture is a series of questions: Where does the water come from and where does it go? How to cool a house without electricity? How to grow food abundantly without backbreaking labor? The answers come from working with nature rather than against it.
 
-The full design process includes [[faires-element-analysis-method]] for cataloging site elements, [[faires-zone-and-sector-planning]] for spatial organization, and [[permaculture-design]] for synthesis. The [[permaculture-design-process]] provides a broader framework, while [[edge-effect-in-permaculture]] helps analyze what a site can produce.
-
-## Related
-
-- [[permaculture-professional-design-ethics]]
-
-- [[faires-stock-and-bone-broth]]
+The full design process includes [[faires-zone-and-sector-planning]] for spatial organization, and [[permaculture-design-process]] provides a broader framework, while [[permaculture-professional-design-ethics]]
 
 - [[holmgren-permaculture-principles-7-9]]
 
-- [[permaculture-two-design-principles]]
-
 - [[permaculture-design]]
-- [[permaculture-ethics]]
 - [[regenerative-agriculture-history]]
-- [[faires-element-analysis-method]]
 - [[faires-zone-and-sector-planning]]
-- [[soil-food-web-structure]]
-- [[permaculture-design-principles]]
-- [[permaculture-water-harvesting-earthworks]]
+- [[permaculture-farm-design-principles]]
+- [[permaculture-earthworks-and-water-harvesting]]
 ## Merged: Permaculture History and Origins
 
 # Permaculture History and Origins

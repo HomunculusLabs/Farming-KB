@@ -104,17 +104,13 @@ The order Thraustochytrida contains numerous genera with unexplored biotechnolog
 
 ## See Also
 
-- [[chlorella-vulgaris]]
 - [[nannochloropsis-gaditana]]
-- [[arthrospira-platensis]]
 - [[saccharomyces-cerevisiae]]
-- [[mortierella-alpina]]
-- [[aquaculture]]
 - [[permaculture]]
-- [[fermentation]]
-- [[nutrition]]
-- [[sustainability]]
-- [[climate-change]]
-- [[photosynthesis]]
-- [[proteomics]]
-- [[anti-inflammatory]]
+- fermentation
+- nutrition
+- sustainability
+- climate change
+- photosynthesis
+- proteomics
+- [[cannabis-anti-inflammatory-applications]]

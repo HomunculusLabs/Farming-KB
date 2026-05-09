@@ -29,59 +29,13 @@ The soil food web is organized into distinct trophic levels:
   amino acids. Responsible for most nitrogen mineralization.
 - **Fungi**: Dominant in undisturbed (forest, prairie) soils. Specialize in
   decomposing complex organic polymers (lignin, cellulose, chitin). See
-  [[fungal-ecology]]. Fungal-dominated soils tend to have better aggregate
-  structure and higher carbon retention.
-- **Actinomycetes**: Filamentous bacteria that bridge the gap between
-  bacterial and [[fungal-decomposition]] strategies, important in degrading
+  [[fungal-decomposition]] strategies, important in degrading
   resistant compounds like chitin and cellulose.
 
 ### Level 2: Mutualists
 
 - **Mycorrhizal fungi**: Form symbiotic associations with plant roots,
-  exchanging mineral nutrients for carbohydrates. See [[mycorrhizal-symbiosis]].
-- **Nitrogen-fixing bacteria**: Rhizobium (legume nodules) and free-living
-  Azotobacter and Clostridium species convert atmospheric N2 into plant-
-  available forms.
-- **Plant growth-promoting rhizobacteria (PGPR)**: Pseudomonas and
-  Bacillus species that enhance plant growth through hormone production,
-  phosphate solubilization, and pathogen suppression.
-
-### Level 3: Microbial Feeders
-
-- **Protozoa**: Consume bacteria, releasing nitrogen in plant-available
-  ammonium form. Flagellates, amoebae, and ciliates occupy different
-  soil pore size classes. A single protozoan may consume 10,000 bacteria
-  per day.
-- **Bacterial-feeding nematodes**: Small nematodes that graze on bacterial
-  populations, also mineralizing nitrogen. Key genera include
-  Caenorhabditis and Acrobeloides.
-- **Fungal-feeding nematodes**: Specialize in consuming fungal hyphae,
-  regulating fungal biomass and releasing fungal-stored nutrients.
-  Aphelenchoides is a common genus.
-
-### Level 4: Higher Predators
-
-- **Predatory nematodes**: Feed on other nematodes, including plant
-  parasites. Important biological control agents.
-- **Microarthropods**: Mites (Acari) and springtails (Collembola) feed on
-  fungi, bacteria, and each other. Collembola selectively graze on fungi,
-  influencing fungal community composition.
-- **Earthworms**: Ecosystem engineers that create burrows (improving
-  aeration and water infiltration) and produce nutrient-rich casts.
-  Lumbricus terrestris is a keystone species in temperate soils.
-- **Larger predators**: Centipedes, spiders, beetles, and ants prey on
-  microarthropods and other invertebrates.
-
-## Nutrient Cycling
-
-The soil food web drives the nutrient cycle that sustains terrestrial life:
-
-1. **Plant litter** (leaves, stems, roots) enters the soil.
-2. **Decomposers** (bacteria, fungi) break down complex organic matter.
-3. **Microbial feeders** (protozoa, nematodes) consume decomposers,
-   mineralizing nutrients immobilized in microbial biomass.
-4. **Plants** absorb mineralized nutrients through roots, often facilitated
-   by [[mycorrhizal-networks]].
+  exchanging mineral nutrients for carbohydrates. See [[mycorrhizal-networks]].
 5. **Higher predators** regulate populations at lower levels, maintaining
    community balance.
 
@@ -121,26 +75,7 @@ Conventional agricultural practices severely disrupt soil food webs:
 - **Monoculture**: Reduces plant diversity, which in turn reduces microbial
   and faunal diversity.
 
-[[regenerative-agriculture]] practices that support soil food web health include
-cover cropping, compost application, reduced tillage, crop rotation, and
-diverse plantings.
-
-## Climate Connections
-
-The soil food web is a major factor in carbon sequestration:
-
-- Fungi store more carbon per unit biomass than bacteria due to their
-  higher C:N ratio and production of recalcitrant compounds (glomalin,
-  melanin).
-- Soil food web management (promoting fungi, reducing disturbance) can
-  sequester 0.4-1.2 tons of carbon per hectare per year.
-- Warming accelerates soil respiration (microbial CO2 release), potentially
-  turning soils from carbon sinks to sources.
-
-## See Also
-
-- [[fungal-ecology]]
-- [[mycelial-networks]]
+[[fungal-ecology]]
 - [[mycorrhizal-symbiosis]]
 - [[fukuoka-microbial-ecology-decomposition]]
 - soil microbiome

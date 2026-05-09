@@ -41,12 +41,7 @@ fraction of their potential value.
 Reusing greywater creates a tight cycle that uses far less
 energy. Water, food, and biodegradable soaps enter the
 household, mix with dirt and skin in shower and laundry, and
-flow into the soil or a [[gaias-garden-backyard-wetland-design]]. There, microbes and plants process the mixture.
-The result is not waste, but clean water and fertilizer,
-ready for recycling. The soaps and food bits become soil,
-trees, and flowers.
-
-With a [[greywater-systems-detailed]], instead of
+flow into the soil or a [[greywater-systems-detailed]], instead of
 burdening a sewage treatment plant, most household water grows
 plants and is released by transpiration into the air, cooling
 the garden on a hot day and eventually returning as rain. Each
@@ -117,8 +112,6 @@ support systems can be withdrawn.
 
 ## See Also
 
-- [[greywater-systems-detailed]]
 - [[gaias-garden-backyard-wetland-design]]
-- [[hemenway-soil-as-water-storage]]
 - [[gaias-garden-rainwater-roof-harvesting]]
 - [[hemenway-soil-food-web-garden]]

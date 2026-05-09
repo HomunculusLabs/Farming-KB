@@ -139,8 +139,8 @@ forest succession.
 
 ## See Also
 
-- [[curcuma-longa]] · [[curcumin]]
-- [[crocus-sativus]] · [[berberis-vulgaris]]
-- [[banisteriopsis-caapi]] · [[psychotria-viridis]]
-- [[echinopsis-pachanoi]] · [[tabebuia-avellanedae]]
-- [[arnica-montana]] · [[hydrastis-canadensis]]
+- [[curcumin]]
+- [[berberis-vulgaris]]
+- [[psychotria-viridis]]
+- [[tabebuia-avellanedae]]
+- [[hydrastis-canadensis]]

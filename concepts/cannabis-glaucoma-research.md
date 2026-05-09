@@ -79,16 +79,7 @@ Given that the mechanism is primarily CB1-mediated and the dose-dependent comple
 
 ## See Also
 
-- [[blesching-cannabis-glaucoma]]
-- cannabis for eye health
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-neuroprotection]]
-- [[cannabis-health-index]]
-
-## Source
-
-Uwe Blesching, *The Cannabis Health Index*, Glaucoma section
 - [[cannabis-for-vomiting-and-nausea]]
-- [[cannabis-therapeutic-index-overview]]
 - [[cannabis-and-diabetes]]

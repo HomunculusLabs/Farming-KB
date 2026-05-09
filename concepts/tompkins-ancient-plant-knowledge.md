@@ -131,8 +131,6 @@ researchers as visual confirmation of these ancient descriptions.
 
 ## See Also
 
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[plant-perception]]
-- [[bacterial-endophytes-plant-roots]]
 - [[plant-fungal-signaling-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]

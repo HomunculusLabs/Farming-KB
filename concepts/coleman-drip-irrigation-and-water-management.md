@@ -110,15 +110,9 @@ stress in the protected growing environment.
 
 ## Related
 
-- [[solomon-drip-irrigation-limitations-home-garden]] Concepts
-
 - [[coleman-beneficial-insects-and-ecological-pest-control]] — how
   irrigation solved an aphid problem
-- [[coleman-greenhouse-soil-management]] — soil moisture as part of
-  overall soil health
 - [[coleman-pest-management]] — pest pressure influenced by soil
   nitrogen and moisture
-- [[coleman-weed-control]] — strategic irrigation for pre-emergence
-  flaming
 - [[coleman-season-extension-timeline-and-frost-protection]] —
   temperature management related to moisture

@@ -133,9 +133,6 @@ Lamontagne (1998) studied the mosaic of land cover in Alaskan taiga:
 
 ## See Also
 
-- [[fungal-biodiversity-alpine-arctic]]
 - [[fungal-diversity-boreal-forests-taiga]]
-- [[ectomycorrhizal-ecology]]
 - [[fungal-roles-in-old-growth-forests]]
-- [[the-soil-food-web]]
 - [[fungal-biodiversity-forest-floor]]

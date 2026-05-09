@@ -20,25 +20,7 @@ type: concept
 
 Phosphate supplementation is a critical but often overlooked factor in
 mushroom cultivation. In the Gartz, Adam and Vorbrodt (1990) study on
-brassinosteroid effects in [[psilocybe-cubensis]], all substrates
-contained 5 g of monopotassium phosphate (KH2PO4) per liter. This
-standardization ensured that phosphorus availability was not a limiting
-factor, allowing the researchers to isolate the effects of the
-brassinosteroid treatment.
-
-## Chemical Properties of KH2PO4
-
-Monopotassium phosphate (KH2PO4), also known as potassium dihydrogen
-phosphate, is a soluble salt that dissociates in water to provide both
-potassium (K+) and phosphate (H2PO4-) ions. It has a molecular weight of
-136.09 g/mol and is highly soluble in water, making it ideal for
-incorporation into both liquid and solid cultivation media. The compound
-is widely used in microbiology and plant tissue culture because it
-provides two essential macronutrients in a single, easily metered reagent.
-
-In aqueous solution, KH2PO4 acts as a weak acid buffer around pH 6.2 to
-6.4, which falls within the optimal range for many fungal species
-including [[psilocybe-cubensis]]. This buffering capacity helps maintain
+brassinosteroid effects in [[psilocybe-cubensis]]. This buffering capacity helps maintain
 stable pH during the metabolic activity of growing mycelium, which
 tends to acidify its environment through organic acid secretion and
 carbon dioxide dissolution.
@@ -72,7 +54,7 @@ In fruiting body formation, potassium is involved in translocation of
 nutrients from the vegetative mycelium to developing mushrooms. Adequate
 potassium supply has been correlated with improved fruiting body size
 and number across multiple cultivated mushroom species including
-[[agaricus-bisporus]] and [[pleurotus-ostreatus]].
+[[pleurotus-ostreatus]].
 
 ## Concentration in the Gartz Study
 
@@ -127,6 +109,5 @@ may be warranted.
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[brassinosteroid]]
 - [[fruiting-body-development]]

@@ -109,8 +109,6 @@ The JADAM approach to tools follows a clear economic logic: avoid tools that cre
 
 ## See Also
 
-- [[ultra-low-cost-farming-overview]]
 - [[ultra-low-cost-integrated-farming]]
-- [[mushroom-substrate-comparison]]
 - [[mushroom-substrate-pasteurization-comparison]]
 - [[accessible-mushroom-cultivation-for-disabilities]]

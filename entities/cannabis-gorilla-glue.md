@@ -116,9 +116,7 @@ The "Gorilla Glue" trademark has been the subject of legal disputes. The adhesiv
 
 ## See Also
 
-- [[og-kush]] — Chemdawg-descended West Coast classic
 - [[cannabis-blue-dream]] — Balanced hybrid alternative for daytime use
-- [[jack-herer]] — Sativa-dominant contrast to Gorilla Glue's heavy effects
 - [[cap-junkie]] — Another modern high-potency hybrid
 - [[zombie-kush]] — Heavy indica with similarly sedating effects
-- [[white-widow-cannabis-strain]] — Resinous classic predecessor to modern high-THC hybrids
+- white-widow-cannabis-strain — Resinous classic predecessor to modern high-THC hybrids

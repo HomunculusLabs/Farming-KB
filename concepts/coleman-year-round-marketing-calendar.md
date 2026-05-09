@@ -1,38 +1,7 @@
----
-title: "Year-Round Marketing Caeliot-coleman [marketing, CSA, pricing, sales, business]
-created: 2026-04-28
-date: 2026-04-25
-updated: 2026-04-25
-sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
-type: concept
-tags: [reference]
----
 
 # Year-Round Marketing Calendar
 
-[[eliot-coleman]]'s winter harvest system is not only a production
-methodology but also a business strategy. By producing fresh greens
-and vegetables through the months when most local farms are dormant,
-Coleman's farm captures premium market segments and builds strong
-customer relationships that sustain the business year-round.
-
-## The Winter Market Opportunity
-
-In most temperate climates, the local food supply drops sharply
-between November and April. Farmers' markets close, CSA programs go
-on hiatus, and consumers rely on produce shipped from distant
-growing regions. This creates a significant market gap that a winter
-harvest farm can fill.
-
-Winter-grown salad greens, spinach, kale, and root vegetables command
-premium prices precisely because they are scarce and freshly harvested.
-Coleman's farm has consistently found that winter customers are among
-the most loyal and appreciative, recognizing the effort required to
-produce fresh food during the coldest months.
-
-## Winter CSA Models
-
-Community Supported Agriculture programs are particularly well-suited
+[[community-supported-agriculture-csa]] Agriculture programs are particularly well-suited
 to winter production. Coleman has developed several CSA models for the
 off-season:
 - **Extended-season CSA:** A single program that runs continuously
@@ -44,19 +13,7 @@ off-season:
   selection card to use at winter farmers' markets or farm stands.
 
 Winter CSA shares typically consist of salad greens, cooking greens,
-mollison designers cassava, and storage vegetables. Coleman packs shares in standard
-quantities but varies the mix based on weekly availability. Members
-accept that variety is lower in winter but quality and freshness are
-exceptional.
-
-## Seasonal Pricing Strategies
-
-Coleman advocates for pricing that reflects the true cost of winter
-production, including the capital investment in high tunnels, heating
-(if any), additional labor for harvest in cold conditions, and the
-higher per-unit cost of producing crops during short days. Key pricing
-principles include:
-- **Premium winter pricing:** coleman mache specialty should be priced higher
+[[coleman-mache-and-specialty-winter-greens]] should be priced higher
   than summer equivalents to reflect increased production costs.
   Customers understand and accept this premium in exchange for
   freshness and local sourcing.
@@ -89,10 +46,7 @@ expanding as production capacity allows.
 
 ## Succession for Continuous Supply
 
-The [[coleman-winter-harvest-planting-schedule]] is designed not only
-for production continuity but also for marketing continuity. Customers
-expect consistent availability of staple items like salad mix and
-spinach. [[succession-planting]] ensures that as one planting is exhausted,
+The [[succession-planting]] ensures that as one planting is exhausted,
 another is reaching peak production.
 
 Coleman tracks the harvest life of each planting and uses this data
@@ -120,31 +74,7 @@ and serves as its own marketing tool.
 Coleman educates customers about the winter harvest system through
 farm newsletters, website content, and direct conversation. When
 customers understand the technology and effort behind winter
-production — the high tunnels, cervantes season extension, careful variety selection,
-and cold-hardiness research — they develop a deeper appreciation
-for the product and a stronger connection to the farm.
-
-This educational approach transforms customers from price-sensitive
-shoppers into loyal advocates who are willing to pay premium prices
-and recruit new customers through word of mouth.
-
-## Spring Transition Marketing
-
-The transition from winter to spring production creates a marketing
-opportunity. As the variety and volume of available produce increases
-dramatically in March and April, Coleman highlights the seasonal shift
-with special spring shares, expanded farmers' market displays, and
-first-of-the-season announcements. This period of peak diversity
-reinvigorates customer enthusiasm after the more limited winter months.
-
-## Economic Viability
-
-The year-round marketing calendar transforms a seasonal farm into a
-full-time business. By generating revenue in every month, the farm
-avoids the cash flow gaps that plague seasonal operations. Winter
-production, while lower in total volume, generates disproportionate
-revenue per square foot due to premium pricing and reduced competition.
-This economic model makes small-scale farming viable without
+production — the high tunnels, [[square-foot-gardening]] due to premium pricing and reduced competition.
+This economic model makes [[small-scale-dairy-guide]] farming viable without
 off-farm income and supports investment in infrastructure like the
-[[coleman-moveable-greenhouse-system]] that further increases
 ## See Also

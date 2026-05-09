@@ -14,21 +14,11 @@ sources:
 type: concept
 ---
 
-# Topping, Pruning and [[training-cannabis]] Plants
-
-Topping, pruning, and training are mechanical techniques used to
-manipulate the shape, size, and yield potential of cannabis plants.
-[[greg-green-sinsemilla-and-pollination]]'s "The Cannabis Grow Bible" provides detailed guidance on
+# Topping, Pruning and [[greg-green-sinsemilla-and-pollination]]'s "The Cannabis Grow Bible" provides detailed guidance on
 these methods, explaining that they are strain-dependent and require
 experimentation to achieve optimal results. These techniques complement
 the advanced methods covered in
-[[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-setups but can be applied to any growing style.
-
-## Topping
-
-Topping is the practice of removing the main growing tip of the plant
-during the vegetative stage. [[cannabis-vegetative-stage-management]] covers
+[[cannabis-vegetative-stage-management]] covers
 the optimal timing window. The procedure involves cutting the top of
 the plant just above the last branch formation, typically during the
 3rd or 4th week of vegetative growth. The cut is made by shearing away
@@ -64,53 +54,7 @@ Plants are generally pruned 3 to 4 weeks into their vegetative cycle
 but can be pruned sooner, later, or more than once. A critical rule:
 pruning during flowering will cause problems with bud production because
 the plant diverts energy from bud growth into branch and leaf
-production, resulting in slower bud development. [[cannabis-flowering-stage-management]]
-explains why this hormonal shift occurs.
-
-## The Pruning Path
-
-Topping follows a branching multiplication pattern:
-
-1. Prune the main stem -- it splits into two stems.
-2. Prune both new stems -- you get four stems.
-3. Attempt to prune each of the four stems to create eight stems --
-  this depends on the strain and its branching limit.
-
-However, there is a practical limit. With a plant that is 4 nodes high,
-the most shoots achievable through repeated pruning is approximately 32.
-Beyond this, the strain's genetic branching limit typically prevents
-further multiplication. Each node should produce some bud during
-flowering, so maximizing node count through strategic pruning can
-significantly increase yield potential.
-
-## Pruning Technique
-
-Prune cuts should be made using clippers at a 45-degree angle to the
-shoot being cut. This angle promotes healing and reduces the risk of
-infection at the cut site.
-
-## Bush Training
-
-Some growers prefer to keep their plants small and wide rather than
-tall. Cannabis is well-suited to bush-style training:
-
-1. During the 3rd week of vegetative growth, prune half the plant's
-   branches and leave the other half.
-2. Never remove all branches -- cannabis plants need at least 50% of
-   their leaves to continue growing without fatal stunting.
-3. Prune evenly per side to maintain the 50% threshold.
-4. The main top cola can also be pruned to split it into multiple
-   parts.
-5. Wait until the 4th or 5th week of vegetative growth and prune the
-   other half (only if the previous cuts have grown new branches and
-   leaves).
-6. By the 7th week, the plant will be more concerned with growing
-  outwards than upwards.
-
-With the right strain, a single bush-trained plant can cover an entire
-desk surface, drooping over the sides and hiding the pot.
-
-## Stem Training ([[low-stress-training]])
+production, resulting in slower bud development. [[low-stress-training]])
 
 Training is the art of tying down the plant's main stem so it grows in
 an S-shaped pattern. This technique is used to prevent plants from
@@ -147,4 +91,3 @@ unintentionally.
 
 Thinning primarily applies to outdoor growers but is also relevant for
 SOG, ScrOG, and BOG indoor setups. The goal is to maintain uniform plant
-height across the grow area for even light distribution.

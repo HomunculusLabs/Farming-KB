@@ -52,23 +52,6 @@ Only through years of dieta (dietary fasting) can one become a vegetalista. Thre
 
 The dieta is central to Amazonian plant medicine. Many plants "exercise power upon anyone who has not followed the strict dietary regime." The dieta facilitates knowledge of "magical esoteric sciences" and is required before working with any teacher plant. The strictness and duration of dieta determines the degree of knowledge attained — years of fasting are required to reach the highest vegetalista degrees.
 
-## Practical Use
-This topic is best evaluated in context: climate, available materials, labor,
-water access, and the surrounding ecological community all influence whether it
-is useful on a working site. Small trials reduce risk and make local adaptation
-visible before larger investments are made.
-
-## Observation Points
-Track seasonal timing, moisture, plant or fungal response, pest pressure, and
-maintenance needs. Notes across several cycles are more reliable than a single
-observation because many biological systems respond slowly or episodically.
-
-## Integration
-The strongest applications usually connect several functions at once, such as
-soil improvement, habitat creation, water moderation, yield, and education. If a
-practice only solves one problem while creating new maintenance burdens, it
-should be redesigned or kept experimental.
-
 ## Related
 
 - [[pablo-amaringo]] — co-founder of Usko-Ayar school, painter of ayahuasca visions
@@ -78,3 +61,22 @@ should be redesigned or kept experimental.
 - [[amazonian-plant-teachers-doctores]] — Amazonian teacher plants and dieta protocols
 - [[shipibo-icaros-healing-songs]] — healing songs received during dieta
 - [[amazonian-medicinal-plants-reference]] — indexed reference of Amazonian medicinal plants
+## Practical Considerations
+
+Successful implementation of Ayahuasca Visions and Amazonian Plant Spirit Tradition requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

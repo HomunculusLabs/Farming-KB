@@ -3,7 +3,7 @@ title: Mycorrhizal Phosphatase Activity Detection by ELF-97 Substrate
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 
@@ -74,14 +74,7 @@ Previous methods (Fast Blue RR salt with alpha-naphthyl phosphate) produced dark
 
 ## Related Topics
 
-- [[ion-selective-microelectrodes-ectomycorrhizal-roots]] - Microelectrode techniques
 - [[mycorrhizal-compartmented-culture-systems]] - Compartmented culture methods
-- [[mycorrhizal-nutrient-transport]] - Phosphorus nutrition in mycorrhiza
-
-## See Also
-
 - [[fungal-enzymatic-capabilities]] - Broader fungal enzyme systems including phosphatases
-- [[mycorrhizal-mineral-weathering-nutrient-acquisition]] - Mineral weathering and nutrient acquisition by mycorrhizae
 - [[ectomycorrhizal-remediation]] - Exploration types relevant to phosphatase distribution patterns
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

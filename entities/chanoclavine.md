@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-Chanoclavine is a clavine-type ergot alkaloid and a key intermediate in the biosynthetic pathway leading to lysergic acid derivatives including **[[lsd]]** and **[[ergotamine]]**.
+Chanoclavine is a clavine-type ergot alkaloid and a key intermediate in the biosynthetic pathway leading to lysergic acid derivatives including **[[ergotamine]]**.
 
 It is produced by fungi in the Clavicipitaceae family, most notably *Claviceps purpurea* (ergot fungus) and various endophytic species of *Epichloë* and *Neotyphodium*.
 
@@ -55,9 +55,7 @@ Chanoclavine occupies a central position in the ergot alkaloid biosynthetic path
 
 The pathway begins with prenylation of L-tryptophan by dimethylallyltryptophan synthase (DMATS) to form 4-dimethylallyl-L-tryptophan (4-DMAT).
 
-Subsequent methylation, oxidation, and cyclization steps catalyzed by enzymes including easF, easC, and easE produce **[[agroclavine]]**.
-
-Agroclavine is then oxidized by the cytochrome P450 enzyme **[[elymoclavine]]** oxidase to form elymoclavine.
+Subsequent methylation, oxidation, and cyclization steps catalyzed by enzymes including easF, easC, and easE produce **[[elymoclavine]]** oxidase to form elymoclavine.
 
 Chanoclavine-I is formed from the oxidation of agroclavine (or a closely related intermediate), though the exact enzymatic steps remain partially characterized.
 
@@ -77,47 +75,12 @@ The compound does not produce hallucinogenic or psychoactive effects in humans a
 
 Its pharmacological interest is primarily academic — understanding chanoclavine's receptor profile helps clarify which structural features of ergoline derivatives confer serotonergic potency.
 
-The absence of the C-9/C-10 double bond and the carboxyl group in chanoclavine (both present in **[[lysergic-acid]]**) appears critical for high-affinity 5-HT₂A binding.
-
-## Natural Occurrence
-
-Chanoclavine is found in:
-
-- **Claviceps purpurea** (ergot fungus) — sclerotia on cereal grains.
-- **Epichloë festucae** and related endophytic species — in mutualistic association with grasses.
-- **Neotyphodium** spp. — endophytes of tall fescue and perennial ryegrass.
-- **Aspergillus fumigatus** — fumitremorgin and clavine-producing strains.
-
-In endophyte-infected grasses, chanoclavine and its derivatives contribute to the insect-deterrent properties that protect the host plant.
-
-The total ergot alkaloid content of infected grasses typically ranges from 0.5–5 ppm (dry weight), with chanoclavine representing a variable fraction depending on species and strain.
-
-Concentrations are highest in seed heads and young leaf tissue.
-
-## Related Compounds
-
-Chanoclavine is structurally related to the full ergot alkaloid family through shared ergoline biosynthesis.
-
-**Direct pathway neighbors:**
-
-- **[[agroclavine]]** — immediate biosynthetic precursor.
-- **[[elymoclavine]]** — downstream oxidation product on the path to lysergic acid.
+The absence of the C-9/C-10 double bond and the carboxyl group in chanoclavine (both present in **[[agroclavine]]** — immediate biosynthetic precursor.
 - **[[lysergol]]** — reduced form of lysergic acid, sharing the D-ring hydroxyl pattern.
-- **[[lysergic-acid]]** — the central scaffold of all lysergic acid-derived ergot alkaloids.
 - **[[ergotamine]]** — clinically important ergopeptine derived from lysergic acid.
-- **[[lysergic-acid-amide]]** (ergine/LSA) — psychoactive simple amide of lysergic acid.
-
-**Structural analogues:** Festuclavine, isofestuclavine, setoclavine, and penniclavine are all clavine-type alkaloids produced via alternative branches of the same pathway.
-
-## See Also
-
-- [[lysergic-acid]]
-- [[ergotamine]]
+- **[[lysergic-acid]]
 - [[agroclavine]]
-- [[elymoclavine]]
 - [[lysergol]]
-- [[lysergic-acid-amide]]
 - [[lsd]]
-- [[ergometrine]]
 - [[ergocristine]]
 - [[ergocryptine]]

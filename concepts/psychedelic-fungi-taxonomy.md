@@ -1,7 +1,7 @@
 ---
 title: Psychedelic Fungi Taxonomy
 created: 2026-04-28
-tags: [mycology, taxonomy, chemistry, ethnobotany]
+tags: [[mycology, taxonomy, chemistry, ethnobotany]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
@@ -118,10 +118,6 @@ production of psilocybin and related compounds.
 
 ## See Also
 
-- [[ethnobotany-of-psychedelic-fungi]]
-
 - [[psilocybin-mushrooms-biology]]
-- [[entheogenic-fungi-history]]
 - [[psilocybin-pharmacology]]
-- [[mushroom-identification]]
 - [[fungal-biodiversity]]

@@ -32,39 +32,12 @@ The species is most commonly found on members of the Russulaceae, particularly s
 
 ### Cantharellaceae
 
-C. arbuscula colonizes the basidiomes of [[cantharellus-cibarius-entity]] so thoroughly that isolation of that species from tissue culture is effectively impossible (Schouten and Waandrager 1979). This has practical implications for mycologists attempting to culture chanterelles from wild-collected specimens, as C. arbuscula contamination can easily outcompete the host fungus on artificial media.
-
-### Xylariaceae and Hypoxylaceae
-
-Many Xylariales species serve as hosts, with Hoch (1977b) documenting the relationship on numerous occasions. C. arbuscula has been recorded on stromata of Diatrype and Hypoxylon, where it grows inconspicuously because it is small and the same color as its substratum (Helfer 1991). capronia-parasitica is another fungicolous species found on similar stromatic substrata, often on old stromata of Diatrype and Hypoxylon.
-
-### Polyporaceae
-
-C. arbuscula is commonly found on bracket fungi including [[piptoporus-betulinus]]. On decaying polypore sporocarps, it forms part of a characteristic community alongside rhinotrichella-globulifera, [[clonostachys-rosea]], c.-catenulata, gliocladium-polyporicola, and g.-viride. These species collectively represent the fungicolous hyphomycete community characteristic of decaying bracket fungi in temperate forests.
-
-### Other Hosts
-
-The species has been recorded on numerous additional fungal hosts, including species of Gymnopus and Marasmius, sometimes almost enveloping the mushroom. The inner part of the gall formed on these hosts is composed of the hyphae of the host itself, with C. arbuscula developing on the surface and within the basidiome tissue.
-
-## Growth and Life Cycle
-
-C. arbuscula either sporulates quickly and profusely on fresh host sporocarps or develops as a symptomless endophyte, revealing its presence only when it begins to sporulate on old host sporophores or when small pieces of the sporophores are placed on agar medium (Barnett and Lilly 1958; Nicot 1968). It generally colonizes the host basidiome without immediately killing the host tissue, representing a biotrophic or hemibiotrophic nutritional strategy. On artificial media, the fungus grows readily and can be isolated from infected host tissue by transferring small pieces to standard mycological media.
-
-The ability to exist as a symptomless endophyte within living mushroom tissue is particularly noteworthy. This hidden phase may allow C. arbuscula to spread within host populations without being detected, emerging to sporulate only when host tissue begins to senesce or when environmental conditions become favorable for reproduction.
-
-## Mycoparasitism Mechanism
-
-The fungus typically colonizes the basidiome tissue of host mushrooms, often spreading throughout the fruiting body. Infected hosts generally do not survive, suggesting a necrotrophic component to its parasitism. It may compete with other fungicolous fungi for the same host resources. The mechanism of host penetration and nutrient acquisition involves direct hyphal contact with host tissue, though detailed ultrastructural studies of the interaction interface are limited.
-
-## Biocontrol Relevance
-
-While not widely used as a biocontrol agent itself, C. arbuscula is of ecological interest because it can parasitize the mycoparasite [[mycogone-perniciosa-entity-the-mushroom-cultivator]], the cause of wet bubble disease in cultivated mushrooms (Gandy 1979). acremonium-strictum also parasitizes M. perniciosa and can inhibit its growth, representing a complex web of mycoparasitic interactions among mushroom pathogens and their parasites. This trophic cascade, where a mycoparasite is itself parasitized by another fungus, illustrates the complex food web relationships that exist among fungicolous organisms.
+C. arbuscula colonizes the basidiomes of [[piptoporus-betulinus]]. On decaying polypore sporocarps, it forms part of a characteristic community alongside rhinotrichella-globulifera, [[mycogone-perniciosa-entity-the-mushroom-cultivator]], the cause of wet bubble disease in cultivated mushrooms (Gandy 1979). acremonium-strictum also parasitizes M. perniciosa and can inhibit its growth, representing a complex web of mycoparasitic interactions among mushroom pathogens and their parasites. This trophic cascade, where a mycoparasite is itself parasitized by another fungus, illustrates the complex food web relationships that exist among fungicolous organisms.
 
 ## Association with Other Fungicolous Fungi
 
 C. arbuscula is frequently found alongside other fungicolous species on decaying polypore sporocarps. The community of fungicolous hyphomycetes on decaying bracket fungi typically includes:
 
-- [[clonostachys-rosea]] and C. catenulata, which also attack the sclerotia of Botrytis species
 - [[verticillium-biguttatum]], a mycoparasite that can attack both hyphae and sclerotia of Rhizoctonia solani
 - gliocladium-polyporicola and G. viride, which grow on the surface of perennial polypore carpophores
 - rhinotrichella-globulifera, commonly found in association with C. arbuscula on polypores
@@ -105,7 +78,7 @@ The phylogenetic placement of C. arbuscula within the Ascomycota has been a subj
 
 ## Comparison with Other Fungicolous Hyphomycetes
 
-C. arbuscula can be compared with other common fungicolous hyphomycetes to illustrate the diversity of strategies employed by fungi that colonize other fungal sporocarps. Unlike [[verticillium-biguttatum]], which shows some degree of host specificity and is primarily associated with soil-borne fungi, C. arbuscula is remarkably polyphagous across both Ascomycota and Basidiomycota hosts. Compared with [[gliocladium-roseum]], which is a destructive mycoparasite that actively kills host tissue, C. arbuscula maintains a more balanced relationship with its hosts, at least initially, through its biotrophic endophytic phase. These comparisons reveal the spectrum of fungicolous lifestyles from biotrophic endophytism through balanced parasitism to destructive necrotrophy, with C. arbuscula occupying an intermediate position that can shift toward necrotrophy as host tissue senesces.
+C. arbuscula can be compared with other common fungicolous hyphomycetes to illustrate the diversity of strategies employed by fungi that colonize other fungal sporocarps. Unlike [[gliocladium-roseum]], which is a destructive mycoparasite that actively kills host tissue, C. arbuscula maintains a more balanced relationship with its hosts, at least initially, through its biotrophic endophytic phase. These comparisons reveal the spectrum of fungicolous lifestyles from biotrophic endophytism through balanced parasitism to destructive necrotrophy, with C. arbuscula occupying an intermediate position that can shift toward necrotrophy as host tissue senesces.
 
 ## Observational Methods
 
@@ -115,11 +88,8 @@ Microscopic examination of suspect material reveals the characteristic branched 
 
 ## See Also
 
-- [[clonostachys-rosea]] — another common fungicolous species on polypores
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]] — a mushroom pathogen parasitized by C. arbuscula
-- [[gliocladium-roseum]] — destructive mycoparasite of related ecology
 - [[verticillium-biguttatum]] — contact mycoparasite on polypores and Rhizoctonia
 - Russula — preferred host genus for C. arbuscula
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]

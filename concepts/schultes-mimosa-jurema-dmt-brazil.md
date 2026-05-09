@@ -18,10 +18,7 @@ Mimosa hostilis (syn. Mimosa tenuiflora), known as the **Jurema
 Tree**, is a sparsely spiny treelet native to the dry caatingas of
 eastern Brazil. It is one of the most significant hallucinogenic plants
 of South America, valued for its root bark which contains high
-concentrations of [[dmt-dimethyltryptamine-experience-guide]]. The plant has played
-a central role in the ceremonial life of several indigenous tribes of
-Pernambuco and continues to be important in modern contexts as an
-[[schultes-ayahuasca-magic-drink-amazon]] analog.
+concentrations of [[schultes-ayahuasca-magic-drink-amazon]] analog.
 
 ## Botanical Profile
 
@@ -67,23 +64,7 @@ Goncalves de Lima, "Observacoes sobre o vinho da Jurema," remains an
 important early ethnobotanical record of this practice.
 
 The indigenous ceremonial use of Jurema represents a tradition
-independent of the Amazonian [[schultes-ayahuasca-magic-drink-amazon]] complex, demonstrating that
-DMT-containing plants were discovered and utilized by multiple cultures
-across South America.
-
-## Juremahuasca: The Modern Ayahuasca Analog
-
-Mimosa tenuiflora has become widely known in contemporary contexts
-through the preparation called **Juremahuasca** or **Mimohuasca** — an
-ayahuasca analog that is considered among the most psychoactive and
-easiest to tolerate of all such preparations.
-
-The recipe, per person, calls for:
-- 3g Peganum harmala (Syrian Rue), finely ground
-- 9g root husk of Mimosa tenuiflora
-- Lemon or lime juice
-
-The ground seeds of [[schultes-syrian-rue-seeds-civilization]] are soaked in water and swallowed or
+independent of the Amazonian [[schultes-syrian-rue-seeds-civilization]] are soaked in water and swallowed or
 taken in a gelatin capsule. Fifteen minutes later, the boiled mixture of
 lemon or lime juice and Mimosa husk is consumed. After 45 to 60 minutes
 — often after brief nausea or vomiting — the visions begin.
@@ -129,11 +110,7 @@ preparations.
 
 ## See Also
 
-- [[schultes-ayahuasca-analogs-dmt-plants]] — comprehensive guide to
-  DMT-containing plants used as ayahuasca substitutes
 - [[schultes-ayahuasca-magic-drink-amazon]] — the traditional Amazonian
   preparation and its cultural context
-- [[schultes-syrian-rue-seeds-civilization]] — Peganum harmala, the
-  MAO-inhibiting companion plant
 - [[schultes-psychotria-chacruna-dmt-admixture]] — the primary Amazonian
   DMT source for traditional ayahuasca

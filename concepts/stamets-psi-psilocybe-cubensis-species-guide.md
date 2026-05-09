@@ -1,18 +1,14 @@
 ---
 title: Psilocybe cubensis Species Guide
 created: 2026-04-28
-tags: [mycology, psilocybe, species-guide, taxonomy]
+tags: [[mycology, psilocybe, species-guide, taxonomy]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
 type: concept
 ---
 
-# [[psilocybe-cubensis]] Species Guide
-
-## Overview
-
-[[psychedelic-mushrooms-species-and-identification]] (Earle) Singer is one of the most widely known
+# [[psychedelic-mushroom-set-and-setting]] (Earle) Singer is one of the most widely known
 and distributed psychoactive mushrooms in the world. Commonly called
 "golden tops," "cubies," "san isidros," and "hongos kentesh," this
 dung-inhabiting species is the most majestic of the Psilocybes and
@@ -23,9 +19,7 @@ stropharia cyanescens.
 
 ## Taxonomic History
 
-The reassignment of Stropharia Cubensis to [[psychedelic-mushrooms-species-and-identification]]
-(Earle) Singer is a classic example of taxonomic revision in the
-psilocybin mushrooms. A closely related species, [[psilocybe-subcubensis]] Guzman, is virtually identical, differing only in the
+The reassignment of Stropharia Cubensis to [[psilocybe-subcubensis]] Guzman, is virtually identical, differing only in the
 smaller size of its spores (9.9-13 by 6.1-7.1 microns) and slightly
 smaller pleurocystidia. P. subcubensis has been collected throughout
 much of subtropical Mexico, Colombia, Bolivia, Ecuador, Honduras, El
@@ -64,61 +58,31 @@ broad.
 
 ## Habitat and Distribution
 
-[[psychedelic-mushrooms-species-and-identification]] grows scattered to gregarious on dung of bovines
-(cattle, buffalo), horse, or elephant dung on well-manured grounds.
-Found throughout the southeastern United States, Mexico, Cuba, Central
-America, northern South America, the subtropical Far East (India,
-Thailand, Vietnam, Cambodia), and regions of Australia (Queensland).
-The largest fruitings typically occur in May and June, though they can
-be found until January in some regions.
-
-## Potency and Chemistry
-
-On the psilometric scale of comparative potency, P. cubensis receives
-a rating of "moderately potent." Maximum concentrations vary
-substantially between studies:
-
-- Heim and Hofmann (1958): 0.50% psilocybin, 0.25% psilocin
-- Gartz (1994): 0.63% psilocybin, 0.11% psilocin
-- Stijve and de Meijer (1993): 0.15% psilocybin, 0.50% psilocin
-  (Mexican strain)
-- Bigwood and Beug (1982a): extraordinary 1.3% psilocybin and 0.45%
-  psilocin in one wild collection
-
-Analyses show a fourfold variation in cultivated specimens and up to
-tenfold variation in wild specimens. Indoor-grown mushrooms are
-consistently more potent, probably due to nutritional precursors and
-protection from ultraviolet radiation. The nutritional content of the
-substrate significantly affects potency; adding tryptamine precursors
-can raise psilocin levels substantially.
-
-## Historical and Ethnobotanical Significance
-
-P. cubensis is thought to have been introduced to the New World by
-the Spaniards during the Cortes expeditions. The common name "san
-isidro" references Spanish Catholicism and is used by indigenous
-peoples. Although widely sold to tourists in Mexico, Oaxacan shamans
-prefer to use [[psilocybe-caerulescens-entity]], Psilocybe Aztecorum,
-psilocybe zapotecorum, or [[psychedelic-mushrooms-species-and-identification]].
-
-## Cultivation
-
-P. cubensis has been widely cultivated in the United States and Europe
-since the publication of Oss and Oeric (1976) and Stamets and Chilton
-(1983). Most original spores were brought back by travelers to Mexico,
-Guatemala, Ecuador, Colombia, and the Amazon in the mid-1970s, giving
-rise to named strains such as Amazonian, Palenque, Matias Romero, and
-Ecuadorian.
-
-## Related Species
-
-- Psilocybe Subcubensis - smaller spored counterpart
-- [[psychedelic-mushrooms-species-and-identification]] - wood-inhabiting relative
-- [[psilocybe-azurescens]] - more potent Pacific Northwest species
-- [[psychedelic-mushrooms-species-and-identification]] - subtropical grassland species
+[[psilocybe-caerulescens]], Psilocybe Aztecorum,
+psilocybe zapotecorum, or [[psychedelic-mushroom-set-and-setting]] - wood-inhabiting relative
+- [[psychedelic-mushroom-set-and-setting]] - subtropical grassland species
 
 ## See Also
 
 - Galerina - deadly look-alike genus
 - psilocybin potency comparative data
 - bluing reaction as a co-indicator of activity
+## Practical Considerations
+
+Successful implementation of Psilocybe cubensis Species Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

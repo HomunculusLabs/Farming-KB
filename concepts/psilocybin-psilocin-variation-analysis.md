@@ -9,7 +9,7 @@ type: concept
 created: 2026-05-07
 ---
 
-# Psilocybin and Psilocin Variation Analysis
+# [[psilocin]] Variation Analysis
 
 ## Overview
 
@@ -33,11 +33,7 @@ using a butanol-acetic acid-water (12:3:5) solvent system.
 
 ## Cultivation Protocol
 
-A selected Amazonian strain of *P. cubensis*, originating from a spore print
-collected near Pucallpa, Peru (Repke et al., 1977), was grown in controlled
-miniculture. Wide-mouth half-pint jars (~250 ml) containing 10 g of rye grain
-and 15 ml of water were autoclaved and inoculated under sterile conditions.
-Jars were shaken every four days over 28 days to distribute mycelium evenly.
+A selected Amazonian strain of *P. cubensis*, originating from a [[mycelium]] evenly.
 Grain was then cased with a mixture of peat, calcium carbonate, and
 perlite/vermiculite. Mushrooms were watered with sterile water every two days.
 The first flush occurred four to five weeks after inoculation. Sporocarps were
@@ -123,15 +119,9 @@ Several factors contribute to the observed variability:
 The findings carry significant practical implications. Users of *P. cubensis*
 have no reliable way to predict the amount of psilocybin or psilocin they are
 ingesting based on dry weight alone. Variability in subjective psychedelic
-experience likely stems not only from set and setting, but also from genuine
-dosage differences that can span an order of magnitude. The flush-dependent
-psilocin pattern further complicates dosing, since most recreational material
-likely comes from early flushes where psilocin is minimal, while the overall
-tryptamine load changes meaningfully with later harvests.
+experience likely stems not only from [[tryptamine]] load changes meaningfully with later harvests.
 
 ## See Also
 
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
-
-- [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
+- [[psilocybe-cubensis]]
 - [[psilocybe-cubensis]]

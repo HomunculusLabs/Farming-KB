@@ -8,9 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# [[organic-lawn-care]] Alternatives
-
-[[geoff-hamilton]] notes that a lawn is not essential in the garden, but it
+# [[geoff-hamilton]] notes that a lawn is not essential in the garden, but it
 provides a useful foreground and contrast for planting. He recommends
 thinking carefully about how much lawn you really need, and considers
 alternatives such as wildflower meadows, chamomile lawns, and reduced
@@ -130,5 +128,5 @@ wildlife. Good choices include cotoneaster, mountain ash (rowan),
 flowering crab apple, and birches. These provide food for birds and
 insects while adding ornamental interest.
 
-See also: [[hamilton-organic-soil-management]], [[hamilton-wildlife-gardening-biodiversity]],
+See also: [[hamilton-wildlife-gardening-biodiversity]],
 [[hamilton-organic-weed-management]]

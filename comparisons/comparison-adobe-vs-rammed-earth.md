@@ -19,30 +19,6 @@ formwork in monolithic lifts. Choosing between them depends on available labor, 
 climate, and the desired aesthetic.
 
 ## Adobe
-[[adobe-construction]]
-Adobe construction produces walls from sun-dried earth bricks made by mixing clay-rich soil
-(15-30% clay), sand, water, and fibrous material (straw) in wooden moulds. Bricks are typically
-25-35 cm long, 12-15 cm wide, and 8-12 cm tall, and are sun-dried for 2-4 weeks before being
-laid with mud mortar in courses 30-45 cm thick. The technique has been practiced for over 4,000
-years across the Americas, Middle East, and Mediterranean, producing structures that endure for
-centuries.
-
-Adobe's advantages include minimal energy inputs (sun-dried rather than fired), extremely low
-material cost when soil is available on-site, and a long cultural tradition with well-established
-building practices in many regions. Thermal mass performance is excellent, with an 8-10 hour
-thermal lag that keeps interiors cool during hot days and warm during cool nights — a key reason
-adobe has remained the dominant building method in the American Southwest and parts of Latin
-America. Walls are non-toxic, breathable, and can be stabilized with cement (4-10%) or lime
-(5-10%) for improved water resistance in wetter climates.
-
-The main limitations of adobe are its weakness in tension and shear, resulting in poor seismic
-performance without reinforcement. Brick production is slow, requiring weeks of drying time that
-can be disrupted by rain. Walls must be protected from prolonged moisture exposure through raised
-foundations, generous roof overhangs, and breathable renders. Very wet climates present
-significant challenges unless stabilization is used, and the modular nature of bricks means walls
-are less monolithic than rammed earth.
-
-## Rammed Earth
 [[rammed-earth]]
 Rammed earth construction creates dense, monolithic walls by compacting damp earth (10-15%
 moisture) between temporary formwork in successive 10-15 cm lifts. The soil mix requires a
@@ -127,11 +103,7 @@ construction with the traditional aesthetic of brickwork.
 
 ## See Also
 
-- [[comparison-straw-bale-vs-rammed-earth]]
-
 - [[comparison-cob-vs-adobe]]
-- [[cob-construction]]
 - [[straw-bale-construction]]
-- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[adobe-construction]]
 - [[rammed-earth]]

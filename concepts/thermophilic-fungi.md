@@ -3,7 +3,7 @@ title: Thermophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Thermophilic Fungi
@@ -82,19 +82,12 @@ The ability of these fungi to produce enzymes that remain stable and active at h
 
 ## Thermophilic Fungi in Mushroom Cultivation
 
-Several thermophilic fungi play important roles in mushroom composting and substrate preparation. Scytalidium thermophilum and Myriococcum thermophilum contribute to the decomposition of straw and other raw materials during the thermophilic phase of compost preparation for Agaricus bisporus cultivation. Their activity prepares the substrate for the subsequent colonization by the mushroom mycelium, illustrating the importance of thermophilic fungi in commercial [[mushroom-composting]] systems.
-
-## Spore Biology and Dispersal
-
-Thermophilic fungi produce heat-resistant spores that can survive the high temperatures of composting and other thermal processes. These thermotolerant spores serve as inoculum for new substrate colonization when conditions become favorable. The [[fungal-spore-biology]] of thermophilic species includes adaptations such as thickened cell walls and melanized spore surfaces that enhance thermal resistance and UV protection, facilitating survival during dispersal through hot, dry environments.
+Several thermophilic fungi play important roles in mushroom composting and substrate preparation. Scytalidium thermophilum and Myriococcum thermophilum contribute to the decomposition of straw and other raw materials during the thermophilic phase of compost preparation for Agaricus bisporus cultivation. Their activity prepares the substrate for the subsequent colonization by the mushroom mycelium, illustrating the importance of thermophilic fungi in commercial [[fungal-spore-biology]] of thermophilic species includes adaptations such as thickened cell walls and melanized spore surfaces that enhance thermal resistance and UV protection, facilitating survival during dispersal through hot, dry environments.
 
 ## Related Topics
 
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-diversity-extreme-environments]]
-- [[fungal-diversity-arid-environments]]
 - [[psychrophilic-fungi]]
-- [[saprobic-soil-fungi]]
 - [[fungal-decomposition-nutrient-cycling]]
 
 ## References

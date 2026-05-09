@@ -25,19 +25,7 @@ A tree is broadly composed of three biomass zones:
 2. **The detritus and humus** (the tree at the soil surface boundary)
 3. **The roots and root associates** (the underground tree)
 
-The living tree stands in a zone of decomposition. Much of what it sheds is transferred, reborn, transported, or reincarnated into grasses, bacteria, fungus, insect life, birds, and mammals. When a squirrel buries an acorn and forgets to recover 80% of them, it acts as the planting agent of the oak. When mycorrhizal fungi intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree, they function as its digestive system. See [[guild-design-methodology]] for the design application.
-
-## Wind Interactions
-
-Trees profoundly modify wind patterns:
-
-- As wind speed increases, leaves and branches deform to reduce exposed leaf area. At very high winds (over 32 m/sec), survival becomes the tree's primary concern, and light interception and efficient water use become secondary.
-- Forest edges are thick and sturdy; interior trees are thinner. Tethering a tree halfway up stops thickening below the tether point.
-- As streamlines converge over trees or hills, air speed increases, creating fast low-pressure air. To leeward, streamlines diverge, creating slower, cooler, higher-pressure air.
-- Trees remove fine dust and industrial aerosols from airstreams within a few hundred metres. Within 1000 m, air entering the forest is brought to a standstill, with humidity 15-18% higher than ambient and no detectable dust.
-- Forests provide nutrient nets, capturing materials blown by wind and gathered by birds that forage from forest edges.
-
-Mollison references the Griggs and Putnam index for assessing wind effects from tree deformation: no deformation (calm), brushing, slight flagging, moderate flagging, strong flagging, partial throw, complete throw, and finally prostrate growth. These field indicators guide windbreak placement and design. Trees on the edge of a copse or forest are the essential and permanent protection and should never be cut or removed -- a phenomenon Mollison calls "edge break" when this protection is violated. See [[permaculture-windbreak]].
+The living tree stands in a zone of decomposition. Much of what it sheds is transferred, reborn, transported, or reincarnated into grasses, bacteria, fungus, insect life, birds, and mammals. When a squirrel buries an acorn and forgets to recover 80% of them, it acts as the planting agent of the oak. When mycorrhizal fungi intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree, they function as its digestive system. See [[permaculture-windbreak]].
 
 ## Temperature Interactions
 
@@ -92,14 +80,8 @@ Mollison is unequivocal: "Without trees, we cannot inhabit the earth. Without tr
 - Never cut forest edges -- they are essential permanent protection
 - Understand that trees are long-term investments whose benefits accumulate over decades
 
-Tree energy transactions connect to [[edge-effect-and-microclimate]], [[permaculture-water-strategies]], and [[permaculture-soil-strategies]] as fundamental components of landscape design.
-
-## Related
-
-- [[arid-landscape-permaculture]]
-- [[edge-effect-in-permaculture]]
+Tree energy transactions connect to [[permaculture-water-strategies]], and [[arid-landscape-permaculture]]
 - [[guild-design-methodology]]
-- [[permaculture-windbreak]]
 - [[forests-in-permaculture]]
 - [[permaculture-design]]
 

@@ -3,46 +3,7 @@ title: Bloomfield Poisonous Mushrooms and Mycotoxins
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/unknown-biodiversity-of-fungi.md"
----
-
-# Poisonous Mushrooms and Mycotoxins
-
-## Overview
-
-Chapter 8 of "Mr. Bloomfield's Orchard" examines the dark side of mycology — fungi that produce toxins lethal to humans and other animals. Despite popular belief, there is only one reliable method for distinguishing edible from poisonous mushrooms, and it carries a grave risk.
-
-## Amatoxin-Producing Mushrooms
-
-### Amanita Species
-
-The genus Amanita contains the most dangerous mushrooms in the world:
-
-- **Destroying angel (Amanita virosa)**: Pure white fruiting body with a membranous cup (volva) at the stem base and a floppy ring (annulus) below the cap. A single cap contains a lethal dose of amatoxins — 6-7 milligrams of pure toxin can kill an adult.
-- **Death cap (Amanita phalloides)**: Responsible for most fatal mushroom poisonings in Europe and probably North America. Recent US cases often involve immigrants who misidentify it as the [[paddy-straw-mushroom]] ([[volvariella-volvacea]]) widely cultivated in Asia.
-- **Caesar's mushroom (Amanita caesaria)**: Nearly identical in appearance to the death cap, but toxin-free and prized as an edible for centuries.
-
-### Amatoxin Poisoning Course
-
-1. **Initial latency**: 8 hours to 2 days after consumption with no symptoms
-2. **Phase 1**: Abdominal cramping, vomiting, violent diarrhea
-3. **The "honeymoon"**: Symptoms temporarily abate; patient may appear well enough to leave hospital
-4. **Phase 2**: Liver damage continues; coma ensues; death is frequent
-
-Overall mortality is below 30% with medical treatment (fluid replacement, monitoring serum chemistry). No antidote exists, though French investigators have claimed miraculous cures since the early 1800s using everything from minced rabbit brains to antibiotic-vitamin C mixtures.
-
-### Amatoxin Mechanism
-
-Amatoxins are miniproteins/peptides that:
-- Are absorbed from the intestine
-- Lay waste to the liver by blocking gene expression (protein synthesis)
-- Also produce phallotoxins that bind intracellular protein skeletons and inhibit growth — but phallotoxins are not absorbed from the gut
-
-### Other Amatoxin-Bearing Species
-
-- **Autumn skullcap ([[galerina-autumnalis]])**: A common LBM (little brown mushroom) that rots fallen logs. Stems never taller than a finger, caps a few centimeters wide. Contains the same amatoxins as Amanita species. Easily confused with edible species like the two-toned scalecap (Pholiota mutabilis) which grows on the same decaying wood.
+tags: [[paddy-straw-mushroom]] ([[galerina-autumnalis]])**: A common LBM (little brown mushroom) that rots fallen logs. Stems never taller than a finger, caps a few centimeters wide. Contains the same amatoxins as Amanita species. Easily confused with edible species like the two-toned scalecap (Pholiota mutabilis) which grows on the same decaying wood.
 
 ## Why Do Mushrooms Produce Toxins?
 
@@ -86,23 +47,7 @@ Several hypotheses have been proposed:
 ## Mycotoxins: Poisons from Mycelia
 
 ### Aflatoxins
-- Produced by [[aspergillus-flavus]] and Aspergillus parasiticus (conidial fungi)
-- Found in corn, peanuts, peanut butter, milk, eggs, and meat
-- Among the most potent naturally occurring mutagens and carcinogens
-- Ring structure perfectly suited for reacting with DNA double helix — creates DNA adducts causing genetic damage
-- Growth most prolific on insect-damaged or environmentally stressed crops
-- Can reach 0.1 gram fungus per kilogram of plant material (1:10,000 ratio)
-- Contamination of dairy/meat occurs when cattle eat tainted feed; toxins appear in human milk
-
-**Turkey X disease (1960)**: 100,000 turkeys died in England from loss of appetite, lethargy, and liver failure after eating aflatoxin-contaminated peanut meal.
-
-**Cancer risk**: In rats fed maximum anticipated American exposure levels, 1 in 10,000 develops liver cancer. Human incidence is 10x lower than rodent predictions.
-
-**Probable ecological function**: Aflatoxins likely target competing microorganisms in the soil, clearing territory for the mold. Same proposed natural role as antibiotics (penicillin, cephalosporin).
-
-### Black Mold and Trichothecenes
-
-**[[stachybotrys-chartarum]]** gained notoriety from the 1993-94 Cleveland incident:
+- Produced by [[stachybotrys-chartarum]]** gained notoriety from the 1993-94 Cleveland incident:
 - Macrocyclic trichothecenes caused blood vessel hemorrhaging in infant lungs
 - 10 infants affected, 1 died; 6 additional infant deaths reclassified from SIDS
 - Associated with water-damaged homes

@@ -29,7 +29,7 @@ N,N-DIMETHYL-MDA;
 > But my libido was non-existent for three days.
 >
 > (with 550 mg) I took 550 milligrams of it Saturday night and I had a
-> pretty bad trip. On a scale of positive 10 to negative 10 it was
+> pretty [[bad-trip]]. On a scale of positive 10 to negative 10 it was
 > about a negative 6. It really downed me. Two other friends took 200
 > milligrams. They found it very pleasant after about 20 minutes. It
 > was a plus 3 [on the -10 to +10 scale]. Then it wore off a little
@@ -127,9 +127,5 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
 - [[mda-entity-pihkal]]
-- [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]

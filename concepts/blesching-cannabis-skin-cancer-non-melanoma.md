@@ -116,8 +116,6 @@ self-image, and belief in self-forgiveness.
 
 ### Related Topics
 
-- [[blesching-cannabis-melanoma]]
 - [[blesching-cannabis-dermatological-conditions]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-endocannabinoid-system-overview]]

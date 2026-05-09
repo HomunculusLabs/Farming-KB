@@ -136,12 +136,12 @@ can raise systemic toxicity.
 
 ## See Also
 
-- [[phase-ii-metabolism]]
 - [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]]
-- [[idiosyncratic-drug-toxicity]]
 - [[reactive-oxygen-species-and-oxidative-stress]]
 
 ## References
 
 General pharmacology and transporter biology; reviewed against public summaries from Wikipedia pages on
 P-glycoprotein and ABCB1 during the 2026-05-02 mining wave.
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

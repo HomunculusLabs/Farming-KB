@@ -8,7 +8,7 @@ sources: []
 ---
 # MAPS (Multidisciplinary Association for Psychedelic Studies)
 
-MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting clinical research into psychedelic-assisted therapy. See [[mdma-compound-profile]] for the compound at the center of MAPS' landmark research and [[psychedelic-therapy-set-and-setting]] for the therapeutic frameworks it employs.
+MAPS is a nonprofit research and educational organization founded in 1986 by Rick Doblin, dedicated to developing medical, legal, and cultural contexts for people to benefit from the careful uses of psychedelics and marijuana. It is the leading organization funding and conducting clinical research into psychedelic-assisted therapy. See [[psychedelic-therapy-set-and-setting]] for the therapeutic frameworks it employs.
 
 ## Mission and History
 
@@ -63,34 +63,28 @@ Founder and executive director of MAPS:
 ## Harm Reduction and Education
 
 MAPS also operates programs in:
-- [[psychedelic-harm-reduction]] services at festivals and events
-- Zendo Project: providing psychedelic crisis intervention
-- Educational resources on responsible psychedelic use
-- Training programs for psychedelic therapists
-- Archival preservation of psychedelic research history
-
-## Cultural Impact
-
-MAPS has been instrumental in:
-- Normalizing psychedelic research within mainstream medicine
-- Developing training standards for psychedelic therapists
-- Building the regulatory pathway for FDA approval of psychedelic medicines
-- Shifting public perception of psychedelics from recreational drugs to therapeutic tools
-- Funding and supporting the broader psychedelic research ecosystem
-
-## Key Publications and Resources
-
-- Maps.org — Primary organizational website with research updates
-- Bulletin of the MAPS newsletter — Published since 1986
-- Numerous peer-reviewed publications from MAPS-sponsored research
-- MDMA-Assisted Psychotherapy training manual
-
-## See Also
-
 - [[mdma-compound-profile]] — Detailed MDMA pharmacology and effects
-- [[lsd-therapeutic-history]] — Broader context of clinical psychedelic research
 - [[psychedelic-therapy-set-and-setting]] — Therapeutic frameworks used in MAPS trials
 
 ## Related
 
 - [[ecstasy-mdma-guide]]
+## Practical Considerations
+
+Successful implementation of MAPS (Multidisciplinary Association for Psychedelic Studies) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

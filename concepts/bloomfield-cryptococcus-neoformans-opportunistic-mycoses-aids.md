@@ -116,8 +116,6 @@ emergence of HIV and modern immunosuppressive medicine.
 
 ## Related Topics
 
-- [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
 - [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-amatoxin-poisoning-mechanism]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
 - [[bloomfield-fungal-plant-pathogens]]

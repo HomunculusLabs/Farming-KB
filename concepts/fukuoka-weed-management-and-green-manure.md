@@ -119,11 +119,7 @@ Fukuoka expressed this unity with his characteristic aphorism: "One thing is all
 
 ## See Also
 
-- [[fukuoka-natural-farming-principles]]
 - [[fukuoka-no-tillage-rice-barley-succession]]
-- [[cover-cropping-systems]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
-- [[fukuoka-white-clover-cover-crop-system]]
 - [[fukuoka-weed-ecology]]
-- [[dighton-fungal-roles-soil-erosion-prevention]]
 - [[solomon-root-exudates-and-allelopathy]]

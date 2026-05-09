@@ -52,65 +52,7 @@ This two-stage method distributes the fertilizer throughout the upper 7 inches o
 
 - If your soil test recommends "no basic application," your fertility level is already adequate — skip this step
 - If the report shows excess of a particular element, leave it out entirely
-- Plowing slightly deeper for a year or two and sowing green manure crops can help reduce excess elements
-- This basic application is a one-time fertility-building step; it does not need to be repeated every year
-
-## Step 2: Maintain Basic Fertility Level
-
-After the basic fertility level has been established, annual maintenance applications keep soil nutrients at the proper level.
-
-### When to Apply
-
-- Apply fertilizer in the spring, before the soil is worked into a seedbed
-- The maintenance application only needs to be worked into the upper 3 to 5 inches of soil (shallower than the initial deep incorporation)
-
-### Purpose
-
-The maintenance application replaces fertility removed in the form of harvested crops and nutrients lost to leaching through winter precipitation and spring rains.
-
-### Choosing a Balanced Fertilizer
-
-A balanced fertilizer containing nitrogen (N), phosphorus (P), and potassium (K) is used for maintenance. The four most commonly sold mixed fertilizers are:
-
-- **12-12-12** — A fully balanced, equal-ratio fertilizer
-- **6-24-24** — Low nitrogen, high phosphorus and potassium
-- **8-24-8** — Moderate across all three nutrients
-- **5-10-5** — Lower analysis, gentle maintenance option
-
-Application rates vary by analysis — check the fertilizer bag for recommended rates per 1,000 square feet of garden area. If your bag's analysis differs from a listed reference, use the rate for the nearest match.
-
-## Step 3: Use Starter Fertilizer for Transplants
-
-Starter fertilizer is a water-soluble fertilizer applied when watering in transplants to give them a strong start.
-
-### Why Starter Fertilizer Matters
-
-Phosphorus is the most critical nutrient for getting transplants off to a good start. Young transplants have limited root systems and need readily available phosphorus near their root zone to establish quickly.
-
-### Selecting a Starter Fertilizer
-
-Choose a water-soluble fertilizer with a **high phosphorus content** relative to nitrogen and potassium. Commonly available water-soluble fertilizers suitable as starters include:
-
-- 5-10-5
-- 10-52-17
-- 8-32-16
-- 12-24-14
-- 15-30-15
-- 13-26-13
-
-### Application Rate
-
-- Use **1 to 2 level tablespoons** of water-soluble fertilizer per gallon of water
-- Apply **1 to 2 cups** of this solution around the roots of each newly set transplant
-- Apply immediately at planting time for maximum benefit
-
-### Crops That Benefit Most
-
-Vegetables that are typically planted as transplants and benefit from starter fertilizer include tomatoes, broccoli, cabbage, cauliflower, eggplant, and peppers. These crops are difficult to start directly from seed in the garden and benefit from the phosphorus boost at transplanting.
-
-## Step 4: Side-Dress with Nitrogen
-
-The final step provides supplemental nitrogen during the growing season when plant demand peaks. Full details on crop-specific rates and timing are covered in the [[purdue-nitrogen-side-dressing-schedule]].
+- Plowing slightly deeper for a year or two and sowing [[purdue-nitrogen-side-dressing-schedule]].
 
 ### When Side-Dressing Is Needed
 
@@ -139,7 +81,5 @@ Not all four steps are needed every year for every crop. Once the basic fertilit
 
 ## See Also
 
-- [[purdue-nitrogen-side-dressing-schedule]]
 - [[purdue-vegetable-planting-reference-table]]
-- [[soil-ph-management-for-vegetable-gardens]]
 - [[vegetable-garden-fertilization]]

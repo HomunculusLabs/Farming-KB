@@ -3,7 +3,7 @@ title: Fungal Diversity Estimation Methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Diversity Estimation Methods
@@ -80,18 +80,7 @@ Zak and Willig (2004) recommend that future research always include an explicit 
 
 ## Related Topics
 
-- [[fungal-monitoring-long-term-studies]]
 - [[fungal-metagenomics]]
-- [[fungal-community-assembly]]
 - [[culturing-culture-independent-fungi]]
-- [[fungal-biodiversity-sampling-design]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 5: Fungal Biodiversity Patterns
-- Colwell, R.K. and Coddington, J.A. 1994. Estimating terrestrial biodiversity
-- Magurran, A.E. 1988. Ecological Diversity and Its Measurement
-- Ludwig, J.A. and Reynolds, J.F. 1988. Statistical Ecology
 - [[fungal-species-richness-and-diversity-indices]]
-- [[fungal-species-estimation-methods-total-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

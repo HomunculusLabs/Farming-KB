@@ -131,8 +131,6 @@ slaughtered and eaten, passing on the effects.
 
 ## Related Topics
 
-- [[christmas-mushroom-symbolism]] - Christmas mushroom connections
 - [[fly-agaric-siberian-shamanic-practice]] - Siberian shamanic use
-- [[siberian-fly-agaric-tradition]] - broader Siberian tradition
 - [[fly-agaric-western-literature]] - fly agaric in Western culture
 - [[mushroom-symbolism-visual-art]] - visual symbolism

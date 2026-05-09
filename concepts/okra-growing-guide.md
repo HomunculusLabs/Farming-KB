@@ -60,15 +60,43 @@ Okra is bee-pollinated, so to preserve a pure variety requires isolation of over
 - You need at least 25 plants in your seed crop to maintain genetic vigor.
 - Seeds form rapidly once pods are left on the plant.
 
+
+## Variety Selection
+
+Okra varieties fall into two main categories: smooth-podded and
+ribbed-podded. Smooth varieties like Clemson Spineless (the industry
+standard) and Emerald Green produce pods that are easier to harvest
+and process. Ribbed varieties like Star of David and Burgundy produce
+more visually distinctive pods with better heat tolerance but
+require more careful handling during harvest.
+
+For permaculture and home garden settings, dwarf varieties like
+Little Lucy and Baby Bubba mature at just 18-24 inches tall, making
+them suitable for container growing and small spaces. Cow Horn okra
+is a heirloom variety that produces exceptionally long pods (up to
+14 inches) and continues producing through summer heat that shuts
+down other varieties. Red okra varieties like Burgundy add visual
+interest to the garden and maintain their color when cooked.
+
+## Harvest and Succession Planting
+
+Okra pods reach harvestable size approximately 60 days after planting
+and should be picked when 2-4 inches long for tender, high-quality
+pods. Daily harvesting during peak production encourages continued
+flowering and extends the harvest period. Over-mature pods become
+woody and fibrous, signaling the plant to stop producing.
+
+Succession planting every 3-4 weeks ensures continuous harvest
+through the growing season. In warm climates (USDA zones 8-11),
+three successions typically provide uninterrupted production from
+June through October. In cooler climates, starting the first planting
+indoors 4-6 weeks before last frost and using row covers for
+early plantings can extend the season by 2-3 weeks on each end.
 ## Related Concepts
 
-- [[complete-organic-fertilizer-recipes]]
 - [[seed-saving-principles-solomon]]
-- [[transplanting-techniques-solomon]]
 - [[organic-pest-and-disease-management]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter on okra
-- [[solomon-gardening-when-it-counts-index]]
 - [[teaming-with-nutrients-fertilizer-sources]]
-- [[solomon-complete-organic-fertilizer-guide]]
 - [[root-competition-plant-spacing-solomon]]

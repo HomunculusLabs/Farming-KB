@@ -122,8 +122,6 @@ maintaining fungal activity and enzyme production over extended periods.
 
 ## See Also
 
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
-- [[singh-fungal-exopolysaccharides-biofilm-soil-aggregation]]
 - [[rock-eating-fungi-and-mineral-weathering]]
 - [[singh-fungal-biodegradation-biodeterioration-materials]]

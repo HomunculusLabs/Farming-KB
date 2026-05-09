@@ -42,18 +42,7 @@ updated: 2026-05-02
 - Émile Clapeyron was a French engineer and physicist.
 - He is remembered as one of the founders of thermodynamics.
 - His 1834 memoir made Sadi Carnot's heat-engine theory accessible and analytical.
-- He gave graphical form to the cycle now discussed on [[carnot-cycle-and-heat-engines]].
-- His name is attached to the Clausius-Clapeyron relation for phase changes.
-- He also contributed to structural mechanics, railway engineering, and gas theory.
-- Clapeyron is a bridge between practical engineering and mathematical physics.
-
-## Identity
-- His full name was Benoît Paul Émile Clapeyron.
-- He was born in Paris on 26 January 1799.
-- He died in Paris on 28 January 1864.
-- The accentless form Emile Clapeyron is common in English-language references.
-- He belonged to the French engineering elite formed by post-Revolutionary technical schools.
-- His work shows the nineteenth-century overlap between state engineering and physical theory.
+- He gave graphical form to the cycle now discussed on [[nineteenth-century-mushroom-cultivation]] overlap between state engineering and physical theory.
 
 ## Education
 - Clapeyron studied at the École polytechnique.
@@ -101,10 +90,7 @@ updated: 2026-05-02
 - His contribution was not merely commentary; it reorganized the argument for future science.
 
 ## Clausius-Clapeyron relation
-- Clapeyron also studied and critical phenomena.
-- His work led to the relation later extended by Rudolf Clausius.
-- The Clausius-Clapeyron relation describes the slope of phase boundaries.
-- It links pressure, temperature, latent heat, and volume change between phases.
+- Cl [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]] hases.
 - The equation is central for vapor pressure, boiling, sublimation, and condensation.
 - It connects thermodynamics to meteorology, chemistry, materials science, and geophysics.
 
@@ -138,13 +124,7 @@ updated: 2026-05-02
 - His phase-transition work remains visible in a core physical equation.
 - His structural-mechanics work remains part of engineering history.
 - He is a necessary entity for interpreting the historical section of [[carnot-cycle-and-heat-engines]].
-
-## Connections
-- Related concept: [[carnot-cycle-and-heat-engines]].
-- Related entity: [[sadi-carnot]].
-- Related figures: Rudolf Clausius and Lord Kelvin.
-- Related equation: Clausius-Clapeyron relation.
-- Related field: nineteenth-century French civil engineering.
+- Related entity: [[nineteenth-century-mushroom-identification]] field: nineteenth-century French civil engineering.
 - Entity role: translator of Carnot's theory into usable analytical thermodynamics.
 ## See Also
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]

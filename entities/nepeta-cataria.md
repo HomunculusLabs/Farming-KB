@@ -140,9 +140,6 @@ excellent for pollinator gardens.
 
 ## See Also
 
-- [[melissa-officinalis]] (Lemon Balm) — related Lamiaceae sedative herb
 - [[mentha-piperita]] (Peppermint) — companion Lamiaceae family member
-- [[ocimum-sanctum]] (Tulsi) — adaptogenic Lamiaceae herb
 - [[valeriana-officinalis]] (Valerian) — stronger herbal sedative
-- [[calendula-officinalis]] (Calendula) — companion plant for pollinator gardens
 - [[comfrey-symphytum-officinale]] (Comfrey) — permaculture dynamic accumulator

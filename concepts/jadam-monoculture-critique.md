@@ -67,23 +67,13 @@ In a healthy, living soil, even monoculture can coexist with rich microbial and 
 
 JADAM has documented numerous case studies on its website where farmers cured "monoculture disorder" by simply returning crop residues to the soil instead of removing them. These cases span multiple crop types including peppers, strawberries, and fruit trees. In each case, the supposed problem of repeated cultivation was resolved not by rotating crops but by restoring the natural mineral cycle.
 
-The implications for farm economics are significant: if monoculture is not inherently problematic, farmers can specialize in their most profitable crop without the complexity and risk of rotation schedules. This aligns with JADAM's [[jadam-farm-economics-market-viability]] of simplifying farming wherever possible.
-
-## See Also
-- [[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-ultra-low-cost-agriculture]]
+The implications for farm economics are significant: if monoculture is not inherently problematic, farmers can specialize in their most profitable crop without the complexity and risk of rotation schedules. This aligns with JADAM's [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-natural-farming-philosophy]]
-- [[fukuoka-critique-soil-cultivation]]
 - [[jadam-nutritional-balance-fertilizer]]
 
-- [[jadam-compost-free-approach]]
 - [[jadam-cover-crop-method]]
-- [[jadam-soil-management-principles]]
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-phyllite-water-method]]
 - [[jadam-nature-as-teacher-philosophy]]
-- [[jadam-farm-economics-market-viability]]
 - [[fukuoka-crop-rotation-and-natural-weeds]]
-- [[jadam-human-manure-liquid-fertilizer]]
 - [[jadam-mineral-fertilizer]]
 - [[fungal-nutrient-cycling-mineral-transformations]]

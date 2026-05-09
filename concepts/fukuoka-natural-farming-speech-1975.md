@@ -100,11 +100,7 @@ transplanted, whether fertilizer is necessary.
 
 ## See Also
 
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-personal-journey]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-mandarin-orange-citrus]]
-- [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-natural-rice-barley-cultivation]]

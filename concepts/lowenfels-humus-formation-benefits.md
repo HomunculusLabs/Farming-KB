@@ -10,7 +10,7 @@ type: concept
 
 Humus is the carbon-rich, coffee-colored, organic material that results from the
 complete decomposition of plant and animal matter by
-[[lowenfels-bacteria-role-soil]] and [[lowenfels-fungi-role-soil]]. In *Teaming With Microbes*, Lowenfels and Lewis describe humus as the
+[[lowenfels-fungi-role-soil]]. In *Teaming With Microbes*, Lowenfels and Lewis describe humus as the
 end product of nature's recycling system and one of the most valuable components
 of good garden soil. On average, good garden soil is 45 percent mineral and 5
 percent organic matter, much of it in the form of humus. Understanding humus is
@@ -37,69 +37,25 @@ anions that attract positively charged cations. The cations absorbed by clay and
 humus include calcium, potassium, sodium, magnesium, iron, ammonium, and
 hydrogen, all major plant nutrients.  Humus, because of its minute particle
 size, has tremendous surface area for holding these nutrients. The
-[[lowenfels-nutrients-soil-chemistry-ph-cec]] of soil
-increases dramatically with humus content because more organic surfaces are
-available to hold nutrients that would otherwise leach away.
-
-## Water Retention and Soil Structure
-
-Humus acts like a sponge not only for microbes but for water. Its capillary
-structure holds water in tiny pores, making it available to plant roots over
-extended periods. This is one reason why soils rich in humus resist drought
-better than soils without it. Good garden soil contains 5 to 10 percent organic
-matter, and every increase in humus content improves the soil's ability to
-retain moisture. Humus also works with
 [[lowenfels-glomalin-soil-aggregation]] and bacterial slimes to bind
 mineral particles into aggregates, creating the crumb-like
-[[lowenfels-soil-structure-aggregates]] that allows both proper
-drainage and adequate water retention.
-
-## The Role of the Soil Food Web
-
-Humus formation is the ultimate product of the [[lowenfels-earthworms-soil-food-web]]. When plants and animals die on the soil surface,
+[[lowenfels-earthworms-soil-food-web]]. When plants and animals die on the soil surface,
 bacteria and fungi begin breaking them down. Simple sugars and proteins are
 consumed first, followed by more resistant materials like cellulose and
 hemicellulose. Lignin, the toughest plant component, is broken down last,
-primarily by [[lowenfels-fungi-role-soil]] and actinomycetes during the
-final stages of decomposition. The result is humus, a stable carbon compound
-that can persist in soil for decades or even centuries.  Without a healthy soil
-food web to drive this process, organic matter accumulates on the surface
-without being converted into the humus that builds soil fertility.
-
-## Building Humus Through Composting
-
-One of the most effective ways to add humus to soil is through
-[[lowenfels-composting-science-microbiology]]. When organic materials
+primarily by [[lowenfels-composting-science-microbiology]]. When organic materials
 are properly composted, the resulting product is rich in humus and full of
 beneficial microorganisms. Compost applied at 0.5 to 2.5 inches around plants
 can begin improving soil within six months, as new soil life becomes evident in
 the top 6 to 15 inches of soil. After a year, soil life extends to approximately
-18 inches deep. [[lowenfels-vermicomposting-benefits]] and
-[[lowenfels-mulch-cover-cropping]] also contribute to humus formation
+18 inches deep. [[lowenfels-mulch-cover-cropping]] also contribute to humus formation
 over time, though more slowly than finished compost.
 
 ## Humus and Nutrient Availability
 
 Humus does more than hold cations. It provides a slow-release reservoir of
-[[lowenfels-nutrients-foliar-feeding-sap-analysis]] that plants need in small
-quantities. The organic acids produced during humus formation can solubilize
-mineral nutrients from rock particles, making them available to plants and soil
-organisms. Humic and fulvic acids, components of humus, can chelate (bind)
-micronutrients like iron, zinc, and manganese, keeping them soluble in soil
-solution where plant roots can access them. This chelation effect is one reason
-why humus-rich soils rarely show micronutrient deficiencies even when the
-underlying mineral soil is poor.
-
-## Humus and Carbon Storage
-
-Humus represents one of the largest terrestrial carbon sinks. When organic
-matter is fully decomposed into humus, the carbon it contains becomes stabilized
-and can persist in soil for decades or centuries.  This makes building humus an
-important strategy for carbon sequestration.  Each percentage point of organic
-matter in an acre of soil represents approximately 20,000 pounds of carbon
-stored. Practices that build humus, such as
 [[lowenfels-composting-science-microbiology]],
-[[lowenfels-mulch-cover-cropping]], and [[lowenfels-cover-crops-soil-biology]], not only improve soil health but also contribute
+[[lowenfels-cover-crops-soil-biology]], not only improve soil health but also contribute
 to climate mitigation by pulling carbon dioxide from the atmosphere and storing
 it in stable soil organic matter.
 

@@ -16,8 +16,7 @@ type: concept
 
 # Aboriginal Land Management and Edge in Cultivated Landscapes
 
-[[david-holmgren]] draws extensively on Aboriginal Australian land management as a
-primary inspiration for [[holmgren-permaculture-edge-principle]] and sustainable
+[[holmgren-permaculture-edge-principle]] and sustainable
 landscape management in a low-energy future. The active management of Australian
 landscapes by Aboriginal people was foundational to the original conception of
 Permaculture.
@@ -144,6 +143,9 @@ urban development. These designs all draw on the amenity of natural edge or the
 creation of designed edge -- applying ancient principles of edge productivity to
 contemporary settlement patterns.
 
-See also: [[holmgren-edge-theory-and-urban-rural-fringe]],
-[[holmgren-permaculture-edge-principle]],
+See also: [[holmgren-permaculture-edge-principle]],
 [[holmgren-ecological-succession-design]]
+
+## See Also
+
+- [[permaculture-edge-effect-design]]

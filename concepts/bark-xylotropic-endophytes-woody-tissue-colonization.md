@@ -36,25 +36,7 @@ Arthopyreniaceae, including Arthopyrenia plumbaria, Mycoglaena
 subcoerulescens, and Mycoglaena species ("Pseudoplea").
 
 In eastern North America, Arthonia impolita, another nonlichenized
-member of a normally [[lichenized-fungi-biology-ecology-diversity]]
-genus, is ubiquitous on young bark of Pinus strobus. Vestigium
-felicis, an unusual coelomycete with distinctive "cat's paw"-shaped
-conidia, is known only from young living twigs of Thuja plicata
-in the Pacific Northwest.
-
-Other bark endophytes, primarily Ascomycetes, fruit on recently
-dead twigs still attached to otherwise healthy trees. Notable
-genera include members of the Rhytismataceae, Lachnellula species
-(Hyaloscyphaceae), Pezicula, and Mollisia (Dermateaceae).
-Tryblidiopsis pinastri, a common circumboreal species on Picea,
-and Discocainia treleasei on P. sitchensis fruit abundantly in
-spring on twigs dead for less than a year, indicating they
-routinely colonize bark of living twigs.
-
-## Life-History Strategy
-
-Bark-colonizing endophytes behave similarly to some inconspicuous
-[[nonsystemic-endophytic-fungi-nongrass-hosts]]
+member of a normally [[nonsystemic-endophytic-fungi-nongrass-hosts]]
 that colonize healthy young tissue and fruit only on necrotic
 tissue. Species such as Therrya pini and T. fuli on Pinus,
 Coccomyces strobi on P. strobus, and Coccomyces mammata on aspen
@@ -120,25 +102,12 @@ dematiaceous isolates from roots.
 
 Dark septate endophytes dominated the mycobiota isolated from fine
 roots of several species of forest trees and shrubs in Europe and
-western Canada. A large proportion proved to be [[dark-septate-endophytes-stressed-environments]],
-a root-inhabiting fungus with very broad host distribution and
-geographic range. Hyphae in roots appear rhizoctonialike with
-"monilioid hyphae" and frequently produce a loose weft on the
-outer root surface.
-
-## Ingoldian Hyphomycetes in Roots
-
-Aquatic hyphomycetes (Ingoldian fungi) are another common component
-of the root mycobiota, having been isolated from living xylem and
-bark of submerged roots of various hosts and from terrestrial roots.
-Species such as Heliscus lugdunensis, Tricladium splendens, and
-Lunulospora curvula were found as endophytes of terrestrial roots
-of Alnus species in Europe.
-
-## See Also
-
-- [[nonsystemic-endophytic-fungi-nongrass-hosts]]
-- [[xylariaceous-endophytes]]
+western Canada. A large proportion proved to be [[nonsystemic-endophytic-fungi-nongrass-hosts]]
 - [[fungal-endophytes-grass-crop-systems]]
-- [[biodiversity-of-fungi-endophytic-fungi]]
 - [[mycorrhizal-pathogen-resistance]]
+
+## Merged: Endophytic Fungal Galls and Plant Deformities
+
+Endophytic fungi that colonize living plant tissue without causing immediate, overt negative effects occupy a fascinating position between mutualism and parasitism. When these cryptic colonizers do eventually express pathogenic behavior, they often produce distinctive symptoms including galls, cankers, and witches brooms. Understanding the spectrum from asymptomatic endophytism to visible deformity is essential for plant pathology and fungal ecology.
+
+## Definition and Circumscription

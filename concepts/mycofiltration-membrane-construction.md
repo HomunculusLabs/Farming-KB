@@ -135,11 +135,7 @@ Mycelium Running by Paul Stamets, Chapter 5: Mycofiltration
 
 ## See Also
 
-- [[mycofiltration-overview]]
 - [[mycofiltration-of-water]]
-- [[mycofiltration-water-treatment]]
 - [[mycofiltration-of-pathogens]]
-- [[stamets-king-stropharia-permaculture-mycofiltration]]
 - [[constructed-wetlands-wastewater-treatment]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

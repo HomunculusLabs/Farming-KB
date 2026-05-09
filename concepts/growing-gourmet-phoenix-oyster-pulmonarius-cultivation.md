@@ -14,12 +14,7 @@ sources:
 type: concept
 ---
 
-# Phoenix Oyster Mushroom ([[pleurotus-pulmonarius]]) Cultivation
-
-## Overview and Description
-
-According to studies by Vilgalys et al. (1993), Pleurotus pulmonarius
-is virtually indistinguishable from [[pleurotus-species-and-varieties]] and differs largely in
+# Phoenix Oyster Mushroom ([[pleurotus-species-and-varieties]] and differs largely in
 its habitat preference for conifer woods. In the Western United States,
 P. pulmonarius is usually found at higher altitudes than P. ostreatus
 which prefers lowland river valleys. P. pulmonarius is primarily a
@@ -72,29 +67,12 @@ some conifers.
 ## Microscopic Features
 
 Spores white to yellowish to lavender grey when dense, more or less
-cylindrical, 7.5-11 x 3-4 micrometers. [[growing-gourmet-dikaryotic-mycelium-clamp-connections]] present.
-Hyphal system monomitic.
-
-## Mycelial Characteristics
-
-White, linear, becoming cottony, and eventually forming a thick,
-peelable mycelial mat. If cultures on agar media or on grain are not
-transferred within two weeks, the mycelium becomes so dense as to make
-inoculations cumbersome and messy. Over-incubated cultures cannot be cut
-even with the sharpest surgical scalpel but are torn from the surface.
-Grain spawn smells sweet, pleasant, and distinctly "Oyster-esque."
-
-## Cultivation Methods
-
-### Spawn Expansion
-Liquid inoculated [[spawn-grain-to-grain-transfer]] sown directly into pasteurized straw or
+cylindrical, 7.5-11 x 3-4 micrometers. [[spawn-grain-to-grain-transfer]] sown directly into pasteurized straw or
 sterilized sawdust. More economically grown on pasteurized substrates,
 especially cereal straws, than on wood-based substrates.
 
 ### Agar Media
-[[growing-gourmet-nutrified-agar-media]], PDYA, OMYA and/or DFA.
-
-### [[spawn-grain-to-grain-transfer]]
+[[spawn-grain-to-grain-transfer]]
 Grain spawn throughout.
 
 ### Fruiting Substrates
@@ -147,3 +125,7 @@ Because this mushroom grows so quickly, timing of harvest is critical.
 Mushrooms more often form individually, in twos or threes, but rarely
 more. New mushrooms often form where the old mushrooms have been cut, a
 trait not generally seen with other Pleurotus species. If picked at full
+
+## See Also
+
+- [[growing-gourmet-polypore-mushrooms-cultivation-overview]]

@@ -15,96 +15,7 @@ sources:
 
 # Mimosa hostilis
 
-*Mimosa hostilis* (syn. *Mimosa tenuiflora*), commonly known as **jurema preta**, **tepezcohuite**, or **carbonal**, is a perennial shrub or small tree in the legume family (Fabaceae). Native to northeastern Brazil and parts of Central America, it is renowned for two distinct properties: its inner bark contains among the highest concentrations of **N,N-dimethyltryptamine (DMT)** of any plant, and its bark is used extensively in traditional medicine and modern dermatology for wound healing.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes, Angiosperms, Eudicots, Rosids
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Mimosoideae
-- **Genus:** *Mimosa*
-- **Species:** *M. hostilis* / *M. tenuiflora* (Willd.) Poir.
-
-**Nomenclatural note:** *Mimosa tenuiflora* is the currently accepted name according to most modern taxonomic databases (POWO, Tropicos, GBIF). However, *M. hostilis* remains the most widely used name in ethnobotanical and psychoactive plant literature, and is the name under which the plant was first described by Willdenow in 1806. The two names refer to the same species.
-
-## Botanical Description
-
-- **Growth habit:** Perennial shrub or small tree, 2–8 m tall (occasionally to 10 m)
-- **Trunk:** Bark is dark gray to brown, rough and fissured. The inner bark (the prized part) is reddish-pink to deep magenta.
-- **Leaves:** Bipinnately compound (mimosoid), 5–10 cm long with 2–4 pairs of pinnae, each bearing 15–30 pairs of small, linear leaflets (~3–6 mm). Leaves are sensitive to touch — they fold (seismonastic movement) when disturbed, a characteristic of the genus.
-- **Flowers:** Inflorescences are dense, cylindrical spikes 2–6 cm long, pale white to pinkish, fragrant. Each flower is small, with 4–5 petals and numerous stamens.
-- **Fruit:** Flat, straight or slightly curved pods, 2–5 cm × 5–8 mm, brown at maturity, containing 3–5 seeds
-- **Seeds:** Oblong, brown, ~3 mm long, hard-coated
-- **Roots:** Shallow to moderate root system with nitrogen-fixing nodules (rhizobial symbiosis)
-- **Blooming:** November to March (Southern Hemisphere rainy season)
-- **Hardiness:** USDA Zones 9–12; frost-sensitive
-
-## Distribution
-
-- **Native range:** Northeastern Brazil (Caatinga biome), extending into the states of Bahia, Pernambuco, Paraíba, Ceará, Piauí, and Maranhão. Also native to southern Mexico (Chiapas, Oaxaca), Guatemala, Honduras, El Salvador, and Venezuela.
-- **Naturalized:** Parts of the Caribbean, tropical Africa, and southeast Asia
-- **Habitat:** Tropical dry forest, thorny scrubland (Caatinga), disturbed areas, roadsides, and abandoned agricultural land. Highly drought-tolerant once established.
-
-## Phytochemistry
-
-### N,N-Dimethyltryptamine (DMT)
-
-*M. hostilis* root bark is one of the richest botanical sources of DMT:
-
-- **Root bark:** 0.5–1.7% DMT by dry weight (reports range up to 2.0% in premium specimens)
-- **Inner stem bark:** 0.3–0.7% DMT
-- **Leaves and seeds:** Negligible DMT content
-
-The bark also contains:
-- **N-Methyltryptamine (NMT):** 0.02–0.06% — a related tryptamine
-- **β-Carbolines:** Trace amounts of harmine, harmaline, and tetrahydroharmine (insufficient for MAOI activity on their own)
-
-### Tannins and Flavonoids
-
-The bark contains significant concentrations of:
-- **Condensed tannins (proanthocyanidins):** 10–16% — responsible for astringent and wound-healing properties
-- **Flavonoids:** Including kaempferol, quercetin, and myricetin derivatives
-- **Phenolic acids:** Gallic acid, protocatechuic acid
-
-### Saponins and Alkaloids
-
-- Triterpenoid saponins contribute to antimicrobial activity
-- Mimosine (an alkaloid unique to *Mimosa* species) is present in leaves — toxic to ruminant livestock at high concentrations
-
-## Traditional Uses
-
-### Jurema Ceremony (Northeastern Brazil)
-
-The **Jurema** (or *Vinho de Jurema*) ceremony is a ritual practice of indigenous and Afro-Brazilian populations in northeastern Brazil, particularly among the Tupi, Fulni-ô, and Kariri-Xocó peoples:
-
-- **Preparation:** The inner root bark is pounded and soaked in cold or warm water, sometimes with the addition of other plants
-- **Ritual context:** Used in ceremonies for healing, divination, and communication with spirits
-- **Historical suppression:** Portuguese colonial authorities banned the practice in the 17th century; it survived in secrecy and was later incorporated into syncretic religious traditions (Catimbó-Jurema)
-- **MAOI source debate:** Traditional preparations may have included β-carboline-rich plants (e.g., *Banisteriopsis caapi* or *Peganum harmala*) as admixtures to enable oral DMT activity, though documentation is incomplete. Modern recreational preparations typically add a separate MAOI source.
-
-### Tepezcohuite (Mexico)
-
-In Mexico, *M. hostilis* is known as **tepezcohuite** (from Nahuatl *tepetzohuatl* = "tree of the skin"):
-
-- **Traditional use:** Burned bark ash applied to burns and wounds by the Maya and Aztec civilizations
-- **Modern dermatological use:** Bark extracts are used in commercial skin care products for burns, acne, wrinkles, and wound healing. Tepezcohuite-based creams and powders are widely available in Mexican pharmacies.
-- **Mechanism:** The high tannin and flavonoid content provides astringent, antimicrobial, and anti-inflammatory action. Tannins precipitate proteins to form a protective barrier over wounds.
-
-### Other Traditional Uses
-- **Fence posts and firewood:** Dense, durable wood resistant to rot
-- **Livestock fodder:** Leaves browsed by goats (though toxic in quantity to cattle)
-- **Soil improvement:** Nitrogen-fixing capability enriches poor soils
-
-## Modern Psychoactive Use
-
-### Ayahuasca Analog (Anahuasca)
-
-*M. hostilis* root bark is widely used as a DMT source in ayahuasca analog preparations:
-
-- **Pharmahuasca approach:** Extracted DMT is combined with pharmaceutical MAOIs (harmine/harmaline tablets)
-- **Plant-based approach:** Bark is brewed with β-carboline-rich plants (e.g., *Peganum harmala* / Syrian rue, *Banisteriopsis caapi*)
+*Mimosa hostilis* (syn. *[[syrian-rue]], *Banisteriopsis caapi*)
 - **Duration of effects:** 4–8 hours (oral, with MAOI); 15–45 minutes (smoked/vaporized, without MAOI)
 
 ### Extraction
@@ -143,7 +54,64 @@ DMT is extracted from the bark using basic aqueous extraction:
 
 ## See Also
 
-- [[dmt]] — N,N-dimethyltryptamine pharmacology and effects
 - [[banisteriopsis-caapi]] — traditional ayahuasca vine and β-carboline source
-- [[peganum-harmala]] — Syrian rue, another common MAOI source
 - [[anadenanthera-peregrina]] — yopo, another DMT-containing plant species
+## Practical Considerations
+
+When working with Mimosa hostilis, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

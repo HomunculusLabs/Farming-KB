@@ -111,11 +111,7 @@ Understanding plant sensory biology has direct practical applications for agricu
 
 Related concept pages covering specific topics from the book in greater depth:
 
-- [[chamovitz-photoperiodism-phytochrome-plant-vision]]
-- [[chamovitz-phytochrome-red-far-red-switch-photoperiodism]]
 - [[chamovitz-julius-von-sachs-blue-light-phototropism]]
-- [[darwin-phototropism-discovery-plant-light-perception]]
 - [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
-- [[plant-mechanoperception-thigmomorphogenesis]]
 - [[plant-olfaction-and-chemical-sensing]]
 - [[plant-memory-and-learning]]

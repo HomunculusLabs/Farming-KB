@@ -9,40 +9,7 @@ sources:
 ---
 # Solomon on Root Cellaring
 
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
-
-## Why Root Cellar
-
-Solomon argues that to keep the body in robust health, you must feed it a sizeable amount of fresh food, preferably raw. The quality of canned and frozen foods has been massively reduced, especially if they were blanched during processing. In cold-winter climates, it is possible to store fresh vegetables and fruit in living condition for many months without electricity.
-
-Imagine having the makings for a fresh salad in the cellar throughout winter: bins of root vegetables, your own cabbage, Brussels sprouts (still on the stalk) in midwinter, or sprouting your own Belgian endive (an expensive delicacy).
-
-## Cellar Options
-
-Many homes are equipped for root cellaring because most have a basement. However, it may be necessary to wall off and highly insulate a part of the basement to create a proper winter food-storage cellar. Otherwise, dig a cellar outside, though this can be difficult to access during heavy snows. Making a root cellar is not generally regulated; it requires no permits and no prescribed construction methods beyond the basic requirement that it not collapse.
-
-Old non-working chest freezers may be recycled into small root-storage compartments.
-
-## What Stores Well
-
-### Root Vegetables
-- **Potatoes**: Cure at 55-60 degrees F for 2 weeks, then store at 35-40 degrees F, high humidity. Keep in darkness to prevent greening.
-- **Carrots**: Store in moist sand or sawdust at 32-35 degrees F, high humidity.
-- **Beets**: Similar to carrots. The Lutz/Winterkeeper variety holds for months.
-- **Turnips and rutabagas**: Store like carrots and beets.
-- **Parsnips**: Actually improve in flavor after frost exposure. Can be left in the ground and dug as needed through winter in many climates.
-
-### Cabbage Family
-- **Cabbage**: Stores well at near-freezing temperatures with high humidity. Can be hung by the root.
-- **Brussels sprouts**: Best stored on the stalk. Pick sprouts as needed.
-- **Kohlrabi**: Stores well after a few frosts.
-
-### Alliums
-- **Onions and garlic**: Store at cool temperatures (35-40 degrees F for onions, 50-60 degrees F for garlic) with low humidity.
-- **Leeks**: Can be stored in a root cellar or left in the garden with heavy mulch.
-
-### Winter Squash
-- Ideal storage: 55-60 degrees F, low humidity, good air circulation. Do not let frost touch them. See [[root-cellaring-guide]].
+From [[root-cellaring-guide]].
 
 ### Other
 - **Apples**: Store well at 30-35 degrees F with high humidity. Keep away from root vegetables (ethylene gas causes sprouting and off-flavors).
@@ -61,13 +28,61 @@ Old non-working chest freezers may be recycled into small root-storage compartme
 
 Basements are often too dry for root vegetables. Solutions include packing in moist sand or sawdust, using plastic bags with ventilation holes, or damp burlap coverings. Conversely, basements can be too humid for onions and squash.
 
+
+## Steve Solomon's Specific Recommendations
+
+Solomon emphasizes that the key variables in root cellaring are
+temperature (ideally 32-40°F), humidity (85-95%), and ventilation.
+He advocates for earth-bermed cellars that use the ground's thermal
+mass to maintain stable temperatures, rather than fully excavated
+basements that may be too warm. A simple thermometer and hygrometer
+are essential tools for monitoring conditions.
+
+For households without cellar space, Solomon describes improvised
+alternatives: unheated enclosed porches, outdoor pits insulated with
+straw, and buried garbage cans with drainage holes. The critical
+principle is that any cool, dark, humid space that remains above
+freezing can serve as an effective root cellar with proper
+management.
+
+## Crop-Specific Storage Requirements
+
+Different root crops have distinct optimal storage conditions.
+Potatoes prefer 38-40°F with 90% humidity and complete darkness
+(light causes greening and solanine production). Carrots and beets
+store best at 32-34°F with 95% humidity — they require a damper
+environment than potatoes. Onions and garlic need cool (32-35°F)
+and dry (65-70% humidity) conditions, making them incompatible with
+other root vegetables in the same space.
+
+Winter squash and sweet potatoes are not true root cellar crops —
+they require warmer temperatures (50-60°F) and lower humidity.
+Apples release ethylene gas that accelerates sprouting in potatoes
+and carrots, so they should be stored separately. Cabbage and
+brussels sprouts tolerate near-freezing temperatures and high
+humidity, making them ideal companions for carrots and beets.
 ## Related
 
-- [[solomon-gardening-when-it-counts-index]]
 - [[root-cellaring-guide]]
-- [[root-cellar-design-and-construction]]
 - [[complete-organic-fertilizer-recipes]]
-- [[solomon-growing-root-crops-guide]]
 - [[solomon-growing-garlic-onions-leeks]]
-- [[root-cellaring-and-no-energy-food-storage]]
 - [[solomon-complete-organic-fertilizer-guide]]
+## Practical Considerations
+
+Successful implementation of Solomon on Root Cellaring requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

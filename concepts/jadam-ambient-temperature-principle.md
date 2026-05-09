@@ -78,12 +78,8 @@ The result: crop-tailored microorganisms and fertilizers that are genuinely adap
 
 ## See Also
 
-- [[jadam-liquid-fertilizer]] -- the three-principles framework
 - [[jadam-anaerobic-fermentation]] -- principle 1
-- [[jadam-microorganism-solution-jms]] -- the practical JMS recipe
 - [[jadam-liquid-fertilizer]] -- liquid fertilizer at ambient temperature
-- [[jadam-cover-crop-soil-temperature-management]]
 - [[teaming-with-nutrients-fertilizer-application]]
-- [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[fukuoka-weed-diversity-soil-nutrients]]

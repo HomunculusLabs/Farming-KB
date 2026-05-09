@@ -134,8 +134,10 @@ type 2 diabetes for reducing HbA1c and improving renal function markers.
 
 ## See Also
 
-- [[glycyrrhiza-glabra]] — Common licorice, frequently paired with Rehmannia in TCM formulas
 - [[astragalus-membranaceus]] — Huang Qi, often combined for qi-yin dual tonification
-- [[scutellaria-baicalensis]] — Huang Qin, combined in heat-clearing formulas
 - [[panax-notoginseng]] — San Qi, combined for kidney and blood tonification
 - cornus officinalis — Shan Zhu Yu, paired in Liu Wei Di Huang Wan
+
+## See Also
+
+- [[herbal-plant-remedies]]

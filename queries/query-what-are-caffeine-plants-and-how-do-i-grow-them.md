@@ -131,6 +131,5 @@ Per 240 ml (8 oz) cup, approximate:
 - [[cola-acuminata]]
 
 - query what are caffeine plants and how do i grow them
-- [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 - [[herb-growing-guide]]
 - [[food-forest-layers-and-species]]

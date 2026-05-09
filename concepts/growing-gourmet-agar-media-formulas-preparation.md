@@ -133,9 +133,6 @@ Cultivators should routinely include uninoculated control plates alongside inocu
 
 ## Related Concepts
 
-- [[growing-gourmet-spore-germination-strain-isolation|Spore Germination and Strain Isolation]]
 - [[growing-gourmet-volunteer-primordia-agar-media|Volunteer Primordia on Agar Media]]
-- [[growing-gourmet-iconic-types-mushroom-mycelium|Iconic Types of Mushroom Mycelium]]
 - [[growing-gourmet-strain-evaluation-28-features|28 Features for Strain Evaluation]]
-- [[growing-gourmet-grain-spawn-generation|Grain Spawn Generation]]
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage|Culture Slant Preservation and Cryogenic Storage]]

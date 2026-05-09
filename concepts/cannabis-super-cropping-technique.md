@@ -95,12 +95,8 @@ Green advises against super cropping during flowering, but notes:
 
 ## Related Topics
 
-- [[training-cannabis]] — overview of all training methods
 - [[cannabis-topping-training]] — topping and FIMing techniques
 - cannabis lst low stress training — low-stress training
-- [[cannabis-plant-stress-types-and-recovery]] — stress management
 - [[cannabis-vegetative-stage]] — vegetative growth management
-- [[cannabis-screen-of-green-scrog-guide]] — combining with SCROG setups
 - [[teaming-with-microbes-plant-control]]
-- [[cannabis-growth-stage-checklist]]
 - [[first-time-grower-common-mistakes]]

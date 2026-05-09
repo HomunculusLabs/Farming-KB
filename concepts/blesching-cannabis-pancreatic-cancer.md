@@ -35,52 +35,7 @@ undetected until it has reached advanced stages, contributing to its poor
 prognosis.
 
 Risk factors for pancreatic cancer include chronic pancreatitis (see
-[[blesching-cannabis-pancreatitis]]), diabetes, smoking, obesity, family
-history, and certain genetic syndromes. The disease is more common in
-people over age 65 and slightly more common in men than women.
-
-## Cannabis and Pancreatic Cancer
-
-The urgency of this particularly aggressive cancer, and the lack of
-effective treatments, generated demand for research into new and more
-successful care approaches. Scientists in Madrid, Spain, took the first
-steps in 2006 after discovering an increased presence of cannabinoid
-receptors in pancreatic cancer cells. Experiments in the laboratory and in
-animals confirmed the potential: cannabinoids effectively induced apoptosis
-in cancerous cells while leaving normal cells unaffected.
-
-That same year, scientists in Pisa, Italy, discovered that a novel
-endocannabinoid mechanism not regulated via typical CB1 or CB2 receptors
-was able to destroy pancreatic cancer lines in the laboratory. This finding
-is particularly significant because it suggests additional therapeutic
-pathways beyond the known cannabinoid receptor system.
-
-### Study Summary
-
-| Drug | Study Type | Year, Place, Key Results | CHI |
-|------|-----------|--------------------------|-----|
-| THC and other cannabinoids | Lab and in vivo animals | 2006, Complutense Univ., Madrid, Spain: Anti-pancreatic tumor effect via CB2 receptors | 1+2 |
-| AM251 (potent CB1 antagonist) | Laboratory | 2006, Univ. of Pisa, Italy: Endocannabinoids produce significant cytotoxic effect via a receptor-independent mechanism | 1 |
-
-**Total CHI Value: 4**
-
-### Strain-Specific Considerations
-
-The Madrid study demonstrated anti-pancreatic tumor effects via CB2
-receptors, while the Italian study revealed a receptor-independent
-mechanism. This dual pathway finding is significant for therapeutic
-approaches:
-
-- **CB2-targeted approach:** Indica strains with higher CBD content may
-  preferentially activate CB2 receptors, which were shown to mediate
-  anti-tumor effects
-- **Receptor-independent approach:** The Italian discovery that
-  endocannabinoids can destroy pancreatic cancer cells through
-  non-traditional pathways suggests that whole-plant cannabis, with its
-  full spectrum of cannabinoids, may offer broader therapeutic potential
-- **THC and CBD synergy:** Both compounds have demonstrated anti-cancer
-  properties; whole-plant preparations leveraging the entourage effect
-  (see [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]) may be
+[[blesching-cannabis-cannabinoid-terpene-entourage-effect]]) may be
   most effective
 - **Concentrated extracts:** Rick Simpson Oil (RSO) and other full-spectrum
   cannabis extracts have been anecdotally reported as beneficial by patients
@@ -90,25 +45,9 @@ approaches:
 The discovery of cannabinoid receptors on pancreatic cancer cells aligns
 with broader findings that the endocannabinoid system plays a role in
 regulating cell growth and death across multiple cancer types. Research on
-[[blesching-cannabis-leukemia-lymphoma]], [[blesching-cannabis-melanoma]],
-and [[blesching-cannabis-skin-cancer-non-melanoma]] all point to similar
-mechanisms of cannabinoid-mediated apoptosis in cancer cells.
-
-### Mind-Body Medicine
-
-See the introduction to cancer in Blesching's text for general mind-body
-perspectives. The pancreas, located deep in the abdomen, processes both
-nourishment (digestive enzymes) and energy regulation (insulin).
-Emotionally, issues related to digestion of life experiences and
-processing of "sweetness" or "bitterness" in life may be relevant
-metaphors for exploration.
-
-### Related Topics
-
-- [[blesching-cannabis-pancreatitis]]
-- [[blesching-cannabis-cancer-symptoms]]
+[[blesching-cannabis-melanoma]],
+and [[blesching-cannabis-pancreatitis]]
 - [[blesching-cannabis-leukemia-lymphoma]]
-- [[blesching-cannabis-melanoma]]
 - [[blesching-cannabis-immune-system-modulation]]
 
 ### Key Takeaways
@@ -126,3 +65,22 @@ metaphors for exploration.
   potential by leveraging multiple mechanisms simultaneously
 - The deep location of the pancreas often delays diagnosis, underscoring
   the need for diverse therapeutic approaches
+## Practical Considerations
+
+Successful implementation of Cannabis and Pancreatic Cancer requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

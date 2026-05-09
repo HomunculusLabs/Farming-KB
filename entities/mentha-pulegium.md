@@ -10,7 +10,6 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/medicinal-plants-of-the-world-vol2.md
   - /Users/t3rpz/wiki/raw/papers/essential-oil-safety-tisserand.md
 ---
-
 # Mentha pulegium
 
 **Mentha pulegium**, commonly known as **pennyroyal** or **European pennyroyal**, is a species of flowering plant in the family Lamiaceae (mint family). Native to Europe, North Africa, and western Asia, pennyroyal has a long and complex history of use in traditional herbal medicine, culinary applications, and folk magic — alongside a notorious reputation as one of the most toxic of the commonly used medicinal herbs. The plant's essential oil, particularly its major constituent **pulegone**, is a potent hepatotoxin and abortifacient that has caused numerous deaths throughout history, earning pennyroyal a unique place in the pharmacological literature as both a traditional remedy and a deadly poison.
@@ -70,62 +69,8 @@ The principal bioactive constituents include:
 - **Piperitenone**: A p-menthane monoterpene ketone present in some chemotypes.
 - **Limonene and isopulegone**: Minor constituents with limited pharmacological significance.
 
-The pulegone content of pennyroyal oil can vary significantly depending on chemotype, geographic origin, harvest time, and drying conditions.
-Some Mediterranean chemotypes have been reported to contain up to 95% pulegone, while others may have significantly lower proportions.
-The essential oil should never be ingested due to the extreme toxicity of concentrated pulegone.
-
-## Traditional and Historical Uses
-
-Pennyroyal has been used in European herbal medicine since antiquity, with records dating back to ancient Greece and Rome.
-The Greek physician Dioscorides recommended pennyroyal for inducing menstruation, expelling intestinal worms, and treating respiratory ailments.
-The Roman naturalist Pliny the Elder described its use as a flea repellent and digestive aid.
-In medieval European herbalism, pennyroyal was one of the most commonly employed emmenagogues (menstruation-inducing herbs) and abortifacients, and its use for these purposes persisted well into the 20th century despite its well-documented toxicity.
-
-The plant's flea-repellent properties — the origin of its specific epithet *pulegium* — were widely exploited in domestic settings.
-Dried pennyroyal was scattered on floors, placed in bedding, and stuffed into pet bedding to repel fleas, ticks, and other ectoparasites.
-This use is supported by modern research demonstrating that pennyroyal essential oil does possess significant insecticidal and arthropod-repellent activity, primarily attributable to pulegone and piperitenone.
-
-Pennyroyal was also used as a culinary herb in ancient and medieval European cuisine, where its strong minty flavor was used to season meats, puddings, and beverages.
-However, its culinary use has declined dramatically due to safety concerns, and it is rarely used in modern cooking.
-The dried herb was historically used to make pennyroyal tea, which was consumed as a digestive aid and general tonic — a practice that, while less immediately dangerous than ingestion of the essential oil, still carries significant health risks due to the variable pulegone content of the herb.
-
-## Pharmacology and Toxicity
-
-The pharmacology of pennyroyal is dominated by the hepatotoxicity of pulegone and its metabolite menthofuran.
-Following ingestion, pulegone is rapidly absorbed from the gastrointestinal tract and metabolized in the liver by cytochrome P450 enzymes (primarily CYP1A2 and CYP2E1) to menthofuran.
-Menthofuran is further metabolized to a reactive γ-ketoenal intermediate that depletes hepatic glutathione, covalently binds to cellular proteins, and produces oxidative stress, culminating in centrilobular hepatocellular necrosis.
-
-The clinical presentation of pennyroyal poisoning is characterized by a biphasic course.
-Initial symptoms (within 1–2 hours of ingestion) include nausea, vomiting, abdominal pain, dizziness, and tinnitus, which may resolve spontaneously, giving a false impression of recovery.
-A second, more severe phase develops 24–72 hours later, characterized by signs of acute liver failure: jaundice, coagulopathy, hepatic encephalopathy, elevated transaminases (AST/ALT often exceeding 10,000 IU/L), and in severe cases, multiorgan failure and death.
-There is no specific antidote for pennyroyal poisoning, and treatment is supportive, including N-acetylcysteine (NAC) administration to replenish hepatic glutathione, though the efficacy of NAC in this context is less well-established than in acetaminophen poisoning.
-
-The abortifacient mechanism of pennyroyal involves pulegone-mediated stimulation of uterine smooth muscle contraction, though the dose required to reliably induce abortion is dangerously close to the lethal dose, and numerous maternal deaths have been documented throughout history from pennyroyal used for this purpose.
-The minimum toxic dose of pennyroyal oil in adults is estimated at approximately 10 mL (approximately 2 teaspoons), while the estimated lethal dose ranges from 15–30 mL.
-However, significant individual variability in susceptibility means that severe or fatal poisoning has occurred at doses well below these estimates.
-
-## Permaculture Applications
-
-In permaculture design, pennyroyal serves as a useful ground cover and insect-repellent plant.
-Its low, creeping growth habit makes it effective at suppressing weeds in damp areas, and its strong aromatic oils repel a range of insect pests including fleas, mosquitoes, ants, and cabbage moth caterpillars.
-The plant is a good nectar source for pollinators and is attractive to beneficial insects.
-However, its invasive tendencies — particularly in moist climates — require careful management to prevent it from spreading beyond intended areas.
-The plant's allelopathic properties are mild compared to some other mint species, making it somewhat easier to integrate into polyculture designs.
-
-## Related Species
-
-- **Mentha spicata** (spearmint): A widely cultivated culinary mint with a milder, sweeter flavor and negligible pulegone content. Safe for culinary and medicinal use.
-- **Mentha × piperita** (peppermint): A natural hybrid (*M. aquatica* × *M. spicata*) and the most commercially important mint species. Contains menthol as the primary active constituent, with only trace amounts of pulegone.
-- **Hedeoma pulegioides** (American pennyroyal): A North American native species with similar but generally milder properties than European pennyroyal. Also contains pulegone and should be used with caution.
-
-## See Also
-
-- [[adaptogenic-herbs-guide]]
-- [[adaptogenic-herbs-overview]]
-
-- [[concepts/nervine-herbs-and-anxiety-relief]]
-- [[concepts/herbal-medicine]]
-
+The pulegone content of pennyroyal oil can vary significantly depending on chemotype, geographic origin, [[adaptogenic-herbs-guide]]
+- [[nervine-herbs-and-anxiety-relief]]
 - [[medicinal-plant-preparations-tinctures-salves-teas]]
 
 - pulegone

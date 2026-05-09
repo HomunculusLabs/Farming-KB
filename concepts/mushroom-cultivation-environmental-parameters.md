@@ -1,7 +1,7 @@
 ---
 title: mushroom cultivation environmental parameters
 created: 2026-04-28
-tags: [mycology, fruiting, environment, humidity, temperature]
+tags: [[mycology, fruiting, environment, humidity, temperature]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -130,8 +130,7 @@ Effective environmental control requires proper facility design:
 
 ## See Also
 
-- [[chen-maitake-growth-parameters-environmental-control]]
-
 - [[oyster-mushroom-substrate-preparation]]
-- [[spawn-production]]
 - [[mushroom-cultivation-contamination]]
+
+See also: [[mushroom-cultivation-fundamentals]]

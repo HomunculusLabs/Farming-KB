@@ -3,7 +3,7 @@ title: Saprobic Soil Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Saprobic Soil Fungi
@@ -138,11 +138,7 @@ Soil fungi are fundamental to:
 
 ## See Also
 
-- [[soil-fungal-diversity]]
 - [[fungal-decomposition-processes]]
-- [[fungal-succession-patterns]]
 - [[mycorrhizal-inoculation]]
-- [[microfungi-wood-plant-debris]]
-- [[the-soil-food-web]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+- [[soil-food-web-nutrient-cycling]]
 - [[fungal-succession-woody-debris-ecology]]

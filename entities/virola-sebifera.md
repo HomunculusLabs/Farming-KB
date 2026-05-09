@@ -114,10 +114,7 @@ Modern cosmetic and soap industries have shown interest in ucuuba butter as a su
 
 ## See Also
 
-- [[virola-theiodora]]
 - [[dmt]]
-- [[5-meo-dmt]]
 - [[bufotenin]]
-- [[banisteriopsis-caapi]]
 - [[psychotria-viridis]]
 - [[tabernanthe-iboga]]

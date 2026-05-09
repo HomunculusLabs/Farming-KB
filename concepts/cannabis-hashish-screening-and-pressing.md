@@ -105,13 +105,8 @@ Store hashish in:
 
 ## Related
 
-- [[mckenna-hashish-scythians-and-classical-cannabis]] Topics
-
 - [[cannabis-hashish-guide]] — comprehensive hash making guide
-- [[cannabis-hashish-making-methods]] — various extraction methods
 - [[cannabis-trichome-guide]] — understanding trichomes and resin
-- [[cannabis-trichome-types-and-development]] — trichome biology
 - [[cannabis-harvest-timing-visual-cues]] — harvesting for peak trichome production
-- [[cannabis-concentrates-and-extracts]] — other concentrate types
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[cannabis-hash-making-from-extracted-oil]]

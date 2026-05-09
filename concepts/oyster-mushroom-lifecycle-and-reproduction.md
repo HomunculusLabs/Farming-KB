@@ -3,12 +3,7 @@ title: Oyster Mushroom Lifecycle and Reproduction
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources: []
----
-# Oyster Mushroom Lifecycle and Reproduction
-
-The oyster mushroom (*Pleurotus* spp.) follows the typical basidiomycete lifecycle, cycling between vegetative and reproductive growth phases. Understanding this lifecycle is essential for successful cultivation and [[mushroom-cultivation-basics]].
+tags: [[mushroom-cultivation-basics]].
 
 ## Spore Production and Germination
 
@@ -82,12 +77,7 @@ The transition from vegetative to reproductive growth is induced by "worsening" 
 - **Fresh air exchange:** Reduces CO₂, provides oxygen for fruiting metabolism
 
 ## See Also
-- [[oyster-mushroom-varieties]]
-
 - [[cotter-oyster-mushroom-cultivation]] — comprehensive cultivation guide
-- [[oyster-mushroom-species-guide]] — detailed species descriptions
 - [[mushroom-cultivation-basics]] — general mushroom growing principles
-- [[oyster-mushroom-spawn-production]] — spawn making in detail
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[stamets-spore-germination-and-tissue-culture]]
 - [[mushroom-primordia-formation-triggers]]

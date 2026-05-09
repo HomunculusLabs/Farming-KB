@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, history, ethnomycology, ethnobotany, counterculture, culture, entheogen, mesoamerica, religion]
-sources: [papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
+sources: []
 ---
 
 # Psychedelic Mushroom History
@@ -46,7 +46,7 @@ Spanish colonizers in the 16th century actively suppressed indigenous mushroom u
 
 ### R. Gordon Wasson
 
-Robert Gordon Wasson (1898-1986), a vice president of J.P. Morgan, became fascinated by the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies. With his wife [[valentina-pavlovna-wasson]], he traveled to Mexico in the early 1950s to investigate indigenous mushroom practices.
+Robert Gordon Wasson (1898-1986), a vice president of J.P. Morgan, became fascinated by the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies. With his wife Valentina Pavlovna Wasson, he traveled to Mexico in the early 1950s to investigate indigenous mushroom practices.
 
 ### The 1955 Velada
 
@@ -62,11 +62,11 @@ Maria Sabina became internationally famous following Wasson's publication, which
 
 ### Identification and Isolation (1957-1958)
 
-Following Wasson's report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to [[albert-hofmann]] at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
+Following Wasson's report, Roger Heim (French mycologist) identified the mushrooms and sent specimens to Albert Hofmann at Sandoz Laboratories in Switzerland. Hofmann, already famous for synthesizing LSD in 1938, successfully isolated and identified **psilocybin** and **psilocin** in 1958, synthesizing both compounds in the laboratory.
 
 ## The Harvard Psilocybin Project (1960-1962)
 
-### [[timothy-leary]] and Richard Alpert
+### Timothy Leary and Richard Alpert
 
 In 1960, Timothy Leary, a clinical psychologist at Harvard University, obtained psilocybin from Sandoz and began experimenting with it. With his colleague Richard Alpert (later Ram Dass), he founded the **Harvard Psilocybin Project** to study the effects of psilocybin on consciousness.
 
@@ -133,3 +133,7 @@ Psilocybin mushrooms have experienced a dramatic cultural rehabilitation:
 - Academic conferences and training programs for psychedelic therapists
 
 See [[psychedelic-mushroom-taxonomy]] for the scientific classification of these fungi and [[psilocybin-clinical-trials]] for current research status.
+
+## See Also
+
+- [[psychedelic-mushroom-set-and-setting]]

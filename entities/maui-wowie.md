@@ -115,11 +115,7 @@ The strain is generally not recommended for conditions requiring sedation, such 
 
 ## See Also
 
-- [[jack-herer]] — classic sativa with similar uplifting effects
 - [[trainwreck]] — sativa-dominant hybrid with energetic profile
-- [[sour-diesel]] — invigorating sativa for daytime use
 - [[cannabis-blue-dream]] — balanced hybrid with cerebral qualities
-- [[pineapple-express-entity]] — tropical-flavored sativa-dominant hybrid
-- [[cannabis-indoor-growing-guide]] — pure landrace sativa from Africa
-- [[chemdawg]] — influential parent strain with potent effects
+- [[cannabis-indoor-growing-basics]] — pure landrace sativa from Africa
 - [[super-lemon-haze]] — citrusy sativa-dominant hybrid

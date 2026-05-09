@@ -104,13 +104,8 @@ In **folk medicine** across Central and South Asia, cumin is taken for cold symp
 
 ## See Also
 
-- [[foeniculum-vulgare]]
-- [[coriandrum-sativum]]
-- [[nigella-sativa]]
+- [[foeniculum-vulgare-entity]]
 - [[zingiber-officinale]]
-- [[pimpinella-anisum]]
 - [[ferula-assafoetida]]
-- [[borago-officinalis]]
 - [[salvia-officinalis]]
-- [[capsicum-annuum]]
-- [[solanum-lycopersicum]]
+- [[solanum-tuberosum]]

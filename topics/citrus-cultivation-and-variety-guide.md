@@ -397,7 +397,7 @@ In food forest design, place citrus in the lower canopy layer, below larger deci
 ## See Also
 
 - [[avocado-cultivation-and-variety-guide]]
-- [[mango-cultivation-and-variety-guide]] *(if it exists)*
+- [[fig-cultivation-and-variety-guide]] *(if it exists)*
 - [[loquat-cultivation-and-variety-guide]]
 - [[persimmon-cultivation-and-variety-guide]]
 - [[companion-planting-and-polycultures]]

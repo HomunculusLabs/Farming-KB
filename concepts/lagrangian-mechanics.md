@@ -5,7 +5,8 @@ tags: [physics, mechanics, dynamics, engineering, mathematics]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 
 ## Overview
@@ -16,7 +17,7 @@ The method is equivalent to Newtonian mechanics for ordinary particles, but it c
 
 This coordinate freedom makes Lagrangian mechanics especially useful for pendulums, linkages, robots, vibrating structures, spacecraft attitude models, electrical analog networks, and continuum field theories.
 
-The formulation is one of the main bridges between [[continuum-mechanics]], [[finite-element-method]], [[statistical-mechanics]], [[quantum-mechanics-fundamentals]], and modern field theory.
+The formulation is one of the main bridges between [[finite-element-method]], [[quantum-mechanics-fundamentals]], and modern field theory.
 
 A Lagrangian model is not merely a change of notation. It exposes symmetry, conservation laws, constraints, and energy flow in a way that is often hidden in direct force balance.
 
@@ -134,8 +135,6 @@ Research basis: Wikipedia pages on Lagrangian mechanics, Euler-Lagrange equation
 
 ## See Also
 
-- [[continuum-mechanics]]
 - [[finite-element-method]]
-- [[statistical-mechanics]]
 - [[quantum-mechanics-fundamentals]]
 - [[laws-of-thermodynamics]]

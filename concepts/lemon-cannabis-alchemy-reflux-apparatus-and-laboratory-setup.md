@@ -76,45 +76,6 @@ Pressure builds dangerously only if ice is neglected or the
 apparatus heats too fast before the lid is sufficiently cooled.
 Reflux for three to four hours dissolves most essential oils into the
 solvent. See
-[[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
-for solvent options and their hazard profiles.
-
-## Soxhleting Procedure
-
-After refluxing, drain the dark oil/solvent liquid from the spent
-cannabis. Wash the material repeatedly with clean solvent using a
-vegetable-draining colander fitted with a large coffee filter paper
-set above the stainless-steel pot. The dark solvent/oil mixture
-drains free of vegetable matter. Set the colander on the pot
-(containing the oil solution) and reassemble for refluxing. As the
-solution boils, condensed solvent drips through the colander, washing
-remaining oil from the cannabis into the pot. Extraction is complete
-when drops from the colander leave no colored residue on glass.
-
-## Cooling and Safety
-
-Before opening after soxhleting, cool the apparatus to condense all
-fumes. Set the stew pot in ice water for several minutes. Keep a
-thick blanket soaking in the tub; a water-soaked blanket is an
-excellent fire extinguisher.
-
-## Solvent Distillation and Collection
-
-Place a small collection pan in the colander (replacing spent
-cannabis). Reassemble and return to the water bath. As the solvent/
-oil solution boils, pure solvent condenses and drips into the pan.
-Oil remains in the pot. The collected solvent, essentially pure, is
-saved for future extraction.
-
-After solvent removal, keep the pot in boiling water to eliminate
-traces. For toxic solvents or those containing water, add water to
-the oil and evaporate in an oil bath (cottonseed oil) at ~220
-degrees F. When water is gone, all solvent traces are removed since
-all mentioned solvents evaporate below water's boiling point.
-
-## Scale Considerations
-
-These principles scale up to industrial operations. See
 [[lemon-cannabis-alchemy-high-volume-extraction-method]] for the
 55-gallon drum apparatus performing refluxing, soxhleting,
 distilling, and solvent collection at large scale. The fundamental
@@ -123,10 +84,6 @@ plastic-sheet pressure relief remains constant regardless of scale.
 
 ## See Also
 
-- [[lemon-cannabis-alchemy-historical-perspective-and-references]]
-
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
 - [[lemon-cannabis-alchemy-high-volume-extraction-method]]
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]
 - [[lemon-cannabis-alchemy-isomerization]]

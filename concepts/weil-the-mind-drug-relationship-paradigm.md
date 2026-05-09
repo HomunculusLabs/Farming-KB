@@ -119,9 +119,6 @@ Despite these challenges, the trajectory of consciousness research and drug poli
 
 ## Related
 
-- [[weil-the-natural-mind-altered-states-normalcy]] — The book's opening thesis
 - [[weil-intoxication-and-consciousness-theory]] — The theoretical basis for the new paradigm
-- [[weil-drug-use-as-innate-human-drive]] — Evidence against the disease model of drug use
 - [[weil-psychedelic-experience-set-and-setting]] — Empirical support for contextual primacy
-- [[weil-cultural-attitudes-toward-altered-states]] — Cultural dimensions of the paradigm
 - [[mandrake-plant]] — Author biography

@@ -107,13 +107,8 @@ Amaringo's visions include spiritual figures from many traditions:
 
 ## Related Topics
 
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] -- shamanic ranks
 - [[yakuruna-water-spirits-of-the-amazon]] -- water realm beings
-- [[sachamama-the-mother-of-the-forest]] -- earth realm being
 - [[amazonian-sorcery-illness-and-curing-practices]] -- illness and curing
 
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
-
 - [[amazonian-graded-powers-and-the-seven-rays-of-wisdom]]
-- [[water-pathways-through-plants]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]

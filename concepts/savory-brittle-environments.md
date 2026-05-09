@@ -87,8 +87,6 @@ Practical indicators of brittleness include:
 
 ## See Also
 
-- [[permaculture-grazing-and-pasture]]
 - [[permaculture-designers-manual-grazing-management]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]
 - [[glomalin-and-soil-carbon]]

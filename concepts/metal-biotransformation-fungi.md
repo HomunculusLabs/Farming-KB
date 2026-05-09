@@ -3,7 +3,7 @@ title: Metal Biotransformation Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -51,41 +51,11 @@ The oxalate-over-extracting fungus Beauveria caledonica transforms cadmium, copp
 
 ## Mycorrhizal Metal Transformations
 
-[[mycorrhizal-fungi]] play key roles in metal biotransformation in the rhizosphere:
-
-- Involved in proton- and ligand-promoted metal mobilization from mineral sources
-- Metal immobilization via biosorption and accumulation within biomass
-- Extracellular precipitation of mycogenic toxic metal oxalates
-- Enhanced weathering of soil minerals resulting in metal cation release
-- Dissolution of calcium-bearing minerals is well documented (Callot et al., 1985; Lapeyrie et al., 1990, 1991)
-- The ectomycorrhizal Piloderma extracted K and/or Mg from biotite, microcline and chlorite (Glowa et al., 2003)
-- [[suillus-granulatus]] and [[paxillus-involutus]] released elements from apatite and wood ash (Wallander et al., 2003)
-
-## Bioremediation Applications
-
-The ability of fungi to transform toxic metals has potential for treatment of contaminated land:
-
-- **Immobilization**: Biosorption, accumulation, and precipitation convert metals into chemically more inert forms, resulting in detoxification (Gadd, 2000; Fomina and Gadd, 2002)
-- **Dissolution**: Can be used in cleaning up soils, solid industrial wastes, low-grade ores and metal-bearing minerals (Gadd, 2000, 2002; Brandl, 2001)
-- **Cr(VI) reduction**: Fungi with Cr(VI)-reducing activity may treat Cr-polluted environments
-
-## Desert Varnish and Patina Formation
-
-An oxidized metal layer (desert varnish) a few millimetres thick found on rocks and soils of arid and semi-arid regions is believed to be of microbial origin with proposed fungal involvement. Fungi can oxidize manganese and iron in minerals and precipitate them as oxides, forming dark Fe(II)- and Mn(II)-patinas on glass surfaces (Eckhardt, 1985; Grote and Krumbein, 1992).
-
-Sources: Gadd, Watkinson and Dyer, Fungi in the Environment (Cambridge University Press, 2006), Ch. 5.
-
-See also: metal biotransformation fungi, metal biotransformation fungi, [[fungal-bioremediation]], metal biotransformation fungi, metal biotransformation fungi, metal biotransformation fungi
+[[suillus-granulatus]] and [[fungal-bioremediation]], metal biotransformation fungi, metal biotransformation fungi, metal biotransformation fungi
 
 ## Related
 
-- [[heavy-metal-bioremediation]]
-
-## Merged: Fungal Weathering Rock Minerals
-
-# Fungal Weathering of Rock and Minerals
-
-Fungi are among the most important biological agents of rock and mineral weathering, contributing significantly to soil formation, [[fungal-role-in-carbon-cycling]], and landscape evolution. Their filamentous growth habit, ability to translocate nutrients within [[fungal-mycelial-foraging-resource-heterogeneity]], and production of aggressive biochemical metabolites make them particularly effective at transforming geological substrates.
+- [[fungal-role-in-carbon-cycling]], and landscape evolution. Their filamentous growth habit, ability to translocate nutrients within [[fungal-mycelial-foraging-resource-heterogeneity]], and production of aggressive biochemical metabolites make them particularly effective at transforming geological substrates.
 
 ## Overview
 

@@ -6,23 +6,13 @@ type: concept
 tags: [farming, revegetation, desert, seeds, fukuoka]
 sources: ["raw/papers/administrator-microsoft-word-fukuoka-textdoc.md"]
 ---
-# [[clay-pellet-seed-encapsulation]] Seed Broadcasting
-
-Clay pellet seed broadcasting is [[masanobu-fukuoka]]'s technique for
+# [[masanobu-fukuoka]]'s technique for
 large-scale revegetation of barren and desertified lands. The method
 involves coating seeds in protective clay pellets that preserve them
 until natural rainfall creates conditions suitable for germination. This
 approach embodies Fukuoka's philosophy of working with nature rather
-than attempting to [[query-what-causes-cannabis-plants-to-stretch-and-how-to-control-it]]. See also [[natural-farming-five-principles]]
-and [[do-nothing-farming-philosophy]].
-
-## The Desert-Rain Revelation
-
-While standing in an American desert, Fukuoka experienced a pivotal
-realization: "rain does not fall from the heavens; it issues forth from
-the ground." Deserts do not form because there is no rain; rather, rain
-ceases to fall because the vegetation has disappeared. Building a dam in
-the desert treats the symptoms but does not address the [[fukuoka-pine-rot-root-cause]].
+than attempting to [[natural-farming-five-principles]]
+and [[fukuoka-pine-rot-root-cause]].
 
 The relationship between vegetation and rainfall is circular and
 self-reinforcing. Plant cover retains moisture in the soil, moderates
@@ -36,7 +26,7 @@ breaks down and arid conditions intensify.
 Fukuoka's clay pellets combine several types of seeds in a single
 protective casing. The seed mixture includes:
 
-- [[green-manure-guide]] trees such as black wattle ([[acacia]] mearnsii), capable of
+- [[acacia]] mearnsii), capable of
   growing in areas with annual rainfall of less than 2 inches
 - Clover (Trifolium spp.) for nitrogen fixation and ground cover
 - Alfalfa (Medicago sativa) for deep-rooted soil improvement

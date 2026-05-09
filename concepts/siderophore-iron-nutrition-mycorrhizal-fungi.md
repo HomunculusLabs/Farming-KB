@@ -130,9 +130,6 @@ competitive interactions with microbial siderophore systems.
 
 ## See Also
 
-- [[symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition]]
-
 - [[fungal-siderophore-structures-classification]]
-- [[mycorrhizal-siderophores-iron-acquisition]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
 - [[orchid-mycorrhiza-protocorm-development]]

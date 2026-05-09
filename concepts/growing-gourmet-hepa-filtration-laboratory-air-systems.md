@@ -28,12 +28,7 @@ HEPA filters eliminate particulates down to 0.3 microns
 with an efficiency rating of 99.99%. ULPA (Ultra-Particulate
 Air) filters screen out particles down to 0.1 microns with
 99.9999% efficiency. HEPA filters are the workhorse of the
-mushroom cultivation laboratory.
-
-Once airborne contamination is eliminated, the other vectors
-of contamination become much easier to control.
-
-See also: [[growing-gourmet-six-vectors-of-contamination]]
+[[growing-gourmet-six-vectors-of-contamination]]
 
 ## Positive Pressurization System
 
@@ -134,6 +129,5 @@ laboratory integrity. However, decontamination chambers and
 air curtains should be the last projects on a long list of
 other priorities for the financially conservative investor.
 
-See also: [[growing-gourmet-spawn-laboratory-design]]
 See also: [[growing-gourmet-contamination-prevention]]
 See also: [[growing-gourmet-spawn-production]]

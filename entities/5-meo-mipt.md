@@ -16,7 +16,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 tryptamine first synthesized and characterized by Alexander Shulgin. It is
 documented in tihkal (Tryptamines I Have Known and Loved), where it is described
 as producing a warm, sensual, and predominantly physical psychedelic experience
-compared to the more visual and cognitive effects of [[dmt]] or [[psilocin]].
+compared to the more visual and cognitive effects of [[psilocin]].
 Its informal name "Moxy" reflects its methoxy substitution pattern.
 
 ## Chemical Properties
@@ -29,7 +29,7 @@ Its informal name "Moxy" reflects its methoxy substitution pattern.
 - **Solubility:** Soluble in organic solvents including ethanol, methanol, and
   chloroform; moderately soluble in water as a salt
 
-5-MeO-MiPT is structurally related to [[5-meo-dmt]] and [[5-meo-dipt-entity-tihkal]] through its
+5-MeO-MiPT is structurally related to [[5-meo-dipt-entity-tihkal]] through its
 5-methoxy substitution on the indole ring. The N-methyl-N-isopropyl substitution
 pattern on the terminal amine distinguishes it from the simpler N,N-dimethyl
 configuration of DMT and produces significantly altered pharmacokinetic and
@@ -52,36 +52,7 @@ by methylation with dimethyl sulfate or methyl iodide.
 activity at 5-HT1A and possibly other serotonin receptor subtypes. The compound is
 metabolized by monoamine oxidase (MAO) and by cytochrome P450 enzymes, with the
 isopropyl group providing some resistance to oxidative deamination. This metabolic
-stability, relative to [[dmt]], contributes to its longer duration of action when
-administered orally. Unlike DMT, 5-MeO-MiPT is orally active without the need for
-MAO inhibition, though oral bioavailability is lower than insufflated or vaporized
-routes. The compound also shows affinity for sigma-1 receptors, which may
-contribute to its unique subjective profile.
-
-## Effects and Dosage
-
-The subjective effects of 5-MeO-MiPT are notably different from other common
-psychedelic tryptamines. In Shulgin's characterization, the compound produces
-relatively mild visual effects but pronounced somatic and tactile effects. Common
-effects include:
-
-- Warm, pleasant body sensations and physical euphoria
-- Enhanced tactile sensitivity and sensual appreciation
-- Mild to moderate visual enhancement (color intensification, pattern recognition)
-- Emotional openness and mild disinhibition
-- Moderate stimulation at lower doses, sedation at higher doses
-- Reduced cognitive alteration compared to [[psilocin]] or [[dmt]]
-
-Dosage ranges from 4 to 6 mg orally for threshold effects, 6 to 12 mg for moderate
-effects, and 12 to 20 mg for strong effects. Insufflated doses are approximately
-half of oral doses. Duration is 4 to 6 hours orally and 2 to 4 hours when
-insufflated. The compound is noted for a relatively gentle onset compared to other
-tryptamines, with effects building gradually over 30 to 60 minutes.
-
-## Comparative Pharmacology
-
-Within the 5-methoxy tryptamine series, 5-MeO-MiPT occupies a distinctive position.
-Compared to [[5-meo-dmt]], it is longer-acting, less overwhelming, and produces
+stability, relative to [[psilocin]] or [[5-meo-dmt-entity]], it is longer-acting, less overwhelming, and produces
 more body-focused effects. Compared to 5-MeO-DiPT ("Foxy Methoxy"), it is less
 auditorily distortive and generally regarded as having a more benign safety profile.
 The isopropyl substitution on the amine nitrogen is the key structural feature
@@ -121,10 +92,6 @@ legal status varies significantly by jurisdiction.
 
 ## See Also
 
-- [[5-meo-dmt]]
 - [[5-meo-dipt-entity-tihkal]]
-- [[dmt]]
 - [[psilocin]]
-- [[tryptamine]]
-- tihkal
 - [[miprocin]]

@@ -39,47 +39,7 @@ cascade seed downslope over time, gradually reforesting eroded terrain.
 
 ## Nut Production
 
-Chestnuts are listed as a primary tree crop in the [[mollison-tree-crop-systems-permaculture]]
-context. Mollison notes that nuts such as macadamia nuts or chestnuts,
-using a protective interplant of tagasaste or similar nurse species, can
-be established in degraded landscapes.
-
-Chestnuts require about 2 metres of good topsoil for optimal production.
-In the biological indicators section, chestnut is listed as an
-alkaline-intolerant species (pH 4.5-6), alongside blueberry, chicory,
-endive, potato, fennel, tea, and coffee. This information guides site
-selection for chestnut plantings.
-
-## Seed Propagation
-
-Chestnuts in peat sprout readily and can be potted for later outplanting.
-This ease of propagation makes chestnut accessible for small-scale
-planting and direct seeding. Chestnuts can also be used as livestock feed:
-large acorns, chestnuts, or starchy seeds can be sprouted or rolled to
-crack them for poultry food, using a garden roller on a hard surface.
-
-## Integration with Animal Systems
-
-Chestnuts serve as a forage source for pigs, poultry, and other livestock.
-The fallen nuts provide autumn and winter feed, reducing the need for
-supplemental grain. In traditional European and Asian systems, chestnut
-orchards were grazed by pigs that harvested the fallen nuts, converting
-them to meat and manure that fertilised the trees.
-
-## Timber and Wood Products
-
-Chestnut wood is durable, rot-resistant, and useful for fence posts,
-structural timber, and fuelwood. The coppice ability of chestnut means it
-can be managed for both nut production and periodic wood harvest.
-Mollison includes chestnut among the deep-rooting trees whose root
-systems persist for decades after the tree is harvested, continuing to
-stabilise slopes.
-
-## Soil Building
-
-As a broadleaf deciduous tree, chestnut contributes significant leaf
-litter that builds soil humus. The deep root system brings minerals from
-subsoil layers to the surface through leaf fall. In [[mollison-designers-soil-water-storage-in-forest-systems]],
+Chestnuts are listed as a primary tree crop in the [[mollison-designers-soil-water-storage-in-forest-systems]],
 deep-rooting trees like chestnut play a role in the soil water economy,
 drawing water from deep layers and cycling it through the system.
 
@@ -114,8 +74,6 @@ garden systems.
 
 ## Related Concepts
 
-- [[mollison-tree-crop-systems-permaculture]]
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
-- [[mollison-farm-forestry-and-woodlot-design]]
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]

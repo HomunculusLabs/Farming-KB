@@ -130,9 +130,7 @@ it a symbol of corrupt monopoly power.
 
 ## See Also
 
-- [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-food-gods-tea-coffee-drugs-gentility]]
-- [[mckenna-sugar-slavery-and-dominance]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
-- [[ethnomycology]]
+- ethnomycology
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]

@@ -88,6 +88,6 @@ Cabbage-family seed production requires roughly 4 sq ft (0.4 sq m) per plant. To
 
 ## Related
 
-- herbal plant remedies — companion topic on using plants for garden health
+- [[herbal-plant-remedies]] — companion topic on using plants for garden health
 - [[compost-building-guide]] — building soil fertility for seed crops
 - [[sepp-holzer-method]] — broader permaculture approach to seed and plant management

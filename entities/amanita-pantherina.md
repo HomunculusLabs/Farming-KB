@@ -12,17 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Panther Cap** | *Amanita pantherina* (DC.) Krombh.
 
-A striking, widely distributed basidiomycete mushroom in the family amanitaceae knneurotropic-fungird-spot cap pattern and its content of amanita-muscaria-and-ibotenic-acid-fungi and muscimol, the same psychoactive compounds found in [[amanita-muscaria]]. Unlike the psilocybin-containing fungi, A. pantherina belongs to the group of neurotropic fungi classified by their ibotenic acid content rather than indole alkaloids. It is considered significantly more toxic than A. muscaria and is responsible for numerous cases of poisoning, particularly in Europe.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Amanitacamanita-regalis* Amanita
-
-Amanita pantherina was first described by Augustin Pyramus de Candolle in 1815 and later validated by Julius Vincenz von Krombholz. It is placed in Amanita section Amanita, subgenus Amanita, alongside [[amanita-muscaria]] and amanita regalis. Several varieties have been described, including var. pantherina and var. abietis, though modern taxonomy tends to treat these as part of a species complex rather than distinct taxa.
+A striking, widely distributed basidiomycete mushroom in the family amanitaceae knneurotropic-fungird-spot cap pattern and its content of amanita-muscaria-and-ibotenic-acid-fungi and muscimol, the same psychoactive compounds found in [[amanita-muscaria-entity]] and amanita regalis. Several varieties have been described, including var. pantherina and var. abietis, though modern taxonomy tends to treat these as part of a species complex rather than distinct taxa.
 
 ## Morphology
 
@@ -50,11 +40,7 @@ The primary bioactive compounds in Amanita pantherina are amanita-muscaria-and-i
 
 Muscimol, the decarboxylated product of ibotenic acid, is the principal psychoactive compound. It is a selective GABA-A receptor agonist, producing sedative, hypnotic, and hallucinatory effects. The conversion of ibotenic acid to muscimol occurs through decarboxylation, which can be accelerated by drying or heating the mushroom tissue.
 
-The concentrations of these compounds vary significantly between specimens and geographic populations. Amanita pantherina generally contains higher concentrations of ibotenic acid relative to muscimol compared to [[amanita-muscaria]], contributing to its reputation as more dangerous. The ratio of ibotenic acid to muscimol is a critical factor in determining the character and safety of the psychoactive experience.
-
-## Ethnopharmacology and Traditional Use
-
-The use of Amanita pantherina as an entheogenic or inebriating substance is less well-documented than that of [[amanita-muscaria]]. However, it has been used traditionally in parts of Eastern Europe and Siberia, where some indigenous peoples reportedly included it among the Amanita species consumed for their psychoactive properties. The Koryak and Chukchi peoples of Siberia are most famously associated with Amanita use, and while A. muscaria was the primary species, A. pantherina may have been consumed when A. muscaria was unavailable.
+The concentrations of these compounds vary significantly between specimens and geographic populations. Amanita pantherina generally contains higher concentrations of ibotenic acid relative to muscimol compared to [[amanita-muscaria-entity]]. However, it has been used traditionally in parts of Eastern Europe and Siberia, where some indigenous peoples reportedly included it among the Amanita species consumed for their psychoactive properties. The Koryak and Chukchi peoples of Siberia are most famously associated with Amanita use, and while A. muscaria was the primary species, A. pantherina may have been consumed when A. muscaria was unavailable.
 
 In Japan, several cases of intentional ingestion for recreational purposes have been documented, often resulting in hospitalization. The unpredictable potency and higher toxicity relative to A. muscaria make A. pantherina a particularly dangerous choice for such use.
 
@@ -76,10 +62,7 @@ Treatment is primarily supportive, with benzodiazepines used to control agitatio
 
 Amanita pantherina can be confused with several other Amanita species, some of which are deadly:
 
-- **[[amanita-muscaria]]**: Generally larger, with a bright red to orange cap and yellow warts; the volva is typically comprised of concentric rings rather than the more ragged sac-like structure of A. pantherina
-- **amanita gemmata**: Similar in appearance but smaller, with a pale yellow to buff cap and more delicate warts
-- **amanita regalis**: A closely related species with a darker, more uniformly brown cap and often a more robust stature; contains similar active compounds
-- **Deadly Amanita species** (e.g., [[amanita-phalloides-death-cap]]): These have white gills, a volva, and annulus but lack the distinctive cap warts and have a smooth cap surface; they contain amatoxins rather than ibotenic acid/muscimol and are far more dangerous
+- **[[amanita-phalloides-death-cap]]): These have white gills, a volva, and annulus but lack the distinctive cap warts and have a smooth cap surface; they contain amatoxins rather than ibotenic acid/muscimol and are far more dangerous
 
 The white warts on the brown cap are the most reliable field character for identifying A. pantherina, but foragers should exercise extreme caution with any Amanita species.
 
@@ -105,16 +88,8 @@ Amanita pantherina is not considered threatened. It is a common and widely distr
 
 The specific epithet "pantherina" means "of the panther" in Latin, referring to the spotted pattern of the cap warts that resembles a panther's coat. The common name "panther cap" is a direct translation. The species has been known to European mycologists since the early 19th century and has been responsible for numerous recorded poisonings throughout its range, contributing significantly to the development of awareness about toxic mushrooms.
 
-The inclusion of Amanita pantherina in ethnopharmacological studies alongside [[amanita-muscaria]] reflects the traditional Siberian practice of consuming multiple Amanita species for their inebriating properties. However, the higher toxicity of A. pantherina compared to A. muscaria has led most authorities to strongly advise against its consumption.
-
-## Legal Status
-
-Amanita pantherina is not specifically scheduled in most jurisdictions, as its active compounds (ibotenic acid and muscimol) are not controlled under the UN Convention on Psychotropic Substances. However, it may be regulated under local laws regarding poisonous mushrooms or general drug legislation. In some European countries, sale for human consumption is restricted. Muscimol itself has become subject to increased regulatory attention in recent years as it has appeared in commercial products marketed as legal alternatives to [[psilocybin-mushrooms]].
+The inclusion of Amanita pantherina in ethnopharmacological studies alongside [[psilocybin-mushrooms]].
 
 ## See Also
 
-- [[amanita-muscaria]] — the iconic fly agaric, the most well-known ibotenic acid-containing species
-- amanita regalis — the brown panther cap, a closely related species
-- amanita-muscaria-and-ibotenic-acid-fungi — the primary excitotoxic compound found in section Amanita
-- muscimol — the principal psychoactive compound, a GABA-A agonist
 - [[gymnopilus-spectabilis-entity]] — a psilocybin-containing species sometimes confused with Amanita

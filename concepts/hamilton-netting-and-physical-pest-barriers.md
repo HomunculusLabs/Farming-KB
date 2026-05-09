@@ -124,9 +124,6 @@ free technique prevents the fly from laying eggs near the plant stem.
 
 ## Related Concepts
 
-- [[hamilton-organic-pest-control]]
 - [[hamilton-cloches-and-frost-protection]]
-- [[hamilton-organic-weed-control]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[hamilton-hedges-and-windbreaks]]
 - [[hamilton-pest-and-disease-control-organic]]

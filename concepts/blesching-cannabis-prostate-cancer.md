@@ -109,8 +109,6 @@ sex, and transforming emotionally limiting beliefs.
 
 ## See Also
 
-- [[blesching-cannabis-breast-cancer]]
 - [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-immune-system-modulation]]
 - [[cannabis-chronic-pain-management]]

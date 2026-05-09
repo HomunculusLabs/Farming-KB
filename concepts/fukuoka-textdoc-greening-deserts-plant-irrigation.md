@@ -116,8 +116,6 @@ resources.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-laying-waste-land-sea]] for environmental destruction
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]] for minimal intervention
-- [[fukuoka-textdoc-natural-soil-management]] for soil restoration
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]] for farming and desertification
 - [[fukuoka-textdoc-errors-of-human-intellect]] for the arrogance root cause

@@ -127,8 +127,6 @@ Ingham advises asking composters for data showing their product contains the bio
 
 ## Related Concepts
 
-- [[aact-compost-quality-standards-ingham|Compost quality standards for tea]]
 - [[aact-compost-organism-levels|Compost organism levels]]
-- [[aact-brewing-ingredients-ingham|AACT brewing ingredients]]
 - [[thermal-composting-vs-aact|Thermal composting versus AACT]]
 - [[vermicomposting|Vermicomposting guide]]

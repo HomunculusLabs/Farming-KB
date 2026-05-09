@@ -20,39 +20,7 @@ Molecular methods have revolutionized the discrimination of fungal taxa,
 monitoring of species, and assessment of fungal diversity. These techniques
 provide powerful tools for identifying fungi that are difficult or impossible
 to distinguish by morphology alone, and they enable detection of fungi in
-complex environmental samples such as [[biodiversity-fungi-soil-ecosystems]].
-
-## Arbitrarily Primed PCR (apPCR)
-
-Arbitrarily primed polymerase chain reaction (apPCR) uses single primers
-of arbitrary nucleotide sequence to amplify genomic DNA. The technique
-generates reproducible banding patterns that can serve as molecular
-fingerprints for distinguishing among closely related fungal species or
-strains. Primers that represent repeated DNA sequence motifs, such as
-(AGG)5, (GACA)4, and (GTC)5, have been used successfully with fungal
-genomic DNA. Amplification reactions typically consist of 35 cycles with
-temperature regimes optimized for each primer-template combination.
-
-The method is so sensitive that as little as 25 picograms of DNA amplified
-with species-specific primers can yield a detectable product. Products
-are visualized by electrophoresis in 2% agarose gels and stained with
-ethidium bromide. apPCR band patterns have been used to generate
-species-specific primers through cloning and sequencing of diagnostic
-bands.
-
-## Dual-Primer and Nested-Primer PCR
-
-Dual-primer PCR (dpPCR) uses two primers designed from the terminal
-sequences of a species-specific apPCR product. This approach can detect
-target species even when mixed with other species at ratios of 1:100.
-The dpPCR process is less demanding of thermocycler accuracy than apPCR,
-making it easier and faster to implement.
-
-Nested-primer PCR (npPCR) increases sensitivity further by using a
-second set of primers that anneal to sequences internal to the dpPCR
-product. With three levels of amplification, npPCR can detect as few as
-a handful of fungal genomes in any complex sample. This level of
-sensitivity is particularly valuable for detecting [[biodiversity-of-fungi-endophytic-fungi]] that may be present at very low biomass within host
+complex environmental samples such as [[biodiversity-of-fungi-endophytic-fungi]] that may be present at very low biomass within host
 plant tissues.
 
 ## Ribosomal RNA/DNA Sequence Comparisons
@@ -116,18 +84,7 @@ Nucleic acid extractions from fungi colonizing soil are particularly
 difficult due to humic substances that interfere with Taq polymerase. The
 introduction of magnetic capture techniques has enabled purification of
 both DNA and RNA from soil samples, facilitating molecular identification
-of [[biodiversity-fungi-soil-fungal-communities]] without the need for
-culturing.
-
-## Species-Specific Primers and Molecular Probes
-
-Species-specific primers can be designed from unique sequences identified
-through apPCR or rDNA sequencing. For example, species-specific dpPCR
-primers were constructed from the terminal nucleotide sequences of cloned
-apPCR products of Colletotrichum magna. These primers could detect C.
-magna DNA even when mixed with four other Colletotrichum species at a
-ratio of 1:100, demonstrating the utility of molecular identification
-for detecting [[biodiversity-fungi-plant-pathogens]] in complex samples.
+of [[biodiversity-fungi-plant-pathogens]] in complex samples.
 
 ## Important Considerations
 

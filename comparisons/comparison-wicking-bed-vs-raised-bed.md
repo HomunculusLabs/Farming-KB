@@ -21,32 +21,6 @@ more complex construction and are less flexible for certain crops and practices.
 
 ## Wicking Bed
 
-[[wicking-bed-construction]]
-
-A wicking bed is a self-watering raised garden bed that uses a built-in water
-reservoir beneath the soil to deliver moisture to plant roots through capillary
-action. The system consists of a waterproof container, a water-filled reservoir at
-the bottom, a geotextile fabric barrier, and a soil layer above that wicks moisture
-upward to plant roots. Water moves upward from the reservoir through the soil via
-capillary action, keeping the root zone consistently moist without surface watering.
-
-The core principle is sub-irrigation, which reduces evaporation losses by up to 80%
-compared to top-watering methods. Plants draw water as needed, creating a self-
-regulating system that prevents both underwatering and overwatering. This
-consistency prevents common problems like blossom end rot in tomatoes caused by
-fluctuating moisture levels.
-
-Key components include the waterproof liner (pond liner or thick polyethylene), the
-reservoir layer (gravel, scoria, or recycled materials), geotextile separation
-fabric, growing medium (soil mix optimized for wicking), overflow pipe (prevents
-waterlogging by allowing excess drainage), and fill pipe (vertical PVC for refilling).
-Construction costs are higher than standard raised beds due to the liner and
-reservoir materials, but water savings and reduced maintenance offset this over time.
-The reservoir typically needs refilling only every 1 to 2 weeks depending on climate
-and planting density.
-
-## Raised Bed
-
 [[raised-bed-gardening]]
 
 Raised beds elevate the growing surface above ground level, improving drainage,
@@ -109,15 +83,6 @@ forgiving and easier to experiment with.
 Some gardeners combine elements of both systems. A raised bed with a partial liner
 extending partway up the sides creates a semi-wicking system retaining more moisture
 while allowing some drainage. Adding drip irrigation with mulch to a raised bed
-approximates wicking bed efficiency at lower cost. [[hugelkultur]] beds can be
-considered a form of wicking bed where buried wood acts as a long-term moisture
-reservoir. Self-watering containers for individual plants use the same capillary
-principles as wicking beds in a smaller format suitable for patios and balconies.
-
-## See Also
-
-- [[hemenway-hugelkultur-guide]]
-- [[comparison-drip-irrigation-vs-passive-irrigation]]
+approximates wicking bed efficiency at lower cost. [[hemenway-hugelkultur-guide]]
 - [[square-foot-gardening]]
-- [[keyhole-beds]]
 - [[mulch-types-and-effects]]

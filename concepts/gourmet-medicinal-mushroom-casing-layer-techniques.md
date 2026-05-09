@@ -109,8 +109,6 @@ The primary risk of applying casing to wood-based substrates is Trichoderma (gre
 - Humidity is excessive or air circulation is inadequate
 
 For this reason, many gourmet mushroom cultivators avoid casing entirely and instead rely on manipulating environmental parameters (temperature, humidity, CO2, and light) to trigger fruiting.
-- [[oyster-mushroom-species-fruiting-parameters]]
 - [[gourmet-medicinal-mushroom-spawn-grain-production]]
-- [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]
 - [[mycelium-running-gourmet-mushroom-species]]
 - [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]

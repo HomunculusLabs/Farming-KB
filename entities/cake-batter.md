@@ -107,14 +107,9 @@ Appetite stimulation is reliable, consistent with the high THC content and Cooki
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[granddaddy-purple]]
-- [[wedding-cake-cannabis]]
 - [[gelato-cannabis]]
-- [[banana-kush]]
 - [[ice-cream-cake-cannabis]]
-- [[cannabis-indoor-growing-guide]]
 - [[og-kush]]
-- [[chemdawg]]
 - [[headband]]
 - [[sfv-og]]

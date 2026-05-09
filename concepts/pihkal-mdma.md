@@ -132,8 +132,6 @@ in psychiatric medicine.
 
 ## See Also
 
-- [[pihkal-mda]]
 - [[pihkal-mescaline]]
-- [[pihkal-2c-b]]
 - [[pihkal-introduction-and-methodology]]
 - [[pihkal-cautionary-note-and-legal-context]]

@@ -1,7 +1,7 @@
 ---
 title: Oyster Mushroom Spawn Preparation
 created: 2026-04-28
-tags: [mycology, oyster-mushrooms, spawn, grain-inoculation, sterile-technique]
+tags: [[mycology, oyster-mushrooms, spawn, grain-inoculation, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -13,15 +13,7 @@ type: concept
 Spawn is the living mycelial inoculum used to seed bulk substrates for mushroom
 cultivation. High-quality spawn is the single most important input determining
 cultivation success. Poor spawn leads to slow colonization, low yields, and
-frequent contamination failures. [[spawn-preparation]] involves expanding mycelium
-from a pure culture onto a sterile nutritious medium, typically grain, under
-rigorously controlled conditions.
-
-## Pure Culture Maintenance
-
-All spawn production begins with a verified pure culture of the desired
-mushroom strain. Pure cultures are maintained on agar slants or plates, typically
-using [[malt-extract-agar]] or potato dextrose agar. Cultures are stored at 2 to 4
+frequent contamination failures. [[malt-extract-agar]] or potato dextrose agar. Cultures are stored at 2 to 4
 degrees Celsius, where growth slows dramatically and the culture can remain
 viable for 6 to 12 months. Periodic transfer to fresh media is necessary to
 maintain vigor. Strain selection is critical: commercial strains are bred for
@@ -85,8 +77,6 @@ to contamination during substrate inoculation.
 
 ## Related Concepts
 
-- [[oyster-mushroom-substrate-preparation]] describes how prepared spawn is
-  applied to bulk growing media for fruiting
 - [[mushroom-contamination-prevention]] covers sterile technique and hygiene
   protocols critical during spawn production
 - [[oyster-mushroom-fruiting-environment]] explains the environmental conditions

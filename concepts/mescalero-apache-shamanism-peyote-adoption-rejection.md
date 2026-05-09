@@ -137,8 +137,9 @@ individual shamanic authority and pervasive suspicion.
 
 ## See Also
 
-- [[harner-amanita-muscaria-siberian-shamanism]]
 - [[harner-amazonian-ayahuasca-shamanism]]
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[ethnomycology]]
 - [[hallucinogens-and-shamanism-harner-anthology]]
+
+## See Also
+
+- [[harner-mescalero-peyote-shamanism]]

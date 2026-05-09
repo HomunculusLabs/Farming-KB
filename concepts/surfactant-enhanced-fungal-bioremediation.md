@@ -22,11 +22,8 @@ hydrophobic molecules, effectively delivering them to the fungal hyphal surface
 and extracellular enzyme systems.
 
 The application of surfactants in fungal bioremediation draws on principles from
-both [[bioremediation-using-fungi]] and [[bioavailability-in-fungal-bioremediation]].
-White-rot fungi such as [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and
-Bjerkandera species produce extracellular ligninolytic enzymes including
-[[staycare-laccase-enzymes-in-bioremediation]], [[staycare-lignin-peroxidase-and-pollutant-degradation]],
-and [[staycare-manganese-peroxidase-in-fungal-bioremediation]] that oxidize PAHs, but their
+both [[bioavailability-in-fungal-bioremediation]].
+White-rot fungi such as [[staycare-laccase-enzymes-in-bioremediation]], [[staycare-manganese-peroxidase-in-fungal-bioremediation]] that oxidize PAHs, but their
 effectiveness is fundamentally limited by substrate solubility. Surfactants bridge
 this gap by mobilizing otherwise inaccessible pollutants.
 

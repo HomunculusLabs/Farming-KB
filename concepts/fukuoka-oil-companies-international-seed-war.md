@@ -99,52 +99,9 @@ Fukuoka crossed a glutinous rice from Burma with Japanese
 nonglutinous rice, developing superhigh-yielding varieties yielding
 about one metric ton per quarter-acre, roughly double Japan's average.
 His goal was the opposite of agricultural scientists: to bring back
-healthy, hardy rice suited to natural farming. He named his new
-strains "Happy Hill" because the characters for Fukuoka literally
-mean "happy hill." One expert confirmed that no short-culmed japonica
-rice produces more grains per ear than Happy Hill.
-
-## The Ministry Warning
-
-When Fukuoka applied for cultivar registration, four Ministry
-officials surrounded him with urgent warnings: "If the U.S. gets
-hold of this and converts it into hybrid F1 rice, they'll turn it
-against us."
-
-They told him to refrain from sending seed out of the country for
-three years and watch carefully any visitors. One official
-pantomimed picking up a seed and pocketing it, warning that
-"someone may even try to sneak off with just a single seed."
-
-## Germ Plasm Diplomacy and Genetic Distance
-
-The U.S. has a tradition of instructing diplomatic personnel to
-collect plant germ plasm wherever stationed; Commodore Perry's
-expedition and post-WWII Occupation Forces both did so in Japan.
-The U.S. and Soviet Union have amassed the world's largest crop
-germ plasm collections.
-
-Rice originated in the region including Yunnan, Burma, and Assam,
-where outstanding germ plasm "not distorted through artificial
-breeding" remains. The larger the genetic pool, the greater the
-influence on seed markets. Varieties genetically remote from each
-other produce clearer expression of traits in F1 crosses. Professor
-Shinjo viewed Fukuoka's rice as especially promising because it
-contained genes of ancient Burmese rice genetically remote from
-existing Japanese varieties.
-
-## The Fukuoka Paradox
-
-Fukuoka was willing to share his rice for growing under natural
-conditions in developing nations but deeply uneasy about corporate
-exploitation. His fear was that "endless genetic tampering" was
-degrading rice "into a greenhouse crop that cannot survive without
-massive applications of pesticides and chemical fertilizers." His
-rice was "complete in itself" without being turned into an F1 crop:
-"Not only is it high-yielding, it requires no pesticides or chemical
-fertilizers."
-
-See also: [[fukuoka-seed-war-rice-weapon]],
-[[fukuoka-happy-hill-rice-strain]],
+healthy, hardy rice suited to [[fukuoka-seed-war-rice-weapon]],
 [[fukuoka-hybrid-rice-international-drama]],
-[[fukuoka-critique-green-revolution]]
+
+## See Also
+
+- [[fukuoka-road-seed-ball-experiments]]

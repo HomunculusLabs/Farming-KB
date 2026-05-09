@@ -12,15 +12,11 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 Updated: 2026-04-18
 
-Source: [[harbhajan-singh]], Mycoremediation: [[fungal-bioremediation]] (2006), Chapter 8
+Source: [[fungal-bioremediation]] (2006), Chapter 8
 
 ## Overview
 
-Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coal tar, and petroleum-contaminated sites. White-rot fungi have demonstrated significant ability to degrade PAHs through their ligninolytic enzyme systems. This page covers soil bioremediation, bioreactor applications, and fungal-bacterial co-cultures for PAH degradation. See also [[enzymatic-degradation-in-mycoremediation]], [[fungal-ecology-mycoremediation]], [[factors-affecting-mycoremediation-efficiency]].
-
-## Key Fungal Species for PAH Degradation
-
-### [[phanerochaete-chrysosporium]]
+Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coal tar, and petroleum-contaminated sites. White-rot fungi have demonstrated significant ability to degrade PAHs through their ligninolytic enzyme systems. This page covers soil bioremediation, bioreactor applications, and fungal-bacterial co-cultures for PAH degradation. See also [[fungal-ecology-mycoremediation]], [[phanerochaete-chrysosporium]]
 - Most extensively studied white-rot fungus
 - Degraded all compounds in creosote mixture
 - Phenol and cresol eliminated first, followed by PCP and PAHs
@@ -29,12 +25,6 @@ Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coa
 - Grows optimally at 30C; 75% increase in degradation rate at 30C vs 20C
 - Requires nitrogen limitation for LiP production; some species (P. ostreatus, B. adusta) degrade xenobiotics even in presence of nitrogen
 - Enhanced oxidation of PAHs up to 43% with indigenous soil microorganisms (synergistic behavior)
-
-### [[trametes-versicolor]]
-- Highest PAH mineralization in straw cultures: 34.1% pyrene
-- Mineralized 15.5% phenanthrene on wheat straw (Sack et al., 1997b)
-- Produced LiP and laccase; showed 5-20x higher enzyme activities in coarse-milled wheat straw than in soil
-- PAH degradation did NOT always correlate with laccase activity in soil
 
 ### [[pleurotus-ostreatus]]
 - Removed benzo[a]pyrene 28% in first month from aged creosote soil; only 4% additional in extended incubation
@@ -63,15 +53,7 @@ Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coa
 
 ### Other Species
 - Kuehneromyces mutabilis: 47.7% pyrene mineralization; removed ~50% and 75% in sterilized/nonsterile soils
-- [[agrocybe-aegerita-detailed]]: 38.5% pyrene mineralization; 10.7% phenanthrene on straw
-- Laetiporus sulphureus: 10.7% phenanthrene, 4.3% pyrene on straw
-- Absidia cylindrospora: 98% fluorene degradation in 288 hours (vs 54% by native microflora)
-- Fusarium F5: 27.5% PAH degradation from contaminated soil
-- Coniothyrium and Fusarium: 20-30% degradation of 3-, 4-, 6-ring PAHs
-
-## Laccase-Catalyzed PAH Degradation (Key Data)
-
-See [[singh-laccase-mediated-biodegradation-pahs-dyes]] for complete table. Highlights:
+- [[singh-laccase-mediated-biodegradation-pahs-dyes]] for complete table. Highlights:
 - T. versicolor laccase + HBT: up to 100% degradation of multiple PAHs
 - Without mediator: only 3-37% degradation
 - Mediator enhancement is dramatic -- up to 30x improvement

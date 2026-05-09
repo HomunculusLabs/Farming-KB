@@ -22,34 +22,6 @@ but each can stand alone as a primary water strategy.
 
 ## Xeriscaping
 
-[[xeriscaping-guide]]
-
-Xeriscaping is a landscaping approach built around seven core principles:
-planning and design, soil improvement, limited turf areas, appropriate plant
-selection, efficient irrigation, heavy mulching, and appropriate maintenance.
-Far from the barren "zeroscaping" stereotype, a well-designed xeriscape creates
-lush, diverse landscapes using regionally adapted native and drought-tolerant
-plants. Hydrozoning — grouping plants by water needs into oasis, transition, and
-dry zones — allows gardeners to maintain food gardens and ornamentals alongside
-water-wise native plantings.
-
-The primary strength of xeriscaping is its ability to dramatically reduce or
-eliminate supplemental irrigation after a two to three year establishment period.
-Native and adapted plants develop deep root systems that access groundwater and
-survive on natural rainfall alone. Heavy organic and rock mulching reduces
-evaporation, suppresses weeds, and moderates soil temperature. The approach is
-inherently region-specific, drawing on local ecology and traditional dryland
-gardening knowledge rather than imposing a universal plant palette.
-
-Xeriscaping requires significant upfront investment in soil amendment, mulch,
-plant establishment, and irrigation infrastructure for the establishment period.
-Plant selection is highly dependent on local climate, rainfall patterns, and soil
-type, meaning there is no universal xeriscape recipe. Annual mulch
-replenishment and targeted maintenance are needed, especially during the
-establishment window when regular watering is still required.
-
-## Rainwater Harvesting
-
 [[rainwater-harvesting-systems]]
 
 Rainwater harvesting captures precipitation from rooftops and other surfaces,
@@ -125,9 +97,6 @@ strategy that maximizes resilience.
 
 ## See Also
 
-- [[comparison-drought-gardening-vs-rainwater-harvesting]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
-- [[comparison-rainwater-vs-greywater]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
-- [[permaculture-water-systems]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]

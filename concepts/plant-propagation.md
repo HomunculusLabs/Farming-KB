@@ -75,20 +75,10 @@ The propagation nursery integrates with other permaculture systems. Compost from
 
 ## See Also
 
-[[permaculture-plant-propagation-guide]]
-
 [[permaculture-seed-saving]]
-
-[[permaculture-design]]
 
 [[permaculture-plant-selection]]
 
-[[fruit-tree-propagation]]
-
 [[organic-propagation-methods]]
 
-[[permaculture-design]]
-
-## Related
-
-- [[hamilton-vegetative-propagation]]
+[[hamilton-vegetative-propagation]]

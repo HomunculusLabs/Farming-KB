@@ -139,10 +139,7 @@ peak of the smartshop trade in the early to mid-2000s.
 
 ## See also
 
-- [[emcdda-hallucinogenic-mushroom-harm-reduction]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[emcdda-bad-trip-phenomenology-psychiatric-intervention]]

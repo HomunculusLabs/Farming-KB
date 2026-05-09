@@ -92,8 +92,6 @@ iodine content of the fruit is an unusual nutritional benefit.
 - Subtropical Fruit Trees
 
 ## See Also
-- [[permaculture-plants-fruit-trees-subtropical]]
 - [[permaculture-plants-fruit-trees-temperate]]
-- [[garden-myths-native-plants-and-invasive-species]]
 - [[permaculture-plants-fruit-trees-selection]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

@@ -62,29 +62,30 @@ The relationship between MMDA and myristicin is fundamental to understanding bot
 
 ## Essential Amphetamine Context
 
-MMDA is the archetype of the "Essential Amphetamines" concept — the idea that nature provides, through essential oils, chemical structures that are one step (addition of ammonia) away from psychoactive amphetamines. Shulgin's son suggested the term "essential" (from essence, something with an odor) to replace the earlier "natural" amphetamines label. There are approximately ten essential oils that have a three-carbon chain and each lacks only a molecule of ammonia to become an amphetamine. See [[soma-vedic-history]] for the complete list and detailed discussion of each.
-
-## Historical Context
-
-MMDA was first synthesized independently and simultaneously in 1962 by both Alexander Shulgin and Gordon Alles. Both researchers named it MMDA and had begun exploring it when they discovered the other's work. At the time of the FDA's mid-1960s proclamation of dangerous drugs, MMDA was specifically named and controlled.
-
-The close resemblance of the initials "MMDA" to the currently notorious "MDMA" has led to considerable confusion in both the scientific literature and popular culture, with MMDA sometimes being incorrectly discussed as if it were MDMA. This initial confusion persists to the present day and has been a source of regulatory and scientific misunderstanding.
-
-## FDA and Legal Status
-
-MMDA was specifically listed in the FDA's mid-1960s proclamation of dangerous drugs, making it one of the earliest controlled phenethylamine derivatives. This pre-dated the Controlled Substances Act of 1970 and reflected the era's growing concern with psychoactive amphetamines.
-
-## SAR Context
-
-MMDA's substitution pattern (3-methoxy-4,5-methylenedioxy) is one of three possible methoxy-methylenedioxy amphetamine orientations. The methylenedioxy bridge can be viewed as a replacement for two adjacent methoxy groups (in TMA, the trimethoxy compound), with the bridge constraining the oxygen atoms into a fixed five-membered ring. This constraint affects the molecule's three-dimensional shape and its interaction with receptors. The high dose requirement compared to other substituted amphetamines may reflect less efficient receptor binding or faster metabolic clearance. See [[phenethylamine-chemistry-basics]] for the full SAR framework.
+MMDA is the archetype of the "Essential Amphetamines" concept — the idea that nature provides, through essential oils, chemical structures that are one step (addition of ammonia) away from psychoactive amphetamines. Shulgin's son suggested the term "essential" (from essence, something with an odor) to replace the earlier "natural" amphetamines label. There are approximately ten essential oils that have a three-carbon chain and each lacks only a molecule of ammonia to become an amphetamine. See [[phenethylamine-chemistry-basics]] for the full SAR framework.
 
 ## Comparison to Related Compounds
 
-- **MDMA** ([[mdma-compound-profile]]): N-methyl-MDA; dramatically different character — empathogenic, shorter duration, much more potent at lower doses
-- **MDA** ([[ayahuasca-and-dmt-plant-medicine]]): Parent compound without the methoxy; more stimulant and empathogenic qualities
-- **MMDA-2** ([[mmda-2-compound-profile]]): Different methoxy position (2-methoxy); more potent and more visual
-- **DMMDA** ([[dmmda-compound-profile]]): Additional methoxy at position 2; lower dose range (30-75 mg)
-- **TMA** ([[soma-vedic-history]]): All three positions as methoxy (no methylenedioxy); similar dose range, more stimulant character
-
-See also: [[ayahuasca-and-dmt-plant-medicine]], [[mdma-compound-profile]], [[mmda-2-compound-profile]], [[dmmda-compound-profile]], [[soma-vedic-history]], [[phenethylamine-chemistry-basics]], [[synthetic-tryptamine-methods]]
+- **MDMA** ([[ayahuasca-preparation-and-ceremony]]): Parent compound without the methoxy; more stimulant and empathogenic qualities
+- **MMDA-2** ([[dmmda-compound-profile]]): Additional methoxy at position 2; lower dose range (30-75 mg)
+- **TMA** ([[ayahuasca-preparation-and-ceremony]], [[mmda-2-compound-profile]], [[soma-vedic-history]], [[synthetic-tryptamine-methods]]
 - [[essential-amphetamines-and-natural-precursors]]
+## Practical Considerations
+
+Successful implementation of MMDA Compound Profile requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

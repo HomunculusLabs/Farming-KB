@@ -17,28 +17,7 @@ type: comparison
 
 ## Overview
 
-Both mycelium materials and synthetic bioplastics like polylactic acid (PLA) and polyhydroxyalkanoates (PHA) represent attempts to displace petroleum-based plastics with more sustainable alternatives. However, they differ fundamentally in their production biology, material properties, end-of-life behavior, and scalability. Mycelium materials are **grown** from [[fungal-biology-fundamentals]] on organic substrates, while PLA and PHA are **fermented and polymerized** through microbial or chemical processes into thermoplastic resins. Understanding these differences is essential for choosing the right material for a given application.
-
-## Production Process Comparison
-
-### Mycelium Materials
-
-Production is a biological growth process:
-
-1. **[[growing-gourmet-substrate-preparation]]**: [[fungal-solid-state-fermentation-agricultural-waste]] (hemp hurds, sawdust, straw) is milled and pasteurized
-2. **Inoculation**: Fungal spawn is mixed into the substrate at 5–15% by weight
-3. **Molding and growth**: The mixture is packed into molds and incubated 3–7 days at 22–28°C, 85–95% RH
-4. **Stabilization**: Drying at 80–100°C halts growth and sets the structure
-5. **Finishing**: Optional coatings, embossing, or cutting
-
-Key characteristic: The material **is** the substrate, bound by mycelial hyphae. No chemical polymerization occurs.
-
-### PLA (Polylactic Acid)
-
-Production is a fermentation-then-chemical process:
-
-1. **Feedstock**: Corn starch, sugarcane, or cellulosic biomass is hydrolyzed to simple sugars
-2. **Fermentation**: *[[lactobacillus]]* or similar bacteria ferment sugars to lactic acid
+Both mycelium materials and synthetic bioplastics like polylactic acid (PLA) and polyhydroxyalkanoates (PHA) represent attempts to displace petroleum-based plastics with more sustainable alternatives. However, they differ fundamentally in their production biology, material properties, end-of-life behavior, and scalability. Mycelium materials are **grown** from [[growing-gourmet-substrate-preparation]]**: [[lactobacillus]]* or similar bacteria ferment sugars to lactic acid
 3. **Polymerization**: Lactic acid undergoes condensation to lactide, then ring-opening polymerization to PLA
 4. **Pelletizing**: PLA resin is extruded into pellets for industrial processing
 5. **Manufacturing**: Pellets are injection-molded, extruded, thermoformed, or 3D-printed
@@ -50,47 +29,7 @@ Key characteristic: PLA is a **thermoplastic** — it melts and resolidifies, en
 Production is a purely biological polymerization:
 
 1. **Feedstock**: Various carbon sources including waste oils, food waste, or sugars
-2. **Fermentation**: Bacteria (*Cupriavidus necator*, *[[pseudomonas-putida-entity-the-mushroom-cultivator]]*) accumulate PHA as intracellular granules under nutrient stress
-3. **Extraction**: Cells are harvested and PHA is extracted using solvents or enzymatic digestion
-4. **Processing**: PHA resin is pelletized and processed like conventional plastics
-
-Key characteristic: PHA is both **biologically produced and biologically degraded** by microorganisms.
-
-## Material Properties Head-to-Head
-
-| Property | Mycelium Composite | PLA | PHA |
-|----------|-------------------|-----|-----|
-| **Density** | 50–400 kg/m³ | 1,240–1,250 kg/m³ | 1,180–1,260 kg/m³ |
-| **Tensile strength** | 0.02–25 MPa* | 50–70 MPa | 20–40 MPa |
-| **Compressive strength** | 0.05–2.5 MPa | 80–120 MPa | 30–60 MPa |
-| **Flexural strength** | 0.1–0.8 MPa | 80–110 MPa | 35–55 MPa |
-| **Elongation at break** | 1–60%* | 2–10% | 5–680%** |
-| **Thermal conductivity** | 0.04–0.06 W/(m·K) | 0.13 W/(m·K) | 0.13–0.25 W/(m·K) |
-| **Glass transition** | N/A (non-thermoplastic) | 55–65°C | -1 to 10°C |
-| **Melting point** | Decomposes >200°C | 150–180°C | 160–180°C |
-| **Water absorption** | High (without treatment) | Low | Low to moderate |
-| **UV resistance** | Moderate | Poor (without additives) | Poor to moderate |
-
-*Mycelium leather achieves higher tensile strength (5–25 MPa) and elongation (10–60%) vs foam (0.02–0.15 MPa, 1–5%)
-**PHA grades vary enormously; mcl-PHA can be highly elastomeric
-
-## Environmental Comparison
-
-| Factor | Mycelium | PLA | PHA |
-|--------|----------|-----|-----|
-| **Feedstock** | Agricultural waste | Food crops (corn, sugarcane) | Food waste, waste oils, sugars |
-| **Land use** | Minimal (uses waste) | Moderate (crop cultivation) | Low (can use waste streams) |
-| **Water footprint** | Low–moderate | High (irrigation-dependent) | Low–moderate |
-| **Energy (production)** | Very low (ambient growth) | Moderate (fermentation + polymerization) | Moderate (fermentation + extraction) |
-| **CO₂e per kg** | Net negative to 0.5 kg | 1.5–3.5 kg | 1.0–3.0 kg |
-| **Biodegradable** | Yes (soil, 30–180 days) | Industrial compost only (60°C+) | Yes (soil, marine, home compost) |
-| **Marine degradable** | Yes (slowly) | No | Yes (many grades) |
-| **Microplastic risk** | None | Yes (fragments persist) | Minimal (biodegrades) |
-
-## End-of-Life Scenarios
-
-### Mycelium Materials
-- **[[composting]]**: Fully compostable in home and industrial settings; returns nutrients to soil
+2. **Fermentation**: Bacteria (*Cupriavidus necator*, *[[composting]]**: Fully compostable in home and industrial settings; returns nutrients to soil
 - **Soil burial**: Degrades within 30–180 days depending on density and environmental conditions
 - **Landfill**: Anaerobic decomposition produces methane, but material is derived from waste feedstock so net impact is lower
 - **Recycling**: Not recyclable in conventional streams; designed for composting
@@ -139,7 +78,6 @@ Key characteristic: PHA is both **biologically produced and biologically degrade
 
 ## See Also
 
-- [[bioremediation-using-fungi]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[woodlovers-mycelium-running-pathway-technique]]
 

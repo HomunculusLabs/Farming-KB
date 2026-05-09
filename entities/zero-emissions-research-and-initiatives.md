@@ -20,17 +20,7 @@ sources:
 
 ## Overview
 Zero Emissions Research and Initiatives, usually abbreviated **ZERI**, is a decentralized
-sustainability network associated with [[gunter-pauli]] and practical zero-waste design.
-Its core idea is that production systems should imitate ecosystems: one process's
-waste becomes another process's food, substrate, fuel, or raw material.
-The organization is especially relevant to this wiki because many ZERI examples use
-fungi to transform agricultural and industrial residues into food and fertility.
-
-## Entity Type
-- Category: organization / project network.
-- Domain: circular economy, industrial ecology, biological processing, local enterprise.
-- Founded: 1994.
-- Founder: [[gunter-pauli]].
+sustainability network associated with [[gunter-pauli]].
 - Full name: Zero Emissions Research and Initiatives.
 - Common abbreviation: ZERI.
 - Related frame: blue economy.
@@ -79,15 +69,7 @@ spent mushroom substrate, and ecological recovery.
 A recurring example is the brewery cascade described in this wiki's fungal recovery
 and sustainable-materials pages.
 Traditional brewing leaves large quantities of spent grain.
-In a ZERI-style system, that grain can feed oyster mushrooms such as [[pleurotus-ostreatus]].
-The mushrooms provide food and income.
-The spent substrate can then feed livestock, worms, fish, or compost systems.
-Wastewater may be routed through anaerobic digesters or aquatic treatment systems.
-The same original grain stream therefore supports food, feed, energy, water treatment,
-and soil fertility.
-
-## Tsumeb Example
-The concept page [[fungal-roles-in-mass-extinction-recovery]] mentions a ZERI brewery
+In a ZERI-style system, that grain can feed oyster mushrooms such as [[fungal-roles-in-mass-extinction-recovery]] mentions a ZERI brewery
 project in Tsumeb, Namibia.
 That example matters because it demonstrates ZERI's preference for practical cascades
 rather than abstract sustainability language.
@@ -140,11 +122,6 @@ The durable lesson is the design method, not any single universal recipe.
 ## In This Wiki
 This entity should be linked from pages about fungal sustainability, spent mushroom
 substrate, mycelium materials, zero-waste design, and biological cascades.
-It also connects [[gunter-pauli]] to mycology, permaculture, and circular-economy pages.
-
-## See Also
-- [[gunter-pauli]]
-- [[fungi-sustainable-packaging-and-materials]]
+It also connects [[gunter-pauli]]
 - [[fungal-roles-in-mass-extinction-recovery]]
-- [[oyster-mushroom-spent-substrate-recycling]]
 - [[produce-no-waste-permaculture-principle]]

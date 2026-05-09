@@ -18,38 +18,6 @@ cycles. Both are fundamental soil management practices in organic and regenerati
 and they are most effective when used together as complementary strategies rather than alternatives.
 
 ## Crop Rotation
-[[crop-rotation-principles]]
-
-Crop rotation organizes planting sequences by botanical family so that related crops do not occupy
-the same ground in consecutive seasons. The primary benefit is breaking the life cycles of pests
-and diseases that are specific to certain plant families. For example, following brassicas with a
-legume crop prevents clubroot and cabbage root maggot populations from building up in the soil.
-Rotation also balances soil nutrient demands because different crop families have different feeding
-patterns; heavy nitrogen feeders are followed by light feeders or nitrogen-fixing legumes.
-
-The crop rotation principles framework includes guidance on rotation intervals for persistent
-soilborne diseases. Some pathogens, such as those causing certain wilts and root rots, can survive
-in soil for several years, requiring longer rotation breaks of three to seven years before the
-same crop family returns to a given field. Detailed knowledge of these intervals is critical for
-organic growers who cannot rely on fungicidal soil treatments. The framework also addresses
-nutrient management by considering whether crops are heavy feeders, light feeders, or soil
-builders within the rotation sequence.
-
-Effective crop rotation requires advance planning and good record-keeping. Growers must map their
-fields, track what was planted where in previous years, and plan future sequences that avoid
-repeating families too soon. This planning pays dividends in reduced pest pressure, lower disease
-incidence, and more balanced soil fertility. It is one of the oldest and most proven agricultural
-practices, and modern organic farming systems depend on it as a primary defense against crop
-failure.
-
-A well-designed rotation might follow a four-year pattern: year one with a nitrogen-fixing legume
-as a soil builder, year two with a heavy-feeding fruiting crop like tomatoes, year three with a
-light-feeding root crop like carrots or onions, and year four with a leafy brassica or grain.
-This sequence balances nutrient extraction and return while keeping each family separated by
-multiple seasons. The specific sequence is adapted to local conditions, market demands, and the
-disease pressure present on each farm.
-
-## Cover Cropping
 [[cover-cropping-guide]]
 
 Cover cropping grows plants that are not harvested for sale but are grown specifically for their
@@ -130,8 +98,6 @@ established cash crops before harvest, ensuring that soil is never left bare. To
 rotation and cover cropping form the backbone of sustainable soil management.
 
 ## See Also
-- [[crop-rotation-principles]]
 - [[cover-cropping-guide]]
-- [[comparison-no-till-vs-conventional-tillage]]
 - [[soil-food-web]]
 - [[composting-organic-garden]]

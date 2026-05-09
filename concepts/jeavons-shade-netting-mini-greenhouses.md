@@ -84,29 +84,6 @@ For hardening off seedlings, a greenhouse or miniature greenhouse can be used
 when weather conditions require. Cold frames serve a similar purpose for
 two-day hardening periods when seedlings are almost ready to transplant.
 
-### Relationship to [[water-management]]
-
-Shade netting contributes to water conservation. Even under arid conditions,
-soil that is shaded can reduce evaporation up to 63%, depending on soil type.
-The miniclimate created by closely spaced plants provides good shading, and
-shade netting extends this protection to newly planted beds before the plant
-canopy has developed.
-
-The GROW BIOINTENSIVE method uses an average of 10 gallons of water per day
-per 100 square feet (a 5- to 20-gallon range), while commercial food raising
-consumes an average of 20 gallons per day for the same area. Shade netting
-helps maintain the lower end of this water-use range.
-
-## Making the Structures
-
-Both shade netting houses and mini-greenhouses should be constructed during the
-winter planning phase of the garden year, along with flats and trellises. Having
-these structures ready before the spring planting season ensures they are
-available when needed for transplant protection.
-
-## See Also
-
-[[jeavons-water-management-irrigation]]
-[[jeavons-flat-preparation-seedling-raising]]
+### Relationship to [[jeavons-water-management-irrigation]]
 [[jeavons-grow-biointensive-method-overview]]
 [[jeavons-double-digging-bed-preparation]]

@@ -1,79 +1,9 @@
 ---
 title: Casing Layer Preparation
 created: 2026-04-28
-tags: [mycology, cultivation, casing, substrate, mushroom-growing]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md
-type: concept
----
-# Casing Layer Preparation
-
-A casing layer is a non-nutritious material applied over fully colonized
-substrate to create a microclimate favorable for mushroom formation. The
-casing does not provide nutrition; instead, it retains moisture and
-provides a humid surface where primordia (pinheads) can form. In the
-context of [[grass-seed-substrate-preparation]] cultivation
-of [[psilocybe-mushroom-species-guide]] species, the casing
-layer is the critical bridge between vegetative mycelial growth and
-fruiting body production.
-
-## Purpose of Casing
-
-The casing layer is non-nutritious and serves these functions:
-- **Moisture reservoir:** Holds water at the substrate surface, creating
-  the high-humidity microclimate needed for pin formation.
-- **Microclimate creation:** Buffers the humid substrate interior from
-  drier ambient air, preventing the mycelium surface from drying out.
-- **Physical support and trigger:** Anchors developing mushrooms and
-  signals mycelium to shift from vegetative growth to reproduction.
-
-Without casing, exposed colonized grain dries rapidly and produces few
-mushrooms. Casing is especially important for
-[[psilocybe-mexicana-cultivation]] and
-[[psilocybe-tampanensis-cultivation]], which do not fruit
-readily from bare grain.
-
-## Casing Soil Recipe
-
-The following recipe is recommended in the source material for casing
-grass seed substrates:
-
-| Ingredient | Parts (by volume) | Role |
-|-----------|-------------------|------|
-| Peat | 10 parts | Base material; holds moisture |
-| Vermiculite | 5 parts | Improves structure and aeration |
-| Limestone (marl) | 2 parts | Buffers pH to optimal range |
-
-### Ingredient Notes
-
-- **Peat:** The primary component with excellent water-holding capacity
-  and ideal texture for mycelial penetration. Its natural acidity
-  requires buffering with limestone.
-- **Vermiculite:** Absorbs and slowly releases water, prevents peat
-  compaction, and maintains essential air spaces within the casing.
-- **Limestone (marl):** Raises the pH of naturally acidic peat. Marl,
-  a calcareous mudstone, is the source material's preferred form.
-  Agricultural lime (calcium carbonate) is a common alternative.
-
-## Preparation Method
-
-1. **Dry mixing:** Combine all three ingredients in their dry form. Mix
-   thoroughly to ensure even distribution of the limestone throughout
-   the peat and vermiculite.
-2. **Hydration:** While stirring continuously, add water gradually. The
-   correct moisture content is critical: the casing should hold as much
-   water as possible without becoming muddy or soupy.
-3. **Moisture adjustment:** If the mix becomes too wet, add more dry
-   ingredients to absorb excess moisture. The target consistency is
-   damp but not dripping when squeezed in the hand.
-4. **Packaging for sterilization:** Transfer the moistened casing soil
-   into oven bags (nylon), autoclave bags (polypropylene), or jars.
-   Seal or cover loosely depending on container type.
-5. **Sterilization:** Process in a pressure cooker or autoclave for
-   one hour at 15 psi, just as with the
-   [[grass-seed-substrate-preparation]].
+tags: [[grass-seed-substrate-preparation]] cultivation
+of [[psilocybe-mexicana-cultivation]] and
+[[grass-seed-substrate-preparation]].
 6. **Cooling:** Allow the sterilized casing soil to cool to room
    temperature before use. Warm casing applied to cool substrate can
    stress the mycelium.
@@ -135,16 +65,26 @@ plastic trays and the surface is levelled, the casing is applied:
 
 ## Maintenance During Fruiting
 
-Once casings are placed in the [[comparison-laminar-flow-hood-vs-fruiting-chamber]], they must be misted daily to prevent drying. Watering is
-increased directly after each flush is picked, because maturing
-mushrooms draw substantial moisture from the casing soil. Keeping dead
-pinheads (aborts) removed from the surface helps prevent mold outbreaks.
+Once casings are placed in the [[casing-layer-technique]]
 
-## See Also
-
-- [[casing-layer-technique]]
-
-- [[grass-seed-substrate-preparation]]: Substrate preparation for
-  casing
 - [[fruiting-chamber-setup]]: Chamber design for cased trays
 - [[sclerotia-cultivation]]: Alternative production without casing
+## Practical Considerations
+
+Successful implementation of Casing Layer Preparation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

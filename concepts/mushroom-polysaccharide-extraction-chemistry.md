@@ -3,7 +3,7 @@ title: Mushroom Polysaccharide Chemistry and Anti-Cancer Compounds
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: []
 ---
 
@@ -80,11 +80,7 @@ Several polysaccharide anti-tumour agents have been developed commercially in Ja
 
 ## See Also
 
-- [[mushroom-polysaccharide-chemistry]]
 - [[medicinal-mushroom-compound-extraction]]
-- [[medicinal-mushroom-extraction-preparation]]
 - [[beta-glucan-receptor-binding]]
-- [[medicinal-mushrooms-biological-response-modifiers]]
 - [[medicinal-mushroom-guide]]
-- [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[schizophyllum-commune-schizophyllan-cancer]]

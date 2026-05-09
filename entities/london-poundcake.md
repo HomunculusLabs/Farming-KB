@@ -104,18 +104,11 @@ London Poundcake has been used extensively as a parent in modern breeding progra
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[sunset-sherbet]]
-- [[gelato-cannabis]]
 - [[gary-payton-cannabis]]
-- [[runtz-cannabis]]
 - [[wedding-cake-cannabis]]
-- [[biscotti-cannabis-strain]]
 - [[ice-cream-cake-cannabis]]
-- [[kush-mints]]
 - [[gmo-cannabis]]
-- [[purple-punch]]
 - [[banana-kush]]
-- [[granddaddy-purple]]
 - [[super-lemon-haze]]
 - [[zombie-kush]]

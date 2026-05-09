@@ -3,16 +3,7 @@ title: Holmgren Trophic Pyramid Energy Hierarchy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-
-# Holmgren Trophic Pyramid Energy Hierarchy
-
-Updated: 2026-04-19
-
-David Holmgren uses the trophic pyramid model to explain energy hierarchy in both ecosystems and societies in *Permaculture: Principles and Pathways Beyond Sustainability* (2002), connecting ecological principles to social structure and [[holmgren-tripartite-altruism]] analysis.
+tags: [[holmgren-tripartite-altruism]] analysis.
 
 ## The Ecological Model
 
@@ -38,11 +29,7 @@ Holmgren argues this is historically novel. The evidence of nature and history r
 
 The energy hierarchy in a low-energy pre-industrial society forms a hyperbolic curve (abundant producers on the left, rare consumers on the right). Industrialisation creates a normal distribution curve. Transition from growth to descent requires rebuilding the trophic pyramid to suit local energy realities and social justice.
 
-The distinction between these two distribution types is fundamental to understanding [[low-energy-futures-in-permaculture]]. Social structures that evolved under fossil-fuel energy will not be sustained as that energy declines.
-
-## Failure of Elite Self-Regulation
-
-A recurring problem is that elites believe the whole social ecosystem exists for their benefit. This corrupts acknowledgment of higher power and fails to provide functional feedback control. Breakdown of self-regulation and [[holmgren-tripartite-altruism]] at the highest levels cascades through the social hierarchy until corruption at all levels leads to breakdown and reform.
+The distinction between these two distribution types is fundamental to understanding [[holmgren-tripartite-altruism]] at the highest levels cascades through the social hierarchy until corruption at all levels leads to breakdown and reform.
 
 Holmgren notes that since the European Enlightenment, social democratic, Marxist, and other ideologies have sought to overcome this elite problem, but the historical record of achieving effective guidance and wisdom without corruption has not been great.
 
@@ -50,39 +37,13 @@ Holmgren notes that since the European Enlightenment, social democratic, Marxist
 
 The energetic foundation of elite failures is that a high-energy society develops so many hierarchical levels that all are occupied by fallible humans who lack the wisdom for those levels. The saying "power corrupts, absolute power corrupts absolutely" is directly relevant. People at the highest levels function as self-reinforcing communities like global villages of parochial citizens, stratospherically removed from the effects of their actions on lower levels.
 
-This critique connects to [[holmgren-ethics-cultural-mechanisms]] and the argument that ethics function as feedback mechanisms to maintain system health. When feedback loops are broken by isolation of elites, the system becomes unstable.
-
-## Implications for Energy Descent
-
-Today's economic and social pressures are already squashing the middle-class bulge and increasing the numbers of both rich and poor. Rather than using a big economic stick to force the majority off affluence, Holmgren argues for a deep cultural revolution that recognizes society's increasing dependence on nature. The mass of people will need to return to working with nature to provide the resources necessary to support all levels of a future low-energy sustainable society.
-
-## Connection to Permaculture Design
-
-The trophic pyramid model informs permaculture design at multiple scales. At the landscape level, it explains why [[permaculture-tree-crop-systems]] with multiple layers (canopy, understory, ground cover, roots) are more productive than monocultures. At the social level, it explains why [[holmgren-permaculture-village-and-community-design]] must account for realistic energy flows rather than assuming middle-class abundance can be maintained.
-
-## Traditional vs. Modern Governance
-
-In low-energy traditional societies, the trophic pyramid was accepted as natural, and social mechanisms (religion, tradition, mutual obligation) maintained functional relationships between levels. Modern society has attempted to flatten the hierarchy through democratic and egalitarian ideologies, but this has largely been powered by fossil-fuel subsidy. As energy descent progresses, understanding the trophic pyramid becomes essential for designing governance structures that work within energy realities.
-
-## Energy Hierarchy and Understanding
-
-Holmgren extends the trophic pyramid model to understanding itself. In traditional societies, practical local knowledge was abundant at the base, while spiritual and strategic understanding was concentrated at the top. Modern industrial society has inverted this in some ways, with specialized technical knowledge concentrated among elites while practical skills have been lost by the majority. Energy descent will require rebuilding both practical skills and strategic understanding at all levels of society.
-
-## Relevance to Settlement Design
-
-The trophic pyramid analysis has direct implications for [[permaculture-settlement-design]]. Settlements in energy descent will need to accommodate the return to a steeper energy hierarchy. This means designing for a larger proportion of people engaged in productive land-based work, fewer specialist roles, and governance structures that are closer to the people they affect. The permaculture village model attempts to anticipate these changes.
+This critique connects to [[permaculture-tree-crop-systems]] with multiple layers (canopy, understory, ground cover, roots) are more productive than monocultures. At the social level, it explains why [[permaculture-settlement-design]]. Settlements in energy descent will need to accommodate the return to a steeper energy hierarchy. This means designing for a larger proportion of people engaged in productive land-based work, fewer specialist roles, and governance structures that are closer to the people they affect. The permaculture village model attempts to anticipate these changes.
 
 ## See Also
 
 - [[holmgren-tripartite-altruism]]
 
-- [[holmgren-tripartite-altruism]]
-
-- [[holmgren-top-down-thinking-bottom-up-action]]
-
 - [[holmgren-permaculture-village-and-community-design]]
-
-- [[holmgren-ethics-cultural-mechanisms]]
 
 - [[low-energy-futures-in-permaculture]]
 

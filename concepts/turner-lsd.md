@@ -92,14 +92,8 @@ Ecstasy is frequently taken with LSD, a combination commonly known as "candyflip
 
 ## See Also
 
-- [[lsd-psychedelic-experience-guide]]
-- [[albert-hofmann]]
 - [[stanislav-grof]]
-- [[leary-psychedelic-bardo-model]]
 - [[psychedelic-combination-guide]]
-- [[psychedelic-safety-and-harm-reduction]]
-- turner lsd
 - [[psychedelic-spirituality-and-religion]]
-- [[turner-5meo-dmt]]
 - [[turner-dmt]]
 - [[mao-inhibitors-and-psychedelics]]

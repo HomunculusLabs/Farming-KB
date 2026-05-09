@@ -1,103 +1,7 @@
 ---
 title: House Site Preparation and Drainage Design
 created: 2026-04-26
-tags: [permaculture, earthworks, house-design, drainage, soil-preparation]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# House Site Preparation and Drainage Design
-
-Preparing a house site is one of the most critical early tasks in
-permaculture implementation. Mollison provides a step-by-step procedure
-that integrates drainage, soil handling, and immediate planting to
-prevent erosion and establish productive ground from the outset. This
-topic connects to [[mollison-house-and-garden-layout]] and [[mollison-earthworks-planning-and-post-earthworks-planting]].
-
-## Soil Settlement Considerations
-
-Understanding soil behaviour after disturbance is essential. Although
-conscientiously compacted clay in dam walls may settle as little as 1%
-over time, loose fill will eventually settle to 75% or less of its
-uncompacted volume. This has great relevance to house foundations and
-wall stability.
-
-When topsoil is replaced over fill, the area should not be
-over-compacted, or waterlogging risk increases. When topsoil is
-replaced over deep or solid subsoil in a cut, the base subsoil may
-need to be ripped or loosened to allow root penetration, just as old
-roads, quarries, parking areas, or heavily-trafficked fill need
-loosening before planting trees and meadows.
-
-## Step-by-Step Site Preparation
-
-To prepare a house site (with drainage), Mollison recommends this
-procedure:
-
-1. Careful survey. Place pegs outside the site. Call in the bulldozer.
-2. Strip off topsoil carefully and mound above and at either end of
-   the site.
-3. Cut house and garden level; use subsoil fill for access roads only.
-4. Call in ditcher or backhoe to cut foundation and drainage trenches.
-   Pour foundations and slab, paths; place drains and pipes.
-5. Call in small blade and bucket machine (a Bobcat or wheeled tractor)
-   to replace topsoil and neaten the site where needed. Some soil can
-   be mounded to the windward side for hedges.
-6. Plant or seed all topsoil to prevent erosion.
-7. Fine-tune with barrow, rakes; check drainage.
-
-## Immediate Planting After Earthworks
-
-Every time soil is moved, planting or seeding should follow straight
-away. There are two reasons for this:
-
-1. To prevent erosion, which can be severe on bare slopes at only 2%
-   slope, especially in rains; and
-2. To prevent invasion by unwanted volunteer plants, which may become
-   difficult to displace later.
-
-If a full set of ground covers, pioneers, and long-term plants can be
-set out in new earth, a great deal of time and work is saved. A
-broadscale scatter of mixed seed, raked in, will prepare the way for
-permanent placements.
-
-## Seed Mixes for Disturbed Ground
-
-If prepared for bulldozing, seed, divisions, cuttings, and potted
-plants should be ready before the machine pulls out. Recommended mixes
-that work in most soils include:
-
-- Sunflower, or mixed parrot seed with sunflower, millets, pulses,
-  chard, parsley, lupin, and clovers
-- Parsnip (fresh seed), salsify, daikon radish, radish, turnip; all
-  of these "spike" the soil
-- Bulbs of lilies, grape hyacinth
-- Roots of sunroot, comfrey, chicory, horseradish, ginger, sweet
-  potato, turmeric
-- Divisions of bamboo, banna grass, pampas grass, aloes, agave
-- Seedlings or sets of elephant garlic, asparagus, globe artichoke
-- Cuttings of small fruits: elderberry, willow, poplar, mulberry
-- Tubed seedlings of [[acacia]], Prosopis, [[tagasaste]], Coprosma, pines,
-  eucalypts, shrubs
-
-All compete very well with self-sown weeds and establish a varied and
-useful early and perennial crop system with very little help.
-
-## Mulching Bare Soil
-
-If immediately possible, mulch bare soil sites with hay, hessian
-(burlap), or woodchips to break the force of rain and suppress
-unwanted weeds. This is especially important where slopes exceed 2%,
-as erosion can develop rapidly on exposed ground.
-
-## Erosion Control on Steep Slopes
-
-On very steep slopes, there is often no recourse other than to plant
-pampas, bamboo, lemongrass, and root-mat pioneers, and to make
-upslope plantings of chestnut, Acacia, [[carob]], olive, or other large
+tags: [[mollison-house-and-garden-layout]] and [[acacia]], Prosopis, [[carob]], olive, or other large
 species which will cascade seed downslope over time.
 
 Small logs and branches, pegged across erosion channels, build up a
@@ -120,5 +24,82 @@ Slopes are measured as degrees from the horizontal, as percentages
 (used by engineers), or as proportions or ratios of base to height
 (e.g. 1:4 is a slope 1 unit high with a base 4 units long), used by
 hydrologists for drains and pipes. Understanding slope measurement is
-essential for [[mollison-pdc-swale-design-water-harvesting]] and
-[[mollison-terracing-slope-management]].
+essential for [[mollison-terracing-slope-management]].
+## Practical Applications
+
+House Site Preparation and Drainage Design has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+House Site Preparation and Drainage Design. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

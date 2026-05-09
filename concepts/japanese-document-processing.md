@@ -113,12 +113,8 @@ printing environments.
 
 ## See Also
 
-- [[fukuoka-document-processing-research]]
 - [[stropharia-venenata-japanese-bluing-species]]
-- [[document-format-conversion-fidelity]]
 - [[faires-meat-processing-curing-and-smoking]]
-- [[permaculture-oak-acorn-processing]]
-
 - [[microsoft-word-document-format]] for Word's handling of Japanese text
 - [[document-automation-administration]] for administration in Japanese orgs
 - unicode and character encoding for encoding standards overview

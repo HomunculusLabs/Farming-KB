@@ -13,7 +13,6 @@ simple, low-cost interventions that slow water flow, rebuild soil, and allow
 natural systems to recover. Rather than expensive engineering projects, it
 relies on understanding natural patterns of water flow and plant succession to
 restore ecological function to damaged watersheds. This approach is central to
-[[broadscale-permaculture-techniques-mollison]] and connects to
 [[broadscale-watershed-restoration-techniques]] used worldwide.
 ## The Core Principle
 The cheapest and easiest place to store water is in the soil. Grazing, logging,
@@ -76,12 +75,7 @@ The structures built are only temporary. Their primary function is to allow
 plants to establish. Long after swales and check dams have silted up, they will
 be visible as lines of trees along hillsides. These trees:
 - Send roots deep into soil to hold it in place
-- Tap into underground streams and share nutrients along webs of [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
-  fungi
-- Provide shade and mulch that allows other plants to grow
-- Reweave the web of life that existed before degradation
-The principle mirrors forest succession: pioneer species (alder, blackberry)
-colonize disturbed land, fix [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]], build soil, and create conditions for
+- Tap into underground streams and share nutrients along webs of [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]], build soil, and create conditions for
 climax species (cedar, fir) to eventually establish. In 20 years, degraded
 land can support forests of hazelnuts, peaches, and blueberries.
 ## Urban Applications
@@ -93,23 +87,4 @@ These restoration techniques work in cities as well as rural watersheds:
 - In asphalt or concrete-covered lots, remove pavement from low spots and
   plant trees there
 - Plant native plants in guerrilla gardens -- they survive on local rainfall
-  and bring the natural world into the heart of the city. See [[mollison-sewage-treatment-natural-processes]]
-  for related ecological water management approaches.
-## Integrating Animals
-Animals can accelerate restoration:
-- Pigs fenced in areas of invasive weeds (like juncus) root up vegetation with
-  their snouts, clearing soil for planting
-- Chickens in movable pens scratch up ground, eat pests, and fertilize soil
-- Sheep in orchards graze grass, eat fallen fruit (preventing disease), and
-  are rotated between areas to avoid overgrazing
-- Cows paired with bamboo plantings -- bamboo absorbs excess nitrogen from
-  manure that would otherwise run off into waterways
-## The Big Picture: Accelerated Succession
-Rather than waiting for natural succession, designers can accelerate the
-process by:
-1. Introducing pioneer plants that fix nitrogen, break up compaction, reduce
-   salts, or bring up nutrients from subsoil
-2. Growing cover crops of clover, alfalfa, peas, or beans which fix nitrogen
-3. Using phosphorus accumulators or winter rye to suppress weed growth
-## See Also
-- [[urban-broadscale-restoration-watershed-repair]]
+  and bring the natural world into the heart of the city. See [[urban-broadscale-restoration-watershed-repair]]

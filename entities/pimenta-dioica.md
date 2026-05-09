@@ -135,16 +135,10 @@ The dense evergreen canopy makes allspice useful as a windbreak and privacy
 screen in permaculture designs. Its drought tolerance once established, pest
 resistance, and longevity make it a low-maintenance, high-reward inclusion
 in food forest systems.
-
 ## See Also
 
-- [[eugenia-caryophyllata]]
 - [[cinnamomum-verum]]
-- [[cinnamomum-cassia]]
 - [[piper-nigrum-entity]]
-- [[vanilla-planifolia]]
 - [[cananga-odorata]]
-- [[rosa-damascena]]
 - [[coffea-arabica]]
-- [[theobroma-cacao]]
 - [[myrica-gale]]

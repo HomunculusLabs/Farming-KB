@@ -119,8 +119,6 @@ synthesized or assayed.
 
 ## See Also
 
-- [[aleph-pihkal-entry-3]]
 - [[aleph-2-pihkal-entry-4]]
-- [[aleph-4-pihkal-entry-5]]
 - [[aleph-7-pihkal-entry-7]]
 - [[2c-t-pihkal-entry-39]]

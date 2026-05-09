@@ -148,3 +148,43 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 ## Nitrogen Fixers by Layer
 | Layer | Species | Fix Rate (lb N/acre/yr) |
 |-------|---------|------------------------|
+| Canopy | Black Locust, Honey Locust | 100-200 |
+| Understory | Russian Olive, Autumn Olive | 50-150 |
+| Shrub | Sea Buckthorn, Goumi, Siberian Pea | 30-100 |
+| Herbaceous | — (none significant in zone 7-8) | — |
+| Groundcover | White/Crimson Clover | 50-150 |
+| Root | Groundnut (*Apios*) | 10-30 |
+
+## Succession Timeline
+
+| Year | Focus | Activities |
+|------|-------|-----------|
+| 1 | Soil + structure | Sheet mulch, install swales, plant canopy + understory trees, clover ground cover, annual vegetables in gaps |
+| 2 | Fill shrubs + herbs | Plant shrub layer, comfrey rings around trees, berry bushes, begin chop-and-drop |
+| 3 | Fill gaps | Add herbaceous perennials, vines on trellises, root crops in designated areas |
+| 4-5 | Shade transition | Trees casting meaningful shade. Shift sun-loving annuals outward. Begin fruit harvest from early bearers |
+| 5-10 | Canopy closing | Shrub layer filling. Full fruit production beginning. Heavy mulch from chop-and-drop. Reduce irrigation |
+| 10+ | Mature system | Self-maintaining. Prune for light gaps. Harvest all layers. Minimal external inputs |
+
+## Duck and Goat Integration
+
+### Ducks
+- **Foraging**: Ducks eat slugs, snails, Japanese beetle adults, codling moth larvae dropped from trees. Run ducks through food forest in portable electronet from late summer through fall (after fruit harvest to avoid trampling/egg contamination).
+- **Fertilization**: Duck manure (NPK 0.6-1.4-0.4) directly feeds trees. Move frequently to avoid nitrogen burn.
+- **Water**: Position duck pond on downhill side of food forest — nutrient-rich overflow irrigates lower plantings. See [[duck-keeping]].
+- **Caution**: Keep ducks out during fruit ripening (contamination risk). Exclude from young tree root zones (compaction).
+
+### Goats
+- **Browse management**: Goats eat understory brush, fallen branches, and weed species. Use temporary fencing to rotate goats through food forest edges for 2-3 days per paddock, then rest 30-60 days.
+- **Pruning by grazing**: Goats will strip lower branches of browse species — use this to maintain clear understory paths. Protect young trees with tree tubes or cages.
+- **Fertilization**: Goat manure (NPK ~0.7-1.0-0.6) is safe to apply relatively fresh. See [[goat-keeping]].
+- **Caution**: Goats will eat fruit tree bark and kill young trees. NEVER leave goats unsupervised near young plantings. They debark apple, pear, and cherry trees readily. Use 4-5 ft welded wire cages around every tree under 3 inches caliper.
+
+## Related Pages
+- [[food-forest-design]] — Design principles, guild concept, spacing overview
+- [[orchard-management]] — Pruning, pest management, seasonal care
+- [[berry-growing]] — Berry planning, IPM, seasonal calendar
+- [[duck-keeping]] — Duck breeds, housing, forage, manure
+- [[fruit-tree-varieties]] — Detailed variety tables for zone 7-8
+- [[permaculture-useful-plants-reference]] — Full plant function catalog
+- [[companion-planting-reference]] — Polyculture design combinations

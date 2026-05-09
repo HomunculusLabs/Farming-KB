@@ -128,13 +128,9 @@ The clinical evidence for cannabis in ADHD is moderate and growing, with a CHI v
 
 ## Related Pages
 
-- [[cannabis-and-anxiety-research]]
-
 - [[cannabis-and-depression-research]]
-
-- [[cannabis-insomnia-research]]
 
 - [[cannabis-endocannabinoid-system]]
 
 ## Merged: Cannabis For Adhd
-Attention deficit hyperactivity disorder (ADHD) is a controversial diagnosis defined by symptoms such as inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. What contributes to the ambiguous nature of the disorder are symptoms such as "dislikes homework" or "does not like to listen when spoken to directly," which may appear normal individually but in combination may impair development. - [[cannabis-for-mental-health]] for mental health considerations - [[cannabis-endocannabinoid-system]] for neurotransmitter modulation mechanisms - [[cannabis-cannabinoid-receptor-pharmacology]] for CB1 receptor science - [[cannabis-dosing-guidelines]] for cautious dosing approaches - [[cannabis-thc-therapeutic-profile]] for THC-specific information - [[cannabis-cbd-therapeutic-profile]] for non-psychoactive options - [[cannabis-health-index]] for the CHI methodology The evidence for cannabis in ADHD comes primarily from preclinical animal studies and anecdotal reports. The CDC estimates (2012) that one in 10 children between ages 3 and 17 have been diagnosed with ADHD.
+Attention deficit hyperactivity disorder (ADHD) is a controversial diagnosis defined by symptoms such as inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. What contributes to the ambiguous nature of the disorder are symptoms such as "dislikes homework" or "does not like to listen when spoken to directly," which may appear normal individually but in combination may impair development. - [[cannabis-endocannabinoid-system]] for neurotransmitter modulation mechanisms - [[cannabis-dosing-guidelines]] for cautious dosing approaches - [[cannabis-cbd-therapeutic-profile]] for non-psychoactive options - [[cannabis-health-index]] for the CHI methodology The evidence for cannabis in ADHD comes primarily from preclinical animal studies and anecdotal reports. The CDC estimates (2012) that one in 10 children between ages 3 and 17 have been diagnosed with ADHD.

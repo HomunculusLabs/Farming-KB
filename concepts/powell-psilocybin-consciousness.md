@@ -121,13 +121,8 @@ of the shaman and the mystic — a meaning only alluded to in the conventional r
 
 ## See Also
 
-- [[powell-psilocybin-end-of-life-anxiety]]
-
 - [[consciousness-and-psychedelics]]
-- [[consciousness-as-fundamental-property]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[psilocybin-default-mode-network-ego-dissolution]]
-- [[ethnomycology]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- ethnomycology
 - [[psilocybin-neuroplasticity]]

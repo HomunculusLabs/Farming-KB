@@ -83,7 +83,7 @@ Both crops perform best in well-drained, friable loams with high organic matter 
 | Organic matter | >3% ideal | >3% ideal, responds to 5%+ |
 | Drainage | Well-drained, no waterlogging | Excellent drainage critical |
 
-Raised beds (15–25 cm / 6–10 in height) are strongly recommended, especially in areas with heavy rainfall or clay soils. In permaculture systems, turmeric and ginger are excellent understory crops beneath fruit trees or in the herbaceous layer of [[food-forests]], provided the canopy allows at least 50% light transmission.
+Raised beds (15–25 cm / 6–10 in height) are strongly recommended, especially in areas with heavy rainfall or clay soils. In permaculture systems, turmeric and ginger are excellent understory crops beneath fruit trees or in the herbaceous layer of [[food-forest]], provided the canopy allows at least 50% light transmission.
 
 ## Propagation
 
@@ -101,8 +101,8 @@ Both crops are propagated vegetatively from rhizome pieces, not from seed. True 
 ### Pre-planting Treatment
 
 - **Size**: Cut larger rhizomes into pieces with 1–2 buds each. Allow cut surfaces to air-dry for 24 hours to form a protective callus.
-- **Fungicidal dip** (organic): Soak in a solution of 0.1% [[Trichoderma viride]] or 2% neem oil for 15–30 minutes before planting. This significantly reduces rhizome rot incidence.
-- **Pre-sprouting**: In cold climates, pre-sprout seed rhizomes in trays of moist [[compost]] or coconut coir at 25–28°C (77–82°F) for 2–3 weeks before field planting. This extends the effective growing season.
+- **Fungicidal dip** (organic): Soak in a solution of 0.1% [[trichoderma-viride]] or 2% neem oil for 15–30 minutes before planting. This significantly reduces rhizome rot incidence.
+- **Pre-sprouting**: In cold climates, pre-sprout seed rhizomes in trays of moist [[composting]] or coconut coir at 25–28°C (77–82°F) for 2–3 weeks before field planting. This extends the effective growing season.
 - **Hot water treatment** (optional): 50°C (122°F) for 10 minutes to kill nematodes and surface pathogens, followed by rapid cooling.
 
 ### Planting
@@ -146,7 +146,7 @@ Both turmeric and ginger are heavy feeders, particularly of potassium, which is 
 3. **Second topdressing** (80 days): 33% N, 33% K
 4. **Third topdressing** (120 days): 34% N, 34% K
 
-Organic sources: well-rotted compost, vermicompost, [[green-manures]], neem cake (provides N + pest suppression), bone meal or rock phosphate (P), wood ash or kelp meal (K). [[Compost-tea]] applications every 2–3 weeks during peak growth provide a nutrient boost and support beneficial microbiology.
+Organic sources: well-rotted compost, vermicompost, [[green-manure-crops]], neem cake (provides N + pest suppression), bone meal or rock phosphate (P), wood ash or kelp meal (K). [[vermicompost-tea]] applications every 2–3 weeks during peak growth provide a nutrient boost and support beneficial microbiology.
 
 ### Micronutrients
 
@@ -159,7 +159,7 @@ Organic sources: well-rotted compost, vermicompost, [[green-manures]], neem cake
 - **Turmeric**: Requires 30–40 irrigations over the growing season in rainfed areas with supplemental watering. Maintain soil moisture at 50–60% field capacity. Reduce irrigation 2–3 weeks before harvest to initiate rhizome curing.
 - **Ginger**: More moisture-demanding — maintain soil at 60–70% field capacity. First irrigation immediately after planting. Critical periods: sprouting (first 30 days), active tillering (45–90 days), and rhizome bulking (120–180 days). Avoid overhead irrigation which promotes leaf spot diseases; drip irrigation is strongly preferred.
 
-Both crops benefit from [[mulch]] to conserve moisture. A 10 cm (4 in) layer of straw mulch can reduce irrigation needs by 30–40%.
+Both crops benefit from [[living-mulch-systems-guide]] to conserve moisture. A 10 cm (4 in) layer of straw mulch can reduce irrigation needs by 30–40%.
 
 ## Pest and Disease Management
 
@@ -169,7 +169,7 @@ Both crops benefit from [[mulch]] to conserve moisture. A 10 cm (4 in) layer of 
 - The most devastating disease of both crops, especially in waterlogged conditions
 - Symptoms: yellowing leaves, soft, foul-smelling rhizomes, plant collapse
 - Prevention: excellent drainage, pre-planting [[trichoderma]] treatment, crop rotation (3+ year break), avoid fields with history of solanaceous crops
-- Organic control: soil drench with [[Trichoderma harzianum]] (5 g/L) at planting and 30-day intervals; biofumigation with brassica [[cover-crops]] before planting
+- Organic control: soil drench with [[trichoderma-harzianum]] (5 g/L) at planting and 30-day intervals; biofumigation with brassica [[cover-crops]] before planting
 
 **Leaf Spot** (*Colletotrichum capsici*, *Phyllosticta*):
 - Symptoms: brown spots with yellow halos on leaves, premature defoliation
@@ -199,7 +199,7 @@ Both crops benefit from [[mulch]] to conserve moisture. A 10 cm (4 in) layer of 
 
 **Nematodes** (*Meloidogyne spp.*, *Radopholus similis*):
 - Root-knot nematodes cause galling on roots and reduce rhizome quality
-- Management: hot water treatment of seed rhizomes, organic amendments (neem cake, [[biochar]]), crop rotation with [[marigold]] (Tagetes) or [[mucuna]], biological control with *Pasteuria penetrans*
+- Management: hot water treatment of seed rhizomes, organic amendments (neem cake, [[biochar]]), crop rotation with [[comparison-french-marigold-vs-mustard-biofumigation]] (Tagetes) or [[mucuna-pruriens]], biological control with *Pasteuria penetrans*
 
 **Scale Insects and Mealybugs**:
 - Attack rhizomes in storage and occasionally in the field
@@ -216,7 +216,7 @@ Both crops benefit from [[mulch]] to conserve moisture. A 10 cm (4 in) layer of 
 Both turmeric and ginger are shade-tolerant understory crops, making them ideal for intercropping systems:
 
 - **Fruit trees**: Banana, papaya, coconut, citrus — turmeric/ginger thrive in the partial shade
-- **Legumes**: [[pigeon-pea]], cowpea, [[cover-crops-and-green-manures|green manure legumes]] — fix nitrogen, provide partial shade
+- **Legumes**: [[nitrogen-fixing-trees-in-permaculture]], cowpea, [[cover-crops-and-green-manures|green manure legumes]] — fix nitrogen, provide partial shade
 - **Herbs**: Lemongrass, citronella — aromatic pest deterrence
 - **Other spices**: Black pepper (trained on support trees above), cardamom (similar shade requirements)
 - **Root crops**: Sweet potato (as a ground cover above turmeric/ginger beds)
@@ -229,7 +229,7 @@ Both turmeric and ginger are shade-tolerant understory crops, making them ideal 
 
 **Ginger + Maize + Beans** (relay intercropping): Maize provides shade for ginger, beans fix nitrogen. Stagger planting: beans → ginger → maize.
 
-**Turmeric/ginger + [[chickpea]] rotation**: In regions with distinct wet/dry seasons, follow the rhizome crop with a legume to restore soil nitrogen.
+**Turmeric/ginger + [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] rotation**: In regions with distinct wet/dry seasons, follow the rhizome crop with a legume to restore soil nitrogen.
 
 ### Plants to Avoid
 
@@ -376,7 +376,7 @@ Growing turmeric and ginger outside the tropics requires adapting to a shorter f
 Turmeric and ginger are exceptionally well-suited to permaculture designs:
 
 - **Guild plants**: Pair with pigeon pea (nitrogen fixation, partial shade), sweet potato (ground cover, suppresses weeds), lemongrass (pest deterrence, mulch source)
-- [[food-forests|Food forest]]: Herbaceous layer beneath fruit trees. Thrive in the dappled shade of mango, citrus, or jackfruit
+- [[food-forest|Food forest]]: Herbaceous layer beneath fruit trees. Thrive in the dappled shade of mango, citrus, or jackfruit
 - [[companion-planting-and-polycultures|Polycultures]]: Combine with taro, cassava, and pigeon pea in tropical "canopy + shrub + herbaceous + groundcover" multi-strata systems
 - [[chop-and-drop]]: Ginger and turmeric leaves decompose rapidly, returning potassium-rich organic matter to the soil surface
 - [[aquaponics-and-backyard-aquaculture|Aquaponics]]: Can be grown in aquaponic beds with careful pH management (prefer slightly acidic conditions compatible with fish systems)
@@ -387,7 +387,7 @@ For certified organic production:
 
 - Use only organic-certified seed rhizomes or propagate from your own organic stock
 - All fertilizers and amendments must be OMRI-listed or equivalent
-- No synthetic fungicides; rely on [[trichoderma]], [[compost-tea]], and cultural practices
+- No synthetic fungicides; rely on [[trichoderma]], [[vermicompost-tea]], and cultural practices
 - Crop rotation: minimum 3-year rotation away from all Zingiberaceae and solanaceous crops
 - Post-harvest handling: no synthetic preservatives or fumigants; use cold storage, proper curing, and natural treatments (neem, clove oil)
 - Record-keeping: maintain detailed field histories, input records, and harvest/sales logs
@@ -413,5 +413,5 @@ For certified organic production:
 - [[the-rhizosphere-ecology-and-plant-microbe-interactions]] — understanding the root-zone microbiome
 - [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — complementary tropical staples
 - [[companion-planting-and-polycultures]] — design principles for intercropping systems
-- [[comparison-saffron-vs-turmeric-cultivation]] — turmeric compared with other high-value spice crops
+- [[saffron-cultivation-and-harvesting]] — turmeric compared with other high-value spice crops
 - [[comparison-turmeric-vs-ginger]] — detailed side-by-side comparison of these two crops

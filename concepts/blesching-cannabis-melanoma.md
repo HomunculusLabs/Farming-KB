@@ -81,12 +81,7 @@ anandamide, which binds relatively equally to CB1 and CB2 receptors.
   which may increase CB1 activation compared to indicas
 - Indicas and indica-heavy strains with lower THC:CBD ratios may increase
   CB2 activation
-- See [[blesching-cannabis-dermatological-conditions]] for additional
-  skin-related cannabinoid applications
-
-### Mind-Body Medicine and Melanoma
-
-See [[blesching-cannabis-skin-cancer-non-melanoma]] and the general
+- See [[blesching-cannabis-skin-cancer-non-melanoma]] and the general
 introduction to cancer in Blesching's text for mind-body perspectives on
 skin cancer. The skin represents a boundary between self and the external
 world, and the face in particular communicates emotional states through
@@ -118,8 +113,6 @@ obvious and subtle micro-expressions.
 
 ### Related Topics
 
-- [[blesching-cannabis-skin-cancer-non-melanoma]]
 - [[blesching-cannabis-dermatological-conditions]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-endocannabinoid-system-overview]]

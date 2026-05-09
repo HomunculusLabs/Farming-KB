@@ -118,12 +118,9 @@ Mangrove restoration and constructed wetlands represent distinct but complementa
 
 In permaculture and ecological design contexts, both approaches offer valuable tools: constructed wetlands for closed-loop water cycling on-site, and mangrove restoration for coastal projects aiming to restore ecological infrastructure at the landscape scale.
 
-See also: [[singh-constructed-wetlands-fungal-wastewater-treatment]] | [[dighton-fungi-mangrove-coastal-ecosystems]]
+See also: [[dighton-fungi-mangrove-coastal-ecosystems]]
 
 ## See Also
 
-- [[comparison-constructed-wetlands-vs-bioswales]]
-
 - [[comparison-perlite-vs-vermiculite]]
-- [[constructed-wetlands-wastewater-treatment]]
 - [[comparison-greywater-vs-constructed-wetland]]

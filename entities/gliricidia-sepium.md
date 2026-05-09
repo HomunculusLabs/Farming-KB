@@ -3,41 +3,7 @@ title: "Gliricidia sepium"
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
-  - agroforestry
-  - nitrogen-fixing
-  - legume-tree
-  - living-fence
-  - green-manure
-  - fodder
-  - shade-tree
-  - erosion-control
-  - tropical
-  - subtropical
-  - Fabaceae
-  - intercropping
-  - mulch
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - National Research Council (1980). "Gliricidia sepium: Management and
-    Improvement." National Academy Press.
-  - Simons, A.J. & Stewart, J.L. (1994). "Gliricidia sepium — a
-    multipurpose forage tree legume." Tropical Forestry Papers No. 29.
-  - Duguma, B. et al. (1994). "Gliricidia sepium: A versatile multipurpose
-    tree for agroforestry systems." Agroforestry Systems, 28(3), 189-219.
-  - World Agroforestry Centre (ICRAF). "Gliricidia sepium Fact Sheet."
-  - ILRI. "Gliricidia for livestock feed and soil improvement."
----
-
-# Gliricidia sepium
-
-## Overview
-
-Gliricidia sepium, commonly known as madre de cacao, Mexican lilac, or quick
-stick, is a medium-sized nitrogen-fixing leguminous tree native to the dry
-tropical forests of Mexico and Central America. It is one of the most widely
-utilized multipurpose agroforestry trees in the tropics, valued for rapid
+  - [[agroforestry]] trees in the tropics, valued for rapid
 growth, tolerance of poor soils, and diverse applications as living fences,
 shade for crops, green manure, animal fodder, and erosion control. The species
 forms a symbiotic relationship with Rhizobium bacteria, enabling atmospheric
@@ -94,12 +60,7 @@ yield 5–10 metric tons of fresh foliage per year through regular pruning.
 
 **Shade and intercropping:** In cacao, coffee, and tea plantations, Gliricidia
 provides optimal shade levels (30–50% canopy cover) when pruned to 3–5 m.
-Leaf litter adds nitrogen and organic matter. Alley cropping pairs Gliricidia
-with maize, beans, or cassava, with pruned foliage incorporated as green
-manure.
-
-**Soil improvement:** Through biological nitrogen fixation (50–100 kg N/ha/
-year), leaf litter decomposition, and root turnover, Gliricidia increases
+Leaf litter adds nitrogen and organic matter. [[decomposition]], and root turnover, Gliricidia increases
 soil nitrogen, organic carbon, and cation exchange capacity. It recovers
 phosphorus from deep soil layers and cycles it to the surface through litter.
 
@@ -134,6 +95,5 @@ areas.
 
 ## See Also
 
-- [[tabebuia-impetiginosa]]
-- [[agroforestry]]
+- [[cation-exchange-capacity]]
 - [[cation-exchange-capacity]]

@@ -112,12 +112,8 @@ Despite scheduling, the compound continues to appear on the NPS market, often so
 
 ## See Also
 
-- [[lsd]]
 - [[ergoline]]
-- [[eth-lad-entity-tihkal]]
 - [[psychedelic-substances-comparison]]
-- [[lysergic-acid-amide]]
-
 - [[pihkal-introduction-and-methodology]]
 
 - [1p-lsd](1p-lsd.md)

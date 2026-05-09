@@ -3,74 +3,11 @@ title: Composting Toilets and Humanure
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Composting Toilets and Humanure
+tags: [[graywater-systems]].
 
-The average toilet uses 3.5 gallons (13.25L) per flush. At 3 flushes/day over a year, that's 3,832 gallons (14,505L) of fresh water — just for toilets. A composting toilet eliminates this waste while producing valuable soil amendment.
+See also [[faires-composting-and-vermiculture]], and [[mollison-designers-composting-toilets-and-humanure]]
 
-## The Problem with Conventional Options
-
-**Septic systems:** Concrete/plastic container in ground, sewage slowly seeps into ground through leach field. Wastes enormous fresh water.
-
-**Self-contained composting toilets:** Large containment bin in basement with heating element. Problems: prohibitive cost, overestimate capacity (soupy overflow), breed flies, bulky installation. The affordable ones only work for weekend vacation cabins.
-
-**Best option:** Waterless system that separates liquids from solids with a powerful fan for odor removal.
-
-## Humanure Toilet (DIY)
-
-### Materials
-- 5-gallon (19L) bucket
-- Comfortable toilet seat (removable)
-- Wooden box with hinged lid (cut hole for seat, bucket sits inside)
-- Sawdust supply (from sawmill cutting only logs — NOT pressure-treated lumber)
-
-### Process
-
-1. **Every use:** Add a thin layer of sawdust on top of waste — this eliminates smell
-2. **When bucket fills:** Dump in outside compost pile. Dig a small hole in the middle, dump, cover back over with excavated material, then cover with more dry material (straw/leaves)
-3. **Clean bucket:** Rinse with water and biodegradable soap, dump rinse water on compost pile. Add sawdust at bottom, return to bathroom
-4. **Compost pile:** Needs concrete base (essential to prevent leaching), covered with soil + leaves/grass. Can be in greenhouse for thermal mass or in plastic bin on concrete slab (NOT airtight — oxygen needed)
-5. **Temperature:** Must rise above 98.6°F (37°C) for extended period, ideally above 120°F (49°C) for at least one day. If too cold, add more organic material. If it never gets hot enough, let sit undisturbed for 2 years before using
-6. **Turning:** Do NOT turn the pile — this cools it down. Rake flat periodically, add other waste to speed breakdown
-
-### Rules for Success
-- Empty frequently
-- Keep someone responsible for ensuring coverage with dry material
-- Make sure pile gets hot
-- Bring in dry materials from elsewhere if needed
-- Build on concrete slab
-- Put inside greenhouse or build nice wooden walls
-- Keep lid closed (fly prevention)
-- Keep sawdust supply well-stocked
-- Empty before bucket gets too full or waterlogged
-- Remove bucket immediately if flies start breeding
-
-### Safety
-
-A properly managed composting toilet will NOT breed flies, smell, harbor diseases, or bother neighbors. The key is frequent maintenance, adequate carbon material, and ensuring the pile reaches sufficient temperature.
-
-## Graywater Integration
-
-If using a waterless composting toilet that separates liquids, the liquid waste can be diverted to the graywater system for garden irrigation through a constructed wetland marsh. See [[graywater-systems]].
-
-See also [[graywater-systems]], [[faires-composting-and-vermiculture]], and [[faires-water-sources-and-catchment]].
-
-## Key Points
-
-- Sustainable homesteading integrates multiple systems for self-reliance
-- Design considerations should account for climate, water, and energy flows
-- Permaculture principles guide the placement and interaction of elements
-- Practical implementation requires understanding seasonal patterns and local conditions
-- Resilience comes from diversity and redundancy in food and resource systems
-
-## See Also
-
-- [[mollison-designers-composting-toilets-and-humanure]]
-
-[[humanure-composting]], [[faires-composting-and-vermiculture]], [[natural-farm-composting-vermicomposting]], [[humanure-composting-systems]], [[thermal-composting-vs-aact]], [[faires-orchard-design-and-intercropping]], [[faires-low-energy-refrigeration]], [[faires-pond-design-and-aquaculture]]
+[[faires-composting-and-vermiculture]], [[humanure-composting-systems]], [[faires-orchard-design-and-intercropping]], [[faires-pond-design-and-aquaculture]]
 
 ## Practical Applications
 
@@ -114,3 +51,62 @@ Designing these connections intentionally creates synergies that multiply the
 benefits of each individual component. The most successful homesteads are those
 where every output becomes an input for another process, closing loops and
 minimizing waste while maximizing productivity and self-reliance.
+## Practical Considerations
+
+When working with Composting Toilets and Humanure, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

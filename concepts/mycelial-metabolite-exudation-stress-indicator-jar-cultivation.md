@@ -139,11 +139,7 @@ Preventing metabolite exudation is always preferable to correcting it after it a
 Regular monitoring of colonisation progress allows the cultivator to identify when jars
 ## See Also
 
-- [[mycelial-metabolite-excretion-stress-response-grain-jars]]
-
 - [[jar-shaking-grain-redistribution-mycelial-colonisation]]
 
-- [[fungal-secondary-metabolites-environment]]
 - [[contamination-prevention-mycology]]
-- [[grass-seed-substrate-cultivation-psilocybe]]
 - [[mycelium-inoculation-techniques]]

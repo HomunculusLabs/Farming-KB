@@ -2,10 +2,7 @@
 title: Mushroom Compost Preparation
 source: Benjamin Minge Duggar - Mushroom Growing (1915)
 type: concept
-tags: [mycology, mushroom-cultivation, compost, manure, fermentation]
-created: 2026-05-08
----
-# [[mushroom-compost-preparation-historical]]
+tags: [[mushroom-compost-preparation-historical]]
 
 ## Overview
 
@@ -48,63 +45,11 @@ manure from stables employing chiefly leguminous fodders.
 ### Principles
 
 The goal of fermentation is to decompose the raw manure to a stage that
-favors [[mushroom-spawn]] growth rather than the mycelia of competing molds and
-bacteria. The essentials are:
-
-- **Adequate moisture** maintained throughout the process
-- **Sufficient turning** (forking over) to ensure uniform fermentation
-- **Temperature management** to promote beneficial [[decomposition]]
+favors [[decomposition]]
 
 During fermentation, common mold fungi are generally suppressed while
 bacterial and direct chemical action decomposes the organic material into
-forms readily available to mushroom [[mycelium]].
-
-### Procedure
-
-1. **Piling**: Fresh manure is thrown into piles not more than 4 feet high,
-   of any desired extent. Avoid single great pyramids or nondescript heaps
-
-2. **Initial wetting**: The manure should be thoroughly wetted throughout
-   at the start
-
-3. **Turning**: Fork over the pile 3-4 times at intervals of 3-5 days,
-   ensuring moisture reaches all parts at each turning
-
-4. **Temperature management**: Maintain 140-150°F between the first three
-   turnings. Higher temperatures with insufficient moisture cause "burning"
-   — rapid drying that damages the compost
-
-5. **Duration**: Under ordinary circumstances with well-moistened material,
-   proper fermentation takes about three weeks. Sawdust bedding may extend
-   this period, especially if resinous shavings are present
-
-### Signs of Proper Composting
-
-When compost is ready, it exhibits unmistakable characteristics:
-- Practically all objectionable odor has dissipated
-- The straw has a uniform brown color
-- The material has an oleaginous "feel" and pliable texture
-- Temperature has declined to approximately 120-130°F
-
-Properly prepared compost has no unpleasant features after beds are made.
-
-### Common Fermentation Problems
-
-- **Burning**: Caused by high temperature combined with rapid drying out;
-  most severe just beneath the pile surface. A reasonably good yield can
-  still be obtained from burned material
-- **Small batches**: More difficult because they dry out quickly. Special
-  attention to moisture and compactness is required
-- **Compressed piles**: Tramping or piling higher than 4 feet retards
-  fermentation by limiting air circulation
-
-## Quantity Estimates
-
-A full railroad carload of manure typically suffices for about 3,000 square
-feet of beds. A standard two-horse manure wagon load covers approximately
-225 square feet. The actual coverage depends on age, moisture content,
-compactness, and straw content of the manure — more straw means greater
-volume loss after [[composting]].
+forms readily available to mushroom [[composting]].
 
 ## Substitutes for Stable Manure
 

@@ -136,11 +136,8 @@ The species also has value in **forest garden** edges and **shade gardens**, thr
 
 ## See Also
 
-- [[taraxacum-officinale]]
 - [[plantago-major]]
-- [[borago-officinalis]]
 - [[prunella-vulgaris]]
-- [[achillea-millefolium]]
-- [[glycyrrhiza-glabra]]
+- achillea-millefolium
 - [[alchemilla-vulgaris]]
 - [[tilia-cordata]]

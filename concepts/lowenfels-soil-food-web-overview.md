@@ -106,9 +106,7 @@ actively aerated compost tea. As Lowenfels and Lewis emphasize: "No one ever
 fertilized an old growth forest."
 
 ## See Also
-- [[teaming-with-microbes-soil-food-web-overview]]
 - [[ingham-soil-food-web-assessment-methods]]
-- [[fungal-soil-food-web]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 
 - [[lowenfels-compost-tea-brewing]]

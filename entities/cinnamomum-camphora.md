@@ -111,13 +111,8 @@ Camphor oil extraction was a major industry in Taiwan and Japan during the 19th 
 
 ## See Also
 
-- [[cinnamomum-verum]] — true cinnamon (Ceylon cinnamon)
 - [[cinnamomum-cassia]] — cassia cinnamon
-- [[camphor]] — the primary monoterpene ketone
 - [[eugenol]] — phenylpropene found in related Cinnamomum species
-- [[linalool]] — monoterpene alcohol, dominant in linalool chemotypes
 - [[curcuma-longa]] — aromatic rhizome with related anti-inflammatory chemistry
-- [[zingiber-officinale]] — Zingiberaceae aromatic rhizome
 - [[alpinia-galanga]] — greater galangal, related aromatic Zingiberaceae
-- [[kaempferia-galanga]] — aromatic rhizome with camphoraceous notes
 - [[boesenbergia-rotunda]] — fingerroot, related Southeast Asian aromatic

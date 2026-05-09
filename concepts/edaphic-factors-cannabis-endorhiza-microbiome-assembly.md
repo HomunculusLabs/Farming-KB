@@ -113,14 +113,8 @@ The Winston et al. study contributed several methodological advances to the stud
 
 ## See Also
 
-- [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
-
 - [[cannabis-microbiome-cultivar-specificity]]
-- [[two-tier-selection-model-root-microbiome-assembly]]
 - [[cannabis-endorhiza-microbiome]]
-- [[rhizosphere-microbiome-selection-model]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]
-- [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
 - [[beta-diversity-root-soil-compartments-cannabis]]
-- [[cannabinoid-microbiome-correlation-cannabis]]
 - [[cellvibrio-and-root-decay-microbiome]]

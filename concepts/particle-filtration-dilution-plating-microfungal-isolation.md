@@ -127,11 +127,7 @@ Always use multiple media with different selective agents:
 
 ## See Also
 
-- [[soil-fungal-isolation-techniques]]
 - [[fungal-culture-media-formulas-applications]]
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[microfungal-diversity-host-plant-relationship]]
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[microfungal-species-diversity-large-areas]]

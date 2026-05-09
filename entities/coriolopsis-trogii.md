@@ -104,18 +104,11 @@ Sporocarp formation is influenced by seasonal humidity and temperature fluctuati
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[fomes-fomentarius]]
-- [[phellinus-linteus]]
 - [[poria-cocos]]
-- [[inonotus-obliquus]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[mycoremediation]]
+- [[laetiporus-sulphureus]]
 - [[ergothioneine]]
-- [[laccaria-bicolor]]
 - [[wolfiporia-extensa]]
-- [[stropharia-rugosoannulata]]
 - [[suillus-luteus]]
-- [[armillaria-mellea]]
 - [[boletus-edulis-entity]]
 - [[grifola-frondosa]]

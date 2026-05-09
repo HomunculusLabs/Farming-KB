@@ -127,12 +127,6 @@ future no-dig management.
 
 ## Related
 
-- [[coleman-tiller-broadfork-and-soil-aeration-tools]]
-
-- solomon capillarity and soil moisture movement Concepts
-
 - [[solomon-double-digging]]
-- [[solomon-soil-preparation-bed-prep]]
 - [[solomon-raised-beds-and-bed-preparation]]
-- [[solomon-humus-building-and-soil-life]]
 - [[solomon-weed-management-without-chemicals]]

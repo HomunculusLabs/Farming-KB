@@ -76,11 +76,7 @@ JADAM supports organic farming but NOT crop rotation. It is neither appropriate 
 
 ## See Also
 
-- [[jadam-crop-residue-fertilizer]] -- how to use crop residues as fertilizer
 - [[jadam-do-as-nature-does-philosophy]] -- the philosophical foundation
-- [[jadam-nutritional-balance-philosophy]] -- the nutritional balance approach
 - [[jadam-coexisting-with-wild-grass]] -- wild grass as complementary fertilizer
-- [[what-natural-farming-method-should-i-use]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[jadam-natural-farming-philosophy]]
 - [[fukuoka-crop-rotation-natural-farming]]

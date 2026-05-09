@@ -28,7 +28,7 @@ for the conceptual framework.
   Gabe Brown (North Dakota), Ray Archuleta (NRCS), and others
   demonstrate that no-till + cover cropping + diverse rotations
   can regenerate degraded soils.
-  See [[composting-and-soil-biology]].
+  See [[no-till-gardening-method]].
 
 ## 2010s — Soil Health Movement Matures
 
@@ -88,7 +88,7 @@ for the conceptual framework.
 - regenerative agriculture history — conceptual framework and principles
 - [[soil-food-web-nutrient-cycling]] — biological foundation of regenerative practices
 - [[elaine-ingham]] — soil food web pioneer
-- [[composting-and-soil-biology]] — key regenerative practice
+- [[no-till-gardening-method]] — key regenerative practice
 - [[knf-preparations]] — KNF input catalog with recipes
 - [[jadam-methods]] — ultra-low-cost organic farming methods
 - [[cannabis-living-soil-amendment-schedule]] — applied living soil techniques

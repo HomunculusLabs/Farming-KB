@@ -1,32 +1,13 @@
 ---
-title: "Integrated Mosquito Management for [[permaculture]] and Homestead Ponds"
-tags:
-  - mosquitoes
-  - pond-management
-  - permaculture
-  - biological-control
-  - BTI
-  - dragonflies
-  - pond-design
-  - homesteading
-  - integrated-pest-management
-date: 2026-05-03
-updated: 2026-05-03
-sources:
-  - "American Mosquito Control Association (AMCA). Mosquito Biology and Control. https://www.mosquito.org/"
-  - "Russell, T.L. et al. (2020). 'Biological control of mosquito larvae by aquatic predators.' Journal of Vector Ecology, 45(1), 1–14."
-  - "Becker, N. et al. (2010). Mosquitoes and Their Control, 2nd ed. Springer."
-  - "University of California Agriculture & Natural Resources. 'Mosquito Fish: Care and Use.' UC ANR Publication 7213."
-  - "Marten, G.G. & Reid, J.W. (2007). 'Cyclopoid copepods.' Journal of the American Mosquito Control Association, 23(2 Suppl), 65–92."
-  - "Xu, Q. et al. (2020). 'Efficacy and environmental safety of [[bacillus-thuringiensis]] israelensis for mosquito larval control.' Toxins, 12(12), 772."
+title: "Integrated Mosquito Management for [[bacillus-thuringiensis]] israelensis for mosquito larval control.' Toxins, 12(12), 772."
   - "Culiseta, Inc. 'Dragonflies as Bioindicators and Mosquito Predators in Constructed Wetlands.' Wetlands Ecology and Management, 2019."
   - "Foster, W.A. & Walker, E.D. (2019). 'Mosquitoes (Culicidae).' Medical and Veterinary Entomology, 3rd ed."
 created: 2026-05-07
 type: query
 ---
-# Integrated Mosquito Management [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]] and Homestead Ponds
+# Integrated Mosquito Management  and Homestead Ponds
 
-> **TL;DR:** The most effective mosquito strathemenway-water-harvesting-and-pond-design]] single fix — it's a layered system of pond design, biological predators, physical barriers, and targeted natural larvicides. When stacked together, these approaches create a pond ecosystem that suppresses mosquitoes while supporting fish, wildlife, and food production.
+> **TL;DR:** The most effective mosquito strathemenway-water-harvesting-and-pond-design single fix — it's a layered system of pond design, biological predators, physical barriers, and targeted natural larvicides. When stacked together, these approaches create a pond ecosystem that suppresses mosquitoes while supporting fish, wildlife, and food production.
 
 ---
 
@@ -139,11 +120,10 @@ The single best mosquito predator you can invite. Dragonfly nymphs are aquatic a
 4. Plant open-structure marginals — avoid dense monocultures.
 5. Install bat and bird housing within 30–50 feet.
 6. Keep BTI dunks on hand for the active season.
-7. Screen all ancillary water containers (barrels, troughs, buckets).
-8. Monitor weekly with a white-cup dip test through summer.
-
----
-
 ## Related Queries
 
-- [[query-how-can-i-attract-dragonflies-to-my-pond-for-mosquito-control]]
+- 
+
+## See Also
+- [[mollison-designers-fish-pond-water-quality-and-aeration]]
+- [[hemenway-water-harvesting-and-pond-design]]

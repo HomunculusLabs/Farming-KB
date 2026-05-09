@@ -20,35 +20,6 @@ in biology, timeline, infrastructure, and skill requirements. Understanding
 both approaches helps cultivators choose the right path for their goals.
 
 ## Truffle Cultivation
-[[truffle-cultivation-basics]]
-
-Truffles are the fruiting bodies of ectomycorrhizal fungi that grow
-underground in symbiosis with living tree roots. Unlike saprotrophic
-mushrooms that decompose dead organic matter, truffles require a living host
-tree from families such as Fagaceae (oak, beech, hazel) and Pinaceae (pine).
-The fungus wraps tree roots in a dense hyphal mantle and forms a Hartig net
-for nutrient exchange: the tree provides carbohydrates from photosynthesis
-while the fungus supplies water, phosphorus, nitrogen, and minerals from the
-soil. This exchange is so efficient that mycorrhizal trees outperform
-non-mycorrhizal trees on poor soils by orders of magnitude.
-
-The cultivation process begins with inoculating tree seedlings with truffle
-spores or mycelium in sterile nursery conditions, then planting them in
-carefully selected sites with appropriate soil pH (typically 7.0-8.0 for
-European species), drainage, and climate. Most truffle species take 5-15
-years from planting to first harvest. Ongoing maintenance includes soil pH
-monitoring, weed control, tree pruning, irrigation during dry periods, and
-avoiding soil compaction. Harvest requires trained dogs to locate underground
-fruiting bodies at depths of 5-30 cm.
-
-Key truffle species include Tuber melanosporum (Perigord black), T. aestivum
-(Burgundy), T. magnatum (Italian white), and T. gibbosum (Oregon white).
-Cultivation often fails due to incorrect soil chemistry, competition from
-other ectomycorrhizal fungi, over-irrigation, or abandonment before the
-orchard has had time to establish. Success requires long-term thinking, land
-access, and tolerance for significant uncertainty in outcomes.
-
-## Indoor Mushroom Cultivation
 [[mushroom-indoor-cultivation]]
 
 Indoor mushroom cultivation grows saprotrophic fungi on sterilized or
@@ -115,8 +86,6 @@ applied to truffle orchards as organic amendment, creating a closed-loop
 system that connects both cultivation methods productively.
 
 ## See Also
-- [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
 - [[comparison-spore-print-collection-vs-spore-syringe-production]]
-- [[comparison-agar-vs-liquid-culture]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]

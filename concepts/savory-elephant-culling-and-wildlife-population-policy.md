@@ -56,15 +56,6 @@ to all game that evolved with predators.
 The Mana Pools case demonstrates that stocking rate is not the primary
 determinant of environmental impact. Time -- how long animals remain in
 one place -- is the critical factor, as explained in Savory's
-[[savory-time-and-timing-guideline]]. Simply keeping numbers low enough to
-avoid die-off in dry years leads to overrest and successional shifts
-toward woody plants during average and good rainfall years. This in
-turn encourages too frequent use of fire as management tool and
-technology in what becomes crisis management.
-
-## The Predator-Prey Relationship
-
-Predators perform several essential functions that are part of the
 [[savory-four-missing-keys]]:
 
 - They induce movement of herbivore herds, preventing overgrazing.
@@ -101,8 +92,6 @@ The elephant culling story illustrates a universal principle:
 addressing symptoms (too many animals) while ignoring causes (loss of
 predator-induced movement) leads to policies that fail even with
 massive effort over decades. The same pattern appears in
-desertification causes, where reducing livestock numbers fails
-because the time factor is not addressed. It also appears in
 [[savory-overgrazing-vs-overrest]], where partial rest combined with
 overgrazing creates the very conditions that justify destocking in
 the minds of conventional managers, yet destocking worsens the
@@ -112,19 +101,9 @@ underlying problem by further reducing animal impact.
 
 The Mana Pools experience suggests that pure wildlife areas without
 predator pressure require active management of animal movement and
-time on paddock. This is one reason [[savory-wildlife-livestock-integration]]
--- where domestic livestock can be moved to create desired patterns --
-is often more practical than pure game ranching. Livestock can provide
-the animal impact and herd effect that wildlife alone cannot
-achieve when confined by fences or park boundaries.
+time on paddock. This is one reason [[savory-game-ranching-and-wildlife-conversion]]
 
-## See Also
-
-- [[savory-game-ranching-and-wildlife-conversion]]
-
-- [[savory-four-missing-keys]] - The role of predators and time
 - [[savory-predator-prey-and-herding-behavior]] - How predators shape movement
 - brittle environments - Why these dynamics are most critical
-- [[savory-time-and-timing-guideline]] - Time as the critical variable
 - [[savory-wildlife-livestock-integration]] - Combining domestic and wild
   animals

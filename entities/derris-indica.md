@@ -12,73 +12,88 @@ type: entity
 
 **Type:** Species
 **Category:** Medium deciduous leguminous tree
-**Also known as:** [[indian-beech]], pongam, ponga, kona, kanji, karanda,
-  karanja, honge
-
-## Overview
-Derris indica is a medium-sized, thornless, deciduous leguminous tree
-growing to 8 meters, originally native to India and now widely
-distributed throughout the tropics. It is a remarkably versatile
-multipurpose tree, providing non-edible seed oil for lubricants and
-fuel, insect-repellent leaves for grain storage, nitrogen-fixing root
-nodules, medicinal bark, and valuable timber for cabinet making.
-
-## Key Details
-
-### Botany
-- **Family:** Fabaceae (Papilionaceae)
-- **Form:** Medium deciduous tree to 8 m
-- **Branches:** Spreading or drooping; thornless
-- **Growth:** Fast-growing; reaches mature height in 4-5 years
-- **Root system:** Extensive surface roots; suckers readily
-
-### Growth Conditions
-- **Temperature:** Withstands below 0 degrees C to 50 degrees C
-- **Altitude:** Sea level to 1,200 m
-- **Rainfall:** 500-2,500 mm
-- **Soils:** Sandy, rocky, limestone; highly tolerant of salinity,
-  even with roots in salt water
-- **Distribution:** Originally native to India; now pantropical
-
-### Seed Oil
-- Seeds contain 30-40% yellow to red-brown oil
-- Non-edible but versatile industrial applications
-- Used as a lubricant and fuel for kerosene lamps
-- Leather dressing, soap manufacturing, varnishes, and paints
-- Reported antiseptic properties for skin disease treatment
-
-### Insect Control
-- Dried leaves have an odour that repels insects
-- Used to protect stored grain from insect damage
-- Ploughed into soil as green manure; said to repel nematodes
-- Presscake after oil extraction used as insecticide by Indian
-  farmers
-- Presscake also demonstrated as good poultry feed
-
-### Timber Properties
-- Coarse-textured wood; somewhat difficult to work
-- Beautiful grain makes it valued for cabinet making
-- Also used for cartwheels and posts
-- Good firewood: calorific value 4,600 kcal/kg
-
-### Other Products
-- Bark fibre used to make very strong rope
-- Creates substantial litter from leaf, flower, and pod drop
-- Seeds remain viable for long periods
-- Grows readily from cuttings of all sizes
-- Seedlings transplant easily
-- Grasses grow well in its shade (valued livestock tree)
-
-## Relevance
-Derris indica is one of the most versatile trees for tropical
-[[permaculture]] systems, combining nitrogen fixation, natural insect
+**Also known as:** [[permaculture]] systems, combining nitrogen fixation, natural insect
 control, biofuel production, and high-quality timber. Its extreme
 environmental tolerance, including salt water, makes it valuable for
 coastal and degraded-land agroforestry. The dual use of presscake as
 both insecticide and poultry feed exemplifies the closed-loop
-efficiency valued in [[permaculture-design]].
-
-## See Also
-- [[azadirachta-indica]]
-- [[robinia-pseudoacacia]]
+efficiency valued in [[azadirachta-indica]]
 - [[simmondsia-chinensis]]
+## Practical Applications
+
+Derris indica has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Derris indica. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

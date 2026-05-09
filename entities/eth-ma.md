@@ -112,11 +112,7 @@ Several pharmaceutical companies have investigated 5-HT2A partial agonists in th
 
 ## See Also
 
-- [[dmt]]
 - [[4-ho-met]]
-- [[4-aco-met]]
 - [[4-ho-mipt]]
-- [[5-meo-mipt]]
 - [[psilocin]]
-- [[psilocybin-compound]]
 - [[lsd]]

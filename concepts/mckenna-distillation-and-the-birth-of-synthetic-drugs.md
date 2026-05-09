@@ -140,10 +140,6 @@ society whether in the home countries or the colonies.
 It is important to understand that fermentation itself is a
 ## See also
 
-- [[mckenna-food-gods-natural-synthetic-drugs]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
-- [[ethnomycology]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-food-of-the-gods-thesis]]

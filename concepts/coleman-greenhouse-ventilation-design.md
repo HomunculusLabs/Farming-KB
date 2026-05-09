@@ -18,37 +18,7 @@ type: concept
 
 # Greenhouse Ventilation Design for Mobile and Sliding Houses
 
-Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. [[eliot-coleman]]'s evolving greenhouse designs reflect years of experimentation with ventilation systems that must function effectively in both winter and summer while accommodating the structural requirements of houses that move.
-
-## Why Standard Roll-Up Sides Are Problematic
-
-In most tunnel greenhouse designs, roll-up sidewalls provide ventilation. The concept is straightforward: the lower portion of each sidewall can be raised to allow air circulation. However, Coleman rejected standard roll-up sides for winter harvest houses for several reasons:
-
-- Snow and ice accumulation on the ground beside the greenhouse hinders the operation of the pipe roller mechanism used to raise and lower the sides
-- When sidewalls are opened, cold air enters directly at soil level, flowing across the young plants and causing stress or damage
-- The gap between the roll-up mechanism and the ground creates an uncontrolled air entry point
-- Operating roll-up sides in freezing conditions is physically difficult for workers
-
-## The Wiggle-Wire Attachment System
-
-A foundational element of the ventilation discussion is the system used to attach plastic covering to the greenhouse structure. Coleman describes several variations of what is essentially the same concept: a two-part perimeter attachment system where one component (a channel) is bolted or screwed to the greenhouse frame and another component (a zigzag-shaped length of wire) is inserted into the channel to grip the plastic firmly against the inner surfaces.
-
-This product is known by various manufacturer names including wire-lock, springlock, poly-lock, or wiggle wire. The best designs have a channel deep enough to accept two or more zigzag wires, which is useful either for extra holding power or so the same channel can secure both end-wall plastic and the top-covering plastic. This system allows for relatively quick attachment and removal of plastic sections, which is essential for ventilation designs that involve opening and closing large areas.
-
-## Sliding House End-Wall Ventilation
-
-The end-wall design for the 22-by-48-foot sliding greenhouses provides both high and low ventilation. The key elements include:
-
-- Two 4-foot-wide by 5-foot-tall access doors side by side in the center of each end wall
-- The base of the doors is positioned 16 inches above ground level, which prevents cold air from flowing directly across the soil surface when doors are opened for ventilation
-- A permanent crossbar beneath the doors extends from one side of the greenhouse to the other, stiffening the end bows to prevent the greenhouse ends from splaying inward or outward during moves
-- Workers must step over the crossbar when entering or exiting, which is awkward but accepted as a fair trade-off for the structural integrity it provides
-
-### Summer Ventilation for Sliding Houses
-
-A strip of plastic covers the space between the crossbar and the soil surface at each end. This strip serves dual purposes:
-
-- When the greenhouse is moved over standing crops, the strip is rolled up to allow the house to pass over the [[plants-without-mycorrhizal-associations]] damage
+Ventilation is a critical design consideration for greenhouses used in year-round production, but it presents unique challenges for mobile and sliding structures. [[plants-without-mycorrhizal-associations]] damage
 - During summer, the strip functions as a roll-up side for additional ventilation
 
 This design provides effective ventilation while maintaining the structural rigidity needed for houses that are physically pushed or pulled between sites.
@@ -73,34 +43,7 @@ This design enables three distinct ventilation modes:
 
 **Early spring mode:** Once snow is no longer a concern, the door is rolled up from the bottom during the day and rolled down at night, functioning like a conventional roll-up sidewall. When cold air drafting across the crops might be detrimental, a 2-foot-wide piece of plastic is stretched horizontally across the bottom of the door opening as an air barrier.
 
-**Summer mode:** The doors at both ends are rolled up entirely and tied in place, ensuring maximum ventilation for summer crops and easy access for harvesting or [[soil-preparation-organic-gardens]] between succession crops.
-
-## Stabilization for Wind
-
-A wind brace is added in winter to secure the large plastic door sheet and prevent it from flapping in winter winds. This brace is removed when access is needed during summer operations. Additionally, stakes are driven into the ground and bolted to the corners of the end-wall door opening to stabilize them. These stakes must be extracted before the greenhouse is moved.
-
-## Securing the Bottom Edge with Sandbags
-
-For rolling houses that sit on wheels, a gap exists between the bottom of the sides and the ground below the wiggle-wire channel. When a weather-tight seal is needed for winter, 2-foot flanges of plastic left below the wiggle-wire channel along both sides are held down with sandbags.
-
-Each sandbag is filled with 15 pounds of road gravel. When the bags eventually deteriorate, the gravel is repurposed for road repair. An alternative is to fill bags with soil dug from the field and return the soil to the field when bags wear out. The sandbag approach is much faster and less labor-intensive than burying the plastic edges in trenches, and it allows every pair of beds to be covered side by side without needing to dig trenches between them.
-
-## Modified Roll-Up Sidewall Concept
-
-Coleman envisions an improved roll-up sidewall design that would address the problems of standard systems for winter use:
-
-- The rollable portion of the sidewalls would stop 2 to 3 feet above ground level rather than extending all the way down
-- A separate piece of plastic would cover the lower portion of each sidewall as a permanent base
-- The opening created above the base plastic would remain clear of snow in most conditions
-- A "drop-down side" design would be even better, with the higher opening preventing cold air from entering directly across the plants at soil level
-
-This concept remains theoretical but addresses the fundamental challenge of providing adequate ventilation without exposing plants to cold air infiltration at the most vulnerable point.
-
-## Summer Ventilation Challenges
-
-The same greenhouse designs that must retain heat in winter face the opposite challenge in summer: venting excess heat to prevent crop damage. The summer climate maps in the appendix of the Winter Harvest Handbook show that summer temperatures vary dramatically across the United States, and growers in hotter regions must pay particular attention to ventilation capacity.
-
-For the hottest weeks of summer, growers have the option of closing the greenhouse entirely and solarizing the soil. Solarization involves the soil being heated by the sun under the sealed plastic cover to temperatures that kill soil-borne pathogens, weed seeds, and nematodes. This practice can serve a dual purpose: protecting the plastic covering from UV degradation during the period when it would otherwise be most stressed, and improving [[soil-health-indicators]] for the subsequent crop.
+**Summer mode:** The doors at both ends are rolled up entirely and tied in place, ensuring maximum ventilation for summer crops and easy access for harvesting or [[soil-health-indicators]] for the subsequent crop.
 
 ## Integration with the Wiggle-Wire System
 
@@ -141,6 +84,5 @@ These ventilation innovations are integral to making mobile greenhouses practica
 
 ## See Also
 
-- [[coleman-high-tunnel-cold-frame-design]]
 - [[coleman-season-extension-timeline-and-frost-protection]]
 - [[coleman-moveable-greenhouse-system]]

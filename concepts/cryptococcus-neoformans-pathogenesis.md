@@ -89,37 +89,10 @@ selective advantage.
 
 ## Treatment
 
-- **Induction:** Amphotericin B ([[amphotericin-b-antifungal]]) plus flucytosine for 2 weeks
-- **Consolidation:** Fluconazole for 8 weeks
-- **Maintenance:** Fluconazole until immune reconstitution
-- In resource-limited settings, fluconazole monotherapy is often used (less effective)
+- **Induction:** Amphotericin B ([[cryptococcus-neoformans]] Topics
 
-## HIV/AIDS Connection
-
-The emergence of cryptococcal disease as a major killer is directly linked to the HIV pandemic:
-- C. neoformans is the most common cause of adult meningitis in sub-Saharan Africa
-- Accounts for 15-20% of AIDS-related deaths globally
-- The fungus exploits the loss of T-cell immunity
-
-## Environmental Reservoir
-
-- Found in soil associated with pigeon droppings worldwide
-- Also isolated from eucalyptus trees and other plant material
-- Pigeons themselves are not infected — their body temperature (42°C) is too high
-- The fungus survives desiccation in dried droppings for years
-
-## Related
-
-- [[cryptococcus-neoformans]] Topics
-
-- [[melanized-fungal-pathogens]] - Other melanized pathogenic fungi
 - [[amphotericin-b-antifungal]] - Primary treatment drug
-- [[ergosterol-fungal-drug-target]] - Drug target in fungal membranes
 - [[melanized-fungal-pathogens]] - Overview of human fungal pathogens
-- [[dermatophyte-fungi-human-disease]] - Superficial fungal infections
 - [[mucormycosis-zygomycete-infections]] - Zygomycete infections
-- [[fungal-spore-biology]] - Capsule and cell wall structure
-
-Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 3.
 - [[fungal-single-cell-protein-production]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

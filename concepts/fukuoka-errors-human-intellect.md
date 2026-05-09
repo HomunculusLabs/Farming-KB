@@ -70,28 +70,9 @@ The farmer with non-discriminating knowledge does not need to analyze the soil b
 
 This knowledge is not inferior to scientific knowledge; in the domain of farming, it is superior, because it deals with wholes rather than parts.
 
-This perspective connects Fukuoka's philosophy to the broader tradition of [[fukuoka-natural-farming-philosophy]] and the practice of [[fukuoka-do-nothing-farming-and-spiritual-life]], where the cessation of intellectual striving becomes the path to genuine understanding.
+This perspective connects Fukuoka's philosophy to the broader tradition of [[fukuoka-do-nothing-farming-and-spiritual-life]], where the cessation of intellectual striving becomes the path to genuine understanding.
 
-[[fukuoka-ignorant-agriculture-pit-of-knowledge]] | [[fukuoka-nature-god-limits-of-knowledge]] | [[fukuoka-view-of-nature-and-human-hubris]] | [[fukuoka-western-eastern-philosophy-agriculture]] | [[fukuoka-dharmic-law-all-things-return-to-one]]
-
-## Key Points
-
-1. Central to Fukuoka Errors Human Intellect is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
-2. Fukuoka's approach emphasizes observation over action — understanding natural patterns before making any changes to the landscape.
-3. The principle of 'doing nothing' (mu) means eliminating unnecessary human labor, not abandoning the land entirely.
-4. Natural farming seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
-5. Soil health is the foundation — building rich, living soil through natural mulching and decomposition rather than imported fertilizers.
-6. Seed balls (tsuchi dango) allow natural dispersal and germination without tilling or transplanting.
-7. The interplay between ground cover plants, crops, and trees creates a multi-layered productive system.
-8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
-9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
-
-## Practical Applications
-
-## See Also
-
-- [[fukuoka-textdoc-errors-of-human-intellect]]
+[[fukuoka-nature-god-limits-of-knowledge]] | [[fukuoka-western-eastern-philosophy-agriculture]] | [[fukuoka-textdoc-errors-of-human-intellect]]
 
 Related topics in this wiki include: .
 

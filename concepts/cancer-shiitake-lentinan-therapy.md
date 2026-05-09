@@ -84,10 +84,7 @@ Lentinan continues to be approved for clinical use in Japan. It is one of only t
 
 ## See Also
 
-- [[cancer-turkey-tail-psk-clinical-trials]]
 - [[cancer-beta-glucan-pharmacology]]
-- [[cancer-immune-modulation-mechanisms]]
 - [[cancer-maitake-d-fraction]]
 - cancer integration conventional treatment
-- [[lentinan-clinical-research]]
 - [[lentinan-gastric-cancer-combination-therapy]]

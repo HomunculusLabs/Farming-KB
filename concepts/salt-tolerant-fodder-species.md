@@ -88,60 +88,15 @@ Very salt tolerant, native to north Africa, requires 300+ mm rainfall.
   100-350 mm rainfall, tolerates irrigation with 8000-10000 ppm salt
 - **H. coronarium** (Sulla): Biennial from north Africa and southern
   Italy, yields over 20 tonnes dry matter/ha/year recorded, potential
-  as [[permaculture-bee-forage-system]] nectar producer
-
-## Saltbush and Bluebush (Atriplex and Maireana spp)
-
-Saltbush species can concentrate salt onto their leaf surfaces and could
-be used for removing salt from soil. Yields over 10 tonnes/ha/year are
-possible. Better growth rates occur in non-saline soils.
-
-- **Atriplex nummularia** (Old Man Saltbush): Perennial shrub to 3 m,
-  arid regions of all mainland Australian states. Protein 17.0-21.9%,
-  digestibility 68-74%
-- **Atriplex vesicaria** (Bladder Saltbush): Perennial to 60-70 cm,
-  wide soil adaptation. Protein 11.1-18.4%, digestibility 58%
-- **Atriplex canescens** (Four Winged Saltbush): North American native,
-  1-3 m. Protein 18-20%, digestibility 63.5%, low toxicity
-- **Atriplex undulata** (Wavy Leaf Saltbush): Argentine native, 0.5 m
-  tall, 2-3 m wide. 900 sheep grazing days/ha in 350 mm rainfall
-- **Atriplex halimus** (North African Saltbush): Mediterranean native
-- **Atriplex rhagodioides** (Riversaltbush): Spreading bush to 1 m,
-  NSW/SA/Vic/WA native, drought and frost hardy
-
-Bluebush species (Maireana spp) are native Australian companions to
-saltbushes:
-
-- **Maireana brevifolia**: WA wheatbelt, to 0.9 m, protein 15-26%
-- **Maireana sedifolia**: Nullarbor Plain shrub, protein 17.2%
-- **Maireana pyramidata**: To nearly 2 m, protein 15.1-22.0%, digest.
-  58%
-- **Maireana aphylla** (Cotton bush): Branched shrub to 1 m, prefers
-  clay soils
-
-## Salt Tolerant Trees
-
-### Tamarix articulata (Athel Tamarisk)
-
-A vigorous, bushy, pine-like tree requiring minimum 350 mm rainfall.
-Warning: most tamarisks cause salinisation of upper soil, reducing crop
-yields for up to 50 m.
-
-### Casuarina spp
-
-Multiple salt-tolerant species including C. obesa, C. glauca (swamp
-sheoak), and C. cristata (black sheoak).
-
-### [[acacia]] spp
+  as [[acacia]] spp
 
 Many wattle species tolerate saline conditions including A. ampliceps,
 A. auriculiformis, A. cyclops, A. ligulata, A. pendula, A. saligna,
-and A. salicina. See [[wattles-acacia-spp]] for details.
-
-### Other Notable Species
-
-- **Dalbergia sissoo** (Sissoo): Fast-growing leguminous tree to 30 m,
-  adapts to semi-arid conditions, valued for [[mycofiltration-silt-erosion-control]] and
+and A. salicina. See [[mycofiltration-silt-erosion-control]] and
   furniture timber
 - **Colophospermum mopane** (Mopane): Leguminous tree to 23 m, native
   to Africa, best firewood on the continent, coppices vigorously
+
+## See Also
+
+- [[permaculture-plants-salt-tolerant-fodder-systems]]

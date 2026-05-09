@@ -70,64 +70,72 @@ The stipe is solid to slightly hollow, with a fibrillose white surface.
 **Spores:** White spore print. Basidiospores are ellipsoid to broadly ellipsoid, 6.5–8.5 × 4.5–5.5 μm, smooth, inamyloid.
 
 ## Distribution and Habitat
+## See Also
 
-*H. chrysodon* is found across temperate Europe, including Scandinavia, Central Europe, the British Isles, and the Mediterranean region.
+- [[hericium-erinaceus]]
+- [[cantharellus-cibarius-entity]]
+- [[amanita-muscaria-entity]]
+- [[armillaria-mellea-entity]]
 
-It has also been reported from parts of North America, though records are less common there.
+## Merged: "Hygrophorus agathosmus"
 
-The species fruits from late summer through autumn, typically September to November in Europe.
+# Hygrophorus agathosmus
 
-It grows on the ground in both coniferous and mixed forests, forming ectomycorrhizal associations with trees.
+## Overview
 
-Documented mycorrhizal partners include *Pinus sylvestris*, *Picea abies*, *Fagus sylvatica*, and *Quercus robur*.
+**Hygrophorus agathosmus** is a species of agaric fungus in the family Hygrophoraceae, commonly known as the almond waxcap or fragrant woodwax. It is recognized by its distinctive almond-like fragrance, which is unusual among mushrooms and serves as the most reliable field identification character.
 
-It shows a preference for calcareous or neutral soils and is often found on forest edges or in clearings with adequate light.
+The species is mycorrhizal, forming associations primarily with coniferous trees in temperate and boreal forests of the Northern Hemisphere. It is widely distributed across Europe and North America, fruiting in autumn through early winter.
 
-## Edibility
+Hygrophorus agathosmus is generally considered edible, though it is not widely collected for the table due to its small size and waxy texture. It holds greater interest for its distinctive aroma and its role in forest mycorrhizal ecology.
 
-*H. chrysodon* is considered edible and is listed among the waxy caps that are safe for consumption.
+## Taxonomy and Morphology
 
-Its small size and relatively infrequent occurrence limit its culinary importance.
+The species was originally described by Elias Magnus Fries in 1815 as *Agaricus agathosmus* and later transferred to the genus *Hygrophorus* by Paul Kummer in 1871. The specific epithet *agathosmus* derives from Greek, meaning "good-smelling" or "fragrant."
 
-The flavor is mild and slightly nutty, without any bitter or acrid aftertaste.
+The cap measures 2–7 cm in diameter, starting convex and becoming broadly umbonate or nearly flat with age. The cap surface is smooth, slightly viscid when moist, and ranges in color from pale grey to olive-grey or brownish-grey. The margin is often lighter and sometimes slightly striate.
 
-As with all wild mushrooms, positive identification is essential before consumption.
+Gills are decurrent, moderately spaced, and waxy in texture — a characteristic feature of the genus. They are white to pale grey, sometimes developing a pinkish tinge with age. The stipe is 3–7 cm tall and 0.5–1.2 cm thick, cylindrical or slightly tapered upward, white to pale grey, and smooth.
 
-It can be confused with other small white waxy caps, but the golden granules on the cap and stipe are distinctive.
+Spore print is white. Basidiospores are ellipsoid, smooth, measuring 7–9 × 4–5.5 µm. The presence of clamp connections has been reported in some collections but is variable.
+
+## Distribution and Habitat
+
+Hygrophorus agathosmus is found across much of Europe, from Scandinavia to the Mediterranean, and throughout temperate North America. It has also been reported from parts of Asia. The species fruits from September through December, typically during cool wet periods.
+
+It is an obligate mycorrhizal associate, most commonly found growing under conifers including *Picea abies* (Norway spruce), *Pinus sylvestris* (Scots pine), and *Abies alba* (silver fir). It occasionally occurs under broadleaf trees such as *Fagus sylvatica* (European beech) in mixed stands.
+
+The species prefers moist, acidic to neutral soils in mature forest habitats. It is most commonly encountered on forest floors with well-developed humus layers, often appearing in the same locations year after year.
+
+## Edibility and Culinary Use
+
+Hygrophorus agathosmus is generally regarded as edible, with a mild taste and a notable almond fragrance that persists even after cooking. However, it is not a widely sought-after edible mushroom for several practical reasons.
+
+The small size and waxy, somewhat gelatinous texture make it less appealing for culinary use compared to more substantial edible species. Some foragers collect it in small quantities to infuse creams, desserts, or liqueurs, taking advantage of its aromatic qualities.
+
+As with all wild mushrooms, positive identification is essential before consumption. The almond scent is a helpful diagnostic character, but beginners should verify identification with an experienced mycologist, as some toxic species can appear superficially similar.
+
+## Bioactive Compounds
+
+Hygrophorus agathosmus produces several fatty acid derivatives that are responsible for its characteristic almond fragrance. The primary aromatic compounds include benzaldehyde and related benzyl alcohol derivatives, which are the same compounds that give bitter almonds their scent.
+
+Members of the genus *Hygrophorus* are known to produce a range of bioactive metabolites including fatty acids, sterols, and pigments. Some *Hygrophorus* species have shown antimicrobial and antioxidant activity in laboratory studies, though specific research on *H. agathosmus* bioactivity remains limited.
+
+The fatty acid composition of the waxy cap cuticle is of taxonomic interest within the genus, as variations in lipid profiles help distinguish closely related species. These compounds may also serve ecological functions in the mycorrhizal interface.
 
 ## Ecological Role
 
-As an ectomycorrhizal fungus, *H. chrysodon* forms mutualistic associations with tree root systems.
+As a mycorrhizal fungus, Hygrophorus agathosmus forms mutually beneficial associations with the root systems of forest trees. The fungal mycelium extends the effective root surface area of the host tree, enhancing uptake of water and mineral nutrients, particularly phosphorus and nitrogen.
 
-The fungal mycelium extends the effective root surface area of host trees, improving nutrient and water uptake.
+In return, the fungus receives carbohydrates (primarily glucose and fructose) from the host tree through photosynthesis. This exchange is fundamental to the health of forest ecosystems and influences tree growth, resistance to pathogens, and overall forest productivity.
 
-In return, the fungus receives photosynthetically derived carbohydrates from the host tree.
-
-This relationship is particularly important in nutrient-poor or disturbed forest soils.
-
-*Hygrophorus* species in general are considered indicators of relatively undisturbed forest ecosystems with intact mycorrhizal networks.
-
-Their sensitivity to soil compaction and pollution makes them useful bioindicators of forest health.
-
-## Similar Species
-
-*Hygrophorus chrysodon* is relatively distinctive due to its golden granules, but a few lookalikes exist.
-
-*Hygrophorus niveus* is entirely white without any yellow granulation on the cap surface.
-
-*Hygrophorus piceae* grows specifically under spruce and has a smoother, more silky cap surface.
-
-*Hygrophorus cohortis* is similar in size but lacks the characteristic golden granules entirely.
-
-Small white *Cortinarius* species could cause confusion, but these have rusty-brown spore prints rather than white.
+Hygrophorus agathosmus is one of several late-season *Hygrophorus* species that contribute to extended mycorrhizal activity into the autumn and winter months. This temporal niche may provide particular benefits to host trees during periods of nutrient stress.
 
 ## See Also
 
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
-- [[pleurotus-ostreatus]]
-- [[cantharellus-cibarius-entity]]
-- [[boletus-edulis-entity]]
-- [[amanita-muscaria]]
-- [[laccaria-bicolor]]
-- [[armillaria-mellea]]
+- hygrophorus chrysodon
+
+- [[pleurotus-ostreatus]] — commonly cultivated edible mushroom
+- [[boletus-edulis-entity]] — prized edible mycorrhizal mushroom
+- [[hericium-erinaceus]] — lion's mane, edible and medicinal mushroom
+- [[inonotus-obliquus]] — chaga, a parasitic fungus on birch trees

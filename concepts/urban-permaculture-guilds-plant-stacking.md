@@ -3,13 +3,13 @@ title: Plant Guilds and Stacking in Urban Permaculture
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, polyculture, urban-agriculture]
+tags: [[permaculture, gardening, polyculture, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
 # Plant Guilds and Stacking
 
-Permaculture guilds are functional plant communities designed around a central element -- typically a fruit tree -- where each member contributes to the health and productivity of the whole. In natural forests, mature trees like firs support 26 or more species of flora and insects, all playing interconnected roles in growth, nutrient cycling, and pest management. This concept is foundational to [[urban-permaculture-edge-effect-and-design-principles]] and [[permaculture-forest-garden-establishment]].
+Permaculture guilds are functional plant communities designed around a central element -- typically a fruit tree -- where each member contributes to the health and productivity of the whole. In natural forests, mature trees like firs support 26 or more species of flora and insects, all playing interconnected roles in growth, nutrient cycling, and pest management. This concept is foundational to [[permaculture-forest-garden-establishment]].
 
 ## Fruit Tree Guilds
 
@@ -21,21 +21,7 @@ Key guild companion plants include:
 - **Clover** -- fixes atmospheric nitrogen in the soil, providing fertility to neighboring plants; acts as a living mulch that suppresses weeds
 - **Borage** -- attracts pollinators, repels certain pests, and traces minerals from deep soil layers
 - **Nettles** -- dynamic nutrient accumulator rich in nitrogen, iron, and other minerals; stimulates fermentation in compost and activates decomposition
-- **Comfrey** -- deep-rooted nutrient accumulator (especially potassium and phosphorus) whose leaves can be cut multiple times per season for mulch or [[ingham-compost-tea-recipe-ratios]]
-
-Sheep integrate into the orchard guild by grazing the grass between trees, eating fallen fruit (which prevents disease spread from rotting fruit on the ground), and contributing manure. They are rotated weekly between orchard blocks so they never graze grass too low or compact the soil excessively.
-
-The sheep also eat yarrow, clover, borage, nettles, and comfrey -- they actively enjoy these plants, converting them into manure that further feeds the fruit trees. This creates a closed nutrient loop within the guild.
-
-## Three Sisters: Corn, Bean, and Squash
-
-The classic Three Sisters planting demonstrates plant stacking in time and space:
-
-- **Corn** provides a tall support structure
-- **Beans** climb the corn stalks and fix nitrogen in the soil
-- **Squash** spreads along the ground as a living mulch, suppressing weeds and retaining soil moisture
-
-Each sister occupies a different vertical layer and serves a different function. The beans feed the corn nitrogen, the corn gives the beans structure, and the squash shades the soil and blocks weeds from all three. This is intercropping at its simplest -- everything placed according to shade tolerance, height, and water requirements. See also [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
+- **Comfrey** -- deep-rooted nutrient accumulator (especially potassium and phosphorus) whose leaves can be cut multiple times per season for mulch or [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 
 The Three Sisters originated with indigenous peoples of the Americas and represents one of the oldest and most successful examples of companion planting. The synergy between the three crops produces higher total yields than any of them grown alone in monoculture.
 
@@ -111,27 +97,9 @@ Urban guilds can be scaled down to a single fruit tree in a front yard with a ri
 
 Container guilds are possible too: a tomato plant with basil and marigolds in a large pot. Balcony gardens can stack vertically with hanging baskets, railing planters, and floor pots creating multiple layers.
 
-The goal is always the same: create interconnected communities where each element supports the others, reducing the need for external inputs and creating a self-regulating system. When guild design works well, the system produces its own fertility, manages its own pests, and requires minimal intervention from the gardener. See also [[urban-permaculture-pig-land-clearing]].
+The goal is always the same: create interconnected communities where each element supports the others, reducing the need for external inputs and creating a self-regulating system. When guild design works well, the system produces its own fertility, manages its own pests, and requires minimal intervention from the gardener. See also [[permaculture-guilds]]
 
-## Troubleshooting Guild Problems
-
-Common guild issues and solutions:
-
-- **Competition** -- if guild plants are competing too aggressively, thin them or replace aggressive species with less competitive ones
-- **Shade issues** -- if the canopy is too dense, prune the central tree to let more light through
-- **Nutrient deficiencies** -- add more dynamic accumulators or nitrogen fixers to the guild
-- **Pest outbreaks** -- increase flowering insectary plants and reduce areas of bare soil
-- **Poor growth** -- check that soil drainage and pH are appropriate for all guild members
-
----
-Updated: 2026-04-21
-
-## See Also
-
-- [[urban-permaculture-pig-land-clearing]]
 - [[faires-permaculture-ethics-and-design-principles]]
-- [[permaculture-forest-garden-design]]
 - [[companion-planting-deterrents]]
-- [[compost-tea-recipe-guide]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[urban-permaculture-trees-water-cycling]]

@@ -124,8 +124,6 @@ To improve compost for tea brewing:
 - Include diverse inputs for diverse organism communities
 - Feed worms fungal foods to support fungal-feeding nematode populations
 
-See also: [[aact-definitions-and-types-ingham]], [[aact-brewing-ingredients-ingham]], [[compost-building-guide]], [[composting-science-solomon]]
-- [[ingham-nutrient-cycling-soil-food-web]]
+See also: [[aact-brewing-ingredients-ingham]], [[composting-science-solomon]]
 - [[bacterial-vs-fungal-compost-teas]]
-- [[fungal-decomposition-nutrient-cycling]]
 - [[fungal-species-estimation-methods-total-diversity]]

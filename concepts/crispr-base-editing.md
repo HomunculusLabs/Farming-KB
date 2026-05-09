@@ -96,45 +96,6 @@ In agriculture, base editing can introduce beneficial alleles without foreign DN
 Plant breeders use it to modify disease resistance, yield traits, oil composition, and symbiotic fungi endophytic.
 In microbes, base editing supports metabolic engineering.
 It allows libraries of point mutations to be generated without killing cells through excessive DNA breaks.
-In [[functional-genomics-arbuscular-mycorrhiza]], base editors can map which amino acids or regulatory bases matter.
-Saturation base-editing screens test many variants across a gene or enhancer.
-These screens help interpret variants of uncertain significance in medical genetics.
-Base editing also clarifies protein dighton ectomycorrhizal hartig relationships.
-Its significance lies in making the genome more editable at the scale of letters rather than pages.
-However, the technology has limits.
-It cannot yet make every possible base change directly.
-It is constrained by PAM availability, editing windows, chromatin state, and delivery barriers.
-It can create bystander edits that are harmless in one context but damaging in another.
-Clinical use therefore requires careful risk-benefit analysis.
-The most acceptable uses are often severe diseases with limited alternatives.
-Regulators also consider reversibility, monitoring, and equity of access.
-Base editing could widen health disparities if it remains expensive.
-It could also reduce suffering if safe treatments become broadly available.
-
-## Related concepts
-CRISPR-Cas9
-Gene Therapy
-Prime Editing
-DNA Repair
-Genomics
-Synthetic Biology
-Molecular Biology
-Bioethics
-Somatic Cell Editing
-Functional Genomics
-
-## See also
-Base editing is best understood as one member of a family of programmable editing technologies.
-It differs from nuclease editing by avoiding routine double-strand breaks.
-It differs from prime editing by using deamination chemistry rather than reverse transcription.
-It differs from RNA editing because its changes can be permanent in the genome.
-The same conceptual vocabulary appears across all of these tools.
-Targeting, delivery, repair, specificity, and ethics remain the repeating themes.
-Future advances will likely combine better enzymes with better delivery systems.
-They will also require transparent public governance.
-A precise molecular tool is not automatically a wise social technology.
-Its value depends on how carefully it is used.
-- [[holmgren-genetic-engineering-and-evolution]]
-- [[fungal-genetics]]
+In [[holmgren-genetic-engineering-and-evolution]]
 - [[synthetic-data-generation]]
 - [[gene-drives]]

@@ -123,11 +123,7 @@ in the 19th century, noting its superior keeping quality and protein content.
 
 ## See Also
 
-- [[trifolium-repens]]
 - [[vicia-villosa]]
 
-- [[persea-americana-entity]]
-
-[[pachyrhizus-erosus]] · [[dioscorea-alata]] · [[trifolium-repens]] ·
-Arachis pintoi · [[mucuna-pruriens]] · Apios · Fabaceae ·
-[[vicia-villosa]] · [[comfrey]] · [[tagasaste]] · [[eleagnus-angustifolia]]
+- [[pachyrhizus-erosus]] · [[trifolium-repens]] ·
+Arachis pintoi · [[vicia-villosa]] · [[tagasaste]] · [[eleagnus-angustifolia]]

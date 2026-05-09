@@ -1,150 +1,177 @@
 ---
-title: Nutritive Cycle Theory
-source: chos-global-natural-farming.md
+
+title: Nutritive Cycle Theory — Cho's Growth Stage Framework
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
+
 tags:
-  - natural-farming
-  - plant-nutrition
-  - cho-han-kyu
-  - korean-natural-farming
-  - nutritive-cycle
-  - growth-stages
+- knf
+- theory
+- plant-growth
+- fertilizer
+- plant-systems
+- vegetative
+- nutrient-cycling
+- soil-building
+
+sources:
+- raw/papers/chos-global-natural-farming.md
+- raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
 # Nutritive Cycle Theory
 
-The **Nutritive Cycle Theory** is the foundational principle underlying [[cho-han-kyu]]'s
-Global Natural Farming system (also known as Korean Natural Farming). It proposes that
-plants, like humans, require different types and quantities of nutrients at different
-stages of their growth cycle. Applying the wrong nutrient at the wrong time—or in
-excess—leads to poor plant health and increased susceptibility to disease.
+Master Han-Kyu Cho's Nutritive Cycle Theory is the foundational framework that determines when and how to apply KNF inputs. It recognizes that plants have different nutritional needs at different growth stages, just as humans need different foods as infants, children, adults, and elderly.
 
-## Core Principle
-
-The central insight of the Nutritive Cycle Theory is that **nutrition must match the
-growth stage**. Just as a human infant needs different food than a pregnant woman or an
-elderly person, a plant's nutritional needs shift dramatically as it progresses from
-seedling through maturity to fruiting and senescence. [[cho-han-kyu]] developed this
-theory through decades of careful observation and experimentation on his farm in South
-Korea, and it forms the backbone of the input application schedules used throughout
-the Global Natural Farming system.
+The theory divides plant growth into three phases and prescribes specific nutrient types and KNF inputs for each. The most critical concept is the **changeover period** (also called "morning sickness") — the transition from vegetative to reproductive growth that determines the quality of the final harvest.
 
 ## The Three Growth Stages
 
-### 1. Vegetative Growth Stage
+### Stage 1: Vegetative Growth (Childhood/Juvenile)
 
-During the vegetative stage, the plant is focused on building its structure—growing
-leaves, stems, and roots. The dominant nutrient demand is for **Carbohydrates (C)**,
-which the plant uses as its primary energy source. Through photosynthesis, plants
-convert carbohydrates into **Nitrogen (N)** compounds, which are essential for building
-proteins, amino acids, and chlorophyll.
+The plant is building its body — leaves, stems, roots. It needs energy and building blocks.
 
-In human terms, this stage is analogous to **childhood and adolescence**—a period of
-rapid growth where the body needs abundant energy and building blocks. Just as growing
-children require calorie-dense, protein-rich diets, young plants thrive when supplied
-with carbohydrate-rich inputs.
+**Nutrient type**: Sweet nutrients (carbohydrates, nitrogen)
 
-Key inputs during this stage include [[fermented-plant-juice-fpj]], which provides a
-rich source of plant-derived carbohydrates, enzymes, and growth-promoting compounds.
-[[indigenous-microorganisms-imo]] are also applied to ensure healthy soil biology and
-efficient nutrient cycling.
+**Plant behavior**:
+- Rapid leaf and stem expansion
+- Root system development
+- High metabolic rate
+- Accumulating energy reserves
 
-### 2. Cross-Over Period ("Morning Sickness")
+**KNF inputs**:
+- [[fermented-plant-extract-fpe]] from fast-growing plants (mugwort, bamboo, arrowroot) at 1:800-1000
+- [[fish-amino-acid-faa]] at 1:1000 — nitrogen for protein synthesis
+- [[lactic-acid-bacteria-lab]] at 1:1000 — boost soil microbial activity
+- [[indigenous-microorganisms-imo]] — IMO-4 or IMO-2 for soil inoculation
+- WS-K at 1:30 if stems are thin and weak
 
-The transition between vegetative growth and reproductive development is called the
-**cross-over period**, which [[cho-han-kyu]] poetically describes as the plant's
-"morning sickness." This is the critical juncture where the plant shifts its energy
-allocation from growing foliage to producing flowers and setting fruit.
+**What to avoid**:
+- Excessive calcium — WS-Ca during vigorous vegetative growth can stunt development
+- High potassium — saves for reproductive stage
 
-During this stage, the plant's nutrient demand pivots sharply to **Phosphorus (P)**
-compounds. Dr. Cho draws a direct parallel to **pregnant women craving sour foods**—a
-universal human experience where the body signals its need for specific nutrients. The
-plant similarly signals its transitional needs through physiological changes, and
-providing phosphorus at this precise moment is essential for successful flowering and
-fruit set.
+### Stage 2: Changeover Period (Morning Sickness/Adolescence)
 
-This is the most sensitive and critical period in the plant's life cycle. Missing the
-phosphorus application window or applying the wrong nutrients during cross-over can
-result in poor flower formation, reduced fruit set, and weaker overall yields. Farmers
-must closely observe their crops to identify when this transition begins.
+The most critical and most often neglected stage. The plant is transitioning from vegetative to reproductive growth. Cho calls it "morning sickness" because the plant shows temporary distress symptoms (yellowing leaves, slowed growth) as it reconfigures its metabolism from building leaves to building flowers/fruit.
 
-### 3. Reproductive Growth Stage
+**Nutrient type**: Sour nutrients (phosphoric acid compounds)
 
-In the reproductive stage, the plant focuses on filling and maturing its fruits, seeds,
-or storage organs. The key nutrient during this phase is **Potassium (K)**, which plays
-a vital role in carbohydrate transport, fruit quality, color development, and disease
-resistance.
+**Plant behavior**:
+- Vegetative growth slows
+- Flower buds begin forming
+- Older leaves may yellow (nutrient mobilization)
+- Plant appears "sick" but is actually restructuring
+- Root growth peaks before flower formation
 
-Plants in this stage are actively **storing carbohydrates** in their fruits or tubers.
-Potassium acts as a regulator, ensuring that sugars and starches are efficiently
-translocated from the leaves to the developing fruit. It also enhances the vibrancy of
-fruit color and improves shelf life.
+**KNF inputs**:
+- WS-PA at 1:30 (700ml per 20L water) — phosphorus for energy transfer
+- [[water-soluble-calcium-phosphate-wcp]] at 1:500-1000 — calcium phosphate for transition
+- FFJ from less-ripe/sour fruits (grape, papaya) — acid content aids transition
+- [[water-soluble-calcium-wca]] at 1:1000 — calcium supports the transition
+- [[brown-rice-vinegar-brv]] at 1:200-500 — natural acetic acid, sour nutrient
 
-The human analogy for this stage is **adulthood and old age**—a period of consolidation
-where the body stores reserves and the focus shifts from growth to quality and
-longevity. Just as adults benefit from mineral-rich foods that support maintenance and
-repair, plants in the reproductive stage need potassium-dense inputs to produce
-high-quality harvests.
+**What to avoid**:
+- FAA (nitrogen) — causes continued vegetative growth, delays flowering, produces soft tissue
+- Excessive FPJ — same issue as FAA
+- High LAB — makes plants/leaves overly large
 
-## Nutrient-to-Stage Mapping
+**Why this stage matters most**: Cho emphasizes that the changeover period determines final fruit/flower quality. If the plant transitions smoothly, reproductive output is maximized. If the transition is disrupted (wrong nutrients, stress), the plant produces poorly. Most conventional farming ignores this stage entirely.
 
-| Growth Stage | Primary Nutrient | Human Analogy | Key Function |
-|---|---|---|---|
-| Vegetative | Carbohydrates (C) → Nitrogen (N) | Childhood/Adolescence | Structural growth, leaf/stem development |
-| Cross-Over | Phosphorus (P) | Pregnancy (morning sickness) | Flowering, fruit set, energy transfer |
-| Reproductive | Potassium (K) | Adulthood/Old age | Fruit filling, color, quality, storage |
+### Stage 3: Reproductive Growth (Adulthood/Maturity)
 
-## The Principle of Excess: Nutrients Cause Disease
+The plant is producing flowers, fruit, or seeds. It needs quality-building nutrients.
 
-One of the most important—and often counterintuitive—aspects of the Nutritive Cycle
-Theory is the principle that **excess nutrients cause disease**. In conventional
-agriculture, the prevailing mindset is often "more is better," leading to heavy
-applications of synthetic fertilizers. Dr. Cho's theory directly challenges this
-approach.
+**Nutrient type**: Bitter/salty nutrients (calcium, potassium, minerals)
 
-When a plant receives more of a nutrient than it can use at its current growth stage,
-the excess does not simply go to waste. Instead, it creates metabolic imbalances that
-weaken the plant's natural defenses and invite pest and disease problems. For example:
+**Plant behavior**:
+- Flower development and opening
+- Fruit set and enlargement
+- Sugar and oil accumulation
+- Cell wall strengthening
+- Maturation and ripening
 
-- **Excess nitrogen** during the reproductive stage produces lush, soft foliage that is
-  highly attractive to insect pests and fungal pathogens.
-- **Excess phosphorus** applied during vegetative growth can lock up other essential
-  micronutrients in the soil, creating deficiencies.
-- **Excess potassium** early in the plant's life can interfere with calcium uptake and
-  lead to structural weaknesses.
+**KNF inputs**:
+- FFJ from fully ripened fruits (banana, mango, papaya, peach) at 1:1000 — sugar for development
+- [[oriental-herbal-nutrient-ohn]] at 1:1000 — pest/disease prevention
+- WS-Ca at 1:1000 — prevents overgrowth, hardens fruit, promotes sugar accumulation
+- WS-K at 1:30 — potassium for starch synthesis, fruit quality, sugar content
+- Seawater at 1:30 — full-spectrum minerals for fruit quality
 
-The Nutritive Cycle Theory therefore emphasizes **minimal and targeted application**—
-providing only what the plant needs, when it needs it, and in the appropriate quantity.
-This philosophy stands in stark contrast to conventional farming's preventive
-pesticide and fertilizer regimes, instead relying on the plant's own vigor and
-resilience to resist pests and disease.
+**What to avoid**:
+- FAA — nitrogen during reproductive stage is counterproductive
+- Excessive LAB — promotes excessive leaf growth at expense of flowers/fruit
 
-## Guiding Input Application Timing
+### Pre-Harvest (Ripeness)
 
-The practical value of the Nutritive Cycle Theory lies in how it guides farmers to
-make decisions about **what inputs to apply, how much, and how often**. Rather than
-following a fixed calendar schedule, natural farmers using Dr. Cho's system learn to
-observe their plants closely and apply inputs based on the plant's current growth
-stage and visible signals.
+Special formula applied to maximize sweetness and maturity:
 
-Key application principles include:
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| OHN | 1 ml |
+| WS-Ca | 2 ml |
+| Seawater | 30 ml |
 
-1. **Start with carbohydrates** during early vegetative growth using [[fermented-plant-juice-fpj]]
-   to fuel rapid leaf and stem development.
-2. **Introduce phosphorus** at the first signs of the cross-over period, supporting
-   flower initiation and fruit set.
-3. **Shift to potassium** once fruits begin forming, ensuring quality, color, and
-   disease resistance through harvest.
-4. **Apply [[indigenous-microorganisms-imo]]** throughout the cycle to maintain soil
-   health and support natural nutrient availability.
-5. **Use minimal dilution ratios**—typically 1:500 to 1:1000—and increase frequency
-   rather than concentration when plants appear to need more support.
+Apply 15 days and 2 days before harvest.
 
-## Summary
+## Nutrient Types Summary
 
-The Nutritive Cycle Theory provides a simple yet powerful framework for understanding
-plant nutrition through the lens of natural growth rhythms. By aligning fertilizer
-inputs with the plant's biological needs—carbohydrates during vegetative growth,
-phosphorus during the critical cross-over period, and potassium during reproductive
-development—farmers can achieve healthy, productive crops without relying on synthetic
-chemicals. The principle that excess nutrients cause disease serves as a constant
-reminder that in natural farming, less is often more.
+| Taste | Nutrient Type | Growth Stage | Inputs |
+|-------|--------------|-------------|--------|
+| Sweet | Carbohydrates, N | Vegetative | FPJ, FAA |
+| Sour | Phosphoric acid | Changeover | WS-PA, WS-CaPo, BRV, sour FFJ |
+| Bitter/Salty | Calcium, K, minerals | Reproductive | WS-Ca, WS-K, Seawater, OHN |
+
+## Key Principles
+
+1. **Right input, right time**: Applying the wrong nutrient at the wrong stage is worse than applying nothing
+2. **Less is more**: KNF inputs are potent — standard dilution is 1:1000. Over-application causes problems
+3. **Observe the plant**: The plant tells you what it needs through leaf color, growth rate, and morphology
+4. **The changeover is critical**: More crops fail at this stage than any other
+5. **Stop nitrogen for flowering**: This is the most common mistake in biological agriculture
+6. **Calcium prevents overgrowth**: WS-Ca is the "brake" that keeps vegetative growth in check
+
+## Practical Application Chart
+
+| Input | Vegetative | Changeover | Reproductive |
+|-------|-----------|------------|-------------|
+| FPJ | 1:800-1000 | 1:1000 | 1:1000 (sparingly) |
+| FFJ | — | 1:1000 (sour) | 1:1000 (ripe) |
+| FAA | 1:1000 | STOP | STOP |
+| OHN | 1:1000 | 1:1000 | 1:1000 |
+| LAB | 1:1000 | Reduce | Reduce |
+| WS-Ca | Avoid | 1:1000 | 1:1000 |
+| WS-K | 1:30 (if weak) | — | 1:30 |
+| WS-PA | — | 1:30 | — |
+| WS-CaPo | — | 1:500-1000 | — |
+| BRV | — | 1:200-500 | — |
+| Seawater | — | — | 1:30 |
+| IMO | Soil drench | Soil drench | Soil drench |
+
+## Cannabis-Specific Notes
+
+For cannabis in [[cannabis-living-soil-guide]], the nutritive cycle maps to:
+- **Vegetative stage** (18/6 light): FPJ from fast-growing plants, light FAA if N-deficient
+- **Changeover** (flip to 12/12, weeks 1-2 of flower): WS-CaPo, sour FFJ, reduce all N inputs
+- **Reproductive** (weeks 3-8+ of flower): OHN for IPM, WS-Ca for calyx development, FFJ for resin production
+- **Late flower/ripen** (final 2 weeks): OHN + WS-Ca + Seawater for trichome maturation
+
+Note: Living soil already provides baseline nutrition — use KNF inputs as supplements, not primary feeding.
+
+## See Also
+
+- [[knf-preparations]] — complete input guide with growth stage schedules
+- [[fermented-plant-extract-fpe]] — FPJ/FFJ recipes for each stage
+- [[fish-amino-acid-faa]] — nitrogen input for vegetative stage
+- [[oriental-herbal-nutrient-ohn]] — immune support across all stages
+- [[water-soluble-calcium-wca]] — WS-Ca for changeover and reproductive stages
+- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for the critical changeover period
+- [[brown-rice-vinegar-brv]] — BRV sour nutrient for changeover
+- [[indigenous-microorganisms-imo]] — IMO for soil building across all stages
+- [[cannabis-living-soil-guide]] — cannabis-specific application
+
+## Related
+
+- [[knf-input-application-timing]]
+
+- [[complete-knf-input-reference]] — complete input reference

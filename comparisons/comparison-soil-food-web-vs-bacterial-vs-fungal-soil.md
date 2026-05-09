@@ -20,34 +20,6 @@ both concepts is essential for managing soil biology intentionally, whether you 
 broad healthy ecosystem or targeting specific crop types.
 
 ## Soil Food Web
-[[soil-food-web]]
-
-The soil food web framework, popularized by Dr. Elaine Ingham, describes soil as a living system
-organized into trophic levels. At the base are bacteria and fungi, which decompose organic matter
-and make nutrients available. Above them are protozoa and nematode grazers that consume bacteria
-and fungi, releasing plant-available nitrogen through their waste. Higher levels include
-arthropods, earthworms, and larger predators that regulate populations and continue cycling
-nutrients through the system.
-
-This approach emphasizes the interdependence of all soil organisms. A healthy food web means that
-nutrient cycling, disease suppression, and soil structure are all functioning without external
-inputs. Compost tea, actively aerated compost, and minimal soil disturbance are key practices
-promoted within this framework. The goal is to build and maintain a complete biological community
-rather than focusing on any single group of organisms in isolation.
-
-Practitioners of the soil food web approach often use biological assessments such as microscope
-analysis to measure the populations of bacteria, fungi, protozoa, and nematodes in a soil sample.
-These assessments guide management decisions about compost applications, mulching, cover crops,
-and tillage. The framework is particularly influential in regenerative agriculture and no-till
-systems where maintaining living soil is a primary objective and long-term strategy.
-
-The soil food web also highlights the role of microbial metabolites in soil aggregation. Glomalin
-produced by mycorrhizal fungi and bacterial exopolysaccharides act as biological glues that bind
-soil particles into stable aggregates. This aggregation improves water infiltration, root
-penetration, and resistance to erosion. When the full food web is present and functional, these
-processes occur naturally, reducing the need for mechanical aeration or structural amendments.
-
-## Bacterial vs Fungal Soil
 [[bacterial-vs-fungal-soil]]
 
 The bacterial vs fungal soil concept focuses specifically on the relative abundance of bacteria and
@@ -131,8 +103,6 @@ the simplicity of the ratio framework and the comprehensiveness of the full ecol
 ## See Also
 
 - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
-- [[soil-food-web]]
 - [[bacterial-vs-fungal-soil]]
-- [[mycorrhizal-fungi]]
 - [[composting-organic-garden]]
 - [[comparison-no-till-vs-conventional-tillage]]

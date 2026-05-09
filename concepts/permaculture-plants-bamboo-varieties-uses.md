@@ -1,5 +1,5 @@
 ---
-title: Permaculture Bamboo Varieties and Uses
+title: Permaculture Plants Bamboo Varieties Uses
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -107,11 +107,9 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 - **Multi-function hedges**: Bamboo hedges around orchards provide windbreaks, building material, edible shoots, and microclimate modification.
 - **Frost selection**: For temperate areas, P. nigra henonsis and P. aurea offer the best cold tolerance.
 - **Livestock integration**: Sasa palmata can be controlled by livestock grazing, providing fodder while preventing spread.
-- **[[water-management]]**: Bamboo is excellent for stabilising stream banks and controlling erosion.
-- **Rapid establishment**: Running bamboos establish screens quickly -- useful where immediate privacy or wind protection is needed.
+- **[[permaculture-plants-ground-covers-and-accumulators]] - bamboo as ground cover and soil stabiliser
+- [[permaculture-plants-fruit-trees-selection]] - bamboo as orchard windbreak
 
 ## See Also
 
-- [[permaculture-plants-ground-covers-and-accumulators]] - bamboo as ground cover and soil stabiliser
-- [[permaculture-plants-climbers-and-vines]] - other structural plants
-- [[permaculture-plants-fruit-trees-selection]] - bamboo as orchard windbreak
+- [[permaculture-plants-food-forest-ground-covers-bamboos]]

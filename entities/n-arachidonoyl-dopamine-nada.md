@@ -88,8 +88,6 @@ modulation of multiple receptor systems beyond just CB1 and CB2,
 including the TRPV1 pathway.
 
 ## See Also
-- [[anandamide-aea]]
-- [[2-arachidonoylglycerol-2-ag]]
-- [[noladin-ether]]
+- [[two-ag]]
 - [[virodhamine]]
 - [[tetrahydrocannabinol-thc]]

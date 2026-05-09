@@ -117,8 +117,6 @@ agricultural pathogen and a mushroom contaminant makes it a particularly challen
 organism to manage in integrated farming environments.
 
 ## See Also
-- [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
 - [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]
-- [[lentinus-edodes-entity-the-mushroom-cultivator]]
 - [[sphaerobolus-stellatus]]
 - [[rhizopogon-vinicolor]]

@@ -14,11 +14,7 @@ sources:
 type: concept
 ---
 
-# Low [[island-permaculture-design]]
-
-## Island Classification
-
-The [[permaculture-design]] Course classifies islands into two fundamental
+# Low [[permaculture-design]] Course classifies islands into two fundamental
 types with totally different origins and design challenges:
 
 - **Low islands** are residual islands composed of coral and sand with
@@ -143,8 +139,10 @@ use with respect for water storages, and the need for careful nutrient
 management since all phosphates on Earth derive from seabird
 accumulations. The entire system depends on the thin fresh water lens
 surviving between ocean salt below and evaporation above.
+## See Also
+
+- [[mollison-pdc-solar-greenhouse-design]]
 
 ## See Also
 
-- [[mollison-pdc-high-island-design]]
-- [[mollison-pdc-solar-greenhouse-design]]
+- [[mollison-permaculture-low-islands]]

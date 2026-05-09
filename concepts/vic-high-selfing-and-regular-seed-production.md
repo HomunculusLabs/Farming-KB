@@ -121,8 +121,6 @@ This approach effectively converts the half-sib problem into something closer to
 - Progeny testing is the recommended method for evaluating male genetic contributions when direct phenotyping is impossible.
 - Inbreeding strategies can be combined -- selfing or backcrossing can be followed by generational inbreeding for a complete programme.
 - The breeder's choice of strategy should be guided by whether the starting individual is heterozygous or homozygous for the target traits.
-- [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[cannabis-controlled-pollination-seed-production]]
-- [[what-natural-farming-method-should-i-use]]
 - [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-phenotype-and-genotype-guide]]

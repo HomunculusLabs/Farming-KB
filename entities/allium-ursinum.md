@@ -108,15 +108,9 @@ Propagation is primarily by bulb division in autumn or seed sowing in late summe
 
 ## See Also
 
-- [[allium-sativum-entity]]
 - [[borago-officinalis]]
-- [[urtica-dioica]]
 - [[taraxacum-officinale]]
-- [[plantago-major]]
 - [[glycyrrhiza-glabra]]
-- [[hypericum-perforatum]]
 - [[valeriana-officinalis]]
-- [[melissa-officinalis]]
 - [[echinacea-purpurea]]
-- [[sambucus-nigra]]
 - [[tropaeolum-majus]]

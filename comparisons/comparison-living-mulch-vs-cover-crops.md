@@ -21,35 +21,6 @@ then terminated and incorporated into the soil as green manure before the next c
 
 ## Living Mulch
 
-[[white-clover-living-mulch]]
-
-Living mulch is a permanent or semi-permanent ground cover that coexists with the primary crop for the
-entire season or across multiple growing seasons. White clover (Trifolium repens) is the most widely used
-living mulch species due to its low growth habit, reliable nitrogen fixation capacity (typically 40-200
-pounds of nitrogen per acre per year), broad compatibility with many crop types, and ability to recover
-from traffic, mowing, and partial shading. Other common living mulch species include creeping red fescue,
-perennial ryegrass, subterranean clover, and Dutch white clover. The living mulch typically occupies the
-inter-row spaces or, in some intensive systems, grows directly beneath the crop canopy.
-
-The primary benefits of living mulch are continuous soil protection from erosion, wind, and temperature
-extremes; ongoing biological nitrogen fixation throughout the growing season; persistent weed suppression
-through competition for light, water, and soil nutrients; and improved soil structure from continuous
-living root growth. Living mulch also provides year-round habitat for beneficial insects including ground
-beetles, predatory mites, ladybugs, and parasitic wasps, which contribute significantly to biological
-pest control. In orchard and vineyard systems, living mulch between tree rows can reduce mowing costs,
-improve soil health, and increase biodiversity compared to bare ground or herbicide-strip management.
-
-The major challenge with living mulch is competition with the main crop for water, nutrients, and light.
-Even low-growing species can significantly reduce cash crop yields if not carefully managed throughout
-the season. Common strategies to reduce competition include mowing the living mulch during early crop
-establishment to set it back, using suppression treatments such as partial herbicide application or flame
-weeding in the crop row only, delaying living mulch planting until the cash crop is well-established, and
-selecting living mulch species with complementary growth patterns and phenology. The management intensity
-required makes living mulch most suitable for experienced growers willing to actively monitor and adjust
-the system throughout the season.
-
-## Cover Crops
-
 [[solomon-cover-crops-green-manure-guide]]
 
 Cover crops are grown during periods when the soil would otherwise be bare and exposed, typically between
@@ -135,14 +106,9 @@ eliminating the bare soil gap between cash crop harvest and cover crop establish
 
 ## See Also
 
-- [[comparison-no-till-vs-cover-crops]]
-
 - [[comparison-mulch-vs-cover-crops]]
 
- [[white-clover-living-mulch]]
  [[solomon-cover-crops-green-manure-guide]]
- [[solomon-crop-rotation-and-garden-planning]]
  [[teaming-with-microbes-no-till-gardening-soil-health]]
- [[nitrogen-fixing-trees]]
-- [[comparison-perennial-vegetables-vs-cover-crops]]
+ [[comparison-perennial-vegetables-vs-cover-crops]]
 - [[comparison-mulch-vs-living-mulch]]

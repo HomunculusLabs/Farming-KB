@@ -1,7 +1,7 @@
 ---
 title: Fungal Conservation Challenges
 created: 2026-04-28
-tags: [mycology, conservation, ecology, policy]
+tags: [[mycology, conservation, ecology, policy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -84,10 +84,6 @@ ecosystem management frameworks rather than treating fungi as an afterthought.
 
 ## See Also
 
-- [[fungal-species-rarity-assessment-conservation-challenges]]
-
 - [[fungal-biodiversity-estimates]]
-- [[fungal-habitats-and-niches]]
 - [[cryptic-fungal-species]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[environmental-dna-metabarcoding-fungi]]

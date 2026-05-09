@@ -117,8 +117,6 @@ Must use soft water (test with JWA).
 
 ## See Also
 
-- [[jadam-color-enhancer]]
-
 - [[jadam-wetting-agent-jwa]] — always combine JHS with JWA
 - [[jadam-sulfur-js]] — add JS to JHS formulations for disease + pest control
 - [[jadam-natural-pesticide-jnp]] — complete pesticide programs

@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) are the principal psychoactive compounds found in "magic mushrooms." They are [[tryptamine-family-overview]] alkaloids closely related to [[5-meo-dmt-compound-profile]] and serotonin. Isolated by Albert Hofmann in 1958 from Psilocybe mexicana, psilocybin acts as a prodrug: it is converted to psilocin in the body, which then acts primarily as a 5-HT2A receptor agonist.
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) are the principal psychoactive compounds found in "magic mushrooms." They are [[5-meo-dmt-compound-profile]] and serotonin. Isolated by Albert Hofmann in 1958 from Psilocybe mexicana, psilocybin acts as a prodrug: it is converted to psilocin in the body, which then acts primarily as a 5-HT2A receptor agonist.
 
 ## Chemistry
 
@@ -38,64 +38,69 @@ Mushrooms also contain baeocystin (4-phosphoryloxy-N-methyltryptamine) and norba
 
 ## Pharmacology
 
-- **Primary mechanism:** Psilocin acts as a partial agonist at 5-HT2A serotonin receptors (the same primary target as [[lsd-compound-profile]] and [[5-meo-dmt-compound-profile]])
+- **Primary mechanism:** Psilocin acts as a partial agonist at 5-HT2A serotonin receptors (the same primary target as [[5-meo-dmt-compound-profile]])
 - **Prodrug relationship:** Psilocybin is dephosphorylated by alkaline phosphatase enzymes in the body to produce psilocin, which crosses the blood-brain barrier
-- **Oral bioavailability:** Good -- unlike [[5-meo-dmt-compound-profile]], psilocybin is orally active without an MAOI because the phosphate ester protects it from first-pass MAO metabolism
-- **Half-life:** Approximately 2-3 hours for psilocin
+- **Oral bioavailability:** Good -- unlike [[psilocybin]]
 
-## Potency and Variation
-
-Potency varies significantly between species, within species, and depending on growing conditions:
-
-- According to the field guide, each dry gram of mushroom contains approximately 2 mg of combined psilocybin/psilocin alkaloids
-- Potency is affected by: species, strain, growing conditions, temperature during fruiting, age at harvest, and storage method
-- Hot weather produces lower potency; cool, moist conditions produce higher potency
-- Bigwood and Beug documented significant variation in psilocybin/psilocin levels between specimens
-
-## Dosage
-
-| Level | Dose (dried mushrooms) | Approx. psilocybin content |
-|-------|------------------------|---------------------------|
-| Threshold | 0.25-0.5 g | ~0.5-1 mg |
-| Light | 0.5-1.5 g | ~1-3 mg |
-| Moderate | 1.5-3.5 g | ~3-7 mg |
-| Strong | 3.5-5 g | ~7-10 mg |
-| Intense | 5+ g | 10+ mg |
-
-The field guide notes that indigenous Mexicans regularly consume 30-40 specimens of Psilocybe cubensis per ceremony. Increasing dosage intensifies the experience rather than prolonging it.
-
-## Duration and Timing
-
-- **Onset:** 20-60 minutes after ingestion
-- **Come-up:** 1-2 hours
-- **Peak:** 2-4 hours
-- **Plateau:** 2-5 hours
-- **Comedown:** 4-6 hours
-- **Total duration:** 4-8 hours
-- **After-effects:** Up to 12 hours
-
-## Key Effects
-
-- Visual hallucinations with enhanced colors and patterns
-- Altered perception of time and space
-- Enhanced emotional sensitivity and introspection
-- Ego dissolution at higher doses
-- Mystical-type experiences
-- Enhanced appreciation of music and art
-- Nausea/mild gastrointestinal discomfort (common, related to mushroom alkaloids other than psilocybin/psilocin)
-- Pupil dilation
-
-## Identification Marker: Bluing Reaction
-
-Psilocybin mushrooms can be identified by the bluing reaction -- an enzyme associated with psilocybin oxidizes upon damage to the flesh, producing a blue color (similar to blue ink) over 20-120 minutes. This is caused by the oxidation of psilocin and related compounds.
-
-## See Also
-
-- [[psilocybin-compound]]
-
-- [[psilocybin-mushroom-identification]] -- Species identification and field guide
 - [[psilocybin-mushroom-distribution-worldwide]] -- Global distribution by region
-- [[tryptamine-family-overview]] -- Tryptamine chemistry overview
 - [[psychedelic-dose-response]] -- Dose-response relationships across psychedelics
-- [[psychedelic-experience-stages]] -- Stages of the psychedelic experience
 - [[gartz-magic-mushrooms-global-distribution-patterns]]
+## Practical Considerations
+
+When working with Psilocybin Compound Profile, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

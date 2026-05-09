@@ -71,16 +71,8 @@ Agar petri dish -> grain master (2-3 weeks at 75 F) -> 10 gallon jars of rye gra
 Complex polysaccharides stimulate helper T-cell production. Ganoderic acids have anti-coagulating effects and lower cholesterol. Anti-inflammatory activity comparable to hydrocortisone (Stavinoha, 1990). Low molecular weight polysaccharide fraction prolonged survival of HIV-exposed lymphocytes (Kim et al., 1994). Modulates blood pressure, lipid levels, and blood glucose.
 
 ## Related Topics
-- [[mushroom-substrates]] for sawdust/wood chip formulations
 - [[medicinal-mushroom-extraction-preparation]] for processing methods
-- [[oyster-mushroom-spawn-production]] for liquid inoculation techniques
-- mushroom sterilization methods for autoclave protocols
-
-## Market and Processing Notes
-
-Reishi is one of the most commercially valuable medicinal mushrooms, with global demand driven by traditional Asian medicine and an expanding Western supplements market. The woody texture of mature conks makes them unsuitable for culinary use -- reishi is exclusively consumed as a tea, tincture, or powdered extract.
-
-Dual extraction methods (water for polysaccharides, alcohol for triterpenes) are considered essential to capture the full range of bioactive compounds, as described in [[medicinal-mushroom-extraction-preparation]]. Antler-stage reishi, harvested before cap formation, commands premium prices in some markets due to higher concentrations of certain triterpenes. Spent substrate from reishi cultivation can be composted and used as a soil amendment, as the residual wood chip and sawdust material is partially decomposed and enriched with fungal biomass. See [[reishi-cultivation-guide]] for additional cultivation details and [[medicinal-mushroom-guide-reishi]] for comprehensive medicinal information.
+- [[medicinal-mushroom-extraction-preparation]]. Antler-stage reishi, harvested before cap formation, commands premium prices in some markets due to higher concentrations of certain triterpenes. Spent substrate from reishi cultivation can be composted and used as a soil amendment, as the residual wood chip and sawdust material is partially decomposed and enriched with fungal biomass. See [[medicinal-mushroom-guide-reishi]] for comprehensive medicinal information.
 
 ## Strain Selection Considerations
 
@@ -110,6 +102,5 @@ For commercial reishi operations, post-harvest processing significantly affects 
 - **Slicing**: For tea production, conks are sliced 2-5 mm thick before drying to reduce drying time and increase surface area for extraction
 - **Powdering**: Dried conks or antlers are ground to fine powder (80-200 mesh) for encapsulation. Dual extraction powders are produced by first water-extracting the material, then alcohol-extracting the residue, and spray-drying or freeze-drying the combined liquid
 - **Quality testing**: Reputable producers test for beta-glucan content (should exceed 10% dry weight), heavy metals, pesticide residues, and microbial contamination. Ganoderic acid A content is used as a marker for triterpene potency
-- [[oyster-mushroom-species-fruiting-parameters]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[mushroom-sawdust-bran-spawn-preparation]]

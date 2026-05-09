@@ -54,16 +54,7 @@ The extraordinary esteem in which the plant is held across its vast
 geographic range -- from Turkey to India -- suggests that it may have
 once served as a major religious hallucinogen in ancient times, a
 role that may be reflected in the Zoroastrian and Vedic traditions.
-See [[syrian-rue-entheogen]] for detailed ethnobotanical traditions.
-
-## Chemistry
-
-The plant possesses undoubted hallucinogenic principles:
-beta-carboline alkaloids. The principal psychoactive constituents
-found in the seeds include:
-
-- **Harmine** (C13H12N2O): The major alkaloid, also known as banisteri
-  ne or telepathine when isolated from [[banisteriopsis-caapi]]. A pot
+See [[banisteriopsis-caapi]]. A pot
   ent MAO-A inhibitor with mild hallucinogenic properties.
 - **Harmaline** (C13H14N2O): A dihydro derivative of harmine, also psy
   choactive and a strong MAO inhibitor. Causes characteristic visual p
@@ -76,17 +67,7 @@ found in the seeds include:
 
 These beta-carboline alkaloids are found in at least eight families
 of higher plants, representing a widespread distribution of this
-chemical class across the plant kingdom. See [[harmala-alkaloids]]
-for detailed chemical coverage.
-
-## Pharmacological Activity
-
-The beta-carboline alkaloids of Peganum harmala have several
-important pharmacological actions:
-
-- **MAO inhibition**: Harmine and harmaline are potent inhibitors of m
-  onoamine oxidase (MAO), particularly the MAO-A isoform. This propert
-  y is central to their role in [[ayahuasca-preparation]] and related 
+chemical class across the plant kingdom. See [[ayahuasca-preparation]] and related 
   brews.
 - **Psychoactivity**: At sufficient doses, harmine and harmaline produ
   ce mild hallucinogenic effects characterized by visual changes (geom

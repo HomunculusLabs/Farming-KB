@@ -14,7 +14,7 @@ The term was introduced by K. Barry Sharpless, Hartmuth Kolb, and M. G. Finn to 
 A click reaction is expected to give high yields, tolerate water and oxygen when possible, form benign byproducts, and require little chromatographic purification.
 The idea is not one reaction but a screening criterion: choose transformations that make useful bonds with minimal fuss.
 This criterion became especially powerful in chemical biology because biomolecules contain many fragile functional groups that ordinary organic reactions would damage.
-Click chemistry overlaps with [[phase-transfer-catalysis]], [[photoredox-catalysis]], and other enabling methods, but its center of gravity is reliability and selectivity.
+Click chemistry overlaps with [[photoredox-catalysis]], and other enabling methods, but its center of gravity is reliability and selectivity.
 
 ## Defining Features
 The canonical click reaction is modular: two independently prepared partners carry compatible handles that react with each other in a predictable way.
@@ -126,11 +126,7 @@ The overlap between the two fields is strongest when reactions are fast, selecti
 This overlap has made click chemistry central to modern probe design and live-cell molecular imaging.
 
 ## Related Concepts
-[[photoredox-catalysis]] can generate reactive intermediates under mild conditions, but it usually depends on radical pathways rather than mutually selective handles.
-
 [[phase-transfer-catalysis]] helps bring ions and organic substrates together across phases, while click chemistry usually emphasizes functional-group orthogonality.
-
-[[nucleophilic-substitution-sn1-sn2-reactions]] includes useful C-heteroatom bond formation, but many substitution reactions lack the selectivity expected of click systems.
 
 [[bioisosterism-in-drug-design]] is relevant when the triazole or another clicked linker is used as a pharmacophoric replacement rather than only as a tag.
 

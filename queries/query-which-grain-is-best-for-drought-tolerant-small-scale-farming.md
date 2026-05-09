@@ -25,19 +25,7 @@ For most small-scale farmers in water-limited regions, **pearl millet** is the s
 
 ## Grain-by-Grain Profiles
 
-### Pearl Millet (*[[pennisetum-glaucum]]*)
-
-The most drought-tolerant cereal on Earth. Pearl millet reliably produces grain where sorghum and maize fail.
-
-- **Minimum rainfall:** 250–300 mm (10–12 in) — can produce on as little as 200 mm
-- **Heat tolerance:** Excellent; thrives at 30–35 °C, tolerates 45 °C
-- **Days to maturity:** 75–100 days (early varieties)
-- **Small-scale yield:** 400–1,200 kg/ha; up to 2,000 kg/ha with good management
-- **Nutritional highlights:** High in iron (6–12 mg/100 g), zinc, and B vitamins; ~11% protein
-- **Processing difficulty:** Moderate — hulling needed but manageable with small hammer mills; see grain processing equipment
-- **Best fit:** Hot semi-arid regions with sandy soils; the default choice where rainfall is below 400 mm
-
-### Sorghum (*[[sorghum-bicolor]]*)
+### Pearl Millet (*[[sorghum-bicolor]]*)
 
 The second-most drought-tolerant major cereal. Extremely versatile — used for grain, syrup, fodder, and thatch.
 
@@ -47,9 +35,7 @@ The second-most drought-tolerant major cereal. Extremely versatile — used for 
 - **Small-scale yield:** 600–1,800 kg/ha
 - **Nutritional highlights:** ~10–12% protein; high antioxidants; gluten-free; slow-digesting starch
 - **Processing difficulty:** Low to moderate — easy to thresh; requires dehulling for food-grade flour
-- **Best fit:** Semi-arid subtropics; dual-purpose (grain + fodder); see also [[permaculture-sorghum-guide]]
-
-### Finger Millet (*[[eleusine-coracana]]*)
+- **Best fit:** Semi-arid subtropics; dual-purpose (grain + fodder); see also [[eleusine-coracana]]*)
 
 A staple in East Africa and South Asia with exceptional nutritional density and reliable performance on marginal soils.
 
@@ -61,31 +47,7 @@ A staple in East Africa and South Asia with exceptional nutritional density and 
 - **Processing difficulty:** Moderate — tiny grains require specialized dehulling or pounding; see finger millet processing
 - **Best fit:** Subtropical highlands; farmers prioritizing nutritional output over sheer yield
 
-### Foxtail Millet (*[[setaria-italica]]*)
-
-One of the oldest cultivated grains. Extremely fast-maturing and well-suited to short rainy seasons.
-
-- **Minimum rainfall:** 300–400 mm
-- **Heat tolerance:** Good; prefers 20–30 °C
-- **Days to maturity:** 60–90 days — the fastest of all grains listed here
-- **Small-scale yield:** 400–1,000 kg/ha
-- **Nutritional highlights:** Low glycemic index; ~12% protein; rich in iron and dietary fiber
-- **Processing difficulty:** Easy — simple threshing and winnowing; hulls come off readily
-- **Best fit:** Short growing seasons; double-cropping systems; farmers needing a quick reliable grain
-
-### Amaranth (*Amaranthus spp.*)
-
-A pseudo-cereal with the highest protein quality of any grain crop. Grown for both grain and leafy greens.
-
-- **Minimum rainfall:** 300–400 mm; very efficient water use once established
-- **Heat tolerance:** Excellent; grown from sea level to 3,000 m
-- **Days to maturity:** 90–110 days (grain harvest)
-- **Small-scale yield:** 500–1,500 kg/ha grain; leaves are a bonus crop
-- **Nutritional highlights:** 14–16% protein with complete amino acid profile (high lysine); rich in iron and magnesium
-- **Processing difficulty:** High — tiny seeds require careful winnowing and specialized equipment; see amaranth processing guide
-- **Best fit:** Farmers seeking maximum nutritional value per hectare; willing to invest in processing
-
-### Quinoa (*[[chenopodium-quinoa]]*)
+### Foxtail Millet (*[[chenopodium-quinoa]]*)
 
 Famous for nutrition but more demanding than often advertised. Best suited to cool dry conditions, not true desert.
 
@@ -137,13 +99,7 @@ Traditional wheat and barley landraces (e.g., heritage wheat varieties, barley f
 ### Short Rainy Season / Double Cropping
 ## Related Pages
 
-- semi arid grain systems · [[permaculture-sorghum-guide]] · grain processing equipment
-- finger millet processing · heritage wheat varieties · barley for smallholders
-- [[grain-harvesting-and-storage]] · small scale milling options · seed saving for grains
+- semi arid grain systems · [[grain-harvesting-and-storage]] · small scale milling options · seed saving for grains
 - amaranth processing guide · water wise farming overview
-
-- [[permaculture-sorghum-guide]]
-
-## See Also
 
 - [[grain-and-staple-crops]]

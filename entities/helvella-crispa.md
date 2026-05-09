@@ -111,21 +111,10 @@ and serves as a food source for various invertebrates and small mammals.
 
 ## Similar Species
 
-- *Helvella lacunosa* — darker, gray to brown cap, more deeply chambered stipe; very common.
-- *Helvella elastica* — tan to brown cap, less prominently fluted stipe, often on bare soil.
-- *Helvella acetabulum* — cup-shaped rather than saddle-shaped, deeply ribbed stipe base.
-- *Gyromitra esculenta* — more brain-like convoluted cap, contains dangerous levels of gyromitrin;
-  critical to distinguish.
-
-## See Also
-
-- [[helvella-acetabulum]]
-
-- [[sparassis-crispa]]
+- *[[helvella-acetabulum]]
 
 - [[gyromitra-esculenta]]
-- [[morchella-esculenta]]
-- verpa bohemica
+- [[verpa-bohemica]]
 - disciotis venosa
 - helvella acetabulum
 - helvella elastica

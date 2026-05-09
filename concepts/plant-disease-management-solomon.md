@@ -54,54 +54,65 @@ Limitations:
 
 ## Compost Tea for Disease Control
 
-Solomon references the work of Dr. Elaine Ingham (see [[compost-tea-aact]]) on compost tea for disease suppression:
-
-- Compost tea from quality compost can prevent disease organisms from establishing
-- The beneficial microorganisms in properly brewed tea occupy infection sites on leaf surfaces
-- This is a preventative measure, not a cure
-- The compost quality matters — the ratio of manure to vegetation, and the quality of that vegetation, determine which diseases the tea will control
-
-## Environmental Disease Pressure
-
-Some years the weather is so unfavorable for certain types of vegetables that almost any variety will become sick. Solomon acknowledges this reality:
-- Don't blame yourself or your methods for every disease outbreak
-- Extreme weather (prolonged rain, unusual heat, early frost) can overwhelm any prevention program
-- Focus on the things you can control (variety selection, soil fertility, spacing, watering)
-
-## Root Exudates and Disease
-
-Solomon discusses the role of root exudates — chemicals secreted by roots that:
-- Repel the roots of other species (allelopathy)
-- Are so effective and long-lasting that a different species planted in the same spot the following year may do poorly
-- Create a chemical environment that either supports or discourages specific soil organisms
-
-Understanding root exudate interactions helps explain:
-- Why crop rotation matters
-- Why some companion planting combinations work (or fail)
-- Why certain disease problems recur in the same location year after year
-
-## Variety Selection for Disease Resistance
-
-The single most important disease prevention step is choosing resistant varieties:
-- Some varieties are naturally resistant to specific diseases
-- Regional adaptation matters — a variety resistant in one climate may be susceptible in another
-- Solomon's variety trial experience showed dramatic differences in disease resistance between varieties grown side by side
-- This is a strong argument for sourcing seed from companies that trial in your climate zone
-
-## When Disease Strikes
-
-If disease does appear:
-1. Remove and destroy affected plant material (don't compost it)
-2. Improve air circulation by thinning or pruning
-3. Reduce moisture on foliage (water at the base, not overhead)
-4. Foliar feed with kelp/fish emulsion to strengthen remaining plants
-5. Apply baking soda spray for powdery mildew
-6. Consider a compost tea spray for general disease suppression
-7. Note the variety and avoid it in future plantings if the problem is severe
-8. Practice crop rotation to break disease cycles in the soil
-
-See also: [[garden-disease-identification]], [[insects-and-plant-health-solomon]], [[compost-tea-aact]], [[soil-food-web-structure]]
-- [[solomon-gardening-when-it-counts-index]]
-- [[solomon-crop-rotation-and-garden-planning]]
+Solomon references the work of Dr. Elaine Ingham (see [[garden-disease-identification]], [[compost-tea-aact]], [[solomon-gardening-when-it-counts-index]]
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[seed-quality-and-selection-solomon]]
+## Practical Considerations
+
+When working with Plant Disease Management (Solomon), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

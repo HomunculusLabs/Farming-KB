@@ -21,71 +21,9 @@ peruvianus, T. taquimbalensis, T. tersheckii, T. validus, and T.
 werdermannius. T. peruvianus is reported to be several times as
 potent by weight as other Trichocereus species.
 
-Mescaline belongs to the [[phenethylamine-duration-and-timing]] family, distinct from
-the indole family that includes [[lsd-compound-profile]],
-[[psilocybin-mushrooms-turner-guide]], harmaline, and
-turner-dmt|DMT. Many synthetic designer psychedelics such as
+Mescaline belongs to the [[lsd-compound-profile]],
 [[turner-ecstasy-mdma-heart-opening-psychedelic]]
-and [[turner-2cb-erotic-empathogen]] are related to
-mescaline's chemistry.
-
-In addition to mescaline, these cacti contain a large variety of
-related psychoactive compounds, producing experiences
-qualitatively different from pure mescaline. Peyote produces
-quite distinct effects from Trichocereus cacti.
-
-## Historical Background
-
-Peyote and San Pedro are New World psychedelics. Peyote was used
-throughout Mexico to as far north as Texas; San Pedro in the
-Andes mountain region of South America. The earliest known
-depiction of San Pedro cactus appears on a stone tablet from
-Peru dating to 1300 B.C. Peyote ritual objects date to 500 B.C.
-
-The Roman Catholic church attempted to abolish both but was only
-partially successful. The  Native American Church was formed in 1918 to preserve Peyote
-rights. South American shamans continued San Pedro ceremonies
-while incorporating Christian symbols, adopting a saint's name
-for the cactus.
-
-Mescaline was the first psychedelic compound extracted and
-isolated (1896) and the first synthesized (1919). In 1953,
-Aldous Huxley brought it to public attention through
-The Doors of Perception.
-
-## Sources and Availability
-
-Peyote is illegal in the U.S. except for Native American Church
-members and is seldom seen underground. A typical 2-inch button
-may require 20 years to grow, and over-harvesting has created
-shortages.
-
-Synthetic mescaline is extremely rare and frequently
-misrepresented. It requires approximately 1/2 gram of mescaline
-sulfate for a full trip. The same material would yield 4 doses of
-ecstasy, 20 of 2C-B, 50 of psilocin, or 2500 of LSD, making it
-economically impractical. True synthetic mescaline costs $100-200
-per gram ($50-100 per dose).
-
-The most available source is Trichocereus cacti from nurseries.
-Legal for ornamental purposes, they are illegal to ingest or
-extract.
-
-## Dosage and Preparation
-
-### Pure Mescaline
-
-Approximately 500 mg of mescaline sulfate (or 350 mg of
-mescaline hydrochloride) for a full experience. Take in two
-half-doses about 30 minutes apart to minimize stomach disturbance.
-
-### Peyote and San Pedro
-
-Peyote potency varies widely: some get powerful effects from 3-4
-buttons; more commonly 12-15 are consumed. For San Pedro, a
-piece approximately 10 inches long and 3 inches in diameter
-provides full effects. Cactus is most potent when harvested
-during hotter months. See [[turner-mescaline-cactus-preparation]] for detailed preparation.
+and [[turner-mescaline-cactus-preparation]] for detailed preparation.
 
 ## The Mescaline Experience
 
@@ -136,8 +74,6 @@ mescaline from other psychedelics.
 
 ## See Also
 
-- [[turner-mescaline-cactus-preparation]]
-- [[ethnomycology]]
 - [[mescalero-apache-peyote-use]]
 - Phenethylamine  Chemistry
 - Native American  Church

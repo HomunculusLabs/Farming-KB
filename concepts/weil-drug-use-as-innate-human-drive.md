@@ -127,8 +127,6 @@ Weil's argument that the desire to alter consciousness is innate provides the ph
 
 ## Related
 
-- [[weil-the-natural-mind-altered-states-normalcy]] — The overarching thesis
 - [[weil-intoxication-and-consciousness-theory]] — Broader consciousness theory
-- [[weil-cultural-attitudes-toward-altered-states]] — How cultures channel or suppress the drive
 - [[weil-the-mind-drug-relationship-paradigm]] — The paradigm Weil challenges
 - [[mandrake-plant]] — Author biography

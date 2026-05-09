@@ -93,8 +93,6 @@ L. plantarum has been extensively studied for its probiotic characteristics:
 
 ## See Also
 
-- [[lactic-acid-bacteria]]
 - [[natfarm-lacto-fermentation-preservation]]
-- [[faires-food-fermentation-methods]]
 - [[cho-fermented-plant-juice-preparation]]
 - [[faires-pickling-and-advanced-fermentation]]

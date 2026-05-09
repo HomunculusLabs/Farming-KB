@@ -24,19 +24,7 @@ sources:
 
 Trametes trogii is a white-rot polypore fungus in the family Polyporaceae, notable for its potent ligninolytic enzyme system and capacity for bioremediation of recalcitrant pollutants.
 
-It colonizes dead hardwood and produces a leathery, zonate basidiocarp superficially resembling [[trametes-versicolor]] but distinguished by its larger size, darker pore surface, and stronger lignin-degrading activity.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Polyporales
-- **Family:** Polyporaceae
-- **Genus:** Trametes
-- **Species:** T. trogii
-- **Authority:** (Berk.) Fr.
-- **Synonyms:** Polyporus trogii Berk., Coriolopsis trogii (Berk.) Murrill
+It colonizes dead hardwood and produces a leathery, zonate basidiocarp superficially resembling [[coriolopsis-trogii]] (Berk.) Murrill
 
 The basidiocarp is sessile to effused-reflexed, 5–20 cm wide and 1–3 cm thick.
 
@@ -100,26 +88,6 @@ Yields of crude laccase extract range from 5,000–40,000 U/L depending on strai
 
 In forest ecosystems, T. trogii functions as a primary decomposer of coarse woody debris, facilitating nutrient cycling and carbon mineralization.
 
-Its aggressive lignin degradation creates conditions favorable for subsequent colonization by secondary decomposers and soft-rot fungi.
-
-The species contributes to deadwood habitat complexity, providing micro-niches for invertebrates and microorganisms within decomposing logs.
-
-In agroforestry systems, T. trogii can accelerate the decomposition of pruned branch wood, returning nutrients to soil more rapidly than passive breakdown.
-
-## Comparison with Related Trametes Species
-
-| Feature | T. trogii | T. versicolor | T. hirsuta |
-|---------|-----------|---------------|------------|
-| Pore color | White→Grey-brown | White→Brown | White→Fawn |
-| Spore size (µm) | 5–7 × 1.5–2.5 | 5–7.5 × 1.5–2 | 5–6 × 1.5–2 |
-| Laccase activity | Very high | High | Moderate |
-| Basidiocarp thickness | 1–3 cm | 0.5–1.5 cm | 0.5–2 cm |
-| Typical substrate | Hardwood | Broad spectrum | Hardwood |
-| Habitat preference | Warm temperate | Cosmopolitan | Temperate |
-
-## See Also
-
-- [[trametes-versicolor]] — Closest relative and most widely studied Trametes species for medicinal applications
-- [[trametes-hirsuta]] — Related white-rot polypore with moderate ligninolytic activity
+Its aggressive [[trametes-versicolor-entity]] — Closest relative and most widely studied Trametes species for medicinal applications
 - [[phellinus-igniarius-entity]] — Fellow wood-decay fungus of hardwood ecosystems
 - [[pleurotus-ostreatus]] — Cultivated white-rot fungus with complementary bioremediation capacities

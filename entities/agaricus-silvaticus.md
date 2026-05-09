@@ -106,15 +106,9 @@ The species may also form ectomycorrhizal associations with coniferous tree root
 
 ## See Also
 
-- [[agaricus-campestris]]
 - [[agaricus-xanthodermus]]
-- [[agaricus-bisporus]]
 - [[agaricus-subrufescens]]
-- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
-- [[suillus-luteus]]
 - [[cantharellus-cibarius-entity]]
-- [[amanita-muscaria]]
 - [[tricholoma-matsutake]]
-- [[russula-cyanoxantha]]
 - [[lactarius-indigo]]

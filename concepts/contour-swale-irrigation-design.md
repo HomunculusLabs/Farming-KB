@@ -138,11 +138,7 @@ in summer also removes excess water in winter.
 
 ## Related
 
-- [[comparison-swale-design-vs-contour-swale-irrigation-design]] Concepts
-
 - [[faires-swales-and-water-conservation]]
-- [[keyline-design-water-management]]
 - [[mollison-designers-rainwater-harvesting-swale-systems]]
-- [[mollison-designers-earthworks-for-erosion-control]]
 - [[backyard-water-harvesting]]
 - [[mollison-designers-dam-construction-and-water-storage]]

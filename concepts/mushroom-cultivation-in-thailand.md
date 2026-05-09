@@ -121,9 +121,6 @@ knowledge transfer and technology adoption.
 
 ## Related Concepts
 
-- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]
 - [[ganoderma-lucidum-cultivation]]
-- [[oyster-mushroom-bag-cultivation]]
 - [[mushroom-poverty-alleviation-developing-countries]]
-- [[oyster-mushroom-cultivation-economics]]
 - [[swaziland-mushroom-project-lessons]]

@@ -108,15 +108,9 @@ London Pound Cake has become a foundational parent for numerous crosses in the C
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[girl-scout-cookies]]
-- [[og-kush]]
 - [[wedding-cake-cannabis]]
-- [[kush-mints]]
 - [[animal-cookies]]
-- [[biscotti-cannabis]]
 - [[sour-diesel]]
-- [[super-lemon-haze]]
 - [[white-widow-entity]]
-- [[jack-herer]]
 - [[runtz-entity]]

@@ -104,14 +104,12 @@ weight to provide 0.83 g of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[tryptamine]] research varies by jurisdiction.
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
-
-- [[hot-2-entity-pihkal]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[pihkal-introduction-and-methodology]]
 
 - [[hot-17-entity-pihkal]]
 
 - PIHKAL (the source book)
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

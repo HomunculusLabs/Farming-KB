@@ -131,13 +131,8 @@ Measure by weight, not volume. A cup of dried calendula flowers weighs far less 
 
 ## Related
 
-- [[query-how-to-make-sourdough-bread-at-home]]
-
 - [[query-how-to-make-sauerkraut-at-home]]
 
-- [[query-how-to-make-mead-at-home]] Topics
-
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for taking the next step into tinctures and finished salves
-- [[query-how-to-build-healthy-garden-soil]] for growing your own medicinal herbs
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] for understanding which herbs pull nutrients from soil
 - [[mushroom-cultivation-history]] for the broader context of fungi in medicine

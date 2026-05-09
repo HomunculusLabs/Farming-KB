@@ -102,11 +102,7 @@ Water is such a unique molecule that it can pass through all plant membranes. Be
 
 ## Related Topics
 
-- [[plant-cell-structure-and-organelles]] -- the cellular context
 - [[water-pathways-through-plants]] -- how plasmodesmata fit into water transport
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] -- the protein transporters
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]] -- signaling through plasmodesmata
-- [[plant-cell-membrane-transport-proteins]]
 - [[the-vacuole-and-tonoplast-in-plant-cell-regulation]]
-- [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
 - [[teaming-with-microbes-plant-control]]

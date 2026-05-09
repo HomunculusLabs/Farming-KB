@@ -40,63 +40,42 @@ Key parameters:
 
 Stamets recommends specific fungal companions for landscape settings:
 
-- **Garden giants** (Stropharia rugosoannulata): ideal for garden beds, pathways, and [[mycofiltration-of-water-stamets]]. Large, attractive mushrooms that attract insects and feed wildlife.
-- **Oyster mushrooms** (Pleurotus species): aggressive decomposers for log and stump inoculation. Good for [[mycoremediation-stamets-approach]].
+- **Garden giants** (Stropharia rugosoannulata): ideal for garden beds, pathways, and [[mycoremediation-stamets-approach]].
 - **Turkey tails** (Trametes versicolor): multibeneficial polypores that fight bacteria, prevent blights, and break down toxic chemicals like PCBs and dioxins.
 - **Woodlovers** (Hypholoma species): colonize wood chips in pathways and garden borders. Hypholoma capnoides is edible, while H. fasciculare is beautiful though poisonous.
-- **Reishi** (Ganoderma lucidum): for medicinal landscapes, reishi can be cultivated on stumps and buried logs. See [[medicinal-mushroom-guide-reishi]] for details on its immune-modulating properties. It produces striking conks that add visual interest while providing harvestable medicine.
-- **Shiitake** (Lentinula edodes): grown on hardwood logs (oak, alder, maple) placed in shaded garden areas. Logs can be inoculated in spring and leaned against fences or arranged in log stacks, producing crops for several years.
-- **Lion's mane** (Hericium erinaceus): both an edible and visually striking ornamental for shaded gardens. The cascading white spines make it a conversation piece; it fruits from hardwood logs or stumps in late summer to fall.
-
-## Creating Biodiversity Oases
-
-Each mushroom-seeking organism imports hitchhiking species from afar. Birds and mammals defecate seeds of plants eaten far away. Insects carry spores and lay eggs in mushroom tissue. As animals crisscross a mycologically designed landscape, the layering of ecological footprints creates interlacing biological pathways. Morel mushrooms, for instance, are pioneers for biodiversity, first steering animate vessels of genomic complexity into otherwise near-lifeless landscapes. Flies deposit larvae in morels, and as the larvae mature they attract birds and other maggot lovers. Birds and mammals coming to eat morels defecate seeds of plants eaten far from the area. With every mushroom encounter, each animal is dusted with spores, leaving an invisible trail of them as they wander on. A mycologically enriched garden thus becomes a hub for biological dispersal, importing genetic diversity from the surrounding landscape.
-
-## The Precautionary Principle in Gardens
-
-When introducing saprophytic mushrooms to garden landscapes, Stamets addresses concerns about unleashing fungal plagues. He notes that saprophytes do not "infect" living plants -- they degrade already dead tissue. Any person walking through a garden already transports far more pathogenic and saprophytic spores than an implanted saprophyte would introduce. The risk is minimal and the benefits are substantial.
-
-## Water Management
-
-Mycofiltration principles can be applied at the garden scale to manage runoff, filter pathogens from greywater, and reduce erosion. Installing myceliated wood chip beds at the bottom of slopes, around drainage swales, or near water features creates biological filtration zones that improve water quality while producing edible or medicinal mushrooms.
-
-## Seasonal Considerations and Timeline
-
-Climate and seasons make a huge difference in mushroom cultivation. Mushrooms seasonally grow fruiting bodies, so visiting the garden during the mushroom-forming season of a particular species is the best time to observe results and assess the health of mycelial communities. Success is a numbers game: you need a strategy that favors your chosen mushrooms and discourages competitors.
-
-Practical seasonal guidance:
-- **Early spring**: best time to inoculate outdoor beds and logs in most temperate climates. The mycelium has the full growing season to establish before winter.
-- **Fall**: a viable inoculation window where winter temperatures stay above freezing, giving a head start for the following spring.
-- **Summer**: monitor moisture levels; established beds may fruit. Avoid inoculating during peak heat.
-- **Winter**: mycelia go dormant but survive under snow cover. Overwintering is generally not a problem for established beds; the mycelium simply pauses growth and resumes in spring.
-- **Fruiting**: typically occurs when temperature and moisture triggers align for each species -- garden giants in late summer to fall, oysters in spring and fall, morels in spring.
-
-Establishing the largest possible mycelial mat before the fruiting season is the shortest path to fruiting mushrooms outdoors.
-
-## Integration with Permaculture Zones
-
-Mycological landscaping integrates naturally with [[permaculture-zones-and-sectors]]:
+- **Reishi** (Ganoderma lucidum): for medicinal landscapes, reishi can be cultivated on stumps and buried logs. See [[permaculture-zones-and-sectors]]:
 
 - **Zone 1** (immediate surroundings): medicinal mushrooms like reishi on stumps near the house; small oyster mushroom buckets for kitchen waste decomposition.
-- **Zone 2** (home garden): garden giant beds in pathways and between garden rows; [[outdoor-mushroom-bed]] installations for food production and soil building.
-- **Zone 3** (orchards): shiitake logs stacked among fruit trees; mycorrhizal inoculation of tree roots via [[soil-food-web-structure]] enhancement.
-- **Zone 4** (managed forest): wood chip trails inoculated with Hypholoma and Stropharia; [[mycoforestry-principles-stamets]] practices including stump inoculation for blight exclusion.
-- **Zone 5** (wilderness): minimal intervention; survey for native mycoflora and protect existing fungal communities as part of [[mycorestoration-ecology]].
+- **Zone 2** (home garden): garden giant beds in pathways and between garden rows; [[soil-food-web-structure]] enhancement.
+- **Zone 4** (managed forest): wood chip trails inoculated with Hypholoma and Stropharia; [[mycorestoration-ecology]].
 
 ## See Also
 
-- [[mushroom-trails-and-mycological-landscaping]]
-
 - [[mushroom-cultivation-for-gardeners]] -- cultivation techniques
-- [[mycorestoration-ecology]] -- broader framework
 - [[mushroom-substrates]] -- substrate materials
-- [[mycofiltration-of-water-stamets]] -- water management
 - [[soil-food-web-structure]] -- soil biology context
-- [[mycoforestry-principles-stamets]] -- forestry applications
 - [[outdoor-mushroom-bed]] -- outdoor bed techniques
-- [[medicinal-mushroom-guide-reishi]] -- reishi cultivation
 - [[permaculture-zones-and-sectors]] -- permaculture integration
 
 ## Related
 
 - [[fungal-chromogens-and-color-change]]
+## Practical Considerations
+
+Successful implementation of Mycological Landscaping and Gardening with Fungi requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

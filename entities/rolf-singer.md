@@ -39,28 +39,7 @@ With the rise of the Nazi regime in 1933, Singer—who was of Jewish descent—w
 
 ## Career in the United States: Harvard and USDA
 
-In 1935, Singer emigrated to the United States. He obtained a position at the Farlow Herbarium of Cryptogamic Botany at Harvard University (1935–1940), one of the world's premier mycological institutions. There he worked alongside leading American mycologists, conducted extensive fieldwork across North America, and began developing his comprehensive classification system for the Agaricales. He subsequently moved to the United States Department of Agriculture in Beltsville, Maryland (approximately 1940–1947), where he continued research on [[fungal-taxonomy]] and plant pathology, contributing to applied mycology alongside his systematic work.
-
-## Argentina: The Neotropical Period (1947–1961)
-
-In 1947, Singer accepted a professorship at the National University of Tucumán in San Miguel de Tucumán, Argentina, later also affiliated with the University of Buenos Aires. This fourteen-year period was the most productive of his career for field exploration and discovery. He conducted extensive mycological expeditions throughout South America—Argentina (particularly the subtropical northern provinces and Patagonia), Brazil (including the Amazon basin and Atlantic forests), Chile, Colombia, Paraguay, and Uruguay. He studied fungi from diverse ecosystems including tropical rainforests, temperate *Nothofagus* forests, grasslands, and montane cloud forests.
-
-Before Singer's work, the fungal floras of most South American countries were virtually unknown to science. He discovered and described hundreds of new species, dramatically expanding the known mycological diversity of the neotropics. He trained a generation of Latin American mycologists, established mycological collections at Argentine institutions, and published foundational surveys and monographs on the agaric floras of Argentina and neighboring countries.
-
-## Field Museum Period (1961–1968)
-
-Singer returned to the United States in 1961 as Curator of Fungi at the Field Museum of Natural History in Chicago. He curated and significantly expanded the museum's fungal collections, which became one of the world's most important mycological repositories. His tenure was marked by intense publication activity, including revisions of major fungal groups and continued work on his magnum opus. He received specimens from collaborators worldwide and maintained his extraordinary pace of taxonomic description.
-
-## Later Career (1968–1994)
-
-After leaving the Field Museum in 1968, Singer held positions at the University of Illinois at Chicago and continued research as an independent scholar affiliated with the Plant Biology Department at the University of Illinois at Urbana-Champaign. Even in his later years he maintained an extraordinary pace of publication, making return trips to South America and describing new species from collections made by collaborators globally. He published the fourth and final edition of *The Agaricales in Modern Taxonomy* in 1986 at the age of 80. He died on January 18, 1994, in Chicago at the age of 87, leaving behind one of the most extensive bodies of mycological work ever produced.
-
-## Classification System
-
-Singer was a classical phenetic taxonomist who used morphological characters for classification, working before the era of molecular phylogenetics. His approach emphasized several key methodological principles:
-
-- **Detailed microscopic analysis** of spore morphology, basidial structure, hyphal configurations, cystidia, and other cellular features
-- **[[spore-print]] color** as a primary diagnostic character at the family level
+In 1935, Singer emigrated to the United States. He obtained a position at the Farlow Herbarium of Cryptogamic Botany at Harvard University (1935–1940), one of the world's premier mycological institutions. There he worked alongside leading American mycologists, conducted extensive fieldwork across North America, and began developing his comprehensive classification system for the Agaricales. He subsequently moved to the United States Department of Agriculture in Beltsville, Maryland (approximately 1940–1947), where he continued research on [[spore-print]] color** as a primary diagnostic character at the family level
 - **Chemical reactions** with KOH, Melzer's reagent, ammonia, and other reagents for diagnostic purposes
 - **Ecological and distributional data** integrated into taxonomic decisions
 - **Comparative anatomy** across related taxa to establish evolutionary relationships
@@ -138,7 +117,5 @@ Singer's herbarium and type specimens are distributed across major institutions 
 
 ## See Also
 
-- [[psychedelic-mushrooms-species-and-identification|Psilocybe cubensis]]
-- [[amanita-muscaria|Amanita muscaria]]
-- [[fungal-biodiversity|Fungal biodiversity]]
-- [[psychedelic-mushrooms-species-and-identification|Psilocybe semilanceata]]
+- [[amanita-muscaria-entity|Amanita muscaria]]
+- [[psychedelic-mushroom-set-and-setting|Psilocybe semilanceata]]

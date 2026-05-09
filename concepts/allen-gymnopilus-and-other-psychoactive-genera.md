@@ -22,35 +22,7 @@ Australasian region.
 *Gymnopilus* is a genus of wood-inhabiting mushrooms, many of which are large
 and conspicuous. Some species are known to contain psilocybin and psilocine,
 though they are generally less potent than *Psilocybe* or *Copelandia*
-species. The genus is characterized by its rusty-orange to rusty-brown [[spore]]
-print and its habit of growing on dead wood, stumps, and woody debris.
-
-### *Gymnopilus spectabilis* (Fr.) Singer
-
-This species, also known as "big laughing gym," is one of the most widely
-recognized psychoactive Gymnopilus species. It is a large, robust mushroom
-that grows in dense clusters on dead hardwoods and conifers. In the Northern
-Hemisphere it has a long history of use, but Australian records are less
-certain. The species contains psilocybin and psilocine in relatively low
-concentrations compared to *Psilocybe* species. Its large size and
-spectacular fruiting make it conspicuous when it does appear.
-
-### Other *Gymnopilus* Species in Australia
-
-Australia has numerous *Gymnopilus* species, many of which are found on
-Eucalyptus wood. However, the psychoactive status of most Australian
-Gymnopilus species remains uncertain. Taxonomic confusion within the genus
-has historically made it difficult to determine which species contain
-psilocybin. Modern molecular techniques are beginning to clarify species
-boundaries, but comprehensive chemical analysis of Australian collections
-remains incomplete.
-
-## *Inocybe* Species
-
-### *Inocybe* and Psilocybin
-
-The genus *Inocybe* is primarily known for containing dangerous toxic
-species, particularly those that contain [[muscarine]]. However, some *Inocybe*
+species. The genus is characterized by its rusty-orange to rusty-brown [[muscarine]]. However, some *Inocybe*
 species are known to contain psilocybin, making the genus potentially
 dangerous for amateur collectors who cannot distinguish between
 psilocybin-containing and muscarine-containing species.
@@ -105,22 +77,7 @@ the same dung habitats.
 ## *Conocybe* Species
 
 The genus *Conocybe* contains several species known to contain psilocybin,
-most notably *[[conocybe-cyanopus]]* from the Northern Hemisphere. Australian
-records of psychoactive *Conocybe* species are sparse. The genus is
-characterized by small, fragile, cone-capped mushrooms growing in grass or
-on dung. Their small size and inconspicuous appearance mean they are easily
-overlooked. No confirmed psilocybin-containing *Conocybe* species have been
-reported from Australia or New Zealand to date.
-
-## *Pluteus* Species
-
-### *Pluteus salicinus* (Pers. ex Fr.) Kumm.
-
-This wood-inhabiting species is known from Europe and North America to
-contain psilocybin and psilocine. It grows on dead wood of broadleaf trees,
-particularly willow and poplar. While *Pluteus* species are found in
-Australia, there are no confirmed reports of psychoactive collections from
-the Australasian region. The genus is characterized by its pink [[spore-print]]
+most notably *[[spore-print]]
 and free gills, making it relatively easy to distinguish from
 *Psilocybe* species.
 
@@ -142,9 +99,6 @@ pore, while *Panaeolus* spores possess one.
 | *Conocybe* | Few | Unconfirmed | No Australian records |
 | *Pluteus* | Several | Unconfirmed | No Australian records |
 | *Panaeolina* | *P. foenisecii* | No | Very common in lawns |
-
 ## See Also
-
-- [[psilocybe-serotina]]
 
 - [[allen-australian-psilocybe-species-comprehensive-guide]]

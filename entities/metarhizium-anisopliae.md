@@ -21,13 +21,7 @@ sources:
 
 ## Overview
 
-**Metarhizium anisopliae** is a cosmopolitan entomopathogenic fungus widely used as a biological control agent against agricultural and forestry insect pests.
-
-The species was originally described by Ilya Metschnikoff in 1879 from the death-watch beetle (*Anobium punctatum*), making it one of the first insect-pathogenic fungi to be formally characterized.
-
-It infects over 200 insect species across Coleoptera, Lepidoptera, Hemiptera, Diptera, Hymenoptera, and Isoptera orders.
-
-Commercial formulations of *M. anisopliae* are registered in over 40 countries for pest control in crops, pastures, and urban environments.
+**Metarhizium anisopliae** is a cosmopolitan entomopathogenic fungus widely used as a [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] rol in crops, pastures, and urban environments.
 
 ## Taxonomy and Classification
 
@@ -62,15 +56,7 @@ In advanced infection, the fungus erupts through the insect integument and sporu
 
 Infection begins when a conidium lands on the host cuticle, adheres via hydrophobic interactions and specialized adhesion proteins.
 
-The conidium germinates within 12–24 hours, producing a germ tube that differentiates into an appressorium at the cuticle surface.
-
-The appressorium generates turgor pressure of up to 5 MPa, mechanically piercing the cuticle in conjunction with cuticle-degrading enzymes.
-
-Enzymes secreted during penetration include proteases (especially Pr1 and Pr2 subtilisin-like proteases), chitinases, lipases, and esterases.
-
-Once through the cuticle, the fungus produces blastospores that proliferate in the hemolymph, forming cell-wall-deficient cells that evade immune recognition.
-
-The insect typically dies within 3–7 days post-infection from a combination of tissue destruction, nutrient depletion, and toxic metabolite production.
+The conidi [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] nation of tissue destruction, nutrient depletion, and toxic metabolite production.
 
 ## Bioactive Compounds
 
@@ -116,25 +102,15 @@ UV protectants (e.g., Congo Red, lignin) are often added to field formulations t
 
 *M. anisopliae* exhibits low toxicity to mammals, birds, fish, and most non-target invertebrates, with LD50 values exceeding 10⁸ conidia/kg in rodent studies.
 
-The fungus does not produce mycotoxins in food crops at field application rates, and residues degrade rapidly under environmental conditions.
-
-Some concern exists regarding potential effects on beneficial insects such as honeybees, though most commercial strains show negligible bee mortality at recommended application rates.
-
-The species has been recovered from soil samples worldwide, indicating a natural and widespread environmental presence.
-
-## See Also
-
-- [[mycopesticides-entomopathogenic-fungi]]
-
-- [[biodiversity-fungi-entomopathogenic-insect-pathogens]]
+The fungus does not produce mycotoxins in food crops at [[mycopesticides-entomopathogenic-fungi]]
 
 - [[metarhizium]]
 
-- [ophiocordyceps-unilateralis](ophiocordyceps-unilateralis.md)
+- [ophiocordyceps-unilateralis [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] nilateralis.md)
 - [beauveria-bassiana](beauveria-bassiana.md)
 - [claviceps-purpurea](claviceps-purpurea.md)
 - [purpureocillium-lilacinum](purpureocillium-lilacinum.md)
 - [entomophthora-muscae](entomophthora-muscae.md)
 - [tolypocladium-ophioglossoides](tolypocladium-ophioglossoides.md)
 - [cordyceps-militaris](cordyceps-militaris.md)
-- [permaculture](permaculture.md)
+- [[permaculture](permaculture.md)

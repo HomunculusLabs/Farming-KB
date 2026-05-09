@@ -127,16 +127,9 @@ their nitrogen from soils where inorganic nitrogen constitutes less than
 
 ## See Also
 
-- [[symbiotic-fungi-endophytic-fungi-plant-protection]]
-
 - [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 
-- [[mycorrhiza]]
-
 - [[laccaria-laccata]] - ectomycorrhizal species for comparison of N strategies
-- [[hebeloma-crustuliniforme]] - ECM species with organic N utilization
 - [[glomus-mosseae]] - arbuscular mycorrhizal fungus dominant in grasslands
-- [[paxillus-involutus]] - ECM species with heavy metal interactions
 - [[mycena-galopus]] - saprotrophic decomposer in forest soils
-- [[cenococcum-geophilum]] - widely distributed ectomycorrhizal fungus
 - [[cladosporium-cladosporioides]] - saprotrophic fungus in agricultural soils

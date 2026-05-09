@@ -58,64 +58,7 @@ various saline and arid-region soils.
 
 Black yeastlike fungi are particularly notable inhabitants of
 hypersaline environments. Hortaea werneckii, Phaeotheca
-triangularis, and [[aureobasidium-pullulans]] are associated with
-hypersaline saltpans of 15-30% salinity. Phaeotheca triangularis
-is an obligate halophile, while H. werneckii and A. pullulans
-are facultatively halotolerant. Trimmatostroma salinum of the
-Chaetothyriales is another inhabitant of hypersaline
-environments.
-
-## Mechanisms of Salt Tolerance
-
-High sodium concentrations exert both osmotic effects and adverse
-effects on protein structure and enzyme function. Fungi cope with
-salinity through several mechanisms:
-
-  - Accumulation of compatible solutes such as glycerol,
-    erythritol, or mannitol to balance external osmotic
-    pressure.
-  - Efflux systems that actively pump sodium ions out of cells.
-  - Modification of membrane composition to maintain function
-    under ionic stress.
-  - Production of melanized cell walls that provide additional
-    protection.
-
-## Saline Environments
-
-Naturally hypersaline environments such as salt flats, saltpans,
-and brine pools appear to be the domain of prokaryotes and algae.
-Although only a few fungi are obligate halophiles, some fungi grow
-better in the presence of salt and thus have competitive
-advantages over less salt-tolerant competitors. Typical marine
-fungi have not been detected in saltpan environments, suggesting
-different adaptive strategies for marine versus hypersaline
-conditions.
-
-Seawater has an average NaCl concentration of 0.5 mol/kg and a
-water activity of 0.981. Filamentous fungi have been isolated
-from soils, sands, and sediments of estuaries, mangroves, and
-marine and freshwater habitats. Almost all taxa isolated from
-those habitats appear to be terrestrial soil fungi, with
-terrestrial fungal propagules accumulating in marine sediments
-because of the mycostatic effect of seawater.
-
-## Food Spoilage
-
-Fungi tolerant of low water activities caused by salt are
-important agents of food spoilage. Salted fish, jams, jellies,
-and other preserved foods can be spoiled by halotolerant
-species. Important genera in this context include Aspergillus,
-Aureobasidium, Chrysosporium, Cladosporium, Penicillium,
-Scopulariopsis, and Wallemia. Understanding the salt tolerance
-limits of these fungi is essential for food safety and
-preservation strategies.
-
-## Agricultural Relevance
-
-Salt-affected soils represent a significant portion of the
-world's agricultural land. Halotolerant fungi may play important
-roles in the decomposition of organic matter and nutrient cycling
-in saline soils. [[mycorrhizal-fungi]] that tolerate salinity could
+triangularis, and [[mycorrhizal-fungi]] that tolerate salinity could
 be important for maintaining plant productivity in salt-affected
 agricultural areas. The interactions between salinity, soil
 fungal communities, and plant health represent an important but
@@ -134,7 +77,5 @@ to extreme salinity.
 
 ## See Also
 
-- [[halophilic-fungi]]
 - [[marine-estuarine-fungi]]
-- [[fungal-responses-extreme-environments]]
 - [[xerophilic-xerotolerant-fungi]]

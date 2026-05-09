@@ -1,7 +1,7 @@
 ---
 title: Mushroom Fruiting Conditions
 created: 2026-04-28
-tags: [mycology, mushroom-cultivation, environment, physiology]
+tags: [[mycology, mushroom-cultivation, environment, physiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -138,8 +138,6 @@ for 50-70% of total biological efficiency.
 
 ## See Also
 
-- [[fruiting-conditions-mushroom-cultivation]]
 - [[mushroom-cultivator-fruiting-conditions]]
-- [[oyster-mushroom-fruiting-conditions]]
 - [[mushroom-fruiting-chamber-design-parameters]]
 - [[bacteria-and-microorganisms-in-mushroom-fruiting]]

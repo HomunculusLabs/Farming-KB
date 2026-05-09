@@ -37,19 +37,9 @@ Most studies on cannabis and sleep date from the 1970s and 1980s. These early st
 
 ## Mechanisms of Action
 
-The [[cannabis-endocannabinoid-system]] plays a well-established role in sleep regulation through several pathways:
+The [[cannabis-endocannabinoid-system]] is integral to normal sleep regulation.
 
-- **THC and sleep onset:** THC binds CB1 receptors in the central nervous system, producing sedative effects that reduce sleep onset latency (the time it takes to fall asleep). THC's sedative properties are dose-dependent, with moderate doses producing greater sleepiness than very low or very high doses.
-
-- **CBD and alertness:** The Farnborough study demonstrated that CBD has alerting properties at certain doses. This finding is consistent with CBD's known wake-promoting effects, which are mediated through activation of 5-HT1A serotonin receptors and possibly through antagonism of CB1 receptors at low doses.
-
-- **CB1 receptor role in sleep architecture:** CB1 receptors are found in brain regions that regulate the sleep-wake cycle, including the hypothalamus, basal forebrain, and brainstem. Endogenous cannabinoids like anandamide fluctuate with the circadian cycle, suggesting the [[cannabis-endocannabinoid-system]] is integral to normal sleep regulation.
-
-- **Pain relief and sleep:** For many patients, insomnia is secondary to chronic pain. THC and CBD both provide analgesic effects through CB1 and CB2 receptor activation. By reducing pain, cannabinoids may improve sleep quality in patients with [[cannabis-chronic-pain-management]] needs.
-
-- **Anxiety reduction and sleep:** Anxiety is a major contributor to insomnia. CBD has well-documented anxiolytic properties through 5-HT1A receptor activation and CB1 modulation. By reducing anxiety, CBD may improve sleep onset and maintenance, particularly in patients with comorbid anxiety disorders.
-
-- **REM sleep effects:** THC has been shown to suppress REM sleep, which may reduce dreaming and nightmares. This effect is relevant for patients with PTSD-related nightmares, as documented in [[cannabis-for-mental-health]] research.
+- **Pain relief and sleep:** For many patients, insomnia is secondary to chronic pain. THC and CBD both provide analgesic effects through CB1 and CB2 receptor activation. By reducing pain, cannabinoids may improve sleep quality in patients with [[cannabis-for-mental-health]] research.
 
 ## Additional Research Developments
 
@@ -59,9 +49,7 @@ Research on cannabis and sleep has expanded significantly:
 
 - A 2018 large-scale survey of cannabis users found that insomnia was among the top five conditions for which people used cannabis, and that users reported significant improvement.
 
-- Research has shown that the relationship between cannabis and sleep may change with long-term use, as tolerance to the sedative effects of THC can develop. This highlights the importance of [[cannabis-tolerance-and-dependence]] monitoring.
-
-- Cannabinol (CBN), a [[cannabis-minor-cannabinoids]], has gained attention as a potential sleep aid. While clinical evidence is limited, anecdotal reports and some pre-clinical data suggest CBN may have sedative properties, particularly when combined with THC.
+- Research has shown that the relationship between cannabis and sleep may change with long-term use, as tolerance to the sedative effects of THC can develop. This highlights the importance of [[cannabis-minor-cannabinoids]], has gained attention as a potential sleep aid. While clinical evidence is limited, anecdotal reports and some pre-clinical data suggest CBN may have sedative properties, particularly when combined with THC.
 
 ## Dosage and Administration
 
@@ -69,16 +57,14 @@ For insomnia patients considering cannabis therapy, several factors are relevant
 
 - THC-dominant preparations taken 30–60 minutes before bedtime may reduce sleep onset latency
 - Indica strains are generally preferred for nighttime use due to their relaxing and sedating properties
-- [[cannabis-edibles-guide]] recommendations should be followed, with particular attention to the delayed onset of edibles (30–120 minutes) to avoid taking too much when effects are not immediately felt
-- Tinctures and sublingual preparations offer intermediate onset (15–45 minutes)
 - [[cannabis-methods-of-consumption]] is relevant — vaporization provides rapid onset for patients who have difficulty falling asleep
-- Patients should consult [[cannabis-dosing-guidelines]] and be aware of potential [[cannabis-drug-interactions-and-contraindications]] with sedatives, benzodiazepines, and other sleep medications
+- Patients should consult [[cannabis-drug-interactions-and-contraindications]] with sedatives, benzodiazepines, and other sleep medications
 
 ## Strain-Specific Considerations
 
 Patients using cannabis for sleep report indica and indica-dominant strains with their lower THC:CBD ratios encourage sedation, relaxation, and grounding effects. This aligns with the finding that THC has sedative properties while CBD is alerting — indicas generally have relatively less THC and more CBD compared to sativas.
 
-Strains with high levels of myrcene (a sedating terpene) and linalool (anxiolytic) in their [[cannabis-terpene-profile]] may be particularly effective for sleep. Strains rich in [[cannabis-minor-cannabinoids]] like CBN may provide additional sedative effects.
+Strains with high levels of myrcene (a sedating terpene) and linalool (anxiolytic) in their [[cannabis-minor-cannabinoids]] like CBN may provide additional sedative effects.
 
 ## Mind-Body Considerations
 
@@ -92,8 +78,6 @@ The evidence base for cannabis and insomnia is limited, with few controlled clin
 
 ## Related Topics
 
-- [[cannabis-sleep-disorders]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-mental-health]]
 - [[cannabis-chronic-pain-management]]
 - [[cannabis-tolerance-and-dependence]]

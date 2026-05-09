@@ -10,54 +10,19 @@ tags: [psilocybin]
 
 # Psilocybin Isolation and Early Scientific Research
 
-The isolation of psilocybin and [[psilocybin-neuroplasticity]] by albert hofmann
-in 1958, and the subsequent scientific investigation of magic mushrooms
-throughout the late 1950s and 1960s, represents a remarkable chapter in
-[[psychedelic-mushroom-art-and-iconography]] research. For a brief
+The isolation of psilocybin and [[psychedelic-mushroom-art-and-iconography]] research. For a brief
 period, before prohibition descended, the scientific study of psilocybin
 mushrooms flourished on both sides of the Atlantic with a naive but genuine
 spirit of open inquiry.
 
 ## The Urgent Need for Self-Experimentation
 
-The Swiss chemist Albert Hofmann was approached by [[roger-heim-scientific-study-psilocybin]] in the late 1950s to identify the active chemical ingredients
-of the newly identified Mexican mushrooms. Heim, Professor of Mycology at the
-prestigious Musee National d'Histoire Naturelle in Paris, had accompanied
-[[gordon-wasson-mushroom-discovery]] to Mexico in 1956 to classify the
+The Swiss chemist Albert Hofmann was approached by [[gordon-wasson-mushroom-discovery]] to Mexico in 1956 to classify the
 hallucinogenic mushroom species. Attempts by his own laboratory and by American
 pharmaceutical companies (Merck; Smith, Kline and French) had all failed.
 
-Hofmann, who had discovered [[doet-pihkal-66]] fourteen years earlier, led the
-investigation. He immediately encountered a problem: none of the chemical
-extracts isolated had unequivocal effects upon the animals normally tested.
-Thinking the problem through logically, he wondered whether the dried mushrooms
-provided by Heim — the first person ever to have cultured them in the lab — had
-been rendered impotent by the drying process. The only way to find out was for a
-human volunteer to eat some.
-
-## Hofmann's Mushroom Trip
-
-On an afternoon in July 1957, after carefully assessing the risks, Albert
-Hofmann consumed thirty-two dried specimens of Psilocybe mexicana in a clinical
-setting. He was not disappointed. Things began to appear unsettling and strange,
-the streets were "demonically transformed," and upon lying on a couch and
-closing his eyes, he saw visions of landscapes and strange, exotic architecture.
-His room became encrusted with Mexican designs and motifs, and the doctor
-checking his pulse was transformed into a menacing Aztec priest. "I would not
-have been astonished," Hofmann later wrote, "if he had drawn an obsidian knife."
-
-From then on, animal experiments were abandoned as quite inefficient, and all
-extracts were tested on increasingly willing human volunteers drawn from
-Sandoz's employees. Hofmann's team swiftly isolated the active ingredients,
-which he named psilocybin and psilocin after the mushrooms, and Sandoz hurriedly
-placed their branded Indocybin on the market.
-
-## Roger Heim's Self-Experiments
-
-Heim's interest in the hallucinogenic mushrooms was primarily mycological, but
-it was not quite as purely professional as it appeared. He had had an encounter
-with the [[amanita-muscaria-cultural-history]] as a young man in
-1923. In Mexico, he had no qualms about participating in a [[mushroom-cultivation-fundamentals]], and having brought fungal
+Hofmann, who had discovered [[amanita-muscaria-cultural-history]] as a young man in
+1923. In Mexico, he had no qualms about participating in a [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], and having brought fungal
 samples home and cultivated them, he undertook a series of self-experiments.
 
 Heim's meticulous writing style rendered his mushroom trips somewhat clinical.

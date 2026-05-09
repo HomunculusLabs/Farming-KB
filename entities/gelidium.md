@@ -129,12 +129,8 @@ citrulline), carotenoids, and phenolic compounds with antioxidant properties.
 
 ## See Also
 
-- [[gracilaria]]
 - [[ulva-lactuca]]
-- [[porphyra-umbilicalis]]
 - [[saccharina-latissima]]
-- [[laminaria-digitata]]
 - [[chondrus-crispus]]
-- [[kappaphycus-alvarezii]]
 - [[undaria-pinnatifida]]
 - [[palmaria-palmata]]

@@ -118,12 +118,8 @@ maintainable.
 
 ## Related Topics
 
-- [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]
-  - Controlling wind on site
 - [[mollison-designers-rainwater-tanks-and-roof-catchment-systems]]
   - Domestic water collection
-- [[mollison-village-energy-systems-and-efficiency]] - Village-scale
-  energy planning
 - [[mollison-zone-planning-frequency-distance-and-placement]]
   - Zone system overview
 - [[mollison-designers-precipitation-types-and-design-effects]]

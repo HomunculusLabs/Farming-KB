@@ -84,15 +84,7 @@ The result is a closed-loop system where the farmer's primary role is observatio
 
 ## See Also
 
-- [[permaculture-animal-integration]]
 - [[holzer-livestock-integration]]
-- [[sepp-holzer-livestock-integration]]
--
-
-## Related
-
 - [[holzer-cattle-poultry-management]]
-- [[holzer-bone-salve-rock-dust]]
 - [[holzer-disaster-resistant-farming]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[holzer-fruit-tree-planting-method]]

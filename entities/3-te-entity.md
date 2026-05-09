@@ -17,9 +17,7 @@ sources:
 
 It is formally named 4-ethoxy-5-methoxy-3-methylthiophenethylamine, also known as 3-thioescaline.
 
-The name "thioescaline" indicates that a sulfur atom replaces one of the oxygen atoms in the [[escaline-entity]] molecule.
-
-In this case, the sulfur is at the 3-position, replacing the 3-methoxy group of [[escaline-entity]] with a methylthio group.
+The name "thioescaline" indicates that a sulfur atom replaces one of the oxygen atoms in the [[escaline-entity]] with a methylthio group.
 
 The compound retains the ethoxy group at the 4-position and a methoxy group at the 5-position.
 
@@ -69,17 +67,11 @@ Duration: 8 - 12 h.
 
 ## See Also
 
-- [[proscaline]]
-
-[[escaline-entity]]
-
-[[mescaline-entity]]
+- [[escaline-entity]]
 
 [[3-tm-entity]]
 
 3 te entity
-
-[[proscaline]]
 
 [[te-entity]]
 

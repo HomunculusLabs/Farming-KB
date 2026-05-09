@@ -111,14 +111,9 @@ the precision on which intensive small-farm production depends.
 
 - coleman hidden farm and double cropping strategy Concepts
 
-- [[coleman-bed-preparation-and-minimal-tillage]] — how tools are used in
-  the bed preparation sequence
 - [[coleman-weed-control]] — the flame weeder and other weed management
   tools
-- [[coleman-sowing-seedling-production]] — seeders and blocking tools
 - [[coleman-winter-harvesting-techniques]] — harvest knives and cold
   weather tools
-- [[coleman-post-harvest-handling-and-storage]] — washing, mixing, and
-  packing equipment
 - [[coleman-winter-harvest-planting-schedule]] — scheduling tools and
   timing equipment for year-round production

@@ -122,8 +122,6 @@ ideas, Wasson's mycophobia-mycophilia hypothesis has had its day.
 
 ## Related Topics
 
-- [[wasson-mycophobia-mycophilia-theory]] - the original theory
 - [[gordon-wasson-mushroom-discovery]] - Wasson's Mexico expeditions
-- [[wasson-scholarly-critique-and-legacy]] - broader scholarly assessment
 - [[mushroom-foraging-traditions-europe]] - European foraging practices
 - [[european-mushroom-poisoning-history]] - historical poisoning cases

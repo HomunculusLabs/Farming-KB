@@ -76,19 +76,12 @@ Key characteristics:
 
 -   Same ratio (20-30 g per liter).
 -   Spray on vegetable plants to treat or prevent leaf fungi.
--   Can be combined with other [[cho-natural-farming-inputs-overview]].
-
-### Soil Application
-
--   Work into potting mixes or seed beds.
--   Add to the [[cho-seed-seedling-solution-treatment]] as additional mineral amendment.
+-   Can be combined with other [[cho-seed-seedling-solution-treatment]] as additional mineral amendment.
 
 ## Role in the KNF System
 
 Loess complements other mineral inputs in Korean Natural Farming:
 
--   **[[cho-seawater-and-fermented-seawater]]** — dissolved ocean
-    minerals.
 -   **[[cho-water-soluble-calcium-and-potassium]]**
     — bioavailable calcium.
 -   **Mineral liquids A-E** — targeted mineral supplementation.
@@ -123,7 +116,5 @@ shelf life.
 
 ## See Also
 
--   [[knf-loess-powder]]
 -   [[cho-water-soluble-calcium-and-potassium]]
--   [[cho-seawater-and-fermented-seawater]]
 -   [[jadam-phyllite-mineral-solution]]

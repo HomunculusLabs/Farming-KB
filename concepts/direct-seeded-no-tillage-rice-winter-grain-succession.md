@@ -18,51 +18,18 @@ type: concept
 # Direct-Seeded No-Tillage Rice and Winter Grain Succession
 
 Direct-seeded, no-tillage, winter grain and rice succession in a clover cover is the
-central practical method developed by [[masanobu-fukuoka]]. It is a complete rice and
-barley cropping system that eliminates plowing, chemical fertilizers, pesticides,
-prepared compost, and weeding. Fukuoka consistently harvested approximately 22
-bushels (1,300 pounds) each of winter grain and rice per quarter-acre using this
-method, with a target of 33 bushels per quarter-acre.
-
-## Overview of the Annual Cycle
-
-The method follows a carefully timed succession that allows rice and winter grain to
-grow on the same plot of land without conflict. The cycle begins in autumn, when
-clover and winter grain seed are broadcast directly over the standing, ripening rice
-plants before the fall rice harvest. This means the next crop is already sown before
-the current one is harvested.
-
-During the rice harvest, the farmer treads on the young shoots of the winter grain
-that have already germinated beneath the rice plants. This treading does not damage
-the young grain shoots. After harvesting, the rice is left to dry for three days,
-then threshed. All of the rice straw is scattered uncut over the entire field, forming
-a thick mulch layer. If chicken droppings are available, these are scattered over the
-straw as well.
-
-Before the New Year, clay pellets containing rice seed are formed and scattered over
-the [[fukuoka-soil-fertility-straw-mulch]]. The winter grain continues to grow through the cold months while the
+central practical method developed by [[fukuoka-soil-fertility-straw-mulch]]. The winter grain continues to grow through the cold months while the
 rice seed remains dormant inside the clay pellets. At this point, there is essentially
 nothing left to do until the winter grain harvest.
 
 ## Spring and Summer Management
 
-In late May, the winter grain is harvested. By this time, the clover [[cover-crop-species-comparison]] has
-grown luxuriantly and small rice shoots have emerged from the clay pellets. After
-harvesting, drying, and threshing the winter grain, all of the grain straw is again
-scattered uncut over the field.
-
-The field is then flooded for four to five days. This temporary flooding weakens the
-clover cover sufficiently to allow the rice shoots to break through and establish
-themselves, but does not kill the clover. During June and July, the field is left
-unirrigated. In August, water is run through the drainage ditches once every week or
-ten days, providing minimal [[mushroom-casing-moisture-management]] without the continuous flooding
+In late May, the winter grain is harvested. By this time, the clover [[mushroom-casing-moisture-management]] without the continuous flooding
 practiced in conventional rice cultivation.
 
 ## The Role of Clover as Living Mulch
 
-Clover, particularly ladino clover, serves as the critical living [[white-clover-ground-cover]] in this
-system. It performs multiple simultaneous functions: it fixes atmospheric nitrogen,
-prevents [[soil-erosion-control]], suppresses undesirable weed species through competition, and
+Clover, particularly ladino clover, serves as the critical living [[soil-erosion-control]], suppresses undesirable weed species through competition, and
 maintains soil structure and moisture. Rather than fighting weeds through cultivation
 or herbicides, the system uses clover to outcompete unwanted plants.
 

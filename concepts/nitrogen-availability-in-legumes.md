@@ -120,14 +120,12 @@ such as soybeans or Dutch white clover.
 
 ## See Also
 
-- [[legume-nitrogen-fixation-mechanism]]
 - [[cannabis-nitrogen]]
-- [[dighton-fungal-greenhouse-gas-nitrogen-saturation]]
-
-- Legume nitrogen fixation mechanism explains how the symbiotic
-  relationship with Rhizobium bacteria enables atmospheric nitrogen
-  capture.
 - [[legume-nitrogen-yields-by-species]] provides specific data on the
   nitrogen-fixing capacity of common legume crops.
 - Green manure and cover cropping strategies detail how to integrate
   legumes into a soil-building rotation plan.
+
+## See Also
+
+- [[query-how-do-legumes-add-nitrogen-to-soil]]

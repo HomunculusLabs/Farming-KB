@@ -3,7 +3,7 @@ title: Farm Forestry Design (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, food-forest]
+tags: [[permaculture, design, food-forest]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -91,13 +91,8 @@ All these problems have been developed by industrial, not regional or village, f
 
 ## See Also
 
-- [[mollison-farm-forestry-and-woodlot-design]]
-
 - [[keyline-design-water-management]]
-- [[earthmoving-tools-permaculture-mollison]]
 - [[chisel-plough-soil-conditioning-mollison]]
-- [[cold-climate-permaculture-guide]]
 - [[soil-erosion-control]]
-- [[permaculture-designers-manual-bamboo-species-uses]]
 - [[permaculture-designers-manual-fuel-wood-systems]]
 - [[permaculture-designers-manual-timber-construction]]

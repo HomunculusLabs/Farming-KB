@@ -1,7 +1,7 @@
 ---
 title: Zygomycota Diversity and Phylogeny
 created: 2026-04-28
-tags: [mycology, zygomycota, fungal-taxonomy, phylogeny, evolution]
+tags: [[mycology, zygomycota, fungal-taxonomy, phylogeny, evolution]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -125,16 +125,6 @@ of understanding their biology and diversity.
 
 ## Relationship to Crown Fungi
 
-The Glomales (arbuscular mycorrhizal fungi, now placed in Glomeromycota) have been shown to be a sister clade to the Ascomycota/Basidiomycota lineage. Together, these three groups constitute the monophyletic "crown fungi." An estimated 80% of all plant species are associated with Glomales, underscoring the critical importance of arbuscular mycorrhizal fungi for life on land. The timing of the crown-fungus clade's appearance probably coincided with the origin and diversification of land plants. See [[biodiversity-glomeromycota-diversity]] for details on this now-separate phylum.
-
-## Taxonomic Challenges and Future Directions
-
-The polyphyly of many traditional zygomycete taxa means that significant taxonomic revision is needed. The ancestor of the Glomales and other crown fungi among the more basal lineages of Zygomycota and Chytridiomycota has not yet been identified. The loss of the flagellated stage, possibly from a blastocladialean ancestor, unites the group ecologically but not phylogenetically. Molecular phylogenetic studies are rapidly reshaping our understanding of relationships, but comprehensive taxonomic revisions lag behind molecular discoveries. The integration of molecular data with morphological and ecological information will be essential for developing a stable classification system. As sampling of undersampled habitats and geographic regions continues, many new species and lineages of Zygomycota will undoubtedly be discovered.
-
-## See Also
-
-- [[biodiversity-glomeromycota-diversity]]
-- [[truffle-evolution-and-hypogeous-fungi]]
+The Glomales (arbuscular mycorrhizal fungi, now placed in Glomeromycota) have been shown to be a sister clade to the Ascomycota/Basidiomycota lineage. Together, these three groups constitute the monophyletic "crown fungi." An estimated 80% of all plant species are associated with Glomales, underscoring the critical importance of arbuscular mycorrhizal fungi for life on land. The timing of the crown-fungus clade's appearance probably coincided with the origin and diversification of land plants. See [[biodiversity-glomeromycota-diversity]]
 - [[biodiversity-fungi-insect-symbiosis]]
-- [[cryptic-species-fungal-biodiversity]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]

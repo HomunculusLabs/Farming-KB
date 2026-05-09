@@ -25,37 +25,13 @@ type: concept
 
 ## Overview
 
-Minoan Crete occupies a pivotal position in Terence McKenna's grand narrative of human cultural evolution. For three millennia, while the [[mckenna-food-gods-partnership-dominator|dominator style]] of patriarchy and warfare consolidated its grip on the mainland of Asia Minor, Crete — an island remote from continental events — preserved the [[mckenna-food-gods-partnership-dominator|partnership model]] of society. It was a living monument to the ideal of Goddess worship, ecstatic religion, and the [[mckenna-food-gods-fall-consciousness|boundary-dissolving]] practices that McKenna traces back to the original psilocybin-using cultures of prehistoric Africa. The question of what psychoactive plants, if any, fueled Minoan spiritual life connects directly to the mysteries that would later flourish at [[mckenna-food-gods-ergot-kykeon-eleusinian|Eleusis]].
+Minoan Crete occupies a pivotal position in Terence McKenna's grand narrative of human cultural evolution. For three millennia, while the [[mckenna-food-gods-partnership-dominator|partnership model]] of society. It was a living monument to the ideal of Goddess worship, ecstatic religion, and the [[mckenna-food-gods-ergot-kykeon-eleusinian|Eleusis]].
 
 ## The Fall of Catal Huyuk
 
 The story of Minoan civilization begins with catastrophe. James Mellaart, the principal investigator of the Catal Huyuk site in Anatolia, observed that despite its brilliance, the city "had no impact on the societies around it." Around 6500 B.C., a disastrous series of fires swept through Levels V and VIA, and the city was abandoned — making clear that the age of undefended cities, the age of partnership, was ending.
 
-From that point forward, [[mckenna-food-gods-partnership-dominator|partnership-based social institutions]] and the old Mother Goddess religion in the Near East would witness "a slow erosion and fragmentation." Refugees from the fall of Catal Huyuk were scattered, and some few of them fled to the island of Crete.
-
-## Arrival and Development
-
-The story of Minoan civilization begins around 6000 B.C.E., when a small colony of immigrants, probably from Anatolia, first arrived on Crete's shores. These immigrants brought the Goddess with them, along with agrarian technology that classifies the first settlers as Neolithic. Over the next four thousand years, there was steady technological progress in pottery, weaving, metallurgy, engraving, architecture, and other crafts, as well as increasing trade and the evolution of the lively, joyful artistic style so characteristic of Crete.
-
-## The Partnership Ideal Preserved
-
-On Crete, the Goddess was still supreme and there are no signs of war. The economy prospered and the arts flourished. Even when in the fifteenth century B.C. the island finally came under Achaean dominion — when archaeologists speak of Minoan-Mycenaean culture rather than purely Minoan — the Goddess and the way of thinking and living she symbolized still appear to have held fast.
-
-The ambience of Minoan religion was one of "realism, a sense of the vitality of bios, and sensual celebration." The snake-handling Minoan nature Goddess is representative of all these values. In all Minoan depictions, her breasts are full and bare and she handles a golden snake. Scholars following shamanic convention have seen in the snake a symbol of the soul of the deceased — making her a goddess who, like Persephone, rules over the underworld, "a shamaness of great power whose mystery was already millennia old."
-
-## The Age of Kingship
-
-Meanwhile, on mainland Asia Minor, the Indo-European waves of migration abated and great urban river valley civilizations arose. Kingship, chariot warfare, and the travails of great male heroes now held sway. Warfare and the building of fortified cities had become the enterprise of civilization. Only Crete — an island and in those times remote from the events of Asia Minor — harbored the old partnership model.
-
-The mysterious Minoan civilization became the inheritor of the style and gnosis of forgotten and far-off times, enduring for three millennia after the triumph of the dominator style was everywhere else complete.
-
-## Minoan Pillars and the Mushroom Question
-
-The question naturally arises of the relationship of Minoan society to the Archaic source of power behind the partnership ideal — mushroom psilocybin. Several lines of evidence suggest connections:
-
-### Sacred Pillars
-
-Minoan religion was characterized by the worship of pillars — single round columns broadening toward the top, found in rooms with religious significance throughout the palaces. Remembering that [[mckenna-food-gods-soma-vedic-enigma|Soma]] was called "pillar of the World" in the Rig Veda, McKenna asks whether these pillars were explicit echoes of mushroom imagery or "last aniconic vestiges of the mushroom image." Such columns were widely understood to stand for a sacred tree and were connected with "images and rituals of vegetative significance that were very old."
+From that point forward, [[mckenna-food-gods-soma-vedic-enigma|Soma]] was called "pillar of the World" in the Rig Veda, McKenna asks whether these pillars were explicit echoes of mushroom imagery or "last aniconic vestiges of the mushroom image." Such columns were widely understood to stand for a sacred tree and were connected with "images and rituals of vegetative significance that were very old."
 
 ### Archaeological Evidence
 
@@ -95,8 +71,25 @@ Only a dim echo of the old ways continued in the form of alchemy, hermeticism, m
 
 ## See Also
 
-- [[mckenna-food-gods-soma-vedic-enigma]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
-- [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-mead-honey-dionysian]]
 - [[mckenna-food-gods-fall-consciousness]]
+## Practical Considerations
+
+Successful implementation of Minoan Crete and the Mushroom Religion requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

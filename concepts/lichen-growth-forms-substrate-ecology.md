@@ -2,53 +2,9 @@
 title: Lichen Growth Forms and Substrate Ecology
 created: 2026-04-26
 tags:
-  - lichens
-  - lichenized-fungi
-  - growth-forms
-  - substrate-ecology
-  - photobiont
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
-type: concept
----
-# Lichen Growth Forms and Substrate Ecology
-Lichens are symbiotic associations between a fungus (the
-mycobiont) and a photosynthetic partner (the photobiont),
-typically a green alga or cyanobacterium. The integrated
-lichen thallus develops a characteristic morphology that is
-used to classify lichens into growth forms, each adapted to
-particular substrates and environmental conditions. Lichenized
-fungi represent a major component of [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], with an estimated 13,500 to 17,000 species.
+  - [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], with an estimated 13,500 to 17,000 species.
 
-## The [[lichen-symbiosis]]
-
-An individual lichen thallus is usually composed of one
-species of fungus and one species of either alga or
-cyanobacterium. Many thousands of fungal species, but only
-about 150 to 200 species of photobiont, have been identified
-as participants in lichen symbioses. Only the fungal partner
-reproduces sexually while in the association. The lichen
-thallus is more than the sum of its parts -- it survives in
-more habitats and is more abundant than either partner when
-alone.
-The roles of lichenized fungi in communities and ecosystems
-are best understood by studying the lichen thallus as a
-photosynthetic unit that in many ways is equivalent to plants.
-For this reason, methods for assessing the diversity of
-lichenized fungi can be more similar to those for plants than
-for other fungi.
-
-## Growth Form Categories
-
-Most lichen thalli fall into one of five general morphological
-categories, although intermediates and transitions exist:
-
-### Leprose
-
-Leprose lichens consist of mealy particles of intertwined
-[[fungal-hyphae]] and algal cells, forming an unstructured,
+## The [[fungal-hyphae]] and algal cells, forming an unstructured,
 granular crust. These are often among the smallest and
 least conspicuous lichens. Genera such as Lepraria are
 representative of this growth form and are typically found

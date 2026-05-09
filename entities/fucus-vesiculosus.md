@@ -96,25 +96,15 @@ Traditional Irish and Scottish uses included wrapping fish for cooking, fertiliz
 
 ## See Also
 
-- [[laminaria-digitata]]
 - [[saccharina-latissima]]
-- [[macrocystis-pyrifera]]
 - [[ulva-lactuca]]
-- [[porphyra-umbilicalis]]
 - [[palmaria-palmata]]
-- [[chondrus-crispus]]
 - [[undaria-pinnatifida]]
-- [[agar]]
-- [[anti-inflammatory]]
-- [[magnesium]]
-- [[calcium]]
-- [[agaricus-bisporus]]
+- [[cannabis-anti-inflammatory-applications]]
+- magnesium
+- calcium
 - [[psilocybe-cubensis]]
-- [[ganoderma-lucidum]]
 - [[reishi-ganoderma-lucidum]]
-- [[daucus-carota]]
 - [[coriandrum-sativum]]
-- [[allium-sativum-entity]]
 - [[zingiber-officinale]]
-- [[curcuma-longa]]
-- [[foeniculum-vulgare]]
+- [[foeniculum-vulgare-entity]]

@@ -1,7 +1,7 @@
 ---
 title: Fungal Community Assembly and Dynamics
 created: 2026-04-28
-tags: [mycology, community-ecology, fungal-communities, succession, species-interactions]
+tags: [[mycology, community-ecology, fungal-communities, succession, species-interactions]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -128,10 +128,6 @@ and ecosystems.
 
 ## See Also
 
-- [[fungal-biodiversity-deep-subsurface-caves]]
-
 - [[cryptic-species-fungal-biodiversity]]
-- [[fungal-bacterial-interactions]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[biodiversity-fungi-molecular-methods]]
 - [[fungal-succession-in-decomposition]]

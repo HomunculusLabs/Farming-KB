@@ -119,7 +119,9 @@ It is important to note that the guide is a modern practical manual rather than 
 
 ## See Also
 
-- [[marijuana-magick-ancient-ritual-use-cannabis]]
 - [[marijuana-magick-cannabis-sacred-spatial-preparation]]
-- [[marijuana-magick-cannabis-incense-and-preparation]]
 - [[marijuana-magick-scrying-and-divination-cannabis]]
+
+## See Also
+
+- [[marijuana-magick-ancient-ritual-use-cannabis]]

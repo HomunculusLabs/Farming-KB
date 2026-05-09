@@ -30,9 +30,7 @@ psoriasis is based on 1 study reviewed with a CHI value of 3. While the
 evidence base is limited, the theoretical foundation from endocannabinoid
 system research is promising.
 
-See also: [[blesching-cannabis-dermatological-conditions]],
-[[blesching-cannabis-skin-cancer-non-melanoma]],
-[[blesching-cannabis-itching-pruritis]],
+See also: [[blesching-cannabis-skin-cancer-non-melanoma]],
 [[cannabis-autoimmune-conditions-detailed]],
 [[blesching-cannabis-inflammatory-bowel-disease]]
 

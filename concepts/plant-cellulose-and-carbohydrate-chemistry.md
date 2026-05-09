@@ -111,11 +111,7 @@ Carbohydrates have lots of hydrogen bonds, which is one reason they are such goo
 
 ## Related Topics
 
-- [[photosynthesis-and-chloroplast-function]] -- how carbohydrates are produced
 - [[molecules-of-life-in-plants]] -- carbohydrates among the four molecular groups
-- [[adenosine-triphosphate-and-cellular-energy]] -- how carbohydrate energy is used
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] -- where cellulose walls are formed
-- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[mushroom-biology-structure-life-cycle]]
-- [[photosynthesis-carbon-cycle-plants]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

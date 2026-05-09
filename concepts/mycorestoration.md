@@ -1,7 +1,7 @@
 ---
 title: Mycorestoration
 created: 2026-04-28
-tags: [mycology, ecology, bioremediation, environmental-science, sustainability]
+tags: [[mycology, ecology, bioremediation, environmental-science, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -59,21 +59,7 @@ contains enough fungal cells to stretch more than 8 miles end to end.
 
 ## Mycoremediation in Practice
 
-The most widely documented application of [[mycoremediation]] involves the
-use of oyster mushrooms (*Pleurotus ostreatus*) to decompose petroleum
-contamination. In a landmark demonstration organized by Stamets in
-collaboration with the Washington State Department of Transportation, piles
-of diesel-contaminated soil were inoculated with oyster mushroom mycelium.
-Within weeks, the mycelium had colonized the soil, and the mushrooms that
-fruiting produced were subsequently consumed by insects and birds, which
-attracted larger predators. The contaminated site was rapidly transformed
-into a thriving micro-ecosystem, with petroleum hydrocarbon concentrations
-reduced by a significant margin. This cascading ecological recovery, where
-fungal cleanup initiates a chain of biological succession, is a hallmark
-of the mycoremediation approach.
-
-Beyond petroleum, fungi have demonstrated the ability to degrade a wide
-range of environmental contaminants. [[white-rot-fungi]] produce lignin-
+The most widely documented application of [[white-rot-fungi]] produce lignin-
 degrading enzymes (lignin peroxidases, manganese peroxidases, and laccases)
 that are remarkably non-specific in their substrate targets, breaking down
 polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs),
@@ -84,19 +70,6 @@ structurally diverse polymer, so the enzymes evolved to attack it are
 inherently versatile.
 
 ## Mycofiltration Techniques
-
-[[unknown-mycelium-mycofiltration]] installations use dense mats of mycelium grown on
-straw, wood chips, or other substrate materials to filter water. When
-water percolates through the mycelial mat, sediment is physically trapped
-by the dense hyphal network while dissolved contaminants are subjected to
-enzymatic breakdown and biological absorption. Species of *Stropharia*
-(particularly wine cap, *S. rugosoannulata*) and *Pleurotus* are commonly
-used because of their vigorous growth and broad enzymatic capabilities.
-Mycofilters have been deployed to filter agricultural runoff, stormwater,
-and even wastewater from residential septic systems, significantly
-reducing coliform bacteria counts and suspended solids.
-
-## Mycoforestry and Forest Restoration
 
 [[mycoforestry]] recognizes that healthy forests depend on healthy fungal
 communities. In natural old-growth forests, a complex succession of fungal
@@ -109,24 +82,6 @@ of inoculated wood chips. By restoring the fungal dimension of forest
 ecology, mycoforestry aims to accelerate natural succession, improve tree
 growth rates, and build the resilient, self-sustaining ecosystems that
 characterize mature forests. The practice aligns closely with principles
-of [[permaculture]] and ecological land management.
-
-## Challenges and Limitations
-
-Despite its promise, mycorestoration faces practical challenges. Fungal
-remediation is highly context-dependent: the right species must be matched
-to the specific contaminant, substrate, and environmental conditions.
-Temperature, moisture, pH, and nutrient availability all affect mycelial
-growth and enzymatic activity. In some cases, the metabolic intermediates
-produced during fungal degradation can be more toxic than the original
-contaminant. Scaling from laboratory demonstrations to field-scale
-remediation requires careful engineering and monitoring. Nevertheless, as understanding of fungal ecology advances, mycorestoration
-continues to gain recognition as a viable complement to conventional
-remediation technologies.
-
-## See Also
-
-- [[mycoremediation]]
-- [[unknown-mycelium-mycofiltration]]
+of [[mycoremediation]]
 - [[mycorrhizal-fungi]]
 - [[mycelial-networks]]

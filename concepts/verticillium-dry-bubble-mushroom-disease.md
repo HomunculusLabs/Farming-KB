@@ -129,22 +129,9 @@ concurrent contaminant problems.
 
 ## Species Resistance Differences
 
-Steane (1979) reported that [[agaricus-bisporus-cultivation-biology]] appeared especially resistant to Verticillium disease, while
-Agaricus brunnescens was more susceptible. Farms regularly suffering from
-this disease could greatly reduce infection levels by intermittently growing
-A. bitorquis between A. brunnescens crops, using crop rotation as a disease
-management strategy.
-
-## Relationship to Mycoremediation
-
-Some Verticillium species are endoparasitic to nematodes, with spores that
-germinate in the nematode's mouth tubes and digest the organism from within.
-This property is relevant to [[mycoremediation-dye-textile-wastewater]] applications and biological
+Steane (1979) reported that [[mycoremediation-dye-textile-wastewater]] applications and biological
 pest control in agricultural settings.
-
 ## See Also
 
-- [[agaricus-phase-i-composting]] for substrate preparation affecting disease
-  susceptibility
 - [[bulk-substrate-preparation]] for hygiene during substrate handling
 - [[garden-disease-identification]] for broader plant disease context

@@ -3,7 +3,7 @@ title: Fungal Rdna Primers Molecular Identification
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Ribosomal DNA Primers and Molecular Identification
@@ -94,18 +94,7 @@ For environmental samples, nested PCR approaches (npPCR) or touchdown PCR protoc
 
 ## Related Topics
 
-- [[fungal-molecular-identification]]
 - [[fungal-dna-barcoding]]
-- [[fungal-dna-extraction-methods]]
 - [[fungal-metagenomics]]
-- [[culturing-culture-independent-fungi]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 6: Molecular Approaches to Assessing Fungal Biodiversity
-- Gardes, M. and Bruns, T.D. 1993. ITS primers with enhanced specificity for basidiomycetes
-- White, T.J. et al. 1990. Amplification and direct sequencing of fungal ribosomal RNA genes
-- Nilsson, R.H. et al. 2008. The UNITE database for molecular identification of fungi
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[fungal-biodiversity-data-analysis]]

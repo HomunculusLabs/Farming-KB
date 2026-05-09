@@ -115,13 +115,6 @@ and let go of my anger."
 Chronic hepatitis B and C are major risk factors for liver cancer. The
 endocannabinoid system's anti-inflammatory and hepatoprotective properties
 suggest that cannabinoids may play a role in interrupting the
-hepatitis-cirrhosis-cancer progression. See [[blesching-cannabis-hepatitis]] for
-more on cannabis and liver inflammation.
-
-## See Also
-
-- [[blesching-cannabis-hepatitis]]
-- [[blesching-cannabis-cancer-symptoms]]
+hepatitis-cirrhosis-cancer progression. See [[blesching-cannabis-hepatitis]]
 - [[blesching-cannabis-pancreatitis]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

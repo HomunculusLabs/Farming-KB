@@ -29,9 +29,7 @@ periodontitis is based on 1 study reviewed with a CHI value of 2. While the
 evidence base is small, the findings are promising and the biological
 mechanism involving CB2 receptors and bone metabolism is well-established.
 
-See also: [[blesching-cannabis-dental-and-oral-health]],
-[[blesching-cannabis-osteoporosis]],
-[[blesching-cannabis-bone-fracture-healing]],
+See also: [[blesching-cannabis-osteoporosis]],
 [[blesching-cannabis-arthritis]],
 [[cannabis-and-bone-cancer]]
 

@@ -122,13 +122,9 @@ Lentil-cereal intercrops often demonstrate land-equivalent ratios exceeding
 
 ## See Also
 
-- [[pisum-sativum]] — pea, related cool-season grain legume
 - [[vicia-faba]] — fava bean, cool-season broad bean
-- [[cicer-arietinum]] — chickpea, ancient Near Eastern legume
 - [[vigna-radiata]] — mung bean, warm-season pulse crop
-- [[glycine-max]] — soybean, major warm-season legume
 - [[medicago-sativa]] — alfalfa, perennial nitrogen-fixing forage
-- [[trifolium-repens]] — white clover, living mulch nitrogen fixer
 - [[trigonella-foenum-graecum]] — fenugreek, medicinal legume
-- [[crop-rotation]] — rotational strategies for legume integration
+- crop rotation — rotational strategies for legume integration
 - [[companion-planting]] — intercropping and companion strategies

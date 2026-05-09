@@ -1,7 +1,7 @@
 ---
 title: Mushroom Cultivation
 created: 2026-04-28
-tags: [mycology, cultivation, agriculture, psychedelics]
+tags: [[mycology, cultivation, agriculture, psychedelics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
@@ -133,8 +133,6 @@ Several common challenges face mushroom cultivators, particularly beginners:
 
 ## See Also
 
-- [[psilocybin-mushroom]]
 - [[spore-print]]
-- [[mycelium]]
 - [[mycology]]
 - [[mushroom-life-cycle]]

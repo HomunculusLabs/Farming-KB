@@ -107,16 +107,10 @@ Climate change may affect distribution patterns, as ectomycorrhizal fungi are se
 
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[rubroboletus-satanas]]
-- [[suillus-luteus]]
 - [[suillus-granulatus]]
-- [[leccinum-scabrum]]
 - [[leccinum-aurantiacum]]
-- [[xerocomellus-chrysenteron]]
 - [[xerocomus-subtomentosus]]
-- [[gyroporus-cyanescens]]
 - [[boletus-pinophilus]]
-- [[strobilomyces-strobilaceus]]
 - [[tylopilus-felleus]]
 - [[boletus-reticulatus]]

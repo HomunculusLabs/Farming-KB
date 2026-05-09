@@ -107,14 +107,9 @@ The mild, slightly nutty flavor of foxtail millet makes it versatile in both swe
 
 ## See Also
 
-- [[pennisetum-glaucum]]
 - [[eleusine-coracana]]
-- [[sorghum-bicolor]]
 - [[coix-lacryma-jobi]]
-- [[zea-mays]]
 - [[oryza-sativa]]
-- [[vigna-radiata]]
 - [[vigna-angularis]]
-- [[permaculture]]
 - [[chop-and-drop]]
-- [[fodder]]
+- fodder

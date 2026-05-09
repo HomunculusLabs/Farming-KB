@@ -138,12 +138,8 @@ groups parallels changes in the chemical composition of plant residues.
 
 ## See Also
 
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungi-forest-fire-succession-litter-dighton]]
-- [[dighton-fungal-succession-disturbance]]
 - [[dighton-wood-decay-ecosystem-carbon]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungi-forest-fire-succession-litter-dighton]]
-- [[fungal-wood-decomposition-spatial-variation]]
 - [[dighton-wood-decay-ecosystem-carbon]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

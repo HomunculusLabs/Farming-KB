@@ -140,11 +140,8 @@ reference sequences from correctly identified specimens. The legacy of
 misidentification in GenBank means that even DNA-based identification can be
 compromised by propagated errors. The careful taxonomic work advocated by
 Guzmán remains the foundation for reliable mycological research.
-
 ## See Also
 
-- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-- [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]]
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]

@@ -78,15 +78,6 @@ The Archaic Revival connects to James Lovelock's Gaia hypothesis (the Earth as a
 
 ## See Also
 
-- [[mckenna-sugar-coffee-tea-chocolate]]
-
 - [[mckenna-transcendent-other-and-exopheromones]]
-- [[urban-ayahuasca-iquitos-healing]]
 - [[mushroom-symbolism-rock-art-ancient-imagery]]
-- [[psychedelic-use-in-ancient-greece]]
-
-## Merged: Mushroom Symbolism in Christianity
-Terence McKenna proposes in Food of the Gods that Christianity absorbed and transformed elements of an older mushroom-centered religion, preserving traces of the original entheogenic practice in its central rituals and symbolism. This argument extends Wasson's and Ruck's work on the Eleusinian Mysteries into the specifically Christian domain. - [[psychedelic-use-in-ancient-greece]] - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] - [[mushroom-symbolism-in-ancient-cultures]] - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] - archaic revival philosophy McKenna draws explicit parallels between Dionysus, the pre-Hellenic god of ecstatic intoxication, and Christ: - **Twice-born motif**: Dionysus was "twice born" because his mother Semele was consumed by lightning before giving birth, and Zeus completed gestation in his own body.
-## Merged: Eleusinian Mysteries
-The Eleusinian Mysteries were the most important religious institution of the classical Greek world, celebrated annually for nearly two thousand years on the Eleusinian plain near Athens. McKenna argues in Food of the Gods that these Mysteries were, at their core, psychedelic ceremonies inherited from the Minoan civilization of Crete, representing a late, diluted form of an archaic mushroom religion. - [[psychedelic-use-in-ancient-greece]] - [[mushroom-symbolism-in-ancient-cultures]] - archaic revival philosophy - archaic revival philosophy The Mysteries centered on the myth of Demeter and her daughter Persephone (Kore), who was abducted by Pluto into the underworld and whose annual return was celebrated at the spring Lesser Mysteries.
-- [[mckenna-minoan-crete-mushroom-religion]]
+- [[psychedelic-use-in-ancient-greece]] - [[mushroom-symbolism-in-ancient-cultures]] - [[psychedelic-use-in-ancient-greece]] - [[mckenna-minoan-crete-mushroom-religion]]

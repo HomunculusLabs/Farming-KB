@@ -115,11 +115,7 @@ The study did not quantify the alkaloid content (psilocybin and psilocin) of bra
 
 - [[brassinosteroid-anti-stress-effects-crop-science]]
 
-- [[brassinosteroids-phytohormones-fungal-growth-promotion]]
 - [[brassinosteroid]]
 - [[brassinosteroid]]
 - [[brassinosteroid]]
-- [[brassinosteroid-mushroom-yield-dry-mass]]
-- [[brassinosteroid]]
-- [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
 - [[brassinosteroid-fungal-fruiting-body-morphology]]

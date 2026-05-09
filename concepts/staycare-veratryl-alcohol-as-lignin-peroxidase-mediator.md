@@ -11,7 +11,7 @@ type: concept
 # Veratryl Alcohol as Lignin Peroxidase Mediator
 
 Veratryl alcohol (VA; 3,4-dimethoxybenzyl alcohol) is a secondary
-metabolite produced naturally by white rot fungi that plays a central
+metabolite produced naturally by [[white-rot-fungi]] that plays a central
 role in the catalytic mechanism of lignin peroxidase (LiP). VA serves as
 both a substrate and a diffusible redox mediator, enabling LiP to
 oxidize compounds that are otherwise beyond its direct enzymatic reach.
@@ -123,11 +123,9 @@ the effective reach of the enzymatic degradation system. This mediator
 mechanism is a key factor in the broad-spectrum degradative capability
 of white rot fungi.
 
-See also: [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]],
-Manganese Peroxidase in [[fungal-bioremediation]],
+See also: [[fungal-bioremediation]],
 and Lignin Peroxidase and Pollutant Degradation.
 
 ## See Also
 
-- [[fungal-lignin-peroxidase-veratryl-alcohol]]
 - [[staycare-lignin-peroxidase-and-pollutant-degradation]]

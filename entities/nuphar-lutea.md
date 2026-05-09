@@ -111,10 +111,9 @@ The plant features in the art and literature of the Impressionist period. Claude
 
 ## See Also
 
-- [[nymphaea-caerulea]]
 - [[lemna-minor]]
-- [[trapa-natans]]
-- eichhornia crassipes
-- nuphar
-- nymphaeaceae
 - [[colocasia-esculenta]]
+
+## See Also
+
+- [[permaculture-plants-aquatic-and-wetland-species]]

@@ -14,41 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 
 ## Taxonomy and Clarification
 
-* **Division:*[[hypsizygus-marmoreus]]Class:** Agaricomycetes
-* **Order:** Agaricales
-* **Family:** Lyophyllaceae
-* **Genus:** *Hypsizygus*
-
-**Important taxonomic note:** The commercial mushroom widely sold as "buna-shimeji" or "brown beech mushroom" in markets is actually ***Hypsizygus marmoreus*** (synonym *H. tesselatus* var. *marmoreus*), which may represent a distinct species from the wild-type *H. tessulatus*. Commercial breeding has significantly altered the cultivated form — it produces shorter stems, more compact clusters, and faster fruiting compared to wild collections. The name "shimeji" is also applied to *Lyophyllum shimeji* (true hon-shimeji), a different and much rarer mushroom that has resisted commercial cultivation.
-
-## Morphology
-
-The wild-type fruiting body features a convex to plano-convex cap, 3–10 cm in diameter, with a distinctive tessellated (checkered) pattern of darker spots on a lighter background — hence the epithet *tessulatus*. The cap surface is smooth, slightly sticky when moist, and ranges from pale tan to brown. The margin is inrolled when young. The stem is central, solid, and whitish, typically 3–8 cm long and 0.5–1.5 cm thick. Gills are crowded, adnexed to nearly free, and white, becoming cream with age. The spore print is white.
-
-The commercial form produces clusters of 5–20 caps per fruiting body, each cap 2–5 cm, with a smooth brown cap and white stem. The cultivated mushroom is significantly more uniform and compact than wild specimens.
-
-## Natural Habitat
-
-*H. tessulatus* is found on dead or dying hardwood trees, particularly:
-
-* Elm (*Ulmus* spp.) — hence the common name
-* Beech (*Fagus* spp.) — particularly in Japan (buna = Japanese beech)
-* Oak (*Quercus* spp.)
-* Maple (*Acer* spp.)
-
-It fruits in autumn, typically October through November in temperate regions, on standing dead trees or fallen logs. The fungus is a primary and secondary decomposer, capable of colonizing both freshly cut wood and well-decayed logs.
-
-## Cultivation
-
-### Commercial Production
-
-Commercial cultivation of *H. marmoreus* (buna-shimeji) is well-established, particularly in Japan, Korea, and increaspawn-preparationnd North America:
-
-* **Substrate:** Supplemented sawdust, typically hardwood sawdust (beech, oak, or a mix) supplemented with 20–30% wheat bran or rice bran. Rice bran supplementation at 25% is standard in Japanese commercial production.
-* **Spawn preparation:** Grain spawn (wheat, rye, or millet) is used for rapid and uniform colonization.
-* **Spawn run:** 25–30 days at 20–25°C in the dark. *Hypsizygus* colonizes moderately slowly compared to oyster mushrooms but faster than shiitake.
-* **Primordia initiation:** Requires temperature drop to 12–15°C, high humidity (>95%), and exposure to light (200–500 lux). CO₂ levels should be reduced from spawn-run levels (~5,000 ppm) to ~1,000 ppm.
-* **Fruiting:** Temperature maintained at 12–16°C, humidity 85–90%, with continued [[biological-efficiency]]rmal cap development and pigmentation. Air velocity should be low to prevent drying of small pins.
+* **Division:*[[biological-efficiency]]rmal cap development and pigmentation. Air velocity should be low to prevent drying of small pins.
 * **Harvest:** 14–21 days after pin initiation. Entire clusters are harvested by cutting at the base. Commercial yields range from 80–150% biological efficiency.
 
 ### Key Cultivation Challenges
@@ -91,6 +57,24 @@ Buna-shimeji is one of the most versatile culinary mushrooms:
 
 ## See Also
 
-* [[pleurotus-ostreatus]] — Oyster mushroom, a more easily cultivated alternative
 * [[pleurotus-pulmonarius]] — Phoenix mushroom, warm-weather oyster species
-* [[trametes-versicolor]] — Turkey tail, related polypore medicinal mushroom
+* [[trametes-versicolor-entity]] — Turkey tail, related polypore medicinal mushroom
+## Practical Considerations
+
+Successful implementation of Hypsizygus tessulatus requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -91,14 +91,7 @@ Holzer sows paddocks with mixed crops that provide complete livestock nutrition:
 ## See Also
 
 - 
-- [[holzer-terrace-systems]]
 - [[holzer-cattle-poultry-management]]
-- [[seed-selection-breeding-holzer]]
-
-## Related
-
 - [[holzer-bone-salve-rock-dust]]
-- [[holzer-disaster-resistant-farming]]
 - [[holzer-fish-farming]]
-- [[holzer-raised-bed-design-principles]]
 - [[holzer-alpine-plant-cultivation-gentian]]

@@ -141,8 +141,6 @@ to ayahuasca use.
 
 ## See also
 
-- [[peruvian-drug-war-and-ayahuasca-acceptance]]
 - [[ayahuasca-tourism-legal-status-by-country]]
-- [[sacramental-ayahuasca-legal-battles-united-states]]
 - [[entheogenic-syncretic-churches-brazil]]
 - [[ayahuasca-pharmacology]]

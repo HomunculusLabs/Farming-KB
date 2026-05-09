@@ -22,19 +22,7 @@ prevention, and action thresholds to decide when and how to intervene.
 ### The IPM Philosophy
 Integrated Pest Management represents a fundamental shift from reactive pest
 control to proactive ecosystem management. The core philosophy, as detailed in
-[[solomon-pest-management-without-chemicals]], is that pest problems are
-symptoms of system imbalances rather than inevitable adversaries. A healthy
-garden with diverse plantings, active soil biology, and supportive habitat for
-beneficial organisms will naturally keep most pest populations below damaging
-thresholds. IPM provides a structured decision-making framework for when
-natural balances are not enough.
-
-### Step 1: Monitoring and Identification
-The IPM process begins with monitoring and identification. Regular scouting of
-the garden, at least once or twice weekly, allows you to detect pest problems
-early when they are easiest to manage. Proper identification is critical
-because many insects found in gardens are beneficial predators or parasitoids,
-not pests. The [[solomon-insects-diseases-pest-management]] approach emphasizes
+[[solomon-insects-diseases-pest-management]] approach emphasizes
 that misidentification leads to unnecessary treatments that kill the very
 allies you need. Yellow sticky traps, pitfall traps, and simple visual
 inspection with a hand lens are effective monitoring tools. Keep a garden
@@ -53,10 +41,7 @@ be considered the foundation of any organic garden.
 ### Step 3: Biological Control
 Biological control is the backbone of organic IPM. This means creating
 conditions that favor the natural enemies of pest insects. The
-[[beneficial-insects-guide]] catalogs the key predators and parasitoids that
-every organic gardener should recognize and support. Ladybugs, lacewings,
-hover flies, predatory mites, ground beetles, and parasitic wasps collectively
-provide broad-spectrum pest suppression. Creating [[beneficial-insect-habitat]]
+[[beneficial-insect-habitat]]
 with diverse flowering plants, undisturbed ground areas, water sources, and
 shelter belts ensures these allies remain present and active in the garden
 ecosystem throughout the growing season.
@@ -66,20 +51,7 @@ Companion planting and trap cropping are cultural IPM strategies that
 manipulate insect behavior. Certain plant combinations repel pest insects or
 mask host plant odors, while trap crops like nasturtiums for aphids or blue
 Hubbard squash for squash bugs draw pests away from the main crop. The
-[[trap-cropping]] technique involves planting the trap crop at the perimeter of
-the garden or intercropping it with the main crop, then monitoring the trap
-crop for pest concentrations and treating only that area. Mechanical controls
-include hand-picking large insects, using row covers to exclude pests during
-vulnerable growth stages, applying diatomaceous earth as a physical barrier
-against soft-bodied insects, and using water sprays to dislodge aphids and
-mites.
-
-### Step 5: Organic Pesticides as Last Resort
-Organic pesticides are the last resort in an IPM program, used only when pest
-populations exceed established action thresholds and other methods have failed.
-Products like neem oil, insecticidal soap, Bacillus thuringiensis (Bt), and
-spinosad are approved for organic use but are still broad-spectrum to varying
-degrees. The [[beneficial-insects-cannabis]] approach demonstrates that even in
+[[beneficial-insects-cannabis]] approach demonstrates that even in
 high-value crops, organic sprays should be applied with precision, targeting
 specific pest hotspots rather than blanket-spraying the entire garden, and
 always applied in the evening when bees are inactive and beneficial insects
@@ -106,21 +78,12 @@ one of the most valuable assets a gardener can develop.
 ## Key Points
 - IPM follows a hierarchy: monitor and identify, prevent, use biological
   controls, apply mechanical methods, and only then consider organic sprays
-- [[beneficial-insects-guide]] covers the key predators and parasitoids that
-  provide natural pest suppression in organic gardens
 - [[trap-cropping]] diverts pests to sacrificial plants, reducing damage to
   your main crop with minimal intervention
 - Proper pest identification is essential because many garden insects are
   beneficial allies, not enemies
-- [[solomon-pest-management-without-chemicals]] emphasizes that pest problems
-  reflect ecosystem imbalances that cultural practices can correct
-
-## Related
-
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]
 
-- [[organic-greenhouse-pest-management]] Questions
 - [[query-how-to-control-pests-without-chemicals]]
-- [[query-what-is-companion-planting-and-how-does-it-work]]
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]

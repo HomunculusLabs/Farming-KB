@@ -134,9 +134,6 @@ Several religions use these plants as sacraments within the United States:
 
 ## See Also
 
-- ayahuasca
 - [[psilocybe-cubensis]]
-- [[mescaline-entity]]
 - [[salvinorin-a-entity]]
-- [[anticholinergic-hallucinogenic-plants]]
 - [[gaian-psychotherapy-and-entheogenic-plants]]

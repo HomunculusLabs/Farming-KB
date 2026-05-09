@@ -18,34 +18,7 @@ type: concept
 
 # Baby Leaf Salad Mix Quality Standards and Composition
 
-Baby-leaf salad mix (mesclun) is the signature crop of the winter harvest system. [[eliot-coleman]]'s approach to salad mix production emphasizes quality above all else, treating it as a premium product that commands premium prices through meticulous attention to ingredient selection, leaf size, flavor balance, and presentation.
-
-## Nutritional Superiority
-
-The salad blend grown at Four Season Farm contains dramatically higher nutrient levels than conventional head lettuce. Based on USDA nutritional data, the mix contains at least five times more calcium, four times more iron, twelve times more vitamin A, and six times more vitamin C than a salad made from head lettuce alone. This nutritional density results from the diversity of ingredients and the stress of cool growing conditions, which concentrate nutrients in the leaves.
-
-## Mix Composition
-
-The standard winter salad mix includes the following ingredients, all chosen for natural cold-hardiness and complementary flavors:
-
-- Red lettuces (various oak-leaf and other types)
-- Green lettuces (butterhead, crisp, and other varieties)
-- Broadleaf arugula
-- Sylvetta arugula (wild arugula)
-- Endive, specifically the cultivar 'Indivia Bianca Riccia da Taglio' (white curly endive for cutting), sold by Johnny's Selected Seeds as 'Bianca Riccia'
-- Narrow-stem chard (harvested young and sold as "butter chard")
-- Claytonia (miner's lettuce)
-- Minutina
-- Spinach
-- Mache (corn salad)
-- Watercress
-- Beet leaves, specifically 'Bull's Blood' for its deep maroon color
-
-## The Mild Flavor Philosophy
-
-A defining characteristic of the Four Season Farm salad mix is its deliberate exclusion of mustard-flavored oriental greens. Coleman found that his customers consistently preferred a milder salad without the sharp mustard tang that many mesclun mixes include. Many parents reported that this was the only mixed salad their children would eat, specifically because of the milder, cool-weather flavors of the ingredients.
-
-The hardy oriental greens are grown separately and sold as a braising mix (see [[coleman-salad-and-braising-mix-production]]), rather than being incorporated into the raw salad. This separation allows each product to serve its best culinary purpose and each group of greens to reach its peak quality for its intended use.
+Baby-leaf salad mix (mesclun) is the signature crop of the winter harvest system. [[coleman-salad-and-braising-mix-production]]), rather than being incorporated into the raw salad. This separation allows each product to serve its best culinary purpose and each group of greens to reach its peak quality for its intended use.
 
 ## Leaf Size Standards
 
@@ -137,5 +110,8 @@ This commitment to continuous improvement reflects the broader philosophy that t
 
 ## See Also
 
-- [[coleman-post-harvest-handling-and-storage]]
 - [[coleman-winter-greens-variety-selection]]
+
+## See Also
+
+- [[coleman-deep-organic-farming]]

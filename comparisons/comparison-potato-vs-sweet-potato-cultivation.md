@@ -138,12 +138,9 @@ Potatoes (*Solanum tuberosum*) and sweet potatoes (*Ipomoea batatas*) are both w
 ## Permaculture and Companion Planting
 
 | Aspect | Potato | Sweet Potato |
-|---|---|---|
 ## See Also
 
 - [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- [[grain-and-staple-crops]]
 - [[mollison-designers-companion-planting-charts-and-principles]]
-- [[hamilton-crop-rotation-and-vegetable-planning]]
 - [[query-how-to-transition-from-conventional-to-no-till-farming]]
 - oca oxalis tuberosa cultivation and uses

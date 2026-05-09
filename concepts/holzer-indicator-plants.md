@@ -45,7 +45,7 @@ Sepp Holzer uses indicator plants to assess soil conditions without laboratory t
 ### High Nitrogen Soil
 
 - **Broad-leaved dock** (Rumex obtusifolius)
-- **Stinging nettles** ([[urtica-dioica]])
+- **Stinging nettles** (Urtica dioica)
 - **Orache** (Atriplex patula)
 
 These nitrogen indicators signal overfertilisation or overly intensive pasture management.
@@ -54,25 +54,27 @@ These nitrogen indicators signal overfertilisation or overly intensive pasture m
 
 Holzer surveys land by digging test trenches in different areas. Soil can vary greatly within as little as 10-20 metres. The indicator plants present reveal what the soil needs — whether to add green manure, improve drainage, address compaction, or balance pH. The appearance of certain plants is treated as useful information rather than a problem to be eradicated. Understanding why a particular plant thrives in a location guides the corrective action needed.
 
-## Practical Use
-This topic is best evaluated in context: climate, available materials, labor,
-water access, and the surrounding ecological community all influence whether it
-is useful on a working site. Small trials reduce risk and make local adaptation
-visible before larger investments are made.
-
-## Observation Points
-Track seasonal timing, moisture, plant or fungal response, pest pressure, and
-maintenance needs. Notes across several cycles are more reliable than a single
-observation because many biological systems respond slowly or episodically.
-
-## Integration
-The strongest applications usually connect several functions at once, such as
-soil improvement, habitat creation, water moderation, yield, and education. If a
-practice only solves one problem while creating new maintenance burdens, it
-should be redesigned or kept experimental.
-
 ## Related
 
 - [[sepp-holzer-method]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
+- [[holzer-raised-bed-design]]
 - [[vermicomposting]]
+## Practical Considerations
+
+Successful implementation of Holzer Indicator Plants requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

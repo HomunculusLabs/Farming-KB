@@ -76,13 +76,8 @@ These fungus-growing symbioses illustrate:
 
 ## See Also
 
-- [[escovopsis-parasitic-fungi-attine-ant-gardens]]
-
 - [[insect-arthropod-associated-fungi]]
-- [[fungicolous-fungi-parasites-associates]]
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
-- [[biofertilizers-and-soil-inoculants]]
 - [[fungicolous-fungi-cultivated-mushroom-diseases]]
-- [[saprobic-soil-fungi-ecology-survey]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
 - [[symbiotic-fungi-lichen-symbiosis-agriculture]]

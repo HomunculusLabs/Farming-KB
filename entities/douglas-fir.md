@@ -123,15 +123,8 @@ treating the tree as an isolated crop.
 
 ## Related Concepts
 
-- [[ectomycorrhizal-host-tree-partnerships]]
 - [[mycorrhizal-networks-common-mycelial-network]]
-- [[wood-wide-web]]
 - [[mycorrhizal-mushrooms-forest-partnerships-stamets]]
-- [[permaculture-woodlot-management]]
-
-## See Also
-
 - [[ectomycorrhizal-fungal-ecology]]
-- [[chanterelle-guide]]
 - [[mycoforestry-principles-stamets]]
 - [[fungal-pathogens-ecosystems]]

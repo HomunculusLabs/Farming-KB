@@ -121,16 +121,9 @@ This compounding effect means that as genetic complexity increases, the probabil
 - Mathematical shortcuts allow breeders to predict outcomes across multiple generations.
 - The polygenic nature of real cannabis traits means breeding success rates compound negatively with each additional gene pair.
 - Decimal notation simplifies complex multi-generational gene frequency calculations.
-- [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[cannabis-true-breeding-ibl-strains]]
-- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-phenotype-and-genotype-guide]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
-
-## See Also
-
 - [[cannabis-chromosomes-and-mendelian-inheritance]]
 
-- [[vic-high-backcrossing-and-inbreeding-techniques]]
 - [[vic-high-cannabis-polyhybrid-crosses-and-f1-stability]]
 - [[vic-high-selfing-and-regular-seed-production]]

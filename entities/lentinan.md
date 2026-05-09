@@ -78,14 +78,7 @@ immunomodulators. Its clinical success validated the concept that
 fungal polysaccharides could serve as safe, effective cancer
 adjuvants. As a T-cell oriented immunopotentiator, it established
 the immunological framework that guided subsequent development of
-[[schizophyllan]], PSK, PSP, and Grifron-D. Lentinan remains the
-reference compound against which new mushroom polysaccharides
-are evaluated.
-
-## See Also
-- [[lentinula-edodes]]
+[[lentinula-edodes]]
 - Schizophyllan
-- [[psk-polysaccharide-krestin]]
-- PSP
 - [[beta-glucans]]
 - [[chaga-inonotus-obliquus-medicinal-profile]]

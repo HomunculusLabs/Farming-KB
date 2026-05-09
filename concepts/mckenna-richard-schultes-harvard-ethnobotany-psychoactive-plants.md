@@ -128,8 +128,6 @@ deforestation, missionary activity, and cultural assimilation.
 
 ## See Also
 
-- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]] - Schultes in Mexico
 - [[mckenna-amazon-shamanism-and-ayahuasca]] - Amazonian shamanic practices
-- [[mckenna-food-gods-leary-harvard-psilocybin-project]] - Leary at Harvard
 - [[mckenna-dmt-amazonian-ecosystems]] - DMT in the Amazon
 - [[mckenna-four-families-of-indole-hallucinogens]] - Schultes's classification work

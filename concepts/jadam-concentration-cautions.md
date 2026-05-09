@@ -114,11 +114,7 @@ Any material, when abused, will cause concentration stress. This is the most imp
 
 ## See Also
 
-- [[jadam-pesticide-mixing-guidelines]] - Detailed mixing protocol
 - [[jadam-natural-pesticide-jnp]] - JNP system overview
-- [[jadam-wetting-agent-jwa]] - JWA making guide
 - [[jadam-sulfur-js]] - JS making guide
-- [[jadam-herb-solution-jhs]] - JHS making guide
 - [[jadam-making-organic-farming-inputs]]
-- [[jadam-natural-vs-chemical-pesticide]]
 - [[jadam-water-quality-pesticide]]

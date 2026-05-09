@@ -128,12 +128,8 @@ the need for long-term storage.
 
 ## See Also
 
-- [[permplant-persimmon-diospyros-kaki-fruit-tree]]
-
 - [[permplant-fig-ficus-carica-fruit-tree]]
 
-- [[hamilton-organic-fruit-growing]]
 - [[hamilton-pruning-and-training-fruit-trees]]
-- [[hamilton-soft-fruit-cultivation]]
 - [[fruit-tree-pruning-training-hamilton]]
 - [[fruit-growing-guide-organic]]

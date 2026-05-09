@@ -107,15 +107,9 @@ Spanish chroniclers documented yacon cultivation in the 16th century. The specie
 
 ## See Also
 
-- [[moringa-oleifera]]
 - [[helianthus-tuberosus]]
-- [[apios-americana]]
 - [[ullucus-tuberosus]]
-- [[tropaeolum-majus]]
 - [[verbascum-thapsus]]
-- [[taraxacum-officinale]]
-- [[achillea-millefolium]]
 - [[stropharia-rugosoannulata]]
-- [[symphytum-officinale]]
 - [[urtica-dioica]]
 - [[medicago-sativa]]

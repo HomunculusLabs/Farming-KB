@@ -30,12 +30,7 @@ spontaneously on the surface of agar culture media, without
 any deliberate environmental triggering by the cultivator.
 Their formation indicates that the mycelium has reached a
 state of developmental maturity sufficient to initiate
-the [[growing-gourmet-primordia-formation-pinning]].
-This is a promising sign for strain evaluation.
-
-The cultivator plays an active role in developing strains by
-physically selecting those which look "good." Integral to the
-success of the [[growing-gourmet-mushroom-life-cycle]]
+the [[growing-gourmet-mushroom-life-cycle]]
 is the mycelial path leading to primordia formation. To this
 end, the mushroom and the cultivator share common goals.
 
@@ -54,80 +49,42 @@ include:
   - Coprinus comatus (Shaggy Mane)
   - Hypholoma capnoides (Clustered Woodlover)
   - Hypholoma sublateritium (Kuritake)
-  - [[psilocybe-cubensis]]
-  - Morchella species (Morels)
-  - Hericium erinaceus (Lion's Mane)
-
-## The Disturbance Response
-
-Several mushroom species have mycelial networks which,
-when disturbed at [[growing-gourmet-primordia-formation-pinning]],
+  - [[growing-gourmet-primordia-formation-pinning]],
 result in a quantum leap in the vigor of growth and in the
 number of subsequently forming primordia. With most strains,
 however, the damaged primordia revert to vegetative growth.
 
 Species that benefit from the timely disturbance of
 developing primordia are excellent candidates for
-[[growing-gourmet-liquid-inoculation-fermentation]]
-techniques. The disturbance response is central to why these
-species perform well when their mycelium is fragmented in a
-blender for liquid culture expansion.
-
-## Using Volunteer Primordia for Strain Evaluation
-
-The ability to give rise to volunteer primordia on
 [[growing-gourmet-nutrified-agar-media]],
 once characteristic of a strain, can serve as a benchmark
 for [[growing-gourmet-strain-senescence-degeneration]].
-When this ability declines or disappears entirely, it is a
-warning sign of [[growing-gourmet-strain-senescence-degeneration]].
 Speed of growth decelerates. If not entirely dying out, the
 strain is reduced to an anemic state of slow growth,
 eventually incapable of fruiting.
 
-For [[growing-gourmet-strain-evaluation-28-features]],
-the presence of volunteer primordia indicates:
-  - Genetic readiness for fruiting
-  - Good overall health and vigor
-  - Suitability for liquid inoculation techniques
-  - Potential for accelerated production cycles
-
-## Hyphal Aggregates as Precursors
-
-Hyphal aggregates, cottony ball-like or shelf-like
-structures on the mycelial surface, are favorable formations
-when selecting rapidly fruiting strains. Hyphal aggregates
-often evolve into primordia, the youngest visible stages of
-mushroom formation. Marasmius oreades, the Fairy Ring
-mushroom, and Shiitake (Lentinula edodes) are known for
-producing abundant hyphal aggregates.
-
-## Morel Sclerotia on Agar
-
-Morel mycelium produces dense, spherical formations called
-sclerotia on agar media. These sclerotia can be brightly
-colored and abundant, as is typical of many strains of
-Morchella angusticeps, or dull colored and sparse, like
-those of Morchella esculenta and Morchella crassipes.
-Sclerotia formation on agar is a positive indicator for
-Morel cultivation potential.
-
-## Unique Asexual Structures
-
-Some mushroom mycelia generate asexual structures called
-coremia (broom-like bundles of spores) which resemble black
-mold contaminants. These peculiar formations typify
-Pleurotus cystidiosus, Pleurotus abalonus, and Pleurotus
-smithii. A cultivator unfamiliar with these species' dimorphic
-life cycles may mistake coremia for contamination and discard
-valuable cultures.
-
-## The Button Mushroom Exception
-
-As a group, those strains needing bacteria to fruit do not
-form primordia on sterile media. The [[growing-gourmet-button-mushroom-agaricus-cultivation]]
+For [[growing-gourmet-button-mushroom-agaricus-cultivation]]
 (Agaricus bisporus) is the classic example, requiring
 specific bacterial partners in the casing layer to trigger
 primordia formation. This is an important consideration
 when evaluating candidate strains for cultivation potential
 based solely on agar culture performance.
+## Practical Considerations
+
+Successful implementation of Volunteer Primordia Formation on Agar Media requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

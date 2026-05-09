@@ -18,8 +18,7 @@ type: concept
 
 ## Overview
 
-The growth sequence of [[grifola-frondosa]] (maitake) consists of spawn
-run, primordia initiation, and [[fruiting-body-development]]. Growth and
+The growth sequence of [[fruiting-body-development]]. Growth and
 differentiation are continuous processes where each stage merges into the
 next. Several distinct morphological stages are recognizable in typical
 G. frondosa strains during fruiting body development.
@@ -45,15 +44,7 @@ period of metabolic activities.
    These cause discoloration of the previously white mycelia.
 
 4. **Surface mycelial coat formation** -- Toward the later stage of
-   the spawn run, tighter [[mycelial-growth-and-colonization]] at the substrate surface
-   produces a distinct surface mycelial coat. This coat should not be
-   grayish brown or excessively thick.
-
-5. **Uneven topography** -- The mycelial surface becomes uneven with
-   grayish amorphous mass forming, signaling the approach of
-   primordia initiation.
-
-6. **[[mushroom-primordia-formation-triggers]]** -- By approximately 40-42 days, grayish
+   the spawn run, tighter [[mushroom-primordia-formation-triggers]]** -- By approximately 40-42 days, grayish
    primordia reaching 2.54 to 5.08 cm in diameter form on the
    substrate surface within the closed bag.
 
@@ -95,32 +86,7 @@ As the mushroom continues to grow, overlapping fan-shaped caps develop
 along the elongated stems, creating the cluster flower stage. The
 mushroom color becomes progressively lighter during the intricate
 morphogenesis from the dark grayish-black primordia. Depending on the
-strain, [[maitake-mushroom-research]]s at this stage are light gray, grayish white,
-or light brownish yellow. This is the mature fruiting cluster stage.
-
-## Color Progression Through Morphogenesis
-
-The color transformation across morphogenetic stages follows a
-consistent pattern:
-
-- **Primordia**: Dark gray to grayish black
-- **Brain stage**: Dark grayish black with convoluted folds
-- **Cauliflower stage**: Lighter, almost white
-- **Cluster flower stage**: Light gray, grayish white, or light
-  brownish yellow (strain-dependent)
-
-## Key Morphological Features of Mature Maitake
-
-Maitake produces large fruiting clusters with short, chunky, highly
-branched stems and numerous overlapping caps. The species is highly
-aerobic and considerably larger than most cultivated mushrooms, which
-directly influences its morphogenetic requirements and the environmental
-parameters needed at each developmental stage.
-
-## References
-
-Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation
-of [[medicinal-mushroom-compound-extraction]] Grifola frondosa (Maitake). International
+strain, [[medicinal-mushroom-compound-extraction]] Grifola frondosa (Maitake). International
 Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
 
 ## See Also

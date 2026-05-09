@@ -33,77 +33,10 @@ poorly represented in genetic databases due to the scarcity of collected
 specimens. The specific epithet "cyanopoda" refers to the bluish staining
 characteristic observed on the stipe (stem), a trait shared with many
 psilocybin-containing fungi and often correlated with the presence of
-[[psilocin]] and related oxidative pigments.
-The Bolbitiaceae as a family contains several genera with psychoactive
-representatives, including both Pholiotina and Conocybe. This
-distribution pattern suggests that the biosynthetic pathway for psilocybin
-production may have evolved once in a common ancestor and been retained in some
-lineages while lost in others.
-## Morphology
-### Cap (Pileus)
-The cap of Pholiotina cyanopoda is small, typically ranging from 5 to 20 mm
-in diameter, placing it among the smaller psilocybin-containing agarics. It is
-convex to campanulate (bell-shaped) when young, expanding to plano-convex or
-broadly umbonate with age. The cap surface is distinctly hygrophanous,
-changing color noticeably as it dries. When moist, the cap is ochraceous to
-cinnamon-brown; as it dries, it fades to a lighter tan or straw color, often
-with a darker disc at the center. The margin is often translucently striate
-when moist. The surface texture is smooth to slightly wrinkled or
-appressed-fibrillose.
-### Gills (Lamellae)
-The gills are adnexed to narrowly adnate, moderately crowded, and may show
-partial bluish discoloration with age or upon bruising. They are initially
-pale grayish to cream, developing a darker cinnamon-brown to tobacco-brown
-color as spores mature. The gill edges are typically fringed and noticeably
-lighter in color than the gill faces, a feature that aids in identification
-when viewed with a hand lens. The partial veil is thin and fibrillose, often
-leaving a fugacious annular zone on the stipe that is quickly lost.
-### Stipe (Stem)
-The stipe is slender, fragile, and hollow, ranging from 20 to 60 mm in length
-and 1 to 2 mm in thickness. It is equal to slightly enlarged at the base.
-The surface is smooth, silky-fibrillose, and may exhibit a distinctive
-bluish discoloration, especially near the base or when handled. This bluing
-reaction is not always immediately apparent and may develop gradually after
-bruising. The stipe lacks a persistent annulus, though a fragile, evanescent
-ring zone may be present in young specimens. The stipe context is thin and
-fragile, with the bluish coloration sometimes visible within the stem tissue
-when cut longitudinally.
-### Spores and Microscopic Features
-Basidiospores are ellipsoid to somewhat amygdaliform (almond-shaped) in face
-view, with a slight apical germ pore, measuring approximately 8 to 12 um by 5
-to 7 um. They have a moderately thickened wall. Spore print color is rusty
-brown to dark sepia, typical of the Bolbitiaceae. Basidia are typically
-four-spored, clavate, and measure 15 to 20 um. Cheilocystidia are numerous,
-varied in shape from ventricose to lageniform, and are a key feature for
-microscopic identification. Pleurocystidia may be present or absent depending
-on the specimen.
-## Distribution and Habitat
-Pholiotina cyanopoda has been documented primarily in tropical and subtropical
-regions, though the full extent of its range is unknown due to the rarity of
-collections. It is a coprophilous (dung-inhabiting) species, commonly found
-growing on herbivore dung, particularly in pastures, grasslands, and
-agricultural areas. The species has been reported from the dung of cattle,
-horses, and other large herbivores in warm, humid environments. Fruiting
-occurs during warm, wet periods following rainfall, typically in summer and
-early autumn in subtropical regions.
-The coprophilous ecology of P. cyanopoda is shared with many other
-psilocybin-containing species, including [[panaeolus-cyanescens]],
-[[psilocybe-coprophila]], and several Conocybe species. This ecological
-convergence may reflect selective advantages of psilocybin production in
-environments with high invertebrate grazing pressure.
-## Chemistry and Bioactive Compounds
-Pholiotina cyanopoda has been reported to contain [[psilocybin-compound]] and possibly
-[[psilocin]], the principal indole alkaloids responsible for its psychoactive
-properties. Analytical data is limited due to the scarcity of collected
-specimens, and most reports are based on thin-layer chromatography (TLC)
-screening rather than quantitative analysis. The bluish staining reaction
-observed in this species is often correlated with the presence of psilocybin
-and psilocin, as the oxidative dephosphorylation of psilocybin to psilocin
-and subsequent oxidation products produce blue pigments.
-The concentration of active compounds in P. cyanopoda is believed to be low
-to moderate compared to more well-known species like [[psilocybe-cubensis]] or
-[[psilocybe-cyanescens]], though quantitative analyses are rare. Related
-species in the Bolbitiaceae, such as [[conocybe-cyanopus]] and Conocybe
+[[panaeolus-cyanescens-entity]],
+[[psilocybin]] and possibly
+[[psilocybe-cubensis]] or
+[[conocybe-cyanopus]] and Conocybe
 kuehneriana, have demonstrated measurable psilocybin content ranging from
 trace amounts to approximately 0.1 to 0.5% of dry weight.
 ## Similar Species
@@ -118,8 +51,65 @@ restrictions in many jurisdictions where psilocybin mushrooms are controlled
 substances. Enforcement is unlikely due to its rarity and difficulty of
 identification.
 ## See Also
-- [[pholiotina-filaris-profile]]
 - [[conocybe-cyanopus]] — a closely related psilocybin-containing species
-- [[conocybe-kuehneriana]] — another bluing Conocybe species with confirmed psilocybin
-- [[psilocybin-compound]] — the primary psychoactive compound found in this species
-- [[panaeolus-cyanescens]] — a commonly encountered coprophilous psychoactive species
+- [[psilocybin]] — the primary psychoactive compound found in this species
+- [[panaeolus-cyanescens-entity]] — a commonly encountered coprophilous psychoactive species
+## Practical Considerations
+
+When working with Pholiotina cyanopoda, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

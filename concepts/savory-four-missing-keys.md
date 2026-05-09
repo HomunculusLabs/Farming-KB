@@ -126,8 +126,6 @@ environmental deterioration of the past centuries.
 
 ## Related Concepts
 
-- [[savory-holistic-management-overview]]
 - [[savory-brittleness-scale]]
-- [[savory-brittle-environments]]
 - [[savory-predator-prey-and-herding-behavior]]
 - [[savory-overgrazing-vs-overrest]]

@@ -18,7 +18,7 @@ Nematodes are nonsegmented, blind roundworms that are the second most dominant f
 
 ### Bacterial-Feeding Nematodes (Bacterivores)
 
-Equipped with hollow tube mouthparts, these nematodes consume multitudes of bacteria per hour. They mineralize the nutrients held in bacterial bodies, releasing them (especially nitrogen as ammonium) into the rhizosphere. They release more nitrogen than protozoa do because nematodes need less nitrogen for their own metabolism. They are crucial [[composting-and-soil-biology|nitrogen cyclers]].
+Equipped with hollow tube mouthparts, these nematodes consume multitudes of bacteria per hour. They mineralize the nutrients held in bacterial bodies, releasing them (especially nitrogen as ammonium) into the rhizosphere. They release more nitrogen than protozoa do because nematodes need less nitrogen for their own metabolism. They are crucial [[nitrogen-cycle-in-soil|nitrogen cyclers]].
 
 ### Fungal-Feeding Nematodes (Fungivores)
 
@@ -91,6 +91,6 @@ Nematodes serve multiple critical functions:
 
 - [[soil-food-web-structure]]
 - [[protozoa-in-soil]]
-- [[composting-and-soil-biology]]
+- [[nitrogen-cycle-in-soil]]
 - [[bacterial-vs-fungal-soil]]
 - [[root-exudates]]

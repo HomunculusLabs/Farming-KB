@@ -4,11 +4,12 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 # Growing Brassicas Organically
 
-The cabbage family (Brassica oleracea) includes cabbages, broccoli, cauliflower, Brussels sprouts, kale, and kohlrabi. They are among the most important winter vegetables but are also the most vulnerable to pests and diseases, making careful management essential for organic [[container-growing-vegetables-herbs]] [[growing-alliums-organically]] growers.
+The cabbage family (Brassica oleracea) includes cabbages, broccoli, cauliflower, Brussels sprouts, kale, and kohlrabi. They are among the most important winter vegetables but are also the most vulnerable to pests and diseases, making careful management essential for organic [[growing-alliums-organically]] growers.
 
 ## Soil and Site
 
@@ -116,8 +117,6 @@ Brassicas are heavy feeders, particularly nitrogen-demanding. In organic systems
 ## Related
 
 - [[vegetable-growing-guide]] for general vegetable cultivation
-- [[hamilton-organic-pest-control]] for pest and disease management
 - [[cover-cropping-guide]] for rotation planning
-- [[seed-starting-methods-comparison]]
 - [[knf-pest-control-and-soap-water]]
 - [[green-manure-cover-crops]]

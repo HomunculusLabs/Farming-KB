@@ -109,8 +109,6 @@ It IS possible to dehybridize a variety through selection:
 
 Solomon presents an insight from Dr. Alan Kapuler: modern OP varieties (bred after ~1870) are not necessarily as nutritious or tasty as old-fashioned heirlooms. Historically, each family raised unique varieties selected over generations for their family's needs, tastes, and soil. The nutritional quality varied between varieties. Families with more nutritious crops had better child survival — a form of natural selection for nutritional quality that was lost when commercial seed production replaced family seed saving.
 
-See also: [[seed-saving-techniques]], [[seed-saving-vegetables]], [[seed-quality-and-selection-solomon]], [[seed-selection-breeding-holzer]]
-- [[solomon-growing-garlic-onions-leeks]]
+See also: [[seed-saving-vegetables]], [[seed-selection-breeding-holzer]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[holzer-stone-fruit-varieties-and-growing]]
 - [[solomon-gardening-when-it-counts-index]]

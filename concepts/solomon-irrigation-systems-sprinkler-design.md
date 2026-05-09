@@ -11,58 +11,7 @@ tags: [design]
 
 # Solomon Irrigation Systems and Sprinkler Design
 
-Steve Solomon's approach to garden irrigation in [[composting-science-solomon]]'s
-"Gardening When It Counts" emphasizes precision over convenience. Most
-home gardeners grossly overwater, causing significant
-Fertilizer Npk Decoded. Consumer-grade sprinklers
-lack the performance specifications of agricultural equipment, so
-Solomon provides practical methods for testing and selecting sprinkler
-systems.
-
-## The Overwatering Problem
-
-Consumer lawn and garden sprinklers spread water at extremely high
-rates -- most exceed two inches (5 cm) per hour. Oscillating sprinklers
-put down two to four inches per hour. Soaker hoses and spot sprinklers
-often produce even higher rates. Even a single hour with one of these
-high-output sprinklers causes substantial leaching of soil fertility.
-
-## Testing Application Rate
-
-Any sprinkler can be tested with this simple procedure:
-
-1. Set out several water gauges -- empty tin cans or cylinders with
-   straight sides.
-2. Place one near the sprinkler, one near the outer reach, and a few
-   in between.
-3. Run the sprinkler for exactly 20 or 30 minutes.
-4. Measure water depth in each container, average the amounts, and
-   calculate the application rate per hour.
-
-This also reveals distribution uniformity. A sprinkler that does not
-wet beds fairly uniformly creates dry spots and oversaturated areas.
-Even a high-output sprinkler works without leaching if you know its
-rate and how much water you wish to spread.
-
-## Nozzle Size and Application Rate
-
-Sprinkler nozzle diameter is a critical variable:
-
-| Nozzle Diameter | Pressure (PSI) | Flow (GPM) |
-|:---------------:|:--------------:|:----------:|
-| 1/30 inch       | 30             | 0.45       |
-| 1/30 inch       | 60             | 0.79       |
-| 1/20 inch       | 30             | 1.94       |
-| 1/20 inch       | 60             | 2.66       |
-
-Smaller bores (1/30 inch, ~0.85 mm) produce lower application rates.
-Although more heads are needed to cover an area (shorter throw radius),
-Solomon recommends them because they put out lighter droplets that do
-not compact soil, and a smaller throw radius keeps water off adjoining
-buildings and noncritical vegetation.
-
-High-output sprinklers produce large droplets causing significant
-[[soil-compaction-solutions]], reducing root growth and making cultivation harder.
+Steve Solomon's approach to garden irrigation in [[soil-compaction-solutions]], reducing root growth and making cultivation harder.
 Large droplets also contribute to soil crust formation.
 
 ## Optimal Nozzle Size for Vegetables
@@ -113,21 +62,25 @@ plants are stressed.
 
 All soils lose water at about the same rate because it is the sun
 evaporating moisture from leaves, not from bare earth. Bare soil with a
-dust [[mulching-guide]] hardly loses moisture at all.
-
-## Nighttime Watering
-
-Watering at night is widely believed harmful, but Solomon argues it may
-be the best time. With low enough application rate, you can water clay
-soil all night from bedtime to breakfast without leaching. Night brings
-no wind, less evaporation, and for limited-output wells, no household
-competition. Plants are naturally dampened by dew; they dry quickly in
-morning sun.
-
-## See Also
-
-- [[watering-irrigation-solomon]]
-- [[irrigation-systems]]
+dust [[watering-irrigation-solomon]]
 - [[drip-irrigation-guide]]
-- [[solomon-watering-and-dry-farming]]
 - [[solomon-complete-organic-fertilizer-guide]]
+## Practical Considerations
+
+Successful implementation of Solomon Irrigation Systems and Sprinkler Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -11,46 +11,7 @@ tags: [culture, permaculture, species]
 Selecting the right plants for urban permaculture requires understanding which
 species perform multiple functions, tolerate urban conditions, and fit into
 small-space polyculture systems. The species listed here are drawn from Bill
-Mollison's comprehensive [[permaculture-plant-catalog]], with emphasis on those
-particularly suited to city and suburban environments.
-## Selection Criteria for Urban Sites
-
-Urban growing conditions differ significantly from rural or rural permaculture
-sites. Key considerations include:
-- Limited space requiring multi-functional species
-- Shading from buildings requiring shade-tolerant plants
-- Reflected heat from pavement and walls
-- Potential soil contamination requiring testing and remediation
-- Wind tunnel effects between buildings
-- Limited water access in some locations
-- Need for ornamental value alongside food production
-## Multi-Functional Trees for Small Yards
-
-### Front Yard Edibles
-
-Trees that produce food while serving ornamental functions include:
-- Persimmon (Diospyros kaki) -- winter fruit, spectacular red fruits on
-  leafless tree, autumn color
-- Nasturtium -- edible leaves, flowers, and pickled seeds; companion plant
-- Almond -- ornamental blossoms, storable nuts
-- Kale -- ornamental foliage, nutritious greens
-- Currant -- attractive berries, shade tolerant
-- Peach -- spring blossoms, summer fruit
-### Canopy Trees
-
-- Mulberry (Morus spp.) -- shade tolerant, excellent poultry and pig forage,
-  numerous fruits that fall easily, useful wood
-- Fig (Ficus carica) -- deciduous shade, fresh or dried fruit, chicken and pig
-  forage, mulch from autumn leaves
-- Loquat (Eriobotrya japonica) -- evergreen, spring fruit, medium understorey
-  tree, poultry fodder
-- Olive (Olea europaea) -- long-lived (up to 700 years), evergreen shelter,
-  fruit and oil production
-### Nitrogen-Fixing Trees
-
-- Black locust (Robinia pseudoacacia) -- hardy, nitrogen-fixing, fence posts
-  and firewood, bee forage
-- [[tagasaste]] (Chamaecytisus palmensis) -- drought tolerant, protein-rich fodder,
+Mollison's comprehensive [[tagasaste]] (Chamaecytisus palmensis) -- drought tolerant, protein-rich fodder,
   bee forage, excellent cut mulch, windbreak, nurse plant for frost-sensitive
   trees
 - Siberian pea shrub (Caragana spp.) -- very cold and wind hardy, poultry
@@ -70,28 +31,7 @@ Trees that produce food while serving ornamental functions include:
   from berries
 - Hawthorn (Crataegus spp.) -- tough, thorny, long-lived (100-300 years),
   hedgerow, wildlife habitat, bee forage
-- [[feijoa]] (Feijoa sellowiana) -- evergreen shrub, sweet edible flower petals,
-  fruit for conserves
-### Nitrogen-Fixing Shrubs
-
-- Tree medic (Medicago arborea) -- perennial leguminous shrub to 4m, foliage
-  equivalent to lucerne for fodder
-- Lespedeza (L. cuneata) -- perennial legume, high-value animal fodder, soil
-  improver
-- Pigeon pea (Cajanus cajan) -- woody shrub, quick-growing, food grain,
-  green manure, windbreak, shade for vegetables
-## Herbaceous Plants
-
-### Culinary Herbs
-
-- Rosemary -- drought tolerant, bee forage, ornamental, culinary
-- Sage -- bee forage, culinary, ornamental
-- Lavender -- ornamental hedge, excellent bee forage, powerful germicide and
-  insect repellent, medicinal
-- Lemongrass -- tea, Asian cooking, border plant, erosion control on slopes
-  when planted on contour
-- Fennel -- self-seeding, poor soils, insectary plant, culinary seeds and roots
-### [[dynamic-accumulators]] and Soil Builders
+- [[dynamic-accumulators]] and Soil Builders
 
 - Comfrey (Symphytum spp.) -- deep-rooted, mines potassium, excellent bee
   forage, stock fodder, nutrient-rich "manure tea," mulch material. Any part

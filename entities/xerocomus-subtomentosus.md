@@ -108,17 +108,9 @@ The broad host range of this species makes it a generalist mycorrhizal partner, 
 
 ## See Also
 
-- [[xerocomus-chrysenteron]]
-
 - [[boletus-edulis-entity]]
-- [[suillus-luteus]]
 - [[leccinum-scabrum]]
-- [[boletus-pinophilus]]
 - [[boletus-reticulatus]]
-- [[paxillus-involutus]]
 - [[lactarius-deliciosus]]
-- [[cantharellus-cibarius-entity]]
-- russula
 - [[mycorrhiza]]
-- [[trametes-versicolor]]
 - [[pleurotus-ostreatus]]

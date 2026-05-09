@@ -130,13 +130,8 @@ BRV at two milliliters, FPJ at two milliliters, LAB at one
 
 ## See Also
 
-- [[cho-nutritive-cycle-theory]]
 - [[cho-morning-sickness-and-plant-cross-over-period]]
-- [[cho-natural-farming-inputs-overview]]
 - [[cho-water-soluble-calcium-and-potassium]]
-- [[cho-brown-rice-vinegar-preparation]]
 - [[cho-oriental-herbal-nutrient-preparation]]
-- [[cho-fermented-plant-juice-preparation]]
 - [[cho-seawater-and-fermented-seawater]]
-- [[cho-lactic-acid-bacteria-preparation]]
 - [[natural-farming]]

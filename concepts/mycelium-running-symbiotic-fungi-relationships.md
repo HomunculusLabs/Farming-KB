@@ -105,22 +105,12 @@ Many species can shift between these roles depending on environmental conditions
 
 ## See Also
 
-- [[endophytic-fungi-plant-interactions]]
-
 - [[common-mycorrhizal-networks]]
-
-- [[arbuscular-mycorrhizal-fungi]]
 
 - [[ectomycorrhizal-ecology]]
 
-- [[soil-food-web-nutrient-cycling]]
-
 - [[fungal-community-ecology]]
-
-- [[soil-food-web-nutrient-cycling]]
 
 - [[mycorestoration-overview]]
 
-- [[mycoforestry-forest-restoration]]
-
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]

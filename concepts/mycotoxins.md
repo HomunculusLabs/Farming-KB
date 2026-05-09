@@ -31,38 +31,7 @@ They are organic molecules with a ring structure perfectly suited for
 reaction with the DNA double helix. When aflatoxins enter human cells,
 they bind to DNA molecules (creating an adduct) and cause serious
 genetic damage that can lead to liver cancer. These compounds are
-synthesized by two species of conidial fungi, *[[aspergillus-flavus]]* and
-*Aspergillus parasiticus*, whose spores are omnipresent in the
-environment.
-
-Traces of aflatoxins are present in corn, peanuts, peanut butter, milk,
-eggs, and meat. The fungi colonize crops during growth and after
-harvest, but growth is most prolific on plants damaged by insect
-activity or environmental stress. In heavily infested crops, each
-kilogram of material can contain up to 0.1 gram of fungus. The harmful
-organism becomes part of the harvest, and its toxins are incorporated
-into the food chain through consumption by livestock.
-
-## Turkey X Disease
-
-Research on aflatoxins began with a dramatic episode of animal
-suffering. In England in 1960, 100,000 turkeys died following loss of
-appetite, lethargy, and liver failure. Investigation revealed they had
-been fed aflatoxin-contaminated peanut meal, and the name "turkey X
-disease" was coined for the affliction. The economic loss was
-considerable, though the turkeys faced an unpleasant future with or
-without aflatoxins given their ultimate destination.
-
-If rats are fed aflatoxin doses equivalent to maximum human exposure,
-one in every 10,000 animals develops liver cancer. Circumstantial
-evidence suggests the same disease occurs in humans, though incidence
-in the United States is tenfold lower than rodent models predict.
-Rodents and humans react differently to the same toxins, complicating
-risk assessment based solely on animal studies.
-
-## Macrocyclic Trichothecenes
-
-*[[stachybotrys-chartarum]]*, the infamous "black mold," produces toxic
+synthesized by two species of conidial fungi, *[[stachybotrys-chartarum]]*, the infamous "black mold," produces toxic
 metabolites called macrocyclic trichothecenes that caused blood vessels
 to hemorrhage in the lungs of ten infants in Cleveland, Ohio, in 1993
 and 1994, one of whom died. Statistical analysis showed that pulmonary
@@ -101,42 +70,12 @@ fungal challenge of nitrogen shortage, as plant tissues yield sugar but negligib
 ## Ergotism
 
 Ergotism is a classic example of poisoning by food contaminated with a
-fungal microorganism. Caused by *[[claviceps-purpurea]]*, which infects
-cereals, the dramatic symptoms of ergotism include hallucinations,
-convulsions, and gangrene. While rare today due to grain screening,
-ergotism was widespread in the Middle Ages and may have been responsible
-for episodes of mass hysteria, including the Salem witch trials.
+fungal microorganism. Caused by *[[bloomfield-aspergillus-biology-and-aflatoxins]]
 
-## Coprine and Alcohol Interaction
-
-The common ink cap (*Coprinus atramentarius*) produces coprine, a toxin
-that blocks the metabolism of alcohol. When consumed with alcoholic
-beverages, coprine causes flushing, palpitations, nausea, and vomiting
-by causing abnormal accumulation of acetaldehyde. The symptoms are
-identical to those caused by the prescription drug disulfiram (Antabuse),
-used to treat alcoholism.
-
-## Mycotoxin-Producing Molds in Buildings
-
-Beyond *Stachybotrys*, other molds produce mycotoxins in indoor
-environments. Aspergillus and Penicillium species are common indoor
-contaminants that can synthesize a variety of toxic compounds.
-Melanized fungi including dematiaceous molds stain building surfaces and
-can cause respiratory illness in immunocompromised individuals. While
-most mold exposure in buildings does not pose serious health risks to
-healthy individuals, flooded or chronically damp buildings present the
-greatest danger.
-
-## See Also
-
-- [[bloomfield-aspergillus-biology-and-aflatoxins]]
-
-- [[mycotoxins-and-human-health]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
 
 - [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
-- [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
-- [[fungal-spore-biology]](fungal-spore-biology.md)
+- [Fungal Pathogens and Human Disease]([[fungal-spore-biology]](fungal-spore-biology.md)
 - [[mycelial-networks]](mycelium-network.md)
 
 ## References

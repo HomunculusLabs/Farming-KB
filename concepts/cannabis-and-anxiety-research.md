@@ -126,16 +126,9 @@ The clinical evidence for cannabis in anxiety is moderate, with a CHI value of 1
 
 ## Related Pages
 
-- [[cannabis-ocd-research]]
-
 - [[cannabis-ptsd-research]]
-
-- [[cannabis-and-depression-research]]
 
 - [[cannabis-insomnia-research]]
 
-- [[cannabis-and-add-adhd-research]]
-
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
 - [[cannabis-safety-profile-and-overdose-risk]]

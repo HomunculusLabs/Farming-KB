@@ -81,11 +81,7 @@ Several cannabis constituents may offer protective effects for the gastrointesti
 - Potential interactions with other GI medications should be discussed with a healthcare provider
 
 ## Related
-- [[cannabis-anti-inflammatory-applications]] -- anti-inflammatory mechanisms
 - [[cannabis-endocannabinoid-system]] -- receptor biology
-- [[cannabis-therapeutic-index-overview]] -- evidence framework
 - [[cannabis-for-cancer-patients]] -- cancer-related GI symptoms
-- [[cannabis-sleep-disorders]] -- sleep and GI health connection
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
 - [[cannabis-and-ibs-research]]

@@ -125,9 +125,6 @@ agriculture.
 
 ## See Also
 
-- [[urban-permaculture-design]]
 - [[faires-permaculture-soil-and-sheet-mulching]]
-- [[faires-soil-management-and-sheet-mulching]]
 - [[urban-permaculture-swales-raised-beds]]
-- [[urban-permaculture-productive-yards]]
 - [[urban-permaculture-nitrogen-fixing-green-manures]]

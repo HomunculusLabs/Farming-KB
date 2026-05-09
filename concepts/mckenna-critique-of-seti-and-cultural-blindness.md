@@ -121,8 +121,6 @@ orthodox science refuses to examine the data on its own terms.
 
 ## See Also
 
-- [[extraterrestrial-contact-and-dmt-experience]]
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
-- [[stropharia-cubensis-extraterrestrial-hypothesis]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
 - [[dmt-black-hole-effect-and-shamanic-practice]]

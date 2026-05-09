@@ -5,7 +5,8 @@ tags: [materials-science, thermodynamics, energy-storage, heat-transfer, enginee
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Definition
@@ -130,7 +131,7 @@ It is especially useful where the desired output temperature is fixed, because l
 
 It is less useful where the application demands high power density, very fast response, or broad temperature lift without an auxiliary heat pump.
 
-Important neighboring topics include [[heat-transfer-mechanisms]], [[heat-exchanger-effectiveness-ntu]], thermodynamic entropy, thermal runaway, and energy storage systems.
+Important neighboring topics include [[heat-exchanger-effectiveness-ntu]], thermodynamic entropy, thermal runaway, and energy storage systems.
 
 ## References
 
@@ -139,6 +140,5 @@ Standard references include heat-transfer textbooks, thermal energy storage hand
 Useful web overviews include the Wikipedia articles on phase-change materials, latent heat, and thermal energy storage, which summarize classifications, selection criteria, and common applications.
 
 Engineering evaluation should always rely on measured data for the specific supplier grade, because additives, purity, and encapsulation method can dominate field performance.
-- [[permaculture-designers-manual-climate-factors]]
 - [[low-energy-futures-in-permaculture]]
 - [[mollison-designers-climate-zone-1-intensive-garden]]

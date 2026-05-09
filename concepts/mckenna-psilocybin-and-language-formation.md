@@ -12,7 +12,7 @@ tags: [psilocybin]
 
 A core argument in [Food of the Gods is
 that psilocybin acted as the primary catalyst for the emergence of human
-language. [[psychedelic-mushrooms-species-and-identification]] contends that the uniquely human capacity for
+language. [[psychedelic-mushroom-set-and-setting]] contends that the uniquely human capacity for
 language did not arise from purely internal evolutionary pressures but was
 synergized by the inclusion of [Stropharia cubensis mushrooms in the hominid diet. This argument connects to the
 broader [catalytic model of
@@ -116,11 +116,7 @@ symbolic, cognitive, and linguistic capacity.
 
 - [[mckenna-psilocybin-language-poetry-vocal-impulse]]
 
-- [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-language-and-reality]]
-- [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-techniques-of-ecstasy]]
-- [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[mckenna-transcendent-other-and-exopheromones]]
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[mazatec-mushrooms-of-language]]

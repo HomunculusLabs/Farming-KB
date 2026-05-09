@@ -117,10 +117,7 @@ ornamental fish, provide shallow refuge areas for fry and frog spawn.
 
 ## Related Concepts
 
-- [[hamilton-wildlife-gardening-biodiversity]]
 - [[hamilton-garden-pond-maintenance]]
-- [[hamilton-wildflower-meadow]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[hamilton-shade-garden-plants]]
 - [[hamilton-rock-garden-design]]
 - [[hamilton-watering-plants-techniques]]

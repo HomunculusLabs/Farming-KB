@@ -9,18 +9,7 @@ tags: [reference]
 
 # European Psycholytic Therapy: Results from the 1960s-1970s
 
-Before prohibition shut down clinical research [[allegro-death-and-resurrection-in-the-mushroom-cult]] mid-1960s to 1970s, European researchers achieved remarkable results using psycholytic therapy -- a form of psychotherapy that uses low to moderate doses of lsd-history|LSD or [[query-what-is-the-difference-between-psilocybin-and-psilocin]] as adjuncts to the therapeutic process. The results, documented across multiple countries and hundreds of patients, represent some [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most impressive clinical outcomes ever achieved with any psychotherapeutic modality.
-
-## Psycholytic vs. Psychedelic Therapy
-
-### Two Distinct Approaches
-
-European researchers developed two fundamentally different approaches to hallucinogen-assisted psychotherapy:
-
-**Psycholytic therapy ("mind-dissolving"):**
-- Uses LOW doses of LSD (25-200 micrograms) or psilocybin
-- Multiple sessions spaced over weeks or months
-- The [[weil-psychedelic-experience-set-and-setting]] is used to enhance the psychotherapeutic process
+Before prohibition shut down clinical research [[query-what-is-the-difference-between-psilocybin-and-psilocin]] as adjuncts to the therapeutic process. The results, documented across multiple countries and hundreds of patients, represent some [[weil-psychedelic-experience-set-and-setting]] is used to enhance the psychotherapeutic process
 - The patient remains largely verbal and interactive
 - Focus on processing unconscious material, resolving conflicts, and gaining insight
 - Developed primarily in Europe (Germany, Switzerland, UK, Czechoslovakia)
@@ -41,17 +30,7 @@ German researchers were at the forefront of psycholytic therapy:
 
 - **Hanscarl Leuner** (Gottingen) -- Developed the standardized psycholytic protocol
 - Multiple university clinics conducted systematic studies
-- [[staycare-fungal-treatment-of-textile-industry-wastewater]] neurotic character disorders was a primary focus
-- Results were published in German-language medical journals
-
-### Switzerland
-
-Swiss researchers had unique advantages:
-
-- Home country of Sandoz Pharmaceuticals, manufacturer of both LSD and psilocybin
-- Relatively permissive regulatory environment (at least initially)
-- Strong tradition of psychoanalytic and psychodynamic psychotherapy
-- Led to the later [[swiss-psycholytic-therapy-1988-1993]] program
+- [[swiss-psycholytic-therapy-1988-1993]] program
 
 ### United Kingdom
 
@@ -59,13 +38,7 @@ British researchers contributed significantly:
 
 - Ronald Sandison at Powick Hospital conducted LSD therapy
 - The therapeutic approach combined psychoanalytic principles with psychedelic experiences
-- Results were published [[allegro-plants-and-drugs-in-the-ancient-world]] British Journal of Psychiatry
-
-### Czechoslovakia
-
-Czechoslovakia had an active research program:
-
-- [[stanislav-grof]] conducted early psychedelic therapy research in Prague
+- Results were published [[stanislav-grof]] conducted early psychedelic therapy research in Prague
 - The Czech program was one [[allegro-colour-and-consistency-of-the-amanita-muscaria]] most scientifically rigorous
 - Research continued until the Soviet invasion of 1968
 

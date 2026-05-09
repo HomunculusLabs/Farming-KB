@@ -15,7 +15,7 @@ updated: 2026-04-26
 
 ## Overview
 
-[[trametes-versicolor]] (syn. [[coriolus-versicolor]], Polyporus versicolor), commonly known as the turkey tail fungus, is a white rot basidiomycete widely recognized for its strong constitutive laccase production and broad-spectrum pollutant degradation capabilities. Along with [[phanerochaete-chrysosporium]], T. versicolor is one of the two most extensively studied white rot fungi for bioremediation applications. Its ability to produce abundant laccase under a range of conditions, without requiring nitrogen limitation, makes it particularly attractive for practical applications.
+[[coriolus-versicolor]], Polyporus versicolor), commonly known as the turkey tail fungus, is a white rot basidiomycete widely recognized for its strong constitutive laccase production and broad-spectrum pollutant degradation capabilities. Along with [[phanerochaete-chrysosporium]], T. versicolor is one of the two most extensively studied white rot fungi for bioremediation applications. Its ability to produce abundant laccase under a range of conditions, without requiring nitrogen limitation, makes it particularly attractive for practical applications.
 
 ## Biological Characteristics
 
@@ -111,13 +111,9 @@ T. versicolor shows interesting metal interactions:
 
 ## See Also
 
-- [[trametes-versicolor-entity]]
-
 - [[trametes-hirsuta]]
 
-- [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-fungal-treatment-of-textile-industry-wastewater]]
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 
 ## References

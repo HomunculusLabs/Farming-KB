@@ -3,19 +3,13 @@ title: Cows and Bamboo Integration
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, urban-agriculture]
+tags: [[permaculture, gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
 # Cows and Bamboo Integration
 
-A simple yet elegant [[permaculture-design]] places bamboo between cow barns and water bodies to intercept nutrient runoff and convert it into productive biomass. This demonstrates the core [permaculture principle of turning a "problem" (nutrient pollution) into a "solution" (harvestable material).
-
-## The Design
-
-The cow barn is positioned close to the lake. A huge clump of bamboo has been planted at the edge of the barn area. This bamboo absorbs the excess nitrogen from cow manure that would otherwise run down into the lake. The clump gets periodically harvested for poles. Everything works out.
-
-This deceptively simple arrangement illustrates several [[permaculture-principles]] operating simultaneously:
+A simple yet elegant [[urban-permaculture-edge-effect-and-design-principles]] operating simultaneously:
 
 - The problem (nitrogen runoff) becomes the solution (bamboo growth)
 - The output of one element (cow manure) becomes the input for another (bamboo fertilizer)
@@ -103,15 +97,10 @@ This is the essence of permaculture design: place elements in the right relation
 
 ## See Also
 
-- [[mollison-bamboo-permaculture-systems]]
-
 - [[permaculture-animal-integration]]
-- [[bamboo-construction]] Guide
 - [[soil-food-web]] & Nutrient Cycling
-- [[chop-and-drop-mulching]]
 - [[swale-design]]
 
 ---
 Updated: 2026-04-18
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]

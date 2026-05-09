@@ -118,8 +118,6 @@ stored by rice plants alone.
 
 ## See Also
 
-- [[fukuoka-textdoc-no-pesticide-principle-insect-balance]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
-- [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
 - [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]

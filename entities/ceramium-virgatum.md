@@ -102,19 +102,11 @@ Monitoring programs use Ceramium abundance as one metric for assessing the ecolo
 
 ## See Also
 
-- [[gracilaria-verrucosa]]
 - [[gelidium-amansii]]
-- [[chondrus-crispus]]
 - [[bangia-atropurpurea]]
-- [[porphyra-umbilicalis]]
 - [[pyropia-yezoensis]]
-- [[palmaria-palmata]]
 - [[ulva-lactuca]]
-- [[fucus-vesiculosus]]
 - [[kappaphycus-alvarezii]]
-- [[caulerpa-lentillifera]]
 - [[laminaria-digitata]]
-- [[sargassum-fusiforme]]
 - [[eucheuma-denticulatum]]
-- [[alaria-esculenta]]
 - [[himanthalia-elongata]]

@@ -25,30 +25,6 @@ Choosing between the two depends on your growing infrastructure, target market, 
 
 ## Lion's Mane Cultivation
 
-[[lions-mane-cultivation]]
-
-Lion's Mane produces cascading white spines that resemble a lion's mane and is widely regarded as both a gourmet edible and a medicinal mushroom. Its flavor and texture are often compared to lobster or crab meat, giving it strong appeal in culinary markets alongside its nerve-regeneration and nootropic supplement applications.
-
-### Substrate and Preparation
-
-The standard substrate for Lion's Mane is supplemented hardwood sawdust at a ratio of 4 parts sawdust to 1 part wheat bran, hydrated to 60–65% moisture content. This formulation provides both the structural carbon source and the nitrogen supplementation needed for robust mycelial growth.
-
-Alternative substrates include hardwood logs, straw, and spent coffee grounds, though supplemented sawdust generally produces the most consistent yields. Substrate bags or jars must be sterilized at 15 psi for 60–90 minutes to eliminate competing organisms. Inoculation should be performed in front of a laminar flow hood or within a still air box to minimize contamination risk.
-
-### Colonization and Fruiting
-
-Lion's Mane is a slower colonizer than oyster mushrooms, with spawn running optimally at 70–75°F. Full colonization of a standard substrate block typically takes 2–4 weeks depending on spawn rate and environmental conditions.
-
-Once fully colonized, fruiting requires high humidity (85–95%), consistent fresh air exchange, and temperatures in the 60–75°F range. Lion's Mane is sensitive to high CO2 levels; inadequate fresh air exchange produces elongated, spindly fruitbodies with reduced culinary quality. Growers typically harvest 1–2 flushes per block before contamination risk increases substantially.
-
-### Harvest and Market
-
-Lion's Mane should be harvested while the spines are still fresh and white, before they begin to yellow or brown. Mature fruitbodies can weigh 50–200 grams depending on substrate volume and growing conditions. The dual culinary and supplement market makes Lion's Mane one of the more versatile specialty mushrooms for small to mid-scale growers.
-
-Fresh Lion's Mane has a limited shelf life and should be refrigerated and sold within 5–7 days of harvest. For longer-term storage, growers may opt to dehydrate and powder the mushroom for supplement production, which preserves the erinacines and hericenones responsible for its nerve-regeneration properties.
-
-## Cordyceps Cultivation
-
 [[cordyceps-cultivation]]
 
 Cordyceps cultivation centers on *C. militaris*, the only commercially viable species for artificial cultivation. The famous *C. sinensis* remains uncultivable outside its natural habitat, where it parasitizes ghost moth larvae in the Himalayan highlands. *C. militaris* produces distinctive orange to red club-shaped fruitbodies and is cultivated almost exclusively for medicinal supplements due to its high cordycepin (3′-deoxyadenosine) content.
@@ -120,16 +96,10 @@ Regardless of the approach chosen, both species reward growers who invest in und
 
 ## See Also
 
-- [[comparison-blueberry-vs-haskap-cultivation]]
-
 - [[lions-mane-hericium-erinaceus]]
-
-- [[comparison-cordyceps-vs-lions-mane-cultivation]]
 
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 
-- [[lions-mane-cultivation]]
 - [[cordyceps-cultivation]]
-- [[growing-gourmet-lions-mane-cultivation]]
 - [[lions-mane-indoor-cultivation]]
 - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]

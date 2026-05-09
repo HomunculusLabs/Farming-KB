@@ -3,7 +3,7 @@ title: Permaculture Food Storage and Preservation
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -128,13 +128,7 @@ Prioritize methods by energy input and resilience:
 
 ## Connections
 
-Food preservation extends the value of [[permaculture-design-principles]] by closing the loop between production and consumption. Efficient preservation reduces waste from [[water-wise-vegetable-gardening]] harvests, and seed-saving for next season's planting connects to [[home-garden-seed-saving]].
+Food preservation extends the value of [[water-wise-vegetable-gardening]] harvests, and seed-saving for next season's planting connects to [[winter-gardening-techniques]]
 
-## Related
-
-- [[winter-gardening-techniques]]
-
-- [[root-cellar-design-and-construction]]
 - [[edge-effect-in-permaculture]]
-- [[faires-no-energy-food-storage]]
 - [[mollison-cold-climate-strategies-detailed]]

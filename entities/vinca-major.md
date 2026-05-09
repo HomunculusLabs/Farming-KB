@@ -128,11 +128,7 @@ areas is discouraged in favor of native groundcover alternatives.
 
 ## See Also
 
-- [[vinca-minor]]
 - [[catharanthus-roseus]]
-- [[hypericum-perforatum]]
 - [[valeriana-officinalis]]
-- [[rosmarinus-officinalis-entity]]
 - [[glycyrrhiza-glabra]]
-- [[mentha-piperita]]
 - [[passiflora-incarnata]]

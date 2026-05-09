@@ -1,7 +1,7 @@
 ---
 title: Endophytic Fungi Diversity
 created: 2026-04-28
-tags: [mycology, ecology, plant-microbe-interactions, biodiversity]
+tags: [[mycology, ecology, plant-microbe-interactions, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -102,8 +102,6 @@ culture and molecular detection are now standard.
 
 ## See Also
 
-- [[fungal-species-estimates]]
 - [[fungal-dark-taxa]]
-- [[mycorrhizal-fungal-diversity]]
 - [[ant-termite-fungal-symbiosis]]
 - [[biodiversity-fungi-tropical-fungal-diversity]]

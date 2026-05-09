@@ -133,18 +133,12 @@ Several distinct Gorilla Glue phenotypes have been selected from the original br
 ## Trademark Dispute
 
 In 2017, the Gorilla Glue adhesive company (Gorilla Glue Inc.) initiated trademark proceedings against GG Strains. The resulting settlement required the cannabis strain to be officially rebranded as "Original Glue" or "GG#4" in commercial markets. Despite the legal name change, the original "Gorilla Glue" name remains ubiquitous in cannabis culture and dispensary menus worldwide.
-
 ## See Also
-
-- [[cannabis-gorilla-glue]]
 
 - [[cannabis-terpene-profiles]]
 
-- [[entities/blue-dream-cannabis]]
-- [[entities/cannabis-indica]]
+- [[cannabis-indica]]
 
-- [[cannabis-terpene-entourage-effect]]
 - [[cannabis-strain-selection-guide]]
 
-- [[og-kush]] — Foundational West Coast hybrid with similar cultural significance
 - [[chemdawg]] — Ancestor strain contributing Chem's Sister genetics

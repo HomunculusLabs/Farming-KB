@@ -113,8 +113,10 @@ hypotension, ventricular arrhythmias, and death within 2–6 hours.
 
 ## See Also
 
-- [[cicuta-maculata]] — Water hemlock, another extremely toxic native plant
 - [[taxus-baccata]] — English yew, parallel extreme toxicity with medicinal
   compound overlap
-- [[digitalis-purpurea]] — Foxglove, cardioactive plant with narrow therapeutic index
 - [[atropa-belladonna]] — Deadly nightshade, tropane alkaloid toxic plant
+
+## See Also
+
+- [[amazonian-medicinal-plants-in-amaringos-visions]]

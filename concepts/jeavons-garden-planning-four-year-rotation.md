@@ -99,8 +99,6 @@ compared to $10 to $20+ from retail packets.
 
 ## See Also
 
-[[jeavons-grow-biointensive-method-overview]]
 [[jeavons-biointensive-spacing]]
-[[jeavons-flat-preparation-seedling-raising]]
 [[jeavons-master-planning-mini-farms]]
 [[jeavons-crop-rotation-detail]]

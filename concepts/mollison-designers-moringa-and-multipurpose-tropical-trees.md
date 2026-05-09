@@ -121,13 +121,8 @@ fast-growing multipurpose tropical trees:
 
 ## Related
 
-- [[faidherbia-albida]]
 - [[terminalia-catappa]]
 
-- [[mollison-designers-grafting-and-budding-fruit-trees]] Concepts
-
 - [[mollison-designers-tropical-terrace-design-and-earth-shaping]]
-- [[mollison-tropical-home-garden-design]]
 - [[mollison-designers-coppicing-management-of-legume-trees]]
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
 - [[mollison-tropical-mulch-systems-and-materials]]

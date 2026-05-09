@@ -80,11 +80,7 @@ The transition period may see temporary yield reductions. JADAM's ultra-low-cost
 
 ## See Also
 
-- [[jadam-ultra-low-cost-agriculture]] -- the economic case for organic
 - [[jadam-vision-four-aims]] -- the SESE framework
-- [[jadam-soil-management-principles]] -- soil management fundamentals
 - [[jadam-soil-foundation-work]] -- establishing soil before planting
-- [[jadam-natural-pesticide-jnp]] -- natural pest control
 - [[jadam-seed-treatment-leaf-mold]] -- seed treatment method
-- [[jadam-pesticide-for-aphids-and-mites]] -- controlling key pests
 - [[jadam-pesticide-for-powdery-mildew]] -- controlling key disease

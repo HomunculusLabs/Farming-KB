@@ -40,8 +40,8 @@ Ayahuasca is not a single plant but a combination of at least two:
 
 Several plants are combined with *B. caapi* to provide the visionary component:
 
-- ***[[psychotria-viridis]]*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
-- ***[[diplopterys-cabrerana]]*** (Chaliponga): Another DMT-containing plant, also used as an admixture. Contains both DMT and 5-MeO-DMT.
+- ***Psychotria viridis*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
+- ***Diplopterys cabrerana*** (Chaliponga): Another DMT-containing plant, also used as an admixture. Contains both DMT and 5-MeO-DMT.
 - Less commonly, *Psychotria carthaginensis* or other species may be used.
 
 ### The Chemical Synergy

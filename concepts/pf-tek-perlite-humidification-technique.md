@@ -118,7 +118,5 @@ The perlite humidification technique described in the PF TEK has become a founda
 ## See Also
 
 - [[pf-tek-fruiting-chamber]] for the dual chambered terrarium
-- [[dual-chambered-terrarium-design]] for terrarium construction
 - [[pf-substrate-formula]] for the role of vermiculite in the substrate
-- [[pf-tek-cake-birthing-technique]] for placing cakes in the terrarium
 - [[pf-tek-mushroom-growth-timeline]] for understanding humidity needs during fruiting

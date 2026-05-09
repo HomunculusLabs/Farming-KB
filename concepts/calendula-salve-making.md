@@ -3,7 +3,7 @@ title: Calendula Salve and Herbal Remedies
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: permaculture, herbs, medicine, herbalism, calendula, thyme, natural-remedies, homesteading, health, self-reliance]
+tags: [permaculture, herbs, medicine, herbalism, calendula, thyme, natural-remedies, homesteading, health, self-reliance]
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
@@ -14,7 +14,7 @@ These traditional herbal remedies were once found in almost every "home pharmacy
 ## Calendula Salve
 
 ### Ingredients
-- two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
+- Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
 - Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 

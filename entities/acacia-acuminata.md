@@ -115,9 +115,6 @@ Several other Australian Acacia species are known to contain tryptamine alkaloid
 
 ## See Also
 
-- [[acacia-confusa]]
 - [[mimosa-hostilis]]
-- [[5-meo-dmt-entity]]
 - [[desmanthus-illinoensis]]
-- [[peganum-harmala]]
 - [[tabernanthe-iboga]]

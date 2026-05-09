@@ -1,32 +1,10 @@
 ---
 title: Paris Cave Mushroom Cultivation
 created: 2026-04-28
-tags: [mushroom-cultivation, cave-cultivation, french-methods, history, falconer]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
+tags: [[contamination-mushroom-cultivation]]
 
-# Paris Cave [[contamination-mushroom-cultivation]]
-
-## [[teaming-with-microbes-fungi-the-underground-network]] Quarries of Paris
-
-In caves and subterranean passages underneath the city of Paris and
-its environs, thousands of tons [[antiviral-properties-of-mushrooms]] were artificially produced
-every year [[allegro-death-and-resurrection-in-the-mushroom-cult]] late nineteenth century. These underground caves
-and tunnels were abandoned quarries from which white building stone
-and plaster had been excavated. As the veins of stone permeated
-through the earth at depths of 40 to 125 feet, they were quarried and
-the blocks brought to the surface through vertical shafts.
-
-The tunnels, varying in height and width as the veins of stone varied,
-were subsequently used for mushroom-growing. M. Lachaume, in his
-book The Cave Mushroom, recorded that [[allegro-plants-and-drugs-in-the-ancient-world]] Department [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] Seine
-there were 3,000 quarries. Those abandoned and situated close to
-Paris at Montrouge, Bagneux, Vaugirard, Merly, Chatillon, Vitry,
-Honilles, and St. Denis were used by 260 mushroom-growers [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
+## [[antiviral-properties-of-mushrooms]] were artificially produced
+every year [[allegro-plants-and-drugs-in-the-ancient-world]] Department [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 Department.
 
 ## Access and Infrastructure
@@ -129,21 +107,6 @@ Mushrooms were gathered once a day, usually about midnight, so they
 could reach the Paris market early in the morning. They ranged from
 three-fourths to one and five-eighths inches in diameter and were pure
 white. Workmen always gathered by plucking out by the roots, never
-by cutting. These mushrooms were likely a close relative of the modern [[agaricus-bisporus]]. Gatherers carried two baskets knapsack-fashion: one for
-mushrooms, the other containing mold to fill in the holes left by
-pulling. Before bringing mushrooms up from the caves, they were
-covered with cloth to avoid contact with outer air, which would turn
-them brown.
-
-## Ventilation and Cave Management
-
-Proper ventilation was essential for both workmen and mushrooms.
-Ventilation was afforded by narrow shafts surmounted by tall wooden
-chimneys with upper ends cut at an angle facing north. To avoid
-sudden temperature changes and strong draughts, fires, trap doors,
-and straw-thatched hurdles were employed. Caves used continuously
-for some years sometimes had to be abandoned for a year or two because
-the crop ceased to prosper, but after thorough clearing and resting
-the caves could be returned to production. For general [[mushroom-cultivation-basics]], see the dedicated overview.
+by cutting. These mushrooms were likely a close relative of the modern [[mushroom-cultivation-basics]], see the dedicated overview.
 
 ## See Also

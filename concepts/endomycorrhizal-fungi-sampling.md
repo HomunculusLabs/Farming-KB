@@ -3,14 +3,14 @@ title: Endomycorrhizal (Arbuscular) Fungi — Collection and Identification
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Endomycorrhizal (Arbuscular) Fungi — Collection and Identification
 
 ## Overview
 
-Arbuscular mycorrhizal (AM) fungi form the most widespread and ecologically important symbiosis on Earth, associating with the roots of approximately 80% of terrestrial plant species. More than **80% of described fungal species** in this group are now recognized as **nonsporocarpic** — they do not produce visible fruiting bodies, making traditional collection methods ineffective. This page details the specialized techniques required for their study and is closely related to [[arbuscular-mycorrhizal-fungi]] and [[glomeromycota-arbuscular-mycorrhizae]].
+Arbuscular mycorrhizal (AM) fungi form the most widespread and ecologically important symbiosis on Earth, associating with the roots of approximately 80% of terrestrial plant species. More than **80% of described fungal species** in this group are now recognized as **nonsporocarpic** — they do not produce visible fruiting bodies, making traditional collection methods ineffective. This page details the specialized techniques required for their study and is closely related to [[glomeromycota-arbuscular-mycorrhizae]].
 
 ## The Detection Challenge
 
@@ -101,11 +101,9 @@ A systematic **7-step identification protocol** guides the practitioner from ini
 
 ## Ecological Context
 
-AM fungi are foundational to [[fungal-symbiosis-types]] and play critical roles in plant nutrient acquisition, particularly phosphorus. Their study connects soil ecology with plant community dynamics, and their diversity patterns reflect land use history, soil type, and plant community composition. Sampling for AM fungi should be integrated into broader [[fungal-sampling-methods]] to capture the full spectrum of soil fungal diversity.
+AM fungi are foundational to [[fungal-sampling-methods]] to capture the full spectrum of soil fungal diversity.
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
 - [[arbuscular-mycorrhizal-spore-extraction-methods]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]

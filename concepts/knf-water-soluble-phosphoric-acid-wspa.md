@@ -10,29 +10,7 @@ type: concept
 
 # Water-Soluble Phosphoric Acid (WS-PA)
 
-Water-Soluble Phosphoric Acid (WS-PA) is a Korean Natural Farming
-input extracted from sesame stem charcoal. Phosphoric acid is a
-substance of the cell nucleus and a major element of the reproductive
-body of the plant. If the plant is deficient in phosphoric acid, cell
-division is hindered and reproductive growth is impaired. WS-PA
-provides a natural source of this essential nutrient through a simple
-charcoal-percolation method.
-
-## The Role of Phosphoric Acid in Plants
-
-Phosphoric acid is an important element for the life of crops and is
-contained in every living plant cell. It is a substance that composes
-the cell nucleus and plays a fundamental role in cellular division.
-When absorbed phosphoric acid moves to the bud, root tip, or seed, it
-drives the cell division processes essential for growth and
-reproduction.
-
-The storage form of phosphoric acid, known as phytic acid, is the
-major substance found in seeds. Beyond cellular division, phosphoric
-acid is involved in photophosphorylation and electron transport in
-photosynthesis and plays a role in protein synthesis.
-
-In the context of the [[knf-nutritive-cycle-theory]], phosphoric acid
+Water-Soluble Phosphoric Acid (WS-PA) is a [[knf-nutritive-cycle-theory]], phosphoric acid
 is particularly critical during the changeover period when plants
 transition from vegetative to reproductive growth. This period, also
 called "morning sickness," is when plants crave sour nutrients, and
@@ -141,10 +119,11 @@ storage:
 - Treating leaf color abnormalities indicating phosphoric acid
   imbalance
 - Supporting protein synthesis and anabolite transport in crops
+## See Also
+
+- [[water-soluble-calcium-wca]]
+- [[knf-nutritive-cycle-theory]]
 
 ## See Also
 
-- [[knf-phosphoric-acid-deficiency-symptoms]]
-- [[water-soluble-calcium-wca]]
-- [[knf-water-soluble-calcium-phosphate]]
-- [[knf-nutritive-cycle-theory]]
+- [[water-soluble-phosphoric-acid-wpa]]

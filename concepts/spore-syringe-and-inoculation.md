@@ -1,7 +1,7 @@
 ---
 title: Spore Syringe and Inoculation
 created: 2026-04-28
-tags: [mycology, cultivation, inoculation, sterile-technique]
+tags: [[mycology, cultivation, inoculation, sterile-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -13,11 +13,7 @@ type: concept
 ## Overview
 
 Inoculation is the process of introducing fungal genetic material into a sterile
-substrate to initiate [[mycelial-colonization]]. The most common inoculation methods
-for small-scale and hobbyist cultivation use spore syringes — sterile
-suspensions of mushroom spores in distilled water. Understanding the biology of
-spores, the mechanics of syringe preparation, and the principles of aseptic
-technique is essential for successful [[mushroom-cultivation]].
+substrate to initiate [[mushroom-cultivation]].
 
 ## Spore Biology
 
@@ -127,7 +123,5 @@ protocols:
 
 ## See Also
 
-- [[substrate-preparation]]
 - [[mycelium-network]]
-- [[laminar-flow-hood-guide]]
 - [[mushroom-cultivation-lifecycle]]

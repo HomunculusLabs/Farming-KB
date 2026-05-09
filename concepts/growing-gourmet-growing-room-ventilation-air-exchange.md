@@ -30,55 +30,7 @@ mycelium. At 1000 cubic feet per minute (cfm) of free air
 delivery, an empty 10,000 cubic foot room will be exchanged
 every 10 minutes, equivalent to 6 air exchanges per hour.
 This rate is near to the minimum required for gourmet
-mushroom cultivation.
-
-At 2000 cfm, the same room will be exchanged every 5
-minutes, or 12 air exchanges per hour. Growing rooms
-should be designed to operate within this rate, i.e.,
-between 6-12 air exchanges per hour.
-
-The actual rate of air exchange will be affected by the
-rate of fill and limited by the avenues of exhaust. The
-growing rooms should always remain positive-pressurized
-to limit contamination vectors from the outside.
-
-## Density of Fill
-
-Fast-growing, tropical strains generate more CO2 than
-cold weather strains due to their higher rate of
-metabolism. The density of fill is the fraction of space
-occupied by substrate vs. the total volume of the growing
-room. Button mushroom growers often fill up to 1/4 of
-the growing room space with substrate.
-
-For most gourmet mushrooms, filling growing rooms to no
-more than 1/6th, and preferably 1/8th of capacity is
-recommended. This lower density allows for better air
-circulation and more uniform environmental conditions
-throughout the room.
-
-## Fan Configuration
-
-A 400-600 cfm thermal exhaust fan is recommended for a
-growing room of standard dimensions (approximately 10,000
-cubic feet). This fan is typically located at the apex of
-the growing room, opposite the incoming air. A thermostat,
-preset by the cultivator to skim off excess heat, activates
-this fan.
-
-A second fan, called a "vortex fan" having a 200-400 cfm
-capacity, is located below the thermal exhaust fan, usually
-at head level, above the exit door. The vortex fan helps
-enhance the cyclonic entrainment of the air as it moves
-down the growing room.
-
-Both fans should be covered, from the inside, with a
-bug-proof, non-mildewing cloth. This cloth will prevent
-the entry of insects when the fans are not in operation.
-Furthermore, the thermal exhaust and vortex fan should
-have louvered shutters that close when not in use.
-
-See also: [[growing-gourmet-indoor-growing-environment]]
+[[growing-gourmet-indoor-growing-environment]]
 
 ## Filtration of Fresh Air Supply
 
@@ -135,6 +87,5 @@ account prevailing wind direction, sunlight exposure,
 shade, and the overall flow patterns of raw materials and
 finished goods.
 
-See also: [[growing-gourmet-fruiting-parameters]]
 See also: [[growing-gourmet-contamination-prevention]]
 See also: [[growing-gourmet-pest-management]]

@@ -3,7 +3,7 @@ title: Mycorrhizal Fungi Hydrocarbon Remediation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Fungi in Hydrocarbon-Contaminated Soil Remediation
@@ -89,11 +89,7 @@ Mycorrhizal hydrocarbon remediation is a form of phytoremediation -- using plant
 
 ## Related Concepts
 
-- [[mycorrhizal-fungi-bioremediation]]
 - [[mycoremediation-oil-spills]]
-- [[mycoremediation-of-petroleum-hydrocarbons]]
 - [[fungal-oil-petroleum-bioremediation]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[ectomycorrhizal-fungal-ecology]]
-- [[fungal-roles-soil-food-webs]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

@@ -96,15 +96,11 @@ Theoretically, one petri dish can produce over 1,000,000 lbs of mushrooms in as 
 
 ## Liquid Inoculation Alternative
 
-[[mushroom-grain-spawn-preparation]] techniques can bypass traditional grain-to-grain transfers. Once perfected, most spawn producers find that liquid inoculation generates high-quality spawn in a fraction of the time, eliminating several costly steps including shaking spawn jars.
-
-See also: [[spawn-grain-performance-research]], [[mushroom-contamination-identification]], [[agar-culture-techniques-detailed]], [[agar-work-guide]], [[mushroom-cultivation-bulk-substrates]], [[shiitake-cultivation-log-method]], [[six-vectors-of-contamination]]
+[[spawn-grain-performance-research]], [[agar-culture-techniques-detailed]], [[mushroom-cultivation-bulk-substrates]], [[six-vectors-of-contamination]]
 
 *Source: Stamets, P. "Growing Gourmet and Medicinal Mushrooms" -- Chapter 15: Generating Grain Spawn*
 
 ## See Also
-
-- [[knf-fpj-preparation-and-precautions]]
 
 - [[maitake-spawn-types-and-suppliers]]
 

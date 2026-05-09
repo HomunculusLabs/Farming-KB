@@ -16,7 +16,7 @@ The scientific study of psychoactive mushrooms encompasses mycology,
 taxonomy, chemistry, and pharmacology. The identification, classification,
 and chemical analysis of psilocybin-containing species involved some of
 the twentieth century's most distinguished mycologists and chemists,
-including Roger Heim, [[albert-hofmann]], Rolf Singer, and Richard Evans
+including Roger Heim, gordon-wasson, Rolf Singer, and Richard Evans
 Schultes. Their work transformed magic mushrooms from obscure
 poisonous-looking fungi into chemically understood organisms whose
 active compounds could be isolated, synthesised, and studied.
@@ -25,8 +25,7 @@ active compounds could be isolated, synthesised, and studied.
 
 There are currently around 186 known psilocybin species -- the figure
 is rising all the time -- of which 76 occur in Mexico alone. The most
-important species include [[psilocybe-semilanceata]] (the Liberty Cap),
-native to temperate regions worldwide, and [[psilocybe-cubensis]], a
+important species include [[psilocybe-cubensis]], a
 tropical and subtropical species widely distributed through the
 Americas and beyond.
 
@@ -105,14 +104,7 @@ The development of cultivation techniques further advanced the
 scientific understanding of psilocybin mushrooms. The McKenna brothers
 (Terence and Dennis) published their method for home cultivation in
 1976 as Psilocybin: Magic Mushroom Grower's Guide, under the
-pseudonyms O. T. Oss and O. N. Oss. [[paul-stamets]] and J. S.
-Chilton later published The Mushroom Cultivator (1983), which became
-the standard reference for mushroom cultivation science.
-
-## Related
-
-- [[wasson-rediscovery-of-psilocybin]] -- Wasson's role
-- [[shroom-wasson-valentina-expedition]] -- The expeditions
+pseudonyms O. T. Oss and O. N. Oss. [[wasson-rediscovery-of-psilocybin]] -- Wasson's role
 - [[shroom-prohibition]] -- Legal consequences of scheduling
 
 ## Source

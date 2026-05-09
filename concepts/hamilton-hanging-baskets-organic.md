@@ -94,30 +94,9 @@ Watering: Spring and summer baskets should be watered at least daily.
 In a particularly warm, sunny position they may need watering twice
 a day. In winter, water only when the top of the compost feels dry.
 
-Renewal: Once you have bought your first basketful [[spirit-mothers-of-plants]], you
-will not need to replace them. Many trailing plants can be raised
-from cuttings so you can propagate your own stock each year.
-
-## Key Points
-
-- Use deep wire or mesh baskets, not shallow plastic types, to allow
-  side planting for a full ball of flowers
-- Never use sphagnum moss for lining; use coir or wool waste liners
-  instead
-- Fix wall brackets firmly since planted baskets become very heavy
-  when mature and watered
-- Feed summer baskets weekly with liquid kelp or animal-manure
-  fertilizer; winter baskets need no feeding
-- Water summer baskets daily, twice daily in hot sunny positions
-- Plant a central bushy plant surrounded by smaller plants and
-  trailing varieties pushed through the sides
-- Discard spent basket contents on the compost heap each season and
-  start fresh with new compost and liner
-- Winter baskets should use frost-hardy shrubs like pieris and
-  heather with trailing ivy or euonymus
+Renewal: Once you have bought your first basketful [[hamilton-container-raised-bed-gardening]]
+- [[hamilton-perennial-flowers-organic]]
 
 ## See Also
 
-- [[hamilton-container-raised-bed-gardening]]
 - [[hamilton-annual-flowers-organic]]
-- [[hamilton-perennial-flowers-organic]]

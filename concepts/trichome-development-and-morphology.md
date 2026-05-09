@@ -13,43 +13,7 @@ sources:
 type: concept
 ---
 # Trichome Development and Morphology
-[[cannabis-sativa]] produces several types of epidermal appendages called
-trichomes, of which the capitate-stalked glandular trichomes are the
-primary sites of cannabinoid and terpene biosynthesis and storage.
-Understanding trichome development, structure, and lifecycle is essential
-for optimizing cannabinoid production in cultivation.
-## Trichome Types
-Cannabis produces three morphologically distinct trichome types:
-**Bulbous trichomes** are the smallest (15-30 micrometers), consisting
-of a short stalk and a globular head comprising 1-4 cells. They are
-distributed across the entire plant surface including leaves, stems, and
-bracts. Bulbous trichomes produce minimal cannabinoids and their primary
-function appears to be secretion of defensive compounds against herbivores
-and pathogens. They emerge during the vegetative stage and persist
-throughout the plant's life cycle.
-**Capitate-sessile trichomes** are intermediate in size (50-80
-micrometers) and possess a flattened head of 8-16 secretory cells seated
-directly on the epidermis without an elevated stalk. They are most
-abundant on the abaxial (underside) leaf surface during vegetative growth
-and decline in density during flowering. Capitate-sessile trichomes
-produce low concentrations of cannabinoids and contribute primarily to
-the plant's defensive chemistry against insects.
-**Capitate-stalked trichomes** are the largest and most pharmacologically
-important type (150-500 micrometers). They consist of a multicellular
-stalk elevating a large secretory head above the plant surface. The
-secretory disc comprises 20-100 cells arranged in a hemispherical
-configuration. These trichomes are concentrated on female floral bracts
-and sugar leaves, and are responsible for the vast majority of cannabinoid
-and terpene production. Their density increases dramatically during
-flowering, peaking 4-6 weeks after floral induction.
-## Developmental Ontogeny
-Capitate-stalked trichome development follows a well-characterized
-ontogenetic sequence:
-1. **Initiation**: Trichome progenitor cells arise from the epidermal L1
-   layer through asymmetric cell division. This process is regulated by
-   a suite of transcription factors including MYB, bHLH, and WD40 family
-   proteins that form a regulatory complex analogous to the trichome
-   initiation complex in [[arabidopsis-thaliana]].
+[[arabidopsis-thaliana]].
 2. **Stalk elongation**: The stalk elongates through sequential cell
    divisions, raising the developing secretory head above the leaf
    surface. Stalk length is influenced by light intensity, with high-intensity
@@ -125,6 +89,5 @@ with the ratio of THCA to CBN and the overall psychoactive profile:
   potency but higher CBN content. CBN demonstrates independent sedative
   and anticonvulsant properties.
 ## See Also
-- [[cannabinoid-biosynthesis-pathway]]
 - [[terpene-profile-chemotaxonomy]]
 - [[cannabis-chemotype-classification]]

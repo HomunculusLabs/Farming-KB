@@ -1,7 +1,7 @@
 ---
 title: "Digging a Hole as Permaculture Practice"
 created: 2026-04-28
-tags: [permaculture, earthworks, excavation, soil-sampling,
+tags: [[permaculture, earthworks, excavation, soil-sampling,
        site-analysis, stacking-functions, embodied-knowledge]
 date: 2026-04-25
 updated: 2026-04-25
@@ -138,8 +138,6 @@ permaculture embodies naturally.
 
 ## See Also
 
-- [[williams-pdc-earthworks]]
 - [[williams-pdc-soils]]
-- [[williams-pdc-zone-analysis]]
 - [[williams-pdc-rain-water-harvesting]]
 - [[pdc-earthworks-and-land-sculpting]]

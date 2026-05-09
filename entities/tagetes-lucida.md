@@ -142,8 +142,9 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 - **Soil aeration**: Deep taproot opens compacted subsoil layers
 ## See Also
 
-- [[tagetes-erecta-entity]]
-
 - [[artemisia-dracunculus]]
-- [[companion-planting]]
 - [[food-forest]]
+
+## See Also
+
+- [[permaculture-companion-planting]]

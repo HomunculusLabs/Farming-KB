@@ -51,11 +51,50 @@ DON is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
+## Chemical Properties
+DON (2,5-Dimethoxy-4-nitroamphetamine) is a substituted amphetamine
+belonging to the DOx family of psychedelic compounds. Molecular formula:
+C10H14N2O4. The compound features the characteristic 2,5-dimethoxy
+pattern on the phenyl ring, with a nitro group at the 4-position rather
+than the halogen or thioalkyl groups found in more common DOx compounds
+like DOC or DOI. The nitro substituent is electron-withdrawing, which
+significantly alters the compound's electronic properties and receptor
+binding profile compared to other DOx compounds. The hydrochloride salt
+has a melting point of 206-207°C.
+
+## Effects and Pharmacology
+DON produces both stimulant and psychedelic effects. At lower doses
+(~3 mg), the experience is dominated by amphetamine-like stimulation
+with anxiety and physical discomfort. At higher doses (~4.5 mg), visual
+effects become prominent including enhanced color perception and
+auditory distortion. The duration is notably long at 8-15 hours,
+consistent with the DOx family's reputation for extended action due
+to tight receptor binding and slow metabolic clearance. The stimulant
+component appears to partially suppress the psychedelic insights,
+producing a more "recreational" character than compounds like DOI.
+
+## Legal Status
+DON is a controlled substance in many countries. In the United States,
+its position is ambiguous under the Federal Analogue Act as a
+substituted amphetamine with psychedelic properties. Several European
+nations explicitly control DOx compounds including DON. It is listed in
+ schedules or analogue provisions across most major jurisdictions.
+
+## Similar Compounds
+- [[2c-g-4-entity-pihkal]] — phenethylamine analog with different
+  substitution
+- DOI — iodo-substituted DOx compound, more potent and longer-lasting
+- DOC — chloro-substituted DOx compound, widely encountered on the
+  research chemical market
+
 ## See Also
 
-- [[2c-o-4-entity-pihkal]]
 - [[don-entity]]
 - [[2c-g-4-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the DOx family
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

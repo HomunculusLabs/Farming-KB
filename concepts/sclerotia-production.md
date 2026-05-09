@@ -3,7 +3,7 @@ title: Sclerotia Production on Grass Seed
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom-cultivation, sclerotia, psilocybe-tampanensis, psilocybe-mexicana, grass-seed, truffles]
+tags: [[mushroom-cultivation, sclerotia, psilocybe-tampanensis, psilocybe-mexicana, grass-seed, truffles]
 sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__exotic_.md]
 ---
 
@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/guid-mhtml_file___e___textos__mycology__e
 Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that
 serve as survival structures for certain fungi. In cultivation, they are often
 called "magic truffles" and are produced by species such as
-[[psilocybe-tampanensis]] and [[psilocybe-mexicana]]. Unlike mushroom
+[[psilocybe-mexicana]]. Unlike mushroom
 fruiting bodies, sclerotia form entirely underground (or in this case, within
 the substrate jar) and do not require a casing layer or fruiting chamber.
 
@@ -35,19 +35,11 @@ because they require less effort than fruiting mushrooms.
 
 The primary sclerotia-forming species in cultivation are:
 
-- **[[psilocybe-tampanensis]]** — The most prolific sclerotia producer in
-  cultivation. Known commercially as "Philosopher's Stones." Produces
-  substantial sclerotia mass relative to substrate volume.
 - **[[psilocybe-mexicana]]** — Also produces sclerotia reliably, though
   somewhat less abundantly than *P. tampanensis*. This is the species from
   which psilocybin was first isolated by Albert Hofmann in 1958.
 
-Note that [[psilocybe-cubensis]] does NOT produce sclerotia under normal
-cultivation conditions.
-
-## The Grass Seed Method
-
-Sclerotia production on [[grass-seed-substrate-preparation]] is straightforward
+Note that [[grass-seed-substrate-preparation]] is straightforward
 because no casing layer is required. The mycelium forms sclerotia directly
 within the colonized grain:
 
@@ -130,7 +122,6 @@ due to water content.
 
 ## See Also
 
-- [[grass-seed-substrate-preparation]] — preparing the substrate
-- [[psilocybe-tampanensis]] — the primary sclerotia-producing species
+- [[psilocybe-tampanensis-cultivation]] — the primary sclerotia-producing species
 - [[casing-soil-preparation]] — for mushroom fruiting from the same species
-- [[inoculation-techniques]] — sterile transfer of inoculant to jars
+- inoculation techniques — sterile transfer of inoculant to jars

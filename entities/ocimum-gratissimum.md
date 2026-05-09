@@ -138,4 +138,4 @@ production stimulates bushier growth and extends productive lifespan.
 
 ## See Also
 
-[[ocimum-basilicum]] · [[ocimum-tenuiflorum-entity]] · [[piper-nigrum-entity]] · [[eugenia-caryophyllata]] · [[cymbopogon-citratus]] · [[azadirachta-indica]] · [[moringa-oleifera]] · [[cymbopogon-martinii]]
+[[ocimum-tenuiflorum-entity]] · [[eugenia-caryophyllata]] · [[azadirachta-indica]] · [[cymbopogon-martinii]]

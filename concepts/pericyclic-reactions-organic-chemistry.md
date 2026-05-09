@@ -1,12 +1,3 @@
----
-title: Pericyclic Reactions
-created: 2026-04-28
-updated: 2026-05-06
-aliases: [electrocyclic reactions, cycloaddition, sigmatropic rearrangement, woodward-hoffmann rules, orbital symmetry]
-tags: [chemistry, organic-chemistry, reaction-mechanism, orbital-theory, synthesis]
-type: concept
-sources: []
----
 
 ## Overview
 
@@ -140,11 +131,11 @@ counterparts exceed 50 kcal/mol. Dynamic studies by Singleton revealed hidden st
 intermediates on ultra-short timescales, though orbital symmetry rules still predict observed
 stereospecificity. Houk identified ambimodal transition states leading to two product distributions
 from a single TS. Machine learning models now predict pericyclic outcomes with high accuracy.
-
 ## See Also
 
-- [[bioremediation-fenton-chemistry-brown-rot-fungi]]
-- [[cervantes-compost-tea-organic-brewing]]
-- [[hamilton-organic-seed-saving-propagation]]
+- [[compost-tea-aact]]-organic-brewing
+- [[seed-saving-in-permaculture]]-propagation
 
 - molecular orbital theory — Quantum mechanical foundation for orbital symmetry analysis
+
+See also: [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

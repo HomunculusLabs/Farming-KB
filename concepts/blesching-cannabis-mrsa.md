@@ -119,8 +119,6 @@ not replacements for, conventional medical treatment of MRSA infections.
 
 ## See Also
 
-- [[blesching-cannabis-wound-care]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-cannabis-dermatological-conditions]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

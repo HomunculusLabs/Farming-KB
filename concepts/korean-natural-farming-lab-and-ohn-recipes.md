@@ -108,20 +108,13 @@ Lactic Acid Bacteria (LAB) and Oriental Herbal Nutrient (OHN) are two essential 
 | Stress recovery | LAB + OHN | 1:500 each | 2-3 applications |
 
 ## Related
-- [[korean-natural-farming-imo-recipes]] — for IMO foundation
 - [[korean-natural-farming-fpj-and-ffp-recipes]] — for FPJ and FAA
-- [[jadam-natural-farming-philosophy]] — for JADAM comparison
 - [[compost-tea-brewing]] — for compost tea
-- [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-water-soluble-calcium-preparation]]
-- [[jadam-natural-mineral-water]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 
 ## See Also
 
-- [[korean-natural-farming-fpj-and-ffp-recipes]]
-
 - [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
 
-- [[bahay-kubo-imo-collection-and-preparation]]
 - [[bahay-kubo-fpj-and-ffj-fermentation]]

@@ -18,33 +18,7 @@ humanity. In both hemispheres, Datura played highly significant roles
 in native cultures, while the related genus Brugmansia remains one of
 the principal hallucinogens still employed in South America. In Europe,
 Deadly Nightshade (Atropa belladonna), Henbane (Hyoscyamus niger), and
-Mandrake ([[schultes-mandrake-mandragora-officinarum]]) were the main ingredients of the
-witches' brews of medieval Europe, where they long exerted a great
-cultural and historical influence. All contain potent tropane alkaloids.
-
-## Botanical Description
-
-The Solanaceae (Nightshade Family) encompasses a wide range of
-hallucinogenic genera:
-
-- **Datura stramonium** (Thorn Apple): An annual herb with
-  trumpet-shaped white or purplish flowers and spiny seed capsules.
-  Widely distributed across temperate and subtropical regions worldwide.
-- **Datura innoxia** (Toloache): A perennial species particularly
-  important in Mexican shamanism, with large white trumpet flowers.
-- **Datura metel** (Datura): Known in India where its flowers are
-  brought as offerings to the Hindu god Shiva.
-- **Brugmansia sanguinea** (Blood-Red Angel's Trumpet): A perennial,
-  heavily branched shrub reaching 6-16 ft (2-5 m) with a woody trunk.
-  Gray-green furry leaves roughly serrated at the edge. Flowers are
-  green at the base, yellow in the middle, with a red edge around the
-  top. Does not emit scents at night.
-- **Brugmansia aurea**: A shrub or small tree up to 30 ft (9 m) tall
-  with nodding, very fragrant flowers 7-9 in. (18-23 cm) long. The
-  trumpet-shaped corolla is white or golden yellow. Widely distributed
-  in the Andes above 6,000 ft (1,830 m).
-- **Atropa belladonna** (Deadly Nightshade): A perennial herb native to
-  Europe, central to [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions.
+Mandrake ([[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions.
 - **Mandragora officinarum** (Mandrake): Known as "the man-like plant"
   for its anthropomorphic root, native to the Mediterranean region.
 
@@ -100,51 +74,6 @@ The entire plants contain psychoactive constituents, with concentrations
 varying among plant parts. Roots and seeds typically contain the highest
 alkaloid concentrations.
 
-## [[hofmann-lsd-pharmacology-and-effects]]
+## [[datura-candida]]
 
-Tropane alkaloids are competitive antagonists of muscarinic
-acetylcholine receptors, producing a syndrome known as anticholinergic
-toxidrome. Effects include:
-
-- Dry mouth, dilated pupils, blurred vision
-- Tachycardia, hyperthermia, urinary retention
-- Visual and auditory hallucinations, often with a dreamlike quality
-- Complete inability to distinguish reality from hallucination
-- Amnesia of the experience afterward
-- Potentially fatal at high doses due to respiratory or cardiac arrest
-
-The effects are notably different from classical psychedelics like
-psilocybin or mescaline. Users typically experience a deliriant state
-rather than a lucid visionary experience. The Datura experience is
-often described as frightening, with users conversing with imaginary
-people and objects appearing distorted in size.
-
-## Cultural and Historical Significance
-
-The solanaceous hallucinogens hold perhaps the darkest place in
-ethnobotanical history. In medieval Europe, they were central to the
-witchcraft persecutions, with ointments made from these plants applied
-to mucous membranes producing sensations of flight and encounters with
-demons. In the New World, Datura species served as important
-medicines and divinatory tools, though their dangerous nature was
-well recognized by indigenous peoples.
-
-The book notes that in almost all instances, the use of hallucinogenic
-drugs is restricted to adult males, with striking exceptions including
-situations where Brugmansia may be administered to children.
-
-## Modern Research and Legal Status
-
-Tropane alkaloids from these plants remain important in modern medicine.
-Scopolamine is used for motion sickness, and atropine is essential in
-ophthalmology and as an antidote to nerve agent poisoning. The plants
-themselves are widely cultivated as ornamentals, particularly
-Brugmansia species, despite their extreme toxicity. Most Datura and
-Brugmansia species are legal to grow but their extraction for
-recreational purposes is prohibited in most jurisdictions.
-## See Also
-
-- [[datura-candida]]
-
-- [[plants-gods-peyote]] for another Mexican hallucinogen tradition
 - [[plants-gods-ayahuasca]] for comparison with South American

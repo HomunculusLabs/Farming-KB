@@ -140,8 +140,6 @@ Plant the guild, prioritizing establishment of long-lived perennials. Initial ye
 
 ## See Also
 
-- [[hugelkultur]] — Raised bed technique often integrated with guild plantings
 - [[comfrey]] — Premier dynamic accumulator and guild element
-- [[sheet-mulching]] — No-till site preparation method for guild establishment
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] — Large-scale application of guild principles
 - [[mycorrhizal-networks]] — Fungal associations connecting guild plants underground

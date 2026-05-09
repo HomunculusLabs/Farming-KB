@@ -7,7 +7,7 @@ tags:
   - ascomycete
   - edible-fungi
   - spring-fruiting
-  - mycology
+  - [[mycology]]
   - cup-fungi
   - early-morel
 date: 2026-04-28
@@ -82,45 +82,19 @@ Paraphyses are cylindrical, septate, with slightly clavate tips 4–6 µm wide.
 
 ## Distribution and Habitat
 
-**Geographic range:** Widely distributed across Europe, [[maitake-growth-parameter-comparison-china-japan-north-america]] (particularly the Pacific Northwest, Rocky Mountains, and Great Lakes region), asacramental-[[ayahuasca]]-legal-battles-united-states]] Asia.
+**Geographic range:** Widely distributed across Europe,  (particularly the Pacific Northwest, Rocky Mountains, and Great Lakes region), asacramental--legal-battles-united-states Asia.
 
 Less common in the southeastern United States and at low elevations.
 
-**Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with cottonwood (*Populus deltoides*), aspen (*Populus tremuloides*), and willow (*Salix* spp.).
-
-Also occurs under ash (*Fraxinus*), elm (*Ulmus*), and maple (*Acer*), particularly in areas with disturbed soil or recent flooding.
-
-**Season:** One of the earliest spring fruiters, appearing from March to May (February in mild Pacific Northwest winters).
-
-Fruiting typically begins 2–4 weeks before *Morchella* species in the same region.
-
-**Elevation:** Found from near sea level to approximately 2,000 meters.
-
-**Ecological role:** Likely saprteaming-with-microbes-mycorrhizal-associationsg root systems of hardwood trees, with some evidence of facultative mycorrhizal associations.
-
-The strong association with riparian cottonwood ecosystems suggests a preference for nitrogen-rich alluvial soils.
-
-## Edibility and Culinary Use
-
-Verpa bohemica is generally considered edible when thoroughly [[gyromitrin-t-is-not-recommended-for-raw-consumption.-**⚠️-important:**-raw-*v.-bohemica*-contains-small-quantities-of-gyromitrin,-a-volatile-hydrazine-compound-that-is-hydrolyzed-to-monomethylhydrazine-(mmh).-**preparation:**-caps-should-be-parboiled-for-10–15-minutes-in-abundant-water,-which-must-be-discarded,-before-further-cooking.-some-foragers-recommend-discarding-the-stipes-entirely-and-using-only-caps,-as-the-stipes-can-be-tough-and-fibrous.-**gastrointestinal-sensitivity:**-a-significant-minority-of-consumers-(estimated-10–25%)-experience-nausea,-vomiting,-or-diarrhea-after-eating-*v.-bohemica*,-even-when-properly-cooked.-this-variable-sensitivity-appears-to-be-individual-specific-rather-than-dose-dependent.-for-this-reason,-*v.-bohemica*-is-classified-as-a-"conditional-edible"-by-many-mycological-authorities.-**culinary-quality:**-mild-flavor,-less-complex-than-true-morels.-texture-is-somewhat-rubbery-when-cooked.-most-foragers-who-collect-*v.-bohemica*-do-so-primarily-for-early-season-variety-rather-than-culinary-excellence.-**market-status:**-not-commercially-cultivated.-collected-by-personal-use-foragers-in-regions-where-it-is-abundant.-##-bioactive-compounds-as-with-*helvella*-species,-*v.-bohemica*-contains-trace-amounts-of-gyromitrin,-though-at-lower-concentrations-than-*[[gyromitra-esculenta]]*.
-
-The gyromitrin content is sufficiently reduced by parboiling to render the mushroom safe for most consumers, though individual sensitivity varies.
-
-Other metabolites include [[ergosterol]] and related sterols, fatty acids, and small amounts of phenolic compounds with reported antioxidant activity in vitro.
-
-The pharmacological significance of these secondary metabolites has not been extensively studied.
-
-## Similar Species
-
-| Species | Cap Attachment | Key Distinguishing Feature |
-|---------|---------------|--------------------------|
-| *Verpa conica* | Apex only | Smooth cap, no wrinkles |
-| *[[morchella-esculenta]]* | Base of cap | Pitted cap, attached at base |
-| *Morchella semilanceata* | Base of cap | Conical cap, smaller, vertical pits |
-| *Gyromitra esculenta* | Brain-like mass | Solid stipe, much higher gyromitrin |
+**Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with cottonwood (*Populus deltoides*), aspen (*[[gyromitra-esculenta]]* | Brain-like mass | Solid stipe, much higher gyromitrin |
 
 The distinction between *V. bohemica* and *V. conica* (smooth thimble-cap) is important: *V. conica* has a smooth or nearly smooth cap surface, while *V. bohemica* is distinctly wrinkled.
 
 Both *Verpa* species differ from true morels (*Morchella*) in having the cap attached only at the apex, not at the base.
 
 ## See Also
+
+## See Also
+- [[palmer-about-mushrooms-edible-species-identification]]
+- palmer about mushrooms edible species identification
+- palmer about mushrooms edible species identification

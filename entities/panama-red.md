@@ -117,10 +117,7 @@ Panama Red can be usefully compared with other iconic landrace sativas of the er
 
 ## See Also
 
-- [[humulene]] — terpene commonly found in cannabis landraces including Panama Red
 - [[limonene]] — another significant terpene in Panama Red's profile
 - Marijuana Horticulture — Cervantes' comprehensive cultivation reference
-- [[jadam-red-clay-powder-method]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
-- [[mycofiltration-water-treatment]]
 - [[jadam-autumn-fertilization-principle]]

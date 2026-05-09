@@ -93,45 +93,11 @@ Spawn in advanced states of senescence, although appearing healthy, grows slowly
 
 ## P-Value and the Stock Library Integration
 
-The P-value system works hand-in-hand with the [[growing-gourmet-stock-culture-library|stock culture library]]. When a cultivator retrieves a backup slant from cold storage and expands it for production use, the P-value tracking resumes from wherever the stored slant was frozen in time. A P2 slant retrieved from the library does not suddenly become P7 — it retains its P2 designation. This is the fundamental advantage of the stock library: it allows the cultivator to repeatedly "reset" the generational clock back to a genetically youthful state.
-
-## Recording and Documentation
-
-A laboratory notebook or digital database should record each transfer with the following information:
-
-- Source plate P-value and strain code
-- Destination plate P-value (incremented by one)
-- Date of transfer
-- Media formula used
-- Observations on mycelial appearance and growth rate
-- Any sectoring, color changes, or anomalies noted
-
-This documentation creates a complete genealogical history of each strain, enabling the cultivator to trace back any performance issues to specific generational milestones. Over time, patterns emerge — for instance, a particular shiitake strain may consistently show optimal fruiting performance between P3 and P5 but decline sharply after P7.
-
-## Limitations of the P-Value System
-
-While useful, the P-value system has inherent limitations that cultivators should understand:
-
-- It is a relative measure, not an absolute count of cell divisions
-- Different transfer techniques (larger vs. smaller inoculum) introduce variability
-- Media type influences the apparent number of generations needed to fill a plate
-- Environmental factors (temperature fluctuations, incubation duration) affect the accuracy
-
-Despite these limitations, the P-value remains the most practical and widely adopted system for tracking strain age in commercial mushroom cultivation.
-
-## Practical Implementation Tips
-
-- Always keep multiple backup slants at low P-values so you can "go back in time" if a working culture shows signs of decline.
-- When a working culture reaches P5 or P6, retrieve a fresh P1 or P2 slant from the stock library and restart the expansion chain.
-- Document the performance of each P-value generation to build a strain-specific knowledge base over time.
-- The P-value system is most useful when combined with systematic [[growing-gourmet-strain-evaluation-28-features|strain evaluation]] using the 28 features described in Chapter 14.
+The P-value system works hand-in-hand with the [[growing-gourmet-strain-evaluation-28-features|strain evaluation]] using the 28 features described in Chapter 14.
 
 ## Related Concepts
 
-- [[growing-gourmet-stock-culture-library|Stock Culture Library]] — preservation and management
 - [[growing-gourmet-strain-senescence-degeneration|Strain Senescence and Degeneration]]
-- [[growing-gourmet-spore-germination-strain-isolation|Spore Germination and Strain Isolation]]
 - [[growing-gourmet-volunteer-primordia-agar-media|Volunteer Primordia on Agar Media]]
-- [[growing-gourmet-dikaryotic-mycelium-clamp-connections|Dikaryotic Mycelium and Clamp Connections]]
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage|Culture Slant Preservation and Cryogenic Storage]]
 - Nutrified Agar Media Formulas and Preparation

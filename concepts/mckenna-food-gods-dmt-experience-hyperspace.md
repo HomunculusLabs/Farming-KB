@@ -13,49 +13,7 @@ type: concept
 
 ## DMT as the Gateway to the Other
 
-In the final chapter of *Food of the Gods*, Terence McKenna turns to N,N-dimethyltryptamine (DMT) as the most compelling evidence for his thesis that hallucinogenic indoles are agents of evolutionary change and gateways to a genuine parallel dimension.
-
-DMT occurs as a part of ordinary human neurometabolism and is the most powerful of the naturally occurring indole hallucinogens. The extraordinary ease with which DMT utterly destroys all boundaries and conveys one into an impossible-to-anticipate and compellingly Other dimension is, for McKenna, one of the miracles of life itself.
-
-And this first miracle is followed by a second: the utter ease and simplicity with which enzyme systems in the human brain recognize the DMT molecules at the synapses. After only a few hundred seconds, these enzymes have completely and harmlessly inactivated the DMT and reduced it to by-products of ordinary metabolism.
-
-That the most powerful of all hallucinogenic indoles allows ordinary amine levels in the brain to be reestablished so quickly argues there may have been a long co-evolutionary association between human beings and hallucinogenic tryptamines.
-
-Although psilocybin and psilocin are not presently thought to directly metabolize into DMT before becoming active in the brain, nevertheless their pathway is the closest of relatives to the neural pathway of DMT activity. Indeed, they may be active at the same synapses, with DMT being more reactive due to pharmacokinetic differences — DMT may cross the blood-brain barrier more readily, so that more reaches the site of activity in a shorter time.
-
-## The Membrane of Transformation
-
-What has impressed McKenna repeatedly during his many glimpses into the world of the hallucinogenic indoles, and what seems generally to have escaped comment, is the transformation of narrative and language. The experience that engulfs one's entire being as one slips beneath the surface of the DMT ecstasy feels like the penetration of a membrane.
-
-The mind and the self literally unfold before one's eyes. There is a sense that one is made new, yet unchanged, as if one were made of gold and had just been recast in the furnace of one's birth. Breathing is normal, heartbeat steady, the mind clear and observing.
-
-But what of the world? What of incoming sensory data? Under the influence of DMT, the world becomes an Arabian labyrinth, a palace, a more than possible Martian jewel, vast with motifs that flood the gaping mind with complex and wordless awe.
-
-Color and the sense of a reality-unlocking secret nearby pervade the experience. There is a sense of other times, and of one's own infancy, and of wonder, wonder, and more wonder. It is an audience with the alien nuncio.
-
-In the midst of this experience, apparently at the end of human history, guarding gates that seem surely to open on the howling maelstrom of the unspeakable emptiness between the stars, is the Aeon.
-
-## The Self-Transforming Machine Elves
-
-The Aeon, as Heraclitus presciently observed, is a child at play with colored balls. Many diminutive beings are present there — the tykes, the self-transforming machine elves of hyperspace. Are they the children destined to be father to the man?
-
-One has the impression of entering into an ecology of souls that lies beyond the portals of what we naively call death. Are they the synesthetic embodiment of ourselves as the Other, or of the Other as ourselves? Are they the elves lost to us since the fading of the magic light of childhood?
-
-Here is a tremendum barely to be told, an epiphany beyond our wildest dreams. Here is the realm of that which is stranger than we can suppose. Here is the mystery, alive, unscathed, still as new for us as when our ancestors lived it fifteen thousand summers ago.
-
-The tryptamine entities offer the gift of new language; they sing in pearly voices that rain down as colored petals and flow through the air like hot metal to become toys and such gifts as gods would give their children. The sense of emotional connection is terrifying and intense.
-
-The Mysteries revealed are real and if ever fully told will leave no stone upon another in the small world we have gone so ill in. McKenna insists this is not the mercurial world of the UFO, to be invoked from lonely hilltops; this is not the siren song of lost Atlantis wailing through the trailer courts of crack-crazed America.
-
-DMT is not one of our irrational illusions. "I believe that what we experience in the presence of DMT is real news. It is a nearby dimension — frightening, transformative, and beyond our powers to imagine, and yet to be explored in the usual way. We must send fearless experts, whatever that may come to mean, to explore and to report on what they find."
-
-## Routes of Administration
-
-Research on DMT, particularly in human beings, has been by and large inadequate. When DMT has been studied, it was administered by injection. This is the preferred procedure with experimental drugs because dosages can be known precisely.
-
-Nevertheless, in the case of DMT this approach masked the existence of the extraordinary "turnaround time" of the experience when DMT is smoked. The experience of DMT by intramuscular injection lasts nearly an hour; the peak of the experience obtained by smoking occurs in about one minute.
-
-In the Amazon Basin some tribal people have a tradition of using DMT-containing plants. They use the sap of Virola trees, relatives of nutmeg, or the ground and toasted seeds of Anadenanthera peregrina, a huge leguminous tree.
+In the final chapter of *Food of the Gods*, [[anadenanthera-peregrina]] rina, a huge leguminous tree.
 
 The generally accepted method of activating the indole is to snuff the powdered plant material. Such snuffing is not left to the discretion of the user; rather, the user has a friend blow a hollow reed full of fine powder up first one nostril, then the other.
 
@@ -117,7 +75,5 @@ Through them, we have had placed into our hands a tool for the redemption of the
 
 ## Related Concepts
 
-- [[mckenna-food-gods-tryptamine-dimension|The Tryptamine Dimension]]
-- [[mckenna-food-gods-tryptamine-pharmacology-indoles|Tryptamine Pharmacology and Indoles]]
-- [[mckenna-food-gods-archaic-revival|The Archaic Revival]]
-- [[mckenna-food-gods-designer-states-of-consciousness|Designer States of Consciousness]]
+- [[mckenna-food-gods-tryptamine-pharmacology-indoles]]
+- [[mckenna-food-gods-designer-states-of-consciousness]]

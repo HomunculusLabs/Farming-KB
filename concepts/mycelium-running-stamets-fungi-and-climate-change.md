@@ -75,18 +75,10 @@ Stamets proposes mycorestoration -- using fungi to restore damaged habitats -- a
 
 ## See Also
 
-- [[mycorrhizal-carbon-sequestration]]
 - [[fungal-climate-change-responses]]
-- [[fungi-in-climate-change]]
 - [[fungal-responses-climate-change]]
-- [[dighton-fungi-climate-change-feedback]]
 - [[biodiversity-of-fungi-ecosystem-services-agriculture]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[mycoforestry]]
-- [[unknown-mycelium-mycofiltration]]
 - [[mycelium-running-bioremediation-mushroom-projects]]
-- [[mycelium-running-remediating-toxic-waste]]
 - [[mycelium-natures-internet]]
-- [[mycelium-running-conservation-biology-and-fungi]]
-
 - [[stamets-mushrooms-world-asia-australia]]

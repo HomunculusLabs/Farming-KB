@@ -3,12 +3,7 @@ title: Mushroom Habitats and Ecological Niches
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources: []
----
-# Mushroom Habitats and Ecological Niches
-
-Each mushroom species occupies a specific ecological niche defined by substrate, temperature, moisture, associated organisms, and geography. Understanding these niches is essential for both identification and cultivation. From *Mycelium Running* by [[stamets-mycoremediation-principles]].
+tags: [[stamets-mycoremediation-principles]].
 
 ## Overview
 
@@ -119,10 +114,7 @@ The exact timing varies by species, latitude, elevation, and seasonal weather pa
 
 ## Related Concepts
 
-- [[fungal-ecology]] — broader ecosystem roles
-- [[the-soil-food-web]] — forest floor decomposition
-- [[fungal-diversity-and-mushroom-categories]] — species categorization
+- [[soil-food-web-nutrient-cycling]] — forest floor decomposition
 - [[mushroom-species-guide]] — cultivation parameters by species
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[oyster-mushroom-species-fruiting-parameters]]
 - [[tropical-vs-temperate-fungal-diversity]]

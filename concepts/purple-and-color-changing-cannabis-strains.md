@@ -51,13 +51,7 @@ like they have been covered in Velcro and rolled in a field of heather, with vei
 running through valleys of green — so gorgeous that growers barely dare to touch them.
 This incredibly rare strain is suitable only for outdoor cultivation and can withstand both high
 humidity and extreme temperature drops with impressive mold resistance. It requires minimal
-nutrients and responds very well to [[low-stress-training]]. In hot climates, plants can reach 6 to
-7 feet even in containers with very heavy yields.
-THC content ranges from 8.7% to 11% with CBD at 0.14%. Despite its delicate, almost fragile
-appearance, the strain is extremely potent and will have consumers flying above the clouds
-before they know it.
-
-### [[purple-haze]] Thai
+nutrients and responds very well to [[purple-haze]] Thai
 
 ACE Seeds created this 100% sativa variety by crossing Purple Haze with Meo Thai F3 genetics.
 This stabilized hybrid of sativas dating to the 1970s offers the Purple Haze characteristics
@@ -137,8 +131,6 @@ sweet, tangy pineapple flavor with a creamy hash aftertaste. THC content is appr
 
 ### Holy Purple Thai
 ## See Also
-
-- [[jack-herer-cannabis-strain]]
 
 - [[haze-lineage-and-history]]
 

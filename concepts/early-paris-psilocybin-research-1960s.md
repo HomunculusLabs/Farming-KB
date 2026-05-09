@@ -120,8 +120,10 @@ that would later be documented in clinical settings.
 
 ## See Also
 
-- [[leary-harvard-psilocybin-project]]
 - [[roger-heim-scientific-study-psilocybin]]
-- [[albert-hofmann]]
-- [[good-friday-experiment-marsh-chapel]]
+- gordon-wasson
 - [[psilocybin-pharmacology-detail]]
+
+## See Also
+
+- [[psilocybin-clinical-research-history]]

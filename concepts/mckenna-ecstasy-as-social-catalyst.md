@@ -138,11 +138,8 @@ permeates Western civilization, a culture that has wandered into a state of prol
 because of the absence of a connection to the unconscious and to the earth. The suppression
 of the natural human fascination with altered states and the present perilous situation of all
 life on earth are, for McKenna, intimately and causally connected.
-
 ## See Also
 
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
-- [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-agriculture-and-the-fall-from-paradise]]
-- [[mckenna-techniques-of-ecstasy]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]

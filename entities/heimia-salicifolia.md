@@ -105,9 +105,7 @@ Documentation and preservation of traditional knowledge about Sinicuichi prepara
 
 H. salicifolia occupies a unique niche among Mexican psychoactive plants due to its primarily auditory effects:
 
-- [[lophophora-williamsii]] — Peyote, produces visual hallucinations via mescaline
 - [[salvia-divinorum]] — Diviner's Sage, produces dissociative effects via salvinorin A
-- [[turbina-corymbosa]] — Ololiuqui, produces LSD-like effects via morning glory alkaloids
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]] — produces classical psychedelic effects via psilocybin
 
 The auditory focus of Sinicuichi sets it apart from all other known Mexican hallucinogens, which produce primarily visual or dissociative effects. This unique pharmacological profile makes H. salicifolia a particularly interesting subject for neuropharmacological research.
@@ -115,7 +113,5 @@ The auditory focus of Sinicuichi sets it apart from all other known Mexican hall
 ## See Also
 
 - tagetes-lucida — another Mexican psychoactive plant, sometimes called Pericon
-- [[lophophora-williamsii]] — Peyote, the most famous Mexican hallucinogen
 - [[salvia-divinorum]] — Diviner's Sage, another Mexican psychoactive plant
-- [[turbina-corymbosa]] — Ololiuqui, Aztec morning glory hallucinogen
 - [[coryphantha-compacta]] — Bakana, a Mexican cactus with psychoactive properties

@@ -61,7 +61,7 @@ Sempervivum is generally the tougher cold-weather genus, tolerating exposed, win
 | Soil fertility | Low to moderate; avoid rich soils | Very low; poor soil preferred |
 | pH range | 6.0–7.5 | 6.0–8.0 (alkaline-tolerant) |
 
-Neither genus tolerates heavy clay or persistently wet feet. Raised beds, gravel mulch, and gritty mixes are recommended.
+Neither genus tolerates heavy clay or persistently wet feet. Raised beds, in-ground, and containers all work with appropriate drainage. Gritty mixes are recommended.
 
 ## Water Needs
 
@@ -135,7 +135,9 @@ Both genera reward gardeners with years of beauty and resilience. For maximum im
 
 ## See Also
 
-- [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]
-
-- [[green-roof-and-living-walls]]
 - [[permaculture-ground-cover-plants]]
+- [[plant-propagation]]
+
+## See Also
+
+- [[gaias-garden-living-mulches-ground-covers]]

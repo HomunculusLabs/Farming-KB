@@ -91,12 +91,7 @@ cannabis sickle cell results from a single point mutation in the beta-globin gen
 Thalassemias are quantitative defects in globin chain synthesis, classified by which chain is deficient:
 
 - **Alpha-thalassemia**: Caused by deletions of one or more of the four alpha-globin genes. Severity ranges from silent carrier (one gene deleted) to HbH disease (three deleted, with beta-4 tetramers causing mild-to-moderate hemolytic anemia) to hydrops fetalis (all four deleted, lethal in utero without intervention).
-- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and [[mycorrhizal-siderophores-iron-chelation]] therapy.
-
-### Other Clinically Significant Variants
-
-- **HbC (Glu6Lys)**: Mild hemolytic anemia; heterozygotes also have malaria resistance.
-- **HbE (Glu26Lys)**: Common in [[fungi-of-southeast-asia]]; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
+- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and [[fungi-of-southeast-asia]]; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
 - **Methemoglobinemia**: Either congenital (cytochrome b5 reductase deficiency) or acquired (oxidant drugs, nitrates), causing functional anemia and cyanosis due to Fe3+-heme that cannot bind O2.
 
 ## Evolutionary Aspects
@@ -113,9 +108,7 @@ Hemoglobins belong to the globin superfamily, an ancient lineage of heme-binding
 Hemoglobin is an exquisitely optimized molecular machine whose allosteric properties — cooperative binding, Bohr effect, 2,3-BPG regulation, and developmental isoform switching — allow vertebrates to meet the competing demands of O2 loading in the lung and unloading in metabolically diverse tissues. Its structural simplicity (four nearly identical subunits) belies sophisticated regulation, and its genetic vulnerability (single-residue mutations causing devastating disease) reflects the evolutionary trade-off between functional optimization and mutational fragility.
 ## Related
 
-- [[hemoglobin-vs-myoglobin]]
 - [[query-how-does-hemoglobin-know-when-to-release-oxygen]] Topics
 
-- [[mycorrhizal-fungi]]
 - [[fungal-vacuolar-systems-and-nutrient-transport]]
 - [[fungal-single-cell-protein-production]]

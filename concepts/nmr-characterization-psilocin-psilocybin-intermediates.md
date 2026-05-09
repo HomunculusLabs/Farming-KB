@@ -19,12 +19,7 @@ type: concept
 
 The Shirota, Hakamata, and Goda (2003) paper provides comprehensive
 NMR characterization of psilocin (compound 1), psilocybin (compound 2),
-the zwitterionic [[alpha-n-o-tms-entity-tihkal]] dibenzyl phosphate intermediate intermediate (compound 8), and two synthetic
-intermediates (compounds 4 and 6). The data include 1H, 13C, and 31P
-NMR spectra, along with 2D experiments (HMBC and NOESY) that were
-critical for determining the structure of the novel zwitterionic
-intermediate. All spectra were recorded on Varian spectrometers (Mercury
-400 and Unity 400 plus) at [[jadam-ambient-temperature-principle]].
+the zwitterionic [[jadam-ambient-temperature-principle]].
 
 ## General Experimental Conditions
 
@@ -32,17 +27,7 @@ intermediate. All spectra were recorded on Varian spectrometers (Mercury
   compounds measured in CDCl3. For psilocybin measured in D2O, the
   solvent residue peak (HDO) was used for the 1H NMR reference, and
   one drop of methanol was added as the 13C NMR reference.
-- **31P NMR**: [[knf-water-soluble-phosphoric-acid-detailed]] was used as the external standard.
-- **Chemical shifts**: Reported in delta (ppm), coupling constants (J)
-  in Hz.
-- **Frequencies**: 400 MHz for 1H, 100 MHz for 13C, 162 MHz for 31P.
-
-## Psilocin (Compound 1) NMR Data
-
-### 1H NMR (CDCl3, 400 MHz)
-
-The psilocin spectrum displays the characteristic pattern of a
-[[4-hydroxyindole]] with an ethylamine side chain:
+- **31P NMR**: [[4-hydroxyindole]] with an ethylamine side chain:
 
 - 7.90 ppm (1H, br s): Indole NH (H-1)
 - 7.05 ppm (1H, d, J = 8.0 Hz): H-6
@@ -144,6 +129,6 @@ chromophore.
 ### Mass Spectrometry
 
 ESI-HRMS confirmed molecular formulas:
-- Psilocin: [M + H]+ m/z 205.1303 (calc. 205.1341 for C12H17N2O)
-- Psilocybin: [M + H]+ m/z 285.0991 (calc. 285.1004 for
-  C12H18N2O4P)
+## See Also
+
+- [[psilocin-psilocybin-characterization]]

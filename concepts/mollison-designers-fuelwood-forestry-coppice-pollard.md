@@ -1,17 +1,7 @@
 ---
 title: "Fuelwood Forestry: Coppice, Pollard, and Sustainable Yield"
 created: 2026-04-28
-tags: [permaculture, forestry, fuelwood, coppice, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Fuelwood Forestry: Coppice, Pollard, and Sustainable Yield
-
-[[agroforestry]] integrates fuelwood production with agricultural systems,
+tags: [[agroforestry]] integrates fuelwood production with agricultural systems,
 and Mollison addresses fuelwood production as a critical component of permaculture
 land use in Permaculture: A Designer's Manual. In a world increasingly dependent
 on fossil fuels, the sustainable production of wood fuel from designed
@@ -28,8 +18,7 @@ the world's population. Even in industrialized nations, wood fuel offers a
 renewable, carbon-neutral energy source when managed sustainably -- the carbon
 released during combustion equals the carbon sequestered during tree growth.
 Mollison argues that every permaculture site should dedicate a portion of its
-area to fuelwood production, integrated with [[food-forest-design-guide]]
-and [[permaculture-earthworks]].
+area to fuelwood production, integrated with [[permaculture-earthworks]].
 
 ## Coppicing
 
@@ -125,26 +114,8 @@ air-dried hardwood roughly equals the energy of 400-500 liters of heating oil.
 
 ## Woodlot Design
 
-Design fuelwood woodlots using [[pdc-zone-analysis-guide]] principles.
-In temperate climates, woodlots typically occupy Zone 3-4. Design
-considerations:
-
-**Species mix:** Plant multiple species for resilience against pests, diseases,
-and climate variation. Include nitrogen-fixing species (alder, black locust)
-to improve soil fertility. Maintain a proportion of long-rotation species
-for larger fuelwood and habitat.
-
-**Access:** Design rides (access paths) at regular intervals for extraction
-and firebreaks. Rides also provide edge habitat and sunny glades.
-
-**Understory:** Use the shadier, protected environment for shade-tolerant crops
-(mushrooms, ginseng, medicinal herbs) or livestock shelter.
-
-**Integration with water:** Position woodlots on upper slopes to protect
-[[mollison-designers-pond-construction-liner-sealing]] and riparian areas from
+Design fuelwood woodlots using [[mollison-designers-pond-construction-liner-sealing]] and riparian areas from
 sediment and nutrient runoff. Maximize edge between woodlot and open land using
 irregular boundaries for greatest diversity and productivity.
 
 ## Drying and Storage
-
-Fresh-cut wood contains 50-60% water. Air-dry for 6-12 months under cover to

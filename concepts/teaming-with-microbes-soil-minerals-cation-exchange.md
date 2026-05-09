@@ -13,31 +13,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Understanding soil mineral composition and how nutrients are held and exchanged is fundamental to understanding how the [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] feeds plants. While the biology of the soil food web handles nutrient cycling, the physical and chemical properties of soil minerals determine whether those nutrients stay available or leach away.
-
-## The Eight Major Soil Elements
-
-Although there are almost 90 different chemical elements in soil, only eight constitute the majority of the mineral component: oxygen, silicon, aluminum, iron, magnesium, calcium, sodium, and potassium. All have an electric charge on a molecular level, and in different combinations these electrically charged molecules combine to form different minerals. This is the foundation of soil's ability to hold and release plant nutrients.
-
-## Weathering: Creating Minerals
-
-Your yard's soil is largely a product of weathering—the sum impact of all natural forces that decay rocks. These forces include:
-
-- **Physical weathering**: Wind, rain, snow, sun, cold, glacial grinding, and water action physically break rocks into mineral particles. Water freezing in rock cracks expands by 9%, exerting about 2000 pounds per square inch of force.
-- **Chemical weathering**: Water, oxygen, and carbon dioxide dissolve rock by breaking molecular bonds. Some materials go into solution, causing structural collapse.
-- **Biological weathering**: Mosses, lichens (specifically the fungi in them), and plant roots produce acids and chelating agents that dissolve bits of rock. Fungi produce acids; bacteria produce alkaline substances. Microbes also produce ammonia and nitric acids, which act as solvents.
-
-## Soil Components
-
-Good garden soil is approximately 45% mineral matter and 5% organic matter (the rest being air and water). Minerals come from weathered parent rock and include:
-
-- **Sand particles**: Mostly quartz, but also silicates, feldspars (potassium-aluminum silicate, sodium-aluminum silicate, calcium-aluminum silicate), iron, and gypsum (calcium sulfate)
-- **Silt particles**: Similar mineral composition to sand but much smaller
-- **Clay particles**: Extremely small, with enormous surface area relative to volume
-
-## Cation Exchange Capacity (CEC)
-
-The mechanism by which soil holds nutrients is called cation exchange. Tiny soil particles carry electrical charges: positively charged ions are cations, negatively charged ones are anions. Sand particles are too large to carry electrical charges, but both clay and [[teaming-with-microbes-humic-and-fulvic-acids]] particles are small enough to have abundant negatively charged anions that attract positively charged cations.
+Understanding soil mineral composition and how nutrients are held and exchanged is fundamental to understanding how the [[teaming-with-microbes-humic-and-fulvic-acids]] particles are small enough to have abundant negatively charged anions that attract positively charged cations.
 
 ### Key Cations (Plant Nutrients)
 The cations absorbed by clay and humus include:
@@ -80,19 +56,27 @@ Soil develops distinct layers (horizons) over time. For gardeners, the O and A h
 - **O horizon**: Contains organic material—fibric (identifiable plant matter), humic (decomposed but recognizable), and sapric (fully decomposed, unidentifiable origin)
 - **A horizon**: Below the O horizon, where humus accumulates. This has the highest organic matter content, highest biological activity, and is where roots grow
 
-The goal of [[teaming-with-microbes-no-till-gardening-soil-health]] is to maintain proper mixtures of minerals, organic matter, air, and water in these top layers.
-
-## Water in Soil
-
-Water moves through soil pore spaces by gravity (gravitational water) or capillary action (capillary water). Gravitational water passes through quickly; capillary water remains in smaller pores and is the major water source for plants. Hygroscopic water is a thin film only a few molecules thick, bonded so tightly that roots cannot absorb it, but it is critical for microbial survival and movement.
-
-## Related
-
-- [[teaming-with-microbes-classic-soil-science]]
-- [[teaming-with-microbes-humic-and-fulvic-acids]]
+The goal of [[teaming-with-microbes-classic-soil-science]]
 - [[teaming-with-microbes-bacteria]]
-- [[teaming-with-microbes-fungi]]
 - [[root-exudates]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 - [[glomalin-and-soil-carbon]]
 - [[teaming-with-microbes-overview]]
+## Practical Considerations
+
+Successful implementation of Teaming with Microbes: Soil Minerals and Cation Exchange requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

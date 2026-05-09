@@ -74,9 +74,6 @@ In nature, *L. edodes* fruits in spring and autumn, triggered by temperature dro
 
 ## See Also
 
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
 - [[schizophyllum-commune]]
-- [[ergothioneine]]
 - [[beta-glucan-receptor-binding]]

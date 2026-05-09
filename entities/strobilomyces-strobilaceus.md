@@ -22,25 +22,25 @@ sources:
 ---
 ## Overview
 
-Strobilomyces strobilaceus, commonly known as Old Man of [[chicken-of-the-woods]], is a
+Strobilomyces strobilaceus, commonly known as Old Man of , is a
 distinctive bolete mushroom recognized by its dark, shaggy cap that
 resembles a mature pinecone.
 
 It is an ectomycorrhizal species found in deciduous and mixed forests
-across temhuckleberries-and-wild-berries-of-north-americaf [[palmer-edible-mushrooms-north-america]], Europe, and East Asia.
+across temhuckleberries-and-wild-berries-of-north-americaf , Europe, and East Asia.
 
 The species is edible when thorouquery-how-to-process-acorns-for-foodked, with a mild flavor, and
 is collected for food in parts of China, Japan, and eastern Europe.
 
 S. strobilaceus is the type species of the genus Strobilomyces, a small
-genuallegro-[[canaanite-religion-and-mushroom-symbolism]]-and-the-mushroom]] characterized by dark, ornamented spores and scaly or
+genuallegro--and-the-mushroom characterized by dark, ornamented spores and scaly or
 fibrous caps.
 
-[[allegro-canaanite-religion-and-the-mushroom]] is easily recognized in the field by its unique appearance,
+ is easily recognized in the field by its unique appearance,
 making it one of the few boletes identifiable without microscopic
 examination.
 
-## Taxonomy [[trichome-development-and-morphology]]
+## Taxonomy 
 
 **Classification:** Fungi > Basidiomycota > Boletales > Boletaceae >
 Strobilomyces > S. strobilaceus
@@ -75,17 +75,17 @@ when exposed to air.
 brown, with prominent longitudinal ridges forming a reticulate or
 striate ornamentation — distinctive within the Boletaceae.
 
-**[[spore-print]]:** Dark brown to black.
+**:** Dark brown to black.
 
 ## Distribution and Habitat
 
 Strobilomyces strobilaceus has a wide distribution across temperate
 regions of the Northern Hemisphere.
 
-[[neurotropic-fungi-in-north-america]], it occurs from eastern Canada south to Florida and
+, it occurs from eastern Canada south to Florida and
 west to the Great Plains, fruiting from July through October.
 
-[[hallucinogenic-mushroom-market-in-europe]], it is found across the continent from Scandinavia to the
+, it is found across the continent from Scandinavia to the
 Mediterranean, associated with oak, beech, and hornbeam forests.
 
 East Asian populations are documented in China, Japan, and Korea, where
@@ -116,34 +116,9 @@ as "baran grzyb" (mushroom ram) in Polish tradition.
 The mushroom must be thoroughly cooked before consumption — raw or
 undercooked specimens may cause mild gastrointestinal upset.
 
-Some fiel [[spore-print-collection-spore-mass-inoculation]] ution that the dark pore surface and blackish
-spore print may deter novices, but the distinctive pinecone-like cap
-makes misidentification with toxic species unlikely.
-
-## Bioactive Compounds
-
-Research on S. strobilaceus has identified several bioactive
-metabolites of pharmacological interest.
-
-**Strobilomycin**, a melanin-derived pigment, has demonstrated
-antimicrobial activity against Gram-positive bacteria and some fungi.
-
-Polysaccharide extracts show immunomodulatory effects in vitro,
-including stimulation of macrophage activity and anti-tumor activity
-in mouse models.
-
-**Thelephoric acid**, a terphenyl compound isolated from fruiting
-bodies, exhibits moderate antioxidant and anti-inflammatory activity.
-
-Protein-bound polysaccharides (lectins) from the species have shown
-antiproliferative effects against certain cancer cell lines.
-
-## Ecological Role
-
-As an ectomycorrhizal species, S. strobilaceus forms mutualistic
-associations with forest trees, exchanging soil minerals and water for
-photosynthetically fixed carbon.
-
-The species contributes to forest nutrient cycling through
-decomposition of organic matter and serves as a food source for
-mammals, insects, and slugs.
+Some fiel  ution that the dark pore surface and blackish
+[[boletus-edulis-entity]]
+- [[mushroom-toxicity-identification-warnings]]
+- mushroom cultivation-for-people-with-disabilities]]
+- ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+- [[mycoforestry-forest-management-with-fungi]]

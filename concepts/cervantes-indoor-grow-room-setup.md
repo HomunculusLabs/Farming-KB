@@ -8,7 +8,7 @@ sources:
   - raw/papers/marijuana-horticulture-cervantes.md
 ---
 
-# [[cannabis-indoor-soil-mix-and-preparation]] [[green-grow-room-environment]] Setup and Ventilation
+# [[green-grow-room-environment]] Setup and Ventilation
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
 
@@ -108,6 +108,5 @@ High humidity during flowering promotes bud rot (botrytis) and other fungal dise
 Grow rooms require significant electrical power for lighting, ventilation, and pumps. All electrical connections should be grounded and protected by circuit breakers. Use timers rated for the electrical load. Keep electrical connections away from water sources. Ground fault circuit interrupters (GFCI) outlets are essential in any environment where water and electricity coexist.
 
 ## Related Topics
-- [[cervantes-lighting-systems]] — Lighting setup and spectrum
 - [[cervantes-growing-medium]] — Growing medium and containers
 - [[cervantes-cloning]] — Clone and mother plant care

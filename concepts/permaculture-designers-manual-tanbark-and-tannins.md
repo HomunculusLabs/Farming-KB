@@ -3,60 +3,24 @@ title: Tanbark and Tannins
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Tanbark and Tannins
-# Permaculture Designers Manual - Tannin Production and Applications
-
-updated: 2026-04-18
-
-## Overview
-
-Tannins are [[water-soluble-calcium-phosphate-wcp]] phenolic compounds found widely [[allegro-death-and-resurrection-in-the-mushroom-cult]] plant kingdom, especially in bark, leaves, galls, and unripe fruits. The [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] references tannins in several contexts: as products of forest management for leather tanning, as natural mordants for [[permaculture-designers-manual-natural-dyes]], as factors affecting [[aact-ph-water-quality-ingham]], and as compounds requiring management in acorn processing for human food. Tanbark (bark rich in tannins) has historically been a major forest product and remains a sustainable yield from managed woodland.
+tags: [[water-soluble-calcium-phosphate-wcp]] phenolic compounds found widely [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] references tannins in several contexts: as products of forest management for leather tanning, as natural mordants for [[aact-ph-water-quality-ingham]], and as compounds requiring management in acorn processing for human food. Tanbark (bark rich in tannins) has historically been a major forest product and remains a sustainable yield from managed woodland.
 
 ## Tannin-Rich Species
 
-### [[acacia]] (Wattle) Bark
-
-Acacia species are among the most important commercial sources of tannin. The wattle bark industry was historically significant in Australia and Africa, with extensive plantations established specifically for bark harvest. [[williams-pdc-plants-in-permaculture-systems]]:
+### [[williams-pdc-plants-in-permaculture-systems]]:
 - Acacia species serve multiple functions (nitrogen fixation, windbreaks, forage, and tanbark)
 - Regular coppicing provides sustainable bark harvests
 - The bark is rich in condensed tannins suitable for leather tanning
 
 ### Oak Bark
 
-Oak bark has been used for leather tanning in Europe for centuries. Oak forests managed for coppice provide regular bark supplies. [[allegro-plants-and-drugs-in-the-ancient-world]] permaculture context, oak systems yield:
-- Tanbark for leather tanning
-- Timber and firewood
-- Acorns for food (after tannin removal)
-- Habitat for wildlife
-- [[permaculture-designers-manual-mulch-systems]] from leaf fall
+Oak bark has been used for leather tanning in Europe for centuries. Oak forests managed for coppice provide regular bark supplies. [[permaculture-designers-manual-mulch-systems]] from leaf fall
 
 ### Other Tannin Sources
 
 The manual references several additional species and contexts for tannin production:
 - Species noted for smog tolerance that also produce medicinals, food dyes, stabilisers, and tannins
-- Tree bark listed as a product [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] small forest farm
-- Humic acids and tannins issuing from forested catchments
-
-## Forest Farm Tannin Production
-
-The small forest farm model (Figure 12.10) specifically includes bark for craft and dyes among the sustainable yields from a 12-16 hectare managed woodland. Tannin production integrates with other forest products:
-
-### Zoned Harvest System
-
-The forest farm is zoned for frequency of harvest:
-- **Zone A (nursery)**: Frequent harvest, seed, fungi
-- **Zone B (orchard/food)**: Medium frequency, small fruit, nuts
-- **Zone C (coppice/poles)**: Regular cycle, bark, poles, mulch
-- **Zone D (timber)**: Long cycle, sawlogs, specialty timber
-
-Tanbark harvesting fits primarily into Zone C (coppice cycle) and Zone D (as a by-product of timber management).
-
-## Tannins and [[water-management]] Quality
+- Tree bark listed as a product [[water-management]] Quality
 
 ### Forest Catchment Effects
 
@@ -93,11 +57,7 @@ Acorn processing connects to broader oak management systems:
 - Oak coppice for tanbark and fuel
 - Oak orchards for acorn harvest
 - Oak silvopasture for livestock forage (pigs eat acorns directly)
-- Oak woodland for [[wildlife-habitat-creation]]
-
-## Tannins as Natural Mordants
-
-In the context of [[permaculture-designers-manual-natural-dyes]], tannins serve as:
+- Oak woodland for [[permaculture-designers-manual-natural-dyes]], tannins serve as:
 - Natural mordants that help dye bind to fiber
 - Direct dye sources producing yellow, brown, and black colors
 - Colorfastness enhancers for other natural dyes

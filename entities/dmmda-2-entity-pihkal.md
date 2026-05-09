@@ -71,14 +71,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[mescaline-entity]]
 - [[dom]]
-- [[qualitative-comments-methodology-pihkal]]
 - [[cannabis-safety-profile-and-overdose-risk]]
 
 ## See Also
 
-- [[dmmda-entity-pihkal]]
 - [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 

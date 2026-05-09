@@ -3,7 +3,7 @@ title: Mycorrhizal Mineral Weathering Nutrient Acquisition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, soil-biology, symbiosis]
+tags: [[mycology, soil-biology, symbiosis]
 sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 ---
 Mycorrhizal Fungi in Mineral Weathering and Nutrient Acquisition
@@ -122,11 +122,7 @@ Mycorrhizal mineral weathering has several important consequences:
   translocation processes
 
 Related topics:
-- [[fungal-weathering-rocks-minerals]]
 - [[fungal-biogeochemistry]]
-- [[fungal-oxalate-production-metal-transformation]]
 - [[fungal-heavy-metal-interactions]]
-- [[ectomycorrhizal-ecology]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-soil-aggregation]]
 - [[fungal-nutrient-cycling-forests]]

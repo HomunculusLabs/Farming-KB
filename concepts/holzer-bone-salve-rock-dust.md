@@ -85,15 +85,9 @@ While not rock dust per se, Holzer's mulching philosophy shares the principle of
 
 ## See Also
 
-- [[eugenia-bone]]
-
 - [[comparison-kelp-meal-vs-rock-dust]]
 
-- [[composting-humus-building-holzer]]
 - [[holzer-fruit-growing-marginal-climates]]
-- [[soil-food-web-structure]]
 - [[holzer-farming-philosophy]]
-- [[sepp-holzer-composting-mulching-and-liquid-fertiliser]]
 - [[holzer-fruit-tree-planting-method]]
-- [[sepp-holzer-composting-and-humus-building]]
 - [[holzer-wild-fruit-trees-and-hedges]]

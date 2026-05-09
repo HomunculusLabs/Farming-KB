@@ -119,21 +119,12 @@ Thelephora terrestris is most similar to Suillus bovinus in decomposition suppre
 
 ## See Also
 
-- [[thelephora-palmata]]
-
 - [[tribulus-terrestris]]
-
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 
 - [[biodiversity-fungi-ectomycorrhizal-diversity]]
 
-- [[mycorrhiza]]
-
 - [[pisolithus-tinctorius]] - superior ectomycorrhizal species for mine reclamation
-- [[suillus-bovinus]] - ectomycorrhizal species with similar decomposition suppression effects
-- laccaria proxima - ectomycorrhizal species more effective at phosphorus uptake than Thelephora
 - [[paxillus-involutus]] - ectomycorrhizal species studied alongside Thelephora in decomposition experiments
-- [[mycena-galopus]] - saprotrophic fungus that competitively suppresses Thelephora decomposition
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal species with higher phosphorus influx than Thelephora
 - lepista nuda - saprotrophic fungus showing contrast in nitrogen mineralization with Thelephora
 - [[laccaria-laccata]] - ectomycorrhizal species susceptible to collembolan grazing alongside Thelephora

@@ -3,7 +3,7 @@ title: Permaculture Plant Resources and Selection
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: [papers/a-selection-permaculture-plants.md]
 ---
 # Permaculture Plant Resources and Selection
@@ -115,29 +115,12 @@ Prioritize plants that serve multiple functions:
 
 ## See Also
 
-- [[beneficial-insects-pollinators]]
-
 - [[cover-crops-green-manures]]
 
-- [[fiber-plants-permaculture]]
-
-- permaculture plant selection
-- permaculture plant selection
 - [[permaculture-plant-guilds]]
 - permaculture plant selection
-- [[permaculture-multipurpose-trees]]
-- permaculture plant selection
 - [[permaculture-nitrogen-fixing-trees-guide]]
-- [[permaculture-insectary-plants]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
-- [[food-forest-design-guide]]
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 6: Plants for Many Uses
-
 - [[permaculture-plants-bamboo-varieties-uses]]
-
-- [[permaculture-plants-edible-perennials-understory]]
 
 - [[permaculture-plants-medicinal-herbs-healing]]

@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, storage]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
 ## Overview
@@ -18,7 +16,7 @@ A spore syringe is a suspension of mushroom spores in sterile water, loaded into
 Mushroom spores are the microscopic reproductive cells produced by the gills (or pores) of mature fruiting bodies. A single mushroom cap can release millions of spores. When deposited on a growth medium under the right conditions, spores germinate to form haploid mycelium, which eventually mates with compatible hyphae to form dikaryotic mycelium — the actively growing organism that colonizes substrates and produces mushrooms.
 
 Key facts:
-- [[psilocybe-cubensis]] spores are approximately 11-17 x 7-12 micrometers.
+- Psilocybe cubensis spores are approximately 11-17 x 7-12 micrometers.
 - Spores are extremely durable and can survive for years in cool, dry, dark storage.
 - Spores do NOT contain psilocybin or psilocin — the psychoactive compounds are produced by the mycelium and fruiting body.
 - Each spore contains a unique genetic complement — germinating spores produces a wide range of genetic variation.
@@ -115,9 +113,7 @@ For long-term genetic preservation, agar slants or cultures stored in mineral oi
 
 Spore syringes and spore prints are legal to possess and sell in many jurisdictions because the spores themselves do not contain controlled substances. However, the act of germinating spores with the intent to cultivate psilocybin-containing mushrooms is illegal in many places. Laws vary widely by country, state, and municipality. Always research local regulations before acquiring or using spore materials.
 
-## Related
-
-- [[dry-microwave-irradiation-spore-resistance]] Topics
+## Related Topics
 
 - [[agar-work-guide]] — germinating spores on agar and isolating cultures
 - [[mushroom-sterile-technique-detailed]] — maintaining sterility during syringe preparation

@@ -122,11 +122,6 @@ not only medicinal plant knowledge but also a complex spiritual
 cosmology involving plant spirits, supernatural beings, enchanted
 cities, and interdimensional travel. Amaringo's paintings document
 this cosmology in extraordinary visual detail, depicting the entities,
-landscapes, and phenomena encountered during ayahuasca visions.
-
-## See Also
-
-- [[ayahuasca-preparation-brew]]
-- [[plant-mothers-spirits]]
+landscapes, and phenomena encountered during [[ayahuasca-preparation-brew]]
 - [[icaros-power-songs]]
 - [[chacruna-psychotria-viridis]]

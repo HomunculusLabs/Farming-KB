@@ -110,11 +110,6 @@ C-2 acetyl group is rapidly cleaved by esterases in blood and
 tissues, producing salvinorin B as the primary circulating
 metabolite.
 
-This rapid metabolic deacetylation is a key factor in the very
-short duration of salvinorin A's effects (typically 5-15 minutes
-when smoked). The metabolite salvinorin B circulates without
-producing significant pharmacological effects of its own.
-
 ## Related Compounds
 
 | Compound | KOR Ki (nM) | Key Difference from Salvinorin A |
@@ -142,7 +137,8 @@ with negligible psychoactivity.
 
 ## See Also
 
-- [[salvinorin-a-entity]]
 - [[salvia-divinorum]]
-- [[salvia-divinorum-entity]]
-- kappa opioid receptor
+- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]]
+- [[jadam-pest-control-with-natural-pesticides-jhs]]
+- [[salvia-divinorum-and-salvinorin]]
+- [[salvia-divinorum-salvinorin]]

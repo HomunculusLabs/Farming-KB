@@ -136,9 +136,6 @@ The development of standardized analytical methods for 1P-LSD has been an active
 
 ## See Also
 
-- [[lsd-d-lysergic-acid-diethylamide]] — The parent compound and active metabolite
 - [[eth-lad-entity-tihkal]] — ETH-LAD, another lysergamide research chemical
-- [[al-lad-entity-tihkal]] — AL-LAD, a related lysergamide
 - [[ergine-lsa]] — Lysergic acid amide, a naturally occurring lysergamide precursor
-- [[psilocin]] — A tryptamine psychedelic with overlapping pharmacology
 - [[1cp-lsd]]

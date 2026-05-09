@@ -1,5 +1,5 @@
 ---
-title: homestead poultry health
+title: Homestead Poultry Health
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, livestock-health, troubleshoot
 sources: []
 ---
 
-# homestead poultry health
+# Homestead Poultry Health
 
 Maintaining healthy poultry on the homestead requires proactive management,
 biosecurity protocols, and the ability to recognize disease early. Poultry
@@ -48,7 +48,7 @@ effective and economical than treatment.
 
 ### Respiratory Diseases
 - **Infectious Bronchitis (IB):** Coronavirus. Coughing, sneezing, drop in
-  mollison designers chicken, wrinkled eggs. Vaccination available. No treatment.
+  egg production, wrinkled eggs. Vaccination available. No treatment.
 - **Newcastle Disease (ND):** Paramyxovirus. Respiratory, nervous, digestive
   symptoms. High mortality. Reportable disease. Vaccinate in endemic areas.
 - **Mycoplasma gallisepticum (MG):** Chronic respiratory disease. Coughing,
@@ -79,7 +79,7 @@ effective and economical than treatment.
 ### External Parasites
 - **Northern Fowl Mite:** Most common external parasite. Small dark mites
   on feathers around vent. Causes anemia, reduced egg production.
-  Treatment: permethrin dust, comparison neem oil, poultry sprays.
+  Treatment: permethrin dust, diatomaceous earth, poultry sprays.
 - **Scaly Leg Mite:** Burrows under leg scales. Raised, crusty scales.
   Treatment: petroleum jelly or vegetable oil on legs (suffocates mites).
   Repeat every 3 days for 2-3 weeks.
@@ -142,8 +142,53 @@ of disease on your homestead.
 
 ## Vaccination
 
-## Related
+### Core Vaccines for Homestead Flocks
+- **Marek's Disease:** Hatchery vaccination. Essential. No practical way to
+  vaccinate at home after hatch.
+- **Newcastle Disease:** Live vaccine, can be administered in water or by
+  eye drop. Recommended in areas where ND is endemic.
+- **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for
+  laying flocks to protect egg production.
+- **Fowl Pox:** Wing-web puncture vaccine. Recommended where mosquitoes are
+  prevalent.
 
-- [[chicken-keeping-guide]]
+### Optional Vaccines
+- **Coryza, Fowl Cholera:** Where endemic. Bacterin, injected.
+- **Infectious Laryngotracheitis (ILT):** Eye drop or water vaccine. Where
+  endemic or high-density poultry areas.
+- **Turkey diseases:** See [[turkey-husbandry]] for turkey-specific vaccination.
+
+### Vaccination Tips
+- Store refrigerated (never frozen for most types). Follow manufacturer
+  instructions exactly. Do not vaccinate sick birds.
+- Discard expired or improperly stored vaccines. Keep records.
+
+## Quarantine
+
+Quarantine is the single most important biosecurity practice for new birds.
+
+- Duration: minimum 2 weeks, ideally 4 weeks.
+- Location: physically separated — minimum 30 feet from existing flock.
+- Care for quarantined birds AFTER the main flock. Use separate clothing,
+  footwear, and tools.
+- Observe daily for lethargy, respiratory signs, diarrhea, mortality.
+- Conduct fecal tests for parasites. Treat and dust for external parasites.
+- Consider a staging area at intermediate distance before full integration.
+
+## When to Call a Vet
+
+- Unexplained mortality exceeding 5% per week.
+- Neurological symptoms (tremors, paralysis, twisting neck).
+- Respiratory distress affecting multiple birds.
+- Drop in egg production exceeding 20% without obvious cause.
+- Reportable diseases suspected (avian influenza, Newcastle, pullorum).
+- State diagnostic labs often provide free or low-cost necropsy for backyard
+  flocks.
+
+## Links
+
+- [[duck-keeping]]
 - [[turkey-husbandry]]
-- [[livestock-fencing-guide]]
+- [[quail-husbandry-detailed]]
+- [[livestock-feed-formulation]]
+- [[integrated-homestead-design]]

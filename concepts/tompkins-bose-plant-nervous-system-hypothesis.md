@@ -83,37 +83,7 @@ place in the existing corpus of knowledge."
 
 ## The Reflex Arc in Plants
 
-Bose demonstrated that [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
-possesses a reflex arc identical in principle to that found in animals.
-When stimulated, electrical excitation propagates through the plant,
-producing mechanical responses at specific points. This propagation
-showed the same characteristics as nerve impulse transmission in
-animals: speed of conduction, fatigue from repeated stimulation,
-recovery periods, and susceptibility to anaesthetics and poisons.
-
-Bose found that the same poisons that stopped automatic pulsation in
-the telegraph plant (Desmodium gyrans) would also stop an animal heart,
-and the antidote could revive both organisms. An excised Desmodium
-leaflet, dipped in water in a bent glass tube, recovered from the shock
-of amputation and began to pulsate anew, just as an excised animal
-heart can be kept beating in Ringer's solution.
-
-## Plant Fatigue and Intoxication
-
-Bose showed that plants become fatigued by continuous stimulation just
-like animal muscles. He also demonstrated that plants respond to alcohol
-in ways remarkably similar to humans: when given whiskey or gin, plants
-swayed, passed out, and eventually revived with definite signs of a
-hangover.
-
-Bose discovered that plants could be suffocated by too much carbon
-dioxide and then revived with oxygen, exactly like animals. At death,
-the plant discharged a huge electrical force, with Bose calculating that
-five hundred green peas in series could develop five hundred volts.
-
-## Tropisms and Electrical Response
-
-Bose's work on [[mushroom-tropisms-phototropism-geotropism]] challenged
+Bose demonstrated that [[mushroom-tropisms-phototropism-geotropism]] challenged
 the elaborate terminology that had grown up around plant movements. He
 was critical of terms like "negative geotropism," "diageotropism,"
 "heliotropism," and "thigmotropism," arguing that the big words obscured
@@ -135,16 +105,9 @@ opponents, quietly inserted Bose's assertion about plant electrical
 response into his own book without attribution.
 
 Despite this resistance, Bose's instruments, particularly the
-[[tompkins-jagadis-bose-plant-response-crescograph]], represented genuine
-technical achievements. His demonstration that the same responsive
-characteristics found in animals could guide their observation in plants
-became a foundational principle for subsequent [[tompkins-plant-electrical-signals]]
+[[tompkins-plant-electrical-signals]]
 research.
-
 ## Related
 
-- [[plant-immune-system-pti-eti]] Concepts
-
 - [[tompkins-jagadis-bose-plant-response-crescograph]]
-- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
 - [[tompkins-plant-electrical-signals]]

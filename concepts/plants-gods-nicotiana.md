@@ -30,33 +30,7 @@ The genus Nicotiana L. belongs to the Solanaceae (Nightshade Family)
 and encompasses approximately 60-70 species of herbs and shrubs. The two
 most important species are:
 
-- **[[nicotiana-rustica]]** L.: A potent species known as Aztec tobacco or
-  mapacho, native to South America and widely cultivated by indigenous
-  peoples throughout the Americas. It contains significantly higher
-  nicotine concentrations than N. tabacum, making it the preferred
-  species for ceremonial and shamanic use.
-- **Nicotiana tabacum** L.: The commercially cultivated species,
-  native to tropical and subtropical Americas. This is the primary
-  source of modern commercial tobacco products.
-
-The plants are annual or short-lived perennials with large, simple,
-alternate leaves covered with glandular trichomes that secrete the
-nicotine-containing resin. Flowers are tubular, usually white, pink,
-or red, and borne in terminal panicles. The fruit is a capsule
-containing numerous small seeds.
-
-## Traditional and Indigenous Use
-
-In indigenous American cultures, Tobacco was far more than a casual
-recreational substance. The Aztec statue of Xochipilli, the ecstatic
-Prince of Flowers, prominently features the glyph of the Tobacco flower
-among depictions of other sacred psychoactive plants, confirming its
-ancient ceremonial importance.
-
-Among the Warao of Venezuela, Tobacco is smoked to induce a trancelike
-state accompanied by what are, for all practical purposes, visions.
-The Huichol of Mexico induce visions by smoking a mixture of Nicotiana
-rustica and Tagetes lucida (Yauhtli), frequently drinking a fermented
+- **[[tagetes-lucida]] (Yauhtli), frequently drinking a fermented
 maize beer along with the smoking "to produce clearer visions." The
 smoking of Tobacco flowers, either alone or with tobacco, is documented
 in several South American traditions.
@@ -139,11 +113,8 @@ enhancement, attention deficit disorders, and as an adjunct in
 smoking cessation. The public health impact of Tobacco use remains
 enormous, with smoking-related diseases constituting one of the
 leading causes of preventable death worldwide.
-
 ## See Also
 
-- [[plants-gods-ayahuasca]] for ceremonies where Tobacco smoke is
-  used as a purifying agent
 - [[plants-gods-datura-solanaceous]] for the Nightshade family that
   includes Nicotiana
 - [[plants-gods-peyote]] for another sacred plant central to Native

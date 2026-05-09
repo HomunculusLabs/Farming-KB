@@ -103,18 +103,11 @@ Water quality monitoring is essential in sea grape cultivation, as the siphonous
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[gracilaria-verrucosa]]
-- [[undaria-pinnatifida]]
 - [[porphyra-umbilicalis]]
-- [[saccharina-latissima]]
 - [[palmaria-palmata]]
-- [[kappaphycus-alvarezii]]
 - [[fucus-vesiculosus]]
-- [[chondrus-crispus]]
 - [[resveratrol]]
-- [[caulerpa]]
 - [[eucheuma-denticulatum]]
-- [[monostroma-nitidum]]
 - [[laminaria-digitata]]
 - [[taurine]]

@@ -118,15 +118,10 @@ The 2C family includes numerous structural analogues with varying pharmacologica
 
 ## See Also
 
-- [[2c-b]]
 - [[2c-i]]
-- [[2c-t-7]]
-- [[pihkal-introduction-and-methodology]]
-- [[cannabis-endocannabinoid-system]]
 - [[pihkal-introduction-and-methodology]]
 - [[pihkal-introduction-and-methodology]]
 - [[psychedelic-fungi-taxonomy]]
-- [[lsd]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - [[pihkal-introduction-and-methodology]]
 - nps

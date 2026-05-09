@@ -112,8 +112,6 @@ The same pattern appears throughout modern agriculture: human intervention creat
 
 ## See Also
 
-- [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
-- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-nature-of-food]]

@@ -106,15 +106,9 @@ By understanding that plants don't stand alone but modify their environment in w
 
 ## See Also
 
-- [[gaias-garden-multipurpose-plants]]
 - [[gaias-garden-interplanting-polyculture]]
-- [[gaias-garden-nurse-plants]]
 - [[gaias-garden-food-forest-layers]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[fungi-in-the-environment-soil-fungal-community-structure]]
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
 - [[food-forest-layers-and-species]]

@@ -13,18 +13,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-While the [[teaming-with-microbes-overview]] and [[teaming-with-microbes-overview]] chapters cover these organisms in general terms, several specific genera and functional groups play critical roles in the [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. Knowing about them helps explain how nutrient cycling, disease suppression, and plant-microbe partnerships actually work.
-
-## Nitrogen-Fixing Bacteria
-
-Certain bacteria convert atmospheric nitrogen (N2) into plant-available forms—ammonium (NH4+), nitrate (NO3-), or nitrite (NO2-) ions. This nitrogen-fixing feat is accomplished by several genera:
-
-- **Azotobacter**: Free-living soil bacteria that fix nitrogen independently
-- **Azospirillum**: Free-living soil bacteria, often associated with grass roots
-- **Clostridium**: Anaerobic, free-living nitrogen fixers
-- **Rhizobium**: The most important group—these live in root tissues of legumes, forming visible nodules where they fix nitrogen in exchange for plant carbohydrates
-
-Rhizobium's symbiotic relationship with legumes is the foundation of [[teaming-with-microbes-bacterial-vs-fungal-dominance]] in many gardens and agricultural systems. The plant provides sugars from photosynthesis; the bacteria provide fixed nitrogen.
+While the [[teaming-with-microbes-overview]] chapters cover these organisms in general terms, several specific genera and functional groups play critical roles in the [[teaming-with-microbes-bacterial-vs-fungal-dominance]] in many gardens and agricultural systems. The plant provides sugars from photosynthesis; the bacteria provide fixed nitrogen.
 
 ## Nitrifying Bacteria
 
@@ -37,34 +26,7 @@ These nitrifying bacteria do not like acidic environments. Their numbers diminis
 
 ## Denitrifying Bacteria
 
-Denitrifying bacteria convert nitrogen salts back to N2 gas, which escapes into the atmosphere. While they do not directly help soil fertility, they are essential for keeping the [[teaming-with-microbes-bacterial-vs-fungal-dominance]] moving. Denitrification occurs most readily in waterlogged, anaerobic soils.
-
-## Sulfur-Cycling Bacteria
-
-- **Sulfur-oxidizing bacteria**: Convert elemental sulfur into plant-available, water-soluble sulfates
-- **Chemoautotrophic bacteria**: Derive energy from the oxidation of sulfur compounds
-- **Anaerobic bacteria**: Liberate sulfur-containing compounds from organic materials
-
-## Pseudomonas: The Disease-Fighting Bacteria
-
-Pseudomonas bacteria deserve special mention for their disease-suppressive capabilities. Pseudomonas can correct take-all, a disastrous fungal wheat disease, by producing phenazines—very strong, broad-spectrum antibiotics. Many soil bacteria produce medicinal antibiotics upon which humans depend, evolved as protective capabilities in their competition with other soil organisms.
-
-## Pathogenic Bacteria
-
-Thousands of bacterial pathogens exist in soil. Notable examples:
-- **Agrobacterium tumefaciens**: Causes galls or tumors on plant stems
-- **Burkholderia cepacia**: Infects and rots onion roots
-- **Pseudomonas species**: Some cause leaf curl and black spot on tomatoes
-
-However, soils with high bacterial diversity are more likely to have nonpathogenic bacteria outcompeting pathogenic bacteria for space and nutrients.
-
-## Functional Groups of Fungi
-
-### Saprophytic Fungi (Decomposers)
-The primary decomposers of tough organic materials. They produce extracellular enzymes that break down cellulose, lignin, and other complex compounds that bacteria cannot handle. Different fungi specialize in different substrates—wood-decay fungi, leaf-litter decomposers, and dung fungi each target specific materials.
-
-### Mycorrhizal Fungi
-[[mycorrhizal-fungi-basics-lowenfels]] establish symbiotic relationships with plant roots. In return for exudates, they provide water, phosphorus, calcium, magnesium, zinc, and iron to the plant. Any nutrient compounds not delivered to plant roots are locked up in the fungi and released when the fungi die and are decayed.
+Denitrifying bacteria convert nitrogen salts back to N2 gas, which escapes into the atmosphere. While they do not directly help soil fertility, they are essential for keeping the [[mycorrhizal-fungi-basics-lowenfels]] establish symbiotic relationships with plant roots. In return for exudates, they provide water, phosphorus, calcium, magnesium, zinc, and iron to the plant. Any nutrient compounds not delivered to plant roots are locked up in the fungi and released when the fungi die and are decayed.
 
 ### Pathogenic Fungi
 A long list of fungal pathogens impacts crops:
@@ -80,37 +42,67 @@ A long list of fungal pathogens impacts crops:
 Pathogenic fungi enter plants through stomata, wounds, and even by dissolving the cuticle and cell walls.
 
 ### Beneficial Competitive Fungi
-Beneficial fungi compete for nutrients and form protective webs and nets, often in conjunction with bacteria, around roots and on leaf surfaces. This prevents pathogenic and parasitic fungal cousins from invading the plant. The same competitive exclusion principle that protects roots operates on leaf surfaces in the [[teaming-with-microbes-overview]].
-
-## Fungi vs. Bacteria: Functional Overlap
-
-Fungi and bacteria shoulder much the same work and share many functions in a healthy soil food web:
-- Both produce vitamins and antibiotics that kill pathogens
-- Both serve as decomposers and nutrient cyclers
-- Both build soil structure
-- Both serve as beneficial symbionts
-- Both can cause diseases
-- Both impact soil pH
-
-The key difference is scale and specialization: bacteria handle simple, fresh organic matter; fungi handle complex, woody materials. Together they form the complete decomposition and nutrient cycling engine of the soil.
-
-## Bacterial Biofilms
-
-Bacterial slime (biofilm) is a matrix of sugars, proteins, and DNA that serves multiple functions:
-- **pH buffering**: Biofilm is slightly alkaline, maintaining pH above 7 for nitrification
-- **Transportation**: Some bacteria squirt biofilm as propulsion
-- **Desiccation protection**: Biofilm saves bacteria from drying
-- **Nutrient channels**: Biofilm infrastructure includes water-filled channels for nutrient and waste transport
-- **Antibiotic defense**: Biofilm-protected colonies are 1000 times more resistant to antibiotics than individual bacteria
-
-## Related
-
-- [[teaming-with-microbes-bacteria]]
-- [[teaming-with-microbes-fungi]]
+Beneficial fungi compete for nutrients and form protective webs and nets, often in conjunction with bacteria, around roots and on leaf surfaces. This prevents pathogenic and parasitic fungal cousins from invading the plant. The same competitive exclusion principle that protects roots operates on leaf surfaces in the [[teaming-with-microbes-bacteria]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-protozoa]]
 - [[mycorrhizal-fungi]]
-- [[teaming-with-microbes-phyllosphere]]
 - [[root-exudates]]
-- [[teaming-with-microbes-plant-control]]
 - [[teaming-with-microbes-overview]]
+## Practical Considerations
+
+When working with Teaming with Microbes: Specific Bacteria and Fungi in Soil, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

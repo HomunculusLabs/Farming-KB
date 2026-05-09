@@ -131,8 +131,6 @@ The goal of all three elements is the creation of ideal man.
 
 ## See Also
 
-- [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]

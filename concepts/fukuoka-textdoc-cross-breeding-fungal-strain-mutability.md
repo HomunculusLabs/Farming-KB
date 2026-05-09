@@ -134,8 +134,6 @@ For Fukuoka, the solution was the fundamental reorientation of agriculture away 
 
 ## See Also
 
-- [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
-- [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]
 - [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]

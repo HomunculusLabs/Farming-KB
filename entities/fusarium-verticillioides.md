@@ -118,10 +118,6 @@ contamination in maize.
 
 ## See Also
 
-- [[fusarium-culmorum]]
-
 - [[trichoderma-viride]]
-- [[aspergillus-flavus]]
 - [[colletotrichum-gloeosporioides]]
-- [[claviceps-purpurea]]
 - [[penicillium-chrysogenum]]

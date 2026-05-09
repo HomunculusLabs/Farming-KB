@@ -91,12 +91,6 @@ Start with **chickens** (layers) — the lowest barrier to entry, fastest return
 
 ## See Also
 
-- [[comparison-draft-animal-power-vs-tractor-farming]]
-
-- [[comparison-mealworm-farming-vs-cricket-farming]]
-
-- [[query-what-is-hydroponic-fodder-and-is-it-worth-growing-for-livestock]]
-
 - [[chicken-keeping]] — Breed selection, coop design, feeding, health, seasonal care
 - [[duck-keeping]] — Duck breeds, housing, forage, egg production
 - [[rabbit-husbandry]] — Meat breeds, housing, breeding cycle, processing

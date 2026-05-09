@@ -1,7 +1,7 @@
 ---
 title: "Duggar Mushroom Marketing and Economics 1915"
 created: 2026-04-28
-tags: [mycology, mushroom-economics, mushroom-marketing, history,
+tags: [[mycology, mushroom-economics, mushroom-marketing, history,
       duggar, market-analysis]
 date: 2026-04-25
 updated: 2026-04-25
@@ -125,12 +125,6 @@ economic significance. By 1915, the industry was still maturing,
 with production methods and market infrastructure undergoing active
 development.
 
-The parallels to modern [[cotter-mushroom-business-marketing]] challenges are striking. Seasonal price
-depression, the importance of direct-to-consumer sales channels,
-proper post-harvest handling, and the gap between promotional
-literature and market reality remain central concerns for mushroom
-cultivators. See also [[duggar-mushroom-bed-preparation-and-casing]] and [[duggar-mushroom-growing-history-and-methods]].
+The parallels to modern [[duggar-mushroom-bed-preparation-and-casing]] and [[oyster-mushroom-marketing-economics]]
 
-## See Also
-
-- [[oyster-mushroom-marketing-economics]]
+See also: [[peyote-and-psychoactive-cacti]]

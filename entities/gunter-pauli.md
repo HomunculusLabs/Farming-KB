@@ -20,15 +20,6 @@ sources:
 ## Overview
 Gunter Pauli is a Belgian entrepreneur, economist, author, and sustainability advocate
 best known for blue economy thinking and for founding [[zero-emissions-research-and-initiatives]].
-He appears in this wiki because ZERI case studies connect fungi, agricultural residues, and zero-waste industrial design.
-
-## Entity Type
-- Category: person.
-- Born: 1956.
-- Birthplace: Antwerp, Belgium.
-- Fields: sustainability, ecological economics, entrepreneurship, circular design.
-- Best-known work: *The Blue Economy*.
-- Major organization: [[zero-emissions-research-and-initiatives]].
 - Wiki relevance: fungal circular-economy and waste-to-resource systems.
 
 ## Education
@@ -93,9 +84,7 @@ This makes Pauli's work a useful bridge between applied mycology and regional ec
 development.
 
 ## Connection to This Wiki
-The concept page [[fungal-roles-in-mass-extinction-recovery]] mentions ZERI and Pauli
-in relation to ecosystem recovery and circular systems.
-The page [[fungi-sustainable-packaging-and-materials]] uses ZERI as a framework for
+The concept page [[fungi-sustainable-packaging-and-materials]] uses ZERI as a framework for
 turning fungal and plant materials into sustainable products.
 These pages treat Pauli as a connector between mycology, waste cycling, and industrial
 design.
@@ -104,47 +93,7 @@ A dedicated entity page helps link those scattered references.
 ## Brewery Cascade
 One ZERI-style example associated with this wiki is the brewery cascade.
 Spent grain from brewing can become substrate for oyster mushrooms such as
-[[pleurotus-ostreatus]].
-The mushrooms produce food.
-The spent substrate can become livestock feed, vermicompost, or soil amendment.
-Wastewater can support anaerobic digestion or biological treatment.
-The same original input therefore supports multiple outputs.
-
-## Coffee Residue Cascade
-Another recurring example is the use of coffee residues.
-Coffee farms and processors generate pulp, trimmings, and other biomass that can become
-pollution if dumped.
-ZERI projects reframed such residues as mushroom substrates and local enterprise inputs.
-This is significant for tropical agroecology because coffee regions often have abundant
-biomass and labor but limited capital.
-The method fits Pauli's emphasis on local abundance.
-
-## Relationship to Permaculture
-Pauli's work overlaps with permaculture without being identical to it.
-Both value local resources, biological cycling, and integration of functions.
-Permaculture often begins with land, water, and settlement design.
-Pauli's Blue Economy often begins with business opportunities and material flows.
-The overlap is strongest around the principle "produce no waste."
-
-## Strengths
-Pauli's strength is translating ecological metaphors into business proposals.
-He makes circularity concrete by asking what each output can feed next.
-Pauli's examples are memorable because they link food, jobs, waste reduction, and local
-materials in one story.
-That makes his work useful for teaching applied sustainability.
-
-## Cautions
-Some claims connected to Pauli and ZERI should be evaluated project by project.
-Circular cascades can fail if contamination, logistics, regulation, or market access
-are underestimated.
-Wikipedia also records controversies around some public statements and institutional
-agreements.
-For this wiki, the durable value is the design method, not uncritical endorsement of
-every claim or project.
-
-## See Also
-- [[zero-emissions-research-and-initiatives]]
+[[zero-emissions-research-and-initiatives]]
 - blue economy
-- [[fungi-sustainable-packaging-and-materials]]
 - [[fungal-roles-in-mass-extinction-recovery]]
 - [[oyster-mushroom-spent-substrate-recycling]]

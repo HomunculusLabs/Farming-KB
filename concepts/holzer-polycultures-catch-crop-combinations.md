@@ -10,7 +10,7 @@ sources:
 
 # Holzer Polyculture and Catch Crop Combinations
 
-Sepp Holzer's polyculture system is built on the principle that mixed plantings, like natural plant communities, create mutually beneficial relationships. Catch cropping (catch crops) and companion planting are central to his [[holzer-vegetable-garden-polycultures]] approach at the Krameterhof and in his [[holzer-urban-farming]] work.
+Sepp Holzer's polyculture system is built on the principle that mixed plantings, like natural plant communities, create mutually beneficial relationships. Catch cropping (catch crops) and companion planting are central to his [[holzer-urban-farming]] work.
 
 ## Core Principles
 
@@ -107,16 +107,9 @@ Holzer advises gardeners to:
 
 ## Connection to Holzer's Philosophy
 
-These polyculture combinations are a direct application of Holzer's observation that nature never grows plants in monoculture. His [[holzer-farming-philosophy]] emphasises working with natural systems rather than against them. The polyculture approach eliminates the need for chemical fertilisers, pesticides, and herbicides by creating self-regulating plant communities.
+These polyculture combinations are a direct application of Holzer's observation that nature never grows plants in monoculture. His [[holzer-regenerating-contaminated-farmland]]
 
-## See Also
-
-- [[holzer-regenerating-contaminated-farmland]]
-
-- [[holzer-vegetable-garden-polycultures]]
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[holzer-green-manure-crop-compendium]]
 - [[holzer-raised-beds-systems]]
-- [[holzer-kitchen-garden-layout-and-traditional-gardening]]
 - [[holzer-farming-philosophy]]
 - [[gaias-garden-cover-crops-soil-building]]

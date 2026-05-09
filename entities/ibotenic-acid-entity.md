@@ -1,5 +1,5 @@
 ---
-title: "Ibotenic Acid"
+title: Ibotenic Acid Entity
 created: 2026-04-28
 type: chemical
 tags:
@@ -12,52 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ott, J. (1976). \"Pharmacognosy of Amanita muscaria.\" Journal of Psychoactive Drugs, 8(3), 189-215."
+  - "Ott, J. (1976). \"Pharmacognosy of amanita-muscaria.\" Journal of Psychoactive Drugs, 8(3), 189-215."
   - "Waser, P.G. (1967). \"The pharmacology of Amanita muscaria.\" In: Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service."
-  - "Chilton, W.S. et al. (1975). "Ibotenic acid as a precursor of muscimol in the fly agaric." Lloydia, 38(6), 467-473."
-  - "Michaud, D. et al. (2014). \"Seasonal variation of ibotenic acid and muscimol in Amanita muscaria.\" Phytochemistry, 98, 1-7."
-  - "Stone, T.W. (2000). \"Pharmacology of quinolinic and kynurenic acids at excitatory amino acid receptors.\" Neuroscience Research Communications, 26(1), 1-9."
----
-
-# Ibotenic Acid
-
-## Overview
-
-Ibotenic acid (IBO) is a psychoactive amino acid and the primary toxic
-constituent of Amanita muscaria (fly agaric) and related Amanita species.
-It acts as a potent glutamate receptor agonist, mimicking the neurotransmitter
-glutamate at both ionotropic (NMDA, AMPA, kainate) and metabotropic receptors.
-Ibotenic acid is the biosynthetic precursor of muscimol, the primary
-psychoactive compound formed by decarboxylation during drying or heating.
-
-The compound was first isolated from Amanita muscaria by Japanese researchers
-in 1964 and characterized by Eugster and colleagues. Its pharmacological
-profile is distinct from classical psychedelics — effects arise from
-excitotoxic glutamatergic stimulation rather than serotonergic 5-HT2A agonism.
-
-## Chemical Identity
-
-- **IUPAC name:** (2S)-2-Amino-2-(3-hydroxyisoxazol-5-yl)acetic acid
-- **CAS Number:** 2552-55-8
-- **Molecular formula:** C₅H₆N₂O₄
-- **Molecular weight:** 158.11 g/mol
-- **Structure:** α-Amino acid with an isoxazole ring substituted at C-5.
-  Contains a chiral center at the α-carbon (S-configuration in natural
-  product).
-- **Appearance:** Colorless crystalline solid
-- **Solubility:** Soluble in water, slightly soluble in ethanol, insoluble
-  in nonpolar organic solvents
-- **Melting point:** ~150°C (decomposes)
-- **pKa:** α-COOH ~2.3, α-NH₃⁺ ~9.4
-
-## Biosynthesis and Occurrence
-
-Ibotenic acid is produced by fungi in Amanita section Amanita. Key source species:
-
-- **Amanita muscaria** — Most abundant source; cap contains 0.03–0.15% IBO
-  by dry weight
-- **Amanita pantherina** — Comparable or higher concentrations
-- **Amanita gemmata** — Moderate levels
+  - "Chilton, W.S. et al. (1975). "Ibotenic acid as a precursor of muscimol in the [[amanita-gemmata]]** — Moderate levels
 - **Amanita regalis** — Significant ibotenic acid content
 
 Biosynthesis begins with L-glutamic acid, which undergoes ring closure to form
@@ -139,12 +96,9 @@ different (more pleasant) experience than fresh specimens.
 Ibotenic acid is unscheduled in most jurisdictions. In the United States, it
 is not listed under the Controlled Substances Act. In the UK, the Psychoactive
 Substances Act 2016 potentially covers its sale for human consumption.
-Amanita muscaria itself is legal to possess, sell, and cultivate in most
-countries, though several nations restrict sale of extracted ibotenic acid.
-
 ## See Also
 
-- [[muscimol-entity]] — Primary decarboxylation metabolite and psychoactive
+- [[amanita-pantherina]] — Primary decarboxylation metabolite and psychoactive
   agent
-- [[amanita-muscaria]] — Principal natural source organism
 - [[amanita-pantherina]] — Related source species with comparable chemistry
+- [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]

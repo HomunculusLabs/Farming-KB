@@ -143,7 +143,9 @@ The central question Huxley raised — whether the brain is a filter or a genera
 
 ## See Also
 
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-transcendent-other-and-exopheromones]]
+
+## See Also
+
+- [[mckenna-dmt-experience-and-overmind]]

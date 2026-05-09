@@ -121,9 +121,6 @@ delivery remains a challenge for field deployment.
 
 ## See Also
 
-- [[staycare-fungal-degradation-of-pcbs-and-dioxins]]
-
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-- [[staycare-trametes-versicolor-bioremediation-applications]]
 - [[staycare-solid-state-fermentation-for-bioremediation]]
 - [[fungal-degradation-explosives-tnt-rdx]]

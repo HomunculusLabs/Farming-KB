@@ -102,11 +102,7 @@ The Cannabis Health Index notes that CBD affects diseases of both the mind and t
 - Adolescents with a family history of psychosis should exercise particular caution with THC
 
 ## Related
-- [[cannabis-endocannabinoid-system]] -- receptor biology and mechanism
 - [[cannabis-anti-inflammatory-applications]] -- anti-inflammatory mechanisms
-- [[cannabis-therapeutic-index-overview]] -- evidence framework
 - [[cannabis-for-cancer-patients]] -- neurological aspects of cancer treatment
-- [[cannabis-sleep-disorders]] -- sleep and neurological health
 - [[blesching-cannabis-neuropathic-pain]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[cannabis-for-epilepsy-and-seizure-disorders]]

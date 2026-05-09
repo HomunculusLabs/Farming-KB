@@ -123,8 +123,6 @@ delivery method.
 
 ## See Also
 
-- [[cervantes-cannabis-butter-cooking]]
 - [[cervantes-volatile-solvent-extraction]]
-- [[cervantes-hash-making-extracts]]
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
 - [[cannabis-harvesting-and-curing-techniques]]

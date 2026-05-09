@@ -20,120 +20,84 @@ The Multidisciplinary for psychedelic studies (MAPS) is a
 nonprofit research and educational organization founded in 1986 by Rick
 Doblin, PhD. MAPS has served as the primary institutional vehicle for
 the revival of clinical psychedelic research in the United States and
-globally, sponsoring over $150 million in research across MDMA, [[psilocybin-compound]],
-cannabis, ibogaine, LSD, ayahuasca, and other substances.
-
-Headquartered in Santa Cruz, California, MAPS operated as a 501(c)(3)
-nonprofit until 2021, when it spun out commercial drug development into
-MAPS Public Benefit Corporation (MAPS PBC). The nonprofit continues
-educational and advocacy work while MAPS PBC pursues FDA approval and
-commercialization of MDMA-assisted therapy.
-
-## Founding and History
-
-- **1986**: Founded by Rick Doblin after DEA scheduling of MDMA in 1985.
-- **Early years**: Shoestring budget, funding studies in Switzerland,
-  Spain, and Israel.
-- **1990s**: First FDA-approved MDMA safety study (Bouso in Spain),
-  early ibogaine research.
-- **2000s**: Expanded into cannabis, LSD/of life anxiety, ayahuasca.
-- **2010s**: Major Phase 2 MDMA-PTSD trials across US, Canada, Israel,
-  Europe established strong efficacy signals.
-- **2017**: FDA granted Breakthrough Therapy designation for MDMA-PTSD.
-- **2021**: Spun out MAPS PBC; announced SPAC merger with Helix.
-- **2023**: MAPP1 Phase 3 published in nature Medicine — 86.5% MDMA
-  group improved vs. 69.3% placebo.
-- **2024**: MAPP2 failed primary endpoint; FDA panel voted 9-2 against;
-  FDA issued Complete Response Letter (CRL).
-- **2025**: MAPS PBC restructured; nonprofit continues operations.
-
-## Key Research Programs
-
-### MDMA-Assisted Therapy for PTSD
-
-Flagship program. Six Phase 2 trials (N=107) showed pooled effect size
-d=0.91 for CAPS-5 reduction. Two Phase 3 trials:
-
-- **MAPP1** (N=104): Met primary endpoint. 86.5% of MDMA group achieved
-  clinically meaningful improvement vs. 69.3% placebo. Published in
-  Nature Medicine, September 2023.
-- **MAPP2** (N=91): Failed to meet primary endpoint on CAPS-5, though
-  secondary endpoints favored MDMA.
-
-### Cannabis Research
-
-Early funder of medical cannabis research, sponsoring the first
-FDA-approved study of smoked cannabis for PTSD in veterans (University
-of Arizona). Funded pain research and advocated for rescheduling.
-
-### Ibogaine Research
-
-Funded observational and clinical ibogaine research for opioid
-dependence in Mexico and New Zealand. Partnered with ibogaine clinics
-to collect outcome data.
-
-### LSD and Psilocybin Research
-
-- Sponsored LSD research for end-of-life anxiety with Peter Gasser in
-  Switzerland (published 2014).
-- Funded psilocybin research for cluster headaches and OCD.
-
-### Ayahuasca Research
-
-Funded cross-cultural ayahuasca research in Brazil within Santo Daime
-and União do Vegetal contexts, and for substance dependence treatment.
-
-## Organizational Structure
-
-- **MAPS (nonprofit 501(c)(3))**: Education, and harm reduction, advocacy,
-  and grant-making. Operates the Zendo Project.
-- **MAPS PBC**: Commercial drug development subsidiary. Pursued FDA
-  approval for MDMA-PTSD. Filed S-1 but did not complete IPO.
-- **Zendo Project**: Harm reduction program with trained volunteers at
-  music festivals supporting difficult psychedelic experiences.
-
-## Leadership
-
-- **Rick Doblin, PhD**: Founder and Executive Director. Harvard
-  Kennedy School, MIT PhD. Leading psychedelic policy reform advocate.
-- **Amy Emerson, MBA**: CEO of MAPS PBC. Previously COO of MAPS.
-- **Berra Yazar-Klosinski, PhD**: Former Chief Science Officer.
-- **Brad Burge**: Director of Communications (long-time spokesperson).
-
-## Financial Structure
-
-Raised over $150 million since founding through individual donations,
-foundation grants, and crowdfunding. Major donors include the Pineapple
-Fund ($4M Bitcoin, 2017), Mercer Family Foundation, and thousands of
-individual contributors. MAPS PBC SPAC merger with Helix valued at
-~$250M but did not complete.
-
-## Criticisms and Controversies
-
-- **Therapist blinding**: Active-placebo design was imperfect;
-  participants and therapists could distinguish MDMA from placebo.
-- **Conflict of interest**: MAPS funded, designed, and advocated for
-  the treatment it sought to approve.
-- **MAPP2 failure**: Phase 3 failure and FDA rejection raised
-  questions about earlier efficacy claims.
-- **Safety concerns**: FDA committee cited cardiovascular risk, abuse
-  potential, and insufficient long term safety data.
-- **Commercialization tensions**: MAPS PBC and patent pursuits
-  contradicted the organization grassroots ethos.
-
-## Impact and Legacy
-
-Despite 2024-2025 setbacks, MAPS three-decade effort catalyzed the
-modern psychedelic renaissance. The organization trained hundreds of
-therapists, established clinical infrastructure, generated massive
-public awareness, and proved FDA-level psychedelic drug development was
-possible. Its model became the template for Usona Institute, Compass
-Pathways, and the Beckley Foundation.
-
-## Related Entities
-
-- rick doblin — Founder and Executive Director
-- [[compass-pathways]] — Commercial competitor in [[psilocybin-therapy]]
-- [[roland-griffiths]] — Key psilocybin researcher
-- [[mdma-entity]] — Primary drug compound researched
+globally, sponsoring over $150 million in research across MDMA, [[compass-pathways]] — Commercial competitor in [[roland-griffiths]] — Key psilocybin researcher
+- [[mdma]] — Primary drug compound researched
 - ptsd — Primary target condition
+## Practical Applications
+
+Multidisciplinary Association for Psychedelic Studies has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Multidisciplinary Association for Psychedelic Studies. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

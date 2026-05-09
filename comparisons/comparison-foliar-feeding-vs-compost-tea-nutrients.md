@@ -27,31 +27,6 @@ simultaneously, creating a more robust and adaptable growing system overall.
 
 ## Foliar Feeding
 
-[[teaming-with-nutrients-foliar-feeding-and-absorption]]
-
-Foliar feeding is the practice of spraying nutrient solutions directly onto plant leaves for absorption through stomata and the cuticular membrane. Nutrients
-must be in ionic form, dissolved in water at appropriate concentrations, to cross the cell membrane via the same transport proteins that function in root cells.
-This method is especially popular among gardeners seeking rapid correction of visible nutrient deficiencies, or when root uptake is limited by compacted,
-waterlogged, cold, or otherwise compromised soils.
-
-A critical concept in foliar feeding is nutrient mobility within the plant after absorption. Mobile nutrients, including nitrogen (as nitrate or ammonium),
-phosphorus, potassium, and magnesium, can be translocated from older tissue to younger growing points through the phloem once absorbed through the leaf. This
-mobility makes foliar application highly effective for correcting deficiencies of these elements, because the nutrients move to where the plant needs them most.
-
-In contrast, immobile nutrients such as calcium, boron, sulfur, iron, manganese, zinc, and copper remain largely fixed at the site of deposition on the leaf
-where they were absorbed. Spraying calcium on mature leaves will not reach the growing tips where calcium deficiency typically manifests as blossom end rot in
-tomatoes or tip burn in lettuce, and iron sprayed on old foliage will not resolve interveinal chlorosis in young expanding leaves.
-
-Stomatal absorption is the primary pathway for foliar nutrient entry and is heavily influenced by environmental conditions. Stomata are pore structures on leaf
-surfaces, predominantly on the underside, that open to allow gas exchange. They are most open during early morning and late evening when temperatures are
-moderate and relative humidity is high enough to minimize transpiration-driven closure, making these the optimal application windows. Midday heat causes stomata
-to close as a water conservation measure, dramatically reducing absorption efficiency. Because foliar feeding is best used as a supplemental strategy rather
-than a primary fertilization program, with total nutrient absorption typically limited to only 10 to 20 percent of root uptake capacity, application timing
-should carefully align with critical growth stages: calcium during early fruit development, boron during flowering, potassium during fruit ripening, and
-nitrogen during periods of rapid vegetative growth.
-
-## Compost Tea
-
 [[teaming-with-microbes-compost-tea-brewing-guide]]
 
 Actively aerated compost tea (AACT) is an aerobic liquid extract teeming with beneficial microorganisms propagated from high-quality, biologically diverse
@@ -131,11 +106,7 @@ and nutritional components deliver their full benefit without interfering with o
 
 ## See Also
 
-- [[comparison-lab-serum-vs-compost-tea]]
-
 - [[comparison-bokashi-vs-compost-tea]]
 
-- [[comparison-foliar-feeding-vs-vermicompost-tea]]
 - [[teaming-with-microbes-compost-mulch-tea]]
-- [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]
 - [[ultra-low-cost-foliar-application-methods]]

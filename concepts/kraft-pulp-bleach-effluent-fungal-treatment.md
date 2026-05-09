@@ -24,7 +24,7 @@ produced during the pulping and bleaching processes.
 ## Ligninolytic Enzyme Systems in BPE Treatment
 
 Two principal fungal species have dominated research on fungal BPE treatment:
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]] and [[turkey-tail-trametes-versicolor]]. These organisms
+[[turkey-tail-trametes-versicolor]]. These organisms
 employ different enzyme systems for effluent decolorization. In P.
 chrysosporium, manganese peroxidase (MnP) plays the primary role in BPE
 decolorization. Lackner, Srebotnik, and Messner confirmed that MnP-mediated
@@ -69,20 +69,7 @@ pulp effluent decolorization. Early designs were constrained by the concern
 that agitation would reduce lignin peroxidase activity, leading to approaches
 such as rotating biological contactors, percolating filters, and packed beds.
 More recently, fluidized beds using mycelial pellets have been shown to be
-effective. [[fungal-bioreactor-types-for-pollutant-removal]] covers broader
-reactor designs. Immobilization of fungal mycelia, typically as pellets in
-alginate or polyurethane, gives results as good as or better than free
-mycelium. Both batch and continuous methods can be effective; batch processes
-may achieve more complete treatment while continuous treatment may be
-advantageous when effluents contain toxic components degraded by the fungus.
-
-## Treatment of Different Pulping Effluents
-
-Various pulping processes produce effluents with differing compositions. The
-best known are the Kraft and sulfite processes, with most publications dealing
-with Kraft effluents. The Kraft E1 (alkaline extraction) effluent is the most
-studied stream. Bagasse-based pulping effluents have been treated with
-[[schizophyllum-commune-schizophyllan-cancer]], while lignosulfonates and chlorolignins from
+effective. [[schizophyllum-commune-schizophyllan-cancer]], while lignosulfonates and chlorolignins from
 different bleaching stages have been treated with combinations of S. commune
 and T. versicolor. Combined photochemical and biological processes using
 Lentinus edodes have been investigated for Kraft E1 effluent, demonstrating
@@ -117,12 +104,8 @@ interest in fungal treatment technologies as sustainable alternatives.
 
 ## Related
 
-- [[staycare-kraft-pulp-bleach-effluent-treatment]] Concepts
-
 - [[fungal-textile-dye-effluent-decolorization]] for textile effluent
   comparison
-- [[fungal-olive-mill-wastewater-treatment]] for other industrial effluents
 - [[ligninolytic-enzyme-systems-white-rot-fungi]] for enzyme mechanisms
-- [[fungal-bioreactor-types-for-pollutant-removal]] for reactor configurations
 - [[fungal-laccase-and-textile-dye-decolorization]] for laccase-specific
   applications

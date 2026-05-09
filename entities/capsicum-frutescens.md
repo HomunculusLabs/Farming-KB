@@ -119,11 +119,7 @@ Essential oil composition includes limonene, linalool, and various short-chain f
 
 ## See Also
 
-- [[capsicum-annuum]]
 - [[capsicum-baccatum]]
-- [[capsicum-chinense]]
 - [[pimenta-dioica]]
-- [[zingiber-officinale]]
 - [[alpinia-galanga]]
-- [[syzygium-aromaticum]]
 - [[myristica-fragrans]]

@@ -3,15 +3,7 @@ title: Fungal Culture Preservation — Methods and Protocols
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/pihkal-a-chemical-love-story.md"
----
-# Fungal Culture Preservation — Methods and Protocols
-
-## Overview
-
-Long-term preservation of fungal cultures is essential for maintaining living reference collections, supporting taxonomic research, and ensuring reproducibility in [[fungal-zoospore-biology-and-flagellate-motility]]. Different preservation methods vary in their effectiveness, cost, and suitability for different fungal groups. Choosing the appropriate method depends on the culture's characteristics, intended duration of storage, and available infrastructure.
+tags: [[fungal-zoospore-biology-and-flagellate-motility]]. Different preservation methods vary in their effectiveness, cost, and suitability for different fungal groups. Choosing the appropriate method depends on the culture's characteristics, intended duration of storage, and available infrastructure.
 
 ## Mineral Oil Preservation
 
@@ -88,22 +80,10 @@ Preserved specimens and cultures can yield DNA for molecular studies, but preser
 - Air-dried and silica-gel-dried specimens generally preserve DNA well
 - Cryopreserved cultures typically yield high-quality genomic DNA
 
-Integration with [[dna-barcoding-fungal-identification]] requires careful attention to preservation method from the point of collection.
-
-## Long-Term Best Practices
-
-- **Liquid nitrogen storage** with **slow drying before freezing** provides the best combination of viability and genetic stability
-- **Propagules exposed directly to liquid nitrogen do not survive** — vapor phase storage is essential
-- Regular viability testing of preserved collections identifies failing cultures before they are lost
-- Duplicate storage at geographically separate facilities provides insurance against catastrophic loss
-
-Proper culture preservation supports all aspects of [[fungal-species-recognition-genetics]], [[biodiversity-fungal-culture-preservation]], and [[fungal-species-estimates]], ensuring that living reference material remains available for future study.
+Integration with [[fungal-species-recognition-genetics]], [[fungal-species-estimates]], ensuring that living reference material remains available for future study.
 
 ## See Also
 
 - [[2c-d-pihkal-entry-23]]
-- [[2c-d-pihkal-entry-23]]
-- [[dom-compound-profile]]
 - [[fungal-monitoring-long-term-studies]]
-- [[mushroom-drying-storage]]
 - [[faires-food-drying-and-no-energy-storage]]

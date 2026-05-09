@@ -11,9 +11,7 @@ sources:
 created: 2026-05-07
 type: query
 ---
-# How [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] Chickpeas at Home
-
-Chickpeas (*[[cicer-arietinum]]*), also called garbanzo beans, are protein-rich [[solomon-drip-irrigation-limitations-home-garden]] legumes that are rewarding to grow in a home garden. They fix atmospheric nitrogen, improve soil health, and produce a nutritious harvest of versatile beans. This guide covers everything you need to know to grow chickpeas successfully, whether as a food crop or a [[cover-crop]].
+# How [[cicer-arietinum]]*), also called garbanzo beans, are protein-rich [[cover-crop]].
 
 ## Why Grow Chickpeas?
 
@@ -146,3 +144,7 @@ Chickpeas fix 30–60 lb N/acre and break subsoil compaction with a 3–4 foot t
 | **Rotation** | 4+ years between chickpea plantings |
 
 ## See Also
+
+## See Also
+
+- [[query-how-to-grow-dragon-fruit-pitaya-at-home]]

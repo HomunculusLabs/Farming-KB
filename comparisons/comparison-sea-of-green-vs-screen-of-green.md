@@ -19,38 +19,6 @@ flat, even canopy that maximizes light interception, but they differ dramaticall
 plant count, labor intensity, skill requirements, equipment needs, and the type of
 yield they produce per plant.
 ## Sea of Green
-[[sea-of-green]]
-Sea of Green is a high-yield indoor cultivation method that maximizes production by
-growing many small, closely spaced plants harvested frequently. The technique takes
-its name from the dense, uniform green canopy that results when short plants are packed
-tightly together under grow lights. SOG exploits the principle that cannabis flower
-production correlates directly with light interception at the canopy surface. Rather
-than growing a few large plants over several months of vegetative growth, SOG growers
-flower dozens or hundreds of small clones, each producing a single main cola. The
-collective yield of many small plants under optimal lighting often exceeds that of
-fewer large plants in the same space.
-In a typical SOG setup, 60-80 or more plants fit under a single 1000-watt HID lamp.
-Clones are rooted under 18/6 or 24/0 light in a separate vegetative or cloning area,
-then moved to the flowering room after just 1-30 days of vegetative growth. Plants
-are packed at 4-6 inch centers in small containers such as three-gallon pots, four-inch
-rockwool cubes, or grow bags arranged on flood-and-drain tables or simple trays.
-Indica-dominant strains work best due to their naturally compact structure and shorter
-flowering times, though sativa-dominant strains can be used if flowered at a shorter
-height to account for their vigorous stretching during the early flowering phase.
-Cervantes reports yields of 18.4 ounces per square meter with 600-watt lamps using SOG,
-compared to 11.1 ounces per square meter with traditional methods, representing a
-65 percent improvement in space efficiency. This dramatic yield increase comes from
-eliminating the large gaps of wasted light that occur between widely spaced plants in
-conventional growing. SOG enables perpetual harvest cycles where one tray or group of
-plants is harvested every 1-2 weeks and replaced with newly rooted clones, creating
-a continuous and predictable production schedule that commercial operations rely on.
-The method requires minimal hands-on training compared to SCROG, making it more
-automated once the clone-production pipeline is established. Plants reach maturity
-in just 60-90 days from clone to harvest, and the reduced vegetative time saves
-significant electricity and space compared to growing larger individual plants.
-However, SOG demands a robust mother-plant operation and reliable cloning skills,
-as the entire system depends on a steady supply of healthy rooted cuttings.
-## Screen of Green
 [[screen-of-green]]
 Screen of Green (SCROG) uses a horizontal mesh screen or trellis installed above the
 growing medium to physically constrain plant growth into an even canopy. As branches
@@ -127,8 +95,6 @@ screen for the final two weeks of vegetative growth, reducing SCROG labor while
 providing more yield per plant than pure SOG. Another variation uses SOG-density
 numbers with a screen to ensure perfectly even canopy height across the grow area.
 ## See Also
-- [[comparison-main-lining-vs-screen-of-green]]
 - [[main-lining]] for a structural training approach that creates symmetrical manifolds
-- [[supercropping]] for high-stress techniques that control height and increase branching
 - [[cannabis-vegetative-stage]] for timing and training during the growth phase
 - [[cannabis-flowering-stage]] for managing the transition and stretch period

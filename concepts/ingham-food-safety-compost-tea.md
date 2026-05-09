@@ -12,8 +12,7 @@ type: concept
 # Food Safety and Human Pathogens in Compost Tea
 
 Food safety is a central concern in compost tea production and use.
-[[elaine-ingham]]'s field guide addresses the regulatory and practical
-aspects of ensuring that [[compost-tea-aact]] is safe for
+[[compost-tea-aact]] is safe for
 application to food crops. The current regulatory atmosphere is
 driven by fear about E. coli and human pathogens, but Ingham argues
 that proper understanding of aerobic biology provides robust
@@ -71,79 +70,25 @@ Pathogens become a risk when:
   Salmonella, and Shigella can grow
 - The tea maker has black, slimy biofilms creating anaerobic
   pockets where E. coli can proliferate
-- Compost is not properly made (incomplete [[composting]] of manure)
-- Fresh manure is used as starting material
-- Too much inoculum is added, causing organisms to grow too fast
-  and deplete oxygen
-
-## The Anaerobic Threshold
-
-If tea goes anaerobic and the beneficial communities are lost, the
-liquid cannot be called compost tea anymore. Anaerobic liquids may
-contain human pathogens. Going anaerobic and then returning to
-aerobic conditions does not restore the full beneficial community.
-There is also a risk that pathogens growing during the anaerobic
-phase may persist even after aeration returns.
-
-Ingham's clear position: if conditions are anaerobic, consider
-that human pathogens could be growing. This is not a good idea.
-
-## Ensuring Safe Compost Tea
-
-Three requirements for pathogen-free tea:
-
-1. **Make sure compost is E. coli free**: If manure was used,
-   verify through testing. If no manure was used and temperature
-   documentation exists, the compost should be safe.
-
-2. **Make sure the tea maker maintains aerobic conditions**: No
-   biofilm buildup. Monitor dissolved oxygen above 6 ppm.
-
-3. **Make sure the tea maker can extract fungi adequately**: If
-   aerobic fungal biomass is present, the tea remained aerobic and
-   E. coli will have been killed.
-
-Testing for adequate aerobic fungi ($20 test from SFI) confirms the
-tea remained aerobic. If fungal biomass is adequate, E. coli cannot
-survive.
-
-## Compost Tea Machines and Pathogen Safety
-
-When material contaminated with high E. coli numbers (e.g., fresh
-manure) is used, properly aerated machines can drop E. coli to
-irrigation water levels (less than 3.4 per ml). However, they may
-not remove ALL E. coli. If the machine has biofilm problems, E.
-coli may actually increase.
-
-## Recovery After Anaerobic Events
-
-If bad-smelling tea was applied to soil:
-- Soil with good foodweb: recovery (pathogens no longer detectable)
-  can occur within 3 days
-- Poor soil with inadequate foodweb: requires approximately 120
-  days for recovery
-
-This underscores the importance of maintaining healthy soil biology
-as a first line of defense.
-
-## Regulatory Perspective
-
-Ingham advocates for a science-based approach to regulation rather
-than fear-based restrictions. Healthy soil biology provides the
-same protections for plants that healthy gut microflora provides
-for humans. The habitat must select for beneficials and not
-diseases. In the real world, pathogens are out-competed and
-eliminated all the time by appropriate biological processes.
-
-The EPA recognizes that predator-prey interactions are "mechanical
-control methods." If compost tea's benefits are framed as
-competitive exclusion and biological control rather than pesticide
-action, regulatory pathways become more favorable.
-
-## Practical Safety Steps
-
-1. Start with properly composted material (documented temperature
-   or worm processing)
-## See Also
+- Compost is not properly made (incomplete [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
 
 - [[compost-tea-brewing-equipment-ingham]]
+## Practical Considerations
+
+Successful implementation of Food Safety and Human Pathogens in Compost Tea requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

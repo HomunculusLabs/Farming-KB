@@ -112,9 +112,6 @@ makes it valuable in designed landscapes where toxicity risk is managed.
 
 ## See Also
 
-- [[inonotus-obliquus-entity]] — Chaga, another long-lived tree-associated fungus
 - [[cicuta-maculata]] — Water hemlock, another extremely toxic plant
-- [[digitalis-purpurea]] — Foxglove, toxic plant with medicinal heart compounds
 - [[atropa-belladonna]] — Deadly nightshade, cardiotoxic alkaloid parallel
-- [[hyoscyamus-niger]] — Henbane, another toxic solanaceous medicinal plant
 - [[nicotine]] — Nicotine, plant-derived neurotoxin with medicinal history

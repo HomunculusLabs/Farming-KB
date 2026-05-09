@@ -15,7 +15,7 @@ related_concepts:
 type: comparison
 ---
 # Kalman Filter vs Wavelet Transform
-The [[kalman-filter]] and the [[wavelet-transform]] are both used with noisy, time-varying data.
+The [[wavelet-transform]] are both used with noisy, time-varying data.
 They are often mentioned in signal processing, control, robotics, remote sensing, and scientific measurement.
 Despite this overlap, they solve different kinds of problems.
 A Kalman filter estimates a hidden system state from a dynamical model and noisy observations.
@@ -119,3 +119,7 @@ In practice, robust signal-processing systems may use both.
 ## Related
 
 - [[query-what-is-a-wavelet-transform-used-for]]
+
+## See Also
+
+- [[kalman-filter]]

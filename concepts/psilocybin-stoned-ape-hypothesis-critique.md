@@ -83,9 +83,6 @@ What can be established with confidence is that psilocybin has the capacity to d
 
 ## See Also
 
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
-- [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
-- [[psilocybin-consciousness-understanding]]
 - [[consciousness-and-psychedelics]]

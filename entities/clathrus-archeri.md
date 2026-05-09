@@ -31,41 +31,7 @@ Native to Australasia and southern Africa, it has become widely
 naturalized across Europe and North America. The mature fruiting body
 erupts from a gelatinous egg into 4–8 bright red arms coated in dark
 olive-green gleba, producing a strong carrion odor that attracts
-flies for spore dispersal.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Phallales
-- **Family:** Clathraceae
-- **Genus:** Clathrus
-- **Species:** C. archeri (Berk.) Dring (1980)
-
-**Basionym:** *Aseroe archeri* Berk. (1859). Originally described by
-Berkeley from Tasmanian specimens and transferred to Clathrus by
-Dring in 1980 following taxonomic revision of the Phallales.
-
-**Synonyms:** *Anthurus archeri* (Berk.) E. Fisch. (1888).
-
-## Morphology
-
-**Egg stage:** Subglobose to ovoid, 30–50 mm tall, 20–35 mm
-diameter. Whitish to pinkish peridium with gelatinous inner layer,
-partially buried in substrate.
-
-**Mature fruiting body:** At maturity, the egg ruptures and the
-receptacle expands rapidly (often within hours) into 4–8 slender,
-arching arms radiating upward from a short basal stalk.
-
-Each arm is 40–100 mm long, 8–15 mm diameter at base, bright scarlet
-to reddish-orange with a wrinkled surface texture. Arms are initially
-joined at the apex but separate as they expand, creating the
-characteristic octopus-like appearance.
-
-**Spores:** Elliptical to cylindric, smooth, 4.5–6 × 1.5–2 µm.
-Hyaline, thin-walled. Spore print not obtainable by conventional
+flies for [[spore-print]] not obtainable by conventional
 methods due to the deliquescent gleba.
 
 **Odor:** Strong putrid carrion-like smell at maturity, similar to
@@ -120,14 +86,9 @@ fungi poses a risk.
 
 | Species | Distinguishing Features |
 |---------|------------------------|
-| *Clathrus ruber* | Cage-like lattice, Mediterranean |
-| *Aseroe rubra* | Star-shaped with central disc, Australasian |
-| *Pseudocolus fusiformis* | Pinkish arms, column-like structure |
-| *Mutinus elegans* | Single column, no branched arms |
+| *[[permaculture]] Relevance
 
-## Permaculture Relevance
-
-Indicator species for active decomposition of woody organic matter.
+Indicator species for active [[decomposition]] of woody organic matter.
 Confirms that woodchip mulch is being broken down by fungal activity.
 No threat to garden plants; contributes to nutrient cycling in food
 forests and garden systems. Frequently appears in commercial mulch.
@@ -137,9 +98,9 @@ forests and garden systems. Frequently appears in commercial mulch.
 - **Clathrus ruber** — red cage fungus, Mediterranean, lattice
 - **Clathrus columnatus** — columnar, southeastern North America
 - **Aseroe rubra** — sea anemone fungus, Australasian native
-- [[clathrus-ruber]]
+- clathrus ruber
 
 ## See Also
 
-- [[decomposition]]
-- [[permaculture]]
+- decomposition
+- permaculture

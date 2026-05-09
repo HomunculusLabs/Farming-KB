@@ -99,8 +99,7 @@ Cover crops can be terminated by:
 The no-till approach of cutting and leaving residue on the surface is
 preferred because it preserves [mycorrhizal networks and continues feeding the soil food web as the residue decomposes.
 
-See also: [[bacterial-vs-fungal-soil-dynamics]], penicillium entity,
-[[root-exudates-rhizosphere]], [[soil-food-web-structure]], [[cover-crop-guide-detailed]]
+See also: [[root-exudates-rhizosphere]], [[cover-crop-guide-detailed]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
 - [[nutrient-movement-through-soil-to-plant-roots]]

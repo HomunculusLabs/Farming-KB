@@ -83,61 +83,17 @@ synergistically.
 ## Relationship to Other Ethnobotanical Plants
 
 Sweet flag occupies an interesting position in the broader context of
-hallucinogenic and psychoactive plants covered in the [[golden-guide-hallucinogenic-plants-overview]]. Unlike the well-characterized tryptamine
-hallucinogens such as [[psilocybin-compound-profile]] or the
-phenethylamines like [[mescaline-compound-profile]], sweet flag
-represents a less understood category of psychoactive plant whose effects are
-milder and more variable.
-
-The plant belongs to the Araceae family, which also includes other culturally
-significant species. Its use as a chewed stimulant and mild intoxicant places
-it in a category with plants like [[turkestan-mint-lagochilus-inebrians]] and [[hofmann-ololiuqui-morning-glory-investigation]] that occupy the
-boundary between medicine and deliberate psychoactive use.
-
-## Preparation and Methods of Use
-
-Traditional methods of consuming sweet flag center on the rhizome. The most
-common preparation involves peeling and chewing the fresh rootstock, which
-releases the aromatic and bioactive compounds directly through the tissues of
-the mouth. The taste is initially sweet and warming, followed by a bitter,
-pungent quality. Indigenous Canadian peoples reportedly chewed the root for
-its stimulant and visionary effects, often during hunting or ceremonies.
-
-Dried rhizome can be powdered and used to prepare teas or infusions. In
-Ayurvedic practice, a paste made from the rhizome is sometimes consumed with
-honey. The essential oil can be extracted through steam distillation and has
-been used in perfumery and aromatherapy, though internal use of the
-concentrated oil carries greater risk due to higher asarone concentration.
-
-In European folk tradition, sweet flag was added to bitters and herbal
-liqueurs. The dried rhizome was also carried as an amulet or chewed to ward
-off fatigue during long journeys, suggesting its stimulant properties were
-widely recognized.
-
-## Safety and Legal Status
-
-The safety profile of sweet flag is complicated by the presence of
-beta-asarone in some varieties. The US FDA has banned calamus as a food
-additive due to carcinogenicity concerns related to beta-asarone. The
-European Union has also restricted calamus preparations with high
-beta-asarone levels. The North American diploid variety with negligible
-beta-asarone content is generally considered safer. As with all
-[[psychedelic-safety-and-contra-indications]], proper
+hallucinogenic and psychoactive plants covered in the [[psilocybin-compound-profile]] or the
+phenethylamines like [[turkestan-mint-lagochilus-inebrians]] and [[psychedelic-safety-and-contra-indications]], proper
 identification of the botanical variety, dosage awareness, and caution are
 essential.
 
 ## See Also
 
-- [[acorus-calamus]]
-
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-iboga-and-tabernanthe]]
-- [[turkestan-mint-lagochilus-inebrians]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 
-[[amanita-muscaria-ethnobotany]] covers another culturally important psychoactive plant with a long history of indigenous use across the Northern Hemisphere.
 [[anticholinergic-hallucinogenic-plants]] describes plants with similarly ambiguous boundaries between medicinal and psychoactive use.
-[[syrian-rue-peganum-harmala-ethnobotany]] examines another plant with beta-carboline alkaloids and a deep ethnobotanical history.
 [[tree-daturas-brugmansia-south-american-ethnobotany]] explores South American ethnobotanical traditions parallel to the Northern Hemisphere sweet flag usage.
 [[tryptamine-hallucinogens-and-consciousness]] provides pharmacological context for understanding mild psychoactive plant effects like those of sweet flag.

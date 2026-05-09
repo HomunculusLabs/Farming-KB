@@ -37,26 +37,7 @@ fungus." Both species have been known to fruit from the same manure heap.
 
 ## Distribution in Australia
 
-[[panaeolus-cyanescens-bali-omelette]] has been documented from the following Australian
-locations:
-
-- Northern Territory: Darwin
-- Queensland: Brisbane
-- New South Wales: Coffs Harbour, Sydney, and the Northern Rivers region
-  around Murwillumbah
-- South Australia: Eudlo
-- Tasmania: confirmed presence
-
-The species is common in the dung of cows, water buffalo, and sometimes horses.
-A particularly notable case from Darwin involved a resident of the Red Shield
-Hostel who picked "blue meanies" from the hostel garden that had been recently
-treated with fowl manure. This may be the first reported case of the species
-fruiting from the manure of chickens, geese, or ducks rather than from ruminant
-manure.
-
-## Distribution in New Zealand
-
-In New Zealand, [[panaeolus-cyanescens-bali-omelette]] predominates in the New Plymouth
+[[panaeolus-cyanescens-bali-omelette]] predominates in the New Plymouth
 region, an area of intensive dairy farming. Specific documented locations
 include:
 
@@ -74,23 +55,7 @@ Zealand.
 
 ## Identification and Characteristics
 
-[[panaeolus-cyanescens-bali-omelette]] is a small but potent mushroom. Key identifying
-features include:
-
-- Cap diameter of approximately 2.5 to 5 mm
-- Intense blue oxidation (bruising) when damaged, indicating the presence of
-  psilocine
-- Hygrophanous cap, changing color when drying (contributing to "gold top"
-  nickname)
-- Growth on dung of cattle, water buffalo, and other ruminants
-
-The species can be distinguished from non-psychoactive lookalikes such as
-Panaeolus antillarum, which does not contain psilocybine but does resemble
-Copelandia species and has been known to share the same manure heap.
-
-## Dosage and Potency
-
-The usual dosage for [[panaeolus-cyanescens-bali-omelette]] required to induce psychedelic
+[[panaeolus-cyanescens-bali-omelette]] required to induce psychedelic
 visual effects ranges from:
 
 - 1 to 3 large specimens (cap diameter approximately 5 mm), or
@@ -99,37 +64,33 @@ visual effects ranges from:
 However, personal tolerance to this species may occur with continued use. Some
 experienced consumers have reportedly ingested as many as 50 to 200 fresh
 specimens of various sizes. The species is generally considered to be more
-potent per unit weight than [[psychedelic-mushrooms-species-and-identification]].
+potent per unit weight than [[panaeolus-cyanescens-bali-omelette]].
 
-## Historical Significance
-
-The species was likely responsible for many of the "hysteria" intoxications
-reported in Australia during the 1940s. Between 1941 and 1945, numerous reports
-in Australian journals described poisonings attributed to Panaeolus ovatus
-(the suspected "hysteria fungus"). Since Panaeolus ovatus (= Panaeolus
-antillarum) is not actually psychoactive, it is believed that the real culprit
-was [[panaeolus-cyanescens-bali-omelette]].
-
-Dr. Steven H. Pollock (1977-1978) believed that [[panaeolus-cyanescens-bali-omelette]] was
-the mushroom species responsible for at least some of the "hysteria"
-intoxications attributed to Panaeolus ovatus. These three species --
-Copelandia cyanescens, Panaeolus antillarum, and Panaeolus ovatus -- all
-resemble each other and sometimes occur together in the same dung-heap.
-
-## Chemical Analysis
-
-The intense blue bruising of [[panaeolus-cyanescens-bali-omelette]] is caused by the
+Dr. Steven H. Pollock (1977-1978) believed that [[panaeolus-cyanescens-bali-omelette]] is caused by the
 oxidation of psilocine, a dephosphorylated derivative of psilocybine. The
 presence of these alkaloids was confirmed through chemical analysis of
 Australian specimens. The blue staining reaction is a reliable field indicator
 of psychoactivity, as discussed in the context of
-[[metol-testing-bluing-reaction-mushrooms]].
-
-## See Also
-
-- [[psychedelic-mushrooms-species-and-identification]] -- the "gold top" species, commonly confused with
+[[psychedelic-mushroom-set-and-setting]] -- the "gold top" species, commonly confused with
   C. cyanescens
-- [[cattle-dispersal-psychoactive-fungi-australia]] -- how the species arrived
-  in Australasia
 - [[australian-magic-mushroom-common-names]] -- local terminology
 - [[psychedelic-mushroom-set-and-setting]] -- factors affecting the experience
+## Practical Considerations
+
+Successful implementation of Copelandia cyanescens in Australia and New Zealand requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

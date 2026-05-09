@@ -2,14 +2,14 @@
 title: Lepiota procera
 created: 2026-04-28
 type: species
-tags: [mycology, identification, gourmet-mushrooms, lepiota]
+tags: [[mycology, identification, gourmet-mushrooms, lepiota]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 # Lepiota procera
 
-Lepiota procera, commonly known as the Parasol Mushroom, is one of the most distinctive and highly prized wild edible mushrooms in the world. Its tall stature, prominent ring, and large, scaly cap make it easy to identify when mature. The Parasol is considered a gourmet mushroom across Europe and is particularly popular in French cuisine, where the cap is often prepared like a cutlet, breaded and pan-fried. See [[lepiota-rachodes]] for the closely related Shaggy Parasol and [[marasmius-oreades]] for another common grassland species.
+Lepiota procera, commonly known as the Parasol Mushroom, is one of the most distinctive and highly prized wild edible mushrooms in the world. Its tall stature, prominent ring, and large, scaly cap make it easy to identify when mature. The Parasol is considered a gourmet mushroom across Europe and is particularly popular in French cuisine, where the cap is often prepared like a cutlet, breaded and pan-fried. See [[marasmius-oreades]] for another common grassland species.
 
 ## Taxonomy and Description
 
@@ -54,35 +54,7 @@ The genus Lepiota contains some deadly poisonous species, making accurate identi
 - **Lepiota cristata** (Stinking Dapperling) — small, reddish-brown, with an unpleasant odor
 - **Chlorophyllum molybdites** (Green-spored Lepiota) — causes severe gastrointestinal distress; has a green spore print
 - **Lepiota procera** should only be collected when fully mature with clear, identifiable features. Small specimens can be confused with deadly Lepiota species.
-- **Lepiota rachodes** (Shaggy Parasol) is edible for most people but causes gastrointestinal upset in some individuals; see [[lepiota-rachodes]]
-
-## Culinary Value
-
-The Parasol Mushroom is considered one of the finest wild edible mushrooms:
-
-- **Cap preparation:** The large cap is best prepared by detaching it from the stem, peeling off the tough skin, and slicing. It is commonly breaded and pan-fried like a schnitzel or cutlet.
-- **Stem use:** The tough stem is typically discarded or used for stock, as it is too fibrous for most preparations.
-- **Flavor:** Mild, nutty, and pleasant. The texture when cooked is tender and meaty.
-- **Cooking methods:** Pan-frying, grilling, sauteing, or stuffing. Best cooked thoroughly.
-- **Preservation:** Can be dried, though the cap texture is best when fresh.
-
-## Collection and Preparation
-
-The Parasol Mushroom is collected primarily by wild foraging, as it is not commercially cultivated. Key collection considerations include:
-
-- **Timing:** Best collected when the cap is fully expanded but before the flesh becomes too soft. Young specimens (button stage) are too difficult to distinguish from deadly Lepiota species.
-- **Identification confidence:** Only collect when all features are clearly visible — the movable ring, scaly cap, white spore print, and tall stature.
-- **Cleaning:** Cap scales can trap debris. Clean by brushing or peeling the cap skin. The stem base often contains soil and should be trimmed.
-- **Cap preparation:** Remove the stem, peel the cap skin (optional but improves texture), and slice the cap horizontally for even cooking.
-- **Stem use:** The tough, fibrous stem is typically discarded or used for mushroom stock. It is too chewy for most preparations but adds flavor to broths.
-- **Storage:** Fresh specimens keep for 2-4 days refrigerated. Can be frozen after cooking. Drying is possible but not ideal.
-
-## Cultural Significance
-
-The Parasol Mushroom holds a significant place in European culinary and foraging culture:
-
-- **French cuisine:** Considered one of the finest wild mushrooms in France, where it is prepared as a cutlet — the cap is breaded and pan-fried in butter. This preparation, known as "meuniere," is the classic way to serve Parasol.
-- **British foraging:** A favorite among British mushroom foragers, the Parasol is one of the most commonly collected wild mushrooms in the UK, along with [[agaricus-campestris]] and the Chanterelle.
+- **Lepiota rachodes** (Shaggy Parasol) is edible for most people but causes gastrointestinal upset in some individuals; see [[agaricus-campestris]] and the Chanterelle.
 - **Eastern Europe:** Widely collected across Poland, Czech Republic, Slovakia, and other Eastern European countries where mushroom foraging is a deep cultural tradition.
 - **Italian cuisine:** Used in risottos, pasta dishes, and grilled preparations. The Italian name "mazza di tamburo" (drumstick) refers to its shape.
 - **Foraging literature:** One of the most frequently featured mushrooms in European field guides and foraging books, reflecting its popularity and distinctive appearance.
@@ -123,9 +95,6 @@ Several large mushroom species share grassland habitats and are commonly foraged
 
 ## See Also
 
-- [[lepiota-rachodes]] — Shaggy Parasol, closely related but with different toxicity profile
 - [[agaricus-campestris]] — Meadow Mushroom, similar grassland habitat
-- [[marasmius-oreades]] — Fairy Ring Mushroom, another grassland species
 - [[agaricus-arvensis]] — Horse Mushroom, for comparison of large grassland species
-- [[coprinus-comatus-detailed]] — Shaggy Mane, another large distinctive grassland mushroom
 - [[agaricus-bitorquis]] — Pavement Mushroom, tolerant of compacted soils

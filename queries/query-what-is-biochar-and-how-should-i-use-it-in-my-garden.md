@@ -1,7 +1,7 @@
 ---
 title: What Is Biochar and How Should I Use It in My Garden?
 created: 2026-04-28
-tags: [permaculture, soil-health, organic-farming, biochar, carbon-sequestration]
+tags: [[permaculture, soil-health, organic-farming, biochar, carbon-sequestration]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
@@ -119,10 +119,6 @@ Biochar is often confused with or compared to other amendments, but it serves a 
 
 ## See Also
 
-- [[query-what-is-allelopathy-and-how-can-i-use-it-in-my-garden]]
-
 - [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[cannabis-living-soil-amendment-schedule]]
-- [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
 - [[dynamic-accumulator-quick-reference]]

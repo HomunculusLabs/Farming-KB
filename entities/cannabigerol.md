@@ -1,31 +1,5 @@
 ---
 title: "Cannabigerol"
-type: chemical
-tags:
-  - cannabinoid
-  - phytocannabinoid
-  - cannabis
-  - pharmacology
-  - terpenophenolic
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Mechoulam R, Gaoni Y (1965). "A total synthesis of dl-Δ1-
-    tetrahydrocannabinol, the active constituent of hashish."
-    Journal of the American Chemical Society, 87(14): 3273-3275.
-  - Gaoni Y, Mechoulam R (1971). "The isolation and structure of
-    cannabigerol and cannabigerol quinone from Cannabis sativa L."
-    Tetrahedron, 27(17): 4153-4160.
-  - Cascio MG, Pertwee RG (2014). "Known pharmacological actions of
-    delta-9-tetrahydrocannabinol and of four phytocannabinoids."
-    Handbook of Cannabis, pp. 129-164. Oxford University Press.
-  - Borrelli F et al. (2013). "Beneficial effect of the non-
-    psychoactive plant cannabinoid cannabigerol on experimental
-    inflammatory bowel disease." Biochemical Pharmacology, 85(9): 1306-1316.
-  - Nachnani R, Avidan-Reuven T, Russo EB (2021). "Cannabigerol
-    (CBG) in clinical trial: A review." Journal of Cannabis Research, 3(1): 31.created: 2026-05-07
-
-created: 2026-05-07
 ---
 
 # Cannabigerol
@@ -33,7 +7,7 @@ created: 2026-05-07
 ## Overview
 
 **Cannabigerol** (CBG) is a non-psychoactive phytocannabinoid found in
-*Cannabis sativa* L. It serves as the biosynthetic precursor to all major
+*[[cannabis-sativa]]* L. It serves as the biosynthetic precursor to all major
 cannabinoids, including THC, CBD, and CBC, earning it the designation
 "mother cannabinoid" or "stem cell cannabinoid."
 
@@ -57,94 +31,70 @@ resorcinol) core with a monoterpene (geranyl) moiety attached at the C-3
 position. The resorcinol ring features two phenolic hydroxyl groups at
 positions 1 and 3.
 
-CBG exists predominantly in its neutral form in fresh plant tissue. Under
-acidic conditions or with prolonged storage, it can cyclize to form
-tetrahydrocannabinol or cannabidiol derivatives.
-
-**Appearance:** Viscous, light yellow oil at room temperature. Crystallizes
-upon cooling. Relatively unstable under heat, light, and oxidative
-conditions compared to CBD.
-
-**Solubility:** Lipophilic; soluble in ethanol, DMSO, and lipids. Poorly
-soluble in water without formulation aids.
-
-## Pharmacology
-
-CBG acts at multiple molecular targets, distinguishing it from the more
-selectively acting THC and CBD.
-
-**Cannabinoid receptors:** CBG is a partial agonist at CB1 (Ki ≈ 440 nM)
-and CB2 (Ki ≈ 337 nM), with stronger functional activity at CB2. It also
-acts as an antagonist at CB1, potentially attenuating THC-induced
-intoxication — a proposed "de-arousal" effect.
-
-**Other targets:** CBG is a potent α2-adrenoceptor agonist (Ki ≈ 17 nM),
-a moderate 5-HT1A antagonist, and activates TRPA1 and TRPV1-4 transient
-receptor potential channels. It inhibits the reuptake of the endocannabinoid
-anandamide by acting as a fatty acid amide hydrolase (FAAH) inhibitor.
-
-The α2-adrenoceptor agonism contributes to its anti-inflammatory and
-analgesic effects, while TRP channel modulation may underlie its
-antibacterial and gastroprotective properties.
-
-## Therapeutic Potential
-
-**Anti-inflammatory:** CBG reduces inflammation in animal models of
-inflammatory bowel disease (IBD), colitis, and arthritis. It inhibits
-COX-2, iNOS, and NF-κB signaling pathways at concentrations comparable
-to NSAIDs.
-
-**Neuroprotection:** In preclinical Huntington's disease models, CBG
-improves motor deficits and preserves striatal neurons. It also shows
-neuroprotective effects in models of Parkinson's disease and multiple
-sclerosis.
-
-**Antibacterial:** CBG demonstrates potent activity against methicillin-
-resistant *Staphylococcus aureus* (MRSA), with MIC values comparable to
-vancomycin. This antibacterial action is mediated through disruption of
-bacterial membrane integrity.
-
-**Glaucoma:** CBG reduces intraocular pressure in animal models through
-a combination of CB1-mediated and prostaglandin-mediated mechanisms.
-
-**Appetite stimulation:** Unlike CBD (which suppresses appetite), CBG
-stimulates feeding behavior in animal studies without psychoactive effects.
-
-## Biosynthesis in Cannabis
-
-CBG is synthesized in the glandular trichomes of *Cannabis sativa* via
-the condensation of olivetolic acid (from the polyketide pathway) with
-geranyl pyrophosphate (from the MEP terpenoid pathway), catalyzed by
-geranyltransferase (CBGAS).
-
-In most cannabis cultivars, CBG is present at only 0.1–1% of dry weight
-because it is rapidly converted downstream by THCAS (THC acid synthase),
-CBDAS (CBD acid synthase), or CBCAS (CBC acid synthase). High-CBG
-varieties are bred by selecting for recessive or non-functional
-downstream synthase alleles, allowing CBG to accumulate.
-
-Harvest timing is critical: CBG peaks earlier in flowering (weeks 4–6)
-than THC or CBD (weeks 8–10), as it is progressively converted to
-downstream cannabinoids.
-
-## Cannabinoid Profile Comparisons
-
-CBG-rich cultivars typically contain 5–15% CBG with minimal THC (<0.3%)
-and CBD (<2%). The terpene profile of high-CBG varieties skews toward
+CBG exists predominantly in its neutral form in fresh [[terpene-profile-chemotaxonomy]] of high-CBG varieties skews toward
 myrcene, pinene, and humulene, contributing to anti-inflammatory and
 focus-enhancing effects consistent with the entourage hypothesis.
 
-The CBG-to-CBGa ratio depends on harvest timing and post-harvest
-processing. Decarboxylation converts CBGa to CBG at temperatures above
-110°C. Supercritical CO₂ extraction efficiently isolates CBG from
-dried floral material.
-
-## See Also
-
-- [[delta-8-thc]]
-- [[cannabis-minor-cannabinoids]]
-- [[cannabis-minor-cannabinoids]]
-- [[cannabis-minor-cannabinoids]]
-- [[cannabis-minor-cannabinoids]]
-- [[cannabis-minor-cannabinoids]]
+The CBG-to-CBGa ratio depends on harvest timing and [[myrcene]]
 - [[myrcene]]
+- [[myrcene]]
+- [[myrcene]]
+## Practical Considerations
+
+When working with Cannabigerol, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

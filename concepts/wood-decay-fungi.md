@@ -1,7 +1,7 @@
 ---
 title: wood decay fungi
 created: 2026-04-28
-tags: [mycology, decomposition, ecology, forest-biology]
+tags: [[mycology, decomposition, ecology, forest-biology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -20,11 +20,7 @@ forest ecosystems.
 Wood decay is classified by the chemical components targeted:
 
 ### White Rot
-[[white-rot-fungi]] degrade all major components of wood — cellulose,
-hemicellulose, and lignin. The decayed wood appears bleached or lighter in
-color. These fungi produce extracellular oxidative enzymes including lignin
-peroxidase, manganese peroxidase, and laccase. Examples include
-*Phanerochaete chrysosporium* and *[[trametes-versicolor]]*.
+[[trametes-versicolor-entity]]*.
 
 ### Brown Rot
 Brown rot fungi primarily target cellulose and hemicellulose while modifying
@@ -99,6 +95,5 @@ successional sequence can span decades and supports diverse communities
 of invertebrates, birds, and other organisms at each stage.
 ## See Also
 
-- [[mycelium-network-architecture]]
 - [[fungal-ecology]]
 - [[lignin-degradation]]

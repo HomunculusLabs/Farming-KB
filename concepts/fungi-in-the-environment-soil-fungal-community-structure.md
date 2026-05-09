@@ -3,14 +3,7 @@ title: Fungi in the Environment - Soil Fungal Community Structure
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
-tags: [mycology, soil ecology, fungal communities, molecular ecology]
-sources:
-  - "raw/papers/gadd-fungal-extremophiles-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
----
-
-# Soil Fungal Community Structure
-
-Understanding the composition, diversity and dynamics of soil fungal communities is fundamental to environmental mycology. Fungal communities in soil are very diverse, with [[mycorrhizal-fungi]] being a particularly important group in the cycling of elements. However, the full complexity of these communities has only become apparent with the advent of culture-independent molecular techniques, which have revealed a vast uncultured majority.
+tags: [[mycorrhizal-fungi]] being a particularly important group in the cycling of elements. However, the full complexity of these communities has only become apparent with the advent of culture-independent molecular techniques, which have revealed a vast uncultured majority.
 
 ## Diversity and Importance of Soil Fungal Communities
 
@@ -91,10 +84,6 @@ Applying statistical analysis such as principal components analysis (PCA) and ca
 
 ## See Also
 
-- [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
-
 - [[fungal-community-ecology]]
-- [[biodiversity-fungi-soil-fungal-communities]]
 - [[soil-fungal-diversity]]
-- [[fungal-leaf-litter-succession]]
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]

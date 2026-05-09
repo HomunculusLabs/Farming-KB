@@ -7,16 +7,7 @@ tags: [mycoremediation, biology, mycorrhizal]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh [[mycorrhizal-fungi]] in Rhizosphere Remediation
-#mycoremediation #mycorrhiza #heavy-metals #rhizosphere #ecology #pcb #pah #tnt
-
-Updated: 2026-04-18
-
-Source: [[harbhajan-singh]], Mycoremediation: [[fungal-bioremediation]] (2006), Chapter 12
-
-## Overview
-
-Mycorrhizal fungi form symbiotic associations with plant roots and are ubiquitous in natural environments. They enhance nutrient transport, protect plants against environmental stress, and play increasingly recognized roles in the remediation of contaminated soils. Over 6000 ectomycorrhizal (ECM) fungal species and 5400+ species from 148 ECM genera are known worldwide. Mycorrhizas account for up to 45% of total soil biomass in temperate forest ecosystems. See also [[fungal-ecology-mycoremediation]], [[singh-fungal-biosorption-heavy-metals]], [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
+# Singh [[harbhajan-singh]], Mycoremediation: [[fungal-ecology-mycoremediation]], [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
 
 ## Classification of Mycorrhizal Fungi
 
@@ -53,45 +44,9 @@ ECM, ERM, and VAM fungi increase plant tolerance to heavy metals by:
 
 | Fungus | Host | Metal | Effect |
 |--------|------|-------|--------|
-| [[pisolithus-tinctorius]] | Eucalyptus | Al, Ni, Cr | Resistance to Al stress; varied Al tolerance (EC50 0.2-74 mM from mine vs 0.04-0.07 mM wild) |
 | [[suillus-bovinus]] | Pinus sylvestris | Zn, Cd | Tolerance in greenhouse (900 mg Zn/l) |
-| [[paxillus-involutus]] | Pinus sylvestris | Zn, Cd, Pb | Accumulates Cd in different compartments |
-| Glomus mosseae | Trifolium pratense | Zn | Decreased Zn in leaves |
 | [[suillus-luteus]] | Pinus, Picea | Multiple | Protects seedlings from heavy metal toxicity |
-| [[laccaria-laccata]] | Picea abies | Pb, Cd | Cd exposure increases sulfotransferase activity |
-| Cortinarius semisanguinea | Various | Cu, Zn | Highest mean Cu and Zn levels |
-| Russula spp. | Various | Pb | Highest mean Pb levels |
-| Suillus spp. | Various | Cd | Highest mean Cd levels |
-
-### Metal Accumulation Percentages
-- Zinc: ~38% accumulated in fungal biomass
-- Cadmium: ~33%
-- Lead: ~2%
-
-### Intracellular Detoxification Mechanisms
-- Polyphosphate granules in vacuoles bind metal cations (Paxillus involutus)
-- Metallothionein-like peptides induced by Cu, Cd, Zn (Pisolithus tinctorius)
-- Cd complexes with glutathione and gamma-glutamylcysteine (Laccaria laccata)
-- Melanin enhanced by tyrosinase limits Cu entry
-- Glomalin (VAM glycoprotein) sequesters Cu (28 mg/g), Cd, Pb, Mn
-- Organic acid production solubilizes metal compounds
-- Zn/Al: higher affinity for organic acids; Cu/Cd: higher affinity for phytochelatins
-
-### Genetic Aspects
-- No studies yet on genetics of ECM adaptation to contaminated field soils
-- Needed: screening of sensitive/insensitive genotypes from mine populations
-- Metallothionein genes identified in Laccaria laccata, Paxillus involutus, Gigaspora margarita, Tuber borchii
-
-## Radionuclide Transport
-
-- Fungi determine fate/transport of radionuclides in forests
-- Responsible for long-term retention of radiocesium in organic soil horizons
-- ~22% of 137Cs bound by fungal mycelia in top 5 cm of coniferous forest
-- Major fraction of 137Cs in Swedish forests associated with fungal component
-- Glomus mosseae/G. intraradices inoculation: 26-72% removal of 137Cs and 24-89% of 90Sr from contaminated soil
-- Three-phase model proposed for radiocesium migration in coniferous forest soils
-- Horizontal transport via fungal clusters in Scandinavian forests
-- [[schizophyllum-commune]]: translocates radiocesium by bulk flow in expanding mycelia
+| [[schizophyllum-commune]]: translocates radiocesium by bulk flow in expanding mycelia
 
 ## Petroleum Hydrocarbon Degradation
 
@@ -134,12 +89,6 @@ ECM fungi survive in petroleum-contaminated soils and utilize crude oil as nutri
 - Five ECM species metabolize 14C-labeled lignin/lignocellulose (rate lower than white-rot fungi)
 - Paxillus involutus (facultative ECM): degrades lignin more readily than obligate ECM (Suillus bovinus, Rhizopogon roseolus)
 - ECM fungi release >24% of [14CH3]DHP of coniferyl alcohol
-- [[suillus-granulatus]]: completely metabolizes catechol, 3,4-dihydroxybenzoic acid, vanillic acid (tyrosinase)
-- S. granulatus: complete transformation of p-cresol within 5 hours
-- 2,4-dichlorophenol: P. involutus increases 50% mineralization; S. variegatus 250% in symbiotic association
-
-### ERM Fungi
-- More effective than ECM at degrading 14C-labeled lignin in pure cultures
 - [[hymenoscyphus-ericae]]: well-developed tannin degradation abilities
 - Phenol-degrading abilities more developed in ERM than ECM fungi
 - H. ericae metabolizes all phenolic acids except benzoic and p-methoxybenzoic

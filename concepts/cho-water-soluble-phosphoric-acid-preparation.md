@@ -76,23 +76,7 @@ water more effectively.
 ### Application Timing
 
 1. Apply WS-PA during the
-   [[cho-nutritive-cycle-theory]]. It promotes the
-   differentiation of flower buds, resulting in high fertility and
-   yield.
-2. WS-PA improves the sugar content of fruits.
-3. Apply WS-PA when the colors of leaves turn light or dark green,
-   indicating phosphoric acid imbalance.
-
-## Environmental Conditions
-
-1. Optimum temperature range: 23 to 25 degrees C.
-2. Store and prepare in a cool and shaded place with no direct
-   sunlight.
-
-## Symptoms of WS-PA Deficiency
-
-Understanding deficiency symptoms is critical for timely application
-of WS-PA within the [[cho-nutritive-cycle-theory]]:
+   [[cho-nutritive-cycle-theory]]:
 
 1. WS-PA can easily travel within the plant and moves to vigorous new
    leaves first. As a result, symptoms of deficiency appear mainly on
@@ -109,18 +93,8 @@ of WS-PA within the [[cho-nutritive-cycle-theory]]:
 ## Role in the Nutritive Cycle
 
 WS-PA is the primary input for the Change-over period (Morning
-Sickness) in the [[cho-nutritive-cycle-theory]].
-During this critical transition from vegetative to reproductive growth,
-plants crave "sour nutrients" in the form of phosphoric compounds.
-WS-PA supplies exactly what the plant needs at this juncture.
-
-## See Also
-
-- [[knf-water-soluble-phosphoric-acid-wspa]] - general KNF WSPA reference
-- [[cho-water-soluble-calcium-phosphate-preparation]] - combines
-  calcium with phosphoric acid
+Sickness) in the [[knf-water-soluble-phosphoric-acid-wspa]] - general KNF WSPA reference
 - [[cho-water-soluble-calcium-and-potassium]] - calcium and potassium
   inputs for other growth stages
-- [[cho-nutritive-cycle-theory]] - the theoretical framework
 - [[cho-plant-growth-stage-treatments]] - specific treatment recipes
   for the changeover period

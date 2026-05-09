@@ -140,9 +140,6 @@ grape aroma and purple aesthetics have become synonymous with premium indica
 quality.
 
 ## See Also
-- [[granddaddy-purple]] — Parent-relative purple indica with similar grape terpene profile
 - [[purple-haze]] — Purple-hued sativa-dominant counterpart with cerebral effects
-- [[northern-lights]] — Classic pure indica with comparable sedative body effects
 - [[og-kush]] — Foundational West Coast strain with overlapping Afghani genetics
-- [[cannabis-indica]] — Species overview for indica-dominant characteristics
 - [[hindu-kush]] — Landrace indica ancestor contributing to Grape Ape's lineage

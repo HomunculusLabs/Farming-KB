@@ -16,8 +16,7 @@ type: concept
 
 # Mineral Balance and Soil Fertility in Permaculture
 
-[[david-holmgren]] presents a nuanced view of mineral balance as a critical but often
-overlooked factor in [[holmgren-soil-humus-carbon-storage-rebuilding]] and
+[[holmgren-soil-humus-carbon-storage-rebuilding]] and
 sustainable agriculture. While Permaculture has emphasised biological solutions,
 Holmgren argues that understanding and correcting mineral imbalances is essential
 to achieving truly productive and healthy food systems.
@@ -126,13 +125,8 @@ reliable ways to achieve high productivity and healthy balance.
 
 ## Practice at Melliodora
 
-At Melliodora, [[soil-testing]] based on Albrecht methods, refractometer testing of
-plant sap, and broadly based observation skills guide remedial applications of
-minerals. Many emerging limiting factors to health and productivity have had their
-origin in mineral imbalances that had not been adequately dealt with. Refining
-and extending biological approaches (including [[biodynamic-preparations]]) is the
+At Melliodora, [[biodynamic-preparations]]) is the
 current focus, given that the basic mineral balance is considered reasonable.
 
-See also: [[holmgren-mineral-fertilizers-soil-building]],
-[[holmgren-soil-humus-carbon-storage-rebuilding]],
+See also: [[holmgren-soil-humus-carbon-storage-rebuilding]],
 [[holmgren-living-soil-ethic]]

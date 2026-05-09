@@ -111,39 +111,9 @@ Cavendish is grown in large-scale monoculture plantations:
 - **Inputs:** High — regular fertilizer, irrigation, fungicide sprays (15–50/year for black Sigatoka control), nematode management, bunch bagging
 - **Labor:** Intensive — desuckering, leaf pruning, propping, harvest, de-handing, packing
 - **Yield:** 40–80 tonnes/ha/year under intensive management
-- **[[post-harvest-handling-marketing-mushrooms]]:** Complex cold chain, ripening facilities, packaging, export logistics
+- **[[comparison-wild-vs-cultured-yeast]]
+- [[comparison-sourdough-vs-wild-yeast-bread]]
 
-### East African Highland: Smallholder Mixed Farming
-
-EAH bananas are integrated into complex smallholder farming systems:
-
-- **Planting density:** 400–1,000 plants/ha (wider spacing in mixed systems)
-- **Lifecycle:** Same basic pattern (one bunch per pseudostem), but mats are maintained for 10–50+ years
-- **Time to harvest:** 12–24 months from planting (slower due to cooler temperatures)
-- **Ratoon cycles:** Indefinite — mats are maintained for decades or generations in traditional systems
-- **Inputs:** Low to moderate — cattle manure, mulch from crop residues, ash; minimal external fertilizer in most smallholder systems
-- **Labor:** Integrated with other farm activities; women typically manage banana plots
-- **Yield:** 5–20 tonnes/ha/year (lower than commercial Cavendish but consistent)
-- **Post-harvest:** Minimal — harvested green, peeled, wrapped in banana leaves, and steamed
-
-## Nutritional Profile (Per 100 g Edible Portion)
-
-| Component | Cavendish (raw, ripe) | EAH (cooked, steamed) |
-|-----------|----------------------|----------------------|
-| **Energy** | 89 kcal | 100–120 kcal |
-| **Carbohydrates** | 23 g | 25–30 g |
-| **Sugars** | 12 g | 3–5 g |
-| **Dietary fiber** | 2.6 g | 2–3 g |
-| **Protein** | 1.1 g | 1.0–1.3 g |
-| **Potassium** | 358 mg | 300–400 mg |
-| **Vitamin B6** | 0.4 mg | 0.3–0.4 mg |
-| **Vitamin C** | 8.7 mg | 10–15 mg (some loss in cooking) |
-| **Magnesium** | 27 mg | 30–40 mg |
-| **Vitamin A** | 64 IU (3 μg RAE) | 50–100 IU (varies with cultivar) |
-
-## Culinary Uses
 ## See Also
 
-- [[comparison-wild-vs-cultured-yeast]]
-- [[comparison-sourdough-vs-wild-yeast]]
-- [[comparison-sourdough-vs-wild-yeast-bread]]
+- [[banana-and-plantain-cultivation-and-variety-guide]]

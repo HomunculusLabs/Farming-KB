@@ -119,11 +119,7 @@ ergot-based preparations.
 
 ## Related Concepts
 
-- [[eleusinian-mysteries-kykeon]]
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]
-- [[claviceps-paspali-alkaloids]]
 - [[history-of-mushroom-cultivation]]
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
 - [[hofmann-self-experiment-with-ergonovine]]
-- [[harmala-alkaloids]]
 - [[mckenna-ergot-and-witches-sabbath-theory]]

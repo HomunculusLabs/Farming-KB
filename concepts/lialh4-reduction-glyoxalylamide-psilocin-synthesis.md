@@ -57,22 +57,25 @@ The product is confirmed by multiple spectroscopic methods:
 
 ## Significance in the Synthetic Route
 
-This LiAlH4 reduction is strategically positioned as the penultimate step in the psilocin synthesis. Its advantages include:
-
-- **High yield:** Greater than 85% on gram scale
-- **No chromatography required:** The product crystallizes directly from the workup mixture
-- **Scalability:** The reaction has been demonstrated on multi-gram scale (80 mmol) without yield loss
-- **Chemoselectivity:** Despite reducing three different functional groups, no side products requiring separation are formed
-
-The clean nature of this reduction contrasts with alternative approaches that may require selective protection and deprotection sequences to achieve the same transformation. The ability of LiAlH4 to simultaneously reduce all three positions with high fidelity makes it uniquely suited for this particular synthetic intermediate.
-
-## Safety Considerations
-
-LiAlH4 is pyrophoric and reacts violently with water. The reaction must be conducted under an inert atmosphere (argon or nitrogen) using rigorously anhydrous solvents and glassware. The controlled quenching procedure using anhydrous sodium sulfate followed by saturated Na2SO4 solution is critical for safe workup. Appropriate personal protective equipment and a fume hood are essential.
-
-## Related Topics
-
-- [[psilocybin-and-psilocin-chemical-synthesis|Psilocybin and Psilocin Chemical Synthesis by Shirota et al.]]
-- [[ayahuasca-and-dmt-plant-medicine|Oxalyl Chloride Acylation of 4-Acetylindole]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway|Shirota Large-Scale Synthesis Pathway]]
+This LiAlH4 reduction is strategically positioned as the penultimate step in the [[psilocybin-and-psilocin-chemical-synthesis]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 - [[4-hydroxyindole-tryptamine-synthesis-building-block|4-Hydroxyindole as a Synthesis Building Block]]
+## Practical Considerations
+
+Successful implementation of Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

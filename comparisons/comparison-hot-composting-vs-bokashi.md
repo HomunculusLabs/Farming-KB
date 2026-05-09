@@ -20,31 +20,6 @@ advantages depending on available space, the types of waste generated, and the
 desired processing timeline and end product.
 
 ## Hot Composting
-[[hot-composting-method]]
-Hot composting (thermophilic composting) accelerates decomposition by creating
-conditions favorable for heat-loving microorganisms. A properly managed pile
-progresses through three phases: the mesophilic phase (room temperature to
-105F), the thermophilic phase (105-160F), and a cooling and curing phase.
-Internal temperatures of 131-150F kill most weed seeds, pathogens, and fly
-larvae, making hot composting one of the most sanitary methods of organic
-waste processing available to home gardeners and homesteaders.
-The process requires careful management of the carbon-to-nitrogen ratio
-(ideally 25-30:1), moisture content (50-60%), and oxygen levels through
-regular turning. With proper management, finished compost can be produced in
-3-6 weeks during the active thermophilic phase, though curing extends this to
-2-6 months for maximum biological stability and nutrient availability. Hot
-composting works best with large volumes of yard waste, kitchen scraps,
-manure, and carbon-rich browns like leaves and straw.
-The high temperatures make hot composting unsuitable for meat, dairy, and
-cooked foods, as these attract pests and can harbor pathogens that may survive
-unless the pile is uniformly hot throughout. Hot composting also requires
-significant space for a pile at least 3x3x3 feet to generate and retain
-sufficient heat, plus regular physical labor for turning. However, the end
-product is universally applicable — finished hot compost improves soil
-structure, water retention, microbial diversity, and nutrient availability in
-virtually any garden or agricultural setting.
-
-## Bokashi
 [[bokashi-composting]]
 Bokashi is a Japanese composting method developed by Dr. Teruo Higa that uses
 anaerobic fermentation with effective microorganisms (EM) to pre-digest
@@ -119,8 +94,6 @@ organic household waste.
 
 ## See Also
 
-- [[comparison-deep-litter-vs-hot-composting]]
 - [[comparison-aerobic-vs-anaerobic-composting]]
-- [[comparison-bokashi-vs-vermicomposting]]
 - [[comparison-vermicomposting-vs-hot-composting]]
 - [[comparison-bokashi-vs-hot-composting-method]]

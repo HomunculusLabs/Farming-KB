@@ -83,12 +83,7 @@ Holzer strongly criticises the common advice to cut mushrooms and leave the stem
 
 ## See Also
 
-- [[mushroom-straw-cultivation-guide]]
-
 - [[mushroom-cultivation-basics]]
-- [[composting-humus-building-holzer]]
 - [[soil-food-web-structure]]
-- [[holzer-urban-farming]]
 - [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]

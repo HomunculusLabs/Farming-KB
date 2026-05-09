@@ -135,8 +135,6 @@ temperate forest-garden systems.
 
 ## See Also
 
-- [[panax-ginseng]] — Fellow adaptogenic tonic herb in East Asian medicine
 - [[astragalus-membranaceus]] — TCM qi-tonic with complementary immunomodulatory effects
-- [[schisandra-chinensis]] — Five-flavor berry, adaptogenic TCM species
 - [[glycyrrhiza-uralensis]] — Chinese licorice, co-prescribed in kidney-tonic formulas
 - [[moringa-oleifera]] — Multipurpose permaculture tree with medicinal uses

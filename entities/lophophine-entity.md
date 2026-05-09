@@ -25,17 +25,11 @@ sources:
 
 LOPHOPHINE appears to be inactive:
 
-- At 150 mg: between two and five hours, very peaceful and euphoric mood elevation, similar to [[mescaline-entity]] but without any visual distortion. Mild enhancement of color perception, possibly a function of mood elevation. No nausea, no eyes-closed vision. Sleep was easy that evening
-
-- At 250 mg: possibly something of a threshold effect from 2:30 to 4:30. Intangible, and certainly nothing an hour later
-
-## Synthesis
-
-Synthesized from myristicinaldehyde (3-methoxy-4,5-methylenedioxybenzaldehyde, see [[mmda-entity]]) via nitrostyrene formation with nitromethane and ammonium acetate in acetic acid, followed by LAH reduction over a 9-day reflux period using Soxhlet addition. The hydrochloride salt had a mp of 164-164.5 degrees C.
+- At 150 mg: between two and five hours, very peaceful and euphoric mood elevation, similar to [[mmda-entity]]) via nitrostyrene formation with nitromethane and ammonium acetate in acetic acid, followed by LAH reduction over a 9-day reflux period using Soxhlet addition. The hydrochloride salt had a mp of 164-164.5 degrees C.
 
 ## Extensions and Commentary
 
-Shulgin provides an excellent argument for why LOPHOPHINE should be active, making its inactivity "completely unexpected." [[mescaline-entity]] is a major centrally active alkaloid of the Peyote plant ([[lophophora-williamsii]]). Mescaline undergoes cyclization within the plant to produce tetrahydroisoquinoline derivatives such as anhalonine and O-methylanhalonidine. There is another class of tetrahydroisoquinolines -- anhalonine, lophophorine, and peyophorine -- that are the logical cyclization products of a phenethylamine which does not exist in the cactus: 3-methoxy-4,5-methylenedioxyphenethylamine.
+Shulgin provides an excellent argument for why LOPHOPHINE should be active, making its inactivity "completely unexpected." [[lophophora-williamsii]]). Mescaline undergoes cyclization within the plant to produce tetrahydroisoquinoline derivatives such as anhalonine and O-methylanhalonidine. There is another class of tetrahydroisoquinolines -- anhalonine, lophophorine, and peyophorine -- that are the logical cyclization products of a phenethylamine which does not exist in the cactus: 3-methoxy-4,5-methylenedioxyphenethylamine.
 
 This compound "should be there, but it is not." If it were present it would be the natural precursor to a host of bicyclic alkaloids. Shulgin named it LOPHOPHINE, derived from the Latin binomial of the plant, in anticipation of its eventual discovery. He was confident that it would someday be found in the cactus and would prove to be an active psychedelic.
 
@@ -103,10 +97,6 @@ The story of LOPHOPHINE is a reminder of how much remains unknown about the chem
 
 ## Related Compounds
 
-- [[mescaline-entity]] -- the related Peyote alkaloid
-
 - [[mmda-entity]] -- 3-methoxy-4,5-methylenedioxyamphetamine (the amphetamine analogue)
-
-- [[mda]] -- 3,4-methylenedioxyamphetamine
 
 - [[phenethylamine-pharmacology]] -- general pharmacology

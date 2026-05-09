@@ -12,14 +12,8 @@ type: concept
 # Slugs and Snails on Cannabis
 
 Slugs and snails are soft-bodied mollusk pests that
-primarily affect [[indoor-vs-outdoor-cannabis]] gardens. While they
-are rarely a problem indoors, they can cause significant
-damage to seedlings and young plants in outdoor,
-greenhouse, and terrace gardens. Jorge Cervantes
-provides detailed guidance on identification, damage
-assessment, and [[knf-pest-control-methods]] for these common pests.
+primarily affect [[knf-pest-control-methods]] for these common pests.
 
-See also: [[cervantes-pest-disease]]
 See also: [[outdoor-cannabis-growing]]
 
 ## Identification

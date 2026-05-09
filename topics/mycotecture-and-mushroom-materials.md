@@ -37,9 +37,7 @@ Different fungal species produce composites with distinct properties:
 
 | Species | Substrate Preference | Growth Rate | Composite Characteristics |
 |---|---|---|---|
-| *Ganoderma lucidum* (Reishi) | Sawdust, wood chips | Moderate | Dense, hard, high compressive strength |
-| *Pleurotus ostreatus* (Oyster) | Straw, agricultural waste | Fast | Lightweight, good insulation |
-| *Trametes versicolor* (Turkey Tail) | Wood chips, sawdust | Moderate | Uniform, fine texture |
+| *[[ganoderma-lucidum]]* (Reishi) | Sawdust, wood chips | Moderate | Dense, hard, high compressive strength |[[pleurotus-ostreatus]] atus* (Oyster) | Straw, agricultural waste | Fast | Lightweight, good insulation |[[trametes-versicolor-entity]] olor* (Turkey Tail) | Wood chips, sawdust | Moderate | Uniform, fine texture |
 | *Ganoderma tsugae* | Hemlock sawdust | Moderate-Slow | Very dense, water-resistant |
 | *Fomes fomentarius* (Tinder Fungus) | Birch, hardwood | Slow | Extremely tough, fire-resistant |
 | *Pleurotus eryngii* (King Oyster) | Straw, cotton waste | Fast | Good tensile properties, flexible |
@@ -311,7 +309,7 @@ Home-scale mycelium material production is accessible and educational:
 - Directed evolution and CRISPR-based editing of fungal strains for improved growth rates, denser hyphal networks, and enhanced mechanical properties
 - Metabolic engineering to increase chitin and glucan production for stronger composites
 - Development of strains optimized for specific substrates (e.g., strains that thrive on regionally abundant waste streams)
-- Bioinformatics-guided strain selection from wild fungal biodiversity
+- Bioinformatics-guided strain selectio [[fungal-biodiversity]] biodiversity
 
 ### Advanced Manufacturing
 

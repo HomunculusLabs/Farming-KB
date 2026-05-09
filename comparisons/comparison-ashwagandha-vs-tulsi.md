@@ -10,7 +10,7 @@ type: comparison
 
 # Ashwagandha vs Tulsi (Holy Basil)
 
-Both ashwagandha (*Withania somnifera*) and tulsi (*Ocimum sanctum*) are
+Both ashwagandha (*[[ocimum-sanctum]]*) are
 cornerstones of Ayurvedic medicine with thousands of years of traditional use.
 They share the adaptogen classification but differ dramatically in their active
 compounds, plant parts used, growing requirements, and primary therapeutic
@@ -36,7 +36,7 @@ Krishna (purple leaves, highest eugenol), Rama (green, most common), and Vana
 The therapeutic profiles diverge largely because of different phytochemistry:
 
 | Aspect | Ashwagandha | Tulsi |
-|--------|------------|----[[linalool]]rimary actives | Withanolides, withaferin A | Eugenol, ursolic acid, rosmarinic acid |
+|--------|------------|----[[ursolic-acid]], rosmarinic acid |
 | Secondary actives | Alkaloids, iron, amino acids | Caryophyllene, linalool, apigenin |
 | Key chemical class | Steroidal lactones | Phenylpropanoids, terpenoids |
 | Medicinal part | Root (primary), berries | Leaves and aerial parts |
@@ -87,55 +87,4 @@ Tulsi shines as a daily tonic for immune resilience and respiratory health:
 Ashwagandha is notably easier in poor, dry soils and rewards neglect once
 established. Tulsi is more demanding of fertility and consistent moisture but
 rewards with a much faster harvest cycle and the ability to harvest repeatedly
-throughout the season. See [[ashwagandha-growing-guide]] and
-holy basil tulsi guide for full cultivation details.
-
-## Propagation and Harvest
-
-Ashwagandha is primarily grown from seed started indoors 6-8 weeks before
-last frost, with a long 10-21 day germination period. The entire crop is
-harvested once at the end of the season when roots reach maximum size. The
-root must be carefully dug, washed, sliced, and dried at 95-105 degrees F.
-
-Tulsi germinates faster (5-15 days) and can be harvested continuously by
-pinching stems once the plant reaches 8-12 inches tall. Leaves are dried at
-room temperature or low heat (under 115 degrees F) to preserve volatile oils.
-In warm zones, tulsi can be overwintered indoors; ashwagandha cannot.
-
-## Preparation and Daily Use
-
-Ashwagandha is traditionally taken as a powdered root in warm milk with ghee
-and honey, or as a tincture (1:5, 50-70% alcohol). Doses range from 300-600 mg
-of standardized extract daily. The taste is bitter and earthy, which limits
-its appeal as a casual beverage.
-
-Tulsi excels as a daily tea: 1-2 teaspoons of dried leaves steeped 5-10
-minutes produces a pleasant, aromatic cup. Fresh leaves can be chewed directly.
-Tulsi tincture (1:2, fresh leaf) is taken at 20-40 drops, 2-3 times daily.
-The flavor is warm, spicy, and slightly sweet, making it far more palatable as
-a daily beverage than ashwagandha.
-
-## Safety and Contraindications
-
-Both herbs are generally safe but differ in their cautions. Ashwagandha should
-be avoided during pregnancy due to possible abortifacient effects and used
-cautiously in autoimmune conditions. It may interact with thyroid medications,
-sedatives, and immunosuppressants.
-
-Tulsi is very safe for daily long-term use. Its main cautions are
-theoretical: possible potentiation of blood-thinning medications at high doses
-and the presence of estragole, a compound with theoretical carcinogenic risk at
-extremely high doses far beyond normal consumption.
-
-## Choosing Between Them
-
-Grow ashwagandha if you want a single end-of-season root harvest for sleep,
-hormonal balance, and physical recovery. It suits dry gardens and hands-off
-growers. Grow tulsi if you want an ongoing leaf harvest for daily immune and
-stress support, especially as a pleasant tea. It suits fertile gardens and
-those who want medicine available throughout the growing season.
-
-Many herbalists grow both: tulsi as an everyday tonic and ashwagandha as a
-deeper restorative taken in cycles. Together they cover a remarkably broad
-range of adaptogenic and anti-inflammatory actions. For a broader overview, see
-[[adaptogenic-herbs-guide]].
+throughout the season. See [[adaptogenic-herbs-guide]].

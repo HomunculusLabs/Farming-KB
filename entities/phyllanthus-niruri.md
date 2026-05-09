@@ -116,11 +116,7 @@ In permaculture systems, P. niruri serves as a fast-growing ground cover in trop
 
 ## See Also
 
-- [[phyllanthus-emblica]]
 - [[terminalia-chebula]]
-- [[glycyrrhiza-glabra]]
 - [[silybum-marianum]]
-- [[andrographis-paniculata]]
-- [[tinospora-cordifolia]]
 - [[curcuma-longa]]
 - [[berberine]]

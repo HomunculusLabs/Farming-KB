@@ -21,59 +21,7 @@ feeds plants without external inputs.
 
 In nature, soil fertility is maintained through a continuous cycle.
 Plants pull nutrients from the soil, animals eat the plants, and all
-dead material is broken down by [[soil-life]] and returned to the soil
-as humus. This cycle is self-renewing and can continue indefinitely.
-Conventional gardening breaks this cycle by removing plant material
-(yard waste, crop residues) and importing synthetic fertilizers.
-
-The key to building soil is adding organic matter in various forms.
-Organic matter feeds soil organisms, improves soil structure, increases
-water-holding capacity, and provides a slow-release source of nutrients.
-There are several primary methods for building soil.
-
-## Composting
-
-Composting accelerates the natural decomposition process by creating
-optimal conditions for bacteria and fungi to break down organic
-material. A well-managed compost pile heats up as microorganisms
-decompose the material, reaching temperatures that kill weed seeds
-and pathogens.
-
-A good compost pile needs:
-- **Carbon materials** (browns): dry leaves, straw, wood chips, paper
-- **Nitrogen materials** (greens): kitchen scraps, grass clippings,
-  manure, green plant material
-- **Moisture**: as damp as a wrung-out sponge
-- **Air**: regular turning or adequate porosity
-- **Volume**: at least 3 feet x 3 feet x 3 feet to generate heat
-
-Aim for roughly a 30:1 carbon-to-nitrogen ratio by volume. Layer
-browns and greens, keep moist but not waterlogged, and turn every few
-weeks. Finished compost is dark, crumbly, and has an earthy smell.
-
-## Mulching
-
-Mulch is any material spread on top of soil to protect and enrich it.
-Organic mulches (leaves, straw, wood chips, compost) break down over
-time, adding organic matter to the soil. Inorganic mulches (gravel,
-landscape fabric) suppress weeds but don't feed soil life.
-
-Benefits of organic mulching:
-- Suppresses weed growth by blocking light
-- Conserves soil moisture by reducing evaporation
-- Moderates soil temperature (cooler in summer, warmer in winter)
-- Adds organic matter as it decomposes
-- Prevents soil compaction from rain impact
-- Provides habitat for beneficial insects and spiders
-
-Research has found thirty times more spiders in mulched gardens than
-in unmulched ones, and far less insect damage to plants. Apply mulch
-2 to 4 inches deep, keeping it away from direct contact with plant
-stems to prevent rot.
-
-## Green Manures and Cover Crops
-
-See [[cover-crops]] for detailed information on using living plants to
+dead material is broken down by [[cover-crops]] for detailed information on using living plants to
 build soil. Cover crops are grown specifically to be turned into the
 soil, adding organic matter and nitrogen while protecting bare ground.
 
@@ -83,13 +31,6 @@ Sheet mulching (also called lasagna gardening) is a no-till method of
 building soil and suppressing weeds. Layers of newspaper or cardboard,
 compost, and organic matter are stacked directly on top of existing
 vegetation, creating a rich planting bed without digging. See
-[[sheet-mulching]] for complete instructions.
-
-## Hugelkultur
-
-Hugelkultur is a technique of burying woody material (logs, branches)
-under soil to create raised beds that improve drainage, retain
-moisture, and slowly release nutrients as the wood decomposes. See
 [[hugelkultur]] for detailed guidance.
 
 ## The Carbon Connection
@@ -119,8 +60,25 @@ their garden's productivity and resilience.
 
 ## See Also
 
-- [[soil-life]]
 - [[sheet-mulching]]
-- [[cover-crops]]
 - [[hugelkultur]]
 - [[composting-science-solomon]]
+## Practical Considerations
+
+Successful implementation of Building Soil requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

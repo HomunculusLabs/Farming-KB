@@ -140,10 +140,10 @@ properties. This group includes:
 ## Related Topics
 
 - The pharmacology of Amanita muscaria is covered extensively in
-  [[amanita-muscaria-chemistry-and-pharmacology]].
-- Ergot alkaloids and their historical significance are detailed in
   [[bloomfield-ergot-claviceps-purpurea-ergotism]].
 - The full checklist of all 216 neurotropic species is in
-  [[neurotropic-fungi-world-checklist]].
-- Indigenous Mexican use of these fungi is explored in
   [[mexico-neurotropic-fungi-diversity-center]].
+
+## See Also
+
+- [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]

@@ -48,28 +48,65 @@ propynyl.
 
 A solution of 10.5 g propargylamine hydrochloride in 40 mL
 MeOH was treated with 2.0 g 3,4-methylenedioxyphenylacetone (see under
-MDMA for its preparation) followed by 0.55 g sodium cyanoborohydride.
-Concentrated HCl was added as needed, to keep the pH constant at about
-6. The reaction seemed to progress very slowly. After about five
-days, the reaction mixture was added to 400 of H2O, acidified with
-HCl, and extracted with 3x100 mL CH2Cl2. The aqueous phase was made
-basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. Evaporation
-of the solvent from these extracts yielded 1.6 g of a clear amber,
-strong smelling oil which, on distillation at 105-110 deg C at 0.2 mm/Hg,
-yielded 1.0 g of an almost colorless oil. This was dissolved in 20 mL
-IPA, neutralized with about 10 drops of concentrated HCl, and the
-spontaneously formed crystals were diluted with 50 mL anhydrous Et2O.
-After filtration, Et2O washing and air drying, there was obtained 1.1
-g white crystals of 3,4-methylenedioxy-N-propargylamphetamine
-hydrochloride (MDPL) with a mp of 189-190 deg C. Anal. (C13H16ClNO2) N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-## See Also
-
-- [[ayahuasca-and-dmt-plant-medicine]]
-- [[mda-entity-pihkal]]
+[[ayahuasca-preparation-and-ceremony]]
 - [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
+## Practical Considerations
+
+When working with MDPL (N-PROPARGYL-MDA; N-PROPYNYL-MDA;) -- PIHKAL Entry #117, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

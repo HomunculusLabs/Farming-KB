@@ -110,12 +110,8 @@ last two weeks of flowering to eliminate fertilizer taste from buds.
 
 ## See Also
 
-- [[cervantes-nutrient-management]] - comprehensive nutrient
-  guidelines
 - [[cervantes-macronutrient-deficiency-toxicity]] - macronutrient
   excess symptoms
-- [[cervantes-micronutrient-deficiency-chelation]] - micronutrient
-  toxicity details
-- [[cannabis-advanced-growing-techniques]] - pre-harvest flushing
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - pre-harvest flushing
   techniques
 - [[cervantes-ph-management-testing]] - pH monitoring and control

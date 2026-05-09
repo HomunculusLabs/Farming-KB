@@ -16,9 +16,7 @@ Biodynamic agriculture and biointensive gardening are two approaches to
 sustainable food production that share a deep commitment to ecological farming
 and soil health but differ profoundly in their philosophical foundations.
 
-[[biodynamic-agriculture-and-steiner]] originated with Rudolf Steiner in the
-1920s as a spiritual-scientific approach to farming rooted in anthroposophy,
-while [[biointensive-gardening-overview]] was developed by John Jeavons in the
+[[biointensive-gardening-overview]] was developed by John Jeavons in the
 1970s as a research-driven, data-backed closed-loop food production system.
 
 Both approaches prioritize soil building, biodiversity, and sustainability, but
@@ -126,15 +124,8 @@ Some growers integrate elements of both systems, using biointensive
 double-digging and close spacing alongside biodynamic compost preparations,
 planting calendars, and the farm organism concept. The soil-building emphasis
 of biointensive complements the biological vitality goals of biodynamic
-practice, and both share a commitment to [[building-soil]] organic matter and
-eliminating external inputs.
+practice, and both share a commitment to [[comparison-regenerative-vs-biodynamic]]
 
-## See Also
-
-- [[comparison-regenerative-vs-biodynamic]]
-
-- [[biodynamic-agriculture-and-steiner]] — Full biodynamic philosophy and practice
 - [[biointensive-gardening-overview]] — Comprehensive GROW BIOINTENSIVE guide
-- [[compost-building-guide]] — Comparison of composting approaches for soil
 - [[solomon-double-digging]] — Technique and benefits of deep soil preparation
 - sustainable agriculture — Broad overview of sustainable farming systems

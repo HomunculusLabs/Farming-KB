@@ -130,21 +130,11 @@ includes species with different rooting depths, growth forms, and
 phenological patterns that collectively capture light across more of the
 year and from more spatial positions. This is one of the fundamental
 reasons that advancing succession increases productivity and stability.
-
 ## See Also
-
-- [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]
-
-- reynolds number and flow regimes
 
 - [[savory-solar-dollars-and-wealth-classification]]
 
-- [[savory-energy-tetrahedron]]
-
 - [[savory-ecosystem-foundation-blocks]] for the four-process framework
-- [[savory-plant-succession-and-community-dynamics]] for how complexity
-  affects energy capture
 - [[savory-water-cycle-management]] for the water-energy connection
-- [[savory-mineral-cycle-management]] for belowground energy
 - [[savory-livestock-grazing-planning]] for managing growing seasons
   through planned grazing

@@ -137,12 +137,7 @@ mixed hedgerows and functions well as a boundary tree in zone 2–3 designs.
 
 ## See Also
 
-- [[morus-alba]] — White mulberry, the most widely cultivated Morus species
-- morus nigra — Red mulberry, native to North America
 - [[juglans-nigra]] — Black walnut, a common agroforestry companion
-- [[castanea-mollissima]] — Chinese chestnut, a food forest canopy tree
 - [[rubus-idaeus-entity]] — Red raspberry, an understory companion
-- [[elaeagnus-umbellata]] — Autumn olive, a nitrogen-fixing food forest ally
 - [[caragana-arborescens]] — Siberian peashrub, a hardy nitrogen fixer
-- [[food-forest-permaculture]] — Concept page on food forest design
 - [[permaculture]] — Core permaculture principles and practices

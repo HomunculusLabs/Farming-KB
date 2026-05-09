@@ -8,9 +8,7 @@ type: concept
 tags: [ayahuasca, ethics]
 ---
 
-# [[ayahuasca-tourism-ethics]] and Commodification
-
-The commodification of indigenous spiritual practice through [[ayahuasca-tourism]] raises significant ethical concerns that cut across cultural appropriation, economic exploitation, authenticity, and safety.
+# [[ayahuasca-tourism]] raises significant ethical concerns that cut across cultural appropriation, economic exploitation, authenticity, and safety.
 
 As shamanism became fashionable among Western seekers in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
 
@@ -139,10 +137,8 @@ A documented fatality in Bolivia -- an AIDS patient who died during a ceremony d
 The ethical burden falls on both practitioners (to acknowledge the limits of their medical knowledge) and tourists (to exercise due diligence about pharmacological contraindications).
 
 The absence of regulatory oversight means no systematic screening, no informed consent protocols, and no liability frameworks to protect vulnerable participants.
-
 ## See Also
 
 - [[ayahuasca-tourism-shamanic-tourism-economics]] -- economic structures enabling exploitation
-- [[ayahuasca-tourism-western-seekers-and-integration]] -- the seekers whose demand drives commodification
 - [[ayahuasca-tourism-peru-retreat-landscape]] -- where these ethical dynamics play out
 - [[ayahuasca-tourism-legal-status-by-country]] -- legal frameworks (or their absence) for consumer protection

@@ -1,7 +1,7 @@
 ---
 title: Fungal Secondary Metabolites
 created: 2026-04-28
-tags: [mycology, biochemistry, toxins, evolution]
+tags: [[mycology, biochemistry, toxins, evolution]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
@@ -89,15 +89,7 @@ have been discovered, but it likely applies to at least some compounds.
 
 ### Aflatoxins
 
-Produced by [[aspergillus-flavus]] and related species, aflatoxins are among
-the most potent known carcinogens. They contaminate stored grains and nuts,
-particularly in tropical regions, causing liver cancer in humans and
-livestock. Their primary ecological role may be defense against insects
-or competing microorganisms.
-
-### Ergot Alkaloids
-
-[[claviceps-purpurea]] produces ergot alkaloids that cause ergotism (St.
+Produced by [[claviceps-purpurea]] produces ergot alkaloids that cause ergotism (St.
 Anthony's Fire) in humans who consume contaminated grain. These compounds
 include lysergic acid derivatives; LSD is a semisynthetic derivative of
 ergotamine. The ecological function is likely defense against herbivores.
@@ -119,26 +111,7 @@ metabolite with an unambiguous adaptive purpose.
 
 ## Medical and Industrial Importance
 
-[[antifungal-secondary-metabolites-coprophilous-fungi]] demonstrates that even
-coprophilous (dung-inhabiting) fungi produce medically relevant compounds. Fungal secondary metabolites have enormous practical importance:
-
-- **Antibiotics**: Penicillin and cephalosporins revolutionized medicine
-- **Immunosuppressants**: Cyclosporine from Tolypocladium enables organ
-  transplantation
-- **Cholesterol-lowering drugs**: Lovastatin from Aspergillus terreus
-- **Cancer drugs**: Several fungal metabolites show antitumor activity
-- **Food processing**: Citric acid production by Aspergillus niger
-
-The study of fungal secondary metabolism continues to be one of the most
-productive areas of natural products chemistry, with new compounds being
-discovered and characterized at an accelerating pace.
-
-## See Also
-
-- [[singh-ergot-alkaloid-fungal-secondary-metabolites]]
-- [[biodiversity-fungal-secondary-metabolites]]
+[[singh-ergot-alkaloid-fungal-secondary-metabolites]]
 - [[fungal-secondary-metabolites-environment]]
 - bloomfield fungal secondary metabolites
-- [[fungal-elicitors-enhanced-secondary-metabolite-production]]
-
-[[bloomfield-amatoxin-poisoning-mechanism]] explains how amatoxins cause lethal liver failure. [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] covers the dark history of trichothecene toxins as biological weapons. [[bloomfield-aspergillus-biology-and-aflatoxins]] provides deeper detail on aflatoxin-producing Aspergillus species. For food safety implications, [[aflatoxins-mycotoxins-food]] addresses contamination of stored grains and nuts.
+- [[bloomfield-amatoxin-poisoning-mechanism]] explains how amatoxins cause lethal liver failure. [[bloomfield-aspergillus-biology-and-aflatoxins]] provides deeper detail on aflatoxin-producing Aspergillus species. For food safety implications, [[aflatoxins-mycotoxins-food]] addresses contamination of stored grains and nuts.

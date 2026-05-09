@@ -1,7 +1,7 @@
 ---
 title: Mycelial Network Structure
 created: 2026-04-28
-tags: [mycology, networks, biology, fungi]
+tags: [[mycology, networks, biology, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -118,10 +118,7 @@ one of the largest organisms ever documented.
 ## See Also
 
 - [[fungal-mycelial-network-architecture]]
-- [[mycorrhizal-networks-common-mycelial-network]]
 - [[gadd-mycelial-network-dynamics]]
 
-- [[wood-wide-web]]
 - [[mycorrhizal-symbiosis]]
-- [[biological-transport-networks]]
 - [[fungal-ecology]]

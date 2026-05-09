@@ -117,16 +117,9 @@ is likely not the best option, at least for the hobby breeder.
 Rather than attempting mutagenesis, breeders should:
 
 - Search for natural variation in existing seed populations
-- Use conventional breeding methods like [[cervantes-backcross-breeding-methods]] and [[cervantes-selfing-single-seed-descent]]
+- Use conventional breeding methods like [[cervantes-selfing-single-seed-descent]]
 - Source diverse genetics from landrace and heirloom populations
-- Practice careful [[cannabis-phenotype-selection]] over multiple
-  generations
-
-## See Also
-
-- [[cannabis-genetics-and-breeding]]
-- [[cervantes-backcross-breeding-methods]]
+- Practice careful [[cannabis-genetics-and-breeding]]
 - [[cervantes-selfing-single-seed-descent]]
-- [[cervantes-seed-population-types-ibl-hybrid]]
 - [[cervantes-tissue-culture-micropropagation]]
 - [[colchicine]]

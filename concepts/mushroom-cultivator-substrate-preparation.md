@@ -55,7 +55,7 @@ Phase II is carried out indoors in specially designed rooms. The compost is past
 
 ### Wood-Based Substrates
 
-Developed primarily in Japan for growing [[stamets-pleurotus-oyster-cultivation]], [[mushroom-cultivator-enoki-cultivation]], and Auricularia.
+Developed primarily in Japan for growing [[mushroom-cultivator-enoki-cultivation]], and Auricularia.
 
 **Basic Guidelines:**
 - Cellulose is the basic raw material: sawdust, straw, cardboard, paper wastes, wood chips, or plant fibers
@@ -96,9 +96,7 @@ One of the most frequently used substrate materials for commercial production.
 - Alternative: 12-24 hours at 122°F after high-temperature pasteurization to promote beneficial microbial growth
 
 **Species Grown on Straw:**
-- [[stamets-pleurotus-oyster-cultivation]]
 - [[stamets-shiitake-and-stropharia-cultivation]]
-- [[panaeolus-cyanescens]]
 - [[psilocybe-cubensis]]
 
 **Plastic Bag Method:**
@@ -112,9 +110,6 @@ Moisture content is critical. A dry substrate produces fine wispy mycelial growt
 
 ## See Also
 
-- [[stamets-compost-preparation]] -- detailed compost preparation
 - [[stamets-non-composted-substrates]] -- wood and straw substrates
-- [[stamets-phase-ii-composting]] -- Phase II composting procedures
 - [[mushroom-cultivator-grain-spawn-production]] -- grain spawn preparation
-- [[mushroom-cultivator-bulk-substrate]] -- spawning and spawn running
 - [[mushroom-substrate-recipes]] -- general substrate recipes

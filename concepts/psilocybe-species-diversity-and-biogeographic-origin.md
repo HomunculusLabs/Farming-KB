@@ -124,8 +124,6 @@ International legal frameworks that prohibit psychoactive fungi may inadvertentl
 
 ## See Also
 
-- [[magic-mushroom-global-distribution]]
 - [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-- [[guzman-magic-mushrooms-african-species]]
 - [[guzman-psilocybin-mushrooms-south-america]]
 - [[guzman-magic-mushrooms-pacific-australian-species]]

@@ -1,15 +1,15 @@
 ---
-title: root cellaring guide
+title: Root Cellaring Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, storage, food, preservation, design, humidity]
+tags: [homesteading, storage, food, preservation, design, humidity]
 sources: []
 ---
 
-# root cellaring guide
+# Root Cellaring Guide
 
-root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent and humidity for long term root cellaring energy. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of mollison designers cassava, hardy vegetables, and fruits through winter without electricity.
+A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent temperature and humidity for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity.
 
 ## Ideal Conditions
 
@@ -41,7 +41,7 @@ The traditional root cellar is dug into a hillside or underground. The earth pro
 
 Key design elements:
 - Depth: At least 4-6 feet below grade for earth insulation
-- Ventilation: two vents -- one high (exhaust) and one low (intake) for air circulation. Close both in extreme cold.
+- Ventilation: Two vents -- one high (exhaust) and one low (intake) for air circulation. Close both in extreme cold.
 - Drainage: Sloped floor with gravel base or drain tile to prevent water accumulation
 - Door: Insulated, weather-stripped door facing north to minimize solar heat gain
 - Walls: Concrete block, stone, or treated wood

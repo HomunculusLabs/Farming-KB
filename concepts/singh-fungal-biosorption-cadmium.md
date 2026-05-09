@@ -136,8 +136,6 @@ achieve the full potential of fungal cadmium biosorption technology.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[fungal-bioaccumulation-vs-biosorption]]
-- [[fungal-metal-ion-resistance-mechanisms]]
 - [[mycoremediation-heavy-metals-detailed]]
 - [[fungal-binary-ternary-biosorption]]

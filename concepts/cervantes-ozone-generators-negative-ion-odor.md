@@ -13,16 +13,7 @@ type: concept
 
 Managing odor is essential for discreet indoor cannabis cultivation.
 Beyond [[cervantes-odor-control]] and
-[[cervantes-ventilation-fan-carbon-filter-setup]], ozone generators
-and negative ion generators offer additional odor-neutralizing
-solutions. This page covers their operation, safety, and effective
-deployment.
-
-## Ozone Generator Fundamentals
-
-Ozone has many applications including food and water sterilization and
-removing odors from the air at the molecular level. Some growers even
-use high levels of ozone to exterminate [[cannabis-grow-room-setup]] pests.
+[[cannabis-grow-room-setup]] pests.
 
 ### How Ozone Works
 Ozone generators neutralize odors by converting oxygen (O2) into ozone
@@ -89,7 +80,7 @@ severely burn skin and eyes.
 ### Security Concern
 The distinctive odor of excess ozone exiting a building will tip off
 neighbors and law enforcement. For this reason, many growers also use
-a [[cervantes-ventilation-fan-carbon-filter-setup]] to
+a cervantes ventilation fan carbon filter setup to
 further scrub the air.
 
 ## Selecting an Ozone Generator
@@ -147,3 +138,7 @@ ventilation ductwork attachment. They are often used to alter both the
 odor of marijuana and the telltale odor produced by ozone generators.
 
 ## See Also
+
+## See Also
+
+- [[cervantes-odor-deodorizers-comparison]]

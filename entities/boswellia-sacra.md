@@ -82,8 +82,7 @@ Frankincense resin is composed of approximately 60 to 70% gum (polysaccharides),
 11-keto-beta-boswellic acid (KBA), acetyl-11-keto-beta-boswellic acid (AKBA),
 beta-boswellic acid, and acetyl-beta-boswellic acid.
 
-The essential oil fraction contains alpha-pinene, limonene, alpha-thujene,
-myrcene, and the characteristic octocindole derivatives incensole and
+The essential oil fraction contains alpha, [[myrcene]], and the characteristic octocindole derivatives incensole and
 incensole acetate. AKBA is considered the most pharmacologically active
 boswellic acid, potently inhibiting 5-lipoxygenase and thereby blocking the
 synthesis of pro-inflammatory leukotrienes.
@@ -121,7 +120,6 @@ population decline across the species range.
 
 ## See Also
 
-- [[boswellia-serrata]]
 - [[commiphora-myrrha]]
 - [[ferula-assafoetida]]
 - styrax benzoin

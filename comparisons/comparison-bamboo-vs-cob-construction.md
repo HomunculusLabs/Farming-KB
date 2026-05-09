@@ -10,7 +10,7 @@ type: comparison
 
 # Bamboo vs Cob Construction: A Comprehensive Comparison
 
-Bamboo and cob represent two of the most accessible [[natural-building]] methods available to homesteaders and [[permaculture]] practitioners. Both offer dramatically lower embodied energy than conventional construction, but they excel in fundamentally different climates, structural roles, and building philosophies. This comparison helps you choose the right method — or combination — for your site and goals.
+Bamboo and cob represent two of the most accessible [[permaculture]] practitioners. Both offer dramatically lower embodied energy than conventional construction, but they excel in fundamentally different climates, structural roles, and building philosophies. This comparison helps you choose the right method — or combination — for your site and goals.
 
 ## At a Glance
 
@@ -25,32 +25,6 @@ Bamboo and cob represent two of the most accessible [[natural-building]] methods
 | **Structural Role** | Framing, columns, beams | Load-bearing walls |
 
 ## Bamboo Construction Overview
-
-[[bamboo-construction]] leverages one of the world's fastest-growing plants. With over 1,200 species documented, bamboo can grow up to 90 cm per day under ideal conditions and reaches harvestable maturity in just 3 to 5 years — a fraction of the decades required for timber. Its tensile strength-to-weight ratio rivals that of steel, making it an outstanding structural material.
-
-### Key Advantages of Bamboo
-
-- **Rapid renewable cycle:** Harvestable every 3-5 years without killing the root stock.
-- **Carbon sequestration:** Stands can sequester up to 12 tonnes of CO2 per hectare per year.
-- **Multi-functional crop:** Beyond building, bamboo serves fencing, erosion control, water piping, and provides edible shoots.
-- **Structural versatility:** Used for columns, beams, trusses, walls, flooring, and scaffolding.
-- **Lightweight:** Easier to transport and handle on site than timber or masonry.
-
-### Bamboo Treatment and Joining
-
-Untreated bamboo is vulnerable to insect attack (particularly powderpost beetles) and fungal decay. The standard treatment involves soaking culms in a borax-boric acid solution, which penetrates the starch-rich tissue and renders it unpalatable to pests. Properly treated bamboo can last 15-25 years or longer in structural applications.
-
-Joining techniques include lashed connections (traditional, using natural fiber rope), bolted connections (using through-bolts with fillers), fish-mouth cuts (for angled intersections), and filled joints (where the hollow internodes are packed with mortar at connection points). Notably, bamboo cannot be nailed — the fibers split along the length of the culm. Each joining method has different load-bearing characteristics, and skilled bamboo builders often combine multiple techniques within a single structure.
-
-### Limitations of Bamboo
-
-- **Climate-dependent:** Performs best in humid tropical and subtropical regions.
-- **Durability concerns:** Untreated culms deteriorate within 2-5 years in the ground.
-- **Invasive potential:** Running bamboo species can spread aggressively beyond intended bounds.
-- **Code acceptance:** Limited structural engineering data in Western building codes.
-- **Dimensional variability:** Unlike milled timber, bamboo varies in diameter, wall thickness, and straightness.
-
-## Cob Construction Overview
 
 [[cob-construction]] creates monolithic earthen walls by mixing clay-rich subsoil with sand, straw, and water. The mixture is applied in lifts, traditionally foot-mixed on tarps and sculpted by hand. Cob requires no formwork, cures through drying rather than chemical reaction, and produces walls that are simultaneously structural and finish surfaces. The result is a building that feels organic and alive — literally made from the earth beneath your feet.
 
@@ -77,9 +51,7 @@ Ideal cob soil contains roughly 15-25% clay, 75-85% sand, with long straw fibers
 
 ## Permaculture Alignment
 
-Both methods align strongly with [[permaculture-design]] principles. Bamboo integrates into multi-strata food forests and agroforestry systems, serving as both a building material and a productive crop. Cob uses on-site earth — the ultimate expression of local resource cycling, with virtually zero transport energy. Both methods connect the builder directly to their landscape and materials in a way that conventional construction cannot.
-
-A [[sepp-holzer-method]] approach might combine both materials, using bamboo framing for a greenhouse structure with cob thermal mass walls for a Mediterranean climate hybrid. This kind of integrated thinking — matching each material to the function it performs best — is central to permaculture design.
+Both methods align strongly with [[sepp-holzer-method]] approach might combine both materials, using bamboo framing for a greenhouse structure with cob thermal mass walls for a Mediterranean climate hybrid. This kind of integrated thinking — matching each material to the function it performs best — is central to permaculture design.
 
 ## Environmental Impact Comparison
 

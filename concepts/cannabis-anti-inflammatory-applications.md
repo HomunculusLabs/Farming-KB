@@ -117,12 +117,8 @@ These spices activate CB2 receptors without psychoactive effects, providing a di
 
 ## See Also
 
-- [[cannabis-endocannabinoid-system-overview]]
 - [[cannabis-pain-management-protocols]]
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-terpene-entourage-effect]]
-- [[cannabis-and-ibs-research]]
 - [[cannabis-and-arthritis]]
-- [[cannabis-neuroprotection]]
 - [[cannabis-and-fibromyalgia]]
 - [[cannabis-topical-applications]]

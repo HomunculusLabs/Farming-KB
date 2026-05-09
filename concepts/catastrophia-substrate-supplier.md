@@ -83,8 +83,6 @@ The economic argument for catastrophia-based cultivation is compelling. The subs
 
 ## See Also
 
-- [[growing-gourmet-stametsian-permaculture-model]]
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-bioremediation-mycofiltration]]
 - [[growing-gourmet-stump-totem-cultivation]]
 - [[growing-gourmet-natural-culture-myco-landscaping]]

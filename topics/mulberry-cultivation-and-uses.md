@@ -365,7 +365,7 @@ With rapid growth rates and large canopy mass, mulberries sequester carbon effic
 
 ### Phytoremediation
 
-Studies have shown that mulberry trees can tolerate and accumulate moderate levels of heavy metals, including lead, cadmium, and zinc, from contaminated soils. While not suitable as a primary phytoremediation species, they can contribute to soil recovery in mixed plantings. See [[bioremediation-using-fungi]] and [[bioremediation]] for comprehensive approaches.
+Studies have shown that mulberry trees can tolerate and accumulate moderate levels of heavy metals, including lead, cadmium, and zinc, from contaminated soils. While not suitable as a primary phytoremediation species, they can contribute to soil recovery in mixed plantings. See [[bioremediation-using-fungi]] and [[fungal-bioremediation]] for comprehensive approaches.
 
 ## Mulberry in Permaculture and Agroforestry
 

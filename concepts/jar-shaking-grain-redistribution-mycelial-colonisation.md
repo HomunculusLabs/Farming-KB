@@ -138,12 +138,8 @@ developing sclerotia should be avoided once they have begun to form.
 Shaking necessarily introduces air movement within the jar and temporarily
 disrupts the mycelial network. To minimise contamination risk during and after
 shaking:
-
-- Shake in a clean environment, ideally in front of a laminar flow hood or
 ## See Also
 
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]
-- [[faires-grain-harvesting-and-processing]]
 - [[fungal-nutrient-translocation-mycelial-systems]]
-- [[mollison-permaculture-two-no-tillage-grain-cropping]]
 - [[grain-spawn-types-and-preparation]]

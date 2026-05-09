@@ -125,12 +125,6 @@ The International Potato Center (CIP) in Lima maintains a germplasm collection o
 
 ## See Also
 
-- [[lathyrus-tuberosus]]
 - [[pachyrhizus-tuberosus]]
-- [[helianthus-tuberosus]]
-
-- Oxalis tuberosa — oca, companion Andean tuber
-- Tropaeolum tuberosum — mashua, companion Andean tuber
-- Solanum tuberosum — potato, dominant Andean tuber crop
 - [[permaculture|Permaculture]] — design framework for polyculture integration
 - [[comfrey-symphytum-officinale|Comfrey]] — dynamic accumulator companion for tuber beds

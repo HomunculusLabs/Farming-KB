@@ -18,24 +18,9 @@ type: concept
 
 ## Overview
 
-Spawn is the [[vegetative-propagation-methods-mollison]] stage of mushrooms, consisting of
-vigorous [[mycelial-growth-and-colonization]] on a chosen substrate material. This living
+Spawn is the [[mycelial-growth-and-colonization]] on a chosen substrate material. This living
 pure culture is used to inoculate new substrates under sterile
-conditions. For [[grifola-frondosa]] (maitake) cultivation, spawn is
-placed in specially designed polypropylene bags with microfilter
-windows that allow gas exchange while maintaining sterility.
-
-## Types of Spawn
-
-Four main types of spawn are commonly used by mushroom growers
-including those cultivating maitake:
-
-### 1. Liquid Spawn
-
-Liquid spawn can be labor-saving during inoculation through the use
-of a specially designed inoculator. Two production methods exist:
-
-- **Liquid-surface culture**: [[mycelium]] grows on the surface of a
+conditions. For [[mycelium]] grows on the surface of a
   liquid nutrient medium.
 - **Submerged fermentation**: Mycelium grows throughout the liquid
   medium. This method can be accomplished on an industrial scale
@@ -78,20 +63,7 @@ conditions where maitake colonizes wood.
 
 ## Obtaining Spawn vs. Ready-to-Fruit Blocks
 
-Growers have two options for starting [[maitake-cultivation]]:
-
-1. **Ready-to-fruit blocks**: Colonized synthetic logs already
-   inoculated with the chosen species, obtainable from established
-   mushroom growers. This option eliminates the need for sterile
-   inoculation procedures.
-2. **Spawn inoculation**: With training in aseptic techniques,
-   growers can inoculate their own synthetic logs using purchased
-   spawn. This requires more skill and equipment but offers greater
-   control over substrate composition and strain selection.
-
-## Spawn Suppliers
-
-The following suppliers have been identified as sources of [[mushroom-spawn]], including maitake. Contact information is as published in
+Growers have two options for starting [[mushroom-spawn]], including maitake. Contact information is as published in
 the source material:
 
 ### North American Suppliers

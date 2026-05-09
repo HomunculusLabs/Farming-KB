@@ -105,16 +105,10 @@ Conservation of arracacha germplasm faces challenges because the species is prop
 
 ## See Also
 
-- [[pachyrhizus-erosus]]
 - [[pachyrhizus-tuberosus]]
-- [[colocasia-esculenta]]
 - [[xanthosoma-sagittifolium]]
-- [[smallanthus-sonchifolius]]
 - [[ullucus-tuberosus]]
-- [[tropaeolum-tuberosum]]
 - [[canna-edulis]]
-- [[dioscorea-alata]]
 - [[moringa-oleifera]]
-- [[prosopis-juliflora]]
 - [[tamarindus-indica]]
 - [[lablab-purpureus]]

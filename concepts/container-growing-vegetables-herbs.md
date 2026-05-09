@@ -85,11 +85,7 @@ Tender perennials (fuchsias, geraniums, pelargoniums, bay) must be moved into a 
 
 ## Related
 
-- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
 - [[greenhouse-growing-essentials]] for overwintering container plants
-- [[herb-growing-guide]] for herb-specific container growing
 - [[composting-systems]] for producing potting compost
-- [[growing-vegetables-with-less-fertilizer]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[jadam-leaf-mold-as-ideal-soil]]

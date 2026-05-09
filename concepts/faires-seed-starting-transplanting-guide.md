@@ -81,15 +81,8 @@ The atmosphere is rich with nitrogen, but plants cannot use most of it directly.
 
 ## See Also
 
-- [[seed-starting-methods-comparison]]
-
 - [[faires-growing-and-season-extension]]
-- [[faires-season-extension-cold-frames]]
 - [[faires-composting-and-vermiculture]]
-- [[faires-plant-catalog-notable-species]]
-- faires-sheet-mulching-guide
 - [[gaias-garden-cover-crops-soil-building]]
-- [[faires-season-extension-cold-frames]]
 - [[faires-permaculture-soil-and-sheet-mulching]]
-- [[faires-plant-catalog-notable-species]]
 - [[self-seeding-annuals-permaculture-two]]

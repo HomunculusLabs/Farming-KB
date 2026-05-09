@@ -9,7 +9,7 @@ sources:
 ---
 # Clay Seed Balls (Tsuchi Dango)
 
-Clay seed balls (tsuchi dango) are one of Masanobu Fukuoka's most distinctive innovations for [[natural-farming-philosophy]]. They solve multiple problems simultaneously in [[fukuoka-do-nothing-farming-and-spiritual-life]] systems: protecting seeds from predation by birds, mice, crickets, and slugs; preventing rot in heavy rainfall; and enabling broadcasting over rough, untilled ground. The term "tsuchi dango" literally means "earth dumpling" in Japanese, reflecting the simple, handmade character of the technique.
+Clay seed balls (tsuchi dango) are one of Masanobu Fukuoka's most distinctive innovations for [[fukuoka-do-nothing-farming-and-spiritual-life]] systems: protecting seeds from predation by birds, mice, crickets, and slugs; preventing rot in heavy rainfall; and enabling broadcasting over rough, untilled ground. The term "tsuchi dango" literally means "earth dumpling" in Japanese, reflecting the simple, handmade character of the technique.
 
 ## The Problem They Solve
 
@@ -60,13 +60,7 @@ The clay pellet protects the seed during the critical germination period:
 - Seeds inside are shielded from birds
 - The clay absorbs and holds moisture, providing consistent hydration
 - Germination is best on the surface where there is exposure to oxygen
-- When covered with [[fukuoka-straw-mulch-philosophy]], seeds in pellets germinate well and will not rot even in heavy rainfall years
-- The pellet eventually breaks apart as the seedling emerges
-- If conditions are not right, seeds remain dormant and protected until the next suitable period
-
-## Integration with the Annual Cycle
-
-Seed balls fit into Fukuoka's complete [[fukuoka-rice-and-barley-natural-farming]] system:
+- When covered with [[fukuoka-rice-and-barley-natural-farming]] system:
 
 1. **Early October**: White clover (1 lb/quarter acre) and winter grain (6.5-13 lbs/quarter acre) are broadcast among ripening rice
 2. **Early November**: Rice is harvested; threshed straw is spread over the field. During harvest, the sprouted clover and grain seeds are trampled but recover quickly
@@ -80,32 +74,15 @@ Seed balls fit into Fukuoka's complete [[fukuoka-rice-and-barley-natural-farming
 
 ## Connection to Seed Saving
 
-Fukuoka's approach to [[home-garden-seed-saving]] was practical and localized. He experimented with old and traditional varieties rather than "improved" seeds. Modern improved varieties, bred for performance with chemical inputs, became weak and disease-prone without those inputs. Traditional varieties, grown in accordance with their natural life cycle, developed stronger roots and greater resistance. His experiments with an old variety of glutinous rice from the south produced an average of 12 stalks per seed with about 250 grains per head, approaching the theoretical maximum from solar energy.
-
-The connection between seed saving and clay balls is direct: the seeds you save determine what goes into the pellets. Fukuoka advocated using seeds adapted to local conditions rather than commercially produced "improved" varieties.
-
-## The Philosophy Behind the Technique
-
-Clay seed balls embody the [[fukuoka-one-straw-revolution-impact]]. Instead of preparing elaborate seedbeds, transplanting seedlings from nursery beds, and applying chemicals to protect them, the farmer simply encloses seeds in clay and broadcasts them. Nature does the rest. The technique requires the farmer to understand natural timing -- when to sow, when the rains will come -- rather than to control conditions through inputs and infrastructure.
+Fukuoka's approach to [[fukuoka-one-straw-revolution-impact]]. Instead of preparing elaborate seedbeds, transplanting seedlings from nursery beds, and applying chemicals to protect them, the farmer simply encloses seeds in clay and broadcasts them. Nature does the rest. The technique requires the farmer to understand natural timing -- when to sow, when the rains will come -- rather than to control conditions through inputs and infrastructure.
 
 "Natural farming is gentle and easy and indicates a return to the source of farming. A single step away from the source can only lead one astray."
 
 ## Desert Reclamation Application
 
-Fukuoka later adapted clay seed balls for his desert reclamation projects, using them to revegetate barren land by broadcasting pellets containing seeds of local pioneer plants, grains, and vegetables mixed with clay. This became the centerpiece of his international work -- see [[natural-farming-desert-reclamation]].
-
-In desert applications, the pellets serve an even more critical function: they keep seeds viable through long dry periods, protecting them until sufficient rain falls to trigger germination. This makes it possible to revegetate large areas with minimal human intervention.
-
-## Related
-
-- [[clay-ball-seed-pellets]] -- practical seed pellet techniques
-- [[natural-farming-philosophy]] -- the system seed balls serve
+Fukuoka later adapted clay seed balls for his desert reclamation projects, using them to revegetate barren land by broadcasting pellets containing seeds of local pioneer plants, grains, and vegetables mixed with clay. This became the centerpiece of his international work -- see [[clay-ball-seed-pellets]] -- practical seed pellet techniques
 - [[fukuoka-winter-grain-rice-rotation]] -- where seed balls are used in the annual cycle
-- [[fukuoka-rice-and-barley-natural-farming]] -- the full rice/barley system
 - [[home-garden-seed-saving]] -- selecting the right seeds for the balls
-- [[white-clover-living-mulch]] -- companion ground cover
 - [[fukuoka-straw-mulch-system]] -- the mulch that protects seed balls
-- [[natural-farming-desert-reclamation]] -- large-scale application
 - [[natural-farming-seed-balls]] -- broader seed ball context
-- [[fukuoka-seed-ball-one-seed-technique]]
 - [[query-how-do-clay-seed-balls-work-for-natural-farming]]

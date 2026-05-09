@@ -109,26 +109,7 @@ Symbiosis with wild grass actually reduces pest and disease problems. The mechan
 ### Weed Mats
 - UV-coated, last approximately 5 years
 - Small holes allow air passage, preventing extreme temperature buildup
-- Allow application of water and [[jadam-liquid-fertilizer]] through the mat
-- Better than black plastic for temperature management
-- Can be moved from one location to another
-
-### Black Plastic Mulch (with modifications)
-- Make holes on left, right, and top edges when hot season begins
-- Grow grass intentionally in the furrow between plastic-covered rows
-- Never block the hole where nursery plants are planted
-- Accept that roots will suffer in summer -- this is fundamentally flawed but sometimes necessary
-
-## The Big Picture
-
-JADAM summarizes the relationship between grass and yield: "Big yield comes from big roots; big roots come from good soil temperature management." Cover crop and wild grass symbiosis is the simplest, most cost-effective method for achieving optimal soil temperature, which drives root growth, which drives yield. The grass is not your enemy -- it is your partner.
-
-## See Also
-
-- [[cover-cropping-guide]]
-- [[jadam-cover-crop-soil-temperature-management]]
+- Allow application of water and [[cover-cropping-guide]]
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[jadam-wild-grass-liquid-fertilizer]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[jadam-coexisting-with-wild-grass]]

@@ -132,12 +132,8 @@ serve as the carbon source instead of traditional substrates like malt.
 
 ## See Also
 
-- [[singh-scaling-fungal-remediation-lab-to-field]]
-
 - [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 
 - singh fungal metabolism petroleum hydrocarbons
-- [[singh-fungal-petroleum-hydrocarbon-metabolism]]
 - [[singh-fungal-alkane-metabolism-pathways]]
-- [[singh-fungal-oxidation-petroleum-enzymes]]
 - [[singh-fungal-composting-bioremediation-contaminated-soils]]

@@ -111,14 +111,10 @@ Understanding stomatal regulation explains many practical observations:
 
 ## Related Topics
 
-- [[water-pathways-through-plants]] -- the complete water transport picture
 - [[plant-micronutrients-and-their-essential-functions]] -- potassium and chlorine in stomatal function
-- [[guttation-root-pressure-and-maple-sap-physiology]] -- what happens when transpiration stops
 - [[xylem-and-phloem-transport-systems-in-plants]] -- how transpiration drives xylem flow
 
-- [[plant-hormones-and-chemical-signaling-systems]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[diffusion-osmosis-and-active-transport-in-plants]]
 
 ## See Also

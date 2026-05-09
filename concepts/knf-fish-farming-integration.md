@@ -22,26 +22,8 @@ In other words, fermented seawater provides abundant energy to the crops and the
 
 ## Seawater and Fermented Seawater in Aquaculture
 
-[[knf-seawater-and-fermented-seawater]] is a primary KNF input used in fish farming integration:
-
-- The deeper the seawater, the higher the salt content, so surface seawater is preferred
-- One liter of seawater is diluted with 30 liters of water for general use
-- Sun-dried salt is diluted at 2 ml per 1000 ml of water
-- Adding rice-washed water (5 ml per liter) brings out the best properties of seawater, as rice-washed water has an effect similar to yeast
-- Adding [[master-cho-knf-ffj-fermented-fruit-juice-guide]] (5 ml) to diluted seawater further enhances its effectiveness
-- The combination is most effective when [[knf-oriental-herbal-nutrient]] is also mixed in
-
-## Integration Methods
-
-### Paddy-Fish Integration
-
-Rice paddies provide an ideal environment for integrating fish farming with crop production. The flooded paddies support both rice plants and fish, creating a mutually beneficial system:
-
-- Fish eat insect pests in the paddy, reducing the need for pest control
-- Fish waste fertilizes the rice plants
-- Rice plants provide shade and habitat for fish
-- KNF inputs applied to the paddy benefit both crops and fish simultaneously
-- [[knf-indigenous-microorganism-culture]] applied to paddy soils create conditions for abundant microbial life that supports the aquatic food chain
+[[master-cho-knf-ffj-fermented-fruit-juice-guide]] (5 ml) to diluted seawater further enhances its effectiveness
+- The combination is most effective when [[knf-indigenous-microorganism-culture]] applied to paddy soils create conditions for abundant microbial life that supports the aquatic food chain
 
 ### Livestock-Fish Integration
 
@@ -50,24 +32,8 @@ KNF's zero-emission livestock housing can be integrated with fish farming:
 - Wastewater from livestock operations (which in KNF systems is minimal and microbially rich) can be directed to fish ponds
 - The nutrients in livestock wastewater feed plankton, which in turn feeds fish
 - Composted litter from pig and poultry housing can be applied to pond margins to promote microbial activity and natural food production
-- [[knf-fish-amino-acid]] production itself uses fish waste, creating a value-added product from fish processing by-products
-
-### Duck-Fish Integration
-
-Ducks can be raised alongside fish in integrated systems:
-
-- Ducks eat aquatic weeds, insects, and snails that might otherwise compete with or harm fish
-- Duck manure provides nutrients for plankton growth
-- Ducks help aerate pond water through their swimming activity
-- KNF duck housing follows the same principles as the chicken house -- soil floors, IMO-treated bedding, and natural ventilation
-
-## KNF Inputs for Aquaculture Health
-
-Several KNF inputs support fish health and pond ecology:
-
-- **[[lactic-acid-bacteria-knf]]:** Added to pond water to maintain beneficial bacterial populations, prevent disease, and improve water quality. LAB can reduce damage from gas through neutralizing toxic substances.
+- [[lactic-acid-bacteria-knf]]:** Added to pond water to maintain beneficial bacterial populations, prevent disease, and improve water quality. LAB can reduce damage from gas through neutralizing toxic substances.
 - **IMO:** Applied to pond margins and inlet water to establish beneficial microbial communities. IMOs collected from forest soils contain diverse microorganisms adapted to local conditions.
-- **[[knf-loess-powder]]:** Contains various trace elements and growth factors. It possesses natural healing power and can be used to treat water quality issues. Apply 20 to 30 grams per liter as a treatment solution.
 - **[[knf-brown-rice-vinegar]]:** Its sterilizing properties help control pathogenic bacteria in pond water. BRV affects liver cells and supports sterilization, neutralization, and disease prevention.
 - **OHN:** Provides herbal immune support for fish, helping prevent disease outbreaks.
 
@@ -104,11 +70,27 @@ Integrated KNF aquaculture reduces costs by:
 
 ## See Also
 
-- [[knf-seawater-and-fermented-seawater]]
 - [[knf-fish-amino-acid]]
-- [[knf-indigenous-microorganism-culture]]
 - [[knf-lactic-acid-bacteria-serum]]
-- [[knf-fish-pond-integration]]
 - [[natural-farming-livestock-integration]]
 
 Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapters 1, 3.
+## Practical Considerations
+
+Successful implementation of KNF Fish Farming Integration requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

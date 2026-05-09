@@ -133,9 +133,7 @@ The neurotropic species tend to be **large and conspicuous**, making them among 
 - [[panaeolus-panaeolina-neurotropic-species]]
 
 - Psilocybe Genus Overview
-- [[neurotropic-fungi-classification]]
 - [[copelandia-genus]]
 - Psilocybin Chemistry
 - Panaeolus and Panaeolina Genera
-- [[aeruginascin]]
 - [[baeocystin]]

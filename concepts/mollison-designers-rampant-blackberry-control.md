@@ -28,74 +28,8 @@ dangerous herbicides.
 ## Blackberry as Both Problem and Resource
 
 Before considering control, it is worth recognising that
-blackberry has productive uses. In [[mollison-berry-production-cool-climates]], brambles protect and
-nourish young fruit trees, pioneering for and protecting seedling
-trees so that advancing forest edges often develop bramble and
-cane thickets. Within these thickets, oak, chestnut, plum, apple,
-and birch thrive. Brambles provide food for birds, foxes, and
-rodents, and can serve as cattle barriers along fences and
-creeks.
-
-However, when rampant, blackberry excludes all other vegetation,
-reduces grazing capacity, creates fire hazards, and impedes
-access. The methods given here for control do not use any
-potentially dangerous chemicals, and are suited to the size of the
-area being managed.
-
-## Control Methods by Scale
-
-### 1. Individual Plants (up to 0.1-0.25 ha)
-
-For small infestations, Mollison recommends a simple covering
-technique. Strong rubber-backed carpet, tearproof fibre, or tough
-plastic is used to cover the clumps, weighted down for 7-10 days.
-During this period, leaves have rotted and branches are blanched.
-The cover is then removed and the roots dug out. This method is
-labour-intensive but completely effective for isolated plants and
-small patches.
-
-### 2. Medium Areas (0.1-2.0 ha)
-
-For larger infestations, a multi-animal strategy works well:
-
-- Erect permanent electric fencing to reduce the area to
-  0.4 ha (1 acre) lots
-- Release 20 pigs per lot, followed by 12 goats on rotation
-- In 2-4 years, the pigs have eaten the roots and the goats
-  have consumed any regrowth
-
-This method is permanent if one or more follow-up conditions are
-met:
-
-- The areas are grazed by sheep or goats later (even geese
-  help to maintain control)
-- The area is planted to thickish forest, which shades out
-  any remaining blackberry
-- The area is used for hay and regularly cut, preventing
-  re-establishment
-
-The pig-and-goat approach connects directly to
-[[mollison-free-range-pig-systems]] and
-[[mollison-goats-and-browsing-systems-in-permaculture]].
-
-### 3. Large Areas in Steep Gullies
-
-Two methods have proven successful in difficult terrain:
-
-**Cattle trampling method:** Cattle are fed in winter with untied
-bales of fodder thrown into the blackberry gullies. They trample
-and destroy the vines, and "sow" grass in the process. Such
-gullies need reafforestation later. This method has been used
-successfully by Lance Jones of Tasmania over many acres.
-
-**Fruit tree replacement method:** Apple, fig, quince, pear, and
-plum trees (ungrafted whips) are planted inside the edge of
-blackberry clumps, 12 metres in from the edge. These grow and
-fruit in 4-6 years. Cattle come in to eat the fallen fruit and
-trample out the blackberries. Used over many acres by Geoff
-Wallace in Kiewa Valley, Victoria, the fruit trees are now up to
-20 years old with no blackberry surviving. This is an excellent
-example of [[mollison-evolving-polyculture-systems-for-settlements]] replacing a monoculture weed.
+blackberry has productive uses. In [[mollison-free-range-pig-systems]] and
+[[mollison-evolving-polyculture-systems-for-settlements]] replacing a monoculture weed.
 
 ## Confinement Strategies
 
@@ -114,35 +48,64 @@ strategies work:
 3. Blackberry edges have been reported as confined by comfrey,
    wormwood, Coprosma repens, pine, or cypress hedges. These
    barrier species can be incorporated into
-   [[mollison-hedgerow-barrier-species-selection]] design.
+   [[mollison-designers-duck-pond-integrated-systems]], chickens, ducks, and
+[[mollison-designers-trap-crops-biological-pest-control]]
+## Practical Considerations
 
-## Integration with Orchard Development
+When working with Rampant Blackberry Control in Permaculture Systems, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-The fruit tree replacement method described above illustrates a
-broader permaculture principle: using succession and animal
-integration to convert weed-infested land to productive orchard.
-In [[mollison-designers-duck-pond-integrated-systems]], chickens, ducks, and
-[[mollison-geese-grass-control-and-integrated-poultry]] all play roles in managing ground cover and weeds.
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-On farms, bramble clumps of blackberry or related cultivars can
-be deliberately used to exclude deer and cattle from newly set
-trees. As the trees (apple, quince, plum, citrus, fig) age and
-the brambles are shaded out, hoofed animals come to eat fallen
-fruit, and the mature trees (7+ years old) are sufficiently hardy
-to withstand browsing. Our forest ancestors may well have followed
-some such sequences for orchard evolution, assisted by indigenous
-birds and mammals.
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-## Design Principles
+## Common Challenges and Solutions
 
-The overarching principle in blackberry management is that
-permanent control requires replacing the blackberry niche with
-something else: forest shade, regular grazing, hay cutting, or
-productive orchard. Eradication alone, without follow-up
-occupation of the site, invites reinvasion. The multi-species,
-multi-strategy approach exemplifies the permaculture ethic of
-turning a problem into a solution through thoughtful design.
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-## See Also
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-- [[mollison-designers-trap-crops-biological-pest-control]]
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

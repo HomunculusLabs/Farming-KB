@@ -27,29 +27,6 @@ Kelp meal and rock dust are both broad-spectrum mineral amendments that
     programs.
 
 ## Kelp Meal
-[[kelp-meal-fertilizer]]
-
-Kelp meal is dried and milled seaweed providing a comprehensive profile
-    of 60 to 70 trace elements along with natural plant growth hormones
-    including cytokinins, auxins, gibberellins, and alginic acid. Despite a
-    modest NPK of 2.8 percent nitrogen, 0.2 percent phosphorus, and 2.3
-    percent potassium, kelp meal's value lies not in macronutrient supply but
-    in its biostimulant properties. The hormones improve seed germination,
-    reduce transplant shock, enhance stress resistance, and stimulate
-    beneficial soil microbial activity.
-
-Application methods include soil incorporation as an amendment, foliar
-    spraying for rapid trace element correction, seed treatment to improve
-    germination, and use as a compost activator where alginic acid feeds
-    compost bacteria. The most economical use is as a compost activator, where
-    small quantities leverage the composting process to distribute trace
-    minerals throughout the finished product. Kelp meal works relatively
-    quickly compared to mineral amendments because the organic matrix breaks
-    down through biological activity, releasing minerals and hormones within
-    weeks rather than years. The primary limitation is cost, as kelp meal is
-    significantly more expensive per unit area than rock dusts.
-
-## Rock Dust
 [[rock-dust-minerals]]
 
 Rock dusts are ground geological materials including basalt, granite,
@@ -131,7 +108,5 @@ The most effective mineral programs use both inputs in complementary
 
 ## See Also
 
-- [[comparison-fish-aminos-vs-kelp-meal]]
 - [[comparison-biochar-vs-biofertilizer]]
-- [[comparison-dynamic-accumulators-vs-cover-crops]]
 - [[biofertilizers-and-soil-inoculants]]

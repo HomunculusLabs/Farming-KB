@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [natural-farming, soil-science]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 ---
 title: Seed Treatment and Soil Foundation with Microbial Activator (M-A)
@@ -20,48 +21,17 @@ sources:
 
 **Updated:** 2026-04-18
 
-Microbial Activator (M-A) is the [[knf-preparations]] input used for establishing the biological foundation of soil and preparing seeds for planting. M-A is made from a combination of [[knf-indigenous-microorganism-culture]] and other biological inputs, diluted and applied at a standard ratio of 1:1000. It serves as the bridge between the microbial inputs and the growing crop, activating enzymes, vitalizing germination, and building soil health before planting begins.
+Microbial Activator (M-A) is the [[knf-indigenous-microorganism-culture]] and other biological inputs, diluted and applied at a standard ratio of 1:1000. It serves as the bridge between the microbial inputs and the growing crop, activating enzymes, vitalizing germination, and building soil health before planting begins.
 
 ## What Is M-A
 
 M-A is a microbial-rich liquid preparation that combines:
 
-- [[knf-indigenous-microorganism-culture]] (the indigenous microorganism culture)
-- Additional biological activators (yeast, LAB, or similar)
-- Water for dilution
-
-The term "Microbial Activator" reflects its primary function: activating the biological processes in soil and seeds that enable healthy plant growth. By inoculating both the soil environment and the seed itself with beneficial microorganisms, M-A establishes the conditions for vigorous, disease-resistant crops from the very start.
-
-## Soil Foundation Application
-
-### Purpose
-
-Applying M-A to the soil before planting establishes a living biological foundation:
-
-- Introduces diverse beneficial microorganisms into the soil
-- Activates enzyme systems that break down organic matter and release nutrients
-- Creates conditions favorable for root colonization by beneficial microbes
-- Suppresses soil-borne pathogens through competitive exclusion
-- Improves soil structure through microbial polysaccharide production
-
-### Application Rates
-
-- **Standard application:** 1-2 tons of M-A (diluted 1:1000) per 100a (approximately 1000 square meters)
-- **Degraded or depleted soil:** Increase to 3-4 tons per 100a for the first application
-- **Maintenance application:** 1-2 tons per 100a for established soils with existing microbial populations
-
-### Method
-
-1. Prepare the M-A solution at 1:1000 dilution
-2. Apply as a soil drench, saturating the top 5-10 cm of soil
-3. Apply 2-3 hours before sunset or on a cloudy day to protect microorganisms from UV radiation
-4. Allow 1-2 weeks for microbial populations to establish before planting
-5. Can be combined with [[knf-fermented-mixed-compost]] (FMC) application for maximum soil building
+- [[knf-fermented-mixed-compost]] (FMC) application for maximum soil building
 
 ### When to Apply
 
-- Before planting season, as part of general [[garden-location-and-soil-preparation]]
-- After [[soil-disturbance-mycorrhizal-impact]] (tillage, grading) to restore microbial populations
+- Before planting season, as part of general [[soil-disturbance-mycorrhizal-impact]] (tillage, grading) to restore microbial populations
 - After periods of flooding or drought that may have damaged soil biology
 - As an emergency treatment when soil shows signs of biological degradation
 
@@ -112,9 +82,7 @@ For transplanted seedlings:
 
 ## Disease Control Application
 
-M-A can also be used as a disease intervention during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]:
-
-- If disease occurs while plants are growing, apply 1-2 tons of M-A (1:1000 dilution) per 100a along with other [[cho-loess-powder-in-natural-farming]] materials
+M-A can also be used as a disease intervention during [[cho-loess-powder-in-natural-farming]] materials
 - The beneficial microorganisms compete with and suppress pathogenic organisms
 - Apply as both soil drench and foliar spray for comprehensive treatment
 
@@ -138,8 +106,7 @@ For fruit trees, M-A provides both soil foundation and disease protection:
 
 - Apply 2 tons of M-A (1:1000) per 100a immediately after harvest (post-harvest application)
 - This timing allows the microbial populations to establish during the dormant season
-- The soil foundation supports root growth [[fungal-enzyme-systems-and-nutrient-cycling]] in preparation for the following growing season
-- Combine with [[knf-fermented-mixed-compost]] for comprehensive post-harvest soil care
+- The soil foundation supports root growth [[knf-fermented-mixed-compost]] for comprehensive post-harvest soil care
 
 ## Dilution Summary
 
@@ -147,4 +114,3 @@ For fruit trees, M-A provides both soil foundation and disease protection:
 |------------|---------------|-----------------|
 | Soil foundation (standard) | 1:1000 | 1-2 tons |
 | Soil foundation (degraded soil) | 1:1000 | 3-4 tons |
-| Seed soak | 1:1000 | Submerge seeds |

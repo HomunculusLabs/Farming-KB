@@ -129,11 +129,7 @@ Mycelium Running by Paul Stamets, Chapter 5: Mycofiltration
 
 ## See Also
 
-- [[mycofiltration-overview]]
 - [[mycofiltration-of-water]]
-- [[mycofiltration-of-chemical-runoff]]
 - [[mycofiltration-water-treatment]]
-- [[constructed-wetlands-wastewater-treatment]]
 - [[stropharia-rugoso-annulata-mycofiltration]]
-- [[oyster-mushroom-agricultural-waste-substrates-survey]]
 - [[mycelium-running-gourmet-mushroom-species]]

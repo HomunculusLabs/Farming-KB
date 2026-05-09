@@ -101,50 +101,8 @@ The entire process typically takes 30-90 minutes per batch
 depending on the plant material and still size.
 
 See [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
-for how steam distillation compares to more advanced extraction
-methods.
+- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 
-## What Are Common Mistakes to Avoid?
+## See Also
 
-The most frequent beginner mistakes are using too little plant
-material (pack the still generously but not so tight that steam
-cannot circulate), overheating the boiler (gentle, steady steam
-produces better oil than aggressive boiling), and distilling for
-too long (most of the oil comes over in the first 30-60 minutes,
-after which the hydrosol becomes increasingly dilute).
-
-Using wilted or moldy plant material produces off-flavors.
-
-Failing to clean the still between different plants leads to
-contaminated batches.
-
-Storing essential oils in clear glass or plastic bottles causes
-oxidation — always use dark amber or cobalt blue glass.
-
-## How Should I Store My Products?
-
-Essential oils should be stored in dark amber glass bottles with
-tight caps, in a cool dark place.
-
-Most essential oils last 1-3 years; citrus oils oxidize within
-6-12 months.
-
-Hydrosols are more perishable — without preservatives, most last
-6-12 months refrigerated.
-
-Adding 5-10% alcohol (vodka or witch hazel) can extend hydrosol
-shelf life to 1-2 years.
-
-## Key Points
-
-- Steam distillation is the most practical home method for
-  extracting essential oils and hydrosols from aromatic plants.
-- A basic 2-5 liter stainless steel still costs $150-$300 and is
-  sufficient for personal use.
-- Lavender, peppermint, and rosemary are the best starter plants.
-- Hydrosols are easier and more rewarding for beginners — more
-  volume and ready to use immediately.
-- Store essential oils in dark glass, cool temperatures; refrigerate
-  hydrosols to maximize shelf life.
-
-## Related Questions
+- [[query-how-to-make-herbal-infused-oils-at-home]]

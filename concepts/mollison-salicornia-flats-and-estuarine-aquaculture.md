@@ -74,9 +74,7 @@ Trials of substrate materials to catch new fry or algal forms.
 
 ## Advantages of Tidal Pond Systems
 
-The same advantages of slope, sun reflection from still-ponds, and a mixed ecology of wildfowl, geese, fish, molluscs and algae apply to seawater or brackish ponds as they do to freshwater systems discussed in [[aquaculture-in-permaculture]].
-
-The greatest advantage is a tide range of 1 to 9 metres, such as is found over most coasts, which enables free flushing and governable draining of ponds; the filling of higher-level impoundments for later release to lower ponds; and a flow of open sea species, fry, and algal forms as food. These designs relate closely to the broader principles of [[coastal-permaculture-design-mollison]].
+The same advantages of slope, sun reflection from still-ponds, and a mixed ecology of wildfowl, geese, fish, molluscs and algae apply to seawater or brackish ponds as they do to freshwater systems discussed in [[coastal-permaculture-design-mollison]].
 
 ## Guano and Nutrient Cycling
 
@@ -96,11 +94,7 @@ Tagari has applied for a tidewater and Salicornia leasehold to test out some of 
 
 ## See Also
 
-- [[salicornia-europaea]]
-
 - [[mollison-aquatic-polyculture-and-pond-culture]] for related polyculture approaches
-- [[permaculture-designers-manual-aquatic-plants]] for aquatic plant species references
 - [[permaculture-designers-manual-cover-crops-detailed]]
-- [[permaculture-designers-manual-aquaculture-species]]
 - [[permaculture-designers-manual-fish-species-guide]]
 - [[permaculture-designers-manual-phosphate-cycling]]

@@ -22,54 +22,7 @@ sources:
 
 ## Overview
 
-*Filipendula ulmaria*, commonly known as meadowsweet, is a perennial herbaceous plant in the family Rosaceae native to Europe and Western Asia. It is one of the most historically significant medicinal plants in European herbalism, renowned as a natural source of salicylic acid precursors — the compounds that inspired the synthesis of aspirin in 1897. The species name *ulmaria* refers to elm-like leaves, while *Filipendula* derives from *filum pendens* ("hanging thread"), describing the pendulous root tubers. Meadowsweet grows prolifically in damp meadows and riverbanks, making it useful for both herbal medicine and riparian permaculture applications.
-
-## Taxonomy
-
-- **Kingdom:** Plantae → **Division:** Magnoliophyta → **Class:** Magnoliopsida → **Order:** Rosales
-- **Family:** Rosaceae → **Subfamily:** Amygdaloideae → **Tribe:** Spiraeeae → **Genus:** Filipendula
-- **Species:** F. ulmaria; **Author:** (L.) Maxim.
-- **Synonyms:** Spiraea ulmaria L., Ulmaria pentapetala Gilib., Spiraea denudata Moris
-- **Common names:** Meadowsweet, mead wort, bridewort, queen of the meadow, lady of the meadow
-
-## Morphology
-
-- **Habit:** Upright perennial herb, 60-180 cm tall; long-lived (20+ years); slowly spreads via short rhizomes to 60-90 cm width
-- **Stems:** Erect, stout, slightly angular, green to reddish-green, unbranched below the inflorescence; 4-6 mm diameter
-- **Leaves:** Pinnately compound, alternate, 15-30 cm long with 3-5 pairs of serrate leaflets plus a terminal leaflet; dark green above, paler and tomentose beneath
-- **Inflorescence:** Dense terminal panicles or corymbs, 10-25 cm long; numerous small flowers with 5 creamy-white petals and numerous stamens giving a fluffy, feathery appearance; pleasant almond-like fragrance
-- **Fruit:** Small spirally coiled follicles (achenes), 1-2 mm, containing single seeds; mature July–September
-- **Root system:** Fibrous network with small pendulous tubers attached to root fibers
-- **Flowering:** June through August (Northern Hemisphere)
-
-## Phytochemistry
-
-Meadowsweet contains diverse bioactive metabolites concentrated in flowering tops and leaves. Key constituents include salicylates (methyl salicylate, salicylaldehyde, salicylic acid glycosides at 0.06-0.15% in dried herb), flavonoids (quercetin, kaempferol, rutin, spiraeoside; total 1.5-3%), tannins (ellagitannins and condensed tannins, 2-4%), phenolic acids (gallic, caffeic, chlorogenic, vanillic), volatile oils (0.1-0.3%, dominated by methyl salicylate and salicylaldehyde), and trace coumarins (umbelliferone).
-
-## Pharmacology and Medicinal Uses
-
-- **Anti-inflammatory:** Salicylates inhibit COX-2 and reduce prostaglandin synthesis; gentler on gastric mucosa than aspirin due to mucilage-protective tannins and flavonoids
-- **Analgesic:** Effective for headache, joint pain, and muscular pain; historically one of Europe's most important herbal analgesics
-- **Antipyretic:** Reduces fever through prostaglandin inhibition
-- **Gastroprotective:** Tannin and flavonoid combination protects stomach lining — a key advantage over isolated salicylic acid
-- **Antimicrobial:** Demonstrated in vitro activity against *Staphylococcus aureus*, *Bacillus subtilis*, and *Candida albicans*
-- **Diuretic and astringent:** Mild diuretic effect from flavonoids; tannins provide astringent action useful for diarrhea and GI irritation
-- **Evidence level:** Well-established in traditional use (EMA monograph); clinical trials limited but in vitro and animal data support anti-inflammatory and analgesic activities
-
-⚠️ **Contraindications:** Avoid in individuals with aspirin sensitivity, salicylate allergy, bleeding disorders, or on anticoagulant therapy. Not recommended during pregnancy or breastfeeding.
-
-## Distribution and Habitat
-
-- **Native range:** Most of Europe, Western Siberia, the Caucasus, parts of Central Asia; widely naturalized in North America
-- **Habitat:** Damp meadows, riverbanks, wet woodlands, marsh edges, ditches; prefers partial shade to open locations
-- **Soil:** Moist to wet, fertile soils; pH 5.5-7.5; tolerates seasonal flooding but not prolonged waterlogging
-- **USDA Hardiness Zones:** 3-8
-
-## Permaculture Applications
-
-- **Riparian buffer:** Deep fibrous roots stabilize stream banks effectively
-- **Pollinator support:** Dense flower panicles provide abundant nectar and pollen for bees, hoverflies, and butterflies during the mid-summer gap
-- **Companion planting:** Attracts beneficial predatory insects (parasitic wasps, lacewings) when grown alongside fruit trees and berry bushes in food forests
+*Filipendula ulmaria*, commonly known as meadowsweet, is a perennial herbaceous plant in the family Rosaceae native to Europe and Western Asia. It is one of the most historically significant medicinal plants in European herbalism, renowned as a natural source of salicylic acid precursors — the compounds that inspired the synthesis of aspirin in 1897. The species name *ulmaria* refers to elm-like leaves, while *Filipendula* derives from *filum pendens* ("hanging thread"), describing the pendulous root tubers. Meadowsweet grows prolifically in damp meadows and riverbanks, making it useful for both [[bacillus-subtilis]]*, and *[[companion-planting]]:** Attracts beneficial predatory insects (parasitic wasps, lacewings) when grown alongside fruit trees and berry bushes in food forests
 - **Phytoremediation:** Demonstrated ability to accumulate moderate levels of heavy metals
 - **Medicinal hedgerow:** Useful component of medicinal herb strips in permaculture designs
 - **Ground cover:** Dense foliage provides weed suppression in moist areas
@@ -120,8 +73,24 @@ pharmacologically consequential plants in modern medicine.
 
 ## See Also
 
-- [[salix-alba]] — White willow, another natural salicylate source
 - [[hypericum-perforatum]] — St. John's wort, complementary anti-inflammatory herb
-- [[calendula-officinalis]] — Calendula, complementary medicinal plant for skin and wound healing
-- filipendula ulmaria — Taxonomic and etymological context for the species name
-- tanacetum parthenium — Feverfew, another traditional headache remedy
+- [[tanacetum-parthenium]] — Feverfew, another traditional headache remedy
+## Practical Considerations
+
+Successful implementation of Filipendula ulmaria requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

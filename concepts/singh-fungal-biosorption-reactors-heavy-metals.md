@@ -111,8 +111,6 @@ regeneration cycles, and contact time are critical design parameters.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[fungal-binary-ternary-biosorption]]
 - [[fungal-biosorption-desorption-regeneration]]
 - [[singh-fungal-biosorption-lead-copper]]

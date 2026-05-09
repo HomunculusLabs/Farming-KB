@@ -1,13 +1,13 @@
 ---
-title: jadam pest control recipes
+title: JADAM Pest Control Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: natural-farming, pest-control, agriculture, recipes]
+tags: [natural-farming, pest-control, agriculture, recipes]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 
-# jadam pest control recipes
+# JADAM Pest Control Recipes
 
 JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM Wetting Agent (JWA), combined with plant extracts and biological agents.
 
@@ -33,7 +33,7 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 ## JADAM Herb Solution (JHS) — General Pest Control
 
 ### Recipe
-- Any strong-smelling herb plant: garlic, ginger, hot pepper, [[neem]], mugwort, etc.
+- Any strong-smelling herb plant: garlic, ginger, hot pepper, neem, mugwort, etc.
 - Water: enough to cover plant material
 - JWA: 1:500 dilution
 
@@ -48,7 +48,7 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 ### Most Effective Herbs
 - **Garlic**: Antibacterial, antifungal, repels most insects
 - **Hot pepper**: Repels mammals, ants, aphids
-- **[[neem]]**: Broad-spectrum insecticide, fungicide
+- **Neem**: Broad-spectrum insecticide, fungicide
 - **Mugwort**: Repels caterpillars, mites
 - **Ginger**: Antibacterial, antifungal
 

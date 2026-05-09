@@ -21,15 +21,6 @@ sorcery, with distinct methods of causing harm classified by the
 weapons and techniques employed. Pablo Amaringo's visions enumerate
 three primary types of sorcerers, each using different means of
 attack, along with numerous secondary methods. A
-[[curandero-healing-ayahuasca]] must distinguish between
-these types to properly diagnose and treat victims.
-
-## Chonta Sorcery (Virotes)
-
-The chontero is a sorcerer who inflicts harm with chontas or virotes
--- darts made from the thorns of various plants and trees, the beak
-of certain birds, the fangs of snakes, or the hair of the
-casha-cushillo (porcupine). The chontero keeps his virotes in his
 [[mariri-phantom-sorcery]] (magical phlegm). When he wishes to
 cause harm, he takes a chonta from his mariri and blows towards his
 victim. If the victim's body has been previously treated by a good
@@ -106,45 +97,6 @@ The yana-puma-runa (black tiger-like people) serve as shitaneros
 (sorcerers) in the yakuruna world. They cover their faces with hair,
 have red eyes, big eye-teeth like curved sabres, and can transform
 into black water bulls, black horses, and black
-[[yakuruna-water-spirits-of-the-amazon]] who ambush victims on beaches.
-Even a mere gaze from these beings brings harm.
-
-## The Shetebo Sorcerer
-
-The Shetebo sorcerer represents the purest form of destructive
-shamanism. He wears a black cushma (traditional garment), served by
-black boas. He is not a healer -- he only kills. He possesses all
-knowledge of witchcraft and curses, working with the darkest beings
-of hell: black yakurunas, black mermaids, the black boa, the sarara
-(Anhinga anhinga), the black rainbow, the black ape, and the black
-aquatic bird.
-
-## The Sepultura Tonduri
-
-The sepultura tonduri (grave funeral) is a frightening icaro sung by
-a sorcerer to kill. In vision, the sorcerer calls the Sachamama to
-swallow the victim as his coffin, the motelo-mama (tortoise mother)
-as the wake table, mushrooms as candles, and ayanahuis (fireflies)
-as candle flames. The alipa-cuchis (earth-pigs) dig the grave, and
-the bird rompe-mortaja represents the shroud.
-
-## Defensive Sorcery Plants
-
-Vegetalistas also use plants defensively against sorcerers:
-
-- **Pinon colorado** (Jatropha gossypifolia): Five-tipped leaves
-  used as defence
-- **Yuca verde** (green manioc): Used in ritual baths
-- **Achiote** (Bixa orellana): Indispensable in healing mal aire
-- **Patiquina** (Dieffenbachia sp.): Used to kill sorcerers
-- **Sacha-ajos** (Mansoa alliacea): Used as disinfectant against
-  evil spirits; leaves burned in the evening
-- **Pampa patiquina**: Kept near houses as defence against sorcery
-
-## See Also
-
-- [[mariri-phantom-sorcery]] -- The mariri as repository of sorcery
-- [[shamanic-powers-ayahuasca]] -- Defensive powers against sorcery
+[[mariri-phantom-sorcery]] -- The mariri as repository of sorcery
 - [[curandero-healing-ayahuasca]] -- Diagnosing and treating sorcery
-- [[banco-sumiruna-muraya]] -- Practitioners who fight sorcery
 - [[icaros-power-songs]] -- Songs used in sorcery and defence

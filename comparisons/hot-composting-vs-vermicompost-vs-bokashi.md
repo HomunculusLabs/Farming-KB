@@ -70,15 +70,13 @@ The three systems form a complementary stack:
 2. **Vermicompost bin** processes overflow kitchen scraps, coffee grounds, paper waste; produces castings for [[cannabis-living-soil-guide]], seed starting, and [[compost-tea-aact]]
 3. **Hot compost pile** handles bulk waste: yard debris, animal manure + bedding, spent garden plants, large volumes from food preservation
 
-Bokashi pre-compost can be buried in garden beds where [[vermicomposting]] worms further process it. Hot compost provides bulk humus for [[composting-and-soil-biology]] top-dressing. All three feed the [[soil-food-web-nutrient-cycling]].
+Bokashi pre-compost can be buried in garden beds where [[vermicomposting]] worms further process it. Hot compost provides bulk humus for [[no-till-gardening-method]] top-dressing. All three feed the [[soil-food-web-nutrient-cycling]].
 
 ## Verdict
 
 Don't choose one — run all three. Bokashi for zero-waste kitchen processing, vermicompost for biologically dense castings, hot compost for bulk manure and yard waste management. Together they handle every organic waste stream on the homestead and produce complementary soil amendments.
 
 ## See Also
-
-- [[comparison-hot-composting-vs-bokashi]]
 
 - [[composting-systems]] — Full composting methods overview
 - [[vermicomposting]] — Worm bin setup and management

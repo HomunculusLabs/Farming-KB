@@ -125,8 +125,6 @@ rather than against them.
 
 ## See Also
 
-- [[mollison-windbreak-design]]
 - [[mollison-fractals-branching-and-conduit-design]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-stream-orders-and-branching-magnitudes]]
 - [[mollison-pond-design-freshwater-aquaculture]]

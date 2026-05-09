@@ -110,14 +110,10 @@ The rate of terpene degradation depends on several environmental and storage fac
 
 ## Related Topics
 
-- [[cannabis-glandular-trichome-types-resin-production-clarke]] - Trichome types and resin secretion
 - [[cannabis-chemotype-classification-cannabinoid-breeding]] - Chemotype classification
-- [[cannabis-harvest-timing-visual-cues]] - Harvest timing indicators
 - [[cannabis-terpene-profile]] - Terpene profiles
 
 ## See Also
 
-- [[cannabis-resin-production-and-quality-traits-clarke]] - Resin production and quality traits
-- cannabis pest management - Pest defense roles of terpenes and cannabinoids
 - [[cannabis-hashish-guide]] - Traditional hashish production methods that concentrate terpenes
 - [[cannabis-terpene-entourage-effect-profiles]]

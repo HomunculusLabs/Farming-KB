@@ -132,10 +132,7 @@ For indoor gardeners encountering *L. birnbaumii*:
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[chlorophyllum-molybdites]]
-- [[lepiota-procera]]
 - [[mucor-piriformis]]
-- [[mycelium]]
 - [[trichoderma]]
 - [[mycorrhiza]]

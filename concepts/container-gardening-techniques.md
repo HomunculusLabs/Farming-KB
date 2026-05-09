@@ -57,41 +57,34 @@ For winter interest, use winter-flowering heathers (Erica carnea), pansies, and 
 
 ### Timing
 
-Do not start spring planting until all danger of frost has passed. Frost-tender plants put out too early will be damaged or killed by late frosts. Use the [[cold-frame-construction]] to harden off plants before moving them to outdoor containers.
-
-## Watering Container Plants
-
-Container-grown plants need careful watering, especially when first planted and during dry weather. Unlike plants in the open ground, they cannot draw on deep soil moisture. In hot weather, some containers may need watering twice daily.
-
-- Water thoroughly rather than giving frequent small amounts
-- Check moisture by pushing a finger into the compost
-- Terracotta pots dry out faster than plastic ones
-- Hanging baskets are particularly prone to drying out
-- Water in the morning rather than later in the day
-
-## Feeding Container Plants
-
-Because container-grown plants have limited access to nutrients, regular feeding is essential. The nutrients in the compost will be used up within about eight weeks, especially with constant watering washing them away. Apply liquid feed every one to two weeks during the growing season. Liquid kelp or animal-manure tea are good organic options.
-
-## Repotting
-
-When the roots of a plant completely fill its pot, it must be moved to a slightly larger container. Do this in spring or summer, never in winter when the plant is dormant. Do not move plants into pots very much larger than the current one — this surrounds the roots with cold, wet compost that is not conducive to root growth. Water repotted plants well and leave them to settle.
-
-## Related
-
-- [[guerrilla-gardening-techniques]]
+Do not start spring planting until all danger of frost has passed. Frost-tender plants put out too early will be damaged or killed by late frosts. Use the [[sub-irrigated-planter-sip-guide|Sub Irrigated Planter Sip Guide]]
 
 - [[guerrilla-gardening-techniques]] Topics
 
-- [[extending-growing-season]] — protecting tender container plants from frost
 - [[green-manure-cover-crops]] — improving garden soil for transplanting
-- [[mulching-techniques]] — mulching containers to retain moisture
 - [[cold-frame-construction]] — hardening off plants for outdoor containers
 
 ## Source
 
 Based on *Organic Gardening* by Geoff Hamilton.
-- [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]
-- [[solomon-cover-crops-green-manure-guide]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
+## Practical Considerations
+
+Successful implementation of Container Gardening Techniques requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

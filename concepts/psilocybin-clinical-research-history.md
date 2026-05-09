@@ -122,13 +122,8 @@ therapeutic and mystical potential.
 
 ## Related
 
-- [[humphry-osmond]] Concepts
-
 - [[hallucinogenic-plants-history-ethnobotany]]
-- [[wasson-rediscovery-of-psilocybin]]
 - [[timothy-leary-harvard-psilocybin-experiments]]
-- [[magic-mushroom-global-distribution]]
 - [[psilocybin-mushroom-species-identification]]
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[bicycle-day-april-1943]]
 - [[tihkal-psilocin-psilocybin-chemistry]]

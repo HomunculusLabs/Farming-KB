@@ -1,7 +1,7 @@
 ---
 title: Mycofiltration
 created: 2026-04-28
-tags: [mycology, ecology, water-filtration, mycorestoration]
+tags: [[mycology, ecology, water-filtration, mycorestoration]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -114,9 +114,7 @@ Field trials have demonstrated significant reductions in coliform bacteria,
 but more controlled studies are needed to establish optimal design
 parameters for different climatic conditions and contamination scenarios.
 
-Mycofiltration is part of a broader toolkit of [[mycorestoration|mycorestoration]]
-practices that position fungi as keystone organisms for environmental healing.
-Combined with [[mycoremediation|mycoremediation]] for chemical
+Mycofiltration is part of a broader toolkit of [[mycoremediation|mycoremediation]] for chemical
 cleanup and mycoforestry for long-term forest management, mycofiltration
 represents a paradigm shift in how we approach water quality — from
 mechanical and chemical treatment to biological filtration that simultaneously
@@ -131,7 +129,5 @@ are uniquely positioned to meet this challenge.
 
 ## See Also
 
-- [[mycelium-natures-internet]]
 - [[unknown-mycelium-mycopesticides]]
-- [[mushroom-mycelium-and-mycofiltration]]
 - [[mycelium-running-farm-mycofiltration-buffers]]

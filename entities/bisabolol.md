@@ -107,14 +107,9 @@ The European Scientific Committee on Consumer Safety (SCCS) has reviewed α-bisa
 
 ## See Also
 
-- [[myrcene]]
 - [[linalool]]
-- [[beta-caryophyllene]]
 - [[geraniol]]
-- [[ocimene]]
 - [[humulene]]
-- [[nerolidol]]
 - [[cannabidiolic-acid-cbda]]
-- [[camellia-sinensis-entity]]
 - [[valeriana-officinalis]]
 - [[borago-officinalis]]

@@ -119,11 +119,7 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 - **Traditional**: Wrapped in cellophane, pressed between heated flat irons
 
 ## Related
-- [[cannabis-concentrates-and-extracts]] — for broader concentrate types
 - [[cannabis-extraction-methods]] — for solvent-based extraction
-- [[cannabis-terpene-profile]] — for terpene preservation
 - [[cannabis-harvest-and-curing]] — for proper drying/curing before processing
-- [[cannabis-hash-making-from-extracted-oil]]
 - [[hashish-binding-pressing-and-storage-techniques]]
-- [[cannabis-hashish-screening-and-pressing]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]

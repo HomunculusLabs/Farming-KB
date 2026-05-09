@@ -1,7 +1,7 @@
 ---
 title: Mushroom Species Selection
 created: 2026-04-28
-tags: [mycology, cultivation, species, taxonomy]
+tags: [[mycology, cultivation, species, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -94,8 +94,6 @@ expands the range of possible products.
 
 ## See Also
 
-- [[bulk-substrate-preparation]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
-- [[mushroom-fruiting-chamber-designs]]
 - [[mushroom-harvesting-and-post-harvest-handling]]
 - [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]

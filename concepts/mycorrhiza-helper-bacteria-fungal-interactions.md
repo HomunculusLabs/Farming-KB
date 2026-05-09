@@ -15,8 +15,7 @@ type: concept
 
 Mycorrhiza Helper Bacteria (MHB) are soil bacteria that specifically promote
 the establishment and functioning of mycorrhizal symbioses. First defined by
-Garbaye (1994), MHB represent a critical component of the [[fungal-bacterial-partnerships-mycorrhizosphere]]
-ecosystem, facilitating interactions between [[mycorrhizal-fungi]], host
+Garbaye (1994), MHB represent a critical component of the [[mycorrhizal-fungi]], host
 plants, and other soil microorganisms. These bacteria can simultaneously
 promote beneficial mycorrhizal associations while suppressing plant pathogens.
 
@@ -109,13 +108,6 @@ The fine balance between too small, adequate, and excess amounts of bacterial
 inocula means that precise quantification is essential. Too few bacteria
 produce no effect, adequate amounts promote fungal growth, and excess amounts
 may lead to antagonism. These findings have important implications for
-developing effective [[mycorrhizal-inoculation-techniques]] that incorporate
-both fungal and bacterial partners.
-
-## Related Topics
-
-- [[mycorrhizal-helper-bacteria]]
-- [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
+developing effective [[mycorrhizal-helper-bacteria]]
 - [[fungal-bacterial-partnerships-mycorrhizosphere]]
-- [[mycorrhizal-biocontrol]]
 - [[mycorrhization-helper-bacteria]]

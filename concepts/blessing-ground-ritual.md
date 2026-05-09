@@ -131,6 +131,9 @@ eternal nature of spirit.
 
 ## See Also
 
-- [[cannabis-spiritual-use]] for the broader philosophy behind this practice
 - [[cannabis-healing-ritual]] for another earth-centered cannabis ceremony
 - [[cannabis-fire-ritual]] for the complementary fire celebration ritual
+
+## See Also
+
+- [[cannabis-anointing-oil-blessing-rituals]]

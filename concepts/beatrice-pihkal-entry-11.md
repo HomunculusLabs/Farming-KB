@@ -116,8 +116,6 @@ findings across the phenethylamine/amphetamine class.
 
 ## See Also
 
-- [[ariadne-pihkal-entry-8]]
-- [[dom-entity]]
-- [[do-family-compounds-pihkal]]
+- [[dom]]
 - [[pihkal-mdma]]
 - [[pihkal-qualitative-effects-themes]]

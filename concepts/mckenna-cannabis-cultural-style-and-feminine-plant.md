@@ -132,10 +132,7 @@ was particularly feminine in emphasis.
 
 ## See Also
 
-- [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-cannabis-culture-history]]
-- [[mckenna-archaic-revival]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-- [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-cannabis-language-weaving-cordage-narrative]]
 - [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]

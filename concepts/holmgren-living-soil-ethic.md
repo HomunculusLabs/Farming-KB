@@ -3,24 +3,7 @@ title: Holmgren Living Soil Ethic
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Living Soil Ethic
-
-Updated: 2026-04-19
-
-In David Holmgren's *Permaculture: Principles and Pathways Beyond Sustainability* (2002), the concept of "living soil" forms the most grounded expression of the permaculture ethic of Care for the Earth. Holmgren writes that "Care for the Earth can be taken to mean caring for living soil as the source of terrestrial life and for which we have the greatest responsibility."
-
-## Foundation of the Living Soil Ethic
-
-The living soil ethic builds on both the scientific and ethical traditions of the larger and older organic (biological) agriculture movements. Holmgren argues there are good scientific and historical reasons for regarding the state of our soils as the best measure of the future health and well-being of society. However, he observes that reverence for the soil tends to be forgotten in the excitement about more easily understood, "sexy" issues.
-
-## Care for the Earth as Living Soil
-
-In the most grounded sense, [[permaculture-ethics-foundation]] means caring for living soil as the source of terrestrial life and for which we have the greatest responsibility. Holmgren uses the word "terrestrial" to mean belonging to the land rather than to the sea or the air. Despite humanity's vigorous exploitation of the open oceans, we can no more escape our dependence on land and soil than we can realistically escape the planet.
+tags: [[permaculture-ethics-foundation]] means caring for living soil as the source of terrestrial life and for which we have the greatest responsibility. Holmgren uses the word "terrestrial" to mean belonging to the land rather than to the sea or the air. Despite humanity's vigorous exploitation of the open oceans, we can no more escape our dependence on land and soil than we can realistically escape the planet.
 
 ## Technical and Ethical Entanglement
 
@@ -48,7 +31,7 @@ Holmgren locates living soil care within a broader ethical framework:
 
 Within the more recent tradition of the organic movement, land management to repair and improve long-term soil fertility — especially by increasing humus content — has been regarded as a form of stewardship where one leaves the land in better shape than it was when one received it.
 
-Permaculture strategies and whole design principles (such as [[holmgren-permaculture-ethics-foundations]] and [[holmgren-catch-and-store-energy-detailed]]) are predicated on the idea that increasing long-term soil fertility is possible. The more activist permaculture concepts demand that we make all reasonable efforts to increase, and even transform, the biological capacity of soil for the benefit of future generations.
+Permaculture strategies and whole design principles (such as [[holmgren-catch-and-store-energy-detailed]]) are predicated on the idea that increasing long-term soil fertility is possible. The more activist permaculture concepts demand that we make all reasonable efforts to increase, and even transform, the biological capacity of soil for the benefit of future generations.
 
 ## The Terrestrial Constraint
 
@@ -56,9 +39,7 @@ Holmgren uses the word "terrestrial" to mean belonging to the land rather than t
 
 ## Link to Mineral Fertilizers
 
-In discussing [[permaculture-soil-strategies]], Holmgren connects the living soil ethic to the geological processes that deliver rock minerals critical to soil fertility. The capacity of terrestrial systems to hold water, mineral nutrients, and organic matter is limited and is always being eroded by gravity. All terrestrial ecosystems and landscapes can be seen as design systems to overcome or at least limit the effects of these forces.
-
-This geological perspective is elaborated in [[holmgren-mineral-fertilizers-soil-building]], which discusses how mineral inputs can support biological soil building during the transition to low-energy systems.
+In discussing [[holmgren-mineral-fertilizers-soil-building]], which discusses how mineral inputs can support biological soil building during the transition to low-energy systems.
 
 ## Soil as Measure of Society
 
@@ -78,22 +59,31 @@ The living soil ethic has direct practical implications for permaculture designe
 
 - Design systems that cycle nutrients back to the soil rather than exporting them
 
-- Use [[soil-food-web-nutrient-cycling]] as the primary framework for understanding fertility
-
-## See Also
-
-- [[holmgren-permaculture-ethics-foundations]]
-
-- [[holmgren-tripartite-altruism]]
+- Use [[holmgren-permaculture-ethics-foundations]]
 
 - [[holmgren-mineral-fertilizers-soil-building]]
 
-- [[permaculture-soil-strategies]]
-
 - [[soil-food-web-nutrient-cycling]]
-
-- [[holmgren-household-energy-storages]]
 
 - [[holmgren-catch-and-store-energy-detailed]]
 
 Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), pp. 8-10, Ethics chapter
+## Practical Considerations
+
+Successful implementation of Holmgren Living Soil Ethic requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

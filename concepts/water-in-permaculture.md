@@ -3,13 +3,7 @@ title: water in permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Water in Permaculture
-updated: 2026-04-18
-Water is the primary design element in permaculture. Bill Mollison's Permaculture Design Course Pamphlet XI presents a comprehensive framework for [[water-management]], from ponds and aquaculture to tidal systems and sewage treatment.
+tags: [[water-management]], from ponds and aquaculture to tidal systems and sewage treatment.
 
 ## The Global Water Context
 - 75% of all fresh water is unavailable (ice caps, deep aquifers)
@@ -144,6 +138,5 @@ The cascade system: design single-culture ponds that flow one to another:
 - One man built football-field-sized platform off West Africa
 - "He's annually a millionaire" from gathered phosphate
 
-- [[mollison-pig-forage-species-and-range-planting-design]]
 - [[mollison-course-aquatic-plant-systems-ponds]]
 - [[permaculture-chicken-forage-systems-design-course]]

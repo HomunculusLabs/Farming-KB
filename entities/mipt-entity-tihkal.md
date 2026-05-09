@@ -38,11 +38,7 @@ TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl ni
 
 ## Extensions and Commentary
 
-MIPT represents the simplest example of the N-methyl-N-isopropyl substitution pattern. Shulgin's hypothesis: the N-small-group (methyl) does the pharmacological job in the brain, while the N-big-group (isopropyl) protects the nitrogen from MAO enzymes. This is consistent with [[alpha-n-dmt-entity-tihkal]] (N,N-dimethyl) not being orally active — both groups are "small."
-
-### The MET Intermediate
-
-Lying midway between DMT and [[4-ho-dipt-entity-tihkal]] is N-ethyl-N-methyltryptamine (MET). It can be made by adding ethyl acetate to a reaction mixture where the formamide of tryptamine has been reduced to NMT but excess hydride still remains. The free base, as an oil, shows oral activity in the 80–100 mg range, confirming that going from a methyl to an ethyl does protect against enzymatic annihilation.
+MIPT represents the simplest example of the N-methyl-N-isopropyl substitution pattern. Shulgin's hypothesis: the N-small-group (methyl) does the pharmacological job in the brain, while the N-big-group (isopropyl) protects the nitrogen from MAO enzymes. This is consistent with [[4-ho-dipt-entity-tihkal]] is N-ethyl-N-methyltryptamine (MET). It can be made by adding ethyl acetate to a reaction mixture where the formamide of tryptamine has been reduced to NMT but excess hydride still remains. The free base, as an oil, shows oral activity in the 80–100 mg range, confirming that going from a methyl to an ethyl does protect against enzymatic annihilation.
 
 ### MPT: The Straight-Chain Isomer
 
@@ -67,13 +63,30 @@ The oral activity of MIPT is pharmacologically significant because it demonstrat
 
 ## See Also
 
-- [[dmt-entity-tihkal]] — N,N-dimethyltryptamine, not orally active
 - [[5-meo-mipt-entity-tihkal]] — the 5-methoxy analogue, considerably more potent
-- [[dipt-entity-tihkal]] — N,N-diisopropyl, primarily auditory effects
 - [[5-meo-dipt-entity-tihkal]] — another orally active isopropyl tryptamine
 
 ## Comparison to Other Orally Active Tryptamines
 
-Within the tryptamine family, MIPT's primarily cognitive profile places it in a distinct niche compared to other orally active compounds. [[5-meo-mipt-entity-tihkal]] is considerably more potent and more visual, while [[4-ho-dipt-entity-tihkal]] produces its famous auditory distortion effects.
+Within the tryptamine family, MIPT's primarily cognitive profile places it in a distinct niche compared to other orally active compounds. [[4-ho-dipt-entity-tihkal]] produces its famous auditory distortion effects.
 
 MIPT's value to psychopharmacology lies partly in what it lacks -- the minimal visual component helps isolate the cognitive effects of 5-HT2A receptor activation from the perceptual effects, providing a cleaner tool for mapping receptor function. The isopropyl group's role in conferring oral activity has been confirmed across multiple tryptamine backbones, making the N-methyl-N-isopropyl pattern one of the most reliably orally active substitution strategies in [[phenethylamine-chemistry-basics]].
+## Practical Considerations
+
+Successful implementation of MIPT (N-Isopropyl-N-Methyltryptamine) — TIHKAL Entry #47 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

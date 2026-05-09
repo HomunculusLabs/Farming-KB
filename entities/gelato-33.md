@@ -113,12 +113,8 @@ Pest resistance is moderate, with spider mites being the most common pest issue 
 
 ## See Also
 
-- [[sunset-sherbet]]
 - [[thin-mint-cookies]]
-- [[girl-scout-cookies]]
 - [[runtz-entity]]
-- [[og-kush]]
 - [[wedding-cake-cannabis]]
-- [[blue-dream-cannabis-strain]]
 - [[sour-diesel]]
 - [[jack-herer]]

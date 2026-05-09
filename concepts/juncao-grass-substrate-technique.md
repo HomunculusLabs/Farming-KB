@@ -96,13 +96,7 @@ The **JUNCAO Research Institute** was established at Fujian Agriculture & Forest
 
 ## Related Topics
 
-- [[bulk-substrate-preparation]] — general substrate preparation for oyster mushrooms
 - [[mushroom-substrates]] — comprehensive guide to mushroom substrate materials
-- [[oyster-mushroom-species-guide]] — guide to oyster mushroom species and their cultivation requirements
-
-> **Source:** Chapter 5, "Substrate — Grass (Juncao)" by Zhanxi Lin, JUNCAO Research Institute, China, in Oyster Mushroom Cultivation (MushWorld, 2004). Translated by Dongmei Lin.
 - [[edible-wild-mushroom-guide]]
-- [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[medicinal-mushroom-guide-shiitake]]
-- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]
 - [[fungal-carbon-substrate-utilization-efficiency]]

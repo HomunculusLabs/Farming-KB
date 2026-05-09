@@ -19,33 +19,6 @@ a precise grid system to optimize plant spacing and succession planting within s
 beds. Both are ideal for small-space gardeners but serve different priorities.
 
 ## Keyhole Garden
-[[permaculture-designers-manual-keyhole-garden]]
-A keyhole garden is a circular raised bed (5-6 feet diameter, 2-3 feet tall) with a central
-compost basket made of wire mesh and a wedge-shaped access path that allows the gardener to
-reach all plants without stepping on the growing surface. The design originated in Lesotho,
-Africa through the Send a Cow charity as a response to drought and poor soil conditions.
-Compostable materials placed in the central basket release nutrients and moisture that wick
-outward into the surrounding soil, creating a self-fertilizing system that dramatically reduces
-both water and fertilizer inputs.
-
-Keyhole gardens are exceptionally water-efficient, using 50% or less water than conventional
-gardens through the wicking action from the central compost basket. They combine composting and
-growing in a single structure, eliminating the need for separate compost piles and reducing
-material handling. The circular design is beautiful and space-efficient, fitting into small
-yards, courtyards, and community garden plots. Built from stone, brick, wood, or recycled
-materials, they can be constructed entirely from salvaged or local materials. The single access
-point means the gardener can tend the entire garden while standing in one place, making them
-particularly accessible for elderly or mobility-limited gardeners.
-
-The limitations include reduced growing area compared to rectangular beds of equivalent
-footprint (the central basket and wedge path consume space), less straightforward crop rotation
-within the circular layout, and potentially higher compost input requirements than the garden
-area alone would suggest (the central basket needs regular feeding). Construction of curved
-walls is more labor-intensive than straight frames, especially with stone. The system works
-best for shallow-rooted crops and greens; large plants like tomatoes or sprawling vines may
-overwhelm the compact space.
-
-## Square Foot Gardening
 [[square-foot-gardening]]
 Square foot gardening (SFG), developed by Mel Bartholomew, divides raised beds into a permanent
 grid of 1x1 foot squares, each planted with a specific number of crops based on mature plant
@@ -119,8 +92,6 @@ hybrids use the keyhole's compost basket concept in a rectangular raised bed lay
 the compost column at one end where it can be accessed from a narrow path along the bed.
 
 ## See Also
-- [[raised-bed-gardening]]
 - [[mandala-garden-design]]
-- [[comparison-chinampas-vs-raised-bed-gardening]]
 - [[permaculture-designers-manual-keyhole-garden]]
 - [[square-foot-gardening]]

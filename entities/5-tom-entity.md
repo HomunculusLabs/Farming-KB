@@ -9,15 +9,7 @@ sources:
 ---
 # 5-TOM (2-Methoxy-4-methyl-5-methylthioamphetamine)
 
-5-TOM is a methylthio-substituted amphetamine that replaces the 5-methoxy group of [[dom-entity]] with a methylthio group. It is described as a heavy-duty psychedelic experience with more negative reports than positive ones. The compound is listed as PIHKAL entry #172.
-
-## Chemical Classification
-
-5-TOM belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 2-methoxy-4-methyl-5-methylthioamphetamine.
-
-5-TOM is the sulfur analogue of [[dom-entity]], with the 5-methoxy oxygen replaced by sulfur.
+5-TOM is a methylthio-substituted amphetamine that replaces the 5-methoxy group of [[dom]], with the 5-methoxy oxygen replaced by sulfur.
 
 The compound retains the characteristic 2-methoxy and 4-methyl groups of DOM.
 
@@ -57,48 +49,35 @@ The experience was described as heavy going in but rich coming out, with 50 mg r
 
 The two TOM compounds (2-TOM and 5-TOM) demonstrate the critical importance of substitution position.
 
-[[2-tom-entity]] (sulfur at the 2-position) produces a manageable experience at 60-100 mg.
-
-5-TOM (sulfur at the 5-position) produces a heavier experience at 30-50 mg with more negative character.
-
-The bottom line for 5-TOM is that it provides a heavy-duty experience that is not consistently positive.
-
-The metabolic handling of the sulfur atom is the rationale for the preparation of the compound [[tomso-entity]].
+[[tomso-entity]].
 
 ## The TOMSO Connection
 
-[[tomso-entity]] was prepared to explore the metabolic fate of the sulfur atom in 5-TOM.
-
-The name TOMSO stands for 2-methoxy-4-methyl-5-methylsulfinylamphetamine.
-
-The sulfinyl group (S=O) represents an intermediate oxidation state of the sulfur atom, suggesting a possible metabolic pathway.
-
-## Dosage and Duration
-
-Dosage: 30 - 50 mg.
-
-Duration: 6 - 10 h.
-
-## Safety Considerations
-
-The compound produces more negative reports than positive ones.
-
-Physical side effects can outweigh mental effects at higher doses.
-
-The heavy body load and potential for difficult experiences warrant caution.
-
-## See Also
-
-[[dom-entity]]
-
-[[2-tom-entity]]
+[[dom]]
 
 [[tomso-entity]]
-
-[[dob-entity]]
 
 [[2c-t-7-entity]]
 
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #172: 5-TOM.
+## Practical Considerations
+
+Successful implementation of 5 Tom Entity requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -120,14 +120,9 @@ Pests include mealybugs, scale insects, and spider mites; fungal rot is the prim
 
 ## See Also
 
-- [[physalis-peruviana]]
-
 - [[echinopsis-lageniformis]]
 
-- [[echinopsis-pachanoi]]
 - [[lophophora-williamsii]]
-- [[mescaline-entity]]
 - [[dmt]]
-- [[banisteriopsis-caapi]]
 - [[coryphantha-compacta]]
 - [[tabernanthe-iboga]]

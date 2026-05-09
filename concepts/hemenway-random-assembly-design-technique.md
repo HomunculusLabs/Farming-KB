@@ -83,41 +83,16 @@ The technique also embodies the permaculture principle of
 integrating rather than segregating. When we think about
 elements in isolation, we place them in separate locations. But
 when we think about how elements relate to each other, we begin
-to see opportunities for [[gaias-garden-stacking-functions-detailed]] and creating beneficial connections.
-
-## Using Results in Design
-
-Not every random combination will be practical, but the ones
-that are can be incorporated into the design layout. The
-technique is best used alongside other design tools:
-
-- After listing elements, use [[hemenway-zone-and-sector-planning]] to identify general placement zones.
+to see opportunities for [[hemenway-zone-and-sector-planning]] to identify general placement zones.
 - Then use random assembly to discover specific relationships
   between nearby elements.
-- Use a [[permaculture-mapping-and-base-maps]] with
-  tracing paper overlays to sketch promising combinations.
-- Create a bubble diagram showing relative placement of
-  elements that work well together.
-
-## Integration with the Design Process
-
-Random assembly fits into the development phase of Hemenway's
-design sequence. After the observation and visioning phases
-have identified what elements the design needs, and the
-planning phase has organized them by zones and sectors, random
-assembly helps with the detailed layout. It is particularly
-useful when a designer feels stuck or when a site has unusual
-constraints that conventional layouts cannot address.
-
-The technique can also be used for [[hemenway-guild-design-roles-and-assembly]], randomly combining plant species with
+- Use a [[hemenway-guild-design-roles-and-assembly]], randomly combining plant species with
 functional roles to discover novel plant combinations. The same
 principle applies: by forcing unusual pairings, we discover
 synergies that conventional plant selection would miss.
 
 ## See Also
 
-- [[hemenway-garden-design-process-observation-and-visioning]]
 - [[hemenway-zone-and-sector-planning]]
-- [[permaculture-mapping-and-base-maps]]
 - [[gaias-garden-many-gardens-garden-design-process]]
 - [[gaias-garden-stacking-functions-detailed]]

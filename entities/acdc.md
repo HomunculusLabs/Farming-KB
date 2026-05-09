@@ -109,40 +109,14 @@ The strain has been used in the development of CBD-rich tinctures, oils, topical
 ### Growing Tips
 
 - **Lighting**: Performs well under both HID and LED systems. Standard 18/6 vegetative and 12/12 flowering photoperiods.
-- **Training**: Responds well to low-stress training (LST), [[screen-of-green]] (ScrOG), and topping. Branching is moderate, and the plant benefits from canopy management for even light distribution.
-- **Nutrients**: Moderate feeder. Standard cannabis nutrient schedules work well; avoid excessive nitrogen during mid-to-late flowering to preserve terpene profile.
-- **Pest resistance**: Average resistance to common pests and molds. Good airflow and humidity management (40–50% RH during flowering) are recommended to prevent bud rot and powdery mildew.
-- **Harvest indicators**: Trichomes should be predominantly milky-white with some amber. Since the primary value is CBD rather than THC, slightly later harvests (more amber trichomes) can maximize cannabinoid content without risking excessive THC-related degradation.
-
-### Cloning and Propagation
-
-ACDC clones are widely available in legal cannabis markets due to the strain's popularity. Cuttings root readily within 7–14 days under standard conditions. Maintaining mother plants is common practice for commercial and home medical growers due to the importance of preserving the specific high-CBD chemotype, which can vary in seed-grown plants.
-
-## Safety and Precautions
-
-- **Drug interactions**: CBD can inhibit cytochrome P450 enzymes (particularly CYP3A4 and CYP2C19), potentially interacting with medications metabolized by these pathways, including blood thinners (warfarin), anti-seizure medications, and certain antidepressants. Patients on pharmaceutical regimens should consult their physician.
-- **Quality variability**: CBD content can vary significantly depending on growing conditions, harvest timing, and processing methods. Lab-tested products from licensed producers are recommended for therapeutic use.
-- **Legal status**: While hemp-derived CBD (containing less than 0.3% THC) is federally legal in the United States under the 2018 Farm Bill, cannabis-derived ACDC flower is regulated at the state level and remains a Schedule I substance under federal law in jurisdictions where cannabis is not legalized.
-- **Driving**: Although non-intoxicating, patients should be aware of individual responses and any local regulations regarding driving under the influence of cannabis products.
-
-## Cultural Significance
-
-ACDC represents a pivotal development in the modern cannabis movement — the shift from recreational, THC-focused breeding toward therapeutic, CBD-dominant varieties. The strain emerged alongside growing public awareness of CBD's medical potential in the early 2010s, coinciding with landmark stories like that of Charlotte Figi, whose treatment with CBD-rich cannabis for Dravet syndrome catalyzed the medical cannabis movement. ACDC has been frequently cited in media coverage of medical cannabis, featured in documentaries, and discussed in legislative hearings as an example of cannabis's therapeutic potential beyond recreational use.
-
-The strain's name, shared with the iconic Australian rock band, has given it a memorable cultural identity that has aided its recognition among patients and consumers. In the broader cannabis community, ACDC is regarded as one of the most important CBD-dominant strains ever developed and remains a benchmark against which new high-CBD varieties are measured.
-
-## Related Strains
-
-- **Cannatonic**: The parent strain; similar CBD:THC ratio but less stabilized.
-- **Harlequin**: Sativa-dominant with a roughly 5:2 CBD:THC ratio; more psychoactive.
-- **[[sour-tsunami]]**: One of the first intentionally bred high-CBD strains; created by Lawrence Ringo.
+- **Training**: Responds well to low-stress training (LST), [[sour-tsunami]]**: One of the first intentionally bred high-CBD strains; created by Lawrence Ringo.
 - **Charlotte's Web**: Named after Charlotte Figi; extremely high CBD, minimal THC; developed specifically for epilepsy.
 - **Ringo's Gift**: Another high-CBD variety with an approximately 24:1 CBD:THC ratio.
 - **Stephen Hawking Kush**: Indica-dominant high-CBD strain with a 5:1 ratio.
 
 ## See Also
 
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
+- [[acdc-cannabis-strain]]
+- [[acdc-cannabis-strain]]
 
-- [[acdc-cannabis-strain]]
-- [[acdc-cannabis-strain]]
+See also: [[jock-horror]]

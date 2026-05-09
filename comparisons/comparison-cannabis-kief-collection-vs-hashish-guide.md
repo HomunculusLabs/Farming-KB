@@ -22,36 +22,7 @@ their goals, equipment, and desired final product quality.
 
 ## Kief Collection
 
-comparison [[cannabis-kief-collection]] vs hashish guide
-
-Kief collection is the simplest and oldest method of concentrating cannabis resin, relying
-on mechanical separation of trichome heads from dried plant material through dry sieving.
-The process requires minimal equipment: a silkscreen of appropriate micron size, a clean
-collection surface, and a flat card for gathering the accumulated powder. When dried
-cannabis flower or trim is gently agitated across a fine mesh screen, the brittle trichome
-heads break free from their stalks and fall through the openings while larger plant
-material remains on top. The collected powder beneath the screen is kief, a concentrated
-mixture of trichome heads, stalks, and some fine plant particulate.
-
-Temperature and moisture control are critical for successful kief collection. Starting
-material should be thoroughly dried and cooled to approximately 41 degrees Fahrenheit (5
-degrees Celsius) before processing, as cold temperatures make resin glands brittle and
-more likely to snap off cleanly. Warm or humid material causes trichomes to become sticky
-and pliable, leading to smearing across the screen rather than clean separation. Screen
-micron size should be matched to the trichome size of the material: 60 to 70 microns for
-Moroccan and sativa-dominant strains, 80 to 110 microns for most common varieties, and
-135 to 150 microns for particularly resinous indicas. A multi-stage sifting approach
-using progressively finer screens can further improve purity.
-
-Once collected, kief can be consumed directly as a dry powder, pressed into hashish using
-heat and pressure, or used as starting material for further extraction. The simplicity
-requires no water, no solvents, and minimal investment. However, the quality ceiling of
-dry-sifted kief is limited by the mechanical nature of the process, which inevitably
-introduces some plant contamination regardless of technique.
-
-## Hashish Guide
-
-[[cannabis-hashish-guide]]
+comparison [[cannabis-hashish-guide]]
 
 The hashish guide is a comprehensive reference covering all aspects of hashish production,
 from trichome biology through final pressing and storage. Where kief collection focuses on
@@ -141,7 +112,5 @@ producer to separate different quality grades for different end uses.
 ## See Also
 
 - comparison cannabis kief collection vs hashish guide
-- [[cannabis-hashish-guide]]
 - [[cannabis-ice-water-extraction]]
-- [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
 - [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]

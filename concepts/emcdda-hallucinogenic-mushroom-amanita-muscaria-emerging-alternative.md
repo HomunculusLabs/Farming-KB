@@ -131,8 +131,6 @@ and prevention responses.
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-psilocybin-pharmacology-and-chemistry]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]

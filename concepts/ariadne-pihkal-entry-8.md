@@ -125,8 +125,6 @@ atoms in DOM with a methyl group, named alphabetically:
 
 ## See Also
 
-- [[dom-entity]]
 - [[doet-entity]]
-- [[beatrice-pihkal-entry-11]]
 - [[bod-pihkal-entry-14]]
 - [[do-family-compounds-pihkal]]

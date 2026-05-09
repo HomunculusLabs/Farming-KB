@@ -11,42 +11,8 @@ type: concept
 # Chorismate Metabolism and Branch Pathways
 
 Chorismate is a central metabolic intermediate produced at the end
-of the [[shikimate-pathway-in-fungi]] and serves as
-a critical branch point for the biosynthesis of multiple essential
-compounds in bacteria, fungi, and plants. Its formation from
-5-O-(1-carboxyvinyl)-3-phosphoshikimate by chorismate synthase
-represents the convergence of seven enzymatic steps originating
-from the glycolytic intermediate phosphoenolpyruvate (PEP) and the
-pentose phosphate pathway product erythrose-4-phosphate (E4P).
-
-## Chemical Nature of Chorismate
-
-Chorismate (3-((1R,2R)-1,2-dihydroxyethyl)-4-hydroxy-6-oxocyclohexa-
-1,4-diene-1-carboxylate) is a cyclohexadiene carboxylate derivative
-containing two enol ether functional groups and a single carboxylic
-acid. The molecule possesses a strained cyclohexadienyl ring system
-that is thermodynamically poised for rearrangement, which underlies
-the pericyclic reactions catalyzed by chorismate-utilizing enzymes.
-This inherent reactivity makes chorismate a versatile biosynthetic
-hub capable of feeding into diverse downstream metabolic routes.
-
-## The Five Major Branch Pathways
-
-Chorismate occupies a pivotal position at the intersection of five
-biosynthetic branches, each producing distinct classes of essential
-metabolites. The partitioning of chorismate among these pathways is
-tightly regulated and varies across organisms depending on
-metabolic demands and ecological niche.
-
-### 1. Tryptophan Biosynthesis
-
-The branch leading to tryptophan is of particular interest in
-mycology and psychopharmacology because tryptophan is the direct
-precursor to all [[tryptamine-family-overview]] alkaloids,
-including [[psilocybin-compound-profile]], DMT, and
-serotonin. This pathway proceeds through the sequential action of
-anthranilate synthase, phosphoribosyl transferase, and tryptophan
-synthase enzymes. See [[tryptophan-biosynthesis-from-chorismate]]
+of the [[tryptamine-family-overview]] alkaloids,
+including [[tryptophan-biosynthesis-from-chorismate]]
 for the complete enzymatic sequence.
 
 ### 2. Phenylalanine Biosynthesis
@@ -118,10 +84,7 @@ regulated through multiple mechanisms:
 
 The chorismate branch point is of special interest in the study of
 psychoactive fungi because the tryptophan branch ultimately feeds
-the [[psilocybin-biosynthesis-pathway]]. The availability of chorismate and the relative
-activity of branch-point enzymes directly influence the pool of
-tryptophan available for conversion to tryptamine by
-[[tryptophan-decarboxylase]].
+the [[tryptophan-decarboxylase]].
 
 Understanding chorismate partitioning is also relevant to
 biotechnological efforts to engineer fungi or bacteria for

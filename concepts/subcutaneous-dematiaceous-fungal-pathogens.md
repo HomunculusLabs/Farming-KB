@@ -143,7 +143,9 @@ Key virulence attributes of subcutaneous fungal pathogens include:
 - **Enzyme production**: Production of proteases, collagenases, and
   other tissue-degrading enzymes that facilitate tissue invasion
 
-- [[systemic-fungal-pathogens-vertebrate-ecology]]
 - [[fungal-invasive-species-and-exotic-pathogens]]
-- [[dematiaceous-fungi-melanin-fungal-ecology]]
 - [[fungal-virulence-factors-host-immune-evasion]]
+
+## See Also
+
+- [[dematiaceous-fungi-melanin-fungal-ecology]]

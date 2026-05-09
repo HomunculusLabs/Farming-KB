@@ -3,7 +3,7 @@ title: Fungal Species Estimation — Methods for Assessing Total Diversity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -140,10 +140,7 @@ Used to determine if sampling is sufficient to detect differences between sites:
 
 ## See Also
 
-- [[fungal-diversity-indices-community-analysis]]
 - [[beta-glucan-receptor-binding]]
-- [[dna-barcoding-fungal-identification]]
 - [[macrofungal-sampling-design-plots-transects]]
-- [[fungal-species-richness-and-diversity-indices]]
 - [[tropical-vs-temperate-fungal-diversity]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]

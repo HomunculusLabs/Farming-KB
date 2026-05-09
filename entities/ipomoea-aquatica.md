@@ -97,15 +97,7 @@ Despite its invasive potential, water spinach remains legally cultivated and sol
 
 ## See Also
 
-- [[ipomoea-batatas]]
 - [[ipomoea-tricolor]]
-- [[basella-alba]]
 - [[colocasia-esculenta]]
-- [[nelumbo-nucifera]]
 - [[euryale-ferox]]
-- [[trapa-natans]]
-- [[nymphaea]]
-- [[taro]]
-- [[duckweed]]
-- [[phragmites]]
 - [[lemna-minor]]

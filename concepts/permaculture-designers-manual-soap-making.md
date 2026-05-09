@@ -3,19 +3,7 @@ title: Soap Making
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Soap Making
-# Permaculture Designers Manual - Soap for Home and Garden Use
-
-updated: 2026-04-18
-
-## Overview
-
-Soap making in the permaculture context is directly tied to [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]], as the choice of soap determines whether wastewater can be safely used for garden irrigation. The Designers Manual provides critical information about soap composition and its effects on soil health, advocating for simple, biodegradable soaps that integrate with closed-loop waste management systems. The manual also references soap production and its role in appropriate technology for self-reliant communities.
+tags: [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]], as the choice of soap determines whether wastewater can be safely used for garden irrigation. The Designers Manual provides critical information about soap composition and its effects on soil health, advocating for simple, biodegradable soaps that integrate with closed-loop waste management systems. The manual also references soap production and its role in appropriate technology for self-reliant communities.
 
 ## Soap Composition and Soil Health
 
@@ -108,37 +96,8 @@ Soap, especially in drylands, is noted as a product where citrus and grains in a
 ### Routing Priorities
 
 The manual recommends careful routing of wastewater based on soap type:
-1. Plain soap greywater - safe for vegetable gardens and [[permaculture-designers-manual-mulch-systems]]
-2. Mild detergent greywater - route to tree systems and orchards
-3. Strong detergent/borax greywater - route to non-food trees or biological treatment
-4. Industrial laundry water - requires full treatment before any land application
-
-### Best Use Practices
-
-Plain soaps are best used where wastewater is used on crops. The key principle is that there is no blanket policy for greywater use, only specific cases where we can expect to gain yield and also clean up water if we know the composition of soils and soaps.
-
-## Soap as Pest Control
-
-Soapy water solutions can serve as insect control in gardens. The manual's references to soap in pest management include:
-- Biodegradable soap sprays for aphid and mite control
-- Soap-based products as alternatives to synthetic pesticides
-- Integration with biological pest management strategies
-
-## Self-Reliance Through Local Soap Production
-
-Local soap production supports permaculture principles of self-reliance and reduced dependency on external inputs. A community producing its own soap from local materials:
-- Controls exactly what goes into the soap
-- Avoids problematic additives
-- Creates a closed-loop system with greywater reuse
-- Reduces transport energy and packaging waste
-- Provides a potential cottage industry product
-
-## Sources
-
-- [[mollison-permaculture-two-zone-planning-and-site-layout]], *Permaculture: A Designers' Manual*, Sections 7, 11
+1. Plain soap greywater - safe for vegetable gardens and [[mollison-permaculture-two-zone-planning-and-site-layout]], *Permaculture: A Designers' Manual*, Sections 7, 11
 - Kevin Handreck, CSIRO Division of Soils - detergent analysis
-- [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-water-quality]]
-- [[permaculture-designers-manual-soap-candle-making]]
 - [[soil-erosion-control]]
 - [[permaculture-designers-manual-plant-toxins-dryland]]

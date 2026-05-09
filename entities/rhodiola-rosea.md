@@ -53,17 +53,7 @@ sources: []
 
 Rhodiola rosea is a dioecious perennial herb, meaning individual plants are either male or female. The economically important part is the thick, fleshy rhizome, which grows 5-35 cm long and emits a characteristic rose-like aroma when cut, ranging in color from golden-orange to pinkish-red.
 
-**Stems** are erect, unbranched or sparingly branched, reaching 5-40 cm tall (up to 70 cm [[mushroom-mites-and-nematodes-in-cultivation]]). They arise from a dense basal tuft of leaves.
-
-**Leaves** are fleshy, sessile, ovate to elliptic, measuring 1-4 cm long and 0.5-1.5 cm wide. Margins are entire or crenulate, and the surface is glaucous-green. Leaves are alternate and often overlap near the stem base in 2-4 rows, becoming deciduous.
-
-**Flowers** are small (4-6 mm), yellow to yellowish-green, borne in dense terminal corymbose cymes. Each flower has 4 petals, 4 sepals, and typically 8 stamens. Male flowers bear 8 functional stamens; female flowers have a superior ovary with 4 carpels. Blooming occurs June-August depending on latitude and elevation.
-
-**Fruit** consists of erect follicles, 6-8 mm long, containing numerous small oblong brown seeds (~1 mm). Reproduction occurs both sexually via seed and vegetatively through rhizome division. Seed germination benefits from cold stratification.
-
-## Geographic Distribution and Habitat
-
-Rhodiola rosea has a circumpolar arctic-alpine distribution spanning three continents. [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]**, it occurs throughout Scandinavia (Norway, Sweden, Finland), Iceland, the British Isles (Scotland, rare in northern England and Wales), the Carpathian Mountains, Alps, Pyrenees, Apennines, Balkans, and European Russia. In **Asia**, it ranges across Siberia, the Altai and Sayan Mountains, Kamchatka, Mongolia, northern China (Xinjiang, Inner Mongolia, Heilongjiang), Tibet, the Himalayas (Nepal, Bhutan), and Central Asian republics (Kazakhstan, Kyrgyzstan, Tajikistan). In **North America**, it is found in Alaska, northern Canada (Yukon, Northwest Territories, Nunavut, Labrador, Newfoundland), and the Rocky Mountains south to Colorado at high elevations.
+**Stems** are erect, unbranched or sparingly branched, reaching 5-40 cm tall (up to 70 cm [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]**, it occurs throughout Scandinavia (Norway, Sweden, Finland), Iceland, the British Isles (Scotland, rare in northern England and Wales), the Carpathian Mountains, Alps, Pyrenees, Apennines, Balkans, and European Russia. In **Asia**, it ranges across Siberia, the Altai and Sayan Mountains, Kamchatka, Mongolia, northern China (Xinjiang, Inner Mongolia, Heilongjiang), Tibet, the Himalayas (Nepal, Bhutan), and Central Asian republics (Kazakhstan, Kyrgyzstan, Tajikistan). In **North America**, it is found in Alaska, northern Canada (Yukon, Northwest Territories, Nunavut, Labrador, Newfoundland), and the Rocky Mountains south to Colorado at high elevations.
 
 Habitats include arctic tundra, alpine meadows, rocky ledges, scree slopes, cliff faces, river gravels, and sandy shores. Elevation ranges from sea level in the Arctic to above 3,000 m in southerly latitudes. The species prefers well-drained, sandy or gravelly soils and is often found on north-facing slopes. It requires winter dormancy with near-freezing temperatures.
 
@@ -109,13 +99,7 @@ Rhodiola rosea exerts multi-target pharmacological effects through several inter
 
 **Anti-fatigue effects:** Increases ATP synthesis and mitochondrial biogenesis (via PGC-1 alpha), reduces lactate accumulation during exercise, enhances glycogen synthesis, and modulates fatty acid oxidation.
 
-**Neuroprotection:** Reduces [[reactive-oxygen-species-and-oxidative-stress]] via increased SOD, catalase, and glutathione peroxidase; anti-inflammatory action through inhibition of NF-kB, COX-2, iNOS, TNF-alpha, IL-6, and IL-1 beta; promotes hippocampal neurogenesis via BDNF upregulation; reduces amyloid-beta accumulation and tau phosphorylation; enhances long-term potentiation (LTP).
-
-Clinical evidence is strongest for anti-fatigue effects, supported by multiple double-blind placebo-controlled RCTs in physicians on night duty, military cadets, students during exams, and patients with chronic fatigue syndrome (effective dose: 200-600 mg/day standardized extract). Moderate evidence supports stress reduction and cognitive enhancement under fatigued conditions. For mild-to-moderate depression, a notable RCT (Mao et al., 2015) showed *R. rosea* comparable to sertraline with fewer side effects. The EMA HMPC monograph recognizes it as a traditional herbal medicine for temporary relief of stress, fatigue, and weakness.
-
-## Cultivation and Sustainability
-
-Rhodiola is cold-hardy (USDA Zones 1-7) and prefers well-drained sandy or loamy soil (pH 5.5-7.5) with full sun to partial shade. Seed germination requires cold stratification (2-4 weeks at 2-5 degrees C), with germination rates of 20-60%. Commercial propagation is primarily through rhizome division (2-3 years to harvest) rather than seed (3-5 years). [[stamets-spore-germination-and-tissue-culture]] protocols exist and are increasingly important for commercial production of elite chemotypes. Harvest occurs in autumn after above-ground parts die back. Drying temperature significantly affects chemical composition; excessive heat degrades rosavins.
+**Neuroprotection:** Reduces [[stamets-spore-germination-and-tissue-culture]] protocols exist and are increasingly important for commercial production of elite chemotypes. Harvest occurs in autumn after above-ground parts die back. Drying temperature significantly affects chemical composition; excessive heat degrades rosavins.
 
 **Wild harvesting is a major conservation concern.** Slow growth rates and overcollection have severely depleted wild populations in parts of Russia, Mongolia, China, and Scandinavia. China strictly regulates wild collection. The IUCN lists *R. rosea* as Least Concern globally, but regional populations are declining. Cultivation is strongly encouraged to reduce pressure on wild stocks. Adulteration with cheaper Rhodiola species (*R. crenulata*, *R. fastigiata*, *R. sachalinensis*) is a significant industry problem.
 
@@ -131,15 +115,7 @@ Key drug interactions include additive serotonergic effects with antidepressants
 
 ## Legal Status
 
-In the [[psychedelic-research-legal-history-united-states]], *R. rosea* is sold as a dietary supplement under DSHEA. The European Union has an EMA HMPC monograph; it is registered as a traditional herbal medicinal product in several EU countries. Canada licenses it as a Natural Health Product with an NPN. Russia officially approves it in the Pharmacopoeia as an adaptogenic medicine. China lists it in the Chinese Pharmacopoeia and regulates it as a traditional Chinese medicine. Australia lists it on the ARTG as complementary medicine. Japan regulates it as a dietary supplement under Food with Health Claims.
-
-## Related Species
-
-The genus *Rhodiola* contains 60-90 species. *R. crenulata* is the primary Chinese "hong jing tian" species; high in salidroside but lacking rosavins, and the most common adulterant of *R. rosea* products. *R. sachalinensis* (native to Sakhalin, Japan, Korea) and *R. kirilowii* are used in Chinese medicine. *R. fastigiata* and *R. quadrifida* are traditional Siberian and Himalayan species respectively. *R. integrifolia* is a North American arctic-alpine native. Many species were formerly classified in the genus *Sedum*, and molecular phylogenetic studies continue to refine species boundaries within the genus.
-
-## See Also
-
-- [[nootropic-herbs-guide]]
+In the [[attractylodes-macrocephala]]
 
 - [[adaptogenic-herbs-guide]]
 - [[adaptogenic-herbs-overview]]

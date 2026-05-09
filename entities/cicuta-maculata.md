@@ -115,6 +115,9 @@ Despite its toxicity, *C. maculata* plays ecological roles:
 
 ## See Also
 
-- [[atropa-belladonna]] — Deadly nightshade, classic European toxic plant
 - [[digitalis-purpurea]] — Foxglove, another toxic plant with medicinal cardiac compounds
 - [[nicotine]] — Nicotine, plant-derived neurotoxin with overlapping toxicity
+
+## See Also
+
+- [[native-american-planting-methods-and-indigenous-agriculture]]

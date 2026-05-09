@@ -126,10 +126,7 @@ The key principle at any scale is that each farm should produce as many of its o
 
 ## See Also
 
-- [[ultra-low-cost-farming-overview]]
 - [[ultra-low-cost-soil-fertility]]
-- [[ultra-low-cost-pest-control]]
 - [[backyard-livestock-integration-design]]
-- [[aquaculture-in-permaculture]]
 - [[chos-global-natural-farming-livestock-applications]]
 - [[homesteading]]

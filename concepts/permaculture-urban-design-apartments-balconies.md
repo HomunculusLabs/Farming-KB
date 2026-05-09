@@ -3,7 +3,7 @@ title: Permaculture Urban Design: Apartments and Balconies
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -105,39 +105,7 @@ Rooftops offer the most growing space in urban settings but require special cons
 - Provide larger growing plots (typically 10x10 to 20x20 feet)
 - Access to shared tools, compost, water, and community knowledge
 - Opportunities to grow staples (potatoes, squash, corn) that need more space
-- Connect with [[permaculture-design-principles]] through hands-on practice
-
-### Guerrilla Gardening
-
-- Transform neglected urban spaces (vacant lots, traffic medians, sidewalk strips) into productive gardens
-- Focus on perennial, low-maintenance plants that establish quickly
-- Seed balls (clay, compost, seeds) are a low-commitment approach
-- Be aware of legal considerations; many cities have programs to adopt vacant lots
-
-## Apartment Permaculture Strategies
-
-- **Observe before acting**: Track sunlight patterns on your balcony through the day and across seasons before committing to plant placements
-- **Start small and expand**: Master a few containers before scaling up
-- **Close loops**: Compost kitchen scraps in a worm bin, use castings in containers, save seeds from successful plants
-- **Stack functions**: A herb garden provides food, insect habitat, aromatherapy, and beauty simultaneously
-- **Use edges**: Balcony railings, window frames, and corners are prime growing locations
-
-## Yields from Small Spaces
-
-A well-managed balcony garden (4x8 feet) can produce:
-- Herbs year-round (fresh and dried)
-- Greens and salad vegetables for 2-3 people through the growing season
-- Tomatoes, peppers, and bush beans in summer
-- Strawberries, blueberries, or dwarf fruit trees in containers
-- Sprouts and microgreens indoors year-round
-
-The key is intensive planting, succession sowing, and choosing high-yield, space-efficient varieties.
-
-## Related
-
-- [[succession-in-permaculture]]
-- [[urban-permaculture-edge-effect-and-design-principles]]
+- Connect with [[succession-in-permaculture]]
 - [[permaculture-principle-design-from-patterns-to-details]]
-- [[permaculture-community-scale-design]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

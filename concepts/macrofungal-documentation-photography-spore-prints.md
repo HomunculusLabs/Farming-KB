@@ -121,14 +121,7 @@ Not every specimen needs to be collected. Consider:
 
 ## See Also
 
-- [[fungal-specimen-preparation-herbarium-management]]
 - [[macrofungal-sampling-design-plots-transects]]
-- [[fungal-culture-media-formulas-applications]]
-
-## Related
-
 - [[mushroom-identification]]
-- [[mushroom-hunting-and-identification]]
 - [[fungal-specimen-collection-herbarium-management]]
-- [[water-activity-osmophilic-fungal-media-preparation]]
 - [[fungi-in-the-environment-fungal-spore-dispersal]]

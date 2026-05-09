@@ -124,14 +124,8 @@ mushrooms cause both visual and auditory hallucinations.
 
 ## Related Topics
 
-- [[plants-of-the-gods-conocybe-psychoactive-mushrooms]] —
-  other genera of psychoactive mushrooms
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
   chemical structures of psilocybin and psilocin
-- [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] —
-  another major Mexican hallucinogen
 - [[plants-of-the-gods-claviceps-ergot-alkaloids]] — ergot,
   which shares alkaloid chemistry with morning glories
-- [[plants-of-the-gods-hallucinogens-medicine]] — medical
-  research on psychoactive fungi
 - [[plants-of-the-gods-datura-species-toloache]]

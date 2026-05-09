@@ -43,26 +43,6 @@ and potentially stressful environment. VPD accounts for both temperature and
 humidity variables simultaneously in a single number that directly reflects
 what the plant is actually experiencing in your grow room.
 
-The [[cervantes-vapor-pressure-deficit-transpiration]]
-explains that plants transpire by opening tiny pores called stomata on their
-leaf surfaces. They release water vapor into the surrounding air through these
-microscopic openings. The driving force behind this transpiration is the vapor
-pressure deficit between the inside of the leaf, which is essentially 100
-percent saturated, and the drier room air outside.
-
-This concentration gradient creates the pull that moves water upward through
-the plant from roots to canopy. Transpiration serves multiple critical functions
-for healthy cannabis development. As water evaporates from the leaf surface,
-it creates a negative pressure gradient in the xylem tissue. This powerful
-gradient pulls water and dissolved nutrients up from the roots to every part of
-the plant canopy through passive capillary action.
-
-This passive nutrient delivery system is entirely dependent on the rate of
-transpiration occurring at the leaf surface. When transpiration slows or stops,
-nutrient transport also slows or stops. This is why maintaining proper VPD is
-directly connected to your plant's ability to feed itself efficiently from the
-root zone up to the tallest bud sites in the canopy.
-
 The [[stomata-transpiration-and-plant-water-regulation]] describes how specialized guard cells control each stoma opening. These
 guard cells open and close in response to environmental conditions including
 light, CO2 levels, and vapor pressure deficit. When VPD is in the optimal
@@ -86,63 +66,24 @@ The optimal VPD range varies by growth stage. During seedling and clone phase,
 a VPD of 0.4 to 0.8 kPa is ideal. During vegetative growth, the optimal range
 increases to 0.8 to 1.2 kPa. During flowering, the sweet spot shifts to 1.0
 to 1.5 kPa. These ranges serve as targets for your overall
-[[cannabis-nutrient-management]] strategy throughout the grow.
-
-Calculating VPD requires knowing both air temperature and relative humidity at
-canopy level. You can use a VPD chart, online calculator, or mobile app. Many
-modern grow controllers calculate VPD automatically. Investing in quality
-sensors with temperature accuracy within one degree and humidity accuracy
-within three percent provides the most reliable and actionable VPD readings.
-
-Temperature has a dramatic effect on VPD at any given humidity level. Raising
-temperature by just a few degrees significantly increases VPD because warmer
-air has a higher saturation point. The [[cervantes-reservoir-temperature-management]] emphasizes that small temperature adjustments can
+[[cervantes-reservoir-temperature-management]] emphasizes that small temperature adjustments can
 fine-tune VPD without changing the actual moisture content of the air in your
 grow room.
 
-[[cervantes-humidity-control-dehumidification]] is the primary
-tool for lowering VPD when conditions are too dry relative to temperature.
-Adding a humidifier increases moisture and lowers VPD. Combining temperature
-control with humidity management gives you two independent knobs for precise
-VPD adjustment. [[greg-green-temperature-and-humidity-control]] centers on VPD as the master metric, adjusting both variables to
+[[greg-green-temperature-and-humidity-control]] centers on VPD as the master metric, adjusting both variables to
 maintain the target range.
 
 Leaf temperature is often overlooked but important for accurate calculations.
 The leaf surface can be several degrees cooler than ambient air due to
 transpirational cooling. Infrared thermometers can measure leaf temperature
 directly for calculations that reflect the plant's actual experience. A well-
-designed [[cannabis-indoor-ventilation-setup]] maintains
-consistent VPD throughout the space by preventing stagnant air microclimates.
+designed [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] explains how low VPD
+conditions promote [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]].
 
-VPD management becomes especially critical during late flowering when dense buds
-create humid microclimates within the canopy. The [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] explains how low VPD
-conditions promote [[botrytis-cinerea]] infections. Maintaining VPD above 1.0 kPa
-during flowering significantly reduces this risk. Powdery mildew also thrives
-in low VPD environments, as noted in the [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]].
-
-For comprehensive environmental control, the [[query-how-to-manage-humidity-cannabis-grow-room]] provides step-by-step instructions
-for setting up systems that maintain optimal VPD throughout the entire grow
-cycle from clone to harvest.
-
-## Key Points
-
-- VPD measures the drying power of air by combining temperature and humidity
-  into one unified metric for cannabis growers
-- Optimal VPD drives transpiration, which powers nutrient transport from roots
-  to canopy through the plant's vascular system
-- Target 0.4 to 0.8 kPa for seedlings, 0.8 to 1.2 kPa for vegetative growth,
-  and 1.0 to 1.5 kPa for flowering stage plants
-- Low VPD impairs transpiration and promotes fungal pathogens like bud rot and
-  powdery mildew in the dense canopy
-- High VPD causes stomatal closure, wilting, and complete shutdown of nutrient
-  transport to upper growth sites
-- A quality [[cannabis-indoor-ventilation-setup]] with both
+For comprehensive environmental control, the [[cannabis-indoor-ventilation-setup]] with both
   humidification and dehumidification enables precise VPD control
 
 ## Related
 
-- [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]] Questions
-
 - [[query-how-to-manage-humidity-cannabis-grow-room]]
-- [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]

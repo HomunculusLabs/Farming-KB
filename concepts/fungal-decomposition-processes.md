@@ -3,7 +3,7 @@ title: Fungal Decomposition Processes
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Decomposition Processes
@@ -62,27 +62,12 @@ The end product of fungal decomposition is humus -- a complex, dark-colored orga
 
 ## Decomposition in Aquatic and Wetland Ecosystems
 
-Fungal decomposition extends beyond terrestrial systems. In freshwater streams, aquatic hyphomycetes (aero-aquatic fungi) decompose leaf litter, playing a role analogous to terrestrial decomposers. Specialized fungi also decompose non-lignocellulosic substrates — for example, [[fungal-keratin-decomposition-processes]] targets structural proteins in animal remains. In wetlands, waterlogged conditions create anaerobic zones where decomposition is slowed, but fungi still contribute to partial decomposition and peat formation. Salt marsh decomposition involves both terrestrial fungi washed in from adjacent uplands and specialized halotolerant species.
-
-## Decomposition and Carbon Balance
-
-The fate of decomposed carbon determines whether ecosystems function as carbon sources or sinks:
-- In systems where decomposition outpaces primary production, carbon is released to the atmosphere
-- In systems where decomposition is slow (boreal forests, peatlands), carbon accumulates in soil
-- Fungal biomass turnover releases carbon through respiration, while fungal residues (chitin, melanin) contribute to long-term carbon storage
-- The fungal contribution to carbon balance is thus determined by both decomposition rate and the proportion of decomposed carbon retained in recalcitrant fungal residues
-
-## See Also
-
-- [[fungal-enzyme-systems]] for details on the specific enzymes involved
-- [[fungal-decomposition-nutrient-cycling]] for nutrient cycling implications
+Fungal decomposition extends beyond terrestrial systems. In freshwater streams, aquatic hyphomycetes (aero-aquatic fungi) decompose leaf litter, playing a role analogous to terrestrial decomposers. Specialized fungi also decompose non-lignocellulosic substrates — for example, [[fungal-enzyme-systems]] for details on the specific enzymes involved
 - [[soil-food-web-structure]] for the role of fungi in soil food webs
-- [[fungal-decomposition-succession-resource-quality]] for detailed succession patterns
 - [[fungal-biology-fundamentals]] for fungal physiology basics
 
 ## Related
 
-- [[fungal-microbe-interactions]]
 - [[fungal-chromogens-and-color-change]]
 
 ## Merged: Aquatic and Marine Fungal Ecology

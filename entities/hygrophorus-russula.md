@@ -139,10 +139,6 @@ at planting time, though commercial inoculum is not widely available.
 
 ## See Also
 
-- [[hygrophorus-chlorophanus]]
-
 - [[cantharellus-cibarius-entity]]
-- [[boletus-edulis-entity]]
 - [[lactarius-deliciosus]]
-- [[agaricus-sylvicola]]
 - [[tricholoma-equestre]]

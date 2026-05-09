@@ -22,34 +22,6 @@ while wicking beds water from the bottom up and maintain a consistent
 moisture level in the root zone with significantly less irrigation.
 
 ## Raised Beds
-[[raised-bed-gardening]]
-Raised beds are garden frames built from wood, stone, metal, or composite
-materials and filled with a custom soil mix. They elevate the growing
-surface above the surrounding ground level, improving drainage, reducing
-soil compaction from foot traffic, and allowing gardeners to create optimal
-soil conditions regardless of their native ground soil quality. Raised beds
-warm up faster in spring, extend the growing season in cool climates, and
-provide a defined growing area that makes crop rotation, weeding, and
-harvesting more organized and efficient.
-
-The simplicity of raised beds is one of their greatest strengths. They
-require no specialized plumbing or water management systems beyond basic
-watering by hose, drip line, or watering can. The soil in raised beds
-drains freely, which prevents waterlogging and root rot in heavy rainfall
-areas. Gardeners have complete control over the soil composition, allowing
-them to blend the perfect mix of compost, topsoil, and amendments for their
-specific crops. Raised beds can be built in any size and configuration to
-fit available space and accessibility needs.
-
-The main limitations are increased water requirements compared to in-ground
-gardening (the elevated soil dries out faster) and the initial cost and
-labor of building frames and filling them with quality soil mix. Raised
-beds also require more frequent watering during hot, dry weather. The
-improved drainage that benefits most crops can be a disadvantage for
-moisture-loving plants unless extra attention is paid to irrigation
-scheduling.
-
-## Wicking Beds
 [[wicking-bed-construction]]
 Wicking beds are raised beds with a built-in water reservoir at the bottom,
 separated from the growing medium by a geotextile fabric barrier. Water
@@ -121,8 +93,6 @@ standard raised beds to automate watering while maintaining the simplicity
 of the basic raised bed design.
 
 ## See Also
-- [[comparison-hugelkultur-vs-wicking-bed]]
 - [[comparison-raised-beds-vs-hugelkultur]]
-- [[comparison-wicking-bed-vs-raised-bed]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]

@@ -36,22 +36,7 @@ dung-inhabiting species, probably Panaeolus.
 Between 1941 and 1945, numerous reports appeared in Australian journals
 regarding poisoning by what mycologists believed were Panaeolus ovatus, the
 suspected "hysteria fungus." Since this species is not psychoactive, it is now
-believed that the mushrooms in question were [[panaeolus-cyanescens-bali-omelette]]
-(Unsigned, 1941; Trotter, 1944).
-
-James H. Willis, in his 1957 book "Victorian Toadstools and Mushrooms,"
-published an interesting anecdote regarding these reports: "Rumour has it that
-they will cause an intoxication under which the victim suffers a strange
-sensation of growing taller and over-topping the objects about him: Who knows
-but this may (very well) be the magic mushroom of 'Alice In Wonderland' fame."
-
-## Brisbane Hospital Cases (1957-1963)
-
-Dr. A. E. Stocks (1963) reported that between 1957 and 1963, 11 patients
-were admitted to the Princess Alexandra Hospital in Brisbane due to
-complications from poisoning by several different species of toxic and/or
-mind-altering fungi. Five of these cases were definitively caused by
-psilocybian mushrooms ([[psychedelic-mushrooms-species-and-identification]]), and two additional patients
+believed that the mushrooms in question were [[psychedelic-mushroom-set-and-setting]]), and two additional patients
 were also probably affected by psilocybian intoxication.
 
 Stocks's paper presented two notable case histories:
@@ -95,31 +80,7 @@ molest the nurses who were attempting to treat his illness."
 
 A 17-year-old female drug user from Adelaide, with a history of marijuana use
 and one previous LSD experience, sought medical treatment after having a "bad
-trip" while under the influence of [[panaeolus-cyanescens-bali-omelette]] obtained near
-Adelaide. She became frightened and sought immediate medical attention because
-she thought that she was a banana and that somebody was attempting to skin her
-(Southcott, 1974).
-
-## The Campbelltown Child Case (1972-1974)
-
-Perhaps the most extensively documented case involved a 3-year-old girl from
-Campbelltown, a suburb of Adelaide. Beginning in 1972, she experienced repeated
-episodes of hallucinations marked by being cold and clammy, with frequent bed
-urination. Attacks commenced about six to eight hours after being allowed to
-play outdoors. Symptoms included seeing colored lights on the ceiling, seeing
-cats that were not there, and feeling that she was bigger than she really was.
-
-Dr. Roy Watling identified the fungal specimens found in the child's yard as
-Panaeolina foenisecii. However, the delayed onset of symptoms (6-8 hours vs.
-the typical 15-30 minutes for psilocybin) and the child's habit of pica (eating
-dirt, grass, leaves, and twigs) make the attribution questionable. Allen and
-Merlin (1992) concluded that P. foenisecii is not psychoactive.
-
-## Misidentification Dangers
-
-A significant danger in the Australian context involves Chlorophyllum
-molybdites ("green gills" or "Morgan's Lepiota"), which is common in Australia
-and may be mistaken for [[psychedelic-mushrooms-species-and-identification]]. In Florida, over 90% of all
+trip" while under the influence of [[psychedelic-mushroom-set-and-setting]]. In Florida, over 90% of all
 mushroom poisonings were reportedly the result of ingesting C. molybdites. The
 inherent danger from ingesting wild mushrooms lies not so much in consuming a
 hallucinogenic variety, but rather in picking and eating a toxic species which
@@ -127,8 +88,9 @@ might resemble a hallucinogenic one.
 
 ## See Also
 
-- [[psilocybian-fungi-law-australia-nz]]
-
 - [[european-mushroom-poisoning-history]] -- comparative poisoning history
-- [[mycophobia-in-western-culture]] -- cultural attitudes toward mushrooms
 - [[psychedelic-mushroom-set-and-setting]] -- factors influencing experiences
+
+## See Also
+
+- [[psilocybin-mushrooms-asia-australia-distribution]]

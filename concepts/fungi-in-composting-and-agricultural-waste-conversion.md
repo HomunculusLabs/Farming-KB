@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [composting, soil]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 # Fungi in Composting and Agricultural Waste Conversion
@@ -77,28 +78,10 @@ Composting is the treatment of choice when waste materials cannot serve as subst
 
 ## Integration with Soil Bioremediation
 
-Composting integrates with broader [[soil-food-web-nutrient-cycling]] processes, connecting waste decomposition to nutrient availability for plants and soil organisms. Fungi serve as bridge organisms, transforming recalcitrant organic matter into forms accessible to other members of the soil food web. The thermophilic phase of composting, driven in part by fungal metabolism, is critical for sanitizing waste materials.
-
-The end product of composting -- humus -- improves soil structure, water retention, and nutrient availability. Fungal hyphae contribute to soil aggregate formation, enhancing the physical properties of amended soils. This connection between composting and soil health underscores the importance of fungal processes in sustainable agriculture.
-
-## Thermophilic Fungi in Composting
-
-Thermophilic fungi are a critical component of the composting microbiota during the high-temperature phase. Key thermophilic species include Thermomyces lanuginosus, Talaromyces thermophilus, Aspergillus fumigatus, Myriococcum thermophilum, and Scytalidium thermophilum. These organisms produce thermostable enzymes that remain active at temperatures exceeding 50C, where most mesophilic organisms cannot survive.
-
-The ability of thermophilic fungi to degrade cellulose and hemicellulose at elevated temperatures accelerates the composting process and ensures more complete stabilization of organic waste. Their spores survive the cooling phase and can re-establish active populations when conditions become favorable again.
-
-## See Also
-
-- [[soil-food-web-nutrient-cycling]]
-
-- [[soil-food-web-nutrient-cycling]]
+Composting integrates with broader [[soil-food-web-nutrient-cycling]]
 
 - [[organic-composting-methods]]
 
-- [[white-rot-fungi-bioremediation]]
-
 - [[fungal-bioremediation]]
-- [[fungal-solid-state-fermentation-agricultural-waste]]
 - [[fungal-single-cell-protein-production]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[humus-formation-and-soil-organic-matter]]

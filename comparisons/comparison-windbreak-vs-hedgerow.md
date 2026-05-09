@@ -13,40 +13,6 @@ and support ecosystems, but they differ significantly in primary purpose, design
 philosophy, scale, and complexity. Understanding these distinctions is essential
 for choosing the right strategy for a given site, climate, and set of goals.
 ## Windbreak
-[[windbreak-and-shelterbelt-design]]
-Linear plantings of trees and shrubs designed primarily to reduce wind speed,
-protect crops and buildings, conserve soil moisture, and provide wildlife
-habitat. Windbreaks typically consist of 1-3 rows and protect specific targeted
-areas, while shelterbelts (5+ rows) offer broader large-scale agricultural
-protection across entire fields or farmsteads.
-### Design Principles
-- **Height governs the protection zone:** The area sheltered extends 10-15x
-  the mature tree height downwind of the planting
-- **Optimal density:** 40-60% wind penetration is ideal; overly dense
-  plantings create severe downwind turbulence that defeats the purpose
-- **Length:** Should extend at least 10x the height beyond the protected area
-  on both ends to prevent wind wrapping around the edges
-- **Orientation:** Planted perpendicular to prevailing winds for maximum
-  effectiveness; angle adjustments needed where wind direction varies
-- **Multi-row gradient:** Low shrubs on the windward side, tall deciduous
-  trees in the center, shrubs on the leeward side to smooth the airflow
-### Benefits
-- Significant crop yield improvement (10-25% or more) through reduced wind
-  stress, lower evapotranspiration, and warmer soil temperatures
-- Soil erosion reduction on exposed sites, especially valuable on flat
-  agricultural land prone to wind-driven topsoil loss
-- Energy savings for nearby heated or cooled buildings (up to 20-30%
-  reduction in heating costs in cold climates)
-- Wildlife support increases with species diversity, particularly when
-  nitrogen-fixing and food-producing species are included in the mix
-### Limitations
-- Takes several years to reach effective height and density; full wind
-  protection benefits may not be realized for 5-10 years
-- Requires significant initial planning, site preparation, and sustained
-  weed control during the establishment phase
-- Overly dense plantings create downwind turbulence that can worsen conditions
-  for crops immediately behind the barrier
-## Hedgerow
 [[hedgerow-planting]]
 Dense multi-species rows of shrubs, trees, and herbaceous plants serving
 simultaneously as living fences, windbreaks, wildlife corridors, and foraging
@@ -121,6 +87,5 @@ winds and designed with sufficient height and appropriate density. The most
 resilient and productive designs often blend both approaches, matching row
 count and species complexity to the site's scale and functional priorities.
 ## See Also
-- [[silvopasture-systems]]
 - [[edge-effect-in-permaculture]]
 - [[wildlife-habitat-creation]]

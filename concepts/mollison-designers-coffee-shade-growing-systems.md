@@ -72,26 +72,7 @@ be integrated at this level where climate permits.
 At the coffee shrub level, the system produces its primary crop while
 also providing habitat for insectivorous birds that control coffee
 pests. Below the coffee, ground cover species such as cover crops,
-edible weeds, and [[mollison-designers-chickweed-and-edible-weeds]] protect
-soil, suppress weeds, and maintain soil moisture. This layered structure
-creates a continuous vertical habitat that supports far greater
-biodiversity than simplified systems.
-
-## Soil and Nutrient Management
-
-Coffee is a heavy feeder that requires regular nutrient inputs for
-sustained production. In shade coffee systems, much of this nutrient
-demand is met through internal cycling rather than external fertiliser.
-Nitrogen-fixing canopy trees, leaf litter decomposition, pruning
-residues, and ground cover biomass create a continuous nutrient cycle
-that maintains soil fertility.
-
-Mollison emphasises the importance of maintaining soil organic matter
-in coffee systems. Mulch layers of coffee pulp (a processing byproduct),
-pruning residues, and leaf litter protect soil from erosion and
-temperature extremes while providing substrate for soil organisms that
-decompose organic matter and release nutrients in plant-available forms.
-Composted animal manure from [[mollison-designers-poultry-forage-design-pastured-systems]] or livestock
+edible weeds, and [[mollison-designers-poultry-forage-design-pastured-systems]] or livestock
 integrated into the system supplements the internal nutrient cycle.
 Coffee processing waste, often a pollution problem in conventional
 systems, becomes a valuable resource when composted and returned to the
@@ -110,32 +91,7 @@ Coffee berry borer, the most serious coffee pest worldwide, is
 significantly less prevalent in shaded systems where its natural enemies
 are abundant. Leaf rust (Hemileia vastatrix) is moderated by the more
 stable microclimate under shade, which reduces the humidity extremes
-that favour rust development. [[mollison-designers-integrated-pest-management-design]]
-in shade coffee relies on monitoring, biological controls, cultural
-practices, and resistant varieties rather than prophylactic chemical
-applications.
-
-## Multi-Strata Design and Yield Diversity
-
-The economic strength of shade coffee systems lies in their diversified
-yield. While coffee provides the primary income, the system also produces
-timber, firewood, fruit, fodder, mulch material, and potentially honey
-from bees foraging the diverse flowering plants. This diversification
-spreads economic risk across multiple products and harvest seasons,
-reducing vulnerability to coffee price fluctuations.
-
-Mollison argues that the total economic yield of a well-designed shade
-coffee system, measured across all products and services, exceeds that
-of a full-sun monoculture even when coffee yield alone is lower. When
-accounting for reduced input costs, premium quality prices, and
-ecosystem services such as watershed protection and carbon
-sequestration, the advantage of shade systems becomes compelling.
-
-## Cross-References
-
-- mollison designers agroforestry and integrated tree crops: Broader agroforestry
-- [[mollison-designers-food-forest-succession-design]]: Multi-strata design principles
-- [[mollison-designers-mixed-orchard-design-species-selection]]: Canopy management
+that favour rust development. [[mollison-designers-food-forest-succession-design]]: Multi-strata design principles
 - [[mollison-designers-integrated-pest-management-design]]: Biological pest control
 - mollison designers nutrient cycling: Nutrient cycling in polycultures
 - [[mollison-designers-poultry-forage-design-pastured-systems]]: Livestock integration

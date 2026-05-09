@@ -117,7 +117,9 @@ fruited shoots after harvesting.
 
 ## See Also
 
-- [[hamilton-fruit-tree-selection-pollination]]
 - [[hamilton-greenhouse-management-organic]]
-- [[hamilton-soft-fruit-cultivation]]
 - [[hamilton-organic-fruit-growing]]
+
+## See Also
+
+- [[growing-tree-fruit-organically]]

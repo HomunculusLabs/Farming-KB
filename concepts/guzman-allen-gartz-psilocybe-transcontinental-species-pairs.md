@@ -13,12 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzman G, Allen JW, Gartz J (2000) A worldwide geographical distribution
-    of the [[southern-hemisphere-origin-of-neurotropic-fungi]], an analysis and discussion. Ann. Mus. civ.
-    Rovereto 14:189-280.
-type: concept
----
-
-## Over [[neurotropic-fungi-biogeographic-patterns]] significant biogeographic patterns identified by Guzman, Allen
+    of the [[neurotropic-fungi-biogeographic-patterns]] significant biogeographic patterns identified by Guzman, Allen
 and Gartz (2000) is the existence of transcontinental species pairs in
 Psilocybe that suggest ancient Gondwanan and South Pacific connections.
 These disjunct distributions, where closely related species occur on widely
@@ -29,11 +24,9 @@ agarics and boletes.
 
 ## The Gondwanan Connection
 
-Guzman, Allen and Gartz (2000) concluded that neurotropic [[psilocybe-species-europe]]
-likely originated in the southern hemisphere, mainly [[neurotropic-fungi-in-south-america]], based
+Guzman, Allen and Gartz (2000) concluded that neurotropic [[neurotropic-fungi-in-south-america]], based
 on the high diversity there, and from that region reached northern parts
-([[palmer-edible-mushrooms-north-america]] and Europe). This south-to-north colonization hypothesis is
-supported by the concentration of [[global-psychedelic-mushroom-species-diversity]] in the Austral hemisphere
+([[global-psychedelic-mushroom-species-diversity]] in the Austral hemisphere
 and subtropical regions.
 
 Of 85 neurotropic Psilocybe species analyzed by Guzman (1983), the majority
@@ -44,27 +37,6 @@ southern regions, suggesting genuine evolutionary history rather than sampling
 bias.
 
 ## Section Mexicanae Species Pairs
-
-### [[psilocybe-samuiensis]], P. makarorae, and P. mexicana
-
-The most compelling transcontinental relationship involves three species all
-belonging to Section Mexicanae:
-
-- **P. samuiensis** -- Known from Thailand (Koh Samui island), representing
-  the Southeast Asian element of the Section Mexicanae complex
-- **P. makarorae** -- Known from New Zealand, representing the southwest
-  Pacific element
-- **P. mexicana** -- Known from Mexico and Guatemala, representing the
-  Mesoamerican element
-
-All three species are closely related morphologically and phylogenetically.
-P. mexicana is one of the most famous neurotropic fungi, being the species
-used by the Mazatec Indians of Oaxaca, Mexico, and the first species from
-which Albert Hofmann isolated psilocybin in 1958. This tripartite distribution
-(Thailand, New Zealand, Mexico/Guatemala) spans the Pacific Ocean and suggests
-an ancient connection predating the breakup of continental landmasses.
-
-## Section Zapotecorum Species Pair
 
 ### [[psilocybe-aucklandii]] and P. zapotecorum
 
@@ -101,34 +73,7 @@ fungi:
 
 ### Type 1: Cosmopolitan Species
 
-Examples: Panaeolus spp. and [[panaeolina-foenisecii]].
-
-### Type 2: Northern Hemisphere Species
-
-Examples: Amanita spp., Cordyceps spp., Psilocybe pelliculosa, and P. silvatica.
-
-### Type 3: Eurasian Species
-
-Example: Amanita muscaria, found across Europe and northern Asia in
-mycorrhizal association with Pinus and Betula.
-
-### Type 4: North American and Eastern Asiatic Species
-
-Examples: P. graveolens, P. muliercula, P. pintonii (Americas) closely
-related to P. argentipes and P. subcaerulipes (Japan).
-
-### Type 5: Far Eastern Species
-
-No clear examples among neurotropic fungi from the Japanese perspective.
-
-### Type 6: Southeastern Asiatic Species
-
-Example: P. subaeruginascens var. subaeruginascens from Japan and Java, while
-var. septentrionalis is restricted to Japan.
-
-### Type 7: Tropical and Subtropical Species
-
-Examples: P. cubensis, P. subcubensis, [[copelandia-cyanescens]], C. tropicalis.
+Examples: Panaeolus spp. and [[copelandia-cyanescens]], C. tropicalis.
 Also possibly Gerronema fibula from Malaysia to South America.
 
 ### Type 8: Arctic and Alpine Species
@@ -141,7 +86,6 @@ P. baeocystis (Pacific Northwest) and P. quebecensis (Quebec, Canada).
 Many examples: C. siliginoides, P. muliercula, P. chiapanensis (Mexico);
 P. guatapensis, P. pintonii (Colombia); P. portoricensis (Puerto Rico); and
 Panaeolina species described by Hongo from Japan.
-
 ## See Also
 
 - [[guzman-allen-gartz-neotropical-psilocybe-species]]

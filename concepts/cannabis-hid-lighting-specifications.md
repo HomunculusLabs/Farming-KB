@@ -78,16 +78,10 @@ Placing lights too close causes leaf burn and heat stress; too far reduces inten
 
 ## See Also
 
-- [[cannabis-grow-room-setup]]
-
 - [[cannabis-lighting-guide]]
-
-- [[cannabis-co2-supplementation]]
 
 - [[cannabis-vegetative-growth-stage]]
 
-- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] Guide
 - [[first-time-grower-common-mistakes]]
-- [[cannabis-light-spectrum-and-color-bands]]
 - [[cannabis-indoor-ventilation-setup]]
 - [[cannabis-growth-stage-checklist]]

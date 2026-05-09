@@ -12,67 +12,7 @@ sources:
 
 ## Overview
 
-JADAM soil management centers on eliminating the compacted soil layer (plow pan), co-existing with wild grass, and building soil health through indigenous microorganisms. The fundamental principle: "roots represent the soil condition." The ratio of underground root area to aboveground plant area should be greater than one. Root area equals money.
-
-## The Plow Pan Problem
-
-### What Causes It
-The compacted soil layer forms from:
-- Frequent use of heavy machinery (hence the name "plow" pan)
-- Livestock manure with antibiotic residues
-- Chemical pesticides, fertilizers, and herbicides
-- Conventional farming and organic farming with plowing are mutually exclusive -- you must discard conventional practices to eliminate the plow pan
-
-### Why It Matters
-- Roots cannot penetrate through the compaction layer (typically 15-20 cm below surface)
-- Rainwater stagnates at shallow depth, slowly evaporates, leaves salt behind
-- Sky and earth are "blocked" -- material circulation stops
-- Salt, pollutants, and heavy metals accumulate
-- Farming becomes progressively more difficult
-
-### Detection
-1. Dig ~40 cm vertically; take out a chunk at 20 cm depth
-2. If it contains many roots, no compaction
-3. If no roots below 20 cm at multiple spots, compaction covers the field
-4. Alternative: push a sharp iron rod into soil -- if it won't go in, compaction exists
-
-### Solution
-- **Climb down from heavy machines** -- they are the main culprit destroying soil
-- Eliminate chemical inputs that kill microorganisms
-- Apply JMS, sea water, and phyllite solution to restore microbial life
-- Roots will gradually penetrate deeper as soil recovers
-
-## Co-Exist with Wild Grass
-
-### JADAM's Revolutionary Position on Weeds
-
-After 4-5 years of observation, JADAM concluded that **weeds are beneficial** and should be allowed to co-exist with crops. This is one of JADAM's most controversial but empirically validated positions.
-
-### Benefits of Wild Grass Cover
-- Keeps soil moist -- grass acts as living mulch
-- Soil becomes more fertile over time
-- Less disease incidence
-- Protects against global warming effects:
-  - Prevents early flowering
-  - Reduces freezing damage
-  - Moderates soil temperature fluctuations
-- Roots of grass open up soil, improving aeration and water infiltration
-- Grass is free fertilizer (when it dies and decomposes)
-
-### Against Black Plastic Mulch
-Black plastic mulch is strongly criticized by JADAM:
-- Soil temperature hits 45C during daytime, drops to 15C at night
-- This temperature swing "tortures" roots
-- Prevents natural soil processes
-- Creates waste and expense
-
-### How to Practice
-- Let wild grass grow between crop rows and around trees
-- Cut grass before it competes with crops, leave cuttings on soil surface
-- The grass will decompose and return nutrients to soil
-- Over time, soil becomes darker, richer, and more productive
-
-## Cover Crops
+JADAM soil management centers on eliminating the compacted soil layer (plow pan), co-existing with wild grass, and building soil health through [[cover-crops]]
 
 ### Hairy Vetch
 - Fixes approximately 20 kg of nitrogen per acre
@@ -121,10 +61,24 @@ The practice of removing all crop residues ("field sanitation") is identified as
 
 ## References
 
-- Source: "JADAM Organic Farming" by [[youngsang-cho]], Soil Management and Principles chapters
-
-## See Also
-
-- [[natural-farming-philosophy]]
-- [[soil-food-web-nutrient-cycling]]
+- Source: "JADAM Organic Farming" by [[natural-farming-philosophy]]
 - [[compost-tea-recipe-guide]]
+## Practical Considerations
+
+Successful implementation of JADAM Soil Management -- No-Till and Weed Control requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -112,14 +112,6 @@ Identified personality patterns associated with migraine, connecting emotional f
 
 ## Related Topics
 
-- [[cannabis-and-migraines]]
 - [[cannabis-and-fibromyalgia]]
 - Cannabis For Inflammation
-- [[cannabis-endocannabinoid-system]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Migraine and Pain sections
-
-## Merged: Cannabis For Migraines
-Migraines are recurring headaches ranging from moderate to severe. Severe migraines lasting hours or days can be debilitating. The [[cannabis-sativa-vs-indica-guide]] provides detailed information on strain selection based on symptom profiles. See [[cannabis-administration-methods-comparison]] for a detailed comparison of delivery routes. - [[blesching-cannabis-migraine]] Topics - [[cannabis-for-chronic-pain]] for broader pain management approaches - [[cannabis-endocannabinoid-system]] for endocannabinoid deficiency concepts - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-administration-methods-comparison]] for delivery route options - [[cannabis-therapeutic-condition-guide]] for condition-specific guidance - [[cannabis-health-index]] for the CHI scoring methodology A 2006 New York case study demonstrated that cannabis and oral Dronabinol (5 mg twice daily) relieved all symptoms of chronic frontal headaches including photophobia and tinnitus. Related: [[cannabis-for-motion-sickness]]
+- [[cannabis-sativa-vs-indica-guide]] provides detailed information on strain selection based on symptom profiles. See [[blesching-cannabis-migraine]] Topics - [[cannabis-endocannabinoid-system]] for endocannabinoid deficiency concepts - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-therapeutic-condition-guide]] for condition-specific guidance - [[cannabis-for-motion-sickness]]

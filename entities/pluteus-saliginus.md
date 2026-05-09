@@ -107,14 +107,8 @@ No named cultivars or commercial strains exist. Spore collections are maintained
 
 ## See Also
 
-- [[psilocybe-cubensis]]
 - [[psilocybe-semilanceata]]
-- [[baeocystin]]
-- [[psilocybin-compound]]
-- [[psilocin]]
-- pluteus saliginus
+- [[psilocybin]]
 - [[gymnopilus-spectabilis-entity]]
-- [[inocybe-corydalina-entity]]
-- [[panaeolus-cyanescens]]
-- [[conocybe-cyanopus]]
+- [[panaeolus-cyanescens-entity]]
 - [[psilocybe-serbica]]

@@ -16,11 +16,7 @@ type: concept
 
 # Design Client Interview and Site Assessment Process
 
-The [[permaculture-design-process]] begins long before any earthworks or planting.
-Mollison devotes considerable attention to the preliminary phases of design:
-the client interview, site assessment, and analysis that collectively determine
-the direction and content of the design. These early stages are covered in the
-[[mollison-pdc-design-report-methodology]], [[mollison-co-action-analysis-and-species-interaction-in-guild-design]], and [[mollison-professional-design-practice]] chapters of the Designers' Manual, but the practical details of
+The [[mollison-pdc-design-report-methodology]], [[mollison-professional-design-practice]] chapters of the Designers' Manual, but the practical details of
 client interaction and site assessment merit focused treatment as they
 fundamentally shape every subsequent design decision.
 
@@ -46,11 +42,7 @@ the entire project:
   (covenants, easements, zoning).
 - **Budget and resources**: Available financial resources, labour (family,
   volunteers, contractors), equipment, and timeline. Mollison's
-  [[mollison-permaculture-for-millionaires-commonwork]] concept addresses the full spectrum of
-  resource availability.
-- **Scope of design**: Is the client seeking a comprehensive whole-property
-  design, or focused advice on specific elements (house site, water system,
-  food forest)? The [[mollison-design-report-structure]]
+  [[mollison-design-report-structure]]
   varies accordingly.
 
 ## The Client Interview Process
@@ -64,16 +56,11 @@ approach:
 
 - **Household composition**: Number of people, ages, dietary preferences,
   health considerations, pets, livestock interests. This directly informs
-  [[mollison-domestic-small-animals-zone-one]] integration
-  and [[mollison-zone-one-garden-design]] scale.
+  [[mollison-zone-one-garden-design]] scale.
 - **Time availability**: How many hours per week can the client devote to
   garden and property management? This determines the appropriate balance
   between intensive zone 1-2 systems and self-maintaining zone 3-5 systems.
-  The [[mollison-zone-planning-frequency-distance-and-placement]]
-  framework directly addresses this variable.
-- **Skills and experience**: What does the client already know about
-  gardening, building, animal husbandry, food preservation? Design complexity
-  should match client capacity. The [[mollison-permaculture-design-course-curriculum]] provides baseline expectations.
+  The [[mollison-permaculture-design-course-curriculum]] provides baseline expectations.
 - **Long-term vision**: Where does the client see themselves and the property
   in 5, 10, 20 years? Is this a retirement property, a family homestead, a
   commercial farm, an educational facility, or a transition step?
@@ -87,16 +74,11 @@ A thorough inventory of available resources guides realistic design:
   maintenance budget, expected income from the property.
 - **Water resources**: Existing water sources (mains, bore, spring, stream,
   rain), water rights or restrictions, water quality. See
-  [[mollison-water-harvesting-management-permaculture]].
-- **Energy resources**: Grid connection, solar exposure, wind resources,
-  biomass availability, potential for [[mollison-designers-home-energy-conservation-and-solar-heating]].
+  [[mollison-designers-home-energy-conservation-and-solar-heating]].
 - **Material resources**: Existing buildings, fencing, tools, machinery,
   timber, stone, and other on-site materials.
 - **Human resources**: Family labour, community networks, WWOOFers, student
-  groups, local tradespeople. The [[mollison-commonwork-and-farm-link-systems]] model distributes labour across multiple enterprises.
-- **Biological resources**: Existing vegetation, soil condition, wildlife,
-  seed sources, plant material available locally. See
-  [[mollison-seed-resources-and-sovereignty]].
+  groups, local tradespeople. The [[mollison-seed-resources-and-sovereignty]].
 
 ## Site Assessment Methodology
 
@@ -108,16 +90,9 @@ approach follows a structured sequence:
 Before visiting the site, gather all available secondary information:
 
 - **Topographic maps**: Contour intervals, elevation, slope aspect, drainage
-  patterns. The [[mollison-mapping-techniques]] chapter
-  details map resources and interpretation.
-- **Climate data**: Rainfall (monthly averages, extremes), temperature
-  (monthly averages, frost dates), wind (direction, speed, seasonality),
-  humidity, evaporation rates. Local weather stations and historical records
-  provide baseline data. See [[mollison-climate-site-analysis-permaculture]].
+  patterns. The [[mollison-climate-site-analysis-permaculture]].
 - **Soil information**: Soil type maps, geological surveys, agricultural
-  capability assessments. The [[mollison-soil-elements-periodic-table]] framework guides soil evaluation.
-- **Aerial photographs**: Historical aerial photos reveal past land use,
-  erosion patterns, vegetation change, and [[water-management]] history.
+  capability assessments. The [[water-management]] history.
 - **Local knowledge**: Conversations with neighbours, long-term residents,
   and indigenous traditional owners about site history, microclimate
   variations, flood history, and species performance.
@@ -126,14 +101,7 @@ Before visiting the site, gather all available secondary information:
 
 Mollison emphasises extended observation over brief site visits. The ideal
 is to visit the site multiple times, in different seasons and weather
-conditions, before beginning design work. The [[mollison-observation-design]] principle is fundamental.
-
-The on-site assessment covers these domains:
-
-#### Landform and Topography
-- **Slope analysis**: Measure and map slope angles across the site. Identify
-  keypoints, keylines, ridges, valleys, and flat areas. The
-  [[mollison-designers-slope-analysis-keyline-design]]
+conditions, before beginning design work. The [[mollison-designers-slope-analysis-keyline-design]]
   framework provides methodology.
 - **Aspect determination**: Map which slopes face north, south, east, and
   west. Aspect determines solar exposure, wind exposure, and frost risk.
@@ -147,4 +115,3 @@ The on-site assessment covers these domains:
 #### Water Resources
 - **Existing water features**: Dams, tanks, bores, wells, springs, streams,
   wetlands. Map their location, capacity, reliability, and water quality.
-- **Catchment analysis**: Calculate the catchment area contributing water to

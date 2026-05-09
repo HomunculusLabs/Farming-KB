@@ -118,29 +118,6 @@ Considered edible when thoroughly cooked.
 Mild flavor, not highly regarded as a culinary species.
 
 ⚠️ **Caution:** The bluing reaction of *G. cyanescens* is sometimes confused
-with toxic blue-staining boletes such as *Rubroboletus satanas* and *Neoboletus*
-spp. Positive identification requires confirming the hollow stipe and white
-pore surface — features absent in toxic lookalikes.
-
-Key edibility notes:
-- Always cook thoroughly before consumption
-- Avoid specimens growing near roads or contaminated sites
-- The blue staining is NOT indicative of toxicity in this species
-- Collect only from clean, unpolluted habitats
-
-## Similar Species
-
-| Species | Key Differences from *G. cyanescens* |
-|---------|--------------------------------------|
-| *Gyroporus castaneus* | Chestnut-brown cap, does NOT stain blue |
-| *Boletus pulverulentus* | Solid stipe, pores yellow at maturity, darker blue staining |
-| *Rubroboletus satanas* | Red pore surface, solid stipe, pinkish cap flesh |
-| *Neoboletus luridiformis* | Red pores, reticulate stipe, orange-red cap coloration |
-| *Suillus luteus* | Slimy cap, ring on stipe, associated with pines |
-
-## See Also
-
-- [[suillus-luteus]] — Shared habitat in mixed forests, contrasting morphology
-- [[boletus-edulis-entity]] — Edible bolete comparison, different family placement
+with toxic blue-staining boletes such as *[[suillus-luteus]] — Shared habitat in mixed forests, contrasting morphology
 - [[xylaria-hypoxylon]] — Fungal species with distinctive pigment chemistry
 - [[gyromitra-esculenta]] — Another fungal species requiring cooking for safety

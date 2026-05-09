@@ -61,7 +61,7 @@ base. Hollow, fragile, smooth, pale blue to whitish. Base sometimes covered
 with fine white tomentum. No partial veil or annulus.
 
 **Spores:** 7–10 × 4–6 µm, ellipsoid to pip-shaped, smooth, thin-walled,
-hyaline, inamyloid. Spore print white.
+hyaline, inamyloid. [[spore-print]] white.
 
 **Microscopic features:** Cheilocystidia clavate to ventricose, sometimes
 with apical projections. Pleurocystidia absent. Pileipellis a cutis of
@@ -86,17 +86,7 @@ and May–August in New Zealand.
 *Mycena interrupta* has not been extensively studied for bioactive metabolites.
 The blue pigmentation is not well characterized chemically but is thought to
 derive from a pigment that degrades upon drying, similar to other hygrophanous
-Mycena species. No psilocybin or other tryptamine alkaloids have been detected
-in this species.
-
-Some *Mycena* species produce bioactive sesquiterpenes and styrylpyrones,
-but specific compounds from *M. interrupta* remain uncharacterized.
-
-## Ecological Role
-
-As a saprotroph, *M. interrupta* plays a minor role in decomposing woody
-debris in forest ecosystems. Its preference for hardwood substrates positions
-it as a participant in the early stages of wood decomposition, breaking down
+Mycena species. No [[decomposition]], breaking down
 cellulose and lignin components alongside other fungal decomposers.
 
 The species serves as a food source for various forest invertebrates and
@@ -109,7 +99,7 @@ been experimentally verified.
 *Mycena interrupta* has been reported to exhibit weak bioluminescence in
 the basidiocarp, though this is inconsistent across populations and may
 be substrate-dependent. The phenomenon is more reliably observed in related
-species such as *Mycena chlorophos*. The bioluminescent mechanism in Mycena
+species such as *[[mycena-chlorophos]]*. The bioluminescent mechanism in Mycena
 involves the enzyme luciferase reacting with a luciferin substrate,
 producing cold light.
 
@@ -139,6 +129,6 @@ and changes in forest moisture regimes associated with climate change.
 
 ## See Also
 
-- [[decomposition]]
-- [[mycena-chlorophos]]
-- [[psilocybin-compound]]
+- decomposition
+- mycena chlorophos
+- psilocybin

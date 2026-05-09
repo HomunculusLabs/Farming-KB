@@ -25,25 +25,9 @@ sources:
 Cyclocybe cylindracea, formerly classified as Agrocybe cylindracea, is an edible
 saprotrophic mushroom in the family Strophariaceae. It is widely cultivated in
 East Asia, particularly China, Japan, and Korea, where it is valued for its
-nutty flavor, firm [[australian-magic-mushroom-common-names]] nutritional density. Common names include
-cotton stagshorn, poplar mushroom, and Chinese chestnut mushroom.
+nutty flavor, firm [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in China by production volume.
 
-The species has gained attention in mycological research for its immunomodulatory
-polysaccharides and potential anti-tumor bioactive compounds. It ranks among the
-top six most commercially [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in China by production volume.
-
-## Taxonomy [[trichome-development-and-morphology]]
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Strophariaceae
-- **Genus:** Cyclocybe
-- **Species:** C. cylindracea (DC.) Vizzini & Angelini (2015)
-- **Basionym:** Agaricus cylindraceus DC. (1815)
-- **Synonyms:** Agrocybe cylindracea (DC.) Maire (1938),
-  [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. (misapplied), Pholiota cylindracea (DC.) Quél.
+## Taxonomy [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. (misapplied), Pholiota cylindracea (DC.) Quél.
 
 ### Macroscopic Features
 
@@ -143,8 +127,6 @@ Cyclocybe cylindracea is highly regarded in Chinese and Japanese cuisine. Caps
 and upper stipes are preferred; the lower stipe can be fibrous. Flavor is mild
 and nutty with pleasant umami notes. The firm texture holds well in stir-fries
 and braises. Dries well with concentrated flavor.
-
 ## See Also
 
-- [[lentinula-edodes]] — Co-cultivated mushroom with similar production methods
 - [[pleurotus-ostreatus]] — Temperate hardwood-decomposing edible species

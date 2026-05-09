@@ -142,8 +142,6 @@ amount of insoluble matter and, upon cooling, deposited bright yellow
 crystals of 4-ethoxy-5-methoxy-3-methylthio-beta-nitrostyrene. This was
 removed by filtration and, after washing with cold MeOH and air
 ## See Also
-- [[qualitative-comments-methodology-pihkal]]
 - [[methyl-dob-entity-pihkal]]
-- [[ethyl-j-entity-pihkal]]
 - [[greg-green-odor-control-and-air-filtration]]
 - [[ethyl-k-entity-pihkal]]

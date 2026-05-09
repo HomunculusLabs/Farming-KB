@@ -1,7 +1,7 @@
 ---
 title: Orchard Fungal Ecology
 created: 2026-04-28
-tags: [mycology, ecology, agriculture, fungi]
+tags: [[mycology, ecology, agriculture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -118,8 +118,6 @@ management offer the best path toward maintaining healthy fungal communities.
 
 ## See Also
 
-- [[mycorrhizal-fungi-fruit-trees]]
 - [[fungal-fruit-tree-diseases]]
-- [[biodiversity-fungi-soil-fungal-communities]]
 - [[fukuoka-orchard-floor-management]]
 - [[fungal-biodiversity]]

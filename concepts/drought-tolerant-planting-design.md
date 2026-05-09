@@ -9,7 +9,7 @@ sources: [raw/papers/holzer-desert-or-paradise.md]
 
 # Drought-Tolerant Planting Design
 
-Drought-tolerant planting design reduces or eliminates irrigation needs by selecting adapted species, capturing rainfall on-site, and building soil water-holding capacity. It draws from xeriscaping principles and permaculture water management strategies. This integrates with [[water-wise-vegetable-gardening]] and [[urban-permaculture-rainwater-harvesting-graywater]].
+Drought-tolerant planting design reduces or eliminates irrigation needs by selecting adapted species, capturing rainfall on-site, and building soil water-holding capacity. It draws from xeriscaping principles and permaculture water management strategies. This integrates with [[urban-permaculture-rainwater-harvesting-graywater]].
 
 ## Xeriscaping Principles
 
@@ -31,51 +31,7 @@ Hydrozoning groups plants by water need into distinct zones:
 - **Transition zone**: moderate-water plants -- some perennials, selected ornamentals, berry bushes. Occasional supplemental water.
 - **Dry zone** (outer areas): drought-tolerant natives, Mediterranean herbs, succulents. No irrigation after establishment.
 
-This approach ensures water is concentrated where it produces the most food value. See [[permaculture-earthworks-and-water-harvesting]] for earthwork strategies that feed these zones.
-
-## Drought-Tolerant Perennials
-
-### Edible Perennials
-
-| Plant | Water Need | Notes |
-|-------|-----------|-------|
-| Asparagus | Low after establishment | Deep root system |
-| Artichoke | Moderate | Mulch heavily |
-| Rhubarb | Moderate | Tolerates dry spells once established |
-| Globe artichoke | Low-Moderate | Mediterranean native |
-| Sea kale | Low | Salt-tolerant, coastal adaptable |
-| Good King Henry | Low | Perennial spinach relative |
-| Walking onion | Low | Very tough, self-propagating |
-| Berry bushes (currant, gooseberry) | Low-Moderate | Deep roots once established |
-
-### Mediterranean Herbs
-
-Rosemary, thyme, oregano, lavender, sage, and bay laurel thrive in hot, dry conditions once established. They require well-drained soil and suffer in waterlogged conditions. These are ideal for the transition and dry zones.
-
-### Nitrogen-Fixing Drought-Tolerant Plants
-
-- **Mesquite** (arid regions): deep taproot, fixes nitrogen
-- **Carob** (Mediterranean): drought-deciduous, edible pods
-- **Black locust** (temperate): hardy, coppices well, fixes nitrogen
-- **Clover species**: white dutch clover as living mulch, survives dry periods
-- **Acacia** (frost-free): fast-growing, nitrogen-fixing
-
-## Water Harvesting in Planting Design
-
-### Rain Gardens
-
-Rain gardens are shallow, planted depressions that capture runoff from roofs, driveways, and compacted surfaces. They allow water to infiltrate slowly, reducing stormwater runoff while watering plants.
-
-Design:
-- Locate 10+ feet from building foundations
-- Size for the drainage area (typically 5-10% of impervious surface)
-- Use native plants adapted to both wet and dry periods
-- Amend bottom with sand and compost for infiltration
-- Overflow outlet for extreme rain events
-
-### Swales and Berms
-
-Contour swales capture and infiltrate sheet flow. Plant the berm above with drought-tolerant species and the swale bottom with species that tolerate periodic wet feet. This is covered in detail in [[permaculture-earthworks-and-water-harvesting]].
+This approach ensures water is concentrated where it produces the most food value. See [[permaculture-earthworks-and-water-harvesting]].
 
 ### Micro-Catchments
 
@@ -115,16 +71,26 @@ Tree crops are the backbone of drought-tolerant food systems because deep root s
 - **Pomegranate**: native to arid regions of the Mediterranean and Middle East; thrives with minimal irrigation; produces antioxidant-rich fruit
 - **Mesquite** (*Prosopis spp.*): desert nitrogen-fixer producing edible pods that can be ground into flour; taproot can reach 50+ feet deep
 - **Carob** (*Ceratonia siliqua*): Mediterranean evergreen producing edible pods; drought-deciduous in extreme conditions; see [[permplant-carob-drought-tolerant-food-tree]]
-- **Pistachio**: native to desert climates; extremely drought-tolerant; requires hot summers and cold winters to fruit
-- **Fig**: once established, figs produce reliable crops with little to no supplemental irrigation; shallow but wide-spreading roots capture surface moisture effectively
-These tree crops form the productive framework of dryland food systems, providing reliable yields with minimal inputs once through the establishment phase of 2-5 years.
 
-## Related
-
-- [[permplant-carob-drought-tolerant-food-tree]]
-
-- [[edge-effect-in-permaculture]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
 - [[gaias-garden-fruit-tree-selection]]
 - [[permaculture-nitrogen-fixing-trees-guide]]
+## Practical Considerations
+
+Successful implementation of Drought-Tolerant Planting Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -105,17 +105,10 @@ Within the broader Lamiaceae family, patchouli shares chemical and aromatic char
 
 ## See Also
 
-- [[vetiveria-zizanoides]]
 - [[cymbopogon-citratus]]
-- [[pelargonium-graveolens]]
-- [[lavandula-angustifolia-entity]]
-- [[rosa-damascena]]
+- [[lavandula-angustifolia]]
 - [[mentha-piperita]]
-- [[ocimum-basilicum]]
 - [[salvia-officinalis]]
-- [[cinnamomum-verum]]
 - [[zingiber-officinale]]
-- [[curcuma-longa]]
 - [[alpinia-galanga]]
-- [[ocimum-sanctum]]
 - [[rosmarinus-officinalis-entity]]

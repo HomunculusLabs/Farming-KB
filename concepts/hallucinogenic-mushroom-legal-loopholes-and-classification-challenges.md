@@ -118,10 +118,6 @@ The experience with hallucinogenic mushroom legislation highlights several impor
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]]
-
 - [[hallucinogenic-mushroom-legal-status-europe]]
-- [[emcdda-hallucinogenic-mushroom-legal-responses]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - [[hallucinogenic-mushroom-seizures-and-criminological-evidence]]

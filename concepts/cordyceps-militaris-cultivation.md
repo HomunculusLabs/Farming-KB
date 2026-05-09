@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cultivation, mycology]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 
 # Cordyceps militaris Cultivation Guide
@@ -129,6 +130,5 @@ militaris is more sensitive to environmental parameters during fruiting than
 many other cultivated species, and precise control of temperature, light, and 
 air exchange is necessary for reliable results.
 
-See also: [[cordyceps-cultivation]], [[medicinal-mushroom-guide-cordyceps]], [[mushroom-species-cultivation-parameters]], [[mushroom-liquid-culture]], [[mushroom-substrate-supplementation]], [[medicinal-mushroom-compound-extraction]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+See also: [[medicinal-mushroom-guide-cordyceps]], [[mushroom-liquid-culture]], [[medicinal-mushroom-compound-extraction]]
 - [[mushroom-lighting-and-environmental-requirements]]

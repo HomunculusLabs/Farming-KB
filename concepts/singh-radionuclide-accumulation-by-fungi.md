@@ -15,64 +15,9 @@ type: concept
 
 Fungi demonstrate remarkable capacity to accumulate and concentrate
 radionuclides from contaminated environments. Singh's treatment of
-[[mycoremediation-pahs]] highlights that fungi serve as both vectors for
-radionuclide transfer through ecosystems and as potential tools for
-radioactive waste remediation. The discovery of highly radioactive fungi
-in the Chernobyl exclusion zone, and later around Fukushima, has
-stimulated intense research into fungal-radionuclide interactions.
-
-## Major Radionuclides of Concern
-
-### Cesium-137 (Cs-137)
-
-Cesium-137 is the most studied radionuclide in fungal bioaccumulation:
-
-- **Half-life**: 30.17 years; persistent environmental contaminant
-- **Chemical behavior**: Alkali metal similar to potassium (K+); readily
-  taken up through potassium transport channels
-- **Bioaccumulation factors**: Fungi concentrate Cs-137 by factors of
-  10-1,000 relative to surrounding soil
-- **Ecological significance**: Cs-137 is readily transferred through
-  fungal food webs, representing significant radiological exposure pathway
-
-### Strontium-90 (Sr-90)
-
-- **Half-life**: 28.8 years
-- **Chemical behavior**: Similar to calcium (Ca2+); substitutes for
-  calcium in biological systems
-- **Fungal accumulation**: Uptake through calcium channels; generally
-  lower accumulation factors than cesium
-- **Health concern**: Bone-seeking radionuclide with high biological
-  toxicity
-
-### Uranium (U-238, U-235, U-234)
-
-- **Half-lives**: U-238 (4.47 billion years), U-235 (704 million years)
-- **Chemical behavior**: Exists as UO2(2+) (uranyl ion) under oxidizing
-  conditions
-- **Fungal interactions**: Biosorption, biotransformation through
-  reduction, and phosphate precipitation as insoluble autunite minerals
-- **Phosphate precipitation**: Fungal phosphate release precipitates
-  uranium as Ca(UO2)2(PO4)2
-
-### Other Radionuclides
-
-- **Americium-241**: Associated with organic matter in forest ecosystems
-- **Plutonium-239/240**: Bound to soil organic matter; redistributed by
-  fungal hyphal transport
-- **Cobalt-60**: Accumulated through metabolic processes; substitutes for
-  essential cobalt in enzymes
-
-## Chernobyl: The Fungal Radioecology Laboratory
-
-The 1986 Chernobyl disaster created the world's largest outdoor
-radioecology laboratory. Key findings include:
-
-- **Radiotrophic fungi**: Discovery of melanized fungi (Cladosporium
-  sphaerospermum, Wangiella dermatitidis, [[cryptococcus-neoformans]]) that
+[[cryptococcus-neoformans]]) that
   use melanin to harvest ionizing radiation energy, termed "radiotropism"
-- **Ectomycorrhizal transfer**: Ectomycorrhizal fungi efficiently
-  accumulate Cs-137 through extensive extraradical mycelial networks
+- **Ectomycorrhizal transfer**: [[mycelial-networks]]
 - **Species variation**: Wide interspecific differences; Xerocomus and
   Rozites genera show very high accumulation factors
 - **Forest persistence**: Cs-137 remains bioavailable in forest
@@ -116,35 +61,23 @@ Fungal cell walls provide significant radionuclide binding capacity:
 
 ### Mycorrhizal Transfer to Plants
 
-[[mycorrhizal-fungi]] mediate radionuclide transfer to plants:
+[[dighton-fungal-radionuclide-accumulation-ecosystem-retention]]
+## Practical Considerations
 
-- Some AMF species act as barriers, sequestering cesium in fungal
-  biomass and reducing transfer to plant shoots
-- Ectomycorrhizal fungi facilitate cesium cycling between soil organic
-  layers and tree uptake in forest ecosystems
+Successful implementation of Radionuclide Accumulation by Fungi requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-## Bioremediation Applications
+## Future Directions
 
-Fungal-based radionuclide remediation approaches include:
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-1. **Biosorption reactors**: Columns packed with dead fungal biomass for
-   uranium and radionuclide removal from contaminated water
-2. **In situ immobilization**: Fungi that precipitate radionuclides as
-   insoluble minerals in contaminated soils
-3. **Phytomycoremediation**: Combining metal-accumulating plants with
-  radionuclide-accumulating fungi for enhanced decontamination
-4. **Biofilm barriers**: Fungal biofilms as permeable reactive barriers
-  for groundwater radionuclide plume containment
-
-## Food Chain Implications
-
-- Wild mushrooms are primary vectors for Cs-137 transfer to humans and
-  wildlife in contaminated regions
-- Game animals consuming contaminated mushrooms show elevated tissue
-  concentrations
-- EU regulatory limit: 600 Bq/kg for mushrooms (1260 Bq/kg for wild
-  mushrooms from affected areas)
-
-## See Also
-
-- [[dighton-fungal-radionuclide-accumulation-ecosystem-retention]]

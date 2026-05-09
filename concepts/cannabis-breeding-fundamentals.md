@@ -33,15 +33,6 @@ parent to create an embryo, which matures into a seed. Each seed is
 genetically unique, containing some genes from each parent. This
 variation allows breeders to combine positive traits from different
 parental lines through recombination. See also
-[[cannabis-propagation-sexual-vs-asexual-clarke]].
-
-## Cannabis as a Dioecious Species
-
-Cannabis is one of the few annual plants that produces male and female
-flowers on separate individuals, a condition known as dioecy. This
-makes cannabis a cross-pollinating (outcrossing) species under normal
-conditions. Monoecious varieties exist but are primarily used for hemp
-seed production; they are undesirable for drug cultivation where
 [[cannabis-sinsemilla-life-cycle]] (seedless cannabis) is
 sought. Plants exhibiting both flower types are correctly called
 intersex plants, not hermaphrodites.
@@ -78,7 +69,6 @@ masked in the F1 but reappears in the F2.
 Plants with two identical alleles for a trait are homozygous (e.g., PP
 or pp). Plants with two different alleles are heterozygous (e.g., Pp).
 Pure-breeding (true-breeding) lines are homozygous at most loci. See
-[[clarke-marijuana-botany-genetics-breeding]] and
 [[cannabis-hardy-weinberg-equilibrium]].
 
 ## The Five Components of a Breeding Program
@@ -113,37 +103,6 @@ Inbred lines have been bred for generations while selecting for specific
 traits until the population reliably reproduces those traits. They are
 genetically stable, homozygous at most alleles, and breed true. IBLs
 make the best breeding stock. See
-[[cannabis-true-breeding-ibl-strains]].
-
-### Hybrids
-
-Hybrids result from crossing genetically unlike parents. They retain
-distinctive characters when cloned but fail to reproduce those
-characters reliably from seed. F1 hybrids are uniform when grown from
-seed and exhibit hybrid vigor (heterosis), outperforming both parents
-in growth rate, yield, or environmental tolerance.
-
-### Open Pollinated Varieties
-
-Non-hybrid populations reproduced by random pollination within the
-variety, preserving genetic diversity. Hemp breeders ensure no foreign
-pollen source exists within four miles upwind.
-
-### Synthetic and Multi-line Varieties
-
-Synthetic varieties are derived from inter-mating selected genotypes
-with good combining ability, maintained through open pollination and
-recurrent selection. Multi-line varieties mix several similar pure
-breeding lines that differ in specific traits like maturation or
-disease resistance.
-
-## Intersexuality
-
-Intersex expression can be genetic or environmentally induced.
-Environmental stressors include inconsistent photoperiod, nutrient
-issues, pH fluctuations, and temperature extremes. These stresses
-alter ethylene levels, which regulates sex determination. Breeders
-must practice strict negative selection against intersex plants. See
 [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]].
 
 ## See Also

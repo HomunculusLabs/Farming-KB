@@ -130,13 +130,8 @@ cultures, which they would rapidly overrun.
 
 ## See Also
 
-- [[richard-gottlieb]]
-
 - [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 - [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[psilocybin-large-scale-production]]
 - [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
 - [[pure-culture-spawn-method-duggar-usda-1902]]

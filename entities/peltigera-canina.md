@@ -36,17 +36,7 @@ The specific epithet *canina* (dog) refers to the resemblance of the thallus und
 
 ## Water Relations and Hydrophobins
 
-P. canina was among the first [[lichens]] in which hydrophobin-derived cell wall surface hydrophobicity was characterized.
-
-Unlike many lichens that generate wall surface hydrophobicity through mycobiont-derived secondary metabolites crystallizing on hyphal surfaces within the medullary layer, P. canina lacks such medullary lichen compounds.
-
-Instead, water-repellency in P. canina is achieved through a protein-based mechanism.
-
-In freeze-etch preparations, a semicrystalline rodlet layer was resolved on wall surfaces of medullary hyphae of vegetative thalli of Peltigera spp.
-
-These rodlet layers are formed by class 1 hydrophobins, small cysteine-rich proteins that self-assemble at interfaces to create amphipathic films.
-
-This discovery, made by Honegger (1982, 1984) and confirmed by Scherrer et al. (2000), revealed that hydrophobins are a widespread mechanism for [[water-management]] in lichens.
+P. canina was among the first [[water-management]] in lichens.
 
 ## Symbiotic Interface
 
@@ -129,5 +119,4 @@ Conservation of Peltigera species requires maintaining suitable habitat with ade
 ## See Also
 
 - [[xanthoria-parietina]] for another hydrophobin-producing lichen
-- [[lobaria-pulmonaria]] for another foliose lichen with nitrogen-fixing capability
 - [[hymenoscyphus-ericae]] for a fungal symbiont studied for nutrient exchange

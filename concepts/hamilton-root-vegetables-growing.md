@@ -20,7 +20,7 @@ Root vegetables form the backbone of the winter vegetable garden,
 providing hearty, nutritious crops that store well and often improve in
 flavour after frost. The main root crops include carrots, parsnips,
 beetroot, turnips, swedes, and radishes, each with specific soil
-preferences and cultivation requirements. Within a [[hamilton-crop-rotation-and-vegetable-planning]] plan, root vegetables typically follow [[hamilton-potato-growing-organic]]
+preferences and cultivation requirements. Within a [[hamilton-potato-growing-organic]]
 in the sequence, benefiting from the ground that was heavily manured
 for the previous crop.
 
@@ -29,11 +29,6 @@ for the previous crop.
 Root vegetables generally prefer a deep, well-drained soil that is free
 of stones and large clods. Stones cause forking in carrots and parsnips,
 producing misshapen roots that are difficult to clean and prepare. For
-[[hamilton-vegetable-bed-preparation]], work in plenty
-of well-rotted compost but avoid fresh manure, which can also cause
-forking and coarse roots.
-
-Carrots and parsnips in particular need deep, loose soil. In the
 [[hamilton-deep-bed-system]], root crops can be planted
 closer together because the loose, organically enriched soil encourages
 roots to penetrate deeply rather than spreading sideways. This produces
@@ -55,40 +50,7 @@ carrots are planted outside. The carrot fly flies just above ground
 level, so when it meets the barrier it flies upward and misses the crop.
 
 Sow carrots in shallow drills about half an inch deep. For early crops,
-use varieties like Atlas or Parmex. In [[hamilton-deep-bed-system]], sow in staggered blocks rather than single rows, spacing plants
-about nine inches (23cm) apart. Carrots can also be intercropped with
-onions — the traditional companion planting theory holds that the smell
-of onions disguises the carrots from carrot fly.
-
-## Parsnips
-
-Parsnips require a long growing season and are typically sown in early
-spring for harvesting through winter. They need a deep, stone-free soil
-to produce long, straight roots. Sow seeds about half an inch deep in
-drills twelve to fifteen inches apart. Germination can be slow and
-erratic, so many gardeners sow thickly and thin later.
-
-Parsnip canker is the main disease, causing reddish-brown marks on
-the shoulder of the root that can spread and cause rotting. Good
-cultivation methods that produce healthy, fast growth are the best
-defence, along with resistant varieties. Parsnips improve in flavour
-after frost and can be left in the ground until needed throughout
-winter.
-
-## Beetroot, Turnips, and Radishes
-
-Beetroot is a reliable, easy-to-grow crop that does well in most soils.
-Sow directly where the crop is to grow, thinning to about four inches
-apart. For a continuous supply, make successional sowings every few
-weeks from mid-spring to mid-summer. Beetroot can also be grown as a
-cut-and-come-again crop for salad leaves.
-
-Turnips come in early and maincrop varieties. Early types can be sown
-in wide bands using the full width of a draw hoe, scattering seed
-thinly within the band. Harvest selectively when the roots are small,
-allowing the remainder to develop fully. Radishes are among the fastest
-maturing of all vegetables and are ideal for intercropping between
-slower-growing crops like [[hamilton-brassica-growing-organic]]
+use varieties like Atlas or Parmex. In [[hamilton-brassica-growing-organic]]
 or broad beans.
 
 ## Common Pests and Diseases
@@ -112,9 +74,7 @@ is heavy.
 
 Root vegetables reward careful soil preparation with generous harvests.
 Deep, stone-free soil is essential for carrots and parsnips, while
-beetroot and turnips are more forgiving. The [[hamilton-deep-bed-system]] is particularly well suited to root crops, producing
-straighter roots and higher yields. Protect carrots from fly with
-environmesh barriers, practice careful [[hamilton-crop-rotation-and-vegetable-planning]], and enjoy these nutritious crops fresh from the garden
+beetroot and turnips are more forgiving. The [[hamilton-crop-rotation-and-vegetable-planning]], and enjoy these nutritious crops fresh from the garden
 through autumn and winter.
 
 ### Storage and Preservation

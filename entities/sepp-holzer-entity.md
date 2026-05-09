@@ -108,19 +108,10 @@ Holzer has authored several influential books, published primarily in German wit
 
 ## Influence and Legacy
 
-Holzer's work operates parallel to but distinct from the mainstream permaculture movement founded by [[bill-mollison]] and [[david-holmgren]].
+Holzer's work operates parallel to but distinct from the mainstream permaculture movement founded by [[david-holmgren]].
 
 His approach is more practical and less systematically codified, emphasizing individual observation and adaptation over design methodology.
 
-[[geoff-lawton]] has cited Holzer as a key influence on his own large-scale permaculture design work.
-
-Holzer's emphasis on aquaculture integration has influenced permaculture water management design worldwide.
-
-Critics note that his methods are difficult to quantify scientifically and that some claims about yields and species viability lack controlled replication.
-
-## See Also
-
-- [[geoff-lawton]] — Australian permaculture designer who builds on Holzer's water management techniques
-- [[bill-mollison]] — Co-originator of the permaculture concept, with complementary design frameworks
+[[geoff-lawton]] — Australian permaculture designer who builds on Holzer's water management techniques
 - [[david-holmgren]] — Co-originator emphasizing permaculture principles and peri-urban applications
 - [[ben-falk]] — Vermont-based permaculture designer applying Holzer-inspired earthwork strategies in cold climates

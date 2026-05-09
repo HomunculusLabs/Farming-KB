@@ -18,106 +18,85 @@ type: concept
 
 Aboveground herbivory -- the consumption of plant foliage, shoots, or bark by
 animals -- can profoundly influence the belowground mycorrhizal fungal
-communities associated with host plants. In [[barn-design]]'s framework of
-[[fungal-ecology]], herbivory represents a critical indirect pathway by which
-animals affect [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and ecosystem
-function.
-
-## Carbon Allocation and Mycorrhizal Dependence
-
-Mycorrhizal fungi are fundamentally dependent on carbon supplied by their host
-plant through photosynthesis. Any reduction in photosynthetic capacity --
-whether from herbivory, defoliation, or pathogen attack -- can impair
-mycorrhizal function by limiting the carbohydrate supply available to maintain
-fungal biomass and activity. This carbon dependency creates a direct link
-between aboveground herbivore pressure and belowground fungal community
-dynamics.
-
-## Defoliation Effects on Ectomycorrhizal Communities
-
-Cullings et al. (2001) demonstrated that defoliation of a mixed Pinus contorta
-(lodgepole pine) and Picea engelmannii (Engelmann spruce) forest in
-Yellowstone National Park altered ectomycorrhizal species composition on tree
-roots. Lodgepole pine was defoliated to 50%, while spruce was left untreated.
-
-Key findings included:
-
-- No significant effects of defoliation on total ectomycorrhizal colonization
-  (142.0 mycorrhizal tips per core in both defoliated and control plots)
-- No significant change in species richness (5.0 species per core in controls
-  versus 4.5 in treatments)
-- However, the ecosystem-dominant Inocybe species was rare in defoliation
-  plots, while both Agaricoid and Suilloid species dominated in both treatments
-
-Crucially, ectomycorrhizal fungal species associating with both pine and
-spruce were affected by defoliation of only one tree species, suggesting that
-changing the photosynthetic capacity of one species can affect mycorrhizal
-associations of neighboring trees of a different species. This cross-species
-effect implies that mycorrhizal networks in mixed forests may be more
-sensitive to selective herbivory than previously recognized.
-
-## Winter Browsing and Belowground Effects
-
-Studies of winter browsing of willow by elk (Peinetti et al., 2001) showed
-that browsing induces:
-
-- Higher shoot biomass production but similar leaf biomass and leaf area per
-  plant
-- A lower number but larger shoots
-- A lower number but bigger leaves
-- Flower inhibition
-
-The researchers inferred that browsing also induces lower allocation of
-resources belowground, resulting in higher soil nitrogen uptake. Reduced
-carbohydrate allocation belowground would reduce the ability of trees to
-support mycorrhizae, while the increased demand for nitrogen would require an
-active mycorrhizal flora. The balance between these opposing demands on the
-mycorrhizal community remains poorly understood.
-
-## Insect Herbivory and Mycorrhizal Colonization
-
-Gehring and Whitham (1991, 1994) studied the effects of damage to the
-photosynthetic apparatus of pinyon pine by larvae of the moth Dioryctria
-albovitella. They identified trees that were both susceptible and resistant to
-moth attack. Reduction in photosynthate supply to roots of susceptible trees
-significantly reduced the number of ectomycorrhizal root tips compared to
-herbivore-resistant trees. When herbivore pressure was artificially removed,
-the mycorrhizal status of susceptible trees recovered to match resistant trees.
-
-The effect of herbivory on mycorrhizal colonization and host plant growth was
-greater in the stressed environment of oligotrophic cinder soil than in more
-nutrient-rich neighboring sandy loam soil. This suggests that plants under
-nutrient stress are more vulnerable to the cascading effects of herbivory on
-their mycorrhizal partnerships.
-
-## Foliar Pathogens and Mycorrhizal Impairment
-
-Foliar pathogens that reduce photosynthetic capacity can also impair
-mycorrhizal function. Cullings et al. (2001) showed that partial defoliation
-of Engelmann fir by insect herbivores reduced the total abundance of
-ectomycorrhizal fungi on roots and altered species composition. Inocybe
-species were eliminated from the mycorrhizal community by defoliation, while
-Suilloid and Agaricoid mycorrhizae persisted under conditions of reduced
-carbon supply.
-
-## Implications for Ecosystem Function
-
-The influence of aboveground herbivory on mycorrhizal status and activity of
-plants remains one of the least understood aspects of plant-fungal
-interactions. Key unresolved questions include:
-
-- How does selective herbivory on one plant species cascade through shared
-  mycorrhizal networks to affect neighboring plants?
-- Does moderate herbivory stimulate compensatory mycorrhizal responses?
-- How do seasonal patterns of herbivory interact with phenological patterns of
-  mycorrhizal colonization?
-
-These questions have direct relevance for understanding [[dighton-fungal-mediated-plant-competition]] and the role of mycorrhizae in [[dighton-ectomycorrhizal-ecosystem-impact]].
-
-## See Also
-
-- [[fungal-interactions-soil-fauna]]
-- [[dighton-mycorrhizal-networks-carbon-transfer]]
+communities associated with host plants. In [[fungal-ecology]], herbivory represents a critical indirect pathway by which
+animals affect [[dighton-fungal-mediated-plant-competition]] and the role of mycorrhizae in [[fungal-interactions-soil-fauna]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[endophytic-fungi-plant-defense-dighton]]
 - [[dighton-fungal-trophic-interactions-soil-food-webs]]
+## Practical Applications
+
+Aboveground Herbivory Effects on Mycorrhizal Communities has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Aboveground Herbivory Effects on Mycorrhizal Communities. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

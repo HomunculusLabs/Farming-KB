@@ -126,10 +126,6 @@ body naturally craves.
 
 ## See Also
 
-- [[fukuoka-textdoc-decline-quality-food]]
-
-- [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-natural-food-philosophy]]
-- [[fukuoka-food-civilization-critique]]
 - [[fukuoka-five-tastes-health]]

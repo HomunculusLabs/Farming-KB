@@ -94,8 +94,6 @@ If the question is mechanistic, remember that one-carbon metabolism supports bot
 
 ## Related Concepts
 
-- [[one-carbon-metabolism]]
 - [[one-carbon-metabolism-vs-glutathione-redox-biology]]
-- [[glutathione-biochemistry-and-redox-biology]]
 - [[phase-ii-metabolism]]
 - [[enzyme-inhibition]]

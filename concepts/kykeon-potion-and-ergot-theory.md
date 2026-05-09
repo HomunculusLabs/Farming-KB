@@ -9,8 +9,7 @@ tags: [reference]
 
 # The Kykeon Potion and Ergot Theory
 
-The kykeon was the sacred potion drunk by initiates of the [[plutarch-and-cicero-on-the-eleusinian-mysteries]] in preparation for the culminating
-vision. Its formula is recorded in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]: barley, water,
+The kykeon was the sacred potion drunk by initiates of the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]: barley, water,
 and a fragrant mint called blechon. According to Wasson, Hofmann, and Ruck,
 the psychoactive ingredient in this potion was not the barley or the mint but
 ergot (Claviceps purpurea), a fungal parasite that infests grain crops
@@ -120,8 +119,6 @@ man's inner ear and trips astonishing ventriloquistic effects.
 
 ## See Also
 
-- [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-- [[ergot-of-barley-and-wheat-alkaloid-composition]]
 - [[demeter-ergot-symbiosis-eleusinian-symbolism]]
 - [[rarian-plain-sacred-grain-eleusis]]

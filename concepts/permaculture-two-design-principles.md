@@ -3,16 +3,7 @@ title: Permaculture Two Design Principles
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Permaculture Two Design Principles
-
-updated: 2026-04-18
-
-Permaculture Two: Practical Design for Town & Country in Permanent Agriculture (Tagari Books, 1979) by Bill Mollison establishes the core design framework that distinguishes permaculture from gardening or farming. This page summarizes the foundational principles unique to Permaculture Two. See [[permaculture-design-principles]] for the broader principles from both books.
+tags: [[permaculture-farm-design-principles]] for the broader principles from both books.
 
 ## What Permaculture Is
 
@@ -90,12 +81,8 @@ The ethics underlying Permaculture Two:
 
 ## See Also
 
-- [[mollison-permaculture-two-design-in-landscape]]
-
 - [[fire-mandalas-permaculture-two]]
 
-- [[aboriginal-ecology-permaculture-two]]
 - [[mollison-permaculture-two-community-self-reliance]]
-- [[mollison-permaculture-two-earth-houses-plant-shelters]]
 - [[holmgren-trees-nature-solar-power-plants]]
 - [[mollison-permaculture-two-philosophy-and-tagari-community]]

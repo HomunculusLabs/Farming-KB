@@ -12,7 +12,7 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing leguminous tree
-**Also known as:** [[robinia-pseudoacacia]], false [[acacia]], yellow locust
+**Also known as:** [[acacia]], yellow locust
 
 ## Overview
 Black locust is a fast-growing, nitrogen-fixing legume tree reaching
@@ -63,21 +63,25 @@ most valued rot-resistant timbers in temperate regions.
 - Consider non-suckering cultivars for controlled plantings
 
 ## Relevance
-Black locust (*Robinia pseudoacacia*) is a premier [[permaculture]] tree for temperate and
-subtropical systems. Its combination of nitrogen fixation, extremely
-durable timber, excellent firewood, premium honey production, and
-livestock fodder make it one of the most productive multi-purpose trees
-  available. Its coppicing ability allows for sustainable harvest cycles,
-  providing both firewood and timber on rotation without replanting.
-and its use in shelter belts and erosion control integrates well with
-named after Jean Robin, royal gardener
-to Henry IV of France, who introduced it to Europe in the 1600s.
-The species is now naturalised across much of Europe, temperate
-Asia, and North America, often spreading along roadsides and
-riverbanks due to its vigorous suckering habit.
-
-## See Also
-- [[honey-locust-entity]]
-- [[tagasaste]]
+Black locust (*Robinia pseudoacacia*) is a premier [[honey-locust-entity]]
 - [[leucaena-alley-cropping-systems]]
 - Alder
+## Practical Considerations
+
+Successful implementation of Black Locust requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

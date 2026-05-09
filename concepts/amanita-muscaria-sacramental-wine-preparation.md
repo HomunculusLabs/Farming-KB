@@ -9,13 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Sacramental Wine Preparation
 
-The sacramental wine preparation is one of the most sophisticated [[amanita-muscaria-drying-and-preparation]] culture techniques described in the Herb of Immortality source. Unlike the simpler [[amanita-muscaria-ambrosia-preparation]] (cold water extraction), the sacramental wine method uses concentrated fruit juices as a nutrient medium, combined with modern sterile technique (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the [[amanita-muscaria-resurrection-experiments]] of dried mushroom material.
-
-## Historical Background
-
-### Ancient Fermented Preparations
-
-In "Soma: Divine Mushroom of Immortality," [[gordon-wasson-mushroom-discovery]] cites reports of Siberian tribes who fermented Amanita muscaria with:
+The sacramental wine preparation is one of the most sophisticated [[amanita-muscaria-ambrosia-preparation]] (cold water extraction), the sacramental wine method uses concentrated fruit juices as a nutrient medium, combined with modern sterile technique (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the [[gordon-wasson-mushroom-discovery]] cites reports of Siberian tribes who fermented Amanita muscaria with:
 
 - Various berry or fruit juices
 - Diluted honey

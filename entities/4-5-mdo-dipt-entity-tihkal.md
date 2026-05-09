@@ -41,7 +41,7 @@ Reduction with LAH in THF at reflux for 1 hour, followed by standard aqueous wor
 
 The methylenedioxy bridge at the 4,5-positions of the indole ring is extremely rare among known tryptamines. This contrasts sharply with the phenethylamine series, where the 3,4-methylenedioxy pattern (as in MDMA, MDA, and DOB) is one of the most pharmacologically productive substitution patterns known.
 
-In the tryptamine series, the two positions most associated with psychedelic activity are the 4-position (as in [[psilocin-entity-tihkal]], 4-HO-DMT) and the 5-position (as in [[5-meo-dmt-entity-tihkal]]). Placing a methylenedioxy bridge across both of these positions could theoretically produce a compound with dual activation of both receptor-binding modes.
+In the tryptamine series, the two positions most associated with psychedelic activity are the 4-position (as in [[5-meo-dmt-entity-tihkal]]). Placing a methylenedioxy bridge across both of these positions could theoretically produce a compound with dual activation of both receptor-binding modes.
 
 ## Comparison with the 5,6-Methylenedioxy Series
 
@@ -65,9 +65,7 @@ Shulgin noted that aside from this compound and the 4,5-MDO-DMT (which has not b
 
 ## Related Compounds
 
-[[4-ho-dipt-entity-tihkal]] — N,N-diisopropyltryptamine without the methylenedioxy bridge.
-[[alpha-n-dmt-entity-tihkal]] — the base tryptamine without ring substitution.
-[[alpha-n-dmt-entity-tihkal]] (psilocin) — the 4-hydroxy compound, a classic psychedelic.
+[[amt-entity-tihkal]] — the base tryptamine without ring substitution.
 [[5-meo-dmt-entity-tihkal]] — the 5-methoxy compound, a powerful psychedelic.
 [[psilocin-entity-tihkal]] — the natural product with 4-hydroxy substitution.
 

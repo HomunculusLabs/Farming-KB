@@ -141,9 +141,6 @@ Jack Herer is commonly used in medical cannabis programs for:
 - Haze lineage makes it sensitive to overfeeding — use a light nutrient hand, especially with nitrogen during mid-flower
 ## See Also
 
-- [[jack-herer]]
-
 - [[purple-haze]] — The foundational sativa parent
-- [[northern-lights]] — The iconic indica parent
 - [[skunk-1]] — The backbone of modern hybrid breeding
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] — Comprehensive guide to cannabis terpene science

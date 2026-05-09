@@ -51,65 +51,14 @@ Stumps in ravines are better candidates than those located
 in the center of a clear-cut.
 
 An uprooted stump is not as good a candidate as a
-well-rooted one. The presence of mosses, [[lichens]], and/or
-ferns is a good indicator that the microclimate is
-conducive to mushroom growth. However, the presence of
-competitor fungi generally disqualifies a stump as a good
-candidate.
-
-## Timing of Inoculation
-
-Stumps should be inoculated before the first season of
-wild mushrooms. With each mushroom season, the air becomes
-laden with spores, seeking new habitats. The open face of
-a stump, essentially a wound, is highly susceptible to
-colonization by wild mushrooms.
-
-If stumps are not inoculated within several months of
-being cut, the probability of success decreases. Therefore,
-old stumps are poor candidates. Even so, years may pass
-after inoculation before mushrooms form on a stump.
-
-Spring inoculations give the mycelium the longest possible
-growing season. Small-diameter stumps rot faster and
-produce crops of mushrooms sooner than bigger stumps.
-However, the smaller stump has a shorter mushroom-producing
-life span. The denser and more massive stumps sustain
-colonies of mushrooms for many more years than the
-quick-to-rot, smaller diameter tree species.
-
-## Inoculation Methods
-
-Stumps can be inoculated by one of several simple
-procedures:
-
-1. **Plug spawn insertion**: Plug spawn can be inserted
-   into the open face of each stump. If the stumps are
-   checkered through with cracks, the plugs are best
-   inserted directly into the fissures.
-
-2. **Wedge/disc inoculation**: Using a chain saw, a wedge
-   is cut or a shallow disc is sliced from the open face
-   of the stump. The newly cut faces are packed with
-   sawdust spawn. The cut disc is then replaced. By
-   hammering a few nails into the stump, firm contact
-   between the cut faces is assured.
-
-3. **Sawdust spawn packing**: Sawdust spawn can be packed
-   into chain-saw cuts made at regular intervals around
-   the stump face and sides.
-
-See also:
-[[growing-gourmet-outdoor-log-inoculation-techniques]]
+well-rooted one. The presence of mosses, [[growing-gourmet-outdoor-log-inoculation-techniques]]
 
 ## Suitable Species for Stump Cultivation
 
 Several polypores are especially good candidates for stump
 cultivation, particularly:
-- [[stamets-maitake-grifola-frondosa-cultivation]] (Maitake)
 - [[ganoderma-lucidum-reishi-comprehensive-profile]] (Reishi) and its close relatives
 - Laetiporus suiphureus (Chicken of the Woods)
-- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] (Oyster mushroom)
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]] (Lion's Mane)
 
 A notable study by Pagony (1973) describes the cultivation

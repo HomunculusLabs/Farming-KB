@@ -53,49 +53,15 @@ prefer fungally dominated soils.
 
 ## The Role of Mycorrhizal Fungi
 
-[[mycorrhizal-fungi-basics-lowenfels]] are a major component of
-fungal biomass in most soils. These fungi form symbiotic relationships with
-plant roots, extending the root system's reach for water and nutrients,
-particularly [[lowenfels-nutrients-phosphorus-mycorrhizae]]. In
+[[lowenfels-nutrients-phosphorus-mycorrhizae]]. In
 fungally dominated soils, mycorrhizal networks are extensive, connecting
 multiple plants and creating a shared nutrient resource. When soil is disturbed
 by tilling, these networks are broken, which is why
-[[lowenfels-tilling-no-till-soil-health]] are especially
-important for trees, shrubs, and perennials that depend on mycorrhizal
-associations. Building fungal dominance takes time because mycorrhizal fungi
-require living roots to associate with.
-
-## Managing Bacterial Dominance
-
-To create bacterially dominated soils for vegetables, annuals, and lawns,
-gardeners should provide bacterial foods: fresh green materials, simple sugars,
-and materials with low carbon-to-nitrogen ratios. Grass clippings (19:1 C:N),
-kitchen scraps, and young weed cuttings are excellent bacterial foods.
 [[lowenfels-composting-science-microbiology]] made primarily from green
 materials will be bacterially dominated. When preparing soil for vegetables,
 chopping organic matter into fine bits and mixing it into the soil encourages
-bacterial establishment. [[lowenfels-compost-tea-brewing]] made
-with molasses or other sugars further boost bacterial populations.
-
-## Managing Fungal Dominance
-
-To create fungally dominated soils for trees, shrubs, and perennials, gardeners
-should provide fungal foods: aged brown materials like autumn leaves, bark, wood
-chips, and other materials high in lignin and cellulose.
-[[lowenfels-mulch-cover-cropping]] of brown leaves encourage a flush of
-[[lowenfels-fungi-role-soil]]. Compost recipes that include 40 to 50
-percent brown leaves or small wood chips produce more fungally dominated
-compost. Humic and fulvic acids also support fungal growth. The key is providing
-the complex carbon compounds that fungi specialize in decomposing.
-
-## Nitrogen Form and pH Connections
-
-The F:B ratio directly influences the form of nitrogen available to plants. In
-bacterially dominated soils, bacterial slime raises pH above 7, creating
-conditions favorable for nitrifying bacteria that convert ammonium to nitrate.
-In fungally dominated soils, fungal acids lower pH below 7, making conditions
-unsuitable for most nitrifying bacteria, so ammonium remains available. This is
-why [[lowenfels-nutrients-nitrogen-cycle]] while
+bacterial establishment. [[lowenfels-mulch-cover-cropping]] of brown leaves encourage a flush of
+[[lowenfels-nutrients-nitrogen-cycle]] while
 trees and shrubs prefer ammonium.  Testing soil pH in the rhizosphere can
 indicate whether bacterial or fungal dominance prevails.
 

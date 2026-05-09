@@ -17,10 +17,7 @@ type: concept
 # Urediniomycetes: Rust Fungi and Yeastlike Relatives
 
 The Urediniomycetes is a large and diverse class within the phylum
-[[basidiomycota-classification-major-clades]] that includes the rust fungi (order Uredinales),
-their relatives, and numerous yeastlike species. This class
-represents one of the three major lineages of Basidiomycota,
-alongside the [[ustilaginomycetes-smut-fungi-classification-diversity]] (smut fungi) and the
+[[ustilaginomycetes-smut-fungi-classification-diversity]] (smut fungi) and the
 Hymenomycetes (mushrooms and shelf fungi). The Urediniomycetes is
 distinguished by its dimorphic life histories, which typically
 include a saprobic yeast phase and a pathogenic filamentous state,
@@ -136,8 +133,6 @@ pests.
 
 ## See Also
 
-- [[basidiomycota-classification-major-clades]]
 - [[ustilaginomycetes-smut-fungi-classification-diversity]]
-- [[fungal-parasites-living-plants-estimating-diversity]]
 - [[yeast-biodiversity-isolation-ecology]]
 - [[fungal-parasites]]

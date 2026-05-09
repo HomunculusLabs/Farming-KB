@@ -45,16 +45,7 @@ for the best results. If you do not have enough well-rotted compost
 or manure for the whole potato plot, dig the planting furrows deep
 and put a layer in the bottom. Do not lime the potato plot, as
 potatoes prefer an acid soil. If you are using a three-year crop
-rotation plan, grow potatoes in [[hamilton-three-year-crop-rotation]].
-
-## Chitting and Planting
-
-Buy seed potatoes as early as possible and put them in boxes or egg
-cartons in a light place at about 50 degrees F (10 degrees C). They
-will form good, short, bushy green sprouts. Never put them in a
-warm, dark place as this produces long, pale, weak sprouts. The
-earliest crops come from tubers planted through black plastic
-sheeting under [[hamilton-cloches-and-frost-protection]] in late
+rotation plan, grow potatoes in [[hamilton-cloches-and-frost-protection]] in late
 winter. Plant in rows 2ft (60cm) apart, setting tubers 12in (30cm)
 apart and about 6in (15cm) deep.
 
@@ -94,15 +85,7 @@ frost-free place; blemished ones must be used immediately.
 
 Potatoes are affected by slugs, wireworms, potato cyst eelworm,
 potato blight, scab, potato blackleg, spraing, and wart disease.
-See [[hamilton-pest-and-disease-control-organic]] for treatment.
-Some varieties show resistance to potato eelworm. It is worthwhile
-to buy new seed potatoes every year as they can become infected with
-virus diseases spread by aphids. Do not compost the top growth of
-main crop potatoes after digging because of the risk of potato blight.
-
-## Deep Bed Growing
-
-Potatoes are ideal subjects for the [[hamilton-deep-bed-system]].
+See [[hamilton-deep-bed-system]].
 They can be planted at the same spacing as conventional rows but
 with potentially higher yields per unit area. The black plastic
 method works especially well in deep beds, eliminating the need for

@@ -109,15 +109,9 @@ Ethos Genetics has used Lilac Diesel as a parent in subsequent crosses, includin
 
 ## See Also
 
-- [[sour-diesel]]
 - [[chemdawg]]
-- [[super-lemon-haze]]
 - [[purple-haze]]
-- [[jack-herer]]
 - [[trainwreck]]
-- [[forbidden-fruit-cannabis]]
 - [[amnesia-haze]]
-- [[tropicana-cookies]]
 - [[gelato-cannabis]]
-- [[cannabis-blue-dream]]
 - [[runtz-entity]]

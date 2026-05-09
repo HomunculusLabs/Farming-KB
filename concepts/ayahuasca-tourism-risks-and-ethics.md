@@ -22,8 +22,7 @@ documenting specific instances of fraud, exploitation, and medical risk.
 ### Serotonin Syndrome and MAOI Interactions
 
 Ayahuasca contains monoamine oxidase inhibitors (MAOIs) — primarily harmine
-and harmaline from the *[[banisteriopsis-caapi]]* vine — alongside the
-psychedelic compound N,N-dimethyltryptamine (DMT) from *[[psychotria-viridis]]*
+and harmaline from the *[[psychotria-viridis]]*
 leaves. The MAOI component is what allows DMT to be orally active, but it
 also creates dangerous pharmacological interactions:
 
@@ -132,10 +131,13 @@ ayahuasca tourists should consider:
 
 ## See Also
 
-- [[ayahuasca-tourism-in-peru]] — Overview of the tourism industry
 - [[ayahuasca-ceremony-practices]] — How ceremonies are structured
 
 ## References
 
 - Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *MAPS*, Volume XII,
   Number 2, Summer 2002.
+
+## See Also
+
+- [[ayahuasca-tourism-ethics]]

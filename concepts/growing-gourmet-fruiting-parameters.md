@@ -12,7 +12,7 @@ sources:
 ---
 # Fruiting Parameters
 
-Optimization of yields is realized only if the grower becomes keenly sensitive to, and satisfies, the unique needs of each mushroom strain. Stamets organizes the cultivation cycle into three distinct phases, each with different ideal environments: [[spawn-grain-to-grain-transfer]], [[mushroom-tropisms-phototropism-geotropism]] Formation (initiation), and Fruitbody Development. A fourth parameter set describes the Cropping Cycle.
+Optimization of yields is realized only if the grower becomes keenly sensitive to, and satisfies, the unique needs of each mushroom strain. Stamets organizes the cultivation cycle into three distinct phases, each with different ideal environments: [[mushroom-tropisms-phototropism-geotropism]] Formation (initiation), and Fruitbody Development. A fourth parameter set describes the Cropping Cycle.
 
 ## The Three-Phase Cultivation Model
 
@@ -20,7 +20,7 @@ Each stage of mushroom growth has a different ideal environment. As each factor 
 
 ## Phase 1: Spawn Run
 
-During spawn run, the [[cotter-mushroom-life-cycle-mycelium-biology]] colonizes the [[mushroom-cultivator-bulk-substrate]]. The key environmental factors are:
+During spawn run, the [[mushroom-cultivator-bulk-substrate]]. The key environmental factors are:
 
 **Temperature:** Incubation temperature runs higher than temperature for primordia formation. Internal temperatures should not exceed 95F (35C) or black pin molds and other thermophilic competitors will awaken, especially under the rich CO2 conditions created during spawn running.
 
@@ -48,22 +48,7 @@ When air temperature is changed, a lag time of 24-72 hours follows before the su
 ### Light
 Light acts as a signal alerting the mycelium to an open-air environment where spores can be dispersed. Light controls stem elongation and cap development. For most species, light levels between 50-1000 lux and 380-480 nanometers (green to blue) seem most stimulatory to primordia formation. Stamets uses six 8-foot "Daylight" 6500 Kelvin fluorescents to light each 1000 sq. ft. growing room, with supplemental natural light through diffusion panels.
 
-Leatham and Stahlman (1987, 1989) found that the absence of calcium made [[cotter-shiitake-cultivation]] mycelium unresponsive to light. At low calcium levels, mushrooms formed under 600-680 nm (red light). At high calcium levels, 400-500 nm (blue to UV) was most stimulatory.
-
-### The Nutrient Limitation Model
-Some mycologists describe primordia formation as triggered by nutrient limitation/deprivation rather than environmental shift. The clearest example is the Morel: once sclerotia form remote from the nutrient base, the nutrient base is physically separated, and this loss of nutrition triggers fruitbody formation. For most cultivated species, Stamets considers this more accurately described as nutrient limitation rather than deprivation.
-
-## Phase 3: Fruitbody (Mushroom) Development
-
-After primordia form, conditions shift again for optimal mushroom growth:
-
-**Moisture:** Atmospheric moisture must be carefully managed. While relative humidity approaches 100% during primordia formation, it should be lowered to 90-95% for fruitbody development to effect a constant rate of evaporation from the fruitbodies. The crop should be sprayed several times a day, as long as excess water is soon reabsorbed. Humidity is often reduced several hours prior to picking, extending shelf life.
-
-**Air Exchange:** Air exchange and turbulence are managed for reducing CO2, elevating oxygen, and effecting constant evaporation from maturing mushroom surfaces.
-
-**Temperature:** Temperature levels either remain the same or are raised. Warmer temperatures result in faster growth while colder temperatures slow development. One advantage of fruiting at cooler temperature is that a firmer-fleshed, higher-quality mushroom forms at harvest.
-
-**Lighting:** Without adequate light, stem elongation and cap malformation occur. [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] and Enoki mushrooms are especially sensitive. Strong light alters pigmentation -- some Oyster strains darken under bright light, others pale.
+Leatham and Stahlman (1987, 1989) found that the absence of calcium made [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] and Enoki mushrooms are especially sensitive. Strong light alters pigmentation -- some Oyster strains darken under bright light, others pale.
 
 **Duration:** Timing of crops, first appearance, duration of harvest, and period between crops are strain and process dependent. With Shiitake on sterilized sawdust/chips/bran, Stamets goes for 4-5 crops. With Oyster mushrooms on pasteurized straw, 2-3 flushes are most efficient. Approximately 7-14 days separate the first flush from the second.
 

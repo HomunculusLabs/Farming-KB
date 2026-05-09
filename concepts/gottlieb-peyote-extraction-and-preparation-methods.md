@@ -141,8 +141,6 @@ This procedure extracts all alcohol and water-soluble alkaloids and non-alkaloid
 materials. It is safer than methods using toxic solvents like petroleum ether or
 chloroform, and avoids excessive purification that might remove some active substances
 whose principles may be non-alkaloidal.
-- [[mescaline-peyote-san-pedro-cactus]]
 - [[strain-isolation-from-wild-specimens]]
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[mescaline-peyote-and-san-pedro-guide]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]

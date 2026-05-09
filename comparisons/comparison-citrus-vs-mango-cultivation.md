@@ -119,11 +119,7 @@ Citrus functions well in the lower canopy layer, provides year-round pollinator 
 
 - [[comparison-vanilla-vs-cacao-cultivation]]
 
-- [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
-- [[comparison-agave-vs-prickly-pear-cultivation]]
-
-- citrus cultivation and variety guide
 - [[comparison-avocado-vs-mango-cultivation]]
 - companion planting and polycultures
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]

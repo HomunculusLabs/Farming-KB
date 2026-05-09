@@ -11,35 +11,7 @@ sources:
 
 # Fukuoka: Village Without War and Peace
 
-Source: [[one-straw-revolution-overview]], The One Straw Revolution, Book V "Foolishness Comes Out Looking Smart"
-
-## The Snake and the Frog
-
-A snake seizes a frog in its mouth and slips away into the grass. A girl screams. A brave lad bares his feelings of loathing and flings a rock at the snake. The others laugh.
-
-The hawk hunts the snake. The wolf attacks the hawk. A human kills the wolf, and later succumbs to a tuberculosis virus. Bacteria breed in the remains of the human, and other animals, grasses, and trees thrive on the nutrients made available by the bacteria's activity. Insects attack the trees and the frog eats the insects.
-
-Animals, plants, microorganisms -- all are part of the cycle of life. Maintaining a suitable balance, they live a naturally regulated existence.
-
-## Three Perspectives, All Wrong
-
-People may choose to view this world either as a model of strong consuming weak, or of coexistence and mutual benefit. Either way, it is an arbitrary interpretation, which causes wind and waves, brings about disorder and confusion.
-
-**The Competition View:** "If life is seen as a contest in which the strong consume the weak, the face of the earth becomes a hell of carnage and destruction. The survival of the fittest is a providence of nature."
-
-**The Cooperation View:** "At the foot of the grain in this field, clover, and so many varieties of grasses and weeds are living mutually beneficial lives. Birds and frogs, plants, insects, small animals, bacteria, fungi -- all creatures perform essential roles and benefit from one another's existence."
-
-**The Balance View:** "The earth is a world of the strong consuming the weak, and also one of coexistence. The stronger creatures take no more food than necessary. The providence of nature is an ironclad rule, preserving peace and order upon the earth."
-
-Fukuoka met all three opinions with an absolute denial.
-
-## Beyond Relative Perception
-
-The world itself never asks whether it is based upon a principle of competition or of cooperation. When seen from the relative perspective of the human intellect, there are those who are strong and there are those who are weak, there is large and there is small.
-
-If we were to suppose that the relativity of human perception is mistaken -- for example, that there is no big and no small, no up or down -- human values and judgment would collapse.
-
-This is the core of Fukuoka's [[fukuoka-do-nothing-farming-philosophy-and-practice]]: the human mind creates distinctions that do not exist in nature itself. Competition and cooperation are not natural laws but human interpretations projected onto a reality that is, in its essence, beyond such categories. The snake eating the frog is neither cruel nor kind -- it simply is.
+Source: [[fukuoka-do-nothing-farming-philosophy-and-practice]]: the human mind creates distinctions that do not exist in nature itself. Competition and cooperation are not natural laws but human interpretations projected onto a reality that is, in its essence, beyond such categories. The snake eating the frog is neither cruel nor kind -- it simply is.
 
 ## The Original Unity of Love and Hate
 
@@ -61,34 +33,73 @@ There is no other road to peace than for all people to depart from the castle ga
 
 The farmers of long ago were a peaceful people, but now they are arguing with Australia about meat, quarrelling with Russia over fish, and dependent on America for wheat and soybeans. Get rid of the aspects of inside and outside. Farmers everywhere in the world are at root the same farmers. Let us say that the key to peace lies close to the earth.
 
-This vision of peace through connection to the earth connects directly to Fukuoka's [[fukuoka-peace-march-war-agriculture]] activities in later years, where he literally walked across continents carrying seeds, advocating that the path to world peace runs through the soil itself.
+This vision of peace through connection to the earth connects directly to Fukuoka's [[fukuoka-mu-nothingness-philosophy]].
 
-## Philosophical Significance
+The connection to farming is essential. The farmer who works with nature, rather than trying to impose human categories upon it, experiences directly the unity that the philosopher can only theorize about. This is why [[fukuoka-road-do-nothing-farming]] is not laziness but wisdom. The farmer who does nothing (in the sense of not imposing human will upon the land) allows nature to express its inherent order. The snake eats the frog, the clover fixes nitrogen, the rice grows -- not because the farmer has orchestrated these processes but because they are the natural expression of a reality that does not need human management.
 
-This passage represents one of the most radical philosophical statements in Fukuoka's work. By denying all three conventional frameworks for understanding nature -- competition, cooperation, and balance -- he rejects the entire premise of using human intellectual categories to describe reality. Nature simply is, and any attempt to characterize it in terms of human values is a form of projection that leads inevitably to distortion and conflict.
-
-The implication is profound: if war arises from the human tendency to create and then reify distinctions (self/other, strong/weak, friend/enemy), then peace requires not a different set of distinctions but the abandonment of distinction-making itself. This is not a political program but a fundamental shift in consciousness -- from the discriminating mind to what Fukuoka calls the "non-discriminating mind" or [[fukuoka-mu-nothingness-philosophy]].
-
-The connection to farming is essential. The farmer who works with nature, rather than trying to impose human categories upon it, experiences directly the unity that the philosopher can only theorize about. This is why [[fukuoka-natural-farming-philosophy-of-mu]] is not merely an agricultural technique but a spiritual practice.
-
-## Connection to Natural Farming Principles
-
-The rejection of intellectual frameworks for understanding nature is the philosophical foundation of natural farming. Conventional agriculture operates from the premise that the farmer must understand and control nature -- identifying pests, applying solutions, optimizing inputs. Natural farming begins from the opposite premise: that nature already knows how to grow food, and human understanding is more likely to interfere than to help.
-
-This is why Fukuoka's [[fukuoka-road-do-nothing-farming]] is not laziness but wisdom. The farmer who does nothing (in the sense of not imposing human will upon the land) allows nature to express its inherent order. The snake eats the frog, the clover fixes nitrogen, the rice grows -- not because the farmer has orchestrated these processes but because they are the natural expression of a reality that does not need human management.
-
-The [[fukuoka-bushman-world-ecological-balance]] that emerges in a natural farm is not "cooperation" in the human sense. It is simply the way things are when human interference is removed. The organisms in a natural farm do not "work together" -- they simply live, and in living, create conditions that support each other's existence. This is the peace that Fukuoka describes: not a negotiated truce between competing interests, but the natural state that exists when artificial conflict is not imposed.
-
-## Related Concepts
-
-- [[fukuoka-village-without-war-and-peace]]
-
-- [[fukuoka-do-nothing-farming-philosophy]]
+The [[fukuoka-village-without-war-and-peace]]
 
 - [[fukuoka-philosophy-of-non-intervention]]
-
-- [[fukuoka-one-straw-revolution-philosophy]]
 
 - [[fukuoka-do-nothing-health-philosophy]]
 
 - [[fukuoka-philosophy-of-mu-and-nature]]
+## Practical Considerations
+
+When working with Fukuoka: Village Without War and Peace, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -1,30 +1,13 @@
 ---
 title: "How Do Slime Molds Decompose Organic Matter?"
 created: 2026-04-28
-tags: [query, mycology, soil-science, slime-molds, [[decomposition]], soil-food-web]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Stephenson, S. L., & Stempen, H. (1994). *Myxomycetes: A Handbook of Slime Molds*. Timber Press.
-  - Bonner, J. T. (2009). *The Social Amoebae: The Biology of Cellular Slime Molds*. Princeton University Press.
-  - Feest, A., & Madelin, M. F. (1985). A method for the determination of numbers of myxomycetes in soils. *Journal of General Microbiology*, 131(5), 1121-1127.
-  - Schnittler, M., & Stephenson, S. L. (2002). Infrastructural biodiversity and protist role in soil. In *Biodiversity in Soils* (pp. 47-56). Cambridge University Press.
-  - Killham, K. (1994). *Soil Ecology*. Cambridge University Press.
-  - Adams, K., & Deacon, J. (2013). The contribution of myxomycetes to decomposition processes in temperate woodland leaf litter. *Fungal Ecology*, 6(3), 222-229.
-  - Coleman, D. C., & Crossley, D. A. (1996). *Fundamentals of Soil Ecology*. Academic Press.
-  - Kamono, A., & Matsumoto, J. (2011). Myxomycetes in soil: seasonal and vertical distribution. *Mycoscience*, 52(4), 291-297.
-type: query
----
-
-# How Do [[slime-molds]] Decompose Organic Matter?
+tags: [query, mycology, soil-science, slime-molds, [[slime-molds]] Decompose Organic Matter?
 
 ## Short Answer
 Slime molds decompose organic matter primarily during their **plasmodial stage**, a
 massive single-celled, multinucleate phase that creeps across decaying wood,
 leaf litter, and forest floor material. They feed through **phagocytosis** —
-engulfing bacteria, [[fungal-spores]], yeast, and small particles of organic matter.
-They secrete enzymes that break down complex organics, accelerate nutrient
-cycling as bacterial predators in [[the-soil-food-web]], and contribute measurably
+engulfing bacteria, [[soil-food-web-nutrient-cycling]], and contribute measurably
 to leaf litter and log decomposition, especially during warm, moist months.
 
 ## Q: How do slime molds feed?
@@ -83,38 +66,7 @@ their accumulated nutrients further up the food chain.
 Slime molds are not primary decomposers of lignocellulosic material in the way
 that white-rot and brown-rot fungi are. Instead, they are **secondary
 decomposers** that accelerate nutrient release by consuming the primary
-bacterial decomposers. They complement [[fungal-decomposition]] rather than
-competing with it directly.
-
-## Q: What is their role in log and leaf litter decomposition?
-On decaying logs and leaf litter, slime molds are abundant and active
-participants in the decomposition community. Research by Adams and Deacon (2013)
-found that myxomycetes contribute measurably to mass loss in temperate woodland
-leaf litter, particularly in the later stages of decomposition when bacterial
-populations are well established. On rotting wood, plasmodia often appear as
-brightly colored, veined sheets (yellow, white, or pink) spreading across the
-bark surface. They follow bacterial biofilms within the wood, grazing the
-microbial communities that are themselves decomposing the wood's structural
-compounds. In this sense, slime molds facilitate decomposition indirectly by
-maintaining active, turnover-driven bacterial communities on woody substrates.
-
-## Q: Are there seasonal patterns to slime mold decomposition activity?
-Yes. Slime mold activity is strongly seasonal, correlated with moisture and
-temperature. In temperate forests, plasmodia are most active during **late
-spring through early autumn** when temperatures are warm and humidity is high.
-Kamono and Matsumoto (2011) documented that myxomycete biomass in soil and
-litter peaks during warm, wet months and drops sharply during dry or cold
-periods. During winter or drought, slime molds survive as dormant spores or
-sclerotia (hardened resting structures). When favorable conditions return, spores
-germinate into flagellated or amoeboid cells that fuse to form new plasmodia,
-resuming their decomposing and predatory activity.
-
-## Q: How do slime molds relate to forest floor nutrient cycling?
-Slime molds are integral to the **microbial loop** of forest floor nutrient
-cycling. They capture bacterial production — nutrients that would otherwise
-remain locked in bacterial biomass — and convert it into slime mold biomass
-accessible to larger soil organisms. When plasmodia die or are consumed, their
-nutrient-rich contents enter the broader [[soil-food-web]]. This process is
+bacterial decomposers. They complement [[soil-food-web]]. This process is
 particularly important for nitrogen and phosphorus cycling, as slime molds
 concentrate these elements from their bacterial prey and make them available
 at higher trophic levels. Their mobility allows them to move between nutrient
@@ -147,4 +99,3 @@ supports slime mold activity.
 - They are **secondary decomposers** that complement — not replace — fungal
   and bacterial decomposition of logs and leaf litter
 - Activity is **highly seasonal**, peaking in warm, moist conditions and
-  persisting as dormant spores or sclerotia during cold or dry periods

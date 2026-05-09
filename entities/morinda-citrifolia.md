@@ -77,64 +77,7 @@ The fruit contains over 160 phytochemicals, with the most studied being:
 | **Rutin** | Flavonoid glycoside | Antioxidant, capillary strengthening |
 | **Quercetin** | Flavonol | Anti-inflammatory, antihistamine, antioxidant |
 | **β-Sitosterol** | Phytosterol | Lipid-lowering, immunomodulatory |
-| **[[ursolic-acid]]** | Triterpenoid | Anti-inflammatory, hepatoprotective |
-| **Noni-ppt** | Polysaccharide | Immunomodulatory (non-specific immune activation) |
-| **Proxeronine / Xeronine** | Alkaloid precursor | Controversial; proposed by Heinicke but not widely replicated |
-
-### Macrodistribution
-
-| Tissue | Primary Compounds |
-|--------|------------------|
-| Ripe fruit | Scopoletin, damnacanthal, fatty acids, vitamins C, A, B3, iron, potassium |
-| Leaves | Quercetin, rutin, kaempferol, ursolic acid |
-| Bark | Morindone, alizarin (anthraquinones) |
-| Root | Morindone, rubiadin, alizarin (red dye compounds) |
-
-## Medicinal Properties
-
-### Traditional Uses (Polynesian & Ayurvedic)
-
-Noni has been used across Polynesia for centuries to treat a remarkably broad range of conditions:
-- **Leaves** — topical wounds, ulcers, inflammation, headache wraps, arthritic joints
-- **Fruit** — internal ailments: digestive disorders, respiratory infections, fatigue, menstrual cramps, fever
-- **Bark** — antibacterial mouthwash, digestive tonic
-- **Root** — red dye for tapa cloth; urinary disorders
-- **Flowers** — eye and throat infections
-
-### Modern Clinical Evidence
-
-**Quality of evidence note:** While noni has been extensively studied *in vitro* and in animal models, high-quality human clinical trials remain limited. Much of the commercial health claim literature has been criticized for industry sponsorship and small sample sizes.
-
-#### Anti-Cancer (Preclinical)
-- Damnacanthal inhibits Ras-oncogene transformed cells
-- Noni juice showed chemopreventive effects in DMBA-induced mammary tumorigenesis in rats
-- Induction of apoptosis and cell cycle arrest in various cancer cell lines
-- **Human evidence:** Insufficient; one small pilot study (Wong, 2011) suggested quality-of-life improvement in cancer patients but was not powered for efficacy
-#### Cardiovascular
-- Mild blood pressure reduction in hypertensive patients (small RCT, 8 weeks)
-- Endothelial function improvement
-- LDL oxidation inhibition
-
-## Permaculture Applications
-
-Noni is an exceptionally valuable species for tropical permaculture systems due to its adaptability and multiple functions:
-
-### Pioneer Species & Site Rehabilitation
-- One of the first woody colonizers of degraded, disturbed, or nutrient-poor sites
-- Nitrogen fixation (associative, via endophytic bacteria in Rubiaceae root zones)
-- Rapid establishment creates microclimate for succession species
-- Ideal for stabilizing eroded slopes, road cuts, and coastal areas
-
-### Multi-Use Tree
-| Product | Use |
-|---------|-----|
-| Fruit | Food, juice, traditional medicine, compost |
-| Leaves | Tea, poultices, animal fodder, mulch |
-| Bark | Fiber (cordage), medicine, dye |
-| Root | Red dye (traditional tapa cloth) |
-| Wood | Tool handles, firewood (low density, burns fast) |
-
-### [[food-forest]] Integration
+| **[[food-forest]] Integration
 - Canopy mid-layer or understory tree depending on placement
 - Tolerates partial shade but fruits best in full sun
 - Deep taproot accesses subsoil nutrients, bringing them to the surface via leaf litter
@@ -144,6 +87,5 @@ Noni is an exceptionally valuable species for tropical permaculture systems due 
 
 ## See Also
 
-- [[moringa-oleifera]] — Fellow tropical multi-use tree
 - [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] — Site rehabilitation with fast-growing tropicals
 - [[food-forest-design]] — Integrating noni into polyculture systems

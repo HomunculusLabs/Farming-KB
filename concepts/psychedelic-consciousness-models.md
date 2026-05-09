@@ -95,19 +95,11 @@ In the psychedelic state, the entire field of reality is re-conceived and re-per
 
 Newly acquired concepts and percepts can continue to be employed long after the consumed shamanic catalysts have been metabolised into inactive by-products. In a sense, it is as if new conceptual perspectives and new insights into Nature, once divined, install themselves permanently within the mind. Organic visionary ecstasy, once tasted, is not forgotten. Never.
 
-See also: [[informational-monism]], [[ketamine-psychedelic-journey-guide]], psychedelic-mystical-experience, [[natural-intelligence]], [[natural-intelligence]], [[natural-intelligence]], [[consciousness-and-psychedelics]], [[psychedelic-consciousness-expansion]]
-
-*Source: Powell, S.G. "The Psilocybin Solution" -- Chapters 5, 6, and 7*
-- [[global-psychedelic-mushroom-species-diversity]]
-- [[visionary-symbols-and-universal-archetypes]]
+See also: [[ketamine-psychedelic-journey-guide]], psychedelic-mystical-experience, [[natural-intelligence]], [[consciousness-and-psychedelics]], [[global-psychedelic-mushroom-species-diversity]]
 - [[psilocybin-consciousness-as-information-in-process]]
 
 ## See Also
 
-- [[query-how-do-psychedelics-change-consciousness]]
-
-[[tryptamine-consciousness-theory]]
-[[weil-intoxication-and-consciousness-theory]]
+- [[tryptamine-consciousness-theory]]
 [[turner-psilocybin]]
-[[weil-psychedelic-experience-set-and-setting]]
 [[tryptamine-hallucinogens-and-consciousness]]

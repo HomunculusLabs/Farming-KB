@@ -3,7 +3,7 @@ title: Medicinal Mushroom Regulatory Frameworks for Cancer Products
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, medicine, mushrooms]
+tags: [[mycology, medicine, mushrooms]
 sources: []
 ---
 
@@ -108,13 +108,8 @@ The report recommends:
 
 ## See Also
 
-- [[singh-mycoremediation-regulatory-frameworks]]
-
 - [[medicinal-mushroom-regulatory-frameworks]]
-- [[medicinal-mushroom-dietary-supplements]]
 - [[functional-foods-medicinal-mushrooms]]
-- [[mushroom-polysaccharide-safety-toxicity]]
 - [[medicinal-mushroom-cancer-chemoprevention]]
-- [[mushroom-cancer-clinical-trials-overview]]
 - [[psk-breast-lung-cancer-clinical-trials]]
 - [[psk-gastric-cancer-clinical-trials]]

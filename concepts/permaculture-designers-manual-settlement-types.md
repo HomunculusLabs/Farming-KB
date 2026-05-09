@@ -111,11 +111,7 @@ Property trusts purchase real estate for improvement, lease, or rental on behalf
 
 ## Related Topics
 
-- [[permaculture-designers-manual-settlement-design]] - Settlement design details
 - [[permaculture-designers-manual-bioregional-planning]] - Bioregional planning
-- [[community-economics-in-permaculture]] - Community economics
 - [[permaculture-designers-manual-energy-systems]] - Energy systems
-- [[broadscale-permaculture-techniques-mollison]] - Broadscale techniques
 - [[mollison-property-trusts-ethical-investment]]
-- [[mollison-permaculture-two-community-self-reliance]]
 - [[permaculture-designers-manual-food-forest-guilds]]

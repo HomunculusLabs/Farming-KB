@@ -9,11 +9,7 @@ sources:
 ---
 # Psychedelic Use in Ancient Greece
 
-The [[wasson-hofmann-ruck-collaboration]] hypothesis about the Eleusinian Mysteries has broader implications for understanding psychoactive substance use in ancient Greek culture. While the [[eleusinian-mysteries-history-and-structure]] represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with altered states induced by plants and fungi. The [[allegro-colour-and-consistency-of-the-amanita-muscaria]] of psychoactive plant use in antiquity extends well beyond Greece.
-
-## The Eleusinian Context
-
-The Eleusinian Mysteries were the premier religious experience of the Greek world for nearly 2,000 years. Their endurance and prestige suggest that whatever happened within the telesterion was profoundly transformative. The Wasson-Hofmann-Ruck hypothesis identifies the kykeon -- a barley-mint-water potion -- as the vehicle for a psychedelic experience derived from ergot-infected barley. The secret of secrets -- withheld from all but the hierophants -- was that the sacred water of the potion had soaked up ergine and ergonovine from immersed ergot. Over two millennia, the hierophantic families may have improved their technique, even discovering a kind of ergot containing solely hallucinogenic alkaloids, such as has been found in modern times in ergot of *Paspalum distichum*. The [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
+The [[eleusinian-mysteries-history-and-structure]] represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with altered states induced by plants and fungi. The [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
 
 Key evidence for psychedelic use at Eleusis:
 
@@ -33,56 +29,9 @@ Wasson drew direct comparisons between Eleusis and the Mazatec mushroom velada:
 - Both formed enduring bonds among participants.
 - Both were guarded by hereditary specialists who transmitted preparation knowledge orally.
 
-In both traditions, eggs were prohibited before the ceremony. In Mexico, chocolate broke the fast; at Eleusis, the pelanos (a barley-wheat cake from the Rarian plain) may have served a similar function. The [[ceremonial-shamanic-use-psychoactive-mushrooms]] of plant-mediated visionary experience provides a cross-cultural framework for understanding these parallels.
-
-## Other Greek Mystery Cults
-
-Several other Greek mystery traditions may also have employed psychoactive preparations:
-
-### The Dionysian Mysteries
-Dionysus was the vegetative consort residing in all manner of inebriants. Ancient wine was not merely alcoholic but a variable infusion of herbal toxins in vinous liquid -- unguents, spices, and herbs with recognized psychotropic properties could be added at the ceremony of dilution. The word for drunkenness in Greek (*mainesthai*) designates a state of raving madness, not mere inebriation. Some wines were reportedly so strong they required dilution with twenty parts water, and drinking certain wines straight caused permanent brain damage or death. The alcohol alone could not explain these extreme reactions, pointing to additional psychoactive adulterants in the wine. Dionysus was the god of wine and ecstasy, and his rites involved ritual madness (sparagmos and omophagia). The ivy and laurel associated with Dionysus may have had psychoactive properties beyond wine.
-
-### The Orphic Mysteries
-Orphism promised a blessed afterlife and involved ritual purification. The Orphic Dionysus myth of dismemberment and rebirth parallels the psychedelic ego-death experience.
-
-### The Samothracian Mysteries
-Though less well-documented than Eleusis, these mysteries also promised protection and favor in the afterlife.
-
-### The Cabiri
-Worshiped on Lemnos and Samothrace, these chthonic deities may have been associated with psychoactive fungi. The name "Eleusis" itself may derive from eleusma, meaning "arrival" or "advent," but some scholars connect it to erebinthos (chickpea), suggesting legumes as a potential source of ergot.
-
-## The Role of Professional Priests
-
-The entheogen-culture|knowledge of psychoactive plant preparation in ancient Greece was the province of hereditary priestly families. The Eumolpids and Kerykes at Eleusis controlled the rites for centuries. This mirrors the pattern seen in indigenous cultures worldwide: specialized knowledge transmitted through family lines, with apprenticeships lasting years.
-
-## The Pharmakos Ambiguity
-
-The Greek word pharmakos means both "poison" and "medicine" (and by extension, "scapegoat" and "sorcerer"), reflecting the Greeks' recognition that the same substances could heal or harm depending on preparation and dosage. Plato records a rationalized version of the maiden-abduction myths in which the companion of the seized maiden is named Pharmaceia -- "the use of drugs." This linguistic ambiguity reveals a deep cultural awareness of the dual nature of psychoactive substances. The priestly pharmacological expertise would have included precise knowledge of which ergot sclerotia to select, how to detoxify them, and what dosage was safe and effective.
-
-## Ethnobotanical Knowledge Transmission
-
-In unlettered cultures, herbal knowledge was a body of secret lore passed by word of mouth from herbalist to apprentice, requiring years before one practiced independently. The questions of dosage, side effects, and proper plant ingredients that became poisons in excess were matters of life and death. This pattern -- hereditary specialists transmitting preparation knowledge orally -- matches the Eumolpid and Kerykes families at Eleusis exactly. The [[psychedelic-plants-and-civilization]] is thus not one of ignorance versus knowledge, but of controlled versus uncontrolled use. The Greek priestly families functioned as custodians of dangerous and sacred botanical knowledge, much as curanderos and shamans do in indigenous traditions studied by modern ethnobotanists. The [[psychedelic-ancient-history]] is in many ways a history of such specialist knowledge-holders.
-
-## Influence on Greek Philosophy
-
-The psychedelic experience may have influenced several key Greek philosophical movements:
-
-- **Platonism**: Plato's theory of Forms, with its emphasis on a higher reality behind appearances, resonates with mystical experience. Plato's Allegory of the Cave describes prisoners emerging into brilliant light -- a metaphor for the Eleusinian initiate's experience.
-
-- **The Eleusinian-Platonic afterlife**: Both traditions promised a blessed existence after death for those who had been properly initiated. Plato explicitly references the Mysteries in the Phaedrus.
-
-- **The mystery cults as precursors**: The mystery cults' promise of personal salvation and direct experience of the divine may have paved the way for later philosophical and religious developments.
-
-Source: raw/papers/the-road-to-eleusis.md
-
-## Related
-
-- [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
+In both traditions, eggs were prohibited before the ceremony. In Mexico, chocolate broke the fast; at Eleusis, the pelanos (a barley-wheat cake from the Rarian plain) may have served a similar function. The [[psychedelic-plants-and-civilization]] is thus not one of ignorance versus knowledge, but of controlled versus uncontrolled use. The Greek priestly families functioned as custodians of dangerous and sacred botanical knowledge, much as curanderos and shamans do in indigenous traditions studied by modern ethnobotanists. The [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
 - [[ergot-and-lysergic-acid-history]]
-- [[entheogen-culture]]
 - [[psychedelic-plants-and-civilization]]
-- [[psychedelic-ancient-history]]
 - [[shamanic-use-of-psychedelics]]
 - [[amanita-muscaria-ethnobotany]]
 

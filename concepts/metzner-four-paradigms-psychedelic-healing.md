@@ -58,35 +58,8 @@ Leary introduced and popularized the "set and setting" hypothesis,
 according to which the primary determinants of a psychedelic
 experience are the internal set (intention, expectation, motivation)
 and the external setting or context. This model connects to
-[[powell-psilocybin-set-and-setting]].
-
-## Paradigm Two: Shamanic Rituals of Healing and Divination
-
-In indigenous shamanic systems, the primary use of hallucinogenic
-plants involves the shaman or healer taking the medicine in order to
-"see" the causes of illness and know what kind of remedy to apply.
-This differs radically from Western psychotherapy in that the
-practitioner, not the patient, is the one who enters the altered
-state. The shaman serves as an intermediary between the spirit world
-and the community, diagnosing illness through visionary experiences
-and applying remedies based on what they perceive.
-
-Indigenous people have a profound knowledge of plants and herbs and
-their effects on the body and mind. They are well able to distinguish
-harmful from beneficial medicines. The vision-inducing plants that
-have a tradition of shamanic usage are much more likely to be safe.
-This paradigm connects to the traditions documented in
-[[mushroom-cultivation-fundamentals]] and
-[[harner-ayahuasca-shamanism-amazon]].
-
-## Paradigm Three: Syncretic Folk Religious Ceremonies
-
-The third paradigm encompasses syncretic folk religious ceremonies in
-which the focus appears to be a kind of community bonding and
-celebratory worship. These ceremonies, which blend indigenous plant
-use with elements introduced by colonial religions, represent a
-cultural adaptation of shamanic practices to new social contexts.
-Examples include various forms of [[metzner-ayahuasca-therapeutic-potential]] that have evolved in urban settings.
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]] and
+[[metzner-ayahuasca-therapeutic-potential]] that have evolved in urban settings.
 
 ## Paradigm Four: Hybrid Shamanic-Therapeutic Rituals
 
@@ -121,26 +94,7 @@ Metzner uses the terms "psychedelic," "hallucinogenic," and
 derives from the Latin *alucinare* meaning "to wander in one's mind,"
 and "entheogen" (proposed by Wasson and Ott) means "releasing or
 expressing the divine within." The term "entheogen" connects to the
-broader discussion of [[entheogenic-knowledge-secret-societies]] in Western culture.
-
-## Key Principles Shared Across Paradigms
-
-Despite their differences, Metzner identifies several principles
-shared across psychotherapeutic approaches: the recognition of a
-profoundly expanded state of consciousness; the centrality of set and
-setting; the amplifier and microscope analogies for the drug
-experience; and the essential prerequisite that the therapist or
-guide have personal experience with the altered state. A significant
-extension of the field occurred with Alexander Shulgin's discovery of
-phenethylamines such as MDMA, classified as "empathogens" for their
-capacity to generate states of empathy with minimal perceptual
-changes.
-
-## See Also
-
-- [[metzner-psychedelic-psychotherapy-clinical-history]] - Metzner's
+broader discussion of [[metzner-psychedelic-psychotherapy-clinical-history]] - Metzner's
   overview of clinical psychedelic therapy
-- [[powell-psilocybin-set-and-setting]] - Modern set and setting
-  research
 - [[metzner-ayahuasca-therapeutic-potential]] - Ayahuasca in
   therapeutic contexts

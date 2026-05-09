@@ -121,11 +121,7 @@ The distinct floral and fruity aroma is attributed to a complex profile of volat
 
 ## See Also
 
-- [[capsicum-annuum]]
 - [[capsicum-chinense]]
-- [[piper-nigrum-entity]]
 - [[pimenta-dioica]]
-- [[zingiber-officinale]]
 - [[cuminum-cyminum]]
-- [[coriandrum-sativum]]
 - [[myristica-fragrans]]

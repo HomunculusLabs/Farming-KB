@@ -119,4 +119,4 @@ Harvesting for culinary or medicinal use is typically done in spring when shoots
 
 ## See Also
 
-[[comfrey]] | [[glycyrrhiza-glabra]] | [[sambucus-nigra]] | [[alfalfa-medicago-sativa]] | [[romulan]] | [[georgia-pie]] | [[galium-aparine]] | [[pleurotus-ostreatus]] | [[psilocybe-cubensis]]
+[[glycyrrhiza-glabra]] | [[alfalfa-medicago-sativa]] | [[georgia-pie]] | [[pleurotus-ostreatus]] | [[psilocybe-cubensis]]

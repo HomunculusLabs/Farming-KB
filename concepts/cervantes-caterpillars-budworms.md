@@ -19,53 +19,6 @@ ability to burrow into developing buds makes them one
 of the most destructive pests during the flowering
 stage.
 
-See also: [[cervantes-pest-disease]]
-
-## Identification
-
-Caterpillars range from half an inch to four inches (1.5
-to 10 cm) in length. They are cylindrical with sets of
-legs, often green but can be virtually any color from
-white to black. Some have stripes, spots, and other
-camouflage patterns.
-
-**Caterpillars** have sets of feet along the entire
-length of their body.
-
-**Loopers** have only two sets of feet at either end.
-They move by placing front feet forward, arching their
-body upward in the middle, and pulling their rear legs
-forward. This distinctive "measuring worm" motion makes
-them easy to identify.
-
-Both caterpillars and loopers are in a larval life
-stage between egg and adult moth or butterfly. They are
-most common when prevalent outdoors and can migrate
-into greenhouses and indoor gardens.
-
-## Damage
-
-Caterpillars and budworms are chewing insects that eat
-pieces of foliage and leave telltale bite marks and
-holes in leaves. Some species will roll themselves
-inside leaves for protection while feeding.
-
-The most serious damage occurs when budworms burrow
-into developing flower buds. A burrowing caterpillar
-leaves a wake of feces inside the bud, and both the
-wound and the feces attract secondary diseases
-including gray mold (Botrytis). Infested buds are often
-ruined and must be discarded.
-
-Other signs of caterpillar damage include:
-
-- Droppings (frass) accumulating between buds and on
-  foliage
-- Chewed or skeletonized leaves
-- Webbing on leaf surfaces (from some species)
-- Entry holes in main stems (from borers)
-- Dead growth on either side of entry holes
-
 See also: [[bud-rot-cannabis]]
 
 ## Borers
@@ -119,7 +72,6 @@ undetected caterpillar activity.
   thuringiensis var. aizawai) is effective against
   hard-to-kill budworms, borers, and armyworms.
 
-See also: [[cervantes-bacillus-thuringiensis-bt-control]]
 See also: [[cervantes-biological-pest-control-predators]]
 
 ## Chemical Sprays
@@ -141,5 +93,4 @@ See also: [[cervantes-biological-pest-control-predators]]
 Liquid Bt can be injected into stalks to kill borers
 that have already tunneled inside the stem.
 
-See also: [[cervantes-pyrethrum-pyrethroid-insecticides]]
 See also: [[cervantes-neem-oil-organic-pest-control]]

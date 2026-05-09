@@ -22,12 +22,7 @@ notorious witches' sabbat.
 
 The primary ingredients of witches' ointments were four plants of the
 Nightshade family (Solanaceae): Henbane (*Hyoscyamus niger* and *H.
-albus*), Belladonna or Deadly Nightshade (*[[atropa-belladonna]]*), and
-Mandrake (*Mandragora officinarum*). All four species contain
-relatively high concentrations of tropane alkaloids, primarily
-atropine, hyoscyamine, and scopolamine. See
-[[plants-of-the-gods-nightshade-hexing-herbs]],
-[[schultes-henbane-hyoscyamus-oracle-delphi]], and
+albus*), Belladonna or Deadly Nightshade (*[[plants-of-the-gods-nightshade-hexing-herbs]],
 [[schultes-mandrake-mandragora-officinarum]].
 
 The difference in effects among these plants is only one of relative

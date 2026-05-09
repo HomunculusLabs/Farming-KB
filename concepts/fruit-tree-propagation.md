@@ -1,16 +1,15 @@
 ---
-title: fruit tree propagation
+title: Fruit Tree Propagation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, pruning, agriculture]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
-# fruit tree propagation
+# Fruit Tree Propagation
 
-Propagating your own [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] saves money, preserves heritage varieties, and allows you to create custom combinations of rootstock and scion wood. Most fruit trees do not grow true from seed -- vegetative propagation methods are required to reproduce exact copies of a desired variety.
+Propagating your own fruit trees saves money, preserves heritage varieties, and allows you to create custom combinations of rootstock and scion wood. Most fruit trees do not grow true from seed -- vegetative propagation methods are required to reproduce exact copies of a desired variety.
 
 ## Why Propagate Vegetatively
 
@@ -21,7 +20,7 @@ Propagating your own [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] 
 
 ## Grafting
 
-Grafting joins two pieces of living [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] so they grow together as one. The scion (top portion) provides the fruit variety; the rootstock (bottom portion) provides the root system.
+Grafting joins two pieces of living plant tissue so they grow together as one. The scion (top portion) provides the fruit variety; the rootstock (bottom portion) provides the root system.
 
 ### When to Graft
 Most grafting is done in late winter to early spring (February-April) before buds break. The scion wood should be collected during dormancy (January-February) and stored in the refrigerator in a sealed plastic bag with damp paper towels.
@@ -92,7 +91,7 @@ Air layering encourages roots to form on a branch while it is still attached to 
 
 ## Rooting Cuttings
 
-Some fruit species root readily [[query-how-to-propagate-woody-herbs-from-cuttings]], avoiding the need for grafting.
+Some fruit species root readily from cuttings, avoiding the need for grafting.
 
 ### Softwood Cuttings (June-July)
 Used for figs, grapes, currants, gooseberries, and some berries.
@@ -104,7 +103,7 @@ Used for figs, grapes, currants, gooseberries, and some berries.
 5. Cover with a humidity dome or plastic bag
 6. Keep in bright, indirect light at 65-75F
 7. Mist regularly. Roots form in 3-6 weeks
-8. Transplant to individual pots once rooted [[holzer-stone-fruit-varieties-and-growing]]
+8. Transplant to individual pots once rooted and growing
 
 ### Hardwood Cuttings (Late Winter)
 Used for grapes, figs, currants, gooseberries, and mulberries.
@@ -130,7 +129,7 @@ Used for some species that resist standard cuttings: blackberry, raspberry, hors
 Choose rootstock based on your goals:
 
 - Dwarf (8-10 feet at maturity): good for small spaces, easy harvesting, begins bearing in 2-3 years
-- Semi-dwarf (12-16 feet): balance of size [[mollison-pond-edge-configuration-and-yield]], begins bearing in 3-4 years
+- Semi-dwarf (12-16 feet): balance of size and yield, begins bearing in 3-4 years
 - Standard (20-30 feet): largest yield, longest-lived, begins bearing in 5-7 years
 - Disease-resistant rootstocks: essential in areas with specific disease pressures (fire blight, nematodes, Phytophthora)
 

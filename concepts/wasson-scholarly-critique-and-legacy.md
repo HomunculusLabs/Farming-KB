@@ -104,7 +104,7 @@ though Sabina herself recognised them as her equals.
 Wasson publicly berated the hippies for their recreational use of mushrooms,
 declaring that he had taken the sacred mushrooms "but never for a kick." Yet when
 US federal prohibition made obtaining mushrooms a criminal offence during the
-1970s, Wasson arranged for [[albert-hofmann]] to risk his job by
+1970s, Wasson arranged for gordon-wasson to risk his job by
 posting psilocybin pills from the Sandoz factory in Switzerland to a care-of
 address in California for Wasson's personal use.
 
@@ -124,8 +124,6 @@ self-correction that scholarship demands.
 
 ## See Also
 
-- [[wasson-hofmann-ruck-theory]] - Biographical details
 - [[wasson-mexico-expeditions]] - The expeditions and their consequences
 - valentina pavlovna wasson - His collaborator and wife
-- [[magic-mushroom-cultural-history]] - Broader cultural history
 - [[psychedelic-1960s-counterculture]] - The culture he helped spawn

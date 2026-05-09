@@ -4,16 +4,7 @@ permacultureculture Community Structures and Legal Organizations
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Permaculture Community Structures and Legal Organizations
-
-updatebill-mollison
-
-Pamphlets XIII and XIV of the [[permaculture-design]] Course provide detailed models for organizing permaculture communities, including [[holmgren-permaculture-land-tenure-and-legal-structures]], trust systems, financial management, and practical enterprise models. Bill Mollison presents a working model used by [[mollison-permaculture-two-philosophy-and-tagari-community]] in Australia.
+tags: [[permaculture-design]] Course provide detailed models for organizing permaculture communities, including [[mollison-permaculture-two-philosophy-and-tagari-community]] in Australia.
 
 ## The Community Model
 
@@ -30,7 +21,7 @@ The Permaculture Institute (the name of this company) exists to work in areas of
 
 Under trust drawn up according to the laws of your country, it adds "for the good of all Americans" (or equivalent). This publicly oriented trust confers advantages:
 - Immunity from land taxes, rates, and local government charges
-- Automatic membership in [[entheogenic-plants-and-psychoactive-flora]] Free [[permaculture-designers-manual-seed-exchange]]** (4,600 institutes, 680 botanical gardens)
+- Automatic membership in [[permaculture-designers-manual-seed-exchange]]** (4,600 institutes, 680 botanical gardens)
 - Joint research with any other institute of its kind
 - Links with funding staff arrangements
 - Insulated from corporate risk -- if this fails, so do schools, churches, and public institutions, making it nearly unheard of for it to be raided

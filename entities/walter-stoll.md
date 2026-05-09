@@ -73,13 +73,10 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[mystical-experience]]
 - [[hofmann-lsd-clinical-research-early-studies]]
-- [[lsd]]
 - [[swiss-psycholytic-therapy-1988-1993]]
 
 ## See Also
 
-- [[albert-hofmann]] — the discoverer of LSD, a colleague of Stoll's father
-- [[sandoz-pharmaceuticals]] — the company that distributed LSD for clinical research
+- gordon-wasson — the discoverer of LSD, a colleague of Stoll's father
 - [[lsd-d-lysergic-acid-diethylamide]] — the compound Stoll first studied clinically

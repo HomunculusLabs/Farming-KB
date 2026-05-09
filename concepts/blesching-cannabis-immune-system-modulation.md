@@ -134,8 +134,6 @@ findings from the mind-body medicine literature:
 
 ## See Also
 
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[cannabis-autoimmune-conditions-detailed]]
 - [[blesching-cannabis-inflammatory-bowel-disease]]
 - [[blesching-cannabis-cancer-symptoms]]

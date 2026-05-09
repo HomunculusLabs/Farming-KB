@@ -3,20 +3,7 @@ title: Self Seeding Annuals Permaculture Two
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Self-Seeding Annuals and Perennial Food Systems
-
-updated: 2026-04-18
-
-Permaculture Two (1979) Chapter 3 documents strategies for creating self-maintaining annual and perennial food systems that reduce or eliminate the need for purchased seed, prepared beds, and annual planting labor.
-
-## The Self-Seeding Philosophy
-
-Allow 4-6% of crops to run to seed each season, eliminating the need to buy annual seed. This creates locally-adapted varieties and builds food sovereignty at the household level. See also [[fukuoka-do-nothing-farming-philosophy]].
+tags: [[fukuoka-do-nothing-farming-philosophy]].
 
 ## Self-Seeding Vegetable Strategies
 
@@ -106,20 +93,7 @@ The self-seeding annual system is not isolated but integrated with:
 
 ## Connection to Fukuoka
 
-The approach directly parallels [[fukuoka-do-nothing-farming-philosophy]] -- the "do-nothing" farming where nature does the planting. Fukuoka's system, using only poultry as manurial sources with ducks as pest controllers and recyclers, is explicitly cited as the model for Permaculture Two's approach to self-seeding systems.
-
-## Sources
-
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Chapter 3.
-
-#permaculture #self-seeding #no-till #perennial-vegetables #seed-saving #mulch #fukuoka #volunteer-plants
-
-## See Also
-
-- [[permaculture-self-audit-and-personal-design]]
-- [[permaculture-two-design-principles]]
+The approach directly parallels [[permaculture-self-audit-and-personal-design]]
 - [[permaculture-self-reliance-and-political-action]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-winter-grain-rice-rotation]]
-- [[mollison-permaculture-two-philosophy-and-tagari-community]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]

@@ -121,11 +121,7 @@ Modern molecular phylogenetic studies have confirmed *A. mappa* as a distinct li
 
 ## See Also
 
-- [[amanita-phalloides]]
 - [[amanita-pantherina]]
-- [[amanita-muscaria]]
 - [[amanita-rubescens]]
-- [[amanita-vaginata]]
 - [[amanita-caesarea]]
-- [[ibotenic-acid]]
 - [[muscarine]]

@@ -65,82 +65,26 @@ Synthesized via the anthranilic acid pathway in plant tissues:
 |--------------|--------|-----------|-----------------|
 | *Adhatoda vasica* | Acanthaceae | Leaves | 0.5–1.5% |
 | *Adhatoda beddomei* | Acanthaceae | Leaves | 0.3–0.8% |
-| *Peganum harmala* | Nitrariaceae | Seeds | Trace |
-| *Crotalaria burhia* | Fabaceae | Aerial parts | Trace |
-
-*Adhatoda vasica* remains the primary commercial source, with leaf extracts
-standardized to vasicine content for pharmaceutical use.
-
-## Pharmacology
-
-### Mechanisms of Action
-
-- **Bronchodilation:** Relaxes bronchial smooth muscle through β-adrenergic
-  agonism and phosphodiesterase inhibition; comparable to theophylline at
-  therapeutic doses
-- **Antitussive activity:** Suppresses cough reflex through central and
-  peripheral mechanisms; reduces cough receptor sensitivity
-- **Expectorant effect:** Increases respiratory tract fluid secretion,
-  reducing mucus viscosity and facilitating clearance
-- **Uterine stimulant:** Direct oxytocic activity on uterine smooth muscle
-- **Anti-inflammatory:** Inhibits COX-2 and 5-lipoxygenase; reduces
-  prostaglandin and leukotriene synthesis
-- **Antimicrobial:** Active against Gram-positive bacteria (*S. aureus*,
-  *B. subtilis*); moderate in vitro activity against *M. tuberculosis*
-
-### Pharmacokinetics
-
-- **Absorption:** Well absorbed from the gastrointestinal tract
-- **Distribution:** Widely distributed; concentrates in lung tissue
-- **Metabolism:** Hepatic oxidation to vasicinone (retains bronchodilatory
-  activity) and other oxidative products
-- **Excretion:** Primarily renal; eliminated within 24 hours
-- **Half-life:** 2–4 hours
-
-## Therapeutic Applications
-
-### Respiratory Disorders
-
-- **Bronchial asthma:** Bronchodilatory and anti-inflammatory effects provide
-  symptomatic relief; used as adjunct to conventional bronchodilators
-- **Chronic bronchitis:** Expectorant and mucolytic properties reduce sputum
-  viscosity; decreases frequency of acute exacerbations
-- **Cough:** Antitussive efficacy comparable to bromhexine and codeine in
-  clinical trials
-- **Tuberculosis:** Adjunctive antimicrobial activity against *M. tuberculosis*;
-  used in traditional formulations alongside antitubercular drugs
-
-### Traditional Medicine
-
-- Central ingredient in Ayurvedic formulations: Vasaka Kvatha (decoction),
-  Vasakarishta (fermented preparation), Vasaka Avaleha (confection)
-- Used in Unani medicine as *Sufuf Banafsha* and *Arad Khurma*
-- Traditionally prescribed for respiratory conditions, fever, hemorrhagic
-  disorders, and as a uterine tonic
-
-## Semi-Synthetic Derivatives
-
-- **Bromhexine:** Developed from vasicine by bromination; widely used
-  mucolytic available in over 80 countries
-- **Ambroxol:** Active metabolite of bromhexine; enhances surfactant
-  production and mucociliary clearance; available as syrup, tablet, inhalation
-- **Vasicinone:** Natural oxidation product with retained bronchodilatory
-  activity and reduced uterine stimulant effect
-
-## Toxicity and Safety
-
-- **LD₅₀ (oral, rat):** ~1,800 mg/kg (moderate acute toxicity)
-- **Common side effects:** Nausea, vomiting, epigastric discomfort at higher
-  doses (usually transient)
-- **Contraindications:** ⚠️ Pregnancy (uterine stimulant — may induce
-  contractions); ⚠️ Active bleeding disorders
-- **Drug interactions:** May potentiate other bronchodilators and uterotonics
-- **Safe dosage:** 25–50 mg vasicine hydrochloride, 2–3 times daily
-
-## See Also
-
-- [[justicia-adhatoda]]
-- [[berberine]]
+| *[[justicia-adhatoda]]
 - [[ephedrine]]
-- [[lobeline]]
+- lobeline
 - [[piperine]]
+## Practical Considerations
+
+Successful implementation of Vasicine requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

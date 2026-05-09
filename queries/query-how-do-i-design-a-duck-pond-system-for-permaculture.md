@@ -12,31 +12,14 @@ type: query
 
 ## Short Answer
 A permaculture duck pond system integrates water management, duck husbandry,
-and garden fertility into a closed-loop design. Following [[permaculture-duck-pond-systems]]
-principles from the [[permaculture-designers-manual-duck-pond-systems]], the
+and garden fertility into a closed-loop design. Following [[permaculture-designers-manual-duck-pond-systems]], the
 system uses duck manure to fertilize adjacent gardens, aquatic plants to filter
 water, and carefully designed pond zones to support duck health while
 minimizing maintenance requirements for the homesteader or farmer.
 
 ## Site Selection and Sizing
 
-As outlined in [[mollison-designers-duck-pond-integrated-systems]], site
-selection is the first and most critical step in designing an effective duck
-pond system. The ideal location is at the lowest point of your property or
-garden area, allowing gravity to feed water from higher elevations through
-the system naturally. The site should receive at least 6 hours of sunlight
-daily for aquatic plant growth, be accessible for maintenance and duck
-management, and have suitable soil (clay-rich soil is ideal for natural pond
-sealing, while sandy soils may require a liner to prevent water loss).
-
-Pond sizing depends on the number of ducks: a general guideline is 5-10 square
-feet of water surface per duck, with additional space in shallower margins for
-foraging and wading. For a small homestead flock of 4-6 ducks, a pond of
-30-50 square feet with surrounding wetland margins is appropriate. The pond
-should include distinct depth zones: shallow edges (2-6 inches) for dabbling
-and foraging, intermediate zones (1-2 feet) for swimming, and a deeper center
-(2-4 feet minimum) that remains cool and provides refuge from predators.
-[[permaculture-aquaculture-design]] principles emphasize maximizing edge length
+As outlined in [[permaculture-aquaculture-design]] principles emphasize maximizing edge length
 (the interface between water and land) because this is where the greatest
 biological productivity and diversity occurs in any aquatic system.
 
@@ -45,28 +28,7 @@ biological productivity and diversity occurs in any aquatic system.
 Effective water management is central to a healthy duck pond system. Unlike
 ornamental ponds, duck ponds receive heavy nutrient loading from manure and
 feed waste, which can lead to algae blooms and water quality deterioration if
-not properly managed through biological filtration. The [[permaculture-aquaculture]]
-approach uses biological filtration rather than mechanical systems to maintain
-water quality and create additional productive growing areas within the system.
-
-Recommended filtration plants include water hyacinth (Eichhornia crassipes),
-duckweed (Lemna spp.), watercress (Nasturtium officinale), pickerelweed
-(Pontederia cordata), and various Iris species. These plants absorb dissolved
-nutrients directly from the water, reducing algae fuel while providing duck
-forage and habitat for beneficial aquatic insects. A constructed regeneration
-zone upstream or alongside the main pond, where water flows through densely
-planted gravel beds before entering the duck area, significantly improves
-water quality. Water source management should incorporate rainwater harvesting
-where possible, with overflow directed to swales or garden areas for passive
-irrigation of adjacent growing spaces.
-
-## Integration with Garden Systems
-
-The primary benefit of a duck pond in permaculture design is the continuous
-production of nutrient-rich fertilizer. Duck manure is approximately 2-3%
-nitrogen, 1% phosphorus, and 1-1.5% potassium by fresh weight, making it an
-excellent all-purpose fertilizer for vegetable gardens and fruit trees.
-[[permaculture-duck-pond-systems]] are typically designed with the pond upslope from
+not properly managed through biological filtration. The [[permaculture-duck-pond-systems]] are typically designed with the pond upslope from
 vegetable gardens, allowing nutrient-laden water to flow through mulched
 channels or swales into garden beds during heavy rain or periodic pond
 draining and maintenance cycles.
@@ -118,11 +80,6 @@ harvesting fast-growing aquatic plants to maintain open water surface area.
 
 ## Related
 
-- [[query-how-do-i-design-a-multi-species-pasture-mix]]
-
-- [[query-how-do-i-create-habitat-for-amphibians-in-a-permaculture-system]]
-- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
-
+- [[arid-zone-permaculture-strategies-mollison]]
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] Questions
-- [[permaculture-aquaculture]]
 - [[permaculture-duck-pond-systems]]

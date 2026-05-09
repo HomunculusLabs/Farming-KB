@@ -109,13 +109,8 @@ The most common confusion is with Trametes versicolor (true turkey tail), which 
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[daedaleopsis-confragosa]]
-- [[bjerkandera-adusta]]
 - [[tremella-mesenterica]]
-- [[chondrostereum-purpureum]]
 - [[irpex-lacteus]]
-- [[fomes-fomentarius]]
 - [[ganoderma-applanatum]]
-- [[laricifomes-officinalis]]
-- [[xylaria-polymorpha]]
+- [[xylaria-polymorpha-entity]]

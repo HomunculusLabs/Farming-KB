@@ -9,54 +9,7 @@ sources:
 type: concept
 ---
 
-# [[mushroom-grow-equipment]]ing Houses
-
-Mushroom growing houses are specialised structures designed to
-provide the dark, cool, and humid conditions that mushrooms
-require for successful cultivation. In Victorian England,
-various types of structures were adapted or purpose-built for
-this purpose, ranging from dedicated mushroom houses to
-repurposed sheds, cellars, and even railway arches.
-
-## The Oldacre Mushroom House
-
-The Oldacre house was the first purpose-built mushroom house
-introduced to England. It was named after Mr. Oldacre, who had
-served as gardener to the Emperor of Russia for several years
-before returning to England. The first house of this sort was
-seen at Sir Joseph Banks' estate, where Oldacre was then
-employed as gardener.
-
-These houses were considered the best and safest for severe
-weather. They were enclosed all round by a wall and typically
-built against the south-facing wall of a vinery or other
-glasshouse, with the mushroom house itself facing north.
-They featured shelves with side boards from nine inches to a
-foot deep, placed one above another about two feet apart,
-with a central gangway for access.
-
-### Heating the Oldacre House
-
-Oldacre houses originally incorporated a flue passing through
-them for heating. However, Cuthill noted that this dry heat
-often did more harm than good, particularly if the house
-became overheated. He recommended hot water pipes as the
-superior option, which by the 1870s had become generally
-adopted. The hot water system should only be used during
-severe weather, not as a constant heat source.
-
-## Vineries as Mushroom Houses
-
-Where a dedicated Oldacre house was unavailable, vineries
-served as the next best option for mushroom bed preparation.
-Cuthill describes his own vinery setup: two old houses, each
-forty-five feet long, with a pathway along the centre and
-beds on each side four feet wide and about one foot four
-inches deep, made up of dung and mould.
-
-He also had a span-roofed house with beds on each side at
-the same depth. This low span-roofed structure had a
-particular advantage for [[mushroom-outdoor-beds]] and summer
+# [[mushroom-outdoor-beds]] and summer
 cultivation: by placing a covering of straw on top and
 watering it every night during hot weather, the inside
 temperature was kept cool enough to prevent maggot
@@ -89,19 +42,7 @@ Sheds ranked second only to pits or frames for mushroom
 cultivation. Beds in sheds were convenient to access and
 easily covered and uncovered as needed. Cuthill grew
 mushrooms under open sheds for extended periods, though he
-encountered difficulties with [[mushroom-pests-woodlice]],
-which thrived in such environments and grew "as fat as
-porkers" on the mushroom crop.
-
-### Shed Bed Construction
-
-Beds in sheds were generally made to slope from the wall,
-about three feet high next to the wall, sloping down to the
-ground. Cuthill recommended a foot-plank fixed on the floor
-in front to keep the dung and mould firm, creating a flatter
-bed surface more suitable for receiving water. He noted that
-a flat bed is more natural than the ridge system used for
-[[mushroom-outdoor-beds]], and kept all his beds higher in
+encountered difficulties with [[mushroom-outdoor-beds]], and kept all his beds higher in
 the centre by six or eight inches to increase surface area.
 
 ## Railway Arches
@@ -145,3 +86,7 @@ resources.
 ## See Also
 
 - [[mushroom-growing-substrates]]
+
+## See Also
+
+- [[falconer-growing-mushrooms-in-greenhouses]]

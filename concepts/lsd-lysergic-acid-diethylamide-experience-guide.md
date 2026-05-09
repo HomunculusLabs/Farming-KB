@@ -77,27 +77,18 @@ Most users report first few trips as like a ride through the funhouse — everyt
 - **DMT**: Smoking N,N-DMT while on acid produces powerfully enlightening experiences. The DMT overwhelms the acid during its short duration, but acid puts one on a higher platform for launching into DMT
 - **Nitrous Oxide**: Amplifies altered state, producing a dissociative state. Can add "an additional peak in your peak" or "break up" a state of mind. Works well with every psychedelic Turner tried
 - **Ludiomil** (anti-depressant): Nearly doubles acid strength while slightly altering the experience, producing a thin invisible membrane between self and senses. Produces highly vivid dreams for 3-4 nights afterward
-- See [[ecstasy-mdma-guide]] and [[psychedelic-combination-guide]] for additional combinations
+- See [[psychedelic-combination-guide]] for additional combinations
 
 ## Safety
 
 - LSD has a very wide margin between the active dose and toxic dose — one of the safest psychedelics physically
-- See [[psychedelic-experience-preparation]] for set and setting guidance
 - See [[mao-inhibitors-and-psychedelics]] for MAOI interaction safety
-- See [[psychedelic-safety-and-harm-reduction]] for general safety principles
+- See [[lsd-d-lysergic-acid-diethylamide]]
 
-## See Also
-
-- [[lsd-d-lysergic-acid-diethylamide]]
-
-- [[lsd-compound-profile]] — detailed chemistry and pharmacology
 - [[lsd-discovery-and-history]] — historical context
-- [[lsd-therapeutic-history]] — clinical research history
 - [[dmt-dimethyltryptamine-experience-guide]] — comparison with DMT
-- [[turner-psilocybin-mushroom-experience-guide]] — comparison with mushrooms
 - [[psychedelic-safety-and-harm-reduction]] — general safety
 
 ## Related
 
-- [[lsd-reference]]
 - [[tryptamine-family-overview]]

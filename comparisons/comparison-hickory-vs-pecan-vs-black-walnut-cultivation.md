@@ -3,26 +3,13 @@ title: Hickory vs Pecan vs Black Walnut Cultivation
 tags:
   - nut-trees
   - comparison
-  - [[permaculture]]
-  - food-forest
-  - tree-crops
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Northern Nut Growers Association
-  - USDA Forest Service Silvics Manual
-  - University of Georgia Extension
-  - Iowa State University Extension
-created: 2026-05-07
-type: comparison
----
-# Hickory vs Pecan vs [[black-walnut-juglone-plant-toxicity]] Cultivation
+  - [[black-walnut-juglone-plant-toxicity]] Cultivation
 
 ## At a Glance
 
 | Feature | Shagbark Hickory | Pecan | Black Walnut |
 |---------|-----------------|-------|--------------|
-| **Spcarya-illinoinensisata* | *[[carya-illinoinensis]]* | *[[juglans-nigra]]* |
+| **Spcarya-illinoinensisata* | *[[juglans-nigra]]* |
 | **Hardiness** | Zones 4–8 | Zones 5–9 (cultivar-dependent) | Zones 4–9 |
 | **Mature Height** | 60–80 ft | 70–100 ft | 50–75 ft |
 | **Growth Rate** | Slow (12–24 in/yr) | Moderate-Fast (24–36 in/yr) | Moderate (18–30 in/yr) |
@@ -48,52 +35,7 @@ type: comparison
 - Requires long, hot summers for full nut fill (unlike pecan)
 - Superior drought tolerance once its deep taproot is established
 - Less sequery-which-drought-tolerant-fruit-trees-are-best-for-permaculture-food-forestsate spring frosts due to later bud break
-- Best for: northern [[food-forest]] s, marginal sites, low-maintenance plantings
-
-### Pecan — The Southern Standard
-- Commercial powerhouse of the nut world, but needs warmth
-- Improved cultivars extend range to Zone 5, but Zone 6+ is safer
-- Short-season pecans ('Pawnee', 'Colby', 'Major') suit northern margins
-- Requires 200+ frost-free days for reliable nut maturity
-- Highly susceptible to pecan scab in humid regions — needs resistant cultivars
-- Best for: southern and central US, orchard settings, maximum nut yield
-
-### Black Walnut — The Versatile All-Rounder
-- Wide native range from Vermont to Texas
-- Good cold hardiness (Zone 4) but less heat-tolerant than pecan
-- Self-fertile enough to produce alone, but benefits from cross-pollination
-- Tolerates a wide range of soil types
-- Thousand cankers disease is an emerging threat in western range
-- Best for: timber + nut dual-purpose, mid-latitudes, reforestation
-
-## Site and Soil Preferences
-
-| Factor | Hickory | Pecan | Black Walnut |
-|--------|---------|-------|--------------|
-| **Soil pH** | 5.5–7.5 | 6.0–7.5 | 6.0–7.5 |
-| **Soil Depth** | Deep preferred, tolerates thin | Deep, fertile loam required | Deep, prefers rich |
-| **Drainage** | Well-drained essential | Well-drained, tolerates seasonal wet | Well-drained essential |
-| **Fertility Demand** | Low | High | Moderate |
-| **N Requirements** | Low-Moderate | High (200+ lbs N/acre/yr) | Moderate |
-
-Hickory wins on marginal, rocky, or droughty sites where pecans would struggle. Black walnut is intermediate, tolerating moderately poor soils but rewarding deep, fertile ground. Pecan demands the best soils and the most inputs.
-
-## Maintenance Requirements
-
-### Fertilization
-- **Hickory:** Minimal — an annual light application is sufficient. Over-fertilization promotes vegetative growth over nut production.
-- **Pecan:** Heavy feeder — requires regular nitrogen (200+ lbs/acre), zinc foliar sprays, and micronutrient management for commercial production.
-- **Black Walnut:** Moderate — responds well to nitrogen but less demanding than pecan.
-
-### Pest Management
-- **Hickory:** Hickory shuckworm and pecan weevil are the main concerns. Generally lower pest pressure than pecan.
-- **Pecan:** Pecan weevil, aphids, stink bugs, twig girdlers, and pecan scab are serious, often requiring multiple spray applications per year.
-- **Black Walnut:** Walnut husk fly, curculio, and thousand cankers disease. Generally requires less intensive management than pecan.
-
-### Pruning
-- All three benefit from formative pruning to establish a central leader
-- Hickory and black walnut have strong natural form and need less intervention
-- Pecan requires more deliberate pruning for [[orchard-management]] and light penetration
+- Best for: northern [[orchard-management]] and light penetration
 
 ## Yield and Economic Comparison
 

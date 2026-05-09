@@ -131,11 +131,7 @@ where its hosts are abundant.
 
 ## See Also
 
-- [[hypomyces-lactifluorum]]
-
 - [[oyster-mushroom-viral-diseases]]
-- [[mushroom-quality-of-life-cancer]]
-
 - [[mushroom-identification]] guides
 - parasitic fungi in ecosystems
 - Russula species

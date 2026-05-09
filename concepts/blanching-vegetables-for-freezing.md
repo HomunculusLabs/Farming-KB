@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 # Blanching Vegetables for Freezing
 
@@ -98,11 +99,7 @@ Note: For corn, cooling time doubles after blanching.
 
 ## See Also
 
-- [[lacto-fermentation-and-food-preservation-methods]]
 - [[root-cellaring-and-no-energy-food-storage]]
-- [[solar-and-electric-food-drying-methods]]
 - [[kitchen-composting-and-vermicomposting]]
-- [[sustainable-living-habits-for-homesteads]]
 - [[faires-low-energy-cooking-and-food-preservation]]
-- [[faires-food-drying-and-no-energy-storage]]
 - [[mushroom-submerged-fermentation-pharmaceutical]]

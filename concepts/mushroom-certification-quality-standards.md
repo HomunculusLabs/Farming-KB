@@ -3,36 +3,7 @@ title: Mushroom Certification and Quality Standards
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources: []
----
-# Mushroom Certification and Quality Standards
-
-Mushroom certification and quality standards encompass the regulatory frameworks, industry standards, and certification programs that govern the harvesting, processing, and trade of wild and cultivated mushrooms. These standards address food safety, species authentication, quality grading, and sustainability claims in the global mushroom market.
-
-## Overview
-
-The global mushroom trade involves thousands of species, diverse harvesting and production systems, and complex international supply chains. Ensuring food safety, accurate species identification, and quality consistency across this varied landscape requires a framework of standards and certifications.
-
-Mushroom certification and quality standards serve multiple purposes: protecting consumer health from toxic or contaminated mushrooms, ensuring accurate labeling of species and origin, maintaining quality standards for commercial trade, and documenting sustainable harvesting practices. The regulatory landscape varies significantly between countries and between wild-harvested and cultivated products.
-
-## Food Safety Standards
-
-### Toxic Species Prevention
-
-The most fundamental food safety concern in the mushroom industry is the prevention of toxic species from entering the food supply. Unlike most agricultural products, wild-harvested mushrooms include species that can cause serious illness or death if consumed.
-
-Regulatory frameworks in most countries require that wild mushrooms sold commercially be identified by trained experts. In the European Union, Regulation (EU) No 2283/2015 established marketing standards for certain cultivated mushrooms, and many EU member states have additional regulations for wild-harvested species.
-
-In practice, food safety for wild mushrooms depends heavily on the expertise of harvesters and buyers. Training programs for mushroom identification, such as those offered by mycological societies and agricultural extension services, play a critical role in preventing toxic species from reaching consumers. See [[mushroom-foraging-safety]] and [[fungal-poisons-and-toxicology]] for safety information.
-
-### Contaminant Monitoring
-
-Mushrooms can accumulate heavy metals, radioactive isotopes, and chemical contaminants from their environment. Wild mushrooms harvested from contaminated areas may contain unsafe levels of mercury, cadmium, lead, cesium-137, or pesticide residues.
-
-Regulatory bodies including the European Food Safety Authority (EFSA) and the US Food and Drug Administration (FDA) have established maximum levels for certain contaminants in food products, including mushrooms. Monitoring programs test mushroom products, particularly imports, for compliance with these standards.
-
-Boletes (including porcini) are of particular concern because they are efficient accumulators of heavy metals and radioactive elements. Imports of dried porcini from certain regions have been rejected or recalled due to excessive contaminant levels. See [[fungi-and-radioactive-contamination]] for contamination concerns.
+tags: [[mushroom-foraging-safety]] and [[fungi-and-radioactive-contamination]] for contamination concerns.
 
 ### Hygiene and Processing Standards
 
@@ -104,19 +75,10 @@ Regulatory frameworks vary widely across Asian countries. Japan has strict impor
 
 ## See Also
 
-- [[porcini-commercial-market]]
-
 - [[wild-mushroom-harvest-sustainability]]
-
-- [[truffle-guide]]
-
-## Related
 
 - [[mushroom-foraging-safety]]
 
-- [[fungal-poisons-and-toxicology]]
-
 - [[fungi-and-radioactive-contamination]]
 
-- [[compost-quality-standards]]
 - [[oyster-mushroom-pest-insect-identification-guide]]

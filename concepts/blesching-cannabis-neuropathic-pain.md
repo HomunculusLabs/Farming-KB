@@ -103,8 +103,6 @@ signaling network.
 
 ## Related Topics
 
-- [[cannabis-chronic-pain-management]]
 - [[blesching-cannabis-multiple-sclerosis]]
-- [[blesching-cannabis-hiv-aids]]
 - [[blesching-cannabis-diabetes]]
 - [[blesching-cannabinoid-pharmacology]]

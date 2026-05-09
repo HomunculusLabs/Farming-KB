@@ -27,31 +27,6 @@ resources more effectively throughout the establishment process.
 
 ## Windbreak Design
 
-[[windbreak-and-shelterbelt-design]]
-
-Windbreak design encompasses the spatial planning of wind protection systems, including orientation relative to prevailing winds, number of
-rows, overall width, and integration with the broader landscape plan. The fundamental design principle is that wind speed is reduced for a
-distance of 10 to 15 times the windbreak height on the downwind side, with a smaller reduction zone of 2 to 5 times the height on the upwind
-side. A 10-meter-tall windbreak therefore protects an area extending 100 to 150 meters downwind, with maximum protection of 50 to 60 percent
-wind reduction occurring within 3 to 5 times the height.
-
-Optimal density is a critical design parameter. Research consistently shows that a porosity of 40 to 60 percent provides the greatest
-downwind protection distance, because this range allows enough wind to pass through the structure rather than deflecting it entirely over
-the top, which would create damaging turbulence on the leeward side. Dense, impermeable barriers such as solid fences actually reduce
-effective protection distance compared to semi-permeable vegetative windbreaks, making density optimization a central design concern.
-
-Row layout and cross-sectional profile significantly influence windbreak performance. Multi-row designs with 3 to 5 rows provide better
-protection than single rows because they create a gradual transition zone rather than an abrupt wind shadow. The ideal cross-section tapers
-from low shrubs on the windward edge through progressively taller trees toward the leeward side, producing a wedge-shaped profile that
-reduces wind speed smoothly without generating recirculation zones.
-
-Design also addresses placement relative to buildings, gardens, and livestock areas. Windbreaks should be positioned upwind of the protected
-area at a distance of 2 to 5 times the mature height. The orientation must account for prevailing wind directions, seasonal wind pattern
-shifts, and specific sheltering needs. Integration with other permaculture elements such as swales, access roads, and water systems ensures
-the windbreak serves multiple functions beyond wind protection alone.
-
-## Species Selection
-
 [[windbreak-shelterbelt-species-selection]]
 
 Species selection determines which specific trees and shrubs are planted at each position within the windbreak design framework. Effective
@@ -132,9 +107,6 @@ other species around it within the designed structure.
 
 ## See Also
 
-- [[comparison-windbreak-vs-thermal-mass]]
-
 - [[windbreak-and-shelterbelt-design]]
-- [[windbreak-shelterbelt-species-selection]]
 - [[comparison-windbreak-vs-hedgerow]]
 - [[permaculture-design]]

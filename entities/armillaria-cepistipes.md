@@ -109,14 +109,9 @@ The edibility of A. cepistipes is generally considered good when thoroughly cook
 
 ## See Also
 
-- [[armillaria-mellea]]
 - [[armillaria-gallica]]
-- [[armillaria-ostoyae]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[hericium-erinaceus]]
-- [[trametes-versicolor]]
-- [[fomes-fomentarius]]
+- [[laetiporus-sulphureus]]
+- [[trametes-versicolor-entity]]
 - [[ganoderma-lucidum]]
-- [[boletus-edulis-entity]]
 - [[cantharellus-cibarius-entity]]
 - [[suillus-luteus]]

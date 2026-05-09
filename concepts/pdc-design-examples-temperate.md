@@ -3,18 +3,7 @@ title: PDC Design Examples - Temperate
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Temperate [[permaculture-designers-manual-island-climate]] [[urban-permaculture-edge-effect-and-design-principles]]
-
-[[allegro-death-and-resurrection-in-the-mushroom-cult]] 1981 [[permaculture-introduction-and-definitions]] Design Course, Bill permaculture-design|Mollison provides extensive guidance for temperate climate design across multiple pamphlets, particularly Pamphlet II (Humid Landscapes). This page consolidates the key temperate design strategies he teaches.
-
-## Climate Characteristics
-
-Mollison defines temperate climates broadly, noting that "humid landscapes" cover much [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] eastern US, Europe, and similar latitudes. Key features:
+tags: [[permaculture-designers-manual-island-climate]] [[allegro-death-and-resurrection-in-the-mushroom-cult]] 1981 [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] eastern US, Europe, and similar latitudes. Key features:
 - 30-40 inches rainfall or more
 - Seasonal temperature variation
 - Both wet and dry periods
@@ -24,7 +13,7 @@ Mollison defines temperate climates broadly, noting that "humid landscapes" cove
 ## Landscape Reading
 
 ### The Thermal Belt
-Between the frost pocket (bottom of valley) [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] ridge top, there exists a thermal belt -- the warmest zone on the slope. This is where "frost is less likely to form" and plants get the earliest spring and latest autumn growth. The keyline concept applies: store [[water-management]] high and distribute along contour.
+Between the frost pocket (bottom of valley) [[water-management]] high and distribute along contour.
 
 ### Valley and Ridge Systems
 - **Valley systems** are less fire-prone than ridge tops but may have species killed by sudden fires
@@ -35,28 +24,14 @@ Between the frost pocket (bottom of valley) [[triptolemus-eumolpus-and-the-found
 ### The Patterning Principle
 "You can't run a continuous fence out and put your clamps on it. You have to break your fence lines up with little fragments of planting." This principle of "edge enhancement" applies throughout temperate design: create more edge between zones for increased productivity.
 
-## Water [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] Temperate Landscapes
-
-### Swales
-"Swales are a critical technology for winter-wet America." A [[swale-design]] is a broad, shallow trench on true contour -- water does not flow along it, only sinks in. Key specifications:
+## Water [[swale-design]] is a broad, shallow trench on true contour -- water does not flow along it, only sinks in. Key specifications:
 - Minimum four feet wide, often much wider
 - Widened in sandy/gravelly soils
 - Deepened in clay soils to create ponds within the swale
 - Aging swales become more efficient as tree roots penetrate and carry water deeper
 
 ### The Davis Example
-Mollison cites the Davis, California swale system: initially absorbed about 40% of water, then 85%, now 100%. It now absorbs water from off-site. "All [[trees-and-the-water-cycle]] that falls on that property is retained on that property."
-
-### Keyline Irrigation
-For flatter temperate lands:
-- Side channels with slight fall
-- Removable plug barriers
-- Short 2-inch pipes leading to graded channels across fields
-- Trees on banks between channels
-- When one section saturates, move plugs to the next area
-
-### Storage Tank Placement
-- Tanks up on slope above house roof level (gravity flow to [[underground-house-and-earth-berm-construction]] garden)
+Mollison cites the Davis, California swale system: initially absorbed about 40% of water, then 85%, now 100%. It now absorbs water from off-site. "All [[underground-house-and-earth-berm-construction]] garden)
 - Never fill a tank from a house roof if avoidable (roof catchment separate)
 - Hot water collectors below sill level on shaded side for thermo-siphon
 - Underground tanks integrated into structures

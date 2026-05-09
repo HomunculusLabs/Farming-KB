@@ -103,21 +103,6 @@ the closer the objects need to be.
 Fish are listed among the small, quiet domestic animals
 appropriate for Zone 1. Small aquaculture systems, even as
 simple as a bathtub or small tank, can produce significant
-protein yields. Fish integrate with [[mollison-greywater-domestic-water-recycling]] and pond-edge plantings, creating productive
-mini-ecosystems at the doorstep.
-
-## Snail and Mollusc Management
-
-Mollusc control: snails and slugs are almost totally controlled
-by ducks and guinea-fowl on free range. Lizards (Tiliqua spp.)
-also feed primarily on snails. Domestic foragers for snail and
-insect pests are listed among the design essentials for wet
-tropical systems, where these pests can cause significant damage
-to young plants and seedlings.
-
-## See Also
-
-- [[mollison-zone-one-garden-design]]
-- [[mollison-zone-one-techniques]]
+protein yields. Fish integrate with [[mollison-zone-one-garden-design]]
 - [[mollison-animal-integration-in-permaculture]]
 - [[mollison-poultry-duck-integration]]

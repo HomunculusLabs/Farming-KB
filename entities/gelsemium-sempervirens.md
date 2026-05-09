@@ -109,11 +109,7 @@ The plant is not listed under the Convention on International Trade in Endangere
 
 ## See Also
 
-- [[aconitum-napellus]]
 - [[cicuta-maculata]]
-- [[conium-maculatus]]
 - [[taxus-baccata]]
-- [[datura-stramonium]]
-- strychnos nux vomica
 - [[hydrastis-canadensis]]
 - [[papaver-somniferum]]

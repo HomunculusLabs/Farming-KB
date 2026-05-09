@@ -100,13 +100,8 @@ Sulfur deficiency is increasingly common as air quality improves. Brassicas (cab
 
 ## Related
 
-- [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] Topics
-
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]] -- the primary macronutrients
-- [[plant-micronutrients-and-their-essential-functions]] -- the trace elements
 - [[photosynthesis-and-chloroplast-function]] -- magnesium's role in chlorophyll
-- [[adenosine-triphosphate-and-cellular-energy]] -- magnesium's role in ATP
-
 - [[plant-cellulose-and-carbohydrate-chemistry]]
 
 ## Merged: Calcium Magnesium Balance

@@ -70,15 +70,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[ectomycorrhizal-fungi]]
 - [[ectomycorrhizal-associations]]
-- [[mycorrhizal-fungi]]
 - [[spore-print]]
 
 ## See Also
 
-- [[suillus-bovinus]]
 - [[boletus-edulis-entity]]
-- [[laccaria-laccata]]
 - [[pisolithus-tinctorius]]
 - [[russula-edible-species]]

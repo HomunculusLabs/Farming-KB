@@ -75,15 +75,11 @@ both livestock nutrition and wildlife feed availability.
 ## Time Across the Ecosystem Processes
 
 The time dimension affects all four ecosystem foundation blocks. For the
-[[savory-water-cycle-management]], the timing and duration of animal impact
-determines whether soil surfaces are chipped and aerated (beneficial) or
-pulverized and compacted (harmful). For the [[savory-mineral-cycle-management]],
+[[savory-mineral-cycle-management]],
 the timing of grazing relative to plant growth stages affects the return of
 nutrients to the soil surface.
 
-For [[savory-energy-flow-and-solar-capture]], the timing of defoliation
-determines whether plants maintain vigorous growth or shift to lower
-successional states. For [[savory-plant-succession-and-community-dynamics]],
+For [[savory-plant-succession-and-community-dynamics]],
 the timing of disturbance relative to rest governs whether plant communities
 advance, stagnate, or deteriorate.
 
@@ -120,10 +116,7 @@ numbers increase.
 
 ## See Also
 
-- [[savory-recovery-and-grazing-periods]]
 - [[savory-overgrazing-vs-overrest]]
-- [[savory-short-duration-grazing-and-cell-systems]]
 - [[savory-livestock-grazing-planning]]
-- [[savory-replanning-and-monitoring-feedback]]
 - [[savory-growing-season-and-non-growing-season-management]]
 - [[savory-stock-density-vs-stocking-rate]]

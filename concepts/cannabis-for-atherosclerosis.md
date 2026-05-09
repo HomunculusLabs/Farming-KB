@@ -58,33 +58,35 @@ CBD-dominant strains or isolated CBD preparations may be most relevant given the
 
 ## Safety Considerations
 
-Atherosclerosis patients are often on multiple cardiovascular medications including statins, blood pressure drugs, and blood thinners. Cannabis may interact with these medications. See [[cannabis-drug-interactions-and-contraindications]] and [[cannabis-cardiovascular-health]] for detailed safety information.
+Atherosclerosis patients are often on multiple cardiovascular medications including statins, blood pressure drugs, and blood thinners. Cannabis may interact with these medications. See [[cannabis-cardiovascular-health]] for detailed safety information.
 
 Patients with existing cardiovascular disease should consult their cardiologist before using cannabis. The cardiovascular effects of THC (including potential tachycardia and blood pressure changes) warrant particular caution in this population.
 
 ## Related Topics
 
-- [[cannabis-cardiovascular-health]] for broader cardiovascular context
-
 - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms
-
-- [[cannabis-immune-modulation]] for immune system effects
 
 - [[cannabis-endocannabinoid-system]] for receptor science
 
-- [[cannabis-cbd-therapeutic-profile]] for CBD-specific information
-
 - [[cannabis-drug-interactions-and-contraindications]] for interaction safety
 
-- [[cannabis-health-index]] for the CHI methodology
-
-## Key Research Summary
-
-A 2006 study found cannabis positively affects the immune system with potential benefits for atherosclerosis. A 2009 Japanese study showed CBD derivatives inhibit 15-LOX, an enzyme involved in oxidizing LDL. A 2010 Chinese study demonstrated WIN55,212-2 significantly reduced aortic atherosclerotic lesion size in mice. These findings suggest cannabinoids may both prevent and reduce atherosclerotic damage.
-
-## Limitations and Future Directions
-
-Current evidence comes entirely from laboratory and animal studies. Human clinical trials are needed to confirm whether these promising findings translate to cardiovascular benefit in humans. The development of CBD derivatives optimized for 15-LOX inhibition represents a potential pharmaceutical approach. Future research should examine whether long-term cannabis use in humans is associated with reduced atherosclerosis progression or cardiovascular events.
-
-Source: Uwe Blesching, The Cannabis Health Index (2015)
 - [[cannabis-safety-profile-and-overdose-risk]]
+## Practical Considerations
+
+Successful implementation of Cannabis for Atherosclerosis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

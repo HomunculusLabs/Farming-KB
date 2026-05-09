@@ -20,10 +20,7 @@ type: concept
 
 # Ayahuasca Interactions with Prescription Medications
 
-The pharmacological complexity of [[harmala-alkaloids-and-ayahuasca-preparation]] creates serious and
-potentially fatal interactions with numerous prescription medications.
-The brew's monoamine oxidase inhibiting (MAOI) activity, combined with
-its serotonergic [[tryptamine]] content, means that individuals taking
+The pharmacological complexity of [[tryptamine]] content, means that individuals taking
 certain medications face risks ranging from hypertensive crisis to
 serotonin syndrome and death. Unlike
 pharmaceutical drug interactions that are typically monitored by
@@ -33,13 +30,7 @@ critically important.
 
 ## Pharmacological Basis of Interactions
 
-[[ayahuasca]] contains two primary pharmacological classes that together
-create a unique and dangerous interaction profile:
-
-- **Beta-carbolines** (harmine, harmaline, tetrahydroharmine): These
-  compounds are reversible monoamine oxidase inhibitors (MAOIs),
-  specifically inhibiting the MAO-A isoform. They prevent the
-  breakdown of [[dimethyltryptamine|DMT]] in the digestive tract and
+[[dimethyltryptamine|DMT]] in the digestive tract and
   liver, enabling its oral activity. However, this MAOI action also
   inhibits the metabolism of many other endogenous and exogenous
   compounds processed by monoamine oxidase enzymes
@@ -126,24 +117,8 @@ cardiovascular drugs through tyramine-related mechanisms:
 ## The Tourist Safety Gap
 
 A critical concern identified by researchers observing
-[[ayahuasca-tourism|ayahuasca tourism]] in Peru is that most shamans
-and ceremony facilitators are unfamiliar with Western pharmaceuticals
-and cannot advise tourists on potential drug interactions. The
-responsibility falls entirely on the individual participant.
+[[ayahuasca-tourism-medical-risks-prescription-interactions]] Concepts
 
-This creates a dangerous information asymmetry. Tourists seeking
-spiritual experiences may not adequately research pharmacological risks.
-Practitioners typically have no medical training to identify early signs
-of adverse drug interactions or to respond appropriately in an
-emergency.
-
-## Related
-
-- [[ayahuasca-tourism-medical-risks-prescription-interactions]] Concepts
-
-- [[ayahuasca-pharmacology]] for detailed biochemical mechanisms
 - [[mao-inhibitors-and-psychedelics]] for MAOI pharmacology
 - serotonin syndrome for clinical presentation and management
-- [[ayahuasca-tourism-practitioners-and-safety-considerations]] for
-  broader safety context
 - [[ayahuasca-botany-and-preparation]] for preparation methods

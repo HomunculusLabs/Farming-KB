@@ -10,20 +10,7 @@ sources:
 
 # Insects Also Create New Varieties of Rice
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] presents the provocative observation that insects play a role in creating new rice varieties, challenging the conventional understanding of how plant genetic variation arises.
-
-## Nature's Hidden Mechanisms
-
-Fukuoka asserts that new rice varieties arise through natural processes involving insects:
-
-- Insects interact with rice plants in ways that influence genetic expression and variation
-- The constant pressure of insect feeding, disease, and environmental stress generates diversity
-- This natural process of variation creation is invisible to conventional breeding science
-- Nature's methods of creating diversity are more sophisticated than human breeding programs
-
-## Beyond Darwinian Competition
-
-This observation connects to Fukuoka's [[fukuoka-problems-darwin-evolution]]:
+In *The Road Back to Nature*, [[fukuoka-problems-darwin-evolution]]:
 
 - If insects help create new varieties, this is cooperation, not competition
 - The plant-insect relationship is not a war but a partnership in creativity
@@ -35,8 +22,6 @@ This observation connects to Fukuoka's [[fukuoka-problems-darwin-evolution]]:
 Fukuoka's observation has practical implications:
 
 - Modern breeding programs that eliminate insects also eliminate a source of natural variation
-- [[fukuoka-critique-genetic-engineering]] attempts to do mechanically what nature does organically
-- The best approach to plant improvement is to create conditions where natural variation can flourish
 - [[fukuoka-reviving-ancestral-strains]] already contain the genetic diversity that breeding programs seek to create
 
 ## Connection to Natural Farming Practice
@@ -44,20 +29,7 @@ Fukuoka's observation has practical implications:
 In natural farming, this principle is put into practice:
 
 - Growing rice without pesticides allows natural insect populations to interact with crops
-- [[fukuoka-natural-rice-barley-cultivation]] accepts insect presence as part of the system
-- Over time, the rice population adapts to local conditions through these natural interactions
-- The farmer's role is to create conditions for natural selection, not to impose artificial selection
-
-## The Farmer's Ode
-
-Fukuoka closes a section with "A Farmer's Ode" — a poetic expression of the farmer's relationship with nature:
-
-- The farmer who works with nature experiences its creativity directly
-- Each season brings unexpected variation and adaptation
-- The joy of farming comes from witnessing nature's ingenuity
-- This direct experience of nature's creativity is lost when farming becomes industrial
-
-See also: [[fukuoka-problems-darwin-evolution]], [[fukuoka-reviving-ancestral-strains]], [[fukuoka-seed-selection-methods]], [[fukuoka-natural-rice-barley-cultivation]], [[fukuoka-natural-pest-balance]]
+- [[fukuoka-problems-darwin-evolution]], [[fukuoka-seed-selection-methods]], [[fukuoka-natural-pest-balance]]
 
 ## Key Points
 
@@ -69,7 +41,7 @@ See also: [[fukuoka-problems-darwin-evolution]], [[fukuoka-reviving-ancestral-st
 
 ## See Also
 
-[[fukuoka-natural-farming-new-age]], [[fukuoka-rice-barley-annual-calendar]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-seed-war-rice-weapon]], [[fukuoka-rice-barley-no-till-method]], [[fukuoka-tasty-rice-illusion]], [[fukuoka-natural-rice-barley-cultivation]]
+[[fukuoka-rice-barley-annual-calendar]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-rice-barley-no-till-method]], [[fukuoka-natural-rice-barley-cultivation]]
 
 ## Practical Applications
 

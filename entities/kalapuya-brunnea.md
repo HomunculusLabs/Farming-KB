@@ -106,15 +106,9 @@ Climate change models predict reduced winter precipitation in the Pacific Northw
 
 ## See Also
 
-- [[tuber-melanosporum]]
 - [[tuber-aestivum]]
-- [[boletus-edulis-entity]]
 - [[suillus-luteus]]
-- [[hericium-erinaceus]]
-- [[trametes-versicolor]]
-- [[ganoderma-lucidum]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[cantharellus-cibarius-entity]]
+- [[trametes-versicolor-entity]]
+- [[laetiporus-sulphureus]]
 - [[paul-stamets]]
-- [[fomes-fomentarius]]
 - [[lactarius-indigo]]

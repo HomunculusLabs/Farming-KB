@@ -3,31 +3,7 @@ title: Neurotropic Fungi World Checklist
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
----
-# Neurotropic Fungi World Checklist
-
-The comprehensive worldwide checklist of 216 known neurotropic (hallucinogenic/psychotropic) fungal species, as compiled by Guzman, Allen, and Gartz (1998/2000), organized by genus and chemical group.
-
-## Overview
-
-The 216 species of neurotropic fungi are divided into four major groups based on their active compounds and cultural usage.
-
-The checklist considers more than 450 bibliographic references and represents the most comprehensive survey of hallucinogenic mushroom diversity ever assembled.
-
-## Group 1: Species with Psilocybin and Related Indoles
-
-This group contains 186 species across 12 genera, representing the vast majority of known neurotropic fungi.
-
-### Psilocybe: 116 Species
-
-The largest genus of neurotropic fungi, containing 116 species worldwide.
-
-Mexico alone has 44 Psilocybe species (39% of the world total), making it the center of Psilocybe diversity.
-
-Key species include [[psychedelic-mushrooms-species-and-identification]], [[psychedelic-mushrooms-species-and-identification]], [[psychedelic-mushrooms-species-and-identification]], [[psychedelic-mushrooms-species-and-identification]], [[psilocybe-azurescens-profile]], [[psilocybe-subaeruginosa-australia]], and [[global-psychedelic-mushroom-species-diversity]].
+tags: [[psychedelic-mushroom-set-and-setting]], [[psychedelic-mushroom-set-and-setting]], [[psilocybe-azurescens-profile]], [[global-psychedelic-mushroom-species-diversity]].
 
 The genus is divided into several sections based on morphology and spore characteristics, including Section Mexicanae, Section Zapotecorum, Section Aztecorum, and others.
 
@@ -35,9 +11,7 @@ The genus is divided into several sections based on morphology and spore charact
 
 Medium to large mushrooms with rusty orange to yellow-orange spore prints, preferring wood substrates.
 
-Confirmed active species include [[psilocybin-mushroom-deadly-lookalikes]], [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]], G. braendlei, G. intermedius, G. luteoviridis, G. liquiritiae, G. luteus, G. validipes, and G. viridans.
-
-[[gymnopilus-purpuratus-profile]] is also likely active based on its bluing reaction.
+Confirmed active species include [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]] is also likely active based on its bluing reaction.
 
 A Mexican species, Gymnopilus subpurpuratis, is suspected active due to its green bruising reaction.
 
@@ -47,13 +21,7 @@ Dark-spored mushrooms of the family Coprinaceae, many growing on dung.
 
 Species with mottled or spotted gills caused by uneven ripening of spore-producing cells.
 
-Key species include [[panaeolus-cyanescens-bali-omelette]], [[panaeolus-subbalteatus-profile]], [[panaeolus-tropicalis-cultivation-differences]], P. africanus, P. cambodginiensis, P. tropicales, P. olivaceus, and P. moellerianus.
-
-### Copelandia: 12 Species
-
-Formerly classified within Panaeolus, this genus contains strongly bluing, dung-inhabiting tropical and subtropical species.
-
-See [[copelandia-genus-species-guide]] for detailed coverage.
+Key species include [[panaeolus-subbalteatus-profile]], [[copelandia-genus-species-guide]] for detailed coverage.
 
 Species include Copelandia cyanescens, C. tropicalis, C. mexicana, and others.
 
@@ -71,14 +39,6 @@ The original species described by Maire from Algeria as "Hypholoma cyanescens" w
 
 Light-spored mushrooms of the Pluteaceae family, the only psilocybin-containing genus with rose-colored spore prints.
 
-[[pluteus-salicinus-profile]] is the best-known active species, found across Europe and North America on decaying hardwood stumps.
-
-Pluteus cyanopus has been reported to contain 0.035% psilocybin.
-
-### Inocybe: 6 Species
-
-Mycorrhizal "fibrehead" mushrooms, most of which are dangerous due to muscarine-containing relatives.
-
 [[inocybe-aeruginascens-profile]] is the best-known active species, found in Central Europe.
 
 Other active species include Inocybe corydalina, I. haemacta, I. tricolor, and I. coelestium.
@@ -87,7 +47,7 @@ Other active species include Inocybe corydalina, I. haemacta, I. tricolor, and I
 
 Small, fragile mushrooms of the Bolbitiaceae family.
 
-[[conocybe-cyanopus-profile]] and [[conocybe-cyanopus-profile]] are confirmed active.
+[[conocybe-cyanopus-profile]] are confirmed active.
 
 Conocybe siliginoides is considered endemic (Mexico).
 

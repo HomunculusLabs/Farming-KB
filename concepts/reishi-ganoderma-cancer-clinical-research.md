@@ -82,12 +82,7 @@ While objective tumour responses were not observed with Ganopoly monotherapy, th
 
 ## See Also
 
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
-
 - [[reishi-mushroom-medicinal-research]]
-- [[reishi-mushroom-medicinal-properties]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[medicinal-mushrooms-biological-response-modifiers]]
 - [[mushroom-quality-of-life-cancer]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[psk-breast-lung-cancer-clinical-trials]]

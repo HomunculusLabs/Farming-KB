@@ -85,50 +85,10 @@ for community resilience.
 waves, electromagnetic radiation). Scatter patterns describe how seeds, spores, and offspring
 distribute themselves for optimal colonization. Designers use scatter patterns when
 positioning trees, placing guilds, and planning seed ball distribution for
-[[fukuoka-natural-vegetable-growing]] approaches.
-- **Circle and cycle patterns**: Circles minimize perimeter-to-area ratio (maximizing
-enclosure efficiency) and appear in tree trunks, nests, and planetary orbits. Cycles —
-seasonal, hydrological, nutrient — are the temporal patterns that drive all ecological
-processes. Designing with cycles means timing interventions to match natural rhythms rather
-than fighting them.
-
-## Scale and Proportion in Pattern Application
-
-Patterns operate across scales, and the effective application of a pattern depends on
-understanding the scale at which it is relevant. A branching pattern that works well for a
-property's path system (meters to hundreds of meters) may not be appropriate for the layout
-of a garden bed (centimeters to meters).
-Mollison and Holmgren emphasized that designers should work from the largest scale patterns
-down to the finest details — hence Permaculture Principle #4, "design from patterns to
-details." This means establishing the overall shape and flow of the system first, then
-filling in the specific elements. The master plan should be a pattern-level design; the
-specifics of which variety of apple tree to plant are details that can be adjusted without
-disrupting the overall pattern.
-
-## Edge in Pattern Design
-
-The edge between two patterns creates a zone of heightened productivity and diversity. A
-forest edge meets a meadow creates species and conditions found in neither alone. In design,
-placing patterns in proximity creates productive edges: a pond edge meets a garden, a tree
-line meets a pasture, a building meets a garden. Deliberately designing edges — through
-curves, keyholes, and irregular boundaries — maximizes these productive transition zones
-and is one of the most powerful tools available to the permaculture designer.
-
-## Recommended Reading
-
-A Pattern Language: Towns, Buildings, Construction by Christopher Alexander, Sara Ishikawa and Murray Silverstein. This foundational work on pattern languages in architecture directly inspired the Permaculture approach to reading and creating patterns in ecological design.
-
-## Related Pages
-
-- [[pdc-pattern-understanding-and-design-application]]
-- [[pdc-patterns-in-nature]]
+[[pdc-pattern-understanding-and-design-application]]
 - [[pdc-invisible-structures-and-social-design]]
-- [[pdc-design-methods-site-analysis]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
 - [[permaculture-principle-design-from-patterns-to-details]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
-- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
+- [[permaculture-farm-design-principles]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
 - [[fukuoka-change-come-over-westerners]]

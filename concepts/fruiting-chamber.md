@@ -1,7 +1,7 @@
 ---
 title: Fruiting Chamber
 created: 2026-04-28
-tags: [mycology, environment, humidity, cultivation, pf-tek]
+tags: [[mycology, environment, humidity, cultivation, pf-tek]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
@@ -11,18 +11,10 @@ type: concept
 # Fruiting Chamber
 
 A **fruiting chamber** is an enclosed environment designed to provide the
-specific conditions that trigger [[psilocybin-mushrooms]] to produce
-mushrooms (fruiting bodies) from colonized [[substrate-ph-management]]. [[allegro-death-and-resurrection-in-the-mushroom-cult]] [[pf-tek]]
+specific conditions that trigger [[substrate-ph-management]]. [[pf-tek]]
 method, fruiting chambers are where the colonized substrate cakes are placed
 after being removed from their jars (a process called "birthing"). The chamber
-must replicate [[weil-the-natural-mind-altered-states-normalcy]] environmental cues that signal fungi to reproduce:
-high humidity, fresh air exchange, indirect light, and appropriate temperature.
-
-## Key Environmental Parameters
-
-Successful fruiting requires maintaining four primary conditions:
-
-- **Relative humidity**: 90-95%. Mushrooms are composed largely of [[water-management]] and
+must replicate [[water-management]] and
   require extremely high ambient humidity to prevent the cakes and developing
   fruits from drying out. If humidity drops below 85%, growth stalls and pins
   may abort.
@@ -37,20 +29,7 @@ Successful fruiting requires maintaining four primary conditions:
   for photosynthesis but as an environmental cue and directional guide.
 
 - **Temperature**: 70-75 degrees F (21-24 degrees C) is optimal for fruiting
-  [[psilocybe-cubensis]]. Lower temperatures tend to produce denser, more
-  potent fruits.
-
-## The Shotgun Fruiting Chamber (SGFC)
-
-The most popular fruiting chamber design for PF Tek is the **Shotgun Fruiting
-Chamber** (SGFC), named for the many holes drilled into its sides. It is made
-from a clear plastic storage tote (typically 54-116 quart capacity) with
-quarter-inch holes drilled on all six sides in a 2-inch grid pattern. The
-bottom is filled with 3-5 inches of moist perlite, which provides passive
-humidity through evaporation.
-
-The holes serve a dual purpose: they allow natural air currents to flow through
-the chamber (providing FAE), [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] perlite layer creates a microclimate of
+  [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] perlite layer creates a microclimate of
 high humidity. No mechanical equipment is required, though a spray bottle is
 used to mist the cakes directly and to rehydrate the perlite periodically.
 
@@ -74,7 +53,7 @@ Several alternatives to the SGFC exist:
 The daily maintenance routine for a fruiting chamber involves two actions:
 
 1. **Misting**: Spray a fine mist of water directly onto the substrate cakes
-   [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] walls [[allegro-colour-and-consistency-of-the-amanita-muscaria]] chamber. This replaces moisture lost to evaporation.
+   [[allegro-colour-and-consistency-of-the-amanita-muscaria]] chamber. This replaces moisture lost to evaporation.
    Avoid soaking the cakes; the goal is a glistening surface, not pooling water.
 
 2. **Fanning**: Wave the chamber lid back and forth several times to expel

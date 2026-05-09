@@ -44,30 +44,7 @@ phylogenetic classification.
 
 ## Historical Taxonomic Changes
 
-The renaming of Stropharia cubensis Earle to [[psilocybe-cubensis]]
-(Earle) Singer represents a classic example of taxonomic
-revision. Noordeloos (1995) took the bold step of emending the
-definition of the genus so that most Stropharias would be
-subjugated within an expanded concept of Psilocybe. This
-evolutionary step in taxonomy has been welcomed by many
-mycologists, though debate continues regarding the appropriate
-boundaries of the genus and its relationship to allied genera.
-
-The family Strophariaceae, in its broadest interpretation,
-includes the brown-spored genus Pholiota. Defining Psilocybe by
-the absence of pigmented chrysocystidia cells found in Hypholoma
-and Stropharia has been the traditional approach, though this
-negative definition is considered unsatisfactory by many
-taxonomists. Modern molecular phylogenetics is providing clearer
-resolution of these relationships and may lead to further
-reclassification.
-
-## Major Psilocybin-Containing Genera
-
-Several genera beyond Psilocybe contain psilocybin-producing
-species. The genus Panaeolus includes primarily grassland
-species with slender conic to hemispheric caps. Panaeolus
-subbalteatus and [[panaeolus-cyanescens]] are among the most
+The renaming of Stropharia cubensis Earle to [[panaeolus-cyanescens-entity]] are among the most
 well-known psychoactive species in this genus.
 
 Conocybe species are small, fragile mushrooms found in grasslands
@@ -92,14 +69,7 @@ in attachment. The bluing reaction is a key diagnostic feature.
 Microscopic features including spore size, shape, and
 ornamentation, along with the presence or absence of
 cheilocystidia and pleurocystidia, are critical for species
-level identification. See [[mushroom-spore-identification]]
-for detailed spore analysis methods.
-
-## Species Complexes and Ongoing Research
-
-Many psilocybin mushrooms exist as species complexes: clusters
-of taxonomically related species with overlapping morphological
-features. The [[psilocybe-cyanescens]] complex, for example,
+level identification. See [[psilocybe-cyanescens]] complex, for example,
 includes several closely related taxa that are difficult to
 distinguish without molecular analysis. The P. semilanceata
 complex is the most widespread and commonly encountered group
@@ -122,10 +92,4 @@ southern highlands. Southeast Asia, South America, and
 Australasia also harbor significant diversity. In temperate
 regions, fewer species are found but some, like Psilocybe
 semilanceata, are extremely abundant and widely distributed.
-See [[psilocybin-mushroom-global-distribution]] for detailed
-range information and psilocybin mushroom taxonomy
-for regional taxonomic guides.
-
-## See Also
-
-- [[psilocybin-mushroom-substrate-ecology]]
+See [[psilocybin-mushroom-substrate-ecology]]

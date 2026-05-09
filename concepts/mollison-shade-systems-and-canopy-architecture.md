@@ -99,20 +99,7 @@ As forest systems age, shade and competition reduce light availability
 for understory species. Designers can plan this succession by
 establishing shade-tolerant species under a developing canopy, using
 pioneer species to create initial shade that shelters later-succession
-species. This is covered in [[mollison-succession-planting]].
-
-## Shaded Soils and Moisture
-
-It is always more moist on the shade side of trees, rocks, and
-structures. Shaded soils lose less moisture to evaporation. In deserts,
-valley bottoms remain moist due to deep detritus filling their floors,
-and the shaded soils lose less moisture. Lethal soil temperatures are
-also avoided by partial shading.
-
-Rosemary and other Mediterranean herbs prefer drier, sun-exposed sites,
-while green foliage crops and delicate species need moist or shaded
-sites. The mandala garden design uses shade patterns to create
-productive niches, as described in [[mollison-gangammas-mandala-and-banana-circle-gardens]].
+species. This is covered in [[mollison-gangammas-mandala-and-banana-circle-gardens]].
 
 ## Shade and Wind Interaction
 
@@ -124,12 +111,8 @@ should consider both functions when selecting species.
 
 ## Integration with Permaculture Systems
 
-- [[mollison-windbreak-design]] for species that combine shade and wind
-  protection.
 - [[mollison-microclimate-creation]] for comprehensive microclimate
   modification.
-- [[mollison-frost-protection-and-thermal-belt-design]] for shade's role
-  in frost exclusion.
 - [[mollison-tropical-home-garden-design]] for tropical shade systems.
 - [[mollison-zone-and-sector-analysis]] for placing shade elements in
   optimal positions.

@@ -109,13 +109,8 @@ The species is occasionally available through specialist spore suppliers for exp
 
 ## See Also
 
-- [[tricholoma-terreum]]
 - [[cantharellus-cibarius-entity]]
-- [[lepista-nuda]]
 - [[clitocybe-odora]]
-- [[pleurotus-ostreatus]]
 - [[boletus-edulis-entity]]
-- [[armillaria-mellea]]
 - [[agaricus-bisporus]]
-- [[mycena-chlorophos]]
 - [[amanita-rubescens]]

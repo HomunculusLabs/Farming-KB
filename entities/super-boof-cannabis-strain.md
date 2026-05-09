@@ -141,9 +141,6 @@ Not recommended for patients prone to THC-induced anxiety or paranoia.
 
 - super boof cannabis strain
 
-- [[cannabis-strain-selection-guide]]
 - [[cannabis-hindu-kush-strain-description-clarke]]
-- [[cannabis-super-cropping-technique]]
-
 - [[purple-punch]]
 - [[tropicana-cookies]]

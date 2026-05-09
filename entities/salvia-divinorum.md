@@ -108,13 +108,8 @@ The rapid scheduling response has been criticized by researchers who argue that 
 
 ## See Also
 
-- [[baeocystin]]
 - [[psilocybe-semilanceata]]
-- [[psilocybe-cubensis]]
 - [[mimosa-hostilis]]
-- [[hypericum-perforatum]]
 - [[valeriana-officinalis]]
-- [[melissa-officinalis]]
 - [[ocimum-basilicum]]
-- [[rosmarinus-officinalis-entity]]
 - [[salvia-officinalis]]

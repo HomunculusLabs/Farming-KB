@@ -76,8 +76,6 @@ DMT has been detected in human urine, blood, and brain tissue. A methylating enz
 
 ## See Also
 
-- [[4-aco-dmt]]
-
 - [[tryptamine-family-overview]]
 - [[tihkal-introduction-and-methodology]]
 - [[5-meo-dmt-compound-profile]]

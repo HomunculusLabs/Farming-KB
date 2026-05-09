@@ -22,23 +22,6 @@ purposes in the mushroom cultivation workflow.
 
 ### Spore Printing
 
-[[spore-print-collection]] is the process of placing a mushroom cap
-gills-down on a clean surface and allowing it to release millions of spores
-into a visible deposit. This spore print captures the spore color, which is
-a critical identification feature for taxonomy. Spore prints can be stored
-for years on glass slides or in sealed foil, preserving genetic diversity
-for future cultivation attempts. No sterile equipment is required for basic
-spore printing, making it the most accessible entry point into mycology.
-
-The resulting multispore print contains enormous genetic variability. Each
-spore represents a unique genetic combination, so fruiting from multispore
-produces a population of diverse individuals. Some will be excellent
-fruiters, others will be poor performers. This genetic lottery is part of
-the appeal for hobbyists but presents challenges for consistent commercial
-production.
-
-### Agar Culture
-
 [[agar-culture-techniques-detailed]] uses nutrient-enriched gelatin medium, typically
 malt extract agar (MEA) or potato dextrose agar (PDA), poured into Petri
 dishes or slant tubes. Spores or tissue samples are inoculated onto the agar
@@ -122,10 +105,7 @@ competent mushroom cultivation at any scale.
 
 ## See Also
 
-- [[grain-spawn-preparation]]
 - [[agar-work-guide]]
-- [[tissue-culture-cloning]]
 - [[sterile-technique-mushroom-cultivation]]
-- [[spore-print-collection]]
 - [[agar-culture-techniques-detailed]]
 - [[comparison-agar-vs-liquid-culture]]

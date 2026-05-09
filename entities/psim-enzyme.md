@@ -50,12 +50,40 @@ The expression level and catalytic efficiency of PsiM vary significantly between
 
 PsiM is a target for metabolic engineering in synthetic biology platforms. Overexpression of PsiM in engineered microbial systems shifts production toward psilocybin rather than the intermediate alkaloids. Protein engineering efforts have explored altering PsiM's substrate preference to produce novel N-alkylated derivatives.
 
+## Structural and Biochemical Details
+PsiM belongs to the Class I methyltransferase superfamily, which uses
+S-adenosyl-L-methionine (SAM) as a methyl donor. The enzyme accepts
+phosphoryloxytryptamine substrates bearing a free secondary amine —
+specifically norbaeocystin (4-hydroxytryptamine phosphorylated at the
+4-position oxygen, with a primary amine) and baeocystin (the N-methyl
+intermediate). PsiM's active site accommodates the bulky phosphoryloxy
+group at the 4-position of the indole ring, distinguishing it from
+other tryptamine methyltransferases that act on non-phosphorylated
+substrates. The iterative methylation mechanism — first producing a
+monomethyl then a dimethyl product — is relatively unusual among
+methyltransferases, most of which perform only a single transfer.
+
+## Research Significance and Discoveries
+The discovery of PsiM's dual-step mechanism resolved a long-standing
+question in psilocybin biosynthesis: how the pathway generates three
+distinct alkaloids (norbaeocystin, baeocystin, and psilocybin) from a
+single enzymatic pathway. Before PsiM's characterization, the presence
+of baeocystin and norbaeocystin in mushroom tissue was unexplained.
+PsiM's substrate promiscuity and stepwise kinetics provide a molecular
+explanation for the variable alkaloid profiles observed across species
+and strains of psychoactive mushrooms.
+
+## Metabolic Engineering Potential
+In synthetic biology applications, PsiM is a key enzyme for engineering
+microbial production of psilocybin and related alkaloids. Co-expression
+of PsiM with the upstream enzymes PsiD, PsiH, and PsiK in yeast or
+bacterial hosts enables complete biosynthesis of psilocybin from simple
+sugar feedstocks. Protein engineering efforts have explored mutating
+PsiM's active site to produce novel N-alkylated analogs of psilocybin,
+potentially generating new therapeutic candidates.
+
 ## See Also
 
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
-
 - [[psik-enzyme]] — upstream kinase producing PsiM's substrate, norbaeocystin
-- [[baeocystin-entity]] — the monomethyl intermediate produced by PsiM
-- norbaeocystin entity — the desmethyl substrate for PsiM
 - [[psilocybin-compound-profile]] — the dimethyl end product of the full pathway
 - [[psid-enzyme]] — the first enzyme in the pathway

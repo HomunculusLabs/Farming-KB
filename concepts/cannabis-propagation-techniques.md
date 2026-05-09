@@ -93,12 +93,7 @@ Intergeneric grafts between Cannabis and Humulus (hops) have been studied since 
 **Leafing:** Despite common beliefs, removing large shade leaves reduces photosynthetic capacity and may interfere with metabolic balance. Leaves turn chlorotic (yellow) and fall naturally during flowering as the plant translocates molecular components to growing floral tissue.
 
 ## Related Topics
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
-
 - [[cannabis-sinsemilla-life-cycle]]
-- [[cannabis-cloning-guide]]
 - [[cannabis-cloning-and-mother-plants]]
-- [[cannabis-genetics-and-breeding]]
 - [[cannabis-seed-banks-and-genetics]]
-- [[cannabis-controlled-pollination-seed-production]]
 - [[cannabis-propagation-sexual-vs-asexual-clarke]]

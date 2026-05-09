@@ -117,13 +117,9 @@ the majority of commercial supply still derives from wild-harvested roots.
 
 ## See Also
 
-- [[turmeric]]
 - [[curcumin]]
-- [[panax-ginseng]]
-- [[ashwagandha]]
-- [[zingiber-officinale]]
+- [[withania-somnifera]]
 - [[borago-officinalis]]
-- [[piper-nigrum-entity]]
 - [[glycyrrhiza-glabra]]
 - ethnobotany
 - [[herbal-medicine]]

@@ -9,7 +9,7 @@ sources: [~/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
 type: concept
 ---
 
-# [[jadam-wild-grass-management]] [[cover-crop-species-comparison]]ping and Symbiotic Weed Management
+# [[cover-crop-species-comparison]]ping and Symbiotic Weed Management
 
 JADAM advocates transforming the relationship with wild grass (weeds) from one
 of warfare to symbiosis. If we do not succeed in making this relationship
@@ -36,23 +36,7 @@ to the soil.
 Fruit trees across many regions suffer from early flowering because temperature
 in spring rises faster than in the past. Roots think summer is coming and flower
 in a hurry, resulting in poor quality pollen and poor pollination. This can be
-solved simply by growing [[comparison-crop-rotation-vs-cover-cropping]].
-
-### The Cover Crop Method
-
-Around October before fruit trees drop their leaves, sow grass seeds in the
-field. Grass will sprout before leaves fall, so that once leaves fall, they
-will be caught between the grass. The grass will protect soil from the glaring
-spring sun, keeping the soil warm but not too hot. This leads to a smooth rise
-in temperature as the season progresses.
-
-## Benefits of Wild Grass Cover
-
-1. **Organic matter supply:** Abundant organic matter that wild grass provides
-   plays a vital role in preventing leaching of soil nutrients. Nature's soil
-   supplies 100% of its organic materials by itself through wild vegetation.
-
-2. [[cover-crops-soil-health]]: Cover crops soften up the compacted soil layer, reduce
+solved simply by growing [[cover-crops-soil-health]]: Cover crops soften up the compacted soil layer, reduce
    salinity and boost microbial activity which suppresses diseases and nematodes.
 
 3. **Nitrogen fixation:** Leguminous crops like hairy vetch and milk vetch fix

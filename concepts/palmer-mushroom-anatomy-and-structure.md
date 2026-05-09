@@ -1,5 +1,5 @@
 ---
-title: Palmer on Mushroom Anatomy and Structure
+title: Palmer Mushroom Anatomy And Structure
 created: 2026-04-28
 tags: [mushroom-anatomy, mycology, fungal-structure, historical-myology, palmer]
 date: 2026-04-28
@@ -76,34 +76,7 @@ at the orifice are considered doubtless poisonous.
 
 Instead of gills or pores, some fungi bear small points or spines on
 the underside of the cap. These belong to the teeth-bearing fungi,
-generically the Hydnei. The spreading hydnum (Hydnum repandum) is
-usually yellow, sometimes reddish, always firm-fleshed, with a
-deformed, indistinct, or eccentric stem. The teeth or spines are a
-peculiarity that easily distinguishes this group. In young specimens
-the teeth rub off readily.
-
-## Puffballs (Lycoperdons)
-
-When inverted, a puffball shows neither gills, pores, nor teeth. The
-spores are enclosed rather than borne externally. When young, the skin
-is filled with white, yellowish, purple, or black substance; when old,
-contents discharge as dust. Palmer considered puffballs the safest
-mushrooms for beginners. A smooth-skinned specimen perfectly white
-inside is safe if cooked at once. If a knife leaves a yellow stain, it
-is too old.
-
-## The Amanita Family Anatomy
-
-Palmer gave particular attention to the anatomy of the deadly Amanita
-family, which he considered the only mushroom group containing a truly
-deadly alkaloid. The distinguishing anatomical features are:
-
-- A volva or wrapper enclosing the young plant before it leaves the
-  soil, found at the base of the stem in the full-grown mushroom
-- Remains of the volva appearing on the cap as irregularly scattered,
-  easily rubbed-off warts or scurf
-- Pure white gills underneath the cap at all stages of growth (with
-  one exception, the edible Amanita caesarea, which has yellow gills)
+generically the Hydnei. The spreading hydnum ([[amanita-caesarea]], which has yellow gills)
 - White, tasteless, nearly scentless flesh in young specimens
 - A stem free from the gills, surrounded near the top with a ring
   or apron
@@ -140,11 +113,13 @@ do not mat down like those of the horse-mushroom or elm-tree mushroom,
 but break into small pieces while the whole fungus snaps suddenly on
 being bent. This contrasts with the pliable, flexible gills of the
 common mushroom, whose flesh can be bent without breaking.
-
 ## See Also
 
 - palmer mushroom spoilage and freshness testing
 
-- [[palmer-mushroom-taxonomy-classification-system]]
-- [[palmer-specific-mushroom-species-guide]]
 - [[palmer-about-mushrooms-poisonous-species-to-avoid]]
+- [[palmer-about-mushrooms-poisonous-species-to-avoid]]
+
+## See Also
+
+- [[palmer-mushroom-cooking-culinary-uses]]

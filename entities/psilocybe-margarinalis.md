@@ -134,17 +134,11 @@ remain unstudied.
 *P. margaritalis* is of taxonomic and phylogenetic interest within
 the *Psilocybe* genus, contributing to understanding the diversity of
 psychoactive fungi in Mediterranean Europe.
-
 ## See Also
 
-- [[psilocybe-ovoidocystidiata]]
-
 - [[baeocystin]]
-- [[medicinal-mushrooms]]
 - [[mycorrhiza]]
 
-- [[psilocybe-semilanceata]]
 - [[psilocybe-hispanica]]
-- [[psilocybe-subaeruginosa]]
 - [[psilocybe-serbica]]
 - [[psilocybe-azurescens]]

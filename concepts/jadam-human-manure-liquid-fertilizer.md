@@ -107,14 +107,7 @@ In Korea's past, human manure was so treasured that a trade existed for buying a
 
 ## See Also
 
-- [[jadam-herb-solution-jhs]] -- JHS production from plant materials
 - [[jadam-microorganism-solution-jms]] -- leaf mold microbial culturing
-- [[teaming-with-nutrients-composting-and-nutrient-cycling]]
-
-## Related
-
 - [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-natural-nitrogen-fertilizer]]
 - [[jadam-calcium-fertilizer]]
-- [[jadam-wild-grass-liquid-fertilizer]]
 - [[temperature-effects-plant-nutrient-uptake]]

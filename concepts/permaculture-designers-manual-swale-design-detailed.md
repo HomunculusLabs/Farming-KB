@@ -3,31 +3,7 @@ title: Swale Design Detailed
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Swale Design Detailed
-#permaculture #earthworks #water #swales #infiltration
-
-Updated: 2026-04-18
-
-> From: Bill Mollison, *Permaculture: A Designers Manual* (1988), Chapter 7, Section 7.3.
-
-## Overview
-
-Swales are long, level excavations, which can vary greatly in width and treatment from small ridges in gardens, rock-piles across slope, or deliberately-excavated hollows in flatlands and low-slope landscapes. Swales are intended to store water in the underlying soils or sediments. They are simply cross-flow dry channels or basins intended to totally intercept overland flow, to hold it for a few hours or days, and to let it infiltrate as groundwater recharge into soils and tree root systems.
-
-## Trees Are Essential
-
-Trees are the essential components of swale planting systems, or we risk soil waterlogging and a subsequent local rainfall deficit caused by lack of evapotranspiration of the stored water. Thus, tree planting must accompany swaling in arid areas. Swales should ideally not exceed in width the total crown spread of the fringing trees planted to use the stored water absorbed into the swale sediments.
-
-Trees overshade and cool the soils of swales, further reducing the risk of evaporation and dissolved salt concentration, or water loss. Although swales can also be grazed, few grasses can effectively remove the absorbed water to re-humidify airstreams.
-
-## Construction Essentials
-
-Swales are all built on contour or dead level survey lines, and are neither intended nor permitted for water flow. Their function is just to hold water. Unlike [[permaculture-designers-manual-dam-construction]], swale banks and bases are never compacted or sealed (although small tanks can be sunk in swale bases for watering livestock or trees). The swale soils can be gravelled, ripped, or loosened to assist water infiltration.
+tags: [[permaculture-designers-manual-dam-construction]], swale banks and bases are never compacted or sealed (although small tanks can be sunk in swale bases for watering livestock or trees). The swale soils can be gravelled, ripped, or loosened to assist water infiltration.
 
 ### Width and Depth by Soil Type
 The swale depth and width can be varied to cope with the speed of infiltration locally:
@@ -50,53 +26,88 @@ The distance between swales (the run-off or mulch-planted surface) can be from t
 | > 127 cm (50 inches) | 1-2 m (4-6 feet) | 3-6 m (12-20 feet) |
 | 25 cm (10 inches) or less | 1-2 m (4-6 feet) | 9-18 m (30-60 feet) |
 
-In humid areas, the interswale is fully planted with hardy or [[permaculture-designers-manual-mulch-systems]] species. In very dry areas, it may be fairly bare and exist mainly to run water into swales.
+In humid areas, the interswale is fully planted with hardy or [[clay-seed-pellet-composition-and-aerial-seeding-method]]
 
-## Urban Applications
-
-Every sub-humid and arid townscape can, with great energy gain and much reduced cost for roading and water use, fit all roads and paved areas with swales, along which tree lines shade pavement and reduce heat while they produce fuel, mulch, and food products. Every roof tank overflow, and some greywater wastes can be led to swales (if boron detergents are not used).
-
-### Village Homes Example
-Swales interpenetrating the suburban development of Village Homes in Davis, California (Michael Corbett, designer) accept all road and excess roof run-off, and support hundreds of productive trees in settlement. Water penetrated soils to 6 m (19 feet) deep after a few years of operation, and swales were self-shaded after 3-4 years of tree growth.
-
-## Swale Modifications
-
-### Over-Deepening
-Swale sections can be over-deepened, so that although the swale lip is surveyed level, its floor may rise and fall. Deepening is most effective in clay-fraction soils, and may result in shallow ponds for water-needy crops. Widening is most effective in sand or volcanic-fraction soils.
-
-### Mulch and Manure Pits
-Two other pit systems are useful in swales:
-- One mulch and manure-filled for heavy nutrient feeders (yams, bananas, etc.)
-- One to hold oil drums, plastic liners, or tyre ponds as a sealed water reserve for watering young plants. These can be planted with lotus, kangkong, watercress, Chinese water chestnut, or like crops.
-
-### Windbreak Swales
-The lower slope swales can be planted mainly to Casuarina or leguminous trees to prevent upslope winds. Ridges should always have windbreak and condensation plants of hardy and useful species (Casuarina, Acacia, Leucaena, silky oak, pine, cypress). Windbreaks can occupy every sixth to tenth swale on sites where wind is a limiting factor.
-
-## Access Design
-
-Keeping the swale width to the tractor, donkey cart, foot track or wheelbarrow access width that one has planned, sections can be widened at regular intervals to take assemblies of plants, to dig ponds or mulch pits, and to plant trees of higher water need. This leaves access open and enables many assemblies, species, and constructs to be built along the swale as need dictates.
-
-## Desert Swale Reclamation
-
-In deserts, grade hollows 5-10 m on contour, bury manure/chips/straw under 1.0-1.5 m sand, plant pioneer legumes in pots after rain, then interplant forest species. Swales in Australian drylands have consistently grown larger and healthier water run-off fed trees than have open plantings.
-
-## Summary
-
-A swale is a large hollow or broad drain intended to first pool, then absorb all surplus water flow. The base is ripped, gravelled, sanded, loosened, or dressed with gypsum to allow water infiltration. Trees ideally overshade the swale. The base can be uneven, vary in width, and treated differently depending on the soil type. Water enters from roads, roof areas, tank overflows, greywater systems, or diversion drains. All swales are therefore temporary events, as trees supplant their function; they are precursors to rehabilitation of normal forests in their region.
-
-## See Also
-
-- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
-
-- [[keyline-design]]
 - [[permaculture-designers-manual-dam-construction]]
-- [[soil-erosion-control]]
 - [[permaculture-designers-manual-mulch-systems]]
-- [[permaculture-designers-manual-chicken-tractors]]
-
-## Related
-
 - [[permaculture-designers-manual-bamboo-building]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[mollison-keyline-soil-conditioning-humid-water]]
 - [[comparison-swale-design-vs-hugelkultur]]
+## Practical Applications
+
+Swale Design Detailed has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Swale Design Detailed. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

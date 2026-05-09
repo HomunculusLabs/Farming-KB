@@ -8,9 +8,7 @@ type: concept
 tags: [ayahuasca, shamanism]
 ---
 
-# [[ayahuasca-tourism]] Shamanic Tourism Economics
-
-Ayahuasca tourism constitutes a thriving business in Peru, functioning simultaneously as a religious practice and a commercial industry. See [[ayahuasca-preparation]] for details on the brew itself.
+# [[ayahuasca-preparation]] for details on the brew itself.
 
 The article's section heading "A Religion and an Industry" captures this dual identity precisely.
 
@@ -92,7 +90,7 @@ This shift from communal to individual economics represents a fundamental transf
 
 The brew and its raw materials are openly sold in Peruvian markets, indicating a developed commercial supply chain:
 
-- **Ayahuasca vine** ([[cashinahua-banisteriopsis-use]]): The primary ingredient, harvested from the Amazon rainforest and available in markets. The vine contains [[harmala-alkaloids]] that function as MAO inhibitors.
+- **Ayahuasca vine** ([[harmala-alkaloids]] that function as MAO inhibitors.
 
 - **Chacruna leaves** ([[psychotria-viridis]]): The DMT-containing admixture plant that provides the visionary component of the brew.
 

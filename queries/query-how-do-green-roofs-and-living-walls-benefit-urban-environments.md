@@ -56,44 +56,6 @@ nesting birds. Living walls with flowering plants provide forage for
 pollinators and nesting sites for spiders and beneficial insects. Research
 from Swiss and German green roof studies has documented over 200 insect
 species and 40 bird species using green roofs in urban areas. For
-[[beekeeping-problems-and-solutions]], green roofs can serve as
-stepping-stone habitats connecting parks and gardens across the urban
-matrix.
-
-## Air Quality Improvement
-
-Plants on green roofs and living walls filter particulate matter, absorb
-nitrogen dioxide, sulfur dioxide, and ground-level ozone, and produce
-oxygen. A single square meter of green roof removes roughly 0.2 kilograms of
-particulates per year. Living walls are particularly
-effective at filtering air because they are positioned at street level
-where pollution concentrations are highest. The vegetation and substrate
-act as biological filters, trapping fine particles on leaf surfaces and
-absorbing gaseous pollutants through stomata. While green infrastructure
-cannot replace emissions reductions at source, it provides meaningful
-improvement near highways and industrial zones.
-
-## Energy Efficiency and Building Protection
-
-Green roofs insulate buildings against both heat and cold, reducing energy
-demands for heating and cooling. The substrate and vegetation layer adds
-thermal mass and R-value, keeping interiors cooler in summer and warmer in
-winter. Living walls provide similar insulation benefits on facades and
-can reduce wind-driven heat loss. Beyond energy savings, green roofs
-protect waterproofing membranes from ultraviolet degradation and thermal
-expansion, potentially doubling membrane lifespan and reducing maintenance
-costs. This protective effect alone can offset the additional installation
-cost of a green roof over its 40 to 50 year lifespan.
-
-## Mental Health and Social Benefits
-
-Access to green space improves mental health, reduces stress, and
-increases productivity. Studies from the UK, Japan, and Scandinavia show
-that views of vegetation from offices and hospital rooms accelerate
-recovery times, reduce anxiety, and improve workplace satisfaction. Green
-roofs provide accessible green space in dense cities where ground-level
-parks are scarce. Community gardens on rooftops bring neighbors together and provide
-opportunities for growing food. Living walls soften concrete canyons. For
 [[urban-guerrilla-gardening]], living architecture
 represents the ultimate expression of productive urban greening.
 
@@ -107,7 +69,7 @@ leafy greens using vertical hydroponic or soil-based systems. While food
 production on green roofs is less efficient than ground-level farming due
 to wind exposure and shallow substrates, it makes productive use of
 otherwise wasted space and reduces the food miles associated with urban
-food supply. These systems connect to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles|permaculture design principles]]
+food supply. These systems connect to [[permaculture-design-principles|permaculture design principles]]
 through their integration of multiple functions: food, habitat, water
 management, and microclimate regulation.
 
@@ -136,13 +98,7 @@ offset these costs.
   are highest, removing particulates and absorbing NO2 and ozone.
 - Green roof vegetation protects waterproofing membranes from UV damage,
   potentially doubling their lifespan.
-- Intensive green roofs can support [[home-vegetable-gardening|home vegetable gardening essentials]]
-  and urban agriculture, turning wasted roof space into productive land.
-- Installation costs range from $15-25 per square foot for extensive
-  systems to $50-100+ for intensive and living wall systems.
-- Many cities offer grants and stormwater fee credits that offset
-  installation costs over 5-15 years.
-- Green infrastructure connects to [[constructed-wetlands-wastewater-treatment]] as part of integrated urban water management.
+- Intensive green roofs can support [[constructed-wetlands-wastewater-treatment]] as part of integrated urban water management.
 
 ## Related
 

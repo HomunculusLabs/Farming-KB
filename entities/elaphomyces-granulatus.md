@@ -116,16 +116,11 @@ maintaining healthy populations of mycophagous mammals.
 
 ## See Also
 
-- [[truffle-cultivation-basics]]
-
 - [[mycorrhiza]]
-
-- [[suillus-granulatus]]
 
 - [[boletus-edulis-entity]] - epigeous ectomycorrhizal fungus with higher nutritional value
 - lactarius deliciosus - epigeous ectomycorrhizal fungus consumed by squirrels
 - tuber melanosporum - hypogeous ectomycorrhizal fungus (black truffle)
-- [[cenococcum-geophilum]] - ectomycorrhizal fungus with widespread distribution
 - [[amanita-muscaria-cultural-history]] - epigeous ectomycorrhizal fungus with high potassium content
 - [[suillus-luteus]] - epigeous ectomycorrhizal fungus in pine forest ecosystems
 - Hymenogaster - hypogeous ectomycorrhizal fungus dispersed by voles and squirrels

@@ -82,33 +82,9 @@ Used for crops like leeks, Brussels sprouts, and cabbages:
 - Forcing crops: chicory, sea kale, rhubarb can be forced in warmth during winter
 
 ### Soil Preparation by Crop
-- Heavy feeders (potatoes, brassicas, tomatoes): need generous manure/compost and additional [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- Medium feeders (onions, leeks): benefit from moderate organic matter and general fertilizer
-- Light feeders (carrots, parsnips): avoid fresh manure which causes forking; need fine, stone-free tilth
+- Heavy feeders (potatoes, brassicas, tomatoes): need generous manure/compost and additional [[hamilton-three-year-crop-rotation]] Concepts
 
-### Pest and Disease Prevention
-- Crop rotation is the primary defense
-- Physical barriers: carrot fly barriers, cabbage root fly pads, bird netting
-- Biological controls: nematodes for sawfly larvae on gooseberries
-- Companion planting: interplanting to confuse pests
-- Hygiene: remove all crop debris, especially cole plant stumps, to prevent disease carryover
-
-### Harvest and Storage
-- Root vegetables: some improve with frost (parsnips); others must be stored before ground freezes (potatoes, main crop onions)
-- Potatoes: dig and store; burn foliage if blight present
-- Onions: draw soil away to ripen, then pull and store in dry conditions
-- Garlic and shallots: harvest when tops die down, dry before storing
-- Jerusalem artichokes: can be left in ground and dug as needed, or cut down foliage in autumn
-
-## Related
-
-- [[hamilton-three-year-crop-rotation]] Concepts
-
-- [[hamilton-seasonal-gardening-calendar]]
 - [[nitrogen-fixing-trees-and-shrubs]]
-- [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[soil-building-permaculture]]
-- [[hamilton-nutrient-deficiencies-and-treatment]]
 - [[hamilton-vegetative-propagation]]
-- [[hamilton-ornamental-trees]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

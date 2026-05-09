@@ -15,7 +15,7 @@ created: 2026-04-28
 
 # Prairie Restoration vs Silvopasture
 
-Both prairie restoration and [[silvopasture]] aim to transform degraded or underutilized land into productive, ecologically functional systems, but they diverge fundamentally in structure, species composition, management intensity, and productive output. Understanding their trade-offs helps landowners, [[permaculture-design]] ers, and restoration ecologists choose the approach best suited to their goals, site conditions, and economic constraints.
+Both prairie restoration and [[permaculture-design]] ers, and restoration ecologists choose the approach best suited to their goals, site conditions, and economic constraints.
 
 ## At a Glance
 
@@ -32,41 +32,7 @@ Both prairie restoration and [[silvopasture]] aim to transform degraded or under
 | **Fire management** | Essential — prescribed burns every 2–5 years | Generally avoided (fire damages trees) |
 | **Carbon sequestration** | 0.5–2.0 t CO₂e/ha/year (belowground dominant) | 2–10 t CO₂e/ha/year (above + belowground) |
 | **Nitrogen fixation** | Native legumes: 30–80 kg N/ha/year | Legume understory + N-fixing trees: 50–150 kg N/ha/year |
-| **[[water-management]]** | Deep-rooted perennials reduce runoff 40–60% | Tree roots access deep water; reduced evapotranspiration from shade |
-| **Wildlife habitat** | Exceptional for grassland birds, pollinators, insects | Multi-habitat: forest-edge species, birds, livestock |
-| **Maintenance intensity** | Moderate after establishment (burning, invasive control) | Moderate to high (tree care, grazing management, pruning) |
-| **Climate suitability** | Temperate grasslands, savannas (30–100 cm rainfall) | Wide range: temperate, subtropical, tropical (500–2000+ mm) |
-| **Soil improvement** | Deep root channels, SOM increase 0.5–1.5 t/ha/year | SOM from litterfall + manure, root channels from multiple strata |
-
-## Ecological Structure and Function
-
-### Prairie Restoration
-
-Prairie restoration aims to re-establish native plant communities that once covered vast areas of North America, Eurasia, and South America. Mature prairies are among the most biodiverse plant communities on Earth:
-
-- **Root architecture**: Prairie plants invest 60–80% of biomass belowground, creating root systems extending 2–4 meters deep. Big bluestem (*Andropogon gerardii*) roots can reach 3+ meters. This deep root network is the engine of soil carbon sequestration.
-- **Functional groups**: C₄ warm-season grasses (big bluestem, indiangrass, switchgrass), C₃ cool-season grasses (June grass, Canada wild rye), legumes (leadplant, purple prairie clover, baptisia), and diverse forbs (asters, goldenrods, coneflowers, milkweeds)
-- **Fire dependency**: Many prairie species require fire for germination, to suppress woody encroachment, and to release nutrients. Without fire, prairies succeed to shrubland within 10–20 years.
-- **Soil biology**: Prairies develop extraordinarily diverse soil microbial communities, including abundant VAM mycorrhizae, which facilitate nutrient cycling and aggregate formation in the Mollisol and Alfisol soils prairies create.
-
-### Silvopasture
-
-Silvopasture deliberately integrates trees with livestock and forage production in a spatial and temporal arrangement:
-
-- **Vertical stratification**: Trees provide the upper canopy (timber, nut, fruit), a mid-layer of shrubs or browse, and a lower layer of pasture grasses and legumes grazed by livestock
-- **Tree roles**: Shade reduces heat stress on livestock by 5–10°C in summer; shelter reduces wind chill in winter; root systems access nutrients and water below the pasture root zone
-- **Species combinations**: Oak/pine + orchardgrass + cattle (temperate), *Leucaena* + panic grass + sheep (tropical), walnut + clover + poultry (mixed)
-- **N-fixing trees**: *[[robinia-pseudoacacia]]* (black locust), *Alnus* spp. (alders), *[[gleditsia-triacanthos]]* (honey locust) provide fodder, timber, and nitrogen fixation simultaneously
-
-## Productive Outputs and Economics
-
-### Prairie Restoration
-
-**Direct products:**
-- Hay and forage: 3–8 t DM/ha/year from established prairie hay operations
-- Native seed: High-value market for restoration seed; $50–500/kg for select species
-- Ecosystem service payments: CRP (Conservation Reserve Program) payments in the US ($150–300/ha/year); carbon credits; water quality credits
-- [[pollinator-habitat]]: Supporting adjacent crop pollination services worth $100–500/ha/year
+| **[[robinia-pseudoacacia]]* (black locust), *Alnus* spp. (alders), *[[pollinator-habitat]]: Supporting adjacent crop pollination services worth $100–500/ha/year
 
 **Economic profile:**
 - Low annual maintenance costs ($50–200/ha) once established
@@ -142,9 +108,6 @@ The two systems are not mutually exclusive. Hybrid designs include:
 - Hybrid savanna approaches can capture benefits of both, especially in regions where historical vegetation was oak savanna or woodland-grassland mosaic
 - Both systems dramatically outperform conventional monoculture pasture or cropland in terms of biodiversity, soil health, water quality, and carbon sequestration
 - The choice ultimately depends on the landowner's primary objective: ecological restoration (prairie) or integrated production (silvopasture), with hybrid designs bridging the gap
-
 ## See Also
 
-- [[permaculture-grazing-and-pasture]]
-- comparison prairie restoration vs silvopasture
 - [[fiber-and-craft-plants]]

@@ -9,11 +9,7 @@ sources: [raw/papers/gottlieb-a-the-psilocybin-producers-guide.md]
 
 # Psilocybian Species Cultivation Parameters
 
-Detailed cultivation data for psilocybin-bearing mushroom species compiled from Adam Gottlieb's *The Psilocybin Producers Guide* (1976). This resource complements the general [[mushroom-species-cultivation-parameters]] page, which covers gourmet and medicinal species, by focusing specifically on hallucinogenic genera and their unique growth requirements.
-
-## Overview
-
-Over 100 species of mushrooms are known to contain psilocybin and/or psilocin. They span four genera: *Psilocybe* (~40 species), *Conocybe* (~40 species), *Panaeolus* (~20 species), and *Stropharia* (~9 species). While [[psychedelic-mushrooms-species-and-identification]] is the most commonly cultivated due to its vigor, disease resistance, and potency, many other species offer distinct advantages for the cultivator willing to adapt techniques.
+Detailed cultivation data for psilocybin-bearing mushroom species compiled from Adam Gottlieb's *The Psilocybin Producers Guide* (1976). This resource complements the general [[psychedelic-mushroom-set-and-setting]] is the most commonly cultivated due to its vigor, disease resistance, and potency, many other species offer distinct advantages for the cultivator willing to adapt techniques.
 
 ## Genus Copelandia
 
@@ -27,47 +23,7 @@ Over 100 species of mushrooms are known to contain psilocybin and/or psilocin. T
 | Substrate | Uncased compost or rye grain |
 | Optimal MEA growth | 80°F (27°C) |
 
-One of the more potent tropical psilocybian species. Spores germinate readily on all standard agar media, making it relatively accessible for cultivation. See also [[mushroom-cultivation-fundamentals]] for general techniques adaptable to this species.
-
-## Genus Panaeolus
-
-### Panaeolus foenisecii (Haymaker's Mushroom)
-
-| Parameter | Value |
-|-----------|-------|
-| Season | Late spring through early summer; July-September in cool wet seasons |
-| Habitat | Lawns, pastures, and grassy places in large numbers |
-| Range | Throughout USA and Quebec |
-| Potency variable | Western specimens tested negative; eastern specimens were potent |
-
-An interesting case of regional potency variation. This species is extremely common in lawns worldwide but its psychoactivity is unreliable — Washington state specimens showed no detectable psilocybin while eastern specimens were active.
-
-### Panaeolus subalteatus
-
-| Parameter | Value |
-|-----------|-------|
-| Season | Spring to autumn |
-| Habitat | Grouped or clustered in rings up to 2 feet diameter |
-| Substrate | Open ground, freshly manured lawns, straw piles, compost, dung piles |
-| Optimal MEA growth | 86°F (30°C) |
-| Range | Ontario and throughout USA, especially Massachusetts, Maryland, New York, Ohio, Michigan, Washington, Oregon |
-
-Notable for occasionally occurring as a weed mushroom in commercial mushroom houses. The high optimal growth temperature (86°F) exceeds that of most cultivated species, making it well-suited to warm climates.
-
-## Genus Psilocybe
-
-### Psilocybe baeocystis
-
-| Parameter | Value |
-|-----------|-------|
-| Season | Autumn and winter |
-| Habitat | Solitary, grouped, or clustered on earth, lawns, mulch, decomposing forest wood |
-| Range | Western Oregon and Washington, especially near conifers |
-| Optimal MEA growth | 77°F (25°C) |
-| Alkaloids | Psilocybin, psilocin, baeocystin, nor-baeocystin |
-| Potency | Most visually hallucinogenic of psilocybin mushrooms |
-
-Considered the most visually hallucinogenic species, likely due to the presence of baeocystin and nor-baeocystin alkaloids in addition to psilocybin and psilocin. A 1960 report of a child fatality after consuming large quantities warrants caution with extracted alkaloids from this species. See [[psilocybin-potency-dosage-guide]] for dosing considerations.
+One of the more potent tropical psilocybian species. Spores germinate readily on all standard agar media, making it relatively accessible for cultivation. See also [[psilocybin-potency-dosage-guide]] for dosing considerations.
 
 ### Psilocybe caerulescens
 
@@ -96,7 +52,7 @@ The Mexican variety *P. caerulescens* var. *mazatecorum* is known locally as "Du
 | Light requirement | Does poorly in darkness |
 | Potency | Potent and very resistant to contaminants |
 
-The most commonly cultivated psilocybian species and the standard recommended for beginners. Its rapid growth, contaminant resistance, and reliable fruiting make it ideal for first-time cultivators. See [[psilocybin-cultivation]] and [[pf-tek-guide]] for detailed methods.
+The most commonly cultivated psilocybian species and the standard recommended for beginners. Its rapid growth, contaminant resistance, and reliable fruiting make it ideal for first-time cultivators. See [[pf-tek-guide]] for detailed methods.
 
 ### Psilocybe cyanescens
 
@@ -118,7 +74,7 @@ A species strongly associated with the Pacific Northwest. Often found in urban s
 | Substrate | Mosses, herbs, roadsides, humid meadows, cornfields, near pine forests |
 | Range | Mexico, especially limestone regions |
 
-The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[mushroom-cultivation-fundamentals]] and [[wasson-hofmann-psilocybin-connection]] for historical context.
+The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[wasson-hofmann-psilocybin-connection]] for historical context.
 
 ### Psilocybe pelliculosa
 

@@ -18,19 +18,7 @@ type: concept
 
 # Salvia Divinorum
 
-*Salvia divinorum* is among the rarest of [[psychoactive-cacti-species-reference]], native
-to the Mazatec Culture areas of the Sierra Madre Oriental
-in the Mexican state of Oaxaca. Known as Hierba de la Pastora
-("Shepherdess Herb") or hoja de la pastora ("leaf of the shepherd"), it
-is also called Aztec sage. Because of its limited geographic habitat,
-it is cultivated by plant lovers all over the world through cuttings.
-It may represent the Pipiltzintzintli ("the purest little prince") of
-the ancient Aztecs.
-
-## Discovery and Documentation
-
-The story of *Salvia divinorum* is closely tied to the exploration of
-Mazatec [[entheogen-tetrapteris-methystica-alternative-caapi]]. R. Gordon r-gordon-wasson|Wasson was the
+*Salvia divinorum* is among the rarest of [[entheogen-tetrapteris-methystica-alternative-caapi]]. R. Gordon r-gordon-wasson|Wasson was the
 first outsider to witness Mazatec mushroom ceremonies, and the broader
 investigation of Mazatec psychoactive plants revealed the use of this
 remarkable sage. Inquisition files from 1696, 1698, and 1706 in the
@@ -123,9 +111,6 @@ native habitat.
 
 ## See Also
 
-- [[entheogenic-ceremony-preparation]] -- Cultural context of Salvia use
-- [[gordon-wasson]] -- Documentation of Mazatec ceremonies
 - [[schultes-peyote-tracks-little-deer]] -- Ethnobotanical fieldwork in Mexico
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] -- The active diterpenoid compound
 - [[psychoactive-cacti-species-reference]] -- Broader survey of hallucinogenic flora
 - [[entheogen-tetrapteris-methystica-alternative-caapi]] -- Plants used in sacred ceremonial contexts

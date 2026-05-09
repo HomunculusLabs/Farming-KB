@@ -124,8 +124,6 @@ Beyond THC and CBD, other cannabinoids influence the effective ratio:
 6. **Track your response**: Journal dosing, ratio, strain, and effects to identify your personal optimal ratio
 7. **Ratios can shift**: Your optimal ratio may change over time with tolerance, condition changes, or other factors
 
-See also: doi entity, doi entity, doi entity, doi entity, [[cannabis-indoor-growing-basics]], [[fruit-tree-grafting-guide]], [[cannabis-dosing-guidelines-by-condition]]
-- [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-sleep-disorders-and-insomnia]]
+See also: doi entity, doi entity, doi entity, doi entity, [[fruit-tree-grafting-guide]], [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]

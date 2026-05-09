@@ -12,16 +12,7 @@ type: concept
 # Mycorrhizal Network Chemical Signaling and Plant Communication
 
 The common mycelial network (CMN), formed by interconnecting hyphae of
-[[arbuscular-mycorrhizal-fungi]] (AMF) linking the root systems of multiple
-plants, serves as a biological internet facilitating underground chemical
-communication between plants. Singh's comprehensive treatment of mycorrhizal
-functions highlights these signaling networks as fundamental components of
-ecosystem dynamics, with profound implications for plant defense, nutrient
-sharing, and community-level responses to environmental stress.
-
-## Architecture of the Common Mycelial Network
-
-Arbuscular [[mycorrhizal-fungi]] establish extensive hyphal networks in soil that
+[[mycorrhizal-fungi]] establish extensive hyphal networks in soil that
 simultaneously colonize the roots of neighboring plants. A single fungal
 genet can connect dozens of individual plants across meters of soil:
 
@@ -39,35 +30,7 @@ in herbaceous plant communities. Ectomycorrhizal fungi create distinct but
 functionally analogous networks in forest ecosystems, connecting trees
 through common hyphal mantles and Hartig net interfaces.
 
-## Defense Priming Through [[mycorrhizal-networks]]
-
-One of the most significant functions of CMNs is the transmission of defense
-signals between plants. When a plant is attacked by herbivores or pathogens,
-it can transmit warning signals through the mycorrhizal network to
-neighboring plants, activating their defense mechanisms before attack occurs:
-
-- Herbivore-induced volatile organic compounds (VOCs) and jasmonic acid
-  derivatives serve as systemic signals transmitted via hyphal networks
-- Connected receiver plants show elevated expression of defense-related
-  genes encoding protease inhibitors, polyphenol oxidases, and pathogenesis-
-  related proteins
-- Primed plants mount faster and stronger defense responses upon subsequent
-  attack compared to non-connected individuals
-- The priming effect extends to both aboveground herbivory and belowground
-  pathogen challenges
-
-Research documented in Singh's work demonstrates that CMN-mediated defense
-priming can reduce herbivore damage by 20 to 50 percent in neighboring
-plants, with effects detectable within hours of the initial attack signal.
-
-## Allelochemical Transport
-
-Mycorrhizal networks facilitate the movement of allelochemicals between
-plants, influencing competitive interactions and community structure:
-
-- Phenolic compounds, flavonoids, and terpenoids produced by one plant can
-  be transported through hyphal networks to affect neighboring plants
-- Allelopathic species such as [[black-walnut-juglone-plant-toxicity]] (Juglans nigra) may exploit
+## Defense Priming Through [[black-walnut-juglone-plant-toxicity]] (Juglans nigra) may exploit
   CMNs to distribute juglone and related compounds more broadly through
   plant communities
 - Some plants appear to send inhibitory signals through CMNs to suppress
@@ -120,18 +83,7 @@ typically limited to the extent of continuous hyphal connections.
 ## Ecological and Agricultural Implications
 
 Understanding CMN-mediated communication has practical implications for
-agriculture and ecosystem management. [[intercropping-systems]] may be designed
-to exploit CMN connections between complementary crop species. Forest
-management practices that preserve intact mycorrhizal networks may enhance
-stand-level resilience to pests and climate stress. Invasive plant species
-may exploit CMNs to gain competitive advantages over native vegetation,
-suggesting novel approaches to invasion management.
-
-## See Also
-
-- arbuscular mycorrhizal fungi plant interactions - Foundational
-  AMF symbiosis mechanisms underlying network formation
-- [[singh-fungal-exopolysaccharides-biofilm-soil-aggregation]] - Soil structural
+agriculture and ecosystem management. [[singh-fungal-exopolysaccharides-biofilm-soil-aggregation]] - Soil structural
   context for CMN function and hyphal continuity
 - [[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways]] - Nutrient exchange
   processes that accompany signaling in CMNs

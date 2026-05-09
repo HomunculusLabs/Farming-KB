@@ -70,13 +70,11 @@ The farmer who applies Liebig's Law by adding the limiting nutrient is not corre
 
 The farmer who pushes yields through the law of diminishing returns is not maximizing productivity; he is depleting the hidden reserves that sustain long-term fertility.
 
-This connects directly to Fukuoka's broader critique of [[fukuoka-fallacies-scientific-understanding]] and the [[fukuoka-errors-human-intellect]] that lead scientists to believe they can improve upon nature.
+This connects directly to Fukuoka's broader critique of [[fukuoka-errors-human-intellect]] that lead scientists to believe they can improve upon nature.
 
 The natural farm, in Fukuoka's view, is not a system managed by laws but a living expression of the single dharmic law. It requires no fertilizer because fertility is inherent in the soil. It requires no pesticides because pest and disease resistance are inherent in healthy plants. It requires no tillage because soil structure is maintained by roots and soil organisms.
 
-The farmer's only real task is to stop interfering and allow nature to express its inherent perfection. This is the essence of [[fukuoka-natural-farming-philosophy]], and it stands in direct opposition to the entire edifice of modern agricultural science.
-
-[[fukuoka-liebig-law-critique]] | [[fukuoka-dharmic-law-all-things-return-to-one]] | [[fukuoka-errors-human-intellect]] | [[fukuoka-fallacies-scientific-understanding]] | [[fukuoka-natural-fertility-cycle]]
+The farmer's only real task is to stop interfering and allow nature to express its inherent perfection. This is the essence of [[fukuoka-liebig-law-critique]] | [[fukuoka-errors-human-intellect]] | [[fukuoka-natural-fertility-cycle]]
 
 ## Key Points
 
@@ -94,12 +92,6 @@ The farmer's only real task is to stop interfering and allow nature to express i
 ## Practical Applications
 
 ## See Also
-
-- [[laws-of-thermodynamics]]
-
-Related topics in this wiki include: .
-
-## Related
 
 - [[fukuoka-pit-of-knowledge]]
 - [[fukuoka-soil-self-improvement-without-tillage]]

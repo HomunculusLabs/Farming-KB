@@ -3,16 +3,7 @@ title: Mushroom Cultivation Adapted for People with Disabilities
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, cultivation, accessibility, disability, mushrooms]
-sources:
-  - "Mushroom Cultivation for People with Disabilities — A Training Manual (FAO RAP Publication 2001/12, Hanko)"
----
-
-# Mushroom Cultivation Adapted for People with Disabilities
-
-FAO training manual demonstrating that people with physical and mental disabilities can successfully run independent mushroom cultivation enterprises. Developed from TCP/THA/8821(A) in northeastern Thailand. The core principle: people with disabilities are fully capable of accomplishing ALL tasks in mushroom production with appropriate adaptations.
-
-See also: [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-shiitake-cultivation]], [[mushroom-training-button-mushroom-compost]], [[mushroom-training-spawn-production]], [[mushroom-training-pest-disease-management]]
+tags: [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-button-mushroom-compost]], [[mushroom-training-pest-disease-management]]
 
 ## Why Mushroom Cultivation
 

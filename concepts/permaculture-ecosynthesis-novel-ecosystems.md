@@ -3,13 +3,7 @@ title: Permaculture Ecosynthesis and Novel Ecosystems
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Permaculture Ecosynthesis and Novel Ecosystems
-
-Ecosynthesis is the process by which novel ecosystems assemble from mixtures of indigenous and exotic species in response to new environmental conditions created by human activity. david holmgren argues in Permaculture: Principles and Pathways Beyond Sustainability that recognising and working with ecosynthesis, rather than fighting against it, is one of the most important and controversial implications of permaculture thinking for [[permaculture-energy-descent-planning]] planning.
+tags: [[permaculture-energy-descent-planning]] planning.
 
 ## Humanity as Part of Nature
 
@@ -75,15 +69,9 @@ Permaculture's role is to understand these new natures and work with them to cre
 
 ## See Also
 
-- [[permaculture-succession]]
-
 - [[permaculture-pulsing-succession]]
 
-- [[permaculture-reading-landscape]]
-
-- [[permaculture-design-principles]]
-
-- [[permaculture-principle-use-and-value-diversity]]
+- [[permaculture-farm-design-principles]]
 
 - [[permaculture-catchment-design]]
 

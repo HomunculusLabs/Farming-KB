@@ -142,8 +142,6 @@ Most root crops are biennials and insect-pollinated outcrossers:
 
 ## See Also
 
-- [[root-vegetable-storage-guide]]
 - [[home-vegetable-garden-planning]]
-- [[zone-1-intensive-garden]]
 - [[growing-alliums-organically]]
 - [[jeavons-grow-biointensive-method-overview]]

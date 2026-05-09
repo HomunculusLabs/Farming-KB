@@ -124,9 +124,6 @@ Western psychotherapy at the time.
 
 ## Related
 
-- [[metzner-four-paradigms-psychedelic-healing]]
 - [[metzner-hallucinogens-psychotherapy-and-shamanism]]
-- [[metzner-lsd-psychotherapy-approaches]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[metzner-shamanic-healing-divination-worldview]]
 - [[metzner-spirit-beings-multiple-realities-entheogens]]

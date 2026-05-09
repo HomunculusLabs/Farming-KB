@@ -15,53 +15,7 @@ time-proven calming and sedative effects. Modern research confirms that
 cannabinoids modulate mood states and can reduce anxiety, though
 anxiety-reducing effects are subjectively dose-specific: too little can
 be sub-optimal, while too much can actually increase anxious feelings.
-The [[cannabis-endocannabinoid-system]] plays a central role in these effects.
-
-## Scientific Evidence
-
-A 2005 meta-analysis by teams from China, Canada, and the U.S. found
-that "cannabis and its major psychoactive component (-)-trans-Delta-
-tetrahydrocannabinol have profound effects on mood and can modulate
-anxiety and mood states." A separate international study examined the
-potent synthetic cannabinoid HU210 in rats and found that while most
-illegal substances decrease growth of new nerve cells in the
-hippocampus, chronic HU210 treatment promoted hippocampal neurogenesis,
-likely producing both anxiolytic and antidepressant-like effects.
-
-A 2009 study of 775 patients living with HIV/AIDS across Kenya, South
-Africa, Puerto Rico, and ten U.S. locations found cannabis somewhat
-more effective than standard prescription and over-the-counter
-medications in treating anxiety, depression, diarrhea, fatigue, and
-neuropathy.
-
-A 2010 review from the Universidade de Sao Paulo, Brazil, considered
-CBD's therapeutic potential as an antipsychotic, anxiolytic, and
-antidepressant, while THC was considered a potential adjuvant in
-schizophrenia treatment. Researchers concluded that "cannabinoids may be
-of great therapeutic interest to psychiatry."
-
-## Dose-Dependent Effects
-
-The relationship between cannabis dose and anxiety is critical. Using
-cannabis in excess of the subjective therapeutic window can multiply
-feelings of apprehension and anxiety rather than reduce them. This
-paradoxical effect underscores the importance of starting with a small
-measured amount and slowly increasing until the desired effect is
-achieved.
-
-For anxiety treatment, this means:
-- Start with the lowest possible effective dose
-- Wait 5-10 minutes between inhalations to assess effects
-- For ingested forms, wait at least one hour before increasing
-- Stop immediately if unwanted anxiety effects occur
-- Wait a full day and start at a lower dosage if adverse effects arise
-
-## Strain Selection for Anxiety
-
-Both CB1 and CB2 signaling pathways, individually and in combination,
-modulate anxiety. Indicas and indica-dominant hybrids, which present
-with a lower THC:CBD/CBN ratio, are preferred by many patients
-suffering from anxiety. See [[cannabis-sativa-vs-indica-guide]] for detailed strain comparisons. The sedating, relaxing, and grounding effects
+The [[cannabis-sativa-vs-indica-guide]] for detailed strain comparisons. The sedating, relaxing, and grounding effects
 of indica strains are particularly well-suited for anxiety management.
 
 CBD has greater affinity for CB2 receptors, while THC binds relatively
@@ -130,12 +84,12 @@ associated with chronic anxiety, rather than merely managing symptoms.
 ## Integrative Considerations
 
 Cannabis is most effective for anxiety when combined with broader
-lifestyle and therapeutic approaches. Cannabis has also shown promise for related mood conditions — see [[cannabis-for-depression]] and [[cannabis-and-epilepsy]] for research on other neurological and psychiatric applications.
+lifestyle and therapeutic approaches. Cannabis has also shown promise for related mood conditions — see [[cannabis-and-epilepsy]] for research on other neurological and psychiatric applications.
 - Regular exercise and stress-reduction practices (meditation, yoga)
 - Adequate sleep hygiene and consistent sleep schedules
 - Nutritional support, particularly omega-3 fatty acids for brain health
 - Professional counseling or cognitive behavioral therapy (CBT)
-- Avoidance of caffeine, alcohol, and stimulants that amplify anxiety
+- Avoidance of [[caffeine]], alcohol, and stimulants that amplify anxiety
 
 Patients who combine cannabis with these complementary approaches often
 report more sustained anxiety relief and greater overall improvement in

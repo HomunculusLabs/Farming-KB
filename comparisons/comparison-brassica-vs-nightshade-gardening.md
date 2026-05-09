@@ -25,36 +25,6 @@ maximize productivity across the full calendar year.
 
 ## Brassicas
 
-[[brassica-growing-guide]]
-
-The Brassicaceae family includes broccoli, cabbage, cauliflower,
-Brussels sprouts, kale, collards, kohlrabi, radishes, and turnips.
-All derive from wild Brassica oleracea and share a preference for cool
-temperatures between 60 and 70 degrees Fahrenheit. Most brassicas
-tolerate frost and some, like kale, survive sub-zero temperatures
-with no protection.
-
-Brassicas are heavy feeders requiring rich, fertile soil with a pH
-between 6.5 and 7.0 and firm, well-consolidated ground. Calcium is
-critical; lime application is standard where soils are acidic. They
-follow a "refinement scale" from vigorous kale at the bottom to
-demanding cauliflower at the top.
-
-Pest pressure is intense and specialized. Cabbage white butterflies,
-diamondback moths, flea beetles, cabbage aphids, and cabbage root fly
-all target brassicas exclusively. Floating row covers provide the most
-effective prevention. Clubroot disease can persist in soil for decades
-and demands strict 3-4 year crop rotation.
-
-Brassicas are typically started indoors 6-8 weeks before transplant,
-hardened off carefully, and set out 2-4 weeks before last frost for
-spring crops. Fall plantings are often more successful, facing less
-pest pressure and producing better quality heads. Harvest timing is
-critical: broccoli florets must be cut before they separate, cabbage
-heads must be firm, and cauliflower curds must be blanched.
-
-## Nightshades
-
 [[tomato-pepper-eggplant-growing-guide]]
 
 The Solanaceae family includes tomatoes, peppers, eggplants, and
@@ -140,11 +110,8 @@ Asian greens like radishes and tatsoi can be harvested in 30 days,
 filling gaps between main crop rotations. Row covers protect early
 brassicas from late spring frosts, while wall-o-water or cloche
 protection gives nightshades an early start.
-
 ## See Also
 
-- [[home-vegetable-gardening]]
 - [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
-- [[comparison-tomato-vs-pepper-growing]]
 - [[comparison-annual-vs-perennial]]
 - [[crop-rotation-principles]]

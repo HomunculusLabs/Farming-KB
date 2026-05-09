@@ -121,8 +121,6 @@ demands it and you have mastered the basics of vegetable growing first.
 
 ## Related Concepts
 
-- [[winter-gardening-season-extension]]
 - [[solomon-row-covers-and-season-extension]]
-- [[solomon-seed-starting-transplanting]]
 - [[solomon-climate-zones-and-growing-seasons]]
 - [[solomon-transplanting-and-hardening-off]]

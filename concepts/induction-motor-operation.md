@@ -5,7 +5,8 @@ tags: [electrical-engineering, electromagnetism, motors, power-systems, machiner
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
@@ -15,7 +16,7 @@ The most common form is the three-phase squirrel cage induction motor.
 Single-phase variants are used for smaller loads where only household or light commercial power is available.
 Induction motors are also called asynchronous motors because their rotor normally turns slightly slower than the rotating stator field.
 That speed difference, called slip, is not a defect; it is the condition that permits induction of rotor current and production of torque.
-The topic connects [[electromagnetic-induction-faraday-law]], rotating magnetic fields, [[kirchhoffs-circuit-laws]], power electronics, [[fouriers-law-heat-conduction]], and [[bio-electronic-interfaces]].
+The topic connects [[kirchhoffs-circuit-laws]], power electronics, [[bio-electronic-interfaces]].
 
 ## Rotating Magnetic Field
 Balanced polyphase stator currents create a magnetic field whose resultant direction rotates smoothly around the air gap.
@@ -128,3 +129,5 @@ A clear grasp of slip and torque explains most everyday behavior of the machine,
 - Wikipedia contributors, "Induction motor," accessed 2026-05-02.
 - Wikipedia contributors, "Rotating magnetic field," accessed 2026-05-02.
 - Wikipedia contributors, "AC motor," accessed 2026-05-02.
+
+See also: [[natural-building-techniques]]

@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Dosage Guidelines and Potency"
 created: 2026-04-28
-tags: [mycology, dosage, pharmacology, psilocybin, oss-oeric]
+tags: [[mycology, dosage, pharmacology, psilocybin, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -117,8 +117,6 @@ as a way to enhance the visionary quality of the experience.
 
 ## Related Topics
 
-- [[oss-oeric-drying-and-preservation-methods]] for storage effects
 - [[oss-oeric-harvesting-and-crop-management]] for harvest timing
-- [[gartz-tryptamine-supplemented-cubensis-cultivation]] for potency
 - [[psilocybin-biosynthetic-metabolic-pathway]]
 - [[oss-oeric-growing-parameters-cubensis]]

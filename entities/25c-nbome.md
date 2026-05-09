@@ -131,11 +131,8 @@ under emergency scheduling or permanent control.
 
 ## See Also
 
-- [[25i-nbome]]
 - [[25b-nbome]]
-- [[2c-b]]
 - [[lsd]]
 - 2C-C
-- [[mescaline-entity]]
 - [[dmt]]
-- [[psilocybin-compound]]
+- [[psilocybin]]

@@ -23,44 +23,14 @@ professional mycologists have been historically active, rather than
 reflecting the true ecological distribution of these organisms. Gartz
 (1996) captured this principle succinctly when he observed that "the
 mushrooms occur in abundance wherever mycologists abound." This
-collection bias fundamentally distorts our understanding of [[psilocybe-global-biogeography]]
-and leads to systematic underestimation of species diversity in
-tropical and less-studied regions.
-
-## The Specialist Effect
-
-Beyond the simple presence or absence of mycologists, the specific
-interests of individual researchers create additional biases in the
-distribution record. Guzmán, Allen and Gartz noted that even
-comprehensive surveys of [[biodiversity-fungi-temperate-boreal-forests]]
+collection bias fundamentally distorts our understanding of [[biodiversity-fungi-temperate-boreal-forests]]
 may completely overlook neurotropic species. Mueller and Halling
 (1995), in their important analysis of high biodiversity of Agaricales
 in neotropical forests, did not consider any species of Psilocybe
 despite their being very common in the surveyed areas. This
 demonstrates that taxonomic expertise, not just field effort,
 determines what gets recorded. A mycologist specializing in boletes or
-coral fungi may walk past dozens of [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-without recognizing or collecting them.
-
-## Systematically Underexplored Regions
-
-The paper identifies numerous regions with zero or very few records
-of neurotropic fungi where species are almost certainly present. In
-Asia, Korea, Malaysia (except Java and Sumatra), and Hawaii have no
-records of Psilocybe despite having suitable climates and habitats.
-In Africa, the southeastern regions of Russia, Mongolia, Arabia, and
-Turkey are noted as having no records at all. Within the United
-States, several states with apparently suitable habitat have no
-reported neurotropic Psilocybe species: Arizona, Colorado (except for
-one Conocybe record), Illinois, Maryland, Vermont, Massachusetts,
-New Hampshire, and Pennsylvania. Even in well-studied countries like
-the USA, mycological research is described as "somewhat limited and
-scarce" in many states.
-
-## Africa as a Case Study in Underexploration
-
-Africa presents perhaps the most dramatic example of the gap between
-actual and recorded [[neurotropic-fungi-in-africa]]. The continent has
+coral fungi may walk past dozens of [[neurotropic-fungi-in-africa]]. The continent has
 enormous biodiversity but only six to eight known neurotropic species
 of Psilocybe. Guzmán, Allen and Gartz explicitly contrast this
 scarcity of records with the "high biodiversity of that continent."
@@ -92,9 +62,7 @@ This exploration bias has serious consequences for interpreting
 biogeographic patterns. The apparent concentration of species in
 Mexico, Europe, and the Pacific Northwest of North America may
 partially reflect collection intensity rather than true ecological
-distributions. The [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
-classification, while useful, may be significantly revised as
-underexplored regions are surveyed. The [[southern-hemisphere-origin-of-neurotropic-fungi]]
+distributions. The [[southern-hemisphere-origin-of-neurotropic-fungi]]
 hypothesis, for instance, could be strengthened or weakened depending
 on what is found in currently unsampled areas of Africa, Southeast
 Asia, and South America. Guzmán, Allen and Gartz explicitly noted
@@ -121,19 +89,7 @@ biogeographic publications.
 The acknowledgments section of the paper reveals the collaborative
 network that enabled even the partial picture presented. Information
 was contributed by specialists across multiple continents: Olah
-(Université Laval, Quebec) provided data on [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]]
-and Panaeolus distributions; Samorini (Rovereto, Italy) supplied
-bibliographic references and field information; Stijve (Sweden)
-contributed photographs and references. Despite this international
-effort, enormous gaps remained. The authors' reliance on personal
-communications (e.g., "Samorini, comm. pers." regarding possible
-neurotropic fungi use in Africa) demonstrates that much knowledge
-exists in unpublished or inaccessible form.
-
-## Future Directions for Exploration
-
-The patterns identified by Guzmán, Allen and Gartz suggest clear
-priorities for future [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
+(Université Laval, Quebec) provided data on [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 survey work. Africa, particularly the tropical forests of Central
 and West Africa, should yield many new species given the continent's
 overall fungal biodiversity. Southeast Asia remains virtually
@@ -143,8 +99,6 @@ states and habitat types would likely reveal range extensions and
 new species. The authors' observation that new species are found
 wherever collections are made suggests that the 216 species counted
 in this paper could double with systematic exploration.
-
 ## See also
 
-- [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]

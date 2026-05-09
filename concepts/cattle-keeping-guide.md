@@ -109,11 +109,7 @@ Breeds are divided into two groups:
 
 ## Related Topics
 
-- [[goat-keeping-guide]] — comparing dairy animals
 - [[sheep-keeping-guide]] — ruminant livestock
-- [[pasture-management-and-forage]] — pasture management
 - [[barn-design-guide]] — cattle housing
-- [[no-till-grain-growing]] — grain for cattle feed
 - [[permaculture-broadscale-no-till-grain-production]]
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[what-natural-farming-method-should-i-use]]

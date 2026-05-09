@@ -88,23 +88,7 @@ Fungi manage arsenite toxicity through multiple strategies:
 - **Aquaglyceroporin efflux pumps**: Facilitate arsenite export from
   cells (e.g., Fps1p in yeast)
 - **Phytochelatin complexation**: As(III)-PC complexes sequestered in
-  vacuoles, analogous to [[fungal-heavy-metal-biosorption-and-detoxification]]
-  pathways
-- **Cell wall binding**: Arsenite binds to chitin, glucans, and melanin
-  for extracellular sequestration
-
-### Arsenic Methylation and Volatilization
-
-The methylation pathway proceeds: As(III) to MMA(V) via arsenite
-methyltransferase, reduction to MMA(III), then to DMA(V), and potentially
-to volatile trimethylarsine (TMA). TMA production was first observed in
-*Scopulariopsis brevicaulis*.
-
-### Arsenite Oxidation
-
-Some fungi oxidize arsenite to less toxic, less mobile arsenate via
-arsenite oxidase enzymes, valuable for water treatment where arsenate
-can be more easily removed through [[singh-fungal-biosorption-reactors-heavy-metals]].
+  vacuoles, analogous to [[singh-fungal-biosorption-reactors-heavy-metals]].
 
 ## Key Fungal Genera in Metalloid Transformation
 
@@ -121,10 +105,8 @@ can be more easily removed through [[singh-fungal-biosorption-reactors-heavy-met
 
 ### Mycofiltration and Soil Bioremediation
 
-Mycelial barriers in [[singh-constructed-wetlands-fungal-wastewater-treatment]] biosorb both
-metalloids. [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] reduce
+Mycelial barriers in [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] reduce
 metalloid translocation to plant shoots, supporting
-[[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]. Continuous-flow
 [[singh-fungal-bioreactor-types-configurations]] packed with fungal biomass achieve high
 removal efficiencies from industrial wastewater.
 
@@ -137,7 +119,5 @@ substance production limiting metalloid uptake.
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-transformation-metals-metalloids]]
-- [[singh-metal-transformation-leaching-mechanisms-fungi]]
 - [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]

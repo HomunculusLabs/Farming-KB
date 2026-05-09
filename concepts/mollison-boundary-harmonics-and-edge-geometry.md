@@ -133,8 +133,6 @@ In permaculture design, boundary harmonics can be applied to:
 
 ## See Also
 
-- [[mollison-edge-effect-design]]
 - [[mollison-tessellation-and-annidation-in-design]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-pond-edge-configuration-and-yield]]
 - [[mollison-zone-and-sector-analysis]]

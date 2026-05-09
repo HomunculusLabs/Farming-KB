@@ -140,10 +140,11 @@ well-drained sandy soils and 400–600 mm annual rainfall.
 
 Harvest typically begins 3–4 years after planting when root glycyrrhizin
 content reaches commercial threshold (≥2% dry weight). Yields of 15–25 tonnes
-fresh root per hectare are achievable under cultivation.
-
 ## See Also
 
 - [[glycyrrhiza-glabra]] — European licorice, the Western pharmacopeial source
-- [[astragalus-membranaceus]] — Fellow TCM legume used as Qi tonic
-- [[ashwagandha]] — Ayurvedic adaptogen with overlapping anti-inflammatory profile
+- [[withania-somnifera]] — Ayurvedic adaptogen with overlapping anti-inflammatory profile
+
+## See Also
+
+- [[gaias-garden-nitrogen-fixers-guild-design]]

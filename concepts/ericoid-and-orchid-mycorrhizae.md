@@ -95,18 +95,10 @@ Orchid-fungal specificity varies widely:
 
 ## Related
 
-- [[mycorrhizae]]
-
 - [[lycopodium-clavatum]]
 
-- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] Concepts
-
 - [[arbuscular-mycorrhizal-fungi]] -- the most common mycorrhizal type
-- [[ectomycorrhizal-ecology]] -- forest tree mycorrhizae
 - [[mycorrhizal-networks]] -- common mycorrhizal networks
-- [[endophytic-fungi-in-grasslands]] -- grass endophyte symbioses
 - [[fungal-symbiosis-types]] -- overview of fungal symbioses
-- [[fungal-chromogens-and-color-change]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[ericoid-mycorrhizae-types-and-ecology]]

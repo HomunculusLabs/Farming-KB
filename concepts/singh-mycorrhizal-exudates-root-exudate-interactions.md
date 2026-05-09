@@ -14,35 +14,7 @@ type: concept
 ## Overview
 
 Root exudates and mycorrhizal exudates form the chemical foundation of
-communication and nutrient exchange at the [[mycorrhizal-fungi]]-plant
-interface. These secreted compounds mediate symbiotic signaling, nutrient
-mobilization, and soil contaminant transformation. Singh's treatment of
-[[mycoremediation-pahs]] emphasizes that the [[root-exudates-rhizosphere]] is a
-biochemically dynamic zone where fungal and plant metabolites converge to
-shape soil chemistry and microbial ecology.
-
-## Root Exudates: Composition and Function
-
-Plant roots release a diverse array of organic compounds into the
-surrounding soil, collectively termed root exudates. These include:
-
-- **Low molecular weight compounds**: Sugars (glucose, fructose, sucrose),
-  amino acids (glutamate, aspartate), organic acids (citrate, malate,
-  oxalate), and phenolics
-- **High molecular weight compounds**: Mucilage (polysaccharide gels),
-  proteins, and secondary metabolites
-- **Signaling molecules**: Strigolactones, flavonoids, and sesquiterpenes
-  that trigger mycorrhizal colonization
-
-Root exudation represents a significant carbon cost, with estimates
-suggesting 10-40% of fixed carbon is released into the rhizosphere. This
-carbon investment serves multiple functions: attracting beneficial
-microorganisms, solubilizing mineral nutrients, and suppressing soil-borne
-pathogens.
-
-## Mycorrhizal Exudates
-
-Arbuscular [[mycorrhizal-fungi]] (AMF) and ectomycorrhizal fungi secrete
+communication and nutrient exchange at the [[mycoremediation-pahs]] emphasizes that the [[mycorrhizal-fungi]] (AMF) and ectomycorrhizal fungi secrete
 their own complement of compounds into the soil:
 
 - **Mycelial exudates**: Low molecular weight organic acids (oxalate,
@@ -51,7 +23,7 @@ their own complement of compounds into the soil:
 - **Hyphal metabolites**: Glycoproteins like glomalin, which stabilize
   soil aggregates and sequester heavy metals
 - **Enzymatic secretions**: Phosphatases, cellulases, and oxidative
-  enzymes ([[laccase-mediator-system-dye]], [[manganese-peroxidase-mechanism]]) that degrade organic
+  enzymes ([[manganese-peroxidase-mechanism]]) that degrade organic
   matter and transform pollutants
 - **Signaling compounds**: Myc factors (lipochitooligosaccharides) and
   fungal volatiles that modulate plant gene expression
@@ -84,15 +56,7 @@ Mycorrhizal symbiosis is established through molecular dialogue:
 
 ## Contaminant Transformation by Exudates
 
-Mycorrhizal exudates contribute directly to [[mycoremediation-pahs]] through
-several mechanisms:
-
-- Organic acid secretion lowers rhizosphere pH, increasing the solubility
-  and subsequent phytoextraction of metals like zinc and cadmium
-- Oxalate exudation by ectomycorrhizal fungi precipitates toxic metals
-  as insoluble oxalate crystals, effectively immobilizing them
-- Extracellular enzymes from hyphae can directly degrade organic
-  pollutants including [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] and certain
+Mycorrhizal exudates contribute directly to [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] and certain
   pesticide compounds
 
 ## Organic Acid Secretion and Nutrient Mobilization
@@ -107,26 +71,7 @@ are:
 | Malate      | 3.4, 5.1    | Aluminum detoxification |
 | Fumarate    | 3.0, 4.4    | Redox reactions |
 
-Citrate is particularly effective at solubilizing [[calcium-phosphate-bionutrient]] from
-insoluble mineral forms through ligand exchange reactions. Malate plays
-a critical role in aluminum tolerance by forming non-toxic Al-malate
-complexes.
-
-## Phenolic Compounds in the Mycorrhizosphere
-
-Phenolics serve dual roles in mycorrhizal function:
-
-- **Nutrient acquisition**: Some phenolics act as metal-reducing agents,
-  converting Fe(III) to the more plant-available Fe(II) form
-- **Defense signaling**: Phenolic compounds such as salicylic acid
-  derivatives activate plant defense pathways
-- **Allelopathy**: Certain mycorrhizal phenolics can suppress competing
-  vegetation, influencing plant community composition
-
-## Ecological and Applied Significance
-
-Understanding exudate chemistry is essential for optimizing
-[[mycoremediation-pahs]] strategies:
+Citrate is particularly effective at solubilizing [[mycoremediation-pahs]] strategies:
 
 - **Phytoremediation enhancement**: Manipulating exudate profiles through
   plant breeding or fungal selection can improve metal extraction or
@@ -139,7 +84,6 @@ Understanding exudate chemistry is essential for optimizing
 
 ## See Also
 
-- [[mycorrhizal-fungi]] -- fungal symbionts of plant roots
 - [[root-exudates-rhizosphere]] -- the soil zone influenced by root activity
 - [[laccase-mediator-system-dye]] -- key oxidative enzyme in fungal metabolism
 - heavy metal contamination -- metals targeted by exudate-mediated

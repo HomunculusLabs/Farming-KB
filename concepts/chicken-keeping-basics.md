@@ -99,14 +99,7 @@ want scratched. Foraging reduces feed costs 10-30%.
 
 ## See Also
 
-- [[permaculture-integrated-animal-systems]] — Broader animal integration design
 - [[permaculture-plant-guilds]] — Plant guilds complementing chicken forage
-- [[homesteading]] — Chickens vs other livestock options
-
-## Related
-
 - [[guild-design-methodology]]
-- [[permaculture-ground-cover-plants]]
 - [[teaming-with-microbes-plant-control]]
-- [[permaculture-livestock-forage-systems]]
 - [[permaculture-multi-purpose-plants]]

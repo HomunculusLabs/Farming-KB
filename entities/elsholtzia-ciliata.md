@@ -131,13 +131,8 @@ contributes to erosion control on slopes.
 
 ## See Also
 
-- [[perilla-frutescens]]
 - [[agastache-foeniculum]]
-- [[melissa-officinalis]]
 - [[mentha-piperita]]
-- [[ocimum-basilicum]]
 - [[origanum-vulgare-entity]]
-- [[salvia-officinalis]]
 - [[glycyrrhiza-glabra]]
-- [[leonurus-cardiaca-entity]]
 - [[hypericum-perforatum]]

@@ -119,13 +119,8 @@ These crosses aim to retain the resin production and potency while modifying the
 
 ## See Also
 
-- [[white-widow-entity]]
 - [[northern-lights]]
-- [[big-bud]]
 - [[critical-mass]]
-- [[ak-47-cannabis]]
 - [[jack-herer]]
-- [[bubblegum]]
 - [[chemdawg]]
-- [[og-kush]]
 - [[master-kush]]

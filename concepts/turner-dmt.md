@@ -121,9 +121,6 @@ Harmala alkaloids potentiate DMT in intensity, duration, content, and quality. T
 ## See Also
 
 - [[turner-lsd]]
-- [[turner-lsd]]
-- [[turner-psilocybin]]
 - [[psychedelic-combination-guide]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]
 - [[mao-inhibitors-and-psychedelics]]

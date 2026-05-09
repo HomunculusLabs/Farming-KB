@@ -111,10 +111,7 @@ The species spread to the Mediterranean by the 12th century, to China by the 14t
 
 ## See Also
 
-- [[conium-maculatus]]
 - [[ferula-assafoetida]]
-- [[raphanus-sativus-var-longipinnatus]]
-- pastinaca sativa
 - [[anethum-graveolens]]
 - [[carthamus-tinctorius]]
 - apiaceae

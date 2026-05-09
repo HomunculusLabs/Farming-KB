@@ -100,14 +100,8 @@ Research has shown potential benefits for:
 
 ## See Also
 
-- [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
-
 - [[lions-mane-cultivation]]
-- [[lions-mane-guide]]
 - [[lions-mane-indoor-cultivation]]
-- [[medicinal-mushroom-guide-lions-mane]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-harvesting-storage]]
 - [[gourmet-mushroom-strain-selection]]

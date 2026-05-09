@@ -14,7 +14,7 @@ Truffle orchard design and establishment encompasses the planning, site preparat
 
 Establishing a truffle orchard is a long-term investment that requires careful planning and attention to detail. From initial site assessment to first harvest typically takes 5-12 years, and the decisions made during the establishment phase largely determine the orchard's productive potential. A poorly sited or poorly designed orchard may never produce marketable truffles, while a well-designed orchard on a suitable site can produce for 20-40 or more years.
 
-Truffle orchard design must integrate knowledge of soil science, tree biology, mycology, climatology, and hydrology. The interplay between these factors determines whether the introduced truffle fungus can establish, persist, and eventually fruit on the planted trees. See [[truffle-cultivation-basics]] for cultivation fundamentals and [[truffle-inoculated-seedlings]] for seedling production.
+Truffle orchard design must integrate knowledge of soil science, tree biology, mycology, climatology, and hydrology. The interplay between these factors determines whether the introduced truffle fungus can establish, persist, and eventually fruit on the planted trees. See [[truffle-inoculated-seedlings]] for seedling production.
 
 ## Site Assessment
 
@@ -104,19 +104,10 @@ Declining mycorrhizal colonization rates may indicate problems such as competing
 
 ## See Also
 
-- [[truffle-cultivation-basics]]
-
 - [[truffle-inoculated-seedlings]]
-
-- [[truffle-guide]]
-
-## Related
 
 - [[doi-entity]]
 
-- [[ectomycorrhizal-ecology]]
-
 - [[mycorrhizal-fungi]]
 
-- [[permaculture-forest-garden-establishment]]
 - [[mollison-permaculture-two-zone-planning-and-site-layout]]

@@ -11,57 +11,7 @@ type: concept
 
 # Natural Farming Cover Crops and Green Manure
 
-In [[masanobu-fukuoka]]'s natural farming system, cover crops and green
-manure are not supplementary practices but foundational elements that
-replace tilling, weeding, and chemical fertilization. By understanding
-the natural succession and coexistence of plants, Fukuoka demonstrated
-that the right combination of cover crops could simultaneously suppress
-weeds, enrich soil, prevent erosion, and create the conditions for
-productive grain cultivation.
-
-## The Role of Clover in Rice and Barley Cultivation
-
-White clover (Trifolium repens) serves as the primary living mulch in
-Fukuoka's rice-barley succession system. Clover is broadcast over the
-ripening heads of rice before the fall harvest, establishing itself as
-a dense ground cover during the winter grain growing season. The clover
-performs multiple functions simultaneously:
-
-- It fixes atmospheric nitrogen through its root-associated bacteria,
-  reducing or eliminating the need for nitrogen fertilizer.
-- Its dense mat suppresses weed germination and growth.
-- It protects the soil surface from erosion during heavy rains.
-- It maintains soil moisture and moderates soil temperature.
-- When weakened by brief flooding in late May, it gives rice seedlings
-  a competitive advantage while continuing to contribute organic
-  matter as it partially decomposes.
-
-Fukuoka observed that a ground cover of clover and vegetables with no
-weeding, tillage, or fertilizer could sustain productive orchards and
-grain fields for decades. In his citrus orchard, he first attempted
-cultivation under a cover of grass, then switched to green manure
-cultivation, and finally arrived at the clover-based system that
-required no weeding at all.
-
-## Principles of Weed Management Through Cover Crops
-
-The many different grasses and herbs in a natural meadow appear to grow
-and die in confusion, but upon closer examination, there are laws and
-order. Grasses meant to sprout do so; plants that flourish do so for a
-reason; and if they weaken and die, there is a cause. Plants of the
-same species do not all grow in the same place and way. Given types
-flourish then fade in ongoing succession. The cycles of coexistence,
-competition, and mutual benefit repeat themselves.
-
-Certain weeds grow as individuals, others in bunches, and yet others
-form colonies. Some grow sparsely, some densely, and some in clumps.
-Each has a different ecology: some rise above their neighbors and
-overpower them, some wrap around others in symbiosis, some weaken other
-plants, and some thrive while others die as undergrowth.
-
-By studying and making use of the properties of weeds, one weed can be
-used to drive out a large number of other weeds. If the farmer grows
-grasses or [[green-manure-crops]] that take the place of undesirable weeds
+In [[green-manure-crops]] that take the place of undesirable weeds
 and are beneficial to crops, then manual weeding becomes unnecessary.
 Fukuoka found that weeding in orchards is not only useless but
 positively harmful.
@@ -133,8 +83,6 @@ against them, gradually reducing and eventually eliminating the need
 for all external inputs.
 
 ## See Also
-
-- [[cover-cropping-natural-farming]]
 
 - [[natural-farming-no-till-method]] for the complete no-till system
   that depends on cover crops

@@ -124,8 +124,7 @@ Extensive preclinical research supports multiple traditional uses of A. racemosu
 **Ayurvedic medicine:** Classified as a rasayana (rejuvenative) for the female reproductive system.
 Used in formulations including Shatavari Ghrita, Shatavari Kalpa, and Mahanarayan oil for menopausal symptoms, menstrual irregularities, lactation support, infertility, leukorrhea, and as a general tonic for debility and digestive disorders.
 
-**Modern herbal medicine:** Widely available as root powder, capsules, tinctures, and standardized extracts (10:1 or 20:1).
-Commonly combined with [[ashwagandha]] in adaptogenic formulations; used in women's health supplements for PMS, menopause, and fertility.
+**Modern [[withania-somnifera]] in adaptogenic formulations; used in women's health supplements for PMS, menopause, and fertility.
 Typical daily doses: 3–6 g dried root powder or 500–1,000 mg standardized extract, divided 2–3 times daily.
 
 ## Cultivation and Permaculture Applications
@@ -144,6 +143,10 @@ Cultivation initiatives by government agencies and NGOs are promoting sustainabl
 - Deep root system stabilizes slopes and cycles nutrients to the surface
 - Dense foliage provides ground cover in tropical food forest understories
 - High-value medicinal harvest complements food-producing species
-- Can be intercropped with fruit trees, [[bacopa-monnieri]], and [[glycyrrhiza-glabra]]
+- Can be intercropped with fruit trees, [[glycyrrhiza-glabra]]
 
 ## See Also
+
+## See Also
+
+- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]

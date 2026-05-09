@@ -122,10 +122,7 @@ and threatening to social values. The current suppression of psychedelic
 
 ## See Also
 
-- [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-- [[mckenna-archaic-revival]]
 - [[mckenna-dominator-vs-partnership-society-model]]
-- [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]

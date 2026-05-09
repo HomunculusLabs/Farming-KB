@@ -133,8 +133,6 @@ in sustainable agriculture.
 
 ## See Also
 
-- [[botrytis-cinerea]]
 - [[trichoderma-viride]]
-- [[claviceps-purpurea]]
 - [[pythium-ultimum]]
 - [[penicillium-expansum]]

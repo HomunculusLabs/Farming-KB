@@ -111,11 +111,8 @@ In agroforestry contexts, A. senegal is frequently compared to other multipurpos
 
 - acacia senegal
 - fabaceae
-- [[nitrogen-fixing-trees]]
 - [[agroforestry]]
 - sahel
 - gum arabic
-- [[moringa-oleifera]]
 - [[azadirachta-indica]]
-- [[leucaena-leucocephala]]
 - [[prosopis-glandulosa]]

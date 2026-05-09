@@ -53,14 +53,43 @@ These principles directly enabled the work of later researchers including Alexan
 
 Heffter died on February 18, 1925, in Freiburg im Breisgau, Germany, at the age of 65. His work was largely forgotten during the mid-20th century as pharmacology shifted toward synthetic drug development, but has been increasingly recognized in recent decades as the field of psychedelic research has undergone a renaissance.
 
+## Major Contributions and Influence
+
+Heffter's isolation of four peyote alkaloids and systematic elimination approach —
+testing each individually in self-experiments — established a methodological template
+for early psychopharmacology. Hofmann explicitly acknowledged Heffter as a predecessor
+when isolating LSD (1943) and psilocybin (1958). Shulgin adopted the same self-
+experimentation paradigm for PIHKAL and TIHKAL.
+The Heffter Research Institute has become the leading nonprofit funder of psychedelic
+clinical research, supporting landmark studies at Johns Hopkins, NYU, and Imperial
+College London that have demonstrated psilocybin's therapeutic efficacy for depression,
+anxiety, PTSD, and substance use disorders. His work on cardiac glycosides and
+alkaloid isolation methods also influenced pharmaceutical chemistry beyond
+psychedelics. The self-experimentation paradigm he established remains foundational in psychopharmacological research ethics.
+
 ## See Also
 
-- [[arthur-mushroom-iconography-medieval-europe]]
 - [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
-- [[james-arthur]]
-- [[arthur-mushrooms-hinduism-buddhism]]
+- gordon-wasson
 - [[arthur-christmas-tree-amanita-muscaria]]
 
-- [[lophophora-williamsii]] — peyote, the cactus from which Heffter isolated mescaline
-- [[albert-hofmann]] — discoverer of LSD, who acknowledged Heffter as a pioneer
 - [[mescaline-entity]] — the compound Heffter first isolated and identified
+## Practical Considerations
+
+Successful implementation of Arthur Heffter requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

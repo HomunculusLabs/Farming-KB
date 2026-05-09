@@ -140,7 +140,9 @@ The choice of administration method depends on several factors:
 
 ## See Also
 
-- [[cannabis-health-cbd-cannabidiol]] — CBD pharmacology relevant to raw cannabis and tincture preparations
 - [[cannabis-health-pain-management]] — how different administration methods affect pain treatment outcomes
-- [[blesching-cannabis-inflammatory-diseases]] — delivery considerations for anti-inflammatory cannabinoid therapy
 - [[cannabis-health-strains-sativa-indica]] — how strain selection relates to preferred administration routes
+
+## See Also
+
+- [[cannabis-administration-methods-comparison]]

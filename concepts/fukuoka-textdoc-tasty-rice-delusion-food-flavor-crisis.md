@@ -130,19 +130,6 @@ to nature.
 
 ## The Decline of Rice Quality
 
-Fukuoka notes that the eggplants, tomatoes, and cucumbers grown by natural farming
-methods under the open sun twenty or thirty years ago are no longer to be found.
-Without a distinct fall or winter it is hardly surprising that greenhouse produce
-no longer has the flavor or fragrance it once did. One should not expect these to
-be packed with vitamins and minerals. Scientists work to ensure people get all
-nourishment anywhere and anytime, but this has the opposite effect of making it
-increasingly difficult to obtain complete nourishment. Nutritionists cannot grasp
-the root cause because they do not suspect that the first cause of error lies in
-the analysis of nutrition and the combination of different nutrients.
-
-## See Also
-
-- [[fukuoka-textdoc-decline-quality-food]]
-- [[fukuoka-textdoc-nature-of-food]]
+Fukuoka notes that the eggplants, tomatoes, and cucumbers grown by [[fukuoka-textdoc-decline-quality-food]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

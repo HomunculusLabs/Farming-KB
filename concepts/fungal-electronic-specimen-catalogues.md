@@ -3,7 +3,7 @@ title: Fungal Electronic Specimen Catalogues and Databases
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -79,11 +79,7 @@ Electronic catalogues have dramatically improved the efficiency of monographic w
 
 ## See Also
 
-- [[fungal-specimen-collection-herbarium-management]]
 - [[fungal-biodiversity-inventory-design]]
-- [[molecular-fungal-taxonomy]]
 - [[fungal-species-estimates-taxonomy]]
-- [[fungal-species-concepts-estimates]]
 - [[fungal-biodiversity-conservation-status]]
-- [[fungal-biodiversity-data-analysis]]
 - [[fungal-monitoring-long-term-studies]]

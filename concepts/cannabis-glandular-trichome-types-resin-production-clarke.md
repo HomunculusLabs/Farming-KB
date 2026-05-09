@@ -99,14 +99,7 @@ In practical terms: many capitate-stalked trichomes means higher THC levels. The
 
 ## Related Topics
 
-- [[cannabis-trichome-types-and-development]] - Detailed trichome development stages
 - [[cannabis-terpene-profile]] - Terpene profiles in Cannabis
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - Breeding for cannabinoid content
 - [[cannabis-harvest-timing-visual-cues]] - Using trichome appearance for harvest timing
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] - Biosynthetic pathways
-
-## See Also
-
 - [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]

@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [preservation, food]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 # Kombucha and Fermented Teas Guide
 
@@ -91,10 +92,7 @@ However, the scientific evidence for many of these claims is limited. Kombucha s
 ## See Also
 
 - kombucha brewing for additional brewing details
-- [[food-fermentation-guide]] for broader fermentation science
 - [[vinegar-making]] for making vinegar from kombucha or other fermented liquids
-- [[wild-fermentation-vs-cultured-yeast]] for understanding the SCOBY microbiology
 - [[yeast-biology]] for the yeast component of kombucha
-- [[fermented-hot-sauce-guide]] for another popular home fermentation project
 - [[faires-food-fermentation-methods]] for homestead fermentation techniques
 - [[faires-herbal-medicine-from-the-garden]]

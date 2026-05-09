@@ -138,8 +138,6 @@ not fully reversed, through early formative pruning.
 
 ## See also
 
-[[fukuoka-phyllotaxy-natural-branching-law]]
 [[fukuoka-textdoc-natural-form-fruit-trees]]
-[[fukuoka-no-prune-fruit-tree-method]]
 [[fukuoka-argument-against-pruning]]
-[[fukuoka-pruning-fruit-tree-natural-management]]
+[[fukuoka-textdoc-pruning-self-perpetuating-human-error]]

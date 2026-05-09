@@ -129,7 +129,6 @@ L. perlatum is excellent when young with white, firm gleba:
 
 ## Ecological Role and Permaculture Applications
 
-L. perlatum plays several important ecological functions:
 ## Related Species
 
 - **Lycoperdon pyriforme:** Found on buried decaying wood; smoother
@@ -144,6 +143,8 @@ L. perlatum plays several important ecological functions:
 
 - [[lycoperdon-pyriforme]]
 
-- [[calvatia-gigantea]]
 - [[decomposition]]
-- [[food-forest]]
+
+## See Also
+
+- [[permaculture-plants-edible-perennials-understory]]

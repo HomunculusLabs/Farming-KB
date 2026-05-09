@@ -110,13 +110,7 @@ None of these steps could have been adopted in isolation. The rice farmer who si
 
 ## Relevance to Modern Agroecology
 
-The "one thing is all things" principle has been independently validated by modern agroecological research. Studies of integrated farming systems consistently show that multi-functional approaches — where a single practice (such as cover cropping) simultaneously addresses soil fertility, weed suppression, pest management, and [[water-conservation]] — outperform specialized single-problem solutions.
-
-Permaculture's design principle of "each element performs multiple functions" and "each function is supported by multiple elements" is a direct formalization of Fukuoka's insight. The difference is that permaculture arrived at this through systems analysis, while Fukuoka arrived at it through decades of direct observation of how nature actually works when left alone.
-
-## Modern Relevance
-
-The principle anticipates what modern systems ecology calls emergent properties: characteristics that arise from the interactions between parts but cannot be predicted from studying any part alone. Agroecology, permaculture, and [[regenerative-agriculture]] all echo this insight, though often without Fukuoka's philosophical depth.
+The "one thing is all things" principle has been independently validated by modern agroecological research. Studies of integrated farming systems consistently show that multi-functional approaches — where a single practice (such as cover cropping) simultaneously addresses soil fertility, weed suppression, pest management, and [[regenerative-agriculture]] all echo this insight, though often without Fukuoka's philosophical depth.
 
 Industrial agriculture continues to fragment into narrower specialties — precision agriculture, variable-rate application, drone-based monitoring — each adding layers of technological complexity to address problems created by previous layers. Fukuoka's principle suggests this trajectory leads not to solutions but to ever-deepening entanglement.
 
@@ -124,6 +118,5 @@ The farmer who wishes to escape this entanglement must begin not by adopting a n
 
 ## See Also
 
-- [[agroecology]]
 - [[masanobu-fukuoka]]
 - [[natural-farming]]

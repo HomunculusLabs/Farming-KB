@@ -23,9 +23,65 @@ sources:
 niu-chang-chih (牛樟芝), is a rare parasitic fungus endemic to Taiwan
 that grows exclusively on the inner cavity of the decayed heartwood of
 the endangered camphor tree *Cinnamomum kanehirai*. It is one of the most
-valued [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]] in traditional Taiwanese medicine, with a long
-history of use as a remedy for liver disease, fatigue, food and drug
-intoxication, and cancer.
+valued [[query-what-are-the-best-mushroom-substrates-for-different-species]] — The lingzhi mushroom, a fellow polyporaceous
 
-The fungus produces a rich array of bioactive triterpenoids, polysaccharides,
-[[medicinal-mushroom-antioxidant-anti-inflammatoryhibiting-potent-hepatoprotective,-anti-inflammatory,-antitumor,-and-immunomodulatory-activities.-wild-harvested-fruiting-bodies-command-prices-up-to-usd-$15,000–20,000-per-kilotrichome-development-and-morphologyintensive-cultivation-and-submerged-fermentation-research.-##-taxonomy-and-morphology---**kingdom:**-fungi---**division:**-basidiomycota---**class:**-agaricomycetes---**order:**-polyporales---**family:**-fomitopsidaceae-(formerly-polyporaceae)---**genus:**-*antrodia*---**species:**-*a.-cinnamomea*-t.t.-chang-&-w.n.-chou-**synonyms:**-*antrodia-camphorata*-(m.-zang-&-c.h.-su)-sheng-h.-wu,-z.h.-yu,-y.c.-dai-&-c.h.-su;-*taiwanofungus-camphoratus*-(m.-zang-&-c.h.-su)-sheng-h.-wu,-z.h.-yu,-y.c.-dai-&-c.h.-su-###-macroscopic-features---**fruiting-body:**-annual,-sessile-to-effused-reflexed,-2–10-cm-across--and-1–3-cm-thick;-surface-distinctly-zonate,-orange-red-to-reddish---brown;-margin-obtuse,-cream-to-orange---**pore-surface:**-orange-to-brownish-red;-pores-circular-to-angular,--2–4-per-mm;-tube-layer-up-to-1-cm-deep---**context:**-corky-to-woody,-reddish-brown,-3–8-mm-thick---**spore-print:**-white-###-microscopic-features---**basidiospores:**-cylindrical-to-allantoid,-5–7.5-×-2–3-µm,-smooth,--thin-walled,-hyaline,-negative-in-melzer's-reagent---**hyphal-system:**-monomitic;-generative-hyphae-with-clamp-connections---**cystidia:**-none-the-taxonomic-history-has-been-contentious.-the-species-was-initially-placed-in-*ganoderma*-due-to-its-resemblance-to-lingzhi-(*g.-lucidum*),-later-transferred-to-*antrodia*,-and-most-recently-to-the-monotypic-genus-*taiwanofungus*-by-some-authorities.-##-distribution-and-habitat-*antrodia-cinnamomea*-is-endemic-to-taiwan,-occurring-exclusively-in-mountainous-forests-(300–2,000-m-elevation)-on-the-western-and-central-ranges.-its-sole-natural-substrate-is-the-inner-heartwood-of-the-endangered-camphor-tree-*cinnamomum-kanehirai*-(牛樟,-niu-chang),-now-legally-protected.-the-fungus-colonizes-the-standing-tree-through-wounds-or-branch-scars,-developing-within-the-trunk's-hollow-interior.-fruiting-bodies-emerge-from-cracks-in-the-bark.-wild-populations-have-declined-dramatically-due-to-over-harvesting-and-habitat-loss-from-*c.-kanehirai*-deforestation.-##-phytochemistry-*antrodia-cinnamomea*-produces-an-exceptionally-diverse-metabolite-profile,-with-over-200-compounds-isolated-to-date.-the-major-bioactive-classes-include:---**triterpenoids:**-the-most-pharmacologically-significant-class,-with--over-78-distinct-ergostane-type-triterpenoids-identified.-key-compounds--include-antcin-a,-b,-c,-h,-k;-zhankuic-acids-a,-b,-c;-and--methyl-antcinate-a.-these-exhibit-antitumor,-anti-inflammatory,-and--hepatoprotective-activities.---**polysaccharides:**-β-glucan-rich-fractions-with-immunomodulatory--activity;-molecular-weights-ranging-from-10–500-kda---**benzenoid-and-biphenyl-compounds:**-including-antroquinonol-and--4-acetylantroquinonol-b,-which-show-selective-cytotoxicity-against--cancer-cell-lines---**maleic/succinic-acid-derivatives:**-antrodins-a–e,-unique-to-this--species---**ubiquinones-and-steroids**-##-pharmacology-###-hepatoprotective-activity-*antrodia-cinnamomea*-is-best-known-for-its-liver-protective-effects.-in-animal-models-of-carbon-tetrachloride-(ccl₄)-induced-liver-damage,-extracts-significantly-reduce-serum-alt-and-ast-levels,-decrease-lipid-peroxidation,-and-attenuate-hepatic-necrosis.-the-triterpenoid-antcin-c-has-been-identified-as-a-major-hepatoprotective-component,-acting-through-nrf2-pathway-activation-and-inhibition-of-hepatic-stellate-cell-activation.-###-antitumor-activity-multiple-triterpenoids-from-*a.-cinnamomea*-demonstrate-in-vitro-cytotoxicity-against-human-cancer-cell-lines-including-hepatoma-(hepg2),-breast-cancer-(mcf-7),-lung-cancer-(a549),-and-colorectal-cancer-(ht-29).-antroquinonol-has-entered-phase-i-clinical-trials-as-an-anticancer-agent,-showing-promising-activity-against-pancreatic-and-lung-cancers-at-well-tolerated-doses.-###-anti-inflammatory-and-immunomodulatory-extracts-suppress-pro-inflammatory-mediators-(tnf-α,-il-6,-no,-pge₂)-through-inhibition-of-nf-κb-and-mapk-signaling-pathways.-the-polysaccharide-fractions-enhance-macrophage-phagocytic-activity-and-stimulate-nk-cell-cytotoxicity.-##-cultivation-due-to-the-rarity-and-price-of-wild-fruiting-bodies,-extensive-cultivation-research-has-been-pursued.-three-main-production-methods-exist:---**solid-state-cultivation-on-*c.-kanehirai*-wood:**-produces-fruiting--bodies-closest-in-composition-to-wild-material,-but-requires-6–12-months---**submerged-liquid-fermentation:**-rapid-biomass-production-(5–7-days);--the-primary-commercial-method-for-supplements,-though-metabolite-profiles--differ-from-wild-material---**alternative-host-woods:**-*cinnamomum-camphora*-and-other-hardwood--substrates-have-been-investigated,-with-varying-success-in-producing--the-characteristic-triterpenoid-profile-##-see-also---antrodia-camphorata---[[ganoderma-lucidum]] — The lingzhi mushroom, a fellow polyporaceous
+## Taxonomic History
+
+The taxonomic classification of *Antrodia cinnamomea* has been one of the
+more contentious issues in Asian polypore systematics. The species was first
+collected and described in the 1990s following intensified interest in
+Taiwanese folk medicinal fungi. Chang and Chou (1995) provided the original
+description as *Antrodia cinnamomea*, placing it in the genus *Antrodia*
+based on its poroid hymenophore and brown-rot decay type.
+
+Shortly thereafter, Wu et al. (1997) proposed the combination *Antrodia
+camphorata*, arguing that an earlier validly published name existed under
+this epithet. This nomenclatural transfer created the synonymy that persists
+in much of the biomedical literature, where "Antrodia camphorata" remains
+the more commonly used name despite *A. cinnamomea* having nomenclatural
+priority.
+
+The most dramatic taxonomic revision came with the proposal by some
+authorities to place the species in a new monotypic genus *Taiwanofungus*
+as *Taiwanofungus camphoratus*, based on phylogenetic analyses suggesting
+it was only distantly related to the type species of *Antrodia*. However,
+this reclassification has not been universally accepted, and both
+*Antrodia cinnamomea* and *Antrodia camphorata* remain in widespread use.
+Molecular phylogenetic studies place the species within the polyporoid
+clade but distinct from the core *Antrodia* sensu stricto group.
+
+## Morphological Description
+
+### Macroscopic Features
+
+Fruiting bodies are annual, sessile to effused-reflexed (forming a shelf
+from a crust-like base), measuring 2-10 cm across and 1-3 cm thick. The
+upper surface is distinctly zonate with concentric zones of varying color
+intensity, ranging from orange-red to reddish-brown. The margin is obtuse
+and cream to orange in color. The pore surface is orange to brownish-red
+with circular to angular pores numbering 2-4 per millimeter. The tube
+layer extends up to 1 cm deep. The context (flesh) is corky to woody in
+texture and reddish-brown, measuring 3-8 mm thick. The [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
+
+## See Also
+
+- [[pore-fungi-polyporaceae]]
+## Practical Considerations
+
+Successful implementation of Antrodia cinnamomea requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

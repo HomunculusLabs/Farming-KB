@@ -100,13 +100,10 @@ Lathyrus tuberosus occupies a uniquely valuable niche in permaculture and regene
 **Erosion Control:** The extensive root system makes the plant effective for stabilizing slopes, roadside banks, and other erosion-prone areas, particularly on sandy or well-drained substrates.
 
 **Drought Tolerance:** Once established, the deep root system and tuber reserves confer excellent drought tolerance, allowing the plant to persist and produce in marginal, water-limited environments.
-
 ## Related
 
 - [[helianthus-tuberosus]]
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
-- [[tihkal-receptor-binding-serotonin]]
 - [[tangerine-dream]]
 
 - [[helianthus-tuberosus]] Species
@@ -146,4 +143,3 @@ Field trials conducted in the United Kingdom, Germany, and Poland have demonstra
 
 **Culinary Revival:** A small but growing movement of chefs, foragers, and food enthusiasts is reintroducing earthnut pea tubers into contemporary cuisine, exploring their unique chestnut-like flavor in innovative dishes and promoting awareness of this nearly forgotten food plant. Specialty food markets and farm-to-table restaurants in parts of Europe have begun featuring earthnut pea tubers, and online seed exchanges have made planting material more accessible to home gardeners and small-scale growers interested in experimenting with this historic crop.
 **Conservation and Genetic Resources:** Germplasm collections of Lathyrus tuberosus are maintained at several international gene banks, including the Nordic Genetic Resource Center (NordGen), the Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) in Germany, and the Vavilov Research Institute in Russia. These collections preserve the genetic diversity of the species and provide material for breeding and research programs aimed at developing improved cultivars for sustainable agriculture.
-**Policy and Institutional Support:** The Food and Agriculture Organization of the United Nations (FAO) has highlighted underutilized legume species like L. tuberosus as important resources for food security and agricultural diversification. European Union agricultural policy has increasingly recognized the value of neglected and underutilized crop species (NUS) for enhancing the resilience and sustainability of European food systems, opening potential funding streams for research and development of the earthnut pea. Several European research consortia have included L. tuberosus in their screening programs for climate-resilient crop candidates, and preliminary results from multi-site trials across the continent have been encouraging regarding the species' adaptability and productivity potential.

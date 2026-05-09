@@ -133,11 +133,8 @@ magic circle closed."
 
 ## Related Topics
 
-- [[lsd-pharmacology]] for comparison of LSD and lysergic
-  acid amide effects
 - [[hofmann-lsd-mazatec-and-psilocybin]] for the preceding Mexican mushroom
   investigation
-- [[hofmann-mexican-mushroom-expedition-psilocybin]] for the fieldwork context
 - [[hofmann-lsd-sandoz-research-program]] for the broader Sandoz research
   environment
 - [[hofmann-lsd-clinical-research-early-studies]] for early human studies with

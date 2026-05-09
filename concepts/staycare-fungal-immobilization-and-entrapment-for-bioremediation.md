@@ -31,17 +31,7 @@ groups at the USDA Forest Products Laboratory and Tulane University have
 independently converged on alginate encapsulation as the most effective
 delivery method after testing numerous alternatives.
 
-Alginate-encapsulated Irpex lacteus and [[trametes-versicolor]] in pelleted
-substrate form removed over 80% of pentachlorophenol (PCP) from
-unsterile soil microcosms within 4 weeks. Coated pellets on which the
-mycelium had not been allowed to proliferate failed to survive in soil,
-being especially prone to competition from indigenous Trichoderma and
-Fusarium species. Entrapment of mycelial fragments of I. lacteus and
-T. versicolor was compared across alginate, agarose, carrageenan,
-chitosan, and gelatin, with alginate providing the best growth and
-viability.
-
-Viability of alginate-embedded [[phanerochaete-chrysosporium]] is enhanced
+Alginate-encapsulated Irpex lacteus and [[phanerochaete-chrysosporium]] is enhanced
 by addition of corn cob grits or sawdust as nutrient supplements.
 Temperature is the most important variable affecting shelf life: pellets
 stored at room temperature without nutrients were largely inactive after
@@ -121,9 +111,5 @@ treatment failure as faster-growing organisms consume added nutrients.
 
 ## See Also
 
-- [[disenchantment-and-modern-craving-for-fungal-enchantment]]
-
-- staycare fungal bioreactor systems for effluent treatment
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
-- [[staycare-trametes-versicolor-bioremediation-applications]]
 - [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]

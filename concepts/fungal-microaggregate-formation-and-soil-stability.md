@@ -3,7 +3,7 @@ title: Fungal Microaggregate Formation and Soil Stability
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -103,15 +103,9 @@ The long-term stability of glomalin in soil means that the benefits of mycorrhiz
 
 ## Related
 
-- [[fungal-bioturbation-and-soil-aggregate-formation]] Concepts
-
 - [[fungal-exopolysaccharides-and-extracellular-polymers]]
-- [[fungal-glomalin-and-soil-carbon]]
 - [[fungal-soil-aggregate-formation-glomalin]]
-- [[fungal-contributions-soil-structure]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-fungal-ecology]]
 - [[fungal-bacterial-interactions]]
-- [[fungal-decomposition-processes]]
 - [[fungal-ecosystem-processes-overview]]
 - [[fungal-peat-decomposition-and-carbon-storage]]

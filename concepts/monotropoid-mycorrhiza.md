@@ -129,11 +129,7 @@ Monotropoid mycorrhizae represent an evolutionary extreme of mycorrhizal cheatin
 
 - mycorrhiza — Overview of mycorrhizal symbiosis types
 - ectomycorrhizal-ecology|ectomycorrhiza — The EM symbiosis that provides the carbon pathway
-- [[arbutoid-mycorrhiza]] — Related ericaceous mycorrhizal type
 - [[ericoid-and-orchid-mycorrhizae]] — Another mycoheterotrophic mycorrhizal type
-- [[common-mycorrhizal-networks]] — Networks exploited by monotropoid plants
-- mycoheterotrophy — Broader concept of plants obtaining carbon from fungi
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[mycorrhizal-networks-common-mycelial-network]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

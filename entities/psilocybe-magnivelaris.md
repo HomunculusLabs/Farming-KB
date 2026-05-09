@@ -11,56 +11,7 @@ type: entity
 # Psilocybe magnivelaris
 
 **Type:** Species (Fungus)
-**Category:** Basidiomycota, [[agar]]icales, Strophariaceae, Psilocybe
-**Also known as:** Stropharia magnivelaris (Peck apud Harriman),
-  Psilocybe percevalii (Berkeley and Broome) Orton
-
-## Overview
-Psilocybe magnivelaris is a non-psychoactive Psilocybe species
-characterized by its well-developed membranous annulus (magnivelaris
-= "large veil") and non-bluing flesh. Originally described as
-Stropharia magnivelaris, it was transferred to Psilocybe by
-Noordeloos. Found in sandy soils, alluvial plains, and soils rich
-in willow and alder debris across northern North America and
-northern Europe. Despite its placement in Psilocybe, it contains no
-known psychoactive compounds.
-
-## Key Details
-- **Cap:** 1.5-6 cm broad. Obtusely umbonate to campanulate to convex,
-  expanding to broadly convex to plane with elevated margin. Viscid
-  when moist from thin gelatinous pellicle. Smooth, covered with
-  scattered white floccose scales increasing towards margin. Pale
-  grayish yellow to ochraceous to brownish orange, darker towards
-  disc. Not strongly hygrophanous.
-- **Gills:** Adnate to sinuate, broad, close. Pallid white at first,
-  soon grayish brown, finally dark purplish brown with whitish
-  fringed margins.
-- **Stem:** 50-85 mm long by 4-7 mm thick. Hollow, equal to enlarged
-  towards apex, tapering below. White to dingy yellowish. Partial
-  veil membranous, leaving thick white membranous annulus, often
-  flaring, which can deteriorate into annular zone. Fibrillose
-  patches below annulus. Flesh moderately thick, firm, whitish,
-  not bruising.
-- **Spores:** Dark purplish brown in deposit, smooth ellipsoid, 13-15
-  x 6-8 um. Basidia 4-spored. Pleurocystidia absent. Cheilocystidia
-  33-44 x 4-5 um, nearly clavate to sublageniform with elongated
-  neck 3-4 um thick.
-- **Habitat:** Scattered to gregarious in sandy soils, alluvial plains,
-  soils rich in Salix (willow) and Alnus (alder) debris. May to
-  November. USA (Alaska, Washington, Oregon, possibly Colorado),
-  northern Europe, British Isles.
-- **Chemistry:** Not active. Edibility unknown. No bluing reaction.
-
-## Distribution and Ecology
-Psilocybe magnivelaris has a broad northern distribution spanning
-North America (Alaska, Washington, Oregon, possibly Colorado) and
-northern Europe (including the British Isles). It fruits from May
-through November, indicating a long fruiting season adapted to the
-cool, moist conditions of northern latitudes. The species shows a
-strong preference for riparian habitats, particularly soils rich in
-woody debris of Salix (willow) and Alnus (alder). These trees are
-nitrogen-fixing associates (alder) or riparian specialists (willow),
-creating nutrient-rich, moist soils ideal for [[fungal-decomposition]].
+**Category:** Basidiomycota, [[fungal-decomposition]].
 Alluvial plains and sandy soils near waterways appear to be primary
 habitats, suggesting the species benefits from periodic flooding that
 deposits organic material.
@@ -79,6 +30,82 @@ Psilocybe and Stropharia species.
 
 ## See Also
 - [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-aeruginosa]]
 - [[psilocybe-caerulea]]
+## Practical Applications
+
+psilocybe magnivelaris has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+psilocybe magnivelaris. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -1,37 +1,10 @@
----
-title: LSZ
-created: 2026-04-28
-type: chemical
-tags:
-  - psychedelic
-  - lysergamide
-  - ergoline
-  - research-chemical
-  - serotonergic
-  - 5-ht2a-agonist
-  - lsd-analogue
-  - hallucinogen
-  - tiHKAL
-  - scheduled-substance
-  - partial-agonist
-  - tryptamine-related
-  - designer-drug
-  - psychopharmacology
-  - entheogen
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://www.erowid.org/library/books_online/tihkal/tihkal26.shtml
-  - https://en.wikipedia.org/wiki/LSZ
-  - https://isomerdesign.com/PiHKAL/rx/lsd/lsz.html
----
 
 # LSZ
 
 ## Overview
 
 LSZ, also known as N6-(2,4-dimethylazetidin-1-yl)-N6-propionylnor-
-lysergamide or lysergic acid 2,4-dimethylazetidide, is a synthetic
+lysergamide or [[lysergic-acid]] 2,4-dimethylazetidide, is a synthetic
 psychedelic of the lysergamide class. Structurally related to LSD,
 LSZ features a dimethylazetidine ring in place of the diethylamide
 moiety, along with an N6-propionyl group. First synthesized by Albert
@@ -107,11 +80,7 @@ differences noted by experienced users:
 
 ## History and Context
 
-LSZ was first synthesized by Albert Hofmann at Sandoz Laboratories
-in Basel, Switzerland, during mid-20th century exploration of
-lysergamide structure-activity relationships. Documented in TiHKAL
-(Leg #26), published 1997. Gained wider attention in the 2010s
-research chemical market alongside 1P-LSD, AL-LAD, and ETH-LAD.
+LSZ was first synthesized by [[1p-lsd]], [[eth-lad]].
 Marketed as a legal LSD alternative in unscheduled jurisdictions.
 Most countries have since scheduled LSZ through analogue legislation
 or specific bans.
@@ -140,11 +109,8 @@ or specific bans.
   increases with serotonergic combinations.
 - **Purity:** Unregulated research chemical — may be misidentified,
   contaminated, or inaccurately dosed. Reagent testing recommended.
-
 ## See Also
-
-- [[runtz-entity]]
 
 - [[ergine-entity]]
 
-- [[albert-hofmann]]
+- [[gordon-wasson-comparative-method-ethnomycology]]

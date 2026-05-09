@@ -94,7 +94,7 @@ Somatic embryogenesis and micropropagation are used for rapid multiplication of 
 4. **Spacing**: 1.0–1.5 m between plants within rows, 1.2–2.0 m between rows, depending on variety, climate, and mechanization needs. Planting density ranges from 5,000 to 15,000 plants/ha.
 5. **Windbreaks**: Essential in exposed sites. Species like *Casuarina*, *Grevillea*, or *Alnus nepalensis* provide shelter without excessive shade.
 6. **Planting time**: At the onset of monsoon rains in tropical regions; early autumn in subtropical zones.
-7. **Shade trees**: In traditional Japanese and some Indian gardens, *Gleditsia triacanthos* (honey locust) or *Alnus* species are interplanted to provide dappled shade.
+7. **Shade trees**: In traditional Japanese and some Indian gardens, *[[gleditsia-triacanthos]]* (honey locust) or *Alnus* species are interplanted to provide dappled shade.
 
 ### Young Plant Care
 
@@ -140,8 +140,7 @@ Typical annual application rates (per hectare, split across 3–4 applications):
 Organic approaches include:
 - Compost or vermicompost at 5–10 t/ha annually
 - Oilseed cakes (neem, castor, mustard) as slow-release nitrogen
-- Biochar amendments to improve soil structure and nutrient retention
-- Green manure cover crops (*Crotalaria*, *Tephrosia*, *Desmodium*) in inter-row spaces
+- Biochar amendments to improve soil structure and nutrient retentio [[green-manure-cover-crops]] rops (*Crotalaria*, *Tephrosia*, *Desmodium*) in inter-row spaces
 
 Micronutrient deficiencies (zinc, boron, manganese, iron) are common on highly weathered tropical soils and are corrected with foliar sprays.
 
@@ -151,9 +150,9 @@ Micronutrient deficiencies (zinc, boron, manganese, iron) are common on highly w
 
 | Pest | Type | Damage | Management |
 |---|---|---|---|
-| **Tea mosquito bug** (*Helopeltis theivora*) | True bug | Feeding lesions on shoots; dieback | Shade management, neem-based sprays, *Beauveria bassiana* |
+| **Tea mosquito bug** (*Helopeltis theivora*) | True bug | Feeding lesions on shoots; dieback | Shade management, neem-based sprays, *[[beauveria-bassiana]]* |
 | **Red spider mite** (*Oligonychus coffeae*) | Mite | Bronzing, leaf loss | Overhead irrigation, predatory mites (*Amblyseius* spp.), sulfur sprays |
-| **Tea tortrix** (*Homona coffearia*) | Moth | Leaf rolling and defoliation | Pheromone traps, *Bacillus thuringiensis* (Bt) |
+| **Tea tortrix** (*Homona coffearia*) | Moth | Leaf rolling and defoliation | Pheromone [[bacillus-thuringiensis]] ngiensis* (Bt) |
 | **Tea aphid** (*Toxoptera aurantii*) | Aphid | Curling, honeydew, sooty mold | Ladybird beetles, insecticidal soap |
 | **Flushworm** (*Cydia leucostoma*) | Moth | Shoot boring | Cultural hygiene, light pruning |
 | **Nematodes** (*Meloidogyne* spp.) | Root-knot | Root galling, stunting | Organic amendments, marigold intercropping, resistant rootstocks |
@@ -294,7 +293,7 @@ Year 5+   : Full production; 1,500–4,000 kg made tea/ha/year depending on syst
 
 ## See Also
 
-- [[caffeine-plants-and-stimulant-herb-cultivation|Caffeine Plants and Stimulant Herb Cultivation]]
-- [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea|Yerba Mate vs Guayusa vs Yaupon vs Tea]]
-- [[kombucha-brewing-and-fermented-tea-culture|Kombucha Brewing and Fermented Tea Culture]]
-- [[wild-fermentation-and-spontaneous-cultures|Wild Fermentation and Spontaneous Cultures]]
+- [[caffeine-plants-and-stimulant-herb-cultivation]]
+- [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
+- [[kombucha-brewing-and-fermented-tea-culture]]
+- [[wild-fermentation-and-spontaneous-cultures]]

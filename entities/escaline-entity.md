@@ -11,51 +11,7 @@ sources:
 
 Escaline (3,5-Dimethoxy-4-ethoxyphenethylamine) is a psychedelic phenethylamine closely related to mescaline-entity|mescaline.
 
-It is documented as entry #168 in PiHKAL by [[alexander-shulgin]].
-
-Escaline is an ethoxy analogue of mescaline-entity|mescaline, with one of the methoxy groups replaced by an ethoxy group.
-
-## Chemical Identity
-
-Full chemical name: 3,5-Dimethoxy-4-ethoxyphenethylamine.
-
-Molecular formula: C12H19NO3 (free base).
-
-Escaline shares the 3,5-dimethoxy core of mescaline-entity|mescaline but replaces the 4-methoxy group with a 4-ethoxy group.
-
-This simple substitution (adding two carbons to one oxygen) significantly alters both potency and character.
-
-The hydrochloride salt melts at 179-180 degrees Celsius as white crystals.
-
-## Dosage and Duration
-
-Effective oral dosage: 40 - 60 mg.
-
-Duration of effects: 8 - 12 hours.
-
-Escaline is approximately twice as potent as mescaline-entity|mescaline (active at 200-400 mg) on a weight basis.
-
-The duration is comparable to or slightly longer than mescaline-entity|mescaline.
-
-## Qualitative Effects
-
-At 40 mg, effects include gentle visual enhancement with warm colors and mild pattern recognition.
-
-The experience is described as comfortable and manageable, similar to mescaline-entity|mescaline but with somewhat more visual richness.
-
-At 50 mg, the experience intensifies with clear visual distortions, enhanced appreciation of music and art, and a sense of emotional openness.
-
-Body load is generally mild, with some nausea possible during onset.
-
-At 60 mg, full psychedelic effects emerge including complex visual patterning, rich eyes-closed imagery, and deep introspective states.
-
-The compound is described as producing a "clean" psychedelic experience with fewer physical side effects than some mescaline analogues.
-
-## Relationship to Mescaline
-
-Escaline is one of several 4-alkoxy analogues of mescaline-entity|mescaline explored in PiHKAL.
-
-The series includes mescaline-entity|mescaline (4-methoxy), escaline (4-ethoxy), [[proscaline]]|proscaline (4-propoxy), and buscaline-entity|buscaline (4-butoxy).
+It is documented as entry #168 in PiHKAL by [[proscaline]]|proscaline (4-propoxy), and buscaline-entity|buscaline (4-butoxy).
 
 As the 4-position alkoxy chain lengthens, potency generally increases then decreases, with the ethoxy (escaline) and propoxy (proscaline-entity|proscaline) positions showing the most favorable profiles.
 
@@ -125,10 +81,6 @@ The compound should not be confused with 2c-e-entity|2C-E, which is an unrelated
 - proscaline-entity|proscaline: the 4-propoxy analogue
 - buscaline-entity|buscaline: the 4-butoxy analogue
 - te-entity|TE: the 4-ethylthio analogue
-- [[phenethylamine-pharmacology]]: general pharmacology
-
-## Related
-
 - [[2c-g-entity-pihkal]]
 
 - [[madam-6-entity]]

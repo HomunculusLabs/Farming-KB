@@ -114,10 +114,7 @@ Botrytis leaf blight (*Botrytis squamosa*) is problematic in regions with freque
 
 ## See Also
 
-- [[allium-sativum-entity]]
 - [[allium-schoenoprasum]]
-- [[capsicum-annuum]]
 - [[coriandrum-sativum]]
-- [[daucus-carota]]
 - [[beta-vulgaris]]
 - [[zingiber-officinale]]

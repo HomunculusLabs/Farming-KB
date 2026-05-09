@@ -15,8 +15,7 @@ type: entity
 **Also known as:** CBG, cannabigerol
 
 ## Overview
-Cannabigerol (CBG) is a phytocannabinoid found in [[cannabis-sativa]] and
-[[cannabis-indica]]. It is often called the "mother cannabinoid" or
+Cannabigerol (CBG) is a phytocannabinoid found in [[cannabis-indica]]. It is often called the "mother cannabinoid" or
 "stem cell cannabinoid" because it serves as the biosynthetic precursor
 from which all other major cannabinoids are synthesized. In the living
 cannabis plant, CBGA (cannabigerolic acid) is enzymatically converted
@@ -84,9 +83,7 @@ of medical cannabis cultivation.
 
 ## See Also
 
-- [[cannabigerol]]
 - [[tetrahydrocannabinol-thc]]
-- [[cannabidiol-cbd]]
 - [[cannabichromene-cbc]]
 - [[cannabinol-cbn]]
 - cannabigerolic acid (CBGA)

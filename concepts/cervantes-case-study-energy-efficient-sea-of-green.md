@@ -126,10 +126,7 @@ a yield of 30.2 pounds, bringing the cost per pound down to USD $62.
 
 ## See Also
 
-- [[sea-of-green]]
 - [[screen-of-green]]
-- [[cervantes-lighting-systems]]
 - [[cervantes-odor-control]]
-- [[cervantes-high-pressure-sodium-lighting]]
 - [[cervantes-spider-mites-identification-control]]
 - [[cervantes-neem-oil-organic-pest-control]]

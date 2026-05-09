@@ -102,14 +102,10 @@ Shulgin's systematic mapping of chemical-pharmacological space proved remarkably
 
 ## See Also
 
-- [[entheogen-culture]] -- cultural context of psychoactive substance use
 - [[ayahuasca-tourism-ethics]] -- real-world implications of traditional psychoactive practices
 
 ## Related
 
-- [[shulgin-designer-drugs-analysis]]
 - [[building-with-natural-materials]]
-- [[mollison-arid-lands-design-and-erosion-control]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[natural-building-materials-guide]]

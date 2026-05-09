@@ -8,7 +8,7 @@ sources: []
 ---
 # PGPR and Mycorrhizal Inoculants for Microplant Establishment
 
-[[plant-growth-promoting-rhizobacteria]] (PGPR) and [[arbuscular-mycorrhizal-network-visualization-anastomosis]] (AMF) can be used as biological inoculants to improve the establishment, growth, and health of micropropagated plants (microplants). Microplants are produced in sterile laboratory conditions and face unique challenges during weaning and transplanting, including poor water relations, underdeveloped defense mechanisms, and absence of protective rhizosphere microorganisms. Biological inoculants address these vulnerabilities through multiple modes of action.
+[[arbuscular-mycorrhizal-network-visualization-anastomosis]] (AMF) can be used as biological inoculants to improve the establishment, growth, and health of micropropagated plants (microplants). Microplants are produced in sterile laboratory conditions and face unique challenges during weaning and transplanting, including poor water relations, underdeveloped defense mechanisms, and absence of protective rhizosphere microorganisms. Biological inoculants address these vulnerabilities through multiple modes of action.
 
 Microplants are produced in sterile laboratory conditions and face unique challenges during weaning and transplanting, including poor water relations, underdeveloped defense mechanisms, and absence of protective rhizosphere microorganisms.
 
@@ -24,17 +24,7 @@ The absence of a protective rhizosphere flora further increases susceptibility t
 
 Stage 3 micropropagation (in vitro weaning) addresses some of these issues through shading, misting, and hardening protocols.
 
-## Arbuscular [[mycorrhizal-fungi]] as Inoculants
-
-AMF benefit microplants through three main mechanisms: as biofertilizers (extending root absorptive surface area and improving phosphorus and water uptake), as biocontrol agents (inducing systemic resistance and competing with pathogens), and as bioregulators (interacting with plant hormonal systems). Between 10 and 20% of net photosynthates are allocated to AMF structures, representing a carbon cost to the plant. AMF inoculation during micropropagation can reduce post-transplant losses and accelerate growth, but responses vary with AMF species, host genotype, and substrate conditions.
-
-Between 10 and 20% of net photosynthates are allocated to AMF structures, representing a carbon cost to the plant.
-
-AMF inoculation during micropropagation can reduce post-transplant losses and accelerate growth, but responses vary with AMF species, host genotype, and substrate conditions.
-
-## Plant Growth-Promoting Rhizobacteria
-
-PGPR, principally [[pseudomonas]] and Bacillus species, promote plant growth through multiple mechanisms: production of iron-chelating siderophores that sequester iron from pathogens, synthesis of antibiotics that suppress pathogens, production of plant growth regulators (auxins, cytokinins, gibberellins), reduction of inhibitory ethylene levels through ACC deaminase activity, and induction of systemic resistance (ISR). PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
+## Arbuscular [[pseudomonas]] and Bacillus species, promote plant growth through multiple mechanisms: production of iron-chelating siderophores that sequester iron from pathogens, synthesis of antibiotics that suppress pathogens, production of plant growth regulators (auxins, cytokinins, gibberellins), reduction of inhibitory ethylene levels through ACC deaminase activity, and induction of systemic resistance (ISR). PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
 
 PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
 
@@ -93,7 +83,5 @@ Safety evaluation of biological inoculants must consider risks to users, consume
 PGPR pose potentially greater human health risks than AMF because of their relatedness to human pathogenic bacteria and the ease of horizontal gene transfer.
 
 ## See Also
-
-- [[agricultural-chemicals-mycorrhizal-impact]]
 
 - [[symbiotic-fungi-amf-pgpr-inoculants-microplants]]

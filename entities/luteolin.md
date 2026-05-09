@@ -130,13 +130,8 @@ behavioral symptoms in children with autism spectrum conditions.
 
 ## See Also
 
-- [[quercetin]]
 - [[kaempferol]]
-- [[resveratrol]]
 - [[berberine]]
-- [[curcumin]]
 - [[salvia-officinalis]]
-- [[rosmarinus-officinalis-entity]]
 - [[scutellaria-baicalensis]]
-- [[allicin]]
 - [[piperine]]

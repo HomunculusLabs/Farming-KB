@@ -137,13 +137,8 @@ production is incomparably simpler than developing nuclear munitions.
 ## Gulf War Syndrome Connection
 ## See Also
 
-- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]
-
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
-- [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
 
-- [[fungal-melanin-in-ecology-and-stress-protection]] for melanin biochemistry
 - [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] for deeper weapons analysis
-- [[bloomfield-aspergillus-biology-and-aflatoxins]] for foodborne mycotoxins
 - [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]] for indoor fungal health risks

@@ -109,16 +109,10 @@ In Middle Eastern cuisine, quince features in stews (such as the Persian khoresh
 
 ## See Also
 
-- [[punica-granatum]]
 - [[ficus-carica]]
-- [[morus-alba]]
 - [[castanea-sativa]]
-- [[corylus-avellana]]
 - [[juglans-regia]]
-- [[crataegus-monogyna]]
 - [[rosa-canina]]
-- [[hippophae-rhamnoides]]
 - [[food-forest]]
-- [[companion-planting]]
 - [[elaeagnus-umbellata]]
 - [[prunus-spinosa]]

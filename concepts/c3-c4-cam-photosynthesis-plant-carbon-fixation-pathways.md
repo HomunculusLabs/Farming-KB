@@ -88,48 +88,6 @@ Altitude effects are pronounced: C4 plants decline above ~2,500–3,000 m becaus
 
 Rising atmospheric CO₂ concentrations (projected 550–700 ppm by 2100) directly favor C3 plants through CO₂ fertilization. FACE (Free-Air CO₂ Enrichment) experiments demonstrate an average ~15% biomass increase in C3 plants at doubled CO₂. At 700 ppm and 30°C, photorespiration in C3 drops from ~35% to ~15% of gross fixation. However, rising temperatures partially offset this benefit — each 1°C increase raises C3 photorespiration by approximately 5–8%.
 
-C4 plants benefit less from elevated CO₂ since their CCM already saturates Rubisco with CO₂, but maintain superior performance as temperatures rise. C3 crops at elevated CO₂ show decreased protein content (~5–15% reduction in grain protein) and mineral content, raising concerns for global nutrition. CAM plants may expand in arid regions where both temperature and water stress increase. The net effect varies by region: temperate zones likely favor C3 crops, while tropical and subtropical regions maintain C4 advantages. Global productivity models suggest terrestrial productivity will increase primarily through CO₂ fertilization of C3[[weed-management-strategies]] competitive dynamics will shift: C3 weeds like pigweed may become more aggressive relative to C4 crops in a high-CO₂ world, while C4 weeds like Palmer amaranth (*Amaranthus palmeri*) may become less competitive relative to C3 crops in cooler regions. These shifting competitive hierarchies have significant implications for weed management strategies and crop variety selection under future climate scenarios. However, weed competitive dynamics will shift: C3 weeds like pigweed may become more aggressive relative to C4 crops in a high-CO₂ world, while C4 weeds like Palmer amaranth may become less competitive relative to C3 crops in cooler regions. These shifting competitive hierarchies have significant implications for weed management strategies and crop variety selection under future climate scenarios.
-
-## Aquatic and Specialized C4 Systems
-
-C4 photosynthesis is not limited to terrestrial plants. Several aquatic species have evolved C4 metabolism, including *Hydrilla verticillata*, *Echinochloa fluitans*, and *Orcuttia* spp. These exploit the bicarbonate-rich aqueous environment where CO₂ diffusion is inherently slow. *Hydrilla* switches between C3 and C4 depending on CO₂ availability, representing another case of facultative carbon concentrating mechanism deployment. Single-cell C4 mechanisms have been discovered in *Bienertia cycloptera* (Chenopodiaceae), which partitions C3 and C4 functions between two cytoplasmic compartments within individual cells rather than between different cell types, demonstrating that Kranz anatomy is not an absolute requirement for C4 function.
-
-## Improving Rubisco and Alternative Carbon Concentrating Mechanisms
-
-Beyond engineering C4 into C3 crops, alternative strategies target improving carbon fixation directly. Rubisco engineering through directed evolution seeks variants with higher specificity for CO₂ over O₂ or faster catalytic turnover. Transplanting cyanobacterial carboxysomes — protein microcompartments concentrating CO₂ around Rubisco — into plant chloroplasts represents a promising biophysical CCM alternative that operates within single cells, avoiding the need for Kranz anatomy. Proof-of-concept demonstrations of carboxysome assembly in tobacco chloroplasts have been achieved. SBPase overexpression, a simpler single-gene approach, has already demonstrated 10–15% photosynthetic improvement in transgenic tobacco and rice under field conditions.
-## Key Quantitative Summary
-
-| Parameter | C3 | C4 | CAM |
-|-----------|-----|-----|------|
-| Species count | ~250,000–300,000 | ~7,500–8,000 | ~16,000–20,000 |
-| Global primary productivity | ~75% | ~20–25% | ~3–5% |
-| ATP per CO₂ fixed | 3 | 5 | ~6.5 |
-| NADPH per CO₂ fixed | 2 | 2 | 2 |
-| CO₂ compensation point (ppm) | 40–70 | 0–10 | 0–5 |
-| Temperature optimum (°C) | 15–25 | 30–35 | 25–35 |
-| Max photosynthetic rate (µmol/m²/s) | 15–40 | 40–80 | 5–20 |
-| Water use efficiency (relative) | 1× | 2–4× | 3–10× |
-| Photorespiration at 30°C | 30–40% | <5% | <5% |
-| Independent evolutionary origins | 1 (ancestral) | 25+ | 35+ |
-| First appeared | ~3 Ga | ~25–45 Ma | ~40–50 Ma |
-
-## Engineering Photosynthetic Pathways in Crops
-
-The C4 rice consortium, led by IRRI since 2008, aims to introduce C4 photosynthesis into rice (*Oryza sativa*) to boost yields by 30–50% under tropical conditions. This requires engineering Kranz anatomy, elevating bundle sheath cell size and number, installing the C4 biochemical cycle (PEPC, PPDK, NADP-ME), and repressing C3 gene expression in mesophyll cells. Progress has been made in upregulating C4 enzyme genes and modifying leaf anatomy through transcription factor manipulation, but a fully functional C4 rice remains elusive.
-
-Alternative strategies include installing a cyanobacterial CO₂-concentrating mechanism (CCM) into chloroplasts, which uses bicarbonate transporters and carboxysome microcompartments to elevate CO₂ around Rubisco. Synthetic biology approaches have successfully expressed components of the β-carboxysome in tobacco chloroplasts, achieving modest CO₂ fixation improvements. CRISPR-mediated knockout of photorespiratory bypass genes in *Arabidopsis* and rice has also demonstrated yield gains in controlled environments, suggesting that reducing photorespiratory losses is a viable path toward C4-like efficiency without full anatomical rewiring.
-
-## References
-
-- Sage, R.F. (2004). The evolution of C4 photosynthesis. *New Phytologist*, 161(2), 341–370.
-- Edwards, G.E. & Voznesenskaya, E.V. (2011). C4 photosynthesis: Kranz forms and single-cell C4 systems in relation to evolution and function in Chenopodiaceae. In *C4 Photosynthesis and Related CO₂ Concentrating Mechanisms*, Springer.
-- Von Caemmerer, S. & Furbank, R.T. (2016). Strategies for improving C4 photosynthesis. *Current Opinion in Plant Biology*, 31, 125–134.
-- Borland, A.M. et al. (2011). Engineering CAM photosynthesis. *Journal of Experimental Botany*, 62(9), 3133–3145.
-- Kajala, K. et al. (2019). C4 photosynthesis: The C4 rice project. In *C4 Photosynthesis and Related CO₂ Concentrating Mechanisms*, Springer.
-
-## See Also
-
-- [[photosynthesis-carbon-cycle-plants]]
-- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
+C4 plants benefit less from elevated CO₂ since their CCM already saturates Rubisco with CO₂, but maintain superior performance as temperatures rise. C3 crops at elevated CO₂ show decreased protein content (~5–15% reduction in grain protein) and mineral content, raising concerns for global nutrition. CAM plants may expand in arid regions where both temperature and water stress increase. The net effect varies by region: temperate zones likely favor C3 crops, while tropical and subtropical regions maintain C4 advantages. Global productivity models suggest terrestrial productivity will increase primarily through CO₂ fertilization of C3[[photosynthesis-carbon-cycle-plants]]
 - [[stomata-transpiration-and-plant-water-regulation]]
 - [[water-use-efficiency-plants]]

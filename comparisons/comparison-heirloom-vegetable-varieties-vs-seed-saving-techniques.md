@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[heirloom-vegetable-varieties]] and [[seed-saving-techniques]] are closely 
+[[seed-saving-techniques]] are closely 
 related but distinct concepts in the world of plant genetics and food 
 sovereignty. Heirloom varieties are the plant genetics themselves: 
 open-pollinated cultivars that have been passed down through generations, 
@@ -125,10 +125,7 @@ community distribution.
 
 ## See Also
 
-- [[heirloom-vegetable-varieties]] for variety selection and history
 - [[seed-saving-techniques]] for detailed processing and storage methods
-- [[permaculture-seed-saving-breeding]] for permaculture-specific approaches
 - [[solomon-seed-saving-fundamentals]] for Solomon's practical guide
-- [[seed-saving-storage]] for optimal storage conditions
 - [[natural-farming-guide-seed-saving-and-heirloom-varieties]] for natural 
 farming methods

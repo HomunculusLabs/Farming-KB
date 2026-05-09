@@ -142,8 +142,6 @@ The garden can supply the kitchen for several more months than most people expec
 
 ## See Also
 
-- [[root-vegetable-storage-guide]]
 - [[vegetable-harvest-and-storage-guide]]
-- [[home-garden-seed-saving]]
 - [[lacto-fermentation-and-food-preservation-methods]]
 - [[homesteading-food-preservation]]

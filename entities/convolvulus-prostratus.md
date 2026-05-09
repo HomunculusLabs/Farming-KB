@@ -104,20 +104,9 @@ Pharmacopoeial standards in India have designated C. prostratus as the authentic
 
 ## See Also
 
-- [[convolvulus-pluricaulis]]
-
 - [[bacopa-monnieri]]
-- [[clitoria-ternatea]]
-- evolvulus alsinoides
 - [[centella-asiatica]]
-- [[withania-somnifera]]
-- convolvulaceae
 - [[nootropic-herbs-guide]]
-- [[herbal-medicine]]
-- medhya rasayana
-- rasayana
-- [[ashwagandha]]
-- [[ocimum-sanctum]]
+- [[withania-somnifera]]
 - [[schisandra-chinensis]]
-- [[rhodiola-rosea]]
 - [[hypericum-perforatum]]

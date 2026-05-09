@@ -8,12 +8,7 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 type: concept
 ---
 
-# Surfactant-Enhanced [[bioavailability-in-fungal-bioremediation]]
-
-## Overview
-
-Bioavailability is one of the primary factors limiting the effectiveness
-of [[fungal-bioremediation]] of persistent organic pollutants (POPs) in
+# Surfactant-Enhanced [[fungal-bioremediation]] of persistent organic pollutants (POPs) in
 soil. Surfactants, both synthetic and microbially produced, can increase
 the aqueous solubility and accessibility of hydrophobic pollutants such
 as polycyclic aromatic hydrocarbons (PAHs) to fungal degradative
@@ -122,9 +117,5 @@ soil colonization and subsequent POP transformation.
 
 ## See Also
 
-- [[surfactant-enhanced-fungal-bioremediation]]
-
 - [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]]
-- [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
-- staycare surfactant enhanced bioavailability in fungal bioremediation
 - [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]]

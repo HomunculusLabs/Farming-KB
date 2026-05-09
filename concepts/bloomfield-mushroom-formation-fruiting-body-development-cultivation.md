@@ -138,12 +138,7 @@ mechanism.
 
 ## See Also
 
-- [[mushroom-cultivation-fruiting-chambers]]
 - [[mushroom-fruiting-body-morphology]]
-- [[fruiting-conditions-mushroom-cultivation]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
-- [[fruiting-body-development]]
-
-- basidiomycetes
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
 - [[ballistospore-discharge-mechanism-mushrooms]]

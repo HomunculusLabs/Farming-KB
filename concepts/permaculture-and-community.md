@@ -3,13 +3,7 @@ title: Permaculture and Community
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Permaculture and Community
-
-Holmgren's principle "Integrate Rather Than Segregate" extends naturally from ecological design into the social realm, where he argues that rebuilding community is the essential complement to personal and household self-reliance. Without cooperative alternatives to dependence on the global economy, political strategies for taming global institutions are "like King Canute telling the sea to retreat." This analysis connects directly to [[permaculture-community-scale-design]], [[competition-cooperation-permaculture]], and the transition from [[consumer-versus-conserver-society]].
+tags: [[permaculture-community-scale-design]], [[consumer-versus-conserver-society]].
 
 ## Characteristics of Sustainable Community
 
@@ -87,11 +81,7 @@ Intentional communities are tackling the hard but rewarding job of evolving ways
 
 ## See Also
 
-- [[permaculture-community-scale-design]]
 - [[competition-cooperation-permaculture]]
-- [[consumer-versus-conserver-society]]
 - [[permaculture-ethics]]
-- [[low-energy-futures-in-permaculture]]
-- [[permaculture-water-harvesting-earthworks]]
-- [[permaculture-design-principles]]
+- [[permaculture-earthworks-and-water-harvesting]]
 - [[holmgren-permaculture-land-tenure-and-legal-structures]]

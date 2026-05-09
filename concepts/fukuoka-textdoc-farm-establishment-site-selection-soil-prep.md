@@ -136,6 +136,5 @@ as organic matter accumulates and biological activity increases.
 ## See Also
 
 - [[fukuoka-textdoc-natural-soil-management]]
-- [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]

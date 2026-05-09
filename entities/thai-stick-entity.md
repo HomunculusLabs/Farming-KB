@@ -15,45 +15,7 @@ sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
   - "Small, E. & Cronquist, A. (1976). \"A practical and natural taxonomy for Cannabis.\" Taxon, 25(4), 405-435."
   - "ElSohly, M.A. et al. (2016). \"Changes in cannabis potency over the last two decades.\" Biological Psychiatry, 79(7), 613-619."
-  - "McPartland, J.M. (2018). \"Cannabis sativa and Cannabis indica versus 'Sativa' and 'Indica.'\" Cannabis and Cannabinoid Research, 3(1), 52-58."
----
-
-# Thai Stick
-
-## Overview
-
-Thai Stick is a legendary pure sativa landrace cannabis strain from
-Thailand, renowned for its extraordinary potency in the 1970s and its
-unique presentation — buds tied to bamboo splints and dipped in hashish oil.
-
-The strain gained fame during the Vietnam War when American soldiers
-encountered it in Southeast Asia and smuggled seeds back to the United States.
-
-Thai Stick genetics were instrumental in creating some of the most
-celebrated strains in cannabis history, most notably as one of the three
-parental sativas in the original Haze cross.
-
-Authentic Thai Stick landrace is extremely rare today. Decades of
-crossbreeding and Thailand's aggressive eradication programs have pushed
-the original genetics toward extinction.
-
-## Lineage
-
-Thai Stick is a **pure landrace sativa** native to the tropical regions of
-Thailand, particularly the northern provinces of Chiang Mai, Chiang Rai,
-and the Golden Triangle border region.
-
-The strain adapted to Thailand's monsoon climate with its near-equatorial
-photoperiod (approximately 12 hours light year-round), producing genetics
-tuned for continuous, long-season flowering.
-
-Genetic contributions to modern hybrids:
-
-| Descendant Strain | Contribution |
-|---|---|
-| Original Haze | One of three founding sativa parents (Thai × Colombian × Mexican × Indian) |
-| AK-47 | Thai lineage contributor |
-| Amnesia Haze | Thai sativa influence |
+  - "McPartland, J.M. (2018). \"Cannabis sativa and [[amnesia-haze]] | Thai sativa influence |
 | Vortex | Thai × Space Queen cross |
 | Chocolate Thai | Direct descendant/western-grown Thai selection |
 
@@ -98,53 +60,24 @@ hybrids have since surpassed it in THC content.
 - **THC:** 10–18% in landrace populations; hash oil-dipped sticks reached
   considerably higher effective potency
 - **CBD:** <0.5%
-- **Dominant terpenes:** Terpinolene, myrcene, caryophyllene, pinene
-- **Secondary terpenes:** Limonene, ocimene, humulene
-
-The high terpinolene content is characteristic of Southeast Asian sativas
-and contributes to the strain's stimulating, creative psychoactive profile.
-
-## Effects
-
-The effects were powerfully cerebral and long-lasting, even by sativa
-standards. Thai Stick was widely considered the most "trippy" of the classic
-import landraces.
-
-- **Onset:** 15–30 minutes when smoked
-- **Peak:** 60–120 minutes
-- **Duration:** 3–6 hours (exceptionally long)
-- **Character:** Intensely euphoric, visually stimulating, psychedelic,
-  and creative
-
-At moderate doses, effects included heightened sensory perception,
-laughing fits, and enhanced music appreciation.
-
-At higher doses, the experience became more psychedelic: visual
-distortions, time dilation, and dissociative thought patterns. Many users
-reported it was the closest cannabis came to a true psychedelic experience.
-
-⚠️ The intensity and duration made it prone to causing anxiety, paranoia,
-and uncomfortable over-stimulation in inexperienced users. This was a
-frequent caution among experienced consumers of the era.
-
-## Cultivation
-
-Thai Stick was challenging to cultivate outside tropical Southeast Asia,
-which limited its spread as a pure landrace.
-
-- **Flowering time:** 14–18+ weeks (among the longest of any landrace)
-- **Height:** 3–5 m outdoors under tropical conditions
-- **Yield:** Moderate indoors (350–450 g/m²); very high outdoors
-- **Climate:** Tropical, monsoonal; 25–35°C with high humidity
-- **Difficulty:** High — extreme photoperiod sensitivity and enormous
-  flowering stretch
-
-The extreme flowering time motivated breeders to cross Thai with
-faster-flowering genetics. The original Haze cross was an attempt to
-capture Thai potency and flavor in a more commercially viable window.
-
-## See Also
-
-- [[colombian-gold-entity]] — Fellow foundational sativa landrace of the classic import era
-- [[acapulco-gold]] — Mexican landrace sativa popular during the same period
+- **Dominant terpenes:** [[acapulco-gold]] — Mexican landrace sativa popular during the same period
 - [[cannabis-sativa]] — Species page for sativa classification and origins
+## Practical Considerations
+
+Successful implementation of Thai Stick requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

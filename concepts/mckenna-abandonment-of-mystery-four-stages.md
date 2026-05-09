@@ -124,11 +124,7 @@ McKenna draws a direct connection between the abandonment of the mystery and the
 
 ## See Also
 
-- [[mckenna-archaic-revival]]
 - [[mckenna-eleusinian-mysteries]]
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
-- [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-catal-huyuk-natufian-link]]

@@ -26,37 +26,6 @@ principles about genetic preservation and propagation.
 
 ## Seed Saving
 
-[[seed-saving-techniques]]
-
-Seed saving is the practice of harvesting, processing, and storing seeds from
-open-pollinated plants for future planting. It encompasses dry processing methods
-(threshing and winnowing for beans, grains, and brassicas) and wet processing
-methods (fermentation and rinse for tomatoes, cucumbers, and squash). Successful
-seed saving requires understanding pollination biology — whether crops are
-self-pollinating, insect-pollinated, or wind-pollinated — to maintain varietal
-purity through appropriate isolation distances or hand-pollination techniques.
-
-The strengths of seed saving go beyond cost savings. Seeds adapt to local
-growing conditions over generations, developing region-specific traits for
-disease resistance, drought tolerance, and earliness that purchased seeds from
-distant seed companies may lack. Seed saving preserves genetic diversity and
-heirloom varieties that would otherwise be lost as commercial seed production
-consolidates around a shrinking number of profitable varieties. Community seed
-libraries and exchanges built on saved seeds create local food sovereignty and
-reduce dependence on industrial seed supply chains.
-
-The limitations require honest assessment. Hybrid varieties do not breed true —
-their offspring segregate unpredictably, so seed saving is only viable with
-open-pollinated varieties. Isolation distances can be impractical: wind-pollinated
-corn requires one quarter to one half mile of separation from other corn
-varieties, and insect-pollinated squash needs similar distances. Some species
-have very short seed viability — onion seeds last only one to two years.
-Maintaining genetic purity while developing locally adapted strains requires
-knowledge, record-keeping, and multi-year commitment that intimidates many
-gardeners.
-
-## Tissue Culture Cloning
-
 [[tissue-culture-cloning]]
 
 Tissue culture cloning — in the mushroom cultivation context covered in this
@@ -141,9 +110,6 @@ performers exactly.
 
 ## See Also
 
-- [[comparison-tissue-culture-vs-wild-isolation]]
-
 - [[comparison-seed-saving-vs-hybrid-seeds]]
-- [[comparison-spore-print-vs-agar-culture]]
 - [[spore-syringe-vs-liquid-culture]]
 - [[agar-culture-techniques-detailed]]

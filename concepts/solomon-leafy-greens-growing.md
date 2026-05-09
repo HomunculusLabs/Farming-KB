@@ -121,8 +121,6 @@ Not difficult to grow if you know how to start the seeds. Start earlier than you
 
 ## See Also
 
-- [[home-vegetable-garden-planning]]
 - [[growing-tomatoes-organically]]
-- [[cold-frame-construction]]
 - [[zone-1-intensive-garden]]
 - [[jeavons-grow-biointensive-method-overview]]

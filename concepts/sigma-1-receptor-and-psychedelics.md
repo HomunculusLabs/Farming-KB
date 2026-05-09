@@ -19,9 +19,7 @@ sources:
 
 The sigma-1 receptor (Sig-1R) is an intracellular chaperone protein that has
 emerged as an important pharmacological target for several psychedelic
-compounds. Originally mischaracterized as a subtype [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] opioid receptor,
-the sigma-1 receptor is now understood to be a unique protein with diverse
-roles in cellular signaling, neuroprotection, calcium homeostasis, [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
+compounds. Originally mischaracterized as a subtype [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 modulation of ion channel activity. Its activation by psychedelic tryptamines
 may contribute to both therapeutic and subjective effects.
 
@@ -31,21 +29,7 @@ The sigma-1 receptor was cloned in 1996 and identified as a 223-amino acid
 protein with no significant homology to any known receptor family. It is
 localized primarily at the mitochondria-associated endoplasmic reticulum
 membrane (MAM), a specialized subcellular compartment that facilitates
-communication between mitochondria [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] endoplasmic reticulum.
-
-At the MAM, sigma-1 receptors interact with multiple protein partners
-including inositol trisphosphate receptors (IP3Rs), voltage-gated calcium
-channels, and various kinases. Under normal conditions, sigma-1 receptors
-form complexes with the chaperone protein BiP. When the cell experiences
-stress or calcium depletion, sigma-1 receptors dissociate from BiP and
-bind to their target proteins, modulating their activity.
-
-## Cellular Functions
-
-Sigma-1 receptors play a central role in calcium signaling at the MAM. By
-modulating IP3 receptor sensitivity, they regulate the flow of calcium from
-the endoplasmic reticulum into mitochondria, influencing mitochondrial
-function, ATP production, [[adenosine-triphosphate-and-cellular-energy]] bioenergetics. This calcium
+communication between mitochondria [[adenosine-triphosphate-and-cellular-energy]] bioenergetics. This calcium
 modulation is critical for neuronal function, as calcium signaling
 coordinates synaptic transmission, plasticity, and gene expression.
 
@@ -79,12 +63,7 @@ neuroprotective and anti-inflammatory effects. LSD shows high affinity for
 sigma-1 receptors, which may contribute to its unique pharmacological
 profile and unusually long duration of action.
 
-[[5-meo-dmt]] and ibogaine also interact with sigma-1 receptors. For ibogaine,
-sigma-1 activation may contribute to its anti-addictive properties through
-the modulation of dopaminergic signaling and neuroplasticity. The
-convergence of multiple psychedelic compounds on sigma-1 receptor activation
-suggests that this receptor may play a previously underappreciated role in
-the therapeutic effects [[archaeology-of-psychedelic-mushroom-use]] substances.
+[[archaeology-of-psychedelic-mushroom-use]] substances.
 
 ## Sigma-1 Receptors [[weil-intoxication-and-consciousness-theory]]
 

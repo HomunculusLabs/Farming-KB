@@ -133,12 +133,7 @@ late physical injuries, and the nature of coping strategies.
 
 ## See Also
 
-- [[cannabis-health-anxiety]]
-
 - [[blesching-cannabis-als]]
-- [[blesching-cannabis-copd]]
-
 - [[blesching-endocannabinoid-system-overview]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-diabetes]]
 - [[cannabis-chronic-pain-management]]

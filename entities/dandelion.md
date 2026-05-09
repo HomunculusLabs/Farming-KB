@@ -23,21 +23,7 @@ created: 2026-05-07
 ---
 # Dandelion
 
-The dandelion (*[[taraxacum-officinale]]*) is a perennial herbaceous plant in the family Asteraceae, native to Eurasia but now naturalized on every continent except Antarctica. One of the most recognizable and widely distributed plants on Earth, dandelion has been simultaneously reviled as a lawn weed and valued amedicinal-herb-growing-guideherb, edible green, and ecological resource for millennia. The common English name derives from the French *dent de lion* ("lion's tooth"), referring to the deeply toothed leaf margins. The genus name *Taraxacum* comes from the Arabic *tarakhshaqun*, meaning "bitter herb."
-
-## Taxonomy
-
-- **Kingdom**: Plantae
-- **Clade**: Angiosperms
-- **Clade**: Eudicots
-- **Clade**: Asterids
-- **Order**: Asterales
-- **Family**: Asteraceae
-- **Tribe**: Cichorieae
-- **Genus**: *Taraxacum*
-- **Species**: *T. officinale* (sensu lato)
-
-The *Taraxacum* genus contains approximately 2,000+ microspecies, many of which are apomictic (producing seeds asexually via pseudogamy). The taxonomic treatment of *T. officinale* sensu lato (in the broad sense) encompasses a complex of sexually reproducing diploid and apomictic polyploid lineages. This microspecies [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identificationxonomic-identification-challenging-without-cytogenetic-analysis.-##-morphology-###-roots---**taproot**:-thick,-fleshy,-typically-15–25-cm-long-but-capable-of-reaching-depths-of-2–3-meters---**color**:-creamy-white-to-pale-yellow-exterior,-white-interior---**function**:-stores-carbohydrates-(inulin),-enables-regrowth-after-mowing-or-grazing,-and-allows-survival-in-compacted-soils---**regeneration**:-any-fragment-of-the-taproot-containing-the-crown-can-regenerate-a-complete-plant-###-leaves---**arrangement**:-basal-rosette-(no-stem-leaves)---**shape**:-oblanceolate,-deeply-pinnatifid-with-irregular,-backward-pointing-lobes---**size**:-5–40-cm-long---**color**:-dark-green,-sometimes-with-reddish-midrib---**latex**:-all-parts-exude-a-bitter-white-latex-when-damaged-###-flowers-and-seeds---**inflorescence**:-solitary-capitulum-(flower-head)-2–5-cm-diameter-on-a-hollow,-unbranched-scape---**florets**:-all-ligulate-(ray-flowers),-bright-golden-yellow,-50–200-per-head---**fruit**:-achene-(cypsela)-with-a-pappucannabis-controlled-pollination-seed-production]] hairs forming a characteristic "clock" or "blowball"
+The dandelion (*[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] hairs forming a characteristic "clock" or "blowball"
 - **Seed production**: A single plant produces 2,000–5,000+ seeds per year; seeds remain viable for 5–8 years in soil
 - **Dispersal**: Wind-dispersed; pappus enables long-distance travel (up to 100+ km under optimal conditions)
 - **Flowering**: Nearly year-round in temperate climates, with peak flowering in spring and autumn
@@ -112,10 +98,7 @@ Dandelion serves as a host plant for several Lepidoptera species and provides fo
 
 ## Permaculture Applications
 
-In permaculture design, dandelion is recognized as a **dynamic accumulator** — a plant that mines nutrients from deep soil layers and makes them available to neighboring plants through leaf litter decomposition. Practical applications:
-
-- **Comfrey-dandelion guild**: Combined with comfrey (*Symphytum*), dandelion forms a nutrient-cycling ground layer beneath fruit trees
-- **Chop-and-drop mulch**: Leaves can be cut and left as surface mulch, rapidly decomposing to release accumulated minerals
+In [[chop-and-drop]] mulch**: Leaves can be cut and left as surface mulch, rapidly decomposing to release accumulated minerals
 - **Pest management**: The latex contains compounds toxic to some insect pests; interplanting with vulnerable crops provides mild pest deterrence
 - **Soil indicator**: Dandelion abundance indicates compacted, calcium-rich, or slightly acidic soils
 - **Inulin crop**: Root cultivation for prebiotic inulin production in food forests and agroforestry systems

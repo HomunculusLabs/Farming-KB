@@ -75,15 +75,7 @@ Topping is used to prevent one plant from dominating the canopy height. In a mix
 
 ### Four-Branch Manifold
 
-Cervantes describes a specific topping approach: "Remove all but the four main branches. The meristem (central stem) is removed just above the four lowest branches." This creates a four-cola plant where floral hormones are concentrated in the remaining branches. See [[main-lining]] for the full manifold technique.
-
-### Bush Training
-
-"Continually pinching back, as when taking clones from a mother, causes many more little branches to form below the pruned tips. Eventually, the plant is transformed into a hedge-like shape." This is useful for creating bushy mother plants for clone production.
-
-## Timing
-
-- Perform topping during the [[cannabis-vegetative-stage]] only
+Cervantes describes a specific topping approach: "Remove all but the four main branches. The meristem (central stem) is removed just above the four lowest branches." This creates a four-cola plant where floral hormones are concentrated in the remaining branches. See [[cannabis-vegetative-stage]] only
 - Best done at 3-5 weeks of age when the plant has 3-5 node pairs
 - Complete all topping at least 4 weeks before switching to flowering
 - Do not top during flowering -- energy is diverted from bud production to wound healing
@@ -100,10 +92,6 @@ Cervantes' broader pruning guidance applies to topping as well: "Pruning all the
 ## Topping in Different Growing Styles
 
 ### SOG Topping
-
-In [[sea-of-green]] setups, topping is generally unnecessary and may be counterproductive. SOG relies on the natural single-cola structure of short, untrained clones. Topping would delay flowering and create uneven canopy heights in a system designed for uniformity.
-
-### SCROG Topping
 
 In [[screen-of-green]] setups, topping is commonly used to create more branch points that can be trained through the screen. A single top at the right time provides 2-4 branches per plant instead of 1, filling the screen more quickly.
 
@@ -132,11 +120,7 @@ All tools should be sterilized with rubbing alcohol between cuts and between pla
 
 ## See Also
 
-- [[fimming]] -- partial tip removal that produces 3-4 colas instead of 2
 - [[main-lining]] -- systematic topping and training for symmetrical canopy
-- [[supercropping]] -- high-stress training combining topping with stem crushing
 - [[low-stress-training]] -- bending as an alternative to cutting
-- [[training-cannabis]] -- overview of all training methods
 - [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
-- [[cannabis-vegetative-stage]] -- timing vegetative growth for topping
 - [[cannabis-clone-rooting-and-transplanting]] -- cloning from topped mother plants

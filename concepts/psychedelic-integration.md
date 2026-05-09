@@ -4,8 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [psychopharmacology, therapy, consciousness, health, methods, culture, medicine, philosophy]
-sources:
-  - "raw/papers/leary-t-the-psychedelic-experience.md"
+sources: []
 ---
 
 # Psychedelic Integration
@@ -58,9 +57,9 @@ Professional support is especially valuable for processing difficult experiences
 Contemplative practices provide ongoing tools for working with the mind states accessed during psychedelic experiences:
 
 - **Vipassana/insight meditation**: Develops capacity to observe thoughts and sensations without reactivity — a skill directly transferable from psychedelic experience
-- **Loving-kindness (metta) meditatstanislav-groftes compassion, which is often amplified during psychedelic experiences
+- **Loving-kindness (metta) meditation**: Cultivates compassion, which is often amplified during psychedelic experiences
 - **Body scan**: Maintains awareness of physical sensations and their emotional correlates
-- **Breathwork**: Holotropic Breathwork (developed by [[stanislav-grof]]) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
+- **Breathwork**: Holotropic Breathwork (developed by Stanislav Grof) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
 - Regular practice builds the "muscle" of present-moment awareness that psychedelics can reveal in a single session
 
 ### Community and Sharing
@@ -73,7 +72,8 @@ Contemplative practices provide ongoing tools for working with the mind states a
 ### Movement and Creative Expression
 
 - **Exercise**: Physical activity — especially yoga, dance, hiking, and swimming — helps integrate somatic experiences and process energy shifts
-- **Art making**: Painting, music, poetry, sculpture — creative expression accesses the same non-verbal, symbolic modes that psychedelics activateset-and-settingture**: Many people report feeling drawn to nature after psychedelic experiences; natural settings provide a calming, integrating context
+- **Art making**: Painting, music, poetry, sculpture — creative expression accesses the same non-verbal, symbolic modes that psychedelics activate
+- **Time in nature**: Many people report feeling drawn to nature after psychedelic experiences; natural settings provide a calming, integrating context
 - See [[entheogen-culture]] for the role of art in psychedelic traditions
 
 ## Set and Setting — Foundation of Good Integration

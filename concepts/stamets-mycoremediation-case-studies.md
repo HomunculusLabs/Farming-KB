@@ -3,7 +3,7 @@ title: Stamets Mycoremediation Case Studies
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
+tags: [[mycology, cultivation, mushrooms]
 sources: ["papers/mycelium-running-stamets.md"]
 ---
 
@@ -13,46 +13,7 @@ Updated: 2026-04-18
 
 Paul Stamets' work with Battelle Pacific Northwest Laboratories produced some of the most compelling evidence for fungal bioremediation. These case studies, documented in "Mycelium Running," demonstrate that mushroom mycelium can degrade a wide range of environmental contaminants at dramatically lower cost than conventional methods.
 
-Source: [[mycelium-running-techniques]]
-
-***
-
-## The Species Selection Matrix
-
-Stamets provides a comprehensive table mapping mushroom species to their ecological capabilities. This matrix guides species selection for specific remediation tasks:
-
-### Key Species for Remediation
-
-| Species | Habitat | Rot Type | Key Capabilities |
-|---------|---------|----------|-----------------|
-| Pleurotus ostreatus | Wood, straw, compost, gardens | White | Petroleum, PCP, bacteria |
-| Trametes versicolor | Wood, straw, gardens | White | PAHs, dioxins, bacteria |
-| Ganoderma lucidum | Wood, gardens | White | Medicinal, general remediation |
-| Grifola frondosa | Compost, gardens | White | Medicinal, dioxins |
-| Lentinula edodes | Wood, straw, gardens | White | Medicinal, heavy metals |
-| Stropharia rugoso-annulata | Wood, straw, gardens | White | Coliform bacteria, soil building |
-| Hericium erinaceus | Wood, gardens | White | Medicinal |
-| Laetiporus sulphureus | Gardens | Brown | Wood preservatives |
-| Fomes fomentarius | Gardens | Brown | Wood preservatives |
-
-***
-
-## Pentachlorophenol (PCP) Remediation
-
-### Background
-
-Pentachlorophenol (PCP) is a wood preservative widely used in telephone poles, railroad ties, and fence posts. It is highly toxic and persistent in the environment. Conventional disposal of PCP-treated wood involves incineration at extremely high temperatures.
-
-### Results
-
-- Oyster mushroom (Pleurotus) mycelium working in concert with microbes performed better than oyster mycelium alone
-- One study (Chin et al., 1998) showed that "Pleurotus harboring both bacteria and fungi functioned over a wide range of initial PCP concentrations and reached a higher degradative capacity in only three days"
-- Spent oyster mushroom "compost" effectively reduced toxins in polluted soil (Eggen and Sasek, 2002)
-- A second treatment 15 weeks after initial inoculation dropped anthracene from 87% to 50% and fluorene from 99% to 87%
-
-### Significance
-
-The PCP results demonstrate the importance of the [[mycelium-running-multi-kingdom-bioremediation]] — fungi working with bacteria are more effective than either alone.
+Source: [[mycelium-running-multi-kingdom-bioremediation]] — fungi working with bacteria are more effective than either alone.
 
 ***
 
@@ -128,11 +89,7 @@ Stamets references numerous studies supporting mycoremediation:
 
 ## Related Topics
 
-- [[mycoremediation-stamets-approach]]
 - [[ligninolytic-enzyme-systems-white-rot-fungi]]
-- [[mycoremediation-oil-spills]]
 - [[mycoremediation-chemical-warfare-agents]]
-- [[mycelium-running-multi-kingdom-bioremediation]]
-- Acclimated spawn advantages
 - [[staycare-bioavailability-pollutants-fungal-bioremediation]]
 - [[fungal-soil-remediation-persistent-pollutants]]

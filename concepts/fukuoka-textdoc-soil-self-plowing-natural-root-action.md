@@ -134,8 +134,6 @@ feed soil microorganisms.
 
 - [[fukuoka-textdoc-natural-soil-management]] for broader soil
 management principles
-- [[fukuoka-textdoc-what-plowing-really-is]] for the critique of
-conventional tillage
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]] for
 how fertilizers complement tillage in destroying soil life
 - [[fukuoka-textdoc-microbes-as-scavengers-decomposition-drama]] for

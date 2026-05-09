@@ -16,80 +16,19 @@ With the resurgence of interest in these fungi, understanding dosage,
 routes of administration, onset, duration, and both psychological and
 physiological effects is essential for harm reduction and informed
 use. This information is drawn from the EMCDDA's comprehensive 2006
-thematic paper on [[hallucinogenic-mushrooms-european-trends]] as an emerging trend.
-
-## Chemistry and Mechanism of Action
-
-Psilocybin and psilocin are classified as indolealkylamines
-(tryptamines), belonging to the same chemical group as [[lsd]] and the broader [[tryptamine]] family. They are
-structurally similar to the neurotransmitter [[serotonin]] (5-
+thematic paper on [[lsd]] and the broader [[serotonin]] (5-
 hydroxytryptamine or 5-HT). Psilocybin (4-phosphoryloxy-N,N-
 dimethyltryptamine, or 4-PO-DMT) is the phosphate ester of psilocin
 (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT). Psilocybin is more
 stable in air and is water soluble, but it is converted in the body
-into [[psilocin]], which is the pharmacologically active compound. Alongside [[psilocybin-compound]] and psilocin, [[baeocystin]] and [[norbaeocystin]] are also present in many species.
+into [[psilocybin]] and psilocin, [[norbaeocystin]] are also present in many species.
 
 Psilocin acts on the serotonin system as a 5-HT2A post-synaptic
 agonist or partial agonist. Beside psilocybin and psilocin, two
 further tryptamines (baeocystin and norbaeocystin) may also be
 present in mushrooms but are thought to be less active. Over 100
-known [[hallucinogenic-mushroom-online-retail-markets]] species exist, belonging mainly to the
-Strophariaceae (Psilocybe genus), Bolbitiaceae (Conocybe genus),
-Coprinaceae (Copelandia and Panaeolus genera), and Cortinariaceae
-(Inocybe genus) families.
-
-## Potency and Dosage
-
-Mushroom potency depends on the species or variety, their origin,
-growing conditions, and age. The most potent species (e.g. [[psilocybe-semilanceata|Psilocybe semilanceata]]) can contain up to 1% psilocybin, with even higher
-potency reported in specific species like [[psilocybe-azurescens|Psilocybe azurescens]] and
-[[psilocybe-bohemica-central-european]]. In other species such as [[psychedelic-mushrooms-species-and-identification]],
-psilocybin and psilocin concentrations reach up to 0.6%. These values
-are for initial orientation only, as concentrations vary considerably.
-
-The psychoactive dose of psilocybin is believed to be between 45
-micrograms per kilogram of body weight and 315 micrograms per
-kilogram. For recreational use, the recommended dose is between 1
-and 3.5 to 5 grams of dried mushrooms. For fresh mushrooms, the
-dosage is approximately ten times higher (10-50 grams). These ranges
-should be interpreted with caution, as it is difficult to transpose
-the maximum dose of active substance into mushroom weight, since
-concentration varies and there is usually more than one active
-substance present. Short-term tolerance develops rapidly to both
-physical and psychological effects.
-
-## Route of Administration and Onset
-
-Users ingest mushrooms raw or dried, or brew them into tea. Because
-mushrooms generally do not taste good, they are often chopped into
-smaller pieces. Eating them mixed or cooked into food may cause
-nausea and vomiting. Mushrooms can also be dried for later use.
-Some user reports suggest dried mushrooms are smoked, which is said
-to induce faster but milder effects, though it is unclear whether
-smoking can reliably produce psychoactive effects.
-
-The onset of effects is between 10 to 60 minutes depending on the
-modality of ingestion, physical condition, food intake, and user
-experience. The duration of effects is usually 2 to 6 hours, with
-after-effects (such as difficulty sleeping) lasting an additional
-2-6 hours. The experience is most often described as 'tripping.'
-
-## Acute Psychological Effects
-
-Subjective effects described by users include a wide spectrum:
-
-Mild effects: relaxation (comparable to cannabis), giddiness,
-uncontrollable laughter, energy, joy, euphoria, visual enhancement
-(seeing colours brighter), and visual disturbances (moving surfaces,
-waves).
-
-Moderate effects: altered perception of real events, images and faces,
-restlessness, incoordination, anxiety, impaired judgement of time or
-distance, sense of unreality, and depersonalisation.
-
-Severe effects: delusions, real hallucinations, panic reactions, and
-psychosis-like states. These may be termed 'bad trips' by users, and
-are more likely when [[set-and-setting]] conditions are unfavorable.
+known [[psilocybe-semilanceata|Psilocybe semilanceata]]) can contain up to 1% psilocybin, with even higher
+potency reported in specific species like [[psilocybe-bohemica-central-european]]. In other species such as [[set-and-setting]] conditions are unfavorable.
 
 The 'good trips' are associated with relaxation, mental stimulation,
 new insights (often about time) and perspectives, and quickly changing
@@ -126,20 +65,32 @@ evidence of chronic toxicity, and no irreversible organ damage by
 psilocybin has been reported. However, use is more commonly linked to
 mental health risks, and persons with pre-existing psychological
 conditions or those taking certain medications (particularly for AIDS,
-depression, and psychiatric disorders) face elevated risks. Proper [[set-and-setting]]
-preparation and [[psychedelic-integration]] practices are increasingly recognized
+depression, and psychiatric disorders) face elevated risks. Proper [[psychedelic-integration]] practices are increasingly recognized
 as important for reducing adverse outcomes and maximizing therapeutic benefit.
 
 ## See Also
 
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
 - [[lsd-set-and-setting-framework]]
-- [[psychedelic-harm-reduction]]
-
-[[stropharia-cubensis]]
-
-[[psychedelic-set-and-setting]]
+- [[stropharia-cubensis]]
 
 [[psychedelic-integration-guide]]
+## Practical Considerations
+
+Successful implementation of Psilocybin Mushroom Dosage and Acute Effects requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

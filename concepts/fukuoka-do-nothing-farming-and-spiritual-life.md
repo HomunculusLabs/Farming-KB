@@ -9,15 +9,7 @@ sources:
 ---
 # Fukuoka Do-Nothing Farming and Spiritual Life
 
-Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his critique of modern civilisation's obsession with progress and development. This chapter weaves together conversations with young visitors at his mountain huts, philosophical reflections, and stories that illuminate the [[fukuoka-natural-farming-philosophy-of-mu]].
-
-## The Wayside Inn
-
-On the ridge of Fukuoka's orchard, overlooking Matsuyama Bay and the Dogo Plain, several mud-walled huts house visitors who come to experience a simple life. Guests include agricultural researchers, students, scholars, farmers, hippies, poets, and wanderers of various types and nationalities. Most who stay for a long time are young people in need of a period of introspection.
-
-Fukuoka describes his role as caretaker of a "wayside inn," serving tea to travellers who come and go. Many arrive expecting utopia where "one can live without ever having to get out of bed." They find instead: hauling water in early morning fog, splitting firewood until hands blister, working ankle-deep in mud. "There are many who quickly call it quits."
-
-The huts represent the [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing brown rice, vegetables, and citrus, with time for leisure and contemplation. Fukuoka tells the young people again and again: "Do not try to imitate me. Simply live in nature and apply yourself to your daily work."
+Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his critique of modern civilisation's obsession with progress and development. This chapter weaves together conversations with young visitors at his mountain huts, philosophical reflections, and stories that illuminate the [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing brown rice, vegetables, and citrus, with time for leisure and contemplation. Fukuoka tells the young people again and again: "Do not try to imitate me. Simply live in nature and apply yourself to your daily work."
 
 ## The Original Insight
 
@@ -77,33 +69,13 @@ He argues that the concepts of self and other, strong and weak, attack and defen
 
 ## Connection to Farming Practice
 
-This philosophy directly informs [[four-principles-of-natural-farming]]:
-1. No cultivation
-2. No chemical fertiliser or prepared compost
-3. No weeding by tillage or herbicide
-4. No dependence on chemicals
+This philosophy directly informs [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]]
 
-The "do-nothing" approach is not laziness but a fundamental reorientation of human relationship to nature -- from control to cooperation, from discriminating knowledge to non-discriminating awareness. As Fukuoka puts it: "The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
-
-## See Also
-
-- [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]]
-
-- [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 
-- [[fukuoka-natural-farming-philosophy]] -- farming philosophy foundation
 - [[four-principles-of-natural-farming]] -- the practical principles
-- [[one-straw-revolution-philosophy]] -- the book's philosophical core
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]] -- critique of modern agriculture
-- [[fukuoka-natural-food-philosophy]] -- food philosophy
 - [[natural-farming-and-spirituality]] -- the spiritual dimension
-- [[natural-farming-philosophy]] -- broader natural farming philosophy
 - [[fukuoka-nature-transcends-human-knowledge]] -- humanity and nature
-- [[consumer-versus-conserver-society]] -- economic critique
-
-## Related
-
 - [[fukuoka-direct-observation-method]]
-- [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-mu-economics]]

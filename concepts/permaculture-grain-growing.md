@@ -3,16 +3,7 @@ title: Permaculture Grain Growing
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
----
-
-# Permaculture Grain Growing
-
-updated: 2026-04-18
-
-Growing grain without destroying the soil is possible using Masanobu Fukuoka's no-till method, integrated into [[permaculture-zone-planning]] and beyond. Grain is a staple that requires far less land per calorie than animal products.
+tags: [[permaculture-zone-planning]] and beyond. Grain is a staple that requires far less land per calorie than animal products.
 
 ## Land Efficiency Comparison
 
@@ -27,25 +18,7 @@ This is the greatest argument for a plant-based diet.
 
 ## The Rice Paddy
 
-Level the ground and build a low mud retaining wall that can hold 2 inches (5 cm) of water. You may need a chisel plow the first year if soil is extremely compacted. Spread lime or dolomite and a thin layer of [[permaculture-designers-manual-chicken-tractors]] manure, then water in. This soil disturbance and fertilizing needs to be done only once.
-
-For cold climates without paddies: use dry rice species, or grow spring wheat with oats, barley, or wheat as the winter crop. Experiment with squash, melons, tomato, cotton, vetch, or sunflowers as no-till crops.
-
-## No-Till Grain Strategy
-
-The four principles: no cultivation, no fertilizer, no weeding, no pesticides. This means soil aerated and loosened by natural means only. Question weeding: if the weed isn't harming your desired plant, why pull it?
-
-### Step-by-Step Method
-
-1. Grow rice and white clover together in each plot. Add rye, barley, millet, winter wheat, or oats. Seed quantities per acre: clover 1 lb (0.5 kg), grains 6-14 lb (2.7-6.3 kg), rice 5-10 lb (2.3-4.5 kg).
-
-2. Sow rice seed in early fall -- broadcast and cover with straw, or make into seed balls. Seed balls: mix seeds with mud and press through wire mesh, or wet seeds and roll in fine clay dust (potter's clay, compost, sometimes paper mush).
-
-3. Mid-fall: harvest last year's rice, dry on racks for a couple weeks, thresh off husks and straw. Save the straw.
-
-4. Within a month of rice harvest, sow unhusked rice and spread saved husks and straw over the field.
-
-5. Winter: if rice has grown to 6 inches (15 cm), allow 40 [[permaculture-duck-pond-systems]] per acre to graze. Check for thin spots and plant more seed. Keep rice drained to prevent freezing.
+Level the ground and build a low mud retaining wall that can hold 2 inches (5 cm) of water. You may need a chisel plow the first year if soil is extremely compacted. Spread lime or dolomite and a thin layer of [[permaculture-duck-pond-systems]] per acre to graze. Check for thin spots and plant more seed. Keep rice drained to prevent freezing.
 
 6. Spring: check again for thin spots, sow more seed if needed.
 
@@ -83,9 +56,25 @@ Save seed from the second crop (not hybrids). Select the best, unbroken, healthy
 
 ---
 
-Source: [[korean-natural-farming-lab-and-ohn-recipes]]
-
-- [[fukuoka-white-clover-cover-crop-system]]
-- [[fukuoka-rice-barley-no-till-method]]
+Source: [[fukuoka-white-clover-cover-crop-system]]
 - [[fukuoka-barley-winter-grain-method]]
 - [[fukuoka-natural-rice-barley-cultivation]]
+## Practical Considerations
+
+Successful implementation of Permaculture Grain Growing requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -22,38 +22,6 @@ stream composition, climate, space constraints, and whether you need finished
 compost or can manage a two-stage process.
 
 ## Bokashi
-[[bokashi-composting]]
-
-Bokashi is a Japanese composting method developed by Dr. Teruo Higa in the
-1980s that uses anaerobic lactic acid fermentation, similar to making sauerkraut
-or kimchi. A consortium of effective microorganisms (EM), primarily
-Lactobacillus species, yeasts, phototrophic bacteria, and Bacillus subtilis, is
-inoculated onto wheat bran to create the bokashi inoculant. Kitchen scraps are
-layered with this inoculated bran in a sealed bucket, where they ferment for two
-to four weeks at room temperature. The process produces a pre-digested material
-with a sweet-sour pickled smell.
-
-The standout advantage of bokashi is its ability to process all food waste
-without restriction, including meat, dairy, cooked foods, bones, and oils that
-would cause problems in aerobic composting or worm bins. The sealed anaerobic
-environment and acidic conditions (pH drops below 4.0) suppress pathogens and
-odors effectively. The process is compact, fast, and works in any climate since
-temperature control is not critical. A typical household setup uses two nested
-five-gallon buckets with a drain spigot, making it suitable for apartments and
-small spaces. The liquid drain-off, called bokashi tea, can be diluted as a soil
-drench.
-
-The key limitation is that bokashi does not produce finished compost. The
-output is pre-fermented material that still resembles the original food waste in
-appearance, though it has a pickled smell and soft texture. This material must
-be buried in soil or added to a compost pile for two to four weeks to complete
-aerobic decomposition before planting into it. During this burial phase, the
-fermented material breaks down rapidly as soil microorganisms consume it, often
-disappearing within weeks. This two-stage process means bokashi alone does not
-produce a plant-ready amendment without access to garden soil or an existing
-compost system.
-
-## Vermicomposting
 [[vermicomposting]]
 
 Vermicomposting uses earthworms, typically Eisenia fetida (red wigglers), to
@@ -130,21 +98,6 @@ space where temperature can be kept stable year-round. Vermicomposting is also
 excellent for educational settings because the visible worm activity engages
 children and demonstrates decomposition ecology directly. Schools, community
 gardens, and family homes benefit from the hands-on learning opportunity. See
-[[vermicompost-tea]] for brewing applications.
-
-The two methods combine powerfully in a sequential system. Bokashi
-pre-ferment can be buried directly in a worm bin after the two-week fermentation
-period is complete. The acidic, pre-broken-down material is readily consumed by
-worms, and many practitioners report faster processing rates and higher worm
-activity compared to feeding raw scraps. This sequential approach handles all
-food types, including meat and dairy, while still producing high-quality
-castings. The bokashi fermentation stage also neutralizes potential pathogens in
-animal products, making the material safe for worms to process. Some gardeners
-maintain a three-stage system: bokashi fermentation for all waste,
-vermicomposting for biological refinement, and compost tea brewing to distribute
-the finished biology across the garden.
-
-## See Also
-- [[hot-composting-vs-vermicompost-vs-bokashi]]
+[[hot-composting-vs-vermicompost-vs-bokashi]]
 - Vermicomposting Vs Hot Composting
 - [[composting-systems]]

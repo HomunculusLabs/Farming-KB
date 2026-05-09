@@ -10,47 +10,14 @@ sources:
 
 # Agriculture Run Amok
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] describes American agriculture as fundamentally "run amok" — a system that appears advanced but is in reality extremely primitive and destructive.
-
-## The Illusion of Modern Agriculture
-
-Fukuoka reverses the common perception of American farming:
-
-- "What they practice may appear to be modern agriculture, but it is in fact extremely crude, primitive agriculture"
-- Farmers rely on modern machinery, pesticides, and airplanes, yet their methods are fundamentally crude
-- They "live a plain, simple life, eating food of poor quality"
-- Crops "do not receive the blessings of nature"
-
-## Monoculture Extremes
-
-Fukuoka was struck by the absolute scale of monoculture:
-
-- In the Midwest corn belt: "Nothing but corn is grown... That is all one's parents grew and that is all one's grandchildren will grow too"
-- Further east: "Fields are all planted in soybeans... farmers grow hundreds and hundreds of acres of nothing but soybeans"
-- Proceeding east again: "All we see are fields of wheat"
-- These grain farmers "grow almost no vegetables for home consumption"
-
-## Lack of Self-Sufficiency
-
-Despite farming vast acreages:
-
-- Farmers on hundreds of acres live "a more meager and deprived existence than the Japanese farmer on two or three acres"
-- They are not self-sufficient, so "circumstances are tight"
-- The trading companies and middlemen (like Sunkist) make large profits by exporting, but farmers themselves practice crude methods "with a very humble spirit"
-
-## The Middleman Economy
-
-Fukuoka identifies a structural problem:
-
-- The real profits flow to middlemen and trading companies, not farmers
-- This economic structure perpetuates [[fukuoka-deficit-farming]] because farmers cannot afford to change practices
+In *The Road Back to Nature*, [[fukuoka-deficit-farming]] because farmers cannot afford to change practices
 - The entire system is built on petroleum energy rather than natural fertility
 
 ## Reversal of Expectations
 
 Before visiting America, Fukuoka intended to ask American farmers to stop exporting grain to Japan. Instead, he discovered that American farmers suffer even greater hardships than Japanese farmers, fundamentally undermining his expectations about which country's agriculture was more "advanced."
 
-See also: [[fukuoka-america-drying-up]], [[fukuoka-deficit-farming]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-critique-modern-agriculture]]
+See also: [[fukuoka-deficit-farming]], [[fukuoka-critique-modern-agriculture]]
 
 ## Key Points
 
@@ -62,7 +29,7 @@ See also: [[fukuoka-america-drying-up]], [[fukuoka-deficit-farming]], [[fukuoka-
 
 ## See Also
 
-[[fukuoka-breakdown-japanese-agriculture]], [[fukuoka-peace-march-war-agriculture]], [[fukuoka-future-modern-agriculture]], [[fukuoka-japan-postwar-agriculture]], [[fukuoka-ignorant-agriculture-pit-of-knowledge]], [[fukuoka-critique-modern-agriculture]], [[fukuoka-relative-merits-natural-scientific-agriculture]], [[fukuoka-western-eastern-philosophy-agriculture]]
+[[fukuoka-peace-march-war-agriculture]], [[fukuoka-japan-postwar-agriculture]], [[fukuoka-critique-modern-agriculture]], [[fukuoka-western-eastern-philosophy-agriculture]]
 
 ## Practical Applications
 

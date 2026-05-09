@@ -133,8 +133,10 @@ evolution from permanent agriculture to permanent culture.
 
 ## See Also
 
-- [[permaculture-zone-and-sector-planning]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
-- [[permaculture-pattern-literacy-and-design-from-patterns]]
-- [[holmgren-energy-descent-permaculture-flower]]
+- permaculture pattern literacy and design from patterns
 - [[permaculture-ethics-and-principles]]
+
+## See Also
+
+- [[permaculture-design-principles-and-sustainability]]

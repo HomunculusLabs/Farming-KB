@@ -85,7 +85,7 @@ refuse.
 
 ### Horizontal Growing in Pots
 
-For surface-fruiting species like [[king-stropharia-wine-cap-cultivation]] or [[agaricus-bisporus-cultivation-biology]], pack medium
+For surface-fruiting species like [[agaricus-bisporus-cultivation-biology]], pack medium
 tightly but leave 2 inches at top for casing soil. Stack during colonization
 to save space, then separate, case individually, and place on ground or
 shelves. Mycelium drives upward into casing soil, forming a dense mat beneath
@@ -137,8 +137,6 @@ cast-offs, as many stores receive credit for returned waste products.
 
 ## Related Concepts
 
-- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] for
-  substrate preparation
 - [[mushroom-cultivator-flush-management-watering]] for post-fruiting care
 - [[staycare-fungal-in-situ-bioremediation-formulation-strategies]] for
   advanced mycelial applications

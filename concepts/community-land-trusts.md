@@ -75,17 +75,10 @@ CLTs face several challenges including the high cost of land acquisition in desi
 
 ## See Also
 
-[[permaculture-legal-structures]]
-
 [[permaculture-economics]]
-
-[[permaculture-village-design]]
 
 [[permaculture-community-design]]
 
-[[permaculture-social-design]]
-
 [[permaculture-settlement-design]]
 
-[[permaculture-design]]
-- [[permaculture-designers-manual-legal-and-social-structures]]
+[[permaculture-designers-manual-legal-and-social-structures]]

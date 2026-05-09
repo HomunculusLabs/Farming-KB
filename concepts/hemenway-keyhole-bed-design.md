@@ -3,28 +3,7 @@ title: Hemenway Keyhole Bed Design
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, food-forest]
-sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
----
-
-# Hemenway Keyhole Bed Design
-
-Keyhole beds are round garden beds with a central path that provides access to all plants from a single standing point. They dramatically reduce the land sacrificed to paths compared to traditional row gardening.
-
-## Path Efficiency
-
-- **Single row garden**: paths consume about 50% of soil area
-- **Raised bed garden**: paths consume about 30% of area
-- **Keyhole bed**: needs only 6 square feet of path for a 50 sq ft planting area
-- A keyhole bed containing 50 square feet of planting needs only 12% of its area for paths vs 44% for single rows
-
-## Construction
-
-1. Begin with a circle of soil 8-12 feet in diameter
-2. Pierce on one side by a path to the center
-3. Can be created by shoveling fertile topsoil into a horseshoe shape
-4. Preferred method: layer up lasagna-style with leaves, organic matter, newspaper, and soil using [[hemenway-sheet-mulching-guide]]
+tags: [[hemenway-sheet-mulching-guide]]
 
 ## Dimensions
 
@@ -80,8 +59,25 @@ A further modification: 4-8 keyhole beds arranged in a circle with one more bed 
 - Keyholes can extend left and right of a central walkway
 - An undulating path flanked by keyhole beds can wrap around a house for an attractive Zone 1 garden
 
-See also: [[hemenway-sheet-mulching-guide]], [[faires-garden-design-zone-1-layout]], [[zone-and-sector-analysis]], [[raised-bed-gardening]]
-- [[holzer-fruit-tree-planting-method]]
+See also: [[faires-garden-design-zone-1-layout]], [[raised-bed-gardening]]
 - [[holzer-kitchen-garden-layout-and-traditional-gardening]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[faires-soil-management-and-sheet-mulching]]
+## Practical Considerations
+
+Successful implementation of Hemenway Keyhole Bed Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

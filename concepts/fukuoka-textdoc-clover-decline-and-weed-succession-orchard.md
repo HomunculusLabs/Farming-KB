@@ -117,11 +117,7 @@ Ultimately, Fukuoka's approach to ground cover management reflects his broader p
 
 ## See Also
 
-- [[fukuoka-spring-orchard-bloom-and-aesthetic-philosophy]]
-
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
-- [[fukuoka-ground-cover-strategy]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
-- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-clover-and-green-manure-cropping]]

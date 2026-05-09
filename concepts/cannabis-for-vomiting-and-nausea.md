@@ -94,15 +94,11 @@ Start low and go slow. Antiemetic effects typically manifest at lower doses than
 
 ## Related Topics
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-cachexia-and-appetite-stimulation]]
-- [[cannabis-addiction-recovery]]
 - [[cannabis-for-anxiety-disorders]]
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Sections: Vomiting, Chemotherapy-Induced Nausea and Vomiting, Morning Sickness, Motion Sickness
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
-- [[cannabis-root-rot-prevention-and-treatment]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]

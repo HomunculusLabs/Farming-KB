@@ -102,15 +102,9 @@ The interaction between P. indica and plant cells can be exploited in co-culture
 
 ## See Also
 
-- [[piriformospora-indica]]
 - [[symbiotic-fungi-piriformospora-indica]]
-- [[piriformospora-indica-in-plant-fungal-co-culture]]
 - [[endophyte-isolation-techniques]]
-- [[endophyte-sampling-methods]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[mycorrhizal-biocontrol]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
 - [[mycorrhizal-carbon-allocation]]
-- [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]
 - [[symbiotic-fungi-endophytic-fungi-plant-protection]]

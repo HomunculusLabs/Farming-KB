@@ -132,13 +132,8 @@ without definitive identification.
 
 ## See Also
 
-- [[amanita-phalloides]] — the death cap, the classic amatoxin-containing mushroom
 - [[amanita-pantherina]] — panther cap, another commonly misidentified toxic agaric
-- [[chlorophyllum-molybdites]] — green-spored parasol, causes severe GI poisoning
 - [[agaricus-xanthodermus]] — yellow-staining mushroom, toxic agaric
-- [[clitocybe-odora]] — anise-scented clitocybe, for comparison within agarics
 - [[gyromitra-esculenta]] — false morel, contains gyromitrin toxin
-- [[cortinarius-rubellus]] — deadly webcap, contains orellanine
 - [[amanita-vaginata]] — grisette, an edible Amanita for comparison
-- [[coprinus-comatus-detailed]] — shaggy ink cap, safe edible agaric
 - [[lepista-nuda]] — wood blewit, edible agaric for morphological comparison

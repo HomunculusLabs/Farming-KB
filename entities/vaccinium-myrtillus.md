@@ -124,11 +124,10 @@ litter); heather (*Calluna vulgaris*), lingonberry (*V. vitis-idaea*); lichens, 
 - **V. vitis-idaea** — lingonberry; evergreen, tarter berries, similar habitat
 - **V. uliginosum** — bog bilberry; wetland species, less aromatic
 - **V. angustifolium** — lowbush blueberry; North American, commercially wild-harvested
-- [[vaccinium-corymbosum-entity]]
+- [[vaccinium-ovatum]]
+
+- [[food-forest]]
 
 ## See Also
 
-- [[vaccinium-ovatum]]
-
-- [[ericoid-mycorrhiza]]
-- [[food-forest]]
+- [[permaculture-plants-medicinal-herbs-healing]]

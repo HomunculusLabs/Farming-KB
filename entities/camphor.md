@@ -69,8 +69,7 @@ Camphor produces multiple pharmacological effects through several receptor syste
 - High doses: generalized CNS depression, seizures (dose-dependent biphasic effect)
 
 **Antimicrobial activity:**
-- Active against Gram-positive bacteria (*Staphylococcus aureus*, *[[bacillus-subtilis]]*)
-- Moderate antifungal activity against *[[candida-albicans]]* and dermatophytes
+- Active against Gram-positive bacteria (*Staphylococcus aureus*, *[[candida-albicans]]* and dermatophytes
 - Insecticidal and moth-repellent properties (basis of naphthalene replacement)
 
 **Topical effects:**
@@ -90,8 +89,7 @@ exceeding 11% camphor are restricted in many jurisdictions.
 - *Dryobalanops aromatica* (Dipterocarpaceae) — Borneo camphor tree; source of
   (+)-camphor enantiomer, historically traded as "Borneo camphor"
 - *Blumea balsamifera* (Asteraceae) — sambong; leaves contain 0.5–2% camphor
-- *[[salvia-officinalis]]* (Lamiaceae) — sage; minor camphor constituent in essential oil
-- *[[rosmarinus-officinalis]]* (Lamiaceae) — rosemary; camphor is a significant
+- *[[rosmarinus-officinalis-entity]]* (Lamiaceae) — rosemary; camphor is a significant
   component (5–15%) of rosemary essential oil
 
 **Biosynthesis:** Camphor is synthesized via the mevalonate pathway (MVA) from
@@ -141,10 +139,7 @@ extensively in incense, medicine, and wood preservation.
   include camphor-containing herbs
 - **India:** Common component of Ayurvedic formulations (as *karpoora*);
   used in religious ceremonies and household pest control
-
 ## See Also
 
-- [[eucalyptol]] — Related bicyclic monoterpene ether with similar respiratory
-  and antimicrobial applications
 - [[thujone]] — Monoterpene ketone with GABA_A antagonism; comparison of
   biphasic neurotoxicity profiles

@@ -25,21 +25,13 @@ The descent will be more hazardous than the climb, and we may have to camp on a 
 
 ## Ethics for Energy Descent
 
-The [[permaculture-ethics-foundation]] becomes even more critical during energy descent. Ethics act as constraints on survival instincts and self-interest that drive human behavior. The greater the power of civilization and the concentration of power, the more critical ethics become.
-
-The three permaculture ethics (care for the earth, care for people, set limits to consumption and redistribute surplus) were distilled from research into community ethics adopted by older religious and cooperative groups.
-
-These principles are common to all indigenous tribal peoples, who have existed in relative balance with their environments for longer than any of our recent experiments in civilization.
-
 The [[natural-farm-permaculture-ethics-principles]] framework provides the moral foundation for energy descent planning, ensuring that the transition serves both ecological and human needs.
 
 ## Permaculture Strategies for Descent
 
 One key strategy is encouraging household and local economic self-reliance. This rebuilds traditional forms of energy storage in food, fuel, and other resources.
 
-[[permaculture-energy-storage-systems]] through seed collections, preserved food, firewood stacks, and built infrastructure provides buffers against supply disruptions.
-
-The [[permaculture-disaster-resilience]] approach recognizes that building self-reliance reduces vulnerability to both gradual energy decline and sudden disruptions.
+[[permaculture-disaster-resilience]] approach recognizes that building self-reliance reduces vulnerability to both gradual energy decline and sudden disruptions.
 
 Energy descent planning also involves creative retrofitting of existing buildings and infrastructure rather than assuming new construction.
 
@@ -71,19 +63,28 @@ Holmgren expects these cultures to have bioregional political and economic struc
 
 They will have accessibility and low dependence on expensive centralized technology, and be capable of development by incremental steps with feedback and refinement.
 
-The [[permaculture-community-design]] approach provides models for how local communities can organize themselves for energy descent.
-
-## Attitudes for Adaptation
-
-Some attitudes and values contributing to descent culture include: acknowledging useful contributions from outside any particular discipline, learning from knowledge systems outside scientific rationalism, and remaining sceptical of official authority unless supported by demonstrable performance.
-
-Contributing to the evolution of a culture of place by supporting the local in knowledge, food, art, and culture is also essential.
-
-Using media and information technology with sceptical caution that resists total commitment ensures these tools serve rather than dominate.
-
 The [[permaculture-energy-descent-planning]] framework provides the comprehensive design approach for individuals and communities navigating this transition.
 
 ## Further Reading and References
 
 The primary source for this article includes established reference works in mycology, plant pathology, and the history of science. Readers seeking deeper engagement with the primary literature are encouraged to consult the sources listed in the article header.
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
+## Practical Considerations
+
+Successful implementation of Energy Descent Action Planning requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

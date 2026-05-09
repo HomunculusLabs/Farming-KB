@@ -134,10 +134,7 @@ characteristics:
 ## See Also
 
 - [[cucurbita-pepo]]
-- [[momordica-charantia]]
-- [[solanum-lycopersicum]]
-- [[citrus]]
-- [[carica-papaya]]
+- [[solanum-tuberosum]]
+- citrus
 - [[punica-granatum]]
-- [[ficus-carica]]
 - [[physalis-peruviana]]

@@ -141,9 +141,6 @@ mixture level to approximately 1/2 inch from the jar top.
 
 ## Related Concepts
 
-- [[pf-tek-vermiculite-grading-and-water-retention]] for vermiculite water holding properties
 - [[pf-tek-canning-jar-lid-configuration]] for lid tightness management during incubation
-- [[pf-tek-steam-sterilization-technique]] for proper sterilization temperature control
 - [[pf-tek-maximum-fruiting-substrate-formula]] for the enhanced nutrition formula moisture requirements
-- [[pf-tek-non-germination-troubleshooting]] for distinguishing moisture problems from other failures
 - [[pf-tek-steam-sterilization-science-and-heat-management]] for heat damage prevention

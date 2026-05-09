@@ -108,13 +108,8 @@ The Glaukos myth foreshadows the Eleusinian Mysteries that would later emerge on
 ## See Also
 
 - [[mckenna-minoan-crete-mushroom-religion]]
-- [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-eleusinian-mysteries]]
-- [[mckenna-dionysus-dying-god-archetype]]
 - [[mckenna-catal-huyuk-natufian-link]]
-- [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-abandonment-of-mystery-four-stages]]
-- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
 - [[mckenna-wasson-soma-contradictions-and-doubts]]
-- [[mckenna-ergot-and-witches-sabbath-theory]]
 - [[mckenna-catal-huyuk-natufian-link]]

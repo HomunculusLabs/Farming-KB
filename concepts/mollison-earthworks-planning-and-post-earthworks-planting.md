@@ -103,7 +103,7 @@ Mollison provides several effective mixes for most soils:
   artichoke.
 - Cuttings of small fruits: elderberry, willow, poplar,
   mulberry, Pride of Madeira (Echium fastuosum).
-- Tubed seedlings of [[acacia]], Prosopis, [[tagasaste]], Coprosma,
+- Tubed seedlings of [[tagasaste]], Coprosma,
   pines, eucalypts, shrubs.
 
 ## Slope Stabilisation with Plants
@@ -131,19 +131,5 @@ Small wire netting fences, with stone-weighted hay uphill, will
 trap silt and spread water, as will cross-swales of lemongrass
 or Vetiver grass. On very steep slopes, plant pampas, bamboo,
 lemongrass, and root-mat pioneers, and make upslope plantings
-of chestnut, Acacia, [[carob]], olive, or other large species which
-will cascade seed downslope over time.
-
-## Earthbank Functions
-
-Earthbanks serve multiple purposes: house or barn walls, noise
-deflectors, flood and tide control (polders and levees), tracks
-and plant sites in marshes, wind and water deflection, earth
-ramps and stands, and ha-ha fences. A well-planned earthwork
-serves several functions simultaneously.
-
-## See Also
-
-- [[mollison-tropical-mulch-systems-and-materials]]
-- [[keyline-design]]
+of chestnut, Acacia, [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-barrier-plants-in-garden-design]]

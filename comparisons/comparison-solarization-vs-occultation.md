@@ -7,7 +7,7 @@ tags:
   - weed-suppression
   - soil-pathogens
   - no-till
-  - cover-crops
+  - [[cover-crops]]
   - organic-farming
 date: 2026-04-28
 updated: 2026-04-28
@@ -75,26 +75,7 @@ Occultation is climate-independent. It works by blocking light, not generating h
 - You primarily need weed seed bank reduction, not pathogen control
 - You want a reusable, multi-year tarp investment
 - You are transitioning to no-till and need a reliable bed-preparation method
-- You want to preserve maximum soil biology (especially mycorrhizae)
-- You plan to use repeated tarping cycles over time for cumulative seed bank depletion
-
-## Combining Both Methods
-
-Some growers combine both approaches: solarize during the hottest weeks of summer for pathogen control, then use occultation in spring and fall for ongoing weed management. This captures the unique strengths of each method without relying on either one alone.
-
-Another hybrid approach is "anaerobic soil disinfestation" (ASD), which involves incorporating a carbon source (like bran or molasses) into moist soil, flooding it to saturation, and covering with an impermeable tarp. The resulting anaerobic fermentation produces organic acids that kill pathogens and weeds. ASD combines elements of solarization's biological impact with occultation's light-blocking approach, and works in a wider range of climates than solarization alone.
-
-## Key Takeaways
-
-- **Solarization** is a thermal treatment best suited to hot, sunny climates where it can kill both weeds and pathogens through sustained high soil temperatures.
-- **Occultation** is a light-deprivation method that works in any climate by triggering weed germination and then killing seedlings under opaque cover.
-- For disease-prone beds in hot climates, solarization is the superior choice. For weed management in cool climates or as part of a no-till system, occultation is more versatile and reliable.
-- The most effective long-term strategy integrates both methods with cover cropping, crop rotation, and minimal soil disturbance.
-
-## See Also
-
-- [[jadam-soil-management-no-till-and-weed-control]]
-- [[fukuoka-weed-diversity-soil-nutrients]]
+- You want to preserve maximum soil biology (especially [[jadam-soil-management-no-till-and-weed-control]]
 - [[natural-farming-soil-building]]
 
 - [[organic-pest-and-disease-management]]

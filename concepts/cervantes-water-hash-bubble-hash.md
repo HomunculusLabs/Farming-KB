@@ -134,8 +134,6 @@ Different micron bags produce different grades of hash:
 
 ## See Also
 
-- [[cervantes-hash-making-extracts]]
 - [[cervantes-dry-sieve-hash-pollinator]]
-- [[cervantes-washing-machine-hash]]
 - [[cervantes-pressing-hash]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

@@ -9,85 +9,15 @@ sources:
 ---
 # 5-TOET
 
-5-TOET (4-ethyl-2-methoxy-5-methylthioamphetamine) is a substituted amphetamine and a member of the TOM/TOET family of psychedelic compounds developed by [[alexander-shulgin]].
-
-It is described in PiHKAL entry #170 as one of the most remarkable compounds in the entire collection, with reports ranging from overwhelming visual hallucination to experiences of extraordinary beauty and healing potential.
-
-The compound represents a sulfur-for-oxygen substitution analogue of the classic psychedelic DOM, with the "T" in TOET standing for "thio," the chemical nomenclature term for the replacement of an oxygen atom with a sulfur atom.
-
-## Dosage and Duration
-
-Dosage range: 12 to 25 milligrams.
-
-Duration: 8 to 24 hours.
-
-The dosage window is notably narrow for such a long-acting compound, and individual sensitivity varies considerably.
-
-At least one subject proved to be approximately twice as sensitive as others in the study group, experiencing overwhelming effects at 18 mg where others found the same dose manageable.
-
-This extreme sensitivity is discussed in the context of possible metabolic idiosyncrasy in the recipe for [[tomso-entity]].
+5-TOET (4-ethyl-2-methoxy-5-methylthioamphetamine) is a substituted amphetamine and a member of the TOM/TOET family of psychedelic compounds developed by [[tomso-entity]].
 
 ## Qualitative Effects
 
-At 8 milligrams, effects include light-headedness, brightness around objects against blue sky, movement perceived in stationary objects such as curtains and furniture, and mild [[2c-b-entity]]-like visual activity.
-
-Writing remains difficult and eye dilation occurs with minimal nystagmus. Sleep is fitful but the extreme effects seen with the related compound 5-TOM are absent.
-
-At 18 milligrams, the experience becomes overwhelmingly intense.
-
-Visual hallucinatory "tinsel" is continuous and inescapable, and the character shifts to something strongly LSD-like: restless, constantly changing, with excessive sensory input.
-
-A sedative (Miltown) was required to achieve sleep, and residual effects persisted into the following day, with the subject still at approximately +1.5 the morning after.
-
-At 20 milligrams, 5-TOET reveals what Shulgin called "the makings of a superb, extraordinary material."
-
-Eyes-closed fantasy was described as exceptional, with new dimensions of experience.
-
-The quality of the fantasy, the feelings about fantasy figures and landscapes, embodied "the essence of joy, beauty, lovingness, serenity."
-
-One subject described it as "a glimpse of what true heaven is supposed to feel like," or perhaps "a button in the brain was pushed which has not been pushed by previous chemicals."
-
-Function remained intact with eyes open or closed.
-
-Erotic experience was "absolutely exquisite," and the entire experience was described as "exquisite."
-
-The following day, a sense of serene, quiet joy and beauty persisted for most of the day.
-
-Shulgin noted this as a compound with "true healing potential."
-
-At 30 milligrams, subjects reported ability to focus on cosmic questions with success.
-
-Very little fantasy imagery occurred for the first 2-3 hours, after which lovely interactive experience developed.
-
-Music produced vivid "memory impressions" of places never visited, accompanied by tremendous nostalgia.
-
-The Brahms Concerto Number 1 produced vivid impressions of a house and vegetable garden "like a primitive painting."
-
-## Extensions and Commentary
-
-The initials TOET follow logically from TOM, in exact parallel with the relationship between DOET and DOM. The "T" stands for "thio," the chemical term for sulfur substitution of an oxygen atom.
-
-The family became informally known as "the Toms and Twats," a pronunciation that led to awkward moments at academic seminars and social gatherings.
-
-At one intermission at the Berkeley Repertory Theater, use of the phrase produced a stunned silence and the group was "given a little extra room immediately thereafter."
-
-As with other TOM/TOET compounds, the phenethylamine homologue of 5-TOET was synthesized but never entered human evaluation.
-
-The sulfur-for-oxygen substitution at the 4-position dramatically increases potency relative to the unsubstituted parent compound.
-
-## Related Compounds
-
-[[5-tom-entity]] - the methylthio parent compound, active at similar dosages with a famous "freaky" experience
-
-[[2c-t-entity]] - the unsubstituted 2C-T phenethylamine base compound
+At 8 milligrams, effects include light-headedness, brightness around objects against blue sky, movement perceived in stationary objects such as curtains and furniture, and mild [[5-tom-entity]] - the methylthio parent compound, active at similar dosages with a famous "freaky" experience
 
 [[tomso-entity]] - compound whose recipe discusses metabolic idiosyncrasy relevant to 5-TOET sensitivity
 
-[[2-tom-entity]] - the 2-position methylthio isomer (2-TOM, PiHKAL #171)
-
-[[dom-entity]] - the oxygen-containing analogue that served as the prototype for this family
-
-[[2c-b-entity]] - visual effects at low doses compared favorably to 2C-B
+[[dom]] - the oxygen-containing analogue that served as the prototype for this family
 
 [[phenethylamine-pharmacology]] - general pharmacological context for the TOM/TOET series
 
@@ -100,3 +30,81 @@ Duration of up to 24 hours makes this a compound requiring significant time comm
 The healing and integrative potential reported at moderate doses places 5-TOET among the most valued compounds in the Shulgin repertoire.
 
 However, the narrow therapeutic window and risk of overwhelming experience at modest dose increases demand caution and careful titration.
+## Practical Applications
+
+5-TOET has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+5-TOET. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

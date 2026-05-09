@@ -111,12 +111,8 @@ concentrated in the sesquiterpene-rich essential oil fraction.
 
 ## See Also
 
-- [[curcuma-longa]]
 - [[curcuma-zedoaria]]
-- [[curcuma-caesia]]
 - [[curcuma-aromatica]]
-- [[curcuma-phaeocaulis]]
 - [[curcuma-wenyujin]]
-- [[zingiber-officinale]]
 - [[alpinia-officinarum]]
 - [[scutellaria-baicalensis]]

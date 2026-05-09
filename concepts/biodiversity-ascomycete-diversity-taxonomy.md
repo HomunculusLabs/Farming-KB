@@ -132,11 +132,7 @@ of ascostromatic development.
 
 ## See Also
 
-- [[biodiversity-mycetozoan-diversity]]
-
 - [[biodiversity-fungi-soil-ecosystems]]
-- [[biodiversity-lichenized-fungi-symbiosis]]
 - [[biodiversity-fungi-temperate-boreal-forests]]
-- [[biodiversity-fungi-molecular-methods]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]

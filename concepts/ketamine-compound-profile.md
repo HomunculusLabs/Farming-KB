@@ -25,24 +25,7 @@ Ketamine is a non-competitive NMDA receptor antagonist. By blocking the NMDA cha
 - **Antidepressant effect**: Through a downstream cascade involving AMPA receptor activation, BDNF (brain-derived neurotrophic factor) release, and mTOR signaling, leading to rapid synaptogenesis in the prefrontal cortex
 - **Analgesia**: Modulation of pain signaling pathways
 
-Unlike [[lsd-compound-profile]] and classical psychedelics, ketamine does not act primarily on serotonin receptors. Its mechanism is glutamatergic, producing qualitatively different subjective effects.
-
-### Additional Receptor Activity
-- Opioid receptor activity (contributing to analgesia)
-- Monoamine reuptake inhibition
-- HCN1 channel blockade (contributing to hallucinatory effects)
-
-## Dosage and Routes of Administration
-
-| Route | Dose Range | Onset | Duration |
-|---|---|---|---|
-| Oral | 50-300 mg | 15-45 min | 1-3 hours |
-| Intramuscular (IM) | 25-100 mg | 5-15 min | 30-90 min |
-| Intravenous (IV) | 0.1-1 mg/kg | Seconds-minutes | 20-60 min |
-| Intranasal | 10-75 mg | 5-15 min | 30-90 min |
-| Sublingual (lozenge) | 25-200 mg | 10-30 min | 1-2 hours |
-
-Clinical antidepressant protocols typically use 0.5 mg/kg IV over 40 minutes. Recreational doses are higher. See [[psychedelic-dose-response]] for dose-response principles.
+Unlike [[psychedelic-dose-response]] for dose-response principles.
 
 ## Effects by Dose Range
 
@@ -100,26 +83,6 @@ FDA-approved (2019) nasal spray for treatment-resistant depression and depressiv
 
 ## Safety and Contraindications
 
-See [[psychedelic-safety-and-contra-indications]] for comprehensive safety guidelines. Key contraindications include:
-
-- Uncontrolled hypertension
-- History of psychosis or schizophrenia
-- Active substance use disorder (relative contraindication)
-- Severe liver disease
-- Intracranial hypertension or structural brain abnormalities
-- Pregnancy (Category C)
-
-## Legal Status
-
-- Schedule III in the US (unusual for a drug with recreational abuse potential)
-- Widely available in veterinary medicine
-- Ketamine clinics operate in a regulatory gray area for off-label depression treatment
-- Spravato (esketamine) is Schedule III, available only through restricted REMS program
-
-## Related
-
-- [[iboga-and-ibogaine-profile]]
-- [[mdma-compound-profile]]
+See [[iboga-and-ibogaine-profile]]
 - [[muscimol-and-amanita-muscaria]]
-- [[psychedelic-research-legal-history-united-states]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]

@@ -89,22 +89,12 @@ For areas where soil cannot be replaced (deep contamination, concrete):
 
 ## See Also
 
-- [[urban-rooftop-farming-guide]]
-
 - [[holzer-problem-plant-regulation-with-livestock]]
-- [[holzer-stone-cellar-construction]]
 - [[holzer-water-power-hydraulic-ram]]
-- [[holzer-soft-fruit-bushes-and-berries]]
 - [[holzer-catch-crop-and-polyculture-design]]
-- [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - [[holzer-crater-garden-design]]
 
-- [[holzer-bypass-technique]]
-
 - [[holzer-balcony-garden]]
-- [[sepp-holzer-permaculture-and-rebel-farming]]
 - [[raised-bed-gardening]]
-- [[composting-humus-building-holzer]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[cover-crops-soil-health]]

@@ -21,34 +21,6 @@ respective roles helps cultivators optimize efficiency and reduce
 contamination risk.
 
 ## Liquid Culture
-[[mushroom-liquid-culture]]
-Liquid culture (LC) is a nutrient-rich liquid medium inoculated with mushroom
-mycelium that grows throughout the solution, forming a floating mat of white
-growth. Common recipes use honey at 3-4% sugar concentration, light malt
-extract (4g per 500ml), or corn syrup dissolved in distilled water, sterilized
-at 15 PSI for 20-30 minutes before inoculation. The mycelium forms small
-spherical masses called "mycelial balls" or "pellets" in agitated
-environments, which are concentrated bundles of living mycelium ready for
-rapid expansion.
-The primary advantage of liquid culture is speed and expansion potential.
-Because inoculation uses living, actively growing mycelium rather than dormant
-spores, grain colonization time is significantly reduced compared to spore
-inoculation. A single liquid culture jar can inoculate dozens or even hundreds
-of grain jars through simple syringe transfer, making it extraordinarily
-efficient for cultivators working at any scale beyond casual hobby growing. LC
-also offers lower contamination rates than spore syringes because the mycelium
-is already established and growing when introduced to the grain substrate.
-Liquid culture does have important limitations. It requires rigorous sterile
-technique throughout preparation, inoculation, and storage, as contamination
-in the liquid medium can be difficult to detect until the culture is already
-ruined — contaminated LC often looks cloudy rather than showing obvious mold
-growth. The nutrient concentration must be carefully calibrated, as too much
-sugar creates a hypertonic solution that inhibits mycelial growth while too
-little provides insufficient nutrition. LC also has a limited shelf life
-compared to properly stored spore prints or dried grain spawn, though
-refrigeration extends viability for several months.
-
-## Grain Spawn
 [[grain-spawn-preparation]]
 Grain spawn is colonized grain that serves as the universal inoculant for bulk
 substrates in mushroom cultivation. The mycelium grows through the grain
@@ -123,7 +95,5 @@ contamination detection of grain spawn, creating a workflow that maximizes
 both productivity and reliability at any scale of operation.
 
 ## See Also
-- [[comparison-agar-vs-liquid-culture]]
 - [[comparison-spore-syringe-vs-liquid-culture]]
-- [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]

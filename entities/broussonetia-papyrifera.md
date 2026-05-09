@@ -140,8 +140,6 @@ potential as a fodder and fiber crop in managed systems.
 
 ## See Also
 
-- [[morus-alba|Morus alba (White Mulberry)]]
 - [[robinia-pseudoacacia|Robinia pseudoacacia (Black Locust)]]
-- [[paulownia-tomentosa|Paulownia tomentosa]]
 - [[alnus-rubra|Alnus rubra (Red Alder)]]
 - [[maclura-pomifera|Maclura pomifera (Osage Orange)]]

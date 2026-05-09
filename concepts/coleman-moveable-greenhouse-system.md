@@ -74,23 +74,7 @@ When a greenhouse is moved, the soil beneath it is exposed to rain,
 snow, and cover crops for months at a time. This exposure leaches
 accumulated salts, allows beneficial soil organisms to recolonize,
 and provides an opportunity for cover cropping and compost
-incorporation. See [[coleman-soil-preparation-for-winter]] for
-amendment strategies used during these exposed periods.
-
-## Design Variations
-
-Coleman has developed several versions of moveable structures:
-- **Slide-Away Tunnels:** Hoop houses on pipe skids that roll along
-  ground-level tracks. These are the simplest and least expensive.
-- **Rail-Mounted Greenhouses:** Larger structures on elevated rails
-  with wheel assemblies for smooth movement.
-- **Pivot Tunnels:** Structures that rotate on a central axis point
-  rather than sliding linearly.
-
-Each design trades off cost, complexity, and the number of positions
-served. Small-scale growers typically start with slide-away tunnels
-because they require minimal investment and can be built with basic
-tools. See [[coleman-high-tunnel-cold-frame-design]] for construction
+incorporation. See [[coleman-high-tunnel-cold-frame-design]] for construction
 details applicable to moveable structures.
 
 ## Practical Considerations
@@ -105,27 +89,6 @@ The moveable system requires that crops at each position are on
 compatible timelines. Winter greens at the second position must be
 established before the tunnel arrives. Summer crops at the first
 position must be finished before the tunnel departs. This demands
-careful [[coleman-winter-harvest-planting-schedule]] coordination.
-
-## Integration with Other Systems
-
-Moveable greenhouses complement [[coleman-row-cover-fabric-management]]
+careful [[coleman-row-cover-fabric-management]]
 by providing the primary structure while row covers add a secondary
-layer of protection within. The [[coleman-minor-tillage-bed-preparation]]
-system is essential for maintaining productive beds across multiple
-positions, as each site must be ready for rapid crop transition when
-the greenhouse arrives.
-
-## Economic Benefits
-
-The moveable greenhouse system effectively doubles or triples the
-productive capacity of a single structure. Instead of one greenhouse
-covering one plot year-round, the same structure serves two or three
-plots in sequence. This dramatically reduces the per-acre capital
-cost of protected cultivation, making year-round production economically
-viable for small farms without the need for multiple permanent
-greenhouses.
-
-## See Also
-
-- [[coleman-parisian-maraicher-system]]
+layer of protection within. The [[coleman-parisian-maraicher-system]]

@@ -3,7 +3,7 @@ title: Medicinal Mushroom Antimicrobial and Antiviral Properties
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, medicine, mushrooms]
+tags: [[mycology, medicine, mushrooms]
 sources: []
 ---
 
@@ -91,11 +91,7 @@ Water extract of L. edodes demonstrated growth-enhancing effects on beneficial g
 
 ## See Also
 
-- [[medicinal-mushroom-antimicrobial-properties]]
 - [[lentinan-clinical-research]]
-- [[shiitake-medicinal-compounds]]
 - [[medicinal-mushrooms-biological-response-modifiers]]
-- [[mushroom-polysaccharide-safety-toxicity]]
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[maitake-cancer-clinical-research]]

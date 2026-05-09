@@ -46,10 +46,7 @@ altogether similar to the mycelia. Two types of conidia are produced terminally:
 
 Mycogone perniciosa naturally occurs in soils from which this aggressive contaminant
 attacks the mushroom fruitbody. It does not grow well at temperatures lower than 60
-degrees F. The organism is very common in [[mushroom-growing-environments]] and causspore-dispersalcrop losses when established.
-
-The primary medium through which contamination spreads is soil. Debris smushroom-cultivationd spent compost also harbor the organism. Workers, especially harvesters, are
-one of the primary vehicles for [[spore-dispersal]]. Watering infected areas further spreads
+degrees F. The organism is very common in [[spore-dispersal]]. Watering infected areas further spreads
 this contaminant to healthy regions of the crop.
 
 ## Role in Mushroom Cultivation
@@ -122,7 +119,6 @@ sexually reproducing ascomycetes, a fact that complicates both identification an
 development of targeted control strategies.
 
 ## See Also
-- [[verticillium-malthousei-entity-the-mushroom-cultivator]]
 - [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
 - mycogone perniciosa

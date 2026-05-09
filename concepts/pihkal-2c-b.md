@@ -126,8 +126,6 @@ controlled under the UN Convention on Psychotropic Substances.
 
 ## See Also
 
-- [[pihkal-mescaline]]
 - [[pihkal-2c-i]]
-- [[pihkal-2c-e]]
 - [[pihkal-mdma]]
 - [[pihkal-introduction-and-methodology]]

@@ -104,9 +104,6 @@ The combination of discrete MAOI compounds with discrete tryptamines ("pharmahua
 
 ## See Also
 
-- [[tihkal-introduction-and-methodology]]
 - [[pihkal-introduction-and-methodology]]
-- [[tryptamine-family-overview]]
 - [[tryptamine-consciousness-theory]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[mao-inhibitors-and-psychedelics]]

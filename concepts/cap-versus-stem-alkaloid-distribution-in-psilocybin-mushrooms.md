@@ -18,21 +18,8 @@ type: concept
 
 # Cap Versus Stem Alkaloid Distribution in Psilocybin Mushrooms
 
-The distribution of [[psilocybin-compound]] and [[psilocin]] between the cap
-(pileus) and stem (stipe) of [[psilocybe-cubensis]] reveals important
-patterns about alkaloid biosynthesis and localization within fungal
-fruiting bodies. Research by Bigwood and Beug (1982), published in the
-Journal of Ethnopharmacology, provided the first controlled comparative
-analysis of cap versus stem alkaloid concentrations across multiple
-cultivated strains, yielding findings that remain relevant to mycological
-research and harm reduction practice.
-
-## Key Findings from Bigwood and Beug (1982)
-
-Bigwood and Beug analyzed three distinct strains of Psilocybe cubensis
-grown on rye-grain substrate, separating caps from stems during the first
-flush and quantifying alkaloid levels via reversed-phase
-[[cannabis-chromatography-cannabinoid-purification|HPLC]] calibrated against
+The distribution of [[psilocin]] between the cap
+(pileus) and stem (stipe) of [[cannabis-chromatography-cannabinoid-purification|HPLC]] calibrated against
 standards from the National Institute on Drug Abuse. This systematic
 approach allowed precise comparison of alkaloid partitioning between
 morphological structures under identical growing conditions.
@@ -41,39 +28,13 @@ morphological structures under identical growing conditions.
 
 Across all three strains tested (an M.R. strain, an Ecuadorian strain,
 and an Amazonian strain), the caps generally contained approximately
-twice as much [[psilocybin-compound]] as the stems:
-
-- **M.R. strain**: caps 6.7 mg/g versus stems 4.2 mg/g (1.6:1 ratio)
-- **Ecuadorian strain**: caps 7.6 mg/g versus stems 4.7 mg/g (1.6:1)
-- **Amazonian strain**: caps 5.7 mg/g versus stems 5.7 mg/g (1:1)
-
-The M.R. and Ecuadorian strains showed a clear and consistent pattern
-of psilocybin concentrating in the cap tissue. The Amazonian strain was
-unique, showing equal psilocybin distribution between cap and stem
-tissues. This strain-to-strain variability suggests that the genetic
-background of the [[cannabis-genetics-and-breeding]] meaningfully influences how alkaloids are
+twice as much [[cannabis-genetics-and-breeding]] meaningfully influences how alkaloids are
 partitioned between morphological structures.
 
 ### Psilocin Distribution
 
 Perhaps the most striking finding was the asymmetric localization of
-[[psilocin]] between tissues. In the M.R. and Ecuadorian strains, the
-small amount of psilocin detected in the first flush was found entirely
-in the stems, with absolutely zero psilocin in the caps:
-
-- **M.R. strain**: caps 0 mg/g, stems 0.35 mg/g
-- **Ecuadorian strain**: caps 0 mg/g, stems 0.4 mg/g
-- **Amazonian strain**: caps 0.1 mg/g, stems 0 mg/g
-
-The Amazonian strain again diverged, showing a trace of psilocin
-exclusively in the cap. This inverse pattern between the Amazonian
-strain and the other two highlights that the tissue-specific biosynthesis
-or enzymatic conversion of psilocybin to psilocin is not uniform across
-all genetic lines of the same species.
-
-## Biosynthetic Implications
-
-The near-complete absence of [[psilocin]] in first-flush caps across most
+[[psilocin]] in first-flush caps across most
 strains carries significant implications for understanding alkaloid
 metabolism in basidiomycete fungi. Psilocin is the dephosphorylated,
 pharmacologically active metabolite of psilocybin. Its absence in caps
@@ -137,14 +98,9 @@ The total alkaloid variability across flushes (a factor of four or more
 under controlled conditions, and over tenfold between different street
 samples) far exceeds the cap-versus-stem difference. Flush number and
 growing conditions are far more significant determinants of potency than
-which anatomical part of the mushroom is consumed.
-
 ## Related
 
-- [[cap-vs-stem-alkaloid-distribution]] Concepts
+- [[emcdda-smartshop-trade-online-distribution-mushrooms]]
 
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]] for the full
   flush-by-flush variation data
-- [[psilocybin-biosynthesis-pathway]] for enzymatic conversion of
-  psilocybin to psilocin
-- [[psilocybe-cubensis-cultivation]] for growing methodology context

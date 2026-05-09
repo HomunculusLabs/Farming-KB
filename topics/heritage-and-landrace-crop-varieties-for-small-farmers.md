@@ -471,7 +471,7 @@ specific farm where it is grown.
 - [[seed-quality-and-selection-solomon]] for evaluating seed sources
 - [[seed-selection-breeding-holzer]] for Holzer's selection philosophy
 - [[biointensive-seed-saving]] for biointensive population requirements
-- [[seed-saving-and-seed-resources-mollison]] for community seed strategies
+- [[seed-saving-seed-resources-mollison]] for community seed strategies
 - [[companion-planting-and-polycultures]] for varietal combinations
 - [[permaculture-design-principles]] for systems-level seed sovereignty
 - [[seed-saving-and-plant-breeding]] for advanced breeding techniques
@@ -505,4 +505,9 @@ specific farm where it is grown.
   Plant Conservation*. University of Arizona Press, 1989.
 
 - Shiva, Vandana. *Stolen Harvest: The Hijacking of the Global Food Supply*.
-  South End Press, 2000.
+  South End Press, 2000.## Merged: What are the best elderberry varieties for different climates and uses?
+The **best all-around elderberry variety is Bob Gordon** — it offers the highest yields, excellent anthocyanin content, and performs well across zones 4–9. For cold climates, **Nova and York** are the most reliable picks. For European growers, **Haschberg and Samdal** lead in commercial production. Home gardeners should consider **York** (compact, heavy-bearing) or ornamental **Black Lace**. No elderberry is self-fruitful — you always need **two different varieties** for cross-pollination.
+- Hardiest American cultivar; thrives in zone 3.
+- Berries are medium-sized, born on large, flat cymes.
+- Ripens early to mid-August. Excellent paired with York.
+- Vigorous grower reaching 8–10 ft.

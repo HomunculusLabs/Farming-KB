@@ -131,8 +131,6 @@ Legal changes had immediate impacts on online availability:
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
-- [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]

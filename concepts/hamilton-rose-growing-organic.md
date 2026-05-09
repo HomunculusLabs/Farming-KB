@@ -84,13 +84,9 @@ Rugosa roses are particularly disease-resistant and make excellent hedging plant
 
 ## Related Concepts
 
-- [[hamilton-perennial-flowers-organic]]
 - [[hamilton-annual-flowers-organic]]
-- [[hamilton-climbing-plants-organic]]
 - [[geoff-hamilton-organic-techniques]]
 
 Source: Geoff Hamilton, The Organic Garden Book
-- [[hamilton-pest-and-disease-control-organic]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[holzer-green-manure-and-soil-building-plants]]
 - [[gaias-garden-cover-crops-soil-building]]

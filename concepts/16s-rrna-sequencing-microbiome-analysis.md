@@ -26,10 +26,7 @@ The study sequenced samples from three compartments (endorhiza, rhizosphere,
 bulk soil) across five Cannabis cultivars in two separate experiments:
 
 - **Experiment 1**: 27 samples from three cultivars (Burmese, Bookoo Kush,
-  Sour Diesel) grown in Vista, California. Samples were taken 8 weeks
-  post-harvest. Four samples were discarded due to insufficient sequence
-  coverage, leaving 23 samples for analysis.
-- **Experiment 2**: 42 samples from two cultivars (White Widow, Maui Wowie)
+  [[maui-wowie]])
   grown in two soil types (Vista and Orange County, California). Samples
   were taken 2 weeks before harvest. One sample was discarded due to
   insufficient coverage, leaving 41 samples.
@@ -138,7 +135,5 @@ drives composition while cultivar drives abundance patterns.
 
 ## See Also
 
-- [[rhizosphere-microbiome-selection-model]] for results of the analysis
 - [[microbial-alpha-diversity-soil-plant-gradient]] for diversity findings
-- [[soil-edaphic-factors-microbial-communities]] for edaphic factor analysis
 - [[cannabis-microbiome-research]] for the complete study overview

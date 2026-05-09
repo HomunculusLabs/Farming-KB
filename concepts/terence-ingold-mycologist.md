@@ -114,7 +114,6 @@ mycological community as a landmark in the history of the discipline.
 
 ## See Also
 
-- [[aquatic-fungi-spore-dispersal-ingold]]
 - [[ingold-cecil-t]]
 - [[terence-mckenna]]
 

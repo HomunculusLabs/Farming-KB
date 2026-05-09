@@ -3,7 +3,7 @@ title: Fungal Detection and Monitoring Methods for Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -23,11 +23,7 @@ Immunological assays exploit the specificity of antibody-antigen interactions:
 - **Immunofluorescence**: Microscopic detection using fluorescently labeled antibodies
 
 ### Applications in Mycoremediation
-- Monitoring survival and spread of inoculated [[fungal-bioaugmentation]] strains
-- Quantifying specific degradative fungi in contaminated soil
-- Detecting ligninolytic enzyme-producing fungi in treated sites
-- Assessing competition between inoculated and indigenous fungal populations
-- Tracking [[white-rot-fungi-effluent-decolorization]] in field applications
+- Monitoring survival and spread of inoculated [[white-rot-fungi-effluent-decolorization]] in field applications
 
 ### Advantages
 - Relatively rapid turnaround time
@@ -67,26 +63,7 @@ Molecular methods detect fungal DNA or RNA, providing highly specific identifica
 ### Applications in Mycoremediation
 - Verifying establishment of inoculated fungi at treatment sites
 - Monitoring changes in fungal community structure during remediation
-- Quantifying expression of [[fungal-enzyme-systems-xenobiotic-degradation]]
-- Detecting horizontal gene transfer between fungal populations
-- Assessing biodiversity impacts of remediation activities
-
-## Fungi as Environmental Indicators
-
-Fungi serve as bioindicators of environmental quality due to their sensitivity to:
-- Heavy metal contamination
-- Organic pollutant levels
-- Soil health and nutrient status
-- Ecosystem disturbance and recovery
-
-[[fungal-biomonitoring]] approaches using indicator species can complement chemical analyses for [[bioremediation-monitoring-and-assessment]] programs.
-
-## Biosensors
-
-Fungal biosensors combine biological detection elements with transducers for real-time monitoring:
-
-### Enzyme-Based Biosensors
-- Immobilized [[brown-rot-fungi-biodegradation]] or peroxidase electrodes for phenol detection
+- Quantifying expression of [[fungal-biomonitoring]] approaches using indicator species can complement chemical analyses for [[brown-rot-fungi-biodegradation]] or peroxidase electrodes for phenol detection
 - Enzyme electrodes for monitoring pollutant degradation
 
 ### Whole-Cell Biosensors
@@ -99,20 +76,9 @@ Fungal biosensors combine biological detection elements with transducers for rea
 
 ## Integrated Monitoring Strategies
 
-Effective [[bioremediation-monitoring-and-assessment]] programs combine multiple approaches:
+Effective [[fungal-siderophore-detection-analytical-methods]]
 
-1. **Baseline assessment**: Chemical analysis + fungal community characterization
-2. **Treatment monitoring**: Periodic sampling for chemical + biological parameters
-3. **Performance verification**: Confirming target pollutant reduction + fungal activity
-4. **Long-term assessment**: Ecosystem recovery + biodiversity metrics
-
-## See Also
-
-- [[fungal-siderophore-detection-analytical-methods]]
-
-- [[ligninolytic-enzymes-bioremediation]]
 - [[fungal-molecular-methods]]
-- [[bioremediation-monitoring-and-assessment]]
 - [[fungal-bioaugmentation-inoculation]]
 - [[fungal-biosensors-environmental-monitoring]]
 

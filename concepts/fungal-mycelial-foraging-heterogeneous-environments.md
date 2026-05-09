@@ -20,9 +20,7 @@ environmental conditions. These strategies are central to fungal mycelial foragi
 ## Short-Range and Long-Range Foraging
 
 Cord-forming basidiomycetes display two contrasting foraging strategies.
-Short-range foragers such as [[hypholoma-fasciculare]] produce dense,
-slowly extending mycelia that thoroughly explore the immediate
-surroundings. Long-range foragers like [[phanerochaete-velutina]] extend
+Short-range foragers such as [[phanerochaete-velutina]] extend
 rapidly as diffuse mycelia with fewer cords, covering larger areas but
 with less complete exploration. These strategies parallel the "phalanx"
 and "guerrilla" foraging patterns described in clonal plant ecology.
@@ -91,35 +89,4 @@ Mycelia inevitably encounter other fungi and soil organisms during
 growth. Combat outcomes between fungal species include deadlock,
 replacement, partial replacement, and mutual replacement, with
 morphological changes including production of defensive fans and
-altered fractal dimensions. The ectomycorrhizal [[paxillus-involutus]] and
-saprotrophic Phan. velutina both sequestered labeled phosphorus from
-shared litter patches, competing for dissolved nutrients in soil.
-
-## Invertebrate Grazing Effects
-
-Soil invertebrates including Collembola, termites, and nematodes graze
-on mycelia. Grazing intensity and species identity differentially affect
-mycelial morphology. Intense grazing by Folsomia candida completely
-removed hyphal tips from Phan. velutina margins, producing much smaller
-systems. Moderate grazing shifted H. fasciculare from dense exploitative
-growth to less dense explorative growth, sometimes triggering points of
-rapid cord outgrowth. These effects parallel herbivory on plants, where
-removal of apical dominance releases branching.
-
-Grazing also triggers physiological changes distant from the grazing
-site. Phan. velutina switched on ligninolytic enzymes in the presence
-of nematodes, and changes in protease expression occurred at locations
-remote from grazing, suggesting system-wide signaling.
-
-## Sit-and-Wait Strategy at Landscape Scale
-
-In forests, genets of saprotrophic and ectomycorrhizal basidiomycetes
-can cover areas from several square meters to many hectares. Armillaria
-ostoyae genets have been documented spanning 965 hectares with
-estimated ages of 1900-8650 years. These persistent networks act as
-"sit-and-wait" strategists, positioned to capture new resources from
-litter fall or root death. In tropical forest canopies, rhizomorphic
-fungi form suspended networks that trap and colonize falling litter,
-analogous to animal filter feeders.
-
-See also: [[fungal-mycelial-network-architecture]], [[cannabis-and-neurological-conditions]], [[fungal-wood-decay-types-white-rot-brown-rot]], [[ectomycorrhizal-associations]].
+altered fractal dimensions. The ectomycorrhizal [[fungal-mycelial-network-architecture]], [[fungal-wood-decay-types-white-rot-brown-rot]], [[ectomycorrhizal-associations]].

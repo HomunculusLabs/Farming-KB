@@ -3,32 +3,11 @@ title: Fungal Biofilms in Bioremediation
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-# Fungal Biofilms in Bioremediation
-
-Fungal biofilms are structured communities of fungal cells embedded in a self-produced extracellular polymeric matrix, adhering to surfaces or interfaces. In [[cotter-mycoremediation-overview]], fungal biofilms play important roles in attached-growth [[mycoremediation-bioreactor-design]], in the colonization of contaminated solid substrates, and in the natural attenuation of pollutants in soil and aquatic environments. The biofilm mode of growth offers several advantages for environmental applications compared to planktonic (free-floating) growth.
-
-## Biofilm Formation by Filamentous Fungi
-
-Filamentous fungi show several distinct morphologies in submerged cultures that are relevant to biofilm formation. Mycelia can be freely dispersed or become agglomerated in the medium. Loose hyphal aggregates are referred to as clumps, while denser, often spherical aggregates are termed pellets. Hyphae can range from linear filaments to branched structures, and clumps and pellets vary in size, density, and surface structure.
-
-Filamentous fungi can colonize moist substrates such as wood and breach the water-air interface to grow into the air. Schizophyllum commune reduces the surface tension of water before escaping the aqueous phase to form aerial hyphae or fruiting bodies. This surface tension reduction results from the secretion of large amounts of hydrophobin, which forms a stable amphipathic protein film at the water-air interface.
-
-## Attached-Growth Reactor Systems
-
-Mycoreactors based on attached growth include trickling filters, rotating biological contactors (RBCs), upflow fixed-film reactors, and fluidized-bed reactors. These systems all rely on the formation of fungal biofilms on solid support surfaces. Several types of cell immobilization can be used in biofilm systems: attachment of the microorganism to the surface of a carrier, colonization of a porous carrier by organisms, immobilization in hydrogel, and microbial pellets or granulated sludges.
-
-In these reactor configurations, the fungal biofilm provides a large surface area for contact between the [[fungal-enzyme-activity-nutrient-availability]] and the pollutants being treated. The biofilm matrix can also adsorb pollutants, concentrating them near the fungal cells and enhancing degradation efficiency.
+tags: [[cotter-mycoremediation-overview]], fungal biofilms play important roles in attached-growth [[fungal-enzyme-activity-nutrient-availability]] and the pollutants being treated. The biofilm matrix can also adsorb pollutants, concentrating them near the fungal cells and enhancing degradation efficiency.
 
 ## Rotating Biological Contactors
 
-The rotating biological contactor (RBC) is commonly used as a wastewater treatment process and can be adapted for [[cotter-mycoremediation-overview]] applications. In an RBC, fungal biofilms grow on rotating disks that are partially submerged in the wastewater. As the disks rotate, the biofilm is alternately exposed to the wastewater and the atmosphere, providing both contact with pollutants and aeration.
-
-RBC systems offer good oxygen transfer and mixing characteristics. The rotating action helps maintain a thin, active biofilm by shearing off excess biomass. Fungi growing on RBC media can produce [[ligninolytic-enzyme-systems-white-rot-fungi]] that degrade recalcitrant organic compounds in the wastewater.
+The rotating biological contactor (RBC) is commonly used as a wastewater treatment process and can be adapted for [[ligninolytic-enzyme-systems-white-rot-fungi]] that degrade recalcitrant organic compounds in the wastewater.
 
 ## Trickling Filters
 
@@ -78,15 +57,28 @@ Controlling biofilm thickness and preventing excessive growth are ongoing challe
 
 ## See Also
 
-[[mycoremediation-bioreactor-design]]
-
 [[fungal-bioreactor-types-for-pollutant-removal]]
-
-[[mycoremediation-bioreactor-design]]
 
 [[fungal-enzyme-systems-xenobiotic-degradation]]
 
-[[mycoremediation-scale-up-challenges]]
-
 [[singh-pharmaceutical-wastewater-fungal-treatment]]
 - [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
+## Practical Considerations
+
+Successful implementation of Fungal Biofilms in Bioremediation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

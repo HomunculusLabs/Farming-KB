@@ -10,16 +10,7 @@ sources:
 
 # Reviving Ancestral Strains
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] advocates for the recovery and revival of ancestral crop varieties as an alternative to modern plant breeding and [[fukuoka-critique-genetic-engineering]]. This position connects to his broader critique of [[fukuoka-problems-darwin-evolution]].
-
-## Against Modern Breeding
-
-Fukuoka challenges the assumptions of modern plant breeding:
-
-- Modern breeding assumes that humans can improve upon nature's designs
-- But ancestral varieties carry accumulated wisdom from thousands of years of natural selection
-- Each generation of breeding narrows the genetic base, making crops more vulnerable
-- The [[fukuoka-seed-war-rice-weapon]] and corporate control of genetics further erode diversity
+In *The Road Back to Nature*, [[fukuoka-critique-genetic-engineering]]. This position connects to his broader critique of [[fukuoka-seed-war-rice-weapon]] and corporate control of genetics further erode diversity
 
 ## The Value of Ancient Varieties
 
@@ -27,14 +18,7 @@ Ancestral strains have qualities that modern varieties lack:
 
 - They are adapted to local conditions through centuries of natural selection
 - They possess genetic diversity that provides resilience against pests, diseases, and climate variation
-- They are suited to [[fukuoka-natural-farming-philosophy-of-mu]] that work with nature rather than against it
-- They often produce food of superior taste and nutritional quality
-
-## Insects and Natural Variation
-
-Fukuoka observes that nature produces variation without human intervention:
-
-- [[fukuoka-insects-create-new-rice-varieties]] through natural processes
+- They are suited to [[fukuoka-insects-create-new-rice-varieties]] through natural processes
 - The interaction between plants, insects, microorganisms, and environment generates genetic diversity
 - This natural variation is more sophisticated than anything achieved through breeding programs
 - Nature's creativity operates through cooperation rather than competition
@@ -43,21 +27,11 @@ Fukuoka observes that nature produces variation without human intervention:
 
 Reviving ancestral strains is integral to natural farming practice:
 
-- [[fukuoka-seed-selection-methods]] involve growing many varieties side by side and letting natural conditions determine which thrive
-- Over time, the varieties best adapted to local conditions naturally dominate
-- This process requires no laboratory, no breeding program, no genetic engineering
-- It works by restoring natural evolutionary processes rather than replacing them
-
-## Beyond the Green Revolution
-
-The revival of ancestral strains represents an alternative to the [[fukuoka-critique-green-revolution]] paradigm:
+- [[fukuoka-critique-green-revolution]] paradigm:
 
 - High-yielding varieties require chemical inputs that ancestral varieties do not
 - Ancestral varieties maintain productivity over generations without degradation
-- They support rather than undermine [[compost-biology-soil-food-web-inoculation]]
-- They represent genetic wealth that belongs to communities, not corporations
-
-See also: [[fukuoka-seed-selection-methods]], [[fukuoka-seed-war-rice-weapon]], [[fukuoka-problems-darwin-evolution]], [[fukuoka-critique-genetic-engineering]], [[fukuoka-seeding-real-green-revolution]]
+- They support rather than undermine [[fukuoka-seed-selection-methods]], [[fukuoka-problems-darwin-evolution]], [[fukuoka-seeding-real-green-revolution]]
 
 ## Key Points
 
@@ -69,7 +43,7 @@ See also: [[fukuoka-seed-selection-methods]], [[fukuoka-seed-war-rice-weapon]], 
 
 ## See Also
 
-[[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-observation-based-farming]]
+[[fukuoka-natural-farming-new-age]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-method]], [[fukuoka-observation-based-farming]]
 
 ## Practical Applications
 

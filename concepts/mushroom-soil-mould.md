@@ -12,46 +12,7 @@ type: concept
 # Mushroom Soil and Mould
 
 The selection and preparation of soil, or "mould," for
-covering [[falconer-loam-for-mushroom-beds]] was one of the most important aspects
-of successful cultivation. The mould serves as the growing
-medium through which mushrooms push to the surface, and its
-composition directly affects crop quality, yield, and duration.
-
-## Ideal Soil Types
-
-### Sandy Loam
-
-A sandy loam was considered the best possible mould. This
-soil type provides excellent drainage while retaining
-sufficient moisture and nutrients. Its loose structure allows
-easy emergence of mushroom pins through the surface during
-the mushroom bed preparation process.
-
-### Yellow Soil
-
-Cuthill specifically recommended a "soft, soapy, loamy,
-yellow, sandy soil" as always the best for mushroom beds.
-This describes a mature, well-weathered soil with good
-structure and balanced mineral content. The "soapy" quality
-indicates smooth texture without gritty or claggy components.
-
-### Rich Light Dark Soil
-
-A light, dark, rich mould was also highly recommended. Its
-darkness indicates high humus content, beneficial for mushroom
-development. This soil, typically from well-maintained garden
-ground, contains ample organic matter for good growing
-conditions.
-
-## Soils to Avoid
-
-Cuthill was emphatic about soil types that must never be used:
-
-### Clay
-
-Clay soils were strictly prohibited. Their heavy, compact
-structure prevents drainage, impedes mushroom emergence, and
-creates waterlogged conditions hostile to [[mushroom-spawn]].
+covering [[mushroom-spawn]].
 The dense nature of clay prevents necessary air circulation.
 
 ### Chalk and Lime
@@ -116,13 +77,7 @@ great improvement. The droppings were finely mixed with sand,
 and their strength was preserved from heavy rains. This was
 particularly useful for cottagers collecting highway
 droppings, as the natural sand mixture improved both manure
-quality and [[mushroom-spawn]] development.
-
-## Dry Versus Wet Mould
-
-It did not matter much whether soil was dry or wet when
-obtained, as it must be made wet during application. The
-mould was watered as part of [[mushroom-watering]] and trodden
+quality and [[mushroom-watering]] and trodden
 to a firm, solid consistency regardless of initial moisture.
 
 ## Mould and Crop Quality
@@ -132,3 +87,7 @@ produced more solid, better-flavoured mushrooms. Light sandy
 mould benefited from the loam scatter technique to improve
 crop density and taste. Properly prepared rich mould supported
 production for three to four months or more on each bed.
+
+## See Also
+
+- [[casing-soil-preparation-mushroom-cultivation]]

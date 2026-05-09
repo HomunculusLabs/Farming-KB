@@ -138,12 +138,10 @@ expansions for Hermitian operators.
 - **Quantum computing**: Qubits exploit superposition and entanglement;
   Shor's algorithm (factoring) and Grover's search offer speedups.
 - **Quantum optics**: Single-photon sources, squeezed light, QKD (BB84),
-  and quantum teleportation protocols.
-- **Quantum field theory**: Relativistic extension underlying the Standard
-  Model — all fundamental particles and forces except gravity.
-- **Nuclear physics**: Shell model, alpha/beta decay, NMR imaging.
-
 ## See Also
 
-- [[tryptamines-and-quantum-mechanics]]
 - [[stereochemistry-and-chirality]]
+
+## See Also
+- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+- [[teaming-with-microbes-soil-food-web-overview]]

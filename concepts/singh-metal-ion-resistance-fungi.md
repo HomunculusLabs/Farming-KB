@@ -132,8 +132,6 @@ metal-resistant fungal strains could be deployed for:
 
 ## See Also
 
-- [[singh-fungal-biosorption-heavy-metals]]
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[singh-metal-transformation-leaching-mechanisms-fungi]]
 - [[singh-genetically-engineered-fungi-bioremediation]]
 - [[fungal-bioaccumulation-heavy-metals]]

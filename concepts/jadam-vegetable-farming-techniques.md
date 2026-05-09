@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM vegetable farming applies the same foundational principles as all [[jadam-methods]] -- [[knf-seed-treatment-and-soil-foundation]] with JMS, co-existence with weeds, [[jadam-crop-residue-fertilizer]] recycling, and [[jeavons-natural-pest-control]]icides -- with specific attention to greenhouse management, transplanting techniques, and vegetable-specific pest control.
+JADAM vegetable farming applies the same foundational principles as all [[knf-seed-treatment-and-soil-foundation]] with JMS, co-existence with weeds, [[jeavons-natural-pest-control]]icides -- with specific attention to greenhouse management, transplanting techniques, and vegetable-specific pest control.
 
 ## Soil Foundation for Vegetables
 
@@ -146,3 +146,7 @@ The "nutritional perspective" means the best fertilizer for a vegetable is made 
 - Watch for powdery mildew (Formula #4)
 - Return cucumber leaves to soil -- they contain perfect cucumber nutrition
 ## See Also
+
+## See Also
+
+- [[korean-natural-farming-and-jadam]]

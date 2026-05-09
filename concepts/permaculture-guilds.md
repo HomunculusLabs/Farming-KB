@@ -4,42 +4,9 @@
 
 A permaculture guild is a human-designed plant community that mimics the structure and function of natural plant associations. Guilds assemble multiple species into mutually beneficial groupings where each member supports, enhances, and is benefited by the others. The concept draws from observations of how plants naturally organize in forests, meadows, and other ecosystems — interconnecting through shared nutrient cycles, pest management, microclimate creation, and pollination networks.
 
-The term "guild" originates from permaculture co-founders [[bill-mollison]] and [[david-holmgren]], though the practice of assembling beneficial plant combinations has been used by indigenous peoples for millennia, particularly in tropical home gardens. In temperate climates, guild design is a newer and rapidly evolving field.
+The term "guild" originates from permaculture co-founders [[david-holmgren]], though the practice of assembling beneficial plant combinations has been used by indigenous peoples for millennia, particularly in tropical home gardens. In temperate climates, guild design is a newer and rapidly evolving field.
 
-## Guilds vs. Natural Communities vs. [[companion-planting]]
-
-Understanding guilds requires distinguishing them from related concepts:
-
-- **Natural plant communities**: Wild groupings of species that co-evolved over thousands of years in a specific location. They are self-organizing and dynamically shifting through ecological succession.
-- **Guilds**: Human-made assemblages that mimic natural communities but incorporate domesticated and food-producing species. They are designed rather than self-emergent.
-- **Companion planting**: A simpler technique that pairs two or three species for a specific benefit (e.g., basil with tomatoes). Most traditional companion planting recipes have not held up well in scientific trials, and many provide no measurable benefit or even detrimental effects.
-- **Interplanting**: Mixing crops to save space and avoid monoculture problems, but without necessarily creating beneficial interactions between species.
-
-Guilds go beyond companion planting by assembling a complete community of five or more species, each performing multiple functions and connected through the kinds of dynamic relationships found in nature.
-
-## The Functional Roles in a Guild
-
-Effective guilds include species that fill specific ecological niches and functional roles:
-
-### Central Element
-Every guild is organized around a central element — typically a fruit or nut tree, but it could also be a key vegetable, a pond, or a livestock animal. The central element defines the guild's character and determines the conditions (shade, root space, allelopathy) that other members must tolerate.
-
-### Nitrogen Fixers
-Nitrogen-fixing plants convert atmospheric nitrogen into soil-available nitrate through symbiotic bacteria in their root systems. They are near-mandatory components of guilds because they simultaneously enhance soil ecology and accumulate nutrients. Legumes (beans, peas, clovers, alfalfa) are the most common nitrogen fixers, but several non-leguminous families also fix nitrogen, including:
-
-- Elaeagnus (Russian olive, goumi, silverberry)
-- Ceanothus (California lilac)
-- Casuarina (she-oak)
-- Alnus (alder)
-- Robinia (black locust)
-- Acacia (wattles)
-- Hippophae (sea buckthorn)
-- Caragana (Siberian pea shrub)
-
-### Insectary Plants
-Species that attract pollinators and predatory insects provide pest management services to the guild. Flowers rich in nectar and pollen draw bees, butterflies, hoverflies, and parasitic wasps that pollinate fruiting plants and prey on pest insects. Examples include dill, fennel, yarrow, calendula, comfrey, and clover.
-
-### Mulch Makers and [[dynamic-accumulators]]
+## Guilds vs. Natural Communities vs. [[dynamic-accumulators]]
 Plants that produce abundant biomass for mulch or accumulate minerals from deep soil layers and bring them to the surface. Comfrey is the classic dynamic accumulator, pulling potassium, calcium, and other minerals from deep subsoil into its leaves. When cut and used as mulch, these minerals become available to shallow-rooted plants.
 
 ### Root Pattern Diversifiers

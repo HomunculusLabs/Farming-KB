@@ -129,10 +129,7 @@ which exceeds the documented risks of most other tropane-containing plants.
 
 ## See Also
 
-- [[golden-guide-datura-and-nightshade-deliriants]]
 - [[belladonna-atropa-belladonna-ethnobotany]]
-- [[henbane-hyoscyamus-niger-ethnobotany]]
 - [[mandrake-mandragora-officinarum-in-european-folklore]]
-- [[culebra-borrachera-methysticodendron-amesianum]]
 - [[taique-desfontainia-hookeri-andean-shrub]]
 - [[golden-guide-hallucinogenic-plants-overview]]

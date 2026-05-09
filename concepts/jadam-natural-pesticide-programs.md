@@ -8,84 +8,7 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-JADAM natural pesticide (JNP) programs are specific recipes combining [[jadam-wetting-agent-jwa]], [[jadam-sulfur-germicide-js]], and [[jadam-herb-solution-jhs]] for targeted pest and disease control. These programs were developed through field testing by JADAM members and represent proven formulations.
-
-## Core Principles
-
-All JNP programs share these principles:
-- Always do mixture test and concentration test before full application
-- Spray early morning, late evening, or on cloudy/humid days
-- Use soft water that passes the JWA water test
-- Filter all solutions before spraying to prevent marks on plants
-- Use only the clear top portion of JHS
-- Coat target plants/pests completely -- thorough wetting is essential
-- Do not reuse leftover pesticide after spraying
-- Do not mix JWA and JS together directly; add each separately to water
-
-## Program 1: Rice Bakanae Disease (Seed Treatment)
-
-Developed by: Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, Youngsang Cho
-
-Ingredients for 500L:
-- JS: 5L (7L for waxy/colored rice or thick-husked varieties)
-- Water: to 500L (use cold water)
-
-Method:
-- Immerse rice seeds in solution for 48 hours
-- Rinse thoroughly with water after treatment
-- For government-supplied seed: rinse and rub 3 times before immersion
-- For other seeds: immerse approximately 30 minutes (adjustable)
-- Can replace chemical seed disinfectant; also works for garlic and onions
-
-If seedlings show disease in seedbed: spray JS 1.5L + JWA 3L per 500L.
-
-## Program 2: Water Rice Weevil
-
-Developed by: Seongmin Bak, Youngsang Cho
-
-Surface spreading agent (undiluted):
-- JWA: 3L
-- Water: 5L
-- JS: 0.5L
-- Canola oil: 3L (mix with drill for 10 minutes)
-
-Field application:
-- First spray 500L water + JWA 5L + JS 2L on rice paddy dikes (1-2 times)
-- Then sprinkle surface spreading agent on water surface
-- 1L covers 0.1 ha; make fresh each time
-- Sprinkle in early morning with little wind
-- Apply intensively where cold water enters the field
-- Does not harm water snails
-
-## Program 3: Rice Pest and Disease Control
-
-Developed by: Youngsang Cho
-
-Targets: brown planthopper, Asiatic rice borer, armyworm, rice leaf roller, rice blast, rice sheath blight, smut, stinkbug
-
-For 500L water:
-- JWA: 5L
-- JS: 2L
-- Jerusalem artichoke JHS: 5L
-- Korean pasque flower root (KPFR) JHS: 5L
-
-Adjustments:
-- For serious infestation: increase JWA and KPFR JHS to over 10L each
-- You can use only KPFR JHS and remove Jerusalem artichoke JHS
-- For black stinkbugs: JWA over 10L + KPFR JHS over 15L
-- For leaf blight: JWA over 12L + JS over 2.5L
-
-## Program 4: Powdery Mildew and Downy Mildew
-
-Developed by: Youngsang Cho
-
-For 500L water:
-- JWA: 3L
-- JS: 1.2L
-
-Notes:
-- Must use soft water for effectiveness
-- Use [[jadam-microorganism-solution-jms]] regularly for disease prevention through microbial diversity
+JADAM natural pesticide (JNP) programs are specific recipes combining [[jadam-sulfur-germicide-js]], and [[jadam-microorganism-solution-jms]] regularly for disease prevention through microbial diversity
 - Add JHS and increase JWA to 5L to control pests simultaneously
 - Apply early in disease outbreak for best results
 - JS causes concentration damage to young/soft leaves, greenhouse plants, grapes, persimmons, walnuts, and perilla -- always test first
@@ -117,7 +40,64 @@ KPFR JHS: handles almost everything the other two cannot
 ## Cost
 
 The entire JNP system costs approximately $100 per acre when all inputs are self-made. This is roughly 1/50 the cost of commercial chemical pesticide programs.
-- [[jadam-rice-water-weevil-control]]
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-pest-control-recipes]]
+## Practical Considerations
+
+When working with JADAM Natural Pesticide Programs, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

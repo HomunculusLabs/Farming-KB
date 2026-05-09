@@ -115,11 +115,8 @@ strain maintenance.
 
 ## See Also
 
-- [[stamets-slant-culture-strain-preservation]] for maintaining strain
-  libraries
 - [[agar-to-grain-wedge-transfer-technique]] for transferring isolated
   strains to production
-- [[spawn-generation-techniques]] for expanding selected strains
 - [[agar-culture-techniques-detailed]] for isolation and sectoring methods
 
 ]

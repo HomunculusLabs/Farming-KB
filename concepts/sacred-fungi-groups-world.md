@@ -3,28 +3,8 @@ title: Sacred Fungi Groups of the World
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md"
----
-# Sacred Fungi Groups of the World
-
-The term "neurotropic fungi" encompasses 216 species across four distinct groups defined by
-Guzman, Allen & Gartz (1998). These range from well-characterized psilocybin-containing mushrooms
-to fungi used ceremonially without confirmed chemical analysis. The concept of "sacred fungi"
-spans indigenous traditions across multiple continents.
-
-## Group 1: Psilocybin and Related Indole Fungi
-
-The largest group, containing fungi with confirmed or suspected psilocybin, psilocin, baeocystin,
-and/or norbaeocystin. This group includes 20 genera:
-
-### Major Genera
-- **Psilocybe** - 116 species (54% of all neurotropic species); the dominant genus. See
-  [[psilocybe-section-classification]]
-- **Panaeolus** - 13 species; dung-inhabiting, cosmopolitan. See [[panaeolus-subbalteatus-profile]]
-- **Copelandia** - 12 species; tropical dung-inhabiting mushrooms, formerly classified within
-  Panaeolus. See [[copelandia-genus-species-guide]]
+tags: [[psilocybe-section-classification]]
+- **Panaeolus** - 13 species; dung-inhabiting, cosmopolitan. See [[copelandia-genus-species-guide]]
 - **Gymnopilus** - 14 species; wood-inhabiting, often large and conspicuous
 - **Inocybe** - 6 species; mycorrhizal, easily confused with toxic species
 - **Hypholoma** - 6 species; wood-inhabiting
@@ -45,9 +25,7 @@ not all bluing species contain psilocybin and not all psilocybin-containing spec
 
 ## Group 2: Ibotenic Acid and Muscimol Fungi
 
-Contains three [[amanita-genus-morphology]] species with different chemistry:
-- **Amanita muscaria** (fly agaric) - The most widely distributed neurotropic fungus. Mycorrhizal
-  with Pinus and Betula in northern hemisphere forests. See [[amanita-muscaria-chemistry-and-pharmacology]]
+Contains three [[amanita-muscaria-chemistry-and-pharmacology]]
 - **A. pantherina** (panther cap) - Contains ibotenic acid and muscimol
 - **A. regalis** (royal fly agaric) - Less common, similar chemistry
 
@@ -58,10 +36,7 @@ psilocybin-containing species. Their active compounds are isoxazole derivatives 
 
 Seven species producing ergot alkaloids:
 - **Claviceps purpurea** - The classic ergot fungus on cereal grasses, producer of ergotamine and
-  related alkaloids. See [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-- **C. nigricans**, **C. paspali**, **C. rolfesii**, **C. tripsicii** - Related Claviceps species
-- **Cordyceps capitata** and **C. ophioglossoides** - Entomopathogenic fungi that may contain
-  ergot-like alkaloids. See [[cordyceps-and-entomopathogenic-fungi]]
+  related alkaloids. See [[cordyceps-and-entomopathogenic-fungi]]
 
 Ergot alkaloids include lysergic acid amides, which are chemically related to LSD. The ergot fungi
 have a long history of significance in human affairs, from ergotism (St. Anthony's Fire) to the
@@ -99,9 +74,7 @@ hallucinogenic fungus.
 
 ## Related Topics
 
-- [[neurotropic-fungi-world-checklist]] - Complete species checklist with taxonomy
-- [[entheogenic-plants-and-psychoactive-flora]] - Broader context
-- [[neurotropic-fungi-biogeographic-patterns]] - Geographic distribution
+- [[gaian-psychotherapy-and-entheogenic-plants]] - Broader context
 - [[magic-mushroom-cultural-history]] - Cultural history of use
 - [[amanita-muscaria-ethnobotany]] - Amanita ceremonial use
 

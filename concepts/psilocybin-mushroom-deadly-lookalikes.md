@@ -58,7 +58,7 @@ The general shape of Galerina autumnalis can be very similar to Psilocybe stuntz
 
 Both are small, squat mushrooms with brown caps and a ring on their stems.
 
-Mycenoid Galerinas closely resemble [[psilocybin-liquid-culture]] and [[psychedelic-mushrooms-species-and-identification]].
+Mycenoid Galerinas closely resemble [[psychedelic-mushroom-set-and-setting]].
 
 Color is by far the best feature for separating Galerinas from Psilocybes, not shape or habitat.
 
@@ -108,35 +108,7 @@ This bridge species illustrates just how closely Psilocybes and Galerinas can re
 
 ## Inocybe aeruginascens: Special Case
 
-[[inocybe-aeruginascens-profile]] is particularly dangerous because it is of the same genus as potentially lethal muscarine-containing species.
-
-About 160 species of the large European Inocybe genus cannot be easily differentiated from each other.
-
-Muscarine has been identified in at least 40 species of the Inocybe genus, with deaths dating to the early 20th century from Inocybe patouillardi.
-
-Inocybe aeruginascens is most easily misidentified by laypersons for this reason.
-
-Fortunately, analyses of more than 100 mushrooms collected across Hungary and Germany from 1967 to 1990 found not one specimen containing even trace amounts of muscarine.
-
-## Safety Protocols
-
-If you have any uncertainty about a mushroom, do not eat it.
-
-Always save specimens for later analysis in case identification questions arise.
-
-Use several good general field guides in conjunction with psilocybin-specific references.
-
-The more knowledgeable you become about all kinds of mushroom identification, the safer you will be.
-
-Only skilled mycologists should attempt identification of rusty-spored genera like Gymnopilus, Conocybe, and Inocybe.
-
-Amateurs should avoid these esoteric species in favor of those with purplish brown to black spores.
-
-See also: [[mushroom-poisoning-and-lookalikes]], [[mushroom-foraging-safety]], [[psilocybin-mushroom-identification]], [[psilocybin-mushroom-minor-genera]]
-
-## Related
-
-- [[conocybe-cyanopus-profile]]
+[[mushroom-poisoning-and-lookalikes]], [[psilocybin-mushroom-identification]], [[conocybe-cyanopus-profile]]
 
 ## Merged: Gymnopilus aeruginosus
-A large psilocybin-containing mushroom commonly known as "magic blue gym," notable for its bluish-gray-green coloration and preference for woody debris in temperate forests. Originally described as Pholiota aeruginosa Peck, the species was later reclassified into the genus Gymnopilus. See also: [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]], [[psilocybin-mushroom-minor-genera]], psilocybin mushroom deadly lookalikes It is one of approximately 75 Gymnopilus species in North America and one of at least 11 species worldwide confirmed to contain psilocybin.
+A large psilocybin-containing mushroom commonly known as "magic blue gym," notable for its bluish-gray-green coloration and preference for woody debris in temperate forests. Originally described as Pholiota aeruginosa Peck, the species was later reclassified into the genus Gymnopilus. See also: [[gymnopilus-purpuratus-profile]], [[psilocybin-mushroom-minor-genera]], psilocybin mushroom deadly lookalikes It is one of approximately 75 Gymnopilus species in North America and one of at least 11 species worldwide confirmed to contain psilocybin.

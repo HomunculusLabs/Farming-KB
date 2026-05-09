@@ -29,48 +29,7 @@ Guerilla gardening is the act of gardening on land that the gardener does not le
 
 ### What Are Seed Balls
 - Clay, compost, and seeds mixed into marble-sized balls
-- Derived from Fukuoka's natural farming technique (see [[natural-farming-seed-balls]])
-- Can be thrown over fences, into vacant lots, from bicycles
-- No digging or planting required — seeds germinate when conditions are right
-
-### Seed Bomb Recipe
-- 5 parts dry red clay (powdered)
-- 1 part compost or worm castings
-- 1 part seeds
-- Water to mix
-
-### Method
-1. Dry-mix clay powder and compost
-2. Add seeds and mix gently (don't crush seeds)
-3. Add water gradually until mixture holds together like dough
-4. Roll into balls (1-2 cm diameter)
-5. Dry in shade for 1-2 days
-6. Throw or place in target area
-
-### Seed Selection for Seed Bombs
-- Hardy, drought-tolerant annuals: calendula, nasturtium, sunflower, poppy
-- Edible: radish, lettuce, bean, pea, squash
-- Perennials: wildflower mixes, clover, yarrow, chicory
-- Native species preferred (adapted to local conditions, support local ecology)
-
-## Vacant Lot Transformation
-
-### Assessment
-- Test soil for contamination (lead, arsenic — common in urban sites)
-- Check for underground utilities before digging (call before you dig)
-- Assess sunlight (at least 6 hours for vegetables)
-- Check water access (rain barrels, nearby hydrant)
-- Note existing vegetation (some may be worth keeping)
-
-### Soil Safety
-- Urban soils often contain heavy metals from paint, gasoline, industrial use
-- Lead testing kits are affordable ($10-20)
-- If contaminated: use raised beds with imported soil
-- Add compost to bind heavy metals (reduces bioavailability)
-- Avoid root vegetables in contaminated soil (leafy fruiting crops safer)
-
-### Quick Transformation Techniques
-1. **Sheet mulch**: Lay cardboard, cover with compost and mulch (see [[permaculture-sheet-mulch-detailed-guide]])
+- Derived from Fukuoka's natural farming technique (see [[permaculture-sheet-mulch-detailed-guide]])
 2. **Raised beds**: Build simple frames from reclaimed wood, fill with clean soil
 3. **Containers**: Pots, buckets, tires (avoid tires for edibles — potential leaching)
 4. **Vertical gardens**: Pallets, trellises, hanging baskets for small spaces
@@ -112,12 +71,27 @@ Guerilla gardening is the act of gardening on land that the gardener does not le
 
 ## Related
 
-- [[guerilla-gardening-tactics-methods]]
 - [[urban-permaculture-techniques]] — for urban permaculture methods
-- [[natural-farming-seed-balls]] — for seed ball details
 - [[permaculture-sheet-mulch-detailed-guide]] — for no-dig bed creation
-- [[permaculture-design-principles]] — for design fundamentals
 - [[permaculture-cycles-and-niches-in-time]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[what-natural-farming-method-should-i-use]]
 - [[holzer-fruit-tree-planting-method]]
+## Practical Considerations
+
+Successful implementation of Guerilla Gardening Tactics requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

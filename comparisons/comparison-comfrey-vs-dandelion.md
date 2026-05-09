@@ -23,31 +23,6 @@ work.
 
 ## Comfrey
 
-[[comfrey-plant-guide]]
-
-Comfrey is a robust perennial in the Boraginaceae family, usually grown in
-homestead systems as common comfrey or sterile Russian comfrey cultivars such
-as
-Bocking 14. Its reputation comes from a deep root system, very fast leaf
-production, and the ability to be cut several times per season. In a fruit
-tree
-guild, compost edge, or perennial mulch bank, comfrey acts like a biological
-fertilizer factory: it pulls minerals from below ordinary crop roots, converts
-them into broad leaves, and lets the grower return those leaves as mulch,
-compost activator, or fermented liquid feed.
-
-The strongest practical reason to choose comfrey is biomass. Mature plants can
-be chopped repeatedly, and the wilted leaves break down quickly because they
-are
-soft, moist, and nutrient rich. Comfrey is especially valued for potassium for
-fruiting crops, but it also contributes calcium, magnesium, iron, and trace
-minerals. A gardener who wants a reliable chop-and-drop plant beside apples,
-berries, tomatoes, or compost piles gets more material from a few comfrey
-crowns
-than from most volunteer weeds.
-
-## Dandelion
-
 [[permaculture-dandelion]]
 
 Dandelion is a low, resilient perennial with a deep taproot, edible leaves,
@@ -142,7 +117,5 @@ perennial infrastructure and wild self-renewing fertility.
 
 ## See Also
 
-- [[dynamic-accumulator-chop-and-drop-mulching]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[comparison-comfrey-vs-yarrow]]
 - [[comparison-chamomile-vs-dandelion]]

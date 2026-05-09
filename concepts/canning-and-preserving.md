@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, food, preservation, safety, recipe]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Canning and Preserving
 
-Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: comparison pressure canning for high-acid foods and pressure canning for low-acid foods. Understanding which method to use for each food is critical for safety.
+Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: water bath canning for high-acid foods and pressure canning for low-acid foods. Understanding which method to use for each food is critical for safety.
 
 ## Botulism Safety
 
@@ -19,7 +18,7 @@ Clostridium botulinum is the primary safety concern in home canning. This bacter
 Key safety rules:
 - Low-acid foods (pH above 4.6) MUST be pressure canned at 240-250 F to destroy C. botulinum spores
 - Water bath canning only reaches 212 F, which is insufficient for low-acid foods
-- Acidify tomatoes by adding bottled lemon juice (1 tbsp per pint) or citric acid cycle (1/4 tsp per pint) -- modern tomato varieties are often lower in acid than historical varieties
+- Acidify tomatoes by adding bottled lemon juice (1 tbsp per pint) or citric acid (1/4 tsp per pint) -- modern tomato varieties are often lower in acid than historical varieties
 - Never taste-test food from a jar with a broken seal, bulging lid, or off-smell
 - When in doubt, throw it out -- no food is worth the risk of botulism
 - Process all canned goods for the full time specified in a tested recipe
@@ -27,7 +26,7 @@ Key safety rules:
 
 ## Water Bath Canning
 
-Water bath canning is appropriate for high-acid foods with a pH of 4.6 or below. The boiling water (212 F) is sufficient to destroy yeast, mold, and most bacteria in fungi extreme acidic.
+Water bath canning is appropriate for high-acid foods with a pH of 4.6 or below. The boiling water (212 F) is sufficient to destroy yeast, mold, and most bacteria in acidic environments.
 
 ### Foods Suitable for Water Bath
 

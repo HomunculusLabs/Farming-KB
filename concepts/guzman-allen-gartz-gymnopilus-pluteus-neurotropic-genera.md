@@ -131,7 +131,9 @@ Europe and Morocco, extending the genus reach into North Africa.
 
 ## See also
 
-[[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
-[[guzman-allen-gartz-neurotropic-fungi-europe]]
 [[guzman-allen-gartz-global-psilocybe-biogeography]]
+
+## See Also
+
+- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

@@ -42,19 +42,7 @@ the Parisian Bohemian demimonde.
 The meetings were organized and supplied by J.J. Moreau de Tours, a world
 traveler and psychiatrist who provided a form of jellied Algerian hashish called
 dawamesc. Moreau was a serious researcher who believed that the study of
-altered states could illuminate the nature of mental illness and expand the
-boundaries of psychology.
-
-The club met weekly, and its proceedings were notable for their atmosphere of
-genteel experimentation. Unlike the later countercultural associations with
-psychedelics, the club operated within the mainstream of Parisian intellectual
-life. Its members were established and famous literary figures.
-
-## J.J. Moreau de Tours and the Science of Hashish
-
-Moreau de Tours occupies a pivotal position in the history of psychopharmacology.
-In 1845 he published "Du Hachisch et de l'Alienation Mentale" ("Hashish and Mental
-Illness"), the first systematic study of the psychological effects of cannabis.
+[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] study of the psychological effects of cannabis.
 
 Moreau's central thesis was that hashish intoxication mimicked certain forms of
 mental illness and that by studying these artificially induced states, one could
@@ -89,30 +77,7 @@ frontiers.
 
 While the French explored hashish in club settings, American writers pursued a
 more solitary and literary engagement with the drug. Fitz Hugh Ludlow, a
-little-known bon vivant of nineteenth-century American literature, began a
-tradition of pharmo-picaresque writing that would find later practitioners in
-William Burroughs and Hunter S. Thompson.
-
-Ludlow's 1857 work "The Hasheesh Eater" remains one of the most remarkable
-accounts of cannabis intoxication in the English language. Beginning his
-exploration as a freshman at Union College in 1855, Ludlow developed a literary
-persona that was part genius and part madman, a kind of Mark Twain on hashish.
-
-His approach combined Yankee transcendentalist openness with pseudoscientific
-rigor. He argued that hashish could reveal truths inaccessible to the ordinary
-waking mind, and that the mind "has the right and the capacity to turn inward
-to itself for an answer to the puzzling enigmas of the world."
-
-## The Bayard Taylor Expedition
-
-The first exploratory journey into the cosmos of cannabis to appear in American
-print was an account by Bayard Taylor, published in "Atlantic Monthly" in 1854.
-Taylor described a profoundly transformative experience in which the boundaries
-of the self dissolved and he was transported to exotic landscapes.
-
-His description of moving over the Desert "seated in a barque made of
-mother-of-pearl, and studded with jewels of surpassing lustre" captures the
-hallucinatory grandeur that nineteenth-century hashish eaters routinely reported.
+little-known bon vivant of [[nineteenth-century-mycology-public-ignorance]] deur that nineteenth-century hashish eaters routinely reported.
 Taylor's approach was knowledge-seeking rather than hedonistic, and for him the
 drug states raised genuine questions about human psychology.
 
@@ -123,13 +88,7 @@ the Romantic sensibility were almost made for each other.
 ## The Contrast With Modern Attitudes
 
 The legal and intellectual ambience surrounding drug use in the early nineteenth
-century could hardly have been more different from the modern era. Opium and
-hashish were not controlled substances, and no opprobrium was attached to their
-use by writers or intellectuals.
-
-This stands in stark contrast to the twentieth century, when psychedelics were
-criminalized and all serious research into their effects was suppressed. The
-club's atmosphere of respectable, curious inquiry remains a model for what
+c [[mckenna-modest-proposal-drug-policy-reform]] ious inquiry remains a model for what
 rational drug policy might look like.
 
 ## The Decline of Literary Hashish
@@ -141,10 +100,7 @@ use remained confined largely to the Near and Middle East.
 The tradition persisted in attenuated form through the Beat Generation of the
 1950s and the psychedelic counterculture of the 1960s. But the genteel,
 scholarly atmosphere of the Club des Hachischins would never be replicated.
-
 ## See Also
-
-- [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]]
 
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-cannabis-culture-history]]

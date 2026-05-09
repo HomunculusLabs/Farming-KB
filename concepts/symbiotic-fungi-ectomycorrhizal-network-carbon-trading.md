@@ -123,22 +123,13 @@ Understanding the directions and magnitude of carbon and nutrient transfer betwe
 
 ## See Also
 
-- [[symbiotic-fungi-mycorrhizal-carbon-trading]]
 - [[mycorrhizal-carbon-allocation]]
-- [[mycorrhizal-carbon-nitrogen-economics]]
 - [[mycorrhizal-carbon-cycling-soil-sequestration]]
-- [[mycorrhizal-carbon-sequestration]]
-- [[the-soil-food-web]]
-- [[common-mycorrhizal-networks]]
+- [[soil-food-web-nutrient-cycling]]
 - [[mycorrhizal-networks]]
-- [[mycorrhizal-networks-and-forest-communication]]
 - [[mycorrhizal-networks-common-mycelial-network]]
-- [[mycorrhizal-networks-interplant-carbon-transfer]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[nitrogen-transfer-mycorrhizal]]
 - [[ectomycorrhizal-ecology]]
-- [[ectomycorrhizal-morphological-structures]]
 - [[arbuscular-mycorrhizal-networks]]
-- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[mycorrhizal-diversity-assessment]]

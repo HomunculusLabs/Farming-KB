@@ -8,76 +8,7 @@ type: concept
 tags: [cannabis, soil]
 ---
 
-# [[cannabis-soil-and-nutrients]] Mixes
-
-From [[greg-green]]'s *The [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapter 5.
-
-## Three Main Soil Factors
-
-When buying or mixing soil, three factors matter: (1) pH, (2) Nutrients,
-and (3) Structure.
-
-### pH
-
-pH measures acid and alkaline in soil on a scale of 1-14. Cannabis
-plants in soil like a pH of 7 (neutral). Going above or below can cause
-problems during growth. Small pH meters can be bought in most gardening
-shops.
-
-### Nutrients (NPK)
-
-The three major nutrients in soil are Nitrogen (N), Phosphorus (P), and
-Potassium (K). When looking at a soil bag, the percentage of each is
-stated as a ratio like 20:20:20. The remaining percentage is other
-elements and organic matter.
-
-**For vegetative growth:** The first number (N) should be higher than or
-equal to the rest. Good ratios include 12-12-12, 20-20-20, 12-6-6, and
-18-4-5.
-
-**For flowering:** Higher P ratios are needed, but growers typically
-switch to liquid flowering feeds rather than changing soil.
-
-### Structure
-
-Find soil that is not too moist -- it should dry out well and not hold
-water like mud. It should also not dry out too quickly. Try to find a
-soil that is loose and feels fine but slightly heavy in your hands.
-
-Medium soft and heavy is what you want. Do not buy anything that is
-hard and bulky or too soft and weightless.
-
-## Common Soil Types
-
-### Sand and Silts
-
-Sandy soil drains water and minerals out too quickly. Very dry and not
-suitable on its own. Silt soils are similar but more clay-like and
-darker. Silts hold nutrients well but not water well. Both are prone
-to quick drainage and are rarely used alone. Mostly mixed with other
-soil types.
-
-### Clay
-
-A stiff, fine-grained earth consisting of hydrated aluminosilicates
-that becomes flexible when water is added. Marijuana roots do not
-really like clay. Clay can rarely be used on its own. Mostly mixed
-with other soil types.
-
-### Loam (Recommended)
-
-Loams are a mix of sand, silt, and clay. The combination is stated on
-the bag. In fact, most soil you buy in shops is a loam. Loams are
-very fertile soil composed chiefly of clay, sand, and humus. They are
-highly recommended.
-
-**Important:** Do not bring natural outdoor soil in. It may not be
-sterile and may contain bugs and pests. Always buy soil from a
-gardening shop. Soil is the cheapest part of your grow.
-
-### Humus
-
-The organic constituent of soil formed by [[decomposition]] of plant
+# [[greg-green]]'s *The [[decomposition]] of plant
 materials. Can be bought in bags at gardening shops. Most products try
 to eliminate bugs and living matter but this is not always 100%
 successful. Don't be surprised to find a worm or green fly.
@@ -142,3 +73,7 @@ grow down into the next pot. This creates a thicker stem.
 7. Match NPK ratio to growth stage
 8. Keep soil sterile -- no outdoor soil, sticks, or organic matter
    from outside
+
+## See Also
+
+- [[green-cannabis-soil-flushing-nutrient-leaching]]

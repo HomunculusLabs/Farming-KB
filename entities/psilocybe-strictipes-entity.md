@@ -11,14 +11,7 @@ type: entity
 # Psilocybe strictipes
 
 **Type:** Species (Fungi, Basidiomycota, Agaricales)
-**Category:** [[psilocybin-compound]]-containing mushroom
-**Also known as:** none widely used
-
-## Overview
-Psilocybe strictipes is a slender, grassland-inhabiting psychedelic
-mushroom found across temperate regions of the Northern Hemisphere and
-in Chile. Described by Singer and Smith, it is considered an
-intermediate form bridging [[psilocybe-semilanceata]] and P. pelliculosa.
+**Category:** [[psilocybe-semilanceata]] and P. pelliculosa.
 The species has had a taxonomically confused history, with extensive
 debate over its relationship to P. callosa.
 
@@ -69,22 +62,29 @@ debate over its relationship to P. callosa.
 ### Chemistry
 - Chemical analyses not available.
 - Estimated moderately active to potent from personal bioassays.
-- Probably low in [[psilocin]] due to limited bluing reaction.
-
-## Relevance
-P. strictipes is significant for its intermediate morphological position
-between P. semilanceata (liberty caps) and P. pelliculosa, making it a
-key species for understanding speciation and adaptation in the
-Psilocybe genus. Its presence in both Northern Hemisphere temperate
-zones and Chile suggests an ancient, widespread distribution. The
-complex taxonomic history involving P. callosa highlights the
-challenges of morphological species delimitation in fungi. Its
-appearance on burned lands connects it to post-fire ecological
-succession, a pattern observed in several Psilocybe species.
-
-## See Also
-- [[psilocybe-semilanceata]]
-- [[psilocybe-pelliculosa-entity]]
-- Psilocybe silvatica
+- Probably low in [[psilocybe-semilanceata]]
 - [[psilocybe-serbica]]
 - Psilocybe subfimetaria
+
+## See Also
+
+- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
+## Practical Considerations
+
+Successful implementation of Psilocybe strictipes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

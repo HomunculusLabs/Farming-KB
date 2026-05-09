@@ -115,10 +115,6 @@ discovered in the 150 known Coleus species.
 
 ## See Also
 
-- [[salvia-divinorum-and-salvinorin-a]]
-
 - [[golden-guide-hallucinogenic-plants-overview]]
-- [[golden-guide-morning-glory-and-ololiuqui]]
 - [[golden-guide-psilocybin-mushrooms-overview]]
-- [[golden-guide-coleus-and-other-mild-psychoactives]]
 - [[golden-guide-peyote-and-mescaline-cacti]]

@@ -61,13 +61,6 @@ psychoactive mushroom species can be roughly ranked by potency:
 
 ### Very High Potency
 
-- *[[copelandia-cyanescens]]*: Consistently among the most potent psilocybin
-  mushrooms worldwide. Contains high concentrations of both psilocybin and
-  psilocine. Australian specimens from Darwin and tropical Queensland are
-  reported to be particularly potent.
-
-### High Potency
-
 - *[[psilocybe-subaeruginosa]]*: The most potent *Psilocybe* species known from
   Australia. Southeastern Australian collections (Victoria, South Australia,
   Tasmania) have been analyzed and found to contain significant amounts of
@@ -90,61 +83,5 @@ psychoactive mushroom species can be roughly ranked by potency:
 
 ### Variable Potency
 
-- *[[psilocybe-semilanceata]]*: Though famous as one of the most potent
-  species in Europe, Australian and New Zealand specimens have been less
-  thoroughly analyzed. Environmental factors are known to significantly
-  affect the potency of this species. Tasmanian collections may differ
-  from mainland Australian or New Zealand collections.
-
-## Factors Affecting Potency
-
-### Species Identity
-
-The single most important determinant of potency is correct species
-identification. Different species produce characteristically different amounts
-of psychoactive alkaloids. The difference between *Copelandia cyanescens*
-(very potent) and *Psilocybe cubensis* (moderate) can be several-fold.
-
-### Substrate
-
-The substrate on which mushrooms grow significantly affects alkaloid
-production. Dung-grown specimens often differ in potency from those grown
-on wood or soil. The nutritional composition of the substrate, particularly
-nitrogen availability, influences the biosynthesis of tryptamine alkaloids.
-
-### Environmental Conditions
-
-Temperature, humidity, and light exposure during fruiting all affect
-potency. Generally, specimens that develop slowly in cooler conditions
-tend to be more potent than those that fruit rapidly in warm conditions.
-UV light exposure may degrade psilocybin in exposed caps.
-
-### Age at Harvest
-
-Alkaloid content changes as the mushroom matures. Young specimens and immature
-buttons often have different alkaloid profiles than mature specimens. Some
-researchers report peak potency just before the veil tears, while others find
-mature specimens equally potent. Spore-bearing specimens may have slightly
-reduced psilocybin content as resources are diverted to spore production.
-
-### Drying and Storage
-
-Proper drying preserves potency. Air-dry at room temperature in a dark,
-well-ventilated area. Heat above 40 degrees Celsius degrades psilocybin.
-Light exposure accelerates degradation. Properly stored specimens retain
-potency for years.
-
-## Analytical Methods
-
-Chemical analysis employs several techniques: thin-layer chromatography
-(TLC) provides rapid qualitative screening; gas chromatography-mass
-spectrometry (GC-MS) offers precise quantitative analysis; HPLC is the
-current gold standard for accurate alkaloid quantification. Early analyses
-of Australian specimens by researchers including Margot and Watling used
-chromatographic methods that established the basic potency profiles.
-
-## See Also
-
-- [[allen-australian-psilocybe-species-comprehensive-guide]]
-- [[allen-pans-cyanescens-australia-distribution]]
+- *[[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]

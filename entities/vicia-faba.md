@@ -107,15 +107,8 @@ Polyphenolic compounds in fava beans, including catechin, epicatechin, and procy
 
 ## See Also
 
-- [[medicago-sativa]]
 - [[trifolium-pratense]]
-- [[trifolium-repens]]
-- pisum sativum
-- lens culinaris
-- cicer arietinum
 - [[vicia-villosa]]
 - phaseolus vulgaris
-- [[comfrey-symphytum-officinale]]
 - [[glycine-max-soybean-permaculture]]
-- [[lotus-corniculatus]]
 - [[arachis-pintoi-entity]]

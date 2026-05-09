@@ -74,37 +74,6 @@ functionally a heavy feeder despite their classification. Nonetheless, the
 heavy feeder / heavy giver / light feeder system remains a good organizing
 framework for crop rotation.
 
-## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] "Over Time"
-
-Jeavons frames crop rotation as companion planting "over time." The same
-nutritional cycling that occurs when crops are intercropped in space (corn with
-beans with beets) also occurs when they are grown in succession across
-seasons. The difference is temporal rather than spatial.
-
-Root systems play an important role in this cycle. One rye plant in good soil
-produces 3 miles of roots per day -- 387 miles of roots and 6,603 miles of
-root hairs during a season. Plants continuously provide their own composting
-program underground. In one year, plants contribute 800 to 1,500 pounds of
-roots per acre to the soil, and red clover adds 1,200 to 3,850 pounds.
-
-## Rotation in Space
-
-The same heavy feeder / heavy giver / light feeder sequence can also be
-arranged spatially within a single bed. Corn, beans, and beets can be
-intermingled, with the beans providing nitrogen to the corn and the beets
-resting the soil. This is described in detail in the companion planting and
-multi-crop planting sections.
-
-## Practical Rotation Advice
-
-Avoid putting the same vegetable in the same growing bed each year, as this
-practice invites disease. The rotation cycle should be tracked from year to
-year, and permanent records kept in a garden log. The complete rotation is:
-plant heavy feeders, then heavy givers, then light feeders, and repeat.
-
-## See Also
-
-[[jeavons-companion-planting]]
-[[jeavons-multi-crop-planting]]
+## [[jeavons-companion-planting]]
 [[jeavons-soil-fertility]]
 [[jeavons-grow-biointensive-method-overview]]

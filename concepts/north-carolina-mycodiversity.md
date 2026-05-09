@@ -1,7 +1,7 @@
 ---
 title: North Carolina Mycodiversity
 created: 2026-04-28
-tags: [mycology, ecology, north-carolina, biodiversity, fungi]
+tags: [[mycology, ecology, north-carolina, biodiversity, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/carolina-mushrooms_08qxp.md]
@@ -43,8 +43,7 @@ American fungal diversity. Old-growth cove forests, dominated by
 tulip poplar, basswood, eastern hemlock, and a rich understory of
 rhododendron and ferns, provide substrates for an enormous variety of
 wood-decay and mycorrhizal fungi. The region is particularly noted for
-its diversity of [[bolete-fungi-appalachian-region]], [[amanita-genus-morphology]], [[chanterelle-species-eastern-us]], and
-[[polypore-fungi-eastern-north-america]]. High-elevation spruce-fir forests harbor relictual boreal
+its diversity of [[amanita-genus-morphology]], [[polypore-fungi-eastern-north-america]]. High-elevation spruce-fir forests harbor relictual boreal
 species such as larch bolete (Suillus grevillei) and various
 cortinarius species rare at lower elevations.
 
@@ -61,22 +60,11 @@ and pines, including numerous lactarius and russula species.
 The sandy, often poorly drained soils of the coastal plain support
 longleaf pine savannas, bottomland hardwood swamps, and maritime
 forests. These habitats yield distinctive fungal communities including
-sand-loving suillus species, [[bolete-fungi-appalachian-region]] species associated with
-loblolly pine, and a rich assortment of saprotrophic fungi on decaying
-wood in swamp ecosystems. The coastal plain also hosts several
-clathrus and phallus species more typical of tropical and
-subtropical regions.
-
-## Seasonal Patterns
-
-The fungal fruiting season in North Carolina broadly spans from March
-through November, with two primary peaks. Spring fruiting (March through
-May) is dominated by morels, verpas, and early [[chanterelle-species-eastern-us]].
+sand-loving suillus species, [[chanterelle-species-eastern-us]].
 The main summer-autumn season (July through October, peaking in
 September) produces the greatest diversity and biomass, driven by warm
 temperatures and tropical storm remnants that deliver soaking rainfall.
-Winter fruiting is limited but includes cold-tolerant [[enoki-cultivation-guide]] and
-[[oyster-mushroom-contamination-prevention]] species, particularly in the mild coastal plain.
+Winter fruiting is limited but includes cold-tolerant [[oyster-mushroom-contamination-prevention]] species, particularly in the mild coastal plain.
 
 ## Conservation Concerns
 
@@ -102,12 +90,8 @@ with many species likely still undocumented.
 
 ## See Also
 
-- [[inocybe-longicystis]]
-
 - [[palmer-russula-lactarius-families]]
 
-- [[bolete-fungi-appalachian-region]]
 - [[chanterelle-species-eastern-us]]
 - morels
-- [[mycorrhizal-fungi]]
 - [[polypore-fungi-eastern-north-america]]

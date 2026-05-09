@@ -36,14 +36,7 @@ ravenous appetite for cannabis roots.
 ### Damage
 
 Root maggots chew and burrow into stems and roots. The seed
-corn maggot attacks seeds and [[cervantes-seedling-care-early-growth]]
-roots, often destroying seeds before they can germinate or
-killing seedlings shortly after emergence. Cabbage maggots
-attack established roots, leaving hollowed-out channels and
-holes in larger roots. Both species destroy small hair-like
-feeder roots that are critical for water and nutrient uptake.
-
-Wounds made by root maggots foster [[cervantes-root-rot-pythium-damping-off]] and fungal diseases. The combination of direct root
+corn maggot attacks seeds and [[cervantes-root-rot-pythium-damping-off]] and fungal diseases. The combination of direct root
 damage and secondary pathogen infection can rapidly kill young
 plants.
 
@@ -59,50 +52,13 @@ plants.
   feltiae or Heterorhabditis bacteriophora. These beneficial
   nematodes seek out and kill root maggot larvae in the soil
 - Sprays: Kill root maggots with
-  [[cervantes-neem-oil-organic-pest-control]] and
-  horticultural oil used as a soil-drench
-
-Root maggots are found in contaminated soil. They gnaw off
-root hairs and hollow out larger roots, creating entry points
-for secondary infections.
-
----
-
-## Cutworms
-
-### Identification
-
-Cutworms are the larvae of several species of moths. They are
-common soil-dwelling caterpillars that hide in the soil during
-the day and emerge at night to feed. Several species are
-mentioned by Cervantes as cannabis pests, including species
-controlled by [[cervantes-bacillus-thuringiensis-bt-control]].
+  [[cervantes-bacillus-thuringiensis-bt-control]].
 
 Cutworms are among the many caterpillars and larvae controlled
 by Bt formulations, along with corn earworms, gypsy moth
 larvae, and budworms. They are particularly damaging to young
 seedlings and recently
-[[cannabis-advanced-growing-techniques]] plants.
-
-### Damage
-
-Cutworms get their name from their habit of severing young
-plant stems at or near the soil line. They feed on stems and
-leaves of young plants, often cutting through the main stem
-completely, causing the plant to fall over and die. A single
-cutworm in a container can destroy an entire plant. They are
-most damaging to young seedlings during the first few weeks
-after germination or transplanting.
-
-### Control
-
-- Cultural and physical: Inspect soil before planting. One
-  cutworm in a container means certain death for the plant.
-  Handpick cutworms found during soil preparation or evening
-  inspections. Collars made from cardboard, plastic, or metal
-  pushed into the soil around plant stems prevent cutworms
-  from reaching the stem
-- Biological: [[cervantes-bacillus-thuringiensis-bt-control]] is popular and effective against cutworms.
+[[cervantes-bacillus-thuringiensis-bt-control]] is popular and effective against cutworms.
   It is toxic to many moth and butterfly caterpillar larvae.
   Apply Bt as a soil drench or foliar spray following label
   directions
@@ -122,15 +78,9 @@ cutworm pupae to predators and freezing temperatures.
 
 ## Related Topics
 
-- [[cervantes-nematodes-root-maggots-soil-pests]] - comprehensive
-  soil pest guide
 - [[cervantes-bacillus-thuringiensis-bt-control]] - Bt
   biological control
-- [[cervantes-caterpillars-budworms]] - related caterpillar
-  pests
 - [[cervantes-seedling-care-early-growth]] - protecting young
   plants
-- [[cannabis-advanced-growing-techniques]] - transplant
-  protection
 - [[cervantes-root-rot-pythium-damping-off]] - secondary
   root diseases

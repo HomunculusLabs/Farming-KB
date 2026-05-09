@@ -102,9 +102,6 @@ realms have been explored for millennia by shamans and mystics.
 
 ## Related
 
-- [[turner-essential-psychedelics-lsd-cosmic-consciousness]] Concepts
-
-- psychedelic synergy
 - [[harmala-alkaloids]]
 - 2c-b combinations
 - mescalito entity
@@ -113,11 +110,7 @@ realms have been explored for millennia by shamans and mystics.
 - ego dissolution
 - set and setting
 - evolutionary consciousness
-- [[turner-multiple-combinations-cosmic-synergism]]
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]]
-- [[turner-cydelikspace-and-psychedelic-reality]]
 - [[turner-psychedelic-combination-experience-reports]]
-- [[turner-lsd-nitrous-ludiomil-combinations]]
 - [[cannabis-hash-making-from-extracted-oil]]
-- [[turner-brief-history-psychedelics-ancient-to-modern]]
 - [[cannabis-and-exercise-recovery]]

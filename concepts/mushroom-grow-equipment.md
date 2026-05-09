@@ -28,24 +28,22 @@ sources:
 - raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-t
-
 # Mushroom Grow Equipment
 
 Quality equipment dramatically reduces contamination rates and improves yields. This page covers the full range from minimum viable setups to professional-grade labs. See [[mushroom-sterile-technique-detailed]] for how to use this equipment, and [[mushroom-indoor-cultivation]] for grow chamber setup.
 
 ## Equipment by Category
 
-### [[sterilization]]
+### Sterilization
 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
 | Pressure cooker (23qt+) | $80–200 | Sterilize grain jars, agar media, substrates | Essential. Must reach 15 PSI. All-American 941 recommended by Oss & Oeric. |
 | Pressure canner | $100–300 | Larger batches, bags of substrate | Higher capacity than standard pressure cookers |
 | Autoclave | $500–5000+ | Lab-grade sterilization | Overkill for home growers but standard for commercial spawn |
-| Microwave (for microwave-surface-sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
+| Microwave (for surface sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
 
-**Sterilization times at 15 PSI** ([[pf-tek]] at 12 PSI):
+**Sterilization times at 15 PSI** (PF Tek at 12 PSI):
 - 1/2 pint PF jars: 20 min (12 PSI)
 - Quart grain jars: 60–90 min
 - 0.5 gallon jars: 90–120 min
@@ -58,7 +56,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 |---|---|---|---|
 | Still air box (plastic tote) | $5–20 | Basic sterile work | Cut two arm holes. Wipe with 70% alcohol. Essential minimum. |
 | Glove box | $50–200 (buy) / $20–50 (DIY) | Semi-sterile transfers | Rubber gloves or removable cotton front (Stamets) |
-| [[laminar-flow-hood-construction-hepa-filter]] (DIY) | $150–400 | Professional-grade sterile work | See DIY section below. HEPA + blower + enclosure. |
+| Laminar flow hood (DIY) | $150–400 | Professional-grade sterile work | See DIY section below. HEPA + blower + enclosure. |
 | Laminar flow hood (commercial) | $500–2000+ | Professional/commercial | Pre-built, tested, certified |
 
 ### DIY Laminar Flow Hood
@@ -77,7 +75,7 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 - Select blower rated for this airflow at ~150 Pa pressure drop through the HEPA
 - Oversize slightly to account for dirty filters and prefilter resistance
 
-**Construction**: Horizontal airflow recommended (air moves back to from boards with transparent plexiglas top for light. See [[mushroom-sterile-technique-detailed]] for HEPA specifications.
+**Construction**: Horizontal airflow recommended (air moves back to front). Enclosure of press boards with transparent plexiglas top for light. See [[mushroom-sterile-technique-detailed]] for HEPA specifications.
 
 **Usage**: Run blower 30 min before work. Wipe sterile area with alcohol-soaked paper before and after 30-min run.
 
@@ -88,13 +86,13 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 | Seedling heat mat with thermostat | $20–40 | Maintain colonization temperature | 75–80°F for most species |
 | shelving unit | $30–80 | Organization | Wire shelves allow air circulation |
 | Insulated cabinet or closet | $0–50 | Temperature stability | Existing closet works; add insulation |
-| Temperature/humidity monitor | $10–30 | [[fungal-biosensors-environmental-monitoring]] | Digital with min/max recording |
+| Temperature/humidity monitor | $10–30 | Environmental monitoring | Digital with min/max recording |
 
 ### Fruiting Chambers
 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
-| SGFC ([[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
+| SGFC (Shotgun Fruiting Chamber) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
 | Monotub | $15–30 | Bulk fruiting | Modified tote with polyfill-filtered holes. Self-contained. |
 | Martha tent (greenhouse) | $60–150 | High-volume fruiting | With humidifier on timer. Best for multiple species. |
 | Humidifier (ultrasonic) | $25–60 | Martha tent humidity | Use distilled water. Connect to timer or hygrostat. |
@@ -125,7 +123,7 @@ Few organisms are as sensitive to environmental fluctuations as mushrooms. Essen
 - **Hygrometer or sling psychrometer**: Measure humidity; calibrate hygrometers periodically with psychrometer
 - **CO2 detector**: Useful but not essential — elevated CO2 indicates need for more fresh air
 - **Moisture meter**: Substrate moisture checking
-- **Spore syringe**: Verify adequate indirect light levels
+- **Light meter**: Verify adequate indirect light levels
 
 ## PF TEK Specific Equipment (Fanaticus)
 
@@ -147,3 +145,51 @@ The original PF TEK requires no pressure cooker. Complete kit:
 ## Indoor Growing Technique Equipment (A4 Doc)
 
 Alternative indoor setup using sealed grow bags with filter patches:
+- Polypropylene grow bags with self-healing injection port and filter patch
+- Liquid culture syringes for faster colonization
+- Heat mat with thermostat for temperature control
+- Spray bottle for humidity management
+
+## Oss & Oeric / Growers Guide Equipment
+
+From the Magic Mushroom Growers Guide (McKenna brothers):
+- **Pressure cooker**: 6-quart Presto minimum; 22-quart recommended. All-American 941 for serious work.
+- **Spore syringes**: 10-20cc capacity. Sterile water + spore print material.
+- **Substrate containers**: Quart canning jars with filter discs, or spawn bags.
+- **Incubation**: Heating pad or warm spot (75-80F). Dark cabinet or closet.
+- **Fruiting environment**: Aquarium or plastic tote with perlite humidification.
+- **Desiccant chamber**: Drying box with silica gel or DampRid for final drying of harvest.
+
+## Setup Tiers
+
+| Tier | Cost | What You Get | Suitable For |
+|---|---|---|---|
+| **Bare minimum** | $30–50 | SAB, pressure cooker, jars, alcohol, torch, perlite, tote | PF Tek, first-time growers |
+| **Standard home lab** | $150–300 | Above + agar supplies, petri dishes, bags, heat mat, monitor | Grain-to-grain, agar work, bulk grows |
+| **Serious hobbyist** | $400–800 | Above + DIY flow hood, Martha tent, humidifier, multiple tubs | Consistent results, multiple species |
+| **Professional** | $2000–5000+ | Commercial flow hood, autoclave, dedicated grow room, environmental controls | Commercial spawn production, gourmet cultivation |
+
+## Sourcing Equipment
+
+- **Mycology suppliers**: Out-Grow, Mushroom Media Online, First Light Mushroom Farm (US)
+- **General**: Amazon, hardware stores for pressure cookers, totes, shelving
+- **Lab supplies**: Scientific supply companies for petri dishes, agar, scalpels, parafilm
+- **HEPA filters**: Luftfilterbau, Fungi Perfecti, or HVAC suppliers (specify H14, 99.97% at 0.3 microns)
+- **DIY**: Many items can be improvised — the key investments are pressure cooker and sterile workspace
+
+
+## Growing Room Design (Stamets)
+
+For professional growing rooms, Stamets specifies air-to-bed ratios (4:1 for grain, 5:1 for compost), minimum 3-5 air exchanges/hour at 85-92% humidity, cooling strategies, humidification methods (steam, atomizing nozzles, evaporative pads), and lighting requirements (6500K fluorescent, 18+ inches above cropping surface). See [[mushroom-grow-room-design]] for complete room design details, including pressure canner specifications.
+
+## See Also
+- [[mushroom-contamination-identification]]
+- [[mushroom-sterile-technique-detailed]]
+- [[mushroom-indoor-cultivation]]
+
+## Related
+
+- [[psylocybe-fanaticus]]
+- [[led-vs-hps-grow-lights]]
+- [[mushroom-species-cultivation-parameters]]
+- [[maitake-cultivation-guide]]

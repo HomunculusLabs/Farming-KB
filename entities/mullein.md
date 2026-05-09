@@ -140,11 +140,12 @@ Mullein is generally considered safe with low toxicity. However:
 - No significant drug interactions have been documented, but the theoretical possibility exists for interactions with sedatives or antihypertensive medications
 - Safety during pregnancy and lactation has not been well-studied; consult a qualified practitioner
 - Mullein seeds are toxic to fish — historically used as a fish poison (piscicide) by Indigenous peoples of the Americas
+## See Also
+
+- [[glycyrrhiza-glabra]] — Licorice root, synergistic respiratory demulcent
+- thyme — Antimicrobial respiratory herb often combined with mullein
+- [[urtica-dioica]] — Nettle, dynamic mineral accumulator for permaculture
 
 ## See Also
 
-- [[plantago-major]] — Plantain, another common roadside medicinal herb for respiratory conditions
-- [[glycyrrhiza-glabra]] — Licorice root, synergistic respiratory demulcent
-- thyme — Antimicrobial respiratory herb often combined with mullein
-- [[taraxacum-officinale]] — Dandelion, fellow dynamic accumulator and pioneer species
-- [[urtica-dioica]] — Nettle, dynamic mineral accumulator for permaculture
+- [[permaculture-dynamic-accumulator-plants]]

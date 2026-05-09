@@ -130,13 +130,8 @@ The high THC content means novice users should approach with caution.
 
 ## See Also
 
-- [[rapd-molecular-marker-techniques-fungi]]
-
 - [[biscotti-cannabis-strain]]
-- [[gelato-cannabis]]
 - [[og-kush]]
-- [[jealousy-cannabis-strain-entity]]
 - [[gorilla-glue]]
-- [[zkittlez]]
 - [[ice-cream-cake-cannabis]]
 - [[runtz-cannabis]]

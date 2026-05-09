@@ -130,13 +130,7 @@ because nature, not man, grows the rice and wheat.
 
 ## See Also
 
-- [[energy-efficiency-farming-systems-comparison]]
 - [[chos-global-natural-farming-input-reduction-methods]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[natural-farming-imo-collection-and-cultivation]]
-- [[natural-farming]]
-
-- Mahayana vs Hinayana Natural Farming
-- The Four Principles of Natural Farming
 - [[natural-livestock-farming]]
 - [[clay-pellet-seed-broadcasting]]

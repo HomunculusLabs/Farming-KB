@@ -110,28 +110,9 @@ poor results and many blocked spray nozzles.
 
 JADAM advocates a practical, incremental approach to pesticide adoption.
 For conventional farmers transitioning to JADAM, the recommendation is to
-start by using [[jadam-pesticide-for-powdery-mildew]], downy mildew, fungus,
-aphids, mites, and moths, while continuing chemical pesticides for other
-problems. Any start should be light-hearted and comfortable.
-
-Once farmers gain confidence, they can progressively replace more chemical
-applications with JADAM natural pesticide. If JADAM pesticide is used at the
-center with occasional commercial pesticides, cost drops to one-tenth of
-conventional chemical-only programs.
-
-## Key Application Principles
-
-- Always spray when humidity is high for maximum pesticide retention
-- Use soft water only; perform foam test before every application
-- Start with low JWA concentration and increase only as needed
-- Test all mixtures in small areas before full-field application
-- Spray early morning or sunset; avoid midday heat
-- JWA alone controls early-stage aphids, mites, and powdery mildew
-- For fog machines, adjust all ingredient ratios accordingly
-- Progressive replacement of chemical pesticides reduces cost gradually
+start by using [[jadam-pesticide-for-aphids-and-mites]]
+- [[jadam-conventional-and-organic-pesticide-integration]]
 
 ## See Also
 
-- [[jadam-pesticide-for-aphids-and-mites]]
-- [[jadam-pesticide-for-slugs-and-snails]]
-- [[jadam-conventional-and-organic-pesticide-integration]]
+- [[jadam-moth-pesticide]]

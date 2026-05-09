@@ -1,22 +1,10 @@
 ---
 title: Keyline Land Shaping
 created: 2026-04-28
-tags: [permaculture, keyline, water-management, earthworks, landscape-design]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Keyline Land Shaping
-
-[[keyline-design]] is a landscape management system developed by [[p-a-yeomans]] and
-widely adopted in [[permaculture]] for its ability to distribute water evenly
+tags: [[keyline-design]] is a landscape management system developed by [[permaculture]] for its ability to distribute water evenly
 across agricultural land, build soil, and increase productivity. In the
 Permaculture Designers Manual, Mollison presents keyline as one of the most
-important earthwork strategies for [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]].
-Keyline connects directly to [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] as a foundational water management tool. The
+important earthwork strategies for [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] as a foundational water management tool. The
 keyline concept identifies natural water flow patterns in undulating terrain
 and uses a specific pattern of cultivation, contour ripping, and water
 harvesting channels to spread rainfall and runoff from wet valleys to dry
@@ -71,35 +59,8 @@ deeper root growth, greater organic matter incorporation, and more active
 soil biology. Over years of keyline management, the soil profile deepens,
 water-holding capacity increases, and the landscape becomes more resilient
 to both drought and flood. These soil-building effects are foundational to
-the success of [[mollison-designers-fuelwood-forestry-systems]] and pasture
-improvement programs on keyline-managed properties.
-
-## Keyline Water Harvesting Structures
-
-### Swales and Contour Channels
-
-In addition to cultivation patterns, keyline design incorporates swales and
-contour channels positioned relative to the keyline to intercept, slow, and
-spread runoff water across the landscape. Swales are shallow, level-bottomed
-channels dug on contour and filled with loose soil or organic matter to
-create a permeable barrier that allows water to infiltrate rather than
-flowing off the property. Keyline swales are positioned to receive water
-from the valley and distribute it along the ridge faces, complementing the
-moisture redistribution achieved by keyline cultivation. Keyline swales
-work alongside [[dam-construction]] to create a complete on-farm water
-storage and distribution network. See [[swale-design]]
-for detailed swale construction principles.
-
-### Dams and Water Storage
-
-Keyline principles guide the placement of dams and water storage. Dams are
-most efficiently sited in the upper valleys above the keypoint, where the
-catchment is largest and the dam wall can be built at the narrowest point
-with the greatest water depth. Water stored in these high-level dams can be
-released through gravity-fed channels to irrigate land below the keyline,
-extending the moisture distribution benefits beyond what rainfall alone
-provides. This integration of storage and distribution is a core element of
-keyline water management and connects directly to [[mollison-designers-roof-water-catchment]] and broader property water planning.
+the success of [[dam-construction]] to create a complete on-farm water
+storage and distribution network. See [[mollison-designers-roof-water-catchment]] and broader property water planning.
 
 ### Spillways and Overflow
 
@@ -117,25 +78,19 @@ long-term safety and viability of any keyline system.
 Keyline land shaping provides the foundational water management framework for
 broader permaculture design. Once the keyline pattern of water distribution is
 established, other elements can be positioned to take advantage of the
-improved moisture regime. Tree crops in [[mollison-designers-windbreak-design-species]] systems benefit from more even soil moisture. Pastures and cropping
-areas become more productive and resilient. [[mollison-designers-free-range-poultry-systems]] have access to improved forage growth across a wider area.
+improved moisture regime. Tree crops in [[mollison-designers-free-range-poultry-systems]] have access to improved forage growth across a wider area.
 The keyline framework integrates all these elements into a coherent, water-
 efficient landscape design. For broader tree planting strategies, see
-[[windbreak-and-shelterbelt-design]].
-
-## See Also
-
-[[organic-vegetable-growing-and-market-gardening]] — Step-by-step swale construction for water harvesting
-[[water-catchment-permaculture]] — Permaculture approaches to catching and storing water
+[[organic-vegetable-growing-calendar]] — Step-by-step swale construction for water harvesting
 [[watershed-management]] — Managing water at the landscape and watershed scale
 
 ## Summary
 
 Keyline land shaping uses the natural geometry of valleys and ridges to design
 cultivation patterns and earthworks that distribute water evenly across the
-landscape, forming a core element of [[water-management]] in [[permaculture]].
+landscape, forming a core element of [[permaculture]].
 By identifying keypoints and keylines, cultivating on specific
-patterns, and building [[swale-design|swales]], [[dam-construction|dams]], and spillways in relation to these lines,
+patterns, and building [[dam-construction|dams]], and spillways in relation to these lines,
 the designer creates a self-fertilizing, drought-resilient landscape. Keyline
 is foundational to broadacre permaculture design and connects water management
 to soil building, forestry, and productive agriculture. For related water storage

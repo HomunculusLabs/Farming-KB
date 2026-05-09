@@ -119,5 +119,4 @@ At homestead scale, BSF larvae production costs are primarily labor and bin mate
 
 ## See Also
 
-- [[comparison-black-soldier-fly-vs-vermicomposting]]
-- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
+- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]

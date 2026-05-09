@@ -128,9 +128,9 @@ mushrooms.
 
 ## Harm Substitution Concerns
 
-The recent prohibition of [[psilocybin-compound]] and [[psilocin]] containing fungi has
+The recent prohibition of [[psilocin]] containing fungi has
 provoked an emerging interest of retailers in alternative, legal types of
-hallucinogenic mushroom such as [[amanita-muscaria]] (fly agaric). The active
+hallucinogenic mushroom such as [[fly-agaric]]). The active
 chemicals in these are known to carry substantial toxicity risks and some
 closely related Amanita species are highly toxic. This harm substitution
 effect demonstrates that regulatory responses can have unintended
@@ -144,7 +144,6 @@ interests, legal frameworks, and user experience. The identification and
 monitoring of emerging trends demands a different approach from traditional
 drug surveillance, one that considers the role of lifestyle trends, economic
 forces, and the speed of internet-facilitated diffusion. The case illustrates
-how legal responses can both curb a trend and unintentionally shift it toward
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]

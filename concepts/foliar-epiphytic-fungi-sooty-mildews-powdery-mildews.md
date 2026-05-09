@@ -3,7 +3,7 @@ title: Foliar Epiphytic Fungi — Sooty Molds, Black Mildews, Downy Mildews
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -101,11 +101,7 @@ Obligate biotrophic Ascomycota producing white powdery growth on leaf surfaces. 
 
 ## See Also
 
-- [[straminipiles-oomycetes-fungus-like-chromists]]
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
-- [[rust-fungi-biodiversity-life-cycles]]
 - [[moist-chamber-technique-fungal-fruiting]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[fungal-interactions-living-plant-surfaces]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[fungal-biodiversity-tropical-forests]]

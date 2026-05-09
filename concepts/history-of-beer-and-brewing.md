@@ -76,18 +76,14 @@ The medicinal use of beer extends back thousands of years. Herbal beers were use
 
 ## See Also
 
-- [[beer-brewing-basics]] for modern homebrewing techniques
 - [[gruit-beer-and-herbs]] for the herbal tradition in European brewing
 - sacred brewing traditions for ritual and ceremonial aspects
 - malt and malting process for the science of malt production
 - ale vs lager fermentation for differences between top and bottom fermentation
 - herbal beer ingredients for traditional and unusual brewing herbs
-- [[yeast-biology]] for the microorganisms behind fermentation
 - [[food-fermentation-guide]] for broader fermentation science
 
 ## Related
 
-- [[barley-varieties-for-brewing]]
 - [[wild-yeast-bread-baking]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

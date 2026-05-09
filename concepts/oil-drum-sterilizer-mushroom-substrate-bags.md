@@ -3,7 +3,7 @@ title: Oil Drum Sterilizer for Mushroom Substrate Bags
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom-cultivation, substrate-sterilization, low-cost-equipment,
+tags: [[mushroom-cultivation, substrate-sterilization, low-cost-equipment,
        developing-countries, diy-equipment, pasteurization, oyster-mushroom]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
@@ -129,8 +129,6 @@ compatibility with various fuel sources available in rural areas.
 
 ## See Also
 
-- [[mushroom-substrate-sterilization-and-pasteurization]]
 - [[pasteurization-vs-sterilization]]
-- [[growing-gourmet-autoclave-retort-selection]]
 - [[mushroom-country-style-pasteurization]]
 - [[low-cost-mushroom-growing-house-construction-developing-countries]]

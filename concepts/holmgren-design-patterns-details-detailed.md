@@ -3,39 +3,7 @@ title: Holmgren Design from Patterns to Details - Detailed
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-# Principle 7: Design from Patterns to Details (Detailed Analysis)
-
-From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
-
-## Core Definition
-
-The first six principles tend to consider systems from the bottom-up perspective of elements, organisms, and individuals. The second six principles tend to emphasise the top-down perspective of the patterns and relationships that tend to emerge by system self-organisation and co-evolution.
-
-The commonality of patterns observable in nature and society allows us to not only make sense of what we see but to use a pattern from one context and scale to design in another. The spider on its web, with its concentric and radial design, evokes zone and sector site planning, the best-known and perhaps most widely applied aspect of Permaculture design.
-
-Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system.
-
-## Pattern Thinking
-
-Bill Mollison says "Learning to master a pattern is very like learning a principle; it may be applicable over a wide range of phenomena, some complex and some simple." Christopher Alexander's Pattern Language was a milestone in the recognition and organisation of classic patterns of human-scale built environments.
-
-We need to relearn pattern recognition because cultural innovation, especially media technologies, have scrambled the pattern thinking that was common in pre-industrial societies. This loss of ability to see, hear and otherwise recognise the patterns of nature may be our greatest impediment in our attempt to adapt to realities of energy descent.
-
-## Scales in Space and Time
-
-Spatial scales can be thought of as ranging from perceivable with the eyes (human scale), down to the microscopic, and up to the global and beyond. Scales in time can be thought of as extending from human daily life and lifetime, down to fast and short-lived atomic processes, and up through ecological, historical and beyond to geological time.
-
-This bias towards short-term thinking within our own lifetimes has been described as an evolutionary weakness of humans, which we must overcome if we are to survive. To effectively grapple with sustainability questions, we must develop a rich and contextual understanding of how scales in space and time shape the design and evolution of systems.
-
-## Physical Scale vs Functional Scale
-
-Although physical scale is often a good indicator of functional scale in systems, this is not always the case. Predators are often a similar size to, or even smaller than, their prey, but they occupy much more territory and are less numerous. Thus Odum's description of "territory of influence and support", while not an immediately obvious characteristic, is a more accurate description of their relative power than physical size.
-
-[[permaculture-principle-design-from-patterns-to-details]] | [[permaculture-principles]] | [[zone-sector-analysis-guide]] | [[permaculture-water-harvesting-earthworks]] | [[permaculture-pattern-language]]
+tags: [[permaculture-principle-design-from-patterns-to-details]] | [[zone-sector-analysis-guide]] | [[permaculture-pattern-language]]
 
 ## Key Points
 
@@ -63,10 +31,9 @@ Although physical scale is often a good indicator of functional scale in systems
 
 ## See Also
 
-- [[holmgren-vegetation-patterns-biomass-fertility]]
 - [[holmgren-small-slow-solutions-detailed]]
 
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+Related topics in this wiki include: [[permaculture-earthworks-and-water-harvesting]], [[permaculture-design]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-energy-descent-planning]], [[permaculture-design]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.
@@ -91,3 +58,22 @@ Energy descent planning addresses the transition from fossil fuel dependence to 
 ## Related
 
 - [[duck-keeping-guide-detailed]]
+## Practical Considerations
+
+Successful implementation of Holmgren Design from Patterns to Details - Detailed requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

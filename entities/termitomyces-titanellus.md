@@ -100,21 +100,12 @@ Bioactive compounds identified in *Termitomyces* species include ergosterol (a v
 
 ## See Also
 
-- [[termitomyces-eurrhizus]]
 - [[termitomyces-umkowaani]]
-- [[psilocybe-cubensis]]
 - [[ganoderma-lucidum]]
-- [[lentinula-edodes]]
 - [[pleurotus-ostreatus]]
-- [[agaricus-bisporus]]
 - [[stropharia-rugosoannulata]]
-- [[fomes-fomentarius]]
 - [[grifola-frondosa]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[wolfiporia-extensa]]
-- [[tremella-fuciformis-entity]]
 - [[volvariella-volvacea]]
-- [[phellinus-igniarius-entity]]
 - [[poria-cocos]]
-- [[hericium-erinaceus]]
 - [[coprinus-comatus-detailed]]

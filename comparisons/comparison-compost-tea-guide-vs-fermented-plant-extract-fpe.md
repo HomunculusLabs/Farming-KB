@@ -17,47 +17,12 @@ Compost tea and fermented plant extract (FPE) are two popular liquid biological
 amendments in organic and natural farming systems, but they originate from
 different traditions, deliver different benefits, and require different
 production methods. Compost tea — specifically Actively Aerated Compost Tea
-(AACT) — extracts and multiplies the [[soil-food-web]] organisms from mature compost
-into a liquid suspension for soil drenching or foliar application. Fermented
-plant extract (FPJ/FFJ in [[korean-natural-farming]]) uses sugar fermentation to
+(AACT) — extracts and multiplies the [[korean-natural-farming]]) uses sugar fermentation to
 extract bioavailable nutrients, enzymes, and plant hormones from fresh plant
 material. Both serve as alternatives to synthetic liquid fertilizers while
 building soil and plant health through biological means.
 
 ## Compost Tea
-
-[[compost-tea-guide]]
-
-Actively Aerated Compost Tea is a liquid extract of mature compost that has been
-actively aerated to multiply beneficial microorganisms — bacteria, fungi,
-protozoa, and nematodes — into a concentrated biological inoculant. The brewing
-process involves steeping high-quality compost in aerated water (maintained
-above 6 ppm dissolved oxygen) with microbial food sources (molasses for
-bacteria, kelp and fish hydrolysate for fungi) for 24 to 36 hours. The result is
-a diverse community of soil food web organisms delivered in liquid form to soil
-or foliage.
-
-The strength of compost tea lies in delivering the full soil food web. A
-well-brewed tea applied as a soil drench inoculates soil with bacteria, fungi,
-protozoa, and nematodes that cycle nutrients, suppress pathogens, and build soil
-structure. As a foliar spray, compost tea coats leaf surfaces with beneficial
-organisms that occupy infection sites and compete with pathogens. The approach is
-highly customizable: bacterial-dominant teas support annual vegetables and early
-succession plants, while fungal-dominant teas benefit perennials, trees, and
-late-succession ecosystems. Microscope testing allows brewers to verify organism
-diversity and density.
-
-The limitations are operational. Compost tea has essentially zero shelf life — it
-must be used within four to six hours of brewing before the aerobic organisms
-begin to die and anaerobic organisms proliferate. Brewing requires dissolved
-oxygen monitoring and equipment investment (air pumps, brewing vessels, compost
-tea bags). The quality of the finished tea depends entirely on the quality of
-the starting compost — poor compost produces poor tea. Anaerobic conditions
-during brewing produce harmful biology that can damage plants. True AACT cannot
-be shipped, stored, or sold commercially — it must be brewed on-site and applied
-immediately.
-
-## Fermented Plant Extract
 
 [[fermented-plant-extract-fpe]]
 
@@ -141,10 +106,7 @@ as foliar sprays during specific growth phases (FPJ during vegetative growth,
 FFJ during flowering and fruiting). Some growers add FPJ to compost tea brews as
 a bacterial food source, blending the KNF and soil food web approaches into a
 single liquid amendment.
-
 ## See Also
-
-- [[comparison-mead-vs-kvass-fermented-beverages]]
 
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]

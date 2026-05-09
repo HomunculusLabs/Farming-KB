@@ -55,44 +55,7 @@ radioactive contaminants in forest ecosystems.
 Dighton and Horrill (1988) conducted a comprehensive study of
 radiocaesium accumulation in ectomycorrhizal fungi across
 upland Britain, with Inocybe longicystis as one of the focal
-species investigated alongside [[lactarius-rufus]]. Their
-research was published in the Transactions of the British
-Mycological Society and provided valuable bioaccumulation data
-for understanding radionuclide transfer through fungal food
-webs. The study measured accumulation factors that quantify
-the ratio of radiocaesium concentration in fungal tissue to
-that in the surrounding substrate, providing a standardized
-metric for comparing bioaccumulation potential across
-different fungal species and environmental conditions.
-
-The accumulation factors recorded for I. longicystis varied
-depending on the substrate type and site conditions. In SB
-peat under Sitka spruce (Picea sitchensis), the species
-exhibited an accumulation factor of 75. In S4 peat, also
-under Picea sitchensis, the accumulation factor was 83. These
-values indicate a substantial capacity for radiocaesium
-concentration from peat substrates, with fungal tissue
-containing approximately 75 to 83 times the radiocaesium
-concentration found in the surrounding peat matrix. This
-level of bioaccumulation suggests that I. longicystis plays a
-significant role in the biological cycling of radiocaesium in
-contaminated peatland environments.
-
-## Peatland Ecosystems
-
-The occurrence of Inocybe longicystis in peatland ecosystems
-under coniferous forest cover is ecologically significant for
-several reasons. Peat soils often have high organic matter
-content, low bulk density, and distinctive hydrological
-properties that influence the mobility and bioavailability of
-radionuclides and other contaminants. The affinity of
-I. longicystis for these substrates, combined with its
-demonstrated capacity to concentrate radiocaesium, positions
-the species as an important vector for radionuclide transfer
-from abiotic substrate pools into biotic food webs.
-
-In coniferous plantations established on peatlands, the
-[[ectomycorrhizal-associations]] formed by species such as
+species investigated alongside [[ectomycorrhizal-associations]] formed by species such as
 I. longicystis represent a critical pathway for the movement
 of radionuclides from soil into the fungal biomass and
 subsequently into mycophagous animals and higher trophic
@@ -118,18 +81,6 @@ fungivorous organisms that consume fungal fruiting bodies or
 mycelium.
 
 The data from Dighton and Horrill (1988) for I. longicystis
-and [[lactarius-rufus]] contribute to a growing body of
-evidence that ectomycorrhizal fungi are key players in
-radionuclide biogeochemistry. Understanding the species
-specific differences in radionuclide accumulation, such as
-those demonstrated by I. longicystis across different peat
-types, is essential for accurate modeling of contaminant
-fate and transport in forested ecosystems affected by
-radioactive fallout from nuclear accidents or weapons testing.
-
-## See Also
-
-- [[lactarius-rufus]]
-- [[paxillus-involutus]]
+and [[lactarius-rufus]]
 - [[laccaria-laccata]]
 - [[cenococcum-geophilum]]

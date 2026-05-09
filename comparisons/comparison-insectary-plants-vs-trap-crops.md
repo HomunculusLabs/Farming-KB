@@ -15,38 +15,6 @@ Both insectary plants and trap crops are non-chemical strategies for managing pe
 - **Best results** = use both together in a layered defense system
 - **Quick rule**: if your main problem is *too few beneficials*, plant insectaries; if it is *too many of a known pest*, plant trap crops
 ## Insectary Plants
-[[insectary-plantings]]
-Dedicated areas of flowering plants grown specifically to attract, feed, and shelter beneficial insects (predators, parasitoids, pollinators), reducing the need for chemical pest control. Rather than targeting pests directly, insectary plantings strengthen the natural enemy community that keeps pest populations in check.
-### How They Work
-Insectary plants provide food resources (nectar, pollen, alternative prey) and structural habitat that sustain populations of insects that prey on or parasitize crop pests. Parasitic wasps, for example, need nectar from small-flowered plants to sustain their egg-laying capacity. Lady beetles require pollen sources to build up numbers before aphid outbreaks occur. By building a robust community of natural enemies year-round, pest pressure is reduced across the entire growing area before it becomes economically damaging.
-The mechanism is indirect: more flowers lead to more beneficials, which leads to fewer pests. This creates a trophic cascade that strengthens over time as predator populations build and persist in the landscape.
-### Key Plant Families
-- **Umbellifers** (dill, fennel, cilantro, Queen Anne's lace): shallow nectar in tiny flowers attracts parasitic wasps, hoverflies, and tachinid flies; these are among the most effective natural enemies of caterpillar and aphid pests
-- **Composites** (cosmos, zinnia, sunflower, yarrow): open-faced flowers support a wide range of pollinators, ladybugs, and predatory bugs; long bloom periods extend the feeding window through summer
-- **Mints** (catnip, agastache, lavender, bee balm): tubular flowers provide deep nectar reserves for long-tongued bees and butterflies; aromatic foliage may also repel certain pests as a secondary benefit
-- **Legumes** (clover, vetch, sweet clover): fix nitrogen to improve soil fertility while their flowers feed beneficial insects such as parasitic wasps and syrphid flies
-- **Brassicas** (sweet alyssum): low-growing, prolific bloomers that attract hoverflies whose larvae consume aphids
-- **Asteraceae herbs** (calendula, borage): versatile bloomers that attract both pollinators and predatory insects; borage is especially attractive to beneficial wasps
-### Design Strategies
-- **Insectary strips**: planted every 50-100 ft through crop fields, creating corridors that allow beneficials to disperse rapidly across the production area
-- **Hedgerows**: permanent borders of mixed flowering shrubs and perennials that serve as year-round reservoirs for overwintering beneficials
-- **Interplanting**: mix insectary plants among crops at a 1:5 to 1:10 ratio, placing them close enough that beneficials can find pests quickly
-- **Cover crop insectaries**: buckwheat, phacelia, and clover used as living mulches or between-season covers that double as beneficial insect habitat
-- **Rotational insectaries**: dedicate specific field sections to insectary cover crops on a rotation, building soil and beneficials simultaneously
-### Advantages
-- Reduces pesticide reliance over time by establishing self-sustaining natural enemy populations
-- Supports pollination services for nearby fruiting and seed crops, increasing yields
-- Provides overwintering habitat that ensures beneficials survive winter and emerge early in spring
-- Integrates naturally into farm landscapes as strips, hedgerows, or interplantings without disrupting operations
-- Contributes to overall farm biodiversity and ecosystem resilience
-- Can improve soil health when leguminous or deep-rooted insectary species are used
-### Limitations
-- Requires planning for continuous bloom sequences across the full growing season
-- Takes time (often a full season or more) before beneficial populations reach effective densities
-- Some insectary species (fennel, dill, cilantro) can become weedy if allowed to self-seed aggressively
-- Dedicates growing space that could otherwise produce cash crops, though pest control value often offsets this cost
-- Benefits are diffuse and hard to quantify compared to the obvious results of trap cropping
-## Trap Crops
 [[trap-cropping]]
 Growing sacrificial crops that attract pests away from the main cash crop, concentrating them for monitoring and targeted management as part of an IPM strategy. Trap crops exploit the feeding and oviposition preferences of pests to create a decoy that intercepts them before they reach the harvest crop.
 ### How They Work
@@ -116,9 +84,6 @@ This combination leverages the strengths of each approach: the long-term resilie
 A simple field layout for combining both strategies: plant insectary hedgerows along field edges for permanent beneficial habitat, interplant insectary flowers every 50 ft as internal beneficial corridors, and dedicate a 5-10% perimeter strip to the appropriate trap crop for the primary pest of concern. Monitor the trap crop weekly and treat or remove it before pests complete their lifecycle.
 ## See Also
 
-- [[comparison-insectary-plants-vs-trap-cropping]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]: broader guide to plant pairings for mutual benefit, including pest deterrence and growth enhancement
-- [[beneficial-insects-guide]]: identification and life cycle details for key predatory and parasitic insects
 - [[beneficial-insect-habitat]]: creating year-round habitat features beyond flowering plants (ground cover, water, nesting sites)
-- [[trap-cropping]]: in-depth guide to selecting, deploying, and managing trap crops for specific pest scenarios
 - [[integrated-pest-management]]: comprehensive framework combining biological, cultural, and mechanical controls with minimal chemical inputs

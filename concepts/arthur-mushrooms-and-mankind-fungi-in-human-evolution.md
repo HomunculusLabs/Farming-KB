@@ -114,28 +114,15 @@ Arthur notes that "Fly Agaric" is commonly associated with the house fly, but ev
 
 ## See Also
 
-- [[human-uses-fungi-history]]
-
 - [[permaculture-settlement-design]]
 
-- [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
-
 - [[amanita-muscaria-guide]]
-- [[amanita-muscaria-cultural-history]]
 - [[amanita-muscaria-ethnobotany]]
-- [[fly-agaric-siberian-shamanic-practice]]
 - [[fly-agaric-santa-claus-myth]]
-- [[christmas-mushroom-symbolism]]
 - [[sacred-mushroom-and-the-cross]]
-- [[john-allegro]]
 - [[soma-haoma-hypothesis]]
-- [[soma-vedic-history]]
 - [[gordon-wasson-comparative-method-ethnomycology]]
-- [[ethnomycology-wasson-discovery-narrative]]
 - [[rammed-earth]]
-- [[entheogenic-knowledge-secret-societies]]
 - [[entheogen-culture]]
-- [[mycorrhiza]]
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
-- [[siberian-fly-agaric-tradition]]
 - [[indole-hallucinogens-and-human-evolution]]

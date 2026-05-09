@@ -123,4 +123,4 @@ Ramsbottom cited these standard works:
 Ramsbottom's work is referenced in modern [[mushroom-identification]] guides, [[mushroom-poisoning-guide]], and [[mushroom-poisoning-guide]]. His insistence on species-specific identification rather than reliance on folk rules remains the gold standard in foraging safety education. See [[ramsbottom-poisonous-fungi-species]] for his complete species descriptions.
 
 ## Related
-[[mushroom-cultivation-fundamentals]], [[edible-wild-mushrooms-by-region]], [[mushroom-folklore-and-culture]], [[mushroom-poisoning-guide]], [[ramsbottom-poisonous-fungi-species]]
+[[mushroom-identification-resources]], [[edible-wild-mushrooms-by-region]], [[mushroom-folklore-and-culture]], [[mushroom-poisoning-guide]], [[ramsbottom-poisonous-fungi-species]]

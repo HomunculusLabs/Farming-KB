@@ -20,61 +20,16 @@ type: concept
 
 The practical section of Fukuoka's work begins with the fundamental question every aspiring
 natural farmer faces: where and on what type of land to live. His guidance integrates
-[[mollison-design-criteria-and-aboriginal-ecological-wisdom]], practical experience, and spiritual philosophy into a comprehensive
-approach to establishing a self-sufficient farm.
-
-## Choosing a Site
-
-Although some may share the woodsman's preference for the isolation and solitude of a
-mountain forest, the best course generally is to set up a farm at the foot of a hill or
-mountain. Weather is often most pleasant when the site is slightly elevated. Abundant
-firewood, vegetables, and other necessities are to be had here, providing all the materials
-required for food, clothing, and shelter. Having a stream nearby helps make crops easy to
-grow. This type of location thus provides all the conditions essential for setting up an easy
-and comfortable life.
-
-Of course, with effort, crops can be made to grow on any type of land, but nothing compares
-with richly endowed land. The ideal location is one where enormous trees tower above the
-earth, the soil is deep and a rich black or brown in color, and the water is clear. Scenic
-beauty perfects the site. A good environment in an attractive setting provides the physical
-and spiritual elements necessary for living a pleasant life.
-
-The natural farm must be able to supply all the materials and resources essential for food,
-clothing, and shelter. In addition to fields for growing crops, a complete natural farm should
-include also a bordering wood.
-
-## The Natural Protected Wood
-
-The woods surrounding a natural farm should be treated as a natural preserve for the farm and
-used as a direct or indirect source of [[organic-fertilizer-sources-guide]]. The basic strategy for achieving
+[[organic-fertilizer-sources-guide]]. The basic strategy for achieving
 long-term, totally fertilizer-free cultivation on a natural farm is to create deep, fertile
 soil. There are several ways of doing this:
 
-1. Direct burial of coarse [[solomon-compost-organic-matter]] deep in the ground.
-2. Gradual [[mollison-permaculture-two-broadscale-soil-improvement]] by planting grasses and trees that send roots deep into the soil.
+1. Direct burial of coarse [[mollison-permaculture-two-broadscale-soil-improvement]] by planting grasses and trees that send roots deep into the soil.
 3. Enrichment of the farm by carrying nutrients built up in the humus of the upland woods
    or forest downhill with rainwater or by other means.
 
 Whatever the means employed, the natural farmer must secure a nearby supply of humus that can
-serve as a source of [[query-how-does-rock-dust-improve-soil-fertility]].
-
-## Growing a Wood Preserve
-
-Being generally infertile and dry, hill and mountain tops are highly susceptible to
-denudation. The first thing to do is plant a vine such as kudzu to prevent the soil from
-washing away. Next, sow the seeds of a low conifer such as moss cypress to create a mountain
-cover of evergreens. This vegetation gradually gives way to urajiro (a fern), kudzu, and a
-mix of trees which further enriches the soil.
-
-Evergreens such as Japanese cypress and the camphor tree should be planted on hillsides, and
-together with these, deciduous trees such as Chinese hackberry, zelkova, paulownia, cherry,
-maple, and eucalyptus. Plant the fertile land at the foot of hills and in valleys with oak and
-evergreens such as cryptomeria and live oak, interplanting these with walnut and ginkgo.
-
-## The Bamboo Grove as Reserve
-
-A bamboo grove may serve equally well as the reserve. It takes a bamboo shoot only one year to
-grow to full size, so the amount of [[green-cannabis-vegetative-growth]] is greater than for ordinary trees. Bamboo
+serve as a source of [[green-cannabis-vegetative-growth]] is greater than for ordinary trees. Bamboo
 is therefore valuable as a source of coarse organic material that can be buried in the ground
 for soil improvement. Not only can the shoots of certain species of bamboo be sold as a
 vegetable, when dried the wood is light and easy to carry. Bamboo is hollow and so has a
@@ -146,5 +101,4 @@ process has serious drawbacks:
 Traditional Japanese farmers of old chose to live in mountain valleys where there was far less
 cause to fear violent flooding and strong winds. They set up small fields in the valleys or
 built terraced rice fields on the hillsides, working with the natural contours of the land.
-
 ## See Also

@@ -80,14 +80,8 @@ Several practical methods are available for studying fungal cell structure:
 
 ## See Also
 
-- [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[cellulase-enzyme-systems-in-fungi]]
-
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[mycelium-as-network-organism]]
 - [[fungal-chitin-decomposition-nutrient-cycling]]
-- [[fungal-cellulose-decomposition-fungal-enzymes]]
 - [[gadd-fungal-nutrition-metabolism]]
-- [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-biodiversity-conservation]]

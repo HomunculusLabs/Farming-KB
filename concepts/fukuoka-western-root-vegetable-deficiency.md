@@ -126,8 +126,6 @@ the land.
 
 ## See Also
 
-- [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-five-grains-food-mandala]]
-- [[fukuoka-natural-foods-movement-america]]
 - [[fukuoka-diet-blood-thought-civilization]]
 - [[fukuoka-natural-diet-four-types]]

@@ -19,7 +19,7 @@ type: concept
 
 # Pesticides Create Pest Problems in the Citrus Orchard
 
-Masanobu Fukuoka's [[fukuoka-natural-farming-philosophy]] includes a devastating critique
+[[fukuoka-natural-farming-philosophy]] includes a devastating critique
 of pesticide use in orchards, arguing not merely that pesticides are ineffective but that
 they are the primary cause of the pest problems they purport to solve. Through decades of
 observation in his own citrus orchard, Fukuoka documented case after case in which the
@@ -112,11 +112,5 @@ allow natural predators to function.
 
 ## Broader Implications
 
-Fukuoka's observations anticipate the principles of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] by decades. His work demonstrates that the most effective pest
-management strategy is not to eliminate pests but to cultivate the conditions under which
-natural ecological regulation can function. This requires patience, observation, and a
-willingness to tolerate low levels of pest presence as the price of maintaining the
-predator populations that prevent outbreaks.
-
-See also [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] for more detail
+Fukuoka's observations anticipate the principles of [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] for more detail
 on the arrowhead scale case, and [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] for how this principle extends beyond orchards to entire forest ecosystems.

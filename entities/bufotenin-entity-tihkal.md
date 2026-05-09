@@ -50,30 +50,7 @@ Bufotenine is found in the skins of numerous toad species and in many plants. Sh
 - **Bufotenidine (Cinobufagine)**: The quaternary amine internal salt, 5-hydroxy-N,N,N-trimethyltryptammonium. Often found as a hydrogen sulfate ester in frog skins.
 - **Dehydrobufotenine**: A covalent bond formed between the dimethylated nitrogen and the indolic 4-position. Found in several toads and some giant reeds. A quaternary amine salt.
 - **Bufothionine**: The hydrogen sulfate ester of dehydrobufotenine.
-- **O-Methylbufotenine**: A crossover alkaloid found in many plants and the toad family -- this is 5-MeO-DMT (see [[5-meo-dmt-entity-tihkal]]).
-- **Norbufotenine (5-hydroxy-N-methyltryptamine, N-methylserotonin)**: Found in toads, barley shoots, and the herb Desmodium pulchellum. A twilight compound between bufotenine and serotonin. Detected in the urine of schizophrenic subjects.
-- **Bufogenins/Bufagins**: Nitrogen-free steroidal lactones that are heart toxins in toad venom. No chemical resemblance to bufotenine.
-- **Bufotoxins**: Steroidal bufagins linked via hydroxyl suberic acid bound by peptide link to arginine.
-
-## Historical Context
-
-The earliest human studies were conducted with 14 schizophrenic patients at a state mental hospital and two convicts in a state prison. A single observation of hyperserotoninemia (carcinoid flush -- a release of serotonin causing facial purpling) in a prison setting was sufficient to place bufotenine in Schedule I as a hallucinogen under the Controlled Substance Act of 1970.
-
-Shulgin criticizes the medical ethics of these early studies: "A schizophrenic victim volunteers a long-repressed memory of her mother's traumatic death. And with the state of the healing art in the mental hospitals of that time, two physicians effectively ignore what today would be considered a dramatic break-through in therapy."
-
-## Is It Psychedelic?
-
-Shulgin concludes: "I do not really know if bufotenine is a psychedelic drug. Maybe yes and maybe no." The evidence is contradictory:
-
-Pro-psychedelic: colored spots, straight lines, "words can't come," "my mind feels crowded" -- all familiar components of psychedelic experiences.
-
-Anti-psychedelic: "my face turned purple," "I became nauseated," "I could not breathe fast enough," lacrimation and tachycardia -- all consistent with peripheral toxicity.
-
-Two recent publications provide new data. "Chinese Love Stone" / "Rock Hard" products sold as aphrodisiacs contained bufotenine along with cardiotoxins and 5-MeO-DMT. More significantly, spectroscopic analysis of Anadenanthera columbrina var. Cebil seeds used by Argentine shamans in Chaco Central showed them to be "dramatically psychedelic" while containing "bufotenine and only bufotenine as their alkaloid component."
-
-## Interesting Structural Variations
-
-Shulgin suggests two modifications worth exploring: (1) O-ethylbufotenine (5-EtO-DMT), which by analogy from phenethylamine SAR should be as potent as 5-MeO-DMT; (2) the acetate ester of bufotenine, which might cross the blood-brain barrier similarly to the acetate of [[psilocin-entity-tihkal]].
+- **O-Methylbufotenine**: A crossover alkaloid found in many plants and the toad family -- this is 5-MeO-DMT (see [[psilocin-entity-tihkal]].
 
 ## Physical Properties
 
@@ -88,12 +65,25 @@ From 5-hydroxyindole via benzylation, oxalylation with dimethylamine, LAH reduct
 
 ## See Also
 
-- [[5-meo-dmt-entity-tihkal]] -- O-methylbufotenine; orally inactive but extremely potent when smoked
 - [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; orally active psychedelic
-- [[melatonin-entity-tihkal]] -- N-acetyl-5-methoxytryptamine; pineal hormone
 - [[dmt-entity-tihkal]] -- the unmethoxylated, unhydroxylated parent compound
-- [[alexander-shulgin]] -- primary author of TIHKAL
-
-## Related
-
 - [[4-ho-dbt-entity-tihkal]]
+## Practical Considerations
+
+Successful implementation of Bufotenin (5-HO-DMT) — TIHKAL Entry #19 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

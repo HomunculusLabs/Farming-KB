@@ -124,7 +124,6 @@ compassionate use through special access programs.
 Natural-growing psilocybin mushrooms are decriminalized in jurisdictions
 including the Netherlands (fresh, not dried), several US cities, and parts
 of Brazil.
-
 ## Related Compounds
 
 - **Psilocin (4-HO-DMT)** — active metabolite; 10–40× more potent at 5-HT2A
@@ -137,14 +136,9 @@ lower potency.
 
 ## See Also
 
-- [[psilocybin-compound]]
 - [[psilocin]]
-- [[bufotenin]]
 - [[baeocystin]]
-- [[norbaeocystin]]
 - [[4-aco-dmt]]
-- [[5-meo-dmt]]
 - [[tryptamine]]
-- [[dmt]]
 - [[dimethyltryptamine]]
 - [[serotonin]]

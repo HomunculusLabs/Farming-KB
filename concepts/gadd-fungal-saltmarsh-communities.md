@@ -71,23 +71,7 @@ A key breakthrough was the discovery that laccase can extensively break down lig
 
 ## Ecological Significance
 
-The salt marsh [[fungal-decomposition]] system has several distinctive features:
-1. **Standing decay above waterline** - unlike most aquatic/marine decomposition
-2. **Ascomycete dominance** - contrasting with basidiomycete dominance in terrestrial systems
-3. **Laccase-based lignocellulolysis** - without peroxidases
-4. **High productivity** - comparable to forest ecosystems
-5. **Food web base** - fungal production feeds grazing invertebrates and supports higher trophic levels
-
-## Open Questions
-
-1. What oxidation mediators (if any) are produced by cordgrass ascomycetes alongside their laccases?
-2. Is there synergy between laccases produced by the three major species?
-3. Which ascomycetous laccases are active at different points in the decay process?
-4. Are there major differences in laccase lignolysis products among the cordgrass ascomycetes?
-
-## Key References
-
-- Newell, S.Y. (1993, 1996, 2001a, 2001b, 2002). Salt marsh [[fungal-ecology]].
+The salt marsh [[fungal-ecology]].
 - Newell, S.Y. & Porter, D. (2000). Microbial secondary production from saltmarsh grass shoots.
 - Newell, S.Y. et al. (1996). Lignocellulolysis by ascomycetes of saltmarsh grass.
 - Lyons, J.I. et al. (2003). Diversity of ascomycete laccase gene sequences in salt marsh.
@@ -98,6 +82,5 @@ The salt marsh [[fungal-decomposition]] system has several distinctive features:
 
 ## See Also
 
-- [[the-soil-food-web]]
 - [[soil-food-web-nutrient-cycling]]
 - [[fungal-biodiversity-forest-ecosystems]]

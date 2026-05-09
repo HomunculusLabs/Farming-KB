@@ -112,10 +112,7 @@ Steven Pollock collected the original specimen in September 1977 while searching
 
 ## See Also
 
-- [[psilocybe-mexicana]]
-- [[psilocybe-cubensis-entity]]
-- [[psilocybin-compound]]
+- [[psilocybe-cubensis]]
 - [[psilocin]]
-- [[baeocystin]]
 - [[gymnopilus-spectabilis-entity]]
-- [[panaeolus-cyanescens]]
+- [[panaeolus-cyanescens-entity]]

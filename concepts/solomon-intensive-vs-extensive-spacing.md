@@ -88,12 +88,8 @@ The supposed yield-per-square-foot advantage of intensive gardening is largely t
 
 ## Related
 
-- [[solomon-crop-rotation-and-garden-planning]] for detailed row spacing methods
 - [[intensive-gardening-critique-solomon]] for watering approaches
-- [[intensive-gardening-critique-solomon]] for bed construction
 - [[solomon-mulching-and-cover-cropping]] for moisture conservation
-- [[solomon-root-systems-and-spacing-science]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[solomon-gardening-when-it-counts-index]]
 - [[solomon-growing-beans-and-peas]]
 - [[cover-crop-species-comparison]]

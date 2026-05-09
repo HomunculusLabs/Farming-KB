@@ -95,55 +95,9 @@ The method for producing strong, regionally adapted seeds:
    has the best genetic material
 3. Resow collected seeds in new locations: good and poor soil, sunny and
    shady areas
-4. Plants from the [[krameterhof-holzer-model-farm]] survive
-   anywhere because they can endure the harsh Alpine climate
-
-### Expected Mutations
-
-Abundant diversity is the key phrase when working with heritage seeds:
-- Purple potatoes
-- Yellow tomatoes
-- Green cauliflowers
-- Kohlrabi as spicy as horseradish
-- Horseradish as mild as kohlrabi
-
-The taste and quality of these mutations is far superior to standardised
-supermarket varieties. After several years, one variety will dominate,
-thriving best in the specific environment. This is natural selection, and
-Holzer helps it by always choosing plants with the best yield and taste.
-
-### Seed Production with Biennial Plants
-
-For cabbage, beets, turnips, and carrots:
-1. Choose the strongest plant from the poorest spot in autumn
-2. Gently pull it out with the root
-3. Replant in a bed of sand in a dark cellar (not the boiler room)
-4. Keep at even temperature over winter
-5. Replant in the garden in spring
-6. Cut the whole plant once the first seedpods start to open
-7. Place in a jute sack hung in a shaded barn (use wire not string to
-   deter mice)
-8. Seeds ripen in the sack; bang it on the ground to separate seeds
-
-## Resisting Seed Laws
-
-Holzer deliberately broke EU seed regulations by scattering his seeds
-throughout his property and many other areas when the AMA (Agrar Markt
-Austria) imposed controls. His position: "Laws must serve life. I see it
-as my duty to stand up and protest if they do not."
-
-## Actions for Seed Sovereignty
-
-Holzer recommends several practical steps:
-- Educate yourself and discuss these issues with friends and neighbours
-- Join a group that saves and exchanges heirloom seeds
-- Never use F1 (hybrid) seeds
-- Actively collect seeds from traditional plants
-- Share natural seeds and products with others to increase numbers
-- Do not use genetically modified seeds
-
-## Related Concepts
-
-- [[holzer-seed-saving-and-variety-preservation]] - Holzer seed saving
-- [[permaculture-design]] - General seed saving
+4. Plants from the [[holzer-seed-saving-and-variety-preservation]] - Holzer seed saving
 - [[holzer-old-varieties-and-seed-saving]] - Old varieties overview
+
+## See Also
+
+- [[permaculture-designers-manual-seed-saving-varieties]]

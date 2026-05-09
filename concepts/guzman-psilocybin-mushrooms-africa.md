@@ -128,10 +128,7 @@ likely far greater than currently documented. As Gartz (1996) observed: "The
 mushrooms occur in abundance wherever mycologists abound."
 ## See Also
 
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[psilocybin-mushroom-distribution-worldwide]]
-- [[gartz-global-psilocybin-mushroom-distribution]]
 - [[natto-making]]
-- [[mushroom-cultivation-fundamentals]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[teonanacatl-and-mesoamerican-mushroom-cults]]

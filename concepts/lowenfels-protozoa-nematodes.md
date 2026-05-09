@@ -122,9 +122,6 @@ food web -- each organism eats and is eaten, and at every step, nutrients are
 mineralized and made available to plants.
 
 ## See Also
-- [[lowenfels-rhizosphere-bacteria-plant-interaction]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[singh-fungal-plant-growth-regulators-production]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[l-theanine]]

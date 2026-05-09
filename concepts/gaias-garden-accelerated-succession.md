@@ -1,19 +1,7 @@
 ---
 title: "Accelerated Succession in Ecological Gardening"
 created: 2026-04-26
-tags: [permaculture, succession, ecology, soil-building, food-forests]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Accelerated Succession in Ecological Gardening
-
-Ecological succession is the natural process by which ecosystems
-develop and mature over time. Toby Hemenway presents accelerated
-succession as one of the overarching strategies of [[ecological-gardening-principles]],
+tags: [[ecological-gardening-principles]],
 demonstrating how gardeners can work with nature's momentum to
 create productive, mature landscapes far faster than would occur
 without intervention.
@@ -121,15 +109,9 @@ Several techniques can speed succession in a garden:
 
 - **Plant perennials instead of annuals** to jump directly to
   later successionary stages
-- **Use [[gaias-garden-nurse-plants]]** to shelter young trees
-  and shrubs through vulnerable early years
-- **Build soil rapidly** with [[gaias-garden-sheet-mulching]],
+- **Use [[gaias-garden-sheet-mulching]],
   compost, and organic matter additions
-- **Install [[gaias-garden-food-forest-layers]]** that mimic
-  the structure of mature forests
-- **Choose fast-growing pioneer species** that prepare the
-  ground for slower, longer-lived plants
-- **Design [[gaias-garden-interplanting-polyculture]]** systems
+- **Install [[gaias-garden-interplanting-polyculture]]** systems
   that fill all available niches, leaving no room for unwanted
   pioneer weeds
 

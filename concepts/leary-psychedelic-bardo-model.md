@@ -88,21 +88,13 @@ The manual provides detailed descriptions of each Second Bardo vision type, offe
 
 ## Contemporary Relevance and Scientific Validation
 
-Modern neuroscience has begun to confirm several of Leary's key insights. Research on the [[default-mode-network-and-ego-dissolution]] has shown that psychedelic compounds reduce activity in the DMN — the brain network associated with self-referential thinking and ego boundaries — producing effects remarkably similar to Leary's descriptions of ego-loss and the Clear Light. Functional MRI studies have demonstrated that psilocybin increases connectivity between brain regions that normally do not communicate, providing a neurobiological basis for the novel associations, creative insights, and synesthetic experiences characteristic of the Second Bardo.
-
-The model's emphasis on "set and setting" as primary determinants of experience quality has been rigorously validated by contemporary clinical research. Modern [[psychedelic-mushroom-set-and-setting]] in clinical trials at institutions like Johns Hopkins, Imperial College London, and Usona Institute draw directly on principles Leary articulated: careful preparation, a safe and aesthetically pleasing environment, trained guides or therapists, and integration of the experience afterward. The terminology has shifted — "guide" became "therapist," "session" became "treatment," "re-entry" became "integration" — but the underlying model of the psychedelic experience as a structured journey through distinct phases remains recognizably Leary's.
+Modern neuroscience has begun to confirm several of Leary's key insights. Research on the [[psychedelic-mushroom-set-and-setting]] in clinical trials at institutions like Johns Hopkins, Imperial College London, and Usona Institute draw directly on principles Leary articulated: careful preparation, a safe and aesthetically pleasing environment, trained guides or therapists, and integration of the experience afterward. The terminology has shifted — "guide" became "therapist," "session" became "treatment," "re-entry" became "integration" — but the underlying model of the psychedelic experience as a structured journey through distinct phases remains recognizably Leary's.
 
 ## See Also
 
-- [[leary-third-bardo-re-entry]]
-
 - [[leary-psychedelic-manual-approach]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[psychedelic-set-and-setting]]
-- [[consciousness-and-psychedelics]]
 - [[psilocybin-and-mystical-experience]]
-- [[psychedelic-shamanism-as-death-practice]]
 - [[psychedelic-consciousness-models]]
-- [[leary-harvard-psilocybin-project]]
 - [[herbal-medicine]]
 - [[psychedelic-spirituality-and-religion]]

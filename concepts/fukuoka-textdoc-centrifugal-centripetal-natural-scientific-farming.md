@@ -116,12 +116,8 @@ consistent.
 
 ## See Also
 
-- [[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]]
-
 - [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
 
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
-- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]

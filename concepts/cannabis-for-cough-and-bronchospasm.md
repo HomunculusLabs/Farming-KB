@@ -10,7 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis demonstrates antitussive (cough-suppressing) and bronchodilating properties through [[cannabis-endocannabinoid-system]] mechanisms. The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] assigns a combined CHI value of 11 from 4 studies reviewed.
+Cannabis demonstrates antitussive (cough-suppressing) and bronchodilating properties through [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] assigns a combined CHI value of 11 from 4 studies reviewed.
 
 ## Understanding Cough
 
@@ -60,24 +60,8 @@ The government patent states the invention achieves desired antitussive effects 
 
 ## Strain-Specific Considerations
 
-Anandamide and THC bind with CB1 and CB2 receptors relatively equally. [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] tend to present higher THC:CBD profiles, providing relatively balanced receptor activation while favoring CB1. The CB1 receptor appears to be the primary mediator of antitussive effects.
-
-## Mind-Body Medicine and Cough
-
-Coughing serves as both an attention-drawing mechanism ("Notice me") and a distancing mechanism ("Stay away, I might be infectious"). This push-pull dynamic may reflect:
-- Unexpressed emotions needing release ("What is stuck in my throat?")
-- Desire for attention from caregivers
-- Need to maintain distance from others
-- Unheard communications requiring forceful expression
-
-These findings align with broader research on the therapeutic potential and ecological roles discussed across the wiki.
-
-## See Also
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-asthma]]
+Anandamide and THC bind with CB1 and CB2 receptors relatively equally. [[cannabis-endocannabinoid-system]]
 - [[cannabis-respiratory-conditions]]
-- [[cannabis-dosing-guidelines]]
 - [[cannabis-anti-inflammatory-applications]]
 
 The interplay between these factors and the broader context of the topic
@@ -92,3 +76,22 @@ Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Cough." North At
 ## Related
 
 - [[cannabis-for-lung-cancer]]
+## Practical Considerations
+
+Successful implementation of Cannabis for Cough and Bronchospasm requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

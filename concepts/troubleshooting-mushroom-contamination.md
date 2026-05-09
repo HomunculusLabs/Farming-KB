@@ -3,14 +3,7 @@ title: Troubleshooting Mushroom Contamination
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
----
-
-# Troubleshooting Mushroom Contamination
-
-Contamination identification and control is one of the most critical skills in [[outdoor-mushroom-cultivation]]. The Mushroom Cultivator by paul stamets and Jeff Chilton provides a comprehensive guide to the dozens of contaminants that threaten mushroom cultures, organized by type and accompanied by identification keys.
+tags: [[outdoor-mushroom-cultivation]]. The Mushroom Cultivator by paul stamets and Jeff Chilton provides a comprehensive guide to the dozens of contaminants that threaten mushroom cultures, organized by type and accompanied by identification keys.
 
 ## The Reality of Contamination
 
@@ -81,14 +74,6 @@ The Mushroom Cultivator advises that cultures isolated from contaminated dishes 
 
 ## See Also
 
-- [[contamination-identification-prevention]]
 - [[sterile-technique-mushroom-cultivation]]
-- [[stamets-contamination-identification-and-control]]
 - [[mushroom-contamination-control-strategies]]
-- [[wild-specimen-isolation]]
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter XIII: The Contaminants of Mushroom Culture
-Updated: 2026-04-18
 - [[mushroom-cultivator-contamination-prevention]]

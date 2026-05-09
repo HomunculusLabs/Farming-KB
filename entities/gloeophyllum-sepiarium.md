@@ -103,20 +103,12 @@ Despite its negative impact on timber products, G. sepiarium contributes to fore
 
 ## See Also
 
-- [[gloeophyllum-trabeum]]
 - [[serpula-lacrymans]]
-- [[trametes-orientalis]]
-- [[trametes-versicolor]]
-- [[daedaleopsis-confragosa]]
+- [[trametes-versicolor-entity]]
 - [[bjerkandera-adusta]]
-- [[fomes-fomentarius]]
 - [[coriolopsis-gallica]]
-- [[lenzites-betulina]]
 - [[schizophyllum-commune]]
-- [[trametes-hirsuta]]
 - [[trametes-trogii]]
-- [[sanghuangporus-linteus]]
 - [[sanghuangporus-vaninii]]
-- [[coriolopsis-polyzona]]
 - [[phellinus-igniarius-entity]]
 - [[polyporus-umbellatus]]

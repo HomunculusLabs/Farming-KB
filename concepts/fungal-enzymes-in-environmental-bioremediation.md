@@ -1,7 +1,7 @@
 ---
 title: fungal enzymes in environmental bioremediation
 created: 2026-04-28
-tags: [mycology, enzymes, bioremediation, biochemistry, environmental-science]
+tags: [[mycology, enzymes, bioremediation, biochemistry, environmental-science]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -50,30 +50,7 @@ lignin breakdown and is more widely distributed among white-rot fungi than LiP.
 Laccases are multicopper oxidases that catalyze the four-electron oxidation of
 phenolic compounds and aromatic amines using molecular oxygen as the electron
 acceptor, producing water as the only byproduct. They are among the most
-versatile fungal enzymes for [[fungi-in-the-environment-bioremediation-applications]]:
-
-- Degrade phenolic pollutants including pentachlorophenol and phenol
-- Decolorize synthetic dyes from textile wastewater (azo, anthraquinone,
-  triphenylmethane classes)
-- Detoxify phenolic effluents from paper and pulp industry processing
-- Transform endocrine-disrupting compounds including bisphenol A and nonylphenol
-- Enhanced by redox mediators (ABTS, HBT, 1-hydroxybenzotriazole) to extend
-  substrate range to non-phenolic compounds
-- Produced by white-rot fungi, some ascomycetes, and certain bacteria
-
-## Other Relevant Enzymes
-
-### Cytochrome P450 Monooxygenases
-
-Intracellular enzymes found in many fungi that metabolize a wide range of
-xenobiotic compounds. They transform PAHs, aliphatic hydrocarbons, and
-pesticides through oxidative reactions. Important for fungal metabolism of
-petroleum hydrocarbons, these enzymes catalyze both activation and
-detoxification reactions depending on the specific substrate and context.
-
-### Esterases and Lipases
-
-These enzymes hydrolyze ester bonds in a variety of [[mycoremediation-environmental-contaminants]]
+versatile fungal enzymes for [[mycoremediation-environmental-contaminants]]
 including phthalate esters (plasticizers), organophosphate and carbamate
 pesticides, polyester-based plastics, and lipid-rich industrial waste streams.
 Their broad substrate specificity and stability under varied conditions make
@@ -83,13 +60,7 @@ them attractive candidates for engineered bioremediation systems.
 
 While primarily involved in plant polymer degradation, these enzyme complexes
 contribute to bioremediation by breaking down cellulosic matrices that
-encapsulate pollutants, facilitating access for [[ligninolytic-enzymes]] to
-otherwise shielded contaminants. They also treat agricultural waste and paper
-mill effluents.
-
-## Enzyme Production Optimization
-
-[[ligninolytic-enzyme-production-bioremediation]] is typically induced by nutrient limitation,
+encapsulate pollutants, facilitating access for [[ligninolytic-enzyme-production-bioremediation]] is typically induced by nutrient limitation,
 especially nitrogen limitation, combined with the presence of lignin or
 lignin-derived compounds. Wood-based substrates (sawdust, wood chips, straw)
 naturally provide the induction signals that trigger maximal enzyme production.
@@ -104,10 +75,7 @@ to enhance production levels for commercial applications.
 ## Environmental Factors Affecting Activity
 
 - **Temperature**: Optimal 25-30 C; enzyme denaturation above 40 C
-- **pH**: [[ligninolytic-enzymes]] prefer pH 3.0-5.5; activity drops at neutral pH
-- **Oxygen**: Aerobic conditions required; anaerobic suppresses production
-- **Moisture**: 60-80% for solid-state systems; extremes limit activity
-- **Nitrogen**: Low N stimulates [[ligninolytic-enzymes]]; high N favors biomass
+- **pH**: [[ligninolytic-enzymes]]; high N favors biomass
 - **Carbon source**: Lignocellulosic materials induce; simple sugars repress
 
 ## Pollutant Degradation Applications
@@ -144,6 +112,4 @@ approaches enhance stability and reusability for engineered treatment systems.
 Scaling laboratory yields to practical field applications requires cost-effective
 fermentation and formulation technologies. Understanding synergistic
 interactions between fungal enzymes and indigenous microbial communities in
-[[singh-fungal-biofilms-in-contaminated-environments]] remains essential for predicting treatment outcomes.
-
-See also: [[mycoremediation]], [[white-rot-fungi]], [[enzymatic-degradation-in-mycoremediation]]
+[[mycoremediation]], [[enzymatic-degradation-in-mycoremediation]]

@@ -3,34 +3,22 @@ title: Design Report Structure
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-# Design Report Structure
-
-A professional [[permaculture-design]] report is a comprehensive document that translates [[permaculture-site-analysis]] and client needs into specific, implementable design recommendations. The report serves as the blueprint for transforming a site according to [[permaculture-principles]].
+tags: [[permaculture-design]] report is a comprehensive document that translates [[permaculture-principles]].
 
 ## Overview
 
-An Elfin [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] report includes the design proper, a reference section or bibliography, a resource section, and appendices. Reports for simple designs run 15-20 pages with numerous small pictures and details, but larger designs can be much longer.
+An Elfin [[permaculture-design-principles]] report includes the design proper, a reference section or bibliography, a resource section, and appendices. Reports for simple designs run 15-20 pages with numerous small pictures and details, but larger designs can be much longer.
 
 ## Report Methodology
 
 1. Collect all data: client requirements, maps, local regulations
 2. Analyze the client's problems
-3. Recognize those [[williams-pdc-additional-permaculture-principles]] that fit this particular situation
-4. Apply permaculture principles specifically to the problems involved
-5. Design solutions [[allegro-death-and-resurrection-in-the-mushroom-cult]] form of edges, patterning, and increased functional relationships
+3. Recognize those [[allegro-death-and-resurrection-in-the-mushroom-cult]] form of edges, patterning, and increased functional relationships
 6. Check everything over to make sure the solution adequately meets all client needs and addresses all problems
 
 ## Report Structure
 
-### [[tihkal-introduction-and-methodology]] Site Description
-Begin with a brief general description [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] site and its placement [[allegro-plants-and-drugs-in-the-ancient-world]] region. Include:
-- Orientation of the site
-- Existing vegetation
-- Existing [[water-management]]
+### [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] site and its placement [[water-management]]
 - Soils
 
 Then draw a main map with the site broken into identifiable areas to be treated in detail later.

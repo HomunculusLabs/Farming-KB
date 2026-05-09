@@ -15,8 +15,7 @@ type: concept
 
 The final stages of the PF TEK concern maximizing mushroom potency through
 proper harvesting, preserving mushrooms through drying, and concentrating the
-active compounds through alcohol extraction. [[psilocybe-fanaticus]] emphasized
-that [[psilocybe-cubensis]] is not inherently weak; its potency depends entirely
+active compounds through alcohol extraction. [[psilocybe-cubensis]] is not inherently weak; its potency depends entirely
 on how it is grown, when it is harvested, and how it is preserved.
 
 ## Understanding Potency
@@ -33,118 +32,70 @@ Fanaticus and others found this is not necessarily true. Potency depends on:
 
 ### Scientific Basis
 
-Research by [[jochen-gartz]] demonstrated that P. Cubensis can achieve a baseline
-psilocybin content of 1%, comparable to [[psilocybe-semilanceata]] (liberty cap).
+Research by [[psilocybe-semilanceata]] (liberty cap).
 However, mature specimens that have begun sporulation are weakly potent. The
 mushroom is past its prime when the cap has opened, the veil has torn, the
 gills are dark brown, and purple spore deposits appear on the stem. This
 principle likely applies to all magic mushroom species, including wild
 specimens.
 
-### Dosage Guidelines (from [[paul-stamets]])
+### Dosage Guidelines (from [[pf-tek-mushroom-potency-and-age-relationship]]
+## Practical Considerations
 
-Using P. semilanceata as a standard:
+When working with Mushroom Potency, Drying, and Extraction, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-- **1-2 grams dried**: Moderate effects, lasting 4-5 hours
-- **2 grams dried**: First colorful geometric patterns, auditory changes
-- **3 grams dried**: Visual waves, air appears liquid with tidal movements
-- **4 grams dried**: Intense experience lasting 4-5 hours
-- **5 grams dried**: Nearly overwhelming, can span 6 hours
-- **Above 7 grams dried**: Not recommended, even for the experienced
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-Individual sensitivity varies enormously. Each person must discover their
-personal scale.
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-## Cool Desiccation (Drying)
+## Common Challenges and Solutions
 
-### Why Cool Drying Matters
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-The immature specimens are the best in quality, digestibility, and potency.
-To preserve these qualities, mushrooms must be dried properly. Heat leaches
-chemical constituents and reduces quality. Never dry mushrooms in an oven or
-with hot air dryers.
-### Drying Methods
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-**Wire screen air drying**: Place mushrooms on a wire screen. Works well if
-room humidity is low. After a couple of days, finish in the desiccant box.
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
 
-**Frost-free refrigerator**: Works but time consuming.
+## Future Directions
 
-**Desiccant drying**: The overall best technique. Desiccant absorbs moisture
-from the air, immediately pulling it from transpiring fungi.
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
 
-### Desiccant Sources
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
 
-1. **DRIERITE**: Universal lab desiccant (chemical/science supply)
-2. **Silica Gel granules**: Standard desiccant (chemical/science supply)
-3. **DAMP GONE**: Kitty litter style, inexpensive but effective
-   (hardware stores)
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
 
-### Desiccant Drying Procedure
-
-1. Preheat desiccant in an oven per manufacturer instructions.
-2. Place a 1-inch layer of desiccant in a plastic container.
-3. Place mushrooms on a wire screen on top of the desiccant.
-4. Put the container in a plastic bag and seal.
-5. After 24 hours, slight shriveling appears. After 4-5 days, mushrooms are
-   rock hard (stem should snap cleanly when bent).
-
-### Enhanced Cold Drying
-
-For best alkaloid preservation, place the desiccant box in the refrigerator so
-mushrooms dry at near-freezing temperatures. Desiccant can be reused
-indefinitely by heating to dry and storing airtight.
-
-### Storage
-
-Dried mushrooms lose hardly any chemical constituents and their desiccated
-state preserves them for months. Store sealed in plastic bags or canning
-jars with tight lids. The freezer is ideal for long-term preservation, but
-ensure containers are tightly sealed against freezer moisture.
-
-## Alcohol Extraction
-
-The alcohol extraction technique produces a concentrated psilocybin liqueur
-from dried mushrooms using pure 200-proof ethyl alcohol.
-
-- Thoroughly dried mushroom material (rock hard, several grams minimum)
-- 200-proof ethyl alcohol (preferred) or 190-proof
-- Bottles with tight caps
-- Dust-pollen masks (as filters)
-- Small electric fan
-- 10cc syringe for measurement
-
-### Extraction Procedure
-
-1. Pulverize dried mushrooms in a zip-lock bag using the rubber heel of a
-   shoe (cover the bag with a magazine for protection).
-
-2. Place the pulverized material into a bottle with a tight cap. Add enough
-   alcohol to cover the material and make a loose slurry.
-
-3. Shake well and let soak for 24 hours, shaking periodically.
-
-4. Filter the slurry through a dust-pollen mask into a drinking glass. Squeeze
-   the filter to extract all alcohol. Store the filtered extract in a fresh
-   bottle.
-
-5. Retrieve the mushroom material from the filter and resoak with fresh
-   alcohol. Repeat the soaking and filtering process.
-
-### Concentration
-
-Combine all alcohol extracts into a glass. Place a small electric fan near
-the glass, pointing airflow directly down to ripple the surface. This speeds
-evaporation. Keep flames away; pure alcohol is highly flammable. Evaporate
-to the desired concentration. A ratio of 1-3+ grams of dried material per
-1 cc of final extract is potent.
-
-### Dosage and Storage
-
-Dispense the liqueur with a syringe for accuracy. Store in small bottles in
-the freezer; alcohol remains liquid. The extract has a pungent mushroomy
-aroma.
-
-## See Also
-
-- [[pf-tek-mushroom-potency-and-age-relationship]]

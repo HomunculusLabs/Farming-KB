@@ -4,16 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, biochemistry, psychopharmacology, entheogen, entheogen-research]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Chemistry
 
 ## Overview
 
-Psychedelic mushrooms produce a family of [[tryptamine]] alkaloids, with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors.
+Psychedelic mushrooms produce a family of tryptamine alkaloids, with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors.
 
 ## Primary Compounds
 
@@ -29,7 +27,7 @@ Psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-OH-DMT) is the primary psychoac
 
 Psilocin is present in smaller quantities in fresh mushrooms but can increase as psilocybin dephosphorylates post-harvest. It is more susceptible to oxidation than psilocybin, leading to the characteristic blueing reaction in damaged fungal tissue.
 
-### [[baeocystin]]
+### Baeocystin
 
 Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from Psilocybe baeocystis.
 
@@ -42,7 +40,7 @@ Norbaeocystin (4-phosphoryloxytryptamine) lacks both N-methyl groups and is the 
 The biosynthesis of psilocybin occurs via a well-characterized enzymatic pathway encoded by a four-gene cluster:
 
 1. **psiD** — Tryptamine halogenase: Converts L-tryptophan to 4-hydroxy-L-tryptophan (4-HTP) using a flavin-dependent monooxygenase reaction
-2. **psiH** — Decarboxylase: Decarboxylates 4-HTP to [[4-hydroxytryptamine]] (4-HT)
+2. **psiH** — Decarboxylase: Decarboxylates 4-HTP to 4-hydroxytryptamine (4-HT)
 3. **psiK** — Kinase: Phosphorylates 4-HT to form norbaeocystin (using SAM as phosphate donor)
 4. **psiM** — Methyltransferase: Sequentially N-methylates norbaeocystin to baeocystin, then baeocystin to psilocybin (using SAM as methyl donor)
 
@@ -115,3 +113,7 @@ Psilocybin content varies significantly based on species, strain, growing condit
 - **P. mexicana**: 0.1-0.4% — relatively low
 
 Intraspecific variation can be 3-5x within a single species, making generalizations unreliable. See [[psychedelic-mushroom-taxonomy]] for species-level detail and [[psychedelic-mushroom-dosage-guide]] for practical dosing considerations.
+
+## See Also
+
+- [[psychedelic-mushroom-set-and-setting]]

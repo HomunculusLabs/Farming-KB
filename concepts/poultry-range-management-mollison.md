@@ -3,7 +3,7 @@ title: Poultry Range Management (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, animal-husbandry]
+tags: [[permaculture, design, animal-husbandry]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -84,11 +84,7 @@ When orchard trees are 3-7 years of age, foraging pigs can be introduced as frui
 
 ## See Also
 
-- [[chicken-husbandry-in-permaculture]]
-- [[chicken-integration-permaculture-guide]]
 - [[chicken-integration-permaculture-guide]]
 - [[orchard-plant-guilds-mollison]]
-- [[grassland-pasture-management-mollison]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
-- [[permaculture-designers-manual-small-animals]]
 - [[permaculture-designers-manual-food-forest-guilds]]

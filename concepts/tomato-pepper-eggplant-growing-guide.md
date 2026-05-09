@@ -97,20 +97,11 @@ Tomatoes, peppers, and eggplants are close relatives in the nightshade family (S
 
 ## Related
 
-- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]] Concepts
-
 - [[transplanting-techniques-solomon]]
-- [[transplanting-techniques-low-input]]
 - [[holmgren-tripartite-altruism]]
-- [[solomon-complete-organic-fertilizer-guide]]
+- [[solomon-growing-tomatoes]], *Gardening When It Counts*, Chapter on solanaceous crops
 
-Sources: [[solomon-growing-tomatoes]], *Gardening When It Counts*, Chapter on solanaceous crops
-
-## Merged: [[solomon-growing-tomatoes]] Peppers Eggplant
-
-# Solomon on Tomatoes, Peppers, and Eggplant
-
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
+## Merged: [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
 
 ## Overview
 

@@ -40,7 +40,7 @@ The method Solomon advocates is based on his experience running Territorial Seed
 This approach includes:
 - Using [[soil-conditioners-guide]] with appropriate fertility levels (not excessive)
 - Wider plant spacing to reduce water needs
-- Choosing the right [[organic-vegetable-growing-and-market-gardening]] (few simple hand tools, properly maintained)
+- Choosing the right [[garden-tools-selection]] (few simple hand tools, properly maintained)
 - [[seed-starting-reference]] with carefully selected seeds from reliable sources
 - [[composting-systems]] as a supplement rather than the sole fertility source
 - Growing [[vegetable-garden-guide]] crops suited to your climate and soil
@@ -74,3 +74,22 @@ Solomon advocates making vegetables the core of your diet. From 1980-1983, most 
 - [[soil-conditioners-guide]] — Understanding soil fundamentals
 - [[drought-gardening]] — Growing with minimal irrigation
 - [[composting-systems]] — Making effective compost
+## Practical Considerations
+
+Successful implementation of Growing Food in Hard Times requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

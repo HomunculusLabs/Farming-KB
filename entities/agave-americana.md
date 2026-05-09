@@ -130,9 +130,7 @@ fermentable sugars.
 
 ## See Also
 
-- [[theobroma-cacao]] — mesoamerican crop with deep indigenous cultural ties
 - [[opuntia-ficus-indica]] — prickly pear, companion arid-zone permaculture plant
 - *prosopis-glandulosa* — mesquite, arid-zone nitrogen-fixing companion
-- [[yucca-filamentosa]] — related Asparagaceae fiber and food plant
 - [[simmondsia-chinensis]] — jojoba, arid-zone oilseed for permaculture
 - [[ephedra-sinica]] — arid-zone medicinal shrub

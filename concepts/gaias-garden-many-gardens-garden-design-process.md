@@ -106,15 +106,9 @@ Beyond the zone-and-sector framework, ecological design uses natural patterns to
 
 ## See Also
 
-- [[ecological-gardening-principles]]
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 - gaias garden herb spiral and natural patterns
-- [[hemenway-zone-and-sector-planning]]
-- gaias garden herb spiral and natural patterns
 - [[growing-vegetables-with-less-fertilizer]]
-- [[permaculture-principle-design-from-patterns-to-details]]
 - [[what-natural-farming-method-should-i-use]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[garden-myths-native-plants-and-invasive-species]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[teaming-with-microbes-mulch-and-soil-food-web]]

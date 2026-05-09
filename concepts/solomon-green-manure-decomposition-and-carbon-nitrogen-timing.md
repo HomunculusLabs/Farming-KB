@@ -111,12 +111,9 @@ The solution is to apply a nitrogen-rich amendment at the time of turning in the
 - Supplement with nitrogen when turning in high-carbon residues to prevent nitrogen tie-up
 - Be aware of allelopathic effects, especially from cereal rye residues
 
-## Related Concepts
+## Related
 
 - [[cover-cropping-guide]]
-- [[solomon-mulching-and-cover-cropping]]
 - [[soil-fertility-management]]
-- [[compost-building-guide]]
 - [[garden-soil-basics]]
-- [[solomon-composting-methods]]
 - [[solomon-root-exudates-and-allelopathy]]

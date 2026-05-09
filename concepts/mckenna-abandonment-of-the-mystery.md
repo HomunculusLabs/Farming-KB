@@ -89,33 +89,16 @@ McKenna saw the alchemical tradition as a kind of underground preservation of th
 The suppression of these traditions — the Inquisition, the witch-burnings, the systematic destruction of indigenous religious practices by colonial missionaries — was, in McKenna's view, the final and most violent phase of the abandonment of the mystery, extending the process from cultural forgetting to active persecution.
 
 See also:
-- [[eleusinian-mysteries-history-and-structure]]
 - [[entheogenic-eleusis-theory-scholarly-reception]]
-- [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[dominator-culture-and-partnership-society]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[dionysian-cults]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
+- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
-
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## See Also
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
-- [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

@@ -62,65 +62,11 @@ explain their success when grassland communities degrade:
 ## The Four Ecosystem Foundation Blocks
 
 The relationship between poisonous plant invasion and ecosystem health
-is explained through the four [[savory-ecosystem-foundation-blocks]]:
-
-1. **Community dynamics**: Simplified communities with low species
-   diversity are less stable and more prone to invasion by problem
-   species.
-2. **Water cycle**: Poor water cycles create moisture stress that
-   favors drought-adapted, often toxic plant species.
-3. **Mineral cycle**: Effective mineral cycling supports the full
-   spectrum of soil microorganisms and plant species that suppress
-   invaders through competition.
-4. **Energy flow**: Dense grassland captures more solar energy than
-   sparse communities dominated by scattered forbs.
-
-## Overgrazing and Partial Rest as Dual Causes
-
-Poisonous plant problems are almost always associated with two factors
-occurring simultaneously:
-
-1. **Overgrazing of individual plants**: Animals remaining too long
-   on the same ground weakens preferred grasses and opens space.
-2. **Partial rest of the whole area**: Low stock density and scattered
-   animals fail to provide adequate animal impact, leading to bare
-   ground, capped soil surfaces, and gradual death of perennial
-   grasses.
-
-These are the inevitable consequence of conventional continuous or
-set-stock grazing in brittle environments.
-
-## The Grazing Planning Solution
-
-The holistic approach to poisonous plant management relies on
-livestock grazing planning to eliminate both overgrazing and
-partial rest. Planned grazing provides short grazing periods that
-prevent repeated defoliation, adequate stock density for animal  impact and herd effect, periodic soil surface disturbance, and
-sufficient recovery and grazing periods for grazed plants to
-rebuild root systems.
-
-## Comparison with Chemical Approaches
-
-Direct treatment of poisonous plants has several drawbacks compared to
-the holistic approach. Herbicides kill target plants but do not address
-degraded conditions, so plants typically return. Chemical treatments
-damage soil microorganisms and reduce mineral cycle effectiveness.
-Mechanical removal is expensive and exposes soil to erosion. Both
-approaches may worsen the underlying problem by further simplifying
-the biological community.
-
-## Broader Implications
-
-The locoweed case illustrates a universal principle: attacking symptoms
-while ignoring causes is wasteful and often counterproductive. This
-lesson extends to woody plant encroachment and succession,
-erosion and land deterioration, [[desertification]] causes, and
+is explained through the four [[desertification]] causes, and
 many other problems that conventional management approaches through
 direct intervention rather than systemic correction.
 
 ## See Also
-
-- [[savory-seed-establishment-and-plant-recruitment]]
 
 - [[savory-overgrazing-vs-overrest]] - Dual causes of plant community
   degradation
@@ -131,3 +77,7 @@ direct intervention rather than systemic correction.
 - plant succession and community dynamics - How communities shift
 - livestock grazing planning - The planning process that corrects
   underlying causes
+
+## See Also
+
+- [[savory-technology-as-management-tool]]

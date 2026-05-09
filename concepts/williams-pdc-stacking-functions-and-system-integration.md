@@ -1,7 +1,7 @@
 ---
 title: "Stacking Functions and System Integration in permaculture"
 created: 2026-04-28
-tags: [permaculture, stacking-functions, polyculture, design]
+tags: [[permaculture, stacking-functions, polyculture, design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md]
@@ -11,28 +11,17 @@ type: concept
 # Stacking Functions and System Integration in Permaculture
 
 The principle of Stacking of Functions is one of the most recited
-[[permaculture-principles]]. [[williams-pdc-permaculture-ethics-and-principles-in-practice]], it means designing elements so
+[[williams-pdc-permaculture-ethics-and-principles-in-practice]], it means designing elements so
 that each one performs as many functions as possible. Rather than
 just producing a single yield, stacking of functions ensures every
 design element serves multiple purposes, maximizing the efficiency
 and resilience of the overall system. As presented in William Ozier's
-[[permaculture-design]] Course, this principle, combined with the broader
-concept of system integration, forms the backbone of effective
 [[mollison-lawn-reform-and-alternatives-in-permaculture-design]].
 
 ## The Core Concept of Stacking Functions
 
 Nature is inherently multifunctional. A single oak tree provides
-food, habitat, shade, soil building, [[water-management]], microclimate
-modification, and aesthetic value all at once. Permaculture design
-seeks to emulate this natural efficiency. When an element in your
-system stacks many functions, the more functions it stacks, the fewer
-additional elements you need to bring into the system. This reduces
-inputs, maintenance, and complexity while increasing overall yield.
-
-The key insight is that anything that is a beneficial element can
-contribute multiple functions. A chicken, for example, provides eggs
-and meat (food energy) but also offers [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]], soil
+food, habitat, shade, soil building, [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]], soil
 fertilization through manure, weed management through scratching,
 heat generation, and compost creation through bedding material. Each
 of these functions eliminates the need for a separate system or
@@ -120,15 +109,7 @@ Every system in nature is prolific in its bounty. Nature never
 produces anything inert or non-useful. In fact, nature's systems
 become more and more bountiful over time. Not only is nature
 productive, but its productivity is prolific in the variety of
-products it yields. [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] produce edible fruit and more trees,
-but they also produce oxygen, clean water, and provide habitat for a
-variety of insects and animals. Being modeled after nature's systems,
-Permaculture systems should produce useful things simultaneously,
-whether edible, medicinal, structural, or ecological.
-
-## The Role of Edges and Margins
-
-The principle of using edges and valuing [[permaculture-design-principles]] complements
+products it yields. [[permaculture-farm-design-principles]] complements
 stacking functions. Where two ecosystems meet, such as where forest
 meets grassland or where water meets land, there is an edge effect
 that creates increased diversity and productivity. These transition
@@ -147,4 +128,3 @@ physical and non-physical functions. A well-designed system achieves
 more working as an integrated team than any element could working
 separately. This is the essence of Permaculture design excellence:
 creating systems where everything serves multiple purposes and
-everything connects to everything else in mutually beneficial

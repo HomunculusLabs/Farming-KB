@@ -72,62 +72,9 @@ novel psychoactive compound. It acts as a kappa-opioid receptor
 agonist, a mechanism of action distinct from the serotonin
 receptor activity of classical hallucinogens like psilocybin or
 LSD. Research into the chemistry of Salvia divinorum has revealed
-salvinorin as a new class of neoclerodane diterpenes.
-
-## Distribution and Cultivation
-
-Salvia divinorum is known only from Oaxaca, Mexico, in the
-Sierra Mazateca. It grows at elevations of approximately 300 to
-1,800 meters. The plant propagates easily through vegetative
-cuttings, rarely producing viable seeds, which further supports
-its status as a cultigen dependent on human cultivation.
-
-The Mazatec cultivate the plant in hidden plots in remote forest
-areas, suggesting both its value and the need for discretion in
-its cultivation. This pattern of hidden cultivation is also seen
-with other sacred plants used by indigenous peoples in Mexico.
-
-## Ritual Context
-
-The use of Salvia divinorum occurs within the broader Mazatec
-tradition of plant-based divination. The Mazatec also employ
-Psilocybe mushrooms (ninos santos) and Turbina corymbosa
-(ololiuqui) for similar purposes. Salvia divinorum is considered
-one of several tools available to the Mazatec shaman (curandero)
-for contacting the spirit world and obtaining information
-otherwise inaccessible.
-
-The Mazatec use these plants in healing ceremonies, where the
-shaman enters a visionary state to diagnose illness, identify the
-cause of disease, and determine appropriate treatment. The plant
-is treated with great respect and is not used casually or
-recreationally within the traditional cultural context.
-
-## Modern Interest
-
-Salvia divinorum has attracted significant attention from the
-scientific community and the general public. The discovery of
-salvinorin A as a novel, non-nitrogenous hallucinogenic compound
-has opened new avenues in psychopharmacology. The unique kappa-
-opioid receptor mechanism has implications for understanding
-consciousness and developing new therapeutic agents.
-
-The plant is easy to propagate from cuttings and has become widely
-available outside its native range. Modern users typically chew
-fresh leaves or use extracts of enhanced potency. The traditional
-Mazatec method of chewing fresh leaves is considered the safest
-approach, producing effects lasting from a few minutes to about an
-hour.
-
-## Related Topics
-
-- [[plants-of-the-gods-psilocybe-species-teonanacatl]] — other
+[[plants-of-the-gods-psilocybe-species-teonanacatl]] — other
   Mazatec visionary plants, the sacred mushrooms
-- [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] — ololiuqui,
-  another Mazatec divinatory plant
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
   chemistry of plant hallucinogens
-- [[plants-of-the-gods-phytochemistry-sacred-plants]] —
-  phytochemical research methods
 - [[plants-of-the-gods-hallucinogens-medicine]] — medical and
   therapeutic potential of visionary plants

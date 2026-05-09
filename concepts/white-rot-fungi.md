@@ -17,12 +17,7 @@ bleached white appearance of wood they have colonized, resulting from the
 selective removal of brown lignin pigments. White rot fungi are the primary
 biological agents of lignin decomposition on Earth and are indispensable to
 global carbon cycling in forest ecosystems. Their lignin-degrading capabilities
-are detailed in [[biochemistry-of-ligninolytic-fungi-bioremediation]].
-
-## Taxonomic Diversity
-
-White rot decay has evolved independently multiple times across the fungal
-kingdom. The majority of white rot species belong to the [[agar]]icomycetes class
+are detailed in [[agar]]icomycetes class
 of Basidiomycota, particularly within the orders Polyporales, Hymenochaetales,
 Agaricales, and Russulales. Notable genera include Phanerochaete, Trametes,
 Pleurotus, Bjerkandera, Ceriporiopsis, and Ganoderma.
@@ -45,14 +40,7 @@ complete decomposition.
 The selective strategy is more common in species like Phanerochaete
 chrysosporium and Ceriporiopsis subvermispora, which have potential
 applications in biopulping because they remove lignin while preserving
-cellulose fibers. Simultaneous decay is typical of [[trametes-versicolor]] and
-many shelf fungi that completely consume the wood substrate.
-
-## Lignin-Degrading Machinery
-
-The enzymatic basis of white rot decay centers on the lignin-modifying enzyme
-system: lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase, as
-detailed in [[staycare-laccase-enzymes-in-bioremediation]]. These enzymes initiate an
+cellulose fibers. Simultaneous decay is typical of [[staycare-laccase-enzymes-in-bioremediation]]. These enzymes initiate an
 oxidative radical cascade that non-specifically attacks lignin's aromatic
 polymer structure, progressively fragmenting it into water-soluble oligomers
 and ultimately to carbon dioxide.
@@ -91,33 +79,13 @@ environmental pollutants. They have been demonstrated to degrade polycyclic
 aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), explosives
 like TNT, synthetic dyes, pharmaceuticals, and endocrine-disrupting compounds.
 
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]] has been the most studied species for
-bioremediation, but Pleurotus ostreatus and [[trametes-versicolor]] often show
+[[trametes-versicolor-entity]] often show
 superior performance in field applications due to their faster growth and
-greater environmental tolerance. The [[bioremediation-laccase-mediator-systems]] approach
-extends white rot applications to recalcitrant pollutants. Live mycelium can be deployed in contaminated
-soil as inoculated wood chips or straw, or in constructed bioreactors for
-treatment of contaminated water.
-
-## Cultivation and Economic Importance
-
-Many commercially important mushroom species are white rot fungi. Shiitake
-(Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina
-velutipes), and reishi ([[ganoderma-lucidum]]) all degrade lignocellulose as
-part of their life cycle. [[stamets-pleurotus-oyster-cultivation]] on wood-based substrates
-exploits the white rot decay machinery to convert low-value wood byproducts
-into nutritious food.
-
-## See Also
-
-- [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
+greater environmental tolerance. The [[ganoderma-lucidum]]) all degrade lignocellulose as
+part of their life cycle. [[staycare-laccase-enzymes-in-bioremediation]]
 - [[biobleaching-of-pulp-by-white-rot-fungi]]
-- [[staycare-brown-rot-fungi-in-bioremediation]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]
 
-[[wood-decay-fungi]] covers the broader taxonomy of fungi that decompose wood, including both white and brown rot strategies.
 [[staycare-composting-as-a-fungal-bioremediation-strategy]] examines how fungal decomposition applies to contaminated organic waste.
-[[stamets-mycoremediation-case-studies]] documents field applications of white rot fungi for pollutant cleanup.
 [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] addresses evaluating the safety and effectiveness of fungal remediation.
 [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]] explores techniques for deploying fungal biomass in treatment systems.

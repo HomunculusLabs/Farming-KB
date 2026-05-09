@@ -41,39 +41,7 @@ sarcodon imbricatus produces large, fleshy basidiocarps with the following chara
 
 ## Ecology and Habitat
 
-sarcodon imbricatus is an obligate [[ectomycorrhizal-fungi]] fungus that forms mutualistic associations with the roots of forest trees. Its primary habitat and host associations include:
-
-- Coniferous forests dominated by spruce (Picea spp.) and pine (Pinus spp.)
-- Mixed forests with both coniferous and deciduous trees
-- Boreal and temperate forest ecosystems of Europe, Asia, and North America
-- Acidic to neutral forest soils, often in moss-rich areas
-
-The species typically fruits from late summer to autumn, producing basidiocarps on the forest floor singly or in scattered groups. It is most commonly encountered in mmyceliumrests with well-developed ectomycorrhizal networks.
-
-## Role in Ecosystem Processes
-
-### Ectomycorrhizal Symbiosis
-
-As an ectomycorrhizal fungi fungus, sarcodon imbricatus forms a mutualistic symbiosis with its host trees. In this association, the fungal mycelium envelops the root tips, forming a characteristic mantle and Hartig net of hyphal penetration between root cortical cells. The symbiosis provides the host tree with enhanced access to soil nutriespore-dispersally nitrogen and phosphorus, while the fungus receives carbohydrates from the host.
-
-The toadstool morphology of sarcodon imbricatus (with teeth rather than gills) is typical of many ectomycorrhizal basidiomycetes and may represent an adaptation to spore dispersal in forest floor environments.
-
-### Arsenic Accumulation and Biotransformation
-
-One of the most scientifically significant aspects of sarcodon imbricatus is its remarkable ability to accumulate and biotransform arsenic compounds. As documented in Dighton (2003), research by Byrne et al. (1995) demonstrated that the fruit bodies of S. imbricatus contain a complex mixture of arsenic species:
-
-- **Inorganic arsenic:** Present in its toxic, unmodified form
-- **Methylarsonic acid (MA):** A methylated form of arsenic
-- **Dimethylarsinic acid (DMA):** A dimethylated form of arsenic
-- **Arsenobetaine (AB):** An organoarsenic compound commonly found in marine organisms
-
-This complex arsenic speciation profile indicates that sarcodon imbricatus is capable of performing biochemical transformations of arsenic, including methylation reactions that may serve as a detoxification mechanism. The presence of arsenobetaine, which is typically associated with marine food webs, is particularly noteworthy and suggests unique arsenic metabolism in this terrestrial fungus.
-
-## Interactions with Other Organisms
-
-### Tree Hosts
-
-sarcodon imbricatus is primarily associated with coniferous trees, especially spruce and pine species. The ectomycorrhizal association benefits host trees through enhanced [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
+sarcodon imbricatus is an obligate [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
 
 ## Decomposer Organisms
 
@@ -91,13 +59,7 @@ sarcodon imbricatus is considered edible in some traditions but is not widely re
 
 ### Bioremediation Potential
 
-The arsenic accumulation and biotransformation capabilities of sarcodon imbricatus suggest potential applications in bioremediation of arsenic-contaminated soils. The ability to methylate inorganic arsenic into less toxic organoarsenic forms could be harnessed for the detoxification of [[singh-fungal-biofilms-in-contaminated-environments]].
-
-### Bioindicator Value
-
-The arsenic content of sarcodon imbricatus fruit bodies may serve as a bioindicator of environmental arsenic contamination. Monitoring arsenic levels in collected specimens can provide information about arsenic deposition in forest ecosystems, including contamination from industrial activities, mining, or agricultural chemicals.
-
-### [[mycoremediation]] Research
+The arsenic accumulation and biotransformation capabilities of sarcodon imbricatus suggest potential applications in bioremediation of arsenic-contaminated soils. The ability to methylate inorganic arsenic into less toxic organoarsenic forms could be harnessed for the detoxification of [[mycoremediation]] Research
 
 The complex arsenic speciation profile of this species makes it a model organism for studying fungal mechanisms of metalloid tolerance and transformation. Understanding these mechanisms could lead to the development of fungal-based strategies for managing arsenic-contaminated sites.
 
@@ -111,11 +73,7 @@ The presence of methylated arsenic compounds (MA and DMA) in sarcodon imbricatus
 
 ### Environmental Context
 
-The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflects the bioavailability of arsenic in their [[mushroom-growing-environments]]. Arsenic occurs naturally in soil minerals and can be elevated by anthropogenic activities including mining, smelting, use of arsenical pesticides, and coal combustion. The ability of ectomycorrhizal fungi to accumulate arsenic from soil may influence arsenic cycling and availability in forest ecosystems.
-
-## Bioactive Compounds
-
-In addition to arsenic metabolism, sarcodon imbricatus has been studied for its production of various bioactive [[biodiversity-fungal-secondary-metabolites]]. Some Sarcodon species produce scabronine derivatives and other terpenoid compounds with biological activity, including potential anti-inflammatory and neurotrophic properties. However, the specific bioactive compound profile of S. imbricatus requires further investigation.
+The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflects the bioavailability of arsenic in their [[biodiversity-fungal-secondary-metabolites]]. Some Sarcodon species produce scabronine derivatives and other terpenoid compounds with biological activity, including potential anti-inflammatory and neurotrophic properties. However, the specific bioactive compound profile of S. imbricatus requires further investigation.
 
 ## Research Notes
 
@@ -123,7 +81,6 @@ Dighton (2003) discusses sarcodon imbricatus in the context of metal accumulatio
 
 ## See Also
 
-- [[medicinal-mushroom-immune-modulation]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 
 - Sarcodon
@@ -132,5 +89,4 @@ Dighton (2003) discusses sarcodon imbricatus in the context of metal accumulatio
 - heavy metal accumulation
 - Bankeraceae
 - Basidiomycota
-- [[sarcodon-scabrosus]]
 - [[sarcodon-scorodonium]]

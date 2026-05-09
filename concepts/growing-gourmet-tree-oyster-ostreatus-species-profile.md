@@ -14,41 +14,7 @@ sources:
 type: concept
 ---
 
-# Tree Oyster Mushroom ([[pleurotus-ostreatus]]) Species Profile
-
-## Overview and Description
-
-The prototypic Oyster mushroom, Pleurotus ostreatus has long been a
-favorite of mushroom hunters, especially in springtime in lowland
-hardwood forests. A prolific producer on a wide array of substrates,
-strains are plentiful and easy to grow. Enjoying a worldwide reputation,
-specimens of extraordinary size have been collected from the wild. In
-the fall of 1988 near the north coast of Sicily, Salvatore Terracina
-collected a P. ostreatus nearly 8 ft in circumference, 20 inches thick,
-and weighing 42 lbs.
-
-Cap convex at first, expanding to broadly convex, eventually flat and
-even upturned in age. 5-20 cm or more in diameter. White to yellow to
-grayish yellow to tan, rarely with pinkish tones, to lilac gray to
-gray-brown. Cap margin smooth to undulating like an Oyster shell. Color
-varies according to strain, lighting, and temperature. Stems typically
-eccentrically attached. Flesh generally thin. Some strains form
-clusters; others form individuals.
-
-## Common Names
-
-The Oyster Mushroom, Oyster Shelf, Tree Oyster, Straw Mushroom,
-Hiratake (Japanese), Tamogitake (Japanese).
-
-## Taxonomic Complexity
-
-P. ostreatus is the type species for the Genus Pleurotus and represents
-a huge complex of subspecies, varieties and strains. It is so similar to
-P. pulmonarius that they are difficult to separate macroscopically. The
-western collections on conifers usually fall into P. pulmonarius. A
-recently named species, P. populinus Hilber and Miller, has a marked
-preference for black cottonwood and aspen with buff-colored, non-lilac
-[[spore-print]] and larger spores.
+# Tree Oyster Mushroom ([[spore-print]] and larger spores.
 
 P. florida Eger is considered conspecific with P. ostreatus because
 spores from each are cross-fertile and produce fertile fruitbodies. The
@@ -104,8 +70,7 @@ mycelium soon invades through one of its orifices, quickly consuming
 the internal organs. From an evolutionary viewpoint, it is remarkable
 that a saprophytic mushroom can become predatory to an animal in its
 quest for new sources of nitrogen. This may explain why nematodes have
-never been reported as a pathogen in [[cotter-oyster-mushroom-cultivation]],
-whereas their occurrence in Button [[mushroom-cultivation]] is economically
+never been reported as a pathogen in [[mushroom-cultivation]] is economically
 devastating.
 
 ## Medicinal Properties

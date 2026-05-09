@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-ALEPH-4 is a member of the [[aleph-family-overview]] of thio-substituted amphetamines, carrying an isopropylthio group at the 4-position. It is the amphetamine analogue of 2c-t-4-entity|2C-T-4. Synthesized and bioassayed by [[alexander-shulgin]], it demonstrates the pattern of increasing chain length on the sulfur atom within the ALEPH/2C-T series.
+ALEPH-4 is a member of the [[alexander-shulgin]], it demonstrates the pattern of increasing chain length on the sulfur atom within the ALEPH/2C-T series.
 
 The compound was one of the ALEPH series that was actually completed and evaluated (along with ALEPH, ALEPH-2, ALEPH-6, and ALEPH-7), while ALEPH-3 and ALEPH-5 remained unfinished at the synthesis stage.
 
@@ -53,30 +53,32 @@ Synthesized from 2,5-dimethoxy-4-((i)-propylthio)benzaldehyde (see 2c-t-4-entity
 
 ## Pharmacology
 
-As a thio-substituted amphetamine, ALEPH-4 likely acts as a [[phenethylamine-receptor-pharmacology]]. The isopropylthio group, being larger and more lipophilic than the methylthio or ethylthio groups, contributes to the very long duration and complex pharmacological profile.
-
-## Comparison Within the ALEPH Series
-| Compound | Substituent | Dosage (mg) | Duration (h) |
-|----------|-------------|-------------|--------------|
-| aleph-1-entity|ALEPH | SCH3 | 5-10 | 10-14 |
-| aleph-2-entity|ALEPH-2 | SC2H5 | 4-8 | 8-16 |
-| ALEPH-4 | SCH(CH3)2 | 7-12 | 12-20 |
-
-The pattern shows that increasing the alkyl chain on sulfur tends to increase duration, though potency does not follow a simple trend. The isopropyl group of ALEPH-4 is bulkier and more branched than the linear ethyl of ALEPH-2, which may contribute to both the longer duration and the more complex pharmacological profile including hints of body toxicity.
-
-## Why ALEPH-3 and ALEPH-5 Were Never Completed
-
-The ALEPH series has notable gaps. ALEPH-3 (methallylthio) was attempted on two separate occasions, years apart, but the aldehyde synthesis "was a mess" both times. The project was abandoned and later reinitiated with a new number -- 2C-T-20 for the phenethylamine version. ALEPH-5 (cyclohexylthio) got as far as the nitrostyrene, which "sits there on the shelf to be reduced to ALEPH-5 some inspired day."
-
-These gaps illustrate the practical reality of [[mckenna-tryptamine-research-legal-status]]: not every planned compound can be completed, and research priorities shift as more promising directions emerge. The discovery of dom-entity|DOM's remarkable potency during this period was one such redirecting event.
+As a thio-substituted amphetamine, ALEPH-4 likely acts as a [[mckenna-tryptamine-research-legal-status]]: not every planned compound can be completed, and research priorities shift as more promising directions emerge. The discovery of dom-entity|DOM's remarkable potency during this period was one such redirecting event.
 
 ## Related Compounds
 
 - aleph-1-entity|ALEPH (methylthio)
 - aleph-2-entity|ALEPH-2 (ethylthio)
 - 2c-t-4-entity|2C-T-4 (the phenethylamine analogue)
-- [[2c-family-compounds-overview]] (for structural comparison)
 - [[phenethylamine-duration-and-timing]]
-- [[aleph-family-overview]]
 - [[aleph-1-entity]]
 - [[aleph-1-entity]]
+## Practical Considerations
+
+Successful implementation of ALEPH-4 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

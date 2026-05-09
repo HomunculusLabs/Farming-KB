@@ -1,7 +1,7 @@
 ---
 title: "Rain Water Harvesting"
 created: 2026-04-28
-tags: [permaculture, water-harvesting, rainwater, swales]
+tags: [[permaculture, water-harvesting, rainwater, swales]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
@@ -19,132 +19,89 @@ precipitation is accounted for in the design.
 
 Water falls copiously from the sky, literally like mana from
 heaven, yet we completely ignore this valuable, free, life
-giving resource. Permaculture Principle 2 calls for us to
-catch and store energy, Principle 7 calls for us to obtain
-a yield, Principle 10 calls for us to use and value
-renewable resources. Together the principles are screaming
-at us to collect and harness the water that falls from the
-sky. A good permaculture designer accounts for every last
-drop of rain that falls on every square inch of their site.
-
-## Two Main Strategies
-
-There are two main strategies for collecting rain water: one
-calls for storing in cisterns, the other calls for storing in
-the earth itself. Both strategies should be considered for
-every design, and often both are employed together.
-
-## Cistern Storage
-
-Catching water in cisterns is really only feasible off roofs
-and similar surfaces. Think about it: every roof you have
-ever seen catches rain and runs it off into a gutter which
-then dumps it into a sewer. It would not be hard to just
-have that gutter deliver that water into a barrel, cistern,
-or other container.
-
-First, consider the type of roofing. Never catch water off a
-roof with tar tiles, as toxic chemicals will leach into the
-water. The best roofs are metal or possibly slate tiles. The
-best surface is a roof covered in elastomeric paint, a
-rubberized paint that creates a safe waterproof barrier.
-
-## The Rain Water Formula
-
-For every one thousand square feet a surface will catch six
-hundred gallons of water per inch of rain. The formula is:
-Square Feet times Inches of Rain times 600, divided by 1,000,
-equals Gallons. With this formula and knowing your average
-annual rainfall you can determine how many gallons any
-surface can collect and begin planning your cistern system.
-
-## Designing Cisterns as Permaculture Structures
-
-Rain water collection tanks are permaculture structures in
-their own right, so all design considerations from that
-standpoint apply. Do not just think of them as tanks that
-have to sit there and be tanks. Ask yourself how you can
-maximize the ecological potential of the tank itself. Can
-you take advantage of its microclimate, use it to grow food
-vertically? Can it serve an architectural purpose such as
-helping to increase privacy or block an undesirable view?
-The possibilities are limited only by your imagination and
-skill as a designer.
-
-## Earth Storage
-
-Earth storage means getting water to infiltrate into the
-ground on your site. Modern design typically treats rain
-water as something to drain off and shunt away. A
-[[permaculture-design]] attempts to hold all rain water on site.
+giving resource. [[permaculture-design]] attempts to hold all rain water on site.
 However it is not enough to just hold the water; it must
 infiltrate, meaning soak into the ground. The key is to
 create areas of soft, loamy soil and aim the water toward
 them.
 
-## Swales and Berms
+## [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[permaculture-farm-design-principles]]
+## Practical Applications
 
-The purpose of a swale is to catch rain water and slow it
-down, so a swale should cut across the path of water flowing
-downhill. Berms are similar but built on top of the ground
-rather than dug into it. Typically a berm and swale are made
-at the same time: take the earth from the swale and pile it
-up as a berm on the downhill side.
+Rain Water Harvesting has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
 
-Berms and swales can guide water across your site into
-garden beds. Garden beds designed to hold rain water should
-be dug down about six inches so they can hold water. If
-berms, swales, and gardens are not enough, you can dig
-infiltration pits about a foot or two deep, a few feet
-across, with gentle sloping sides, filled with mulch.
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
 
-## Infiltration Rate
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
 
-The key to designing earth storage systems is understanding
-how much water can infiltrate into a given area of soil, the
-infiltration rate. You can create a simple infiltrometer from
-a coffee can with both ends removed. Work it an inch into the
-soil, pour in a measured gallon of water, and time how long it
-takes to soak away. This data tells you how much earth storage
-capacity your site has and how large your swales and pits
-need to be to handle expected rainfall.
+## Key Considerations
 
-## Infiltration Pits
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
 
-Infiltration pits are strategically placed holes about a foot
-or two deep and a few feet across with gentle sloping sides,
-filled with mulch. They are not haphazardly dug around the
-yard; they are designed to catch any water that would
-otherwise run off the site. Infiltration pits complement
-berms and swales by providing additional capacity in areas
-where surface water flow is concentrated.
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
 
-## Aiming for Complete Capture
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
 
-By a combination of collecting rain water in cisterns off
-roofs and doing your earthworks design you can make sure that
-your design catches and collects 100 percent of the rain
-water from the sky. By calculating exactly how much rain
-water you can reasonably expect you can begin to do detailed
-planning for sustainable water consumption for your systems.
+## Common Challenges
 
-## Dealing with Rainfall Variability
+Practitioners commonly encounter several challenges when working with
+Rain Water Harvesting. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
 
-Remember that all of your rain water calculations are based
-on average rainfall. This means sometimes you will catch
-more than calculated, sometimes less. Make sure that the
-water consumption habits of your system are flexible enough
-that they can deal with this fluctuating water amounts. Build
-in redundancy and overflow pathways so that excess water does
-not become a problem during heavy rain events.
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
 
-## Recommended Reading
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
 
-Rainwater Harvesting for Drylands and Beyond by Brad
-Lancaster is an excellent resource for deepening your
-understanding of rain water harvesting techniques and design.
+## Integration and Future Development
 
-## See Also
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

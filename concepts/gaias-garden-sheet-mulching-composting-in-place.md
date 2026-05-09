@@ -134,8 +134,6 @@ simply piling on mulch.
 
 ## See Also
 
-- [[faires-permaculture-soil-and-sheet-mulching]]
 - [[gaias-garden-soil-food-web-living-soil]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[ozier-pdc-composting-and-soil-building]]
 - [[cover-crop-multifunction-design]]

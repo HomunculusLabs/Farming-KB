@@ -10,64 +10,7 @@ tags: [cannabis, nutrients]
 
 # Nutrient Management
 
-[[greg-green]]'s Cannabis Grow Bible provides practical guidance on feeding
-cannabis plants through all growth stages, including NPK management,
-secondary nutrients, micronutrients, pH control, and troubleshooting.
-
-## Primary Nutrients (NPK)
-
-The three major nutrients needed for cannabis growth:
-
-- **Nitrogen (N)**: Needed in good levels during vegetative growth.
-  Deficiency causes yellowing leaves, stunted growth.
-- **Phosphorus (P)**: Needed in higher levels during flowering for
-  bud production.
-- **Potassium (K)**: Needed in normal levels throughout growth.
-  Deficiency causes brown, curling leaf tips.
-
-NPK ratios are expressed as percentages on fertilizer labels (e.g.,
-20-20-20 means 20% N, 20% P, 20% K). For vegetative growth, the first
-number (N) should be equal to or higher than the other two. Suitable
-ratios include 12-12-12, 20-20-20, 12-6-6, and 18-4-5.
-
-## Feeding Strategy
-
-Green recommends three types of feeding solutions throughout the plant's
-life:
-
-1. **Vegetative feed**: NPK with N equal to or higher than P and K
-2. **Flowering feed**: NPK with P higher than N and K
-3. **Secondary nutrient supplement**: Ca, Mg, and S
-
-A fourth bottle of micronutrients is also handy.
-
-### Feeding Rules
-
-- Feed only when the plant needs it
-- Most plants only need feeding every fortnight (2 weeks)
-- Always mix at 50% or less of the label recommendation -- marijuana
-  plants burn easily
-- If the label says 1 capful per 3 gallons, use 1 capful per 6
-  gallons
-- Never feed once a day
-- Always mix feed with water in a container first; never pour
-  concentrated feed directly onto soil
-- Switch to flowering feed when the plant enters its flowering cycle
-- Add secondary nutrients (especially Epsom salts for Mg) once every
-  3 weeks
-
-## Secondary Nutrients (CaMgS)
-
-- **Calcium (Ca)**, **Magnesium (Mg)**, **Sulfur (S)**: Found in soil
-  but sometimes deficient. Mg deficiency is common. To correct, feed
-  1/3 spoonful of Epsom salts per 3 gallons of water every 3-4 weeks.
-  Alternatively, find a feeding product containing these elements.
-
-## Micronutrients
-
-Seven micronutrients are needed: iron, boron, chlorine, manganese,
-copper, zinc, and molybdenum. Micronutrient problems rarely appear
-unless there is [[nutrient-lockout]].
+[[nutrient-lockout]].
 
 ## pH Management
 
@@ -146,3 +89,7 @@ nutrient lockout, and bad genetics.
 
 ## See Also
 - [[green-cannabis-grow-bible-vegetative-phase-management]]
+
+## See Also
+
+- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]

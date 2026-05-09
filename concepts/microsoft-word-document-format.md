@@ -107,12 +107,8 @@ specific file types, mitigating the risk of macro-based attacks.
 
 ## See Also
 
-- [[microsoft-word-document-format-history]]
 - [[document-format-conversion-fidelity]]
-- [[microsoft-word]]
 - [[microsoft-word-history]]
-- [[word-document-formats]]
-
 - [[office-open-xml]] for the full OOXML specification details
 - rich text format for the RTF interchange format
 - [[document-interoperability-standards]] for cross-application compatibility

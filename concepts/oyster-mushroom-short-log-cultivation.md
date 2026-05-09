@@ -3,16 +3,7 @@ title: Oyster Mushroom Short Log Cultivation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, cultivation, mushrooms]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-Updated: 2026-04-18
-
-Source: Mushroom Growers' Handbook 1: Oyster Mushroom Cultivation (MushWorld, 2004) — Chapter 7, Kwon & Kang (MushWorld)
-
-Short log method for [[cotter-oyster-mushroom-cultivation]] in temperate regions. Two basic methods exist: long log (1m sections, similar to shiitake) and short log (20cm sections). The short log method is more labor intensive but shows relatively higher production.
+tags: [[cotter-oyster-mushroom-cultivation]] in temperate regions. Two basic methods exist: long log (1m sections, similar to shiitake) and short log (20cm sections). The short log method is more labor intensive but shows relatively higher production.
 
 ## Tree Species Selection
 
@@ -98,11 +89,7 @@ Short log method for [[cotter-oyster-mushroom-cultivation]] in temperate regions
 
 ## Related
 
-- [[cotter-oyster-mushroom-cultivation]]
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]
-- [[oyster-mushroom-bag-cultivation]]
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[mushroom-sawdust-bran-spawn-preparation]]
 - [[jadam-leaf-mold-soil-method]]
-- [[mushroom-cultivation-wood-logs]]
 - [[shock-method-fruit-tree]]

@@ -136,11 +136,7 @@ including cardiovascular and neuroprotective effects.
 ## See Also
 
 - [[porphyra-umbilicalis]]
-- [[gracilaria]]
 - [[ulva-lactuca]]
-- [[saccharina-latissima]]
 - [[undaria-pinnatifida]]
-- [[laminaria-digitata]]
 - [[chondrus-crispus]]
-- [[palmaria-palmata]]
 - [[arthrospira-platensis]]

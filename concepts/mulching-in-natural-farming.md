@@ -10,39 +10,7 @@ type: concept
 
 # Mulching in Natural Farming
 
-Mulching is a foundational practice in [[fukuoka-natural-farming]] and many other natural farming systems. Masanobu
-Fukuoka demonstrated that returning all straw and crop
-residues to the land through mulching could maintain soil
-fertility indefinitely without chemical fertilizers or
-compost. His direct-seeding, no-tillage rice/barley
-succession method relies fundamentally on straw mulch.
-
-## Fukuoka's Straw Mulching Method
-
-Fukuoka's breakthrough came from challenging the
-conventional wisdom that rice straw should not be left on
-paddy fields. Agricultural experts strictly forbade
-leaving straw on paddies for fear of disease, but Fukuoka
-confirmed that rice straw left on the ground during autumn
-decomposes entirely by the following spring, leaving no
-trace of pathogenic microbes.
-
-His method involves scattering uncut rice straw over the
-entire field after threshing. This practice:
-
-- Suppresses weed growth effectively
-- Maintains soil moisture
-- Provides habitat for beneficial microorganisms
-- Prevents soil erosion
-- Gradually builds soil organic matter
-- Moderates soil temperature fluctuations
-
-## The Role of Straw in No-Till Systems
-
-In Fukuoka's natural farming system, straw mulch replaces
-tillage as the primary method of soil management. After
-harvesting rice, he scatters the straw uncut over the
-field and encloses rice seed in [[clay-seed-balls-tsuchi-dango]] before scattering them over the straw. This
+Mulching is a foundational practice in [[clay-seed-balls-tsuchi-dango]] before scattering them over the straw. This
 creates a complete cycle where all organic matter returns
 to the soil.
 
@@ -65,23 +33,7 @@ practice.
 ## Green Manure as Living Mulch
 
 Beyond straw, Fukuoka used living mulches in the form of
-ground covers. His [[fukuoka-clover-and-green-manure-cropping]] system uses clover as a permanent ground cover
-beneath grain crops. The clover:
-
-- Fixes atmospheric nitrogen for the grain crops
-- Suppresses unwanted weeds through competition
-- Protects the soil surface from erosion
-- Provides biomass when cut and left in place
-- Creates habitat for beneficial insects
-
-When clover growth threatens to overwhelm young rice
-seedlings, Fukuoka temporarily floods the field for four
-to seven days to weaken the clover without killing it,
-allowing the rice to establish dominance.
-
-## Comparison with Other Systems
-
-In [[korean-natural-farming]], grass mulching is prescribed
+ground covers. His [[korean-natural-farming]], grass mulching is prescribed
 as a remedy for weeds, often combined with brown rice
 vinegar to help dwarf unwanted vegetation. KNF avoids
 mechanical tillage and relies instead on "Nature's
@@ -122,9 +74,6 @@ could sustain high productivity indefinitely.
 
 ## See Also
 
-- [[fukuoka-natural-farming]]
 - [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-ground-cover-strategy]]
 - [[no-till-grain-growing]]
-- [[mulch-types-and-effects]]
 - [[mulching-guide]]

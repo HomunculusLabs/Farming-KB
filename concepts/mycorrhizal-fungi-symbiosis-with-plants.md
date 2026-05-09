@@ -116,12 +116,8 @@ ecosystem management.
 
 ## See Also
 
-- [[mycorrhizal-fungi-secondary-metabolite-elicitation]]
-
 - [[symbiosis-in-fungi]]
 
-- [[fairy-rings-mycelium-ecology-soil]]
 - [[fungal-hyphae-invasive-growth-mechanisms]]
-- [[biodiversity-fungi-plant-pathogens]]
 - [[lichen-symbiosis-fungi-algae-partnership]]
 - [[endophytic-fungi-living-inside-plants]]

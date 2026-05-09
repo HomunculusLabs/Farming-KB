@@ -131,8 +131,6 @@ circulates primarily through online research chemical markets.
 
 ## See Also
 
-- [[4-ho-met|4-HO-MET]] — active deacetylated metabolite and closely related compound
 - [[4-aco-dmt|4-AcO-DMT]] — N,N-dimethyl analogue with greater potency and depth
-- [[psilocin-entity-tihkal|Psilocin]] — natural psychedelic tryptamine from psilocybin mushrooms
 - [[4-ho-mipt|4-HO-MiPT]] — related synthetic tryptamine with distinct character
 - [[5-meo-mipt|5-MeO-MiPT]] — N,N-dimethylisopropyl tryptamine ("Moxy")

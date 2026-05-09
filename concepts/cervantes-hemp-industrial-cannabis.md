@@ -113,8 +113,6 @@ quite high to second-rate depending on the specific population.
 
 ## See Also
 
-- [[cervantes-indica-sativa-ruderalis-differences]]
 - [[cervantes-sinsemilla-cultivation]]
-- [[cervantes-strain-selection]]
 - [[cervantes-landrace-cannabis-populations]]
 - [[cervantes-pollen-collection-storage]]

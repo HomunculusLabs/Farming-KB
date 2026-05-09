@@ -112,13 +112,7 @@ The health claim approval by the U.S. FDA in 1997 significantly boosted oat cons
 
 ## See Also
 
-- [[triticum-aestivum]]
 - [[hordeum-vulgare]]
-- [[zea-mays]]
 - [[oryza-sativa]]
-- [[sorghum-bicolor]]
-- [[beta-glucan]]
 - [[glycine-max]]
-- [[pisum-sativum]]
-- [[ergot]]
 - [[claviceps-purpurea]]

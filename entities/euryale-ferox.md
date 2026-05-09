@@ -5,7 +5,7 @@ updated: 2026-04-28
 type: species
 tags:
   - aquatic-plant
-  - permaculture
+  - [[permaculture]]
   - food-crop
   - traditional-medicine
   - nymphaeaceae
@@ -76,56 +76,6 @@ Dried fox nuts are valued for their exceptional nutritional profile:
 
 ## Bioactive Compounds and Pharmacology
 
-Seeds contain alkaloids (euryalin, isololiolide), flavonoids (quercetin,
-kaempferol glycosides), phenolic acids (gallic, ellagic, ferulic),
-saponins, and bioactive polysaccharides with notable antioxidant activity.
-
-**Ayurveda:** Classified as medhya rasayana (brain tonic); prescribed for
-cognitive enhancement, kidney support, reproductive vitality, and
-anti-inflammatory applications.
-
-**Traditional Chinese Medicine:** Qian shi strengthens the spleen,
-arrests diarrhea, tonifies the kidneys, and treats leukorrhea.
-
-**Modern pharmacology:** Demonstrated anti-inflammatory activity (COX-2,
-NF-κB inhibition), hepatoprotective effects against CCl₄-induced damage,
-anti-diabetic properties via alpha-glucosidase inhibition, and
-neuroprotective effects against oxidative stress in neuronal models.
-
-## Cultivation
-
-Primarily cultivated in Bihar, India, supporting 100,000+ farming
-households. Traditional methods use monsoon-flooded fields.
-
-Seeds sown directly in prepared pond beds (June–July), spaced 1–1.5 m
-apart, in water 60–90 cm deep. Harvest September–November by hand from
-submerged fruits. Yields: 800–1,500 kg dried seeds per hectare.
-
-⚠️ **Labor challenge:** Manual harvesting in waterlogged conditions limits
-scalability; mechanized methods remain under development.
-
-Post-harvest processing is labor-intensive: seed extraction from spiny
-fruits, washing, sun-drying, and grading by size.
-
-## Permaculture Applications
-
-E. ferox serves multiple functions in designed aquatic ecosystems:
-
-- **Food production:** High-value edible seeds with growing market demand
-- **Habitat:** Dense leaf canopy shades and shelters fish, amphibians,
-  and invertebrates
-- **Water filtration:** Root systems trap suspended particles, clarifying
-  turbid water
-- **Nutrient cycling:** Spent plant debris enriches pond bottom substrate
-- **Polyculture:** Integrates with fish farming, rice paddies, and duck
-  aquaculture
-
-Well-suited for zone 1–2 aquaculture in tropical/subtropical permaculture
-designs. Its nutrient uptake helps maintain pond water quality.
-
-## See Also
-
-- [[nelumbo-nucifera]] — Sacred lotus, related aquatic food and medicine
-- [[nymphaea-caerulea]] — Blue lotus, ethnobotanical Nymphaeaceae member
+Seeds contain alkaloids (euryalin, isololiolide), flavonoids ([[nelumbo-nucifera]] — Sacred lotus, related aquatic food and medicine
 - [[azolla-filiculoides]] — Aquatic fern biofertilizer for rice paddies
 - spirulina arthrospira — Aquatic microorganism for protein production

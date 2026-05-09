@@ -84,64 +84,10 @@ Although the ethyl group (of the ethylthio
 on the 4-position) is just one carbon atom longer than the methyl
 group (of TM) that small change already produces hints and indicators
 of some physical toxicity. The propyl compound (see TP) is still of
-similar potency, but appears to be yet more difficult, physically.[[mescaline-entity]]l homolog never made it off the ground at all as a
-psychedelic, but the physical difficulties seem less as well. All
-that was left to come through was the euphoria. If this 4-position
-sulfur analogue series of mescaline is ever to be more carefully
-explored, it must almost certainly be with the shortest possible chain
-(TM, as a psychedelic) or with long, long chains (the four-carbon
-chain of the butyl group in TB), as a feel-good compound.
+similar potency, but appears to be yet more difficult, physically.[[2-4-dma-entity-pihkal]]
 
-## Synthesis
-
-A solution was made of 45.2 g
-N,N,N',N'-tetramethylethylenediamine and 41.4 g of
-1,3-dimethoxybenzene in 300 mL hexane. This was stirred vigorously
-under a He atmosphere and cooled to 0 deg C with an external ice bath.
-
-There was added 225 mL of 1.6 M butyllithium in hexane which produced
-a white granular precipitate. The reaction mixture was stirred for 15
-min. There was then added 38 mL of diethyl disulfide which changed
-the granular precipitate to a creamy character. Stirring was
-continued for an additional 5 min, then the reaction mixture was
-poured into 1 L of dilute H2SO4. The two phases were separated, and
-the aqueous phase extracted with 2x150 mL Et2O. The organic phases
-were combined, and the solvent removed under vacuum to provide 60 g of
-2-ethylthio-1,3-dimethoxybenzene as an off-white oil that
-spontaneously crystallized. It was distilled nonetheless, boiling at
-85-96 deg C at 0.4 mm/Hg. This distillate can be recrystallized from
-hexane to form long needles with a mp of 45-46 deg C. Anal. (C10H14O2S)
-C,H.
-
-To a stirred solution of 60 g of 2-ethylthio-1,3-dimethoxybenzene in
-300 mL CH2Cl2 there was added 49 g elemental bromine dissolved in 100
-mL CH2Cl2. The reaction was not exothermic, and it was allowed to
-stir for 2 h. The reaction mixture was washed with H2O, then with
-aqueous NaOH, and finally with H2O that contained sodium hydrosulfite.
-The solvent was removed under vacuum leaving 84 g of an amber oil as
-residue. This was distilled at 105-115 deg C at 0.15 mm/Hg yielding 73.3
-g of 4-bromo-2-ethylthio-1,3-dimethoxybenzene as a light yellow oil.
-Anal. (C11H15BrO2S) C,H.
-
-To a solution of 27 mL diisopropylamine in 150 mL anhydrous THF that
-was stirred under a N2 atmosphere and cooled to -10 deg C with an
-external ice/MeOH bath, there was added in sequence 83 mL of 1.6 M
-butyllithium in hexane, 4.4 mL of dry CH3CN over the course of 5 min,
-and finally 12.1 g of 4-bromo-2-ethylthio-1,3-dimethoxybenzene which
-had been dissolved in 20 mL THF (also added over the course of 5 min).
-The color progressed from yellow to orange to deep red-brown.
-Stirring was continued for 10 min, and then the reaction mixture was
-poured into 300 mL dilute H2SO4. The organic layer was separated, and
-was washed with more dilute H2SO4. The aqueous phases were combined,
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
+- [[p-entity]]
 
 ## See Also
 
-- [[2-4-dma-entity-pihkal]]
-
-- [[tma-2-entity-pihkal]]
-
-- [[p-entity]]
+- [[tma-5-entity-pihkal]]

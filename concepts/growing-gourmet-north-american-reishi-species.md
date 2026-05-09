@@ -79,30 +79,7 @@ recognized as medicinally active.
 ## Medicinal Properties
 
 All species in this complex contain the same key bioactive compounds
-that make [[growing-gourmet-reishi-cultivation]] so
-highly valued:
-
-### Beta-Glucans and Polysaccharides
-- Immune-modulating beta-(1,3)(1,6)-D-glucans
-- Stimulate macrophage and NK cell activity
-- Anti-tumor properties demonstrated in multiple studies
-
-### Triterpenes (Ganoderic Acids)
-- Hepatoprotective (liver-protecting) effects
-- Anti-inflammatory properties
-- Anti-allergic and anti-histamine activity
-- Help lower blood pressure and cholesterol
-
-### Other Compounds
-- Ling Zhi-8 protein: anti-allergic, immunomodulatory
-- Adenosine: coronary vasodilator, anti-platelet aggregant
-- Organic germanium: immune stimulant, oxygen catalyst
-
-## Cultivation Considerations
-
-### Substrate
-North American Ganoderma species grow well on supplemented hardwood
-sawdust, similar to [[growing-gourmet-supplemented-sawdust-sterilization]]. G. tsugae prefers conifer sawdust (hemlock, Douglas fir) but can also
+that make [[growing-gourmet-supplemented-sawdust-sterilization]]. G. tsugae prefers conifer sawdust (hemlock, Douglas fir) but can also
 fruit on hardwood substrates. G. oregonense is typically wild-
 harvested due to its slow growth in culture.
 
@@ -138,8 +115,6 @@ G. lucidum, as the former is more readily available.
 
 ## Related Topics
 
-- [[growing-gourmet-reishi-cultivation]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]
-- [[growing-gourmet-harvesting-storage]]
 - [[growing-gourmet-strain-selection]]
 - [[growing-gourmet-contamination-prevention]]

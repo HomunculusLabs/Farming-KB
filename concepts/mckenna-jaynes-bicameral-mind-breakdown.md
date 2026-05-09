@@ -140,11 +140,8 @@ Research on **auditory verbal hallucinations** in schizophrenia has revisited Ja
 The theory raises questions about the **cultural construction of selfhood** — whether the bounded, autonomous ego is truly universal or a particular historical product.
 
 Jaynes's insight that "gods" may once have been experienced as real, literal voices rather than metaphorical or abstract entities challenges conventional understandings of religious history and anticipates modern discussions about the **relationship between AI and consciousness** — if a machine speaks to us in a voice we perceive as other, do we experience something analogous to the bicameral mentality?
-
 ## See Also
 
-- [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-catalyzing-consciousness-language-formation]]
-- [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-language-and-reality]]
 - [[mckenna-dominator-vs-partnership-society-model]]

@@ -3,19 +3,7 @@ title: Mollison on Zone One Techniques
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Zone One Techniques
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet IX (Permaculture Techniques), 1981
-**Last Updated:** 2026-04-18
-
-## Overview
-
-Mollison provides highly detailed practical guidance for the intensive Zone One garden -- the area immediately around the house that receives the most attention and produces the highest yields per square foot. This extends [[mollison-zone-one-garden-design]].
+tags: [[mollison-zone-one-garden-design]].
 
 ## House Layout and Zone Connection
 
@@ -106,11 +94,8 @@ Mollison provides highly detailed practical guidance for the intensive Zone One 
 
 ## Related Pages
 
-- [[mollison-zone-one-garden-design]]
 - [[mollison-animal-integration-in-permaculture]]
-- [[mollison-poultry-duck-integration]]
 - [[faires-soil-management-and-sheet-mulching]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[faires-permaculture-soil-and-sheet-mulching]]
 - [[permaculture-water-pond-systems-design-course]]
 - gaias garden herb spiral and natural patterns

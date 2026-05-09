@@ -16,45 +16,7 @@ sources:
 
 # Glomus versiforme
 
-**Glomus versiforme** is a species of arbuscular [[mycorrhiza]]l (AM) fungus belonging to the phylum Glomeromycota, the division dedicated exclusively to fungi forming arbuscular mycorrhizal symbioses with plants. As an AM fungus, *G. versiforme* forms mutualistic associations with the roots of the vast majority of terrestrial plant species, facilitating nutrient exchange and enhancing plant health. The species has been used in experimental studies of mycorrhizal function, particularly in understanding the molecular dialogue between fungus and host plant.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Phylum:** Glomeromycota
-- **Class:** Glomeromycetes
-- **Order:** Glomerales
-- **Family:** Glomeraceae
-- **Genus:** Glomus
-
-The taxonomy of the Glomeromycota has undergone substantial revision based on molecular phylogenetic data. The genus *Glomus* was historically the largest genus in the phylum, but many species have been reclassified into other genera (*Rhizophagus*, *Funneliformis*, *Claroideoglomus*, *Septoglomus*, *Simiglomus*). Some molecular studies suggest that *G. versiforme* may belong within the *Rhizophagus* or *Funneliformis* clade, though the name *Glomus versiforme* remains in widespread use in the mycorrhizal literature.
-
-## Morphology
-
-### Spores
-- **Spore Type:** Acaulosporoid or glomoid, produced singly in the soil or in sporocarps
-- **Spore Size:** Approximately 100 to 250 μm in diameter
-- **Spore Wall Structure:** The spore wall consists of multiple layers (laminae) with different staining properties when mounted in Melzer's reagent, PVLG (polyvinyl-lactic acid-glycerol), or other mounting media
-- **Spore Color:** Hyaline (colorless) to yellowish or pale brown when mature
-- **Subtending Hypha:** The hypha connecting the spore to the extraradical mycelium has characteristic morphological features that aid in species identification
-
-### Intraradical Structures
-- **Arbuscules:** Highly branched, tree-like structures formed inside cortical root cells of the host plant. Arbuscules are the primary site of nutrient exchange between fungus and plant, where the fungal and plant plasma membranes come into close apposition (the peri-arbuscular membrane)
-- **Vesicles:** Swollen, lipid-filled structures formed in root cortical cells, serving as storage organs for carbon and energy reserves. Vesicle formation varies among species and environmental conditions
-- **Intraradical Hyphae:** Coiled or straight hyphae that spread through the root cortex, interconnecting arbuscules and vesicles
-- **Paris versus Arum Morphology:** *Glomus versiforme* typically forms Arum-type colonization, with intercellular hyphae spreading longitudinally between cortical cells and producing arbuscules from lateral branches
-
-## Symbiotic Function
-
-### Benefits to the Plant
-*Glomus versiforme*, like other AM fungi, provides several benefits to its host plant:
-
-1. **Phosphorus Uptake:** The most well-documented benefit is enhanced phosphorus nutrition. The extensive extraradical mycelial network explores soil volumes beyond the root depletion zone, absorbing phosphate and transporting it to the plant
-2. **Nitrogen Uptake:** Contributes to nitrogen acquisition, particularly organic nitrogen forms that roots cannot directly access
-3. **Water Relations:** May improve plant water status through enhanced hydraulic conductivity and exploration of drier soil microsites
-4. **Disease Resistance:** Can enhance plant resistance to certain soil-borne pathogens through physical barriers, biochemical changes, and priming of plant defense responses
-5. **Heavy Metal Tolerance:** Some AM fungi, including *Glomus* species, can protect host plants from heavy metal toxicity by sequestering metals in fungal tissues or altering metal bioavailability in the rhizosphere
-6. **Soil Aggregation:** Extraradical hyphae produce [[glomalin-and-soil-carbon]] (a glycoprotein) and other compounds that bind soil particles, improving soil structure and stability
+**Glomus versiforme** is a species of arbuscular [[glomalin-and-soil-carbon]] (a glycoprotein) and other compounds that bind soil particles, improving soil structure and stability
 
 ### Benefits to the Fungus
 The fungus receives carbon from the host plant:
@@ -119,8 +81,5 @@ Standard techniques for studying *G. versiforme* and other AM fungi include:
 
 ## See Also
 
-- [[glomus-intraradices]]
 - [[glomus-mosseae]]
-- [[gigaspora-marginata]]
-- arbuscular-mycorrhizas
 - [[mycorrhizal-symbiosis]]

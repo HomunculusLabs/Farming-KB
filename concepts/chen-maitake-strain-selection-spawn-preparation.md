@@ -12,10 +12,8 @@ type: concept
 # Strain Selection and Spawn Preparation for Maitake Cultivation
 
 Strain selection is the single most critical decision before starting
-[[maitake-cultivation]]. Alice W. Chen (1999) emphasizes that unlike
-oyster ([[chen-maitake-primordia-initiation-fruiting]] spp.) or reishi
-([[mushroom-cultivation-in-kenya]]) mushrooms, a
-high percentage of [[grifola-frondosa]] strains do not fruit well, if at
+[[chen-maitake-primordia-initiation-fruiting]] spp.) or reishi
+([[grifola-frondosa]] strains do not fruit well, if at
 all. Ninety percent of strains from culture collections and wild isolates
 tested by reputable growers fail to produce well-formed fruiting bodies.
 
@@ -28,49 +26,18 @@ strains in:
 - **Growth rate**: Strains with a spawn run of 30 days before primordia
   initiation are considered fast-growing; many require 60 to 90 days or
   more of mycelial growth and maturation.
-- **Yield**: [[chen-maitake-harvesting-yield-comparison]] in maitake
-  is generally low (1.1 to 2.2 kg, up to 4.4 kg per bag).
-- **Temperature requirements**: Fruiting temperature ranges from 8 to
-  20 degrees C depending on the strain and geographic origin.
-- **Fruiting body features**: Color and shape of caps vary considerably.
-  Maitake mushrooms may be light gray, grayish white, or light brownish
-  yellow depending on strain.
-
-Testing a new strain before production is therefore essential. Reputable
-growers often take pride in selecting their own unique high-quality
-strains. North American strains were cloned from wild specimens in
-Pennsylvania, while Chinese strains were isolated from high-altitude
-locations in subtropical Fujian province.
-
-## Types of Spawn for Maitake
-
-Spawn is the vegetative propagation stage: vigorous mycelial growth on
-a chosen substrate material, used to inoculate new substrates under
-sterile conditions. Four types of spawn are commonly used:
-
-### 1. Liquid Spawn
-Liquid spawn can be labor-saving in inoculation through the use of a
-specially designed inoculator. Both liquid-surface culture and submerged
-fermentation have been used to produce liquid spawn. Production by
-submerged fermentation can be accomplished on an industrial scale
-(Fang and Zhu, 1998). See also [[liquid-inoculation-alternative-spawn-media]].
+- **Yield**: [[liquid-inoculation-alternative-spawn-media]].
 
 ### 2. Grain Spawn
 A variety of grains can serve as the spawn substrate, including millet,
 rye, wheat, sorghum, and milo. Millet-based spawn has been shown
 effective; increasing the amount from a few grams to 500 g per substrate
 bag can shorten the spawn run to approximately one week. See
-[[grain-spawn-preparation]] and [[mushroom-cultivation-grain-spawn]].
+[[mushroom-cultivation-grain-spawn]].
 
 ### 3. Sawdust Spawn
 Supplemented sawdust-bran substrates are usually the choice for
-[[mushroom-sawdust-bran-spawn-preparation]] production.
-This type aligns well with the substrate used for synthetic-log
-cultivation.
-
-### 4. Wooden Stick (Skewer) Spawn
-Wooden stick spawn can be easy to manipulate during inoculation (Oei,
-1996). This method is discussed in [[growing-gourmet-plug-spawn-production]].
+[[growing-gourmet-plug-spawn-production]].
 
 ## Spawn Sources and Suppliers
 
@@ -90,7 +57,7 @@ the paper include:
 - **Phillip Mushroom Farm** (Kennett Square, PA)
 
 The leading US grower, Franklin Mushroom Farms, does not sell spawn.
-See also [[mushroom-grain-spawn-preparation]] and [[growing-gourmet-home-spawn-vs-commercial-spawn]].
+See also [[growing-gourmet-home-spawn-vs-commercial-spawn]].
 
 ## Cultivation Bags
 
@@ -119,6 +86,5 @@ run characteristic of maitake:
 5. Ensure good substrate aeration with a fine-to-coarse sawdust ratio
   of 3:1 and proper moisture content.
 
-See also [[spawn-generation-techniques]] and
-[[mushroom-spawn-making-detailed]] for general spawn production
+See also [[mushroom-spawn-making-detailed]] for general spawn production
 principles applicable to maitake.

@@ -138,12 +138,13 @@ LSD is absorbed rapidly and reaches peak plasma concentrations within 1.5–3 ho
 - Elevated body temperature
 ## See Also
 
-- [[lsd-d-lysergic-acid-diethylamide]]
 - [[microdosing-guide]]
 
-- [[psilocybin-compound]] — Related classical psychedelic
-- dmso — Other psychedelic compounds
 - [[ergot-fungus]] — Natural source of lysergic acid
 - serotonin 2a receptor — Primary pharmacological target
 - mku ltra — CIA mind control program
 - bicycle day — Annual celebration (April 19)
+
+## See Also
+
+- [[lsd-lysergic-acid-diethylamide-experience-guide]]

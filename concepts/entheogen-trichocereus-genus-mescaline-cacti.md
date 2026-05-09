@@ -13,9 +13,7 @@ type: concept
 The genus Trichocereus (recently reclassified by many taxonomists into
 Echinopsis) comprises approximately 40 species of columnar cacti native to
 the subtropical and temperate regions of the South American Andes. Several
-species within this genus contain the phenethylamine alkaloid [[mescaline-compound-profile]],
-making them among the most significant entheogenic plants of the New World.
-Unlike the more widely known [[peyote-ceremony]] (Lophophora williamsii), Trichocereus
+species within this genus contain the phenethylamine alkaloid [[peyote-ceremony]] (Lophophora williamsii), Trichocereus
 cacti are large, fast-growing, tree-like columns that have been cultivated
 for ceremonial use since ancient times. Their ease of propagation and rapid
 growth rate have made them a focal point of both traditional indigenous
@@ -35,31 +33,7 @@ Chile.
 ## Species Containing Mescaline
 
 The following Trichocereus species are recognized as containing psychoactive
-concentrations of [[mescaline-compound-profile]] and related phenethylamine alkaloids:
-
-- T. pachanoi (San Pedro) -- the most widely cultivated and ceremonially
-  used species, common in Peru and Ecuador
-- T. peruvianus (Peruvian torch) -- reported by many references to be
-  several times as potent by weight as other Trichocereus species
-- T. bridgesii -- used in Bolivian ceremonies, sometimes called Achuma
-- T. macrogonus -- a large species with confirmed mescaline content
-- T. cuzcoensis -- endemic to the Cusco region of Peru
-- T. terscheckii -- the cardon grande, a massive Argentine columnar cactus
-- T. validus -- a lesser-known psychoactive species
-- T. werdermannianus -- contains mescaline in the stem tissue
-- T. taquimbalensis and T. fulvinanus -- reported as psychoactive
-
-Many varieties of Trichocereus are difficult to distinguish morphologically,
-and the taxonomy of the group remains in flux. The genus has been proposed
-for merger into Echinopsis by some authorities, though the name Trichocereus
-remains widely used in ethnobotanical and horticultural contexts.
-
-## Historical and Ethnobotanical Significance
-
-The earliest known depiction of a San Pedro cactus (T. pachanoi) appears on
-a stone tablet found in Peru dating to approximately 1300 BCE, placing its
-ceremonial use among the earliest documented entheogenic practices in the
-Americas. [[peyote-ceremony]] ritual objects have been found dating to 500 BCE, but
+concentrations of [[peyote-ceremony]] ritual objects have been found dating to 500 BCE, but
 the Andean cactus tradition may be even older. An early Peruvian report from
 approximately 1571 states that Inca medicine men foretold the future using
 these cactus preparations, indicating continuity of use from pre-Columbian
@@ -75,16 +49,12 @@ reflecting the syncretic blending of indigenous and Catholic traditions.
 
 ## Chemical Profile
 
-[[mescaline-compound-profile]] is the primary psychoactive alkaloid, but Trichocereus species
-also contain a large variety of related compounds that produce experiences
-qualitatively different from pure mescaline. The experience produced by
 [[peyote-ceremony]] is also quite distinct from that produced by cacti of the
 Trichocereus family, reflecting differences in the full alkaloid profile.
 
 Mescaline belongs to the phenethylamine family, making it chemically distinct
-from the indole-based psychedelics such as [[psilocybin-mushroom-biology-chemistry]], [[dmt-and-ayahuasca-history]], and
-[[hofmann-lsd-mazatec-and-psilocybin]]. Many synthetic phenethylamine psychedelics, including MDMA and 2C-B,
-are structurally related to mescaline. [[mescaline-compound-profile]] was first isolated from
+from the indole-based psychedelics such as [[dmt-and-ayahuasca-history]], and
+[[mescaline-compound-profile]] was first isolated from
 a Trichocereus species in 1896, making it the first psychedelic compound
 ever extracted and identified, and it was first synthesized in 1919.
 
@@ -113,11 +83,7 @@ The most common preparation method involves slicing short sections of stem
 like bread loaves and boiling them in water for several hours to produce a
 bitter, nauseating beverage. In Peru and Ecuador, this drink is called cimora.
 The ceremony associated with San Pedro is described in greater detail in the
-entry on [[san-pedro-cactus-preparation]]. Contemporary interest in these
-contemporary interest in these cacti has led to their cultivation worldwide as
-ornamental plants and, in some circles, as botanical specimens for
-ethnopharmacological study. Their accessibility and rapid growth compared
-to the extremely slow-growing [[peyote-ceremony]] make them a subject of particular
+entry on [[peyote-ceremony]] make them a subject of particular
 interest for conservation-oriented researchers seeking sustainable
 alternatives to wild harvesting of endangered cactus species.
 

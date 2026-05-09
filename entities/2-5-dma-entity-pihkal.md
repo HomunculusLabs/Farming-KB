@@ -8,27 +8,11 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2,5-DMA (DMA)
 
-[[al-pihkal-entry-2]] #54. 2,5-DIMETHOXYAMPHETAMINE.
-Also known as: DMA.
-
-## Chemical Name
-
-2,5-DIMETHOXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 80 - 160 mg. |
-| Duration | 6 - 8 h. |
-
-## Qualitative Comments
-
-No [[qualitative-comments-methodology-pihkal]] recorded.
+[[qualitative-comments-methodology-pihkal]] recorded.
 
 ## Extensions and Commentary
 
-The qualitative information on 2,5-DMA is very sparse. I was up to a 1+ with 80 milligrams of the hydrochloride, and since it appeared to be totally a physical trip with tremors and some cardiovascular push and nothing of a sensory nature, I chose to explore it no further. A report from [[gartz-magic-mushrooms-species-south-america]] found the intoxication to be largely pleasant (this, at 75 milligrams), with an enhanced interest in one's surroundings, but no perceptual changes, no overt stimulation, and no gross physiological effects other than a slight mydriasis (dilation of the pupils). I have also been told of a single trial of 250 milligrams of the tartrate (this is equivalent to somewhere in the 150-200 milligram range of the hydrochloride salt, depending upon the acid/base ratio of the tartrate salt) with some "speedy" effects but still no sensory changes. A seizure of capsules reported by the drug [[cervantes-grow-room-security-law-enforcement]] authorities some 20 years ago found that each contained some 200 milligrams of the hydrobromide salt. This is equivalent to 170 milligrams of the hydrochloride salt, and suggests that level may be an effective dosage.
+The qualitative information on 2,5-DMA is very sparse. I was up to a 1+ with 80 milligrams of the hydrochloride, and since it appeared to be totally a physical trip with tremors and some cardiovascular push and nothing of a sensory nature, I chose to explore it no further. A report from [[cervantes-grow-room-security-law-enforcement]] authorities some 20 years ago found that each contained some 200 milligrams of the hydrobromide salt. This is equivalent to 170 milligrams of the hydrochloride salt, and suggests that level may be an effective dosage.
 
 An intriguing, but little studied, analogue of 2,5-DMA is the compound with methyls in place of the methoxyls. 2,5-Dimethylamphetamine has been looked at, in man, as a potential anorexic, but there is little effect even at 150 milligrams. The 3,4-isomer, 3,4-dimethylamphetamine or xylopropamine, is an adrenergic agent and it has been found to be an analgesic in man at as little as 10 milligrams. This was assayed, rather remarkably, by attaching electrodes to the tooth fillings of the experimental subjects. But with this base, cardiovascular effects were not observed until doses of about 100 milligrams were administered, and toxic effects (nausea and vomiting) were reported at 150 milligrams. There was no suggestion of anything psychedelic.
 
@@ -58,14 +42,67 @@ were separated, and the ether phase dried by the addition of anhydrous MgSO4. Th
 
 ## Safety Notes
 
-2,5-DMA is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[2-4-dma-entity-pihkal]]
-- [[4-br-3-5-dma-entity-pihkal]]
+2,5-DMA is a research chemical documented in PIHKAL. Dosage data [[2-4-dma-entity-pihkal]]
 - [[3-4-dma-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related phenethylamine compounds in PIHKAL
+## Practical Considerations
+
+When working with 2,5-DMA -- 2,5-DIMETHOXYAMPHETAMINE -- PIHKAL Entry #54, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -99,11 +99,7 @@ The annual worldwide value of G. lucidum products exceeds US $1.6 billion (Chang
 
 ## See Also
 
-- [[reishi-mushroom-medicinal-properties]]
 - [[reishi-mushroom-medicinal-research]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[medicinal-mushroom-cardiovascular-metabolic-effects]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[medicinal-mushroom-cardiovascular-cholesterol-research]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

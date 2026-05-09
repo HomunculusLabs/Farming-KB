@@ -11,14 +11,7 @@ type: entity
 # Hypsizygus marmoreus
 
 **Type:** Species
-**Category:** Basidiomycete ([[agar]]icales)
-**Also known as:** Bunashimeji, Brown beech mushroom
-
-## Overview
-
-Hypsizygus marmoreus is a relatively new edible medicinal mushroom
-that has gained prominence in the Japanese market. It is also referred
-to as [[hypsizygus-tessulatus]] in some literature, reflecting historical
+**Category:** Basidiomycete ([[hypsizygus-tessulatus]] in some literature, reflecting historical
 taxonomic confusion. The species has attracted significant research
 attention due to its potent antitumour activity, particularly its
 strong inhibition ratio against solid Sarcoma 180 cancer cells and its
@@ -87,6 +80,5 @@ mushroom and a potent medicinal species enhances its commercial
 appeal and consumer acceptance.
 
 ## See Also
-- [[lentinula-edodes]]
 - [[flammulina-velutipes]]
 - [[grifola-frondosa]]

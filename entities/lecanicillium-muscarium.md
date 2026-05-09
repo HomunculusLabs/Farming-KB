@@ -122,11 +122,8 @@ powdery mildew provides added value in cucumber, pepper, and strawberry producti
 
 ## See Also
 
-- [[verticillium-lecanii]]
 - [[beauveria-bassiana]]
-- [[beauveria-brongniartii]]
 - [[metarhizium-anisopliae]]
-- [[purpureocillium-lilacinum]]
 - [[cordyceps-militaris]]
-- [[biocontrol]]
+- biocontrol
 - [[integrated-pest-management]]

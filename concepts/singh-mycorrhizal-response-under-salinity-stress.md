@@ -106,9 +106,7 @@ several considerations:
   promotion.
 - **Inoculum preparation**: AMF inocula are produced using pot cultures with
   trap plants, incorporating soil containing spores, hyphae, and colonized
-  root fragments. See [[singh-mushroom-spawn-production-grain-spawn]] for
-  related inoculum production concepts.
-- **Integration with amendments**: Combining AMF inoculation with [[singh-composted-fungal-biomass-heavy-metal-immobilization]] amendments improves
+  root fragments. See [[singh-composted-fungal-biomass-heavy-metal-immobilization]] amendments improves
   establishment and efficacy by providing organic matter, buffering capacity,
   and additional nutrient sources.
 - **Host plant compatibility**: The effectiveness of mycorrhizal salinity
@@ -123,11 +121,6 @@ calcium-dependent protein kinases (CDPKs), mitogen-activated protein kinases
 (MAPKs), and hormone signaling through abscisic acid (ABA), jasmonic acid
 (JA), and salicylic acid (SA). AMF colonization modulates expression of salt
 stress-responsive genes (SOS pathway, NHX antiporters, LEA proteins) in host
-plants, representing a form of [[singh-endophytic-fungi-plant-protection-mechanisms]] at the molecular level.
-
-## Related Concepts
-
-- [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]
-- [[singh-endophytic-fungi-plant-protection-mechanisms]]
+plants, representing a form of [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
 - [[singh-fungal-roles-in-soil-aggregate-formation]]

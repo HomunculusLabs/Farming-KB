@@ -3,7 +3,7 @@ title: Fungal Dna Extraction Methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal DNA Extraction Methods
@@ -81,17 +81,7 @@ Extracted DNA should be stored at -20 degrees C for short-term or -80 degrees C 
 
 ## Related Topics
 
-- [[fungal-molecular-identification]]
 - [[fungal-dna-barcoding]]
-- [[fungal-metagenomics]]
 - [[fungal-rdna-primers-molecular-identification]]
-- [[culturing-culture-independent-fungi]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 6: Molecular Approaches to Assessing Fungal Biodiversity
-- Gardes, M. and Bruns, T.D. 1993. ITS primers with enhanced specificity for basidiomycetes
-- Doyle, J.J. and Doyle, J.L. 1987. A rapid DNA isolation procedure for small quantities of fresh tissue
 - [[fungal-culture-preservation-long-term-methods]]
-- [[ethanol-pasteurization-selective-fungal-isolation]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

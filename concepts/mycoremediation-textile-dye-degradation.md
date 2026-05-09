@@ -72,15 +72,11 @@ The primary enzymes involved are [[mycoremediation-enzymology|laccases, lignin p
 
 ## Regulatory Context
 
-Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based standards (Germany), "water-white" discharges (UK), forbidden azo colorants (Denmark). See [[cotter-mycoremediation-overview]] for details.
+Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based standards (Germany), "water-white" discharges (UK), forbidden azo colorants (Denmark). See [[mycoremediation-overview]] for details.
 
 ## Related Concepts
 
 - [[mycoremediation-enzymology]] for laccase, LiP, and MnP enzyme systems
 - [[white-rot-fungi-bioremediation]] for the primary fungal agents
-- [[bioremediation-using-fungi]] for field-scale deployment
+- [[mycoremediation-field-applications]] for field-scale deployment
 - [[mycoremediation-techniques]] for general approaches
-
-## Practical Applications
-
-Field applications have demonstrated measurable results across diverse environments. In industrial settings, primary uses include contaminated water treatment, soil amendment at brownfield sites, and integration into wastewater treatment infrastructure. The approach scales from household systems to municipal installations, with cost-effectiveness improving at scale. Pilot programs in agricultural regions show particular promise where the technology integrates with existing farming practices.

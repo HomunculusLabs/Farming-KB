@@ -105,16 +105,10 @@ Yam is also an important cash crop, with trade flows from rural producing areas 
 
 ## See Also
 
-- [[dioscorea-alata]]
 - [[colocasia-esculenta]]
-- [[xanthosoma-sagittifolium]]
 - [[pachyrhizus-erosus]]
-- [[mucuna-pruriens]]
 - [[cajanus-cajan]]
-- [[glycine-max]]
 - [[lablab-purpureus]]
-- [[moringa-oleifera]]
 - [[tamarindus-indica]]
-- [[pisum-sativum]]
 - [[vicia-faba]]
 - [[psophocarpus-tetragonolobus]]

@@ -99,13 +99,12 @@ Detailed cultivation tables for gourmet, medicinal, and ecologically important m
 | Difficulty | Moderate |
 | Key notes | Medicinal: erinacines and hericenones stimulate NGF (nerve growth factor); neuroprotective properties |
 
+
 ## Additional Species
 
 For Reishi, Turkey Tail, Almond Mushroom, outdoor/ecological species, mycoremediation species, and substrate preparation reference, see [[mushroom-ecological-species]].
 
 ## See Also
-
-- [[psilocybian-species-cultivation-parameters]]
 
 - [[mushroom-ecological-species]] -- Additional species and mycoremediation
 - [[mushroom-species-guide]] for concise species profiles

@@ -132,7 +132,5 @@ mineralization than any single enzyme acting alone.
 
 ## See Also
 
-- [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]

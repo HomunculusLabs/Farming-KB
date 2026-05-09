@@ -3,81 +3,143 @@ title: "Solanum lycopersicum"
 type: species
 tags:
   - solanaceae
-  - vegetable
   - food-crop
-  - agriculture
+  - fruit-vegetable
+  - carotenoid-source
+  - global-crop
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bai, Y. & Lindhout, P. (2007). "Domestication and breeding of tomatoes: what have we gained and what can we gain in the future?" Annals of Botany, 100(5), 1085-1094.
-  - Blanca, J. et al. (2012). "Genome sequence of the modern cultivated tomato." Nature, 485, 635-641.
-  - The Tomato Genetics Resource Center, UC Davis (2023). "Solanaceae Genomics Network."
-  - Gerhardt, K.T. &电梯a-Nishi, J.M. (2014). "The genome of cultivated tomato." Plant Cell, 26(1), 26-35.
+  - Bai, Y. & Lindhout, P. (2007). "Domestication and Breeding of Tomatoes: What Have We Gained and What Can We Gain in the Future?" Annals of Botany, 100(5), 1085-1094.
+  - Bombarely, A. et al. (2011). "Insights into the Evolution of the Solanaceae from the Domesticated Genome of Tomato." Nature Genetics, 43, 676-682.
+  - USFDA (2019). "Tomatoes — Raw." FoodData Central, fdc.nal.usda.gov.
+  - Peralta, I.E. & Spooner, D.M. (2007). "History, Origin and Early Cultivation of Tomato." in Genetic Improvement of Solanaceous Crops, Vol. 2, 1-27.
 ---
 
 ## Overview
 
-*Solanum lycopersicum* is an herbaceous perennial in the family Solanaceae, cultivated globally as an annual vegetable crop. Native to western South America, the tomato has become one of the most widely grown and economically valuable horticultural crops worldwide.
+**Solanum lycopersicum**, the cultivated tomato, is a herbaceous perennial plant grown
+worldwide as an annual crop in the nightshade family Solanaceae.
 
-Global annual production exceeds 186 million tonnes, with China, India, Turkey, and the United States as the leading producers. The fruit is consumed fresh, processed into sauces, pastes, juices, and dried products, and serves as a staple ingredient in cuisines across virtually every culture.
+Native to the Andean region of South America, it was domesticated in Mesoamerica
+by pre-Columbian peoples and subsequently spread globally following Spanish colonization.
 
-The tomato is a model organism for plant genetics, fruit development, and plant-pathogen interactions. Its relatively small diploid genome (approximately 900 Mb, 2n = 24) was sequenced in 2012, facilitating extensive functional genomics research.
+Tomato is the second-most-consumed vegetable crop worldwide after potato, with annual
+global production exceeding 186 million tonnes.
+
+The fruit is botanically classified as a berry and is consumed fresh, cooked,
+processed into sauces and pastes, and dried.
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Plantae → Solanales → Solanaceae → Solanoideae → Solanum → *S. lycopersicum*.
+**Classification:** Plantae → Angiospermae → Eudicots → Asterids → Solanales →
+Solanaceae → Solanum → S. lycopersicum L.
 
-The wild progenitor of the cultivated tomato is *S. pimpinellifolium*, a coastal species of Ecuador and Peru. The genus *Solanum* contains approximately 1,300 species, making it one of the largest angiosperm genera.
+The species was originally described by Carl Linnaeus in 1753.
 
-The plant typically grows 1–3 meters tall with a semi-woody stem and compound pinnate leaves 10–25 cm long. The yellow flowers are borne in cymose inflorescences, typically containing 4–12 flowers per truss.
+Prior taxonomic treatments placed the cultivated tomato in the genus *Lycopersicon*,
+but molecular phylogenetic studies confirmed its placement within *Solanum*.
 
-The fruit is a berry 1–20 cm in diameter, ranging from cherry-sized to beefsteak cultivars weighing over 500 g. Fruit color varies from green, yellow, orange, red, pink, to nearly black, determined by the accumulation of carotenoids (primarily lycopene) and flavonoids.
+**Growth habit:** Indeterminate cultivars grow as sprawling vines reaching 1.5–3 m,
+while determinate types form compact bushes 0.5–1.2 m tall. Stems are pubescent,
+weakly woody at the base, and produce adventitious roots readily from moist soil contact.
 
-## History and Domestication
+**Leaves** are compound, pinnately divided into 5–9 leaflets, each serrate and
+covered with glandular trichomes that emit a characteristic pungent odor.
 
-Domestication of the tomato began approximately 7,000–8,000 years ago in the Andes region of South America, likely from *S. pimpinellifolium*. Early domesticates were small-fruited cherry types, with significant size increase occurring during pre-Columbian cultivation in Mesoamerica.
+**Flowers** are yellow, 1–2 cm in diameter, borne in cymose inflorescences.
+The corolla is rotate with 5–6 reflexed petals; the anthers are connivent forming
+a cone around the pistil, a trait promoting self-pollination.
 
-The Aztec and Maya civilizations cultivated tomatoes extensively, referring to them as *tomatl* (Nahuatl). Spanish colonizers introduced the tomato to Europe in the early 16th century, where it was initially regarded with suspicion as a member of the toxic nightshade family.
+**Fruit** is a fleshy berry ranging from 1 cm (cherry types) to over 20 cm
+(heirloom beefsteak) in diameter.
 
-By the 18th century, tomatoes were widely adopted in Italian and Spanish cuisine. Introduction to North America occurred through European settlers, though Thomas Jefferson is often credited with popularizing their cultivation in the United States during the early 19th century.
+Fruit color varies from red and pink to yellow, orange, green, purple-black, and
+bicolor striped patterns depending on carotenoid and anthocyanin profiles.
+
+Seeds are 2–4 mm long, reniform, pubescent, and enclosed in a gelatinous matrix
+within locular cavities.
+
+## Distribution and Habitat
+
+The wild ancestor *Solanum pimpinellifolium* is native to the western slopes of
+the Andes from Ecuador to northern Chile, in coastal desert and dry forest zones.
+
+Domestication occurred in Mesoamerica, likely in the region of modern Mexico,
+where the earliest archaeological evidence of cultivated tomatoes dates to ~500 BCE.
+
+Spanish conquistadors introduced the tomato to Europe in the early 16th century,
+where it was initially grown as an ornamental curiosity due to unfounded toxicity concerns related to its Solanaceae relatives. Cultivation spread to the Mediterranean basin, Southeast Asia, and worldwide by the 18th century.
+
+Today, tomatoes are cultivated in temperate, subtropical, and tropical regions
+on every inhabited continent, with China, India, Turkey, and the United States
+as the leading producers.
 
 ## Cultivation
 
-Tomatoes are warm-season crops requiring temperatures of 20–30°C for optimal growth and fruit set. They are sensitive to frost and require a frost-free growing period of 90–150 days depending on the cultivar.
+Tomatoes require well-drained loam soils with pH 6.0–6.8 and warm temperatures
+of 20–30°C for optimal growth and fruit set.
 
-Commercial production systems include field cultivation, protected culture (greenhouses and high tunnels), and open-field stake-and-trellis systems. Greenhouse production, particularly in the Netherlands, Spain, and Mexico, yields 60–80 kg per plant per year under intensive management.
+Temperatures above 35°C or below 10°C cause flower drop and poor fruit
+development, making greenhouse production essential in cool climates.
 
-Indeterminate cultivars produce fruit continuously on vining growth and are preferred for greenhouse and staked field production. Determinate cultivars terminate growth with a flower cluster and are used for mechanical harvesting in processing tomato operations.
+Seedlings are typically started indoors 6–8 weeks before the last frost date and
+transplanted after hardening off.
 
-Grafting onto vigorous rootstocks is increasingly practiced to overcome soil-borne diseases and improve abiotic stress tolerance. Common rootstock species include *S. habrochaites* and interspecific hybrids.
+Indeterminate cultivars require staking, trellising, or caging to support
+heavy fruit loads and reduce disease pressure from soil contact.
+
+Determinate bush types are well-suited to mechanized harvest for processing
+markets and require minimal support. Major diseases include *Fusarium oxysporum* f. sp.
+*lycopersici* (Fusarium wilt), *Verticillium dahliae* (Verticillium wilt),
+*Phytophthora infestans* (late blight), and *Cladosporium fulvum* (leaf mold).
+
+Grafted rootstock using wild *Solanum* species confers resistance to soilborne
+pathogens and improves tolerance to abiotic stress.
+
+Yield of field-grown processing tomatoes ranges from 60–120 tonnes per hectare,
+while greenhouse production can exceed 300 tonnes per hectare.
 
 ## Nutritional Value
 
-Fresh tomatoes are approximately 95% water and provide approximately 18 kcal per 100 g. They are a rich source of vitamin C (14 mg/100 g), potassium (237 mg/100 g), and folate (15 μg/100 g).
+Tomatoes are an outstanding dietary source of **lycopene**, a carotenoid pigment
+with potent antioxidant properties linked to reduced cardiovascular disease risk.
 
-Lycopene, a carotenoid pigment responsible for the red color of ripe tomatoes, is a potent antioxidant. Epidemiological studies associate lycopene consumption with reduced risk of cardiovascular disease and certain cancers, particularly prostate cancer.
+Lycopene bioavailability increases substantially with thermal processing and
+the presence of dietary lipids, making cooked tomato products particularly
+nutritious.
 
-Cooking and processing tomatoes significantly increases the bioavailability of lycopene by breaking down cell walls and isomerizing the all-trans form to the more bioavailable cis-isomers. Tomato paste and sauce are among the richest dietary sources of bioavailable lycopene.
+A 100 g serving of raw tomato provides approximately 18 kcal, 3.9 g
+carbohydrates, 0.9 g protein, and 14 mg vitamin C (16% DV).
 
-## Pests and Diseases
+Tomatoes also contain significant amounts of potassium (237 mg), folate
+(15 μg), and vitamin K1 (7.9 μg).
 
-Late blight, caused by the oomycete *Phytophthora infestans*, is the most destructive disease of tomato and was responsible for the Irish Potato Famine. The pathogen can destroy entire crops within days under cool, wet conditions.
+Other bioactive compounds include β-carotene, lutein, and the glycoalkaloid
+tomatine, which exhibits antimicrobial and anti-inflammatory activity at
+low concentrations.
 
-Bacterial wilt (*Ralstonia solanacearum*), Fusarium wilt (*Fusarium oxysporum* f. sp. *lycopersici*), and Verticillium wilt (*Verticillium dahliae*) are major soil-borne diseases. Resistance genes (e.g., *I-2*, *I-3*, *Ve*) have been introgressed from wild relatives.
+## Ecological Role
 
-The tomato leafminer (*Tuta absoluta*), originating in South America, has become a devastating global pest since its detection in Spain in 2006. Integrated pest management combining pheromone traps, biological control agents, and selective insecticides is the standard approach.
+In its native Andean habitat, wild tomato relatives occupy disturbed sites,
+dry riverbeds, and coastal fog oases as early-successional colonizers.
 
-Tomato yellow leaf curl virus (TYLCV), transmitted by the silverleaf whitefly (*Bemisia tabaci*), causes severe yield losses in tropical and subtropical regions. Resistance alleles (*Ty-1*, *Ty-3*) derived from wild tomato species are deployed in commercial hybrids.
+The glandular trichomes on leaves and stems produce volatile terpenes and
+acyl sugars that deter herbivorous arthropods including whiteflies and spider
+mites.
 
+Tomato is a moderate nitrogen consumer and benefits from crop rotation with
+legumes to maintain soil fertility and break pathogen cycles.
+
+As a companion plant, tomatoes are reported to repel certain pests when
+intercropped with basil, marigold, or borage in organic systems.
+
+The species is a key model organism in plant genetics and molecular biology,
+with the genome sequenced in 2012 and numerous mutant collections available.
 ## See Also
 
-- [[solanum-tuberosum]]
 - [[solanum-melongena]]
-- [[cucumis-sativus]]
-- [[cucumis-melo]]
-- [[cucurbita-pepo]]
-- [[capsicum-annum]]
-- [[nicotiana-tabacum]]
-- [[brassica-oleracea]]
-- [[allium-cepa]]
-- [[zingiber-officinale]]
+- [[capsicum-chinense]]
+- [[physalis-peruviana]]
+- [[datura-stramonium]]
+- [[brugmansia-suaveolens]]

@@ -20,31 +20,6 @@ tubing. The choice between them significantly impacts water efficiency, plant
 health, disease pressure, and long-term operating costs.
 
 ## Sprinkler Irrigation
-[[solomon-irrigation-systems-sprinkler-design]]
-Sprinkler irrigation distributes water through overhead nozzles that spray
-water in patterns mimicking natural rainfall. Solomon's detailed guide covers
-system design including pipe sizing, pressure requirements, sprinkler head
-selection, and lateral spacing to achieve uniform coverage. Properly designed
-sprinkler systems can cover large areas efficiently and are well-suited to
-pastures, orchards, broadacre crops, and lawns where uniform surface wetting
-is acceptable or desirable.
-
-The main advantage of sprinkler systems is their simplicity and coverage
-capacity. A well-designed system with proper head spacing and pressure can
-irrigate large areas with relatively low upfront investment compared to drip.
-Sprinklers also provide some frost protection when operated during freezing
-temperatures, as the latent heat of freezing water can protect blossoms. They
-are easy to move and reconfigure for rotational cropping, making them popular
-with field growers and pasture managers who need flexibility.
-
-Significant drawbacks include higher water consumption due to evaporation and
-wind drift, potential for foliar disease when leaves stay wet for extended
-periods, and uneven distribution on windy days. Overhead watering can also
-compact fine soils and create surface crusting. Solomon emphasizes that
-proper design is critical to avoid dry spots and ensure uniform application
-rates across the entire irrigated area.
-
-## Drip Irrigation
 [[drip-irrigation-guide]]
 Drip irrigation delivers water slowly and precisely to the plant root zone
 through a network of tubes, tape, and emitters. Water application rates are
@@ -115,8 +90,6 @@ primary cash crops while maintaining portable sprinkler systems for
 germination and establishment of direct-seeded succession plantings.
 
 ## See Also
-- [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]
-- [[comparison-raised-beds-vs-wicking-beds]]
 - [[comparison-dry-farming-vs-xeriscaping]]
 - [[cervantes-drip-irrigation-systems]]

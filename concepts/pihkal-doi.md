@@ -25,19 +25,7 @@ substituent in the DO series, directly contributing to DOI's remarkable
 potency and extended duration. Among psychedelic researchers and
 pharmacologists, DOI is perhaps best known not for recreational use but as a
 critically important scientific tool. It has been used extensively as a
-radioligand and reference compound in serotonin receptor research,
-particularly in mapping 5-HT2A receptor distribution in the brain.
-
-DOI represents the upper boundary of what is practical for human
-experimentation in the DO series, demanding serious respect and
-preparation.
-
-## Chemical Structure and Classification
-
-DOI's IUPAC name is 1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine. It
-belongs to the DO family of substituted amphetamines, with methoxy groups
-at positions 2 and 5 of the phenyl ring and an iodine atom at position 4,
-the heaviest stable halogen used in this series.
+radioligand and reference compound in [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] is series.
 
 The structural relationship to other DO compounds follows a clear pattern:
 DOM has a methyl group, DOC has chlorine, DOB has bromine, and DOI has
@@ -61,29 +49,7 @@ taking additional doses, a dangerous practice given the extreme duration.
 
 ## Effects Profile
 
-DOI produces a classic psychedelic experience with particular emphasis on
-visual phenomena and cognitive alteration. The visual effects are among the
-most complex and layered of any phenethylamine, featuring intricate
-geometric patterns, vivid color enhancement, depth perception changes, and
-at higher doses, fully immersive hallucinatory states. Many users report
-that DOI's visuals have a distinctive crystalline or fractal quality that
-differs from the organic flowing patterns more characteristic of tryptamines.
-
-Cognitive effects include profound philosophical and existential
-introspection, enhanced pattern recognition, and a quality of intellectual
-clarity that some users find more pronounced than with other DO compounds.
-The headspace is often described as relatively clear and analytical compared
-to the more emotionally charged experience of compounds like DOB.
-
-Physical effects include significant sympathetic stimulation: elevated heart
-rate, increased blood pressure, pronounced mydriasis (pupil dilation),
-appetite suppression, and persistent insomnia that can last well beyond the
-primary psychedelic effects. Muscle tension, jaw clenching, and
-restlessness are common, particularly during the peak.
-
-## Shulgin's Commentary
-
-Shulgin held DOI in high regard both as a research compound and as a
+DOI produces a classic [[fungal-research-compound-reference]] earch compound and as a
 subjectively impressive psychedelic. In PIHKAL, he noted its "remarkable
 potency and extraordinary duration" while emphasizing that these very
 properties demanded careful handling. He was particularly impressed by the
@@ -113,12 +79,7 @@ research arguably exceeds that of any other PIHKAL compound.
 Metabolism occurs primarily through aromatic hydroxylation and
 N-demethylation pathways, though the alpha-methyl group provides
 substantial resistance to MAO degradation, accounting for the prolonged
-half-life and extended duration of effects.
-
-## Safety and Harm Reduction
-
-The primary safety concern with DOI is the combination of extreme potency
-and extreme duration. Accurate measurement at the sub-milligram level
+half-life and extended d [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] sub-milligram level
 requires an analytical balance with at least 0.1 mg precision. Volumetric
 liquid dosing is strongly recommended as a harm reduction measure.
 
@@ -142,9 +103,7 @@ tens of milligrams) and significantly longer-lasting. Compared to its
 phenethylamine parent 2C-I, DOI is approximately ten times more potent and
 three to five times longer in duration, demonstrating the profound
 pharmacological impact of alpha-methylation.
-
 ## See Also
 
-- [[pihkal-dob]]
 - [[pihkal-dom]]
 - [[pihkal-2c-i]]

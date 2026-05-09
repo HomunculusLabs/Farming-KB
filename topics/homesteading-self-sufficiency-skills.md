@@ -523,15 +523,15 @@ and new opportunities to refine and expand your systems.
 
 ## See Also
 
-- [[food-preservation-and-canning]] for comprehensive preservation methods
+- [[food-preservation-canning]] for comprehensive preservation methods
 - [[beekeeping-basics]] for apiary management and honey production
-- [[backyard-livestock]] for animal integration design
-- [[poultry-management]] for chicken and duck keeping systems
-- [[off-grid-systems]] for independent energy and water infrastructure
-- [[food-storage]] for long-term food storage strategies
-- [[root-cellaring]] for no-energy food preservation
+- [[backyard-livestock-integration-design]] for animal integration design
+- [[pasture-management]] for chicken and duck keeping systems
+- [[off-grid-waste-management]] for independent energy and water infrastructure
+- [[faires-no-energy-food-storage]] for long-term food storage strategies
+- [[root-cellaring-guide]] for no-energy food preservation
 - [[seasonal-planning]] for monthly task calendars
-- [[home-dairy]] for goat and cow dairy production
+- [[homestead-dairy-guide]] for goat and cow dairy production
 - [[herbal-medicine-making]] for processing medicinal herbs
 - [[integrated-homestead-design]] for closed-loop system design
 - [[homestead-financial-planning]] for budgeting and income strategies

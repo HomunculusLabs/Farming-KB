@@ -58,7 +58,7 @@ bioactive constituents.
 The genus *Sanghuangporus* was erected in 2016 when multi-gene
 phylogenetic analyses revealed the Sanghuang clade was distinct from
 *Phellinus* sensu stricto. The type specimen was collected from
-mulberry (*Morus alba*) in Taiwan.
+mulberry (*morus alba*) in Taiwan.
 
 Basidiocarps are perennial, hoof-shaped to effused-reflexed, 5–20 cm
 in diameter and 2–6 cm thick. The upper surface is dark brown to black
@@ -131,20 +131,12 @@ mycelial biomass suitable for supplements.
 Solid-state cultivation on mulberry sawdust with bran or soy meal
 supplementation can produce basidiocarps, though fruiting rates and
 bioactive profiles differ from wild material. Optimal fruiting requires
-22–28°C and 85–95% humidity.
-
 ## See Also
 
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-- [[fungal-diversity-deserts-arid-lands]]
-- [[symbiosis-in-fungi]]
+- [[sanghuangporus-lonicerinus]]
 
-- [Sanghuangporus vaninii](sanghuangporus-vaninii.md)
-- [Sanghuangporus baumii](sanghuangporus-baumii.md)
-- [Phellinus linteus](phellinus-linteus.md)
-- [Phellinus igniarius](phellinus-igniarius-entity.md)
-- [Inonotus obliquus](inonotus-obliquus.md)
-- [Ganoderma lucidum](ganoderma-lucidum.md)
-- [Trametes versicolor](trametes-versicolor.md)
-- [Wolfiporia cocos](wolfiporia-cocos.md)
-- [Fomes fomentarius](fomes-fomentarius.md)
+- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
+- [[sanghuangporus-vaninii]](sanghuangporus-vaninii.md)
+- [[sanghuangporus-baumii]]](sanghuangporus-baumii.md)
+- phellinus linteus](phellinus-linteus.md)
+- [Phellinus igniarius]([[phellinus-igniarius-entity]].md)

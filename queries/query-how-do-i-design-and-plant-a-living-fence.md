@@ -116,8 +116,6 @@ Budget roughly $5–15 per linear meter for materials and planting labor. Mainte
 ## See Also
 
 - living fences and hedgerows
-- [[comparison-living-fences-vs-hedgerows]]
 - [[living-fences-vs-conventional-fencing]]
-- [[gaias-garden-hedgerows-and-windbreaks]]
 - [[permaculture-zone-and-sector-planning]]
 - [[permaculture-grazing-and-pasture]]

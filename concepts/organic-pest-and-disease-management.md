@@ -93,11 +93,7 @@ Organic pest management relies on prevention first, then biological controls, ph
 - **Milk spray** (1:10 dilution): Suppresses powdery mildew
 
 ## Related
-- [[natural-farming-pest-management]] — for natural farming approach
 - [[companion-planting-reference]] — for detailed companion planting tables
-- [[jadam-pest-control-recipes]] — for ultra-low-cost pest control
 - [[fungal-pathogens-in-agriculture]] — for understanding plant diseases
-- [[fungal-chromogens-and-color-change]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]

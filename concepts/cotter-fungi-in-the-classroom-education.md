@@ -116,8 +116,6 @@ supercolonized grain substrates as sustainable protein sources.
 
 ## See Also
 
-- [[cotter-mushroom-life-cycle-mycelium-biology]]
 - [[cotter-seven-stages-of-mushroom-cultivation]]
-- [[cotter-mycoremediation-overview]]
 - [[cotter-recycling-composting-vermicomposting-mushrooms]]
 - [[cotter-agar-tissue-culture-techniques]]

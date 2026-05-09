@@ -10,7 +10,7 @@ tags: [cultivation, history, mushroom-cultivation]
 
 # McKenna on Mushroom Cultivation History
 
-In [Food of the Gods, [[psychedelic-mushrooms-species-and-identification]]
+In [Food of the Gods, [[psychedelic-mushroom-set-and-setting]]
 traces the history of human interaction with psychedelic mushrooms from
 prehistoric foraging through the modern era of deliberate cultivation. The
 narrative connects ancient mushroom religion to the [discovery and rediscovery of psilocybin mushrooms and the eventual democratization
@@ -108,12 +108,8 @@ infrastructure through which the [vegetable mind of the planet continues to comm
 
 ## See Also
 
-- [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-new-world-mushroom-rediscovery]]
-- [[mckenna-mushroom-stones-of-guatemala]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
-- [[mckenna-discovery-and-impact-of-lsd]]
 - [[leary-harvard-psilocybin-project]]
-- [[banisteriopsis-caapi]]
 - [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]

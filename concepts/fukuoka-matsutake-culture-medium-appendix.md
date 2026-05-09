@@ -11,9 +11,7 @@ type: concept
 
 # Matsutake Natural Culture Medium Recipe
 
-Appendix C of *Sowing Seeds in the Desert* presents [[masanobu-fukuoka]]'s recipe
-for an all-around natural culture medium specifically designed for cultivating
-[[tricholoma-matsutake]] (matsutake fungus). This medium is notable for achieving
+Appendix C of *Sowing Seeds in the Desert* presents [[tricholoma-matsutake]] (matsutake fungus). This medium is notable for achieving
 results approximately ten times faster than the standard Hamada medium
 previously used in mycological research, and for producing dense, vigorous
 growth of hyphae. The medium is also broadly suitable for cultivating
@@ -30,20 +28,12 @@ has proceeded very slowly due to two fundamental obstacles:
    difficult to achieve. The fungus is highly sensitive to laboratory
    conditions and resists standard isolation techniques.
 
-The [[mycelium]] grow extremely slowly in conventional [[agar]] media,
+The [[agar]] media,
 making it difficult to obtain sufficient quantities for practical
    cultivation. No other fungus is as difficult to culture as matsutake.
 
 These difficulties are connected to the broader ecological crisis of
-[[fukuoka-pine-blight-matsutake-portent]], which has
-devastated the red pine forests where matsutake naturally grow. The decline of
-these forests has made the development of reliable cultivation methods
-increasingly urgent.
-
-## Composition of the Natural Culture Medium
-
-The culture medium is comprised of bacterial and fungal microorganisms,
-especially mycorrhizal fungi (matsutake), eumycetes (fungi), [[actinomycetes-soil-biology]]
+[[actinomycetes-soil-biology]]
 (fungi), and bacilli (bacteria). It is produced by combining leaf mold and rice
 bran with an infusion derived from boiling plants from three specific botanical
 families.
@@ -119,31 +109,16 @@ extent with leaf mold and rice bran alone, but the vitamins and hormones
 contained within the vegetables, especially the growth hormones, play a
 critical role in triggering fruiting body formation.
 
-## Connection to [[fukuoka-clay-pellet-desert-greening]]
-
-This culture medium was designed for use in conjunction with clay seed pellets
-for [[fukuoka-desert-revegetation-natural-farming]]. The
+## Connection to [[fukuoka-desert-revegetation-natural-farming]]. The
 mycorrhizal fungi and beneficial microorganisms cultured in this medium can be
 incorporated into the inner layer of clay pellets, where they form symbiotic
 relationships with germinating seeds and seedling roots, dramatically improving
 survival rates in harsh desert conditions. This reflects Fukuoka's principle
-that [[fukuoka-microbial-ecology-decomposition]] is essential
-to any successful revegetation effort.
-
-## Broader Significance
-
-The matsutake culture medium illustrates a recurring theme in Fukuoka's work:
-that nature's complexity cannot be reduced to isolated chemical components, and
-that practical solutions emerge from working with natural systems rather than
-analyzing them into parts. The medium's success stands as empirical evidence
-for the [[fukuoka-nature-transcends-human-knowledge]] that
+that [[fukuoka-nature-transcends-human-knowledge]] that
 defies purely scientific approaches.
-
 ## See Also
 
-- [[fukuoka-matsutake-artificial-cultivation-attempt]]
 - [[fukuoka-pine-blight-matsutake-portent]]
-- [[fukuoka-clay-pellet-desert-greening]]
 - [[fukuoka-microbial-ecology-decomposition]]
 - [[fukuoka-soil-microbiology]]
 

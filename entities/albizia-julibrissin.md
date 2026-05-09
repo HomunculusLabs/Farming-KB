@@ -105,18 +105,11 @@ The tree coppices readily, allowing for managed harvest of leaf biomass for mulc
 
 ## See Also
 
-- [[mimosa-pudica]]
 - [[robinia-pseudoacacia]]
-- [[leucaena-leucocephala]]
 - [[glycyrrhiza-glabra]]
-- [[melilotus-officinalis]]
 - [[astragalus-membranaceus]]
-- [[acacia]]
 - [[tithonia-diversifolia]]
-- [[gliricidia-sepium]]
 - [[sesbania-grandiflora]]
-- [[hypericum-perforatum]]
 - [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
 - [[bacopa-monnieri]]
 - [[schisandra-chinensis]]

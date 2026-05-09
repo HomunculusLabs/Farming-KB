@@ -139,12 +139,8 @@ genetics.
 The strain has won or placed in multiple competitions including the
 Emerald Cup and High Times Cannabis Cup, and remains a staple in
 dispensaries across legal markets.
-
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[og-kush]]
-- [[query-how-do-i-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - [[wedding-cake-cannabis]]
-- [[slurricane]]
 - [[gmo-garlic-cookies]]

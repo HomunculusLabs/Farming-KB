@@ -83,11 +83,7 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
-- [[fukuoka-seed-ball-technique]]
 - [[fukuoka-seed-ball-one-seed-technique]]
-- [[fukuoka-seed-ball-methods-advanced]]
 - [[fukuoka-barley-winter-grain-method]]
-- [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-desert-revegetation-natural-farming]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]

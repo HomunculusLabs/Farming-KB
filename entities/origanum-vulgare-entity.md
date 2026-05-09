@@ -110,41 +110,6 @@ Key findings from clinical and in vitro studies:
   MRSA), Escherichia coli, Salmonella spp., Listeria monocytogenes,
   Pseudomonas aeruginosa, and Helicobacter pylori; MIC values typically
   0.125–0.5 mg/mL for Gram-positive bacteria
-- **Antifungal:** Effective against Candida albicans, Aspergillus
-  niger, and dermatophyte fungi; carvacrol disrupts fungal cell
-  membranes and inhibits hyphal growth
-- **Antiparasitic:** Active against Giardia lamblia, Leishmania
-  donovani, and various intestinal parasites in vitro
-- **Food preservation:** OEO used as a natural food preservative;
-  inhibits growth of foodborne pathogens and spoilage organisms
-### Antioxidant Activity
-Rosmarinic acid and carvacrol contribute significant radical-scavenging
-activity. Oregano leaf has one of the highest ORAC (Oxygen Radical
-Absorbance Capacity) values among culinary herbs — approximately 4x
-higher than blueberries by weight.
-### Anti-inflammatory and Gastroprotective
-Oregano extracts inhibit COX-2 and 5-LOX enzymes, reduce TNF-alpha
-and IL-6 production, and protect gastric mucosa from NSAID-induced
-damage. Traditional use for respiratory congestion and digestive
-complaints is supported by these mechanisms.
-### Respiratory Applications
-Inhalation of oregano vapor and oregano tea are traditional remedies
-for cough, bronchitis, and sinus congestion. The essential oil acts as
-an expectorant and mild bronchodilator. Thymol is an approved
-ingredient in cough syrups and throat lozenges in many countries.
-## Permaculture and Cultivation Notes
-- **Propagation:** Seed (stratification improves germination), stem
-  cuttings, division of established clumps, or layering
-- **Planting:** Start seeds indoors 6–8 weeks before last frost;
-  transplant after hardening off; spacing 20–30 cm within rows
-- **Soil:** Well-drained, slightly alkaline; poor to moderately fertile;
-  excessive fertility reduces essential oil concentration
-- **Water:** Drought tolerant once established; water moderately during
-  establishment; reduce watering as plants mature for maximum oil
-  production
-## See Also
-
-- [[foeniculum-vulgare-entity]]
-- [[thymus-vulgaris-entity]]
+- **Antifungal:** Effective against [[foeniculum-vulgare-entity]]
 - [[rosmarinus-officinalis-entity]]
 - [[ocimum-basilicum]]

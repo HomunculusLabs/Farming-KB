@@ -81,68 +81,16 @@ Key diagnostic: Light burn only affects the top portion of the plant closest to 
 
 ## Relationship to Heat Stress
 
-Light burn and [[heat-stress-cannabis]] are closely related and often occur together. Both result from excessive proximity to HID lamps. The key difference:
-
-- **Light burn**: Caused by excessive photon intensity damaging chlorophyll and leaf tissue; characterized by bleaching and crispy patches
-- **Heat stress**: Caused by elevated air and leaf temperatures disrupting metabolic processes; characterized by wilting, cupping, and upward curling
-
-In practice, most cases involve both conditions simultaneously, since intense light from HID lamps also generates significant heat. Treatment involves addressing both the light intensity and the temperature at the canopy level.
-
-## Impact on Plant Health
-
-Severe light burn can:
-
-- Reduce photosynthetic capacity in affected leaves as chlorophyll is destroyed
-- Cause the plant to divert energy to repair damaged tissue instead of growth
-- Slow overall growth rate during the recovery period
-- Reduce final yield if occurring during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+Light burn and [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - In extreme cases, cause tissue death on the most affected leaves
-- Create entry points for [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and other pathogens
-- Reduce essential oil and resin production on affected buds
-- One small imbalance could cost a week of growth — that could be more than 10 percent of the plant's life
-
-## Resistant Varieties and Strain Selection
-
-While no cannabis varieties are specifically bred for light burn resistance, some factors influence susceptibility:
-
-- Sativa-dominant varieties tend to be more light-tolerant than indica-dominant varieties
-- Landrace strains from equatorial regions often tolerate higher light intensities
-- Plants acclimated gradually to higher light levels develop thicker cuticles and more chlorophyll
-- Autoflowering varieties may have different light sensitivity profiles due to their ruderalis genetics
-- Young plants and seedlings are always more sensitive than established, mature plants
-- Plants under nutrient stress show light burn symptoms at lower light intensities
-
-## Long-Term Management
-
-For growers using high-intensity lighting systems:
-
-- Keep a log of lamp heights and plant responses to establish optimal distances for each strain
-- Replace HID bulbs on schedule — old bulbs produce less light but also change their spectral output
-- Consider LED lighting as an alternative; LEDs produce less radiant heat and can be placed closer to the canopy
-- Use PAR meters to measure actual light intensity at the canopy level rather than estimating by distance alone
-- Train plants to grow wider, flatter canopies to maximize light distribution and reduce hot spots
-- Ensure that light intensity is appropriate for each growth stage — seedlings need far less light than flowering plants
-
-## See Also
-
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
-
-- [[query-what-is-the-difference-between-topping-and-fimming-cannabis]]
+- Create entry points for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
 
 - [[query-what-is-lollipopping-cannabis-and-when-should-you-do-it]]
 
-- [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]]
-
 - [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
-
-- [[query-how-to-use-molasses-in-your-cannabis-garden]]
 
 - [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
 
-- [[query-how-to-fix-sulfur-deficiency-in-cannabis]]
-
 - [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]
-
-- [[query-how-does-foliar-feeding-work-for-cannabis]]
 
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]

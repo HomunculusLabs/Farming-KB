@@ -3,7 +3,7 @@ title: Fungal Peat Decomposition and Carbon Storage
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -103,14 +103,9 @@ This fungal-dominated microbial community structure is an important factor in th
 
 ## Related Concepts
 
-- [[fungal-carbon-substrate-utilization-efficiency]]
 - [[fungal-nitrogen-mineralization-pathways]]
-- [[fungal-saprotrophic-enzymatic-strategies]]
 - [[fungal-carbon-storage-mycorrhizal-pathways]]
-- [[fungal-decomposition-resource-quality-determinants]]
 - [[fungal-decomposition-processes]]
-- [[fungal-diversity-boreal-forests-taiga]]
 - [[fungal-antarctic-polar-diversity]]
-- [[fungal-tannin-and-phenolic-decomposition]]
 - [[fungal-ecosystem-processes-overview]]
 - [[fungal-trophic-modes-and-nutritional-guilds]]

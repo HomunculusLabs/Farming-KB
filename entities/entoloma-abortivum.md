@@ -127,9 +127,6 @@ by *A. mellea*. No psychoactive compounds have been detected.
 
 ## See Also
 
-- [[armillaria-mellea]] — honey fungus, the host species
 - [[entoloma-hochstetteri]] — blue entoloma, a visually striking relative
-- [[ganoderma-lucidum]] — reishi, another fungus with host-parasite dynamics
 - [[boletus-edulis-entity]] — king bolete, a co-occurring edible mushroom
-- [[cantharellus-cibarius-entity]] — chanterelle, another prized edible fungus
-- [[panaeolus-cyanescens]] — blue meanies, a psilocybin-containing species
+- [[panaeolus-cyanescens-entity]] — blue meanies, a psilocybin-containing species

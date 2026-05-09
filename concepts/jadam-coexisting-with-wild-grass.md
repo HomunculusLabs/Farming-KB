@@ -90,11 +90,7 @@ Korean farmers for thousands of years understood the value of wild plants. They 
 
 ## See Also
 
-- [[jadam-nutritional-balance-philosophy]] -- the broader fertilizer approach
 - [[jadam-liquid-fertilizer]] -- the JLF system
-- [[jadam-crop-residue-fertilizer]] -- using crop residues
 - [[jadam-customized-liquid-fertilizer]] -- when extra nitrogen is needed
-- [[jadam-do-as-nature-does-philosophy]] -- the philosophical foundation
 - [[jadam-making-organic-farming-inputs]]
-- [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-wild-grass-liquid-fertilizer]]

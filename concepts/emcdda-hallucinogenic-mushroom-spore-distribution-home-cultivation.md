@@ -142,8 +142,6 @@ trend in Europe.
 
 ## See also
 
-[[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
-[[emcdda-hallucinogenic-mushroom-internet-shop-pricing-snapshot-2006]]
 [[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 [[emcdda-hallucinogenic-mushroom-online-retail-shops]]

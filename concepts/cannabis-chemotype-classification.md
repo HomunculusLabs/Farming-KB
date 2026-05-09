@@ -115,7 +115,9 @@ profiles under varying growing conditions. This environmental plasticity
 complicates the development of consistent, repeatable chemotype-based
 classification standards.
 ## See Also
-- [[terpene-profile-chemotaxonomy]]
 - [[cannabinoid-biosynthesis-pathway]]
-- [[cannabinoid-terpene-entourage-effect]]
 - [[trichome-development-and-morphology]]
+
+## See Also
+
+- [[cannabis-chemotype-classification-cannabinoid-breeding]]

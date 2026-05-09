@@ -132,10 +132,8 @@ understand gut inhabitants. The insect gut is considered a 'hot spot'
 of microbial gene exchange and adaptation, with important implications
 for insect speciation, habitat utilisation, and survival.
 
-## Related concepts
+## Related
 
 - [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-biodiversity-conservation]]
 - [[gadd-fungal-nutrition-metabolism]]
-- [[gadd-fungal-wood-succession]]
 - [[gadd-fungal-biodegradation-bioremediation]]

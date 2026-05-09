@@ -140,8 +140,6 @@ potent DO compounds.
 
 ## See Also
 
-- [[pihkal-dob]]
 - [[pihkal-doi]]
-- [[pihkal-dom]]
 - [[2c-c-entity-pihkal]]
 - [[pihkal-cautionary-note-and-legal-context]]

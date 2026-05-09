@@ -96,26 +96,14 @@ The genus *Melia* contains approximately 2–3 accepted species. *Azadirachta* s
 
 ## See Also
 
-- [[azadirachta-indica]]
-- [[jatropha-curcas]]
-- [[ricinus-communis]]
 - [[aloe-vera]]
-- [[moringa-oleifera]]
 - [[turmeric]]
-- [[ginger]]
-- [[ocimum-sanctum]]
+- ginger
 - [[withania-somnifera]]
-- [[piper-nigrum-entity]]
 - [[cinnamomum-verum]]
-- [[capsicum-annuum]]
 - [[eugenia-caryophyllata]]
-- [[berberis-vulgaris]]
 - [[bacopa-monnieri]]
-- [[centella-asiatica]]
 - [[commiphora-myrrha]]
-- [[glycyrrhiza-glabra]]
 - [[silybum-marianum]]
-- [[andrographis-paniculata]]
 - [[boswellia-sacra]]
-- [[berberine]]
 - [[thujone]]

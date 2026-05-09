@@ -18,7 +18,6 @@ sources:
   - Shulgin, A. & Shulgin, A. (1997). TIHKAL. Transform Press.
   - Passie, T. et al. (2008). "The pharmacology of 2C-B." Human Psychopharmacology, 23(6), 453-460.
 ---
-
 # 2C-B
 
 **2,5-Dimethoxy-4-bromophenethylamine** · **Nexus** · **Venus** · **Bees** · **Erox** · C₁₀H₁₄BrNO₂
@@ -31,15 +30,15 @@ sources:
 | CAS Number | 66142-81-2 |
 | Formula | C₁₀H₁₄BrNO₂ |
 | Molecular Weight | 260.14 g/mol |
-| Class | Substituted phenethylamine ([[2c-family-compounds-overview]]) |
+| Class | Substituted phenethylamine () |
 | Smiles | COc1cc(Br)c(cc1OCC)OC |
-| First Synthesized | 1974 by [[alexander-shulgin]] |
+| First Synthesized | 1974 by  |
 
 ## Overview
 
-2C-B is a synthetic psychedelic phenethylamine and the most well-known member of the 2C family of compounds, first synthesized by Alexander Shulgin in 1974. It occupies a unique pharmacological niche between classical psychedelics (like LSD [[cia-mkultra-and-psilocybin]] in]]) and empathogens (like MDMA), producing effects that include visual hallucinations, emotional openness, enhanced sensory perception, and mild stimulant qualities. It is widely regarded as one of the most "balanced" psychedelics — possessing significant psychedelic depth while maintaining a relatively manageable psychological intensity profile.
+2C-B is a synthetic psychedelic phenethylamine and the most well-known member of the 2C family of compounds, first synthesized by Alexander Shulgin in 1974. It occupies a unique pharmacological niche between classical psychedelics (like LSD  in) and empathogens (like MDMA), producing effects that include visual hallucinations, emotional openness, enhanced sensory perception, and mild stimulant qualities. It is widely regarded as one of the most "balanced" psychedelics — possessing significant psychedelic depth while maintaining a relatively manageable psychological intensity profile.
 
-The compound gained significant popularity in the [[global-psychedelic-mushroom-species-diversity]] community during the 1980s and 1990s, initially sold legally as an aphrodisiac under brand names like "Nexus" and "Erox" before being scheduled internationally. It remains one of the most commonly used novel psychedelics worldwide.
+The compound gained significant popularity in the  community during [[hallucinogenic-mushroom-user-terminology-and-brand-names]] like "Nexus" and "Erox" before being scheduled internationally. It remains one of the most commonly used novel psychedelics worldwide.
 
 ## Pharmacology
 
@@ -60,55 +59,7 @@ The compound gained significant popularity in the [[global-psychedelic-mushroom-
 - **Duration**: Oral 4–8 hours (typically 5–6 hours); insufflation 2–4 hours
 - **Peak effects**: Oral 1.5–2.5 hours post-dose
 - **Bioavailability**: Oral bioavailability is moderate (estimated 20–40%); first-pass metabolism significant
-- **Metabolism**: Primary metabolic pathway involves N-dealkylation (minor), O-demethylation by CYP2D6, and oxidative deamination by MAO-A to the corresponding carboxylic acid
-- **Elimination half-life**: Approximately 3–5 hours
-
-## Dosage Ranges
-
-| Route | Light | Common | Strong | Heavy |
-|-------|-------|--------|--------|-------|
-| Oral | 5–10 mg | 15–25 mg | 25–35 mg | 35+ mg |
-| Insufflated | 2–5 mg | 5–10 mg | 10–15 mg | 15+ mg |
-
-The dose-response curve is notably steep — the difference between a light, manageable experience and an intense, overwhelming one can be as little as 5 mg. Many experienced users consider 18–22 mg oral to be the optimal "sweet spot" for full psychedelic effects with manageable intensity.
-
-## Subjective Effects
-
-### Visual Effects
-
-2C-B is renowned for its vivid and distinctly colored visual hallucinations, often described as more colorful, geometric, and "designer-like" than those of LSD or psilocybin:
-
-- Intense color enhancement and shifting (colors appear richer, more saturated, and dynamic)
-- Geometric pattern visualization with intricate, crystalline, and often symmetrical designs
-- Trailing and afterimage effects (objects leave colored traces when moving)
-- Texture flowing and breathing (surfaces appear to ripple and undulate)
-- Enhanced pattern recognition (pareidolia — seeing faces, figures, and meaning in textures)
-- At higher doses: open-eye visuals may become all-encompassing, with environments appearing to transform, melt, or fracture
-
-### Cognitive and Emotional Effects
-
-- Emotional openness and increased empathic connection (less pronounced than MDMA but notable)
-- Enhanced appreciation of music — often described as the highlight of the experience; music perception becomes deeply immersive and emotionally resonant
-- Heightened introspection and philosophical thinking
-- Mild to moderate ego dissolution at higher doses
-- Enhanced tactile sensitivity and sensual awareness (contributing to its popularity in intimate contexts)
-- Alternating waves of intensity — 2C-B effects are characteristically "wavey," with peaks and troughs throughout the experience
-
-### Physical Effects
-
-- Pupil dilation (mydriasis)
-- Increased heart rate and blood pressure (mild to moderate)
-- Mild body temperature elevation
-- Nausea (uncommon, more likely at higher doses or on an empty stomach)
-- Muscle tension or jaw clenching (less than MDMA)
-- Tingling sensations, especially in the extremities
-- Restlessness or difficulty sitting still (particularly during onset)
-
-## Set and Setting Considerations
-
-2C-B is often considered a good "beginner psychedelic" due to its relatively shorter duration, manageable intensity at standard doses, and low incidence of severe adverse psychological reactions. However, it remains a powerful psychoactive substance that demands respect and proper preparation. A calm, familiar environment and trusted companions are recommended. The "wavey" nature of the experience can surprise users who expect a linear progression.
-
-## Toxicology and Safety
+- **Metabolism**: [[palmer-about-mushrooms-foraging-basics-and-safety]]
 
 2C-B has a relatively favorable safety profile based on both animal studies and decades of human use:
 
@@ -129,8 +80,6 @@ The dose-response curve is notably steep — the difference between a light, man
 - **1980s**: Marketed legally in Europe and the US as an aphrodisiac ("Nexus," "Erox")
 - **1995**: Emergency scheduled in the United States (DEA)
 - **2002**: Scheduled under the UN Convention on Psychotropic Substances
-- **2010s–present**: Remains one of the most popular novel psychedelics globally; increasingly studied for therapeutic potential
-
 ## Related Compounds
 
 - **2C-I**: Iodo analogue, longer duration, more stimulant
@@ -142,6 +91,10 @@ The dose-response curve is notably steep — the difference between a light, man
 
 ## See Also
 
-- [[2c-b-entity-pihkal]]
-- [[pihkal-introduction-and-methodology]]
-- [[phenethylamine-chemistry-basics]]
+- 
+- 
+- 
+
+## See Also
+- [[i-thou-relationship-with-psychedelic-entities]]
+- [[mdma-qualitative-effects-phenomenology]]

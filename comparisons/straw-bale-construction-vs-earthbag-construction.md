@@ -115,8 +115,6 @@ In wet climates, straw bale needs unusually careful detailing.
 For a permitted dwelling, the easiest path may be a conventional frame with straw bale infill or an engineered earthbag design.
 For an experimental homestead structure, both methods can be learned at small scale before attempting a house.
 ## Related Pages
-- [[straw-bale-construction]]
 - [[earthbag-construction]]
-- [[earthbag-building]]
 - [[natural-building]]
 - [[passive-solar-design]]

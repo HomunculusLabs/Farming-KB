@@ -3,7 +3,7 @@ title: Substrate Preparation for Mushroom Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, substrate, pasteurization, sterilization]
+tags: [[mycology, substrate, pasteurization, sterilization]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Substrate Preparation for Mushroom Cultivation
@@ -135,8 +135,6 @@ For outdoor cultivation, substrate preparation is often simpler:
 
 ## See Also
 
-- [[mushroom-grain-spawn-preparation]]
 - [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-bulk-substrates]]
 - [[contamination-identification-prevention]]
 - [[mycoremediation-stamets-approach]]

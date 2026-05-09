@@ -3,7 +3,7 @@ title: Mushroom Cultivation Problems and Solutions
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 # Mushroom Cultivation Problems and Solutions
@@ -96,11 +96,7 @@ Chapter XII of The Mushroom Cultivator provides a comprehensive troubleshooting 
 
 ## Related
 
-- [[mushroom-contaminant-identification-key]] for contaminant identification
 - [[contamination-identification-prevention]] for prevention strategies
-- [[pinhead-initiation-techniques]] for pinning troubleshooting
 - [[bulk-substrate-preparation]] for substrate-related problems
-- [[mushroom-cultivator-contamination-prevention]]
 - [[mushroom-cultivator-substrate-preparation]]
-- [[mushroom-cultivator-bulk-substrate]]
 - [[mushroom-cultivator-contaminants-identification]]

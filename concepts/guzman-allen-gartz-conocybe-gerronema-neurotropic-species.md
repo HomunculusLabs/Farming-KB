@@ -129,22 +129,11 @@ chemical studies lack a taxonomic base, and in some cases mixtures of
 different species were studied together. This is particularly problematic
 for Conocybe and Gerronema, whose small size and nondescript appearance make
 accurate identification difficult without specialist knowledge.
-
 ## See Also
 
-- [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 - [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
-- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-- [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
-
-- Copelandia genus diversity and biogeography
-- Neurotropic fungi of Hawaii and Pacific Islands
-- Psilocybe transcontinental species pairs
-- Neurotropic fungi of Central America and Caribbean
 - [[allen-gymnopilus-and-other-psychoactive-genera]] - Gymnopilus
   and other psychoactive genera beyond Conocybe and Gerronema
-- [[stamets-psylo-minor-genera-conocybe-gymnopilus]] - Conocybe and
-  Gymnopilus identification from Stamets
 - [[stamets-psi-bluing-reaction-psilocybin-indicator]] - bluing
   reactions as a psilocybin indicator

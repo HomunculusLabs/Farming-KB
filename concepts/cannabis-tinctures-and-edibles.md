@@ -121,11 +121,7 @@ Tinctures and edibles are cannabis consumption methods that deliver cannabinoids
 - First-pass metabolism in the liver converts THC to 11-hydroxy-THC (more psychoactive than THC itself — this is why edibles feel stronger and different)
 
 ## Related
-- [[cannabis-health-index]] — for therapeutic applications by condition
 - [[cannabis-concentrates-and-extracts]] — for extraction methods
-- [[cannabis-terpene-profile]] — for terpene effects in edibles
 - [[cannabis-thc-therapeutic-profile]] — for THC therapeutic details
-- [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-safety-profile-and-overdose-risk]]
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-terpene-entourage-effect]]

@@ -16,7 +16,7 @@ medium for philosophical and cultural observation. The
 rhythmic clatter of geta on European cobblestone streets
 opened windows into national character, the relationship
 between people and the land, and the nature of Eastern
-philosophy. See also [[fukuoka-road-touring-europe-geta-monpe]] and [[fukuoka-road-roots-of-clothing]].
+philosophy. See also [[fukuoka-road-roots-of-clothing]].
 
 ## The Music of Cobblestone Streets
 
@@ -118,11 +118,11 @@ shoes -- the hardest shoes in Europe.
 
 "Because you're trampling the soil with hard leather shoes
 like those used to conquer Europe, the ground has packed
-down so much that the soil is no longer any good." See also [[fukuoka-road-farming-for-kings-and-clergy]] and [[fukuoka-culture-of-clothing-and-meat]].
+down so much that the soil is no longer any good." See also [[fukuoka-culture-of-clothing-and-meat]].
 Japanese tread lightly, wearing straw sandals that are soft
 and do not harm the ground. That's why the ground in Japan
 is soft and fertile."
 
 This observation encapsulates Fukuoka's method: reading the
 health of a civilization through its most intimate
-connection with the earth -- the soles of its feet. See also [[fukuoka-european-civilization-standstill]], [[fukuoka-food-civilization-critique]], and [[fukuoka-one-straw-revolution-philosophy]].
+connection with the earth -- the soles of its feet. See also [[fukuoka-food-civilization-critique]], and [[fukuoka-one-straw-revolution-philosophy]].

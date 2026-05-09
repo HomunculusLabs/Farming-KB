@@ -125,11 +125,8 @@ consciousness grew.
 
 ## Related Topics
 
-- [[psychedelic-mushrooms-species-and-identification]] - first wave counterculture
 - [[1960s-counterculture-and-magic-mushrooms]] - the first mushroom
   - boom
-- [[shroom-cultural-history-hippie-revolution-and-counterculture]]
-  - hippie revolution
 - [[mushroom-music-psychedelic-underground]] - music connections
 - [[psychedelic-prohibition-and-the-war-on-consciousness]] - the
   - prohibition context

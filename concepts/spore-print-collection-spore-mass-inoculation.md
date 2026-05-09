@@ -71,8 +71,7 @@ composted materials.
 ### International Precedent
 
 This method is primarily used in China, where it has been practiced on a large
-scale for generations. It works particularly well with [[oyster-mushroom|Oyster]]
-and [[shiitake-mushroom-cultivation|Shiitake]] mushrooms, though it is applicable to all
+scale for generations. It works particularly well with [[shiitake-mushroom-cultivation|Shiitake]] mushrooms, though it is applicable to all
 species covered in Stamets' work.
 
 ### Industrial Parallel
@@ -131,7 +130,7 @@ density.
 
 Outdoor cultivators must hone their mushroom identification skills thoroughly.
 The most critical safety concern is avoiding members of the
-[[galerina-autumnalis|Galerina autumnalis]] and [[pholiotina-filaris-profile|Pholiotinafilaris]] groups, both of which contain deadly amatoxins. These species can
+[[pholiotina-filaris-profile|Pholiotinafilaris]] groups, both of which contain deadly amatoxins. These species can
 resemble edible mushrooms and may colonize the same outdoor substrates as
 intended gourmet species. Cultivators must also be able to distinguish these
 dangerous species from Psilocybe species and other
@@ -142,7 +141,5 @@ and outdoor cultivation.
 ## See Also
 
 - Species Library
-- [[agar-culture-technique|Agar Culture Techniques]]
-- Grain Spawn Preparation
 - [[substrate-preparation|Substrate Preparation]]
 - [[mushroom-identification|Mushroom Identification]]

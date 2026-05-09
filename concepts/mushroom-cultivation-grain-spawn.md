@@ -13,7 +13,7 @@ Grain spawn is the primary inoculum used in mushroom cultivation, consisting of 
 
 ## History
 
-During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern [[spawn-production]].
+During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern spawn production.
 
 ## Cereal Grains for Spawn
 
@@ -33,7 +33,7 @@ During the 1800s, Agaricus growers obtained spawn by gathering concentrations of
 
 The optimum moisture content for grain spawn is 49-54%. Commercial rye grain is approximately 11% water by mass. To determine precise moisture: weigh a 100-gram sample, dry in an oven (250 F for 3 hours), subtract the new weight. The resultant figure is the percentage of moisture naturally bound within the grain.
 
-Excessive water favors bacterial growth, causes kernels to explode during [[sterilization]], and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
+Excessive water favors bacterial growth, causes kernels to explode during sterilization, and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
 
 ## Spawn Formulas
 
@@ -70,9 +70,26 @@ Generational expansion: 1 petri dish can inoculate 10 G-1 jars, which can inocul
 
 ## See Also
 
-- [[mushroom-spawn-growth-cultivation]]
-
 - [[pf-tek-fruiting-chamber]]
 - [[mushroom-substrates]]
 - [[mushroom-spawn-making-detailed]]
 - [[psilocybin-fruiting-chambers]]
+## Practical Considerations
+
+Successful implementation of Mushroom Cultivation - Grain Spawn requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -125,13 +125,9 @@ The ecological garden is not a wild, unkempt space. It is a carefully designed s
 ## See Also
 
 - ecological garden design
-- [[permaculture-garden-design-process]]
-- [[permaculture-design-principles]]
-- [[zone-and-sector-analysis]]
+- [[permaculture-farm-design-principles]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
-- [[food-forest-design-guide]]
 - [[soil-building-ecological-garden]]
-- [[sheet-mulching-guide]]
 - [[water-catchment-urban-permaculture]]
 - [[mollison-mulching-and-soil-health]]
 

@@ -1,7 +1,7 @@
 ---
 title: "Fungal Pleomorphy: Anamorphs, Teleomorphs, and the Tulasne Brothers"
 created: 2026-04-28
-tags: [mycology, fungal-taxonomy, pleomorphy, anamorph, teleomorph, fungal-life-cycle]
+tags: [[mycology, fungal-taxonomy, pleomorphy, anamorph, teleomorph, fungal-life-cycle]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -14,59 +14,14 @@ stages of its life cycle, is one of the most important and perplexing
 concepts in mycology. As described in Nicholas P. Money's "Mr.
 Bloomfield's Orchard," understanding pleomorphy was key to unraveling
 the true nature of fungal reproduction and has profound implications
-for fungal taxonomy [[symbiotic-fungi-mycorrhizal-types-and-classification]].
-
-## The Dual Nature of Fungi
-
-Most ascomycetes lead a double life. They possess a sexual phase, called
-the teleomorph or perfect state, in which they produce spores inside
-asci following the fusion of compatible mating partners. Separately,
-they maintain an asexual phase, called the anamorph or imperfect state,
-in which they produce clonal spores called conidia without any mating
-whatsoever. The nucleus inside each conidium is a clone of the nuclei in
-the parent. Because these two phases can look completely different from
-one another, the same organism was historically given two different
-scientific names.
-
-## The Eurotium and Aspergillus Example
-
-Eurotium is a cleistothecial ascomycete whose sexual fruiting bodies
-are built from a jacket of hyphae that become yellowed with age. The
-asci inside dissolve like those of yeast, turning the cleistothecium
-into a spore-filled globe. When Eurotium produces conidia in its
-asexual phase, mycologists refer to the fungus by a completely different
-name: Aspergillus. The Aspergillus stage is the anamorph; Eurotium is
-the teleomorph of the same organism.
-
-If a pair of Aspergillus colonies with compatible genetics merge, they
-will produce the cleistothecium of Eurotium. The cycle continues:
-Eurotium forms Aspergillus forms Eurotium, in an endless alternation of
-sex followed by celibacy followed by sex. The Aspergillus stage of
-Eurotium looks nothing like Eurotium, yet they are the same organism
-expressing different portions of its genome.
-
-## The Problem of Double Naming
-
-This confusing situation, described by Money as the most perplexing
-problem in the entire field of mycology, leads to vast numbers of fungi
-being described twice because the observer was privy only to one chunk
-of a larger life cycle. Imagine discovering a new species of Aspergillus
-on a culture plate and naming it Aspergillus magnificus. If two
-strains mate and produce cleistothecia, another mycologist finding only
-the sexual stage might name it Eurotium grandiosum, not realizing it
-was the same organism.
-
-The same phenomenon occurs in basidiomycetes. The human pathogen
-[[cryptococcus-neoformans-pathogenesis]] and its sexual, basidiospore-producing
+for fungal taxonomy [[cryptococcus-neoformans-pathogenesis]] and its sexual, basidiospore-producing
 phase Filobasidiella neoformans are different manifestations of the
 same species. Unless both stages are found growing alongside each other,
 the error of double-naming is unavoidable.
 
 ## The Tulasne Brothers: Pioneers of Pleomorphy
 
-[[fungal-evolution]] has been shaped by the complex life cycles that
-pleomorphy enables. The concept that individual fungi could produce
-different types of spores was first recognized in the middle of the [[nineteenth-century-mushroom-literature]] by
+[[nineteenth-century-mushroom-literature]] by
 two bachelor brothers, Louis-Rene and Charles Tulasne. The brothers
 presented their findings, with frequent references to the glory of God,
 in an enchanting three-volume work entitled Selecta Fungorum
@@ -135,16 +90,11 @@ challenge for mycology and developmental biology.
 
 ## Carolus Linnaeus and Chaos Fungorum
 
-[[fungal-kingdom-taxonomy-classification]] remains challenging today, but the
-variety and plasticity of fungi have challenged taxonomists since
-the earliest days of classification. Carolus Linnaeus, who invented the
-binomial system for naming organisms and described more than 12,000
-species of [[permaculture-interaction-of-plants-and-animals]] himself, was perplexed by the variety of
+[[permaculture-interaction-of-plants-and-animals]] himself, was perplexed by the variety of
 fungi and banished a diverse selection to a species he named Chaos
 fungorum. The Dictionary of Fungi defines more than 120 terms for
 describing spore shape and developmental origin, including
 "dictyochlamydospore" and "botryo-aleuriospore," testament to the
-extraordinary complexity that pleomorphy introduces into fungal
-taxonomy.
-
 ## See Also
+
+- [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]]

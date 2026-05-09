@@ -2,7 +2,7 @@
 title: "Maclura pomifera"
 created: 2026-04-28
 type: species
-tags: [permaculture, trees, nitrogen-fixing, dye-plants, hedgerows]
+tags: [[permaculture, trees, nitrogen-fixing, dye-plants, hedgerows]
 date: 2026-04-28
 updated: 2026-04-28
 sources: ["domain-knowledge"]
@@ -135,10 +135,6 @@ sources: ["domain-knowledge"]
 ## See Also
 
 - [[morus-alba]] — White Mulberry (Moraceae family comparison)
-- [[robinia-pseudoacacia]] — Black Locust (rot-resistant timber comparison)
 - [[gleditsia-triacanthos]] — Honey Locust (thorny nitrogen-fixer comparison)
-- [[juglans-nigra]] — Black Walnut (high-BTU firewood comparison)
-- acer negundo — Boxelder (riparian, drought-tolerant native tree)
 - [[quercus-robur]] — Bur Oak (prairie-edge, windbreak species)
-- [[agastache-rugosa]] — Rugosa Rose (hedgerow and dye plant guild)
 - [[tilia-cordata]] — Littleleaf Linden (windbreak and pollinator comparison)

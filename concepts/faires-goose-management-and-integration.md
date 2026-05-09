@@ -74,13 +74,9 @@ The permaculture approach to livestock integration emphasises:
 
 ## Related Concepts
 
-- [[faires-pigeon-quail-and-waterfowl-systems]]
 - [[faires-chicken-coops-tractors-and-breeding-guide]]
-- [[faires-rabbit-and-small-poultry-keeping]]
 - [[faires-duck-pig-and-goat-systems]]
-- [[faires-livestock-integration-systems]]
 - [[faires-rabbit-and-small-poultry-keeping]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
 - [[knf-livestock-chicken-house-natural-farming]]
 
 ## Goose Breeds for Homesteads

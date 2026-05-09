@@ -75,16 +75,10 @@ The monkey puzzle tree is one of the most remarkable food-producing
 conifers, offering a high-calorie staple nut in cool temperate
 climates where few other nut trees thrive. Its exceptional cold
 hardiness and wind resistance make it a valuable species for
-[[permaculture]] designs in maritime and upland temperate zones. The
-extraordinary productivity claim of 18 trees sustaining an adult
-year-round makes it a species of significant food-security interest
-worthy of further research and cultivation trials.
-
-## See Also
-
-- [[food-forest-design]]
+[[food-forest-design]]
 - araucaria angustifolia
 - pinus pinea
 - pinus cembra
-- [[castanea-sativa]]
 - [[juglans-regia]]
+
+See also: [[hazelnut-cultivation-and-variety-guide]]

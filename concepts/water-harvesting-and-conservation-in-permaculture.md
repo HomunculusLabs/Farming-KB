@@ -2,17 +2,7 @@
 
 Water is the foundation of any productive landscape. In permaculture, the goal is not merely to conserve water but to actively harvest, slow, sink, and cycle it through the ecosystem. Every drop that falls on or flows through a site can be guided toward productive use rather than lost to runoff and erosion.
 
-The fivefold water-saving strategy outlined in *Gaia's Garden* by [[toby-hemenway]] combines complementary techniques that work together to maximize water retention and minimize waste. Each layer of the strategy reinforces the others, creating a resilient system that thrives even in dry conditions.
-
-Together, these five approaches form a nested water-retention system. Soil holds moisture at the micro level. Swales manage it at the landscape level. Plant choice and dense plantings reduce demand and protect the soil surface. Mulch seals the system against evaporation. The result is a landscape that needs less and less external water input with each passing year.
-
-## The Fivefold Water-Saving Strategy
-
-### 1. Build Rich Soil
-
-Soil is the largest reservoir on any property. Organic matter dramatically increases the water-holding capacity of soil — each pound of humus retains 4 to 6 pounds of water. This means that [[building-soil]] organic matter is one of the most effective [[water-conservation]] strategies available to any gardener or land steward.
-
-Humus-rich soil acts like a sponge, absorbing rainfall instead of letting it run off the surface. Compost, [[cover-crops]], green manures, and minimal tillage all contribute to building this living sponge. Over time, well-built soil can hold inches of rain and release it slowly to plant roots through capillary action.
+The fivefold water-saving strategy outlined in *Gaia's Garden* by [[building-soil]] organic matter is one of the most effective [[cover-crops]], green manures, and minimal tillage all contribute to building this living sponge. Over time, well-built soil can hold inches of rain and release it slowly to plant roots through capillary action.
 
 The difference between depleted mineral soil and humus-rich loam is dramatic. Sandy soil drains rapidly, losing moisture within hours. Compacted clay sheds water entirely, creating runoff and erosion. But soil rich in organic aggregates has both good drainage and good retention — it accepts water quickly and holds it for days or weeks.
 
@@ -30,23 +20,7 @@ Key design considerations include spacing swales according to slope steepness an
 
 ### 3. Choose the Right Plants
 
-Deep-rooted perennials access water far below the soil surface where moisture persists long after the topsoil dries out. Trees, shrubs, and perennial herbs send roots deep into subsoil layers, drawing water up and making it available to the surrounding ecosystem through hydraulic lift and [[root-exudates]].
-
-Native and drought-adapted species naturally require less irrigation because they evolved to thrive in local rainfall patterns. Choosing plants matched to the site's climate and soil eliminates the need for supplemental watering in all but the most extreme drought years.
-
-Perennial food crops like comfrey, asparagus, and fruit trees develop extensive root systems over time, becoming more drought-resilient with each passing season. Annual vegetables, by contrast, demand consistent surface moisture and are best placed in heavily mulched, intensively managed zones close to water sources.
-
-A useful design principle is to zone plants by water need. Thirsty crops go near swales, ponds, or greywater outlets. Drought-tolerant species go on the margins and higher ground. This pattern-based placement minimizes overall irrigation demand and ensures the right plant grows in the right place.
-
-### 4. Dense Plantings
-
-A thick canopy of vegetation shades the soil surface, dramatically reducing evaporation. Dense plantings also slow the velocity of rainfall hitting the ground, giving the soil more time to absorb water before it runs off. This is especially important on slopes and in areas with intense summer storms.
-
-In a mature forest ecosystem, the canopy intercepts a significant portion of rainfall, which then drips slowly from leaves and branches to the forest floor below. This gentle, prolonged delivery allows the soil to absorb far more water than it would from direct, heavy rain. Mimicking this layered structure in food forests and garden polycultures replicates the same water-saving effect.
-
-Stacking plants in vertical layers — canopy trees, understory shrubs, herbaceous plants, and ground covers — maximizes the transpiration-cooling effect and leaf interception at every level. The result is a cool, moist microclimate that retains water far better than any monoculture planting.
-
-[[guild-planting]] takes this further by grouping complementary species together. A fruit tree underplanted with nitrogen fixers, dynamic accumulators, insectary plants, and ground covers creates a self-maintaining polyculture that shades, mulches, and waters itself. The dense root network also improves soil structure and water infiltration over time.
+Deep-rooted perennials access water far below the soil surface where moisture persists long after the topsoil dries out. Trees, shrubs, and perennial herbs send roots deep into subsoil layers, drawing water up and making it available to the surrounding ecosystem through hydraulic lift and [[guild-planting]] takes this further by grouping complementary species together. A fruit tree underplanted with nitrogen fixers, dynamic accumulators, insectary plants, and ground covers creates a self-maintaining polyculture that shades, mulches, and waters itself. The dense root network also improves soil structure and water infiltration over time.
 
 ### 5. Mulch
 

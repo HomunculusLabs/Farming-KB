@@ -12,40 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Asthma is a chronic inflammatory disease of the airways affecting approximately 300 million people worldwide. Research from The Cannabis Health Index documents a robust body of evidence from the 1970s showing that [[cannabis-minor-cannabinoids]] have bronchodilatory effects in asthmatic subjects, though smoking remains contraindicated.
-
-## Key Clinical Studies
-
-### Bronchodilator Effects -- Seminal Research
-
-**Tashkin, Shapiro, and Frank (1974)**: "Acute effects of smoked marijuana and oral delta9-tetrahydrocannabinol on specific airway conductance in asthmatic subjects." American Review of Respiratory Disease 109(4):420-28.
-
-The first study to demonstrate that both smoked marijuana and oral THC significantly improved airway conductance in asthmatic patients. This was a landmark finding that opened decades of research.
-
-**Tashkin et al. (1975)**: "Effects of smoked marijuana in experimentally induced asthma." American Review of Respiratory Disease 112(3):377-86.
-
-Confirmed bronchodilatory effects in experimentally induced asthma, establishing clinical relevance beyond naturally occurring asthma.
-
-### Aerosolized THC
-**Williams, Hartley, and Graham (1976)**: "Bronchodilator effect of delta1-tetrahydrocannabinol administered by aerosol of asthmatic patients." Thorax 31(6):720-23.
-
-THC delivered by aerosol produced bronchodilation comparable to standard bronchodilator medications, without the risks of smoking.
-
-**Tashkin et al. (1977)**: "Bronchial effects of aerosolized delta 9-tetrahydrocannabinol in healthy and asthmatic subjects." American Review of Respiratory Disease 115(1):57-65.
-
-Further confirmed aerosolized THC's bronchodilator effects in both healthy and asthmatic subjects.
-
-### Oral Bronchodilator Effects
-**Hartley, Nogrady, and Seaton (1978)**: "Bronchodilator effect of delta1-tetrahydrocannabinol." British Journal of Clinical Pharmacology 5(6):523-25.
-
-Oral administration of THC also produced significant bronchodilation, confirming the effect is not limited to inhalation.
-
-### Nabilone vs. Terbutaline
-**Gong, Tashkin, and Calvarese (1983)**: "Comparison of bronchial effects of nabilone and terbutaline in healthy and asthmatic subjects." Journal of Clinical Pharmacology 23(4):127-33.
-
-Nabilone (synthetic cannabinoid) showed bronchodilatory effects comparable to terbutaline (a standard beta-2 agonist bronchodilator). This is particularly significant because nabilone is an oral medication that could be used without any inhalation risks.
-
-### Cannabinergic System as [[cannabis-anti-inflammatory-applications]] Target
+Asthma is a chronic inflammatory disease of the airways affecting approximately 300 million people worldwide. Research from The Cannabis Health Index documents a robust body of evidence from the 1970s showing that [[cannabis-anti-inflammatory-applications]] Target
 **Lu et al. (2006)**: "The cannabinergic system as a target for anti-inflammatory therapies." Current Topics in Medicinal Chemistry 6(13):1401-26.
 
 Comprehensive review establishing the cannabinoid system as a legitimate therapeutic target for inflammatory conditions including asthma.
@@ -135,15 +102,6 @@ Vaporization at controlled temperatures (below combustion, ~350-400°F) avoids t
 
 ## Related
 
-- [[cannabis-and-glaucoma]] Topics
-
-- Cannabis And Inflammation
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-and-anxiety-research]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Asthma and COPD sections
 - [[cannabis-seed-selection-and-strain-types]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[cannabis-mind-body-medicine-integration]]

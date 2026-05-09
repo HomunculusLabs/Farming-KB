@@ -91,11 +91,7 @@ Lichens demonstrate that the fungal kingdom plays a direct role in primary produ
 
 ## Related Pages
 
-- [[fungal-contributions-soil-structure]]
 - [[fungal-biodiversity-alpine-arctic]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-biodiversity-forest-ecosystems]]
-- [[fungal-decomposition]]
 - [[fungal-decomposition-nutrient-cycling]]
-- [[mycorrhizal-fungi-primary-production-dighton]]
 - [[fungi-in-ecosystem-processes-dighton]]

@@ -111,17 +111,11 @@ proper identification and relative purity.
 Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[mushroom-immune-cell-activation-mechanisms]]
-- [[beta-glucan-receptor-binding]]
 - [[mushroom-cytokine-production-immune-activation]]
-- [[reishi-ganoderma-cancer-clinical-research]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
 
 ## See Also
-
-- [[ganoderma-sinense]]
 
 - [[ganoderma-applanatum]]

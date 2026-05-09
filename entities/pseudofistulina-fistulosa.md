@@ -109,13 +109,8 @@ Microscopic examination of spore morphology further confirms identification, as 
 
 ## See Also
 
-- [[fomes-fomentarius]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[boletus-edulis-entity]]
+- [[laetiporus-sulphureus]]
+- [[trametes-versicolor-entity]]
 - [[cantharellus-cibarius-entity]]
-- [[polyporus-umbellatus]]
 - [[betula-pendula]]
-- [[quercus-robur]]
 - [[pleurotus-ostreatus]]

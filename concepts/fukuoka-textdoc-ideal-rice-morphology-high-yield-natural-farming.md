@@ -110,12 +110,8 @@ The guardian of a watermelon patch does not watch the watermelons, he looks out 
 
 ## Wikilinks
 
-- [[masanobu-fukuoka]]
 - [[fukuoka-rice-plant-ideal-morphology]]
-- [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-high-yield-rice-barley]]
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
-- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
 - [[fukuoka-natural-soil-fertility]]
-- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]

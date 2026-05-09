@@ -136,15 +136,10 @@ mammals, slugs, and insect larvae in forest floor ecosystems.
   not fork.
 - **R. xerampelina** — distinctive shrimp-like odor, darker red cap, bruise
   stains brownish.
-
 ## See Also
 
-- [[russula-cyanoxantha]]
 - [[russula-virescens]]
-- [[russula-emetica]]
 - [[russula-vesca]]
-- [[russula-ochroleuca]]
 - [[russula-xerampelina]]
-- [[lactarius-deliciosus]]
 - [[cantharellus-cibarius-entity]]
 - [[boletus-edulis-entity]]

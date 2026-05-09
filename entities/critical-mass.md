@@ -139,12 +139,8 @@ sources: ["domain-knowledge"]
   from seed; reduced yield but unmatched speed
 - **Critical 2.0:** Updated Mr. Nice Seed Bank version with improved yield and disease
   resistance while maintaining original characteristics
-
 ## See Also
 
-- [[growing-gourmet-spore-mass-inoculation-techniques]]
-
 - [[og-kush]] — Indica-dominant hybrid with similar medicinal applications
-- [[skunk-1]] — Parent strain contributing vigor and skunky aroma
 - [[northern-lights]] — Pure indica with comparable relaxing effects
 - [[granddaddy-purple]] — Heavy indica with similar sedative and pain-relief properties

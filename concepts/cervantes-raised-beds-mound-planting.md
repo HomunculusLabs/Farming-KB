@@ -71,41 +71,6 @@ cultivation on a small scale. Using large containers
 or grow bags lets you control the soil mix
 completely and move plants if necessary. Ensure
 containers have adequate drainage holes. See
-[[cervantes-container-gardening-pot-size]] for
-detailed container guidance.
-
-## Mound Planting Technique
-
-Mound planting is a simpler alternative to formal
-raised beds. Create mounds of amended soil directly
-on the ground surface. The mound height can vary
-from a few inches to a foot or more, depending on
-drainage needs. This technique is especially
-effective in:
-
-- Bog and marsh environments where the water table
-  is high. Cut a square yard of moist sod, turn it
-  over, and plant in the exposed soil.
-
-- Clay-heavy areas where surface drainage is poor.
-  The mound elevates roots above the slow-draining
-  subsurface layer.
-
-- Rocky or thin mountain soils. Mounds of imported
-  soil provide enough depth for root development.
-
-- Areas with compacted or hardpan layers that would
-  otherwise block root penetration.
-
-## Mulching Raised Beds
-
-Apply mulch to raised beds and mounds to conserve
-moisture, suppress weeds, and regulate soil
-temperature. Organic mulches like straw, leaves,
-or compost break down over time, adding to the
-soil's organic content. Rock or gravel mulch can
-also moderate soil temperature and prevent erosion
-on sloped beds. See
 [[cervantes-mulch-outdoor-moisture-conservation]]
 for detailed mulching guidance.
 
@@ -121,8 +86,6 @@ poor native soil fertility.
 
 ## Related Topics
 
-- [[outdoor-cannabis-growing]]
 - [[cervantes-outdoor-soil-types-clay-sand-loam]]
-- [[cervantes-soil-amendments-perlite-vermiculite-pumice]]
 - [[cervantes-organic-amendments-chart]]
 - [[cervantes-mulch-outdoor-moisture-conservation]]

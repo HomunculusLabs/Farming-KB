@@ -3,7 +3,7 @@ title: PDC Trees and Forests
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
+tags: [[permaculture, education, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
@@ -94,13 +94,8 @@ updated: 2026-04-18
 
 ## Related
 
-- [[williams-pdc-trees]]
-
 - [[forest-garden-design-principles]]
-- [[permaculture-forest-garden-establishment]]
 - [[food-forest-layers-and-species]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[permaculture-food-forests-design-course]]
-- [[mollison-earth-resources-from-excavation]]
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[gaias-garden-food-forest-layers]]

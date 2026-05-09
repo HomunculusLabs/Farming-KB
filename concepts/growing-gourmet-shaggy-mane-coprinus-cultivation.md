@@ -13,53 +13,7 @@ sources:
 type: concept
 ---
 
-# Shaggy Mane Cultivation ([[coprinus-comatus-detailed]])
-
-Shaggy Manes have long been a favorite amongst mushroom enthusiasts
-in North America and Europe. Easy to identify, often growing in
-massive quantities, this brilliant white mushroom is hard to miss
-and difficult to confuse with poisonous species. Their fragile
-constitution and unique method of self-destruction, combined with
-mild but excellent flavor, has made the Shaggy Mane a popular
-mushroom for hikers and foragers.
-
-## Taxonomy and Common Names
-
-- The Shaggy Mane, Lawyer's Wig
-- Maotou-Guisa (Chinese)
-- Considered taxonomically "clean" and identifiable by sight
-- Cap 4-10(15) cm high by 3-4(5) cm thick, vertically oblong
-- Dingy brown at first, soon white, decorated with ascending scales
-- Gills crowded, white to pale, slightly attached or free to stem
-- Stem 6-12(15) cm long by 1-2 cm thick, hollow, bulbous at base
-- Adorned with a movable, membranous collar-like ring
-- Spores black, 11-15 x 6.0-8.5 microns, ellipsoid, with germ pore
-
-## Deliquescence
-
-As the mushrooms mature, the gills blacken, or "deliquesce,"
-transforming into a black, spore-laden fluid which drips from the
-rapidly receding cap margin. The cap eventually totally recedes,
-leaving only the stem. This self-destruction mechanism limits
-commercial viability, as mushrooms must be consumed within two
-days of picking. Sporeless strains are needed before commercial
-cultivation becomes practical.
-
-## Natural Habitat and Distribution
-
-Growing in late summer and fall throughout temperate regions. In
-lawns, meadows, around barnyards, in wood chips, along roadsides,
-and in enriched soils. The Shaggy Mane adapts well to a wide variety
-of indoor and outdoor substrates.
-
-## Mycelial Characteristics
-
-Mycelium usually white, cottony, aerial, often develops "tufts"
-(hyphal aggregates) with maturity. Most strains form mycelial mats
-asymmetrically shaped along the outer edge. Fragrance is
-farinaceous and mildly sweet.
-
-## [[spawn-production]]
+# Shaggy Mane Cultivation ([[spawn-production]]
 
 Adaptive to liquid fermentation; grain spawn can be created with
 ease. Grain spawn is directly inoculated into pasteurized,
@@ -144,5 +98,8 @@ respectively. No other anti-tumor research is known.
 
 ## Related
 
-- [[growing-gourmet-lions-mane-cultivation]]
 - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
+
+## See Also
+
+- [[growing-gourmet-polypore-mushrooms-cultivation-overview]]

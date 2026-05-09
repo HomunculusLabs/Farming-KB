@@ -3,61 +3,7 @@ title: Permaculture Intentional Community Design
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-# Permaculture Intentional Community Design
-
-Intentional community design is the application of permaculture principles and strategies to the planning, establishment, and evolution of communities that have been deliberately designed by their participants rather than unconsciously evolved by social and economic processes. david holmgren discusses intentional communities extensively in [[permaculture-design-principles]], presenting them as laboratories for the social and economic structures needed for [[permaculture-energy-descent-planning]].
-
-## What Are Intentional Communities?
-
-Intentional communities are communities that have been deliberately planned or designed by their participants. For more than a century they have been established to create alternatives to the dominant industrial society. Many have been spiritually based; most would be regarded as utopian to varying degrees in believing that human nature is capable of creating a much better society but that the path forward is by the establishment of small models rather than incremental mainstream change.
-
-In the original conception of permaculture and its early spread, intentional communities were a source of ideas on ethics, as well as technical and social alternatives. The Farm in the United States, a long-surviving intentional community of the late 1960s, had an influence on the design of the Tagari Permaculture community which Bill Mollison and others established in Stanley, Tasmania, in 1979.
-
-## Characteristics of Sustainable Community
-
-Holmgren describes the characteristics he expects emergent sustainable cultures and forms of organisation to have. First, local and bioregional political and economic structures that reflect natural systems. Second, cross-fertilisation across biogenetic, racial, cultural, and intellectual lines giving natural hybrid vigour. Third, accessibility and low dependence on expensive and centralised technology. Fourth, capability of being developed by incremental steps with feedback and refinement.
-
-These characteristics are reflected in many elements of the alternative or counter-cultural movement of recent decades. Home birth, homoeopathy, herbal and traditional medicines, home schooling, Waldorf and other alternative schools, community gardens, city farms and subscription farming, LETSystems and ethical investment, use of body corporate, co-operatives and other legal structures for community ownership and management of land and other assets, and bioregionalism, spirituality of place and indigenous cultural resurgence.
-
-## Bioregional Political and Economic Structures
-
-As energetic descent demands small-scale, local use of natural energy and resources, structures of governance will need to be more localised. The bioregionalism movement, which is closely associated with both permaculture and indigenous cultural resurgence, has raised awareness of the need to identify geographic governance boundaries that reflect natural systems, especially river catchments.
-
-Although new local economies and communities will have some characteristics of traditional and indigenous ones from the past, they will be radically different in that they will be distilled from hybrid multicultural and migrant populations with genetics, rituals, and ideas from around the world. This will produce new hybrid vigour, analogous to the hybrid ecosystems of exotic and indigenous plants and animals that will provide the resources for these new local economies.
-
-## Co-Housing as a Model
-
-Co-housing generally involves a group of people jointly developing medium-density private apartments or houses, integrated with some degree of commonly owned and used facilities. The successful Danish co-housing movement might not be the way of life for the majority in Denmark, but neither is it regarded as some weird alternative lifestyle. Most co-housing projects are in urban areas, and many are mainstream in their architectural style and cultural demeanour.
-
-The common ownership structure and integrated design aspects of co-housing have made incorporation of ecological technologies a strong feature of recent projects. More important is the lesson that people can live together and effectively self-govern their community, a powerful alternative to the general view that co-operating with neighbours is generally not possible or even desirable.
-
-## The Kibbutzim as Case Study
-
-The most successful of the intentional community movements, the Zionist kibbutzim, succeeded in creating the nation state of Israel in 1948. While the existence of a threatening Arab majority in Palestine obviously contributed to cohesion and success, their cultural and religious unity is often overstated as a reason for their success. The hybrid community vigour generated by Jews coming together from many different countries and cultural backgrounds was as important as the unifying values of Judaism and Zionism.
-
-The decline of the kibbutz movement since the 1970s is partly a product of its own success in creating a strong, more secure, and more affluent nation, which followed the path of virtually all developed nations toward increasing individualism. The success and subsequent decline of the kibbutz movement provides an instructive case study of the conditions in which current attempts to develop intentional communities are likely to flourish.
-
-## Use of Ecology to Describe Community
-
-Many permaculture designers have drawn on skills in facilitating groups, consensus decision-making, conflict resolution, and other relevant tools that are used in eco-village networks. Others have found the language of permaculture design useful in describing, strengthening, and rebuilding local communities. Some practitioners have taken this further, using ecological terminology to directly and literally describe social functions and community design.
-
-The criticism that natural models are never adequate to describe human social complexity has some merit. However, throughout human history and culture, we have used the astonishing diversity of nature as an encyclopaedia to understand and discuss human possibilities. To attempt to understand and design human systems without any reference to nature is arrogant, and may prove more dangerous than the risks of simplification.
-
-## Invisible Structures
-
-Intentional communities provide the "invisible structures" of land ownership, economic relationships, social services, and decision-making processes that are necessary for a full and integrated development of the diverse aspects of permaculture such as land use, alternative technology, and building. These invisible structures are the social and institutional frameworks that hold the community together and determine how resources are allocated, decisions are made, and conflicts are resolved.
-
-For most people involved in intentional communities, permaculture remains an environmentally friendly method of growing food rather than the design and philosophical basis of the community itself. The challenge for permaculture designers is to demonstrate that permaculture principles can inform and improve all aspects of community life, not just the agricultural ones.
-
-## Social Diversity Within Communities
-
-Shared beliefs and co-operative behaviour are fundamental to the success of intentional communities, but too much similarity in skills, ages, needs, and personalities encourages competitive rather than co-operative relationships. Social diversity within intentional communities is as important as biological diversity within ecosystems. A community composed entirely of people with similar skills and temperaments will lack the resilience that comes from complementary strengths and perspectives.
-
-This insight from [[permaculture-principle-use-and-value-diversity]] has important implications for community design and membership selection. The most resilient communities are those that actively seek members with diverse skills, backgrounds, ages, and perspectives, while maintaining enough shared values to enable effective co-operation.
+tags: [[permaculture-farm-design-principles]], presenting them as laboratories for the social and economic structures needed for [[permaculture-principle-use-and-value-diversity]] has important implications for community design and membership selection. The most resilient communities are those that actively seek members with diverse skills, backgrounds, ages, and perspectives, while maintaining enough shared values to enable effective co-operation.
 
 ## The Hope of Integrated Community Life
 
@@ -73,23 +19,11 @@ Many of the strategies for sustainable community, such as LETSystems, subscripti
 
 ## An Integrated Alternative Cultural System
 
-These criteria for sustainable community are reflected in many elements of the alternative or counter-cultural movement. Many of these examples could be used to illustrate several permaculture principles, especially [[catch-and-store-energy-permaculture-principle]], [[permaculture-principle-apply-self-regulation]], and [[permaculture-design-principles]]. In the context of integration, they can all be seen as parts of an integrated alternative cultural system which amplifies the value and power of the primary permaculture agenda of sustainable land use as well as each other.
-
-Often when people attempt to move forward in one area of sustainable alternatives, the mismatch with mainstream culture reduces the potential value of the change. An integrated approach is essential if we are to succeed in creating a powerful alternative to dependence on the alien and energetically dysfunctional ecosystem being created by the corporations. Although much can be done at the personal and household level, many of the diverse aspects of design illustrated in the permaculture flower can be best applied at the local community level.
-
-## See Also
-
-- [[permaculture-community-bioregionalism]]
-
-- [[permaculture-design-principles]]
+These criteria for sustainable community are reflected in many elements of the alternative or counter-cultural movement. Many of these examples could be used to illustrate several permaculture principles, especially [[permaculture-principle-apply-self-regulation]], and [[permaculture-community-bioregionalism]]
 
 - [[permaculture-community-design]]
 
-- [[permaculture-community-resilience]]
-
 - [[permaculture-community-scale-design]]
-
-- [[faires-permaculture-community-and-village-design]]
 
 - [[permaculture-ethics]]
 
@@ -98,3 +32,81 @@ Often when people attempt to move forward in one area of sustainable alternative
 ## Sources
 
 Holmgren, David. Permaculture: Principles and Pathways Beyond Sustainability. Permanent Publications, 2002. Principle 8: Integrate Rather Than Segregate.
+## Practical Applications
+
+Permaculture Intentional Community Design has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Permaculture Intentional Community Design. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

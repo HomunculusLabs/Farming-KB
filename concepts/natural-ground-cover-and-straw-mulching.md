@@ -143,7 +143,9 @@ achieving this:
 
 ## See Also
 
-- [[no-till-direct-seeding-rice-barley]]
-- [[korean-natural-farming-and-jadam]]
-- [[clay-pellet-desert-revegetation]]
+- [[query-jadam-vs-korean-natural-farming]]
 - [[non-causality-in-nature]]
+
+## See Also
+
+- [[fukuoka-natural-orchard-ground-cover]]

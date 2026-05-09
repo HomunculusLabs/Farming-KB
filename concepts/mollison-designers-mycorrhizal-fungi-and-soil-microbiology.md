@@ -21,45 +21,13 @@ devotes significant attention to soil microbiology, recognising that the
 complex web of bacteria, fungi, protozoa, nematodes, and microarthropods
 living in soil is ultimately responsible for nutrient cycling, disease
 suppression, soil structure, and plant health. Among these organisms,
-[[mycorrhizal-fungi]] represent the single most important symbiotic relationship
-in terrestrial ecosystems, forming the biological infrastructure upon which
-forests and perennial systems depend. This topic extends the coverage in
 [[permaculture-soil-biota-and-earthworms]] and
-[[mollison-life-in-earth-burrowers-roots]].
-
-## Types of Mycorrhizal Associations
-
-Mollison distinguishes between the major categories of mycorrhizal fungi,
-each forming distinct relationships with plant roots:
-
-### Ectomycorrhizae (ECM)
-These fungi form a sheath (mantle) around root tips and extend hyphal
-networks into the soil but do not penetrate root cells. They associate
-primarily with trees in temperate and boreal forests:
-
-- **Host trees**: Pinus (pines), Quercus (oaks), Betula (birches), Fagus
-  (beeches), Eucalyptus, and most other woody perennials in temperate zones.
-- **Nutrient exchange**: ECM fungi are particularly effective at accessing
-  organic nitrogen and phosphorus from decomposing litter and transferring
-  these nutrients to host trees in exchange for photosynthetic carbon.
-- **Soil structure**: ECM hyphae produce [[glomalin-and-soil-carbon]], a sticky protein that
+[[glomalin-and-soil-carbon]], a sticky protein that
   binds soil particles into stable aggregates, improving soil structure and
   water-holding capacity.
 - **Forest dependency**: Most temperate forest trees are obligately
   mycorrhizal; they grow poorly or not at all without their fungal partners.
-  This has profound implications for [[mollison-pioneer-species-and-accelerated-succession]].
-
-### Arbuscular Mycorrhizae (AM or VAM)
-These fungi penetrate root cortical cells, forming specialised structures
-(arbuscules) for nutrient exchange. They associate with the vast majority of
-herbaceous plants, grasses, and many tropical trees:
-
-- **Host range**: Approximately 80% of all plant species, including most
-  agricultural crops, pasture grasses, legumes, and tropical fruit trees.
-- **Phosphorus specialists**: VAM fungi are exceptionally efficient at
-  acquiring phosphorus from soil, extending the effective root absorption
-  zone by 10-100 times. This is critical in
-  [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]].
+  This has profound implications for [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]].
 - **Connectivity**: VAM networks can connect multiple plants, potentially
   facilitating nutrient and carbon transfer between individuals. This
   "wood wide web" may support seedling establishment beneath mature trees.
@@ -98,14 +66,7 @@ system. Mollison identifies several key functional groups:
 Heterotrophic bacteria break down organic matter, releasing plant-available
 nutrients. Their activity is temperature and moisture dependent, with optimal
 rates at 25-35 degrees Celsius and 60% water-holding capacity. This is why
-[[mollison-mulching-and-soil-health]] to maintain soil moisture is so
-critical for nutrient cycling in dry climates.
-
-### Nitrogen-Fixing Bacteria
-Two major groups fix atmospheric nitrogen (N2) into ammonia (NH3):
-- **Rhizobium species**: Form nodules on legume roots. Host-specific; each
-  legume species requires compatible Rhizobium strains. See
-  [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]].
+[[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]].
 - **Free-living fixers**: Azotobacter (aerobic), Clostridium (anaerobic),
   and cyanobacteria fix nitrogen independently of host plants. Azotobacter
   populations can fix 10-20 kg N/ha/year in well-aerated soils.
@@ -115,36 +76,12 @@ Nitrifying bacteria (Nitrosomonas, Nitrobacter) convert ammonium to nitrate,
 the form most readily absorbed by plants. Denitrifying bacteria convert
 nitrate back to atmospheric N2 under waterlogged conditions, representing a
 nitrogen loss pathway. This is why good drainage in
-[[mollison-designers-soil-water-storage-and-field-capacity]] systems
-is essential for nitrogen conservation.
+[[mollison-soil-gaseous-exchange-and-micro-sites]].
 
-### Plant Growth-Promoting Rhizobacteria (PGPR)
-Pseudomonas and Bacillus species in the rhizosphere (root zone) produce
-growth hormones, solubilise phosphate, and suppress pathogens. These bacteria
-are abundant in healthy, organic-matter-rich soils and are depleted by
-conventional agricultural practices.
-
-## Soil Protozoa and the Microbial Loop
-
-Protozoa (flagellates, amoebae, ciliates) are single-celled predators that
-feed on bacteria and release plant-available nitrogen through their waste
-products. Mollison describes the "microbial loop" as the process by which
-nutrients locked in bacterial biomass are made available to plants through
-protozoan grazing. This loop is critical in [[mollison-soil-gaseous-exchange-and-micro-sites]].
-
-The implications for [[permaculture-design]] are significant: adding compost or
-organic matter stimulates bacterial growth, which in turn supports protozoan
-populations, which release nitrogen in plant-available forms. This biological
-nutrient cycling is far more efficient and sustainable than synthetic
-fertiliser application.
-
-## Soil Food Web Structure
-
-Mollison describes the [[soil-food-web]] as a pyramid of feeding relationships:
+The implications for [[soil-food-web]] as a pyramid of feeding relationships:
 
 1. **Primary producers**: Photosynthetic plants and algae (above ground and
    at the soil surface).
 2. **Decomposers**: Bacteria and fungi that break down organic matter.
 3. **Mutualists**: Mycorrhizal fungi and nitrogen-fixing bacteria that
    exchange nutrients with plants.
-4. **Predators and grazers**: Protozoa, nematodes, and microarthropods that

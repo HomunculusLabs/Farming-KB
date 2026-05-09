@@ -84,11 +84,7 @@ Stamets envisions landscapes customized with mycelial matrices populated by fung
 
 ## See Also
 
-- [[mycopesticides]] -- general overview
-- [[mushroom-cultivation-fundamentals]] -- biocontrol methods
-- [[fungal-relationships-with-insects]] -- insect-fungal ecology
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] -- biocontrol methods
 - [[fungal-parasites-invertebrates]] -- parasitic fungi
-- [[mycorestoration-ecology]] -- broader framework
 - [[fungal-ecology]] -- ecological context
-- [[fungal-roles-in-agriculture]] -- agricultural applications
 - [[fungal-biodiversity-forest-floor]]

@@ -116,7 +116,7 @@ Many homesteads run both. Use BSF to rapidly process high-volume or "hot" waste 
 
 ## Integration with Permaculture Systems
 
-Both methods integrate naturally into permaculture design. BSF bins placed near chicken coops create a closed loop: coop waste feeds larvae, larvae feed chickens, frass enriches garden beds. Worm bins under fruit trees or in shade structures use otherwise-unused microclimates. Vermicompost tea (a liquid extract) can be applied as a foliar spray or soil drench, extending the value of small worm setups across a larger growing area.
+Both methods integrate naturally into [[vermicompost-tea]] (a liquid extract) can be applied as a foliar spray or soil drench, extending the value of small worm setups across a larger growing area.
 
 ## Summary
 
@@ -124,8 +124,5 @@ Neither system is objectively superior — they serve different functions. BSF e
 
 ## See Also
 
-- [[comparison-snail-farming-vs-vermicomposting]]
-
 - [[composting]]
-- [[homesteading]]
 - [[permaculture]]

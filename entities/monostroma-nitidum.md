@@ -104,16 +104,10 @@ The economic value of cultivated *M. nitidum* exceeds that of most other green s
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
-- [[undaria-pinnatifida]]
 - [[chlorella-vulgaris]]
-- [[laminaria-digitata]]
 - [[saccharina-latissima]]
-- [[palmaria-palmata]]
 - [[gracilaria-verrucosa]]
-- [[kappaphycus-alvarezii]]
 - [[gelidium-amansii]]
-- [[sargassum-fusiforme]]
 - [[caulerpa-lentillifera]]
 - [[hizikia-fusiforme]]

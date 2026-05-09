@@ -9,17 +9,9 @@ sources:
 ---
 # Fukuoka's Health Philosophy -- Do Nothing and Return to Nature
 
-In [[fukuoka-road-back-to-nature-overview]], [[natural-farming-fukuoka]] extends his [[fukuoka-do-nothing-farming-philosophy-and-practice]] from agriculture into the realm of human health and medicine. His health philosophy is a direct extension of his farming philosophy: just as the farmer should stop interfering with natural processes, so should the patient stop interfering with the body's natural healing.
+In [[natural-farming-fukuoka]] extends his [[fukuoka-natural-pest-balance]] in farming arise from unnatural practices, human disease arises from unnatural living
 
-## Core Principle: Return to the Natural Body
-
-Fukuoka's health directive is simple: "Do nothing and simply return to the natural body of an infant." This does not mean passivity in the face of genuine medical emergency, but rather a fundamental reorientation toward health:
-
-- **Malady arises from what is unnatural** -- just as [[fukuoka-natural-pest-balance]] in farming arise from unnatural practices, human disease arises from unnatural living
-
-- **The body knows how to heal** -- just as [[fukuoka-natural-fertility-cycle]] is self-maintaining when not disrupted, the human body is self-healing when not disrupted
-
-- **Intervention creates cascading problems** -- just as chemical pesticides create [[fukuoka-natural-pest-balance]], medical interventions often create new health problems
+- **The body knows how to heal** -- just as [[fukuoka-natural-pest-balance]], medical interventions often create new health problems
 
 Fukuoka elaborated: "Mental disharmony with nature hardens the mind, while unnatural physical care stiffens the body. By continuing to endure such conditions and failing to exercise moderation, one eventually meets up with serious illness."
 
@@ -53,21 +45,13 @@ He noted that techniques such as shiatsu (finger-pressure therapy), acupuncture,
 
 ## Food as Medicine: The Natural Diet
 
-Fukuoka's health philosophy was inseparable from his [[fukuoka-natural-diet-food-philosophy]]. He believed that food grown by [[fukuoka-natural-farming-philosophy-of-mu]] contained something that chemically grown food lacked -- not merely nutrients, but a quality of wholeness that arises from the plant's relationship with its natural environment.
+Fukuoka's health philosophy was inseparable from his [[fukuoka-natural-farming-philosophy-of-mu]] contained something that chemically grown food lacked -- not merely nutrients, but a quality of wholeness that arises from the plant's relationship with its natural environment.
 
 He was skeptical of nutritional science for the same reason he was skeptical of agricultural science: both reduce complex wholes to measurable components and miss the essential nature of the thing itself. The macrobiotic movement, founded in Japan by George Ohsawa and spread worldwide by Michio Kushi and others, came closer to his vision, but Fukuoka felt that even macrobiotics could become too rigid and intellectualized.
 
-The connection between [[fukuoka-natural-diet-theory]] and health was direct: when the body receives natural food, it returns to its natural state. When it receives processed, chemically grown food, it becomes stiff, diseased, and disconnected from its own healing wisdom.
+The connection between [[fukuoka-soil-microbiology]] mirrors gut microbiology -- both are complex ecosystems disrupted by chemicals
 
-## Connection to Natural Farming
-
-Fukuoka drew explicit parallels between agricultural health and human health:
-
-- [[fukuoka-soil-microbiology]] mirrors gut microbiology -- both are complex ecosystems disrupted by chemicals
-
-- [[fukuoka-natural-diet-theory]] is the agricultural equivalent of eating naturally -- food grown without intervention is inherently healthier
-
-- The [[fukuoka-four-principles-natural-farming]] of farming have health parallels: don't cultivate the body with excessive exercise, don't add synthetic supplements, don't suppress symptoms, don't attack disease directly
+- [[fukuoka-four-principles-natural-farming]] of farming have health parallels: don't cultivate the body with excessive exercise, don't add synthetic supplements, don't suppress symptoms, don't attack disease directly
 
 He observed that the same simplifying logic that reduces farming to NPK inputs also reduces health to vitamin pills and calorie counts. In both cases, the whole is lost while the parts are measured and optimized.
 
@@ -85,32 +69,15 @@ He criticized sports that "insist on rigorous training to toughen the body" as a
 
 ## Spiritual Health
 
-Ultimately, Fukuoka's health philosophy was inseparable from his [[fukuoka-do-nothing-farming-philosophy-and-practice]]. The "natural body of an infant" was not merely a physical state but a spiritual one -- a condition of openness, wonder, and unity with nature that adults had lost through the accumulation of knowledge and the hardening of both body and mind.
-
-"True human joy does not come from material possessions; nor is happiness conferred from without. Such a path only leads one away from God." Health, for Fukuoka, was ultimately a spiritual condition -- the natural state of a human being living in harmony with the divine presence that dwells in nature.
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]
-
-- [[fukuoka-natural-farming-philosophy]]
+Ultimately, Fukuoka's health philosophy was inseparable from his [[fukuoka-do-nothing-farming-and-spiritual-life]]
 
 - [[fukuoka-natural-diet-philosophy]]
 
-- [[fukuoka-natural-food-philosophy]]
-
 - [[fukuoka-nature-transcends-human-knowledge]]
-
-- [[fukuoka-do-nothing-farming-philosophy]]
 
 - [[fukuoka-view-of-nature-and-human-hubris]]
 
-- [[fukuoka-natural-farming-philosophy]]
-## Merged: Fukuoka's No-Purpose Philosophy (Mu)
-
-# Fukuoka's No-Purpose Philosophy (Mu)
-
-**Source:** [[one-straw-revolution-philosophy]] (The One Straw Revolution)
+- [[one-straw-revolution-philosophy]] (The One Straw Revolution)
 **Updated:** 2026-04-18
 
 ## The Rejection of Purpose

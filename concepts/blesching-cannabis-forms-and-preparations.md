@@ -119,10 +119,6 @@ cannot tolerate or do not desire psychoactive effects.
 
 ## Related
 
-- [[blesching-cannabis-depression-and-anger-release]] Concepts
-
 - [[blesching-cannabis-administration-methods]]
-- [[blesching-cannabis-decarboxylation-and-raw-cannabis]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-safety-profile]]

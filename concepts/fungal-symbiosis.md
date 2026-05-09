@@ -20,53 +20,6 @@ scale.
 
 ## Mycorrhizae: The Plant-Fungus Partnership
 
-[[mycorrhizal-fungi]] colonize plant roots, forming one of the most widespread
-and ecologically important symbioses on Earth. Over 80% of land plant
-species depend on mycorrhizal associations for survival. Two principal
-types exist:
-
-### Arbuscular Mycorrhizae (AM)
-Formed by Glomeromycota fungi, which penetrate root cells and create
-tree-like structures called arbuscules. Arbuscules are the sites of
-nutrient exchange — the fungus provides phosphorus and nitrogen from the
-soil, while the plant supplies carbohydrates produced through
-photosynthesis. AM fungi cannot survive without a plant host and are
-obligate symbionts. They are particularly important for crops like wheat,
-maize, and rice.
-
-### Ectomycorrhizae (ECM)
-Formed primarily by Basidiomycota and Ascomycota fungi, which sheath the
-root tips without penetrating individual cells. Instead, they form a dense
-network (Hartig net) between root cells. ECM fungi are associated with
-forest trees — oaks, pines, birches, and eucalypts. Many familiar
-mushrooms, including chanterelles, porcini, and truffles, are ECM
-species. These fungi produce enzymes that unlock nitrogen and phosphorus
-from organic matter that plant roots alone cannot access.
-
-### Orchid Mycorrhizae
-Orchid seeds are microscopic and contain virtually no stored nutrients.
-Every orchid requires a fungal partner (usually Basidiomycota) to supply
-carbon and nutrients during germination and early growth. Some orchids
-remain dependent on fungi throughout their lives, effectively acting as
-parasites on the fungal mycelium.
-
-## Lichens: Fungi That Farm Algae
-
-Lichens are composite organisms formed by a partnership between a fungus
-(the mycobiont) and a photosynthetic partner (the photobiont) — usually
-green algae or cyanobacteria. The fungal partner provides structure,
-moisture retention, and protection from ultraviolet radiation. The algal
-partner produces sugars through photosynthesis that feed the fungus.
-
-Lichens are remarkably successful colonizers, found from arctic tundra to
-tropical rainforests and from rocky coastlines to desert boulders. They
-are among the first organisms to colonize bare rock, slowly breaking it
-down through chemical weathering and beginning the process of soil
-formation. Lichens are also extremely sensitive to air quality, making
-them valuable bioindicators of environmental pollution.
-
-## Endophytic Fungi
-
 [[endophytic-fungi]] live inside plant tissues without causing visible disease.
 They are found in virtually every plant species examined, and a single
 plant may host dozens or hundreds of endophyte species. These fungi
@@ -107,6 +60,24 @@ can become pathogenic when the immune system is compromised.
 
 ## See Also
 
-- [[mycology]] — Overview of the fungal kingdom
 - [[mycelium-network]] — How fungal networks connect organisms
 - [[myxomycete-mycetozoan-slime-mold-diversity-ecology]] — Decomposer fungi in ecosystems
+## Practical Considerations
+
+Successful implementation of Fungal Symbiosis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

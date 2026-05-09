@@ -3,24 +3,7 @@ title: Holmgren Household Energy Storages
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
-
-# Holmgren Household Energy Storages
-
-Updated: 2026-04-19
-
-David Holmgren presents household energy storage as a critical design concept in *Permaculture: Principles and Pathways Beyond Sustainability* (2002), arguing that modern households have become dangerously dependent on continuous energy flows rather than building local energy reserves.
-
-## The Modern Vulnerability
-
-In modern affluent societies, the flow of energy in forms useful to people (food, materials, and services) has become so reliably available that energy capture — and even more so, energy storage — has ceased to be a major concern. No food or fuel is stored in the house, and purchasing power depends on credit, which itself depends on permanent employment.
-
-Economic rationalism has led to the decline of large-scale stores of food, fuels, materials, essential spare parts, and permanent employment in the interests of economic efficiency. This increases the likelihood of disruption and disaster.
-
-This vulnerability connects to [[permaculture-disaster-resilience]] and the broader argument that systems designed purely for efficiency without redundancy are inherently fragile.
+tags: [[permaculture-disaster-resilience]] and the broader argument that systems designed purely for efficiency without redundancy are inherently fragile.
 
 ## The Y2K Precedent
 
@@ -30,23 +13,7 @@ The vulnerability of modern systems to slight disturbance was highlighted in the
 
 In an emerging low-energy world, people will rediscover opportunities to harvest and store immediately available (on-site) renewable energies and wasted resources across their rural and urban landscapes, households, and local economies. This will be essential to avoid disasters from inevitable disruptions to energy and resource supply lines.
 
-This rediscovery connects to [[energy-descent-action-planning]] and the practical steps households can take to build resilience against supply disruptions.
-
-## Key Household Storages
-
-Holmgren organizes household energy storages around the four key landscape storages:
-
-### Water Storage
-
-Household water collection from roofs, storage in tanks, and greywater recycling systems provide resilience against water supply disruptions. Passive solar water heating reduces dependence on external energy for water heating, which is one of the most energy-demanding household activities.
-
-The pure water in rainfall is embodied solar energy because it is solar heat that evaporates the water to create the atmospheric moisture for precipitation. Water stored in tanks and soil is thus stored solar energy available for productive use.
-
-### Seed Storage
-
-Saved seed was a particularly potent storage of energy, essential for next season's crop. By catching and storing the energy in seed, growers maintained a genetic and cultural lineage from ancestors to descendants. Seed storage is both an energy store and a genetic information store.
-
-Vegetable species which self-seed and stay true to type are a self-maintaining genetic resource. This connects [[holmgren-catch-and-store-energy-detailed]] to the preservation of biological and cultural heritage.
+This rediscovery connects to [[holmgren-catch-and-store-energy-detailed]] to the preservation of biological and cultural heritage.
 
 ### Food Storage
 
@@ -80,29 +47,9 @@ Important sources of energy are currently poorly used but are commonly available
 
 - Biomass: the sustainable management of trees and forests for fuel and construction
 
-These sources connect to [[holmgren-built-environment-energy-store]] and the concept of buildings as energy storage devices that capture and hold renewable energy.
-
-## Design Criteria for Storages
-
-Holmgren proposes that when considering the development of tools, buildings and infrastructure, we should aim to emulate natural energy storage characteristics:
-
-- Modest in scale
-
-- Well-designed for long life and/or made from easily renewable materials
-
-- Simple to maintain
-
-- Multi-purpose and easy to adapt to other uses
-
-## See Also
-
-- [[holmgren-built-environment-energy-store]]
-
-- [[holmgren-ecological-footprint-analysis]]
+These sources connect to [[holmgren-built-environment-energy-store]]
 
 - [[holmgren-tripartite-altruism]]
-
-- [[holmgren-renewable-resources-detailed]]
 
 - [[permaculture-disaster-resilience]]
 

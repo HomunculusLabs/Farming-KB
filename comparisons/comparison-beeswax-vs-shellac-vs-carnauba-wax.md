@@ -120,9 +120,9 @@ Many finishers combine these materials to leverage their complementary propertie
 
 ## See Also
 
-- [[comparison-sourdough-vs-wild-yeast-bread]]
 - [[fukuoka-textdoc-three-types-farming-comparison-yields]]
 
-- [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]] — deep dive into shellac production
-- beekeeping and pollinator conservation — beeswax production context
-- natural dye plants and textile fiber crops — other natural coating materials
+- query what is shellac and how is it produced from lac insects — deep dive into shellac production
+- [[natural-dye-plants]]-and-textile-fiber-crops]] — other natural coating materials
+
+See also: [[lac-insect-and-shellac]]

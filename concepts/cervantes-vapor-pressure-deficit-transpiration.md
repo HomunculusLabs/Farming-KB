@@ -117,10 +117,7 @@ leaves without causing excessive moisture loss.
 
 ## See Also
 
-- [[cervantes-humidity-control-dehumidification]] - humidity
-  management strategies
 - [[cervantes-co2-enrichment]] - CO2 effects on stomata and growth
-- [[cervantes-cloning]] - humidity requirements for cuttings
 - [[cervantes-air-quality-ventilation]] - airflow and environment
   control
 - [[cervantes-vegetative-phase]] - environmental needs during growth

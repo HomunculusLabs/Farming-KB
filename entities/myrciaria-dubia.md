@@ -138,13 +138,9 @@ In permaculture systems, camu camu serves multiple functions:
   floodplain soil systems.
 - **Economic output:** High-value fruit provides income for Amazonian
   communities without requiring deforestation.
-
 ## See Also
 
-- [[hamilton-pruning-and-training-fruit-trees]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
-- [[gaias-garden-fruit-tree-selection]]
-
-[[morus-alba]]
-psidium guajava
+- [[morus-alba]]
+[[psidium-guajava]]
 permaculture entity

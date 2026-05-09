@@ -1,7 +1,7 @@
 ---
 title: "Aspergillus Biology and Aflatoxin Contamination"
 created: 2026-04-28
-tags: [mycology, aspergillus, aflatoxin, food-safety, mycotoxin, fungal-ecology]
+tags: [[mycology, aspergillus, aflatoxin, food-safety, mycotoxin, fungal-ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -40,28 +40,7 @@ cell, where it is packaged into a spore and extruded like a blob of
 toothpaste. This process repeats every few minutes so that each
 phialide gives rise to a chain of spherical conidia.
 
-Penicillium species, famous for their gift of [[selective-agents-fungal-isolation-antibiotics-fungicides]],
-manufacture chains of spores from phialides like those of Aspergillus,
-but there are countless alternative mechanisms for clonal replication
-among conidial fungi. Conidia can be produced by fragmentation of a
-mycelium at its septa, from yeast-like branches that separate from the
-parent mycelium, or from pegs on the surface of aerial hyphae. Some
-conidia are elongated, multicellular, branched, coiled, S-shaped, and
-even star-shaped.
-
-## Generalist Lifestyle
-
-In common with many conidial stages of other ascomycete fungi,
-Aspergillus species are described as generalists because they grow and
-reproduce on an assortment of substrates. They invade agar medium in
-the laboratory and spoil groceries in the kitchen. Their adaptability
-to diverse environments makes them both remarkably successful organisms
-and persistent problems for food storage and safety.
-
-## Aflatoxins: Cancer-Causing Metabolites
-
-Some species of Aspergillus synthesize cancer-causing compounds called
-aflatoxins in foods. [[aspergillus-flavus]] and Aspergillus parasiticus
+Penicillium species, famous for their gift of [[aspergillus-flavus]] and Aspergillus parasiticus
 are the two principal species responsible for aflatoxin contamination.
 The link between liver cancer in humans and the consumption of
 contaminated peanut products and meat is due to the consumption of
@@ -111,18 +90,7 @@ Some species of Aspergillus can cause allergies, colonize the lungs,
 and initiate invasive infections in patients with weakened immune
 defenses. Aspergillosis is a serious concern for immunocompromised
 patients, particularly those undergoing organ transplantation or
-chemotherapy. The conidia of [[aspergillus-fumigatus]] are small enough to
-reach deep into the lungs, where they can germinate and invade lung
-tissue in susceptible individuals.
-
-## The Dual Identity: Aspergillus and Eurotium
-
-Aspergillus represents only the asexual or anamorphic stage of the
-complete fungal organism. The sexual or teleomorphic stage is called
-Eurotium, which produces cleistothecia containing asci with ascospores.
-When Eurotium forms conidia, mycologists refer to the fungus as
-Aspergillus. If compatible colonies merge, they produce the
-cleistothecium of Eurotium. This [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]] means that the same
+chemotherapy. The conidia of [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]] means that the same
 genome can produce radically different structures depending on whether
 mating occurs.
 
@@ -134,8 +102,6 @@ strategy helps explain the extraordinary ecological success and global
 distribution of these remarkable fungi.
 
 ## See Also
-
-- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]
 
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[aflatoxins-mycotoxins-food]]

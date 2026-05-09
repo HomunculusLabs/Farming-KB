@@ -21,21 +21,11 @@ type: concept
 
 ## Overview
 
-Basidiomycete mycelia form extensive networks that scavenge, sequester, and redistribute nutrients across metres of soil. Understanding how nutrients move through these networks requires techniques spanning micrometre to metre length scales. Research on [[gadd-mycelial-network-dynamics|mycelial network dynamics]] and [[gadd-mathematical-modelling-fungal-mycelia|mathematical modelling of fungal mycelia]] has been advanced by innovative imaging approaches that track nutrient translocation in real time, revealing complex pulsatile transport, route-switching, and emergent network-level coordination.
+Basidiomycete mycelia form extensive networks that scavenge, sequester, and redistribute nutrients across metres of soil. Understanding how nutrients move through these networks requires techniques spanning micrometre to metre length scales. Research on [[gadd-mathematical-modelling-fungal-mycelia|mathematical modelling of fungal mycelia]] has been advanced by innovative imaging approaches that track nutrient translocation in real time, revealing complex pulsatile transport, route-switching, and emergent network-level coordination.
 
 ## The Challenge of Scale
 
-Nutrient transport in fungal mycelia occurs across an enormous range of length scales: from uptake by individual transporter proteins in hyphal membranes, through translocation within septal compartments via the [[gadd-fungal-cell-structure|vacuolar system]], to long-distance movement through corded networks spanning several metres. No single technique can span this entire range, necessitating overlapping complementary methods that together provide a multi-scale picture of nutrient dynamics.
-
-## Vacuolar Transport at the Micrometre to Millimetre Scale
-
-The pleiomorphic vacuolar system—ranging from fine tubular reticula near hyphal tips to larger, spherical vacuoles in older compartments—has been proposed as a major pathway for longitudinal solute transport. Because no convenient fluorescent probes exist for tracking nitrogen directly, researchers have adopted an indirect approach using fluorescent dyes such as Oregon Green and carboxy-DFFDA to label the vacuolar lumen.
-
-### Fluorescence Recovery After Photobleaching (FRAP)
-
-FRAP is used to determine diffusion coefficients within the vacuolar system. A brief high-intensity light pulse photobleaches fluorescent dye in a defined region; the rate of fluorescence recovery reveals the rate of solute movement from adjacent parts of the vacuole.
-
-Three compartment types were characterized in [[gadd-colony-morphogenesis-hyphal-growth|Phanerochaete velutina]]:
+Nutrient transport in fungal mycelia occurs across an enormous range of length scales: from uptake by individual transporter proteins in hyphal membranes, through translocation within septal compartments via the [[gadd-colony-morphogenesis-hyphal-growth|Phanerochaete velutina]]:
 - **Distal compartments**: Large, discrete vacuoles connected by fine tubes
 - **Intermediate compartments**: Mix of vacuoles and tubular elements
 - **Tip compartments**: Dense tubular reticulum with small vesicles
@@ -86,8 +76,6 @@ A complete anatomical description of how transport pathways map onto individual 
 
 ## See Also
 
-- [[gadd-mycelial-network-dynamics|Mycelial Network Dynamics]]
 - [[gadd-mathematical-modelling-fungal-mycelia|Mathematical Modelling of Fungal Mycelia]]
-- [[gadd-fungal-imaging-techniques|Fungal Imaging Techniques]]
 - [[gadd-colony-morphogenesis-hyphal-growth|Colony Morphogenesis and Hyphal Growth]]
 - [[gadd-fungal-ecology-saprotrophs|Fungal Ecology: Saprotrophs]]

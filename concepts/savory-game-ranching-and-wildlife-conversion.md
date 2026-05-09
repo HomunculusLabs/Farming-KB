@@ -38,14 +38,7 @@ Their grazing patterns, herd movements, and population dynamics are
 shaped by predator pressure. When predators are removed, game animals
 lose natural wariness, concentrate in favored areas, overbrowse
 preferred species, and destroy seedlings that would have survived under
-natural browsing. The [[savory-elephant-culling-and-wildlife-population-policy]]
-case study illustrates this dramatically.
-
-## Game Ranching vs. Wildlife-Livestock Integration
-
-Savory distinguishes pure game ranching (complete substitution) from
-wildlife-livestock integration (running both together). The latter,
-covered under [[savory-wildlife-livestock-integration]], better replicates
+natural browsing. The [[savory-wildlife-livestock-integration]], better replicates
 natural multi-species grazing patterns. In African ecosystems, buffalo,
 zebra, wildebeest, and various antelope each favored different plants
 at different levels, distributing impact across the plant community.
@@ -107,12 +100,8 @@ desired patterns, and wildlife benefits from improved conditions.
 
 ## See Also
 
-- [[savory-wildlife-livestock-integration]] - Combining domestic and wild
-  animals
 - [[savory-elephant-culling-and-wildlife-population-policy]] - The predator
   connection
 - enterprise overhead and gross profit analysis - Financial
   evaluation tools
-- [[savory-predator-prey-and-herding-behavior]] - How predators shape
-  wildlife behavior
 - [[savory-livestock-behavior-and-grazing-styles]] - Species-specific grazing

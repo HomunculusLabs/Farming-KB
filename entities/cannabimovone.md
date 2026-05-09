@@ -110,13 +110,8 @@ Other rare cannabinoids with non-classical structures include cannabichromene (C
 
 ## See Also
 
-- [[cannabis-minor-cannabinoids]] — oxidized cannabinoid, primary degradation product of THC
 - [[cannabis-minor-cannabinoids]] — principal psychoactive cannabinoid
-- [[cannabis-minor-cannabinoids]] — major non-psychoactive cannabinoid
 - [[cannabis-minor-cannabinoids]] — non-classical cyclized cannabinoid
-- [[myrcene]] — terpene precursor in cannabinoid biosynthesis
 - [[cannabis-terpene-profiles]] — sesquiterpene with CB₂ receptor affinity
-- [[limonene]] — monoterpene common in cannabis aroma profiles
 - [[cannabis-blue-dream]] — high-THC cultivar with complex cannabinoid profiles
-- [[girl-scout-cookies]] — cultivar known for diverse minor cannabinoid content
 - [[wedding-cake-cannabis]] — modern hybrid with elevated minor cannabinoids

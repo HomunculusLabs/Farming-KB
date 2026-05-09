@@ -131,11 +131,7 @@ The species is planted in traditional Malay gardens both for practical use and a
 
 ## See Also
 
-- [[zingiber-officinale]]
 - [[alpinia-galanga]]
-- [[kaempferia-galanga]]
 - [[elettaria-cardamomum]]
-- [[boesenbergia-rotunda]]
 - [[curcuma-longa]]
-- [[hedychium-coronarium]]
 - [[syzygium-aromaticum]]

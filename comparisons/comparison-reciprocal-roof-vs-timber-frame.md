@@ -28,29 +28,6 @@ Reciprocal roofs and timber frames represent two distinct structural
     material requirements, and construction process.
 
 ## Reciprocal Roof Frame
-[[reciprocal-roof-frame]]
-
-A reciprocal roof is a self-supporting structure where rafters are
-    arranged in a spiraling circle, each resting on the one before it in a
-    closed loop of mutual support. The design eliminates the need for a
-    central column or ridge beam, creating a striking open interior with a
-    central oculus that can serve as a skylight, glazed cap, or open vent for
-    a living roof. Common configurations use eight to sixteen rafters, with
-    rafter length calculated from the building diameter minus the desired
-    oculus size, plus overhang.
-
-Reciprocal roofs are particularly well-suited to roundwood (unmilled
-    poles) from locally sourced woodland thinnings. Species like locust, oak,
-    larch, and Douglas fir provide excellent strength, and green woodworking
-    techniques allow relatively easy cutting and shaping. Construction
-    involves laying rafters one by one over a temporary center support post,
-    with the structure becoming self-supporting once the final rafter closes
-    the loop. Joinery is simpler than timber framing, relying on lapped
-    notches secured with pegs, screws, or natural fiber lashings. The
-    reciprocal frame pairs naturally with round buildings, earthbag walls,
-    cob, and living roofs.
-
-## Timber Frame
 [[timber-frame-basics]]
 
 Timber framing is a traditional building system using large timbers
@@ -131,6 +108,5 @@ Creative builders combine elements of both systems. A timber frame
     secondary roof elements within a timber frame primary structure.
 
 ## See Also
-- [[comparison-cob-vs-timber-frame]]
 - [[comparison-bamboo-construction-vs-timber-frame-basics]]
 - [[green-roof-and-living-walls]]

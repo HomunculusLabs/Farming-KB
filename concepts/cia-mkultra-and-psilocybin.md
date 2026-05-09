@@ -85,45 +85,9 @@ CIA agents observed the subjects through two-way mirrors and recorded their beha
 The program was later expanded to include unwitting dosing of people in restaurants, bars, and beaches.
 Ken Kesey, who would later become a key figure in the psychedelic counterculture as author of "One Flew Over the Cuckoo's Nest," first encountered LSD as a volunteer in what he believed was a legitimate government research program at the Veterans Administration Hospital in Menlo Park — a program that was in fact an MKULTRA-funded experiment.
 The irony of MKULTRA inadvertently seeding the counterculture it sought to suppress is a recurring theme in psychedelic history.
-See [[psychedelic-prohibition-and-the-war-on-consciousness]] for the broader suppression narrative.
-
-## The Church Committee and Public Revelation
-
-MKULTRA was brought to public light in 1975 through the Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, chaired by Senator Frank Church.
-The committee's investigation revealed that the CIA had conducted hundreds of unauthorized experiments on thousands of unwitting American and Canadian citizens over more than two decades.
-The program's scope extended far beyond psychedelics to include radiation experiments, sensory deprivation, hypnosis, electroconvulsive therapy, and the testing of biological and chemical agents on civilian populations.
-In Canada, a separate investigation led by Justice William Evert revealed that Dr. Ewen Cameron at McGill University's Allan Memorial Institute had conducted CIA-funded "psychic driving" experiments using LSD, sensory deprivation, and forced comas on psychiatric patients without their consent.
-Cameron's experiments, which sought to "wipe" and "reprogram" human minds, caused severe and lasting psychological harm to his patients.
-The public disclosure of these programs fundamentally altered public trust in government-funded research and contributed to the establishment of modern institutional review boards (IRBs) and informed consent requirements.
-
-## Impact on Psychedelic Scheduling
-
-The revelations of MKULTRA's abuses directly influenced the scheduling decisions that placed psychedelics among the most restricted substances in the world.
-When the Controlled Substances Act was passed in 1970, LSD, psilocybin, and other psychedelics were placed in Schedule I — the most restrictive category, defined as having "no accepted medical use" and "high potential for abuse."
-This classification was shaped in part by the CIA's own failed attempts to weaponize these substances, which paradoxically provided ammunition for prohibition advocates who argued that psychedelics were dangerous tools of manipulation.
-The Schedule I designation made legitimate clinical research extremely difficult, effectively halting psychedelic research for over three decades.
-It was not until the early 2000s that researchers at institutions like Johns Hopkins and the University of Arizona began to overcome these regulatory barriers and resume controlled studies of psilocybin's therapeutic potential.
-The legacy of MKULTRA thus had a double impact: it both revealed the government's unethical experimentation with psychedelics and contributed to the regulatory framework that prevented ethical scientific investigation for decades.
-
-## Scientific Ethics and Informed Consent
-
-The MKULTRA experiments represented one of the most egregious violations of research ethics in modern history.
-Subjects were never informed of the nature of the substances they were given, the risks involved, or the purpose of the experiments.
-Many experienced severe psychological distress, and some suffered lasting harm.
-The program operated without oversight from any institutional review board or ethics committee — structures that did not exist in their modern form at the time.
-The MKULTRA revelations were a major catalyst for the development of the Belmont Report (1979), which established the three core principles of research ethics: respect for persons, beneficence, and justice.
-These principles were subsequently codified in the Common Rule governing federally funded research in the United States.
-Contemporary psychedelic researchers work within this ethical framework, requiring thorough informed consent, careful screening of participants, trained facilitators, and integration support.
-The contrast between MKULTRA's coercive approach and modern psychedelic therapy's patient-centered, consent-based model could not be more stark.
-
-## See Also
-
-- [[lsd-discovery-and-history]] — CIA experiments with LSD
-- [[lsd-discovery-and-history]] — How psychedelics became illegal
+See [[lsd-discovery-and-history]] — CIA experiments with LSD
 - [[psychedelic-prohibition-and-the-war-on-consciousness]] — The broader prohibition movement
-- [[leary-harvard-psilocybin-project]] — Harvard's psilocybin research program
 - [[sacred-sacrament-mushroom-rites]] — Maria Sabina and Mazatec mushroom ceremonies
 - albert hofmann — The chemist who isolated psilocybin
-- [[wasson-hofmann-ruck-theory]] — The amateur mycologist who introduced psilocybin to the West
 - [[philosophical-implications-of-psychedelics]] — Modern psychedelic research advocacy
 - simon powell — Author of "The Psilocybin Solution"

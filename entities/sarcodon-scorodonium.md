@@ -131,16 +131,9 @@ Several *Sarcodon* species share similar habitat and morphology,
 requiring careful attention to odor and spore ornamentation for
 identification.
 
-- **[[sarcodon-imbricatus]]** — Larger species with darker, more
-  prominently imbricate cap scales and mild (non-garlic) odor.
 - **[[boletus-edulis-entity]]** — Shares coniferous forest habitat but has
   poroid hymenium and completely different morphology.
-- **[[trametes-versicolor]]** — Bracket fungus on wood, not
-  ectomycorrhizal, but can occur in similar forest environments.
-
-## See Also
-
-- [[hericium-erinaceus]] — Another toothed fungus with culinary and
+- **[[hericium-erinaceus]] — Another toothed fungus with culinary and
   medicinal value from temperate forest ecosystems.
 - [[cantharellus-cibarius-entity]] — Ectomycorrhizal edible fungus of similar
   coniferous and deciduous forest habitats.

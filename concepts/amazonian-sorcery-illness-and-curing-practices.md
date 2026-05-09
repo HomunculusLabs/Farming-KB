@@ -89,11 +89,7 @@ These two women -- one young (sky-blue dress), one old (lilac dress) -- perform 
 
 ## Related Topics
 
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] -- the healers who perform these cures
 - [[ayahuasca-preparation-and-ceremony]] -- the visionary context for diagnosis
-- [[hallucinogens-and-shamanism-harner-anthology]] -- tobacco as a protective and purifying agent
 - [[amazonian-medicinal-plants-in-amaringos-visions]]
-- [[amazonian-ayahuasca-purge-and-diet-practices]]
 - [[holmgren-trees-nature-solar-power-plants]]
-- [[teaming-with-microbes-plant-control]]
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]

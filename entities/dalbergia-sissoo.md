@@ -128,8 +128,6 @@ Termites and the shoot borer *Endospermum* spp. can affect young trees but are r
 
 ## See Also
 
-- [[robinia-pseudoacacia]] — Black locust, another nitrogen-fixing timber tree used in temperate agroforestry
 - [[gliricidia-sepium]] — Tropical leguminous tree used in similar agroforestry and fodder roles
-- [[alnus-glutinosa]] — Alder, temperate nitrogen-fixing tree for riparian restoration
 - [[elaeagnus-angustifolia]] — Russian olive, drought-tolerant nitrogen-fixer for arid land restoration
 - [[paulownia-tomentosa]] — Fast-growing timber tree for reforestation, contrasting non-nitrogen-fixing strategy

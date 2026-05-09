@@ -69,14 +69,11 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[methyl-dma-entity-pihkal]]
 - [[shulgin-safety-principles-self-experimentation]]
-- [[methyl-j-entity-pihkal]]
 - [[methyl-dob-entity-pihkal]]
 
 ## See Also
 
-- [[ethyl-j-entity-pihkal]]
 - [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 

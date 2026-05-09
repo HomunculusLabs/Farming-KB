@@ -111,7 +111,6 @@ The greater the diversity of plant varieties within the hedges, meadows, or fore
 
 Birds do not need to be fed over winter in a well-designed permaculture system, because they will find enough food amongst the diverse plant life even in winter. The best thing you can do for the birds in your garden is to provide them with good food by not harvesting everything in your permaculture system. Supposedly untidy things like piles of brushwood and thick hedges are well-valued by birds.
 
-See also: [[holzer-grafting-fruit-forest]], [[holzer-livestock-integration]], [[holzer-grafting-fruit-forest]], [[holzer-fruit-growing-marginal-climates]], [[holzer-browsing-protection-methods]], [[holzer-permaculture-landscape-design]]
-- [[sepp-holzer-fruit-tree-varieties]]
+See also: [[holzer-livestock-integration]], [[holzer-fruit-growing-marginal-climates]], [[holzer-permaculture-landscape-design]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[holzer-pear-and-apple-pollination-and-harvesting]]

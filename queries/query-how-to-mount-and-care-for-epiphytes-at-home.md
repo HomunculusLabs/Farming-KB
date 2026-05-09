@@ -124,26 +124,14 @@ Indoor environments are often too dry for mounted epiphytes (typical home humidi
 
 ## Light Requirements
 
-Follow [[species-specific-cold-shock-response-psilocybe]] light guidelines. Most mounted epiphytes prefer bright, indirect light:
-
-- **East-facing window**: Ideal for most mounted orchids and Tillandsia. Gentle morning sun, indirect light the rest of the day.
-- **West-facing window**: Works for sun-tolerant species (*Dendrobium*, some Tillandsia) with some protection from harsh afternoon rays.
-- **South-facing window**: Bright but can be too intense. Sheer curtains or distance from the window (3-4 feet) diffuse the light.
-- **Artificial light**: LED grow lights work well for mounted plants. Full-spectrum LEDs at 40-80 µmol/m²/s for 12-14 hours per day. Position 12-18 inches from the mount.
-
-## Fertilizing Mounted Plants
-
-Use a diluted [[liquid-fertilizer-from-weeds]] applied during regular watering. For mounted orchids: ¼ strength balanced fertilizer (20-20-20) once per week during active growth, reduced to monthly in winter. For Tillandsia: Submerge in fertilizer solution (¼ strength) for 30 minutes once or twice per month. Avoid urea-based fertilizers — epiphytes absorb nitrates and ammonium more readily.
+Follow [[liquid-fertilizer-from-weeds]] applied during regular watering. For mounted orchids: ¼ strength balanced fertilizer (20-20-20) once per week during active growth, reduced to monthly in winter. For Tillandsia: Submerge in fertilizer solution (¼ strength) for 30 minutes once or twice per month. Avoid urea-based fertilizers — epiphytes absorb nitrates and ammonium more readily.
 
 ## Seasonal Care Adjustments
 
 | Season | Watering | Fertilizing | Light | Special Notes |
 |--------|----------|-------------|-------|---------------|
 | Spring | Increasing frequency | Resume weekly | Increasing | Repot/divide if needed |
-| Summer | Frequent (2-4x/week) | Weekly | Peak; may need shade | Watch for [[heat-stress-cannabis]] |
-| Autumn | Reducing gradually | Monthly | Good light exposure | Cool nights trigger blooming |
-## See Also
+| Summer | Frequent (2-4x/week) | Weekly | Peak; may need shade | Watch for [[query-how-to-brew-kombucha-at-home-step-by-step]]
 
-- [[query-how-to-grow-and-care-for-a-tamarind-tree]]
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[query-how-do-i-make-koji-at-home-for-beginners]]

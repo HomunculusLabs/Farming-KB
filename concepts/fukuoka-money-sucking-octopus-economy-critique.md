@@ -114,8 +114,6 @@ The octopus economy critique emerges from Fukuoka's deeper philosophical positio
 
 ## See Also
 
-- [[fukuoka-mu-economics]]
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-- [[fukuoka-food-civilization-critique]]
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]

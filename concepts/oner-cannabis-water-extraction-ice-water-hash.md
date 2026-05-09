@@ -8,11 +8,10 @@ sources:
   - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
 ---
 
-# [[cannabis-ice-water-extraction]] Extraction and Ice [[cervantes-15-bag-water-hash-extraction]]
+# [[cervantes-15-bag-water-hash-extraction]]
 
 Water extraction (also called ice water extraction or bubble hash production) is a
-solventless method of separating [[cannabis-trichome-types-and-development]]s from plant material using cold
-water and agitation. While Oner's [[marijuana-strain-guide-hybrid]] focuses primarily on strain evaluation
+solventless method of separating [[marijuana-strain-guide-hybrid]] focuses primarily on strain evaluation
 rather than extraction methodology, it provides important context about which strains
 are best suited for this technique and the role of water extraction in modern cannabis
 processing.
@@ -109,6 +108,5 @@ specifically with extraction in mind:
 
 ## See Also
 
-- [[oner-cannabis-hashish-production]]
 - [[oner-cannabis-co2-solvent-extraction]]
 - [[oner-cannabis-edibles-infusion-dosing]]

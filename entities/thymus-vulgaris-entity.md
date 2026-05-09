@@ -117,34 +117,7 @@ agent. Composition varies dramatically by chemotype:
   is prized for its flavour and medicinal properties
 - **Ground cover:** Dense, low growth suppresses weeds and protects
   soil from erosion on slopes
-- **Companion planting:** Repels cabbage white butterfly (Pieris
-  rapae), cabbage moth, and tomato hornworm; said to improve flavour
-  of adjacent tomatoes and eggplants
-- **Pest deterrent:** Thymol-rich mulch deters soil-dwelling pests;
-  essential oil sprays used as organic insecticides
-- **Soil improvement:** Shallow roots do not compete heavily with
-  deeper-rooted crops; leaf litter adds organic matter
-- **Erosion control:** Effective on dry slopes and banks where few
-  other useful plants thrive
-## Traditional and Modern Medicinal Uses
-Thyme has one of the longest documented histories of medicinal use:
-- **Respiratory conditions:** Thymol is a proven expectorant and
-  bronchospasmolytic; thyme tea is a traditional remedy for coughs,
-  bronchitis, and sore throats; thyme preparations are approved by the
-  German Commission E for respiratory tract inflammation
-- **Antimicrobial:** Thyme oil demonstrates broad-spectrum activity
-  against bacteria, fungi, and viruses; MRSA inhibition documented
-  in clinical isolates
-- **Oral health:** Thymol is a primary active ingredient in
-  antiseptic mouthwashes and toothpaste; anti-plaque and anti-gingivitis
-  activity
-- **Antioxidant:** Rosmarinic acid and flavonoids provide significant
-  radical-scavenging activity; protective against oxidative stress
-- **Digestive aid:** Carminative properties relieve bloating and
-  flatulence; traditionally consumed after heavy meals
-## See Also
-- [[rosmarinus-officinalis-entity]]
-- [[lavandula-angustifolia-entity]]
-- Ocimum basilicum
+- **[[teucrium-chamaedrys]]
+- [[lavandula-angustifolia]]
 - [[salvia-officinalis]]
 - [[glechoma-hederacea]]

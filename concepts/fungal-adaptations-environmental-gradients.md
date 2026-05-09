@@ -3,7 +3,7 @@ title: Fungal Adaptations to Environmental Gradients
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"]
 ---
 # Fungal Adaptations to Environmental Gradients
@@ -82,14 +82,5 @@ Fungi in metal-contaminated environments have evolved:
 
 ## Interactive Effects
 
-Environmental factors rarely act in isolation. Temperature interacts with moisture, pH affects metal solubility and bioavailability, and nutrient status modifies stress tolerance. Fungal communities respond to these interacting gradients, producing the complex spatial and temporal patterns observed in natural ecosystems. Understanding these interactions is essential for predicting fungal responses to [[fungal-responses-climate-change]] and anthropogenic disturbance.
-
-See also: [[fungal-stress-responses]], [[lichen-biology-guide]], [[fungal-roles-aquatic-environments]], [[gadd-fungal-metal-interactions]]
-
-## Related
-
-- [[fungal-chromogens-and-color-change]]
-- [[fungal-diversity-deserts-arid-lands]]
-
-## See Also
+Environmental factors rarely act in isolation. Temperature interacts with moisture, pH affects metal solubility and bioavailability, and nutrient status modifies stress tolerance. Fungal communities respond to these interacting gradients, producing the complex spatial and temporal patterns observed in natural ecosystems. Understanding these interactions is essential for predicting fungal responses to [[fungal-stress-responses]], [[fungal-roles-aquatic-environments]], [[fungal-chromogens-and-color-change]]
 - [[fungal-saltmarsh-decomposition]]

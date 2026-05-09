@@ -4,7 +4,8 @@ created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 # Sinicuichi (Heimia salicifolia): Auditory Hallucinogen of Mexico
 
@@ -52,10 +53,8 @@ As ethnopharmacological research continues to expand, sinicuichi represents a re
 
 ## Related
 
-- [[entheogenic-plants-and-psychoactive-flora]]
 - [[old-world-hallucinogenic-plants-overview]]
-- [[datura-metel-old-world-ethnobotany]]
-- [[entheogenic-plants-and-psychoactive-flora]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]
 
 ## Historical Context
 
@@ -75,17 +74,11 @@ The growing field of psychoacoustics — the study of how psychoactive substance
 
 ## See Also
 
-- [[heimia-salicifolia-entity]]
-
 - [[heimia-salicifolia]]
 
 sinicuichi heimia salicifolia auditory hallucinogen — another Mexican psychoactive plant with dream-modifying properties.
 
-[[old-world-hallucinogenic-plants-overview]] — overview of hallucinogenic plants from the Old World tradition.
-
 [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — Mexican morning glories and their psychoactive seeds.
-
-[[syrian-rue-peganum-harmala-ethnobotany]] — Syrian rue and its beta-carboline alkaloids.
 
 [[tree-daturas-brugmansia-south-american-ethnobotany]] — New World solanaceous hallucinogens.
 

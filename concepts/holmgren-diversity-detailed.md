@@ -3,41 +3,7 @@ title: Holmgren Use and Value Diversity - Detailed
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-# Principle 10: Use and Value Diversity (Detailed Analysis)
-
-From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
-
-## Core Definition
-
-The great diversity of forms, functions and interactions in nature and humanity are the source for evolved systemic complexity. The role and value of diversity in nature, culture and Permaculture is itself complex, dynamic, and at times apparently contradictory.
-
-Diversity needs to be seen as a result of the balance and tension in nature between variety and possibility on the one hand, and productivity and power on the other. It is now widely recognised that monoculture is a major cause of vulnerability to pests and diseases. Polyculture is one of the most important applications of the use of diversity.
-
-## Biodiversity Conservation
-
-While Permaculture incorporates strategies to conserve biodiversity, it also seeks a more fundamental redesign of all we do, so that biodiversity becomes a valued and functional part of our world.
-
-Nature is equally concerned with diversity and with power and productivity. Teaching of environmental science tends to ignore this aspect of nature in an effort to counter the obsession with prevailing economic measures of productivity and power. For a deeper understanding of the use of diversity, we need to see it in dynamic balance and complementary tension in all systems, at all levels.
-
-## Specialization in Nature
-
-One broad ecological classification is as generalist or specialist species. Generalists are jacks-of-all-trades, able to thrive in a range of habitats. Generalist plants make good pioneers, moderating and improving the environment for more sensitive specialists. Specialists are more like the master craftsperson, efficient in a particular habitat but not very flexible.
-
-At a landscape scale, the diversity of ecosystems is mapped onto the underlying biophysical variation created by climate, landform and bedrock minerals. Different species and ecosystems are most efficient and powerful in using available resources in different places.
-
-## Diversity Creating Stability
-
-Diversity provides alternative pathways for essential ecosystem functions in the face of changing conditions. This makes sense from our understanding of traditional human systems, where diversity of crops and resources provides insurance against failure.
-
-Where available resources are little differentiated into niches, a single generalist species tends to dominate, resulting in low diversity. Where resources are highly differentiated into niches, different species tend to prevail in different niches. Beyond the absence of competition, mutual and even symbiotic relationships can develop because of the different needs and outputs of those species.
-
-Tropical rainforests, some of the most stable ecosystems, have high biodiversity. Large-scale climatic disturbance cycles periodically eliminate much of the biodiversity from temperate latitudes; in the tropics, evolving diversity can continue to accumulate.
-
-[[permaculture-principle-use-and-value-diversity]] | [[permaculture-principles]] | [[permaculture-principle-use-and-value-diversity]] | [[polyculture-design-hemenway]] | [[permaculture-water-harvesting-earthworks]]
+tags: [[permaculture-principle-use-and-value-diversity]] | [[permaculture-principle-use-and-value-diversity]] | [[permaculture-earthworks-and-water-harvesting]]
 
 ## The Diversity-Stability Debate
 
@@ -104,9 +70,7 @@ Holmgren is careful to note that diversity has practical limits and costs:
 - Map and maximize edge effects between different ecosystems or landscape elements.
 
 ## See Also
-- [[holmgren-small-slow-solutions-detailed]]
-
-Related topics in this wiki include: [[permaculture-principles]], [[permaculture-water-harvesting-earthworks]], [[permaculture-ethics]], [[permaculture-design]], [[permaculture-design-process]], [[natural-farm-permaculture-ethics-principles]], [[permaculture-retrofit-suburbia]], [[permaculture-energy-descent-planning]], [[permaculture-pattern-language]], [[permaculture-design]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
+- [[permaculture-principles]], [[permaculture-ethics]], [[permaculture-design-process]], [[permaculture-retrofit-suburbia]], [[permaculture-pattern-language]], [[permaculture-site-analysis]], [[permaculture-zone-planning]].
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.

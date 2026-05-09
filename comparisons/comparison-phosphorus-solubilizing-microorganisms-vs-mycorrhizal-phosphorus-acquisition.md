@@ -1,12 +1,6 @@
 ---
 title: Phosphorus-Solubilizing Microorganisms vs Mycorrhizal Phosphorus Acquisition
-tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]], pgpr]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Richardson AE, Simpson RJ. Soil microorganisms mediating phosphorus availability update on microbial phosphorus. Plant Physiology. 2011;156(3):989-996.
-  - Sharma SB, Sayyed RZ, Trivedi MH, Gobi TA. Phosphate solubilizing microbes: sustainable approach for managing phosphorus deficiency in agricultural soils. SpringerPlus. 2013;2:587.
-  - Smith SE, Smith FA. Fresh perspectives on the roles of [[arbuscular-mycorrhizal-fungi]] fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
+tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, [[arbuscular-mycorrhizal-fungi]] fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
   - Bhattacharyya PN, Gupta A. Planta growth promoting rhizobacteria (PGPR): emergence in sustainable agriculture. Frontiers in Microbiology. 2012;3:124.
   - Goldstein AH. Recent progress in understanding the molecular genetics and biochemistry of calcium phosphate solubilization by Gram negative bacteria. Biological Agriculture & Horticulture. 1995;12(2):185-193.
   - Jansa J, Wischnewski A, Czechowski T, Bujon W. Lost in translation: developing molecular markers for mycorrhizal functioning. Trends in Plant Science. 2013;18(9):501-507.
@@ -17,15 +11,7 @@ created: 2026-04-28
 
 # Phosphorus-Solubilizing Microorganisms vs Mycorrhizal Phosphorus Acquisition
 
-Phosphorus (P) is one of the three primary macronutrients limiting crop production globally, yet an estimated 60–90% of applied phosphorus fertilizer becomes immobilized in soil as insoluble complexes unavailable to plants. Two principal biological strategies address this bottleneck: phosphorus-solubilizing microorganisms (PSMs) that chemically liberate P from mineral and organic pools, and [[arbuscular-mycorrhizal-colonization-patterns]] fungi (AMF) that physically extend the absorptive surface area of root systems to access P from beyond the depletion zone. These strategies are complementary rather than redundant, and understanding their differences is essential for designing effective biological phosphorus management programs.
-
-## Mechanism Comparison
-
-| Feature | Phosphorus-Solubilizing Microorganisms (PSMs) | Arbuscular Mycorrhizal Fungi (AMF) |
-|---|---|---|
-| **Primary mechanism** | Acidification, chelation, and enzymatic dissolution of insoluble P compounds | Physical exploration via extraradical hyphae extending 2–25 cm beyond root surface |
-| **Key biochemical agents** | Organic acids (gluconic, citric, oxalic, 2-ketogluconic acid), phosphatases, phytases | High-affinity P transporters on hyphal membranes; no chemical dissolution required |
-| **P sources targeted** | Tricalcium phosphate (TCP), [[dynamic-accumulator-plants-phosphorus]], iron/aluminum phosphates, organic P (phytate, nucleic acids) | Soluble and weakly adsorbed P in soil solution; P desorbed from soil particle surfaces |
+Phosphorus (P) is one of the three primary macronutrients limiting crop production globally, yet an estimated 60–90% of applied phosphorus fertilizer becomes immobilized in soil as insoluble complexes unavailable to plants. Two principal biological strategies address this bottleneck: phosphorus-solubilizing microorganisms (PSMs) that chemically liberate P from mineral and organic pools, and [[dynamic-accumulator-plants-phosphorus]], iron/aluminum phosphates, organic P (phytate, nucleic acids) | Soluble and weakly adsorbed P in soil solution; P desorbed from soil particle surfaces |
 | **Spatial reach** | Localized to rhizosphere (1–5 mm from root surface) | Hyphal network extends well beyond depletion zone, accessing bulk soil P |
 | **Key organisms** | *Pseudomonas fluorescens*, *Bacillus subtilis*, *Bacillus megaterium*, *Penicillium* spp., *Aspergillus niger* | *Rhizophagus irregularis*, *Funneliformis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
 | **Host specificity** | None — free-living organisms act independently of plant species | Obligate symbionts with varying compatibility across plant families |
@@ -42,7 +28,7 @@ Phosphorus-solubilizing microorganisms employ three principal biochemical strate
 
 ## How AMF Acquire Phosphorus
 
-Arbuscular mycorrhizal fungi form an obligate symbiosis with > 80% of terrestrial plant families. The [[fungal-hyphae-invasive-growth-mechanisms]], which are 2–10× thinner than the finest plant root hairs (2–5 µm vs 10–20 µm), explore soil microsites that root systems cannot reach. A single gram of colonized soil may contain 10–100 meters of [[amf-hyphal-anastomosis-self-recognition]] length.
+Arbuscular mycorrhizal fungi form an obligate symbiosis with > 80% of terrestrial plant families. The [[amf-hyphal-anastomosis-self-recognition]] length.
 
 **The phosphorus uptake pathway:**
 
@@ -96,7 +82,7 @@ AMF do not solubilize insoluble P compounds — they access P that is already in
 | **Rock phosphate** | Strongly synergistic — PSMs solubilize rock phosphate, making it plant-available | Mildly synergistic — AMF access some solubilized P |
 | **Fungicides** | Variable — copper and sulfur generally OK; systemic fungicides toxic | Most fungicides reduce AMF; copper moderately toxic |
 | **Tillage** | Conventional tillage redistributes inoculum; no-till favors buildup | No-till strongly preferred — preserves hyphal networks |
-| **[[cover-crops-and-green-manures]]** | Synergistic — [[cover-crop-multifunction-design]] roots support PSM populations | Highly synergistic — cover crops maintain AMF networks between cash crops |
+| **[[cover-crop-multifunction-design]] roots support PSM populations | Highly synergistic — cover crops maintain AMF networks between cash crops |
 
 ## Limitations and Failure Modes
 

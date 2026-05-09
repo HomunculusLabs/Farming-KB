@@ -18,7 +18,7 @@ type: concept
 
 The relationship between cannabis, acetylcholine, memory, and learning
 represents a fascinating intersection of neuroscience and cannabinoid
-pharmacology. [[uwe-blesching]]'s [[cannabis-health-index]] explores this connection
+pharmacology. [[cannabis-health-index]] explores this connection
 through the lens of the "Biology of Emotions," where acetylcholine is
 characterized by the emotional keyword: "I remember."
 
@@ -139,6 +139,5 @@ apply:
 
 ## See Also
 
-- [[blesching-cannabis-mental-disorders]]
 - [[cannabis-endocannabinoid-system]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]

@@ -3,7 +3,7 @@ title: Acidophilic and Alkalophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md", "raw/papers/teaming-with-fungi-lowenfels.md"]
 ---
 # Acidophilic and Alkalophilic Fungi
@@ -75,46 +75,10 @@ When sampling fungi from extreme pH environments:
 
 ## Related Topics
 
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-diversity-extreme-environments]]
-- [[fungal-diversity-arid-environments]]
 - [[fungal-biodiversity-in-extreme-environments]]
-- [[fungi-in-stressful-environments]]
-
-## References
-
-- Biodiversity of Fungi (2004), Chapter 14: Fungi in Stressful Environments
-- Horikoshi, K. 1991. Microorganisms in Alkaline Environments
-- Grant, W.D. et al. 1990. Alkaliphiles: taxonomy and ecology
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[fungal-biodiversity-in-soil-ecosystems]]
-
-## Practical Context
-Acidophilic And Alkalophilic Fungi is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
 - [[fungi-in-stressful-environments]]
-- [[aspergillus-oryzae]]
 - [[extremophilic-fungi]]
-- [[decomposition]]
 - [[dighton-fungi-tropical-forest-ecosystems]]

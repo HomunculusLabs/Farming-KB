@@ -3,7 +3,7 @@ title: Fungal Biodegradation and Biodeterioration
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -64,7 +64,7 @@ Several properties make fungi exceptionally capable degraders:
 
 ## Ecosystem Engineering Role
 
-Fungi are considered natural ecosystem engineers, regulating nutrient and energy flow through mycelial networks that may cover vast areas. Despite their enormous environmental impact, fungal contributions are often neglected by engineers, scientists, and the public. See [[fungal-ecosystem-roles]] and [[fungal-roles-in-mass-extinction-recovery]].
+Fungi are considered natural ecosystem engineers, regulating nutrient and energy flow through mycelial networks that may cover vast areas. Despite their enormous environmental impact, fungal contributions are often neglected by engineers, scientists, and the public. See [[fungal-roles-in-mass-extinction-recovery]].
 
 ## Distinction: Biodegradation vs. Biodeterioration
 
@@ -82,13 +82,9 @@ The same enzymatic systems that cause biodeterioration can be harnessed for:
 
 ## See Also
 
-- [[fungal-pah-degradation-and-soil-bioremediation]]
-
 - [[fungal-coal-biodegradation-and-bioconversion]]
 
-- [[fungal-bioremediation]]
 - [[fungal-enzymatic-capabilities]]
-- [[fungal-wood-decay-types]]
 - [[fungal-building-material-deterioration]]
 - [[cotter-mycoremediation-overview]]
 

@@ -3,16 +3,7 @@ title: Permaculture Zone One Planning And Techniques
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Permaculture Zone One Planning and Techniques
-
-updated: 2026-04-18
-
-Zone one in [[urban-permaculture-edge-effect-and-design-principles]] is the area of most intensive management, immediately adjacent to the dwelling. It contains the kitchen garden, culinary herbs, frequently harvested vegetables, small ponds, and greenhouse. Bill Mollison's Permaculture Design Course (Pamphlet IX) provides detailed practical guidance for zone one design.
+tags: [[urban-permaculture-edge-effect-and-design-principles]] is the area of most intensive management, immediately adjacent to the dwelling. It contains the kitchen garden, culinary herbs, frequently harvested vegetables, small ponds, and greenhouse. Bill Mollison's Permaculture Design Course (Pamphlet IX) provides detailed practical guidance for zone one design.
 
 ## House Layout for Zone Efficiency
 
@@ -118,15 +109,11 @@ A house front designed as a focusing system with sun-reflecting mirrors under ea
 
 ## Related Topics
 
-- [[permaculture-design-principles]]
 - [[permaculture-urban-design]]
-- [[broadscale-permaculture-techniques-mollison]]
 - [[permaculture-forage-systems]]
 
 ## Source
 
 Bill Mollison, Permaculture Design Course Pamphlet IX: Permaculture Techniques (1981)
-- [[mollison-permaculture-two-zone-planning-and-site-layout]]
 - [[mollison-berry-production-cool-climates]]
-- [[urban-permaculture-edge-effect-and-design-principles]]
 - [[water-pathways-through-plants]]

@@ -137,8 +137,6 @@ concentrates. These regulations were enacted primarily to control
 the diversion of safrole into MDMA production.
 
 ## See Also
-- [[myristicin-entity]]
 - [[elemicin]]
-- [[mescaline-entity]]
 - [[mdma]]
-- [[piper-methysticum-entity]]
+- [[piper-methysticum]]

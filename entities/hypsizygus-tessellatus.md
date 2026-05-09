@@ -77,7 +77,7 @@ Spawn run proceeds at 20 to 25°C for 20 to 30 days. Primordia formation is indu
 
 CO2 concentration during fruiting must be maintained below 1000 ppm, as elevated levels cause stipe elongation and reduced cap expansion. Ventilation rate is a critical parameter, typically set at 5 to 10 air changes per hour in commercial growing rooms. Pinning density is controlled through scraping or mechanical shock to the substrate surface.
 
-The mushroom is commercially attractive due to its long shelf life of 14 to 21 days at 4°C, significantly exceeding that of [[pleurotus-ostreatus]] (5 to 7 days) and [[flammulina-velutipes]] (10 to 14 days).
+The mushroom is commercially attractive due to its long shelf life of 14 to 21 days at 4°C, significantly exceeding that of [[flammulina-velutipes]] (10 to 14 days).
 
 This extended post-harvest viability makes it a premium product in fresh markets.
 
@@ -109,14 +109,9 @@ Research interest in H. tessellatus has increased substantially since 2010, driv
 
 ## See Also
 
-- [[agaricus-bisporus]]
 - [[coprinus-comatus-detailed]]
-- [[flammulina-velutipes]]
 - [[grifola-frondosa]]
-- [[hericium-erinaceus]]
 - [[lentinula-edodes]]
-- [[morchella-esculenta]]
 - [[pleurotus-ostreatus]]
-- [[stropharia-rugosoannulata]]
 - [[tremella-fuciformis-entity]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

@@ -21,32 +21,6 @@ are not alternatives but rather sequential tools: the hood ensures clean culture
 and the fruiting chamber provides optimal conditions for the crop to mature.
 
 ## Laminar Flow Hood
-[[laminar-flow-hood-guide]]
-A laminar flow hood draws room air through a MERV 8-13 prefilter, forces it through a HEPA
-filter (99.97% efficient at 0.3 microns) using a matched squirrel cage blower, and expels it
-as a smooth, sterile curtain of air across the working surface at approximately 100 feet per
-minute. The standard DIY build uses a 2x4 foot HEPA filter ($80-200), a blower matched to the
-filter's static pressure rating ($50-150), a prefilter, and a sealed plywood enclosure. Total
-DIY cost ranges from $180-480, compared to $500-3,000+ for commercial units. HEPA filters last
-5-10 years with regular prefilter maintenance.
-
-The laminar flow hood is the single most impactful investment a mushroom cultivator can make for
-reducing contamination. It provides a verifiable sterile work zone where agar plates, grain
-jars, and spawn bags can be opened without airborne contamination. For regular cultivators
-working with agar, doing grain-to-grain transfers, or producing spawn, the hood pays for itself
-quickly in reduced lost cultures and failed grows. The DIY construction is straightforward for
-anyone comfortable with basic woodworking and wiring, and the resulting tool operates reliably
-for years with minimal maintenance.
-
-The drawbacks include significant upfront cost and construction effort, the requirement for
-careful airflow calculation (the blower must be matched to the HEPA filter's static pressure at
-the target face velocity), and the fact that any air leak in the enclosure completely bypasses
-filtration. A laminar flow hood occupies permanent space and requires electrical power. For
-cultivators who only occasionally do sterile work (a few grows per year), a simple still air
-box ($5-20) may provide sufficient contamination reduction at far lower cost, making the hood
-investment harder to justify.
-
-## Fruiting Chamber
 [[fruiting-chamber-design]]
 A fruiting chamber is any enclosed space designed to maintain the environmental conditions that
 trigger and support mushroom fruiting: high humidity (85-100%), regular fresh air exchange (2-6
@@ -116,8 +90,6 @@ environment. This integrated approach minimizes the risk of contamination during
 between the sterile workspace and the fruiting environment.
 
 ## See Also
-- [[martha-tent-mushroom-growing]]
 - [[comparison-martha-tent-vs-monotub]]
-- [[monotub-cultivation]]
 - [[laminar-flow-hood-guide]]
 - [[fruiting-chamber-design]]

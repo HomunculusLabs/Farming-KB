@@ -1,7 +1,7 @@
 ---
 title: mushroom cultivation contamination control
 created: 2026-04-28
-tags: [mycology, contamination, sterilization, hygiene]
+tags: [[mycology, contamination, sterilization, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -10,8 +10,7 @@ type: concept
 
 # mushroom cultivation contamination control
 
-Contamination is the primary cause of failure in [[mushroom-cultivation]]. Fungi
-and bacteria are ubiquitous, and [[mushroom-substrates]] are ideal food sources for
+Contamination is the primary cause of failure in [[mushroom-substrates]] are ideal food sources for
 competitor organisms. Effective contamination control is not a single step but
 a system of practices spanning the entire cultivation workflow.
 
@@ -108,8 +107,5 @@ fungi while being compatible with mushroom mycelium.
 
 ## See Also
 
-- [[jar-lid-loose-fit-preventing-vacuum-mushroom-cultivation]]
-
 - [[oyster-mushroom-substrate-preparation]]
-- [[oyster-mushroom-spawn-production]]
 - [[mushroom-grow-room-design]]

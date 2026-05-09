@@ -49,63 +49,11 @@ associate with the vast majority of terrestrial plant species.
 
 Mycorrhizal root systems increase the absorptive area of roots
 10 to 1,000 times, vastly improving plant access to soil
-resources. [[mycorrhizal-fungi]] release powerful chemicals into soil
-that dissolve tightly bound nutrients such as phosphorus, iron,
-and other recalcitrant soil nutrients. This extraction process is
-particularly important in plant nutrition and explains why
-non-mycorrhizal plants require high levels of fertility to
-maintain their health.
-
-The fungi form a complex web that captures and assimilates
-nutrients, conserving nutrient capital in soils. In
-non-mycorrhizal conditions, much of this fertility is wasted or
-lost from the system. The smallest fungal hyphae are
-substantially finer than root hairs, allowing exploration of soil
-microsites that plant roots cannot reach.
-
-## Carbon Flow to the Fungus
-
-The plant invests significant photosynthate in maintaining the
-mycorrhizal partnership. Carbon fixed through photosynthesis is
-transported to root cortical cells and transferred across the
-arbuscular interface to the fungal partner. This carbon supports
-fungal growth, maintenance of the extensive extraradical hyphal
-network, and production of glomalin, a glycoprotein that
-contributes to soil aggregation and carbon sequestration.
-
-The carbon cost to the plant is offset by the improved nutrient
-acquisition. In infertile soils, nutrients taken up by mycorrhizal
-fungi lead to improved plant growth and reproduction. As a
-result, mycorrhizal plants are often more competitive and better
-able to tolerate environmental stresses than non-mycorrhizal
-plants.
-
-## Synergy with Rhizobial Nitrogen Fixation
-
-The interaction between rhizobia and AM fungi has received
-considerable attention because of the relatively high phosphorus
-demand of nitrogen fixation. The two symbioses typically act
-synergistically, resulting in greater nitrogen and phosphorus
-content in combination than when each is inoculated onto the
-legume alone.
-
-Legumes are typically coarse-rooted and inefficient at extracting
-phosphorus from soil. The AM fungi associated with legumes
-provide an essential link for adequate phosphorus nutrition,
-leading to enhanced nitrogenase activity that in turn promotes
-root and mycorrhizal growth. [[root-exudates]] including specific
+resources. [[root-exudates]] including specific
 flavonoid concentrations attract appropriate rhizobial species
 to colonize the root and produce nodules.
 
-## [[mycorrhizal-types]] and Variation
-
-Multiple types of mycorrhizal associations exist beyond the
-arbuscular type:
-
-- **Ectomycorrhiza (ECM)**: Most common on forest trees; fungal
-  mantle and Hartig net around root; most partners are
-  basidiomycetes.
-- **[[ericoid-mycorrhiza]]**: Found in Ericaceae; hyphae form coils
+## [[ericoid-mycorrhiza]]**: Found in Ericaceae; hyphae form coils
   within epidermal cells; functional life limited to period
   before infected cell breakdown.
 - **Orchidaceous mycorrhiza**: Fungus penetrates cell wall and
@@ -127,21 +75,7 @@ antibiotic compounds, competition for nutrients including
 siderophore production, and induction of generalized host defense
 mechanisms.
 
-## [[glomalin-and-soil-carbon]]
-
-AM fungi produce glomalin, a recalcitrant glycoprotein that
-contributes significantly to soil organic carbon pools. Glomalin
-is highly stable in soil, persisting for years to decades, and
-plays important roles in soil aggregation, water retention, and
-carbon sequestration. This represents an additional pathway by
-which the carbon-phosphorus exchange influences broader
-ecosystem processes beyond direct plant nutrition.
-
-## See Also
-
-- [[symbiotic-fungi-mycorrhizal-carbon-trading]]
-- [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
-
+## [[symbiotic-fungi-mycorrhizal-carbon-trading]]
 - [[mycorrhiza]] overview
 - nutrient exchange in plant-fungal systems
 - symbiosis mechanisms

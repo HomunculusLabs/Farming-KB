@@ -129,10 +129,7 @@ biodiesel feedstock and edible oil source.
 
 ## See Also
 
-- [[boehmeria-nivea]]
 - [[crotalaria-juncea]]
-- [[glycyrrhiza-uralensis]]
 - [[vicia-villosa]]
-- [[tagasaste]]
 - [[mycoremediation]]
 - [[blesching-cannabis-sativa-indica-classification]]

@@ -8,9 +8,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 ---
 
-# [[fukuoka-natural-farming-philosophy]] — Refined
-
-*From "Sowing Seeds in the Desert," [[masanobu-fukuoka]]'s final book, originally
+# [[masanobu-fukuoka]]'s final book, originally
 published in Japanese in 1996 as "The Ultimatum of God, Nature." This work
 represents his most mature philosophical statement, expanding on themes from The
 One-Straw Revolution with decades of additional reflection and global
@@ -114,9 +112,7 @@ participate in the same dance of life and death.
 
 ## See Also
 
-- [[fukuoka-sowing-green-philosophy-one-grain-revolution]] — Fukuoka's broader
-green philosophy and call to revolution -
-[[fukuoka-sowing-natural-farming-climate-change]] — Natural farming as response
-to global [[desertification]] - [[fukuoka-road-do-nothing-farming]] — Earlier
+- [[fukuoka-sowing-natural-farming-climate-change]] — Natural farming as response
+to global [[fukuoka-road-do-nothing-farming]] — Earlier
 articulation of do-nothing farming from The Road Back to Nature -
 [[fukuoka-road-back-to-nature-overview]] — Overview of Fukuoka's earlier book

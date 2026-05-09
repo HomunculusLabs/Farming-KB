@@ -2,7 +2,8 @@
 title: "Capoeira"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -109,13 +110,9 @@ As practice, it shows that play can be serious and that seriousness can be playf
 As scholarship, it links movement studies, African diaspora history, musicology, anthropology, and political memory.
 
 ## Related Concepts
-[[dominator-culture-and-partnership-society]] relates to broad debates about power, resistance, and social organization.
 [[meiji-restoration]] offers a distant comparison for the modernization and national reframing of martial traditions.
-[[bauhaus-movement]] connects through the integration of body, art, pedagogy, and public performance.
 [[kintsugi]] provides an analogy for transforming historical fracture into visible cultural strength.
-[[visionary-symbols-and-universal-archetypes]] is relevant to ritual symbolism, though capoeira should be interpreted through specific Afro-Brazilian history.
 [[shamanic-use-of-psychedelics]] is not directly related, but both fields require careful attention to ritual context and cultural ownership.
-[[permaculture-community-structures-and-legal-organizations]] shares concerns with community governance and collective practice.
 [[urban-guerrilla-gardening]] is a loose cultural parallel in using urban space creatively under constraint.
 [[entheogen-culture]] illustrates how global circulation can preserve, distort, or commodify local practices.
 Cultural Heritage would be a useful broader page linking living traditions across societies.

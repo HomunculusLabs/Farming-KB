@@ -102,19 +102,11 @@ Quality control standards in the Chinese Pharmacopoeia specify minimum stachydri
 
 ## See Also
 
-- [[leonurus-cardiaca-entity]]
 - [[vitex-agnus-castus]]
-- [[salvia-officinalis]]
 - [[scutellaria-baicalensis]]
-- [[schisandra-chinensis]]
 - [[astragalus-membranaceus]]
-- [[glycyrrhiza-uralensis]]
 - [[panax-ginseng]]
-- [[angelica-sinensis]]
 - [[withania-somnifera]]
-- [[ocimum-sanctum]]
 - [[bacopa-monnieri]]
-- [[centella-asiatica]]
 - [[rosmarinus-officinalis-entity]]
-- [[thymus-vulgaris-entity]]
 - [[origanum-vulgare-entity]]

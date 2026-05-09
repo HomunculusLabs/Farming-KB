@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Harvesting and Crop Management"
 created: 2026-04-28
-tags: [mycology, harvesting, crop-management, fruiting, oss-oeric]
+tags: [[mycology, harvesting, crop-management, fruiting, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -101,14 +101,7 @@ A 10-hour daily Grow-lux fluorescent cycle produces larger caps
 and shorter stems compared to unlit cultures. However, direct
 sunlight causes excessive aborts and should be avoided. The sun
 also quickly causes mushrooms left in the field to age and rot,
-as they are over 90% water. The fruiting environment should be
-maintained at high humidity with adequate passive air exchange
-through the semi-permeable polyethylene lid covering.
-
-## Related Topics
-
-- [[oss-oeric-drying-and-preservation-methods]] for post-harvest
-- [[oss-oeric-dosage-guidelines-and-potency]] for dosing
+as they are over 90% water. The [[oss-oeric-drying-and-preservation-methods]] for post-harvest
 - [[oss-oeric-terrarium-design-and-humidity]] for environmental control
 - [[oss-oeric-growing-parameters-cubensis]]
 

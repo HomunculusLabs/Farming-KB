@@ -94,8 +94,6 @@ find meaning in consciously embracing the emerging energy.
 
 ## Related Topics
 
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-neurodegenerative-diseases]]
 - [[blesching-cannabis-parkinsons-disease]]
 - [[blesching-cannabis-alzheimers-dementia]]

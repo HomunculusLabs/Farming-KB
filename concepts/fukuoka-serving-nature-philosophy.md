@@ -3,7 +3,7 @@ title: Serving Nature — The Philosophy of Non-Intervention
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
-    title: The One-Straw Revolution - Masanobu Fukuoka
+    title: The One-Straw Revolution - [[masanobu-fukuoka]]
     author: Masanobu Fukuoka
 updated: 2026-05-08
 type: concept
@@ -87,39 +87,6 @@ and potash.
 Fukuoka calculated that if each person in Japan were given a
 quarter-acre of arable land (1.25 acres per family of five), that
 would be more than enough to support the family for the whole year
-through natural farming. A farmer would also have plenty of time
-for leisure and social activities within the village community.
-This, he believed, is the most direct path toward making the
-country a happy, pleasant land.
-
-Since the end of World War II, the percentage of Japanese people
-engaged in farming fell from 70 to 80 percent to around 14 percent,
-with the Ministry of Agriculture intending to match the European
-level of less than 10 percent. Fukuoka believed the opposite
-should be the goal: if 100 percent of the people were farming, it
-would be ideal. The goal of keeping fewer people in farming through
-mechanization and consolidation is, in his view, a path away from
-human happiness.
-
-## Work Versus Living
-
-Fukuoka did not particularly like the word "work." Human beings
-are the only animals who have to work, and he considered this the
-most ridiculous thing in the world. Other animals make their
-livings by living, but people work frantically, thinking they have
-to in order to stay alive. The bigger the job, the greater the
-challenge, and the more wonderful they think it is.
-
-A life of simplicity would be possible if one worked to produce
-directly their daily necessities. In such a life, work is not work
-as people generally think of it, but simply doing what needs to be
-done. Various communes and communities were springing up around the
-world, populated by young people who understood that becoming firmly
-rooted means living from the yields of their own land.
-
-## See Also
-
-- [[fukuoka-schools-of-natural-farming]]
-- [[fukuoka-natural-farming]]
+through [[fukuoka-schools-of-natural-farming]]
 - [[fukuoka-agriculture-for-tomorrow]]
 - [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]

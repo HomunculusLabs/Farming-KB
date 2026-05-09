@@ -18,25 +18,14 @@ type: concept
 Humus storage ditches are one of Sepp Holzer's signature landscape design
 elements. These strategically placed trenches serve the dual purpose of
 holding water and collecting nutrient-rich humus that would otherwise be lost
-through surface runoff. They form an integral part of the [[holzer-permaculture-landscape-design]] on the [[krameterhof-holzer-model-farm]] and can be adapted
+through surface runoff. They form an integral part of the [[krameterhof-holzer-model-farm]] and can be adapted
 to virtually any terrain.
 
 ## Purpose and Function
 
 When making any changes to the terrain, especially when creating new
-[[sepp-holzer-terrace-systems-and-raised-beds]], Holzer digs ditches in
-appropriate places to hold humus and water. These ditches collect surplus
-water from heavy rainfall or snowmelt. They are dotted throughout the entire
-permaculture landscape, working in concert with [[holzer-water-landscapes]]
-and [[sepp-holzer-water-gardens-and-aquatic-plants]].
-
-The primary functions of humus storage ditches include:
-
-- Capturing and retaining surface runoff from heavy rain and snowmelt
-- Collecting valuable nutrients and organic material carried by water
-- Creating water reservoirs that support nearby vegetation through
-  evaporation
-- Supplying terraces and [[sepp-holzer-permaculture-and-rebel-farming]] below with steady
+[[holzer-water-landscapes]]
+and [[sepp-holzer-terrace-systems-and-raised-beds]] below with steady
   moisture
 - Playing a substantial part in preserving the natural balance of the
   entire permaculture system
@@ -75,20 +64,7 @@ land. The accumulated water evaporates slowly and brings significant
 long-term benefits to the nearby vegetation. This reservoir of water is vital
 for the survival of plants in dry areas and during hot summers, because they
 do not receive any additional watering. This approach contrasts sharply with
-conventional [[irrigation-systems]] that require external energy inputs.
-
-The many beneficial effects of humus storage ditches mean that they play a
-substantial part in preserving the natural balance of the entire permaculture
-system. They take very little effort to create and are very useful when
-managing the land.
-
-## Integration with Raised Beds
-
-The relationship between humus storage ditches and raised beds is
-complementary. The terraces and raised beds below the ditches will steadily
-be supplied with water. This passive irrigation system means that even in
-periods of drought, crops can continue to grow without supplementary
-watering. The design follows [[permaculture-design-principles]] by using gravity and natural water movement rather than pumps or
+conventional [[permaculture-farm-design-principles]] by using gravity and natural water movement rather than pumps or
 pipes.
 
 ## Caution on Heavy Soils
@@ -112,11 +88,7 @@ keeping water on the land for as long as possible.
 
 ## Climate and Elevation Adaptation
 
-At the [[krameterhof-holzer-model-farm]], situated between 1,100m and
-1,500m above sea level, humus storage ditches help buffer the extreme
-conditions. The water retention they provide is particularly valuable at
-high altitudes where growing seasons are shorter and drought risk during
-summer months is significant. The [[holzer-climate-zone-microclimate-creation]]
+At the [[holzer-climate-zone-microclimate-creation]]
 is enhanced by the moisture these ditches provide to surrounding vegetation.
 
 ## Low Effort, High Return
@@ -126,5 +98,5 @@ maintenance requirements. Once created, they function passively, collecting
 nutrients and water year after year. The only periodic work involved is
 extracting accumulated humus material for use elsewhere on the farm. This
 makes them an excellent investment of time and energy for any permaculture
-system, large or small. The ditches represent [[permaculture-design-principles]] by connecting water management, soil
+system, large or small. The ditches represent [[permaculture-farm-design-principles]] by connecting water management, soil
 building, and crop production into a single integrated element.

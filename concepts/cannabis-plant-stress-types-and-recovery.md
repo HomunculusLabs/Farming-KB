@@ -76,75 +76,30 @@ Green emphasizes that cannabis is a resilient plant that can recover from most f
 **Recovery**:
 - Adjust light distance and intensity
 - Eliminate all light leaks during dark period
-- See [[cannabis-hermaphrodite-prevention-and-management]] for light-leak hermaphroditism
+- See [[cannabis-watering-techniques-and-frequency]].
 
-### 4. Water Stress
-
-**Overwatering symptoms**: Drooping, yellow leaves, slow growth, root rot. See [[cannabis-watering-techniques-and-frequency]].
-
-**Underwatering symptoms**: Dry, crispy leaves, wilting, slow growth. See [[cannabis-watering-techniques-and-frequency]].
-
-### 5. Transplant Shock
-
-**Causes**: Root disturbance during transplanting, rough handling
-
-**Symptoms**: Wilting for 1–5 days, growth pause, yellowing of lower leaves
-
-**Recovery**: Reduce light, maintain humidity, avoid feeding. See [[cannabis-transplanting-guide]].
+**Underwatering symptoms**: Dry, crispy leaves, wilting, slow growth. See [[cannabis-transplanting-guide]].
 
 ### 6. Nutrient Stress
 
-**Deficiency**: Yellowing, spotting, curling leaves. See [[cannabis-nutrient-deficiency-and-toxicity-guide]].
-
-**Toxicity**: Brown or yellow leaf tips, clawing, leaf burn. See [[cannabis-nutrient-burn-and-toxicity]].
+**Deficiency**: Yellowing, spotting, curling leaves. See [[cannabis-nutrient-burn-and-toxicity]].
 
 ### 7. pH Stress (Lockout)
 
 **Causes**: pH out of optimal range, preventing nutrient uptake despite adequate feeding
 
-**Symptoms**: Nutrient deficiency symptoms that do not improve with feeding. See [[cannabis-nutrient-lockout-and-ph]].
-
-### 8. Physical Stress
-
-**Causes**: Broken branches, torn leaves, rough handling, excessive training
-
-**Symptoms**: Wilted or broken plant parts, slowed growth at damage sites
-
-**Recovery**: Plants usually recover from broken branches if not too severe. Use tape for minor branch repairs. See [[training-cannabis]] and [[cannabis-super-cropping-technique]].
-
-### 9. Pest and Disease Stress
-
-**Causes**: Insects, mites, mold, fungi, bacteria
-
-**Symptoms**: Vary by pest/disease — spots, webbing, discoloration, stunted growth. See [[cannabis-pest-management-guide]].
+**Symptoms**: Nutrient deficiency symptoms that do not improve with feeding. See [[training-cannabis]] and [[cannabis-pest-management-guide]].
 
 ### 10. Root Stress
 
 **Causes**: Root-bound conditions, root rot, over-fertilized roots, poor aeration
 
-**Symptoms**: Overall plant decline, wilting despite adequate water, nutrient deficiency symptoms. See [[cannabis-root-bound-symptoms-and-management]] and [[cannabis-root-rot-prevention-and-treatment]].
+**Symptoms**: Overall plant decline, wilting despite adequate water, nutrient deficiency symptoms. See [[cannabis-root-rot-prevention-and-treatment]].
 
 ## Beneficial Stress (Intentional)
 
 Some stress techniques are used intentionally to improve yield and plant structure:
 
-- **Low-stress training (LST)**: Bending branches to create even canopy. See [[training-cannabis]].
-- **Supercropping**: Intentional stem crushing to strengthen branches and boost yield. See [[cannabis-super-cropping-technique]].
-- **Topping/FIMing**: Cutting the apical meristem to promote branching. See [[cannabis-topping-training]].
-- **Defoliation**: Removing select leaves to improve light penetration and airflow.
-- **Controlled drought**: Brief dry periods at end of flowering to boost resin production (advanced technique).
-
-## General Recovery Principles
-
-1. **Identify and fix the cause**: Recovery only occurs after the stressor is removed
-2. **Be patient**: Most plants recover within 1–2 weeks of the stressor being corrected
-3. **Support recovery**: Proper light, temperature, humidity, and watering during recovery
-4. **Do not compound stress**: Do not add training, nutrients, or transplanting while recovering
-5. **Prune only dead tissue**: Remove dead or dying leaves — do not cut healthy tissue during recovery
-6. **Severely stressed plants may not recover**: If the root system or main stem is severely damaged, the plant may not recover. Start fresh rather than investing more resources.
-
-## Stress and Hermaphroditism
-
-One of the most serious consequences of stress is the development of hermaphroditic traits — the plant produces both male pollen sacs and female flowers. This is a survival mechanism triggered by severe or prolonged stress, especially during flowering. See [[cannabis-hermaphrodite-prevention-and-management]].
-
+- **Low-stress training (LST)**: Bending branches to create even canopy. See [[cannabis-super-cropping-technique]].
+- **Topping/FIMing**: Cutting the apical meristem to promote branching. See [[cannabis-hermaphrodite-prevention-and-management]].
 ## Related Topics

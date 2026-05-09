@@ -1,7 +1,7 @@
 ---
 title: Basidiomycete Biology Overview
 created: 2026-04-28
-tags: [mycology, basidiomycetes, fungal-biology, taxonomy]
+tags: [[mycology, basidiomycetes, fungal-biology, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
@@ -96,8 +96,7 @@ through soil, wood, and other substrates. Mycelium is the feeding phase
 of the life cycle, secreting extracellular enzymes to decompose organic
 matter and absorbing the resulting simple molecules.
 
-In many basidiomycetes, the [[mycelium]] can persist for decades or even
-centuries. Individuals of [[armillaria-ostoyae]] (honey mushroom) have been
+In many basidiomycetes, the [[armillaria-ostoyae]] (honey mushroom) have been
 documented spanning over 2,384 acres, making them among the largest
 organisms on Earth by area.
 
@@ -105,35 +104,9 @@ organisms on Earth by area.
 
 Basidiomycetes are central to terrestrial ecosystems:
 
-- **[[decomposition]]**: They are the primary decomposers of lignin, the
-  tough polymer that gives wood its rigidity. Without basidiomycetes,
-  dead trees would accumulate indefinitely.
-- **Mycorrhizae**: Many form symbiotic associations with tree roots,
-  exchanging soil minerals for plant carbohydrates. These ectomycorrhizal
-  partnerships are essential for forest health.
-- **Plant pathology**: Rusts, smuts, and other basidiomycete pathogens
-  cause billions of dollars in crop losses annually.
-- **Food**: Edible species (Agaricus, Pleurotus, Lentinula) are
-  cultivated commercially on a massive scale.
-- **Medicine**: The shiitake mushroom ([[lentinula-edodes]]) produces
-  [[lentinan]], an immunomodulatory compound used in cancer treatment.
-
-## Economic Impact
-
-Fungi cause more plant diseases than all other types of organisms
-combined. Annual losses to agriculture from basidiomycete pathogens
-alone are incalculably high. Chemical fungicides represent a tremendous
-investment by farmers, paid for ultimately by consumers. Understanding
-basidiomycete biology is essential for developing sustainable strategies
-to manage these impacts without further environmental damage.
-
-## See Also
-
-- [[bloomfield-aspergillus-biology-and-aflatoxins]]
-- [[bloomfield-fungal-biology-and-hyphal-growth]]
+- **[[lentinula-edodes]]) produces
+  [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[bloomfield-bioluminescent-fungi-overview]]
-- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
 - [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]
-- [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]]
 - [[bloomfield-rice-blast-magnaporthe-appressorium-mechanics]]
 - [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]

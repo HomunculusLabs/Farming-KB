@@ -29,32 +29,8 @@ exposed at maturity and may have a well-developed stipe.
 
 About 150 genera and 1,200 valid species of sequestrate fungi
 have been described in 38 families, representing 11 orders in the
-[[biodiversity-ascomycete-diversity-taxonomy]],
 [[biodiversity-basidiomycete-diversity-taxonomy]],
-and [[biodiversity-zygomycota-diversity]]. Much of
-the world has yet to be explored for sequestrate fungi, including
-most of Asia, Africa, and South America. New species are being
-discovered regularly in North America and Australia, which have
-been searched extensively. Only Europe has been covered
-thoroughly, and even there new species continue to emerge.
-
-## Distribution and Habitats
-
-Sequestrate fungi usually associate with trees or shrubs and are
-most commonly found in forests, woodlands, and shrublands.
-Ectomycorrhizal forests were once thought to occur primarily in
-temperate to boreal zones, but ectomycorrhizae now are known to
-abound in many tropical forests as well. Wherever ectomycorrhizal
-hosts occur, ectomycorrhizal sequestrate fungi also occur.
-
-Species diversity of all sequestrate groups can be relatively
-high in the tropics, but in general it seems highest in subtropical
-to temperate forests. Diversity declines in austral or boreal
-habitats with increasing proximity to the polar regions. In
-alpine and arctic habitats, diversity is low even when suitable
-hosts such as krummholz conifers, willows, or birches are present.
-Some mycorrhizal sequestrate fungi occur in deserts, where they
-may form special types of [[biodiversity-fungi-plant-mutualisms]]
+and [[biodiversity-fungi-plant-mutualisms]]
 with annual or perennial hosts.
 
 ## Origin of Life Forms
@@ -79,11 +55,7 @@ specialized adaptation to spore dispersal.
 ## Trophic Relationships
 
 Most sequestrate fungi in the Ascomycetes and Basidiomycetes
-appear to be [[biodiversity-fungi-plant-mutualisms]]
-mycobionts. However, saprobic taxa occur in both groups,
-especially in New Zealand and in tropical rain forests in
-Australia. Sequestrate forms of Zygomycetes are found in the
-Endogonales and [[biodiversity-glomeromycota-diversity]].
+appear to be [[biodiversity-glomeromycota-diversity]].
 
 Some sequestrate fungi have special capabilities. Hysterangium
 and Gautieria species form dense mycelial mats in forest soil
@@ -140,11 +112,8 @@ Pacific Northwest, sequestrate Ascomycetes are more abundant
 in spring, and Basidiomycetes more abundant in autumn. At
 higher elevations, the season is confined to a few summer
 months.
-
 ## Related Topics
 
-- [[biodiversity-fungi-spore-dispersal]]
 - [[biodiversity-fungi-temperate-boreal-forests]]
-- [[biodiversity-of-fungi-soil-isolation-methods]]
 - [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-fungi-tropical-rainforests]]

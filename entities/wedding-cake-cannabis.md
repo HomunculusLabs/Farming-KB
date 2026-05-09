@@ -106,16 +106,9 @@ The overall visual impression is of a premium dessert strain — dense, resinous
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[gelato-cannabis]]
-- [[og-kush-cannabis-entity]]
 - [[ice-cream-cake-cannabis]]
-- [[jealousy-cannabis]]
-- animal cookies cannabis
 - [[banana-kush]]
-- [[purple-haze-cannabis]]
 - [[cannabis-indica]]
-- [[cannabis-sativa]]
 - [[sour-diesel-cannabis]]
-- [[chemdawg-cannabis]]
 - [[white-widow-cannabis]]

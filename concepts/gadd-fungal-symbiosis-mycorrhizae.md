@@ -72,21 +72,12 @@ Mycorrhizal fungi are studied through a combination of field surveys (sporocarp 
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[arbuscular-mycorrhizal-colonization-patterns]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-
 - [[arbuscular-mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[arbuscular-mycorrhizal-colonization-patterns]]
-- [[arbuscular-mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-spore-extraction-methods]]
-- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
 - [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
-- [[arbutoid-mycorrhiza]]
 - [[agricultural-chemicals-mycorrhizal-impact]]
-- [[gadd-fungal-ecology-saprotrophs]]
 - [[gadd-fungal-ecology-endophytes]]
 - [[gadd-beetle-gut-fungal-symbiosis]]

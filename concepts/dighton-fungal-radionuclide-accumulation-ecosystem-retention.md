@@ -122,10 +122,6 @@ within some species.
 
 ## See Also
 
-- [[dighton-fungal-radionuclide-uptake-mechanisms]]
-
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
-- [[fungal-radionuclide-accumulation-and-bioremediation]]
 - [[singh-uranium-radionuclide-fungal-biosorption]]
-- [[fungal-oxalate-production-metal-transformation]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

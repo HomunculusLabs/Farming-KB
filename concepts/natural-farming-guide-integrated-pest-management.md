@@ -10,7 +10,7 @@ tags: [natural-farming]
 
 # Integrated Pest Management
 
-In permaculture and natural farming, [[organic-pest-and-disease-management]] relies on ecological strategies rather than chemical pesticides. The four principles of natural farming, as articulated by Masanobu Fukuoka, are: no cultivation, no fertilizer, no weeding, and no pesticides. Instead, a multi-layered approach using [[fungal-pest-control]]s, companion planting, strategic animal integration, and forest garden diversity keeps pests in balance.
+In permaculture and natural farming, [[fungal-pest-control]]s, companion planting, strategic animal integration, and forest garden diversity keeps pests in balance.
 
 ## Plant-Based Pest Control Strategies
 
@@ -111,10 +111,7 @@ Deer can devastate gardens and young orchards. Solutions include dogs, fencing (
 
 ## See Also
 
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-
 - [[natural-farming-guide-biological-pest-control-predators]]
 
-- [[natural-farming-pest-management]]
 - [[integrated-pest-management]]
 - [[natural-farming-guide-permaculture-design-for-small-holdings]]

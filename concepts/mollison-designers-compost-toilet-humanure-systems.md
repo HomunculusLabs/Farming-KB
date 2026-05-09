@@ -17,21 +17,7 @@ type: concept
 # Compost Toilet Humanure Systems
 
 Compost toilets and humanure systems represent a fundamental shift in how
-human waste is perceived and managed. In the [[permaculture-designers-manual-bamboo]], Bill Mollison argues that human excrement is not waste but a
-valuable nutrient resource that has been squandered through flush-to-sewage
-systems. Composting toilets convert humanure into safe, nutrient-rich compost
-that can be returned to the soil, closing a critical nutrient cycle that
-conventional sanitation breaks.
-
-## The Nutrient Cycle Problem
-
-Conventional flush toilets and sewage systems mix human excrement with
-drinking water and discharge it into waterways, effectively mining nutrients
-from agricultural soils and depositing them as pollution in aquatic
-ecosystems. A single person produces approximately 50 litres of urine and
-500 grams of faeces per day, containing roughly 5.5 kg of nitrogen, 1.0 kg
-of phosphorus, and 1.5 kg of potassium annually. In permaculture terms,
-this represents a significant and continuous [[soil-nutrient-cycling]] resource
+human waste is perceived and managed. In the [[soil-nutrient-cycling]] resource
 that should be returned to productive landscapes.
 
 ## Thermophilic Composting
@@ -125,9 +111,8 @@ pathogen destruction. Key safety practices include:
 
 ## Integration with Permaculture Design
 
-Compost toilets integrate naturally with [[permaculture-zone-planning]], [[soil-nutrient-cycling]], and [[sewage-waste-recycling-permaculture]] systems. In [[permaculture-design]], they
-are typically located in [[pdc-zone-one-garden-design]] or zone two for convenient access.
-Finished compost is applied to orchard trees, [[canopy-layer-design-food-forests]], and
+Compost toilets integrate naturally with [[soil-nutrient-cycling]], and [[permaculture-design]], they
+are typically located in [[canopy-layer-design-food-forests]], and
 ornamental plantings, completing the human nutrient cycle within the
 property boundary.
 
@@ -144,4 +129,4 @@ recycling.
 
 - Mollison, Bill. *Permaculture: A Designers' Manual.* Tagari Publications,
   1988. Sections on waste and nutrient cycling.
-- Related concepts: [[composting-systems]], [[soil-nutrient-cycling]], [[greywater-systems-detailed]], [[sewage-waste-recycling-permaculture]], [[humanure-composting]]
+- Related concepts: [[soil-nutrient-cycling]], [[sewage-waste-recycling-permaculture]], [[humanure-composting]]

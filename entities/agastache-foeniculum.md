@@ -140,11 +140,8 @@ companion plant in vegetable gardens where its aromatic properties may help
 repel certain pest insects. Its drought tolerance and low maintenance
 requirements make it suitable for xeriscaping and ecological restoration
 projects.
-
 ## See Also
 
-- [[monarda-didyma]]
 - [[asclepias-syriaca]]
-- [[echinacea-purpurea]]
 - [[salvia-officinalis]]
 - [[ocimum-basilicum]]

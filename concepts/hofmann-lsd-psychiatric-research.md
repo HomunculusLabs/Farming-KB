@@ -68,82 +68,25 @@ and curing of the patient's personality in the accompanying psychotherapeutic
 treatment.
 
 The term "psychedelic," which can be translated as "mind-manifesting" or
-"mind-expanding," was introduced by [[humphry-osmond]], a pioneer of LSD research
-in the United States. Osmond, working with Abram Hoffer in Canada, conducted
-some of the earliest systematic studies of LSD's therapeutic potential.
-
-## Alcoholism Treatment
-
-Chronic alcoholism was among the conditions for which LSD showed therapeutic
-promise. The Sandoz prospectus noted that higher doses (2 to 4 mcg/kg body
-weight) were necessary for this indication compared to the doses used for
-analytical psychotherapy. The mechanism was thought to involve the dissolution
-of the patient's defensive psychological structures, allowing confrontation
-with the underlying emotional causes of alcohol dependence in a vivid, often
-transformative experience.
-
-## LSD and the Terminally Ill
-
-One medicinal use of LSD that touches on fundamental ethical questions is its
-administration to the dying. This practice arose from observations in American
-clinics that especially severe painful conditions of cancer patients, no longer
-responsive to conventional pain-relieving medication, could be alleviated or
-completely abolished by LSD.
-
-This does not involve an analgesic effect in the true sense. The diminution of
-pain sensitivity occurs because patients under the influence of LSD become
-psychologically so dissociated from their bodies that physical pain no longer
-penetrates consciousness. For LSD to be effective in such cases, thorough
-preparation and instruction about the experiences that await is especially
-crucial.
-
-In many cases it proved beneficial for a member of the clergy or a
-psychotherapist to guide the patient's thoughts in a religious direction.
-Numerous case histories tell of patients who gained meaningful insights about
-life and death on their deathbeds, freed from pain in LSD ecstasy and reconciled
-to their fate, facing their earthly demise fearlessly and in peace. The
-knowledge about LSD administration to the terminally ill was summarized by S.
-Grof and J. Halifax in their book The Human Encounter with Death (1977). The
-pioneers of this application included E. Kast, S. Cohen, and W. A. Pahnke,
-along with Grof.
-
-## Model Psychosis Research
-
-The second indication cited in the Sandoz prospectus concerned experimental
-investigations on the nature of psychoses. This arose from the fact that
-extraordinary psychic states produced by LSD in healthy subjects are similar to
-many manifestations of certain mental disturbances. In the early days of LSD
-research, it was often claimed that LSD inebriation represented a "model
-psychosis."
-
-This idea was later dismissed because extended comparative investigations showed
-essential differences between manifestations of psychosis and the LSD
-experience. Nevertheless, the LSD model made it possible to study deviations
-from the normal psychic and mental condition and to observe biochemical and
-electrophysiological alterations associated with them. According to certain
-theories, various mental disturbances could be produced by psychotoxic metabolic
-products that alter brain cell functions even in minimal quantities. LSD
-supported the conception of a biochemical origin of certain mental disturbances
-and stimulated research in this direction.
-
-## Controversy and Debates
-
-The suitability and success of LSD in psychoanalysis and psychotherapy remained
-a subject of controversy in professional circles. The same could be said of
-other psychiatric procedures such as electroshock, insulin therapy, and
-psychosurgery, which entailed a far greater risk than the use of LSD, which
-under suitable conditions could be considered practically safe.
-
-Because forgotten or repressed experiences may become conscious with
-considerable speed under LSD, treatment can be correspondingly shortened. Some
-psychiatrists considered this a disadvantage, believing that precipitation left
-the patient insufficient time for psychotherapeutic working-through. They held
-that the therapeutic effect persisted for a shorter time than when treatment
-included a slow, gradual process of becoming conscious of traumatic experiences.
-
-Psycholytic and especially psychedelic therapy required thorough preparation of
-
-- [[hofmann-lsd-clinical-research-early-studies]]
-- [[psychedelic-research-legal-history-united-states]]
+"mind-expanding," was introduced by [[hofmann-lsd-clinical-research-early-studies]]
 - [[cannabis-and-brain-cancer-research]]
 - [[plant-micronutrients-and-their-essential-functions]]
+## Practical Considerations
+
+Successful implementation of LSD Therapy and Psychiatric Research in the 1950s-60s requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

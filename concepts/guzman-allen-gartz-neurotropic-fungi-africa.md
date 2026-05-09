@@ -135,8 +135,6 @@ The Claviceps species, C. paspali and C. purpurea, are
 
 ## See also
 
-[[guzman-allen-gartz-global-psilocybe-biogeography]]
 [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
-[[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
-[[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
+[[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]

@@ -84,27 +84,15 @@ Fukuoka's vision of Mu economics is ultimately a vision of human happiness liber
 
 - Culture and the light of religious teachings are not to be found in the cities and temples of dazzling splendor
 
-This connects directly to [[fukuoka-farming-for-all-quarter-acre-vision]] and [[fukuoka-food-civilization-critique]].
+This connects directly to [[fukuoka-food-civilization-critique]].
 
 ## See Also
 
-- [[fukuoka-mu-economics]]
-
-- fukuoka mu economics and value of nothing essay
-
-- fukuoka mu economics and value of nothing essay
-
 - [[fukuoka-do-nothing-farming-philosophy]]
 
-- [[fukuoka-natural-farming-philosophy-of-mu]]
-
 - [[fukuoka-food-civilization-critique]]
-
-- [[fukuoka-food-and-human-health]]
 
 - [[fukuoka-village-self-sufficient-community]]
 
 ## Merged: Fukuoka Mu Economics and the Value of Nothing
-Fukuoka proposed a radical economic theory based on "Mu" (nothingness) -- the rejection of value as a concept. He challenged Professor Keiichi Sakamoto of Kyoto University to establish a field of "Mu economics" that "totally rejects Marxian economics, the Das Kapital, and modern economics." "The first questions to arise when trying to establish a system of Mu economics will probably be whether things have value and whether the conditions and premises that make things necessary are truly essential to man." "The reason we think that a glass of water has value is because conditions exist that give it value. 232-234 (the value of nothing, Mu economics) updated: 2026-04-18 - [[fukuoka-mu-economics]] - [[fukuoka-natural-farming-philosophy-of-mu]] - [[fukuoka-do-nothing-farming-philosophy]] In the desert, this water has value.
-## Merged: Fukuoka Mu Nothingness And Non Value
-Mu (nothingness) is intended in the sense of "non-activity" and "non-value." It is the philosophical foundation upon which all of Fukuoka's [[fukuoka-natural-farming-philosophy-of-mu]] rests. Natural farming was born suddenly one moment almost fifty years ago. This has direct implications for [[fukuoka-mu-economics]]. The Mu philosophy also connects to [[fukuoka-nature-transcends-human-knowledge]]: if nature cannot be grasped by the intellect, then the intellectual project of assigning value to natural things is inherently misplaced. This is the essence of [[fukuoka-four-principles-natural-farming]]. Related: fukuoka mu economics and value of nothing essay, [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-philosophy-of-mu-and-nature]], [[fukuoka-natural-farming-philosophy-of-mu]]
+Fukuoka proposed a radical economic theory based on "Mu" (nothingness) -- the rejection of value as a concept. He challenged Professor Keiichi Sakamoto of Kyoto University to establish a field of "Mu economics" that "totally rejects Marxian economics, the Das Kapital, and modern economics." "The first questions to arise when trying to establish a system of Mu economics will probably be whether things have value and whether the conditions and premises that make things necessary are truly essential to man." "The reason we think that a glass of water has value is because conditions exist that give it value. 232-234 (the value of nothing, Mu economics) updated: 2026-04-18 - [[fukuoka-natural-farming-philosophy-of-mu]] - [[fukuoka-natural-farming-philosophy-of-mu]] rests. Natural farming was born suddenly one moment almost fifty years ago. This has direct implications for [[fukuoka-nature-transcends-human-knowledge]]: if nature cannot be grasped by the intellect, then the intellectual project of assigning value to natural things is inherently misplaced. This is the essence of [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-philosophy-of-mu-and-nature]], [[fukuoka-natural-farming-philosophy-of-mu]]

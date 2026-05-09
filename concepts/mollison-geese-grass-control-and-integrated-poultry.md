@@ -99,23 +99,9 @@ for geese.
 Geese complement other small domestic animals in the permaculture
 system:
 
-- [[mollison-duck-and-waterfowl-integration]]
-  manage aquatic weeds and pests in ponds and water storages.
 - [[mollison-domestic-small-animals-zone-one]] occupy the zone 1 garden, while geese work the zone 2
   orchard and zone 3 pasture edges.
-- [[mollison-free-range-poultry-forage-design]] scratch and
-  forage for insects in the orchard while geese manage the grass
-  component.
-
-In humid tropical polycultures, geese join chickens (for pest
-control), guinea pigs (for grass suppression), land tortoises (for
-grass management), pythons (for rodent control), owls (for rat
-control), and bees (for pollination) as part of the complete
-multi-species integrated system.
-
-## Design Considerations
-
-When placing geese in a [[permaculture-design]]:
+- [[permaculture-design]]:
 
 1. Site goose shelters in [[mollison-zone-planning-frequency-distance-and-placement]] where
   forage ranges can be managed with minimal fencing.

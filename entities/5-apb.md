@@ -127,12 +127,8 @@ frameworks.
 
 ## See Also
 
-- [[6-mapb]]
 - [[mdma]]
-- [[serotonin]]
 - [[linalool]]
-- [[mescaline-entity]]
 - [[lsd]]
-- [[4-aco-dmt]]
 - [[ethylone]]
 - [[mxe]]

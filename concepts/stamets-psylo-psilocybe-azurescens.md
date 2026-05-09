@@ -1,15 +1,7 @@
 ---
 title: Psilocybe azurescens - Species Profile
 created: 2026-04-28
-tags: [mycology, species, psilocybin, pacific-northwest, taxonomy]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
-type: concept
----
-
-# [[psilocybe-azurescens]]
+tags: [[psilocybe-azurescens]]
 
 **Authority**: Stamets and Gartz
 
@@ -18,7 +10,7 @@ type: concept
 ## Description
 
 One of the most potent psilocybin mushrooms in the world, Psilocybe
-azurescens was first described by [[paul-stamets]] and [[jochen-gartz]]. This
+azurescens was first described by [[jochen-gartz]]. This
 species is known for its exceptionally strong bluing reaction, with flesh
 actually becoming indigo-black where damaged.
 
@@ -97,35 +89,14 @@ psilocybin, 0.38% psilocin, and 0.35% baeocystin (Stamets and Gartz
 1995). After six months of storage, analyses revealed that this species
 retained most of its original potency. This species is unique not only in
 its potency but also in its relatively high baeocystin content, roughly on
-par with [[psilocybe-semilanceata]].
-
-## Commentary
-
-The silky white stem, caramel-colored cap, relatively large stature,
-non-undulating cap margin, and broad but pronounced umbo are
-representative features. P. azurescens is one of the most potent species
-known and exhibits one of the strongest bluing reactions Stamets has ever
-seen.
-
-The extremely bitter taste of this mushroom is notable and may limit
-consumption. At higher doses, some people report a loss of muscular
-control and strength that can persist into the following day.
-
-## Similar Species
-
-- **[[psilocybe-cyanescens]]**: Similar but macroscopically distinguished by
+par with [[psilocybe-cyanescens]]**: Similar but macroscopically distinguished by
   much smaller stature and characteristically sine-wave (wavy) margin
-- **[[psilocybe-cyanofibrillosa]]**: Related species from the Pacific coast
-- **Psilocybe serbica**: European species with similar potency
 - **[[psilocybe-subaeruginosa]]**: Australian species in the same alliance
 - **Psilocybe venenata**: Asian species with similar features
 
 ## See Also
 
-- [[stamets-psylo-psilocybe-semilanceata]]
-
 - [[stamets-psi-psilocybe-azurescens-species-guide]]
-- [[stamets-psylo-psilocybe-cubensis]]
 - [[stamets-psylo-psilocybe-cyanescens]]
 
 Psilocybe cyanescens, Psilocybe semilanceata, Psilocybe stuntzii,

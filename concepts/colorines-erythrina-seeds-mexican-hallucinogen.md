@@ -119,9 +119,6 @@ Mexico.
 
 ## See Also
 
-- [[mescal-bean-sophora-secundiflora-vision-dance]]
 - [[piule-rhynchosia-seeds-mexican-hallucinogen]]
-- [[golden-guide-morning-glory-and-ololiuqui]]
 - [[golden-guide-peyote-and-mescaline-cacti]]
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[erythrina-fusca]]

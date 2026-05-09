@@ -107,12 +107,7 @@ When first establishing a coppice woodlot:
 
 ## Related Topics
 
-- [[permaculture-zones-and-sectors]] — Zone 4 management
 - [[zone-5-wilderness]] — preserving wild areas
-- [[pasture-management-and-forage]] — integrating trees with grazing
-- sugar preservation maple — processing tree sap into syrup
 - [[firewood-seasoning-and-storage]] — using coppice wood for fuel
-- [[gaias-garden-cover-crops-soil-building]]
 - [[cover-crops-soil-health]]
-- [[permaculture-on-farm-alcohol-fuel-production]]
 - [[faires-pasture-forage-tree-systems]]

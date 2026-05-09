@@ -3,36 +3,7 @@ title: Pole Timber Forestry
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Pole Timber Forestry
-
-**Updated:** 2026-04-18
-
-Pole timber forestry is a management strategy that harvests trees at smaller diameters for structural poles rather than waiting decades for large-dimension lumber. It produces faster returns, requires less investment, and yields versatile building material.
-
-## Source
-Bill Mollison Permaculture Design Course, Pamphlet X (Forests in Permaculture)
-
-## The Case for Poles Over Planks
-
-If you manage timber for pole timber (posts of high durability), you are farther ahead on money value than waiting 40 years for a plank. The economics are clear:
-- Pole harvest: 5-15 years depending on species
-- Plank harvest: 30-60+ years for sawtimber
-- Poles can be used immediately for construction, fencing, and trellising
-
-## Modern Pole Construction
-
-Australians now build houses using about nine two-inch poles to build an entire framework. The whole structure is made of poles and then filled in with mud, wattling, board, or chicken wire and cement. The whole house framework costs around $800 (at time of Mollison's teaching).
-
-Chicken wire and cement are described as great building materials. Some beautiful homes are chicken wire and cement homes built on pole frames.
-
-## Suitable Pole Species
-
-### Coppice Species (Cut-and-Come-Again)
-- [[permaculture-black-locust]] -- extremely durable, nitrogen-fixing, rot-resistant
+tags: [[permaculture-black-locust]] -- extremely durable, nitrogen-fixing, rot-resistant
 - Willows -- the classical coppicing tree, good for basketry and fencing
 - Poplars -- good forage, good splitting, good for inside work (not exterior)
 - Ash -- used for woven fences, tool handles, basketry
@@ -92,25 +63,30 @@ In a permaculture forest design:
 1. Identify existing pole stands with few large trees -- keep as pole forest
 2. Look for dying young trees -- these are firewood
 3. Identify areas promising for future plank timber -- manage differently
-4. Install dry distillation for processing dead and dying trees (see [[permaculture-dry-distillation-wood]])
-5. Use brush piles as winter shelter for wildlife
-6. Fit hollow logs as nest boxes for birds and squirrels
-
-## Income from Pole Forestry
-
-- Direct pole sales for construction and fencing
-- Basketry and specialty craft products
-- Essential oils (tea-tree, willow)
-- Firewood from thinnings and low-grade material
-- [[permaculture-dry-distillation-wood]] from waste wood
+4. Install dry distillation for processing dead and dying trees (see [[permaculture-dry-distillation-wood]] from waste wood
 
 ## See Also
 
-- [[permaculture-forestry-systems]]
 - [[permaculture-dry-distillation-wood]]
-- [[permaculture-black-locust]]
 - [[willows-salix-spp]]
-- [[permaculture-building-design]]
 - [[permaculture-chicken-forage-systems-design-course]]
-- [[permaculture-nitrogen-fixing-trees-guide]]
 - [[nitrogen-fixing-trees]]
+## Practical Considerations
+
+Successful implementation of Pole Timber Forestry requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

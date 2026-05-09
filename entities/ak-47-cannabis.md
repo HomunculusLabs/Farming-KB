@@ -45,7 +45,7 @@ AK-47 is characterized by a complex, pungent, and layered sensory profile:
   finishing with a lingering woody-skunk aftertaste
 - **Smoke quality:** Smooth to medium — not as harsh as the name might
   suggest; the smoke is relatively thick and expansive
-- **Key terpenes:** [[myrcene]], caryophyllene, [[limonene]], [[pinene]], [[humulene]],
+- **Key terpenes:** [[limonene]], [[humulene]],
   linalool
 - The aroma intensity is moderate to strong, making odor control
   important for indoor cultivation
@@ -111,14 +111,7 @@ important cannabis gene pools:
 - **Colombian:** Contributes sativa structure, cerebral effects, and
   floral-sweet aroma elements
 - **Mexican:** Adds to the sativa backbone with earthy, skunky
-  characteristics; [[acapulco-gold]] lineage is often cited
-- **Thai:** Provides uplifting, creative qualities and contributes to
-  the complex terpene profile
-- **Afghani:** Adds indica density, resin production, body relaxation,
-  and cultivation hardiness
-- **Notable crosses:** AK-47 has been extensively used in breeding:
-  AK-48 (AK-47 × Ice), White AK (AK-47 × White Widow), Critical AK
-  (AK-47 × [[critical-mass]]), and many others
+  characteristics; [[critical-mass]]), and many others
 
 ## Cultural Significance
 
@@ -143,8 +136,6 @@ regulations. In jurisdictions where cannabis is legal (Canada, multiple
 US states, Germany, Thailand, South Africa, and others as of 2026), AK-47
 seeds, clones, and flower are available through licensed channels. In
 prohibited jurisdictions, all forms of AK-47 are illegal.
-
 ## See Also
 
-- [[cannabis-sativa]]
 - [[cannabis-indica]]

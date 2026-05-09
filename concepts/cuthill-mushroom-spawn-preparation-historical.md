@@ -1,5 +1,5 @@
 ---
-title: Cuthill on Historical mushroom-spawn-preparation
+title: Cuthill Mushroom Spawn Preparation Historical
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -8,10 +8,7 @@ type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---
 
-# Cuthill on Historical Mushroom [[spawn-preparation]]
-
-Spawn preparation was a critical and somewhat mysterious aspect of
-19th-century [[mushroom-cultivation]]. Cuthill addressed both natural spawn
+# Cuthill on Historical Mushroom [[mushroom-cultivation]]. Cuthill addressed both natural spawn
 propagation and the use of commercial artificial (brick) spawn, offering
 methods suitable for cottagers as well as professional gardeners.
 
@@ -145,5 +142,8 @@ Cuthill noted that a bushel of spawn costing 5 shillings could be worth
 10 pounds in private service, while natural spawn saved from old beds
 ## See Also
 
-- [[cuthill-mushroom-bed-preparation-and-manure]]
 - [[mushroom-grain-spawn-preparation]]
+
+## See Also
+
+- [[mushroom-spawn-preparation]]

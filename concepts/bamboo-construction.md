@@ -75,17 +75,9 @@ Bamboo construction has significant environmental benefits. Bamboo sequesters ca
 
 ## See Also
 
-[[bamboo-permaculture-design]]
-
 [[bamboo-as-building-material]]
 
-[[bamboo-growing-guide]]
-
-bamboo species guide
-
 [[permaculture-building-design]]
-
-[[earth-building-permaculture]]
 
 [[permaculture-design]]
 - [[soil-erosion-control]]

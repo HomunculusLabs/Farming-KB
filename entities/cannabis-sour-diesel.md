@@ -135,10 +135,7 @@ Dizziness and mild headaches can occur, typically associated with overconsumptio
 
 ## See Also
 
-- [[cannabis-blue-dream]]
 - [[og-kush]]
-- [[jack-herer]]
 - [[cannabis-northern-lights]]
-- [[granddaddy-purple]]
 - [[white-widow-cannabis]]
-- [[pineapple-express-entity]]
+- [[pineapple-express]]

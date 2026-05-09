@@ -132,12 +132,8 @@ degradation rates while destroying pathogens.
 
 ## See Also
 
-- [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]
 - [[singh-chlorpyrifos-organophosphate-fungal-degradation]]
-- [[singh-fungal-degradation-endocrine-disrupting-compounds]]
 - [[singh-fungal-degradation-pcbs-dioxins]]
-- [[singh-fungal-degradation-pesticides]]
-
 - [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]
 - fungal enzyme systems environmental applications
 - [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]

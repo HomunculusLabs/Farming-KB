@@ -3,34 +3,9 @@ title: Mollison PDC Keypoint and Keyline Design for Humid Landscapes
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
+tags: [[keyline-design]] for Humid Landscapes
 
-# Mollison PDC Keypoint and [[keyline-design]] for Humid Landscapes
-
-Bill Mollison's detailed treatment of keypoint and keyline systems for water storage and landscape hydration in humid landscapes (rainfall >30 inches). From the 1981 [[permaculture-design]] Course, Pamphlet II.
-
-## The Humid Landscape
-
-The humid landscape is water-controlled. Unless it is very new (volcanic or newly faulted), it has softly rounded outlines. Walking up the valley or on the ridge, observe the rounded "S" shaped profile to the hills.
-
-## Finding the Keypoint
-
-Where the landscape turns from **convex to concave** occurs the **keypoint** — the critical point where the valley profile changes from convex (ridgetop) to concave (valley floor). This can be located from a contour map by finding where contours start to spread apart.
-
-## The Keyline System
-
-### Creating the Diversion Drain
-
-1. At the keypoint, the keyline starts to fall from 1:1,000 to 1:2,000 below contour
-2. Working from the keypoint, create a gently falling groove around the hill — "putting a gutter around our roof"
-3. This gutter redirects water from above the keypoint right around the hill to the keypoint dam
-
-### The Keypoint Dam
-
-- The highest point in the valley profile where economical [[dam-construction]] is possible
+Bill Mollison's detailed treatment of keypoint and keyline systems for water storage and landscape hydration in humid landscapes (rainfall >30 inches). From the 1981 [[dam-construction]] is possible
 - The deepest dam on the property — gathers all water from the hilltop to that point
 - Can be made as large as affordable
 - Water exits via siphon or lock-pipe into a contour drain
@@ -141,7 +116,6 @@ A simple surveying tool for establishing keylines:
 
 1. **Domestic water supply** — before any concrete mixing
 2. **Intensive garden** — the kitchen garden
-3. **Extensive agricultural system** — last priority
 ## See Also
 
 - [[mollison-keyline-soil-conditioning-humid-water]]

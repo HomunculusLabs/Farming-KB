@@ -13,82 +13,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Classification
 
-- Family: [[2c-family-chemistry-and-sar-pihkal]]
-- IUPAC: 2,5-dimethoxy-4-iodophenethylamine
-- CAS: Not listed in PIHKAL
-- Molecular Formula: C10H15INO2 (freebase), C10H16ClINO2 (HCl salt)
-- Molecular Weight: 309.14 g/mol (freebase)
-
-## Dosage and Duration
-
-- Dosage Range: 14 - 22 mg (oral)
-- Duration: 6 - 10 hours
-- Onset: 40 minutes to 1 hour
-- Peak: 2 hours post-ingestion
-- Shulgins scale: +2.5 to +3 at full active dose
-
-## Synthesis (Shulgin's Method)
-
-The synthesis begins with 2,5-dimethoxyphenethylamine (2C-H), which is
-converted to N-(2-(2,5-dimethoxyphenyl)ethyl)phthalimide by reaction with
-phthalic anhydride. This phthalimide intermediate is recrystallized from
-acetonitrile to yield electrostatic yellow crystals (mp 109-111 C).
-
-Iodination is achieved using iodine monochloride in acetic acid at
-approximately 30 C for 1 hour, producing
-N-(2-(2,5-dimethoxy-4-iodophenyl)ethyl)phthalimide as yellow-amber solids
-(mp 149-151 C after recrystallization).
-
-The phthalimide protecting group is removed by treatment with hydrazine
-hydrate in isopropanol on a steam bath. After filtration and workup, the
-free base is converted to the hydrochloride salt, yielding white
-microcrystalline 2C-I hydrochloride (mp 246-247 C).
-
-## Qualitative Comments
-
-(with 15 mg) "Most notable are the visuals, patterning like 2c-b-compound-profile|2C-B
-(Persian carpet type), very colorful and active. Much more balanced emotional
-character, but still no feeling of insight, revelation, or progress toward the
-true meaning of the universe. And at 5 1/2 hours drop-off very abrupt, then
-gentle decline."
-
-(with 16 mg) "There was an immediate alert within minutes. Near the peak,
-there was some hallucinogenic activity, though not a lot. The pictures in the
-dining room had color and pattern movement that was fairly detailed. There was
-certainly a lot of color enhancement. There was also that peculiar aspect of
-the visual field having darkened or shadowed areas. These darker areas seemed
-to shift around to some degree. That aspect seems to be similar to 2C-B. I
-don't think I was more than +2.5 at the peak. Coming down was uneventful. I
-was down within 6 hours. There were no body problems with this material. I ate
-like a horse."
-
-(with 16 mg) "The 16 was a bit much, I realized, because my body was not sure
-of what to do with all the energy. Next time I'll try 14 or 15. However, my
-conversations were extremely clear and insightful. The degree of honesty was
-incredible. I was not afraid to say anything to anyone. Felt really good about
-myself. Very centered, in fact."
-
-(with 20 mg) "I think there is slightly less than full immersion in the
-sensual, with this material, compared with 2C-B, but I suspect it's more a
-matter of getting used to the language of 2C-I and the feelings -- getting
-tuned to a slightly different frequency, really -- rather than that the
-material is less sensual or less easy to use sensually. Just different
-frequency, and we are very, very used to 2C-B. Good on the body. Transition,
-for me, not as strongly dark as 2C-B. But it could certainly take a lot more
-exploring, if we were able to give the time (about 9 hours) to it. Next day:
-sleep excellent. Energy next day unusually good."
-
-## Pharmacological Notes
-
-The frequent comparisons between 2C-I and 2c-b-compound-profile|2C-B stem
-from their directly analogous structures -- in one there is a strategically
-located iodine atom, and in the other, an identically placed bromine atom.
-These are directly above and below one another in the periodic table.
-
-The heavy atom at the 4-position makes 2C-I a natural candidate for
-radio-labelling experiments. 2C-I has been made radioactive with
-radio-iodine, but the most impressive findings have been made with the
-3-carbon analog, [[doi-compound-profile]] (2,5-dimethoxy-4-iodoamphetamine).
+- Family: [[doi-compound-profile]] (2,5-dimethoxy-4-iodoamphetamine).
 
 A notable report describes a "contact high" experience where an observer at a
 group meeting who took zero milligrams reported reaching "a delightful plus
@@ -100,29 +25,85 @@ high phenomenon.
 
 - 2c-b-compound-profile|2C-B: The bromine analog; frequently compared
   to 2C-I, with 2C-I being longer-acting and somewhat less sensual
-- [[doi-compound-profile]]: The 3-carbon (amphetamine) homologue; used
-  extensively in radio-labelling brain receptor studies
-- 2c-c-compound-profile|2C-C: The chlorine analog in the halogen series
-- 2CI-2ETO (2-ethoxy-4-iodo-5-methoxyphenethylamine): The 2-EtO "Tweetio"
-  homologue; threshold at 5 mg, max effect never exceeds +2 even at 50 mg
-
-## Structural Commentary
-
-Where else can one go from 2C-I? The iodine is the fourth and last of the
-classical halogens. Thanks to the nuclear age, a fifth halide is now known:
-Astatine. All of its isotopes are radioactive. The longest-lived isotope has
-a half-life of about 8 hours, and the longest-lived natural isotope decays in
-less than a minute. Shulgin speculates that the astatine analog (2C-A) would
-require about 10-20 mg and would be similar in potency, but notes that the
-most astatine ever produced at one time is approximately 0.05 micrograms --
-roughly a millionth of the needed dose -- and that the resulting radiation
-would be fatal.
-
-## Source
-
-[[pihkal-introduction-and-methodology]] (Phenethylamines I Have Known
+- [[pihkal-introduction-and-methodology]] (Phenethylamines I Have Known
 And Loved) by Alexander and Ann Shulgin, Entry #33
-- [[qualitative-comments-methodology-pihkal]]
 - [[tweetio-series-ethoxy-homologues-pihkal]]
-- [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - [[2c-b-fly]]
+## Practical Applications
+
+2C-I (PIHKAL Entry #33) has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+2C-I (PIHKAL Entry #33). These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

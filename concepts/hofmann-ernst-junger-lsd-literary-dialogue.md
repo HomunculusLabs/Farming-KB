@@ -104,30 +104,7 @@ The trip was characterized by mutuality and parallelism of experiences,
 perceived as profoundly joyful. All three had drawn near the gate to an
 experience of mystical being; however, it did not open. The dose was too
 low. Junger, who had earlier been thrust into deeper realms by a high
-dose of [[turner-mescaline]], remarked: "Compared with the tiger mescaline,
-your LSD is, after all, only a house cat." After later experiments with
-higher doses of LSD, Junger revised this estimation.
-
-## The Incense Stick in Literature
-
-Junger assimilated the spectacle of the incense stick into literature in
-his story "Besuch auf Godenholm" (Visit to Godenholm), which also
-features deeper experiences of drug inebriation. His prose describes the
-smoke as "a pallid web of sea lilies in the depths, that scarcely
-trembled from the beat of the surf. Time was active in this creation...
-Myriads of molecules observed the harmony. Here the laws no longer acted
-under the veil of appearance; matter was so delicate and weightless that
-it clearly reflected them... No goddess could inform the initiates more
-boldly and freely. That was Pythagorean luster."
-
-## Hofmann and Junger's Letter About Niopo
-
-In September 1955, Hofmann wrote to Junger about a new drug: the seeds
-of Piptadenia peregrina, used as a stimulating intoxicant by the Indians
-of the Orinoco. The seeds were ground, fermented, and mixed with the
-powder of burned snail shells. This powder was sniffed using a hollow,
-forked bird bone. Chemical analysis led to isolation of active
-principles belonging to the group of indole alkaloids: [[yopo-anadenanthera-peregrina-snuff]] and its congeners.
+dose of [[yopo-anadenanthera-peregrina-snuff]] and its congeners.
 
 ## The Mushroom Symposium of 1962
 
@@ -142,8 +119,6 @@ appears so much more wondrous."
 
 ## See Also
 
-- [[hofmann-mind-matter-forbidden-transgression]]
 - [[hofmann-lsd-consciousness-and-philosophy]]
-- [[lsd-discovery-and-history]]
 - [[hofmann-lsd-pharmacology-and-effects]]
 - [[ernst-gotsch]]

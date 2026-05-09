@@ -110,13 +110,8 @@ No significant cytotoxic or antitumor activity has been demonstrated for *A. hyg
 
 ## See Also
 
-- [[pisolithus-tinctorius]]
 - [[scleroderma-citrinum]]
-- [[lycoperdon-perlatum]]
 - [[calvatia-gigantea]]
-- [[calvatia-cyathiformis]]
 - [[mycorrhiza]]
-- [[ectomycorrhiza]]
 - [[paxillus-atrotomentosus]]
-- [[pholiota-squarrosa]]
 - [[strobilomyces-strobilaceus]]

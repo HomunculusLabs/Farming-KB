@@ -12,15 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-While Korean Natural Farming (KNF) is often associated with small-scale operations, its principles are fully applicable to large-scale farming. Dr. Cho demonstrated that farming with [[knf-indigenous-microorganism-culture]] is "highly economical and practicable in terms of production and productivity of crops and livestock," and the system has been adopted across commercial operations in multiple countries.
-
-## Scalability of KNF Inputs
-
-The fundamental advantage of KNF for scaling up is that all inputs are produced through biological multiplication. The book notes that "microbes can be multiplied billion or trillion fold in various medium which can be prepared from locally available materials." This means that scaling from a small garden to a large farm is primarily a matter of increasing the volume of microbial cultures, not fundamentally changing the production method.
-
-### Scaling IMO Production
-
-[[knf-indigenous-microorganism-culture]] are collected locally and multiplied through a staged process:
+While Korean Natural Farming (KNF) is often associated with small-scale operations, its principles are fully applicable to large-scale farming. Dr. Cho demonstrated that farming with [[knf-indigenous-microorganism-culture]] are collected locally and multiplied through a staged process:
 
 - **IMO-1:** Collected on steamed rice in the field (small scale)
 - **IMO-2:** IMO-1 mixed with equal weight of jaggery/brown sugar
@@ -31,27 +23,7 @@ At each stage, the volume increases dramatically. For large farms, IMO-3 and IMO
 
 ### Scaling Fermented Mixed Compost
 
-[[knf-fermented-mixed-compost]] is designed for field-scale application:
-
-- The book specifies that the whole material should be more than 500 kg -- it is difficult to maintain fermentation heat with smaller quantities
-- FMC is applied at minimum 1500 kg per acre
-- Large-scale production uses mixing machines instead of hand mixing
-- Temperature monitoring ensures proper fermentation at any scale
-- Storage in sacks allows accumulation over time for large applications
-
-### Scaling Liquid Inputs
-
-Liquid KNF inputs ([[master-cho-knf-ffj-fermented-fruit-juice-guide]], [[knf-fish-amino-acid]], [[lactic-acid-bacteria-knf]], [[knf-brown-rice-vinegar]], etc.) are produced by fermentation in containers. Scaling requires:
-
-- Larger fermentation vessels (food-grade drums, tanks)
-- Consistent source materials (plant materials can be harvested in bulk)
-- Proper temperature control for fermentation
-- Quality testing (smell, bubble activity, taste) to ensure successful fermentation
-- Standardized dilution rates for field application (typically 1:500 to 1:1000)
-
-## Field-Scale Soil Treatment
-
-The [[knf-seed-treatment-and-soil-foundation]] is designed for field-scale application. For one acre (0.4 hectare), the recipe calls for:
+[[master-cho-knf-ffj-fermented-fruit-juice-guide]], [[lactic-acid-bacteria-knf]], [[knf-seed-treatment-and-soil-foundation]] is designed for field-scale application. For one acre (0.4 hectare), the recipe calls for:
 
 - IMO-2: 500 ml
 - FPJ: 500 ml
@@ -71,16 +43,6 @@ This solution is applied three times: before broadcast of seeds, during the midd
 ## Large-Scale Livestock Operations
 
 ### Piggery Scaling
-
-The [[knf-livestock-odorless-piggery]] scales naturally because the deep litter system is self-maintaining:
-
-- Larger pens simply require proportionally more bedding material
-- IMO and LAB can be produced in bulk and applied to bedding
-- The composting process works at any scale as long as sufficient bedding depth and carbon-to-nitrogen ratio are maintained
-- Heat management becomes more important at scale (larger masses generate more heat)
-- Composted litter becomes a significant fertilizer resource for crop fields
-
-### Poultry Scaling
 
 The [[knf-chicken-house-design]] can be replicated for large flocks:
 
@@ -133,9 +95,7 @@ The economic advantages of KNF become more pronounced at larger scales:
 
 ## See Also
 
-- [[knf-indigenous-microorganism-culture]]
 - [[knf-fermented-mixed-compost]]
-- [[knf-seed-treatment-and-soil-foundation]]
 - [[knf-nutritive-cycle-theory]]
 - [[knf-economic-benefits]]
 

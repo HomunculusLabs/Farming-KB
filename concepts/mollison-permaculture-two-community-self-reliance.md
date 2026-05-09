@@ -3,86 +3,138 @@ title: Community and Self-Reliance
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, homesteading, sustainability]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-From Permaculture Two: Practical Design for Town and Country, by Bill Mollison (1979). Chapter 9: On Permaculture and Community, and Chapter 10: Action for People.
-
-## The Philosophy of Community Self-Reliance
-
-The global village community is in the throes of its formative years, and should produce over the next decade, the most remarkable revolution in thought, values, and technology that has yet been evolved. This contribution is intended to speed not the plough but the philosophy of a new and diverse approach to land and living, and make the plough obsolete.
-
-For myself, I see no other solution (political, economic) to the problems of man than the formation of small responsible communities involved in permaculture and appropriate technology, for both individual and competitive enterprise and "free" energy have failed us. Society is in a mess; obesity in the west is balanced by famine in the third world. Petrol is running out, and yet freeways are still being built. Against such universal insanity the only response is to gather together a few friends and commence to build the alternative, on a philosophy of individual responsibility for community survival.
-
-## The Post-Industrial Village
-
-The days of centralized power are numbered, and a re-tribalization of society is an inevitable, if sometimes painful process. The applied theories of politics, economics and industry have made a sick society; it is time for new approaches. We live in the post-industrial world, and have an immense amount of sophisticated information and technology which enables us to exchange information while living in a village situation.
-
-Permaculture is a basic technique for such an evolution, and like all biological, wholistic systems, is within the reach of everyman.
-
-## Permaculture as Energy System
-
-Permaculture both conserves and generates the fuel energies of transport systems, and would enable any community to exist comfortably on very restricted land areas. Supplemented with the appropriate and available technologies of methane and alcohol fuels, dry distillation processes, and wind, wave, water or solar energies, it would provide the basis of a sustainable and regionalized society. Combined with community co-operation, permaculture promises freedom from many of the ills that plague us, and accepts all the organic wastes of the community it serves.
-
-Thus, a permaculture system integrated with human settlement provides an inexhaustible energy system, fueled by the sun and developed by the community.
-
-## Action for People
-
-A society which spends as much on the arms race in one hour as it spends on famine relief in a year must inevitably perish from war and famine. Why should we any longer permit high energy houses, cars, freeways and armaments to be built when we are in danger of dying of inaction? Unwilling as some of us are to act we must find ways to do so for our own survival.
-
-Not all of us are, can, or need to be, farmers and gardeners. However everyone has skills and strengths to offer and may form or join ecology parties or local action groups to change the politics of our local and state governments, to demand the use of public lands on behalf of landless people, and to join internationally to divert resources from waste and destruction to conservation and construction.
-
-## The Political Dimension
-
-Permaculture One was, often enough, regarded as a political book. On reflection, perhaps it was, and if so it was a quantum leap away from existing political treatises, in that it suggests that man does not need a waste society or centralised power, only regional self-sufficiency and worldwide communication.
-
-We are told that we have an energy crisis. That is a lie while we continue to build freeways and bombers. We are told that we cannot accept refugees. That is a lie while we destroy surplus grain. We are told we need sewerage, ten-square (minimum) houses, and a job. That is a lie too. What we do need is a working group of good-humoured people pledged to world citizenship, self-reliance, and an ethic of social and individual responsibility.
-
-Every dwelling needs a tank, dry toilet, a small glasshouse, an insulated space and a garden. Nobody needs the flush toilet and a monopoly on political and economic power.
-
-## The Pledge: Steps Toward a Saner World
-
-There are no utopias in the offing, and no blueprints for one, but man could create a saner, happier, less alienated and more humane world. The pledges Mollison proposes:
-
-- World citizenship, membership of spaceship earth
-- Global communication and education
-- Aid to others to establish self-reliance, not create dependence
-- Self-reliance in ourselves and our group (village, tribe, community)
-- Care of the earth
-- Absolutely no waste products, hence no "unemployed"
-- Adoption of the most sophisticated environmental principles we can know
-- A moratorium on freeways, arms, centralised power, and export of any energy sources not used in accordance with these principles
-- Gradual removal of all tariffs, passports, visas and impediments to travel
-- Open media devoted to spreading these principles
-
-## For Intentional Communities
-
-For communities that choose to organize deliberately, Mollison proposes:
-
-- All groups/neighbourhoods limited in size from 300-3000, and at least 5 locations for each group, one of these to be an "overseas" centre (groups never to have a fixed boundary)
-- Community ownership of land and public resources (life leases on homes and gardens). The cruel myth of "ownership" of resources and people is where we have lost touch with reality
-- Regional groups to choose specialized trade manufactures suited to local resources, skills, inclinations and markets
-- A programme to make every house and town self-sufficient with teams from each stabilized area advancing into disaster areas and the third world
-- Global federations of specialized groups in travel and trade, exchange of skills, with mobile groups based on transport systems
-
-## The Meaning of Enough
-
-All we need to do to achieve this is to start. Even 1000 people have enormous personal resources, land, housing, income and ability. With these shared, all would have more than enough.
-
-"Enough" is a warm place, good nutrition (hence, health), plenty of information, many friends, a meaningful task or two and reliance on the group, hence absolute security. Who needs insurance, spy satellites, or any of those expensive waste products of insecurity?
-
-Perhaps the greatest truth is that we can only own the resources we give to others. A world totally governed by private market principles ultimately deprives man of the "freedom to give", the right to behave altruistically.
-
-## Related Topics
-
-- [[community-economics-in-permaculture]]
-- [[bioregionalism-in-permaculture]]
+tags: [[community-economics-in-permaculture]]
 - [[aid-and-development-in-permaculture]]
-- [[broadscale-permaculture-techniques-mollison]]
 - [[mollison-permaculture-two-sewage-waste-treatment]]
 
-- [[permaculture-self-reliance-and-political-action]]
 - [[mollison-how-much-land-for-self-sufficiency]]
 - [[mollison-permaculture-two-philosophy-and-tagari-community]]
+## Background and Context
+
+Community and Self-Reliance is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

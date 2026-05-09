@@ -1,5 +1,4 @@
 ---
-title: Permaculture Edge Effect Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -50,12 +49,12 @@ Mollison introduces the concept of "edge harmonics," inspired by mathematics and
 - A deeply indented or lobed shape maximizes edge
 - A spiral or fractal shape maximizes edge per unit area
 
-This geometric principle explains why [[permaculture-herb-spiral-details|herb spirals]], [[permaculture-designers-manual-keyhole-garden|keyhole beds]], and curving pond shorelines are so productive.
+This geometric principle explains why [[permaculture-herb-spiral-details|herb spirals]], [[keyhole-garden-design|keyhole beds]], and curving pond shorelines are so productive.
 
 ## Designing for Edge Effect
 
 ### Garden Beds
-- Use [[permaculture-designers-manual-keyhole-garden|keyhole beds]] instead of rectangular rows
+- Use [[keyhole-garden-design|keyhole beds]] instead of rectangular rows
 - Create [[mandala-garden-design|mandala gardens]] with radiating paths
 - Design [[permaculture-herb-spiral-details|herb spirals]] for intensive herb production
 - Avoid straight lines; use curves and undulations
@@ -105,10 +104,10 @@ Williams defines an ecotone as a "clash zone" where two or more biomes come toge
 
 ## Related Concepts
 
-- [[permaculture-design-principles]]
+- [[permaculture-principle-use-edges-and-value-the-marginal]]
 - [[edge-effect-and-microclimate]]
 - [[permaculture-herb-spiral-details]]
-- [[permaculture-designers-manual-keyhole-garden]]
+- [[keyhole-garden-design]]
 - [[mandala-garden-design]]
 - [[permaculture-pond-and-water-garden]]
 - [[permaculture-pattern-literacy]]

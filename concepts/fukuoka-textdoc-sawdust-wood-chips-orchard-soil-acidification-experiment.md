@@ -133,11 +133,7 @@ Nature works as a whole, not as a collection of parts. When we intervene based o
 
 ## Wikilinks
 
-[[fukuoka-textdoc-soil-self-regulation-failure-lime-correction]]
 [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
-[[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
-[[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
-[[fukuoka-natural-farming-philosophy]]
 [[fukuoka-natural-farming-philosophy]]

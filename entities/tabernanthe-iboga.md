@@ -90,46 +90,6 @@ medicinal preparations.
 
 The active principles of Iboga belong to the indole alkaloid class, placing
 them in the same broad chemical category as the tryptamine derivatives found
-in Teonanacatl (Psilocybe species) and Ololiuqui ([[turbina-corymbosa]]). Despite
-this shared chemical lineage, ibogaine has a unique pharmacological profile
-distinct from the simple tryptamines and ergoline alkaloids.
-
-The hallucinogenic effects of ibogaine are accompanied by strong stimulation
-of the central nervous system, producing a complex spectrum of effects that
-differs markedly from those of other indole alkaloid hallucinogens. At higher
-doses, ibogaine induces intense oneirophrenic states characterized by vivid,
-dreamlike visionary experiences.
-
-## Ethnobotanical Uses
-
-In Gabon and the Congo, Tabernanthe iboga is central to the Bwiti cult, a
-syncretic religious tradition that incorporates elements of ancestor worship,
-forest spirituality, and Christian symbolism. The Bwiti religion uses Iboga
-as its primary sacrament in initiation ceremonies, communal rituals, and
-individual healing practices.
-
-The consumption of Iboga root bark is a transformative experience within Bwiti
-cosmology, believed to allow initiates to communicate with ancestral spirits,
-confront personal difficulties, and gain spiritual insight. The initiation
-ceremony, which may involve large doses of the plant over extended periods,
-is considered one of the most important rites of passage in Bwiti society.
-
-Notably, in Gabon and the Congo, the cult surrounding Iboga provides the
-native peoples with the strongest single force against the missionary spread
-of Christianity and Islam in this region. The deep cultural roots of the Bwiti
-tradition and its incorporation of Iboga as a central sacrament have made it
-a powerful vehicle of cultural resistance and identity.
-
-## History
-
-Iboga is one of the most significant African hallucinogens and has been used
-for at least several centuries, possibly millennia. The antiquity of its use
-is attested by the depth of its integration into the cultural and spiritual
-life of the peoples of the Gabon-Congo region.
-
-## See Also
-
-- [[anadenanthera-colubrina]] — South American tryptamine-containing tree
-- [[lophophora-williamsii]] — North American cactus with mescaline
+in Teonanacatl (Psilocybe species) and Ololiuqui ([[anadenanthera-colubrina]] — South American tryptamine-containing tree
 - [[datura-metel]] — Solanaceous plant with tropane alkaloids
 - [[atropa-belladonna]] — European nightshade with atropine

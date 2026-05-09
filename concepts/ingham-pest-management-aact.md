@@ -11,19 +11,7 @@ sources:
 # Pest Management with AACT
 
 Extracted from Elaine Ingham's AACT Field Guide, covering insect pest
-management through [[ingham-aact-disease-suppression]] and biological
-approaches.
-
-## Core Principle: Not a Pesticide
-
-AACT contains beneficial organisms. These organisms DO NOT act as
-pesticides -- they are not toxic, they do not kill anything through toxic
-interactions. The beneficials occupy space, use up the foods the disease
-organisms would need, and the pests cannot find a way to establish. Just
-as cats control mice, so do aerobic teas control disease. Compost tea
-should NOT be considered a pesticide.
-
-See [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
+management through [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
 protect plants from pests by toxic compounds they produce, but these are
 not desirable and can be dangerous to human health.
 
@@ -52,73 +40,65 @@ deliver complete nutrition.
 
 AACT typically contains certain fungi that are parasitic on insect larvae,
 especially the beetles whose larvae consume roots. The particular fungus
-to find is [[ingham-beauveria-parasitic-fungi]], which may be
-available as an inoculum and can be added to AACT so it is active and
-ready to attack root grubs and wireworms on contact.
-
-The general diversity of fungi in aerobic compost includes nematode
-trapping and parasitic fungi. Getting beneficial fungi into the soil is
-essential.
-
-## Tent Caterpillars
-
-It is hard to get Bt (Bacillus thuringiensis) into the tents of tent
-caterpillars. Bt has to be ingested, and then works by causing severe
-disruption of the digestive system. If caterpillars were sprayed with a
-high bacterial brew, the Bt para-spore can be effective.
-
-However, bacteria do not attack and consume the cuticles of most insects.
-For that, you need Beauveria or Entomophaga, genera of insect-attacking
-fungi. If you have put paper or cardboard into your compost, and have any
-natural source of these fungi in the organic matter you add, these fungi
-will typically be present.
-
-## Mites
-
-Many biocontrol relationships involve parasitic and disease of the mite
-caused by one of their pathogens. You want to use LOCAL, indigenous
-parasites and diseases of mites. Contact your local SFI advisor or lab for
-field-level microbiology assistance.
-
-## Beneficial Nematodes
-
-Beneficial nematodes are needed for pest management. Bacterial-feeding,
-fungal-feeding, and predatory nematodes all interfere with root-feeders.
-These are hard to get into soil -- compost with good numbers of the
-beneficial organisms is needed.
-
-**Documented results:** Using full foodweb approaches, root-feeders have
-been dropped from near 100 per gram to less than detectable within 6
-months. The mycorrhizal colonization threshold is also critical: when VAM
-colonization is less than 40%, root disease problems, root-feeding
-nematodes, and other root pests appear. Once colonization exceeds 30-40%,
-these problems begin to go away.
-
-## Bacterial Inocula for Pest Repellence
-
-- Dr. Mike Holmes (Holmes Environmental, Corvallis, OR) has bacterial
-  inocula needed to apply to leaf surfaces to repel and suppress
-  leaf-feeding insect attack.
-- Tom Piatkowski has effective bacterial inocula for soils to take out
-  many foliar diseases as well as some leaf-feeding insects.
-- New Era Farm Service and Agri-Energy have good bacterial inocula.
-
-**Critical warning:** Get DATA to show that these organisms survive and
-grow in tea, or survive and grow in the compost or soil, before spending
-money on inocula.
-
-## The Taxi-Cab Concept
-
-If you do not have good beneficial insects to "taxi-cab" the AACT
-organisms to the new leaves, then you have to do the taxi-cab job
-yourself. If someone is missing in the food web, then you have to do
-that missing critter's job. Doing someone else's job for them will be
-expensive, and most likely will result in more compaction of your soil.
-
-Beneficial insects will be required in this system to transport organisms
-to new growth surfaces.
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[fungal-nematode-feeding-interactions]]
+to find is [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[bacterial-vs-fungal-compost-teas]]
-- [[humic-acids-soil-biology-ingham]]
 - [[ingham-weed-control-through-biology]]
+## Practical Considerations
+
+When working with Pest Management with AACT from Ingham Field Guide, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

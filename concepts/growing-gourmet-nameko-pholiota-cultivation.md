@@ -20,7 +20,6 @@ edible species. Many species are characterized by a glutinous, slimy
 veil coating the surface of the cap. However, the Japanese discovered
 that Pholiota nameko is a superior gourmet mushroom. It is one of the
 most popular cultivated mushrooms in Japan, closely ranking behind
-[[shiitake-mushroom-cultivation-and-medicinal-properties]] and
 [[growing-gourmet-enoki-cultivation]].
 
 ## Taxonomy and Common Names
@@ -122,29 +121,6 @@ purpose. Fourth and fifth flushes are usually not substantial.
 
 ## Advantages of No Casing
 
-Less work; less risk of [[growing-gourmet-trichoderma-green-mold-management]] contamination; and harvested mushrooms are free of
-debris. Because of the glutinous nature of P. nameko fruitbodies,
-casing debris adheres to and is difficult to remove.
-
-## Medicinal Properties
-
-Water and sodium hydroxide extracts are 60% and 90% effective,
-respectively, against Sarcoma 180 in white mice. Resistance to
-Staphylococcus bacteria is substantially improved. References are
-in Chinese; no parallel Western studies are known.
-
-## Nutritional Content
-
-- Protein: 20.8%; Fat: 4.2%; Carbohydrate: 66.7%
-- Ash: 8.3%; Fiber: 6.3%
-- Vitamins (mg/100g dry): thiamine 18.8, riboflavin 14.6, niacin 72.9
-- Minerals (mg/100g dry): calcium 42, potassium 2083, iron 22.9,
-  sodium 63
-
-## Related Topics
-
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
+Less work; less risk of [[shiitake-mushroom-cultivation]]
 - [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-supplemented-sawdust-sterilization]]
 - [[pholiota-squarrosa]]

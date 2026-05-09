@@ -9,7 +9,7 @@ tags: [reference]
 
 # Persephone and Demeter in the Eleusinian Mysteries
 
-The sacred myth underlying the [[plutarch-and-cicero-on-the-eleusinian-mysteries]] is recorded in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]], an anonymous poem from
+The sacred myth underlying the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]], an anonymous poem from
 the seventh century BCE. It tells how the goddess Persephone was abducted by
 her bridegroom Hades to the realm of the dead when she picked a special
 hundred-headed narkissos while gathering flowers with the daughters of Ocean
@@ -29,32 +29,7 @@ is named Pharmaceia, meaning "the use of drugs."
 
 Persephone's abduction at Nysa was prototypic of the first nuptial between
 the realms, the primal experience of death. The particular myth that Plato
-is rationalizing traced the [[sacred-marriage-hieros-gamos-in-greek-religion]] enacted between the immigrant founder and the
-autochthonous female in ecstatic contexts. The etymology of Mykenai
-(Mycenae) itself was correctly derived in antiquity from Mykene, the bride
-of the mykes or mushroom.
-
-## The Sacred Marriage and the Great Mother
-
-Those religions that preceded the Greeks centered upon the female's
-procreativity and the cyclical rebirth and death of both plants and mankind.
-She was the Great Mother and the entire world was her Child. The essential
-event in those religions was the Sacred Marriage, in which the priestess
-periodically communed with the realm of spirits within the earth to renew
-the agricultural year. Her male consort was a vegetative spirit, both her
-son who grew from the earth and the mate who would abduct her to the
-fecundating other realm upon his death.
-
-When the Indo-Europeans settled in the Greek lands, their immortal Father
-God Zeus became assimilated to the pattern of the dying and reborn
-vegetative consort. It was as Dionysus that this assimilated consort
-survived into the classical period. His name designates him as the Zeus of
-Nysa, for Dios is a form of the word Zeus. Nysa was the place where
-Persephone was abducted, and also the name for wherever was enacted that
-same nuptial encounter.
-
-Dionysus could possess his ecstatic brides through the agency of plants.
-The [[maenads-thyrsos-and-ecstatic-ritual]], like Persephone, also
+is rationalizing traced the [[maenads-thyrsos-and-ecstatic-ritual]], like Persephone, also
 gathered flowers. Their emblem was the thyrsos, a fennel stalk stuffed with
 ivy leaves, customarily used by herb gatherers for their cuttings. The ivy
 was sacred to Dionysus and reputed to be a psychotropic plant. The mushroom's
@@ -134,8 +109,6 @@ constant guest.
 
 ## See Also
 
-- [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
-- [[dionysus-vegetative-consort-and-mushroom-symbolism]]
 - [[sacred-marriage-hieros-gamos-in-greek-religion]]
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]

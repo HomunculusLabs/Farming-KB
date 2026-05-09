@@ -126,12 +126,8 @@ cocaine abuse.
 
 ## Related Topics
 
-- [[plants-of-the-gods-banisteriopsis-ayahuasca]] — another
-  major South American psychoactive plant complex
 - [[plants-of-the-gods-geography-hallucinogenic-plants]] —
   geographic distribution of psychoactive plants
-- [[plants-of-the-gods-overview-hallucinogenic-plant-use]] —
-  classification of psychoactive plants by cultural use
 - [[plants-of-the-gods-phytochemistry-sacred-plants]] —
   phytochemical research on sacred plants
 - [[plants-of-the-gods-anadenanthera-yopo-cebil]] — another

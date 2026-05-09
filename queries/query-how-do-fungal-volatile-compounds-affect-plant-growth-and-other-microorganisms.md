@@ -19,45 +19,7 @@ sources:
   - https://doi.org/10.1016/j.tplants.2021.01.005
 type: query
 ---
-# How Do [[mycovolatiles-fungal-volatile-compounds]] Affect Plant Growth and Other Microorganisms?
-[[fungal-volatile-organic-compounds]] organic compounds (FVOCs) are airborne chemstaycare-degradation-of-plant-cell-wall-polymers-by-funginals produced by fungi that influence neighboring organisms withoutplant-immune-system-pti-etintact. They can **stimulate or inhibit plant growth**, **prime plant immune defenses**, **suppress or attract specific microorganisms**, and **mediate interactions with insects**. The effect depends on the fungal species, the specific compounds emitted, the concentration, and the receiving organism. *Trichoderma* species are the best-studied beneficial FVOC producers, while some *Fusarium* and *Aspergillus* species emit growth-inhibiting volatiles.
-
-## Effects on Plant Growth
-
-### Growth Promotion
-
-Several FVOCs act as natural plant growth stimulants:
-
-- **2,3-Butanediol**: Produced by *Trichoderma asperellum* and certain rhizosphere fungi. Promotes root and shoot biomass in Arabidopsis, lettuce, and tomato by up to 40–60% in sealed co-culture systems. Triggers salicylic acid and jasmonic acid defense pathways simultaneously.
-- **6-Pentyl-α-pyrone (6-PP)**: Signature volatile of many *Trichoderma* species. At low concentrations (50–200 μg/L), stimulates root elongation and lateral root formation. At high concentrations, becomes phytotoxic.
-- **C8 compounds (1-octen-3-ol, 3-octanone)**: Common mushroom volatiles ("mushroom alcohol"). At nanomolar concentrations, enhance seed germination in several crop species. At micromolar concentrations, inhibit germination and cause oxidative stress.
-- **Acetaldehyde and ethanol**: Low-level fermentation products from soil fungi. Can break seed dormancy in some species and promote early seedling establishment.
-
-**Practical use**: Exposing seeds or seedlings to FVOC-producing fungi (or purified volatile blends) before transplanting can enhance establishment success. This "priming" effect persists for days to weeks after the volatile exposure ends.
-
-### Growth Inhibition
-
-Not all FVOC effects are beneficial. Some fungal volatiles are phytotoxic:
-
-- **2,3-Butanediol at high concentrations**: Inhibits Arabidopsis root growth.
-- **Geosmin**: At high concentrations, inhibits radicle elongation in germinating seeds.
-- **Benzaldehyde**: Suppresses seedling growth of several weed species, suggesting potential as a natural herbicide.
-- **Volatile blends from pathogenic fungi**: *Fusarium* and *Verticillium* species emit complex mixtures that cause stunting, chlorosis, and wilting in susceptible plants even without direct infection.
-
-## Defense Priming in Plants
-
-FVOCs can "vaccinate" plants against future pathogen attacks through a process called **induced systemic resistance (ISR)**:
-
-1. **Exposure**: Plant roots detect FVOCs from beneficial soil fungi (primarily *Trichoderma* and *Serendipita* species).
-2. **Signal transduction**: Volatile receptors (often still unidentified) activate MAP kinase and calcium signaling cascades.
-3. **Hormonal priming**: The plant upregulates defense-related genes but does not fully activate them, conserving resources. Both salicylic acid (SA) and jasmonic acid/ethylene (JA/ET) pathways are primed.
-4. **Enhanced response**: When a pathogen subsequently attacks, the primed plant mounts a faster, stronger defense response—often reducing disease severity by 30–70%.
-
-**Key compounds involved**:
-- 2,3-Butanediol (SA + JA priming)
-- 6-PP (JA/ET priming)
-- 3-Octanone (JA priming)
-- Sesquiterpenes from *[[serendipita-indica]]* (broad-spectrum priming)
+# How Do [[serendipita-indica]]* (broad-spectrum priming)
 
 **Duration**: Priming effects typically last 1–3 weeks after volatile exposure ends. Epigenetic modifications (DNA methylation, histone acetylation) may underlie this transient "memory."
 
@@ -71,17 +33,10 @@ Many FVOCs are bactericidal or bacteriostatic:
 |---|---|---|
 | Benzaldehyde | *Penicillium*, *Aspergillus* | Gram-positive and Gram-negative bacteria |
 | 2-Nonanone | *Trichoderma* spp. | *Pseudomonas*, *Bacillus* |
-| DMDS (dimethyl disulfide) | *[[trichoderma-viride]]* | Broad-spectrum; nematicidal too |
-| 6-PP | *Trichoderma* spp. | Plant-pathogenic *Pseudomonas*, *Xanthomonas* |
-| Isoamyl alcohol | Yeasts, filamentous fungi | Some soil bacteria at high concentrations |
-
-### Bacterial Attraction and Recruitment
-
-Some FVOCs attract beneficial bacteria to [[fungal-hyphae]]:
+| DMDS (dimethyl disulfide) | *[[fungal-hyphae]]:
 
 - **CO₂ and ethanol gradients** around active fungal hyphae serve as chemoattractants for *Pseudomonas* and *Burkholderia* species, recruiting them to the mycosphere where they can form mutualistic relationships.
-- **Fungal oxalic acid and citric acid** (semi-volatile) attract *[[bacillus-subtilis]]* to *Trichoderma* hyphae, where the two organisms collaborate to suppress plant pathogens.
-- **Dimethyl disulfide** attracts certain *Streptomyces* species that produce anti [[fungal-antibiotics]]—a case where a fungal volatile attracts its own natural enemy, suggesting a regulatory feedback loop.
+- **Fungal oxalic acid and citric acid** (semi-volatile) attract *[[fungal-antibiotics]]—a case where a fungal volatile attracts its own natural enemy, suggesting a regulatory feedback loop.
 
 ### Bacterial Community Shaping
 

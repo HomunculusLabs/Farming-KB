@@ -3,7 +3,7 @@ title: Cool Climate Settlement and House Design (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, season-extension, microclimate]
+tags: [[permaculture, design, season-extension, microclimate]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -85,11 +85,8 @@ A timber forest planted early on and harvested at various stages can supply fire
 
 ## See Also
 
-- [[earth-building-permaculture]]
 - [[earth-sheltered-structures-permaculture]]
-- [[permaculture-greenhouse-design]]
 - [[greenhouse-cool-climates-mollison]]
-- [[cold-climate-permaculture-guide]]
 - [[keyline-design-water-management]]
 
 ## Merged: Mollison Cool Climate Design

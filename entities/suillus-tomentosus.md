@@ -133,13 +133,8 @@ identification.
 
 ## See Also
 
-- [[suillus-luteus]] — slippery jack, common European and North American Suillus
 - [[suillus-granulatus]] — granulated bolete, widespread edible Suillus
-- [[suillus-bovinus]] — Jersey cow mushroom, pine associate
 - [[suillus-pungens]] — pungent Suillus, California endemic
-- [[suillus-cavipes]] — hollow-stemmed Suillus, larch associate
 - [[boletus-edulis-entity]] — king bolete, premier edible mycorrhizal mushroom
-- [[russula-brevipes]] — short-stemmed Russula, common pine associate
 - [[lactarius-deliciosus]] — saffron milk cap, mycorrhizal with conifers
-- [[mycorrhiza]] — mycorrhizal symbiosis overview
 - [[ectomycorrhiza]] — ectomycorrhizal associations detail

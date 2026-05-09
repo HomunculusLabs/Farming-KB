@@ -30,7 +30,7 @@ Using seedlings as rootstocks for fruit trees is a very simple, economical and p
 
 Pits are dug and filled with a mixture of topsoil, compost, and sometimes rock dust. The seeds of various fruit varieties are sown directly. Because seedlings develop their own root systems naturally, they are far more resilient than grafted trees and better adapted to local conditions.
 
-[[holzer-fruit-trees-no-pruning]] | [[holzer-permaculture-landscape-design]] | holzer grafting fruit forest | [[backyard-food-forest-design]] | [[sepp-holzer-method]]
+[[holzer-permaculture-landscape-design]] | holzer grafting fruit forest | [[sepp-holzer-method]]
 
 ## Key Points
 
@@ -58,7 +58,7 @@ Pits are dug and filled with a mixture of topsoil, compost, and sometimes rock d
 
 ## See Also
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[sepp-holzer-permaculture-and-rebel-farming]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-raised-bed-design-principles]], [[holzer-microclimates-permaculture]], [[holzer-assessing-the-land]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.

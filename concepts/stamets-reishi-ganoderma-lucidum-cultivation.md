@@ -3,7 +3,7 @@ title: Reishi Indoor Cultivation Parameters
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mushroom-cultivation, species-guide, reishi, medicinal-mushrooms]
+tags: [[mushroom-cultivation, species-guide, reishi, medicinal-mushrooms]
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
@@ -16,11 +16,7 @@ Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 21 Gro
 
 ## Overview
 
-Ganoderma lucidum is known as Reishi (Japanese), Ling Chi or Ling Zhi (Chinese, "Mushroom of Immortality"), and Mannentake (Japanese, "10,000 Year Mushroom"). It is the most renowned medicinal mushroom in Asian pharmacopeia, with over two millennia of documented use. The earliest mention dates to Emperor Shih-huang of the Ch'in Dynasty (221-207 BC). Claimed to address cancer, heart disease, diabetes, arthritis, high altitude sickness, and chronic fatigue syndrome. See also [[ganoderma-lucidum-reishi-comprehensive-profile]], [[reishi-cultivation-guide]], [[reishi-mushroom-medicinal-properties]].
-
-## Taxonomic Considerations
-
-G. lucidum is the type species of the genus, growing primarily on oaks and other hardwoods. Close relatives G. tsugae (hemlocks) and G. oregonense (conifers) may be conspecific. G. curtisii may be a yellow form of G. lucidum. G. lucidum produces chlamydospores in culture whereas G. tsugae does not. G. oregonense is more massive with thick pithy flesh and favors colder climates. Spore size of G. lucidum (9-12 um) is smaller than G. oregonense and G. tsugae (13-17 um). Asian allies include G. japonicum (= G. sinense, "Zi zhi"). See also [[parasitic-mushrooms-armillaria-ganoderma]].
+Ganoderma lucidum is known as Reishi (Japanese), Ling Chi or Ling Zhi (Chinese, "Mushroom of Immortality"), and Mannentake (Japanese, "10,000 Year Mushroom"). It is the most renowned medicinal mushroom in Asian pharmacopeia, with over two millennia of documented use. The earliest mention dates to Emperor Shih-huang of the Ch'in Dynasty (221-207 BC). Claimed to address cancer, heart disease, diabetes, arthritis, high altitude sickness, and chronic fatigue syndrome. See also [[reishi-cultivation-guide]], [[parasitic-mushrooms-armillaria-ganoderma]].
 
 ## Description
 
@@ -95,7 +91,7 @@ Every 3-4 weeks for maximum of two flushes.
 
 ## Natural/Outdoor Cultivation
 
-Traditional method: inoculate logs, lay on ground or shallowly bury in shady, moist locations. Cover with shade cloth on hoop-frames. 6 months to 2 years before substantial harvests begin, continuing 4-5 years. Also grown on stumps, especially in humid southeastern US climates. Quasi-natural method: inoculate short hardwood logs, place into nursery pots filled with sawdust, top with soil, house in shade-cloth-covered greenhouses. See also [[reishi-cultivation-methods]], [[stamets-shiitake-and-stropharia-cultivation]].
+Traditional method: inoculate logs, lay on ground or shallowly bury in shady, moist locations. Cover with shade cloth on hoop-frames. 6 months to 2 years before substantial harvests begin, continuing 4-5 years. Also grown on stumps, especially in humid southeastern US climates. Quasi-natural method: inoculate short hardwood logs, place into nursery pots filled with sawdust, top with soil, house in shade-cloth-covered greenhouses. See also [[stamets-shiitake-and-stropharia-cultivation]].
 
 ## Yield and Marketing
 
@@ -103,4 +99,4 @@ Marketed as fresh, dried, powdered, and in tablet form. Dried Reishi is 70-80% w
 
 ## Companion/Sequential Cultivation
 
-Spent Reishi blocks can be sequenced with other species (see [[stamets-species-sequencing-recycling-substrates]]), buried outdoors in sawdust for additional fruitings, or used as base for [[stamets-mycoremediation-principles]]. Reishi is listed among candidates for [[stamets-mycoforestry-case-studies]] systems.
+Spent Reishi blocks can be sequenced with other species (see [[stamets-mycoremediation-principles]]. Reishi is listed among candidates for [[stamets-mycoforestry-case-studies]] systems.

@@ -75,6 +75,9 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[g-3-entity-pihkal]]
 - [[g-4-entity-pihkal]]
 - [[g-5-entity-pihkal]]
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

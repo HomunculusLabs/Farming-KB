@@ -71,8 +71,7 @@ marked by a snail's trail, could under no circumstances be eaten.
 Palmer methodically refuted each point: damp, dark places produced
 "the very best mushrooms"; the edible fairy-ring champignon had a very
 thin cap; the elm-tree mushroom had an eccentric stem; several
-[[russula-edible-species]] had equal gills; the maned
-mushroom ([[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]) turned to ink; many
+[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]) turned to ink; many
 edible boletus-edulis|Boleti changed color when bruised.
 
 ## The Salt and Coin Tests
@@ -128,5 +127,5 @@ toadstool." The curse of mycology, he declared, had always been
 tradition perpetuated by those who wrote without personal acquaintance
 with a single toadstool.
 
-See also: [[palmer-mushroom-vs-toadstool-terminology]], [[mushroom-identification]],
+See also: [[mushroom-identification]],
 [[ramsbottom-poisonous-fungi-identification-guide]]

@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, safety, reform, psychopharmacology, counterculture, activism, history, culture, reference, entheogen-research]
-sources:
-  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
-  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
+sources: []
 ---
 
 # Psychedelic Plants Legal Status
@@ -38,9 +36,9 @@ These conventions require signatory nations to criminalize the scheduled substan
 - **Psilocybin mushrooms**: Schedule I under the Controlled Substances Act. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
 - **Peyote (Lophophora williamsii)**: Schedule I, with a specific religious exemption for members of the Native American Church under the American Indian Religious Freedom Act (1994 amendments)
 - **San Pedro / Trichocereus cacti**: Legal to grow and possess as ornamental plants. Consumption for mescaline content is technically illegal, but enforcement against personal cultivation is virtually nonexistent
-- **Ayahuasca plants**: [[banisteriopsis-caapi]] is not explicitly scheduled. Psychotria viridis is not scheduled. However, DMT is Schedule I, so preparations containing DMT are illegal. Religious exemptions exist for UDV (União do Vegetal) and Santo Daime under court rulings
+- **Ayahuasca plants**: Banisteriopsis caapi is not explicitly scheduled. Psychotria viridis is not scheduled. However, DMT is Schedule I, so preparations containing DMT are illegal. Religious exemptions exist for UDV (União do Vegetal) and Santo Daime under court rulings
 - **Salvia divinorum**: Not federally scheduled. Regulated at the state level — banned in many states but legal in others
-- **[[amanita-muscaria]]**: Legal — not a controlled substance at the federal level
+- **Amanita muscaria**: Legal — not a controlled substance at the federal level
 - **Iboga / Ibogaine**: Schedule I. Some states have specific ibogaine regulations
 - **Peganum harmala (Syrian rue)**: Not scheduled. Seeds are legally available
 - **Spores**: Psilocybin mushroom spores are legal in most US states because they do not contain psilocybin or psilocin. Exceptions: California, Georgia, Idaho
@@ -71,7 +69,7 @@ These conventions require signatory nations to criminalize the scheduled substan
 - Ayahuasca is legal and culturally protected
 - San Pedro is legal and widely used in traditional ceremonies
 - Psilocybin mushrooms: Not explicitly scheduled
-- Peru has actively promoted [[ayahuasca-tourism]] and traditional medicine
+- Peru has actively promoted ayahuasca tourism and traditional medicine
 
 ### Ecuador
 - Ayahuasca: Legal for indigenous and ceremonial use
@@ -129,9 +127,11 @@ Several legal precedents protect religious use of entheogens:
 
 See [[psychedelic-mushroom-decriminalization]] for a detailed look at the US reform movement.
 
-## Related
-
-- [[sacramental-psychedelic-legal-protections]] Topics
+## Related Topics
 
 - [[psychedelic-mushroom-decriminalization]] — US decriminalization movement in detail
 - [[entheogen-vendors-and-sources]] — legal sourcing of plants and materials
+
+## See Also
+
+- [[psychedelic-plants-indoor-growing]]

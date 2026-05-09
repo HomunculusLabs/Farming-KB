@@ -98,11 +98,7 @@ The fermentation process occurs in 5 steps: 1) recognition of each other (betwee
 
 ## See Also
 
-- [[knf-fermented-fruit-juice]]
 - [[knf-oriental-herbal-nutrient]]
-- [[brown-rice-vinegar-brv]]
 - [[knf-lactic-acid-bacteria-serum]]
-- [[knf-nutritive-cycle-theory]]
 - [[knf-input-application-timing]]
-- [[knf-preparations]]
 - [[monster-cropping]]

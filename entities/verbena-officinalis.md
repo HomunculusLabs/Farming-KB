@@ -136,15 +136,10 @@ digestive bitter.
 - **Tincture (1:5, 45% ethanol):** 2–4 mL, 3× daily
 - **Fluid extract (1:1):** 1–2 mL daily
 - **Topical:** Poultice of fresh or dried herb for wounds and inflammation
-
 ## See Also
 
-- [[passiflora-incarnata]] — Anxiolytic herb often combined with vervain in
-  nervine formulations
 - [[melissa-officinalis]] — Related nervine/carminative with overlapping
   calming properties
-- [[valeriana-officinalis]] — Stronger sedative nervine; common combination
-  partner
 - [[hypericum-perforatum]] — Antidepressant herb used alongside vervain in
   stress formulas
 - [[verbascum-thapsus]] — Unrelated "mullein"; shares some traditional

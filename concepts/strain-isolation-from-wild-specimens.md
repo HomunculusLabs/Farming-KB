@@ -75,18 +75,10 @@ The basic tools needed for wild strain isolation include a scalpel or inoculatin
 A laminar flow hood provides the most controlled environment for conducting isolation work, but a simple glove box or still-air box constructed from a plastic container can also be effective for home cultivators. The key requirement is a workspace where air currents are minimized and the number of airborne contaminants is as low as possible. Regular cleaning of work surfaces with 70% isopropyl alcohol or a 10% bleach solution further reduces contamination risk.
 
 ## See Also
-- [[spore-syringe-vs-liquid-culture]]
-
-[[fungal-spore-biology]]
-
-[[fungal-culture-preservation]]
+- [[fungal-spore-biology]]
 
 [[tissue-culture-cloning]]
 
-[[agar-culture-techniques-detailed]]
-
 [[mushroom-strain-selection]]
-
-[[mushroom-genetics-strain-selection]]
 
 [[contamination-identification-prevention]]

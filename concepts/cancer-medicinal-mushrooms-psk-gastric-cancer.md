@@ -108,8 +108,6 @@ side effects associated with traditional therapies.
 
 ## Related Topics
 
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[cancer-medicinal-mushrooms-apoptosis-mechanisms]]
 - [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
 - [[cancer-medicinal-mushrooms-extraction-bioavailability]]

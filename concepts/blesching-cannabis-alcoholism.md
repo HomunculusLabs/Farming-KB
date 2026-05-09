@@ -11,55 +11,7 @@ type: concept
 
 # Cannabis and Alcohol Dependence
 
-[[cannabis-health-index]] (CHI) score: **9** (out of 100)
-Based on **4 clinical studies** reviewed by Blesching.
-
-Alcohol use disorder (AUD) is one of the most prevalent substance use
-disorders worldwide, responsible for approximately 3 million deaths annually.
-While the concept of using one substance to treat dependence on another may
-seem counterintuitive, emerging evidence suggests that cannabis may serve as
-a harm-reduction tool for individuals struggling with alcohol dependence.
-The CHI score of 9 reflects the early but intriguing nature of this
-evidence base.
-
-## Cannabis as a Substitute for Alcohol
-
-The substitution hypothesis suggests that individuals with AUD may use
-cannabis as a less harmful alternative to alcohol. This concept is
-supported by several lines of evidence:
-
-- Surveys of medical cannabis patients consistently find that a
-  significant percentage report reducing or eliminating alcohol
-  consumption after initiating cannabis use
-- In states with legal medical cannabis, reductions in alcohol sales
-  have been observed, suggesting population-level substitution effects
-- Patients commonly describe using cannabis to manage cravings and
-  withdrawal symptoms that would otherwise drive them to drink
-- The substitution effect appears to be more pronounced for individuals
-  using cannabis for medical rather than recreational purposes
-
-## Mechanisms of Potential Benefit
-
-### Withdrawal Symptom Management
-
-Alcohol withdrawal can be severe and potentially life-threatening,
-involving tremors, anxiety, insomnia, nausea, and in extreme cases,
-delirium tremens and seizures. Cannabis may help mitigate several of
-these symptoms:
-
-- **Anxiety reduction**: CBD and THC both have anxiolytic properties
-  that may address the pronounced anxiety of alcohol withdrawal
-- **Sleep promotion**: Cannabis may help restore normal sleep
-  architecture disrupted by alcohol dependence
-- **Nausea and appetite**: THC's antiemetic effects may address
-  gastrointestinal withdrawal symptoms
-- **Craving reduction**: Modulation of the endocannabinoid system may
-  reduce the reward-seeking behavior that drives alcohol cravings
-
-### Neuroprotective Withdrawal Support
-
-- Chronic alcohol use causes significant neurotoxicity through oxidative
-  stress and excitotoxicity (see [[blesching-cannabis-neuroprotection]])
+[[blesching-cannabis-neuroprotection]])
 - CBD's antioxidant and anti-inflammatory properties may protect the
   brain during the vulnerable withdrawal period
 - Alcohol-induced liver damage involves inflammatory pathways that CBD
@@ -138,8 +90,10 @@ Blesching frames cannabis in the context of a harm reduction approach:
 
 ## Related Topics
 
-- [[blesching-cannabis-addiction-dependence]] - cannabis dependence and addiction
-- blesching cannabis anxiety - anxiety in withdrawal
-- [[blesching-cannabis-sleep-disorders]] - sleep disruption in AUD
+- [[blesching-cannabis-anxiety]] - anxiety in withdrawal
 - [[blesching-cannabis-neuroprotection]] - neuroprotective effects
 - blesching cannabis liver disease - potential hepatoprotective effects
+
+## See Also
+
+- [[blesching-cannabis-copd]]

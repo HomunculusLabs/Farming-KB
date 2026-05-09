@@ -100,13 +100,9 @@ In coastal restoration projects, G. littoralis has been planted for dune stabili
 
 ## See Also
 
-- [[foeniculum-vulgare]]
 - [[coriandrum-sativum]]
-- [[scutellaria-baicalensis]]
 - [[rehmannia-glutinosa]]
-- [[ophiopogon-japonicus]]
 - [[polygonatum-biflorum]]
-- [[atractylodes-macrocephala]]
-- [[angelica-sinensis]]
+- atractylodes macrocephala
 - [[astragalus-membranaceus]]
 - [[borago-officinalis]]

@@ -1,125 +1,121 @@
 # Tryptamine Logos and Language
 
-> Terence McKenna's theory that psilocybin and DMT invoke the Logos — a translinguistic, transtemporal reality accessed through the language centers of the brain.
+## Overview
+The relationship between [[terence-mckenna]] argued that tryptamines "invoke
+the Logos," working directly on the brain's language centers to produce
+interior dialogue with what is experienced as external intelligence.
 
-## Core Thesis
+## The Logos Concept
 
-In his lecture "Tryptamine Hallucinogens and Consciousness," Terence McKenna proposed that tryptamine compounds — principally psilocybin and DMT — act directly on the neural substrate of language.
+### Historical Roots
+The "Logos" has deep philosophical roots. In Heraclitus, it is the
+organizing principle underlying cosmic change. In Philo Judaeus, it mediates
+between transcendent God and creation, moving "from things heard to things
+beheld." In the Johannine tradition, the Logos is the divine Word through
+which all things were made. McKenna used this term for the translinguistic
+intelligence encountered in the DMT state.
 
-This is not a peripheral psychoactive effect. McKenna argued that these substances invoke the Logos itself: an active, intelligent, self-organizing principle that communicates through the very structures human beings use to think and speak.
+### Tryptamines as Logos-Invoking Compounds
+McKenna distinguished tryptamines from other hallucinogens by their
+phenomenological specificity. "Psilocybin and DMT invoke the Logos, although
+DMT is more intense and more brief in its action." They "work directly on the
+language centers, so that an important aspect of the experience is the interior
+dialogue." This sets tryptamines apart from LSD and mescaline, which are
+"lumped together" in public understanding despite each being "a phenomenologically
+defined universe unto itself."
 
-The Logos, in McKenna's framing, is not a metaphor but an experience — a phenomenon that presents itself when the ordinary filters of cognition are temporarily dissolved by tryptamine action on the brain's language centers.
+## Translinguistic Phenomena
 
-## The Interior Dialogue
+### The Translinguistic Object
+Central to McKenna's account is the "translinguistic object" — an information
+complex unmappable onto any known language. When the brain confronts this
+object, cognitive dissonance arises: "We try to pour language over it and it
+sheds it like water off a duck's back." This produces wonder, astonishment,
+and awe at the brink of terror — the mind's recognition of genuine novelty.
 
-Under the influence of tryptamines, many people report an encounter with what McKenna called the "interior dialogue."
+### The Assembly Language Behind Speech
+DMT glossolalia differs from Pentecostal forms. In Pentecostal contexts,
+speakers ask afterward "Did I do it?" DMT produces "a brain state that allows
+the expression of the assembly language that lies behind language." McKenna
+connected this to Robert Graves's primal language in *The White Goddess* and
+the Kabbalistic "Ursprache" in the Zohar — a deeper stratum of vocal-auditory
+meaning-making directly accessible in the tryptamine state.
 
-This is not the ordinary stream of consciousness but a distinctive, alien-yet-familiar voice or presence that seems to communicate from a space behind or beneath ordinary thought.
+### Hyperspatial Language
+McKenna proposed a "human language in which the intent of meaning is actually
+beheld in three-dimensional space." Meaning is not merely heard but visually
+instantiated as transforming objects carrying informational content through
+form, motion, and relational properties. Given cultural investment, this
+could "become a cultural convenience in the same way that mathematics or
+language has become a cultural convenience."
 
-The critical moment is the decision to engage. One must choose whether to enter into this dialogue, to attempt to make sense of the incoming signal, or to resist and retreat into the comfort of the known self.
+The experience suggests that beneath ordinary language lies a deeper modality
+of meaning-making in which semantic content is inseparable from spatial and
+kinesthetic properties — a language that is seen and felt rather than merely
+heard. The "colored balls" of Heraclitus become literal: meaning as visible,
+tangible, multidimensional form.
 
-McKenna insisted that engagement is the path that reveals the deeper structure.
+## The I/Thou Relationship
 
-## Glossolalia as Ursprache
+### Critical Engagement
+McKenna framed the encounter in Martin Buber's I/Thou terms. The proper
+relationship is not genuflection but engaged dialogue: "You say you are
+omniscient. You're long on talk, but what can you show me?" "There is no
+dignity in the universe unless we meet these things on our feet."
 
-Perhaps the most striking phenomenon McKenna described is tryptamine-induced glossolalia — speaking in tongues.
+### Discernment
+"The accomplishment is to make sure it is telling the truth, because the
+demons are of many kinds: 'Some are made of ions, some of mind.'" Magicians
+"have always understood that one must go into such encounters with one's
+wits about oneself." This parallels mystical traditions worldwide — the
+Christian *discernment of spirits*, shamanic evaluation of allies vs.
+adversaries.
 
-This is not the glossolalia of Pentecostal religious practice, where ecstatic utterance serves as a sign of spiritual possession. Under tryptamines, glossolalia takes on a radically different character.
+## Language and the Evolution of Consciousness
 
-McKenna understood it as the brain achieving a state that allows direct expression of the assembly language behind all language — a primal tongue he called Ursprache.
+### Language as Self-Replicating Information
+McKenna proposed language is "self-replicating information systems that
+reflect functions of DNA: learning, coding, templating, recording, testing,
+re-testing, re-coding." Language is not merely a tool but an autonomous
+informational process "moving through us and moving out of our hands and
+into the noosphere."
 
-This Ursprache is not random vocalization. It carries syntax, intonation, and what feels like genuine semantic content. The speaker perceives meaning even though no ordinary lexicon is being deployed.
+### The Tryptamine State as Transtemporal
+McKenna described the experience as "transtemporal" — Plato's metaphor made
+literal: "time is the moving image of eternity." It is "a stepping out of
+the moving image and into eternity, the nunc stans of Thomas Aquinas."
+Acceleration is visible: fire discovered millions of years ago, language
+35,000 years ago, measurement 5,000 years ago, Galileo 400 years ago.
+"What is obviously happening is that everything is being drawn together."
 
-Language, in this state, reveals its roots as something more than a tool for communication.
+### The Exteriorization of the Soul
+McKenna envisioned "an effort to exteriorize the soul and internalize the
+body, so that the exterior soul will exist as a superconducting lens of
+translinguistic matter." This represents the maturation of language from
+its embryonic form into fully realized three-dimensional meaning-making.
 
-## Extra-Dimensional Objects
+## Art and Cultural Transmission
 
-Closely related to the linguistic phenomena is the appearance of what McKenna called "extra-dimensional objects."
+McKenna raised the puzzle of why "human art history is so devoid of what
+psychedelic voyagers have experienced so totally." The UFO motif might be
+"the central motif to be understood" — the Self disguised as extraterrestrial
+"because we are so alienated" that genuine dimensions of the self appear
+as alien. "When we can love the alien, then we will have begun to heal the
+psychic discontinuity that has plagued us since at least the sixteenth
+century."
 
-These are perceived as feeling-toned, meaning-toned, three-dimensional complexes of transforming light and color. They rotate, morph, and radiate significance.
+## Quantum Mechanical Foundations
 
-They are not visual hallucinations in the ordinary sense — they carry cognitive weight.
-
-These objects exist at the intersection of language and vision. They seem to be the things that language points toward when it is not constrained by the flatness of ordinary reference.
-
-They are meanings beheld directly in hyperspace.
-
-## Transtemporal Experience
-
-The tryptamine state is not merely spatial in its expansion — it is temporal. The experience is transtemporal.
-
-Time does not simply slow or distort. It opens. The subject encounters what feels like anticipation of the future, memory of the transcendent, and a presence that exists outside the flow of moments entirely.
-
-This is not an altered perception of clock time but an encounter with a mode of being in which time itself is revealed as a limited frame around a far larger reality.
-
-## History Is the Shockwave of Eschatology
-
-McKenna's most famous formulation from this material is:
-
-> "History is the shockwave of eschatology."
-
-He meant that something at the end of time — an ultimate transformation, a final convergence of mind and matter — is casting a shadow backward across all of human history.
-
-Eschatology is not a future event waiting to happen. It is the gravitational center toward which all temporal processes are drawn. History, in this view, is the aftershock of something that has already occurred in a higher temporal dimension.
-
-## Language as Shadow
-
-This leads to McKenna's provocative speculation about the nature of language itself.
-
-If the tryptamine state reveals a translinguistic reality — a domain where meaning is beheld rather than merely described — then ordinary language may be the shadow of a far more powerful hyperspatial ability.
-
-Language, in this reading, is not primarily a communication tool developed by social primates. It is a diminished, projected, externalized remnant of a cognitive capacity that once operated in three dimensions of meaning.
-
-McKenna asked: perhaps a human language is possible in which the intent of meaning is actually beheld in 3D space.
-
-## Plato's Moving Image of Eternity
-
-McKenna anchored this vision in Plato's *Timaeus*, where Plato describes time as "the moving image of eternity."
-
-The tryptamine ecstasy, for McKenna, is the act of stepping out of the moving image and into eternity directly — if only for a few minutes.
-
-Ordinary consciousness lives within the image. It mistakes the reflection for the real. The tryptamine experience cracks the frame and reveals the original.
-
-## Exteriorize the Soul, Internalize the Body
-
-McKenna's ultimate vision for the human future was stated with characteristic boldness:
-
-> "Exteriorize the soul and internalize the body."
-
-The final trajectory of human evolution, as he saw it, is the reversal of the primordial split between mind and matter. The soul — currently hidden, interior, inaccessible — becomes the primary reality. The body — currently solid, external, defining — is taken within.
-
-This is not mystification but a technological and cognitive projection based on the phenomenology of the tryptamine experience, which already offers a preview of this condition.
-
-## Borges and the Secret
-
-McKenna found powerful literary parallels in the work of Jorge Luis Borges, particularly two stories.
-
-"The Sect of the Phoenix" describes a secret society that possesses an ancient ritual passed down through all cultures and epochs. The nature of the secret is never revealed — only that it exists and that it binds all human beings together across time.
-
-"The Aleph" presents a point in space that contains all other points. Whoever gazes into it sees the entire universe simultaneously — every place, every moment, every object from every angle at once.
-
-Both stories serve as metaphors for the tryptamine Logos: a transhistorical, transspatial reality that is always present but almost never perceived.
-
-## The Noosphere and Self-Replicating Information
-
-McKenna placed these ideas within the broader framework of the noosphere — Teilhard de Chardin's concept of a planetary sphere of mind.
-
-The Logos, in this context, is not merely personal. It is an emergent property of the noosphere itself — a self-replicating information system that uses human consciousness as its substrate and tryptamine compounds as its interface.
-
-Language is the primary vehicle of this replication. Every act of speech, every written word, every thought structured in language participates in the self-propagation of the Logos through the noosphere.
-
-The tryptamine experience reveals this machinery directly.
+McKenna argued that dreams and hallucinations "arise at the quantum
+mechanical level." The sensitivity of hallucinogenic activity to single-
+atom substitutions on molecular rings demonstrates "the dynamic linkage
+at the formative level between quantum mechanically described matter and
+mind." DMT's structural similarity to serotonin (5-hydroxytryptamine)
+and psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is significant.
 
 ## See Also
-
-- **Noosphere** — Teilhard de Chardin's concept of a planetary mind.
-- **Eschatology** — The study of end times and final transformation.
-- **Hyperspace** — Higher-dimensional space as a model for psychedelic experience.
-
-## Key Sources
-
-- McKenna, Terence. "Tryptamine Hallucinogens and Consciousness." Lecture, 1990s.
-- Plato. *Timaeus*, 37d.
-- Borges, Jorge Luis. "The Sect of the Phoenix" (1952).
-- Borges, Jorge Luis. "The Aleph" (1945).
-- Teilhard de Chardin, Pierre. *The Phenomenon of Man* (1955).
+- [[shamanic-entheogenic-healing]]
+- [[tryptamine-hallucinogens-and-consciousness]].
+  *The Archaic Revival*. HarperSanFrancisco.
+- McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
+- Graves, R. (1948). *The White Goddess*. Faber & Faber.

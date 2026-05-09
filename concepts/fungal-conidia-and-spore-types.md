@@ -3,7 +3,7 @@ title: Fungal Conidia and Spore Types
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -113,12 +113,8 @@ Conidial fusion has been documented in several fungal species and represents an 
 
 ## Related Concepts
 
-- [[fungal-chlamydospore-formation-and-survival]]
 - [[fungal-sclerotia-and-resting-structures]]
-- [[fungal-melanin-in-ecology-and-stress-protection]]
-- [[fungal-spore-biology]]
 - [[fungal-spore-biology]]
 - [[fungal-spore-dispersal-animals-wind]]
-- [[fungal-communities-succession]]
 - [[fungal-biodiversity-by-ecosystem]]
 - [[fungal-ecosystem-processes-overview]]

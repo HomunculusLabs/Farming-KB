@@ -87,7 +87,9 @@ Citizen science platforms such as iNaturalist and Mushroom Observer have democra
 
 ## Related Topics
 
-- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]]
 - [[guzman-psilocybin-mushrooms-africa]]
-- [[neurotropic-fungi-mycologist-distribution-bias]]
 - [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
+
+## See Also
+
+- [[five-historical-periods-neurotropic-fungi-discovery-guzman-2000]]

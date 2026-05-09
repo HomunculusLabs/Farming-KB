@@ -11,24 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-
 
 Updated: 2026-04-18
 
-Compost is a whole universe of diverse [[lowenfels-earthworms-soil-food-web]] organisms. The numbers per teaspoon of finished compost are staggering:
-
-- Up to 1 billion bacteria
-- 400 to 900 feet (150-300 meters) of fungal hyphae
-- 10,000 to 50,000 protozoa
-- 30 to 300 nematodes
-- Plus microarthropods and sometimes earthworms
-
-By comparison, a teaspoon of good garden soil contains about 100 million to 1
-billion bacteria, several yards of fungal hyphae, several thousand protozoa,
-and 40-50 nematodes. Compost is far more biologically concentrated than even
-the best garden soil.
-
-## Bacterial vs Fungal Compost
-
-Not all composts are the same. By controlling inputs, you can make compost
-that is either bacterially dominated or fungally dominated -- critical because
-different plants prefer different nitrogen forms (see [[bacterial-vs-fungal-soil-dynamics]]).
+Compost is a whole universe of diverse [[bacterial-vs-fungal-soil-dynamics]]).
 
 ### Bacterial Compost
 
@@ -96,13 +79,11 @@ Successful composting requires:
   alcohols toxic to plants at just 1 ppm)
 - Organic materials with appropriate C:N ratio (around 30:1 is ideal)
 
-See also: [[compost-tea-brewing]], [[bacterial-vs-fungal-soil-dynamics]],
-[[mulch-types-effects-soil-biology]], [[earthworm-ecology]],
-[[bokashi-compost-method]], [[decomposition]],
-[[mollison-pdc-sheet-mulching-versus-composting]],
+See also: [[bacterial-vs-fungal-soil-dynamics]],
+[[earthworm-ecology]],
+[[decomposition]],
 [[actinomycetes-soil-biology]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-compost-mulch-tea]]
 - [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]

@@ -2,14 +2,14 @@
 title: Marasmius oreades
 created: 2026-04-28
 type: species
-tags: [mycology, identification, gourmet-mushrooms, marasmius]
+tags: [[mycology, identification, gourmet-mushrooms, marasmius]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 # Marasmius oreades
 
-Marasmius oreades, commonly known as the Fairy Ring Mushroom or Scotch Bonnet, is a small but highly prized edible mushroom famous for growing in rings or arcs on lawns, pastures, and grasslands. One of the most widely recognized mushroom species due to its fairy ring growth pattern, it has been collected as food for centuries across Europe and North America. Despite its small size, it is valued for its ability to be dried and reconstituted while retaining excellent flavor. See [[agaricus-campestris]] for another common grassland species and [[coprinus-comatus-detailed]] for another lawn-inhabiting mushroom.
+Marasmius oreades, commonly known as the Fairy Ring Mushroom or Scotch Bonnet, is a small but highly prized edible mushroom famous for growing in rings or arcs on lawns, pastures, and grasslands. One of the most widely recognized mushroom species due to its fairy ring growth pattern, it has been collected as food for centuries across Europe and North America. Despite its small size, it is valued for its ability to be dried and reconstituted while retaining excellent flavor. See [[coprinus-comatus-detailed]] for another lawn-inhabiting mushroom.
 
 ## Taxonomy and Description
 
@@ -42,7 +42,7 @@ The fairy ring phenomenon is caused by the underground mycelium of M. oreades gr
 - **Mycelial growth:** The mycelium grows through the soil, decomposing organic matter and releasing nitrogen. This often causes the grass inside the ring to grow greener and taller.
 - **Ring expansion:** Rings can grow several centimeters per year and may persist for decades or centuries. Very large fairy rings (hundreds of meters) have been documented.
 - **Soil effects:** Three zones are typically visible: (1) darker green grass stimulated by nitrogen release, (2) a zone of dead or stressed grass where the mycelium is most active, and (3) the zone of mushrooms themselves.
-- **Multiple species:** Other fungi also form fairy rings, including [[lepiota-procera]], [[agaricus-campestris]], and various puffball species.
+- **Multiple species:** Other fungi also form fairy rings, including [[agaricus-campestris]], and various puffball species.
 
 ## Identification Notes
 
@@ -76,75 +76,12 @@ M. oreades is considered an excellent edible despite its small size:
 
 M. oreades is a saprotrophic grassland species that decomposes organic matter in soil:
 
-- Forms extensive underground [[fungal-resource-translocation-in-mycelial-networks]]
-- Decomposes thatch and other organic matter in lawns and pastures
-- Contributes to nitrogen cycling in [[biodiversity-fungi-grassland-ecosystems]]
+- Forms extensive underground [[biodiversity-fungi-grassland-ecosystems]]
 - The fairy ring growth pattern demonstrates the remarkable longevity and persistence of fungal mycelium
 - Interacts with grass root systems, sometimes stimulating grass growth through nitrogen release
 
 ## Medicinal Properties
 
-Research on M. oreades has identified several [[cordyceps-cancer-bioactive-compounds]]:
-
-- **Marasmin** — an antibacterial compound isolated from this species
-- **Anti-inflammatory properties** — some studies suggest anti-inflammatory effects
-- **Antimicrobial activity** — extracts have shown activity against various microorganisms
-- Further research is needed to fully characterize its medicinal potential
-
-## Collection and Preservation
-
-M. oreades collection and preservation are well-documented in European foraging traditions:
-
-- **Collection method:** Cut mushrooms at the base with a knife or pinch off at soil level. Avoid pulling up the mycelial mat. Collect in paper bags or baskets (not plastic, which causes condensation and rapid deterioration).
-- **Cleaning:** Brush off grass and soil debris. A soft brush or damp cloth works well. Avoid washing if possible, as the mushrooms absorb water and become soggy. If washing is necessary, do it quickly just before cooking.
-- **Drying:** One of the best mushrooms for drying. Thread caps on a string and hang in a warm, dry, well-ventilated location. Alternatively, use a food dehydrator at 95-110°F (35-43°C). Properly dried specimens keep for years.
-- **Reconstitution:** Soak dried mushrooms in warm water for 20-30 minutes. The soaking liquid makes an excellent stock. Reconstituted mushrooms closely approximate fresh ones in texture and flavor.
-- **Pickling:** A traditional preservation method in Eastern Europe. Pickled Fairy Ring Mushrooms are a delicacy in Poland, Czech Republic, and Slovakia.
-- **Freezing:** Can be frozen after brief sauteing, though drying is generally preferred.
-
-## Historical and Cultural Significance
-
-The Fairy Ring Mushroom has a rich cultural history:
-
-- **Folklore:** Fairy rings have been associated with supernatural folklore across European cultures for centuries. In Celtic traditions, they were believed to be caused by fairies dancing in circles. Stepping inside a fairy ring was considered unlucky or even dangerous in some traditions.
-- **Culinary history:** One of the oldest known edible mushrooms in Europe. References to fairy ring mushroom collection appear in medieval texts and herbals. In many European countries, the seasonal appearance of fairy rings was an anticipated food event.
-- **Economic importance:** In rural communities before modern food distribution, fairy ring mushrooms were an important seasonal food source, particularly because they dried well for winter use.
-- **Scientific study:** Fairy ring formation was one of the first fungal growth phenomena studied scientifically, contributing to early understanding of fungal mycelium and its role in ecosystems.
-
-## Seasonal Phenology
-
-M. oreades follows a predictable seasonal pattern:
-
-- **First emergence:** Typically appears in late spring or early summer (May-June) in warmer regions
-- **Peak season:** August through October is the peak fruiting period across most of its range
-- **Late season:** Can continue fruiting into November during mild autumns
-- **Multi-flush:** Individual fairy ring locations may produce multiple flushes per season, typically 2-4 weeks apart
-- **Rain dependence:** Adequate rainfall is the primary trigger for fruiting. Dry summers result in poor or absent fruitings
-- **Temperature range:** Fruits when soil temperatures are between 50-70°F (10-21°C)
-
-## Comparison with Other Grassland Mushrooms
-
-Several mushroom species share grassland habitats with M. oreades:
-
-| Species | Key Feature | Edibility | Spore Print |
-|---------|-------------|-----------|-------------|
-| M. oreades | Distant gills, fairy rings | Excellent edible | White |
-| Agaricus campestris | Pink to brown gills | Edible | Brown |
-| [[psilocybe-semilanceata]] | Conical cap, blue bruising | Psychoactive | Purple-brown |
+Research on M. oreades has identified several [[psilocybe-semilanceata]] | Conical cap, blue bruising | Psychoactive | Purple-brown |
 | Clitocybe dealbata | Crowded gills, white cap | Toxic (muscarine) | White |
-| [[panaeolus-foenisecii-taxonomy-debate]] | Dark gills, mottled cap | Inedible | Black |
-| Coprinus comatus | Shaggy, inky deliquescence | Excellent edible | Black |
-
-## Nutritional Value
-
-M. oreades is a nutritious food source with some unique advantages:
-
-- **Protein:** Approximately 20-30% dry weight, with a favorable amino acid profile
-- **Vitamins:** Rich in B vitamins, particularly riboflavin (B2) and niacin (B3)
-- **Minerals:** Good source of potassium, phosphorus, selenium, and copper
-- **Fiber:** Contains both soluble and insoluble dietary fiber
-- **Calories:** Very low calorie, approximately 20 calories per 100 grams fresh weight
-- **Drying retention:** Unlike many mushrooms, M. oreades retains most of its nutritional value and flavor when dried
-## See Also
-
-- [[agaricus-campestris]] — Meadow Mushroom, common grassland species
+| [[agaricus-campestris]] — Meadow Mushroom, common grassland species

@@ -84,14 +84,8 @@ Most synthetic fertilizers emphasize N-P-K ratios, but this can create imbalance
 
 ## Related Topics
 
-- [[plant-micronutrients-and-their-essential-functions]]
-
 - [[adenosine-triphosphate-and-cellular-energy]] -- how phosphorus powers cellular processes
-- [[plant-enzymes-and-cofactors]] -- nitrogen's role in enzyme construction
 - [[photosynthesis-and-chloroplast-function]] -- nitrogen and magnesium in chlorophyll
-- [[von-liebig-law-of-the-minimum-and-fertilizer-history]] -- how NPK focus developed
-
 - [[plant-cellulose-and-carbohydrate-chemistry]]
 
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

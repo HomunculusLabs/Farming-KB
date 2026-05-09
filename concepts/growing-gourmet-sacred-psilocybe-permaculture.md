@@ -98,44 +98,6 @@ C) and after the first heavy rains.
 P. cubensis is the primary species for indoor cultivation, using
 grain spawn and cased substrates. This species is not native to
 the Pacific Northwest but thrives in tropical and subtropical
-climates. See [[gottlieb-psilocybin-cultivation-grain-spawn-production]] for detailed procedures.
-
-## Permaculture Integration
-
-The permaculture model can incorporate Psilocybe species in
-landscaped areas where wood chips are already used as mulch.
-Their role as pioneer decomposers means they accelerate the
-breakdown of woody debris, contributing nutrients back to the
-soil food web. Some cultivators deliberately establish Sacred
-Psilocybe patches in designated areas of their property.
-
-The permaculture strategy for mushroom integration should also
-include Mushroom Response Teams (MRTs) which could react quickly
-to catastrophic natural disasters -- hurricanes, tornadoes,
-floods -- in the profitable recycling of the enormous debris
-fields they generate.
-
-## Safety and Legal Considerations
-
-Many Psilocybe species contain psilocybin and psilocin, which are
-controlled substances in many jurisdictions. Cultivators should be
-aware of local laws. Accurate identification is essential; several
-lookalike species in the genera Galerina and Inocybe contain
-dangerously toxic amatoxins.
-
-## Temperature Parameters
-
-Most Pacific Northwest Psilocybe species are cool-weather fruiters:
-- Mycelial growth: 70-80 degrees F (21-27 degrees C)
-- Primordia initiation: 50-55 degrees F (10-13 degrees C)
-- Fruitbody development: 50-60 degrees F (10-15 degrees C)
-- P. cubensis prefers warmer temperatures: 75-85 degrees F (24-29
-  degrees C) throughout all phases
-
-## Related Topics
-
-- [[growing-gourmet-mushroom-life-cycle]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
+climates. See [[growing-gourmet-mushroom-life-cycle]]
 - [[growing-gourmet-contamination-prevention]]
-- [[growing-gourmet-stock-culture-library]]
 - [[growing-gourmet-strain-selection]]

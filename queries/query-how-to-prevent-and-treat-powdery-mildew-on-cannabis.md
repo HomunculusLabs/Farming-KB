@@ -31,11 +31,7 @@ Catching powdery mildew early is critical to saving your crop. The infection pro
 2. **Mid stage:** Spots gradually expand and merge, covering larger areas of the leaf surface
 3. **Late stage:** Infected leaves curl, yellow, and die back; infection may spread to buds
 
-If powdery mildew reaches the buds during flowering, it can render the entire harvest unusable. Inhaling or consuming moldy cannabis poses serious health risks including respiratory infections. See [[query-how-to-identify-and-treat-bud-rot-on-cannabis]] for distinguishing powdery mildew from bud rot, which presents differently.
-
-### Environmental Prevention
-
-Environmental control is the first and most important line of defense. The [[cannabis-mold-and-mildew-prevention]] guide emphasizes several key practices:
+If powdery mildew reaches the buds during flowering, it can render the entire harvest unusable. Inhaling or consuming moldy cannabis poses serious health risks including respiratory infections. See [[cannabis-mold-and-mildew-prevention]] guide emphasizes several key practices:
 
 - Maintain relative humidity **below 50%** during flowering
 - Ensure strong air circulation with oscillating fans and proper exhaust ventilation
@@ -47,9 +43,7 @@ Large temperature drops cause humidity spikes through dew point condensation, wh
 
 ### Organic Sprays and Foliar Treatments
 
-For organic prevention during vegetative growth, neem oil foliar sprays provide a reliable protective barrier. The [[cervantes-neem-oil-organic-pest-control]] protocol recommends applying a 0.5% neem oil solution with a few drops of dish soap as an emulsifier every 7–10 days.
-
-However, neem oil should **not** be applied during flowering as it can negatively affect taste and aroma. Growers seeking a broader organic approach should review [[query-how-to-control-pests-without-chemicals]] for additional options.
+For organic prevention during vegetative growth, neem oil foliar sprays provide a reliable protective barrier. The [[query-how-to-control-pests-without-chemicals]] for additional options.
 
 Potassium bicarbonate sprays at 0.3% concentration are another excellent option. They raise leaf surface pH above the range where powdery mildew spores can germinate, offering strong protection without residue concerns on finished buds.
 
@@ -63,7 +57,7 @@ When active infection is detected, immediate action is critical. Follow these st
 4. **Monitor daily** for recurrence over the following two weeks
 5. **Never compost** moldy plant material — spores survive composting
 
-The [[cervantes-powdery-mildew-prevention-treatment]] guide recommends commercial products like GreenCure or Safer's Defender, which contain potassium bicarbonate as the active ingredient. For growers following [[jadam-pesticide-for-powdery-mildew]] methods, a diluted Jadam Natural Pesticide (JNP) spray combined with Jadam Wetting Agent provides effective suppression using fermented plant extracts and indigenous microorganisms.
+The [[jadam-pesticide-for-powdery-mildew]] methods, a diluted Jadam Natural Pesticide (JNP) spray combined with Jadam Wetting Agent provides effective suppression using fermented plant extracts and indigenous microorganisms.
 
 ### Treatment Comparison
 
@@ -76,22 +70,7 @@ The [[cervantes-powdery-mildew-prevention-treatment]] guide recommends commercia
 
 ### Biological Controls
 
-Biological controls offer a sustainable long-term defense. [[cervantes-trichoderma-beneficial-fungi]] demonstrates that *Trichoderma harzianum* applied as a soil drench or foliar spray can outcompete powdery mildew on leaf surfaces and stimulate the plant's own immune defenses through induced systemic resistance.
-
-Some growers also use products containing *Bacillus subtilis*, a beneficial bacterium that colonizes leaf surfaces and produces antifungal compounds. These biological approaches can be integrated into a broader cannabis pest management strategy alongside environmental controls and organic sprays.
-
-Key advantages of biological controls include:
-
-- They establish ongoing protection rather than one-time treatment
-- They do not leave harmful residues on consumable buds
-- They improve overall plant health and root zone biology
-- They are safe to use throughout all growth stages including flowering
-
-### Post-Harvest Considerations
-
-Post-harvest, thorough drying and curing at proper humidity levels (around 60% RH) prevents powdery mildew from developing on stored buds. If any buds show signs of mold during curing, they must be discarded immediately rather than trimmed, as fungal mycelium can extend well beyond the visible infection.
-
-Yellowing leaves during growth can sometimes indicate early stress that makes plants more susceptible to fungal infection. Refer to [[query-what-causes-cannabis-leaves-to-turn-yellow]] for diagnosing underlying issues that may compromise plant immunity.
+Biological controls offer a sustainable long-term defense. [[query-what-causes-cannabis-leaves-to-turn-yellow]] for diagnosing underlying issues that may compromise plant immunity.
 
 ## Key Points
 
@@ -106,8 +85,5 @@ Yellowing leaves during growth can sometimes indicate early stress that makes pl
 
 ## Related
 
-- [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] Questions
-
 - [[query-how-to-identify-and-treat-bud-rot-on-cannabis]]
-- [[query-how-to-control-pests-without-chemicals]]
 - [[query-what-causes-cannabis-leaves-to-turn-yellow]]

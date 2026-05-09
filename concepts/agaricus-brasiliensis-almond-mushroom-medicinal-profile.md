@@ -3,16 +3,7 @@ title: Agaricus Brasiliensis (Almond Mushroom) — Medicinal Profile
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-
-**Source:** Mycelium Running (Paul Stamets) | **Updated:** 2026-04-18
-
-## Overview
-
-Formerly called Agaricus blazei, the regal A. brasiliensis is a popular medicinal mushroom with a strong almond flavor. Originally collected in Brazil and brought to prominence by Japanese mycologists, it has become one of the most commercially significant medicinal mushrooms worldwide. See also [[antiviral-properties-of-mushrooms]], [[mycoremediation-species-selection-guide]], and [[medicinal-mushroom-extraction-preparation]].
+tags: [[antiviral-properties-of-mushrooms]], [[medicinal-mushroom-extraction-preparation]].
 
 ## Taxonomy
 
@@ -90,13 +81,9 @@ One of the most protein-rich of all cultivated mushrooms (33-48% protein by dry 
 
 ## Related Topics
 
-- [[antiviral-properties-of-mushrooms]]
 - [[mycoremediation-species-selection-guide]]
-- [[medicinal-mushroom-extraction-preparation]]
 - [[chaga-inonotus-obliquus-medicinal-profile]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[medicinal-mushroom-cardiovascular-cholesterol-research]]
 
 ## See Also

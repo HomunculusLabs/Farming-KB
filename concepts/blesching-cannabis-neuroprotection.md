@@ -9,9 +9,7 @@ sources:
 type: concept
 ---
 
-# [[cannabis-and-neuroprotection]]
-
-[[cannabis-health-index]] (CHI) score: **11** (out of 100)
+# [[cannabis-health-index]] (CHI) score: **11** (out of 100)
 Based on **4 clinical studies** reviewed by Blesching.
 
 Neuroprotection refers to the preservation of neuronal structure and
@@ -106,14 +104,8 @@ with preliminary human data:
 The neuroprotective properties of cannabinoids have implications across
 multiple conditions reviewed in Blesching's work:
 
-- [[blesching-cannabis-stroke]] - reduction of infarct volume and
-  post-ischemic neuronal death
 - [[blesching-cannabis-alzheimers-disease]] - protection against
   amyloid-beta toxicity and tau pathology
-- [[blesching-cannabis-parkinsons-disease]] - preservation of
-  dopaminergic neurons
-- blesching cannabis tbi - mitigation of secondary brain injury
-  following trauma
 - [[cannabis-for-epilepsy-and-seizure-disorders]] - protection against seizure-induced
   neuronal damage
 

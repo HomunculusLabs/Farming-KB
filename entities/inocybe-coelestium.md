@@ -107,12 +107,9 @@ The legal status of *Inocybe coelestium* varies by jurisdiction. In most Europea
 In Germany and France, psilocybin and psilocin are controlled substances under national drug laws, and possession of psilocybin-containing mushrooms — including *I. coelestium* — may be prosecuted accordingly. Researchers studying this species should ensure compliance with all applicable local and national regulations regarding collection, transport, and possession of psychoactive fungi.
 Under the 1971 United Nations Convention on Psychotropic Substances, psilocybin and psilocin are listed in Schedule I, which may affect international transport of specimens for research purposes regardless of domestic laws in the country of origin.
 ## See Also
-- [[inocybe-haemacta]] — closely related neurotropic Inocybe species
-- [[inocybe-tricolor]] — another psilocybin-containing Inocybe from Europe
-- [[inocybe-calamistrata]] — common toxic lookalike containing muscarine
-- [[psilocybin-compound]] — primary psychoactive compound found in the species
-- [[muscarine]] — toxic alkaloid found in many Inocybe species, the key danger
-- [[amanita-muscaria]] — another muscarine-containing toxic mushroom for comparison
+- [[archaeology-of-psychedelic-mushroom-use]] — another psilocybin-containing Inocybe from Europe
+- [[psilocybin]] — primary psychoactive compound found in the species
+- [[amanita-muscaria-entity]] — another muscarine-containing toxic mushroom for comparison
 ## References
 1. Guzmán G, Allen JW, Gartz J. *World Wide Distribution of Magic Mushrooms*. 2nd ed.
 2. Stamets P, Gartz J. *Psilocybin Mushrooms of the World*. Ten Speed Press.

@@ -4,31 +4,15 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 
 # Laccase Mediator System Dye Decolorization
 
 Updated: 2026-04-18
 
-Laccase-mediator systems (LMS) enhance the oxidation capabilities of [[ligninolytic-enzyme-production-bioremediation]] for dye decolorization by employing low-molecular-weight compounds (mediators) that act as electron shuttles between the enzyme and otherwise recalcitrant substrates. This approach expands the range of dyes that can be degraded beyond the natural substrate specificity of laccase alone.
-
-## Principle of Laccase-Mediator Systems
-
-laccase mediator system dye is a multicopper oxidase that directly oxidizes phenolic compounds but has limited ability to oxidize non-phenolic substrates, which constitute the majority of synthetic dyes. Mediators bridge this gap through a cyclic redox mechanism:
-
-1. Laccase oxidizes the mediator to a high-redox-potential radical intermediate
-2. The mediator radical diffuses away from the enzyme active site and oxidizes the non-phenolic substrate
-3. The mediator is regenerated to its reduced form, allowing catalytic turnover
-4. Each mediator molecule can facilitate oxidation of multiple substrate molecules
-
-## Key Mediator Compounds
-
-### 1-Hydroxybenzotriazole (HBT)
-
-HBT is the most widely studied synthetic mediator for dye decolorization:
-
-- Effective for [[turkey-tail-trametes-versicolor]] laccase decolorization of azo and anthraquinone dyes
+Laccase-mediator systems (LMS) enhance the oxidation capabilities of [[turkey-tail-trametes-versicolor]] laccase decolorization of azo and anthraquinone dyes
 - One of the first mediators applied to dye decolorization (Bourbonnais and Paice 1990)
 - Produces an HBT radical that oxidizes dyes at electrode potentials above the direct laccase oxidation limit
 - Optimal HBT concentration typically ranges from 0.1 to 5 mM depending on dye type and concentration
@@ -98,16 +82,7 @@ Whole-fungus systems generally outperform isolated enzyme systems for dye decolo
 
 ## Related Topics
 
-- [[ligninolytic-enzyme-production-bioremediation]]
 - [[fungal-dye-decolorization-factors]]
-- [[fungal-textile-dye-effluent-decolorization]]
 - [[white-rot-fungi-effluent-decolorization]]
-- [[ligninolytic-enzyme-production-bioremediation]]
-
-## Sources
-
-- Singh, Harbhajan. Mycoremediation: Fungal Bioremediation. Ch. 10.
-- Knapp, J.S., Vantoch-Wood, E.J., and Zhang, F. Wood-Rotting Fungi for Decolorization (Staycare source).
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[wood-rotting-fungi-for-effluent-decolorization]]
 - [[fungal-laccase-and-textile-dye-decolorization]]

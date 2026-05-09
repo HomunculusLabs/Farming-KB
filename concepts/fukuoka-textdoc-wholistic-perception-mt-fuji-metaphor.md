@@ -140,8 +140,6 @@ probably triggered by some human mistake.
 
 ## See Also
 
-- [[fukuoka-how-nature-should-be-perceived]]
 - [[fukuoka-nature-perfect-imperfect]]
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
 - [[fukuoka-nature-transcends-human-knowledge]]
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]

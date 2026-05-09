@@ -108,14 +108,9 @@ In conventional agriculture, the dualistic framework separates crops from pests,
 
 ## See Also
 
-- [[jadam-sese-philosophy]] -- the SESE framework
 - [[jadam-natural-farming-philosophy]] -- broader JADAM philosophy
-- [[jadam-nature-as-teacher-philosophy]] -- nature as the teacher
 - [[jadam-do-as-nature-does-philosophy]] -- the first principle
-- [[jadam-natural-pesticide-philosophy]] -- microbial diversity in practice
 - [[jadam-microorganism-solution-jms]] -- embracing total microbial diversity
-- [[jadam-nutritional-balance-fertilizer]] -- balance in fertilization
-
 - [[jadam-leaf-mold-soil-method]]
 
 - [[jadam-plastic-mulch-problems]]

@@ -76,11 +76,7 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 
 ## See Also
 
-- [[dmt-dimethyltryptamine-experience-guide]] — DMT experience guide
 - [[dmt-smoking-and-administration-methods]] — DMT administration
-- [[harmala-alkaloids-and-ayahuasca-preparation]] — harmala alkaloids
 - [[ketamine-psychedelic-journey-guide]] — ketamine
-- [[psychedelic-safety-and-harm-reduction]] — safety
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[psychedelic-harm-reduction]]
 - [[turner-psychedelic-combination-experience-reports]]

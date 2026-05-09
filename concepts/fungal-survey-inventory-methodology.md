@@ -111,22 +111,6 @@ should be taxonomically stable, well known, readily surveyed,
 sensitive to disturbances, and widely distributed. Compared with
 vertebrates and plants, macrofungi are poorly known taxonomically
 and their natural histories are poorly known. However,
-[[fungal-ecosystem-indicator-species]]
-can be valuable for monitoring air pollution, logging impacts,
-and other disturbances.
-
-## Data Management
-
-Archiving of data and careful documentation of sites and methods
-are priorities for any survey program. One should consider the
-documentation required to facilitate repetition of a study at a
-site 20 years in the future and plan accordingly. Voucher
-specimens are essential for addressing taxonomic problems and
-authenticating the taxa being monitored.
-
-## See Also
-
-- [[fungal-beta-diversity-species-turnover]]
-- [[soil-quality-fungal-bioindicators]]
+[[fungal-beta-diversity-species-turnover]]
 - [[fungal-monitoring-long-term-studies]]
 - [[fungal-biodiversity-forest-floor]]

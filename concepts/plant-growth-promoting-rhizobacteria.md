@@ -123,8 +123,8 @@ applications, co-inoculation with compatible strains, and use of strains
 adapted to specific crops improve persistence. In cannabis, PGPR products
 containing Bacillus and Pseudomonas species are increasingly integrated into
 both soil and hydroponic production systems.
-See also: [[cannabis-root-microbiome]], [[rhizosphere-ecology]],
-biological control agents, [[endophytes-in-cannabis]], [[soil-health-and-management]]
+See also: [[rhizosphere-ecology]],
+biological control agents, [[soil-health-and-management]]
 
 ## See Also
 

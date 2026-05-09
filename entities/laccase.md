@@ -50,12 +50,7 @@ Mediators are low-molecular-weight compounds that act as electron shuttles, exte
   * **TEMPO** (2,2,6,6-tetramethylpiperidine-1-oxyl) — stable nitroxyl radical mediator
 
 * **Natural mediators:**
-  * **Methyl syringate** — derived from lignin [[agricultural-waste-substrates]]t in fungal cultures
-  * **Acetosyringone** — phenolic compound from plant material
-  * **Violuric acid** — naturally occurring oxidation product
-  * **p-Coumaric acid and ferulic acid** — plant phenolics present in agricultural waste substrates
-
-## Production by White-R[[pleurotus-ostreatus]]ipal Laccase-Producing Species
+  * **Methyl syringate** — derived from lignin [[pleurotus-ostreatus]]ipal Laccase-Producing Species
 
 * **Trametes versicolor** — model laccase producer; yields up to 50,000 U/L in optimized submerged fermentation
 * **Trametes hirsuta** — high laccase yields with broad substrate specificity
@@ -115,6 +110,5 @@ Immobilized laccase preparations (on alginate beads, chitosan, silica, or activa
 
 ## See Also
 
-* [[trametes-versicolor]] — Premier laccase-producing white-rot fungus
 * [[pleurotus-pulmonarius]] — Thermotolerant laccase producer for tropical bioremediation
 * [[fungal-manganese-peroxidase-remediation]] — Complementary ligninolytic peroxidase enzyme

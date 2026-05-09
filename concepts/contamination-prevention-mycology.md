@@ -1,7 +1,7 @@
 ---
 title: Contamination Prevention in mycology
 created: 2026-04-28
-tags: [mycology, contamination, sterile-technique, cultivation]
+tags: [[mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -20,73 +20,10 @@ far more effective than remediation after contamination occurs.
 
 Contaminants enter cultivation workflows through four primary vectors:
 
-**Airborne [[spore]]s:** Mold spores (*Aspergillus*, *Penicillium*, *Trichoderma*,
-*Mucor*) are ubiquitous in indoor environments and can settle on exposed
-substrates or enter through filter patches. Concentrations vary seasonally,
-with higher spore loads in summer and autumn. Airborne contamination is the
-most common vector and the primary reason sterile technique emphasizes air
-quality management.
-
-**Improperly sterilized substrate:** Grain substrates that are not heated to
-121 degrees C for sufficient duration harbor surviving endospores of bacteria
-like *Bacillus subtilis* and mold spores. Large substrate masses require
-longer sterilization times because heat penetration is slow. Insufficient
-sterilization is particularly common with large bags and dense substrates.
-
-**Contaminated inoculant:** Spore syringes, [[agar]] cultures, or liquid cultures
+**Airborne [[agar]] cultures, or liquid cultures
 that carry hidden contamination introduce it directly into fresh substrate.
 This is especially insidious because it appears as vigorous growth initially
-but contaminant organisms outcompete the [[mycelium]] over time. Testing inoculant
-on a small "test jar" before large-scale inoculation is a prudent precaution.
-
-**The cultivator:** Skin, hair, breath, and clothing carry bacteria and mold
-spores. Talking over open containers, working in contaminated clothing, or
-failing to wash hands and forearms introduces organisms. Wearing gloves, a
-hair net, and a face mask during sterile work significantly reduces this
-vector.
-
-## Sterile Technique Essentials
-
-**Laminar flow hood (LFH):** A HEPA-filtered laminar flow hood is the gold
-standard for aseptic mycological work. It provides a curtain of sterile air
-flowing over the work surface at 0.3-0.5 m/s, preventing airborne contaminants
-from settling on exposed substrates. All open-container work (agar transfers,
-jar inoculation, grain-to-grain transfers) should be performed inside the hood
-with the sash at the proper height.
-
-**Still-air box (SAB):** A simple alternative for hobbyists, the still-air box
-is a sealed container with arm holes that eliminates air currents. While less
-effective than a flow hood, a SAB dramatically reduces contamination rates
-compared to open-air technique. The interior should be wiped with 70% isopropyl
-alcohol before each use, and all tools should be sterilized before being
-placed inside.
-
-**Flaming:** Metal tools (scalpels, inoculation loops, jar lips) are sterilized
-by passing through a flame until red-hot, then cooled before contact with
-substrate or mycelium. This kills all organisms on the tool surface.
-
-**70% isopropyl alcohol:** Surfaces, gloves, and container exteriors are
-sanitized with 70% isopropyl alcohol (not 90%+, which evaporates too quickly
-to be effective). Alcohol kills vegetative cells but does not reliably kill
-spores; it reduces spore load rather than eliminating it entirely.
-
-## Identifying Common Contaminants
-
-**Trichoderma (green mold):** The most devastating contaminant in mushroom
-cultivation. It appears as a fast-growing white mold that rapidly turns green
-as spores mature. Trichoderma produces antifungal compounds that kill mycelium
-on contact. Once sporulated, it fills the air with spores that contaminate
-nearby cultures. Infected jars or bags should be removed immediately and
-disposed of outdoors.
-
-**Bacterial contamination:** *Bacillus* species cause "wet spot," a slimy,
-foul-smelling area in grain jars. Bacterial contamination often results from
-insufficient sterilization or contaminated inoculant. Affected grain appears
-wet, discolored (tan to dark brown), and has a sour or rotten smell.
-
-**Aspergillus:** Produces yellow, green, blue-green, or black powdery
-colonies. *Aspergillus niger* is black; *A. flavus* is yellow-green. Some
-species produce [[mycotoxins]]. Aspergillus contamination is common on grain and
+but contaminant organisms outcompete the [[mycotoxins]]. Aspergillus contamination is common on grain and
 on substrates with excess nitrogen.
 
 **Cobweb mold (Dactylium):** A fine, grayish-white mold that resembles
@@ -125,4 +62,23 @@ Trichoderma-contaminated material should be disposed of far from the
 cultivation area. Quarantining new cultures for observation before introducing
 them to the main cultivation area prevents outbreaks from spreading.
 
-See also: [[spawn-grain-preparation]], [[comparison-laminar-flow-hood-vs-fruiting-chamber]], [[pasteurization-vs-sterilization]], [[agar-culture-and-isolation]], [[comparison-agar-vs-liquid-culture]]
+See also: [[comparison-laminar-flow-hood-vs-fruiting-chamber]], [[agar-culture-and-isolation]], [[cervantes-cannabis-contamination-prevention]]
+## Practical Considerations
+
+Successful implementation of Contamination Prevention in mycology requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

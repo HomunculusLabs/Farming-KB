@@ -63,50 +63,27 @@ Example: A 40-inch (1 m) tall plant can transpire a gallon (4 L) per day when hu
 
 ### Extreme Humidity Effects
 
-- Above 80%: Discourages [[spider-mites-cannabis]] but promotes [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and root/stem rot
-- Below 60%: Reduces chances of [[powdery-mildew-cannabis]] and rot
-- Below 50%: Most fungi grow poorly or not at all
-
-## Temperature and Humidity Interaction
-
-- Relative humidity increases when temperature drops at night
-- Greater temperature variation means greater humidity variation
-- Supplemental heat or extra ventilation is necessary at night if temperatures fluctuate more than 15°F (8°C)
-- CO2 generators produce humidity-increasing water vapor as a by-product
-
-## Humidity Control Methods
-
-### Ventilation
-- A vent fan is the easiest and least expensive humidity control device
-- A vent fan attached to a humidistat provides automatic control
-- One grow room with no vent fan had humidity near 100% — roots grew from plant stems; installing a vent fan dropped humidity to 50% and mold disappeared
-
-### Dehumidifiers
-- Relatively inexpensive and readily available
-- Draw extra electricity
-- Condensed water must be removed daily
-- Do a good job of keeping humidity under control in enclosed rooms
-
-### Air Conditioning
-- Most air conditioners can be set to a specific humidity level
-- Central HVAC vents can control temperature and lower humidity
-
-### Heating
-- Wood, coal, and electric heat all dry and dehumidify air
-
-## Measuring Humidity
-
-- Use a maximum/minimum digital hygrometer
-- Measures both current humidity and records high/low readings
-- Place hygrometers at multiple locations in the grow room
-- Check readings regularly
-
-## See Also
-
-- [[heat-stress-cannabis]] — temperature management in cannabis
-- [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] — humidity-driven fungal disease
+- Above 80%: Discourages [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and root/stem rot
+- Below 60%: Reduces chances of [[heat-stress-cannabis]] — temperature management in cannabis
 - [[powdery-mildew-cannabis]] — fungal disease promoted by high humidity
-- [[cannabis-pest-management-guide]] — environmental controls for pest prevention
 - [[cannabis-grow-room-setup]] — environmental design considerations
-- [[stomata-transpiration-and-plant-water-regulation]]
 - [[cannabis-mold-and-mildew-prevention]]
+## Practical Considerations
+
+Successful implementation of Humidity in Cannabis Growing requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

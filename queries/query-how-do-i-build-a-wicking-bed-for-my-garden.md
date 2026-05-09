@@ -25,14 +25,9 @@ sources:
     url: "https://www.fao.org/"
 type: query
 ---
-
 ## What Is a Wicking Bed?
 
-A wicking bed is a self-watering raised garden bed that uses **sub-irrigation** via capillary action. Water is stored in a sealed reservoir at the bottom of the bed and drawn upward into the root zone through wicking materials — exactly like a candle wick draws wax. This approach reduces water use by **50–80%** compared to conventional top-watering, making it one of the most water-efficient garden systems available.
-
-## Benefits of Wicking Beds
-
-- **Water conservation** — far less evaporation; ideal for drought-prone and hot climates
+A wicking bed is a self-watering raised [[water-conservation]]** — far less evaporation; ideal for drought-prone and hot climates
 - **Consistent moisture** — roots access water on demand, reducing plant stress
 - **Reduced watering frequency** — refill weekly to monthly instead of daily
 - **Less surface weed growth** — dry surface mulch discourages weed germination
@@ -46,104 +41,68 @@ Every wicking bed shares these essential components:
 1. **Waterproof container** — holds water without leaking
 2. **Water reservoir** (bottom third) — stores water for capillary uptake
 3. **Overflow drain** — prevents waterlogging by letting excess water escape
-4. **Wicking material** — bridges the reservoir and growing media
-5. **Growing media** (top two-thirds) — where plant roots live
-6. **Separation layer** — geotextile fabric between reservoir and soil
-7. **Fill pipe** — vertical pipe for refilling the reservoir
+4. **Wicking material** — bridges the reservoir [[david-holmgren]]
+- [[water-conservation]]
 
-## Materials List
-
-| Item | Details |
-|------|---------|
-| Bed frame | Timber (untreated hardwood or sleepers) or corrugated iron, minimum 300 mm deep |
-| Waterproof liner | EPDM pond liner or heavy-duty 1000-gauge polyethylene plastic |
-| Fill pipe | 90–100 mm PVC pipe, vertical, with threaded cap |
-| Water distribution pipe | 50 mm ag-pipe or slotted drainage pipe |
-| Reservoir fill | Scoria, gravel, or expanded clay pellets (100–150 mm depth) |
-| Geotextile fabric | Non-woven weed mat / landscape fabric to separate layers |
-| Wicking layer | Coconut coir, aged straw, or coarse sand (50–100 mm) |
-| Growing medium | Premium potting mix — **not** garden soil |
-| Overflow fitting | 25 mm PVC bulkhead fitting with elbow, at reservoir level |
-| Mulch | Straw, sugarcane mulch, or lucerne hay (75–100 mm on surface) |
-
-## Step-by-Step Construction
-
-### 1. Choose Your Location
-Select **level ground** with full sun (6–8 hours minimum). Avoid areas with tree roots underneath that could pierce the liner. If the ground isn't level, excavate or use sleepers to create a flat base.
-
-### 2. Build the Raised Bed Frame
-Construct a rectangular frame at least **300 mm (12") deep** — 600 mm (24") is ideal. Common dimensions are 1.2 m × 2.4 m for a family-sized bed. Use galvanized screws or bolts; avoid treated timber if growing edibles, or line the inside with an additional barrier.
-
-### 3. Line with Waterproof Membrane
-Drape the liner over the frame, pressing it into all corners and up the inside walls. **Overlap the top edges by at least 100 mm** and staple or clamp in place. Check carefully for sharp edges, screws, or splinters that could puncture the liner — use duct tape or rubber strips as protective pads over any protrusions.
-
-### 4. Install the Overflow Drain
-Cut a hole in the side of the bed at **~150 mm from the bottom** (top of the reservoir layer). Insert a bulkhead fitting connected to a short PVC elbow directing water away from the bed. Seal both sides with silicone. This drain is **critical** — without it, heavy rain or overfilling will waterlog your soil.
-
-### 5. Add the Reservoir Layer
-Fill the bottom **100–150 mm** with scoria, gravel, or expanded clay. This is your water storage zone. Level it carefully so water distributes evenly.
-
-### 6. Lay Water Distribution Pipe
-Place ag-pipe or slotted PVC in a loop or serpentine pattern across the reservoir floor. Connect it to the bottom of your vertical fill pipe (which extends above the bed surface). This ensures water spreads across the entire reservoir when you refill.
-
-### 7. Cover with Geotextile Fabric
-Lay non-woven geotextile fabric over the entire reservoir, tucking it up the sides slightly. This prevents growing media from washing down into the reservoir and clogging it. Overlap seams by 200 mm.
-
-### 8. Add the Wicking Layer
-Spread **50–100 mm** of coconut coir, aged straw, or a coir-sand mix on top of the fabric. This layer is the critical bridge — it must make direct contact with both the wet fabric below and the soil above to wick water upward effectively. Pre-moisten it during installation.
-
-### 9. Fill with Growing Medium
-Add **150–300 mm** of premium potting mix. **Do not use garden soil** — it lacks the capillary properties needed for wicking and will compact over time. A blend of quality potting mix with 20–30% coconut coir works best. Fill to within 50 mm of the bed top to allow room for mulch.
-
-### 10. Install Fill Pipe with Cap
-Your vertical fill pipe (90–100 mm diameter) should extend 50–100 mm above the soil surface. Fit a threaded cap or secure cover to **prevent mosquitoes and debris** from entering. Mark the pipe so you can see water level if using a transparent section.
-
-### 11. Mulch the Surface
-Apply 75–100 mm of straw, sugarcane, or lucerne mulch. This keeps the surface dry (reducing weeds and evaporation) while moisture stays in the root zone below. Keep mulch pulled back slightly from plant stems to prevent rot.
-
-## Sizing Guide
-
-- **Minimum depth**: 300 mm total (100 mm reservoir + 200 mm soil)
-- **Ideal depth**: 600 mm (200 mm reservoir + 400 mm soil)
-- **Depth ratio**: ~1/3 reservoir, ~2/3 growing media
-- **Family garden**: 1.2 m × 2.4 m bed supports a typical summer vegetable crop
-- **Single bed for herbs/salads**: 600 mm × 1.2 m is sufficient
-- **Reservoir capacity**: roughly 100 L per square metre of bed area at 150 mm depth
-
-## Best Plants for Wicking Beds
-
-**Ideal choices:**
-- Leafy greens (lettuce, spinach, silverbeet)
-- Herbs (basil, parsley, coriander, thyme)
-- Brassicas (cabbage, broccoli, kale)
-- Strawberries
-- Capsicum, chillies, eggplant
-- Beans, peas
-
-**Use caution:**
-- Root vegetables (carrots, potatoes) — can work but need deeper soil (400 mm+)
-- Deep-rooted perennials (asparagus, artichokes) — may outgrow the reservoir
-
-**Avoid:**
-- Large woody perennials or fruit trees — root systems will exceed the bed
-- Plants that require boggy or waterlogged conditions (some mints prefer being on the edge)
-
-## Maintenance
-
-- **Refill frequency**: Weekly in summer, monthly in cooler months — check by opening the fill cap
-- **Flush the reservoir**: Every 6–12 months, drain via overflow and flush with fresh water to prevent salt/mineral buildup
-- **Replace growing media**: Every 2–3 years to restore structure and nutrient levels
-- **Check overflow**: Ensure the drain hole stays clear of debris and roots
-- **Winter care** (cold climates): Drain the reservoir before hard freezes to prevent ice expansion from damaging the liner; insulate with straw bales around the bed
-
-## Common Mistakes to Avoid
-
-| Mistake | Why It's a Problem |
-|---------|-------------------|
-| Using garden soil | Poor capillary action — water won't wick up effectively |
-| No overflow drain | Waterlogging kills roots; structural damage from buoyant liner |
 ## See Also
 
-- [[david-holmgren]]
-- [[permaculture]]
-- [[water-conservation]]
+- [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
+## Practical Considerations
+
+When working with How Do I Build a Wicking Bed for My Garden?, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

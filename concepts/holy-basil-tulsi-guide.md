@@ -1,14 +1,11 @@
 ---
-title: Holy Basil Tulsi Guide
-created: 2026-05-06
-updated: 2026-05-06
+title: Holy Basil (Tulsi) Growing Guide
+created: 2026-04-12
+updated: 2026-04-12
 type: concept
-tags: []
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia, companion-planting, pollinators]
 sources: []
 ---
-
----
-ti
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
 
@@ -48,7 +45,7 @@ and has a different flavor profile.
 
 Tulsi is classified as an adaptogen in Ayurvedic medicine, helping the body
 adapt to stress and maintain balance. Key active compounds include eugenol,
-caryophyllene, ursolic acid, rosmarinic acid, and [[linalool]].
+caryophyllene, ursolic acid, rosmarinic acid, and linalool.
 
 Key medicinal applications:
 
@@ -139,9 +136,55 @@ summer to root indoors.
 - Japanese beetles: Handpick in severe infestations
 - Root rot: Prevent by ensuring well-drained soil and proper watering
 
-## Related
+## Tea Production
 
-- [[adaptogenic-herbs-guide]]
-- [[herbal-plant-remedies]]
-- [[solomon-seed-saving-guide|seed saving]]
-- [[tulsi]]
+Tulsi is one of the best herbs for daily tea consumption:
+
+For fresh tea:
+1. Harvest 8-10 fresh leaves per cup
+2. Pour boiling water over leaves
+3. Cover and steep 5-7 minutes
+4. Strain and enjoy plain or with honey and lemon
+
+For dried tea:
+1. Harvest leafy stems before flowering for the best flavor
+2. Bundle stems and hang upside down, or spread on screens
+3. Dry in a warm, dark, well-ventilated area
+4. Strip leaves from stems when completely dry
+5. Store in airtight containers away from light
+6. Use 1-2 teaspoons per cup; steep 5-7 minutes
+
+Tulsi blends well with:
+- Ginger and lemon for respiratory support
+- Peppermint for digestion and refreshment
+- Chamomile for relaxation and sleep
+- Ashwagandha for comprehensive stress support
+
+## Companion Planting
+
+Tulsi is an excellent garden companion:
+- Repels mosquitoes, flies, and certain garden pests
+- Attracts bees, butterflies, and beneficial insects
+- Said to improve the growth and flavor of nearby tomatoes and peppers
+- Its strong aromatic oils mask the scent of vulnerable crops from pests
+- Plant near vegetable beds, entrances to living spaces, and in pollinator
+  gardens
+
+## Harvesting
+
+- Begin harvesting when plants are 8-12 inches tall
+- Harvest individual leaves or cut stems (leaving at least 2 sets of leaves
+  for regrowth)
+- Regular harvesting encourages bushy growth
+- For the most potent medicine, harvest before flowers open
+- The highest essential oil content is in the morning on warm, sunny days
+- Final harvest before first frost; cut the entire plant
+
+## See Also
+
+- [[chamomile-growing-guide]] -- combine with tulsi in calming evening tea
+  blends
+- [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for
+  comprehensive stress and wellness support
+
+See also: [[lemongrass-cultivation-and-uses]]

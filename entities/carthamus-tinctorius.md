@@ -109,12 +109,8 @@ Safflower petals have found renewed interest as a natural food colorant (E164 in
 
 ## See Also
 
-- [[helianthus-annuus-entity]] — Sunflower, a related Asteraceae oilseed crop
 - [[tagetes-erecta-entity]] — Marigold, another dye-producing Asteraceae
-- [[borago-officinalis]] — Borage, companion oilseed with medicinal properties
 - [[curcuma-longa]] — Turmeric, a dye and medicinal rhizomatous plant
-- [[cinnamomum-verum]] — Ceylon cinnamon, another historically traded dye/spice plant
 - [[ricinus-communis-entity]] — Castor bean, non-edible oilseed for comparison
-- [[glycine-max-soybean-permaculture]] — Soybean, legume oilseed rotation partner
 - [[piper-nigrum-entity]] — Black pepper, historically traded spice for comparison
 - [[myristica-fragrans]] — Nutmeg, another high-value historical trade spice

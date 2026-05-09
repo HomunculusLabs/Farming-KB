@@ -129,16 +129,11 @@ psychotherapy included A. K. Busch and W. C. Johnson, S. Cohen and B.
 Eisner, H. A. Abramson, H. Osmond, and A. Hoffer in the United States;
 R. A. Sandison in England; W. Frederking and H. Leuner in Germany; and
 G. Roubicek and S. Grof in Czechoslovakia. The most recent comprehensive
-publication was [[stanislav-grof]]'s Realms of the Human Unconscious
-(Viking Press, 1975), offering a critical evaluation from the viewpoints
-of Freud, Jung, and existential analysis.
-
-## Related Topics
-
-- [[hofmann-lsd-sandoz-research-program]] for broader psychiatric research context
-- [[hofmann-lsd-clinical-research-early-studies]] for the earliest clinical
-  investigations
+publication was [[hofmann-lsd-sandoz-research-program]] for broader psychiatric research context
 - [[hofmann-lsd-sandoz-research-program]] for the Sandoz research environment
-- [[lsd-pharmacology]] for pharmacological properties
 - [[hofmann-sandoz-crisis-lsd-withdrawal]] for the eventual cessation of
   Delysid distribution
+
+## See Also
+
+- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]

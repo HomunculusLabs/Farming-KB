@@ -88,8 +88,6 @@ For cultivators, T. versicolor is relatively easy to grow, making PSP
 accessible for both commercial production and home cultivation.
 
 ## See Also
-- [[psk-polysaccharide-krestin]]
 - [[lentinan]]
-- [[schizophyllan]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]
 - [[grifola-frondosa]]

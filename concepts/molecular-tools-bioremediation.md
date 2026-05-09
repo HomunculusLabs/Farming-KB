@@ -15,25 +15,7 @@ These tools provide insights into microbial community composition, metabolic pot
 
 The application of molecular biology to bioremediation, sometimes called environmental molecular diagnostics, has become essential for monitoring treatment performance, optimizing system design, and understanding the fundamental mechanisms of contaminant transformation.
 
-This topic complements [[bioremediation-monitoring-and-assessment]], [[fungal-genetic-engineering-bioremediation]], and [[genetic-engineering-fungal-bioremediation]].
-
-## Culture-Independent Microbial Community Analysis
-
-The vast majority of environmental microorganisms, estimated at more than 99 percent, cannot be cultured using standard laboratory techniques.
-
-This limitation of culture-based methods led to the development of molecular approaches that bypass cultivation and directly analyze microbial DNA or RNA extracted from environmental samples.
-
-16S ribosomal RNA (rRNA) gene sequencing is the foundational tool for bacterial and archaeal community analysis, providing phylogenetic identification of community members.
-
-The 16S rRNA gene contains both conserved regions, which serve as targets for universal PCR primers, and variable regions, which provide species-level or genus-level taxonomic resolution.
-
-Next-generation sequencing (NGS) platforms enable high-throughput sequencing of 16S rRNA gene amplicons from hundreds of samples simultaneously, providing comprehensive community profiling at relatively low cost per sample.
-
-Internal transcribed spacer (ITS) region sequencing serves the analogous function for fungal community analysis, targeting the region between 18S and 28S rRNA genes that provides species-level resolution for most fungal taxa.
-
-Metagenomic sequencing, which involves shotgun sequencing of total community DNA, provides information about the functional gene content of microbial communities in addition to taxonomic composition.
-
-[[fungal-biodiversity-measurement-methods]] describes molecular approaches to fungal diversity assessment that are relevant to bioremediation applications.
+This topic complements [[fungal-genetic-engineering-bioremediation]], and [[fungal-biodiversity-measurement-methods]] describes molecular approaches to fungal diversity assessment that are relevant to bioremediation applications.
 
 ## Quantitative PCR for Functional Gene Detection
 
@@ -77,7 +59,7 @@ Enzyme activity assays complement proteomic data by measuring the functional act
 
 Common enzyme assays for bioremediation monitoring include dehydrogenase activity (general microbial activity), fluorescein diacetate hydrolysis (total microbial activity), and specific enzyme assays for lignin peroxidase, manganese peroxidase, laccase, and other remediation-relevant enzymes.
 
-[[fungal-enzyme-systems-in-bioremediation]] and [[ligninolytic-enzymes-bioremediation]] describe the enzyme systems that are monitored in fungal bioremediation applications.
+[[ligninolytic-enzymes-bioremediation]] describe the enzyme systems that are monitored in fungal bioremediation applications.
 
 The combination of gene-level, transcript-level, protein-level, and activity-level information provides a multi-scale understanding of bioremediation processes from genetic potential to functional outcome.
 
@@ -101,11 +83,7 @@ Molecular tools are used throughout the bioremediation project lifecycle, from i
 
 During site characterization, molecular analysis identifies the presence and abundance of contaminant-degrading microorganisms, informing decisions about the suitability of monitored natural attenuation versus enhanced bioremediation.
 
-Bioaugmentation decisions are supported by molecular assessment of whether indigenous communities possess the necessary degradative capacity, as described in [[bioaugmentation-strategies]].
-
-During treatment, molecular monitoring tracks changes in community composition and gene abundance that indicate treatment response and can trigger adjustments to nutrient addition, electron donor supply, or other operational parameters.
-
-For [[fungal-bioaugmentation-inoculation]], molecular tracking methods using species-specific markers can verify the survival and dispersal of introduced fungal inoculants in the treatment environment.
+Bioaugmentation decisions are supported by molecular assessment of whether indigenous communities possess the necessary degradative capacity, as described in [[fungal-bioaugmentation-inoculation]], molecular tracking methods using species-specific markers can verify the survival and dispersal of introduced fungal inoculants in the treatment environment.
 
 Performance verification uses molecular data to demonstrate that bioremediation mechanisms are active and that observed contaminant concentration decreases result from biological transformation rather than physical processes.
 

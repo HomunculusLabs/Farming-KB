@@ -29,9 +29,7 @@ Both approaches can thrive on 1/8 to 1/4 acre lots, but they allocate that space
 
 ## Design Philosophy
 
-A [[backyard-food-forest-design]] models itself on woodland ecosystems, stacking seven vertical layers: canopy trees, understory trees, shrubs, herbaceous plants, ground covers, root crops, and vines. The goal is to create a self-sustaining system where plants support each other through nutrient cycling, pest management, and pollination. Food forests rely heavily on [[companion-planting-reference]] and [[aquatic-polyculture-design-mollison]] principles to build resilient plant communities.
-
-A [[backyard-orchard-design]] focuses on maximizing fruit production from selected tree varieties. Layout prioritizes sun exposure (tallest trees on the north side), air circulation to reduce disease, and convenient access paths for pruning and harvesting. The design is more structured and linear, with spacing driven by rootstock selection and pollination requirements. The orchard approach treats fruit trees as the primary crop rather than elements of an interconnected ecosystem.
+A [[companion-planting-reference]] and [[backyard-orchard-design]] focuses on maximizing fruit production from selected tree varieties. Layout prioritizes sun exposure (tallest trees on the north side), air circulation to reduce disease, and convenient access paths for pruning and harvesting. The design is more structured and linear, with spacing driven by rootstock selection and pollination requirements. The orchard approach treats fruit trees as the primary crop rather than elements of an interconnected ecosystem.
 
 ## Plant Selection and Spacing
 

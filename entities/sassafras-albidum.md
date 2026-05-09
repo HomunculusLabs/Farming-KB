@@ -139,11 +139,7 @@ system for sustainable leaf harvest.
 
 ## See Also
 
-- [[cinnamomum-verum]]
 - [[myristica-fragrans]]
-- [[piper-nigrum-entity]]
-- laurus nobilis
 - [[comfrey-symphytum-officinale]]
-- [[quercus-robur]]
 - [[food-forest]]
 - [[dynamic-accumulators]]

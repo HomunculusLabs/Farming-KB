@@ -113,11 +113,7 @@ Preliminary research suggests potential hepatoprotective and anti-inflammatory a
 
 ## See Also
 
-- [[termitomyces-eurrhizus]]
 - [[termitomyces-heimii]]
-- [[termitomyces-titanicus]]
 - [[agaricus-bisporus]]
-- [[pleurotus-ostreatus]]
 - [[mycology]]
-- [[mushroom-cultivation-bulk-substrates]]
 - [[spore-print]]

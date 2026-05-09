@@ -571,7 +571,7 @@ the hallmark of resilient water-wise gardening.
 - [[rainwater-harvesting-and-graywater-recycling]] for water capture systems
 - [[mycorrhizal-fungi]] for soil fungal networks and plant water access
 - [[composting-and-soil-biology]] for building water-holding soil
-- [[mulching]] for comprehensive mulching techniques
+- [[sheet-mulching]] for comprehensive mulching techniques
 - [[wicking-bed-construction]] for self-watering bed plans
 - [[microclimate-design-for-garden-and-farm]] for climate modification
 - [[hugelkultur-and-raised-bed-gardening]] for water-retaining bed designs

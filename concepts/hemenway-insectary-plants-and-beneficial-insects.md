@@ -1,7 +1,7 @@
 ---
 title: "Insectary Plants and Beneficial Insects"
 created: 2026-04-28
-tags: [permaculture, beneficial-insects, pollinators, pest-control, insectary-plants]
+tags: [[permaculture, beneficial-insects, pollinators, pest-control, insectary-plants]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
@@ -124,21 +124,8 @@ Yarrow, buckwheat, lavender, golden marguerite, bee balm, clovers, dill,
 fennel, coriander, calendula, borage, phacelia, alyssum, cosmos, feverfew,
 pennyroyal, angelica, and many others all serve as excellent insectary plants.
 Many of these are also edible, medicinal, or serve additional functions in the
-garden, embodying the [[hemenway-ecological-principles-niche-succession-biodiversity]] principle.
-
-## The Shotgun Method
-
-Rather than taking a scientific approach and selecting specific plants for
-individual beneficial species, Hemenway recommends the "shotgun method": plant
-everything under the sun and enjoy the resulting diversity of buzzing,
-flittering, pollinating, and garden-health-promoting activity. Each year, add
-more useful flowers, and the exponential increase in insect life will follow.
-
-## See Also
-
-- [[hemenway-guild-design-roles-and-assembly]] for integrating insectary
+garden, embodying the [[hemenway-guild-design-roles-and-assembly]] for integrating insectary
   plants into guilds
-- [[hemenway-apple-tree-guild-design]] for a complete guild example
 - [[hemenway-backyard-wildlife-habitat]] for attracting birds as additional
   predators
 - [[hemenway-mulch-makers-and-plant-functional-roles]] for other multifunctional

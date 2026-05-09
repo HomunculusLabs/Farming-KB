@@ -92,44 +92,8 @@ brucine, quinine); fractional crystallization gives max 50% yield.
 Chiral HPLC uses chiral stationary phases (polysaccharide derivatives,
 cyclodextrins, Pirkle phases) for analytical and preparative
 separation. SFC with supercritical CO2 is preferred for large-scale
-work. Enzymatic resolution uses lipases (CAL-B, [[pseudomonas]] cepacia
-lipase) or esterases with high enantioselectivity. Kinetic resolution
-selectivity s = k_fast/k_slow; for ee > 99%, s must exceed 200.
-Dynamic kinetic resolution (DKR) combines resolution with in situ
-racemization for >90% yields.
-## Asymmetric Synthesis
-Asymmetric synthesis creates preferred enantiomers from achiral
-starting materials. Chiral auxiliaries (Evans oxazolidinones, 1981;
-Oppolzer's camphorsultam, 1984) provide high diastereoselectivity but
-require stoichiometric amounts. Chiral catalysts are more efficient:
-Sharpless asymmetric epoxidation (Nobel 2001) uses Ti(OiPr)4 with
-chiral tartrate for 90-98% ee on allylic alcohols. Sharpless
-dihydroxylation uses OsO4 with chiral ligands for vicinal diols (AD-
-mix-alpha/beta, up to 99% ee). Noyori BINAP-Ru hydrogenation (Nobel
-2001) achieves >95% ee with >10,000 turnover numbers, producing
-(S)-naproxen at ~10,000 tons/year. Organocatalysis (List and
-MacMillan, Nobel 2021) uses L-proline and related small molecules.
-Biocatalysis employs ketoreductases (>99% ee) and transaminases;
-Merck's transaminase process for sitagliptin improved yield from 65%
-to 92% with >99.9% ee.
-## Biological Homochirality
-All proteinogenic amino acids are L-configured (S except L-cysteine, R
-due to sulfur priority); all natural sugars are D. The origin of
-biological homochirality is unsolved. The Murchison meteorite (1969)
-showed 2-9% L-amino acid excess. The Soai reaction (1995) demonstrated
-autocatalytic chiral amplification to >99.9% ee. Proposed mechanisms
-include circularly polarized UV light from star-forming regions (17%
-polarization in Orion OMC-1), weak nuclear force parity violation
-(~10^-17 kJ/mol energy differences), chiral mineral surfaces
-(calcite), and competitive autocatalytic amplification (Frank model,
-1953). Most researchers believe a tiny initial bias was amplified
-during prebiotic chemistry. D-amino acids exist naturally: D-alanine
-and D-glutamate in bacterial alpha glucan fungal, D-serine as a mammalian
-neurotransmitter, D-aspartate in aged proteins.
+work. Enzymatic resolution uses lipases (CAL-B, [[mescaline-entity]]
 
-## See Also
-
-- [[mescaline-entity]]
-
-- [[phenethylamine-chemistry-basics]]
 - [[quantum-mechanics-fundamentals]]
+
+See also: [[tryptamine-chemistry-and-psychedelic-pharmacology]]

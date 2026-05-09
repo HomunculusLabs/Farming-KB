@@ -11,10 +11,7 @@ type: concept
 
 # Predator-Prey Relationships and Herding Behavior
 
-In [[savory-holistic-resource-management-animal-impact]],
-the relationship between predators and herding prey animals is identified
-as one of the missing keys to understanding land health, particularly in
-[[savory-brittle-environments]]. Savory argues that
+In [[savory-brittle-environments]]. Savory argues that
 the removal of predators from ecosystems has been a primary driver of
 desertification, as it eliminated the natural soil disturbance that herding
 animals once provided under threat of predation.
@@ -73,41 +70,7 @@ functions appear critical:
    plants
 2. Protecting bare soil by trampling down old plant material
 
-As [[savory-brittle-environments]] evolved over
-millions of years, predators and their herding prey were the only things
-that could realistically have performed both functions simultaneously.
-This is why the world's large populations of herding animals appear to have
-evolved mainly in such areas.
-
-## The American Experience
-
-In America, massive destruction of predator populations and wild herds
-precipitated the decline in the environment seen today. The problem has
-been exacerbated by spreading relatively few domestic animals over large
-areas. This explains why land deterioration has occurred more rapidly in
-America than in Africa, where some predator populations remained intact
-longer.
-
-In America the problem is compounded by annual freezing and thawing, which
-creates air pockets in the soil. Not only must there be some agent of
-disturbance that will remove old oxidizing material from perennial grasses
-and chip soil surfaces, but that agent also has to provide soil compaction
-to increase grass seedling success.
-
-## Historical Observations
-
-The connection between hooves and land health has been noted throughout
-history. Scottish shepherds referred to the golden hooves of sheep. Navajo
-medicine men in the 1930s warned government officials who were reducing
-livestock numbers that a link existed between the hooves of sheep and soil
-health. In southern Africa, oldtimers had a saying: "Hammer veld to
-sweeten it," meaning to hammer the land with herds to improve forage
-quality.
-
-## Implications for Management
-
-Understanding the role of predators and herding behavior is essential for
-[[savory-livestock-grazing-planning]] in brittle
+As [[savory-livestock-grazing-planning]] in brittle
 environments. When livestock are fenced and scattered at low density, they
 never produce the concentrated herd effect that wild animals under
 predator pressure created naturally.
@@ -115,34 +78,13 @@ predator pressure created naturally.
 The challenge for holistic managers is to replicate the beneficial effects
 of predator-driven herding behavior through planned high-density grazing.
 This means concentrating livestock into smaller paddocks for shorter
-periods, which creates the [[savory-animal-impact-and-herd-effect]] that breaks soil capping, tramples old material, and compacts
-seed beds, even in the absence of natural predators.
-
-## Ecological Complexity
-
-The predator-prey relationship operates at multiple levels within the
-ecosystem. At the community level, removal of a major predator can have
-cascading effects. When a certain species of predatory starfish was
-removed from a tidal pool, the community shifted to one dominated by a
-single species of mussel. Where the predatory starfish remained, a complex
-community persisted with many species.
-
-Similarly, removing large predators from grasslands allowed herding
-behavior to cease, which in turn allowed soil surfaces to cap and
-oxidize, which led to the loss of perennial grasses and the advance of
-[[savory-perennial-grass-and-desertification]].
+periods, which creates the [[savory-perennial-grass-and-desertification]].
 
 ## See Also
 
-- [[savory-partial-rest-and-algal-crusts]]
-
 - [[savory-grasshopper-and-insect-outbreaks]]
-
-- [[savory-enterprise-overhead-and-gross-profit-analysis]]
 
 - [[savory-dung-behavior-and-nutrient-distribution]]
 
-- [[savory-animal-impact-and-herd-effect]]
 - [[savory-brittle-environments]]
-- [[savory-wildlife-livestock-integration]]
 - [[savory-rest-as-management-tool]]

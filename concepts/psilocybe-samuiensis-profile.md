@@ -14,12 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocybe-samuiensis]]
-
-Psilocybe samuiensis is a psilocybin-containing mushroom species
-originally described from the island of Koh Samui in southern Thailand.
-The species was formally described by the eminent Mexican mycologist
-[[gaston-guzman]] along with Bandala and the mushroom researcher and
+# [[gaston-guzman]] along with Bandala and the mushroom researcher and
 photographer John W. Allen, who contributed the type specimens and
 field documentation.
 
@@ -143,6 +138,5 @@ microscopic features.
 
 ## See Also
 
-- [[psilocybe-aztecorum-profile]]
 - [[psilocybe-azurescens-profile]]
 - [[psilocybe-baeocystis-profile]]

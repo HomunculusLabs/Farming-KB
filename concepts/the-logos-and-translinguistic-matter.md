@@ -124,8 +124,6 @@ demands further investigation.
 
 ## Related Concepts
 
-- [[dmt-experience-and-hyperspace-entities]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 - [[tryptamine-consciousness-theory]]
 - [[extraterrestrial-contact-and-dmt-experience]]

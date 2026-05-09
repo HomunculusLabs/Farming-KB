@@ -111,11 +111,7 @@ Ex situ conservation collections exist in arboreta worldwide, and provenance tri
 
 ## See Also
 
-- [[amanita-muscaria]] — mycorrhizal associate in southern beech forests
 - [[amanita-pantherina]] — ectomycorrhizal fungus associated with Nothofagus
-- [[laccaria-amethystina]] — common ectomycorrhizal partner of Nothofagus
 - [[cortinarius-cinnamomeus]] — mycorrhizal fungus found under Nothofagus
-- [[robinia-pseudoacacia]] — nitrogen-fixing tree for temperate agroforestry comparison
 - [[black-locust-entity]] — fast-growing temperate timber tree analog
-- [[glycine-max-soybean-permaculture]] — nitrogen-fixing agroforestry companion
 - [[quercus-robur]] — northern hemisphere ecological equivalent (oak)

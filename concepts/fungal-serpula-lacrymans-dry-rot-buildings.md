@@ -16,7 +16,7 @@ of dry rot in Europe, Australia, Japan, and other parts of the world,
 while Meruliporia incrassata causes equivalent destruction in North
 America. These fungi can reduce structural timber to crumbling brown
 cubes, causing catastrophic building damage. Their biology connects
-to [[bioremediation-fenton-chemistry-brown-rot-fungi]] and [[fungal-wood-decay-types-white-rot-brown-rot]].
+to [[fungal-wood-decay-types-white-rot-brown-rot]].
 
 ## Taxonomy and Etymology
 
@@ -90,40 +90,4 @@ fracture pattern. The progressive concentration of dark lignin gives
 decayed wood its brown colour. This contrasts with white rot fungi that
 extract lignin, leaving white cellulose behind. The brown rot mechanism
 involves non-enzymatic depolymerization of cellulose via the Fenton
-reaction, as described in [[bioremediation-fenton-chemistry-brown-rot-fungi]].
-
-## Fruiting Bodies and Spore Production
-
-In advanced infestations, basidiomes develop as crusts on beam surfaces,
-sometimes described as "surfboard-sized." These fruiting bodies are
-yellow to orange-brown with white margins and produce masses of rusty
-spores. A single basidiome the size of a book can shed billions of
-spores. As basidiomes mature, they develop ridges that extend and fuse
-into tubes, creating a honeycombed surface that maximizes fertile area
-for spore production. Individual fruiting bodies have been documented
-covering 6 square metres, with total spore-producing surfaces of 78
-square metres in a single property.
-
-## Environmental Factors and Spread
-
-Changing climatic conditions influence dry rot incidence. Increased
-rainfall elevates soil moisture and water tables, maintaining outdoor
-water supplies for indoor fungal colonies. Land use changes also
-contribute: converting agricultural land to housing developments leaves
-tree stumps and roots buried in soil, providing initial inoculum. When
-buried wood is exhausted, rhizomorphs extend through soil toward
-building foundations. Landscaping practices such as importing topsoil
-and wood mulch introduce additional inoculum, while lawn sprinklers
-and air conditioning create optimal moisture and temperature conditions
-around 23 degrees Celsius.
-
-## Historical Context
-
-Dry rot has been a significant building problem for centuries. Some
-scholars interpret passages in the biblical book of Leviticus as
-describing treatment protocols for fungal problems in homes. Dry rot
-became particularly problematic in European naval architecture, where
-it threatened wooden ships, and has remained a persistent concern in
-building maintenance and conservation.
-
-See also: [[fungal-wood-decay-types-white-rot-brown-rot]], [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]], [[fungal-organic-acid-metal-solubilization]], [[fungal-mycelial-foraging-heterogeneous-environments]].
+reaction, as described in [[fungal-wood-decay-types-white-rot-brown-rot]], [[fungal-organic-acid-metal-solubilization]], [[fungal-mycelial-foraging-heterogeneous-environments]].

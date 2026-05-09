@@ -125,11 +125,8 @@ Pest resistance is moderate, with standard preventive measures recommended.
 
 ## See Also
 
-- [[mac-1]]
 - [[kush-mints]]
-- [[girl-scout-cookies]]
 - [[og-kush]]
-- [[gelato-cannabis]]
 - [[runtz-entity]]
 - animal cookies
 - [[wedding-cake-cannabis]]

@@ -102,8 +102,6 @@ Factors that determine the best composition:
 - Never harvest everything -- leave some as mulch and green manure
 - When second crop is used as green manure, it provides immediate yield: seeds for other plots
 
-See also: [[holzer-ancient-cereals-growing]], [[permaculture-companion-planting]], [[faires-plant-communities-and-guilds]], [[cover-cropping-guide]]
-- [[holzer-polycultures-catch-crop-combinations]]
+See also: [[permaculture-companion-planting]], [[cover-cropping-guide]]
 - [[holzer-green-manure-and-soil-building-plants]]
-- [[urban-permaculture-nitrogen-fixing-green-manures]]
 - [[fukuoka-white-clover-cover-crop-system]]

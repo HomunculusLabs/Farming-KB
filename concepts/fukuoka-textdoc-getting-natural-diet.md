@@ -122,9 +122,6 @@ palate readjusts and the body's natural wisdom reasserts itself.
 
 ## See Also
 
-- [[fukuoka-textdoc-nature-of-food]]
-- fukuoka textdoc getting natural diet
 - [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-seasonal-eating-natural-food-calendar]]
 - [[fukuoka-food-and-health-philosophy]]
 - [[fukuoka-natural-body-and-health]]

@@ -109,8 +109,6 @@ profile and bioactive compound content, several research gaps remain:
 
 - [[hericium-coralloides]] Topics
 
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
 - [[medicinal-mushroom-cancer-chemoprevention]]
 - [[cancer-medicinal-mushrooms-extraction-bioavailability]]

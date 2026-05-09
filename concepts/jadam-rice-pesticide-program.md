@@ -20,10 +20,8 @@ JADAM pesticide recipe #3 is a comprehensive rice pest and disease control solut
 
 For 500 L (132 gal) of spray solution:
 
-- [[jadam-wetting-agent-jwa]] 5 L (1.3 gal)
 - [[jadam-sulfur-js]] 2 L (0.53 gal)
 - Jerusalem artichoke [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
-- Korean pasque flower root (KPFR) [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
 
 ## Target Pests and Diseases
 
@@ -60,32 +58,28 @@ For 500 L (132 gal) of spray solution:
 
 For a full JADAM rice program, combine with:
 
-1. **Pre-planting:** [[jadam-rice-bakanae-treatment]] (recipe #1) -- 48-hour cold water seed immersion with JS
-2. **Post-transplant:** [[jadam-rice-water-weevil-control]] (recipe #2) -- surface spreading agent on paddy water
+1. **Pre-planting:** [[jadam-rice-water-weevil-control]] (recipe #2) -- surface spreading agent on paddy water
 3. **Growing season:** Recipe #3 (this page) -- foliar spray as needed
-4. **Soil foundation:** [[jadam-soil-foundation-work]] -- JMS + sea salt + phyllite + JLF
-
-## Role of Each Ingredient
-
-| Ingredient | Primary Role |
-|---|---|
-| JWA (wetting agent) | Coats pests evenly, enhances all other ingredients |
-| JS (sulfur) | Germicide against blast, sheath blight, smut |
-| Jerusalem artichoke JHS | Insecticide against aphids, mites, moths |
-| KPFR JHS | Broad-spectrum insecticide against most rice pests |
-
-## Application Notes
-
-- Apply when humid (early morning or sunset) for maximum effectiveness
-- Ensure thorough coverage of both upper and lower leaf surfaces
-- JNP is most effective at early stage of pest/disease outbreak
-- When increasing JHS, always increase JWA together for stronger effects
-
-## See Also
-
-- [[jadam-rice-bakanae-treatment]] - Recipe #1 for seed disinfection
-- [[jadam-rice-water-weevil-control]] - Recipe #2 for water weevil
+4. **Soil foundation:** [[jadam-rice-bakanae-treatment]] - Recipe #1 for seed disinfection
 - [[jadam-natural-pesticide-jnp]] - JNP system overview
-- [[jadam-herb-solution-jhs]] - Making JHS from various herbs
 - [[jadam-soil-foundation-work]] - Pre-planting soil preparation
 - [[jadam-natural-pest-control-methods]]
+## Practical Considerations
+
+Successful implementation of Comprehensive Rice Pesticide Program (JADAM Recipe #3) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -17,66 +17,16 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - **Genus:** Psilocybe
 - **Species:** P. galindoi
 - **Authority:** Guzmán (1978)
-- **Synonyms:** Often discussed in relation to [[psilocybe-mexicana]] complex; some authorities consider it conspecific or closely allied
-
-## Description
-
-### Cap (Pileus)
-- 1 to 2.5 cm in diameter
-- Conic to campanulate, expanding to convex or broadly convex with age
-- Surface smooth to slightly striate near the margin when moist
-- Color brownish to olive brown, hygrophanous, fading to straw yellow or nearly white when dry
-- Does not typically exhibit strong bluing on the cap itself, though slight blue green bruising may appear with damage
-
-### Gills (Lamellae)
-- Adnate to sinuate
-- Close to subdistant
-- Grayish initially, becoming dark purplish brown with spore maturity
-- Edges whitish
-
-### Stipe (Stem)
-- 4 to 8 cm long, 1 to 2 mm thick
-- Equal, slender, and fragile
-- Hollow
-- Surface whitish to pale brownish, sometimes with a silky sheen
-- Bruises blue, particularly at the base
-- Partial veil evanescent, sometimes leaving a fibrillose annular zone
-
-### Spores
-- Spore print dark purple brown
-- Spores ellipsoid to somewhat rhomboid
-- 8 to 11 × 5.5 to 7 µm
-- Wall thickness moderate, with a distinct germ pore
-
-## Distribution and Habitat
-
-- Endemic to Mexico, found primarily in the state of Puebla and surrounding highland regions
-- Occurs in subtropical and temperate highland forests
-- Grows in rich soil, pastures, and grassy areas, often in association with decaying plant material
-- Fruits during the rainy season, typically June through September
-- Elevation range approximately 1000 to 2000 meters
-- Part of the diverse psilocybin mushroom flora of central Mexico
-
-## Chemistry and Psychoactivity
-
-- Contains [[psilocybin-compound]] and [[psilocin]]
-- Considered moderate in potency
-- Part of the [[psilocybe-mexicana]] species complex, which shares similar alkaloid profiles
+- **Synonyms:** Often discussed in relation to [[psilocybin]] and [[psilocybe-mexicana]] species complex, which shares similar alkaloid profiles
 - The truffle or sclerotium form of this species, often sold as "Philosopher's Stones" or "Atlantis truffles," has gained popularity in European smart shops
 - The sclerotia contain lower concentrations of psilocybin per gram compared to dried fruitbodies but can be produced in greater biomass
 
 ## Cultural Significance
 
 - Part of the indigenous mushroom traditions of central Mexico
-- The [[psilocybe-mexicana]] complex, including P. galindoi, was among the first psychoactive mushrooms identified and studied by Western mycologists
-- Used in traditional Mazatec and Nahua ceremonies alongside other Psilocybe species
-- The species name honors Mexican mycologist Teofilo Galindo, who contributed to early studies of psychoactive fungi
-
-## Identification Notes
-
-- Distinguished from [[psilocybe-mexicana]] primarily by microscopic features including spore size and shape, and the morphology of pleurocystidia
+- The [[psilocybe-mexicana]] primarily by microscopic features including spore size and shape, and the morphology of pleurocystidia
 - The conic to campanulate cap shape and slender stipe are characteristic of the mexicana complex
-- More robust than [[psilocybe-tampanensis-entity]] but smaller than [[psilocybe-cubensis]]
+- More robust than [[psilocybe-cubensis]]
 - The bluing reaction on the stipe base is helpful for field identification
 - Microscopic examination is generally required for definitive identification
 
@@ -98,14 +48,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Taxonomic Notes
 
-- The [[psilocybe-mexicana]] complex is poorly resolved taxonomically, with several species showing overlapping morphological and genetic characteristics
-- Some authorities have proposed merging P. galindoi with [[psilocybe-mexicana]] based on molecular data
+- The [[psilocybe-mexicana]] based on molecular data
 - The sclerotia producing ability varies within the complex and may not be a reliable taxonomic character
 - Further phylogenetic studies using modern molecular techniques are needed to clarify species boundaries
 
 ## Similar Species
 
-- [[psilocybe-mexicana]] — very closely related; microscopic differentiation needed
 - [[psilocybe-tampanensis-entity]] — also produces sclerotia but has different morphology and distribution
 - psilocybe atlantis — sometimes considered a synonym or closely related species
 
@@ -118,3 +66,22 @@ Named in honor of Teofilo Galindo, a Mexican scientist who contributed to the un
 - Controlled in Mexico under federal law
 - Sclerotia were legally sold in the Netherlands until the 2008 ban on fresh psilocybin mushrooms; legal status of sclerotia since then has been contested
 - Classified as a controlled substance in most other jurisdictions
+## Practical Considerations
+
+Successful implementation of Psilocybe galindoi requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

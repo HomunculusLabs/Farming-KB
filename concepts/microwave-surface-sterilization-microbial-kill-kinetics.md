@@ -131,8 +131,6 @@ While developed for spacecraft applications, the technology has potential in ter
 
 ## See Also
 
-- [[microwave-steam-flash-sterilization-mechanism|Steam Flash Sterilization Mechanism]]
 - [[microwave-surface-sterilization-technology|Microwave Surface Sterilization Technology]]
-- [[cotter-pasteurization-sterilization-methods|Pasteurization and Sterilization Methods]]
 - [[cervantes-sterilizing-grow-systems|Sterilizing Grow Systems]]
 - [[mushroom-microwave-sterilization|Mushroom Microwave Sterilization]]

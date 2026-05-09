@@ -1,7 +1,7 @@
 ---
-title: Fungal Biodiversity and Species Estimation
+title: Fungal Biodiversity Species Estimation
 created: 2026-04-28
-tags: [mycology, biodiversity, species-estimation, fungal-diversity]
+tags: [[mycology, biodiversity, species-estimation, fungal-diversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -10,7 +10,7 @@ type: concept
 
 # Fungal Biodiversity and Species Estimation
 
-Fungal biodiversity remains one of the most poorly
+fungal biodiversity remains one of the most poorly
 characterized frontiers in biological science.
 Despite their ecological importance and economic
 significance, only a small fraction of estimated
@@ -96,55 +96,10 @@ sampled habitat on Earth.
 ### Traditional Morphological Methods
 Fruiting body surveys, microscopic examination of
 cultures, and herbarium specimen identification
-remain the foundation of fungal taxonomy. These
-methods provide vouchered specimens with
-associated morphological, ecological, and
-distributional data. However, they are limited to
-fungi that can be found as fruiting bodies or
-cultures and are biased toward conspicuous,
-seasonal species that produce visible above-ground
-structures.
-
-### DNA Barcoding
-The internal transcribed spacer (ITS) region of
-ribosomal DNA has been adopted as the official
-fungal DNA barcode. ITS sequencing allows rapid
-identification of fungi from environmental samples
-and has revealed extensive cryptic diversity:
-morphologically identical species that are
-genetically distinct. Large reference databases
-(UNITE, GenBank) enable species-level
-identification of environmental sequences.
-
-### Metabarcoding and High-Throughput Sequencing
-Environmental metabarcoding involves extracting
-total DNA from a sample, amplifying the fungal ITS
-region with universal primers, and sequencing
-millions of reads using next-generation sequencing
-platforms. This approach detects fungi from all
-trophic guilds and life stages, including species
-that have never been cultured or observed.
-Challenges include primer bias, inability to
-distinguish viable from dead organisms, and
-difficulty assigning taxonomic names to sequences
-that do not match described species in reference
-databases.
-
-## Threats to Fungal Diversity
-
-Habitat destruction, particularly deforestation of
-tropical and temperate forests, is the primary
-threat to fungal biodiversity. Since most fungi
-cannot be conserved ex situ (many are
-unculturable), habitat conservation is the primary
-strategy. Climate change is altering fungal
-distribution and phenology, with potential
-cascading effects on ecosystems that depend on
-fungal-mediated processes including decomposition
+remain the foundation of [[decomposition]]
 and nutrient cycling. Pollution, especially
-nitrogen deposition, reduces ectomycorrhizal
 ## See Also
 
-- [[biodiversity-fungal-species-abundance-diversity]]
-- [[fungal-species-estimates-biodiversity-overview]]
 - [[fungal-species-estimation-methods-total-diversity]]
+
+See also: [[fungal-identification-and-biodiversity-assessment]]

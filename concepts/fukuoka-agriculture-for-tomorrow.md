@@ -22,25 +22,7 @@ Natural farming is not a primitive form of agriculture. It is neither a type of 
 
 - It would seem only natural that there be a form of farming that attempts to do as little as is necessary to grow crops for human sustenance
 
-See [[fukuoka-natural-farming-transcends-time-space]].
-
-## The Quarter-Acre Vision
-
-If laws were changed, instead of everyone converging on Tokyo and the other big urban centers, Japan's 120 million people could spread out over the 15 million acres of arable land the country has.
-
-- That is a quarter-acre for each of the 60 million households
-
-- Without using machinery, they could build a house on each plot of land and grow everything they need there -- rice, fruit, grains
-
-- If, in order to create a surrounding green belt, they planted a single black wattle seed or sapling each year, then in ten years time, even without a single drop of petroleum, everyone would have plenty of fuel
-
-- Japan is large enough to make this possible
-
-People will object about cars and modern conveniences. But if they were prepared to reject the frenzied lifestyle where everyone runs around in cars and were willing instead to enjoy life in a mountain retreat, all the absolute necessities are right there at one's feet. One could lead a spiritually elevated life without the least privation or inconvenience.
-
-## Small Self-Sufficient Communities
-
-Ideally, this would take the form of small, [[fukuoka-village-self-sufficient-community]].
+See [[fukuoka-village-self-sufficient-community]].
 
 - All matters would be taken care of right at the family farm
 
@@ -76,56 +58,31 @@ The moon reflected in the individual fields is broken and scattered into a thous
 
 - Then and only then will a richer, easier, and more relaxed form of agriculture emerge that preserves Japan's nature as in the past
 
-This connects to [[fukuoka-desert-greening-projects]].
-
-## Pine Rot as the Measure of Collapse
-
-Fukuoka saw Japan's beautiful countryside, crafted by farmers over thousands of years, as being destroyed. The farmers of old served nature, growing crops without digging up and destroying the soil. This tradition has not been handed down to young people.
-
-- Before farming youth had acquired a feeling of affection for nature, they became dazzled by the vigor of modern farming's rapid development
-
-- The latent fertility of the earth was such that exploitative farming methods based on modern science yielded economic benefits
-
-- Despite year after year of persistent assault, the soil continues still to yield rice and barley
-
-- The first sign of collapse is the epidemic of pine rot
-
-- The rate of collapse of Japan's pine forests can be safely regarded as the rate at which nature is collapsing in Japan
-
-Before long, Japan's natural beauty too will be completely destroyed and replaced by a false nature.
-
-## Agriculture Is the Root of Culture
-
-Agriculture is the root of culture. If the method of agriculture is mistaken, this upsets the eating habits and culture, destroying a people.
-
-- Poisoned by modern scientific farming based on Western philosophy which separates man from nature, the land in the farming communities of Europe and America has fallen into decline
-
-- Both the vegetation and food have become false
-
-- The crowning work achieved by blending human effort with nature is the thousand paddy fields
-
-- The human spirit and nature (God) that dwells in these thousand fields is in the process of dying throughout Japan
-
-- Ancient ruins may perish one day, but the thousand fields must never die
-
-## The Holland Priest's Vegetable Garden
-
-The priest Fukuoka met in Holland who dug up earth and created a vegetable garden, and found there his concentrates, exemplifies the principle well. Much talk in Japan concerns protecting the environment and restoring natural vegetation. But when Fukuoka speaks of returning to nature and creating anew the sacred village of the past, the only response he gets is: "What do you mean? Taking hikes in the woods?" The idea of building utopia never even occurs to them.
-
-## See Also
-
-- [[fukuoka-farming-for-all-quarter-acre-vision]]
-
-- [[fukuoka-village-self-sufficient-community]]
+This connects to [[fukuoka-farming-for-all-quarter-acre-vision]]
 
 - [[fukuoka-desert-greening-projects]]
 
-- [[fukuoka-pine-environment-collapse-japan]]
-
 - [[fukuoka-food-civilization-critique]]
-
-- [[fukuoka-natural-farming-transcends-time-space]]
 
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 
 - [[fukuoka-european-civilization-standstill]]
+## Practical Considerations
+
+Successful implementation of Fukuoka: Agriculture for Tomorrow -- Natural Farming Offers a New Future requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

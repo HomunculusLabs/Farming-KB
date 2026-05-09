@@ -29,9 +29,7 @@ According to the Cannabis Health Index, the evidence for cannabis in treating
 neuropathies is based on 5 studies reviewed with a total CHI value of 15,
 yielding a CHI score of 3.00.
 
-See also: [[blesching-cannabis-neuropathic-pain]],
-[[cannabis-chronic-pain-management]],
-[[blesching-cannabis-diabetes]],
+See also: [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-multiple-sclerosis]],
 [[blesching-cannabinoid-pharmacology]]
 

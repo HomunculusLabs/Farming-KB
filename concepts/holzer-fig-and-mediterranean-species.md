@@ -112,5 +112,4 @@ The broader lessons from Holzer's Mediterranean cultivation work can be summaris
 
 The fundamental message is that supposed climate limitations are often more about conventional thinking than about actual biological constraints. With creative design and willingness to experiment, the range of productive species in any location can be significantly expanded.
 
-See also: [[holzer-microclimate-creation]], [[holzer-fruit-growing-marginal-climates]], [[holzer-kiwi-and-grape-growing]], [[holzer-stone-fruit-varieties-and-growing]], [[holzer-sweet-chestnut-and-nut-trees]], [[holzer-terrace-systems]], [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
-- [[holzer-alpine-plant-cultivation-gentian]]
+See also: [[holzer-fruit-growing-marginal-climates]], [[holzer-stone-fruit-varieties-and-growing]], [[holzer-terrace-systems]], [[holzer-alpine-plant-cultivation-gentian]]

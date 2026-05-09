@@ -31,9 +31,9 @@ All four species (including Datura) have long histories of use as
 hallucinogens and magic plants connected with sorcery, witchcraft, and
 superstition.
 
-See also: [[henbane-plant]], [[henbane-hyoscyamus-niger-ethnobotany]],
-[[belladonna-plant]], [[belladonna-atropa-belladonna-ethnobotany]],
-[[mandrake-plant]], [[mandrake-mandragora-officinarum-in-european-folklore]]
+See also: [[henbane-hyoscyamus-niger-ethnobotany]],
+[[belladonna-atropa-belladonna-ethnobotany]],
+[[mandrake-mandragora-officinarum-in-european-folklore]]
 
 ## Tropane Alkaloid Chemistry
 
@@ -67,27 +67,8 @@ South America. Sometimes hallucinogens from the Datura group are administered
 to children; among the Jivaro, Brugmansia may be given to boys who are then
 admonished by ancestors during the intoxication.
 
-See also: [[datura-stramonium]], [[brugmansia-entheogens]],
-[[datura-metel-old-world-ethnobotany]]
-
-## Deadly Nightshade -- Atropa Belladonna
-
-Atropa belladonna, the Deadly Nightshade, is one of the most toxic plants in
-the European pharmacopoeia. The yellow variety (A. belladonna var. lutea) is
-regarded as particularly potent for magic and witchcraft. The bell-shaped
-flowers clearly show its membership in the Nightshade family. The Indian
-Belladonna (Atropa acuminata) and Caucasian species (A. caucasia, A.
-komarovii) are also noted.
-
-## Mandrake
-
-Mandrake (Mandragora officinarum) has a legendary status in European folk
-tradition. The flowers of the Mandrake are rarely seen, as they bloom very
-briefly and then quickly vanish. The root, which often resembles a human
-form, was believed to possess magical properties and was harvested with
-elaborate ritual precautions.
-
-See also: [[mandrake-plant]]
+See also: [[brugmansia-entheogens]],
+[[mandrake-plant]]
 
 ## Witches' Ointments
 
@@ -108,11 +89,9 @@ effects is the result of similarity in chemical constitution. Their effects
 -- and those of scopolamine -- differ markedly from those of the usual natural
 hallucinogens found in other plant families.
 
-See also: [[amanita-in-ancient-religion]], [[amanita-muscaria-cultural-history]],
+See also: [[amanita-muscaria-cultural-history]],
 richard evans schultes updated, albert hofmann
 
 ## See Also
-
-- [[syncretic-entheogenic-folk-ceremonies-community-churches]]
 
 - [[duboisia-hopwoodii-pituri-ethnobotany]]

@@ -63,13 +63,7 @@ The mitochondrial DNA of B. bassiana (strain GK2016) has been
 extensively mapped. Key features include genes for NAD1, ATP6,
 srRNA, CO3, NAD6, and tRNA clusters. The NAD1 and ATP6 genes lie
 between lrRNA and srRNA in B. bassiana and Aspergillus nidulans, but
-not in Neurospora crassa or [[podospora-anserina]]. CO3 and NAD6 lie
-between srRNA and lrRNA in B. bassiana, N. crassa, and A. nidulans
-(Pfeifer et al. 1993).
-
-tRNA genes in B. bassiana cluster differently with respect to rRNA
-regions compared to other fungi. These mitochondrial markers have
-been instrumental in studying [[fungal-biodiversity]], taxonomy, and
+not in Neurospora crassa or [[fungal-biodiversity]], taxonomy, and
 evolutionary genetics within the genus.
 
 ### Pathogenicity Mechanism
@@ -96,36 +90,11 @@ depending on the target pest and cropping system.
 
 Advantages of B. bassiana as a biocontrol agent include its broad
 host range, low mammalian toxicity, and compatibility with
-[[integrated-pest-management]] programs. However, efficacy can be
-variable depending on environmental conditions, particularly
-humidity and temperature, which affect conidial germination and
-infection rates.
-
-### Ecological Role
-In natural ecosystems, B. bassiana contributes to the regulation of
-insect populations as part of the soil microbiome. Conidia produced
-on infected insect cadavers can persist in soil for extended
-periods, creating a reservoir of infective propagules. The fungus
-has also been studied for endophytic colonization of plant roots.
-
-## Relevance
-B. bassiana is the premier model entomopathogenic fungus, serving
-both practical pest management applications and fundamental research
-in fungal pathogenicity, genetic diversity, and mitochondrial genome
-evolution. Its commercial success as a biocontrol agent demonstrates
-the viability of fungal-based alternatives to chemical insecticides
-in sustainable agriculture.
-
-## See Also
+[[lecanicillium-muscarium]]
 
 - [[beauveria]]
 
-- [[metarhizium]]
-Related: [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]], [[jadam-insect-pest-management]], [[cotter-natural-pest-control-disease-management]]
+- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]], [[cotter-natural-pest-control-disease-management]]
 
-- [[mushroom-cultivation-fundamentals]]
 - [[fungal-pest-control]]
-- [[neurospora-crassa]]
-- podospora anserina
-- metarhizium anisopliae
 - [[aspergillus-niger-in-fungal-bioleaching]]

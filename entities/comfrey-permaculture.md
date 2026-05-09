@@ -1,5 +1,5 @@
 ---
-title: [[symphytum-officinale]]
+title: Comfrey Permaculture
 type: species
 tags:
   - herbal-plant
@@ -13,17 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ — research on pyrrolizidine alkaloids and [[comfrey]] toxicity
+  - https://pubmed.ncbi.nlm.nih.gov/ — research on pyrrolizidine alkaloids and comfrey toxicity
   - White, Simon. "Comfrey: Past, Present and Future." HDRA (now Garden Organic), 2002.
-  - Hill, Robert. "Comfrey: Nature's Healing Herb & [[regenerative-agriculture]] Powerhouse." Permaculture Research Institute, 2019.
-  - Mudge, K., et al. "Nitrogen Fixation by Non-leguminous Perennials." Agroforestry Systems, 2009.
----
-
-# Symphytum officinale (Common Comfrey)
-
-## Overview
-
-**Symphytum officinale**, commonly known as **common comfrey**, is a perennial herbaceous plant in the family *Boraginaceae*, native to Europe and naturalized across temperate regions worldwide. In the permaculture community, comfrey is often regarded as one of the most essential and versatile plants in any [[food-forest]] or polyculture system, earning the moniker "the permaculture wonder plant." Its extraordinary ability to accumulate nutrients from deep subsoil layers, rapid biomass production, and multiple practical applications make it an indispensable component of regenerative agriculture systems.
+  - Hill, Robert. "Comfrey: Nature's Healing Herb & [[food-forest]] or polyculture system, earning the moniker "the permaculture wonder plant." Its extraordinary ability to accumulate nutrients from deep subsoil layers, rapid biomass production, and multiple practical applications make it an indispensable component of regenerative agriculture systems.
 
 The genus name *Symphytum* derives from the Greek *symphyo* ("to unite"), reflecting comfrey's centuries-old reputation as a wound-healing herb — the common name "knitbone" attests to its traditional use in promoting bone and tissue repair. However, modern awareness of **pyrrolizidine alkaloid (PAA) toxicity** has significantly tempered its internal medicinal use while leaving its external applications and agricultural utility largely unaffected.
 
@@ -102,35 +94,7 @@ Dense comfrey plantings create an effective barrier against creeping grasses and
 
 - **Propagation:** Root cuttings (most reliable); crown divisions; Bocking 14 is sterile so cannot be grown from seed
 - **Root cuttings:** 5–10 cm sections of root planted horizontally 5 cm deep; sprout within 2–4 weeks
-- **Spacing:** 60–90 cm apart in rows or [[guild-planting]] s
-- **Soil tolerance:** Extremely adaptable; performs in clay, loam, and sandy soils; tolerates pH 5.0–8.0
-- **Moisture:** Prefers moist soils but drought-tolerant once established; tolerates temporary waterlogging
-- **Sun:** Full sun to partial shade; more shade-tolerant than most productive perennials
-- **Establishment period:** First year produces modest growth; full productivity from year 2 onward
-- **Lifespan:** Individual plants can persist for 20+ years; productivity peaks in years 3–8
-
-## Medicinal Uses and Safety
-
-### External Use (Well-Supported)
-- **Wound healing:** Allantoin (the primary active compound) stimulates cell proliferation and tissue regeneration; comfrey preparations accelerate wound closure
-- **Bone and joint healing:** Traditional use for fractures, sprains, and osteoarthritis; some clinical evidence supports anti-inflammatory and analgesic effects of topical comfrey preparations
-- **Skin conditions:** Eczema, psoriasis, minor burns, and insect bites respond to comfrey ointments and poultices
-- **Anti-inflammatory:** Rosmarinic acid and other compounds provide significant topical anti-inflammatory activity
-
-### Internal Use (CAUTION — Hepatotoxicity Risk)
-**Comfrey contains hepatotoxic pyrrolizidine alkaloids (PAs), primarily symphytine and echimidine, which can cause:**
-- **Hepatic veno-occlusive disease (VOD):** Potentially fatal liver damage
-- **Hepatocellular carcinoma:** PAs are genotoxic and carcinogenic in animal models
-- **Cumulative toxicity:** PAs bioaccumulate in the liver with repeated exposure
-
-**Internal use is NOT recommended.** Several countries (Germany, Australia, Canada) have banned or restricted the sale of oral comfrey products. Even topical use on broken skin carries some absorption risk. Pregnant and breastfeeding women should avoid comfrey entirely.
-
-PA-free cultivars have been investigated but are not widely commercially available. The Bocking 14 cultivar has lower PA content than wild comfrey but is not PA-free.
-
-## Ecological Interactions
-
-- **Pollinators:** Attractive to bumblebees (*Bombus* spp.), honeybees, and long-tongued solitary bees
-- **Soil biology:** [[root-exudates]] and decomposing leaves support diverse soil microbial communities; mycorrhizal associations documented
+- **Spacing:** 60–90 cm apart in rows or [[root-exudates]] and decomposing leaves support diverse soil microbial communities; mycorrhizal associations documented
 - **Pest interactions:** Minimal pest problems; occasionally affected by comfrey rust (*Melampsorella symphyti*) and blackfly (*Aphis fabae*)
 - **Allelopathy:** Some evidence of mild allelopathic effects on certain weed species; not strongly suppressive of desired plants
 
@@ -143,8 +107,6 @@ Under typical temperate conditions, a mature comfrey plant (Bocking 14) produces
 - **Nutrient yield per hectare (year 2+):** ~400 kg N, ~300 kg K, ~200 kg Ca
 
 These yields make comfrey one of the highest-producing perennial biomass crops suitable for temperate climates.
-
 ## See Also
 
-- [[dynamic-accumulators]] — overview of nutrient-accumulating plants
 - [[nitrogen-fixing-plants]] — comparison with biological nitrogen fixation

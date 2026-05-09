@@ -95,16 +95,7 @@ In contrast, natural grazing uses only solar energy captured by pasture plants, 
 
 ## Comparison with KNF Livestock Methods
 
-Fukuoka's natural livestock philosophy shares much with [[cho-han-kyu-life-and-philosophy]] Korean Natural Farming livestock system:
-
-- Both reject antibiotics, hormones, and chemical treatments
-- Both emphasize natural diet and living conditions
-- Both integrate livestock with crop production
-- Both view livestock manure as a resource rather than a waste product
-
-However, there are differences:
-
-- KNF uses [[knf-indigenous-microorganism-culture]]-inoculated deep litter systems that allow confined raising without odor, while Fukuoka strongly prefers open grazing
+Fukuoka's natural livestock philosophy shares much with [[knf-indigenous-microorganism-culture]]-inoculated deep litter systems that allow confined raising without odor, while Fukuoka strongly prefers open grazing
 - KNF provides specific techniques for odorless confined production, while Fukuoka's approach is more philosophical
 - KNF is more practically oriented with specific recipes and methods; Fukuoka's approach is more philosophical with fewer specific techniques
 
@@ -126,23 +117,14 @@ For Fukuoka, the treatment of animals reflected humanity's relationship with nat
 - Natural grazing reflects a relationship of respect and partnership with nature
 ## See Also
 
-- [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
-
 - [[fukuoka-one-straw-revolution-philosophy]]
-- [[fukuoka-natural-farming-italy]]
 - [[knf-livestock-odorless-piggery]]
-- [[knf-livestock-chicken-house-natural-farming]]
 - [[cho-han-kyu-life-and-philosophy]]
 
 ## Related
 
-- [[alpha-n-o-tms-entity-tihkal]]
 - [[2c-g-pihkal-entry-27]]
-- [[doet-pihkal-66]]
-
 - [[fukuoka-desert-greening-projects]]
-
-- [[fukuoka-forty-days-africa]]
 
 - [[fukuoka-road-back-desert-reclamation]]
 - fukuoka natural livestock farming

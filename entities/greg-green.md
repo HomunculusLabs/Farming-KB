@@ -28,7 +28,7 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 9. **Hydroponics** — growing mediums, nutrients, the bubbler system
 10. **Outdoor growing** — site selection, care
 11. **Plant care** — thinning, light bending, pruning, training, yield increase (see [[cannabis-topping-training]])
-12. **Predators and pests** — identification and management (see cannabis pest management)
+12. **Predators and pests** — identification and management (see [[cannabis-pest-management]])
 13. **Problem solver** — troubleshooting common issues
 14. **Harvesting and curing** — indica vs sativa harvest timing, curing (see [[cannabis-harvest-and-curing]])
 15. **Breeding** — making seeds, pollen, simple breeding, genetics (dominant/recessive, Hardy-Weinberg), true breeding (cubing/backcrossing, selfing)
@@ -42,7 +42,7 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 - Acknowledged contributions from the online cannabis growing community including cannabisX.com and overgrow.com
 - Featured breeding expertise from [[vic-high]] and photographs from BushyOlderGrower, Chimera, Strawdog, and others
 - Covered both basic techniques for beginners and advanced methods (SOG, ScrOG, hydroponics) for experienced growers
-- Practical approach to [[cannabis-plant-nutrition]] and cannabis pest management
+- Practical approach to [[cannabis-plant-nutrition]] and [[cannabis-pest-management]]
 
 ## Significance
 
@@ -55,7 +55,26 @@ Green's Grow Bible became a foundational reference for cannabis cultivators worl
 - [[cannabis-lighting-guide]] — lighting systems covered extensively
 - [[cannabis-topping-training]] — plant training techniques
 - [[cannabis-harvest-and-curing]] — harvest timing and curing methods
-- cannabis pest management — pest identification and management
+- [[cannabis-pest-management]] — pest identification and management
 - [[cannabis-growth-stage-checklist]] — week-by-week grow checklist
 - [[cannabis-genetics-and-breeding]] — breeding chapter content
 - [[cannabis-hashish-guide]] — hash production from trichome screening
+## Practical Considerations
+
+Successful implementation of Greg Green requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

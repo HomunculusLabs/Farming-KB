@@ -116,8 +116,6 @@ production with proper variety selection and seasonal timing.
 
 ## Related Concepts
 
-- [[solomon-food-preservation-storage]]
 - [[solomon-root-cellaring-and-crop-storage]]
-- [[solomon-self-sufficiency-garden-production]]
 - [[solomon-intensive-vs-extensive-spacing]]
 - [[solomon-drought-gardening-and-water-conservation]]

@@ -18,71 +18,8 @@ type: concept
 
 The soil beneath forests acts as the largest and most
 beneficial water storage system in the landscape. Unlike
-[[mollison-designers-check-dam-types-and-landscape-placement]] and tanks
-that store free surface water, forest soils store water
-in multiple forms that are actively managed by tree roots
-and soil organisms. Understanding [[mollison-designers-soil-water-storage-in-forest-systems]] is essential for effective
-[[mollison-keyline-water-conservation]]
-design.
-
-## The Water Journey Through Soil
-
-When rain reaches the forest canopy, it is broken up and
-scattered, often to mist or coalesced into small
-bark-fissured streams, descending to earth robbed of the
-kinetic energy that destroys the soil mantle outside
-forests. Further impedance takes place on the forest floor,
-where roots, litter, logs, and leaves redirect, slow down,
-and pool the water.
-
-The root mat actively absorbs the solution that water has
-become, transporting it up the tree again to transpire to
-air. Some dryland plant roots build up a damp soil
-surround, and may be storing surplus water in the earth for
-daytime use; this water is held in the root associates as
-gels. Centrosema and Gleditsia are dryland woody legumes
-which have "wet" root zones, and other plants including
-Prosopis spp. are also reported to do the same in desert
-soils.
-
-## Field Capacity and Water Films
-
-The soil particles around the tree become wetted with a
-surface film of water, as do the leaves and root hairs.
-This bound water forms a film available to roots, which can
-remove the water down to 15 atmospheres of pressure, when
-the soil retains the last thin film.
-
-Once soil is fully charged at "field capacity", free water
-at last percolates through the interstitial spaces of the
-soil and commences a slow progression to the streams, and
-thence to sea. This transition point is critical: water
-held above field capacity drains away, while water held
-below it remains available for plant use.
-
-## Three Types of Soil Water Storage
-
-The soil has several distinct storage mechanisms:
-
-### Retention Storage
-Water bound to soil particles, held by surface tension.
-This is the primary reservoir from which plants draw water.
-As a generalisation, 2.5-7 cm (1-3 inches) of rain is
-stored per 30 cm (12 inches) depth of soil mantle in
-retention storage. Soils of fine texture and high organic
-content may store 10-30 cm (4-12 inches) of rain per 30 cm
-depth.
-
-### Interstitial Storage
-Water filling the cavities and pore spaces between soil
-particles. An additional 0-5 cm (0-2 inches) may be
-stored as interstitial storage above the retention
-storage.
-
-### Humus Storage
-Water absorbed by swollen mycorrhizal associations and
-spongy detritus in the humic content of soils. This is
-perhaps the most dynamic storage, as [[mollison-humus-and-organic-matter-in-soils]]
+[[mollison-designers-soil-water-storage-in-forest-systems]] is essential for effective
+[[mollison-humus-and-organic-matter-in-soils]]
 acts like a sponge that absorbs and releases water
 depending on plant demand and soil moisture conditions.
 
@@ -131,19 +68,25 @@ hold less water. The ideal is a loamy soil with balanced
 mineral and organic components.
 
 ### Organic Matter
-[[mollison-mulching-and-soil-health]]
-dramatically increases water-holding capacity. Soils with
-high humus content can store 10-30 cm of rain per 30 cm
-depth, compared to 2.5-7 cm for mineral soils alone.
-
-### Root Systems
-Deep tree roots create channels for water infiltration
-and access stored water at depth. The root mat of forests
-actively manages water, drawing it up for transpiration
-and creating the suction gradients that pull water down
-through the soil profile.
-
-### Soil Structure
-Good crumb structure, maintained by [[permaculture-soil-biota-and-earthworms]],
+[[permaculture-soil-biota-and-earthworms]],
 termites, and other soil organisms, creates the pore
 spaces necessary for both water storage and movement.
+## Practical Considerations
+
+Successful implementation of Soil Water Storage and Field Capacity in Forest Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

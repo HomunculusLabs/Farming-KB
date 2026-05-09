@@ -80,14 +80,7 @@ The energy systems on the Krameterhof demonstrate that a modern farm can operate
 
 ## See Also
 
-- [[holzer-water-landscapes]]
 - [[climate-and-microclimate-management]]
-- [[rainwater-harvesting-systems]]
-
-## Related
-
 - [[holzer-bone-salve-rock-dust]]
-- [[holzer-disaster-resistant-farming]]
 - [[holzer-fish-farming]]
-- [[holzer-roundwood-shelters-earth-cellars]]
 - [[holzer-stone-fruit-varieties-and-growing]]

@@ -23,7 +23,7 @@ type: comparison
 
 # Living Fences vs Hedgerows
 
-Living fences and hedgerows are closely related linear planting systems that share many functions but differ in primary purpose, structure, management intensity, and ecological complexity.
+comparison living fences vs hedgerows are closely related linear planting systems that share many functions but differ in primary purpose, structure, management intensity, and ecological complexity.
 
 ## Quick Comparison
 
@@ -115,12 +115,6 @@ Hedgerows are biodiversity hotspots. A mature British hedgerow supports over 2,0
 
 - **Living fence with productive hedgerow**: Dense barrier row backed by a wider multi-species strip
 - **Stockproof hedgerow**: Traditional British-style laid hedge serving as both fence and habitat
-- **Fedge (food hedge)**: A living fence composed primarily of edible species — fruiting shrubs and perennial vegetables maintained as a dense barrier
-
-## See Also
-
-- living fences and hedgerows
-- [[living-fences-vs-conventional-fencing]]
-- [[gaias-garden-hedgerows-and-windbreaks]]
+- **Fedge (food hedge)**: A living fence composed primarily of edible species — fruiting shrubs and [[living-fences-vs-conventional-fencing]]
 - [[gaias-garden-food-forest-history-and-evolution]]
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

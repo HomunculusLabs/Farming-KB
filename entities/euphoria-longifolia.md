@@ -117,12 +117,8 @@ CITES Appendix II listing has been proposed but not yet enacted as of 2025.
 ## See Also
 
 - [[piper-methysticum]]
-- [[mitragyna-speciosa]]
 - [[salvia-officinalis]]
 - [[withania-somnifera]]
-- [[ashwagandha]]
-- [[moringa-oleifera]]
 - [[symphytum-officinale]]
-- [[comfrey]]
 - [[food-forest]]
 - [[chop-and-drop]]

@@ -48,42 +48,7 @@ Several highly productive herbaceous perennials grow in or near water:
 
 - **Reed Canary Grass (Phalaris arundinacea)** -- Bulky grass used for animal bedding and fodder. Good quail and duck forage.
 
-### [[medicinal-herbs-for-livestock]]
-
-The book recommends incorporating medicinal herbs into animal forage systems so animals can self-medicate. These herbaceous perennials (and some biennials) form an important understory layer:
-
-**Herbaceous plants:** anise, balm, borage, chicory, comfrey, cress, daisy, dandelion, dill, dock, fennel, fenugreek, flax, garlic, herb Robert, hollyhock, kale, lavender, lucerne, mallow, marjoram, mint, nettle, parsley, plantain, rosemary, rue, sage, sorrel, tansy, thistle, thyme, valerian, vervain, violet.
-
-**Trees with medicinal foliage:** alder, ash, beech, birch, elder, elm, hawthorn, hazel, holly, juniper, lemon, lime, quince, raspberry, senna, walnut.
-
-## Duckweed and Floating Perennials
-
-- **Duckweed (Lemna, Wolffia, Spirodella spp)** -- About 40 free-floating perennial species, among the most vigorously growing plants on the planet (some doubling every 3 days). Valuable for removing excess nutrients from water. Concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt. Wolffia arrhiza is the smallest flowering plant on Earth, containing 20% protein, cultivated in SE Asia as a vegetable.
-
-- **Spirodella spp** -- Potential to produce equivalent feed value of 60 ha soybeans in 1 ha. Protein 37-45%.
-
-## Azolla -- Nitrogen-Fixing Aquatic Fern
-
-Family: Azollaceae. A small, perennial, free-floating fern that hosts a microscopic alga (Anabaena azolla) in its leaves. The alga fixes atmospheric nitrogen and makes it available to the Azolla as ammonia. Laboratory research has found the alga can also produce hydrogen from water, showing promise as a method of harnessing and storing solar energy cheaply.
-
-Used extensively in Vietnam as a companion in rice paddies because of the nitrogen it makes available to rice plants. Also feeds tilapia and other fish in rice paddy systems. Valuable food for pigs, poultry, and waterfowl. Reported to control mosquitoes and weeds by covering the water surface. Dried, it becomes a nitrogen-rich mulch material with water-holding properties similar to peat moss.
-
-## Water Mimosa (Neptunia oleracea)
-
-Family: Mimosaceae. A floating, leguminous plant native to Asia, Africa, and tropical America, found on still or slow-moving fresh water. In Thailand and Vietnam, grown in tanks. Leaves and stems eaten in salads; seed pods cooked and eaten. Plants also cooked as greens.
-
-## Yellow Velvetleaf (Limnocharis flava)
-
-Family: Limnocharitaceae. Native to Mexico, West Indies, Peru, and Brazil, cultivated in the rice paddies of Malaysia and marketed as a fresh vegetable. Old plants are ploughed into rice fields as green manure. Readily eaten by cattle (leaf protein 1-1.6%).
-
-## Margin and Water Meadow Perennials
-
-- **Mints (Mentha spp)** -- Medicinal and aromatic species for water margins
-- **Pearl Millet (Pennisetum spicatum)** -- Annual grass yielding up to 100 tonnes/ha; seed immune to weevil, stores 7+ years; requires about 120 days to mature
-- **Reed Canary Grass (Phalaris arundinacea)** -- Bulky grass for animal bedding and fodder; good quail and duck forage
-- **Blueberries (Vaccinium spp)** -- Suited to water margins and acidic soils; also provide bee forage
-
-## [[neem]] as Perennial Pest-Management Herb
+### [[neem]] as Perennial Pest-Management Herb
 
 While technically a tree, neem (Azadirachta indica) produces leaves that are dried and placed in books, grain, and clothes to repel insects. The bark is made into decoctions for fevers, nausea, and liver complaints. The presscake from seed oil extraction is used as insecticide. The dried leaves are ploughed into soil as green manure and are said to repel nematodes. This demonstrates how even tree species contribute to the herbaceous layer's pest-management functions through leaf litter and prunings.
 
@@ -113,10 +78,5 @@ Some of the most productive herbaceous perennials documented:
 - Use productive aquatic species in greywater treatment and constructed wetlands
 - Fodder grasses can be managed as lock-up systems, cut and carried to stock
 - Select perennial vegetables that also provide medicinal functions (comfrey, gotu kola)
-- Neem offers [[integrated-pest-management]] while providing timber and shade in the tropics
-
-## See Also
-
-- [[perennial-vegetables]]
-- [[permaculture-design]]
+- Neem offers [[perennial-vegetables]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

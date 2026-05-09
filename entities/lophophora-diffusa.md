@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/gottlieb-a-peyote-and-other-psychoactive-
 
 # Lophophora diffusa
 
-**Lophophora diffusa** is a species of small, spineless cactus endemic to a restricted range in the Mexican state of Querétaro. It is closely related to [[lophophora-williamsii]] (peyote) but differs significantly in its chemical composition, lacking [[mescaline-entity]] and instead containing pellotine as its primary alkaloid.
+**Lophophora diffusa** is a species of small, spineless cactus endemic to a restricted range in the Mexican state of Querétaro. It is closely related to [[mescaline-entity]] and instead containing pellotine as its primary alkaloid.
 
 ## Taxonomy and Description
 
@@ -18,36 +18,7 @@ Lophophora diffusa was originally classified as a variety of L. williamsii (L. w
 
 Additional taxa have been proposed by some researchers including L. fricii and L. jourdaniana, though the taxonomic validity of these remains debated. Some authorities recognize only two species (L. williamsii and L. diffusa), while others accept up to four species in the genus.
 
-The plant is similar in general form to [[lophophora-williamsii]] but can be distinguished by several morphological characteristics:
-
-- **Ribs**: Typically more numerous (8-13 compared to 5-9 in L. williamsii), often irregular and tuberculate
-- **Color**: Generally a paler, more yellowish-green compared to the blue-green of L. williamsii
-- **Wool**: The areolar wool is often more sparse and lighter in color
-- **Size**: Tends to be slightly smaller overall, with buttons reaching 3-8 cm in diameter
-- **Flowers**: Tend to be slightly larger and more commonly white rather than pink
-- **Seeds**: Generally larger and more robust than those of L. williamsii
-
-Like L. williamsii, L. diffusa is spineless, bearing only soft tufts of wool at each areole. The plant forms clumps through offsetting, though it tends to be somewhat less prolific in offset production than its better-known relative.
-
-The root system is similar, featuring a large taproot for water storage. The specific epithet diffusa refers to the more diffuse, irregular rib structure compared to the more defined ribs of L. williamsii.
-
-The plant was first formally described by the German botanist Paul Graebner in 1905, though indigenous knowledge of the species as a distinct entity long predates Western taxonomic classification.
-
-## Distribution and Habitat
-
-L. diffusa has a much more restricted natural range than L. williamsii. It is endemic to the state of Querétaro in central Mexico, where it is found in semi-arid scrubland and thorn forest at elevations of approximately 1,500-2,000 meters.
-
-The species is associated with limestone-rich soils and rocky outcrops in the Sierra Gorda region of Querétaro. The total natural range is estimated at only a few hundred square kilometers, making it significantly more geographically restricted than L. williamsii.
-
-Habitat destruction, illegal collection, and agricultural expansion have placed significant pressure on wild populations, and the species is considered threatened in its natural habitat.
-
-The Sierra Gorda region where L. diffusa grows is a biodiversity hotspot, home to numerous endemic plant and animal species. The regions rugged terrain has historically provided some protection from development, but expanding agriculture, road construction, and tourism are increasingly fragmenting remaining habitat.
-
-Climate change poses an additional long-term threat, as shifts in precipitation patterns could alter the arid conditions the species requires. Conservation biologists have identified L. diffusa as a priority species for protection due to its restricted range and vulnerability.
-
-## Chemical Composition
-
-The most significant difference between L. diffusa and L. williamsii is the near-total absence of [[mescaline-entity]] in L. diffusa. This distinction was a key factor in the elevation of L. diffusa to species status.
+The plant is similar in general form to [[mescaline-entity]] in L. diffusa. This distinction was a key factor in the elevation of L. diffusa to species status.
 
 Instead of mescaline, the primary psychoactive alkaloid in L. diffusa is:
 
@@ -81,7 +52,7 @@ The markedly different psychoactive effects would have made the distinction prac
 
 L. diffusa is cultivated similarly to L. williamsii, though it is somewhat less commonly encountered in cultivation. The species requires well-draining mineral soil, warm temperatures, and protection from prolonged direct sun in hotter climates.
 
-Growth rate is slow, comparable to L. williamsii. Grafting onto faster rootstock such as [[trichocereus-pachanoi]] or [[trichocereus-bridgesii]] significantly accelerates growth.
+Growth rate is slow, comparable to L. williamsii. Grafting onto faster rootstock such as [[trichocereus-bridgesii]] significantly accelerates growth.
 
 The species is generally considered somewhat more sensitive to overwatering and rot than L. williamsii, requiring careful watering practices. A mineral-based soil mix with added limestone chips replicates its native habitat conditions well.
 
@@ -119,10 +90,8 @@ The species extremely limited range makes it particularly vulnerable to habitat 
 
 ## See Also
 
-- [[plants-of-the-gods-lophophora-peyote]]
 - [[mescaline-entity]]
 
-- [[lophophora-williamsii]]
 - [[mescaline-entity]]
 - Pellotine
 - [[trichocereus-pachanoi]]

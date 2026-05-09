@@ -130,12 +130,8 @@ organic matter to the soil surface.
 
 ## See Also
 
-- [[anacardium-occidentale]]
-
 - [[curcuma-longa]] — turmeric, tropical understory crop paired with mango
-- [[zingiber-officinale]] — ginger, shade-tolerant rhizome crop for mango understory
 - [[morus-alba]] — mulberry, multi-purpose tree in tropical agroforestry
 - musa indica — banana, classic companion in tropical food forests
-- [[cymbopogon-citratus]] — lemongrass, aromatic understory herb
 - [[glycyrrhiza-glabra]] — licorice, root crop with similar anti-inflammatory profile
-- [[persea-americana-entity]] — avocado, complementary canopy tree in food forests
+- [[persea-americana]] — avocado, complementary canopy tree in food forests

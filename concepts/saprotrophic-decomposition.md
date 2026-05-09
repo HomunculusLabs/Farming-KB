@@ -1,7 +1,7 @@
 ---
 title: Saprotrophic Decomposition
 created: 2026-04-28
-tags: [mycology, ecology, decomposition, carbon-cycle]
+tags: [[mycology, ecology, decomposition, carbon-cycle]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -115,8 +115,6 @@ as a net carbon source or sink.
 
 ## See Also
 
-- [[mycelial-networks]]
 - [[fungal-ecology]]
-- [[soil-food-web]]
 - [[singh-lignin-peroxidase-lip-fungal-degradation]]
 - [[fungal-role-in-carbon-cycling]]

@@ -132,10 +132,7 @@ program.
 
 ## See Also
 
-- [[panax-ginseng]]
 - [[astragalus-membranaceus]]
-- [[glycyrrhiza-uralensis]]
 - [[schisandra-chinensis]]
-- [[eleutherococcus-senticosus]]
 - [[withania-somnifera]]
 - [[ocimum-tenuiflorum-entity]]

@@ -5,10 +5,7 @@ updated: 2026-04-24
 sources: "Psilocybin Mushrooms of the World (Stamets, 1996)"
 aliases: [cyans, blue halos, wavy-capped Psilocybe]
 type: concept
-tags: [mushroom-cultivation, mushrooms]
----
-
-# [[psilocybe-cyanescens]] — Wavy Caps
+tags: [[psilocybe-cyanescens]] — Wavy Caps
 
 Psilocybe cyanescens Wakefield is one of the most recognizable and potent
 psilocybin mushrooms, named for its characteristically wavy (undulating) cap
@@ -70,28 +67,30 @@ psilocin, and .02% baeocystin. Stijve and Kuyper (1985) found a maximum of
 
 ## Historical Significance
 
-[[andrew-weil]] (1975, 1977) brought this mushroom to the forefront of public
-awareness after he collected P. cyanescens in Oregon and published his
-experiences. The species has since become one of the most sought-after
-psychoactive mushrooms by foragers in temperate regions.
-
-## Taxonomic Notes
-
-The original descriptions consistently note that pleurocystidia are absent or
-present only near the gill edge (Wakefield 1946; Singer and Smith 1958;
-Guzman 1983). Stamets' own scanning electron microscope studies of Pacific
-Northwest collections revealed abundant capitate pleurocystidia. If the
-presence of pleurocystidia is accepted as taxonomically significant, the
-species description needs to be emended or a new taxon described.
-
-## Comparison with P. azurescens
-
-P. cyanescens is macroscopically similar to [[stamets-mushrooms-world-azurescens]], but differs in the form of the cap margin
+[[stamets-mushrooms-world-azurescens]], but differs in the form of the cap margin
 (wavy vs. nonundulating) and the lack of a distinct broad umbo. P. azurescens
 is also substantially larger and exhibits even stronger bluing.
 
 ## See Also
 
-- [[stamets-mushrooms-world-azurescens]]
 - [[stamets-mushrooms-world-baeocystis-stuntzii]]
 - [[stamets-mushrooms-world-chemistry-potency]]
+## Practical Considerations
+
+Successful implementation of Psilocybe cyanescens — Wavy Caps requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

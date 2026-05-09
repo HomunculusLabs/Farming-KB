@@ -134,8 +134,6 @@ multilingual interfaces in English, French, and German
 
 ## See also
 
-[[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
-[[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]

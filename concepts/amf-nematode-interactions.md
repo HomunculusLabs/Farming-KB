@@ -18,34 +18,7 @@ type: concept
 
 ## Overview
 
-[[arbuscular-mycorrhizal-fungi]] (AMF) influence plant interactions with
-root-feeding nematodes in complex ways that range from suppression to
-enhanced tolerance. The tripartite interaction between host plants, AMF,
-and plant-parasitic nematodes has significant implications for
-agricultural productivity, particularly in perennial crops and
-micropropagated plant systems. Research demonstrates that AMF can reduce
-nematode populations, limit root damage, and improve plant resilience
-under nematode pressure, although outcomes depend on the specific AMF
-species, host genotype, and nematode species involved.
-
-## Types of Nematodes Affected by AMF
-
-AMF interactions have been documented with several economically
-important nematode genera:
-
-- **Meloidogyne** (root-knot nematodes): G. mosseae suppressed root
-  galling and nematode build-up in roots of Meloidogyne incognita in
-  micropropagated banana. Galling was visibly reduced and the
-  reproductive rate of the nematode was lowered.
-
-- **Pratylenchus** (lesion nematodes): Both G. intraradices and G.
-  mosseae suppressed build-up of P. vulnus in pear rootstock. Numbers
-  of P. brachyurus nematodes per gram of root were significantly
-  decreased in mycorrhizal pineapple microplants when the pathogen was
-  introduced at planting or one month later.
-
-- **Radopholus** (burrowing nematodes): In dixenic root organ culture
-  including both AMF [[glomus-intraradices]] and Radopholus similis, AMF
+[[glomus-intraradices]] and Radopholus similis, AMF
   suppressed the nematode population by almost 50%, increasing
   protection of the root against the nematode.
 
@@ -127,24 +100,8 @@ species can produce different effects. In Prunus avium, G. mosseae
 provided protective effects against Phytophthora cinnamomi, while G.
 intraradices showed no such effect. The host cultivar also plays a
 critical role, as demonstrated by differential responses in potato
-cultivars inoculated with AMF and challenged by [[rhizoctonia-solani]].
-Environmental conditions, soil fertility levels, and the timing of
-nematode introduction relative to AMF establishment all influence the
-final outcome.
-
-## Relevance to Micropropagation and Horticulture
-
-The interaction between AMF and nematodes is particularly relevant for
-micropropagated plants, which lack the protective rhizosphere microbiome
-present in conventionally propagated plants. Micropropagules are
-produced in sterile conditions and are highly vulnerable to soil-borne
-pests and pathogens upon transfer to soil. Inoculation with AMF during
-the weaning stage can provide simultaneous protection against both
-fungal pathogens and nematodes, while also improving nutrient uptake and
-water relations during the critical establishment period. This dual
-protective function makes AMF especially valuable in integrated pest
-management strategies for high-value horticultural crops.
+cultivars inoculated with AMF and challenged by [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 
 ## See Also
 
-- [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
+- [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]

@@ -17,16 +17,7 @@ type: concept
 # Mariri (Magical Phlegm)
 
 The mariri, also called mann or yachay, is a magical phlegm that
-constitutes the central reservoir of a [[banco-sumiruna-muraya]]'s power. Stored in the throat and chest of the practitioner,
-the mariri is both a defensive weapon and a healing instrument. It
-contains animals, objects, and substances that the shaman uses in
-sorcery and curing. Understanding the mariri is essential to grasping
-Amazonian shamanic practice as described by Pablo Amaringo.
-
-## What Is the Mariri
-
-The mariri is a bodily substance believed to be developed through
-years of dieting [[amazonian-plant-teachers-doctores]]. It is
+constitutes the central reservoir of a [[amazonian-plant-teachers-doctores]]. It is
 described as a "colored cord" that is "spilled forth" from the
 shaman's mouth. The Queen Inamullo (necklace of thorns), also known
 as Huacra-chukcha (hair of thorns), is the master teacher of the
@@ -117,22 +108,6 @@ curandero has "strong vibrations and is even able to rob the mann
 from the curandero's breast, leaving him without powers." When a
 vegetalista loses his powers -- a condition called maituchishcami
 (from maytuy = to twist, meaning his magic powers are twisted) -- a
-great [[banco-sumiruna-muraya]] must "straighten" him by
-blowing the alli-huaira (good wind) to form a tornado that disperses
-the sorcery into infinite particles.
-
-## The Mariri and the Chonta Sorcerer
-
-The chontero (chonta sorcerer) keeps his chontas or virotes in his
-mann. When he wants to cause harm, he takes one of his chontas from
-his mann and blows towards his victim. The curandero who extracts
-these virotes with his own white mariri stores them in a bottle at
-his side for later disposal.
-
-## See Also
-
-- [[shamanic-powers-ayahuasca]] -- Powers stored within the mariri
-- [[ayahuasca-sorcery-types]] -- Sorcery delivered through the mariri
+great [[shamanic-powers-ayahuasca]] -- Powers stored within the mariri
 - [[curandero-healing-ayahuasca]] -- Healing uses of the mariri
-- [[plant-teachers-ayahuasca]] -- How the mariri is developed
 - [[banco-sumiruna-muraya]] -- Degrees of mariri mastery

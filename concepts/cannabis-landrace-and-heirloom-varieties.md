@@ -104,11 +104,7 @@ Landrace cannabis varieties are locally adapted populations that evolved in spec
 - Strain hunters collecting and preserving landrace seeds
 
 ## Related
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-phenotype-and-genotype-guide]] — for genetics
-- [[cannabis-genetics-and-breeding]] — for breeding
 - [[cannabis-plant-anatomy]] — for plant structure
-- [[cannabis-terpene-profile]] — for terpene chemistry
 - [[cannabis-hindu-kush-strain-description-clarke]]
-- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-mexican-strain-description-clarke]]

@@ -8,20 +8,9 @@ sources: [chos-global-natural-farming.md]
 type: concept
 ---
 
-# KNF Phosphoric Acid [[micronutrient-deficiency-symptoms]]
-
-Phosphoric acid is a substance of the cell nucleus and a major element
-of the reproductive body of the plant. If the plant is deficient in
-phosphoric acid, cell division is hindered and [[knf-reproductive-growth-stage]]
-suffers. Water-[[water-soluble-phosphoric-acid-wpa]] acid (WS-PA) is extracted from
-sesame stem charcoal in [[korean-natural-farming]].
-
-## Role of Phosphoric Acid in Plants
-
-Phosphoric acid is one of the most important elements for plant life:
-
-1. Phosphoric acid is a substance that composes the cell nucleus. It
-   is present in every living [[plant-cell-structure-and-organelles]] and is fundamental to
+# KNF Phosphoric Acid [[knf-reproductive-growth-stage]]
+suffers. Water acid (WS-PA) is extracted from
+sesame stem charcoal in [[plant-cell-structure-and-organelles]] and is fundamental to
    cellular structure and function.
 
 2. Absorbed phosphoric acid moves to the bud, root tip, or seed where
@@ -136,5 +125,4 @@ phosphoric acid needed for cell division in reproductive tissues.
 
 ## See Also
 
-- [[knf-calcium-deficiency-symptoms]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]

@@ -39,23 +39,7 @@ across the well-preserved remains of a man who died over
 5300 years ago, approximately 1700 years later than the
 Tassili cave artist. Dubbed the "Iceman," he was well
 equipped with a knapsack, flint axe, a string of dried
-Birch Polypores ([[piptoporus-betulinus]]) and another
-unidentified mushroom. The polypores could be used as
-tinder for starting fires and as medicine for treating
-wounds. Even today, this knowledge can be life-saving
-for anyone astray in the wilderness.
-
-## Mushrooms as Instruments of Power
-
-The historical record reveals that mushrooms have been used
-for less than benign purposes. Claudius II and Pope Clement
-VII were both killed by enemies who poisoned them with
-deadly Amanitas. Buddha died, according to legend, from
-a mushroom that grew underground. In ancient verse, that
-mushroom was linked to the phrase "pig's foot" but has
-never been identified.
-
-## The [[eleusinian-mysteries]]
+Birch Polypores ([[eleusinian-mysteries]]
 
 Aristotle, Plato, Homer, and Sophocles all participated in
 religious ceremonies at Eleusis where an unusual temple
@@ -74,7 +58,7 @@ in the early centuries of the Christian era. No revelation
 of the ceremony's secrets could be mentioned under the
 punishment of imprisonment or death.
 
-In 1977, R. Gordon Wasson, [[albert-hofmann]], and Carl Ruck
+In 1977, R. Gordon Wasson, gordon-wasson, and Carl Ruck
 first postulated that the Eleusinian mysteries centered on
 the use of psychoactive fungi. That Aristotle and other
 founders of western philosophy undertook such intellectual
@@ -136,7 +120,5 @@ relationship between humans and mushrooms that spans
 continents and millennia.
 ## See Also
 
-- [[growing-gourmet-mushroom-life-cycle]]
 - [[holzer-mushroom-cultivation-methods]]
-- [[shroom-cultural-history-mushroom-art-and-iconography]]
 - [[munn-mazatec-mushroom-oracular-cure]]

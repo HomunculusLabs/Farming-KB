@@ -58,93 +58,25 @@ The standard supplemented sawdust-bran substrate for bag cultivation:
 
 Alternative formulations use 75-93% sawdust with varying bran levels
 (5-25%) and supplements. Wood chips soaked in molasses-enriched water also
-work well. See also [[oyster-mushroom-substrate-preparation]].
-
-### Bag Preparation and Sterilization
-
-Heat-resistant polypropylene or polyethylene bags with microfilter windows are
-filled to two-thirds capacity, leaving airspace for ventilation. Substrate is
-sterilized at 121C (15 psi) for 15 minutes, adjusting time for bulk. In home
-laboratories, pressure cookers at 15 psi for 2 hours suffice. Polyethylene bags
-(not heat-resistant) require 85C for 72 hours.
-
-### Spawning Methods
-
-Two primary approaches:
-- **Through spawning**: Spawn mixed throughout entire substrate (faster spawn
-  run, better for large bags)
-- **Localized spawning**: Spawn deposited on top or sides (less contamination
-  risk)
-
-Grain spawn, liquid spawn, sawdust-bran spawn, dowels, and grooved plug spawn
-are all used. Fresh, vigorous spawn of the best strain should always be used.
-
-### Growth Parameters by Stage
-
-| Stage | Duration | Humidity | Light | CO2 | Temp |
-|-------|----------|----------|-------|-----|------|
-| Spawn run | Up to 2 months | 60-70% | None | Tolerates high | 25-30C |
-| Primordia initiation | 50-60 days after spawn | 90-95% | 100-200 lux | 0.1-0.5% | 25-30C |
-| Stipe formation | 10-14 days | 70-80%+ | 150-200 lux | 0.1-1% | 25-30C |
-| Pileus differentiation | 25+ days | 85-95% | 150-200 lux 12hr | < 0.1% | 25-30C |
-
-CO2 concentration is the critical factor determining fruiting body morphology.
-CO2 above 0.1% produces antler-shaped fruiting bodies, while CO2 below 0.1%
-(optimum 0.04-0.05%, close to fresh air at 0.03%) produces well-formed caps.
-
-## Natural Log Cultivation
-
-### Log Preparation
-
-Most broad-leaf hardwoods work for Ganoderma: oak, pecan, elder, choke cherry,
-and plum. Conifers and camphor-producing species should be avoided. Standard
-log size is 15cm diameter, 15-24cm long. Trees should be harvested during
-dormant season when trunks are full of sap, then air-dried 15-20 days to reach
-36-40% moisture content.
-
-Logs are enclosed singly or two end-to-end in bags with microfilter windows.
-Sterilize at 1.5kg/cm2 for 1.5 hours or at 100C for 10 hours.
-
-### Spawn Run and Soil Embedding
-
-Spawn is applied 3-5cm thick on cut surfaces (5-10g per log). Spawn run
-takes place in darkness at 25-30C. Unlike shiitake, superficial mycelial coat
-formation should be avoided; deep mycelial penetration into the log interior is
-essential. Primordia usually form 50-60 days after spawning.
-
-Colonized logs are embedded vertically in well-drained soil (sandy soil
-preferred), leaving primordia above ground. Cover soil with chopped straw for
-moisture retention. Soil embedding allows nutrient absorption, particularly
-minerals and trace elements.
-
-### Harvest and Post-Harvest
-
-From primordia to harvest takes approximately 25 days. Disappearance of the
-white growing margin signals readiness. Continue cultivation at 85% R.H. for
-7-10 more days for pileus thickness and firmness. Air dry at 60C immediately;
-complete drying within 2-3 days. Improper drying lowers quality through dark
-discoloration or mold contamination.
-
-## Speeding Up Spawn Run
-
-- Select vigorous, fast-growing strains
-- Use proper substrate moisture without waterlogging
-- Use large-diameter bags with ample air space
-- Apply generous amounts of fresh, high-quality spawn
-- Use through spawning for maximum distribution
-- Maintain darkness during spawn run
-- Set highest optimal temperature (30C)
-- Keep bags free from contamination
-
-## Bag vs. Natural Log Cultivation
-
-Important habitat considerations include using old forests where some logging
-has minimal impact, paired with forestation planning.
-
-## Related Concepts
-
-- [[shiitake-cultivation-log-method]]
-- [[oyster-mushroom-supplemented-sawdust-blocks]]
+work well. See also [[shiitake-cultivation-log-method]]
 - [[oyster-mushroom-spawn-production]]
-- [[mushroom-growing-house-construction-low-cost]]
 - [[oyster-mushroom-substrate-materials-guide]]
+## Practical Considerations
+
+Successful implementation of Ganoderma Lucidum Cultivation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

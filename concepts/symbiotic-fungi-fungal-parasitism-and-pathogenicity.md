@@ -111,16 +111,9 @@ Some fungal endophytes blur the line between parasitism and mutualism. Piriformo
 
 ## See Also
 
-- [[rozella-intracellular-parasitism-chytridiomycota]]
-
 - [[fungal-parasites]]
-- [[fungal-parasites-and-predators]]
 - [[fungal-pathogens-ecosystems]]
-- [[fungal-pathogens-in-agriculture]]
 - [[mycorrhizal-biocontrol]]
-- [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhiza]]
 - [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
-- [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]
 - [[symbiotic-fungi-endophytic-fungi-plant-protection]]

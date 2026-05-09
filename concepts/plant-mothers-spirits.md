@@ -113,7 +113,9 @@ considered particularly potent and rare.
 
 ## See Also
 
-- [[vegetalista-shamanism]]
 - [[ayahuasca-preparation-brew]]
-- [[icaros-power-songs]]
 - [[chacruna-psychotria-viridis]]
+
+## See Also
+
+- [[spirit-mothers-of-plants]]

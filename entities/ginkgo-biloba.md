@@ -97,7 +97,7 @@ The medicinal properties of ginkgo are attributed to two major classes of compou
 
 Primarily flavonol derivatives:
 
-- Quercetin, kaempferol, and isorhamnetin glycosides
+- [[kaempferol]], and isorhamnetin glycosides
 - Account for the antioxidant and free-radical scavenging activity
 - Standardized extracts contain 22–27% flavonoid glycosides
 
@@ -136,8 +136,6 @@ The most studied ginkgo preparation is **EGb 761** (Tebonin/Tanakan), manufactur
 ### Cerebral Circulation
 
 ## See Also
-
-- [[permaculture-plant-catalog]]
 
 - [[adaptogenic-herbs-guide]]
 - [[medicinal-mushroom-guide]]

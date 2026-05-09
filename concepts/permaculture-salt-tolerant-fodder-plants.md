@@ -17,7 +17,7 @@ It is common practice in saline, waterlogged conditions to plant into mounds 200
 
 Salt affected land should be fenced from stock. As useful fodder species become established, stock can be periodically turned onto these areas.
 
-See also [[salt-tolerant-plant-guide]] and [[permaculture-difficult-sites-plant-guide]] for complementary information.
+See also [[permaculture-difficult-sites-plant-guide]] for complementary information.
 
 ## Grasses
 
@@ -113,21 +113,9 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 
 ## Permaculture Integration
 
-- Use salt-tolerant grasses and legumes to reclaim [[permaculture-difficult-sites-plant-guide]] areas
-- Puccinellia and tall wheat grass provide productive pasture on saline land
-- Old man saltbush (A. nummularia) is the premier saltland fodder shrub at 17-21.9% protein
-- Always pair grasses with companion legumes (strawberry clover, sulla) for nitrogen fixation
-- Fence salt-affected areas and introduce stock only after establishment
-- WARNING: Avoid tamarisk species due to their tendency to increase surface salinity
-- Use mound planting (200-300 mm above ground level) following contours for waterlogged saline areas
-- Casuarina and Acacia species provide both fodder and wind protection
-- Integrate with [[permaculture-water-harvesting-earthworks]] for drainage and water table management
-- Combine with [[permaculture-water-harvesting-detailed]] to manage water table levels
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+- Use salt-tolerant grasses and legumes to reclaim [[permaculture-earthworks-and-water-harvesting]] for drainage and water table management
+- Combine with [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[salt-tolerant-fodder-species]]
-- [[permaculture-ground-cover-plants]]
-
-## See Also
+- [[permaculture-plants-salt-tolerant-fodder-systems]]
 
 - [[salt-tolerant-fodder-plants]]

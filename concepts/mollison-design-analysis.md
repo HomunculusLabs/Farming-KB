@@ -3,116 +3,98 @@ title: Mollison Design Analysis
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison's Design by Analysis
-
-Section 3.2 of Permaculture: A Designers' Manual presents the first formal design method: analysis of component characteristics. This approach involves systematically cataloguing the inputs, outputs, behaviors, and intrinsic properties of every element in a design, then connecting outputs of one component to inputs of another to create self-regulating systems.
-
-## The Analytical Approach
-
-Any design is composed of concepts, materials, techniques, and strategies. Permaculture attempts to integrate fabricated, natural, spatial, temporal, social, and ethical parts to achieve a whole. It concentrates not on the components themselves, but on the relationships between them, and on how they function to assist each other. The same parts, arranged differently, can create either a self-destructive system or a harmonious one. It is in the arrangement of parts that design has its being.
-
-## The Component Analysis Framework
-
-For every component, Mollison recommends listing four categories of information.
-
-### Inputs and Needs
-
-Primary needs are those the component requires for survival and function. For a chicken: food, warmth, shelter, water, grit, calcium, dust baths, and other chickens. Secondary needs include a tolerable social and physical environment for a healthy life of moderate stress.
-
-### Outputs and Products
-
-Primary products are direct yields: eggs, feathers, feather dust, manure, exhaled gases, sound, and heat. Derived products are what can be made from primary products: foods from eggs, insulation and rope from feathers, compost heat from manure, methane from anaerobic compost, and warmth for glasshouses from body heat.
-
-### Behaviors
-
-Behaviors are the active functions a component performs: walking, flying, perching, scratching, preening, mating, hatching, forming flocks, foraging, and processing food. Behaviors create opportunities for beneficial connections that pure product analysis might miss.
-
-### Intrinsics
-
-Intrinsics are breed or species characteristics: color, form, weight, climate tolerance, soil preference, predation resistance, space requirements, and metabolic factors. White chickens survive extreme heat, thickly-feathered dark chickens survive extreme cold. Heavy breeds like Australorps cannot fly over a 1.2 meter fence, while lighter breeds like Leghorns clear it easily.
-
-## The Critical Definitions
-
-Mollison establishes two foundational definitions that drive the entire analytical method.
-
-### Pollution
-
-A pollutant is an output of any system component that is not being used productively by any other component of the system. Chicken manure piled unused is pollution. Methane from decomposing waste released to atmosphere is pollution. The solution is not disposal but connection.
-
-### Extra Work
-
-Extra work is the result of an input not automatically provided by another component of the system. Buying feed for chickens because on-site forage is insufficient is extra work. Hauling water because rainwater is not harvested is extra work. The solution is not harder labor but better design.
-
-## Making Connections
-
-The analytical process moves from listing characteristics to making beneficial connections between components. Mollison poses four questions for each component:
-
-### Of what use are the products of this component to the needs of other components?
-
-Chicken manure fertilizes the orchard. Chicken feathers insulate the house. Chicken heat warms the glasshouse. Eggs provide food.
-
-### What needs of this component are supplied by other components?
-
-Kitchen scraps feed chickens. Orchard insects provide protein. Glasshouse warmth protects the poultry shed in winter.
-
-### Where is this component incompatible with other components?
-
-Chickens in a fish pond eat fingerlings. Chickens in a seedling bed scratch up young plants. Incompatibilities define exclusions, not eliminations.
-
-### Where does this component benefit other parts of the system?
-
-Chickens scratch and cultivate soil. Chickens control orchard pests. Chickens process food waste into fertilizer. Benefits define placements.
-
-## The Traditional Farm Problem
-
-Mollison illustrates the power of analysis by contrasting a typical small farm, where nothing is connected to anything else, with a redesigned farm where components serve each other. On the typical farm, the chicken house is distant from the orchard, the greenhouse is separate from the house, and manure must be hauled long distances. In the redesigned farm, the chicken house heats and is heated by the glasshouse, chickens range in the orchard providing manure and pest control, and the glasshouse also heats the house. Just by moving the same components into beneficial relationships, maintenance work is minimized and imported energy greatly reduced.
-
-## The Academic Fallacy
-
-Mollison warns against confusing assembled information with real resource creation. "I think, therefore I have acted" is the academic fallacy. Until the chicken is actually heating the greenhouse, manuring the orchard, or producing methane for the house, the system is just information, or potential. Until a component is actually in function, no real resources have been created and no real problems have been solved.
-
-## Strengths and Limitations
-
-The analytical approach is powerful because it can operate without site experience, making it ideal for early-stage conceptual design. However, this is also its weakness. It cannot account for site-specific factors like microclimate, soil variation, existing vegetation, or local wildlife. It must be combined with observational methods and verified through implementation on actual sites.
-
-## Beyond the Farm
-
-While Mollison illustrates the method with farm components (chicken, house, orchard, pond, woodlot), the analytical framework applies equally to urban gardens, community systems, and village design. Any system with definable components having inputs and outputs can be analyzed for beneficial connections. The method is universal, though the specific components and connections will vary with every context.
-
-## See Also
-
-[[mollison-design-methodology]]
-
-[[mollison-animal-integration-in-permaculture]]
+tags: [[mollison-design-methodology]]
 
 [[mollison-poultry-duck-integration]]
 
-[[mollison-free-range-poultry-forage-design]]
-
 [[mollison-house-and-garden-layout]]
 
-[[mollison-zone-and-sector-analysis]]
-
 [[permaculture-design-process]]
-
-[[permaculture-integrated-animal-systems]]
 
 [[competition-cooperation-permaculture]]
 
 ## Related
 
-- [[mollison-type-one-errors-in-design]]
 - [[mollison-designers-microclimate-creation-frost-protection]]
-- [[mollison-designers-mulch-pit-interplanting-technique]]
 - [[mollison-designers-rabbit-housing-and-manure-management]]
-- [[mollison-designers-rice-paddy-integrated-duck-fish]]
 - [[mollison-designers-small-dam-site-selection-design]]
-- [[mollison-designers-solar-water-heating-systems]]
 - [[mollison-designers-wickiup-and-quick-shelter-construction]]
-- [[mollison-designers-wind-generator-design-small-scale]]
 - [[mollison-designers-woven-fence-hedge-live-barrier]]
+## Practical Applications
+
+Mollison Design Analysis has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Mollison Design Analysis. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

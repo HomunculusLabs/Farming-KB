@@ -88,15 +88,8 @@ Modern pharmacology has confirmed that taste receptors throughout the body (not 
 
 The practical application of herbal actions and energetics involves assessing the presenting condition (what needs to change), the constitution of the person (who is being treated), and the energetic match between the herb and the condition. A hot, inflamed condition is treated with cooling herbs, while a cold, stagnant condition is treated with warming herbs.
 
-Combining herbs with complementary actions and energetics creates balanced formulations that address multiple aspects of a condition simultaneously. See [[herbal-formulation-principles]] for guidance on constructing effective herbal formulas.
-
-## See Also
-
-- [[herbal-materia-medica]] — individual herb profiles with actions
-- [[herbal-formulation-principles]] — combining herbs by action and energy
+Combining herbs with complementary actions and energetics creates balanced formulations that address multiple aspects of a condition simultaneously. See [[herbal-materia-medica]] — individual herb profiles with actions
 - [[herbal-medicine]] — overview of herbal medicine
-- [[herbal-medicine-safety]] — safety considerations by action category
 - [[herbal-tinctures-guide]] — tincture preparation by herb action
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[mushroom-cytokine-production-immune-activation]]

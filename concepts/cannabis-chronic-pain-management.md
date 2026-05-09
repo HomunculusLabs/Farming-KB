@@ -14,20 +14,7 @@ Cannabis has been used as an analgesic for over 5,000 years across ancient cultu
 
 ## Mechanism of Action
 
-The human body contains its own naturally occurring [[cannabis-endocannabinoid-system]]. Naturally occurring cannabinoids (like anandamide) or external cannabinoids signal cannabinoid receptors to regulate a wide variety of physiological processes including the sensation of pain:
-
-- **CB1 receptors** are located in the central nervous system (brain and spinal cord), controlling motor control, attention, emotion, cognition, habits, and memory functions. CB1 receptors are notably absent in the medulla oblongata (the brain region regulating heart and respiratory function), making cannabinoid-based pain management safer than opiates which can cause fatal respiratory depression.
-- **CB2 receptors** cluster in peripheral tissues, especially in immune system structures like the spleen. CB2 engagement is important for chronic pain associated with autoimmune diseases and inflammatory conditions.
-
-Cannabinoid receptors function as part of a biological lock-and-key mechanism. They can be activated in three ways: by release of the body's own cannabinoids (endocannabinoids like anandamide), through plant-based cannabinoids from cannabis, or through manufactured synthetic cannabinoids such as Dronabinol. Once activated, they initiate pain control and calm inflammation.
-
-## Pain Types and Cannabis Efficacy
-
-Understanding different pain types is essential for effective cannabinoid therapy, as cannabis interacts differently with each:
-
-- **Nociceptive pain** (tissue damage): Cannabis reduces inflammatory nociception through CB2 receptor-mediated anti-inflammatory action. It is less effective for acute nociceptive pain (such as new trauma) but useful for chronic inflammatory nociception.
-- **Neuropathic pain** (nerve damage): This is the strongest evidence area for cannabinoid analgesia. The ECS modulates pain signaling at peripheral nociceptors, spinal cord dorsal horn, and brain processing centers. Both THC (via CB1) and CBD (via TRPV1 and anti-inflammatory pathways) contribute to relief.
-- **Inflammatory pain:** CB2 activation on immune cells suppresses pro-inflammatory cytokine release (TNF-alpha, IL-1beta, IL-6), reducing the inflammatory cascade that drives chronic pain in conditions like arthritis and autoimmune disease. See [[cannabis-for-inflammatory-conditions]] for detailed mechanisms.
+The human body contains its own naturally occurring [[cannabis-for-inflammatory-conditions]] for detailed mechanisms.
 - **Central sensitization pain:** Conditions like fibromyalgia involve amplified central pain processing. Cannabis may help by modulating the ECS's role in central pain signaling and by reducing associated anxiety and sleep disturbance that perpetuate the pain cycle.
 
 A meta-analysis of studies from 2004-2009 (University of Massachusetts Medical School, Worcester) determined that all classes of cannabinoids -- endogenous, plant-based, synthetic, and non-cannabinoid constituents of cannabis -- effectively reduce pain involving inflammation, including post-surgical pain, rheumatism, rheumatoid arthritis, chronic neuropathic pain, and fibromyalgia.
@@ -94,46 +81,12 @@ Cannabis is most effective as part of a multimodal approach to chronic pain that
 - Post-Surgical Pain: CHI Value 4 (1 study reviewed)
 - Arthritis: CHI Value 6 (3 studies reviewed)
 - Rheumatoid Arthritis: CHI Value 10 (3 studies reviewed)
-
 ## Related
 
-- [[cannabis-endocannabinoid-system]] -- The biological system underlying cannabinoid analgesia
 - [[cannabis-for-inflammatory-conditions]] -- Anti-inflammatory mechanisms in pain conditions
-- [[cannabis-for-neurological-conditions]] -- Neurological pain and neuroprotective mechanisms
 - [[cannabis-methods-of-consumption]] -- Delivery methods for pain management
-- [[cannabis-immune-modulation]] -- Immune system interactions in chronic pain
 - [[cannabis-oil-capsules-preparation]]
-- [[cannabis-and-bone-cancer]]
-
-## Merged: Cannabis Marijuana Research and Medical Use
-
-Updated: 2026-04-18
-
-The Cannabis Grow Bible includes several research summaries challenging common misconceptions about marijuana's health effects. This page summarizes key findings from cited studies.
-
-## Three Things Marijuana Doesn't Do (California NORML, 1992)
-
-### 1. No Brain Damage in Monkeys
-
-Two independent scientific studies failed to find evidence of brain damage in monkeys exposed to marijuana:
-
-- Dr. William Slikker Jr. et al., National Center for Toxicological Research, Arkansas — examined 64 rhesus monkeys exposed to daily or weekly doses of marijuana smoke for a year. No structural or neurochemical changes found.
-
-- Gordon T. Pryor and Charles Rebert, SRI International, Menlo Park, CA — looked at over 30 rhesus monkeys inhaling marijuana 1-3 times daily for 6-12 months. No evidence of brain damage.
-
-Earlier studies by Dr. Robert Heath claiming brain damage in three heavily exposed monkeys were not accepted by the scientific community due to small sample size, questionable controls, and heavy doses.
-
-### 2. No Fetal Alcohol Syndrome Link
-
-Dr. Susan J. Astley, University of Washington (published Pediatrics, January 1992): Found no link between marijuana exposure and birth defects of fetal alcohol syndrome. This contradicted a 1982 study by Dr. Ralph Hingson, whose results were never replicated and questioned on methodological grounds (difficulty controlling for combined drinking and pot use).
-
-### 3. No Immune System Damage
-
-Despite lingering chemical changes in immune cells in the lungs of exposed monkeys, Slikker's group concluded that experimental exposure to marijuana smoke "does not compromise the general health of the rhesus monkey."
-
-## Context Within Broader Research
-
-These findings from the 1990s have been largely supported by subsequent research. Modern studies through the [[cannabis-endocannabinoid-system]] framework have revealed that cannabinoid receptors are naturally present throughout the human body, suggesting an evolutionary basis for cannabinoid interaction. Research into [[cannabis-for-mental-health]] applications continues to evolve, with studies exploring therapeutic potential for PTSD, anxiety, and depression. The cannabis chronic pain management research field has produced the strongest evidence for medical cannabis efficacy.
+- [[cannabis-endocannabinoid-system]] framework have revealed that cannabinoid receptors are naturally present throughout the human body, suggesting an evolutionary basis for cannabinoid interaction. Research into [[cannabis-for-mental-health]] applications continues to evolve, with studies exploring therapeutic potential for PTSD, anxiety, and depression. The cannabis chronic pain management research field has produced the strongest evidence for medical cannabis efficacy.
 
 ## Important Caveats
 

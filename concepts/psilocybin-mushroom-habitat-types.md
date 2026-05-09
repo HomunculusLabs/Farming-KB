@@ -20,7 +20,7 @@ The ecological niches and substrates where psilocybin-containing mushrooms natur
 
 ## Overview
 
-[[psilocybin-mushrooms]] are saprophytic fungi -- they obtain nutrients by decomposing organic matter. Their habitat preferences are determined by substrate availability, moisture, temperature, and the presence of specific nutrients. Understanding habitat is essential for both identification and foraging.
+Psilocybin mushrooms are saprophytic fungi -- they obtain nutrients by decomposing organic matter. Their habitat preferences are determined by substrate availability, moisture, temperature, and the presence of specific nutrients. Understanding habitat is essential for both identification and foraging.
 
 ## Major Habitat Categories
 
@@ -38,7 +38,7 @@ The most characteristic habitat for many psilocybin species, particularly in tro
 
 Temperate grassland habitats support some of the most widely distributed psilocybin species:
 
-- **Primary species**: *[[psilocybe-semilanceata]]* (liberty cap) fruits in autumn in pastures, meadows, and grassy fields, particularly those grazed by sheep and cattle. It does not grow directly on dung but on grass-rich soils enriched by animal activity.
+- **Primary species**: *Psilocybe semilanceata* (liberty cap) fruits in autumn in pastures, meadows, and grassy fields, particularly those grazed by sheep and cattle. It does not grow directly on dung but on grass-rich soils enriched by animal activity.
 - *Panaeolus cinctulus* occurs in horse pastures and manured fields.
 - Grassland species typically prefer cool, damp autumn conditions and are among the most widely distributed psilocybin fungi in Europe and North America.
 - Species in this habitat often fruit in fairy rings or scattered clusters.
@@ -73,7 +73,7 @@ Specialized coastal habitats support some of the most potent known psilocybin sp
 
 Some psilocybin species are lignicolous (wood-decomposing):
 
-- **Primary species**: *[[psilocybe-subaeruginosa]]* (Australia) fruits on decaying hardwood logs and wood chips.
+- **Primary species**: *Psilocybe subaeruginosa* (Australia) fruits on decaying hardwood logs and wood chips.
 - *Gymnopilus* species grow on decaying wood and tree stumps.
 - *Pluteus salicinus* occurs on decaying hardwood.
 - Wood-inhabiting species typically require higher humidity and fruit in autumn.

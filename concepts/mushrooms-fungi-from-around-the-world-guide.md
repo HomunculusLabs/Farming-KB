@@ -1,7 +1,7 @@
 ---
 title: "Mushrooms and Fungi From Around the World"
 created: 2026-04-28
-tags: [mycology, biodiversity, global-fungi, field-guide, ethnography]
+tags: [[mycology, biodiversity, global-fungi, field-guide, ethnography]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mushrooms-fungi-from-around-the-world.md]
@@ -15,52 +15,7 @@ fungal diversity across major world regions. While the extracted text
 consists primarily of section titles rather than detailed species
 descriptions (images were not extractable from the PDF), the
 organizational structure reveals the scope and geographic coverage of
-global [[fungal-biodiversity]] surveys. The presentation covers fungi
-from the Amazon, Africa, and a broad transect from Scotland to Russia,
-illustrating the remarkable diversity of fungal forms and ecological
-roles worldwide.
-
-## Geographic Coverage
-
-The presentation is organized into three major regional sections,
-each containing numerous slides of fungal specimens photographed
-in their native habitats. The regional divisions reflect major
-biogeographic zones with distinct fungal assemblages shaped by
-climate, vegetation, and ecological history.
-
-**Amazon Region:** The largest section, reflecting the extraordinary
-fungal diversity of tropical rainforests. The Amazon basin harbors
-an estimated diversity of fungal species that remains largely
-undescribed by science. Tropical fungi occupy diverse ecological
-niches including leaf litter decomposition, wood decay, root
-symbiosis, and parasitic relationships with insects and plants.
-The region's year-round warmth and humidity create ideal conditions
-for fungal growth, and many species fruit continuously rather than
-seasonally.
-
-**African Continent:** Fungi from Africa span the continent's
-enormous range of habitats, from tropical rainforests of the Congo
-basin to savanna grasslands, montane forests, and arid regions.
-Africa's fungal diversity includes many species used traditionally
-for food, medicine, and ceremonial purposes. The continent's
-mycological exploration remains far less complete than that of
-Europe or North America, with many regions essentially unsurveyed.
-
-**Scotland to Russia:** This transect covers temperate and boreal
-fungal communities across Europe and northern Asia. The progression
-from the maritime climate of Scotland through continental Europe
-to the vast taiga of Russia illustrates how fungal assemblages
-change with latitude, temperature, and dominant vegetation types.
-Northern temperate regions have been the most thoroughly studied
-mycologically, with many species first described from European
-collections.
-
-## Ecological Significance of Global Fungal Diversity
-
-Fungi play fundamental roles in every terrestrial ecosystem on
-Earth. As primary decomposers, they break down organic matter and
-recycle nutrients, making them essential for soil health and plant
-productivity. [[mycorrhizal-fungi]] form symbiotic associations with
+global [[mycorrhizal-fungi]] form symbiotic associations with
 the roots of an estimated 80-90% of all plant species, facilitating
 nutrient uptake in exchange for photosynthetic carbon. Pathogenic
 fungi regulate populations of plants, insects, and other organisms.
@@ -119,7 +74,24 @@ of mycology alone.
 
 ## Related Topics
 
-- [[field-guide-psilocybin-mushroom-species-identification]]
 - [[oss-oeric-psilocybe-cubensis-strain-guide]] for species details
-- [[oss-oeric-history-and-impact-underground-classic]]
 - [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
+## Practical Considerations
+
+Successful implementation of Mushrooms and Fungi From Around the World requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

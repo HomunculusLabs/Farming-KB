@@ -11,9 +11,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 updated: 2026-04-18
 
-During his three years of research on [[fukuoka-pine-rot-root-cause]],
-Masanobu Fukuoka arrived at the conclusion that the key to restoring
-the red pine was to restore the [[fukuoka-pine-blight-matsutake-portent]] (Tricholoma matsutake). This led him to attempt artificial
+During his three years of research on [[fukuoka-pine-blight-matsutake-portent]] (Tricholoma matsutake). This led him to attempt artificial
 cultivation of one of the most notoriously difficult fungi to grow.
 
 ## The Matsutake and Pine Rot Connection
@@ -93,17 +91,8 @@ microscope stayed in the closet.
 
 Fukuoka reflected: "Come to think of it, I accomplished nothing at all
 during those three years of intent research. This is as it should have
-been." This aligned with his broader [[fukuoka-do-nothing-farming-philosophy]]
-of non-intervention and respect for nature's wisdom over human
-intellectual manipulation.
-
-## See Also
-
-- [[fukuoka-pine-rot-root-cause]]
-- [[fukuoka-pine-blight-matsutake-portent]]
+been." This aligned with his broader [[fukuoka-pine-rot-root-cause]]
 - [[fukuoka-pine-blight-matsutake-research]]
-- [[fukuoka-soil-microbiology]]
 - [[fukuoka-ecological-balance-principles]]
-- [[what-natural-farming-method-should-i-use]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-matsutake-culture-medium-appendix]]

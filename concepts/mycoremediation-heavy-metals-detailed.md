@@ -57,32 +57,25 @@ Some fungi can change the oxidation state of metals, altering their toxicity and
 - **Saccharomyces cerevisiae:** Brewer's yeast biomass from the brewing industry is a commercially available biosorbent. Effective for cadmium, lead, and copper at pH 4-6
 
 ### Mycorrhizal Fungi
-- **[[arbuscular-mycorrhizal-fungi]] (AMF):** While not used directly in bioreactors, AMF play a critical role in metal phytoextraction by hyperaccumulator plants. They can reduce metal toxicity to host plants while enhancing metal uptake into plant tissues for later harvesting
-- **Ectomycorrhizal fungi:** Some species (Pisolithus tinctorius, Suillus luteus) are highly tolerant of metals and can be used to establish vegetation on contaminated mine tailings
-
-## Practical Applications
-
-### Spent Mushroom Substrate (SMS)
-The most immediately practical application of fungal metal biosorption uses waste biomass from mushroom cultivation:
-
-- SMS from oyster mushroom (Pleurotus) cultivation can remove 60-90% of heavy metals from aqueous solutions at optimized pH
-- SMS is abundant (estimated 5 kg of SMS per kg of mushroom produced), low-cost, and requires minimal processing
-- Effective for treatment of mining effluent, electroplating wastewater, and landfill leachate
-- After metal saturation, metal-loaded SMS can be stabilized in cement or ceramics to prevent re-release
-
-### Mycofiltration for Stormwater
-Fungal mycelial mats installed in drainage pathways can filter heavy metals from stormwater runoff before it reaches waterways. This approach is particularly effective for road runoff containing zinc (from tires), copper (from brake pads), and lead.
-
-## Limitations and Considerations
-
-- **pH dependence:** Biosorption capacity varies dramatically with pH. Most fungal biosorbents work optimally at pH 4-6. Acidic conditions protonate binding sites, while alkaline conditions precipitate metals as hydroxides independent of fungal activity
-- **Competing ions:** In mixed-metal solutions, ions compete for binding sites. Selectivity depends on ionic radius, charge density, and the specific binding groups available
-- **Biomass disposal:** Metal-loaded fungal biomass is classified as hazardous waste in most jurisdictions and must be stabilized or disposed of appropriately. Metal recovery through acid elution is preferred when economically feasible
-- **Long-term stability:** Precipitated metal forms (oxalates, sulfides) may re-dissolve under changing environmental conditions. Long-term monitoring of remediated sites is essential
-
-## See Also
-
-- [[fungal-biosorption-mechanisms]] — detailed biosorption chemistry
-- [[mycoremediation-techniques]] — overview of mycoremediation approaches
+- **[[fungal-biosorption-mechanisms]] — detailed biosorption chemistry
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] — species-specific data
 - [[mycoremediation-bioreactor-design-considerations]] — bioreactor design for metal remediation
+## Practical Considerations
+
+Successful implementation of Mycoremediation of Heavy Metals requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

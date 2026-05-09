@@ -128,8 +128,6 @@ positively harmful.
 
 ## See Also
 
-- [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-straw-vegetable-growing]]
-- [[fukuoka-straw-soil-building]]
 - [[fukuoka-straw-pest-control-natural-balance]]
 - [[fukuoka-straw-natural-farming-philosophy]]

@@ -121,7 +121,7 @@ Buckwheat, mustard, and alfalfa not only absorb phosphorus but exhibit "subseque
 - Grow accumulators as understory plants or border plants
 - Periodically cut and drop as surface mulch
 - Nutrients release slowly as material decomposes
-- Works perfectly in [[composting-and-soil-biology]] systems
+- Works perfectly in [[no-till-gardening-method]] systems
 
 ### 5. Fermented Plant Extract
 - Use accumulator plants as FPJ/FPE material in KNF

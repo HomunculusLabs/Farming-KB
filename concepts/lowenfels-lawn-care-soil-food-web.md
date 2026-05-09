@@ -20,31 +20,15 @@ a biological perspective is the first step toward sustainable turf management.
 
 Lawns are grasslands, and like all grassland plants, grasses prefer bacterially
 dominated soils with nitrogen available in nitrate form (Rule 2). The preferred
-[[lowenfels-bacterial-fungal-dominance]] for lawns is
-0.5:1 to 1:1, making them similar to prairie ecosystems. Lawns need the full
-complement of [[lowenfels-earthworms-soil-food-web]] organisms to
-cycle nutrients, build [[lowenfels-soil-structure-aggregates]],
+[[prairie-ecology|prairie ecosystems]]. Lawns need the full
+complement of [[lowenfels-soil-structure-aggregates]],
 retain moisture, and suppress disease. A healthy lawn soil food web includes
-[[lowenfels-bacteria-role-soil]], [[lowenfels-fungi-role-soil]],
-protozoa, nematodes, microarthropods, and [[lowenfels-earthworms-soil-food-web]], all working together to support grass growth.
-
-## The Chemical Lawn Care Cycle
-
-Chemical lawn fertilizers deliver high concentrations of nitrates that feed
-grass roots directly, bypassing soil biology. However, these salt- based
-fertilizers cause osmotic shock that kills [[lowenfels-chemical-fertilizers-damage]]. Without microbes to cycle nutrients, more
+[[lowenfels-fungi-role-soil]],
+protozoa, nematodes, microarthropods, and [[lowenfels-chemical-fertilizers-damage]]. Without microbes to cycle nutrients, more
 fertilizer must be applied, creating a vicious cycle of dependency.  Removing
 grass clippings compounds the problem by depriving soil of organic matter.
 Earthworms flee when salts are applied. Fungi and bacteria that bind
-[[lowenfels-soil-structure-aggregates]] are eliminated. Soil
-loses structure, the ability to hold air and water diminishes, and diseases like
-dollar spot, mildew, and gray mold take hold as natural biological defenses are
-lost.
-
-## Assessing Lawn Soil Health
-
-Before making changes, gardeners should assess the current state of their lawn's
-soil food web. The presence of [[lowenfels-earthworms-soil-food-web]] is an excellent indicator: worms will not survive without
+[[lowenfels-earthworms-soil-food-web]] is an excellent indicator: worms will not survive without
 bacteria, fungi, and protozoa to eat. Birds hunting for worms after rain, worm
 castings on the surface at night, and abundant worm populations all suggest a
 reasonably healthy food web that may only need maintenance rather than
@@ -55,20 +39,7 @@ assessment of what organisms are present and what needs correction.
 
 The transition from chemical to biological lawn care requires stopping chemical
 applications and building soil biology. Organic microbial fertilizers should be
-applied in early spring, followed by [[lowenfels-compost-tea-brewing]] throughout the growing season. Grass clippings should be
-left on the lawn to decompose and feed soil organisms. A mulching mower returns
-nitrogen-rich clippings directly to the soil surface. Over time, as microbial
-populations rebuild, nutrient cycling resumes and the need for external inputs
-decreases. The transition may take one to three growing seasons for full
-recovery.
-
-## Aeration and Compaction
-
-Lawn soils become compacted from the weight of snow and ice, pets, children, and
-vehicles. Plug aeration every three to four years in early spring relieves
-compaction and allows air, water, and organisms to reach deeper soil layers.
-After aerating, an organic microbial fertilizer or
-[[lowenfels-compost-tea-brewing]] should be applied to inoculate the
+applied in early spring, followed by [[lowenfels-compost-tea-brewing]] should be applied to inoculate the
 newly exposed soil. This is far more effective than mechanical aeration alone,
 as it introduces the organisms needed to maintain the new pore spaces created.
 Areas with severe compaction may need repeated treatment over several seasons.

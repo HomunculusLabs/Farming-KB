@@ -5,7 +5,8 @@ tags: [electrical-engineering, circuits, electromagnetism, physics, engineering]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
 ## Definition
@@ -111,28 +112,12 @@ Kirchhoff's laws are used to calculate resistor networks, bias transistor circui
 
 They support filter design, amplifier feedback calculations, op-amp circuits, power-supply regulation, and motor-drive models.
 
-In power systems they appear in load-flow approximations, distribution feeder studies, and fault-current calculations.
-
-In simulation, they provide the skeleton on which device physics, numerical integration, and nonlinear solvers are built.
-
-## Related Concepts
-Kirchhoff's laws extend Ohm's law from a single element to an interconnected network.
-
-They are closely related to impedance because AC circuit analysis applies KCL and KVL to complex-valued phasors.
-
-They connect to [[electromagnetic-induction-faraday-law]] when KVL must include induced electromotive force.
+In [[electromagnetic-induction-faraday-law]] when KVL must include induced electromotive force.
 
 They also connect to transmission-line behavior when conductors can no longer be treated as zero-delay ideal wires.
 
 Graph formulations link them to network analysis, sparse matrices, and numerical methods used in engineering software.
 
 ## References
-Wikipedia pages on Kirchhoff's circuit laws and electrical networks were consulted for definitions, historical context, and limitations.
-
-Standard circuit-analysis textbooks present KCL, KVL, nodal analysis, mesh analysis, and modified nodal analysis in detail.
-
-Electromagnetics texts explain the connection between Kirchhoff models, Maxwell's equations, and the low-frequency approximation.
-
-## See Also
-- [[ingham-field-guide-compost-tea-microscope-analysis]]
+Wikipedia pages on Kirchhoff's circuit laws and electrical networks were consulted f [[ingham-field-guide-compost-tea-microscope-analysis]]
 - [[mushrooms-fungi-from-around-the-world-guide]]

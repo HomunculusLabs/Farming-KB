@@ -63,61 +63,7 @@ Both are hermaphroditic, but earthworms reproduce faster and tolerate a wider ra
 | **Containment** | Escape-proof fencing critical | Open-bottomed bins OK; worms stay for food |
 | **Substrate** | Loam soil with calcium amendment | Bedding (shredded paper, leaves, coconut coir) |
 
-Vermicomposting wins decisively on startup cost and simplicity. A plastic bin, some shredded newspaper, and a handful of worms from a friend is enough to begin. Snail farming demands purpose-built enclosures, careful substrate preparation, and more rigorous environmental management.
-
-## Feed and Nutrition
-
-| Factor | Snail Farming | Vermicomposting |
-|--------|--------------|-----------------|
-| **Diet** | Leafy greens, fruit, formulated concentrate | Virtually all organic waste — kitchen scraps, manure, paper |
-| **Calcium requirement** | Critical — must supplement continuously | Moderate — grit in bedding sufficient |
-| **Feed cost** | Moderate (forage + concentrate) | Negligible (waste streams) |
-| **Feeding frequency** | Daily (evening) | Weekly or as needed |
-| **Feed-to-product ratio** | ~2–3 kg feed per 1 kg snail meat | ~4–6 kg waste per 1 kg vermicompost |
-
-Earthworms are the ultimate recyclers — they thrive on materials that would otherwise be waste. Snails are more selective feeders requiring dedicated forage or purchased feed, which adds to operational cost.
-
-## Production Yields
-
-| Metric | Snail Farming | Vermicomposting |
-|--------|--------------|-----------------|
-| **Meat/protein yield** | 2–5 kg/m²/year | 0.5–1 kg worm biomass/m²/year |
-| **Soil amendment yield** | 1–2 kg castings/m²/year (by-product) | 5–15 kg vermicompost/m²/year (primary product) |
-| **Revenue per m²/year** | $15–75 (meat + by-products) | $5–20 (compost + worms) |
-| **Breeding cycle** | 6–12 months | 6–8 weeks |
-
-Snail farming produces more revenue per unit area due to the high value of edible snail meat, but vermicomposting produces a larger volume of material and requires far less labor per kilogram of output.
-
-## Labor and Management
-
-| Factor | Snail Farming | Vermicomposting |
-|--------|--------------|-----------------|
-| **Daily labor** | Feeding, misting, health checks | Minimal — weekly feeding sufficient |
-| **Harvest complexity** | Purging (5–7 days), processing, cooking | Simple screening and separation |
-| **Skill level required** | Moderate (nutrition, disease management) | Low (feed, moisture, harvest) |
-| **Scalability** | Moderate (climate control limits scale) | High (modular bins, low labor) |
-
-Vermicomposting is arguably the easiest form of livestock to manage. Snail farming requires more active attention to environmental conditions, especially humidity.
-
-## Risk Profile
-
-| Risk | Snail Farming | Vermicomposting |
-|------|--------------|-----------------|
-| **Predation** | High (rats, birds, beetles) | Low (indoor bins protect worms) |
-| **Disease** | Moderate (bacterial, fungal, nematode) | Low (rare disease issues) |
-| **Escape risk** | High — snails climb and burrow | Very low — worms stay near food |
-| **Climate sensitivity** | High — mass mortality in heat/cold/dry | Moderate — worms can survive adverse conditions |
-| **Regulatory risk** | Moderate (species restrictions, food safety) | Minimal |
-| **Market risk** | Moderate (niche demand) | Low (consistent organic gardening demand) |
-
-## Best Fit Scenarios
-
-**Choose snail farming when:**
-- You want to produce high-value edible protein
-- You have access to restaurant markets or gourmet food channels
-- You can provide reliable shade and humidity control
-- You're interested in value-added products (mucin, caviar)
-- You want to integrate livestock into a food forest or agroforestry system
+Vermicomposting wins decisively on startup cost and simplicity. A plastic bin, some shredded newspaper, and a handful of worms from a friend is enough to begin. Snail farming demands purpose-built enclosures, careful [[food-forest]] or agroforestry system
 
 **Choose vermicomposting when:**
 - Your primary goal is waste management and soil improvement
@@ -139,6 +85,5 @@ The strongest homesteading approach often starts with vermicomposting (low risk,
 
 ## See Also
 
-- [[comparison-bsf-farming-vs-vermicomposting]]
 - [[fukuoka-textdoc-three-types-farming-comparison-yields]]
 - [[natural-farming-methods-comparison]]

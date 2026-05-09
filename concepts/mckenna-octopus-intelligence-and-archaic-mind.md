@@ -77,19 +77,11 @@ The suppression of psychedelic exploration is, at its deepest level, a suppressi
 
 ## See Also
 
-- [[mckenna-archaic-sexuality-and-partnership-society]]
-
-[[mckenna-transcendent-other-and-exopheromones]]
-
-[[dmt-hyperspace-and-machine-elves]]
+- [[mckenna-transcendent-other-and-exopheromones]]
 
 [[mckenna-food-of-the-gods-thesis]]
 
-[[tryptamine-consciousness-theory]]
-
 [[mckenna-dmt-amazonian-ecosystems]]
-
-[[mckenna-ur-plant-hypothesis]]
 
 [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-human-cognition-and-the-stoned-age]]

@@ -121,9 +121,6 @@ culture and sets off on the road to decline. "Zen and food are one."
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-textdoc-nature-of-food]]
-- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]

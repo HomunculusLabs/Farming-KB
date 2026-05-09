@@ -136,14 +136,8 @@ methylation with methyl iodide and KOH in MeOH, gave
 
 ## See Also
 
-- [[2-tom-entity-pihkal]]
-
 - [[5-tom-entity]]
 
-- [[tomso-entity]]
-
 - [[mme-entity-pihkal]]
-
-- [[eme-entity-pihkal]]
 
 - [[j-entity-pihkal]]

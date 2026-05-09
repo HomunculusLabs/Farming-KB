@@ -120,14 +120,9 @@ Among Suillus species, S. bovinus is less palatable to collembola than S. luteus
 
 ## See Also
 
-- [[suillus-edible-species]]
 - [[suillus-granulatus]]
-- [[suillus-luteus]]
-
 - [[suillus-luteus]] - congeneric ectomycorrhizal species with heavy metal tolerance
-- [[laccaria-laccata]] - ectomycorrhizal species with comparable lead uptake (6.2%) but no mineral solubilization
 - [[pisolithus-tinctorius]] - ectomycorrhizal species with strong heavy metal tolerance and very low collembola preference
-- [[thelephora-terrestris]] - ectomycorrhizal species with similar decomposition suppression effects
 - [[paxillus-involutus]] - fellow ectomycorrhizal species in decomposition studies with Hypholoma fasciculare
 - rhizopogon vinicolor - one of three species showing mineral solubilization alongside Suillus bovinus
 - hysterangium setchellii - ectomycorrhizal species sharing mineral weathering capacity with Suillus bovinus

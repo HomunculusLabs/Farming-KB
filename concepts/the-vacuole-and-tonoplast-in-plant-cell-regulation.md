@@ -133,12 +133,8 @@ The two membranes work as a system:
 
 ## Related Topics
 
-- [[plant-cell-structure-and-organelles]] -- the vacuole in cellular context
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] -- the transport proteins
-- [[diffusion-osmosis-and-active-transport-in-plants]] -- the physics of movement
 - [[adenosine-triphosphate-and-cellular-energy]] -- energy for active transport
-- [[plant-cell-membrane-transport-proteins]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[stomata-transpiration-and-plant-water-regulation]]
 - [[plant-gravitropism-and-spatial-awareness]]

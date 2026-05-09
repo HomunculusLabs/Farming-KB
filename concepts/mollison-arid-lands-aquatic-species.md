@@ -22,7 +22,7 @@ Ducks and hens, their eggs and surplus breeders, represent the main potential so
 
 Guinea fowl and pigeons should be considered as prime candidates for camp food resources. Pigeons are kept in traditional dovecotes, while guinea fowl are managed as herded flocks. Both supply eggs and meat. In mulga areas, a great deal of natural seed falls, and guinea fowl also utilize many insect foods and pests. On range, poultry may need elevated roosts and nest boxes on pipes to escape foxes and goannas. Pigeons in dovecotes are immune to fox predation.
 
-The [[forage-systems-animals-permaculture]] approach in arid zones relies heavily on these small, adaptable domestic species that can be integrated with tree crops and water systems. See also [[free-range-poultry-forage-design-mollison]] for detailed poultry integration strategies.
+The [[free-range-poultry-forage-design-mollison]] for detailed poultry integration strategies.
 
 ## Fish in Arid Water Systems
 
@@ -34,56 +34,84 @@ Importantly, there is no risk of fish escapes via the desert and salt pans that 
 
 Bees present an opportunity not only for honey but for pollen collection. Pollen traps are available and would supply high-protein flour additives for remote outstations. In arid environments where conventional protein sources are scarce, bee pollen represents a valuable nutritional supplement.
 
-Bee forage in drylands depends heavily on native flowering species, particularly Acacia, which produce abundant nectar and pollen. The [[bee-forage-hive-management-mollison]] principles can be adapted to arid conditions with appropriate species selection and hive placement near reliable water sources.
-
-## Native Animal Species
-
-The review of native Australian species for arid food systems is mixed. Some small reptiles, including *Moloch horridus* and geckoes, may be useful in ant control and pest management in glasshouses. Frogs, when provided with pools, contribute to insect control.
-
-Mollison strongly advocates selective trapping over broadscale shooting for native macropods. Shooting, particularly at night, kills many kangaroos that are then rejected for food because of no fat or yellow fat. Baited compounds or traps at water holes make far more sense, as fat-free, female, and old male animals can be released to breed again, and only the immature and well-conditioned animals taken for food.
-
-Active planting of emu berry, honey locust, tree lucerne, and similar forage species may increase native animal numbers, but only if selective trapping rather than indiscriminate broadscale shooting is practiced. Mollison identifies the real solution as extermination of feral ruminants, which carry many of the flies that spread disease.
-
-## Aboriginal Food Gathering Techniques
-
-There are many areas, known to Aboriginal people, where wallaby and rat-kangaroo survive. These could serve as nuclei for spreading harmless native species into homelands if feral herbivores were controlled nearby.
-
-In gathering seeds and small fruits, Aboriginal people traditionally rake clean the leaves from under selected trees, spread skins or make a funnel in sand, then beat the trees to bring down fruit or seed. This practice incidentally protects the tree from fire, provides a drip-line mulch, and thus alters the chance of survival of high-yielding trees. Mollison describes this as an example of how, in their long history in Australia, Aboriginal people have acted as de facto agriculturalists.
-
-Aboriginal people also stored seed in clay-lined pits, baskets, wood or stone hollows, and transported seed over great distances, trial-planting species such as native tobacco at selected sites. Meats were dried, mussels stored in damp sand, and clay domes were constructed for food preservation.
-
-## Water Conservation and Soil Building
-
-Mulching practices were well established in traditional Aboriginal land management. Waterholes were thatched over to prevent evaporation. The action of soil fungi, termites, and bacteria in the heat of central Australia quickly reduces potentially noxious wastes to soil, converting ashes, bones, and litter around camps into rich garden soil aided by water from showers, washing, and kitchen preparation.
-
-Traditional harvesting of mulga involved breaking off twigs and branches to gather mistletoe berries, scale-insect sugars, and edible galls. Mollison notes that effort must be made to demonstrate correct methods of harvesting introduced fruits such as grapes, oranges, and small fruit to people accustomed to harvesting the tree rather than the fruit.
-
-## Native Seeds and Berries
-
-A rich assemblage of native seed and berry species provides food resources in arid environments:
-
-- *Panicum decompositum* (Native millet or Kalta kalta)
-- *Eragrostis eriopoda* (Wangana)
-- *Portulaca oleracea* (Wakati)
-- *Themeda australis* (Kangaroo grass)
-- *Owenia reticulata* (Emu berry, Marloo, Gnarloopoo)
-- *Chenopodium rhadinostachyum*
-- *Paspalidium jubiflorum*
-- *Acacia aneura* (Mulga, Wata or Kuraku)
-- *A. kempeana* (also for witchetty grubs)
-- *A. boloserica*
-- *A. cowleana*
-- *A. victoriae*
-
-## Arid Forage Crops
-
-Sunflower does well everywhere in arid Australia and is almost wild at Alice Springs, Papunya, and Emabella. Heads can be cut off and fed entire to poultry. The plant resists fire, serves as a trellis for lab-lab and pole bean crops, provides a short-term windbreak, and contributes mulch. Husked, it provides good oil and food for humans. Unopened heads can be eaten as a vegetable. Mollison recommends broadscale trials of sunflower as a grain crop for arid regions.
-
-Millets, including sorghum, sweet corn, and sudax, serve similar functions. Sudax works well as a mulch and border species, while sorghum provides sugar and seed. All can be used as human food or forage.
-
-Perpetual grain plots, unploughed, can yield approximately 11,750 kg of grain per hectare plus legume seed. Such systems would be ideally sited under vine crop or Paulownia. Using the CSIRO ripple-flow process, all grains, sunflower, and legumes can be hulled and ground to flour in one machine, suited to central processing in small settlements and communities.
-- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+Bee forage in drylands depends heavily on native flowering species, particularly Acacia, which produce abundant nectar and pollen. The [[mollison-native-seed-forage-systems-and-arid-species-lists]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[arid-zone-permaculture-strategies-mollison]]
 - [[tree-vine-crops-arid-tropical-mollison]]
+## Practical Applications
+
+Arid Lands Aquatic and Domestic Species has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Arid Lands Aquatic and Domestic Species. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

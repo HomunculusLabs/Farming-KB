@@ -117,8 +117,8 @@ catch winter moth.
 - Mulch around the base to retain moisture and suppress weeds
 - Net soft fruits as they ripen to protect from birds
 
-See also: [[hamilton-organic-soil-management]], [[hamilton-organic-pest-control]],
-[[hamilton-wildlife-gardening-biodiversity]], [[hamilton-organic-seed-saving-propagation]]
+See also: [[hamilton-organic-pest-control]],
+[[hamilton-organic-seed-saving-propagation]]
 
 ## See Also
 

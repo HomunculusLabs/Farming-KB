@@ -1,32 +1,7 @@
 ---
 title: Mycelium Network
 created: 2026-04-28
-tags: [mycology, ecology, fungi, networks, symbiosis]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
-type: concept
----
-
-# Mycelium Network
-
-Mycelium is the vegetative body of fungi, composed of a vast network of
-threadlike cells called hyphae. More than a mile of these filamentous cells
-can infuse a single gram of soil, forming interlocking mosaics that function
-as information-sharing membranes across entire ecosystems. Paul Stamets
-describes mycelium as "the neurological network of nature," a living
-biological internet that stays in constant molecular communication with its
-environment.
-
-## Structure and Growth
-
-Individual hyphae are typically one cell wall thick and branch continuously
-as they advance through their substrate. When hyphae from compatible spores
-encounter each other, they fuse to form a mycelial mat capable of covering
-thousands of acres. The largest known organism on Earth is a specimen of
-honey fungus (*Armillaria ostoyae*) in Oregon's Blue Mountains, spanning
-approximately 2,385 acres, discussed further in [[wood-decay-fungi]]. Mycelium secretes acids and enzymes into its
+tags: [[wood-decay-fungi]]. Mycelium secretes acids and enzymes into its
 immediate surroundings, externally digesting organic matter before absorbing
 nutrients through its cell walls, a strategy fungi evolved more than a billion
 years ago.
@@ -57,17 +32,7 @@ responses to complex challenges.
 ## Ecological Roles
 
 Mycelium serves as the foundation of terrestrial ecosystems through several
-key functions. As decomposers, [[saprophytic-fungi]] break down dead organic
-matter, cycling nutrients back into the soil. Mycorrhizal fungi form
-symbiotic associations with over 90 percent of plant species, extending the
-root network and dramatically increasing nutrient and water uptake. The
-mycelial membrane also filters water, reducing downstream particulate flow,
-mitigating erosion, and modulating water movement through soil.
-
-Beyond decomposition and nutrient cycling, mycelial networks create habitat
-for countless microorganisms. The hyphal surfaces provide substrates for
-bacterial colonization, and the compounds exuded by mycelium feed diverse
-microbial communities that together constitute the [[soil-food-web]]. In
+key functions. As decomposers, [[soil-food-web]]. In
 this way, mycelium acts as both engineer and conductor of the underground
 ecosystem, shaping not just physical soil structure but the biological
 composition of entire ecological communities.
@@ -93,34 +58,30 @@ and optimize resource distribution in ways that resemble computation. In
 landmark experiments, slime molds (which form similar network structures)
 recreated the Tokyo rail system when tasked with connecting food sources
 distributed like cities on a map. True fungal mycelium shows comparable
-abilities: when presented with multiple food sources, [[biological-network-theory]]
-researchers have shown that mycelium allocates its biomass to form
-efficient transport pathways, pruning back less productive connections and
-reinforcing the most economical routes. This capacity for adaptive network
-optimization occurs without any centralized control, emerging instead from
-local interactions between hyphal tips and their chemical environment.
-
-## Chemical Signaling and Defense
-
-Mycelial networks are chemical battlegrounds and communication hubs. Hyphae
-release a constant stream of volatile organic compounds, enzymes, and
-secondary metabolites into their surroundings. These chemicals serve multiple
-functions: they signal to other organisms (including plants and bacteria),
-inhibit competitors, and attract beneficial partners. When one part of a
-mycelial network detects a pathogen, alarm compounds can propagate through
-the network, triggering defensive responses in distant sectors before the
-threat arrives. This chemical communication extends to the plants that
-mycorrhizal mycelium partners with. Plants receiving signals through shared
-fungal networks have been shown to ramp up production of defensive compounds
-in anticipation of herbivore attack, a phenomenon sometimes called
-"eavesdropping" on neighbor communications.
-
-## Mycelium in the [[mycorestoration]] Framework
+abilities: when presented with multiple food sources, [[mycorestoration]] Framework
 
 Stamets uses mycelium networks as the basis for his four-part strategy of
-[[mycorestoration]]. By selecting and deploying specific fungal species, these
-natural networks can be harnessed for [[unknown-mycelium-mycofiltration]] (water filtration),
-[[mycoforestry]] (forest health), [[mycoremediation]] (toxin degradation),
+[[unknown-mycelium-mycofiltration]] (water filtration),
+[[mycoremediation]] (toxin degradation),
 and [[mycopesticides]] (pest control). The key insight is that mycelium is
 not merely a passive organism but an active, responsive biological system
 that can be directed toward healing degraded environments.
+## Practical Considerations
+
+Successful implementation of Mycelium Network requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

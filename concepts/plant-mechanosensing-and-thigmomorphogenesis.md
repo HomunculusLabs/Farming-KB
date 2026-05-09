@@ -17,37 +17,7 @@ Far from being passive organisms, plants continuously sense touch, wind,
 vibration, and physical obstacles, translating these mechanical stimuli into
 coordinated developmental and physiological responses. The most dramatic
 manifestation of this sensitivity is thigmomorphogenesis -- the alteration of
-[[tompkins-magnetism-plant-growth]] form in response to mechanical stimulation. Understanding how
-plants "feel" their surroundings reveals a sensory capacity of remarkable
-sophistication, one that challenges conventional assumptions about the
-boundaries between plant and animal perception.
-
-## The Sense of Touch in Plants
-
-The idea that plants respond to touch has been recognized for centuries, most
-famously through the rapid leaf-folding response of Mimosa pudica, the
-"sensitive plant." When touched, this plant collapses its leaves within
-seconds, a dramatic display that has fascinated observers from Charles Darwin
-to modern plant biologists. Darwin devoted extensive study to plant movement
-in his 1880 book The Power of Movement in Plants, documenting how plants
-respond to mechanical stimuli with directed growth changes.
-
-However, Mimosa's thigmonastic response represents only the most visible tip
-of a much broader phenomenon. Virtually all plants sense and respond to
-mechanical forces, even when the responses are not immediately obvious to
-casual observers. These subtler responses include changes in stem thickness,
-root architecture, leaf orientation, flowering time, and gene expression
-patterns -- all triggered by the physical experience of being touched,
-shaken, bent, or brushed.
-
-## Mechanoreceptors at the Cellular Level
-
-At the molecular level, plant mechanosensing begins with mechanosensitive
-ion channels embedded in the plasma membrane. These protein pores open in
-response to mechanical deformation of the membrane, allowing calcium ions
-and other charged particles to flood into the cell. The resulting calcium
-spike serves as a primary signal that propagates through the plant tissue,
-activating downstream [[plant-signaling-pathways]] involving calmodulin, calcium-
+[[plant-signaling-pathways]] involving calmodulin, calcium-
 dependent protein kinases (CDPKs), and reactive oxygen species.
 
 The calcium signature produced by mechanostimulation is remarkably specific.
@@ -132,13 +102,7 @@ Wind sensing also plays a role in pathogen defense. The physical damage
 caused by wind-driven leaf abrasion creates entry points for fungal and
 bacterial pathogens, so wind-stimulated plants upregulate their defensive
 gene expression programs. The interplay between mechanosensing and
-[[plant-olfaction-and-chemical-sensing]]
-illustrates how plant sensory systems function as an integrated whole.
+[[organic-vegetable-growing-calendar]]
 
-## See Also
-
-- [[organic-vegetable-growing-and-market-gardening]]
-
-- [[plant-olfaction-and-chemical-sensing]]
 - [[plant-memory-and-learning]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]

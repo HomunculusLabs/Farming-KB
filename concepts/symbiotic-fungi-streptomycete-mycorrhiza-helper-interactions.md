@@ -35,19 +35,7 @@ plant growth regulators, increase root branching or permeability,
 improve nitrogen or phosphate availability, enhance plant resistance
 against pathogens, and contribute to soil quality. Helper bacteria
 include intrahyphal bacteria in ectomycorrhizal fungi, intraspore
-bacteria in [[arbuscular-mycorrhizal-fungi]], and species colonizing the
-surfaces of fungal hyphae and mycorrhizal roots.
-
-## Streptomyces as Mycorrhiza Helpers
-
-Streptomyces species are filamentous, spore-forming actinomycetes that
-produce an extraordinary diversity of bioactive secondary metabolites.
-Isolates from the rhizosphere of Norway spruce (Picea abies) have
-demonstrated particularly significant effects on mycorrhizal fungi. The
-isolate Streptomyces sp. AcH 505 promotes mycelial growth and
-mycorrhization rates of the ectomycorrhizal fungus Amanita muscaria
-while simultaneously suppressing plant-pathogenic fungi including
-Armillariella obscura and [[heterobasidion-annosum]].
+bacteria in [[heterobasidion-annosum]].
 
 This dual activity is ecologically significant because it suggests that
 MHB can simultaneously promote beneficial mycorrhizal partnerships and
@@ -121,30 +109,8 @@ rather than a mixture of active and inactive biomass.
 
 ## Ecological Significance
 
-Mycorrhiza helper bacteria occupy a critical position in [[soil-food-web]].
-By promoting mycorrhizal establishment, they indirectly enhance plant
-nutrient acquisition, particularly phosphorus and nitrogen. By
-suppressing pathogens, they provide a natural defense mechanism. The
-finding that different media conditions can flip an interaction from
-mutualistic to antagonistic suggests that the outcome of these
-interactions in natural soils depends on local nutrient availability
-and competitive pressures.
+Mycorrhiza helper bacteria occupy a critical position in [[symbiotic-fungi-mycorrhiza-history-frank-discovery]] Topics
 
-## Applications
-
-Understanding MHB mechanisms has practical implications for forestry
-and agriculture. Inoculation with selected streptomycetes could
-accelerate mycorrhizal establishment in reforestation programs,
-enhance plant resilience in contaminated soils, and provide
-biological control of root pathogens as an alternative to chemical
-fungicides.
-
-## Related
-
-- [[symbiotic-fungi-mycorrhiza-history-frank-discovery]] Topics
-
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]] for
-  ectomycorrhizal symbiosis details
 - [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]] for
   AMF study techniques
 - [[symbiotic-fungi-lichen-symbiosis-overview]] for broader

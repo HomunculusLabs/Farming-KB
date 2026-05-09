@@ -35,32 +35,6 @@ The medicinal value of Lion's Mane centers on two classes of compounds that stim
 
 - **Erinacines** (especially erinacine A): found in the mycelium; stimulate NGF synthesis in astrocytes
 - **Hericenones** (especially hericenones C and D): found in the fruiting body; cross the blood-brain barrier and promote NGF production
-- **[[beta-glucans]]**: immunomodulatory polysaccharides (1,3 / 1,6 linked)
-- **Hericium Erinaceus polysaccharides (HEP)**: additional immunomodulatory fractions
-
-### Chaga
-
-Chaga's profile is dominated by compounds related to its birch tree host and extreme environmental exposure:
-
-- **Betulin and betulinic acid**: triterpenes derived from birch bark; betulinic acid has anti-tumor and antiviral activity
-- **Melanin**: extremely high levels responsible for the black exterior; potent antioxidant and radioprotective
-- **Superoxide dismutase (SOD)**: among the highest natural sources of this critical antioxidant enzyme
-- **Polyphenols**: potent free radical scavengers
-- **Inotodiol and other lanostane triterpenoids**: anti-inflammatory and cytotoxic compounds
-- **Beta-glucans**: water-soluble immunomodulatory polysaccharides
-
-## Primary Medicinal Applications
-
-### Lion's Mane — Nervous System Focus
-
-- **Cognitive enhancement**: improves memory, focus, and mental clarity through NGF stimulation
-- **Neuroprotection**: may help protect against age-related cognitive decline, Alzheimer's, and Parkinson's
-- **Nerve regeneration**: promotes regeneration of damaged peripheral nerves
-- **Mood support**: preliminary evidence for reducing anxiety and depression symptoms
-- **Digestive health**: traditional use for gastric ulcers and gut inflammation; recent research on gut-brain axis effects
-
-### Chaga — Antioxidant and Immune Focus
-
 - **[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]**: one of the highest ORAC scores of any food; combats oxidative stress systemically
 - **Immune modulation**: beta-glucans activate macrophages, NK cells, and cytokine production
 - **Anti-inflammatory**: reduces chronic inflammation through multiple pathways including NF-kB inhibition
@@ -72,11 +46,9 @@ Chaga's profile is dominated by compounds related to its birch tree host and ext
 
 This is where the two mushrooms diverge most dramatically:
 
-**Lion's Mane** is readily cultivated on supplemented hardwood sawdust (oak, maple, or beech with 10-20% wheat bran). It fruits reliably indoors in 2-4 weeks after colonization, making it one of the easier [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]] to grow at home or commercially. Yield per bag is good, and cultivation is well-documented in [[medicinal-mushroom-guide-lions-mane]] and [[medicinal-mushroom-guide-lions-mane]].
+**Lion's Mane** is readily cultivated on supplemented hardwood sawdust (oak, maple, or beech with 10-20% wheat bran). It fruits reliably indoors in 2-4 weeks after colonization, making it one of the easier [[medicinal-mushroom-guide-lions-mane]] and [[lactarius-cultivation-attempts]] using birch logs or inoculated trees show promise but produce sclerotia with different compound profiles than wild-harvested material.
 
-**Chaga** is notoriously difficult to cultivate. It does not fruit reliably in artificial culture and the sclerotium — the medicinally active part — requires years of growth on a living birch tree to develop its full complement of compounds, particularly the betulin/betulinic acid derived from the host. Most commercial Chaga is wild-harvested from boreal forests, raising sustainability concerns as demand surges. [[lactarius-cultivation-attempts]] using birch logs or inoculated trees show promise but produce sclerotia with different compound profiles than wild-harvested material.
-
-See [[chaga-inonotus-obliquus-medicinal-profile]] and [[medicinal-mushroom-guide-chaga]] for details on sourcing and compound variability.
+See [[medicinal-mushroom-guide-chaga]] for details on sourcing and compound variability.
 
 ## Preparation and Dosage
 
@@ -109,31 +81,4 @@ Many practitioners combine both — Lion's Mane in the morning for cognitive foc
 
 Sustainability is a critical differentiator between these two mushrooms:
 
-**Lion's Mane** has a low sustainability footprint. It can be cultivated on [[agricultural-waste-substrates]] products (sawdust, bran) and does not require wild harvesting. Commercial cultivation reduces pressure on wild populations, and home cultivation is straightforward and accessible. The species is not considered threatened in the wild.
-
-**Chaga** faces serious sustainability challenges. Wild harvesting involves cutting the sclerotium from living birch trees, and because Chaga grows extremely slowly — taking 10-20 years to develop a harvestable conk — overharvesting is a real concern. The surge in global demand has led to overharvesting in some regions, particularly in Siberia and parts of Canada. There are also ethical concerns around removing Chaga from living trees without killing or weakening the host. Consumers should seek Chaga from suppliers who practice responsible harvesting, ideally from regions with managed harvest plans, and avoid purchasing whole chunks that appear to have been taken from very young trees.
-
-## Summary Comparison
-
-| Dimension | Lion's Mane | Chaga |
-|---|---|---|
-| Primary system | Nervous system | Immune system / antioxidant |
-| Key compounds | Erinacines, hericenones | Betulinic acid, melanin, SOD |
-| Mechanism | NGF stimulation | Free radical neutralization, immune activation |
-| Cultivation | Easy, indoor, 2-4 weeks | Extremely difficult, wild-harvested |
-| Sustainability | Low concern | Significant concern |
-| Traditional use | Food and medicine | Tea, medicine, fire starter |
-| Best for | Cognitive enhancement, neuroprotection | Immune support, antioxidant defense, inflammation |
-| Taste | Mild, seafood-like | Earthy, bitter, vanilla notes |
-
-## Key Takeaways
-
-- Lion's Mane is a neurotrophic mushroom; Chaga is an antioxidant and immune mushroom — they serve fundamentally different purposes
-- Lion's Mane is easily cultivated indoors; Chaga is nearly impossible to cultivate commercially and is wild-harvested from birch trees
-- Chaga's unique compounds (betulin, melanin, SOD) are largely derived from or shaped by its birch tree host and boreal environment
-- Lion's Mane's hericenones and erinacines are unique to the Hericium genus and have no equivalent in other medicinal mushrooms
-- Both benefit from dual extraction (water + alcohol) to capture the full range of bioactive compounds
-
-## See Also
-
-- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
+**Lion's Mane** has a low sustainability footprint. It can be cultivated on [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]

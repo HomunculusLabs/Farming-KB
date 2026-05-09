@@ -12,26 +12,7 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 Psilocybe cubensis is one of the most widely distributed and well-known
 neurotropic fungi in the world. According to the comprehensive survey by
-[[guzmán,-allen-&-gartz-(1998)]], P. cubensis has been documented across
-the tropical and subtropical zones of the Americas, Caribbean, Asia,
-Oceania, and Africa. However, its distribution is intimately tied to the
-presence of bovine cattle dung as a substrate, raising significant questions
-about its native range versus its current distribution as a consequence of
-human-mediated cattle introduction.
-
-## Coprophilous Ecology
-
-P. cubensis is a coprophilous (dung-inhabiting) species that fruits almost
-exclusively on bovine dung, particularly that of cattle (Bos taurus). This
-specialized substrate requirement is the key to understanding both its
-current worldwide distribution and its historical biogeography. Unlike many
-other Psilocybe species that grow on decaying wood, leaf litter, or
-organic soils in forest habitats, P. cubensis is adapted to open,
-sun-exposed pastures and grasslands where cattle graze.
-
-The species was originally described by Earle (1906) from Cuba, hence the
-specific epithet "cubensis." Its growth on bovine dung distinguishes it from
-most other Psilocybe species in the [[four-groups-of-neurotropic-fungi:-global-distribution]] classification, which are predominantly
+[[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] classification, which are predominantly
 lignicolous or humicolous.
 
 ## Distribution in the Americas
@@ -137,13 +118,8 @@ cubensis, though none match its geographic range:
 
 ## See Also
 
-- [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 - [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-- [[psychedelic-mushrooms-species-and-identification]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
-- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
-
-- Psilocybe semilanceata Worldwide Temperate Distribution
-- [[four-groups-of-neurotropic-fungi:-global-distribution]]
+- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
 - Neurotropic Fungi Underground Trade and Legislation

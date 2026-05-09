@@ -122,11 +122,6 @@ from the first experiment even though sampling occurred 8 weeks post-harvest.
 This suggests that the microbial community signatures established during active
 growth persist in root tissue well beyond the plant's life, although the
 community was also showing signs of root decay (see
-[[cellvibrio-and-root-decay-microbiome]]).
-
-## See Also
-
-- [[endorhiza-bacterial-communities]] for endorhiza community details
-- [[rhizosphere-microbiome-selection-model]] for the assembly framework
+[[endorhiza-bacterial-communities]] for endorhiza community details
 - [[soil-edaphic-factors-microbial-communities]] for soil vs cultivar effects
 - [[cannabis-microbiome-research]] for the complete study overview

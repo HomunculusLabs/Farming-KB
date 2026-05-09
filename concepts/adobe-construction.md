@@ -95,19 +95,11 @@ are safer than whole-site changes because they reveal local constraints early.
 
 ## See Also
 
-[[earth-building-permaculture]]
-
 [[cob-construction]]
-
-[[rammed-earth]]
 
 [[permaculture-building-design]]
 
-[[permaculture-house-design-principles]]
-
 [[permaculture-zone-0-house-design]]
-
-[[arid-landscape-permaculture]]
 
 [[permaculture-design]]
 

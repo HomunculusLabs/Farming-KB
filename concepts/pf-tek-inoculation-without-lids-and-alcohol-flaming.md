@@ -90,43 +90,7 @@ A practical concern is whether flaming the needle kills spores inside the syring
 
 ## Broader Sterile Technique Principles
 
-These two techniques embody several key principles of home mushroom cultivation sterile technique:
-
-### Still Air Environment
-
-Both techniques benefit from minimizing air currents. PF recommends running a small HEPA air cleaner (99.97% rated) "for a few hours in a closed room to clean the air before doing sterile work." This reduces the load of airborne contaminant spores.
-
-### Hand Washing
-
-"The first rule that must be always followed is to wash hands prior to sterile work. Hands are a prime source for bacteria and microspore contaminants."
-
-### Surface Sterilization
-
-"Sterilize all the work surfaces with rubbing alcohol" before beginning any sterile procedure.
-
-### Minimal Exposure
-
-Both techniques minimize the time that sterile materials are exposed to open air. The lidless technique relies on speed and precision during the brief moment the needle enters and exits the vermiculite barrier.
-
-## Practical Tips
-
-### Syringe Needle Plugging
-
-If the syringe needle "plugs up as it is inserted into the substrate," PF advises to "draw the needle back a little and it will unplug." Substrate material can obstruct the needle tip, but pulling back slightly clears the opening.
-
-### Shaking the Syringe
-
-"This shaking of the syringe is important as to redistribute the spores in the water." Between each hole inoculation, "shake the syringe a little to keep the spores distributed." Clumped spores lead to uneven colonization.
-
-### Volume Per Jar
-
-Using 1 cc per jar allows a standard 10 cc syringe to inoculate 10 jars. "More spore solution per jar can be used (speeds colonization), but fewer jars can be inoculated."
-
-## See Also
-
-- [[pf-tek-steam-sterilization-technique]]
-- [[pf-tek-dry-vermiculite-contaminant-barrier]]
+These two techniques embody several key principles of home [[pf-tek-steam-sterilization-technique]]
 - [[pf-tek-contaminant-source-identification]]
-- [[pf-tek-spore-printing-and-syringe-preparation]]
 - [[pf-tek-non-germination-troubleshooting]]
 - [[pf-tek-guide]]

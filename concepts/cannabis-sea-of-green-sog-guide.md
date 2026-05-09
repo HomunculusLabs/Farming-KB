@@ -98,30 +98,8 @@ Select indica-dominant strains or strains known for:
 | Best for | Fast turnover, indica strains | Maximizing per-plant yield |
 | Legal limitation | Problematic in plant-count-limited areas | Better for limited plant counts |
 
-See [[cannabis-screen-of-green-scrog-guide]] for SCROG details.
-
-## Clones vs Seeds for SOG
-
-- **Clones are essential for a good SOG**: Identical genetics ensure uniform height, structure, and flowering time
-- **From seed**: Some seeds will be taller, shorter, faster, or slower — creating an uneven canopy and management headaches
-- **Mother plant**: Maintain a mother plant to supply a steady stream of uniform clones for perpetual SOG harvesting
-
-## Perpetual SOG
-
-Advanced growers run perpetual SOG systems:
-1. Maintain a mother plant for clone supply
-2. Keep a vegetative area with new clones at various stages
-3. Move groups of clones into the flowering room every 2–3 weeks
-4. Harvest every 2–3 weeks
-5. Provides continuous, ongoing harvests year-round
-
-## Related Topics
-
-- [[cannabis-screen-of-green-scrog-guide]] — SCROG technique comparison
-- [[training-cannabis]] — training methods overview
+See [[cannabis-screen-of-green-scrog-guide]] — SCROG technique comparison
 - [[cannabis-cloning-and-mother-plants]] — clone production for SOG
-- [[cannabis-flowering-stage]] — flowering management
 - [[cannabis-grow-room-setup]] — grow space planning
-- [[cannabis-indoor-growing-basics]] — indoor cultivation fundamentals
 - [[cannabis-perpetual-grow-cycle]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

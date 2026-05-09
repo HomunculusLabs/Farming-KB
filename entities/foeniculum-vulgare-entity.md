@@ -131,19 +131,10 @@ The essential oil (0.5–6% in seeds) is the primary source of fennel's bioactiv
 - Infused as tea (fennel tea is one of the most widely consumed herbal teas globally)
 
 ### Fennel Leaves (Fronds)
-
 ## See Also
-
-- [[foeniculum-vulgare]]
 
 - [[agastache-foeniculum]]
 
-- [[origanum-vulgare-entity]]
-
-- Apiaceae (plant family)
 - [[anethum-graveolens]] (dill — close relative)
-- [[pimpinella-anisum]] (anise — similar flavor profile)
 - [[ocimum-basilicum]] (basil — companion herb)
-- [[companion-planting]] (permaculture technique)
 - [[aspergillus-niger]]
-- [[beneficial-insect-habitat]]

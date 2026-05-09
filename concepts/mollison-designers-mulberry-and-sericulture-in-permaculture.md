@@ -75,35 +75,7 @@ performing multiple functions.
 ## Edge Planting and Forage
 
 Mulberry is listed as an edge species in several contexts. In the
-discussion of [[mollison-evolving-polyculture-systems-for-settlements]],
-mulberry, berry fruit, legumes, and comfrey are recommended for edge
-plantings where they receive the benefit of both forest and open
-conditions.
-
-In tree crop systems, mulberry appears in recommended plantings alongside
-raintree, citrus, and other fruit trees. The fruit is highly nutritious
-for both humans and livestock, and the leaves are palatable fodder for
-cattle, goats, and poultry.
-
-## Integration in Tropical Systems
-
-In tropical and subtropical systems, mulberry is listed among the cuttings
-of small fruits suitable for immediate planting after earthworks, alongside
-elderberry, willow, poplar, and Pride of Madeira (Echium fastuosum).
-These species compete very well with self-sown weeds and establish a varied
-and useful early and perennial crop system with very little assistance.
-
-In tropical home garden designs, mulberry is included in the mix of useful
-trees such as Acacia, guava, and citrus. Its rapid growth makes it
-valuable as a nurse tree that provides shade and wind protection while
-slower-growing species establish.
-
-## Fodder Value
-
-Beyond silkworms, mulberry leaves are exceptional fodder for livestock.
-The leaves are high in protein (15-28% crude protein) and digestibility,
-making them comparable to alfalfa as a feed source. Cattle, goats, sheep,
-and rabbits all readily consume mulberry foliage. In [[mollison-goats-and-browsing-systems-in-permaculture]],
+discussion of [[mollison-goats-and-browsing-systems-in-permaculture]],
 mulberry would be a valuable browse species.
 
 ## Fruit Production
@@ -127,8 +99,6 @@ mulberry produces the finest fruit for human consumption.
 
 ## Related Concepts
 
-- [[mollison-guild-analysis-and-species-interaction]]
 - [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
-- [[mollison-evolving-polyculture-systems-for-settlements]]
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - [[aquatic-polyculture-design-mollison]]

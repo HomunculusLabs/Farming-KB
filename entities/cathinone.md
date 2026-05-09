@@ -102,20 +102,10 @@ Detection windows in urine are 24–48 hours for cathinone itself and up to 5–
 
 Cathinone is the structural parent of a large family of synthetic analogues and derivatives with varying pharmacological profiles.
 
-- **[[ethylone]]** — β-keto-MDMA, empathogenic stimulant
 - **[[butylone]]** — β-keto-MBDB, milder empathogen
-- **[[mdea]]** — 3,4-methylenedioxyethylamphetamine, related empathogen
 - **[[ephedra-sinica]]** — source of ephedrine, structurally related precursor
-- **[[2c-b]]** — phenethylamine hallucinogen, shares phenylamine core
-
-## See Also
-
-- [[mescaline-entity]]
-- [[psilocybin-compound]]
+- **[[mescaline-entity]]
 - [[2c-b]]
-- [[2c-i]]
 - [[mda]]
-- [[mdea]]
 - [[ethylone]]
-- [[butylone]]
 - [[ephedra-sinica]]

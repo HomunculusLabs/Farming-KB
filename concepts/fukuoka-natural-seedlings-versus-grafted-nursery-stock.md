@@ -117,8 +117,6 @@ Yet growing from seed remains invaluable for understanding the natural form of t
 
 ## Connection to Other Concepts
 
-- [[fukuoka-textdoc-natural-form-fruit-trees|Natural Form of Fruit Trees]]
 - [[fukuoka-no-prune-fruit-tree-method|No-Prune Fruit Tree Method]]
-- [[fukuoka-argument-against-pruning|Argument Against Pruning]]
 - [[fukuoka-citrus-orchard-establishment-bare-hillside|Citrus Orchard Establishment on Bare Hillside]]
 - [[fukuoka-three-dimensional-orchard-design|Three-Dimensional Orchard Design]]

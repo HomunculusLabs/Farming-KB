@@ -138,10 +138,7 @@ daily for most adults).
 - Harvestable roots at 3–4 years; commercial harvest at 4–5 years
 - Intercropping compatible with many fruit and nut trees
 ## See Also
-- [[ashwagandha-withania-somnifera]]
 - [[panax-ginseng]]
-- [[astragalus-membranaceus]]
 - [[schisandra-chinensis]]
-- [[permaculture]]
 - [[food-forest]]
 - [[picrorhiza-kurroa]]

@@ -116,9 +116,6 @@ The fungus also interacts with soil microbiomes, competing with and being antago
 
 ## See Also
 
-- [[ophiocordyceps-sinensis]] — the high-altitude caterpillar fungus, comparison of bioactive profiles
 - [[psilocybe-sylvatica]] — another fungus with significant bioactive compound production
-- [[trametes-versicolor]] — medicinal mushroom with immunomodulatory polysaccharides
 - [[hericium-erinaceus]] — cultivated medicinal mushroom with neuroprotective compounds
-- [[laccaria-laccata]] — ectomycorrhizal fungus contrasting the parasitic lifestyle
 - [[gyromitra-esculenta]] — toxic ascomycete highlighting identification importance

@@ -61,54 +61,10 @@ efficiency of solar devices and insulation. Therefore, shelter strategies
 become paramount:
 
 - Dense, wind-resistant tree belts should surround settlements and
-  gardens, as described in [[mollison-windbreak-design]].
-- Species with fibrous stems (palms), fleshy leaves, hard needles, or
-  waxy coatings resist wind damage best.
-- Trees on the windward side will be heavily wind-flagged; taller
-  species should be placed in their lee.
-- On coasts subject to cyclones, it may not be until after the fourth
-  or even fifth tree row that wind-prone fruit or nut trees will yield.
-
-### Site Selection
-
-Sites should be sheltered from hurricanes, tsunami, and storm surge. Key
-considerations include:
-
-- Elevation above storm surge lines.
-- Natural wind barriers such as ridges or existing forest.
-- Well-drained soils to prevent flooding during intense rainfall.
-- Proximity to sturdy refuge structures.
-
-## Tornadoes
-
-Tornadoes, while distinct from hurricanes, are another severe wind
-phenomenon addressed by Mollison. Unlike hurricanes, tornadoes occur
-over land and sea from shear effects at the junction of hot and cold
-air masses, creating intense low-pressure vortices. They may occur in
-quite cold inland areas, last only seconds or minutes, and affect only
-a few square kilometres.
-
-Wind speeds may reach 120 km/h, at worst 280 km/h, exceeding hurricane
-winds. The conditions for tornadoes include:
-
-- Thunderstorms with fast-growing cumulonimbus clouds
-- A persistent source of warm moist air feeding the updraught side
-- Cold dry air entering from another direction
-- Vortex formation from wind-shear effects at the border of the
-  conflicting system
-
-## Integration with Permaculture Design
-
-Hurricane design connects to multiple permaculture systems:
-
-- [[mollison-windbreak-design]] for species selection and placement of
+  gardens, as described in [[mollison-windbreak-design]] for species selection and placement of
   shelterbelts in cyclone-prone areas.
-- [[mollison-zone-and-sector-analysis]] for identifying wind sectors and
-  placing components accordingly.
 - [[mollison-dam-types-landscape-placement]] for siting water storages
   above surge lines.
-- [[mollison-earthworks-planning-and-post-earthworks-planting]] for
-  creating wind-sheltered landforms.
 - [[mollison-microclimate-creation]] for moderating wind effects on
   crops and settlements.
 

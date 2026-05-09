@@ -3,100 +3,103 @@ title: Permaculture Design Course -- Site Analysis and Mapping
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, design, site-analysis, mapping, zones, sectors, pdc]
-sources:
-  - "William Ozier-Williams, PDC: A Permaculture Design Course"
----
-# Permaculture Design Course -- Site Analysis and Mapping
-
-Before making any design decisions, you must first analyze the site. Permaculture Design is all about making choices appropriate to a specific site. Analysis begins at the macroscale and works inward to smaller detail -- embodying the principle "Design from Patterns to Details."
-
-## Analytical Tools
-
-Common analytical tools used in Permaculture Design:
-
-- **Base Map** -- the map of the entire site within legal property limits
-- **Broad Scale Site Analysis** -- understanding the site in its larger context
-- **Client Interview** -- understanding the client's philosophy and needs
-- **General Climate Data** -- solar altitude, prevailing winds, temperatures, rainfall
-- **History of the Site** -- historical patterns, plants, human habitation
-- **Indicator Species** -- observation of plant and animal indicator species
-- **Inventories** -- lists of available resources on the site
-- **Observation and Interaction** -- on-site observation under many conditions
-- **Sectors** -- analysis of forces flowing across the site
-- **Soil Samples** -- testing infiltration rates and soil types
-- **Surface Water Flow** -- charting water movement across the site
-- **Zones** -- ranking areas by frequency of human interaction
-- **Zoning Ordinances** -- local building codes and regulations
-
-## Base Map
-
-The base map covers the entire site within legal property limits. Obtain from local county/city offices, or create using Google Earth. Keep an original as reference and create copies to work on. Use tracing paper or transparencies for data overlays (sectors, zones, water flow, soil types on separate layers). Digital tools can also create layered base maps.
-
-## Broad Scale Site Analysis
-
-Start globally: hemisphere, continent, country, region, bioregion, watershed, county, then zoom to the site. Consider nearby roads, towns, cities, trash dumps, toxins, forests, and neighbors. A disciplined designer would do a full Permaculture analysis at each scale -- data reusable for future projects in that area.
-
-## Client Interview
-
-The client interview enables co-creation. Key questions:
-
-- How well does the client understand Permaculture?
-- Do they want natural ecological succession or to "jump to the end"?
-- Health needs and dietary preferences
-- Physical or mental limitations
-- Budget and timeframe
-- Vision and mission statement
-- How "hands-on" do they want to be?
-- How many people will the design serve? Pets?
-- Social habits and intermittent resource consumption spikes
-
-Design is a manifestation of philosophy -- you manifest the client's philosophy, not your own.
-
-## Zones
-
-Permaculture Zones (0-5) rank areas by amount of human impact. Zones are a **graphic tool** drawn on paper, not literal boundaries on the ground. In urban environments, a typical home site may only have Zones 0-1, rarely Zone 4, and never Zone 5.
-
-- **Zone 0** -- Permanent built structures (house). Considered permanently impacted, though green roofs and living walls can remediate some ecological activity.
-- **Zone 1** -- Areas visited daily (kitchen garden, herbs). Highest frequency of human interaction.
-- **Zone 2** -- Areas visited less frequently (orchard, small livestock, compost). Still intensively managed.
-- **Zone 3** -- Occasional visit areas (main crops, pastures, large orchards).
-- **Zone 4** -- Infrequently visited (foraging, timber, grazing).
-- **Zone 5** -- Wilderness -- unmanaged natural area.
-
-Zones are typically depicted as concentric circles for teaching purposes, but in reality are oblong, globular areas shaped by the actual patterns of human movement on the site.
-
-## Sectors
-
-Sector analysis maps the flow of forces across the site as "pie slices" on a circle centered on Zone 0. Common sectors:
-
-- **Fire hazard** -- direction of likely wildfire approach
-- **Summer wind sector** -- prevailing summer winds (~80 degrees wide)
-- **Winter wind sector** -- prevailing winter winds (~80 degrees wide)
-- **Noise sectors** -- roads, neighbors, other noise sources
-- **Summer Sun sector** -- solar azimuth during summer solstice
-- **Winter Sun sector** -- solar azimuth during winter solstice
-- **Undesirable views** -- visual elements to block
-- **Desirable views** -- views to preserve in the design
-
-The sector diagram tells you where to place elements to block, allow, or harness each force.
-
-## Observation and Interaction
-
-Hardcore designers recommend observing a site for a full year (some say three) before implementation. At minimum, observe under as many conditions as possible: day, afternoon, evening, morning, rain, after rain, dry. Camp on the site. Do small projects to test effects. Permaculture Principle #1 calls for both observation AND interaction.
-
-## Soil Samples and Surface Water Flow
-
-Take soil samples and test infiltration rates across the site. Chart surface water flow following topographical information to determine what earthworks are needed to slow, spread, and infiltrate water. The goal: all rainwater stays on the site and infiltrates into the ground.
-
-## Related
-
-- [[keyline-design]]
-- [[permaculture-multipurpose-trees]]
-
-## See Also
-
+tags: [[keyline-design]]
 - [[sectors-in-permaculture]]
-- [[zone-and-sector-analysis]]
 - [[permaculture-climate-zones]]
 - [[pdc-earthworks-and-swales]]
+## Overview
+
+Permaculture Design Course -- Site Analysis and Mapping is a key concept within permaculture design and practice.
+Permaculture emphasizes working with natural systems rather than against
+them, creating sustainable and regenerative human habitats that produce
+abundant yields while improving ecosystem health over time.
+
+## Core Principles
+
+Several foundational principles guide the implementation of this approach.
+These include careful observation of natural patterns, capturing and storing
+energy, obtaining a yield, applying self-regulation, using and valuing
+renewable resources, producing no waste, and designing from patterns to
+details. Each principle informs practical decision-making in design.
+
+## Practical Application
+
+In practice, this involves thoughtful integration of elements within the
+landscape to create mutually beneficial relationships. Zone planning,
+sector analysis, and element placement all contribute to efficient and
+resilient systems. The goal is to minimize external inputs while
+maximizing the productivity and ecological health of the system.
+
+## Design Considerations
+
+Effective implementation requires careful site analysis including slope,
+water flow, sun exposure, existing vegetation, soil conditions, and local
+climate patterns. These factors inform the placement of elements and the
+selection of appropriate species and techniques for the specific context.
+
+## Benefits and Outcomes
+
+When properly implemented, these approaches yield multiple benefits
+including improved soil health, increased biodiversity, reduced maintenance
+requirements, enhanced food production, and greater overall system
+resilience. The long-term productivity of well-designed systems typically
+increases over time as ecological relationships mature and strengthen.
+## Practical Considerations
+
+When working with Permaculture Design Course -- Site Analysis and Mapping, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

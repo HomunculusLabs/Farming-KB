@@ -39,14 +39,7 @@ The taxonomy of Copelandia is particularly contentious. Gerhardt (1996)
 considered C. mexicana to be a nomen excluded, while C. anomala was treated
 as a synonym of C. cyanescens. C. westii was also considered a synonym of C.
 cyanescens by Gerhardt. C. tropicalis was classified as a nomen dubia.
-C. bispora has been variously placed as [[panaeolus-cyanescens]] var. bisporus
-and P. bisporus by different authors. These taxonomic disagreements reflect
-the morphological similarity among species and the need for careful
-microscopic examination.
-
-## Panaeolus: The Largest Genus
-
-Panaeolus contains 13 species of neurotropic fungi. [[panaeolus-sphinctrinus]]
+C. bispora has been variously placed as [[panaeolus-sphinctrinus]]
 was among the first neurotropic fungi recognized, originally identified as
 Panaeolus campanulatus var. sphinctrinus by Schultes (1939). The genus
 includes cosmopolitan species distributed across multiple continents. P.
@@ -70,23 +63,7 @@ mycological authorities.
 ## Distribution Patterns
 
 Panaeolina foenisecii and almost all Panaeolus species cover broad
-geographic distributions. The cosmopolitan nature of these [[coprophilous-fungi]]
-is facilitated by the global distribution of herbivorous mammals whose dung
-they colonize. However, their actual distributions are imperfectly known. In
-Japan, P. foenisecii is very common but not recorded by Imazeki and Hongo
-(1983, 1987) or Imazeki et al. (1988), and was only reported by Hongo (1986).
-The absence of records from Central America and the Caribbean is surprising
-and likely reflects under-collection rather than true absence.
-
-## Chemical Documentation Gaps
-
-A significant problem within the Panaeoloideous fungi is the scarcity of
-chemical studies. Guzmán, Allen and Gartz noted that in several species of
-this group, no chemical studies confirming psychoactive properties have been
-conducted. The assumption of neurotropic properties in many Panaeolus and
-Panaeolina species is based primarily on taxonomic association with confirmed
-psychoactive species rather than direct chemical analysis. As documented in
-[[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]], P. foenisecii exemplifies this problem, with contradictory
+geographic distributions. The cosmopolitan nature of these [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]], P. foenisecii exemplifies this problem, with contradictory
 chemical results from different laboratories.
 
 ## Toxicity Concerns
@@ -113,23 +90,6 @@ suitable mammalian hosts.
 
 ## Panaeolus subbalteatus and Related Species
 
-[[panaeolus-subbalteatus]] (syn. P. venenosus) is one of the most widely
-recognized species in the genus. It has been reported from multiple
-continents and is frequently encountered in horticultural settings,
-particularly on composted materials. The species epithet "subbalteatus"
-refers to the sub-belted appearance of the gills caused by the uneven
-spore maturation pattern characteristic of the genus. P. castaneifolius
-shows confused synonymy with P. olivaceus, and Gerhardt (1996) suggested
-the true name may be P. castaneifolia. P. retirugis is another well-defined
-species within the genus.
-
-## Relationship to Psilocybe and Other Neurotropic Genera
-
-The Panaeoloideous fungi are placed in the family Coprinaceae, separate from
-the Strophariaceae which contains Psilocybe and other major neurotropic
-genera. Despite this taxonomic separation, the bluing reaction and suspected
-psilocybin content of Copelandia species suggest convergent evolution of
-psychoactive compound production. The broader patterns of
 [[neurotropic-fungi-classification]] place
 these fungi within the diverse spectrum of psychoactive Basidiomycotina.
 

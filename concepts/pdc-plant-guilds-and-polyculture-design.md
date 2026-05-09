@@ -4,22 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, polyculture, companion-planting, plant-communities]
----
-
-# PDC Plant Guilds and Polyculture Design
-
-The Williams PDC treats plant guild design as one of the most important yet most complex skills in permaculture. Williams describes guild creation as "more of an art than a science" and provides a framework for approaching it systematically despite the enormous number of variables involved.
-
-## From Monoculture to Polyculture
-
-Williams contrasts two fundamental approaches to growing plants:
-
-### Monocropping
-The practice of using a single crop species across a large area. This is the dominant approach in industrial agriculture and conventional landscaping. Monocropping is given as an example of segregation -- separating elements rather than integrating them.
-
-### Polycropping
-The practice of using multiple species in cooperative arrangements. Polycropping is an example of integration and demonstrates multiple [[permaculture-principles]] simultaneously: integrate rather than segregate, use and value diversity, and stack functions.
+tags: [[permaculture-principles]] simultaneously: integrate rather than segregate, use and value diversity, and stack functions.
 
 ## The Nature of Plant Communities
 
@@ -49,13 +34,7 @@ Williams identifies an extensive range of factors that influence guild compositi
 - **Pest predator attraction**: Some plants attract beneficial insects (ladybugs, parasitic wasps) that prey on pests of companion plants
 - **Pollinator attraction**: Flowering plants in the guild ensure pollination services for fruit-bearing members
 - **Bird attraction**: Plants providing food, shelter, or nesting sites for birds that control insect populations
-- **Soil biology support**: Different [[root-exudates]] feed different soil microorganism communities, building diverse soil food webs
-
-### Animal Integration
-
-Guilds are not limited to plants. Williams explicitly states that guilds may include:
-- Animals (chickens, ducks, bees)
-- [[permaculture-designers-manual-greywater-systems]] providing moisture and nutrients
+- **Soil biology support**: Different [[graywater-systems]] providing moisture and nutrients
 - Shade screens
 - Wind breaks
 - Microclimate modifications
@@ -80,12 +59,6 @@ What does the central element need to thrive? Consider:
 For each identified need, research native and appropriate species that provide it:
 - Nitrogen fixers for nutrient needs
 - Insectary plants for pollination and pest control
-- [[dynamic-accumulators]] for mineral nutrition
-- Ground covers for moisture retention and weed suppression
-
-### Step 4: Identify the Central Element's Outputs
-What does the central element provide? Consider:
-- Shade
 - [[root-exudates]]
 - Leaf litter/mulch
 - Wind protection
@@ -111,36 +84,4 @@ Williams states: "As a rule of thumb, for every function a permaculture designer
 
 Williams uses these terms somewhat interchangeably:
 - **Guild**: A designed plant community with mutually beneficial relationships
-- **[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]**: The practice of placing plants together for mutual benefit (a simpler form of guild design)
-- **Polyculture**: The broader practice of growing multiple species together (as opposed to monoculture)
-
-All three terms describe aspects of the same fundamental concept: integration rather than segregation of plant species.
-
-## The Functional Approach to Plant Selection
-
-Williams emphasizes that plants should not be chosen by name first. The correct sequence is:
-
-1. **Identify the function needed** (food, nitrogen fixation, windbreak, shade, soil building, pest control)
-2. **Research indigenous plants** that perform that function in the local area
-3. **Analyze guild compatibility** -- can the identified plants work together?
-4. **If native options are insufficient**, research appropriate non-invasive species
-5. **Design the guild** to maximize multiple functions from each member
-
-## Environmental Appropriate Species
-
-Williams categorizes plants by their relationship to the local environment:
-
-### Native Plants (Highest Priority)
-Perform the desired function AND grow naturally in the area. These require the fewest external inputs and support local ecology most effectively.
-
-### Pioneer Species
-Small, hardy perennials with rapid propagation rates. They move into relatively barren areas and, over generations, increase ecological activity to prepare for more complex species (secondary succession). Essential for establishing new guilds on disturbed sites.
-
-### Invasive Species (Weeds)
-High propagation rates that enter pre-existing ecologies and destabilize them by out-competing existing plants. Generally avoided in guild design, though some may play roles in early succession phases.
-
-### Niche Species
-Complex plants that thrive within narrow microclimates. Useful for specific problem areas in a design (deep shade, wet spots, poor soil).
-
-### Appropriate Species
-Not native but grow well within local conditions without destabilizing the ecology. Used when native species cannot fulfill all needed functions.
+- **[[garden-guilds-and-polyculture-design]]

@@ -103,18 +103,11 @@ Despite its classification as a bioenergy crop, switchgrass has value as summer 
 ## See Also
 
 - [[miscanthus-giganteus]]
-- [[arundo-donax]]
 - [[vetiveria-zizanoides]]
-- [[typha-latifolia-entity]]
 - [[morus-alba]]
-- [[robinia-pseudoacacia]]
 - [[hugelkultur]]
-- [[alley-cropping]]
 - [[biochar]]
-- [[comfrey-permaculture]]
 - [[stropharia-rugosoannulata]]
-- [[mycoremediation]]
 - [[sheet-mulching]]
-- [[permaculture]]
 - [[food-forest]]
 - [[mycoforestry]]

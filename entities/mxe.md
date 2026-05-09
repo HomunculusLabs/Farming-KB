@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Methoxetamine** (MXE) is a dissociative anesthetic of the arylcyclohexylamine class, structurally related to [[ketamine]] and [[dextromethorphan]]. Developed as a potential pharmaceutical agent, it gained notoriety as a designer drug and research chemical beginning around 2010.
+**Methoxetamine** (MXE) is a dissociative anesthetic of the arylcyclohexylamine class, structurally related to [[dextromethorphan]]. Developed as a potential pharmaceutical agent, it gained notoriety as a designer drug and research chemical beginning around 2010.
 
 MXE was designed to reproduce ketamine's dissociative and antidepressant effects while reducing duration of action and eliminating the urotoxicity associated with chronic ketamine use. It became one of the most widely used novel psychoactive substances (NPS) before international scheduling.
 
@@ -50,13 +50,7 @@ Additional pharmacological actions include:
 - **Opioid receptor activity**: low affinity for μ-opioid receptors, insufficient to produce analgesia independently
 - **Sigma-1 receptor agonism**: hypothesized to contribute to antidepressant effects, though evidence is limited
 
-The combination of NMDA antagonism with serotonin reuptake inhibition distinguishes MXE from [[ketamine]], which has minimal serotonergic activity. This dual mechanism likely underlies MXE's reputation for producing more euphoric and empathogenic effects compared to ketamine.
-
-## Effects
-
-### Subjective Experience
-
-At sub-anesthetic doses (15–50 mg insufflated, 20–80 mg oral), MXE produces a dissociative state characterized by sensory disconnection, derealization, and altered body perception. Users commonly report a "hole" experience at higher doses, similar to [[ketamine]]'s K-hole.
+The combination of NMDA antagonism with serotonin reuptake inhibition distinguishes MXE from [[ketamine]]'s K-hole.
 
 The empathogenic component is notably stronger than ketamine. Users describe feelings of emotional warmth, connectedness, and enhanced introspection. Visual distortions include geometric patterns, color intensification, and closed-eye imagery.
 
@@ -96,11 +90,8 @@ MXE has a narrow therapeutic index. Deaths attributed to MXE alone are rare but 
 
 ## See Also
 
-- [[ketamine]]
 - [[dextromethorphan]]
 - pcp
-- [[3-meo-pcp]]
 - [[3-meo-pce]]
-- [[deschloroketamine]]
 - [[salvinorin-a-entity]]
 - [[muscimol-entity]]

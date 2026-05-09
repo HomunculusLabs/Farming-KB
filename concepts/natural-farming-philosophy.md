@@ -1,130 +1,136 @@
 ---
 title: Natural Farming Philosophy
-created: 2026-04-28
-tags: [farming, philosophy, ecology, fukuoka, sustainability, agriculture]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - administrator-microsoft-word-fukuoka-textdoc.md
-type: concept
+source: The One-Straw Revolution - Masanobu Fukuoka (1978)
+tags: [farming, natural-farming, philosophy, fukuoka, agriculture, permaculture]
+created: 2026-05-08
 ---
 
 # Natural Farming Philosophy
 
-Natural farming is a comprehensive agricultural philosophy developed by Masanobu
-Fukuoka that rejects human intervention in favor of allowing nature to cultivate
-crops through its own processes. Founded on the principle of Mu (nothingness),
-natural farming seeks to restore the relationship between humanity and the natural
-world by relinquishing the instruments of human knowledge that Fukuoka argues have
-driven nature to destruction.
+Masanobu Fukuoka's natural farming philosophy emerged from a profound personal
+experience on the morning of May 15th when he was twenty-five years old.
+Working as a plant pathologist at the Yokohama Customs Bureau, he had fallen
+ill with pneumonia and spent weeks in deep contemplation about the nature of
+life and death. During an all-night walk, he collapsed against a tree on a
+hill overlooking Yokohama harbor. As dawn broke, a night heron cried out and
+flew away. In that instant, all his doubts vanished and he experienced what he
+described as true nature standing revealed. He uttered the words: In this
+world there is nothing at all. This revelation became the foundation of his
+entire life's work in agriculture and philosophy.
 
-## Core Principles
+## The Principle of Mu (Nothingness)
 
-Fukuoka articulated five foundational principles that define natural farming. The
-first is no tillage: the earth is worked not by plows but by the natural activity
-of microorganisms, small animals, and plant roots. Second is no fertilizer: the
-soil enriches itself year after year through decomposition and biological cycles
-without the addition of chemical or prepared organic inputs. Third is no pesticides:
-nature maintains its own balance between insects, plants, and microorganisms, and
-pesticide application disrupts this equilibrium rather than correcting imbalances.
-Fourth is no weeding: nature does not arbitrarily classify plants as desirable or
-undesirable, and weed suppression occurs naturally through ground cover management.
-Fifth is no pruning: fruit trees grow most vigorously in their natural habit without
-human shaping, bearing fruit consistently each year rather than in alternate years.
+At the core of Fukuoka's philosophy is the concept of mu, or nothingness.
+This does not mean nihilism but rather the recognition that human knowledge
+is inherently limited and that intellectual understanding separates us from
+nature. He believed that human beings create a world of concepts and
+judgments, overlaying these ideas onto the reality of nature. In doing so,
+people separate themselves from the natural world and create suffering.
+True nature, in Fukuoka's view, exists beyond these conceptual frameworks.
+Infants perceive nature directly and clearly, without the filter of names
+and categories. As Fukuoka wrote, if even the names of plants are known,
+a mandarin orange tree of the citrus family, a pine of the pine family,
+nature is not seen in its true form. An object seen in isolation from the
+whole is not the real thing.
 
-These principles are not merely techniques but expressions of a deeper worldview
-in which nature is understood as an indivisible whole. Any attempt to dissect or
-analyze nature breaks it into dead fragments, and knowledge derived from such
-fragments can never be reassembled into a true understanding of the living whole.
+## Critique of Human Knowledge and Science
 
-## The Problem of Scientific Agriculture
+Fukuoka was sharply critical of the idea that science can understand nature.
+He argued that scientists think they can understand nature, and because they
+are convinced of this, they are committed to investigating nature and putting
+it to use. However, he believed that understanding nature lies beyond the
+reach of human intelligence. He illustrated this with the example of
+specialists observing a single stalk of rice: the insect disease specialist
+sees only insect damage while the nutrition specialist considers only the
+plant's vigor. This fragmented approach cannot grasp the whole. He noted
+that the irony of science is that it has served only to show how small
+human knowledge is, despite its apparent achievements and technological
+advances in agriculture and other fields of human endeavor.
 
-Fukuoka's philosophy emerged from a profound critique of scientific agriculture.
-Scientific farming, he argued, operates on the principle of centrifugal expansion:
-each new intervention creates conditions that demand further interventions. Plowing
-hardens the soil, requiring more plowing. Chemical fertilizers kill soil biology,
-creating dependence on more chemicals. Pesticides eliminate natural predators while
-leaving target pests alive, necessitating repeated applications. Each cycle deepens
-the farmer's alienation from nature while increasing costs, labor, and
-environmental degradation.
+## The Problem of Fragmented Specialization
 
-The energy economics of this system reveal its fundamental inefficiency. Natural
-farming produces 130 pounds of rice, equivalent to 200,000 kilocalories, per
-man-day of labor without any external material inputs. Traditional farming with
-draft animals requires five to ten times this energy expenditure. Light
-mechanization doubles it again, and heavy mechanization doubles it yet further.
-Modern scientific agriculture can require up to fifty times the energy input of
-natural farming per unit of food produced, yet paradoxically yields no more grain
-per quarter-acre than Fukuoka's do-nothing method.
+Fukuoka observed that the world has become so specialized that it has become
+impossible for people to grasp anything in its entirety. He recounted how an
+expert from the Kochi Prefecture Testing Centre came to investigate why
+there were so few rice leafhoppers in his fields despite no insecticide use.
+The professor was surprised to find that while harmful insects were few,
+their natural predators were far more numerous in Fukuoka's fields than in
+sprayed fields. The professor acknowledged the method's effectiveness but
+then returned to Kochi where no changes were made. Fukuoka lamented that
+if you ask whether soil fertility or crop specialists have come to study
+the total system, the answer is no. Specialists see only their narrow area.
 
-## Philosophy of Mu
+## The Natural Balance of Insect Communities
 
-The philosophical foundation of natural farming draws from Buddhist concepts of
-Mu, or nothingness. Fukuoka distinguished between discriminating knowledge, which
-splits subject from object and classifies nature into categories of good and bad,
-useful and harmful, and non-discriminating knowledge, which perceives nature as a
-unified whole. Scientific agriculture is built entirely on discriminating
-knowledge: it identifies pests and applies pesticides, diagnoses nutrient
-deficiencies and applies fertilizers, observes disease and applies chemical
-controls. Natural farming operates from non-discriminating knowledge, recognizing
-that what science calls a problem is often nature's own mechanism for maintaining
-balance.
+Fukuoka described the intricate natural balance that exists in a healthy
+rice field ecosystem. One autumn morning, someone rushed to his house
+asking if he had covered his fields with a silk net. The harvested rice
+stubble and low-lying grasses had become completely covered with spider
+webs, waving and sparkling with morning mist. There were several spiders
+in every square inch, thousands or millions in a quarter acre. A few days
+later, strands of web broke off and spiders sailed away on the wind like
+dandelion fluff. Fukuoka noted that when chemicals are applied to a field,
+this entire natural drama is destroyed in an instant. He once put fireplace
+ashes on his field and two days later it was completely bare of spiders.
 
-Fukuoka illustrated this with the example of rice blast disease. Scientific
-agriculture identifies the pathogen, develops a bactericide, and applies it
-repeatedly. But the disease may itself serve as a natural check on excessive
-vegetative growth, restoring balance between the above-ground and below-ground
-portions of the plant. By eliminating the disease, pesticide application may
-actually increase the underlying imbalance, requiring still more intervention.
+## The Fool on the Roof Metaphor
 
-The concept extends to the understanding of causality itself. Fukuoka argued
-that cause and effect do not exist in nature as science conceives them. Behind
-every identified cause lies an infinite regress of prior causes, and what appears
-as an effect in one context becomes a cause in another. The chain of causation
-forms not a linear sequence but a circle or sphere with no beginning and no end.
-Scientific attempts to intervene at any point in this circle are, by definition,
-incomplete and prone to unintended consequences.
+Fukuoka used a powerful metaphor to describe humanity's relationship with
+nature: It is as if a fool were to stomp on and break the tiles of his
+roof. Then when it starts to rain and the ceiling begins to rot away, he
+hastily climbs up to mend the damage, rejoicing in the end that he has
+accomplished a miraculous solution. He extended this to scientists who
+pore over books night and day, straining their eyes and becoming
+nearsighted, only to invent eyeglasses to correct the nearsightedness
+they caused. This pattern of creating problems through interference and
+then congratulating ourselves for solving them is, in Fukuoka's view, the
+fundamental error of modern civilization and its approach to agriculture.
 
-## Relationship to Organic Farming
+## Beyond Returning to Nature
 
-Fukuoka explicitly distinguished natural farming from organic farming, which he
-regarded as merely another form of scientific agriculture. Organic farming replaces
-synthetic chemicals with organic inputs but retains the fundamental framework of
-human intervention, analysis, and control. Compost is prepared and transported,
-green manures are cultivated and incorporated, pest management strategies are
-implemented, all based on the same premise that human knowledge can improve upon
-nature's own processes.
+Fukuoka argued that even environmental movements miss the point if they
+are merely reactions to overdevelopment. He wrote that to the extent that
+people separate themselves from nature, they spin out further from the
+center. The desire to return to nature arises, but if people merely become
+caught up in reacting, the result is only more activity. The non-moving
+point of origin, which lies outside the realm of relativity, is passed
+over unnoticed. He believed that natural farming arises from this unmoving
+and unchanging center, not from any ideological position. Nature does not
+change, although the way of viewing nature invariably changes from age
+to age. Natural farming exists forever as the wellspring of agriculture.
 
-Natural farming, by contrast, eliminates unnecessary practices entirely. Rather
-than preparing compost, rice straw is scattered directly over the field. Rather
-than cultivating green manure, clover is broadcast as a living ground cover. The
-goal is not to find a better input but to remove the need for inputs altogether.
-This process of elimination, which Fukuoka called convergence, stands in direct
-opposition to the expansion and diversification characteristic of scientific and
-organic agriculture alike.
+## Application Beyond Agriculture
 
-## The Way of Nature
+Fukuoka believed his philosophy applied far beyond farming to all aspects of human
+society. He wrote that doctors and medicine become necessary when people create a
+sickly environment, and formal schooling has no intrinsic value but becomes
+necessary when humanity creates a condition in which one must become educated just
+to get along. He drew a parallel between pruning fruit trees and teaching music to
+children: both are interventions that become necessary only after the natural state
+has been disrupted. A child's ear naturally catches the murmuring of a stream, the
+sound of frogs, the rustling of leaves. These natural sounds are true music. It
+is only when disturbing noises enter and confuse the ear that music education is
+thought to be beneficial. The same principle applies to farming: when the natural
+balance has been disrupted, human intervention appears necessary.
 
-Fukuoka's philosophy ultimately extends beyond agriculture to encompass a vision
-of human society founded on non-action and communion with nature. He described
-natural farming as the practical foundation of a spiritual movement, a revolution
-in how humanity lives and relates to the natural world. The farmer who practices
-do-nothing farming does not merely produce food but participates in what Fukuoka
-called the green philosophy, a way of being that recognizes the insignificance of
-human knowledge and the supremacy of nature's own wisdom.
+## The Unchanging Center
 
-This philosophy holds that nature is neither living nor dead, neither weak nor
-strong, but exists as an absolute unity beyond all human categories of
-thought. The farmer's role is not to produce food but to assist nature, which
-alone has the power to
-create something from nothing. When human intervention is removed, nature
-recovers its ability to nurture all forms of life and returns to its inherent
-harmony and productivity. All begins by relinquishing human knowledge.
+Fukuoka firmly believed that the path of natural farming, while appearing strange
+to most people, was the most sensible one. During thirty years of farming he
+headed in a straight line toward a do-nothing agricultural method. His way was
+the opposite of modern agriculture. Instead of asking how about trying this, his
+approach was to ask how about not doing this. He ultimately reached the conclusion
+that there was no need to plow, no need to apply fertilizer, no need to make
+compost, no need to use insecticide. When you get right down to it, there are few
+agricultural practices that are really necessary. The reason that improved
+techniques seem necessary is that the natural balance has been upset beforehand
+by those same techniques, making the land dependent on continued intervention.
 
 ## See Also
 
-- [[jadam-natural-farming-philosophy]]
-- [[fukuoka-straw-natural-farming-philosophy]]
-- [[natural-farming-food-philosophy]]
+- [[fukuoka-rice-barley-succession]]
+- [[natural-farming-vs-organic-farming]]
+
+## See Also
+
 - [[fukuoka-natural-farming-philosophy-of-mu]]
-- [[fukuoka-natural-farming-philosophy]]

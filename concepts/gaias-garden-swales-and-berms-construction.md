@@ -1,20 +1,7 @@
 ---
 title: Swales and Berms Detailed Construction
 created: 2026-04-26
-tags: [permaculture, swale, berm, earthwork, water-harvesting]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Swales and Berms Detailed Construction
-
-In Gaia's Garden, Toby Hemenway provides thorough practical guidance
-for building swales and berms, the primary earthworking techniques for
-catching, storing, and conserving water in the ecological garden.
-While [[gaias-garden-water-harvesting-swales-and-greywater]] covers
+tags: [[gaias-garden-water-harvesting-swales-and-greywater]] covers
 the broader water harvesting philosophy, this page focuses on the
 detailed construction methods and techniques.
 
@@ -100,37 +87,12 @@ from downspouts and along paths to the roots of shrubs and fruit trees,
 ## Connecting Swales to the Garden System
 
 Gentle swales can lead from downspouts and along paths to the roots of
-shrubs and fruit trees, connecting [[gaias-garden-catching-storing-and-conserving-water]]
-strategies throughout the landscape. In a complete design, swales work
-in tandem with [[gaias-garden-sheet-mulching-guide]] to build soil and
+shrubs and fruit trees, connecting [[gaias-garden-sheet-mulching-guide]] to build soil and
 conserve moisture. The combination of swales for water infiltration
 and mulch for moisture retention creates a powerful water management
 system that can dramatically reduce or eliminate the need for
 irrigation.
 
-Swales also complement [[gaias-garden-hugelkultur]], where buried wood
-acts as a sponge to hold water. In dry climates, swales feeding into
-hugelkultur mounds create particularly effective water storage. The
-swale captures surface runoff and directs it into the buried wood,
-where it is held for months and slowly released to surrounding plants.
-Together, these earthworking techniques transform the landscape's
-ability to support abundant plant growth even in challenging conditions.
-
-## Aesthetic Considerations
-
-In one case study, aesthetics dictated that swales be small and
-delicate, almost ripples in the ground, since it was a public space
-where the feet and gaze of friends and passers-by would fall. The
-swales were laid out to curve in eye-pleasing lines, softened by the
-leafy silhouettes of plantings. This shows that swales need not look
-like farm-scale ditches; they can be elegant landscape features that
-are noticed primarily by how lush and green the surrounding garden
-remains even during dry spells.
-
-## See Also
-
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[gaias-garden-catching-storing-and-conserving-water]]
+Swales also complement [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[gaias-garden-hugelkultur]]
-- [[gaias-garden-sheet-mulching-guide]]
 - [[gaias-garden-soil-building]]

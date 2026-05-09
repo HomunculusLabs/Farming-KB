@@ -121,8 +121,6 @@ traits.
 
 ## See Also
 
-- [[cervantes-seed-population-types-ibl-hybrid]]
 - [[cannabis-genetics-and-breeding]]
-- [[cervantes-seed-production-storage]]
 - [[cervantes-seed-germination]]
 - [[cervantes-strain-selection]]

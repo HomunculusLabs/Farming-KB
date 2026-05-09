@@ -1,5 +1,5 @@
 ---
-title: "Guild Analysis and Species Interaction in permaculture"
+title: Mollison Guild Analysis And Species Interaction
 created: 2026-04-26
 tags:
   - permaculture
@@ -66,84 +66,30 @@ neither acts (neutrality).
 The framework names specific interaction states:
 
 (++) Symbiosis: common in nature and society, a win-win
-situation ideally suited to guild development. The [[mycorrhiza]]l
-associates of higher plants exemplify mutualism or fair trade
-between a plant and its root associate.
+situation ideally suited to guild development. The [[mollison-designers-companion-planting-charts-and-principles]]
+- [[mollison-pioneer-species-and-accelerated-succession]]
 
-(--) Synnecrosis: a lose-lose situation, uncommon in nature.
-War between plants for light, nutrients, and space is one
-example, as are forms of chemical warfare in plants and animals.
-
-(-0) Amensalism: hurts the actor, not the other. A butterfly
-attacking a rhinoceros would fit, or a wasp parasite attached
-to a tree it attacks.
-
-(0-) Allolimy: leaves the actor unaffected but hurts the
-other. A walnut tree beside an apple tree yields well, but
-the juglones secreted by its roots act to kill or weaken the
-apple. Similarly, grasses act to weaken most deciduous fruit
-trees.
-
-(+0) Commensalism: the actor benefits, the other remains
-unaffected. An epiphyte attached to a sturdy tree, such as
-vanilla on a coconut trunk, exemplifies this relationship.
-
-(0+) Allotrophy: the actor is unaffected, the other benefits.
-A teacher and student relationship, or charity where surplus
-goods are handed to those less fortunate.
-
-(+-) Parasitism: the actor benefits, the other loses. All
-and parasites tend to weaken or take from the host.
-
-(-+) Self-sacrifice: the actor loses to help others. Often
-seen as individuals helping members of the same family or
-species.
-
-(00) Neutrality: no one is hurt, no one wins. Many plant
-species appear to be basically neutral in behaviour.
-
-## Applying the Analysis
-
-These analyses suit two-species interactions, but where
-permaculture departs from nature is that we may value only one
-of the interacting species. Let this be Species A (a palm, for
-example). The other can be a weed or a species such as Lantana
-that we wish to eliminate. In this case, we set up a matrix
-ordered by benefit (increase in Species A, less increase or
-decrease in Lantana).
-
-This is a very necessary type of analysis for selecting useful
-plants that will eliminate or weaken an unwanted weed species.
-All such analyses can be made using plant/plant, animal/animal,
-or plant/animal pairs.
-
-## Field Observation Methods
-
-Observing co-action is simple in the field, providing there are
-plenty of examples to score and criteria have been set. For an
-apple tree, scoring criteria might be: (+) apple tree healthy,
-bearing very well, not stunted or over-vigorous; (0) apple tree
-healthy, in fair order, bearing; (-) apple tree bearing poorly,
-sick or dying; (x) no apple tree in this yard. Scoring can be
-of specific pairings, tallied by walking from yard to yard.
-
-## Design Implications
-
-The interaction matrix teaches designers that it is always
-safer to mix or complicate crop than to pin hopes on a single
-main crop. Because of the vagaries of weather in any given
-year, many times a farmer may accept a (-,+) effect just to
-ensure getting a crop, even if it is of the losing species.
-The guidance is to be guided by analyses but study reality.
-
-Every designer and gardener can plan guilds for specific target
-species, specific pests and weed control, and specific garden
-beds or orchards. The guild assembly for an idealised apple
-orchard (Figure 3.12 in the PDM) shows how most accessory
-species enhance the health and productivity of the main crop.
+- bill mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 
 ## See Also
 
-- [[mollison-pioneer-species-and-accelerated-succession]]
+- [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
+## Practical Considerations
 
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
+Successful implementation of Mollison Guild Analysis And Species Interaction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

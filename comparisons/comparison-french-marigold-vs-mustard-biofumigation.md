@@ -24,20 +24,7 @@ type: comparison
 
 # French Marigold Biofumigation vs Mustard Biofumigation
 
-Biofumigation is an [[organic-pest-and-disease-management]]-management strategy that uses specific cover crops to release naturally occurring toxic compounds into the soil, suppressing soil-borne pathogens, nematodes, and fungi. Two of the most widely adopted biofumigant crop families are **French marigolds** (*Tagetes* spp.) and **mustards/brassicas** (*Brassica* spp., *Sinapis* spp.). While both approaches share the principle of growing and incorporating pest-suppressive plants, their biochemical mechanisms, target spectra, and practical management differ significantly. This comparison helps growers choose the right biofumigant strategy for their specific pest pressures, climate, and rotation constraints. See also [[biofumigation-and-brassica-cover-crops-for-pest-management]] for deeper coverage of brassica-based approaches.
-
-## Side-by-Side Comparison
-
-| Feature | French Marigold (*Tagetes* spp.) | Mustard (*Brassica/Sinapis* spp.) |
-|---|---|---|
-| **Active compounds** | Alpha-terthienyl, bithienyls, other polythiophenes | Glucosinolates → isothiocyanates (ITCs) upon hydrolysis |
-| **Primary mechanism** | Root-exuded thiophenes are directly nematicidal; above-ground tissue less active | Tissue maceration + myrosinase releases volatile ITCs (mustard oils) |
-| **Key target pests** | Root-knot nematodes (*Meloidogyne* spp.), lesion nematodes (*Pratylenchus* spp.), reniform nematodes | Root-knot nematodes, soil fungi (*Rhizoctonia*, *Fusarium*, *Pythium*), some weed seeds |
-| **Fungal suppression** | Weak; primarily nematicidal | Strong broad-spectrum activity against soil-borne fungi |
-| **Best varieties** | *T. patula* (French), *T. erecta* (African) | *Brassica juncea* (Indian mustard), *B. napus* (rapeseed), *Sinapis alba* (white mustard) |
-| **Growth cycle** | 60–90 days to flower; often grown as full-season intercrop | 6–10 weeks; well-suited as a quick fall or spring catch crop |
-| **Incorporation method** | Living root effect; benefits from in-place root decay rather than incorporation | Must be chopped finely and incorporated immediately to maximize ITC release |
-| **[[soil-preparation-organic-gardens]]** | Standard tillage; no special incorporation timing needed | Requires rapid chopping and immediate incorporation into moist soil, then sealing (rolling or irrigation) |
+Biofumigation is an [[soil-preparation-organic-gardens]]** | Standard tillage; no special incorporation timing needed | Requires rapid chopping and immediate incorporation into moist soil, then sealing (rolling or irrigation) |
 | **Cost** | Higher seed cost; longer field occupation | Lower seed cost per acre; fast turnaround suits tight rotations |
 | **Climate preference** | Warm-season; frost-sensitive | Cool-season; most brassicas tolerate light frost |
 | **Allelopathic risk** | Low; marigolds are compatible with most succeeding crops | Moderate; residue phytotoxicity can delay sensitive crop establishment |
@@ -57,24 +44,7 @@ Marigolds are best regarded as a **specialized nematicidal biofumigant**. Resear
 - **Temperature**: Require warm soil (≥15°C for reliable germination). Frost kills plants outright.
 - **Sowing**: Direct seed at 1–2 cm depth, 15–30 cm within-row spacing.
 - **Duration**: Allow at least 60–90 days of growth for meaningful root-zone saturation.
-- **Soil**: Tolerant of a wide range of soils; moderately [[drought-tolerant-planting-design]] once established.
-
-### Integration into Rotations
-
-Marigolds fit best as a **summer fallow replacement** or as interplanted rows within a susceptible crop (e.g., alternating rows of tomato and marigold). Because the nematicidal effect comes from living roots, the crop must occupy the ground for an extended period. This is a limitation in intensive rotations where field time is at a premium. Marigolds are not typically followed immediately by a crop — a 2–4 week decomposition period allows remaining thiophene residues to decline and avoids any minor allelopathic effects.
-
-### Limitations
-
-- Long field occupation time reduces cash-crop windows.
-- Seed cost is relatively high compared to brassica cover crops.
-- Minimal activity against soil fungi — not a solution for Fusarium wilt or Rhizoctonia.
-- Effectiveness is reduced in heavy clay soils with poor thiophene mobility.
-
-## Mustard Biofumigation
-
-### Mechanism of Action
-
-Mustard biofumigation exploits the **glucosinolate–myrosinase system** found in Brassicaceae. Glucosinolates are stored in [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] vacuoles, separate from the enzyme myrosinase. When [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is damaged (chopped and incorporated), myrosinase hydrolyzes glucosinolates into **isothiocyanates (ITCs)** — volatile, biologically active "mustard oils." ITCs are broad-spectrum biocides toxic to nematodes, fungi, bacteria, insect eggs, and even some weed seeds. The effectiveness depends on rapid incorporation into moist soil (field capacity or above) to allow ITC volatilization throughout the soil profile.
+- **Soil**: Tolerant of a wide range of soils; moderately [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] vacuoles, separate from the enzyme myrosinase. When [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is damaged (chopped and incorporated), myrosinase hydrolyzes glucosinolates into **isothiocyanates (ITCs)** — volatile, biologically active "mustard oils." ITCs are broad-spectrum biocides toxic to nematodes, fungi, bacteria, insect eggs, and even some weed seeds. The effectiveness depends on rapid incorporation into moist soil (field capacity or above) to allow ITC volatilization throughout the soil profile.
 
 ### Target Pests and Effectiveness
 
@@ -133,4 +103,4 @@ For growers facing both severe nematode pressure and fungal disease, a **sequent
 | Cost per acre | Mustard |
 | Broad-spectrum activity | Mustard |
 
-Both biofumigation strategies are valuable tools in organic and integrated pest management systems. The right choice depends on your specific pest profile, climate, rotation constraints, and available equipment. For further reading on disease ecology in organic systems, see [[plant-disease-ecology-and-organic-management]], and for complementary biological control strategies, see [[entomopathogenic-fungi-and-biological-pest-control]].
+Both biofumigation strategies are valuable tools in organic and integrated pest management systems. The right choice depends on your specific pest profile, climate, rotation constraints, and available equipment. For further reading on disease ecology in organic systems, see plant disease ecology and organic management, and for complementary biological control strategies, see entomopathogenic fungi and biological pest control.

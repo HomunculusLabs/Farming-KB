@@ -94,12 +94,7 @@ Key features of VP production in P. eryngii include:
   microM) favor VP production; high Mn2+ favors MnP over VP in some
   Pleurotus species.
 - **Nitrogen levels**: VP is produced under both nitrogen-limited and
-  nitrogen-sufficient conditions, unlike LiP from [[staycare-phanerochaete-chrysosporium-in-bioremediation]] which requires strict nitrogen limitation.
-- **Multiple isozymes**: P. eryngii produces several VP isozymes
-  (VP1, VP2) with slightly different substrate preferences and pH
-  optima.
-
-Other VP-producing fungi include [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], pleurotus pulmonarius, bjerkandera adusta, and bjerkandera fumosa.
+  nitrogen-sufficient conditions, unlike LiP from [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], pleurotus pulmonarius, bjerkandera adusta, and bjerkandera fumosa.
 
 ## Bioremediation Applications
 
@@ -127,8 +122,6 @@ VP offers practical advantages over individual LiP or MnP systems:
 
 ## See Also
 
-- [[singh-lignin-peroxidase-lip-fungal-degradation]]
 - [[singh-manganese-peroxidase-mnp-biodegradation]]
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-textile-dye-decolorization-fungal]]
 - [[singh-fungal-immobilization-bioreactor-technology]]

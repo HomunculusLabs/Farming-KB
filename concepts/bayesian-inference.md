@@ -2,7 +2,8 @@
 title: bayesian inference
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -96,55 +97,8 @@ Bayesian inference is used to estimate physical constants from experimental meas
 It is used in astronomy to infer cosmological parameters from telescope data.
 It helps combine evidence from multiple clinical trials in medical research.
 Ecologists use hierarchical Bayesian models for population estimates and species distributions.
-Neuroscientists use Bayesian models to describe perception and [[savory-holistic-decision-making]].
-Geneticists use Bayesian methods for association studies and phylogenetics.
-Climate scientists use Bayesian calibration to compare models with observations.
-Epidemiologists use it to estimate transmission rates and forecast outbreaks.
-The framework is especially useful when data are sparse, indirect, noisy, or structured.
-It allows scientific knowledge to accumulate coherently across studies.
+Neuroscientists use Bayesian models to describe perception and [[kalman-filter]]
 
-## Applications in technology
-Spam filters historically used naive Bayes classifiers.
-Robotics uses Bayesian filtering to estimate location and map uncertain environments.
-Kalman filters can be interpreted within a Bayesian state-estimation framework.
-Machine learning systems use Bayesian optimization to tune expensive experiments or models.
-Reliability engineering uses Bayesian updating as failures or tests are observed.
-Computer vision uses probabilistic models for tracking and scene interpretation.
-Natural language processing uses Bayesian methods in topic models and latent-variable models.
-A/B testing platforms can use Bayesian decision rules for experiment monitoring.
-
-## Decision-making
-Bayesian inference separates uncertainty estimation from decision-making.
-A posterior distribution says what is believed after evidence.
-A utility or loss function says what outcomes matter.
-Bayesian decision theory chooses actions by expected utility or expected loss.
-This is valuable when errors have unequal costs.
-A medical test may prioritize avoiding false negatives.
-An industrial inspection system may prioritize avoiding catastrophic failures.
-Bayesian decisions can incorporate the value of additional information.
-This helps determine whether collecting more data is worth the cost.
-The decision-theoretic view makes assumptions about values explicit.
-
-## Criticisms and cautions
-Bayesian inference can appear more objective than it is if priors are hidden.
-Different priors can produce different conclusions when data are weak.
-Complex models can be computationally expensive.
-MCMC diagnostics are necessary because poor sampling can mimic certainty.
-Model misspecification can dominate posterior uncertainty.
-A narrow posterior under a bad model is not reliable knowledge.
-Communicating priors and credible intervals requires care.
-Good practice includes prior sensitivity, posterior predictive checks, and transparent reporting.
-
-## Significance
-Bayesian inference gives a disciplined language for learning from evidence.
-It connects logic, probability, computation, and decision theory.
-It is powerful because it treats uncertainty as something to be modeled rather than ignored.
-It supports cumulative science by allowing previous knowledge and new data to interact.
-It supports engineering by providing real-time updating under uncertainty.
-
-## Related concepts
-- probability theory
-- statistical inference
-- markov chain monte carlo
-- hierarchical models
-- [[kalman-filter]]
+## See Also
+- [[fungal-biodiversity-data-analysis]]
+- [[mollison-designers-data-overlay-map-maps]]

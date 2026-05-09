@@ -128,13 +128,8 @@ It can serve as a companion plant in arid orchards, providing structural support
 
 ## See Also
 
-- [[yucca-filamentosa]]
 - [[aloe-vera]]
-- [[moringa-oleifera]]
 - [[tagasaste]]
-- [[acacia-senegal]]
 - [[urtica-dioica]]
-- [[arctium-lappa]]
 - [[comfrey-symphytum-officinale]]
-- [[stropharia-rugosoannulata]]
 - [[allium-sativum-entity]]

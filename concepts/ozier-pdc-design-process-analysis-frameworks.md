@@ -23,8 +23,7 @@ process for permaculture projects, structured as a systematic progression
 from broad-scale analysis through detailed site assessment to final
 design decisions. The process emphasises that "before one can make ANY
 design decisions you must first analyse the site." This framework builds
-on established permaculture tools including [[pdc-zone-analysis-guide]]
-and [[ozier-pdc-sector-analysis-for-site-design]].
+on established permaculture tools including [[ozier-pdc-sector-analysis-for-site-design]].
 
 ## The Base Map
 
@@ -43,30 +42,7 @@ Best practices for base map work:
 4. With transparencies, create multiple sheets with related data grouped
    on each (e.g., sectors and zones on one, water flow and soil types on
    another).
-5. Digital tools can create layered [[permaculture-mapping-and-base-maps]]
-   with similar functionality.
-
-## Broad Scale to Fine Scale Analysis
-
-The analysis of a site begins at the macroscale and works inward. The
-guide recommends starting globally and progressively zooming in:
-
-1. **Global**: What hemisphere, what continent?
-2. **Regional**: What country, what region, what bioregion?
-3. **Local**: What watershed, what county?
-4. **Site**: Zoom in on the specific property.
-
-A disciplined permaculture designer would conduct a full analysis at each
-scale. Data from larger scales applies to future projects. For example,
-a full analysis of a county provides reusable data for any project in
-that county.
-
-At the site level, nearby roads, towns, cities, trash dumps, forest
-tracts, and neighbour relationships all inform the design context.
-
-## Client Interview
-
-The [[mollison-designers-design-client-interview-and-site-assessment-process]]
+5. Digital tools can create layered [[mollison-designers-design-client-interview-and-site-assessment-process]]
 is positioned as the philosophical foundation of the design. Key
 principles include:
 
@@ -99,44 +75,7 @@ making noise, and being quiet.
 
 ## Sector Analysis
 
-[[ozier-pdc-sector-analysis-for-site-design]] maps the flow of forces
-across the site as a circle centred on Zone 0, with "pie slices"
-representing directional forces. Typical sectors include:
-
-- **Fire hazard**: Direction from which wildfire would most likely come.
-- **Summer wind**: Predominant summer wind direction, approximately
-  80 degrees wide.
-- **Winter wind**: Predominant winter wind direction, approximately
-  80 degrees wide.
-- **Noise sectors**: From roads, neighbours, or other noise sources.
-- **Summer sun**: Solar azimuth during summer solstice.
-- **Winter sun**: Solar azimuth during winter solstice.
-- **Undesirable and desirable views**: Angular space covered.
-
-The guide recommends starting with concentric rings equal to the number
-of planned sectors, then drawing angular lines outward to the
-appropriate ring.
-
-## Inventories and Indicator Species
-
-Inventories catalogue existing resources: plants, animals, building
-materials, salvageable materials, water sources, available labour, and
-community resources. Indicator species are observed to assess soil
-conditions, water table depth, and microclimate characteristics.
-
-## Site History
-
-Researching the history of the site reveals patterns over time,
-including historical plants and crops, design precedents, major climactic
-events, and human habitation patterns. This "story of the site" provides
-context for design decisions and may reveal forgotten resources or
-constraints.
-
-## Related Concepts
-
-- [[pdc-zone-analysis-guide]]
-- [[ozier-pdc-sector-analysis-for-site-design]]
+[[pdc-zone-analysis-guide]]
 - [[ozier-pdc-plant-guilds-and-polyculture-design]]
-- [[permaculture-mapping-and-base-maps]]
 - [[ozier-pdc-hydro-cycle-and-watershed-management]]
 - [[ozier-pdc-forest-succession-and-food-forests]]

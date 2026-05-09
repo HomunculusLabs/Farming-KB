@@ -140,11 +140,8 @@ Mature oak stands can support natural fruitings, providing a high-value
 seasonal harvest without active cultivation. The species is sensitive to
 soil disturbance and chemical inputs, making it a natural bioindicator
 of low-intensity, chemical-free land management.
-
 ## See Also
 
-- [[boletus-edulis-entity]]
 - [[boletus-pinophilus]]
-- [[cantharellus-cibarius-entity]]
 - [[agaricus-sylvicola]]
 - [[tricholoma-portentosum]]

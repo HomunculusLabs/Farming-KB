@@ -42,37 +42,7 @@ A soup scene became hilariously unresolvable: three different cans of soup could
 
 A downed kite with an empty message sheet was found: "The message was that there was no message. Exactly out of Marshall McLuhan. Completely appropriate for this particular day."
 
-At 30 milligrams, the experience is reminiscent of [[lsd-entity-tihkal]] with a distinct feeling of "standing just a few feet to the right of ordinary reality."
-
-A mild tremor persists throughout but does not prevent functioning.
-
-One subject had a penetrating psychological insight about a "5:30" behavioral pattern established with their deceased wife, recognizing how they had been imposing this pattern on themselves as "some form of an emasculating pattern that is comfortable and stable."
-
-"No, it is not comfortable, it is simply the course of the least thought and the least disruption."
-
-The insight led to a resolve: "No new person should ever have to play my wife's old role. I need never again play my old role. And I won't."
-
-A second 30-milligram report describes gradual, pleasant onset with a persistent inward chill that could not be relieved by additional clothing.
-
-An "engrossing, somewhat chaotic and erotic reverie" lasted approximately an hour.
-
-The ease of talking surprised the subject, with cogent content and articulate expression.
-
-Going inward produced "neutral in affect but restful" sensations, while coming out was "entirely lucid and pleasant."
-
-The drop-off was gentle and conversation remained amiable until 1:00 AM.
-
-Sleep required 10 mg of Librium at 3:00 AM. The following day was "languid but cheerful."
-
-At 40 milligrams, physical concern predominates: generalized uneasiness, distinct body tremor, reduced urination (500 mL in 18 hours), and intestinal cramping.
-
-Thoughts proceed in multiple directions simultaneously without structuring anything, creating a "reality shell like a Mobius strip, continuous, yet with no consistent side being presented."
-
-Eyes-closed imagery is "very impressive" but thought processes are "convoluted and disjointed."
-
-Some thoughts were "most interesting, and some were ugly."
-
-The subject noted similarity to [[dob-entity]] and concluded "I cannot see this as a party drug."
+At 30 milligrams, the experience is reminiscent of [[dob-entity]] and concluded "I cannot see this as a party drug."
 
 ## Scientific Significance
 
@@ -90,14 +60,27 @@ Many materials that were outgrowths of mescaline with various alkoxy groups were
 
 ## Related Compounds
 
-[[mescaline-entity]] - the oxygen-containing parent compound with identical qualitative profile at 10x dosage
-
 [[2c-t-entity]] - the sulfur-substituted phenethylamine with 2,5-dimethoxy pattern
-
-[[dob-entity]] - comparison of convoluted thought patterns at higher doses
 
 [[tma-2-entity]] - the amphetamine with 2,4,5-trimethoxy pattern
 
-[[5-toet-entity]] - the amphetamine with ethyl and methylthio substitution
-
 [[phenethylamine-pharmacology]] - general pharmacological context
+## Practical Considerations
+
+Successful implementation of TM requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

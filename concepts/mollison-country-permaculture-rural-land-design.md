@@ -135,9 +135,7 @@ carob convertible to sugars, fuels, glues, food additives, and flours.
 
 ## See Also
 
-- [[mollison-animal-integration-permaculture-design]]
 - [[mollison-tropical-and-coastal-permaculture-design]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[coastal-permaculture-design-mollison]]
 - [[tropical-permaculture-guide]]
 

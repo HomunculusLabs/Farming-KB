@@ -138,8 +138,6 @@ in his work.
 
 ## See also
 
-- [[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]]
 - [[bloomfield-cordyceps-insect-pathogens-behavior]]
-- [[bloomfield-fungal-pathogens-and-parasites]]
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]

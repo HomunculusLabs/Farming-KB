@@ -90,7 +90,7 @@ radicchio, Belgian endive, and sugarloaf chicory.
   inflammatory
 - **Lactucin/lactucopicrin:** Sesquiterpene lactones;
   bitter taste, mild sedative
-- **Flavonoids:** Quercetin, kaempferol, luteolin, apigenin
+- **Flavonoids:** [[kaempferol]], luteolin, apigenin
   glycosides
 - **Anthocyanins:** Cyanidin-based pigments in radicchio
 - **Coumarins:** Scopoletin, umbelliferone
@@ -119,32 +119,13 @@ radicchio, Belgian endive, and sugarloaf chicory.
 - **Forage:** High-quality livestock forage; protein
   comparable to alfalfa; tannins reduce bloat
 
-## Permaculture and Agroecology
+## [[agroecology]]
 - **Dynamic accumulator:** Deep taproot mines Ca, K, Mg
   from subsoil; brings nutrients to surface via litter
 - **Pollinator support:** Late-season blue flowers provide
   nectar when most plants have finished blooming
 - **Drought tolerance:** Deep roots make it highly
   drought-resistant; valuable for climate adaptation
-- **Companion planting:** Works in diverse pastures with
-  clover, alfalfa, and grasses
-- **Soil improvement:** Taproot breaks compacted layers;
-  leaf litter adds organic matter and nitrogen
-- **Erosion control:** Persistent roots stabilize slopes
-  and marginal land
-- **Biomass:** Significant above-ground material for mulch
-## Cultivation Notes
-- **Propagation:** Direct seed spring/autumn; stratification
-  helps; also root cuttings for endive forcing
-- **Spacing:** 15-30 cm within rows, 30-60 cm between
-- **Soil:** Well-drained, fertile, pH 5.5-7.0
-- **Water:** Moderate; drought-tolerant once established
-- **Harvest:** Roots autumn year 2 for max inulin; leaves
-  cut repeatedly before flowering
-- **Pests:** Generally pest-resistant; aphids and slugs on
-  young plants
-
-## See Also
-- [[taraxacum-officinale]]
+- **[[chicorium-intybus]]
 - [[trifolium-repens]]
-- [[achillea-millefolium]]
+- achillea-millefolium

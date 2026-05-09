@@ -28,7 +28,7 @@ of the twentieth century.
 ## Which Mushrooms Are Controlled?
 
 Legal controls do not always apply to the same mushrooms. Denmark controls
-'[[psilocybe-semilanceata]], [[psilocybe-cubensis]] or other fungi/spores containing
+'[[psilocybe-cubensis]] or other fungi/spores containing
 psilocin or psilocybin', whereas Italy lists 'Fungi of the genus Strofaria,
 Conocybe and Psilocybe'. Other countries' laws simply list 'Fungi containing
 psilocin or an ester of psilocin' (e.g. the UK). The diversity of approaches
@@ -143,8 +143,10 @@ information on dosage and safe use practices. Most sites provide information
 on sought-after effects, yet few provide information on possible negative
 side effects. This shows that information from retailers is biased towards
 positive effects and varies considerably in quality.
+## See Also
+
+- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 
 ## See Also
 
-- [[emcdda-hallucinogenic-mushroom-dose-effects]]
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
+- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]]

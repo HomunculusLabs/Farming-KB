@@ -30,9 +30,7 @@ Compost tea may provide a small nutrient boost when applied as a foliar spray, b
 
 ### See Also
 
-- [[compost-tea-aact]]
 - [[compost-biology-soil-food-web-inoculation]]
-- [[composting-science-solomon]]
 - [[soil-building-permaculture]]
 
 ## Myth: Mycorrhizal Inoculants Are Always Beneficial
@@ -53,9 +51,7 @@ Mycorrhizal inoculants can be beneficial in specific contexts: sterilized nurser
 
 ### See Also
 
-- [[arbuscular-mycorrhizal-fungi]]
 - [[agricultural-chemicals-mycorrhizal-impact]]
-- [[fertilizers-and-mycorrhizae]]
 - [[soil-compaction-solutions]]
 
 ## Myth: You Need to Add Sand to Clay Soil to Improve Drainage
@@ -82,9 +78,7 @@ The relevant soil science principle involves particle size distribution and the 
 
 ### See Also
 
-- [[soil-compaction-solutions]]
 - [[building-soil-fertility-long-term]]
-- [[penicillium-entity]]
 - [[compost-building-guide]]
 
 ## Myth: Soil pH Can Be Permanently Changed with Amendments
@@ -104,9 +98,7 @@ Soil amendments can shift pH temporarily, but long-term pH management requires u
 
 ### See Also
 
-- [[soil-testing-and-analysis]]
 - [[acid-and-alkaline-soil-management]]
-- [[soil-amendment-reference]]
 - [[garden-soil-basics]]
 
 ## Myth: Organic Fertilizers Are Always Safer and Better Than Synthetic
@@ -127,9 +119,7 @@ The best approach is context-dependent: use soil tests to determine actual nutri
 
 ### See Also
 
-- [[fertilizer-pollution-environmental-impact]]
 - [[soil-testing-and-interpretation]]
-- [[building-soil-fertility-long-term]]
 - [[composting-methods-comparison]]
 
 ## Myth: Epsom Salt (Magnesium Sulfate) Cures All Plant Problems

@@ -121,8 +121,6 @@ Gottlieb advises that when ordering:
 | Other Trichocereus species | Legal as ornamental; illegal for drug use |
 | Donana (C. macromeris) alkaloids | Legal to extract (not controlled) |
 | Extracted mescaline | Definitely contraband |
-- [[psychoactive-cacti-of-central-mexico]]
 - [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
-- [[mescaline-peyote-san-pedro-cactus]]
 - [[psychedelic-research-legal-history-united-states]]
 - [[gottlieb-peyote-botany-and-mescaline-content]]

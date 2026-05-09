@@ -11,36 +11,9 @@ tags: [pharmacology]
 # Salvinorin Pharmacology
 
 Salvinorin A is the principal psychoactive compound of
-[[salvia-divinorum]], the diviner's sage used by the Mazatec Indians
-of Oaxaca, Mexico. Salvinorin A is a neoclerodane diterpenoid and
-represents a unique class of naturally occurring psychoactive
-substances. It is the most potent naturally occurring hallucinogen
-known, active at doses of 250 to 500 micrograms when inhaled. Its
-mechanism of action -- as a selective kappa-opioid receptor agonist
--- is entirely different from that of all other known plant-derived
-hallucinogens.
-
-## Chemical Classification
-
-Salvinorin A (C23H28O8) is a trans-neoclerodane diterpenoid,
-structurally unrelated to other known classes of psychoactive
-compounds. Unlike the classical hallucinogens (tryptamines such as
-[[psilocybin-compound]] and DMT, or phenylethylamines such as mescaline),
+[[psilocybin]] and DMT, or phenylethylamines such as mescaline),
 salvinorin A contains no nitrogen atoms in its structure. This makes
-it unique among naturally occurring [[cultural-evolution-and-psychoactive-substances]], which
-almost invariably contain nitrogen as part of an amine or alkaloid
-group.
-
-Salvinorin A is the first known non-nitrogenous naturally occurring
-kappa-opioid receptor agonist. This unique chemical profile
-distinguishes salvinorin A from all other known plant-derived
-hallucinogens and places it in a pharmacological category of its own.
-The compound is highly lipophilic (fat-soluble), which contributes to
-its rapid onset and short duration when inhaled.
-
-## Discovery and Isolation
-
-The psychoactive properties of [[hofmann-salvia-divinorum-discovery]] were first brought to
+it unique among naturally occurring [[hofmann-salvia-divinorum-discovery]] were first brought to
 scientific attention by ethnobotanical research in the 1960s and
 1970s, when researchers documented the Mazatec use of the plant in
 divination ceremonies. The active compound, salvinorin A, was
@@ -65,8 +38,7 @@ different from that of other classes of hallucinogenic compounds:
   em
 - **Dissociative anesthetics** (ketamine, PCP): Act as NMDA receptor a
   ntagonists, blocking glutamate signaling
-- **Deliriants** (atropine, scopolamine from [[datura-stramonium]] and
-   [[belladonna-plant]]): Act as anticholinergics, blocking acetylchol
+- **Deliriants** (atropine, scopolamine from [[belladonna-plant]]): Act as anticholinergics, blocking acetylchol
   ine muscarinic receptors
 - **Salvinorin A**: Acts as a kappa-opioid receptor agonist, modulatin
   g the endogenous opioid system

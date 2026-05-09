@@ -118,4 +118,4 @@ Volunteer dill seedlings often appear the following season from self-seeding, cr
 
 ## See Also
 
- [[foeniculum-vulgare-entity]] · carum carvi · [[pimpinella-anisum]] · petroselinum crispum · [[ocimum-basilicum]] · [[mentha-piperita]] · coriandrum sativum · cuminum cyminum · [[companion-planting]] · [[dynamic-accumulators]]
+ [[pimpinella-anisum]] · petroselinum crispum · [[mentha-piperita]] · coriandrum sativum · cuminum cyminum · [[dynamic-accumulators]]

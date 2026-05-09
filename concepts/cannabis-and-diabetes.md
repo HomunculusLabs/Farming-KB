@@ -12,45 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Research from The Cannabis Health Index documents significant potential for [[cannabis-minor-cannabinoids]] in diabetes management, both for Type 1 (autoimmune) diabetes prevention and for diabetic neuropathy treatment. CBD has shown particularly promising results.
-
-## CHI Summary
-
-| Condition | Studies Reviewed | Total Scores | CHI Value |
-|-----------|-----------------|--------------|-----------|
-| Diabetes (General) | Multiple | - | See individual sections |
-
-## Key Clinical Studies
-
-### CBD Arrests Onset of Autoimmune Diabetes
-**Weiss et al. (2006, 2008)**: "Cannabidiol lowers incidence of diabetes in non-obese diabetic mice" (Autoimmunity) and "Cannabidiol arrests onset of autoimmune diabetes in NOD mice" (Neuropharmacology).
-
-CBD significantly reduced the incidence of diabetes in NOD (non-obese diabetic) mice, which are the standard animal model for Type 1 diabetes. This suggests CBD may have immunomodulatory effects that prevent the autoimmune destruction of pancreatic beta cells.
-
-### Diabetic Neuropathy
-**Zhang et al. (2009)**: "Cannabinoid CB1 receptor activation stimulates neurite outgrowth and inhibits capsaicin-induced Ca2+ influx in an in vitro model of diabetic neuropathy."
-
-**Bujalska (2008)**: "Effect of cannabinoid receptor agonists on streptozotocin-induced hyperalgesia in diabetic neuropathy." Cannabinoid receptor agonists reduced pain hypersensitivity in diabetic neuropathy models.
-
-### Neuroprotective Effects in Diabetic Retinopathy
-**El-Remessy et al. (2006)**: "Neuroprotective and blood-retinal barrier-preserving effects of cannabidiol in experimental diabetes." American Journal of Pathology.
-
-CBD protected the blood-retinal barrier and provided neuroprotection in experimental diabetes, potentially preventing or slowing diabetic retinopathy -- a leading cause of blindness.
-
-### THC and Autoimmune Diabetes
-**Li et al. (2001)**: "Examination of the immunosuppressive effect of delta9-tetrahydrocannabinol in streptozotocin-induced autoimmune diabetes." THC showed immunosuppressive effects in the streptozotocin model.
-
-## Food-as-Medicine for Diabetes
-
-### Cinnamon
-- Cinnamon bark extract improves glucose metabolism and lipid profile (Kannappan et al., 2006)
-- Cinnamaldehyde is a potential antidiabetic agent (Subash et al., 2007)
-- Cinnamon component increases glucose disposal by enhancing glucose transporter translocation (Kim et al., 2006)
-- Syzygium aromaticum (clove) represses genes encoding hepatic gluconeogenic enzymes (Prasad et al., 2005)
-
-### Ginger
-- Anti-diabetic and hypolipidaemic properties in streptozotocin-induced diabetic rats (Al-Amin et al., 2006)
-- Analgesic, [[cannabis-anti-inflammatory-applications]], and hypoglycaemic effects (Ojewole, 2006)
+Research from The Cannabis Health Index documents significant potential for [[cannabis-anti-inflammatory-applications]], and hypoglycaemic effects (Ojewole, 2006)
 
 ### Garlic
 - Time-released garlic powder tablets improved metabolic effects in Type 2 diabetes in double-blinded placebo-controlled study (Sobenin et al., 2008)
@@ -100,14 +62,30 @@ Note that cannabis use is associated with increased appetite ("the munchies"), w
 
 ## Related Topics
 
-- [[cannabis-for-neuropathic-pain]]
 - [[cannabis-endocannabinoid-system]]
 - Cannabis For Inflammation
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Diabetes Mellitus section
-- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 - [[cannabis-seed-selection-and-strain-types]]
-- [[blesching-cannabis-neuropathic-pain]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+## Practical Considerations
+
+Successful implementation of Cannabis And Diabetes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

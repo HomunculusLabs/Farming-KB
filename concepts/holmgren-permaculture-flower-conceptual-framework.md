@@ -3,7 +3,7 @@ title: The Permaculture Flower - Holmgren's Conceptual Framework
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [permaculture, holmgren, design-framework, sustainability,
+tags: [[permaculture, holmgren, design-framework, sustainability,
        conceptual-model, ethics, whole-systems]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
@@ -136,8 +136,6 @@ domain where design decisions are made.
 
 ## See Also
 
-- [[holmgren-ethical-philosophical-framework]]
 - [[permaculture-ethics-earth-care-people-care-fair-share]]
-- [[holmgren-design-patterns-details-detailed]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
 - [[permaculture-principles]]

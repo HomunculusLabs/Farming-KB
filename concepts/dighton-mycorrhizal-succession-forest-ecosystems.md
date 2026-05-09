@@ -114,8 +114,6 @@ mycorrhizal community structure during forest development.
 
 ## See Also
 
-- [[dighton-fungal-succession-disturbance]]
 - [[dighton-fungal-succession-resource-decomposition]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
 - [[mycorrhizal-succession-primary-secondary]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]

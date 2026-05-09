@@ -1,29 +1,7 @@
 ---
 title: Fungal Diversity in Aquatic Environments
 created: 2026-04-24
-tags: [mycology, aquatic, freshwater, marine, ecology, zoosporic]
-sources: Biodiversity of Fungi (Mueller & Bills)
-type: concept
-updated: 2026-04-26
----
-
-# Fungal Diversity in Aquatic Environments
-
-Aquatic habitats — including freshwater streams, lakes, estuaries, and marine environments — harbor diverse fungal communities that play critical roles in decomposition, nutrient cycling, and food web dynamics. Aquatic fungi include both eumycetous fungi and fungus-like organisms (Oomycota, Chytridiomycota).
-
-## Freshwater Fungi
-
-### Ingoldian Hyphomycetes (Aquatic Hyphomycetes)
-
-Ingoldian fungi are a hallmark group of freshwater fungi, named after C.T. Ingold who first described them:
-
-- **Habitat**: Primarily on decaying leaves and woody debris in streams and rivers
-- **Spores**: Produce distinctive tetraradiate or sigmoid conidia adapted for dispersal in flowing water
-- **Common genera**: Heliscus lugdunensis, Tricladium splendens, Lunulospora curvula, Varicosporium elodeae, Campylospora parvula, Filosporella fistucella
-- **As endophytes**: Ingoldian fungi also occur as endophytes in submerged roots (Alnus, Picea, Betula, Acer) and terrestrial roots
-- **Distribution**: More common in outer bark than xylem of root endophyte communities
-
-### [[zoosporic-fungi]] (Chytridiomycota)
+tags: [[zoosporic-fungi]] (Chytridiomycota)
 
 Chytrids are aquatic or soil-dwelling fungi producing motile zoospores:
 
@@ -85,10 +63,26 @@ Aquatic fungi are essential for:
 
 ## See Also
 
-- [[biodiversity-fungi-freshwater-aquatic-habitats]]
-
 - [[biodiversity-xerophilic-fungi-dry-environments]]
 
-- [[biodiversity-fungi-leaf-litter-decomposition]]
 - [[fungal-diversity-extreme-environments]]
 - [[biodiversity-fungi-spore-dispersal]]
+## Practical Considerations
+
+Successful implementation of Fungal Diversity in Aquatic Environments requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

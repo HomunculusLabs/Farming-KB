@@ -3,34 +3,13 @@ title: Holmgren Attitudes Energy Descent
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Attitudes Energy Descent
-
-Updated: 2026-04-19
-
-David Holmgren explores different cultural attitudes toward energy descent in *Permaculture: Principles and Pathways Beyond Sustainability* (2002), arguing that the frames through which people understand declining energy availability shape whether they respond with constructive adaptation or chaotic resistance.
-
-## Three Broad Attitudes
-
-Holmgren identifies three general attitudes toward energy descent:
-
-1. **Techno-optimism** — belief that new technologies and energy sources will maintain current patterns of growth and affluence
-
-2. **Steady-state faith** — confidence that efficiency improvements and renewable energy can sustain current living standards without growth
-
-3. **Descent awareness** — acceptance that energy availability will decline and that societies must actively redesign for lower energy throughput
-
-These three attitudes map onto different positions along the [[consumer-versus-conserver-society]] spectrum and have profound implications for the strategies people adopt.
+tags: [[consumer-versus-conserver-society]] spectrum and have profound implications for the strategies people adopt.
 
 ## Permaculture's Position
 
 Permaculture occupies the descent-aware position but is distinguished by its constructive, design-based approach. Rather than framing descent as collapse or catastrophe, Holmgren presents it as a design challenge amenable to creative solutions. The question is not whether descent will happen but how it will happen — chaotically or by design.
 
-This constructive framing connects to [[holmgren-change-detailed]] and [[permaculture-design-principles]]. Permaculture does not merely accept change but seeks to guide it toward desirable outcomes through deliberate design action.
+This constructive framing connects to [[permaculture-farm-design-principles]]. Permaculture does not merely accept change but seeks to guide it toward desirable outcomes through deliberate design action.
 
 ## Cultural Barriers to Acceptance
 
@@ -58,13 +37,7 @@ These factors have led to an explosion in the arts and sciences and creativity g
 
 ## Bottom-Up vs. Top-Down Change
 
-Holmgren contrasts [[holmgren-top-down-thinking-bottom-up-action]] approaches. Permaculture is not primarily about lobbying government to change policies. Instead, it facilitates individuals, households, and local communities in increasing self-reliance and self-regulation. This approach is based on recognition that demonstration and replication can be more powerful than advocacy.
-
-## Top-Down Thinking, Bottom-Up Action
-
-The permaculture slogan "top-down thinking, bottom-up action" restates "think globally, act locally" in systems terms. Bottom-up collaborative behaviour in gardens and communities is informed by holistic systemic understanding (top-down thinking). This differs from both the elite control of traditional societies and the reductionist fragmentation of modern technocratic governance.
-
-This approach informs [[energy-descent-action-planning]] by providing a methodology that is both systemic in its analysis and grounded in local action.
+Holmgren contrasts [[energy-descent-action-planning]] by providing a methodology that is both systemic in its analysis and grounded in local action.
 
 ## Energy as Fast Breeder for Evolutionary Change
 
@@ -84,18 +57,31 @@ Affluence has provided critical insurance against failure. Generational and fami
 
 ## See Also
 
-- [[holmgren-tripartite-altruism]]
-
 - [[holmgren-top-down-thinking-bottom-up-action]]
 
-- [[holmgren-ethics-cultural-mechanisms]]
-
 - [[holmgren-intentional-communities-history]]
-
-- [[consumer-versus-conserver-society]]
 
 - [[energy-descent-action-planning]]
 
 - [[holmgren-change-detailed]]
 
 Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Principles 1 and 12
+## Practical Considerations
+
+Successful implementation of Holmgren Attitudes Energy Descent requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

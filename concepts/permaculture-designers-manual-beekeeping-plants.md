@@ -3,7 +3,7 @@ title: Beekeeping Plants
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, animals, plant-systems]
+tags: [[permaculture, animals, plant-systems]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -107,11 +107,7 @@ Mollison lists bee forage systems as a medium-term ethical investment (amortise 
 
 ## Related Topics
 
-- [[permaculture-designers-manual-beekeeping]] - Hive management and honey production
 - [[permaculture-designers-manual-crop-pollination]] - Pollination services in design
-- [[permaculture-designers-manual-animal-forage-systems]] - Integrated forage design
 - [[permaculture-designers-manual-designer-reference-species]] - Plant species reference
-- [[permaculture-designers-manual-plant-nursery]] - Propagating bee fodder plants
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[permaculture-designers-manual-cover-crops-detailed]]

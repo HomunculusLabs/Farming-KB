@@ -90,12 +90,8 @@ description and parsing.
 
 ## See Also
 
-- [[document-format-conversion-fidelity]]
 - [[microsoft-word-document-format]]
-- [[fungal-binary-ternary-biosorption]]
 - [[japanese-document-processing]]
-- [[genetic-engineering-fungal-bioremediation]]
-
 - [[microsoft-word-document-format-history]]
 - ole2 compound binary file format
 - ole2 compound binary file format

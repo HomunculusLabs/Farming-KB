@@ -22,8 +22,8 @@ Hinayana natural farming, and scientific farming. These categories are
 not merely practical distinctions but represent fundamentally different
 relationships between humans and nature, rooted in Buddhist philosophical
 frameworks applied to agriculture. This classification appears in
-[[fukuoka-natural-farming-philosophy]] and underpins the [[four-principles-of-natural-farming]].
-It stands in contrast to [[bill-mollison|Bill Mollison]]'s [[permaculture]] design system,
+[[four-principles-of-natural-farming]].
+It stands in contrast to [[permaculture]] design system,
 which shares some practical overlap but differs in its analytical approach.
 
 ## The Three Worlds of Farming
@@ -107,43 +107,14 @@ Mahayana is the unmoving no-sword school, beyond comparison.
 If man makes a genuine effort to approach nature, then even should he
 abandon all deeds and actions, nature will take each of these over and
 perform them for him. This is the foundational conviction of
-[[fukuoka-do-nothing-farming-philosophy]].
-
-## Scientific Farming in Contrast
-
-Scientific farming exists in contradiction: man is estranged from nature
-yet longs to return. It wanders blindly, now calling upon nature's
-blessings, now rejecting them for human knowledge. Pure natural farming
-should be judged on philosophical grounds; scientific farming on
-scientific grounds. Scientific achievements may excel in a restricted
-sense but are invariably inferior in all other ways, while natural
-farming is total and comprehensive.
-
-## Practical Implications
-
-This philosophical framework has direct practical consequences:
-
-## Related Concepts
-
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-do-nothing-farming-philosophy]]
+[[fukuoka-natural-farming-philosophy]]
 - [[four-principles-of-natural-farming]]
-- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-natural-vs-scientific-farming]]
-- [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-mu-farming-epistemology]]
-- [[masanobu-fukuoka]] -- biography of the philosopher-farmer
-- [[sepp-holzer]] -- Austrian farmer who independently developed similar principles of natural agriculture
-- [[toby-hemenway]] -- permaculture author who applied Fukuoka's ideas to suburban food forests
+- [[sepp-holzer-entity]] -- Austrian farmer who independently developed similar principles of natural agriculture
 - [[natural-farming]] -- natural farming methods and practice
-- [[permaculture]] -- related design philosophy for sustainable systems
 - [[permaculture-design]] -- permaculture design principles and methods
-- [[cho-natural-farming-inputs-overview]] -- Cho's Korean natural farming input system
 - [[clay-seed-balls-tsuchi-dango]] -- Fukuoka's seed ball technique for natural planting
-- [[agroecology]] -- scientific framework for farming in harmony with ecological processes
 - [[backyard-food-forest-design]] -- practical food forest design informed by natural farming principles
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] -- permaculture forest garden methods complementing Fukuoka's approach
-
-[[agroecology]]
-[[backyard-food-forest-design]]
+- [[agroecology]]
 [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

@@ -3,12 +3,11 @@ title: Falconer Mushroom Spawn Preparation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - William Falconer - Mushrooms: How to Grow Them (1891)
+  - william-falconer - Mushrooms: How to Grow Them (1891)
 type: concept
 tags: [grain-spawn, mushroom-cultivation]
 ---
-# Falconer Mushroom [[spawn-preparation]]
-Falconer devoted Chapter X of his treatise entirely to [[mushroom-spawn]],
+# Falconer Mushroom [[mushroom-spawn]],
 which he called "the chief enigma connected with mushroom-growing." He
 explained that what growers call spawn, botanists term mycelium -- the
 true mushroom plant, a delicate white mold-like network of whitish
@@ -80,70 +79,8 @@ and court a failure by using old spawn?"
 Mushroom spawn should have a decided mushroom smell. Whatever cobweb-like
 mold appeared should be fresh bluish-white, with fine clear white threads.
 Prominent yellowish threads or veins indicated killed mycelium. White mold
-patches on brick surfaces indicated other [[fungal-parasites]]. Absence of
-mushroom smell indicated dead mycelium.
-Mr. A.D. Cowan of New York, an experienced judge, advised: "Healthy
-bricks are usually of a dusty brown color, and of light weight." Black
-colored spawn was generally to be avoided. The outward moldy appearance
-was the best evidence of healthy vitality.
+patches on brick surfaces indicated other [[cuthill-mushroom-spawn-preparation-historical]]
 
-## Making Brick Spawn
-
-Falconer gave Robert Thompson's method from The Gardeners' Assistant:
-1. Mix fresh horse droppings, cow dung, and a little loam with stable
-   drainings to the consistency of mortar.
-2. Spread on an open shed floor; when firm, cut into 6-inch square cakes.
-3. Set on edge in a dry, airy place; turn frequently, protect from rain.
-4. When half dry, cut a hole in each brick's broad side and insert a
-   1-inch square piece of good old spawn, covered with moist material.
-5. When nearly dry, make a 9-inch thick bed of prepared horse dung on a
-   dry bottom and pile the bricks openly upon it.
-6. Cover with litter; maintain temperature not above 60 degrees F.
-7. When spawn appears throughout as a white mold (before forming threads
-   or tubercles), remove and dry thoroughly.
-8. Store in a dark, perfectly dry place.
-Alternate recipes Thompson gave included various proportions of horse
-dung, cow dung, sheep's dung, loam, and road droppings.
-
-### J. Burton's Method
-
-From The Kitchen and Market Garden:
-1. Secure cow manure before animals get green food; store in open, dry shed.
-2. Turn every few days for a week or two.
-3. Add equal part of fresh horse droppings, a little loam, and chopped straw.
-4. Work together, tread down, turn 2-3 times per week.
-5. When fit, spread 6 inches thick, tread and beat firm, line out and cut
-   into bricks with sharp spade.
-6. Set on edge to dry; after sun exposure, cut two holes per brick and
-   insert pigeon-egg-sized spawn pieces.
-7. Heap together, cover with short manure for gentle heat (guarding
-   against rank heat).
-8. When spawn has penetrated throughout, stack in a dry place.
-
-## Making French (Flake) Spawn
-### Lachaume's Virgin Spawn Method
-1. Take 5-6 barrow loads of aged horse droppings, mix with one-fourth
-   short stable litter.
-2. In April, open a trench 2 feet wide, 20 inches deep, 8 inches from a
-   north-facing wall.
-3. Layer 3-4 inches chopped straw, then equal thickness of manure; tread
-   firm, water gently. Repeat to above ground level; round off top.
-4. Cover with thick stable litter.
-5. After 3 months, open the trench. If bluish-white filaments with
-   mushroom odor pervade the manure pieces, spawn is ready.
-6. Save the flakes with most filaments; reject brown pieces.
-7. Break into 1-2 pound pieces, dry in a well-ventilated shed (not piled).
-8. Properly dried, this spawn keeps good for ten years.
-### Lachaume's Accelerated Method
-
-1. Open a 16-inch wide trench 8 inches from a north-facing wall.
-2. Fill with prepared bed-condition manure, leaving 2.5 feet at one end.
-3. Toss and shake manure in that space; press down with hands and knees.
-4. At 6-inch depth, place lumps of old spawn about 1 foot apart along the
-   edge facing the wall, raised vertically against the earthen trench wall.
-5. Cover with more manure, burying first row 3-4 inches; insert second row.
-6. Fill level with soil surface; cover with 3-4 inches fine dry soil.
-7. After 6 weeks to 2 months, new spawn appears. Confirm by mushroom
 ## See Also
 
-- [[cuthill-mushroom-spawn-preparation-historical]]
+- [[falconer-mushroom-cooking-selection-and-preparation]]

@@ -11,6 +11,7 @@ type: concept
 updated: 2026-04-12
 ---
 
+
 # Cover Crop Guide Detailed
 
 Cover crops are plants grown primarily to benefit the soil rather than for harvest. They protect soil from erosion, suppress weeds, fix nitrogen, improve soil structure, and feed soil biology. A well-planned cover crop program is foundational to any regenerative homestead.
@@ -52,7 +53,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 - Seeding rate: 80-120 lbs/acre
 - Benefits: Quick establishment, winter-kill leaves dead mulch on surface, scavenges nutrients, fibrous roots build soil structure
 - Termination: Winter kill naturally — no mechanical termination needed
-- Good for: [[composting-and-soil-biology|No-till]] gardens where you want a dead mulch in spring
+- Good for: [[no-till-gardening-method|No-till]] gardens where you want a dead mulch in spring
 
 **Buckwheat (Fagopyrum esculentum)**
 - Hardiness: tender annual, killed by frost
@@ -131,9 +132,7 @@ Cover crops are an excellent way to maintain soil biology between cash crop cycl
 
 ## See Also
 
-- [[solomon-buckwheat-summer-cover-crop-guide]]
-
-- [[composting-and-soil-biology]]
+- [[no-till-gardening-method]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[sheet-mulching]]
 - [[cannabis-living-soil-guide]]

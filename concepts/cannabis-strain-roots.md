@@ -16,18 +16,7 @@ type: concept
 
 # Roots
 
-Roots is a sativa-dominant hybrid [[cannabis-strain-shaman]] bred by Reggae Seeds of Spain,
-in collaboration with Mario from Delicatessen Seeds. Named in homage to the
-legendary American hip-hop band, this strain combines diverse genetics to create
-a complex plant with appealing visual characteristics and a potent sativa
-effect that contrasts with its balanced physical structure.
-
-## Genetics and Lineage
-
-While the parent strains are listed as Reina Madre and Kalijah, the genetic
-background of Roots is considerably more diverse than this parentage suggests.
-According to the source material, the family tree of Roots includes genetics
-from Blue Heaven, NYC Diesel, and an undisclosed sativa variety, among others.
+Roots is a sativa-dominant hybrid [[nyc-diesel]], and an undisclosed sativa variety, among others.
 This melting pot of genetic influences creates a plant with complex traits that
 draw from multiple cannabis lineages.
 
@@ -116,7 +105,6 @@ tell different stories about the plant's genetic composition.
 
 ## See Also
 
-- [[cannabis-strain-guide-reference]]
 - [[cannabis-strain-peptide]]
 
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties

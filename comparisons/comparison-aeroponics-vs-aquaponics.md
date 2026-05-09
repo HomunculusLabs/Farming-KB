@@ -17,31 +17,6 @@ and hydroponics in a recirculating ecosystem where fish waste is converted by ba
 into plant nutrients. While both systems are water-efficient and space-efficient, they
 differ dramatically in complexity, cost, outputs, and management requirements.
 ## Aeroponics
-[[aeroponics-guide]]
-Aeroponics works by suspending plant roots in an enclosed chamber where they are
-periodically or continuously misted with a nutrient-rich solution. The roots dangle
-freely in the air, absorbing oxygen directly from the atmosphere while nutrients arrive
-as a fine mist coating the root surfaces. This maximizes the oxygen available at the
-root zone, which is often the single most limiting factor in plant growth. Studies
-consistently show that aeroponic systems can produce growth rates up to 30-50% faster
-than traditional hydroponics and significantly faster than soil-based methods.
-The system requires precision components including high-pressure misting nozzles
-(often operating at 80-100 PSI for true high-pressure aeroponics), a reliable water
-pump, a cycle timer or continuous-run controller, and a sealed root chamber designed
-to maintain high humidity (typically 95-100%) around the roots while allowing air
-exchange. Nutrient solution must be carefully managed because the roots have no growing
-medium to buffer against fluctuations in pH, electrical conductivity (EC), or
-temperature. Even brief pump failures of just 15-30 minutes can be catastrophic since
-roots desiccate quickly when misting stops.
-Aeroponics excels in water efficiency, using up to 95% less water than traditional
-agriculture and roughly 40% less than standard hydroponic systems. NASA has
-extensively researched aeroponics for space agriculture due to its minimal resource
-requirements and extraordinarily high productivity per unit area. The technology is
-particularly well-suited for high-value crops such as culinary herbs, microgreens, and
-specialty flowers. It is also highly effective for propagation and cloning operations
-where aeroponic systems consistently achieve near-100% rooting success rates compared
-to 70-80% for traditional media-based cloning.
-## Aquaponics
 [[aquaponics-guide]]
 Aquaponics creates a symbiotic ecosystem between fish, bacteria, and plants in a
 recirculating water system. Fish produce ammonia waste through their excretions, which
@@ -116,10 +91,7 @@ aeroponic misting nozzles, requiring additional filtration. Another popular hybr
 uses deep water culture (DWC) rafts for the aquaponic grow beds, avoiding nozzle
 clogging while leveraging the recirculating fish-waste nutrient cycle.
 ## See Also
-- [[comparison-aeroponics-vs-hydroponics]]
- [[aeroponics-guide]]
- [[aquaponics-guide]]
+- [[aeroponics-guide]]
  [[comparison-living-soil-vs-hydroponic]]
- [[comparison-dwc-vs-ebb-and-flow]]
  [[aquaponics-fish-species]]
 - [[comparison-aquaponics-vs-aeroponics]]

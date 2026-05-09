@@ -14,38 +14,9 @@ sources:
 type: concept
 ---
 
-# Holzer Urban Gardening and the Rubbish [[hugelkultur]]
-
-Holzer's [[permaculture]] offers solutions for growing food even in the most
+# Holzer Urban Gardening and the Rubbish [[permaculture]] offers solutions for growing food even in the most
 challenging urban environments. From rooftops and balconies to rubbish tips
-and [[urban-permaculture-fodder-trees-livestock]], food
-production is always possible where there is a will to work with nature.
-
-## Urban Growing Philosophy
-
-Every citizen of the world is entitled to some land for cultivation.
-However, land ownership is not equally distributed and millions are deprived
-of this opportunity. Holzer insists that solutions exist: one needs only to
-ask nature and she will provide.
-
-Examples of urban food production observed worldwide:
-- Lisbon: cabbages growing along motorway banks
-- Moscow: potatoes cultivated in parks
-- Mexico City: lettuces harvested from rain gutters
-- Guerilla Gardening movement: people planting on disused urban land at
-  night in England, planting flowers and vegetables on roundabouts and in
-  parks
-
-## The Rubbish Hugelkultur
-
-The rubbish hugelkultur was developed during workshops at Tamera Peace
-Research Centre in Portugal, with participants from 14 countries including
-occupied Palestine, Colombia, Ecuador, Latvia, Brazilian favelas, and
-Kenyan slums.
-
-### Construction Method
-
-The building process mirrors a standard [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
+and [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
 with collected waste materials rather than wood and organic matter:
 
 1. Collect old clothes, paper, cardboard, half-rotten wooden boxes, and

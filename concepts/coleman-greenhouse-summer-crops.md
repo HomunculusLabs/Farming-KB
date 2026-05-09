@@ -123,6 +123,5 @@ has reached 65 degrees Fahrenheit using only solar heat.
 ## See Also
 
 - [[coleman-greenhouse-soil-management]]
-- [[coleman-greenhouse-ventilation-design]]
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]

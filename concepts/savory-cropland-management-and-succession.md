@@ -11,19 +11,7 @@ type: concept
 
 # Cropland Management and Succession
 
-The principles of [[savory-plant-succession-and-community-dynamics]] apply as fully to
-croplands as to rangelands and forests. Planting a field to crops in no way alters the
-fact that the successional process is still vital to all life above and below the
-surface. All organisms remain dependent on other populations in their community for
-their existence and stability. The great danger lies in using chemicals to kill
-organisms on our crops or in our soils, thereby simplifying the community upon which
-all production depends.
-
-## Croplands in Brittle vs Nonbrittle Environments
-
-The environment in which we choose to grow crops still remains either nonbrittle or
-brittle to some degree, and the relevant principles hold. Exposed soil has the same
-effect on cropland in [[savory-brittle-environments]] as on rangeland. The decay process
+The principles of [[savory-brittle-environments]] as on rangeland. The decay process
 remains largely oxidation and weathering, and we have the same difficulty developing and
 maintaining organic material and the community in the soil.
 
@@ -78,8 +66,7 @@ are serious doubts that they can.
 Livestock operations added new crops, and farmers who had previously specialized in one
 or two cash crops added many others and rotated crops more effectively. The integration
 of livestock into cropping systems through planned grazing of crop residues, cover
-crops, and pastures can dramatically improve soil health, [[savory-mineral-cycle-management]],
-and [[savory-soil-carbon-sequestration]].
+crops, and pastures can dramatically improve soil health, [[savory-soil-carbon-sequestration]].
 
 ## Weeds as Complexity Providers
 
@@ -94,40 +81,9 @@ American scientists have begun gathering data indicating that complexity, as
 represented by weeds, can reduce insect damage in orchards previously reduced to a
 simplified community by keeping them clean. This principle extends to all cropping
 situations: complexity above ground supports complexity below ground, and the
-below-ground community drives [[savory-water-cycle-management]] and nutrient cycling.
-
-## Succession and Management Goals
-
-A successful approach to management should rest on the concept of the coiled spring.
-By nature succession moves upward toward greater stability and complexity. All prolonged
-downward shifts could be traced to human intervention by the purposeful or accidental
-application of one or other of the management tools. The moment we reduce or cease that
-pressure on the spring, it rebounds, and the community gradually returns to complexity
-and stability.
-
-If you seek to favor a particular plant species in your cropland, you must direct the
-movement of succession toward the optimum environment for that species. Not by
-automatically intervening with some technological tool, but by applying whatever tools
-produce an environment in which that species thrives. Simply protecting the species will
-not save it if the successional context is degraded.
-
-## Chemical Agriculture and the Ecosystem
-
-On farms, agricultural chemicals destroy many soil microorganisms and create an
-environment that discourages diversity in microorganism species. The four
-[[savory-ecosystem-foundation-blocks]] that sustain all production are damaged by the
+below-ground community drives [[savory-ecosystem-foundation-blocks]] that sustain all production are damaged by the
 very practices meant to increase it. A more holistic approach to cropping would use
 biological planning to time all operations for maximum benefit to the soil community
 while still achieving production goals.
 
-## Croplands and the [[savory-holistic-goal-definition]]
-
-Every decision about cropping practices, from tillage method to crop selection to
-chemical use, should pass through the testing guidelines against the three-part goal.
-If a practice damages the landscape description component of the goal, it will
-ultimately undermine both production and quality of life regardless of short-term
-yields.
-
-## See Also
-
-- [[savory-supplemental-feeding-and-winter-management]]
+## Croplands and the [[savory-supplemental-feeding-and-winter-management]]

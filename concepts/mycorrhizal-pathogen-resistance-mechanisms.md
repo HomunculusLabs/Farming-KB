@@ -40,11 +40,7 @@ Finally, mycorrhizal plants have stronger vascular systems, which improve the tr
 
 ## Defense Against Parasitic Nematodes
 
-Much study on [[arbuscular-mycorrhizal-fungi]] has involved their interaction with parasitic nematodes. Hundreds of studies have paired specific crop plants with specific fungi to study the impacts of mycorrhizae on nematodes. The body of research consistently demonstrates that mycorrhizal associations provide meaningful protection against nematode damage.
-
-### Chemical Deterrence
-
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] provides a robust defense alliance by producing chemicals that reduce nematode reproduction, feeding, and attraction to plant roots. These chemical deterrents directly interfere with the nematode life cycle, lowering population pressures on host plants.
+Much study on [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] provides a robust defense alliance by producing chemicals that reduce nematode reproduction, feeding, and attraction to plant roots. These chemical deterrents directly interfere with the nematode life cycle, lowering population pressures on host plants.
 
 ### Physical Barriers
 
@@ -64,11 +60,7 @@ Studies confirm that several important crop species are less susceptible to nema
 - Onions
 - Cotton
 
-This broad spectrum of protection across diverse crop families suggests that the defensive mechanisms of arbuscular mycorrhizal fungi are widely effective rather than species-specific. See [[mycorrhizal-crop-studies]] for additional research findings on crop-mycorrhizal interactions.
-
-## Mycelial Network Signaling
-
-The [[mycorrhizal-networks-common-mycelial-network]] also transmits chemical signals that activate defense-related genes and defense compounds in neighboring plants. This interplant communication through the fungal network represents a remarkable form of community-level defense coordination.
+This broad spectrum of protection across diverse crop families suggests that the defensive mechanisms of arbuscular mycorrhizal fungi are widely effective rather than species-specific. See [[mycorrhizal-networks-common-mycelial-network]] also transmits chemical signals that activate defense-related genes and defense compounds in neighboring plants. This interplant communication through the fungal network represents a remarkable form of community-level defense coordination.
 
 ### Plant Defense Adaptations
 
@@ -78,11 +70,11 @@ Plants have evolved defense adaptations including the release of organic compoun
 
 Studies show that mycorrhizal plants may also send chemical signals throughout the extraradical mycelial network to communicate with neighboring plants and warn them of pest attacks. This early warning system allows unattacked plants to activate their defensive pathways preemptively, potentially reducing overall damage at the community level.
 
-This signaling phenomenon connects mycorrhizal function to broader concepts in [[plant-defense-mechanisms]] and [[plant-hormones-and-chemical-signaling-systems]], highlighting the integration of mycorrhizal associations with the plant's overall defense physiology.
+This signaling phenomenon connects mycorrhizal function to broader concepts in [[plant-hormones-and-chemical-signaling-systems]], highlighting the integration of mycorrhizal associations with the plant's overall defense physiology.
 
 ## Interactions with Soil Biota
 
-The protective effects of mycorrhizal fungi extend beyond direct pathogen resistance. By fostering a healthy and diverse soil microbial community, mycorrhizal associations can indirectly suppress pathogen populations through the mechanisms of general soil suppressiveness. This is relevant to the broader dynamics of the [[soil-food-web]] and [[soil-health-management]].
+The protective effects of mycorrhizal fungi extend beyond direct pathogen resistance. By fostering a healthy and diverse soil microbial community, mycorrhizal associations can indirectly suppress pathogen populations through the mechanisms of general soil suppressiveness. This is relevant to the broader dynamics of the [[soil-health-management]].
 
 ## Mechanism Summary
 
@@ -101,6 +93,5 @@ The pathogen resistance mechanisms provided by mycorrhizal colonization can be s
 
 ## Related Topics
 
-- [[dighton-mycorrhizae-pathogen-biocontrol-interactions]] — research on mycorrhizal biocontrol
 - [[endophytic-mycorrhizal-induced-systemic-resistance]] — induced systemic resistance pathways
 - [[common-mycorrhizal-networks]] — network-mediated defense signaling

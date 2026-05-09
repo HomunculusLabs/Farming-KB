@@ -131,8 +131,6 @@ implications for both decarboxylation efficiency and therapeutic dosing.
 
 ## Related Concepts
 
-- [[blesching-cannabis-forms-and-preparations]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-four-prime-cannabinoids]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-administration-methods]]

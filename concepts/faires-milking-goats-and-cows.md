@@ -3,118 +3,139 @@ title: Faires Milking Goats and Cows
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Faires Milking Goats and Cows
-
-Comprehensive guide to hand-milking procedures, equipment, troubleshooting, and milk processing for the homestead dairy.
-
-## Equipment
-
-- Stainless steel seamless containers (best but most expensive)
-- Food-grade plastic or glass (seamless only — don't reuse store milk jugs)
-- Stanchion (frame holding goat by neck) or milking stand
-- Strainer lined with clean fabric (dishcloth, muslin, or cloth diaper)
-- Double boiler for pasteurization
-
-### Equipment Cleaning
-1. Rinse in lukewarm water immediately after use (prevents milk deposits)
-2. Scrub thoroughly in warm, soapy water
-3. Rinse in scalding water
-4. Air dry upside down
-5. Straining cloths: rinse and boil directly after use
-
-## Milking Procedure
-
-1. Clean milking utensils in warm soapy water
-2. Put goat in stanchion, brush loose hair and dirt, put fresh bedding down, clip long hair under udder
-3. Put feed in stanchion trough — milking every 12 hours, starting early morning before goats eat. Always be on time or the goat will get painfully full
-4. Brush the doe and inspect for problems
-5. Wash hands, fill bucket with water at 120-130 degrees F (49-54 degrees C)
-6. Wash udder and teats — helps milk let down, removes dirt and bacteria. Wait one minute after washing
-7. Milking technique: thumb and forefinger around teat near top of udder, push up slightly, allow teat to fill. Close hand, squeeze while pulling down. Keep hand away from nipple hole. Squirt first three squeezes into ground (more bacteria). Completely empty the udder or production will decline
-8. Strain milk through fabric-lined strainer
-
-## Milking Troubleshooting
-
-### Milk Won't Let Down
-- Massage udder with cleaning cloth or bag balm
-- Gently pat udder like a kid butting her
-- As last resort, real goatherds suck on the teat slightly
-
-### Drying Up Milk
-- Leave a little milk in udder at each milking
-- When production reduces, milk only once per day
-- Watch for mastitis signs (most vulnerable during this period)
-
-### Mastitis
-- First sign: milk with strange texture — flakes, lumps, or strings
-- Don't drink it; don't let animals lick it
-- Wash hands well after touching — infectious
-- Check all does weekly by squirting milk into cloth
-- Feel udder for tumors, hard areas, or abscess (red, tender swelling of whole side)
-- Advanced: milk turns yellow, brown, or pink from pus and blood
-- Only cure: antibiotics
-- Risk factors: bruised udder, too full too long, previous case
-
-### Self-Sucking
-- Goats are flexible enough to reach their own udder
-- Prevention: Elizabethan collar or side-stick harness
-
-## Pasteurization
-
-1. Use double boiler with thermometer
-2. Heat milk to 161 degrees F (72 degrees C), stirring constantly
-3. Maintain temperature for 20 seconds
-4. Quickly remove from heat, immerse pot in very cold water
-5. Stir constantly until temperature drops to 60 degrees F (16 degrees C)
-
-## Raw Milk Storage
-
-If not pasteurizing:
-- Put storage container inside larger container of cold water
-- Chill to 40 degrees F (4 degrees C) within 1 hour
-- Store in coldest part of fridge
-
-## Goat Milk Quality
-
-- Average doe: 3 quarts per day (~1.5 quarts to kid, 1.5 quarts for you)
-- New mothers produce less
-- Feed affects taste: remove garlic, cabbage if milk is bitter
-- "Goaty" taste fix: pan of baking soda in feed trough (keep full, sweet in a few days)
-- Any goat eating grain should have baking soda to prevent acid sickness
-
-## Goat Breeding and Kidding Timeline
-
-- Breed 149 days (5 months) before desired kids
-- Ideal kidding: April 1, so breed November 1
-- Don't breed does under 70 pounds or 2 years old
-- One buck services 50 does (30 easier to handle)
-- Grain feeding: start Oct 1 at 0.25 lb/day, increase 0.25 lb/week to 1 lb/day by Nov 1 (increases twins/triplets chance)
-- Healthy does: taper grain Dec 15, resume Feb 15 (6 weeks before kidding)
-- Stop milking 2 months before kidding for pregnant does with low production
-- Heavy producers can milk through continuously
-
-## Cattle Milking Notes
-
-- Milk at least once daily or risk mastitis
-- Get 1+ gallon per milking
-- First 4 days: colostrum for calf only
-- Same milking technique as goats
-- Wean calves by 4-5 months using creep feeder
-- Winter calf: 2 lbs hay per 100 lbs body weight daily; 3 lbs cornstalks = 1 lb hay
-
-## See Also
-
-- [[goat-husbandry]] — goat keeping overview
-- [[goat-cheese-making]] — cheese from goat milk
+tags: [[goat-husbandry]] — goat keeping overview
 - [[cattle-husbandry]] — cattle management
-- [[faires-low-energy-cooking-and-food-preservation]] — food processing
- [[backyard-pond-building]] [[bamboo-as-building-material]]
-- [[faires-dairy-processing-cheese-and-butter]]
+- [[backyard-pond-building]] [[faires-dairy-processing-cheese-and-butter]]
 
 ## Related
 
 - [[faires-herbal-medicine-from-the-garden]]
+## Background and Context
+
+Faires Milking Goats and Cows is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

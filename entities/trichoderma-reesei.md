@@ -116,13 +116,8 @@ T. reesei interacts with other microorganisms in its natural environment, includ
 The species name T. reesei honors Elwyn T. Reese, who pioneered studies of cellulolytic microorganisms and their industrial applications. Reese's work laid the foundation for the modern cellulase industry that now generates billions of dollars in annual revenue.
 
 ## See Also
-Related: [[fungal-single-cell-protein-production]], [[singh-enzyme-production-for-industrial-bioremediation]], [[cellulase-enzyme-systems-wood-rotting-fungi]]
-
-- [[cervantes-trichoderma-beneficial-fungi]]
-- [[growing-gourmet-trichoderma-green-mold-management]]
+Related: [[singh-enzyme-production-for-industrial-bioremediation]], [[cervantes-trichoderma-beneficial-fungi]]
 - [[ingham-trichoderma-biocontrol-fungi-aact]]
 
-- [[neurospora-crassa]]
-- aspergillus nidulans
 - [[penicillium-chrysogenum]]
 - [[magnaporthe-grisea]]

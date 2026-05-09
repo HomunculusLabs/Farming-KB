@@ -101,12 +101,6 @@ The spent straw becomes valuable humus and can be used as mulch. Seeds have no c
 - Protective ring of wood ash, sawdust, and slaked lime (must stay dry)
 - Fresh grass cuttings kept wet attract slugs for egg-laying; turn over after a few days to expose eggs to sun and UV light
 
-See also: [[mushroom-log-cultivation]],,, [[cotter-oyster-mushroom-cultivation]], [[sepp-holzer-method]],
-
-## Related
-
-- [[sepp-holzer-method]]
-- [[outdoor-mushroom-bed-preparation]]
+See also: [[cotter-oyster-mushroom-cultivation]], [[sepp-holzer-method]]
 - [[sepp-holzer-fruit-tree-varieties]]
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]

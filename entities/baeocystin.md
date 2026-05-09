@@ -122,4 +122,4 @@ Recent interest in "naturally sourced" psychedelics for therapeutic use has incr
 
 ## See Also
 
-[[psilocybin-compound]] | [[psilocin]] | [[psilocybe-cubensis]] | [[psilocybe-azurescens]] | [[psilocybe-serotina]] | [[pluteus-cyanopus]] | [[gymnopilus-earlei]] | [[tetrahydroharmine]] | [[norbaeocystin]] | [[ergoline]] | [[lsd-entity-tihkal]]
+[[psilocin]] | [[psilocybe-azurescens]] | [[pluteus-cyanopus]] | [[tetrahydroharmine]] | [[ergoline]] | [[lsd-entity-tihkal]]

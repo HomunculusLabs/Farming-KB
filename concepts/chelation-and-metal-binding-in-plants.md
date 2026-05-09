@@ -84,8 +84,6 @@ with high specificity.
 
 ## Related Concepts
 
-- [[hyperaccumulator-plants]] for extreme chelation applications
 - [[dynamic-nutrient-accumulators]] for nutrient-focused chelation
-- [[phytoremediation]] for environmental chelation-assisted cleanup
 - [[fungal-nutrient-cycling-mineral-transformations]] for broader nutrient flow dynamics
 - [[rhizosphere-microbiome-selection-model]] for microbial metal interactions

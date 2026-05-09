@@ -2,10 +2,14 @@
 title: "EMM -- 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE -- PIHKAL Entry #76"
 created: 2026-04-23
 updated: 2026-04-23
+
 type: entity
+
 tags: [phenethylamines, pihkal]
+
 sources: ["Shulgin - PIHKAL"]
 ---
+
 # EMM
 
 PIHKAL entry #76. 4,5-DIMETHOXY-2-ETHOXYAMPHETAMINE.
@@ -47,13 +51,57 @@ To a solution of 9.7 g 2-allyl-4,5-dimethoxyphenol in a few mL EtOH, there was a
 ## Safety Notes
 
 EMM is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
+
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
+- [[mescaline-entity]], escaline
 
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamines: [[mescaline-entity]], escaline
+## Pharmacology
+
+EMM (4,5-dimethoxy-2-ethoxyamphetamine) is a member of the trialkoxyamphetamine
+family and the first ethoxy homologue of TMA-2 that Shulgin synthesized and
+tested. The substitution pattern places an ethoxy group at the 2-position
+with methoxy groups at the 4- and 5-positions. In the Shulgin SAR analysis,
+the 2-position is the least critical for psychedelic activity — Shulgin's
+work demonstrated that the 4-position is where the primary receptor
+interaction occurs. This likely explains EMM's inactivity at 50 mg.
+
+The ethoxy group at position 2 may create steric hindrance that reduces
+binding affinity at the 5-HT2A receptor, or it may alter the molecule's
+conformational flexibility in ways that diminish agonist activity. The
+subsequent discovery that MEM (with ethoxy at the critical 4-position) was
+highly active confirmed the importance of the 4-substituent in determining
+psychedelic potency within this series.
+
+## Effects
+
+At 50 mg, EMM produced no detectable effects. Shulgin described this result
+as keenly disappointing, as TMA-2 is very active at this dose level. The
+lack of activity initially led Shulgin to conclude that any modification to
+the TMA-2 structure would eliminate activity, temporarily shelving the ethoxy
+project before the discovery of MEM rekindled interest.
+
+## Legal Status
+
+EMM is a substituted amphetamine that may be subject to analogue drug
+legislation in many jurisdictions. Under the US Federal Analog Act, EMM could
+be treated as a Schedule I substance if intended for human consumption due to
+structural similarity to known controlled amphetamines. In other jurisdictions,
+specific analogue scheduling laws vary. Despite its apparent lack of
+psychoactivity, its status as a documented PIHKAL compound may attract
+regulatory attention.
+
+## Similar Compounds
+
+EMM is part of the systematic ethoxy homologue series of TMA-2:
+- MEM — the active breakthrough compound of the series (2,5-dimethoxy-4-ethoxy)
+- MEE, EEM, EME, EEE — other ethoxy permutations explored by Shulgin
+- TMA-2 — the parent trimethoxy compound
+- [[mescaline-entity]] — the foundational phenethylamine
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

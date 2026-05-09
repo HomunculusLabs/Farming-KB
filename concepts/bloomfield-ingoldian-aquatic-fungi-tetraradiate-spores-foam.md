@@ -119,10 +119,6 @@ identical solutions is a textbook case of evolutionary convergence in mycology.
 
 ## Related
 
-- [[ingoldian-aquatic-fungi]] Topics
-
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-- [[bloomfield-wood-decay-fungi-spalted-timber]]
 - [[bloomfield-fungal-parasites-of-insects]]

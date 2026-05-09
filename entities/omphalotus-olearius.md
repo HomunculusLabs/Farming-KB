@@ -118,7 +118,7 @@ It appears in numerous field guides as a textbook example of a dangerous edible-
 - Flesh orange, firm
 ## See Also
 
-- [[omphalotus-olivascens]]
-- [[amanita-muscaria]] — Another poisonous mushroom with distinctive appearance
-- [[clitocybe-nuda-entity]] — Woodland gilled mushroom, edible (Blewit)
+- [[amanita-muscaria-entity]] — Another poisonous mushroom with distinctive appearance
 - [[psilocybe-cubensis]] — A gilled mushroom with different bioactive properties
+
+See also: [[jack-o-lantern]]

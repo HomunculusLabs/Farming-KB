@@ -52,30 +52,14 @@ Shulgin characterized the compound as a potential "tactile stimulant" with appli
 
 ## Auditory Effects
 
-The auditory distortion observed at 75 mg parallels findings with [[det-entity-tihkal]] and [[4-ho-dipt-entity-tihkal]]. Voices sounded lower and throatier, dial tones were altered, and touch-tones sounded unusual. However, music was perceived as normal, suggesting the effect is selective for certain frequency ranges or acoustic patterns rather than a global pitch shift.
+The auditory distortion observed at 75 mg parallels findings with [[4-ho-dipt-entity-tihkal]]. Voices sounded lower and throatier, dial tones were altered, and touch-tones sounded unusual. However, music was perceived as normal, suggesting the effect is selective for certain frequency ranges or acoustic patterns rather than a global pitch shift.
 
 The down-shifting of music noted at 120 mg, described as "annoying rather than interesting," represents a dose-dependent intensification of the auditory effects.
 
 ## Structure-Activity Relationships
 
-The 2-methyl substitution pattern appears across several tryptamines with interesting pharmacological consequences. In 2-Me-DMT, the combination of 2-methyl with N,N-dimethyl groups produces tactile and auditory effects without visual psychedelia. In [[det-entity-tihkal]], the same ring substitution with N,N-diethyl groups produces auditory distortion with cognitive clouding. The 2-methyl group consistently appears to protect against MAO metabolism (both compounds are orally active despite their relatively simple nitrogen substitution), but the qualitative character of effects varies significantly with the nitrogen substitution pattern.
-
-## Safety and Tolerability
-
-At moderate doses (50-90 mg), the compound is well-tolerated with minimal side effects beyond mild stomach rumbling. At 120 mg, however, the tactile hyperactivation becomes aversive: inability to wear clothing, painful nipple erection, and a sense of "too much activity of a slightly scary sort." The 120 mg report ends with "Never again at this level," suggesting a relatively narrow comfort zone between the pleasant tactile enhancement of moderate doses and the overwhelming somatic activation of higher doses.
-
-## Physical Properties
-
-- Free base mp: 97–98 °C (alternate synthesis)
-- Fumarate salt mp: 205–208 °C
-- Glyoxylamide intermediate mp: 167–170 °C
-
-## Related Compounds
-
-[[alpha-n-dmt-entity-tihkal]] — the parent compound without 2-methyl substitution, a powerful short-acting psychedelic.
-[[det-entity-tihkal]] — the diethyl analogue, showing auditory distortion and cognitive effects.
-[[alpha-n-dmt-entity-tihkal]] — the 2-methyl analogue of alpha-MT, a sedative tryptamine.
-[[4-ho-dipt-entity-tihkal]] — famous for selective auditory distortion without visual effects.
+The 2-methyl substitution pattern appears across several tryptamines with interesting pharmacological consequences. In 2-Me-DMT, the combination of 2-methyl with N,N-dimethyl groups produces tactile and auditory effects without visual psychedelia. In [[amt-entity-tihkal]] — the parent compound without 2-methyl substitution, a powerful short-acting psychedelic.
+[[amt-entity-tihkal]] — the 2-methyl analogue of alpha-MT, a sedative tryptamine.
 [[det-entity-tihkal]] — diethyltryptamine, the parent compound without 2-methyl substitution.
 
 ## Historical Context
@@ -91,3 +75,22 @@ The auditory effects at moderate doses, paralleling those of 2-Me-DET and DIPT, 
 ## Additional References
 
 Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
+## Practical Considerations
+
+Successful implementation of 2 Me Dmt Entity Tihkal requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

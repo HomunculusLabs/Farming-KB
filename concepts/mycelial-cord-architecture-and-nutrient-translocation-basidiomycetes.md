@@ -111,11 +111,8 @@ Conversely, the speed and specificity of certain translocation responses — suc
 
 ## Related Concepts
 
-- [[fungal-mycelial-network-architecture]] — broader treatment of mycelial network topology and design principles
 - [[fungal-nutrient-translocation-mycelial-systems]] — nutrient movement mechanisms across fungal systems
-- [[fungal-resource-translocation-in-mycelial-networks]] — resource allocation dynamics in networks
 - [[dighton-fungal-nutrient-translocation-element-redistribution]] — element-level redistribution in ecosystems
-- [[gadd-woronin-bodies-hyphal-septation]] — septal pore organization relevant to inter-compartment transport
 - [[fungal-woronin-bodies-and-septal-pore-organization]] — Woronin body function in compartmentalization
 
 ## References

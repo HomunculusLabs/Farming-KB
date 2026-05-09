@@ -102,15 +102,10 @@ Integrated cultivation with fish and invertebrate aquaculture has been explored 
 
 ## See Also
 
-- [[kappaphycus-alvarezii]]
 - [[chondrus-crispus]]
-- [[gracilaria-verrucosa]]
 - [[ulva-lactuca]]
-- [[porphyra-umbilicalis]]
 - [[laminaria-digitata]]
-- [[palmaria-palmata]]
 - [[undaria-pinnatifida]]
-- [[saccharina-latissima]]
 - [[fucus-vesiculosus]]
-- [[bioremediation]]
-- [[aquaculture]]
+- bioremediation
+- aquaculture

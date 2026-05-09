@@ -108,13 +108,8 @@ Master Kush's name reflects the breeder's intention to create a "master" express
 
 ## See Also
 
-- [[cannabis-indica]]
 - [[cannabis-sativa]]
-- [[afghan-kush]]
 - [[hindu-kush]]
-- [[bubba-kush]]
 - [[og-kush]]
-- [[chemdawg]]
 - [[skunk-1]]
-- [[myrcene]]
 - [[beta-caryophyllene]]

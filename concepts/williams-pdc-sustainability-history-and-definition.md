@@ -1,7 +1,7 @@
 ---
 title: Sustainability History and Definition
 created: 2026-04-28
-tags: [permaculture, sustainability, history, maslow, ecological-design]
+tags: [[permaculture]], sustainability, history, maslow, ecological-design]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -137,14 +137,5 @@ possible, creating no more impact than absolutely necessary.
 
 The modern era's design paradigms were created from humanitarian
 positions but missed a philosophical system based on living in harmony
-with the environment. [[permaculture-design]] provides a system that is
-ethically similar to those guiding the modern era, yet integrates a
-belief that humans should live in harmony with the fluctuations of
-nature, incorporating regionalism, traditionalism, ecological wisdom,
-and modern thinking into one design paradigm.
-
-## See Also
-
-- [[williams-pdc-inventories-and-observation]]
-- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
+with the environment. [[williams-pdc-inventories-and-observation]]
 - [[williams-pdc-learning-exercises-and-field-activities]]

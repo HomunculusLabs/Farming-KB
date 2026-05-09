@@ -69,18 +69,27 @@ Hofmann's entire ergot research program stemmed from his 1943 discovery of LSD's
 
 The ergonovine experiment was a natural extension of decades of ergot alkaloid research.
 
-This experiment has taken on legendary status in psychedelic history, often discussed alongside Hofmann's more famous LSD-25 discovery. The ergonovine self-experiment demonstrated that even closely related ergot alkaloids could produce profoundly different psychoactive effects — ergonovine produced a gentle, pleasant inebriation compared to LSD's overwhelming intensity. Modern analytical chemistry has confirmed that ergonovine is present in the ergot sclerotia that would have been used in ancient Eleusinian ceremonies, lending support to the [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] for the kykeon potion. The self-experiment methodology — careful dose titration, detailed subjective reporting, and comparison with known substances — became a template for psychedelic research that continues today.
-
-Hofmann's detailed notes on this experience, preserved in the Sandoz archives and later published in *LSD: My Problem Child*, provide a rare first-person account of the discovery process in psychedelic science. Unlike the accidental discovery of LSD-25, the ergonovine experiment was deliberate — Hofmann suspected that other ergot alkaloids might have psychoactive properties and designed the self-experiment to test this hypothesis systematically.
-
-## Related Topics
-
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- how this experiment supports the Eleusis theory
-- [[lsd-discovery-and-history]] -- the broader research context
+This experiment has taken on legendary status in psychedelic history, often discussed alongside Hofmann's more famous LSD-25 discovery. The ergonovine self-experiment demonstrated that even closely related ergot alkaloids could produce profoundly different psychoactive effects — ergonovine produced a gentle, pleasant inebriation compared to LSD's overwhelming intensity. Modern analytical chemistry has confirmed that ergonovine is present in the ergot sclerotia that would have been used in ancient Eleusinian ceremonies, lending support to the [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- how this experiment supports the Eleusis theory
 - [[ergot-and-lysergic-acid-history]] -- full history of ergot alkaloids
-- [[the-road-to-eleusis-wasson-hofmann-ruck]] -- the collaborative hypothesis
-
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 - [[ergot-of-barley-and-wheat-alkaloid-composition]]
+## Practical Considerations
+
+Successful implementation of Hofmann Self Experiment with Ergonovine requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -14,34 +14,7 @@ A bioisostere is not merely similar in shape; it must produce a comparable biolo
 Drug designers use bioisosteric replacement to improve potency, selectivity, solubility, permeability, metabolic stability, patent space, or safety.
 The method is central to lead optimization because small structural changes can solve large pharmacokinetic or toxicological problems.
 Bioisosterism links organic chemistry with pharmacology: the replacement must be synthetically accessible and must survive the tests of binding, exposure, and tolerability.
-It is closely related to [[phase-ii-metabolism]], [[cytochrome-p450-enzymes-drug-metabolism]], and [[reactive-metabolites-and-bioactivation-toxicology]] because many replacements target metabolic liabilities.
-
-## Historical Background
-The intellectual roots of isosterism come from observations that atoms or groups with similar valence electron arrangements can show related chemical behavior.
-Irving Langmuir formalized isosteric relationships among atoms and molecules with comparable electron counts and shapes.
-Medicinal chemists later expanded this idea into bioisosterism, where the test is biological performance rather than isolated physical similarity.
-Classical bioisosteres tend to conserve valence and size, while nonclassical bioisosteres may preserve only the pharmacophoric pattern needed by a receptor or enzyme.
-This shift from electron-count analogy to target-specific function made bioisosterism a practical drug-design strategy.
-Modern computational methods, crystallography, and matched molecular pair analysis have made the strategy more systematic.
-
-## Classical Bioisosteres
-Classical bioisosteres usually involve atoms or groups with similar valence, size, and electronic arrangement.
-Hydrogen and fluorine can sometimes be exchanged when the goal is to block oxidative metabolism without dramatically changing steric size.
-Oxygen and nitrogen replacements can convert esters to amides, often increasing hydrolytic stability and changing hydrogen-bonding patterns.
-Selenium, sulfur, oxygen, and methylene substitutions may preserve topology while altering polarizability, acidity, or metabolic susceptibility.
-Ring atoms in heterocycles can be varied to tune hydrogen-bond acceptor strength, dipole orientation, and basicity.
-Classical replacements are easiest to rationalize but are not guaranteed to preserve activity because proteins recognize three-dimensional electrostatics, not textbook categories.
-
-## Nonclassical Bioisosteres
-Nonclassical bioisosteres include replacements that look quite different but reproduce the interaction pattern required for activity.
-A carboxylic acid may be replaced by a tetrazole, acyl sulfonamide, hydroxamic acid, or other acidic group to alter pKa, permeability, and metabolic behavior.
-A phenyl ring may be replaced by pyridine, thiophene, bicyclic fragments, saturated rings, or spirocycles to adjust shape and electronics.
-An amide may be replaced by a triazole, oxadiazole, sulfonamide, urea, or constrained heterocycle to resist proteolysis or change conformation.
-A lipophilic halogen may be replaced by cyano, trifluoromethyl, methylsulfone, or small heteroaryl substituents depending on the binding pocket.
-Nonclassical replacement is powerful because it explores property space without abandoning the hypothesis that a ligand occupies the same pharmacophore.
-
-## Property Goals
-One common goal is improved metabolic stability by removing a soft spot recognized by [[cytochrome-p450-enzyme-system]].
+It is closely related to [[cytochrome-p450-enzymes-drug-metabolism]], and [[cytochrome-p450-enzyme-system]].
 Another goal is lower clearance through replacement of labile esters, benzylic positions, anilines, or easily oxidized heteroatoms.
 A replacement can reduce hERG channel liability by lowering basicity, decreasing lipophilicity, or changing molecular shape.
 Solubility can improve when a flat hydrophobic aryl group is exchanged for a heteroaryl ring or a more three-dimensional saturated scaffold.
@@ -86,7 +59,7 @@ If oxidation occurs at a benzylic C-H bond, fluorination, deuteration, methyl re
 If glucuronidation occurs on a phenol or carboxylic acid, masking or replacing the acidic group may improve half-life.
 If hydrolysis occurs at an ester, amides, heterocycles, or carbamates may provide greater stability.
 If a functional group forms reactive metabolites, replacement may reduce covalent binding and lower toxicity risk.
-These changes must be tested against [[phase-ii-metabolism]] and [[glutathione-conjugation]] pathways, not only against the primary target assay.
+These changes must be tested against [[glutathione-conjugation]] pathways, not only against the primary target assay.
 
 ## Computational and Data-Driven Methods
 Matched molecular pair analysis compares compounds differing by a single transformation and estimates the property effect of that replacement.
@@ -131,11 +104,7 @@ Scaffold hopping may appear to preserve pharmacophores in two dimensions while l
 The safest interpretation is that bioisosterism proposes analogs worth making, not analogs guaranteed to succeed.
 
 ## Relationship to Other Concepts
-[[click-chemistry]] can create triazoles that act as amide or linker bioisosteres in some medicinal chemistry programs.
-
 [[enzyme-kinetics-michaelis-menten-model]] helps interpret whether a replacement changes affinity, efficacy, or inhibition mechanism.
-
-[[reactive-metabolites-and-bioactivation-toxicology]] explains why removing structural alerts may matter as much as improving potency.
 
 [[phase-ii-conjugation-reactions-drug-metabolism]] is relevant when acid, phenol, amine, or thiol replacements alter conjugation pathways.
 

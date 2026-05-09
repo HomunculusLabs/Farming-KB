@@ -35,21 +35,7 @@ Duration is moderate at 4–8 hours depending on route and dose. Physical side e
 
 ## Pharmacology
 
-5-MeO-DiPT acts primarily as a serotonergic psychedelic. Its mechanism is dominated by agonism at 5-HT₁A and 5-HT₂ family receptors, with partial agonist or mixed activity at several subtypes. It shows weak affinity for dopaminergic and adrenergic targets at typical recreational doses. Unlike [[dimethyltryptamine]], it is not an effective substrate for monoamine oxidase, which accounts for its oral activity. The compound's receptor binding profile is less well-characterized than classical psychedelics; published affinity data comes from a limited number of in vitro assays.
-
-### 5-HT Receptor Affinity (approximate)
-
-| Receptor | Affinity (Ki, nM) | Activity |
-|---|---|---|
-| 5-HT₂A | ~25–50 | Partial agonist |
-| 5-HT₂C | ~30–80 | Agonist |
-| 5-HT₁A | ~15–40 | Agonist |
-| 5-HT₂B | ~100+ | Weak agonist |
-| 5-HT₁B/₁D | ~200+ | Low affinity |
-
-### MAOI Properties
-
-5-MeO-DiPT exhibits negligible monoamine oxidase inhibition. The bulky N,N-diisopropyl substitution sterically hinders oxidative deamination, allowing the molecule to survive first-pass metabolism when taken orally. This distinguishes it from unsubstituted tryptamines like [[dmt]] which require an MAOI for oral use.
+5-MeO-DiPT acts primarily as a serotonergic psychedelic. Its mechanism is dominated by agonism at 5-HT₁A and 5-HT₂ family receptors, with partial agonist or mixed activity at several subtypes. It shows weak affinity for dopaminergic and adrenergic targets at typical recreational doses. Unlike [[dmt]] which require an MAOI for oral use.
 
 Some reversible MAOI (RIMA) activity has been proposed at very high doses but is not considered pharmacologically significant at recreational ranges.
 
@@ -103,7 +89,7 @@ Legal status continues to evolve; many countries have scheduled it explicitly or
 
 5-MeO-DiPT occupies a distinct niche among substituted tryptamines. Comparing it to structurally related compounds highlights its unique oral bioavailability and auditory emphasis.
 
-| Property | 5-MeO-DiPT | [[5-meo-mipt]] | DiPT | [[5-meo-dmt]] |
+| Property | 5-MeO-DiPT | [[5-meo-dmt-entity]] |
 |---|---|---|---|---|
 | **N-substituent** | Diisopropyl | Diisopropyl | Diisopropyl | Dimethyl |
 | **5-position** | Methoxy | Methoxy | H | Methoxy |
@@ -114,26 +100,16 @@ Legal status continues to evolve; many countries have scheduled it explicitly or
 | **Visual effects** | Mild–moderate | Moderate | Minimal | Strong |
 | **Body load** | Moderate | Light | Moderate | Heavy |
 
-[[5-meo-mipt]] ("Moxy") is the closest analogue, differing only in the 4-position substitution (hydrogen vs. methoxy). It is generally considered more visual and less auditory, with a somewhat more comfortable body load.
-DiPT (no methoxy) is almost exclusively auditory but requires higher doses and has inconsistent oral absorption. Its effects are often described as "everything sounds lower in pitch."
-[[5-meo-dmt]] is dramatically more potent and shorter-acting, with strong visual and somatic effects but negligible auditory distortion. It requires an MAOI for oral use and occupies a very different experiential category.
+[[5-meo-dmt-entity]] is dramatically more potent and shorter-acting, with strong visual and somatic effects but negligible auditory distortion. It requires an MAOI for oral use and occupies a very different experiential category.
 
 ## Relevance
 
 5-MeO-DiPT is of interest in psychopharmacology as an example of how N-alkyl substitution patterns modulate tryptamine metabolism, oral bioavailability, and receptor selectivity. The diisopropyl group confers metabolic stability and shifts the receptor profile relative to smaller N-alkyl substituents.
-Its distinctive auditory effects have made it a reference point in discussions of serotonergic hallucinogen phenomenology. The compound has been detected in forensic toxicology cases, sometimes in combination with [[mdma]], [[lsd]], or other tryptamines. Its limited therapeutic index and mixed safety profile have confined research interest relative to classical psychedelics like [[lsd]] and [[dmt]].
-Structurally related compounds such as [[4-ho-mipt]], [[4-ho-met]], and [[alpha-methyltryptamine]] share portions of its pharmacological space but diverge significantly in subjective character and risk profile.
+Its distinctive auditory effects have made it a reference point in discussions of serotonergic hallucinogen phenomenology. The compound has been detected in forensic toxicology cases, sometimes in combination with [[lsd]], or other tryptamines. Its limited therapeutic index and mixed safety profile have confined research interest relative to classical psychedelics like [[dmt]].
+Structurally related compounds such as [[4-ho-met]], and [[3-meo-pce]]
 
-## See Also
-
-- [[3-meo-pce]]
-
-- [[5-meo-dmt]] — Potent 5-methoxy tryptamine, non-oral, short duration
 - [[5-meo-mipt]] — Closest structural analogue, more visual than auditory
-- [[dimethyltryptamine]] — Endogenous tryptamine, basis for comparison
 - [[dmt]] — Short alias for DMT
-- [[4-ho-mipt]] — 4-HO-MiPT, "Miprocin," visual-dominant tryptamine
 - [[4-ho-met]] — 4-HO-MET, "Metocin," light tryptamine psychedelic
-- [[alpha-methyltryptamine]] — Longer-acting tryptamine with stimulant character
 - [[lsd]] — Lysergic acid diethylamide, reference classical psychedelic
 - [[mdma]] — Empathogen-entactogen, frequently encountered in combination contexts

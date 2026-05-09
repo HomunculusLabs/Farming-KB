@@ -6,12 +6,16 @@ type: concept
 tags: [homesteading, animal-husbandry, beginner, pollinators, genetics]
 sources: []
 ---
+
 # Queen Rearing Basics
+
 Queen rearing is the practice of raising new honey bee queens from existing
 colony stock. It enables beekeepers to replace failing queens, increase
 colony numbers, and selectively breed for desirable traits. This guide
 covers the most accessible methods for small-scale and hobbyist beekeepers.
+
 ## Why Raise Your Own Queens
+
 - **Cost savings** — purchased queens cost $25-45 each; raising your own
   costs pennies per queen
 - **Genetic selection** — choose for traits like gentleness, productivity,
@@ -20,17 +24,23 @@ covers the most accessible methods for small-scale and hobbyist beekeepers.
   schedules
 - **Colony increase** — splits and nucs need queens; rearing your own makes
   expansion affordable
+
 ## Queen Biology
+
 A queen is a fully developed female worker bee whose diet consisted entirely
 of royal jelly during the larval stage. Key facts:
+
 - **Development time**: egg to emerged queen = 16 days (3 days egg, 5.5
   days larva, 7.5 days capped)
 - **Mating**: 5-14 days after emergence; queen flies to a drone congregation
   area and mates with 10-20 drones
 - **Lifespan**: 2-5 years; most productive in years 1-2
 - **Laying rate**: 1,000-2,000 eggs per day at peak
+
 ## Method 1: Walk-Away Split
+
 The simplest queen-rearing method — no special equipment needed.
+
 ### Procedure
 1. Select a strong, healthy colony with at least 8 frames of brood
 2. Find the old queen and move her to a new hive with 3-4 frames of brood,
@@ -39,12 +49,16 @@ The simplest queen-rearing method — no special equipment needed.
   larvae, frames of honey and pollen, and adequate bees
 4. The parent colony will raise emergency queen cells from existing larvae
 5. Leave undisturbed for 30 days; then inspect for a laying queen
+
 ### Success Rate
 Approximately 70-80% if the parent colony was strong. Drawbacks: emergency
 queens may be lower quality because they are raised from older larvae.
+
 ## Method 2: Grafting
+
 The standard method for raising large numbers of high-quality queens.
 Requires a grafting tool, cell cups, cell bars, and a starter colony.
+
 ### Procedure
 1. **Prepare cell bars** — attach plastic or wax cell cups to bars
 2. **Set up a starter colony** — a queenless, heavily provisioned colony
@@ -60,13 +74,17 @@ Requires a grafting tool, cell cups, cell bars, and a starter colony.
 6. **Distribute cells** — on day 14-15 after grafting, move individual
    queen cells to mating nucs
 7. **Allow mating** — queens emerge and mate over the next 2 weeks
+
 ### Grafting Tips
 - Work quickly; larvae dry out and die in seconds
 - Choose the smallest, youngest larvae possible for the best queens
 - Warm the grafting area; cold larvae have low acceptance
 - Practice with water or honey before attempting real grafts
+
 ## Method 3: Nicot Kit (No-Graft System)
+
 A commercial system that avoids the skill-intensive grafting step.
+
 ### How It Works
 1. The queen is confined in a special comb box with cell cups; she lays eggs
    directly into the cups
@@ -74,19 +92,24 @@ A commercial system that avoids the skill-intensive grafting step.
 3. The cell bar goes into a starter colony, which raises the larvae into
    queens
 4. From here, the process is the same as grafting
+
 ### Advantages
 - No grafting skill required — ideal for beginners
 - Ensures optimal larval age (exactly 0 days old)
 - More consistent results than emergency queen rearing
+
 ## Mating Nucs
+
 Mating nucs are small hives that house a single queen cell while the virgin
 queen develops, mates, and begins laying.
+
 ### Types
 - **Mini-mating nucs** — hold 2-3 mini-frames; very economical but require
   frequent feeding
 - **5-frame nucs** — standard equipment; better food reserves, higher
   success rate
 - **3-frame nucs** — good compromise between economy and reliability
+
 ### Management
 - Place mating nucs in a sunny, well-drained location with distinctive
   landmarks (queens use visual cues to find home)
@@ -95,9 +118,12 @@ queen develops, mates, and begins laying.
 - Feed continuously — small colonies starve quickly
 - Check for laying status 21 days after placing the queen cell
 - If the queen fails, replace the cell and try again
+
 ## Queen Introduction
+
 Introducing a new queen to a colony requires care — the colony will reject
 or kill a queen they do not accept.
+
 ### Methods
 1. **Cage introduction** — place the queen in a screened cage with candy
    plug; bees eat through the candy in 2-4 days, releasing her slowly
@@ -106,13 +132,16 @@ or kill a queen they do not accept.
 3. **Direct release** — only for queenless colonies with no queen cells;
    spray queen and bees with sugar syrup to prevent aggression, then
    release directly
+
 ### Success Factors
 - Introduce in the evening when foragers are home
 - Remove all queen cells from the receiving colony before introduction
 - The colony should be queenless for at least 24 hours but not more than
   7 days
 - Ensure the colony has adequate food during the introduction period
+
 ## Selecting Breeder Stock
+
 The quality of your queens depends on the genetics of the breeder colony.
 Select for:
 - Gentle temperament
@@ -120,15 +149,10 @@ Select for:
 - Good winter survival
 - Low Varroa mite loads (VSH or hygiene traits)
 - Resistance to brood diseases
+
 Maintain records of colony performance to inform breeding decisions. See
 [[beekeeping-problems-and-solutions]] for information on selecting for
 disease resistance and [[beekeeping-seasonal-calendar]] for timing queen
 rearing with the seasonal cycle.
 
-## See Also
-
-- [[cannabis-extraction-basics]]
-- [[soil-microbiology-basics]]
-- [[off-grid-electricity-basics]]
-- [[solomon-greenhouse-and-season-extension-basics]]
-- [[cannabis-indoor-growing-basics]]
+See also: [[seed-saving-and-plant-breeding]]

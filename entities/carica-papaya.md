@@ -101,20 +101,12 @@ The species is also useful for erosion control on tropical slopes, where its rap
 
 ## See Also
 
-- [[moringa-oleifera]]
 - [[mangifera-indica]]
-- [[azadirachta-indica]]
 - [[gliricidia-sepium]]
-- [[ipomoea-batatas]]
 - [[manihot-esculenta]]
-- [[colocasia-esculenta]]
 - [[tithonia-diversifolia]]
-- [[hibiscus-sabdariffa]]
 - [[azolla-filiculoides]]
-- [[lemna-minor]]
 - [[sesbania-grandiflora]]
-- [[leucaena-leucocephala]]
 - [[dioscorea-alata]]
-- [[lablab-purpureus]]
 - [[pachyrhizus-erosus]]
 - [[canavalia-ensiformis]]

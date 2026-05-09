@@ -3,7 +3,7 @@ title: Mushroom Nutritional Composition
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology, mushrooms, cultivation]
 sources: []
 ---
 # Mushroom Nutritional Composition
@@ -61,45 +61,32 @@ Mushrooms contain virtually every mineral present in their growth substrate:
 - **Potassium** — substantial quantities
 - **Calcium** — lesser amounts
 - **Iron** — lesser amounts
-- **Selenium** — some species are excellent sources (notably [[medicinal-mushroom-guide-cordyceps]])
-- **Copper**, **zinc**, **manganese** — present in trace amounts
+- **Selenium** — some species are excellent sources (notably [[oyster-mushroom-nutritional-composition]]
 
-## Caloric Value
-
-The combination of high protein, high fibre, and low fat gives most mushrooms a low caloric value. This makes them ideal for:
-- Weight management diets
-- Diabetic diets (low glycemic impact)
-- Vegetarian and vegan diets (protein and B vitamin source)
-
-## Species-Specific Nutritional Highlights
-
-- **Shiitake** — high in B vitamins, good protein content, ergothioneine (antioxidant)
-- **Oyster mushroom** — high in β-glucans, good protein, lovastatin (cholesterol-lowering)
-- **Maitake** — rich in β-glucans, potassium, and vitamin D precursor
-- **Reishi** — not typically consumed as food (too tough/bitter) but valued for extracts
-- **Enoki** — excellent selenium source
-- **Button mushroom (Agaricus bisporus)** — good general nutrition, widely available
-
-## Culinary and Nutritional Synergies
-
-The Chinese concept of "Yakuzen" refers to medicinal food dishes incorporating mushrooms. This tradition recognizes that the nutritional and therapeutic properties of mushrooms are best utilized when:
-- Combined with other nutrient-dense ingredients
-- Prepared using methods that enhance bioavailability (long cooking for polysaccharides)
-- Consumed regularly rather than occasionally
-- Paired with complementary foods (e.g., vitamin C-rich vegetables to enhance absorption)
-
-## See Also
-
-- [[oyster-mushroom-nutritional-composition]]
-
-- [[medicinal-mushroom-health-benefits]] — health benefits beyond basic nutrition
 - [[mushroom-extraction-methods]] — how to extract therapeutic compounds
 - Mushroom Nutritional Composition — functional food framework
 
 ## Related
 
-- [[functional-foods-medicinal-mushrooms]] — functional food applications of medicinal mushrooms
 - [[reishi-mushroom-medicinal-properties]]
-- [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]]
 - [[mushroom-nutritional-medicinal-value]]
 - [[shiitake-medicinal-compounds]]
+## Practical Considerations
+
+Successful implementation of Mushroom Nutritional Composition requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -127,24 +127,8 @@ Widely cultivated in subtropical regions and naturalized in areas with suitable 
 
 | Species | Distinguishing Features |
 |---|---|
-| [[panaeolus-cinctulus]] | Weaker potency; lacks pleurocystidia; larger, less hygrophanous cap |
 | [[copelandia-tropicalis]] | Tropical Central American relative
-| [[panaeolus-fimicola]] | Inactive; smaller spores; lacks blue bruising |
 | [[psilocybe-cubensis]] | Larger, more robust; grows on dung but also enriched soils; lower potency |
-| [[gymnopilus-spectabilis-entity]] | Much larger; orange-brown; grows on wood; contains psilocybin at lower levels |
-
-## Legal Status
-
-- **United States:** Schedule I (controlled substance); psilocybin/psilocin content triggers federal scheduling
-- **United Kingdom:** Class A under Misuse of Drugs Act 1971
-- **Netherlands:** Illegal since 2008 (smart shop ban included *Panaeolus*)
-- **Brazil:** Legal ambiguity; not explicitly scheduled
-- **Thailand:** Illegal; enforcement varies
-- **International:** Not under UN Convention, but most nations regulate under analogue scheduling
-
-## See Also
-
-- [[psilocybin-compound]] — Primary psychoactive tryptamine compound
-- [[psilocybe-azurescens]] — Pacific Northwest species with comparable potency
+| [[psilocybin]] — Primary psychoactive tryptamine compound
 - [[panaeolus-cinctulus]] — Widespread panaeolus with lower alkaloid content
 - [[gymnopilus-purpuratus]] — Wood-inhabiting psilocybin mushroom of the Southern Hemisphere

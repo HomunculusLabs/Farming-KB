@@ -3,14 +3,7 @@ title: Mushroom Poisoning and Lookalikes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources: []
----
-# Mushroom Poisoning and Dangerous Lookalikes
-
-## Overview
-
-Accurate mushroom identification is a matter of life and death. Several species of non-psychedelic mushrooms can be confused with psilocybin-containing species, and some contain lethal toxins. This page covers the most dangerous lookalikes, key distinguishing features, and safety practices. See [[psilocybin-mushroom-identification]] for identification of psilocybin mushrooms.
+tags: [[psilocybin-mushroom-identification]] for identification of psilocybin mushrooms.
 
 ## Critical Safety Principles
 
@@ -68,7 +61,7 @@ Many Inocybe species contain **muscarine**, a toxic alkaloid:
 - The field guide warns that it is "highly toxic" and "ingestion of more than a few specimens can cause illness and possibly death"
 - Very distinct appearance (red ball-shaped cap with white warts) -- unlikely to be confused with Psilocybe if properly observed
 - Used traditionally in Siberia and some other cultures
-- See [[amanita-muscaria-guide]] and [[psychedelic-ancient-history]] for more on its cultural role
+- See [[psychedelic-ancient-history]] for more on its cultural role
 
 ### Amanita phalloides (Death Cap) and Amanita virosa (Destroying Angel)
 
@@ -102,22 +95,12 @@ Some non-psychedelic mushrooms also exhibit bluing:
 5. Hospital treatment may include activated charcoal, IV fluids, and in amatoxin cases, specific therapies like silibinin or N-acetylcysteine
 ## See Also
 
-- [[psilocybin-accidental-ingestion-australia]] — Historical case reports of accidental psilocybin mushroom ingestion in
-
 - [[psilocybin-mushroom-identification]] -- How to identify psilocybin mushrooms correctly
-- [[psilocybin-mushroom-distribution-worldwide]] -- Geographic distribution
 - [[psychedelic-plant-sources]] -- All psychedelic organism sources
 - Destroying Angel Identification
 
 ## Related
 
-- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
-
-## Merged: Destroying Angel (Amanita virosa) Identification
-The destroying angel refers to several closely related all-white species within the Amanita genus, principally Amanita virosa, Amanita verna, and Amanita bisporigera. These mushrooms are among the most deadly organisms on Earth, containing the same amatoxins responsible for the majority of fatal mushroom poisonings worldwide. Their pure white appearance makes them particularly dangerous, as they can be mistaken for edible [[agaricus-bisporus-cultivation-biology]] species or other white mushrooms by inexperienced foragers. The destroying angel shares the amatoxin profile of the death cap (Amanita phalloides), and the two groups are frequently discussed together in mycological literature as the primary causes of lethal mushroom poisoning. - [[mushroom-identification-basics]] The destroying angel belongs to Amanita section Phalloideae, which includes all the most deadly Amanita species. Related: [[psilocybe-cubensis-potency-variation-by-flush]], [[amanita-genus-morphology]], [[mushroom-poisoning-guide]]
+- [[agaricus-bisporus-cultivation-biology]] species or other white mushrooms by inexperienced foragers. The destroying angel shares the amatoxin profile of the death cap (Amanita phalloides), and the two groups are frequently discussed together in mycological literature as the primary causes of lethal mushroom poisoning. - [[psilocybe-cubensis-potency-variation-by-flush]], [[mushroom-poisoning-guide]]
 ## Merged: Omphalotus Olearius (Jack O'Lantern) Identification
-Omphalotus olearius, commonly known as the jack o'lantern mushroom, is a bright orange to yellow-orange mushroom that is poisonous and one of the most commonly encountered toxic mushrooms mistaken for the edible [[oyster-mushroom-species-variety]] or [[growing-gourmet-tree-species-guide-mushroom-cultivation]]. The species is famous for its bioluminescent properties, as the gills can emit a faint greenish glow in darkness, a feature that gave rise to the common name "jack o'lantern." Research on medicinal mushrooms has noted that Omphalotus olearius and Lampteromyces japonicus show interesting anticancer properties, and the genus has been studied for its unique illudin compounds, which are sesquiterpene toxins with potential pharmaceutical applications. See also [[chanterelle-guide]], [[oyster-mushroom-species-guide]], [[growing-gourmet-tree-species-guide-mushroom-cultivation]], [[mushroom-poisoning-guide]], and [[mushroom-foraging-safety-guide]]. The most striking feature of Omphalotus olearius is its bright orange to orange-yellow coloration, which can be remarkably vivid, especially when fresh and moist.
-## Merged: Coprine Poisoning -- Coprinus Atramentarius
-Coprine is a toxin produced by Coprinus atramentarius (the common ink cap), which causes a distinctive and unpleasant form of [[mushroom-toxins-and-poisoning]] only when alcohol is consumed with or after eating the mushroom. This unusual conditional toxicity has earned the species its reputation and its common association with disulfiram (Antabuse), the prescription drug used to treat alcoholism. The related species [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] (the lawyer's wig or shaggy ink cap) is an excellent edible mushroom when picked before the gills begin to blacken. Some are edible when properly prepared but toxic when raw, as with mushroom-identification|Gyromitra esculenta. - [[mushroom-foraging-safety]] The primary source for this article is Nicholas Money's "Mr. Related: [[coprinus-comatus-cultivation]], [[mushroom-toxins-and-poisoning]], mushroom poisoning and lookalikes, [[mushroom-identification]]
-## Merged: Amanita Phalloides Death Cap
-Amanita phalloides, the death cap, is the single most dangerous mushroom known and is responsible for the majority of fatal [[mushroom-toxins-and-poisoning]] worldwide. Its combination of attractive appearance, relatively mild taste, delayed symptoms, and extreme toxicity makes it the deadliest fungus encountered by humans. The fact that [[amanita-genus-morphology]] thrives without its toxins serving an obvious defensive function remains one of the puzzles of evolutionary mycology. Additional context has been drawn from peer-reviewed scientific literature, historical records, and contemporary mushroom-identification|field guides. Modern molecular techniques, including DNA sequencing and genomic analysis, are revolutionizing our understanding of [[molecular-methods-fungal-taxonomy-and-diversity]] and evolution. Related: [[edible-wild-mushroom-guide]]
+Omphalotus olearius, commonly known as the jack o'lantern mushroom, is a bright orange to yellow-orange mushroom that is poisonous and one of the most commonly encountered toxic mushrooms mistaken for the edible [[growing-gourmet-tree-species-guide-mushroom-cultivation]]. The species is famous for its bioluminescent properties, as the gills can emit a faint greenish glow in darkness, a feature that gave rise to the common name "jack o'lantern." Research on medicinal mushrooms has noted that Omphalotus olearius and Lampteromyces japonicus show interesting anticancer properties, and the genus has been studied for its unique illudin compounds, which are sesquiterpene toxins with potential pharmaceutical applications. See also [[oyster-mushroom-species-guide]], [[mushroom-poisoning-guide]], and [[mushroom-toxins-and-poisoning]] only when alcohol is consumed with or after eating the mushroom. This unusual conditional toxicity has earned the species its reputation and its common association with disulfiram (Antabuse), the prescription drug used to treat alcoholism. The related species [[mushroom-foraging-safety]] The primary source for this article is Nicholas Money's "Mr. Related: [[mushroom-toxins-and-poisoning]], mushroom poisoning and lookalikes, [[mushroom-toxins-and-poisoning]] worldwide. Its combination of attractive appearance, relatively mild taste, delayed symptoms, and extreme toxicity makes it the deadliest fungus encountered by humans. The fact that [[molecular-methods-fungal-taxonomy-and-diversity]] and evolution. Related: [[edible-wild-mushroom-guide]]

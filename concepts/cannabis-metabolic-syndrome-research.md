@@ -47,13 +47,7 @@ The CHI database addresses several MetS-related conditions individually:
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-endocannabinoid-system]] is a master regulator of energy metabolism, and its dysregulation is increasingly recognized as a driver of metabolic syndrome. cb1-receptor activation in adipose tissue stimulates lipogenesis (fat creation) and energy storage, while in the hypothalamus it regulates appetite and food intake.
-
-Overactive endocannabinoid signaling at CB1 receptors is associated with obesity, insulin resistance, and dyslipidemia -- the core features of metabolic syndrome. The failed anti-obesity drug rimonabant (a CB1 antagonist/inverse agonist) validated this target by effectively reducing weight and metabolic parameters, but its severe psychiatric side effects (depression, anxiety, suicidality) led to market withdrawal.
-
-CBD offers a more nuanced approach: rather than blocking CB1 entirely, CBD acts as a negative allosteric modulator at CB1, gently reducing CB1 overactivity while preserving basal endocannabinoid tone. This may explain why CBD provides some metabolic benefits without the psychiatric side effects of rimonabant.
-
-CBD's anti-inflammatory effects through cb2-receptor activation address the chronic low-grade inflammation that drives insulin resistance and endothelial dysfunction in metabolic syndrome. CBD also reduces oxidative stress in pancreatic beta cells, potentially preserving insulin secretion capacity. These mechanisms are detailed in [[cannabis-anti-inflammatory-applications]].
+The [[cannabis-anti-inflammatory-applications]].
 
 The paradox of lower obesity rates among cannabis users despite THC's appetite-stimulating effects may be explained by CBD's CB1-modulating properties, differences in metabolic effects between acute and chronic use, or selection bias in epidemiological studies.
 
@@ -75,19 +69,7 @@ For diabetes management specifically, higher CBD doses (100-600 mg/day) have bee
 
 Oral administration (tinctures, capsules) provides consistent daily dosing for the chronic management required in metabolic syndrome. Consistent dosing schedules are important, as the metabolic effects of cannabinoids may build over weeks of regular use rather than providing immediate results.
 
-THC should generally be avoided or minimized in metabolic syndrome patients due to its appetite-stimulating effects and potential to increase caloric intake. If THC is used for comorbid conditions (pain, sleep), it should be administered in the evening to minimize daytime eating effects. See [[cannabis-delivery-methods-comparison]] for administration options.
-
-Lifestyle modifications (diet, exercise, weight management) remain the foundation of metabolic syndrome treatment. Cannabinoid therapy should be adjunctive to, not a replacement for, established lifestyle and pharmacological interventions.
-
-## Safety and Interactions
-
-Metabolic syndrome patients often take multiple medications for diabetes, hypertension, and dyslipidemia, creating numerous potential cannabinoid interactions. CBD's CYP3A4 inhibition may increase levels of statins, oral hypoglycemics (metformin, sulfonylureas), and antihypertensive medications, potentially requiring dose adjustments.
-
-CBD may enhance the glucose-lowering effects of diabetes medications, increasing the risk of hypoglycemia. Blood glucose should be monitored more frequently when initiating CBD, particularly for patients on insulin or sulfonylureas. Patients should be educated about hypoglycemia symptoms and management.
-
-THC's appetite-stimulating effects may counteract dietary interventions for weight management and glycemic control. The caloric impact of THC-induced eating should be considered in the context of the patient's overall dietary plan. CBD does not share this appetite-stimulating effect.
-
-Liver function should be monitored in metabolic syndrome patients using CBD, as both MetS (particularly with NAFLD/non-alcoholic fatty liver disease) and high-dose CBD can affect liver enzymes. See [[cannabis-cbd-therapeutic-profile]] for comprehensive safety information.
+THC should generally be avoided or minimized in metabolic syndrome patients due to its appetite-stimulating effects and potential to increase caloric intake. If THC is used for comorbid conditions (pain, sleep), it should be administered in the evening to minimize daytime eating effects. See [[cannabis-cbd-therapeutic-profile]] for comprehensive safety information.
 
 ## Mind-Body Medicine Perspective
 
@@ -95,9 +77,6 @@ Metabolic syndrome may reflect an overall metabolic, behavioral, and lifestyle e
 
 ## See Also
 
-- [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-for-inflammatory-conditions]]
-- [[cannabis-health-index]]
 - [[cannabis-cbd-therapeutic-profile]]
-- [[cannabis-for-diabetes-and-metabolic-syndrome]]
 - [[cannabis-safety-profile-and-overdose-risk]]

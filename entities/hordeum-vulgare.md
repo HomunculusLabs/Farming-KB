@@ -112,13 +112,8 @@ The development of malting and brewing techniques from barley is documented in S
 
 ## See Also
 
-- [[triticum-aestivum]]
 - [[zea-mays]]
-- [[oryza-sativa]]
 - [[sorghum-bicolor]]
-- [[beta-vulgaris]]
 - [[pisum-sativum]]
-- [[vicia-faba]]
 - [[cicer-arietinum]]
-- [[lens-culinaris]]
 - [[glycine-max]]

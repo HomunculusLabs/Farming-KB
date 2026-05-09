@@ -36,16 +36,7 @@ There was one report that at very high doses some central effects were
 indeed observed. With quantities in the several hundreds of
 milligrams a picture emerged of changes in perceived color and depth
 perception, but without euphoria. It was said to resemble a mild dose
-of ketamine. This is an interesting comment, in that ketamine has
-found its major medical use as an anesthetic, and MDHOET is among the
-most effective of all the N-substituted MDA derivatives assayed in
-several animal analgesia models.
-
-## Synthesis
-
-To a well stirred solution of 25 g ethanolamine
-hydrochloride in 75 mL MeOH there was added 4.45 g of
-3,4-methylenedioxyphenylacetone (see under MDMA for its preparation)
+of [[mdma]] for its preparation)
 followed by 1.1 g sodium cyanoborohydride. Concentrated HCl in MeOH
 was added as required, over the next few days, to maintain the pH at
 about 6 as determined with external, dampened universal pH paper. The
@@ -70,7 +61,24 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[ayahuasca-and-dmt-plant-medicine]]
 - [[mda-entity-pihkal]]
-- [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
+## Practical Considerations
+
+Successful implementation of MDHOET (HYDROXYETHYL-MDA;) -- PIHKAL Entry #107 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

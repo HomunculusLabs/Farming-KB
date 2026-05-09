@@ -3,7 +3,7 @@ title: Fungal Tannin and Phenolic Decomposition
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -107,14 +107,9 @@ This creates a potential positive feedback in which phenolic-rich, nitrogen-poor
 
 ## Related Concepts
 
-- [[fungal-nitrogen-mineralization-pathways]]
 - [[fungal-saprotrophic-enzymatic-strategies]]
-- [[fungal-enzyme-induction-and-regulation]]
 - [[fungal-allelopathy-mechanisms-and-ecological-effects]]
-- [[fungal-decomposition-resource-quality-determinants]]
 - [[fungal-decomposition-succession-resource-quality]]
 - fungal tannin and phenolic decomposition
-- [[fungal-peat-decomposition-and-carbon-storage]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[fungal-ecosystem-processes-overview]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]

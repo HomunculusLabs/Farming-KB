@@ -137,8 +137,6 @@ technologies from laboratory to full-scale applications.
 
 ## See Also
 
-- [[singh-fungal-bioreactor-types-configurations]]
 - [[fungal-treatment-of-distillery-and-brewery-wastes]]
-- [[singh-pah-biodegradation-fungi-soils-bioreactors]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]
 - [[singh-laccase-mediated-biodegradation-pahs-dyes]]

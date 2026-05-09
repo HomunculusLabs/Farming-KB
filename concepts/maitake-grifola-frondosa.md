@@ -101,8 +101,6 @@ species causes a white rot in wood decomposition.
 
 ## See Also
 
-- [[cotter-shiitake-cultivation]]
 - [[reishi-ganoderma-lucidum]]
-- [[oyster-mushrooms]]
 - [[grain-spawn-production]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]

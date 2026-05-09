@@ -92,35 +92,15 @@ Ancona, Appleyard, Buff, Magpie, Saxony. Saxony is probably the best for foragin
 
 Eggs, meat, feathers, pest control (slugs, snails, grubs), fertilizer, pond algae management.
 
-See also: [[faires-duck-and-goose-keeping]], [[goose-keeping-detailed]], [[chicken-keeping-guide]], permaculture-poultry-guide
-
-## Merged: Holmgren Renewable Services Biological Solutions
-
-# Holmgren: Renewable Services and Biological Solutions
-
-updated: 2026-04-18
-
-While sustainable use of renewable resources is fundamental to [[permaculture-retrofit-suburbia]], it is the non-consuming use of nature's services where we can experience a deeper harmony with nature. When we make use of the services of living nature (animals, plants, soil and self-purifying water systems) to provide for our needs, we reduce our demand for consuming both renewable and non-renewable resources.
+See also: [[goose-keeping-detailed]], [[permaculture-retrofit-suburbia]], it is the non-consuming use of nature's services where we can experience a deeper harmony with nature. When we make use of the services of living nature (animals, plants, soil and self-purifying water systems) to provide for our needs, we reduce our demand for consuming both renewable and non-renewable resources.
 
 ## The Chook Tractor
 
-The classic Permaculture example: the natural scratching action of the fowl is used to cultivate the soil instead of a tractor or rotary hoe. The comparison of the fowl to the tractor reveals that the functions of a tractor are better understood than those of a fowl. At the same time as it cultivates, the fowl's foraging for insects replaces the use of toxic insecticides and its manure replaces use of energy-intensive fertilisers. See duck keeping guide detailed and [[duck-rice-paddy]].
-
-## Grazing Animals as Service Providers
-
-Grazing animals function as mowers. Plants function as water and nutrient pumps, shelter and living fences. Living soil can be thought of as a filter, purifier and store of water and nutrients. Streams, swamps and other waterways can be self-purifying water storages. See also [[permaculture-aquaculture-guide]] and [[aquaculture-in-permaculture]].
-
-## Soil Nutrient Services
-
-Building soil fertility by careful use of natural mineral fertilisers is an example of appropriate use of non-renewable resources. But we should generally give priority to making soil nutrients more available through biological processes. Fostering the invisible action of soil organisms, the passive functions of plants and the traditional roles of livestock in building fertility is generally preferable to adding nutrients out of a bag. This is especially true where past applications have created a surplus of locked-up and unbalanced nutrients. See [[holmgren-mineral-fertilizers-soil-building]].
+The classic Permaculture example: the natural scratching action of the fowl is used to cultivate the soil instead of a tractor or rotary hoe. The comparison of the fowl to the tractor reveals that the functions of a tractor are better understood than those of a fowl. At the same time as it cultivates, the fowl's foraging for insects replaces the use of toxic insecticides and its manure replaces use of energy-intensive fertilisers. See duck keeping guide detailed and [[permaculture-aquaculture-guide]] and [[holmgren-mineral-fertilizers-soil-building]].
 
 ## Pioneer Plants Building Soil
 
-Pioneer plants that build soil fertility, with or without the help of soil microbes, are a feature of almost all permaculture-inspired gardens and farms. Legumes supporting nitrogen-fixing microbes are the most common example. Symbiotic [[mycorrhizal-fungi]] and similar organisms mine phosphate tied up in insoluble form in the soil, saving nearly exhausted rock phosphate sources for use where there is genuine deficiency.
-
-## Deep-Rooted Pasture Plants
-
-Deep-rooted pasture plants such as chicory extract nutrients from and open poor clays, most valuable in slowly improving soil. Some long-lived forest trees, like oaks, have proven ability to thrive in poor soils in southern Australia and slowly accumulate critically important calcium and boron in their leaves. Soil animals such as earthworms and termites physically mix and improve soil layers. See [[dynamic-accumulators]].
+Pioneer plants that build soil fertility, with or without the help of soil microbes, are a feature of almost all permaculture-inspired gardens and farms. Legumes supporting nitrogen-fixing microbes are the most common example. Symbiotic [[dynamic-accumulators]].
 
 ## Melliodora Examples
 

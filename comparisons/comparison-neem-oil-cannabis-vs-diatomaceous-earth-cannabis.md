@@ -21,41 +21,6 @@ approved for organic production but demand different application strategies,
 timing, and expectations from the grower.
 
 ## Neem Oil
-[[neem-oil-cannabis]]
-Neem oil is extracted from the seeds of the Indian neem tree (Azadirachta
-indica), used for medicine and pest control for over four centuries in India
-and Southeast Asia. The primary active compound, azadirachtin, acts as an
-insect growth regulator and antifeedant: it confuses insect hormones to
-prevent larvae from maturing into reproducing adults and causes pests to stop
-eating treated foliage. Because azadirachtin works on growth regulation rather
-than as a direct neurotoxin, it has low toxicity to non-target organisms and
-is slower-acting than synthetic pesticides.
-
-Two primary forms are used. Neem powder is made from dried neem leaves and
-contains azadirachtin along with N-P-K nutrients and trace elements. It works
-by confusing insect growth hormones and is most effective against young
-insects. Neem oil, a purified extract from neem seeds, is more effective
-overall and particularly potent against spider mites. Cold-pressed neem oil is
-strongly recommended over heat-processed oil because it retains all natural
-ingredients including azadirachtin.
-
-Neem can be applied as a foliar spray or as a soil drench. Foliar spray
-provides contact and residual activity lasting up to one month on foliage; it
-performs best at 60% or higher humidity. Soil drench application allows neem
-to enter the plant's vascular tissue, becoming systemic and protecting new
-growth from within for up to a month. This systemic route is particularly
-valuable during flowering when foliar spraying risks bud rot from moisture on
-buds. Neem should not be applied in the last few days before harvest due to
-potential taste impacts.
-
-Neem controls spider mites, fungus gnats, aphids, whitefly larvae, mealybugs,
-leafminers, caterpillars, and powdery mildew. Environmental toxicity is low:
-neem powder is not toxic to honeybees, fish, or earthworms. However, neem oil
-has reported toxicity to some beneficial insects, so caution is needed when
-combining with biological controls. Personal protective equipment including
-mask, gloves, and goggles is required during application.
-
-## Diatomaceous Earth
 [[diatomaceous-earth-cannabis]]
 Diatomaceous earth consists of fossilized skeletal remains of diatoms,
 microscopic algae that lived millions of years ago. The silica shells form
@@ -129,8 +94,6 @@ protection throughout the entire grow cycle.
 
 ## See Also
 
-- [[comparison-neem-oil-vs-pyrethrin]]
 - [[fungus-gnats-cannabis]] — common cannabis pest targeted by both products
-- [[aphids-cannabis]] — another target pest for both control methods
 - [[integrated-pest-management]] — framework for combining these and other controls
 - [[beneficial-insects-cannabis]] — biological control agents to consider alongside sprays

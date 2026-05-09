@@ -136,14 +136,9 @@ Guerrilla mycology raises important questions:
 - **Brownfield restoration:** Remediation of abandoned industrial sites for community use
 ## See Also
 
-- [[amanita-caesarea]]
 - [[contamination-prevention-mycology]]
-- [[victorian-mycology-and-fairy-rings]]
 - [[bloomfield-buller-experimental-mycology]]
-- [[history-of-mycology-timeline]]
-
 - [[mycorrhizal-networks]] — fungal-plant symbiosis in ecosystems
-- [[mycoremediation]] — comprehensive overview of fungal bioremediation
 - [[pleurotus-ostreatus]] — oyster mushroom biology and cultivation
 - Radical Mycology Movement — community fungal education and activism
 - Permaculture Design Principles — ecological design framework

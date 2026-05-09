@@ -122,7 +122,7 @@ force it into artificial isolation.
 
 ## Related Concepts
 
-- [[savory-technology-as-management-tool]]
 - [[savory-plant-succession-and-community-dynamics]]
-- [[savory-ecosystem-foundation-blocks]]
 - [[savory-wildlife-livestock-integration]]
+
+See also: [[holistic-grazing-and-pasture-management]]

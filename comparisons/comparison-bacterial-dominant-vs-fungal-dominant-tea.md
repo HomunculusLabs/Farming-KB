@@ -13,7 +13,7 @@ type: comparison
 
 ## Overview
 
-[[aact-bacterial-dominant-tea]] and [[aact-fungal-dominant-tea]] represent two 
+[[aact-fungal-dominant-tea]] represent two 
 distinct formulations of actively aerated compost tea, each designed to support 
 different plant types and soil conditions. Bacterial-dominant teas promote the 
 rapid nutrient cycling favored by annual vegetables and grasses, while 
@@ -125,9 +125,6 @@ biological assessments rather than assumptions about what your plants need.
 
 ## See Also
 
-- [[aact-bacterial-dominant-tea]] for detailed brewing recipes
 - [[aact-fungal-dominant-tea]] for fungal tea brewing methods
-- [[aact-definitions-and-types-ingham]] for general AACT principles
 - [[aact-brewing-ingredients-ingham]] for ingredient selection
-- [[aact-compost-quality-standards-ingham]] for compost quality requirements
 - [[mycorrhizal-fungi-in-aact]] for mycorrhizal considerations in tea brewing

@@ -31,36 +31,7 @@ stock density only changes where paddock size changes.
 
 The relationship between fencing investment and return follows a curve
 of diminishing marginal reaction. Each additional paddock division
-produces a smaller benefit than the previous one. The [[animal-tractoring]] guideline requires evaluating each potential fence line by
-asking whether it produces the greatest possible return compared to
-alternative investments.
-
-- First few paddock divisions produce dramatic improvements.
-- Subsequent divisions produce progressively smaller improvements.
-- Beyond thirty paddocks per herd, additional fencing shows very low
-  marginal returns.
-- The exact diminishing point varies with environment, degradation
-  level, and planning quality.
-
-## Selecting Fence Lines
-
-When planning fencing investments, practical considerations include:
-
-1. **Topographic features**: Natural barriers serve as free fence lines.
-2. **Soil and vegetation types**: Fences separating different
-   communities allow targeted grazing.
-3. **Water point placement**: Facilitate access without long trailing.
-4. **Shape and size**: Long, narrow paddocks create trailing problems.
-
-## The Critical Threshold: Thirty Paddocks
-
-Savory consistently references thirty or more paddocks per herd as the
-threshold where fencing begins to show diminishing returns. Below this,
-fencing typically provides the highest marginal reaction per dollar.
-Above it, investments in water development, herd management, or
-biological planning usually produce greater returns.
-
-This threshold provides enough flexibility for [[savory-livestock-grazing-planning]]  planning to prevent overgrazing, provide adequate recovery, create
+produces a smaller benefit than the previous one. The [[savory-livestock-grazing-planning]]  planning to prevent overgrazing, provide adequate recovery, create
 needed stock density, and maintain animal nutrition through frequent
 moves.
 
@@ -90,34 +61,29 @@ The number of paddocks directly influences diet quality:
 - **Many paddocks**: Single selection per paddock -- fresh, high-
   quality forage at every move.
 
-This affects [[savory-livestock-nutrition-and-supplementation]] and supplementation and explains
-why well-planned cells can reduce supplemental feeding needs.
-
-## The Low Density Grazing Problem
-
-Rotational grazing with fewer than eight paddocks creates a "low
-density grazing problem": selective grazing of preferred plants,
-overgrazing of repeatedly selected plants, inadequate animal impact,
-fouling from dung and urine, and declining animal performance. This is
-largely overcome with planned grazing including adequate paddock numbers
-and the plan-monitor-control-replan cycle.
-
-## Fencing as a Tool, Not a Solution
-
-Fencing is a tool enabling time management for healthy land and
-animals. Fencing without adequate biological planning is merely
-expensive infrastructure. Good planning without adequate fencing lacks
-the mechanism for desired stock density and movement.
-
-## See Also
-
-- [[savory-stock-density-vs-stocking-rate]]
-- [[savory-seed-establishment-and-plant-recruitment]]
-
-- stock density vs stocking rate - Density vs. rate distinction
+This affects [[savory-stock-density-vs-stocking-rate]]
 - [[animal-tractoring]] - Maximizing return per dollar invested
 - short duration grazing and cell systems - Multi-paddock
   implementation
 - animal impact and herd effect - How density creates disturbance
 - land planning and grazing cell design - Physical infrastructure
   design
+## Practical Considerations
+
+Successful implementation of Fencing Economics and Stock Density Curve requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

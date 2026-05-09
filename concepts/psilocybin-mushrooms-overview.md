@@ -134,4 +134,4 @@ than typical recreational doses. The FDA granted Breakthrough Therapy
 designation to psilocybin for treatment-resistant depression in 2019 and 2024,
 accelerating the drug development pathway.
 
-See also: [[psilocybe-cubensis-cultivation]], [[psilocybin-mushroom-identification]], [[psychedelic-harm-reduction]], [[psilocybin-assisted-therapy]], [[tryptamine-entity-tihkal]]
+See also: [[psilocybin-mushroom-identification]], [[psilocybin-assisted-therapy]], [[tryptamine-entity-tihkal]]

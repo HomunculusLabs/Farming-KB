@@ -109,13 +109,8 @@ This cold-weather technique is commonly used to bring out the signature dark app
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[og-kush]]
-- [[cannabis-indoor-growing-guide]]
 - [[sunset-sherbet]]
-- [[gelato-cannabis]]
 - [[wedding-cake-cannabis]]
-- [[runtz-entity]]
 - [[kush-mints]]
-- [[sfv-og]]
-- [[ak-47]]
+- [[ak-47-cannabis]]

@@ -9,44 +9,7 @@ sources: [raw/papers/symbiotic fungi arbuscular mycorrhizal colonization pattern
 
 # Arbuscular Mycorrhizal Mechanisms
 
-Source: symbiotic fungi arbuscular [[mycorrhizal-fungal-diversity]] agriculture (Varma and Kharkwal, eds.), Chapters 1, 4, 6, 8, 11
-
-## Introduction
-
-Arbuscular mycorrhizal (AM) fungi (phylum Glomeromycota) are obligately biotrophic fungi
-that form mutualistic symbioses with approximately 80% of all land plants. The association
-is characterized by the formation of intracellular structures (vesicles and arbuscules)
-within root cortical cells, facilitating bidirectional nutrient exchange. See [[arbuscular-mycorrhizal-networks]] for an overview of how these networks function at ecosystem scale, and [[arbuscular-mycorrhizal-fungal-diversity]] for the full range of species involved.
-
-Fossil evidence and DNA sequence analysis suggest arbuscular mycorrhiza appeared 400-460
-million years ago when the first plants were colonizing land. The discovery of arbuscules
-in Aglaophyton major (Early Devonian) provides unequivocal evidence that mycorrhizae
-were established more than 400 million years ago.
-
-## Fungal Taxonomy
-
-AM fungi belong to nine genera:
-
-- Gigaspora
-- Scutellospora
-- Glomus
-- Acaulospora
-- Entrophospora
-- Archaeospora
-- Gerdemannia
-- Paraglomus
-- Geosiphon (the only known fungal endosymbiosis with cyanobacteria)
-
-The plant symbiont ranges from bryophytes to angiosperms, making this the most commonly
-recorded mycorrhizal group.
-
-## Colonization Process
-
-Aseptate hyphae enter the root cortical cells and form characteristic structures:
-
-- **Vesicles**: storage organs containing lipids
-- **Arbuscules**: tree-like branched structures serving as the main nutrient exchange site
-- **[[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]**: connect arbuscules and vesicles within the root cortex
+Source: symbiotic fungi arbuscular [[arbuscular-mycorrhizal-networks]] for an overview of how these networks function at ecosystem scale, and [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]**: connect arbuscules and vesicles within the root cortex
 - **Extraradical hyphae**: extend from roots into soil for nutrient acquisition
 
 The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an
@@ -143,7 +106,5 @@ species, suggesting plant interconnectedness may be greater than previously thou
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-networks]] — overview of AM fungal networks in ecosystems
 - [[arbuscular-mycorrhizal-fungal-diversity]] — species diversity of Glomeromycota
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] — practical inoculant production
 - [[mycorrhizal-nitrogen-transfer-between-plants]] — inter-plant nutrient sharing via AM networks

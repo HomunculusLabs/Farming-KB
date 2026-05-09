@@ -9,39 +9,7 @@ tags: [psilocybin, mushrooms]
 
 # Psilocybin Mushroom Legal Status Worldwide
 
-The legal status of [[query-what-is-the-difference-between-psilocybin-and-psilocin]]-containing mushrooms varies dramatically across countries and has changed significantly over time. Gartz's "Magic Mushrooms Around the World" provides a comprehensive survey of the legal landscape as it existed in the early-to-mid 1990s, documenting how different nations approached the question of regulating naturally occurring psychoactive fungi.
-
-## The Prohibition Timeline
-
-### Early Regulation (1960s-1970s)
-
-The worldwide prohibition of hallucinogens began approximately 30 years before Gartz's writing (i.e., the 1960s-1970s). The legislation was characterized by:
-
-- Sweeping prohibitions that dealt a crippling blow to legitimate research
-- Treating all hallucinogens as a single pharmacological class
-- Imposing more severe restrictions on hallucinogens than on truly addictive substances with legitimate medical uses (such as morphine-type drugs)
-- Confusion of emotion with scientific standards in the legislative process
-
-### The Pattern of Extremes
-
-The irrational fears surrounding the "proper functioning" of consciousness produced two extreme views:
-
-- **Proponents:** Praised hallucinogens as "miracle drugs"
-- **Detractors:** Branded them as the "devil's drug" or "an H-bomb for the soul"
-
-It was the latter group that prevailed by way of political power.
-
-## Country-by-Country Status (Early 1990s)
-
-### Germany
-
-Germany had a particularly complex regulatory situation. Gartz documents a letter from the "Central Bureau of Substance Abuse" in the former East Germany detailing legal restrictions on psychoactive plants. As of 1983, Psilocybe mexicana was NOT a controlled substance and no restrictions applied to its use in East Germany.
-
-After reunification, the situation became more restrictive, though enforcement varied. Gartz notes that costly measures such as deploying helicopters over pastures in the Jura Mountains of Switzerland to flush out mushroom collectors were rarely used and quickly abandoned.
-
-### Switzerland
-
-Switzerland is notable for authorizing legal psycholytic therapy from 1988-1993, making it the only country in the world at that time to permit clinical use of hallucinogens. See [[swiss-psycholytic-therapy-1988-1993]] for details.
+The legal status of [[swiss-psycholytic-therapy-1988-1993]] for details.
 
 Switzerland was also a country where Psilocybe cubensis was being cultivated and used without attracting much attention, despite its general prohibition.
 
@@ -76,17 +44,7 @@ Psychoactive mushrooms were found in Russia near the St. Petersburg area and eve
 
 ### Japan
 
-Despite having native psychoactive species, Japan did not prohibit psilocybin mushrooms until much later. The [[japanese-laughing-mushroom-tradition]] suggests a long cultural familiarity with psychoactive fungi.
-
-### Southeast Asia and Pacific Islands
-
-#### Samoa
-
-Police initially suppressed mushroom use by teenagers but halted persecution when it became apparent that ingestion posed no significant health risk. Parents considered it "a foolish, but totally harmless episode and a part of normal teenage development."
-
-#### Bali
-
-Mushroom omelettes made with Panaeolus cyanescens were served openly in restaurants as completely legal specialties throughout the 1970s-1990s. See [[southeast-asian-mushroom-tourism-bali]].
+Despite having native psychoactive species, Japan did not prohibit psilocybin mushrooms until much later. The [[southeast-asian-mushroom-tourism-bali]].
 
 #### New Zealand
 
@@ -94,15 +52,7 @@ Customs of mushroom usage evolved around Australian species, with criminal penal
 
 #### Australia
 
-Psilocybin mushrooms were criminalized, though enforcement varied. Accidental ingestion cases were documented. See [[psilocybin-accidental-ingestion-cases]].
-
-### Africa
-
-Most African nations had no specific legislation regarding psilocybin mushrooms, partly because the mycoflora of the African continent had been studied only peripherally. However, this did not reflect permissive attitudes toward drug use in general.
-
-### United States
-
-The United States was one of the earliest and most aggressive prohibitors of psilocybin mushrooms, criminalizing them under the Controlled Substances Act. See [[psilocybin-mushroom-legal-history]] for details.
+Psilocybin mushrooms were criminalized, though enforcement varied. Accidental ingestion cases were documented. See [[psilocybin-mushroom-legal-history]] for details.
 
 ## The Distinction Between Fresh and Dried
 
@@ -137,14 +87,9 @@ Gartz observes that enforcement of mushroom prohibition was generally inconsiste
 - Some countries prohibited mushrooms without any documented cases of use or harm
 - Other countries with significant use had no legislation at all
 
-The overall pattern suggested that prohibition was driven more by political signaling than by evidence-based assessment of actual risks.
 ## See Also
 
-- [[powell-psilocybin-legal-status-research]]
-
 - [[psilocybin-mushroom-legal-history]]
-- [[psilocybin-toxicity-and-safety-profile]] -- Evidence against harsh prohibition
 - [[swiss-psycholytic-therapy-1988-1993]]
 - Decriminalization efforts
-- [[psychedelic-prohibition-and-the-war-on-consciousness]]
 - [[southeast-asian-mushroom-tourism-bali]]

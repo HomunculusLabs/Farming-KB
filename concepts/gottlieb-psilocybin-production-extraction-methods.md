@@ -71,19 +71,12 @@ Greater Purification
 Gottlieb notes that higher purification beyond the crude extraction is possible but would require additional solvents and chromatography equipment. He considers this "hardly necessary" for the purposes described, as the 25-50% crude preparation provides usable material with straightforward methodology.
 
 ## See Also
-- [[alexander-shulgin]]
 - [[shulgin-future-drugs]]
-- [[albert-hofmann]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- gordon-wasson
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 - [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]
-- [[psilocybe-cubensis-potency-variation-by-flush]]
 - [[mycelium-running-filtering-water-with-fungi]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
 - [[psilocybin-potency-dosage-guide]]
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
 - [[mycelial-broth-alkaloid-production]]
 - [[psilocybin-methyl-alcohol-extraction-technique]]

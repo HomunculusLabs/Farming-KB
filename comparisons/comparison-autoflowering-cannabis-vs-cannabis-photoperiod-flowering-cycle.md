@@ -21,34 +21,6 @@ overall cultivation approach, making it one of the first decisions every grower
 must make.
 
 ## Autoflowering Cannabis
-[[autoflowering-cannabis]]
-
-Autoflowering cannabis plants transition from vegetative growth to flowering
-based on age rather than light cycle, typically beginning to flower 2-4 weeks
-after germination. This automatic triggering comes from Cannabis ruderalis
-genetics originally found in Central Asia and Eastern Europe, where short
-summers demanded rapid life cycles for survival. Modern autoflowering strains
-have been extensively hybridized with sativa and indica genetics, dramatically
-improving potency, yield, and terpene profiles from early generations.
-
-The autoflowering life cycle is remarkably fast, typically completing seed to
-harvest in 8-12 weeks total. This allows growers to run 4-6 harvest cycles per
-year indoors and potentially 2-3 outdoors in favorable climates. Plants remain
-compact, generally reaching 30-100 cm in height, which makes them well-suited
-for small spaces, stealth grows, and operations where plant count limits apply.
-The fixed life cycle means growers maintain an 18/6 or 20/4 light schedule
-throughout, simplifying operations by eliminating the need to manage light
-transitions.
-
-The trade-offs are significant. Autoflowers generally produce lower yields per
-plant (30-150 grams) compared to photoperiod strains given adequate vegetation
-time. High-stress training techniques like topping and main-lining are risky
-because the fixed timeline leaves little recovery window. Perhaps most
-importantly, autoflowering clones retain the age of the mother plant and will
-flower immediately regardless of light schedule, making traditional cloning
-impractical. Each generation must be grown from seed.
-
-## Photoperiod Flowering
 [[cannabis-photoperiod-flowering-cycle]]
 
 Photoperiod cannabis relies on changes in the dark period to trigger the
@@ -120,9 +92,6 @@ genetic modification.
 
 ## See Also
 
-- [[equatorial-photoperiod-early-flowering]]
 - [[cannabis-ruderalis]]
-- [[cannabis-lighting-guide]]
 - [[cannabis-topping-training]]
-- [[cannabis-clone-rooting-and-transplanting]]
 - [[fimming]]

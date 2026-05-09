@@ -15,30 +15,7 @@ leverages the growth patterns and electrical signaling of fungal mycelium to
 perform information processing tasks. Mycelium — the vegetative body of fungi —
 forms vast interconnected networks that naturally solve spatial optimization
 problems as they forage for nutrients. This approach sits within the broader
-field of [[unconventional-computing]], exploring alternatives to silicon-based
-digital logic.
-
-## How It Works
-
-Fungal mycelium grows by extending hyphae toward nutrient sources. This growth
-process inherently performs useful computations:
-
-- **Path optimization**: Mycelium finds shortest paths between nutrient points,
-  similar to graph algorithms like Dijkstra's. The organism explores many
-  routes simultaneously, then consolidates the most efficient ones.
-- **Network formation**: The organism reinforces efficient transport routes and
-  prunes underperforming ones, analogous to adaptive network topology in
-  engineered systems.
-- **Electrical signaling**: Action potentials travel along hyphal networks at
-  speeds of roughly 0.5-2 mm/s, carrying information about environmental
-  conditions such as nutrient availability, damage, or chemical gradients.
-- **Resource allocation**: Cytoplasmic flow distributes nutrients and signaling
-  molecules through the network, with thicker tubes receiving preferential
-  flow — a physical implementation of network flow optimization.
-
-## Key Experiments
-
-The [[physarum-polycephalum]]polycephalum* (technically a protist, but studied
+field of [[physarum-polycephalum]]polycephalum* (technically a protist, but studied
 alongside fungi) famously reconstructed the Tokyo rail network when placed on
 a map with oat flakes representing cities. True fungal mycelium opleurotus-ostreatusurotus ostreatus* (oyster mushroom) has demonstrated similar spatial
 problem-solving capabilities.
@@ -82,11 +59,7 @@ and the more rigid cell walls of true fungi compared to plasmodial slime molds.
 - **Scalability**: Controlling large networks precisely is difficult; laboratory
   setups are limited to petri-dish scale.
 - **Readout**: Extracting computational results from a biological network
-  requires [[bio-electronic-interfaces]] that are still rudimentary.
-
-## Relationship to Other Paradigms
-
-Mycelial computation belongs to the broader field of [[unconventional-computing]]
+  requires [[unconventional-computing]]
 alongside memristor networks, liquid state machines, and
 reservoir computing. It shares conceptual ground with swarm intelligence
 in its use of many simple agents (hyphal tips) producing emergent intelligent
@@ -109,7 +82,6 @@ research in telecommunications.
 ## See Also
 
 - biological computing
-- [[physarum-computation]]
 - [[bio-electronic-interfaces]]
 - adaptive network topology
 - [[unconventional-computing]]

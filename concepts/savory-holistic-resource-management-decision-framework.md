@@ -44,8 +44,7 @@ often dwindles.
 
 The guideline asks: "Will the tool under consideration move the whole
 toward the goal?" Every proposed tool must be evaluated against its effects
-on all four ecosystem foundation blocks: [[savory-water-cycle-management]], [[holmgren-mineral-balance-soil-fertility]], [[savory-plant-succession-and-community-dynamics]], and
-[[savory-energy-flow-and-solar-capture]].
+on all four ecosystem foundation blocks: [[holmgren-mineral-balance-soil-fertility]], [[savory-energy-flow-and-solar-capture]].
 
 ### 2. Weak Link
 A chain stretched to breaking fails at its weakest link, and at any moment
@@ -78,8 +77,7 @@ on by the tool itself, creating a vicious cycle of escalating intervention.
 When choosing between actions or investments, consider the marginal return
 of each additional dollar or hour spent. Select the option giving the
 greatest return per unit of additional investment. This applies when
-comparing tools like [[savory-fire-as-management-tool]] (seems cheap but
-may have hidden costs) versus [[savory-animal-impact-and-herd-effect]] (requires
+comparing tools like [[savory-animal-impact-and-herd-effect]] (requires
 planning but produces multiple benefits).
 
 ### 5. Gross Margin Analysis
@@ -99,33 +97,13 @@ ecosystem? Will profit depend on continued external subsidies?
 Every tool must be socially and culturally acceptable to the people
 involved. This test acknowledges that management operates within human
 communities with beliefs, customs, and social structures that can support
-or undermine any plan. In some cultures, for example, not using [[savory-fire-as-management-tool]] may be viewed as threatening because people
-believe burning is necessary for rains to come.
+or undermine any plan. In some cultures, for example, not using [[savory-energy-flow-and-solar-capture]].
 
-## The Ten Management Guidelines
-
-The management guidelines cover the practical "how to" aspects of tool
-application. Key among them:
-
-**Time**: The duration of exposure of plants, soils, or animals to any tool,
-critical for controlling overgrazing
-and manipulating [[savory-energy-flow-and-solar-capture]].
-
-**Stock Density and Herd Effect**: These interrelate with [[savory-animal-impact-and-herd-effect]] and grazing. Stock density refers to animal
-concentration; herd effect refers to excited movement of bunched animals.
-
-**Burning**: Specific guidelines for [[savory-fire-as-management-tool]],
+**Stock Density and Herd Effect**: These interrelate with [[savory-fire-as-management-tool]],
 requiring extreme caution because fire exposes soil surfaces key to all
 four ecosystem processes.
 
-**[[monitoring-and-assessment-of-fungal-bioremediation]] and Control**: Ensures
-that planned actions produce intended results and enables timely correction.
-
-## Principles Behind the Guidelines
-
-Most principles reflected in the guidelines are plain common sense. Others
-stem from new understanding about the time dimension in resource management,
-the different decay processes and functioning of succession in [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], and the roles
+**[[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], and the roles
 that herding animals and their predators play in brittle environments. These
 latter principles are considered most critical to halting and reversing
 desertification.
@@ -134,15 +112,5 @@ desertification.
 
 The testing process is thorough but far from foolproof. To cater for human
 fallibility, the whims of nature, and the complexity of holism, constant
-[[monitoring-and-assessment-of-fungal-bioremediation]] and control through the
-management guidelines is essential. If a tool fails any test, it is not
-automatically ruled out (there may be no alternative at that moment), but
-the manager knows that ultimately the goal will not be reached unless a
-better way is found. The model can be applied in planning, research, and
-diagnostic modes.
-
-## See Also
-
-- [[bioremediation-monitoring-and-assessment]]
-- [[savory-water-cycle-management]]
+[[mycoremediation]]
 - [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]

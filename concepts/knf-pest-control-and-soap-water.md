@@ -87,6 +87,5 @@ Soap water is a simple, effective pest control method.
 ### Fluorescent Insect Attractant
 A specialized KNF input that attracts specific pest insects to traps, reducing their population without chemicals.
 
-See also [[knf-pest-control-methods]], [[knf-fluorescent-insect-attractant]], [[knf-oriental-herbal-nutrient]], [[knf-brown-rice-vinegar]], [[knf-lactic-acid-bacteria-serum]], and [[knf-soap-water-and-hot-pepper]].
-- [[fukuoka-crop-rotation-natural-farming]]
+See also [[knf-fluorescent-insect-attractant]], [[knf-brown-rice-vinegar]], [[knf-soap-water-and-hot-pepper]].
 - [[nutrient-movement-through-soil-to-plant-roots]]

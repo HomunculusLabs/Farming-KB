@@ -83,17 +83,7 @@ When a proton or substituent is removed, negative charge can delocalize into the
 Mechanistic drawings often represent this delocalized state as a quinonoid intermediate.
 The quinonoid is not a free carbanion; it is an enzyme-bound resonance-stabilized species.
 PLP can then help return electrons in a controlled direction to form product.
-In transamination, PLP accepts an amino group and becomes [[pyridoxamine-phosphate]].
-In the second half-reaction, pyridoxamine phosphate donates the amino group to a keto acid and regenerates PLP.
-In decarboxylation, PLP stabilizes the intermediate formed after carbon dioxide leaves an amino acid.
-In elimination reactions, PLP helps remove groups from beta or gamma positions relative to the amino group.
-
-## Metabolic Examples
-
-Alanine aminotransferase uses PLP to connect alanine and pyruvate metabolism.
-Aspartate aminotransferase uses PLP to connect aspartate and oxaloacetate metabolism.
-Glutamate decarboxylase uses PLP to produce gamma-aminobutyric acid, or GABA.
-Aromatic L-amino acid decarboxylase uses PLP in dopamine and [[serotonin]] biosynthesis pathways.
+In transamination, PLP accepts an amino group and becomes [[serotonin]] biosynthesis pathways.
 Histidine decarboxylase uses PLP to make histamine.
 Serine hydroxymethyltransferase uses PLP in one-carbon metabolism linked to folate chemistry.
 Cystathionine beta-synthase and cystathionine gamma-lyase use PLP in sulfur amino acid metabolism.
@@ -129,12 +119,10 @@ Engineered PLP enzymes can expand the range of amino acid and amine transformati
 
 ## Connections
 
-The concept page [[pyridoxal-phosphate-coenzyme-chemistry]] explains PLP as an electron-sink catalyst.
-The entity [[pyridoxamine-phosphate]] is the aminated partner formed during transamination.
+The concept page [[pyridoxamine-phosphate]] is the aminated partner formed during transamination.
 PLP connects vitamin nutrition to enzyme mechanism, amino acid metabolism, and neurochemistry.
 It is an entity because it is a specific compound with a defined structure, identifiers, and biochemical role.
 
 ## See Also
 
-- [[enzyme-kinetics-michaelis-menten-model]]
 - [[catalytic-triad-enzyme-mechanism]]

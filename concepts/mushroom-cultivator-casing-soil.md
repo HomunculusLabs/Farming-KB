@@ -131,15 +131,9 @@ Overlay can be counteracted by "patching" shallow areas and ruffling the surface
 
 ## See Also
 
-- [[maitake-soil-casing-technique]]
-
 - [[mushroom-cultivator-casing-materials-buffering-agents]]
 
-- [[stamets-casing-layer-design]] -- Stamets' casing layer chapter
 - [[casing-layer-preparation]] -- general casing preparation methods
-- [[casing-layer-principles]] -- casing layer theory
 - [[casing-layer-microbiology]] -- microbiology of casing layers
-- [[mushroom-cultivator-fruiting-conditions]] -- pinning and fruiting conditions
 - [[bulk-substrate-preparation]] -- species-specific casing needs
-- [[mushroom-cultivator-wood-based-substrates]]
 - [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]

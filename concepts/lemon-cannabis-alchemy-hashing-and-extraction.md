@@ -121,12 +121,8 @@ The purification step using petroleum ether requires careful handling of this hi
 
 ## See Also
 
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]
 - [[lemon-cannabis-alchemy-high-volume-extraction-method]]
-- [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
 - [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
-- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
 - [[lemon-cannabis-alchemy-isomerization]]
-- [[lemon-cannabis-alchemy-thc-acetate]]
 - [[lemon-cannabis-alchemy-translucent-honey-oil]]
 - [[cbd-to-thc-isomerization-chemistry]]

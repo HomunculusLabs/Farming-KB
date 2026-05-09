@@ -99,40 +99,7 @@ contributing to both dissolution and reprecipitation processes.
 ## Interaction with Rock-Dwelling Fungi
 
 The lichen symbiosis is closely related to free-living rock-dwelling fungi.
-The [[endolithic-fungi-rock-colonizing-communities]] and epilithic
-fungal communities share many characteristics with lichenized fungi,
-including melanin pigmentation, polysaccharide slime production, and
-tolerance of extreme microclimatic conditions. Some rock-inhabiting fungi
-may represent lichen symbionts that have lost or not yet acquired their
-photobiont partners.
+The [[gadd-lichen-biogeochemistry-pioneer]]
 
-## Cyanobacterial versus Algal Photobionts
-
-The choice of photobiont influences lichen ecology and biogeochemistry:
-
-- **Cyanobacterial photobionts**: enable nitrogen fixation, making
-  cyanolichens particularly important in nitrogen-poor environments.
-- **Algal photobionts**: provide carbon but not nitrogen, restricting
-  these lichens to environments where nitrogen is available from other
-  sources.
-- Some lichens contain both types of photobiont, combining carbon fixation
-  from algae with nitrogen fixation from cyanobacteria.
-
-## Water Relations
-
-As highlighted in the source volume, water relations are an important
-survival determinant for lichens. Lichens are poikilohydric organisms, meaning
-their water content varies with environmental conditions. They can withstand
-periods of desiccation and rapidly rehydrate when moisture becomes available,
-resuming photosynthetic activity within minutes of wetting. This adaptation
-is key to their success on exposed rock surfaces where water availability is
-highly variable.
-
-## See Also
-
-- [[gadd-lichen-biogeochemistry-pioneer]]
-
-- [[endolithic-fungi-rock-colonizing-communities]]
 - [[mycogenic-mineral-precipitation]]
-- [[gadd-fungal-rock-weathering]]
 - [[gadd-fungal-symbiosis-mycorrhizae]]

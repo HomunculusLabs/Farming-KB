@@ -127,11 +127,7 @@ healing work.
 
 ## See Also
 
-- [[harner-amazonian-ayahuasca-preparation-methods]]
 - [[curandero-healing-ayahuasca]]
-- [[amazonian-ayahuasca-purge-and-diet-practices]]
-
-- Metzner Four Paradigms of Entheogenic Healing
 - [[brazilian-ayahuasca-churches]]
 - Shamanic Healing and Divination
 - [[metzner-ayahuasca-therapeutic-potential]]

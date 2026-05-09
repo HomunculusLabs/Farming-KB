@@ -20,27 +20,7 @@ drought.
 
 - **Overgrazing**: Removing vegetation cover faster than it can regenerate, exposing soil to wind and rain
 - **Deforestation**: Loss of tree cover reduces rainfall interception and soil stability, disrupting local hydrological cycles
-- **Poor irrigation practices**: Salt accumulation from improper [[water-management]], leading to soil salinization
-- **Soil compaction**: Reduces water infiltration and root penetration, creating surface crusts
-- **Climate change**: Altered rainfall patterns and increased temperatures accelerate degradation
-- **Wind erosion**: Loss of topsoil to wind when vegetation is sparse
-- **Chemical agriculture**: Degradation of soil structure and microbial life; synthetic fertilizers effective only on dead soil
-- **Plowing and tillage**: Breaking down soil structure and destroying fungal networks that maintain soil health
-
-## The Desertification Process
-
-1. Vegetation removal (overgrazing, clearing, drought, or tillage)
-2. Soil exposure to wind and rain
-3. Topsoil loss (erosion)
-4. Reduced water retention capacity
-5. Declining organic matter and microbial activity
-6. Crusting and surface sealing
-7. Reduced seed germination and plant establishment
-8. Positive feedback loop accelerating degradation
-
-## The Relationship Between Vegetation and Rainfall
-
-[[masanobu-fukuoka]] observed that "rain does not fall from the heavens; it issues
+- **Poor irrigation practices**: Salt accumulation from improper [[masanobu-fukuoka]] observed that "rain does not fall from the heavens; it issues
 forth from the ground. Deserts do not form because there is no rain; rather,
 rain ceases to fall because the vegetation has disappeared." This insight
 challenges conventional approaches that treat the symptom (lack of water)
@@ -56,30 +36,7 @@ rainfall.
 One gram of healthy soil can contain approximately 100 million nitrogen-fixing
 bacteria and other soil-enriching microbes. Fukuoka believed that soil
 containing seeds and these microorganisms could be the spark that restores the
-deserts. Modern [[mycoremediation-basics]] research has confirmed that fungal
-networks play a critical role in soil aggregation, water retention, and
-nutrient cycling -- all essential for reversing
-desertification.
-Fungi in arid environments form associations with plant roots that extend the
-effective root zone, allowing plants to access water and nutrients from larger
-soil volumes. [[dark-septate-endophytes]] and [[arbuscular-mycorrhizal-fungi]] are
-particularly important in desert ecosystems, where they help plants survive
-under extreme water
-stress.
-## Fukuoka's Desert Greening Method
-
-Fukuoka proposed a practical approach to revegetating barren lands:
-
-- Seeds of green manure trees (such as black wattle, which grows in areas with less than 2 inches of annual rainfall) are mixed with clover, alfalfa, bur clover, grain, and vegetable seeds
-- The seed mixture is coated first with soil, then with clay, forming microbe-containing clay pellets
-- These pellets are scattered by hand over deserts and savannahs
-- Seeds remain dormant until rain falls and conditions are right for germination
-- The clay coating protects seeds from being eaten by birds and rodents
-- A year later, surviving plants indicate what species are suited to the local climate
-- The goal is to rapidly blanket deserts with a green cover of grass, which brings back the rains
-
-This approach aligns with [[fukuoka-desert-greening-projects]] and
-[[fukuoka-desert-reclamation]] principles. See also
+deserts. Modern [[dark-septate-endophytes]] and [[fukuoka-desert-greening-projects]] and
 [[natural-farming-desert-reclamation]] for additional
 context.
 ## Reversal Approaches
@@ -89,8 +46,7 @@ context.
 - **Holistic grazing**: Mimicking natural herd movement patterns to stimulate plant growth
 - **Soil building**: Composting, biochar, mulching to restore organic matter
 - **Windbreaks**: Tree and shrub belts to reduce wind erosion
-- **Land contouring**: [[keyline-design]], terracing to prevent water runoff
-- **[[mycorrhizal-inoculation]]**: Introducing beneficial fungi to restore soil biology and plant-fungal networks
+- **Land contouring**: [[mycorrhizal-inoculation]]**: Introducing beneficial fungi to restore soil biology and plant-fungal networks
 
 ## Global Scale and Impact
 
@@ -146,5 +102,4 @@ regarding the climate impact of methane from ruminants, his approach has
 produced documented improvements in vegetation cover and soil health on
 ranches across Africa, Australia, and the
 Americas.
-
 ## See Also

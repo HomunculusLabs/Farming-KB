@@ -132,16 +132,10 @@ alkaloid profile characteristic of the genus Copelandia:
 ## Similar Species
 | Species | Distinguishing Features |
 |---|---|
-| [[copelandia-cyanescens]] | More intensely bluing; larger |
 | [[copelandia-tropicalis]] | Tropical distribution; different cystidia |
-| [[copelandia-cambodginiensis]] | SE Asian; different spore morphology |
 | [[copelandia-anomalus]] | Rare; anomalous morphology |
-| [[panaeolus-retirugis]] | Non-Copelandia cystidia; less blueing |
 | [[psilocybe-cubensis]] | Larger; purple-brown spore print |
 ## See Also
-- [[copelandia-cyanescens]]
 - [[copelandia-tropicalis]]
-- [[copelandia-cambodginiensis]]
 - [[psilocybe-cubensis]]
-- [[psilocybe-mexicana]]
 - [[panaeolus-subbalteatus]]

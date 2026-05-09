@@ -88,16 +88,7 @@ incubating in a 100x15mm petri dish can inoculate 10 quarts (liters)
 of grain spawn. If the mycelium is chopped in a high-speed stirrer
 and diluted, one petri dish culture can effectively inoculate 40-100
 quarts of sterilized grain. This expansion is described in detail in
-[[growing-gourmet-nutrified-agar-media]].
-
-### Stage II: Producing Grain Spawn
-
-Cultures from petri dishes are expanded by inoculating sterilized
-grain housed in bottles, jars, or bags. Once grown out, each jar can
-inoculate 10 times its original mass (range 5-20x) for a total of
-three generations of expansion. Grain spawn is inoculated into sawdust
-or straw at rates between 3-15% (wet mass of spawn to dry mass of
-substrate). See [[grain-spawn-generation]] for detailed methods.
+[[grain-spawn-generation]] for detailed methods.
 
 ### Stage III: Sawdust Spawn Production
 
@@ -133,8 +124,6 @@ inoculation technique failures.
 
 ## See Also
 
-- [[mushroom-contamination-vectors]] for the six vectors framework
 - [[grain-spawn-generation]] for Stage II methods
-- [[growing-gourmet-nutrified-agar-media]] for Stage I agar media recipes
 - [[enriched-sawdust-cultivation]] for Stage IV substrate formulation
 - [[mushroom-cultivation-sterile-laboratory-design]] for facility design specifications

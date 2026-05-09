@@ -44,33 +44,7 @@ Figs grow at a moderate to fast pace, typically reaching 3–6 m in cultivation 
 
 ## Climate Range and Cold Hardiness
 
-This is the most significant differentiator between the two. Mulberries — especially Russian mulberry (*[[morus-alba]]* var. *tatarica*) and Illinois everbearing — are extremely cold-hardy, reliably growing in USDA Zone 4 (−34 °C / −30 °F). Figs are generally hardy to Zone 7–8 unprotected, though cold-hardy cultivars like 'Chicago Hardy' and 'Brown Turkey' can survive in Zone 6 with winter protection (mulching, wrapping, or burying). In hot, dry climates (Zone 9–10), both thrive, but figs have the edge — they are native to the Mediterranean and tolerate intense heat, drought, and alkaline soils that stress mulberries.
-
-## Fruit Characteristics
-
-### Taste and Texture
-
-Figs have a unique honey-sweet, jammy flavor with a soft, syrupy interior. Fresh figs are among the most decadent fruits, but they have a very short shelf life and are rarely available commercially. Mulberries resemble elongated blackberries with a milder, less complex flavor — sweet but less intense than figs. Red and black mulberry varieties tend to be sweeter and more flavorful than white.
-
-### Yield and Season
-
-Figs are exceptionally productive, often yielding 10–30 kg per mature tree annually. Many varieties produce two crops: a breba crop on last year's wood in early summer, and a main crop on new wood in late summer to fall. Mulberries produce a single large crop in late spring to early summer, with yields of 10–25 kg per tree. Both trees are so prolific that fruit often goes unpicked.
-
-### Nutrition
-
-Figs are rich in calcium, potassium, iron, and dietary fiber. Dried figs are a concentrated energy source. Mulberries are high in vitamin C, vitamin K, iron, and resveratrol (especially dark varieties), with growing interest in their antioxidant properties.
-
-## Soil and Water Needs
-
-Both trees are forgiving of poor soils, but figs prefer well-drained, slightly alkaline soil and are highly drought-tolerant once established — their deep taproots seek out moisture. Mulberries tolerate a wider pH range on the acidic side and prefer consistent moisture, though mature trees handle moderate drought. Neither tolerates waterlogged soils long-term. Both are good choices for marginal or disturbed soils common in permaculture site establishment.
-
-## Pest and Disease Resistance
-
-Both trees are among the most pest-resistant fruit options available. Figs can suffer from fig beetles (Cotinis), nematodes in sandy soils, and root rot in poorly drained conditions. Mulberries have almost no serious pest or disease problems in most climates, making them perhaps the lowest-maintenance fruit tree possible. Birds are the main "pest" for both — netting or planting enough for sharing is the standard permaculture approach.
-
-## Propagation Ease
-
-Both are trivially easy to propagate from cuttings. Fig cuttings root readily from 15–30 cm hardwood sections in perlite, water, or directly in soil. Mulberries root quickly from softwood cuttings in spring or hardwood cuttings in winter. Air layering also works well for both. This ease of propagation makes them ideal for plant sharing, nursery income, or rapid [[food-forest-establishment]].
+This is the most significant differentiator between the two. Mulberries — especially Russian mulberry (*[[food-forest-establishment]].
 
 ## Wildlife Value
 
@@ -127,6 +101,5 @@ Beyond fruit production, both trees serve multiple functions in a permaculture d
 
 ## See Also
 
-- [[eric-toensmeier]]
 - [[ficus-carica]]
 - [[food-forest]]

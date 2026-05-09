@@ -131,8 +131,6 @@ plant spirits.
 
 ## See also
 
-- [[ayahuasca-tourism-peru-retreat-landscape]]
 - [[ayahuasca-tourism-economics-peruvian-amazon]]
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
 - [[amaringo-ayahuasca-visions-shipibo-iconography]]
 - [[urban-ayahuasca-iquitos-healing]]

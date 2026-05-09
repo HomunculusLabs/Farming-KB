@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Fungal Disease Management
 
-JADAM controls fungal diseases through a two-tier approach: [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] for prevention (maintaining microbial diversity on leaf surfaces) and [[ultra-low-jadam-sulfur-js]] for treatment of active outbreaks. The philosophy: do not rely only on pesticide -- change environmental conditions favorable for fungus.
+JADAM controls fungal diseases through a two-tier approach: [[ultra-low-jadam-sulfur-js]] for treatment of active outbreaks. The philosophy: do not rely only on pesticide -- change environmental conditions favorable for fungus.
 
 ## Prevention: JMS Microbial Occupation
 
@@ -122,11 +122,8 @@ Prevent soil-borne and seed-borne fungal diseases at planting:
 
 ## See Also
 
-- [[jadam-sulfur-application]] -- detailed JS preparation and application
 - [[jadam-pesticide-for-powdery-mildew]] -- focused powdery mildew program
-- [[jadam-microorganism-solution-jms]] -- preventive biological disease management
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] -- understanding plant immune responses to fungal pathogens## Related
 
-- [[fungal-chromogens-and-color-change]]
 - [[jadam-seed-treatment-leaf-mold]]
 - [[jadam-canker-leaf-spot-pesticide]]

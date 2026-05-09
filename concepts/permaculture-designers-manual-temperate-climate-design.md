@@ -95,10 +95,7 @@ Sod seeding with clover (0.7 kg/ha), trace elements, and water-retaining gels. C
 ## Related Topics
 
 - permaculture designers manual temperate climate design - Temperate climate overview
-- [[permaculture-designers-manual-cold-climate-design]] - Cold climate design
 - [[permaculture-designers-manual-greenhouse-design]] - Greenhouse systems
-- [[permaculture-designers-manual-windbreak-species]] - Windbreak species
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
-- [[permaculture-designers-manual-cropping-patterns]] - Cropping patterns
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

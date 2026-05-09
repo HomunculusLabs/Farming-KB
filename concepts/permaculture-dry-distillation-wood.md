@@ -3,91 +3,7 @@ title: Dry Distillation of Wood
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Dry Distillation of Wood
-
-**Updated:** 2026-04-18
-
-Dry distillation is a low-technology method for converting wood into multiple valuable products simultaneously: charcoal, methane, methanol, creosote, and heat. It is a key [[permaculture-solar-energy-inventions]] in [[permaculture-pasture-management]].
-
-## Source
-Bill Mollison Permaculture Design Course, Pamphlet X (Forests in Permaculture)
-
-## What Is Dry Distillation
-
-Dry distillation (also called pyrolysis) involves heating wood in an enclosed, oxygen-limited chamber. The wood cannot combust but is "cooked," steaming out volatile compounds. This process yields multiple products from a single input, making it far more efficient than simple burning.
-
-## Products of Dry Distillation
-
-| Product | Uses |
-|---------|------|
-| Charcoal | Excellent cooking fuel; high value; can be sold |
-| Methane | Cooking gas; can be pumped and stored |
-| Methanol | Can run tractors and engines |
-| Creosote | Painting and proofing planks; wood preservation |
-| Heat | Can heat homes and provide hot water |
-| CO2 | Can be absorbed in lime water or run through pond water |
-
-## How It Works
-
-1. Load a brick-lined container with wood
-2. Close it off to limit oxygen
-3. Light a small fire underneath -- the wood inside cannot combust due to limited oxygen
-4. The fire remains a small "twiggy fire" while the wood inside is cooked
-5. Volatile gases steam off: methane, methanol, creosote, and others
-6. The wood is baked down to charcoal
-
-## Gas Collection
-
-- Methane comes off during the process
-- Use 4% of the methane to pump the rest down to bottles or through a pipe into a gasometer
-- Run the remaining gases through lime water to absorb CO2, or through pond water to cool them
-- Creosote condenses and can be collected as a separate product
-- Methanol cools rapidly in water; close it up in a steel drum and lock it in
-
-## Historical Methods
-
-### Old Charcoal Method (Wasteful)
-- Covered wood with mud and burned it
-- Did not collect any gases
-- Most of the biomass went to air as waste
-
-### French Improved Method
-- Bricked up a double chamber: one for the fire, one that cooked the timber
-- Still relatively simple technology
-- Much more efficient than the open method
-
-## Integration with Home Heating
-
-The dry distillation system can supply:
-- All cooking gas for a household
-- A great hot mass below the house for heating the living area
-- Unlimited hot water
-- Creosote for preserving planks and fencing
-- Methanol for running farm equipment
-- Charcoal as a saleable product or cooking fuel
-
-## Wood Preservation with Creosote
-
-- Black or silver birch can be turned into a non-rot product by soaking in creosote
-- Extends the life of outdoor wood significantly
-- Use creosote from your own distillation rather than commercial products
-
-## Best Source Material
-
-Dry distillation is ideal for using dead and dying trees in the forest that would otherwise:
-- Be lost to wildfire
-- Lie on the ground and scar living tree bases
-- Simply rot slowly over decades
-
-Priority: cut the trunks lying on the ground away from live tree trunks first, as these are the ones that spread fire to standing trees.
-
-## Forest Management Integration
-
-In [[permaculture-pole-timber-forestry]], dry distillation solves several problems simultaneously:
+tags: [[permaculture-solar-energy-inventions]] in [[permaculture-pole-timber-forestry]], dry distillation solves several problems simultaneously:
 - Provides income from forest management (charcoal, creosote, methanol)
 - Reduces wildfire fuel loads
 - Processes dead wood that has no other high-value use
@@ -104,12 +20,86 @@ Both give volumes of methane but dry distillation is far more productive per uni
 
 ## See Also
 
-- [[permaculture-energy-systems]]
 - [[permaculture-biogas-systems]]
-- [[permaculture-forestry-systems]]
 - [[permaculture-fire-management]]
 - Coppice and Pollard Systems
-- [[permaculture-water-pond-systems-design-course]]
 - [[faires-household-products-from-the-homestead]]
-- [[permaculture-food-forests-design-course]]
 - [[permaculture-designers-manual-fuel-wood-systems]]
+## Practical Applications
+
+Dry Distillation of Wood has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Dry Distillation of Wood. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

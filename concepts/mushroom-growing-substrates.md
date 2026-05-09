@@ -1,7 +1,7 @@
 ---
 title: Mushroom Growing Substrates
 created: 2026-04-28
-tags: [mycology, cultivation, fungi, substrate]
+tags: [[mycology, cultivation, fungi, substrate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -123,13 +123,9 @@ and fruiting areas to minimize cross-contamination.
 
 ## See Also
 
-- [[oyster-mushroom-substrates]]
-- [[mushroom-cultivation-fundamentals]]
-- [[bulk-substrate-preparation]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[mushroom-substrate-sterilization-and-pasteurization]]
 
-- [[mushroom-spawn-preparation]]
 - [[mycelial-growth-and-colonization]]
-- [[mushroom-contamination-prevention]]
 - [[fruiting-chambers-and-environmental-control]]
 - [[query-how-to-make-agar-plates-for-mushroom-cultivation]]

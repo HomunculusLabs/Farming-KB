@@ -81,13 +81,8 @@ Solomon notes that modern breeding for compact, uniformly sized vegetables (espe
 
 ## Related
 
-- [[solomon-root-exudates-and-allelopathy]]
-
 - [[solomon-intensive-vs-extensive-spacing]] for specific spacing recommendations based on root systems
-- [[solomon-watering-and-dry-farming]] for moisture management
 - [[intensive-gardening-critique-solomon]] for soil preparation for root development
-- [[solomon-complete-organic-fertilizer-guide]] for placing nutrients within root reach
 - [[root-competition-plant-spacing-solomon]]
-- [[growing-beans-peas-legume-guide]]
 - [[solomon-growing-beans-and-peas]]
 - [[solomon-root-cellaring-and-crop-storage]]

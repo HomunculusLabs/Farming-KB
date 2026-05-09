@@ -135,8 +135,6 @@ connecting needs to skills and surpluses within walking distance.
 
 ## Related Concepts
 
-- [[container-gardening-guide]]
 - [[community-garden-design]]
-- [[guerilla-gardening-guide]]
 - [[permaculture-zone-and-sector-planning]]
 - [[backyard-water-harvesting]]

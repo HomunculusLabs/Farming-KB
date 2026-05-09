@@ -114,9 +114,6 @@ Mead has a lower equipment barrier but honey costs can rival or exceed apple cos
 
 ## See Also
 
-- [[cider-making-guide]]
 - [[mead-making-guide]]
-- [[braggot-brewing-guide]]
 - [[comparison-beer-brewing-vs-cider-making]]
-- [[comparison-mead-making-vs-beer-brewing]]
 - [[comparison-kefir-vs-kombucha]]

@@ -94,7 +94,6 @@ Everything from the threshing and winnowing process is used on the farm:
 
 This stands as an example against today's throw-away culture.
 
-See also: [[holzer-brandroggen-fire-rye]], [[small-scale-grain-growing]], [[grain-harvesting-and-storage]], [[grain-processing-and-milling-guide]], [[holzer-polyculture-examples]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
+See also: [[small-scale-grain-growing]], [[grain-processing-and-milling-guide]], [[sepp-holzer-soil-fertility-and-green-manure]]
 - holzer ancient cereals growing
 - [[holzer-green-manure-and-soil-building-plants]]

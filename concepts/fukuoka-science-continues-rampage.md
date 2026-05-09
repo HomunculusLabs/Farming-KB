@@ -30,57 +30,11 @@ Instead, universities break knowledge into fragments and specialties, producing 
 
 Fukuoka extended his critique to medicine. "The advance of the hospital is merely a barometer of the collapse of the human body." As medicine becomes more advanced and the number of hospitals increases, the human body becomes frailer.
 
-The medical system treats symptoms created by the very lifestyle and diet that modern civilization promotes. This creates a vicious cycle: bad food creates sickness, medicine treats the sickness, the patient returns to the same bad food. The solution is not better medicine but better food -- food grown naturally in [[fukuoka-living-soil]].
-
-## Genetic Engineering
-
-Fukuoka was particularly alarmed by the rapid progress of genetic engineering and biotechnology. "Scientists who haven't the slightest idea of the true meaning and purpose of human life are busy devising ways to program life."
-
-He argued that organisms created through genetic manipulation would be "imperfect creatures caught within the domain of the concepts of space and time." Because computers and genetic engineers work within the framework of space and time, they can never create anything that transcends this framework -- which is to say, they can never create anything truly alive in the deepest sense.
-
-## The Illusion of Control
-
-The fundamental error of science, in Fukuoka's view, is the illusion that nature can be understood and controlled through human intellect. "Nature is always free of intents, actions, and plans; it has no secret purposes, no ulterior motives. The will of God cannot be comprehended within the limits of human knowledge. Hence man should never have subjected nature to scientific analysis."
-
-This does not mean that science has no value. But its value is limited to the relative world of appearances. It cannot grasp the absolute reality that underlies all phenomena. This insight is central to Fukuoka's [[fukuoka-critique-western-dietetics-nutritional-science]].
+The medical system treats symptoms created by the very lifestyle and diet that modern civilization promotes. This creates a vicious cycle: bad food creates sickness, medicine treats the sickness, the patient returns to the same bad food. The solution is not better medicine but better food -- food grown naturally in [[fukuoka-critique-western-dietetics-nutritional-science]].
 
 ## The Laws of Agricultural Science Exposed
 
-Fukuoka devoted particular attention to dismantling the supposed laws upon which modern agriculture is built. He examined each foundational law from the standpoint of [[fukuoka-natural-vs-scientific-farming]].
-
-### Law of Diminishing Returns
-
-This law states that technology proves effective up to some upper limit, but exceeding this limit has the reverse effect of diminishing yields. Such a limit is not fixed in the real world; it changes with time and circumstance.
-
-Fukuoka acknowledged the surface truth of this law but argued it reflects a failure to understand nature -- a world without loss or gain. When one has understood that there is no large or small in nature, only a great harmony, the notion of diminishing returns is reduced to a petty, circumstantial view.
-
-### Equilibrium
-
-Nature works constantly to strike a balance, to maintain an equilibrium. When this balance breaks down, forces come into effect that work to restore it. Water flows from high to low; chemical transformation stops when equilibrium is restored.
-
-While true on the surface, this law is merely one manifestation of the great harmony and balance of nature. Equilibrium and adaptability are, beyond any doubt, means of protecting the balance, order, and harmony of nature.
-
-### Compensation and Cancellation
-
-When rice is planted densely, plants send out fewer tillers; when planted sparsely, more stalks grow per plant. The notion of cancellation can be seen in the smaller heads of grain that result from increasing the number of stalks per plant.
-
-These forces of compensation and cancellation are mutually antagonistic, acting to negate each other by which mechanism nature seeks to maintain balance. There was never any need for man to set into play his vision of these opposing forces.
-
-### Relativity
-
-Factors that determine crop yield are associated with other factors, and all change constantly in relation to each other. No particular amount of seed broadcast, quantity of fertilizer applied, or sowing period is decisive or critical under all conditions.
-
-This law, while practically useful, leads farming further and further away from nature when scientists draw up elaborate hypotheses and add explanations for everything, upsetting the order and balance of the natural world.
-
-### Law of Minimum
-
-First proposed by Justus von Liebig, this law states that yield is determined by the one element in shortest supply. The amount of water the barrel holds is determined by that nutrient in shortest supply.
-
-Fukuoka argued that if there is a law of the minimum, then there must also be a law of the maximum. Plants have an aversion not only to nutrient deficiencies, but to deficiencies and excesses of anything.
-
-## All Laws Are One
-
-Each of these laws is treated and applied independently, yet Fukuoka's conclusion was that nature is an indivisible whole; all laws emanate from one source and return to [[fukuoka-mu-nothingness-philosophy]], or nothingness.
+Fukuoka devoted particular attention to dismantling the supposed laws upon which modern agriculture is built. He examined each foundational law from the standpoint of [[fukuoka-mu-nothingness-philosophy]], or nothingness.
 
 "Nature is an absolute void. Those who see nature as a point have gone one step astray, those who see it as a circle have gone two steps astray, and those who see breadth, matter, time, and cycles have wandered off into a world of illusion distant and divorced from true nature."
 
@@ -98,13 +52,7 @@ Fukuoka did not advocate the abandonment of all science and technology. He advoc
 
 "Mankind has developed through the human intellect and now through that same faculty is in the process of collapsing. Yet, even at this juncture, we continue to seek salvation through the intellect. Can you not see that the only road to such salvation is by discarding the intellect?"
 
-See also: [[fukuoka-natural-vs-scientific-farming]], [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-spiritual-philosophy-farming]], [[fukuoka-nature-perfect-imperfect]], [[fukuoka-return-to-nature-philosophy]], [[fukuoka-critique-laws-agricultural-science]], [[fukuoka-critique-western-dietetics-nutritional-science]]
-
-## Merged: Fukuoka Drifting Clouds Illusion Of Science
-
-# Drifting Clouds and the Illusion of Science
-
-In this chapter of [[fukuoka-one-straw-revolution-impact]], Fukuoka washes citrus storage boxes by the river and offers one of his most lyrical and pointed critiques of the scientific worldview, using everyday examples from farming and daily life.
+See also: [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-nature-perfect-imperfect]], [[fukuoka-critique-laws-agricultural-science]], [[fukuoka-one-straw-revolution-impact]], Fukuoka washes citrus storage boxes by the river and offers one of his most lyrical and pointed critiques of the scientific worldview, using everyday examples from farming and daily life.
 
 ## Two Paths of Inquiry
 

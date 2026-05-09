@@ -141,10 +141,11 @@ Short-rotation coppice systems (5–8 year cycles) can provide sustained
 firewood and mulch while preventing seed set through regular harvesting
 before reproductive maturity. Its use is recommended only where native or
 strict containment protocols are in place.
+## See Also
+
+- [[alnus-glutinosa]]
+- [[comfrey-permaculture]]
 
 ## See Also
 
-- [[robinia-pseudoacacia]]
-- [[alnus-glutinosa]]
-- [[tagasaste]]
-- [[comfrey-permaculture]]
+- [[legume-trees-and-nitrogen-fixing-permaculture-species]]

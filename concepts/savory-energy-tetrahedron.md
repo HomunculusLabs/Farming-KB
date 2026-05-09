@@ -134,8 +134,6 @@ thousands of dollars in hay purchases and herd reduction.
 
 ## Related Concepts
 
-- [[savory-energy-flow-and-solar-capture]]
 - [[savory-ecosystem-foundation-blocks]]
-- [[savory-water-cycle-management]]
 - [[savory-mineral-cycle-management]]
 - [[savory-grazing-mechanics-and-root-sacrifice]]

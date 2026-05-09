@@ -3,79 +3,12 @@ title: mycoremediation-techniques
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, mycoremediation, mycofiltration, bioremediation]
+tags: [[mycology, mycoremediation, mycofiltration, bioremediation]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Mycoremediation Techniques
 
-Practical methods for designing, building, and testing mycoremediation systems. From Cotter's "Organic Mushroom Farming and Mycoremediation," Chapter 22. See [[cotter-mycoremediation-overview]] for the foundational principles.
-
-## Prototyping and Testing
-
-### Why Prototyping Is Essential
-
-Every remediation site is unique with varying climate, hydrology, and microbial ecology. Small-scale pilot studies determine:
-
-- Which fungal species is most effective against the target contaminant
-- How much biomass is needed for the full-scale installation
-- Optimal water flow rate and contact time
-- Installation costs and maintenance requirements
-- Data from prototypes supports grant proposals
-
-### Tabletop Mycofiltration Unit
-
-A simple test unit can be built for ~$30:
-
-- Three-tiered plastic module with a recirculating water filter
-- Simulates site conditions and remediation processes in miniature
-- Tests multiple variables: species efficiency, biomass volume, flow rate
-- Can use a species sequence approach (multiple species in series)
-- Provides data on the life of the filter and when replacement is needed
-
-### What Prototypes Determine
-
-1. **Rate of flow**: Determines contact time between mycelium and contaminant. Adjust with biomass volume, substrate particle size, or number of filtration modules.
-2. **Biomass needed**: Based on the fungus's efficiency, contact time, flow rate, and contaminant concentration. Calculate using water displacement: submerge biomass in a graduated container; displaced volume equals biomass volume.
-3. **Fungal species efficiency**: Test multiple species or strains under simulated field conditions. A species sequence uses multiple filtration units with different species.
-
-## Mycofiltration System Design
-
-### Water Flow Considerations
-
-- The simplest filtration unit uses gravity to feed water through the system
-- Particle size of the growing medium is critical: large particles allow fast flow (reduced contact time), fine particles may bind together and prevent flow entirely
-- Experiment with particle size and perform drainage tests during design
-- Stack modules or place them downhill of each other to maximize efficiency
-- Mycelial tenacity varies by species: dense binders (reishi, turkey tail) suit strong flows; loose mycelium suits slower flows
-
-### Enzyme Harvesting
-
-A filtration prototype can also harvest enzymes by "washing mycelium":
-
-1. Insert sterile open-ended tubing into the biomass at an angle
-2. Allow tubing to sit for one week so mycelium heals and seals around it
-3. Add biological or chemical trigger solutions through the tubing
-4. The solution sits in the mycelial block without flowing
-5. Fungi produce metabolic responses (novel antibiotics, specific enzymes) to the stimulus
-6. Harvest the metabolic products from the effluent
-7. This method concentrates specific enzymes by exposing mycelium to target contaminants
-
-### Full-Scale Installation Considerations
-
-- Install pretreatment to remove large particles before water reaches the fungal filter
-- Design for maintenance access and filter replacement
-- Monitor effluent continuously from the first flush
-- Plan for disposal or further processing of contaminated biomass
-- Calculate filter lifespan through continuous testing
-
-## Testing Methods
-
-### Testing Biological Contaminants
-
-**Cell Counting Protocol:**
-1. Perform a gram stain to validate culture identity and purity
-2. Prepare serial dilutions using the dilution-to-extinction method
-3. Spread dilutions across [[agar]] plates; incubate overnight
+Practical methods for designing, building, and testing mycoremediation systems. From Cotter's "Organic Mushroom Farming and Mycoremediation," Chapter 22. See [[agar]] plates; incubate overnight
 4. Count individual colonies; use plates with 30 or fewer colonies for accuracy
 5. Multiply colony count by the inverse of the dilution factor
 6. Sample at initiation, 30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, then every 6 hours
@@ -124,12 +57,6 @@ A filtration prototype can also harvest enzymes by "washing mycelium":
 - Blewits (Clitocybe nuda): Hyperaccumulate metals in mycelium
 
 ### Hydrocarbons and Oil
-- [[oyster-mushrooms]] (Pleurotus spp.): Extremely effective at breaking down oil
-- Can be trained to degrade motor oil and related compounds
-
-### Herbicides and Pesticides
-- Oyster mycelium: Degrades atrazine at 3x labeled application rate
-- Agrocybe spp.: Break down endocrine disruptors like BPA via laccase enzymes
 - [[white-rot-fungi]]: Degrade chlorinated compounds found in pesticides
 
 ### Biological Pathogens
@@ -146,3 +73,22 @@ A filtration prototype can also harvest enzymes by "washing mycelium":
 
 ### Runoff Management
 ## See Also
+## Practical Considerations
+
+Successful implementation of mycoremediation-techniques requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

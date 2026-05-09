@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [remediation, environment]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 
 # Enzyme-Based Bioremediation
@@ -13,7 +14,7 @@ Enzyme-based bioremediation uses isolated or immobilized enzymes, rather than wh
 
 This approach offers several advantages over conventional bioremediation with whole cells, including operation under conditions that would be lethal to living organisms, faster reaction rates per unit biomass, and the ability to target specific contaminants without the complexity of maintaining viable microbial populations.
 
-Enzyme-based remediation complements the broader [[fungal-enzyme-systems-in-bioremediation]] and [[enzymatic-degradation-in-mycoremediation]] approaches that rely on enzyme production by living fungal cultures.
+Enzyme-based remediation complements the broader [[enzymatic-degradation-in-mycoremediation]] approaches that rely on enzyme production by living fungal cultures.
 
 ## Advantages of Enzyme-Based Approaches
 
@@ -45,27 +46,11 @@ Manganese peroxidase oxidizes Mn(II) to Mn(III), which forms stable complexes wi
 
 These Mn(III)-organic acid complexes act as diffusible oxidants that can attack phenolic compounds and initiate lipid peroxidation chains that degrade non-phenolic pollutants.
 
-The detailed mechanisms of ligninolytic enzymes in bioremediation are described in [[ligninolytic-enzymes-bioremediation]] and [[fungal-lignin-degradation-enzymology]].
+The detailed mechanisms of ligninolytic enzymes in bioremediation are described in [[fungal-lignin-degradation-enzymology]].
 
 Laccase is a multicopper oxidase that uses molecular oxygen as an electron acceptor to oxidize phenolic and aniline substrates.
 
-Laccase has a wide range of environmental applications including degradation of textile dyes, phenolic pollutants, and polycyclic aromatic hydrocarbons, as detailed in [[brown-rot-fungi-biodegradation]].
-
-Laccase activity can be enhanced through mediators such as 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ABTS) or 1-hydroxybenzotriazole (HBT) that extend the substrate range to non-phenolic compounds.
-
-## Peroxidases and Oxidoreductases
-
-Horseradish peroxidase (HRP) is a plant-derived enzyme that has been widely studied for treatment of phenolic wastewaters.
-
-HRP catalyzes the oxidation of phenols and aromatic amines in the presence of hydrogen peroxide, producing phenoxy radicals that polymerize and precipitate from solution.
-
-The polymerization and precipitation mechanism removes phenolic contaminants from water without requiring complete mineralization, which reduces the hydrogen peroxide demand.
-
-Chloroperoxidase from the fungus Caldariomyces fumago can oxidize a wide range of halogenated compounds and has been investigated for degradation of chlorinated phenols and other halogenated pollutants.
-
-Microbial peroxidases including versatile peroxidase and dye-decolorizing peroxidase offer additional enzymatic tools for environmental remediation with varying substrate specificities and operational stability.
-
-Fungal cytochrome P450 monooxygenases, as described in [[fungal-cytochrome-p450-biodegradation]], catalyze the oxidation of diverse organic pollutants including polycyclic aromatic hydrocarbons, pesticides, and pharmaceuticals.
+Laccase has a wide range of environmental applications including degradation of textile dyes, phenolic pollutants, and polycyclic aromatic hydrocarbons, as detailed in [[fungal-cytochrome-p450-biodegradation]], catalyze the oxidation of diverse organic pollutants including polycyclic aromatic hydrocarbons, pesticides, and pharmaceuticals.
 
 These intracellular enzymes can be applied in cell-free systems after extraction and purification, though their requirement for NADPH as a cofactor presents practical challenges for large-scale application.
 
@@ -99,21 +84,7 @@ Free enzymes can be delivered to contaminated sites through injection into groun
 
 Enzyme encapsulation in liposomes or polymeric nanoparticles can protect enzyme activity during delivery and provide controlled release at the target contamination zone.
 
-[[fungal-immobilization-bioreactor-systems]] describes reactor configurations for continuous enzyme treatment of contaminated water streams.
-
-## Challenges and Future Directions
-
-The high cost of enzyme production and purification remains the primary barrier to widespread application of enzyme-based bioremediation.
-
-Using crude enzyme preparations or whole-cell preparations with enhanced enzyme expression can reduce costs compared to purified enzyme systems.
-
-Enzyme stability under environmental conditions is limited by denaturation, proteolysis, and inhibition, which constrains treatment duration and effectiveness.
-
-Protein engineering approaches including directed evolution and rational design are being used to improve the stability, activity, and substrate range of remediation enzymes.
-
-Enzyme production using recombinant expression systems in yeast, fungi, or bacteria can provide the large quantities needed for field-scale applications.
-
-Integration of enzyme-based treatment with other remediation technologies, including [[fungal-bioreactor-effluent-treatment]] and [[bioremediation-using-fungi]], can create synergistic treatment trains that address the limitations of individual approaches.
+[[fungal-bioreactor-effluent-treatment]] and [[fungal-bioremediation-mechanisms]], can create synergistic treatment trains that address the limitations of individual approaches.
 
 Development of robust enzyme formulations that maintain activity during storage, transport, and application is essential for practical deployment of enzyme-based remediation technologies.
 

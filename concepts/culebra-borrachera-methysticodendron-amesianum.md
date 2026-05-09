@@ -5,7 +5,8 @@ tags: [ethnobotany, colombia, kamsa, sibundoy, solanaceae, scopolamine,
   tropane-alkaloids, schultes, tree-datura]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -134,9 +135,6 @@ sets it apart even from the most potent tree Datura varieties.
 
 ## See Also
 
-- [[golden-guide-datura-and-nightshade-deliriants]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
 - [[iochroma-fuchsioides-borrachera-ethnobotany]]
-- [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 - [[golden-guide-hallucinogenic-plants-overview]]

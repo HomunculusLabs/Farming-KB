@@ -38,10 +38,7 @@ phanerochaete sordida has proven to be one of the most effective fungal
 inoculants for creosote-contaminated soil remediation. In field-scale trials
 conducted by Lamar and coworkers, P. sordida demonstrated both the highest
 transformation capacity and the ability to grow at lower temperatures compared
-to [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and trametes hirsuta. This temperature
-tolerance is critical for field applications where soil temperatures can drop
-to 8 degrees Celsius, posing problems for thermophilic species like P.
-chrysosporium. [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] has also shown excellent capacity to
+to [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] has also shown excellent capacity to
 transform complex PAHs in creosote-contaminated soil and represents a promising
 alternative inoculant, particularly for the more recalcitrant five- and
 six-ring PAHs.
@@ -93,39 +90,7 @@ fungi initially attack high molecular weight PAHs, transforming them into more
 bioavailable intermediates that are subsequently mineralized by indigenous
 bacteria. This synergistic approach leverages the complementary capabilities
 of fungal and bacterial communities and may achieve more complete remediation
-than either group alone. The role of [[mycorrhizal-fungi-bioremediation]] in
-creosote-affected soils also warrants consideration, particularly for sites
-supporting vegetation.
-
-## Challenges and Limitations
-
-Field applications of fungal creosote remediation face several challenges.
-Maintaining adequate fungal biomass in large volumes of soil is difficult,
-and inoculum distribution can be uneven. Temperature fluctuations,
-particularly in temperate climates, can reduce fungal activity. Competition
-from indigenous microorganisms may limit fungal establishment. Additionally,
-the cost-effectiveness of fungal inoculation must be justified relative to
-the indigenous degradation capacity. Despite these challenges, fungal
-remediation shows particular promise for recalcitrant high molecular weight
-PAHs that are poorly degraded by bacterial systems alone.
-
-## Environmental Factors and Field Considerations
-
-The effectiveness of fungal treatment for creosote-contaminated soils depends
-on numerous environmental parameters. Soil moisture content, oxygen
-availability, temperature, and pH all influence fungal metabolic activity and
-enzyme production. In field applications, the heterogeneous distribution of
-creosote constituents creates variable contamination zones requiring targeted
-treatment strategies. Bioaugmentation with pre-adapted fungal strains may
-improve degradation rates compared to relying on indigenous fungal populations
-alone. Long-term monitoring of PAH metabolite profiles is essential to confirm
-complete mineralization rather than mere transformation of parent compounds.
-
-## Related Concepts
-
-- [[fungal-pah-degradation-and-soil-bioremediation]] for PAH-specific
+than either group alone. The role of [[fungal-pah-degradation-and-soil-bioremediation]] for PAH-specific
   degradation pathways
-- [[white-rot-fungi-bioremediation]] for ligninolytic enzyme mechanisms
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[soil-amendment-reference]] for amendment selection guidance
 - [[bioaugmentation-strategies]] for inoculum preparation methods

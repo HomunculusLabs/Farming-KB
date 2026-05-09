@@ -125,13 +125,8 @@ In practice, the best gardens use both. Leaf mold builds long-term soil health a
 
 ## Related
 
-- [[query-how-do-i-use-spent-mushroom-substrate-in-my-garden]]
-
 - [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]] Topics
 
-- [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
 - [[query-how-to-build-healthy-garden-soil]]
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[query-how-to-build-a-compost-pile-that-works]]
-- [[query-what-is-chop-and-drop-mulching-and-why-should-i-use-it]]
 - [[query-what-is-the-role-of-bacteria-in-soil-health]]

@@ -1,24 +1,7 @@
 ---
 title: "Water Harvesting and Pond Design"
 created: 2026-04-28
-tags: [permaculture, water-harvesting, ponds, swales, irrigation, conservation]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Water Harvesting and Pond Design
-
-In an ecological garden, water is designed in, not added on. Rainfall is
-captured by rooftops and directed not to a storm drain's banishment but
-to where it can be used, just as a tree harvests water with its leaves
-and directs it to its roots. Rain collects in cisterns and ponds, is
-slowed by gentle contours and swales, and then stored in the soil to be
-slowly released and used, mimicking a natural watershed. This approach
-to water management is a core component of
-[[hemenway-ecological-garden-design]].
+tags: [[hemenway-ecological-garden-design]].
 
 ## The Fivefold Water-Saving Strategy
 
@@ -85,21 +68,7 @@ end, blueberry bushes capture any remaining water.
 
 This system integrates pond, swale, garden, and berry bushes into a
 healthy, smoothly functioning whole that substantially reduces reliance
-on municipal water. It exemplifies how [[hemenway-soil-as-water-storage]]
-works in practice.
-
-### Pond Shape and Edge Effect
-
-The shape of a garden pond affects how many plants will fit at its
-edge. A perfectly round pond has the least edge, whereas a pond with
-lobes and bays, or in a starburst pattern, can hold an enormous number
-of bog plants and moisture lovers. Fingers of land extending into the
-pond will be drier at their raised centers while boggy species grow at
-the squishy margins. Varying the depth makes room for more types of fish
-and water plants. Frogs and tadpoles bask in warm shallows while deeper
-water supports koi and other fish.
-
-This relates directly to [[hemenway-edge-effect-in-garden-design]], where
+on municipal water. It exemplifies how [[hemenway-edge-effect-in-garden-design]], where
 maximizing edge increases habitat diversity and productive planting area.
 
 ## Greywater Integration
@@ -111,9 +80,7 @@ greywater closes a loop in the household ecosystem, creating a tight
 cycle that uses far less energy than the conventional linear flow of
 clean water in and dirty water out to a sewage system.
 
-The principles of [[hemenway-greywater-design-philosophy]] treat household
-wastewater not as pollution but as a resource that builds soil, grows
-plants, and completes the [[hemenway-soil-food-web-garden]] cycle.
+The principles of [[hemenway-soil-food-web-garden]] cycle.
 
 ## Swales and Contour
 

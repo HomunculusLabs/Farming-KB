@@ -138,8 +138,6 @@ Generally regarded as safe (GRAS). The German Commission E lists no contraindica
 
 ## See Also
 
-- [[herb-growing-guide]]
 - [[dynamic-accumulators]]
-- [[calendula-officinalis]]
 - [[medicinal-herb-growing]]
 - [[companion-planting]]

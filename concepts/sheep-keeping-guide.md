@@ -99,13 +99,8 @@ The **Great Pyrenees** breed is specifically suited for sheep protection:
 
 ## Related
 
-- [[goose-keeping-guide]] Topics
-
 - [[goat-keeping-guide]] — comparing small ruminants
-- [[cattle-keeping-guide]] — larger ruminant livestock
 - [[pasture-management-and-forage]] — pasture design and rotation
-- [[barn-design-guide]] — housing for sheep
 - [[chicken-keeping-guide]] — mixed livestock systems
-- [[faires-pasture-forage-tree-systems]]
 - [[fukuoka-natural-farming-transcends-time-space]]
 - [[knf-livestock-chicken-house-natural-farming]]

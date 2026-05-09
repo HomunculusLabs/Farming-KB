@@ -10,10 +10,7 @@ sources:
 # History of Psychedelics in the Ancient World
 
 The ancient world was permeated by
-[[psychedelic-plants-and-civilization]]—sacred plant sacraments that
-dissolved personal boundaries, opened channels to the divine, and held human
-communities together through shared ecstatic experience. In *Food of the
-Gods*, [[terence-mckenna]] traces a line from the mushroom cults of the African
+[[terence-mckenna]] traces a line from the mushroom cults of the African
 grasslands through the great mystery religions of the classical world, arguing
 that civilization itself was born from the partnership between humans and
 hallucinogenic
@@ -21,28 +18,7 @@ plants.
 ## Soma: The Vedic Enigma
 
 The Rig Veda, oldest of the Hindu scriptures, contains nearly 120 hymns to
-[[soma-and-the-sacred-mushroom-debate]]—a plant and a god simultaneously.
-The Ninth Mandala is entirely devoted to praising this magical
-intoxicant:
-> "Where there is eternal light, in the world where the sun is placed, in that immortal imperishable world place me, O Soma."
->
-> "Thy juices, purified Soma, all-pervading, swift as thought, go of themselves like the offspring of swift mares."
-
-Soma was described as having "swift as thought" juices, as a celestial steed,
-as something that gave supernatural power to poets and immortality to the
-devout. It strengthened limbs, preserved from disease, lengthened life, and
-made the singer feel immortal. It was called "the pillar of the World." Yet
-the botanical identity of Soma was lost as Indo-European migrations carried
-its users far from the original source, local substitutes were experimented
-with, and the preparation faded into esoteric oral tradition until it was
-forgotten
-entirely.
-### Candidates for Soma
-
-Multiple plants have been proposed as the original Soma:
-
-- **Amanita muscaria** (fly agaric) — Gordon Wasson's famous 1971 theory. Wasson made a brilliant case that a mushroom lay behind the mystery, and he was the first to bring botanically sophisticated, pharmacologically informed inquiry to the question. However, Amanita is unreliable as an ecstatic intoxicant; Wasson himself never had a visionary experience from it despite repeated attempts. McKenna notes that muscimol, its likely active compound, "has been described as merely an emetic and a sedative."
-- **[[peganum-harmala]]** (Syrian rue) — Rich in the beta-carboline harmine. David Flattery and Martin Schwartz argued this was the original identification by Sir William Jones in 1794. Flattery contended that "the consumption of sauma may have been the only means recognized in Iranian religion of seeing into menog existence before death."
+[[peganum-harmala]]** (Syrian rue) — Rich in the beta-carboline harmine. David Flattery and Martin Schwartz argued this was the original identification by Sir William Jones in 1794. Flattery contended that "the consumption of sauma may have been the only means recognized in Iranian religion of seeing into menog existence before death."
 - **Psilocybin mushrooms** — McKenna's own suggestion, noting the connection to cattle that pervades Soma lore and the unparalleled visionary power of psilocybin.
 
 The connection between Soma and cattle is central to any identification. The
@@ -52,10 +28,7 @@ symbiosis of the African grasslands. Zoroaster may have objected not to Haoma
 itself but to the bull sacrifice that accompanied it, aware of the connection
 between cattle and mushrooms in the old religion of the Great
 Goddess.
-## The [[eleusinian-mysteries]]
-
-For nearly two thousand years, the
-[[eleusinian-mysteries-history-and-structure]] were celebrated on the plain
+## The [[eleusinian-mysteries-history-and-structure]] were celebrated on the plain
 near Athens. Cicero called them the highest achievement of Greek civilization.
 Aristides wrote: "Is there a single Greek, a single Barbarian so ignorant, so
 impious, as not to consider Eleusis as the common temple of the

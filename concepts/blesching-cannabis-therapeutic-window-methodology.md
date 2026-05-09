@@ -126,11 +126,9 @@ window before adverse effects appear. Patients should be prepared to adjust
 their dose when switching between strains and should track their responses
 to different strain-dose combinations in a medication journal.
 
-## Related Concepts
+## Related
 
 - [[blesching-cannabis-safety-profile]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
-- [[blesching-cannabis-forms-and-preparations]]
 - [[blesching-cannabis-addiction-dependence]]
 - [[blesching-cannabis-chi-score-methodology]]

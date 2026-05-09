@@ -32,7 +32,7 @@ The genus *Stropharia* includes species commonly found on nutrient-rich substrat
 
 S. caerulea produces surface fractal mycelia, characterized by diffuse, slowly extending search fronts.
 
-This contrasts with mass fractal species such as [[phanerochaete-velutina]], *[[coprinus-picaceus]]*, and *Phallus impudicus*.
+This contrasts with mass fractal species such as [[coprinus-picaceus]]*, and *Phallus impudicus*.
 
 Mass fractal species have open systems with well-defined, rapidly extending cords.
 
@@ -124,7 +124,5 @@ These quantitative measures allow rigorous comparison of foraging strategies bet
 
 ## See Also
 
-- [[phanerochaete-velutina]] for a contrasting mass fractal forager
 - [[hypholoma-fasciculare]] for another surface fractal species
-- [[serpula-lacrymans]] for another cord-forming fungus studied in soil systems
 - [[gloeophyllum-trabeum]] for another saprotrophic basidiomycete

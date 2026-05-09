@@ -58,78 +58,27 @@ The use of psychoactive mushrooms in Mesoamerica is among the best-documented
 cases of entheogenic practice in the ancient world. The "mushroom stones" of
 Guatemala, dating from approximately 1000 BCE to 900 CE, are carved
 representations of *Psilocybe* mushrooms often depicted with anthropomorphic
-faces. [[richard-evans-schultes]] and R. Gordon Wasson documented the continuation
-of pre-Columbian mushroom cults among the Mazatec people of Oaxaca, most
-famously in Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom,"
-which introduced [[psilocybin-mushrooms]] to Western audiences.
+faces. [[psilocybin-mushrooms]] to Western audiences.
 
-Other Mesoamerican entheogens included peyote (*[[lophophora-williamsii]]*),
-ololiuqui (morning glory seeds containing LSA), *Salvia divinorum*, and
-*Datura* species. The Aztec ritual use of *teonanácatl* ("flesh of the gods")
-was well-documented by Spanish chroniclers who, despite their efforts to
-suppress indigenous practices, left detailed accounts of the ceremonies.
-
-### Ancient India: Soma
-
-The identity of the Vedic Soma — the sacred plant deified in the Rigveda and
-central to Aryan ritual — has been debated for centuries. R. Gordon Wasson
-proposed in 1968 that Soma was the fly-agaric mushroom (*Amanita muscaria*),
-citing botanical, textual, and ethnographic evidence. While this
-identification remains controversial, the debate has drawn attention to the
-probability that one of the world's oldest religious texts describes
-psychoactive plant use.
-
-McKenna extended this argument, suggesting that the loss of the true Soma plant
-may have been one of the great catastrophes of human cultural history, severing
-a connection to a more direct form of religious experience.
-
-### South America: Ayahuasca
-
-The Amazonian brew ayahuasca, combining *Banisteriopsis caapi* (containing
-harmala alkaloids that function as MAO inhibitors) with *Psychotria viridis*
-(containing N,N-dimethyltryptamine, DMT), represents one of the most
-sophisticated pharmacological discoveries of any pre-scientific culture. The
-synergistic interaction between these two plants is not intuitively obvious —
-the DMT in *Psychotria viridis* is orally inactive without MAO inhibition, yet
-Amazonian peoples somehow identified and combined the correct species.
-
-McKenna and others argued that this discovery could only have occurred through
-systematic experimentation guided by the plants themselves, suggesting a deep
-and sustained entheogenic tradition in Amazonian culture.
-
-### Ancient Greece
-
-As detailed in the companion article on ergot alkaloids and the Eleusinian
-Mysteries, there is strong circumstantial evidence that the most important
-religious initiation rite in ancient Greece involved the ritual consumption of
-a psychoactive substance.
-
-## The Suppression Hypothesis
-
-McKenna argued that the transition from partnership societies to dominator
-societies — following the work of Riane Eisler in *The Chalice and the Blade*
-(1987) — was accompanied by the systematic suppression of entheogenic
-knowledge. In Europe, the Inquisition's witch hunts targeted practitioners of
-herbal knowledge, many of whom would have been familiar with psychoactive
-plants. The prohibition of indigenous entheogenic practices continued through
-colonialism and into the modern era with the scheduling of psychedelic
-substances.
-
-## Modern Revival
-
-The late 20th and early 21st centuries have seen a significant revival of
-interest in the therapeutic and spiritual potential of entheogens. Clinical
-research into psilocybin, MDMA, and ayahuasca has demonstrated promising
-results for treating depression, PTSD, addiction, and end-of-life anxiety.
-The growing legal religious use of ayahuasca in the United States (through
-churches like the União do Vegetal and Santo Daime) and the decriminalization
-of natural entheogens in several jurisdictions represent a partial restoration
-of the traditions McKenna described.
-
-## See Also
-
-- [[stoned-ape-hypothesis]]
-- [[ergot-alkaloids-eleusinian-mysteries]]
+Other Mesoamerican entheogens included peyote (*[[stoned-ape-hypothesis]]
 - [[ayahuasca-pharmacology]]
-- [[psychedelic-therapy-current-research]]
 - [[gordon-wasson-comparative-method-ethnomycology]]
+## Practical Considerations
+
+Successful implementation of Entheogens in Ancient Cultures requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

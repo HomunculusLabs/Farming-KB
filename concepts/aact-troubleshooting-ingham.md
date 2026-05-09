@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. [[elaine-ingham]], Soil Foodweb Inc.
+Source: The Field Guide I for [[elaine-ingham]], Soil Foodweb Inc.
 
 Ingham provides systematic troubleshooting guidance based on years of Soil Foodweb Inc. testing. The approach: identify the symptom, test the variables, and fix the root cause.
 
@@ -37,113 +37,63 @@ If your compost has documented adequate fungi but they aren't appearing in the b
 
 ### Check Aeration
 - Fungi are lost when oxygen drops below 5.5 ppm
-- Fine bubbles may be physically destroying fungal hyphae
-- Biofilm buildup on tank surfaces creates anaerobic zones
+- Fine bubbles may be physically destroying [[aact-definitions-and-types-ingham]], [[aact-ph-water-quality-ingham]].
+## Practical Considerations
 
-### Check Food Additions
-- If fungal biomass is low, back off bacterial foods (molasses)
-- Bacteria and fungi compete; reducing bacterial growth reduces fungal inhibition
-- Fungi need specific fungal foods: humic acids, fish hydrolysate, soybean meal
+When working with AACT Troubleshooting (Ingham), several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
 
-### Check Filtering
-- Filtering tea often results in loss of fungi
-- Use bags with openings up to 200 micrometers without trouble
-- If sludge covers the filter, fungi get filtered out — use a finer bag for the compost
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
 
-## Symptom: Anaerobic Odors
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
 
-Bad smells (rotten egg, sulfur, ammonia, vinegar, sour milk, vomit) indicate anaerobic conditions:
+## Common Challenges and Solutions
 
-1. **Reduce food additions**: Back off to minimal foods — molasses and kelp only
-2. **Check aeration rate**: Is the pump adequate for the volume?
-3. **Clean the machine**: Biofilm on surfaces creates anaerobic zones
-4. **Check water temperature**: Higher temp = less oxygen capacity
-5. **Check water quality**: High salts or chlorine may be killing organisms
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
 
-## Symptom: Oxygen Dropping Mid-Brew
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
 
-The critical danger period is 14-20 hours into the brew:
-- Something grew rapidly and consumed all oxygen
-- Then ran out of food and stopped (oxygen recovered)
-- During the dip, beneficial fungi may have been killed
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
 
-Solutions:
-- Reduce total food additions
-- Change the timing — perhaps add foods at different points
-- Ensure adequate aeration capacity
-- Monitor DO during this critical window
+## Future Directions
 
-## Symptom: Low Bacterial Numbers
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
 
-Possible causes:
-- Compost lacks bacterial diversity (use better compost)
-- Water pH too extreme (test water pH, adjust if needed)
-- Chlorine in water (aerate off or use dechlorinated water)
-- Temperature too cold (organisms grow slowly below 63°F/17°C)
-- Too much fungal food, not enough bacterial food
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
 
-## Symptom: Fungi Increasing as Molasses Decreases
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
 
-This is actually expected and positive:
-- Bacteria and fungi compete for resources
-- Reducing bacterial food (molasses) reduces competition
-- Fungi can grow more freely
-- For fungal-dominated teas, use minimal molasses and more fungal foods
-
-## Cleaning and Maintenance
-
-### Tank Cleaning
-- Wash biofilms off after EVERY run
-- Flat-bottom tanks are problematic — hard to clean 90-degree angles
-- Tanks with non-removable lids are problematic — foam and splash create biofilm on undersides
-- Any surface in contact with the tea will develop biofilm — think of a ship's hull
-
-### Air Stone/Diffuser Cleaning
-- Clean ceramic or glass air diffusers in 3% hydrogen peroxide, soak until no dark color comes out
-- Periodically switch to 3% vinegar solution to avoid selecting for peroxide-resistant organisms
-- All diffuser types (baskets, bags, tubes, disks) eventually get plugged by biofilm
-
-### General
-- WIPE the slime off — running bleach through will not work
-- The biofilm is more attached than water flow alone can remove
-- Wash foam off brewer insides after each brew
-- Normal cleanliness — no need for microbiology lab standards, but no homes for termites either
-
-## Water Quality Issues
-
-### Chlorine
-- Chlorine kills organisms — must be removed before brewing
-- Aerate water for 24+ hours before brewing
-- Citric acid can neutralize chlorine, but you must know the exact chlorine level and add the right amount — not the best approach for variable water supplies
-- Consider water filtration (reverse osmosis, carbon filters)
-
-### High pH Water
-- Very alkaline or very acidic water kills organisms
-- If water pH is extreme, find another source or buffer with humic/fulvic acids
-- 3 teaspoons of citric acid drops 100 gallons of water by approximately 1 pH unit
-
-### High Salt (EC)
-- High sodium and salt levels are harmful to organisms
-- Options: reverse osmosis filtration, add humic acids with bacteria/fungi to complex the salts
-- You must address high salts — they will not go away on their own
-
-## The "Back to Baseline" Strategy
-
-When troubleshooting, Ingham recommends:
-1. Strip your recipe back to the minimum: molasses and kelp only
-2. Brew with this baseline recipe
-3. Test the tea (or at least do the smell test)
-4. If baseline works, add ingredients back one at a time
-5. Identify which addition causes the problem
-
-## Testing Protocol
-
-For small operations:
-1. Brew tea, record color, smell, temperature, foam, and feel
-2. Brew a second time — if you get the same results, send a sample to SFI for testing
-3. If organism numbers are good, you're set
-4. If numbers are low, SFI provides 15 minutes of free consultation per sample
-5. Return to step 1 and try again
-
-Test at least the first batch and one follow-up. After that, once-a-year verification in spring is sufficient to confirm the system is working.
- Related concepts include [[aact-definitions-and-types-ingham]], [[aact-brewing-ingredients-ingham]], [[aact-ph-water-quality-ingham]].

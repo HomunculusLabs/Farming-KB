@@ -16,15 +16,7 @@ sources:
 
 # Coryphantha compacta
 
-**Coryphantha compacta** (Engelm.) Britt. et Rose, commonly known as the **Pincushion Cactus**, is a small globular cactus native to the [[fukuoka-natural-farming-in-arid-regions]] of northern Mexico. It is valued by the Tarahumara Indians as a kind of Peyote and is used in shamanic practices.
-
-## Taxonomy and Classification
-
-- **Family:** Cactaceae (Cactus Family)
-- **Genus:** Coryphantha
-- **Species:** C. compacta
-- **Authority:** (Engelm.) Britt. et Rose
-- **[[australian-magic-mushroom-common-names]]:** Pincushion Cactus, Bakana, Wichuri
+**Coryphantha compacta** (Engelm.) Britt. et Rose, commonly known as the **Pincushion Cactus**, is a small globular cactus native to the [[australian-magic-mushroom-common-names]]:** Pincushion Cactus, Bakana, Wichuri
 
 The genus Coryphantha has undergone considerable taxonomic revision over the years. Some authorities have merged it with Mammillaria, while others maintain its distinct status based on differences in the structure of the axillary areoles and the presence of grooved tubercles. The genus name derives from the Greek "koryphe" (summit) and "anthos" (flower), referring to the flowers arising from the crown of the plant.
 
@@ -38,9 +30,7 @@ The root system is typically a thickened taproot that helps the plant survive in
 
 ## Distribution
 
-C. compacta is found in southwestern [[guzman-psilocybin-mushrooms-north-america]], particularly in the desert and semi-desert regions of northern Mexico. It grows in dry, hilly, and mountainous terrain, often partially buried in sandy soil. The species is adapted to extreme temperature fluctuations and low precipitation, characteristics typical of the Chihuahuan Desert ecosystem.
-
-The plant is typically found at elevations between 1,000 and 2,000 meters, growing in well-drained rocky or sandy soils. Its range overlaps significantly with that of true Peyote ([[lophophora-williamsii]]), which may explain why the Tarahumara have incorporated it into their hikuli pharmacopoeia.
+C. compacta is found in southwestern [[lophophora-williamsii]]), which may explain why the Tarahumara have incorporated it into their hikuli pharmacopoeia.
 
 ## Ethnobotanical Uses
 
@@ -48,13 +38,7 @@ The plant is typically found at elevations between 1,000 and 2,000 meters, growi
 
 The Tarahumara Indians of northern Mexico consider Coryphantha compacta a kind of **Peyote** or **Hikuli**. The plant is known locally as **Bakana** (also referred to as Wichuri or Bakana-wa). It is taken by shamans and is both respected and feared within the community.
 
-Bakana is used as a substitute for true Peyote ([[lophophora-williamsii]]) in Tarahumara ceremonies. The Tarahumara recognize multiple species of "hikuli" cacti, each with its own spiritual character and ceremonial application. Bakana is said to be more dangerous than true Peyote, and its use requires greater ceremonial preparation and spiritual fortitude.
-
-### The Tarahumara Hikuli Complex
-
-The Tarahumara maintain a sophisticated classification of psychoactive cacti under the general term "hikuli." This complex includes:
-
-- **Hikuri** — true Peyote ([[lophophora-williamsii]]), the most important visionary cactus
+Bakana is used as a substitute for true Peyote ([[lophophora-williamsii]]), the most important visionary cactus
 - **Bakana** or **Wichuri** — Coryphantha compacta, considered more dangerous
 - **Matsawari** — ariocarpus-retusus or related species
 - **Sunami** — pelecyphora-aselliformis
@@ -96,24 +80,17 @@ The continued use of Bakana by Tarahumara shamans, despite the availability of t
 
 ## Conservation Status
 
-C. compacta, like many cactus species of the Chihuahuan Desert, faces potential threats from habitat destruction, illegal collection for the ornamental plant trade, and overharvesting for traditional use. While the species is not currently listed as endangered, its [[holmgren-long-rotation-forestry-slow-growth]] rate and specific habitat requirements make populations vulnerable to disturbance.
-
-The increasing commercial interest in psychoactive cacti has raised concerns about [[holmgren-forest-management-and-sustainable-harvesting]] practices. International trade in C. compacta and related Coryphantha species is regulated under CITES, though enforcement varies. Conservation of the species requires protecting both the plant itself and the traditional knowledge of its preparation and use among the Tarahumara.
+C. compacta, like many cactus species of the Chihuahuan Desert, faces potential threats from habitat destruction, illegal collection for the ornamental plant trade, and overharvesting for traditional use. While the species is not currently listed as endangered, its [[holmgren-forest-management-and-sustainable-harvesting]] practices. International trade in C. compacta and related Coryphantha species is regulated under CITES, though enforcement varies. Conservation of the species requires protecting both the plant itself and the traditional knowledge of its preparation and use among the Tarahumara.
 
 ## Comparison with Related Species
 
 C. compacta can be compared with other psychoactive cacti of the Tarahumara region:
 
-- [[lophophora-williamsii]] — true Peyote, containing mescaline as its primary alkaloid
-- epithelantha-micromeris — another small cactus used by the Tarahumara
-- ariocarpus-retusus — Matsawari, yet another hikuli cactus
 - [[trichocereus-pachanoi]] — San Pedro, a columnar cactus used in Andean ceremonies
 
 The primary distinction of C. compacta is its phenylethylamine alkaloid profile, which differs from the mescaline-rich profile of true Peyote. This chemical difference likely accounts for the Tarahumara belief that Bakana is more dangerous and unpredictable in its effects compared to Hikuri.
 
 ## See Also
-
-- [[cactus-alkaloids-reference]]
 
 - [[lophophora-williamsii]] — true Peyote, the primary Tarahumara visionary cactus
 - epithelantha-micromeris — another small cactus used by Tarahumara

@@ -111,11 +111,7 @@ Some countries restrict taurine content in energy drinks, with limits typically 
 
 ## See Also
 
-- [[caffeine]]
 - [[nicotine]]
-- [[psilocin]]
 - [[mescaline-entity]]
-- [[salvinorin-a-entity]]
 - [[dmt]]
-- [[muscimol-entity]]
 - [[ergine-entity]]

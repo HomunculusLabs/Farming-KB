@@ -99,24 +99,9 @@ Cannabis also shows cardioprotective properties:
 
 ## Related Topics
 
-- [[cannabis-and-neuroprotection]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-cbd-therapeutic-profile]]
 - [[cannabis-cardiovascular-health]]
-- [[cannabis-for-neurological-conditions]]
-
-## Key Insight
-
-CBD's ability to provide neuroprotection both before and after stroke events, through a CB1-independent mechanism, makes it uniquely valuable among neuroprotective agents. This is a rapidly evolving area of cannabinoid research with significant clinical potential, though human clinical trials are still needed to confirm the promising pre-clinical results.
-
-## See Also
-
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[fukuoka-japan-postwar-agriculture]]
-- [[cannabis-topical-applications]]
-
-## Merged: Cannabis Stroke Research
-**Source:** The Cannabis Health Index (Uwe Blesching, 2017) **Last Updated:** 2026-04-18 A stroke (cerebrovascular accident or CVA) is a loss of brain function caused by either ischemic (obstruction preventing blood from reaching brain cells) or hemorrhagic (ruptured blood vessel) events. High blood pressure is the main contributing factor. The [[cannabis-endocannabinoid-system]] is a critical modulator of the brain's response to ischemic injury. These mechanisms are detailed in the broader [[cannabis-and-neuroprotection]] literature. The terpene beta-caryophyllene, a CB2 agonist, may contribute additional anti-inflammatory benefits through the [[cannabis-terpene-entourage-effect-profiles]]. Related: [[cannabis-delivery-methods-comparison]], [[cannabis-health-index]], [[cannabis-cbd-therapeutic-profile]], [[cannabis-thc-therapeutic-profile]]
+- [[cannabis-endocannabinoid-system]] is a critical modulator of the brain's response to ischemic injury. These mechanisms are detailed in the broader [[cannabis-terpene-entourage-effect-profiles]]. Related: [[cannabis-health-index]], [[cannabis-thc-therapeutic-profile]]

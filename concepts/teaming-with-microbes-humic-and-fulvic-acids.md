@@ -9,7 +9,7 @@ sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 
 # Humic and Fulvic Acids
 
-Humic and fulvic acids are organic compounds derived from the decomposition of plant and animal matter. They are the primary components of humus and play central roles in [[soil-food-web]] management, particularly in supporting fungal-dominated soils preferred by trees, shrubs, and perennials. Understanding their function is essential to the [[teaming-with-microbes-bacterial-vs-fungal-dominance]] approach.
+Humic and fulvic acids are organic compounds derived from the decomposition of plant and animal matter. They are the primary components of humus and play central roles in [[teaming-with-microbes-bacterial-vs-fungal-dominance]] approach.
 
 ## What Are Humic and Fulvic Acids?
 
@@ -33,11 +33,7 @@ Fungi thrive on complex organic molecules, and humic acids represent some of the
 
 Both bacteria and fungi can degrade pesticides, but fungi are particularly effective at attacking and breaking up complicated chlorinated carbon rings. To support this bioremediation capacity, soil should be inoculated with organic food resources containing complex proteins — the kind fungi prefer. Humic acids are among these complex protein sources, along with kelp and fish hydrolysate.
 
-In contaminated soils, humic acids also bind heavy metals and pesticides, reducing their bioavailability and toxicity. This binding capacity makes them useful partners in [[cotter-mycoremediation-overview]] efforts.
-
-## Relationship to Humus and CEC
-
-Humic substances are a major component of [[humus-formation-and-soil-organic-matter]]. All tiny soil particles carry electrical charges. Humus particles are small enough to have abundant negatively charged anions that attract positively charged cations (calcium, potassium, sodium, magnesium, iron, ammonium, and hydrogen).
+In contaminated soils, humic acids also bind heavy metals and pesticides, reducing their bioavailability and toxicity. This binding capacity makes them useful partners in [[humus-formation-and-soil-organic-matter]]. All tiny soil particles carry electrical charges. Humus particles are small enough to have abundant negatively charged anions that attract positively charged cations (calcium, potassium, sodium, magnesium, iron, ammonium, and hydrogen).
 
 This cation exchange capacity (CEC) is a key mechanism by which soil retains nutrients. Humus has a CEC 20-100 times higher than clay minerals, making it the most important nutrient reservoir in most soils. A single gram of humus can have a surface area of 800-900 square meters.
 
@@ -50,11 +46,7 @@ The biological production of humic substances contributes directly to soil aggre
 For garden-scale applications, humic acid products are typically applied at the following rates:
 
 - **Soil drench for trees and shrubs:** 1-3 tablespoons of humic acid powder per gallon of water, applied to the root zone in spring and fall. For established trees, use 5-10 gallons of solution per tree.
-- **Foliar spray (fulvic acid):** 1-2 teaspoons of fulvic acid per gallon of water. Apply to leaf surfaces in early morning or late evening for best absorption. Can be combined with [[cervantes-compost-tea-organic-brewing]] applications.
-- **Potting mix amendment:** 1-2 cups of humic acid powder per cubic foot of potting mix. Mix thoroughly before planting.
-- **Seed treatment:** 1 teaspoon of fulvic acid per quart of water. Soak seeds for 4-8 hours before planting to improve germination rates and early vigor.
-- **Lawn application:** 3-6 pounds of humic acid per 1,000 square feet, applied in spring and fall.
-- **Compost tea additive:** 1-2 tablespoons of humic acid per 5 gallons of compost tea during the brewing process. This serves as additional fungal food, especially valuable when brewing [[cervantes-compost-tea-organic-brewing]] intended for woody plants.
+- **Foliar spray (fulvic acid):** 1-2 teaspoons of fulvic acid per gallon of water. Apply to leaf surfaces in early morning or late evening for best absorption. Can be combined with [[cervantes-compost-tea-organic-brewing]] intended for woody plants.
 
 Overapplication is rarely harmful but wasteful. Soils with existing high organic matter (above 5% organic matter) show diminishing returns from humic acid additions compared to degraded or sandy soils.
 
@@ -69,14 +61,7 @@ Humic and fulvic acids enhance nutrient uptake through several distinct mechanis
 
 ## Interaction with Mycorrhizae
 
-Humic acids have a synergistic relationship with [[mycorrhizal-fungi-basics-lowenfels]]. When humic acids are applied alongside mycorrhizal inoculants, colonization rates increase significantly compared to inoculation alone. The proposed mechanisms include:
-
-- Humic acids stimulate root exudation of compounds that signal mycorrhizal fungi to form associations.
-- The improved root architecture caused by humic acid application provides more colonization sites.
-- Humic acids may directly stimulate mycorrhizal hyphal growth in the rhizosphere.
-- The increased nutrient availability from humic acid chelation benefits both the plant host and fungal partner.
-
-In [[faires-hugelkultur-and-forest-garden-strategy]] and perennial polycultures, applying humic acids at planting time alongside mycorrhizal inoculant gives trees and shrubs the strongest possible start.
+Humic acids have a synergistic relationship with [[faires-hugelkultur-and-forest-garden-strategy]] and perennial polycultures, applying humic acids at planting time alongside mycorrhizal inoculant gives trees and shrubs the strongest possible start.
 
 ## Soil pH Buffering
 
@@ -84,45 +69,27 @@ Humic acids function as natural pH buffers, helping to moderate both acidic and 
 
 ## Compost Tea Integration
 
-Humic acids are among the most valuable additives for [[cervantes-compost-tea-organic-brewing]]. When added to actively aerated compost tea during the brewing cycle:
-
-- They provide complex carbon food sources that favor fungal growth in the tea.
-- They chelate micronutrients already present in the compost, keeping them soluble and available to the microbial community.
-- They increase the diversity of microbial species in the finished tea by supporting organisms that specialize in decomposing complex humic molecules.
-- The combination of humic acids with compost tea delivers both the microbial inoculant and the food resources those microbes need to establish in the soil.
-
-For fungal-dominant teas intended for trees and perennials, add humic acid at the start of the brew along with kelp meal and fish hydrolysate. For bacterial-dominant teas for vegetables and annuals, reduce or omit humic acid and use simpler molasses-based foods instead.
-
-## Application Methods
-
-- **Liquid drench:** Dissolve humic acid powder in water and apply as a soil drench around the root zone of trees and shrubs in spring
-- **Compost tea additive:** Add humic acid to fungal compost tea to increase fungal food availability
-- **Foliar spray:** Fulvic acid's small molecular size makes it effective as a foliar spray, allowing direct nutrient uptake through leaves
-- **Dry amendment:** Mix powdered humic acid into potting mixes or transplant holes
-- **Seed treatment:** Soak seeds in fulvic acid solution before planting to improve germination and early root development
-
-## Garden Calendar Integration
-
-In the annual soil food web garden calendar, humic and fulvic acids are applied in spring along with other fungal foods (kelp, fish hydrolysate, phosphate rock dust) to support the microbial community around trees, shrubs, and perennials. They complement the application of brown mulches (leaf litter, bark chips, wood chips) that also support fungal dominance.
-
-## Commercial Sources and Quality
-
-Humic acid products are widely available as soil amendments. Quality varies significantly between sources:
-
-- **Leonardite-derived:** The most common commercial source, mined from oxidized lignite deposits. Dark, highly concentrated, but solubility varies by processing method. Leonardite from the Williston Basin (North Dakota) and from New Mexico deposits are widely used in commercial agriculture.
-- **Extracted from compost:** Less concentrated but more biologically active, containing a wider range of associated organic compounds. These products often contain beneficial microorganisms as well.
-- **Liquid vs. dry:** Liquid formulations are easier to apply as drenches or foliar sprays but have lower concentration. Dry powders are more economical for large-scale soil amendment.
-- **Soluble humic acid flakes:** A middle-ground product that dissolves readily in water while maintaining higher concentration than pre-made liquids.
-
-When selecting a humic acid product, check the percentage of actual humic/fulvic content — some products are diluted with filler materials. A quality product should contain at least 30-50% humic substances. pH matters for solubility: humic acids dissolve best above pH 7, while fulvic acids remain soluble across a wider pH range.
-
-## See Also
-
-- [[humic-acids-soil-biology-ingham]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+Humic acids are among the most valuable additives for [[humic-acids-soil-biology-ingham]]
 - [[mulching-guide]]
-- [[humus-formation-and-soil-organic-matter]]
 - [[soil-food-web-nutrient-cycling]]
-- [[teaming-with-microbes-classic-soil-science]]
 - [[compost-tea-aact]]
 - [[mycorrhizal-fungi-bioremediation]]
+## Practical Considerations
+
+Successful implementation of Humic and Fulvic Acids requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

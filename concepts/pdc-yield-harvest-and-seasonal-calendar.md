@@ -3,18 +3,7 @@ title: PDC Yield Harvest and Seasonal Calendar
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# PDC Yield Harvest and Seasonal Calendar
-The principle of obtaining a yield is central to [[pdc-urban-permaculture-design-principles]]. Every system in nature is prolific in its bounty, and permaculture systems should produce useful things -- edible, medicinal, construction materials, beneficial microclimates, or any other type of useful output. A well-designed [[permaculture-mandala-garden-design]] produces all these different products at the same time. The Williams PDC course explores yield broadly, encompassing not just food but all useful outputs from a design, and emphasises the importance of planning harvests around seasonal calendars.
-
-## Understanding Yield
-
-### Beyond Food
-
-In a permaculture sense, yield is not limited to edible crops. The principle of stacking of functions implies that you try to produce as many yields as possible from any one design element. A [[query-how-to-start-a-backyard-orchard]], for example, yields:
+tags: [[permaculture-design-principles]]. Every system in nature is prolific in its bounty, and permaculture systems should produce useful things -- edible, medicinal, construction materials, beneficial microclimates, or any other type of useful output. A well-designed [[query-how-to-start-a-backyard-orchard]], for example, yields:
 - Edible fruit for humans
 - Oxygen and clean water through its biological processes
 - Habitat for insects and animals
@@ -51,41 +40,14 @@ Understanding how much you can harvest without damaging the productive capacity 
 
 ### The Seasonal Rhythm
 
-Permaculture systems are designed around seasonal rhythms. In temperate climates, the year divides into distinct periods with different harvest opportunities. A [[beekeeping-seasonal-calendar]] exists for beekeeping operations.
-
-### Spring (Equinox to Solstice)
-- Asparagus, rhubarb, and early perennial vegetables
-- Overwintered greens (kale, chard, spinach)
-- Early berries (strawberries)
-- Green garlic and spring onions
-- Herb harvests begin (perennial herbs)
-- Seed starting and nursery work
-- Livestock birthing season begins
-- Maple sap collection (late winter/early spring)
-
-### Summer (Solstice to Equinox)
-- Peak vegetable harvest: tomatoes, peppers, cucumbers, squash, beans
-- Soft fruit: berries, currants, gooseberries
-- Stone fruit: cherries, plums, peaches, apricots
-- Grain harvest begins
-- Herb harvest at peak potency
-- Maximum egg production from poultry
-|- Peak honey flow from beekeeping-basics|beekeeping
-|- Food preservation season begins in earnest, including [[lacto-fermentation-and-food-preservation-methods]] and drying
+Permaculture systems are designed around seasonal rhythms. In temperate climates, the year divides into distinct periods with different harvest opportunities. A [[lacto-fermentation-and-food-preservation-methods]] and drying
 
 ### Autumn (Equinox to Solstice)
 - Root vegetable harvest: potatoes, carrots, beets, turnips, parsnips
 - Late fruit: apples, pears, grapes, late berries
 - Nut harvest: walnuts, hazelnuts, chestnuts
-|- Seed saving and selection via [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
-- Grain harvest completion
-- Livestock processing
-- Firewood collection and processing
-- Final food preservation push (fermentation, drying, storage)
-
-### Winter (Solstice to Equinox)
-|- Stored food consumption from [[mollison-designers-cold-caves-root-cellar-storage]] and preserved stores
-|- Winter greens under cover ([[cold-frame-construction]], [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]])
+|- Seed saving and selection via [[mollison-designers-cold-caves-root-cellar-storage]] and preserved stores
+|- Winter greens under cover ([[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]])
 - Citrus harvest (in suitable climates)
 - Planning and design work for next season
 - Equipment maintenance and repair

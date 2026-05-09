@@ -137,13 +137,9 @@ Fukuoka's natural farming takes the opposite stance: if a problem arises, one re
 
 ## Wikilinks
 
-[[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
 [[fukuoka-textdoc-forest-productivity-without-fertilizer]]
-[[fukuoka-textdoc-absence-no-fertilizer-tests]]
 [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
-[[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
-[[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 
 ## See Also

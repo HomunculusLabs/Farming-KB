@@ -122,14 +122,9 @@ generator, and light movers (Light Rail or Sun Circle).
 
 ## Related Pages
 
-- [[cannabis-grow-room-setup]]
 - [[cannabis-indoor-growing-basics]]
-- [[cannabis-lighting-guide]]
 - [[cannabis-hid-lighting-specifications]]
-- [[cannabis-indoor-ventilation-setup]]
 - [[cannabis-environment-control]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[cannabis-indoor-growing-basics]]
-- [[cannabis-indoor-ventilation-setup]]
 - [[cannabis-grow-room-setup]]
 - [[cannabis-perpetual-grow-cycle]]

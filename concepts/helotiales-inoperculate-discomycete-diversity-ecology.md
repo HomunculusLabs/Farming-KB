@@ -18,10 +18,7 @@ type: concept
 
 The Helotiales is one of the largest and most ecologically diverse
 orders of cup fungi (discomycetes) within the class Leotiomycetes
-of the [[ascomycota-phylogeny-major-classes-lineages]]. Members
-are commonly referred to as inoperculate discomycetes because
-their asci lack the operculum (lid) characteristic of the
-[[pezizales-discomycete-ascomycete-diversity]]. The order
+of the [[pezizales-discomycete-ascomycete-diversity]]. The order
 encompasses endophytes, mycorrhizal fungi, plant pathogens, and
 saprobes of litter and woody debris, making it one of the most
 ecologically heterogeneous groups of ascomycetes.
@@ -87,53 +84,6 @@ Many Helotiales function as endophytes, living asymptomatically
 within plant tissues. The dark septate endophytes (DSE), which
 are common root colonizers of plants in stressed environments,
 include numerous helotialean species. See
-[[dark-septate-endophytes-root-colonizing-fungi]] for further
-details. Some members also form ericoid mycorrhizal associations
-with plants in the Ericaceae family.
-
-### Saprobes and Decomposers
-Saprobic Helotiales are among the most abundant fungi in forest
-litter and on decaying wood. They play important roles in
-nutrient cycling, particularly in the decomposition of cellulose
-and lignin. In the fungicolous guild, species of Helicogonium
-(parasites of Stereales) and Unguiculariopsis represent
-specialized mycoparasitic Helotiales.
-
-### Lichenicolous Fungi
-Several genera of Helotiales are exclusively lichenicolous,
-meaning they grow on lichens as parasites or commensals. Species
-of Llimoniella (six species), Rhymbocarpus (nine species), and
-Skyttea (17 species) are all lichenicolous, contributing to the
-complex web of fungal interactions in lichen communities.
-
-## Diversity and Distribution
-
-The Helotiales is one of the most species-rich orders of
-Ascomycetes, with species distributed worldwide from tropical
-to polar regions. In surveys of fungal diversity, Helotiales
-frequently rank among the most commonly encountered orders. In
-freshwater habitats, Helotiales is particularly diverse, with 99
-species reported from aquatic environments. The order is also
-well-represented in grassland soils and temperate forest
-ecosystems.
-
-## Molecular Phylogeny
-
-Molecular phylogenetic analyses have revealed that the
-traditional concept of Helotiales is polyphyletic, with
-representatives found scattered throughout the basal
-Euascomycetes. The polytomy at the base of the euascomycete
-clade, which includes the Helotiales along with several other
-major orders, may represent a radiation event in which many of
-the major clades of the Euascomycetes originated over a
-relatively short evolutionary period. Resolving this polytomy
-will require analyses of nucleotide and amino acid data from
-multiple independent loci.
-
-## See Also
-
-- [[ascomycota-phylogeny-major-classes-lineages]]
-- [[pezizales-discomycete-ascomycete-diversity]]
+[[ascomycota-phylogeny-major-classes-lineages]]
 - [[dark-septate-endophytes-root-colonizing-fungi]]
-- [[fungicolous-fungi-parasitic-interfaces]]
 - [[mycorrhizal-diversity-assessment]]

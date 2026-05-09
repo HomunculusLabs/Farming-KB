@@ -118,13 +118,8 @@ Major cultivation challenges include susceptibility to Phytophthora root rot, me
 
 ## See Also
 
-- [[piper-nigrum-entity]]
 - [[piperine]]
-- [[curcumin]]
 - [[zingiber-officinale]]
-- [[ocimum-sanctum]]
 - [[withania-somnifera]]
-- [[glycyrrhiza-glabra]]
 - [[boswellia-serrata]]
-- [[commiphora-myrrha]]
 - [[berberine]]

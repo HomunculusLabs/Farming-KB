@@ -28,9 +28,9 @@ type: query
 
 Mangroves are among the most carbon-dense ecosystems on Earth. On average, mangroves store approximately **1,023 Mg C per hectare** in their biomass and soils combined (Donato et al., 2011). By comparison, most tropical terrestrial forests store between 150–250 Mg C/ha — meaning mangroves hold roughly **4–7× more carbon** per unit area.
 
-Mangrove soils alone can contain **496–1,024 Mg C/ha** in just the top meter, because waterlogged anaerobic conditions slow decomposition and allow [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to accumulate for centuries. Below-ground carbon accounts for roughly 70–90% of total mangrove carbon stocks, making soil protection essential for [[gaias-garden-rock-terrace-climate-mitigation]].
+Mangrove soils alone can contain **496–1,024 Mg C/ha** in just the top meter, because waterlogged anaerobic conditions slow decomposition and allow [[gaias-garden-rock-terrace-climate-mitigation]].
 
-They cover less than 1% of tropical forest area but store roughly **3–5× more carbon per unit area** than upland [[fungal-biodiversity-tropical-forests]]. Protecting mangrove soils from disturbance is therefore one of the most effective single actions for preventing large-scale carbon emissions [[fukuoka-natural-farming-in-tropical-regions]].
+They cover less than 1% of tropical forest area but store roughly **3–5× more carbon per unit area** than upland [[fukuoka-natural-farming-in-tropical-regions]].
 
 ## What is "blue carbon" and why does it matter?
 
@@ -116,13 +116,5 @@ As sea levels rise and storm intensity increases under climate change, mangroves
 
 ## Further Reading
 
-- **[[mangrove-ecosystems-and-coastal-restoration]]** — See the main topic page for detailed coverage of mangrove ecology, restoration techniques, and permaculture-relevant design principles: `[[dighton-fungi-mangrove-coastal-ecosystems]]`
-- **Blue Carbon Initiative**: https://www.bluecarboninitiative.org
-- **Global Mangrove Watch**: https://www.globalmangrovewatch.org
-
-*Last reviewed: 2026-04-28. Data and figures reflect best available peer-reviewed estimates at time of writing.*
-
-## See Also
-
-- [[decomposition]]
+- **mangrove ecosystems and coastal restoration** — See the main topic page for detailed coverage of mangrove ecology, restoration techniques, and permaculture-relevant design principles: `[[decomposition]]
 - [[permaculture]]

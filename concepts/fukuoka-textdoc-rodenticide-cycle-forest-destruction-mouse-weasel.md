@@ -132,9 +132,6 @@ nature carry on its affairs without his interference.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]] for the detailed pine rot analysis
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] for the broader cascade
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]] for the philosophical stance on causation
 - [[fukuoka-textdoc-natural-order-microbial-ecology]] for microbial ecosystem balance
-- [[fukuoka-textdoc-pesticide-microbe-mutation-risk]] for microbial destabilization
 - [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]] for the weed resistance problem

@@ -91,11 +91,8 @@ the fungal partner, illustrating the law of conservation of energy.
 
 ## Mycorrhizae and Soil Food Web Connections
 
-Mycorrhizal fungi are central nodes in the [[lowenfels-soil-food-web-succession]].
-They produce [[lowenfels-glomalin-soil-aggregation]], a sticky protein that
+Mycorrhizal fungi are central nodes in the [[lowenfels-glomalin-soil-aggregation]], a sticky protein that
 binds soil particles into stable aggregates. Their hyphae serve as food for
-[[lowenfels-soil-fungi-decomposition]] and fungal-feeding nematodes. The
-rhizosphere bacterial communities described in
 [[lowenfels-rhizosphere-bacteria-plant-interaction]] often work synergistically
 with mycorrhizae, with some bacteria acting as mycorrhiza helpers that
 stimulate fungal colonization. Mycorrhizal health is supported by practices

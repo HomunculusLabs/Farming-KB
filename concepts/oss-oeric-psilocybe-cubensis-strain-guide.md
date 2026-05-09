@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Psilocybe Cubensis Strain Guide"
 created: 2026-04-28
-tags: [mycology, strain-identification, taxonomy, oss-oeric]
+tags: [[mycology, strain-identification, taxonomy, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -118,9 +118,6 @@ and sub-Saharan Africa.
 
 ## Related Topics
 
-- [[oss-oeric-growing-parameters-cubensis]] for environmental needs
 - [[oss-oeric-spore-syringe-preparation]] for spore handling
-- [[field-guide-psilocybin-mushroom-species-identification]]
 - [[oss-oeric-contamination-troubleshooting]]
-- [[oss-oeric-dosage-guidelines-and-potency]] for potency information
 - [[oss-oeric-rice-cake-tek-methodology]] for cultivation methods

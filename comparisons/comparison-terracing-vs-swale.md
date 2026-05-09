@@ -22,33 +22,6 @@ while swales primarily harvest and infiltrate water. Understanding their
 differences is essential for anyone designing earthworks on sloped property.
 
 ## Terracing
-[[mollison-terracing-slope-management]]
-Terraces have been used for millennia across civilizations, from the rice
-paddies of Southeast Asia to the Inca agricultural systems of the Andes.
-Mollison's permaculture designers manual details how terraces are
-constructed by cutting into the hillside and using the excavated material to
-build retaining walls on the downhill side, creating a level growing surface.
-Terraces can be built from stone, wood, earth, or reinforced with geotextiles
-depending on the slope gradient, soil type, and available materials. The key
-engineering consideration is ensuring the retaining wall can withstand the
-hydrostatic pressure of saturated soil behind it.
-
-Terraces are most valuable on steep slopes (greater than 15 degrees) where
-level ground for cultivation is otherwise unavailable. They transform
-unfarmable hillsides into productive agricultural land and are permanent
-infrastructure that, once built, provides stable growing surfaces for
-decades or centuries. Terraces are particularly well-suited to annual crop
-production, intensive vegetable gardening, and orchard establishment where
-level ground improves access, irrigation efficiency, and soil management.
-
-The significant drawbacks include high construction cost and labor intensity,
-especially for stone-built terraces. Poorly constructed terraces can fail
-catastrophically during heavy rainfall, causing landslides and property
-damage. Mollison emphasizes the importance of adequate drainage behind
-retaining walls and proper compaction of the terrace fill to prevent
-settling and structural failure over time.
-
-## Swale
 [[swale-design-construction]]
 Swales are shallow, level-bottomed ditches excavated along the contour of a
 slope to capture surface runoff and allow it to infiltrate into the soil
@@ -117,8 +90,6 @@ recommends integrating both approaches in comprehensive slope management
 plans that address water, access, and growing space simultaneously.
 
 ## See Also
-- [[comparison-hugelkultur-vs-terracing]]
 - [[comparison-keyline-vs-swale]]
-- [[comparison-dam-construction-vs-swale-design]]
 - [[comparison-terracing-vs-swales]]
 - [[pdc-earthworks-and-swales]]

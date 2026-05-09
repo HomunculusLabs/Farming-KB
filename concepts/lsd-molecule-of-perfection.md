@@ -78,11 +78,7 @@ Ludiomil nearly doubles the strength of acid while slightly altering the experie
 
 ## Related Topics
 
-- [[lsd-reference]]
 - [[5-meo-dmt-compound-profile]]
-- [[dmt-dimethyltryptamine-experience-guide]]
 - [[psychedelic-safety-guidelines-turner]]
-- [[consciousness-and-psychedelics]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[turner-brief-history-psychedelics-ancient-to-modern]]
 - [[turner-psychedelic-combination-experience-reports]]

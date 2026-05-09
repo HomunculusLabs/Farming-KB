@@ -116,16 +116,11 @@ JADAM's answer: ultra-low-cost, self-sufficient, money-free farming.
 ## See Also
 
 - JADAM Ultra-Low-Cost Agriculture -- if a broader JADAM page exists
-- [[legume-nitrogen-dynamics]] -- nitrogen fixation as natural fertilizer input
 - [[natural-farming-vs-organic-farming]]
 
 ## Related
 
-- [[jadam-sese-philosophy]]
 - [[jadam-post-2020-agriculture]]
-- [[jadam-natural-pesticide-philosophy]]
 - [[jadam-human-manure-liquid-fertilizer]]
-- [[jadam-natural-farming-philosophy]]
 - [[jadam-history-founders]]
-- [[jadam-bongha-village-proof]]
 - [[jadam-fertilizer-program-examples]]

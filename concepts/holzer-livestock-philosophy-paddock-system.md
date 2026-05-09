@@ -77,10 +77,8 @@ Wild deer: mouflon, chamois, ibexes, red deer, roe deer, fallow deer
 Poultry: chickens, ducks, geese, quail, pheasants, capercaillie, hazel grouse
 Domestic: pigs, cattle, horses, sheep, goats, rabbits
 
-See also: [[holzer-pig-keeping-paddock-system]], [[permaculture-grazing-and-pasture]], [[pig-husbandry-permaculture]], [[goat-husbandry-detailed-guide]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
+See also: [[permaculture-grazing-and-pasture]], [[goat-husbandry-detailed-guide]]
 - [[holzer-livestock-philosophy-pig-breeds]]
-- [[microfungal-species-diversity-large-areas]]
 - [[holzer-wild-cattle-and-old-breeds]]
 
 ## Species-Specific Integration Strategies

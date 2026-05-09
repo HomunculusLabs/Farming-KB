@@ -3,7 +3,7 @@ title: Fungal Decomposition Kinetics
 created: 2026-04-10
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -114,11 +114,7 @@ directly relevant to predicting the trajectory of climate change.
 
 ## Related
 
-- [[fungal-wood-decay-types]]
 - [[fungal-enzyme-activity-nutrient-availability]]
-- [[fungal-biogeochemistry]]
 - [[fungal-life-history-strategies]]
-- [[fungal-resource-use-efficiency]]
 - [[lignin-degradation-mechanisms-wood-rot-fungi]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-leaf-litter-succession]]

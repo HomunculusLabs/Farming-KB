@@ -94,11 +94,8 @@ Amazonian shamanism operates within a cosmological framework where the visible w
 The Amazonian shaman's relationship with plant intelligence is central to their practice. Plants are understood as teachers — each psychoactive plant is believed to possess its own spirit or consciousness that communicates directly with the practitioner during visionary states. The knowledge gained from these encounters includes not only healing techniques but also information about the natural world, social organization, and the nature of reality itself.
 
 ## See Also
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-tassili-cave-paintings]]
 - Mckenna Tryptamines Consciousness
-- [[ayahuasca-preparation]]
 - [[banisteriopsis-caapi]]
-- [[chacruna-plant]]
 - [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 - [[urban-ayahuasca-iquitos-healing]]

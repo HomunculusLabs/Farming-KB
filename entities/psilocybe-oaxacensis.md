@@ -125,11 +125,7 @@ Differentiation within this group requires microscopic examination of spore dime
 
 ## See Also
 
-- [[psilocybe-cubensis]]
 - [[psilocybe-mexicana]]
-- [[psilocybe-zapotecorum]]
-- [[psilocybin-compound]]
-- [[psilocin]]
+- [[psilocybin]]
 - [[baeocystin]]
-- [[banisteriopsis-caapi]]
 - [[salvia-divinorum]]

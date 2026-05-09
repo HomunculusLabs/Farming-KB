@@ -8,51 +8,9 @@ sources: []
 type: comparison
 ---
 
-# Pruning [[fruit-tree-guild-roles]]s vs Grafting Fruit Trees
-
-## Overview
-
-Pruning and grafting are the two most essential skills in fruit tree management,
-but they serve entirely different purposes. Pruning shapes and maintains existing
-trees — directing growth, improving light and air penetration, removing diseased
-wood, and stimulating productive fruiting wood. Grafting creates new trees by
-joining a scion (desired variety) to a rootstock (root system), enabling variety
-reproduction, size control, and the combining of desirable traits from two
-different plants. Both require practice and timing, and both are fundamental to
-productive [[orchard-management]].
+# Pruning [[orchard-management]].
 
 ## Pruning Fruit Trees
-
-[[pruning-fruit-trees]]
-
-Pruning is the ongoing management practice of selectively removing branches and
-stems to improve tree health, structure, and productivity. The two primary
-training systems are central leader (a strong central trunk with scaffold
-branches, used for apples, pears, and sweet cherries) and open center or vase
-(no central leader, bowl-shaped canopy, used for stone fruits like peaches,
-plums, and sour cherries). Espalier — training trees flat against walls or
-fences — enables fruit production in very small spaces through precise pruning
-and branch positioning.
-
-The benefits of proper pruning are substantial. Improved light penetration to
-interior branches increases fruit quality and evenness of ripening. Better air
-circulation reduces disease pressure from fungal infections like apple scab and
-brown rot. Removing dead, diseased, and crossing wood maintains tree vigor and
-structural integrity. Pruning controls tree size for manageable harvest access
-and stimulates the renewal of productive fruiting wood. Young tree pruning
-establishes the scaffold structure that determines the tree's productive capacity
-for decades.
-
-The risks of incorrect pruning are real and sometimes irreversible. Removing
-more than 25 to 30 percent of the canopy in a single year stresses the tree and
-stimulates excessive vegetative regrowth. Heading cuts (cutting to a bud) create
-bushy regrowth while thinning cuts (removing entire branches) open the canopy —
-confusing the two is a common beginner mistake. Timing matters critically:
-pruning in late fall or early winter in cold regions can cause winter injury at
-cut sites. Wound dressings are counterproductive — they trap moisture and slow
-the tree's natural compartmentalization process.
-
-## Grafting Fruit Trees
 
 [[grafting-fruit-trees]]
 
@@ -132,12 +90,7 @@ pruning may be combined with grafting to replace declining varieties while
 preserving established root systems.
 
 ## See Also
-- [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]
-
 - [[comparison-grafting-vs-budding-fruit-trees]]
 
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
-
 - [[comparison-pruning-vs-grafting]]
-- [[pruning-fruit-trees]]
 - [[grafting-fruit-trees]]

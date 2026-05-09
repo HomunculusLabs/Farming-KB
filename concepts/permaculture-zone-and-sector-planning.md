@@ -132,8 +132,9 @@ appropriate scale.
 
 ## See Also
 
-- [[permaculture-design-principles-overview]]
-- [[permaculture-pattern-literacy-and-design-from-patterns]]
 - [[gaias-garden-zone-and-sector-garden-layout]]
-- [[holmgren-energy-descent-permaculture-flower]]
 - [[permaculture-plants-food-forest-ground-covers-bamboos]]
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]

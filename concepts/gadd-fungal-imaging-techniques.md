@@ -137,8 +137,6 @@ cellular imaging in fungal research.
 
 ## Related concepts
 
-- [[gadd-fungal-cell-structure]]
 - [[gadd-peroxisomes-ascomycete-lifestyle]]
-- [[gadd-woronin-bodies-hyphal-septation]]
 - [[gadd-mathematical-modelling-fungal-mycelia]]
 - [[gadd-mycelial-network-dynamics]]

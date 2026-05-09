@@ -137,6 +137,5 @@ In many permaculture designs, both genera have a place. Aloe fills the medicinal
 ## See Also
 
 - [[permaculture-plant-selection]]
-- [[aloe-vera]]
 - [[agave-americana]]
 - [[comparison-agave-vs-prickly-pear-cultivation]]

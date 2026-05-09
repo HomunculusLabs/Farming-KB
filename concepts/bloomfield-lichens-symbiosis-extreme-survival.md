@@ -120,13 +120,8 @@ pollutants making them living monitors of environmental health.
 
 ## Related
 
-- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] Topics
-
 - [[bloomfield-fungal-biology-and-hyphal-growth]] for the
   fundamental biology of the fungal partners in lichens
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
-  another major form of [[fungal-symbiosis-with-plants]]
-- [[bloomfield-fungi-in-folklore-and-mythology]] for cultural
-  significance of lichens and other fungi
+- [[fungal-symbiosis-with-plants]]
 - [[fungal-ecology-decomposition-cycles]] for fungal roles in
   ecosystem processes

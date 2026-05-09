@@ -3,12 +3,12 @@ title: Permaculture Beginners Guide — Observation and Mapping
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [permaculture, observation, mapping, patterns, design, burnett, ecology]
+tags: [[permaculture, observation, mapping, patterns, design, burnett, ecology]
 sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
 # Permaculture Beginners Guide — Observation and Mapping
 
-[[graham-burnett]]'s "Permaculture: A Beginners Guide" (2001) frames observation and pattern recognition as foundational skills for [[permaculture-design]]. Rather than requiring mastery of facts, figures, Latin names, and complicatedmasanobu-fukuokamaculture is about recognizing universal patterns and principles and learning to apply these "ecological truisms" to our own gardens and life situations. See [[fukuoka-direct-observation-method]] and [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
+[[permaculture-design]]. Rather than requiring mastery of facts, figures, Latin names, and complicatedmasanobu-fukuokamaculture is about recognizing universal patterns and principles and learning to apply these "ecological truisms" to our own gardens and life situations. See [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
 
 ## Learning to See Patterns
 

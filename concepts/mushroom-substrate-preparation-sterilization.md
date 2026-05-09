@@ -1,7 +1,7 @@
 ---
 title: Mushroom Substrate Preparation and Sterilization
 created: 2026-04-28
-tags: [mycology, cultivation, substrate, sterilization]
+tags: [[mycology, cultivation, substrate, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -11,42 +11,7 @@ type: concept
 # Mushroom Substrate Preparation and Sterilization
 
 Substrate preparation is the foundational step in mushroom cultivation. The
-substrate provides the nutritional base from which fungal [[mycelium]] colonizes and
-eventually fruits. Proper preparation and sterilization determine whether a grow
-succeeds or falls to contamination.
-
-## What Is a Substrate
-
-A substrate is any organic material that supports fungal growth. In nature,
-mushrooms decompose dead wood, leaf litter, or composted soil. In cultivation,
-growers replicate these conditions using formulated mixes of agricultural
-byproducts supplemented with nitrogen and mineral sources.
-
-The ideal substrate balances carbon, nitrogen, moisture, and structure. Carbon
-comes from cellulose and lignin in straw, sawdust, or wood chips. Nitrogen is
-added through bran, grain, or composted manure. Moisture content typically sits
-between 55 and 65 percent by weight.
-
-## Common Substrate Materials
-
-**Straw** is the classic substrate for oyster mushrooms (*Pleurotus* spp.).
-Wheat or oat straw is chopped to short segments, soaked in water, then drained
-to field capacity. Straw is inexpensive and widely available, making it the
-first choice for beginners.
-
-**Hardwood sawdust or wood chips** suit shiitake, lion's mane, maitake, and
-reishi. Oak, beech, and maple are preferred. Softwoods contain resins and
-terpenes that inhibit mycelial growth and should be avoided or thoroughly
-leached.
-
-**Supplemented sawdust** combines hardwood sawdust with 10 to 20 percent wheat
-bran or rice bran. The bran boosts nitrogen content, accelerating colonization
-and increasing yields. This is the industry standard for gourmet mushroom
-production.
-
-**Composted substrates** are used for button mushrooms (*Agaricus bisporus*)
-and some specialty species. Composting involves a controlled thermophilic
-[[decomposition]] phase that breaks down raw materials into a selectively nutritive
+substrate provides the nutritional base from which fungal [[decomposition]] phase that breaks down raw materials into a selectively nutritive
 medium.
 
 **Master's mix**, popularized by gourmet cultivators, blends hardwood sawdust
@@ -130,7 +95,6 @@ handling post-process.
 
 ## See Also
 
-- [mushroom-[[spawn-grain-preparation]]-and-inoculation]
-- [[mushroom-fruiting-chamber-designs]]-and-parameters]
+- [mushroom-and-inoculation]
 - [[mushroom-cultivation-contamination-prevention]]
 - [[medicinal-mushroom-extraction]]-and-bioactive-compounds]

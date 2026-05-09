@@ -125,8 +125,6 @@ compact spaces.
   once.
 - Combine multiple strategies for synergistic effects.
 ## Related Questions
-- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
-- [[query-how-to-build-a-passive-solar-greenhouse]]
 - [[query-how-to-start-a-food-forest]]
-- [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
+- [[holzer-raised-bed-techniques-hugelkultur]]

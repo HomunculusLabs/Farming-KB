@@ -83,11 +83,8 @@ applications. Its role as an FAAH inhibitor positions it as a key
 modulator of the body's own bliss molecule, anandamide.
 
 ## See Also
-- [[tetrahydrocannabinol-thc]]
 - [[anandamide-aea]]
-- [[cannabigerol-cbg]]
 - [[cannabichromene-cbc]]
-- [[cannabinol-cbn]]
 - [[e-beta-caryophyllene-bcp]]
 - endocannabinoid system (ECS)
 

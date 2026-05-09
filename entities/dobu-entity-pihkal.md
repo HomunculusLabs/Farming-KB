@@ -76,11 +76,12 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[dobu-entity]]
-
 - [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the DOx family
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

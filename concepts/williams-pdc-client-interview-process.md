@@ -1,7 +1,7 @@
 ---
 title: Client Interview Process in permaculture Design
 created: 2026-04-28
-tags: [permaculture, client-interview, design-process, communication,
+tags: [[permaculture, client-interview, design-process, communication,
       site-analysis]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,8 +9,7 @@ sources:
   [/Users/t3rpz/wiki/raw/papwilliam-ozier-williamsiams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Client Interview Process in [[permaculture-design]]
-A [[permaculture]] design will always be done for a client. Even if you are
+# Client Interview Process in [[permaculture]] design will always be done for a client. Even if you are
 doing a design for yourself, think of yourself as your own client and
 treat yourself accordingly. The client interview is one of the most
 critical steps in the design process, establishing the foundation upon
@@ -105,15 +104,6 @@ assigned to someone. A central coordinator can track progress, or the
 team can use the organizational structure and trust.
 ## Integration with the Design Process
 The client interview is one of several analytical tools used in the
-[[permaculture-design-process]], alongside the base map, broad scale site
-analysis, climate data, history, indicator species, inventories,
-observation, sectors, soil samples, surface water flow, zones, and
-zoning ordinances. The interview results inform every subsequent step.
-## Key Principles
-- You are manifesting the client's philosophy, not your own
-- Co-creation produces better designs than designing for someone
-- The interview is an art requiring rapport and trust
-- Mission and vision statements become design anchors
-- Every design decision should trace back to interview findings
-## See Also
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+
+See also: [[holistic-grazing-and-pasture-management]]

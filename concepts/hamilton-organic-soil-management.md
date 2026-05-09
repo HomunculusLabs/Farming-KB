@@ -8,9 +8,7 @@ type: concept
 tags: [soil]
 ---
 
-# [[organic-soil-management]] and Composting
-
-Organic soil management is the foundation of organic gardening. [[geoff-hamilton]]
+# [[geoff-hamilton]]
 emphasizes that soil should never be dismissed as mere dirt or a means of
 anchoring roots. It is a complex living system teeming with millions of
 organisms including fungi, algae, bacteria, insects, and worms that work
@@ -127,5 +125,5 @@ naturally more resistant to pests and diseases. By feeding the soil
 with natural materials, organic gardeners build a self-sustaining system
 that improves year after year.
 
-See also: [[hamilton-organic-pest-control]], [[hamilton-organic-weed-management]],
-[[hamilton-vegetable-planning-rotation]], [[hamilton-organic-lawn-care]]
+See also: [[hamilton-organic-weed-management]],
+[[hamilton-organic-lawn-care]]

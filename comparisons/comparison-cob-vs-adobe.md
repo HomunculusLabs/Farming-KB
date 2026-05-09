@@ -19,33 +19,6 @@ sun-dried bricks laid in courses with mud mortar. The choice between them influe
 speed, design flexibility, and the character of the finished structure.
 
 ## Cob
-[[cob-construction]]
-Cob construction creates monolithic walls by mixing clay subsoil (15-25%), sand, straw fiber, and
-water into a stiff mud that is built up in lifts of 30-60 cm directly onto a stone foundation.
-The mixture is traditionally prepared by foot on tarps and applied by hand or with wooden
-paddles. Each lift partially dries before the next is added, producing solid walls that taper
-from 60-90 cm at the base to 40-50 cm at the top. No formwork is needed — the material is
-self-supporting as it dries, and walls can incorporate curves, arches, niches, and sculptural
-elements during the building process.
-
-Cob's most distinctive advantage is its complete design freedom. Because the material is
-sculpted rather than formed, cob walls can follow any curve, angle, or organic shape the builder
-imagines. Built-in furniture, shelves, window seats, arches, and decorative relief work emerge
-naturally from the building process, making cob structures among the most personalized and
-aesthetically unique buildings possible. Cob also requires minimal tools and no formwork, making
-it extremely accessible to unskilled builders working with community groups or volunteers. The
-thermal mass is excellent (8-12 hour lag), and all materials can typically be sourced from the
-building site itself.
-
-The primary drawbacks of cob are its slow construction speed (each lift must partially dry,
-making wet weather a significant delay) and its weakness in tension, which requires buttresses
-for long unsupported walls and makes it poorly suited to seismic zones without reinforcement.
-Cob walls are vulnerable to water erosion and must be protected with raised foundations,
-generous roof overhangs, and breathable renders. The R-value is relatively low (~0.5-1.0 per
-inch), making cob less suitable for very cold climates without supplemental insulation
-strategies. Building code acceptance varies widely across jurisdictions.
-
-## Adobe
 [[adobe-construction]]
 Adobe construction produces walls from sun-dried earth bricks made by mixing clay-rich soil
 (15-30% clay), sand, water, and fibrous material (straw) in wooden moulds. Bricks are typically
@@ -117,10 +90,7 @@ can be stabilized with cement or lime for improved water resistance.
 
 ## See Also
 
-- [[comparison-cob-vs-cordwood]]
 - [[straw-bale-construction]]
-- [[rammed-earth]]
 - [[comparison-cob-construction-vs-straw-bale-construction]]
-- [[comparison-adobe-vs-rammed-earth]]
 - [[cob-construction]]
 - [[adobe-construction]]

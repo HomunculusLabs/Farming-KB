@@ -1,7 +1,7 @@
 ---
 title: Growing Room Air Circulation and CO2 Management
 created: 2026-04-28
-tags: [mushroom-cultivation, ventilation, co2-management, growing-room-design]
+tags: [[mushroom-cultivation, ventilation, co2-management, growing-room-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -11,24 +11,9 @@ type: concept
 # Growing Room Air Circulation and CO2 Management
 
 The environmental control system of a mushroom growing room is designed to
-maintain a selected temperature range at high relative humidities. This is
-accomplished through adequate insulation and an integrated system with
-provisions for heating, cooling, humidification, and air handling.
-
-## Historical and Modern Air Handling Approaches
-
-In original shelf houses, fresh air entered through adjustable ceiling vents
-above the center aisle. Heat came from hot water piping along the walls, and humidity from live steam piping. Warm air rising along the walls combined with
+maintain a selected [[hot-water-and-hydrated-lime-substrate-treatment]] piping along the walls, and humidity from live steam piping. Warm air rising along the walls combined with
 cool fresh air falling down the center aisle to create convection currents.
-Although no longer standard for [[agar]]icus growers, this convection-based
-approach can be adapted for small growth chambers.
-
-Modern Agaricus farms integrate heating, cooling, and humidification directly
-into the air handling system. The central component is the mixing box, where
-filtered fresh air is proportionally regulated with recirculated room air.
-
-Modern Agaricus farms integrate heating, cooling, and humidification equipment
-directly into the air handling system, achieving balanced conditions throughout
+Although no longer standard for [[growing-gourmet-growing-room-ventilation-air-exchange]] ced conditions throughout
 the growing room. The central component is the mixing box, where filtered
 fresh air enters and is proportionally regulated with recirculated room air by
 a single damper.
@@ -83,20 +68,8 @@ The formula is:
     CFM = (air changes per hour x free air space) / 60
 
 Example: For an 8 ft x 8 ft x 15 ft room (960 cu ft total) with beds
-occupying 160 cu ft, the net free air space is 800 cu ft. At 4 air changes
-per hour:
-
-    CFM = (4 x 800) / 60 = 53.3 CFM
-
-Species-specific maximum growing gourmet growing rates:
-- [[agaricus-brunnescens]]: 4 to 6 air exchanges per hour
-- [[psychedelic-mushrooms-species-and-identification]]: 2 to 3 air exchanges per hour
-
-## Air-to-Bed Ratio
-
-The air-to-bed ratio is the cubic feet of free air space divided by square feet
-of cropping surface. Agaricus growers have found a ratio of 5:1 to be optimum,
-and this serves as a useful guideline for other mushrooms on bulk substrates.
+occupying 160 cu ft, the net free air space is 800 cu ft. At 4 air ch [[agaricus-brunnescens]]: 4 to 6 air exchanges per hour
+- [[growing-gourmet-cold-pasteurization-bulk-substrates]].
 
 Increased substrate amounts generate heat and CO2 beyond the handling capacity
 of the ventilation system. A large free air space acts to buffer these changes.
@@ -127,7 +100,7 @@ directly hitting top containers. Two sizing guidelines apply:
 ## Entrainment and Dead Air Elimination
 
 The discharge of air at sufficient velocity to draw in surrounding room air is
-called entrainment, a phenomenon that enhances the effective capacity of the
+called entrainment [[query-what-are-the-benefits-of-growing-mushrooms-at-home]] at enhances the effective capacity of the
 air circulation system. Proper hole sizing and spacing create a flow pattern
 of even air that directly benefits the growing mushrooms. Eliminating dead-air
 pockets through entrainment is the fundamental goal of air management in the

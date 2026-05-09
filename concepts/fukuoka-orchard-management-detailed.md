@@ -101,11 +101,7 @@ Fukuoka emphasized several pitfalls for those attempting to replicate his method
 
 ## See Also
 
-- [[fukuoka-natural-orchard-management]]
 - [[fukuoka-orchard-floor-management]]
-- [[fukuoka-orchard-without-pruning]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]

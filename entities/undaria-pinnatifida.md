@@ -96,25 +96,15 @@ Economic impacts of Undaria invasion include increased maintenance costs for aqu
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
-- [[laminaria-digitata]]
 - [[palmaria-palmata]]
-- [[agaricus-bisporus]]
 - [[pleurotus-ostreatus]]
-- [[ganoderma-lucidum]]
 - [[allium-sativum-entity]]
-- [[zingiber-officinale]]
 - [[curcuma-longa]]
-- [[mentha-spicata]]
 - [[rosmarinus-officinalis-entity]]
-- [[chondrus-crispus]]
 - [[saccharina-latissima]]
-- [[macrocystis-pyrifera]]
 - [[fucus-vesiculosus]]
-- [[agar]]
-- [[anti-inflammatory]]
-- [[magnesium]]
-- [[calcium]]
-- [[daucus-carota]]
+- [[cannabis-anti-inflammatory-applications]]
+- magnesium
+- calcium
 - [[coriandrum-sativum]]

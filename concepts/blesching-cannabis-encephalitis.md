@@ -108,8 +108,6 @@ from doing? How do you feel about that? Where do these feelings take you?"
 
 ## See Also
 
-- [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-hepatitis]]
 - [[cannabis-autoimmune-conditions-detailed]]

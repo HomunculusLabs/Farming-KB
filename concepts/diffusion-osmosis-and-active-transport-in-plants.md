@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Diffusion, Osmosis, and Active Transport in Plants
@@ -87,18 +88,11 @@ All three mechanisms work together:
 
 Without any one of these mechanisms, plant nutrition would fail.
 
-These four transport mechanisms operate simultaneously and are tightly integrated. Diffusion handles short-distance ion movement within the root cortex and at the soil-root interface. Osmosis drives water uptake and creates the transpiration stream that carries dissolved nutrients upward. Active transport provides the selectivity needed for nutrient discrimination, allowing plants to preferentially absorb scarce essential elements over abundant non-essential ones. Bulk flow through the xylem distributes nutrients from roots to shoots at rates that would be impossible through diffusion alone. The [[adenosine-triphosphate-and-cellular-energy]] required for active transport means that any factor reducing energy production (shade, cold, hypoxia) directly impairs the plant's ability to feed itself selectively.
-
-### The Role of Soil Conditions
-
-Soil conditions strongly influence these transport mechanisms. Compacted soils limit water movement and oxygen availability, reducing both osmosis and the energy available for active transport. The [[fungal-contributions-soil-structure]] determines how easily water and dissolved nutrients can reach root surfaces. Healthy soils with good aggregation and organic matter content maintain optimal conditions for all transport mechanisms.
+These four transport mechanisms operate simultaneously and are tightly integrated. Diffusion handles short-distance ion movement within the root cortex and at the soil-root interface. Osmosis drives water uptake and creates the transpiration stream that carries dissolved nutrients upward. Active transport provides the selectivity needed for nutrient discrimination, allowing plants to preferentially absorb scarce essential elements over abundant non-essential ones. Bulk flow through the xylem distributes nutrients from roots to shoots at rates that would be impossible through diffusion alone. The [[fungal-contributions-soil-structure]] determines how easily water and dissolved nutrients can reach root surfaces. Healthy soils with good aggregation and organic matter content maintain optimal conditions for all transport mechanisms.
 
 ## Related Topics
 
-- [[ph-and-nutrient-availability-garden-soils]] -- how pH affects nutrient concentration at root surfaces
 - [[adenosine-triphosphate-and-cellular-energy]] -- the energy source for active transport
-- [[molecules-of-life-plant-cells]] -- membrane structure and function
 - [[temperature-effects-plant-nutrient-uptake]] -- temperature effects on transport rates
-- [[mycorrhizal-nutrient-uptake]] -- how fungi extend the transport reach of roots
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

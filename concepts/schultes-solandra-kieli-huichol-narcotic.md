@@ -12,18 +12,8 @@ type: concept
 
 The Huichol Indians of Mexico worship and fear Solandra as a
 god-narcotic, *Kieli*, a powerful aid in sorcery. Realizing the close
-relationship of Solandra to [[schultes-datura-holy-flower-north-star]]
-and [[plants-of-the-gods-brugmansia-angels-trumpet]], the Huichol
-sometimes combine their use: they distinguish between *[[datura-innoxia]]*
-or *Kielitsa* ("bad Kieli") and the real Kieli or Solandra. This
-distinction reveals the sophisticated taxonomic understanding of
-psychoactive plants among the Huichol, who recognize subtle
-differences in effect between closely related solanaceous species.
-
-## Botanical Description
-
-The genus *Solandra* belongs to the Solanaceae (Nightshade family), the
-same family as Datura, Brugmansia, and [[schultes-mandrake-mandragora-officinarum]].
+relationship of Solandra to [[plants-of-the-gods-brugmansia-angels-trumpet]], the Huichol
+sometimes combine their use: they distinguish between *[[schultes-mandrake-mandragora-officinarum]].
 Two species are known to be employed for psychoactive purposes:
 
 - *Solandra brevicalyx* Standl.: known among Huichol and other

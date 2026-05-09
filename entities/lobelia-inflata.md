@@ -13,7 +13,7 @@ sources:
 
 # Lobelia inflata
 
-**Lobelia inflata**, commonly known as **Indian tobacco**, **pukeweed**, **gagroot**, or **asthma weed**, is an annual or biennial herbaceous plant in the family Campanulaceae. Native to [[polypore-fungi-eastern-north-america]], *L. inflata* has a long and prominent history in indigenous North American [[herbal-medicine-making-basics]] and 19th-century Thomsonian/Eclectic medical practice. The plant contains the piperidine alkaloid **lobeline**, which has been extensively studied for its effects on nicotinic acetylcholine receptors and its potential applications in smoking cessation, though its therapeutic use has declined due to a narrow therapeutic index and the availability of safer alternatives.
+**Lobelia inflata**, commonly known as **Indian tobacco**, **pukeweed**, **gagroot**, or **asthma weed**, is an annual or biennial herbaceous plant in the family Campanulaceae. Native to [[herbal-medicine-making-basics]] and 19th-century Thomsonian/Eclectic medical practice. The plant contains the piperidine alkaloid **lobeline**, which has been extensively studied for its effects on nicotinic acetylcholine receptors and its potential applications in smoking cessation, though its therapeutic use has declined due to a narrow therapeutic index and the availability of safer alternatives.
 
 ## Taxonomy and Classification
 
@@ -26,31 +26,12 @@ sources:
 - **Species:** L. inflata L.
 
 The genus *Lobelia* comprises approximately 415 species distributed worldwide, with centers of diversity in tropical Africa, the Americas, and Australasia.
-The genus is named in honor of Matthias de l'Obel (1538–1616), the Flemish botanist and physician who was one of the first botanists to classify plants based on natural relationships rather than [[reishi-mushroom-medicinal-properties]].
-The specific epithet *inflata* refers to the characteristic inflated (swollen) calyx that encloses the fruit capsule, which is one of the species' most distinctive [[palmer-mushroom-hunting-field-identification]] features.
+The genus is named in honor of Matthias de l'Obel (1538–1616), the Flemish botanist and physician who was one of the first botanists to classify plants based on natural relationships rather than [[palmer-mushroom-hunting-field-identification]] features.
 The species was formally described by Linnaeus in *Species Plantarum* (1753).
 
 ## Morphology
 
-*Lobelia inflata* is an annual or short-lived biennial [[herb-growing-guide]] 15–100 cm tall, with an erect, angular, branching stem that is typically green but may be tinged with purple, especially near the base.
-The stem is covered with short, stiff, spreading hairs and contains a milky latex that exudes when the plant is broken.
-The plant has a fibrous root system and does not produce a taproot.
-
-The leaves are alternate, simple, ovate to lanceolate, 2.5–7.5 cm long and 0.8–2.5 cm wide, with irregularly toothed (serrate) margins.
-The leaf surface is sparsely pubescent on both sides, with a slightly lighter coloration on the lower surface.
-The leaves are sessile or subsessile (lacking a distinct petiole), and the leaf base is typically cuneate (wedge-shaped) or attenuate.
-The lower leaves are often smaller and may wither before the plant reaches full maturity.
-
-The flowers are borne in terminal, leafy racemes that elongate as the lower flowers mature.
-Individual flowers are bilabiate (two-lipped), approximately 8 mm long, with a pale blue to lavender corolla that has a white throat and is marked with darker blue or purple lines on the lower lip.
-The calyx is 5-lobed, inflated and bladder-like in fruit (the diagnostic feature referenced by the specific epithet), and approximately 5–7 mm long.
-The fruit is a many-seeded, 2-valved capsule enclosed within the persistent, inflated calyx.
-Flowering occurs from July to October in the Northern Hemisphere.
-The seeds are very small (approximately 0.5 mm), numerous, oblong, and light brown, with a reticulate seed coat surface.
-
-## Distribution and Habitat
-
-*Lobelia inflata* is native to eastern North America, with a natural range extending from southeastern Canada (Ontario, Quebec, Nova Scotia) southward through the eastern [[sacramental-ayahuasca-legal-battles-united-states]] to Georgia, Alabama, and eastern Texas, and westward to Kansas and Minnesota.
+*Lobelia inflata* is an annual or short-lived biennial [[sacramental-ayahuasca-legal-battles-united-states]] to Georgia, Alabama, and eastern Texas, and westward to Kansas and Minnesota.
 The species is most abundant in the Appalachian region, the Ohio River Valley, and the Great Lakes region, where it occurs in a wide range of open, disturbed habitats.
 
 Typical habitats include dry to mesic open woods, woodland margins, fields, pastures, roadsides, railroad rights-of-way, waste places, and recently disturbed ground.
@@ -118,10 +99,9 @@ The plant's milky latex can cause contact dermatitis in sensitive individuals.
 
 ## See Also
 
-- [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
 - [[lobelia-tupa]]
 
-- [[lobeline]]
+- lobeline
 - nicotinic acetylcholine receptors
 - smoking cessation pharmacology
 - thomsonian medicine

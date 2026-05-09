@@ -6,22 +6,28 @@ type: concept
 tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-health]
 sources: []
 ---
+
 # Cattle Husbandry
+
 Cattle are the largest and most land-intensive homestead livestock, but they
 offer unmatched production of meat, milk, and draft power. On a homestead
 scale, cattle are best managed through rotational grazing on improved pasture,
 minimizing purchased inputs and maximizing the conversion of forage to food.
+
 ## Beef Breeds
+
 ### British Breeds (Smaller, Marbled, Hardy)
 - **Angus** — Most popular beef breed. Excellent marbling, docile, good
   mothers. Black or red.
 - **Hereford** — Red with white face. Hardy, good foragers, docile.
   Excellent mothers.
 - **Shorthorn** — Dual-purpose (meat and milk). Good marbling, maternal.
+
 ### Continental Breeds (Larger, Leaner, Muscular)
 - **Charolais** — Large, white, fast-growing. Good terminal sire.
 - **Limousin** — Heavy muscling, lean carcass, efficient converters.
 - **Simmental** — Large, dual-purpose, good maternal traits.
+
 ### Heritage and Specialty Breeds
 - **Dexter** — Miniature cattle (600-900 lbs). Excellent for small acreage.
   Dual-purpose meat and milk. 1/2 to 1/3 the feed requirements of full-size.
@@ -31,14 +37,18 @@ minimizing purchased inputs and maximizing the conversion of forage to food.
 - **Galloway** — Scottish, polled, extremely hardy, hair coat sheds rain.
   Excellent beef on grass alone.
 - **Belted Galloway** — Distinctive white belt. Hardy, excellent foragers.
+
 ### Dairy Breeds (Dual-Purpose Potential)
 - **Jersey** — Small, high butterfat milk (4-5%). Excellent homestead dairy
   cow. Adequate beef quality.
 - **Guernsey** — Golden milk, high butterfat. Moderate size, docile.
 - **Dutch Belted** — Rare, good dual-purpose, grazes well.
+
 ## Rotational Grazing
+
 Cattle thrive on rotational grazing systems. Properly managed, one cow-calf
 pair can be sustained on 2-5 acres depending on climate and pasture quality.
+
 - Move cattle every 1-7 days. Faster rotations in spring growth, slower in
   summer and fall.
 - Graze to 4-6 inch residual height, then rest paddock until 8-12 inches
@@ -49,9 +59,12 @@ pair can be sustained on 2-5 acres depending on climate and pasture quality.
   carrying capacity.
 - Multi-species grazing (cattle + sheep + goats) improves pasture utilization
   and reduces parasite loads.
+
 ## Handling
+
 Safe, low-stress cattle handling is essential for both animal welfare and
 handler safety.
+
 - Bud Williams low-stress stockmanship principles: position yourself to use
   the animal's natural instinct to move away from pressure. Never chase.
 - Design handling facilities with curved chutes (solid sides), no sharp
@@ -61,19 +74,23 @@ handler safety.
 - Cattle remember bad experiences. Handle calves frequently and gently to
   produce docile adults.
 - Train cattle to come to a bucket of grain for easy movement and catching.
+
 ## Health Care
+
 ### Vaccinations
 - Viral respiratory: IBR, BVD, PI3, BRSV (modified live or killed).
 - Clostridial: 7-way or 8-way clostridial vaccine.
 - Leptospirosis: 5-way leptospirosis for breeding stock.
 - Brucellosis: required in some states. Check local regulations.
 - Calves: vaccinate at branding/castration (2-4 months), booster at weaning.
+
 ### Parasite Management
 - Deworm based on fecal egg counts, not calendar. Overuse creates resistance.
 - Strategic deworming: at turnout on pasture, mid-summer, and before winter.
 - Cooperia and Ostertagia are the most problematic internal parasites in cattle.
 - External parasites: flies (horn flies, face flies), lice, ticks. Use
   pour-on insecticides, fly tags, or integrated pest management.
+
 ### Common Health Issues
 - Bovine Respiratory Disease (BRD) — stress-related, most common in
   newly weaned calves. Prevention: minimize weaning stress, vaccinate,
@@ -87,11 +104,14 @@ handler safety.
 - Bloat — frothy bloat on legume-rich pasture. Poloxalene blocks, manage
   legume intake.
 - Milk fever — calcium deficiency at calving. Provide calcium pre-calving.
+
 ### Breeding Health
 - Bull breeding soundness exam (BSE) annually.
 - Pregnancy check at 30-45 days post-breeding via palpation or ultrasound.
 - Calving ease: select bulls with low birth weight EPDs for heifer breedings.
+
 ## Breeding
+
 - Puberty: heifers 12-15 months. Breed to calve at 2 years.
 - Estrous cycle: 21 days, heat lasts 12-18 hours.
 - Gestation: 283 days (approximately 9.5 months).
@@ -100,7 +120,9 @@ handler safety.
 - AI (artificial insemination) allows superior genetics without owning a bull.
   Natural service: 1 bull per 25-35 cows.
 - Cull open (non-pregnant) cows annually.
+
 ## Finishing
+
 ### Grass-Fed
 - Cattle finished entirely on pasture and stored forage.
 - Longer finishing period: 24-30 months total (vs 18-20 for grain-finished).
@@ -109,6 +131,7 @@ handler safety.
   [[hay-and-forage-management]].
 - Premium market prices available. Requires consistent marbling genetics.
 - Finish on high-quality pasture or stockpiled fescue for best results.
+
 ### Grain-Finished
 - Feedlot or on-farm grain feeding for 90-150 days before harvest.
 - Corn-based ration with roughage (hay or silage) at 40-60% concentrate.
@@ -116,10 +139,13 @@ handler safety.
 - Higher feed costs. More infrastructure needed (bunk feeding, manure
   management).
 - See [[livestock-feed-formulation]] for ration design.
+
 ### Hybrid Approaches
 - Grass-based with grain supplementation last 60-90 days. Good compromise
   for homesteads.
+
 ## Calf Management
+
 - Calving difficulty (dystocia) is higher in first-calf heifers. Monitor
   closely. Assist only if necessary — know when to call a vet.
 - Ensure colostrum intake within 4 hours. Calf must receive 2-4 quarts of
@@ -129,7 +155,9 @@ handler safety.
 - Creep feed: offer grain to nursing calves starting at 2-3 months to
   supplement milk and prepare for weaning.
 - Wean at 6-8 months. Fenceline weaning reduces stress.
+
 ## Manure and Byproducts
+
 - One beef cow produces ~60-80 lbs of manure per day (20-30 tons/year).
 - Excellent compost ingredient. High carbon from bedding plus nitrogen from
   manure.
@@ -138,12 +166,16 @@ handler safety.
 - Cowhide: tanning for leather. See [[animal-harvest-and-processing]].
 - Tallow: rendered beef fat for cooking, soap making, candles, leather
   conditioning.
+
 ## Links
+
 - [[sheep-husbandry]]
 - [[pasture-management]]
 - [[hay-and-forage-management]]
 - [[livestock-feed-formulation]]
 - [[livestock-fencing-guide]]
 - [[animal-harvest-and-processing]]
+
 ## Related
+
 - [[cattle-health-and-production]]

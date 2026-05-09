@@ -3,7 +3,7 @@ title: Fungal Interactions with Living Plant Surfaces
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Interactions with Living Plant Surfaces
@@ -124,16 +124,8 @@ Fungi on living plant surfaces are important for:
 ## See Also
 
 - [[fungal-pathogens-in-agriculture]]
-- [[fungal-pathogens-in-agriculture]]
 - fungal interactions living plant surfaces
-- [[fungal-biomonitoring]]
 - [[fungal-pathogens-in-agriculture]]
-- [[fungal-roles-built-environments]]
-
-## Related
-
 - [[endophytic-fungi-plant-interactions]]
-- [[mycorrhizal-types-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

@@ -113,10 +113,7 @@ Seasonal timing also influences the choice. During hot summer months when fermen
 
 ## See Also
 
-- [[food-fermentation-guide]] for the broader science of fermentation
 - [[food-dehydration-guide]] for a third preservation method
-- [[root-cellaring-guide]] for cool storage alternatives
 - [[kimchi-making]] for a detailed fermented vegetable recipe
-- [[vinegar-making]] for producing your own canning vinegar
 - [[root-cellaring-and-no-energy-food-storage]] for unpowered storage options
 - [[root-vegetable-storage-guide]] for vegetable-specific storage advice

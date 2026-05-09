@@ -124,10 +124,7 @@ supplementation, while non-sterilized methods require lower levels to avoid
 contamination. Gypsum, limestone, and chalk serve as pH buffers.
 
 ## See Also
-- [[mushroom-substrate-preparation]]
 - [[mushroom-training-oyster-straw-cultivation]]
-- [[gourmet-medicinal-mushroom-substrate-preparation]]
-
 - [[oyster-mushroom-substrate-preparation]]
 
 - oyster straw substrate preparation

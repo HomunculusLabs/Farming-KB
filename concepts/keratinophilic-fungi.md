@@ -3,7 +3,7 @@ title: Keratinophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Keratinophilic Fungi
@@ -89,12 +89,8 @@ Keratinophilic fungi are significant causes of superficial fungal infections:
 
 ## Related
 
-- [[onygenales-keratinophilic-systemic-pathogenic-fungi]] Topics
-
 - [[fungal-baiting-techniques]]
-- [[culturing-culture-independent-fungi]]
 - [[fungal-decomposition]]
-- [[thermophilic-fungi]]
 - [[ascomycete-phylum-guide]]
 
 ## References
@@ -103,6 +99,5 @@ Keratinophilic fungi are significant causes of superficial fungal infections:
 - Vanbreuseghem, R. 1952. Keratin digestion by dermatophytes
 - Deshmukh, S.K. and Verekar, S.A. 2012. Keratinophilic fungi
 - Filipello Marchisio, V. 2000. Keratinophilic fungi: their role in nature and degradation
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[the-soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]

@@ -110,13 +110,8 @@ Microscopic features including the large, thick-walled spores with germ pore fur
 
 ## See Also
 
-- [[psilocybe-cubensis]]
-- [[panaeolus-cyanescens]]
-- [[psilocybe-cyanescens]]
+- [[panaeolus-cyanescens-entity]]
 - [[coprinus-comatus-detailed]]
-- [[amanita-muscaria]]
 - [[boletus-edulis-entity]]
-- [[pleurotus-ostreatus]]
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
+- [[trametes-versicolor-entity]]
 - [[grifola-frondosa]]

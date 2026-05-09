@@ -3,17 +3,7 @@ title: No-Energy Food Storage
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# No-Energy Food Storage
-
-Food can be stored without refrigeration or freezing through live storage (root cellaring), clamps, and leaving vegetables in the ground. These methods require no ongoing energy input and are essential components of [[permaculture-food-storage-and-preservation]]. They complement [[faires-low-energy-cooking-and-food-preservation]] to create a fully resilient homestead food system.
-
-## Live Storage (Root Cellar)
-
-Many foods store without processing in properly maintained cold storage at 32-40°F. This is the simplest and most reliable form of [[comparison-root-cellaring-vs-dehydration]].
+tags: [[permaculture-food-storage-and-preservation]]. They complement [[comparison-root-cellaring-vs-dehydration]].
 
 **Ideal candidates**: Pumpkins, potatoes, dry beans/peas, onions, parsnips, turnips, apples, pears, tomatoes, most root vegetables.
 
@@ -73,17 +63,7 @@ Some root vegetables can overwinter in place with mulch protection. Carrots, par
 
 ## Solar and Electric Drying
 
-For foods that don't store well live: sun drying (hot dry climates), electric dehydrator (low energy), or reflector-based solar drying. See [[faires-food-drying-and-no-energy-storage]] for detailed guidance.
-
-**Process**: Use ripe produce, wash, peel, slice thin. Soak fruits in vitamin C/sugar solution (5 min) to prevent oxidation. Spread one layer on trays, protect from dew and bugs. Turn 1-3 times daily. Vegetables done when brittle; fruits when leathery. Condition for 1 week in covered bowl, then store in airtight container in dark, dry place. Properly dried food lasts 6+ months.
-
-## Other No-Energy Methods
-
-- **Drying herbs**: Hang in bunches in a warm, dry, dark place
-- **Curing**: Onions and garlic need curing in a dry, well-ventilated area for 2-3 weeks before storage
-- **Sand storage**: Root vegetables layered in damp sand in boxes in a cool room
-- **Oil preservation**: Submerging vegetables in oil in a cool place
-- **Fermentation**: [[faires-food-fermentation-methods]] store for months without energy
+For foods that don't store well live: sun drying (hot dry climates), electric dehydrator (low energy), or reflector-based solar drying. See [[faires-food-fermentation-methods]] store for months without energy
 - **Smoking**: Low-temperature smoking preserves meat and fish without refrigeration
 
 ## Planning Your Storage System
@@ -96,15 +76,9 @@ A well-designed no-energy storage system combines multiple methods:
 4. **Drying** for fruits, herbs, and vegetables that don't store well fresh
 5. **Fermentation** for vegetables like cabbage, cucumbers, and daikon
 
-Together these methods can store a full year's harvest with zero ongoing energy costs. See [[root-cellar-design-and-construction]] for building details.
+Together these methods can store a full year's harvest with zero ongoing energy costs. See [[natfarm-food-drying-dehydration]]
 
-## Related
-- [[natfarm-food-drying-dehydration]]
-
-- [[root-cellaring-guide]] — detailed root cellar guide
 - [[root-cellar-design-and-construction]] — building a root cellar
-- [[food-preservation-canning]] — canning methods
 - [[faires-food-fermentation-methods]] — fermentation storage
-- [[holmgren-wild-foods-and-marginal-systems]] — cultured dairy and bread
 - [[faires-food-drying-and-no-energy-storage]] — drying specifics
 - [[permaculture-food-storage-and-preservation]] — preservation overview

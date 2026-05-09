@@ -78,14 +78,7 @@ A simple microscope (100-400x) allows the brewer to assess tea quality before ap
 
 ## See Also
 
-- [[teaming-with-microbes-compost-mulch-tea]]
 - [[compost-tea-brewing]]
-- [[compost-tea-application-rates]]
 - [[soil-food-web-management-for-farmers]]
-- [[root-exudates]]
-
-## Related
-
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[compost-biology-soil-food-web-inoculation]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]

@@ -83,7 +83,7 @@ In addition to chemical exudates, plant root tips constantly slough off cellular
 
 - [[soil-food-web-structure]]
 - [[protozoa-in-soil]]
-- [[composting-and-soil-biology]]
+- [[nitrogen-cycle-in-soil]]
 - [[phosphorus-availability]]
 - [[bacterial-vs-fungal-soil]]
 - [[plant-nutrient-uptake-mechanisms]]

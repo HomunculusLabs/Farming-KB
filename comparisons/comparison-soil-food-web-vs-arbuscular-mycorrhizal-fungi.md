@@ -20,37 +20,6 @@ system; AMF are one critically important component of it. Both frameworks are
 essential for understanding soil health, but they operate at different scales.
 
 ## Soil Food Web
-[[soil-food-web]]
-
-The soil food web is the complex network of trophic interactions among
-organisms living in soil, conceptualized by Elaine Ingham and developed
-through the work of David Coleman and James Moore. It reveals soil as a
-living ecosystem whose structure and function determine plant productivity,
-nutrient cycling, and carbon storage. A single gram of forest soil may
-contain 10 to the 8th to 10 to the 9th bacterial cells and 100 to 1000
-meters of fungal hyphae, representing an enormous biological engine.
-
-The web is organized into trophic levels: primary decomposers (bacteria and
-saprotrophic fungi) at the base, bacterial and fungal feeders (protozoa,
-nematodes, microarthropods) at the second level, and predators and omnivores
-(predatory nematodes, mites, centipedes, earthworms) at higher levels. The
-microbial loop is a critical concept: when bacteria and fungi assimilate
-nutrients, those nutrients are locked in microbial biomass until grazing by
-protozoa and nematodes releases them as plant-available ammonium and
-phosphate. This loop retains nutrients that would otherwise leach away.
-
-The fungal-to-bacterial ratio (F:B ratio) is a key indicator of soil health
-and management history. Bacteria dominate in disturbed or tilled soils, while
-fungi dominate in undisturbed perennial systems like forests and grasslands.
-This ratio also determines which plants will thrive: most vegetables prefer
-bacterial-dominant soils, while trees and perennials prefer fungal-dominant
-soils. Management practices like compost tea application, mulching, and cover
-cropping can shift this ratio deliberately to match crop needs. Monitoring
-the F:B ratio through soil microscopy or lab testing provides valuable
-feedback on whether management practices are moving soil biology in the
-desired direction.
-
-## Arbuscular Mycorrhizal Fungi
 [[arbuscular-mycorrhizal-fungi]]
 
 Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on
@@ -118,9 +87,7 @@ specific symbiosis and the ecosystem that sustains it.
 
 ## See Also
 
-- [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
-- [[comparison-amf-vs-ecm]]
 - [[comparison-biochar-vs-mycorrhiza]]
 - [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]
 - comparison soil food web vs arbuscular mycorrhizal fungi

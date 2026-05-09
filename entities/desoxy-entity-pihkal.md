@@ -71,27 +71,7 @@ PIHKAL entry #52. 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE.
 > enhancementmescalinee eyes-closed imagery to music was noteworthy.
 > Thinking skills and conversation seemed to be fully under control, if
 > not enhanced. There was none of the colorful psychedelic world of
-> [[mescaline-entity]], but this might be just around the corner; perhaps with a
-> larger dose. This is a comfortable in-between level. Sleep was not
-> possible at the sixth hour, but two hours later, it was easy and very
-> restful. There was no negative price to pay the next day.
->
-
-## Extensions and Commentary
-
-All substituents that are involved with the several drugs being discussed in this writing are really things that are stuck like warts on the benzene ring that is central to every phenethylamine. Some of these warts are things attached with a oxygen atom; there are some of these in every single compound in this story. No oxygen atom, no psychedelic effect. Without them, one has stimulants or, more frequently, no effects at all.
-
-But the removal of an oxygen atom (in those cases where there is more than one) can radically change the nature of the effects seen. This is the exact meaning of the term "desoxy." "Des", without, and "oxy", the oxygen. Since this drug is simply the structure of mescaline with the oxygen at the 4-position plucked out of the picture, the first impulse was to abbreviate this compound as DOM for des-oxymescaline. However, a long, long time ago, in a universe far, far away, a compound was synthesized that had a methoxy group replaced by a methyl, and it was already named DOM. This was the first of the STP
-
-analogs, and the initials stood for desoxy (DO, losing an oxygen) and methyl (M, having it replaced with a methyl group). These are two different worlds. One M stands for Mescaline, and the other M stands for Methyl. Let's call it 4-desoxymescaline, or simply DESOXY, and be exact.
-
-This drug is a prime example of a pharmacological challenge directed to the metabolic attack at the 4-position as a mechanism for the expression of biological activity. A methoxy group there would allow easy removal of the methyl group from the oxygen by some demethylation process, but a bare methyl group there cannot be removed by any simple process. It must be removed by a very difficult oxidation.
-
-This is not the first time that oxygen atoms have been removed from the mescaline molecule. Both the 3,5-dideoxymescaline (3,5-dimethyl-4-methoxyphenethylamine) and 3,4,5-trideoxymescaline (also called desoxymescaline in the literature, but really tri-desoxymescaline or 3,4,5-trimethylphenethylamine) have been studied in the cat, and have shown extraordinary pharmacological profiles of CNS action. The trimethyl compound showed behavior that was interpreted as being intense mental turmoil, accompanied by a startling rise in body temperature. The significance is hard to determine, in that LSD gave similar responses in the cat, but mescaline was without effects at all. No human studies have been made on these compounds, just animal studies. But they might prove upon trial in man to be most revealing. They would have to be performed with exceptional care.
-
-The 3-carbon chain amphetamines that correspond to these mescaline look-alikes with one or more methoxy groups replaced with methyl groups, are largely untested and would require independent and novel syntheses. The 3,4,5-trimethylamphetamine is known, and is known to be very hard on experimental cats.
-
-A mescaline analogue with a bromo atom in place of the 4-methoxyl group is an analogue of mescaline in exactly the sserotoninhat DOB (a very potent am-phetamine) is an analog of TMA-2 (the original trisubstituted amphetamine). This analogue, 3,5-dimethoxy-4-bromoamphetamine, has been found to be a most effective [[serotonin]] agonist, and it is a possibility that it could be a most potent phenethylamine. But, as of the present time, it has never been assayed in man.
+> [[serotonin]] agonist, and it is a possibility that it could be a most potent phenethylamine. But, as of the present time, it has never been assayed in man.
 
 ## Synthesis
 
@@ -113,10 +93,7 @@ extreme caution. This compound is not approved for human consumption.
 
 ## See Also
 
-- [[desoxy-entity]]
-
 - [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)

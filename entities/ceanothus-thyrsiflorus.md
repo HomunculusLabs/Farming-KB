@@ -109,14 +109,9 @@ The ornamental flower display provides aesthetic value, supporting the "function
 
 ## See Also
 
-- [[elaeagnus-angustifolia]]
 - [[caragana-arborescens]]
-- [[robinia-pseudoacacia]]
 - [[morus-alba]]
-- [[hippophae-rhamnoides]]
 - [[corylus-avellana]]
-- [[betula-pendula]]
 - [[castanea-sativa]]
-- [[juglans-regia]]
 - [[gleditsia-triacanthos]]
 - [[maclura-pomifera]]

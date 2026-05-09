@@ -116,7 +116,9 @@ Several important questions remain about this system:
 
 ## See Also
 
-- [[fungi-in-the-environment-decomposition-wood-decay]] for fungal decomposition in other ecosystems
 - [[fungal-pah-degradation-and-soil-bioremediation]] for fungal enzymatic capabilities
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] for fungi in ecosystem processes
 - [[fungi-in-the-environment-soil-fungal-community-structure]] for fungal community composition
+
+## See Also
+
+- [[saltmarsh-ascomycete-laccase-genes-in-lignocellulose-decomposition]]

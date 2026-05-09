@@ -131,8 +131,6 @@ allows the substrate to recover before the second flush is triggered.
 
 ## See Also
 
-- [[cotter-substrate-preparation]]
 - [[mushroom-growing-environments]]
-- [[gartz-mushroom-cultivation-classic-and-new-techniques]]
 - [[accessible-mushroom-cultivation-for-disabilities]]
 - [[contamination-prevention-in-mushroom-cultivation]]

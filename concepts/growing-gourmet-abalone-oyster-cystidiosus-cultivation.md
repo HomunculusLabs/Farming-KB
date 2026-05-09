@@ -14,11 +14,7 @@ sources:
 type: concept
 ---
 
-# Abalone Mushroom ([[pleurotus-cystidiosus]]) Cultivation
-
-## Overview and Description
-
-The Abalone Mushroom is the most unusual Oyster mushroom in culture.
+# Abalone Mushroom ([[oyster-mushroom]] in culture.
 From a taxonomic viewpoint, P. cystidiosus shares greatest similarity
 with P. abalonus Han, Chen and Cheng, and P. smithii Guzman, and may
 well be conspecific with these two taxa. Hilber (1989) believes that a
@@ -142,8 +138,6 @@ Bags, columns, trays or bottles.
 ### Cropping Cycle
 30 days, two crops, 10 days apart.
 ## See Also
-
-- [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]
 
 - [[growing-gourmet-golden-oyster-citrinopileatus-cultivation]]
 - [[growing-gourmet-king-oyster-eryngii-cultivation]]

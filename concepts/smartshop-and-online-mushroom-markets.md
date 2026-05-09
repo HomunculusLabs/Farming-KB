@@ -33,14 +33,7 @@ A smartshop is a retail establishment specialising in psychoactive herbal substa
 
 ### Most Commonly Sold Species
 
-The [[psilocybe-cubensis]] varieties dominate smartshop sales:
-
-- Mexican
-- Thai
-- Colombian
-- Amazonian
-
-These are all cultivated varieties that do not grow wild in Europe. [[psilocybe-mexicana]] sclerotia are sold as "philosopher's stones" or "truffles."
+The [[psilocybe-mexicana]] sclerotia are sold as "philosopher's stones" or "truffles."
 
 ### UK Retail Market
 
@@ -104,10 +97,8 @@ The **Free Spore Ring Europe** (fsre.org) provided various strains for approxima
 
 | Product | Quantity | Price Range (EUR) |
 |---|---|---|
-| Fresh [[psilocybe-cubensis]] (Mexican) | 30 g | 8.50 to 45.28 |
 | Fresh [[copelandia-cyanescens]] | 10 g | 13.00 to 17.50 |
-| [[psilocybe-mexicana]] (truffles) | 15 g | 10.00 to 17.50 |
-| Spawnbag ([[psilocybe-azurescens]]) | 1 bag | 24.00 to 25.00 |
+| [[psilocybe-azurescens]]) | 1 bag | 24.00 to 25.00 |
 | Growkits | 1 kit | 25.00 to 100.00 |
 | Spore prints/syringes | 1 print | 9.00 to 28.00 |
 
@@ -143,7 +134,5 @@ These sites typically provide effects information, dosage guides, chemistry deta
 Mushrooms are known by numerous names reflecting marketing strategies and cultural contexts:
 ## See Also
 
-- [[hallucinogenic-mushroom-prevalence-europe]]: usage data
 - [[hallucinogenic-mushroom-legislation-in-europe]]: legal framework driving market changes
-- [[hallucinogenic-mushroom-dose-and-effects]]: product effects information
-- [[psilocybin-and-psilocin-chemistry]]: active compounds in commercial products
+- [[psilocybin-psilocin-chemistry]]: active compounds in commercial products

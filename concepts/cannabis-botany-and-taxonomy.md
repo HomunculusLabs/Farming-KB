@@ -38,41 +38,7 @@ proposed separate species status for Cannabis indica. The
 ruderalis populations are nearly always high in CBD and low in
 THC. The debate continues, but most modern botanical references
 follow the single-species classification while acknowledging
-the distinct phenotypic groups. See [[cannabis-sativa-vs-indica-guide]] for a detailed comparison of the major groups.
-
-## Growth Habit and Life Cycle
-
-Cannabis can grow to six meters in height under favorable
-conditions during a four to six month growing season. Seeds
-germinate in three to seven days, with the seedling emerging
-through straightening of the hypocotyl. The cotyledons are
-slightly unequal and rounded. Subsequent leaf pairs develop
-with increasing numbers of leaflets: the second pair typically
-has three leaflets, the third has five, continuing up to eleven
-or more.
-
-Cannabis shows a dual response to daylength. During the first
-two to three months, it responds to increasing daylength with
-vigorous vegetative growth. Flowering is triggered by shorter
-days (or longer nights), a photoperiodic response that varies
-with strain. Critical daylength applies only to plants that
-fail to flower under continuous illumination.
-
-## Sexual Expression
-
-Cannabis is primarily dioecious, meaning male and female
-flowers develop on separate plants, though monoecious examples
-occur. Female (pistillate) plants tend to be shorter with more
-branches, while male (staminate) plants have fewer leaves near
-the top and extended flowering limbs. Under normal conditions,
-approximately equal numbers of males and females are produced.
-
-The first sign of flowering is the appearance of undifferentiated
-primordia at the nodes. These soon differentiate: males show
-curved claw shapes, females develop symmetrical tubular calyxes.
-Pistillate flowers appear as two white, yellow, or pink pistils
-protruding from a thin membranous calyx covered with resin
-exuding glandular trichomes. See [[cannabis-sex-determination-floral-biology]] for detailed reproductive biology.
+the distinct phenotypic groups. See [[cannabis-sex-determination-floral-biology]] for detailed reproductive biology.
 
 ## Genetic Diversity and Conservation
 
@@ -89,18 +55,7 @@ rapidly through genetically uniform crops. Clarke warns that
 the spread of patented commercial hybrids could lead to
 extinction of rare native strains. The 1970 Southern corn
 leaf-blight epidemic demonstrates the vulnerability of
-genetically uniform crops to disease. Cannabis [[cannabis-genetics-and-breeding]] programs depend on preserving
-primitive gene pools contained in native landrace strains.
-
-## Chemotype Variation
-
-Cannabis strains vary enormously in their cannabinoid profiles.
-The ratio of THC to CBD has been used in chemotype determination.
-The genetically determined inability of certain strains to
-convert CBD acid to THC acid places them in the fiber chemotype.
-Drug strains rarely produce more than 2 percent THC without
-selection, while modern breeding has produced strains exceeding
-20 percent THC. See [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] for the biochemistry of cannabinoid production.
+genetically uniform crops to disease. Cannabis [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] for the biochemistry of cannabinoid production.
 
 ## Propagation Methods
 
@@ -111,15 +66,24 @@ parents, producing variation among offspring. Asexual propagation
 allows exact replication of the parental genotype. Understanding
 the distinction between genotype (genetic makeup) and phenotype
 (visible expression influenced by environment) is fundamental
-to [[cannabis-breeding-fundamentals]].
-
-## Morphological Adaptation
-
-Cannabis exhibits remarkable phenotypic plasticity. The same
-genotype can produce dramatically different phenotypes depending
-on environmental conditions. Seedlings of imported strains
-typically show wide variation, reflecting their heterozygous
-genetic backgrounds. This variability has allowed the species
-to adapt to environments ranging from equatorial lowlands to
-temperate highlands. See [[cannabis-propagation-techniques]] for
+to [[cannabis-propagation-techniques]] for
 practical guidance on propagation methods.
+## Practical Considerations
+
+Successful implementation of Cannabis Botany and Taxonomy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

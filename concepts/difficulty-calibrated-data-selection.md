@@ -15,57 +15,7 @@ examples based on their difficulty level relative to the model's current
 capability. Rather than training on all available data uniformly, examples are
 sampled or weighted according to how challenging they are, optimizing the
 learning signal per training step. This is especially important when working
-with [[synthetic-data-generation]], where difficulty spans a much wider range than typical
-human-annotated datasets.
-
-## Why Difficulty Matters
-
-Training on exclusively easy examples wastes compute on material the model has
-already learned. Training on exclusively hard examples leads to slow or no
-learning because the model cannot extract useful gradients from problems far
-beyond its capability. The optimal training mix concentrates examples at the
-frontier of the model's current ability, where the learning signal is richest.
-
-This aligns with Vygotsky's zone of proximal development: learning is most
-effective when tasks are just beyond the learner's current independent
-capability but still achievable with effort.
-
-## Measuring Difficulty
-
-**Model-based difficulty** uses the training model itself as a difficulty judge.
-Examples where the model's loss is high are considered difficult. This is
-computationally cheap (loss is already computed during training) but noisy, as
-high loss can reflect ambiguity or data quality issues rather than genuine
-difficulty.
-
-**Judge-based difficulty** employs a separate model to rate example difficulty.
-A strong model evaluates each training example and assigns a difficulty score.
-This is more robust but requires additional inference compute.
-
-**Verification-based difficulty** defines difficulty by whether automated
-verifiers can solve the problem. Problems that require multiple verification
-attempts or fail verification are rated as more difficult.
-
-**Structural difficulty** uses problem features to estimate difficulty. For
-math, problem length, number of operations, and nesting depth correlate with
-difficulty. For code, cyclomatic complexity and dependency count serve as
-proxies. This approach is fast but domain-specific.
-
-## Selection Strategies
-
-**Frontier sampling** selects examples where the model's accuracy is around
-50%. These are the most informative examples where the model is genuinely
-uncertain. Accuracy is estimated on a held-out pass through the data.
-
-**Curriculum scheduling** starts with easy examples and progressively
-introduces harder ones. This mimics educational curricula and helps models
-build foundational skills before tackling complex problems. The schedule can
-be linear, step-wise, or adaptive based on model performance.
-
-**Anti-curriculum scheduling** reverses the order, starting with hard
-examples. Counterintuitively, this sometimes outperforms curriculum approaches
-because hard examples provide stronger gradients when the model is still
-underparameterized [[plant-memory-and-learning]] representations.
+with [[plant-memory-and-learning]] representations.
 
 **Mixed-batch sampling** includes examples from multiple difficulty levels in
 each training batch. This prevents the model from forgetting easier skills
@@ -94,10 +44,67 @@ informative throughout the training process.
 
 ## See Also
 
-- [[cannabis-phenotype-selection]]
-
 - [[synthetic-log-cultivation]]
 - curriculum learning
 - [[reasoning-trace-curation]]
 - active learning
 - data augmentation
+## Practical Considerations
+
+When working with Difficulty-Calibrated Data Selection, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

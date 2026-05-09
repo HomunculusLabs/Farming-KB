@@ -141,8 +141,6 @@ target for antifungal development.
 
 ## Related concepts
 
-- [[gadd-fungal-cell-structure]]
 - [[gadd-fungal-metal-interactions]]
-- [[gadd-rice-blast-magnaporthe-grisea]]
 - [[gadd-peroxisomes-ascomycete-lifestyle]]
 - [[gadd-fungal-ecology-pathogens]]

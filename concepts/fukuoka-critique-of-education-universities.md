@@ -50,13 +50,7 @@ Fukuoka argued that the advance of hospitals is merely a barometer of the collap
 
 - The more medicine advances and the number of hospitals increases, the frailer the human body becomes
 
-This is not healing but managed decline, presented as progress. The connection to [[fukuoka-critique-modern-livestock]] is direct: medicine treats symptoms while the underlying constitution continues to weaken through unnatural diet and lifestyle.
-
-## Agricultural Science as Rescue Effort
-
-Agricultural progress has really consisted of nothing more than resorting to passive rescue efforts when rice grew diseased and unhealthy and yields fell.
-
-- Although [[fukuoka-natural-farming]] was capable of yielding eight to twelve bushels per quarter-acre, man destroyed the soil and rice by breeding weaker varieties
+This is not healing but managed decline, presented as progress. The connection to [[fukuoka-natural-farming]] was capable of yielding eight to twelve bushels per quarter-acre, man destroyed the soil and rice by breeding weaker varieties
 
 - Mankind has put himself in the position where, unless further progress is made, it will no longer be possible to harvest the yields of yesterday
 
@@ -64,7 +58,7 @@ Agricultural progress has really consisted of nothing more than resorting to pas
 
 - The pattern: first man creates unnatural and incomplete conditions, then develops technology to restore productivity, then brands this proudly as progress
 
-This connects to [[fukuoka-critique-laws-agricultural-science]] and [[fukuoka-critique-western-dietetics-nutritional-science]].
+This connects to [[fukuoka-critique-western-dietetics-nutritional-science]].
 
 ## The Fragmentation of Knowledge
 
@@ -100,27 +94,15 @@ Fukuoka was emphatic: there is no such thing as a non-polluting pesticide.
 
 ## An Age of Confrontation
 
-Fukuoka believed humanity had entered an age of confrontation between [[fukuoka-do-nothing-farming-philosophy-and-practice]], science, and religion. Things had gotten out of control, but who was going to bring them back? Each college claims to have its own policy and objectives, yet none can address the fundamental crisis: that man has separated himself from nature through the very act of studying it.
-
-## See Also
-
-- [[fukuoka-road-back-to-nature-overview]]
-
-- [[fukuoka-critique-western-dietetics-nutritional-science]]
+Fukuoka believed humanity had entered an age of confrontation between [[fukuoka-road-back-to-nature-overview]]
 
 - [[fukuoka-critique-modern-livestock]]
 
-- [[fukuoka-critique-laws-agricultural-science]]
-
 - [[fukuoka-do-nothing-farming-philosophy]]
 
-- [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
-
 - [[fukuoka-science-continues-rampage]]
-
-- [[fukuoka-errors-human-intellect]]
 
 - [[fukuoka-nature-as-teacher]]
 
 ## Merged: Fukuoka Children Nature Education
-In the closing sections of "The Road Back to Nature," Fukuoka delivers a scathing critique of modern education, arguing that schools systematically separate children from God and nature. His vision of proper education is radical: learning directly from nature that requires no formal instruction. 297-303 (God, man, and nature; children and God; the world of nothing) updated: 2026-04-18 - [[fukuoka-natural-farming-philosophy]] - [[fukuoka-critique-modern-livestock]] - [[fukuoka-do-nothing-farming-and-spiritual-life]] - [[fukuoka-road-back-to-nature-overview]] "When still children, people understand God, but ten or twenty years later they have forgotten him." Even kindergarteners who still understand "are yanked" away from this by teachers.
+In the closing sections of "The Road Back to Nature," Fukuoka delivers a scathing critique of modern education, arguing that schools systematically separate children from God and nature. His vision of proper education is radical: learning directly from nature that requires no formal instruction. 297-303 (God, man, and nature; children and God; the world of nothing) updated: 2026-04-18 - [[fukuoka-critique-modern-livestock]] - [[fukuoka-road-back-to-nature-overview]] "When still children, people understand God, but ten or twenty years later they have forgotten him." Even kindergarteners who still understand "are yanked" away from this by teachers.

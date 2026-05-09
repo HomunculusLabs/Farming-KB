@@ -3,41 +3,7 @@ title: Faires Hugelkultur and Forest Garden Strategy
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Faires Hugelkultur and Forest Garden Strategy
-
-Comprehensive guide to two key permaculture techniques: hugelkultur beds and forest garden design, including plant communities and companion planting strategies.
-
-## Hugelkultur
-
-### What It Is
-A method of burying old wood in the ground under a garden bed. It patterns the exact processes of the forest, returns massive organic material to soil, retains huge quantities of water, and breaks down over time leaving air pockets for plant roots.
-
-### Wood Selection
-- Avoid: treated wood, cedar, black locust (don't rot well), black walnut (toxic to plants)
-- Fresh wood robs soil of nitrogen during decomposition — add nitrogen sources
-- Best: wood that has been laying around for a couple of years (brush, stumps, roots, debris)
-- Well-rotted wood may actually release nitrogen
-
-### Construction Steps
-1. Remove a strip of sod (saved for later mulch layer)
-2. Lay down wood layer, at least a couple of feet deep
-3. Sandwich layers of mulch and soil (leaves, grass clippings, compost, straw, moldy hay)
-4. Flip removed sod upside down on top, add another soil layer
-5. Line sides with rocks to prevent erosion
-6. First planting: grow a cover crop like clover to fix nitrogen
-7. Follow with root vegetables: potatoes, carrots, radishes
-
-### Nitrogen Strategy for Fresh Wood
-- Key ingredient: **urine** from separating compost toilet diverted to beds
-- Straw from animal bedding as mulch layer
-- Fungi naturally grow and speed decomposition process
-
-### Integration
-- Can function like a [[comparison-swale-design-vs-contour-swale-irrigation-design]] with trees planted between beds
+tags: [[comparison-swale-design-vs-contour-swale-irrigation-design]] with trees planted between beds
 - On larger scale: applicable to chinampa systems
 
 ## Soil Teas
@@ -127,16 +93,11 @@ Rings of plants under the canopy:
 
 ## See Also
 
-- [[faires-hugelkultur-and-forest-mimicry]]
-
 - [[mollison-soil-improvement-and-rehabilitation]] — soil techniques
-- [[swale-design-construction]] — swale design
 - [[food-forest-design]] — food forest concepts
-- [[composting-systems]] — composting
 - [[permaculture-zones-and-sectors]] — zone planning
 
 ## Related
 
-- [[guild-design-methodology]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

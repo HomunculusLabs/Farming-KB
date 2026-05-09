@@ -122,9 +122,6 @@ The guide's insistence on "proper motives and deference to the earth" places it 
 
 ## See Also
 
-- [[practitioner-cannabis-ritual-use-and-sacrament]]
-
 - [[marijuana-magick-cannabis-sacred-spatial-preparation]]
-- [[marijuana-magick-cannabis-incense-and-preparation]]
 - [[marijuana-magick-scrying-and-divination-cannabis]]
 - [[marijuana-magick-historical-witches-and-cannabis]]

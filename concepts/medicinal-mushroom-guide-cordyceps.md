@@ -23,7 +23,7 @@ Cordyceps has been used in Tibetan and Chinese medicine for centuries as a tonic
 - **Cordycepin (3'-deoxyadenosine):** The signature nucleoside analog. Antibacterial, antiviral, anti-inflammatory, and anti-tumor. Found in both species but at higher concentrations in C. militaris.
 - **Adenosine:** Nucleoside involved in energy metabolism, vasodilation, and neuroprotection. High in wild O. sinensis.
 - **Cordycepic acid (D-mannitol):** Sugar alcohol with diuretic and expectorant properties.
-- **[[beta-glucans]]:** Immune-modulating polysaccharides.
+- **Beta-glucans:** Immune-modulating polysaccharides.
 - **Ergosterol:** Provitamin D2 precursor.
 
 ## Mechanisms of Action
@@ -141,7 +141,3 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - [[medicinal-mushroom-guide-reishi]] for calming energy balance
 - [[adaptogenic-herbs-guide]] for complementary adaptogens
 - [[medicinal-mushroom-guide-lions-mane]] for cognitive performance pairing
-
-## See Also
-
-- [[huperzine-a]]

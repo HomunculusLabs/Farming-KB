@@ -109,12 +109,8 @@ The species can hybridize with other *Curcuma* species in cultivation, producing
 ## See Also
 
 - [[curcuma-longa]]
-- [[curcuma-caesia]]
 - [[curcuma-zedoaria]]
-- [[curcuma-amada]]
 - [[zingiber-officinale]]
-- [[kaempferia-galanga]]
 - [[alpinia-galanga]]
-- [[elettaria-cardamomum]]
 - [[hedychium-coronarium]]
 - [[zingiber-zerumbet]]

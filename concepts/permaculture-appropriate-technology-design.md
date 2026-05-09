@@ -3,7 +3,7 @@ title: Permaculture Appropriate Technology Design
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -93,11 +93,7 @@ The broader question is whether the perceived benefits of any technology outweig
 
 ## See Also
 
-- [[appropriate-technology]]
 - [[permaculture-mapping-and-design-tools]]
-- [[permaculture-building-design]]
 - [[permaculture-emergy-accounting]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
-- [[root-cellaring-and-no-energy-food-storage]]
+- [[permaculture-farm-design-principles]]
 - [[permaculture-non-renewable-energy-investment]]

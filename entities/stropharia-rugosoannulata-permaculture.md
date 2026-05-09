@@ -116,7 +116,9 @@ Wine caps are nutritionally comparable to other cultivated mushrooms:
 
 ## See Also
 
-- [[pleurotus-ostreatus]] — oyster mushroom, another easily cultivated species for permaculture systems
 - [[comfrey-permaculture]] — the classic permaculture dynamic accumulator, complementary to wine cap in guild plantings
-- [[stinging-nettle]] — nitrogen-fixing companion plant that can provide substrate nitrogen for wine cap beds
-- [[laetiporus-sulphureus-permaculture]] — chicken of the woods, another edible bracket fungus with permaculture applications
+- [[laetiporus-sulphureus]] — chicken of the woods, another edible bracket fungus with permaculture applications
+
+## See Also
+
+- [[permaculture-companion-planting]]

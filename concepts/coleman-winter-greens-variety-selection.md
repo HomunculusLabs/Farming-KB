@@ -54,35 +54,7 @@ and can be harvested as individual leaves or whole small plants.
 This crop is less well-known than mache or claytonia but fills an
 important niche in the winter salad mix. It tolerates both extreme
 cold and relatively warm conditions, making it productive across a
-wide range of winter temperatures. See [[coleman-cold-hardiness-testing-ratings]]
-for specific temperature tolerances.
-
-## Spinach
-
-Spinach is a mainstay of winter production. Coleman favors smooth-leaf
-varieties for winter use because they are easier to clean after
-freezing. 'Giant Winter,' 'Tyee,' 'Space,' and 'Regiment' are among
-his preferred selections. Spinach seeded in late summer and early fall
-establishes strong root systems before winter, enabling continuous
-harvest through the coldest months.
-
-Winter spinach grows slowly during the shortest days but accelerates
-as day length increases in February. Coleman uses spinach both as a
-baby salad leaf and as a mature cooking green. The crop responds well
-to the protection of high tunnels and row covers.
-
-## Kale
-
-Kale varieties differ significantly in winter hardiness. Coleman
-prefers the most cold-tolerant types, particularly Siberian kale
-('Red Russian') and true Scots kale ('Nero di Toscana' or 'Dinosaur
-kale'). These varieties develop sweeter flavor after frost as starches
-convert to sugars.
-
-Kale is typically seeded in mid-summer for fall transplanting. Plants
-reach full size before winter and can be harvested leaf-by-leaf
-through the cold months. In an unheated tunnel, kale can survive
-temperatures below 10 degrees Fahrenheit with proper [[coleman-row-cover-fabric-management]].
+wide range of winter temperatures. See [[coleman-row-cover-fabric-management]].
 
 ## Arugula
 
@@ -112,20 +84,7 @@ Other cold-hardy greens in Coleman's winter lineup include:
 
 ## Planting Windows and Timing
 
-The [[coleman-winter-harvest-planting-schedule]] provides detailed
-seeding dates for each crop. In general, winter greens must be well
-established by the time day length drops below 10 hours, as growth
-nearly ceases during the shortest days. Most crops are seeded between
-August and October, with harvests beginning in November and continuing
-through March or April.
-
-## Seed Quality and Source
-
-Coleman emphasizes sourcing high-quality seed from suppliers who
-maintain the genetic integrity of cold-hardy varieties. Saved seed
-from plants that have performed well in winter conditions can be
-selected over generations for improved local adaptation. This
-practice connects directly to the [[coleman-french-intensive-bed-method]]
+The [[coleman-french-intensive-bed-method]]
 philosophy of ongoing soil and variety improvement.
 
 ## See Also

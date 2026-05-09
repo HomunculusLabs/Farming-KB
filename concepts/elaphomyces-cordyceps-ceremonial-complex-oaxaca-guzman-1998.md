@@ -140,11 +140,8 @@ Several aspects of this ceremonial complex remain poorly understood:
    identified
 5. The linguistic and conceptual framework surrounding the "director" role
    of Elaphomyces needs further study
-
 ## See Also
 
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
 - [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
 - [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]

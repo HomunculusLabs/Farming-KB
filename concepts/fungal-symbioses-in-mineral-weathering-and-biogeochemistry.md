@@ -1,53 +1,8 @@
 ---
 title: Fungal Symbioses in Mineral Weathering and Biogeochemistry
 created: 2026-04-28
-tags: [mycology, biogeochemistry, mycorrhiza, lichen, mineral-weathering]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
-type: concept
----
-# Fungal Symbioses in Mineral Weathering and Biogeochemistry
-
-One of the most remarkable adaptations of fungi for exploitation of soil
-and rock environments is their ability to form mutualistic partnerships
-with land plants ([[arbuscular-mycorrhizal-fungi-biology-symbiosis]]) and algae or
-cyanobacteria ([[symbiotic-fungi-lichen-symbiosis-mechanisms]]). Symbiotic fungi are
-provided with carbon by photosynthetic partners while they protect the
-symbiosis from harsh environmental conditions, increase absorptive area,
-and provide enhanced access to mineral nutrients.
-
-## Lichens as Pioneer Colonizers and Biogeochemical Agents
-
-Lichens, fungi existing in facultative or obligate symbioses with one or
-more photosynthesizing partners, play an important role in many
-biogeochemical processes. They are commonly thought of as pioneer
-colonizers of fresh rock outcrops and were possibly one of the earliest
-life forms to occupy Earth's land surfaces. An estimated 6% of the
-Earth's land surface is covered by lichen-dominated vegetation.
-
-Globally, lichens play important biogeochemical roles in the retention
-and distribution of nutrient (e.g. carbon, nitrogen) and trace elements,
-in soil formation processes, and in rock weathering. Lichens can
-accumulate metals such as lead, copper and others of environmental
-concern, including radionuclides, and also form a variety of
-metal-organic biominerals, especially during growth on metal-rich
-substrates.
-
-## Lichen Biogeochemistry and Metal Accumulation
-
-Lichens possess remarkable capacities for metal accumulation and
-tolerance. Their ability to concentrate trace elements from atmospheric
-deposition and substrate weathering has made them important bioindicators
-of air quality and environmental contamination. The mechanisms of metal
-accumulation in lichens include extracellular binding to cell wall
-components, intracellular sequestration, and extracellular precipitation
-as metal-organic complexes and biominerals.
-
-## Mycorrhizal Mineral Weathering
-
-Nearly all land plants depend on symbiotic [[mycorrhizal-fungi]]. Two main
+tags: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]) and algae or
+cyanobacteria ([[mycorrhizal-fungi]]. Two main
 types are endomycorrhizas, where the fungus colonizes the interior of
 host plant root cells (e.g. ericoid and arbuscular mycorrhizas), and
 ectomycorrhizas, where the fungus is located outside the root cells.
@@ -80,7 +35,7 @@ Ericoid mycorrhizal and ectomycorrhizal fungi can dissolve a variety
 of cadmium-, copper-, zinc- and lead-bearing minerals, including metal
 phosphates. Mobilization of phosphorus is regarded as one of the most
 important functions of mycorrhizal fungi. The ectomycorrhizal fungi
-[[suillus-granulatus]] and [[paxillus-involutus]] were able to release elements
+[[paxillus-involutus]] were able to release elements
 from apatite and wood ash (potassium, calcium, titanium, manganese,
 lead) and accumulate them in the mycelia, especially within
 rhizomorphs. This capacity for targeted mineral dissolution and

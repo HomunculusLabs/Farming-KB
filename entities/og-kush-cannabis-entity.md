@@ -114,12 +114,7 @@ OG Kush became synonymous with premium California cannabis in the late 1990s and
 
 ## See Also
 
-- [[khalifa-kush]]
-
 - [[kosher-kush-entity]]
 
-- [[sour-diesel-cannabis]]
-- Girl Scout Cookies
 - [[jack-herer-cannabis-strain]]
-- [[purple-haze-cannabis]]
 - [[cannabis-sativa]]

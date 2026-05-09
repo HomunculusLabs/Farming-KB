@@ -99,22 +99,13 @@ Allergenicity to lupin proteins has been identified as a concern, particularly f
 
 ## See Also
 
-- [[lupinus-albus]]
 - [[glycine-max]]
-- [[arachis-hypogaea]]
 - [[vicia-faba]]
-- [[pisum-sativum]]
 - [[vigna-mungo]]
-- [[crotalaria-juncea]]
 - [[mucuna-pruriens]]
-- [[canavalia-ensiformis]]
 - [[vigna-unguiculata]]
-- [[bertholletia-excelsa]]
 - [[macadamia-integrifolia]]
-- [[arachis-pintoi]]
-- [[trigonella-foenum-graecum]]
-- [[nigella-sativa]]
+- arachis pintoi
 - [[pimpinella-anisum]]
-- [[foeniculum-vulgare]]
 - [[coriandrum-sativum]]
 - [[vigna-radiata]]

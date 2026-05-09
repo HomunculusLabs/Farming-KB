@@ -14,34 +14,11 @@ sources:
 type: concept
 ---
 
-# Secondary [[plant-nutrient-deficiency-diagnosis]] and Toxicity in Cannabis
-
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- Jorge Cervantes
+# Secondary [[jorge-cervantes]]
 
 ## Overview
 
-The [[calcium-magnesium-secondary-nutrients]] -- magnesium, calcium, and sulfur -- are also used
-by plants in large amounts. Rapid-growing indoor marijuana crops are able
-to process more secondary nutrients than most general-purpose fertilizers
-can supply. Many growers opt to use high-quality two- and three-part
-hydroponic fertilizers to supply all necessary secondary and trace
-elements. For primary cannabis-nitrogen|nitrogen requirements, see the dedicated nutrient page.
-
-Be careful: these three nutrients may be present in high levels in ground
-water. It is important to consider these values when adding nutrient
-supplements. If growing in a soil or soilless mix with a pH below 7 such
-as Peat-Lite, incorporating one cup of fine (flour) dolomite lime per
-gallon of medium ensures adequate supplies of calcium and magnesium.
-
-## Magnesium (Mg) -- Mobile
-
-### Role
-Found as a central atom in every chlorophyll molecule, essential to the
-absorption of light energy. Aids in utilization of nutrients. Helps
-enzymes make carbohydrates and sugars that are later transformed into
-flowers. Also neutralizes soil acids and toxic compounds produced by the
-plant. For specific [[cannabis-magnesium-nutrient]] guidance in cannabis, see that page.
+The [[cannabis-magnesium-nutrient]] guidance in cannabis, see that page.
 
 ### Deficiency
 Very common indoors, especially in acidic soils (pH below 7). Lower

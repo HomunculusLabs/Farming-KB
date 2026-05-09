@@ -81,11 +81,7 @@ Aquarium strains are occasionally maintained in controlled conditions for educat
 
 ## See Also
 
-- [[caulerpa-racemosa]]
 - [[ulva-lactuca]]
-- [[sargassum-fusiforme]]
 - [[kappaphycus-alvarezii]]
-- [[eucheuma-denticulatum]]
 - [[gracilaria-verrucosa]]
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]

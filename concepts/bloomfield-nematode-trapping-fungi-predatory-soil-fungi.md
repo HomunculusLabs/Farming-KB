@@ -129,12 +129,7 @@ works within existing soil ecosystems.
 
 ## See Also
 
-- [[nematode-trapping-fungi]]
 - [[query-how-do-fungi-improve-soil-structure]]
-- [[biodiversity-nematophagous-predatory-fungi]]
 - [[biodiversity-fungi-soil-ecosystems]]
-- [[fungi-in-the-environment-soil-fungal-community-structure]]
-
-- basidiomycetes
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
 - [[stachybotrys-chartarum]]

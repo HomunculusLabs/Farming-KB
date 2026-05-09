@@ -90,9 +90,7 @@ Yet by patient library research one can find overwhelming evidence of such subst
 While Harner does not address it directly in this work, the use of *Amanita muscaria* in Siberian shamanism has long been connected to the debate over the identity of **Soma**, the divine hallucinogenic plant of the ancient Vedic rituals of India. R. Gordon Wasson's argument that Soma was *Amanita muscaria* rests in part on the Siberian parallels, particularly the urine-recycling practice, which Wasson connected to Vedic passages about filtering and purifying Soma.
 ## See Also
 
-- [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- [[ethnomycology]]
-- [[harner-shamanic-journey-and-altered-states]]
+- ethnomycology
 - [[psychedelic-safety-and-harm-reduction]]
 - [[psychedelic-spirituality-and-religion]]

@@ -120,10 +120,7 @@ Competition with other wood-inhabiting fungi influences forest stand-level decom
 
 ## See Also
 
-[[trametes-versicolor]]
 [[fomes-fomentarius]]
-[[coriolopsis-gallica]]
 [[bjerkandera-adusta]]
-[[trametes-hirsuta]]
 [[laricifomes-officinalis]]
 [[pleurotus-ostreatus]]

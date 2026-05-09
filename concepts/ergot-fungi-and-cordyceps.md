@@ -3,17 +3,14 @@ title: ergot fungi and cordyceps
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mycology, ergot, cordyceps, alkaloids, neurotropic]
+tags: [[mycology, ergot, cordyceps, alkaloids, neurotropic]
 sources: ["raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"]
 ---
 # Ergot Fungi and Cordyceps
 
 Ergot fungi (genus *Claviceps*) and their relatives in the genus
-*Cordyceps* represent a distinct category [[southern-hemisphere-origin-of-neurotropic-fungi]] that
-produce [[ergot-alkaloids-eleusinian-mysteries]] rather than [[psilocybin]]. These fungi have played
-profound roles in human history — from causing mass poisonings (ergotism)
-to providing the precursors for [[lsd-synthesis-history]]. See also
-[[psilocybe-genus-diversity-and-taxonomy]] and [[neurotropic-fungi-of-mexico]].
+*Cordyceps* represent a distinct category [[ergot-alkaloids-eleusinian-mysteries]] rather than [[lsd-synthesis-history]]. See also
+[[neurotropic-fungi-of-mexico]].
 
 ## The Ergot Group: Claviceps Species
 
@@ -21,10 +18,6 @@ The ergot fungi are Ascomycetes that parasitize grasses and cereals,
 replacing the host plant's grain with dark, hardened sclerotia (ergot
 bodies). Five species of *Claviceps* are recognized as neurotropic:
 
-- ***[[claviceps-purpurea]]*** — the most widespread and historically
-  significant species, parasitizing rye, wheat, barley, and other
-  cereals throughout the temperate world
-- ***Claviceps nigricans*** — found on grasses in cooler climates
 - ***[[claviceps-paspali]]*** — primarily tropical, parasitizing *Paspalum*
   grasses
 - ***Claviceps rolfesii*** — African species
@@ -38,20 +31,7 @@ Ergot fungi produce a complex mixture of alkaloid compounds including:
 - **Ergometrine (ergonovine)** — used to control postpartum hemorrhage
 - **Ergocristine, ergocryptine, ergocornine** — the ergotoxine group
 - **Lysergic acid** — the core chemical structure from which LSD-25
-  ([[lysergic-acid-diethylamide]]) was synthesized by Albert Hofmann in
-  1938
-
-The relationship between ergot alkaloids and LSD is one of the most
-significant connections between natural products and synthetic
-pharmacology in the 20th century. Hofmann's discovery of LSD's
-psychoactive properties in 1943, when he accidentally absorbed a tiny
-amount through his skin, launched the modern era of psychedelic
-research.
-
-## Ergotism: The Historical Impact
-
-Ergotism, known as "St. Anthony's Fire" in the Middle Ages, was caused
-by consumption of grain contaminated wi [[ergot-fungi-and-ergotism-claviceps-purpurea]] urea* sclerotia.
+  ([[ergot-fungi-and-ergotism-claviceps-purpurea]] urea* sclerotia.
 The condition manifested in two forms:
 
 **Convulsive ergotism:** Characterized by violent muscle spasms,

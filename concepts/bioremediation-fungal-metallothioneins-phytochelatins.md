@@ -14,25 +14,8 @@ Fungi possess intracellular metal-binding molecules that play essential
 roles in metal homeostasis and detoxification. The two principal classes
 of these molecules are metallothioneins (MTs) and phytochelatins (PCs),
 both of which bind toxic metals through cysteine thiol groups. These
-compounds are central to [[fungal-heavy-metal-biosorption-and-detoxification]] and have significant implications for [[fungal-bioremediation]]
-and [[heavy-metal-bioremediation]].
-
-## Metallothioneins
-
-Metallothioneins are low-molecular-weight (6000-10,000 Da) cysteine-rich
-proteins produced by animals, plants, and microorganisms in response to
-toxic metal exposure. In fungi, metallothioneins have been extensively
-characterized in the yeast Saccharomyces cerevisiae, where the primary
-function is cellular copper homeostasis. The yeast metallothionein gene
-(CUP1) can be amplified, and increased copy number leads to enhanced
-copper resistance in both S. cerevisiae and Candida glabrata.
-
-Production of metallothioneins has been detected in both copper-resistant
-and cadmium-resistant strains of S. cerevisiae. However, the yeast cannot
-rely on MT synthesis alone for cadmium resistance under all conditions.
-Relatively little work has been carried out on metallothioneins in
-filamentous fungi compared with yeasts, representing an important gap
-in understanding [[gadd-fungal-metal-interactions]].
+compounds are central to [[fungal-bioremediation]]
+and [[gadd-fungal-metal-interactions]].
 
 ## Phytochelatins and Related Peptides
 
@@ -73,8 +56,7 @@ molecular evidence for the role of phytochelatins in metal tolerance.
 Heterologous expression of PCS genes dramatically enhances metal
 tolerance, confirming that phytochelatin production is a major mechanism
 of intracellular detoxification in fungi and plants. This genetic
-evidence is important for potential applications in [[pah-bioremediation]]
-and [[fungal-bioremediation]].
+evidence is important for potential applications in [[fungal-bioremediation]].
 
 ## Bioremediation Applications
 
@@ -120,5 +102,5 @@ plants that accumulated more cadmium in leaves than non-transformed
 controls. Such approaches combine the advantages of fungal metal
 detoxification mechanisms with the large biomass production of plants.
 
-See also: [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]], [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
-[[fungal-heavy-metal-uptake-and-translocation]], [[bioremediation-fungal-metal-metalloid-transformations]].
+See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
+[[mycoremediation]].

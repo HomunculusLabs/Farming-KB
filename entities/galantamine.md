@@ -125,8 +125,6 @@ in the Netherlands and China, supplemented by total chemical synthesis.
 
 ## See Also
 
-- [[digoxin]]
-
 - [[arecoline]] — Muscarinic agonist alkaloid from betel nut
-- [[harmine-entity-tihkal]] — Beta-carboline alkaloid with MAOI activity
+- [[beta-carboline]] alkaloid with MAOI activity
 - [[caffeine]] — Widely used stimulant with cholinergic interactions

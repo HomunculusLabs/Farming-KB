@@ -11,30 +11,8 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 LSD (lysergic acid diethylamide-25) served as the primary substance in the two major
 paradigms of psychedelic-assisted psychotherapy that developed during the 1950s and
-1960s. Discovered accidentally by [[albert-hofmann]] at Sandoz Laboratories in Switzerland
-during World War II, LSD's [[lsd-compound-profile]] and its "fantastically potent mind-altering qualities" opened
-entirely new possibilities for psychological treatment. The initial research
-characterization as bringing about "psychic loosening or opening" (seelische
-Auflockerung) established the therapeutic conceptual framework that guided clinical
-work for decades.
-
-## Early Research Context
-
-When LSD's properties were first discovered, they were characterized as
-"psychotomimetic" and "psycholytic." The prospect of unhinging the mind from its
-normal parameters for a few hours to simulate madness interested a small number of
-daring psychiatric researchers as a possible training experience. This possibility
-also intrigued military and espionage agencies, who devoted considerable effort to
-determining effective surreptitious delivery systems for maximum confusion or
-disorientation. LSD's capacity to tap into hidden mystical potentials ultimately
-ruined its applicability as a weapon, as it suspended existing mental programming
-rather than making subjects predictably controllable.
-
-## The Psycholytic Model
-
-The psycholytic ("mind-loosening") approach was the dominant model for LSD-assisted
-psychotherapy in Europe, developed through the work of researchers in Britain,
-Germany, and Czechoslovakia, as detailed in accounts of [[european-psycholytic-therapy-1960s-1970s]]:
+1960s. Discovered accidentally by gordon-wasson at Sandoz Laboratories in Switzerland
+during World War II, LSD's [[european-psycholytic-therapy-1960s-1970s]]:
 
 - **Target conditions**: Neurotic patients suffering from anxiety, depression,
   obsessive-compulsive disorders, and psychosomatic conditions
@@ -49,35 +27,7 @@ Germany, and Czechoslovakia, as detailed in accounts of [[european-psycholytic-t
 
 ### Grof's Discovery of Perinatal Matrices
 
-The Czech psychiatrist [[stanislav-grof]], working within the psycholytic model, made a
-discovery that fundamentally expanded the scope of psychedelic therapy. He found that
-in a series of sessions involving increasing doses, after patients resolved the
-conflicts stemming from Freudian dynamics of early childhood, there could be an even
-deeper psychic opening -- to birth and prebirth memories. Patients would relive
-significant sensory-emotional features of their birth experience, patterns to which
-Grof gave the name perinatal matrices. This discovery suggested that the unconscious
-contained layers far deeper than Freudian psychoanalysis had mapped, and that
-psychedelic therapy could access these deeper strata of human experience.
-
-### Beyond Birth: Transpersonal Realms
-
-Grof further discovered that after resolving biographical childhood issues and then
-the perinatal traumata, individuals would often find themselves in realms of
-consciousness completely transcendent of time, space, and other parameters of the
-ordinary worldview. He gave the name "transpersonal" to these realms of consciousness
-and "holotropic" ("seeking the whole") to the predominant quality of consciousness
-in these realms. He also applied these terms to other means of accessing these states,
-such as certain breathing methods (holotropic breathwork). This progression -- from
-biographical to perinatal to transpersonal -- became a foundational map for
-understanding the depth potential of psychedelic therapy.
-
-## The Psychedelic Model
-
-The psychedelic model developed in Anglo-American circles as a contrasting approach
-with different philosophical assumptions:
-
-- **Origin**: Humphrey Osmond, working with Abram Hoffer in Canada on alcoholism
-  treatment, coined the term in correspondence with Aldous Huxley. This work grew out of the [[hofmann-lsd-sandoz-research-program]]
+The Czech psychiatrist [[hofmann-lsd-sandoz-research-program]]
   that had initially distributed LSD to researchers worldwide. Osmond also
   provided Huxley his first mescaline experience, immortalized in The Doors of
   Perception (1954).
@@ -126,12 +76,7 @@ pharmacotherapy:
   in a psychedelic state is likely to be severely limited
 - **Spiritual dimensions**: Albert Hofmann testified that his ability to recognize
   the psycholytic properties of LSD was based on its similarity to his childhood
-  mystical experiences in nature. Hofmann's broader [[albert-hofmann-eleusinian-potion-analysis]]
-  work also explored connections between psychoactive substances and ancient ritual practices.
-
-## Cultural and Spiritual Extensions
-
-[[timothy-leary]], stimulated by his association with Aldous Huxley, Huston Smith and
+  mystical experiences in nature. Hofmann's broader [[timothy-leary]], stimulated by his association with Aldous Huxley, Huston Smith and
 Alan Watts, devoted considerable energy to exploring the spiritual dimensions of
 psychedelic experience. This work resulted in adaptations of the Tibetan Buddhist
 Bardo Thodol and the Chinese Taoist Tao Te Ching as guidebooks for psychedelic

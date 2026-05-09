@@ -1,7 +1,7 @@
 ---
 title: Permaculture Settlement Siting for Fire Safety
 created: 2026-04-28
-tags: [permaculture, fire-control, settlement-siting, landscape-design, hazard-planning, zone-planning]
+tags: [[permaculture, fire-control, settlement-siting, landscape-design, hazard-planning, zone-planning]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [bill-mollison-permaculture-design-course.md]
@@ -14,7 +14,6 @@ type: concept
 
 Fire is one of the most common and destructive hazards in permaculture
 landscapes, and proper settlement siting is the first line of defense.
-Bill Mollison devoted significant attention to fire control in the
 [[permaculture-design]] Course, emphasizing that the real danger of fire is
 not flame but radiation. Four hundred feet before a fire, hair catches
 alight; at two hundred feet, bodies split and fat ignites. Effective
@@ -83,50 +82,4 @@ these receive accelerated winds during fires. Mollison witnessed a
 landscape architect placing a house with an acre of fire-promoting
 eucalyptus and pampas grass converging toward it. While the aesthetics
 were reasonable, the function could be fatal. See
-[[permaculture-settlement-design]] for broader settlement principles.
-
-### Fire-Resistant Plant Selection
-
-Avoid plants with high volatile oil content on the fire-danger side of
-settlements. Eucalypts and pines are described as fire weeds, carrying
-cones that open only after fire to extend their range. Instead, use
-willows and poplars that have high water content and throw out black
-clouds of steam when heated. These trees do not transmit radiation
-through their canopy. Short grazers like sheep and wallaby on the fire
-side reduce standing litter to one inch, eliminating ground fire risk.
-
-### House Design for Fire Survival
-
-Houses should be single-story in fire-prone areas. Gutters must be
-screened or fitted with rolled-under roof edges so leaves and fire ash
-slide off rather than accumulating. Monsoon sprinklers on roof ridges
-provide critical protection during ash fall. Roof taps should be
-located outside for emergency activation. Window screens and fire
-hardware mesh prevent large ember entry. Fire shelters should be dug
-into banks behind houses, away from the expected fire direction.
-
-## Applications
-
-### New Settlement Planning
-
-When planning new permaculture settlements, fire safety should be
-integrated from the initial design phase rather than added later.
-Position dwellings in valleys with non-fuel buffer zones on the uphill
-fire side. Install gravity-fed water systems with sprinklers. Design
-roads as both access and firebreak. These elements conflict with
-nothing and support good permaculture design in general.
-
-### Retrofitting Existing Settlements
-
-Existing settlements in fire-prone areas can be improved by creating
-swales covered with old carpet for fast rot-down, planting fire-
-resistant species on the danger side, installing roof sprinklers, and
-constructing fire shelters. Even simple measures like raking litter
-from a 100-foot zone around the house significantly improve survival
-odds.
-
-## References
-
-- Source: bill-mollison-permaculture-design-course.md, lines 3064-3210
-- Related: [[permaculture-settlement-design]], [[permaculture-food-forest-equivalency]]
-- Related: [[permaculture-household-economics]]
+[[permaculture-settlement-design]], [[permaculture-household-economics]]

@@ -113,30 +113,6 @@ taken orally.
 
 Known combinations include:
 
-- **[[acacia]] maidenii** bark — used with Peganum harmala seeds to
-  produce an Australian analog of Ayahuasca.
-- **Acacia simplicifolia** bark — similarly combined for visionary
-  effects.
-- **Acacia phlebophylla** leaves — another Australian Acacia species
-  used in analogous preparations.
-
-In some traditions, 20 to 50 g of roots are boiled with 3 g of
-Peganum harmala seeds and consumed as a drink. Peganum harmala is also
-used in native festivals in Bali and is reportedly sold to foreign
-visitors as a psychoactive preparation.
-
-## History
-
-Peganum harmala has a long history of use in the ancient Near East
-and Central Asia. References to the plant appear in classical Greek,
-Persian, and Arabic medical texts. Its role in shamanic and religious
-contexts, while less extensively documented than that of New World
-hallucinogens, is suggested by the breadth of its traditional
-reverence and the psychoactive potency of its constituents.
-
-## See Also
-
-- [[cannabis-sativa]]
-- [[turbina-corymbosa]]
+- **[[cannabis-sativa]]
 - [[ipomoea-violacea]]
 - [[datura-stramonium]]

@@ -118,9 +118,6 @@ commonly on conifer debris.
 
 ## See Also
 
-- [[grindelia-squarrosa]]
-
 - [[pholiota-adiposa]]
-- [[pholiota-nameko]]
 - [[galerina-marginata]]
-- [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]

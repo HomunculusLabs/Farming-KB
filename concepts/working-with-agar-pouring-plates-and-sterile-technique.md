@@ -102,19 +102,9 @@ Even with careful technique, contamination occasionally occurs. Identifying the 
 - **Yeast contamination** (circular, creamy, raised colonies): Often present on the tissue or spore sample itself. Surface sterilization of specimens before transfer can reduce incidence.
 - **Pink/orange mold**: Often Neurospora or other Neurospora-like fungi, common in warm environments. Indicates the workspace may be too humid or poorly ventilated.
 
-When a plate shows contamination, seal it immediately with parafilm and remove it from the workspace. Never open a contaminated dish, as this releases spores that compromise future work. See [[cultivator-sterile-technique-and-agar-culture]] for comprehensive contamination prevention strategies.
-
-Tracking contamination rates over time is a valuable practice for improving technique. Recording the date, media type, and contaminant observed (along with the specific pouring and inoculation conditions) helps identify patterns and weak points in the workflow. A target contamination rate below 5% is achievable with consistent practice in a laminar flow hood, while rates of 10-20% are more typical for work done in still-air boxes or improvised conditions.
-
-## See Also
-
-- [[cultivator-sterile-technique-and-agar-culture]]
+When a plate shows contamination, seal it immediately with parafilm and remove it from the workspace. Never open a contaminated dish, as this releases spores that compromise future work. See [[cultivator-sterile-technique-and-agar-culture]]
 
 - [[working-with-agar-guide]]
 - [[working-with-agar-guide]]
-- [[working-with-agar-guide]]
-- [[working-with-agar-guide]]
-- [[working-with-agar-grain-to-agar-transfer-techniques]]
 - [[stamets-spore-germination-and-tissue-culture]]
-- [[mushroom-spore-germination-media]]
 - [[laminar-flow-hood-diy-construction]]

@@ -128,8 +128,6 @@ cultivation for the plants that provided cognitive and spiritual gifts.
 
 ## See Also
 
-- [[psilocybin-in-human-evolution]]
 - [[stropharia-cubensis-as-ur-plant]]
-- [[shamanic-ecstasy-and-techniques]]
 - [[psilocybin-chemistry-and-pharmacology]]
 - [[partnership-versus-dominator-culture]]

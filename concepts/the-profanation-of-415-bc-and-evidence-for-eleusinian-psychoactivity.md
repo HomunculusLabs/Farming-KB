@@ -107,11 +107,7 @@ While direct proof is impossible (the kykeon recipe was a closely guarded secret
 
 ## Related Topics
 
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- the kykeon preparation and chemistry
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] -- the chemical evidence
-- [[hofmann-self-experiment-with-ergonovine]] -- the experimental proof
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] -- the ritual context
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]
-- [[rarian-plain-sacred-grain-eleusis]]
 - [[hofmann-ergonovine-self-experiment-detail]]

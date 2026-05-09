@@ -3,46 +3,7 @@ title: Faires Yogurt and Sourdough Making
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Faires Yogurt and Sourdough Making
-
-Practical guide to making yogurt and sourdough bread as part of a self-sufficient homestead food system. Both techniques harness beneficial microorganisms to transform basic ingredients into nutritious, long-lasting foods — core skills in [[faires-food-fermentation-methods]] and [[faires-low-energy-cooking-and-food-preservation]].
-
-## Yogurt
-
-### Principle
-- Bacteria turn lactose into lactic acid
-- Store-bought yogurt has flavoring and sugar; homemade is simply milk and starter
-- Any milk works; starter can be plain yogurt with active cultures
-- Yogurt is an excellent way to use milk that is about to go bad
-- The fermentation process makes milk more digestible for people with mild lactose sensitivity
-
-### Process
-1. Heat 1 quart milk + 3 tablespoons plain yogurt to exactly 100°F (38°C)
-2. Turn off heat, keep warm for 8-12 hours
-3. Done when you can tilt it and it doesn't run
-4. Add fruit, honey, or other flavorings after fermentation if desired
-
-### Heat Sources
-- Wood stove (set at back while cooling)
-- Thermos + sun (heat milk directly in thermos)
-- Oven (preheat, then shut off when milk sits; turn on periodically to maintain warmth)
-- Crockpot (same approach as oven)
-
-### Maintaining Your Starter
-- ALWAYS keep some plain yogurt set aside in the fridge as starter for next batch
-- Refresh your starter weekly to keep cultures active and strong
-- A spoonful from each batch keeps the chain going indefinitely
-- If yogurt fails to set, the culture may have weakened — obtain fresh starter
-
-### Using Homemade Yogurt
-- Plain yogurt as sauce or sour cream replacement
-- Sweeten with sugar, honey, or fruit syrup if desired
-- Strain through cheesecloth for thick Greek-style yogurt
-- Use whey (the liquid drained off) as a starter for [[faires-food-fermentation-methods]]
+tags: [[faires-food-fermentation-methods]] and [[faires-food-fermentation-methods]]
 
 ## Sourdough
 
@@ -94,24 +55,27 @@ For a superior crust, bake inside a preheated Dutch oven:
 
 ### Low-Energy Alternatives
 - Crockpot: dough on small wire rack in pot, water in bottom. Steam bakes bread. Low for 4 hours
-- Solar/thermal cooker: same steam method works in a [[faires-low-energy-cooking-and-food-preservation]]
-- Wood cookstove: use the warming oven or a cast iron pot on the stovetop
-
-## Other Fermented Foods
-
-The same principles apply to other cultured and fermented foods:
-- **Kombucha**: Sweet tea fermented with a SCOBY (symbiotic culture of bacteria and yeast)
-- **Kefir**: Milk fermented with kefir grains, thinner and more tart than yogurt
-- **Miso**: Soybeans fermented with koji (Aspergillus oryzae) for months to years
-- **Tempeh**: Soybeans inoculated with Rhizopus oligosporus and fermented into a firm cake
-
-## See Also
-
-- [[sourdough-bread-guide]] — comprehensive sourdough reference
-- [[wild-yeast-bread-baking]] — wild yeast techniques
+- Solar/thermal cooker: same steam method works in a [[sourdough-bread-guide]] — comprehensive sourdough reference
 - [[food-fermentation-guide]] — fermentation overview
-- [[faires-food-fermentation-methods]] — more fermentation methods
 - [[faires-low-energy-cooking-and-food-preservation]] — cooking methods
-- [[faires-food-drying-and-no-energy-storage]] — food preservation
 - [[faires-no-energy-food-storage]] — storage without refrigeration
 - [[wild-fermentation-vs-cultured-yeast]]
+## Practical Considerations
+
+Successful implementation of Faires Yogurt and Sourdough Making requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

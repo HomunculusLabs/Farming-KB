@@ -99,13 +99,8 @@ Hemenway converted nasty red clay soil to chocolate brown, seething with worms, 
 
 ## See Also
 
-- [[gaias-garden-immature-vs-mature-ecosystems]]
-
 - [[permaculture-sheet-mulch-detailed-guide]] — alternative sheet mulch guide
-- [[sheet-mulching]] — general sheet mulching page
 - [[sheet-mulching-lasagna-gardening]] — lasagna gardening approach
-- [[faires-soil-management-and-sheet-mulching]] — Faires on sheet mulching
 - [[gaias-garden-methods]] — zone planning, sheet mulching, composting overview
-- [[gaias-garden-soil-food-web-and-humus]] — soil biology behind sheet mulching
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[faires-permaculture-soil-and-sheet-mulching]]

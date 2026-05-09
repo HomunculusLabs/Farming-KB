@@ -135,8 +135,6 @@ in popular culture long after its psychoactive properties became widely known.
 
 ## See Also
 
-- [[fly-agaric-in-victorian-literature-and-art]]
 - [[victorian-mycology-and-fairy-rings]]
-- [[fly-agaric-western-literature]]
 - [[fly-agaric-literary-history]]
 - [[siberian-fly-agaric-tradition]]

@@ -9,20 +9,7 @@ sources:
   - https://www.nccih.nih.gov — National Center for Complementary and Integrative Health
   - https://examine.com/supplements/hericium-erinaceus/ — Examine.com Lion's Mane analysis
   - https://examine.com/supplements/reishi-mushroom/ — Examine.com Reishi analysis
-  - https://www.mushroomshealing.com — Fungi Perfecti / Paul Stamets research
-type: comparison
----
-
-## Quick Answer
-
-Choose **Lion's Mane** when your primary goal is cognitive enhancement — memory, focus, nerve repair, or mood support. Choose **Reishi** when you need immune modulation, stress resilience, better sleep, or long-term vitality. They serve fundamentally different systems: brain vs. immune/adaptogenic, and are among the most complementary mushrooms you can stack.
-
-## Side-by-Side Comparison Table
-
-| Attribute | Lion's Mane (Hericium erinaceus) | Reishi (Ganoderma lucidum) |
-|---|---|---|
-| **Scientific name** | *Hericium erinaceus* | *Ganoderma lucidum* |
-| **Key compounds** | Erinacines, hericenones, β-glucans | Ganoderic acids (triterpenes), β-glucans, ganoderan polysaccharides |
+  - https://www.mushroomshealing.com — Fungi Perfecti / [[hericium-erinaceus]]) | Reishi ([[ganoderic-acids]] (triterpenes), β-glucans, ganoderan polysaccharides |
 | **Primary benefits** | NGF stimulation, cognitive support, nerve regeneration | Immunomodulation, stress adaptation, anti-inflammatory, liver support |
 | **Traditional use** | TCM for stomach ailments, nerve tonic | TCM "Lingzhi" — spiritual potency, longevity, chi restoration |
 | **Evidence strength** | Moderate for cognitive (several human RCTs); preliminary for mood | Moderate for immune biomarkers; preliminary for sleep and fatigue |
@@ -124,6 +111,5 @@ Yes — Lion's Mane and Reishi are widely considered one of the best medicinal m
 
 ## See Also
 
-- [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[ganoderic-acids]]
 - [[ganoderma-lucidum]]

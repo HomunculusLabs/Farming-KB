@@ -116,11 +116,7 @@ In dryland gardens, plant trees in small depressions connected by shallow trench
 
 ## See Also
 
-- [[gaias-garden-ecology-for-gardeners]] — ecological principles
-- gaias garden herb spiral and natural patterns — patterns including net-and-pan
 - [[gaia-garden-plant-guilds]] — plant guild design
-- [[mollison-animal-integration-in-permaculture]] — animal integration
 - [[sepp-holzer-garden-helpers-and-pest-regulation]] — garden helpers
-- [[gaias-garden-cover-crops-soil-building]]
 - [[gaias-garden-fruit-tree-selection]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

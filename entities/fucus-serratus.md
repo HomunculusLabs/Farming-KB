@@ -105,16 +105,10 @@ Reproductive maturity is reached at approximately 2–3 years of age. Gamete rel
 
 ## See Also
 
-- [[fucus-vesiculosus]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[palmaria-palmata]]
-- [[chondrus-crispus]]
 - [[ulva-lactuca]]
-- [[himanthalia-elongata]]
 - [[sargassum-fusiforme]]
-- [[porphyra-umbilicalis]]
 - [[gracilaria-verrucosa]]
-- [[undaria-pinnatifida]]
 - [[alaria-esculenta]]
 - [[gelidium-amansii]]

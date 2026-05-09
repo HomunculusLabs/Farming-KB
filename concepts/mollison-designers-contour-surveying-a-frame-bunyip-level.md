@@ -16,21 +16,7 @@ type: concept
 
 # Contour Surveying with A-Frame and Bunyip Level
 
-Contour surveying is a foundational skill in [[permaculture-design]]. Earthworks,
-swales, roads, tree planting rows, and irrigation channels all follow contour
-lines to manage water effectively across the landscape. Mollison emphasises
-that accurate contour mapping is essential before any earthworks begin, and
-that low-cost, locally-made tools are perfectly adequate for the task.
-
-## Why Contour Matters
-
-Water flowing down a slope gains velocity and erosive power. By placing
-earthworks and plantings on contour, water is slowed, spread, and absorbed
-into the soil rather than concentrating into erosive channels. Contour swales
-capture runoff and allow infiltration. Contour roads shed water gently rather
-than creating gullies. Contour tree rows create natural terraces over time as
-leaf litter and soil accumulate on the uphill side. Every element of
-[[permaculture-earthworks-design]] depends on accurate contour identification.
+Contour surveying is a foundational skill in [[permaculture-earthworks-design]] depends on accurate contour identification.
 
 ## The A-Frame Level
 
@@ -97,40 +83,5 @@ apart) create a contour map of the slope. The spacing between contour lines
 indicates the steepness of the slope: closely spaced lines indicate steep
 ground, widely spaced lines indicate gentle slopes.
 
-For [[swale-design]], pegs mark the exact position where the swale berm will be
-constructed. For tree planting, pegs show where each tree will be placed along
-the contour row. Roads are pegged with a slight grade (1 to 3 percent) to
-shed water without causing erosion.
-
-## Mapping Slopes
-
-Slope percentage or angle is measured by determining the vertical rise over a
-known horizontal distance. With a bunyip or laser level, measure the height
-difference between two points a known distance apart (typically 20 metres).
-Slope percentage equals (rise divided by run) multiplied by 100. Slope angle
-equals the arctangent of rise over run.
-
-Mollison provides guidelines for slope-appropriate design: slopes under 3
-percent are suitable for cropping and building; 3 to 15 percent suit
-pasture, orchards, and contour swales; 15 to 30 percent require terracing
-for cultivation; slopes over 30 percent should be kept under permanent tree
-cover for erosion control.
-
-## Applying Contour to Design
-
-Contour information directly informs the placement of all major design
-elements. Swales are excavated on contour to capture and infiltrate runoff.
-Access roads follow contour with gentle grades to move water safely off the
-road surface. Tree planting rows follow contour, creating natural water-
-catching terraces as the system matures. Keyline cultivation follows contour
-from the keypoint (the point in a valley where the slope changes from convex
-to concave) outward to the ridge, spreading water from wet valleys to dry
-ridges.
-
-See [[mollison-designers-broadacre-grain-and-pasture-design]] for farm-scale
-application of contour principles, and [[mollison-designers-landscape-rehabilitation-degraded-mined-land]] for contour-based rehabilitation of
-degraded landscapes.
-
-## See Also
-
-- [[mollison-designers-sea-level-change-coastal-zones]]
+For [[mollison-designers-broadacre-grain-and-pasture-design]] for farm-scale
+application of contour principles, and [[mollison-designers-sea-level-change-coastal-zones]]

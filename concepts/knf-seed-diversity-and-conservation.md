@@ -10,33 +10,7 @@ type: concept
 
 # Seed Diversity and Conservation in KNF
 
-Seed diversity is a foundational concept in [[korean-natural-farming]].
-Dr. Cho's system connects seed preservation to the broader microbial
-world of nature, recognizing that healthy agriculture depends on
-maintaining a wide variety of native seed stocks. The source presents
-a detailed argument for why conserving seed diversity is essential
-for food security, plant resilience, and human health, framing it as
-both a practical agricultural concern and a matter of cultural
-heritage.
-
-## The Historical Context of Seed Diversity
-
-The source traces the relationship between humans and seeds back to
-the dawn of civilization, approximately 10,000 years ago. When humans
-realized that seeds could be sown outside the cave to grow food, it
-marked the end of the hunter-gatherer phase and the beginning of
-agriculture, human settlement, culture, and civilization.
-
-Countless varieties of seeds were adopted for agriculture over
-millennia. As migration and mobility increased, new varieties were
-continuously added to the cultivated world. Scientists like Vavilov
-from Russia accomplished the enormous task of mapping this adopted
-seed diversity, revealing a myriad range of diverse seeds and
-subspecies. This adopted seed variety and diversity represents the
-summit of human civilization and excellence in surviving under
-various conditions.
-
-Dr. Cho's natural farming technologies, emphasizing IMO
+Seed diversity is a foundational concept in [[natural-farming]] technologies, emphasizing IMO
 multiplication in various ways, are presented as directly relevant to
 preserving native varieties and biodiversity by the farming community.
 The system recognizes that very life on earth is of microbial
@@ -112,7 +86,7 @@ potential even with scientific treatments.
 
 While native seeds are preferred, the source acknowledges that many
 farmers rely on commercial seeds. Natural Farming aims to maximize
-whatever seed strength is available. The [[cho-seed-seedling-solution-treatment]]
+whatever seed strength is available. The cho han kyu
 provides a method for treating commercial seeds to recover their
 natural powers.
 
@@ -135,7 +109,7 @@ conditions.
 
 The conservation of seed diversity from the perspective of preventing
 lifestyle diseases is described as the need of the hour. The sage
-advice of [[cho-han-kyu]] and its legacy represents the living nature of
+advice of cho han kyu and its legacy represents the living nature of
 seed and agriculture, connecting traditional wisdom with modern
 farming practice.
 
@@ -143,7 +117,10 @@ farming practice.
 
 - Native seed varieties have superior adaptability, pest resistance,
   and nutritional quality compared to commercial seeds.
-- Seed diversity is both a practical agricultural asset and an
-  invaluable cultural heritage.
+## See Also
+
+- [[seed-saving-techniques]]
 
 ## See Also
+
+- [[gadd-fungal-biodiversity-conservation]]

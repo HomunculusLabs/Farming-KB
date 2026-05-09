@@ -129,11 +129,7 @@ systems.
 
 ## Related Concepts
 
-- [[cannabis-vegetative-growth-stage]]
-- cannabis indoor grow environment
 - [[soil-ph-management]]
-- [[soil-food-web]]
 - [[vermiculite-cannabis]]
 - cannabis pest and disease management
-- [[solomon-complete-organic-fertilizer-guide]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

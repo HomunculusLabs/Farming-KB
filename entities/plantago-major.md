@@ -130,8 +130,6 @@ plants.
 
 ## See Also
 
-- [[comfrey-symphytum-officinale|Comfrey]] — premier dynamic accumulator for permaculture
 - [[urtica-dioica|Stinging Nettle]] — nutrient-dense dynamic accumulator and medicinal herb
-- [[yarrow|Yarrow]] — hardy medicinal ground cover with similar ecological roles
 - [[trifolium-repens|White Clover]] — nitrogen-fixing ground cover companion
 - [[alfalfa-medicago-sativa|Alfalfa]] — deep-rooted dynamic accumulator with similar mineral profiles

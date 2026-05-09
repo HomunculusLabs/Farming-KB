@@ -90,21 +90,7 @@ The mild flavor makes it suitable for mint sauce, jelly, and herbal teas where a
 
 Dried leaves retain their aroma reasonably well and can be stored for several months.
 
-Essential oil yield is lower than in [[mentha-piperita|peppermint]], but the oil has a distinctive sweet-herbaceous profile.
-
-The oil contains primarily menthone, isomenthone, pulegone, and piperitone, with smaller amounts of menthol.
-
-## Bioactive Compounds and Pharmacology
-
-The essential oil of *M. suaveolens* has demonstrated antimicrobial activity against Gram-positive bacteria and several fungal pathogens.
-
-Methanolic extracts show moderate antioxidant capacity in DPPH and ABTS radical scavenging assays.
-
-Traditional herbal uses include treatment of digestive complaints, headaches, and respiratory congestion.
-
-The pulegone content requires attention — this ketone is hepatotoxic at high doses and its concentration varies with chemotype and growing conditions.
-
-Pulegone levels are generally lower in *M. suaveolens* than in [[mentha-pulegium|pennyroyal]], making the plant safer for culinary use.
+Essential oil yield is lower than in [[mentha-pulegium|pennyroyal]], making the plant safer for culinary use.
 
 Topical applications of the crushed leaves have been used traditionally as an insect repellent and mild antiseptic.
 
@@ -124,13 +110,8 @@ Mint chop-and-drop provides a quick nitrogen-rich mulch for garden beds.
 
 ## See Also
 
-- [[mentha-piperita]]
 - [[mentha-spicata]]
-- [[mentha-pulegium]]
 - [[rosmarinus-officinalis-entity]]
-- [[salvia-officinalis]]
 - [[ocimum-basilicum]]
-- [[thymus-vulgaris-entity]]
 - [[nepeta-cataria]]
-- [[melissa-officinalis]]
 - [[companion-planting]]

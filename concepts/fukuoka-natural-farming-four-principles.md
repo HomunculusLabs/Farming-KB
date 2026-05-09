@@ -93,7 +93,7 @@ Fukuoka's rice yields matched or exceeded conventional farms. His method require
 ## Related
 - [[fukuoka-one-straw-revolution-philosophy]] — for the philosophical foundation
 - fukuoka natural farming four principles — for broader context
-- [[composting-and-soil-biology]] — for modern no-till techniques
+- [[no-till-gardening-method]] — for modern no-till techniques
 - [[white-clover-ground-cover]] — for the key ground cover
 - [[fukuoka-desert-reclamation]]
 - [[fukuoka-orchard-method]]

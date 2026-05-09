@@ -13,11 +13,7 @@ created: 2026-04-28
 
 Winter succession planting is the practice of scheduling repeated sowings of
 cold-hardy crops from early August through late fall to maintain continuous
-harvest through winter. Developed as part of [[eliot-coleman]]'s winter-harvest
-system at Four Season Farm in Harborside, Maine, the technique accounts for the
-reversed seasonal dynamics of decreasing day length and cooling temperatures
-that make fall planting fundamentally different from spring planting. It is the
-scheduling discipline that makes [[unheated-greenhouse-winter-harvest]]
+harvest through winter. Developed as part of [[unheated-greenhouse-winter-harvest]]
 possible.
 
 ## The Second Spring
@@ -132,19 +128,15 @@ Successful winter succession planting requires several capabilities:
 
 ## Relationship to Traditional Market Gardening
 
-The winter succession approach has historical precedent in the [[parisian-marketgardening]] tradition of 19th-century Paris, where growers achieved four to
+The winter succession approach has historical precedent in the parisian marketgardening tradition of 19th-century Paris, where growers achieved four to
 eight harvests per year from the same ground through intensive succession
 planting and protected cultivation. Coleman's system adapts this tradition to
 modern materials and American climate conditions, proving that the principles of
 intensive winter production are universally applicable.
-
 ## See Also
 
-- [[direct-seeded-no-tillage-rice-winter-grain-succession]]
 - [[coleman-succession-planting]]
-- [[coleman-winter-harvest-planting-schedule]]
-
 - [[unheated-greenhouse-winter-harvest]]
-- [[season-extension]]
-- [[parisian-market-gardening]]
+- season extension
+- parisian market gardening
 - [[eliot-coleman]]

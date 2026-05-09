@@ -8,36 +8,14 @@ tags:
   - medicinal-plant
   - traditional-medicine
   - astringent
-  - [[permaculture]]
-  - pollinator-support
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Barnes J, Anderson LA, Phillipson JD. "Herbal Medicines." 4th ed.
-    Pharmaceutical Press, 2012.
-  - European Medicines Agency. "HMPC Monograph: Agrimoniae herba."
-    EMA/HMPC/585058/2009, 2014.
-  - Mills S, Bone K. "The Essential Guide to Herbal Safety."
-    Elsevier, 2005.
-  - Chevallier A. "Encyclopedia of Medicinal Plants." DK, 1996.
-  - Taneyama C et al. "Pharmacological review of Agrimonia eupatoria."
-    J Ethnopharmacol 245, 2019.
----
-# Agrimonia eupatoria
-
-## Overview
-
-*Agrimonia eupatoria*, commonly known as agrimony, church steeples, or
-sticklewort, is a herbaceous perennial in the family Rosaceae. Native to
-Europe and temperate Asia, it has been used in traditional medicine for
-over two millennia as an astringent, [[medicinal-mushroom-antioxidant-anti-inflammatory]], and wound-healing
+  - [[medicinal-mushroom-antioxidant-anti-inflammatory]], and wound-healing
 agent.
 
 The plant is recognizable by tall, slender spikes of small yellow flowers
 and pinnate leaves with silvery undersides. Modern research has validated
 several traditional uses, particularly anti-diarrheal, hepatoprotective,
 and antioxidant properties. Agrimony alsfukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-covera pollinator plant
-[[fukuoka-white-clover-ground-cover]] o [[water-harvesting-and-conservation-in-permaculture]] ture designs.
+[[water-harvesting-and-conservation-in-permaculture]] ture designs.
 
 ## Taxonomy
 
@@ -69,15 +47,7 @@ seed-dispersal-ecology-and-mechanismsusters, oleanolic acid — anti-inflammator
 hepatoprotective.
 
 **Phenolic acids:** Chlorogenic acid, caffeic acid — antioxidant.
-**Volatile oils:** [[eugenol]] in small quantities — mild antimicrobial.
-
-## Pharmacology
-
-**Anti-diarrheal:** Tannins precipitate mucosal proteins, reducing
-intestinal fluid secretion. Ellagitannins show direct antimicrobial
-activity against enteropathogens.
-
-**Anti-inflammatory [[ursolic-acid]] acid [[blesching-cannabis-terpenoids-and-flavonoids]] inhibit COX and
+**Volatile oils:** [[ursolic-acid]] acid [[blesching-cannabis-terpenoids-and-flavonoids]] inhibit COX and
 LOX pathways. Agrimoniin demonstrates TNF-α suppression in vitro.
 
 **Antioxidant:** High ORAC values driven by flavonoid and phenolic

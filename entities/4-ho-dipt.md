@@ -122,7 +122,6 @@ European countries, including Germany (NpSG) and Austria (SMG).
 The compound has been detected in forensic drug samples across Europe and
 North America since the mid-2000s, though it remains less prevalent than
 4-HO-MET, 4-AcO-DMT, or 5-MeO-DMT in analytical seizure data.
-
 ## Related Compounds
 
 4-HO-DiPT is part of the 4-hydroxy tryptamine series:
@@ -139,12 +138,7 @@ of this auditory character while gaining the psychedelic visual component.
 
 ## See Also
 
-- [[4-ho-ept]]
-
 - [[4-ho-dipt-entity-tihkal]]
-- [[4-ho-mipt]]
 - [[4-ho-met]]
-- [[4-aco-dmt]]
 - [[psilocin]]
-- [[psilocybin-compound]]
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]

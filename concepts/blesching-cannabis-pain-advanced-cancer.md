@@ -24,9 +24,7 @@ may become unresponsive to conventional analgesic approaches. The Cannabis
 Health Index assigns this condition a high evidence rating based on 2 studies
 reviewed with a total CHI value of 10, yielding a CHI score of 5.00.
 
-See also: [[blesching-cannabis-cancer-symptoms]],
-[[cannabis-chronic-pain-management]],
-[[blesching-cannabis-palliative-care]],
+See also: [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-neuropathic-pain]],
 [[blesching-cannabis-chemotherapy-nausea]]
 

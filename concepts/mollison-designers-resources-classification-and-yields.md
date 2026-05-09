@@ -1,17 +1,7 @@
 ---
 title: Resources Classification and Yields
 created: 2026-04-28
-tags: [permaculture, resources, yields, resource-management, design]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Resources Classification and Yields
-
-Understanding resources and yields is fundamental to [[permaculture-design]]. The
+tags: [[permaculture-design]]. The
 energies coming into a system (sun, wind, rain) are translated by living
 components and technologies into useful reserves called resources. The surplus
 over system needs is the yield.
@@ -118,7 +108,5 @@ are tomorrow's disasters.
 
 ## See Also
 
-- [[mollison-designers-permaculture-principles-and-ethics]]
 - [[mollison-designers-design-methods-overview-process]]
-- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
 - [[mollison-designers-design-methods-analysis]]

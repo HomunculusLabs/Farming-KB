@@ -133,17 +133,9 @@ considerations include:
 
 | Strain | Comparison |
 |---|---|
-| [[sour-diesel]] | More diesel/fuel aroma; similar energetic effects |
 | [[jack-herer]] | More complex spice/pine flavor; slightly more cerebral |
-| [[super-lemon-haze]] | Stronger lemon terpene profile; comparable energy |
 | [[amnesia-haze]] | Longer flowering; more potent but similar sativa character |
-| [[cannabis-indoor-growing-guide]] | Pure landrace sativa; more focused, less euphoric |
-
-## See Also
-
-- [[skunk-1]]
-- [[myrcene]]
+| [[skunk-1]]
 - [[limonene]]
-- [[cannabis-sativa-indoor-cultivation-techniques]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[sativa-landrace-strains-and-geographic-origins]]

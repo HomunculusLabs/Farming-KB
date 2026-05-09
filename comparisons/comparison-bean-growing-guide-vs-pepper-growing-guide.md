@@ -27,30 +27,6 @@ more demanding peppers.
 
 ## Bean Growing Guide
 
-[[bean-growing-guide]] covers one of the most rewarding and low-maintenance crops available
-to home gardeners. Beans are legumes, meaning they fix atmospheric nitrogen through a
-symbiotic relationship with rhizobia bacteria that colonize their root systems. This natural
-fertilization means beans have very low fertilizer requirements and actually improve soil
-fertility for subsequent crops.
-
-Beans come in two main growth habits. Bush beans are compact plants that mature in 50 to 65
-days and produce a concentrated harvest, making them ideal for succession planting and
-smaller gardens. Pole beans require trellising but produce over a longer period of 60 to 75
-days and then continue yielding until frost, providing a steady supply throughout summer.
-
-Direct sowing is essential for beans; they dislike transplanting and suffer significant root
-disturbance if started indoors. Soil temperature must reach at least 60 degrees Fahrenheit
-before planting. Inoculating seeds with rhizobia bacteria at planting time significantly
-improves nitrogen fixation, especially in soils that have not previously grown legumes.
-
-Succession planting works exceptionally well with bush beans, allowing gardeners to sow a
-new batch every two to three weeks for continuous harvests throughout the season. Common
-pests include the Mexican bean beetle, which can be managed with hand-picking, row covers,
-or biological controls. Beans are ready to harvest when pods snap easily and seeds inside
-are still tender.
-
-## Pepper Growing Guide
-
 [[pepper-growing-guide]] details the cultivation of one of the most popular warm-season
 vegetables, prized for its incredible variety of flavors, colors, and heat levels. Peppers
 range from sweet bell peppers to fiery habaneros and ghost peppers, with heat measured on
@@ -129,10 +105,7 @@ adequate sunlight throughout the growing season.
 
 ## See Also
 
-- [[bean-growing-guide]]
 - [[pepper-growing-guide]]
 - warm season crops
-- [[cervantes-companion-planting-pest-deterrent]]
 - [[legume-nitrogen-fixation-mechanism]]
-- [[cervantes-container-gardening-pot-size]]
 - [[seed-starting-indoors]]

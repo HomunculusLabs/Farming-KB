@@ -124,8 +124,6 @@ multiple linguistic filters. Nonetheless, the scholarly consensus now
 strongly supports the mushroom identification, and the connection between
 teonanacatl and psilocybin mushrooms is widely accepted in both
 anthropological and mycological circles.
-- [[maria-sabina-mazatec-mushroom-curandera]]
-- [[mushroom-cultivation-fundamentals]]
-- [[mazatec-mushroom-culture-and-velada]]
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[magic-mushroom-british-underground-and-festivals]]
 - [[mexican-mushroom-stones-archaeological-evidence]]

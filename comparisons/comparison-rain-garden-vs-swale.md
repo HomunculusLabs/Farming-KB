@@ -18,7 +18,7 @@ Rain gardens are shallow vegetated depressions designed to capture stormwater ru
 
 Both are essential tools in regenerative land management, but they operate at different scales and serve distinct primary functions.
 
-See [[rain-garden-design]] for residential stormwater solutions and [[swale-design]] for landscape-scale water harvesting.
+See [[swale-design]] for landscape-scale water harvesting.
 
 ## Key Differences
 
@@ -131,7 +131,6 @@ Swale drawbacks include significant earthwork volume, risk of berm failure durin
 
 ## See Also
 
-- [[keyline-design]] for whole-property water distribution
 - [[swale-design]] for linear vegetated water treatment
-- [[permaculture-designers-manual-greywater-systems]] for household wastewater recycling
+- [[graywater-systems]] for household wastewater recycling
 - [[earthworks-for-water-management]] for comprehensive planning

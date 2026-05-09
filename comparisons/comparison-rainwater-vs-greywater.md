@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-[[rainwater-harvesting-systems]] and [[permaculture-designers-manual-greywater-systems]] are two complementary strategies
+[[graywater-systems]] are two complementary strategies
 for reducing dependence on municipal water supplies and managing on-site water resources
 sustainably. Both approaches capture water that would otherwise be lost to runoff or sewer
 systems and redirect it for productive use in irrigation, landscaping, and sometimes
@@ -31,36 +31,7 @@ cases, the most effective approach is to implement both systems in tandem.
 
 ## Rainwater Harvesting: Capturing Precipitation
 
-[[rainwater-harvesting-systems]] collect precipitation from roof surfaces via gutters and
-downspouts, channeling it through a series of filters and diverters before storing it in
-tanks or cisterns. A typical residential system includes a roof catchment surface, gutter
-system with leaf guards, a first-flush diverter (which discards the initial flow containing
-dust, pollen, and bird droppings), a storage tank, and a distribution system for irrigation.
-
-Rainwater quality is remarkably high when collected from clean roof surfaces. It is
-naturally soft, free of chlorine, salts, and minerals, with a near-neutral pH. This makes it
-ideal for irrigating sensitive plants, filling ponds and water features, and even — with
-appropriate treatment — for indoor non-potable uses such as toilet flushing and laundry.
-
-Storage capacity is the primary design consideration. Systems range from simple 55-gallon
-rain barrels connected to a single downspout to large underground cisterns holding 10,000
-gallons or more. The appropriate size depends on local rainfall patterns, roof catchment
-area, and intended water demand. A rough guideline is that one inch of rain on a
-1,000-square-foot roof yields approximately 620 gallons of water.
-
-In dry climates, the challenge is capturing enough during infrequent rainfall events to last
-through extended dry spells. In wet climates, the challenge is managing overflow and
-ensuring that stored water does not become stagnant. Mosquito proofing all openings with
-fine mesh screen is essential to prevent vector breeding regardless of climate.
-
-Legal status varies significantly by region. Some jurisdictions offer rebates and incentives
-for rainwater collection, while others restrict or prohibit it based on water rights
-doctrines. However, the trend in most areas is toward liberalization as drought conditions
-and water scarcity concerns grow.
-
-## Greywater Systems: Reusing Household Wastewater
-
-[[permaculture-designers-manual-greywater-systems]] capture wastewater from non-toilet plumbing fixtures — specifically
+[[graywater-systems]] capture wastewater from non-toilet plumbing fixtures — specifically
 bathroom sinks, showers, bathtubs, and washing machines. This water contains soap residues,
 hair, skin cells, and lint but is free of fecal contamination (which would classify it as
 blackwater). Properly managed greywater can be safely diverted to irrigate landscape plants.
@@ -138,12 +109,9 @@ provides a continuous baseline supply for general landscape irrigation. Together
 reduce a household's municipal water consumption by 40 to 60 percent or more. Integrated
 systems often route rainwater overflow to greywater mulch basins during heavy storms,
 ensuring maximum on-site infiltration.
-
 ## See Also
 
-- [[rainwater-harvesting-systems]]
-- [[permaculture-designers-manual-greywater-systems]]
-- [[swale-design]]
+- [[graywater-systems]]
 - [[mollison-water-harvesting-management-permaculture]]
 - [[cervantes-drip-irrigation-systems]]
 - mulch basin design

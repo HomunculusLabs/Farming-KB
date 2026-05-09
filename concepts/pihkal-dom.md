@@ -120,8 +120,6 @@ internationally under the UN Convention on Psychotropic Substances.
 
 ## See Also
 
-- [[pihkal-dob]]
 - [[pihkal-mescaline]]
-- [[pihkal-2c-b]]
 - [[pihkal-mda]]
 - [[pihkal-cautionary-note-and-legal-context]]

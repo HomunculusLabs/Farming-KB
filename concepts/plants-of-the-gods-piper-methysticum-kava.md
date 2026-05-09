@@ -128,15 +128,8 @@ worldwide attest to its enduring cultural importance.
 
 - [[piper-methysticum]] Topics
 
-- [[plants-of-the-gods-geography-hallucinogenic-plants]] —
-  global distribution of psychoactive plants including kava
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]] —
   classification of psychoactive plants by type
-- [[plants-of-the-gods-hallucinogens-medicine]] — medical
-  applications of psychoactive plant compounds
 - [[plants-of-the-gods-phytochemistry-sacred-plants]] —
   phytochemical research methods for sacred plants
-- [[plants-of-the-gods-banisteriopsis-ayahuasca]] —
-  another major indigenous psychoactive beverage complex
-
 - [[kaempferia-galanga]]

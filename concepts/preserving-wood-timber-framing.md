@@ -3,7 +3,7 @@ title: Preserving Wood and Timber Framing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, construction, homestead-crafts, preservation, tools]
+tags: [homesteading, construction, homestead-crafts, preservation, tools]
 sources: []
 ---
 
@@ -64,7 +64,7 @@ Raw linseed oil is a natural drying oil extracted from flax seeds. "Boiled" lins
 
 ### Borate Treatments
 
-Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide excellent protection against wood-destroying insects (termites, carpenter ants, powderpost beetles) and for effluent decolorization fungi.
+Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide excellent protection against wood-destroying insects (termites, carpenter ants, powderpost beetles) and wood-rotting fungi.
 
 **Products:** Tim-bor, Bora-Care, Disodium Octaborate Tetrahydrate (DOT)
 
@@ -117,7 +117,7 @@ Best timber framing species by region:
 - Northeast: Eastern white pine, white oak, hemlock, eastern spruce
 - Southeast: Southern yellow pine, cypress, white oak
 - Midwest: White oak, red oak, white pine, hickory
-- Pacific Northwest: [[douglas-fir]], western red cedar, Sitka spruce
+- Pacific Northwest: Douglas fir, western red cedar, Sitka spruce
 
 ## Related Concepts
 

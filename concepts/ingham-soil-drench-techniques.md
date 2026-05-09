@@ -10,8 +10,7 @@ sources:
 
 # Soil Drench Techniques - AACT Application Methods
 
-Extracted from Elaine Ingham's AACT Field Guide, covering soil drench and
-application protocols for [[ingham-aact-disease-suppression]].
+Extracted from [[ingham-aact-disease-suppression]].
 
 ## Soil vs Foliar Decision
 
@@ -80,70 +79,6 @@ long as organisms reach the soil before freezing temperatures return.
 
 Compost tea can be delivered through any system that will not damage the
 organisms. Standard sprayers work, but avoid extreme pressure that could
-shear fungal hyphae.
+shear [[ingham-soil-drench-dilution-rates]]
 
-### Root Dip at Planting
-
-Mix solution and VAM into a mixture the consistency of pancake batter,
-dip roots before planting. Do NOT use gels -- they smother roots and
-prevent air passage.
-
-### Amendments in Tea vs Soil Application
-
-Adding amendments in the tea means you need less material than you would
-require in a soil application. The microbes retain nutrients much better
-when grown with the nutrients in the tea. When added directly to soil,
-nutrients will leach and be lost from the rooting zone.
-
-### Soil Drench for Trichoderma
-
-With Trichoderma, you need to get the fungus growing through the soil,
-so a soil drench works better than foliar application. Alternatively,
-add compost with T-22 incorporated directly to the soil.
-
-## Transport and Aeration
-
-Tea must remain aerated during transport. If aeration is turned off:
-- Normally you have about 5-6 hours before losing oxygen and fungi
-- Active teas can drop to fungal-losing oxygen levels within 2.5 hours
-- Transport truck tanks must have aeration systems
-- Always maintain oxygen above 5.5-6 ppm to preserve fungal biomass
-
-## Post-Application Sequence
-
-1. First goal: disease suppression
-2. Second goal: improve soil tilth, decrease watering, improve aeration
-3. Third goal: improve plant nutrition
-
-Usually there is an overnight improvement in plant color and improvement
-in disease prevention. If plants are already healthy, dramatic changes
-may not be as apparent.
-
-## Important Cautions
-
-- If solution is added straight to sand with no organic matter, organisms
-  don't survive because they have no food resources
-- If toxic chemicals are used, reapplication of biology is needed
-- Inorganic fertilizer above 100 lbs/acre becomes problematic for
-  microorganisms -- apply water first to move fertilizer into soil, then
-  apply tea
-- If inorganic fertilizer is applied, immediately use AACT to restore
-  biology
-
-## Key Takeaways
-
-- Soil drench: 15-20 gal/ac at planting; foliar: 5 gal/ac per 6ft canopy
-- Apply fall drench to decompose leaves (prevents pathogen overwintering)
-- Wait for warm soil before spring drench applications
-- Double rate to 10 gal/ac during severe mildew alerts
-- Keep tea aerated during transport -- fungi lost within 5-6 hours without air
-- Amendments in tea require less material than soil application
-- Root dip with VAM at planting (pancake batter consistency, no gels)
-- Three goals in order: disease suppression, soil structure, nutrition
-
-## See Also
-
-- [[ingham-soil-drench-dilution-rates]]
-
-- [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-compaction-solutions-ingham]]

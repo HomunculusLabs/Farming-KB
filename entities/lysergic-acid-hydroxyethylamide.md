@@ -35,9 +35,7 @@ sources:
 ## Overview
 
 Lysergic acid hydroxyethylamide (LSH), also known as D-lysergic acid
-α-hydroxyethylamide, is a naturally occurring ergoline alkaloid found in
-several Convolvulaceae (morning glory family) species. It was identified as a
-principal psychoactive constituent of *Ololiuqui*, the sacred seeds used in
+α-hydroxyethylamide, is a naturally occurring [[ololiuqui]]*, the sacred seeds used in
 Mesoamerican shamanic practice since pre-Columbian times. LSH is structurally
 related to LSD but produces effects described as more dreamlike and sedating,
 with less visual intensity and more physical heaviness.
@@ -53,18 +51,7 @@ LSH's contribution.
 **Molecular formula:** C₁₈H₂₂N₂O₃ | **Molecular weight:** 314.38 g/mol
 **IUPAC name:** (6aR,9R)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]
 quinoline-9-carboxylic acid 2-hydroxyethylamide | **Chemical class:**
-Ergoline alkaloid (lysergamide subclass) | **Appearance:** White to off-white
-crystalline powder when fresh | **Solubility:** Soluble in ethanol, methanol,
-and dilute acids; poorly soluble in water
-
-LSH is labile — the α-hydroxyethylamide group undergoes dehydration to form
-LSA (ergine), especially at elevated temperature, in acidic conditions, or upon
-prolonged storage. Fresh plant material and cold extraction methods preserve
-LSH content.
-
-## Pharmacology
-
-LSH acts primarily as a partial agonist at serotonin 5-HT2A receptors, the
+Ergoline alkaloid ([[serotonin]] 5-HT2A receptors, the
 primary receptor responsible for classical psychedelic effects. Its profile
 differs from LSD in several key respects:
 
@@ -109,34 +96,7 @@ hours (shorter than LSD's 8–12 hours but longer than isolated LSA at 4–6
 hours). Estimated dose range is 200–500 μg for threshold to moderate effects
 from isolated LSH.
 
-Users frequently compare LSH's effects to a hybrid between LSD and psilocybin
-with additional sedative qualities, described as "softer" and more
-contemplative with less anxiety-provoking stimulation.
+Users frequently compare LSH's effects to a hybrid between LSD and [[lysergic-acid]]
 
-## Historical and Cultural Significance
-
-Ololiuqui (*Turbina corymbosa* seeds) is one of the oldest documented
-psychedelic substances in the Americas. Spanish chroniclers including Fernando
-Hernández (1577) described its use by Aztec priests for divination, diagnosis,
-and communication with spirits. Seeds were ground, mixed with water, and
-consumed in ritual contexts. Albert Hofmann first isolated LSH alongside LSA
-from Rivea corymbosa seeds in 1960. He reportedly experienced effects he
-recognized as "related to LSD but distinctly different," later attributing the
-qualitative difference primarily to LSH.
-
-## Legal Status
-
-LSH is not specifically scheduled in most jurisdictions. However, its presence
-in scheduled plant material (morning glory seeds are controlled in several
-countries) and structural similarity to controlled ergolines place it in a
-legal gray area. In the US, LSH itself is unscheduled but extraction from
-plant material may constitute manufacture of a controlled substance analogue
-under the Federal Analogue Act.
-
-## See Also
-
-- [[lysergic-acid]]
-
-- [[albert-hofmann]]
-- [[argyreia-nervosa]]
+- gordon-wasson
 - [[claviceps-purpurea]]

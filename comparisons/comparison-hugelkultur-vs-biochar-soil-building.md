@@ -23,45 +23,17 @@ sources:
 
 ## Introduction
 
-[[hugelkultur]] and [[biochar]] are two soil-building strategies rooted in natural decomposition and carbon management, respectively. Both aim to improve soil health while sequestering atmospheric carbon, but they differ dramatically in approach, scale, and time horizon. Hugelkultur buries woody organic matter to create nutrient-rich, water-retentive mounds over years. Biochar is a stable, carbon-rich charcoal produced through pyrolysis, applied as a long-lived soil amendment. This page compares them head-to-head for growers considering either approach.
+[[biochar]] are two soil-building strategies rooted in natural decomposition and carbon management, respectively. Both aim to improve soil health while sequestering atmospheric carbon, but they differ dramatically in approach, scale, and time horizon. Hugelkultur buries woody organic matter to create nutrient-rich, water-retentive mounds over years. Biochar is a stable, carbon-rich charcoal produced through pyrolysis, applied as a long-lived soil amendment. This page compares them head-to-head for growers considering either approach.
 
 ## How Each Method Works
 
 ### Hugelkultur
 
-Hugelkultur ("mound culture") involves burying logs, branches, and woody debris under layers of soil and compost. As the buried wood decomposes, it acts as a sponge, retaining moisture and releasing nutrients slowly over 5–15+ years. Microbial and fungal activity within the mound creates a self-fertilizing growing environment. The method was popularized by Sepp Holzer in Austria and has since spread through [[permaculture]] communities worldwide. See also [[raised-bed-gardening]].
+Hugelkultur ("mound culture") involves burying logs, branches, and woody debris under layers of soil and compost. As the buried wood decomposes, it acts as a sponge, retaining moisture and releasing nutrients slowly over 5–15+ years. Microbial and fungal activity within the mound creates a self-fertilizing growing environment. The method was popularized by Sepp Holzer in Austria and has since spread through [[raised-bed-gardening]].
 
 ### Biochar
 
-Biochar is produced by heating biomass (wood, crop residues, manure) in low-oxygen conditions (pyrolysis). The resulting porous carbon structure resists decomposition for hundreds to thousands of years. When charged with nutrients or compost and incorporated into soil, biochar improves water retention, cation exchange capacity, and microbial habitat while locking carbon away from the atmosphere. Its precursor is [[terra-preta]], the anthropogenic dark earth of the Amazon. See also [[garden-myths-soil-and-amendments]] and [[permaculture-designers-manual-charcoal-production]].
-
-## Setup and Materials Comparison
-
-| Feature | Hugelkultur | Biochar |
-|---|---|---|
-| **Core input** | Logs, branches, woody debris | Biomass (wood, shells, manure) |
-| **Production method** | None (direct burial) | Pyrolysis (300–700 °C) |
-| **Space requirement** | Large (raised mounds, 1–2 m tall) | Minimal (mixed into beds) |
-| **Preparation time** | Days to weeks for construction | Hours (if purchased); days if produced on-site |
-| **Time to benefit** | 1–2 years as decomposition starts | Immediate (if pre-charged) |
-| **Scale** | Individual garden to small-farm | Garden to industrial (tonnes/hectare) |
-| **Key equipment** | Shovel, wheelbarrow, logs | Pyrolysis unit or retail supplier |
-
-## Soil Benefits Comparison
-
-| Benefit | Hugelkultur | Biochar |
-|---|---|---|
-| **Water retention** | High (spongy wood acts as reservoir) | Moderate–High (porous structure) |
-| **Nutrient release** | Slow, long-term (decomposition-driven) | Depends on charging; holds nutrients via CEC |
-| **Soil structure** | Excellent (creates friable, raised profile) | Good (improves aggregation and aeration) |
-| **Microbial habitat** | Strong fungal and bacterial activity | Strong (pore structure shelters microbes) |
-| **pH modification** | Slight acidification (woody breakdown) | Typically alkaline; raises pH |
-| **Longevity of effect** | 5–15 years (wood fully decomposes) | 100–1000+ years (stable carbon) |
-| **Drainage improvement** | Good (raised bed effect) | Moderate (depends on soil type) |
-
-## Carbon Sequestration Potential
-
-Biochar has a clear advantage in long-term carbon sequestration. Its recalcitrant carbon structure resists microbial breakdown, with estimated half-lives ranging from centuries to millennia (Gurwick et al., 2013). A single application can lock away 50–80% of the feedstock carbon for hundreds of years. Hugelkultur sequesters carbon temporarily—buried wood releases CO₂ as it decomposes, with most carbon returned to the atmosphere within 10–20 years. For growers primarily motivated by carbon offsetting, [[biochar]] is the stronger choice.
+Biochar is produced by heating biomass (wood, crop residues, manure) in low-oxygen conditions (pyrolysis). The resulting porous carbon structure resists decomposition for hundreds to thousands of years. When charged with nutrients or compost and incorporated into soil, biochar improves water retention, cation exchange capacity, and microbial habitat while locking carbon away from the atmosphere. Its precursor is [[garden-myths-soil-and-amendments]] and [[biochar]] is the stronger choice.
 
 ## Cost and Labor Analysis
 
@@ -70,16 +42,11 @@ Biochar has a clear advantage in long-term carbon sequestration. Its recalcitran
 
 ## Best Use Cases
 
-- **Hugelkultur**: Perennial [[food-forest]] understories, orchard inter-rows, homestead gardens on marginal or compacted land, sites with excess woody waste, water-limited climates, and sloped terrain where mounds provide erosion control.
-- **Biochar**: Row crop fields, depleted or sandy soils, container mixes, large-scale [[biointensive-carbon-farming]] programs, acidic soils needing pH correction, compost operations seeking nutrient retention, and urban gardens with limited space for large earthworks.
+- **Hugelkultur**: Perennial [[biointensive-carbon-farming]] programs, acidic soils needing pH correction, compost operations seeking nutrient retention, and urban gardens with limited space for large earthworks.
 
 ## When to Choose Hugelkultur
 
-Choose hugelkultur when you have abundant woody debris, want a no-cost solution, and are building permanent or semi-permanent garden beds. It excels in [[solomon-drought-gardening-and-water-conservation]] and situations where raised beds provide drainage or microclimate advantages. Best suited for perennials, shrubs, and deep-rooted crops that can access moisture and nutrients at depth. The method also creates excellent microclimates—south-facing mounds gain heat earlier in spring, extending the growing season.
-
-## When to Choose Biochar
-
-Choose biochar when you need a scientifically quantifiable carbon offset, are working at field scale, or need to improve nutrient-holding capacity in poor soils. It integrates well with compost (biochar-charged compost shows synergistic benefits) and is compatible with conventional tillage or [[natural-farming-guide-no-till-grain-strategy]] systems. Biochar is also superior for container growing and greenhouse mixes, where the light weight and stability of the amendment are advantages.
+Choose hugelkultur when you have abundant woody debris, want a no-cost solution, and are building permanent or semi-permanent garden beds. It excels in [[natural-farming-guide-no-till-grain-strategy]] systems. Biochar is also superior for container growing and greenhouse mixes, where the light weight and stability of the amendment are advantages.
 
 ## Can They Be Combined?
 
@@ -113,12 +80,7 @@ Biochar's carbon-negative potential is its strongest environmental credential. W
 | **Immediate results** | Biochar (pre-charged) | Hugelkultur needs 1–2 seasons to mature |
 | **Labor intensity** | Biochar | Hugelkultur requires significant digging and hauling |
 
-Both methods are valuable tools in [[regenerative-agriculture]]. The right choice depends on available materials, land scale, budget, and whether the primary goal is long-term carbon lock-up ([[biochar]]) or holistic bed-building with integrated water management ([[hugelkultur]]). In practice, the two approaches are complementary rather than competing—biochar excels where precision and permanence matter, while hugelkultur shines as a low-cost, high-impact earthwork for homestead-scale growing.
-
-## See Also
-
-- [[natural-farming-guide-raised-bed-and-intensive-gardening]] — detailed hugelkultur construction guide
-- [[terra-preta]] — the ancient Amazonian biochar soil that inspired modern biochar research
+Both methods are valuable tools in [[biochar]]) or holistic bed-building with integrated water management ([[natural-farming-guide-raised-bed-and-intensive-gardening]] — detailed hugelkultur construction guide
 - [[comparison-biochar-vs-composting-soil-amendment]] — comparison of biochar with traditional composting methods
 - compost — the universal soil amendment that complements both methods
 - [[biointensive-carbon-farming]] — broader strategies for agricultural carbon sequestration

@@ -130,8 +130,9 @@ Beer yeast (Saccharomyces cerevisiae) is propagated in warm water with malt suga
 
 ## Related Concepts
 
-- [[growing-gourmet-straw-pasteurization-methods|Straw Pasteurization Methods]]
 - [[growing-gourmet-cold-pasteurization-bulk-substrates|Cold Pasteurization of Bulk Substrates]]
-- [[growing-gourmet-cropping-containers-growing-systems|Cropping Containers and Growing Systems]]
-- Enriched Sawdust Cultivation
 - [[growing-gourmet-biological-efficiency-yield|Biological Efficiency and Yield]]
+
+## See Also
+
+- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]

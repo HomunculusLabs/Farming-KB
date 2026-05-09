@@ -75,8 +75,7 @@ mystical experience intensity and therapeutic outcomes.
 | DMT | 188 | ~200 nM | 30-90 min |
 | Psilocin (4-HO-DMT) | 204 | 6-12 nM | 4-6 hr |
 | Psilocybin (4-PO-DMT) | 284 | Inactive | 4-6 hr |
-| 4-AcO-DMT | 246 | ~8-15 nM | 4-6 hr |
-| 5-MeO-DMT | 218 | ~10 nM | 15-45 min |
+| [[5-meo-dmt-entity]] | 218 | ~10 nM | 15-45 min |
 
 The 4-substituted tryptamine series shares common pharmacological
 profiles. 4-AcO-DMT is widely regarded as a psilocin prodrug
@@ -140,11 +139,9 @@ MAO-A oxidation.
 Scheduled in most jurisdictions. US Schedule I (separately from
 psilocybin). UN Convention Schedule I. Recent changes: Oregon
 2020, Colorado 2022, Australia 2023.
-
 ## See Also
 
-- [[albert-hofmann]]
-- [[baeocystin]]
+- gordon-wasson
 - [[dimethyltryptamine]]
 
-- [[psilocybin-compound]] — the phosphorylated prodrug form of psilocin.
+- [[psilocybin]] — the phosphorylated prodrug form of psilocin.

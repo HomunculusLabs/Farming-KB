@@ -21,34 +21,6 @@ different values: soil biology and long-term health versus convenience and immed
 control.
 
 ## No-Till Gardening
-[[composting-and-soil-biology]]
-No-till gardening is a cultivation system that preserves soil structure by eliminating
-plowing, rototilling, and any form of soil inversion. Organic matter is applied to the
-surface as compost, mulch, and cover crops, with earthworms, microbes, and fungi
-incorporating nutrients downward through their natural activity. The system preserves
-mycorrhizal networks that connect plants and facilitate nutrient exchange, builds soil
-organic matter by 0.1 to 0.5 percent per year, doubles or triples water infiltration
-within three to five years, and depletes the weed seed bank over time because buried
-seeds are never brought to the surface.
-
-The five core principles are feeding the surface rather than the depth, keeping soil
-covered at all times with mulch or living plants, minimizing compaction through
-permanent walkways and wide beds (three to four feet), disturbing soil minimally when
-planting using dibbers and trowels, and using diverse mulches and cover crops. Sheet
-mulching serves as the primary bed preparation method for new beds. Weed management
-shifts from cultivation to prevention through thick mulch, manual pulling, smothering
-with cover crops, and tolerating beneficial weeds. The transition from tilled to
-no-till gardens involves a one to two year adjustment period with potentially lower
-yields.
-
-No-till is low-cost and requires no specialized equipment beyond standard garden tools.
-The challenges include managing persistent perennial weeds like bindweed and quackgrass,
-cooler spring soil temperatures from heavy mulch (requiring pulling mulch back to warm
-soil), slug proliferation in moist environments, and the discipline required to never
-till again once the system is established. Direct seeding of small seeds can be
-difficult in chunky mulch layers.
-
-## Raised Bed Gardening
 [[raised-bed-gardening]]
 Raised bed gardening elevates the growing surface above ground level, typically in
 framed structures four to eight feet wide and eight to twelve inches deep. The soil
@@ -119,8 +91,6 @@ soil biology benefits of no-till management.
 
 ## See Also
 
-- [[comparison-keyhole-garden-vs-raised-bed]]
 - [[comparison-double-digging-vs-no-till]]
-- [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-square-foot-vs-raised-bed-gardening]]
 - comparison-raised-beds-vs-in-ground-vs-containers

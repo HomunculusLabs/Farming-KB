@@ -125,13 +125,8 @@ Ecology Action has developed a complete 21-bed mini-farm plan designed to produc
 
 ## See Also
 
-- [[jeavons-grow-biointensive-method-overview]] — The complete method
 - [[jeavons-double-digging-bed-preparation]] — Bed preparation techniques
-- [[jeavons-companion-planting]] — Synergistic plant relationships
 - [[jeavons-calorie-farming]] — Calorie-efficient crop selection
-- [[jeavons-carbon-farming]] — Carbon crops for compost production
 - [[jeavons-composting-methods]] — Compost production for soil fertility
-- [[jeavons-diet-design-self-sufficiency]] — Complete diet planning
 - [[jeavons-flat-preparation-seedling-raising]] — Seedling production
-- [[jeavons-water-management-irrigation]] — Water-efficient growing
 - [[jeavons-soil-fertility]] — Nutrient management

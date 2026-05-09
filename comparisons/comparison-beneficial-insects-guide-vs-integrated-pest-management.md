@@ -21,35 +21,6 @@ philosophy that determines how and when to deploy all available tools
 including biological, cultural, mechanical, and chemical controls.
 
 ## Beneficial Insects
-[[beneficial-insects-guide]]
-Beneficial insects encompass three functional categories. Predatory insects
-include ladybugs (both adults and larvae consume 50 to 60 aphids per day;
-larvae consume up to 1,000 aphids during development), lacewings (larvae
-called aphid lions eat 100 to 600 aphids each over 2 to 3 weeks), ground
-beetles (nocturnal hunters of slugs, snails, cutworms, and root maggots),
-minute pirate bugs (tiny but effective against thrips, spider mites, and
-whiteflies), and predatory mites (Phytoseiulus persimilis for spider mites,
-Amblyseius cucumeris for thrips).
-
-Parasitic insects include a large group of tiny wasps that lay eggs inside or
-on pest insects. Aphidius colemani parasitizes aphids; Trichogramma wasps lay
-eggs inside moth and butterfly eggs including cabbage loopers and codling
-moths; Encarsia formosa parasitizes whiteflies; and braconid wasps parasitize
-tomato hornworms and cabbage worms. Tachinid flies parasitize caterpillars,
-beetles, and bugs. Pollinators include honeybees, bumblebees (essential for
-buzz pollination of tomatoes and peppers), mason bees (250 can pollinate as
-many apples as 20,000 honeybees), and thousands of native bee species.
-
-Attracting and conserving beneficial insects requires dedicated habitat
-creation. Insectary plantings of umbelliferous flowers (dill, fennel, yarrow,
-Queen Anne's lace) provide nectar for adult parasitic wasps. Composite flowers
-(cosmos, sunflowers, zinnias, asters) support a wider range of pollinators and
-predators. Permanent ground cover and mulch shelter ground beetles. Hollow
-stems and bare ground provide nesting sites for solitary bees. Eliminating
-broad-spectrum insecticides is the single most important action for supporting
-beneficial populations.
-
-## Integrated Pest Management
 [[integrated-pest-management]]
 IPM is a five-step systematic approach. Step one is monitoring and scouting:
 regular garden walks, yellow sticky traps, pheromone traps, and careful
@@ -119,7 +90,5 @@ natural pest suppression while retaining the IPM safety net of additional
 control options when thresholds are exceeded.
 
 ## See Also
-- [[insectary-plants-guide]] — plant selection for attracting beneficial insects
 - [[companion-planting-reference]] — plant pairings that support pest management
-- [[neem-oil-cannabis]] — organic spray option within IPM chemical controls
 - [[diatomaceous-earth-cannabis]] — physical pest control method in the IPM hierarchy

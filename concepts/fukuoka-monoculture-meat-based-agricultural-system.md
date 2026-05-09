@@ -141,9 +141,6 @@ American agriculture to be "extremely crude, primitive agriculture." The crops
 are not raised by the forces of nature but are processed with petroleum energy.
 ## See Also
 
-- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]] for irrigation critique
 - [[fukuoka-deficit-farming]] for the deficit farming concept
-- [[fukuoka-machine-culture-doomed]] for machine culture critique
 - [[fukuoka-american-agriculture-observations]] for broader US observations
-- [[fukuoka-desert-cause-vegetation]] for vegetation and desertification
 - [[fukuoka-soil-fertility-straw-mulch]] for natural soil building

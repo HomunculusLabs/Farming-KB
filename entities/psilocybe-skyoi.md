@@ -2,132 +2,13 @@
 title: Psilocybe skyoi
 created: 2026-04-28
 type: species
-tags: [mycology, identification, mushrooms]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
----
-
-# Psilocybe skyoi
-
-A rare and little-known psilocybin-containing mushroom from southeastern Australia, first described from New South Wales.
-
-One of the less frequently documented Australian psychoactive fungi, remaining poorly understood in terms of distribution, ecology, and chemistry.
-
-Identified as part of the extensive mycological surveys conducted by [[gaston-guzman]] and colleagues to document the global distribution of psychoactive mushrooms.
+tags: [[gaston-guzman]] and colleagues to document the global distribution of psychoactive mushrooms.
 
 ## Taxonomy
 
-Described by [[gaston-guzman]], the species name honors a colleague involved in Australian mycological research.
-
-Documented as part of broader surveys of psychoactive fungi in Australia and the broader Pacific region.
-
-These surveys also characterized better-known Australian species such as [[psilocybe-subaeruginosa]] and [[psilocybe-cyanescens]].
-
-Belongs to section Semilanceata of the genus psilocybe, placing it alongside other grassland-inhabiting species with hygrophanous caps and peeling pellicles.
-
-Taxonomic placement has been based primarily on morphological characters, as molecular data for this rare species remain limited.
-
-The species has not been widely collected or studied since its original description.
-
-Its taxonomic status may benefit from re-examination using modern phylogenetic methods.
-
-## Distribution
-
-Known from southeastern Australia, primarily from New South Wales.
-
-Full geographic range remains poorly documented due to the scarcity of confirmed collections.
-
-Thought to inhabit grassland and pasture environments, consistent with other members of section Semilanceata.
-
-Found fruiting in autumn and early winter (May through July in the Southern Hemisphere).
-
-Grows on soil in open grassy areas, pastures, and along forest margins.
-
-Specific substrate associations and ecological requirements are not well characterized.
-
-May be more widely distributed in southeastern Australia than current records suggest.
-
-Its small size and inconspicuous appearance make it easy to overlook in the field.
-
-## Morphology
-
-### Cap
-
-Conic to campanulate (bell-shaped), approximately 8-20 mm diameter.
-
-Hygrophanous: dark brown to reddish brown when moist, fading to pale ochraceous or straw when dry.
-
-Surface smooth and often viscid when wet, with translucent-striate margin.
-
-A separable gelatinous pellicle covers the cap surface, characteristic of section Semilanceata.
-
-Slight umbo or papilla, more or less pronounced depending on specimen maturity.
-
-### Gills
-
-Adnate to slightly adnexate, moderately crowded.
-
-Grayish when young, darkening to purplish brown or dark brown with spore maturity.
-
-Gill edges typically paler and fringed.
-
-Lamellulae (short gills) of varying lengths, may be slightly attenuate.
-
-### Stem
-
-30-70 mm long, 1-2.5 mm thick.
-
-Slender, cylindrical, and equal.
-
-Surface smooth or finely pruinose.
-
-Color whitish to pale brown, often with bluish staining at the base when bruised or with age.
-
-Hollow and flexible.
-
-Annulus or annular zone from partial veil may be present or absent; when present, typically fragile and easily lost.
-
-### Microscopic Features
-
-Spores ellipsoid to slightly amygdaliform in face view, approximately 10-14 x 6-8 um.
-
-Spore print dark purple-brown.
-
-Spores with moderately thick wall, may possess a small germ pore.
-
-Basidia 4-spored.
-
-Cheilocystidia ventricose to lageniform, forming a sterile band along gill edges.
-
-Pleurocystidia typically absent.
-
-Pileipellis structure consistent with other section Semilanceata members, consisting of a gelatinized cutis.
-
-## Chemistry
-
-Limited chemical analyses have been performed due to the rarity of collected material.
-
-Confirmed to contain [[psilocybin-compound]] and likely [[psilocin]], consistent with placement among psychoactive psilocybe species.
-
-Exact concentrations have not been well established in published literature.
-
-Some bluing reaction upon bruising has been observed, suggesting presence of oxidative psilocin derivatives.
-
-Alkaloid profile presumed similar to other section Semilanceata members, but comprehensive analytical work has not been conducted.
-
-Given the rarity, obtaining sufficient material for thorough chemical analysis presents a significant challenge.
-
-## Similar Species
-
-[[psilocybe-subaeruginosa]] — Much more common and widely distributed Australian species.
+Described by [[psilocybe-subaeruginosa]] and [[psilocybin]] and likely [[psilocybe-subaeruginosa]] — Much more common and widely distributed Australian species.
 
 Grows on woody debris rather than in grasslands and has a larger stature.
-
-[[psilocybe-semilanceata]] — The European liberty cap, morphologically similar but geographically disjunct.
-
-Has slightly smaller spores and is far more frequently encountered.
 
 [[psilocybe-eucalypta]] — Another Australian species found in association with Eucalyptus.
 
@@ -146,5 +27,81 @@ Highlights the need for further mycological survey work in Australian grassland 
 Due to apparent rarity and limited known distribution, may be of conservation concern.
 
 Formal conservation assessments have not been conducted.
+## Practical Applications
 
-Habitat loss through urbanization and agricultural intensification in southeastern Australia could threaten known populations.
+Psilocybe skyoi has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Psilocybe skyoi. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

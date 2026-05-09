@@ -121,7 +121,7 @@ falciparum.
 Antitumor research shows promising results in preclinical models.
 Clinical trials remain limited to in vitro and animal studies.
 
-## Permaculture and Agroforestry Applications
+## [[agroforestry]] Applications
 
 P. quassioides has several applications in designed ecosystems. The wood
 and bark can be processed into natural insecticides and antifeedants for
@@ -132,19 +132,7 @@ pollinators.
 As a nitrogen-fixing associate and soil-stabilizing tree, it contributes
 to slope stabilization and riparian buffer zones. The dense canopy
 provides shade for understory crops, and the autumn leaf fall contributes
-organic matter to forest garden systems.
-
-The species shows potential as a component of forest farming systems,
-where bark can be sustainably harvested from managed trees while
-maintaining the ecological functions of the standing crop.
-
 ## See Also
 
-- [[kaempferol]]
-
-- simaroubaceae
-- quassinoids
-- quassia amara
-- brucea javanica
-- traditional chinese medicine
-- canthin 6 one
+- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+- [[teaming-with-microbes-old-growth-forest]]

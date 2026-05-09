@@ -27,7 +27,7 @@ nutritional cues, environmental conditions, damage, and predation.
 ## The Mycelial Network as Foraging System
 
 Basidiomycetes are the major agents of decomposition and nutrient cycling
-in forest ecosystems, occurring as both [[gadd-fungal-ecology-saprotrophs]] and [[gadd-fungal-symbiosis-mycorrhizae]]
+in forest ecosystems, occurring as both [[gadd-fungal-symbiosis-mycorrhizae]]
 symbionts. Hyphae that ramify through soil often aggregate to form rapidly
 extending, persistent, specialized high-conductivity channels termed cords.
 These cords form complex networks that integrate nutrient uptake, storage,
@@ -84,29 +84,7 @@ transport within vacuolar compartments.
 ## Resource Partitioning and Reallocation
 
 Sophisticated resource partitioning has been demonstrated in mycelial
-networks. In experiments with [[phanerochaete-velutina]], wood resources added
-to established mycelial systems at different times received different
-proportions of translocated phosphorus:
-
-- Better-colonized resources received a greater share of translocated 32P,
-  regardless of when they were added.
-- Recently added resources received phosphorus initially from the
-  translocation stream, not directly from the inoculum.
-- Carbon availability affects partitioning of mineral nutrients between
-  newly added resources.
-
-When resources are scarce, mycelia develop patches of much-branched fine
-hyphae from cords elsewhere in the system, creating a large surface area
-for mineral nutrient absorption from soil. These patches are ephemeral
-sites of nutrient uptake that regress once soil nutrient status improves.
-
-## Scale of Mycelial Networks
-
-The scale of individual mycelial networks in nature is extraordinary:
-
-- Genets of saprotrophs and ectomycorrhizal Basidiomycota can cover areas
-  from several square metres to many hectares.
-- [[armillaria-ostoyae]] holds the record for the largest organism on Earth: a
+networks. In experiments with [[armillaria-ostoyae]] holds the record for the largest organism on Earth: a
   genet spanning 965 hectares with a maximum separation of 3810 m,
   estimated at 1900-8650 years old.
 - Phosphorus moves to different litter resources over 1 metre apart via
@@ -130,20 +108,5 @@ mycelial morphology and function:
   the presence of nematodes, demonstrating that grazing triggers
   physiological responses distant from the grazing site.
 - Some basidiomycetes can kill and consume invertebrates: Pleurotus species
-  feed on nematodes, and [[laccaria-bicolor]] on Collembola.
-
-## Network Connectivity and Resilience
-
-Mycelial networks are constantly remodelled through growth, branching,
-fusion, and regression. Both radial and tangential connectivity creates
-systems with many connected loops. The degree of connectivity confers
-resilience: highly connected networks are more resistant to damage because
-multiple alternative pathways exist for nutrient transport. The ease with
-which networks can re-connect through re-growth following damage further
-enhances their resilience.
-
-## See Also
-
-- [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-symbiosis-mycorrhizae]]
+  feed on nematodes, and [[gadd-fungal-ecology-saprotrophs]]
 - [[fungal-soil-aggregate-formation-glomalin]]

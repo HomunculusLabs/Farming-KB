@@ -91,16 +91,8 @@ Hepatitis C patients on interferon/ribavirin therapy should consult with hepatol
 
 ## Related Topics
 
-- [[cannabis-for-vomiting-and-nausea]]
 - [[cannabis-endocannabinoid-system]]
 - Cannabis For Inflammation
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Section: Hepatitis
 - [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-immune-modulation]]
 - [[mushroom-cytokine-production-immune-activation]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]

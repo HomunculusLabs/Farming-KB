@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources: []
+sources:
+  - raw/papers/farmers-of-forty-centuries-f-h-king.md
 ---
 # Herbal Tincture Making
 
@@ -84,11 +85,7 @@ When combining herbs in a compound tincture, each herb is typically extracted se
 
 ## See Also
 
-- [[herbal-tinctures-guide]] — tincture use and selection
 - [[herbal-medicine-preparation-methods]] — all preparation types
-- [[herbal-medicine-making-basics]] — introductory medicine making
 - [[medicinal-plant-preparations-tinctures-salves-teas]] — comprehensive preparation reference
-- [[herbal-salves-and-balms]] — topical preparations
 - [[cannabis-tinctures-guide]] — cannabis-specific tincture methods
-- [[cannabis-hash-making-from-extracted-oil]]
 - [[cannabis-high-volume-extraction]]

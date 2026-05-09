@@ -2,7 +2,8 @@
 title: Delta Sigma Modulation
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -95,56 +96,7 @@ It contains the desired information plus shaped high-frequency noise.
 A low-pass digital filter removes most out-of-band noise.
 Decimation then reduces the sample rate to a practical value.
 A sinc filter is common in precision measurement converters.
-Finite impulse response filters are common in audio [[plant-intelligence-and-communication]] applications.
-Filter design affects passband ripple, latency, stopband attenuation, and computational cost.
-Some applications value extremely low latency over maximum noise rejection.
-Others value resolution and can tolerate long averaging times.
-The converter data sheet often specifies output data rates after decimation.
-Understanding these filters is essential when interpreting noise and settling behavior.
-
-## History and context
-Delta modulation appeared in telecommunications as a way to encode changes in a signal.
-Sigma-delta ideas developed in the mid-twentieth century for oversampled conversion.
-The approach became more practical as digital filtering became cheap and reliable.
-Integrated CMOS technology favored simple analog circuits and dense digital logic.
-Delta-sigma conversion matched that trend very well.
-Audio compact disc players, digital audio workstations, and consumer codecs popularized the technique.
-Precision instrumentation also adopted it for weigh scales, thermocouples, and bridge sensors.
-The method remains important because it moves difficulty from analog precision into timing and digital processing.
-That tradeoff fits modern semiconductor manufacturing.
-It also illustrates a broader engineering pattern: shape unwanted error into places where it can be filtered.
-
-## Applications
-Audio ADCs use delta-sigma modulation to capture high dynamic range sound.
-Audio DACs use related methods to generate smooth analog waveforms from digital samples.
-Sensor interfaces use it for temperature, pressure, strain, chemical, and biomedical measurements.
-Power-metering chips use delta-sigma converters for accurate voltage and current sampling.
-Software-defined radio systems may use bandpass delta-sigma techniques.
-Class-D audio amplifiers can use noise-shaped pulse streams related to delta-sigma ideas.
-Digital microphones often contain a tiny delta-sigma modulator and output a pulse-density stream.
-Industrial control systems use slow high-resolution delta-sigma ADCs for process variables.
-Medical devices use them where low-frequency precision matters.
-Scientific instruments use them when high linearity and low drift are more important than extreme speed.
-
-## Limitations
-Delta-sigma converters are not ideal for every task.
-They are usually poor choices for very high instantaneous bandwidth.
-The digital filters can introduce latency.
-Step inputs may require settling time before the output is valid.
-Out-of-band interference can overload the modulator even if it is later filtered.
-Loop stability must be treated carefully in high-order and multi-bit systems.
-Data-sheet resolution claims must be read alongside noise, bandwidth, and settling specifications.
-
-## Significance
-Delta-sigma modulation is a central example of noise shaping in engineering.
-It shows how feedback can turn a crude quantizer into a precise measuring system.
-It also shows why sampling theory is not only about minimum sample rates.
-By using excess time-domain samples, the method gains effective amplitude resolution.
-Its success depends on cooperation between analog circuits, digital filters, and system design.
-The technique helped make high-quality digital audio inexpensive.
-It also made precision electronic measurement easier to integrate on chips.
-
-## See Also
-- [[tompkins-plant-electrical-signals]]
-- [[fungal-environmental-sensing-signal-transduction]]
+Finite impulse response filters are common in audio [[tompkins-plant-electrical-signals]]
 - [[mollison-permaculture-two-sound-walls-noise-control]]
+
+See also: [[natural-building-techniques]]

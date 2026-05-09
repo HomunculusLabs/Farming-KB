@@ -32,37 +32,8 @@ People transplant saplings without giving thought to what they are doing. They c
 
 There is no need to plow because nature has been working at it for thousands of years. Man has restrained the hand of nature and taken up the plow himself. No amount of research can teach man everything there is to know about the soil, and he will certainly never create soils more perfect than those of nature.
 
-[[fukuoka-four-principles-natural-farming]] | [[fukuoka-natural-diet-theory]] | [[composting-and-soil-biology]] | [[soil-health-indicators]] | [[fukuoka-do-nothing-farming-philosophy]]
-
-## Key Points
-
-1. Central to Fukuoka No Cultivation Principle is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
-2. Fukuoka's approach emphasizes observation over action — understanding natural patterns before making any changes to the landscape.
-3. The principle of 'doing nothing' (mu) means eliminating unnecessary human labor, not abandoning the land entirely.
-4. Natural farming seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
-5. Soil health is the foundation — building rich, living soil through natural mulching and decomposition rather than imported fertilizers.
-6. Seed balls (tsuchi dango) allow natural dispersal and germination without tilling or transplanting.
-7. The interplay between ground cover plants, crops, and trees creates a multi-layered productive system.
-8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
-9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
-
-## Practical Applications
-
-- Start with a small area and observe natural vegetation patterns before introducing any cultivation.
-- Use straw mulch and living ground covers (such as white clover) to suppress weeds and build soil organic matter.
-- Introduce seed balls in early spring or fall to establish crops without tilling the soil.
-- Allow beneficial weeds to grow alongside crops — they often serve important ecological functions.
-- Rotate between rice in summer and winter grains (barley, wheat) using the same flooded field without tilling.
-- Create a diverse orchard with ground cover plants that fix nitrogen, attract pollinators, and suppress unwanted vegetation.
-- Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
-- Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
-
-## See Also
-- [[fukuoka-critique-inductive-deductive]]
-- [[fukuoka-three-ways-farming-compared]]
-
-Related topics in this wiki include: [[natural-farming-philosophy]], [[natural-farming-fukuoka]], [[one-straw-revolution-guide]], [[one-straw-revolution-key-concepts]], [[fukuoka-four-principles-natural-farming]], fukuoka no cultivation principle, [[fukuoka-no-fertilizer-principle]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-do-nothing-farming-philosophy]], [[natural-farming-seed-balls]], [[clay-seed-balls-tsuchi-dango]].
+[[fukuoka-natural-diet-theory]] | [[soil-health-indicators]] | [[fukuoka-critique-inductive-deductive]]
+- [[natural-farming-philosophy]], [[one-straw-revolution-guide]], [[fukuoka-four-principles-natural-farming]], fukuoka no cultivation principle, [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-do-nothing-farming-philosophy]], [[clay-seed-balls-tsuchi-dango]].
 
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
 The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
@@ -95,37 +66,7 @@ Permaculture Two (1979) Section 5.2 addresses the special challenges and strateg
 
 ## The Nutrient Pump Role of Trees
 
-Paulsen reinforces the thesis from [[urban-permaculture-fodder-trees-livestock]] regarding the "nutrient pump" role of trees. Both leaves and roots trap minerals from air and weathered stone, recycling nutrients to topsoil. Key examples:
-
-- Prosopis cineraria: Roots penetrate to 30 meters depth
-
-- Acacia tortilis: Spreads a root net 40-50 meters
-
-- Relatively few of these efficient root networks ensure a large safety web under gardens
-
-## Acacia albida -- The Wet-Season Deciduous Tree
-
-A unique species deciduous in the wet season. It does not shade crops when rain falls, but protects from clear sunny skies during dry periods. This makes it an ideal agroforestry companion in monsoon climates where shade competition during the growing season would reduce yields, while dry-season protection prevents heat stress and moisture loss.
-
-## Zero Tillage in the Tropics
-
-Paulsen documents "zero tillage farming" in the tropics using branch mulch from Prosopis, Acacia, and Ailanthus excelsa as hedgerow, windbreak, and fodder crop for sheep. Farmers in Rajasthan, India maintain as many as 40 Prosopis cineraria per hectare, with nutrients detoured through livestock as an ideal way of using branch mulch.
-
-This approach parallels the fukuoka no cultivation principle developed in temperate Japan, demonstrating that no-till strategies work across diverse climate zones when adapted to local conditions.
-
-## Tropical Crop Combinations
-
-- Cotton grows under shea butter trees
-
-- Lab-lab (Dolichos) beans under Raphia palm
-
-- Frank Martin and Ruth Roberts (Mayaguez Institute of Tropical Agriculture, Puerto Rico) developed plans for small round gardens of essential crops with great attention to nutrition
-
-- The Samaka Guide to Homesite Farming (Philippines) provides another model for small-scale tropical food production
-
-## Fukuoka Connection
-
-On the edge of the monsoon area, [[fukuoka-do-nothing-farming-philosophy]] developed his remarkable no-dig system using only poultry as manurial sources. Ducks serve as both pest controllers and recyclers. The convergence of Fukuoka's methods with tropical agroforestry suggests that stable tropical systems can be achieved by putting strategies together and practicing them.
+Paulsen reinforces the thesis from [[fukuoka-do-nothing-farming-philosophy]] developed his remarkable no-dig system using only poultry as manurial sources. Ducks serve as both pest controllers and recyclers. The convergence of Fukuoka's methods with tropical agroforestry suggests that stable tropical systems can be achieved by putting strategies together and practicing them.
 
 ## House Design for Humid Tropics
 
@@ -143,4 +84,4 @@ Maintain high biomass by mixed perennial/tree/crop species in wet tropics. Even 
 
 ## Implications for Design
 
-The fragility of tropical soils means that [[mollison-tropical-and-coastal-permaculture-design]] approaches must prioritize permanent canopy cover, minimal soil disturbance, and continuous biomass cycling. [[tropical-permaculture-guide]] expands on these principles with specific species recommendations and planting patterns suited to monsoon and equatorial climates.
+The fragility of tropical soils means that [[tropical-permaculture-guide]] expands on these principles with specific species recommendations and planting patterns suited to monsoon and equatorial climates.

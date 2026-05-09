@@ -47,14 +47,7 @@ thelephoric acid.
 - **Division:** Basidiomycota
 - **Growth habit:** Terrestrial, solitary to scattered; forms
   irregular, mounded or shelf-like fruiting bodies.
-- **Spore-producing surface:** Odontoid (tooth-like spines) on the
-  underside, 2–5 mm long, initially white becoming brown with age.
-- **Cap surface:** Convex to plane, 5–15 cm diameter, white when
-  young developing pinkish-brown to dark brown concentric zones;
-  velvety to felted texture.
-- **Flesh:** Corky and tough, pinkish when cut, with a distinct
-  peppery or bitter taste; zonate in cross-section.
-- **Spore print:** Brown.
+- **[[spore-print]]:** Brown.
 
 ## Chemical Constituents
 
@@ -84,67 +77,8 @@ thelephoric acid.
   occasionally found with hardwoods including oak and beech.
 - **Substrate:** Grows on forest floor soil, often among moss and
   needle litter; typically in mature to old-growth forests with
-  undisturbed mycorrhizal networks.
-- **Season:** Late summer to autumn (August–November in Northern
-  Hemisphere); fruiting is triggered by cool, wet conditions.
-- **Ecology:** Forms mutualistic mycorrhizal associations with tree
-  roots, exchanging soil minerals for photosynthetic carbon; the
-  extensive mycelial network improves host tree nutrient uptake.
+  undisturbed [[hydnellum-peatii]]
 
-## The "Bleeding" Phenomenon
-
-The blood-red fluid exuded by young fruiting bodies is the species'
-most celebrated and photographed feature. Key facts:
-- The fluid is produced only during active growth of young specimens;
-  older, mature fruiting bodies dry out and stop bleeding.
-- The red coloration results from dissolved polyphenol pigments
-  (primarily atromentin derivatives) in the fungal tissue fluids.
-- The fluid is not toxic, though the fungus itself is inedible due
-  to its extremely bitter and peppery taste and tough corky texture.
-- The function of the fluid is not fully understood; hypotheses
-  include osmoregulation, desiccation resistance, and chemical
-  defense against insects and competing fungi.
-- The bleeding effect is most pronounced in humid conditions
-  following rainfall.
-
-## Edibility and Toxicity
-
-- **Edibility:** Inedible — the flesh is extremely acrid and bitter,
-  with a tough, corky consistency that does not soften with cooking.
-- **Toxicity:** Not known to be poisonous; no confirmed cases of
-  human toxicity from ingestion, though the bitter taste typically
-  prevents consumption.
-- **Medicinal potential:** The pharmacological compounds (atromentin,
-  thelephoric acid) are of research interest for anticoagulant,
-  antibiotic, and neuroprotective drug development, though no
-  clinical applications have been realized.
-
-## Identification and Confusion Risks
-
-- **Key identifying features:** Tooth-like spines on the underside,
-  exudation of red fluid when young, corky flesh, and association
-  with coniferous trees.
-- **Similar species:** Other *Hydnellum* species (H. diabolus,
-  H. ferrugineum, H. concrescens) lack the red exudation; young
-  specimens of H. ferrugineum may show slight pinkish fluid but
-  never the dramatic red bleeding of H. peckii.
-- **Potential confusion:** Unlikely to be confused with edible
-  species due to the tooth-like spore surface; most dangerous
-  lookalikes would be in the genus *Sarcodon*, which are also
-  generally inedible.
-
-## Wiki Relevance
-
-*Hydnellum peckii* serves as a gateway species for discussions of
-mycorrhizal ecology, fungal secondary metabolites, and the
-intersection of bizarre natural history with pharmacological research.
-Its photogenic appearance makes it one of the most recognizable
-non-edible fungi in popular science media.
-
-## See Also
-
-- [[hydnellum-peatii]]
-
-- [[hydnellum-aurantiacum]]
+- [[sarcodon-imbricatus]]
 
 - [[sarcodon-imbricatus]]

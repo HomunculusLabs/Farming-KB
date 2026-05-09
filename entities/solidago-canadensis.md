@@ -132,13 +132,8 @@ Solidago virgaurea (European goldenrod) is smaller, with a less branched inflore
 
 ## See Also
 
-- [[urtica-dioica]]
 - [[plantago-major]]
-- [[calendula-officinalis]]
 - [[hypericum-perforatum]]
-- [[taraxacum-officinale]]
 - [[permaculture]]
-- [[companion-planting]]
 - [[dynamic-accumulators-overview]]
-- [[solidago-virgaurea]]
 - [[rumex-acetosa]]

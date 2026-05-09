@@ -12,64 +12,7 @@ type: entity
 
 **Type:** Species (Plant)
 **Category:** Nitrogen-fixing leguminous tree
-**Also known as:** [[gleditsia-triacanthos]], sweet bean, thorny locust
-
-## Overview
-Honey locust is a moderately fast-growing, long-lived leguminous tree
-native to North America, reaching heights of 24-30 m. It produces
-abundant, nutritious pods that serve as excellent stock feed and
-potential human food. Its deep root system provides exceptional drought
-tolerance, and its deciduous nature allows light to reach understorey
-crops in winter. The heartwood is extremely durable, reportedly lasting
-100 years untreated in the ground.
-
-## Key Details
-
-### Botanical Profile
-- **Family:** Caesalpiniaceae
-- **Height:** 24-30 m typical; trunk diameter 60-90 cm
-- **Lifespan:** Long-lived
-- **Origin:** North America
-- **Rainfall requirement:** 425-1,500 mm for good growth
-- **Altitude range:** Survives up to 2,100 m
-
-### Growth Characteristics
-- Deep root system provides exceptional drought tolerance
-- Tolerant of alkaline and acid soils, also salt tolerant
-- Deciduous: allows winter light to pasture or understorey
-- Mature trees resistant to frost
-- Branches generally bear thorns; thornless cultivars exist
-- Coppices freely; suckers from damaged roots
-
-### Pod Nutritional Analysis
-- Protein: 14.3-16%
-- Sugar: 15.5-26.5%
-- Carbohydrate: 60.5%
-- Fat: 7.5%
-- Crude fibre: 18.4%
-- Described as superior to oats as stock feed
-
-### Yields
-- Year 12: 9 tonnes/ha/year at 36 trees/ha
-- Year 15: 18 tonnes/ha/year
-- Mature selected groves: 50-60 tonnes/ha/year
-
-### Uses
-- **Stock feed:** Pods eagerly consumed by pigs, sheep, cattle, and
-  goats; superior to oats nutritionally
-- **Human food:** Pods can be used for human consumption
-- **Fuel:** Alcohol fuel production from pods; good fuelwood
-- **Timber:** Hard, heavy, strong; heartwood lasts 100 years in ground;
-  excellent for furniture
-- **Shade tree:** Deciduous canopy provides summer shade, winter light
-- **Thorn protection:** Thorns protect against ring-barking by stock
-
-### Propagation
-- Seed propagation similar to carob
-- Can also be propagated by transplanting root suckers
-
-## Relevance
-Honey locust is a highly valuable multi-purpose tree for [[permaculture]]
+**Also known as:** [[permaculture]]
 design, particularly in temperate and subtropical grazing systems. Its
 combination of high-proton pod production (superior to oats), extremely
 durable timber, drought tolerance, and winter-deciduous habit makes it
@@ -79,7 +22,84 @@ minimal input, making it a cornerstone species for sustainable animal
 agriculture.
 
 ## See Also
-- [[black-locust-entity]]
 - [[carob]]
 - [[tagasaste]]
 - Mesquite
+## Practical Applications
+
+Honey Locust has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Honey Locust. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

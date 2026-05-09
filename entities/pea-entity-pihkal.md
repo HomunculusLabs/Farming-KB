@@ -109,41 +109,6 @@ compound is also a mild stimulant causing insomnia, restlessness and
 photophobia. Substitutions on the benzene ring of this system have
 not been too promising. The DOM analogue,
 2,5-dimethoxy-4-methyltranylcypromine is active in man, and is
-discussed in its own recipe under DMCPA. The inactive [[mescaline-entity]]
-analogue TMT is also mentioned there.
-The dropping of one carbon from the phenethylamine chain gives a
-benzyl amine, basically an inactive nucleus. Two families deserve
-mention, however. The phencylidine area, phenylcyclohexylpiperidine
-or PCP, is represented by a number of benzyl amines. Ketamine is also
-a benzyl amine. These are all analgesics and anesthetics with central
-properties far removed from the stimulant area, and are not really
-part of this book. There is a benzyl amine that is a pure stimulant,
-which has been closely compared to amphetamine in its action This is
-benzylpiperazine, a base that is active in the 20 to 100 milligram
-range, but which has an acceptability similar to amphetamine. If this
-is a valid stimulant, I think that much magic might be found in and
-around compounds such as (1) the MDMA analogue,
-N-(3,4-methylenedioxybenzyl)piperazine (or its N-methyl-counterpart
-N-(3,4-methylenedioxybenzyl)-N'-methylpiperazine) or (2) the DOM
-analogue, 2,5-dimethoxy-4-methylbenzylpiperazine. The benzyl amine
-that results by the relocation of the amine group of MDA from the
-beta-carbon atom to the alpha-carbon atom is known, and is active.
-It, and its N-methyl homologue, are described and discussed in the
-commentary under MDA. Dropping another carbon atom gives a yet
-shorter chain (no carbons at all!) and this is to be found in the
-phenylpiperazine analogue 3-trifluoromethylphenylpiperazine. I have
-been told that this base is an active hallucinogen as the
-dihydrobromide salt at 50 milligrams sublingually, or at 15 milligrams
-intravenously in man. The corresponding 3-chloro analogue at 20 to 40
-milligrams orally in man or at 8 milligrams intravenously, led to
-panic attacks in some 10% of the experimental subjects, but not to any
-observed psychedelic or stimulant responses.
-What happens if you extend the chain to a third carbon? The parent
-system is called the phenyl-(n)-propylamine, and the parent chain
-structure, either as the primary amine or as its alpha-methyl
-counterpart, represents compounds that are inactive as stimulants.
-## See Also
-- [[qualitative-comments-methodology-pihkal]]
-- [[inactive-probes-pharmacological-falsification-pihkal]]
+discussed in its own recipe under DMCPA. The inactive [[qualitative-comments-methodology-pihkal]]
 - [[methyl-dob-entity-pihkal]]
 - [[md-family-structure-activity]]

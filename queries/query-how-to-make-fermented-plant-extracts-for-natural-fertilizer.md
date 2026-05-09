@@ -95,51 +95,8 @@ FPEs are concentrates and must always be diluted before use:
 | Seed soak | 1:500 | Soak seeds for 4 to 8 hours before planting |
 | Transplant dip | 1:200 | Dip bare roots for 30 seconds before planting |
 
-**Compatibility:** FPEs can be combined with [[complete-knf-input-reference]] like Oriental Herb Nutrient (OHN), Fish Amino Acid (FAA), or Lactic Acid Bacteria (LAB) serum. Do not mix FPE directly with chemical fertilizers or hydrogen peroxide, as these will kill the beneficial microbes.
-
-## Seasonal FPE Calendar
-
-Different plants are available at different times, and different growth stages demand different inputs:
-
-- **Spring (vegetative growth):** Nettle FPE, comfrey FPE, dandelion FPE
-- **Early summer (transplanting and establishment):** Willow bark FPE (natural rooting hormone), comfrey FPE
-- **Midsummer (flowering and fruiting):** Comfrey FPE, yarrow FPE, seaweed FPE
-- **Late summer to fall (ripening and disease pressure):** Horsetail FPE (silica for pest resistance), garlic FPE
-- **Winter (soil biology):** Mugwort FPE, any leftover FPE as a soil drench at reduced frequency
-
-## Combining FPEs with Other Organic Methods
-
-Fermented plant extracts work best as part of an integrated fertility program:
-
-- Pair with [[query-how-does-living-soil-work-for-cannabis]] biology for maximum nutrient cycling
-- Use alongside [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] plants grown as green manure
-- Alternate with [[query-how-to-make-compost-tea-for-my-plants]] for a different spectrum of microbes
-- Layer with [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]] amendments for long-term nutrient retention
-
-## Common Mistakes and Troubleshooting
-
-**Using dried plant material:** Sugar fermentation relies on fresh plant juices. Dried material produces weak extracts. If you must use dried herbs, rehydrate them in warm water first and increase sugar by 25%.
-
-**Fermenting too warm:** Temperatures above 30 degrees Celsius favor alcohol fermentation by wild yeasts over lactic acid bacteria, producing an off-smelling extract with lower bioactive content.
-
-**Not stirring daily:** Surface mold develops when plant material floats above the liquid line. Daily stirring redistributes the liquid and keeps everything submerged.
-
-**Over-application:** More is not better. Excessive foliar application can burn leaf tissue. Stick to recommended dilution rates and observe plant response.
-
-**Using chlorinated water:** Chlorine in tap water kills the lactic acid bacteria you want. Use filtered, spring, or well water. If using tap water, let it sit open for 24 hours to off-gas chlorine.
-
-## Quick Reference: Making Your First Comfrey FPE
-
-1. Harvest 500 g fresh comfrey leaves and stems
-2. Chop into 3 cm pieces
-3. Mix with 500 g brown sugar in a bowl, massaging until juicy
-4. Pack into a 2-liter glass jar, pressing firmly
-5. Cover with a cloth and set in a dark cupboard (20 degrees Celsius)
-6. Stir daily for 10 days, pressing plant material down
-7. Strain through cheesecloth into a clean bottle
-8. Dilute 1:500 for foliar spray, 1:1000 for soil drench
-9. Apply every 10 to 14 days during flowering stage
-
-## See Also
+**Compatibility:** FPEs can be combined with [[query-how-does-living-soil-work-for-cannabis]] biology for maximum nutrient cycling
+- Use alongside [[query-how-to-make-compost-tea-for-my-plants]] for a different spectrum of microbes
+- Layer with [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
 
 - [[brassinosteroid-natural-occurrence-plant-kingdoms]]

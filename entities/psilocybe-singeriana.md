@@ -39,11 +39,11 @@ Reported from tropical and subtropical regions of the Americas. It is likely a s
 
 ## Chemistry
 
-Presumed to contain [[psilocybin-compound]] and [[psilocin]] based on its placement in the genus and reported bluing reactions. The bluing reaction upon bruising is a strong indicator of the presence of these tryptamine compounds, though not all blueing species have been analytically confirmed. Quantitative data on alkaloid concentrations are limited.
+Presumed to contain [[psilocin]] based on its placement in the genus and reported bluing reactions. The bluing reaction upon bruising is a strong indicator of the presence of these tryptamine compounds, though not all blueing species have been analytically confirmed. Quantitative data on alkaloid concentrations are limited.
 
 ## Similar Species
 
-[[psilocybe-cubensis-potency-variation-by-flush]] and other tropical Psilocybe species share overlapping macroscopic features. [[psilocybe-caerulescens-profile]] may also occur in similar habitats. Definitive identification requires microscopic examination of spore morphology and cystidial characters.
+[[psilocybe-caerulescens-profile]] may also occur in similar habitats. Definitive identification requires microscopic examination of spore morphology and cystidial characters.
 
 ## Notes
 
@@ -73,9 +73,7 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[spore-print]]
 - [[rolf-singer]]
-- [[spore]]
 - [[tryptamine]]
 
 ## See Also

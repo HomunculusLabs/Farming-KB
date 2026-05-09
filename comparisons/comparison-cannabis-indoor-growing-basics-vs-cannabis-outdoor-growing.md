@@ -21,38 +21,6 @@ Both approaches have passionate advocates, and many experienced growers operate
 both simultaneously to maximize annual output and hedge against seasonal risk.
 
 ## Indoor Growing
-[[cannabis-indoor-growing-basics]]
-
-Indoor cultivation provides complete environmental control over light,
-temperature, humidity, airflow, and nutrient delivery. Growers use grow tents or
-dedicated rooms equipped with artificial lighting (LED, HPS, or CMH),
-ventilation systems with carbon filtration, dehumidifiers, and climate
-controllers. This level of control enables year-round production with multiple
-harvest cycles per year, regardless of external weather conditions or seasonal
-constraints. The most common entry point is a grow tent, which offers reflective
-interiors, built-in ports for ventilation and ducting, and light-proof
-construction in sizes ranging from 2x2 to 4x8 feet.
-
-The primary advantage of indoor growing is precision. Light intensity is
-measured in PPFD (Photosynthetic Photon Flux Density) and adjusted through
-growth stages, from 100-300 for seedlings up to 600-1,000+ during flowering.
-Temperature is maintained between 70-85 degrees Fahrenheit during vegetation and
-65-80 degrees during flowering, with humidity targets dropping from 50-70
-percent in vegetation to 30-45 percent in late flower. These controlled
-conditions minimize variability between runs, making it possible to dial in a
-specific strain's ideal parameters and reproduce them reliably cycle after
-cycle.
-
-Growers can employ advanced techniques that are difficult or impossible
-outdoors. Crop steering manipulates environmental parameters to influence plant
-metabolism, bud structure, and cannabinoid production. Training methods like
-SCROG (Screen of Green), main-lining, and defoliation can be executed on precise
-schedules. CO2 supplementation pushes growth rates beyond what natural
-atmospheric levels allow. However, the learning curve is steeper, requiring
-familiarity with multiple interconnected systems, and plants remain container-
-bound, limiting root mass compared to in-ground cultivation.
-
-## Outdoor Growing
 [[cannabis-outdoor-growing]]
 
 Outdoor cultivation uses natural sunlight as the primary light source,
@@ -121,8 +89,6 @@ after the last frost to maximize the season while protecting vulnerable
 seedlings during their most delicate stage.
 
 ## See Also
-- [[cannabis-lighting-guide]]
 - [[cannabis-health-index]]
-- [[living-soil-cannabis]]
 - [[autoflowering-cannabis]]
 - [[cannabis-topping-training]]

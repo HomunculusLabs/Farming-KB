@@ -1,7 +1,7 @@
 ---
 title: "Trees in Permaculture Design"
 created: 2026-04-28
-tags: [permaculture, trees, deciduous, coniferous, microclimate,
+tags: [[permaculture, trees, deciduous, coniferous, microclimate,
        windbreak, shade, food-forests, ecological-design]
 date: 2026-04-25
 updated: 2026-04-25
@@ -140,8 +140,6 @@ present itself.
 
 ## See Also
 
-- [[williams-pdc-food-forests]]
 - [[williams-pdc-soils]]
-- [[williams-pdc-structures]]
 - [[ozier-pdc-forest-succession-and-food-forests]]
 - [[pdc-food-forest-design-and-forest-ecology]]

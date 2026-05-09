@@ -39,23 +39,6 @@ Similar to fabric pots but with rigid plastic walls perforated with many small h
 - **SOG (Sea of Green)**: Smaller containers (1–2 gallon) since plants flower young and small
 - **ScrOG (Screen of Green)**: 3–5 gallon pots to support extended vegetative growth
 - **Single large plant**: 5–10+ gallons for maximum root mass and plant size
-- See [[cannabis-scrog-and-sog-methods]] for detailed method-specific guidance
-
-## Root-Bound Problems
-
-When roots outgrow their container, the plant becomes root-bound:
-
-- Growth slows dramatically
-- Plants wilt quickly between waterings
-- Lower leaves yellow and drop prematurely
-- Nutrient uptake becomes inefficient
-- Flower size is reduced
-
-### Signs of Root-Bound Plants
-- Roots growing out of drainage holes
-- Soil dries out very quickly (needs water daily or more)
-- Visible root circling when transplanting
-- Stunted growth despite proper feeding
 - See [[cannabis-transplanting-guide]] for transplanting solutions
 
 ## Transplanting Strategy
@@ -106,13 +89,8 @@ A compromise is to start in a 1-gallon pot and move directly to the final contai
 
 ## Related
 
-- [[greg-green-container-and-pot-sizing]] Topics
-
 - [[cannabis-transplanting-guide]] — detailed transplanting techniques
-- [[cannabis-watering-schedule-and-frequency]] — watering based on container size
 - [[cannabis-soil-and-nutrients]] — soil for containers
-- [[cannabis-scrog-and-sog-methods]] — container sizing by grow method
 - [[cannabis-soilless-grow-media]] — alternatives to soil in pots
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[temperature-effects-plant-nutrient-uptake]]
 - [[cannabis-screen-of-green-scrog-guide]]

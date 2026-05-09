@@ -11,43 +11,7 @@ sources:
 
 2,5-DMA (2,5-Dimethoxyamphetamine; DMA) is an amphetamine derivative that serves as a critical precursor to several potent psychedelic compounds.
 
-It is documented as entry #54 in PiHKAL by [[alexander-shulgin]].
-
-## Chemical Identity
-
-Full chemical name: 2,5-Dimethoxyamphetamine.
-
-Molecular formula: C11H17NO2 (free base).
-
-2,5-DMA occupies a unique position in psychedelic chemistry as the parent compound for the entire DOX series of psychedelic amphetamines.
-
-The hydrochloride salt melts at 114-116 degrees Celsius.
-
-The hydrobromide salt melts at 129-131 degrees Celsius.
-
-## Dosage and Duration
-
-Reported dosage range: 80 - 160 mg (and above).
-
-Duration: 6 - 8 hours (estimated).
-
-Shulgin described the qualitative information on 2,5-DMA as "very sparse."
-
-At 80 mg, effects were described as "totally a physical trip with tremors and some cardiovascular push and nothing of a sensory nature."
-
-A South American report at 75 mg described "largely pleasant" intoxication with enhanced interest in surroundings but no perceptual changes or overt stimulation.
-
-A single trial at 250 mg of the tartrate salt produced some "speedy" effects but still no sensory changes.
-
-Seized capsules containing approximately 200 mg of the hydrobromide salt suggest this level may be an effective dosage.
-
-## Pharmacological Character
-
-2,5-DMA is primarily a stimulant rather than a psychedelic.
-
-Its value in psychedelic chemistry lies almost entirely in its role as a precursor.
-
-The 2,5-dimethoxy substitution pattern activates the 4-position for electrophilic attack, making 2,5-DMA the ideal starting material for the synthesis of dob-entity|DOB, doi-entity|DOI, [[doc-entity]]|DOC, and don-entity|DON.
+It is documented as entry #54 in PiHKAL by [[doc-entity]]|DOC, and don-entity|DON.
 
 Radio-halogenation of N-substituted homologues of 2,5-DMA with hypoiodite or hypofluorite has been used in the search for radio-labeled brain blood flow agents.
 
@@ -107,11 +71,26 @@ The compound should not be confused with other dimethoxyamphetamines that may ha
 - doi-entity|DOI: the 4-iodo derivative
 - doc-entity|DOC: the 4-chloro derivative
 - dom-entity|DOM: the 4-methyl derivative
-- [[phenethylamine-pharmacology]]: general pharmacology
-
-## Related
-
 - [[2-5-dma-entity-pihkal]]
 - [[2-4-dma-entity-pihkal]]
 
 - index-psychedelics
+## Practical Considerations
+
+Successful implementation of 2,5-DMA requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

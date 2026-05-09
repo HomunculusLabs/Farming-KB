@@ -128,8 +128,6 @@ cannabis cultivation:
 
 ## See Also
 
-- [[cervantes-terpenoids-terpene-profiles]]
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
-- [[cervantes-medical-marijuana-pharmacology]]
 - [[cervantes-cannabis-tolerance-addiction-pharmacology]]
-- [[cannabis-advanced-growing-techniques]]
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

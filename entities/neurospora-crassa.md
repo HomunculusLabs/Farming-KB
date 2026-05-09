@@ -119,14 +119,9 @@ The availability of genome sequences from multiple Neurospora species has enable
 
 ## See Also
 
-- [[fungal-population-genetics]]
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
 
-- [[neurospora-baiting-isolation-methods]]
-
-- aspergillus nidulans
 - [[magnaporthe-grisea]]
 - saccharomyces cerevisiae
 - schizosaccharomyces pombe
-- [[trichoderma-reesei]]
 - [[penicillium-chrysogenum]]

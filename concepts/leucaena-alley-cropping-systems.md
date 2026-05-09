@@ -125,12 +125,9 @@ they yield, leading quickly into productive systems.
 
 ## Related
 
-- [[leucaena-alley-cropping-tropical-forage]]
-
 - [[leucaena-entity]] Concepts
 
 - agroforestry systems
-- [[mollison-animal-integration-permaculture-design]]
 - [[comfrey-multifunctional-guild-plant]]
 - [[mollison-designers-coppicing-management-of-legume-trees]]
 - nitrogen fixation

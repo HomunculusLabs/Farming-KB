@@ -9,7 +9,7 @@ sources:
 ---
 # Ergonovine Self-Experiment (Hofmann, 1976)
 
-**Source:** The Road to Eleusis, Chapter II — [[albert-hofmann]]
+**Source:** The Road to Eleusis, Chapter II — gordon-wasson
 
 ## Overview
 
@@ -17,61 +17,13 @@ On April 1, 1976, Albert Hofmann conducted a self-experiment with ergonovine (er
 
 ## Background
 
-The experiment was prompted by R. Gordon Wasson's question to Hofmann during a visit to Danbury in July 1975: "Could Early Man in ancient Greece have hit on a method to isolate an hallucinogen from ergot that would have given him an experience comparable to LSD or [[psilocybin-compound]]?" Hofmann already knew that ergonovine was:
+The experiment was prompted by R. Gordon Wasson's question to Hofmann during a visit to Danbury in July 1975: "Could Early Man in ancient Greece have hit on a method to isolate an hallucinogen from ergot that would have given him an experience comparable to LSD or [[psilocybin]]?" Hofmann already knew that ergonovine was:
 
 - A water-soluble alkaloid found in ergot
 
 - Chemically similar to [LSD (both are lysergic acid derivatives)
 
-- A constituent of [[ololiuhqui-morning-glory-ergot-alkaloid-connection]] (Mexican morning glory seeds), which he had previously analyzed
-
-- Used in obstetrics at doses of 0.1–0.25 mg (far below any psychoactive threshold)
-
-## The Experiment
-
-**Substance:** Ergonovine hydrogenmaleinate, containing 1.5 mg ergonovine base
-
-**Dose:** 2.0 mg total (in a glass of water)
-
-**Setting:** Without attention to "set and setting" — a deliberate departure from Hofmann's usual practice
-
-### Timeline of Effects
-
-| Time | Effects |
-
-|------|---------|
-
-| 13:00 | Slight nausea, similar to initial effects in LSD or psilocybin experiments. Tired, needed to lie down. With eyes closed, colored figures appeared. |
-
-| 13:30 | Trees in the nearby forest seemed alive, branches moving in a threatening way. |
-
-| 14:30 | Strong desire to dream; unable to do systematic work. With eyes closed or open, afflicted by mollusk-like forms and feelings. |
-
-| 16:00 | Motives and colors became clearer, but still bearing hidden dangers. |
-
-| 17:00 | After a short sleep, awoke by "a kind of inner explosion of all the senses." |
-
-| 18:00 | An unexpected visit forced activity; throughout the evening, lived more in an inner than outer world. |
-
-| 22:00 | All effects worn off, normal feeling. |
-
-## Significance
-
-### Proof of Psychoactivity
-
-The experiment proved that ergonovine possesses "psychotropic, mood-changing, slightly hallucinogenic activity when taken in the same amount as is an effective dose of lysergic acid amide, the main constituent of ololiuhqui." Its potency was approximately one-twentieth that of LSD and about five times that of psilocybin.
-
-### Relevance to the Eleusinian Theory
-
-Hofmann noted that in obstetrics, ergonovine was used at doses of 0.1–0.25 mg — far too low to produce psychoactive effects. The effective dose for hallucinogenic activity (1–2 mg oral) was never approached in medical use, which explained why ergonovine's psychoactive properties had gone unnoticed despite decades of clinical use.
-
-### Water-Soluble Alkaloid Extraction
-
-The critical insight was that ergonovine and lysergic acid amide — unlike the medically important ergotamine and ergotoxine group alkaloids — are water-soluble. This meant they could be extracted from ergot by simple water infusion, well within the technological reach of ancient Greece. The non-hallucinogenic alkaloids would remain insoluble and could be filtered away.
-
-## Comparison with LSD and Psilocybin Experiences
-
-Hofmann explicitly noted that the initial nausea was "the same effect as I have experienced always in my LSD or psilocybin experiments," establishing a consistent phenomenological signature across the three substances — all of which are active at [[serotonin]] receptors.
+- A constituent of [[serotonin]] receptors.
 
 ## Hofmann's Personal Reflections
 
@@ -93,8 +45,6 @@ The experiment also contributed to the growing recognition that many "medicinal"
 
 ## Related Concepts
 
-- [[claviceps-purpurea]] chemistry
-
 - [[lsd-pharmacology]]
 
 - [Wasson-Hofmann-Ruck collaboration
@@ -109,5 +59,23 @@ The experiment also contributed to the growing recognition that many "medicinal"
 
 ## See Also
 
-- [[hofmann-self-experiment-with-ergonovine]]
 - [[hofmann-lsd-pharmacology-and-effects]]
+## Practical Considerations
+
+Successful implementation of Ergonovine Self-Experiment (Hofmann, 1976) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

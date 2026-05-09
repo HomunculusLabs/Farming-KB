@@ -97,42 +97,7 @@ American Church circa 1918. Peyote produced more predictable visionary
 effects with a much wider safety margin than the highly toxic mescal
 bean. Mescal bean use persisted in some Apache and Plains communities
 into the early twentieth century, and the red beans continue to hold
-symbolic importance in peyote ceremony regalia, including medallion-
-like rattles worn by dancers. This represents one of the best-
-documented cases of entheogen substitution in human history.
-
-## Cultivation
-
-- **Soil:** Well-drained alkaline rocky or sandy; tolerates limestone
-  and caliche; avoid heavy wet clay
-- **Water:** Extremely drought-tolerant once established
-- **Light:** Full sun to partial shade; best flowering in full sun
-- **Propagation:** Seeds require scarification and stratification;
-  germination slow and irregular. Cuttings difficult
-- **Pests:** Generally pest-free; Genista broom moth caterpillars
-  (Uresiphita reversalis) may defoliate plants
-- **Hardiness:** To approximately 5 degrees F (-15 C)
-
-## Legal Status
-
-Not a scheduled controlled substance in the United States; legal to
-cultivate, possess, and sell as ornamental. Cytisine-containing
-products not FDA-approved for human use in the US. No specific
-international regulations; standard nursery trade item worldwide.
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| Abrus precatorius (rosary pea) | Red seeds with black spot; contains abrin; tropical |
-| Erythrina spp. (coralbean) | Red seeds in similar pods; E. herbacea native to SE US |
-| Rhynchosia precatoria | Bright red seeds; tropical regions only |
-| Caesalpinia bonduc (nickernut) | Gray seeds; different alkaloid profile |
-
-## See Also
-
-- [[mescal-bean-sophora-secundiflora-vision-dance]]
-- [[ethnomycology]]
-- [[datura-stramonium]]
+symbolic importance in [[mescal-bean-sophora-secundiflora-vision-dance]]
+- ethnomycology
 - [[tabernanthe-iboga]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]

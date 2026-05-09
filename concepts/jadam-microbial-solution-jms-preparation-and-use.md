@@ -124,12 +124,7 @@ When water temperature drops below 18C (64F):
 
 ## References
 
-- Source: "JADAM Organic Farming" by [[youngsang-cho]], Chapters 14-16 (Making Organic Farming Inputs)
+- Source: "JADAM Organic Farming" by [[jadam-microbial-solution]]
 
-## See Also
-
-- [[jadam-microbial-solution]]
-
-- [[natural-farming-philosophy]]
 - [[soil-food-web-nutrient-cycling]]
 - [[compost-tea-recipe-guide]]

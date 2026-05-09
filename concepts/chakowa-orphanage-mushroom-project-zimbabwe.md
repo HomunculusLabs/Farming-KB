@@ -3,7 +3,7 @@ title: Chakowa Orphanage Mushroom Project — Zimbabwe Case Study
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom-cultivation, zimbabwe, poverty-alleviation, case-study,
+tags: [[mushroom-cultivation, zimbabwe, poverty-alleviation, case-study,
        orphanage, hiv-aids, participatory-training, developing-countries]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
@@ -11,11 +11,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 # Chakowa Orphanage Mushroom Project — Zimbabwe Case Study
 
 The Chakowa Orphanage Group in Zimbabwe's lowveld region demonstrates how
-mushroom cultivation can serve as a livelihood intervention for vulnerable
-communities affected by HIV/AIDS. Initiated by Mrs. Margaret Tagwira with
-support from the Intermediate Technology Development Group (ITDG), the
-project trained orphaned children, youths, women, and elderly community
-members in oyster mushroom production. Starting from humble beginnings
+[[oyster-mushroom]] production. Starting from humble beginnings
 with only a few children, the project grew to impact 56 households and
 provided income for school fees, uniforms, books, and nutrition. The
 Chakowa project is a frequently cited example in development literature of
@@ -137,8 +133,5 @@ from a single harvest cycle.
 
 ## See Also
 
-- [[mushroom-poverty-alleviation-developing-countries]]
-- [[oyster-mushroom-low-cost-growing-house-construction]]
 - [[low-cost-mushroom-growing-house-construction-developing-countries]]
-- [[commercially-important-pleurotus-species-cultivation-guide]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

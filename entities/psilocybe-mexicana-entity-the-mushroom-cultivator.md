@@ -120,8 +120,6 @@ valuable comparative data for cultivators managing grow room conditions.
 
 ## See Also
 
-- [[psilocybe-cubensis-strains-names-and-marketing]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[psilocybe-tampanensis-entity]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
 - [[bacillus-subtilis]]

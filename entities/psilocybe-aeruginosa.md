@@ -75,9 +75,6 @@ placed in Psilocybe on morphological grounds contain psychoactive
 compounds, and that chemical verification remains essential.
 
 ## See Also
-- [[psilocybe-caerulea]]
 - [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-cyanescens]]
 - [[psilocybe-azurescens]]
-- [[psilocybe-stuntzii]]
 - [[psilocybe-semilanceata]]

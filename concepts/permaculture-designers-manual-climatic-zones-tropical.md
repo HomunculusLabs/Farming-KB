@@ -3,7 +3,7 @@ title: Climatic Zones: Tropical
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, climate, tropics]
+tags: [[permaculture, climate, tropics]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -141,9 +141,6 @@ Corrals or cattle-goat-sheep barriers strengthened with thorny or distasteful sh
 
 ## Related Topics
 
-- [[permaculture-designers-manual-climate-factors]] - Climate analysis for design
 - [[permaculture-designers-manual-arid-climates]] - Arid zone design
-- [[permaculture-designers-manual-cold-climates]] - Temperate and cold zone design
 - [[permaculture-designers-manual-reference-trees]] - Tropical species reference
-- [[permaculture-designers-manual-plant-nursery]] - Nursery establishment in tropics
 - [[permaculture-designers-manual-village-design]] - Tropical village development

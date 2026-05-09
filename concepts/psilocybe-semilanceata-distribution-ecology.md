@@ -138,12 +138,8 @@ Ohenoja et al. (1987) made the notable discovery that herbarium specimens lose p
 This finding corroborates indigenous Mexican knowledge, where dried specimens older than one year are considered inactive and discarded.
 ## See Also
 
-- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
-
-- Psilocybe Genus Overview
 - [[psilocybe-cubensis]]
 - Mexico as Center of Neurotropic Fungi Diversity
 - Psilocybin Chemistry
-- [[neurotropic-fungi-classification]]
 - [[baeocystin]]
 - [[neurotropic-fungi]]

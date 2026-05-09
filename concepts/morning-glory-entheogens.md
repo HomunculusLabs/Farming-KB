@@ -25,70 +25,10 @@ documented psychoactive plant traditions in the Americas. The Aztecs
 and other Mesoamerican peoples recognized several species for their
 visionary properties. The practice persists today primarily among
 indigenous communities in Oaxaca, Mexico, where the seeds are used
-alongside other entheogens including [[teonanacatl-history]] (sacred
-mushrooms) and [[salvia-divinorum]] (diviner's sage).
+alongside other entheogens including [[salvia-divinorum]] (diviner's sage).
 
 The morning glory entheogens are distinguished by their chemistry:
 they contain ergoline alkaloids identical to those produced by the
-[[ergot-fungus]], a relationship that has fascinated chemists and
-ethnobotanists since the discovery was made by Albert Hofmann in 1960.
-
-## Principal Species
-
-### Turbina corymbosa (Ololiuqui)
-
-The most culturally significant morning glory entheogen. Known to the
-Aztecs as ololiuqui, the seeds of this vine were central to
-pre-Columbian religious practice. The plant is a perennial climbing
-vine with white, funnel-shaped flowers and small brown seeds. See
-Ololiuqui for detailed coverage of its history, chemistry, and
-traditional use.
-
-### Ipomoea violacea (Badoh Negro)
-
-Known to the Aztecs as Tlililtzin, this species is closely related to
-ololiuqui in its ceremonial use. The Chinantec and Mazatec Indians
-call the seeds Piule, while the Zapotecs know them as Badoh Negro.
-The plant is an annual vine with entire, ovate, deeply cordate leaves
-and trumpet-shaped flowers that vary from white to blue or
-violet-blue.
-
-The seeds are elongate, angular, and black, contrasting with the
-round brown seeds of Turbina corymbosa. In Oaxaca, they are esteemed
-as one of the principal hallucinogens for use in divination as well
-as magico-religious and curing rituals. The psychoactive constituents
-are the same ergoline alkaloids found in Ololiuqui, though the
-relative proportions may differ.
-
-### Argyreia nervosa (Hawaiian Baby Woodrose)
-
-Also known as the Hawaiian Wood Rose, this species produces larger
-seeds that contain approximately 0.3% ergot alkaloids. The seeds
-contain ergine (LSA), ergonovine, and isolysergic acid amide, as well
-as chanoclavin-I. Native to the Indian subcontinent, the plant has
-been introduced to Hawaii and other tropical regions.
-
-In Ayurvedic medicine, Wood Rose is used as a tonic and aphrodisiac.
-Today the seeds are primarily of interest for their psychoactive
-properties, which are similar to but somewhat more intense than those
-of Turbina corymbosa due to the larger seed size and higher alkaloid
-content per seed. Four to eight seeds (approximately 2g) are
-sufficient for a medium psychoactive dose.
-
-## Botanical Characteristics
-
-The Convolvulaceae family comprises approximately 1,600 species of
-climbing or trailing vines distributed throughout tropical and warm
-temperate regions. The family is characterized by funnel-shaped
-flowers and is well known in horticulture for the ornamental
-qualities of many species, including the common garden morning glory
-(Ipomoea purpurea).
-
-The psychoactive species are distinguished by their seed chemistry
-rather than by obvious morphological features. The ergoline alkaloids
-are concentrated in the seeds, with only trace amounts in other plant
-parts. This localization of active compounds in the seeds is a
-feature shared with several other entheogenic plants, including
 [[anadenanthera-entheogens]].
 
 ## Chemistry
@@ -109,30 +49,68 @@ These compounds are structurally related to LSD (lysergic acid
 diethylamide) but are considerably less potent -- LSA is
 approximately 10-20 times less potent than LSD by weight. The
 ergoline alkaloids are unique in that they occur both in the
-[[ergot-fungus]] (a fungal parasite on grasses) and in certain
-morning glory species, representing a remarkable case of convergent
-chemistry across biological kingdoms.
-
-## Traditional Preparation and Use
-
-In traditional Mesoamerican practice, the seeds are prepared through
-a careful process:
-
-1. The dried seeds are ground to a fine powder on a metate (grinding 
-  stone)
-2. The powder is soaked in cold water or a mild alcoholic solution fo
-  r several hours
-3. The liquid is filtered through cloth to remove the seed solids
-4. The filtered liquid is consumed in a ceremonial setting
-
-The resulting beverage produces a state characterized by drowsiness,
-followed by dream-like visions. Nausea is a common side effect and is
-sometimes regarded as a necessary purgative. The experience is
-generally described as gentler and more contemplative than that
-produced by other Mesoamerican entheogens like
 [[teonanacatl-history]] or [[peyote-ceremony]].
 
 ## Ethnobotanical Significance
 
 Morning glory entheogens represent an important intersection between
 Old World and New World ethnopharmacology. The ergoline alkaloids
+## Practical Considerations
+
+When working with Morning Glory Entheogens, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, homestead-crafts, recipe, preparation]
-sources:
-  - "raw/papers/pharmacotheon-jonathan-ott.md"
+sources: []
 ---
 
 # Candle Making
 
-[[permaculture]] designers manual is one of the oldest homestead crafts, transforming beeswax, tallow, or plant-based waxes into functional light sources. For the regenerative homesteader, beeswax candles represent a value-added product that utilizes wax from [[top-bar-hive]] honey harvests and beekeeping operations.
+Candle making is one of the oldest homestead crafts, transforming beeswax, tallow, or plant-based waxes into functional light sources. For the regenerative homesteader, beeswax candles represent a value-added product that utilizes wax from [[top-bar-hive]] honey harvests and beekeeping operations.
 
 ## Wax Types
 
@@ -88,8 +87,6 @@ Avoid synthetic fragrance oils if natural purity is important. Some essential oi
 
 ## Related Topics
 
-[[top-bar-hive]] for producing your own beeswax.
-[[herbal-salves-and-balms]] for beeswax uses beyond candles.
-[[soap-making-guide]] for another homestead craft using natural fats.
-[[beekeeping-basics]] for beekeeping fundamentals that supply wax.
-[[bee-products-beyond-honey]] for other hive products used in homesteading.
+- [[top-bar-hive]] for producing your own beeswax
+- [[herbal-salves-and-balms]] for beeswax uses beyond candles
+- [[soap-making-guide]] for another homestead craft using natural fats

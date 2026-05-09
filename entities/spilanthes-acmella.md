@@ -86,33 +86,7 @@ sources:
 - **Spacing:** 20–30 cm apart in rows or broadcast as a ground cover
 - **Watering:** Moderate; drought-tolerant once established but performs best with consistent moisture
 - **Harvest:** Flower heads harvested 60–90 days from sowing; continuous harvest through the season encourages further flowering
-- **Companion planting:** Repels certain insect pests due to spilanthol content; attracts pollinators and predatory insects; useful as a pest-deterrent border plant in food forests and vegetable gardens
-- **Permaculture functions:** Edible ground cover, medicinal herb layer, pest management, beneficial insect attractor, and edge plant in guild systems
-- **Container suitability:** Excellent for container and windowsill herb gardens due to compact size
-
-## Safety and Precautions
-
-- **Generally recognized as safe (GRAS):** Approved as a food flavoring in some jurisdictions at low concentrations
-- **Oral numbness:** The tingling sensation is intense but temporary, typically subsiding within 10–15 minutes
-- **Allergic reactions:** Rare but possible in individuals sensitive to Asteraceae family plants
-- **Pregnancy and lactation:** Insufficient safety data; traditional use advises caution during pregnancy
-- **Drug interactions:** Potential additive effects with anticoagulants due to antiplatelet activity of alkylamides
-- **Topical use:** Generally well-tolerated; avoid application to broken skin or mucous membranes in high concentrations
-
-## Ayurvedic and Ethnomedicinal Context
-
-- **Ayurvedic name:** Akarkarabha (अकरकरभ), classified as a shothahara (anti-inflammatory) and vedanasthapana (pain-relieving) herb
-- **Traditional preparation:** Flower heads macerated in sesame oil for topical application to swollen gums; decoction of aerial parts used as a gargle
-- **Brazilian folk medicine:** Called jambu in the Amazon region; widely used in Pará state cuisine and traditional medicine for toothache and throat infections
-- **African traditional use:** In West Africa, used as a chewing stimulant and remedy for malaria-related mouth sores
-- **Chinese medicine:** Occasionally used in southern Chinese folk practice under local names; not a canonical TCM herb
-
-## Research Highlights
-
-- **Dental analgesia:** A 2016 clinical trial (Journal of Clinical and Experimental Dentistry) demonstrated significant pain reduction in patients with reversible pulpitis using a Spilanthes gel compared to placebo
-- **Wound healing:** Topical spilanthol-containing formulations showed accelerated wound closure in murine models through enhanced collagen deposition and angiogenesis
-- **Antimalarial activity:** Moderate in vitro activity against Plasmodium falciparum has been reported; traditional use in some malarial regions supports further investigation
-- **Antifungal properties:** Essential oil shows activity against Candida albicans and dermatophytes, supporting potential use in oral thrush management
+- **[[candida-albicans]] and dermatophytes, supporting potential use in oral thrush management
 - **Neuroprotective potential:** Preliminary in vitro studies suggest alkylamides may modulate TRP channels (TRPA1, TRPV1) involved in pain signaling, opening avenues for neuropathic pain research
 
 ## Yield and Production Data
@@ -124,7 +98,5 @@ sources:
 
 ## See Also
 
-- [[ashwagandha-withania-somnifera]] — another adaptogenic herb with immunomodulatory properties
 - [[bacopa-monnieri]] — complementary Ayurvedic nootropic herb
-- [[echinacea-purpurea]] — related Asteraceae medicinal plant with immunomodulatory alkylamides
 - [[tagetes-lucida]] — another Asteraceae species with traditional medicinal and ceremonial uses

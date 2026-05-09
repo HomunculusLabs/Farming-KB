@@ -121,8 +121,6 @@ When composting buckwheat, mix it with drier carbon-rich materials such as straw
 
 ## Related Concepts
 
-- [[cover-cropping-guide]]
 - [[solomon-mulching-and-cover-cropping]]
-- [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]
 - [[soil-fertility-management]]
 - [[garden-soil-basics]]

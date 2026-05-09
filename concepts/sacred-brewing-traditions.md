@@ -75,13 +75,9 @@ Several common principles emerge across the world's sacred brewing traditions:
 
 ## See Also
 
-- [[history-of-beer-and-brewing]] for the broader historical narrative
 - [[gruit-beer-and-herbs]] for sacred European herbal brewing
 - herbal beer ingredients for psychoactive and medicinal brewing herbs
 - wild fermentation vs cultured yeast for the spiritual dimension of wild fermentation
-- [[beer-brewing-basics]] for practical brewing methods
 - [[mead-making-guide]] for the sacred history of mead
-- [[ayahuasca-brewing-guide]] for another sacred brewing tradition
 - [[herbal-medicine-making-basics]]
-- [[deep-relaxation-and-mind-body-healing]]
 - [[wild-fermentation-vs-cultured-yeast]]

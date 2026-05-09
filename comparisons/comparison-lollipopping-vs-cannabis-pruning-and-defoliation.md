@@ -14,14 +14,7 @@ type: comparison
 Lollipopping is a specific, aggressive pruning technique within the
 broader category of cannabis pruning and defoliation. While general
 pruning and defoliation encompasses a range of methods from light leaf
-thinning to structural training like topping and [[fimming]], lollipopping
-focuses on a single dramatic action: stripping the lower portion of each
-branch to concentrate energy on top colas. Understanding the
-relationship between these approaches helps growers choose the right
-level of intervention for their specific grow setup and goals.
-
-## Lollipopping
-[[lollipopping]]
+thinning to structural training like topping and [[lollipopping]]
 Lollipopping is a targeted cannabis pruning technique performed just
 before or during the early flowering stage (typically weeks one to two
 of flower) that involves removing the lower 30 to 40 percent of each
@@ -52,13 +45,7 @@ it too late into flowering wastes the plant's energy on bud sites that
 will never mature.
 
 ## Cannabis Pruning and Defoliation
-[[cannabis-pruning-and-defoliation-guide]]
-Cannabis pruning and defoliation is a comprehensive set of techniques
-that spans the entire plant lifecycle, from early vegetative structural
-training through flowering canopy management. The broader practice
-includes structural methods like topping (removing the apical meristem
-to create two main colas), fimming (pinching the growth tip to produce
-three to four colas), [[low-stress-training]] (bending branches to create an
+[[low-stress-training]] (bending branches to create an
 even canopy), and repeated topping for bush-style training. Each of
 these methods serves a different purpose: controlling plant height,
 increasing cola count, manipulating canopy shape for light distribution,
@@ -146,5 +133,4 @@ early flower. This layered approach combines the structural benefits of
 training with the energy-concentration benefits of lollipopping,
 resulting in a plant that fills its light footprint efficiently while
 directing maximum energy to premium bud sites.
-
 ## See Also

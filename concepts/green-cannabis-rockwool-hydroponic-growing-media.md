@@ -57,27 +57,6 @@ Rockwool cubes serve multiple purposes in cannabis cultivation:
 - Seed germination: Seeds placed in rockwool cubes have easy access to
   moisture and can be monitored visually.
 - Rooting cuttings: Rockwool cubes are described as excellent for
-  [[green-cannabis-grow-bible-cloning-and-seed-propagation]],
-  providing a stable medium for cuttings to develop roots.
-- Transplanting: Seedlings started in rockwool SBS (Seedling Base
-  System) trays can be lifted with their cube and placed directly into
-  soil or hydroponic systems. The cube does not affect the plant's
-  growth and adds structural support.
-
-### Rockwool SBS Propagation Tray
-
-The rockwool SBS propagation tray is a specialized system where
-rockwool cubes are placed into slots in a tray that automatically dips
-the cubes into a nutrient solution. Seeds are placed in the cubes, and
-the system maintains moisture levels. The trade-off is the upfront cost
-of the tray (approximately $10), rockwool cubes, and grow fertilizers.
-
-## Other Hydroponic Media
-
-While rockwool is the most popular medium, other options include:
-
-- Clay pebbles: Lightweight, reusable aggregate that provides excellent
-  drainage and aeration. Commonly used in net pots with
   [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]].
 - Perlite: A good medium that does not come with any nutrients, often
   mixed with soil to improve drainage.
@@ -87,9 +66,7 @@ While rockwool is the most popular medium, other options include:
 
 Several hydroponics systems are commonly used with these media:
 
-- [[nutrient-film-technique]] (NFT): A thin film of nutrient solution flows
-  continuously over the roots.
-- Flood and Drain ([[ebb-and-flow]]): The grow tray is periodically flooded
+- [[ebb-and-flow]]): The grow tray is periodically flooded
   with nutrient solution and then drained.
 - Drip systems: Nutrient solution is dripped onto the medium at
   regular intervals.

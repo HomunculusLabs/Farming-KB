@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [pharmacology, psychedelics]
-sources: []
+sources:
+  - "raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 ---
 ---
 title: Ibogaine Anti-Addiction Therapy
@@ -17,23 +18,12 @@ sources:
 
 # Ibogaine Anti-Addiction Therapy
 
-Ibogaine is an indole alkaloid derived from the root bark [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] African shrub
-[[tabernanthe-iboga]]. It has attracted significant attention for its reported
+Ibogaine is an indole alkaloid derived from the root bark [[tabernanthe-iboga]]. It has attracted significant attention for its reported
 ability to interrupt opioid dependence, reduce withdrawal symptoms, and
 facilitate long-term abstinence from addictive substances. Despite promising
 anecdotal and observational evidence, ibogaine remains controversial due to
-safety concerns [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] lack of large-scale controlled clinical trials.
-
-## Historical Background
-
-The use of iboga in traditional medicine and spiritual practice among the
-Bwiti people of Gabon and surrounding regions dates back centuries. The Bwiti
-use iboga root bark in initiation ceremonies, healing rituals, and as a
-stimulant during long communal gatherings. The psychoactive [[antiviral-properties-of-mushrooms]]
-ibogaine were first described in Western scientific literature [[allegro-death-and-resurrection-in-the-mushroom-cult]] late
-nineteenth century.
-
-Ibogaine's anti-addictive properties were discovered serendipitously [[allegro-plants-and-drugs-in-the-ancient-world]]
+safety concerns [[antiviral-properties-of-mushrooms]]
+ibogaine were first described in Western scientific literature [[allegro-plants-and-drugs-in-the-ancient-world]]
 1960s by Howard Lotsof, a heroin-dependent young man who observed that a
 single ibogaine experience eliminated his cravings and withdrawal symptoms.
 Lotsof subsequently dedicated his life to advocating for ibogaine research

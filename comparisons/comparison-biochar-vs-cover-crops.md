@@ -7,7 +7,7 @@ tags: [amendments, soil-science]
 sources: []
 ---
 ---
-title: "[[biochar]] vs [[cover-crops]]"
+title: "[[cover-crops]]"
 tags: [comparison, soil-amendments, soil-health, regenerative-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
@@ -28,16 +28,7 @@ soil function, but they serve different roles in a soil management
 strategy and can be powerfully combined.
 
 ## Biochar
-[[biochar]]
-Biochar is produced by heating biomass (wood, crop residues, nut shells)
-in a low-oxygen environment through a process called pyrolysis, which
-drives off volatile gases and leaves behind a porous, carbon-dense
-material that persists in soil for hundreds to thousands of years. The
-resulting material has an extraordinarily high surface area and cation
-exchange capacity (CEC), enabling it to retain nutrients that would
-otherwise leach from the soil and release them gradually to plant roots.
-Biochar also improves soil water retention, provides habitat for
-beneficial microorganisms (particularly [[mycorrhizal-fungi]]), and buffers
+[[mycorrhizal-fungi]]), and buffers
 soil pH.
 
 The production of biochar can be accomplished at various scales, from
@@ -46,22 +37,6 @@ industrial retort kilns and top-lit updraft gasifier (TLUD) stoves. A
 critical step that many beginners overlook is conditioning or "charging"
 raw biochar before adding it to soil. Fresh biochar has been compared to
 a dry sponge; if applied directly without pre-loading with nutrients and
-[[natural-farming-microbial-inoculants]], it can temporarily draw nutrients away from
-plants. The standard conditioning approach involves soaking biochar in
-compost tea, worm castings slurry, or a nutrient solution for two to
-four weeks before incorporation.
-
-Biochar's most significant advantage is its permanence. Unlike compost
-or organic matter that decomposes within months to years, biochar
-represents a stable, long-term carbon investment in soil. A single
-application can continue providing benefits for decades. However, this
-permanence also means that a poor application (wrong particle size,
-insufficient conditioning, excessive rate) cannot be easily corrected.
-Biochar is most effective in degraded, sandy, or highly weathered soils
-where its nutrient retention and water-holding properties provide the
-greatest improvement over baseline conditions.
-
-## Cover Crops
 [[cover-crops]]
 Cover crops, also called green manures, are plants grown primarily for
 the benefit of the soil rather than for harvest. They provide organic
@@ -73,9 +48,7 @@ soil structure through root penetration and exudation. Cover crops
 represent a living, dynamic approach to soil building that engages
 biological processes at every level.
 
-[[cover-crop-species-comparison]] are categorized into functional groups. Legumes such
-as crimson clover, hairy vetch, field peas, and cowpeas fix atmospheric
-nitrogen through [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia bacteria,
+[[fungi-in-the-environment-symbiotic-relationships]] with rhizobia bacteria,
 providing 50 to 200 pounds of nitrogen per acre when terminated and
 incorporated. Grasses and grains like winter rye, oats, and annual
 ryegrass produce massive root systems that break compaction, scavenge
@@ -147,4 +120,3 @@ while a summer buckwheat cover smothers weeds and mines phosphorus. This
 dynamic, responsive approach allows growers to tailor their
 soil-building strategy to current conditions in a way that a one-time
 biochar application cannot. For no-till farmers, cover crops provide the
-biomass needed for surface mulching and the root channels that

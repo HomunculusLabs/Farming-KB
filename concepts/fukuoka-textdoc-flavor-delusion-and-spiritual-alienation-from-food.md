@@ -137,12 +137,8 @@ they will not be able to eat delicious food.
 In efforts to make bread tastier, bread has ceased to taste
 ## See Also
 
-- [[fukuoka-textdoc-four-types-of-diet-classification]] for
-  the four dietary categories Fukuoka identifies
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
   for the specific analysis of the tasty rice movement
-- [[fukuoka-textdoc-decline-quality-food]] for the decline
-  in food quality from petroleum-based agriculture
 - [[fukuoka-textdoc-nature-of-food]] for the unity of
   matter and spirit in food
 - [[fukuoka-textdoc-matter-spirit-unity-food]] for the

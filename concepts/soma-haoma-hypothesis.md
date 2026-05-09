@@ -51,13 +51,7 @@ plant in the proto-Indo-Iranian period.
 The Iranian Haoma was a plant with stems, no leaves or blossoms, which grew on
 the mountains and was pressed for its juice. The identity of Haoma has been
 debated, with candidates including Ephedra, Peganum harmala (see
-[[syrian-rue-entheogen]]), and various other plants.
-
-## Wasson's Amanita muscaria Hypothesis
-
-In his 1968 work "Soma: Divine Mushroom of Immortality," R. Gordon Wasson
-proposed that Amanita muscaria was the original Soma/Haoma. Wasson, who had
-previously participated in the [[mazatec-mushroom-tradition]] in Mexico,
+[[mazatec-mushroom-tradition]] in Mexico,
 brought a unique combination of ethnobotanical field experience and classical
 scholarship to the question. His argument drew on multiple lines of evidence:
 
@@ -96,30 +90,8 @@ Several alternative candidates for Soma have been proposed:
 
 - **Ephedra spp.**: Contains ephedrine; known from Iranian Haoma traditions
 - **Peganum harmala**: Contains beta-carboline alkaloids (see
-  [[peganum-harmala]]); grows in the Iranian plateau
-- **Psilocybin mushrooms**: Effects are consistent with Vedic descriptions,
-  but geographic evidence is weak
-- **Cannabis**: Has a long history of use in India but was a relatively late
-  arrival
-
-Critics note that Amanita muscaria is not native to the plains of northwest
-India where the Vedic civilization flourished, though Wasson argued that the
-original Soma tradition originated in the mountains of Central Asia.
-
-## Cultural Significance
-
-The Soma-Haoma hypothesis remains one of the most debated questions in
-ethnobotany. Regardless of whether Amanita muscaria was the original Soma,
-the hypothesis has profoundly influenced the study of psychoactive plants in
-ancient religions and opened new perspectives on ancient religious texts.
-
-## Related Topics
-
-- [[amanita-muscaria-pharmacology]] - Chemistry and effects of the proposed
+  [[amanita-muscaria-pharmacology]] - Chemistry and effects of the proposed
   Soma
-- [[peganum-harmala]] - Alternative candidate for Haoma
 - [[syrian-rue-entheogen]] - Traditional use of Peganum harmala
-- [[eleusinian-mysteries]] - Another ancient entheogenic mystery tradition
 - [[teonanacatl-history]] - Sacred mushrooms of Mesoamerica
-- [[ergot-fungus]] - Another fungus with ancient religious significance
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]

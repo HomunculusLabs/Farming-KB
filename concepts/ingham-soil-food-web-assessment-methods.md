@@ -114,14 +114,9 @@ If root-feeding nematodes are detected, use non-host cover crops (species the ne
 
 - [[ingham-field-guide-soil-food-web-assessment]]
 
-- [[aact-compost-quality-standards-ingham]]
 - [[ingham-aact-testing-methods]]
-- [[ingham-microscope-identification-soil-biology]]
 - [[aact-compost-organism-levels]]
 - [[ingham-nutrient-cycling-soil-food-web]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- [[aact-compost-quality-standards-ingham]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[ingham-cover-crops-soil-biology]]
 - [[ingham-microscope-identification-soil-biology]]
 - [[ingham-anaerobic-organisms-role-soil]]

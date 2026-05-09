@@ -42,38 +42,7 @@ psychotic and delirious effects without the classic visual disturbances of true
 hallucinogens. The psilocybin-containing mushrooms belong firmly within the
 tryptamine (indolealkylamine) class.
 
-## [[psilocybin-and-psilocin-chemistry]]
-
-Psilocybin and psilocin, the primary active compounds in hallucinogenic mushrooms,
-are classified as indolealkylamines belonging to the same broad chemical group as
-LSD. They are structurally similar to serotonin (5-hydroxytryptamine or 5-HT), the
-major neurotransmitter found throughout the central nervous system and most
-concentrated in humans.
-
-Psilocybin is chemically named 4-phosphoryloxy-N,N-dimethyltryptamine (4-PO-DMT).
-It is the phosphate ester of psilocin, which is 4-hydroxy-N,N-dimethyltryptamine
-(4-HO-DMT). Psilocybin is more stable in air and is water-soluble, which accounts
-for its prevalence as the stored form in the mushroom fruiting body. This stability
-makes psilocybin the primary compound detected in forensic analysis of mushroom
-samples.
-
-When ingested, psilocybin is converted in the body through dephosphorylation into
-psilocin, which is the pharmacologically active compound. Psilocin acts on the
-serotonin system as a 5-HT2A post-synaptic agonist or partial agonist. This
-receptor binding is responsible for the characteristic perceptual, cognitive, and
-emotional effects of the mushroom experience.
-
-## Additional Tryptamine Compounds
-
-Beyond psilocybin and psilocin, two additional tryptamines may be present in
-hallucinogenic mushrooms: baeocystin and norbaeocystin. These are thought to be
-less active than psilocin and psilocybin, though their precise pharmacological
-contributions to the overall mushroom experience remain incompletely understood.
-The relative concentrations of these four compounds can vary significantly between
-species and even between individual specimens of the same species, contributing to
-the unpredictable potency that users frequently report.
-
-## Mycological Taxonomy of [[psilocybin-mushrooms]]
+## [[psilocybin-mushrooms]]
 
 There are more than 100 known hallucinogenic mushroom species. The complexity of
 their mycological classification, combined with their different chemical
@@ -103,7 +72,7 @@ characteristics.
 The genus Psilocybe dominates recreational use worldwide. The most commonly
 encountered species include:
 
-- **[[psilocybe-cubensis]]** (also known as [[stropharia-cubensis]]): The most frequently
+- **[[stropharia-cubensis]]): The most frequently
   marketed species, easy to cultivate in controlled environments, available in
   numerous named varieties including Mexican, Thai, Colombian, and Amazonian
   strains. Does not grow wild in Europe. It possesses a low water content that
@@ -144,6 +113,5 @@ Amanita relatives. Following the prohibition of psilocybin mushrooms in the UK i
 2005, some retailers began promoting Amanita muscaria as a legal alternative, a
 ## See Also
 
-- [[amanita-muscaria]]
 - [[baeocystin]]
 - [[dimethyltryptamine]]

@@ -114,14 +114,9 @@ resistance, and mechanical durability.
 
 ## See Also
 
-- [[mushroom-sterile-technique-detailed]]
-
-- thermodynamics laws
-- entropy and the second law
 - [[heat-exchanger-effectiveness-ntu]] design
 - fourier law of conduction
 - convection correlations
 - thermal radiation and emissivity
-- [[mushroom-cultivation-basics]]
 - [[biomass-compost-greenhouse-heating-systems]]
 - [[heat-transfer-coefficient]]

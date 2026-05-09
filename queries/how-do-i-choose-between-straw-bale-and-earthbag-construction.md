@@ -17,7 +17,6 @@ type: query
 ---
 # How Do I Choose Between Straw Bale and Earthbag Construction?
 ## Short Answer
-Choose [[straw-bale-construction]] when you need a highly insulated above-grade wall and can keep the building reliably dry.
 Choose [[earthbag-construction]] when you need thermal mass, strength, fire resistance, low material cost, or a structure that can use soil from the site.
 Both systems can work well, but they are not interchangeable.
 Straw bale is usually the warmer wall.
@@ -96,7 +95,9 @@ Use earthbag for massive, durable, fire-resistant, low-cost structures where hea
 Use both only when each material is placed where its strengths actually matter.
 When in doubt, build a small noncritical structure first and monitor how it handles rain, heat, cold, plaster, and maintenance.
 ## Related Pages
-- [[straw-bale-construction]]
 - [[earthbag-construction]]
-- [[straw-bale-construction-vs-earthbag-construction]]
 - [[natural-building]]
+
+## See Also
+
+- [[straw-bale-construction-vs-earthbag-construction]]

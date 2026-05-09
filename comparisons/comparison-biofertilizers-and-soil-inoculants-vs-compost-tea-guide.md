@@ -23,30 +23,6 @@ The choice between these approaches depends on the crop being grown, the existin
 
 Scale matters as well. Biofertilizers are manufactured products with consistent quality control, making them easier to use on larger operations. Compost tea production scales less predictably; while commercial brewers exist, maintaining consistency across large areas requires significant time and attention to detail during each brew cycle.
 
-## [[biofertilizers-and-soil-inoculants]]
-
-Biofertilizers and soil inoculants are preparations of living microorganisms selected for specific nutrient-cycling functions. The major categories include nitrogen fixers, phosphate solubilizers, and mycorrhizal fungi.
-
-**Nitrogen-fixing bacteria**
-
-Rhizobia form symbiotic nodules on legume roots, converting atmospheric N2 into plant-available ammonia. Different Rhizobium strains are specific to different legume species, so matching the correct strain to the crop is critical for effective nodulation and maximum nitrogen fixation.
-
-Frankia associates with actinorhizal plants like alder and casuarina, fixing nitrogen in woody perennial systems. Free-living Azotobacter and Azospirillum fix nitrogen in the rhizosphere of grasses and cereals, contributing smaller but still agronomically meaningful quantities that can reduce fertilizer requirements by 10 to 20 percent.
-
-**Phosphate-solubilizing organisms**
-
-Certain bacteria such as Pseudomonas and Bacillus, along with fungi like Aspergillus and Penicillium, release organic acids that solubilize bound phosphorus in soil. This is especially valuable in tropical soils where phosphorus is often locked in iron and aluminum compounds. Phosphate-solubilizing fungi tend to be more effective in acidic soils, while bacteria perform better in neutral to alkaline conditions.
-
-**Mycorrhizal fungi**
-
-Arbuscular mycorrhizal fungi (AMF) form symbiotic associations with most crop species, extending hyphal networks that dramatically increase phosphorus and micronutrient uptake. Ectomycorrhizal fungi partner with trees and woody perennials. Mycorrhizal networks can connect multiple plants, facilitating nutrient sharing across the root community.
-
-**Application methods**
-
-Products are applied as seed coatings, soil drenches, root dips at transplant, or granular formulations blended into potting mixes. Once established, many inoculants persist through the growing season and sometimes across multiple years, especially mycorrhizal networks.
-
-Product quality varies widely, and viability depends on proper storage, correct species selection, and suitable soil conditions. Farmers purchasing biofertilizers should look for products that list specific strains, provide viable colony-forming unit counts, and include application instructions matched to the target crop.
-
 ## [[compost-tea-guide]]
 
 Compost tea, specifically actively aerated compost tea (AACT), is a liquid extract created by steeping high-quality compost in water with supplemental food sources while forcing air through the mixture. The process was popularized and refined by Dr. Elaine Ingham of the Soil Foodweb Institute. The goal is to multiply the full spectrum of beneficial organisms found in mature compost.
@@ -112,14 +88,9 @@ Compost tea can serve as a carrier for biofertilizer strains, potentially improv
 Some innovative producers are experimenting with adding specific biofertilizer strains to compost tea during the brewing process, though this approach requires careful attention to compatibility and survival rates of the introduced organisms. Monitoring results through soil biology testing, plant tissue analysis, or simple visual assessment of crop health helps refine the timing and frequency of applications over successive seasons.
 
 ## See Also
-- [[comparison-comfrey-tea-vs-compost-tea]]
-
 - [[biofertilizers-and-soil-inoculants]]
-- [[compost-tea-guide]]
 - [[soil-microbiology-basics]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
 - [[legume-nitrogen-fixation-mechanism]]
-- [[comparison-crop-rotation-vs-cover-cropping]]
 - [[jeavons-fertilization-organic-soil-amendments]]
 - rhizosphere management
 - [[soil-food-web]]

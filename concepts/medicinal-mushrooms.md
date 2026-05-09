@@ -1,7 +1,7 @@
 ---
 title: Medicinal Mushrooms
 created: 2026-04-28
-tags: [mycology, pharmacology, immunology, natural-medicine]
+tags: [[mycology, pharmacology, immunology, natural-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
@@ -83,19 +83,8 @@ traditional Chinese medicine, where it is known as *lingzhi* (\"spirit
 mushroom\") and is prescribed for fatigue, insomnia, and liver disorders.
 Its bioactive ganoderic acids and immunomodulatory polysaccharides make it
 one of the most researched medicinal fungi. See
-[[stamets-reishi-ganoderma-lucidum-cultivation]] for cultivation details.
-
-Turkey tail (*Trametes versicolor*) is perhaps the most clinically studied
-medicinal mushroom. Its polysaccharide-K (PSK) extract has been used as an
-approved cancer adjunct therapy in Japan since the 1970s, prescribed
-alongside chemotherapy to boost immune function and improve survival rates
-in gastric and colorectal cancers. See [[turkey-tail-trametes-versicolor]]
-and [[turkey-tail-research-psk]] for detailed coverage.
-
-Chaga (*Inonotus obliquus*) is a sterile conk that grows primarily on birch
-trees in cold northern climates. Rich in melanin, betulinic acid, and
-antioxidant compounds, it has been used as a tea in Siberian and
-Scandinavian folk medicine. See [[inonotus-obliquus]] for further detail.
+[[turkey-tail-trametes-versicolor]]
+and [[inonotus-obliquus]] for further detail.
 
 Shiitake (*Lentinula edodes*) produces lentinan, a beta-glucan with
 immunostimulatory properties, and eritadenine, which may help lower
@@ -123,10 +112,6 @@ mycorrhizal activity.
 
 ## See Also
 
-- [[mycorestoration]] — using fungi to heal ecosystems
 - [[mushroom-life-cycle]] — the biological context for medicinal compounds
-- [[endophytic-fungi]] — fungi living inside plants producing similar
-  bioactive compounds
 - [[turkey-tail-trametes-versicolor]] — the most clinically studied species
-- [[inonotus-obliquus]] — chaga, the antioxidant-rich birch fungus
 - [[stamets-reishi-ganoderma-lucidum-cultivation]] — cultivating reishi

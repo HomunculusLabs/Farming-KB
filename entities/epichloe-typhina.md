@@ -137,7 +137,5 @@ endophyte-enhanced grasses in agriculture and turf management.
 ## See Also
 
 - [[claviceps-purpurea]]
-- [[fusarium-verticillioides]]
 - [[trichoderma-viride]]
-- [[penicillium-chrysogenum]]
 - [[botrytis-cinerea]]

@@ -132,18 +132,9 @@ The pathway a crop uses has major practical consequences for growers:
 **Temperature response**: C3 crops (tomato, lettuce, wheat) suffer declining
 ## See Also
 
-- [[c4-and-cam-photosynthesis]]
 - [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
-- [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
 - [[comparison-dwc-vs-ebb-and-flow]]
 
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
 
 ## See Also
-
-- [[c4-and-cam-photosynthesis]]
-- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
-- [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
-- [[comparison-dwc-vs-ebb-and-flow]]
-
-- [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]

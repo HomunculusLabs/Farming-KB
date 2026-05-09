@@ -126,18 +126,11 @@ Lactarius rufus is unique among ectomycorrhizal fungi in its exceptional value a
 
 ## See Also
 
-- [[mycorrhiza]]
-
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
-- [[lactarius-cultivation-attempts]]
-
 - [[laccaria-laccata]] - ectomycorrhizal species, second-best nematode food source and co-supporter of sustainable nematode communities
-- [[paxillus-involutus]] - ectomycorrhizal species that cannot sustain nematode communities and is least preferred by collembola
 - [[suillus-luteus]] - ectomycorrhizal species with moderate collembolan food preference (50.7%)
-- [[mycena-galopus]] - saprotrophic fungus, highly preferred by collembola (68.2%) as a contrast to Lactarius rufus
 - [[hebeloma-crustuliniforme]] - ectomycorrhizal species, least preferred by collembola among tested species
 - marasmius androsaceus - most preferred collembolan food source at 72.2% consumption
-- [[amanita-muscaria-cultural-history]] - ectomycorrhizal species with low pure-culture nematode support
 - [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus with moderate nematode support in pure culture
 - pinus contorta - lodgepole pine host species in peatland nitrogen enrichment studies
 - [[lactarius-torminosus]]

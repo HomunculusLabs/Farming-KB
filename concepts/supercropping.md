@@ -38,15 +38,7 @@ Cervantes notes that some supercroppers go further, "breaking branches a few inc
 
 ### Combined with FIM Pruning
 
-Supercropping can incorporate FIM pruning (see [[fimming]]), which involves cutting away most but not all of a growing tip. The combination of tissue damage from crushing and the hormonal shift from partial tip removal creates dramatic branching responses.
-
-### Leaf Removal
-
-Some supercroppers practice removing healthy leaves so that "budding sites get more light." Cervantes cautions against this approach, noting that removing large fan leaves "hacks up a healthy plant" and "slows chlorophyll production, stresses the plant, and stunts its growth." He advises removing only dead leaves or those more than 50 percent damaged.
-
-## When to Supercrop
-
-- Perform during the [[cannabis-vegetative-stage]], typically weeks 3-6
+Supercropping can incorporate FIM pruning (see [[cannabis-vegetative-stage]], typically weeks 3-6
 - Plants should be healthy and actively growing before any high-stress training
 - Avoid supercropping during flowering -- the recovery time steals energy from bud production
 - Best done on well-established plants with multiple branches to work with
@@ -94,47 +86,8 @@ Severe stress from excessive supercropping can alter hormonal concentrations, ca
 - Crush stems gently -- do not break them completely
 - Limit supercropping to 1-2 branches per session per plant
 - Allow at least a week between sessions for recovery
-- Combine with [[low-stress-training]] for less stressful canopy management
-- Monitor damaged areas for signs of infection or rot
-- Support bent branches with ties if they do not stay in position
-
-## Supercropping and Stress Response
-
-Cervantes devotes significant attention to the relationship between stress and plant health. Understanding this relationship is critical for successful supercropping:
-
-- "Mutilating plants by breaking the trunk, driving a stake through the trunk, torturing or slapping them around might increase resin production, but most often the stress retards growth and causes other problems"
-- "Withholding water may also cause more resin production, but it impairs growth and diminishes leaf, stem, and flower production"
-- "Stressed plants with wounded stems and vegetation grow slower and invite pests and diseases"
-
-These warnings suggest that while supercropping can be effective, it should be practiced with restraint. The goal is controlled, minimal stress that triggers beneficial responses, not excessive damage that overwhelms the plant's recovery capacity.
-
-## Supercropping in Outdoor Grows
-
-Outdoor growers also use supercropping techniques. The principles are the same -- crushing or bending stems to control height, increase branching, and promote lateral growth. In outdoor environments, supercropping can:
-
-- Reduce plant height for better wind resistance
-- Create a wider canopy that captures more sunlight
-- Disguise plants by bending them away from view
-- Increase total yield by promoting lateral bud development
-
-## When Supercropping Goes Wrong
-
-Signs of excessive supercropping stress include:
-- Wilting or drooping at the damage site that does not recover within 24-48 hours
-- Discoloration (brown or black) spreading from the crush point
-- Complete branch death above the damage point
-- Overall growth stall lasting more than a week
-- Hermaphroditic flower development in stressed branches
-
-If a branch is damaged beyond recovery, cut it off cleanly below the damage point to prevent rot from spreading. The plant will redirect energy to remaining healthy branches.
-
-## See Also
-
-- [[low-stress-training]] -- gentler alternative using bending without tissue damage
-- [[fimming]] -- partial tip removal often combined with supercropping
+- Combine with [[low-stress-training]] -- gentler alternative using bending without tissue damage
 - [[topping-cannabis]] -- complete tip removal for branching
-- [[training-cannabis]] -- overview of all training methods
 - [[cannabis-pruning-and-defoliation-guide]] -- pruning techniques and timing
-- [[cannabis-vegetative-stage]] -- growth stage for supercropping
 - [[main-lining]] -- structured approach combining topping and training
 - [[cannabis-plant-stress-types-and-recovery]]

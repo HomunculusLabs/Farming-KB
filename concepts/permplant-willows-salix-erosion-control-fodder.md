@@ -20,10 +20,7 @@ Willows (Salix spp) are a genus of over 300 species with the widest
 natural geographical distribution of any tree genus, spanning the entire
 northern hemisphere plus South America and South Africa. Belonging to the
 family Salicaceae, willows are among the most versatile plants in
-[[pdc-water-systems-design-and-management]], providing erosion control, livestock fodder,
-bee forage, craft materials, and medicinal resources.
-
-## [[water-management]] and Erosion Control
+[[water-management]] and Erosion Control
 
 Willows generally use large amounts of water and will grow in waterlogged
 soil. Their root systems have been known to reach out as far as 50
@@ -56,52 +53,10 @@ grass to grow beneath, providing dual production.
 
 ## Fodder System Design
 
-Willows can be integrated into [[forage-and-fodder-trees-permaculture-systems]] in
-several ways:
-
-- Cut and carry to stock
-- Established as lock-up self-forage systems
-- Weeping types allow stock to trim what grows within their reach
-
-Hybrid willows bred in New Zealand (crosses of Chinese, European, and
-South American species) can grow to 3.6 metres in the first season
-after planting, given reasonable conditions.
-
-## Bee Forage
-
-Willows are extremely good [[bee-forage-plants]],
+Willows can be integrated into [[bee-forage-plants]],
 providing both nectar and pollen at a time when few other plants are
 flowering. This early-season resource is critical for building hive
-strength in spring and supports the [[permaculture-bee-forage-system]] in temperate climates.
-
-## Medicinal Uses
-
-American Indians were able to lower fevers by drinking an infusion of
-willow tree bark. The bark has also been used traditionally as a cure
-for rheumatic complaints. One of the active ingredients is salicin,
-which relieves pain and stiffness in the joints. Acetyl-salicylic acid,
-better known as aspirin, is a derivative of willow bark compounds.
-
-## Rooting Hormone Properties
-
-Willows strike readily from cuttings taken at any size. So strong is
-the rooting hormone that willow water surpasses commercial rooting
-powders for encouraging cuttings from other plants to establish roots.
-Willow cuttings placed in a bucket of water develop roots after about a
-week. Any cuttings from other plants allowed to soak in this water
-overnight will have greatly increased chances of developing roots.
-
-## Propagation
-
-Young willows should be planted so their roots are above the winter
-groundwater table. The best sites are summer-moist areas or sites not
-far from the water table. Willows may need summer irrigation until root
-systems reach ground water. Trees can be planted reasonably close (2 m)
-if they are to be kept cut, or up to 5 m apart for full-sized trees.
-
-## Key Species
-
-### White Willow ([[salix-alba]])
+strength in spring and supports the [[salix-alba]])
 Can obtain 30 metres in height and grows on all soil types including
 compacted, swampy, acid, or alkaline, provided roots have sufficient
 moisture. Traditionally pollarded for firewood at regular intervals in
@@ -138,12 +93,4 @@ for top-quality cricket bats, a unique specialised industry.
 
 ## Design Integration
 
-In [[mollison-town-permaculture-urban-food-systems]], willows are placed at
-the lowest points of the landscape where water accumulates. They serve
-as living water pumps, stabilise banks, filter runoff, and provide
-multiple yields. Their coppicing ability ensures sustainable production
-of poles, fodder, and craft materials year after year.
-
-## See Also
-
-- [[soil-erosion-control]]
+In [[soil-erosion-control]]

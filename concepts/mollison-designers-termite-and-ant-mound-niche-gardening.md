@@ -63,71 +63,14 @@ tall grasses (Pennisetum, Eragrostis) are followed by shrubs such
 as castor oil bean, Prosopis, and thorny legumes. Finally, an
 understory and forest may develop from larger trees such as
 tamarind, Vitex, Sapium, or dominant palms. This process connects
-directly to [[mollison-pioneer-species-and-accelerated-succession]].
-
-## Deliberate Niche Gardening on Mounds
-
-Designers can start or accelerate the succession process by
-seeding into termite or ant mounds using the same species observed
-in natural succession. Even low ant-heaps may present a site for
-ground cover pioneers in grasslands. Harris records crops such as
-sisal, cotton, and tobacco deliberately cultivated on large mounds
-in grasslands. Palms and coffee can have much of their outer bark
-removed by termites without suffering loss of production.
-
-Mollison reports successfully germinating daikon radish in ant
-heaps in grasslands as part of a changeover to crop production.
-Planting in ant or termite mounds is a particular example of
-niche gardening widely applicable to the tropics.
-
-## Soil Properties of Mound Sites
-
-Ant and termite mounds present several advantages for crop
-production:
-
-- Rich deposit of calcium and potash, essential plant
-  nutrients often limiting in tropical soils
-- Better aeration of soil compared to surrounding compacted
-  or waterlogged ground
-- Faster infiltration of water, releasing minerals from rocks
-  such as granites that noticeably rot or erode faster when
-  buried in a free-infiltration soil environment
-- Elevated position above flood-prone or waterlogged
-  surroundings
-- Protection from fire and waterlogging
-
-## Termite-Mulch Interactions
-
-Termites may greatly assist the primary breakdown of logs, coarse
-stems, and hard leaf material used as mulch in plantations of
-coffee, tea, or bananas. In this role they function as
-decomposers, converting resistant plant material into available
-nutrients and humus. The rapid breakdown of wood under the combined
-influence of rain, heat, termites, and fungi means that designers
-can lever whole logs together or inline cross-slope to act as
-planting sites. This technique is most useful on bare clay soils,
-eroded areas, and isolated atolls (using the trunks of old palm
-trees).
-
-## Silica-Rich Mulch Connections
-
-Several plant species provide silica-rich mulch that benefits
-tropical soils: most palms, bamboo thickets, Casuarina, and many
-Acacia species, as well as grain and nut husks and residues from
-copra operations. This mulch releases silica for growth and has
-the secondary effect, in alkaline island soils, of reducing pH
-(from 8.5 to 6.5 in Mollison's trials on coral islands). The
-fronds and spathes of palms and the stems and spathes of bamboo
-are particularly valuable. See [[mollison-tropical-mulch-systems-and-materials]] for more detail.
+directly to [[mollison-tropical-mulch-systems-and-materials]] for more detail.
 
 ## Design Integration
 
 Termite and ant mound gardening connects to several broader
 permaculture strategies:
 
-- [[mollison-tropical-soils-and-granitic-sands]] management
 - [[mollison-designers-tropical-terrace-design-and-earth-shaping]]
-- [[mollison-succession-planting]] and accelerated succession
 - [[mollison-mulching-and-soil-health]]
 
 The key insight is that termites and ants are allies, not enemies,

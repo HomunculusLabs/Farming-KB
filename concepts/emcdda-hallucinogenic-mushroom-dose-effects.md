@@ -38,23 +38,7 @@ system as a 5-HT2A post-synaptic agonist or partial agonist.
 
 Beside psilocybin and psilocin, two further tryptamines, baeocystin and
 norbaeocystin, could also be present but are thought to be less active. The
-most commonly used species are [[psilocybe-cubensis]] (also known as Stropharia
-cubensis), [[psilocybe-semilanceata]] (liberty caps), and [[psilocybe-cyanescens]]
-(wavy caps). The most frequently marketed are the cubensis varieties
-(Mexican, Thai, Colombian, Amazonian, etc.).
-
-## Potency and Dose
-
-Mushroom effects are dependent on dose and the individual reaction and
-sensitivity to psilocybin, previous experiences, and the setting. The major
-effects are related to the central nervous system but there are also some
-sympathomimetic effects. The subjective effects vary greatly between
-individuals and from one episode of use to the next within the same person.
-
-Mushroom potency depends on the species or variety used, their origin, growing
-conditions, and age. The most potent species (e.g. Psilocybe semilanceata)
-could contain up to 1% psilocybin, with some higher potency reported in
-specific species (e.g. Psilocybe azurenscens, [[psilocybe-bohemica]]). In other
+most commonly used species are [[psilocybe-semilanceata]] (liberty caps), and [[psilocybe-bohemica]]). In other
 species (Psilocybe cubensis), psilocybin and psilocin could be present in up
 to 0.6% concentration. These values, however, are used for initial orientation
 only.
@@ -142,9 +126,6 @@ have ever used is lower for hallucinogenic mushrooms than for cannabis and
 ecstasy. The Dutch risk assessment report notes that hallucinogenic mushrooms
 tend to be taken as an experimental drug and people generally discontinue use
 after a few times.
-
 ## See Also
-
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]

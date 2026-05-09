@@ -138,13 +138,9 @@ The primary identification risk involves confusion with other
 The key diagnostic features of *A. velosa* are: spring
 fruiting, apricot-buff cap color, saccate volva buried in
 soil, and association with California oaks.
-
 ## See Also
 
-- [[amanita-muscaria]]
 - [[amanita-phalloides]]
-- [[amanita-pantherina]]
 - [[amanita-caesarea]]
-- [[amanita-jacksonii]]
 - [[amanita-regalis-entity]]
 - [[boletus-edulis-entity]]

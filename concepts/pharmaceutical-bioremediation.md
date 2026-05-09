@@ -15,7 +15,7 @@ Pharmaceuticals enter the environment through patient excretion, improper dispos
 
 These compounds are biologically active at very low concentrations and can disrupt endocrine function, promote antibiotic resistance, and affect aquatic ecosystem health even at nanogram to microgram per liter levels.
 
-This page provides an overview of pharmaceutical bioremediation, complementing the fungal-specific discussions in [[fungal-cytochrome-p450-biodegradation]] and [[fungal-treatment-pharmaceutical-wastewater]].
+This page provides an overview of pharmaceutical bioremediation, complementing the fungal-specific discussions in [[fungal-treatment-pharmaceutical-wastewater]].
 
 ## Classes of Pharmaceutical Contaminants
 
@@ -71,40 +71,28 @@ Estradiol and ethinyl estradiol are converted to estrone, which is further degra
 
 White-rot fungi are particularly effective for pharmaceutical degradation because their ligninolytic enzyme system can oxidize a wide range of structurally diverse pharmaceutical compounds.
 
-[[fungal-cytochrome-p450-biodegradation]] provides detailed coverage of fungal pathways for pharmaceutical transformation.
-
-Laccase can oxidize phenolic pharmaceuticals including estrogens, nonylphenol, and certain NSAIDs through radical-mediated mechanisms.
-
-Manganese peroxidase degrades non-phenolic pharmaceuticals through Mn(III)-mediated oxidation and lipid peroxidation pathways.
-
-Fungal cytochrome P450 enzymes, as described in [[fungal-cytochrome-p450-biodegradation]], contribute to pharmaceutical degradation through hydroxylation and other oxidative transformations.
+[[fungal-cytochrome-p450-biodegradation]], contribute to pharmaceutical degradation through hydroxylation and other oxidative transformations.
 
 Trametes versicolor has demonstrated particularly broad pharmaceutical degradation capacity, removing multiple drug classes simultaneously from wastewater.
 
 Pleurotus ostreatus and Bjerkandera adusta have also shown effective pharmaceutical degradation in laboratory studies.
 
-[[cotter-mycoremediation-overview]] and [[staycare-trametes-versicolor-bioremediation-applications]] describe the broader remediation capabilities of these species.
+[[staycare-trametes-versicolor-bioremediation-applications]] describe the broader remediation capabilities of these species.
 
-The cometabolic nature of fungal pharmaceutical degradation means that the transformation products must be identified and assessed for toxicity, as described in [[cometabolic-degradation]].
-
-[[fungal-enzyme-systems-xenobiotic-degradation]] covers the enzyme systems involved in fungal transformation of xenobiotic pharmaceutical compounds.
+The cometabolic nature of fungal pharmaceutical degradation means that the transformation products must be identified and assessed for toxicity, as described in [[fungal-enzyme-systems-xenobiotic-degradation]] covers the enzyme systems involved in fungal transformation of xenobiotic pharmaceutical compounds.
 
 ## Treatment Systems and Applications
 
 Fungal bioreactors using white-rot fungi in fluidized-bed, packed-bed, or stirred-tank configurations have demonstrated effective pharmaceutical removal from synthetic and real wastewaters.
 
-[[fungal-bioreactor-effluent-treatment]] and [[fungal-bioreactor-types-for-pollutant-removal]] describe reactor designs for pharmaceutical wastewater treatment.
+[[fungal-bioreactor-types-for-pollutant-removal]] describe reactor designs for pharmaceutical wastewater treatment.
 
 Immobilized fungal systems provide operational advantages including easy biomass separation, reuse over multiple treatment cycles, and protection of fungal biomass from shear stress.
-
-[[fungal-immobilization-bioreactor-systems]] details immobilization approaches for continuous pharmaceutical removal.
-
-Constructed wetlands with fungal augmentation offer low-cost, low-energy treatment for pharmaceutical-contaminated water in regions with limited infrastructure.
 
 [[constructed-wetlands-wastewater-treatment]] describes the application of constructed wetland systems for pharmaceutical removal.
 
 Soil aquifer treatment, where treated wastewater is applied to infiltration basins and allowed to percolate through the vadose zone, provides additional biological degradation of residual pharmaceuticals before groundwater recharge.
 
-[[bioremediation-monitoring-and-assessment]] for pharmaceutical contaminants requires highly sensitive analytical methods (LC-MS/MS) capable of detecting compounds at nanogram per liter concentrations.
+[[mycoremediation]] for pharmaceutical contaminants requires highly sensitive analytical methods (LC-MS/MS) capable of detecting compounds at nanogram per liter concentrations.
 
 Integration of chemical analysis with bioassays and resistance gene quantification provides comprehensive assessment of pharmaceutical removal and ecological risk reduction.

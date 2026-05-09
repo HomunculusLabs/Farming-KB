@@ -68,22 +68,12 @@ The selection of PCB remediation technology depends on multiple factors includin
 
 ## See Also
 
-[[mycoremediation-pcbs-and-dioxins]]
-
 [[mycoremediation-pah-and-pcb-degradation]]
 
-[[ectomycorrhizal-remediation]]
-
-[[bioremediation-using-fungi]]
-
-[[bioaugmentation-strategies]]
+[[fungal-bioremediation-mechanisms]]
 
 [[bioavailability-in-fungal-bioremediation]]
 
-[[bioremediation-fungal-vs-bacterial]]
-
 [[combined-biological-remediation-approaches]]
-
-[[rhizofiltration]]
 
 [[biostimulation-techniques]]

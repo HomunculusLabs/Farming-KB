@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Report Methodology
+title: Mollison Pdc Design Report Methodology
 created: 2026-04-28
 tags:
   - permaculture
@@ -18,48 +18,10 @@ type: concept
 
 ## The Design Process
 
-The PDC establishes a six-step methodology for [[permaculture-design]] work:
-
-1. **Collect all data:** Client requirements, maps, local regulations
+The PDC establishes a six-step methodology for [[maps]], local regulations
 2. **Analyze the client's problems:** Identify constraints and
    opportunities
-3. **Recognize applicable [[permaculture-principles]]:** Match principles
-   to the specific situation
-4. **Apply principles to problems:** Design specific interventions
-5. **Design solutions as edges and patterns:** Create functional
-   relationships between elements
-6. **Verify the solution meets all client needs:** Before writing the
-   report
-
-## Client Interview and Assessment
-
-The first task is understanding the client thoroughly:
-
-- Learn their skills, experience, material resources, and capital
-- Determine the lifestyle they envision: partial self-reliance, food
-  production only, or full economic independence
-- Find out what specific elements they want: "cows, pigs, turkeys,
-  chickens, and orchards"
-- Assess whether they have capacity for on-site income generation
-- A potter, for example, earns income from skill unrelated to the land
-
-Mollison emphasizes: "People are merely a temporary event on the site.
-Our real, underlying interest is the site itself." The designer makes a
-marriage between client and site through the design.
-
-## Site Resource Assessment
-
-The designer must identify resources the client has not recognized:
-
-### Earth Resources
-- Clay deposits for pottery or ceramics
-- Peat reserves (marketable product)
-- Gravel, stone, and mineral resources
-- Gold mines, quarries, or other geological assets
-
-### Biological and Energy Resources
-- Existing valuable plants (fennel producing licorice fraction worth
-  thousands per gallon through [[cannabis-advanced-refinement-fractional-distillation]])
+3. **Recognize applicable [[cannabis-advanced-refinement-fractional-distillation]])
 - Salable seed, medicinal herbs and mushrooms, insect resources
 - Hydroelectric potential, wind sites, usable wood, solar exposure
 
@@ -146,5 +108,4 @@ Mollison catalogs ten critical design errors:
 
 "Make it clear that you do not guarantee anything in this report since
 many conditions can change." Assure the client you will answer further
-questions at no extra charge and will visit occasionally to check
 ## See Also

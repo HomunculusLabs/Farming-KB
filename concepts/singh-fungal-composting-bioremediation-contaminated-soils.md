@@ -13,7 +13,7 @@ type: concept
 
 Composting is one of the most promising reactor systems for hazardous soil
 treatment, employing thermophilic microbial activity to degrade organic
-pollutants. In the context of [[fungal-bioremediation]], [[composting-systems]]
+pollutants. In the context of [[composting-systems]]
 provide favorable conditions for both indigenous and introduced fungi to
 degrade a wide range of contaminants including PAHs, chlorophenols,
 pesticides, and explosives. Singh's review documents multiple composting
@@ -79,17 +79,7 @@ Spent mushroom compost serves as both a fungal inoculum source and a
 bulking agent for contaminated soil remediation. Fish oil is added to
 spent mushroom compost and then mixed with creosote-contaminated soil,
 achieving significant PAH degradation. During treatment of aged
-creosote-contaminated soil, [[pleurotus-ostreatus]] degraded 86% of total
-PAHs and 89% of three-ring PAHs over 7 weeks when fish oil and spent
-mushroom compost were used as substrate amendments. Four-ring PAHs
-showed 87% degradation, while five-ring PAHs were more recalcitrant at
-48% degradation. Spent mushroom culture can be advantageous for the
-fungal inoculum because it already contains active fungal biomass and
-enzymes from the mushroom cultivation process.
-
-## Fungal Enzyme Activity in Compost
-
-The compost extract of [[agaricus-bisporus]] has been evaluated as a source
+creosote-contaminated soil, [[agaricus-bisporus]] has been evaluated as a source
 of crude laccase for enzymatic oxidation of phenolic compounds. The
 relative activity of the compost extract showed effective phenol
 degradation at 100% removal efficiency. Ligninolytic enzymes showed
@@ -129,7 +119,6 @@ strains and when bulking agents are optimized for the target pollutants.
 
 ## See Also
 
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[singh-fungal-bioaugmentation-contaminated-soils]]
 - singh fungal degradation pahs
 - [[composting-science-solomon]]

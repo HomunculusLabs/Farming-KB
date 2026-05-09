@@ -95,12 +95,7 @@ If farmers can understand farming through understanding themselves, then farming
 
 ## See Also
 
-- [[jadam-good-and-bad-are-one]]
-
 - [[jadam-do-as-nature-does-philosophy]] -- the first principle
-- [[jadam-dualism-critique-agriculture]] -- the third principle (good and bad are one)
 - [[jadam-nutritional-balance-philosophy]] -- applying the body analogy to fertilizer
-- [[jadam-healthy-living-guidelines]] -- JADAM's health recommendations for farmers
 - [[jadam-soil-foundation-work]] -- improving "circulation" in soil
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[jadam-rice-bran-skin-fertilizer-problems]]

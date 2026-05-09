@@ -76,75 +76,9 @@ is 80.0%, affording compound 6 as an ivory white crystalline powder.
 
 ## Spectroscopic Characterization
 
-### 1H nmr characterization [[tihkal-psilocin-psilocybin-chemistry]] intermediates (CDCl3, 400 MHz)
-
-The 1H NMR spectrum of compound 6 displays the following diagnostic
-signals:
-
-- H-1 (indole NH): 10.40 ppm (1H, broad singlet) -- the characteristic
-  indole proton, shifted downfield by hydrogen bonding
-- H-2: 7.52 ppm (1H, d, J = 3.2 Hz) -- the C-2 proton of the indole
-  ring, showing typical meta coupling to H-1
-- H-6: 7.15 ppm (1H, t, J = 8.0 Hz) -- aromatic proton
-- H-7: 7.06 ppm (1H, d, J = 8.0 Hz) -- aromatic proton
-- H-5: 6.91 ppm (1H, d, J = 8.0 Hz) -- aromatic proton
-- N(CH3)2: 3.02 ppm (3H, s) and 2.92 ppm (3H, s) -- two inequivalent
-  methyl singlets, indicating restricted rotation about the amide
-  C-N bond
-- OCOCH3: 2.50 ppm (3H, s) -- acetyl protecting group methyl
-
-### 13C NMR (CDCl3, 100 MHz)
-
-Key carbon resonances include:
-
-- C-1' (ketone carbonyl): 185.4 ppm
-- OCOCH3 carbonyl: 170.9 ppm
-- C-2' (amide carbonyl): 168.4 ppm
-- C-4: 144.2 ppm
-- C-7a: 139.2 ppm
-- C-2: 138.2 ppm
-- N(CH3)2: 37.4 and 34.2 ppm (two inequivalent methyls)
-- OCOCH3: 21.6 ppm
-
-The presence of two distinct carbonyl resonances (185.4 and 168.4 ppm)
-confirms the glyoxalylamide structure. The two inequivalent dimethyl
-carbon resonances (37.4 and 34.2 ppm) indicate restricted rotation
-about the amide C-N bond.
-
-## Role as a Reductive Precursor to Psilocin
-
-Compound 6 is the direct precursor to psilocin via lithium aluminum
-hydride reduction. LiAlH4 simultaneously reduces three [[fungal-functional-groups]]:
+### 1H nmr characterization [[fungal-functional-groups]]:
 
 1. The ketone carbonyl (C-1', 185.4 ppm) is reduced to a methylene,
    forming the alpha-position of the ethylamine side chain.
 2. The amide carbonyl (C-2', 168.4 ppm) is reduced to the tertiary
-   amine N(CH3)2, completing the [[dimethyltryptamine]] moiety.
-3. The 4-O-acetyl group (170.9 ppm) is cleaved, restoring the free
-   phenolic hydroxyl at C-4.
-
-This triple reduction is remarkably efficient and avoids the complexity
-of performing these reductions in separate steps.
-
-## Advantages of the Glyoxalylamide Strategy
-
-The use of a glyoxalylamide intermediate offers several advantages:
-
-- **Convergence**: The entire side chain is installed in two steps
-  rather than through stepwise construction.
-- **Crystallinity**: Both the oxalyl chloride intermediate (5) and the
-  glyoxalylamide (6) are crystalline solids isolated by filtration.
-- **Yield**: The two-step conversion from 4-acetylindole exceeds 80%.
-- **Flexibility**: The dimethylamine nucleophile can be replaced with
-  other amines to access different tryptamine derivatives.
-
-## Comparison with Other Indole-3-Acylation Methods
-
-Other approaches to introducing substituents at the indole 3-position
-include Vilsmeier-Haack formylation and the Mannich reaction with
-formaldehyde and dimethylamine (to give gramine). The glyoxalylamide
-approach is advantageous because the glyoxalyl group provides a
-two-carbon extension with a built-in amine, exactly what is needed for
-the tryptamine side chain after reduction.
-
-## See Also
+   amine N(CH3)2, completing the [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]

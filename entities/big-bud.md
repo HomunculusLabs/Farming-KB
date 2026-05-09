@@ -96,30 +96,16 @@ Difficulty is rated as moderate. The strain is resilient and forgiving of minor 
 
 ## See Also
 
-- [[critical-mass]]
-- Skunk
 - [[white-widow-entity]]
-- [[northern-lights]]
 - [[afghan-kush]]
-- [[master-kush]]
 - [[cannabis-blue-dream]]
-- [[og-kush]]
 - [[jack-herer]]
 - THC
 - CBD
 - cannabinoid
-- [[myrcene]]
 - [[beta-caryophyllene]]
-- [[limonene]]
-- cannabis
-- indica
-- sativa
-- soil
 - [[cannabis-living-soil-guide]]
 - flowering
-- [[hashish-production-methods]]
-- ruderalis
 - [[girl-scout-cookies]]
-- [[wedding-cake-cannabis]]
 - [[gelato-cannabis]]
 - [[runtz-entity]]

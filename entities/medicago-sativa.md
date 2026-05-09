@@ -109,14 +109,9 @@ Autumn dormancy rating is a key cultivar selection criterion, with dormancy rati
 
 ## See Also
 
-- [[trifolium-pratense]]
 - [[trifolium-repens]]
-- [[vicia-villosa]]
 - [[lotus-corniculatus]]
-- [[melilotus-officinalis]]
 - [[comfrey-symphytum-officinale]]
-- [[glycyrrhiza-glabra]]
 - [[azadirachta-indica]]
-- [[moringa-oleifera]]
 - [[glycine-max-soybean-permaculture]]
 - [[arachis-pintoi-entity]]

@@ -85,9 +85,6 @@ All of these patterns are "patterns of expansion, contraction, and even distribu
 
 - gaias garden herb spiral and natural patterns — spiral, branch, and net patterns
 - gaias garden edge effect — edge effect in garden design
-- [[faires-swales-and-water-conservation]] — swales for water conservation
 - [[mollison-pdc-dam-construction-water-systems]] — dam and water systems
-- [[mollison-pdc-keypoint-keyline-humid]] — keyline water management
 - [[mollison-keyline-soil-conditioning-humid-water]]
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[gaias-garden-cover-crops-soil-building]]

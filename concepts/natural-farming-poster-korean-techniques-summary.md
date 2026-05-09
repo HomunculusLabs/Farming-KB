@@ -7,37 +7,13 @@ tags: [farming, cultivation, organic, knf]
 sources:
   - "Natural Farming Poster - Modern Natural Farming Tech (MNFT) for Cannabis"
 ---
-# [[korean-natural-farming]] Techniques for Cannabis
-
-Modern Natural Farming Technology (MNFT) applies the principles of Korean Natural Farming (KNF), developed by [[cho-seawater-and-fermented-seawater]] Han-Kyu, to cannabis cultivation. The system uses biodiverse plant and fruit extracts — Fermented Plant Juice (FPJ), Fermented Fruit Juice (FFJ), Oriental Herbal Nutrient (OHN), Fish Amino Acids (FAA), and others — to feed plants through their entire lifecycle without synthetic fertilisers. This approach promotes organic, sustainable gardens using materials that are freely forageable.
+# [[cho-seawater-and-fermented-seawater]] Han-Kyu, to cannabis cultivation. The system uses biodiverse plant and fruit extracts — Fermented Plant Juice (FPJ), Fermented Fruit Juice (FFJ), Oriental Herbal Nutrient (OHN), Fish Amino Acids (FAA), and others — to feed plants through their entire lifecycle without synthetic fertilisers. This approach promotes organic, sustainable gardens using materials that are freely forageable.
 
 ## Core Philosophy
 
 - Grow plants in organic, living soil with a thriving microbial community
 - Create a complete organic feeding schedule covering the entire cannabis life cycle
-- Use biodiverse species of plants and fruits ([[dynamic-accumulators]]) to make extracts consumable to both humans and plants
-- Demonstrate that quality medicine is achievable using only organic inputs
-- Promote a green movement with minimal known plant matter waste
-
-## KNF Input Definitions
-
-### Fermented Plant Juice (FPJ)
-- **Purpose**: Enzyme-rich extract containing microorganisms, plant sap, and chlorophylls — essentially feeding plants with plants
-- **Primary plants used**: Dynamic accumulators — Comfrey, Thistle, Nettle, Horsetail, Dandelion
-- **Supplementary plants**: Vegetables and fruits from the garden — carrot, kale, avocado, clover, tomato, squash
-- **Key principle**: Use strong, healthy, beneficial plant materials. Forage widely
-
-### Fermented Fruit Juice (FFJ)
-- **Purpose**: Potassium-rich bloom feed used during transition and flower cycle
-- **Strategy**: Start with under-ripe fruits, transition through ripeness stages, end with potassium-rich over-ripe fruits
-- **Under-ripe fruits**: Tomato, green plantains, apples
-- **Ripe fruits**: Bananas, plums, peaches, nectarines, mangos, papaya, melons
-- **Avoid**: Citrus and highly acidic fruits
-- **Key principle**: Mix fruits and transition through feed to introduce fruit ripeness and flavours through the flower cycle
-
-### Oriental Herbal Nutrient (OHN)
-- **Purpose**: Medicinal roots and herbs that increase plant health, build immunity, vitalise crops, and activate growth
-- **Secondary benefit**: Functions as an IPM ([[integrated-pest-management]]) tool by keeping plants healthy and resistant
+- Use biodiverse species of plants and fruits ([[integrated-pest-management]]) tool by keeping plants healthy and resistant
 - **Aging**: Improves with age, described as "aging like fine whiskey"
 
 ### Fish Amino Acids (FAA)

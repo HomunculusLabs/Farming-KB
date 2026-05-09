@@ -80,8 +80,7 @@ connects it to fields from climate science to drug discovery.
 
 ## See Also
 
-- [[fungal-kingdom-diversity]]
-
 - [[contamination-prevention-mycology]]
-- [[bloomfields-orchard-history-of-mycology]]
 - [[mycology-modern-era]]
+
+See also: [[fungal-identification-and-biodiversity-assessment]]

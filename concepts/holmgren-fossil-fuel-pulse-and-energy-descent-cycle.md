@@ -3,7 +3,7 @@ title: Fossil Fuel Pulse and Energy Descent Cycle
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, energy, history]
+tags: [[permaculture, energy, history]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 # Fossil Fuel Pulse and Energy Descent Cycle
@@ -79,14 +79,10 @@ The reorganisation phase is the most uncertain and dangerous. It is characterise
 
 ## Related
 
-- [[holmgren-nuclear-and-fossil-fuel-techno-optimism]] Concepts
-
-- holmgren fossil fuel pulse and energy descent cycle
 - [[holmgren-trophic-pyramid-energy-hierarchy]]
 - holmgren fossil fuel pulse and energy descent cycle
 - holmgren fossil fuel pulse and energy descent cycle
 - holmgren fossil fuel pulse and energy descent cycle
-- [[permaculture-principles]]
 - [[low-energy-futures-in-permaculture]]
 - [[consumer-versus-conserver-society]]
 ## Merged: Post-September 11 Analysis

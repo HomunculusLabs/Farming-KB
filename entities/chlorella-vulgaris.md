@@ -104,17 +104,15 @@ The genus *Chlorella* has undergone significant taxonomic revision using molecul
 
 ## See Also
 
-- [[arthrospira-platensis]]
 - [[saccharomyces-cerevisiae]]
-- [[glycine-max]]
 - [[permaculture]]
-- [[aquaculture]]
-- [[fermentation]]
-- [[sustainability]]
-- [[climate-change]]
-- [[photosynthesis]]
-- [[anti-inflammatory]]
-- [[bioenergy]]
-- [[nutrition]]
-- [[proteomics]]
-- [[transcriptomics]]
+- aquaculture
+- fermentation
+- sustainability
+- climate change
+- photosynthesis
+- [[cannabis-anti-inflammatory-applications]]
+- bioenergy
+- nutrition
+- proteomics
+- transcriptomics

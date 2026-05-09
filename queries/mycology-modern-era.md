@@ -36,12 +36,12 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   on tropical fungi.
 
 - **1955 — Wasson's Mazatec ceremony:**
-  [[gordon-wasson]] and Allan Richardson participate in
+  [[r-gordon-wasson]] and Allan Richardson participate in
   Maria Sabina's velada in Huautla de Jimenez, Oaxaca —
   the first outsiders recorded to do so.
   Wasson's 1957 Life magazine article brought psilocybin mushrooms
   to global attention.
-  See [[mushroom-cultivation-fundamentals]].
+  See [[maria-sabina-and-mazatec-mushroom-ceremony]].
 
 - **1958 — Hofmann isolates psilocybin:**
   Identified and synthesized psilocybin and psilocin
@@ -87,9 +87,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
 
 The modern era of mycology — from genomics and DNA phylogenetics through mycorrhizal network discoveries, mycoremediation deployment, medicinal mushroom clinical trials, and conservation concerns — is covered in detail on [[mycology-21st-century-frontiers]]. Key milestones include Simard's "wood wide web" research, Ingham's soil food web popularization, fungal genome sequencing, mycelium materials industry, and the recognition of fungi as ecosystem health indicators.
 
-## Related
-
-- [[palmer-neglected-science-mycology]] Pages
+## Related Pages
 
 - [[history-of-mycology-timeline]] — ancient through early 20th century mycology
 - [[history-of-mycology-timeline]] — existing concept page with additional detail

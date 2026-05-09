@@ -27,7 +27,7 @@ created: 2026-05-07
 
 In their comprehensive worldwide survey of neurotropic fungi, Guzman, Allen, and Gartz
 document a remarkable personal account of involuntary hallucination caused by airborne
-exposure to psilocybin-containing mushrooms. This observation, made by Gaston Guzman during
+exposure to psilocybin-containing mushrooms. This observation, made by gaston guzman during
 fieldwork in Oaxaca, Mexico in 1958, provides evidence for the volatility of psilocybin and
 psilocin and has implications for the handling and storage of fresh psychoactive fungal
 specimens.
@@ -38,11 +38,9 @@ During mycological fieldwork in Oaxaca, Mexico, Guzman collected a large quantit
 or semifermented neurotropic Psilocybe specimens with the help of local indigenous people.
 The collection included a mixture of five species:
 
-- Psilocybe caerulescens
-- Psilocybe cordispora
-- Psilocybe cubensis
-- Psilocybe mexicana
-- Psilocybe zapotecorum
+- [[psilocybe-cordispora]]
+- psilocybe cubensis
+- [[psilocybe-zapotecorum]]
 
 These mushrooms had been gathered for commercial purposes and were stored in sacks in a
 small, closed-door room of an Indian home where Guzman was attempting to sleep. The air in
@@ -69,12 +67,7 @@ volatile.
 
 The volatility hypothesis is further supported by chemical studies showing that the active
 compounds in neurotropic fungi degrade over time. Repke et al. (1977) demonstrated
-variations in baeocystin content according to specimen age: Psilocybe baeocystis and
-P. cyanescens showed no trace of indoles in specimens analyzed 20-60 days after
-collection.
-
-Ohenoja et al. (1987) detected a progressive decrease in psilocybin content in herbarium
-specimens of Psilocybe semilanceata:
+variations in baeocystin content according to specimen age: [[psilocybe-semilanceata]]:
 - 1869 specimen: 0.014% dry weight
 - 1954 specimen: 0.67% dry weight
 - 1976 specimen: 0.84% dry weight
@@ -119,13 +112,5 @@ enclosed containers for market distribution.
 
 ## Related
 
-- [[psilocybin-compound|psilocybin]]
-- [[dmt-smoking-and-administration-methods|vapor]] Phenomena
-
-The Oaxaca incident parallels other accounts of environmentally-mediated psychoactive
-effects from fungal collections, though such reports remain anecdotal in the scientific
-literature. The primary active compounds, being tryptamine derivatives with relatively
-low molecular weights, are chemically plausible candidates for airborne transmission under
-the conditions described, particularly when present in the large quantities involved in
-commercial gathering operations.
-- [[allen-psilocybin-potency-australian-species|psilocybin potency]]
+- psilocybin
+- [[allen-psilocybin-potency-australian-species]]

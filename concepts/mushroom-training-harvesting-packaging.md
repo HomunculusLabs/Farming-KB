@@ -13,9 +13,7 @@ sources:
   - ~/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 
-# [[mushroom-harvesting-storage-methods]] and Packaging
-
-Harvesting is the culmination of the [[mushroom-cultivation-patent-history]] cycle and the point at which
+# [[mushroom-cultivation-patent-history]] cycle and the point at which
 farmers realize the value of their investment of time and resources. The FAO training manual
 emphasizes that proper harvesting technique directly affects mushroom quality, shelf life,
 and market price. People with various disabilities can successfully harvest mushrooms with
@@ -67,63 +65,7 @@ before the second flush appears. Typical flush intervals for oyster mushrooms ar
 
 Each subsequent flush typically produces fewer mushrooms than the previous one. After 4 to 5
 flushes, bags are generally spent and should be removed from production. Spent substrate can
-be recycled as compost or used in [[mushroom-training-straw-mushroom-cultivation]] cultivation.
-
-## Packaging for Fresh Market
-
-### Basic Packaging
-
-Before packaging, make sure all mushrooms are well trimmed. For selling fresh mushrooms on
-the market, little or no packaging is required. Mushrooms are weighed and placed in paper or
-plastic bags.
-
-### Shelf Life Considerations
-
-Mushrooms are highly perishable and cannot keep for long. Key storage facts:
-
-- Mushrooms can be kept in a refrigerator for 12 to 24 hours
-- To avoid humidity accumulating in the bag, place mushrooms in bags and blow air into them
-  before tying with a rubber band
-- If no refrigerator is available, place mushrooms on banana leaves in a cool area
-- Alternatively, put mushrooms on top of water under the shade in a well-ventilated place
-
-### Quality Control for Market
-
-The manual emphasizes the following quality standards:
-
-- Mushrooms must be clean; trimming is very important
-- Collect young mushrooms for longer shelf life and better taste
-- Constant monitoring of competitors is necessary to ensure market share
-
-## Packaging Steps
-
-1. Trim all mushrooms at the base of the stalk
-
-2. Sort by size and quality if selling at different price points
-
-3. Weigh into standard portions (commonly sold by the kilogram)
-
-4. Place in clean paper or plastic bags
-
-5. If using plastic bags, blow air in before sealing to reduce moisture accumulation
-
-6. Label with weight and date if required by market standards
-
-7. Transport to market quickly; mushrooms must be sold the same day if possible
-
-## Temperature Before Packaging
-
-The troubleshooting section notes that mushrooms that are too warm before packaging will spoil
-quickly. Chill mushrooms before placing in marketing containers when refrigeration is
-available. Similarly, mushrooms that are too wet when harvested will have reduced shelf life.
-Reduce humidity in the growing house several hours before harvesting when possible.
-
-## Adaptations for Disabled Farmers
-
-Harvesting is generally accessible to people with disabilities because it involves fine motor
-skills rather than heavy physical labor. People in wheelchairs can harvest from appropriately
-heighted shelves. People with limited hand function may use adapted gripping tools. The
-manual's [[mushroom-training-adapted-cultivation]] guidelines recommend
+be recycled as compost or used in [[mushroom-training-adapted-cultivation]] guidelines recommend
 that shelf heights allow people sitting in wheelchairs to access the highest level without
 assistance.
 

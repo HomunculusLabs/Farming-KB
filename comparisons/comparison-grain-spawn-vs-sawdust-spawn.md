@@ -22,36 +22,6 @@ affects colonization speed, contamination risk, thermogenesis, and
 overall success of the cultivation cycle.
 
 ## Grain Spawn
-[[grain-spawn-preparation]]
-
-Grain spawn is produced by inoculating sterilized cereal grains, most
-commonly rye, wheat, or millet, with a pure mushroom culture. Each
-individual kernel serves as an independent inoculation point, meaning
-that a single jar of fully colonized grain spawn contains thousands
-of discrete mycelial starting positions. This abundance of
-inoculation points translates into extremely fast colonization of the
-target substrate. Rye grain, in particular, is known to colonize fully
-in approximately 76 hours under optimal conditions, making it one of
-the fastest spawn types available.
-
-The nutritional profile of grain spawn is well balanced, providing
-both carbohydrates and nitrogen that support vigorous mycelial growth.
-This makes grain spawn highly versatile and suitable for inoculating a
-wide range of substrates including straw, compost, and supplemented
-sawdust blocks. Cultivators can monitor colonization progress visually
-through glass jars, watching the white mycelium spread from kernel to
-kernel, which provides an intuitive quality control mechanism.
-
-However, grain spawn has notable drawbacks. Its relatively high nitrogen
-content generates significant thermogenesis during large-scale
-colonization, potentially overheating substrate bags or beds if not
-managed carefully. Contamination rates hover around 11 percent in
-typical operations, partly because the nutrient-rich grain is
-attractive to competing organisms. Grain spawn is also more expensive
-per unit volume than sawdust spawn due to the cost of grain and the
-additional processing required.
-
-## Sawdust Spawn
 [[growing-gourmet-sawdust-spawn-production-use]]
 
 Sawdust spawn consists of sterilized sawdust or wood chip substrates
@@ -139,9 +109,6 @@ to balance fast colonization with reduced thermogenesis, particularly
 in large substrate bags where heat management is critical.
 
 ## See Also
-- [[grain-spawn-preparation]]
 - [[growing-gourmet-sawdust-spawn-production-use]]
-- [[mushroom-substrate-preparation]]
 - [[contamination-identification-prevention]]
-- [[shiitake-cultivation-log-method]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]

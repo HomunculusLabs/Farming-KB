@@ -127,12 +127,8 @@ ethnopharmacological knowledge of Amazonian peoples.
 
 ## Related Topics
 
-- [[plants-of-the-gods-virola-epena-snuff]] — another major
-  Amazonian hallucinogen, consumed as a snuff
 - [[plants-of-the-gods-chemical-structures-hallucinogens]] —
   chemical structures of beta-carbolines and tryptamines
-- [[plants-of-the-gods-phytochemistry-sacred-plants]] —
-  phytochemical research on sacred plants
 - [[plants-of-the-gods-geography-hallucinogenic-plants]] —
   geographic distribution of hallucinogenic plants
 - [[plants-of-the-gods-hallucinogens-medicine]] — medical

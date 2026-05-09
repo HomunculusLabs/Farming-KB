@@ -11,19 +11,7 @@ sources:
 
 ## Overview
 
-Masanobu Fukuoka proposes that beneath the many fragmentary laws of agricultural science lies a single, unifying principle he calls the "Dharmic Law That All Things Return to One." This is the philosophical cornerstone of his critique of scientific farming and the foundation upon which [[fukuoka-natural-farming-philosophy-of-mu]] stands as an eternally viable alternative.
-
-## The Fundamental Law
-
-All matter behaves according to set principles -- whether we are talking of the cosmic universe, the world of microorganisms, or the far smaller world of molecules and atoms that make up living and nonliving matter. All things are in constant flux while preserving a fixed order; all things move in a recurrent cycle unified by some basic force emanating from one source.
-
-If we had to give this fundamental law a name, we could call it the "Dharmic Law That All Things Return to One." All things fuse into a circle, which reverts to a point, and the point to nothing. To man, it appears as if something has occurred and something has vanished, yet nothing is ever created or destroyed.
-
-## Distinction from Conservation of Matter
-
-This is not the same as the scientific law of the conservation of matter. Science maintains that destruction and conservation exist side by side, but ventures no further. The Dharmic Law goes deeper, suggesting that the appearance and disappearance of things are illusions of perspective -- that at the most fundamental level, nothing truly changes.
-
-Where conservation of matter deals with the transformation of substances from one form to another, the Dharmic Law addresses the underlying reality that makes such transformation possible. It is closer to the concept of [[fukuoka-mu-nothingness-philosophy]] in Buddhist thought -- the empty fullness from which all forms arise and to which they return. The farmer who grasps this principle recognizes that fertility is not something added to the soil but something that emerges when the whole system is allowed to function as nature intended.
+Masanobu Fukuoka proposes that beneath the many fragmentary laws of agricultural science lies a single, unifying principle he calls the "Dharmic Law That All Things Return to One." This is the philosophical cornerstone of his critique of scientific farming and the foundation upon which [[fukuoka-mu-nothingness-philosophy]] in Buddhist thought -- the empty fullness from which all forms arise and to which they return. The farmer who grasps this principle recognizes that fertility is not something added to the soil but something that emerges when the whole system is allowed to function as nature intended.
 
 The scientific approach identifies discrete phenomena and studies their interactions. The Dharmic Law suggests that what appears to be many interacting phenomena is actually one process viewed from different angles. This has profound implications for how we approach agriculture, ecology, and our relationship with the natural world.
 
@@ -57,7 +45,7 @@ As long as natural farming stands on this unique law, it is guaranteed truth and
 
 ## Connection to Mu Philosophy
 
-The Dharmic Law connects directly to Fukuoka's [[fukuoka-do-nothing-farming-philosophy-and-practice]] and the concept of [[fukuoka-nature-god-limits-of-knowledge]]. If nature is already complete and governed by a single unifying principle, then human intervention -- however well-intentioned and scientifically informed -- necessarily disrupts that wholeness. The wisest course is to do nothing, or rather, to do what nature does.
+The Dharmic Law connects directly to Fukuoka's [[fukuoka-nature-god-limits-of-knowledge]]. If nature is already complete and governed by a single unifying principle, then human intervention -- however well-intentioned and scientifically informed -- necessarily disrupts that wholeness. The wisest course is to do nothing, or rather, to do what nature does.
 
 ## Relevance to Modern Systems Thinking
 
@@ -83,58 +71,11 @@ on external inputs. Fukuoka's approach — establish clover and straw, broadcast
 nothing else — works with the single unifying principle of natural succession and soil ecology.
 In permaculture design, this principle translates directly into the practice of designing from
 patterns to details: first understand the whole system's organizing pattern, then design
-interventions that support rather than override it. The [[fukuoka-do-nothing-farming-philosophy]]
-approach is the practical application of the Dharmic Law.
-
-## Relationship to Taoist and Buddhist Philosophy
-
-The Dharmic Law resonates deeply with Taoist concepts of the Tao — the nameless, formless
-origin from which all things arise and to which they return. The Tao Te Ching states: "The
-Tao produced the One; the One produced Two; Two produced Three; Three produced all things."
-Fukuoka's formulation mirrors this cosmological sequence, adding that all things, having
-arisen from the One, return to it in a continuous cycle — distinguishing his view from
-linear Western cosmologies.
-In Buddhist philosophy, dependent origination (pratītyasamutpāda) describes how all
-phenomena arise in mutual dependence. Fukuoka's law extends this by proposing that this
-mutual dependence reflects a single underlying reality. The farmer who grasps this sees
-fertility, pest regulation, and plant health not as separate problems but as expressions of
-one system operating in accordance with its nature.
-
-## The Irreducibility of Wholes
-
-One of the most radical implications of the Dharmic Law is that wholes cannot be reduced to
-their parts — directly challenging the methodological individualism underlying modern
-science. A soil ecosystem is not merely the sum of its mineral particles, organic matter,
-and microorganisms; it is an emergent entity whose properties cannot be predicted from its
-components.
-Fukuoka illustrated this with a rice paddy: scientists can analyze soil chemistry, study the
-rice variety, and catalog microorganisms, but assembling all this knowledge will never tell
-them how to grow rice as well as the farmer who trusts the natural process. The Dharmic Law
-suggests this is a fundamental epistemological constraint — the whole transcends its
-analytically accessible parts.
-
-## Comparison with Western Holistic Thinkers
-
-Fukuoka's Dharmic Law anticipates ideas found in the work of Western holistic thinkers such
-as Aldo Leopold ("thinking like a mountain") and James Lovelock's Gaia hypothesis. Where
-these Western thinkers arrived at holistic perspectives through ecological observation and
-systems theory, Fukuoka arrived at his through spiritual practice and decades of farming
-experimentation — making his formulation unique in integrating philosophical depth with
-demonstrated agricultural practicality.
-
-## See Also
-
-- [[fukuoka-four-principles-natural-farming]]
-- [[fukuoka-nature-transcends-human-knowledge]]
+interventions that support rather than override it. The [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
-- [[fukuoka-view-of-nature-and-human-hubris]]
 - [[fukuoka-observation-based-farming]]
-- [[fukuoka-one-straw-revolution-philosophy]]
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
-- [[fukuoka-wholistic-nature-perception]]
 - [[natural-farming-and-spirituality]]
-- [[2c-d-pihkal-entry-23]]
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[fukuoka-nature-god-limits-of-knowledge]]
 - [[fukuoka-road-back-to-nature-overview]]

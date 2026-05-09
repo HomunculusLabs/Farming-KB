@@ -20,18 +20,6 @@ methods, but they serve different grower profiles and priorities.
 
 ### Nutrient Film Technique
 
-[[nutrient-film-technique]] circulates a shallow, continuous stream of
-nutrient solution through enclosed channels or gullies. Plant roots dangle
-into this thin film, absorbing nutrients while the upper portion of the root
-mass remains exposed to air for oxygen uptake. The result is exceptionally
-efficient nutrient delivery with constant access to both water and oxygen.
-NFT systems use minimal growing medium, typically small rockwool cubes or
-net pots with hydroton, keeping material costs low and making cleanup
-straightforward. The continuous flow means pH and nutrient concentration
-remain stable throughout the system.
-
-### Ebb and Flow
-
 [[ebb-and-flow]] systems flood a grow table or tray with nutrient solution
 from a reservoir below, hold the flood for a set period, then drain back
 via gravity. This cycle repeats multiple times per day based on a timer.
@@ -127,8 +115,6 @@ NFT selectively as experience grows provides the best risk-adjusted path.
 
 ## See Also
 
-- [[comparison-dwc-vs-ebb-and-flow]]
 - [[comparison-living-soil-vs-hydroponic]]
-- [[aeroponics-guide]]
 - [[nutrient-film-technique]]
 - [[ebb-and-flow]]

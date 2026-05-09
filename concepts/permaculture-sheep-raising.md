@@ -3,17 +3,13 @@ title: Permaculture Sheep Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
 # Permaculture Sheep Raising
 
-Sheep can be integrated into [[permaculture-design]] systems for meat, wool, and manure production, grazing in orchards and pastures.
-
-## Role in the System
-
-Sheep can graze in the [[permaculture-zone-planning]] orchard after trees are at least 7 years old, but must be carefully controlled and removed if they start damaging trees. Trees provide food, protect from elements, benefit soil, and prevent erosion within their grazing area.
+Sheep can be integrated into [[permaculture-zone-planning]] orchard after trees are at least 7 years old, but must be carefully controlled and removed if they start damaging trees. Trees provide food, protect from elements, benefit soil, and prevent erosion within their grazing area.
 
 ### Stocking and Feeding
 
@@ -73,53 +69,7 @@ Vaccination protocols:
 
 - Footrot vaccination in wet climates where the bacteria thrive
 
-Parasite management is one of the biggest challenges in sheep raising. Practice [[permaculture-grazing-and-pasture]] to break parasite lifecycles -- worms complete their life cycle in roughly 21 days, so moving sheep to fresh pasture every 2-3 weeks dramatically reduces reinfection. FAMACHA scoring (checking eyelid color for anemia) helps identify which individual sheep need deworming, slowing the development of drug-resistant parasites.
-
-Common ailments to watch for:
-
-- Footrot and foot scald: caused by bacteria in wet conditions; trim hooves regularly and keep pastures well-drained
-
-- Fly strike: flies lay eggs in soiled wool; keep fleece around the tail area clean, especially in summer
-
-- Enterotoxemia (overeating disease): often fatal; prevented by proper vaccination and avoiding sudden changes in feed
-
-- Scrapie: a fatal neurological disease; purchase sheep from certified scrapie-free flocks
-
-- Pneumonia: ensure good ventilation in housing and avoid drafts during lambing season
-
-## Wool Production
-
-Wool is a valuable permaculture yield that provides insulation, clothing material, and a connection to the land's carrying capacity. Different breeds produce wool suited to different purposes, from fine Merino for soft garments to coarse carpet wool from hardy hill breeds.
-
-Shearing schedule:
-
-- Shear once per year, typically in spring before lambing season
-
-- A skilled shearer can process 100-200 sheep per day
-
-- Keep fleece clean by avoiding burrs and thistle patches in pastures
-
-- Skirting (removing dirty or inferior wool from the edges) improves the value of each fleece
-
-- Store wool in breathable bags, never plastic, to prevent moisture buildup and mold
-
-Wool grading depends on fiber diameter (measured in microns), crimp, staple length, and luster. Fine wools (under 20 microns) command the highest prices but require more careful handling. Medium wools (20-30 microns) are excellent for knitting and general textile use. In a permaculture context, even coarse wools have value for mulch, insulation, and garden uses.
-
-## Predation and Guard Animals
-
-Predator losses are one of the greatest risks for sheep farmers. Coyotes, domestic dogs, wolves, mountain lions, and foxes all prey on sheep, with lambs being especially vulnerable.
-
-Guard animal options:
-
-- Livestock guardian dogs (LGDs): Great Pyrenees, Anatolian Shepherds, Akbash, and Maremma are the most effective breeds; they live with the flock full-time and bond with the sheep
-
-- Donkeys and mules: naturally aggressive toward canines; one donkey per pasture is usually sufficient; they are low-maintenance and long-lived
-
-- Llamas and alpacas: effective against single predators like coyotes but less effective against pack hunters; best combined with dogs
-
-- Electric fencing adds a critical second layer of defense when combined with guard animals
-
-Integrate guard animals with [[permaculture-integrated-animal-systems]] carefully -- guardian dogs should be raised with sheep from puppyhood and may not tolerate other dog species on the property. Proper training and socialization are essential.
+Parasite management is one of the biggest challenges in sheep raising. Practice [[permaculture-integrated-animal-systems]] carefully -- guardian dogs should be raised with sheep from puppyhood and may not tolerate other dog species on the property. Proper training and socialization are essential.
 
 ## Seasonal Management Calendar
 
@@ -146,3 +96,5 @@ Summer (June-August):
 - Wean lambs at 8-12 weeks of age
 
 - Provide shade and plenty of fresh water; sheep can suffer heat stress at temperatures above 80°F (27°C)
+
+See also: [[sheep-keeping-guide]]

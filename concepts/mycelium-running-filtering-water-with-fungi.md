@@ -10,7 +10,6 @@ tags: [fungi, mycelium, water]
 
 # Filtering Water with Fungi
 
-[[mycelium-natures-internet]] presents
 [[mycofiltration-of-water]] as one of the four pillars of mycorestoration.
 Mycofiltration uses mycelium as a biological membrane for filtering out
 microorganisms, pollutants, and silt, with applications ranging from farm
@@ -53,57 +52,8 @@ Mycofiltration membranes can be installed around:
 
 ## The Skookum Inlet Experiment
 
-Stamets's foundational [[mycofiltration-membrane-construction]] experiment
-on his Kamilche Point farm involved:
-
-- Two parallel swales dropping 120 feet over 800 feet to a saltwater bay
-- A small herd of livestock contributing fecal coliform contamination
-- Installation of garden giant (Stropharia rugoso-annulata) beds at the
-  top of one basin
-- Several truckloads of utility-company wood chips inoculated with spawn
-- A 50-by-200-foot mycelial bed established within months
-
-Results: a hundredfold drop in coliform levels despite doubling animal
-population, surprising water quality inspectors monitoring the inlet.
-
-## Matching Mushrooms to Pathogens
-
-Specific mushroom species show targeted antimicrobial effects. The book
-includes a comprehensive chart of species found effective against
-particular microbes. Notable examples:
-
-- Garden giant (Stropharia rugoso-annulata): effective against multiple
-  bacteria
-- Oyster mushroom (Pleurotus ostreatus): broad-spectrum antimicrobial
-- Zhu ling (Polyporus umbellatus): 100 percent effective in vitro
-  against the malarial parasite Plasmodium falciparum
-- Turkey tail (Trametes versicolor): effective against multiple
-  bacterial species
-
-Ecological engineers can customize mycofilters with mosaics of mycelial
-mats matched to specific upstream microbial threats.
-
-## Straw Bale Mycofiltration
-
-In another field trial, Stamets placed straw bales inoculated with oyster
-mushroom mycelia into a slough, channeling runoff water through the
-straw. Lab analysis found that benign Bacillus subtilis reigned supreme
-downstream, while the upstream-dominant Pseudomonas fluorescens failed
-to register in the top 5 bacteria downstream.
-
-Factors affecting efficiency include slope, flow rate, turbidity,
-straw shaft diameter, mushroom species, degree of mycelial colonization,
-and microbial populations.
-
-## Bunker Spawn for Buffer Zones
-
-Stamets advocates using bunker spawn -- mycelium in burlap sacks -- to
-build mycelial buffers that capture microbes and nutrients along
-waterways. This approach is particularly suited for:
-
-- [[mycofiltration-of-agricultural-runoff]] from factory farms
+Stamets's foundational [[mycofiltration-of-agricultural-runoff]] from factory farms
 - Protecting shellfish beds from upstream contamination
-- [[mycofiltration-silt-erosion-control]] on construction sites
 - [[mycofiltration-watershed-protection]] in critical habitats
 
 ## Mushrooms Munch Rocks
@@ -125,11 +75,7 @@ process analogous to a fishing net losing its cohesiveness.
 
 ## See Also
 
-- [[mycelium-running-pest-control-with-fungi]]
-
 - [[unknown-mycelium-mycofiltration]] -- existing mycofiltration page
-- [[mycofiltration-of-pathogens]] -- pathogen filtration detail
 - [[mycofiltration-of-chemical-runoff]] -- chemical toxin filtration
-- [[mycelium-running-urban-mushroom-projects]] -- urban applications
 - [[mycofiltration-water-treatment]] -- water treatment systems
 - [[mycelium-running-garden-giant-stamets]] -- garden giant in filtration

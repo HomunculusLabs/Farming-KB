@@ -1,7 +1,7 @@
 ---
 title: Termitomyces African Mushrooms
 created: 2026-04-28
-tags: [mycology, terfezia, africa, asia, subterranean-fungi]
+tags: [[mycology, terfezia, africa, asia, subterranean-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -119,23 +119,9 @@ of mushrooms, sometimes less than one franc per kilo.
 
 ## See Also
 
-- [[termitomyces-umkowaani]]
-
 - [[termitomyces-clypeatus]]
 
-- [[termitomyces-fuliginosus]]
-
 - [[european-truffles]]
-- [[mushroom-food-value]]
 - [[mushroom-classification-basidiomycete-families]]
-- [[wild-mushroom-markets]]
-
-## References
-
-- Duggar, B.M. Mushroom Growing. Macmillan, 1915.
-- Chatin, A. La Truffe. Paris, 1892.
-- Patouillard, N. "Les Terfez de la Tunisie." Rev.
-  Mycol., 1894.
 - [[termitomyces-eurhizus]]
-- [[termitomyces-heimii]]
 - [[acalypha-racemosa]]

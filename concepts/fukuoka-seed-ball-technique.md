@@ -12,26 +12,13 @@ sources:
 
 **Updated:** 2026-04-18
 
-The seed ball (or "earth dumpling") technique is one of [[masanobu-fukuoka]]'s most widely adopted innovations. By encasing seeds in balls of clay, Fukuoka enabled the broadcasting of seeds without the need for nursery beds, transplanting, or any soil preparation. The seed ball protects the seed from predators, weather, and competition until conditions are favorable for germination, making it possible to establish vegetation in situations where conventional sowing would fail.
-
-## How Seed Balls Are Made
-
-### Materials
-
-- Seeds of desired plant species
-- Clay soil (red clay is preferred but any clay will work)
-- Water
-- Optional: a small amount of compost or organic matter
-- Optional: [[knf-indigenous-microorganism-culture]] or other microbial inoculant
+The seed ball (or "earth dumpling") technique is one of [[knf-indigenous-microorganism-culture]] or other microbial inoculant
 
 ### Procedure
 
 1. **Mix clay and water** to form a workable dough -- similar to the consistency of potter's clay
 2. **Incorporate seeds** into the clay mixture. For diverse plantings, mix seeds of multiple species:
-   - For desert greening: [[acacia]], other pioneer trees, shrubs, grasses, legumes
-   - For rice cultivation: rice seeds alone or with clover
-   - For vegetable gardens: mix of vegetable seeds appropriate to the season
-   - For orchard understory: clover, vegetables, [[green-manure-crops]]
+   - For desert greening: [[green-manure-crops]]
 3. **Optional additions:** Small amounts of compost, humus, or microbial inoculant can be mixed into the clay to provide initial nutrition for germinating seeds
 4. **Form balls:** Roll the mixture into balls approximately 1-2 cm in diameter (roughly marble to walnut size, depending on seed size)
 5. **Dry:** Allow the seed balls to dry in the shade (not in direct sunlight, which can crack them)

@@ -13,9 +13,10 @@ type: concept
 updated: 2026-04-12
 ---
 
+
 # Fungal Sampling Methods
 
-Standardized methods for documenting [[fungal-biodiversity]] across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
+Standardized methods for documenting fungal biodiversity across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
 
 ## General Principles
 
@@ -85,7 +86,7 @@ Standardized methods for documenting [[fungal-biodiversity]] across habitats. Fu
 - Standardized mesh bags filled with known litter type
 - Placed in field and retrieved at intervals (weeks to months)
 - Retrieved litter examined for fungi (moist chambers, direct plating)
-- Quantifies [[fungal-succession]] on decomposing litter
+- Quantifies fungal succession on decomposing litter
 
 **Direct examination**:
 - Collect litter samples from defined plots
@@ -127,7 +128,7 @@ Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 w
 1. Collect healthy-looking leaves/stems
 2. Wash in 70% ethanol (30 sec) - 2.5% sodium hypochlorite (2-5 min) - 70% ethanol (30 sec)
 3. Rinse in sterile distilled water
-4. Cut into segments, plate on [[malt-extract-agar]] + antibiotics
+4. Cut into segments, plate on malt extract agar + antibiotics
 5. Incubate at room temperature; examine daily for 4-8 weeks
 6. Isolate emerging colonies to pure culture
 
@@ -147,3 +148,53 @@ Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 w
 ## Quantitative Methods
 
 ### Diversity Indices
+- Species richness (S): total number of species
+- Shannon-Wiener index (H'): accounts for evenness
+- Simpson's index (D): weights toward dominant species
+- Fisher's alpha: useful for species-rich communities
+
+### Abundance Measures
+- Colony-forming units (CFU) per gram (culturable fungi)
+- Most Probable Number (MPN) for chytrids and other zoosporic fungi
+- Fruiting body counts per unit area (macrofungi)
+- Spore counts (airborne, aquatic)
+
+### Community Analysis
+- Ordination (PCA, NMDS) to compare communities
+- Cluster analysis of sampling sites
+- Indicator species analysis
+- Seasonal and successional patterns
+
+## Molecular Approaches
+
+### Environmental DNA (eDNA)
+- DNA extracted from environmental samples (soil, water, air)
+- PCR amplification of barcode regions (ITS most common)
+- High-throughput sequencing (Illumina, PacBio, Oxford Nanopore)
+- Bioinformatic pipeline: quality filtering, OTU/ASV clustering, taxonomic assignment
+
+### Advantages over traditional methods:
+- Detects non-culturable and cryptic species
+- Quantitative (read counts approximate abundance)
+- Reproducible and standardized
+- Can compare across studies globally
+
+### Limitations:
+- DNA from dead organisms may inflate diversity estimates
+- Primer bias affects detection of some groups
+- Reference databases incomplete
+- Cannot distinguish active vs. dormant organisms
+
+## Documentation and Vouchering
+
+- Photograph all collections in situ
+- Preserve voucher specimens (herbarium for macrofungi, cultures for microfungi)
+- Deposit cultures in recognized collections (ATCC, CBS, national collections)
+- Record GPS coordinates, habitat, substrate, date, collector
+- Sequence voucher specimens for molecular reference
+
+## Related Topics
+
+- [[fungal-biodiversity-biogeography]] — Global diversity patterns
+- [[freshwater-fungi-biodiversity]] — Aquatic fungal sampling
+- [[coprophilous-fungi]] — Dung fungal methods

@@ -140,8 +140,9 @@ Lemon balm's pest-repellent and pollinator-attracting properties make it a versa
 
 ## See Also
 
-- [[melissa-officinalis-entity]]
-
 - [[herbal-medicine-making-basics]]
-- [[companion-planting]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
+
+## See Also
+
+- [[permaculture-plants-salt-tolerant-fodder-systems]]

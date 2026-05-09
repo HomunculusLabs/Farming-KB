@@ -132,10 +132,7 @@ plumbing is light-tight to protect roots.
 
 ## See Also
 
-- [[cervantes-hydroponic-systems]] - overview of all hydroponic
-  methods
-- [[cannabis-advanced-growing-techniques]] - DWC and water-based growing
-- [[cervantes-net-pots-growing-slabs]] - containers for hydroponics
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - DWC and water-based growing
 - [[cervantes-cloning]] - cloning techniques and environments
 - [[cervantes-nutrient-solution-reservoir-management]] - solution
   maintenance

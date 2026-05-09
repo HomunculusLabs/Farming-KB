@@ -116,11 +116,9 @@ Fukuoka's farming practices: minimal intervention allows nature's self-
 governing mechanisms to maintain balance far more effectively than human
 management ever could.
 
-## Related Concepts
+## Related
 
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
-- [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]

@@ -123,8 +123,6 @@ feedback and adjust recipes accordingly.
 
 ## See Also
 
-- [[cotter-mushroom-products-and-value-added-applications]]
 - [[cotter-mushroom-nutrition-medicinal-compounds]]
-- [[cotter-mushroom-business-marketing]]
 - [[cotter-reishi-ganoderma-cultivation]]
 - [[cotter-oyster-mushroom-cultivation]]

@@ -101,20 +101,11 @@ Sustainable management requires rotation of harvest beds with 6–12 month recov
 
 ## See Also
 
-- [[porphyra-umbilicalis]] — red alga with complementary bioactive sulfated polysaccharides
 - [[laminaria-digitata]] — brown alga with alginate chemistry parallel to carrageenan
-- [[ulva-lactuca]] — intertidal green alga sharing lower-shore habitat
 - [[pleurotus-ostreatus]] — edible fungus for cross-kingdom comparison of structural polysaccharides
-- [[bioremediation]] — seaweed cultivation for coastal water nutrient management
-- [[mycoremediation]] — fungal remediation approaches complementary to algal systems
+- bioremediation — seaweed cultivation for coastal water nutrient management
 - [[permaculture]] — coastal permaculture systems incorporating Irish moss harvesting
-- [[moringa-oleifera]] — terrestrial plant with traditional mucilaginous medicinal preparations
-- [[carbon-sequestration]] — red algal beds as potential blue carbon habitats
 - [[glycine-max]] — soybean-derived emulsifiers compared with carrageenan as food stabilizers
-- [[agroforestry]] — integrated seaweed-agroforestry analogies for multi-trophic systems
-- [[polyculture]] — multi-species seaweed cultivation as marine polyculture
-- [[heavy-metals]] — metal bioaccumulation relevant to harvest-site quality monitoring
 - [[phytoremediation]] — algal nutrient extraction complements terrestrial phytoremediation
-- [[food-forest]] — kelp and algal beds as analogous to terrestrial food forests
 - [[mollison-marine-aquaculture]] — marine aquaculture design from Mollison permaculture manual
 - [[fungal-bioremediation]] — fungal approaches to water quality parallel algal systems

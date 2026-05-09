@@ -19,50 +19,7 @@ type: concept
 Bill Mollison provides detailed guidance on roof water harvesting in
 Chapter 6 (Water in the Landscape) and Chapter 14 of Permaculture: A
 Designers' Manual. He treats roof catchment as a primary water supply
-strategy for [[permaculture-settlement-design]]s, particularly in areas with
-reliable rainfall or where groundwater is contaminated, saline, or
-otherwise unsuitable. This is one component of a broader [[homestead-water-systems]] that also includes [[mollison-keyline-water-conservation]] and earthworks.
-
-## The Basic Catchment Equation
-
-The fundamental calculation for roof water yield is:
-
-    Yield (litres/year) = Roof area (m2) x Annual rainfall (mm) x
-    Runoff coefficient x 0.001
-
-Where:
-- Roof area is the horizontal projected area (plan area) of the roof in
-  square metres
-- Annual rainfall is in millimetres
-- Runoff coefficient accounts for losses due to absorption, evaporation,
-  and spillage (typically 0.7 to 0.9 for well-designed systems)
-- 0.001 converts mm over m2 to litres (1mm of rain on 1m2 = 1 litre)
-
-For example, a house with a 100 m2 roof in an area receiving 800mm annual
-rainfall with a runoff coefficient of 0.8 would yield:
-
-    100 x 800 x 0.8 x 0.001 = 64,000 litres per year
-
-This is approximately 175 litres per day, sufficient for a household of
-3 to 4 people using water-conserving fixtures and practices.
-
-## Runoff Coefficients
-
-Mollison provides runoff coefficients for various roof materials:
-
-- Metal (corrugated iron, zincalume): 0.85 to 0.95 -- highest efficiency
-  due to smooth, non-absorbent surface
-- Clay tile: 0.75 to 0.85 -- slight absorption by tiles and losses at
-  joints
-- Concrete tile: 0.80 to 0.90 -- similar to clay with slightly less
-  absorption
-- Slate: 0.85 to 0.95 -- very efficient
-- Thatch: 0.20 to 0.40 -- significant absorption by the thatch material;
-  generally unsuitable for reliable catchment
-- Asphalt shingle: 0.75 to 0.85 -- moderate efficiency
-- Membrane (EPDM, butyl): 0.90 to 0.95 -- excellent efficiency
-
-Mollison recommends metal roofing for dedicated [[mollison-designers-rainwater-tanks-and-roof-catchment-systems]] due to
+strategy for [[homestead-water-systems]] that also includes [[mollison-designers-rainwater-tanks-and-roof-catchment-systems]] due to
 its high runoff coefficient, durability, and non-toxic surface (unlike
 some treated materials that may leach chemicals into drinking water).
 
@@ -146,5 +103,8 @@ monthly water budget:
 
 The tank must be sized to cover the maximum cumulative deficit (the
 lowest point in the cumulative balance curve). In Mediterranean or
-monsoonal climates, the dry-season deficit can be very large, requiring
 ## See Also
+
+## See Also
+
+- [[mollison-designers-roof-water-catchment]]

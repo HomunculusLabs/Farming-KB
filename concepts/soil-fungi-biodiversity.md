@@ -14,6 +14,7 @@ type: concept
 updated: 2026-04-12
 ---
 
+
 # Soil Fungi Biodiversity
 
 Soil is arguably the most diverse habitat for fungi on Earth, supporting an estimated 1.5 million or more fungal species. Soil fungi include decomposers, mycorrhizal symbionts, plant pathogens, predators, and parasites, forming the backbone of terrestrial nutrient cycling.
@@ -87,7 +88,7 @@ Soil fungi show distinct vertical stratification:
 - **Grasslands**: High diversity of AM fungi and saprotrophs
 - **Agricultural soils**: Reduced diversity; dominated by fast-growing Ascomycetes
 - **Disturbed soils**: Shift toward r-selected species (fast-growing, generalist)
-- **No-till systems**: Higher fungal:bacterial ratios than tilled systems (see [[composting-and-soil-biology]])
+- **No-till systems**: Higher fungal:bacterial ratios than tilled systems (see [[no-till-gardening-method]])
 
 ### Seasonal and Temporal Dynamics
 - Fungal biomass and community composition fluctuate seasonally
@@ -124,7 +125,7 @@ Soil fungi show distinct vertical stratification:
 
 ### Soil Structure
 - Mycelium binds soil particles into aggregates
-- AM fungi produce glomalin (see [[glomalin-and-soil-carbon]])
+- AM fungi produce glomalin (see [[glomalin]])
 - Hyphae stabilize macroaggregates (>250 um)
 - Improves water infiltration and retention
 
@@ -146,3 +147,43 @@ Soil fungi show distinct vertical stratification:
 - Soil washing techniques
 - Warcup soil plate method
 - Baiting with buried substrates
+
+### Molecular Methods
+- DNA extraction from soil (MoBio PowerSoil, CTAB)
+- ITS metabarcoding (Illumina MiSeq most common)
+- Metagenomics for functional gene analysis
+- Quantitative PCR for specific groups (AM fungi, pathogens)
+
+### Direct Observation
+- Soil thin sections for hyphal length and biomass
+- Ergosterol extraction as fungal biomass proxy
+- Phospholipid fatty acid (PLFA) analysis (18:2omega6,9 = fungal marker)
+- Fluorescence microscopy with fungal-specific stains
+
+## Conservation
+
+Soil fungal diversity is threatened by:
+- Agricultural intensification (monoculture, tillage, fungicides)
+- Deforestation and habitat destruction
+- Soil compaction and erosion
+- Climate change (altered temperature and moisture regimes)
+- Pollution (heavy metals, pesticides)
+
+Conservation priorities:
+- Preserve undisturbed habitats (old-growth forests, native grasslands)
+- Promote no-till and reduced-input agriculture
+- Maintain organic matter inputs
+- Reduce fungicide use
+- Document baseline diversity before species are lost
+
+## Related Topics
+
+- [[fungal-biodiversity-biogeography]] — Global fungal diversity
+- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
+- [[mycorrhizal-types]] — Mycorrhizal associations
+- [[fungal-ecology]] — Fungal ecology overview
+- [[fungi-soil-food-webs]] — Fungal roles in soil food webs
+- [[no-till-gardening-method]] — Impact of tillage on soil fungi
+- [[glomalin]] — Mycorrhizal soil glue
+- [[fungal-sampling-methods]] — Field methods
+- [[fungal-conservation-strategies]]

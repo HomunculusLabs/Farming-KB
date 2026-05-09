@@ -11,10 +11,7 @@ type: concept
 
 # Cannabis, Homeostasis, and Immune Regulation
 
-The [endocannabinoid system (ECS)
-serves as a master homeostatic regulator in the human body, coordinating
-responses across multiple physiological systems to maintain internal balance.
-Throughout *The [[cannabis-health-index]]*, Blesching presents the ECS as a bridge
+The [[cannabis-health-index]]*, Blesching presents the ECS as a bridge
 between the nervous system, immune system, and endocrine system, with
 cannabinoids playing a pivotal role in maintaining this regulatory equilibrium.
 

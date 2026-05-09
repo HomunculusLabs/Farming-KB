@@ -33,7 +33,7 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 | Hawthorn | N | -- | Spring; pleach for fences |
 | Maple | N | P | Including box elder |
 | Poplars | N | P | Depends on sex of tree |
-| [[tagasaste]] | N | P | Most winter through spring; staggered cutting increases flowering duration |
+| Tagasaste | N | P | Most winter through spring; staggered cutting increases flowering duration |
 
 ## Understorey Hedgerow
 
@@ -90,12 +90,12 @@ Selected from extensive listings (over 40 species documented):
 - **Eucalyptus stellulata** (Black Sally): Flowers most of the year
 - **Eucryphia lucida** (Leatherwood): N; extended nectar flow
 
-## Other [[bee-forage-plants]]
+## Other Bee Forage Plants
 
 Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), Chinese tallow tree, citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, Japanese raisin tree, marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
 
 ## Related
 
 - [[medicinal-herbs-for-livestock]]
-- [[zone-sector-analysis-guide]]
-- [[permaculture-design]]
+- [[permaculture-zone-and-sector-analysis]]
+- [[permaculture-plant-selection-guide]]

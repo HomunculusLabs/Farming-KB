@@ -131,8 +131,6 @@ avoiding doomed experiments.
 
 ## See Also
 
-- [[savory-holistic-management-overview]] for the full model context
 - [[savory-water-cycle-management]] for detailed water cycle analysis
-- [[savory-mineral-cycle-management]] for mineral cycle details
 - [[savory-plant-succession-and-community-dynamics]] for succession
 - [[savory-energy-flow-and-solar-capture]] for energy flow

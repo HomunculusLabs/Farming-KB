@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
 **Updated:** 2026-04-18
@@ -117,11 +118,7 @@ Fungal symbionts produce yeastlike oidia in mycangia (hypopleural organs at end 
 
 ## Related Topics
 
-- [[bark-beetle-fungi-ophiostomatales-collection-isolation]] — beetle-fungal associations
 - [[laboulbeniales-collection-mounting-identification]] — parasitic ascomycetes on arthropods
-- [[trichomycetes-gut-fungi-arthropods]] — gut fungi of arthropods
 - [[termite-ant-fungus-gardens]] — termite and ant fungus cultivation
-- [[sequestrate-fungi-ecology-evolution]] — hypogeous fungi with animal dispersal
 - [[fungal-biodiversity-tropical-ecosystems]] — tropical fungal diversity
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

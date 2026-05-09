@@ -86,8 +86,6 @@ endocannabinoid system maintains balance even when exposed to
 exogenous cannabinoids.
 
 ## See Also
-- [[anandamide-aea]]
-- [[2-arachidonoylglycerol-2-ag]]
-- [[noladin-ether]]
+- [[two-ag]]
 - [[n-arachidonoyl-dopamine-nada]]
 - [[e-beta-caryophyllene-bcp]]

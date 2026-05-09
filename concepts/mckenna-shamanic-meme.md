@@ -122,4 +122,4 @@ The prolonged and repeated exposure to the psychedelic experience promoted socia
 
 This shamanic complex is very old; it is found, in whole or in part, among the Australians, the archaic peoples of North and South America, in the polar regions, and across the indigenous cultures of the world.
 
-See also: [[mckenna-shamanism-and-the-lost-archaic-world]], [[mckenna-techniques-of-ecstasy]], [[mckenna-psychedelic-shamanism]], [[mckenna-amazon-shamanism-and-ayahuasca]], [[mckenna-transcendent-other-and-exopheromones]], [[mckenna-dominator-vs-partnership-society-model]]
+See also: [[mckenna-techniques-of-ecstasy]], [[mckenna-amazon-shamanism-and-ayahuasca]], [[mckenna-dominator-vs-partnership-society-model]]

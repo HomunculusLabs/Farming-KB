@@ -115,8 +115,6 @@ vegetable production and soil building.
 
 ## See Also
 
-[[jeavons-grow-biointensive-method-overview]]
 [[jeavons-carbon-farming]]
-[[jeavons-calorie-farming]]
 [[jeavons-master-planning-mini-farms]]
 [[jeavons-sustainable-soil-closing-loop]]

@@ -138,13 +138,8 @@ Not entirely, but it's a powerful component of **integrated pest management (IPM
 | Key plant defense hormone for herbivore response | Jasmonic acid |
 | Commercial success story | Codling moth mating disruption in apples (millions of acres) |
 | Volatile with dual above/below-ground role | β-Caryophyllene (attracts nematodes to roots) |
-
 ## See Also
 
-- [[query-how-do-plants-defend-themselves-chemically]]
-
 - [[plant-olfaction-and-chemical-sensing]] — comprehensive topic page on VOCs
-- [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] — detailed comparison of two IPM approaches
 - [[plant-cellulose-and-carbohydrate-chemistry]] — broader plant defense chemistry
-- [[hamilton-beneficial-insects-and-biological-pest-control]] — predators and parasitoids attracted by plant signals
 - [[hamilton-beneficial-insects-and-biological-pest-control]] — another indirect defense pathway

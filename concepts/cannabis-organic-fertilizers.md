@@ -104,11 +104,7 @@ Most indoor organic gardens use potting soil high in:
 
 ## See Also
 
-- [[cannabis-chemical-fertilizers]]
 - [[cannabis-nutrient-solution-preparation]]
-- [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-foliar-feeding]]
-- [[cannabis-nutrient-toxicity]]
 - [[cannabis-indoor-soil-mix-and-preparation]]
-- [[teaming-with-nutrients-fertilizer-sources]]
 - [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]

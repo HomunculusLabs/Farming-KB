@@ -13,7 +13,7 @@ sources: []
 
 Turbulence is a regime of fluid motion characterized by chaotic, three-dimensional, time-dependent fluctuations in velocity, pressure, and other transported quantities. It is inherently dissipative (converting kinetic energy to heat via viscosity) and multi-scale, containing eddies spanning from the integral scale down to the Kolmogorov microscale. The transition from laminar to turbulent flow is governed by the Reynolds number Re = ρUL/μ. For pipe flow, transition occurs at Re ≈ 2,300–4,000; for flat-plate boundary layers at Re_x ≈ 5×10⁵.
 
-The fundamental challenge in turbulence modeling is the **closure problem**: when the [[navier-stokes-equations|Navier-Stokes]] equations are decomposed into mean and fluctuating components (Reynolds [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
+The fundamental challenge in turbulence modeling is the **closure problem**: when the [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
 
 ## Energy Cascade and Kolmogorov Theory
 
@@ -94,35 +94,8 @@ Free shear flows (jets, wakes, mixing layers) develop self-similar profiles far 
 
 ## Turbulence Statistics
 
-The turbulent kinetic energy budget balances production P_k = −⟨u′ᵢu′ⱼ⟩(∂Ūᵢ/∂xⱼ), dissipation ε = ν⟨∂u′ᵢ/∂xⱼ ∂u′ᵢ/∂xⱼ⟩, turbulent transport, pressure diffusion, and viscous diffusion. In the log layer, P_k ≈ ε at equilibrium. The **Lumley triangle** maps turbulence anisotropy through invariants of the anisotropy tensor bᵢⱼ = ⟨u′ᵢu′ⱼ⟩/(2k) − δᵢⱼ/3, with isotropic turbulence at the origin and 1-component turbulence at the upper vertex. Wall-bounded flows show significant anisotropy near the wall.
-
-## Applications
-
-Turbulence modeling is essential across engineering: aircraft drag prediction (skin friction ~50% of cruise drag), automotive aerodynamics (C_d targets ~0.25–0.30), weather prediction (planetary boundary layer schemes such as YSU and Mellor-Yamada), chemical reactor mixing (Damköhler number Da = τ_mix/τ_rxn), and turbulent combustion (flamelet models, PDF methods, thickened flame approaches for LES). Other applications include marine propeller design, building wind loads, biomedical flows, electronics cooling, and nuclear reactor thermal analysis.
-
-## Model Selection Guide
-
-| Application | Recommended | Re Range | Notes |
-|---|---|---|---|
-| Concept design | RANS (SST k-ω) | Any | Best accuracy/cost ratio |
-| Separated aerodynamics | DES/DDES | 10⁶–10⁸ | Captures large-scale unsteadiness |
-| Combustion | LES + flamelet | 10⁴–10⁶ | Resolves large-scale mixing |
-| Fundamental research | DNS | 10³–10⁵ | No modeling, complete physics |
-| Weather/atmospheric | RANS (PBL schemes) | 10⁸+ | Specialized parameterizations |
-
-## Historical Milestones
-
-1883: Reynolds identifies laminar-turbulent transition (pipe experiment). 1895: Reynolds decomposition and time-averaged equations. 1922: Richardson's energy cascade. 1930s: Prandtl's mixing length theory. 1941: Kolmogorov's -5/3 spectrum. 1963: Smagorinsky's first SGS model. 1972: Deardorff's first practical LES. 1974: Standard k-epsilon model. 1991: Dynamic Smagorinsky model. 1994: SST k-omega model. 1997: Detached Eddy Simulation.
-
-## Key References
-
-Pope, S.B. (2000). *Turbulent Flows*. Cambridge University Press. — The definitive graduate text.
-Tennekes & Lumley (1972). *A First Course in Turbulence*. MIT Press. — Classic introduction.
-Davidson, P.A. (2004). *Turbulence: An Introduction for Scientists and Engineers*. Oxford.
-Wilcox, D.C. (2006). *Turbulence Modeling for CFD* (3rd ed.). DCW Industries.
-Menter, F.R. (1994). "Two-Equation Eddy-Viscosity Turbulence Models." *AIAA Journal*, 32(8), 1598–1605.
-Sagaut, P. (2006). *Large Eddy Simulation for Incompressible Flows* (3rd ed.). Springer.
+The turbulent kinetic energy budget balances production P_k = −⟨u′ᵢu′ⱼ⟩(∂Ūᵢ/∂xⱼ), dissipation ε = ν⟨∂u′ᵢ/∂xⱼ ∂u′ᵢ/∂xⱼ⟩, turbulent transport, pressure diffusion, and viscous diffusion. In the log layer, P_k ≈ ε at equilibrium. The **Lumley triangle** [[ludwig-prandtl]]
 
 ## See Also
 
-- [[ludwig-prandtl]]
+- [[navier-stokes-equations-fluid-dynamics]]

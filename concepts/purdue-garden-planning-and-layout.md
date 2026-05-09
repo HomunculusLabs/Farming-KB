@@ -50,11 +50,7 @@ The most notoriously sensitive vegetable is the tomato. Other susceptible plants
 
 ### Safe Distance
 
-Because walnut tree roots remain active and continue releasing juglone for several years even after the tree is cut down, a **minimum distance of 50 feet** is recommended between walnut trees and juglone-sensitive plants. This is one of the most critical site-selection considerations for gardens located near walnut trees. See [[black-walnut-juglone-plant-toxicity]] for detailed information.
-
-## Creating a Garden Blueprint
-
-Before the season starts, create a rough sketch of the garden plot. Include which vegetables will be planted, which rows each vegetable will occupy, distance between rows, expected planting dates, and quantities of seed or transplants needed. Refer to the [[purdue-vegetable-planting-reference-table]] for specific spacing and timing data for each crop.
+Because walnut tree roots remain active and continue releasing juglone for several years even after the tree is cut down, a **minimum distance of 50 feet** is recommended between walnut trees and juglone-sensitive plants. This is one of the most critical site-selection considerations for gardens located near walnut trees. See [[purdue-vegetable-planting-reference-table]] for specific spacing and timing data for each crop.
 
 ### Recommended Layout: 20 by 50 Foot Garden
 
@@ -98,24 +94,6 @@ Rows of early-harvested crops can be replanted immediately with a different crop
 
 ## Soil pH Considerations
 
-Most vegetables perform best in slightly acidic soil with a pH of 6.0 to 6.8. Before planting, test your soil pH through your local county Extension office. Agricultural sulfur can be used to lower pH for crops like potatoes that prefer more acidic conditions. Lime is rarely needed in many midwestern soils and may actually adversely affect plant nutrition if applied unnecessarily. See [[soil-ph-management-for-vegetable-gardens]] for detailed pH adjustment guidelines.
-
-## Green Manure Rotation Strategy
-
-A highly satisfactory approach from the Purdue guide involves dividing the garden in half. Plant half to a winter green manure crop in September or early October (rye, wheat, barley, or winter vetch). Apply well-rotted animal manure to the other half, fall-plow it, and plant spring vegetables there. The following spring, turn under the green manure and plant summer vegetables in that section. Rotate these areas each year. After turning under green manure, wait about 3 weeks before planting to allow decomposition.
-
-## Equipment Essentials
-
-Standard equipment: hoe, rake, shovel, trowel, garden hose, sprinkler, duster or sprayer for pest control, fertilizer, mulch, short stakes and string for row marking, 7-8 foot stakes for tomatoes or pole beans. A long-handled wheeled cultivator aids weed control during the season. Rototillers can be rented in most communities for initial soil preparation. Deep rototilling is more practical for today's gardens than traditional plowing.
-
-## Realistic Planning
-
-Remember that besides planting and harvesting, you will need time to weed, water, cultivate, and thin seedlings throughout the season. Do not plan for more garden than you can properly maintain. An overcrowded, neglected garden produces less than a smaller, well-tended plot.
-
-## See Also
-
-- [[purdue-vegetable-planting-reference-table]]
-- [[purdue-four-step-garden-fertilization-program]]
+Most vegetables perform best in slightly acidic soil with a pH of 6.0 to 6.8. Before planting, test your soil pH through your local county Extension office. Agricultural sulfur can be used to lower pH for crops like potatoes that prefer more acidic conditions. Lime is rarely needed in many midwestern soils and may actually adversely affect plant nutrition if applied unnecessarily. See [[purdue-vegetable-planting-reference-table]]
 - [[purdue-vegetable-harvest-and-storage-guide]]
-- [[black-walnut-juglone-plant-toxicity]]
 - [[home-vegetable-garden-planning]]

@@ -1,7 +1,7 @@
 ---
 title: Spore Print
 created: 2026-04-28
-tags: [mycology, mushroom-identification, microscopy]
+tags: [[mycology, mushroom-identification, microscopy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
@@ -125,8 +125,6 @@ germination rates decline over time.
 
 ## See Also
 
-- [[psilocybin-mushroom]]
 - [[mycology]]
-- [[mushroom-cultivation]]
 - [[psilocybe-genus-diversity-and-taxonomy]]
 - [[fungal-taxonomy]]

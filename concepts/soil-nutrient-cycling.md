@@ -132,15 +132,9 @@ Cannot be relocated. Deficiency appears on NEWER leaves first:
 
 ## Related
 
-- [[plant-nutrient-mobility-in-soil]]
-## See Also
-
 - [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
 
-- [[soil-food-web-structure]] for the organisms that drive nutrient cycling
 - [[cannabis-soil-and-nutrient-requirements]] for specific nutrient needs of cannabis
-- [[jadam-natural-farming-philosophy]] for low-cost methods to support soil biology
 - [[fungal-chromogens-and-color-change]]
-- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

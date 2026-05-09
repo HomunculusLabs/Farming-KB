@@ -107,14 +107,9 @@ Yohimbe bark extracts present additional risks due to variable alkaloid content 
 
 ## See Also
 
-- [[pausinystalia-yohimbe]]
 - [[rauwolfia-serpentina]]
-- [[ephedra-sinica]]
 - [[ephedrine]]
-- [[atropine]]
 - [[scopolamine]]
-- [[dmt]]
-- [[psilocybin-compound]]
-- [[mdma]]
+- [[psilocybin]]
 - [[tryptamine]]
 - [[cactus-alkaloids-reference]]

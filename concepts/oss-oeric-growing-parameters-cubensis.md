@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Growing Parameters for Psilocybe Cubensis"
 created: 2026-04-28
-tags: [mycology, cultivation-parameters, temperature, humidity, oss-oeric]
+tags: [[mycology, cultivation-parameters, temperature, humidity, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -139,8 +139,6 @@ recommendations in the original guide.
 
 ## Related Topics
 
-- [[oss-oeric-terrarium-design-and-humidity]] for chamber design
 - [[oss-oeric-rice-cake-tek-methodology]] for substrate preparation
-- [[oss-oeric-contamination-troubleshooting]] for environmental issues
 - [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
 - [[oss-oeric-equipment-and-materials-list]]

@@ -114,7 +114,9 @@ Standard dosage ranges from 1–2 grams of dried chaga powder per cup of tea, co
 
 ## See Also
 
-- [[reishi-ganoderma-lucidum]] — another premier medicinal polypore with immunomodulatory properties
 - [[hericium-erinaceus]] — lion's mane mushroom, noted for neuroprotective effects
-- [[lentinula-edodes-entity]] — shiitake, a widely cultivated medicinal and culinary mushroom
 - [[pleurotus-ostreatus]] — oyster mushroom, easily cultivated and studied for biomedical applications
+
+## See Also
+
+- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

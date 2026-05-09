@@ -15,7 +15,7 @@ sources:
   - https://www.leafly.com/strains/lambs-bread
   - https://www.wikileaf.com/strain/lambs-bread/
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
-  - Emboden, W. (1972). "Ritual Use of Cannabis Sativa L." Economic Botany.
+  - Emboden, W. (1972). "Ritual Use of [[cannabis-sativa]] L." Economic Botany.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. C.C. Thomas.
 ---
 
@@ -117,8 +117,5 @@ Cannabis remains illegal in Jamaica for recreational use, though decriminalizati
 
 ## See Also
 
-- [[lamb-bread]]
-
 - [[blue-dream-strain]]
-- [[girl-scout-cookies]]
 - [[acdc-cannabis-strain]]

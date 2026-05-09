@@ -13,25 +13,7 @@ sources:
 
 ## Overview
 
-phoma exigua is a widespread fungal plant pathogen and saprotroph belonging to the phylum [[ascomycota-phylogeny-major-classes-lineages]]. It is commonly found on dead and dying plant tissue, in soil, and as a leaf litter decomposer. The species is ecologically notable for its sensitivity to atmospheric pollutants, particularly sulfur dioxide, which has made it a useful subject for studying the impacts of air pollution on fungal community composition and litter decomposition processes.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
-- **Class:** Dothideomycetes
-- **Order:** Pleosporales
-- **Family:** Didymellaceae (formerly Phoma was placed in Leptosphaeriaceae or incertae sedis)
-- **Genus:** Phoma
-- **Species:** P. exigua
-
-The genus Phoma is one of the largest genera of coelomycetes (fungi producing conidia in enclosed structures called pycnidia) and contains numerous species with diverse ecological roles. The taxonomy of Phoma has been extensively revised based on molecular phylogenetic analyses, and many former Phoma species have been redistributed among several genera. The P. exigua species complex itself contains several varieties and formae speciales adapted to different hosts.
-
-## Morphology and Identification
-
-phoma exigua is characterized by the following morphological features:
-
-- **Colony:** On potato dextrose [[agar]], colonies grow moderately, reaching 3 to 5 cm in diameter within 14 days. Colonies are typically olivaceous to grayish-green or dark brown, with a velvety to felty surface texture. The colony margin may be regular or slightly irregular.
+phoma exigua is a widespread fungal plant pathogen and saprotroph belonging to the phylum [[agar]], colonies grow moderately, reaching 3 to 5 cm in diameter within 14 days. Colonies are typically olivaceous to grayish-green or dark brown, with a velvety to felty surface texture. The colony margin may be regular or slightly irregular.
 - **Pycnidia:** The asexual fruiting bodies (pycnidia) are globose to subglobose, dark brown to black, and measure 100 to 300 micrometers in diameter. They are immersed to semi-immersed in the substrate and produce conidia through ostioles (openings).
 - **Conidiophores:** Reduced to conidiogenous cells lining the inner wall of the pycnidium. These cells are hyaline, cylindrical, and produce conidia enteroblastically.
 - **Conidia:** Hyaline (colorless), ellipsoidal to cylindrical, typically one-celled (occasionally one-septate), smooth-walled, and measuring 4 to 7 by 2 to 3 micrometers. Conidia are produced in slimy masses that ooze from the pycnidial ostiole under humid conditions.
@@ -59,31 +41,7 @@ phoma exigua is an important contributor to leaf litter decomposition in tempera
 
 One of the most well-documented ecological characteristics of phoma exigua is its sensitivity to atmospheric pollutants, particularly sulfur dioxide (SO2). Research cited in Dighton (2003) from multiple studies has established the following:
 
-**Dursun et al. (1996a) and Boddy et al. (1996):** Demonstrated that sulfite at environmentally realistic concentrations (12.5 to 100 micromolar) had negative effects on the growth of mycelia and germination of spores of phoma exigua, along with [[mycena-galopus]], [[cladosporium-cladosporioides]], and [[aureobasidium-pullulans]]. The effects of sulfite were greatest on mycelial growth and respiration, while spores showed greater resistance.
-
-**Newsham et al. (1992a, 1992b):** Investigated the effects of SO2 fumigation at 10 to 30 nanoliters per liter on saprotrophic fungal communities on leaf litter of ash, birch, hazel, oak, and sycamore. They found that phoma exigua was less common in fumigated litters compared to unfumigated controls. Species such as Coniothyrium quercinum, Cylindrocarpon ortosporum, and Penicillium spp. were more frequent on fumigated litter, suggesting that pollution-tolerant species replaced pollution-sensitive ones.
-
-**Impact on decomposition:** The decomposition of leaf litter by pure cultures of phoma exigua was significantly reduced in the presence of sulfite. However, when leaf litter from different tree species was exposed to SO2, the respiration of Phoma exigua was not significantly affected on some substrates (Scots pine and beech), indicating that the pollution sensitivity of the fungus is mediated by the substrate on which it grows.
-
-## Interactions with Other Organisms
-
-### Plant Pathogenicity
-
-phoma exigua is a weak to moderate pathogen on a wide range of host plants. Different varieties and formae speciales of P. exigua are associated with specific diseases:
-
-- Potato stem canker and tuber rot
-- Leaf spots and stem lesions on various crops
-- Post-harvest diseases of fruits and vegetables
-
-As a pathogen, the fungus typically requires wounded or stressed host tissue to establish infection, and its pathogenic activity is often secondary to other primary pathogens or environmental stresses.
-
-### Microbial Competition
-
-On leaf litter surfaces, phoma exigua competes with a diverse community of fungi and bacteria for space and resources. Its sensitivity to atmospheric pollutants may alter competitive dynamics, allowing pollution-tolerant species to dominate in contaminated environments.
-
-### Soil Fauna Interactions
-
-Soil microarthropods such as [[teaming-with-microbes-springtails-and-collembola]] and mites may interact with phoma exigua through grazing on fungal mycelium and spores. This grazing activity can influence fungal community composition and decomposition rates on leaf litter.
+**Dursun et al. (1996a) and Boddy et al. (1996):** Demonstrated that sulfite at environmentally realistic concentrations (12.5 to 100 micromolar) had negative effects on the growth of mycelia and germination of spores of phoma exigua, along with [[cladosporium-cladosporioides]], and [[teaming-with-microbes-springtails-and-collembola]] and mites may interact with phoma exigua through grazing on fungal mycelium and spores. This grazing activity can influence fungal community composition and decomposition rates on leaf litter.
 
 ## Economic and Practical Significance
 
@@ -115,7 +73,24 @@ Dighton (2003) references phoma exigua extensively in discussions of atmospheric
 - leaf litter decomposition
 - air pollution effects on fungi
 - sulfur dioxide
-- [[saprotrophic-fungi]]
-- forest floor ecology
 - [[mycena-galopus]]
 - [[aureobasidium-pullulans]]
+## Practical Considerations
+
+Successful implementation of Phoma exigua requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

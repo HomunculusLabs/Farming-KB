@@ -125,8 +125,6 @@ La France virus pathogen.
 
 ## See Also
 
-- [[oyster-green-mold-disease]]
 - [[oyster-brown-blotch-disease]]
-- [[oyster-insect-pests]]
 - [[oyster-fruiting-abnormalities]]
 - [[mushroom-grain-spawn-preparation]]

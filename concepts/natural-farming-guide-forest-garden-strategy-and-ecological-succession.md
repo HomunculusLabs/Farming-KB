@@ -1,5 +1,5 @@
 ---
-title: Forest Garden Strategy and Ecological Succession
+title: Forest Garden Strategy and ecological succession
 created: 2026-04-28
 tags: [forest-garden, food-forest, ecological-succession, polyculture, guilds,
       companion-planting, permaculture-design, plant-communities, sustainable-yields]
@@ -17,9 +17,7 @@ shade-loving shrubs, which shade groundcover herbs. On the edges, edible plants
 that like the sun form a self-sufficient community that maintains itself with
 less effort than conventional gardens.
 
-## Ecological Succession vs. [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-Companion planting is not the same as ecological succession. Ecological
+## Ecological Succession vs. [[companion-planting]] is not the same as ecological succession. Ecological
 succession is a process by which cleared soil fixes itself through certain
 species of plants that grow one after the other over years or decades. Companion
 planting is a system of growing plants close to each other that have beneficial
@@ -48,7 +46,7 @@ breaks up soil so later stages can flourish without human effort.
 4. When weeds have been broken down and soil seems ready, fence off the area
    and begin growing legumes and shrubs suited to your climate.
 
-5. Add [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]], [[natural-farming-guide-cover-cropping-and-green-manures]] crops, and compost to improve the soil.
+5. Add [[natural-farming-guide-cover-cropping-and-green-manures]] crops, and compost to improve the soil.
 
 6. Plant a group of trees as a nucleus or center of your garden. Chickens may
    be allowed in to forage at this phase.
@@ -82,11 +80,7 @@ work.
 
 Diversity gives more security. If you have a bad year for vegetables, you still
 have tree fruits, nuts, or other crops. When planting all kinds of different
-crops in one place mimicking a forest, [[natural-farming-guide-cover-cropping-and-green-manures]] is unnecessary.
-
-## Choosing Species for Plant Communities
-
-[[faires-plant-communities-and-guilds]] (guilds) organize plants around a central element
+crops in one place mimicking a forest, [[faires-plant-communities-and-guilds]] (guilds) organize plants around a central element
 based on companion planting and growing tendencies. When choosing species,
 consider: What stage is the plant? Is it deciduous or evergreen? How high does
 it grow? Do roots invade other plants' space? How quickly does it grow and die?
@@ -103,7 +97,7 @@ with many communities that all interact in one mega-community.
 
 ## Long-Term Considerations
 
-Forest gardens are experimental and unique. They take at least a decade to
+[[forest-gardens]] are experimental and unique. They take at least a decade to
 establish and even longer to become profitable. There is no strict formula, and
 every climate and microclimate is different. The goal is many eggs in many
 baskets, rather than one crop that can fail. Forest gardens should need only a
@@ -147,4 +141,3 @@ ensures informed decisions when designing new plant communities.
 ## Yield Comparisons
 
 In a traditional monoculture farm, each plant can grow as large as possible
-and produce maximum fruit. In a polyculture forest garden, individual plants

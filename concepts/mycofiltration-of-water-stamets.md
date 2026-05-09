@@ -14,44 +14,8 @@ Updated: 2026-04-18
 
 Mycofiltration is the use of fungal mycelial mats to filter biological and chemical contaminants from water. Developed by Paul Stamets in the 1990s, the technique uses the natural enzymatic and antibiotic properties of mushroom mycelium to clean water flowing through constructed or natural filtration beds. Mycofiltration represents one of the four pillars of mycorestoration-overview|mycorestoration.
 
-Source: [[mycelium-running-techniques]]
-
-***
-
-## How Mycofiltration Works
-
-### The Mycelial Mat
-
-The foundation of mycofiltration is the mycelial mat — a dense network of fungal hyphae that grows through a substrate (typically wood chips or straw). This mat functions as a living filter through several mechanisms:
-
-1. **Physical filtration** — the dense hyphal network traps particles, bacteria, sediment, and organic debris
-2. **Biological filtration** — mycelium secretes antibiotics and antimicrobial compounds that kill or inhibit pathogens
-3. **Enzymatic degradation** — fungal enzymes (lignin peroxidases, manganese peroxidases, laccases) break down organic and chemical contaminants
-4. **Bioaccumulation** — some contaminants (heavy metals, phosphorus) are absorbed and concentrated in fungal tissue
-5. **Thermal regulation** — the mycelial mat insulates water, cooling it before it enters streams (beneficial for temperature-sensitive fisheries)
-
-### Species Selection
-
-The primary species used for mycofiltration is [[stropharia-rugoso-annulata-mycofiltration]] (wine-cap/garden giant), but other species can be incorporated:
-- **Pleurotus ostreatus** ([[cotter-mycoremediation-overview]]) — for petroleum and chemical filtration
-- **Trametes versicolor** (turkey tail) — for pathogen and chemical filtration
-- Mixed species matrices combining white rot, brown rot, and mycorrhizal fungi are recommended for future development
-
-***
-
-## Applications
-
-### Agricultural Runoff
-
-Mycofiltration beds placed at the edges of agricultural fields filter:
-- **Fecal coliform bacteria** — from livestock operations
-- **Nitrogen and phosphorus** — from fertilizer runoff
-- **Pesticides and herbicides** — chemical residues
-- **Sediment** — eroded topsoil
-
-### Road Reclamation
-
-See [[tahuya-forest-road-reclamation]] for detailed documentation. Mycofiltration mats on logging roads:
+Source: [[stropharia-rugoso-annulata-mycofiltration]] (wine-cap/garden giant), but other species can be incorporated:
+- **Pleurotus ostreatus** ([[tahuya-forest-road-reclamation]] for detailed documentation. Mycofiltration mats on logging roads:
 - Reduce sediment flow into streams
 - Filter hydrocarbons (oil, diesel) from road surfaces
 - Cool water flowing into fisheries
@@ -130,9 +94,6 @@ Mycofiltration installations provide benefits beyond water quality:
 
 ## Related Topics
 
-- [[stropharia-rugoso-annulata-mycofiltration]]
 - [[tahuya-forest-road-reclamation]]
-- [[mycorestoration-overview]]
 - [[mycoforestry-principles-stamets]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[mycelium-running-multi-kingdom-bioremediation]]

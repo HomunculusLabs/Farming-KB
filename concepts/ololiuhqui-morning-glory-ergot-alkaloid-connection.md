@@ -13,29 +13,7 @@ sources:
 
 ## Overview
 
-Hofmann's analysis of ololiuhqui — the sacred morning-glory seeds used in Mesoamerican divination — revealed that their psychoactive constituents were ergot alkaloids identical to those found in [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] (ergot of grain). This discovery provided a crucial pharmacological bridge between the [[mazatec-mushroom-culture-and-velada]] and [[wasson-hofmann-ruck-collaboration]] entheogenic hypotheses.
-
-## Hofmann's Analysis
-
-"Encouraged by our success with the hallucinogenic mushrooms, I decided to tackle also the problem of another psychotropic Mexican plant, ololiuhqui." With Wasson's help, Hofmann obtained authentic ololiuhqui seeds of two morning-glory species: Turbina corymbosa (L.) Raf. and Ipomoea violacea L.
-
-When analyzed, "these ancient drugs that we are apt to call 'magical' and the Indians consider divine, contained as their psychoactive principles some of our already familiar ergot alkaloids."
-
-## The Alkaloids
-
-The main psychoactive components of ololiuhqui were:
-
-- **Lysergic acid amide** (= "ergine")
-
-- **Lysergic acid hydroxyethylamide**
-
-- **Ergonovine** (the uterotonic principle of ergot)
-
-These are "water-soluble alkaloids, closely related to lysergic acid diethylamide (LSD), as is evident even to the non-chemist."
-
-## The Paspalum Connection
-
-"The main constituents of the Mexican morning glory seeds are (a) lysergic acid amide, and (b) lysergic acid hydroxyethylamide, and these are also the main alkaloids in ergot growing on the wild grass Paspalum distichum L." This grass "grows commonly all around the Mediterranean basin and is often infected with [[claviceps-paspali-alkaloids]]."
+Hofmann's analysis of ololiuhqui — the sacred morning-glory seeds used in Mesoamerican divination — revealed that their psychoactive constituents were ergot alkaloids identical to those found in [[mazatec-mushroom-culture-and-velada]] and [[claviceps-paspali-alkaloids]]."
 
 F. Arcamone et al. first discovered these alkaloids in ergot of P. distichum in 1960.
 
@@ -49,7 +27,7 @@ This discovery was critical because it established that water-soluble, hallucino
 
 3. The same alkaloid families used in Mesoamerican rituals were chemically accessible to ancient Greeks
 
-The [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] could be extracted "with the techniques and equipment available in antiquity" from suitable kinds of ergot, making the [[kykeon-composition-and-ergot-alkaloid-hypothesis]] pharmacologically plausible.
+The [[kykeon-composition-and-ergot-alkaloid-hypothesis]] pharmacologically plausible.
 
 ## Relative Potency
 
@@ -57,15 +35,9 @@ The psychoactive alkaloids in ololiuhqui are less potent than LSD: their potency
 
 ## Wasson's Role in Obtaining Authentic Seeds
 
-The identification of ololiuhqui's alkaloids depended on obtaining genuine ceremonial seeds rather than commercially available horticultural varieties. [[gordon-wasson-mushroom-discovery]] played a crucial role in this process, using his established relationships with indigenous communities in Oaxaca to source seeds that had been used in actual [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]].
+The identification of ololiuhqui's alkaloids depended on obtaining genuine ceremonial seeds rather than commercially available horticultural varieties. [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]].
 
-The difficulty of obtaining authentic material reflected a broader pattern: the most potent ethnobotanical specimens were those preserved within living ritual traditions, rather than those available through commercial botanical supply chains. This insight informed Wasson's approach to the entire [[sandoz-delysid-research-program]].
-
-## Preparation Methods in Mesoamerican Tradition
-
-Indigenous preparation of ololiuhqui involved grinding the seeds and soaking them in water — essentially the same simple water extraction that would have separated water-soluble ergot alkaloids from insoluble plant material. The Mazatec and other Mesoamerican peoples who used ololiuhqui typically consumed the cold-water infusion after extended steeping, sometimes overnight.
-
-This preparation method is pharmacologically significant because it would have selectively dissolved the water-soluble alkaloids (lysergic acid amide, lysergic acid hydroxyethylamide, and ergonovine) while leaving behind fats, proteins, and other non-polar compounds that might cause gastrointestinal distress. The parallel with the hypothesized [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] is striking: both traditions used water extraction as the primary method for accessing ergot alkaloids.
+The difficulty of obtaining authentic material reflected a broader pattern: the most potent ethnobotanical specimens were those preserved within living ritual traditions, rather than those available through commercial botanical supply chains. This insight informed Wasson's approach to the entire [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] is striking: both traditions used water extraction as the primary method for accessing ergot alkaloids.
 
 ## The Ergot Fungus in Morning Glories
 
@@ -75,16 +47,69 @@ This discovery expanded the known range of ergot alkaloid-producing fungi beyond
 
 ## Related Concepts
 
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-
 - [[claviceps-paspali-alkaloids]]
 
-- [[hofmann-ergonovine-self-experiment-detail]]
-
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
-
-- [[mazatec-mushroom-culture-and-velada]]
 
 - [[wasson-hofmann-ruck-collaboration]]
 
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
+## Practical Considerations
+
+When working with Ololiuhqui, Morning Glory, and the Ergot Alkaloid Connection, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -3,7 +3,7 @@ title: Cool Climate Home Garden (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, season-extension, microclimate]
+tags: [[permaculture, design, season-extension, microclimate]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -82,11 +82,7 @@ When saving seed from any umbelliferous plant, collect the strong, mature seed f
 
 ## See Also
 
-- [[seed-saving-seed-resources-mollison]]
 - [[greenhouse-growing-essentials]]
-- [[greenhouse-design]]
 - [[berry-fruit-production-in-permaculture]]
-- [[backyard-orchard-design]]
 - [[cold-climate-permaculture-guide]]
-- [[permaculture-designers-manual-seed-saving-varieties]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]

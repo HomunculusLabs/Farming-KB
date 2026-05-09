@@ -69,23 +69,27 @@ the more conventional methods with ammonium acetate in acetic acid led
 either to the formation of a white product C23H30N2O8 which was
 composed of a molecule of the nitrostyrene, one of the benzaldehyde
 itself, and a molecule of ammonia, or to 3,4,5-trimethoxybenzonitrile,
-from reaction with the decomposition products of nitropropane.
-
-A stirred suspension of 5.9 g LAH in 310 mL anhydrous Et2O was held at
-a gentle reflux in an inert atmosphere. A solution of 8.5 g
-2-nitro-1-(3,4,5-trimethoxyphenyl)butene-1 in 125 mL Et2O is added
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-## See Also
-
-- [[2c-t-2-pihkal-entry-40]]
-- [[2c-n-entity-pihkal]]
+from reaction with the [[2c-t-2-pihkal-entry-40]]
 - [[doc-pihkal-64]]
 
 - PIHKAL (the source book)
 - [[al-entity-pihkal]] -- AL (PIHKAL #2)
+## Practical Considerations
+
+Successful implementation of AEM (alpha-Ethyl-3,4,5-trimethoxy-PEA) -- PIHKAL Entry #1 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

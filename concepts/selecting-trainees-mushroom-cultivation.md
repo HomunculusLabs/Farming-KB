@@ -1,5 +1,5 @@
 ---
-title: Selecting Trainees for Mushroom Cultivation
+title: Selecting Trainees Mushroom Cultivation
 created: 2026-04-28
 tags: [trainee-selection, disability-inclusion, training-program,
   screening-criteria, mushroom-cultivation]
@@ -127,7 +127,9 @@ disabled people to apply.
 
 ## Related Concepts
 
-- [[rehabilitation-through-mushroom-cultivation]]
 - [[motivational-sessions-trainees]]
-- [[training-program-mushroom-cultivation]]
 - [[buildings-tools-equipment-mushroom-cultivation]]
+
+## See Also
+
+- [[query-what-are-the-stages-of-mushroom-cultivation]]

@@ -135,13 +135,8 @@ to the forest floor and support diverse invertebrate communities.
 
 ## See Also
 
-- [[amanita-pantherina]]
-- [[amanita-muscaria]]
-- [[amanita-phalloides]]
+- [[amanita-muscaria-entity]]
 - [[amanita-rubescens]]
-- [[amanita-vaginata]]
 - [[cortinarius-violaceus]]
-- [[mycotoxins]]
 - [[paxillus-involutus]]
-- [[amanita-jacksonii]]
 - [[amanita-velosa]]

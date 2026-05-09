@@ -11,9 +11,7 @@ tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 
 ## Overview
 
-DOB (2,5-dimethoxy-4-bromoamphetamine) is a potent [[phenethylamine-receptor-pharmacology]] and a member of the DOx family of substituted amphetamines. It is one of the most well-known and longest-lasting psychedelic amphetamines, first synthesized by Alexander Shulgin in 1967. The compound is characterized by an extremely low active dose (1-3 mg) and an exceptionally long duration of 18-30 hours.
-
-DOB is classified as a [[psychedelic-microdosing]] with significant stimulant properties due to its amphetamine backbone. It is among the most potent compounds in the entire PIHKAL collection and has been the subject of both pharmacological research and significant harm-reduction concerns due to its potential for dangerous overdose when misrepresented as other substances.
+DOB (2,5-dimethoxy-4-bromoamphetamine) is a potent [[psychedelic-microdosing]] with significant stimulant properties due to its amphetamine backbone. It is among the most potent compounds in the entire PIHKAL collection and has been the subject of both pharmacological research and significant harm-reduction concerns due to its potential for dangerous overdose when misrepresented as other substances.
 
 ## Chemical Identity
 
@@ -97,25 +95,5 @@ DOB contains a heavy bromine atom, making radioactive isotope-labeled material (
 
 ## Comparisons
 
-- vs. [[doi-pihkal-67]]: Both are DOx compounds with heavy halogen atoms. DOI (iodine) is the most potent of the series. DOB (bromine) is slightly less potent but shares the extremely long duration and slow onset characteristic of the DOx family.
 - vs. [[dom-pihkal-68]]: DOM (2,5-dimethoxy-4-methylamphetamine) is another classic DOx compound but with a methyl group instead of bromine. DOM is less potent and has a somewhat shorter duration.
-- vs. [[doet-pihkal-66]]: Shulgin noted that LSD can cut through the residual effects of DOB, producing a direct jump to a +++ experience even 18+ hours after DOB ingestion.
-- vs. 2C-B: 2C-B is the phenethylamine (2-carbon) analogue of DOB, with lower potency and shorter duration but similar visual character.
-
-## Harm Reduction
-
-**CRITICAL WARNING:** DOB has been involved in multiple overdose deaths, primarily due to misrepresentation. Users have mistakenly taken DOB believing it was MDA or another substance with a much higher active dose range. DOB's active dose is measured in milligrams, while substances like MDA require doses 50-100x higher.
-
-- Never assume the identity of any illicit substance. DOB is commonly misrepresented on blotter as LSD or as other compounds
-- Due to the 18-30 hour duration, plan for a full two days of altered state
-- Start with a very low test dose (0.5 mg or less) if identity is confirmed
-- The S-isomer is essentially inactive, so optical purity of samples is a significant variable
-- Mouse toxicity studies showed LD50 between 100-125 mg/Kg (ip), giving a theoretical safety index of over 1000x the active dose. However, human overdose cases have demonstrated that the actual safety margin is much narrower due to vasoconstriction and arterial vascular spasm
-- Cases of coma lasting several weeks have been reported following massive overdose
-- See [[psychedelic-harm-reduction]] and [[harm-reduction-guide]] for general principles
-
-## References
-
-- Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #62.
-- Shulgin, A.T. et al. (1971). "Psychotomimetic amphetamines." Journal of Medicinal Chemistry.
-- [[psychedelic-research-legal-history-united-states]]
+- vs. [[psychedelic-harm-reduction]] and [[psychedelic-research-legal-history-united-states]]

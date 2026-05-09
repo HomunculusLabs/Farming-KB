@@ -5,15 +5,12 @@ updated: 2026-04-24
 sources:
   - raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
-tags: [mushroom-cultivation]
----
-
-# Cuthill on [[mushroom-house-design-management]] Construction and Management
+tags: [[mushroom-house-design-management]] Construction and Management
 
 Cuthill devoted considerable attention to the structures used for
 cultivating mushrooms, ranging from purpose-built houses to improvised
 shelters. His descriptions provide a detailed picture of 19th-century
-mushroom-[[permaculture-house-design-principles]].
+mushroom.
 
 ## The Oldacre Mushroom House
 
@@ -143,6 +140,8 @@ with three legs on each side near the head) that devoured newly-formed
 buttons. This could only be controlled by uncovering small sections of
 ## See Also
 
-- [[acid-house-rave-culture-and-second-mushroom-boom]]
-
 - [[tropical-mushroom-house-construction]]
+
+## See Also
+
+- [[duggar-mushroom-house-construction-and-management]]

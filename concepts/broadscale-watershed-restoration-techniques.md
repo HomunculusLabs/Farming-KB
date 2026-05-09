@@ -107,35 +107,10 @@ In urban areas, guerrilla gardeners can plant native species that
 survive on local rainfall, bringing the natural world into the heart
 of the city. The trees' roots reach deep into the soil to hold it in
 place, tapping into underground water sources and sharing nutrients
-along webs of [[mycorrhizal-fungi]]. Their shade and mulch allow other
-plants to grow, reweaving the web of life that existed before
-urbanization.
+along webs of [[tree-canopy-fungal-sampling-techniques]]
 
-## Check Dams for Gullies
-
-In areas where erosion has already created gullies or channels, check
-dams can be installed to slow water flow and capture sediment. Check
-dams are small barriers built across gullies using rocks, logs, straw
-bales, or other available materials. They do not completely stop
-water flow but slow it enough for sediment to drop out behind the dam,
-gradually filling in the gully and restoring the slope to a more
-stable condition. Over time, a series of check dams can transform an
-eroded gully into a productive terraced landscape.
-
-## Integration with Broadscale Design
-
-Restoration techniques should be integrated with broader landscape
-design. The restored areas should be planned as part of a larger
-system that includes productive elements. Trees planted on swales and
-terraces can be selected for multiple yields: fruit, nut, timber,
-fodder, or nitrogen fixation. As the restoration matures, the
-initial earthworks and structures fade into the landscape, replaced
-by a productive, self-maintaining polyculture that continues to
-stabilize the watershed and generate yields simultaneously.
+- [[broadscale-permaculture-techniques-mollison]]
 
 ## See Also
 
-- [[tree-canopy-fungal-sampling-techniques]]
-
-- [[broadscale-restoration-watershed-repair]]
-- [[broadscale-permaculture-techniques-mollison]]
+- [[urban-broadscale-restoration-watershed-repair]]

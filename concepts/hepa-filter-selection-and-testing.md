@@ -10,38 +10,11 @@ sources:
 ---
 # HEPA Filter Selection and Testing for Mushroom Cultivation
 
-HEPA (High Efficiency Particulate Air) filtration is the cornerstone of [[sterile-technique-mushroom-cultivation]] in mushroom cultivation. Understanding HEPA filter specifications, selection criteria, and testing methods is essential for building or purchasing an effective [[laminar-flow-hood-diy-construction]].
+HEPA (High Efficiency Particulate Air) filtration is the cornerstone of [[laminar-flow-hood-diy-construction]].
 
 ## What HEPA Filters Do
 
-HEPA filters remove 99.99% of all airborne materials including dust, spores, mycelia, bacteria, and other particulate contamination. Room air is drawn through the filter and delivered as a sterile laminar stream into the working area of a [[comparison-laminar-flow-hood-vs-fruiting-chamber]].
-
-## HEPA Filter Standards and Classes
-
-### European Standard (EN 1822)
-
-| Class | Local Efficiency | Overall Efficiency |
-|-------|-----------------|-------------------|
-| H10 | 85% | 85% |
-| H11 | 95% | 95% |
-| H12 | 99.5% | 99.5% |
-| H13 | 99.95% | 99.95% |
-| **H14** | **99.995%** | **99.995%** |
-| U15 | 99.9995% | 99.9995% |
-| U16 | 99.99995% | 99.99995% |
-| U17 | 99.999995% | 99.999995% |
-
-For mushroom cultivation, **H14 class** is the recommended minimum. This removes 99.995% of particles at the Most Penetrating Particle Size (MPPS), typically 0.1-0.3 micrometers. Mushroom spores range from 5-20 micrometers, well within the capture range.
-
-### US Standard (DOE-STD-3020)
-
-US HEPA filters must capture 99.97% of particles 0.3 micrometers in diameter. This standard is roughly equivalent to the European H13 class.
-
-## Filter Types for Flow Hoods
-
-### Traditional Deep- Pleat HEPA
-
-The most common type for DIY [[laminar-flow-hood-diy-construction]]. Typically 6 inches (15 cm) deep with aluminium or cardboard separators between pleats. Dimensions commonly available:
+HEPA filters remove 99.99% of all airborne materials including dust, spores, mycelia, bacteria, and other particulate contamination. Room air is drawn through the filter and delivered as a sterile laminar stream into the working area of a [[laminar-flow-hood-diy-construction]]. Typically 6 inches (15 cm) deep with aluminium or cardboard separators between pleats. Dimensions commonly available:
 - 24" x 30" x 6" (61 x 76 x 15 cm)
 - 24" x 24" x 6" (61 x 61 x 15 cm)
 - 12" x 24" x 6" (30 x 61 x 15 cm)
@@ -61,34 +34,7 @@ Required airflow (CFM or m³/h) = Filter face area × Desired face velocity
 Typical face velocity: 0.3-0.5 m/s (60-100 fpm)
 ```
 
-The blower must be sized to overcome both the HEPA filter pressure drop (typically 150-250 Pa when clean) and the prefilter resistance. See [[laminar-flow-hood-diy-construction]] for detailed blower sizing calculations.
-
-## Prefilters
-
-A prefilter extends HEPA life by removing large particles before they reach the expensive HEPA media:
-
-- **Extended surface air filters** (as used in the Forister & Burger design): 16" x 20" x 2", available in cases of 6
-- **Washable foam pre-filters**: Reusable, lower initial cost
-- **Synthetic media prefilters**: Better filtration, disposable
-
-The Forister & Burger design used Dayton pre-filters housed between the blower and the HEPA filter.
-
-## Multi-Station Flow Hood Designs
-
-The Forister & Burger paper describes an innovative design connecting two laminar flow hoods to one blower via dryer vent hose:
-
-- **Fan housing**: Plywood box (3/4" thick, 4' x 8' sheet) housing a direct-drive blower (Dayton #5C094)
-- **Air distribution**: Top center panel with six 4" diameter holes connected to aluminium irrigation pipe hose attachments
-- **Connection**: Dryer vent hose and clamps connect the fan housing to each hood
-- **Switch**: Rotary switch (ELECTROSWITCH #21301A series 21) with custom recessed mounting
-
-This design allows one blower to serve multiple workstations, reducing overall cost. The motor is capable of driving additional outlets beyond the six described.
-
-## Open Petri Plate Contamination Testing
-
-The effectiveness of any laminar flow hood should be verified through contamination testing:
-
-1. Prepare nutrient agar plates ([[cotter-agar-tissue-culture-techniques]])
+The blower must be sized to overcome both the HEPA filter pressure drop (typically 150-250 Pa when clean) and the prefilter resistance. See [[cotter-agar-tissue-culture-techniques]])
 2. Expose the open plates in the working area of the flow hood for a set time (5-30 minutes)
 3. Close the plates, label, and incubate at room temperature
 4. Check for colony growth after 3-7 days
@@ -120,10 +66,26 @@ Modern equivalents would cost significantly more due to inflation, but the propo
 
 ## See Also
 
-- [[laminar-flow-hood-diy-construction]] — complete DIY construction guide
 - [[laminar-flow-hood-guide]] — laminar flow hood usage and protocol
-- [[mushroom-laminarar-flow-hood]] — laminar flow hood overview
-- [[mushroom-cultivation-fundamentals]] — sterile technique principles
-- [[mushroom-sterile-technique-detailed]] — detailed sterile procedures
+- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — sterile technique principles
 - [[contamination-identification-prevention]] — contamination identification and prevention
 - [[agar-work-guide]] — agar work in the flow hood
+## Practical Considerations
+
+Successful implementation of HEPA Filter Selection and Testing for Mushroom Cultivation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

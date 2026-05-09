@@ -20,33 +20,6 @@ uniform conditions for multiple fruiting blocks. The choice depends on scale goa
 budget, and cultivation experience.
 
 ## Martha Tent
-[[martha-tent-mushroom-growing]]
-A Martha tent is a freestanding zippered vinyl greenhouse (typically 48-72 inches tall, 24-36
-inches wide) adapted for mushroom cultivation by adding an ultrasonic humidifier on a
-humidistat (maintaining 85-95% relative humidity), an exhaust fan for fresh air exchange (2-4
-air changes per hour), a HEPA-filtered intake, circulating fans for even air distribution, and
-12/12 LED or fluorescent lighting. Multiple wire shelves hold fruiting blocks, monotubs, or
-trays at different levels, maximizing vertical growing space. The humidifier at the bottom and
-exhaust at the top create natural convection that circulates humid air throughout the
-enclosure.
-
-Martha tents dramatically increase growing capacity compared to single-chamber setups. A single
-tent can hold dozens of fruiting blocks or multiple monotubs simultaneously, making it the
-preferred setup for cultivators working with supplemented sawdust blocks, tray cultures, or
-multiple species. The environmental controls provide more uniform conditions than passive
-fruiting chambers, and the zippered enclosure protects against ambient room conditions (dry air,
-temperature fluctuations, contamination). Setup costs are moderate ($200-400 for tent,
-humidifier, fans, and controls), far less than building a dedicated grow room.
-
-The limitations include vulnerability to ambient room conditions — a very dry, hot, or cold
-room can overwhelm the tent's environmental controls. Vinyl material can tear and zippers fail
-with heavy use. The enclosed space means condensation can pool at the bottom, promoting
-bacterial blotch on lower shelves. Metabolic heating from multiple colonizing or fruiting
-blocks can raise internal temperature several degrees above ambient. The tent provides less
-precise control than a purpose-built grow room, and maintenance (cleaning, humidifier refilling,
-filter replacement) is ongoing.
-
-## Monotub Cultivation
 [[monotub-cultivation]]
 A monotub is a single plastic storage bin (50-110 quart) modified with two sizes of holes: 2-inch
 holes near the bottom stuffed loosely with polyfill for fresh air exchange, and 1-inch holes
@@ -124,8 +97,6 @@ use.
 
 ## See Also
 
-- [[comparison-monotub-vs-pf-tek]]
 - [[fruiting-chamber-design]]
-- [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[monotub-cultivation]]
 - [[martha-tent-mushroom-growing]]

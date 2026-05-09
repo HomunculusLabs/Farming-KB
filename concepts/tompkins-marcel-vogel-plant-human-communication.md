@@ -115,11 +115,8 @@ emotions."
 
 ## Related
 
-- [[tompkins-lawrence-biological-interstellar-communication]] Topics
-
 - [[tompkins-cleve-backster-primary-perception]] for the original
   experiments that inspired Vogel's investigations
-- [[tompkins-plant-electrical-signals]] for bioelectrical phenomena
 - [[tompkins-plants-response-to-human-intent]] for further research
   on plant consciousness
 - [[tompkins-kirlian-photography-plant-auras]] for visual documentation

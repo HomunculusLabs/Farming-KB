@@ -8,9 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-lighting-guide]]
-
-From [[greg-green]]'s *The Cannabis Grow Bible* (4th ed.), Chapter 5.
+# [[greg-green]]'s *The Cannabis Grow Bible* (4th ed.), Chapter 5.
 
 Light is the most important factor in bud development. The two most
 fundamental factors in high-yield growth are Strains (good genetics)
@@ -147,3 +145,7 @@ something white. White is the best color for reflecting light, period.
 Not shiny glossy white, just plain flat white.
 ## See Also
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+
+## See Also
+
+- [[cannabis-lighting-guide]]

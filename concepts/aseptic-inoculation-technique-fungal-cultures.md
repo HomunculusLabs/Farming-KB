@@ -2,30 +2,10 @@
 title: Aseptic Inoculation Technique for Fungal Cultures
 created: 2026-04-28
 tags:
-  - mycology
-  - inoculation
-  - contamination-prevention
-  - sterile-technique
-  - spore-syringe
-  - fungal-culture
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - guid-mhtml_file___e___textos__mycology__exotic_.md
-type: concept
----
-
-# Aseptic Inoculation Technique for Fungal Cultures
-
-Inoculation — the introduction of fungal inoculum into a sterile substrate — is the step where contamination is most likely to be introduced. Mastering aseptic technique is therefore the single most important skill for successful [[mycological-cultivation]]. Even perfectly prepared substrate and ideal environmental conditions cannot compensate for poor inoculation hygiene. The difference between consistent success and consistent failure often comes down to discipline at this stage.
-
-## Inoculum Types
-
-Multiple forms of fungal inoculum can be used to start a culture on [[grass-seed-substrate]] or other prepared media:
+  - [[grass-seed-substrate]] or other prepared media:
 
 - **Spore syringes**: A suspension of spores in sterile water. The most accessible form for beginners but carries higher genetic variability, as each spore represents a unique genetic individual with potentially different growth characteristics.
-- **Mycelium syringes**: Live mycelium in sterile water. Faster colonisation since the organism is already germinated. Shorter shelf life — use promptly.
-- **Agar squares**: Small pieces of colonised agar from a petri dish. The highest selectivity since contaminants are visible before transfer. Preferred by experienced cultivators.
+- **[[agar]] squares**: Small pieces of colonised agar from a petri dish. The highest selectivity since contaminants are visible before transfer. Preferred by experienced cultivators.
 - **Liquid culture**: Mycelium grown in nutrient broth. Allows rapid expansion from a small starter. Requires additional equipment.
 - **Grain-to-grain transfer**: Colonised grain from an established jar. Extremely efficient but also efficient at spreading undetected contamination. Only use with verified clean jars.
 
@@ -126,6 +106,5 @@ Any confirmed contaminated jar should be removed immediately and re-sterilised b
 
 ## See Also
 
-- [[fungal-spores]]
 - [[spore-syringe]]
 - [[trichoderma]]

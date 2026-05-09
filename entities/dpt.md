@@ -123,9 +123,6 @@ Legal status varies significantly by jurisdiction and is subject to rapid change
 
 ## See Also
 
-- [[dmt]] — Parent tryptamine with shorter duration and higher potency
 - [[dipt]] — Structural analog with diisopropyl substitution, shorter-acting auditory psychedelic
-- [[5-meo-dmt]] — Potent 5-HT1A-preferring tryptamine with distinct non-visual profile
 - [[bufotenin]] — Endogenous tryptamine with overlapping serotonergic pharmacology
-- [[psilocin]] — Natural 4-hydroxy tryptamine found in psilocybin mushrooms
-- [[psilocybin-compound]] — Prodrug of psilocin; longer-acting classical psychedelic
+- [[psilocybin]] — Prodrug of psilocin; longer-acting classical psychedelic

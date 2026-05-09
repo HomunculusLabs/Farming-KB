@@ -17,20 +17,7 @@ type: concept
 # Wickiup and Quick Shelter Construction
 
 Quick shelters built from locally available natural materials are an essential
-component of [[permaculture-design]] for settlement and land restoration
-projects. In the [[permaculture-designers-manual-bamboo]], Bill Mollison emphasises
-that shelter should be constructed from on-site materials wherever possible,
-minimising imported resources and energy costs. The wickiup, tipi, debris hut,
-and bender are among the simplest and most effective shelter forms requiring
-no manufactured inputs.
-
-## Design Philosophy
-
-Permaculture shelter design follows the principle of using biological
-resources and locally available materials before resorting to imported or
-manufactured goods. Quick shelters serve multiple purposes: emergency
-protection during initial site establishment, temporary worker housing during
-[[permaculture-earthworks]] and construction phases, demonstration of low-cost building
+component of [[permaculture-designers-manual-bamboo]], [[permaculture-earthworks]] and construction phases, demonstration of low-cost building
 techniques, and long-term culturally appropriate housing in many climates.
 
 The key criteria for quick shelter are: minimal tool requirements, rapid
@@ -146,5 +133,4 @@ in zones one through three during site establishment. They demonstrate the
 permaculture principle of starting with simple, functional solutions before
 investing in permanent infrastructure. Natural shelters also connect
 inhabitants directly to local ecology and seasonal cycles, fostering
-
 ## See Also

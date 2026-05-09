@@ -138,9 +138,6 @@ dry ice cooling, a seed of crystal was obtained, which successfully
 promoted crystallization of the entire MeOH solution. After standing
 ## See Also
 
-- [[4-tme-entity-pihkal]]
 - [[qualitative-comments-methodology-pihkal]]
-- [[ethyl-j-entity-pihkal]]
 - [[pihkal-qualitative-effects-themes]]
-- [[ethyl-k-entity-pihkal]]
 - [[mdpea-entity-pihkal]]

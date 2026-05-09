@@ -14,13 +14,7 @@ type: concept
 Fukuoka presents a detailed critique of the energy efficiency of modern
 agriculture, demonstrating that scientific farming's claimed high productivity
 is an illusion when energy inputs are properly accounted for. This analysis
-forms a cornerstone of his [[fukuoka-critique-of-scientific-agriculture]].
-
-## Energy Efficiency Comparison
-
-The claim that scientific agriculture has high productivity fails when energy
-efficiency of production is calculated. Fukuoka compares five methods of rice
-farming: [[fukuoka-natural-farming-method]], farming with animals, and
+forms a cornerstone of his [[fukuoka-natural-farming-method]], farming with animals, and
 lightly, moderately, and heavily mechanized agriculture.
 
 Natural farming requires only one man-day of labor to recover 130 pounds of
@@ -49,20 +43,7 @@ should have done was leave the soil to be worked by small animals, chickens,
 rabbits, mice, moles, and even worms. Large animals only appear useful when
 one is in a hurry. It takes over two acres of pasture to feed just one horse
 or cow. This much land could feed fifty or even a hundred people through
-[[fukuoka-natural-farming-method]].
-
-## Livestock Energy Waste
-
-Livestock farming epitomizes energy waste. Raising one yellowtail to market
-size requires ten times its weight in sardines. A silver fox consumes ten
-times its weight in rabbit meat, and a rabbit ten times its weight in grass.
-People must work ten times as hard to eat beef as grain, and five times as
-hard to nourish themselves on milk and eggs.
-
-In terms of caloric production, someone must work at least twice as hard to
-eat eggs and milk rather than grains and vegetables. If he likes meat, he
-will have to put out seven times the effort. Because it is so energy-
-inefficient, modern [[fukuoka-critique-modern-livestock]] cannot be
+[[fukuoka-critique-modern-livestock]] cannot be
 considered true "production."
 
 ## Mechanization Enslaves the Farmer
@@ -79,72 +60,28 @@ the number of laborers required, driving farmers off their land. For every
 tractor operator, dozens of farmers are forced off the land and into
 factories making implements and fertilizer, which would not be needed under
 [[fukuoka-natural-farming-method]].
-
-## The Vicious Cycle
-
-Machinery, chemical fertilizers, and pesticides have drawn the farmer away
-from nature. Although these products do not raise yields, because they are
-promoted as tools for boosting production, farmers labor under the illusion
-that they need them. Their use has wrought destruction on nature, robbing it
-of its powers and leaving man no choice but to tend vast fields by hand,
-making large machinery and powerful poisons indispensable. The same vicious
-cycle continues without end.
-
-The reduction in labor brought about by scientific farming has succeeded only
-in forcing farmers off the land. Perhaps the politician and consumer think
-the ability of a smaller number of workers to carry out agricultural
-production for the nation is indicative of progress. To the farmer, however,
-this is a tragedy, a preposterous mistake.
-
-## Laying Waste to the Land and Sea
-
-The modern livestock and fishing industries are also basically flawed.
-Everyone unquestioningly assumed that by raising poultry and livestock and by
-fish farming our diet would improve, but no one suspected that the production
-of meat would ruin the land and the raising of fish would pollute the seas.
-
-Farming with the labor of animals therefore helps satisfy certain cravings
-and desires, but increases man's labor many times over. Although this form of
-agriculture appears to benefit man, it actually puts him in the service of
-his livestock. In raising cattle or elephants as members of the farming
-household, the peasants of Japan and India impoverished themselves to provide
-their livestock with the calories they needed.
-
-## The Japanese Bantam Example
-
-The Japanese Bantam is a breed of chicken native to Japan. Left to roam
-about freely, it lays just one small egg every other day. But although this
-chicken is not an outstanding egg-layer, it is in fact very productive. Take
-a breeding pair of Bantams, let them nest every so often, and before you know
-it they will hatch a clutch of chicks. Within a year, your original pair will
-have grown to a flock of ten or twenty birds that together will lay many
-times as many eggs each day as the best variety of White Leghorn.
-
-The Bantams are very efficient calorie producers because they feed themselves
-and lay eggs on their own, literally producing something from nothing.
-Moreover, as long as the number of birds remains appropriate for the space
-available, raising chickens in this way does not harm the land. The same
-cannot be said for modern battery hen operations, which consume vast quantities
-of grain while producing eggs of inferior quality.
-
-## Larger Farms, Greater Insecurity
-
-Farms in Europe are ten times larger, and in the United States one hundred
-times larger, than the 6- to 7-acre farms common to Japan. Yet farmers in
-Europe and the U.S. are, if anything, even more insecure than Japanese
-farmers. It is only natural that farmers in the West who question the trend
-toward large-scale mechanized agriculture have sought an alternative in
-Eastern methods. However, as they have come to realize that traditional
-agriculture with farm animals is not the way to salvation, these farmers have
-begun searching frantically for the road leading toward
-[[fukuoka-natural-farming-method]].
-
 ## See Also
 
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-
 - [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-critique-modern-livestock]]
 - [[fukuoka-natural-farming-method]]
 - [[fukuoka-japan-postwar-agriculture]]
 - fukuoka textdoc energy wasteful modern agriculture
+## Practical Considerations
+
+Successful implementation of Energy-Wasteful Modern Agriculture requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

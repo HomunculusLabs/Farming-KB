@@ -27,45 +27,9 @@ Compass Pathways (NASDAQ: CMPS) is a UK-based mental health care company focused
 
 Compass Pathways was founded in 2016 by George Goldsmith (Chairman) and Ekaterina Malievskaia (Chief Medical Officer), a married couple who were motivated by Malievskaia’s personal experience with depression and psychedelic therapy. Kabir Nath serves as CEO. The company is headquartered in London, United Kingdom, with additional offices in New York City.
 
-Goldsmith and Malievskaia founded the company after witnessing the limitations of conventional antidepressant treatments and the promising early results from academic researchers like [[roland-griffiths]] at Johns Hopkins and Robin Carhart-Harris at Imperial College London. Their personal connection to the problem drove the company’s patient-centered mission from its inception.
+Goldsmith and Malievskaia founded the company after witnessing the limitations of conventional antidepressant treatments and the promising early results from academic researchers like [[mollison-designers-road-water-harvesting-and-integration]] sessions afterward. The approach is designed for patients who have not responded to at least two prior antidepressant treatments.
 
-Before founding Compass, Goldsmith had a background in healthcare technology and digital health, while Malievskaia was a physician with experience in oncology and psychiatry.
-
-## COMP360 Program
-
-COMP360 is Compass’s proprietary, synthetic formulation of psilocybin, administered as a single oral capsule dose alongside psychological support. The therapy model involves preparatory sessions with trained therapists, a dosing session in a controlled clinical setting, [[mollison-designers-road-water-harvesting-and-integration]] sessions afterward. The approach is designed for patients who have not responded to at least two prior antidepressant treatments.
-
-The synthetic formulation distinguishes COMP360 from natural [[psilocybin-mushrooms-of-the-world-genus-overview]].
-
-By manufacturing a chemically defined product, Compass aims to ensure consistent dosing, quality control, and regulatory compliance—critical requirements for pharmaceutical approval that natural products cannot easily meet.
-
-This pharmaceutical approach has been a source of both strength (enabling large-scale trials) and controversy (drawing criticism from those who argue natural psilocybin mushrooms should remain accessible).
-
-## Phase 2b Trial Results
-
-The Phase 2b trial was conducted across 22 sites in 10 countries across Europe and North America, making it the largest psilocybin clinical trial to date. It randomized 233 patients with TRD into three arms: 1 mg (control dose), 10 mg, and 25 mg of COMP360, all administered alongside psychological support.
-
-Results published in the *New England Journal of Medicine* in November 2022 showed that the 25 mg arm achieved a statistically significant reduction in depression symptoms measured by the MADRS scale at Week 3 (the primary endpoint). Approximately 37% of patients in the 25 mg group showed response at Week 3 compared to approximately 19% in the 1 mg control group. However, the 10 mg arm did not separate from control, showing no dose-response relationship at that level.
-
-This unexpected finding raised questions about the optimal dosing strategy and the therapeutic window for psilocybin in depression.
-
-At 12 weeks, approximately 20% of the 25 mg group maintained response. The treatment was generally well-tolerated, with the most common adverse events being headache, nausea, and dizziness. Suicidal ideation was observed in both treatment and control groups, which prompted additional FDA scrutiny and became a significant topic in regulatory discussions.
-
-## Phase 3 Program
-
-Compass initiated its global Phase 3 program in 2023, representing one of the largest psychedelic therapy clinical trial programs ever undertaken. The program includes multiple trials designed to support regulatory submissions to the FDA and EMA. Topline results from the Phase 3 program are expected to read out in 2025–2026 and will be the pivotal data determining whether COMP360 can achieve regulatory approval.
-
-Success in Phase 3 would represent a watershed moment for the entire psychedelic medicine field, potentially opening the door to regulatory approvals for other psychedelic compounds and indications.
-
-The Phase 3 program has expanded to include approximately 100 clinical trial sites across North America and Europe. Compass has also developed proprietary therapist training programs delivered to hundreds of facilitators at trial sites, creating a scalable model for therapist preparation that could support commercial rollout if approval is granted.
-
-## Regulatory Status
-
-COMP360 has received several significant regulatory designations that reflect its therapeutic potential and support accelerated development:
-
-- **FDA Breakthrough Therapy Designation** (2018) for treatment-resistant depression, making Compass one of the first psychedelic companies to receive this designation.
-- **FDA Fast Track Designation**, providing more frequent FDA interactions and rolling review submissions.
-- **EMA Priority Medicines (PRIME) designation** from the European Medicines Agency, supporting accelerated development [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]].
+The synthetic formulation distinguishes COMP360 from natural [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]].
 - Psilocybin remains a Schedule I controlled substance in the US, though COMP360 is used under clinical trial protocols and Investigational New Drug (IND) applications.
 
 The path to FDA approval has been complicated by concerns about the suicidality signal observed in trials.
@@ -84,9 +48,7 @@ While treatment-resistant depression remains the lead indication, Compass has ex
 
 ## Partnerships and Collaborations
 
-Compass has built a network of partnerships to support its clinical development and commercialization strategy. King’s College London has been a longstanding research partner for [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] and neuroscience research. In 2022, Compass partnered with Holmusk to use real-world data and AI to support clinical development and post-approval strategies. The company has also worked with the Heffter Research Institute and academic investigators worldwide.
-
-These partnerships have been essential for building the clinical evidence base [[permaculture-designers-manual-education-and-training]] the therapist workforce needed to deliver psilocybin-assisted therapy at scale.
+Compass has built a network of partnerships to support its clinical development and commercialization strategy. King’s College London has been a longstanding research partner for [[permaculture-designers-manual-education-and-training]] the therapist workforce needed to deliver psilocybin-assisted therapy at scale.
 
 ## Controversies and Criticisms
 
@@ -114,9 +76,6 @@ If Phase 3 results are positive, Compass could submit a New Drug Application (ND
 
 ## Related Entities
 
-- [[roland-griffiths]] — Johns Hopkins researcher whose clinical evidence base enabled the commercial psychedelic medicine industry
-- Robin Carhart-Harris — Imperial College London researcher whose work contributed to the scientific foundation for psilocybin therapy
-- [[albert-hofmann]] — discoverer of psilocybin, the active compound in COMP360
 - [[alexander-shulgin]] — psychopharmacologist who synthesized and characterized many psychedelic compounds
 - Heffter Research Institute — non-profit psychedelic research organization
 - Usona Institute — non-profit psilocybin research institute

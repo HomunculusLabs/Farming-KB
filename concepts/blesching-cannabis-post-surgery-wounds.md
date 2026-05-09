@@ -48,31 +48,7 @@ Cannabis that show anti-inflammatory action."
 Results revealed that all types of cannabinoids as well as non-cannabinoid
 parts of the plant effectively reduce pain from inflammation associated
 with post-surgery patients, rheumatism, rheumatoid arthritis, chronic
-neuropathic pain, and [[cannabis-and-fibromyalgia]].
-
-### Study Summary
-
-| Drug | Study Type | Year, Place, Key Results | CHI |
-|------|-----------|--------------------------|-----|
-| All types of cannabinoids (endogenous, plant-based, synthetic) | Meta-analysis (2004-2009) | 2009, Univ. of Massachusetts Medical School, Worcester: Cannabinoids effective in reducing pain for post-surgery patients | 4 |
-
-**Total CHI Value: 4**
-
-### Strain-Specific Considerations
-
-The meta-analysis covered all classes of cannabinoids, providing a broad
-evidence base for post-surgical applications:
-
-- **THC:** Binds with both CB1 and CB2; effective for pain via CB1
-  pathways in the central nervous system
-- **CBD:** Greater affinity for CB2; anti-inflammatory properties may
-  reduce surgical site inflammation without psychoactive effects
-- **Whole-plant cannabis:** The entourage effect of multiple cannabinoids
-  and terpenes working synergistically may provide superior pain relief
-  compared to isolated compounds
-- **Topical applications:** Cannabis-infused salves and oils may be
-  particularly useful for localized post-surgical pain and wound healing,
-  as described in [[blesching-cannabis-wound-care]]
+neuropathic pain, and [[blesching-cannabis-wound-care]]
 
 ### Practical Considerations for Post-Surgical Use
 
@@ -84,13 +60,7 @@ evidence base for post-surgical applications:
 - Topical applications at the surgical site may reduce local inflammation
   without systemic effects
 - Start with low doses and titrate slowly to find the therapeutic window
-  (see [[blesching-cannabis-dosing-strategies]])
-- Be aware that THC may interact with certain post-surgical medications
-  including opioids; consult with prescribing physician
-
-### Mind-Body Medicine
-
-See [[blesching-cannabis-wound-care]] for detailed mind-body perspectives
+  (see [[blesching-cannabis-wound-care]] for detailed mind-body perspectives
 on wound healing. The psychological state of the patient significantly
 influences surgical outcomes. Pre-operative anxiety and post-operative
 stress can elevate cortisol levels, impair immune function, and slow wound
@@ -105,11 +75,8 @@ enhance the therapeutic effects of cannabinoid-based treatments.
 
 ### Related Topics
 
-- [[blesching-cannabis-wound-care]]
 - [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-neuropathic-pain]]
 - [[blesching-cannabis-dosing-strategies]]
-- [[blesching-cannabis-immune-system-modulation]]
 - [[cannabis-and-fibromyalgia]]
 
 ### Key Takeaways

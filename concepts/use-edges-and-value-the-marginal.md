@@ -1,17 +1,7 @@
 ---
 title: "Use Edges and Value the Marginal — Permaculture Principle 11"
 created: 2026-04-28
-tags: [permaculture, design-principles, edges, ecology, cultural-landscape]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
-type: concept
----
-
-# Use Edges and Value the Marginal — Permaculture Principle 11
-
-Use Edges and Value the Marginal is the eleventh of [[david-holmgren]]'s twelve
+tags: [[david-holmgren]]'s twelve
 permaculture-design-principles. It draws attention to the productive and
 dynamic qualities found at the boundaries between systems — the edges where
 forest meets meadow, water meets land, culture meets culture. These edge
@@ -29,79 +19,12 @@ species diversity and greater biological productivity than either of the
 adjacent ecosystems.
 
 Shorelines, hedgerows, forest margins, and treelines are all examples of
-ecological edges that concentrate biological activity. [[permaculture-design]] seeks to maximise productive edge in designed systems through
-curved garden beds, keyline patterning, pond design, and mixed planting
-schemes that create interfaces between different vegetation types.
-
-## Aboriginal Land Management as Cultural Edge
-
-Holmgren draws on Australian Aboriginal land management as a powerful example
-of edge thinking. Aboriginal people did not inhabit pristine wilderness but
-managed cultural landscapes through sophisticated techniques, most notably
-firestick farming — the term coined by archaeologist Rhys Jones for the
-deliberate use of fire as a landscape management tool.
-
-Fire was used to create and maintain edge conditions: open ground for
-kangaroos, nest hollows for birds, grass for seed gathering, and
-stimulation of flowering and germination. The burning regime created a
-patchwork pattern across the landscape, maximising the edge between burned
-and unburned areas and the diversity of habitats available.
-
-Modern fire management failures demonstrate what happens when this edge-based
-approach is abandoned. Burning vast areas creates monoculture, while the
-traditional patchwork pattern maintained maximum diversity and productivity.
-
-## The Pattern of Degradation and Enrichment
-
-Holmgren identifies a self-reinforcing pattern at landscape edges: localised
-degradation in some areas creates enrichment in adjacent areas. This pattern
-is visible in both natural and human-managed landscapes. Understanding and
-working with this pattern allows designers to identify where intervention
-will have the greatest effect.
-
-## Wild Foods and the Marginal
-
-Wild foods represent a marginal system that pre-industrial cultures relied on
-extensively. In Europe, woods and hedgerows provided significant portions of
-diet. Cultural bias against wild foods reflects the industrial preference for
-controlled, uniform systems over diverse, self-managing ones.
-
-Holmgren cites several examples that challenge this bias:
-- Solzhenitsyn wrote about the value of nettles as food during hardship
-- During the Great Depression, rabbit became an important food source
-- Italian families relied on [[carob]] pods during wartime scarcity
+ecological edges that concentrate biological activity. [[carob]] pods during wartime scarcity
 
 Wild foods are gaining status in affluent societies through rarity value,
 desire for reconnection with nature, and concerns about industrial
 agriculture. This revaluation of marginal food systems represents a broader
-cultural shift that [[permaculture-design]] can support.
-
-## Terra Nullius and Cultural Edge
-
-The concept of terra nullius (land belonging to no one) that underpinned
-Australian colonisation reflects a failure to recognise the managed nature of
-Aboriginal landscapes. The Mabo decision of 1992 began to correct this by
-recognising native title. This history illustrates how mainstream cultures
-devalue marginal perspectives and practices, often with destructive
-consequences.
-
-## Marginal People and Ideas
-
-The principle extends to social and intellectual edges. People and ideas at
-the margins of mainstream culture often hold insights and practices that are
-valuable for adaptation to changing conditions. Indigenous knowledge,
-peasant farming techniques, traditional crafts, and countercultural
-movements all represent marginal perspectives that permaculture has drawn
-upon.
-
-Holmgren describes the counterculture as a "dynamic margin" — a space where
-new ideas can develop outside the constraints of mainstream thinking. The
-permaculture movement itself emerged from this marginal position and has
-maintained aspects of it even as it has gained wider acceptance.
-
-## Edge in Design Practice
-
-In [[permaculture-design]], creating and maximising edge is a practical
+cultural shift that [[permaculture-design]], creating and maximising edge is a practical
 strategy:
 - Pond edges (between water and land) are among the most productive zones
 - Hedgerows (between field and forest) concentrate biodiversity
@@ -121,22 +44,71 @@ mainstream standards. Weeds, pests, marginal lands, traditional peoples,
 unconventional ideas, and small-scale experiments all have value that
 mainstream culture tends to miss.
 
-The principle "the problem is the solution" from [[observe-and-interact-permaculture-principle]] is relevant here: what appears marginal or
-problematic may hold the key to innovation and adaptation.
-
-## Edge as Creative Space
-
-Edges are inherently creative spaces because they combine elements from
-different systems in new ways. Innovation often occurs at disciplinary
-boundaries, cultural interfaces, and ecological transitions. [[permaculture-design]] itself occupies an edge between ecology, agriculture, architecture,
+The principle "the problem is the solution" from [[permaculture-design]] itself occupies an edge between ecology, agriculture, architecture,
 and community development, drawing insights from each discipline while
 transcending their individual limitations.
 
 ## See Also
 
-- [[permaculture-design]]
 - [[design-from-patterns-to-details]]
-- [[use-and-value-diversity-permaculture]]
 - [[observe-and-interact-permaculture-principle]]
-- [[integrate-rather-than-segregate]]
 - [[creatively-use-and-respond-to-change]]
+## Practical Considerations
+
+When working with Use Edges and Value the Marginal — Permaculture Principle 11, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

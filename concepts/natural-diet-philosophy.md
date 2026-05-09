@@ -1,18 +1,6 @@
----
-title: Natural Diet Philosophy
-tags: [nutrition, food-philosophy, natural-diet, traditional-food, seasonal-eating, holistic-health]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - masanobu-fukuoka-fukuoka.md
-created: 2026-04-28
-type: concept
----
-# [[natural-diet]] Philosophy
-
-[[masanobu-fukuoka]]'s natural diet philosophy extends [[fukuoka-natural-farming-principlesples into
+# [[masanobu-fukuoka]]'s [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-principlesples into
 human nutrition. He argued that food and farming are "the front and back of
-one body" and that a natural diet cannot exist without natural farming, nor can
+one body" and that a natural diet cannot exist without [[natural-farming]], nor can
 the farmer know what to grow without a natural diet being established. His
 approach rejects both the modern scientific diet and rigid dietary doctrines,
 proposing instead a "diet of non-discrimination" guided by bodily instinct and

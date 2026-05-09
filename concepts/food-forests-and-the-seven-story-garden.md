@@ -12,44 +12,7 @@ fighting this trend, permaculture works with it to create productive, food-beari
 
 ## Key Principles
 
-[[forest-gardens]] operate on several foundational ecological insights. Three-dimensional planting
-offers maximum wildlife habitat, the largest crop yields for a given area, and the greatest
-possibilities for edge and diversity.
-
-Trees are the most powerful and productive vegetation on Earth. They reach deep for nutrients
-and water, and far and wide for solar energy. An acre of wheat yields 1–2 tons of grain; an
-acre of apples yields 7 tons; an acre of honey-locust yields 15 tons of protein-rich pods —
-all without annual replanting.
-
-Beyond yield, trees perform critical ecological services. They produce soil-enriching leaf
-litter, fill the earth with humus-building roots, quell temperature swings, hold moisture,
-arrest erosion, and offer stacked habitat tiers for wildlife.
-
-## The Seven Layers of a Forest Garden
-
-### 1. Tall-Tree Layer (Overstory)
-
-Full-sized fruit, nut, or timber trees form the canopy, with spaces between them to let light
-filter to lower layers. Examples include standard apple, pear, walnut, chestnut, oak,
-honey-locust, and hackberry. This layer captures the most solar energy.
-
-### 2. Low-Tree Layer
-
-Smaller fruit and nut trees that tolerate partial shade occupy the second tier. Semi-dwarf
-fruit trees, persimmon, plum, cherry, pawpaw, mulberry, and almond are common choices. They
-are spaced to allow sun to reach the ground layers below.
-
-### 3. Shrub Layer
-
-Berry bushes and flowering shrubs fill the middle zone. Currants, gooseberries, blueberries,
-blackberries, hazelnuts, Siberian pea shrub, nitrogen-fixing shrubs, bamboo, and willow all
-thrive here, providing abundant soft fruit and pollinator support.
-
-### 4. Herb Layer
-
-Annual and perennial herbs, vegetables, and flowers carpet the understory. Comfrey, borage,
-culinary herbs, salad greens, medicinal herbs, and ornamental flowers for pollinator
-attraction form a diverse, productive layer. Many also serve as [[dynamic-accumulators]].
+[[dynamic-accumulators]].
 
 ### 5. Ground-Cover Layer
 
@@ -140,7 +103,6 @@ beans, clovers, fenugreek, alfalfa), bee plants (borage, comfrey), insectary spe
 celery, dill, coriander), and pest-confusers (horseradish, Mexican marigold, garlic mustard).
 Medicinal herbs serve as a market crop: echinacea, St. John's-wort, astragalus, and
 artemisia. His work shows food forests can be economically viable at extreme elevations.
-
 ## See Also
 
 - [Permaculture Principles]([[permaculture-principles]].md)

@@ -3,7 +3,7 @@ title: PDC Aquaculture Water Systems
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
+tags: [[permaculture, education, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
@@ -89,11 +89,7 @@ updated: 2026-04-18
 
 ## See Also
 
-- [[mollison-pond-design-freshwater-aquaculture]]
 - [[aquatic-polyculture-design-mollison]]
-- [[mollison-fish-pond-construction]]
 - [[mollison-aquatic-plant-systems]]
-- [[mollison-aquatic-polyculture-and-pond-culture]]
 - [[fukuoka-duck-rice-fish-polyculture]]
-- [[permaculture-water-pond-systems-design-course]]
 - [[permaculture-sewage-marsh-treatment]]

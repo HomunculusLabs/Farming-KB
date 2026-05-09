@@ -3,16 +3,7 @@ title: Mushroom Cultivation Troubleshooting Guide
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, mushrooms, cultivation]
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
----
-
-# Mushroom Cultivation Troubleshooting Guide
-
-Most failures in mushroom cultivation result from errors in basic technique rather than from insurmountable problems. This troubleshooting guide organizes the most common cultivation problems by growth stage, listing symptoms, causes, and solutions. The guide is based on the systematic approach presented in Paul Stamets' The Mushroom Cultivator, adapted for both home and commercial cultivators.
-
-See [[mushroom-contamination-control-strategies]] for identifying specific contaminants, [[mushroom-sterile-technique]] for laboratory hygiene, and [[mushroom-primordia-formation-triggers]] for pinning problems.
+tags: [[mushroom-contamination-control-strategies]] for identifying specific contaminants, [[mushroom-primordia-formation-triggers]] for pinning problems.
 
 ## Stage 1: Agar Culture Problems
 
@@ -140,9 +131,6 @@ When troubleshooting, change only one variable at a time so that the effect of e
 
 - mushroom cultivation troubleshooting guide
 
-- [[mushroom-grow-room-design]]
 - [[mushroom-contamination-control-strategies]]
-- [[stamets-fruiting-strategies-and-primordia-formation]]
 - [[stamets-spawn-making-and-grain-culture]]
-- [[stamets-mushroom-growing-parameters-by-species]]
 - [[mushroom-cultivator-strain-selection]]

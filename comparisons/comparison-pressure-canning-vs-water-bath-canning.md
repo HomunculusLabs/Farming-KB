@@ -22,34 +22,6 @@ requiring the higher temperatures only a pressure canner can achieve to
 eliminate the risk of botulism.
 
 ## Pressure Canning
-[[pressure-canning-safety]]
-Pressure canning uses a specialized heavy pot with a locking lid and pressure
-regulator to process jars at temperatures above boiling. The increased
-pressure raises the internal temperature to 240 to 250 degrees Fahrenheit,
-which is necessary to destroy Clostridium botulinum spores that can survive
-boiling temperatures. All low-acid foods, including vegetables, meats,
-poultry, seafood, soups, and stews, must be pressure canned for safety.
-The pressure canner must be operated according to the manufacturer's
-instructions and tested regularly with a gauge check to ensure accurate
-pressure readings.
-
-Pressure canning is essential for preserving the harvest from a productive
-vegetable garden or livestock operation where water bath canning is
-insufficient. It enables long-term storage of complete meals, soups, and
-protein sources without refrigeration. Modern pressure canners are safe and
-reliable when used correctly, and the process is straightforward once the
-basic procedures are understood. Dial-gauge canners offer precise pressure
-monitoring while weighted-gauge canners automatically regulate pressure.
-
-The drawbacks include higher equipment cost, longer learning curve, and the
-need for more attention during processing. Pressure canners require adequate
-venting time, monitored processing time at the correct pressure for your
-altitude, and a controlled cool-down period before opening. Altitude
-adjustments are mandatory and can significantly extend processing times at
-higher elevations. The equipment is also bulky and requires storage space
-when not in use during the canning season.
-
-## Water Bath Canning
 [[canning-and-preserving]]
 Water bath canning submerges filled jars in boiling water for a specified
 time to create a vacuum seal. This method is safe only for high-acid foods
@@ -116,8 +88,6 @@ condiment to serve with it. The two methods complement each other and
 together provide comprehensive food preservation capability.
 
 ## See Also
-- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
-- [[comparison-fermentation-vs-canning]]
 - [[comparison-smoking-vs-canning]]
 - [[food-preservation-canning]]

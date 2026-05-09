@@ -12,7 +12,7 @@ type: concept
 # Plant Circadian Rhythms
 
 Circadian rhythms are approximately 24-hour oscillations in physiological
-processes that persist even [[allegro-death-and-resurrection-in-the-mushroom-cult]] absence of external time cues. [[xylem-and-phloem-transport-systems-in-plants]],
+processes that persist even [[xylem-and-phloem-transport-systems-in-plants]],
 the circadian clock regulates a vast array of processes including leaf
 movement, photosynthetic capacity, stomatal opening, hormone biosynthesis,
 flowering time, and stress resistance. The clock allows plants to anticipate
@@ -22,15 +22,7 @@ daily environmental cycles and coordinate their physiology accordingly.
 
 The plant circadian oscillator is built on interconnected transcription-
 translation feedback loops. In Arabidopsis, the morning-expressed genes CCA1
-and LHY encode MYB transcription factors that repress expression [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-evening gene TOC1 (Timing of CAB Expression 1). TOC1 protein, in turn,
-accumulates during the evening and represses CCA1 and LHY expression,
-completing a negative feedback loop.
-
-A second feedback loop involves the evening complex, composed of ELF3, ELF4,
-and LUX proteins. This complex represses morning genes during the night and
-provides additional robustness to the oscillator. Multiple additional loops
-and interconnections create a network with [[antiviral-properties-of-mushrooms]] persistence,
+and LHY encode MYB transcription factors that repress expression [[antiviral-properties-of-mushrooms]] persistence,
 temperature compensation, and entrainability that are characteristic of
 biological circadian clocks.
 
@@ -39,8 +31,7 @@ biological circadian clocks.
 The circadian clock is synchronized with the external light-dark cycle
 through photoreceptor-mediated entrainment. Phytochromes and cryptochromes
 are the primary photoreceptors involved in clock entrainment. Light perceived
-by these receptors triggers rapid [[staycare-fungal-degradation-of-ddt-and-organochlorine-insecticides]] clock components, resetting
-the phase [[allegro-colour-and-consistency-of-the-amanita-muscaria]] oscillator to match the external day-night cycle.
+by these receptors triggers rapid [[allegro-colour-and-consistency-of-the-amanita-muscaria]] oscillator to match the external day-night cycle.
 
 The quality of light also influences clock entrainment. Red light acting
 through phytochromes and blue light acting through cryptochromes have

@@ -31,15 +31,85 @@ sources:
     Pharmacology." In: Medicinal and Aromatic Plants of the World.
     Springer.
 ---
+
 # Rheum palmatum
 
 **Chinese Rhubarb** | *Rheum palmatum* L. | 大黄 (dà huáng)
 
-Rheum palmatum is a large perennial herb in the family Polygonaceae, native
-to the mountainous regions of western China and Tibet. It is one of the most
-important drugs in Traditional Chinese Medicine (TCM), where its dried root
-and rhizome — known as *dà huáng* — has been [[query-what-is-a-wavelet-transform-used-for]] over 2,000 years as a
-purgative, anti-inflammatory, and hepatoprotective agent. The plant's
-medicinal activity derives primarily from anthraquinone glycosides, which
-stimulate peristalsis and exert broad pharmacological effects. Though related
-to culinary rhubarb (*R. rhabarbarum*), [[query-what-are-the-best-mushrooms-for-medicinal-usecultivated-primarily-for-medicinal-use,-though-its-petioles-are-also-edible-when-properly-prepared.-##-taxonomy-polygonaceae-→-**polygonoideae-→-*rheum*-→-*r.-palmatum***-described-by-linnaeus-in-1759.-the-genus-*rheum*-contains-approximately-60-species-distributed-across-central-and-eastern-asia.-*r.-palmatum*-is-closely-related-to-*r.-tanguticum*-and-*r.-officinale*,-and-the-dried-roots-of-all-three-species-are-accepted-as-sources-of-the-tcm-drug-*dà-huáng*-in-the-chinese-pharmacopoeia.-some-authorities-treat-these-as-subspecies-of-a-single-polymorphic-species.-no-widely-accepted-infraspecific-taxa-exist-for-*r.-palmatum*-sensu-stricto.-##-morphology---**growth-habit:**-large-herbaceous-perennial-forming-a-substantial--crown-of-leaves-arising-from-a-thick,-fleshy-rhizome.---**height:**-1.5–3.0-m-at-flowering;-leaf-fans-may-reach-1.5-m-across.---**leaves:**-palmately-lobed-with-5–7-deep-lobes,-30–60-cm-across;--long-petioles-(to-60-cm)-that-are-thick,-ridged,-and-green-to--reddish-green;-leaf-surface-rugose,-margins-coarsely-toothed.---**flowers:**-small,-greenish-white-to-pale-pink,-borne-in-large--terminal-panicles-up-to-60-cm-long-and-30-cm-wide;-tepals-6,-in-two--whorls;-flowering-stems-robust,-erect,-hollow.---**fruit:**-three-winged-achene,-reddish-brown,-8–10-mm-across.---**root/rhizome:**-large,-fleshy,-branching,-yellow-to-orange-brown--internally;-the-primary-medicinal-organ.---**bloom-period:**-june-to-july.-##-distribution-and-habitat-native-to-the-mountainous-regions-of-gansu,-qinghai,-sichuan,-and-tibet-in-western-china,-at-elevations-of-1,500–4,000-meters.-grows-in-alpine-meadows,-rocky-slopes,-stream-banks,-and-forest-marquery-how-to-protect-plants-from-frost-and-extend-the-growing-seasondeep,-well-drained,-loamy-soils-with-adequate-moisture-during-growing-season-and-cold-winters.-cultivated-commercially-in-gansu,-qinghai,-and-sichuan,-with-smaller-scale-production-in-korea,-japan,-and-eastern-europe.-##-phytochemistry-the-root-and-rhizome-contain-a-complex-mixture-of-bioactive-compounds:---**anthraquinone-glycosides-(primary-actives):**-sennoside-a-and-b--(the-main-purgative-constituents,-hydrolyzed-in-the-gut-to-rhein--anthrone),-emodin-8-o-glucoside,-aloe-emodin,-chrysophanol,-physcion,--and-rhein.-total-anthraquinone-content-ranges-from-2–5%-in-dried-root.---**tannins:**-condensed-tannins-(proanthocyanidins)-at-5–10%-in-dried--root;-responsible-for-the-astringent,-antidiarrheal-effect-at-lower--doses-—-a-paradoxical-dose-dependent-duality-where-low-doses-are--constipating-and-high-doses-are-purgative.---**stilbenes-and-phenolic-acids:**-resveratrol,-piceatannol,-and--gallic-acid-contribute-antioxidant-and-anti-inflammatory-activity.---**polysaccharides:**-water-soluble-polysaccharides-with--immunomodulatory-properties-identified-in-recent-studies.-##-pharmacology-and-traditional-use-in-tcm,-*dà-huáng*-is-classified-as-bitter,-cold,-and-directed-to-the-spleen,-stomach,-liver,-and-large-intestine-meridians.-its-primary-actions-are-purgative-(draining-heat-and-loosening-the-bowels),-heat-clearing,-blood-cooling,-and-resolving-stasis.-key-clinical-applications-include:---**constipation-and-intestinal-accumulation:**-sennosides-stimulate--colonic-peristalsis-via-increased-prostaglandin-secretion-and--inhibition-of-na⁺/k⁺-atase-in-the-colon;-effect-occurs-6–12-hours--after-oral-administration.---**acute-hepatitis-and-hepatic-injury:**-emodin-and-rhein-demonstrate--hepatoprotective-effects-in-animal-models,-reducing-alt-and-ast-levels--through-anti-inflammatory-and-antioxidant-mechanisms.---**inflammation-and-infection:**-broad-antimicrobial-activity-against--*staphylococcus-aureus*,-*e.-coli*,-and-*pseudomonas-aeruginosa*;--anti-inflammatory-effects-via-nf-κb-pathway-inhibition.---**renal-failure:**-used-in-tcm-formulations-for-chronic-renal--insufficiency;-emodin-may-slow-progression-of-renal-fibrosis.-modern-research-has-investigated-*r.-palmatum*-extracts-for-potential-anticancer-activity,-with-emodin-showing-cytotoxic-effects-against-several-cancer-cell-lines-in-vitro.-clinical-evidence-remains-preliminary.-##-cultivation-propagated-from-seed-(stratification-required)-or-by-crown-division.-plants-require-4–6-years-before-root-harvest.-commercial-cultivation-is-concentrated-in-the-high-altitude-provinces-of-western-china.-roots-are-dug-in-autumn,-cleaned,-sliced,-and-dried.-shade-drying-produces-higher-quality-material-as-excessive-heat-degrades-anthraquinone-glycosides.-yield-ranges-from-3–6-kg-dried-root-per-plant-at-maturity.-hardy-to-usda-zone-5;-can-be-grown-as-an-ornamental-but-requires-significant-space.-##-toxicity-and-contraindications-prolonged-use-or-excessive-doses-can-cause-electrolyte-imbalance-(especially-hypokalemia),-melanosis-coli-(pigmentation-of-the-colonic-mucosa-from-anthraquinone-deposition),-and-a-laxative-dependency-syndrome.-the-herb-is-contraindicated-in-pregnancy-(anthraquinones-are-uterotonic),-during-menstruation,-and-in-patients-with-intestinal-obstruction-or-severe-electrolyte-disturbances.-tcm-practice-avoids-*dà-huáng*-in-patients-with-spleen/stomach-cold-deficiency.-##-see-also---[[holzer-medicinal-and-culinary-herbs-compendium]]
+*Rheum palmatum* is a large perennial herb in the family Polygonaceae, native to the mountainous regions of western China and Tibet (Gansu, Qinghai, Sichuan, and Tibet at 1,500–4,000 m elevation). One of the most important drugs in Traditional Chinese Medicine (TCM), where its dried root and rhizome — known as *dà huáng* — has been used for over 2,000 years as a purgative, anti-inflammatory, and hepatoprotective agent. Medicinal activity derives primarily from anthraquinone glycosides (sennosides A and B, emodin, aloe-emodin, chrysophanol, physcion, rhein), which stimulate colonic peristalsis and exert broad pharmacological effects. Though related to culinary rhubarb (*R. rhabarbarum*), *R. palmatum* is cultivated primarily for medicinal use, though its petioles are also edible when properly prepared.
+
+## Taxonomy and Description
+
+Polygonaceae → Polygonoideae → *Rheum* → *R. palmatum*. Described by Linnaeus in 1759. The genus contains approximately 60 species distributed across Central and Eastern Asia. *R. palmatum* is closely related to *R. tanguticum* and *R. officinale*; the dried roots of all three are accepted as sources of *dà huáng* in the Chinese Pharmacopoeia. A large herbaceous perennial forming a substantial crown of leaves from a thick, fleshy rhizome, reaching 1.5–3.0 m at flowering with palmately lobed leaves 30–60 cm across on petioles to 60 cm. Small greenish-white flowers in terminal panicles up to 60 cm long. Three-winged achenes, 8–10 mm across. Blooms June to July.
+
+## Distribution and Habitat
+
+Native to the mountainous regions of Gansu, Qinghai, Sichuan, and Tibet in western China, at elevations of 1,500–4,000 meters. Grows in alpine meadows, rocky slopes, stream banks, and forest margins. Commercially cultivated in Gansu, Qinghai, and Sichuan, with smaller-scale production in Korea, Japan, and Eastern Europe. Hardy to USDA zone 5.
+
+## Phytochemistry
+
+The root and rhizome contain anthraquinone glycosides (primary actives: sennosides A and B, emodin 8-O-glucoside, aloe-emodin, chrysophanol, physcion, rhein — total anthraquinone content 2–5% in dried root), condensed tannins (proanthocyanidins, 5–10%), stilbenes and phenolic acids ([[holzer-medicinal-and-culinary-herbs-compendium]]
+- [[chinese-tallow-tree]]
+
+## See Also
+
+- [[permaculture-plants-edible-perennials-understory]]
+## Practical Considerations
+
+When working with rheum palmatum, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

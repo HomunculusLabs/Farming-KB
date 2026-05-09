@@ -1,7 +1,7 @@
 ---
 title: lignocellulose degradation by fungi
 created: 2026-04-28
-tags: [mycology, biochemistry, enzymes, decomposition, lignocellulose]
+tags: [[mycology, biochemistry, enzymes, decomposition, lignocellulose]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -13,9 +13,7 @@ type: concept
 Lignocellulose is the primary structural component of plant cell walls and the
 most abundant organic polymer on Earth. It consists of three major fractions:
 cellulose (35-50%), hemicellulose (20-35%), and lignin (15-30%). White-rot
-fungi, including [[oyster-mushrooms]] (*Pleurotus* spp.), are among the most
-effective organisms at degrading all three components, making them central to
-both natural carbon cycling and applied [[mushroom-cultivation]].
+fungi, including [[mushroom-cultivation]].
 
 ## Lignocellulose Structure
 
@@ -131,6 +129,5 @@ applications beyond mushroom cultivation, including:
 
 ## See Also
 
-- [[oyster-mushroom-substrate-preparation]]
 - [[mushroom-cultivation-contamination-control]]
 - [[fungal-enzyme-systems]]

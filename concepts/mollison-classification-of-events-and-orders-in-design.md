@@ -141,8 +141,6 @@ foundation of permaculture design ethics and methodology.
 
 ## See Also
 
-- [[mollison-stream-orders-and-branching-magnitudes]]
 - [[mollison-fractals-branching-and-conduit-design]]
-- [[mollison-designers-pattern-understanding-in-design]]
 - [[mollison-village-development-design]]
 - [[mollison-design-methodology]]

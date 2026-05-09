@@ -21,21 +21,7 @@ sources:
 
 # Morchella importuna
 
-**Morchella importuna** is a species of [[morel-mushroom-guide]] mushroom in the family Morchellaceae, classified within the *Morchella elata* clade (black morels). It is one of the most commercially significant morel species due to its relative ease of indoor cultivation and its presence in disturbed habitats. The species was formally described by Kuo, O'Donnell, and Volk in 2012 following molecular phylogenetic analysis that resolved the long-standing taxonomic confusion within the genus.
-
-## Taxonomy and Etymology
-
-The genus *Morchella* derives from the German word "Morchel," meaning mushroom, while the specific epithet *importuna* (Latin for "intrusive" or "inopportune") references the species' tendency to fruit opportunistically in disturbed and anthropogenic environments — landscaping sites, burn piles, woodchip mulch beds, and recently graded soil. Prior to its formal description, this mushroom was variously called the "landscaping morel" or "disturbed-ground morel" and was conflated with *M. elata* sensu lato.
-
-Molecular phylogenetics using ITS, RPB1, RPB2, and TEF1 regions placed *M. importuna* firmly within the *Mel-6* phylogenetic lineage, distinguishing it from other black morel species like *M. elata* (Mel-2) and *M. angusticeps* (Mel-7).
-
-## Morphology
-
-**Cap (apothecium):** 3–12 cm tall, conical to elongated-ovoid, with prominent, vertically elongated pits and ridges. The pits are irregular and arranged in vertical rows, with ridges that are typically darker than the pits when mature. Young specimens are pale tan to greyish, darkening to brown, olive-brown, or nearly black with age. The cap attaches directly to the stipe at the base with a shallow sinus or notch.
-
-**Stipe:** 3–8 cm tall, 1.5–4 cm thick, cylindrical or slightly clavate, whitish to cream-colored, hollow. The surface is smooth or finely granulose. The interior chamber is often partially filled with cottony mycelium in younger specimens.
-
-**Flesh:** Thin, brittle, and waxy. Whitish, with a pleasant, earthy, and mildly nutty aroma. The cap is hollow with a single continuous chamber, unlike the chambered structure of some [[gyromitra-esculenta]] species.
+**Morchella importuna** is a species of [[gyromitra-esculenta]] species.
 
 **Spore print:** Cream to pale yellow.
 
@@ -61,7 +47,7 @@ Fruiting occurs in spring (March–May in the Northern Hemisphere), often trigge
 
 The mycelium forms extensive networks in soil and woody substrates, persisting as a saprobic phase for extended periods before fruiting. Fruit body initiation appears to require a combination of temperature fluctuation, moisture availability, and possibly exposure to certain soil bacteria (including *Pseudomonas* species) that may act as fruiting triggers.
 
-Associated trees include [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]], cottonwood, [[permplant-alder-alnus-nitrogen-fixing-non-legume]], ash, [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]], and various conifers. The species is notably common in riparian corridors with Populus trichocarpa (black cottonwood) and [[alnus-rubra]] (red alder).
+Associated trees include [[permplant-alder-alnus-nitrogen-fixing-non-legume]], ash, [[alnus-rubra]] (red alder).
 
 ## Cultivation
 
@@ -103,7 +89,7 @@ Dried morels are nutritionally dense compared to most culinary mushrooms:
 | Phosphorus | 600–900 mg |
 | B vitamins (B1, B2, B3, B5) | Significant amounts |
 
-Morels are among the richest non-animal sources of vitamin D among cultivated mushrooms when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[agaricus-bisporus]] (button mushroom) and [[lentinula-edodes]] (shiitake).
+Morels are among the richest non-animal sources of vitamin D among cultivated mushrooms when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[lentinula-edodes]] (shiitake).
 
 ## Similar Species
 

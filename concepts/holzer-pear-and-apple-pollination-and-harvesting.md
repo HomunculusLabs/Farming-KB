@@ -120,6 +120,5 @@ At high altitude, plums, pears, and apples develop a very intense flavour becaus
 
 The locations given for each variety are only general guidelines and should show where the best conditions for each variety can be found. The condition of poor soils can, however, be improved to a degree with green manure, by sowing supporting plants and creating microclimates. This can allow the majority of varieties to thrive on soils which first appear to be quite unsuitable.
 
-See also: [[holzer-recommended-old-fruit-varieties]], [[holzer-fruit-growing-marginal-climates]], [[holzer-grafting-fruit-forest]], [[holzer-roundwood-shelters-earth-cellars]], [[holzer-stone-fruit-varieties-and-growing]], [[holzer-fruit-tree-planting-method]]
-- [[holzer-wild-fruit-trees-and-hedges]]
+See also: [[holzer-fruit-growing-marginal-climates]], [[holzer-roundwood-shelters-earth-cellars]], [[holzer-fruit-tree-planting-method]]
 - [[permaculture-multi-purpose-plants]]

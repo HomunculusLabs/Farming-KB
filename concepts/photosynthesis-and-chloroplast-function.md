@@ -57,31 +57,13 @@ Chloroplasts share a close similarity with cyanobacteria -- photosynthesizing ba
 
 ATP (adenosine triphosphate) contains three phosphate ions. Breaking one phosphate bond releases energy stored in that bond; adding a phosphate to ADP stores energy. Phosphorylation -- the transfer of phosphate groups -- is central to both photosynthesis (which makes ATP) and respiration (which uses sugars to make ATP).
 
-While chloroplasts produce some ATP directly, most cellular ATP is produced in mitochondria through the oxidation of glucose. For more on how plants use the energy captured during photosynthesis, see [[adenosine-triphosphate-and-cellular-energy]].
-
-## The Role of Nutrients in Photosynthesis
-
-Photosynthesis depends on adequate supplies of several nutrients:
-
-- **Nitrogen**: Needed for chlorophyll, enzymes, and proteins
-
-- **Magnesium**: Central atom in the chlorophyll molecule
-
-- **Iron**: Essential for electron transport in thylakoids
-
-- **Phosphorus**: Component of ATP and NADPH
-
-- **Manganese**: Part of the water-splitting complex
-
-Without sufficient nutrients, chloroplasts cannot function optimally and photosynthesis declines. The relationship between soil nutrient availability and chloroplast function is explored further in [[plant-nutrient-uptake]].
+While chloroplasts produce some ATP directly, most cellular ATP is produced in mitochondria through the oxidation of glucose. For more on how plants use the energy captured during photosynthesis, see [[plant-nutrient-uptake]].
 
 ## Environmental Factors Affecting Photosynthesis
 
 Several environmental variables influence the rate of photosynthesis beyond nutrient availability. Light intensity follows a saturation curve: initially, photosynthesis increases linearly with light, but plateaus when all reaction centers are occupied. Temperature affects enzyme kinetics -- most C3 plants peak between 25-30°C, beyond which Rubisco's oxygenation activity increases, leading to photorespiration.
 
-Water availability indirectly affects photosynthesis through stomatal closure. When water is scarce, guard cells lose turgor and stomata close, reducing CO2 intake. The interconnected water transport system that sustains this process is described in [[water-pathways-through-plants]].
-
-CO2 concentration is another critical factor. Current atmospheric CO2 levels (~420 ppm) are below the saturation point for most C3 plants, meaning that rising CO2 concentrations could theoretically boost photosynthetic rates -- though this benefit may be offset by nutrient limitations as described by [[von-liebig-law-of-the-minimum-and-fertilizer-history]].
+Water availability indirectly affects photosynthesis through stomatal closure. When water is scarce, guard cells lose turgor and stomata close, reducing CO2 intake. The interconnected water transport system that sustains this process is described in [[von-liebig-law-of-the-minimum-and-fertilizer-history]].
 
 ## Photosynthetic Adaptations
 
@@ -91,15 +73,9 @@ CAM photosynthesis, used by cacti and orchids, temporally separates CO2 fixation
 
 ## Related
 
-- [[c4-and-cam-photosynthesis]] Topics
-
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
 
-- [[plant-micronutrients-and-their-essential-functions]]
-
 - [[plant-cell-structure-and-organelles]] -- cellular context
-
-- [[plant-macronutrient-functions]] -- nutrients needed for photosynthesis
 
 - [[plant-micronutrient-functions]] -- trace elements in photosynthesis
 

@@ -112,10 +112,7 @@ In North America, some forest managers have experimented with reduced-impact har
 
 ## See Also
 
-[[tricholoma-matsutake]] [[boletus-edulis-entity]] [[cantharellus-cibarius-entity]]
-[[amanita-muscaria]] [[lactarius-deliciosus]] [[suillus-luteus]]
-[[leccinum-scabrum]] [[russula-vesca]] [[russula-xerampelina]]
-[[trametes-versicolor]] [[hericium-erinaceus]] [[grifola-frondosa]]
-[[laricifomes-officinalis]] [[fomes-fomentarius]] [[polyporus-umbellatus]]
-[[suillus-grevillei]] [[pholiota-nameko]] [[sparassis-crispa]]
-[[laccaria-laccata]] [[hydnum-repandum]]
+[[boletus-edulis-entity]] [[amanita-muscaria-entity]] [[suillus-luteus]]
+[[russula-vesca]] [[trametes-versicolor-entity]] [[grifola-frondosa]]
+[[fomes-fomentarius]] [[suillus-grevillei]] [[sparassis-crispa]]
+[[hydnum-repandum]]

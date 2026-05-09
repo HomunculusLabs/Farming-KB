@@ -118,13 +118,8 @@ Winter-kill termination relies on species that naturally die back in cold temper
 
 ## See Also
 
-- [[green-manure-cover-crops]]
-- [[composting-and-soil-biology]]
-- [[hugelkultur]]
+- [[ozier-pdc-composting-and-soil-building]]
 - [[companion-planting]]
-- [[rhizobium-legume-symbiosis]]
 - [[query-how-does-crop-rotation-improve-soil-health]]
-- [[organic-farming-history]]
 - [[permaculture]]
-- [[agroecology]]
 - [[query-how-does-crop-rotation-improve-soil-health]]

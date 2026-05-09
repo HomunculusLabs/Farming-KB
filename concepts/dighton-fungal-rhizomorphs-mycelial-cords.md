@@ -26,94 +26,8 @@ adaptations of higher fungi, enabling them to function as ecosystem
 engineers by connecting spatially separated resources and redistributing
 materials across considerable distances. Rhizomorphs are produced
 primarily by basidiomycete fungi and are particularly prominent among
-[[ectomycorrhizal-fungal-ecology]] and wood-decomposing
-fungi, playing central roles in [[fungal-nutrient-translocation-mycelial-systems]]
-and [[fungal-leaf-litter-succession]] dynamics.
-
-## Structure and Development
-
-Individual fungal hyphae average 5 to 6 micrometers in diameter and grow
-by wall extension at the tip (Rayner, 1991). Because of their narrow
-diameter and great length, hyphae present a large surface area relative
-to volume, optimizing the absorption of degradation products and mineral
-nutrients. However, when fungi need to move materials over longer
-distances, hyphae may coalesce to form larger and more robust structures
-called rhizomorphs, strands, or cords (Duddridge et al., 1980; Cooke
-and Rayner, 1984; Cairney, 1992).
-
-These linear structures are differentiated from simple hyphal
-aggregations by the presence of specialized internal anatomy. Some
-rhizomorphs of ectomycorrhizal-ecology|ectomycorrhizal fungi contain
-distinct conductive elements analogous to the vascular tissue of plants
-(Duddridge et al., 1980), though rhizomorphs produced by lichen fungi
-generally lack such clearly differentiated internal transport structures
-(Sanders, 1997). The degree of structural differentiation varies
-considerably among fungal taxa and ecological contexts.
-
-## Physiological Functions
-
-### Nutrient Translocation
-
-The primary function of rhizomorphs is the translocation of water,
-carbon, and mineral nutrients between source and sink regions of the
-fungal mycelium. This movement occurs along gradients of supply and
-demand, with materials flowing from areas of high resource availability
-to areas of low availability or sites of active growth. The movement of
-resources between sources and sinks, known as translocation, has been
-described by Jennings (1976, 1982) and reviewed by Cairney (1992) and
-Boddy (1999).
-
-Wells and Boddy (1990) demonstrated that phosphorus translocation
-through mycelial cord systems of the wood-decomposing fungi
-Phanerochaete velutina and Phallus impudicus occurred at rates up to
-7225 nmol P per square centimeter per day. Translocation of
-radiolabeled phosphorus (32P) from decayed wood blocks to newly
-colonized wood resources has been measured over distances of up to 75
-cm in field experiments (Wells and Boddy, 1995a).
-
-### Resource Exploitation Strategy
-
-Fungal hyphae and rhizomorphs exhibit resource exploitation patterns
-that relate to the quality of exploitable resources and their spatial
-distribution (Boddy, 1999). Rayner et al. (1986) distinguished between
-"fast effuse" and "slow dense" growth patterns: fast growth occurs when
-few resources are available, allowing rapid mycelial extension at
-minimal energetic cost, while slow, dense growth occurs when abundant
-resources require maximal exploitation through increased hyphal surface
-area for enzyme release and nutrient absorption.
-
-The development of cords or rhizomorphs appears to be triggered by
-interactions with other organisms. Wells and Boddy (1990) showed that
-cords were only formed in unsterile soil, suggesting the trigger for
-cord formation derives from the presence of competing microorganisms.
-
-## Environmental Influences
-
-### Moisture and Temperature
-
-Translocation through rhizomorphs is temperature-dependent, with
-greater rates of movement at higher temperatures (Wells and Boddy,
-1995b). Changes from wet to dry soil conditions induce thickening of
-the cord system of Phanerochaete velutina and a reduction in
-phosphorus translocation to new wood resources, while wetting appears
-to have no effect on cord structure or phosphorus movement (Wells et
-al., 2001).
-
-Rhizomorphs and hyphae of canopy-dwelling fungi in tropical forests
-have adapted to desiccating environments by producing copious amounts
-of mucilage and growing at very low moisture potentials (negative 4 to
-negative 8 mPa) (Hedger et al., 1993).
-
-## Roles in Specific Ecosystems
-
-### Wood Decomposition
-
-Basidiomycete fungi that decompose woody debris frequently produce
-rhizomorphs or cords, which provide long-lived connections between
-islands of woody residues and allow reallocations of resources within
-an extensive fungal network. Movement of phosphorus has been measured
-over distances of 1 meter in these systems. This network also serves
-as an ecological compartment for [[fungal-mineral-nutrient-immobilization]],
+[[fungal-nutrient-translocation-mycelial-systems]]
+and [[fungal-mineral-nutrient-immobilization]],
 with nutrients released through fungal death, decomposition, or
 grazing by invertebrates.
 
@@ -146,3 +60,26 @@ profound effects on ecosystem function. This long-distance movement of
 nutrients, carbon, and water can modify the distribution of
 heterogeneously distributed resources and reduce spatial heterogeneity
 within ecosystems.
+
+## See Also
+
+- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
+## Practical Considerations
+
+Successful implementation of Fungal Rhizomorphs and Mycelial Cords requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

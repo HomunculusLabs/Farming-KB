@@ -77,18 +77,10 @@ Maitake commands premium prices in both fresh and dried forms. Fresh Maitake is 
 
 ## See Also
 
-- [[maitake-morphogenetic-stages-observation]]
-
 - [[growing-gourmet-black-poplar-agrocybe-cultivation]]
-- [[growing-gourmet-nameko-pholiota-cultivation]]
-
 - [[maitake-cultivation]]
-- [[maitake-cultivation-guide]]
 - [[maitake-hen-of-the-woods-cultivation]]
-- [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[maitake-d-fraction-research]]
-- [[cancer-maitake-d-fraction]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[gourmet-mushroom-strain-selection]]

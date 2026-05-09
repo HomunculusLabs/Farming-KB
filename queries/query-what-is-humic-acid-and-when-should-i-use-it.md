@@ -26,17 +26,7 @@ Humic substances are among the most complex organic molecules in soil:
 - Commercial products are typically extracted from leonardite, a soft coal-like material
 - They can also be sourced from compost and worm castings
 
-The [[cervantes-humic-fulvic-acid-soil-conditioners]] reference provides detailed guidance on application rates and methods for cannabis cultivation.
-
-## How Humic Acid Benefits Soil
-
-Humic acid improves soil through several interconnected mechanisms:
-
-**Nutrient chelation:**
-- Binds to micronutrients like iron, zinc, and manganese
-- Keeps these nutrients in plant-available forms rather than locked out
-- Prevents nutrient precipitation and lockout in high-pH soils
-- Works alongside the [[soil-food-web-nutrient-cycling]] process
+The [[soil-food-web-nutrient-cycling]] process
 
 **Soil structure improvement:**
 - Helps clay particles form stable aggregates
@@ -51,10 +41,7 @@ Humic acid improves soil through several interconnected mechanisms:
 
 ## Applications in Cannabis Growing
 
-Humic acid has several uses in [[cannabis-living-soil-guide]] systems and other growing methods:
-
-- **Soil drench:** Add to irrigation water at 1-2 tablespoons per gallon during vegetative growth
-- **Compost tea ingredient:** Include in [[compost-tea-aact]] recipes as a microbial food source
+Humic acid has several uses in [[compost-tea-aact]] recipes as a microbial food source
 - **Top-dress amendment:** Mix into soil before planting or as a supplement during the grow
 - **Hydroponic use:** Add to reservoir at low concentrations to improve nutrient uptake efficiency
 - **Foliar spray:** Some growers apply as a foliar mist during early vegetative stage
@@ -77,13 +64,7 @@ While often sold together, humic and fulvic acids serve different functions:
 - Can chelate nutrients and carry them directly into plant cells
 - Works rapidly but does not improve soil structure
 
-The [[teaming-with-microbes-humic-and-fulvic-acids]] discussion covers these distinctions and application strategies in detail.
-
-## Complementary Amendments
-
-Humic acid works synergistically with other soil amendments:
-
-- **[[biochar-in-agriculture]]:** Pre-charge biochar with humic acid to enhance its effectiveness
+The [[biochar-in-agriculture]]:** Pre-charge biochar with humic acid to enhance its effectiveness
 - **Compost tea:** Serves as a food source for the microorganisms being brewed
 - **Mycorrhizal inoculants:** Improves colonization rates when combined with fungal inoculants
 - **Mineral amendments:** Keeps nutrients from rock dusts and phosphate in plant-available forms longer
@@ -103,24 +84,17 @@ Humic acid provides the greatest benefit in specific situations:
 
 - Humic acid is a natural chelator that keeps micronutrients available for plant uptake
 - It improves soil structure by promoting aggregate formation in both clay and sandy soils
-- [[cervantes-humic-fulvic-acid-soil-conditioners]] provides application guidance for cannabis and other crops
-- Use humic acid in soil applications and fulvic acid for foliar or hydroponic use
-- Humic acid stimulates [[soil-food-web]] activity and pairs well with biochar and compost tea
+- [[soil-food-web]] activity and pairs well with biochar and compost tea
 
 ## Related Questions
 
-- [[query-how-to-build-healthy-garden-soil]]
 - [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
-- [[query-how-to-make-compost-tea-for-my-plants]]
 - [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
 
 ## See Also
 
-- [[query-what-is-living-mulch-and-when-should-i-use-it]]
-
 - [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
 
-- [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]
 - [[query-how-to-make-fish-hydrolysate-fertilizer]]
 
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]

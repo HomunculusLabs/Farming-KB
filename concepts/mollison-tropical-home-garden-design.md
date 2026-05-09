@@ -71,44 +71,7 @@ take poultry. Termites and ants largely replace worms in
 soil-building, and buildings must be constructed to resist them.
 Geckoes in houses eat many insect pests, as do wolf spiders.
 
-Marigolds, [[permaculture-neem-tree]] tree leaves or berries, and pyrethrum daisy
-control soil pests and provide insecticides. The neem tree is
-often planted to overhang ponds, so that the berries that drop
-control water-flies and mosquitos. Dilute molasses or cane and
-sorghum sugar juices and stems also activate soil fauna.
-
-## Domestic Animal Integration
-
-Pigeons and bees are most easily protected from predators by
-elevation on pole structures, or over shallow ponds. Guinea fowl,
-francolin, pheasant, and bantams provide essential foraging and
-insect control services. The guinea-pig aids small tree
-establishment as they "chip" the base of young grasses. Small
-pigs of Taiwanese strains provide orchard-fruit garden
-scavenging duties. Waterfowl and aquatic species add yields to
-water storages and assist in grass control.
-
-## Hurricane Protection
-
-Hurricane damage can be limited by raising large earth banks,
-selecting valley garden sites, screening plantings with bamboo
-groves, establishing a general tree canopy through garden and
-plantation, or a combination of these strategies. Oversize
-swales aid wet-season water run-off control and diversion to
-storage. Strong cross-bracing, deep ground anchors, and
-strapped timbers may be necessary where powerful winds are known.
-
-## Mulch as the Cornerstone
-
-Mulch provision is the cornerstone of tropical home gardens,
-and green mulch and tree legumes the essential accompaniment of
-main crops and tree crops. A combination of growing and gathering
-mulch enables creation of rich humus for gardens over clays or
-sands, in loose volcanic cinder, on lava, and in loose coral
-atoll sands. Each situation can successfully produce mulch.
-
-Hedgerow and mulch plants (Hibiscus, Casuarina, banna grass,
-palms, leguminous trees such as Gliricidia, [[acacia]], and
+Marigolds, [[acacia]], and
 Prosopis) are almost continual mulch sources. Soft herbaceous
 plants such as nasturtium, comfrey, marigolds, tobacco plants,
 and the tops of mature taro plants suppress grass and provide
@@ -128,7 +91,5 @@ termites, and beetle larvae.
 
 ## See Also
 
-- [[mollison-zone-one-garden-design]]
 - [[mollison-designers-coconut-palm-dominant-polyculture]]
-- [[mollison-bamboo-permaculture-systems]]
 - [[mollison-domestic-small-animals-zone-one]]

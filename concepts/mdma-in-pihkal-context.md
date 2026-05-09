@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Identity
 
-**MDMA**: 3,4-Methylenedioxymethamphetamine. The N-methylated derivative of [[ayahuasca-and-dmt-plant-medicine]]. The compound combines the 3,4-methylenedioxy ring substitution of the MD family with an N-methyl group on the amphetamine nitrogen.
+**MDMA**: 3,4-Methylenedioxymethamphetamine. The N-methylated derivative of [[mda-compound-profile]]. The compound combines the 3,4-methylenedioxy ring substitution of the MD family with an N-methyl group on the amphetamine nitrogen.
 
 Molecular formula: C11H15NO2
 
@@ -66,7 +66,7 @@ Unlike classic psychedelics, MDMA is not a direct 5-HT2A receptor agonist, which
 
 ## Comparison to MDA
 
-MDA ([[ayahuasca-and-dmt-plant-medicine]]) is the N-desmethyl version of MDMA:
+MDA ([[mda-compound-profile]]) is the N-desmethyl version of MDMA:
 
 - **MDA** is more psychedelic (5-HT2A agonist activity), more stimulating, and longer-acting
 - **MDMA** is more empathogenic, less visual, shorter-acting, and generally more comfortable
@@ -86,8 +86,4 @@ MDMA's legal trajectory has been contentious:
 
 While MDMA is one of the most famous phenethylamines, it is one of many in PIHKAL's 179-compound catalog. Its inclusion in the book reflects Shulgin's systematic documentation approach — MDMA is treated with the same analytical rigor as every other compound, with synthesis, dosage, duration, qualitative comments, and extensions. Its prominence in popular culture and clinical research, however, far exceeds its relative position within the broader PIHKAL framework.
 
-See also: [[ayahuasca-and-dmt-plant-medicine]], [[2c-b-compound-profile]], [[shulgin-research-contributions]], [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]]
-
-## See Also
-
-- [[mdma-reference]]
+See also: [[mda-compound-profile]], [[2c-b-compound-profile]], [[shulgin-research-contributions]], [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]]

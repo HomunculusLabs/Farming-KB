@@ -122,10 +122,6 @@ for decomposition to be largely complete.
 
 ## Related
 
-- [[solomon-potassium-yield-versus-nutrition-tradeoff]] Concepts
-
 - [[solomon-complete-organic-fertilizer-guide]]
-- [[solomon-fertilizer-selection-application]]
 - [[solomon-lime-calcium-ph-management]]
-- [[solomon-soil-mineral-depletion]]
 - [[solomon-vegetable-nutritional-decline-trace-minerals]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa Flowering Cycle Management
+title: [[cannabis-sativa]] Flowering Cycle Management
 created: 2026-04-28
 tags: [cannabis, sativa, flowering, cultivation, grow-cycle]
 date: 2026-04-28
@@ -128,23 +128,14 @@ the plant and reduce yield.
 
 ## Common Flowering Issues
 
-**Bud rot (Botrytis cinerea):** Sativa's looser flower structure
-provides some protection, but humid conditions during late flowering
-can still trigger botrytis. Maintain humidity below 55% and ensure
-adequate air circulation. Remove affected buds immediately.
-
-**Nutrient deficiencies:** Potassium and phosphorus deficiencies are
-common during mid-to-late flowering. Address deficiencies promptly
-but avoid overcorrection, which can cause nutrient lockout.
+**Bud rot ([[nutrient-lockout]].
 
 **Slow maturation:** Some sativa strains, particularly Haze
 derivatives and pure equatorial landraces, can take 14-20 weeks to
 finish. Harvesting prematurely sacrifices potency, flavor, and yield.
 Use a jeweler's loupe to monitor trichome development rather than
 relying on pistil coloration alone.
-
 ## See Also
 
-- [[cannabis-photoperiod-flowering-cycle]]
-- [[cannabis-photoperiodism-and-light-cycles]]
+- [[cannabis-sativa-morphology-and-plant-architecture]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]

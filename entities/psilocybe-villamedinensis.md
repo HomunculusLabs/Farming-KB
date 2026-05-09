@@ -46,14 +46,14 @@ The species appears to tolerate some degree of habitat disturbance, as it has be
 
 ## Chemistry
 
-The species contains the psychoactive indole alkaloids [[psilocybin-compound]] and [[psilocin]], as indicated by the strong blue bruising reaction observed in all fresh collections and confirmed through chemical analysis. Both major tryptamine alkaloids have been detected using standard chromatographic methods.
+The species contains the psychoactive indole alkaloids [[psilocin]], as indicated by the strong blue bruising reaction observed in all fresh collections and confirmed through chemical analysis. Both major tryptamine alkaloids have been detected using standard chromatographic methods.
 Quantitative analysis of alkaloid concentrations remains limited, with no published values for exact psilocybin or psilocin content per dry weight. However, based on the intensity of the bluing reaction and the typical alkaloid profiles of species in psilocybe-sect.-psilocybe, the expected potency is moderate, consistent with other neotropical montane Psilocybe species.
 The bluing reaction is particularly pronounced on the stipe and pileus context, suggesting a relatively high psilocin concentration in fresh tissue. No unusual or atypical tryptamine compounds have been reported. Further analytical studies with standardized methodology are needed to provide quantitative alkaloid data for this species.
 The altitudinal distribution of *P. villamedinensis*, occurring at elevations above 1,500 meters, may influence its alkaloid profile, as environmental factors including UV exposure and temperature have been shown to affect tryptamine biosynthesis in other Psilocybe species.
 
 ## Similar Species
 
-Within its range, *P. villamedinensis* may be confused with other neotropical bluing Psilocybe species such as [[psilocybe-caerulescens-entity]], [[psilocybe-zapotecorum]], and psilocybe venezuelae. These species share overlapping macroscopic features and habitat preferences.
+Within its range, *P. villamedinensis* may be confused with other neotropical bluing Psilocybe species such as [[psilocybe-zapotecorum]], and psilocybe venezuelae. These species share overlapping macroscopic features and habitat preferences.
 Microscopic characters, particularly spore size and shape, are important for differentiation. The Venezuelan Psilocybe flora includes several species that can be difficult to separate without careful examination.
 The presence of pleurocystidia in *P. villamedinensis* may help distinguish it from some congeners, though this character requires microscopic observation and is not always reliable as a sole diagnostic feature. Molecular identification using ITS barcoding would provide the most definitive means of species confirmation. However, the limited availability of reference sequences for Venezuelan Psilocybe species in public databases such as GenBank currently constrains the utility of DNA-based identification for this species.
 
@@ -74,9 +74,7 @@ The El Ávila National Park and other protected areas in the Venezuelan Andes ma
 
 ## See Also
 
-- [[psilocybe-caerulescens-entity]]: neotropical species with overlapping distribution
 - [[psilocybe-zapotecorum]]: widely distributed neotropical psilocybian species
 - psilocybe venezuelae: Venezuelan congener
-- [[psilocybin-compound]]: primary psychoactive compound
 - [[psilocin]]: psychoactive degradation product of psilocybin
 - [[baeocystin]]: minor tryptamine alkaloid common in section Psilocybe

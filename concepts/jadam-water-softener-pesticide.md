@@ -104,19 +104,4 @@ effectiveness. Using the water softener ensures consistent results from
 batch to batch. The small monthly cost is offset by improved pest control
 and reduced pesticide waste. Even commercial chemical pesticides produce
 less foam and have reduced wetting power in hard water, making the
-softener valuable for [[integrated-pest-management]] programs.
-
-### Large-Scale Farming Operations
-
-For farms spraying frequently, the water softener becomes an essential
-piece of infrastructure. The ability to produce 500 liters of soft water
-in 30 minutes supports regular spray schedules. At approximately seven
-dollars per acre for all pesticide inputs in JADAM systems, the water
-softener represents a minimal additional cost with maximum impact on
-effectiveness.
-
-## References
-
-- Source: the-way-to-ultra-low-cost-agriculture-untitled.md, lines 7300-7450
-- Related: [[jadam-water-softener]], [[jadam-wetting-agent-jwa]]
-- Related: [[jadam-water-quality-softening]], [[jadam-water-quality-pesticide]]
+softener valuable for [[jadam-water-softener]], [[jadam-water-quality-softening]], [[jadam-water-quality-pesticide]]

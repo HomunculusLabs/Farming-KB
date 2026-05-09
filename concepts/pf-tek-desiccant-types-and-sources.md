@@ -1,19 +1,6 @@
 ---
 title: PF TEK Desiccant Types and Sources for Mushroom Drying
-tags: [mycology, pf-tek, drying, desiccant, preservation, psilocybe-cubensis, harvest]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md
----
-
-# PF TEK Desiccant Types and Sources for Mushroom Drying
-
-The PF TEK identifies desiccant drying as the overall best technique for preserving harvested mushrooms. Cool desiccant drying preserves alkaloid content far better than heat based methods such as oven drying or hot air dehydration. Three primary desiccant products are recommended, each with different availability, cost, and performance characteristics.
-
-## Why Desiccant Drying Is Preferred Over Heat Methods
-
-The PF TEK explicitly warns against heat based drying methods. Oven drying and hot air dryers leach chemical constituents from the fungi and significantly reduce their quality. Heat accelerates the breakdown of psilocybin and psilocin, the primary active alkaloids in Psilocybe Cubensis.
+tags: [[psilocybe-cubensis]].
 
 Desiccant drying works through an entirely different mechanism. Rather than applying heat to drive off moisture, desiccant materials absorb moisture from the air within a sealed container. As the mushroom transpires moisture into the enclosed airspace, the desiccant immediately captures it, progressively pulling the fungi to a bone dry state. This process occurs at ambient temperature or even at refrigerated temperatures for maximum alkaloid preservation.
 
@@ -133,7 +120,5 @@ Several errors can reduce the effectiveness of the desiccant drying process:
 
 ## See Also
 
-- [[pf-tek-desiccant-drying-technique]] for the complete drying workflow
 - [[pf-tek-aborts-and-potency-harvesting]] for harvesting immature high potency specimens
-- [[pf-tek-mushroom-potency-and-age-relationship]] for the science of alkaloid preservation
 - [[mushroom-potency-drying-and-extraction]] for drying and extraction methodology

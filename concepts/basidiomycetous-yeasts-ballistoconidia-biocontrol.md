@@ -19,13 +19,7 @@ type: concept
 Basidiomycetous yeasts are fungi that exist predominantly
 in a unicellular (yeast) state but belong phylogenetically
 to the Basidiomycota. Unlike the well-known ascomycetous
-yeasts such as Saccharomyces cerevisiae, basidiomycetous
-yeasts are distributed across multiple lineages within the
-Basidiomycota and exhibit diverse ecological roles in the
-phyllosphere, soil, and aquatic environments. Many species
-produce ballistoconidia, forcibly discharged spores that
-are actively propelled from the yeast colony. These yeasts
-are related to the broader [[basidiomycetous-yeasts-diversity-phylogenetic-distribution]]
+yeasts such as [[basidiomycetous-yeasts-diversity-phylogenetic-distribution]]
 but are distinct in their reproductive strategies and
 biocontrol potential.
 
@@ -38,16 +32,8 @@ subphyla of the Basidiomycota:
   Bensingtonia, Rhodotorula, Rhodosporidium, and
   Sporidiobolus. Many members produce carotenoid pigments,
   giving colonies pink, red, or salmon colors. This
-  subphylum also includes the [[urediniomycetes-rust-fungi-yeastlike-relatives]].
-- **Ustilaginomycotina**: Including the genera
-  Pseudozyma, Tilletiopsis, and Itersonilia. Members of
-  this subphylum are often associated with plant surfaces
-  and may have close phylogenetic relationships to plant
-  pathogenic smut fungi. The
-  [[ustilaginomycetes-smut-fungi-classification-diversity]]
-  are their closest relatives.
-
-The [[basidiomycota-classification-major-clades]] has been
+  subphylum also includes the [[smut-fungi]]. The
+  [[basidiomycota-classification-major-clades]] has been
 refined by molecular phylogenetics, revealing that the yeast
 state has evolved independently multiple times within the
 Basidiomycota.

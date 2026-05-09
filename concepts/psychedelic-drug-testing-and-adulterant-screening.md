@@ -63,7 +63,7 @@ Reagent tests use chemical solutions that change color in the presence of specif
 #### Ehrlich Reagent
 
 - **Contains**: p-Dimethylaminobenzaldehyde (p-DMAB) in ethanol
-- **Detects**: Indole compounds -- LSD, [[psilocybin-compound]]/[[psilocin]], DMT, 5-MeO-DMT, tryptamines
+- **Detects**: Indole compounds -- LSD, [[psilocin]], DMT, 5-MeO-DMT, tryptamines
 - **Color reactions**:
   - LSD: Purple/pink
   - Psilocybin/psilocin: Purple/pink
@@ -146,4 +146,4 @@ A reagent test that matches expected results significantly increases confidence 
 - Never touch reagent to skin or eyes; store in cool, dark locations
 - Replace kits every 6-12 months; never mix reagent bottles
 - Dispose of used reagents and test materials safely
- For further reading on safety practices, see [[psychedelic-harm-reduction]], [[lsd-pharmacology]], and [[ecstasy-mdma-guide]].
+ For further reading on safety practices, see [[lsd-pharmacology]], and [[ecstasy-mdma-guide]].

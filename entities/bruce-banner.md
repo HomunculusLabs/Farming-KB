@@ -32,7 +32,7 @@ sources:
 
 **Parent strains:**
 - **OG Kush** (♀ maternal parent) — the legendary indica-dominant hybrid that forms the backbone of modern West Coast cannabis genetics. Contributes potency, complex terpene profile (earthy, piney, fuel), and sedative body effects.
-- **Strawberry Diesel** (♂ paternal parent) — a cross of [[strawberry-cough]] and [[nyc-diesel]]. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
+- **Strawberry Diesel** (♂ paternal parent) — a cross of [[nyc-diesel]]. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
 
 **Genetic ratio:** Approximately 60% sativa / 40% indica, though the experience shifts markedly from sativa-dominant onset to indica-dominant come-down.
 
@@ -67,84 +67,25 @@ Bruce Banner's terpene profile is complex and layered, reflecting its dual herit
 - Smooth smoke with expanding, full-bodied vapor
 
 **Dominant terpenes:**
-- **[[myrcene]]** (herbal, musky, sedative) — typically the most abundant, contributing to the heavy body effects
-- **Caryophyllene** (peppery, spicy) — anti-inflammatory, contributes to the diesel/fuel aroma
 - **[[limonene]]** (citrus, uplifting) — mood-enhancing, contributes to the cerebral onset
-- **[[pinene]]** (pine, alertness) — bronchodilatory, counteracts some sedative effects
-- **Linalool** (floral, calming) — present in moderate amounts, contributing to the relaxing finish
-
-## Cannabinoid Profile
-
-Bruce Banner is renowned for exceptionally high THC content:
-
-| Cannabinoid | Typical Range | Notes |
-|------------|---------------|-------|
-| THC | 24–30% | Among the highest reliably tested strains |
-| THCa | 27–35% | Acidic precursor; decarboxylates to THC |
-| CBD | <0.1–0.5% | Very low; not a CBD-dominant strain |
-| CBG | 0.1–0.5% | Trace levels |
-| CBC | <0.1% | Trace |
-
-The strain has consistently tested at or above 28% THC in legal market testing, with some phenotypes and specific grows reaching 30%+. This places it among the most potent cannabis strains commercially available.
-
-## Effects Profile
-
-Bruce Banner's effects are characterized by a clear two-phase experience that mirrors its dual genetic heritage:
-
-### Phase 1: Cerebral Euphoria (0–45 minutes)
-
-The onset is rapid and predominantly sativa-driven:
-- **Euphoria:** Intense feelings of happiness, well-being, and elevated mood
-- **Creativity:** Enhanced creative thinking, divergent thought, and artistic inspiration
-- **Energy:** Mild to moderate cerebral stimulation; not typically couch-locking at this stage
-- **Sociability:** Increased talkativeness and desire for social interaction
-- **Sensory enhancement:** Heightened appreciation of music, art, food, and visual stimuli
-
-### Phase 2: Physical Relaxation (45 minutes–3+ hours)
-
-The effects gradually shift to the indica-dominant side:
-- **Body stone:** Deep, warm, enveloping physical relaxation that can become quite heavy
-- **Pain relief:** Effective analgesia for chronic pain, muscle tension, headaches, and inflammation
-- **Sedation:** Progressive drowsiness; can become profoundly sedating, especially at higher doses
-- **Appetite stimulation:** Strong munchies effect
-- **Sleep aid:** Powerful sleep promotion in the later stages, making it effective for insomnia
-
-### Therapeutic Applications (patient-reported)
-
-- **Chronic pain:** Back pain, neuropathic pain, arthritis, fibromyalgia, migraine
-- **Mood disorders:** Depression, stress, anxiety (in low-to-moderate doses; high doses may worsen anxiety in some users)
-- **Sleep disorders:** Insomnia, sleep maintenance difficulties
-- **Appetite loss:** Cancer-related cachexia, HIV wasting syndrome, eating disorders
-- **Nausea:** Adjunctive relief during chemotherapy
-- **PTSD:** Some patients report symptom relief, though high THC can be triggering for some trauma responses
-
-### Potential Adverse Effects
-
-- **Anxiety and paranoia:** At high doses or in anxiety-prone individuals, the intense cerebral effects can become overwhelming — "the Hulk smash" cuts both ways
-- **Dry mouth and dry eyes:** Standard cannabis side effects
-- **Couch lock:** The heavy body effects can be debilitating at higher doses
-- **Dizziness:** Especially when standing up quickly during the body-stone phase
-- **Rapid tolerance development:** Due to very high THC, regular users may experience rapid tolerance escalation
-
-## Cultivation
-
-Moderately challenging; rewards experienced growers with exceptional yields and potency.
-
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Flowering time | 8–10 weeks |
-| Yield (indoor) | 400–500 g/m² |
-| Yield (outdoor) | 500–700 g/plant |
-| Height (indoor) | 100–150 cm (manageable with training) |
-| Difficulty | Moderate to advanced |
-
-Responds well to LST, scrog, and topping. Heavy feeder during mid-to-late flowering (CalMag recommended). Cool night temps (15–18°C) enhance purple coloration and terpenes. Susceptible to bud rot in high humidity — keep at 45–55% RH. Peak harvest at 8–9 weeks when trichomes are mostly cloudy with 10–20% amber. Most desirable phenotype: dense elongated buds, strong purple coloration, intense diesel + strawberry aroma, heavy trichome frost.
-
-## Awards and Recognition
-
-Multiple placements in High Times Cannabis Cup (Colorado events) and Emerald Cup. Consistently ranked among the top 10 strongest strains in independent testing.
-
-## See Also
-
-- [[og-kush]] — The legendary OG Kush parent
+- **[[og-kush]] — The legendary OG Kush parent
 - [[sour-diesel]] — NYC Diesel relative contributing to the lineage
+## Practical Considerations
+
+Successful implementation of bruce banner requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

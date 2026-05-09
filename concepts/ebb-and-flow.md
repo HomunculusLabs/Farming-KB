@@ -31,27 +31,16 @@ Once the nutrient solution reaches a set level, an overflow pipe drains the exce
 ## Advantages of Ebb and Flow
 
 - **Proven reliability**: Ebb and flow systems have a long track record of successful cannabis cultivation.
-- **Low maintenance**: Simple design means fewer things can go wrong compared to more complex systems like [[nutrient-film-technique]].
-- **Versatility**: Works with many growing mediums and container sizes.
-- **Good oxygenation**: The drain cycle draws fresh air into the root zone with each cycle.
-- **Ideal for SOG**: Ebb and flow systems are ideal for growing many short plants in a [[green-cannabis-grow-bible-vegetative-phase-management]] garden.
+- **Low maintenance**: Simple design means fewer things can go wrong compared to more complex systems like [[green-cannabis-grow-bible-vegetative-phase-management]] garden.
 - **Forgiving**: The growing medium provides some buffering against pH and nutrient fluctuations.
 
 ## Growing Mediums for Ebb and Flow
 
 Ebb and flow works best with growing mediums that drain rapidly and hold plenty of air:
-- [[rockwool-cannabis]] blocks or cubes
-- expanded clay pellets (hydroton)
 - [[coco-coir-cannabis]] in pots or grow bags
 - Cannabis Growing Mediums in containers
 
-Avoid lightweight mediums such as [[perlite-cannabis]] that may cause containers to float and tip over when the table floods.
-
-## Flood Height and Timing
-
-The table should be flooded to half to three-quarters the height of the container to ensure even nutrient solution distribution throughout the growing medium. Do not let nutrient solution stand in the table for more than 30 minutes, as submerged roots can drown in the depleted oxygen environment.
-
-Flood the table when the medium is about half-full of moisture. Remember that [[rockwool-cannabis]] holds a lot of moisture, so irrigation frequency may need adjustment. Irrigation regimens will need to change substantially when temperatures cool and light levels drop.
+Avoid lightweight mediums such as [[rockwool-cannabis]] holds a lot of moisture, so irrigation frequency may need adjustment. Irrigation regimens will need to change substantially when temperatures cool and light levels drop.
 
 ## Irrigation Frequency
 
@@ -69,7 +58,7 @@ The reservoir must hold a large volume of water to fill the entire table. Make s
 
 Air tables are a variation of the ebb and flow concept. Instead of a water pump, an external air pump generates pressure that forces nutrient solution up to the growing bed. Once flooded, the solution stays in the bed for a few minutes before draining back to the reservoir. The constant air pressure during flooding also aerates the growing medium. The sealed, airtight reservoir limits evaporation, prevents algae growth, and keeps nutrients fresh.
 
-Air tables work well with [[rockwool-cannabis]], [[coco-coir-cannabis]], peat, or composite growing mediums. The external pump reduces overall system cost and helps prevent electrical accidents.
+Air tables work well with [[coco-coir-cannabis]], peat, or composite growing mediums. The external pump reduces overall system cost and helps prevent electrical accidents.
 
 ## Nutrient Solution
 
@@ -89,46 +78,15 @@ The pH should be maintained between 5.5 and 6.5, with 5.8 to 6.0 being ideal for
 
 Ebb and flow offers a middle ground between simpler and more complex hydroponic methods:
 
-- **vs. DWC**: [[deep-water-culture]] has no flood cycles and roots remain submerged. Ebb and flow provides better oxygenation through periodic draining but requires more components.
-- **vs. NFT**: [[nutrient-film-technique]] uses constant flow with minimal medium. Ebb and flow provides more buffering through the growing medium but is less water-efficient.
-- **vs. Drip**: [[cervantes-drip-irrigation-systems]] deliver solution from above. Ebb and flow floods from below, which pushes stale air out of the medium more effectively.
-- **vs. Wick**: [[cervantes-passive-wick-hydroponic-systems]] are passive and slower. Ebb and flow is active and supports faster growth rates.
+- **vs. DWC**: [[nutrient-film-technique]] uses constant flow with minimal medium. Ebb and flow provides more buffering through the growing medium but is less water-efficient.
+- **vs. Drip**: [[cervantes-passive-wick-hydroponic-systems]] are passive and slower. Ebb and flow is active and supports faster growth rates.
 
 ## Cannabis Growth Stages in Ebb and Flow
 
 Ebb and flow supports all cannabis growth stages:
-- **Cloning and seedlings**: Rockwool cubes or small net pots on the flood table provide consistent moisture for [[cannabis-clone-rooting-and-transplanting]].
-- **Vegetative growth**: The system supports vigorous [[cannabis-vegetative-growth-stage]] with frequent flooding cycles.
-- **Flowering**: Adjust nutrient solution to flowering formula and maintain consistent irrigation during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
-- **Sea of Green**: Ebb and flow is ideal for SOG setups with many short plants packed tightly together.
-
-## Common Problems
-
-- **Incomplete drainage**: Standing water promotes root rot and reduces oxygen availability. Ensure the table has proper incline and drainage. Pockets of standing water contain less oxygen and promote rot.
-- **Floating containers**: Lightweight mediums can cause pots to float and tip over when the table floods. Use heavier mediums like expanded clay or anchor containers.
-- **Salt buildup**: Visible as white crust on medium surface or burned, discolored leaves. Flush with plain water and adjust nutrient concentration.
-- **Pump failure**: Can lead to dry plants between cycles. Check pump operation regularly and keep a backup pump available.
-- **Uneven flooding**: Check that the table is level so all containers receive equal amounts of nutrient solution.
-
-## Troubleshooting Guide
-
-| Problem | Likely Cause | Solution |
-|---------|-------------|----------|
-| Plants wilting between floods | Underwatering or root bound | Increase flood frequency; check root mass |
-| Brown or slimy roots | Root rot from poor drainage | Improve drainage; reduce flood duration |
-| Yellow leaves | Nutrient deficiency or pH lockout | Check pH and EC; adjust nutrient solution |
-| Algae on medium surface | Light exposure or stagnant water | Block light; ensure complete drainage |
-| Slow growth | Low nutrient strength | Increase EC; verify fertilizer quality |
-
-## See Also
-
-- ebb and flow
-
-- [[hydroponic-cannabis]]
-- [[deep-water-culture]]
+- **Cloning and seedlings**: Rockwool cubes or small net pots on the flood table provide consistent moisture for [[cannabis-vegetative-growth-stage]] with frequent flooding cycles.
+- **Flowering**: Adjust nutrient solution to flowering formula and maintain consistent irrigation during [[hydroponic-cannabis]]
 - [[nutrient-film-technique]]
-- [[banisteriopsis-caapi]]
 - [[drip-irrigation-cannabis]]
-- [[cannabis-growing-mediums]]
 - [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-watering-schedule-and-frequency]]

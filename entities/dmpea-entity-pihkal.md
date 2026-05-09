@@ -74,13 +74,12 @@ a modified Soxhlet condenser. The addition took 2 h and the refluxing was mainta
 
 DMPEA is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved [[mescaline-entity]] consumption.
-
-## See Also
-
-- [[2c-o-4-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
+extreme caution. This compound is not approved [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related amines: dopamine, mescaline
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

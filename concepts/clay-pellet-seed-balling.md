@@ -17,14 +17,7 @@ type: concept
 
 # Clay Pellet Seed Balling
 
-Clay pellet seed balling is [[masanobu-fukuoka]]'s innovative technique for direct
-seeding without tillage, irrigation, or chemical treatment. By encasing seeds in balls
-of clay-rich earth, the method protects seeds from predation and desiccation while
-creating a favorable micro-ecosystem for germination and early seedling growth.
-
-## The Problem with Direct Seeding
-
-Fukuoka's [[direct-seeded-no-tillage-rice-barley-succession|no-tillage rice-barley]]
+Clay pellet seed balling is [[direct-seeded-no-tillage-rice-barley-succession|no-tillage rice-barley]]
 succession cropping system depends on reliable direct seeding. However, direct seeding
 into untilled soil presents several challenges: seeds may be eaten by birds, mice, or
 insects; they may dry out before germinating; or they may be washed away by rain. In a
@@ -42,7 +35,7 @@ protective shell that hardens when dry, shielding the seed inside from external 
 
 The pellet also serves as a microbial delivery system. One gram of soil from Fukuoka's
 farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching
-microbes. By mixing soil into the pellet, these [[microbes-as-scavengers-in-natural-farming|beneficial microorganisms]] are inoculated directly into the germination zone.
+microbes. By mixing soil into the pellet, these beneficial microorganisms are inoculated directly into the germination zone.
 
 The inclusion of organic matter within the pellet provides initial nutrients for the
 seedling once germination begins, while the clay regulates moisture retention and
@@ -96,51 +89,9 @@ approach has been used successfully to revegetate denuded slopes and desertified
 
 ### Vegetable Gardens
 
-In the [[natural-orchard-management|natural orchard]] and vegetable garden, clay
-pellets allow direct seeding of vegetables and herbs without preparing seed beds.
-Pellets are simply scattered where plants are desired, and nature handles the rest.
-
-## Advantages Over Conventional Methods
-
-The clay pellet technique offers several advantages over conventional seed treatment
-and sowing methods:
-
-- **No tillage required**: Seeds are placed on the soil surface without any soil
-  disturbance, preserving soil structure and microbial communities.
-- **No chemical treatment**: Unlike commercially treated seeds coated with fungicides
-  and insecticides, clay pellets use natural materials and biological protection.
-- **Predation resistance**: The hard clay shell deters birds, mice, and insects from
-  consuming the seeds.
-- **Moisture regulation**: Clay absorbs water slowly and releases it gradually,
-  maintaining optimal moisture for germination even in fluctuating conditions.
-- **Multi-species sowing**: Different seeds can be mixed in the same pellet or
-  different pellets can be broadcast together, allowing polyculture from the start.
-- **Long shelf life**: Dried pellets can be stored for extended periods without loss
-  of viability.
-- **Low cost**: All materials are locally available and the manufacturing process
-  requires no special equipment.
-
-## Philosophical Significance
-
-For Fukuoka, clay pellet seed balling embodies the principle of doing nothing. The
-farmer does not plow, does not irrigate, does not apply chemicals, and does not even
-plant in the conventional sense. He simply scatters seeds enclosed in earth and trusts
-the natural processes of germination and growth.
-
-This trust is not blind faith but is grounded in decades of observation and
-experimentation. Fukuoka found that when seeds are given the right protection and
-conditions, they possess an innate capacity to grow without human intervention. The
-clay pellet is merely the minimal assistance needed to let nature take its course.
-
-## See Also
-
-- [[masanobu-fukuoka]]
-- [[natural-farming]]
+In the [[masanobu-fukuoka]]
 - [[natural-orchard-management]]
 
-- [[masanobu-fukuoka]]
 - [[natural-farming]]
-- [[direct-seeded-no-tillage-rice-barley-succession]]
-- [[microbes-as-scavengers-in-natural-farming]]
 - [[natural-orchard-management]]
-- [[no-tillage-agriculture]]
+- no tillage agriculture

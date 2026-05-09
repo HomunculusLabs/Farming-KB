@@ -115,15 +115,9 @@ fears of change may cause rigidity in a naturally soft and ever-changing organ.
 
 ## See Also
 
-- [[blesching-cannabis-thyroid-cancer]]
-
 - [[cannabis-health-cancer]]
 
-- [[blesching-cannabis-cancer-night-sweats]]
-
 - [[blesching-cannabis-neuroprotection]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-endocannabinoid-system-overview]]
-- [[blesching-cannabinoid-pharmacology]]
 - [[cannabis-for-epilepsy-and-seizure-disorders]]
 - [[blesching-cannabis-stroke]]

@@ -11,50 +11,10 @@ type: concept
 
 # Downy Mildew, Blight, and Foliar Fungal Diseases
 
-Several fungal diseases beyond [[cervantes-gray-mold-botrytis-prevention]] threaten cannabis crops.
-Downy mildew, various blights, and foliar spot diseases can
-cause significant damage if environmental conditions favor
-their development. These diseases are often fatal once
-established and can wipe out entire crops rapidly.
-
-## Downy Mildew
-
-Downy mildew, sometimes called false mildew, affects both
-[[cervantes-vegetative-phase]] and
-[[cervantes-sex-determination-pre-flowering]] plants. Young,
-succulent foliage is the preferred starting point for
-infection.
-
-### Identification
-
-- Whitish-yellow spots appear on top of leaves, creating
-  pale patches
-- Grayish mycelium spawn develops on leaf undersides,
-  opposite the pale patches on top
-- The disease is systemic: it enters the plant and grows
-  outward from within
-- Leaves yellow, die back, and drop progressively
-
-### Environmental Conditions
-
-Downy mildew develops in temperatures below 76F (26C).
-Avoiding conditions that favor this disease is essential:
-
-- Keep [[cervantes-reservoir-temperature-management]]
+Several fungal diseases beyond [[cervantes-vegetative-phase]] and
+[[cervantes-reservoir-temperature-management]]
   above 76F (26C)
-- Maintain [[cervantes-humidity-control-dehumidification]] below 50 percent
-- Avoid crowding plants, which reduces air circulation
-  and creates humid microclimates
-
-### Control
-
-- Remove and destroy entire affected plants, not just
-  damaged foliage, because the disease is systemic
-- Apply Serenade (Bacillus subtilis) as a biological
-  control spray
-- Bordeaux mixture provides some protection when applied
-  preventively
-- Use sterile [[cervantes-growing-medium]]
+- Maintain [[cervantes-growing-medium]]
   for each new crop
 - Maintain clean grow room conditions at all times
 
@@ -69,18 +29,10 @@ symptoms on cannabis.
 
 - Dark, blotchy spots appear on foliage
 - Growth slows noticeably
-- Sudden yellowing and [[cervantes-wilting-plant-water-stress]] occur
-- In severe cases, plant death results
-- Most blights spread quickly through large areas of
-  plants
-
-### Control
-
-- Use fresh, sterile [[cervantes-growing-medium]] for each crop
+- Sudden yellowing and [[cervantes-growing-medium]] for each crop
 - Avoid excess nitrogen fertilization, which promotes
   tender, susceptible growth
-- Maintain proper [[cervantes-nutrient-stock-solutions-concentrates]] and good drainage
-- Prevent [[cervantes-salt-buildup-leaching-management]] that stresses roots
+- Maintain proper [[cervantes-salt-buildup-leaching-management]] that stresses roots
 - Biological controls include Serenade (Bacillus subtilis)
   against Brown Blight
 - Trichoderma-based products (Bio-Fungus, RootShield,
@@ -111,12 +63,7 @@ foliage with various symptoms that impair plant function.
 
 ### Control
 
-- Maintain proper [[cervantes-reservoir-temperature-management]] to avoid temperature-stress spots
-- Avoid spraying cold water on plants under hot lights
-- Remove affected foliage to slow disease spread
-- Apply appropriate fungicides when fungal spots are
-  identified
-- Ensure adequate [[cervantes-air-quality-ventilation]] to reduce humidity on leaf surfaces
+- Maintain proper [[cervantes-air-quality-ventilation]] to reduce humidity on leaf surfaces
 
 ## General Fungal Disease Prevention
 

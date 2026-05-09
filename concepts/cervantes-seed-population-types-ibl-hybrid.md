@@ -121,23 +121,8 @@ varieties finish or mold is prevalent.
 A synthetic variety is an interbreeding population derived from inter-
 mating a group of specific genotypes, each selected for good combining
 ability in all possible hybrid combinations. Subsequent maintenance is
-achieved by [[cervantes-open-pollinated-heirloom-seeds]] and usually involves rounds of recurrent selection over a
-series of generations.
+achieved by [[cervantes-hybrid-varieties-types]]
 
-## Combining Ability
-
-When breeding cross-pollinators, hybrid performance is discussed in
-terms of combining ability. General combining ability (GCA) is the
-average performance of a given line in hybrid combinations with other
-lines. Specific combining ability (SCA) is the performance of a
-specific line when crossed with the same specific pollen source.
-
-## See Also
-
-- [[cervantes-hybrid-varieties-types]]
-
-- [[cannabis-genetics-and-breeding]]
 - [[cervantes-backcross-breeding-methods]]
-- [[cervantes-hybrid-vigor-inbreeding-depression]]
 - [[cervantes-open-pollinated-heirloom-seeds]]
 - [[cervantes-selfing-single-seed-descent]]

@@ -141,8 +141,6 @@ in field soils.
 
 ## See Also
 
-- [[biostimulation-techniques]]
-- [[bioremediation-using-fungi]]
-- [[fungal-formulation-in-situ-bioremediation]]
+- [[fungal-bioremediation-mechanisms]]
 - [[fungal-bacterial-coculture-bioremediation]]
 - [[mycoremediation-scale-up-challenges]]

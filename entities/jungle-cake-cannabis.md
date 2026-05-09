@@ -118,13 +118,8 @@ heavy consumption, making the strain less suitable for daytime use.
 
 ## See Also
 
-- [[wedding-cake-cannabis]]
 - [[girl-scout-cookies]]
-- [[animal-cookies]]
 - [[chemdawg]]
-- [[gelato-33]]
 - [[mac-1]]
-- [[gorilla-glue]]
 - [[kush-mints]]
-- [[runtz-entity]]
 - [[gsc-cannabis]]

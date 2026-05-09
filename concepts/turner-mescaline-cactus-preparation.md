@@ -13,47 +13,7 @@ type: concept
 ## Introduction
 
 Mescaline is a naturally occurring psychedelic alkaloid found in
-several species of cactus, most notably Peyote ([[lophophora-williamsii]])
-and various Trichocereus species including San Pedro (Trichocereus
-pachanoi). Mescaline was the first psychedelic compound to be extracted
-and isolated in 1896, and the first to be synthesized in 1919. Turner
-considered it one of his favorite psychedelics and valued the legal
-availability of Trichocereus cacti for ornamental purposes. When
-consuming whole cacti, one actually ingests a combination of alkaloids
-that synergistically interact, producing an experience different from
-and sometimes more desirable than pure mescaline.
-
-## Psychoactive Cactus Species
-
-Several Trichocereus species contain mescaline and related alkaloids:
-- T. bridgesii
-- T. cuzcoensis
-- T. fulvinanus
-- T. macrogonus
-- T. pachanoi (San Pedro)
-- T. peruvianus (several times as potent by weight as other species)
-- T. taquimbalensis
-- T. terscheckii
-- T. validus
-- T. werdermannius
-
-T. peruvianus is notably the most potent by weight among the
-Trichocereus species. Most varieties are difficult to distinguish from
-one another, and even botanical lexicons sometimes contain conflicting
-identification keys.
-
-## Historical and Cultural Context
-
-Peyote and San Pedro are New World psychedelics. The earliest known
-depiction of San Pedro cactus is on a stone tablet found in Peru
-dating to 1300 B.C. Ritual objects containing images of Peyote date
-back to 500 B.C. The Roman Catholic church tried to abolish the use of
-both cacti but was only partially successful. The Native American Church
-was formed in 1918 to preserve Native Americans' right to use Peyote.
-South American shamans continue to hold traditional San Pedro ceremonies
-associated with healing, witchcraft, and divinatory powers.
-
-Aldous Huxley brought mescaline to public attention in 1953 through
+several species of cactus, most notably Peyote ([[aldous-huxley]] brought mescaline to public attention in 1953 through
 his book "The Doors of Perception," which described his experiences and
 philosophical reflections on the compound.
 
@@ -135,8 +95,6 @@ Cacti are also available from herb and plant dealers catering to the
 underground market. They remain legal for ornamental purposes.
 
 ## Related
-
-- [[turner-harmala-alkaloids-preparation-and-dosage]] Topics
 
 - [[turner-dmt-hyperspace-and-smoked-tryptamines]]
 - [[turner-2cb-erotic-empathogen]]

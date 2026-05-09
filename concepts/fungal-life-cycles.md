@@ -38,10 +38,7 @@ The formal rules for describing fungi state that the name of the
 teleomorph has precedence over the anamorph. However, it is often
 impractical to abandon names that are widely recognized, leading to the
 paradoxical situation where a single organism has two scientific names.
-The yeast *[[cryptococcus-neoformans]]* and its sexual stage *Filobasidiella
-neoformans* exemplify this common dual-naming problem.
-
-## [[rust-fungi]]: The Most Complex Cycles
+The yeast *[[rust-fungi]]: The Most Complex Cycles
 
 Rust fungi produce the most elaborate life cycles known among fungi.
 *Puccinia graminis*, which causes black stem rust of wheat, requires
@@ -111,12 +108,8 @@ for a compatible partner.
 
 ## See Also
 
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - [[rust-fungi-biodiversity-life-cycles]]
-- [[fungal-ecology-decomposition-cycles]]
-
 - [[mycelial-networks]](mycelium-network.md)
-- [[fungal-spore-biology]](fungal-spore-biology.md)
 - [[spore-dispersal-mechanisms]](spore-dispersal-mechanisms.md)
 - [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 

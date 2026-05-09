@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Organic Propagation Methods
 
@@ -102,14 +103,9 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 - Most common commercial method for fruit trees
 
 ## Related
-- [[cannabis-seed-germination-methods]] — for cannabis-specific germination
 - [[cannabis-cloning-and-mother-plants]] — for cannabis cloning
-- [[seed-saving-techniques]] — for seed saving techniques
 - [[fruit-tree-varieties]] — for fruit tree selection
-
-- [[organic-greenhouse-growing]]
 
 - [[organic-lawn-care-hamilton]]
 
-- [[organic-propagation-hamilton]]
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]

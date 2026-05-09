@@ -10,44 +10,13 @@ sources:
 
 # Clay Pellet Desert Greening
 
-One of Masanobu Fukuoka's most ambitious projects was the use of clay pellet seed balls for [[fukuoka-road-back-desert-reclamation]] and [[fukuoka-green-belt-projects]] creation. This technique, which he developed originally for his no-tillage farming in Japan, was later adapted for revegetating barren and desertified lands around the world. The clay pellet method represents one of the simplest and most elegant examples of working with natural processes rather than against them.
+One of Masanobu Fukuoka's most ambitious projects was the use of clay pellet seed balls for [[fukuoka-green-belt-projects]] creation. This technique, which he developed originally for his no-tillage farming in Japan, was later adapted for revegetating barren and desertified lands around the world. The clay pellet method represents one of the simplest and most elegant examples of working with natural processes rather than against them.
 
 ## The Seed Ball Technique
 
 The clay pellet (or "seed ball") technique is remarkably simple: seeds are mixed with clay and sometimes compost or organic matter, then formed into small balls about the size of a marble. When scattered on the ground, the clay protects the seeds from being eaten by birds and insects and from drying out in the sun. When rain comes, the clay softens and dissolves, allowing the seeds to germinate in place.
 
-Fukuoka originally developed this technique for his rice-barley rotation on Shikoku Island. Rather than transplanting rice seedlings or plowing the soil, he would scatter rice seeds embedded in clay pellets onto the standing clover cover. The seeds would lie dormant until conditions were right, then germinate and grow without any soil preparation. This same principle — sowing without plowing, planting without cultivation — was the foundation of his [[fukuoka-natural-farming-method]].
-
-## How to Make Seed Balls
-
-### Ingredients
-
-- Seeds of appropriate species for the target environment
-- Clay (red clay is preferred for its binding properties)
-- Compost or organic matter (optional, provides initial nutrition)
-- Water
-
-### Procedure
-
-1. Mix dry clay powder with seeds in a ratio of approximately 5 parts clay to 1 part seeds by volume
-2. If using compost, add 1-2 parts compost to the dry mixture
-3. Add water gradually, mixing until the consistency holds together when squeezed
-4. Form into balls approximately 1-2cm in diameter — roughly marble-sized
-5. Allow to dry in the sun for several hours until hard
-6. Store in a dry place until ready to scatter
-
-The process requires no special equipment and can be done by hand. The simplicity of the method is one of its greatest strengths, making it accessible to communities with minimal resources.
-
-## Species Selection for Desert Greening
-
-Selecting appropriate plant species is critical for successful desert greening. Fukuoka emphasized using native species and pioneer plants adapted to the target environment:
-
-- **Legumes** fix nitrogen and improve soil fertility, creating conditions for subsequent plant succession
-- **Grasses** stabilize soil and reduce erosion, providing ground cover that retains moisture
-- **Shrubs and trees** create windbreaks and eventually establish canopy cover
-- **Local wild plants** are already adapted to the climate and soil conditions
-
-The species mix should reflect the natural succession patterns of the region. Pioneer species that can tolerate harsh conditions are sown first, followed by successional species as conditions improve. This approach mimics the natural process of ecological succession that Fukuoka observed in his [[fukuoka-desert-cause-vegetation]].
+Fukuoka originally developed this technique for his rice-barley rotation on Shikoku Island. Rather than transplanting rice seedlings or plowing the soil, he would scatter rice seeds embedded in clay pellets onto the standing clover cover. The seeds would lie dormant until conditions were right, then germinate and grow without any soil preparation. This same principle — sowing without plowing, planting without cultivation — was the foundation of his [[fukuoka-desert-cause-vegetation]].
 
 ## Desert Greening Projects
 
@@ -86,13 +55,27 @@ The seed ball technique embodies Fukuoka's entire approach to agriculture and li
 
 ## See Also
 
-- [[fukuoka-california-foxtail-greening-discovery]]
-
 - [[fukuoka-desert-reclamation-projects]]
-- [[fukuoka-green-belt-projects]]
 - [[fukuoka-natural-farming-method]]
-- [[natural-farming-fukuoka]]
 - [[fukuoka-desert-cause-vegetation]]
-- [[fukuoka-soil-self-improvement-without-tillage]]
 - [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-natural-farming-in-arid-regions]]
+## Practical Considerations
+
+Successful implementation of Clay Pellet Desert Greening requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

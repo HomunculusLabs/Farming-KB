@@ -78,7 +78,7 @@ Fukuoka argued that truly natural food, grown without chemicals and in harmony w
 
 ## Connection to Permaculture
 
-Macrobiotics shares several principles with [[permaculture-principles]] and [[permaculture-food-forest-design-principles]]:
+Macrobiotics shares several principles with [[permaculture-food-forest-design-principles]]:
 - Local food production reduces ecological footprint
 - Whole-systems thinking connects diet to agriculture to ecology
 - Seasonal eating aligns human consumption with natural cycles
@@ -103,12 +103,8 @@ Contemporary macrobiotic practice has evolved significantly from its origins. Ma
 
 ## Related
 
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-food-philosophy]]
-- [[natural-farming-food-philosophy]]
 - [[one-straw-revolution-philosophy]]
-- [[permaculture-food-forest-design-principles]]
 - [[nutrient-dense-gardening]]
-- [[fukuoka-america-revisited-agricultural-revolution]]
 - [[mac-1]]
 - [[mac-cannabis]]

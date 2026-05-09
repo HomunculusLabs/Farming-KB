@@ -43,34 +43,19 @@ A British review (2008) supported that "cannabinoid receptor ligands show great 
 
 The CB2 receptor plays a central role in the cannabinoid-bone cancer interaction. CB2 receptors are expressed on osteoclasts (bone-resorbing cells) and osteoblasts (bone-forming cells). Activation of CB2 receptors inhibits osteoclastogenesis and bone resorption, which is the primary mechanism by which cannabinoids reduce cancer-induced bone destruction. This is particularly important because cancer metastasis to bone involves a vicious cycle: tumor cells stimulate osteoclast activity, which releases growth factors that further promote tumor growth. Breaking this cycle via CB2 activation addresses both pain and disease progression.
 
-The endocannabinoid anandamide (AEA) activates both CB1 and CB2 receptors, though with partial agonist activity. The finding that anandamide levels inversely correlate with bone cancer pain suggests that the endogenous [[cannabis-endocannabinoid-system]] is attempting to modulate pain, but may be overwhelmed in advanced disease states. This endogenous tone deficit theory supports exogenous cannabinoid supplementation.
-
-## Additional Research Directions
-
-Research into cannabinoid effects on bone metabolism has expanded since the studies reviewed above. CB2-selective agonists have shown promise in:
-
-- Reducing osteoclast formation and activity in vitro
-- Inhibiting cancer cell migration to bone tissue
-- Modulating the bone microenvironment to be less hospitable to metastatic cells
-
-The synthetic cannabinoid AM1241 is notable for its peripheral selectivity — it acts on CB2 receptors without crossing the blood-brain barrier in significant amounts, reducing psychoactive side effects. This pharmacological profile makes it particularly attractive for clinical development.
-
-## Dosage Forms and Administration
-
-For patients considering cannabis for bone cancer pain management, several [[cannabis-cannabinoid-receptor-pharmacology]] factors are relevant:
+The endocannabinoid anandamide (AEA) activates both CB1 and CB2 receptors, though with partial agonist activity. The finding that anandamide levels inversely correlate with bone cancer pain suggests that the endogenous [[cannabis-cannabinoid-receptor-pharmacology]] factors are relevant:
 
 - Oral preparations (capsules, tinctures) provide longer-lasting effects suitable for baseline pain
 - Vaporization allows rapid onset for breakthrough pain episodes
-- [[cannabis-topical-applications]] may provide localized relief for accessible bone pain near the skin surface
 - [[cannabis-concentrates-and-extracts]] may offer higher cannabinoid potency for severe pain
 
-Patients should follow [[cannabis-dosing-guidelines]] and be aware of potential [[cannabis-drug-interactions-and-contraindications]] with opioid medications and other pharmaceuticals commonly prescribed to bone cancer patients.
+Patients should follow [[cannabis-drug-interactions-and-contraindications]] with opioid medications and other pharmaceuticals commonly prescribed to bone cancer patients.
 
 ## Strain-Specific Considerations
 
 The Arizona study used CB2-stimulating synthetic cannabinoid AM1241. CBD has greater affinity for CB2 receptors than CB1. Indica strains have relatively less THC and more CBD/CBN, thus favoring CB2 signaling. For bone cancer specifically, indica-dominant strains may offer the most relevant cannabinoid profile.
 
-Strains rich in [[cannabis-minor-cannabinoids]] such as CBG and CBC may provide additional benefits, as these minor cannabinoids also demonstrate anti-inflammatory and analgesic properties. The [[cannabis-terpene-profile]] of selected strains may also contribute to pain management through entourage effects, with myrcene and beta-caryophyllene being particularly relevant for their analgesic and anti-inflammatory properties.
+Strains rich in [[cannabis-terpene-profile]] of selected strains may also contribute to pain management through entourage effects, with myrcene and beta-caryophyllene being particularly relevant for their analgesic and anti-inflammatory properties.
 
 ## Symptom Management in Bone Cancer
 
@@ -81,25 +66,13 @@ Beyond the direct anti-resorptive and anti-tumor effects studied, cannabis may h
 - Nausea and appetite loss during chemotherapy
 - Muscle spasms near affected bone sites
 
-These symptom-management benefits align with the broader [[cannabis-for-cancer-patients]] approach and the [[cannabis-chronic-pain-management]] evidence base.
+These symptom-management benefits align with the broader [[cannabis-chronic-pain-management]] evidence base.
 
 ## The Endocannabinoid System and Bone Metabolism
 
-The [[cannabis-endocannabinoid-system]] plays a well-documented role in normal bone physiology. CB1 receptors are present on sympathetic nerve terminals in bone and influence bone formation, while CB2 receptors on osteoclasts and osteoblasts directly regulate bone remodeling. Mice lacking CB2 receptors develop age-related osteoporosis, confirming the protective role of CB2 signaling in maintaining bone density.
+The [[cannabis-and-endometriosis]] Topics
 
-This physiological role suggests that the endocannabinoid system is a natural regulator of bone health, and that cannabinoid-based therapies for bone cancer build upon existing biological mechanisms rather than introducing entirely foreign pathways.
-
-## Limitations of Current Research
-
-All reviewed studies were pre-clinical (animal or laboratory), with no human clinical trials specifically for bone cancer. The synthetic cannabinoid AM1241 used in the primary study is not commercially available as a pharmaceutical. Translation from animal models to human clinical outcomes remains uncertain. The bone microenvironment in humans is more complex than murine models, and cancer-induced bone disease in humans often involves additional factors not captured in animal studies. More rigorous clinical research is needed before definitive treatment recommendations can be made.
-
-## Related
-
-- [[cannabis-and-endometriosis]] Topics
-
-- [[cannabis-chronic-pain-management]]
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-cancer-patients]]
 - [[cannabis-immune-modulation]]
 - [[cannabis-anti-inflammatory-applications]]
 

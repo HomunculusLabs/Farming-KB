@@ -134,11 +134,7 @@ The PF TEK warns that spore viability degrades over time: spores begin degrading
 
 ## See Also
 
-- [[pf-tek-non-germ-spore-syringe-technique]]
-- [[pf-tek-perlite-humidification-technique]]
+- pf tek non germ spore syringe technique
 - [[pf-tek-mycelium-senescence-spore-mass-inoculation]]
-- [[pf-tek-alcohol-extraction-method]]
-- [[pf-tek-jar-incubation-and-fruiting-conditions]]
-- [[psilocybin-mushroom-potency-and-dosage]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]

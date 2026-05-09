@@ -3,45 +3,14 @@ title: Fungal Heavy Metal Biosorption — Detailed
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Heavy Metal Biosorption — Detailed
 
 ## Overview
 
-Fungal biosorption of heavy metals is a metabolism-independent process where metal ions bind to cell wall functional groups. It differs from bioaccumulation, which is energy-dependent and involves intracellular transport. For a foundational comparison, see [[fungal-bioaccumulation-vs-biosorption]].
-
-## Mechanisms of Biosorption
-
-Biosorption occurs primarily through interactions with fungal cell wall components — chitin, chitosan, glucans, proteins, lipids, and melanin. Functional groups include amino (−NH₂), carboxyl (−COOH), phosphate (−PO₄), sulfhydryl (−SH), and hydroxyl (−OH) groups. Binding mechanisms include:
-
-- **Ion exchange**: Displacement of K⁺, Ca²⁺, Na⁺, and Mg²⁺ from cell wall sites
-- **Complexation / coordination**: Metal binding to lone pair electrons on nitrogen, oxygen, or sulfur atoms
-- **Electrostatic attraction**: Between positively charged metal ions and negatively charged cell wall sites
-- **Precipitation**: Formation of metal-containing crystalline deposits on cell surfaces
-- **Van der Waals forces**: Physical adsorption to cell wall surfaces
-
-Multiple mechanisms typically operate simultaneously, making the process difficult to characterize definitively.
-
-## Evaluation Metrics and Isotherm Models
-
-Biosorption performance is evaluated through:
-
-- **Distribution coefficient** (Kd): Ratio of metal concentration on biomass to that in solution
-- **Percentage removal**: Proportion of metal removed from solution
-- **Biosorption capacity** (q): Amount of metal bound per unit biomass (mg/g or mmol/g)
-- **Breakthrough curves**: Column effluent concentration vs. time or volume treated
-
-Common equilibrium isotherm models include Langmuir, Freundlich, Scatchard-Langmuir, BET, Dubinin-Radushkevich (DR), and Redlich-Peterson. Column performance models include Bohart-Adams, equilibrium column, kinetic, and mass transfer models.
-
-## Biosorption Reactor Types
-
-### Batch Reactors
-Simple to operate; useful for establishing equilibrium and kinetic data. Fungal biomass is mixed with metal-bearing solution in stirred vessels. Contact times typically range from minutes to hours.
-
-### Continuous and Packed-Bed Reactors
-Preferred for treating large volumes of dilute metal-bearing solutions. Biomass is packed into columns and effluent passes through. Breakthrough curves describe performance. Packed beds using [[fungal-biosorption-mechanisms]] are the most common continuous configuration.
+Fungal biosorption of heavy metals is a metabolism-independent process where metal ions bind to cell wall functional groups. It differs from bioaccumulation, which is energy-dependent and involves intracellular transport. For a foundational comparison, see [[fungal-biosorption-mechanisms]] are the most common continuous configuration.
 
 ### Immobilized Systems
 Fungal biomass can be immobilized in:
@@ -77,11 +46,7 @@ Members of the order Mucorales are excellent biosorbents, especially for uranium
 - **Aspergillus niger**: 580 mg/g Pb²⁺, excellent for soil bioremediation via citric acid production
 - **Phanerochaete chrysosporium**: 80 mg/g Pb²⁺ (resting cells), applicable to artificial wastewater
 
-See [[mycoremediation-heavy-metals-detailed]] for extended species data.
-
-## White-Rot Fungi
-
-White-rot fungi combine biosorption with enzymatic degradation capabilities. See [[white-rot-fungi-bioremediation]] for their role in organic pollutant removal. Notable heavy metal data:
+See [[white-rot-fungi-bioremediation]] for their role in organic pollutant removal. Notable heavy metal data:
 
 - **Trametes versicolor**: Removes all Cd²⁺ within 2 hours; energy-independent surface binding at ~2 mg Cd/g dry weight
 - **Phanerochaete chrysosporium**: 100% Cu²⁺ removal; 6-cycle regeneration with 1 N HCl
@@ -119,10 +84,5 @@ Fungi tolerate heavy metals through multiple defense mechanisms:
 - Efflux transport systems
 - Morphological changes (aerial hyphae, pigmentation, pellet formation)
 
-Trichoderma viride survived high Cu, Zn, and Cd concentrations due to prior isolation from metal-laden sludge. See [[factors-affecting-mycoremediation-efficiency]] for environmental variables affecting biosorption performance.
-
-## Related
-
-- [[fungal-chromogens-and-color-change]]
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
+Trichoderma viride survived high Cu, Zn, and Cd concentrations due to prior isolation from metal-laden sludge. See [[fungal-chromogens-and-color-change]]
 - [[fungal-heavy-metal-anion-biosorption]]

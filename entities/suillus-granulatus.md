@@ -90,9 +90,6 @@ strategies and soil management practices for conifer-dominated systems.
 
 ## See Also
 
-- [[elaphomyces-granulatus]]
 - [[paxillus-involutus]]
-- [[pisolithus-tinctorius]]
 - [[cenococcum-geophilum]]
-- [[laccaria-bicolor]]
 - [[suillus-americanus]]

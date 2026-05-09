@@ -112,11 +112,7 @@ The relatively short half-life compared to CBD suggests that more frequent dosin
 
 ## See Also
 
-- [[cannabidiol-cbd]] — The pentyl analogue of CBDV; the most studied non-psychoactive cannabinoid
 - [[cannabigerol-cbg]] — The precursor cannabinoid from which both CBDV and CBD are derived
-- [[tetrahydrocannabinol-thc]] — The primary psychoactive cannabinoid, for comparison of pharmacological profiles
 - [[tetrahydrocannabivarin-thcv]] — The propyl homologue of THC, paired with CBDV as a propyl cannabinoid pair
-- [[cannabichromene-cbc]] — Another non-psychoactive cannabinoid with anti-inflammatory properties
 - [[dronabinol]] — Synthetic THC pharmaceutical, illustrating the cannabinoid drug development pathway
-- [[cannabigerolic-acid-cbga]] — The "mother cannabinoid" precursor from which all cannabinoids derive
 - [[serotonin]] — 5-HT receptor system that CBDV may modulate for anxiolytic and anti-nausea effects

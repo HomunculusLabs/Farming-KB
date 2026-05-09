@@ -135,13 +135,6 @@ In permaculture systems, *P. columbinus* serves multiple functions:
 
 ## Related Species
 
-- [[pleurotus-ostreatus]] — the common oyster mushroom, close relative
 - [[pleurotus-eryngii]] — king oyster, with a much thicker stem
-- [[pleurotus-djamor]] — pink oyster, tropical species with vibrant pink caps
-- Pleurotus sajor-caju — Indian oyster, heat-tolerant tropical species
-
-## See Also
-
 - [[bacillus-subtilis]]
-- [[biological-efficiency]]
 - [[companion-planting]]

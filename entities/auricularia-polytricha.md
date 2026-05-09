@@ -30,20 +30,7 @@ that are distinctive in both texture and appearance.
 
 In the cultivation literature, auricularia polytricha is noted as one of the mushrooms
 successfully grown in bottle culture alongside [Buna-shimeji,
-[Reishi, and various [[oyster-mushroom-species]]. This versatility in
-cultivation methods has contributed to its enduring popularity among commercial growers.
-
-## Description
-
-The fruitbody of auricularia polytricha is ear-shaped to cup-shaped, with a
-gelatinous and rubbery texture when fresh. Upon drying, the fruitbody becomes tough
-and brittle, shrinking significantly but rehydrating readily when soaked in water.
-This characteristic makes it particularly well-suited to the dried mushroom trade.
-
-The upper (exterior) surface is typically brown to dark brown and distinctly velvety
-or hairy, a trait reflected in the species epithet "polytricha," meaning "many hairs"
-in Greek. The hairs are short, dense, and give the upper surface a fuzzy appearance
-that helps distinguish it from the related [[growing-gourmet-wood-ear-auricularia-cultivation]].
+[Reishi, and various [[growing-gourmet-wood-ear-auricularia-cultivation]].
 
 The inner (inferior) surface is smooth and ranges in color from reddish brown to
 purplish brown. This surface is lighter in tone than the hairy exterior and is the
@@ -93,20 +80,7 @@ culture, and tray culture on supplemented sawdust substrates.
 The species has been cultivated in China for centuries, and Chinese growers have
 developed highly efficient production methods that yield consistent results. Indoor
 cultivation on sterilized sawdust substrates allows for year-round production with
-controlled [[mushroom-cultivation-environmental-parameters]].
-
-## Growth Parameters
-
-| Phase | Temperature | Humidity | Duration | Notes |
-|---|---|---|---|---|
-| Spawn Run | 75-85°F (24-30°C) | 90-95% RH | 30-45 days | Slow but reliable colonizer |
-| Primordia Formation | 60-75°F (16-24°C) | 85-95% RH | 5-7 days | High humidity critical |
-| Fruitbody Development | 60-75°F (16-24°C) | 85-95% RH | 7-14 days | Ear-shaped gelatinous bodies |
-
-## Medicinal Properties
-
-In Traditional Chinese Medicine, auricularia polytricha has been used for centuries
-to improve blood circulation and promote overall [[blesching-cannabis-cardiovascular-health]]. It is classified
+controlled [[blesching-cannabis-cardiovascular-health]]. It is classified
 as a food that benefits the blood and is often recommended for individuals with poor
 circulation or related conditions.
 
@@ -142,7 +116,6 @@ mushroom can be added directly to soups or stir-fried with vegetables and meats.
 
 ## See Also
 
-- [[mushroom-cultivation-basics]]
 - [[log-cultivation-methods]]
 - auricularia polytricha detailed
 

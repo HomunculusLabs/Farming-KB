@@ -70,14 +70,9 @@ Animal drug discrimination assays became an important bridge between in vitro re
 
 ## Related
 
-- [[inactive-probes-pharmacological-falsification-pihkal]] Topics
-
 - [[phenethylamine-receptor-pharmacology]]
-- [[2c-family-compounds-overview]]
 - [[phenethylamine-chemistry-basics]]
-- [[mdma-compound-profile]]
 - [[fungal-research-compound-reference]]
-- [[2c-family-chemistry-and-sar-pihkal]]
 - [[psychedelic-drug-testing-and-adulterant-screening]]
 
 ## DOI and Brain Imaging Advances

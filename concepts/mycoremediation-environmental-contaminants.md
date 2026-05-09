@@ -1,18 +1,7 @@
 ---
 title: Mycoremediation of Environmental Contaminants
 created: 2026-04-28
-tags: [mycology, bioremediation, environment, pleurotus]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md
-type: concept
----
-
-# Mycoremediation of Environmental Contaminants
-
-Mycoremediation is the use of fungi to degrade, sequester, or otherwise
-neutralize environmental pollutants. Among fungi, [[pleurotus-species-guide]] species and
+tags: [[pleurotus-species-guide]] species and
 other white-rot basidiomycetes are particularly effective agents due to their
 powerful extracellular enzyme systems capable of breaking down lignin — one of
 the most recalcitrant organic polymers in nature. These same enzymes also
@@ -67,12 +56,7 @@ sites.
 Mycofiltration uses dense mats of fungal mycelium as biological filters to
 capture and degrade contaminants from water. Techniques include:
 - **Mycelial mats** placed in drainage paths to intercept agricultural runoff
-- **Spent mushroom substrate** as biofilter media for treating wastewater
-- **Constructed mycofiltration beds** for treating stormwater, greywater, or
-  industrial effluent
-
-Pleurotus species are particularly effective in mycofiltration due to their
-dense, rhizomorphic mycelial networks and aggressive growth habits.
+- **[[mycelial-networks]] and aggressive growth habits.
 
 ## Target Contaminants
 
@@ -136,6 +120,5 @@ and sulfonamide antibiotics through enzymatic oxidation.
 
 ## See Also
 
-- [[pleurotus-species-and-varieties]] — the fungi used in mycoremediation
 - [[oyster-mushroom-substrates]] — preparing inoculum carriers
 - [[mushroom-spawn-preparation]] — culture production

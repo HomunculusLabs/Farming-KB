@@ -13,71 +13,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Classification
 
-- Family: [[2c-family-chemistry-and-sar-pihkal]]
-- Sub-family: 2C-T series (thioalkyl-substituted phenethylamines)
-- IUPAC: 2,5-dimethoxy-4-(ethylthio)phenethylamine
-- Molecular Formula: C12H19NO2S (freebase), C12H20ClNO2S (HCl salt)
-- Code origin: Second member of the 2C-T series by historical order
-
-## Dosage and Duration
-
-- Dosage Range: 12 - 25 mg (oral)
-- Duration: 6 - 8 hours
-- Onset: Slow -- 1 hour to first effects, 2-3 hours to peak
-- Shulgins scale: +2 to +3+
-
-## Qualitative Comments
-
-(with 12 mg) "I don't feel this for fully an hour, but when I do it is quite
-a weight. It feels good to work it through. It is OK to be with pain. You
-can't eliminate it. And it is OK to contact your deep pools of anger. And
-all of it stems from the lack of acknowledgment. All the macho carrying on,
-the fights, the wars, are ways of demanding attention, and getting even for
-not having had it in one's life. I am experiencing more deeply than ever
-before the importance of acknowledging and deeply honoring each human being.
-And I was able to go through and resolve some judgments with particular
-persons."
-
-(with 20 mg) "I chose 2c-t-2-compound-profile|2C-T-2 at this dose level
-because the lateness of getting started, and I wanted a shorter experience.
-I feel, however, that I have somewhat less of a body load with
-2c-t-7-compound-profile|2C-T-7. Today I was badly in need of the help
-that might possibly come from this material, and today it was my ally. I
-sorely needed the type of help that it afforded. The result was to work off
-the heavy feeling of tiredness and lack of motivation that had been hounding
-me. The next day I felt that I had dropped my burden."
-
-(with 20 mg) "There is a neutralness to this. I am at the maximum, and I am
-asking myself, 'Am I enjoying this?' And the answer is, 'No, I am
-experiencing it.' Enjoyment seems beside the point. It is a rather intensely
-matter-of-fact +3. Is it interesting? Yes, but mostly in expectation of
-further developments. Is it inspiring? No. Is it negative? No. Am I glad I
-took it? Yes. Not glad. Satisfied and contented. This is a controlled +3.
-No threat. The body is all right. Not superbly healthy -- but OK."
-
-(with 22 mg) "A slow onset. It took an hour for a plus one, and almost
-another two hours to get to a +++. Very vivid fantasy images, eyes closed,
-but no blurring of lines between 'reality' and fantasy. Some yellow-grey
-patterns a la psilocybin. Acute diarrhea at about the fourth hour but no
-other obvious physical problems. Erotic lovely. Good material for unknown
-number of possible uses."
-
-(with 25 mg) "I was at a +++ in an hour! It is most difficult to do even
-ordinary things. I took notes but now I can't find them. This is much too
-high for anything creative, such as looking at pictures or trying to read.
-Talking is OK. And to my surprise I was able to get to sleep, and a good
-sleep, at the seven hour point."
-
-## Extensions and Commentary
-
-There is a considerable parallel between 2c-t-2-compound-profile|2C-T-2
-and 2c-t-7-compound-profile|2C-T-7, and both have proven to be excellent
-tools for introspection. The differences are largely physical. With 2C-T-2,
-there is more of a tendency to have physical disturbances such as nausea and
-diarrhea. And the experience is distinctly shorter. With 2C-T-7, physical
-disturbances are less common, but you are into the effects for almost twice
-as long. Both have been frequently used in therapy as follow-ups to
-[[mdma-compound-profile]].
+- Family: [[mdma-compound-profile]].
 
 ## Potential for Misidentification
 
@@ -120,13 +56,26 @@ via zinc dust reduction, is the key common precursor to all members of the
 
 - 2c-t-7-compound-profile|2C-T-7: The heptylthio homologue; more
   commonly used therapeutically due to fewer physical side effects
-- [[2c-d-pihkal-entry-23]]: The methylthio parent compound; lower
-  potency (60-100 mg), shorter duration (3-5 h)
 - [[2c-d-pihkal-entry-23]]: The isopropylthio homologue; longer-acting
   (12-18 h)
-- [[aleph-7-pihkal-entry-7]]: The 3-carbon amphetamine homologue
-
-## Source
-
-[[pihkal-introduction-and-methodology]] by Alexander and Ann Shulgin,
+- [[pihkal-introduction-and-methodology]] by Alexander and Ann Shulgin,
 Entry #40
+## Practical Considerations
+
+Successful implementation of 2C-T-2 (PIHKAL Entry #40) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -3,7 +3,7 @@ title: Moringa (Miracle Tree)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture, design]
 sources: []
 ---
 
@@ -45,7 +45,7 @@ The tree can be cut down to 3 feet (1 m) every year and will regrow, producing e
 
 ## Companion Planting
 
-Moringa serves as a [[permaculture-wildlife-corridors]] dynamic accumulator and windbreak in tropical food forests. Its light canopy allows understory crops such as sweet potatoes, cassava, and shade-tolerant greens to grow beneath it. Moringa's leaf litter adds significant nitrogen and organic matter to the soil, functioning as a [[mulch-producing-plants]]. It pairs well with banana, papaya, and pigeon pea in tropical [[permaculture-food-forest-design-principles]] systems. The flowers attract pollinators, making it a useful [[permaculture-beekeeping]] support species.
+Moringa serves as a [[mulch-producing-plants]]. It pairs well with banana, papaya, and pigeon pea in tropical [[permaculture-beekeeping]] support species.
 
 ## Culinary Uses
 
@@ -79,13 +79,7 @@ One of moringa's most practical applications is water purification. Crushed mori
 
 ## See Also
 
-- [[permaculture-multi-purpose-plants]]
-
 - [[permaculture-food-forest-design-principles]]
 
-- [[permaculture-plant-selection]]
-
-- Compost Guide
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[moringa-oleifera]]

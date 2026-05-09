@@ -1,7 +1,7 @@
 ---
 title: Mushroom Compost Phase I and Phase II for Agaricus Cultivation
 created: 2026-04-28
-tags: [mushroom-cultivation, composting, agaricus, substrate-preparation, pasteurization]
+tags: [[mushroom-cultivation, composting, agaricus, substrate-preparation, pasteurization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -137,8 +137,6 @@ Phase II is complete when:
 
 ## See Also
 
-- [[growing-gourmet-button-mushroom-agaricus-cultivation]]
 - [[growing-gourmet-casing-soils-mushroom-cultivation]]
-- [[mushroom-cultivation-fundamentals]]
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-gypsum-lime-ph-management]]

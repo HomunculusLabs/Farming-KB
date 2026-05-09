@@ -1,7 +1,7 @@
 ---
 title: "What Is Integrated Pest Management for Organic Mushroom Cultivation?"
 created: 2026-04-28
-tags: [mycology, pest-management, organic-farming, mushroom-cultivation, ipm]
+tags: [[mycology, pest-management, organic-farming, mushroom-cultivation, ipm]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
@@ -113,8 +113,6 @@ An effective IPM plan for mushroom cultivation should include:
 
 ## Related Topics
 
-- [[query-how-to-prevent-and-troubleshoot-mushroom-contamination]] for a deeper dive into contamination prevention
 - [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for contaminant identification
-- [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] for lab design principles
 - [[fungal-remediation-decision-tree]] for understanding fungal ecology in controlled environments
 - [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] for broader pest management strategies

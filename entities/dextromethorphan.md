@@ -103,21 +103,13 @@ Pharmaceutical companies have responded to abuse concerns with formulation chang
 
 ## See Also
 
-- [[ketamine]]
-- pcp
 - [[harmine]]
-- [[psilocin]]
 - [[bufotenin]]
-- [[ergine-entity]]
 - [[noribogaine-entity]]
-- [[salvinorin-a-entity]]
 - [[muscimol-entity]]
 - codeine
 - morphine
-- [[ibogaine]]
 - [[ketamine-compound-profile]]
-- [[2c-b]]
 - [[ergotamine]]
-- [[harmine-entity-tihkal]]
 - [[mescaline-entity]]
 - [[mxe]]

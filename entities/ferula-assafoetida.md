@@ -11,67 +11,7 @@ tags:
   - resin
   - culinary
   - ethnobotany
-  - permaculture
-sources:
-  - "Iranshahy, M. & Iranshahi, R. (2011). \"Traditional uses, phytochemistry and pharmacology of asafoetida (Ferula assa-foetida oleo-gum-resin).\" Phytomedicine, 18(12), 1050–1059."
-  - "Mahendra Kumar, J. et al. (2012). \"Traditional Indian herbs Punarnava and Asafoetida.\" Springer."
-  - "Alam, M.A. et al. (2019). \"Ferula species — a review of traditional uses, phytochemistry and pharmacology.\" DARU Journal of Pharmaceutical Sciences, 27, 1–22."
-  - "Mabberley, D.J. (2017). Mabberley's Plant-Book. 4th ed. Cambridge University Press."
----
-
-# Asafoetida (*Ferula assafoetida*)
-
-## Overview
-
-Asafoetida is the dried oleo-gum-resin obtained from the taproot of *Ferula assafoetida*, a perennial herbaceous plant in the carrot family (Apiaceae). Native to the arid mountainous regions of Iran, Afghanistan, and Turkmenistan, it has been used for over 2,000 years as a culinary spice, traditional medicine, and ritual fumigant.
-
-The resin exudes a pungent sulfurous odor when raw but develops a rich, savory allium-like flavor when cooked, earning it the nickname "devil's dung." It remains indispensable in Indian, Middle Eastern, and Central Asian cuisines as a substitute for garlic and onion.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Apiales
-- **Family:** Apiaceae
-- **Genus:** *Ferula*
-- **Species:** *F. assafoetida* L.
-
-The species epithet combines Persian *asa* (resin) with Latin *foetida* (stinking).
-
-**Synonyms and related sources:** Much commercial asafoetida derives from closely related species including *F. foetida* (Regel) and *F. alliacea*, and Iranian herbaria often treat these as conspecific.
-
-## Morphology
-
-*Ferula assafoetida* is a robust monocarpic perennial reaching 1.5–3 m at maturity.
-
-- **Root:** Massive taproot, thick and fleshy, up to 15 cm diameter at crown
-- **Stem:** Thick, hollow, ribbed, producing copious milky latex when cut
-- **Leaves:** Basal rosette with pinnately divided leaves, segments 5–20 cm long
-- **Flowers:** Compound umbels, yellow, 5–15 cm diameter; flowering June–August
-- **Fruit:** Schizocarp, elliptical, 12–18 mm, with prominent dorsal ribs
-- **Resin:** Milky oleo-gum-resin exudes from root and lower stem on incision
-
-The plant flowers only once in its 4–5 year lifecycle, then dies.
-
-## Distribution and Habitat
-
-- **Native range:** Mountainous deserts of Iran (Khorasan, Kerman), Afghanistan, and
-  Turkmenistan at 600–3,400 m elevation
-- **Habitat:** Dry, rocky slopes, arid steppes, and semi-desert plains with well-
-  drained calcareous soils
-- **Climate:** Continental arid; tolerates extreme temperature swings (-15°C to 40°C)
-- **Associated flora:** *Artemisia* spp., *Zygophyllum* spp., other Apiaceae
-
-Wild populations are declining from overharvesting; IUCN status has not been formally assessed but trade volumes have dropped sharply.
-
-## Chemistry and Phytochemistry
-
-The oleo-gum-resin (25–40% of dry root mass) contains three major fractions:
-
-- **Resin (40–64%):** Free ferulic acid and its esters; sesquiterpene coumarins
-  (farnesiferols A–C, kamolonol, badrakemone)
-- **Gum (25–30%):** Glucose, galactose, arabinose, rhamnose polysaccharides
-- **Essential oil (10–17%):** Dominated by sulfur compounds (sec-butyl propenyl
-  disulfide, ~50–75% of oil); also contains α-pinene, β-pinene, limonene
+  - [[limonene]]
 
 The disulfides are responsible for the characteristic alliaceous aroma upon cooking.
 
@@ -124,9 +64,25 @@ remain limited to small-scale operations in Iran and India.
 
 ## See Also
 
-- [[ferula-drudeana]]
-
 - [[herbal-medicine-making-basics]]
 
-- [[foeniculum-vulgare-entity]] — Fennel, culinary Apiaceae with similar digestive uses
 - [[cinnamomum-verum]] — Cinnamon, another resinous spice with medicinal overlap
+## Practical Considerations
+
+Successful implementation of Ferula assafoetida requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

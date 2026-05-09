@@ -42,31 +42,6 @@ a tea, often along with warming spices such as ginger to offset the
 typical stomach aches and gripes that accompany consumption. The practice
 of brewing mushroom tea has deep historical roots. Some scholars have
 suggested that participants at the ancient Greek rites of
-[[teonanacatl-aztec-codices-archaeology]] drank mushroom tea
-from the ritual cup, the kykeon. The Mazatec tradition of consuming
-mushrooms in a ritual context, documented by Wasson, also involved the
-preparation of the mushrooms in specific ways.
-
-## Cooking and Culinary Preparations
-
-Mushrooms may be cooked into omelettes or other dishes. In one notable
-historical incident, a father in 1799 served mushroom soup with tea to
-his family, having gathered what turned out to be Liberty Caps. The
-practice of cooking mushrooms before consumption may slightly alter
-their psychoactive properties through the application of heat.
-
-## Honey Preservation
-
-Mushrooms may be dried or preserved in honey for later use. This
-traditional method of preservation serves dual purposes: it extends the
-shelf life of the mushrooms and may partially mask their unpleasant
-taste. Honey preservation has been practised in various cultures where
-magic mushroom use has been documented.
-
-## Drying
-
-Drying is perhaps the most fundamental preparation method. The process
-of drying affects the chemistry of the mushroom in important ways. For
 [[amanita-muscaria-chemistry-and-pharmacology]],
 drying converts ibotenic acid into the more desirable muscimol through
 decarboxylation, maximising the concentration of the more psychoactive
@@ -106,24 +81,6 @@ equipment more technically demanding than a kettle.
 ## Siberian Preparations
 
 The Siberian peoples developed distinctive methods for consuming
-[[fly-agaric-siberian-shamanic-practice]]. These included
-drying the mushrooms, sometimes soaking them in fluids, and the famous
-practice of consuming the urine of those who had already eaten the
-mushroom, since ibotenic acid is excreted largely unchanged and can be
-recycled for additional intoxicating effects.
-
-## Modern Methods
-
-In contemporary settings, mushrooms have been incorporated into
-chocolate, capsules, and other delivery systems designed to mask the
-taste and standardise dosage. The rise of microdosing has led to
-increased interest in precise preparation methods that allow for
-consistent, sub-perceptual doses to be taken on a regular schedule.
-
-## See Also
-
-- [[psilocybin-pharmacology-detail]]
-- [[fly-agaric-siberian-shamanic-practice]]
+[[psilocybin-pharmacology-detail]]
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
-- [[psilocybin-mushroom-chemistry]]
 - [[teonanacatl-aztec-codices-archaeology]]

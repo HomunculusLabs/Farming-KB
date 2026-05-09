@@ -128,8 +128,6 @@ Vic High's recommendations for maximising the impact of selection:
 - Recessive traits offer the fastest path to fixation because expression guarantees homozygosity.
 - Progeny testing is the most reliable method for evaluating male genetic contributions.
 - The degree of selection applied very much influences success rate -- this is the main practical takeaway.
-- [[vic-high-true-breeding-strain-development-stabilization]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
-- [[cannabis-phenotype-selection]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[cannabis-potency-enhanced-flowers]]

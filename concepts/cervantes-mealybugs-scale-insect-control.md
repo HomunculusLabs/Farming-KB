@@ -92,32 +92,7 @@ The most effective control methods are physical:
   necessary to scrape and pluck tightly affixed insects
   after alcohol treatment
 - Inspect stem joints regularly, especially during
-  [[cannabis-vegetative-growth-stage]]
-- Remove and destroy heavily infested plant material
-- Isolate affected plants to prevent spread to healthy
-  specimens
-- Clean the grow room thoroughly between crops to
-  eliminate overwintering populations
-
-The rubbing alcohol dissolves the waxy coating of mealybugs
-and the protective shell of scale insects, making them
-vulnerable to removal and desiccation.
-
-## Biological Control
-
-Several natural predators help control mealybug and scale
-populations:
-
-- Numerous species of ladybeetles (ladybugs) feed on
-  both pests
-- Parasitic wasps attack specific species
-- Predatory wasps also provide suppression
-- Because there are many species of mealybugs and scale
-  insects, each with specific natural enemies, consult
-  biological control suppliers for the correct predator
-  species for your particular infestation
-
-See [[cervantes-biological-pest-control-predators]] for detailed guidance on using beneficial
+  [[cervantes-biological-pest-control-predators]] for detailed guidance on using beneficial
 insects in cannabis gardens.
 
 ## Chemical and Spray Control
@@ -127,8 +102,7 @@ several spray options are available:
 
 - Homemade sprays containing rubbing alcohol effectively
   dissolve waxy coatings
-- Tobacco-based nicotine sprays provide knockdown
-- [[cervantes-neem-oil-organic-pest-control]] is
+- Tobacco-based [[cervantes-neem-oil-organic-pest-control]] is
   effective against both pests
 - [[cervantes-pyrethrum-pyrethroid-insecticides]] penetrates waxy coatings
 - Pyrethrum formulations provide additional control

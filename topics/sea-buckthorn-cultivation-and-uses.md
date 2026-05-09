@@ -410,6 +410,6 @@ The Canadian breeding program at Agriculture and Agri-Food Canada's Saskatchewan
 
 - [[moringa-oleifera-cultivation-uses-and-nutrition]] — another multi-use superfood shrub
 - [[companion-planting-and-polycultures]] — integration into food forest designs
-- [[nitrogen-fixing-trees-and-shrubs-for-permaculture]] — broader nitrogen fixation guide
+- [[nitrogen-fixing-trees-in-permaculture]] — broader nitrogen fixation guide
 - [[windbreaks-hedgerows-and-shelterbelts]] — shelterbelt design principles
 - [[biochar-in-regenerative-agriculture]] — soil improvement strategies that pair well with nitrogen fixers

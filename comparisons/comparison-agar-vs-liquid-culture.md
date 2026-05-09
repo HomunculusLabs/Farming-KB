@@ -23,31 +23,6 @@ Both methods begin with sterile preparation using a pressure cooker at 15 psi (1
 
 ## Agar Culture
 
-[[agar-culture-techniques-detailed]]
-
-Agar culture is the foundation of all mushroom cultivation work. Agar is a polysaccharide derived from red algae cell walls that, when dissolved and cooled, forms a stable gel matrix ideal for growing mycelium on a solid surface.
-
-### Standard Media
-
-The most common medium is Malt Extract Agar (MEA), prepared at 10–20 g malt extract plus 15–20 g agar powder per liter of water. Other popular formulations include Potato Dextrose Agar (PDA) and Dog Food Agar, each offering different nutrient profiles suited to specific species or cultivation goals.
-
-### Preparation
-
-Agar media is sterilized at 15 psi (121°C) for 25–40 minutes, then poured into petri dishes at 45–50°C to avoid condensation issues and thermal damage. Once cooled and solidified, plates are ready for inoculation.
-
-### Strengths
-
-- **Visual inspection:** Contamination is immediately visible on the surface of the plate, making it easy to identify bacterial colonies, molds, and competitor fungi.
-- **Isolation:** The solid medium allows cultivators to cut and transfer clean sectors away from contaminated areas, salvaging genetics that would be lost in liquid.
-- **Strain selection:** Sectoring and morphological differences are observable, enabling genetic selection and dikaryotic mating work.
-- **Long-term storage:** Agar slants in refrigeration can preserve viable cultures for months to years with minimal maintenance.
-
-### Limitations
-
-Agar culture is slower than liquid culture for producing inoculum. Each plate-to-plate transfer takes 7–14 days for full colonization, making it impractical for quickly inoculating large numbers of grain jars.
-
-## Liquid Culture
-
 [[mushroom-liquid-culture]]
 
 Liquid culture (LC) consists of a nutrient-rich liquid solution in which mycelium grows freely throughout the volume, forming dense mycelial balls or pellets. It is primarily used as a high-efficiency inoculum for grain spawn.
@@ -123,8 +98,6 @@ This hybrid approach leverages the diagnostic strengths of agar alongside the ex
 
 ## See Also
 
-- [[agar-culture-techniques-detailed]] — Detailed guide to agar media, pouring, and transfer techniques
 - [[mushroom-liquid-culture]] — Complete liquid culture recipes, preparation, and troubleshooting
-- [[comparison-spore-print-vs-agar-culture]]
 - [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
 - [[cotter-agar-tissue-culture-techniques]]

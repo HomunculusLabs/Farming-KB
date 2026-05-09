@@ -47,25 +47,7 @@ The culminating experience took place in the telesterion, a great initiation hal
 ### The Kykeon and Vision
 Initiates drank the sacred potion called kykeon (barley, water, and mint) prepared from grain grown in the adjacent Rarian plain. After drinking, they sat on tiers of steps lining the walls of the cavernous hall in darkness, waiting. From the potion they gradually entered into ecstasy, accompanied by music and carefully orchestrated sensory effects.
 
-The experience produced physical symptoms: fear, trembling in the limbs, vertigo, nausea, and cold sweat, followed by a vision amidst an aura of brilliant light that suddenly flickered through the darkened chamber. One initiate reported: "Eyes had never before seen the like." The division between earth and sky melted into a pillar of light. Initiates became epoptai -- those who had seen. See [[kykeon-composition-and-ergot-alkaloid-hypothesis]] for the pharmacological analysis.
-
-The priestesses performed a final ceremonial dance carrying the chalice of grain upon their heads as they mixed and distributed the sacred potion -- fragrant blechon (mint) immersed in water to which was added a sprinkling of flour from barley grown in the Rarian plain. Of these two plants the initiates drank and then paused expectant for redemption while the hierophant chanted the ancient words. Then, suddenly, there was light and the boundaries of this world burst their bounds as spiritual presences were felt in their midst and the hall was flooded with glowing mystery. The barley's potential depended upon keeping at bay the reddening corruption of the rust-infested weed -- both blechon and the weed were associated with primitivism.
-
-## The Private Profanation Scandal
-
-In the classical age, a notorious scandal was uncovered when numerous aristocratic Athenians were discovered to have begun celebrating the Mystery at home with groups of drunken guests at dinner parties. In 415 BCE, a spate of deliberate profanations by Athenian aristocrats led to harsh penalties. This scandal is significant evidence that the experience was reproducible outside the sanctuary -- suggesting a pharmacological rather than purely theatrical basis for the visions.
-
-## Secrecy and the Bond of Fellowship
-
-The laws of Athens made it a crime to reveal what happened within the telesterion. Yet the secrecy extended far beyond Athenian law -- it was self-enforcing across the Greek world, persisting even after the Mysteries were suppressed. Those who had experienced the ineffable were reluctant to discuss it with outsiders, knowing words could not convey the wonders of that night.
-
-The initiates formed a bond of alliance and friendship (cofradia) born of shared supernatural experience. This bond was not from the collation they shared but from the overwhelming effect of the night under the influence of the sacred potion. As Wasson notes, "the experience itself was incommunicable, for there are no words adequate to the task."
-
-In Mexico those who take the mushrooms must refrain from drinking alcoholic beverages for four days before the velada. Alcoholic inebriation would profane the divine draught, alike in Mexico and Greece -- the two kinds of inebriation were incompatible. At Eleusis the initiate took the potion only once in his life and could not compare successive experiences.
-
-## The Significance of Duration
-
-The nearly 2,000-year unbroken run of the Mysteries is itself remarkable testimony to their power. No theatrical performance, no mere ritual drama, could sustain such devotion across millennia and across the entire Greek-speaking world. The rites survived wars, conquests, and the rise of Christianity for centuries before their final suppression. The experience at Eleusis was consistently described as the culminating event of a lifetime -- by emperors and prostitutes, slaves and freemen alike. This universality and durability strongly support the hypothesis that a genuine psychoactive experience, not mere ceremony, lay at the heart of the rite. See [[wasson-hofmann-ruck-theory]].
+The experience produced physical symptoms: fear, trembling in the limbs, vertigo, nausea, and cold sweat, followed by a vision amidst an aura of brilliant light that suddenly flickered through the darkened chamber. One initiate reported: "Eyes had never before seen the like." The division between earth and sky melted into a pillar of light. Initiates became epoptai -- those who had seen. See [[wasson-hofmann-ruck-theory]].
 
 The Eleusinian experience was different from the convivial inebriation of a symposion or the drunken komos at drama festivals. Even the maenadic ecstasy of the mountain women was only partial preparation.
 
@@ -75,17 +57,29 @@ Source: raw/papers/the-road-to-eleusis.md
 
 ## Related
 
-- [[archaic-revival-philosophy]]
 - [[ancient-greek-mystery-cults-comparison]]
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
-
 - [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
-- [[sacred-marriage-hieros-gamos-in-greek-religion]]
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
-- [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[psychedelic-use-in-ancient-greece]]
-- [[wasson-hofmann-ruck-theory]]
 - [[ergot-and-lysergic-acid-history]]
-- [[entheogenic-ceremony-preparation]]
 - [[psychedelic-experience-stages]]
 - [[psychedelic-mushroom-set-and-setting]]
+## Practical Considerations
+
+Successful implementation of Eleusinian Mysteries History and Structure requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

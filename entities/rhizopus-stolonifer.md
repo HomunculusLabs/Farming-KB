@@ -112,21 +112,7 @@ The same organism is a common spoilage mold of bread and produce.
 It can contribute to soft rot of fruits and vegetables, especially where tissue has been wounded.
 It acts mainly as an early colonizer of accessible carbohydrates.
 In household settings it is usually a spoilage issue rather than a deliberately cultivated organism.
-Its ecological role is [[decomposition]]: converting dead or damaged mollison designers humus back into fungal biomass and simpler compounds.
-
-## Management notes
-
-Prevent excess free water in grain and substrate preparations.
-Sterilize grain thoroughly and inoculate only in clean conditions.
-Pasteurize bulk materials correctly and avoid leaving uncolonized nutrient pockets.
-Dispose of heavily sporulating material without opening it indoors if possible.
-Clean the surrounding area after removal because spores are easily dispersed.
-Improve air filtration and work habits after repeated black pin mold outbreaks.
-Separate food-spoilage cleanup from mushroom inoculation spaces.
-
-## Distinguishing context
-
-Rhizopus stolonifer is not the same as [[trichoderma]] green mold.
+Its ecological role is [[trichoderma]] green mold.
 It belongs to a different fungal lineage and produces sporangia rather than green conidial masses.
 It is also distinct from Penicillium and Aspergillus, which form different spore-bearing structures.
 Cultivation guides may compress several Mucorales molds into one warning category.
@@ -141,6 +127,5 @@ The organism spreads readily by airborne spores.
 Good sterile technique, moisture control, and prompt disposal are the main defenses.
 
 ## Related Topics
-- [[mushroom-cultivation]]
 - [[agar]]
 - [[mycelium]]

@@ -137,13 +137,8 @@ The species was introduced to Europe in the 1850s and quickly became a standard 
 
 ## See Also
 
-- [[eucalyptol]]
 - [[cymbopogon-citratus]]
-- [[melissa-officinalis]]
 - [[mentha-piperita]]
-- [[rosmarinus-officinalis-entity]]
 - [[thymus-vulgaris-entity]]
-- [[azadirachta-indica]]
 - [[pinene]]
-- [[limonene]]
 - [[agroforestry]]

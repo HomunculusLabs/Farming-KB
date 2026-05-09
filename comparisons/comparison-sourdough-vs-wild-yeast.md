@@ -20,26 +20,6 @@ For the homesteader, the choice between these approaches also intersects with br
 
 ## Sourdough
 
-[[sourdough-bread-guide]]
-
-Sourdough bread is made using a perpetuated symbiotic culture of wild yeast (primarily *Saccharomyces exiguus*) and lactic acid bacteria (*Lactobacillus* species) known as a sourdough starter. This culture is maintained through regular feedings of flour and water, creating a reliable and predictable leavening agent that produces bread with complex flavor, a chewy crumb, a crisp crust, and improved digestibility from pre-fermentation of gluten and phytic acid breakdown.
-
-The result is a loaf that is widely considered superior in both taste and nutritional profile to commercially yeasted bread. The lactic acid bacteria contribute tangy flavor notes while also acting as a natural preservative, extending shelf life without artificial additives. The long fermentation process also breaks down complex carbohydrates, making the bread easier to digest for many people with mild gluten sensitivities.
-
-The sourdough approach emphasizes consistency and control. A well-maintained starter at a 1:1:1 feeding ratio becomes a dependable kitchen companion, doubling within 4-6 hours of feeding and producing repeatable results. The method follows a structured workflow: build a levain 8-12 hours before mixing, autolyse the dough for 30-60 minutes, perform four sets of stretch-and-folds during the first two hours of bulk fermentation, shape into a boule or batard, cold retard for 12-24 hours, score, and bake in a preheated Dutch oven.
-
-This precision makes sourdough approachable for beginners who want a reliable system with clear milestones at every stage of the process. The baking temperature targets are equally specific: preheat the Dutch oven at 500 F, bake covered for 20 minutes, then uncover and continue at 450 F until the crust reaches a deep golden brown and the internal temperature reads 200-210 F.
-
-Flour selection in sourdough baking typically centers on bread flour (12-14% protein) as the base, supplemented with whole wheat or rye for flavor and microbial diversity. A typical blend might be 80% bread flour and 20% whole wheat, or 75% bread flour, 15% whole wheat, and 10% rye. All-purpose flour works but produces a less open crumb than bread flour. Heritage grains like spelt, einkorn, and emmer can be incorporated in part but require adjustments due to weaker gluten structure.
-
-Hydration levels range from 60-65% for firm beginner doughs with a tighter crumb up to 80%+ for advanced high-hydration artisan loaves with a very open crumb. The 70-75% range represents the sweet spot for most artisan bakers, balancing open crumb structure with workable dough consistency.
-
-Common issues encountered in sourdough baking all have clear diagnostic solutions within this framework. Dense bread indicates under-fermentation and calls for extended bulk ferment time or warmer temperatures. A flat, spreading loaf signals over-fermentation and requires shorter bulk ferment or cooler conditions. Gummy interiors point to under-baking, while poor oven spring may result from weak shaping, a dull scoring blade, or insufficient steam. A lack of sour flavor can be addressed by feeding the starter less frequently before baking or extending the cold retard period.
-
-This systematic troubleshooting makes sourdough an excellent learning tool for developing fermentation intuition over time.
-
-## Wild Yeast Baking
-
 [[wild-yeast-bread-baking]]
 
 Wild yeast bread baking takes a wider lens, treating sourdough as one expression of a much older tradition of harnessing naturally occurring microorganisms. Beyond the standard starter, wild yeast baking explores alternative capture methods such as incorporating organic grapes or unwashed berries into the initial mix, relying on rye flour's higher enzyme and mineral content to accelerate fermentation, or using whole grain surfaces that naturally harbor more wild organisms than refined white flour.
@@ -115,12 +95,7 @@ The best approach is to start with sourdough fundamentals and gradually layer in
 
 ## See Also
 
-- [[comparison-sourdough-vs-wild-yeast-bread]]
-
 - [[food-fermentation-guide]] for the broader science of lacto-fermentation
-- [[wild-fermentation-vs-cultured-yeast]] for a deeper comparison of fermentation philosophies
 - [[koji-and-amylase-fermentation]] for another grain fermentation tradition
-- [[small-scale-grain-growing]] for homestead grain production
 - [[holmgren-wild-foods-and-marginal-systems]] for Nicole Faires' integrated approach
-- [[yeast-biology-guide]] for the science behind wild yeast and bacteria
 - [[farmers-market-selling-guide]] for marketing homemade bread

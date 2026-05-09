@@ -3,33 +3,19 @@ title: Fungal Enzyme Systems in Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/cotter-organic-mushroom-farming-mycoremediation.md"
----
-
-updated: 2026-04-18
-
-Fungal enzyme systems constitute the primary biochemical machinery for [[fungal-bioremediation]], enabling the degradation, transformation, and detoxification of a vast array of environmental pollutants. These extracellular enzymes are the key advantage of fungi over bacteria for treating recalcitrant compounds.
+tags: [[fungal-bioremediation]], enabling the degradation, transformation, and detoxification of a vast array of environmental pollutants. These extracellular enzymes are the key advantage of fungi over bacteria for treating recalcitrant compounds.
 
 ## Overview of Fungal Enzymatic Capabilities
 
 Fungi produce a remarkable diversity of extracellular enzymes that can be categorized by their target substrates and roles in bioremediation:
 
 ### Ligninolytic Enzymes
-The [[ligninolytic-enzyme-systems-white-rot-fungi]] of white-rot fungi is the most important for bioremediation of recalcitrant pollutants:
-
-- **Laccase** (EC 1.10.3.2): Blue multicopper oxidase; oxidizes phenolic and non-phenolic compounds; works with mediators for expanded substrate range. See [[fungal-laccase-mediator-systems]]
-- **Lignin peroxidase (LiP)** (EC 1.11.1.14): Haem-containing peroxidase with unusually high redox potential; oxidizes non-phenolic aromatic compounds via cation radical intermediates. See [[lignin-peroxidase-mechanism]]
-- **Manganese peroxidase (MnP)** (EC 1.11.1.13): Haem-containing peroxidase; converts Mn2+ to Mn3+; Mn3+-chelates diffuse into wood cell wall pores inaccessible to enzymes. See [[manganese-peroxidase-mechanism]]
+The [[fungal-laccase-mediator-systems]]
+- **Lignin peroxidase (LiP)** (EC 1.11.1.14): Haem-containing peroxidase with unusually high redox potential; oxidizes non-phenolic aromatic compounds via cation radical intermediates. See [[manganese-peroxidase-mechanism]]
 - **Versatile peroxidase (VP)**: Combines catalytic properties of LiP and MnP
 
 ### Hydrolytic Enzymes
-- **Cellulases**: Endoglucanases, exoglucanases (cellobiohydrolases), beta-glucosidases for cellulose degradation. See [[fungal-cellulase-and-hemicellulase-systems]]
-- **Hemicellulases**: Xylanases, mannanases, galactosidases for hemicellulose breakdown
-- **Esterases**: Including feruloyl esterases for releasing ferulic acid from plant cell walls
-- **Cutinases**: Degrade cutin (plant cuticle polymer)
-- **Lipases**: Hydrolyze ester bonds in lipids; important for [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
+- **Cellulases**: Endoglucanases, exoglucanases (cellobiohydrolases), beta-glucosidases for cellulose degradation. See [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
 
 ### Oxidative Enzymes
 - **Catalase**: Decomposes hydrogen peroxide, protecting fungal cells from oxidative damage
@@ -87,11 +73,7 @@ Different white rot fungi produce different combinations of ligninolytic enzymes
 
 | Species | Laccase | LiP | MnP | VP |
 |---------|---------|-----|-----|-----|
-| [[singh-cytochrome-p450-fungal-bioremediation]] | Variable | Yes | Yes | No |
 | [[staycare-trametes-versicolor-bioremediation-applications]] | Yes | Yes | Yes | No |
-| [[cotter-mycoremediation-overview]] | Yes | No | Yes | No |
-| Phlebia radiata | Yes | No | Yes | No |
-| Bjerkandera adusta | Yes | Yes | Yes | No |
 | [[cotter-mycoremediation-overview]] | Yes | No | Yes | Yes |
 
 ## Applications Beyond Bioremediation
@@ -106,33 +88,7 @@ Fungal enzymes have commercial applications in:
 
 ## Strain Training for Targeted Remediation
 
-A technique developed by [[stamets-mycoremediation-principles]] and tested at Battelle:
-
-1. Start with a library of aggressive mushroom strains
-2. Introduce nonnutritive agar with a sample of the target substrate (wood or toxin)
-3. Select strains that show faster growth and diverging fans of running mycelium
-4. Incrementally replace natural nutrients with the target toxin
-5. Gradually increase toxin concentration while decreasing other food sources
-6. Continue until the toxin becomes the sole source of nutrition
-7. The adapted strain's enzymatic pathways have been redirected to metabolize the toxin
-
-This technique successfully produced strains capable of neutralizing surrogates of sarin, soman, and VX nerve agents.
-
-## Top Mycoremediating Species (by Versatility)
-
-| Species | Toxin Classes Targeted |
-|---------|----------------------|
-| Pleurotus ostreatus | PAHs, petroleum, PCP, bacteria, E. coli, oils — most versatile |
-| Trametes versicolor | PAHs, PCBs, PCP, creosote, dyes, heavy metals, bacteria |
-| Phanerochaete chrysosporium | PCBs, PAHs, PCP, DDT, dioxins, lignin |
-| Bjerkandera adusta | PAHs, chlorophenols |
-| Lentinula edodes | PAHs, PCP, E. coli, bacteria |
-| Gloeophyllum trabeum | Wood preservatives, creosote |
-| Grifola frondosa | E. coli, bacteria |
-
-## The Fungal-Bacterial Partnership
-
-[[fungal-decomposition]] works best as a tandem approach:
+A technique developed by [[fungal-decomposition]] works best as a tandem approach:
 
 - **Fungi** break down large, recalcitrant molecules (high molecular weight) using extracellular enzymes
 - **Bacteria** feast on the smaller fragments produced by fungal activity

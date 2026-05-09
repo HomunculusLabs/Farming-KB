@@ -7,47 +7,14 @@ tags: [endophyte, fungi, biocontrol, plant-protection, Piriformospora-indica]
 sources: [raw/papers/symbiotic-fungi.md]
 ---
 
-# [[endophytic-fungi]] and Plant Protection
-
-Source: Symbiotic Fungi (Varma and Kharkwal, eds.), Chapters 1, 12
-
-## Introduction
-
-Endophytic fungi -- fungi that live within plant tissues without causing apparent disease --
-play significant roles in plant defense through multiple mechanisms including induced systemic
-resistance, pathogen suppression, and abiotic stress tolerance. The root endophyte
-[[piriformospora-indica]] represents the most extensively studied cultivable endophytic fungus
+# [[piriformospora-indica]] represents the most extensively studied cultivable endophytic fungus
 with plant-protective properties.
 
 ## Piriformospora indica: A Model Endophyte
 
 Piriformospora indica (Hymenomycetes, Basidiomycota, family Sebacinaceae) is the only
 cultivable endophyte that colonizes roots and can grow on artificial medium. Unlike
-[[arbuscular-mycorrhizal-fungi]], which cannot be grown in the absence of a living plant,
-P. indica can be multiplied at mass scale on simplified nutrient medium.
-
-The fungus was first isolated from the rhizosphere of woody plants in the Indian Thar
-Desert and has been described as a novel endophytic, root-interacting fungus that mimics
-the capabilities of a typical mycorrhizal fungus.
-
-Colonization pattern:
-
-- Forms inter- and intracellular hyphae in the root cortex
-- Often differentiates into dense hyphal coils (arbuscule-like structures)
-- Produces spore and vesicle-like structures
-- Hyphae never traverse through the endodermis
-- Does not invade aerial portions of the plant
-
-## Growth Promotion Across Host Species
-
-P. indica vastly improves growth and overall biomass production of diverse hosts.
-Arabidopsis plants colonized with the fungus produce 22% more seeds than uncolonized
-plants.
-
-Medicinal plants tested in laboratory and field trials:
-
-- Bacopa monieri (Sahay and Varma 1999, 2000)
-- Azadirachta indica/[[neem]] (Singh et al. 2002, 2003)
+[[neem]] (Singh et al. 2002, 2003)
 - Withania somnifera (Rai et al. 2001)
 - Spilanthes calva (Rai et al. 2001)
 - Adhatoda vasica (Rai and Varma 2005)

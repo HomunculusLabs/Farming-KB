@@ -25,36 +25,6 @@ project.
 
 ## Spore Syringe
 
-[[stamets-cultivator-spore-syringe-preparation-techniques]]
-
-Spore syringes are the starting point for most mushroom cultivation projects.
-They are created by collecting spores from a fresh mushroom cap (taking a spore
-print), then suspending those spores in sterile water within a syringe. Each
-spore syringe contains millions of individual spores, each representing a unique
-genetic combination from the parent mushroom's sexual reproduction. When
-injected into a sterile substrate, these spores germinate, seek compatible
-mating partners, and form a dikaryotic mycelium that can eventually fruit.
-
-The primary advantage of spore syringes is genetic diversity. Each spore is a
-unique genetic individual, and the resulting mycelium represents a new genetic
-combination that may exhibit different characteristics from the parent mushroom.
-This diversity is valuable for breeders and researchers seeking new strains, and
-for cultivators who want to explore the natural variation within a species.
-Spore syringes are also widely available, legal to possess in most jurisdictions
-(for gourmet species), and relatively easy to create and store. Properly stored
-spore prints can remain viable for years.
-
-The major limitation of spore syringes is unpredictability. Because each
-injection represents a new genetic roll of the dice, the resulting culture may
-differ significantly from the parent in growth speed, yield, fruiting
-characteristics, and potency. Spore germination is also slower than liquid
-culture inoculation, typically taking 3-14 days versus 3-7 days for mycelial
-suspension. Additionally, a spore syringe can only inoculate a limited number of
-jars compared to liquid culture, which can expand a single agar plate to
-inoculate 100 or more grain jars.
-
-## Liquid Culture
-
 [[stamets-cultivator-liquid-culture-propagation-methods]]
 
 Liquid culture (LC) techniques enable cultivators to dramatically increase the
@@ -134,9 +104,6 @@ culture expansion, ensuring genetic stability across many generations.
 
 ## See Also
 
-- [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
-
 - [[agar-culture-and-isolation]]
-- [[sterile-cultivation-technique]]
 - [[strain-isolation-from-wild-specimens]]
 - [[tissue-culture-cloning]]

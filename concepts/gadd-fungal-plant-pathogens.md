@@ -53,12 +53,8 @@ Appressorium development involves multiple signalling pathways. The PMK1 MAP kin
 
 ## See Also
 
-- [[fungal-pathogens-human-disease]]
-
 - [[magnaporthe-grisea-functional-genomics-rice-blast]]
-- [[fungal-plant-pathogen-interactions]]
 - [[fungal-plant-diseases]]
-- [[bloomfield-fungal-plant-pathogens]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - gadd fungal environmental genomics
 

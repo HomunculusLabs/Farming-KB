@@ -3,7 +3,7 @@ title: Plant Nursery
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, plant-systems, plant-growth]
+tags: [[permaculture, plant-systems, plant-growth]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -118,13 +118,7 @@ Pioneer or innovative farmers often become providers of plant materials to other
 
 ## Related Topics
 
-- [[permaculture-designers-manual-seed-exchange]] - Seed saving and exchange networks
 - [[permaculture-designers-manual-designer-checklist]] - Development planning
-- [[permaculture-designers-manual-bioregional-planning]] - Regional organisation
-- Tree crop establishment
-- Tropical species selection
 - [[mollison-native-seed-forage-systems-and-arid-species-lists]]
-- [[permaculture-designers-manual-plant-propagation]]
 - [[mollison-permaculture-two-community-self-reliance]]
-- [[permaculture-designers-manual-tropical-climates]]
 - [[permaculture-designers-manual-seed-saving-varieties]]

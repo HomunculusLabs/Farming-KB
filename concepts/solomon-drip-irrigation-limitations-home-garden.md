@@ -99,25 +99,7 @@ It is worth noting that Solomon's critique is not theoretical. He used drip irri
 
 He states directly that he did not care what drip cost in money or effort because he was growing valuable research data, not food. For the home vegetable gardener whose goal is food production rather than agricultural research, the economics and maintenance burden of drip are far less justifiable.
 
- See [[solomon-irrigation-systems-sprinkler-design]] for detailed guidance on sprinkler selection, nozzle sizing, and system design for the home garden.
-
-## Key Points Summary
-
-- Drip tubes are expensive, short-lived, and easily damaged by garden tools
-- Emitters clog even with filtration, requiring system-wide inspection before each use
-- Drip lines shift position as they expand and contract, missing seedling rows
-- Seeds cannot germinate under drip irrigation because surface moisture is inadequate
-- Sandy soils defeat drip irrigation entirely due to lack of lateral water movement
-- Microirrigation is a separate technology suited to permanent plantings and cloches, not vegetable beds
-- Sprinkler systems remain the preferred choice for home vegetable garden irrigation
-- Microirrigation is a distinct technology suited to permanent plantings, not vegetable beds
-- Solomon's 16 years of drip experience inform a practical, evidence-based critique
-
-## Related Concepts
-
-- [[solomon-irrigation-systems-sprinkler-design]]
-- [[solomon-irrigation-water-management]]
+ See [[solomon-irrigation-systems-sprinkler-design]]
 - [[hand-watering-garden]]
-- [[wide-spacing-dry-gardening-low-irrigation-solomon]]
 - [[solomon-irrigation-water-scarce]]
 - [[solomon-irrigation-systems-sprinkler-design]]

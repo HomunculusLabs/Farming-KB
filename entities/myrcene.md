@@ -139,12 +139,10 @@ studies:
 | Ocimene | C₁₀H₁₆ | Isomer, different bond position | Sweet, woody, antifungal |
 | Humulene | C₁₅H₂₄ | Bicyclic sesquiterpene | Earthy, appetite suppressant |
 | Terpinolene | C₁₀H₁₆ | Monocyclic + exocyclic double bond | Piney, floral, sedative |
-
 ## See Also
 
-- [[cannabis-blue-dream]]
 - [[cannabis-sativa]]
-- [[cymbopogon-citratus]]
-
 - [[cannabis-sativa]]
 - [[og-kush]]
+
+See also: [[cannabis-terpenes-and-the-entourage-effect]]

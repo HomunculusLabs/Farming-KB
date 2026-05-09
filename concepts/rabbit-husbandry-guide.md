@@ -40,24 +40,7 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 - **Nest box** (12" x 10" x 10") added 3-5 days before kindling
 - **Weather protection** — Shade in summer, wind block in winter
 - **Predator proof** — Hardware cloth on all openings; secure latches
-- See [[poultry-housing-guide]] for general small-livestock housing principles
-
-### Colony Housing
-- Rabbits can be raised in colony systems on the ground
-- Requires excellent drainage and predator protection
-- Social dynamics can cause problems with bucks fighting
-- Less labor-intensive but harder to manage individual breeding and health
-
-## Feeding
-
-### Commercial Pellets
-- 16-17% protein rabbit pellets as the base diet
-- 4-6 oz per day for an adult rabbit (adjust by size and production status)
-- Free-choice timothy or grass hay for digestion and dental health
-- Avoid alfalfa hay for adults (too much calcium); fine for growing kits
-
-### Natural Feeding
-- [[fodder-growing-guide]] systems can supplement pellet diets
+- See [[fodder-growing-guide]] systems can supplement pellet diets
 - Garden greens: dandelion, plantain, comfrey (in moderation), clover
 - Vegetable scraps: carrot tops, cabbage, lettuce (avoid iceberg — too watery)
 - Fruit as treats only: apples, bananas, berries (seeds removed from apples)
@@ -123,19 +106,13 @@ Rabbit manure is one of the best organic fertilizers:
 - **N-P-K approximately 2.4-1.4-0.6** — rich in nitrogen and phosphorus
 - Does not need composting before use (unlike chicken, cow, or horse manure)
 - Can be applied directly to garden beds as a top-dressing or side-dress
-- Excellent addition to [[composting-systems]] for accelerating decomposition
-- Worms love rabbit manure — excellent feed for vermicomposting systems
-- See [[animal-manure-guide]] for comparison with other manure types
+- Excellent addition to [[animal-manure-guide]] for comparison with other manure types
 
 ## Related
 
-- [[rabbit-processing-guide]]
 - [[rabbit-husbandry-basics]]
 
-- [[livestock-feed-management]]
 - [[fodder-growing-guide]]
-- [[poultry-housing-guide]]
 - [[animal-manure-guide]]
-- [[composting-systems]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
 - [[sheep-health-and-production]]

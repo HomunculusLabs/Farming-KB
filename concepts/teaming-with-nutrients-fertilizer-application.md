@@ -11,7 +11,7 @@ sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.m
 
 updated: 2026-18-04
 
-Proper application of [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] is as important as choosing the right materials. The method affects nutrient efficiency, [[lowenfels-earthworms-soil-food-web]] health, and environmental impact.
+Proper application of [[lowenfels-earthworms-soil-food-web]] health, and environmental impact.
 
 ## Broadcasting
 
@@ -19,39 +19,9 @@ Broadcasting spreads granular or powdered fertilizer over the soil surface by ha
 
 **Advantages:** Quick and practical for large areas; even distribution possible with calibrated equipment.
 
-**Disadvantages:** Inefficient for row crops — fertilizer is wasted between rows and between plants, encouraging weed growth. Places [[teaming-with-nutrients-composting-and-nutrient-cycling]] on the surface where it remains largely unavailable (phosphorus is immobile and does not move downward through soil profiles). Surface-applied nutrients may also be subject to runoff.
+**Disadvantages:** Inefficient for row crops — fertilizer is wasted between rows and between plants, encouraging weed growth. Places [[teaming-with-nutrients-composting-and-nutrient-cycling]] and potassium uptake when fertilizer is banded rather than broadcast. Particularly effective for immobile nutrients. Efficient use of materials.
 
-## Banding
-
-Banding places fertilizer in a concentrated band within the root zone before planting, giving plants a quick start. The band should be placed about 2 inches (5 cm) to the side and 2 inches deeper than where seeds will be planted. For transplants, place the band 3-4 inches (7.5-10 cm) below the transplant position.
-
-**Advantages:** Studies show a 50 percent increase in [[teaming-with-nutrients-composting-and-nutrient-cycling]] and potassium uptake when fertilizer is banded rather than broadcast. Particularly effective for immobile nutrients. Efficient use of materials.
-
-**Spot banding** — putting a bit of fertilizer in individual planting holes — is excellent for [[teaming-with-nutrients-composting-and-nutrient-cycling]] and potassium, and for slow-release fertilizers like colloidal phosphate and feather meal that need time to mineralize. Also effective for autumn applications that prepare soil for spring planting.
-
-## Side Dressing
-
-Side dressing applies fertilizer along rows or beside individual plants, usually at midseason. The fertilizer is placed under mulch or inserted 1-2 inches into the soil along the side of a row using a knife or trowel. Some gardeners use diluted liquid mixes as weekly side dressings, though this is less efficient due to runoff.
-
-**Timing:** Side dress after removing mulch, apply fertilizer, then reapply mulch. For most crops, side dressing every 3-4 weeks is appropriate during the growing season.
-
-## Foliar Spraying
-
-Foliar feeding applies liquid fertilizers directly to leaves. Plants can absorb some nutrients through leaf surfaces, but this method has significant limitations.
-
-**Appropriate uses:** Temporary quick fix for deficiencies of mobile nutrients like iron and zinc. Can supplement but not replace soil-based nutrition.
-
-**Limitations:** Plants require far more macronutrients than leaves can absorb. Many nutrients are immobile once inside plants. Foliar feeding cannot sustain thriving plants. The bottom line: do not rely on foliar feeding for anything but the most mobile micronutrient corrections.
-
-## Organic Fertilizer Recipes
-
-### Grandpa Al's Can't Fail Recipe
-- 4 parts fish meal (or soy/cottonseed meal for nitrogen)
-- 1 part kelp meal
-- 1 part rock phosphate (or 3/4 part bone meal)
-- 1 part dolomitic or calcitic limestone
-
-Apply 1-2 gallons per 100 sq ft at season start, banded into root zone. Side dress under mulch every 4 weeks. Top with 0.5 inch of [[compost-building-guide]] or 6 inches of grass clippings.
+**Spot banding** — putting a bit of fertilizer in individual planting holes — is excellent for [[compost-building-guide]] or 6 inches of grass clippings.
 
 ### Steve Solomon's Recipe
 - 3 parts cottonseed meal
@@ -96,13 +66,7 @@ Banding immobile nutrients like phosphorus directly into the root zone at planti
 
 ## Soil Food Web Considerations
 
-The [[lowenfels-earthworms-soil-food-web]] mediates all nutrient availability in organic systems.
-Mycorrhizal fungi form symbiotic associations with over 80% of plant species, extending the effective root surface area by up to 700 times and accessing phosphorus and micronutrients from soil pores too small for roots to penetrate.
-Excessive tillage disrupts mycorrhizal networks, while banding concentrated fertilizers directly adjacent to roots can reduce the plant's incentive to maintain these fungal partnerships.
-Soluble synthetic fertilizers bypass the soil food web entirely, feeding plants directly but starving the microbial community that sustains long-term soil fertility.
-Organic fertilizers, by contrast, must first be mineralised by soil microorganisms — bacteria, fungi, and actinomycetes — before their nutrients become plant-available.
-This slow release is the fundamental advantage of organic fertilization: nutrients are delivered in synchrony with microbial activity, which itself is regulated by soil temperature, moisture, and organic matter content.
-Applying [[compost-building-guide]] alongside concentrated organic fertilizers feeds the soil food web while providing immediately available nutrients.
+The [[compost-building-guide]] alongside concentrated organic fertilizers feeds the soil food web while providing immediately available nutrients.
 
 ## Application Rates and Calibration
 
@@ -114,9 +78,6 @@ Lowenfels recommends starting with soil test results to identify existing nutrie
 Compost applications of 1-2 inches annually typically supply sufficient micronutrients and organic matter for most garden vegetables without additional inputs.
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 10
-- [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - [[teaming-with-nutrients-fertilizer-sources]]
-- [[knf-green-grass-liquid-fertilizer]]
 - [[teaming-with-microbes-compost-mulch-tea]]
-- [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]
 - [[soil-testing-and-interpretation]]

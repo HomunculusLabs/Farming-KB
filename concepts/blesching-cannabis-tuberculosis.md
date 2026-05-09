@@ -113,19 +113,11 @@ antibacterial cannabinoid activity are relevant:
 
 ## Related Topics
 
-- [[blesching-cannabis-bacterial-infections]] - General overview of
-  cannabis and bacterial infections
 - [[blesching-cannabis-mrsa]] - Cannabis research against
   drug-resistant bacteria
-- [[blesching-cannabis-hiv-aids]] - TB as an opportunistic infection in
-  AIDS patients
 - [[blesching-cannabis-aids-opportunistic-infections]] - Comprehensive
   coverage of AIDS-related infections
-- [[blesching-cannabis-cough]] - Cough as a TB symptom and cannabis
-  anti-tussive effects
 - [[blesching-cannabis-colds-and-flu]] - Differential diagnosis
   including tuberculosis
-- [[blesching-cannabis-immune-system-modulation]] - Immune system
-  support through cannabinoids
 - [[blesching-cannabis-anorexia-cachexia]] - Wasting syndrome
   management applicable to TB patients

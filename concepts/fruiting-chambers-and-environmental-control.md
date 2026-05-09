@@ -1,27 +1,8 @@
----
-title: Fruiting Chambers and Environmental Control
-created: 2026-04-28
-tags: [mycology, cultivation, environment, fungi]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
-type: concept
----
 
 # Fruiting Chambers and Environmental Control
 
 A fruiting chamber is an enclosed space designed to maintain the environmental
-conditions necessary for mushroom mycelium to form primordia (pins) and develop
-into mature fruiting bodies. The four critical parameters are humidity, fresh
-air exchange (FAE), light, and temperature. Controlling these factors
-determines yield, quality, and consistency.
-
-## Core Environmental Parameters
-
-### Humidity (90-95% Relative Humidity)
-
-Mushrooms are composed of roughly 90% water. High humidity prevents the
-fruiting body from losing moisture to evaporation, which causes aborts
+conditions necessary for [[fruiting-body-development]] from losing moisture to evaporation, which causes aborts
 (mushrooms that stop growing and rot) and cracked caps. Relative humidity
 should remain above 85% at all times during fruiting, with 90-95% being
 optimal for most species.
@@ -70,16 +51,7 @@ indirect ambient light is standard.
 
 ### Temperature
 
-Each mushroom species has an optimal fruiting temperature range:
-
-| Species | Fruiting Range | Optimal |
-|---------|---------------|---------|
-| P. cubensis | 70-80°F | 75°F |
-| Oyster (Pleurotus) | 55-75°F | 65°F |
-| Shiitake | 50-75°F | 60-65°F |
-| Lion's mane | 60-75°F | 68°F |
-| Reishi | 70-85°F | 78°F |
-| King oyster | 55-65°F | 60°F |
+Each [[king-oyster-cultivation]] | 55-65°F | 60°F |
 
 A temperature drop of 5-10°F from colonization temperature is a common
 pinning trigger. Consistent temperatures within range are more important than
@@ -92,11 +64,7 @@ the exact value; fluctuations stress mycelium.
 The classic beginner chamber: a clear plastic tote with 1/4-inch holes drilled
 on all six sides (every 2 inches) and filled with 4-5 inches of wet perlite.
 The holes provide passive FAE while the perlite maintains humidity. Best for
-PF Tek cakes. Requires daily misting and fanning.
-
-### Monotub
-
-A modified plastic storage tub used for bulk substrate cultivation. The tub
+[[bulk-substrate-field-capacity]] cultivation. The tub
 itself serves as both colonization vessel (with holes taped during
 colonization) and fruiting chamber (holes opened for fruiting). Monotubs are
 the workhorse of home cultivation, offering simplicity, scalability, and
@@ -140,10 +108,10 @@ misting. This cycle of misting and fanning provides both humidity and FAE.
   bacteria. Reduce surface moisture and increase FAE.
 - **Cobweb mold**: Gray mold caused by poor FAE and excess humidity.
 - **Overlay**: Dense mat of mycelium on substrate surface that resists
-  pinning. Caused by prolonged colonization at fruiting conditions.
+  pinning. Caused by prolonged colonization at [[fruiting-conditions]].
 
 ## See Also
 
-- [[mushroom-cultivation-fruiting-chambers]]
-- [[mushroom-lighting-and-environmental-requirements]]
-- [[mushroom-cultivation-fundamentals]]
+- mushroom cultivation fundamentals
+- mushroom cultivation fundamentals
+- mushroom cultivation fundamentals

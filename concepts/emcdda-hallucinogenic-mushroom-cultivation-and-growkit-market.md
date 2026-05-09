@@ -140,11 +140,11 @@ growkits were about to become Class A controlled drugs. The Irish online
 headshop THC stopped offering mushroom products from January 2006. Despite
 legal restrictions, spore prints and cultivation information remained
 accessible online, raising enforcement challenges.
+## See Also
+
+- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 
 ## See Also
 
-- [[hallucinogenic-mushroom-market-in-europe]]
-
-- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
+- [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]

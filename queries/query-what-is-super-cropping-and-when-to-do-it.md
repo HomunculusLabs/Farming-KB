@@ -21,17 +21,7 @@ exposing more bud sites to light and promoting lateral branch development.
 
 ## Detailed Explanation
 Super cropping, also known as stem crush or stem bending, is one of the most
-effective [[water-in-permaculture]] for increasing yield and
-controlling plant shape without the need for screens, ties, or other support
-structures. The technique works by intentionally damaging the internal tissue
-of the stem, which triggers the plant's wound response. The plant heals the
-damage by creating a thickened, reinforced joint at the bend point, and the
-bend redirects the plant's growth hormone (auxin) flow away from the
-dominant apical tip and toward lower branches. This hormonal redistribution
-is what creates the more even, bushy growth pattern that super cropping is
-known for.
-
-The [[cannabis-super-cropping-technique]] page provides step-by-step
+effective [[cannabis-super-cropping-technique]] page provides step-by-step
 instructions for the proper execution of this method. To super crop a
 branch, you first locate a point on the stem that you want to bend, typically
 between the second and fourth nodes from the tip. Using your thumb and index
@@ -45,19 +35,7 @@ to 48 hours and begin growing upward from the new bend point.
 Timing is critical for successful super cropping. The technique should only
 be performed during the vegetative stage when stems are green, flexible, and
 actively growing. Attempting to super crop woody or flowering stems will
-usually result in the branch snapping completely. The [[supercropping]] guide
-recommends starting the process when plants have 4 to 6 nodes and performing
-additional rounds of super cropping every 1 to 2 weeks as the plant grows.
-The last round should be completed at least 2 weeks before switching to the
-flowering light cycle to allow sufficient recovery time.
-
-Super cropping is particularly valuable for managing tall, stretchy
-sativa-dominant plants that tend to grow with a strong central cola and
-sparse lateral branching. By bending down the tallest branches, you lower
-the overall canopy height and encourage the plant to fill out horizontally.
-This is especially useful in grow tents or rooms with limited vertical space
-where plants might otherwise grow too close to the lights. The
-[[cannabis-topping-training]] page compares super cropping with other HST
+usually result in the branch snapping completely. The [[cannabis-topping-training]] page compares super cropping with other HST
 methods like topping and FIMing, explaining how each technique affects plant
 architecture differently.
 
@@ -76,8 +54,7 @@ with a soft tie or plant wire if it is drooping severely. Avoid watering the
 plant from above or misting the damaged area for 24 to 48 hours to reduce
 the risk of infection at the wound site. Ensure the plant has adequate
 calcium and silicon in its nutrient regimen, as these minerals support cell
-wall repair and stem strengthening. The [[topping-cannabis]] and
-[[cannabis-pruning-and-defoliation-guide]] pages cover complementary
+wall repair and stem strengthening. The [[cannabis-pruning-and-defoliation-guide]] pages cover complementary
 techniques that can be combined with super cropping for maximum canopy
 control.
 
@@ -99,5 +76,4 @@ within a week if the two halves are held firmly together.
 - If a branch snaps, tape it immediately and support it until it heals
 
 ## Related Questions
-- [[query-which-cannabis-training-techniques-produce-highest-yields]]
 - [[query-sog-vs-scrog-cannabis-training-methods]]

@@ -76,12 +76,6 @@ MDAI is a controlled substance in many jurisdictions.
 
 ## See Also
 
-- [[mdma-entity]] — the compound MDAI was designed to emulate
 - [[mda]] — the parent amphetamine that inspired the entactogen class
-- [[mbdb-entity]] — another non-neurotoxic MDMA analogue explored by Nichols
-
-## Related
-
-- [[mdea-entity]]
-- [[2c-n-entity]]
+- [[mdea]]
 - [[tma-entity]]

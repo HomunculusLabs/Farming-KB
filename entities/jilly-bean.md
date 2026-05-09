@@ -140,11 +140,8 @@ achievable with proper training. Outdoors, plants can produce
 - Branches can be brittle during heavy bud development; provide
   support with trellis or stakes
 - Exhibits moderate stretch in the first 2–3 weeks of flowering
-
 ## See Also
 
-- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
 - [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
-- [[mescal-bean-sophora-secundiflora-vision-dance]]
 - [[bean-growing-guide]]
 - [[ice-cream-bean-entity]]

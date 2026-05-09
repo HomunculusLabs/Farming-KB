@@ -30,12 +30,12 @@ sources:
 ---
 # LA Confidential
 
-LA Confidential is an indica-dominant [[cannabis-strain-guide-reference]] bred by DNA Genetics,
+LA Confidential is an indica-dominant  bred by DNA Genetics,
 known for its potent sedative effects, dark dense buds, and classic Afghani
 character. Originally developed in Southern California, it gained prominence
 after winning multiple Cannabis Cup awards in the mid-2000s. The strain has
-become a staple in the medical cancannabis-[[cannabis-for-chronic-pain]]-management]] for [[cannabis-chronic-pain-management]],
-insomnia, [[nervine-herbs-and-anxiety-relief]]. Its lineage traces to two California landrace
+become a staple in the medical cancannabis--management for ,
+insomnia, . Its lineage traces to two California landrace
 and heirloom selections, producing a plant with straightforward cultivation
 needs and consistently high resin production.
 
@@ -72,17 +72,15 @@ rust-colored, and tend to retract into the bud mass.
 - **Flavor:** Smooth, woodsy smoke with pine and earth on the inhale; exhale
   reveals a slightly sweet, almost creterpene-profile-chemotaxonomywith lingering spice.
 
-## [[terpene-profile-chemotaxonomy]]
+## 
 
-- **[[myrcene]] (dominant):** ~0.8–1.2% — contributes sedative, musky,
+- ** (dominant):** ~0.8–1.2% — contributes sedative, musky,
   earthy character; primary driver of the indica-leaning physical effects.
 - **Caryophyllene:** ~0.3–0.5% — adds peppery, spicy warmth and interacts
-  with CB₂ receptors for [[medicinal-mushroom-antioxidant-anti-inflammatory]] modulation.
-- **[[limonene]]:** ~0.2–0.4% — subtle citrus lift in the background, offsets
+  with CB₂ receptors for  modulation.
+- **:** ~0.2–0.4% — subtle citrus lift in the background, offsets
   the heavy earth notes and may contribute mild mood elevation.
-- **Pinene:** ~0.1–0.3% — pine needle sharpness in the aroma; may help
-  counteract some of the cognitive fog associated with high-myrcene strains.
-- **Linalool:** Trace — adds a faint floral sweetness, enhances the
+- **[[linalool]]:** Trace — adds a faint floral sweetness, enhances the
   relaxing and anxiolytic profile.
 
 ## Cannabinoid Profile
@@ -143,7 +141,6 @@ Contraindicated for tasks requiring sustained alertness due to sedative profile.
 ## Notable Phenotypes
 
 Several distinct phenotypes circulate, including a more purple-leaning
-variant that expresses deeper coloration in cooler temperatures, and a
-slightly more sativa-influenced cut with longer flowering time and more
-cerebral effect. DNA Genetics' original cut remains the most widely
-available. LA Confidential has been used as a parent in crosses including
+## See Also
+- [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
+- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]

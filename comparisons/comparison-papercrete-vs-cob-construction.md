@@ -5,7 +5,7 @@ tags: [natural-building, papercrete, cob, sustainable-construction, green-buildi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elizabeth, L. & Adams, C. (2000). Alternative Construction: Contemporary [[mollison-designers-lime-and-cement-natural-building]]-the-best-natural-building-methods]]. Wiley."
+  - "Elizabeth, L. & Adams, C. (2000). Alternative Construction: Contemporary mollison-designers-lime-and-cement-natural-building-the-best-natural-building-methods]]. Wiley."
   - "Evans, I. & Smiley, M. (2002). The Hand-Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage. Chelsea Green Publishing."
   - "Kahn, G. (2005). Papercrete and Paper Adobe: A Revolutionary New Way to Build Your Own Home for Next to Nothing. Kahn Papercrete."
   - "Weismann, A. & Bryce, K. (2007). Building with Cob: A Step-by-Step Guide. Green Books."
@@ -16,7 +16,7 @@ type: comparison
 
 # Papercrete vs Cob Construction
 
-Papercrete and cob are two accessible, low-cost natural building methods well-suited to [[permaculture]] and homesteading projects. Both use earth-based or recycled materials, but they differ significantly in composition, performance, [[fermented-plant-juice-preparation-and-application]]. This comparison helps you choose the right method for your climate, goals, and resources.
+Papercrete and cob are two accessible, low-cost natural building methods well-suited to [[fermented-plant-juice-preparation-and-application]]. This comparison helps you choose the right method for your climate, goals, and resources.
 
 ## Quick Comparison Table
 
@@ -140,6 +140,5 @@ Some builders combine both materials: cob for thermal-mass interior walls and pa
 
 ## See Also
 
-- [[cob-construction]]
 - [[homesteading]]
 - [[natural-building]]

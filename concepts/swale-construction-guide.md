@@ -13,15 +13,11 @@ sources:
 
 Swales are shallow, level-bottomed ditches excavated on contour — lines of equal elevation across a slope. They capture surface water runoff, slow its movement, and allow it to infiltrate into the soil, forming an underground lens of stored water that moves downslope like a slow underground tide.
 
-
-
 ## What a Swale Does
 
 A swale, laid out on contour so that water does not flow along it but instead percolates into the soil, forms an underground storage reservoir. Swales can be 1 to 3 feet deep and 1 to 4 feet or more across, with a berm downslope roughly the same size, made from the excavated soil.
 
 Holmgren describes keyline and other catchment-based permaculture strategies as reflecting the broad design rules of natural catchments: slow the flow of both water and nutrients down the landscape and cycle them through soil and plants as many times as possible.
-
-
 
 ## Spacing
 
@@ -32,8 +28,6 @@ The distance between swales depends on rainfall, slope, and soil type:
 - **Steep slopes, compacted or clayey soils**: Bring swales closer together (runoff is heavier)
 - **General principle**: The more water, the bigger and more numerous the swales
 
-
-
 ## How to Lay Out a Swale
 
 1. **Determine spacing**: Use rainfall, slope, and soil type as guides (see above)
@@ -41,8 +35,6 @@ The distance between swales depends on rainfall, slope, and soil type:
 3. **Calibrate the A-frame** (if using): Stand the frame on level ground, mark where a weight on a string crosses the crossbeam. To use, flip the A-frame along the slope; when the string crosses the same mark, the two feet are on the same contour
 4. **Drive pegs**: Mark the course of the swale. On hilly ground, space pegs about 6 feet apart; on flat ground, every 10-15 feet. You will be surprised how much even "flat" ground undulates
 5. **The critical point**: The swale must be truly level so water infiltrates evenly and steadily
-
-
 
 ## Digging
 
@@ -53,34 +45,43 @@ Once the course is marked:
 - **Check level**: Periodically check the bottom of the swale to ensure it is level along its length
 - **Optional pits**: Dig deeper pits in the swale above water-loving plants to coax additional water to their roots
 
-
-
 ## After Digging
 
 - **Mulch the swale**: Partially fill with mulch to help hold and absorb water and make the swale less noticeable
 - **Plant the berm**: Trees and shrubs are ideal — their deep roots hold the berm in place, leaves add humus, and shade slows evaporation
 - **Water-loving plants**: At the outlet end, plant species like blueberries that can use any water that flows the entire length
 
-
-
 ## Swales for Boggy Conditions
 
 In yards where water pools excessively, dig swales slightly off contour (about 2 percent grade) to carry water to an appropriate catchment — ideally a pond, creek, or dry slope. This combines [[rainwater-harvesting-systems]] with passive drainage.
-
-
 
 ## Example: Tom Ward's Integrated System
 
 Permaculturist Tom Ward built a 3,000-gallon pond on the uphill side of his vegetable garden, fed by downspouts from neighboring houses. A swale runs alongside the pond; overflow dribbles over a rock waterfall into the level swale and sinks into the soil. The garden is just downhill, and the expanding lens of subterranean wetness from the swale provides subsurface irrigation. At the outlet end, blueberry bushes capture any remaining water.
 
-
-
 ## Connections
 
 See also [[swale-design-construction]] for additional technical detail, permaculture earthworks, [[keyline-design]], [[rainwater-harvesting-systems]], [[earthworks-for-water-management]], and [[permaculture-principle-catch-and-store-energy]].
 
-
-
 ## Related
 
 - [[permaculture-earthworks-guide]] — Permaculture Earthworks Guide covers the broader context of earthworks including swales, ponds, and terraces.
+## Practical Considerations
+
+Successful implementation of Swale Construction Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

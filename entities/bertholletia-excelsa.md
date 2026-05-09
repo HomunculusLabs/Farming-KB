@@ -137,14 +137,10 @@ However, overharvesting of seeds (leaving none for germination) threatens natura
 Climate change poses additional risks, as the species requires consistent year-round moisture.
 
 Conservation strategies focus on sustainable harvest quotas, protected extractive reserves, and assisted regeneration.
-
 ## See Also
 
-[[theobroma-cacao]]
 [[moringa-oleifera]]
 carica papaya
-[[artocarpus-heterophyllus]]
-[[persea-americana-entity]]
-[[glycine-max]]
+[[persea-americana]]
 [[prosopis-juliflora]]
 [[anacardium-occidentale]]

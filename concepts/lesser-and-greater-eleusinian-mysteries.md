@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-The Eleusinian Mysteries operated as a two-stage initiation system: the Lesser Mysteries at Agrai in spring (February/March), serving as preliminary rites, and the Greater Mysteries at Eleusis in autumn (September/Bocedromion), culminating in the visionary experience in the [[eleusinian-telesterion-architecture-and-ritual]]. This structure paralleled the mythological cycle of [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] — death in spring, redemption in autumn.
+The Eleusinian Mysteries operated as a two-stage initiation system: the Lesser Mysteries at Agrai in spring (February/March), serving as preliminary rites, and the Greater Mysteries at Eleusis in autumn (September/Bocedromion), culminating in the visionary experience in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] — death in spring, redemption in autumn.
 
 ## The Lesser Mysteries
 
@@ -27,7 +27,7 @@ The Lesser Mystery "was considered a preliminary for the vision of the Greater M
 
 ### Dionysian Connection
 
-The Lesser Mysteries were "those Dionysian events" — explicitly connected to [[wasson-hofmann-ruck-collaboration]], whose winter mountain rites and [[maenads-thyrsos-and-ecstatic-ritual]] provided the experiential foundation. The Lesser rites at Agrai encoded the same death-and-rebirth pattern enacted by the maenads on winter mountainsides.
+The Lesser Mysteries were "those Dionysian events" — explicitly connected to [[maenads-thyrsos-and-ecstatic-ritual]] provided the experiential foundation. The Lesser rites at Agrai encoded the same death-and-rebirth pattern enacted by the maenads on winter mountainsides.
 
 ## The Greater Mysteries
 
@@ -43,19 +43,7 @@ The Greater Mysteries involved an elaborate multi-day sequence:
 
 2. Assembly in Athens
 
-3. The [[sacred-road-pilgrimage-to-eleusis]] procession — fourteen miles from Athens to Eleusis
-
-4. Crossing the narrow bridge over the swamp (symbolic frontier between worlds)
-
-5. Obscene insults from masked men at the bridge
-
-6. Night-long dancing beside the Maiden's Well
-
-7. Fasting
-
-8. Entry past the cave entrance to Hades
-
-9. The [[wasson-hofmann-ruck-collaboration]] ceremony
+3. The [[wasson-hofmann-ruck-collaboration]] ceremony
 
 10. The vision in the telesterion
 
@@ -69,38 +57,35 @@ The culmination was a vision (phasmata — "ghostly apparitions") in which "the 
 
 ## Duration and Continuity
 
-The Mysteries were performed every year (with one recorded exception) for nearly 2,000 years, from approximately the 15th century BC until suspension in the 4th century AD. The [[eleusinian-hierophantic-families-eumolpidae-kerykes]] of the Eumolpidae and Kerykes maintained autocratic control throughout.
+The Mysteries were performed every year (with one recorded exception) for nearly 2,000 years, from approximately the 15th century BC until suspension in the 4th century AD. The [[eleusinian-telesterion-architecture-and-ritual]] contained no anthropomorphic images of Demeter or Persephone. The divine presence was communicated through the visionary experience itself, not through static representations.
 
-## Eligibility
-
-"Everyone speaking the Greek language was free to present himself, except only those who had the unexpiated blood of a murdered man on their hands." Initiation was a once-in-a-lifetime experience.
-
-## The Aniconic Rule and Secrecy
-
-A remarkable feature of the Eleusinian Mysteries was their aniconic character — the absence of representational images of the goddesses. Unlike the cult statues that dominated most Greek temples, the [[eleusinian-telesterion-architecture-and-ritual]] contained no anthropomorphic images of Demeter or Persephone. The divine presence was communicated through the visionary experience itself, not through static representations.
-
-This aniconic rule reinforced the radical distinction between the Mysteries and ordinary Greek religion. At Eleusis, the gods were not seen as images but experienced directly — a distinction that aligns with the [[psychedelic-secrecy-comparative-eleusis-mesoamerica]] of the rites, in which the visionary experience transcended mere symbolism.
-
-## Post-Initiation Benefits and the Eleusinian Promise
-
-Initiates of the Eleusinian Mysteries were promised specific benefits in the afterlife. The most famous formulation — attributed to the Homeric Hymn and repeated by numerous ancient authors — was that initiation ensured a better fate after death. Initiates would continue to enjoy the blessings of the earth in the underworld, while the uninitiated would endure darkness and misery.
-
-This eschatological promise — "happy the man among mortals on earth who has seen these things" — was the core attraction of the Mysteries for over a millennium. The combination of a powerful visionary experience in this life and the promise of a blessed afterlife made Eleusinian initiation one of the most sought-after spiritual experiences in the ancient world.
-
-The promise of post-mortem benefits also explains the extraordinary secrecy maintained by both the [[eleusinian-hierophantic-families-eumolpidae-kerykes]] and the initiates themselves: revealing the secrets of the Mysteries was believed to jeopardize one's favorable afterlife.
+This aniconic rule reinforced the radical distinction between the Mysteries and ordinary Greek religion. At Eleusis, the gods were not seen as images but experienced directly — a distinction that aligns with the [[eleusinian-hierophantic-families-eumolpidae-kerykes]] and the initiates themselves: revealing the secrets of the Mysteries was believed to jeopardize one's favorable afterlife.
 
 ## Related Concepts
 
-- [[sacred-road-pilgrimage-to-eleusis]]
-
 - [[wasson-hofmann-ruck-collaboration]]
 
-- [[eleusinian-telesterion-architecture-and-ritual]]
-
 - [[eleusinian-hierophantic-families-eumolpidae-kerykes]]
-
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
 
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 
 - [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
+## Practical Considerations
+
+Successful implementation of Lesser and Greater Eleusinian Mysteries requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

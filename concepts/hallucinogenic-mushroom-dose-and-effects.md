@@ -20,7 +20,7 @@ The effects of hallucinogenic mushrooms depend on dose, individual sensitivity, 
 
 Mushroom potency depends on multiple factors:
 
-- **Species and variety**: [[psilocybe-semilanceata]] (liberty caps) is among the most potent, with up to 1% psilocybin by dry weight. [[psilocybe-azurescens]] and [[psilocybe-bohemica]] have reported higher potencies. [[psilocybe-cubensis]] contains up to 0.6% psilocybin and psilocin combined.
+- **Species and variety**: [[psilocybe-azurescens]] and [[psilocybe-cubensis]] contains up to 0.6% psilocybin and psilocin combined.
 - **Origin and growing conditions**: substrate composition, temperature, humidity, and light exposure all influence alkaloid profiles
 - **Age**: potency changes as mushrooms mature; younger specimens may differ from mature ones
 - **Preparation**: drying concentrates active compounds approximately 10:1 relative to fresh weight
@@ -109,17 +109,9 @@ Bad trips are usually followed by faintness, sadness, depression, and paranoid i
 
 ## See Also
 
-- [[psilocybin-and-psilocin-chemistry]]: chemical structures and pharmacology
 - [[psilocybe-cubensis]]: the most commonly cultivated hallucinogenic mushroom
-- [[emcdda-hallucinogenic-mushroom-health-risks]]: psychiatric complications
 - [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological patterns
-- [[hallucinogenic-mushroom-legislation-in-europe]]: legal status and responses
-
-## Wild Mushroom Identification Risks
-
-Nearly all psilocybin-containing mushrooms are small, brown, or tan mushrooms that could easily be mistaken for non-psychoactive, inedible, or poisonous species in the wild. The primary distinguishable feature of most psilocybin mushrooms is that they **bruise blue when handled**, caused by oxidative degradation of psilocin. However, this characteristic is not unique to psychoactive species and should not be relied upon as the sole identification criterion.
-
-In Europe, the most common wild hallucinogenic mushroom is [[psilocybe-semilanceata]] (liberty caps), found in wet grassy fields and uncultivated pastures, particularly in the UK, Norway, and Germany. Other wild European species include [[psilocybe-cyanescens]] (wavy caps), [[psilocybe-bohemica]], and [[psilocybe-moravica]], particularly in the Czech Republic.
+- [[psilocybe-semilanceata]] (liberty caps), found in wet grassy fields and uncultivated pastures, particularly in the UK, Norway, and Germany. Other wild European species include [[psilocybe-bohemica]], and [[psilocybe-moravica]], particularly in the Czech Republic.
 
 The risk of misidentification with toxic species such as members of the Galerina genus (which contain lethal amatoxins, the same toxins found in the death cap) represents a serious health hazard for wild foragers. This risk is a significant barrier to widespread wild harvesting and supports the predominance of cultivated mushrooms in the commercial market.
 

@@ -24,19 +24,13 @@ This experience gave birth to his method of natural farming. At first he was tot
 
 "Natural farming is a Buddhist way of farming that originates in the philosophy of Mu, or nothingness, and returns to a 'do-nothing' nature." This framing connects agriculture to spiritual practice. The young people living in Fukuoka's orchard carry with them the hope of someday resolving the great problems of our world that cannot be solved by science and reason.
 
-The philosophy of Mu teaches that all is unnecessary — which gave the farmer his enduring strength. The farming village was a society of philosophers without a need for philosophy. See [[fukuoka-do-nothing-farming-philosophy]] and [[fukuoka-do-nothing-farming-and-spiritual-life]].
+The philosophy of Mu teaches that all is unnecessary — which gave the farmer his enduring strength. The farming village was a society of philosophers without a need for philosophy. See [[fukuoka-do-nothing-farming-and-spiritual-life]].
 
 ## The Core Paradox
 
 Fukuoka states: "The more scientists learn, the more they realize just how awesome is the complexity and mystery of nature." Human knowledge, however refined, always remains partial. Man "can dissect a butterfly and examine it in the greatest detail, but he cannot make it fly." The intellect that analyzes nature is itself a product of nature and cannot stand outside it.
 
-Man is but an arrogant fool who vainly believes that he knows all of nature and can use it as he pleases. Nature cannot be explained or expanded upon. As an organic whole, it is not subject to man's classifications; nor does it tolerate dissection and analysis. Once broken down, nature cannot be returned to its original state. See [[fukuoka-god-nature-and-man-as-one]].
-
-## Mu as Non-Discriminating Knowledge
-
-The ultimate expression of mu is the "non-discriminating diet" — eating without discrimination in accordance with divine will. This represents the abandonment of the human intellectual habit of categorizing, judging, and selecting. In farming, mu means not choosing between "good" and "bad" practices but allowing natural processes to proceed without interference.
-
-In the state of non-discrimination, nature is entire and complete — a unity. The "discriminating adult" is inferior to the "non-discriminating child," who naturally perceives the wholeness of the world. See [[fukuoka-critique-western-dietetics-nutritional-science]].
+Man is but an arrogant fool who vainly believes that he knows all of nature and can use it as he pleases. Nature cannot be explained or expanded upon. As an organic whole, it is not subject to man's classifications; nor does it tolerate dissection and analysis. Once broken down, nature cannot be returned to its original state. See [[fukuoka-critique-western-dietetics-nutritional-science]].
 
 ## The Limits of Science
 
@@ -58,11 +52,7 @@ Scientific reasoning is of no avail in helping man understand nature. Nature as 
 
 "Natural farming treats everything as part of a whole." In contrast, scientific farming divides rice cultivation into narrow specialties: experts on germination, specialists in tillage, and likewise with seeding, transplanting, and other areas. "Solving problems independently is totally meaningless."
 
-The living and holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. Those who break off a piece of nature lay hold of something that is dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature. See [[fukuoka-errors-human-intellect]].
-
-## Mu in Practice: The One-Straw Revolution
-
-The practical embodiment of mu is Fukuoka's farming system where "one thing is all things." Once he made the decision to sow rice in the fall, he found he could simultaneously stop transplanting, plowing, applying chemical fertilizers, preparing compost, and spraying pesticides. The five principles of [[fukuoka-five-principles-natural-farming]] are not separate rules but aspects of a single abandonment of unnecessary intervention.
+The living and holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. Those who break off a piece of nature lay hold of something that is dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature. See [[fukuoka-five-principles-natural-farming]] are not separate rules but aspects of a single abandonment of unnecessary intervention.
 
 Natural farming condenses inward, seeking ultimately a return to the true world of nature that transcends the world of relativity. It is in irreconcilable conflict with scientific farming, which expands forever in the relative world.
 
@@ -86,18 +76,7 @@ All begins by relinquishing human knowledge.
 
 - [[fukuoka-do-nothing-farming-philosophy]]
 
-- [[fukuoka-do-nothing-farming-philosophy]]
-
-- [[fukuoka-five-principles-natural-farming]]
-
 - [[fukuoka-natural-farming-philosophy]]
 
-- [[fukuoka-god-nature-and-man-as-one]]
-
-Source: Masanobu Fukuoka, *The Natural Way of Farming*, throughout
-
-## Related
-
 - [[fukuoka-direct-observation-method]]
-- [[fukuoka-mu-nothingness-philosophy]]
 - [[fukuoka-natural-farming-transcends-time-space]]

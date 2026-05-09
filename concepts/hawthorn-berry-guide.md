@@ -6,15 +6,20 @@ type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, fruit-tree, pruning, permaculture]
 sources: []
 ---
+
 # Hawthorn Berry Growing Guide (Crataegus species)
+
 ## Overview
+
 Hawthorn is a genus of deciduous trees and large shrubs in the rose family,
 widely distributed across North America, Europe, and Asia. Revered as a
 heart tonic in European [[herbal-medicine|herbal medicine]] for centuries (referenced by
 Dioscorides in the 1st century AD), hawthorn berries, leaves, and flowers
 are among the most important cardiovascular herbs in modern herbal practice.
 The berries are also used in preserves, wines, and vinegars.
+
 ## Botanical Profile
+
 - Genus: Crataegus
 - Family: Rosaceae
 - Hardiness: Varies by species; most are USDA zones 4-8
@@ -22,6 +27,7 @@ The berries are also used in preserves, wines, and vinegars.
 - Size: 15-30 feet (varies by species and cultivar)
 - Bloom period: May to June (white to pink flowers)
 - Fruit: Red to dark red berries (haws), September to October
+
 Common species for cultivation:
 - Crataegus monogyna (European hawthorn, one-seed hawthorn): Traditional
   medicinal species, widely naturalized in North America
@@ -33,11 +39,15 @@ Common species for cultivation:
   good fruit production
 - C. douglasii (Douglas hawthorn): Western North American native
 - C. crus-galli (Cockspur hawthorn): Eastern North America, large thorns
+
 ## Medicinal Uses
+
 Hawthorn is the preeminent cardiovascular tonic in Western herbalism. Active
 compounds include oligomeric procyanidins (OPCs), flavonoids (quercetin,
 rutin, vitexin), and triterpenoid acids.
+
 Key medicinal applications:
+
 - Heart failure support: The most well-researched use. Clinical trials and
   meta-analyses show hawthorn improves symptoms of mild to moderate
   congestive heart failure (NYHA class I-II), including exercise tolerance,
@@ -51,6 +61,7 @@ Key medicinal applications:
 - Mild arrhythmia: May help stabilize heart rhythm.
 - Circulatory support: Improves coronary artery blood flow and peripheral
   circulation.
+
 Important considerations:
 - Hawthorn is a long-term tonic, not an acute remedy. Effects build over
   4-12 weeks of regular use.
@@ -60,6 +71,7 @@ Important considerations:
   these drugs.
 - Do not self-treat serious heart conditions. Hawthorn is supportive, not a
   replacement for medical care.
+
 Preparation methods:
 - Tincture: Dried berry and leaf/flower tincture (1:5 in 45-60% alcohol),
   30-60 drops 2-3 times daily
@@ -68,13 +80,16 @@ Preparation methods:
 - Capsules: Dried, powdered berries, 300-500 mg 2-3 times daily
 - Food: Jams, jellies, syrups, and vinegars are pleasant ways to consume
   hawthorn regularly
+
 ## Cultivation
+
 ### Site Selection
 Hawthorns are adaptable and hardy. They prefer full sun but tolerate partial
 shade. Soil requirements are minimal -- they grow in clay, loam, sandy, and
 even rocky soils. Best growth occurs in deep, well-drained loam with a pH
 of 6.0-7.5. Excellent drought tolerance once established. Wind-resistant
 and suitable for hedgerows and windbreaks.
+
 ### Planting
 - Plant bare-root or container-grown trees in spring or fall
 - Dig a hole twice as wide as the root ball
@@ -82,14 +97,18 @@ and suitable for hedgerows and windbreaks.
 - For hedgerows, space 5-8 feet apart
 - Water thoroughly after planting; mulch 3-4 inches deep
 - Stake young trees for the first 1-2 years in windy sites
+
 ### Care and Maintenance
 - Water regularly during the first year; minimal irrigation needed after
   establishment
 - Minimal fertilizer requirements; a spring application of compost is sufficient
 - Mulch annually to retain moisture and suppress weeds
 - Hawthorns are generally disease-resistant when healthy and well-sited
+
 ### Pruning
+
 Hawthorns tolerate heavy pruning and are excellent candidates for hedgerows:
+
 - Prune in late winter or early spring while dormant
 - Remove dead, diseased, or crossing branches
 - For hedges, shear to desired shape after flowering
@@ -98,14 +117,18 @@ Hawthorns tolerate heavy pruning and are excellent candidates for hedgerows:
 - Wear heavy gloves -- most hawthorns have sharp thorns (1-3 inches)
 - Fruit is produced on short spurs on 2+ year old wood; avoid removing all
   fruiting wood when pruning hedges
+
 ## Berry Harvesting
+
 - Berries ripen in September to October (varies by species and region)
 - Harvest when berries are fully red to dark red and slightly soft
 - Taste test: ripe berries are mealy, slightly sweet, with one large seed
 - Pick entire clusters or individual berries
 - Harvest after a light frost for sweeter fruit (optional)
 - Leaves and flowers can be harvested in spring during bloom for tea
+
 ## Processing and Storage
+
 Berries:
 - Remove stems and debris
 - Process fresh or dry for later use
@@ -113,16 +136,20 @@ Berries:
 - Store dried berries in airtight containers in a cool, dark place
 - Properly stored, dried berries last 1-2 years
 - Frozen berries maintain quality for up to 1 year
+
 Tincture:
 - Combine dried berries with alcohol (1:5 ratio, 45-60% alcohol)
 - Macerate for 4-6 weeks, shaking daily
 - Strain and bottle in amber glass
+
 Hawthorn vinegar:
 - Fill a jar with dried berries
 - Cover with apple cider vinegar
 - Steep 4-6 weeks in a cool, dark place
 - Strain and bottle; use as a daily tonic (1 tablespoon in water)
+
 ## Pests and Diseases
+
 - Cedar-hawthorn rust: Requires nearby juniper to complete lifecycle. Remove
   nearby junipers or use resistant varieties.
 - Fire blight: Can affect hawthorns; prune out affected branches well below
@@ -130,14 +157,18 @@ Hawthorn vinegar:
 - Aphids: Occasionally affect new growth; generally not serious.
 - Borers: Rare in healthy, well-maintained trees.
 - Birds: Birds relish the berries; netting may be needed for a serious harvest.
+
 ## Additional Uses
+
 - Windbreaks: Dense, thorny growth makes excellent windbreaks and livestock
   barriers
 - Wildlife habitat: Provides food and nesting sites for birds
 - Pollinator plant: Spring flowers attract bees and other pollinators
 - [[edible-landscaping|Edible landscaping]]: Attractive in all seasons (flowers, berries, fall color)
 - Living fence: Thorny branches create an impenetrable hedge
+
 ## See Also
+
 - [[elderberry-growing-guide]] -- pair with hawthorn berries in cardiovascular
   and immune-support formulas
 - [[comfrey-plant-guide]] -- plant comfrey beneath hawthorn trees in a food

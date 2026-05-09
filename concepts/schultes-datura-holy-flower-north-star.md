@@ -120,13 +120,8 @@ interpreted through the cultural framework of the time.
 
 ## See Also
 
-- [[schultes-san-pedro-four-winds]] for the Andean cactus whose
-  curanderismo healing tradition contrasts with Datura's malevolent
-  reputation in Mexico
 - [[schultes-ololiuqui-vines-serpent]] for the Mexican hallucinogen
   seeds that were once mistakenly identified as Datura
-- [[schultes-peyote-tracks-little-deer]] for the benevolent cactus that
-  Mexican Indians contrast with the malevolent Toloache
 - [[schultes-ergot-st-anthonys-fire]] for another European plant
   associated with mass intoxication and visionary experiences
 - [[schultes-ayahuasca-magic-drink-amazon]] for a safer visionary plant

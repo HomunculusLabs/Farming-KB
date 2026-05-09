@@ -82,16 +82,9 @@ Carbon flow in the rhizosphere can be described using pools and fluxes:
 
 ## Related Topics
 
-- [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] - Related technique overview
 - [[mycorrhizal-nutrient-transport]] - Nutrient exchange at arbuscular interface
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]] - Community analysis methods
-
-## See Also
-
-- [[mycorrhiza-micropropagation-integration]]
+- [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]]
 
 - [[mycorrhizal-carbon-sequestration]]
-- [[fungal-stable-isotope-ecology]]
 - [[mycorrhizal-carbon-nitrogen-economics]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

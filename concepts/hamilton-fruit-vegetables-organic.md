@@ -18,15 +18,7 @@ type: concept
 
 Fruit vegetables, including tomatoes, eggplants, and peppers, are some
 of the most rewarding crops in the organic garden. They generally
-belong in Plot A of the [[hamilton-three-year-crop-rotation]], which receives double digging with manure incorporated into
-both upper and lower levels, plus two handfuls of blood, fish, and bone
-meal per square yard/meter.
-
-## Tomatoes - *Solanum lycopersicum*
-
-Tomatoes are the most popular of all greenhouse crops and can also be
-grown outdoors in warm climates. They are gross feeders, benefiting from
-an application of liquid [[hamilton-organic-fertilizers-and-plant-nutrition]] every two weeks during the growing season.
+belong in Plot A of the [[hamilton-organic-fertilizers-and-plant-nutrition]] every two weeks during the growing season.
 
 ### Greenhouse Tomato Care
 
@@ -42,29 +34,6 @@ points. Feed with liquid fertilizer at every watering for best results.
 ### Outdoor Tomatoes
 
 In warm climates, tomatoes can be grown outdoors. Start them under
-[[hamilton-cloches-and-frost-protection]] in late spring and
-remove the protection once the weather has warmed. Use the cloches
-again in early fall to ripen any green fruits at the end of summer.
-
-## Eggplants - *Solanum melongena*
-
-Eggplants are a good crop to grow outside in warm climates, where they
-can be cultivated as a perennial. In colder conditions they must be
-treated as a tender annual and will certainly need cloche protection,
-and preferably a greenhouse or plastic tunnel.
-
-### Varieties
-
-The early varieties are preferable because they produce for a longer
-period of time. Black Enorma is very early and heavy yielding. Black
-Beauty is another early variety producing an excellent yield of large,
-pear-shaped fruit.
-
-### Growing Eggplants
-
-Eggplants need plenty of sun and a sheltered location, and like soil
-that has been well manured. They prefer a pH of about 6.5. Raise the
-plants in a greenhouse or on a windowsill, then move to a
 [[hamilton-cold-frames-and-hardening-off]] in mid-spring for
 hardening off. Plant out under cloches in late spring, setting the
 plants 2ft (60cm) apart. Stake them firmly and tie in the main stem.
@@ -134,13 +103,7 @@ peppers when green or wait until they turn red for a spicier flavor.
 ## Common Challenges
 
 Fruit vegetables are susceptible to whitefly and aphids, particularly
-under glass. Regular vigilance and good [[hamilton-greenhouse-management-organic]] are essential. Use biological controls where possible and maintain good air circulation to prevent fungal diseases.
+under glass. Regular vigilance and good [[hamilton-salad-vegetables-organic]] Topics
 
-## Related
-
-- [[hamilton-salad-vegetables-organic]] Topics
-
-- [[hamilton-three-year-crop-rotation]]
 - [[hamilton-greenhouse-management-organic]]
-- [[hamilton-cloches-and-frost-protection]]
 - [[hamilton-pest-and-disease-control-organic]]

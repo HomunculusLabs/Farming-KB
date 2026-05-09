@@ -29,7 +29,7 @@ sources:
 
 Valeriana officinalis, commonly known as valerian, is a perennial flowering
 plant in the family Caprifoliaceae (traditionally Valerianaceae). Native to
-Europe and parts of Asia, it has been used as a [[medicinal-herb-growing-guide]] for over 2,000
+Europe and parts of Asia, it has been used as a medicinal herb growing guide for over 2,000
 years, most prominently as a sedative and anxiolytic agent.
 
 The dried root is one of the most widely used herbal sleep aids in both
@@ -72,7 +72,7 @@ reputation as a panacea.
 
 Native to Europe and temperate Asia, from the British Isles eastward through
 central Europe to western Siberia and northern Iran. Widemaitake-growth-parameter-comparison-china-japan-north-americad in
-[[palmer-edible-mushrooms-north-america]], introduced by European settlers for [[query-what-are-the-best-mushrooms-for-medicinal-use]].
+[[query-what-are-the-best-mushrooms-for-medicinal-use]].
 
 Prefers moist, nutrient-rich soils in partial shade to full sun. Common in
 damp meadows, stream banks, forest edges, and disturbed ground at 0–2,000 m
@@ -81,67 +81,20 @@ elevation. Tolerates clay soils and seasonal waterlogging.
 ## Cultivation
 
 - **Propagation:** Seed (stratification 1–4°C for 4–8 weeks) or root
-  division in spring/autumn. Divisiquery-how-does-[[mycorrhizal-network-communication]]-work-between-plantsle for chemotype
+  division in spring/autumn. Divisiquery-how-does-work-between-plantsle for chemotype
   consistency.
-- **Spacing:** 30–45 cm [[mycorrhizal-nitrogen-transfer-between-plants]].
-- **Harvest:** Roots in second or third year, autumn after flowering when
-  active compound concentrations peak.
-- **Drying:** Washed, sliced, dried at 35–40°C [[medicinal-mushroom-extraction]]-bioactive-compoundsor
+- **Spacing:** 30–45 cm [[medicinal-mushroom-extraction]]-bioactive-compoundsor
   develops during drying as valerenic acid precursors convert.
 - **Yield:** 2–4 kg dried root per m².
 
-## [[medicinal-mushroom-extraction-bioactive-compounds]]
-
-- **Valerenic acid:** Primary bioactive sesquiterpene acid; positive
-  allosteric modulator at the GABA-A receptor.
-- **Acetoxyvalerenic acid:** Related sesquiterpene with GABAergic activity.
-- **Valerenal:** Sesquiterpene aldehyde with sedative properties.
-- **Isovaleric acid:** Responsible for characteristic pungent odor.
-- **Valepotriates:** Irritant iridoid glycosides (valtrate, isovaltrate)
-  in fresh root; cytotoxic, degraded during drying. Removed in
-  pharmaceutical extracts.
-- **Lignans:** Hydroxypinoresinol and others with antioxidant activity.
-- **Flavonoids:** Hesperidin, linarin, apigenin derivatives.
-
-## Pharmacology
-
-- **GABAergic activity:** Valerenic acid binds the GABA-A receptor β-subunit
-  as a positive allosteric modulator, enhancing GABA-mediated chloride ion
-  influx. Mechanism parallels benzodiazepines at a distinct binding site,
-  producing sedation without equivalent dependency profile.
-- **Sedative-hypnotic:** Multiple [[cancer-turkey-tail-psk-clinical-trials]] show reduced sleep onset
+## [[cancer-turkey-tail-psk-clinical-trials]] show reduced sleep onset
   latency and improved sleep quality; meta-analyses indicate modest effect
   sizes versus pharmaceutical hypnotics.
 - **Anxiolytic:** Reduced anxiety-like behavior in elevated plus maze and
   open field tests at moderate doses in animal models.
 - **Spasmolytic:** Reduces smooth muscle contraction in the GI tract,
   supporting traditional use for cramps and menstrual discomfort.
-- **[[serotonin]] interaction:** Hydroxypinoresinol inhibits serotonin reuptake,
-  contributing to anxiolytic and antidepressant potential.
-
-## Traditional and Modern Use
-
-Described by Dioscorides in *De Materia Medica* (c. 60 AD) and recommended
-by Hippocrates. European folk medicine used it for nervous disorders,
-headaches, epilepsy, and as a general restorative.
-
-Modern applications: standardized extracts (600–900 mg/day, or 2–3 g dried
-root) for insomnia, anxiety, and restless leg syndrome. Common ingredient
-in herbal sleep formulas with hops (*Humulus lupulus*), passionflower
-(*Passiflora incarnata*), and lemon balm (*Melissa officinalis*).
-
-## Permaculture Applications
-
-- **Medicinal ground cover:** Useful in herb spirals and medicinal plant
-  guilds in food forests.
-- **Pollinator support:** Late-season flowering fills a nectar gap in
-  temperate food forests; larval food plant for several moth species.
-- **Soil tolerance:** Thrives in damp, marginal soils where other
-  medicinal herbs struggle.
-- **Companion planting:** Paired with tomatoes and peppers; purported
-  to deter root-feeding rodents.
-
-## Related Species
+- **[[vincetoxicum-hirundinaria]] Species
 
 - **Valeriana jatamansi:** Himalayan species, higher valepotriate content;
   used in Ayurveda.

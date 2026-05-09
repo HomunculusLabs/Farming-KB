@@ -135,11 +135,7 @@ increased in patients with renal or hepatic impairment.
 
 ## See Also
 
-- [[medicinal-mushrooms]]
-
 - [[cannabis-polyploidy-colchicine-treatment-clarke]]
-
-- [[cervantes-colchicine-polyploidy-mutagenesis]]
 
 - [[colchicum-autumnale]]
 - Gloriosa superba
@@ -147,3 +143,5 @@ increased in patients with renal or hepatic impairment.
 - Vinblastine
 - Vinblastine
 - Tubulin
+
+See also: [[ketamine-pharmacology-and-therapy]]

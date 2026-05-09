@@ -11,18 +11,7 @@ sources:
 # Bacterial and Oomycete Disease Case Studies - AACT Treatments
 
 Extracted from Elaine Ingham's AACT Field Guide, covering diseases caused
-by bacteria, oomycetes, and fungal wilts treated with [[ingham-aact-disease-suppression]].
-
-## The Anaerobic Connection
-
-Many of these diseases thrive in anaerobic soil conditions. High
-concentrations of nitrate from inorganic fertilizers, undigested sugars,
-proteins and short-chain anaerobic organic acids create conditions
-perfectly balanced for disease organisms including streptococci, E. coli,
-fecal coliforms, fusarium, and other blights, wilts and root rots.
-
-Turning anaerobic conditions around requires a soil sample to determine
-the biology present, then restoring the full [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
+by bacteria, oomycetes, and fungal wilts treated with [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]].
 
 ## Fusarium
 
@@ -131,11 +120,7 @@ are essential.
 
 ## See Also
 
-- [[ingham-aact-disease-case-studies-specific-pathogens]]
-
 - [[ingham-disease-case-studies-fungal]]
-- [[stamets-mycoforestry-case-studies]]
 - [[fungal-bioremediation-case-studies]]
-- [[ingham-root-disease-treatment]]
 - [[humic-acids-soil-biology-ingham]]
 - [[fukuoka-soil-self-improvement-without-tillage]]

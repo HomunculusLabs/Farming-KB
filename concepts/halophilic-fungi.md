@@ -3,7 +3,7 @@ title: Halophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Halophilic Fungi
@@ -74,19 +74,12 @@ Halophilic fungi contribute to nutrient cycling in saline environments including
 
 ## Biotechnological Applications
 
-Enzymes produced by halophilic fungi that remain active at high salt concentrations have significant biotechnological potential. Salt-tolerant cellulases, xylanases, and proteases are valuable for industrial processes conducted under saline conditions, such as the treatment of saline wastewater or fermentation of salted food products. The [[extremophilic-fungi]] more broadly represent a largely untapped source of novel enzymes and biomolecules with industrial applications.
-
-## Climate Change and Salinization
-
-Increasing soil salinization due to rising sea levels, irrigation practices, and climate change is expanding the ecological relevance of halotolerant fungi. Understanding the [[fungal-diversity-arid-environments]] and saline habitats provides a foundation for predicting how fungal communities will respond to ongoing environmental change and for managing saline agricultural soils.
+Enzymes produced by halophilic fungi that remain active at high salt concentrations have significant biotechnological potential. Salt-tolerant cellulases, xylanases, and proteases are valuable for industrial processes conducted under saline conditions, such as the treatment of saline wastewater or fermentation of salted food products. The [[fungal-diversity-arid-environments]] and saline habitats provides a foundation for predicting how fungal communities will respond to ongoing environmental change and for managing saline agricultural soils.
 
 ## Related Topics
 
-- [[fungal-diversity-arid-environments]]
 - [[marine-estuarine-fungi]]
-- [[fungal-biodiversity-in-extreme-environments]]
 - [[extremophilic-fungi]]
-- [[fungal-biodiversity-mangrove]]
 - [[freshwater-fungi-biodiversity]]
 
 ## References
@@ -94,5 +87,4 @@ Increasing soil salinization due to rising sea levels, irrigation practices, and
 - Biodiversity of Fungi (2004), Chapter 14: Fungi in Stressful Environments
 - Malik, K.A. et al. 1982. Halophilic fungi from saline soils
 - Gunde-Cimerman, N. et al. 2000. Halophilic and halotolerant fungi from hypersaline environments
-- [[fungal-communities-water-aquatic-ecosystems]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

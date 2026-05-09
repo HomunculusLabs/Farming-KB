@@ -90,12 +90,8 @@ A phenomenon in Psilocybe cubensis culture where mushrooms form between the casi
 
 ## Related
 
-- [[casing-layer-preparation]] for casing depth and moisture management
 - [[mushroom-environmental-parameters]] for species-specific pinning conditions
-- [[fruiting-chamber-design]] for engineering the air handling system
 - [[mushroom-lighting-and-environmental-requirements]] for light specifications
 
-- [[pinhead-initiation-fruiting-triggers]]
 - [[stamets-mushroom-growing-parameters-by-species]]
-- [[oyster-mushroom-species-fruiting-parameters]]
 - [[tropical-mushroom-spawn-production-materials]]

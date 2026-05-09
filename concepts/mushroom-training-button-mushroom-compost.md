@@ -3,16 +3,7 @@ title: Button Mushroom Cultivation on Compost
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, cultivation, button-mushroom, compost, mushrooms]
-sources:
-  - "Mushroom Cultivation for People with Disabilities — A Training Manual (FAO RAP Publication 2001/12, Hanko)"
----
-
-# Button Mushroom Cultivation on Compost
-
-Button mushrooms (Agaricus spp.) as covered in the FAO training manual. Button mushrooms are among the more technically demanding cultivated species, requiring prepared compost beds rather than substrate bags, and cooler growing conditions.
-
-See also: [[mushroom-training-adapted-cultivation]], [[mushroom-training-oyster-straw-cultivation]], [[mushroom-training-spawn-production]]
+tags: [[mushroom-training-adapted-cultivation]], [[mushroom-training-spawn-production]]
 
 ## Button Mushroom Species
 
@@ -20,9 +11,7 @@ The manual lists Agaricus species among mushrooms cultivable using the **plot/be
 
 | Species | Scientific Name | Color | Temp Range | Season (Thailand) |
 |---------|----------------|-------|------------|-------------------|
-| White button | [[agaricus-bisporus]] | White | 20-30C | Winter (Oct-Jan) |
-| Brown button | Agaricus bisporus | Brown | 20-35C | Winter |
-| Tropical button | [[agaricus-bitorquis]] | White | 25-30C | Late summer and rainy |
+| White button | [[agaricus-bitorquis]] | White | 25-30C | Late summer and rainy |
 | Parasol mushroom | Macrolepiota procera | — | Experimental | — |
 
 ## Cultivation Method: Plot/Bed System

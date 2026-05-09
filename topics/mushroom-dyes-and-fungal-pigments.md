@@ -48,7 +48,7 @@ The use of fungi for dyeing textiles is ancient but poorly documented compared t
 | *Hydnellum suaveolens* | Aniseed Tooth | Terphenyls | Gold, yellow, tan | Strong anise aroma during dyeing |
 | *Hydnellum aurantiacum* | Orange Spindle | Terphenyls | Yellow-orange, rust | Good lightfastness |
 | *Pisolithus tinctorius* | Dyer's Puffball | Pigment complex | Yellow, gold, tan | Abundant; easy to collect |
-| *[[laetiporus-sulphureus-permaculture]]* | Chicken of the Woods | Pigment complex | Yellow, gold | Also edible; limited dye yield |
+| *[[laetiporus-sulphureus]]* | Chicken of the Woods | Pigment complex | Yellow, gold | Also edible; limited dye yield |
 | *Ganoderma lucidum* | Reishi | Pigment complex | Brown, amber, sienna | Cultural significance in East Asia |
 
 ### Blue and Green Pigments

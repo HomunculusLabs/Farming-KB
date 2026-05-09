@@ -1,7 +1,7 @@
 ---
 title: Oyster Mushroom Species Overview
 created: 2026-04-28
-tags: [mycology, pleurotus, oyster-mushrooms, species-identification]
+tags: [[mycology, pleurotus, oyster-mushrooms, species-identification]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -125,10 +125,6 @@ biologically significant concentrations.
 
 ## See Also
 
-- [[hallucinogenic-mushroom-species-families-overview]]
-
 - [[oyster-mushroom-species]]
-- [[oyster-mushroom-species-fruiting-parameters]]
 - [[oyster-mushroom-species-variety]]
-- [[oyster-mushroom-species-and-strain-selection]]
 - [[psilocybin-mushroom-species-overview]]

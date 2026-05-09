@@ -9,14 +9,7 @@ sources:
 ---
 # Biointensive Seed Saving
 
-Seed saving is integral to the [[comparison-biointensive-vs-square-foot-gardening]] system. It is not treated as an optional advanced skill but as a fundamental practice for food sovereignty, adaptation to local conditions, and long-term sustainability.
-
-## Why Save Seeds?
-
-1. **Self-reliance**: Eliminates dependency on commercial seed suppliers
-2. **Local adaptation**: Seeds saved from plants grown in your specific conditions become increasingly adapted to your microclimate, soil, and growing practices over generations
-3. **Genetic diversity**: Maintains open-pollinated varieties that are being lost as commercial agriculture shifts to hybrids and patented seeds
-4. [[biointensive-carbon-farming]] support: Ensures availability of calorie crop seeds, which are often harder to source than common vegetable seeds
+Seed saving is integral to the [[biointensive-carbon-farming]] support: Ensures availability of calorie crop seeds, which are often harder to source than common vegetable seeds
 5. **Cost reduction**: Seeds are a recurring expense; saving eliminates this cost permanently
 
 ## Open-Pollinated vs. Hybrid
@@ -86,15 +79,7 @@ Jeavons recommends dedicating approximately 5-10% of garden space to seed produc
 
 ## See Also
 
-- [[biointensive-gardening-overview]]
 - [[biointensive-carbon-farming]]
-- [[biointensive-carbon-farming]]
-
-- [[2c-d-pihkal-entry-23]]
 - [[2c-d-pihkal-entry-23]]
 - [[permaculture-design]]
-- [[root-vegetable-storage-guide]]
-
-## Related
-
 - [[seasonal-gardening-calendar]]

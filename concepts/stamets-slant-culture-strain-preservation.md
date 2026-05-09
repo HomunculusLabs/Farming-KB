@@ -1,7 +1,7 @@
 ---
 title: Slant Culture Preparation and Strain Preservation (Stamets)
 created: 2026-04-28
-tags: [mushroom-cultivation, strain-preservation, slant-culture, mycology]
+tags: [[mushroom-cultivation, strain-preservation, slant-culture, mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -134,8 +134,6 @@ re-isolation from multispore germinations can refresh degraded strains.
 
 ## See Also
 
-- [[stamets-agar-media-preparation]]
 - [[stamets-spawn-making-and-grain-culture]]
-- [[stamets-mycelial-morphology-strain-evaluation]]
 - [[mushroom-strain-preservation-senescence]]
 - [[fungal-culture-preservation-methods]]

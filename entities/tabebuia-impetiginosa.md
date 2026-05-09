@@ -122,10 +122,6 @@ rapid growth and spectacular pink flowering displays.
 
 ## See Also
 
-- [[tabebuia-avellanedae]]
-
 - [[azadirachta-indica]]
-- [[moringa-oleifera]]
 - [[gliricidia-sepium]]
-- [[arachis-pintoi-entity]]
 - [[glycine-max-soybean-permaculture]]

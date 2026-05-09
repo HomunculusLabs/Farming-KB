@@ -123,11 +123,7 @@ and distinctive terpene profile.
 
 ## See Also
 
-- [[og-kush]]
 - [[girl-scout-cookies]]
-- [[cannabis-blue-dream]]
 - [[gorilla-glue]]
-- [[thc-bomb]]
 - [[sour-diesel]]
-- [[jack-herer]]
 - [[wedding-cake-cannabis]]

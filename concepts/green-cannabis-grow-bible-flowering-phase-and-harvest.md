@@ -121,22 +121,13 @@ used for hash production.
 
 ## Related
 
-- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
-
 - [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]]
-
-- [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]
 
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] Pages
 
-- [[cannabis-flowering-stage]]
 - [[cannabis-flowering-stage-management]]
-- [[cannabis-harvest-and-curing]]
 - [[cannabis-harvest-timing-visual-cues]]
-- [[cannabis-drying-and-curing-guide]]
 - [[cannabis-trichome-guide]]
-- [[cannabis-harvest-timing-visual-cues]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

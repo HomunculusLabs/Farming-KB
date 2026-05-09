@@ -80,34 +80,7 @@ After ingestion, gyromitrin is hydrolyzed in the stomach and liver to yield
 monomethylhydrazine (MMH, CH3NHNH2), which is the actual toxic agent. The conversion is
 catalyzed by gastric acid and by hepatic cytochrome P450 enzymes, particularly CYP2E1.
 
-MMH is a potent inhibitor of [[pyridoxal-phosphate]] (vitamin B6)-dependent enzymes, particularly
-glutamic acid decarboxylase (GAD), which is essential for the synthesis of gamma-aminobutyric
-acid (GABA), the primary inhibitory neurotransmitter in the central nervous system.
-
-The inhibition of GABA synthesis leads to neuronal hyperexcitability and is responsible for
-the neurological symptoms of gyromitrin poisoning, including seizures, tremor, and
-convulsions.
-
-Additionally, MMH causes direct hepatocellular damage through the generation of reactive
-oxygen species and the depletion of hepatic glutathione reserves. MMH is metabolized by the
-enzyme monoamine oxidase (MAO) to produce hydrogen peroxide, formaldehyde, methylhydrazone,
-and other reactive intermediates that cause oxidative damage to hepatocytes and erythrocytes.
-
-The oxidative damage to red blood cells can result in hemolytic anemia and methemoglobinemia,
-in which hemoglobin is oxidized to methemoglobin and cannot carry oxygen effectively.
-
-The carcinogenic properties of gyromitrin and MMH are attributed to the formation of
-alkylating intermediates during hepatic metabolism. These reactive metabolites can form DNA
-adducts and cause mutations. Chronic exposure to MMH has been associated with an increased
-incidence of hepatocellular tumors, lung tumors, and bile duct tumors in experimental
-animals.
-
-Gyromitrin is classified as a probable human carcinogen (Group 2B) by the International
-Agency for Research on Cancer (IARC).
-
-## Clinical Presentation
-
-Gyromitrin poisoning has a characteristic clinical course that differs from [[alpha-amanitin]]
+MMH is a potent inhibitor of [[alpha-amanitin]]
 poisoning in several important respects:
 
 1. **Gastrointestinal phase (6 to 12 hours post-ingestion):** Nausea, vomiting, abdominal
@@ -137,7 +110,5 @@ can reach toxic concentrations in poorly ventilated kitchens, basements, or encl
 
 ## See Also
 
-- [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[amanita-species-ecology-identification-mycohhizal]]
-- [[mushroom-toxins-and-poisoning]]
 - [[agaritine]]

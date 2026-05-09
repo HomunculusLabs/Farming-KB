@@ -100,12 +100,7 @@ of the plant. General range is 1:500 to 1:1000.
 ## When and How to Use OHN
 
 OHN is one of the most versatile inputs in Natural Farming and is used
-throughout the entire [[cho-nutritive-cycle-theory]]:
-
-### Core Applications
-
-- Making [[cho-indigenous-microorganisms-collection-and-cultivation]] and IMO-4
-- [[cho-soil-treatment-and-seed-preparation]]
+throughout the entire [[cho-indigenous-microorganisms-collection-and-cultivation]] and IMO-4
 - [[cho-seed-seedling-solution-treatment]]
 - All growth periods: nutritional growth, change-over, and
   reproductive growth periods
@@ -129,8 +124,5 @@ their life cycle.
 
 ## See Also
 
-- [[knf-oriental-herbal-nutrient]] - general KNF OHN reference
 - [[cho-lactic-acid-bacteria-preparation]] - another essential input
-- [[cho-brown-rice-vinegar-preparation]] - combined with OHN in
-  treatments
 - [[cho-water-soluble-calcium-and-potassium]] - used alongside OHN

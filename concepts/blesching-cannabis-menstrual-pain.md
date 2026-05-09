@@ -101,8 +101,6 @@ embracing and cherishing the feminine in yourself.
 
 ## Related Topics
 
-- [[cannabis-and-endometriosis]]
 - [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
 - [[cannabis-and-fibromyalgia]]
 - [[blesching-cannabinoid-pharmacology]]

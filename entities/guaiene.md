@@ -109,13 +109,8 @@ Synthetic routes to guaiene have been developed for industrial production when n
 
 ## See Also
 
-- [[guaiol]]
 - [[nerolidol]]
-- [[bisabolol]]
 - [[humulene]]
-- [[linalool]]
 - [[terpinolene]]
-- [[myrcene]]
 - [[beta-caryophyllene]]
-- [[ocimene]]
 - [[camphene]]

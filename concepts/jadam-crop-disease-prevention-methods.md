@@ -120,19 +120,11 @@ Adequate spacing ensures good air circulation and sun exposure, both of which re
 
 ## Related
 
-- [[jadam-fungal-disease-management]]
 - [[jadam-pesticide-for-fungal-diseases]]
-- [[jadam-pesticide-for-powdery-mildew]]
 - [[jadam-canker-leaf-spot-pesticide]]
-- [[jadam-sulfur-germicide-js]]
 - [[jadam-jms-pesticide]]
-- [[jadam-microorganism-solution-jms]]
 - [[jadam-natural-pesticide-programs]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[jadam-canker-leaf-spot-pesticide]]
 - [[jadam-cover-crop-soil-temperature-management]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[jadam-natural-pesticide-philosophy]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[jadam-pesticide-for-fungal-diseases]]

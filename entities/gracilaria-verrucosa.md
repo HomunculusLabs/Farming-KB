@@ -106,15 +106,9 @@ G. verrucosa is part of a species complex including *G. gracilis* and *G. dura*.
 
 ## See Also
 
-- [[chondrus-crispus]]
 - [[kappaphycus-alvarezii]]
-- [[ulva-lactuca]]
 - [[porphyra-umbilicalis]]
-- [[laminaria-digitata]]
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[saccharina-latissima]]
-- [[fucus-vesiculosus]]
 - [[monostroma-nitidum]]
-- [[eucheuma-denticulatum]]
 - [[taurine]]

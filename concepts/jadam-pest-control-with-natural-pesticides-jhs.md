@@ -20,35 +20,7 @@ JADAM natural pesticides (JNP) are homemade, ultra-low-cost alternatives to comm
 JHS is made by boiling plants with insect-repelling properties in water. It controls a wider range of insects than JWA and JS alone, including cabbage white butterfly caterpillars, tobacco moth, beet armyworm, stinkbug, and thrips.
 
 ### Strength Hierarchy
-1. **Jerusalem artichoke** -- basic pesticide (weakest)
-2. **Gingko** -- stronger JHS
-3. **Korean pasque flower root (KPFR)** -- strongest JHS
-
-### Recipe (Boiling Method)
-
-**Fresh plant:**
-- 1 kg (2.2 lb) fresh plant + 4 L (1 gal) water in pressure pot (5 L / 1.3 gal in ordinary pot)
-- Cut fresh plant into pieces; put in mesh bag with rock (to sink it)
-
-**Dried plant:**
-- 1 kg (2.2 lb) dried plant + 20 L (5.3 gal) water in pressure pot (25 L / 6.6 gal in ordinary pot)
-
-**Procedure:**
-1. Cut plant into pieces; place in mesh bag with rock
-2. Put bag in pot with water (must be soft water)
-3. Boil 4 hours in pressure pot (5 hrs in ordinary pot)
-4. High heat first to boil, then lower to medium and maintain
-5. Yield: ~70% of the water volume added
-6. After finishing, drip the bag to extract remaining water
-7. Filter before use; do not use sediments
-
-**Storage:**
-- Pour solution while still boiling into heat-resistant bottles until completely full
-- Close lid tightly; lay on side for long storage
-- Keep in cool, dark place; cold storage also works
-- The whole bottle is sterilized by heat
-- Smaller bottles are easier to store and use
-- If bottle inflates during storage, [[sterilization]] failed -- microbes are feeding on JHS
+1. **[[sterilization]] failed -- microbes are feeding on JHS
 - Once opened, use within 1-2 days
 - After autumn harvest, prepare JWA, JS, and various JHS for next year
 
@@ -144,6 +116,5 @@ Effective against soil nematodes, verticillium wilt, virus diseases:
 ### Mixing Rules
 - Do not mix JWA and JS together directly (they will clot) -- always add separately to water
 
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 - [[jadam-natural-pest-control-methods]]

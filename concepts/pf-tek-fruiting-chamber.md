@@ -134,8 +134,6 @@ An anonymous internet technique that works well with the dual chambered terrariu
 
 ## See Also
 
-- [[pf-tek-dual-chamber-terrarium-fruiting-conditions]]
-
 - [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest
 - [[mushroom-harvesting-potency]] -- Harvest timing and potency optimization
 - [[psilocybin-fruiting-chambers]] -- Broader chamber comparison

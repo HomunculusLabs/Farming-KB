@@ -141,10 +141,11 @@ Check the following every week to ensure a successful crop:
   bulb
 - Always examine plants under magnification to check harvest readiness
 - A well-maintained calendar prevents most problems before they start
+## See Also
+
+- [[cervantes-flowering-phase]]
+- [[cervantes-harvest-timing-trichome-ripeness]]
 
 ## See Also
 
-- [[cervantes-vegetative-phase]]
-- [[cervantes-flowering-phase]]
-- [[cannabis-advanced-growing-techniques]]
-- [[cervantes-harvest-timing-trichome-ripeness]]
+- [[gaias-garden-forest-garden-installation-phased-design]]

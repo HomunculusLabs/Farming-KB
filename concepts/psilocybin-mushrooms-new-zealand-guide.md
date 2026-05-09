@@ -24,34 +24,10 @@ among those interested in psychedelic drugs was that "magic mushrooms" were an
 Australian phenomenon, and that the only mushrooms of this nature found in NZ
 had arrived via the post. All analyses performed by the Department of
 Scientific and Industrial Research (DSIR) for the police at that time were
-upon [[psychedelic-mushrooms-species-and-identification]] which had been intercepted in the incoming mail.
-
-Not until the early 1980s did a more general awareness appear within the
-psychedelic drug-using subculture that psilocybin-containing mushrooms could
-be found in both islands of NZ.
-
-## Discovery and Spread of Knowledge
-
-It is likely that persons experienced with the Australian situation recognized
-[[panaeolus-cyanescens-bali-omelette]] and Psilocybe tasmaniana growing in the New Plymouth
+upon [[panaeolus-cyanescens-bali-omelette]] and Psilocybe tasmaniana growing in the New Plymouth
 sand dunes, particularly at Khomenii Beach, which is popular with surfers. At
 about the same time, a botanist from the United Kingdom recognized
-[[psychedelic-mushrooms-species-and-identification]] ("liberty cap") growing on the Otago Peninsula,
-near the city of Dunedin in the South Island. The botanist informed a circle
-of friends with an interest in psychedelics, and the knowledge spread rapidly
-by word of mouth.
-
-By 1982, articles with titles such as "Magic Mushroom Danger Warning" began
-appearing in the NZ press, and occasional reports of prosecutions appeared. As
-in Australia, media reports were usually quite inaccurate in describing the
-effects of the mushrooms while giving precise instructions as to where they
-could be found.
-
-## Species Found in New Zealand
-
-### North Island Species
-
-- [[panaeolus-cyanescens-bali-omelette]] ("blue meanies") -- predominates in the New
+[[panaeolus-cyanescens-bali-omelette]] ("blue meanies") -- predominates in the New
   Plymouth region; found on the west coast near Auckland (Whatipu Beach) and
   Wellington (Otaki and Foxton); appears in autumn under lupine bushes in
   coastal paddocks
@@ -75,21 +51,7 @@ could be found.
 
 ### South Island Species
 
-- [[psychedelic-mushrooms-species-and-identification]] ("liberty cap") -- predominates in the lower
-  South Island, particularly the Otago area and Dunedin city; appears largely
-  confined to south of Cook Island in high-altitude grasslands at Mt. Cook,
-  Otago Lakes, and near Queenstown; used recreationally since the early 1980s
-
-- Psilocybe makarorae -- found at Otago Lakes (Haast Pass, Makarora, Blue
-  Pools Track) on rotten Nothofagus wood; also at Bay of Plenty near Rotorua,
-  Westland (Franz Josef Glacier), and Dunedin
-
-- Psilocybe subaeruginosa -- documented from multiple South Island locations
-
-## Indigenous vs. Introduced Species
-
-NZ is an isolated country with a prolific native flora. While the importation
-of cattle may have been responsible for introducing [[panaeolus-cyanescens-bali-omelette]]
+- [[panaeolus-cyanescens-bali-omelette]]
 to NZ, there are at least five indigenous species, four of which have yet to
 be described in detail and named (Johnston and Buchanan, 1988). The fifth is
 Psilocybe novo zealandiae, characterized by Guzman (1983), found primarily in
@@ -135,6 +97,5 @@ situation.
 
 ## See Also
 
-- [[copelandia-cyanescens-australia-nz]] -- the "blue meanie" species
 - [[cattle-dispersal-psychoactive-fungi-australia]] -- introduction mechanisms
 - [[psilocybin-dosage-guidelines-australian-species]] -- dosage information

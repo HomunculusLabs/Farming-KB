@@ -99,15 +99,9 @@ Seed is readily available from cover crop suppliers and pollinator seed mix vend
 
 ## See Also
 
-- [[borago-officinalis]]
-- [[foeniculum-vulgare]]
-- [[tagetes-erecta-entity]]
+- [[foeniculum-vulgare-entity]]
 - [[tropaeolum-majus]]
-- [[fagopyrum-esculentum]]
 - [[trifolium-pratense]]
-- [[vicia-villosa]]
-- [[achillea-millefolium]]
 - [[calendula-officinalis]]
-- [[dynamic-accumulators]]
 - [[companion-planting]]
 - [[cover-crop-multifunction-design]]

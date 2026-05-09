@@ -133,13 +133,8 @@ value yield crop with minimal maintenance requirements once established.
 
 ## See Also
 
-- [[xerocomellus-chrysenteron]]
-
 - [[boletus-edulis-entity]]
-- [[boletus-reticulatus]]
 - [[boletus-regius]]
-- [[tylopilus-felleus]]
 - [[leccinum-scabrum]]
-- [[suillus-brevipes]]
 - [[russula-cyanoxantha]]
 - [[agaricus-subrufescens]]

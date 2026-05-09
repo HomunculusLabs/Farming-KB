@@ -3,18 +3,7 @@ title: Mollison on Dry Distillation and Bioenergy
 created: 2026-04-18
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Dry Distillation and Bioenergy
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet X (Forests in Permaculture), 1981
-
-## Overview
-
-Mollison describes a dry distillation system for converting wood into multiple useful products simultaneously -- charcoal, methane, methanol, creosote, and heat. This extends [[appropriate-technology]] with a specific integrated bioenergy design. The system exemplifies the permaculture principle of obtaining multiple yields from a single element, turning waste wood into a suite of valuable products with zero waste.
+tags: [[appropriate-technology]] with a specific integrated bioenergy design. The system exemplifies the permaculture principle of obtaining multiple yields from a single element, turning waste wood into a suite of valuable products with zero waste.
 
 ## Dry Distillation System Design
 
@@ -70,15 +59,7 @@ Mollison describes a dry distillation system for converting wood into multiple u
 
 ## Design Principles and Permaculture Integration
 
-The dry distillation system embodies several core [[permaculture-design-principles]] that make it a model of integrated design thinking.
-
-- **Multiple functions, single element:** A single wood feedstock produces five distinct useful outputs (methane, creosote, methanol, charcoal, heat). This multi-yield approach is the hallmark of permaculture energy design.
-
-- **Energy cascading:** The heat from the distillation process is captured and used for space heating and water heating, meaning no energy is wasted. Each stage of the process feeds the next, creating an energy cascade from hot to warm to cool outputs.
-
-- **Closed-loop systems:** The methane produced powers the pumps that move the gas, creating a self-powered system. Only 4% of the methane output is needed to run the compression and pumping equipment.
-
-- **Zone placement:** Mollison suggests placing the distillation unit beneath or adjacent to the house, integrating energy production with [[permaculture-zones-system]] 1 and 2. The hot mass from the unit doubles as a heating system, placing energy production in the most intensively used zone.
+The dry distillation system embodies several core [[permaculture-zones-system]] 1 and 2. The hot mass from the unit doubles as a heating system, placing energy production in the most intensively used zone.
 
 - **Waste as resource:** Tree trimmings, damaged wood, and forest management byproducts that would otherwise be burned in open piles or left as fire hazards become the feedstock for the distillation system. This converts a liability (fire hazard) into a suite of assets.
 
@@ -90,15 +71,7 @@ The dry distillation system embodies several core [[permaculture-design-principl
 
 - **Wood gasification during wartime:** During World War II, millions of vehicles in Europe were converted to run on wood gas (producer gas), demonstrating that biomass-derived fuels can power internal combustion engines at practical scales.
 
-- **Modern biochar movement:** The charcoal produced by dry distillation is essentially biochar, which when added to soil provides long-term carbon sequestration, improved water retention, and enhanced microbial habitat -- connecting energy production to [[biochar-soil-remediation]] and agricultural productivity.
-
-## Scaling Considerations
-
-- **Household scale:** A single family unit could be served by a small brick distillation unit processing forest trimmings and waste wood from a 1-2 hectare managed woodlot. This scale provides cooking gas, water heating, space heating, and some motor fuel.
-
-- **Community scale:** A larger unit serving 5-10 families could process timber from a shared forest and produce enough methanol to run a community tractor or generator, plus surplus charcoal for sale as biochar.
-
-- **Village scale:** At the scale of the Werribee sewage system (serving thousands), biomass distillation could be integrated with [[mollison-sewage-biogas-systems]] for comprehensive community energy and waste management.
+- **Modern biochar movement:** The charcoal produced by dry distillation is essentially biochar, which when added to soil provides long-term carbon sequestration, improved water retention, and enhanced microbial habitat -- connecting energy production to [[mollison-sewage-biogas-systems]] for comprehensive community energy and waste management.
 
 ## Practical Implementation Notes
 
@@ -112,14 +85,8 @@ The dry distillation system embodies several core [[permaculture-design-principl
 
 ## Related Pages
 
-- [[appropriate-technology]]
-
 - [[mollison-sewage-biogas-systems]]
 
-- [[biogas-digester-basics]]
-
 - [[timothy-leary]]
-
-- [[mollison-forest-water-climate]]
 
 - [[permaculture-earthworks]]

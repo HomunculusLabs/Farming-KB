@@ -80,52 +80,15 @@ Cannabis plants are classified by their cannabinoid profile:
 - Most modern strains are hybrids (crosses of sativa × indica)
 - "Indica" and "sativa" on dispensary labels often don't reflect actual genetics
 - The sativa/indica distinction is more about chemotype and growth pattern than strict taxonomy
-- See [[cannabis-landrace-and-heirloom-varieties]] for pure varieties
-
-## Breeding Fundamentals
-
-### Selection
-- Choose parent plants with desired traits (high yield, potency, flavor, disease resistance)
-- Select from a large population (more genetic variation = more selection potential)
-- Evaluate over multiple generations (environmental variation can mask genetic potential)
-
-### Inbreeding
-- Crossing related plants to fix desirable traits
-- Creates homozygous lines (true-breeding)
-- Inbreeding depression: reduced vigor, yield, and fertility after 3-5 generations
-- Common in cannabis breeding (IBL — Inbred Lines)
-
-### Hybrid Vigor (Heterosis)
-- Cross of two inbred lines produces offspring that outperform both parents
-- Increased vigor, yield, and uniformity
-- Basis of modern commercial seed production (F1 hybrids)
-- F2 generation (selfed F1) shows segregation — variation increases, vigor decreases
-
-### Backcrossing
-- Crossing offspring back to one of the parent plants
-- Used to introduce a specific trait into an existing strain while preserving most of its characteristics
-- Example: adding purple color to a high-yielding strain without changing its yield or potency
-
-## Terpene Genetics
-- Terpene production is genetically determined but environmentally influenced
-- Multiple genes control terpene synthesis (polygenic)
-- Terpene profiles can be selectively bred (e.g., limonene-heavy citrus strains)
 - See [[cannabis-terpene-profile]] for terpene details
 
 ## Related
 
-- [[liquid-gelato]]
-
 - [[gelonade]]
 
-- [[g13]]
-
 - [[cannabis-phenotype-selection]]
-- [[cannabis-genetics-and-breeding]] — for breeding techniques
 - [[cannabis-landrace-and-heirloom-varieties]] — for pure varieties
-- [[cannabis-plant-anatomy]] — for plant structure
 - [[cannabis-thc-therapeutic-profile]] — for THC details
-- [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 
 ## See Also

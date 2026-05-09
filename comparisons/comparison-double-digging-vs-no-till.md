@@ -23,31 +23,6 @@ and cycle nutrients.
 
 ## Double Digging
 
-[[solomon-double-digging]]
-
-Double digging is a manual bed preparation technique that involves systematically
-loosening soil to a depth of roughly 12 inches using a shovel or fork. Steve Solomon
-advocates this approach over mechanical rototilling because tillers only loosen about
-five to seven inches of soil and create a compacted plow pan at their maximum depth.
-This plow pan acts as a barrier to root penetration, restricting plants to a shallow
-layer. Solomon's process involves an initial pass to turn sod, a second pass a week
-later to break up remaining grass and blend amendments, and a third pass to produce
-fine, crumbly soil.
-
-The technique is most critical when breaking new ground. Once beds are established,
-maintenance digging becomes far less demanding -- Solomon estimates only about 30
-minutes of moderate effort per 100 square feet to restore a bed for replanting.
-Importantly, Solomon disagrees with the intensive gardening orthodoxy that all beds
-must be dug to 24 inches; he argues that 12 inches is sufficient for most purposes,
-with deeper loosening happening naturally over time through earthworm activity and
-nutrient leaching (a process called flocculation).
-
-Autumn digging is preferred over spring because the soil has all winter to settle,
-amendments begin integrating, and weed seeds that sprout are killed when the bed is
-reworked in spring.
-
-## No-Till Gardening
-
 [[teaming-with-microbes-no-till-benefits]]
 
 No-till gardening avoids all soil disturbance, instead relying on the soil food web to
@@ -124,11 +99,7 @@ ongoing disturbance or ensuring that amendments compensate for it.
 
 ## See Also
 
-- [[solomon-double-digging]] -- Detailed double-digging technique and rationale
 - [[teaming-with-microbes-no-till-benefits]] -- No-till benefits and soil food web science
-- [[teaming-with-microbes-tilling-damage-to-fungal-networks]] -- How tilling damages fungi
 - [[soil-food-web]] -- The biological foundation of no-till gardening
-- [[comparison-sheet-mulching-vs-double-digging]] -- Related comparison
 - [[solomon-raised-beds]] -- Bed formation after digging
-- [[teaming-with-microbes-cover-crops-soil-health]] -- Cover crops in no-till systems
 - [[williams-pdc-digging-a-hole]]

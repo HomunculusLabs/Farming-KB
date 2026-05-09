@@ -115,9 +115,6 @@ The species is a candidate for **carbon farming** initiatives due to its woody g
 
 ## See Also
 
-- [[moringa-oleifera]]
 - [[terminalia-chebula]]
-- [[terminalia-catappa]]
 - [[curcuma-longa]]
-- [[berberine]]
 - [[ursolic-acid]]

@@ -23,7 +23,7 @@ Yeast is a microorganism that plays a critical role in the final stage of fermen
 
 Yeast performs several essential biological functions that make it valuable in natural farming:
 
-1. **Fermentation completion** — Yeast handles the last step of fermentation, converting sugars into alcohol and carbon dioxide. This is essential in producing inputs like [[cho-brown-rice-vinegar-preparation]] and [[master-cho-knf-ffj-fermented-fruit-juice-guide]].
+1. **Fermentation completion** — Yeast handles the last step of fermentation, converting sugars into alcohol and carbon dioxide. This is essential in producing inputs like [[master-cho-knf-ffj-fermented-fruit-juice-guide]].
 
 2. **Metabolic enhancement** — Yeast expands capillary vessels and enhances overall metabolic activity in plants and animals.
 
@@ -61,15 +61,7 @@ The following protocols ensure successful yeast cultivation:
 
 ### Harvesting
 
-After approximately 7 days, the yeast culture is ready. The liquid is strained and can be used directly as a plant spray (diluted) or added to livestock feed. For longer storage, the yeast can be preserved with [[bionutrients-lab-lactic-acid-bacteria-serum]] to stabilize the culture.
-
-## Application Methods
-
-### For Crops
-
-- **Foliar spray** — Dilute yeast solution 1:500 with water and spray on leaves during the vegetative growth phase. This strengthens plant metabolism and improves resistance to environmental stress.
-
-- **Soil drench** — Apply diluted yeast to the root zone to enhance microbial activity and nutrient cycling in the [[cho-indigenous-microorganisms-collection-and-cultivation]]-treated soil.
+After approximately 7 days, the yeast culture is ready. The liquid is strained and can be used directly as a plant spray (diluted) or added to livestock feed. For longer storage, the yeast can be preserved with [[cho-indigenous-microorganisms-collection-and-cultivation]]-treated soil.
 
 - **Recovery agent** — For stressed or diseased plants, increase concentration to 1:200 and apply as both foliar spray and soil drench for 3-5 consecutive days.
 
@@ -85,19 +77,9 @@ After approximately 7 days, the yeast culture is ready. The liquid is strained a
 
 Yeast occupies a specific position in the KNF fermentation hierarchy:
 
-- [[cho-indigenous-microorganisms-collection-and-cultivation]] provides the broad microbial foundation.
-
 - [[bionutrients-lab-lactic-acid-bacteria-serum]] provides lactic acid bacteria for anaerobic fermentation and disease suppression.
 
 - **Yeast** handles the final aerobic fermentation stage, converting sugars to alcohol and CO2.
-
-- [[cho-brown-rice-vinegar-preparation]] results from the subsequent acetification of yeast-produced alcohol by acetic acid bacteria.
-
-Understanding this sequence helps farmers manage the timing and conditions of each fermentation process. Yeast can also be collected from Makgeolli (Korean rice wine) fermentation after 2-3 days and cultured separately, making efficient use of all by-products in the BRV production chain.
-
-## See Also
-
-- [[knf-yeast-preparation-detailed]]
 
 - [[knf-yeast-preparation-detailed]]
 

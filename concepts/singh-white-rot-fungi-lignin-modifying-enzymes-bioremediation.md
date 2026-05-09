@@ -135,12 +135,8 @@ the target molecule simultaneously:
 
 ## See Also
 
-- [[singh-chromium-bioremediation-fungi]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-fungal-laccase-enzymes-bioremediation]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[singh-protein-pharmaceutical-wastewater-fungal-bioremediation]]
-
 - [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 - basidiomycete fungi petroleum hydrocarbon cleanup
 - fungal enzyme systems environmental applications

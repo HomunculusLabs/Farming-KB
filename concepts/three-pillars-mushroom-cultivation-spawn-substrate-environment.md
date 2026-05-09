@@ -3,7 +3,7 @@ title: Three Pillars of Mushroom Cultivation - Spawn, Substrate, Environment
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [mushroom-cultivation, spawn, substrate, environment,
+tags: [[mushroom-cultivation, spawn, substrate, environment,
        pleurotus, fundamentals, growing-factors]
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
@@ -117,8 +117,6 @@ substrate nutrition, and environmental triggering remains constant.
 
 ## See Also
 
-- [[spawn-production]]
 - [[substrate-preparation]]
-- [[environmental-control-mushroom-growing]]
 - [[biological-efficiency-mushroom-cultivation]]
 - [[fruiting-conditions-mushroom-cultivation]]

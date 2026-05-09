@@ -29,46 +29,7 @@ sources:
 ## Overview
 
 Penis Envy is a highly distinctive and exceptionally potent strain of
-[[psilocybe-cubensis]], one of the most widely cultivated psilocybin-
-containing mushrooms. Named for its unmistakable morphology — a dense,
-bulbous, phallus-shaped fruiting body with a thick, partially closed
-cap that rarely fully expands — Penis Envy has achieved legendary status
-among cultivators and psychonauts for both its unusual appearance and
-its significantly elevated tryptamine content compared to typical P.
-cubensis strains. It is widely regarded as one of the strongest P.
-cubensis strains available, with anecdotal reports and limited analytical
-data suggesting total tryptamine concentrations 1.5–3× higher than
-standard varieties like Golden Teacher or B+.
-
-## Origin and History
-
-The strain's origin traces back to legendary ethnobotanist Terence
-McKenna. According to widely circulated accounts within the cultivation
-community, McKenna collected a particularly large and potent Psilocybe
-cubensis specimen from the Amazon region of Colombia during his
-ethnobotanical expeditions in the 1970s. He brought spore prints back
-to the United States and distributed them to fellow mycologists. Over
-decades of selective cultivation, a natural genetic mutation produced
-the unique morphology that defines the Penis Envy lineage. The exact
-provenance remains partly anecdotal, but the strain's connection to
-McKenna is universally acknowledged in the community. The original
-Penis Envy has since given rise to numerous sub-variants and crosses.
-
-## Morphology
-
-Penis Envy is immediately recognizable and difficult to confuse with
-other P. cubensis strains once the cultivator is familiar with it:
-
-- **Stipe (stem):** Exceptionally thick and dense relative to cap size,
-  often appearing disproportionately large. The stem is meaty, sometimes
-  twisted or irregular, and bruises a deep blue-green when handled due
-  to high psilocin/psilocybin content.
-- **Pileus (cap):** Small to medium, bulbous, hemispherical, and often
-  retains a partial or nearly intact veil even at maturity. The cap
-  rarely flattens fully, unlike most P. cubensis strains. Color ranges
-  from golden-brown to caramel, often darker at the center.
-- **Gills:** Dense, adnate to adnexed, gray when immature darkening to
-  near-black with spore maturity. [[spore-print]] is dark purplish-brown.
+[[spore-print]] is dark purplish-brown.
 - **Veil:** Persistent; the partial veil often remains attached as a
   thick, membranous layer connecting cap to stem well past the point
   where other strains would have torn away.
@@ -124,9 +85,7 @@ cultivate, requiring patience and careful environmental management:
   (2–4 weeks vs. 10–14 days for typical strains). The dense mycelium
   is more contamination-sensitive during extended colonization.
 - **Fruiting triggers:** Benefits from strong cold shock and high
-  hu [[fruiting-initiation]] itiation can be erratic with long pinning
-  times and sometimes uneven flushes.
-- **Yie [[biological-efficiency]] l efficiency than fast-growing strains,
+  hu [[biological-efficiency]] l efficiency than fast-growing strains,
   but elevated potency compensates for reduced mass per flush.
 - **Substrates:** Standard P. cubensis substrates — brown rice flour,
   rye grain, supplemented hardwood sawdust or coco coir in monotubs.
@@ -141,7 +100,6 @@ fruiting bodies are illegal to cultivate, possess, or distribute in
 most jurisdictions. Spores, which do not contain psychoactive compounds,
 occupy a legal gray area and are sold for microscopy purposes in
 numerous countries and several US states.
-
 ## See Also
 
 - [[psilocybe-cubensis-cultivation]]

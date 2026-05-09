@@ -3,28 +3,7 @@ title: Permaculture Seed Saving
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources: []
----
-
-# Permaculture Seed Saving
-
-Seed saving in permaculture is both a practical skill and a political act. It ensures crop adaptation to local conditions, reduces dependence on commercial seed suppliers, and preserves genetic diversity for future food security. Permaculture seed saving emphasizes open-pollinated varieties, regional adaptation, and community-level seed sovereignty.
-
-## Open-Pollinated Varieties
-
-### What Are Open-Pollinated Seeds
-- Seeds that breed true to type when saved and replanted
-- Pollinated by insects, wind, or natural mechanisms (not controlled hybridization)
-- Genetic diversity within the variety provides resilience
-- Contrast with F1 hybrids, which do not breed true in subsequent generations
-
-### Why Open-Pollinated Matters
-- True-to-type reproduction enables multi-generational seed saving
-- Genetic diversity within OP populations allows natural selection to work
-- OP varieties can be selectively bred for local adaptation over time
-- No dependency on seed companies for each planting season
-- Essential for [[home-garden-seed-saving]] programs
+tags: [[home-garden-seed-saving]] programs
 
 ### Identifying OP vs Hybrid
 - Seed catalogs should clearly label OP and F1 hybrid varieties
@@ -132,13 +111,7 @@ Community seed banks are shared repositories of locally adapted seeds:
 
 ## Connections
 
-Seed saving deepens the [[permaculture-design-principles]] ethic of producing no waste and caring for future generations. The genetics and adaptation principles relate to [[cannabis-phenotype-and-genotype-guide]] concepts of selecting for desired traits. Practical seed saving techniques overlap with [[home-garden-seed-saving]] methods for the home garden.
-
-## Related
-
-- [[seed-starting-reference]]
-- [[fukuoka-seeds-in-the-dirt]]
+Seed saving deepens the [[cannabis-phenotype-and-genotype-guide]] concepts of selecting for desired traits. Practical seed saving techniques overlap with [[seed-starting-reference]]
 - [[permaculture-mandala-garden-design]]
 - permaculture seed saving
-- [[carrot-growing-guide]]
 - [[david-holmgren]]

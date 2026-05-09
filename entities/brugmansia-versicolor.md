@@ -124,13 +124,7 @@ In Ecuador, the species can be observed in its native habitat in protected areas
 
 ## See Also
 
-- [[turkey-tail-trametes-versicolor]]
 - [[brugmansia-aurea]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
-
 - [[brugmansia-aurea]]
-- [[brugmansia-sanguinea]]
 - [[datura-stramonium]]
-- [[datura-wrightii]]
-- Scopolamine
 - [[trichocereus-pachanoi]]

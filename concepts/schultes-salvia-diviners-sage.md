@@ -14,108 +14,7 @@ sources:
 type: concept
 ---
 
-# [[salvia-divinorum]] and the Diviner's Sage
-
-Salvia divinorum, known to the Mazatec Indians of Oaxaca, Mexico, as
-Hierba de la Pastora ("herb of the shepherdess") or Hierba de la
-Virgen ("herb of the Virgin"), is one of the rarest of psychoactive
-plants. Closely associated with the Indian mushroom cults, this mint
-family (Labiatae) plant is used by Mazatec shamans in rituals of
-divination and healing, generally as a substitute for the otherwise
-preferred psychoactive mushrooms when they are unavailable.
-
-## Botanical Description
-
-Salvia divinorum is a perennial herb three feet (1 m) tall or more,
-with ovate leaves up to six inches (15 cm) that are finely dentate
-along the margin. The bluish flowers, borne in panicles up to sixteen
-inches (41 cm) in length, are approximately one-quarter inch (15 mm)
-long. The plant is native to the Mazatec areas of the Sierra Madre
-Oriental in the Mexican state of Oaxaca. It grows naturally in tropical
-rain forests at altitudes of three hundred to eighteen hundred meters.
-Because of its limited geographic habitat, it belongs to the rarest of
-psychoactive plants.
-
-The Mazatecs cultivate Salvia divinorum in plots hidden away in forests
-far from homes and roads, reflecting the secrecy that has surrounded
-indigenous psychoactive plant use since the Spanish conquest. The plant
-reproduces primarily through cuttings, as it rarely produces viable
-seeds in cultivation.
-
-## Mazatec Ritual Use
-
-The male or female shamans of the Mazatecs use Salvia divinorum in
-rituals associated with divination or healing. Maria Sabina remarked:
-"When I am in the time that there are no mushrooms and want to heal
-someone who is sick, then I must fall back on the leaves of pastora.
-When you grind them up and eat them, they work just like the ninos.
-But, of course, pastora has nowhere near as much power as the
-mushrooms."
-
-The ritual use is remarkably similar to the use of mushrooms. Salvia
-rituals take place at night in complete darkness and stillness. Before
-the shaman chews and sucks on the leaves, they are held over burning
-Copal incense, and prayers are said to consecrate them. After chewing,
-the participants lie down and remain as still and silent as possible.
-Salvia rituals last barely longer than one to two hours, as the effects
-of the leaves last a significantly shorter time than those of mushrooms.
-
-## Preparation Methods
-
-The Mazatecs take thirteen pairs of fresh leaves (twenty-six leaves
-altogether) and twist them into a kind of cigar or chaw, which is put
-into the mouth and sucked or chewed. The juice is not swallowed, but
-the active ingredients are absorbed through the mucous membranes in the
-side of the mouth. Effects begin in approximately ten minutes and last
-about forty-five minutes. The dried leaves can also be smoked, with
-half of a fairly large leaf inducing a strong psychoactive reaction.
-
-## Chemistry: Salvinorin A
-
-The leaves contain neocerodan-diterpenes salvinorin A and salvinorin B
-(also known as divinorin A and divinorin B), as well as two other
-similar substances. The main ingredient is salvinorin A (chemical
-formula: C23H28O8), which has extreme consciousness-altering effects
-with amounts as small as 150-500 micrograms. Salvinorin is not an
-alkaloid, making it unique among major hallucinogenic compounds. The
-neurochemistry of salvinorin is still an unsolved puzzle.
-
-Most people who have experienced Salvia divinorum report very bizarre,
-unusual psychoactive effects not comparable with euphoric or
-psychedelic substances. There is often perceived to be a "bending" of
-space, and feelings of swaying or out-of-body experiences are typical.
-These effects are remarkably intense for their brief duration,
-distinguishing salvinorin A from other naturally occurring
-hallucinogens. The compound's mechanism of action, involving kappa
-opioid receptors rather than serotonin receptors, sets it apart from
-the classical psychedelics and represents a novel pharmacological
-pathway for consciousness alteration.
-
-## The Mystery of Pipiltzintzintli
-
-It has been suggested that the narcotic Pipiltzintzintli of the
-ancient Aztecs was Salvia divinorum, but this identification remains
-uncertain. In the National Archives in Mexico City, Inquisition files
-from the years 1696, 1698, and 1706 mention Pipiltzintzin and hint at
-its intoxicating effects. Various authors have taken this to be Salvia
-divinorum, though definitive proof is lacking.
-
-## Coleus: The Mazatec Taxonomic Relatives
-
-In the traditional taxonomy of the Mazatecs, Salvia divinorum is
-related to two forms of labiates. Salvia is known as the "mother" (la
-hembra). Coleus pumilus is considered the "father" (el macho), and
-Coleus blumei is known as el nene (the child) and el ahijado (the
-godchild). Recently, salvinorin-like substances (diterpenes) were
-discovered in Coleus, though their chemistry requires further study.
-This Mazatec classification system reveals an indigenous understanding
-of pharmacological relationships that parallels modern phytochemical
-grouping, suggesting centuries of empirical observation by Mazatec
-healers.
-
-## Modern Scientific and Legal Status
-
-[[salvia-divinorum-and-salvinorin-a]] have attracted significant attention
+# [[salvia-divinorum-and-salvinorin-a]] have attracted significant attention
 from the scientific community since the early 2000s. Researchers have
 investigated its potential as a treatment for depression, anxiety, and
 substance use disorders, given its unique kappa opioid receptor
@@ -128,9 +27,83 @@ substance while others permit its cultivation and use.
 
 ## See Also
 
-- [[schultes-psilocybe-little-flowers-gods]] for the sacred mushrooms
-  that Salvia divinorum substitutes in Mazatec practice
-- [[schultes-ololiuqui-vines-serpent]] for [[ololiuqui]] seeds also used
-  in Mazatec divinatory ceremonies
-- [[schultes-peyote-tracks-little-deer]] for another Mexican sacred
+- [[schultes-ololiuqui-vines-serpent]] for [[schultes-peyote-tracks-little-deer]] for another Mexican sacred
   plant with deep indigenous ceremonial importance
+## Practical Applications
+
+Salvia Divinorum and the Diviner's Sage has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Salvia Divinorum and the Diviner's Sage. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

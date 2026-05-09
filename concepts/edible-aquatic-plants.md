@@ -9,7 +9,7 @@ sources:
 ---
 # Edible Aquatic Plants for Permaculture
 
-Water plants provide direct food for humans, fish, and other aquatic animals, and oxygenate water. No aquatic system is complete without a diverse range of plants. They fall into four categories: submerged, floating-leaved, emergent, and margin plants. Aquatic systems align with [[holzer-tamera-water-landscape-project]] and [[hugelkultur-bed-construction-detailed]].
+Water plants provide direct food for humans, fish, and other aquatic animals, and oxygenate water. No aquatic system is complete without a diverse range of plants. They fall into four categories: submerged, floating-leaved, emergent, and margin plants. Aquatic systems align with [[hugelkultur-bed-construction-detailed]].
 
 ## Submerged Plants
 
@@ -112,19 +112,8 @@ Margin plants do not grow in water but derive extra moisture from moist soils at
 - Design ponds with graduated depths: shallow margins for emergents, deeper zones for floating-leaved species
 - Use Azolla as a living nitrogen source in rice paddies and aquaculture systems
 - Duckweed removes excess nutrients and provides high-protein animal feed
-- Water plants support [[faires-livestock-integration-systems]] by feeding waterfowl and fish
-- Arrange shallows in ponds to dedicate large areas to emergent plants
-- Rotate aquatic crops (rice, water chestnut, taro) for soil health and pest management
-- Introduce plankton from established systems to kickstart aquatic food webs
-- Use Typha and Phragmites for water filtration and bank stabilisation around permaculture-earthworks|earthworks
-- See also [[permaculture-plant-selection]] for complete species listings and [[organic-vegetable-growing-and-market-gardening]] species for waterlogged conditions
-
-## Related
-
-- [[permaculture-plant-selection]]
-- [[aquatic-plants-and-pond-ecosystems]]
-- [[holzer-livestock-integration]]
-- [[organic-vegetable-growing-and-market-gardening]]
-- [[hugelkultur-bed-construction-detailed]]
+- Water plants support [[permaculture-plant-selection]] for complete species listings and [[permaculture-plant-selection]]
+- aquatic plants and pond ecosystems
+- [[organic-vegetable-growing-calendar]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[permaculture-salt-tolerant-fodder-plants]]

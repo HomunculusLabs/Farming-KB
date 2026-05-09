@@ -89,8 +89,6 @@ Vogel noted that American Indians "were keenly aware of these faculties. When in
 
 ## See Also
 
-- [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-perception]]
 - [[photosynthesis-and-chloroplast-function]]
 - [[bacterial-endophytes-plant-roots]]

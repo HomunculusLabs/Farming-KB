@@ -99,24 +99,15 @@ Outdoor cultivation is possible in Mediterranean climates with a harvest window 
 
 ## See Also
 
-- [[girl-scout-cookies]]
-- [[gelato-cannabis]]
 - [[gelato-cannabis]]
 - [[thin-mint]]
-- [[runtz-entity]]
 - [[animal-cookies]]
-- [[jealousy]]
 - [[white-runtz]]
-- [[larry-og]]
 - [[sfv-og]]
-- [[mac-1]]
 - [[biscotti-cannabis]]
-- [[do-si-dos-entity]]
 - [[wedding-cake-cannabis]]
 - stuffed og
 - cake wreck
-- [[slurricane]]
 - [[georgia-pie]]
-- [[jungle-cake]]
-- [[tahoe-og]]
+- jungle-cake
 - [[khalifa-kush]]

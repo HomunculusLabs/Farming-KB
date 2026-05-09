@@ -124,19 +124,12 @@ outside this group. The species has a highly heterozygous genome that
 has complicated genomic analyses.
 
 ## See Also
-Related: [[candida-albicans-molecular-epidemiology]], [[gadd-fungal-biofilms-quorum-sensing]], [[fungal-quorum-sensing-autoregulation]]
-
-- [[fungal-infections-human]]
-
-- [[blesching-cannabis-fungal-infections-candida]]
+Related: [[gadd-fungal-biofilms-quorum-sensing]], [[fungal-infections-human]]
 
 - [[candida-albicans-molecular-epidemiology]]
 
 - saccharomyces cerevisiae
-- [[aspergillus-fumigatus]]
 - [[cryptococcus-neoformans]]
-- [[neurospora-crassa]]
 - [[inula-helenium]]
-- [[pycnoporus-cinnabarinus]]
 - [[monarda-didyma]]
 - [[guaiol]]

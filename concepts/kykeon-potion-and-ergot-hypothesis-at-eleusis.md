@@ -87,12 +87,7 @@ In the fifth century BC, a scandal erupted when aristocratic Athenians were disc
 
 ## Related Topics
 
-- [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
-
 - [[the-road-to-eleusis-wasson-hofmann-ruck]] -- the full collaborative argument
-- [[lsd-discovery-and-history]] -- Hofmann's laboratory work on ergot
 - [[ergot-and-lysergic-acid-history]] -- broader history of ergot alkaloids
-- [[demeter-and-persephone-in-eleusinian-mythology]] -- the myth underlying the ritual
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]] -- detailed chemical analysis
-- [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]

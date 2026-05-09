@@ -63,7 +63,7 @@ Morgan and amateur mycologist. Wasson and his wife Valentina Pavlovna
 traveled to Huautla de Jimenez, Oaxaca, in 1955 and participated in a
 velada with Maria Sabina. Their 1957 Life magazine article "Seeking the
 Magic Mushroom" brought the practice to global attention. Wasson's work
-inspired the chemical investigation by [[albert-hofmann]] at Sandoz, who
+inspired the chemical investigation by gordon-wasson at Sandoz, who
 isolated psilocybin from P. mexicana in 1958. Roger Heim, Director of
 the Museum National d'Histoire Naturelle in Paris, accompanied Wasson
 on subsequent expeditions and described numerous new Psilocybe species.
@@ -82,49 +82,9 @@ groups and served as a form of currency.
 
 ## South American Indigenous Use
 
-Indigenous use of [[neurotropic-fungi-in-south-america]] is less well
-documented than in Mesoamerica but is known from several regions:
-Psilocybe zapotecorum has been used by indigenous peoples in Colombia,
-Ecuador, Peru, and Bolivia. In the Colombian Amazon, several bolete
-species (Boletus loetus, Boletus manicus) have been associated with
-indigenous use among the Yurimagua and other Amazonian groups. The use
-of Dictyophora indusiata as a sacred or ceremonial fungus has been
-documented in parts of South America and Asia.
-
-## New Guinea and the Pacific
-
-The paper notes the use of several bolete species by indigenous peoples
-of New Guinea. Boletus flammeus, B. loetus, and other species have
-been documented as ceremonial fungi in Melanesian cultures. The
-practice of consuming psychoactive fungi in New Guinea is among the
-least studied indigenous mushroom traditions, and the paper suggests
-that further investigation would likely reveal additional species and
-uses.
-
-## Asia
-
-In Japan, Amanita muscaria has a documented history of use as an
-intoxicant, known locally as "benitengu-take." Some scholars have
-suggested connections between A. muscaria use and elements of
-Japanese folklore and religion, including possible connections to
-the tengu (long-nosed goblin) mythology. In India, the use of
-Amanita muscaria has been proposed in connection with the soma of
-Vedic tradition, though this hypothesis remains highly speculative.
-
-## Gasteromycetes as Sacred Fungi
-
-The paper documents the use of puffballs and related gasteromycetes as
-sacred fungi in Mexico. Lycoperdon candidum, L. oblongisporum,
-Vascellum intermedium, V. pratense, and V. qudenii have all been used
-by indigenous Mexican peoples. While these fungi have not been confirmed
-to contain neurotropic compounds, their cultural significance parallels
-that of the confirmed psychoactive species, suggesting a broader
-conception of "sacred fungi" that extends beyond strictly psychoactive
-species.
+Indigenous use of [[ethnomycology-cultural-significance-sacred-fungi]]
+- [[gasteromycetes-sacred-fungi]]
 
 ## See Also
 
-- [[ethnomycology-cultural-significance-sacred-fungi]]
-- [[mexico-center-neurotropic-fungal-diversity]]
-- amanita-muscaria-and-ibotenic-acid-fungi
-- [[gasteromycetes-sacred-fungi]]
+- [[indigenous-neurotropic-fungi-use-mexico]]

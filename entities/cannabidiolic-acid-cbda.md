@@ -82,8 +82,6 @@ compounds. Understanding CBDA's COX-2 selectivity positions it as a
 potential alternative to pharmaceutical anti-inflammatories.
 
 ## See Also
-- [[cannabidiol-cbd]]
 - [[cannabigerolic-acid-cbga]]
-- [[tetrahydrocannabinolic-acid-thca]]
 - [[tetrahydrocannabinol-thc]]
 - [[anandamide-aea]]

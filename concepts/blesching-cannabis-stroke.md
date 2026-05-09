@@ -113,8 +113,6 @@ stubbornness, and integrating previously hidden or oppressed characteristics.
 
 ## See Also
 
-- [[blesching-cannabis-heart-disease]]
 - [[blesching-cannabis-atherosclerosis]]
-- [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-alzheimers-disease]]
 - [[blesching-endocannabinoid-system-overview]]

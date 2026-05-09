@@ -138,13 +138,9 @@ Active areas of agarikon research include:
 - **Cultivation optimization:** Ongoing efforts to develop reliable methods for inducing fruiting body formation in controlled environments.
 - **Conservation genomics:** Assessment of genetic diversity and population connectivity to inform conservation strategies.
 - **Synergistic formulations:** Investigation of agarikon's immunomodulatory effects in combination with other medicinal mushrooms (reishi, turkey tail, chaga).
-
 ## See Also
 
-- [[laricifomes-officinalis]] — detailed taxonomic entry
 - [[reishi-ganoderma-lucidum]] — another long-revered medicinal polypore
-- [[chaga-inonotus-obliquus-medicinal-profile]] — rare birch parasite with medicinal properties
 - [[inonotus-obliquus]] — chaga's taxonomic entry
-- [[trametes-versicolor]] — turkey tail, another medicinal polypore
 - [[mycoremediation]] — fungal ecology and environmental applications
 - [[paul-stamets]] — leading advocate for agarikon conservation

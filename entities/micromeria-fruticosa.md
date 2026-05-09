@@ -115,13 +115,8 @@ Ornamental use is increasing in Mediterranean-climate gardens. The compact growt
 
 ## See Also
 
-- [[rosmarinus-officinalis]]
 - [[lavandula-angustifolia]]
-- [[thymus-vulgaris]]
-- [[origanum-vulgare]]
-- [[salvia-officinalis]]
+- [[origanum-vulgare-entity]]
 - [[mentha-piperita]]
-- [[hyssopus-officinalis]]
 - [[satureja-hortensis]]
-- [[marrubium-vulgare]]
 - [[melissa-officinalis]]

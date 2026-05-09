@@ -3,13 +3,7 @@ title: Fungal Morphology, Growth, and Pellet Formation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-
-updated: 2026-04-18
-
-Understanding fungal morphology, growth dynamics, and pellet formation is essential for optimizing [[mycoremediation-techniques]] and [bioreactor design for environmental applications.
+tags: [[mycoremediation-techniques]] and [bioreactor design for environmental applications.
 
 ## Fungal Morphology
 
@@ -102,16 +96,10 @@ Understanding fungal morphology is critical for:
 
 ## See Also
 
-- [[mycelial-growth-and-colonization]]
-
 - [[singh-fungal-pellet-formation-bioremediation]]
 
-- [[pellet-stove-heating]]
-
 - [[fungal-bioreactor-types]]
-- [[fungal-growth-kinetics-mass-transfer]]
 - [[fungal-pellet-formation-structure]]
-- [[mycoremediation-bioreactor-design]]
 - [[fungal-enzymatic-capabilities]]
 
 ## Source

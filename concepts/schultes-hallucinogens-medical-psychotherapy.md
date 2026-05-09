@@ -16,10 +16,8 @@ type: concept
 
 The changes in consciousness and perception produced by hallucinogens
 have found a number of applications in medicine. The pure substances
-most commonly used in this field are [[schultes-peyote-tracks-little-deer]], [[schultes-psilocybe-little-flowers-gods]], and
-[[hofmann-lsd-clinical-research-early-studies]]. Research has been concerned mainly with LSD — the most powerful
-hallucinogen known — a substance that is a chemically modified form of
-the active principle in [[schultes-ololiuqui-vines-serpent]]. The use of hallucinogens as an
+most commonly used in this field are [[schultes-psilocybe-little-flowers-gods]], and
+[[schultes-ololiuqui-vines-serpent]]. The use of hallucinogens as an
 adjunct to psychoanalysis and psychotherapy represents a fascinating
 intersection of indigenous plant knowledge and modern clinical science.
 
@@ -120,31 +118,10 @@ greater understanding of the dynamics of the unconscious.
 
 ## Controversy and Risk Assessment
 
-[[hallucinogenic-drugs]] as an adjunct to psychoanalysis and psychotherapy
-are still the subject of dispute in medical circles. Some psychiatrists
-hold that faster retrieval of traumatic experiences and shorter treatment
-periods are not advantageous, believing this method does not allow
-sufficient time for full integration of the material made conscious.
-
-However, this applies also to other techniques such as electroshock,
-insulin treatment, and psychosurgery — all of which carry far greater
-danger than the use of hallucinogens, which, in expert hands, may be
-regarded as virtually without risk.
-
-## Terminal Illness and Pain Management
-
-One area where the medical use of hallucinogens touches on serious
-ethical questions is in the care of the dying. Doctors observed that
-severe pain suffered by cancer patients, no longer responsive to
-conventional painkillers, could be partly or completely relieved by LSD.
-This action is probably not analgesic in the usual sense — rather, the
-perception of pain disappears as the patient's mind becomes separated
-from the body.
+[[schultes-ololiuqui-vines-serpent]] — source of lysergic acid
+  amide, chemical cousin of LSD
+- [[schultes-psilocybe-little-flowers-gods]] — psilocybin mushrooms
 
 ## See Also
 
-- [[schultes-ololiuqui-vines-serpent]] — source of lysergic acid
-  amide, chemical cousin of LSD
-- [[schultes-peyote-tracks-little-deer]] — mescaline-containing cactus
-  used in therapy research
-- [[schultes-psilocybe-little-flowers-gods]] — psilocybin mushrooms
+- [[metzner-hallucinogens-psychotherapy-and-shamanism]]

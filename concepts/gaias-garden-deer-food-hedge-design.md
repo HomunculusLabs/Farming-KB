@@ -88,58 +88,16 @@ the gardener harvests from the sheltered interior.
 
 ## Multi-Function Stacking
 
-The food hedge follows [[gaias-garden-stacking-functions|the principle of stackingfunctions]]. Every plant in the hedge should perform multiple roles:
-
-- **Nitrogen fixation:** Siberian pea shrub, buffaloberry, and Russian olive
-  pump atmospheric nitrogen into the soil, reducing or eliminating the need for
-  fertilizer. See [[permaculture-nitrogen-fixing-trees|nitrogen-fixing trees]].
+The food hedge follows [[permaculture-nitrogen-fixing-trees|nitrogen-fixing trees]].
 - **Nutrient accumulation:** Deep-rooted plants such as chicory, yarrow, and
   daikon radish planted at the hedge base mine minerals from subsoil and bring
   them to the surface through leaf drop.
-- **Mulch production:** [[gaias-garden-mulch-plants-ecological-garden|Comfrey]],
-  cardoon, and artichoke produce abundant biomass that can be cut and laid as
-  mulch to conserve water and build soil.
-- **Water conservation:** The dense canopy of the hedge reduces evaporation,
-  creating a moist microclimate on the leeward side. Ground covers beneath the
-  hedge further suppress weeds and retain moisture.
-- **Wildlife habitat:** The hedge provides nesting sites, food, and cover for
-  birds, beneficial insects, and small mammals. These creatures in turn
-  pollinate crops and control pests.
-- **Wind protection:** The hedge acts as a windbreak, reducing wind speed on
-  the leeward side and protecting tender plants from desiccation. See
-  [[permaculture-windbreak-design-species|windbreak design]].
+- **Mulch production:** [[permaculture-windbreak-design-species|windbreak design]].
 
 ## Integration with the Broader Landscape
 
 The food hedge should not exist in isolation. It connects to the broader
-garden design as part of a [[gaias-garden-polyculture-design-guidelines|polyculturesystem]]. The hedge's outer edge can blend into existing native vegetation, while
-the inner edge transitions into garden beds, guilds, or food forest plantings.
-
-In the zone system, the food hedge typically occupies the boundary between Zone
-2 (intensive food production) and Zone 3 (orchard, food forest, or wild area).
-This placement puts the hedge within easy reach for harvesting while serving as
-a transition between the tended garden and the wider landscape.
-
-## Incorporating Existing Native Shrubs
-
-Many properties already contain native shrubs that can be incorporated into a
-food hedge. Oceanspray, wild roses, manzanita, snowberry, and native cherries
-may already line property boundaries. Rather than removing these, the designer
-can graft edible cultivars onto compatible rootstock and fill gaps with
-additional productive species. This approach preserves existing habitat while
-adding food production.
-
-## Maintenance
-
-A food hedge requires less maintenance than a conventional fence. Once
-established, the hedge needs periodic pruning to maintain density and shape,
-harvesting of fruit and nuts, and occasional replenishment of mulch plants.
-The hedge's own leaf litter and biomass production reduce the need for external
-inputs.
-
-## The Larger Principle
-
-The food hedge exemplifies a core principle of [[hemenway-ecological-garden-design|ecologicalgarden design]]: every element should perform multiple functions. A fence
+garden design as part of a [[hemenway-ecological-garden-design|ecologicalgarden design]]: every element should perform multiple functions. A fence
 performs one function — exclusion. A food hedge performs six or more — food,
 fertility, water conservation, wind protection, wildlife habitat, and deer
 deflection — while requiring less maintenance and looking far more beautiful.

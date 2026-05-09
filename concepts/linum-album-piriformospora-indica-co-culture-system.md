@@ -10,51 +10,7 @@ sources: [~/wiki/raw/papers/symbiotic-fungi.md]
 type: concept
 ---
 
-# Linum album and [[piriformospora-indica]] Co-Culture
-
-## Enhanced Production of Podophyllotoxin Through Fungal Elicitation
-
-The interaction between *Piriformospora indica* and plant cell cultures
-represents a promising biotechnological platform for enhanced production of
-valuable secondary metabolites. Unlike arbuscular mycorrhizal (AM) fungi, which
-cannot be grown axenically without living host roots, *P. indica* is readily
-cultivable in pure culture while mimicking the capabilities of typical AM fungi.
-This "fungus of the millennium" has demonstrated growth-promotional and
-secondary metabolite-enhancer activities with diverse medicinal plants. Its
-co-culture with *Linum album* cells for podophyllotoxin production exemplifies
-how plant-fungal symbiosis can be harnessed for pharmaceutical manufacturing.
-
-## Podophyllotoxin: Pharmaceutical Significance
-
-Podophyllotoxin is the most important aryltetralin lignan due to its cytotoxic
-and antiviral properties. It is the raw material for synthesizing cytostatic
-drugs including etoposide, teniposide, and etopophos, used in cancer
-chemotherapy and treatment of genital warts. Conventionally extracted from roots
-of *Podophyllum hexandrum* and *P. peltatum*, supply is limited by the
-endangered status of *P. hexandrum* and the uneconomical nature of chemical
-synthesis. Cell cultures of *Linum* species produce podophyllotoxin at higher
-productivity than *Podophyllum* cell cultures, making *L. album* a preferred
-biotechnological source.
-
-## Biosynthetic Pathway and PAL Enzyme
-
-Lignan biosynthesis proceeds via the phenylpropanoid pathway, where
-phenylalanine is deaminated to cinnamic acid by phenylalanine ammonia lyase
-(PAL). This bridge reaction between primary and secondary metabolism is the
-rate-limiting step of lignan biosynthesis. Measurement of PAL enzyme activity
-serves as a key indicator of the mechanism underlying yield enhancement of
-lignans. In the *L. album*/*P. indica* co-culture system, podophyllotoxin
-accumulation and PAL enzyme activity were found to be directly associated:
-maximum lignan production resulted from maximum increments in enzyme activity.
-
-## Development of the Plant Cell Culture System
-
-### Seed Germination
-
-*L. album* seeds are surface-sterilized through sequential treatment with 1%
-Savlon (5 min), sterile water rinses, 70% ethanol (1 min), and 0.01% mercuric
-chloride (2 min), with sterile water rinses between each step. Seeds are
-transferred to Murashige and Skoog (MS) medium solidified with 1% [[agar]] and
+# Linum album and [[agar]] and
 germinated at 25 plus or minus 2 degrees C in complete darkness.
 
 ### Callus and Suspension Culture Initiation
@@ -134,8 +90,5 @@ protected under Indian patent application 1266/DEL/2007.
 
 ## See Also
 
-- [[piriformospora-indica-in-plant-fungal-co-culture]]
-
 - [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
-- [[mushroom-polysaccharide-chemistry]]
 - [[chenopodium-album]]

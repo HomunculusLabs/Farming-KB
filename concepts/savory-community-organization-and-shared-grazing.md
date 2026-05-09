@@ -117,16 +117,10 @@ that holistic management on communal land requires.
 
 ## See Also
 
-- [[savory-livestock-behavior-and-grazing-styles]]
-
 - [[savory-holistic-goal-definition]] — creating holistic goals for
   any context
-- [[savory-land-planning-and-grazing-cell-design]] — cell design
-  principles
 - [[savory-testing-and-management-guidelines]] — testing framework for
   community decisions
-- [[savory-ranch-financial-planning]] — financial planning adapted for
-  communal operations
 - [[savory-society-and-culture-guideline]] — cultural considerations in
   management
 - [[savory-weak-link-analysis]] — identifying community constraints

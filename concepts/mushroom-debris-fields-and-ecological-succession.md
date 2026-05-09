@@ -70,24 +70,7 @@ The occurrence and decomposition of a mushroom pre-determines the nature
 and composition of downstream populations in its habitat niche. When
 mycelium permeates a debris field, it creates a micro-filtration membrane
 that cleans water passing through it. This has been demonstrated with
-[[king-stropharia-wine-cap-cultivation]] beds installed at ravine heads
-draining into sensitive watersheds. Once mycelium fully permeated the
-sawdust beds, downstream fecal coliform bacteria was largely eliminated.
-
-After three to four years of continuous fungal activity, chunks of wood
-are totally reduced into a rich, peat-like soil ideal for garden or
-forest regeneration. With every cycle, soil depth increases and the
-capacity for biodiversity is enhanced.
-
-## Competition on the Forest Floor
-
-On the forest floor, a single habitat can actually be matrices of fungal
-networks sharing one space. Competition is intense among these decomposer
-communities. Fungi secrete antibiotics and enzymes not only to digest food
-but to suppress competing organisms. A diverse fungal community ensures
-no single organism dominates and decomposition proceeds efficiently.
-
-The balance between saprophytic and [[arbuscular-mycorrhizal-fungi]]
+[[arbuscular-mycorrhizal-fungi]]
 populations shifts dramatically when habitats are disturbed. Deforestation
 causes a rise in saprophytes and a decline in mycorrhizal mushrooms,
 delaying forest regeneration because mycorrhizal fungi are essential
@@ -140,11 +123,8 @@ dead plant material would accumulate indefinitely and soil would become
 progressively impoverished. The mycelial network is the circulatory system
 of the land, continuously moving nutrients from dead organisms to living
 ones and maintaining the fertility that all other life depends upon.
-
 ## See Also
 
-- [[mycelium-running-mycelial-archetype-nature]]
-- [[bioremediation-using-fungi]]
-- [[battelle-diesel-mycoremediation-study]]
+- [[fungal-bioremediation-mechanisms]]
 - [[enzymatic-degradation-in-mycoremediation]]
 - [[fungal-spore-dispersal-mechanisms]]

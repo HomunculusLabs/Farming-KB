@@ -16,31 +16,11 @@ Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter VIII: Spawn-Ma
 ## The Problem: Unreliable Commercial Spawn
 
 ### The American Spawn Crisis (1901-1904)
-When Duggar began his work at the Bureau of Plant Industry, U.S. Department of Agriculture, the American mushroom industry faced a critical problem: the majority of commercially available [[mushroom-spawn]] was dead or nearly so.
-
-Duggar conducted extensive testing of commercial spawn samples and found that:
-- Most American-made spawn showed little or no viability
-- Imported English brick spawn and French flake spawn were degraded by shipping conditions and storage time
-- Growers had no reliable way to assess spawn quality before planting
-- The entire industry was operating on faith, with frequent crop failures attributable to dead spawn
-
-### Brick vs Flake Spawn
-Two commercial spawn formats existed:
-- **English brick spawn** — compacted manure in brick form (approximately 5.5 x 8.5 x 1.5 inches); exhibited better keeping quality
-- **French flake spawn** — looser, crumbly material; had the advantage of easier planting but poorer viability during shipping and storage
-
-Duggar noted an "anomalous state of affairs": America imported canned mushrooms from France (the country of great mushroom production) but most mushroom spawn came from England, because the French flake product proved unsatisfactory time and again in American conditions.
-
-## The Tissue Culture Method
-
-### Duggar's Innovation (1902)
-At the Bureau of Plant Industry, USDA, Duggar developed a pure culture method for [[spawn-production]]. The key innovation was the **tissue culture technique**:
+When Duggar began his work at the Bureau of Plant Industry, U.S. Department of Agriculture, the American mushroom industry faced a critical problem: the majority of commercially available [[spawn-production]]. The key innovation was the **tissue culture technique**:
 
 1. **Select a vigorous, disease-free mushroom specimen** — from fields, woods, or established beds
 2. **Remove a small piece of tissue from the interior of the mushroom cap** — using sterile technique to avoid contamination
-3. **Place the tissue on a sterile culture medium** — typically nutrient [[agar]] in test tubes or Petri dishes
-4. **Incubate at mushroom-growing temperature** (approximately 55-60°F)
-5. **Allow [[mycelium]] to grow from the tissue** — the mushroom tissue itself serves as the inoculum
+3. **Place the tissue on a sterile culture medium** — typically nutrient [[mycelium]] to grow from the tissue** — the mushroom tissue itself serves as the inoculum
 6. **Subculture to fresh media** as needed to maintain vigorous growth
 7. **Use the pure culture to inoculate spawn substrate** — brick or flake compost
 
@@ -51,15 +31,7 @@ At the Bureau of Plant Industry, USDA, Duggar developed a pure culture method fo
 - Made possible the perpetuation of desirable characteristics through selection
 - Spawn could be produced from any vigorous specimen, regardless of source
 
-### Costantin and Matruchot's [[spore]] Method
-Duggar acknowledged that French researchers Costantin and Matruchot had developed a spore-based method at the Pasteur Institute, but:
-- They reported only results, not methods (it remained "a secret")
-- The method was taken over by a Paris corporation interested in mushroom growing
-- Spore culture tubes were sold to growers who multiplied them in beds
-- Repin also described a secret spore germination method used by a large Paris seed firm for making "plate spawn"
-
-### Why Tissue Culture Over Spore Germination
-- [[agaricus-campestris]] spores do not germinate readily — they germinate "sporadically at most" under normal conditions
+### Costantin and Matruchot's [[agaricus-campestris]] spores do not germinate readily — they germinate "sporadically at most" under normal conditions
 - The tissue method is far more easily applicable and reliable
 - Many practical growers had tried sowing gill portions in specially constructed beds without satisfactory results
 - Duggar had grown "thousands of cultures" by tissue method and stated "there is no hesitation in saying that it is entirely practicable"

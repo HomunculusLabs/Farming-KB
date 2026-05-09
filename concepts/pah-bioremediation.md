@@ -13,19 +13,7 @@ Polycyclic aromatic hydrocarbons (PAHs) are a class of organic compounds consist
 
 PAHs are of significant environmental and health concern because many are mutagenic, carcinogenic, and teratogenic. The bioremediation of PAH-contaminated environments is an active area of research and practice.
 
-This page provides an overview of PAH bioremediation principles, complementing the detailed discussions of fungal-specific pathways in [[fungal-pah-degradation-mechanisms]], [[fungal-pah-degradation-pathways]], and [[mycoremediation-pah-and-pcb-degradation]].
-
-## PAH Properties and Environmental Behavior
-
-PAHs range from simple two-ring compounds such as naphthalene to complex structures containing seven or more fused rings.
-
-Low molecular weight PAHs (two to three rings, including naphthalene, anthracene, and phenanthrene) are relatively water-soluble, volatile, and biodegradable compared to their higher molecular weight counterparts.
-
-High molecular weight PAHs (four or more rings, including pyrene, chrysene, benzo(a)pyrene, and coronene) are highly hydrophobic, have very low water solubility, and strongly adsorb to soil organic matter and sediment particles.
-
-The US Environmental Protection Agency has designated 16 PAHs as priority pollutants based on their frequency of occurrence, toxicity, and potential for human exposure.
-
-[[pah-properties-toxicity-bioremediation]] provides detailed information on the chemical properties, toxicological profiles, and environmental behavior of priority PAHs.
+This page provides an overview of PAH bioremediation principles, complementing the detailed discussions of fungal-specific pathways in [[fungal-pah-degradation-pathways]], and [[pah-properties-toxicity-bioremediation]] provides detailed information on the chemical properties, toxicological profiles, and environmental behavior of priority PAHs.
 
 The recalcitrance of PAHs increases with molecular weight, number of rings, and degree of ring condensation.
 
@@ -65,15 +53,11 @@ Manganese peroxidase generates Mn(III)-organic acid complexes that act as diffus
 
 Laccase oxidizes phenolic PAHs and, in the presence of appropriate mediators, can also oxidize non-phenolic PAHs with higher ionization potentials.
 
-[[fungal-pah-degradation-mechanisms]] provides detailed discussion of the enzymatic mechanisms involved.
-
-Phanerochaete chrysosporium is the most extensively studied white-rot fungus for PAH degradation, though Pleurotus ostreatus, Trametes versicolor, and Bjerkandera adusta have also shown strong PAH-degrading ability.
-
-Brown-rot fungi contribute to PAH degradation through the production of hydroxyl radicals via the Fenton reaction, as described in [[brown-rot-fungi-biodegradation]].
+[[brown-rot-fungi-biodegradation]].
 
 The fungal mycelial network can physically penetrate soil aggregates and access PAHs in microenvironments that are inaccessible to bacteria.
 
-[[mycoremediation-of-pahs]] and [[mycoremediation-pah-and-pcb-degradation]] detail the application of fungal PAH degradation in field and pilot-scale systems.
+[[mycoremediation-pah-and-pcb-degradation]] detail the application of fungal PAH degradation in field and pilot-scale systems.
 
 ## Factors Affecting PAH Biodegradation
 
@@ -81,11 +65,7 @@ Bioavailability is often the primary factor limiting PAH biodegradation in aged 
 
 PAHs that are strongly sorbed to organic matter or sequestered within soil aggregates are not readily accessible to degrading microorganisms.
 
-[[bioavailability-in-fungal-bioremediation]] discusses the concept of bioavailability and its implications for fungal PAH degradation.
-
-Surfactants, including both synthetic surfactants and microbial biosurfactants, can enhance PAH bioavailability by solubilizing sorbed PAHs into micellar phase.
-
-[[bioremediation-using-fungi]] describes the production and application of biosurfactants for enhancing PAH bioavailability and degradation.
+[[fungal-bioremediation-mechanisms]] describes the production and application of biosurfactants for enhancing PAH bioavailability and degradation.
 
 Oxygen availability limits aerobic PAH degradation in saturated subsurface environments and in the interior of soil aggregates.
 
@@ -103,14 +83,8 @@ Biopile and land farming systems are commonly used for ex situ treatment of PAH-
 
 Bioaugmentation with characterized PAH-degrading bacteria or fungi can accelerate treatment, particularly for high molecular weight PAHs that few indigenous organisms can degrade.
 
-[[fungal-bioaugmentation-inoculation]] describes approaches for introducing PAH-degrading fungi into contaminated environments.
-
 [[constructed-wetlands-wastewater-treatment]] systems have been applied to PAH-contaminated water, where both plants and associated microbial communities contribute to contaminant removal.
 
-Phytoremediation combined with mycorrhizal fungi, as described in [[mycorrhizal-fungi-bioremediation]], can enhance PAH degradation in soil through rhizosphere effects and extension of the degradation zone by fungal hyphae.
+Phytoremediation combined with mycorrhizal fungi, as described in [[fungal-bioreactor-types]] and [[enzyme-based-bioremediation]].
 
-[[fungal-bioreactor-types]] and [[fungal-bioreactor-types-for-pollutant-removal]] describe engineered systems for treatment of PAH-contaminated water using fungal cultures.
-
-Enzyme-based treatment using isolated ligninolytic enzymes offers potential for targeted PAH oxidation, as discussed in [[enzyme-based-bioremediation]].
-
-[[bioremediation-monitoring-and-assessment]] protocols for PAH remediation track the disappearance of individual PAH compounds, the reduction in total PAH mass, changes in toxicity, and shifts in the degrading microbial community.
+[[mycoremediation]] protocols for PAH remediation track the disappearance of individual PAH compounds, the reduction in total PAH mass, changes in toxicity, and shifts in the degrading microbial community.

@@ -32,19 +32,13 @@ describes seed exchange networks as essential for:
 - **Genetic diversity preservation:** Industrial agriculture has
   dramatically reduced crop genetic diversity. Seed exchanges maintain
   heritage and landrace varieties that may contain valuable traits for
-  [[permaculture-climate-adaptation]], disease resistance, and nutritional quality
-- **Regional adaptation:** Seeds saved and exchanged locally over
-  generations become adapted to specific climate, soil, and cultural
-  conditions. Local seed networks produce plants better suited to their
-  environment than commercially produced seed from distant regions
-- **Access to rare and useful species:** Many [[food-forest-design]] species
+  [[food-forest-design]] species
   and multi-functional plants are unavailable through commercial seed
   suppliers. Peer-to-peer exchange provides access to unusual
   perennials, nitrogen-fixing trees, medicinal plants, and
   underutilized crops
 - **Cost reduction:** Seed saving and exchange eliminates the need to
-  purchase seed annually, supporting [[mushroom-growing-house-construction-low-cost]] and
-  [[village-development-in-permaculture]] economics
+  purchase seed annually, supporting [[village-development-in-permaculture]] economics
 
 Mollison advocates establishing local and bioregional seed exchange
 circles, with each member specializing in a few species and sharing
@@ -53,16 +47,7 @@ surplus through organized swaps, seed libraries, and postal exchanges.
 ## Plant Databases and Inventories
 
 Mollison emphasizes the importance of comprehensive plant information
-systems for [[permaculture-design]]. A plant database should include:
-
-- Botanical and common names for unambiguous identification
-- Climate and soil requirements (hardiness zones, rainfall needs,
-  pH tolerance)
-- Functional roles in permaculture systems (nitrogen fixation, pest
-  control, mulch production, fodder, timber, food)
-- Growth habit, mature size, and spacing requirements
-- Propagation methods (seed, cutting, division, grafting)
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and guild associations
+systems for [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and guild associations
 - Yield data and harvest timing
 - Pest and disease susceptibility
 

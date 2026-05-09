@@ -119,12 +119,7 @@ The strain remains widely available through Nirvana Seeds and their distribution
 
 ## See Also
 
-- [[cannabis-terpene-profiles]]
 - [[cannabis-strain-guide-reference]]
-- [[cannabis-phenotype-and-genotype-guide]]
-
 - [[jack-herer]] — another famous Haze-dominant hybrid with related genetics
-- [[panama-red]] — a classic pure sativa landrace with different but complementary effects
 - [[northern-lights]] — the foundational indica parent in Jock Horror's lineage
-- [[pinene]] — dominant terpene in Jock Horror's profile
 - [[limonene]] — secondary terpene contributing citrus notes

@@ -73,14 +73,9 @@ AM fungi are found in soil worldwide and have also been detected in aerial epiph
 
 ## Related Topics
 
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
-
 - [[mycorrhizal-networks]] — comprehensive treatment of mycorrhizal ecology
-- [[fungal-interactions-organisms]] — biotic interactions involving AM fungi
 - [[soil-fungal-diversity]] — soil as habitat for AM fungi
-- [[fungal-functional-diversity]] — functional roles of AM fungi in ecosystems
 - [[fungal-chromogens-and-color-change]]
-- [[mycorrhizal-specificity-and-host-range]]
 - [[mycorrhizal-fungi-hydrocarbon-remediation]]
 
 ## See Also

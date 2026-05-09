@@ -1,7 +1,7 @@
 ---
 title: Ectomycorrhiza
 created: 2026-04-28
-tags: [mycology, ecology, botany, forest-ecology]
+tags: [[mycology, ecology, botany, forest-ecology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mushrooms-fungi-from-around-the-world.md]
@@ -15,39 +15,7 @@ fungi and the roots of woody plants, primarily trees and shrubs in temperate,
 boreal, and some tropical forests. Unlike arbuscular mycorrhizae, ECM fungi
 do not penetrate root cells but instead form a sheath around the root tip and
 a network between root cells, creating an interface for nutrient exchange that
-is critical for forest ecosystem function. [[ectomycorrhizal-fungi]] are
-responsible for many of the most familiar and ecologically important
-mushrooms found in forests worldwide.
-
-## Anatomy
-
-The ectomycorrhizal association has several distinctive anatomical features
-that distinguish it from other mycorrhizal types:
-
-**Fungal mantle (sheath)**: A dense layer of hyphae that completely encloses
-the root tip, typically 20 to 100 micrometers thick. The mantle replaces the
-root's own epidermal and cortical cell walls, effectively creating a new
-organ that is neither purely fungal nor purely plant. The mantle's structure
-and color vary among fungal species and serve as a primary diagnostic feature
-for identifying ECM associations in the field and laboratory.
-
-**Hartig net**: A labyrinthine network of fungal hyphae that penetrate
-between the outer cortical cells of the root without actually entering the
-cells. The Hartig net is the primary site of nutrient exchange, with the
-plant and fungus separated by only their cell membranes and the plant's cell
-wall. This intimate contact maximizes the efficiency of bidirectional nutrient
-transfer and allows for rapid communication between partners.
-
-**Extrametrical mycelium**: Hyphae that extend from the mantle outward into
-the surrounding soil, sometimes forming extensive mycelial mats or cords
-(rhizomorphs) that can transport water and nutrients over considerable
-distances. In some forest soils, ECM extrametrical mycelium constitutes the
-largest fraction of soil microbial biomass and can extend for meters from
-the host root.
-
-## Fungal Diversity
-
-[[ectomycorrhizal-associations]] have evolved independently in multiple fungal
+is critical for forest ecosystem function. [[ectomycorrhizal-associations]] have evolved independently in multiple fungal
 lineages, primarily within the Basidiomycota and Ascomycota. Approximately
 7,000 to 10,000 fungal species are estimated to form ECM associations, though
 the majority do not produce visible fruiting bodies and can only be detected
@@ -126,10 +94,7 @@ is a critical uncertainty in climate-ecosystem models.
 
 ## See Also
 
-- [[mycorrhiza]]
 - [[amanita]]
-- [[fungal-ecology]]
 - [[mycelium]]
 - forest ecology
-- [[clavulina-cristata]]
 - [[scleroderma-citrinum]]

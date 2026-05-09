@@ -66,58 +66,25 @@ Perilla is remarkably rich in specialized metabolites, with distinct profiles be
 
 **Rosmarinic acid:** Present at 10–25 mg/g dry weight in leaves; contributes anti-inflammatory and antioxidant activity.
 
-**Luteolin:** A flavonoid with documented anti-allergic and anti-inflammatory properties, present at 2–8 mg/g.
-
-**Anthocyanins:** Red-leafed varieties accumulate shisonin and malonylshisonin, giving the characteristic purple color. Total anthocyanin content reaches 15–30 mg/g in red leaves.
-
-**Fatty acids:** Seeds contain 35–45% oil, predominantly α-linolenic acid (omega-3, 55–65% of total fatty acids), making perilla seed oil one of the richest plant sources of omega-3.
-
-**Caffeic acid and apigenin:** Secondary phenolic compounds with anti-inflammatory and anti-tumor activities.
-
-## Traditional and Medicinal Uses
-
-In traditional Chinese medicine, perilla leaf (*Zi Su Ye*) is classified as pungent and warm, used to dispel wind-cold, promote Qi flow, and harmonize the middle jiao.
-
-Japanese Kampo medicine uses perilla for treating food poisoning, fish and crab allergies, and respiratory conditions.
-
-Korean medicine employs perilla seed (*Perillae Semen*) as an anti-asthmatic and cough remedy.
-
-Modern pharmacological studies support several traditional uses: rosmarinic acid inhibits allergic responses by suppressing IgE-mediated mast cell degranulation.
-
-Perilla oil supplementation has shown promise in reducing inflammatory markers (TNF-α, IL-6) in clinical trials for atopic dermatitis and asthma.
-
-⚠️ Perilla ketone is toxic to cattle and sheep, causing acute pulmonary edema at doses as low as 0.5–1% of body weight in dried plant material.
-
-## Culinary Applications
-
-Green shiso is ubiquitous in Japanese cuisine as a garnish, wrapping for sushi, and flavoring agent in pickles (umeboshi), tempura, and noodle dishes.
-
-Red shiso provides color and flavor to umeboshi (pickled plums), producing the characteristic deep red hue.
-
-Korean cuisine uses perilla leaves for *kkaennip* — leaves marinated in soy sauce and sesame oil, used as wraps or side dishes.
-
-Perilla seeds are pressed for oil (deulgireum in Korean), used in cooking, and ground as a condiment.
-
-## Nutritional Profile
-
-Perilla leaves are nutrient-dense, containing significant amounts of provitamin A (β-carotene: 7,000–11,000 µg/100g fresh weight), vitamin C (30–55 mg/100g), and calcium (200–250 mg/100g).
-
-The leaves provide dietary fiber (3–4 g/100g) and are rich in iron, potassium, and magnesium relative to other culinary herbs.
-
-Perilla seed meal, after oil extraction, contains 30–35% protein with a favorable amino acid profile, making it a potential animal feed supplement.
-
-## Cultivation
-
-Perilla grows readily from seed, germinating in 7–14 days at 20–25°C. Direct sowing is preferred over transplanting.
-
-It adapts to a wide range of soils but performs best in fertile, well-drained loam with pH 5.5–7.0.
-
-Harvest of leaves begins 40–60 days after sowing. Seed crops mature in 90–120 days, yielding 800–1500 kg/ha.
-
-Red varieties require full sun for maximum anthocyanin development. Green varieties tolerate partial shade.
-
-## See Also
-
-- [[ocimum-basilicum]] — Closely related Lamiaceae herb with overlapping culinary and aromatic profiles
-- [[mentha-piperita]] — Fellow mint-family herb with complementary phytochemistry (menthol vs. perillaldehyde)
+**[[ocimum-basilicum]] — Closely related Lamiaceae herb with overlapping culinary and aromatic profiles
+- [[menthol]] vs. perillaldehyde)
 - [[ocimum-tenuiflorum-entity]] — Sacred basil with overlapping traditional medicine applications in Asian systems
+## Practical Considerations
+
+Successful implementation of Perilla frutescens requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

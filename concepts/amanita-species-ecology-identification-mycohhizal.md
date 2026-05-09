@@ -120,10 +120,6 @@ toxic Amanita species without apparent harm.
 
 - [[amanita-caesarea]]
 
-- [[amanita-verna]]
-
 - [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
-- [[mycorrhizal-fungi-symbiosis-with-plants]]
 - [[fairy-rings-mycelium-ecology-soil]]
-- [[ergot-fungi-and-ergotism-claviceps-purpurea]]
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]

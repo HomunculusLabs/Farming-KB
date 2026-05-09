@@ -22,32 +22,6 @@ probiotics, enzymes, and bioavailable nutrients, but their fermentation
 processes, culinary uses, and cultural significance differ markedly.
 
 ## Miso
-[[miso-making]]
-Miso production begins with making koji, a culture of Aspergillus oryzae
-grown on steamed rice or barley. The koji is mixed with cooked soybeans and
-salt, then packed into containers and left to ferment for anywhere from a
-few weeks to several years. Short fermentation produces sweet, light miso
-(shiro miso), while long fermentation yields dark, intensely flavored miso
-(aka miso or hatcho miso). The aging process develops complex flavors through
-the interplay of enzymes, microorganisms, and time, much like cheese aging.
-
-Miso is incredibly versatile in the kitchen. It serves as the base for the
-ubiquitous Japanese miso soup, functions as a marinade for fish and meat,
-adds depth to sauces and dressings, and can even be used in desserts.
-Different types of miso offer a spectrum of flavors from mild and sweet to
-deep, salty, and complex. The fermentation process makes soybean nutrients
-more bioavailable and creates beneficial compounds including isoflavones
-and antioxidants. Miso also contains live cultures when unpasteurized,
-contributing to gut health.
-
-The main challenges of miso making are the time investment for traditional
-long-aged miso and the need to prepare or source koji culture. Commercial
-koji is available but making it at home requires temperature-controlled
-incubation of inoculated rice. Miso also requires a cool, dark storage
-location for long-term aging. The salt content is relatively high, which
-some health-conscious consumers may want to moderate in their diet.
-
-## Natto
 [[natto-making]]
 Natto is produced by inoculating steamed whole soybeans with Bacillus
 subtilis natto and fermenting at approximately 100 degrees Fahrenheit
@@ -116,8 +90,6 @@ while the bacteria from natto production may contribute to a diverse
 household microbial ecology that benefits other fermentation projects.
 
 ## See Also
-- [[comparison-tempeh-vs-miso]]
 - [[comparison-kombucha-vs-kefir]]
-- [[comparison-sourdough-vs-wild-yeast]]
 - [[comparison-fermentation-vs-canning]]
 - [[lacto-fermentation-and-food-preservation-methods]]

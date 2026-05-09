@@ -27,30 +27,6 @@ hybridization.
 
 ## JADAM Microorganism Solution (JMS)
 
-[[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
-
-JADAM (Jayonul Aga Damun Sidae, meaning "Research Association of Nature") was developed by Young-sang Cho as a comprehensive ultra-low-cost organic farming
-system. JMS is its cornerstone input, embodying the core JADAM philosophy: all necessary microorganisms already exist in the local environment and can be
-cultured at minimal to zero cost. The process centers on leaf mold collected from hills and fields where leaves have decomposed over hundreds of years into
-what JADAM practitioners call "black gold," a rich humic material teeming with diverse microbial life.
-
-The JMS preparation begins with collecting leaf mold from local forest or field sites, prioritizing areas with deep, well-decomposed litter layers beneath
-mature trees. This leaf mold is then mixed with water and a small amount of boiled potato or rice water as a starter food source, then cultured in a simple
-container for approximately seven days. JADAM emphasizes that indigenous microorganisms adapted to a local environment are the most effective workers for that
-environment. A key principle is that virtually all microorganisms are beneficial in proper context; the goal is to capture the full local microbial community
-rather than isolate specific strains.
-
-JMS is designed to be produced at essentially zero cost using materials found on any farm or in nearby natural areas. No specialized equipment, purchased
-cultures, or expensive substrates are required. The finished solution is applied to soil as a drench and to foliage as a foliar spray to boost microbial
-diversity, improve nutrient cycling, accelerate organic matter decomposition, and strengthen plant defense mechanisms against pests and diseases.
-
-JADAM views JMS not as a standalone product but as part of a complete farming system. It integrates with JADAM Natural Pesticide (JNP), JADAM Herbal Solution
-(JHS), JADAM Sulfur (JS), and JADAM Wetting Agent (JWA), all produced from locally available materials. This system-level thinking means JMS works
-synergistically with other inputs: JMS builds soil biology, JWA improves coverage of foliar applications, JNP provides pest control without harming beneficial
-microbes, and JHS strengthens plant immunity. Together they form a self-reliant, low-cost farming package accessible to any grower.
-
-## IMO (Indigenous Microorganisms)
-
 [[bahay-kubo-imo-collection-and-preparation]]
 
 The IMO system was developed by Dr. Han Kyu Cho as part of Korean Natural Farming (KNF) and popularized internationally by Gil Carandang through the Bahay Kubo
@@ -131,9 +107,6 @@ suit individual farm conditions, seasonal constraints, and available resources w
 
 ## See Also
 
-- [[comparison-bim-vs-jadam-imo]]
-
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
-- [[bahay-kubo-imo-collection-and-preparation]]
 - [[ultra-low-cost-farming-overview]]
 - [[beneficial-indigenous-microorganisms-bim]]

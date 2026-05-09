@@ -107,18 +107,11 @@ The structural similarity between these compounds arises from shared biosyntheti
 
 ## See Also
 
-- [[ibogaine]]
 - [[ibogamine]]
-- [[noribogaine-entity]]
 - [[voacangine-entity]]
-- [[tabernanthe-iboga]]
 - [[coronaridine]]
-- [[harmine]]
-- [[ibotenic-acid]]
-- [[ergine-entity]]
+- [[ibotenic-acid-entity]]
 - [[harmaline]]
-- [[harmalol]]
 - [[tetrahydroharmine]]
-- [[psilocybin-compound]]
-- [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]
 - [[mescaline-entity]]

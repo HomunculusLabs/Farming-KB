@@ -78,14 +78,7 @@ Fukuoka argued that revegetating small parts of the desert piecemeal would not w
 
 ## See Also
 
-- [[fukuoka-desert-greening-techniques-detailed]]
 - [[fukuoka-african-agriculture-observations]]
-- [[fukuoka-natural-farming]]
-
-## Related
-
 - [[fukuoka-natural-farming-in-tropical-regions]]
-- [[fukuoka-european-travels-natural-farming]]
 - [[fukuoka-four-principles-natural-farming]]
-- [[fukuoka-natural-farming-method]]
 - [[fukuoka-desert-revegetation-natural-farming]]

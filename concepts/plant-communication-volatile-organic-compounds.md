@@ -5,7 +5,6 @@ type: concept
 tags: [plant-communication, VOCs, volatile-organic-compounds, allelopathy, plant-defense, mycorrhizal-network]
 created: 2026-05-08
 ---
-
 # Plant Communication Through Volatile Organic Compounds
 
 ## The Language of Plants
@@ -66,85 +65,17 @@ attacking the plant. This creates a tritrophic interaction where the plant's
 alarm signal recruits the herbivore's natural enemies — a form of indirect
 defense.
 
-## Belowground Communication: Root Exudates and Soil Chemistry
-
-### Allelopathy
-
-Plants release a vast array of chemical compounds from their roots into the
-surrounding soil. Many of these root exudates function as allelochemicals —
-chemicals that suppress the germination, growth, or survival of competing
-plants. Black walnut (Juglans nigra) produces juglone, a potent allelopathic
-compound that inhibits the growth of many neighboring species. Spotted knapweed
-(Centaurea stoebe) releases catechin, which triggers oxidative stress in
-competing plants and triggers a form of autotoxicity at high concentrations.
-
-Allelopathic interactions can be remarkably specific, targeting particular
-species while leaving others unaffected. This selectivity suggests that
-allelopathy functions as a targeted competitive strategy rather than general
-chemical warfare.
-
-### Root-Talk
-
-Root systems of neighboring plants can detect each other's presence through
-chemical signals and respond by modifying their growth patterns. Plants grown
-with strangers allocate more resources to root production than those grown with
-kin, suggesting the ability to distinguish between self, related, and unrelated
-neighbors. Kin recognition in plants, mediated by root exudates, challenges
+## Belowground Communication: Root Exudates [[phloem-sap-composition-and-long-distance-signaling-in-plants]], mediated by root exudates, challenges
 the assumption that plants are incapable of social behavior.
 
 ## The Wood Wide Web: Mycorrhizal Networks
 
 Perhaps the most revolutionary discovery in plant communication has been the
 recognition of common mycorrhizal networks (CMNs) — networks of fungal hyphae
-connecting the root systems of multiple plants. Arbuscular mycorrhizal fungi
-form symbiotic associations with the vast majority of terrestrial plants,
-creating belowground networks through which carbon, nutrients, water, and
-chemical signals can be transferred between individuals.
-
-Suzanne Simard's groundbreaking work on Douglas fir forests demonstrated that
-carbon moves through mycorrhizal networks from "mother trees" to their
-seedlings, providing a nutritional subsidy that increases seedling survival.
-This carbon transfer is preferentially directed toward kin seedlings, suggesting
-a degree of parent-offspring recognition. Chemical alarm signals can also
-travel through CMNs: when one plant is attacked by pathogens or herbivores,
-defensive signals transmitted through the fungal network prime connected plants
-for defense.
-
-The extent and ecological significance of CMNs remain debated, but their
-existence is well-established. They represent a form of biological internet —
-a communication infrastructure that allows plants to share information and
-resources across distances of meters to hundreds of meters.
-
-## Electrical Communication
-
-In addition to chemical signaling, plants communicate using electrical signals.
-Action potentials and slow wave potentials propagate through phloem tissue at
-speeds of centimeters per second, transmitting information about local stimuli
-(herbivore attack, wounding, light changes) to distant parts of the plant. When
-a leaf is damaged, an electrical signal can reach other leaves within minutes,
-triggering systemic defensive responses before the chemical signal (which
-travels through the vasculature more slowly) arrives.
-
-## Challenges and Controversies
-
-Plant communication research faces methodological challenges. Laboratory studies
-using enclosed chambers may overestimate the ecological relevance of airborne
-VOC signals, which dissipate rapidly in field conditions. The adaptive
-significance of many observed signaling interactions remains debated — some may
-be incidental byproducts of physiological processes rather than evolved
-communication signals. Distinguishing intentional signaling from chemical
-eavesdropping (where the receiver benefits but the sender does not) requires
-careful experimental design.
-
-Despite these challenges, the consensus view has shifted decisively toward
-recognizing plant communication as a widespread, ecologically significant, and
-evolutionarily ancient phenomenon. Plants are not isolated organisms but
-participants in complex networks of chemical and electrical signaling that
-shape the structure and function of terrestrial ecosystems.
+connecting the root systems of multiple plants. Arbuscular [[plant-memory-and-associative-learning]]
+- allelopathy chemical competition between plants
+- mycorrhizal symbiosis and nutrient exchange
 
 ## See Also
 
-- [[plant-sensory-ecology-environmental-responsiveness]]
-- [[plant-memory-and-associative-learning]]
-- [[allelopathy-chemical-competition-between-plants]]
-- [[mycorrhizal-symbiosis-and-nutrient-exchange]]
+- [[fungal-volatile-organic-compounds-communication]]

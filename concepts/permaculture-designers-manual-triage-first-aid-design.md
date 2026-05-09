@@ -3,18 +3,7 @@ title: Site Triage and Priority Design
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
---- # Site Triage and Priority Design
-# Permaculture Designers Manual - Design Priorities and First Aid for Degraded Sites
-updated: 2026-04-18
-## Overview
-
-The concept of "triage" in permaculture design refers to the process of assessing a site and establishing priorities for intervention, much as medical triage categorizes patients by urgency of need. The Designers Manual provides extensive guidance on site assessment, priority setting, and the sequence of design and development activities. This page synthesizes Mollison's approach to determining what to do first, what can wait, and what to leave alone on any given site.
-
-The fundamental principle is to start with [[permaculture-designers-manual-site-development-sequence]] that protects and preserves existing assets, then progressively add complexity and production.
+tags: [[permaculture-designers-manual-site-development-sequence]] that protects and preserves existing assets, then progressively add complexity and production.
 
 ## Priority Setting Principles
 
@@ -97,34 +86,14 @@ The second priority is access:
 ### Step 3: Water Management
 
 Water is the primary design element:
-- [[permaculture-designers-manual-rainwater-harvesting-detailed]] for domestic supply
 - [[permaculture-designers-manual-swale-design-detailed]] and contour banks for infiltration
-- [[permaculture-designers-manual-ponds-and-dams]] for storage and aquaculture
 - [[permaculture-designers-manual-pig-systems]] for food production
-- [[permaculture-designers-manual-greywater-systems]] for waste utilization
+- [[graywater-systems]] for waste utilization
 
 ### Step 4: Earthworks
 
 Earthworks are the skeleton of the design:
-- [[permaculture-designers-manual-terracing-systems]] for slope management
-- Swales for water infiltration
-- Diversion drains for flood protection
-- Access roads and tracks
-- Dam walls and spillways
-
-### Step 5: Structures
-
-Place structures after water and access are established:
-- House sited for solar access, views, and privacy
-- Outbuildings (sheds, barns, workshops) in appropriate zones
-- Fences and boundaries
-- Animal housing
-
-### Step 6: Zone 1
-
-Establish intensive food production closest to the home:
 - [[mollison-designers-herb-spiral-design-construction]] at the kitchen door
-- [[permaculture-designers-manual-keyhole-garden]] for vegetables
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]] for tropical systems
 - Compost systems for waste recycling
 - Small animal systems (chickens, rabbits)
@@ -146,4 +115,4 @@ Progressively develop outer zones:
 - Zone 4: Forage, timber, extensive grazing
 - Zone 5: Wilderness, wildlife, minimal intervention
 
-Related: [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]], [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]], [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+Related: [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]], [[permaculture-design-principles]]

@@ -111,7 +111,7 @@ Good technique for the psychedelic journey is obvious: one sits down,
 one shuts up, and one pays attention. These journeys should be taken on
 an empty stomach, in silent darkness, and in a situation of comfort,
 familiarity, and security. The terms "set" and "setting," established
-by [[timothy-leary]] and [[ralph-metzner]], have remained excellent reference
+by [[ralph-metzner]], have remained excellent reference
 points.
 
 Set refers to the interiorized feelings, hopes, fears, and expectations
@@ -139,8 +139,6 @@ attitude toward plant and substance use.
 
 ## See Also
 
-- [[mckenna-archaic-revival]]
 - [[mckenna-transcendent-other-and-exopheromones]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[shamanism-as-archaic-technique-of-ecstasy]]

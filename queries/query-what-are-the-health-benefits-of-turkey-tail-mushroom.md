@@ -20,24 +20,12 @@ Beyond cancer support, turkey tail offers benefits for gut health, antiviral pro
 Turkey tail mushroom is one of the most common polypore mushrooms on Earth, found on dead hardwood logs and stumps across every continent except Antarctica.
 Its name comes from the concentric color zones on its fan-shaped fruiting body, which resemble the tail feathers of a wild turkey.
 While it is too tough and woody to eat as a culinary mushroom, it has an extraordinarily long history of medicinal use in traditional Chinese medicine, where it has been used for centuries to strengthen the body and promote longevity.
-The [[trametes-versicolor]] entry provides detailed taxonomic, ecological, and biochemical information about this widespread species.
-
-The two most important bioactive compounds in turkey tail are polysaccharide-K (PSK) and polysaccharide-peptide (PSP).
-PSK, also known as krestin, was first isolated in Japan in the 1960s and has been used as a cancer adjuvant therapy in Japan since 1977.
-PSP was isolated independently in China and has been used as a cancer treatment adjunct there since 1987.
-Both compounds are protein-bound polysaccharides that modulate the immune system, but they have slightly different mechanisms of action and molecular structures.
 The [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]] resource provides a comprehensive overview of how these compounds work at the cellular level and their role in cancer treatment protocols.
 
 The clinical evidence for turkey tail in cancer care is among the strongest of any medicinal mushroom available today.
 Multiple randomized controlled trials, primarily conducted in Japan, have demonstrated that PSK improves survival rates in patients with gastric cancer, colorectal cancer, breast cancer, and lung cancer when used as an adjunct to standard chemotherapy and radiation.
 PSK appears to work by enhancing the immune system's ability to identify and destroy cancer cells, reducing the immunosuppressive side effects of chemotherapy, and improving overall quality of life during treatment.
-The [[cancer-turkey-tail-psk-clinical-trials]] database catalogs these trials with specific outcomes, dosages, and patient populations, providing a valuable reference for evidence-based mushroom therapy.
-
-Beyond oncology, turkey tail has shown promise as an antiviral agent in laboratory research studies.
-Research has demonstrated activity against human papillomavirus (HPV), herpes simplex virus, and HIV in controlled laboratory settings.
-A notable clinical study found that daily turkey tail consumption was associated with clearance of oral HPV infections in a significant percentage of participants.
-These antiviral effects are thought to be related to both direct antiviral compounds in the mushroom and its ability to enhance the immune response against viral infections.
-The [[mushroom-cultivation-fundamentals]] resource covers both cancer and non-cancer research on turkey tail's bioactive compounds.
+The [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] resource covers both cancer and non-cancer research on turkey tail's bioactive compounds.
 
 The prebiotic effects of turkey tail on the gut microbiome represent an exciting area of emerging scientific research.
 Turkey tail polysaccharides appear to promote the growth of beneficial gut bacteria, particularly Bifidobacterium and Lactobacillus species, while inhibiting harmful organisms.
@@ -48,9 +36,8 @@ Turkey tail compounds have been shown to reduce inflammatory markers in multiple
 This broad anti-inflammatory activity, combined with immune modulation, makes turkey tail a versatile supplement for overall health maintenance.
 
 For those interested in cultivating turkey tail, the mushroom can be grown on sterilized hardwood sawdust substrates with relative ease.
-The [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] guide provides detailed instructions for substrate preparation, inoculation, and environmental management.
 The [[turkey-tail-research-psk]] resource also covers preparation methods including teas, tinctures, and dual-extraction techniques for maximum bioactive compound recovery.
-When comparing turkey tail to other medicinal mushrooms, the [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]] resource provides a detailed comparison, while the [[turkey-tail-trametes-versicolor]] page discusses various preparations and recommended dosages.
+When comparing turkey tail to other medicinal mushrooms, the [[turkey-tail-trametes-versicolor]] page discusses various preparations and recommended dosages.
 
 The discovery of PSK as a medicinal compound is considered a landmark in the field of medicinal mushroom research.
 Dr. Toshiko Tsubura and her colleagues in Japan first isolated PSK from the CM-101 strain of Trametes versicolor in the late 1960s.
@@ -123,5 +110,4 @@ Dr. Toshiko Tsubura and her colleagues in Japan first isolated PSK from the CM-1
 5. Dual extraction is recommended to capture both water-soluble and alcohol-soluble compounds
 
 ## Related Questions
-- [[query-what-are-the-health-benefits-of-lions-mane-mushroom]]
 - [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]

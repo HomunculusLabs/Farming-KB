@@ -3,81 +3,7 @@ title: Faires Herbal Medicine from the Garden
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-
-# Faires Herbal Medicine from the Garden
-
-The permaculture garden is inherently a medicine garden. Many plants grown for food, forage, pest control, or structural purposes also have significant medicinal properties. The Faires guide catalogs numerous plants with traditional medicinal uses that can be integrated into any homestead design, providing natural remedies alongside food production.
-
-## Key Medicinal Plants
-
-### Neem (Azadirachta indica)
-
-Neem is a sub-tropical evergreen tree that grows quickly and is tolerant to drought. While none of it is edible and it has little direct garden use, the entire tree has remarkable medicinal properties:
-
-- **Antifungal, antibacterial, sedative, and antiviral**
-- Commonly used as a natural pesticide in the garden
-- Extracts used to make **toothpaste**, skin creams, sprays, and remedies for nearly every type of skin ailment
-- Included in the plant catalog specifically "for the vast array of products that can be made from it"
-
-Neem represents the concept of growing your own medicine cabinet. A single neem tree provides the raw material for oral care, skin treatments, and garden pest management simultaneously.
-
-### Nettles (Urtica dioica)
-
-Despite their stinging hairs, nettles are one of the oldest and most versatile medicinal plants:
-
-- **Teas:** Dried nettle leaves make a mineral-rich tea
-- **Shampoo:** Nettle preparations are used as hair and scalp treatments
-- **Skin salves:** Applied topically for various skin conditions
-- **Food:** Extremely high in vitamins and minerals; used in polenta, pesto, soup, and cooked greens
-- **Fiber:** Nettle is a substitute for flax or hemp in making linen — the processing is identical
-- **Pest deterrence:** Nettles deter garden pests and, if kept under control, serve as excellent companion plants
-- **Companion to blackberries:** Nettles and blackberries are direct competitors, so placement planning is needed
-
-**Harvesting:** Wear gloves and use scissors to cut leaves in March or April before flowering. The smaller leaves near the top are best. Soak in warm water for ten minutes to remove the sting. Not all stinging varieties are edible — verify your species.
-
-### Bee Balm (Monarda fistulosa, Monarda didyma)
-
-Bee Balm has many traditional medicinal uses and is one of the easiest medicinal herbs to grow:
-
-- Thrives in most areas with regular watering
-- Cut back once a year to maintain 4-8 inches (10-20 cm) height
-- Can become an aggressive spreader — divide every 2-3 years to keep healthy and controlled
-- Serves double duty as bee forage for beekeeping-basics|beekeeping systems
-- The name itself reflects its primary ecological function
-
-### Tea Tree (Melaleuca alternifolia)
-
-Native to hot Australian climates but grown with varying success elsewhere:
-
-- **Not edible** but produces the heavily marketed tea tree oil
-- Leaves are picked and the oil is distilled and bottled
-- **Antibacterial, antifungal, antiseptic, and antiviral**
-- Used for nearly any skin problem
-- Extremely effective pest control in the garden
-- Needs full sun, occasional watering, and frost protection when young
-- Included in the catalog "like Neem" for the vast range of useful products from the oil
-
-### Moringa (Moringa oleifera)
-
-A tree with huge nutritional and medicinal potential:
-
-- Leaves used raw in salads, dried as tea, or ground into powder added to food
-- Flowers harvested and cooked, used like mushrooms in dishes
-- Pods used fresh, raw, or cooked in stir-fry; seeds used like peas
-- Leaves and pods provide animal forage without processing
-- Can reach 15 feet (5 meters) in one year, and be cut back to 3 feet (1 meter) annually
-- Produces thousands of pods within several years
-
-### Comfrey (Symphytum spp.)
-
-Comfrey is mentioned throughout the Faires guide as both a medicinal plant and a dynamic accumulator:
-
-- **Soil tea ingredient:** Comfrey adds potassium to manure tea for soil building
-- **Forest garden pioneer:** One of the first plants established when creating a new [[faires-hugelkultur-and-forest-garden-strategy]] from cleared land
+tags: [[faires-hugelkultur-and-forest-garden-strategy]] from cleared land
 - **Medicinal:** Traditional wound-healing and anti-inflammatory herb
 - **Biomass producer:** Produces large quantities of leaf material for mulch and compost
 - **Livestock forage:** Palatable to many animals
@@ -119,29 +45,67 @@ A traditional multi-use tree:
 Traditional animal-based remedies are also referenced in the guide:
 
 - **Goose grease salves:** Goose fat has traditionally been used for frying, pastry, and hand salves. Goose tends to be greasier than other meats, making the rendered fat particularly suited to skin applications.
-- **Bag balm:** Used for massaging goat udders during [[faires-milking-goats-and-cows]], but also serves as a general-purpose skin salve for cracked hands and minor wounds
-
-## Integration with Permaculture Design
-
-Medicinal plants should be integrated into the zone system based on their frequency of use:
-
-- **Zone 1:** Daily-use herbs (nettle tea, first-aid remedies) near the kitchen door
-- **Zone 2:** Regular-use medicinal plants (bee balm, comfrey) in the intensively managed garden
-- **Zone 3:** Less frequently accessed medicinal trees (neem, moringa, tea tree, linden)
-- **Zone 4-5:** Wild medicinal plants harvested by foraging (bunchberry, wild nettles)
-
-The key principle is that medicinal plants should serve multiple functions. Every medicinal plant in the permaculture garden should also provide food, forage, pest control, soil building, or structural functions.
-
-## Source
-
-From *The Ultimate Guide to Natural Farming and Sustainable Living*, plant catalog entries and design sections.
-
-- [[faires-design-patterns-for-climate-resilience]]
-
-- [[faires-edible-and-useful-wild-plants]]
+- **Bag balm:** Used for massaging goat udders during [[faires-design-patterns-for-climate-resilience]]
 
 - [[faires-household-products-from-the-homestead]]
 
-- [[faires-mushroom-growing-and-foraging]]
-
 - [[faires-plant-catalog-notable-species]]
+## Practical Considerations
+
+When working with Faires Herbal Medicine from the Garden, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

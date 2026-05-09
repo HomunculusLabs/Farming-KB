@@ -75,33 +75,7 @@ indomethacin.
 Geraniol exhibits broad-spectrum antimicrobial activity against both
 Gram-positive and Gram-negative bacteria, as well as fungi and yeasts.
 Notable MIC values include *Staphylococcus aureus* (64 µg/mL),
-*Escherichia coli* (256 µg/mL), and *[[candida-albicans]]* (128 µg/mL).
-Its mechanism involves disruption of microbial cell membrane integrity.
-
-**Neuroprotective effects:**
-In animal models of neurodegeneration, geraniol has shown protective
-effects against scopolamine-induced memory impairment, Aβ-induced
-toxicity, and ischemic brain injury. Proposed mechanisms include
-antioxidant activity, acetylcholinesterase inhibition, and
-anti-apoptotic signaling modulation.
-
-**Other bioactivities:**
-- Antioxidant — free radical scavenging, lipid peroxidation inhibition
-- Anticancer — cell cycle arrest and apoptosis induction in multiple
-  cancer cell lines (breast, colon, hepatic) at concentrations of
-  50–200 µM in vitro
-- Antinociceptive — reduces pain perception in rodent models
-- Cardiovascular — mild hypotensive and antiplatelet effects
-
-## Sources and Occurrence
-
-Geraniol is a major constituent of several commercially important
-essential oils:
-
-| Plant Source | Geraniol Content | Notes |
-|-------------|-----------------|-------|
-| *[[pelargonium-graveolens]]* (rose geranium) | 15–30% | Primary commercial source |
-| *[[cymbopogon-martinii]]* (palmarosa) | 80–95% | Highest natural concentration |
+*Escherichia coli* (256 µg/mL), and *[[pelargonium-graveolens]]* (rose geranium) | 15–30% | Primary commercial source |
 | *[[rosa-damascena]]* (damask rose) | 10–25% | Perfumery standard |
 | *Cymbopogon winterianus* (citronella) | 30–45% | Insect repellent source |
 | *Citrus* spp. (lemon, orange) | 1–5% | Minor constituent |
@@ -136,7 +110,6 @@ with typical use levels of 1–50 ppm in food.
 Geraniol has been investigated as a natural pesticide and plant defense
 elicitor. Its antimicrobial properties make it a candidate for
 post-harvest preservation of fruits and vegetables.
-
 ## Related Compounds
 
 | Compound | Relationship |

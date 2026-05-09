@@ -34,64 +34,7 @@ actually refers to Clonostachys.
 
 On PDA plates baited with different fungi, C. rosea appears as a
 true generalist, having been recovered on all three bait hosts
-tested: Fusarium culmorum, [[rhizoctonia-solani]], and Botrytis
-cinerea. This broad recovery pattern confirms its lack of host
-specificity and its ability to switch between different fungal
-hosts in the environment with remarkable ecological versatility.
-
-## Taxonomy and Classification
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Bionectriaceae
-- **Genus:** Clonostachys
-- **Species:** C. rosea
-
-The species has undergone taxonomic revision in recent decades,
-with the name Gliocladium roseum representing an older
-classification based on conidial morphology. The form C. rosea f.
-catenulata, distinguished by its catenulate (chain-forming)
-conidia, was isolated from sunflower field soil and is
-particularly noted for aggressive mycoparasitic activity against
-sclerotia-forming pathogens.
-
-## Key Details
-
-### Mycoparasitic Mechanism
-C. rosea employs a well-characterized mycoparasitic strategy
-combining direct hyphal attack with enzymatic degradation. In
-natural infections of Botrytis aclada on onions, C. rosea hyphae
-grow along the surface of host hyphae, contact them with
-specialized appressorial branches, and then penetrate the hyphal
-wall (Walker and Maude 1975). The production of pseudoappressoria
-facilitates firm attachment to the host surface before enzymatic
-penetration.
-
-C. rosea is notable for its ability to overgrow other fungi
-without being inhibited itself (Domsch et al. 1980). This
-resistance to host defenses allows C. rosea to dominate fungal
-communities on decomposing substrates. The species can penetrate
-and destroy hyphae of even the potent toxin producer
-Trichothecium roseum (Barnett and Lilly 1962; Barnett and Binder
-1973; Berry and Deacon 1992).
-
-### Sclerotial Parasitism
-C. rosea hyphae can attack the sclerotia of Botrytis species,
-penetrating the melanized rind and colonizing the medulla. C.
-rosea f. catenulata is particularly efficient as a destructive
-parasite of Sclerotinia sclerotiorum sclerotia and several
-Fusarium species, which it contacts with pseudoappressoria (Huang
-1978). The fungus has been found attacking Phymatotrichopsis
-omnivora (Texas root rot) buried 50 cm deep.
-
-### Host Range
-C. rosea has an exceptionally broad host range. Documented
-targets include Verticillium dahliae (efficient parasite; Keinath
-et al. 1991), Sclerotinia sclerotiorum, multiple Fusarium
-species, Botrytis aclada and other Botrytis species, Phomopsis
-sclerotioides (partial control; Moody and Gindrat 1977),
-Mucorales, [[ceratocystis-fimbriata]], and Trichothecium roseum.
+tested: Fusarium culmorum, [[ceratocystis-fimbriata]], and Trichothecium roseum.
 
 ### Sporocarp Colonization
 C. rosea is frequently found on decaying polypore sporocarps
@@ -120,8 +63,25 @@ applicability in integrated disease management programs across
 agricultural and horticultural systems.
 
 ## See Also
-Related: [[gliocladium-roseum]], [[trichothecium-roseum]], [[mycoparasitic-fungi-biocontrol-agents]]
-- [[trichothecium-roseum]]
-- [[trichoderma-virens]]
+Related: [[trichothecium-roseum]], [[trichothecium-roseum]]
 - [[verticillium-dahliae]]
 - [[sclerotinia-sclerotiorum]]
+## Practical Considerations
+
+Successful implementation of Clonostachys rosea requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

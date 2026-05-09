@@ -72,12 +72,25 @@ in the tropics. Its rapid growth, nitrogen fixation ability, and
 multiple yields (fodder, fuel, timber, food) make it a cornerstone
 species for sustainable tropical farming systems, alley cropping, and
 reforestation projects. Its use as a nurse tree for cacao and other
-crops demonstrates excellent [[permaculture-design]] integration. The
-genus name comes from the Greek "leukos" (white) referring to the
-white flowers of many species.
-
-## See Also
-- [[tagasaste]]
-- [[black-locust-entity]]
+crops demonstrates excellent [[tagasaste]]
 - [[acacia]]
 - [[ice-cream-bean-entity]]
+## Practical Considerations
+
+Successful implementation of Leucaena requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

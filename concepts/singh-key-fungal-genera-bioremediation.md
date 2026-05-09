@@ -10,13 +10,11 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 # Singh Key Fungal Genera in Bioremediation
 #mycoremediation #aspergillus #penicillium #trichoderma #ganoderma #pleurotus #phanerochaete #bjerkandera
 Updated: 2026-04-18
-Source: [[harbhajan-singh]], Mycoremediation: [[fungal-bioremediation]] (2006), Chapters 1-12
+Source: [[fungal-bioremediation]] (2006), Chapters 1-12
 
 ## Overview
 
-This page summarizes the key fungal genera documented in Singh's comprehensive mycoremediation reference, covering their specific roles in degrading different classes of contaminants. The book covers nearly 2000 references spanning industrial wastewaters, petroleum hydrocarbons, PCBs, pesticides, phenols, PAHs, dyes, and heavy metals. See also [[fungal-ecology-mycoremediation]], [[singh-ligninolytic-enzymes-fungal-bioremediation]], [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
-
-## [[phanerochaete-chrysosporium]] -- The Model White-Rot Fungus
+This page summarizes the key fungal genera documented in Singh's comprehensive mycoremediation reference, covering their specific roles in degrading different classes of contaminants. The book covers nearly 2000 references spanning industrial wastewaters, petroleum hydrocarbons, PCBs, pesticides, phenols, PAHs, dyes, and heavy metals. See also [[singh-ligninolytic-enzymes-fungal-bioremediation]], [[phanerochaete-chrysosporium]] -- The Model White-Rot Fungus
 
 The most extensively studied fungus in bioremediation. Discovered as the source of lignin peroxidase (LiP) by Glenn et al. (1983) and Tien and Kirk (1983).
 
@@ -39,7 +37,7 @@ The most extensively studied fungus in bioremediation. Discovered as the source 
 - Unable to thrive in highly contaminated soils (remains metabolically inactive with other white-rot fungi)
 - Limited PAH oxidation of high-molecular-weight compounds without surfactant
 
-## [[trametes-versicolor]]
+## [[trametes-versicolor-entity]]
 
 ### Enzyme System
 - Produces LiP, MnP, and laccase

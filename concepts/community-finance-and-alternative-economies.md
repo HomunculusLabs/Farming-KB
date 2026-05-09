@@ -67,19 +67,9 @@ Offer shared facilities: secretarial, bookkeeping, accounting, legal, communicat
 
 ## Related Topics
 
-- [[permaculture-local-currency-systems]]
 - [[permaculture-village-design]]
-- [[bioregional-organization]]
 - [[right-livelihood-and-permaculture-business]]
-- [[mollison-ethical-investment-movement]]
-
-## Source
-
-Bill Mollison, Permaculture: A Designers Manual (1988), Chapter 14: The Permaculture Community
-
-## Merged: Holmgren: Global Economy and Localisation
-
-Holmgren's analysis of the global economy provides one of the most penetrating critiques of economic globalisation from a permaculture perspective, connecting macroeconomic dynamics to the practical work of [[community-economics-in-permaculture]] and [[permaculture-retrofit-suburbia]].
+- [[community-economics-in-permaculture]] and [[permaculture-retrofit-suburbia]].
 
 ## The Segregation-Integration Dynamic
 

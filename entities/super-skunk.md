@@ -111,15 +111,9 @@ The Exodus Cheese clone, one of the most famous cannabis cuts in history, is bel
 
 ## See Also
 
-- [[skunk-cannabis]]
-
 - [[rainbow-chips]]
 
-- [[skunk-1]] — Foundational hybrid parent of Super Skunk
 - [[afghan-kush]] — Landrace indica genetics related to the Afghani parent
-- [[northern-lights]] — Classic indica with similar breeding-era significance
 - [[super-silver-haze]] — Notable descendant combining Super Skunk with Haze and NL
-- [[sour-diesel]] — Contrasting sativa-dominant strain for comparison
 - [[chemdawg]] — Chemdog lineage that influenced many modern hybrids
-- [[myrcene]] — Dominant terpene responsible for sedative effects
 - [[beta-caryophyllene]] — Dietary cannabinoid found in Super Skunk's profile

@@ -93,11 +93,7 @@ remove the solidified waxes, leaving a cleaner extract.
 
 ## See Also
 
-- [[oner-cannabis-co2-solvent-extraction]]
 - [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]
-
 - [[cannabis-alchemy-overview]]
-- [[cannabis-chromatography-cannabinoid-purification]]
 - [[rosin-pressing-technology]]
 - [[hashish-production-methods]]

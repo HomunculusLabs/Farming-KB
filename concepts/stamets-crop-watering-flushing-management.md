@@ -139,12 +139,8 @@ Too much fresh air is preferable to insufficient supply. However, fresh air
 displaces room air and unless preconditioned, disrupts the growing environment.
 CO2 tolerant species give the grower an advantage since they need less fresh
 air and are easier to manage environmentally.
-
 ## See Also
 
-- [[stamets-compost-supplements-nitrogen-management]]
-
 - [[stamets-pinning-initiation-stages-environmental-control]]
-- [[stamets-harvesting-drying-and-storage]]
 - [[stamets-casing-layer-design]]
 - [[stamets-growing-room-air-circulation-co2-management]]

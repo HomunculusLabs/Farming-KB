@@ -3,13 +3,7 @@ title: Permaculture Ethics Foundation
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Permaculture Ethics Foundation
-
-Ethics are the moral principles that guide action toward good and right outcomes and away from bad and wrong outcomes. In permaculture, ethics function as constraints on survival instincts and self-interest -- they are culturally evolved mechanisms for more enlightened self-interest, a more inclusive view of who and what constitutes "us," and a longer-term understanding of good and bad outcomes. This connects directly to [[permaculture-design]], [[permaculture-water-harvesting-earthworks]], and [[permaculture-energy-descent-planning]].
+tags: [[permaculture-design]], [[permaculture-energy-descent-planning]].
 
 ## Ethics as Ecologically Functional
 
@@ -96,11 +90,7 @@ Permaculture design principles are conceptual tools for finding what is appropri
 
 ## See Also
 
-- [[permaculture-ethics]]
-- [[permaculture-water-harvesting-earthworks]]
-- [[permaculture-design]]
+- [[permaculture-earthworks-and-water-harvesting]]
 - [[permaculture-energy-descent-planning]]
-- [[consumer-versus-conserver-society]]
 - [[permaculture-and-community]]
-- [[permaculture-global-crisis-response]]
 - [[mollison-permaculture-two-community-self-reliance]]

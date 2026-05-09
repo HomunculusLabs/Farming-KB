@@ -89,16 +89,6 @@ After pruning, open wounds invite diseases and pests. Wash hands and tools befor
 
 Hydrated lime is used as a grow room fungicide. Sprinkle it on the floor and around the room — it kills fungus on contact.
 
-## [[integrated-pest-management]] (IPM)
-
-A combination of:
-1. Cultural controls (proper environment, hygiene)
-2. Mechanical controls (sticky traps, hand-picking)
-3. Biological controls (predatory insects)
-4. Chemical controls (organic/natural sprays as last resort)
-
-## Related Topics
-- [[cervantes-indoor-grow-room-setup]] — Ventilation and environmental control
-- [[cervantes-co2-enrichment]] — CO2 and environmental control
+## [[cervantes-indoor-grow-room-setup]] — Ventilation and environmental control
 - [[cervantes-cloning]] — Clone sanitation practices
 - [[cervantes-companion-planting-pest-deterrent]]

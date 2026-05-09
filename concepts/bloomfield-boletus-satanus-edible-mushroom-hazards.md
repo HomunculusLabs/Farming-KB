@@ -127,8 +127,6 @@ their toxicity profiles.
 
 ## See also
 
-- [[bloomfield-mushroom-poisons-and-toxidromes]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
 - [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
 - [[bloomfields-orchard-mushroom-hunting-and-identification]]

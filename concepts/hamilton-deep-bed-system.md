@@ -129,8 +129,6 @@ and dramatically increased yields per unit area.
 
 ## See Also
 
-- [[hamilton-vegetable-planning-rotation]]
 - [[hamilton-crop-rotation-and-vegetable-planning]]
-- [[hamilton-organic-soil-management]]
 - [[hamilton-composting-and-organic-matter-management]]
 - [[hamilton-seed-sowing-techniques]]

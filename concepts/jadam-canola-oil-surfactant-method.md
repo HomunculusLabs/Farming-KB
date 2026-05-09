@@ -112,11 +112,7 @@ Strong heat is produced. Work in well-ventilated area. Wear full protective gear
 
 ## See Also
 
-- [[jadam-wetting-agent-jwa]] -- the main JWA page
 - [[jadam-water-spraying-guidelines]] -- water quality and spraying rules
-- [[jadam-natural-pesticide-jnp]] -- complete pesticide combining JWA with JS and JHS
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-pesticide-mixing-guidelines]]
 - [[jadam-pesticide-for-aphids-and-mites]]
-- [[jadam-pesticide-for-powdery-mildew]]
 - [[jadam-water-quality-pesticide]]

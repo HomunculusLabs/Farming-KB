@@ -3,13 +3,13 @@ title: Fungal Heavy Metal Anion Biosorption
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
 # Fungal Heavy Metal and Anion Biosorption
 
-Fungal biosorption of heavy metals and anions is the process by which fungal biomass binds metal ions and oxyanions from solution through physicochemical mechanisms independent of cellular metabolism. This process is central to [[fungal-heavy-metal-biosorption-detailed]] and represents one of the most commercially promising applications of [[fungal-bioremediation]].
+Fungal biosorption of heavy metals and anions is the process by which fungal biomass binds metal ions and oxyanions from solution through physicochemical mechanisms independent of cellular metabolism. This process is central to [[fungal-bioremediation]].
 
 ## Principles of Fungal Biosorption
 
@@ -17,17 +17,7 @@ Biosorption can be defined as the removal of metal or metalloid species, compoun
 
 Fungal cell walls are the primary sites for metal biosorption, offering a variety of functional groups that can bind metal ions. The composition of fungal cell walls, including chitin, glucans, proteins, and melanin, determines the biosorption capacity and selectivity for different metals.
 
-The distinction between biosorption and [[fungal-bioaccumulation-vs-biosorption]] is important: bioaccumulation involves active, metabolism-dependent uptake and intracellular accumulation, while biosorption is primarily a surface phenomenon that can occur with dead biomass.
-
-## Fungal Cell Wall Composition and Metal Binding
-
-Fungal cell walls are complex structures composed of several polymers that provide binding sites for metal ions:
-
-### Chitin and Chitosan
-
-Chitin is a linear polymer of N-acetylglucosamine that forms the structural backbone of most fungal cell walls. Chitosan, the deacetylated form of chitin, is present in the cell walls of Mucorales (zygomycetes) and provides abundant amino groups that are excellent ligands for metal binding.
-
-The amino groups of chitosan can coordinate with metal ions through chelation, electrostatic attraction, and ion exchange. Chitosan-based biosorbents derived from fungal biomass have been extensively studied for [[heavy-metal-biosorption]] applications.
+The distinction between biosorption and [[heavy-metal-biosorption]] applications.
 
 ### Glucans
 
@@ -97,12 +87,8 @@ The main limitations include the finite capacity of biomass, potential interfere
 
 ## See Also
 
-- [[fungal-heavy-metal-biosorption-detailed]]
 - [[fungal-bioremediation]]
-- [[heavy-metal-biosorption]]
 - [[fungal-bioaccumulation-vs-biosorption]]
 - fungal heavy metal anion biosorption
-- [[fungal-wastewater-treatment]]
 - [[fungal-metal-redox-transformations-detailed]]
-- [[fungal-metal-ion-resistance-mechanisms]]
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]

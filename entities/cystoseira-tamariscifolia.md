@@ -104,17 +104,10 @@ Legislative protection varies by jurisdiction. The species is included in the Ba
 
 ## See Also
 
-- [[fucus-vesiculosus]]
 - [[fucus-serratus]]
-- [[sargassum-muticum]]
 - [[sargassum-fusiforme]]
-- [[ulva-lactuca]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[himanthalia-elongata]]
-- [[chondrus-crispus]]
 - [[caulerpa-racemosa]]
-- [[palmaria-palmata]]
 - [[mastocarpus-stellatus]]
-- [[gelidium-amansii]]
 - [[kappaphycus-alvarezii]]

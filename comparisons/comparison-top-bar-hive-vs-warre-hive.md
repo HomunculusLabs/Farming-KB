@@ -143,7 +143,6 @@ Both hives produce less honey than Langstroth hives (typically 40–100+ lbs), b
 - Lower honey yield than both Langstroth and TBH
 ## See Also
 
-- [[mycelium-running-conservation-biology-and-fungi]] — Broader beekeeping practices and pollinator ecology
 - [[bee-feeding-and-fungal-pesticides]] — Hive products beyond honey
-- [[hamilton-beneficial-insects-and-biological-pest-control]] — Bees as part of the integrated pest management system
-- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] — Hive placement in permaculture design
+- [[integrated-pest-management]] system
+- [[permaculture-design]]

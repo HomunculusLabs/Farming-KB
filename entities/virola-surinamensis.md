@@ -129,11 +129,7 @@ its range.
 
 ## See Also
 
-- [[banisteriopsis-caapi]]
 - [[mimosa-hostilis]]
-- [[peganum-harmala]]
 - [[tabernanthe-iboga]]
-- [[diplopterys-cabrerana]]
 - [[anadenanthera-peregrina]]
-- [[catha-edulis]]
 - [[erythroxylum-coca]]

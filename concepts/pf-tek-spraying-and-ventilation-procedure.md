@@ -142,8 +142,6 @@ generate humidity through ongoing evaporation.
 It has been observed that mushrooms will grow in a properly set up dual chambered
 ## Related Concepts
 
-- [[dual-chambered-terrarium-design]] for construction details of the terrarium
 - [[pf-tek-fruiting-chamber]] for the overall fruiting environment
-- [[pf-tek-cake-birthing-technique]] for transferring cakes to the terrarium
 - [[pf-tek-perlite-humidification-technique]] for an alternative humidification method
 - [[fruiting-conditions-and-pinning]] for environmental fruiting triggers

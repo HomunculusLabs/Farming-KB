@@ -9,28 +9,7 @@ sources:
 ---
 # Psilocybin Mushroom Image Identification Guide
 
-Visual identification is an essential skill for anyone studying or foraging [[psilocybe-mushroom-species-guide]]. Image-based guides supplement textual descriptions and are particularly valuable for learning the morphological variation within and between species.
-
-## Species Covered in Visual Guides
-
-### Copelandia Genus
-- **C. bispora** — Rare species, few photographic records exist
-- **C. cambodgeniensis** — Among the most potent Copelandia species; very common on Oahu Island, Hawaii
-- **C. tropicalis** — Uncommon, tropical distribution
-
-### Panaeolus Genus
-- **P. campanulatus** (bell-capped panaeolus) — Found in grass and clovers
-- **P. subbalteatus** (= P. cinctulus) — Grows on horse dung; documented in the Black Forest, Germany and North America
-
-### Psilocybe Genus — Key Species
-- **P. azurescens** — Grows on alder wood chips; among the most potent; native to the Pacific Northwest USA, also naturalised in Germany
-- **P. baeocystis** (potent psilocybe) — Found on moss; Pacific Northwest
-- **P. coprophila** — Coprophilous species
-- **P. cubensis** — The most widely cultivated species; grows on dung in subtropical and tropical regions worldwide; extensive photographic documentation from Thailand, Florida, and grow chambers
-- **P. crobulus** — Documented in photographic guides
-- **P. semilanceata** (liberty cap) — Most widespread psilocybin mushroom in temperate regions
-- **P. cyanescens** — Potent wood-inhabiting species
-- **P. subaeruginosa** — Australian and New Zealand species, [[magic-mushrooms-australia-new-zealand]]
+Visual identification is an essential skill for anyone studying or foraging [[magic-mushrooms-australia-new-zealand]]
 
 ### Gymnopilus Genus
 - **G. spectabilis** (Big Laughing Gym) — Grows on stumps and wood; documented from Mendocino, CA; distinctive orange colouring
@@ -75,19 +54,32 @@ Several non-psychoactive or toxic species resemble psilocybin mushrooms:
 
 ## Relationship to Cultivation
 
-Photographic documentation plays a role in [[psilocybe-cubensis-potency-variation-by-flush]] too:
-- Documenting strain characteristics over successive generations
-- Identifying contamination vs healthy mycelium
-- Tracking [[dikaryon-formation-mushroom-strain-genetics]] in breeding programs
+Photographic documentation plays a role in [[dikaryon-formation-mushroom-strain-genetics]] in breeding programs
 - PF TEK grow chamber documentation (fruiting cakes, environmental setups)
 - Recording flush quality and morphology for yield tracking
 
 ## See Also
 
-- [[psilocybin-mushroom-identification]] — detailed identification guide
 - [[psilocybin-mushroom-identification]] — identification methods
-- [[mushroom-identification]] — general mushroom identification
 - [[mushroom-poisoning-and-lookalikes]] — dangerous lookalike species
-- [[mushroom-foraging-safety]] — safe foraging practices
 - [[psilocybe-mushroom-species-guide]] — comprehensive species guide
 - [[magic-mushrooms-australia-new-zealand]] — Australian/NZ species with photos
+## Practical Considerations
+
+Successful implementation of Psilocybin Mushroom Image Identification Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

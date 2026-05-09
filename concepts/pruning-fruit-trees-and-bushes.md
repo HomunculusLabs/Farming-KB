@@ -75,11 +75,7 @@ In organic systems, avoid wound paints and sealants. Make clean cuts and let the
 
 ## Related
 
-- [[organic-fruit-tree-care-calendar]]
 - [[growing-tree-fruit-organically]] for variety-specific guidance
-- [[growing-soft-fruit-organically]] for soft fruit pruning
 - [[plant-propagation-techniques]] for grafting and budding
-- [[garden-myths-planting-and-pruning]]
 - [[holzer-fruit-tree-planting-method]]
-- [[holzer-stone-fruit-varieties-and-growing]]
 - [[jadam-fruit-tree-winter-pest-control]]

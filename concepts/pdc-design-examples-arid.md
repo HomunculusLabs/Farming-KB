@@ -3,14 +3,7 @@ title: PDC Design Examples - Arid
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-
-# PDC Arid Landscape Design
-
-In the 1981 Permaculture Design Course, Bill Mollison devotes extensive attention to arid landscape design in Pamphlet III, presenting a comprehensive system for working with desert environments. This material complements the existing [[pdc-climate-design-strategies]] page with detailed desert-specific techniques.
+tags: [[pdc-climate-design-strategies]] page with detailed desert-specific techniques.
 
 ## Understanding Desert Geomorphology
 
@@ -92,10 +85,7 @@ updated: 2026-04-18
 
 ## See Also
 
-- [[mollison-arid-settlement-home-garden-design]]
 - [[permaculture-climate-zones]]
-- [[permaculture-water-harvesting-earthworks]]
 - [[tree-vine-crops-arid-tropical-mollison]]
-- [[faires-city-desert-and-cold-climate-garden-strategies]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[cool-climate-home-garden-mollison]]

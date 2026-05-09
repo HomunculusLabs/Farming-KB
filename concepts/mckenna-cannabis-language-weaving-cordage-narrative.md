@@ -11,23 +11,7 @@ type: concept
 
 # Cannabis and the Language of Story: Weaving, Cordage, and Narrative
 
-One of [[terence-mckenna-tryptamine-hypothesis]]'s most provocative arguments in *Food of the Gods* concerns the deep entanglement between cannabis as a cordage plant and the vocabulary of spoken discourse in English. He proposes that the shared terminology for weaving and storytelling reflects an ancient cultural connection between the psychoactive hemp plant and the intellectual processes behind both textile arts and narrative invention.
-
-## The Shared Vocabulary of Textile and Tale
-
-McKenna observes that the English vocabulary referring to spoken discourse is often identical to that used to describe cordage-making and weaving. One weaves a story, or unravels an incident, or spins a yarn. We follow the thread of a story and stitch together an excuse.
-
-Lies are made from whole cloth. Reality is an endless golden braid. This convergence appears across many Indo-European languages, suggesting deep antiquity for the association. McKenna asks whether this shared vocabulary is merely metaphorical or whether it reflects an actual historical connection between the intoxicating hemp plant and the cognitive processes behind both the art of weaving and the art of storytelling.
-
-## Cannabis as Multipurpose Plant
-
-Cannabis is a multipurpose plant that very early came to the attention of hunter-gatherers as a source of cordage for weaving and rope making. But unlike other cordage plants, such as the flax of central Asia or the chimbira of the Amazon, cannabis is also psychoactive.
-
-This dual nature, as both practical material and consciousness-altering substance, made it uniquely positioned to bridge the worlds of material culture and imaginative thought. The same plant that provided the physical means to create textiles may have provided the cognitive stimulation that drove the invention of narrative itself.
-
-## The Successor to Sacred Mushrooms
-
-McKenna positions cannabis as the most likely plant candidate to replace the sacred [[psilocybin-mushrooms-central-south-america-distribution]] of the older partnership cultures of the Near East. Though this transition lies far in the past, its legacy is the association of cannabis with the style and values of the partnership society.
+One of [[psilocybin-mushrooms-central-south-america-distribution]] of the older partnership cultures of the Near East. Though this transition lies far in the past, its legacy is the association of cannabis with the style and values of the partnership society.
 
 The growing presence of cannabis in Vedic society and later in Islam may have acted to slow the rise of dominator values. It gave encouragement to heterodox forces such as Shivites in Hinduism and Sufis in Islam. These groups made no secret of their reliance on cannabis as a source of religious inspiration that was particularly feminine in emphasis.
 
@@ -95,34 +79,7 @@ When used occasionally in a context of ritual and culturally reinforced expectat
 
 ## Cannabis and the Partnership Revival
 
-Everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the [[archaic-revival-philosophy]]. It diminishes the power of ego, has a mitigating effect on competitiveness, causes one to question authority, and reinforces the notion of the merely relative importance of social values.
+Everything about cannabis that makes it inimical to contemporary bourgeois values endears it to the [[cannabis-prohibition-history]], in McKenna's framework, represents not just a pharmacological judgment but a cultural war against the partnership values the plant encodes. Every society that has banned cannabis has been a [[mckenna-food-gods-cannabis-language-weaving-cordage-connection]]
 
-No other drug can compete with cannabis for its ability to satisfy the innate yearnings for Archaic boundary dissolution and yet leave intact the structures of ordinary society. The longer hair lengths for men seen with the rise of marijuana use in the 1960s were a textbook case of an influx of apparently feminine values accompanying the use of a boundary-dissolving plant.
-
-## The Metaphor Is Not Accidental
-
-McKenna insists that the shared vocabulary between weaving and storytelling is not merely poetic coincidence. When one speaks of spinning a tale, following a thread, or unraveling a mystery, these are not casual metaphors. They point to a time when the physical act of creating textiles and the cognitive act of creating narrative were intimately connected through the shared presence of cannabis.
-
-The plant that gave people cordage also gave them visions. The hands that worked hemp into rope were the same hands that gestured while recounting the myths of the tribe. The material and the imaginative were never fully separated in the partnership societies that first cultivated cannabis.
-
-## Cannabis as Memory Technology
-
-Beyond its role in storytelling, McKenna suggests cannabis may have functioned as a kind of memory technology in ancient oral cultures. The altered state it induces can enhance recall of sensory impressions and associative connections. In a culture without writing, such enhancement of mnemonic capacity would have been enormously valuable.
-
-The bard who could weave together genealogies, cosmological narratives, and practical knowledge about the natural world served a critical social function. If cannabis assisted this process, it would explain why the plant held such reverence across so many ancient cultures despite its relative mildness as a psychoactive.
-
-## The Suppression of Cannabis Knowledge
-
-The history of [[cannabis-prohibition-history]], in McKenna's framework, represents not just a pharmacological judgment but a cultural war against the partnership values the plant encodes. Every society that has banned cannabis has been a [[dominator-culture-and-partnership-society]] in the grip of hierarchical, male-dominated values.
-
-The suppression of cannabis knowledge means the suppression of the very vocabulary that connects us to our partnership past. When the metaphors become dead language, when people no longer understand why we speak of weaving stories, the cultural memory of the Archaic partnership fades that much further from reach.
-
-## Reweaving the Thread
-
-McKenna's etymological argument, while speculative, points toward a deeper truth about human culture: the technologies we use shape not only our material world but our inner world of thought and expression. Cannabis as a technology served both simultaneously. The relegalization and cultural reintegration of cannabis in the twenty-first century may, in his view, represent a partial return to this older mode of being, where the material and the imaginative are once again woven from the same thread.
-
-## See Also
-
-- [[psilocybin-compound]]
 - [[psilocybin-mushroom]]
 - [[psilocybin-mushrooms]]

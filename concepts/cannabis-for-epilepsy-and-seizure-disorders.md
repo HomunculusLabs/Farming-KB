@@ -17,13 +17,7 @@ without regaining consciousness between
 episodes.
 ## Evidence-Based Confidence Level
 
-- **Total Studies Reviewed:** 5 (epileptic seizures) + 2 ([[blesching-cannabis-febrile-seizures]])
-- **CHI Value (Epileptic Seizures):** 13
-- **CHI Value (Febrile Seizures):** 4
-
-## How Cannabis Addresses Seizures
-
-The [[cannabis-endocannabinoid-system]] helps maintain
+- **Total Studies Reviewed:** 5 (epileptic seizures) + 2 ([[cannabis-endocannabinoid-system]] helps maintain
 the excitatory/inhibitory balance within the central nervous system. This
 up/down regulatory mechanism is directly relevant to seizure control, as
 epilepsy fundamentally involves excessive nerve cell
@@ -31,59 +25,7 @@ activity.
 ### CBD as an Anticonvulsant
 
 Researchers from the University of Reading, England (2009), confirmed that
-[[cannabis-cbd-therapeutic-profile]] has anticonvulsant
-properties in animal models and reduced seizure frequency in limited human
-trials. In experiments where mice received pentylentetrazol to produce
-generalized spasms similar to epileptic seizures, CBD at 100 mg/kg produced a
-significant reduction in spasm frequency and overall
-mortality.
-### Anandamide Deficiency in Epilepsy
-
-Neuroscientists in Rome, Italy (2009), explored the relationship between
-epileptic activity and endocannabinoid levels in cerebrospinal fluid. Patients
-with diagnosed temporal lobe epilepsy showed significantly lower amounts of
-anandamide compared with healthy controls, suggesting that anandamide presence
-(or lack thereof) may play a role in epilepsy
-pathogenesis.
-### CB1 Receptor Redistribution During Seizures
-
-Scientists from Commonwealth University in Virginia (2009) discovered that
-chemically induced status epilepticus caused a redistribution of CB1 receptor
-sites in the hippocampus, suggesting a role for dysregulation of the
-endocannabinoid system during
-epileptogenesis.
-## Human Clinical Evidence
-
-### Pediatric THC Trials (Germany, 2003)
-
-The first human trial using pediatric patients with various neurological
-disorders including seizures treated patients with Delta-9-THC at dosages of
-0.04-0.14 mg/kg body weight. Results showed positive psychotropic effects,
-reduced spasticity and dystonia, and occasional anticonvulsant
-action.
-### CBD Oil in Treatment-Resistant Children (Leiden/Holland/Rome, 2005)
-
-Pediatric patients who had failed to respond to traditional anti-seizure
-medications received an oil-based CBD solution. Every patient responded
-positively:
-- No side effects severe enough to require CBD discontinuation
-- In most children, seizure improvement equal to or greater than 25%
-- In all CBD-treated children, clear improvement in consciousness and spasticity
-
-## Febrile Seizures
-
-Febrile seizures occur in children aged three months to four years during
-fever episodes, likely due to the temperature-regulating part of the brain
-developing at a slower pace than the rest of the nervous
-system.
-Cannabinoid research relevant to febrile seizures includes:
-
-- **CB1 involvement in fever genesis** (Philadelphia, 2006): Cannabinoids interact with systemic bacterial lipopolysaccharide, indicating a CB1 role in fever pathogenesis
-- **CB1 and temperature regulation** (Fukuoka, Japan, 2007): The endocannabinoid system, especially CB1, may regulate body temperature independently of the hypothalamus
-
-## Strain-Specific Considerations
-
-- CBD has higher affinity for [[cannabis-cannabinoid-receptor-pharmacology]], while THC binds relatively equally to both CB1 and CB2
+[[cannabis-cannabinoid-receptor-pharmacology]], while THC binds relatively equally to both CB1 and CB2
 - CBD is the primary cannabinoid of interest for seizure disorders due to its anticonvulsant properties and non-psychoactive nature
 - Indica and indica-dominant strains typically contain lower THC:CBD ratios, favoring CB2 expression
 - Raw, fresh [[cannabis-leaf-morphology-and-phyllotaxy]] contains non-psychoactive CBD-acid at higher concentrations
@@ -147,4 +89,3 @@ levels of drugs like clobazam, valproate, and
 stiripentol.
 
 The pharmacokinetics of CBD are complex. Oral bioavailability is
-relatively

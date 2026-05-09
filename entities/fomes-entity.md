@@ -103,10 +103,6 @@ humans are limited and more research is needed to confirm therapeutic
 potential.
 
 ## See Also
-- [[turkey-tail-trametes-versicolor]]
-
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[the-soil-food-web]]
 - [[fungal-spore-biology]]
-- [[fungal-wood-decay-types]]
-- [[laetiporus-entity]]
+- [[gourmet-mushroom-species-guide]]

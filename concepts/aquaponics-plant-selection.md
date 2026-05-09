@@ -9,7 +9,7 @@ sources: []
 
 # Aquaponics Plant Selection
 
-Plant selection in [[aquaponics]] depends on system type (media bed, raft, NFT), nutrient density of the fish water, available light, and grower experience. Some plants thrive in the nutrient-rich, constantly moist aquaponic environment while others struggle. Matching plants to system conditions is key to productivity.
+Plant selection in aquaponics depends on system type (media bed, raft, NFT), nutrient density of the fish water, available light, and grower experience. Some plants thrive in the nutrient-rich, constantly moist aquaponic environment while others struggle. Matching plants to system conditions is key to productivity.
 
 ## Best Plants for Aquaponics
 
@@ -96,4 +96,4 @@ Most nutrients are provided by fish waste converted through the nitrogen cycle. 
 
 In outdoor aquaponics, plant selection should follow seasonal temperature patterns. Pair cool-loving plants (lettuce, kale, spinach) with cold-water fish (trout) in cooler months. Switch to warm-loving plants (tomatoes, basil, peppers) with warm-water fish (tilapia) in summer. This seasonal rotation maximizes year-round production.
 
-See [[aquaponics-fish-species]] for matching fish to your climate and plant goals. [[water-management]] from [[rainwater-harvesting-systems]] can supplement system top-off water during dry periods. For natural pest control in outdoor aquaponics, [[black-soldier-fly-composting]] systems can attract beneficial insects to the growing area.
+See [[aquaponics-fish-species]] for matching fish to your climate and plant goals. Water management from [[rainwater-harvesting-systems]] can supplement system top-off water during dry periods. For natural pest control in outdoor aquaponics, [[black-soldier-fly-composting]] systems can attract beneficial insects to the growing area.

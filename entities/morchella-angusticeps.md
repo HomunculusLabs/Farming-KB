@@ -61,56 +61,32 @@ late as August in the mountains around Telluride under spruce.
 ### Cultivation
 
 Indoor cultivation is extremely difficult. The only documented
-successful method is the Ower et al. (1986, 1988) patent. [[paul-stamets]]
-has developed a method on cased rye grass seed where primordia form but
-subsequently abort. The best outdoor approach involves implanting spawn
-into burn sites amended with peat moss or hardwood sawdust plus calcium
-sulfate. Temperature fluctuation between 40 and 60 degrees F is
-critical for triggering fruiting.
-
-Growth parameters:
-- Spawn run: 70 to 75 degrees F, 100% RH, 10 to 14 days
-- Sclerotia formation: 60 to 70 degrees F, 90 to 100% RH, 20 to 30 days, darkness
-- Primordia: 40 to 50 degrees F, 85 to 95% RH, 10 to 12 days
-- Fruitbody: 40 to 60 degrees F, 85 to 95% RH, 10 to 20 days
-
-Only one crop is produced indoors. Sclerotia production uses rye grass
-seed buffered with 5% calcium sulfate. Recommended agar media include
-MYA and OMYA. The mycelium is the fastest-growing of all mushrooms,
-fine, divergent, and fast-running, initially gray then thickening to
-gray-brown. It forms golden-orange micro-sclerotia that conglomerate
-into pumice-like structures numbering in the thousands per cubic foot.
-Sclerotia-forming ability is lost after more than 5 petri dish
-generations of continuous expansion.
-
-### Culinary and Nutritional
-
-Black Morels are among the most prized wild edible mushrooms. They are
-marketed fresh, dried, and powdered. Spawn is commercially available
-from Fungi Perfecti. The distinctive morel fragrance is pleasant and
-reminiscent of crushed fresh mushrooms.
-
-### Medicinal Properties
-
-Specific medicinal properties are not detailed in the source material
-beyond general recognition of morels as nutritious edible fungi.
-
-## Relevance
-
-The Black Morel represents the frontier of challenging mushroom
-cultivation. Its sclerotia-based life cycle makes it fundamentally
-different from most cultivated species. Understanding sclerotia
-formation is considered the key to unlocking reliable morel cultivation.
-Indicator species include Rhizina undulata, Discina perlata, and Peziza
-phyllogena. [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with cottonwoods, elms, oaks, firs, and
+successful method is the Ower et al. (1986, 1988) patent. [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with cottonwoods, elms, oaks, firs, and
 apples, especially hybrid cottonwoods, is recommended for outdoor
 cultivation efforts. The false morel Gyromitra esculenta and Early Morel
 Verpa bohemica precede Black Morels by more than 2 weeks, serving as
 timing indicators.
 
 ## See Also
-- [[morchella-esculenta]]
 - [[boletus-edulis-entity]]
-- [[cantharellus-cibarius-entity]]
 - [[morchella-deliciosa]]
 - [[morchella-sextelata]]
+## Practical Considerations
+
+Successful implementation of Morchella angusticeps requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

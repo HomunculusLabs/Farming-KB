@@ -3,7 +3,7 @@ title: Island and Atoll Climate Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, climate, coastal, water-harvesting]
+tags: [[permaculture, climate, coastal, water-harvesting]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -89,11 +89,7 @@ Hurricane erosion and damage to plantations and coasts is a primary risk. Design
 
 ## Related Topics
 
-- [[coastal-permaculture-design-mollison]] - Coastal permaculture design
 - [[permaculture-designers-manual-tropical-climates]] - Tropical climate systems
-- [[permaculture-designers-manual-pioneer-species]] - Pioneer species
 - [[nitrogen-fixing-trees]] - Nitrogen-fixing trees
-- [[permaculture-designers-manual-windbreak-species]] - Windbreak species
 - [[permaculture-designers-manual-aquaculture-species]]
-- [[permaculture-designers-manual-pond-edge-planting]]
 - [[soil-erosion-control]]

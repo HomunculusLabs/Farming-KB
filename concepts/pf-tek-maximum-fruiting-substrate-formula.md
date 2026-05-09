@@ -141,9 +141,6 @@ space at the top of the jar to accommodate the dry vermiculite barrier layer.
 
 ## Related Concepts
 
-- [[pf-substrate-formula]] for the standard substrate formulation
 - [[brown-rice-flour-substrate]] for brown rice flour properties and preparation
-- [[pf-tek-dry-vermiculite-contaminant-barrier]] for the dry vermiculite layer
-  function
 - [[pf-tek-canning-jar-lid-configuration]] for lid preparation and hole punching
 - [[pf-tek-steam-sterilization-technique]] for the sterilization step

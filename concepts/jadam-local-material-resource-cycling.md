@@ -99,18 +99,11 @@ JADAM aims for farmers to produce all inputs themselves from local materials. Th
 
 ## Related
 
-- [[jadam-local-material-collection-and-use]]
 - [[jadam-making-organic-farming-inputs]]
-- [[jadam-liquid-fertilizer]]
-- [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-crop-residue-fertilizer]]
-- [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-compost-free-approach]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-food-waste-liquid-fertilizer]]
+- [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-making-organic-farming-inputs]]
-- [[jadam-cover-crop-wild-grass-symbiosis]]
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-human-manure-liquid-fertilizer]]
 - [[jadam-calcium-phosphate-fertilizer]]
 - [[jadam-nutritional-balance-fertilizer]]

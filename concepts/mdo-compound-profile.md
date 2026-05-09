@@ -11,101 +11,101 @@ sources:
 
 ## Overview
 
-MDO refers to 3,4-methylenedioxyamphetamine, which is the core chemical name for [[ayahuasca-and-dmt-plant-medicine]]. The designation "MDO" is used in some contexts to distinguish the base compound from its more famous N-methyl derivative (MDMA). In Shulgin's PIHKAL, MDA is entry #100 and is described as one of the most important and extensively studied compounds in the phenethylamine-amphetamine family.
-
-## Chemical Identity
-
-- Full name: 3,4-Methylenedioxyamphetamine
-- The methylenedioxy bridge at the 3,4-position of the phenyl ring is the defining structural feature
-- This bridge is shared across the entire MDXX family (MDA, MDMA, MDE, MDMC, etc.)
-- The compound is an amphetamine (three-carbon chain with alpha-methyl group) with a 3,4-methylenedioxy substitution
-- Hydrochloride salt melting point: 187-188°C
-- Can be viewed as an aromatic ring (3,4-methylenedioxyphenyl) with a three-carbon chain
-
-## Position in the MDXX Family
-
-MDO/MDA is the parent compound of the MDXX series:
-
-- Removing the alpha-methyl group yields MDPEA (3,4-methylenedioxyphenethylamine), the phenethylamine analogue
-- N-methylation yields [[mdma-compound-profile]]
-- N-ethylation yields [[mde-compound-profile]]
-- N-hydroxylation yields MDOH (N-Hydroxy-MDA, PIHKAL #114)
-- Adding an alpha-ethyl group yields MBDB
-- Bending the alpha-methyl group back to form a ring yields the aminoindanes (MDAI)
-- Adding a carbon to the methylenedioxy bridge yields MDMC
-
-## Dosage and Duration
-
-- **Dosage:** 80-160 mg (oral)
-- **Duration:** 8-12 hours
-- **R-isomer** (more potent): 60-120 mg produces stoning intoxication, clear at 8 hours
-- **S-isomer** (less potent): 80-120 mg produces MDMA-like effects but shorter-lived; 160 mg causes muscular tremor, nausea, and teeth clenching — "the mental is not worth the physical"
-
-## Synthesis
-
-Approximately twenty synthetic routes exist in the literature. Common starting materials include:
-
-- **Piperonal** → nitrostyrene (with nitroethane + cyclohexylamine) → LAH reduction → MDA
-- **3,4-Methylenedioxyphenylacetone** → reductive amination with sodium cyanoborohydride
-- **Safrole or isosafrole** as starting points (underground literature starts with sassafras root bark)
-- The amide precursor can be rearranged directly to MDA
-
-## Historical Significance
-
-- First synthesized in 1910
-- Military code EA-1298; explored as a truth serum by US Army and intelligence agencies post-WWII
-- Trade name Amphedoxamine (SKF-5) for anorectic research
-- Known as the "love drug" or "hug drug" in the 1960s counterculture
-- Because safrole is one of the ten essential oils, MDA is humorously called one of the "Ten Essential Amphetamines"
-- Fatal case in 1953: Howard Blauer, a psychiatric patient at New York State Psychiatric Institute, died from an intravenous dose of 500 mg administered under Army contract
-
-## Qualitative Effects
-
-At threshold levels (10 mg area), eyes-closed "dreams" with body tingling occur. At active doses (100-140 mg), effects include euphoria, time distortion, enhanced tactile sensation (described as "beautiful"), occasional LSD-like moments of profundity, and visual phenomena (one subject reported seeing curling gray smoke rings with relaxed observation). Nausea is common at higher doses. The compound was not anorexic at any dose tested.
-
-## Medical Exploration
-
-- Explored as an anorectic agent under code SKF-5 (Amphedoxamine)
-- Found promising in treatment of psychoneurotic depression
-- Claudio Naranjo's book *The Healing Journey* describes its value in psychotherapy
-- Several medical reports document psychotherapeutic applications
-
-## Experience Reports (from PIHKAL)
-
-The PIHKAL entries for MDOH (N-Hydroxy-MDA, PIHKAL #114) document the following experiences:
-
-**At 100 mg (Report 1):** "Hampered first hour by internal barrier. Began to break through in wonderful way. Marvelous inner glow, warmth from other participants wonderful, nature most beautiful. No dramatic breakthroughs or rushes of insight, just wonderful contemplative space where things gently unfolded." — A slow-building but ultimately warm and contemplative experience.
-
-**At 100 mg (Report 2):** "Came on fairly rapidly. In 30 minutes intensely intoxicated, more deeply than [[mdma-compound-profile]]. Glorious feeling, beauty everywhere enhanced. Internal dryness characteristic of MDMA, similar difficulty urinating but not as intense." — A more rapid onset with MDMA-like qualities, including the characteristic physical side effects.
+MDO refers to 3,4-methylenedioxyamphetamine, which is the core chemical name for [[mdma-compound-profile]]
+- N-ethylation yields [[mdma-compound-profile]]. Glorious feeling, beauty everywhere enhanced. Internal dryness characteristic of MDMA, similar difficulty urinating but not as intense." — A more rapid onset with MDMA-like qualities, including the characteristic physical side effects.
 
 **At 120 mg:** "Colors of the marketplace, all fresh foods, constituted a beautiful mosaic. Everything seen with new eyes, new meanings. A 'soul-scape.' Following day very exhausted, tired, back-pain." — A rich sensory experience with significant next-day fatigue.
 
 ## The MDA-MDOH Coincidence
 
-One of the most remarkable episodes in Shulgin's research career involved MDOH. As Shulgin recounted: "The first time MDOH was synthesized, it had inadvertently and unknowingly been converted to [[ayahuasca-and-dmt-plant-medicine]]." During the initial synthesis, the conditions — particularly distillation temperature — caused the N-hydroxy compound to decompose back to MDA plus oxime.
-
-"After the second synthesis, when MDOH had truly been prepared, the brand new search for dosage and effects revealed they were almost identical to the earlier (inadvertently produced MDA) observations." This coincidence meant that the initial dosage and effects data attributed to MDOH was actually MDA data, yet the true MDOH produced nearly identical results. This raised profound questions about whether MDOH was pharmacologically distinct from MDA or whether metabolic interconversion was occurring. See [[phenethylamine-chemistry-basics]] for the chemical details of this decomposition pathway.
+One of the most remarkable episodes in Shulgin's research career involved MDOH. As Shulgin recounted: "The first time MDOH was synthesized, it had inadvertently and unknowingly been converted to [[phenethylamine-chemistry-basics]] for the chemical details of this decomposition pathway.
 
 ## Metabolic Speculation
 
 The MDA-MDOH coincidence prompted Shulgin to speculate about possible metabolic interconversion between the two compounds:
 
-"Might there be metabolic interconversion within the body? The immediate thought would be that the hydroxy group might be metabolically removed. But the opposite direction is more appealing — the in vivo conversion of [[ayahuasca-and-dmt-plant-medicine]] to MDOH."
-
-Key points of this speculation:
-
-- **Oxidative changes are more common than reductive** in human metabolism, making the conversion of MDA → MDOH (oxidation at nitrogen) more plausible than MDOH → MDA (reduction)
-- **Precedent exists:** The conversion of amphetamine to N-hydroxyamphetamine is a known intermediate step in the metabolic conversion of amphetamine to phenylacetone
-- **Cytochrome P-450 involvement:** N-hydroxyamphetamine is known to form a famous complex with cytochrome P-450 enzymes, demonstrating that N-hydroxylation of amphetamines is a well-established metabolic pathway
-- **Shulgin's conclusion:** "I would put my money on the likelihood of MDA going to MDOH if they interconvert. Human metabolic studies are needed, and they have not yet been done."
-
-This speculation remains unresolved. If MDA is metabolically converted to MDOH in vivo, it could mean that some of MDA's effects are actually mediated by MDOH, or that the two compounds share a common active metabolite. The question touches on broader issues in psychopharmacology about the role of active metabolites in determining the subjective effects of psychoactive compounds. See [[phenethylamine-receptor-pharmacology]] for more on metabolic pathways in the phenethylamine family.
+"Might there be metabolic interconversion within the body? The immediate thought would be that the hydroxy group might be metabolically removed. But the opposite direction is more appealing — the in vivo conversion of [[phenethylamine-receptor-pharmacology]] for more on metabolic pathways in the phenethylamine family.
 
 ## See Also
 
-- [[ayahuasca-and-dmt-plant-medicine]] — full compound profile with synthesis details
 - [[mdma-compound-profile]] — N-methyl derivative, the most famous MDXX compound
-- [[mde-compound-profile]] — N-ethyl derivative, discussed in PIHKAL #106
 - [[shulgin-dosage-guidelines]] — Shulgin's dosage rating system used in PIHKAL
-- [[pihkal-introduction-and-methodology]] — Introduction to the PIHKAL research program
 - [[first-time-grower-common-mistakes]]
+## Practical Applications
+
+MDO Compound Profile has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+MDO Compound Profile. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

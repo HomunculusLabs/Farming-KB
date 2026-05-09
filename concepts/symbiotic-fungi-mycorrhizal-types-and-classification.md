@@ -85,26 +85,14 @@ Depending on the environment, plants may divert up to 80% or more of net energy 
 
 ## See Also
 
-- [[fungi-and-their-allies-classification]]
-
 - [[symbiotic-fungi-lichen-symbiosis-overview]]
-
-- [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]]
 
 - [[symbiotic-fungi-endophytic-fungi-in-plants]]
 
-- [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]]
-
 - [[mycorrhiza]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[ectomycorrhizal-ecology]]
 - [[ectomycorrhizal-morphological-structures]]
-- [[ericoid-and-orchid-mycorrhizae]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
-- [[glomeromycota-arbuscular-mycorrhizae]]
 - [[mycorrhizal-diversity-assessment]]
-- [[mycorrhiza-bioassays-soil-infectivity]]
 - [[mycorrhizal-agricultural-practices]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
 - [[mycorrhizal-biocontrol]]

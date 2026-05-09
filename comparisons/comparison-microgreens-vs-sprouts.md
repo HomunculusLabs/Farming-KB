@@ -123,8 +123,6 @@ Microgreens cost more but command higher prices — viable for small business. S
 
 ## See Also
 
-- [[query-how-to-grow-sprouts-and-microgreens-at-home]]
 - [[comparison-bamboo-vs-cordwood-construction]]
-- [[comparison-fruit-tree-guilds-vs-companion-planting]]
 - [[comparison-adobe-vs-rammed-earth]]
 - [[comparison-duckweed-vs-azolla]]

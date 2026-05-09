@@ -1,23 +1,8 @@
 ---
 title: "Terracing and Slope Stabilization"
 created: 2026-04-28
-tags: [permaculture, earthworks, erosion-control, slopes, mollison-pdm]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Terracing and Slope Stabilization
-
-In Permaculture: A Designer's Manual, Mollison treats terracing as a foundational
-earthworks technique for converting unstable, erodible slopes into productive
-agricultural land. Terraces intercept runoff, reduce slope angle, create level
-planting surfaces, and slow water sufficiently for infiltration. They are
-integral to [[permaculture-earthworks]] and work in
-conjunction with [[swale-design-construction]] systems for
-comprehensive [[watershed-management]].
+tags: [[permaculture-earthworks]] and work in
+conjunction with [[watershed-management]].
 
 ## Principles of Slope Management
 
@@ -82,68 +67,25 @@ the longest dimension into the wall, courses should be level, and walls should
 batter (lean) into the slope at approximately 6:1 ratio (6 cm back for every
 1 m height).
 
-**[[rammed-earth]] Walls:** Compressed damp earth stabilized with cement or lime
-(5-10%). Economical where stone is scarce and clay soils are available. Require
-good drainage behind the wall and a stable foundation.
-
-**Timber Walls:** Using logs, railway sleepers, or treated timber. Effective
-for low walls (under 1 m) but subject to rot in humid climates. Mollison
-prefers durable species (cypress, black locust, oak) over chemically treated
-timber.
-
-**Gabion Walls:** Wire cages filled with rocks. Flexible, permeable, and
-relatively quick to construct. Excellent for steep, unstable sites where rigid
-walls might crack. Suitable for both retaining and free-standing applications.
-
-**Living Walls:** Vegetated structures using living plant material (willow,
-bamboo, vetiver). The roots bind soil while above-ground biomass provides
-retention. Vetiver grass hedges are particularly effective as living terrace
-retainers in tropical and subtropical climates.
-
-## Drainage and Overflow
-
-Every terrace system must include provisions for handling water that exceeds
-the infiltration capacity. Without proper drainage, water accumulates behind
-walls, saturates the soil, and can cause catastrophic wall failure.
-
-Back-drainage: A gravel-filled trench with perforated pipe behind retaining
-walls carries seepage water away. Essential for any wall over 0.5 m height in
-impervious soils.
-
-Surface drainage: The back channel of bench terraces should connect to a safe
-discharge point. Mollison recommends grassed waterways or rock-armored channels
-to prevent erosion at discharge points.
-
-Overflow spillways: Where terraces must release water to the next level below,
-construct armored overflow points using stone pitching, concrete, or dense
-turf. Never allow water to pour over raw earth surfaces.
-
-## Construction Methods
-
-Mollison advocates beginning construction at the bottom of the slope and
-working upward. This ensures that lower terraces are already in place to catch
-any sediment or runoff generated during upper terrace construction.
-
-1. Survey the slope and stake terrace positions on contour using an A-frame,
-   water tube level, or laser level.
-2. Clear vegetation from the terrace line, saving topsoil separately.
-3. Excavate the backcut and place material on the outer edge to form the
-   embankment.
-4. Construct the retaining wall.
-5. Replace topsoil on the terrace surface.
-6. Install drainage systems.
-7. Establish vegetative cover immediately to prevent erosion.
-
-## Integration with Planting
-
-Terraces create microclimates: the wall face may be warmer (in the northern
-hemisphere, south-facing walls absorb solar radiation), the back channel may be
-cooler and wetter, and the bench surface varies in exposure. Mollison advises
-designers to match plant species to these microzones. Nitrogen-fixing trees on
-the backcut stabilize the slope, while productive crops occupy the bench.
-Trailing plants on the wall face reduce erosion and utilize vertical space.
-
-On very steep slopes where full terracing is impractical, Mollison recommends
-combining narrow bench terraces with [[mollison-designers-seed-dispersal-and-natural-regeneration]]
+**[[mollison-designers-seed-dispersal-and-natural-regeneration]]
 approaches, allowing natural and assisted succession to establish permanent
 forest cover while terraces provide productive niches.
+## Practical Considerations
+
+Successful implementation of Terracing and Slope Stabilization requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

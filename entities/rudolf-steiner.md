@@ -101,22 +101,12 @@ Anthroposophical medicine has been recognized as a distinct medical system by th
 
 ## See Also
 
-- [[biodynamic-preparations]]
 - [[permaculture]]
-- [[bill-mollison]]
 - [[david-holmgren]]
-- [[sepp-holzer]]
 - [[hugelkultur]]
-- [[food-forest]]
 - [[comfrey]]
-- [[chop-and-drop]]
 - [[swale]]
-- [[permaculture-designers-manual-keyhole-garden]]
 - [[guild-planting]]
-- [[korean-natural-farming]]
 - [[withania-somnifera]]
-- [[valeriana-officinalis]]
 - [[glycyrrhiza-glabra]]
-- [[plantago-major]]
-- [[achillea-millefolium]]
 - [[taraxacum-officinale]]

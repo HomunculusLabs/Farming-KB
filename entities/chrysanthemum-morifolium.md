@@ -105,11 +105,8 @@ The species has become invasive in some regions outside its native range, partic
 ## See Also
 
 - [[taraxacum-officinale]]
-- [[achillea-millefolium]]
-- [[calendula-officinalis]]
+- achillea-millefolium
 - [[tanacetum-parthenium]]
-- [[glycyrrhiza-uralensis]]
 - [[glycyrrhiza-glabra]]
-- [[schisandra-chinensis]]
 - [[panax-ginseng]]
 - [[lycium-barbarum]]

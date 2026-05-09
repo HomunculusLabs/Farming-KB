@@ -31,13 +31,7 @@ inappropriate treatments that can make the problem worse.
 Environmental stress is the most frequent cause of leaf curling. High
 temperatures combined with low humidity cause leaves to curl upward as the
 plant tries to reduce its surface area and limit transpiration. This
-response is closely tied to [[cervantes-vapor-pressure-deficit-transpiration]], which measures the drying force of the air on plants. When VPD is too high, plants close their stomata and curl their leaves to conserve water. Reducing grow light intensity, improving ventilation, or adding a humidifier can bring VPD back into the optimal range.
-
-Wind burn from oscillating fans placed too close to plants causes upward
-curling and sometimes a leathery texture on affected leaves. Cannabis stems
-need to gently sway for strong structural development, but constant strong
-wind forces the plant to protect itself by curling leaves inward. Proper
-[[cervantes-wind-protection-outdoor-cannabis]] indoors means
+response is closely tied to [[cervantes-wind-protection-outdoor-cannabis]] indoors means
 positioning fans so they create gentle air movement across the canopy
 without directly blasting individual plants with excessive air flow.
 
@@ -46,14 +40,7 @@ downward-curling leaves that feel heavy and limp, often accompanied by
 yellowing starting from the leaf tips. The soil remains waterlogged, roots
 become oxygen-starved, and the plant cannot take up nutrients properly even
 if they are present in the soil. Understanding the principles of
-[[cervantes-overwatering-underwatering]]
-helps growers find the right balance. As a general rule, water only when
-the top inch of soil is dry for established plants, and ensure pots have
-adequate drainage at the bottom.
-
-Underwatering produces a different pattern: leaves curl downward but feel
-dry and brittle rather than limp. The edges may become crispy and brown.
-Plants may also [[cervantes-wilting-plant-water-stress]], recovering when watered but showing increasing damage if the
+[[cervantes-wilting-plant-water-stress]], recovering when watered but showing increasing damage if the
 cycle repeats. Establishing a consistent watering schedule based on the
 plant's actual needs rather than a fixed calendar prevents this common
 mistake.
@@ -65,14 +52,7 @@ nitrogen during the flowering stage when plants need less nitrogen and more
 phosphorus and potassium. Nutrient lockout, where nutrients are present but
 unavailable to the plant due to pH imbalance, can also cause curling along
 with deficiency symptoms. Maintaining proper pH through
-[[cervantes-ph-management-testing]] ensures
-nutrients remain available in the root zone for plant uptake.
-
-Phosphorus deficiency can cause leaves to curl downward and develop dark
-blue or purple discoloration. Potassium deficiency often causes leaf margins
-to curl upward and turn brown and crispy. Calcium deficiency leads to
-distorted, curling new growth and tip burn. Each nutrient has a
-characteristic deficiency pattern, and [[cannabis-nutrient-lockout-and-ph]] should be ruled out before adding supplements, since the problem may be availability rather than deficiency.
+[[cannabis-nutrient-lockout-and-ph]] should be ruled out before adding supplements, since the problem may be availability rather than deficiency.
 
 Pest damage can also cause leaf curling. Aphids, thrips, and broad mites
 feed on new growth, causing it to twist, curl, and become distorted. Spider
@@ -94,16 +74,12 @@ problems in indoor and outdoor growing environments.
   potassium deficiency
 - Downward curling typically signals overwatering, nitrogen toxicity,
   phosphorus deficiency, or cold stress
-- Always check [[cervantes-ph-management-testing]] before adding
-  nutrients, as lockout often mimics true deficiency symptoms
-- Maintain proper [[cervantes-vapor-pressure-deficit-transpiration]] to
+- Always check [[cervantes-vapor-pressure-deficit-transpiration]] to
   prevent environment-related leaf curling
 - Inspect leaves closely for pests when curling is accompanied by spotting,
   webbing, or distorted new growth
 
 ## Related
 
-- [[query-what-causes-cannabis-plants-to-wilt-and-how-do-i-fix-it]] Questions
 - [[query-what-causes-cannabis-leaves-to-turn-yellow]]
-- [[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]
 - [[query-what-causes-nutrient-lockout-in-cannabis]]

@@ -59,40 +59,7 @@ Coltsfoot is a pioneer species characteristic of disturbed, nutrient-poor soils:
 ## Medicinal Properties
 
 ### Traditional and Historical Uses
-Coltsfoot has been one of the most important [[respiratory-herbs]] in the Western herbal tradition for over two millennia:
-
-- **Cough and bronchitis:** The primary indication — used as a soothing expectorant for productive and dry coughs, acute and chronic bronchitis, and spasmodic coughing. The herb was traditionally smoked or consumed as tea, syrup, or lozenge
-- **Asthma:** Historical remedy for asthmatic breathing difficulties; the dried leaves were historically smoked in pipes specifically for asthma relief (a practice now discouraged due to the presence of pyrrolizidine alkaloids)
-- **Sore throat and laryngitis:** Gargle or tea for inflammatory conditions of the throat and vocal cords
-- **Skin conditions:** Externally applied as a poultice for burns, wounds, ulcers, and inflammatory skin conditions. The mucilaginous content provides a soothing, protective barrier
-- **Diuretic:** Mild diuretic properties documented in traditional use
-
-### Phytochemistry
-The chemical profile of coltsfoot includes both therapeutic constituents and compounds of safety concern:
-
-**Therapeutic constituents:**
-- **Mucilages:** Polysaccharides (galactans, arabinans, glucans) — 8–10% of leaf dry weight; responsible for the demulcent, soothing, and expectorant properties
-- **Flavonoids:** Quercetin, kaempferol, luteolin, and their glycosides (including rutin, hyperoside, astragalin) — antioxidant and anti-inflammatory activity
-- **Triterpenes and sterols:** α-Amyrin, β-amyrin, friedelin, sitosterol — anti-inflammatory
-- **Tannins:** Condensed tannins contributing mild astringent activity
-- **Inulin:** A fructooligosaccharide storage carbohydrate found in the rhizome; prebiotic and mild expectorant properties
-- **Zinc:** Notably high zinc content in the leaves relative to other medicinal herbs; may contribute to immune support and wound healing
-
-**Compounds of concern:**
-- **Pyrrolizidine alkaloids (PAs):** Senkirkine and senecionine are the primary PAs identified in coltsfoot. These hepatotoxic, genotoxic, and potentially carcinogenic alkaloids are primarily concentrated in the flowers and to a lesser extent in the leaves and stems. PAs are subject to strict regulatory limits in the European Union and several other jurisdictions
-
-### Modern Safety Assessment
-The presence of hepatotoxic pyrrolizidine alkaloids has led to significant regulatory restrictions:
-
-- **German Commission E:** Approved coltsfoot only for PA-free preparations; internal use of crude herb is contraindicated
-- **ESCOP (European Scientific Cooperative on Phytotherapy):** Recommends PA-free extracts only; maximum daily PA intake should not exceed 0.007 µg/kg body weight
-- **EFSA (European Food Safety Authority):** Classifies PAs as genotoxic carcinogens; advises against any dietary exposure
-- **PA-free cultivars:** PA-free chemotypes of *T. farfara* have been developed through selective breeding and are commercially available for herbal product manufacturing in Germany and Switzerland
-
-## Permaculture and Ecological Considerations
-
-### Erosion Control and Pioneer Function
-Coltsfoot's extensive rhizomatous root system and preference for disturbed, unstable substrates make it an effective pioneer for erosion control on bare, mineral soils. The plant rapidly establishes ground cover on freshly exposed earth, stabilizing loose substrates and initiating soil-building processes through organic matter deposition. In [[permaculture-design]], coltsfoot can serve as a useful early-succession ground cover in earthworks, swale backslopes, and newly contoured land, though its aggressive spread must be managed.
+Coltsfoot has been one of the most important [[permaculture-design]], coltsfoot can serve as a useful early-succession ground cover in earthworks, swale backslopes, and newly contoured land, though its aggressive spread must be managed.
 
 ### Dynamic Accumulator
 Coltsfoot functions as a dynamic accumulator, mining minerals from subsoil layers through its deep rhizome system:
@@ -118,13 +85,6 @@ The early flowering period (February–April) provides a critical nectar and pol
 
 ## Related
 
-- [[herbal-medicine-making-basics]] Species and Allies
-
-- **[[petasites-hybridus]] (Butterbur):** Close relative in the Asteraceae; shares the rhizomatous habit and traditional use for respiratory conditions. Modern PA-free butterbur extracts are approved for migraine prophylaxis and allergic rhinitis
+- [[petasites-hybridus]] (Butterbur):** Close relative in the Asteraceae; shares the rhizomatous habit and traditional use for respiratory conditions. Modern PA-free butterbur extracts are approved for migraine prophylaxis and allergic rhinitis
 - **Tussilago farfara 'Palmanata':** A variegated cultivar with white-mottled leaves, less vigorous than the wild type and useful for contained ornamental plantings
-- **[[inula-helenium]] (Elecampane):** Related Asteraceae species; a complementary respiratory herb with expectorant and antimicrobial properties, often combined with coltsfoot in traditional formulations (when PA-free material is used)
-
-## See Also
-
-- herbal plant remedies
-- [[cannabis-terpene-profiles]]
+- **[[cannabis-terpene-profiles]]

@@ -66,42 +66,29 @@ Master Cho's Korean Natural Farming Recipe Book
 This is critical: if WP is applied with nitrogen in hot and humid conditions, or on a rainy day, a synergy effect occurs that helps the plant absorb excessive nitrogen, resulting in overgrowth. Avoid applying WP:
 - On rainy days
 - During hot, humid weather
-- In combination with nitrogen-rich inputs like [[knf-fish-amino-acid]] during warm periods
-
-## Symptoms of Potassium Deficiency
-
-1. Branch shows growth deterioration; maturity is stunted; yield/quality deteriorates
-2. Rare in early growth stages -- symptoms typically appear after plants reach a certain size
-3. Chlorosis starts from old leaves whose edges become yellowish-brown
-4. In some plants, chlorosis appears as a spot in the middle of leaves
-5. Roots and stems become thin; lignification of vascular bundles is suppressed, reducing cold resistance
-6. Seed of fruits becomes small and matures late
-7. Leaf tip may discolor and dry out even at peak growth
-
-## Causes of Potassium Deficiency Beyond Soil Depletion
-
-- Even with enough soil potassium, excess lime and magnesium suppress potassium absorption
-- Easily occurs in sandy soil with low humus because potassium leaches like nitrogen
-- Similar to nitrogen in mobility -- easily lost from sandy soils
-
-## Symptoms of Excessive Potassium
-
-1. Magnesium deficiency occurs if potassium level is excessive
-2. Symptoms similar to gas disorder, appearing in the middle part of leaves
-
-## Relationship to Other KNF Mineral Inputs
-
-- [[water-soluble-calcium-wca]] -- calcium (often used in alternation)
-- [[water-soluble-phosphoric-acid-wpa]] -- phosphorus from sesame stems
+- In combination with nitrogen-rich inputs like [[water-soluble-calcium-wca]] -- calcium (often used in alternation)
 - [[water-soluble-calcium-phosphate-wcp]] -- calcium + phosphorus from bones
-- [[knf-agricultural-mineral-water]] -- also support vegetative growth
-
-## See Also
-
 - [[knf-water-soluble-potassium-wsk]]
 
-- [[water-soluble-calcium-wca]]
 - [[water-soluble-phosphoric-acid-wpa]]
-- [[knf-nutritive-cycle-theory]]
 - [[knf-reproductive-growth-stage]]
 - [[knf-soil-and-mineral-management]]
+## Practical Considerations
+
+Successful implementation of Water-Soluble Potassium (WP) requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

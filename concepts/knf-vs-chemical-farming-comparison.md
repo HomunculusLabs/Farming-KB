@@ -12,40 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[cho-han-kyu-life-and-philosophy]] developed Korean Natural Farming (KNF) as a direct alternative to chemical agriculture. His system was born from the observation that chemical farming degrades soil, produces inferior food, and traps farmers in dependency on purchased inputs. The comparison between KNF and chemical farming reveals fundamentally different philosophies and practical outcomes.
-
-## Philosophical Foundation
-### Chemical Farming
-- Agriculture is an industrial process of food manufacturing
-- Plants need to be "fed" with chemical nutrients
-- Soil is a substrate for holding plants and delivering chemicals
-- Pests and diseases must be destroyed with chemicals
-- Bigger yields require more inputs
-- Standardization and uniformity are goals
-- Knowledge comes from agricultural research stations
-### Korean Natural Farming
-- Agriculture is a partnership with nature's living systems
-- Plants grow through their own innate powers, supported by biological inputs
-- Soil is a living ecosystem that must be nurtured
-- Pests and diseases indicate imbalance that should be corrected, not suppressed
-- Healthy soil and healthy plants produce abundant yields naturally
-- Diversity and adaptation are strengths
-- Knowledge comes from observation and local experience
-
-## Soil Management
-### Chemical Farming
-- Soil is treated as an inert medium
-- NPK fertilizers provide primary nutrients
-- Lime adjusts pH
-- Trace elements added as deficiencies appear
-- Soil compaction from heavy machinery addressed by deeper plowing
-- Organic matter declining over time
-- Soil microorganisms largely ignored or killed by chemicals
-- 1.8 million tons of sulfuric acid dumped annually on Japanese farmlands (from fertilizer)
-### Korean Natural Farming
-- Soil is a living ecosystem with 100 million+ microbes per gram
-- [[knf-indigenous-microorganism-culture]] restores and maintains soil biology
-- [[knf-fermented-mixed-compost]] builds humus and soil structure
+[[knf-indigenous-microorganism-culture]] restores and maintains soil biology
 - [[lactic-acid-bacteria-knf]] improves soil ventilation and nutrient cycling
 - No plowing needed -- soil organisms maintain structure
 - Organic matter increases each year through straw return and compost
@@ -63,26 +30,9 @@ sources:
 - No truly non-polluting pesticide exists
 ### Korean Natural Farming
 - Healthy plants have natural resistance to pests and diseases
-- [[knf-oriental-herbal-nutrient]] supports plant immune function
 - [[knf-soap-water-and-hot-pepper]] provide physical pest control
-- [[knf-brown-rice-vinegar]] creates unfavorable conditions for pathogens
-- Beneficial insects and microbes maintained through biological inputs
-- No chemical residues on food or in soil
-- Pest pressure decreases as ecosystem balance is restored
-
-## Crop Nutrition
-### Chemical Farming
-- NPK fertilizers provide nitrogen, phosphorus, potassium
-- Nutrients applied in soluble forms for rapid uptake
-- Plants absorb nutrients passively from soil solution
-- Excess nutrients leach into groundwater
-- Trace element deficiencies develop from imbalanced fertilization
-- Plants become dependent on external nutrient supply
-- Food may look good but has lower nutritional quality
-### Korean Natural Farming
 - [[knf-fish-amino-acid]] provides nitrogen in amino acid form (directly assimilated)
-- [[water-soluble-calcium-wca]] and [[water-soluble-calcium-wca]] provide minerals in bioavailable forms
-- [[master-cho-knf-ffj-fermented-fruit-juice-guide]] provide growth hormones and enzymes
+- [[water-soluble-calcium-wca]] provide minerals in bioavailable forms
 - [[knf-water-soluble-potassium-detailed]] provides potassium with multiple functions
 - Nutrients are biologically processed and plant-available
 - Plants develop efficient root systems that forage for nutrients
@@ -147,4 +97,3 @@ sources:
 - Greenhouse gas emissions from fertilizer production
 - Dead zones in waterways from nutrient runoff
 ### Korean Natural Farming
-- No chemical pollution

@@ -1,5 +1,5 @@
 ---
-title: cannabis extraction methods
+title: Cannabis Extraction Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -7,7 +7,7 @@ tags: [cannabis, extraction, solvent, hashish, kief, essential-oil, chemistry, p
 sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 ---
 
-## cannabis extraction methods
+## Cannabis Extraction Methods
 
 Cannabis extraction concentrates the psychoactive essential oils (cannabinoids and terpenes) from plant material into more potent and refined forms. Methods range from simple mechanical separation to complex chemical processing.
 
@@ -35,7 +35,7 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 ### Solvent Extraction
 
-[[ben-lemon]]'s "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
+Ben Lemon's "Cannabis Alchemy" provides a detailed solvent extraction protocol. The process follows these steps:
 
 **1. Preparation**: Plant material (marijuana or hashish) is dried and ground to the finest powder possible. Ruptured cell walls allow oil to be extracted more completely.
 
@@ -52,7 +52,7 @@ Cannabis extraction concentrates the psychoactive essential oils (cannabinoids a
 
 **4. Soxhlet washing**: After reflux, the oil-bearing solvent is drained and clean solvent is refluxed through the spent material to wash out remaining oil.
 
-**5. Solvent removal**: The solvent is distilled off using an ice-cooled condenser apparatus, leaving the essential oil behind. Pure ethanol is preferred for safety. Traces of solvent are removed by adding water and evaporating in an oil bath above the boiling point of water (100°C) but below the [[decomposition]] temperature of cannabinoids.
+**5. Solvent removal**: The solvent is distilled off using an ice-cooled condenser apparatus, leaving the essential oil behind. Pure ethanol is preferred for safety. Traces of solvent are removed by adding water and evaporating in an oil bath above the boiling point of water (100°C) but below the decomposition temperature of cannabinoids.
 
 **6. Purification**: The crude oil is dissolved in alcohol, mixed with water, then extracted with petroleum ether. Three layers separate: bottom (water/alcohol/tars), middle (wax emulsion), top (purified cannabinoids in petroleum ether). The top layer contains the most potent fraction.
 

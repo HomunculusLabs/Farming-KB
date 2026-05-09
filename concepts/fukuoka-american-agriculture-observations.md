@@ -46,15 +46,7 @@ On his 1986 return trip, Fukuoka identified the center-pivot irrigation system a
 
 ## Specific American Farms and Farmers
 
-Fukuoka's 1979 visit included significant encounters with American farmers moving toward natural methods. The Lundberg family farm in Chico, California -- one of America's largest rice operations at 7,500 acres -- began transitioning to natural methods after meeting Fukuoka. Robert Rodale of Rodale Press hosted Fukuoka at experimental farms in Emmaus, Pennsylvania. Rodale had published the American edition of The One Straw Revolution, and his [[compost-quality-standards]] research represented the organic mainstream that Fukuoka both appreciated and critiqued. More than 250 Zen centers across the U.S. were operating farms, representing another avenue for his ideas.
-
-## American and Japanese Farming Attitudes
-
-Fukuoka noted a fundamental contrast between American and Japanese approaches to agriculture. Japanese farming, even at its most intensive, retained an aesthetic and spiritual dimension -- the farmer worked with nature rather than conquering it. American agriculture was openly industrial: "farming based on petroleum energy" driven by maximum yield and minimum labor. Japanese farmers traditionally lived on their farms and understood the soil intimately across generations; American farmers managed vast acreages from pickup trucks, measuring success in bushels per acre rather than long-term soil health.
-
-## The American Organic Movement in the 1970s-80s
-
-Fukuoka's first visit coincided with rapid growth of the organic farming movement. Rodale Press had promoted organic methods since the 1940s, and by 1979 there was a thriving network of natural food stores, farmers markets, and experimental farms. The [[fukuoka-one-straw-revolution-impact]] was amplified by this existing infrastructure. However, Fukuoka was ambivalent: he appreciated organic farming's rejection of chemicals but criticized its retention of the interventionist mindset. Composting, tilling, and weed management were still forms of human control.
+Fukuoka's 1979 visit included significant encounters with American farmers moving toward natural methods. The Lundberg family farm in Chico, California -- one of America's largest rice operations at 7,500 acres -- began transitioning to natural methods after meeting Fukuoka. Robert Rodale of Rodale Press hosted Fukuoka at experimental farms in Emmaus, Pennsylvania. Rodale had published the American edition of The One Straw Revolution, and his [[fukuoka-one-straw-revolution-impact]] was amplified by this existing infrastructure. However, Fukuoka was ambivalent: he appreciated organic farming's rejection of chemicals but criticized its retention of the interventionist mindset. Composting, tilling, and weed management were still forms of human control.
 
 ## The East Coast: False Nature
 
@@ -78,33 +70,16 @@ Despite the grim picture, Fukuoka observed encouraging signs of an agricultural 
 
 ## The Role of American Universities
 
-UC Davis and UC Santa Cruz played particularly important roles in disseminating Fukuoka's ideas. UC Davis hosted his lectures and its students were among the first Americans to experiment with his methods. UC Santa Cruz's agroecology program incorporated natural farming principles into its curriculum. The [[permaculture-principles]] movement also found early academic footholds at these institutions.
-
-## The Lawn Culture Problem
-
-Fukuoka identified American lawn culture as a major obstacle to ecological recovery. He proposed replacing lawns with clover and daikon, noting that clover would win out over grass in 2-3 years, enabling daikon to grow within green manure. The manicured lawn represents nature designed for human pleasure rather than nature allowed to be itself.
-
-## America's Drying Up
-
-On his 1986 return, conditions had worsened: a third of American farmers were quitting, soil temperatures on arid land were 20-30 degrees Celsius higher than areas with green vegetation, and the self-reinforcing cycle of degradation was accelerating. Fukuoka was called "a land of artificial nature -- a nation of poverty, and that it practiced a brand of agriculture that was primitive in its approach and methods."
-
-## Legacy in Modern US Regenerative Agriculture
-
-Fukuoka's American visits planted seeds that have grown into the modern regenerative agriculture movement. The [[natural-way-of-farming-guide]] revolution in American grain production echoes his core insight about soil disturbance. The soil health movement, championed by figures like Gabe Brown, draws on principles Fukuoka articulated decades earlier: minimize disturbance, maintain living roots, keep soil covered, maximize biodiversity. His observation that American farmers on vast acreages live "more meager and deprived" lives than Japanese farmers on small plots anticipates the modern farm crisis narrative.
+UC Davis and UC Santa Cruz played particularly important roles in disseminating Fukuoka's ideas. UC Davis hosted his lectures and its students were among the first Americans to experiment with his methods. UC Santa Cruz's agroecology program incorporated natural farming principles into its curriculum. The [[natural-way-of-farming-guide]] revolution in American grain production echoes his core insight about soil disturbance. The soil health movement, championed by figures like Gabe Brown, draws on principles Fukuoka articulated decades earlier: minimize disturbance, maintain living roots, keep soil covered, maximize biodiversity. His observation that American farmers on vast acreages live "more meager and deprived" lives than Japanese farmers on small plots anticipates the modern farm crisis narrative.
 
 ## See Also
 
 - [[fukuoka-natural-farming]]
 
-- [[permaculture-principles]]
-
 - [[fukuoka-one-straw-revolution-impact]]
 
 - lawn culture
 
-- [[natural-way-of-farming-guide]]
-
 - [[compost-quality-standards]]
-- [[fukuoka-green-manure-clover-revolution]]
 - [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-natural-foods-movement-america]]

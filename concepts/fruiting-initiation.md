@@ -1,7 +1,7 @@
 ---
 title: Fruiting Initiation
 created: 2026-04-28
-tags: [mycology, fruiting, oyster-mushrooms, cultivation]
+tags: [[mycology, fruiting, oyster-mushrooms, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
@@ -10,8 +10,7 @@ type: concept
 
 # Fruiting Initiation
 
-Fruiting initiation is the transition from vegetative [[mycelial-colonization]]
-to the reproductive phase in [[mushroom-cultivation-fruiting-chambers]]. For oyster mushrooms
+Fruiting initiation is the transition from vegetative [[mushroom-cultivation-fruiting-chambers]]. For oyster mushrooms
 (*Pleurotus* spp.), this involves a deliberate environmental shift — known as
 "shocking" or "triggering" — that signals the mycelium to form primordia
 (pins) and develop into mature fruiting bodies.
@@ -120,8 +119,6 @@ but reduced FAE, allowing the mycelium to recover before re-triggering.
 
 ## See Also
 
-- [[mycelial-colonization]] — the growth phase before fruiting
 - [[oyster-mushroom-species]] — species-specific fruiting requirements
-- [[duggar-mushroom-harvest-and-post-harvest]] — handling mature mushrooms
 - [[fruiting-chamber-design]] — detailed chamber engineering
 - [[substrate-contamination]] — fruiting-phase contamination risks

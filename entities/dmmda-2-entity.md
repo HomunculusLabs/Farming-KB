@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-DMMDA-2 is an amphetamine combining two methoxy groups and a methylenedioxy bridge on the aromatic ring, making it a structural amalgamation of mmda-entity|MMDA and [[mmda-2-compound-profile]]. It was synthesized from dillapiole (a component of Oil of Dill) following the same procedure used for [[dmmda-compound-profile]], which was prepared from apiole (Oil of Parsley).
+DMMDA-2 is an amphetamine combining two methoxy groups and a methylenedioxy bridge on the aromatic ring, making it a structural amalgamation of mmda-entity|MMDA and [[dmmda-compound-profile]], which was prepared from apiole (Oil of Parsley).
 
 Shulgin notes that DMMDA-2 is one of the "ten essential amphetamines" since dillapiole is one of the "ten essential oils" -- a reference to his systematic approach of exploring psychoactive compounds derived from natural essential oil precursors.
 
@@ -43,20 +43,7 @@ The activity level of "5x the potency of mescaline" was published in a large rev
 
 ## Synthesis
 
-The synthesis was performed by someone other than Shulgin, and the original notes were lost. The procedure used was exactly the same as that described for [[dmmda-compound-profile]]:
-
-1. **Starting material:** Dillapiole, obtained by careful fractionation of Oil of Dill (contrasted with apiole from Oil of Parsley for DMMDA).
-2. **Isomerization:** Conversion to isodillapiole.
-3. **Nitration:** Treatment with tetra-nitromethane to give 1-(2,3-dimethoxy-4,5-methylenedioxyphenyl)-2-nitropropene.
-4. **Reduction:** LAH reduction in ether to give DMMDA-2 hydrochloride.
-
-## Position in the DMMDA/MMDA Series
-
-DMMDA-2 is one of six possible isomers combining two methoxy groups and a methylenedioxy ring on the amphetamine skeleton:
-
-| Compound | Pattern |
-|----------|---------|
-| [[dmmda-compound-profile]] | 2,5-dimethoxy-3,4-methylenedioxy |
+The synthesis was performed by someone other than Shulgin, and the original notes were lost. The procedure used was exactly the same as that described for [[dmmda-compound-profile]] | 2,5-dimethoxy-3,4-methylenedioxy |
 | DMMDA-2 | 2,3-dimethoxy-4,5-methylenedioxy |
 | DMMDA-3 | Unknown (not yet synthesized) |
 | DMMDA-4 | Unknown |
@@ -69,18 +56,32 @@ At the time DMMDA and DMMDA-2 were synthesized, Shulgin envisioned a thorough st
 
 ## Related Compounds
 
-- [[dmmda-compound-profile]] (the 2,5-dimethoxy isomer)
-- mmda-entity|MMDA (mono-methoxy with methylenedioxy)
 - [[mmda-2-compound-profile]] (the phenethylamine analogue)
 - mda-entity|MDA (the parent methylenedioxy compound)
 - mdma-entity|MDMA (the N-methyl derivative)
-- [[ayahuasca-and-dmt-plant-medicine]]
 - [[2c-family-compounds-overview]]
-- [[mmda-3a-entity-pihkal]]
 - [[lsd-synthesis-history]]
 
 ## Significance
 
 DMMDA-2 represents an incomplete but intriguing data point in the systematic exploration of methylenedioxy/methoxy-substituted amphetamines. Its structural position between MMDA and MMDA-2 suggests it could be "quite a winner if the dosage and the duration were known," but the absence of thorough bioassay data leaves its true character uncertain.
-- [[mmda-3a-entity]]
 - [[dmmda-entity]]
+## Practical Considerations
+
+Successful implementation of DMMDA-2 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

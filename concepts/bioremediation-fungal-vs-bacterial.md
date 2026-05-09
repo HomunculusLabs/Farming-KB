@@ -142,8 +142,6 @@ than 10
 species.
 ## See Also
 
-- [[white-rot-fungi-bioremediation]] — detailed coverage of white-rot fungi in pollutant degradation
 - [[fungal-enzymatic-capabilities]] — extracellular enzyme systems including ligninolytic pathways used in bioremediation
-- [[mycoremediation-basics]] — foundational concepts of fungal bioremediation
 - [[petroleum-hydrocarbon-bioremediation]] — fungal and bacterial approaches to hydrocarbon contamination
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]] — biochemistry of lignin-modifying enzymes in remediation contexts

@@ -106,18 +106,7 @@ Hops can be grown in home gardens with good results in temperate climates. Key c
 
 ## See Also
 
-- [[gruit-beer-and-herbs]] for the herbal tradition that preceded hops
 - [[history-of-beer-and-brewing]] for the broader story of brewing
-- [[beer-brewing-basics]] for practical brewing guidance
-- beer styles overview for how hops define modern beer styles
-- ale vs lager fermentation for fermentation science
-- herbal beer ingredients for herbs that complement or replace hops
-- malt and malting process for the grain side of brewing
-
-## Related
-
 - [[herbal-beer-ingredients]]
-- [[holzer-stone-fruit-varieties-and-growing]]
 - [[teaming-with-microbes-classic-soil-science]]
-- [[mollison-berry-production-cool-climates]]
 - [[malt-and-malting-process]]

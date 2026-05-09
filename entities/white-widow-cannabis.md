@@ -118,11 +118,7 @@ White Widow's cultural significance extends far beyond its properties as a canna
 
 ## See Also
 
-- [[sour-diesel-cannabis]] — Classic high-THC sativa-dominant hybrid for comparison
 - [[blue-dream-strain]] — Balanced hybrid with different terpene profile
-- [[girl-scout-cookies]] — Modern high-THC resinous strain descended partly from White Widow genetics
 - [[northern-lights-cannabis]] — Indica-dominant classic often compared alongside White Widow
-- [[chemdawg]] — Chemdawg lineage, a key genetic contributor to many modern hybrids
 - [[amnesia-haze]] — Sativa-dominant coffee shop classic from the same era
-- [[white-runtz]]
 - [[white-rhino]]

@@ -128,11 +128,8 @@ nematicides, and biological controls. Grafting onto nematode-resistant
 
 ## See Also
 
-- [[solanum-lycopersicum]]
 - [[capsicum-annuum]]
-- [[passiflora-edulis]]
 - [[physalis-peruviana]]
-- [[carica-papaya]]
 - [[mangifera-indica]]
-- [[ananas]]
+- ananas
 - [[punica-granatum]]

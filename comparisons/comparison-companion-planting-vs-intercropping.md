@@ -10,42 +10,6 @@ type: comparison
 # Companion Planting vs Intercropping
 Both companion planting and intercropping involve growing multiple species together for mutual benefit, but they differ significantly in scale, scientific rigor, and primary objectives. Understanding these distinctions helps growers choose the right approach for their context. This comparison covers definitions, mechanisms, advantages, limitations, and practical guidance for selecting between the two strategies.
 ## Companion Planting
-[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-Growing different plants together for mutual benefits including pest deterrence, improved pollination, nutrient sharing, and physical support.
-**Core Approach:**
-- Relies on documented plant combinations rooted in traditional gardening knowledge
-- Classic examples: Three Sisters (corn-beans-squash), tomatoes with basil, carrots with onions
-- Emphasizes holistic garden ecology over measured productivity gains
-- Drawn from centuries of gardener observation and folk tradition
-**Mechanisms:**
-- **Trap cropping:** nasturtiums draw aphids away from valued crops
-- **Nitrogen fixation:** legumes feed neighboring plants through root-zone sharing
-- **Aromatic pest deterrence:** marigolds, garlic, and strong-scented herbs repel insects
-- **Physical support:** tall crops provide structure for climbing companions
-- **Shade regulation:** taller plants protect sun-sensitive neighbors
-- **Ground cover:** low-growing species suppress weeds and retain soil moisture
-**Design Principles:**
-- Diversity of 3-4+ species per bed maximizes interaction opportunities
-- Vertical stacking exploits above- and below-ground space simultaneously
-- Root depth variation reduces direct competition for water and nutrients
-- Careful timing ensures complementary life cycles and growth patterns
-- Observation-driven: successful pairings are refined through trial and error
-**Advantages:**
-- Reduces pest pressure naturally without chemical inputs
-- Increases garden productivity per unit area
-- Improves pollination rates through diverse floral resources
-- Enhances soil fertility via complementary nutrient demands
-- Low cost; accessible to all skill levels
-- Creates visually diverse and aesthetically pleasing gardens
-- Builds ecological literacy and connection to growing systems
-**Limitations:**
-- Many traditional claims lack rigorous scientific validation
-- Benefits vary significantly by climate, pest pressure, and soil conditions
-- Requires complex planning to avoid unintended competition
-- Results can be inconsistent season to season
-- Some popular combinations are based more on folklore than evidence
-- Difficult to isolate which mechanism is responsible for observed benefits
-## Intercropping
 [[intercropping-systems]]
 Growing two or more crop species simultaneously in the same field or bed to increase total yield, reduce pests, and improve soil health through ecological interactions.
 **Five Main Types:**
@@ -116,9 +80,7 @@ Companion planting principles directly inform intercropping design. Guild planti
 **Quick Decision Rule:** If your primary concern is ecological balance and natural pest management in a garden setting, start with companion planting. If measurable yield improvement per unit area is the priority on a farm-scale operation, lean toward intercropping with documented LER data.
 ## See Also
 
-- [[comparison-polyculture-vs-intercropping]]
 - [[companion-planting-reference]] — detailed plant pairing guide
-- [[companion-planting-deterrents]] — plants that should not be combined
 - [[polyculture-design-hemenway]] — designing multi-species growing systems
 - [[crop-rotation-principles]] — temporal diversification across seasons
 Neither approach is inherently superior; the best choice depends on the grower's context, goals, and available resources. Start small, observe carefully, and scale what works.

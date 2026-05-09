@@ -2,37 +2,7 @@
 title: "Growing Room Humidification and Climate Control Systems"
 created: 2026-04-26
 tags:
-  - mushroom-cultivation
-  - climate-control
-  - humidification
-  - growing-room
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
-
-# Growing Room Humidification and Climate Control Systems
-
-With the 6-12 air exchanges per hour required during the
-and primordia formation period, full humidification within the
-growing room is difficult if drawing in dry outside air.
-This problem is solved through the conditioning of outside
-air in an intermediate chamber called a preconditioning
-plenum.
-
-## The Preconditioning Plenum
-
-The preconditioning plenum is usually located outside of
-the growing room. Its purpose is to elevate humidity and
-alter temperature to levels adjustable by the in-room
-environmental systems. One preconditioning plenum can
-supply several growing rooms, if properly designed.
-
-### Steam Humidification
-
-In [[permaculture]] designers manual or during cold winter months, the
+  - [[permaculture]] designers manual or during cold winter months, the
 preconditioning plenum can be largely humidified using
 steam. Steam provides both moisture and heat. Thermostats
 located in the preconditioning plenum and/or growing room
@@ -133,6 +103,5 @@ especially impact the quality of the crop. By consistently
 following well-defined rules of conduct, the growing room
 environment can be stabilized for consistent production.
 
-See also: [[growing-gourmet-growing-room-ventilation-air-exchange]]
 See also: [[growing-gourmet-indoor-growing-environment]]
 See also: [[growing-gourmet-fruiting-parameters]]

@@ -30,7 +30,7 @@ Key benefits of reishi include:
 - Improved sleep quality and overall resilience
 Reishi has a long history of use in Traditional Chinese Medicine, where it is
 classified as a superior herb. For a deeper look at its pharmacology, see
-[[reishi-mushroom-medicinal-properties]] and [[ganoderma-lucidum]].
+[[ganoderma-lucidum]].
 ## Lion's Mane (Hericium erinaceus)
 Lion's mane is best known for its neuroprotective and cognitive-enhancing
 effects. It stimulates production of nerve growth factor (NGF) and
@@ -43,7 +43,7 @@ Key benefits of lion's mane include:
 - Emerging evidence for reducing symptoms of anxiety and depression
 Hericenones and erinacines, the primary active compounds, are unique to lion's
 mane and are not found in other medicinal mushrooms. Cultivation details are
-covered at [[lions-mane-cultivation]] and [[hericium-erinaceus]].
+covered at [[hericium-erinaceus]].
 ## Chaga (Inonotus obliquus)
 Chaga grows on birch trees in cold climates and is one of the most
 antioxidant-rich substances found in nature. It contains superoxide dismutase
@@ -54,19 +54,7 @@ Key benefits of chaga include:
 - Support for immune function and overall cellular health
 - Skin health promotion due to melanin and antioxidant content
 Chaga is commonly prepared as a tea or dual extract. Full medicinal details are
-available at [[chaga-inonotus-obliquus-medicinal-profile]].
-## Cordyceps (Cordyceps sinensis / militaris)
-Cordyceps is prized for its energy-enhancing and performance-boosting
-properties. The bioactive compounds cordycepin and adenosine improve cellular
-energy production, oxygen utilization, and VO2 max.
-Key benefits of cordyceps include:
-- Increased ATP production for sustained physical energy
-- Enhanced athletic performance and endurance
-- Improved oxygen delivery and respiratory efficiency
-- Support for kidney health and healthy libido
-Cordyceps militaris is the most commonly cultivated species, as wild Cordyceps
-sinensis is extremely rare and expensive. For sourcing and cultivation methods,
-see [[cordyceps-cultivation]].
+available at [[cordyceps-cultivation]].
 ## Shiitake (Lentinula edodes)
 Shiitake is both a culinary staple and a potent medicinal mushroom. Lentinan,
 a high-molecular-weight polysaccharide in shiitake, has strong
@@ -78,28 +66,7 @@ Key benefits of shiitake include:
 - Rich nutritional profile including B vitamins, copper, and selenium
 Shiitake is one of the most accessible medicinal mushrooms and can be
 incorporated into daily cooking. Compound-level details are at
-[[shiitake-medicinal-compounds]].
-## Turkey Tail (Trametes versicolor)
-Turkey tail is one of the most extensively researched mushrooms in oncology
-and immunology. Its polysaccharopeptide (PSK) and polysaccharide krestin (PSP)
-are approved as adjunct cancer therapies in countries like Japan.
-Key benefits of turkey tail include:
-- Immune modulation as an adjunct in cancer treatment protocols
-- Enhancement of natural killer (NK) cell activity
-- Support for gut microbiome health and diversity
-- Antiviral properties, notably studied in HPV research
-Turkey tail is widely available and affordable, making it one of the most
-practical choices for immune support.
-## Agaricus blazei
-Agaricus blazei, also known as the "sun mushroom" or "almond mushroom,"
-originates from Brazil and is rich in beta-glucans and ergosterol.
-Key benefits of Agaricus blazei include:
-- Potent immune-enhancing activity through beta-glucan content
-- Anti-tumor properties demonstrated in preclinical and clinical studies
-- Anti-diabetic effects via blood sugar regulation
-- Hepatoprotective and anti-inflammatory actions
-It is widely used in complementary and integrative cancer protocols, especially
-in Japan and Brazil. More information is available at [[agaricus-blazei]].
+[[agaricus-blazei]].
 ## Preparation Methods
 The therapeutic value of medicinal mushrooms depends heavily on how they are
 prepared and processed. Different compounds require different extraction methods:
@@ -140,11 +107,8 @@ When sourcing medicinal mushroom products, prioritize suppliers who provide:
 - Third-party testing for heavy metals, pesticides, and microbial contamination
 - Identity verification through DNA or analytical testing
 - Clear labeling of fruiting body versus mycelium content
-- Transparency about extraction methods used
 ## See Also
 
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
-- [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-most-medicinal-mushrooms]]
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]

@@ -72,44 +72,8 @@ Mix fertilizer with water and apply with each watering. Use a siphon applicator 
 
 ### Foliar Feeding
 
-Spray liquid fertilizer solution on foliage. See [[cannabis-foliar-feeding]] for detailed guidelines.
+Spray liquid fertilizer solution on foliage. See [[cervantes-chemical-fertilizers-guide]]
 
-## Stage-Specific Fertilizer Programs
-
-### Germination and Seedling Stage
-
-High phosphorus intake for root development.
-
-### Vegetative Growth Stage
-
-Use a general-purpose or "grow" fertilizer with high nitrogen content. Larger amounts of nitrogen for green-leaf growth; phosphorus and potassium also necessary in substantial levels.
-
-### Flowering Stage
-
-Use a "super bloom" fertilizer with less nitrogen and more potassium, phosphorus, and calcium to promote fat, heavy, dense buds. Cannabis needs some nitrogen during flowering but very little -- with no nitrogen, buds do not develop to full potential.
-
-## Preventive Maintenance
-
-Leach soil with 1-2 gallons (4-8 liters) of mild nutrient solution per gallon of soil every month. This is the best form of preventive maintenance against toxic salt buildup.
-
-## Advantages Over Organic Fertilizers
-
-- Easy to measure exact amounts for each growth stage
-- Easy to flush from growing medium
-- Precise EC and pH management possible
-- Consistent nutrient content in every batch
-- Faster plant response to corrections
-
-## Choosing a Fertilizer
-
-The diversity of hydroponic fertilizers is extensive. Local shop owners know which work best in the local climate and water. Read the entire fertilizer label and follow directions. Always choose fertilizers that list a specific analysis for each trace element.
-
-## See Also
-
-- [[cervantes-chemical-fertilizers-guide]]
-
-- [[cannabis-organic-fertilizers]]
 - [[cannabis-nutrient-solution-preparation]]
-- [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-nutrient-toxicity]]
 - [[cannabis-foliar-feeding]]

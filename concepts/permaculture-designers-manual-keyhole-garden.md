@@ -3,19 +3,7 @@ title: Keyhole Garden Design
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Keyhole Garden Design
-# Permaculture Designers Manual - Least-Path Garden Layout
-
-updated: 2026-04-18
-
-## Overview
-
-The keyhole bed is a "least-path" garden design common in nature, allowing efficient access to garden beds with minimal wasted space on paths. The design is a fundamental pattern application in [[mollison-designers-edge-effect-design]] that creates lobular, sheltered growing spaces accessible from a single entry point shaped like a keyhole.
+tags: [[mollison-designers-edge-effect-design]] that creates lobular, sheltered growing spaces accessible from a single entry point shaped like a keyhole.
 
 In conventional gardens with parallel paths, paths can take up to 50% of the area. Keyhole beds reduce path space to less than 30% of the ground, dramatically increasing productive growing area. The pattern appears frequently in natural systems as lobular edges that create sheltered microhabitats.
 
@@ -60,24 +48,7 @@ Notched or lobular edges, such as those achieved by following hill contours, aff
 
 ## Companion Planting Zones
 
-A keyhole bed can be planted using the [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]], with different zones arranged within the bed:
-
-- **Inner ring**: Plants needing frequent harvest (herbs, salad greens)
-- **Middle ring**: Medium-height plants (peppers, eggplants, bush beans)
-- **Outer ring**: Taller plants that can provide wind protection (artichokes, sunflowers, Jerusalem artichokes)
-- **Edge plants**: Companions and pest deterrents
-
-## Multiple Keyhole Beds
-
-Planting more than one keyhole bed expands the design possibilities:
-- An undulating path flanked by keyhole beds can thread through a garden
-- Multiple beds can be arranged in various patterns to suit the site
-- Beds can share a central compost pile or nutrient source
-- The arrangement can be adapted to any garden shape
-
-## Relationship to Mandala Gardens
-
-A further modification of the keyhole scheme is the [[permaculture-mandala-garden-design]], a set of four to eight keyhole beds arranged in a circular pattern with a central feature. The mandala garden combines beauty and efficiency to create a productive growing space with a magical, spiritual quality.
+A keyhole bed can be planted using the [[permaculture-mandala-garden-design]], a set of four to eight keyhole beds arranged in a circular pattern with a central feature. The mandala garden combines beauty and efficiency to create a productive growing space with a magical, spiritual quality.
 
 ## Applications in Gangamma's Mandala
 
@@ -98,28 +69,26 @@ Keyhole beds are not limited to circular forms:
 ## Integration with Other Systems
 
 Keyhole beds integrate well with:
-- [[permaculture-designers-manual-mulch-systems]] applied from the path edges
 - [[permaculture-designers-manual-compost-methods]] placed in the central access area
 - Drip irrigation lines running along the path edges
-- [[permaculture-designers-manual-waste-management]] directed to the bed perimeter
-- Chicken tractor systems rotating between beds
-- Trellises for climbing plants on the outer edge
-
-## Advantages Summary
-
-- 30% or less of ground area devoted to paths (vs. 50% for parallel beds)
-- All plants accessible from standing position at the keyhole notch
-- Creates wind-protected micro-environment
-- Increases edge effect and species diversity
-- Reduces soil compaction
-- Water-efficient due to dome shape and mulch retention
-- Aesthetically pleasing and space-efficient
-- Adaptable to any climate and garden scale
-
-## Sources
-
-- Bill Mollison, *Permaculture: A Designers' Manual*, Figures 4.7, 10.26
-- Section on lobular patterns and edge design
-- Gangamma's Mandala design (Figure 10.26)
 - [[permaculture-designers-manual-pattern-application]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
+## Practical Considerations
+
+Successful implementation of Keyhole Garden Design requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

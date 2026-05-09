@@ -4,7 +4,7 @@ created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
-tags: [mycology, mushroom-hunting, field-identification, fungi, north-america]
+tags: [[mycology, mushroom-hunting, field-identification, fungi, north-america]
 related: [palmer-edible-mushrooms-north-america, palmer-poisonous-mushrooms-deadly-species]
 type: concept
 updated: 2026-04-26
@@ -18,7 +18,7 @@ Palmer's *About Mushrooms* (1894) is one of the earliest American works offering
 
 Palmer proposed an original classification of fleshy fungi into four groups based on the spore-bearing surface found under the cap. He advised beginners to examine any toadstool by inverting it and observing one of four structures:
 
-1. **[[agar]]icini (Agarics)** -- Thin plates (gills) radiating from a central stem, like spokes of a wheel. The largest family of mushrooms, including the common cultivated mushroom (*[[agaricus-campestris]]/arvensis*).
+1. **[[agaricus-campestris]]/arvensis*).
 
 2. **Boleti** -- A fine sponge or mass of tubes replacing gills. Distinguished from their "twin brothers" the Polyporei by growing from the ground (not wood) with a distinct stem and easily separable tubes.
 
@@ -69,8 +69,7 @@ For experienced foragers testing a new species, Palmer described a gradual appro
 
 ## See Also
 
-- [[palmer-edible-mushrooms-north-america]] -- Specific edible species described by Palmer
- - [[palmer-poisonous-mushrooms-deadly-species]] -- The Amanita family and fatal poisonings
+- [[palmer-poisonous-mushrooms-deadly-species]] -- The Amanita family and fatal poisonings
 - [[mushroom-identification]]
 
 ## Boletus Identification Guidelines

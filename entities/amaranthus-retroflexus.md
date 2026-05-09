@@ -4,25 +4,8 @@ type: species
 tags:
   - herbal-plant
   - edible-weed
-  - [[permaculture]]
-  - amaranthaceae
   - [[permaculture-pioneer-species]]-species
-  - [[fungal-soil-remediation-persistent-pollutants]]-remediation
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://en.wikipedia.org/wiki/Amaranthus_retroflexus
-  - Kirsche, C. (2015). "Amaranthus retroflexus — a cosmopolitan weed." Weed Research.
-  - USDA Natural Resources Conservation Service. "Plant Guide: Amaranthus retroflexus."
----
-
-# Amaranthus retroflexus
-
-## Overview
-
-*Amaranthus retroflexus*, commonly known as redroot [[amaranthus-palmeri]], rough pigweed, or green amaranth, is an annual herbaceous plant in the family Amaranthaceae. Despite being classified as one of the world's most widespread agricultural weeds, it is also a highly nutritious edible plant with deep roots in hu [[mollison-town-permaculture-urban-food-systems]] tems across multiple continents. The species exemplifies the blurred boundary between "weed" and "crop" and is increasingly recogni [[water-harvesting-and-conservation-in-permaculture]] ture [[faires-mushroom-growing-and-foraging]] communities as a valuable resource.
-
-Native to [[palmer-edible-mushrooms-north-america]], *A. retroflexus* has become a cosmopolitan species found on every inhabited continent. It is a vigorous pioneer species capable of rapidly colonizing disturbed soils, making it both a challenge for conventional agriculture and an ally in ecological restoration.
+  - [[amaranthus-palmeri]], rough pigweed, or green amaranth, is an annual herbaceous plant in the family Amaranthaceae. Despite being classified as one of the world's most widespread agricultural weeds, it is also a highly nutritious edible plant with deep roots in hu [[water-harvesting-and-conservation-in-permaculture]] ture [[palmer-edible-mushrooms-north-america]], *A. retroflexus* has become a cosmopolitan species found on every inhabited continent. It is a vigorous pioneer species capable of rapidly colonizing disturbed soils, making it both a challenge for conventional agriculture and an ally in ecological restoration.
 
 ## Taxonomy and Classification
 

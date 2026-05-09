@@ -37,31 +37,7 @@ matter. Topsoil is formed over the years by the addition of organic
 matter. It is inhabited by a wide range of living organisms, and it is
 in this layer that the majority of the feeding roots of plants exist.
 Topsoils can be improved and deepened by the regular addition of organic
-matter through [[mollison-designers-composting-toilets-and-humanure]].
-
-The second layer is the subsoil, which is low in nutrients, generally
-contains few or no microorganisms, and is therefore inhospitable to
-roots. The third layer, the parent material, is the original mineral
-from which the soil was formed and is normally deep enough not to
-concern the gardener.
-
-## The Five Main Soil Types
-
-### Clay Soil
-A heavy, cold soil which feels sticky when moist and hard and compacted
-when dry. The minute particles are less than 0.002mm in size. Clay does
-not drain easily and is difficult to work in wet conditions. However,
-it is possible to turn it into a very workable fertile soil. Clay soils
-are normally well supplied with plant foods and are capable of
-supporting a wide variety of plants.
-
-### Sandy Soil
-A dry, light soil that will feel gritty if rubbed between your fingers.
-Sand particles range in size from 0.2mm to 2mm. Sandy soil is easy to
-work and particularly good because it warms up quickly in the spring.
-Because it is free-draining, nutrients tend to be lost easily so it will
-need to be supplemented with a great deal of organic matter as well as
-extra [[cannabis-organic-fertilizers]].
+matter through [[cannabis-organic-fertilizers]].
 
 ### Silt Soil
 Silt particles are between 0.002mm and 0.02mm, making silt smooth and
@@ -118,22 +94,15 @@ pH test kit. Most vegetables thrive in a pH of about 6.5.
 
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-
 - [[mollison-designers-composting-toilets-and-humanure]] for improving soil organic matter
-- [[cannabis-organic-fertilizers]] for nutrient management
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the philosophy behind soil care
-- [[mycorrhizal-weed-control]] for surface soil management
 - [[composting]]
 
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

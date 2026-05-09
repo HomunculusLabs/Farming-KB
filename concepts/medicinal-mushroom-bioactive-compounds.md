@@ -1,7 +1,7 @@
 ---
 title: Medicinal Mushroom Bioactive Compounds
 created: 2026-04-28
-tags: [mycology, medicinal-mushrooms, beta-glucans, bioactive-compounds]
+tags: [[mycology, medicinal-mushrooms, beta-glucans, bioactive-compounds]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -135,8 +135,6 @@ through T-cell activation and dendritic cell maturation.
 
 ## See Also
 
-- [[medicinal-mushroom-extraction-bioactive-compounds]]
 - [[cotter-mushroom-nutrition-medicinal-compounds]]
-- [[medicinal-mushroom-compounds-and-health-benefits]]
 - [[medicinal-mushroom-compounds]]
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

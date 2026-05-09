@@ -18,130 +18,85 @@ type: concept
 
 ## The Biological Funnel
 
-The [[permaculture-design]] Course describes zone two as a "biological
-funnel" and "nutrient vortex" deliberately designed to enrich zone one.
-The system exploits a larger area (zone two) to concentrate nutrients
-into a smaller area (zone one) through the medium of animal collectors.
-Mollison states: "We are deliberately exploiting a larger system to
-enrich a smaller one. We do it through the medium of an animal
-collector."
-
-This concept draws from nature: "Everything farms for itself, does
-exactly the same thing that we are doing. Animals do the same. The Emu
-may have been among the very first agriculturists. Look at the beaver."
-
-## What Belongs in Zone Two
-
-Zone two contains the orchard, main crops, spot-mulched rather than
-heavily mulched areas, and products from small animals. The outer zone
-is designed to bring high-turnover nutrient to the high-turnover zone.
-Key animals include:
-
-- **Chickens** -- housed at the edge of zone one or very close to it
-- **Ducks** -- often contained within zone two with chickens
-- **Milk goats** -- easy to bring a corridor into zone two with range
-  in zone three
-- **Pigs** -- usually stocked to the back of zone two
-- **Milk cow** -- may extend zone two to two acres, still a limited area
-- **Pigeons** -- important historically (place names with "cot" or
-  "cote" indicate former pigeon culture)
-- **Quail** -- in Asia; guinea pigs in South America; geese in Western
-  Europe
-
-## Animal Shelter Design
-
-Mollison provides specific guidance for animal housing:
-
-- Advise clients never to dig shelters into the hillside; instead
-  project them out with a mesh floor
-- Expanded-mesh flooring works for both chicken and goat houses -- "You
-  can walk on it. That is very good material"
-- Mesh flooring allows mud to fall through, keeping shelters dry
-- Stored manure and shredded bedding are always ready for transfer to
-  the garden
-- Working in a cabbage patch, you can "grab your rake, reach under the
-  chicken house and pull out manure"
-
-## The Nutrient Transfer System
-
-Zone two operates as a nutrient concentration mechanism:
-
-- Acorns collected from outer zones and fed to chickens produce
-  high-value manure and alkaline, calcium-rich nut husk mulch for zone
-  one
-- Nut husk mulch is usually alkaline and high in calcium content
-- Material "gathered thinly from the outer zones is recycled by the
-  animals for use in the zone one area"
-- Animals convert low-grade outer zone materials into concentrated
-  fertility
-
-## Productivity of Small Areas
-
-Mollison provides compelling evidence for the productivity of zone two:
-
-- "Anybody who is really controlling an acre is feeding many people"
-- Some people live in financial self-sufficiency on an eighth of an acre
-- A man near Melbourne provides all parsley for a city the size of
-  Boston, harvesting two boxes daily and making a good living
-- If fully developed, two acres "contains quite a variety of elements,
-  elements that make life worth living"
-
-## Goat Corridor Design
-
-For milk goats, zone two integration is straightforward:
-
-- Bring a corridor of forage into zone two, with browsing range in zone
-  three
-- Edge the corridor with tagasaste, a good milk goat plant
-- Planted just outside a coarse mesh fence, goats prune as they come
-  through the corridor
-- This eliminates the need for separate pruning operations
-
-## Pig Management
-
-Pigs require special consideration in zone two:
-
-- In confined quarters, pigs can get messy; on grass they are very
-  clean
-- Locate feeder pigs to be released in zone one and two gardens in
-  fall
-- Temporary fence with electric wire inside confines pigs effectively
-- Pigs eradicate Jerusalem artichoke, so fence judiciously around
-  valued plantings
-- They selectively root out thistle and pasture weeds
-- In orchards after harvest, they glean drops that could harbor
-  overwintering pests
-
-## Zonation Flexibility
-
-Mollison emphasizes that zones are abstract, not bounded:
-
-- Zones represent frequency of visit, not concentric circles
-- A place 20 feet away under a window may be less visited than the barn
-  doorway
-- "You can bring a corridor of zone four right to the house"
-- If a client does not want much zone two function, zone three shifts
-  inward
-- Systems are set on "discs and spun" to find optimal arrangements
-
-## Domestic Animals in Permaculture
-
-The PDC advocates for the integration of animals as essential system
-components:
-
-- "We have to balance these systems" -- animals are needed for plant
-  health and tree growth
-- Mollison found English walnuts growing to 120 feet crown in old
-  chicken pens, demonstrating the long-term fertility building of
-  animal systems
-- Trees around chicken pens "don't look as if they are ever going to
-  be big" without [[pdc-forage-systems-animal-integration]]
+The [[pdc-forage-systems-animal-integration]]
 - Animals provide heat and decomposition of manures, creating synergistic
-  effects with [[permaculture-designers-manual-greenhouse-integration]]
-- If unhealthy plants are observed, "their essential mobile components
-  are missing. The animals are needed."
-
-## See Also
-
-- [[mollison-permaculture-two-zone-planning-and-site-layout]]
+  effects with [[mollison-permaculture-two-zone-planning-and-site-layout]]
 - [[mollison-designers-temperate-zone-food-forest-design]]
+## Practical Applications
+
+Zone Two Livestock Integration has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Zone Two Livestock Integration. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

@@ -8,11 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-
 ---
 # Bee Forage Systems Design
 
-A bee forage system is a deliberately designed assemblage of plants that provides nectar and pollen across as many months of the year as possible. In [[permaculture-design-course-methodology]], bee forage integrates with windbreaks, shelterbelts, orchard understories, and water margins for maximum function stacking.
-
-## Design Strategy
-
-The goal is to ensure no gap in the flowering calendar. Where possible, introduce a whole range of plants to extend the flowering season across all twelve months. This supports not only honeybees but also native bees, wasps, and other pollinators critical to [[berry-fruit-production-in-permaculture]].
+A bee forage system is a deliberately designed assemblage of plants that provides nectar and pollen across as many months of the year as possible. In [[berry-fruit-production-in-permaculture]].
 
 ## Seasonal Flowering Calendar
 
@@ -62,16 +58,13 @@ Supplement native forest with multipurpose species that flower out of season wit
 Introduce bee forage plants directly into pasture:
 - Clovers, cowpea, lotus, lucerne, lupins
 - Tagasaste at orchard margins
-- These also serve as [[permaculture-plants-ground-covers-and-accumulators]] and [[nitrogen-fixing-trees-and-shrubs]]
+- These also serve as [[nitrogen-fixing-trees-and-shrubs]]
 
 ### Orchard Understory
 Plant bee forage beneath fruit trees:
 - Tagasaste and lucerne as universal fruit tree companions
 - Garlic, chives, and herbs for additional bee attraction
-- Allow some herbs to flower (see [[permaculture-herb-plants]])
-
-### Water Margins
-[[edible-aquatic-plants]] at pond edges provide additional forage:
+- Allow some herbs to flower (see [[edible-aquatic-plants]] at pond edges provide additional forage:
 - Water mint
 - Marsh marigold
 - Iris species
@@ -89,10 +82,8 @@ Plant bee forage beneath fruit trees:
 - Progressive rotational grazing of tagasaste maximizes its flowering period
 - Willows flower when few other plants are blooming -- critical for early-season bee support
 - Deciduous trees allow understorey bee plants to grow over winter
-- Combine bee forage design with [[insectary-plants-for-pest-control]] for comprehensive beneficial insect support
-- See also [[pollinator-habitat]] for habitat design principles
+- Combine bee forage design with [[pollinator-habitat]] for habitat design principles
 
 ## See Also
 
-- [[2c-d-pihkal-entry-23]]
 - [[faires-pasture-forage-tree-systems]]

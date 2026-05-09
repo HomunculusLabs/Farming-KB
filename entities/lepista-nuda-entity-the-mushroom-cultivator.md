@@ -20,44 +20,7 @@ Lepista nuda (Bull. ex Fr.) Cooke is a basidiomycete mushroom in the order Agari
 - Rhodopaxillus nudus
 
 The genus name Lepista comes from the Greek "lepis" meaning scale, while the
-species epithet nuda comes from "nudus" meaning naked. As [[paul-stamets]] notes,
-this constitutes a contradiction of terms, literally translating as "the scaly
-smooth mushroom." The common name "Blewit" derives from "blue foot," referring
-to the distinctive bluish violet stem base. Genetic characteristics include
-tetrapolar basidia forming four haploid spores. The species is heterothallic,
-requiring mating between compatible monokaryons. Dikaryons possess clamp
-connections, distinguishing the mycelium from contaminant molds.
-
-## Morphology
-
-The Blewit is a moderately large mushroom with distinctive coloration. The cap
-is typically violet when fresh, becoming buff brown as it dries. The cap surface
-is smooth, without hairs, and dry to the touch. In young specimens the cap is
-convex or broadly convex, expanding to plane at maturity. The cap margin is
-inrolled or incurved when young and becomes simply decurved at maturity.
-
-The gills are a pale violet color, sometimes developing brownish hues with age.
-Gill attachment is adnexed or ascending. The stem is equal overall but bulbous
-at the base, covered with fine fibrils over much of its surface. A partial veil
-is absent. The spore deposit is pale pinkish tan, which helps distinguish Lepista
-nuda from other violet colored mushrooms.
-
-The mycelium of Lepista nuda is one of its most distinctive features, often
-showing remarkable purplish blue hues. Mycelial growth is linear to cottony
-in type, and the violet pigmentation can vary depending on the strain and the
-media upon which the mycelium is grown.
-
-## Habitat and Ecology
-
-Lepista nuda is commonly occurring from summer to late fall across much of the
-temperate regions of North America and Europe. This saprophytic wood and litter
-decomposer is found in and around decomposing piles of sawdust, in conifer
-duff, amongst leaves, and in mature compost piles.
-
-The fruiting mechanism may be partly controlled by bacterial flora associated
-with leaf mulch and the decomposition process. J. Garbaye et al. (1979) showed
-that supplementation of natural patches with NPKCa mineral fertilization
-induced large fruitings of Lepista nuda as well as [[boletus-edulis-entity]] and Lepiota
+species epithet nuda comes from "nudus" meaning naked. As [[boletus-edulis-entity]] and Lepiota
 rachodes. Singer (1963) reported that mycelium implanted in beds of horse
 manure and straw compost for seven to fourteen months produced mushrooms
 directly after the appearance of rhizomorphs.
@@ -142,8 +105,6 @@ this species as one of high culinary appeal.
 
 ## See Also
 
-- [[lepista-nuda]]
 - [[agaricus-brunnescens]]
-- [[coprinus-comatus-cultivation]]
 - [[pleurotus-ostreatus]]
 - [[lepista-sordida]]

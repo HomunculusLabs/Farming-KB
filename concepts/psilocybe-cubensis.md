@@ -60,45 +60,7 @@ The Free Spore Ring Europe, a non-profit organization, distributed various strai
 
 ## Natural Habitat and Distribution
 
-Unlike [[psilocybe-semilanceata]], which is widespread in temperate Europe, Psilocybe cubensis is a subtropical and tropical species. It is not reported to grow wild in Europe. In its natural range, which spans much of Central and South America, Southeast Asia, and parts of Australia and Africa, it typically grows on bovine or equine dung in humid grasslands and pastures.
-
-## Potency
-
-Psilocybe cubensis is considered a moderate-potency species within the Psilocybe genus. [[psilocybin-compound]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[psilocybe-semilanceata]], which may contain up to 1% psilocybin, or high-potency species like Psilocybe azurescens and Psilocybe bohemica.
-
-Because of this moderate potency profile, Psilocybe cubensis is sometimes characterized as a more manageable species for inexperienced users. However, individual sensitivity varies considerably and potency is never guaranteed from batch to batch, making reliable dosing difficult without analytical testing.
-
-## Dosing and Administration
-
-For dried Psilocybe cubensis, commonly cited recreational doses range from 1 to 5 grams. Fresh mushrooms, which are approximately 90% water by weight, require doses of roughly 10 to 50 grams to achieve similar psychoactive effects. The onset of effects occurs between 10 and 60 minutes after ingestion, depending on whether the mushrooms are eaten raw, chopped and swallowed, brewed as tea, or consumed with food.
-
-The duration of psychoactive effects typically lasts 2 to 6 hours, with aftereffects such as difficulty sleeping persisting an additional 2 to 6 hours. Users report that eating the mushrooms mixed or cooked into food may cause additional nausea and vomiting compared to consuming them raw or as tea.
-
-## Market Presence in Europe
-
-In the Netherlands, Psilocybe cubensis varieties constituted the primary stock of smartshop inventories, with the Dutch Risk Assessment Report of 2000 estimating that magic mushrooms accounted for approximately 50% of smartshop turnover. The species was the most commonly sold type through both physical retail outlets and online shops.
-
-In the UK prior to the July 2005 ban, Psilocybe cubensis was widely available through approximately 300 shops and market stalls across the country. Online shops, 82% of which were based in the Netherlands according to a January 2006 survey, also primarily stocked cubensis varieties with international shipping options. Prices for fresh Psilocybe cubensis ranged from 8.50 to 45.28 EUR for 30 grams across online shops surveyed.
-
-## Identification Characteristics
-
-Psilocybe cubensis mushrooms are relatively large compared to other psilocybin-containing species, with caps that can reach several centimeters in diameter. Like most psilocybin mushrooms, they are small to medium brown or tan mushrooms that bruise blue when handled. This blue-bruising reaction is caused by the oxidation of psilocin upon contact with air and is a characteristic shared across many psilocybin-containing species.
-
-However, blue-bruising is not unique to psychoactive mushrooms. Numerous non-psychoactive, inedible, or poisonous mushroom species also exhibit blue-bruising reactions, making visual identification in the wild unreliable and potentially dangerous. The nearly all of the psilocybin-containing mushrooms are small brown or tan mushrooms which could be mistaken for a number of non-psychoactive, inedible, or poisonous mushrooms in the wild.
-
-## Sclerotia and Truffle Forms
-
-Some Psilocybe species, including Psilocybe mexicana and Psilocybe tampanensis, form sclerotia, which are hardened masses of mycelium that serve as a defence mechanism against adverse environmental conditions such as dryness, cold, heat, or excessive moisture. These sclerotia are more resistant to environmental stress than normal mycelium and can survive for extended periods in dormant states.
-
-In the commercial market, the sclerotia of these species are sold under the names "truffles" or "philosopher's stone." They represent a distinct product category from the fresh or dried fruiting bodies more commonly associated with mushroom use. Philosopher's stones were available through Dutch smartshops and online retailers at prices of 10 to 17.50 EUR per 15 grams, making them a premium product compared to fresh Psilocybe cubensis.
-
-## User Experience Profile
-
-The Dutch Risk Assessment Report noted that hallucinogenic mushrooms tend to be taken as an experimental drug and that people generally discontinue use after a few experiences. Qualitative research in the Netherlands found that users do not typically find the experience as pleasant as other recreational drugs, particularly because the effects lack the positive mood-altering entactogenic properties associated with ecstasy. The average age for first use of magic mushrooms was reported as 18 to 19 years in UK survey data.
-
-## European Distribution and Habitats
-
-A variety of psilocybin-containing mushroom species are found growing wild in Europe, particularly throughout central and northern Europe. Habitats include wet grassy fields, uncultivated pastures, and agricultural land. The most common wild European hallucinogenic mushroom is [[psilocybe-semilanceata]] (liberty caps), found in the UK, Norway, Germany, and many other countries.
+Unlike [[psilocybin]] and psilocin concentrations can reach up to approximately 0.6% in dried material. This is notably lower than the potency of species such as [[psilocybe-semilanceata]] (liberty caps), found in the UK, Norway, Germany, and many other countries.
 
 Other species growing wild in Europe include Psilocybe cyanescens (wavy caps) as well as Psilocybe bohemica and Psilocybe moravica, particularly reported in the Czech Republic. Nearly all psilocybin-containing mushrooms are small brown or tan mushrooms that bruise blue when handled, but this feature is shared with many non-psychoactive species, making wild identification unreliable and potentially dangerous.
 
@@ -114,33 +76,20 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 
 ## Related
 
-- [[oss-oeric-psilocybe-cubensis-strain-guide]]
 - [[psilocybe-cubensis-distribution-and-ecology]]
-- [[psychedelic-mushrooms-species-and-identification]]
 - [[stropharia-cubensis]] Concepts
 
-- [[psilocybin-compound]] - the primary psychoactive compound in this species
-- Psilocybe - the genus to which this species belongs
 - [[psilocybe-semilanceata]] - the predominant wild European species
-- [[hallucinogenic-mushroom-market-in-europe]] - commercial distribution patterns
-- Conocybe - another genus of psilocybin-containing mushrooms
-- Panaeolus - genus including the potent Copelandia cyanescens
 - [[bad-trip]] - adverse psychological reactions to mushroom use
 
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]]
 - [[mushroom-cultivation-methods]]
 
-- [[mushroom-cultivation-basics]]
 - [[pf-tek-overview-and-history]]
 
-- [[psilocybe-cubensis-strains-names-and-marketing]]
 - [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
-- [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
-
 - [[psilocybe-cubensis-miniculture-method]]
-- [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[tropisms-psilocybe-cubensis-phototropism]]
 
 ## See Also

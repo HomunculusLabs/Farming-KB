@@ -10,9 +10,7 @@ sources:
 
 Fermented Plant Juice (FPJ) is a fermented extract of a plant's sap
 and chlorophyll. It is a rich enzyme solution full of microorganisms
-such as [[lactic-acid-bacteria-knf]] and
-yeast that invigorates plants and animals. FPJ is one of the most
-widely used inputs in the [[cho-natural-farming-inputs-overview]] system.
+such as [[cho-natural-farming-inputs-overview]] system.
 
 ## Selection of Plant Materials
 
@@ -111,17 +109,12 @@ Choose plants that possess one or more of these characteristics:
 FPJs are normally used at dilution of 1:800 to 1:1000 in water. When
 FPJ is combined with other NF inputs, more water should be added to
 the solution. FPJ is also a key ingredient in making
-[[cho-fermented-mixed-compost-methods]]
-(FMC) and [[cho-indigenous-microorganisms-collection-and-cultivation]].
+[[cho-indigenous-microorganisms-collection-and-cultivation]].
 
 ## See Also
 
-- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-
 - [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]
 
-- [[cho-natural-farming-inputs-overview]]
 - [[knf-fpj-ratio-guide]]
-- [[knf-fpj-usage-timing-contraindications]]
 - [[knf-fermented-fruit-juice]]
 - [[cho-fish-amino-acid-preparation]]

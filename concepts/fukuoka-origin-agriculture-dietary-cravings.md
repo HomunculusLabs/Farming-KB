@@ -10,13 +10,7 @@ sources:
 
 # Origin of Agriculture and Human Dietary Cravings
 
-The opening section of Chapter 5 in [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] presents Fukuoka's theory of how agriculture arose from human dietary delusion -- a uniquely provocative account of agricultural origins that inverts the usual narrative of progress.
-
-## Agriculture from Craving
-
-"Agriculture arose from human cravings over food. It was man's desire for tasty and abundant food that was responsible for the development of agriculture. Farming methods have constantly had to adapt to changes in the human diet. Unless the diet is basically sound, agriculture too cannot be normal."
-
-This places the blame for agriculture's problems not on technology or economics but on the human relationship with food itself. See [[fukuoka-food-civilization-critique]] for the broader argument.
+The opening section of Chapter 5 in [[fukuoka-food-civilization-critique]] for the broader argument.
 
 ## The Paradox of Food Scarcity
 
@@ -68,13 +62,7 @@ The person forced to eat such food would complain: "How much easier, cheaper, an
 
 ## Connection to Natural Farming
 
-This analysis of dietary origin directly informs Fukuoka's [[fukuoka-natural-diet-four-types]] hierarchy. The "empty diet" of craving leads to the "scientific diet" of calculated nutrition, which must be transcended through the "diet of principle" and ultimately the "diet of non-discrimination."
-
-## Fukuoka's Theory of Agricultural Origins
-
-Fukuoka's account of how agriculture began is deliberately contrarian. Most anthropological narratives present agriculture as an achievement — a deliberate human innovation that enabled civilization, surplus, and progress. Fukuoka inverts this: agriculture arose not from wisdom but from delusion, not from necessity but from desire. In his framing, the transition from foraging to cultivation was not an adaptation to scarcity (since nature already provided abundantly) but a response to the perceived inadequacy of natural food once humans developed discriminating palates.
-
-This theory connects directly to his broader [[fukuoka-natural-diet-food-philosophy]]: if natural food is inherently sufficient, then any agricultural system that produces different food is solving a problem that nature never posed. Agriculture, in this view, is humanity's ongoing attempt to manufacture the satisfaction that comes freely from eating what nature provides. The entire edifice of agrarian civilization — irrigation, plowing, selective breeding, fertilizers, pesticides, genetic engineering — is, in Fukuoka's framework, a cascade of interventions necessitated by the original error of dietary discrimination.
+This analysis of dietary origin directly informs Fukuoka's [[fukuoka-natural-diet-food-philosophy]]: if natural food is inherently sufficient, then any agricultural system that produces different food is solving a problem that nature never posed. Agriculture, in this view, is humanity's ongoing attempt to manufacture the satisfaction that comes freely from eating what nature provides. The entire edifice of agrarian civilization — irrigation, plowing, selective breeding, fertilizers, pesticides, genetic engineering — is, in Fukuoka's framework, a cascade of interventions necessitated by the original error of dietary discrimination.
 
 ## The Craving-Agriculture Feedback Loop
 
@@ -92,29 +80,9 @@ Fukuoka's theory also neglects the co-evolutionary relationship between humans a
 
 ## Implications for Modern Dietary Practice
 
-The practical implication of Fukuoka's origin theory is that the path to dietary health runs not forward through more sophisticated food technology but backward through simplification. If the original error was the departure from instinctive eating toward discriminating eating, then correction requires undoing that departure — not through rigid dietary rules (which are themselves a form of discrimination) but through cultivating a body and mind capable of recognizing and accepting natural food. This is the journey from the [[fukuoka-diet-non-discrimination-diet-of-the-sick]] toward the diet of non-discrimination that Fukuoka describes elsewhere in his work.
+The practical implication of Fukuoka's origin theory is that the path to dietary health runs not forward through more sophisticated food technology but backward through simplification. If the original error was the departure from instinctive eating toward discriminating eating, then correction requires undoing that departure — not through rigid dietary rules (which are themselves a form of discrimination) but through cultivating a body and mind capable of recognizing and accepting natural food. This is the journey from the [[fukuoka-night-heron-revelation-origin-story]] Concepts
 
-## The Role of Cooking and Fire
-
-Fukuoka's analysis of dietary cravings extends to the role of cooking in human evolution. Cooking represented the first major intervention between humans and their food — a technological transformation of natural substances into culturally constructed meals. While cooking undoubtedly made certain nutrients more available and reduced the energy cost of digestion, Fukuoka viewed it as the beginning of the same trajectory that led to modern food processing. Each stage of culinary refinement — from raw eating to cooking, from cooking to seasoning, from seasoning to complex cuisine — represented a further step away from the instinctive relationship with food.
-
-This does not mean Fukuoka advocated a raw food diet exclusively. He recognized that cooking, like agriculture, was an irreversible development in human culture. But he saw the value of simplicity in cooking as parallel to simplicity in farming: the less one transforms food from its natural state, the closer one remains to the original relationship between body and environment. Traditional Japanese cuisine, with its emphasis on seasonal ingredients prepared with minimal intervention, represented for Fukuoka a relatively healthy balance between the cultural necessity of cooking and the natural ideal of direct consumption.
-
-## From Dietary Delusion to Ecological Collapse
-
-Fukuoka drew a direct line from individual dietary craving to global ecological crisis. The desire for ever more refined and exotic food drives agricultural expansion into wildlands, promotes monoculture cultivation, and demands chemical inputs and long-distance transportation. The global food system's environmental footprint — deforestation, soil erosion, water pollution, greenhouse gas emissions — can be traced back, in Fukuoka's analysis, to the same fundamental error: the inability of humans to accept what nature provides and instead insist on manufacturing satisfaction through increasingly elaborate means.
-
-This framing suggests that environmental solutions cannot be purely technical. Carbon taxes, conservation programs, and sustainable agriculture certifications address symptoms rather than causes. For Fukuoka, genuine ecological restoration requires a transformation in human consciousness — specifically, the recovery of the capacity to find satisfaction in simple, local, naturally produced food. Until this inner transformation occurs, technological solutions to environmental problems will continue to generate new problems in an endless cycle of intervention and consequence.
-
-## Related
-
-- [[fukuoka-night-heron-revelation-origin-story]] Concepts
-
-- [[fukuoka-food-civilization-critique]] -- food and civilization
 - [[fukuoka-natural-diet-four-types]] -- the four types of diet
-- [[fukuoka-disappearance-natural-diet]] -- how natural diet disappeared
 - [[fukuoka-food-and-health-philosophy]] -- the nature of flavor
-- [[fukuoka-food-civilization-critique]] -- critique of synthetic food
 - [[fukuoka-philosophy-eating]] -- philosophy of eating
-- [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-natural-vs-scientific-farming]]

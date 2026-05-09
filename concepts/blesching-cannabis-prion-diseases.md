@@ -127,8 +127,6 @@ things as they are."
 
 ## See Also
 
-- [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-neurodegenerative-diseases]]
-- [[blesching-cannabis-alzheimers-disease]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]

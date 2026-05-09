@@ -60,34 +60,7 @@ Important dosage notes:
 
 Cannabutter can be made from various cannabis materials:
 
-- Trimmed fan leaves from [[cannabis-manicuring-techniques]] sessions
-- Small buds and sugar leaves that are trimmed during processing
-- Lower-quality flower that is not suitable for smoking
-- Any cannabis material with visible resin glands
-
-The quality of the cannabutter depends directly on the cannabinoid content of the starting material. Material with more visible resin will produce more potent butter. Use leaves that have visible resin; using large fan leaves or immature leaves will result in disappointing potency.
-
-## Pre-Harvest Considerations for Clean Butter
-
-To ensure clean-tasting cannabutter free of chemical residues:
-
-- Flush plants with water 7-10 days before harvest to remove fertilizer residues
-- Avoid using pest control chemicals that leave residues on foliage
-- Use only water-based organic products in the month before harvest
-- Remove stems and large veins from leaf material before cooking
-- Any oil-based residues on leaves will show up in the final product
-
-## Related Preparations
-
-### Cannabis Vegetable Oil
-
-Cannabis vegetable oil is made similarly to cannabutter, substituting one quart (1 L) of vegetable oil for butter. The same water-based extraction process is followed. After cooling and separating, the mix is placed in the freezer for 4-6 hours. The water freezes and the oil can be poured off. Note that olive or peanut oils coagulate in the freezer and must be scraped from the water with a spatula rather than poured.
-
-The resulting cannabis oil liquefies at room temperature, keeps for about a month at room temperature, and can be used in any recipe calling for vegetable oil. It is particularly useful for savory dishes where butter flavor is not desired.
-
-### Cannabis Tinctures
-
-For an alcohol-based alternative, [[cervantes-cannabis-tinctures]] use liquor as a solvent to dissolve resin glands into a potent liquid concentrate. Tinctures offer faster onset than butter-based edibles.
+- Trimmed fan leaves from [[cervantes-cannabis-tinctures]] use liquor as a solvent to dissolve resin glands into a potent liquid concentrate. Tinctures offer faster onset than butter-based edibles.
 
 ## Cannabis Oil Potency
 
@@ -108,11 +81,7 @@ For more complete information on cannabis extraction, Cervantes references "The 
 
 ## See Also
 
-- [[cannabis-tincture-preparation]]
 - [[cannabis-oil-extraction]]
-- [[cannabis-topical-preparations]]
 - [[cannabis-manicuring-techniques]]
-- [[cannabis-hashish-production]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-indoor-growing-guide]]
 - [[cannabis-seed-selection-and-strain-types]]

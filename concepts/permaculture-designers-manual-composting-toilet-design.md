@@ -3,19 +3,7 @@ title: Composting Toilet Design
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Composting Toilet Design
-# Permaculture Designers Manual - Dry Toilet Systems
-
-updated: 2026-04-18
-
-## Overview
-
-The permaculture approach to human waste management views sewage not as a disposal problem but as a resource for nutrient cycling, energy production, and soil building. The Designers Manual addresses composting (dry) toilets as one component of an integrated waste management strategy, alongside [[permaculture-designers-manual-biogas-digester]], [[permaculture-designers-manual-greywater-systems]], and biological water treatment.
+tags: [[permaculture-designers-manual-biogas-digester]], [[graywater-systems]], and biological water treatment.
 
 Mollison notes that all of the pollution from sewage arises from the frequent, wasteful, and unnecessary flushing of toilets by those living in the effluent society. In Sweden, it is compulsory to use dry toilets in remote, unsewered, or unsuitable areas.
 
@@ -119,15 +107,6 @@ The composting toilet decision is part of a broader water management strategy th
 
 ## Sources
 
-- [[mollison-permaculture-two-zone-planning-and-site-layout]], *Permaculture: A Designers' Manual*, Section 7, Figures 7.31
-- Swedish compulsory dry toilet regulations
-- Australian handbasin-toilet tank systems
 - [[urban-permaculture-trees-water-cycling]]
-- [[permaculture-designers-manual-water-quality]]
-- permaculture designers manual composting toilet design
 - [[permaculture-designers-manual-earth-building-techniques]]
-- [[permaculture-designers-manual-biogas-digester]]
-
-## See Also
-
 - [[comparison-biogas-vs-composting-toilet]]

@@ -107,15 +107,9 @@ The tree provides important habitat for wildlife, offering nectar for pollinator
 
 ## See Also
 
-- [[acacia-senegal]]
 - [[acacia-nilotica]]
-- [[prosopis-juliflora]]
 - [[robinia-pseudoacacia]]
-- [[leucaena-leucocephala]]
 - [[azadirachta-indica]]
-- [[mimosa-pudica]]
 - [[pongamia-pinnata]]
-- [[dalbergia-sissoo]]
-- [[pollinators]]
 - [[nitrogen-fixing-trees]]
-- [[allelopathy]]
+- allelopathy

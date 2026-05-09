@@ -43,50 +43,7 @@ L. cardiaca is an erect, branching perennial reaching 60-120 cm in height.
 Stems are square (characteristic of Lamiaceae), ribbed, and covered with
 short hairs. Leaves are opposite, palmately lobed with 3-7 pointed lobes,
 dark green above and paler below with pubescence, resembling nettle leaves
-(Urtica dioica) in general appearance. The upper leaves are smaller and less
-lobed than the lower ones.
-
-Flowers are arranged in dense whorls in the axils of the upper leaves,
-forming interrupted spike-like inflorescences. Individual flowers are
-bilabiate, approximately 10-12 mm long, pink to lilac in color with
-conspicuous white hairs. The calyx is persistent and prominent, with five
-triangular teeth. Flowering occurs from June to September. The fruit consists
-of four small nutlets (mericarps), dark brown to black, approximately 2 mm
-long. The root system is fibrous with a short rhizome, producing spreading
-clumps over time.
-
-## Distribution and Habitat
-
-L. cardiaca is native to central and southern Europe, western Asia
-(Anatolia, the Caucasus), and parts of Siberia. It has been widely
-introduced and naturalized in North America (across the United States
-and southern Canada), South America, and parts of Africa and Australia.
-
-The species occupies a broad ecological range: woodland edges, hedgerows,
-roadsides, waste ground, disturbed sites, and riparian zones. It prefers
-moist, nitrogen-rich soils in partial shade to full sun and is moderately
-drought-tolerant once established. In North America it is considered a
-weed of disturbed habitats but is not classified as invasive.
-
-## Phytochemistry
-
-L. cardiaca contains a diverse array of bioactive compounds:
-
-- **Iridoid glycosides**: Leonuride is the primary bitter iridoid,
-  contributing to the traditional cardiotonic use. Other iridoids include
-  ajugol and galiridoside.
-- **Diterpenoids**: Leonurin (0.02-0.05%) is the most significant
-  pharmacologically active compound, structurally related to forskolin.
-  Prehispanolone and related labdane diterpenes have also been isolated.
-- **Flavonoids**: Including rutin, quercetin, hyperoside, and
-  kaempferol-3-O-rutinoside, contributing to antioxidant and
-  anti-inflammatory activity.
-- **Alkaloids**: Stachydrine (0.05-0.2%) and leonurine (trace levels)
-  are the primary alkaloids. Leonurine has demonstrated uterotonic,
-  antioxidant, and neuroprotective effects in vitro.
-- **Phenolic acids**: Rosmarinic acid, chlorogenic acid, and caffeic acid
-  contribute to antioxidant capacity.
-- **Volatile oil**: Contains germacrene D, beta-caryophyllene, and
+([[beta-caryophyllene]], and
   linalool as major components.
 
 ## Pharmacology and Traditional Use
@@ -102,7 +59,7 @@ health and cardiovascular support:
   hypotensive effects have been documented, alongside anxiolytic activity
   in animal models.
 - **Sedative**: The aerial parts have mild sedative properties, used in
-  combination with Valeriana officinalis and Passiflora incarnata in
+  combination with [[passiflora-incarnata]] in
   traditional formulations for nervousness and insomnia.
 
 Modern pharmacological studies support anti-inflammatory (COX inhibition),
@@ -117,14 +74,7 @@ Motherwort has several valuable functions in designed landscapes:
 
 - **Dynamic accumulator**: Deep taproot mines minerals (potassium,
   calcium, iron) from subsoil layers, making them available through
-  leaf litter and chop-and-drop mulch.
-- **Pollinator support**: Long flowering period (June-September) provides
-  nectar and pollen for bees, butterflies, and beneficial wasps. The
-  species is rated as good to excellent for honey bee forage.
-- **Soil stabilization**: Fibrous root system holds soil on slopes and
-  disturbed sites. Useful in establishing quick ground cover during
-  succession phases.
-- **Companion planting**: The strong aromatic foliage may help repel
+  leaf litter and [[companion-planting]]**: The strong aromatic foliage may help repel
   certain pest insects when interplanted with vegetables.
 - **Edge species**: Well-suited to hedgerow plantings and guild margins
   in food forests, tolerating both sun and partial shade.
@@ -141,10 +91,7 @@ aerial parts occurs during flowering (June-August) when bioactive compound
 concentrations peak. Drying at 35-40°C preserves iridoid and alkaloid
 content. Plants are hardy to USDA zone 3 and self-seed readily, requiring
 management to prevent unwanted spread in formal garden settings.
-
 ## See Also
 
-- [[leonotis-leonurus-entity]]
-
-- [[leonurus-sibiricus]] — Related species, Siberian motherwort
+- [[leonotus-leonurus]] — Related species, Siberian motherwort
 - [[leonotus-leonurus]] — Lion's ear, African relative in Lamiaceae

@@ -140,10 +140,6 @@ Disease and pest attack was "one method taken by nature for suppressing excessiv
 The first thing that pops into the head of an agricultural scientist when he sees a pest emerge is how to kill it.
 ## See Also
 
-- [[fukuoka-kochi-rice-borer-eradication-debacle]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
-- [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]
 - [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
-
 - [[natural-farming]]

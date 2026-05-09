@@ -123,14 +123,6 @@ times, dramatically increasing yield and reducing cost.
 ## Application Rates
 
 Standard dilution for OHN is 1:1,000 (1 part OHN to 1,000 parts water). OHN
-is commonly combined with other KNF inputs including [[knf-fermented-plant-juice]], [[knf-imo-four-stage-cultivation]], and [[water-soluble-calcium-wca]] in comprehensive spray programs. It is applied
-during key growth transitions, after stress events, and as part of regular
-plant health maintenance schedules.
-
-## Related Concepts
-
-- [[knf-fermented-seawater-preparation]]
-- [[knf-fermented-plant-juice]]
+is commonly combined with other KNF inputs including [[knf-imo-four-stage-cultivation]], and [[knf-fermented-seawater-preparation]]
 - [[knf-water-soluble-calcium]]
-- [[knf-imo-four-stage-cultivation]]
 - [[cho-natural-farming-inputs-overview]]

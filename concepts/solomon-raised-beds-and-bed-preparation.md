@@ -80,43 +80,10 @@ Solomon's approach to bed management across seasons reflects his low-input philo
 
 Solomon's approach to bed fertility differs from intensive methods in quantity and type:
 - **Moderate compost rates**: Apply 1-2 inches of finished compost per bed annually, not the 4-6 inches that biointensive methods recommend. Excessive compost, especially with high-nitrogen manures, produces sappy, pest-prone growth
-- **Complete organic fertilizer (COF)**: Solomon's signature fertilizer blend provides balanced minerals including seed meal (nitrogen), bone meal or rock phosphate (phosphorus), agricultural lime or dolomite (calcium/magnesium), and kelp meal (trace minerals). See [[complete-organic-fertilizer-recipes]] for formulations
-- **Bed rest with green manures**: Every third or fourth year, dedicate a bed to a green manure crop for a full season rather than continuing vegetable production. This allows soil biology to recover and rebuild organic matter without crop extraction
-- **Top-dressing vs incorporation**: In established beds, apply compost and COF as top-dressings rather than digging them in; earthworms and rain incorporate the materials naturally while preserving soil structure
+- **Complete organic fertilizer (COF)**: Solomon's signature fertilizer blend provides balanced minerals including seed meal (nitrogen), bone meal or rock phosphate (phosphorus), agricultural lime or dolomite (calcium/magnesium), and kelp meal (trace minerals). See [[solomon-soil-preparation-bed-prep]]
 
-## Climate Adaptation for Bed Design
-
-Solomon's bed recommendations shift significantly with climate:
-- **Maritime/wet climates**: Raised beds are advantageous for drainage; use 6-8 inch raised beds with organic matter to improve soil structure
-- **Dry summer climates**: Level or slightly sunken beds retain moisture better; Solomon explicitly recommends flat beds for unirrigated gardens west of the Cascades
-- **Short-season climates**: Raised beds warm faster in spring, gaining 2-3 weeks over flat ground; this advantage can be critical for crops like peppers and melons in northern gardens
-- **Hot climates**: Raised beds dry too quickly in summer; use heavy mulch (4-6 inches) or switch to flat beds with drip irrigation
-
-## Common Mistakes with Raised Beds
-
-- **Over-enriching**: Adding too much compost or manure creates excessively lush growth that attracts pests and produces weaker-stemmed plants. Solomon recommends moderate fertility applications based on soil test results
-- **Making beds too wide**: Beds wider than 4 feet require stepping on the soil to reach the center, defeating the compaction prevention purpose
-- **Neglecting path maintenance**: Unmulched paths become mud in wet weather and weeds colonize them; paths should be covered with wood chips, gravel, or grass
-- **Permanent bed syndrome**: Using the same raised bed frames for years without adding organic matter leads to soil depletion; beds need regular compost additions and occasional cover crop rest periods
-
-## Recommended Tools for Bed Preparation
-
-Solomon's tool recommendations prioritize durability and soil health:
-- **Spading fork (4-tine)**: The primary tool for loosening beds. English-style digging forks with flat tines work better than American pointed-tine forks in rocky or clay soils
-- **D-handle shovel**: For moving compost, turning cover crops under, and shaping bed edges. A smaller shovel (D-handle) provides better control than a long-handled transfer shovel
-- **Steel garden rake**: For leveling bed surfaces and creating seed furrows. The back of the rake head is useful for firming seed rows after sowing
-- **Hoe (draw or stirrup)**: For weeding between plants. Solomon prefers the stirrup (oscillating) hoe for its ability to cut weeds just below the soil surface without bringing new weed seeds to the surface
-
-## Related
-
-- [[solomon-soil-preparation-bed-prep]]
-
-- [[solomon-intensive-vs-extensive-spacing]] for detailed spacing recommendations
 - [[solomon-cover-crops-green-manure-guide]] for incorporating organic matter into beds
-- [[solomon-cover-crops-green-manure-guide]] for bed-resting strategies
 - [[intensive-gardening-critique-solomon]] for irrigation on raised beds
-- [[solomon-watering-and-dry-farming]]
 - [[root-competition-plant-spacing-solomon]]
-- [[gaias-garden-cover-crops-soil-building]]
 - [[green-manure-cover-crops]]
 - [[soil-preparation-organic-gardens]]

@@ -19,47 +19,7 @@ but are hidden under a single described name.
 ## Prevalence in Fungi
 
 Cryptic species are especially common in fungi because morphological characters
-used in traditional taxonomy ([[spore]] size, shape, fruiting body structure) often
-fail to capture the full extent of genetic divergence. Studies applying
-molecular phylogenetics to morphologically defined fungal species routinely find
-multiple genetically distinct lineages within what was considered a single
-species.
-
-Conservative estimates suggest that 20-30% of described fungal species harbor
-cryptic diversity, though in some groups the figure exceeds 50%. Across all
-described fungi, this implies tens of thousands of unrecognized species
-masquerading under existing names.
-
-## Mechanisms Driving Cryptic Speciation
-
-Several factors promote cryptic speciation in fungi:
-
-- **Asexual reproduction** — many fungi reproduce primarily or exclusively
-  asexually, allowing genetic divergence to accumulate without the
-  morphological differentiation driven by sexual selection.
-- **Convergent morphology** — similar ecological niches can produce similar
-  forms independently, making morphology unreliable for inferring
-  relationships.
-- **Phenotypic plasticity** — a single fungal genotype can produce very
-  different morphologies under different environmental conditions, masking
-  underlying genetic differences.
-- **Allopatric diversification** — geographically separated populations can
-  diverge genetically while maintaining similar morphology because
-  dispersal by spores maintains gene flow too intermittently to prevent
-  drift but frequently enough to prevent strong selection for divergence.
-
-## Detection Methods
-
-Cryptic species are typically detected through one or more of these approaches:
-
-1. **Multi-locus sequence typing (MLST)** — sequencing multiple housekeeping
-   genes reveals concordant phylogenetic splits that suggest species
-   boundaries.
-2. **Genome-wide SNP analysis** — whole-genome sequencing or RADseq provides
-   the resolution to detect even very recent speciation events.
-3. **Mating compatibility tests** — crossing experiments in culture can
-   reveal reproductive isolation between morphologically identical strains.
-4. **Chemical profiling** — secondary metabolite production ([[mycotoxins]],
+used in traditional taxonomy ([[mycotoxins]],
    antibiotics) can differ between cryptic species.
 5. **Ecological differentiation** — differences in host specificity,
    substrate preference, or environmental tolerance can indicate cryptic
@@ -123,7 +83,5 @@ new niches or hosts.
 
 ## See Also
 
-- [[fungal-biodiversity]]
 - [[dark-taxa-fungi]]
-- [[fungal-endemism-and-biogeography]]
 - [[environmental-dna-sequencing-fungi]]

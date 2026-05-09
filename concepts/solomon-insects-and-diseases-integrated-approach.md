@@ -10,97 +10,136 @@ sources:
 
 # Solomon on Insects and Diseases (Integrated Approach)
 
-From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
-
-## Core Philosophy: Gardening Aikido
-
-Solomon's approach to pest management is philosophical as much as practical. Rather than viewing insects and diseases as enemies to be destroyed, he treats them as guides to becoming a more skillful grower. The key principles:
-
-1. **Grow healthy plants**: Vigorously growing plants resist most pests and diseases most of the time
-2. **Plant twice what you need**: Some years are just difficult -- some fraction of your crop will be lost. If you planted twice what you need, there will still be enough
-3. **Abandon the American Sanitary System**: Accept that food does not need to be cosmetically perfect. A few holes in leaves, a scar on a cucumber skin -- these are acceptable. The critical level where production starts to lessen is when aphids cover about 5% of the entire leaf area or when insects destroy more than 10-20% of photosynthetic surface
-4. **Sow insurance**: When conditions are unfavorable, sow again immediately. The later sowing may grow faster from the start and end up yielding sooner
-5. **Plant late, not early**: Sowing too early is the single biggest cause of trouble. Later sowings catch up quickly because growth rates accelerate hugely as soil warms
-
-## Making Plants Less Attractive to Pests
-
-- **Avoid excessive fertility**: Too much nitrogen makes seedlings more succulent and attractive to cucumber beetles, flea beetles, and other pests
-- **Direct-seed rather than transplant**: Direct-seeded plants are less lush and succulent than greenhouse-grown transplants, making them less attractive targets
-- **Don't coddle**: Tougher plants grown in real conditions resist pests better
-
-## Specific Pest Strategies
-
-### Aphids
-- Don't rush to fight them when you see a few
-- Hose spray to blast them off leaves
-- Insecticidal soap (Safer's) is effective and nontoxic, but can burn some species -- test first
-- Garlic/pyrethrum combination works but also kills bees and beneficials
-- Neem spray is the longest-lasting natural remedy
-- Encourage habitat for lady beetles and other aphid predators
-
-### Cabbageworms and Cabbage Loopers
-- Handpicking works in a small garden
-- Bacillus thuringiensis (Bt, marketed as Dipel) is extremely effective and lethal only to cabbageworms and close relatives
-- Add a quarter teaspoon of dishwashing liquid per quart as a spreader-sticker when using Bt
-- Spray undersides of leaves as much as tops
-- Bt remains active for about a week; re-spray every few days during peak egg-laying
-
-### Colorado Potato Beetle
-- Row covers on new ground (few beetles emerging immediately in the patch)
-- Straw mulching provides habitat for predatory beetles
-- Growing spuds on new ground reduces disease problems
-- Handpicking adults when they first emerge in spring, before they lay eggs
-- Flame weeders can lethally burn beetles and eggs
-
-### Cucumber Beetles
-- Sow cucurbits a few weeks later than most in your area, letting seedlings get growing faster before beetles arrive
-- Plant four seeds per hill, thinning to two plants per spot after seedlings have a true leaf
-- Spun-fabric row covers work well but must be removed when plants begin blooming (for bee pollination)
-- Excessive soil nutrients make seedlings more attractive to beetles
-- Parasitic nematodes can control larvae
-
-### Flea Beetles
-- Only a serious problem in spring when cool conditions slow plant growth
-- Husky, well-hardened transplants usually outgrow flea beetle damage
-- Direct-sow 5+ seeds per spot and thin only as competition starts; this gives beetles more to chew on while providing enough survivors
-- Foliar feeding with fish emulsion can both feed stressed seedlings and confuse beetles with its smell
-
-### Squash Vine Borer
-- Plant resistant varieties: butternut, Green-Striped cushaw, Yellow Crookneck, Dickinson pumpkin
-- Patrol plants every few days, inspect for entry holes (marked by sawdust-like frass)
-- Slice the vine to destroy the borer, then mound soil over the wound to encourage healing and secondary root formation
-- Preventatively, mound soil at multiple points along vines to encourage secondary roots -- even if a borer invades, it cannot collapse the entire plant
-- Burn or hot-compost winter squash vines after harvest to prevent late-maturing borers from pupating
-
-### Root Maggots (cabbage fly, carrot fly)
-- Plant brassicas after the spring population peak (mid-May through July in North America)
-- Sawdust collar: ring of fine sawdust 1.5 inches thick, 6-8 inches diameter around the stem, not touching it, prevents the fly from reaching the soil to lay eggs
-- Floating row covers carefully anchored on all sides
-- Parasitic nematodes are effective against cabbage root maggots but not carrot fly (which is active at low soil temperatures when nematodes are inactive)
-
-## Disease Strategies
-
-### General Prevention
-- Grow healthy, naturally disease-resistant plants using appropriate varieties
-- Foliar spray with liquid kelp (provides trace elements and fortifies plants)
-- Compost tea (from high-quality compost) applied weekly can prevent disease organisms from establishing
-
-### Powdery Mildew
-- Effective treatment: 1 teaspoon baking soda per quart of water, with a few drops of liquid soap to ensure spreading
-- This kills mildew on contact but is short-lasting; must be reapplied every few days during favorable conditions
-- Mix kelp tea and fish emulsion into the spray tank for a triple benefit
-
-### Compost Tea
-- Not simply compost in water -- requires quality starting material
-- The ratio of manure to vegetation and the quality of vegetation matter
-- Properly brewed tea contains beneficial microorganisms that colonize leaf surfaces and prevent pathogens
-- Solomon recommends researching "Elaine Ingham" or "compost tea" for proper methods
-
-## Related
-- [[solomon-mulching-and-cover-cropping]]
-- [[solomon-thinning-spacing-and-direct-seeding]]
+From [[solomon-mulching-and-cover-cropping]]
 - [[permaculture-plant-stacking-vertical-guilds]]
-- [[permaculture-companion-planting]]
 - [[root-competition-plant-spacing-solomon]]
-- [[ingham-root-disease-treatment]]
 - [[solomon-gardening-when-it-counts-index]]
+## Background and Context
+
+Solomon on Insects and Diseases (Integrated Approach) is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

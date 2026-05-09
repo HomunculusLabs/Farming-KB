@@ -24,57 +24,7 @@ cycle: heavy feeders, then heavy givers, then light feeders.
 Heavy feeders are most of the vegetables people like and eat. They
 take large amounts of nutrients, especially nitrogen, from the soil.
 After harvesting heavy feeders, phosphorus and potassium are returned
-to the soil in the form of [[jeavons-composting-methods]].
-
-Examples of heavy feeders include:
-- Corn
-- Tomatoes
-- Squash
-- Lettuce
-- Cabbage
-
-These crops are the primary consumers of soil nutrients and must be
-followed by crops that restore what was taken. They are the crops
-that most deplete soil fertility.
-
-### Phase 2: Heavy Givers
-
-Heavy givers are nitrogen-fixing plants — legumes that restore
-nitrogen to the soil through symbiotic bacteria in their root
-nodules. They are the soil's natural fertilizer factories.
-
-Examples of heavy givers include:
-- Peas
-- Beans
-- Alfalfa
-- Clover
-- Vetch
-- Fava beans
-
-Fava beans serve a dual purpose: they bring large amounts of nitrogen
-into the soil and excrete substances that help eradicate tomato
-wilt-causing organisms. However, caution is advised — some people of
-Mediterranean descent are fatally allergic to fava beans, and people
-on certain medications may experience the same reaction.
-
-### Phase 3: Light Feeders
-
-Light feeders are all root crops. They give the soil a rest before
-the next heavy feeder onslaught. Their nutrient demands are lower,
-allowing the soil to partially recover during their growing period.
-
-## The Nuance: Not Always Accurate
-
-Jeavons notes that this classification system, developed many years
-ago based on how much nitrogen crops generally consume or produce,
-is not always perfectly accurate. The notable exception is potatoes:
-although they are a root crop and therefore technically classified as
-light feeders, potatoes consume one of the largest amounts of
-nitrogen of any vegetable, making them functionally heavy feeders.
-
-Despite this caveat, the three-phase system remains a good way to
-organize crop rotation and provides a practical framework for
-maintaining [[jeavons-soil-fertility]].
+to the soil in the form of [[jeavons-soil-fertility]].
 
 ## Special Cases and Exceptions
 
@@ -104,44 +54,34 @@ The rotation cycle is fundamentally about nutrient recycling:
    continue to add organic matter to the soil
 
 This cycle, when combined with sufficient
-[[jeavons-carbon-farming]] and compost crop production,
-can maintain and even build soil fertility over time without external
-inputs.
-
-## Root Systems and Soil Building
-
-Plant root systems play a crucial role in the rotation cycle. Roots
-improve the topsoil by bringing up nutrients from the subsoil. A
-single rye plant in good soil produces an average of 3 miles of roots
-per day — 387 miles of roots and 6,603 miles of root hairs during
-one growing season. Plants continuously provide their own composting
-program underground.
-
-Annually, plants put 800 to 1,500 pounds of roots per acre into the
-soil in a small garden. Red clover contributes 1,200 to 3,850 pounds
-of roots per acre in the same period. This underground organic matter
-becomes [[jeavons-humus-and-soil-microbiology]], feeding
+[[jeavons-humus-and-soil-microbiology]], feeding
 microbial life and improving soil structure for the next rotation
 cycle.
 
 ## Integration with Companion Planting
 
 The crop rotation system is one dimension of the broader
-[[jeavons-companion-planting-health-nutrition]]
-framework. While spatial companion planting addresses what grows
-well together at the same time, temporal companion planting (crop
-rotation) addresses what should follow what across seasons. Together,
-they create a comprehensive system for managing plant relationships
-and soil health in the biointensive garden.
-
-## Practical Planning
-
-When planning your rotation, consider:
-
-- The complete nutrient demands of each crop, not just nitrogen
-- Your specific soil conditions and climate
-- The role of [[jeavons-green-manures-cover-crops]] as
+[[jeavons-green-manures-cover-crops]] as
   transition crops between main-season plantings
 - How compost applications fit into the rotation schedule
 - The long-term goal of closing the nutrient loop and achieving
   truly sustainable soil fertility
+## Practical Considerations
+
+Successful implementation of Crop Rotation System: Feeders, Givers, and Light Feeders requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

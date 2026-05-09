@@ -102,11 +102,7 @@ Turner's advanced techniques for navigating CydelikSpace using Ketamine combinat
 
 ## See Also
 
-- [[turner-cydelikspace-and-psychedelic-reality]] — CydelikSpace framework
 - [[ketamine-psychedelic-journey-guide]] — ketamine guide
-- [[2c-b-psychedelic-empathogen-guide]] — 2C-B guide
 - [[psychedelic-combination-guide]] — combinations overview
-- [[turner-psychedelic-combination-experience-reports]] — experience reports
 - [[turner-further-explorations-and-future-of-psychedelics]]
-- [[mind-body-problem-and-psychedelics]]
 - [[psychedelic-experience-stages]]

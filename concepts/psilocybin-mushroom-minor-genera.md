@@ -29,7 +29,7 @@ Habitats range from lawn and grass to decayed wood substratum.
 
 Species with well-developed partial veils are placed in the subgenus Pholiotina.
 
-Confirmed active species: [[conocybe-cyanopus-profile]] (potently active, 0.78-1.01% psilocybin), [[conocybe-cyanopus-profile]] (probably active, up to 0.80% baeocystin), Conocybe kuehneriana (active, reported from Finland), Conocybe siligineoides (used by Mazatecs, unconfirmed).
+Confirmed active species: [[conocybe-cyanopus-profile]] (probably active, up to 0.80% baeocystin), Conocybe kuehneriana (active, reported from Finland), Conocybe siligineoides (used by Mazatecs, unconfirmed).
 
 Cap cuticles are composed of inflated rounded cells resembling cobblestones, distinguishing them from Galerinas and Psilocybes which have filamentous cap cuticles.
 
@@ -41,7 +41,7 @@ Medium to large mushrooms with rusty orange to yellow-orange spore prints, prefe
 
 Approximately 75 species in North America, less than 150 worldwide.
 
-Eleven species confirmed or suspected psilocybin-active: [[psilocybin-mushroom-deadly-lookalikes]], [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]], G. braendlei, G. intermedius, G. luteoviridis, G. liquiritiae, G. luteus, G. validipes, G. viridans.
+Eleven species confirmed or suspected psilocybin-active: [[gymnopilus-purpuratus-profile]], [[gymnopilus-purpuratus-profile]], G. braendlei, G. intermedius, G. luteoviridis, G. liquiritiae, G. luteus, G. validipes, G. viridans.
 
 G. subpurpuratis from Mexico is suspected active due to green bruising.
 
@@ -55,7 +55,7 @@ Mycorrhizal "fibrehead" mushrooms, most of which are dangerous due to muscarine-
 
 Muscarine has been identified in at least 40 Inocybe species, with fatalities dating to the early 20th century.
 
-Confirmed active species: [[inocybe-aeruginascens-profile]] (psilocybin levels comparable to [[psychedelic-mushrooms-species-and-identification]]), Inocybe corydalina, I. haemacta, I. tricolor, I. coelestium.
+Confirmed active species: [[psychedelic-mushroom-set-and-setting]]), Inocybe corydalina, I. haemacta, I. tricolor, I. coelestium.
 
 The active species are extremely rare compared to the poisonous ones.
 
@@ -69,19 +69,7 @@ Light-spored mushrooms with rose-colored spore prints, the only psilocybin-conta
 
 Species are final wood-destroyers growing on well-decomposed wood of various hardwoods.
 
-Confirmed active species: [[pluteus-salicinus-profile]] (psilocin as the dominant alkaloid, up to 1.57% psilocybin in caps), Pluteus cyanopus (0.035% psilocybin).
-
-All Pluteus species tested contain urea, a chemical fingerprint distinguishing them from Panaeolus species which also contain serotonin.
-
-Six species are listed in the Guzman/Allen/Gartz worldwide checklist.
-
-## The Genus Copelandia (Coprinaceae)
-
-Formerly classified within Panaeolus, containing strongly bluing, dung-inhabiting tropical and subtropical species.
-
-Twelve species are listed in the Guzman/Allen/Gartz worldwide checklist.
-
-See [[copelandia-genus-species-guide]] for detailed coverage.
+Confirmed active species: [[copelandia-genus-species-guide]] for detailed coverage.
 
 Copelandia cyanescens is the most widely distributed and well-known species.
 
@@ -111,4 +99,4 @@ Others hypothesize it is a survival compound actively spreading throughout the A
 
 The truth likely lies somewhere between these extremes, and further research is needed.
 
-See also: [[neurotropic-fungi-world-checklist]], [[psilocybe-genus-classification]], [[psilocybin-mushroom-deadly-lookalikes]], [[conocybe-cyanopus-profile]]
+See also: [[psilocybe-genus-classification]], [[conocybe-cyanopus-profile]]

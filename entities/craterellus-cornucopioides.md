@@ -126,10 +126,6 @@ The species is sensitive to habitat disturbance, including clear-cutting, soil c
 
 ## See Also
 
-- [[craterellus-ignicolor]]
-
 - [[cantharellus-cibarius-entity]] — Golden Chanterelle, a close relative in the same family
-- [[tricholoma-matsutake]] — Matsutake, another highly prized ectomycorrhizal mushroom
 - [[morchella-esculenta]] — Morel, another difficult-to-spot but commercially valuable mushroom
-- [[ectomycorrhizal-associations]] — The broader ecological context of mycorrhizal relationships
 - [[fungal-ecology]] — Fungal roles in forest ecosystems

@@ -112,12 +112,8 @@ Sustainable sourcing initiatives in the herbal products industry have begun impl
 
 ## See Also
 
-- [[verbascum-thapsus]]
 - [[plantago-major]]
-- [[hypericum-perforatum]]
 - [[glycyrrhiza-glabra]]
-- [[borago-officinalis]]
 - [[matricaria-chamomilla]]
-- [[achillea-millefolium]]
-- [[silybum-marianum]]
+- achillea-millefolium
 - [[mentha-piperita]]

@@ -141,9 +141,6 @@ proceeding. Inoculating a warm jar kills the spores immediately upon contact.
 
 ## Related Concepts
 
-- [[pf-tek-steam-sterilization-technique]] for the complete step-by-step procedure
 - [[pf-tek-substrate-moisture-diagnosis-and-correction]] for diagnosing overheating damage
-- [[pf-tek-control-jar-sterility-verification]] for the sterility verification technique
 - [[pf-tek-pressure-canner-sterilization]] for pressure canning parameters and safety
-- [[pf-tek-non-germination-troubleshooting]] for heat-related inoculation failures
 - [[pf-tek-contaminant-source-identification]] for post-inoculation contamination diagnosis

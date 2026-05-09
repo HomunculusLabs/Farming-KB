@@ -77,52 +77,16 @@ blood, advocating "low-test" amendments like alfalfa meal for most crops.
 
 Soil preparation in the greenhouse happens continuously since beds are in
 constant production of varying crops. The steps are: clearing away the old
-crop, aerating the soil with a [[coleman-bed-preparation-and-minimal-tillage]], adding amendments,
-shallowly mixing them with the [[coleman-small-farm-equipment-and-tools]], and applying a layer of
+crop, aerating the soil with a [[coleman-small-farm-equipment-and-tools]], and applying a layer of
 compost. Compost applications are made as a surface topdressing that gets
 turned into the soil at the end of each crop cycle. This approach keeps
 organic matter concentrated at the surface where it benefits soil
 structure and biological activity most.
 
-For the [[coleman-greenhouse-soil-management]], Coleman
-initially spread a 2-inch layer of peat moss (with ground limestone to
-counteract acidity) and tilled it in to full depth. Peat moss provides
-fibrous organic matter that adds structure, creating the aeration and
-biological activity essential in the semi-artificial confines of the
-greenhouse.
+For the [[coleman-deep-organic-history-and-philosophy]] Concepts
 
-## The Locally Based Fertility Program
-
-Coleman emphasizes the importance of creating a self-sufficient fertility
-baseline. When the farm was without livestock for fifteen years, purchased
-manure compost from a local horse farm was limited to the amount that
-future livestock would produce, establishing the foundation for a truly
-locally based fertility program. The goal is to minimize imported inputs
-and create closed-loop nutrient cycles on the farm.
-
-## Evaluating Fertility Decisions
-
-Coleman encourages growers to systematically evaluate their fertility
-management by asking diagnostic questions: Was the compost mature?
-Immature compost can cause a wide range of problems, and testing kits are
-available. Are more nutrients necessary after a heavy-feeding crop? Have
-you corrected mineral deficiencies indicated by soil tests, particularly
-trace elements? He stresses that insect and disease problems often signal
-inadequate growing conditions rather than requiring direct intervention.
-The remedy is to improve conditions by figuring out what is missing from
-the soil. He paraphrases Aldo Leopold: many modern agricultural
-improvements are "improvements to the pump, not to the well."
-
-## Related
-
-- [[coleman-deep-organic-history-and-philosophy]] Concepts
-
-- [[coleman-greenhouse-soil-management]] — detailed soil preparation
-  techniques for protected cultivation
 - [[coleman-cover-crop-rotation-and-soil-health]] — green manures and
   rotation as complementary fertility builders
-- [[coleman-deep-organic-farming]] — the philosophical framework behind
-  optimizing every growing factor
 - [[coleman-bed-preparation-and-minimal-tillage]] — tools and methods for
   incorporating fertility amendments
 - [[coleman-french-intensive-bed-method]] — historical techniques for

@@ -82,9 +82,6 @@ This finding supports Powell's broader thesis that consciousness is "mediated by
 
 ## See Also
 
-- [[psilocybin-ego-dissolution-mechanisms]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[psilocybin-neuroplasticity]]
 - [[consciousness-and-psychedelics]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[information-paradigm-of-consciousness]]

@@ -87,12 +87,8 @@ DSE share some ecological characteristics with mycorrhizal fungi but differ in i
 
 ## Related
 
-- [[dark-septate-endophytes-root-colonizing-fungi]] Topics
-
 - [[endophyte-isolation-techniques]]
-- [[fungal-endophytes-plant-fitness]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-decomposition]]
 - [[fungal-biodiversity-alpine-arctic]]
 
 ## References
@@ -101,6 +97,5 @@ DSE share some ecological characteristics with mycorrhizal fungi but differ in i
 - Jumpponen, A. and Trappe, J.M. 1998. Dark septate endophytes: a review of facultative biotrophic root-colonizing fungi
 - Addy, H.D. et al. 2005. Characterization of root endophytes
 - Mandyam, K. and Jumpponen, A. 2005. Seeking the elusive function of the root-colonizing dark septate endophytic fungi
-- [[marine-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]

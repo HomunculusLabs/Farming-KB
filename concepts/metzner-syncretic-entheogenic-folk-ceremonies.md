@@ -108,35 +108,7 @@ and dancing.
 
 The Bwiti cult among the Fang people in Gabon and Zaire uses the
 powerful hallucinogen iboga (eboka), from which
-[[metzner-ibogaine-addiction-treatment]] is derived. Like peyote, iboga
-exists in both shamanic and syncretic religious forms. The Fang say they
-learned about iboga from the Pygmies, deep forest dwellers.
-
-Bwiti initiation involves a powerful death-rebirth experience in which
-the initiate's "head is opened up," enabling conversation with ancestor
-spirits. Ceremonies are held in temples with an altar, officiating
-priests, and a mirror through which initiates may "see" their ancestral
-spirits. Initiate men and women, daubed with white mud, sit and sing in
-lengthy ceremonies.
-
-Pharmacological research indicates ibogaine may have specific action on
-cocaine receptor sites, suggesting a possible chemical antidote to
-addiction. Metzner proposes a broader hypothesis: that all
-"consciousness-expanding" hallucinogens can counteract the
-consciousness-contracting effect of addictive substances.
-
-## Cultural Significance
-
-Metzner views these syncretic movements as particularly significant.
-They have brought entheogenic plant experiences out of the limited
-context of shamanic healing and made them accessible to a large, diverse
-population, representing the beginnings of a broader cultural
-transformation movement.
-
-## See Also
-- [[entheogen-cimora-folk-healing-ceremony]]
-- [[metzner-four-paradigms-psychedelic-healing]]
+[[entheogen-cimora-folk-healing-ceremony]]
 - [[metzner-ayahuasca-therapeutic-potential]]
-- [[metzner-ibogaine-addiction-treatment]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[peyote-ceremony-guide]]

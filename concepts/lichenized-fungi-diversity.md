@@ -3,7 +3,7 @@ title: Lichenized Fungi Diversity
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 # Lichenized Fungi Diversity
@@ -117,14 +117,9 @@ Lichens face threats from habitat destruction, air pollution, climate change, an
 
 ## Related
 
-- [[fungi-convention-on-biological-diversity]]
 - [[mitosporic-fungi-diversity-species-estimates]] Topics
 
-- [[lichen-biology-guide]] — comprehensive treatment of lichen biology
 - [[fungal-kingdom-classification]] — taxonomic context of lichenized fungi
-- [[fungal-biodiversity-by-ecosystem]] — lichens across ecosystem types
 - [[fungal-conservation-endangered-species]] — conservation of rare lichens
-- [[fungal-chromogens-and-color-change]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[lichenized-fungi-biology-ecology-diversity]]

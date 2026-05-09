@@ -42,26 +42,7 @@ approximations, with recipes and user reports available online.
 
 ## Psilocybe Mushrooms
 
-[[psilocybe-cubensis]] and related species contain psilocybin
-(4-phosphoryloxy-N,N-dimethyltryptamine) and psilocin
-(4-hydroxy-N,N-dimethyltryptamine). Psilocybin metabolizes into psilocin
-in the gut. These mushrooms are not lethal and do not cause organ damage,
-though misidentification with poisonous species is dangerous.
-
-Psilocybe species are coprophagous, found from Florida through the Gulf
-States to Texas, in pasture fields, and along the Pacific Northwest
-coastline from California into Canada. P. cubensis typically contains
-10-12 mg psilocybin per gram dried. Threshold intoxication occurs at
-approximately 40 micrograms/kg; typical ingestion is 1-2 g dried (4-20
-mg psilocybin), peaking at 2 hours and diminishing over 3-4 hours.
-Cross-tolerance occurs with LSD. Sacramental use by Oaxacan tribes
-extends back to the Aztec era. Spore prints remain legal except in
-California.
-
-## Mescaline-Containing Cacti
-
-The peyote cactus (*Lophophoria williamsii*) contains over 60 alkaloids
-with [[mescaline-entity]] as the principal hallucinogen at approximately 1.5%
+[[mescaline-entity]] as the principal hallucinogen at approximately 1.5%
 by dry weight. It grows along the Texas-Mexico border. Potent
 intoxication requires approximately 3.75 mg/kg, peaking at 2-4 hours.
 
@@ -73,20 +54,6 @@ typically boiled into soup for ingestion. Emesis is more likely than
 with peyote due to the large volume of plant material required.
 
 ## Salvia divinorum
-
-[[salvia-divinorum]] (Lamiaceae) contains the neoclerodane diterpene
-salvinorin-A. Unlike most hallucinogens acting at 5-HT2A serotonin
-receptors, salvinorin-A is the first known naturally occurring
-non-nitrogenous kappa-opioid receptor agonist, a unique pharmacological
-mechanism. Traditionally consumed by Mazatec Indians of Oaxaca by
-chewing fresh leaves or drinking leaf juice, it is now widely sold in
-the US. Concentrated extracts are available online. When smoked,
-salvinorin-A is psychoactive for approximately 15 minutes at 200-500
-micrograms; oral absorption produces milder effects lasting up to 1
-hour. The DEA had not scheduled it as of 2004 but was monitoring it as
-a potentially emerging drug of abuse.
-
-## LSA-Containing Plants
 
 [[lysergic-acid-amide-discovery-in-ololiuhqui]] (LSA, ergine), a close analogue of LSD, is
 found in plant seeds: **Argyreia nervosa** (Hawaiian baby woodrose) at
@@ -109,36 +76,7 @@ toxic in most species, with seeds being particularly dangerous.
 
 ## Amanita Muscaria and Amanita Pantherina
 
-[[amanita-muscaria-ambrosia-preparation]] (fly agaric) and amanita pantherina (panther
-cap) contain muscimol (GABA receptor agonist) and amanita-muscaria-and-ibotenic-acid-fungi
-(excitatory glutamate receptor agonist). Usually not hepatotoxic when
-properly identified, but overdose can be lethal. Intoxication begins
-within 30 minutes, peaking over 2-3 hours. Ibotenic acid decarboxylates
-to muscimol when drying and is mostly excreted unmetabolized into urine,
-explaining historical reports of urine-drinking intoxication practices.
+[[psychoactive-plants-united-states]]
 
-The most serious danger is confusion with deadly amanita phalloides
-(death cap), which grows in close proximity. These mushrooms grow
-throughout much of the United States.
-
-## Summary
-
-Naturally occurring hallucinogenic plants in the US span multiple
-pharmacological classes: tryptamines (DMT, psilocybin), phenethylamines
-(mescaline), diterpenes (salvinorin-A), ergolines (LSA),
-anticholinergics (atropine, scopolamine), and GABA/glutamate agents
-(muscimol, ibotenic acid). While recreational abuse of most botanicals
-remains minimal, the Internet has dramatically expanded awareness and
-access. Clinicians and policymakers should be aware these substances
-are locally available and carry genuine health risks from
-misidentification, overdose, and improper preparation.
-
-## See Also
-
-- [[psychoactive-plants-united-states]]
-
-- [[sacramental-use-of-psychedelic-plants-in-us]]
-- ayahuasca
-- psilocybin
 - [[mescaline-entity]]
 - salvinorin-A

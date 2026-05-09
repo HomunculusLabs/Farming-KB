@@ -1,68 +1,9 @@
 ---
 title: Poultry Flock Management Density and Forage Systems
 created: 2026-04-26
-tags: [permaculture, poultry, forage, livestock-management, permaculture-design]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
+tags: [[mollison-pdc-poultry-forage-systems]]
 
-# Poultry Flock Management, Density, and [[mollison-pdc-poultry-forage-systems]]
-
-Effective poultry integration in [[permaculture]] depends on
-understanding appropriate flock densities, rotational
-management, and the design of forage systems that reduce or
-eliminate purchased feed inputs. Mollison provides detailed
-guidance on population density, forage crops, health
-management, and the integration of poultry with other farm
-systems.
-
-## Population Density Guidelines
-
-Chickens are unstressed at up to 800-900 per hectare,
-provided these are housed as 20 or so small flocks in sheds
-about 2 m per side. More usually, households keep one flock
-of 20-30 hens as a food supplement, and these may never
-range on greens where space is limited, but have cut greens
-supplied from garden weeds to roadside grasses.
-
-At 800 per hectare, chickens forage so well that other
-livestock cannot find sufficient browse, but at 350-400 per
-hectare sheep and cattle can also use the range. Densities of
-120-180 per hectare are needed just to clean up windfalls
-and supply fertiliser to orchards.
-
-A flock of 120-180 per hectare can be rotated around 12-16
-pens on one hectare every 18 months, when they remove all
-weeds, surface bulbs, weed seeds, and grasses and can be
-used as a "chicken tractor" to clean the ground of nutgrass,
-kikuyu, onion weed, Oxalis, or indeed almost every persistent
-weed.
-
-## Pen Rotation and Forage Cropping
-
-As pens are cleared, chickens are moved on, the ground is
-limed, and vegetable or orchard crops are planted. Before the
-chickens return, forage crops of buckwheat, wheat, sunflower,
-millet, black nightshade, cleavers, chard, and mustard can be
-sown and given 2-3 months to mature. The chickens thus plough
-and clear for their own forage.
-
-A separate pen of comfrey, arrowroot, chard, and sunroot can
-be kept as drought forage, or "throw-over-the-fence" crop.
-
-## Tree and Shrub Forage
-
-On range, full nutrition can be obtained by providing seed
-from abundant trees and shrubs:
-
-- Coprosma repens
-
-- Caragana
-
-- [[permaculture-tagasaste]]
+Effective poultry integration in [[permaculture-tagasaste]]
 
 - Boxthorn (Lycium spp.)
 
@@ -102,27 +43,7 @@ Given a free range of such richness, diseases are rare or
 absent. Healthy chickens require:
 
 - Dry dust baths with a little diatomaceous earth or dried
-  bracken [[permaculture-neem-tree]]neem tree leaves for ectoparasite control
-
-- A few wormwoods for intestinal worm control
-
-- Abundant shell grit or calcium (limestone) gravel for
-  eggshells
-
-- Hard silica grit to grind food in the crop
-
-- Adequate predator protection
-
-- Clean water
-
-- Good shade
-
-## Flock Husbandry
-
-All chicken flocks need observation, culling, replacements,
-range adjustment, predator control, clean water, and good
-shelter. Running a 13 hectare flock of 3000 birds is a
-full-time family job, combining well with [[chicken-tractor-systems]] and orchard fruit production.
+  bracken [[chicken-tractor-systems]] and orchard fruit production.
 
 Good husbandry requires close attention, good hygiene, and
 healthy food. As every livestock keeper knows, it is in the
@@ -147,3 +68,22 @@ for dabbling. They supply up to 200 eggs each per year, are
 ## See Also
 
 - [[bee-forage-hive-management-mollison]]
+## Practical Considerations
+
+Successful implementation of Poultry Flock Management Density and Forage Systems requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

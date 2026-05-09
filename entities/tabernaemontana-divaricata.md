@@ -55,7 +55,7 @@ sources:
 
 ## Distribution and Habitat
 
-The species is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, and southern China. It has been widely naturalized and cultivated across tropical and subtropical regions worldwide, including the Caribbean, Pacific Islands, and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through [[seed-dispersal-ecology-and-mechanisms]] and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
+The species is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, and southern China. It has been widely naturalized and cultivated across tropical and subtropical regions worldwide, including the Caribbean, Pacific Islands, and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through seed dispersal ecology and mechanisms and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
 
 ## Traditional Medicinal Use
 
@@ -95,40 +95,16 @@ While *T. divaricata* has a long history of safe traditional use, the presence o
 - Internal use of root preparations in large doses may cause nausea, vomiting, and dizziness
 - The iboga-type alkaloids (coronaridine, voacangine) are precursors to ibogaine and have cardiovascular effects at high doses, including bradycardia and QT prolongation
 - The plant should not be used during pregnancy or lactation due to insufficient safety data
-- Drug interactions with [[mao-inhibitors-and-psychedelics]], antihypertensives, and cardiac medications are theoretically possible due to the alkaloid profile
-- Standardized pharmacopoeial preparations and dosage guidelines have not been established for Western herbal medicine practice
-
-## Related Species
-
-- ***Tabernaemontana sananho:*** Amazonian species traditionally used in ayahuasca preparations and eye medicine; contains ibogaine-type alkaloids in higher concentrations than *T. divaricata*
-- ***Tabernaemontana pachysiphon:*** East African species used in traditional medicine for malaria and fever; notable for its antimalarial indole alkaloids
-- ***Tabernaemontana alternifolia:*** South Asian species with similar medicinal uses; distinguished by alternate leaf arrangement
-- ***Tabernaemontana elegans:*** Southern African species (toad tree) with edible arils; used traditionally for skin conditions and as a purgative
-- ***Tabernaemontana catharinensis:*** South American species studied for its anticancer alkaloid profile; contains tabernanthine and voacamine
-
-## Conservation Status
-
-*T. divaricata* is not currently considered threatened and is widely cultivated. However, wild populations in parts of its native range face pressure from habitat destruction due to agricultural expansion and urbanization. The species' dependence on specific forest habitats in some regions (particularly in the Western Ghats of India) has prompted recommendations for in situ conservation. Germplasm collections are maintained at several botanical gardens and agricultural research institutions across South and Southeast Asia.
-
-## Cultivation and Propagation
-
-*T. divaricata* is easily propagated from semi-hardwood cuttings (most common method), air layering, or seed. Cuttings root readily in 4–6 weeks under mist with rooting hormone. Seeds require fresh sowing and germinate in 2–4 weeks with bottom heat (25°C). The plant is relatively low-maintenance, requiring regular watering during establishment and occasional pruning to maintain shape. It is moderately [[drought-tolerant-planting-design]] once established but benefits from consistent moisture during the flowering period. In temperate regions, it is grown as a container plant and moved indoors when temperatures drop below 5°C. The double-flowered cultivar 'Flore Pleno' is the most widely grown form in ornamental horticulture. Fertilization with a balanced NPK fertilizer every 6–8 weeks during the growing season promotes vigorous flowering. The plant responds well to pruning and can be shaped into hedges, topiary forms, or standards.
+- Drug interactions with [[drought-tolerant-planting-design]] once established but benefits from consistent moisture during the flowering period. In temperate regions, it is grown as a container plant and moved indoors when temperatures drop below 5°C. The double-flowered cultivar 'Flore Pleno' is the most widely grown form in ornamental horticulture. Fertilization with a balanced NPK fertilizer every 6–8 weeks during the growing season promotes vigorous flowering. The plant responds well to pruning and can be shaped into hedges, topiary forms, or standards.
 
 ## Permaculture and Landscape Applications
 
-The pinwheel flower serves multiple functions in [[permaculture-design-course-notes]]. As an evergreen understory shrub, it provides year-round structure, fragrance, and visual interest in food forest and tropical garden designs. Its root system helps stabilize soil on slopes and riverbanks. The flowers attract butterflies, moths, and other pollinators. In tropical agroforestry systems, it can serve as a boundary hedge or living fence. The species is relatively pest-free, though mealybugs and scale insects may occasionally infest stressed plants. Its tolerance of partial shade makes it suitable for the understory layer of food forests, where it can fill gaps between larger canopy trees and ground covers. The plant's drought tolerance once established makes it suitable for xeriscaping in tropical and subtropical climates, reducing irrigation requirements in sustainable landscape designs.
-
-## Economic and Commercial Importance
-
-While *T. divaricata* is not a major commercial crop, it has economic significance in several sectors:
-
-- **Ornamental horticulture:** The species is a staple in tropical and subtropical nursery trade worldwide. The double-flowered 'Flore Pleno' cultivar is among the top 20 most sold flowering shrubs in South and [[southeast-asian-mushroom-tourism-bali]] garden centers, with annual nursery sales estimated in the millions of plants.
+The pinwheel flower serves multiple functions in [[southeast-asian-mushroom-tourism-bali]] garden centers, with annual nursery sales estimated in the millions of plants.
 - **Pharmaceutical research:** Interest in the species' iboga-type alkaloids has driven research funding from pharmaceutical companies investigating novel anti-cancer and anti-inflammatory drug leads. Coronaridine derivatives are in preclinical evaluation at several research institutions.
 - **Traditional medicine trade:** Dried roots and root bark are sold in Ayurvedic and Siddha medicine markets across India, particularly in Tamil Nadu and Kerala. Prices range from $5–15 per kilogram depending on quality and source.
 - **Essential oil:** Steam-distilled essential oil from the flowers, though low-yield (0.1–0.3%), is used in niche perfumery for its subtle jasmine-like fragrance with green, fresh undertones.
 
 ## See Also
 
-- [[agar]]
 - [[agroforestry]]
 - [[ayahuasca-preparation]]

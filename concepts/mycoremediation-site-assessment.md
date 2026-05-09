@@ -74,13 +74,9 @@ Most contaminated sites have multiple pollutant classes. Heavy metals are partic
 Based on the assessment findings, select the appropriate fungal species and inoculum form:
 
 - **White-rot fungi** (Trametes, Pleurotus, Phanerochaete) for organic pollutant degradation (PAHs, PCBs, dyes, pesticides)
-- **Melanized fungi** (Cladosporium, Aureobasidium) for [[heavy-metal-biosorption]]
-- **Mycorrhizal fungi** for phytoremediation support and long-term site stabilization
-- **Inoculum forms:** Grain spawn (for soil incorporation), liquid culture (for injection or spraying), or [[spent-mushroom-substrate]] (for biosorption applications)
+- **Melanized fungi** (Cladosporium, Aureobasidium) for [[spent-mushroom-substrate]] (for biosorption applications)
 
 ## See Also
 
-- [[mycoremediation-techniques]] — treatment method selection
 - [[mycoremediation-bioreactor-design-considerations]] — engineered system design
-- [[mycoremediation-heavy-metals-detailed]] — metal-specific assessment
 - [[mycoremediation-of-textile-dyes]] — dye contamination assessment

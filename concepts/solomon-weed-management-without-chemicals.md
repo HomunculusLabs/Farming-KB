@@ -140,8 +140,6 @@ against weeds, further reducing the ongoing weeding burden.
 
 ## Related Concepts
 
-- [[solomon-garden-hoe-and-cultivation-techniques]]
 - [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-mulching-and-cover-cropping]]
 - [[solomon-tilling-and-soil-aeration]]
 - [[solomon-pest-management-without-chemicals]]

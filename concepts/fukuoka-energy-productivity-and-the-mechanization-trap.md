@@ -117,7 +117,5 @@ Whether this system can be widely adopted remains contested. Critics point to la
 ## See Also
 
 - [[four-principles-of-natural-farming]]
-- [[do-nothing-farming]]
 - [[fukuoka-breakdown-japanese-agriculture]]
-- [[fukuoka-compost-unnecessary-philosophy]]
 - [[fukuoka-agriculture-for-tomorrow]]

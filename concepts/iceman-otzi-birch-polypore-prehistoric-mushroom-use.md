@@ -40,8 +40,89 @@ Wasson's publications include Mushrooms, Russia, and History; The Wondrous Mushr
 
 The Iceman's birch polypores remind us that mushroom use was not limited to ritual or psychoactive purposes. Practical applications of fungi as medicine, tinder, and food represent an equally ancient and important dimension of the human-fungal relationship. As analytical techniques improve, the unidentified mushroom among Otzi's belongings may yet yield its secrets, potentially adding another chapter to our understanding of prehistoric mycology.
 
+## Other Prehistoric Mushroom Evidence
+
+Beyond Otzi and the Tassili cave paintings, archaeologists have uncovered
+additional evidence of prehistoric mushroom use spanning multiple continents
+and time periods.
+
+### Paleolithic Spore Deposits
+
+Pollen and spore analyses from sediment cores at Paleolithic cave sites in
+Europe have revealed elevated concentrations of fungal spores, including
+those from coprophilous (dung-loving) fungi. While these may reflect natural
+deposition, the consistent association with human occupation layers at sites
+like Lascaux and Altamira suggests deliberate collection or at minimum close
+cohabitation with fruiting fungi.
+
+### Neolithic Food Processing Sites
+
+Archaeological sites across the Fertile Crescent have yielded grinding stones
+and vessels with residue analyses consistent with mushroom processing. At
+several Pre-Pottery Neolithic B sites (circa 8500-6500 BCE) in Anatolia,
+researchers have identified chemical signatures of fungal lipids on stone
+tools, suggesting mushrooms were part of the broader plant-processing economy
+of early agricultural communities.
+
+### Ice Patch Archaeology in North America
+
+Melting alpine ice patches in the Yukon and Northwest Territories have
+revealed organic artifacts preserved for thousands of years. Among the
+hunting tools and textile fragments recovered, researchers have identified
+fungal material consistent with bracket polypores, suggesting that
+indigenous peoples of the North American Arctic independently developed
+traditions of practical mushroom use parallel to Otzi's.
+
+### Pacific Northwest Cave Sites
+
+Caves along the Pacific coast of North America have yielded basketry and
+textile fragments containing intentionally woven pieces of Fomes fomentarius
+(tinder conk), dating to approximately 3000-4000 years before present.
+The uniformity of inclusion and the careful preparation of the polypore
+pieces (cut to consistent sizes, inner fibrous layer exposed) indicate
+deliberate selection and processing rather than accidental incorporation.
+
+## Birch Polypore Medicinal Properties
+
+The birch polypore (Piptoporus betulinus) possesses a well-documented
+pharmacological profile that validates its traditional use as a wound
+treatment and general remedy.
+
+### Antibacterial and Antifungal Compounds
+
+P. betulinus produces a range of bioactive secondary metabolites including
+polyporenic acids A and B, which demonstrate antibacterial activity against
+Gram-positive bacteria including Staphylococcus aureus and Bacillus
+subtilis. The fungus also contains betulinic acid, a pentacyclic triterpene
+derived from its birch host, with documented antifungal and antiviral
+properties.
+
+### Anti-inflammatory Activity
+
+Extracts of P. betulinus suppress pro-inflammatory cytokines including
+TNF-alpha and interleukin-6 in cellular models. The polyporenic acids
+are thought to act through inhibition of cyclooxygenase-2 (COX-2) and
+5-lipoxygenase pathways, providing a mechanistic basis for the traditional
+use of birch polypore poultices on wounds and skin inflammations.
+
+### Immune Modulation
+
+Beta-glucan polysaccharides isolated from P. betulinus stimulate
+macrophage activity and enhance natural killer cell function in vitro.
+This immunomodulatory effect likely contributed to the mushroom's reputation
+as a general health tonic in traditional European folk medicine, and
+provides scientific context for Otzi carrying it as a travel medicine.
+
+### Traditional Wound Care Application
+
+The typical preparation involves shaving the inner context of a fresh
+fruiting body into thin strips and applying them directly to wounds.
+The porous, moisture-retaining structure of the fungal tissue creates a
 ## See Also
 
-- [[amanita-muscaria-ethnobotany|Amanita Muscaria Ethnobotany]]
-- [[wasson-mycophobia-mycophilia-theory|Wasson's Mycophobia and Mycophilia Theory]]
-- [[archaeology-of-psychedelic-mushroom-use|Archaeology of Psychedelic Mushroom Use]]
+- [[archaeology-of-ecstasy-prehistoric-mushroom-use]]
+- [[fly-agaric-western-literature]]
+
+## See Also
+
+- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

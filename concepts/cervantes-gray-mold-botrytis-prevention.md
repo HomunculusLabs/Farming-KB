@@ -17,28 +17,7 @@ plants. Also known as bud mold, it flourishes in the moist,
 temperate climates common to many grow rooms and can destroy
 an entire crop in seven to ten days if left unchecked. Botrytis
 is arguably the single greatest threat to cannabis during late
-[[cervantes-sex-determination-pre-flowering]].
-
-## Identification
-
-Botrytis starts within the dense interior of flower buds and
-is extremely difficult to detect at onset. Visual
-characteristics include:
-
-- Grayish-whitish to bluish-green coloration in humid
-  conditions
-- Hair-like appearance similar to laundry lint
-- Dark brownish spots on buds in less humid environments
-- Botrytis-affected areas are dry to the touch and crumble
-  easily when rubbed
-- Single leaves mysteriously drying out on buds are often
-  the first external symptom
-- On stems, cankers and yellowish lesions develop before
-  the damage causes growth above to wilt
-
-Botrytis is transmitted by air, contaminated hands, and
-tools. Airborne spores are present virtually everywhere in
-the environment. The fungus also causes [[cervantes-root-rot-pythium-damping-off]] in seedlings and
+[[cervantes-root-rot-pythium-damping-off]] in seedlings and
 decomposes dry, stored bud. It can also be transmitted via
 seeds.
 
@@ -49,13 +28,7 @@ that growers must actively prevent:
 
 - Humidity above 50 percent promotes rapid growth
 - Cool temperatures below 70F (21C) accelerate spread
-- Poor [[cervantes-air-quality-ventilation]]
-  creates stagnant pockets of moist air
-- Dense, tightly packed flower buds provide ideal habitat
-- Unsterile growing medium harbors spores between crops
-
-Most fungus grows poorly or not at all when relative
-[[cervantes-humidity-control-dehumidification]]
+- Poor [[cervantes-humidity-control-dehumidification]]
 stays between 40 and 50 percent. Maintaining this range
 is the single most important preventive measure against
 Botrytis.
@@ -68,16 +41,9 @@ control. Multiple preventive measures work together:
 - Remove anything that might harbor or spread fungi:
   cloth curtains, clothes, debris, dead plant material
 - Cover carpets with white plastic sheeting (Visqueen)
-- Use fresh, sterile [[cervantes-growing-medium]] for each crop
-- Keep [[cervantes-reservoir-temperature-management]]
+- Use fresh, sterile [[cervantes-reservoir-temperature-management]]
   above 70F (21C) during flowering
-- Install adequate [[cervantes-air-quality-ventilation]] fans to remove moist air
-- Avoid heavy crowding of plants to promote air movement
-- Remove dead leaf stems and petioles from stalks when
-  defoliating, as rotting foliage harbors Botrytis
-- Grow varieties that do not produce overly dense, tightly
-  packed buds
-- Harvest when [[cervantes-harvest-timing-trichome-ripeness]] are still translucent; amber glands
+- Install adequate [[cervantes-harvest-timing-trichome-ripeness]] are still translucent; amber glands
   indicate elevated mold risk
 
 ## Control Measures
@@ -95,19 +61,7 @@ action is required:
   tissue
 - Increase temperature to 80F (26C) and lower humidity
   below 50 percent
-- Check that [[cervantes-ph-management-testing]] is
-  around 6 to facilitate calcium uptake
-- Avoid excessive nitrogen and phosphorus, which makes
-  foliage tender and susceptible
-- Keep light levels bright; low light encourages weak
-  growth prone to infection
-
-## Biological Control
-
-Several biological agents suppress Botrytis development:
-
-- Gliocladium roseum applied as a foliar spray
-- [[cervantes-trichoderma-beneficial-fungi]]
+- Check that [[cervantes-trichoderma-beneficial-fungi]]
   species as soil application to prevent damping-off
 - The yeast Pichia guilliermondii shows promise
 - Candida oleophila provides protective colonization

@@ -109,13 +109,8 @@ Modern interest in the species is driven entirely by laboratory pharmacology rat
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[ganoderma-lucidum]]
-- [[fomes-fomentarius]]
 - [[phellinus-linteus]]
-- [[coriolopsis-trogii]]
 - [[coriolopsis-capitata]]
-- [[trametes-hirsuta]]
 - [[hericium-erinaceus]]
-- [[laetiporus-sulphureus-permaculture]]
 - [[inonotus-obliquus]]

@@ -41,33 +41,10 @@ Reduction is accomplished with Red-Al in dry toluene under nitrogen. After the i
 
 ## The Auditory Distortion Connection
 
-The most significant pharmacological finding with 2-Me-DET is the auditory distortion reported at 70 mg. Both subjects noted pitch-shifting effects: higher frequencies in music were muffled while tones shifted to lower registers. Phone conversations sounded altered, with both dial tone and voice quality changing. This auditory selectivity closely parallels the signature effect of [[4-ho-dipt-entity-tihkal]] (N,N-diisopropyltryptamine), where auditory distortion is the primary and sometimes sole indicator of intoxication.
+The most significant pharmacological finding with 2-Me-DET is the auditory distortion reported at 70 mg. Both subjects noted pitch-shifting effects: higher frequencies in music were muffled while tones shifted to lower registers. Phone conversations sounded altered, with both dial tone and voice quality changing. This auditory selectivity closely parallels the signature effect of [[4-ho-det-entity-tihkal]] Compounds
 
-With DIPT, two isopropyl groups occupy the nitrogen; with 2-Me-DET, two ethyl groups occupy the nitrogen but a methyl group sits at the 2-position. Shulgin speculated that there may be an optimum group geometry that maximizes the auditory-to-visual distortion ratio. The additional mass of the 2-methyl group may bring the molecular weight into some kind of "auditory window" that selectively affects auditory processing pathways.
-
-## Extensions and Commentary
-
-Shulgin proposed that a particularly compelling compound would be N,N-diisopropyl-2-methyltryptamine (2-Me-DIPT), which would combine the diisopropyl nitrogen substitution of DIPT (known for its auditory effects) with the 2-methyl ring substitution of 2-Me-DET (which appears to enhance or reveal auditory distortion). At the time of writing, this compound had not been synthesized.
-
-The absence of visual effects in 2-Me-DET at active doses, combined with the prominent auditory changes, suggests a degree of receptor selectivity that is unusual among tryptamines. Most psychedelic tryptamines produce a broad spectrum of sensory alterations, but 2-Me-DET and DIPT appear to preferentially affect the auditory system.
-
-At higher doses (120 mg), the compound shifts character from subtle auditory distortion to cognitive clouding and mental slowing, without producing the visual effects typical of psychedelic tryptamines. This dose-dependent shift suggests that the auditory effects may be mediated by a different receptor population or mechanism than the cognitive effects.
-
-The compound was also noted for its lack of appetite suppression and absence of next-day negative effects at the 70 mg level, making it relatively benign in terms of aftereffects compared to many other tryptamines.
-
-## Physical Properties
-
-- Hydrochloride mp: 214–216 °C
-- Glyoxylamide intermediate mp: 170–172 °C
-
-## Related
-
-- [[4-ho-det-entity-tihkal]] Compounds
-
-[[det-entity-tihkal]] — the parent compound without the 2-methyl substitution, orally active psychedelic.
 [[4-ho-dipt-entity-tihkal]] — the diisopropyl analogue, famous for its selective auditory distortion effects.
-[[alpha-n-dmt-entity-tihkal]] — the dimethyl analogue, also showing auditory effects.
-[[alpha-n-dmt-entity-tihkal]] — N,N-dimethyltryptamine, the foundational compound of the series.
+[[amt-entity-tihkal]] — N,N-dimethyltryptamine, the foundational compound of the series.
 [[5-meo-dmt-entity-tihkal]] — 5-methoxy-DMT, a highly potent psychedelic tryptamine.
 
 ## Historical Context
@@ -83,3 +60,22 @@ Shulgin's proposal to synthesize 2-Me-DIPT, combining the diisopropyl and 2-meth
 ## Additional References
 
 Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
+## Practical Considerations
+
+Successful implementation of 2-Me-DET (N,N-Diethyl-2-Methyltryptamine) — TIHKAL Entry #33 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

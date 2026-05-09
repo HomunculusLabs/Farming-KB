@@ -101,20 +101,11 @@ GMO is moderately resistant to common molds and pests but can be susceptible to 
 
 ## See Also
 
-- [[girl-scout-cookies]]
 - [[chemdawg]]
-- [[og-kush]]
 - [[sour-diesel]]
-- [[wedding-cake-cannabis]]
 - [[animal-cookies]]
-- [[platinum-garlic]]
 - [[ice-cream-cake-cannabis]]
-- [[gorilla-glue]]
-- [[cannabis-indoor-growing-guide]]
-- [[slurricane]]
-- [[jungle-cake]]
+- [[cannabis-indoor-growing-basics]]
 - [[black-tuna]]
-- [[white-widow-entity]]
 - [[skunk-1]]
-- [[pink-runtz]]
 - [[green-crack]]

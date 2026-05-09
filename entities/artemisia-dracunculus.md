@@ -87,34 +87,7 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 ### Non-Volatile Compounds
 
 - **Coumarins:** Umbelliferone, scopoletin — bitter notes
-- **Flavonoids:** Quercetin, kaempferol glycosides — antioxidant activity
-- **Phenolic acids:** Caffeic acid, chlorogenic acid
-
-## Pharmacology and Traditional Medicine
-
-- **Digestive tonic:** Traditional carminative and appetite stimulant;
-  stimulates bile secretion and gastric juice production
-- **Antidiabetic:** Ethanolic extracts reduce blood glucose in diabetic mouse
-  models via enhanced insulin sensitivity and GLUT4 translocation
-- **Antimicrobial:** Essential oil active against Gram-positive bacteria
-  (S. aureus, B. subtilis) and C. albicans; MIC 0.1–1.0 mg/mL
-- **Antioxidant:** Methanolic extracts show significant DPPH radical scavenging
-- ⚠️ **Safety:** Estragole is IARC Group 2B (possible carcinogen at high
-  rodent doses); culinary use at normal dietary levels is considered safe by EFSA
-
-## Cultivation
-
-- **Propagation:** French — cuttings, division, tissue culture; Russian — seed
-- **Soil:** Well-drained sandy loam, pH 6.0–7.5
-- **Light:** Full sun, 6+ hours for best oil production
-- **Water:** Low to moderate; drought-tolerant once established
-- **Spacing:** 45–60 cm; hardiness USDA zones 4–9 (Russian), 5–8 (French)
-- **Harvest:** Pick leaves spring through autumn; best before flowering
-- **Yield:** 1–2 kg fresh leaf per plant per year
-
-## Permaculture Applications
-
-- **Companion planting:** Traditional companion to eggplant and tomatoes;
+- **Flavonoids:** Quercetin, [[companion-planting]]:** Traditional companion to eggplant and tomatoes;
   aromatic properties may deter insect pests
 - **Polyculture:** Understory herb in food forests; light weed suppression
 - **Pollinator support:** Flowers attract beneficial insects and parasitic wasps
@@ -122,6 +95,4 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 
 ## See Also
 
-- [[artemisia-absinthium]] — Absinthe, related medicinal Artemisia
-- [[artemisia-annua]] — Sweet wormwood, source of antimalarial artemisinin
-- [[ocimum-basilicum]] — Basil, fellow fine herbe
+- [[artemisia-annua]] — Sweet wormwood, source of antimalarial [[ocimum-basilicum]] — Basil, fellow fine herbe

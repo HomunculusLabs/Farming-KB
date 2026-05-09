@@ -123,8 +123,6 @@ water retention, and microbial ecology.
 
 - [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] Topics
 
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[oss-oeric-growing-parameters-cubensis]]
-- [[oss-oeric-spore-syringe-preparation]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]

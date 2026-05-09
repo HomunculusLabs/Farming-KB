@@ -57,42 +57,8 @@ PSP clinical trials have been conducted primarily in China:
 
 ## Mechanism of Action
 
-Both PSK and PSP function as [[beta-glucan-receptor-binding]] through multiple mechanisms:
-
-1. **T-cell activation**: Both compounds have specific activity for T-cells and antigen-presenting cells (monocytes, macrophages)
-2. **Cytokine induction**: PSK induces gene expression of TNF-alpha, IL-1, and IL-2; promotes IFN-gamma production
-3. **Direct tumour effects**: PSK may come into direct contact with tumour cells and cause specific killing; PSK has been shown to act directly on tumour cells
-4. **Immune restoration**: Both compounds restore immune function depressed by chemotherapy
-5. **Chemoprevention**: PSP has shown chemopreventive activity in vitro (Kun et al., 1999)
-
-## Safety Profile
-
-Both PSK and PSP have been used for decades with "risk for adverse effects virtually nonexistent." As Kidd (2000) concluded: "after a quarter century of trials indicating PSK can improve cancer survival, the cumulative human findings amount to a recommendation for its inclusion in standard anticancer protocols."
-
-## Dosing and Administration
-
-Clinical dosing of PSK in Japanese trials typically ranges from 3 grams per day, administered orally in divided doses.
-PSP has been studied at similar doses, with some Chinese trials using 1-3 grams daily.
-Both compounds are taken orally and are well-absorbed through the gastrointestinal tract, though the protein-bound polysaccharide structure means they act primarily through immune modulation rather than direct cytotoxic effects.
-Treatment duration in clinical trials typically spans the entire course of chemotherapy or radiation, continuing for months to years post-treatment.
-PSK is commercially available in Japan as Krestin, marketed by Sankyo (now Daiichi Sankyo), and has been approved by the Japanese Ministry of Health and Welfare as an adjunct cancer treatment since 1977.
-PSP is commercially produced in China as Yunzhi, available through several pharmaceutical manufacturers.
-
-## Quality and Standardisation
-
-The therapeutic consistency of PSK and PSP depends heavily on the strain of Trametes versicolor used, the fermentation conditions, and the extraction process.
-PSK is produced exclusively from the CM-101 strain, while PSP production uses the COV-1 strain.
-The protein content of both compounds is critical to their immunological activity — the peptide portion is responsible for much of the T-cell specific activity.
-Standardised extracts should specify both the polysaccharide and protein fractions.
-Hot water extraction is the traditional method for both compounds, though some modern preparations use enzymatic or alkaline extraction to improve yield.
-The growing consumer market for turkey tail supplements has raised quality concerns: many commercial products are simply dried mushroom powder rather than standardised PSK or PSP extracts, and the beta-glucan and protein content can vary enormously between products.
-Consumers seeking therapeutic-grade preparations should look for products specifying the extraction method, the active compound (PSK or PSP), and third-party verification of beta-glucan content.
-
-## Comparison with Other Medicinal Mushrooms
-
-Turkey tail occupies a unique position among [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]] because its active compounds (PSK and PSP) have undergone more extensive clinical trials than those of any other fungal species.
-While [[lentinan-pre-clinical-antitumour-models]] from Shiitake (Lentinula edodes) and D-fraction from [[cancer-maitake-d-fraction]] (Grifola frondosa) have shown promising immunomodulatory effects in preclinical and early clinical studies, neither has accumulated the volume of Phase III clinical trial data that PSK has in gastric and colorectal cancer.
-[[agaricus-blazei-murill-research]] has shown immunostimulatory activity in vitro and in animal models but has limited human clinical data.
+Both PSK and PSP function as [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]] because its active compounds (PSK and PSP) have undergone more extensive clinical trials than those of any other fungal species.
+While [[cancer-maitake-d-fraction]] (Grifola frondosa) have shown promising immunomodulatory effects in preclinical and early clinical studies, neither has accumulated the volume of Phase III clinical trial data that PSK has in gastric and colorectal cancer.
 [[cordyceps-research-cancer]] has demonstrated anti-tumour effects in preclinical studies.
 The key distinction of turkey tail compounds is the combination of extensive human clinical evidence with an extremely favourable safety profile, making them perhaps the best-supported medicinal mushroom preparations for integration into conventional cancer treatment protocols.
 
@@ -111,11 +77,7 @@ Ongoing Phase III trials are expected to further clarify the optimal dosing, tim
 
 ## See Also
 
-- [[beta-glucan-receptor-binding]]
 - [[medicinal-mushroom-immune-modulation]]
-- [[agaricus-blazei-murill-research]]
 - [[maitake-d-fraction-research]]
-- [[cordyceps-research-cancer]]
 - [[lentinan-clinical-research]]
-- [[mushroom-cultivation-fundamentals]]
 - [[psk-breast-lung-cancer-clinical-trials]]

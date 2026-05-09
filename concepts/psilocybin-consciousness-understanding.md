@@ -88,8 +88,6 @@ The very fact that human consciousness can be altered by natural chemical agents
 
 ## See Also
 
-- [[consciousness-and-psychedelics]]
 - [[information-paradigm-of-consciousness]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-default-mode-network-ego-dissolution]]
 - [[psilocybin-ego-dissolution-mechanisms]]

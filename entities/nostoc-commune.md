@@ -104,17 +104,10 @@ Climate change models predict expansion of biological soil crusts into higher la
 
 ## See Also
 
-- [[chlorella-vulgaris]]
 - [[porphyra-umbilicalis]]
-- [[ulva-lactuca]]
 - [[gracilaria-verrucosa]]
-- [[sargassum-fusiforme]]
 - [[laminaria-digitata]]
-- [[undaria-pinnatifida]]
-- [[ethnobotany]]
-- [[nitrogen-cycle]]
-- [[palmaria-palmata]]
+- [[lowenfels-nutrients-nitrogen-cycle]]
 - [[saccharina-latissima]]
-- [[caulerpa-racemosa]]
 - [[ulva-intestinalis]]
 - [[chondrus-crispus]]

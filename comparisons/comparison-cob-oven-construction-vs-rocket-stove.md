@@ -26,34 +26,6 @@ outdoor kitchen systems that cover the full spectrum of cooking tasks.
 
 ## Cob Oven Construction
 
-[[cob-oven-construction]]
-
-A cob oven is an outdoor baking structure built from a mixture of clay subsoil,
-sand, and straw fibers. The dome-shaped oven sits on an insulated foundation
-topped with a firebrick hearth floor. During construction, a sand form is
-shaped into the desired dome profile, then covered with successive layers of
-thermal cob for heat storage, insulation cob for heat retention, and a
-protective outer plaster coat. Once the cob dries and cures, the sand form is
-scooped out through the oven doorway, revealing the hollow baking chamber.
-
-The oven reaches 700 to 900 degrees Fahrenheit during a one to two hour firing
-with wood. After the fire is removed and the floor is cleaned, baking begins at
-peak temperature. Pizza cooks in roughly ninety seconds, flatbreads in two to
-five minutes. As the oven gradually cools through descending temperature zones,
-it transitions seamlessly to baking bread, roasting vegetables and meats,
-cooking casseroles, and finally serving as a slow-cooker for beans, soups, and
-stews. This thermal cascade from a single firing is the cob oven's defining
-advantage, producing an entire multi-course meal sequence from one fuel input.
-
-Construction costs are remarkably low since materials can often be sourced
-on-site. Clay subsoil, sand, and straw are the primary ingredients, with
-firebricks for the hearth being the main purchased item. A well-built oven on
-a proper foundation lasts decades. The main limitations are the permanent
-footprint requiring a solid base, the need for weather protection, and the
-preheating commitment required before each baking session.
-
-## Rocket Stove
-
 [[rocket-stove]]
 
 The rocket stove is a highly efficient clean-burning wood stove built around an
@@ -132,11 +104,8 @@ efficiently throughout the year.
 
 - [[comparison-solar-cooking-vs-cob-oven]]
 
-- [[comparison-cob-oven-vs-rocket-stove]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
-- [[cob-oven-construction]]
 - [[rocket-stove]]
-- [[rocket-mass-heater-design]]
 - [[solar-cooking-methods]]
 - [[natural-building]]
 - earthen oven design

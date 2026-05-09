@@ -78,15 +78,7 @@ powerless to do much.
 ## Signs of Natural Farming Adoption
 
 Despite the overall decline, Fukuoka found examples everywhere of
-people who had begun practicing [[fukuoka-natural-farming-philosophy-of-mu]]: a core of farmers who wanted to inject new ideas and
-approaches, individuals aiming for a natural diet, and those trying to
-restore nature. The [[fukuoka-giannozzo-pucci-italian-natural-farming-camp]] and the [[fukuoka-european-distribution-system-critique]] were notable examples.
-
-## See Also
-
-- [[fukuoka-european-agriculture-observations]]
-- [[fukuoka-european-travels-natural-farming]]
+people who had begun practicing [[fukuoka-giannozzo-pucci-italian-natural-farming-camp]] and the [[fukuoka-european-agriculture-observations]]
 - [[fukuoka-natural-farming-italy]]
-- [[fukuoka-giannozzo-pucci-italian-natural-farming-camp]]
 - [[fukuoka-european-civilization-standstill]]
 - [[fukuoka-vegetable-growing-natural-method]]

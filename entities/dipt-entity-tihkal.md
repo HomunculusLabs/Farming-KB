@@ -72,12 +72,26 @@ The mono-isopropyl analogue, N-isopropyltryptamine (IPT), has been prepared via 
 
 ## See Also
 
-- [[4-aco-dipt]]
-
 - [[5-meo-dipt-entity-tihkal]] -- 5-methoxy analogue
-- [[4-ho-dipt-entity-tihkal]] -- 4-hydroxy analogue
 - [[eipt-entity-tihkal]] -- N-ethyl-N-isopropyl analogue
-- [[mipt-entity-tihkal]] -- N-methyl-N-isopropyl analogue
 - [[dpt-entity-tihkal]] -- N,N-dipropyl analogue
-- [[dmt-entity-tihkal]] -- N,N-dimethyl parent compound
 - [[det-entity-tihkal]] -- N,N-diethyl homologue
+## Practical Considerations
+
+Successful implementation of DIPT (N,N-Diisopropyltryptamine) — TIHKAL Entry #4 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -77,46 +77,6 @@ cannabis becomes a tool for enhancement rather than escape.
 
 This mirrors the broader anthropological observation that the same substance
 can serve radically different functions depending on the context and mindset
-of the user, a concept sometimes called "set and setting."
-
-## The Earth as Provider
-
-Central to this philosophy is the concept of Pachamama, or Mother Earth, as
-the ultimate source of all healing plants. Cannabis is not merely a plant but
-a specific gift bestowed by the earth to serve humanity across multiple
-dimensions: healing the body, enlightening the mind, and engaging the spirit.
-
-The practitioner's relationship to cannabis is therefore one of gratitude and
-stewardship. The earth gives freely, and the practitioner is expected to use
-these gifts responsibly while giving back through worship, care for the
-natural world, and service to others.
-
-## Modern Pagan Integration
-
-For the modern practitioner, cannabis integration into ritual takes several
-forms as outlined in Sativus's guide:
-
-- **Blessing ceremonies** that honor the earth's bounty using cannabis as an
-  offering
-- **Healing rituals** that combine cannabis-infused preparations with
-  traditional ritual tools like the athame and chalice
-- **Fire celebrations** that use flame and cannabis smoke as dual elements
-  of worship
-- **Anointing rituals** that employ cannabis-infused olive oil for physical
-  and spiritual cleansing
-- **Energy work** and banishing rituals conducted in meditative, often dark
-  settings
-
-## Legal and Ethical Considerations
-
-Sativus explicitly notes that all practices described should only be attempted
-in jurisdictions where cannabis can be legally obtained and used. This
-pragmatic acknowledgment grounds the spiritual framework in real-world
-responsibility.
-
-## See Also
-
-- [[blessing-ground-ritual]] for the earth-blessing ceremony
-- [[cannabis-healing-ritual]] for the healing energy ritual
+of the user, a concept sometimes called "[[blessing-ground-ritual]] for the earth-blessing ceremony
 - [[cannabis-fire-ritual]] for the fire celebration ceremony
 - [[cannabis-anointing-oil]] for the oil blessing ritual

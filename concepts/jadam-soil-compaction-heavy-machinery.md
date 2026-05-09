@@ -111,10 +111,7 @@ JADAM recommends applying microorganisms regularly, three to four times per
 month throughout the year, by mixing them into irrigation water. When soil
 contamination is serious, one-time application is insufficient.
 
-### Cover Crop Method
-
-Combined with JMS, the cover crop method provides the best solution. Growing
-[[cover-crops]] like rye, which sends roots two to three meters deep, physically
+### [[cover-crops]] like rye, which sends roots two to three meters deep, physically
 breaks up compacted layers while pulling up minerals from deep subsoil. Rye
 roots penetrate and enrich deep soil with organic matter while easing
 compaction through their powerful root activity.
@@ -131,20 +128,7 @@ requires transitioning to biological inputs.
 JADAM states clearly that reconciling soil management with conventional
 farming proved impossible. The two approaches are mutually exclusive: you
 must solve soil compaction for sustained yield. Continuing conventional farming while
-trying to restore [[soil-life]] cannot succeed simultaneously.
-
-## The Long-Term Perspective
-
-Soil degradation is global and fast bringing the death of agriculture. Any
-farming that degrades soil destroys the future of farming. Five to ten years
-are needed to build six inches of topsoil through cover crop cultivation.
-While this appears slow, land that grows fertile over time without plowing,
-weeding, or chemical fertilizers represents an accumulation of labor, capital,
-and intangible values that far exceed short-term yield maximization.
-
-## Related Concepts
-
-- [[jadam-root-diagnosis-soil-health-indicators]] for diagnosing compaction
+trying to restore [[jadam-root-diagnosis-soil-health-indicators]] for diagnosing compaction
   through root observation
 - [[fukuoka-orchard-cover-crop-black-wattle-system]] for natural approaches
   to soil building through cover crops

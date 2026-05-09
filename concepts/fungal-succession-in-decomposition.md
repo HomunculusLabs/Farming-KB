@@ -89,7 +89,7 @@ When a tree falls or organic matter is deposited on soil, a predictable sequence
 - Wine cap: decomposes wood chips in garden mulch
 
 ## Related
-- [[the-soil-food-web]] — for broader forest floor ecology
+- [[fungal-ecology-forest-floor]] — for broader forest floor ecology
 - [[fungal-role-in-carbon-cycling]] — for carbon dynamics
 - [[fungal-decomposition]] — for decomposition overview
 - [[fungal-pathogens-in-agriculture]]

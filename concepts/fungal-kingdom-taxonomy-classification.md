@@ -1,7 +1,7 @@
 ---
 title: Fungal Kingdom Taxonomy and Classification
 created: 2026-04-28
-tags: [mycology, taxonomy, fungal-classification, kingdom-fungi]
+tags: [[mycology, taxonomy, fungal-classification, kingdom-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -131,8 +131,6 @@ major lineages.
 
 ## See Also
 
-- [[fungal-taxonomy-and-classification]]
 - [[fungal-kingdom-classification]]
-- [[fungal-phylogeny-kingdom-classification]]
 - [[fungal-species-concept-and-taxonomy]]
 - [[plants-of-the-gods-plant-kingdom-classification]]

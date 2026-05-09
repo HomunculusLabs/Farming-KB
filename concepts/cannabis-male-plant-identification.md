@@ -81,7 +81,7 @@ When choosing which male to use:
 - Look for vigorous growth, strong stems, and resistance to pests/disease
 - Consider the traits you want in offspring (potency, yield, flavor, growth characteristics)
 - A male's genetic contribution is often underestimated — choose as carefully as you would a female
-- See [[cannabis-breeding-basics]] and [[cannabis-genetics-and-breeding]] for breeding methodology
+- See [[cannabis-genetics-and-breeding]] for breeding methodology
 
 ## THC in Male Plants
 
@@ -94,11 +94,7 @@ Green notes that male plants do contain THC, though at much lower levels than fe
 
 ## Related Topics
 
-- [[cannabis-pre-flowering-and-sexing]] — sex identification guide
 - [[cannabis-sinsemilla-life-cycle]] — growing seedless females
-- [[cannabis-breeding-basics]] — breeding fundamentals
 - [[cannabis-genetics-and-breeding]] — genetic principles for breeding
-- [[cannabis-controlled-pollination-seed-production]] — controlled breeding
 - [[cannabis-cloning-and-mother-plants]] — vegetative propagation without males
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-hash-making-from-extracted-oil]]

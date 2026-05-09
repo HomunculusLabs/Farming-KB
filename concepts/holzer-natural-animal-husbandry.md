@@ -45,43 +45,7 @@ toxins can be deposited in the body.
 
 ### Open-Land Industrial Farming
 
-In Africa, Brazil, and Argentina, industrial [[fukuoka-natural-livestock-farming]] takes a
-different form but causes enormous ecological damage:
-- Huge areas of native grasslands and rainforest cleared for grazing
-- Enormous areas of rainforest burnt daily for soy, grain, and sugar cane
-- Several thousand hectares destroyed every day
-- Soil lacks humus and washes out within four years of forest removal
-- Areas become desert and are abandoned, moving destruction elsewhere
-
-### EU Subsidy Problems
-
-European Union subsidies have seduced farmers into keeping too many animals.
-In Portugal and Spain, excessive sheep and goat numbers lead to:
-- Insufficient shelter from sun
-- Not enough vegetation
-- Heavily overgrazed ground
-- Pest overpopulation
-- Decrease in healthy flora
-- Soil degradation and foot rot
-- Animals dying from drought
-- Farmers compensated for losses caused by their own overgrazing
-
-## Animals as Co-workers
-
-Every animal has its purpose in an ecosystem. They are generally happy to
-work with humans if treated well.
-
-### Draught Animals
-
-Horses, oxen, and cows can be used for ploughing and transport. They show
-joy when approached for work. Trust is essential: an animal only rebels
-when it cannot tolerate what is being asked. Once trust is lost, it is very
-difficult to regain and cannot be achieved by the person who harmed the
-animal.
-
-### Reforestation Assistance
-
-[[reforestation-with-pigs]] kept in paddocks work the ground and
+In Africa, Brazil, and Argentina, industrial [[reforestation-with-pigs]] kept in paddocks work the ground and
 regulate pests that could damage forests. Sheep and goats help by keeping
 dense undergrowth in check. Goats naturally prune branches and twigs.
 Cattle eat twigs, leaves, and buds at higher levels. Animals must not be
@@ -107,7 +71,7 @@ allow animals to procreate, raise young, and build their own nests.
 
 Every animal needs freedom of movement. If the habitat offers enough
 materials (trees, straw, leaves, branches), animals will build their own
-shelter. Where [[building-with-natural-materials]] are insufficient, [[holzer-earth-shelters-pigsties]] provide:
+shelter. Where [[holzer-earth-shelters-pigsties]] provide:
 - Cooler temperatures in summer and warmth in winter
 - Open access at all times
 - A central position between several paddocks
@@ -146,3 +110,7 @@ Holzer advocates for slaughter that respects the animal:
 
 Out of respect, everything an animal offers should be utilised: meat,
 ## See Also
+
+## See Also
+
+- [[natural-farming-animal-husbandry]]

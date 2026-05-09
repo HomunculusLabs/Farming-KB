@@ -71,7 +71,7 @@ A photo laminator can press resin powder between two sheets of cellophane. The h
 
 ## Resin Powder as Rosin Precursor
 
-The dry-sieved [[comparison-cannabis-kief-collection-vs-hashish-guide]] and [[oner-cannabis-water-extraction-ice-water-hash]] pressing methods described by Cervantes are direct ancestors of rosin pressing:
+The dry-sieved [[oner-cannabis-water-extraction-ice-water-hash]] pressing methods described by Cervantes are direct ancestors of rosin pressing:
 
 - Hand pressing works dried resin powder between palms
 - Potent resin powder is creamy white to gold, darkening through oxidation
@@ -113,13 +113,8 @@ Modern rosin pressing has evolved from the techniques described by Cervantes:
 
 ## See Also
 
-- [[rosin-pressing-technology]]
-
 - [[cannabis-hashish-production]]
-- [[cannabis-kief-collection]]
 - [[cannabis-ice-water-extraction]]
-- [[cannabis-oil-extraction]]
 - [[cannabis-quality-testing]]
-- [[cannabis-hash-making-from-extracted-oil]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]

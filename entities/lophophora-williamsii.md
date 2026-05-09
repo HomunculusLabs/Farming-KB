@@ -105,21 +105,7 @@ Grafted specimens on *Trichocereus* rootstock can grow 10–20× faster than own
 
 ### Grafting Technique
 
-- Use young *Trichocereus pachanoi* or *T. bridgesii* rootstock, 3–6 cm diameter
-- Cut both scion and rootstock with clean, sharp blade at matching diameters
-- Align vascular rings and hold with rubber bands or grafting clips
-- Keep in warm shade (20–25 °C) for 2–3 weeks until callus forms
-- Gradually increase light over 2 weeks after union is established
-- Grafted peyote may flower in 2–3 years vs. 5–10+ on own roots
+- Use young *[[lophophora-diffusa]]
 
-## Safety Profile
-
-Very low acute toxicity; no documented human deaths from mescaline overdose alone. Significant nausea common with raw peyote (tyramine/hordenine). Mild tachycardia and hypertension at therapeutic doses. Can trigger anxiety or psychosis in predisposed individuals. HPPD reported rarely. Potentially dangerous with MAOIs, stimulants, tramadol; serotonergic syndrome risk with SSRIs. Contraindicated in severe cardiovascular disease and pregnancy.
-
-## See Also
-
-- [[lophophora-diffusa]]
-
-- [[mescaline-entity]]
 - [[psychedelic-plant-sources]]
 - [[entheogens-in-ancient-cultures]]

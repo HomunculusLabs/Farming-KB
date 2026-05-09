@@ -106,11 +106,7 @@ Breeds are divided by skin color:
 
 ## Related Topics
 
-- [[chicken-keeping-guide]] — comparing livestock species
 - [[goat-keeping-guide]] — another versatile homestead animal
-- [[sheep-keeping-guide]] — additional livestock
 - [[cattle-keeping-guide]] — larger ruminant livestock
-- [[pasture-management-and-forage]] — pasture systems
 - [[no-till-grain-growing]] — grain for supplementary feeding
-- [[gaias-garden-cover-crops-soil-building]]
 - [[jadam-fruit-tree-winter-pest-control]]

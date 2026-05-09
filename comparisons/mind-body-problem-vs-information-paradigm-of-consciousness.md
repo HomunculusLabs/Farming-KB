@@ -111,8 +111,6 @@ The comparison therefore reveals a useful division of labor: philosophy preserve
 
 ## See Also
 
-- [[mind-body-problem-and-psychedelics]]
 - [[information-paradigm-of-consciousness]]
-- [[psychedelic-consciousness-models]]
 - [[psilocybin-mystical-experiences-personality-change]]
 - [[psychedelic-mushroom-set-and-setting]]

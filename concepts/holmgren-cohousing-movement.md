@@ -3,34 +3,7 @@ title: Holmgren Cohousing Movement
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Cohousing Movement
-
-Updated: 2026-04-19
-
-David Holmgren discusses cohousing and related models of intentional community in *Permaculture: Principles and Pathways Beyond Sustainability* (2002) as promising alternatives to both isolated nuclear households and full communal living.
-
-## Balanced Community Design
-
-Cohousing models attempt to balance private household autonomy with shared common resources and social infrastructure. Individual households maintain their own living spaces, kitchens, and economic independence, while sharing common facilities such as laundry, workshop, guest rooms, and community gardens. This avoids many governance problems of full communal living while capturing some economies of scale.
-
-This middle-ground approach reflects the permaculture principle of finding balance between integration and autonomy, connecting to [[holmgren-integrate-segregate-detailed]] and [[permaculture-design-principles]].
-
-## Connection to Permaculture Principles
-
-Cohousing reflects several permaculture principles:
-
-- **Principle 8: Integrate Rather Than Segregate** — shared spaces create functional connections between households
-
-- **Principle 10: Use and Value Diversity** — residents bring different ages, skills, and perspectives
-
-- **Principle 4: Apply Self-Regulation** — lighter governance structures than full communal models
-
-The cohousing model demonstrates [[permaculture-settlement-design]] at the neighborhood scale, showing how physical design can facilitate social connection and resource sharing without requiring the ideological commitment of full communal living.
+tags: [[holmgren-integrate-segregate-detailed]] and [[permaculture-settlement-design]] at the neighborhood scale, showing how physical design can facilitate social connection and resource sharing without requiring the ideological commitment of full communal living.
 
 ## Limitations and Challenges
 
@@ -44,60 +17,96 @@ Holmgren identifies impediments to the development of cohousing and integrated r
 
 - Little knowledge of suitable legal mechanisms for land-use rights or structures for integration and conflict resolution
 
-These impediments connect to [[holmgren-permaculture-land-tenure-and-legal-structures]] and the broader challenge of creating legal and economic frameworks that support sustainable settlement patterns.
-
-## Rural Community Integration
-
-Holmgren sees particular potential in integrating cohousing principles with rural land management. Rural resettlement and rural tourism have stimulated many examples of integrated rural land use with permaculture inspiration. Visitors seeking integrated experiences — staying in accommodation made from local natural materials, eating local food, experiencing diverse and harmonious landscapes — create economic value from what were once common and everyday aspects of integrated systems.
-
-## Tourism Subsidizing Sustainability
-
-It is ironic that tourism is subsidizing organic and other innovative sustainable agriculture in Australia, just as tourism provides an economic base for traditional, sustainable culture worldwide. Despite contradictions, this creates economic incentive for integrated land use when most other forces accelerate disintegration of rural landscapes.
-
-More importantly, it shows that in the modern world, a shortage of integrity — in the broadest sense — has created an economic value from what were once common and everyday aspects of integrated systems.
-
-## Rural Eco-Villages with Body Corporate
-
-Holmgren discusses how strata or body corporate title, originally developed for shopping centres and industrial estates, can be applied to rural residential communities. As co-owners of shared land, residents gain economies of scale for shared services while maintaining private households. The sharing of waste management services provides economies of scale for small businesses dealing with stricter pollution control regulations.
-
-We saw the potential for these industrial estates to develop more complex examples of industrial ecology, where the output of one business was the input of another.
-
-## Scale and Number
-
-Holmgren suggests that rapid growth of cohousing is unlikely until external conditions force it. The combined effects of rural resettlement demonstrate the potential, but economic and legal barriers remain significant. The real driver will be energy descent making conventional suburban living increasingly untenable.
-
-This connects to [[permaculture-retrofit-suburbia]] and the argument that external energy constraints will eventually override the economic and cultural barriers to cohousing.
+These impediments connect to [[permaculture-retrofit-suburbia]] and the argument that external energy constraints will eventually override the economic and cultural barriers to cohousing.
 
 ## Relation to Intentional Communities
 
-Cohousing represents a middle ground between conventional living and the full [[holmgren-intentional-communities-history]] model. By maintaining household autonomy while creating shared infrastructure, cohousing avoids many of the failure patterns Holmgren identifies in intentional communities — particularly the governance overload and founder burnout that plague close-knit communal experiments.
-
-## Impediments to Proliferation
-
-The development and proliferation of rural eco-villages in Australia has been slow. This is due to a number of factors including:
-
-- Planning schemes give no incentives for groups or developers who initiate this type of rural resettlement and may actively discourage it
-
-- Rural land is relatively cheap, due to low commodity prices and poor economic viability of agriculture
-
-- There is a reluctance to deal with the complexities and constraints of community
-
-## Competition and Cooperation
-
-The cohousing model reflects Holmgren's analysis of [[competition-cooperation-permaculture]]. In rapidly growing human communities tapping new resources, competition tends to prevail. In stable traditional societies where all resources are fully allocated, mutual obligations, gifting, taxation and other social mechanisms prevail over competitive ones. Cohousing aims to create the conditions where cooperative relationships can flourish.
+Cohousing represents a middle ground between conventional living and the full [[competition-cooperation-permaculture]]. In rapidly growing human communities tapping new resources, competition tends to prevail. In stable traditional societies where all resources are fully allocated, mutual obligations, gifting, taxation and other social mechanisms prevail over competitive ones. Cohousing aims to create the conditions where cooperative relationships can flourish.
 
 ## See Also
 
-- [[holmgren-intentional-communities-history]]
-
 - [[holmgren-tripartite-altruism]]
 
-- [[holmgren-ethics-cultural-mechanisms]]
-
 - [[permaculture-disaster-resilience]]
-
-- [[holmgren-permaculture-land-tenure-and-legal-structures]]
 
 - [[permaculture-settlement-design]]
 
 Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Principles 8 and 12
+## Practical Applications
+
+Holmgren Cohousing Movement has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+Holmgren Cohousing Movement. These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

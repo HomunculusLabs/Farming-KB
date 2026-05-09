@@ -64,8 +64,7 @@ The appellate decision (806 F.Supp. 232, D.Colo., 1992) hinged on grammatical an
 ## Related Compounds and Homologues
 
 - **5-MeO-alpha-ET**: The 5-methoxy analogue, approximately twice as potent as alpha-ET. At 70 mg orally it produced a trippy feeling lasting several hours with increased heartbeat and difficulty sleeping, but no psychedelic effects as such and no unpleasant side effects. Primary synthesis from 5-methoxyindole-3-aldehyde via nitropropane coupling followed by LAH reduction (72% yield). An alternate synthesis avoiding LAH involves conversion of 5-methoxyindole to the nitrobutane with 2-nitro-1-butene, followed by nickel boride reduction (52% yield, free base mp 110-112 C).
-- **alpha-PT (alpha-propyltryptamine)**: Made from tryptophan; acetate salt mp 158-158.5 C. Never tasted in man. Expected to require very hefty dosages based on potency loss patterns in similar homologation series (noted similarity to the Muni Metro series related to [[mdma-compound-profile]]).
-- **1,1-dimethyl-3-ethyl-1,2,3,4-tetrahydro-beta-carboline**: A caroline formed by Pictet-Spengler condensation of alpha-ET with acetone. A chemical ally of the [[harmine-entity-tihkal]] family. Reported as an impurity of commercial alpha-ET (including prescheduling product from Aldrich) to an extent of some 30%, potentially contributing to central action.
+- **alpha-PT (alpha-propyltryptamine)**: Made from tryptophan; acetate salt mp 158-158.5 C. Never tasted in man. Expected to require very hefty dosages based on potency loss patterns in similar homologation series (noted similarity to the Muni Metro series related to [[harmine-entity-tihkal]] family. Reported as an impurity of commercial alpha-ET (including prescheduling product from Aldrich) to an extent of some 30%, potentially contributing to central action.
 
 ## Physical Properties
 
@@ -76,9 +75,6 @@ The appellate decision (806 F.Supp. 232, D.Colo., 1992) hinged on grammatical an
 
 ## See Also
 
-- [[amt-entity-tihkal]] -- the methyl analogue, more psychedelic in character
-- [[alpha-n-dmt-entity-tihkal]] -- the N-methylated analogue
-- [[dmt-entity-tihkal]] -- N,N-dimethyltryptamine, the foundational compound
+- [[amt-entity-tihkal]] -- the N-methylated analogue
 - [[harmaline-entity-tihkal]] -- beta-carboline MAOI, shares structural relationships
-- [[net-entity-tihkal]] -- N-ethyltryptamine
 - [[ibogaine-entity-tihkal]] -- another compound studied for anti-addictive properties

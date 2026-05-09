@@ -106,7 +106,6 @@ Cannabis may support musculoskeletal health in active individuals:
 - Topical applications can supplement systemic cannabis without increasing psychoactive burden
 - Start low and titrate slowly, especially in opioid-dependent patients
 
-See also: [[cannabis-chronic-pain-management]], [[cannabis-anti-inflammatory-applications]], [[cannabis-autoimmune-conditions]], doi entity, doi entity, [[cannabis-dosing-guidelines-by-condition]]
-- [[cannabis-spinal-cord-injury-treatment]]
+See also: [[cannabis-anti-inflammatory-applications]], [[cannabis-dosing-guidelines-by-condition]]
 - [[blesching-cannabis-neuropathic-pain]]
 - [[mushroom-cytokine-production-immune-activation]]

@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Natural Farming Composting Methods
 
-Natural farming employs several advanced [[solomon-composting-methods]] that go far beyond traditional composting. The centerpiece is Fermented Mixed Compost (FMC), a potent, enzyme-rich compost fortified with [[korean-natural-farming]] inputs and [[indigenous-microorganisms]]. The system also includes [[bokashi]]-style designer composts and IMO-enriched composts.
+Natural farming employs several advanced [[korean-natural-farming]] inputs and [[bokashi]]-style designer composts and IMO-enriched composts.
 
 ## Fermented Mixed Compost (FMC)
 
@@ -147,3 +147,7 @@ A comprehensive soil conditioner applied per acre:
 - Seawater: 3 liters
 ## See Also
 - green cannabis grow bible seed germination methods
+
+## See Also
+
+- [[natural-farming-guide-composting-methods-and-techniques]]

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically Psychotria viridis, called chacruna) and a [[banisteriopsis-caapi]] vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
+Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically Psychotria viridis, called chacruna) and a Banisteriopsis caapi vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
 
 The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead) and "wasca" (vine, rope) — "vine of the soul" or "vine of the dead."
 

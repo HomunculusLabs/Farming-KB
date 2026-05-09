@@ -93,13 +93,9 @@ The basic apple guild pattern can be adapted for other fruit trees:
 
 ## See Also
 
-- [[apple-centered-guild-design]]
 - [[fruit-tree-guild-roles]]
-- [[permaculture-guild-design]]
 - [[gaia-garden-plant-guilds]]
-- [[mollison-guild-design]]
 - [[permaculture-plant-guilds]]
-- [[faires-plant-communities-and-guilds]]
 - [[permaculture-fruit-tree-guide]]
 
 ## Source

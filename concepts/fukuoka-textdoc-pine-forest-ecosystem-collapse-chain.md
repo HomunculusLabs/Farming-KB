@@ -115,11 +115,7 @@ This asymmetry between the ease of destruction and the difficulty of restoration
 
 ## See Also
 
-- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
-
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-pine-blight-matsutake-portent]]
 - [[fukuoka-pine-environment-collapse-japan]]
-- [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-rodenticide-ecosystem-disruption-chain]]

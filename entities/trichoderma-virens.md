@@ -114,10 +114,7 @@ exemplifies how combining multiple biocontrol mechanisms can
 provide robust, broad-spectrum disease suppression.
 
 ## See Also
-Related: [[singh-trichoderma-biocontrol-mechanisms-applications]], [[ingham-trichoderma-biocontrol-fungi-aact]], [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[trichoderma-harzianum]]
-- [[pythium-ultimum]]
+Related: [[ingham-trichoderma-biocontrol-fungi-aact]], [[trichoderma-harzianum]]
 - [[sclerotinia-sclerotiorum]]
-- [[coniothyrium-minitans]]
 - [[clonostachys-rosea]]
 - [[pythium-oligandrum]]

@@ -43,58 +43,7 @@ C. annuum is among the oldest domesticated plants in the Americas, with archaeol
 
 **Authority:** Carl Linnaeus, *Species Plantarum* (1753)
 
-**Synonyms:** Capsicum frutescens L. (often conflated), Capsicum longum DC.
-
-**Etymology:** *Capsicum* derives from the Latin *capsa* (box), referring to the pod-like fruit. *Annuum* (annual) is a misnomer, as the species is actually perennial in tropical climates; Linnaeus based the epithet on its cultivation as an annual in temperate Europe.
-
-## Morphology
-
-**Growth habit:** Perennial shrub, typically grown as annual in temperate zones. Height: 30-150 cm depending on cultivar. Branching varies from compact (bell peppers) to tall and open (cayenne).
-
-**Leaves:** Simple, alternate, ovate to lanceolate, 4-12 cm × 2-6 cm. Dark green, glabrous to slightly pubescent. Margin entire.
-
-**Flowers:** Solitary or in small clusters at branch nodes. Corolla white to pale purple, 8-15 mm diameter, rotate with 5-6 petals. Stamens 5-6, equal length. Anthers blue or violet. Flowers pendant in most cultivars.
-
-**Fruit:** Botanically a berry (commonly called a pod or pepper). Shape, size, and color vary enormously by cultivar:
-- Bell peppers: blocky, 3-lobed to 4-lobed, 5-12 cm, green to red/yellow/orange.
-- Cayenne: slender, curved, 10-25 cm × 1-2 cm, green to red.
-- Jalapeño: cylindrical, 5-9 cm × 2-3 cm, dark green to red.
-- Thai bird's eye: small, conical, 2-5 cm, green to red, very pungent.
-
-**Seeds:** 10-30 per fruit, flat, disc-shaped, pale yellow, 3-4 mm diameter.
-## Phytochemistry
-
-**Capsaicinoids (primary bioactive compounds):**
-
-| Capsaicinoid | Approx. % of Total | Scoville Heat (SHU/mg) |
-|-------------|-------------------|----------------------|
-| Capsaicin | 50-70% | 16,000,000 |
-| Dihydrocapsaicin | 20-30% | 15,000,000 |
-| Nordihydrocapsaicin | 5-10% | 9,100,000 |
-| Homocapsaicin | 1-3% | 8,600,000 |
-| Homodihydrocapsaicin | 1-3% | 8,600,000 |
-
-**Carotenoids:** Capsanthin (major red pigment), capsorubin, β-carotene, lutein, zeaxanthin. Bell peppers are among the richest dietary sources of vitamin C (80-200 mg/100 g fresh weight).
-
-**Flavonoids:** Quercetin, luteolin, apigenin, and their glycosides.
-
-**Vitamins:** Exceptionally high in vitamin C (highest among common vegetables), provitamin A (β-carotene), vitamin B6, vitamin K1, and vitamin E.
-
-**Essential oils:** Present in fruit pericarp at low levels; contribute to aroma.
-
-## Pharmacology and Medicinal Applications
-
-### Topical Analgesia
-Capsaicin creams (0.025-0.1%) are FDA-approved for neuropathic pain, osteoarthritis, and post-herpetic neuralgia. Mechanism: TRPV1 activation depletes substance P in nociceptive nerve endings, producing analgesia after initial burning sensation.
-
-### Metabolic Effects
-Capsaicin increases thermogenesis and fat oxidation via TRPV1 in adipose tissue. Epidemiological studies associate regular chili consumption with reduced obesity and improved insulin sensitivity.
-
-### Gastroprotective Effects
-Despite common belief that chilies damage the stomach, capsaicin stimulates gastric mucosal blood flow and mucus secretion, demonstrating gastroprotective activity at moderate doses. High-dose capsaicin can be irritant.
-
-### Antimicrobial Activity
-Capsicum extracts show antibacterial activity against *H. pylori*, *Salmonella*, *E. coli*, and *S. aureus*. Antifungal activity against *Candida albicans* is also documented. These properties contributed to traditional use as food preservatives.
+**Synonyms:** [[candida-albicans]]* is also documented. These properties contributed to traditional use as food preservatives.
 
 ### Cardiovascular Benefits
 Regular consumption is associated with reduced platelet aggregation, improved endothelial function, and lower blood pressure.
@@ -109,7 +58,7 @@ Regular consumption is associated with reduced platelet aggregation, improved en
 **Spacing:** 30-60 cm between plants depending on cultivar.
 **Harvest:** 60-90 days from transplanting. Harvest green or allow full ripening (sweeter, higher carotenoids).
 **Yield:** 1-3 kg per plant depending on cultivar and conditions.
-**Pests:** Aphids, flea beetles, pepper weevils. Companion with [[tagetes-erecta-entity]] and [[ocimum-basilicum]].
+**Pests:** Aphids, flea beetles, pepper weevils. Companion with [[ocimum-basilicum]].
 
 ## Permaculture and Companion Planting
 
@@ -135,16 +84,12 @@ Regular consumption is associated with reduced platelet aggregation, improved en
 - **Poblano/Ancho:** Mild (1,000-2,000 SHU), heart-shaped; dried form is ancho.
 - **Thai bird's eye:** Very hot (50,000-100,000 SHU), small, Southeast Asian cuisine.
 - **Serrano:** Hot (10,000-23,000 SHU), smaller than jalapeño, used fresh.
-
 ## Related Species
 
-- **Capsicum chinense:** Habanero, Scotch bonnet. Highest capsaicin among domesticated species.
-- **Capsicum frutescens:** Tabasco pepper. Often considered conspecific with C. annuum.
-- **Capsicum baccatum:** Ají amarillo, South American, distinctive fruity flavor.
+- **[[capsicum-baccatum]]:** Ají amarillo, South American, distinctive fruity flavor.
 - **Capsicum pubescens:** Rocoto pepper, high-altitude Andean species, black seeds.
 
 ## See Also
 
-- [[glycyrrhiza-glabra]] — Licorice, another leguminous herb with similar growing zone
 - [[tagetes-erecta-entity]] — Marigold, companion plant for nematode deterrence
 - [[ocimum-basilicum]] — Basil, companion plant that improves pepper flavor

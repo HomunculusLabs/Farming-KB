@@ -61,17 +61,7 @@ In addition to the kitchen garden, many farmers also had a large fenced vegetabl
 
 ## Companion Planting in Practice
 
-The traditional interplanting at Krameterhof demonstrates natural [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] principles:
-- Beans + lettuce (lettuce protects beans from cold)
-- Radishes and carrots as catch crops
-- Herbs placed according to soil and light requirements
-- Poisonous plants integrated for soil health benefits
-
-## Layout Principles from the Krameterhof
-
-Holzer's approach to garden layout rests on a few core principles that distinguish his method from conventional gardening. The most fundamental is **site-appropriate plant placement**: rather than amending soil to suit plants, Holzer places plants where the existing microconditions naturally support them. At the Krameterhof, this means dry-stony spots receive thyme and lavender while damp, nutrient-rich areas receive mint and lovage. This principle reduces maintenance, eliminates the need for fertilizers or irrigation, and produces plants with higher concentrations of essential oils and medicinal compounds — Holzer argues that plants grown in their preferred conditions develop stronger flavours and more potent therapeutic properties.
-
-A second principle is **access-based zonation**: the most frequently used plants are placed nearest the point of entry. At Krameterhof, chives, leeks, onions, garlic, and lovage are positioned by the garden gate because the cook reaches for them daily. This mirrors the standard permaculture [[mollison-designers-climate-zone-1-intensive-garden]] concept but applied at a finer grain within the kitchen garden itself.
+The traditional interplanting at Krameterhof demonstrates natural [[mollison-designers-climate-zone-1-intensive-garden]] concept but applied at a finer grain within the kitchen garden itself.
 
 A third principle is **vertical layering**: the garden integrates multiple canopy layers — ground-cover strawberries along the fence, low herbaceous herbs in the open beds, medium shrubs (currants, gooseberries), and a small tree by the house wall (the damson seedling). This vertical structure maximizes production per square metre and creates the varied microenvironments that enable the site-appropriate placement strategy.
 
@@ -87,40 +77,11 @@ Beyond the basic pairings documented in the Krameterhof layout, Holzer's broader
 
 ## Raised Bed Construction Methods
 
-Holzer's raised bed system, described in detail in [[holzer-raised-bed-design-principles]], uses a distinctive mound-based approach. Rather than constructing rectangular frames, Holzer creates elongated mounds (hügelbeet-style) by layering organic material directly on the ground:
-
-1. **Base layer:** Logs, branches, and woody debris form the foundation, providing long-term slow-release nutrients as they decompose over years.
-2. **Middle layer:** Green waste, grass clippings, leaves, and garden prunings are added to accelerate decomposition and generate heat.
-3. **Top layer:** Topsoil, finished compost, and well-rotted manure form the planting surface.
-
-The mound is typically 1-1.5 metres wide at the base and 0.5-1 metre high, with sloped sides. This shape provides a large planting surface relative to the ground area occupied. The decomposing wood core acts as a sponge, absorbing and slowly releasing moisture, which is particularly valuable at the Krameterhof's altitude where summer rainfall can be intermittent.
-
-At 1,300 metres elevation, Holzer finds that raised beds provide several critical advantages: the soil warms earlier in spring due to improved drainage and air circulation on the mound surface, extending the growing season by 2-3 weeks; the sloped sides provide different microclimates (south-facing slopes warmer and drier, north-facing cooler and moister), allowing different plants to be positioned on the same mound according to their preferences; and the elevated surface reduces slug and snail damage compared to ground-level beds.
-
-## Integration of Ornamental and Edible Plants
-
-Holzer explicitly rejects the modern separation of ornamental and food gardens. The Krameterhof Gachtl integrates both categories seamlessly. The intensely fragrant double-flowered rose bush occupies the sunniest position not for food production but for its beauty and scent — yet it also serves as a bee forage plant and a pest-monitoring indicator (mildew susceptibility signals excess moisture). Monkshood and foxglove provide striking visual elements with their tall flower spikes and distinctive blooms while performing ecological functions in the soil food web.
-
-This integration reflects Holzer's broader philosophy that productive landscapes should also be beautiful and that aesthetic considerations are not frivolous but serve practical functions: ornamental flowering plants attract pollinators that increase yields of food crops; visually appealing gardens encourage more frequent visitation and tending; and diverse plantings that include ornamentals create more complex ecological networks that naturally suppress pest and disease problems.
-
-## Seasonal Management at Altitude
-
-At 1,300 metres above sea level, the Krameterhof kitchen garden requires specific seasonal timing adjustments. Runner beans are not planted until mid-May due to frost risk, unlike lower-altitude gardens where they might go in during April. Cold frames become essential for extending the season — seedlings are started in March using the straw-and-dung heating method, then hardened off through April before transplanting in May. Hardy crops such as leeks, onions, and garlic overwinter in the garden and resume growth as soon as snow melts.
-
-The short growing season at altitude makes catch cropping particularly important. Radishes sown between slower-growing crops like cabbages mature in 3-4 weeks and are harvested before the main crop needs the space. Lettuce planted between beans serves a dual purpose: protecting bean seedlings from cold nights and providing a quick salad crop before the beans shade it out. This intensive use of both time and space compensates for the limited number of frost-free growing days available at mountain elevations.
-
-Autumn preparation is equally critical. Dead plant material is left in place and covered with soil rather than being removed, following Holzer's principle that organic matter should decompose in situ to feed the soil food web. Weeds pulled during the growing season are left on the soil surface on sunny days to dry and die before being incorporated. This approach builds soil organic matter continuously without the need for imported compost or fertilizers.
-
-## Related Concepts
-
-- [[holzer-raised-bed-design-principles]]
-- [[holzer-raised-beds-systems]]
+Holzer's raised bed system, described in detail in [[holzer-raised-bed-design-principles]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[zone-1-intensive-garden]]
 - [[microclimate-creation-permaculture]]
 
 ## Source
 
-[[krameterhof-holzer-model-farm]] -- Kitchen Gardens section, including the Gachtl layout, cold frame technique, and vegetable patch management.
-- [[nutrient-movement-through-soil-to-plant-roots]]
+[[nutrient-movement-through-soil-to-plant-roots]]
 - [[gaias-garden-cover-crops-soil-building]]

@@ -114,8 +114,6 @@ Wildlife, as a self-sustaining resource requiring no external energy inputs, sco
 
 ## See Also
 
-- [[fukuoka-natural-livestock-integration-philosophy]]
 - [[livestock-fencing-guide]]
-- [[permaculture-grazing-and-pasture]]
 - [[permaculture-designers-manual-grazing-management]]
 - [[glomalin-and-soil-carbon]]

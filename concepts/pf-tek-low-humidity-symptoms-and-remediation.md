@@ -141,9 +141,7 @@ The mushrooms appear shriveled, shrunken, and may develop a cracked or leathery
 texture. Primordia that have begun to wither appear as tiny, darkened, dried-up
 ## Related Concepts
 
-- [[pf-tek-spraying-and-ventilation-procedure]] for correct spraying technique
 - [[pf-tek-perlite-humidification-technique]] for the passive humidification
   alternative
-- [[dual-chambered-terrarium-design]] for terrarium construction details
 - [[pf-tek-fruiting-chamber]] for the overall fruiting environment
 - [[fruiting-conditions-and-pinning]] for environmental fruiting triggers

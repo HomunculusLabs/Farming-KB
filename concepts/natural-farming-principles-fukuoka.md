@@ -20,43 +20,7 @@ type: concept
 
 Masanobu Fukuoka (1913–2008) developed a radical approach to agriculture he
 called "natural farming" or "do-nothing farming," articulated most fully in
-The Natural Way of Farming: The Theory and Practice of Green Philosophy. Over
-fifty years on his farm on the island of Shikoku, Japan, Fukuoka demonstrated
-that crops can be grown productively without tillage, chemical fertilizers,
-pesticides, weeding, or pruning — the five foundational principles that define
-his method. His philosophy challenges the fundamental assumptions of modern
-scientific agriculture and offers a vision of food production rooted in
-ecological humility and what he called "Mu" (nothingness).
-
-## The Five Principles
-
-Fukuoka's natural farming rests on five interrelated prohibitions, each
-contradicting a core practice of conventional agriculture:
-
-1. **No tillage.** The soil is never plowed or turned. Fukuoka's rice and
-   barley fields went unplowed for over thirty years. Microorganisms,
-   earthworms, and plant roots serve as nature's tillers, maintaining soil
-   structure without mechanical disturbance. Plowing kills the soil by
-   destroying its structure, exposing organic matter to rapid oxidation, and
-   disrupting the microbial communities that sustain fertility. No plant on
-   earth, he argued, is so weak as to germinate only in plowed soil.
-
-2. **No chemical fertilizer.** No synthetic or prepared organic fertilizers
-   are applied. Soil fertility is maintained through the return of crop
-   residues (straw spread uncut over the field), the nitrogen-fixing activity
-   of clover grown as a living mulch, and natural biological activity of soil
-   microorganisms. Fukuoka measured approximately 100 million nitrogen-fixing
-   bacteria per gram of soil on his farm.
-
-3. **No pesticides.** No chemical or biological pest controls are applied.
-   Fukuoka observed that when insect pests appear, their natural predators
-   (spiders, frogs, dragonflies, predatory insects) inevitably follow. A
-   natural balance asserts itself without human intervention. He reported
-   approximately 250 grain heads per square yard with robust plants despite
-   the presence of insect pests.
-
-4. **No weeding.** Weeds are not eradicated. Instead, they are managed through
-   competition with a cover crop (white clover) and strategic timing of
+The Natural Way of Farming: The Theory and Practice of [[cover-crop]] (white clover) and strategic timing of
    flooding and drying cycles. Nature does not arbitrarily designate one plant
    as a "weed" to be destroyed; each plant has a role in the ecosystem.
 
@@ -108,16 +72,7 @@ nature and then claims to "know," "use," or "conquer" it. Man can never truly
 know even a single leaf or a single handful of earth.
 
 **Scientific farming creates its own problems.** Plowing compacts soil,
-creating the "need" for further plowing. Chemical fertilizers kill soil life,
-creating dependency on more chemicals. Pesticides eliminate natural predators,
-triggering pest outbreaks that "require" more pesticides. Each intervention
-creates the preconditions making the next seem necessary. Farmers become
-trapped on a "treadmill of escalating effort and expense."
-
-**Energy efficiency favors natural farming.** Fukuoka calculated that his
-method produced 130 pounds of rice (200,000 kilocalories) per man-day of
-labor, without outside material inputs — roughly 100 times the daily caloric
-intake of a farmer on a natural diet. Traditional farming with draft animals
+creating the "need" for further plowing. Chemical fertilizers kill [[natural-diet]]. Traditional farming with draft animals
 required ten times as much energy input; small-scale mechanization doubled that;
 large-scale mechanization doubled it yet again in geometric progression.
 
@@ -140,10 +95,5 @@ independence for nations facing scarcity.
 
 ## Desert Revegetation Proposal
 
-Fukuoka proposed greening deserts using clay seed pellets. Seeds of green
-manure trees (such as black wattle, growing with less than 2 inches of annual
-## See Also
-
-- [[fukuoka-five-principles-natural-farming]]
-- [[fukuoka-natural-farming-philosophy]]
+Fukuoka proposed greening deserts using [[fukuoka-five-principles-natural-farming]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]

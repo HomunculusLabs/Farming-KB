@@ -5,7 +5,8 @@ updated: 2026-05-06
 aliases: [agroecological farming, ecological agriculture, agroecosystem design]
 tags: [agriculture, ecology, sustainability, farming-systems, food-sovereignty, biodiversity, soil-health]
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 Agroecology is the integrative study and practice of applying ecological concepts and principles to the design and management of sustainable food systems. Encompassing scientific research, farming practices, and a social movement, agroecology addresses the full food system from soil biology to market structures. It is simultaneously a **science** (the ecology of agroecosystems), a set of **practices** (ecological farming methods), and a **movement** (advocating for food sovereignty and social justice in food systems).
@@ -117,8 +118,6 @@ The connection between agroecology and One Health — particularly reduced zoono
 
 ## See Also
 
-- [[regenerative-agriculture]] — soil-focused farming movement with overlapping and distinct principles
 - [[permaculture]] — design system for sustainable human settlements integrating ecology, agriculture, and community
-- [[integrated-pest-management]] — decision framework combining biological, cultural, and chemical pest management
 - [[cover-crops]] — multi-functional crops grown between cash crops for soil health and nutrient cycling
 - [[soil-food-web]] — trophic structure and nutrient cycling mediated by soil organisms

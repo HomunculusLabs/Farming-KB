@@ -125,15 +125,10 @@ change scenarios.
 
 ## See Also
 
-- [[dighton-ectomycorrhizal-hartig-net-structure-function]]
 - [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 
-- [[dighton-fungal-roles-in-nutrient-cycling]]
 - [[dighton-arbuscular-mycorrhizal-plant-community-effects]]
-- [[dighton-fungal-succession-disturbance]]
 - [[dighton-fungi-climate-change-feedback]]
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[dighton-fungi-climate-change-feedback]]
 - [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

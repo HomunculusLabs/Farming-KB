@@ -1,7 +1,7 @@
 ---
 title: Mycological Dark Taxa
 created: 2026-04-28
-tags: [mycology, taxonomy, dark-taxa, sequencing]
+tags: [[mycology, taxonomy, dark-taxa, sequencing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -127,8 +127,6 @@ ecosystems remain entirely unrecognized.
 
 ## See Also
 
-- [[fungal-biodiversity-estimates]]
 - [[fungal-discovery-methods]]
-- [[environmental-dna-metabarcoding-fungi]]
 - [[fungal-taxonomic-impediment]]
 - [[fungal-kingdom-overview]]

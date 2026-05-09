@@ -76,11 +76,7 @@ On the Krameterhof, natural streams are left to find their own course. Where str
 
 ## See Also
 
-- [[rainwater-harvesting-systems]]
 - [[permaculture-pond-construction]]
-- [[faires-aquaculture-pond-systems]]
 - [[climate-and-microclimate-management]]
-- [[holzer-fish-farming]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[permaculture-water-pond-systems-design-course]]
 - [[holzer-pond-construction-and-aquaculture]]

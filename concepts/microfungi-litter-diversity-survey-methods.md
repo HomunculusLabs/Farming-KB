@@ -3,7 +3,7 @@ title: Microfungi Litter and Wood Debris Diversity Survey Methods
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -104,17 +104,7 @@ No direct evidence exists that tropical regions harbor greater microfungal speci
 
 ## See Also
 
-- [[endophytic-fungi-isolation-and-survey-methods]]
 - [[mycetozoan-survey-methods-substratum-plating]]
-- [[freshwater-fungi-collection-and-culturing]]
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]
-- [[fungal-enzyme-systems]]
-
-## Sources
-
-- Chapter 11 in Biodiversity of Fungi: Inventory and Monitoring Methods (Mueller et al., eds.)
-- Bills, G.F. and Polishook, J.D. 1994. Macrolitter processing methodology
-- Petrini, O. 1986. Endophyte and epiphyte overlap
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[microfungi-wood-plant-debris-survey]]
 - [[fungal-diversity-indices-community-analysis]]

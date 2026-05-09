@@ -92,11 +92,7 @@ Hankyu Cho writes: "It is my utmost pleasure to see the same spirit being inheri
 
 ## See Also
 
-- [[jadam-ultra-low-cost-agriculture]] - Core philosophy
 - [[jadam-natural-pesticide-philosophy]] - Pesticide philosophy
-- [[jadam-patent-free-revolution]] - Why JADAM chose not to patent
 - [[jadam-vision-four-aims]] - JADAM's four objectives
-- [[jadam-methods]] - Overview of JADAM methods
 - [[jadam-making-organic-farming-inputs]]
-- [[jadam-vision-ultra-low-cost-philosophy]]
 - [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]

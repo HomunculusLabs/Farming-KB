@@ -11,19 +11,7 @@ sources:
 
 # Fukuoka: The Heart Sutra and the Illusion of Life and Death
 
-Source: [[one-straw-revolution-overview]], The One Straw Revolution, Book V "Foolishness Comes Out Looking Smart"
-
-## The Heart Sutra
-
-Among the tens of thousands of scriptures, the one to be most grateful for, the one where all the important points are made is the Heart Sutra. According to this sutra, "The Lord Buddha declared, 'Form is emptiness, emptiness is form. Matter and the spirit are one, but all is void. Man is not alive, is not dead, is unborn and undying, without old age and disease, without increase and without decrease.'"
-
-This opening invocation of the Heart Sutra sets the philosophical framework for everything that follows. The Heart Sutra, the shortest and most condensed of all Mahayana Buddhist texts, teaches that the fundamental nature of reality is emptiness (sunyata) -- not absence but the absence of separate, independent existence. All phenomena are empty of intrinsic self-nature, which means they are interconnected, interdependent, and constantly changing.
-
-## The Rice That Lives Continuously
-
-While cutting the rice, Fukuoka said to the youths resting against a big pile of straw: "I was thinking that when rice is planted in the spring, the seed sends out living shoots, and now, as we are reaping, it appears to die. The fact that this ritual is repeated year after year means that life continues in this field and the yearly death is itself yearly birth. You could say that the rice we are cutting now lives continuously."
-
-This observation, made in the field while harvesting rice, is both agricultural and philosophical. The rice does not truly die when it is cut; its life continues in the seeds, in the soil, in the [[fukuoka-straw-mulch-philosophy]] that will protect and nourish next year's crop. The farmer who understands this does not grieve at harvest but celebrates the continuation of a cycle that has no beginning and no end.
+Source: [[fukuoka-straw-mulch-philosophy]] that will protect and nourish next year's crop. The farmer who understands this does not grieve at harvest but celebrates the continuation of a cycle that has no beginning and no end.
 
 ## The Short Perspective of Human Beings
 
@@ -31,21 +19,7 @@ Human beings usually see life and death in a rather short perspective. What mean
 
 Would you not say that this rice, because it possesses the full joyousness of life, does not know the sorrow of death?
 
-The human perspective on life and death is distorted by the ego's need to maintain itself. We experience death as a catastrophe because we identify with a separate, bounded self that appears to end. But from the perspective of nature -- from the perspective of the rice plant, the forest, the soil -- there is no death, only transformation. This is the truth that the [[fukuoka-mu-nothingness-philosophy]] points toward: the dissolution of the boundary between self and world that makes death appear as an ending.
-
-## The Continuous Cycle Within the Body
-
-The same thing that happens to rice and barley goes on continuously within the human body. Day by day hair and nails grow, tens of thousands of cells die, tens of thousands more are born; the blood in the body a month ago is not the same blood today. When you think that your own characteristics will be propagated in the bodies of your children and grandchildren, you could say that you are dying and being reborn each day, and yet will live on for many generations after death.
-
-If participation in this cycle can be experienced and savoured each day, nothing more is necessary.
-
-This physiological observation supports the metaphysical claim: death is not an event that happens at the end of life but a process that is occurring continuously within the living body. The person who understands this does not need to fear death because they are already experiencing it, and they are already surviving it, every moment of their existence.
-
-## Clinging to Life, Fear of Death
-
-But most people are not able to enjoy life as it passes and changes from day to day. They cling to life as they have already experienced it, and this habitual attachment brings fear of death. Paying attention only to the past, which has already gone, or to the future, which has yet to come, they forget that they are living on the earth here and now. Struggling in confusion, they watch their lives pass as in a dream.
-
-The inability to live in the present moment is, for Fukuoka, the root cause of human suffering. The person who is fully present -- who experiences each moment as it arises without clinging to the past or grasping at the future -- does not experience fear of death because they are not constructing a self that could die. This is the state of [[fukuoka-innocence-of-children]] that children naturally inhabit before the discriminating mind begins its work.
+The human perspective on life and death is distorted by the ego's need to maintain itself. We experience death as a catastrophe because we identify with a separate, bounded self that appears to end. But from the perspective of nature -- from the perspective of the rice plant, the forest, the soil -- there is no death, only transformation. This is the truth that the [[fukuoka-innocence-of-children]] that children naturally inhabit before the discriminating mind begins its work.
 
 ## No Life or Death
 
@@ -57,15 +31,7 @@ The inability to live in the present moment is, for Fukuoka, the root cause of h
 
 The world itself is a unity of matter within the flow of experience, but people's minds divide phenomena into dualities such as life and death, yin and yang, being and emptiness. The mind comes to believe in the absolute validity of what the senses perceive and then, for the first time, matter as it is turns into objects as human beings normally perceive them.
 
-This dialogue encapsulates the [[fukuoka-do-nothing-health-philosophy]] that Fukuoka shares with Zen Buddhism and Taoism. Life and death are not opposing forces but conceptual categories imposed by the discriminating mind on a reality that is, in its essence, beyond such distinctions. When these categories are dropped, the suffering that arises from the fear of death dissolves naturally, without effort.
-
-## All Is Void
-
-The forms of the material world, concepts of life and death, health and disease, joy and sorrow, all originate in the human mind. In the sutra, when Buddha said that all is void, he was not only denying intrinsic reality to anything which is constructed by human intellect, but he was also declaring that human emotions are illusions.
-
-"Nothing left? The concept of 'void' remains in your mind apparently."
-
-This final exchange is characteristic of Zen teaching: even the concept of emptiness must be emptied. The student who grasps "void" as a philosophical position has merely replaced one concept with another. True understanding is the state in which no concepts remain -- not even the concept of no-concept. This is the [[fukuoka-philosophy-of-mu-and-nature]] at its most radical.
+This dialogue encapsulates the [[fukuoka-philosophy-of-mu-and-nature]] at its most radical.
 
 ## No East or West
 
@@ -93,29 +59,17 @@ From the time they enter nursery school, people's sorrows begin. The human being
 
 This chapter represents the most explicitly philosophical section of The One Straw Revolution. By grounding his metaphysical discussion in the concrete experience of harvesting rice, Fukuoka demonstrates that the truths of the Heart Sutra are not abstract speculations but lived realities available to anyone who pays attention to the natural world. The farmer who watches the rice grow, die, and return as seed has direct access to the insight that the most accomplished philosopher can only approach through argument.
 
-The connection between agricultural practice and philosophical insight is essential. Fukuoka is not a farmer who happens to have philosophical ideas; he is a philosopher whose philosophy is inseparable from his farming. The [[fukuoka-road-do-nothing-farming]] that he practices is the practical expression of the non-dual awareness that the Heart Sutra teaches. When the farmer stops interfering with nature, both the crops and the farmer's consciousness are transformed.
-
-## Connection to Natural Farming Principles
-
-The illusion of life and death has direct implications for farming practice. The conventional farmer sees the harvest as an ending -- the crop is "dead" and must be removed. The natural farmer sees the harvest as a continuation -- the straw becomes mulch, the roots decompose into soil, the seeds wait for spring. The [[fukuoka-natural-rice-barley-cultivation]] cycle has no beginning and no ending because it is not a linear process but a circular one, like the cycle of life and death that the Heart Sutra reveals as empty of intrinsic reality.
+The connection between agricultural practice and philosophical insight is essential. Fukuoka is not a farmer who happens to have philosophical ideas; he is a philosopher whose philosophy is inseparable from his farming. The [[fukuoka-natural-rice-barley-cultivation]] cycle has no beginning and no ending because it is not a linear process but a circular one, like the cycle of life and death that the Heart Sutra reveals as empty of intrinsic reality.
 
 This perspective transforms the farmer's relationship to the land. When death is understood as transformation rather than ending, the farmer does not fight against the natural processes of decay, succession, and change but cooperates with them. The result is a farming system that requires less labor, fewer inputs, and produces more abundant and healthy food -- because it works with the grain of nature rather than against it.
 
 ## Related Concepts
 
-- [[fukuoka-one-straw-revolution-philosophy]]
-
 - [[fukuoka-do-nothing-health-philosophy]]
-
-- [[fukuoka-philosophy-of-mu-and-nature]]
 
 - [[fukuoka-mu-nothingness-philosophy]]
 
-- [[fukuoka-snake-frog-war-and-peace-philosophy]]
-
 - [[fukuoka-do-nothing-farming-philosophy]]
-
-- [[fukuoka-village-without-war-and-peace]]
 
 - [[fukuoka-innocence-of-children]]
 

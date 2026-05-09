@@ -1,28 +1,3 @@
----
-title: "How to Grow Guava in Different Climates"
-created: 2026-05-06
-tags:
-type: query
-  - guava
-  - tropical-fruit
-  - climate-zones
-  - container-growing
-  - fruit-cultivation
-  - cold-protection
-  - soil-management
-  - pest-control
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - title: "California Rare Fruit Growers — Guava (Psidium guajava)"
-    url: "https://crfg.org/pubs/ff/guava.html"
-  - title: "UF/IFAS Extension — Guava Growing in the Home Landscape"
-    url: "https://edis.ifas.ufl.edu/publication/MG045"
-  - title: "UC Master Gardener — Growing Guavas in California"
-    url: "https://ucanr.edu/sites/uc_master_gardeners/"
-  - title: "CABI Invasive Species Compendium — Guava Pests and Diseases"
-    url: "https://www.cabi.org/isc/datasheet/47870"
----
 
 # How to Grow Guava in Different Climates
 
@@ -30,7 +5,7 @@ A practical FAQ guide covering guava cultivation across tropical, subtropical, M
 
 ## Overview
 
-Guava (*Psidium guajava*) is a hardy, fast-growing tropical fruit tree prized for its aromatic, vitamin C–rich fruit. It tolerates a wide range of soils and conditions but performs best with intentional site selection and care. Mature trees can produce 50–200+ lbs of fruit annually depending on variety and climate.
+Guava (*[[fruit-tree-grafting-guide]] prized for its aromatic, vitamin C–rich fruit. It tolerates a wide range of soils and conditions but performs best with intentional site selection and care. Mature trees can produce 50–200+ lbs of fruit annually depending on variety and climate.
 
 ## Climate Zone Breakdown
 
@@ -57,18 +32,7 @@ Guava (*Psidium guajava*) is a hardy, fast-growing tropical fruit tree prized fo
 
 ### Temperate / Container (USDA 7–8)
 
-- **Growing season:** Indoor-protected or mobile container growing.
-- **Temperature range:** Must be moved indoors or protected below 30°F.
-- **Key advantage:** Enables growing in cold regions with dwarf varieties.
-- **Challenge:** Root binding, indoor pollination, and limited light.
-
-## Best Varieties by Climate
-
-| Climate Zone | Recommended Varieties | Notes |
-|---|---|---|
-| Tropical | Thai White, Pink Supreme, Lucknow-49 | Large fruit, highest yields |
-| Subtropical | Ruby Supreme, Red Malaysian, Homestead | Good cold tolerance to ~27°F |
-| Mediterranean | Mexican Cream, Barbara, Hong Kong Pink | Drought-tolerant, good in dry heat |
+- **Growing season:** Indoor-protected or mobile [[drought-tolerant-planting-design]], good in dry heat |
 | Temperate/Container | Dwarf (Red, White, or Yellow), Nana | Stay under 5–6 ft, fruit in pots |
 
 ## Soil and Site Preparation
@@ -92,58 +56,26 @@ Guava (*Psidium guajava*) is a hardy, fast-growing tropical fruit tree prized fo
 ## Watering and Fertilization
 
 - **Young trees (0–2 years):** Water 2–3 times per week; do not let soil dry completely.
-- **Mature trees:** Deep water every 7–14 days depending on rainfall and temperature.
-- **Fruit-bearing trees:** Increase water during flowering and fruit development to prevent splitting.
-- **Fertilizer schedule (in-ground):** Apply balanced 8-8-8 or 6-6-6 quarterly — 0.25 lb per inch of trunk diameter per application.
-- **Micronutrients:** Foliar spray with zinc, manganese, and boron 2× per year (especially in alkaline soils).
-- **Container trees:** Use slow-release granular fertilizer (10-10-10) every 6–8 weeks during the growing season.
-
-## Pruning for Shape and Production
-
-- **Timing:** Prune immediately after harvest to avoid removing developing fruit.
-- **Shape:** Train to a single trunk with 3–4 scaffold branches for open-center structure.
-- **Height control:** Keep trees at 6–10 ft for easy harvest; top at desired height annually.
-- **Thinning:** Remove dead, crossing, and inward-growing branches each year.
-- **Productive pruning:** Cut vigorous upright shoots back to outward-facing buds to encourage lateral fruiting wood.
-- **Container trees:** Root-prune every 2–3 years when repotting; maintain compact shape.
-
-## Pest and Disease Management by Region
-
-| Region | Common Pests | Common Diseases | Management |
-|---|---|---|---|
-| Tropical | Fruit flies, Caribbean fruit fly, scale | Anthracnose, rust, algal spot | Bait traps, horticultural oil, copper spray |
-| Subtropical | Whitefly, mealybug, guava moth | Canker, root rot | Neem oil, beneficial insects, improve drainage |
-| Mediterranean | Thrips, aphids, spider mites | Minimal fungal pressure | Insecticidal soap, predatory mites |
-| Temperate/Indoor | Spider mites, fungus gnats, scale | Powdery mildew (low humidity) | Increase airflow, sticky traps, systemic insecticide |
-
-## Cold Protection Strategies
-
-- **Cover:** Use frost cloth (not plastic) draped to the ground when frost is forecast below 30°F.
-- **Heat sources:** String lights (incandescent C9/C7) under frost cloth add 4–8°F of protection.
-- **Trunk wrap:** Wrap the trunk with cardboard or foam insulation pipe sleeves from ground to first branch.
-- **Mulch heavily:** Apply 6–8 inches of organic mulch over the root zone to insulate soil.
-- **Water:** Well-watered soil retains more heat than dry soil — water before a freeze event.
-- **Wind machines:** Commercial orchards use them; not practical for home growers but worth noting.
-- **Container advantage:** Move potted guavas into a garage, shed, or enclosed porch during freezes.
-
-## Container Growing Tips
-
-- **Pot size:** Start in 10–15 gallon; upgrade to 20–30 gallon at maturity. Ensure drainage holes.
-- **Soil mix:** 60% quality potting soil + 30% perlite/pumice + 10% compost or worm castings.
-- **Watering:** Check daily in summer; containers dry out faster than ground soil.
-- **Root-pruning:** Every 2–3 years, remove the tree, trim circling roots by 1/3, and repot with fresh mix.
-- **Mobility:** Use a plant dolly or pot with wheels for easy relocation during cold snaps.
-- **Pollination indoors:** Hand-pollinate with a small brush if growing indoors where bees cannot reach.
-
-## Harvest Indicators
-
-- **Color change:** Fruit shifts from dark green to yellow-green (white guava) or yellow-pink (pink guava).
-- **Aroma:** Ripe guava develops a strong, sweet fragrance detectable from several feet away.
-- **Firmness:** Fruit yields slightly to gentle thumb pressure — not rock-hard, not mushy.
-- **Timing:** Most varieties ripen 90–150 days after flowering; pick before full softness to avoid bruising.
-## See Also
-- [[query-how-to-grow-avocados-in-cold-climates]]
-- [[query-how-do-i-grow-figs-in-cold-climates]]
-
+- **Mature trees:** [[beneficial-insects-cannabis]], improve drainage |
+| Mediterranean | Thrips, aphids, [[fungus-gnats-cannabis]], scale | [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-to-grow-passionfruit-in-different-climates]]
-- [[query-how-to-grow-citrus-in-cold-climates]]
+- [[query-how-do-i-grow-figs-in-cold-climates]]
+## Practical Considerations
+
+Successful implementation of Query How To Grow Guava In Different Climates requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

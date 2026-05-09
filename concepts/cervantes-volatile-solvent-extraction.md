@@ -116,8 +116,6 @@ approaches.
 
 ## See Also
 
-- [[cervantes-hash-making-extracts]]
 - [[cervantes-water-hash-bubble-hash]]
-- [[cervantes-cannabis-tinctures]]
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
 - [[cervantes-dry-sieve-hash-pollinator]]

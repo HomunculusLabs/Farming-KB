@@ -3,13 +3,7 @@ title: Irrigation Design
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Irrigation Design
-
-[[permaculture-zones-in-practice]] irrigation is half species choice and half terrain. Only a small part involves piping, pumps, or equipment. By studying slope and topography, gravity directs water to gardens or individual plants. Irrigation is simply a way of supplementing natural water flow and possibly rehabilitating soil — it should NOT be used for growing watermelons in the desert or for watering lawns and washing cars.
+tags: [[permaculture-zones-in-practice]] irrigation is half species choice and half terrain. Only a small part involves piping, pumps, or equipment. By studying slope and topography, gravity directs water to gardens or individual plants. Irrigation is simply a way of supplementing natural water flow and possibly rehabilitating soil — it should NOT be used for growing watermelons in the desert or for watering lawns and washing cars.
 
 ## A Self-Reliant Water System
 
@@ -36,44 +30,11 @@ With careful planning, enough water can be captured to grow food even in the des
 
 ## Designing an Irrigation System
 
-[[water-catchment-permaculture]] is the foundation: study the slope and topography of the land,
-use gravity to direct water to gardens or individual plants,
-choose species suited to the specific location and water availability,
-4. Harvest barn roof rainwater into a large tank
-5. Gravity-feed to gardens below if possible
-6. Mulch extensively
-7. Choose drought-tolerant species for backup
+[[faires-water-sources-and-catchment]], [[faires-water-diversion-and-dry-bed-management]], and [[solomon-irrigation-systems-sprinkler-design]]
 
-The less likely your garden is to dry out, the better. Topography and layout conducive to water retention, extensive mulching, and drought-tolerant species are the keys.
+[[faires-pond-design-and-aquaculture]], [[faires-house-design-and-retrofit]], [[faires-ecological-succession-and-edge-design]], [[faires-forest-garden-design]]
 
-## Key Principles
-
-- Irrigation supplements natural flow — it doesn't replace it
-- Gravity is free energy for water movement
-- Species selection is as important as water delivery
-- Mulch reduces evaporation dramatically
-- Swales capture and store water in the soil
-- Graywater recycling doubles your effective water supply
-
-See also [[faires-water-sources-and-catchment]], [[faires-swales-and-water-conservation]], [[faires-water-diversion-and-dry-bed-management]], and [[permaculture-designers-manual-dam-construction]].
-
-## Key Points
-
-- Sustainable homesteading integrates multiple systems for self-reliance
-- Design considerations should account for climate, water, and energy flows
-- Permaculture principles guide the placement and interaction of elements
-- Practical implementation requires understanding seasonal patterns and local conditions
-- Resilience comes from diversity and redundancy in food and resource systems
-
-## See Also
-
-- [[solomon-irrigation-systems-sprinkler-design]]
-
-[[faires-orchard-design-and-intercropping]], [[faires-pond-design-and-aquaculture]], [[faires-garden-design-zone-1-layout]], [[faires-house-design-and-retrofit]], [[faires-sustainability-and-design-goals]], [[faires-ecological-succession-and-edge-design]], [[faires-water-tank-design]], [[faires-forest-garden-design]]
-
-- [[permaculture-zones-in-practice]]
 - [[zone-1-intensive-garden]]
-- [[faires-water-sources-and-catchment]]
 - [[faires-swales-and-water-conservation]]
 - [[mollison-designers-duck-pond-integrated-systems]]
 

@@ -1,7 +1,7 @@
 ---
 title: Mushroom Growing Temperature and Moisture
 created: 2026-04-28
-tags: [mycology, environment, cultivation, temperature, moisture]
+tags: [[mycology, environment, cultivation, temperature, moisture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -131,12 +131,7 @@ provided to prevent the accumulation of carbon dioxide
 and to maintain fresh air circulation. The grower who
 masters the regulation of temperature and moisture will
 have addressed the two most important factors in
-successful mushroom cultivation.
-
-## See Also
-
-- [[mushroom-compost-preparation]]
-- [[mushroom-house-design]]
+successful [[mushroom-compost-preparation]]
 - [[agaricus-campestris]]
 - [[mushroom-cultivation-history]]
 

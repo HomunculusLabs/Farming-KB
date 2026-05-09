@@ -88,12 +88,9 @@ This is not a state that can be achieved through effort; effort itself is a form
 
 The farmer who has cultivated this receptivity sees his land as it is, not as he thinks it should be, and acts from that seeing rather than from theory.
 
-The connection to [[fukuoka-natural-farming-philosophy]] is direct: the philosophy of natural farming is not a set of techniques but a way of perceiving.
+The connection to [[one-straw-revolution-guide]], where Fukuoka recounts how his own perception shifted from conventional to natural farming through decades of patient observation and experimentation.
 
-And the bridge between perception and practice is described in [[one-straw-revolution-guide]], where Fukuoka recounts how his own perception shifted from conventional to natural farming through decades of patient observation and experimentation.
-
-[[fukuoka-wholistic-nature-perception]] | [[fukuoka-observation-based-farming]] | [[fukuoka-do-nothing-farming-philosophy]] | [[fukuoka-nature-god-limits-of-knowledge]] | [[fukuoka-nature-transcends-human-knowledge]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+[[fukuoka-observation-based-farming]] | [[fukuoka-nature-god-limits-of-knowledge]] | [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 
 ## See Also
 

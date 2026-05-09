@@ -107,15 +107,10 @@ Soy-based building materials including particleboard, insulation foam, and wood 
 ## See Also
 
 - [[medicago-sativa]]
-- [[vicia-faba]]
 - [[trifolium-pratense]]
 - phaseolus vulgaris
-- [[arachis-pintoi-entity]]
 - [[glycine-max-soybean-permaculture]]
-- [[moringa-oleifera]]
 - [[azadirachta-indica]]
-- [[comfrey-symphytum-officinale]]
 - [[vicia-villosa]]
-- [[lotus-corniculatus]]
 - [[melilotus-officinalis]]
 - [[lupinus-albus]]

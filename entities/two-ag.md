@@ -36,8 +36,7 @@ roles in immune function, pain signaling, and neuroprotection.
 The human body produces at least five distinct endocannabinoids:
 1. Anandamide (N-arachidonoylethanolamide) (AEA)
 2. 2-arachidonoyl glycerol (2-AG)
-3. 2-arachidonoyl-glyceryl-ether ([[noladin-ether]])
-4. O-arachidonoyl-ethanolamine ([[virodhamine]])
+3. 2-arachidonoyl-glyceryl-ether ([[virodhamine]])
 5. N-arachidonoyl-dopamine (NADA)
 
 2-AG is distinguished from anandamide by its higher tissue
@@ -88,7 +87,6 @@ development of MAGL inhibitors could provide a new class of
 therapeutics that boost endogenous 2-AG signaling.
 
 ## See Also
-- [[anandamide-aea]]
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - endocannabinoid system (ECS)

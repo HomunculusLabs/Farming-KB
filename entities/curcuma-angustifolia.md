@@ -102,19 +102,11 @@ Domestication efforts have been initiated by agricultural research stations in C
 
 ## See Also
 
-- [[curcuma-longa]]
 - [[curcuma-zedoaria]]
-- [[curcuma-amada]]
 - [[curcuma-caesia]]
-- [[zingiber-officinale]]
 - [[canna-edulis]]
-- [[dioscorea-esculenta]]
 - [[ipomoea-batatas]]
-- [[colocasia-esculenta]]
 - [[manihot-esculenta]]
-- [[alpinia-galanga]]
 - [[kaempferia-galanga]]
-- [[amomum-subulatum]]
 - [[elettaria-cardamomum]]
-- [[hedychium-coronarium]]
 - [[alpinia-officinarum]]

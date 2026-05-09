@@ -88,7 +88,6 @@ At the beginning of Western civilization, in the Book of Genesis, McKenna reads 
 The angel with flashing sword who guards the return to Eden seems an obvious symbol of the unforgiving harshness of the desert sun and the severe drought conditions that accompany it. The retreat of the glaciers from the Eurasian landmass and the simultaneous acceleration of aridity in the African grasslands eventually brought the "casting out of Eden" allegorically conveyed in Genesis.
 
 ## See Also
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - Mckenna Tryptamines Consciousness
 
@@ -101,8 +100,6 @@ Lhote's interpretations were sometimes speculative and controversial. Modern res
 The broader significance of the Tassili paintings extends beyond mushroom iconography. They document a period when the Sahara was green and fertile, supporting large pastoral populations with cattle herds and complex religious practices — a dramatic contrast to the arid desert it is today. Climate change over thousands of years transformed this landscape, forcing the mushroom-using pastoral peoples to migrate.
 
 UNESCO designated the Tassili-n-Ajjer as a World Heritage Site in 1982, recognizing both its outstanding natural geological formations and its extraordinary collection of prehistoric rock art, one of the most important in the world.
-- [[pre-columbian-mushroom-use]]
 - [[mushroom-stone-artifacts]]
-- [[teonanacatl-and-mesoamerican-mushroom-cults]]
 - [[psilocybin-mushroom-legal-history]]
 - [[sacred-mushroom-names-cross-cultural-synonyms]]

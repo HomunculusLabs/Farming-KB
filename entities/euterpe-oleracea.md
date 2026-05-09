@@ -114,12 +114,7 @@ Concerns about unsustainable harvesting and labor practices in the supply chain 
 
 ## See Also
 
-- [[theobroma-cacao]]
-- bertholletia excelsa
-- bactris gasipaes
 - [[mangifera-indica]]
-- [[garcinia-mangostana]]
 - [[moringa-oleifera]]
 - bambusa
-- [[inga-edulis]]
 - [[gliricidia-sepium]]

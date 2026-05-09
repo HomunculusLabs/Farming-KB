@@ -97,13 +97,8 @@ In rare cases, the strain's potent sedative effects can produce anxiety or paran
 
 ## See Also
 
-- [[og-kush]]
 - [[granddaddy-purple]]
-- [[sour-diesel]]
 - [[cannabis-blue-dream]]
-- [[northern-lights]]
 - [[wedding-cake-cannabis]]
-- [[jack-herer]]
 - [[zookies-cannabis]]
-- [[white-widow-entity]]
 - [[runtz-entity]]

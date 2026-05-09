@@ -105,25 +105,9 @@ standards.
 A growing frontier is linking eDNA detections to functional predictions. By
 matching environmental sequences to genomes in reference databases, researchers
 can infer the metabolic capabilities of detected fungi — whether they are
-lignin degraders, nitrogen cyclers, plant pathogens, or [[mycorrhiza]]l partners.
-Machine learning approaches trained on genomes with known functional
-annotations are being applied to predict ecological roles for taxa known only
-from environmental sequences.
-
-## Temporal Dynamics
-
-eDNA sequencing is increasingly used to study seasonal and successional
-changes in fungal communities. Soil fungal communities shift dramatically
-between wet and dry seasons in tropical forests. Post-fire succession follows
-predictable patterns, with pioneer fungi colonizing charred wood followed by
-later successional species. Phenological studies using eDNA reveal that
-fungal fruiting belowground may be decoupled from aboveground mushroom
-production, challenging assumptions about when and where fungi are most
-active.
+lignin degraders, nitrogen cyclers, plant pathogens, or [[fungal-biodiversity]]
+- [[fungal-cryptic-species]]
 
 ## See Also
 
-- [[fungal-biodiversity]]
-- [[dark-taxa-fungi]]
-- fungal metabarcoding
-- [[fungal-cryptic-species]]
+- [[singh-fungi-environmental-indicators]]

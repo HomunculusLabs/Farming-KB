@@ -119,8 +119,6 @@ The EMCDDA case study was conducted within a limited timeframe between July and 
 
 ## Related Pages
 
-- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
-- [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
 - [[emcdda-epod-project-emerging-trend-detection-methodology]]
 - [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]

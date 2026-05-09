@@ -15,7 +15,7 @@ The principal explosive contaminants include 2,4,6-trinitrotoluene (TNT), hexahy
 
 These compounds are environmentally persistent, toxic to biological systems, and regulated as priority pollutants at military sites.
 
-This page provides an overview of explosive compound bioremediation, complementing the fungal-specific discussions in [[fungal-degradation-explosives-tnt-rdx]] and [[fungal-degradation-energetic-compounds-detailed]].
+This page provides an overview of explosive compound bioremediation, complementing the fungal-specific discussions in [[fungal-degradation-energetic-compounds-detailed]].
 
 ## Properties and Environmental Impact of Explosive Compounds
 
@@ -47,33 +47,7 @@ These reduction products are generally less toxic than the parent TNT but can be
 
 Under aerobic conditions, certain bacteria and fungi can mineralize TNT through initial reduction to hydroxylamino-dinitrotoluenes, followed by rearrangement and release of nitrite.
 
-Phanerochaete chrysosporium and other white-rot fungi mineralize TNT through their ligninolytic enzyme system, as described in [[fungal-degradation-explosives-tnt-rdx]].
-
-Fungal lignin peroxidase and manganese peroxidase can oxidize reduced TNT intermediates, leading to ring cleavage and eventual mineralization.
-
-Mammalian and plant nitroreductase systems have also been identified that can reduce TNT to less toxic products, opening possibilities for phytoremediation applications.
-
-Cometabolic degradation of TNT by soil bacteria growing on secondary substrates such as citrate or succinate has been demonstrated in laboratory studies.
-
-The formation of covalent bonds between TNT transformation products and soil organic matter (irreversible binding) represents an important natural attenuation mechanism that reduces TNT bioavailability and toxicity over time.
-
-## Biodegradation of RDX and HMX
-
-RDX biodegradation under aerobic conditions involves initial denitration catalyzed by cytochrome P450 enzymes or other monooxygenases.
-
-Rhodococcus species, particularly Rhodococcus rhodochrous strain 11Y, have been identified as effective aerobic RDX degraders that use RDX as a nitrogen source.
-
-The aerobic degradation pathway proceeds through sequential removal of nitro groups, ring cleavage, and formation of metabolites including methylenedinitramine, formaldehyde, and nitrite, which are subsequently mineralized.
-
-Under anaerobic conditions, RDX is degraded through sequential reduction of nitro groups to amino groups, analogous to the TNT reduction pathway.
-
-Xanthobacter flavus and other anaerobic bacteria have demonstrated RDX degradation through reductive pathways.
-
-HMX biodegradation proceeds through pathways similar to RDX but at much slower rates, reflecting the greater chemical stability of the larger ring structure.
-
-Phanerochaete chrysosporium and other white-rot fungi can degrade RDX through both reductive and oxidative mechanisms, with the ligninolytic enzyme system playing an important role.
-
-The [[fungal-degradation-energetic-compounds-detailed]] page provides comprehensive coverage of fungal degradation pathways for RDX, HMX, and related energetic compounds.
+Phanerochaete chrysosporium and other white-rot fungi mineralize TNT through their ligninolytic enzyme system, as described in [[fungal-degradation-energetic-compounds-detailed]] page provides comprehensive coverage of fungal degradation pathways for RDX, HMX, and related energetic compounds.
 
 ## Bioremediation of Perchlorate
 
@@ -97,14 +71,11 @@ Biopile and composting systems have been applied to treatment of TNT-contaminate
 
 Slurry bioreactors provide controlled conditions for treatment of explosive-contaminated soil and sediment, allowing optimization of pH, temperature, nutrient supply, and electron donor availability.
 
-[[fungal-bioreactor-types]] and [[mycoremediation-scale-up-challenges]] describe reactor configurations for fungal treatment of explosive-contaminated materials.
+[[mycoremediation-scale-up-challenges]] describe reactor configurations for fungal treatment of explosive-contaminated materials.
 
 Constructed wetlands have been used for passive treatment of explosive-contaminated water at military facilities, with plants and associated microorganisms contributing to contaminant removal.
 
 Bioaugmentation with characterized explosive-degrading organisms can enhance treatment rates, particularly for recalcitrant compounds such as RDX and HMX.
 
-[[bioremediation-monitoring-and-assessment]] protocols for explosive remediation include analytical chemistry for parent compounds and transformation products, toxicity testing, and molecular biological monitoring of degrading populations.
-
-Immobilization of explosive-degrading enzymes, as described in [[enzyme-based-bioremediation]], offers potential for treatment of concentrated waste streams from munitions manufacturing and demilitarization operations.
-- [[fungal-enzyme-activity-nutrient-availability]]
+[[enzyme-based-bioremediation]], offers potential for treatment of concentrated waste streams from munitions manufacturing and demilitarization operations.
 - [[fungal-soil-remediation-persistent-pollutants]]

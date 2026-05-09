@@ -110,8 +110,6 @@ dynamics of nutrient availability in ecosystems.
 
 ## See Also
 
-- [[dighton-fungal-decomposition-nutrient-cycling]]
 - [[dighton-fungal-nutrient-translocation-element-redistribution]]
-- [[fungal-nutrient-immobilization-and-translocation]]
 - [[dighton-fungal-rhizomorphs-mycelial-cords]]
 - [[dighton-wood-decay-ecosystem-carbon]]

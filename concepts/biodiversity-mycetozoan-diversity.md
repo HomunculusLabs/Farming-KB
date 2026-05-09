@@ -105,36 +105,8 @@ regulating bacterial populations in soil and leaf litter
 ecosystems. Their phagotrophic feeding on bacteria and other
 microorganisms positions them as significant components of
 microbial food webs. By consuming bacteria, they influence
-nutrient cycling processes in [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-and [[biodiversity-fungi-leaf-litter-decomposition]] systems.
+nutrient cycling processes in [[biodiversity-fungi-leaf-litter-decomposition]] systems.
 
-In [[biodiversity-fungi-soil-ecosystems]],
-mycetozoans contribute to the complex trophic interactions
-that drive microbial community dynamics. Their presence on
-dead aerial plant parts, rotting wood, and dung reflects their
-role as generalist microhabitat colonizers.
-
-## Sampling Considerations
-
-Rates at which protostelids and other small mycetozoans colonize
-substrata can be sampled with sterilized substrata introduced
-into a microhabitat. After one to several weeks, substrata are
-transferred to moist chambers and searched periodically over
-several weeks for fruiting bodies. Ordination analysis has shown
-that differences in microhabitat have a greater influence on
-species distribution patterns than differences in habitat.
-
-The presence of soil-inhabiting mycetozoans may be determined
-by plating suspensions of substratum and a preferred food
-organism on agar, looking for plaques containing the organisms
-of interest. Any serious effort to sample mycetozoan biodiversity
-requires access to a laboratory equipped with compound and
-stereomicroscopes and microbiological culture facilities.
-
-## Related Topics
-
-- [[biodiversity-fungi-soil-ecosystems]]
-- [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
+In [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-fungi-leaf-litter-decomposition]]
-- [[biodiversity-fungi-molecular-methods]]
 - [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]

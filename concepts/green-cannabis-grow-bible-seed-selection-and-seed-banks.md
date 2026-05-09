@@ -134,8 +134,6 @@ information and guidance on where to obtain good genetics.
 
 ## See Also
 
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
 - [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

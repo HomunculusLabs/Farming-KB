@@ -24,36 +24,6 @@ unlock biochar's potential as a soil conditioner.
 
 ## Biochar Production Guide
 
-[[biochar-production-guide]]
-
-Biochar production centers on pyrolysis, the thermal decomposition of biomass
-in a limited-oxygen environment at temperatures between 350 and 700 degrees
-Celsius. The goal is to drive off volatile gases and moisture while preserving
-the carbon skeleton of the feedstock, producing a lightweight, porous material
-with extraordinary surface area. Below 350 degrees Celsius, incomplete
-carbonization yields charcoal that still contains tars and volatile compounds
-that may be phytotoxic. Above 700 degrees Celsius, the pore structure begins
-to collapse, reducing surface area and agricultural value.
-
-Production methods range from simple to sophisticated. The TLUD (top-lit
-updraft) cone kiln is the most accessible option for small-scale producers,
-allowing one person to process moderate volumes with minimal equipment. The
-retort method places feedstock inside a sealed container within an outer fire,
-producing cleaner biochar with less smoke. The pit method is the oldest
-technique, digging a trench and burning brush under a dirt cover, though it
-yields inconsistently. Conservation burns adapt prescribed fire practices to
-maximize char production during landscape management.
-
-Feedstock selection significantly affects biochar quality. Hardwood chips,
-bamboo, and corn stalks are preferred for their lignin content and structure.
-Softwoods, treated lumber, and glossy paper should be avoided due to resins,
-chemicals, and contaminants. Feedstock moisture should be below 20 percent
-for efficient conversion. After production, biochar must be quenched promptly
-with water to halt combustion. Allowing it to continue burning converts
-valuable carbon to ash, defeating the purpose of production.
-
-## Biochar Soil Amendment
-
 [[biochar-soil-amendment]]
 
 Biochar's use as a soil amendment is inspired by terra preta, the remarkably
@@ -133,12 +103,7 @@ operations creates a synergistic system where each process supports the other.
 
 ## See Also
 
-- [[comparison-biochar-vs-compost]]
 - [[comparison-biochar-remediation-vs-phytoremediation]]
-- [[biochar-production-guide]]
 - [[biochar-soil-amendment]]
-- [[soil-food-web]]
-- terra preta
 - [[biointensive-carbon-farming]]
-- [[mycorrhizal-fungi]]
 - [[compost-tea-guide]]

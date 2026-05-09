@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Manicuring is the process of removing leaves from cannabis buds after harvest to produce clean, visually appealing flower ready for consumption or [[curing-cannabis]]. According to Cervantes, properly manicuring one pound (454 gm) of cannabis takes four to six hours by hand with scissors and one to two hours when using an automatic trimmer. Manicuring is a critical post-harvest step that directly impacts the final quality of the product and generates valuable trimmings for [[cannabis-hashish-production]].
+Manicuring is the process of removing leaves from cannabis buds after harvest to produce clean, visually appealing flower ready for consumption or [[cannabis-hashish-production]].
 
 ## When to Manicure
 
@@ -24,51 +24,7 @@ Growers have several options for timing their manicuring:
 - Remove large fan leaves before harvest, manicure small leaves after drying
 - Leave outer leaves intact as a protective sheath during drying, then manicure dry
 
-The third option protects delicate [[comparison-cannabis-kief-collection-vs-hashish-guide]] from bruises and rupture but turns trimming into a labor-intensive process later. Plants with outer fan leaves intact take longer to dry and require much more time to manicure.
-
-## Tools for Manicuring
-
-The primary tools for manual manicuring include:
-
-- Small-bladed trimming scissors for reaching between bud structures
-- Ergonomic scissors with comfortable handles for extended sessions
-- Fine pruners for larger branch removal
-- A fine silkscreen or glass table placed underneath to collect fallen resin glands
-- Rubber gloves for collecting "finger hash" during trimming
-- Paper bags for storing trimmed leaves (paper breathes, plastic does not)
-
-Automatic trimmers such as the Bonsai electric scissors work on AC or DC current and can reduce trimming time by two-thirds or more. The Aardvark trimmer attaches to a vacuum that whisks trim into a tidy bag. The vacuum hose can be placed in the freezer and shaken out for accumulated resin later.
-
-## Technique: Step-by-Step Manual Manicuring
-
-1. Cut large leaves where they attach to the stem
-2. Remove the petiole (leaf stem) at the main stem to avoid mold growth
-3. Snip off smaller, low-potency leaves around buds that show little resin
-4. Leave a beautiful THC-potent bud with minimal foliage remaining
-5. Work over a silkscreen or glass surface to collect fallen resin
-6. Handle buds as gently as possible to preserve resin glands
-
-## Collecting Resin During Manicuring
-
-One of the most valuable aspects of manicuring is the resin that accumulates on tools and hands:
-
-- Scrape accumulated resin from scissors when it impairs blade movement
-- Use a small knife to remove built-up resin from scissor blades
-- Ball up small bits of scraped resin by rubbing between fingers
-- The ball of hash will grow as manicuring progresses
-
-### Finger Hash Collection
-
-Wearing inexpensive rubber gloves allows systematic collection of "finger hash." After trimming for a few hours, accumulated hash on gloves can be removed by:
-
-- Bathing gloves in isopropyl alcohol and letting alcohol evaporate overnight
-- Scraping up the remaining hash after all alcohol has evaporated
-- Alternatively, freezing rubber gloves for a few hours to make scraping easier
-- Cooling makes it easier to scrape and rub accumulated hash from gloves
-
-## Processing Trimmings
-
-Large bags of dried leaf and trimmings from manicuring are ideal material for [[cannabis-hashish-production]]. These trimmings contain significant resin and should not be discarded:
+The third option protects delicate [[cannabis-hashish-production]]. These trimmings contain significant resin and should not be discarded:
 
 - Place trimmings in paper bags (which breathe) to dry
 - Store in a closet with 40-60% humidity and 60-70F (15-21C)
@@ -134,11 +90,7 @@ For commercial or large-scale operations, the time investment in hand manicuring
 
 ## See Also
 
-- [[cannabis-hashish-production]]
 - [[cannabis-kief-collection]]
-- [[cannabis-curing-jars]]
 - [[cannabis-yield-optimization]]
-- [[cannabis-quality-testing]]
 - [[cannabis-hash-making-from-extracted-oil]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-hashish-making-methods]]

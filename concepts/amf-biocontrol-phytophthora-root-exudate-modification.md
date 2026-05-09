@@ -76,15 +76,11 @@ Using compartmented soil systems where tomato plants were colonized with G. moss
 
 ## Related Topics
 
-- [[mycorrhizal-compartmented-culture-systems]] - Compartmented culture methods
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - Combined microbial inoculants
 - induced systemic resistance mycorrhiza - ISR mechanisms
 
 ## See Also
 
-- [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 - [[mycorrhizal-pathogen-resistance]]
-- [[mushroom-cultivation-fundamentals]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
 - [[fungal-soil-aggregate-formation-glomalin]]

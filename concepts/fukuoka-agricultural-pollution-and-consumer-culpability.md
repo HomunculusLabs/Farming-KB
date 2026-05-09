@@ -61,34 +61,12 @@ Engineers proceed from "limited scientific truth and judgment" -- the world as p
 
 ## The Natural Farming Alternative
 
-Fukuoka's "modest solutions" -- spreading straw and growing clover -- create no pollution because they eliminate the source of the problem. "Until the modern faith in big technological solutions can be overturned, pollution will only get worse." The [[fukuoka-four-principles-natural-farming]] eliminate the need for the chemicals that cause pollution in the first place:
+Fukuoka's "modest solutions" -- spreading straw and growing clover -- create no pollution because they eliminate the source of the problem. "Until the modern faith in big technological solutions can be overturned, pollution will only get worse." The [[fukuoka-desert-greening-projects]] and [[fukuoka-pollution-conference-modest-solution]]
 
-- No cultivation means no soil erosion and sediment runoff
-- No chemical fertilizer means no nutrient leaching into waterways
-- No pesticides means no poison in the food chain
-- No herbicides means no destruction of soil microbiology
-
-The energy economics are stark: Fukuoka calculated that scientific agriculture requires an energy expenditure per unit of food produced up to 50 times that of natural farming. When you factor in soil erosion (estimated at 5.6 tons per acre per year on US cropland), water pollution, health costs, and fossil fuel dependency, conventional farming's "efficiency" is an illusion maintained by externalizing costs.
-
-## Connection to Global Desertification
-
-Fukuoka's analysis of pollution connects directly to his observations about desertification. The three great grain-growing regions -- Mesopotamia, the Sahel, and southern China -- all produced magnificent civilizations that ultimately collapsed into desert. The connection between how a society grows its food and how that society fares is, for Fukuoka, not metaphorical but causal. When food production becomes extractive rather than reciprocal, the land degrades and the civilization follows. See [[fukuoka-desert-greening-projects]] and [[fukuoka-critique-modern-agriculture]].
-
-## See Also
-
-- [[fukuoka-pollution-conference-modest-solution]]
-
-- [[fukuoka-natural-farming-philosophy]] -- philosophical foundation
 - [[fukuoka-four-principles-natural-farming]] -- the practical alternative
-- [[natural-farm-permaculture-ethics-principles]] -- related ethics
 - [[fukuoka-natural-farming-method]] -- the method that eliminates pollution at source
 - fukuoka agricultural pollution and consumer culpability -- this page
-- [[fukuoka-nature-transcends-human-knowledge]] -- the philosophical framework
-
-## Related
-
 - [[fukuoka-critique-green-revolution]]
-- [[fukuoka-food-as-strategic-weapon]]
 - [[fukuoka-why-natural-farming-blocked-in-japan]]
 
 ## Merged: Fukuoka Fruit Hard Times Consumer Pollution
@@ -101,45 +79,19 @@ Consumers generally assume that they have nothing to do with causing agricultura
 
 How did we get into such a predicament? People say they do not care if cucumbers are straight or crooked, and that fruit does not necessarily have to be beautiful on the outside. But take a look inside the wholesale markets in Tokyo. When the fruit looks just a little better, you get a premium of five or ten cents a pound. When the fruit is classed "Small," "Medium" or "Large," the price per pound may double or triple with each increase in size.
 
-This creates a powerful economic incentive for farmers to use whatever means necessary to produce cosmetically perfect food. The consumer's stated preference for "natural" food is contradicted by their actual purchasing behavior, which rewards visual perfection above all else. Fukuoka saw this contradiction as a fundamental spiritual disorder -- a [[fukuoka-food-civilization-critique]] to understand what food truly is.
-
-## Out-of-Season Growing
-
-The consumer's willingness to pay high prices for food produced out of season has also contributed to the increased use of artificial growing methods and chemicals. Unshu mandarin oranges grown in hothouses for summer shipment fetched prices ten to twenty times higher than seasonal mandarins.
-
-Furthermore, a colouring agent, not used a few years ago, is now being used. With this chemical, the fruit becomes fully coloured one week earlier. Depending on whether the fruit is sold a week before or after the 10th of October, the price either doubles or falls by half, so the farmer applies colour-accelerating chemicals, and after the harvest places the fruit in a ripening room for gas treatment.
-
-The fruit is then taken to the co-op fruit-sorting centre. In order to separate the fruit into large and small sizes, each one is sent rolling several hundred yards down a long conveyor. Bruising is common. After washing, the mandarin oranges are sprayed with preservatives and a colouring agent is brushed on. Finally, as a finishing touch, a paraffin wax solution is applied and the fruit is polished to a glossy shine. Nowadays fruit is really "run through the mill."
-
-By the time this "perfect" fruit reaches the consumer, it has been subjected to a battery of chemical treatments that would be unthinkable if the consumer actually witnessed the process. The result is a product that looks beautiful but has been fundamentally altered from its natural state. This connects to Fukuoka's critique of the [[fukuoka-natural-foods-movement-america]], which often focuses on superficial qualities rather than fundamental principles.
+This creates a powerful economic incentive for farmers to use whatever means necessary to produce cosmetically perfect food. The consumer's stated preference for "natural" food is contradicted by their actual purchasing behavior, which rewards visual perfection above all else. Fukuoka saw this contradiction as a fundamental spiritual disorder -- a [[fukuoka-natural-foods-movement-america]], which often focuses on superficial qualities rather than fundamental principles.
 
 ## The Chain Reaction of "Modernization"
 
 If one farm household or co-op takes up a new process such as the waxing of mandarin oranges, because of the extra care and attention the profit is higher. The other agricultural co-ops take notice and soon they, too, adopt the new process. Fruit that is not wax-treated no longer brings so high a price. In two or three years, waxing is taken up all over the country. The competition then brings the prices down, and all that is left to the farmer is the burden of hard work and the added costs of supplies and equipment.
 
-This chain reaction illustrates what Fukuoka saw as the fundamental trap of [[fukuoka-critique-modern-agriculture]]: every "improvement" becomes mandatory, but none of them actually benefits the farmer or the consumer in the long run. The chemical companies profit, the equipment manufacturers profit, but the farmer works harder for less and the consumer eats increasingly adulterated food.
-
-The same dynamic applies to every aspect of food production. When one farmer uses a chemical to accelerate ripening, all farmers must follow or lose their competitive position. When one apple grower applies wax, unwaxed apples become unsalable. The market forces that supposedly give consumers choice actually eliminate choice by creating uniform standards that can only be met through chemical intervention.
-
-## The Biology of Freshness
-
-Speaking biologically, fruit in a slightly shrivelled state is holding its respiration and energy consumption down to the lowest possible level. It is like a person in meditation: his metabolism, respiration, and caloric consumption reach an extremely low level. Even if he fasts, the energy within the body will be conserved. In the same way, when mandarin oranges grow wrinkled, when fruit shrivels, when vegetables wilt, they are in the state that will preserve their food value for the longest possible time.
-
-It is a mistake to try to maintain the mere appearance of freshness, as when shopkeepers sprinkle water on their vegetables over and over again. Although the vegetables are kept looking fresh, their flavour and nutritional value soon deteriorate.
-
-This insight reveals the profound disconnect between appearance and reality in modern food culture. The consumer's eye has been trained to evaluate food by its surface qualities -- colour, size, shine, firmness -- while the deeper qualities of nutrition, flavour, and life force are ignored or actively destroyed in the pursuit of visual perfection. This connects to Fukuoka's [[fukuoka-natural-diet-philosophy]], which holds that true nourishment comes from eating food in its natural state, not from food that has been cosmetically enhanced.
+This chain reaction illustrates what Fukuoka saw as the fundamental trap of [[fukuoka-natural-diet-philosophy]], which holds that true nourishment comes from eating food in its natural state, not from food that has been cosmetically enhanced.
 
 ## The Reversal of Values
 
 To say it in a word, until there is a reversal of the sense of values which cares more for size and appearance than for quality, there will be no solving the problem of food pollution. These measures are not taken because the farmer likes to work this way, but until the general sense of values changes, the situation will not improve.
 
-Fukuoka's call for a "reversal of values" is not merely a dietary suggestion but a spiritual and philosophical challenge. He is asking people to question the entire framework through which they evaluate food, health, and nature. This reversal is central to the [[fukuoka-food-spirit-united]] -- when we eat with true awareness, recognizing the life within our food, we naturally gravitate toward food that is grown in harmony with nature.
-
-## Philosophical Significance
-
-This passage from "The Fruit of Hard Times" represents one of Fukuoka's most politically and socially radical arguments. He is not merely critiquing agricultural practices -- he is exposing the economic and psychological structures that make those practices seem necessary. The farmer is not the villain in this story; the farmer is trapped by the same system that traps the consumer.
-
-Fukuoka's analysis anticipates what would later be called "consumer-driven environmental degradation." The environmental movement often focuses on regulating producers, but Fukuoka points out that producers respond to consumer demand. Until consumers change what they value, regulation alone cannot solve the problem. This is why he placed such emphasis on [[fukuoka-food-and-health-philosophy]] -- not as an abstract academic exercise, but as a practical intervention in the cycle of production and consumption.
+Fukuoka's call for a "reversal of values" is not merely a dietary suggestion but a spiritual and philosophical challenge. He is asking people to question the entire framework through which they evaluate food, health, and nature. This reversal is central to the [[fukuoka-food-and-health-philosophy]] -- not as an abstract academic exercise, but as a practical intervention in the cycle of production and consumption.
 
 ## Connection to Natural Farming Principles
 

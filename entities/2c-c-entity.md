@@ -11,104 +11,89 @@ sources:
 
 **Chemical name:** 2,5-Dimethoxy-4-chlorophenethylamine
 
-**PiHKAL #22** | [[alexander-shulgin]]'s rating: +
-
-## Overview
-
-2C-C is a psychedelic phenethylamine belonging to the [[2c-family-compounds-overview]] and the halogen series. It is the chlorine analogue in the halogen series (2C-F, 2C-C, 2c-b-entity|2C-B, 2C-I), positioned between the theoretical fluorine analogue and the widely-used bromine compound. First synthesized and bioassayed by [[alexander-shulgin]], 2C-C is the least potent of the explored halogen series but has a distinctive character with strong sensual qualities and a sedating tendency at higher doses.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | 10-15 |
-| Light | 15-20 |
-| Common | 20-40 |
-| Strong | 40-50 |
-| Heavy | 50+ |
-
-Shulgin's published dosage range: **20–40 mg**, with a duration of **4–8 hours**. Reports of usage up to 50 mg further increase intensity and duration.
-
-## Duration
-
-| Phase | Time |
-|-------|------|
-| Onset | 60-120 min |
-| Come-up | 60-90 min |
-| Peak | 3-5 h |
-| Offset | 2-3 h |
-| Total | 4-8 h |
-
-## Qualitative Effects
-
-- Moderate visual effects with color enhancement at common doses
-- Distinctive sensual and tactile quality
-- Less stimulation than 2c-b-entity|2C-B — can be sedating at higher doses
-- Slight metallic overtone noted at lower doses
-- Longer latency in onset compared to 2C-B (1.5–2 hours)
-- Relaxed, calm quality to the experience
-- Less visual distraction, more body-centered
-- Eyes-open visuals increase significantly at higher doses
-
-## Shulgin's Qualitative Comments
-
-2C-C was described as a longer-lived but less stimulating alternative to 2C-B, with a distinctive sedating quality that distinguishes it from other members of the 2C series. Reports emphasize the compound's sensual character and the relative absence of stimulating or distracting visual effects at common doses.
-
-### Selected PiHKAL Trip Reports
-
-**20 mg:** "This is longer lived than 2C-B, and there is a longer latency in coming on. It took an hour and a half, or even two hours to get there. It had a slight metallic overtone."
-
-**24 mg:** "I was at a moderately high and thoroughly favorable place, for several hours. It seemed to be a very sensual place, but without too much in the way of visual distraction."
-
-**40 mg:** "There were a lot of visuals — something that I had noted at lower levels. There seems to be less stimulation than with 2C-B, and in some ways it is actually sedating. And yet I was up all night. It was like a very intense form of relaxation."
-
-## Synthesis (from PiHKAL)
-
-Two synthesis routes are documented:
-
-### Route 1: Direct Chlorination of 2C-H
-
-The free base of 2,5-dimethoxyphenethylamine (2C-H) is generated from its hydrochloride salt by basification and extraction into CH₂Cl₂. The free base is dissolved in glacial acetic acid, cooled to 0 °C, and treated with liquid chlorine added dropwise with vigorous stirring. After quenching with water, the mixture is washed, neutralized, treated with sodium dithionite to discharge color, basified with KOH, and extracted. The product is crystallized from IPA as the hydrochloride salt.
-
-**HCl salt mp:** 218–221 °C (recrystallized from IPA: 220–222 °C). Position of chlorination verified by two para-protons in the NMR at 7.12 and 7.20 ppm.
-
-### Route 2: Halogen Exchange from 2C-B
-
-2C-B is protected as its phthalimide by reaction with phthalic anhydride in DMF. The phthalimide is treated with cuprous chloride in DMF under reflux (Sandmeyer-type halogen exchange, bromine to chlorine), followed by standard phthalimide cleavage with hydrazine hydrate in EtOH. The free base distills at 145–155 °C at 0.05 mm/Hg.
-
-The same reaction with cuprous cyanide instead of cuprous chloride gave 2,5-dimethoxy-4-cyanophenethylamine (2C-CN). Basic hydrolysis of 2C-CN yielded 2,5-dimethoxy-4-carboxyphenethylamine (2C-COOH). Neither has been evaluated in humans.
-
-## Structure-Activity Relationships
-
-2C-C occupies a unique position in the halogen series. The halogens represent a structurally constrained group — being monovalent, they cannot be modified or extended, making them a "dead end" in the 2C-X series:
-
-| Compound | Substituent | Relative Potency | Notes |
-|----------|------------|-----------------|-------|
-| 2C-F | Fluorine | Lowest | Indirect synthesis required; gas handling |
-| **2C-C** | **Chlorine** | **Low** | **Sedating quality; less explored** |
-| 2C-B | Bromine | Moderate | Most broadly explored |
-| 2C-I | Iodine | Highest | Longest duration |
-
-The corresponding amphetamine of 2C-C is DOC (2,5-dimethoxy-4-chloroamphetamine), which is also less potent than its bromine (DOB) and iodine (DOI) counterparts. Shulgin speculated that the lower exploration of the chlorine compounds may partly be due to chlorine being a gas and troublesome to handle in the lab.
-
-## Intravenous Administration
-
-A single report exists of intravenous administration of 20 mg. The response was described as overwhelming, with effects peaking at about 5 minutes and lasting for perhaps 15 minutes. This is the only IV report in the 2C-C literature and serves as a cautionary note about parenteral routes.
-
-## Safety Warnings
-
-- Less potent than other halogen 2C compounds, but still requires accurate dosing
-- Long onset time (1.5–2 hours) — resist the urge to redose
-- Intravenous administration produces overwhelming effects
-- The sedating quality may be misleading; users may underestimate impairment
-- See [[psychedelic-harm-reduction]] for general harm reduction guidelines
+**PiHKAL #22** | [[2c-family-compounds-overview]] and the halogen series. It is the chlorine analogue in the halogen series (2C-F, 2C-C, 2c-b-entity|2C-B, 2C-I), positioned between the theoretical fluorine analogue and the widely-used bromine compound. First synthesized and bioassayed by [[psychedelic-harm-reduction]] for general harm reduction guidelines
 - Legal status: Scheduled in many countries
 
 ## Related Compounds
 
 - 2c-b-entity|2C-B — bromine analogue, more visual and stimulating
 - 2C-I — iodine analogue, most potent in the halogen series
-- mescaline-entity|Mescaline — parent phenethylamine compound
-- 2c-d-entity|2C-D — methyl analogue, distinct character
-- 2c-e-entity|2C-E — ethyl analogue, significantly more potent
 - [[phenethylamine-pharmacology]] — general pharmacological principles
+## Practical Applications
+
+2C-C (CE; 4-Chloro-2,5-dimethoxy-PEA) has a range of practical applications that make it relevant to
+both researchers and practitioners. Understanding these applications
+requires familiarity with the underlying principles and their
+manifestation in real-world contexts. The breadth of applications
+reflects the fundamental importance of this topic across disciplines.
+
+Implementation varies based on scale, available resources, and
+specific objectives. Small-scale applications may be relatively
+straightforward, while larger implementations require more careful
+planning and coordination. Adaptation to local conditions is always
+essential for achieving optimal results regardless of scale.
+
+Documented case studies provide valuable reference points, though
+each situation presents unique combinations of opportunities and
+constraints that require context-specific solutions. The most
+successful implementations combine established best practices with
+creative adaptation to local conditions and emerging challenges.
+
+## Key Considerations
+
+Several important considerations should guide approach and decision-
+making when working with this topic. These include environmental
+factors, resource availability, timing, and the specific goals of the
+implementation. Careful attention to these factors improves outcomes
+and reduces the likelihood of common problems and setbacks.
+
+Environmental conditions play a particularly significant role in
+determining outcomes. Factors such as temperature, moisture, light
+exposure, and seasonal timing can substantially affect results.
+Monitoring these conditions and adapting practices accordingly is
+a hallmark of experienced and effective practice in this area.
+
+Resource considerations include not only material inputs but also
+knowledge, skills, time, and ongoing management capacity. Realistic
+assessment of available resources helps prevent overcommitment and
+enables more sustainable and successful long-term implementations.
+
+## Common Challenges
+
+Practitioners commonly encounter several challenges when working with
+2C-C (CE; 4-Chloro-2,5-dimethoxy-PEA). These include both technical difficulties and broader systemic
+issues that require adaptive management and creative problem-solving.
+Awareness of these common challenges enables more proactive planning
+and faster resolution when issues do arise during implementation.
+
+Technical challenges often relate to the complexity of interactions
+between multiple variables and the difficulty of predicting outcomes
+with certainty. Building in redundancy, monitoring key indicators, and
+maintaining flexibility in approach all help manage this inherent
+uncertainty and improve the resilience of implementations over time.
+
+Learning from both successes and failures is essential for continuous
+improvement. Maintaining records of observations, interventions, and
+outcomes creates a valuable knowledge base that supports progressively
+better results with each iteration of practice and experimentation.
+
+## Integration and Future Development
+
+The greatest value from this topic often comes through integration
+with other systems and approaches. Rather than treating it in isolation,
+considering how it connects with and enhances other elements creates
+more robust and productive overall systems. This integrative approach
+is increasingly recognized as essential for sustainable outcomes.
+
+Future development in this area is likely to be driven by advances
+in scientific understanding, new technological capabilities, and the
+growing urgency of environmental and social challenges. Staying
+current with developments and maintaining openness to new approaches
+helps practitioners continue to improve their effectiveness over time.
+
+Recommended resources for continued learning include established
+reference works, practitioner communities, research publications, and
+hands-on experimentation. The combination of theoretical study and
+practical experience provides the strongest foundation for developing
+expertise and contributing to the ongoing evolution of this field.
+

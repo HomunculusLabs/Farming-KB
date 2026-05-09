@@ -29,17 +29,7 @@ sources:
 ## Overview
 
 6-MAPB (6-(2-aminopropyl)benzofuran) is a synthetic empathogen-entactogen of
-the benzofuran class. It is structurally related to both [[mdma-reference|MDMA]]
-(3,4-methylenedioxymethamphetamine) and 5-APB
-(5-(2-aminopropyl)benzofuran), with the substitution occurring at the 6-position
-of the benzofuran ring system rather than the 5-position.
-
-The compound first appeared on the recreational drug market around 2010–2012 as
-a "research chemical" and novel psychoactive substance (NPS). It was marketed
-online as a legal alternative to MDMA before being scheduled in multiple
-jurisdictions.
-
-6-MAPB acts primarily as a [[serotonin|serotonin]]-releasing agent and reuptake inhibitor,
+the benzofuran class. It is structurally related to both [[serotonin|serotonin]]-releasing agent and reuptake inhibitor,
 with additional effects on dopamine and norepinephrine systems. Its subjective
 effects are broadly similar to MDMA, producing euphoria, empathy, and sensory
 enhancement, though with some notable pharmacological differences.
@@ -137,14 +127,8 @@ color shift); avoiding redosing; maintaining hydration without overhydration
 (200–500 mL/hour); avoiding combination with other serotonergic substances
 (SSRIs, MAOIs, tramadol, DXM) due to serotonin syndrome risk; and allowing
 minimum 4–6 week recovery periods between uses to permit serotonin recovery.
-
 ## See Also
 
-- [[2c-b-psychedelic-empathogen-guide]]
-
 - [[5-apb]]
-- [[5-meo-dipt]]
-- MDA
 - [[mdma]]
-- [[6-MeO-THH]]
 - [[2c-b]]

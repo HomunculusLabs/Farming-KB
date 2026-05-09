@@ -12,9 +12,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-In 2003, Paul Stamets purchased land on Cortes Island, British Columbia, half of which had been clear-cut by the previous owner. The remaining landscape was a mixture of old-growth and second-growth Douglas fir, hemlock, and western red cedar forests. This property became a long-term experimental site for demonstrating [[mycoforestry-principles-stamets]] that offer alternatives to traditional slash-and-burn forestry methods.
-
-Source: [[mycelium-running-techniques]]
+In 2003, Paul Stamets purchased land on Cortes Island, British Columbia, half of which had been clear-cut by the previous owner. The remaining landscape was a mixture of old-growth and second-growth Douglas fir, hemlock, and western red cedar forests. This property became a long-term experimental site for demonstrating [[mycelium-running-techniques]]
 
 ***
 
@@ -25,23 +23,7 @@ Conventional forestry practice after clear-cutting involves stacking brush and b
 - After trees are removed, the forest food chain suffers a sudden massive withdrawal of carbon and nutrients
 - Burning debris represents a second sudden carbon withdrawal from the forest's ecological bank
 - These combined withdrawals impair long-term ecological recovery
-- [[agricultural-chemicals-mycorrhizal-impact]], with ever-diminishing returns
-- Such practices accelerate premature decline — trees climax in their life cycles prematurely as root zones cannot support the trees above them
-- Dense, even-aged replanted forests pack an enormous fuel load from dead aerial side branches
-
-## The Experiment Design
-
-The clear-cut portion was divided into test plots with two native tree species: Douglas fir and cedar, totaling 35,000 seedlings. Four treatment combinations were tested:
-
-1. **Trees without mycorrhizae, without wood chips** (standard planting)
-2. **Trees without mycorrhizae, with wood chips** (standard planting + topdressing)
-3. **Trees with mycorrhizae, without wood chips** (inoculated roots only)
-4. **Trees with mycorrhizae, with wood chips** (full treatment)
-
-### Mycorrhizal Inoculation
-
-Half of all tree seedlings had root-balls dipped in a mycorrhizal spore-mass slurry:
-- Cedars: exposed to approximately half a million spores of the endomycorrhizal species [[arbuscular-mycorrhizal-network-visualization-anastomosis]] per root-ball
+- [[arbuscular-mycorrhizal-network-visualization-anastomosis]] per root-ball
 - Douglas firs: exposed to a similar quantity of the ectomycorrhizal species Rhizopogon parksii
 - The other half received no spore treatment
 
@@ -75,13 +57,7 @@ Mushroom mycelium is described as "the grand demolecularizer of plant fibers" (l
 
 ### Soil Creation
 
-For every 12 inches of wood chips, approximately 1-2 inches of soil are created after 4 years of decomposition by [[cotter-mycoremediation-overview]]. The breakdown of wood chips by fungi creates erosion-resistant soil that retains moisture and nutrients.
-
-### Cost Considerations
-
-- The cost of building a logging road is approximately $32,000 per mile
-- Decommissioning a road costs roughly the same using conventional methods
-- [[mycofiltration-of-water]] approaches reduce decommissioning costs to approximately 50% per mile
+For every 12 inches of wood chips, approximately 1-2 inches of soil are created after 4 years of decomposition by [[mycofiltration-of-water]] approaches reduce decommissioning costs to approximately 50% per mile
 
 ***
 
@@ -100,10 +76,6 @@ Unused wood chips were spread in depressions and near roads to reduce silt flow 
 
 ## Related Topics
 
-- [[mycoforestry-principles-stamets]] — Core principles of fungal forestry
 - [[mycoforestry-forest-restoration]] — Broader forest restoration applications
-- [[stamets-mycoforestry-case-studies]] — Additional case studies from Stamets
-- mycorrhizal mushrooms forest partnerships stamets — Mushroom-tree partnerships
 - [[brown-rot-white-rot-fungi-remediation]] — Wood decomposition mechanisms
-- [[tahuya-forest-road-reclamation]] — Related road reclamation project
 - [[mycofiltration-of-water-stamets]] — Water filtration using fungal mats

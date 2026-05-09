@@ -135,8 +135,6 @@ sources:
 | *Pleurotus tuber-regium* | Tropical Africa | Edible sclerotium-forming pleurotoid; different family |
 
 ## See Also
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[hericium-erinaceus]]
+- [[trametes-versicolor-entity]]
 - [[polyporus-umbellatus]]
 - [[poria-cocos]]

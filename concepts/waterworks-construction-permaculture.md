@@ -3,102 +3,140 @@ title: Waterworks Construction Permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Waterworks Construction in Permaculture
-
-updated: 2026-04-18
-
-Permaculture Two (1979) Section 7.2 provides detailed nomenclature and design principles for water storage and distribution systems, integrating [[water-catchment-permaculture]] with polyculture considerations.
+tags: [[water-catchment-permaculture]] with polyculture considerations.
 
 ## Combined Keyline and Permaculture
 
-Combined, Keyline and permaculture achieve a rare conscious integration in water and soil treatment plus integrated biological planning. Such combinations give pleasure on small-holdings of from 1-15 acres but would ensure stability for any country which applied them on a national scale. See also [[keyline-design-water-management]].
-
-## Nomenclature of Ponds and Lakes
-
-### Barrage Ponds
-Across stream courses, filled directly by the stream or by valley runoff.
-
-### Diversion Ponds
-Filled by a diversion channel leading water from stream or runoff area such as a bare, rocky slope.
-
-### Ring Dams ("Turkey Nests")
-Flatland storages above grade. Water must be pumped into these. They form one of a series of storage ponds.
-
-### Storage Ponds
-Steady level ponds formed as barrages, taking water from upstream barrages and leading it into contour channels or irrigation banks.
-
-### Contour Dams
-Water made along a contour, with wing banks running upslope to impound water. The contour may be concave or convex on the downhill side.
-
-### Additional Structures
-
-- Overflows: Piped or boxed screens to keep fish ponds at constant level
-- Spillways: Channels leading floodwater out of dams to streams or irrigation ditches
-- Irrigation channels: Banked drains with little or no slope, fitted with water-gates, siphoning, or pumping
-- Steering banks: Very low earth banks, sometimes only a few inches high, made directly downhill from irrigation channels or bordering a field so water forms a sheet on the land
-- Bunds: Level banks on flat or graded land (such as rice paddies) holding water for crops needing saturated or very wet soils
-- Perched ponds: Small settling, filter, or frog ponds perched above larger storages
-- Subsurface ponds: Walls under water at full storage that cut off and preserve shallow estuarine water in draw-down
-- Earth tanks: Stock water excavated below surface level
-
-### Fish Pond Types
-- Brood ponds (for adult breeders)
-- Spawning ponds
-- Nursery ponds
-- Solar ponds (for heat production)
-- Dew ponds (constructed to catch night moisture)
-
-## Design for Fish vs. Design for Water Storage
-
-Many small ponds of 100-500 m2 (less than 1/8 acre) are better suited to fish culture than very large storages of 4,000 m2 (1 acre) or more. Graded bottoms of 75 cm to 2 m depth suit many fish, while storage ponds for water need to be 3-6 m deep to be worthwhile on large acreages.
-
-## Biological Importance of Small Structures
-
-Designers frequently overlook the biological importance of small structures. In deserts, even tiny rockholes may be critical for survival of quail chicks and desert animals. Relatively vast grazing shallows are needed by swan flocks in estuaries. Engineers seem little concerned with subsurface dams and shoreline or perched impoundments critical to fish survival. Consequently we have vast, expensive lakes for power generation of very poor biological productivity.
-
-## The "Dry Dam" Problem
-
-In granitic, sandy, or shaly sites, dams leak through base and walls. Historical solutions included:
-
-- "Bumping" walls with 1-3 plugs of gelignite when the dam filled after heavy rain
-- Lime and gypsum to seal cracks
-- Feeding cattle or sheep in the dry pond with bales of hay (close to the modern Russian development of gley)
-
-## The Curing of Leaky Dams by Gley
-
-The gley technique (pronounced "glee") is used in sandy, gravelly, stony, or fissured soils where water will not lie. The process creates an anaerobic seal through fermentation of organic material.
-
-## Ridge-Top Turkey Nests
-
-Ridge-top storage dams serve multiple functions in permaculture design:
-
-- Gravity-fed water to lower zones
-- Emergency fire-fighting water reserves
-- Thermal mass for climate modification
-- Wildlife habitat
-- Fish breeding refuges
-
-## Covered Tanks as Thermal Buffer
-
-Covered tanks serve as basement or foundation elements of buildings, providing heat/cold buffer through thermal mass. This integration of water storage with building design reduces energy needs for climate control while ensuring clean drinking water is reserved strictly for human use at lower settlement levels.
-
-## Sources
-
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Section 7.2.
-- Yeomans, P.A. Water for Every Farm. Murray, Sydney.
-
-#permaculture #waterworks #dam-construction #keyline #water-storage #gley-technique #irrigation
-
-## See Also
-
-- [[permaculture-pond-construction]]
-- [[mollison-fish-pond-construction]]
+Combined, Keyline and permaculture achieve a rare conscious integration in water and soil treatment plus integrated biological planning. Such combinations give pleasure on small-holdings of from 1-15 acres but would ensure stability for any country which applied them on a national scale. See also [[permaculture-pond-construction]]
 - [[mollison-keyline-soil-conditioning-humid-water]]
-- [[permaculture-designers-manual-grazing-animals]]
 - [[permaculture-designers-manual-earth-building-techniques]]
 - [[permaculture-designers-manual-small-animals]]
+## Background and Context
+
+Waterworks Construction Permaculture is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

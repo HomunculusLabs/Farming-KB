@@ -12,9 +12,7 @@ type: concept
 # Gravitropism
 
 Gravitropism is the growth response of plants to gravity, enabling roots to
-grow downward into the [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] shoots to grow upward toward light. This
-fundamental orientation mechanism is essential for plant survival, as it
-ensures that roots access [[water-management]] and nutrients while shoots maximize light
+grow downward into the [[water-management]] and nutrients while shoots maximize light
 capture for photosynthesis.
 
 ## Types of Gravitropism
@@ -27,14 +25,8 @@ vector, often determined by their developmental context.
 
 ## The Statolith Theory
 
-The prevailing model for gravity sensing [[xylem-and-phloem-transport-systems-in-plants]] involves specialized cells
-called statocytes, which contain dense, starch-filled organelles called
-amyloplasts or statoliths. In root caps, these cells are located [[allegro-death-and-resurrection-in-the-mushroom-cult]]
-columella; in shoots, they reside [[allegro-plants-and-drugs-in-the-ancient-world]] endodermis surrounding the vascular
-tissue.
-
-When a plant is displaced from its vertical orientation, statoliths sediment
-to the new physical bottom [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] statocyte within minutes. This sedimentation
+The prevailing model for gravity sensing [[allegro-death-and-resurrection-in-the-mushroom-cult]]
+columella; in shoots, they reside [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] statocyte within minutes. This sedimentation
 is thought to trigger gravity sensing by exerting pressure on the endoplasmic
 reticulum, the plasma membrane, or cytoskeletal elements, activating
 downstream signaling cascades.

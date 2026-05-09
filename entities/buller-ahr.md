@@ -35,6 +35,7 @@ Arthur Henry Reginald Buller (1874–1944) was a British-Canadian mycologist con
 - Studied effects of humidity on spore sedimentation, spore trajectories, and electrostatic charge
 - Published in *Nature* and seven volumes of *Researches on Fungi* (1909–1934)
 
+
 ### Personal Life and Eccentricities
 
 - Lifelong bachelor who lived in a two-room suite at the McLaren Hotel for 40 years (monthly bill >$100 CAD — far beyond most professors)

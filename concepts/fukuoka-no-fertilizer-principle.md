@@ -38,7 +38,7 @@ While compost itself is not without value, the composting of organic materials i
 
 Reforested cedars in a favorable area generally grow about forty tons per quarter-acre over twenty years -- some two tons of new growth each year without fertilizer. This translates into two to four tons of fruit produced each year without fertilizers -- about equal to standard production levels. The mountain forests are living proof that trees are not raised with fertilizer but grow by themselves.
 
-[[fukuoka-four-principles-natural-farming]] | [[fukuoka-fertilizer-critique-detailed]] | [[natural-farming-soil-building]] | [[fukuoka-do-nothing-farming-philosophy]]
+[[fukuoka-fertilizer-critique-detailed]] | [[fukuoka-do-nothing-farming-philosophy]]
 
 ## Key Points
 
@@ -66,11 +66,8 @@ Reforested cedars in a favorable area generally grow about forty tons per quarte
 
 ## See Also
 
-- [[fertilizer-npk-decoded]]
 - [[fukuoka-high-yield-rice-barley]]
-- [[fukuoka-natural-farming-philosophy]]
-
-Related topics in this wiki include: [[natural-farming-philosophy]], [[natural-farming-fukuoka]], [[one-straw-revolution-guide]], [[one-straw-revolution-key-concepts]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-cultivation-principle]], fukuoka no fertilizer principle, [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-natural-rice-farming-steps]], [[fukuoka-do-nothing-farming-philosophy]], [[natural-farming-seed-balls]], [[clay-seed-balls-tsuchi-dango]].
+- [[natural-farming-philosophy]], [[one-straw-revolution-guide]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-do-nothing-farming-philosophy]], [[clay-seed-balls-tsuchi-dango]].
 
 For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
 The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
@@ -89,15 +86,9 @@ The relationship between soil microorganisms, plant roots, and organic matter is
 Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
 Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
 The spiritual dimension of natural farming emphasizes humility, gratitude, and a deep connection to the land.
-
-- [[fukuoka-critique-of-education-universities]]
 
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]
 
-- [[fukuoka-desert-greening-projects]]
-
 - [[fukuoka-natural-body-health-relaxation]]
-
-- [[fukuoka-road-back-to-nature-overview]]
 
 - [[fukuoka-why-natural-farming-blocked-in-japan]]

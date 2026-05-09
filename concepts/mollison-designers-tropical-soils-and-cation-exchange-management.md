@@ -20,46 +20,8 @@ Tropical soils present special challenges for permaculture
 designers because, except in areas of recent vulcanism such
 as Indonesia, soils are old (not renewed by glaciation) and
 deeply leached. Understanding the chemistry of
-[[mollison-tropical-soils-and-granitic-sands]],
-particularly cation exchange capacity (CEC), is essential
-for [[mollison-green-manure-soil-fertility]] in humid tropical
-[[mollison-wet-dry-tropical-design-strategies]].
-
-## The Leaching Problem
-
-Most of the silica and calcium in tropical soils is in low
-supply due to millennia of heavy rainfall and high
-temperatures that accelerate mineral breakdown and leaching.
-In clays, aluminium ions substitute for some silica ions,
-giving soil particles a net negative charge. Especially in
-the oxidic kaolinitic soils common in weathered volcanics,
-only kaolin clays and oxides of iron-aluminium remain.
-
-The result is soils with very low natural fertility and
-poor nutrient-holding capacity. Once forest cover is removed
-and the land is cultivated, humic particles leach out to
-about 30% of prior levels, and infertility rapidly appears
-in crops such as banana and sugar cane.
-
-## Cation Exchange Capacity (CEC)
-
-The CEC of soils is affected by pH in tropical conditions.
-As pH decreases (soil becomes more acid), the negative
-charge on soil particles decreases, reducing their ability
-to hold positively-charged nutrient ions (cations) such as
-calcium, potassium, magnesium, and ammonium.
-
-This creates a vicious cycle: as nutrients are leached by
-heavy rain, soil pH drops, CEC drops, and the soil's
-ability to hold the remaining nutrients is further reduced.
-The solution is to raise pH and increase organic matter
-simultaneously.
-
-## Strategies for Restoring Nutrient-Holding Capacity
-
-### Restore Humus with Green Crop and Perennials
-The first priority is to restore organic matter through:
-- Leucaena and other [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
+[[mollison-green-manure-soil-fertility]] in humid tropical
+[[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
 - Perennial crops rather than annuals
 - Any cultivation loses humus as carbon dioxide, so
   intercropping is essential to maintain soil cover

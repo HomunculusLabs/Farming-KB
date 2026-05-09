@@ -1,18 +1,6 @@
 ---
-title: Energy Circuit Models in Permaculture Design
-tags: [permaculture, odum, systems-ecology, energy-flows, emergy, holmgren, ecological-modelling, energy-hierarchy, feedback]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Holmgren, David. *Permaculture: Principles & Pathways Beyond Sustainability*. Permanent Publications, 2002. Principle 2: Catch and Store Energy, pp. 28-46; Principle 4: Apply Self-regulation and Accept Feedback, pp. 72-81.
-  - Odum, H.T. *Environmental Accounting: EMERGY and Environmental Decision Making*. Wiley, 1996.
-created: 2026-04-28
-type: concept
----
-
-# Energy Circuit Models in Permaculture Design
-
-Energy circuit models, developed by Howard T. Odum, provide a visual language for mapping and understanding energy flows through ecosystems and human systems. David Holmgren draws extensively on this framework throughout his twelve design principles, using it to explain the relationship between energy sources, storages, consumers, and feedback loops that underpin all living systems.
+title: Energy Circuit Models Permaculture Design
+tags: [[david-holmgren]] draws extensively on this framework throughout his twelve design principles, using it to explain the relationship between energy sources, storages, consumers, and feedback loops that underpin all living systems.
 
 ## The Basic Energy Circuit
 
@@ -123,7 +111,5 @@ Despite these limitations, the framework provides an invaluable check on assumpt
 ## See Also
 
 - odum emergy analysis framework
-- [[tripartite-altruism-ecological-systems]]
 - [[nutrient-storage-cycling-terrestrial-ecosystems]]
-- [[mollison-designers-water-purification-and-storage-principles]]
 - [[holmgren-energy-descent-pathways]]

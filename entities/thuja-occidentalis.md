@@ -39,50 +39,8 @@ crown and can live 400–800+ years in favorable conditions.
 The species holds profound cultural significance among Indigenous peoples of northeastern
 North America, who used it as medicine, building material, and ceremonial incense. In Western
 herbalism, *Thuja* preparations are valued for antiviral, immunostimulant, and topical
-applications. In permaculture, arborvitae provides windbreaks, privacy hedging, and wildlife
-habitat in cold-climate designs.
-
-## Taxonomy
-
-Plantae → Pinophyta → Pinopsida → Pinales → **Cupressaceae → *Thuja → T. occidentalis* L.**
-The genus *Thuja* has five species: *T. occidentalis* (eastern NA), *T. plicata* (western
-red cedar), *T. standishii* (Japan), *T. koraiensis* (Korea), and the hybrid *T. ×
-sutchuenensis* (China). Not to be confused with the unrelated "cedar" genera *Calocedrus*,
-*Chamaecyparis*, and *Juniperus*.
-
-## Morphology
-
-Northern white cedar is a narrow, conical evergreen with a buttressed trunk reaching 30–60 cm
-(rarely 120 cm) DBH. Bark is gray to reddish-brown, fibrous, shedding in narrow vertical strips.
-
-**Foliage:** Scale-like leaves in flattened fan-like sprays, 3–5 mm long, dark green above
-with glandular dots beneath. Aromatic when crushed (camphoraceous scent). Bronzes in winter.
-**Cones:** Monoecious. Male cones 1–2 mm, yellowish, abundant in spring. Female cones
-8–13 mm, oblong, with 8–12 overlapping scales. Seeds 2–3 mm with two lateral wings.
-Maturation takes 4–5 months.
-
-## Distribution and Habitat
-
-Native from southeastern Manitoba and central Ontario east to Nova Scotia, south through
-the Great Lakes to New York and Pennsylvania, with disjunct populations to Tennessee and
-North Carolina. Dominates calcareous wetlands, swamp forests, and lake margins, often
-forming nearly pure stands on organic muck or limestone-derived soils.
-
-Highly shade-tolerant in youth, persisting for decades under closed canopy before release.
-Optimal growth on moist, neutral to alkaline soils (pH 6.0–8.0). Cold-hardy to USDA Zone 2
-but intolerant of drought, compacted soils, and fire. One of the most shade-tolerant
-conifers in its range.
-
-## Bioactive Compounds
-
-Concentrated in the leaf essential oil and twig extracts:
-
-- **Thujone (α and β):** Monoterpene ketone, 15–60% of essential oil depending on chemotype.
-  Potent neurotoxin at high doses; GABA_A receptor antagonist. Responsible for both
-  medicinal activity and toxicity concerns.
-- **α-Pinene and β-pinene:** Antimicrobial and anti-inflammatory monoterpenes.
-- **Sabinene, terpinene-4-ol, bornyl acetate:** Minor constituents with synergistic effects.
-- **Flavonoids:** Quercetin, kaempferol, and myricetin derivatives (antioxidant).
+applications. In [[sabinene]], terpinene-4-ol, bornyl acetate:** Minor constituents with synergistic effects.
+- **Flavonoids:** [[kaempferol]], and myricetin derivatives (antioxidant).
 - **Polysaccharides:** Immune-stimulating polysaccharides activating macrophage activity.
 - **Tannins:** Proanthocyanidins with astringent and antiviral properties.
 
@@ -132,6 +90,5 @@ ethanol) at 1–3 mL/day are considered safe; the oil itself should not be taken
 
 ## See Also
 
-- [[agroforestry]]
 - [[dom]]
 - [[food-forest]]

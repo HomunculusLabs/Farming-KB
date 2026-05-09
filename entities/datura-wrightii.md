@@ -124,12 +124,8 @@ The plant has also been featured in numerous documentary films about entheogenic
 
 ## See Also
 
-- [[datura-stramonium]]
 - [[datura-metel-old-world-ethnobotany]]
-- [[plants-gods-datura-solanaceous]]
-
 - [[datura-stramonium]]
-- [[datura-innoxia]]
 - [[datura-metel]]
 - Scopolamine
 - Brugmansia

@@ -115,10 +115,7 @@ Farmers of the past enjoyed simple meals of barley and rice with unrefined soy s
 
 ## See Also
 
-- [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-natural-diet-four-types]]
-- [[fukuoka-food-and-human-health]]
 - [[fukuoka-textdoc-decline-quality-food]]
 - [[fukuoka-five-tastes-health]]

@@ -63,18 +63,7 @@ fully mapped nervous system. Key properties include modular organization,
   mycorrhizae) exhibiting nested structure where specialists interact
   primarily with generalists.
 
-## Mycelial Networks as Model Systems
-
-Fungal in mycelial networks have emerged as powerful model systems for
-studying biological network formation and resilience. Key findings:
-
-- Mycelial networks optimize the trade-off between exploration (finding
-  new resources) and exploitation (transporting nutrients efficiently).
-- Networks exhibit adaptive responses to spatially heterogeneous resource
-  distributions, reinforcing connections to profitable patches.
-- Damage resilience follows principles similar to engineered fault-tolerant
-  networks, with redundancy and re-routing maintaining function.
-- Resource transport follows models of [[biological-transport-networks]] networks,
+## [[biological-transport-networks]] networks,
   including pipe models and osmotic flow optimization.
 
 ## Network Robustness
@@ -94,6 +83,5 @@ fluctuations, and stochastic damage.
 
 ## See Also
 
-- [[mycelium-network-architecture]]
 - [[fungal-ecology]]
 - [[wood-decay-fungi]]

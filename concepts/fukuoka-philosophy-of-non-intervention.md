@@ -30,29 +30,7 @@ The question Mu economics asks: "Depending on whether it is an hour before or af
 
 ## Buddhist and Taoist Roots of Mu
 
-Mu has deep roots in Buddhist philosophy, particularly Zen Buddhism where it represents the negation of dualistic thinking. The famous mu koan -- "Does a dog have Buddha-nature?" -- points to the emptiness underlying all conceptual categories. Taoist influences are equally present: the Tao Te Ching's wu-wei (effortless action) resonated deeply with Fukuoka. While mu shares territory with wu-wei, Fukuoka went further -- where wu-wei describes effortless action in harmony with the Tao, mu suggests that even the desire to flow with natural processes is a form of arrogance. This is why [[fukuoka-natural-farming]] cannot be reduced to technique -- mu rejects the very notion that technique has value.
-
-## Fukuoka's Personal Spiritual Journey
-
-As a young man, Fukuoka worked as a plant pathologist at the Yokohama Customs station. A sudden illness and spiritual crisis led him to abandon his scientific career. He spent years wandering and observing nature, developing his philosophy through direct experience rather than intellectual inquiry, eventually returning to his father's farm on Shikoku Island to test mu through practice.
-
-## The Rejection of Science
-
-Fukuoka was scathing in his criticism of the scientific worldview:
-
-"Modern scientific farming amounts to no more than essentially slash-and-burn agriculture in total disregard of nature." Scientists attribute pine rot to jet planes and drought because "the net cast by American researchers is too coarse while that cast by Japanese researchers is too fine. As a result, neither are able to catch the fish they are after."
-
-He cited Nobel laureate Hideki Yukawa, who "went deeper and deeper into the tiny world of elementary particles and mesons, where he discovered a vast, microcosmic universe." People thought that by gazing at this extreme, "he would come to know the macrocosmic universe. But realizing that there is no 'large' in a macrocosm and no 'small' in a microcosm, he was unable to proceed any further and sought instead the salvation of Buddhism. Yukawa came to see that we cannot tell large from small with science."
-
-## Nature Creates God
-
-Fukuoka's most radical philosophical statement is that "nature creates God." This reverses the conventional understanding that God created nature. For Fukuoka, God is not a separate being who created the world, but an emergent property of nature itself. When we destroy nature, we destroy the conditions from which divinity arises.
-
-This is why "all is unnecessary" -- because nature, left to itself, creates and sustains everything. Human intervention is not only unnecessary but actively destructive of the divine order that nature spontaneously generates.
-
-## Deep Ecology and Non-Intervention
-
-Fukuoka's philosophy anticipates the deep ecology movement articulated by Arne Naess in the 1970s. Both reject anthropocentrism and assert the intrinsic value of all living beings. However, Fukuoka went further by rejecting the very framework of intellectual understanding. Where deep ecology provides environmental ethics, mu offers complete surrender of the impulse to manage or understand nature. This partial alignment with [[permaculture-principles]] retains the design impulse that mu questions.
+Mu has deep roots in Buddhist philosophy, particularly Zen Buddhism where it represents the negation of dualistic thinking. The famous mu koan -- "Does a dog have Buddha-nature?" -- points to the emptiness underlying all conceptual categories. Taoist influences are equally present: the Tao Te Ching's wu-wei (effortless action) resonated deeply with Fukuoka. While mu shares territory with wu-wei, Fukuoka went further -- where wu-wei describes effortless action in harmony with the Tao, mu suggests that even the desire to flow with natural processes is a form of arrogance. This is why [[permaculture-principles]] retains the design impulse that mu questions.
 
 ## The Natural Body
 
@@ -64,9 +42,9 @@ Dr. Keizo Hashimoto, a chiropractor, told Fukuoka his method was simple: "I just
 
 ## Applications, Critiques, and Misunderstandings
 
-Fukuoka believed non-intervention had implications far beyond farming. In education, he criticized accumulating knowledge for its own sake. In governance, mu suggests centralized management creates more problems than it solves. His [[fukuoka-critique-organic-certification]] drew parallels between agricultural bureaucracy and substituting regulation for natural order. In daily life, the philosophy encourages simplicity and minimal consumption, themes reflected in his advocacy for [[home-garden-seed-saving]] to maintain genetic diversity.
+Fukuoka believed non-intervention had implications far beyond farming. In education, he criticized accumulating knowledge for its own sake. In governance, mu suggests centralized management creates more problems than it solves. His [[home-garden-seed-saving]] to maintain genetic diversity.
 
-Critics dismiss the philosophy as romantic primitivism. Some took "doing nothing" literally, missing the deep attentiveness his method requires. Others extracted techniques from [[fukuoka-natural-farming]] while ignoring the philosophical foundation. His [[fukuoka-european-agriculture-observations]] reinforced his view that Western adoption often failed because it could not relinquish the compulsion to control.
+Critics dismiss the philosophy as romantic primitivism. Some took "doing nothing" literally, missing the deep attentiveness his method requires. Others extracted techniques from [[fukuoka-european-agriculture-observations]] reinforced his view that Western adoption often failed because it could not relinquish the compulsion to control.
 
 ## The Difficulty of Doing Nothing
 
@@ -93,21 +71,12 @@ Man does all things, yet creates nothing."
 
 ## Modern Ecological Thinking
 
-Fukuoka's philosophy has found renewed relevance amid climate change and biodiversity loss. His insight that human intervention disrupts natural systems aligns with contemporary ecosystem science. The principles underlying [[natural-way-of-farming-guide]] and ecological restoration increasingly echo his fundamental insight: that nature already knows how to heal itself if given the opportunity.
-
-## See Also
-
-- [[fukuoka-natural-farming]]
-
-- [[fukuoka-critique-organic-certification]]
+Fukuoka's philosophy has found renewed relevance amid climate change and biodiversity loss. His insight that human intervention disrupts natural systems aligns with contemporary ecosystem science. The principles underlying [[fukuoka-natural-farming]]
 
 - [[permaculture-principles]]
-
-- [[natural-way-of-farming-guide]]
 
 - [[home-garden-seed-saving]]
 
 ## Related
 
-- [[fukuoka-natural-rice-barley-cultivation]]
 - [[fukuoka-road-back-clover-barley-rice-method]]

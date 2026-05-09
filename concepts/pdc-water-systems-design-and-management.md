@@ -4,11 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, water, rainwater, greywater]
----
-
-# PDC Water Systems Design and Management
-Water is treated as perhaps the most critical design element in the Williams PDC. Williams covers the complete hydrological cycle, human impacts on watersheds, [[comparison-drip-irrigation-vs-rainwater-harvesting]], earthworks for water storage, greywater recycling, and natural water treatment. The course establishes a foundational principle: "There is no such thing as waste water" -- only water that is wasted.
+tags: [[comparison-drip-irrigation-vs-rainwater-harvesting]], earthworks for water storage, greywater recycling, and natural water treatment. The course establishes a foundational principle: "There is no such thing as waste water" -- only water that is wasted.
 
 ## The Hydrological Cycle
 
@@ -50,22 +46,7 @@ Williams analyzes how human infrastructure affects local and global water system
 
 ### Deforestation
 - Removing trees destroys the local precipitation cycle
-- Reduced evapotranspiration leads to [[desertification]]
-- Faster surface runoff increases erosion and reduces infiltration
-
-### Urban Heat Island Effect
-- Concrete and asphalt absorb and re-radiate solar heat
-- Raised local temperatures change precipitation patterns
-- Impermeable surfaces increase runoff and reduce infiltration
-
-### Impervious Surface Impact
-- Roads, rooftops, and parking lots prevent infiltration
-- Stormwater carries oil, chemicals, and excess nutrients into waterways
-- Combined with heat island effects, urban areas significantly alter watershed function
-
-## Rainwater Harvesting
-
-Williams emphasizes that rainwater falls "literally like mana from heaven" yet is almost universally ignored as a resource. [[permaculture-principles]] demand that every last drop of rain falling on every square inch of a site be accounted for.
+- Reduced evapotranspiration leads to [[permaculture-principles]] demand that every last drop of rain falling on every square inch of a site be accounted for.
 
 ### Cistern Collection
 
@@ -84,60 +65,21 @@ Examples:
 This formula applies to any surface, not just roofs.
 
 #### Cistern Design Principles
-Cisterns are permaculture structures and all [[mycoremediation-bioreactor-design-considerations]] apply:
-- Can their microclimate be utilized (growing food vertically on the tank)?
-- Can they serve architectural functions (privacy screen, view blocker)?
-- What is their thermal mass effect on the surrounding area?
-
-### Earth Storage (Infiltration)
-
-The strategy of getting water to infiltrate into the ground on-site, in contrast to modern design that drains water away as fast as possible.
-
-#### Swales
-- Cut across the path of downhill water flow
-- Catch and slow water, allowing infiltration
-- Typically combined with berms (earth taken from swale excavation piled on downhill side)
-
-#### Berms
-- Built-up earth features on the downhill side of swales
-- Help catch and hold water
-- Often planted immediately to stabilize and utilize the moist zone
-
-#### Garden Beds as Water Storage
-- Dug down about 6 inches to hold water
-- Combined with berms on the downhill side of plants
-- Receive directed water flow from swales and berms
-
-#### Infiltration Pits
-- About 1-2 feet deep, a few feet across, with gently sloping sides
-- Filled with mulch
-- Strategically placed to catch water that would otherwise run off
-- Not haphazardly placed -- designed as part of the overall [[water-management]] system
+Cisterns are permaculture structures and all [[water-management]] system
 
 #### Keylining
 - Berms and swales running across the slope of a hill (on contour)
 - Combined with ground covers and soft loamy soil
 - Designed to soak up water and control flow to prevent erosion
 
-## [[permaculture-designers-manual-greywater-systems]]
+## [[graywater-systems]]
 
 ### The No-Waste-Water Principle
 
 Williams establishes Water Lesson #1: "There is no such thing as waste water." Water is used but not consumed. The term "waste water" is replaced with "effluent" -- water that comes out of a system after use.
 
 ### Greywater vs. Blackwater
-- **Greywater**: Effluent from domestic use (bathing, laundry, dishes). Safe to work with using natural [[mollison-water-purification-biological-treatment]] methods.
-- **Blackwater**: Effluent contaminated with dangerous bacteria (toilet waste, sometimes kitchen sinks with raw meat bacteria). Contains coliforms and requires more advanced treatment.
-
-### Greywater System Components
-
-All greywater systems share two common elements:
-1. **Cleansing medium**: Sand, pea gravel, pumice stone, or mulch -- performing the same function as soil in nature
-2. **Plants**: Roots feed on contaminants in the effluent, cleansing the water biologically
-
-### System Types
-- Reed beds
-- [[constructed-wetlands-wastewater-treatment]]
+- **Greywater**: Effluent from domestic use (bathing, laundry, dishes). Safe to work with using natural [[constructed-wetlands-wastewater-treatment]]
 - Branch drain systems
 - Watson Wicks (also handles blackwater)
 - Eco-Machines (designed by Dr. John Todd of Ocean Arks International -- capable of cleaning and recycling water by entirely natural means)

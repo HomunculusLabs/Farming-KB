@@ -1,13 +1,7 @@
 ---
 title: Fungal Decomposition of Leaf Litter
 created: 2026-04-24
-tags: [mycology, decomposition, leaf-litter, ecology, microfungi, nutrient-cycling]
-sources: Biodiversity of Fungi (Mueller & Bills)
-type: concept
-updated: 2026-04-26
----
-
-# [[fungal-decomposition]] of Leaf Litter
+tags: [[fungal-decomposition]] of Leaf Litter
 
 Leaf litter decomposition is a fundamental ecosystem process driven primarily by fungi. The fungal communities colonizing decaying leaves are remarkably diverse, with estimates exceeding 100 microfungal species per plant species' litter in tropical forests. These fungi play critical roles in nutrient cycling, carbon flow, and soil formation.
 
@@ -47,16 +41,10 @@ Leaf litter fungi contribute to ecosystem functioning in several critical ways:
 
 - **Nutrient mineralization**: They release nitrogen, phosphorus, and other nutrients locked in leaf tissue, making them available for plant uptake
 - **Carbon cycling**: They decompose complex carbon compounds (cellulose, lignin, cutin) and respire CO2 back to the atmosphere
-- **Soil formation**: Fungal decomposition products contribute to [[humus-formation-and-soil-organic-matter]]
-- **Food web support**: Litter fungi are consumed by mycophagous soil fauna including nematodes, collembolans, and oribatid mites
-
-## Relationship to Other Guilds
-
-Leaf litter fungal communities overlap with soil fungal communities and [[endophytic-fungi]]. Many species found as endophytes in living leaves persist or become active saprobes after leaf senescence. The transition from endophyte to decomposer represents an important ecological continuity in the fungal life cycle.
+- **Soil formation**: Fungal decomposition products contribute to [[endophytic-fungi]]. Many species found as endophytes in living leaves persist or become active saprobes after leaf senescence. The transition from endophyte to decomposer represents an important ecological continuity in the fungal life cycle.
 
 ## See Also
 
-- [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-fungi-wood-decay-succession]]
 - [[biodiversity-fungi-tropical-rainforests]]
 

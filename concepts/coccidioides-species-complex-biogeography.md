@@ -19,29 +19,7 @@ inhalation of airborne arthroconidia from soil. Molecular phylogenetic
 studies have revealed that what was long considered a single species
 (Coccidioides immitis) actually comprises multiple genetically isolated
 lineages with distinct geographic distributions. These discoveries
-illustrate how [[fungal-species-recognition-genetics]]
-can reshape our understanding of clinically important fungi.
-
-## Phylogenetic Species Within Coccidioides
-
-Multilocus phylogenetic analysis using five DNA regions flanking nuclear
-microsatellites identified at least four species-level clades within the
-morphological species Coccidioides immitis. The deepest divergence
-separated a Northern Hemisphere clade from a Southern Hemisphere clade,
-consistent with geographic isolation. This led to the naming of a new
-sister species, Coccidioides posadasii (Fisher et al., 2002).
-
-Divergence estimates among cryptic species of Coccidioides suggest
-separation no greater than 11 million years ago (MYA), while divergence
-between Coccidioides and its closest non-pathogenic relative
-Uncinocarpus reesii is at least 20-fold greater. Many more species are
-initiated than persist; newly diverged species can be lost by chance
-events, poor competition with genetically similar sympatric populations,
-or reversal of differentiation through hybridization and introgression.
-
-## Geographic Distribution and Endemism
-
-Unlike the globally distributed [[aspergillus-fumigatus-population-genetics]], Coccidioides species
+illustrate how [[aspergillus-fumigatus-population-genetics]], Coccidioides species
 show strong geographic endemism. C. immitis is primarily found in
 California, while C. posadasii inhabits Arizona, Texas, and extends
 through Central and South America. South American populations comprise a
@@ -94,9 +72,7 @@ developing geographically targeted public health interventions.
 
 ## See Also
 
-- [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
 - [[fungal-speciation-evolution]]
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - [[cryptococcus-neoformans-pathogenesis]]
 - [[fungal-species-concepts-estimates]]
 

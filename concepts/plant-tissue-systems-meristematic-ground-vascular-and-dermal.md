@@ -92,11 +92,7 @@ Formed from lateral meristem cells in woody plants, replacing the epidermis on s
 
 ## Related Topics
 
-- [[plant-cell-structure-and-organelles]] -- the cells that make up these tissues
 - [[water-pathways-through-plants]] -- how water moves through xylem
-- [[photosynthesis-and-chloroplast-function]] -- chloroplasts in ground tissue
 - [[root-anatomy-structure-and-nutrient-uptake]] -- specialized dermal cells for nutrient absorption
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[root-cellaring-and-no-energy-food-storage]]
 - [[plant-micronutrients-and-their-essential-functions]]

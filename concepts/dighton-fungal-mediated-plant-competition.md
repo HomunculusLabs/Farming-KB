@@ -114,9 +114,6 @@ Benomyl also reduced root pathogenic fungi (*Fusarium oxysporum*, *Embellisia ch
 
 ## See Also
 
-- [[mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-networks]]
-- [[mycorrhizal-effects-on-plant-community-composition]]
 - [[fungal-allelopathy-mechanisms-and-ecological-effects]]
-- [[common-mycorrhizal-networks]]
 - [[fungal-competition-antagonism-soil]]

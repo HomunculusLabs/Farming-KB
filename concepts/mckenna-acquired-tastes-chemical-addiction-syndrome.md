@@ -140,11 +140,8 @@ to the dimensions of risk and opportunity they offer, may determine our potentia
 and evolution as a conscious species. The denial of this complexity, whether through prohibition
 or through the trivialization of drug experience, represents for McKenna a failure to engage
 with one of the most fundamental aspects of the human condition.
-
 ## See Also
 
-- [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-diet-symbiosis-human-evolution]]

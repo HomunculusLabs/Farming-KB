@@ -71,17 +71,24 @@ Holzer monitors water levels through natural indicators rather than mechanical g
 
 ## Fish and Aquaculture Integration
 
-Ponds are stocked with fish species that complement each other. Holzer avoids feeding fish artificially -- instead, he designs the pond ecosystem so that natural food (insects, plankton, aquatic plants) sustains the fish population. This approach requires lower stocking densities but produces healthier fish with no input costs. [[aquaculture-in-permaculture]]
-
-## Regulatory Navigation
-
-Holzer describes the bureaucratic obstacles to pond construction and recommends creative approaches: finding naturally wet areas, creating depressions that collect water naturally, and framing work as "maintenance" rather than new construction. He emphasises that the value of a biotope far outweighs the bureaucratic demands placed on farmers.
-
-## Ecological Benefits
-
-Water bodies create microclimates that extend the range of cultivable species. In hot dry months, evaporation from ponds creates beneficial microclimates. Ponds also provide habitat for frogs (natural pest control), waterfowl, and beneficial insects.
-
-See also: [[permaculture-pond-construction]], [[irrigation-systems]], [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-permaculture-and-rebel-farming]], [[aquaculture-in-permaculture]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[sepp-holzer-terrace-systems-and-raised-beds]]
+Ponds are stocked with fish species that complement each other. Holzer avoids feeding fish artificially -- instead, he designs the pond ecosystem so that natural food (insects, plankton, aquatic plants) sustains the fish population. This approach requires lower stocking densities but produces healthier fish with no input costs. [[permaculture-pond-construction]], [[sepp-holzer-method]], [[sepp-holzer-terrace-systems-and-raised-beds]], [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[holzer-fruit-tree-planting-method]]
+## Practical Considerations
+
+Successful implementation of Sepp Holzer Pond Construction requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

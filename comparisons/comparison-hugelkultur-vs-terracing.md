@@ -22,33 +22,6 @@ scale, and long-term behavior.
 
 ## Hugelkultur
 
-[[hugelkultur]]
-
-Hugelkultur is a mound-building technique that uses logs, branches, and
-other woody debris as the core of a raised bed. As the wood decomposes
-over years and decades, it acts like a sponge, absorbing and slowly
-releasing water and nutrients to surrounding soil. This process builds
-deep, fertile soil layers that retain moisture far better than
-conventional beds, often eliminating the need for irrigation in temperate
-climates.
-
-The construction process involves laying large logs at the base,
-progressively adding smaller branches, wood chips, leaves, compost, and
-topsoil in layered fashion. Mounds are typically 3 to 6 feet tall and can
-range from small garden-scale beds to large agricultural swales. The
-thermal mass of decomposing wood generates gentle heat, extending the
-growing season by 2 to 4 weeks in spring and offering frost protection in
-autumn.
-
-Hugelkultur excels on moderate slopes where water runoff is a concern but
-the terrain is not dangerously steep. The mounds slow and infiltrate
-surface water, reducing erosion while creating microclimates suited to
-diverse crops. Over time, as wood breaks down, the mounds settle and
-mature into exceptionally rich growing areas that require minimal external
-inputs.
-
-## Holzer Terrace Systems
-
 [[holzer-terrace-systems]]
 
 Terracing transforms steep slopes into a series of level platforms, each
@@ -135,10 +108,6 @@ that outperforms either technique alone.
 
 ## See Also
 
-- [[comparison-terracing-vs-swales]]
-
 - [[hugelkultur]]
-- [[holzer-terrace-systems]]
 - [[swale-design]]
-- [[water-catchment-permaculture]]
 - [[mollison-designers-terracing-slope-stabilization]]

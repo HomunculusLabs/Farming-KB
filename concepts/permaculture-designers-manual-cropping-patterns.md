@@ -3,19 +3,13 @@ title: Cropping Patterns
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Cropping Patterns
-# Permaculture Designers Manual - Strip Cropping, Alley Cropping, and [[polyculture-design-hemenway]]
+tags: [[polyculture-design-hemenway]]
 
 updated: 2026-04-18
 
 ## Overview
 
-[[fukuoka-critique-modern-agriculture]] is unable to cope with any but the most basic and simple intercrop systems, thus sacrificing yield, quality, stability, and inevitably people. The permaculture approach to cropping patterns emphasizes polyculture, intercropping, and complex species assemblies that maximize total nutrition and total yield while maintaining system stability. From Nigerian strip cropping systems to avenue mulch systems, the Designers Manual presents a range of cropping patterns suited to [[permaculture-zone-and-sector-analysis]] and scales.
+[[permaculture-zone-and-sector-analysis]] and scales.
 
 ## Strip Cropping
 
@@ -23,19 +17,7 @@ Strip cropping is a system where different crops are grown in alternating strips
 
 - Cassava, strip crop, zero runoff; contour layout
 - Includes pig or goat pen and forage crops on appropriate ridges
-- Designed for maximum [[mycelium-running-mycelium-soil-building]] and production on tropical slopes
-- Data from Okigbo and Lal
-
-Strip cropping on contour provides:
-- Erosion control between crop strips
-- Wind protection from taller crops sheltering shorter ones
-- Nutrient sharing between complementary species
-- Reduced pest and disease pressure through species diversity
-- Efficient use of different soil layers by different root systems
-
-## Alley Cropping
-
-Alley cropping involves growing crops between rows of trees or shrubs, typically leguminous species that provide mulch, [[lowenfels-nutrients-nitrogen-cycle]], and wind protection. The Designers Manual references alley cropping in several contexts:
+- Designed for maximum [[lowenfels-nutrients-nitrogen-cycle]], and wind protection. The Designers Manual references alley cropping in several contexts:
 
 ### Avenue Mulch Systems
 
@@ -78,48 +60,7 @@ In any evolved system, avenue cropping or mulch provision can be sustained by a 
 
 ### Fiscal vs. Nutritional Analysis
 
-If we analyse the dollar economics of [[mollison-aquatic-polyculture-systems]], there will be an optimum number of species for broadscale cash yields. If we analyse for total nutrition and total yield (ignoring the dollar returns), a different and richer species assembly will be indicated.
-
-- Fiscal return peaks at about 6-8 species in a system
-- Nutritional-total yield system peaks at 50-100 species, well-distributed over all seasons
-
-These two factors (extensive-intensive, fiscal-nutritional) must be defined for our needs, and will have a profound effect on design. What we may arrive at is a sensible zonation of species richness close in, and a concentration on fewer species of high value as we extend the system.
-
-### Zonation Strategy
-
-The garden serves as trial areas for the outer zones. A sensible zonation of species richness:
-- **Zone 1 (near house)**: Maximum species diversity, intensive polyculture
-- **Zone 2**: High diversity of medium-term crops
-- **Zone 3**: Fewer species, high-value perennials and tree crops
-- **Zone 4+:** Concentrated on fewer species for commercial yield
-
-## Planning the Whole Site
-
-Even in established polycultures, particularly in plantations, it is good to re-survey the site with special attention to:
-- Main access and harvesting ways
-- Earth-shaping for rainwater harvest and specific crop
-- Sufficiency of mulch
-- Best water and irrigation strategies
-- Better village planning
-- Improved or more sophisticated site processing for market
-
-## Steps in Total Planning
-
-1. Assess market; future; prices; potential for processing to higher value; labour; shares, legal systems; social necessities and local self-reliance needs
-2. Analyse and get advice on soils and necessary nutrients
-3. Plan ground layout and windbreak, access, and water. Detailing can follow later
-4. Plan and carry out essential earthworks
-5. Establish nursery and use selected varietal forms for new or replacement crop
-6. Commence broadscale placements with or after windbreak and nurse crop
-7. Continue by constant assessment, consultation, feedback and innovative trials. Fill niches as they evolve
-
-## Intercrop Selection
-
-Intercrop selection is a priority, sometimes used to:
-- Shelter a more delicate crop
-- Provide mulch and nurse crop for nitrogen fixation
-- Reduce wind, salt, or sun damage
-- Create beneficial [[urban-permaculture-edge-effect-and-design-principles]]
+If we analyse the dollar economics of [[urban-permaculture-edge-effect-and-design-principles]]
 - Attract [[beneficial-insects-cannabis]] and repel pests
 
 ## Earthworks for Polyculture

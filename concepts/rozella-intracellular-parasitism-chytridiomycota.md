@@ -17,16 +17,7 @@ type: concept
 # Rozella: Intracellular Parasitism in Chytridiomycota
 
 The genus Rozella represents one of the most intriguing and
-poorly understood groups of intracellular [[fungal-parasites]].
-Long placed in the Chytridiomycota, Rozella species are
-obligate biotrophic parasites that develop entirely within
-the cells of other chytrids and oomycetes, drawing
-nutrients directly from the host cytoplasm. Recent molecular
-phylogenetic analyses have suggested that Rozella may
-represent an extremely early-diverging lineage of fungi,
-potentially sister to all other fungal phyla, making it
-of exceptional interest for understanding the earliest
-stages of [[fungal-evolution]]. These organisms are part of the
+poorly understood groups of intracellular [[fungal-evolution]]. These organisms are part of the
 broader community of zoosporic mycoparasites aquatic fungi.
 
 ## Taxonomic History and Phylogenetic Position
@@ -43,27 +34,7 @@ would make Rozella and its relatives the closest living
 representatives of the earliest fungi, retaining ancestral
 features lost in all other fungal lineages.
 
-## Morphology and [[mushroom-life-cycle-stamets]]
-
-Rozella species produce a wall-less thallus that develops
-entirely within the host cell. The life cycle begins when
-a zoospore of Rozella encysts on the surface of a host
-hypha or thallus and penetrates through the host cell wall.
-Once inside, the parasite develops as an unwalled
-plasmodial structure that absorbs nutrients directly from
-the host cytoplasm. The thallus of the wall-less endoparasite
-forms in a host compartment bounded by the host plasma
-membrane.
-
-After a period of growth, the parasite produces sporangia
-or resting spores within the host cell. Zoospores are
-released through discharge tubes that penetrate the host
-cell wall, allowing the parasite to find new hosts. In some
-species, the parasite produces thick-walled resting spores
-that persist in the environment and germinate when suitable
-hosts become available.
-
-## [[fungal-endemism-host-specificity]] and Host Groups
+## Morphology and [[fungal-endemism-host-specificity]] and Host Groups
 
 Held (1981) provided a comprehensive treatment of Rozella
 taxonomy based on host specificity, assigning approximately

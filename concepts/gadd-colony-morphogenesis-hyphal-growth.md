@@ -137,8 +137,6 @@ capture of heterogeneously distributed nutrients and water.
 
 ## Related concepts
 
-- [[fungal-environmental-sensing]]
 - [[gadd-fungal-cell-structure]]
-- [[gadd-mathematical-modelling-fungal-mycelia]]
 - [[gadd-mycelial-network-dynamics]]
 - [[gadd-fungal-biofilms-quorum-sensing]]

@@ -134,9 +134,6 @@ principle of respecting natural processes remains constant.
 
 ## See Also
 
-- [[cho-nutritive-cycle-theory]]
 - [[cho-natural-farming-inputs-overview]]
-- [[cho-poultry-natural-farming-methods]]
 - [[natural-farming]]
-- [[natural-farming-vs-organic-farming]]
 - [[korean-natural-farming]]

@@ -110,14 +110,11 @@ Successful winter harvest requires specific variety selection distinct from summ
 
 ## See Also
 
+- [[coleman-pest-philosophy-first-rule]]
+
 - [[unheated-greenhouse-winter-harvest]]
 
-- [[coleman-unheated-greenhouse-design]] — Greenhouse construction details
 - [[coleman-protected-cultivation]] — Row covers and double-layer systems
-- [[coleman-four-season-farm]] — Farm philosophy and economics
 - [[coleman-planting-schedules]] — Seasonal timing for cold climates
-- [[coleman-cold-hardy-varieties]] — Specific cold-tolerant vegetable varieties
 - [[coleman-winter-greens]] — Greens production in winter
-- [[coleman-winter-root-crops]] — Root crop harvest through winter
-
 - [[coleman-summer-crops]]

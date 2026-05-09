@@ -7,9 +7,7 @@ sources: magic-mushrooms-around-the-world-gartz.md
 tags: [reference]
 ---
 
-# [[panaeolus-cyanescens]]: The Bali Omelette Mushroom
-
-[[panaeolus-cyanescens-cultivation-guide]] is a coprophilous (dung-inhabiting) psychoactive mushroom that achieved worldwide fame as the ingredient in Bali's "magic mushroom omelettes" -- a legal, openly served restaurant specialty that operated for decades without significant health incidents. The Bali omelette tradition represents one of the most remarkable examples of commercial integration of a psychoactive mushroom into mainstream food service.
+# [[panaeolus-cyanescens-cultivation-guide]] is a coprophilous (dung-inhabiting) psychoactive mushroom that achieved worldwide fame as the ingredient in Bali's "magic mushroom omelettes" -- a legal, openly served restaurant specialty that operated for decades without significant health incidents. The Bali omelette tradition represents one of the most remarkable examples of commercial integration of a psychoactive mushroom into mainstream food service.
 
 ## Species Profile
 
@@ -31,7 +29,7 @@ tags: [reference]
 
 ### Potency
 
-Panaeolus cyanescens is notably potent, containing significant concentrations of [[query-what-is-the-difference-between-psilocybin-and-psilocin]] and [[query-what-is-the-difference-between-psilocybin-and-psilocin]]. Despite its small size, a relatively small number of mushrooms can produce strong psychoactive effects.
+Panaeolus cyanescens is notably potent, containing significant concentrations of [[query-what-is-the-difference-between-psilocybin-and-psilocin]]. Despite its small size, a relatively small number of mushrooms can produce strong psychoactive effects.
 
 ## The Bali Omelette Tradition
 
@@ -103,9 +101,7 @@ Panaeolus cyanescens is found across the Pacific Islands, including:
 
 On the Asian mainland:
 
-- **Thailand** -- Found alongside [[psilocybe-cubensis-potency-variation-by-flush]]
-- **Cambodia** -- Panaeolus cambodginiensis Ola'h & Heim found exclusively here
-- **Vietnam** -- [[psilocybe-cubensis]] documented by Patouillard (1907)
+- **Thailand** -- Found alongside [[psilocybe-cubensis]] documented by Patouillard (1907)
 
 ### Africa
 
@@ -117,32 +113,4 @@ On the Asian mainland:
 
 In most cases, the differentiation of Panaeolus cyanescens from closely related species (such as Panaeolus tropicales) is an extremely difficult task, even for experienced mycologists. This taxonomic challenge complicates both scientific study and harm reduction efforts.
 
-## Comparison with [[panaeolus-subbalteatus]]
-
-| Feature | P. cyanescens | P. subbalteatus |
-|---|---|---|
-| Potency | High | Low to moderate |
-| Bluing | Strong | Weak to absent |
-| Distribution | Tropical/subtropical | Temperate and tropical |
-| Habitat | Dung | Dung, compost, grass |
-| Legal history | Bali restaurants | Widely distributed |
-| Commercial use | Bali omelettes | No significant commercial tradition |
-
-## Modern Status
-
-### Indonesian Law
-
-The legal status of Panaeolus cyanescens in Indonesia has changed over time. While the Bali omelette tradition operated openly for decades, increasing international pressure on drug policy has led to restrictions in some areas.
-
-### Tourism Impact
-
-The Bali omelette tradition had a significant impact on the global perception of psychoactive mushrooms:
-
-- It demonstrated that mushrooms could be used safely in social/recreational contexts
-- It provided a model for harm reduction through commercial regulation
-- It introduced many Western tourists to psychoactive mushrooms for the first time
-- It contributed to the global spread of knowledge about psychoactive species
-
-## See Also
-
-- [[panaeolus-campanulatus]]
+## Comparison with [[panaeolus-campanulatus]]

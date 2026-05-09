@@ -133,18 +133,11 @@ close taxonomic relationships between neotropical species (Mexican and South
 American) and species from Southeast Asia and New Zealand further suggest
 ancient distribution patterns that predate the breakup of Gondwana or reflect
 trans-Pacific dispersal events.
-
 ## See Also
 
-- [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
-
-- [[psychedelic-mushrooms-species-and-identification]]
-
-- [[psilocybe-weilii-species-profile]]
+- [[psychedelic-mushroom-set-and-setting]]
 
 - [[psilocybe-ovoideocystidiata-species-profile]]
 
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[natto-making]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]

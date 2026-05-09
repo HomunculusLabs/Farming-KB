@@ -116,11 +116,8 @@ Activation of CB2 receptors via dietary (E)-BCP may present a new therapeutic st
 
 ## Related Topics
 
-- [[oner-cannabis-terpene-profiles-effects]]
 - [[cannabis-terpene-profile]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cannabis-cbd-therapeutic-profile]]
-- [[cannabis-thc-cbd-ratio-guide-for-conditions]]
 - [[blesching-cannabis-terpenoids-and-flavonoids]]
 
 ## Key Insight
@@ -129,16 +126,8 @@ The entourage effect explains why centuries of traditional use of whole cannabis
 
 ## See Also
 
-- [[pulegone]]
-
 - [[dom-compound-profile]]
 - [[dom-compound-profile]]
-- [[dom-compound-profile]]
-- [[oner-cannabis-terpene-profiles-effects]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-topical-applications]]
 - [[cannabis-for-neuropathic-pain]]
-- [[cannabis-for-lung-cancer]]
-
-## Merged: Cannabis for Gonorrhea
-Gonorrhea is caused by gonococcus or Neisseria gonorrhoeae bacteria. It is usually sexually transmitted, though an infected mother can transmit the disease to an infant during birth. Five major cannabinoids ([[cannabis-thc-therapeutic-profile]], [[cannabis-cbd-therapeutic-profile]], [[cannabis-minor-cannabinoids]], CBC, and CBN) have been discovered to be potent against bacteria, including multi-drug-resistant bacteria, most notably methicillin-resistant Staphylococcus aureus (MRSA). The five major cannabinoids have demonstrated potent antibacterial activity: THC ([[cannabis-thc-therapeutic-profile]]): The primary psychoactive cannabinoid shows antibacterial properties against gram-positive bacteria including resistant strains. CBD ([[cannabis-cbd-therapeutic-profile]]): The non-psychoactive cannabinoid with significant antibacterial activity, particularly notable because it can be used without psychoactive effects. Related: [[cannabis-minor-cannabinoids]], [[cannabis-minor-cannabinoids]], [[cannabis-minor-cannabinoids]], [[cannabis-endocannabinoid-system]], entourage effect
+- [[cannabis-thc-therapeutic-profile]], [[cannabis-minor-cannabinoids]], CBC, and CBN) have been discovered to be potent against bacteria, including multi-drug-resistant bacteria, most notably methicillin-resistant Staphylococcus aureus (MRSA). The five major cannabinoids have demonstrated potent antibacterial activity: THC ([[cannabis-cbd-therapeutic-profile]]): The non-psychoactive cannabinoid with significant antibacterial activity, particularly notable because it can be used without psychoactive effects. Related: [[cannabis-minor-cannabinoids]], [[cannabis-endocannabinoid-system]], entourage effect

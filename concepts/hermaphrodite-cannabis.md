@@ -117,11 +117,7 @@ Early detection is critical for preventing unwanted pollination:
 
 ## See Also
 
-- [[cannabis-breeding-basics]] — genetics and sex determination
 - [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] — environmental management during flowering
-- [[cannabis-pest-management-guide]] — stress prevention strategies
 - [[heat-stress-cannabis]] — temperature-related stressor that can trigger intersex expression
-- [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] — light stress that can contribute to sex reversal
 - [[nutrient-lockout]] — nutrient stress as a trigger for intersex traits
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[temperature-effects-plant-nutrient-uptake]]

@@ -16,9 +16,7 @@ type: concept
 
 # Fruiting Body Development
 
-The transition from vegetative [[mycelium-as-network-organism]] to the
-generative state of fruiting body production is one of the most critical
-phases in the [[mushroom-life-cycle-stamets]]. Called pinning, pin setting,
+The transition from vegetative [[mushroom-life-cycle-stamets]]. Called pinning, pin setting,
 pinhead initiation, or fructification, this process involves the formation of
 primordia, which are knots of mycelium that precede development into small
 mushrooms. Understanding the factors that regulate this change enables
@@ -133,8 +131,6 @@ primordia formation are harmful to primordial growth.
 
 ## See Also
 
-- [[mushroom-primordia-formation-triggers]]
 - [[mushroom-pinning-primordia-formation-strategies]]
-- [[mushroom-cultivator-fruiting-conditions]]
 - [[mushroom-cultivation-overview]]
 - [[mushroom-environmental-parameters]]

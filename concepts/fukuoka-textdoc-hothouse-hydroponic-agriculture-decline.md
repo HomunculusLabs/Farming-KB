@@ -140,10 +140,6 @@ Each stage removed the crop further from the conditions in which it evolved to t
 
 ## See Also
 
-- [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
-- [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-
 - [[natural-farming]]

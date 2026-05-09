@@ -3,23 +3,7 @@ title: Fungal Spore Mounting and Preservation Techniques
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/unknown-biodiversity-of-fungi.md"
----
-
-# Fungal Spore Mounting and Preservation Techniques
-
-Updated: 2026-04-18
-
-Proper mounting and preservation of fungal spores and microscopic structures is essential for taxonomic identification, voucher documentation, and long-term reference. Techniques vary depending on the fungal group, the structure being mounted, and the intended duration of preservation.
-
-## Mounting Media
-
-### Permanent Mountants
-
-**PVLG (Polyvinyl-Lacto-Glycerol):**
-- Most widely used mountant for [[arbuscular-mycorrhizal-fungi]] spores and soil fungi
+tags: [[arbuscular-mycorrhizal-fungi]] spores and soil fungi
 - Semi-permanent; preserves spore wall layers and structure for months to years
 - Composition: polyvinyl alcohol, lactic acid, glycerol, water
 - Spores retain shape and wall layer differentiation
@@ -131,20 +115,9 @@ For arbuscular mycorrhizal fungi from soil samples:
 - Note color changes during mounting or staining
 - Cross-reference with voucher specimen collection data
 - For DNA work, split spores: mount some, extract DNA from others
-
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungi]]
 - [[endophytic-fungi-isolation-and-survey-methods]]
-- [[yeast-diversity-taxonomy-and-inventory-methods]]
 - [[freshwater-fungi-collection-and-culturing]]
-- [[fungal-enzyme-systems]]
-
-## Sources
-
-- Biodiversity of Fungi: Inventory and Monitoring Methods (Mueller et al., eds.) -- various chapters
-- Morton, J.B. and Bentivenga, S.P. 1994. AMF spore mounting techniques
-- Schenck, N.C. and Perez, Y. 1990. Manual for VA mycorrhizal research
 - [[fungal-monitoring-long-term-studies]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-woronin-bodies-and-septal-pore-organization]]

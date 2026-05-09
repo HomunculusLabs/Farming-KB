@@ -138,11 +138,8 @@ and rest may be an appropriate tool for allowing advance toward forest.
 
 ## See Also
 
-- [[savory-woody-plant-encroachment-and-succession]]
-
 - [[savory-seed-establishment-and-plant-recruitment]]
 
-- [[savory-ecosystem-foundation-blocks]] for the four-process framework
 - [[savory-brittle-environments]] for how environment type affects
   succession speed
 - [[savory-soil-surface-and-capping]] for surface conditions that

@@ -103,47 +103,25 @@ A San Diego study (2009) demonstrated critical dose dependency in pain reduction
 
 ## Related
 
-- [[blesching-cannabis-dental-and-oral-health]] Topics
-- blesching-cannabis-health-index-chronic-pain-management
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
-- therapeutic-window
-- cannabis-dosage
 - [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[cannabis-safety-profile-and-overdose-risk]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
 - blesching cannabis health index dosage guidelines medical
-- [[cannabis-for-skin-conditions-detailed]]
 - [[teaming-with-microbes-plant-control]]
-- [[cannabis-drug-interactions-and-contraindications]]
 - [[cannabis-skin-conditions]]
 
 ## See Also
 
-- [[blesching-cannabis-systemic-sclerosis]]
 - [[blesching-cannabis-pain-advanced-cancer]]
-- [[blesching-cannabis-tuberculosis]]
 - [[blesching-cannabis-aids-related-neuropathy]]
-- [[blesching-cannabis-colon-cancer]]
 - [[blesching-cannabis-systemic-sclerosis]]
-- [[blesching-cannabis-abortion-miscarriage-fertility]]
 - [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
-- [[blesching-cannabis-improved-night-vision]]
 - [[blesching-cannabis-migraine]]
-- [[cannabis-and-insomnia]]
 - [[blesching-cannabis-stds-mind-body]]
-- [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-chronic-non-malignant-pain]]
-- [[blesching-cannabis-rhabdomyosarcoma]]
-
 - [[blesching-cannabis-brain-cancer-glioblastoma]]
-- [[blesching-cannabis-cervical-cancer]]
 - [[blesching-cannabis-encephalitis]]
-- [[blesching-cannabis-fever-temperature-regulation]]
 - [[blesching-cannabis-kaposi-sarcoma]]
-- [[blesching-cannabis-lung-cancer]]
 - [[blesching-cannabis-motion-sickness]]
-- [[blesching-cannabis-mrsa]]
 - [[blesching-cannabis-pancreatic-cancer]]
-- [[blesching-cannabis-prion-diseases]]
 - [[blesching-cannabis-spinal-cord-injuries]]

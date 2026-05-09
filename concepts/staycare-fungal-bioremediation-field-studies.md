@@ -19,47 +19,12 @@ type: concept
 ## Overview
 
 Field-scale and pilot studies represent the critical bridge between laboratory
-research on [[fungal-bioremediation]] and real-world environmental cleanup.
-While laboratory bench-top experiments have repeatedly demonstrated the
-capacity of white rot fungi to degrade organic pollutants, translating these
-results to field conditions has revealed both significant potential and
-notable challenges for fungal remediation technologies.
-
-## Challenges in Field Application
-
-Field trials of fungal bioremediation have frequently yielded suboptimal
-results compared to laboratory studies. This performance gap arises from the
-interaction of numerous uncontrolled variables:
-
-- **Physical parameters**: aeration, moisture, nutrient levels, pH, and
-  temperature fluctuate unpredictably in natural environments
-- **Biological parameters**: predation and competition from resident microbial
-  populations can suppress introduced fungi
-- **Habitat mismatch**: laboratory strains may face impoverished nutritional
-  status and conditions far from their natural ecological niche
-- **Nutrient competition**: when fungal-bioaugmentation|bioaugmentation
-  and biostimulation-techniques|biostimulation are used simultaneously,
-  added nutrients often favor indigenous populations over introduced species
-
-## The Lamar et al. Landmark Field Studies
-
-The most comprehensive field studies of fungal bioremediation were conducted
-by Lamar and coworkers using [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phanerochaete sordida, and Trametes hirsuta to detoxify
+research on [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phanerochaete sordida, and Trametes hirsuta to detoxify
 PCP and creosote-contaminated soil. Key findings included:
 
 - P. sordida proved the most effective inoculant due to its high
   transformation capacity and ability to grow at lower temperatures
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-  faced problems when temperatures dropped to 8 degrees Celsius
-- Fungal inoculation improved transformation levels of PCP and PAHs overall
-- PCP levels were not reduced below thresholds required for commercial or
-  residential soil use
-- Five- and six-ring PAH concentrations were not significantly decreased
-- Difficulties with inoculum application resulted in lower initial inoculum
-  density than anticipated
-
-These findings highlighted the need for improved inoculum production and
-delivery techniques, and suggested that [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
+- [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 species, with excellent capacity to transform high-molecular-weight PAHs,
 could complement the fungi tested.
 
@@ -91,25 +56,7 @@ in field soils, including:
   subsequent quantification by reverse transcriptase polymerase chain
   reaction
 - Chemical analysis of pollutant concentrations and transformation products
-- [[monitoring-and-assessment-of-fungal-bioremediation]] to
-  assess biological impacts
-
-## Use of Spent Mushroom Substrate
-
-One promising approach for reducing inoculum production costs is using
-waste fungal mycelium from the mushroom industry. Spent oyster mushroom
-substrate and spent sawdust culture of shiitake mushroom have both been
-shown to transform PCP. However, cheap and robust fungal inocula are also
-easily prepared through conventional methods and may be cost-effective
-depending on the volume of contaminated soil requiring treatment.
-
-## Complementary Soil Amendments
-
-Several soil treatments show potential for increasing POP transformation
-rates in field applications:
-
-- **Surfactants**: positive effects on PAH transformation in both liquid
-  culture and soil, indicating that [[staycare-bioavailability-pollutants-fungal-bioremediation]]
+- [[staycare-bioavailability-pollutants-fungal-bioremediation]]
   is a major factor controlling transformation rates
 - **Manganese addition**: stimulates fungal biotransformation of atrazine
   by increasing membrane permeability and manganese peroxidase activity;
@@ -142,8 +89,6 @@ integrated monitoring combining chemical and ecotoxicological endpoints.
 
 ## See Also
 
-- [[fungal-bioremediation-mechanisms]]
 - [[staycare-fungal-formulation-in-situ-bioremediation]]
-- [[staycare-scale-up-challenges-in-fungal-bioremediation]]
-- [[bioremediation-using-fungi]]
-- [[bioremediation-scale-up]]
+- [[fungal-bioremediation-mechanisms]]
+- [[mycoremediation]]

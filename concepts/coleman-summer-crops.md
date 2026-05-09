@@ -84,7 +84,7 @@ continuously from early spring through late fall.
 ## Managing Soil Temperature
 
 When a greenhouse has been occupied all winter by unheated spinach,
-the soil is comparison [[cold-frame-gardening]] [[comparison-cold-frame-gardening-vs-greenhouse-growing]] growing for tomato transplanting. Coleman pulls back inner
+the soil is comparison [[comparison-cold-frame-gardening-vs-greenhouse-growing]] growing for tomato transplanting. Coleman pulls back inner
 covers on sunny days during March to allow solar heating of the
 soil, then runs a propane heater for a few days before the April 7
 transplant date to keep nights above 60 degrees Fahrenheit.
@@ -100,16 +100,9 @@ germination, which are then flamed off before transplanting.
 
 Coleman grows greenhouse cucumbers about 7 inches long, a standard
 size preferred by customers. Greenhouse cucumbers are heavy feeders
-demanding the best fertility available. coleman soil preparation [[organic-garden-soil-preparation]] gardens for winter includes a
-full inch of manure compost plus organic [[organic-greenhouse-growing]] nitrogen fertilizer.
+demanding the best fertility available. coleman soil preparation [[organic-greenhouse-growing]] nitrogen fertilizer.
 Seaweed or commercial trace-element amendments ensure optimum
-trace-element levels. Starting with low hamilton [[hamilton-composting-and-organic-matter-management]] [[coleman-compost-and-organic-fertility-management]] and organic fertility management matter management humus [[fungal-microaggregate-formation-and-soil-stability]] humus formation and soil organic matter stability organic matter management soil, Coleman
-recommends tilling in a couple of inches of peat moss with limestone
-before cucumber preparation.
-
-Cucumbers are sown in succession at three-week intervals from March
-21 through June 21. Seeds go into 3-inch soil blocks with a
-three-quarter-inch cubic indentation filled with fine solomon [[comparison-seed-starting-vs-direct-seeding]] transplanting
+trace-element levels. Starting with low hamilton [[coleman-compost-and-organic-fertility-management]] and organic fertility management matter management humus [[comparison-seed-starting-vs-direct-seeding]] transplanting
 mix. Germination occurs on heating pads at 85 degrees Fahrenheit.
 Seedlings transplant to the greenhouse at two weeks old. Night
 temperatures of 55 to 60 degrees Fahrenheit give better

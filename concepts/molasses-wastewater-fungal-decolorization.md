@@ -40,7 +40,7 @@ with some structural parallels to melanoidins.
 ## White Rot Fungal Decolorization Performance
 
 Several investigations have demonstrated that white rot fungi can degrade
-melanoidins rather than merely adsorbing them. Both [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and [[turkey-tail-trametes-versicolor]] can achieve a high degree of
+melanoidins rather than merely adsorbing them. Both [[turkey-tail-trametes-versicolor]] can achieve a high degree of
 decolorization, generally in the range of 70 to 85 percent of molasses
 wastewater colour. Additionally, white rot fungi can reduce COD by 70 to
 90 percent of molasses-based effluents, indicating substantial
@@ -120,9 +120,6 @@ treatment relative to physical-chemical alternatives.
 
 ## Related Concepts
 
-- [[fungal-olive-mill-wastewater-treatment]] for similar waste streams
 - [[fungal-melanoidin-degradation]] for melanoidin-specific chemistry
-- [[kraft-pulp-bleach-effluent-fungal-treatment]] for industrial effluent
-  comparison
 - [[fungal-laccase-and-textile-dye-decolorization]] for dye removal
 - [[fungal-bioreactor-types-for-pollutant-removal]] for reactor design

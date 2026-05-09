@@ -10,15 +10,7 @@ sources:
 
 # The Japanese Diet Takes a Turn for the Worse
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] laments the deterioration of the traditional Japanese diet, arguing that postwar Westernization has destroyed a food culture that was once among the world's healthiest and most sustainable.
-
-## The Traditional Japanese Diet
-
-Fukuoka celebrates the traditional Japanese peasant diet as:
-
-- Based on rice, vegetables, seaweed, soybean products (tofu, miso, soy sauce)
-- The "diet eaten by Japanese farmers of old" that is now "the diet in greatest need by Americans today"
-- A diet that enabled Japan to maintain [[fukuoka-natural-soil-works-itself]] for three thousand years of continuous rice cultivation
+In *The Road Back to Nature*, [[fukuoka-natural-soil-works-itself]] for three thousand years of continuous rice cultivation
 - A system where farmers grew almost all their own food
 
 ## Postwar Westernization
@@ -65,11 +57,11 @@ Fukuoka identifies a bitter irony:
 - The "natural foods" being exported from Japan to America represent a tradition that Japan itself is losing
 - "Natural diet is being imported back into Japan, where much of it originated"
 
-See also: [[fukuoka-natural-diet-philosophy]], [[fukuoka-natural-foods-movement-america]], [[fukuoka-specter-food-scarcity]], [[fukuoka-disappearance-natural-diet]]
+See also: [[fukuoka-natural-foods-movement-america]], [[fukuoka-disappearance-natural-diet]]
 
 ## See Also
 
-[[fukuoka-breakdown-japanese-agriculture]], [[fukuoka-western-vs-japanese-attitudes]], [[fukuoka-natural-diet-philosophy]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-disappearance-natural-diet]], [[fukuoka-natural-diet-as-foundation]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]]
+[[fukuoka-western-vs-japanese-attitudes]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-diet-as-foundation]], [[fukuoka-natural-farming-new-age]]
 
 ## Practical Applications
 

@@ -132,11 +132,7 @@ Goddess, cattle, and ecstatic intoxication by indole hallucinogens.
 
 ## Related Concepts
 
-- [[ergot-alkaloid-chemistry-history]]
 - [[claviceps-paspali-alkaloids]]
-- [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[allegro-religious-lamentation-and-the-bacchic-cult]]
-- [[phase-i-compost-preparation-agaricus]]
 - [[psychedelic-secrecy-comparative-eleusis-mesoamerica]]
-- [[ancient-greek-mystery-cults-comparison]]
 - [[mckenna-four-families-of-indole-hallucinogens]]

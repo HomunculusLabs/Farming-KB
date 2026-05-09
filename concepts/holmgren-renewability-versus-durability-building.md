@@ -3,7 +3,7 @@ title: Renewability Versus Durability in the Built Environment
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, construction, sustainability]
+tags: [[permaculture, construction, sustainability]
 sources: [raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 # Renewability Versus Durability in the Built Environment
@@ -69,11 +69,26 @@ By not embedding the ephemeral aspects of buildings in their more permanent stru
 
 ## Related Concepts
 
-- [[holmgren-built-environment-energy-store]]
 - [[permaculture-pattern-language]]
-- [[holmgren-renewable-resources-detailed]]
 - [[permaculture-retrofit-suburbia]]
-- [[faires-underground-and-earth-berm-homes]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
 - [[holmgren-permaculture-land-tenure-and-legal-structures]]
+## Practical Considerations
+
+Successful implementation of Renewability Versus Durability in the Built Environment requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

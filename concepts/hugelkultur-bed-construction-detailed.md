@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, soil-building, compost, regenerative, gardening, plants, nutrient-cycling]
-sources: [raw/papers/gaias-garden-toby-hemenway.md]
+sources: []
 ---
 
 # Hugelkultur Bed Construction Detailed
@@ -96,7 +96,7 @@ The hugel bed reaches its prime. The decomposed wood has created a rich, spongy 
 
 ## See Also
 
-- [[composting-and-soil-biology]]
+- [[no-till-gardening-method]]
 - [[cover-crop-guide-detailed]]
 - [[biochar-production-guide]]
 - [[sheet-mulching]]

@@ -17,10 +17,7 @@ type: concept
 # Sharanahua Visions and Cures
 
 The Sharanahua are a Panoan-speaking people closely related to the
-[[harner-cashinahua-banisteriopsis-usage]], inhabiting the
-upper Amazon basin of eastern Peru. Like their Cashinahua neighbors, the
-Sharanahua use Banisteriopsis brews (ayahuasca) as a central element of
-their [[fly-agaric-siberian-shamanic-practice]]. The Sharanahua case, as described by Janet
+[[fly-agaric-siberian-shamanic-practice]]. The Sharanahua case, as described by Janet
 Siskind, is particularly significant for understanding how cultural
 factors shape the hallucinogenic experience and contribute to therapeutic
 outcomes.
@@ -28,10 +25,7 @@ outcomes.
 ## Communal Ayahuasca Practice
 
 The Sharanahua, like the Cashinahua, tend to participate together in the
-hallucinogenic experience [[integrate-rather-than-segregate]] taking the brew individually. This
-contrasts with the individualistic and often hostile approach of the
-Jivaro, who prefer to take
-[[harner-jivaro-shamanism-yage]] alone. The communal
+hallucinogenic experience [[harner-jivaro-shamanism-yage]] alone. The communal
 approach of the Sharanahua and Cashinahua produces more harmonious
 sessions, with participants sharing those aspects of the revelatory
 content that hold portents for the common good.
@@ -105,22 +99,4 @@ ayahuasca practices among Panoan and Arawakan peoples of the Peruvian
 Amazon suggests deep cultural interconnections and possibly a shared
 historical tradition of group hallucinogen use.
 
-The methods, songs, and [[cannabis-harvesting-and-curing-techniques]] of the Sharanahua show both
-similarities to and differences from those of their neighbors. While the
-basic pharmacological preparation is similar across groups, the specific
-songs, ritual procedures, and interpretive frameworks vary, reflecting
-each group's unique cultural identity and historical experience.
-
-## Broader Significance
-
-The Sharanahua case demonstrates that the effects of hallucinogenic
-substances cannot be understood in purely pharmacological terms. The
-same brew that produces fear and confrontation among the Jivaro
-produces communal healing among the Sharanahua. This underscores the
-importance of cultural context, social structure, and the communication
-patterns established during the ceremonial session in determining the
-nature and outcome of the hallucinogenic experience.
-
-## See Also
-
-- [[hallucinogens-and-shamanism-harner-anthology]]
+The methods, songs, and [[hallucinogens-and-shamanism-harner-anthology]]

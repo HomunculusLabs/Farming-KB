@@ -124,8 +124,6 @@ essential.
 
 ## See Also
 
-- [[psychedelic-psychotherapy]]
 - [[shamanism]]
-- [[set-and-setting]]
 - [[default-mode-network-and-ego-dissolution]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]

@@ -40,7 +40,7 @@ Beyond its pathogenic activities, the species occupies important
 positions in soil food webs, participating in organic matter
 decomposition and engaging in complex fungal-fungal interactions
 with
-both saprotrophic and [[mycorrhizal-fungi]]. In [[john-dighton]]'s
+both saprotrophic and [[john-dighton]]'s
 treatment
 of fungi in ecosystem processes, F. solani is highlighted as a
 significant root pathogenic fungus whose interactions with
@@ -82,43 +82,7 @@ phytotoxic secondary metabolites. In Dighton's textbook, F.
 solani is
 presented within Table 3.23, which summarizes interactions
 between
-root pathogenic fungi and [[arbuscular-mycorrhizal-fungi]] on plant
-growth and fecundity.
-
-# Mycorrhizal Protection
-
-A central finding in Dighton's discussion of F. solani is the
-significant protective effect conferred by arbuscular mycorrhizal
-(AM)
-fungi against this pathogen. Plants colonized by Glomus mosseae
-showed
-markedly higher growth and biomass compared to non-mycorrhizal
-controls, both in the presence and absence of F. solani
-infection.
-The mycorrhizal protection mechanism operates through multiple
-pathways, including improved plant nutrition, physical barriers
-created by the fungal sheath, and induction of plant defense
-responses.
-
-The protective interaction between AM fungi and F. solani has
-important implications for sustainable agriculture. By promoting
-mycorrhizal colonization in crop plants, farmers may reduce
-dependence
-on chemical fungicides for management of Fusarium diseases. The
-competitive interaction between these two fungal guilds in the
-rhizosphere represents a key example of how fungal community
-composition directly influences plant health outcomes.
-
-# Role in Soil Ecosystems
-
-Beyond its pathogenic role, Fusarium solani contributes to soil
-ecosystem processes as a decomposer of organic matter and a
-participant
-in nutrient cycling. The species is capable of utilizing a wide
-range
-of organic substrates, contributing to the mineralization of
-carbon
-and nitrogen in soil systems. In [[soil-food-web]] studies, F. solani
+root pathogenic fungi and [[soil-food-web]] studies, F. solani
 participates in fungal-fungal interactions, including competitive
 and
 antagonistic relationships with other soil microfungi.
@@ -135,6 +99,5 @@ ecology.
 
 # See Also
 
-- [[glomus-mosseae]]
 - [[cladosporium-cladosporioides]]
 - [[trichoderma-viride]]

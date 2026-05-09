@@ -41,46 +41,8 @@ Subtypes include:
   using DNA molecules.
 - **Molecular computing**: Uses individual molecules (often proteins or
   enzymes) as logic gates, performing computations through chemical reactions.
-- **Cellular computing**: Leverages networks [[symbiosis-art-of-living]] cells; see
-  [[mycelial-network-computation]] and [[physarum-computation]] for fungal
-  and slime mold approaches.
-- **Membrane computing** (P systems): Abstract computational models inspired
-  by compartmental [[gadd-fungal-cell-structure]], using nested membranes with rules for
-  object transformation [[plant-intelligence-and-communication]]. Theoretically equivalent to
-  Turing machines but offering efficient solutions for specific problem
-  classes.
-- **Bacterial computing**: Programs bacterial behavior using synthetic biology
-  to create living sensors, logic circuits, and pattern-forming systems.
-### Physical Computing
-Exploits physical phenomena for computation:
-- **Optical computing**: Uses photons instead of electrons; offers high-speed
-  parallel processing for image and signal processing tasks. Interference
-  patterns perform Fourier transforms at the speed of light.
-- **Quantum computing**: Leverages superposition and entanglement to solve
-  certain problems exponentially faster than classical computers; see
-  quantum computing fundamentals for details.
-- **Memristor networks**: Uses resistance-switching devices that exhibit
-  memory-dependent behavior, applicable to reservoir computing and
-  neuromorphic systems. HP Labs' 2008 discovery of the memristor renewed
-  interest in analog computing hardware.
-- **Fluid computing**: Uses fluid dynamics — channels, droplets, and
-  laminar flow hood — to perform logic operations and solve mazes.
-### Chemical Computing
-Uses reaction-diffusion systems and chemical kinetics:
-- **Belousov-Zhabotinsky reactions**: Oscillating chemical reactions that
-  propagate waves through a medium, usable for image processing and path
-  finding. The wavefront dynamics naturally compute Voronoi diagrams and
-  shortest paths.
-- **Chemical logic gates**: Implementing Boolean operations via chemical
-  concentration thresholds and catalytic reactions.
-- **Marangoni flow computing**: Surface tension-driven flows in thin liquid
-  films can perform maze solving and gradient following.
-### Reservoir Computing
-A framework where a dynamical system (the "reservoir") maps input to a
-high-dimensional state space, and only a simple readout layer is trained.
-This avoids the difficulty of training complex recurrent networks. Reservoirs
-can be physical systems like buckets of water, memristor networks,
-photonic cavities, or even [[physarum-computation]].
+- **Cellular computing**: Leverages networks [[mycelial-network-computation]] and [[gadd-fungal-cell-structure]], using nested membranes with rules for
+  object transformation [[physarum-computation]].
 ## Theoretical Frameworks
 ### Hypercomputation
 Models that theoretically exceed the Church-Turing limit, using infinite
@@ -90,40 +52,67 @@ many may be physically impossible due to quantum limits on measurement
 precision.
 ### Analog Computing
 Continuous-valued computation as opposed to discrete digital logic. Modern
-analog computing revivals focus on [[energy-efficient-house-design]] inference for
-machine learning workloads, where the precision requirements of analog
-circuits are adequate for neural network computations.
-### Natural Computing
-The broad umbrella encompassing computation inspired by nature (genetic
-algorithms, neural networks, ant colony optimization, particle swarm
-optimization) and computation performed by nature itself (biological and
-chemical computing). Nature-inspired computing is now mainstream; nature-
-performed computing remains experimental.
-## Challenges
-- **Precision**: Physical and biological systems are noisy and imprecise.
-  Error correction mechanisms from digital computing do not directly transfer.
-- **Programmability**: Most unconventional substrates lack flexible
-  programming interfaces. Each experiment typically requires custom hardware.
-- **Scalability**: Laboratory demonstrations rarely scale to practical sizes.
-  A petri-dish slime mold cannot solve problems requiring a city-scale
-  network.
-- **Standardization**: No common benchmarks, programming languages, or
-  evaluation frameworks exist across paradigms, making comparison difficult.
-- **Speed**: Most unconventional systems are slower than digital electronics
-  for general-purpose computation. Their advantage lies in specific problem
-  classes.
-## Outlook
-Unconventional computing is unlikely to replace digital silicon entirely.
-Instead, hybrid architectures combining conventional processors with
-specialized unconventional co-processors for specific tasks may emerge. The
-greatest near-term impact may come from reservoir computing and
-neuromorphic systems, which are closest to practical deployment. Biological
-computing remains the most speculative but also the most conceptually
-interesting, challenging our understanding of what computation means.
-## See Also
-- [[mycelial-network-computation]]
+analog computing revivals focus on [[mycelial-network-computation]]
 - biological computing
 - reservoir computing
 - quantum computing fundamentals
-- [[physarum-computation]]
 - [[fungal-mycelial-network-architecture]]
+## Practical Considerations
+
+When working with Unconventional Computing, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -20,38 +20,8 @@ Pythium and its relatives the oomycetes are among the most consequential
 but poorly understood groups of microorganisms. Although traditionally
 studied by mycologists and called "water molds," oomycetes are not true
 fungi at all. They belong to the stramenopile lineage, sharing closer
-evolutionary [[fungal-relationships-with-insects]] diatoms and brown algae than with
-mushrooms. Their misclassification persisted for centuries because they
-grow as branching filaments (hyphae) and produce spores, converging on
-the fungal body plan through independent evolution.
-
-## Oomycete Distinctions from True Fungi
-
-The differences between oomycetes and true fungi are profound. Oomycete
-cell walls contain cellulose microfibrils [[integrate-rather-than-segregate]] the chitin that
-characterizes [[gadd-fungal-cell-structure]] walls. This distinction was one of the first
-clues to their separate evolutionary origin: microscopists found that
-oomycete cell walls turned blue in an iodine solution (due to the
-cellulose-iodine reaction), while the walls of true fungi remained
-unstained. Their cell membranes lack ergosterol, the sterol molecule
-that is the primary target of most antiergosterol-fungal-drug-targets, rendering standard
-fungal medications ineffective against oomycete infections.
-
-Oomycete hyphae are non-septate, meaning they lack the cross-walls
-that divide true fungal hyphae into compartments. The zoospores of
-oomycetes characteristically bear two flagella of different types: one
-whiplash (smooth, pushing backward) and one tinsel (decorated with
-lateral filaments, pulling forward), whereas chytrid zoospores have
-only a single whiplash flagellum.
-
-## Pythium insidiosum: The Human Pathogen
-
-Pythium insidiosum is an oomycete that causes a devastating disease
-called pythiosis, affecting horses, dogs, cats, cattle, humans, and even
-a polar bear in a zoo. In horses, the disease was historically known as
-"swamp cancer," producing swellings in the lower limbs where smooth
-canon bones became monstrous coral-like outgrowths. Other presentations
-include lumpy skin lesions called granulomas, [[hyphal-growth-kinetics]] in blood and
+evolutionary [[integrate-rather-than-segregate]] the chitin that
+characterizes [[hyphal-growth-kinetics]] in blood and
 lymph vessel walls, and lung and intestinal infections.
 
 The earliest scientific descriptions came from British army veterinarians
@@ -110,18 +80,5 @@ how environmental disruption amplifies the impact of opportunistic
 pathogens.
 
 Phytophthora, a genus of oomycetes that includes the infamous potato
-blight agent [[bloomfield-potato-blight-phytophthora-infestans]], causes billions of dollars in crop damage
-annually. The oomycetes as a group demonstrate how convergent evolution
-with fungi has produced organisms of tremendous ecological and
-economic importance despite their fundamentally different biology. Their
-study reminds us that the fungal way of life has evolved independently
-multiple times, and that organisms sharing similar habits may be
-separated by vast evolutionary distances. The name "water mold" captures
-their essential dependency on moisture, a requirement that distinguishes
-them from truly terrestrial fungi and links them to their aquatic
-stramenopile ancestors.
-
-## See Also
-
-- [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
+blight agent [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
 - [[oomycetes-water-molds]]

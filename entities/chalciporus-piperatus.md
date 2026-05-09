@@ -128,11 +128,8 @@ not an indicator of toxicity in this species.
 
 ## See Also
 
-- [[tylopilus-felleus]]
 - [[suillus-luteus]]
-- [[suillus-granulatus]]
 - [[boletus-edulis-entity]]
-- [[rubroboletus-satanas]]
 - [[leccinum-scabrum]]
 - [[gyroporus-cyanescens]]
 - xerocomellus chrysenteron

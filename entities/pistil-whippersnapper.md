@@ -108,32 +108,8 @@ The cannabinoid-to-terpene ratio in Pistil Whippersnapper is notable for its rel
 - **Humidity:** 50–70% vegetative; reduce to 40–50% during flowering to prevent bud rot (this strain's large, dense colas are susceptible to Botrytis in humid conditions)
 - **Light:** High light requirements (PPFD 800–1200 μmol/m²/s); benefits from supplemental UV-B during late flowering for enhanced trichome production
 - **Nutrients:** Heavy feeder during vegetative stage; moderate nitrogen, elevated phosphorus and potassium during flowering. Responds well to organic amendments (compost tea, bat guano, kelp meal). Watch for nitrogen toxicity—this strain can be sensitive to excess nitrogen, presenting as dark green, clawing leaves.
-- **Training:** LST (low-stress training) and SCROG ([[screen-of-green]]) are highly recommended to manage height and maximize light penetration. Topping once or twice during early vegetative stage promotes a bushier canopy.
-
-### Pest and Disease Resistance
-
-- **Moderate resistance** to spider mites and powdery mildew
-- **Susceptible** to [[botrytis-cinerea]] (bud rot) due to dense cola formation — ensure good airflow and low flowering humidity
+- **Training:** LST (low-stress training) and SCROG ([[botrytis-cinerea]] (bud rot) due to dense cola formation — ensure good airflow and low flowering humidity
 - **Moderate resistance** to thrips and fungus gnats
-- Neem oil and predatory mite introductions (*Amblyseius cucumeris*, *Phytoseiulus persimilis*) are effective [[integrated-pest-management]] strategies
+- Neem oil and predatory mite introductions (*Amblyseius cucumeris*, *Phytoseiulus persimilis*) are effective [[cannabis-flowering-stage-management]]
 
-## Phenotype Variation
-
-Two main phenotypic expressions are commonly observed:
-
-1. **"Tall Pheno"** — Elongated internodes, narrow leaflets, longer flowering time (10–11 weeks), higher THC potential, more pronounced citrus/terpene profile, more racy effects. Preferred by experienced growers.
-2. **"Compact Pheno"** — Shorter stature, slightly wider leaflets, faster flowering (8–9 weeks), slightly lower THC but more balanced effect profile, more manageable indoors. Preferred by commercial growers.
-
-## Harvest and Curing
-
-- **Harvest indicator:** Trichomes shift from clear to milky/cloudy with ~10–20% amber. For maximum cerebral effect, harvest at mostly cloudy trichomes. For a more balanced body component, wait until 20–30% amber.
-- **Flush:** 1–2 week plain water flush recommended for smooth flavor
-- **Drying:** 7–14 days at 16–20°C, 50–60% RH, with gentle airflow
-- **Curing:** Minimum 4 weeks in airtight glass jars at 58–62% RH; burp jars daily for the first 2 weeks. Extended curing (8–12 weeks) significantly enhances the tropical flavor complexity
-
-## See Also
-
-- [[cannabis-flowering-stage-management]]
-
-- [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]
 - [[cannabis-strain-selection-guide]]

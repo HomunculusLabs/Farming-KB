@@ -11,42 +11,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 # Psychedelic Psychotherapy Clinical History
 
 The clinical use of psychedelic drugs in psychotherapy emerged from the accidental
-discovery of LSD's mind-altering properties by [[albert-hofmann-eleusinian-potion-analysis]] at Sandoz Laboratories
-during World War II. The first research papers from Sandoz described LSD as bringing
-about "psychic loosening or opening" (seelische Auflockerung), establishing the
-conceptual foundation for decades of therapeutic exploration. The early characterization
-of LSD as "psychotomimetic" (simulating psychosis) initially interested psychiatric
-researchers as a possible training experience, while military and intelligence agencies
-of both superpowers explored its potential as a weapon of disorientation. Considerable
-research effort and expense was devoted for about 10 years to determining the most
-effective surreptitious delivery systems to unsuspecting enemy soldiers, agents or
-leaders, for maximum confusion, disorientation or embarrassment. Ironically, and
-fortunately, it was the capacity of LSD to tap into the hidden mystical potentials of
-the human mind that ruined its applicability as a weapon of war. Rather than making
-subjects predictably submissive to mind-control programming, LSD had the unnerving
-propensity to suspend existing mental programming and release one into awesome worlds of
-cosmic consciousness. The military was not prepared to have soldiers or espionage agents
-turn into mystics.
-
-## Two Foundational Paradigms
-
-Two major clinical paradigms developed during the 1950s and 1960s, each with distinct
-approaches to dosing, session structure, and therapeutic rationale. Despite their
-apparent differences, they share fundamental conclusions about the nature of
-psychedelic-assisted healing.
-
-### The Psycholytic Approach
-
-The psycholytic model became the dominant framework for LSD-assisted psychotherapy in
-Europe. In this approach, neurotic patients suffering from anxiety, depression, or
-obsessive-compulsive and psychosomatic disorders received LSD in a series of sessions
-at gradually increasing doses while undergoing more or less standard analytic
-interactions using a Freudian perspective. The term "psycholytic" literally means
-"mind-loosening," and the core rationale was that through this loosening of defenses,
-patients would become more vividly aware of previously unconscious emotional dynamics
-and reaction patterns presumed to have been acquired in early family interactions. Such
-insight would bring about a resolution of inner conflicts. The Czech psychiatrist
-[[stanislav-grof]], working within this model, made the startling discovery that in such a
+discovery of LSD's mind-altering properties by [[stanislav-grof]], working within this model, made the startling discovery that in such a
 series involving increasing doses there could be an even deeper psychic opening -- to
 birth and prebirth memories. After resolving conflicts stemming from Freudian dynamics
 of early childhood, patients would find themselves reliving the significant
@@ -71,7 +36,7 @@ media community, bringing considerable publicity and notoriety to psychedelics.
 
 ## The Harvard Research Program
 
-[[timothy-leary-harvard-psilocybin-experiments]], Frank Barron, [[richard-alpert]] and the Harvard research project adopted
+[[richard-alpert]] and the Harvard research project adopted
 the term "psychedelic" and did one of their first research studies on the production
 of behavior change in convicts. They started publishing the Psychedelic Review.
 Leary's work focused on exploring the possibilities and values of the psychedelic

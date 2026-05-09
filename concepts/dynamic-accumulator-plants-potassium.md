@@ -132,16 +132,9 @@ Potassium-hungry crops that benefit most from accumulator mulch or compost inclu
 
 ## Related
 
-- [[potassium-role-in-plants]] Pages
-
 - [[dynamic-accumulator-plants-nitrogen]]
-- [[dynamic-accumulator-plants-phosphorus]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[dynamic-accumulator-plants-trace-minerals]]
 - [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[dynamic-accumulators]]
 - [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-cover-crops-soil-health]]
-- [[dynamic-accumulator-plants-trace-minerals]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]

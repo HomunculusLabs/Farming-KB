@@ -143,8 +143,11 @@ safe while raw seeds are not.
   understory plants; the invasive leaf miner has reduced ornamental
   value in Europe; large mature size limits use in small spaces. Not
   recommended for food forests due to toxicity of all plant parts.
+## See Also
+
+- [[quercus-robur]]
+- [[sambucus-nigra]]
 
 ## See Also
 
-- [[castanea-sativa]] · aesculus hippocastanum · [[quercus-robur]]
-- [[tilia-cordata]] · [[sambucus-nigra]]
+- [[permaculture-plants-fruit-trees-temperate]]

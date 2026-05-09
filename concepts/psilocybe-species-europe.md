@@ -29,15 +29,6 @@ well-known and widely distributed neurotropic fungi in the world.
 
 The following Psilocybe species are documented from Europe:
 
-- **[[psilocybe-semilanceata]]** (Liberty Cap): The most widespread and
-  commonly encountered neurotropic species in Europe, found from
-  Scandinavia and Iceland to Spain, Italy, Bulgaria, and the British
-  Isles. It fruits in autumn on grassland soils, particularly in
-  pastures, meadows, and moorlands. P. semilanceata is one of the
-  most potent Psilocybe species, with significant psilocybin and
-  baeocystin concentrations. Its distribution extends to North America
-  and temperate regions of the Southern Hemisphere.
-
 - **[[psilocybe-cyanescens]]**: Originally described from the Pacific
   Northwest of North America, this species has been widely introduced
   to Western Europe through the movement of wood chips and garden
@@ -46,32 +37,7 @@ The following Psilocybe species are documented from Europe:
   species with a characteristic wavy cap margin and intense blueing
   reaction.
 
-- **[[psilocybe-bohemica]]**: Described from Czechoslovakia (now Czech
-  Republic), this species is found in Central Europe. It fruits on
-  wood debris in autumn and is one of the more recently described
-  European neurotropic species.
-
-- **Psilocybe serbica**: Found in southeastern Europe, particularly
-  in Serbia and surrounding countries. It grows on wood debris and
-  is morphologically similar to P. bohemica.
-
-- **Psilocybe liniformans**: A species found in Europe on dung and
-  enriched soils. It is less commonly encountered than P.
-  semilanceata or P. cyanescens.
-
-- **Psilocybe crobula**: A small species found in Europe on
-  decomposing wood and forest debris. It has confirmed neurotropic
-  chemistry.
-
-- **Psilocybe montana**: Found in alpine and subalpine habitats in
-  Europe, this species is one of the more habitat-specialized
-  neurotropic fungi on the continent.
-
-## Non-Psilocybe Neurotropic Species in Europe
-
-Europe hosts significant diversity in non-Psilocybe neurotropic genera:
-
-**Panaeolus**: [[panaeolus-subbalteatus]] is widespread in Europe, found on
+- **[[panaeolus-subbalteatus]] is widespread in Europe, found on
 horse dung, compost, and enriched soils. Panaeolus sphinctrinus and P.
 fimicola are also documented from European locations.
 
@@ -131,7 +97,5 @@ scientific and public attitudes toward psychedelic fungi change.
 
 ## See Also
 
-- [[worldwide-distribution-psilocybin-mushrooms]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
-- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[hypholoma-pluteus-inocybe-conocybe-genera]]

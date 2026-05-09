@@ -13,11 +13,7 @@ type: concept
 
 Lighting is the single most critical environmental factor in indoor Cannabis
 cultivation. The quality, intensity, and spectrum of light directly determine
-plant growth rate, [[cannabis-photoperiodism-and-light-cycles]], and ultimately yield. Greg Green's Cannabis Grow Bible provides a
-comprehensive overview of the lighting options available to indoor growers,
-ranging from inadequate domestic bulbs to professional high-intensity discharge
-(HID) systems. Selecting the right lighting system is the second most important
-purchase a grower makes, after choosing the right [[green-cannabis-grow-bible-strain-selection-genetics]].
+plant growth rate, [[green-cannabis-grow-bible-strain-selection-genetics]].
 
 ## Light Spectrum and Plant Requirements
 
@@ -69,33 +65,7 @@ position properly for optimal coverage.
 These are similar to standard fluorescents but are manufactured in growing
 spectrums. They are not very powerful, typically not exceeding 100 watts, and
 are only recommended for growers who do not intend to produce full flowering
-Cannabis plants. They work adequately for [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-and seedling stages.
-
-## Best Lighting Systems: HID
-
-High Intensity Discharge (HID) lights are professional horticultural lighting
-systems developed specifically for growing plants indoors. They are the
-standard choice for serious Cannabis cultivators and come as complete kits
-including bulb, reflector, ballast, and timer.
-
-### Metal Halide (MH) and Mercury Vapor (MV)
-
-Metal Halide lights are HID systems optimized for the seedling and vegetative
-growth stages of Cannabis. They produce a bluish-white light that closely
-simulates spring and summer sunlight. MH lights come in wattages from 75W to
-4000W and are quite effective for both vegetative growth and flowering.
-
-Mercury Vapor lights have been largely replaced by Metal Halide technology.
-When a choice exists between the two, MH kits are preferable because MV lights
-tend to be slightly out of the optimal spectrum range for plant growth.
-
-### High Pressure Sodium (HPS)
-
-High Pressure Sodium lights are the most popular choice among Cannabis
-cultivators. They produce an orange-yellow light that is in the ideal spectrum
-for flowering Cannabis. HPS systems come in wattages from 75W to 4000W and
-are highly recommended for the [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. MH lights tend to give off a blue tone while HPS gives off an orange
+Cannabis plants. They work adequately for [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. MH lights tend to give off a blue tone while HPS gives off an orange
 tone, making them visually distinguishable.
 
 ## Choosing Between MH and HPS
@@ -116,12 +86,5 @@ on the ballast housing or the bulb itself.
 Proper light placement is critical for maximizing canopy penetration and
 avoiding stretching. The light should be positioned as close to the plant
 canopy as possible without causing heat stress. Reflective walls and
-[[cervantes-plant-support-trellis-stakes-cages]] techniques
-can significantly improve light distribution across the growing area.
-
-## See Also
-
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
-- [[green-cannabis-grow-bible-vegetative-phase-management]]
-- cannabis photoperiod 12 12 light cycle
+[[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[greg-green-temperature-and-humidity-control]]

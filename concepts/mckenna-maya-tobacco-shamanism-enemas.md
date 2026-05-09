@@ -15,18 +15,9 @@ type: concept
 
 # Mayan Tobacco Shamanism and Enema Rituals
 
-[[allegro-fertility-philosophy-of-the-ancient-near-east]] Maya maintained a profound and complex relationship with tobacco
-that was central to their shamanic practices, religious ceremonies, and
-cosmological worldview. Far from the mild recreational use familiar to
-modern societies, Classic Mayan tobacco shamanism involved potent species
-and innovative administration methods, including the use of enemas for
-delivering psychoactive preparations.
+[[nicotiana-rustica]]: The Shamanic Tobacco
 
-## [[nicotiana-rustica]]: The Shamanic Tobacco
-
-The tobacco [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] Classical Maya was not the mild Nicotiana tabacum that
-conquered European markets, but rather Nicotiana rustica, a species still
-used by aboriginal populations in [[stamets-mushrooms-world-south-america]]. This wild tobacco is far
+The tobacco [[stamets-mushrooms-world-south-america]]. This wild tobacco is far
 more potent, chemically complex, and potentially hallucinogenic than
 commercial cigarette tobacco. The difference between the two species is
 profound, representing entirely different relationships with the plant.
@@ -34,21 +25,12 @@ profound, representing entirely different relationships with the plant.
 N. rustica was cured and rolled into cigars which were smoked in rituals.
 The trancelike state that followed was central to Mayan shamanism. The
 effects were partially synergized by the presence of compounds that
-included MAO inhibitors, naturally occurring [[beta-carboline-alkaloids]]
-that potentiate and extend the psychoactive [[antiviral-properties-of-mushrooms]] nicotine.
+included MAO inhibitors, naturally occurring [[antiviral-properties-of-mushrooms]] nicotine.
 
 ## Chemical Complexity of Native Tobacco
 
 Tobacco is far more than simply a nicotine delivery system. Recently,
-alkaloids [[allegro-colour-and-consistency-of-the-amanita-muscaria]] harmala group, harman and norharman, have been isolated
-from cured commercial tobaccos and their smoke. These constitute a
-chemical group of beta-carbolines, which include harmine, harmaline,
-tetrahydroharmine, and 6-methoxyharmine, all with hallucinogenic
-properties. While native varieties have not been fully analyzed for
-these substances, it is reasonable to suppose that some native-grown
-tobaccos may contain relatively high concentrations of them.
-
-The presence of [[beta-carboline-chemistry]] alkaloids in shamanic tobacco represents
+alkaloids [[beta-carboline-chemistry]] alkaloids in shamanic tobacco represents
 a significant biochemical dimension that distinguishes indigenous use
 from modern recreational smoking. These compounds act as monoamine oxidase
 inhibitors, meaning they can potentiate the effects of other psychoactive
@@ -140,11 +122,4 @@ The Mayan shamanic complex extended beyond tobacco to include cacao
 (Theobroma cacao), which held a major sacramental role in Maya and Aztec
 religion. The Maya used cacao beans as currency, and the Aztec ruler
 Montezuma was said to be seriously addicted to ground cacao, drinking it
-unsweetened in cold [[water-management]] infusion. A mixture of ground chocolate and
-psilocybin-containing mushrooms was served to guests at the coronation
-feast of Montezuma II in 1502, illustrating the integrated nature of
-the Mesoamerican entheogenic complex.
-
-## See Also
-
-- [[entheogen-culture]]
+unsweetened in cold [[entheogen-culture]]

@@ -137,13 +137,9 @@ disturbed sites.
 
 ## See Also
 
-- [[althea-officinalis]]
 - [[borago-officinalis]]
-- [[urtica-dioica]]
 - [[plantago-major]]
-- [[calendula-officinalis]]
 - [[glycyrrhiza-glabra]]
-- [[verbascum-thapsus]]
 - [[hypericum-perforatum]]
 - [[taraxacum-officinale]]
-- [[achillea-millefolium]]
+- achillea-millefolium

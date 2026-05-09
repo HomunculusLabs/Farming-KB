@@ -126,8 +126,6 @@ Each starting point leads to different optimal strategies and timelines.
 - Practical stabilization focuses on acceptable uniformity across key traits.
 - Methodical, single-trait approaches yield better results than attempting to fix many traits at once.
 - Recessive traits can be fixed in as few as 3 generations with full-sib selection.
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[vic-high-cannabis-phenotype-selection-criteria]]
-- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-phenotype-and-genotype-guide]]
 - [[cannabis-growing-environment-setup]]

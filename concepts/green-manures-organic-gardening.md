@@ -103,25 +103,6 @@ When seedlings reach 6 to 9in (15 to 20cm) tall, before
 flowering, cut down at the base and allow to wilt before
 digging in.
 
-## Winter Cover Crops
-
-Sow winter green manures in late summer or early fall.
-They protect the soil surface from heavy rain, prevent
-leaching of nutrients, and can be dug in before spring
-planting. This is especially important on light, sandy
-soils where winter nutrient loss is greatest.
-
-## Limitations
-
-Green manure is not a substitute for compost or manure. The
-soft green material decomposes quickly and leaves relatively
-little stable organic matter. It works best as a supplement
-to a regular composting and manuring program. Also, some
-green-manure crops may harbor pests if not managed properly.
-
-## See Also
-
-- [[composting-organic-garden]]
-- [[crop-rotation-vegetable-garden]]
+## Winter [[composting-organic-garden]]
 - [[soil-health-management]]
 - [[mulching-organic-garden]]

@@ -3,19 +3,7 @@ title: Mollison on Swale Design and Construction
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Mollison on Swale Design and Construction
-
-**Source:** Bill Mollison, Permaculture Design Course, Pamphlet II (Permaculture in Humid Landscapes), 1981
-**Last Updated:** 2026-04-18
-
-## Overview
-
-Mollison provides the most detailed practical description of swale construction, urban applications, and integration with water systems, forest planting, and fire control. This extends [[mollison-pdc-swale-design-water-harvesting]].
+tags: [[mollison-pdc-swale-design-water-harvesting]].
 
 ## Swale Construction
 
@@ -91,11 +79,7 @@ Mollison provides the most detailed practical description of swale construction,
 
 ## Related Pages
 
-- [[mollison-pdc-swale-design-water-harvesting]]
 - [[mollison-keyline-water-conservation]]
-- [[mollison-keyline-soil-conditioning-humid-water]]
 - [[mollison-pdc-dam-construction-water-systems]]
-- [[fire-control-in-permaculture]]
 - [[mollison-permaculture-two-earth-houses-plant-shelters]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

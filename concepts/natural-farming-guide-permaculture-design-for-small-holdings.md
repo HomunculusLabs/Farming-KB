@@ -8,11 +8,7 @@ type: concept
 tags: [culture, design, natural-farming, permaculture]
 ---
 
-# [[permaculture-design]] for Small Holdings
-
-Permaculture design for small holdings integrates zones, sectors, [[water-management]], soil building, and plant communities into a self-sustaining system. Originally co-created by Bill Mollison and [[david-holmgren]] and published as "Permaculture One," [[pdc-urban-permaculture-design-principles]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by [[masanobu-fukuoka]]'s natural farming principles.
-
-## [[permaculture-ethics]]
+# [[water-management]], soil building, and plant communities into a self-sustaining system. Originally co-created by Bill Mollison and [[permaculture-design-principles]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by [[permaculture-ethics]]
 
 Three core ethics guide all design decisions:
 
@@ -98,22 +94,5 @@ Mimic natural forest structure with plants at different heights. In dry or cool 
 
 ## Plant Guilds (Communities)
 
-Organize plants around a central element based on [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. Plants can attract predators of pests, sacrifice themselves as trap crops, trap and kill pests, provide nutrients through nitrogen fixation or mulch, and create shelter from frost, wind, and weather.
-
-## Microclimate Management
-
-Frost: Locate Zone 1 or 2 above the frost line (thermal belt) on slopes. Dark stone walls absorb heat and radiate it at night. Tree canopies insulate clearings. Greenhouses create warm microclimates.
-
-Wind: Plant windbreaks using pioneer species with fibrous stems and fleshy or needle leaves. Fast-growing species protect slower-growing hardwoods as they mature. Trellises with climbing vines from house corners provide quick wind shelter.
-
-Temperature: Earth mounds insulate. Bodies of water modify surrounding temperature. Deciduous trees on sunny sides shade in summer, allow sun in winter.
-
-## Measuring Success
-
-Water storage should occupy 10-20% of land. Tree windbreaks and forests should cover 20-30%. Natural areas conserve water through condensation trapping. The farmer performs less physical labor due to system interconnectedness. The land has recreational and intergenerational value.
-
-## See Also
-
-- [[natural-farming-guide-cover-cropping-and-green-manures]]
-- [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
+Organize plants around a central element based on [[natural-farming-guide-cover-cropping-and-green-manures]]
 - [[natural-farming-guide-integrated-pest-management]]

@@ -143,7 +143,9 @@ Expert growers scale these methods to entire rooms:
 - Light movers (Light Rail III or Sun Circle) to cover large areas.
 - Ozone generators for odor control.
 ## See Also
-- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 - [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
-- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
 - [[green-cannabis-grow-bible-soil-and-medium-preparation]]
+
+## See Also
+
+- [[green-cannabis-grow-bible-outdoor-growing]]

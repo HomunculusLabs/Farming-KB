@@ -12,19 +12,9 @@ type: concept
 # Passive and Wick Hydroponic Systems for Cannabis
 
 Passive hydroponic systems rely on capillary action rather
-than pumps to transfer [[cervantes-nutrient-solution-reservoir-management]] from a reservoir to
-the [[cervantes-growing-medium]] and plant
+than pumps to transfer [[cervantes-growing-medium]] and plant
 roots. These simple, low-maintenance systems have no moving
-parts and are among the easiest [[cervantes-hydroponic-systems]] methods to set up and operate. While
-often considered basic, Dutch growers have refined passive
-systems to achieve remarkable results.
-
-## How Passive Systems Work
-
-In passive systems, nutrient solution is absorbed by a wick
-or directly by the growing medium and transported to the
-roots through capillary action. The absorbent
-[[cervantes-growing-medium]] draws moisture
+parts and are among the easiest [[cervantes-growing-medium]] draws moisture
 upward from the reservoir, keeping root zones consistently
 moist. Absorbent mediums ideal for passive systems include:
 
@@ -97,25 +87,7 @@ and returned Friday to find plants still strong and healthy.
 
 Capillary matting provides another passive delivery method.
 Plants with a strong root system are placed on capillary
-matting that stabilizes [[cervantes-nutrient-solution-reservoir-management]] flow. The matting draws solution from a
-reservoir and distributes it evenly to all plants on the
-mat. This method ensures uniform moisture across multiple
-plants simultaneously.
-
-## Limitations and Considerations
-
-Passive systems have some inherent limitations:
-
-- Not considered "high performance" compared to active
-  systems like [[cervantes-top-feed-hydroponic-systems]] or [[cervantes-nft-aeroponic-systems]]
-- Soggy conditions can promote root rot if the medium does
-  not drain adequately
-- Slower nutrient delivery may limit growth rates in fast-
-  growing cannabis
-- Less precise control over feeding schedules compared to
-  timer-based active systems
-- Not ideal for very large plants with high water demands
-- [[cervantes-moisture-meters-watering-technique]] is important to prevent over-saturation
+matting that stabilizes [[cervantes-top-feed-hydroponic-systems]] or [[cervantes-moisture-meters-watering-technique]] is important to prevent over-saturation
 
 ## Best Practices
 
@@ -126,9 +98,4 @@ To maximize success with passive systems:
 - Ensure containers have adequate drainage holes above the
   reservoir water line
 - Do not allow pots to sit in standing water continuously
-- Monitor [[cervantes-ph-management-testing]] regularly
-  since passive systems lack the flushing action of active
-  systems
-- Add perlite or pumice to improve aeration in the root zone
-- Use mild nutrient solutions to avoid
-  [[cervantes-nutrient-burn-over-fertilization]] from salt accumulation
+- Monitor [[cervantes-nutrient-burn-over-fertilization]] from salt accumulation

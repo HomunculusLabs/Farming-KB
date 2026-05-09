@@ -129,13 +129,12 @@ plant communities, pest dynamics, and management practices simultaneously.
 10. The philosophy extends beyond agriculture to encompass a broader relationship
     between humans and the natural world.
 ## See Also
-[[fukuoka-fallacies-scientific-understanding]], [[fukuoka-errors-human-intellect]],
-[[fukuoka-how-nature-should-be-perceived]],
+[[fukuoka-errors-human-intellect]],
 [[fukuoka-critique-laws-agricultural-science]],
-[[fukuoka-natural-farming-philosophy]], [[natural-farming-philosophy]],
-[[natural-farming-fukuoka]], [[one-straw-revolution-guide]],
-[[one-straw-revolution-key-concepts]], [[fukuoka-four-principles-natural-farming]],
-[[fukuoka-no-cultivation-principle]], [[fukuoka-no-fertilizer-principle]],
-[[fukuoka-no-weeding-no-pesticides]], [[fukuoka-natural-rice-farming-steps]],
-[[fukuoka-do-nothing-farming-philosophy]], [[natural-farming-seed-balls]],
+[[natural-farming-philosophy]],
+[[one-straw-revolution-guide]],
+[[fukuoka-four-principles-natural-farming]],
+[[fukuoka-no-fertilizer-principle]],
+[[fukuoka-natural-rice-farming-steps]],
+[[natural-farming-seed-balls]],
 [[clay-seed-balls-tsuchi-dango]], agroecology

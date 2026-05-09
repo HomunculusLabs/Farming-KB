@@ -3,22 +3,7 @@ title: Reactive House Design Permaculture
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-
-# Reactive House Design in Permaculture
-
-updated: 2026-04-18
-
-Permaculture Two (1979) Chapter 6 establishes the "reactive house" concept: buildings that supply their own heat and at least some food through passive design, biological aids, and integration with the surrounding environment.
-
-## The Core Principle
-
-The whole thrust of reactive house design is to reduce or eliminate the need for external energy input for climate control. Because sun heat is regulated and stored in the heat masses of floors, walls, and water tanks, and draughts are excluded, the very slight heat yield from body warmth, cooking, and perhaps a small pot-bellied stove is all that is needed.
-
-Buildings are at the core of the [[permaculture-zones-and-sectors]] system. Whether built for people or livestock, new buildings must be constructed to supply their own heat and at least some food. Most domestic energy is consumed in buildings; they are where we survive extremes of heat and cold, and where we supervise and plan life-support systems.
+tags: [[permaculture-zones-and-sectors]] system. Whether built for people or livestock, new buildings must be constructed to supply their own heat and at least some food. Most domestic energy is consumed in buildings; they are where we survive extremes of heat and cold, and where we supervise and plan life-support systems.
 
 ## Essentials of a Reactive House
 
@@ -98,16 +83,9 @@ Water tanks, often regarded as old-fashioned, can be vine-covered in the shadeho
 
 ## See Also
 
-- [[permaculture-house-design-principles]]
 - [[permaculture-zone-0-house-design]]
-- [[permaculture-urban-design-apartments-balconies]]
-
 - [[permaculture-dryland-strategies]]
 
-- [[permaculture-futures-and-aid]]
-
 - [[permaculture-island-design]]
-
-- [[permaculture-nursery-design]]
 
 - [[permaculture-processing-and-manufacturing]]

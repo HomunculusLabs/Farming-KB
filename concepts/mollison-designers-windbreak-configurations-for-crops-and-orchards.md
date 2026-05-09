@@ -130,16 +130,10 @@ suitable species in the first place.
 
 ## Related
 
-- [[mollison-designers-olive-fig-and-mediterranean-tree-crops]]
-
 - [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] Topics
 
-- [[mollison-windbreak-design]] - Windbreak species selection and
-  establishment
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
   - Economic returns from shelterbelt systems
-- [[mollison-designers-precipitation-types-and-design-effects]]
-  - Climate factors affecting design
 - [[mollison-shade-systems-and-canopy-architecture]] - Shade management
   for crops
 - [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]

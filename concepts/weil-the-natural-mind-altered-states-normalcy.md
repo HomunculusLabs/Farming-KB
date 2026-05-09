@@ -72,11 +72,8 @@ Weil also conducted his own experiments with psychoactive substances as a medica
 
 ## Related
 
-- [[weil-intoxication-and-consciousness-theory]] — The broader theoretical framework
 - [[weil-drug-use-as-innate-human-drive]] — Detailed argument for the innate drive
-- [[weil-the-mind-drug-relationship-paradigm]] — Weil's challenge to the standard paradigm
 - [[mandrake-plant]] — Author biography and broader work
-- [[weil-cultural-attitudes-toward-altered-states]] — Cross-cultural analysis
 - [[weil-psychedelic-experience-set-and-setting]] — Contextual factors in drug experience
 
 ## Historical Context of the Book

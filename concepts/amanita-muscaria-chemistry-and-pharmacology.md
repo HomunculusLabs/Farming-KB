@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-[[amanita-muscaria]], the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are ibotenic acid and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin.
+Amanita muscaria, the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are ibotenic acid and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin.
 
 ## Primary Active Compounds
 
@@ -36,7 +36,7 @@ sources:
 
 ## Other Notable Compounds
 
-- **(-)-R-4-hydroxy-pyrrolidone-(2)**: Closely related to ibotenic acid and muscimol. Found in [[amanita]] muscaria (Matsumoto et al. 1969a). This chemical frame is common in micromycetes and generally exhibits potent biological activity against bacteria and other fungi.
+- **(-)-R-4-hydroxy-pyrrolidone-(2)**: Closely related to ibotenic acid and muscimol. Found in Amanita muscaria (Matsumoto et al. 1969a). This chemical frame is common in micromycetes and generally exhibits potent biological activity against bacteria and other fungi.
 - **A; B-(1->6) branched (1->3)-beta-D-glucan (AM-ASN)**: Isolated from A. muscaria, it exhibited antitumor activity against Sarcoma 180 in mice (Kiho et al. 1992).
 - **Muscarine**: Despite the species name, A. muscaria contains only trace amounts of muscarine; the primary effects are from ibotenic acid/muscimol.
 
@@ -54,24 +54,30 @@ The two major chemicals found in A. muscaria are closely related to known antibi
 
 Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalities are "extremely rare, even when consumed fresh in large quantities." The adverse effects of fresh consumption (nausea, disorientation, agitation) are primarily due to ibotenic acid content, which is substantially reduced through proper preparation.
 
-## Practical Use
-This topic is best evaluated in context: climate, available materials, labor,
-water access, and the surrounding ecological community all influence whether it
-is useful on a working site. Small trials reduce risk and make local adaptation
-visible before larger investments are made.
-
-## Observation Points
-Track seasonal timing, moisture, plant or fungal response, pest pressure, and
-maintenance needs. Notes across several cycles are more reliable than a single
-observation because many biological systems respond slowly or episodically.
-
-## Integration
-The strongest applications usually connect several functions at once, such as
-soil improvement, habitat creation, water moderation, yield, and education. If a
-practice only solves one problem while creating new maintenance burdens, it
-should be redesigned or kept experimental.
-
 ## Related Concepts
 
-- [[amanita-preparation-methods]] -- how traditional users rendered it safe
+- [[amanita-muscaria-preparation-methods]] -- how traditional users rendered it safe
 - [[soma-and-the-sacred-mushroom-debate]] -- the Wasson/Amanita-Soma theory
+
+## See Also
+
+- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
+## Practical Considerations
+
+Successful implementation of Amanita Muscaria Chemistry and Pharmacology requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

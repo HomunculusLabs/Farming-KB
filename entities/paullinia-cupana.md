@@ -14,11 +14,7 @@ sources:
 Paullinia cupana, commonly known as guaraná, is a climbing shrub in the
 family Sapindaceae, native to the Amazon basin of Brazil. It is renowned
 for its seeds, which contain the highest natural concentration of
-caffeine found in any plant (2.5–7% by dry weight, compared to ~1–2%
-in coffee beans). Indigenous Sateré-Mawé people have cultivated guaraná
-for centuries, and it remains a cornerstone of Brazilian culture,
-economics, and the global energy beverage industry. Beyond caffeine,
-guaraná contains theobromine, theophylline, and a unique profile of
+[[theobromine]], theophylline, and a unique profile of
 tannins and saponins that modify caffeine absorption, producing a
 smoother, more sustained stimulant effect compared to coffee. Modern
 research supports cognitive-enhancing, fatigue-reducing, and potential
@@ -96,54 +92,7 @@ that of coffee beans, making it the most potent natural caffeine source.
 |--------|------------------------|-----------|
 | Guaraná seed | 2.5–7.0 | Sustained release, tannin-modulated |
 | Coffee bean | 1.0–2.0 | Rapid onset, shorter duration |
-| Tea leaf | 1.5–4.0 | Moderate, L-theanine modulated |
-| Cacao bean | 0.5–1.5 | Mild, theobromine-rich |
-| Kola nut | 1.5–3.0 | Moderate, traditional stimulant |
-| Yerba mate | 0.5–1.5 | Gentle, polyphenol-rich |
-
-## Ethnobotanical and Cultural Significance
-
-- **Sateré-Mawé tradition:** Indigenous Sateré-Mawé of the lower
-  Amazon domesticated guaraná. Their mythology holds it originated
-  from the eye of a slain forest child, planted by a deity. The plant
-  is central to their cosmology and economy.
-- **Traditional preparation:** Seeds roasted, ground, mixed with
-  cassava flour and water to form a paste (guaraná bread/stick),
-  grated into water for a daily stimulant, hunting aid, and
-  ceremonial beverage.
-- **Brazilian culture:** Brazil's national beverage plant. Guaraná
-  soda is the most popular soft drink in Brazil. Seed extract used in
-  energy drinks, supplements, and confectionery worldwide.
-- **Economic importance:** Brazil produces ~3,000 tons annually, Maués
-  accounting for ~70%. Global market exceeds $1 billion.
-
-## Pharmacology and Therapeutic Applications
-
-- **Cognitive enhancement:** Clinical trials show improved memory,
-  alertness, and mood, exceeding effects expected from caffeine alone
-  due to synergistic polyphenol contributions.
-- **Fatigue reduction:** Significantly reduces perceived fatigue and
-  improves exercise endurance, with sustained 4–6 hour effects from
-  tannin-mediated slow caffeine release.
-- **Weight management:** Some evidence for increased fat oxidation and
-  basal metabolic rate, though results are inconsistent.
-- **Antioxidant activity:** High ORAC value from proanthocyanidins.
-  Protects against oxidative DNA damage in vitro.
-- **Gastrointestinal:** Traditionally used for diarrhea and dysentery.
-  Tannins provide astringent, antimicrobial effects.
-
-## Cultivation
-
-- **Propagation:** Seeds (recalcitrant, viable <72 hours) or cuttings.
-- **Planting:** Partial shade nursery 6–12 months, then transplant
-  with support trees (1:1 male:female for fruit production).
-- **First harvest:** 3–4 years; productive lifespan 20–30 years.
-- **Processing:** Fruits harvested when red, seeds extracted, washed,
-  roasted 200–250°C for 2–3 hours, then ground.
-- **Yield:** 1–3 kg dried seeds per plant per year.
-
-## See Also
-
-- [[catha-edulis]]
-- [[ephedra-sinica]]
+| Tea leaf | 1.5–4.0 | Moderate, [[hypericum-perforatum]]
 - [[hypericum-perforatum]]
+
+See also: [[caffeine-plants-and-stimulant-herb-cultivation]]

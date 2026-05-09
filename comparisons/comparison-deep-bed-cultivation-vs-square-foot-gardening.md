@@ -20,43 +20,6 @@ systems, and ongoing management philosophy. Both methods aim to maximize food
 production from limited space while minimizing waste, weeding, and water use.
 
 ## Deep Bed Cultivation
-[[deep-bed-cultivation]]
-Deep bed cultivation is an organic gardening system centered on initial
-double-digging to create deeply cultivated, permanently loose soil.
-Popularized by organic gardening pioneers including Geoff Hamilton, the method
-begins with a significant labor investment: removing soil in trenches two
-spade depths deep, forking the subsoil to break up hard pans, and
-incorporating large quantities of well-rotted manure or compost. After this
-initial preparation, the beds are never walked on again, and no further
-digging is required because worms and weather incorporate surface-applied
-organic matter over time.
-
-The standard bed width is 4 feet (1.2 meters), narrow enough to reach the
-center from either side without stepping on the bed. Length can vary. Paths
-between beds are typically 15 to 18 inches wide. The method emphasizes block
-planting rather than rows, with plants spaced more closely than in
-conventional gardening. This close spacing shades the soil, reducing moisture
-loss and suppressing weeds. The system is particularly well-suited to root
-vegetables: the deep, loose soil allows carrots and parsnips to grow long and
-straight without forking.
-
-Deep beds are especially valuable for alliums (onions, leeks, shallots) grown
-at intensive spacing, peas grown in self-supporting blocks using semi-leafless
-varieties, and salad crops like radishes and spring onions used for quick
-interplanting between slower-maturing crops. The method is less suitable for
-runner beans (which need too much vertical support), Brussels sprouts (which
-need too much individual space), and maincrop potatoes (which take up too much
-room relative to yield).
-
-The long-term advantage of deep beds is that the initial soil investment pays
-increasing dividends over years. Top-dressing with compost each season
-maintains fertility without disturbing the soil biology that develops in
-undisturbed beds. Earthworm populations thrive in the permanent no-till
-environment, and their burrowing and casting further improve soil structure
-and fertility. Crop rotation is practiced across the garden as a whole rather
-than within individual beds.
-
-## Square Foot Gardening
 [[square-foot-gardening]]
 Square foot gardening (SFG), developed by Mel Bartholomew, divides raised beds
 into a permanent grid of 1x1 foot squares, each planted with a specific number
@@ -126,9 +89,7 @@ space for both approaches.
 
 ## See Also
 
-- [[comparison-loquat-vs-persimmon-cultivation]]
 - [[raised-bed-gardening]] — bed construction fundamentals shared by both methods
-- [[biointensive-gardening-overview]] — another intensive growing approach
 - [[sheet-mulching-guide]] — no-dig alternative for bed preparation
 - [[cover-crops]] — soil building between crops in deep bed systems
-- [[comparison-saffron-vs-turmeric-cultivation]]
+- saffron cultivation and harvesting

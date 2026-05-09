@@ -31,7 +31,7 @@ alpha,N,O-TMS is alpha,N,O-trimethylserotonin, also known as 5-methoxy-alpha,N-d
 
 The molecular formula is C14H20N2O. The free base is a colorless oil that does not crystallize, and no solid salts have been obtained. Mass spectral data shows the characteristic C3H8N+ fragment at m/z 58 (100%), the methoxyindolemethylene+ fragment at m/z 161/160 (19%/7%), and the parent ion at m/z 218 (<1%).
 
-This compound is the N-methylated analogue of [[a-o-dms-entity-tihkal]] (alpha,O-dimethylserotonin, entry #5 in TIHKAL). It is the final entry (#55) in the main chemical section of [[tihkal-introduction-and-methodology]], and Shulgin uses it as a case study for discussing the limitations of structure-activity relationship (SAR) predictions in psychedelic chemistry.
+This compound is the N-methylated analogue of [[tihkal-introduction-and-methodology]], and Shulgin uses it as a case study for discussing the limitations of structure-activity relationship (SAR) predictions in psychedelic chemistry.
 
 ## Dosage and Administration
 
@@ -49,15 +49,7 @@ At 20 mg orally, one subject reported being in a quite depressed state. The comp
 
 The effects of alpha,N,O-TMS are mild and somewhat indeterminate. The compound produces a clearly perceptible altered state but one that lacks the dramatic visual, cognitive, or mystical qualities associated with more potent tryptamine psychedelics.
 
-The most consistently reported effect is erotic enhancement, which was described as both "excellent and satisfying." This body-focused quality is reminiscent of [[4-meo-mipt-entity-tihkal]] and suggests that the compound may have greater affinity for somatic effects than for the classic psychedelic visual and cognitive effects.
-
-Visual phenomena are absent at active doses. There are no color changes, no closed-eye imagery, and no geometric patterns reported. The altered state is detected primarily through a general sense of being "somewhere" rather than through specific perceptual changes.
-
-Cognitive effects are minimal. One subject reported that writing seemed easy, but no profound insights or creative breakthroughs were described. The intellectual function appears to remain largely intact throughout the experience.
-
-The emotional character is neutral to slightly negative. Unlike many tryptamines that produce euphoria or anxiety, alpha,N,O-TMS seems to produce a bland emotional landscape. One subject described the aftermath as having "a residual feeling of having been cleansed," which is an unusual characterization.
-
-The compound's effects have been compared to [[a-o-dms-entity-tihkal]] (alpha,O-dimethylserotonin), which is described as an extremely potent compound at 3-4 milligrams with dramatic visual effects. The N-methylation in alpha,N,O-TMS reduces potency approximately 5-fold and substantially changes the qualitative character of the experience.
+The most consistently reported effect is erotic enhancement, which was described as both "excellent and satisfying." This body-focused quality is reminiscent of [[a-o-dms-entity-tihkal]] (alpha,O-dimethylserotonin), which is described as an extremely potent compound at 3-4 milligrams with dramatic visual effects. The N-methylation in alpha,N,O-TMS reduces potency approximately 5-fold and substantially changes the qualitative character of the experience.
 
 ## Pharmacology and Structure-Activity Relationships
 
@@ -83,12 +75,7 @@ The ketone is then subjected to reductive amination using methylamine hydrochlor
 
 ## Related Compounds
 
-The most important related compound is [[a-o-dms-entity-tihkal]] (alpha,O-dimethylserotonin), the N-demethylated parent compound that is dramatically more potent at 3-4 milligrams. The comparison between these two compounds is central to understanding the role of N-methylation in tryptamine pharmacology.
-
-Other related compounds include:
-
-- [[5-meo-dmt-entity-tihkal]] - 5-methoxy-N,N-dimethyltryptamine, which provides the N,N-dimethyl pattern
-- [[a-et-entity-tihkal]] - alpha-ethyltryptamine, exploring alpha-substitution without 5-methoxy
+The most important related compound is [[5-meo-dmt-entity-tihkal]] - 5-methoxy-N,N-dimethyltryptamine, which provides the N,N-dimethyl pattern
 - [[2-alpha-dmt-entity-tihkal]] - 2,alpha-dimethyltryptamine, another alpha-substituted compound
 
 The proposed but unsynthesized compound alpha,N,N,O-tetramethylserotonin would provide additional data on the interplay between alpha- and N-methylation.

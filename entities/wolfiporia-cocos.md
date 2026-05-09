@@ -106,16 +106,9 @@ The sclerotium holds cultural significance beyond medicine. In Chinese folklore,
 
 ## See Also
 
-- [[poria-cocos]]
 - [[wolfiporia-extensa]]
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor]]
-- [[grifola-frondosa]]
+- [[trametes-versicolor-entity]]
 - [[inonotus-obliquus]]
-- [[hericium-erinaceus]]
-- pachymic acid
 - [[laccase]]
-- [[ergothioneine]]
 - [[polypore-fungi-eastern-north-america]]
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[sclerotia-cultivation]]

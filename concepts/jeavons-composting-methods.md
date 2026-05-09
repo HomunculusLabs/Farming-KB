@@ -95,15 +95,10 @@ These are dual-purpose crops that produce both significant calories for the diet
 
 - Diseased plants or plants with severe insect attacks
 - Poisonous plants (oleander, hemlock, castor beans)
-- Plants with toxic acids (eucalyptus, walnut, juniper, [[acacia]], cypress)
-- Pernicious weeds (wild morning glory, Bermuda grass)
-- Cat and dog manures (pathogens risk)
+- Plants with toxic acids (eucalyptus, walnut, juniper, [[jeavons-soil-fertility]]
+- [[jeavons-vermicomposting-techniques]]
+- [[jeavons-vermicomposting-techniques]]
 
 ## See Also
 
-- [[jeavons-soil-fertility]]
-- [[jeavons-carbon-farming]]
-- [[jeavons-vermicomposting-techniques]]
-- [[jeavons-grow-biointensive-method-overview]]
-
-- [[jeavons-vermicomposting-techniques]]
+- [[natural-farming-guide-composting-methods-and-techniques]]

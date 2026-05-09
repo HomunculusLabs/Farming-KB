@@ -1,7 +1,7 @@
 ---
 title: "Earthworks"
 created: 2026-04-28
-tags: [permaculture, earthworks, swales, berms, terracing, keyline]
+tags: [[permaculture, earthworks, swales, berms, terracing, keyline]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
@@ -32,7 +32,7 @@ earth around for the sake of moving it. You are not a painter
 and the earth your canvas. The goal is to create geo-
 morphological conditions that increase the ecological health
 of the site. This can be accomplished by a host of design
-strategies. For more detailed swale and keyline design, see [[permaculture-designers-manual-swale-design-detailed]] and [[keyline-design-water-management]].
+strategies. For more detailed swale and keyline design, see [[keyline-design-water-management]].
 
 ## Roles of Earthworks in Design
 
@@ -41,7 +41,7 @@ Perhaps the most important is using earthworks to slow
 erosion and to create the proper conditions for plants to
 grow. Earthworks for rain water harvesting include berms,
 swales, and keylining, but berms, swales, and keylines are
-hardly the whole story of permaculture earthworks. See also [[mollison-designers-terracing-slope-stabilization]] for terracing and [[mollison-keyline-water-conservation]] for keyline systems.
+hardly the whole story of permaculture earthworks. See also [[mollison-keyline-water-conservation]] for keyline systems.
 
 ## Terracing
 
@@ -139,7 +139,5 @@ structures into a coherent whole design.
 
 ## See Also
 
-- [[mollison-keyline-water-conservation]] — keyline water conservation system
 - [[permaculture-designers-manual-swale-design-detailed]] — detailed swale design
-- [[mollison-designers-terracing-slope-stabilization]] — terracing and slope stabilization
 - [[pdc-earthworks-and-earth-resources]] — PDC earthworks course material

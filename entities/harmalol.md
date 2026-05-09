@@ -140,7 +140,9 @@ on *Peganum harmala* preparations.
 
 ## See Also
 
-- [[harmine]] — Principal β-carboline alkaloid of *Peganum harmala*, more potent MAO-A inhibitor
 - [[harmaline]] — Major β-carboline co-occurring with harmalol in Syrian rue
-- [[tetrahydroharmine-entity-tihkal]] — Fully saturated β-carboline with distinct pharmacological profile
 - [[dmt]] — Psychedelic tryptamine protected from degradation by harmala alkaloids
+
+## See Also
+
+- [[tryptamine-chemistry-and-psychedelic-pharmacology]]

@@ -113,13 +113,9 @@ Solomon's method for even spacing:
 
 ## Related Concepts
 
-- [[weed-management-strategies]]
 - [[david-holmgren]]
-- [[winter-gardening-season-extension]]
 - [[solomon-complete-organic-fertilizer-guide]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapters on root crops
-- [[root-competition-plant-spacing-solomon]]
 - [[gaias-garden-cover-crops-soil-building]]
-- [[solomon-gardening-when-it-counts-index]]
 - [[teaming-with-nutrients-fertilizer-sources]]

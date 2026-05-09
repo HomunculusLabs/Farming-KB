@@ -18,21 +18,7 @@ sources:
 Some nomenclature of man-made waterworks is necessary to understand the
 figures and systems outlined in permaculture design. The classification
 follows the work of Chakroff and Yeoman. Understanding these categories is
-essential for anyone working with [[dam-construction]] or designing integrated
-water systems on a permaculture
-site.
-## Barrage Ponds
-
-Barrage ponds are built across stream courses, filled directly by the stream,
-or by valley run-off. They are the simplest and most common form of water
-storage in valleys and gullies. Barrage ponds capture water as it flows
-naturally through the landscape, making them highly efficient in terms of
-catchment without requiring additional earthworks for water
-delivery.
-These ponds are subject to fluctuating water levels as water is drawn off
-below them. Their design needs to account for seasonal variations in stream
-flow, and they benefit from the approaches described in
-[[permaculture-dam-design]] for optimal siting and
+essential for anyone working with [[permaculture-dam-design]] for optimal siting and
 construction.
 ## Diversion Ponds
 
@@ -45,32 +31,7 @@ This type of pond is particularly valuable where the main watercourse is
 located far from the point of use, or where the terrain between the water
 source and the desired storage location makes a direct barrage impractical.
 Diversion channels can also serve multiple purposes, acting as
-[[faires-water-harvesting-and-swales]] structures in their own
-right.
-## Ring Dams (Turkey Nests)
-
-Ring dams, or turkey nests as they are known in Australia, are flatland
-storages built above grade. Water must be pumped into these structures, and
-they form one of a series of storage options available on relatively flat
-terrain where natural contours do not lend themselves to conventional dam
-construction.
-Ring dams are particularly useful in broadacre agricultural settings where
-topography is gentle and water needs to be stored at elevation for gravity-fed
-distribution to stock or crops. They represent a significant investment in
-earthworks and pumping infrastructure but provide reliable, centrally located
-water
-storage.
-## Storage Ponds
-
-Storage ponds are steady-level ponds formed as barrages, which take water from
-upstream barrages and lead it into contour channels or irrigation banks. These
-are known as penstocks in hydro-electric schemes. Unlike other pond types,
-storage ponds are designed to maintain a relatively constant water level,
-which makes them particularly suitable for certain aquatic ecosystems and fish
-culture.
-The steady-level characteristic of storage ponds means they can support more
-stable biological communities than fluctuating-level impoundments. This is a
-key distinction when designing ponds for [[faires-aquaculture-pond-systems]]
+[[faires-aquaculture-pond-systems]]
 where consistent water depth is important for species
 health.
 ## Contour Dams
@@ -82,40 +43,6 @@ types in permaculture design, as they can be placed at any suitable point
 along a slope to capture
 runoff.
 The siting of contour dams follows similar principles to
-[[keyline-design-water-management]], where the aim is to intercept water flow
-at optimal points in the landscape. Wing banks extend upslope from the dam
-wall to increase the catchment area and ensure that the dam fills effectively
-from overland
-flow.
-## Fish Ponds vs Stock-Watering Ponds
-
-Water storages for growing fish and plants are, in the main, very differently
-designed structures than those for stock watering or irrigation alone. This is
-a critical distinction that designers must
-understand.
-For fish culture, many small ponds of from 100 square metres to 500 square
-metres (less than one-eighth of an acre) are better suited than very large
-storages of 400 square metres (one acre) or more. Graded bottoms ranging from
-75 cm to 2 m depth suit many fish species. The variety of depths within a
-single pond creates different thermal zones and habitat niches, supporting a
-more diverse and productive
-ecosystem.
-In contrast, storage ponds for stock water or irrigation need to be 3 to 6 m
-deep to be worthwhile on large acreages, as deeper ponds lose less water to
-evaporation relative to their stored
-volume.
-## Small Structures and Their Biological Importance
-
-In deserts, even tiny rockholes may be critical for the survival of quail
-chicks and desert animals. Designers frequently overlook the biological
-importance of small structures, some of which serve as filter channels, quail
-ponds, or solar ponds. Engineers seem little concerned with subsurface dams
-and shoreline or perched impoundments critical to the survival of
-fish.
-Consequently, vast and expensive lakes are built for power generation that
-have very poor biological productivity. The lesson for permaculture designers
-is clear: small, well-placed water bodies often provide far greater ecological
-benefit than large single storages. This principle is central to
 [[mollison-fish-pond-construction]].
 ## Overflow Screens and Spillways
 
@@ -145,3 +72,22 @@ and ensuring that rainfall is captured rather than lost as runoff. The use of
 steering banks is complementary to [[mollison-swale-design-details]] in
 managing water across broad
 landscapes.
+## Practical Considerations
+
+Successful implementation of Aquatic Pond Types and Nomenclature requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

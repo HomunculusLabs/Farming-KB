@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: Spore Syringe Preparation"
 created: 2026-04-28
-tags: [mycology, spore-collection, sterile-technique, oss-oeric]
+tags: [[mycology, spore-collection, sterile-technique, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -98,9 +98,7 @@ isolate individual strains from a multi-strain spore germination.
 
 ## Related Topics
 
-- [[oss-oeric-rice-cake-tek-methodology]] for full cultivation cycle
 - [[oss-oeric-contamination-troubleshooting]] for sterile technique
-- [[oss-oeric-psilocybe-cubensis-strain-guide]] for species details
 - [[oss-oeric-equipment-and-materials-list]]
 - [[oss-oeric-growing-parameters-cubensis]] for environmental needs
 

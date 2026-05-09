@@ -107,16 +107,10 @@ Non-psychedelic lysergamide derivatives continue to serve important medical func
 
 ## See Also
 
-- [[1p-lsd]]
 - [[1v-lsd]]
-- [[agroclavine]]
 - [[chanoclavine]]
-- [[claviceps-purpurea]]
 - [[ergine-entity]]
-- [[ergocristine]]
 - [[ergocornine]]
-- [[ergocryptine]]
 - [[ergotamine]]
-- [[lsd]]
 - [[lysergic-acid]]
 - [[lysergol]]

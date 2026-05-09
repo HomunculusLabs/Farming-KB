@@ -69,8 +69,7 @@ The precise reasons for febrile seizures are not fully known. One hypothesis
 holds that the brain's temperature-regulating center sometimes develops at a
 slower pace than the rest of the brain, producing an "overload" to the
 neurological system during fever. Once temperature regulation is fully
-developed, febrile seizures cease. See also [[blesching-cannabis-febrile-seizures]]
-and [[cannabis-for-epilepsy-and-seizure-disorders]].
+developed, febrile seizures cease. See also [[cannabis-for-epilepsy-and-seizure-disorders]].
 
 ## Warning: Reye's Syndrome
 
@@ -105,8 +104,6 @@ unprepared to release and transcend the tension constructively.
 
 ## See Also
 
-- [[blesching-cannabis-febrile-seizures]]
 - [[cannabis-for-epilepsy-and-seizure-disorders]]
-- [[blesching-cannabis-immune-system-modulation]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-neuroprotection]]

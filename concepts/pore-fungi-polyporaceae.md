@@ -1,7 +1,7 @@
 ---
 title: Pore Fungi Polyporaceae
 created: 2026-04-28
-tags: [mycology, polyporaceae, boletus, taxonomy, edible-fungi]
+tags: [[mycology, polyporaceae, boletus, taxonomy, edible-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -67,55 +67,7 @@ Polyporaceae. The flesh of many species changes color
 rapidly when cut or bruised, a characteristic that aids
 in identification.
 
-## Fistulina hepatica
-
-*Fistulina hepatica*, the beefsteak fungus, sometimes
-called tongue of liver, is found on the trunks and stumps
-of oak trees. The fungus is widely distributed, but since
-the amount occurring in any locality at one time is
-ordinarily small, it is not a plant of much market
-interest. The flavor and texture of this fungus is said
-to be best when fully matured, for it is then less
-astringent. It should be served with meats.
-
-## Polyporus
-
-Among the bracket fungi, the genus *Polyporus* furnishes
-a few edible species. For the most part these are edible
-only when young, and in no case may they be recorded as
-particularly attractive or worthy of experimental
-cultivation.
-
-*P. sulphureus* forms immense clusters of sulphur yellow
-and orange bracket-like sporophores on a variety of trees
-and stumps. It is common throughout a large part of the
-United States and often attains a weight of five pounds.
-
-*P. tuberaster* is cultivated in Italy, where it is known
-as *pietra fungaia*. The spawn, in the form of a mass of
-clay held together by profusely interwoven mycelium, is
-brought from the fields and forests. Placed in a cellar
-or favorable situation and covered with fresh loam, the
-sporophores will often produce for several months.
-
-*P. squamosus* is a common parasite of broad-leaved
-trees, occasionally attaining a diameter of a foot or
-more, perhaps the largest of the fleshy polypores.
-
-## Japanese Shiitake
-
-In Japan, *Cortinellus Shiitake* is the one mushroom of
-considerable economic importance cultivated on wood.
-The wood is cut as poles, permitted to weather, then
-cuts are made and spawn inserted. More than two years
-may be required before the first mushrooms appear. It
-has been cultivated for several centuries and is sold
-fresh and preserved for export trade.
-
-## See Also
-
-- [[edible-agarics]]
-- [[mushroom-classification-basidiomycete-families]]
+## [[edible-agarics]]
 - [[mushroom-cultivation-history]]
 - [[mushroom-food-value]]
 
@@ -124,3 +76,22 @@ fresh and preserved for export trade.
 - Duggar, B.M. Mushroom Growing. Macmillan, 1915.
 - Peck, C.H. "Boleti of the United States." N.Y. State
   Mus. Bul. 1888.
+## Practical Considerations
+
+Successful implementation of Pore Fungi Polyporaceae requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

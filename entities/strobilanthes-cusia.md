@@ -136,15 +136,9 @@ quality for dye production compared to full sun exposure.
 Organic fertilization with composted manure is standard practice. Pesticide
 use is minimal in traditional cultivation systems. Post-harvest, roots are
 washed, sliced, and sun-dried for the medicinal trade.
-
 ## See Also
 
-- [[scutellaria-baicalensis]]
-- [[isatis-tinctoria]]
 - [[coptis-chinensis]]
-- [[phellodendron-amurense]]
 - [[berberis-vulgaris]]
-- [[angelica-sinensis]]
 - [[astragalus-membranaceus]]
-- [[glycyrrhiza-uralensis]]
 - [[rehmannia-glutinosa]]

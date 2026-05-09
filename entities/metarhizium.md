@@ -12,7 +12,8 @@ tags:
   - endophyte
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/mycelium-running-stamets.md"
 ---
 
 # Metarhizium
@@ -132,18 +133,11 @@ grow at 37C, and shows no carcinogenicity or mutagenicity. Non-target effects
 are minimal: bees are partially protected by their body temperature, and
 earthworms, birds, and aquatic organisms are unaffected. Conidia are
 UV-sensitive but persist in soil for weeks to months. No pest resistance has
-been documented in field populations, owing to the multi-target mode of action.
 ## See Also
 
-- [[metarhizium-anisopliae]]
-
 - [[fungal-biopesticides]]
-- [[mycopesticides]]
 - [[mycopesticides-entomopathogenic-fungi]]
-- [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[cordyceps-and-entomopathogenic-fungi]]
-- [[stamets-inventions-and-innovations]]
 - [[mycelium-running-pest-control-with-fungi]]
-- [[ingham-beauveria-parasitic-fungi]]
 - [[biological-nitrogen-fixation-agriculture]]
 - [[mycorrhizal-fungi-in-aact]]

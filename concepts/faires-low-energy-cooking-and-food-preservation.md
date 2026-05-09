@@ -3,11 +3,7 @@ title: Faires Low-Energy Cooking and Food Preservation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [homesteading, self-sufficiency]
-sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
----
-# Faires [[faires-chutney-and-condiment-making]] Low-Energy Cooking and Food Preservation
+tags: [[faires-chutney-and-condiment-making]] Low-Energy Cooking and Food Preservation
 
 Practical guide to off-grid cooking methods and traditional food preservation techniques.
 
@@ -107,18 +103,8 @@ Practical guide to off-grid cooking methods and traditional food preservation te
 - Squash, pumpkins, sweet potatoes, beets: fully cook before freezing
 - Frozen veg/fruit: ~1 year; baked goods: ~6 months; meat: 3-6 months
 
-### Air Drying [[faires-food-drying-and-no-energy-storage]]
-- Works for herbs, onions, garlic
-- Hang upside down in cool, dry, dark, airy room
-- Takes ~2 weeks
-- Herbs hold flavor longer when left hanging
+### Air Drying [[faires-low-energy-cooking-methods]], 
 
-## See Also
-
-[[faires-low-energy-cooking-methods]], 
-
-- [[food-preservation-canning]] — food preservation concepts
 - [[food-fermentation-guide]] — fermentation
-- [[earth-cellar-construction]] — root cellaring
 - [[passive-solar-and-biomass-energy]] — passive energy
 - [[root-cellaring-and-no-energy-food-storage]]

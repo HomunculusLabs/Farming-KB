@@ -107,14 +107,8 @@ Barrel chest mimics inflating chest to appear bigger, stronger, in control. Vuln
 
 ## Related Pages
 
-- [[cannabis-asthma-research]]
-
 - [[cannabis-and-anxiety-research]]
 
-- [[cannabis-chronic-fatigue-research]]
-
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
 - [[cannabis-seed-selection-and-strain-types]]
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
 - [[cannabis-and-ibs-research]]

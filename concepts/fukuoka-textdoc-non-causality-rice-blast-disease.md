@@ -134,8 +134,6 @@ an endless arms race against pathogens.
 
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]] for the broader
 philosophical framework
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]] for
-practical disease management in orchards
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 for cascading ecological effects of pesticide use
 - [[fukuoka-textdoc-errors-of-human-intellect]] for the

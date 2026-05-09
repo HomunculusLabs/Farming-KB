@@ -1,7 +1,7 @@
 ---
 title: Mushroom Pin Formation
 created: 2026-04-28
-tags: [mycology, cultivation, fruiting-triggers]
+tags: [[mycology, cultivation, fruiting-triggers]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -121,7 +121,5 @@ transitioning to grow-out conditions with more air exchange.
 
 - [[wysiwyg-editor]]
 
-- [[fruiting-chamber-design]]
 - [[greg-green-temperature-and-humidity-control]]
-- [[carbon-filter-cannabis]]
 - [[mushroom-yield-optimization]]

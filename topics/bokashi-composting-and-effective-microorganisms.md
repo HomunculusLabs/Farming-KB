@@ -295,7 +295,7 @@ Bokashi works synergistically with other composting and waste management techniq
 ## See Also
 
 - [[vermicomposting-and-earthworm-ecology]] — alternative indoor composting using worms
-- [[hot-composting-methods]] — traditional aerobic thermophilic composting
+- [[hot-composting-method]] — traditional aerobic thermophilic composting
 - [[the-soil-food-web]] — understanding microbial communities in soil health
 - [[korean-natural-farming]] — related microbial fermentation approach
 - [[biochar-in-regenerative-agriculture]] — combining bokashi with biochar for enhanced carbon storage

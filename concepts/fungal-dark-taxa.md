@@ -1,7 +1,7 @@
 ---
 title: Fungal Dark Taxa
 created: 2026-04-28
-tags: [mycology, sequencing, taxonomy, environmental-dna]
+tags: [[mycology, sequencing, taxonomy, environmental-dna]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -95,10 +95,7 @@ expertise needed to describe the species behind the sequences.
 
 ## See Also
 
-- [[dark-taxa-fungi]]
-
 - [[fungal-species-estimates]]
-- [[environmental-dna-fungal-survey]]
 - [[fungal-biodiversity-crisis]]
 - [[soil-mycobiome-structure]]
 - cryptomycota rozellomycota

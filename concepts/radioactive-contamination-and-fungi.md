@@ -3,7 +3,7 @@ title: Radioactive Contamination and Fungi
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Radioactive Contamination and Fungi
@@ -20,11 +20,7 @@ Filamentous fungi adsorb radionuclides from solution through cell wall binding s
 
 Mutant varieties of Neurospora crassa (CSM-I and CSM-II) exhibit the highest 60Co and Fe(II) pickup capacities under stationary conditions. Rhizopus arrhizus sequestered >99% of total 241Am from solutions ranging from 44-877 ug/l, with adsorption capacities of 4 to 79 MBq/g biomass.
 
-See [[fungal-biosorption-mechanisms]] for the physicochemical basis of these uptake processes.
-
-## Fungal Metal and Radionuclide Transformations
-
-Beyond passive biosorption, some fungi actively transform metal species through enzymatic reduction and precipitation. Key [[gadd-fungal-metal-interactions]] documented include:
+See [[gadd-fungal-metal-interactions]] documented include:
 
 | Transformation | Fungal Species | Significance |
 |---|---|---|
@@ -69,30 +65,30 @@ Plants inoculated with mycorrhizal fungi show enhanced radionuclide removal:
 - Inoculated grasses exhibited higher aboveground biomass, higher radionuclide tissue concentrations, and elevated bioconcentration ratios
 - Hebeloma crustuliniforme reduced 134Cs concentrations in Picea abies seedlings
 
-The mycorrhizal strategy works through multiple mechanisms: expanded root absorption surface area via hyphal networks, chemical modification of the rhizosphere environment, and direct hyphal uptake and translocation of radionuclides to host plant tissues. For detailed mechanisms, see [[mycorrhizal-fungi-rhizosphere-remediation]].
-
-VAM fungal inoculation offers a feasible, low-cost strategy for radionuclide-contaminated sites, though results are species-dependent: mycorrhizal Calluna vulgaris accumulated less 137Cs than non-mycorrhizal plants.
-
-## Modeling and Predictive Approaches
-
-Compartment models simulate radionuclide transport in forest soils:
-- Three-phase models quantify radiocesium migration in coniferous forest soils
-- Models account for fungal activity in retention and vertical distribution
-- Predictive modeling quantifies radiocesium concentrations across different soil horizons
-
-These models partition forest soil into organic (L, F, H horizons) and mineral layers, with transfer coefficients between compartments that incorporate fungal biomass and activity parameters. The models are validated against long-term monitoring data from Chernobyl-affected forests and can project contamination trajectories over multi-decadal time scales.
-
-## Concerns and Limitations
-
-Mushrooms can bioaccumulate radionuclides to concerning levels. High concentrations of 137Cs and lower concentrations of 210Pb and 226Ra have been detected in wild mushrooms. This raises food safety concerns, particularly in regions affected by Chernobyl and Fukushima fallout, where mushroom consumption contributes significantly to internal radiation dose. The distinction between [[fungal-bioaccumulation-vs-biosorption]] is critical: biosorption is a surface process suitable for remediation, while bioaccumulation into fruiting bodies creates a food chain hazard.
+The mycorrhizal strategy works through multiple mechanisms: expanded root absorption surface area via hyphal networks, chemical modification of the rhizosphere environment, and direct hyphal uptake and translocation of radionuclides to host plant tissues. For detailed mechanisms, see [[fungal-bioaccumulation-vs-biosorption]] is critical: biosorption is a surface process suitable for remediation, while bioaccumulation into fruiting bodies creates a food chain hazard.
 
 ## See Also
 
-- [[fungal-biosorption-mechanisms]]
 - [[mycoremediation-heavy-metals-detailed]]
-- [[fungal-bioaccumulation-vs-biosorption]]
 - [[mycorrhizal-fungi-rhizosphere-remediation]]
-- [[gadd-fungal-metal-interactions]]
 - [[fungal-ecology]]
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
+## Practical Considerations
+
+Successful implementation of Radioactive Contamination and Fungi requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

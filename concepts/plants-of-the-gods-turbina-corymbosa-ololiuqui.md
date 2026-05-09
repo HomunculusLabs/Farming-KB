@@ -62,18 +62,13 @@ The use of *Turbina corymbosa* seeds has been recorded for the
 Chinantec, Mazatec, Zapotec, Mixtec, and others in Oaxaca. They are
 known as Piule, although each tribe has its own name. The plant is
 administered to a single individual alone in a quiet, secluded place
-at night -- in contrast to [[schultes-peyote-and-mescaline]] and
-the [[schultes-psilocybe-little-flowers-gods]], which
+at night -- in contrast to [[schultes-psilocybe-little-flowers-gods]], which
 are group ceremonies.
 
 ## Chemistry
 
 Lysergic acid alkaloids are the hallucinogenic compounds of Ololiuqui.
-These indole alkaloids have also been isolated from [[plants-of-the-gods-claviceps-ergot-alkaloids]].
-Lysergic acid amide (ergine) and lysergic acid hydroxyethylamide are the
-main components. The tryptamine radical in the ring structure of lysergic
-acid establishes its relationship with ergoline alkaloids as well as with
-the active principles of [[schultes-psilocybe-little-flowers-gods]]
+These indole alkaloids have also been isolated from [[schultes-psilocybe-little-flowers-gods]]
 and the brain hormone serotonin.
 
 LSD, lysergic acid diethylamide, is a semi-synthetic compound and the
@@ -140,9 +135,7 @@ three hours and seldom has unpleasant aftereffects.
 ## Relationship to Other Hallucinogens
 
 The ergoline alkaloids of Ololiuqui place it in a chemical family that
-includes the [[plants-of-the-gods-claviceps-ergot-alkaloids]] alkaloids, the tryptamines of
-[[schultes-psilocybe-little-flowers-gods]] mushrooms, and the
-indole alkaloids of [[plants-of-the-gods-tabernanthe-iboga]].
-The [[plants-of-the-gods-chemical-structures-hallucinogens]] of these compounds reveal their fundamental molecular
+includes the [[schultes-psilocybe-little-flowers-gods]] mushrooms, and the
+indole alkaloids of [[plants-of-the-gods-chemical-structures-hallucinogens]] of these compounds reveal their fundamental molecular
 relationships to brain neurotransmitters serotonin and norepinephrine,
 explaining their powerful psychotropic effects.

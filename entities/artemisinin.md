@@ -25,7 +25,7 @@ sources:
 
 Artemisinin is a sesquiterpene lactone endoperoxide compound with potent
 antimalarial activity, isolated from the annual wormwood plant
-*Artemisia annua* (Asteraceae). It is the cornerstone of modern
+*[[artemisia-annua]]* (Asteraceae). It is the cornerstone of modern
 artemisinin-based combination therapies (ACTs), the World Health
 Organization's first-line treatment for *Plasmodium falciparum* malaria.
 
@@ -120,31 +120,8 @@ harvest timing.
 - **Semi-synthetic production:** Dihydroartemisinin (DHA) is produced by
   chemical reduction of artemisinin, then derivatized to artesunate or
   artemether.
-- **Synthetic biology:** Engineered yeast (*Saccharomyces cerevisiae*)
-  strains can produce artemisinic acid, a precursor, via the mevalonate
-  pathway. Commercialized by Sanofi in 2013, this approach supplements
-  but has not replaced agricultural production.
-
-Global artemisinin supply has historically been volatile, with
-shortages occurring when demand outstrips agricultural capacity.
-Approximately 70% of world supply comes from China, with East Africa
-(in particular Tanzania and Madagascar) emerging as additional sources.
-
-## Legal Status
-
-Artemisinin and its derivatives are classified as WHO essential
-medicines and are available by prescription in most countries for
-malaria treatment. They are not scheduled as controlled substances.
-
-⚠️ **Public health concern:** Monotherapy with artemisinin alone is
-strongly discouraged by the WHO due to the risk of resistance
-development. Only artemisinin-based combination therapies (ACTs) are
-recommended for first-line malaria treatment.
+- **Synthetic biology:** Engineered yeast (*[[psilocybin]]] — Another plant-derived bioactive compound with
 
 ## See Also
 
-- [[saccharomyces-cerevisiae]]
-
-- [[artemisia-annua]] — The source plant of artemisinin, a widely
-  cultivated medicinal herb with additional bioactive compounds.
-- [[psilocybin-compound]] — Another plant-derived bioactive compound with
+- [[herbal-medicine-making]]

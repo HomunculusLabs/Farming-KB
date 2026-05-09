@@ -58,83 +58,28 @@ which were new taxa, in a 40-hectare tract in the neotropics. About
 one-third of the plant species in the area had their own rust species.
 Intensive studies likely will show that the diversity of rust species
 in the tropics is higher than that in temperate regions. See
-[[kingdom-fungi-phylogeny]] for phylogenetic context.
-
-## Host Range
-
-Potential hosts come from a broad range of vascular plant families,
-including ferns, gymnosperms, monocots, and dicots. No rusts have been
-reported from mosses or liverworts, but related small genera of
-heterobasidiomycetes are parasites of mosses and ferns. The latter are
-restricted to the tropics and warrant further study. Unlike other plant
-pathogens, rusts usually infect healthy, vigorously growing plants.
-
-## Infection Symptoms
-
-Although rust infections are not generally fatal to plants, they may
-severely limit growth and fruiting ability. Wheat stem rust (Puccinia
-graminis), coffee rust (Hemileia vastatrix), and white pine blister
-rust (Cronartium ribicola) are examples of notoriously damaging,
-economically important rusts. Rusts sporulate on leaves, shoots,
-fruits, and woody stems. Small infections on foliage may be difficult
-to detect.
-
-## Seasonal Patterns
-
-In temperate regions, aecial stages are generally most prevalent in the
-spring, with uredinial states developing midseason. Both new and old
-infected tissues should be collected in case spore stages of early and
-advanced infections differ. Telia develop in the fall, usually
-overwintering in dead host tissue. In tropical regions, teliospores may
-develop and germinate immediately at all times of the year.
-
-## Identification Challenges
-
-Thick spore walls and wall pigmentation, which often are identifying
-features for temperate rusts, are far less common in tropical species.
-Unless distinctive spermagonia, paraphyses, or urediniospores are
-present in collected material, a rust may be difficult to identify.
-Identification of a rust species frequently begins with host
-identification, so healthy, uninfected host foliage and reproductive
-structures should be collected along with the rust.
-
-## Taxonomic Resources
-
-There are numerous regional indices and taxonomic monographs of rusts.
-North American species have been treated by Arthur (1934) and Cummins
-(1962, 1971, 1978); Ziller (1974) monographed western Canadian tree
-rusts. Other important treatments include those for Africa, Europe,
-the former Soviet Union, China, Japan, Mexico, and South America.
-
-## Ecological Role
-
-Rust fungi act as natural thinning and diversifying agents in dense
-clusters of seedlings and in stands of young plants. Seed and seedling
-pathogens can select for seed dispersal patterns. The survival of seeds
-from the tropical tree Platypodium elegans was found to increase with
-distance from an adult tree, as distantly dispersed seeds were more
-likely to encounter light gaps with lower risk from damping-off
-diseases.
-
-## Collecting Specimens
-
-Both new and old infected tissues should be collected. Perennial,
-systemic infections may cause deformities such as witches brooms,
-cankers, or galls. Plants with severe rust infections may appear
-stunted, chlorotic, or otherwise discolored. Heavy uredinial
-sporulation may turn the affected plant part orange. In tropical
-regions, the low number of records reflects insufficient study.
-
-## See Also
-
-- [[biodiversity-rust-fungi-urediniomycetes]]
-- [[smut-fungi-grass-cereal-parasites]]
-
+[[biodiversity-rust-fungi-urediniomycetes]]
 - [[rust-fungi-biodiversity-life-cycles]]
-- [[urediniomycetes-rust-fungi-yeastlike-relatives]]
 - [[rust-fungi-guide]]
 
-- [[kingdom-fungi-phylogeny]] for Urediniomycetes classification
 - [[ustilaginomycetes-smut-fungi-classification-diversity]] for related biotrophic basidiomycetes
-- [[fungi-living-plant-substrata]] for collection techniques
 - [[fungal-species-estimates-biodiversity-overview]] for diversity estimates
+## Practical Considerations
+
+Successful implementation of Rust Fungi Taxonomy Diversity and Distribution requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

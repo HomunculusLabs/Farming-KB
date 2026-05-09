@@ -132,8 +132,6 @@ micronutrients.
 
 ## See also
 
-[[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 [[fukuoka-disease-pest-management]]
-[[fukuoka-pest-management-without-chemicals]]
 [[fukuoka-natural-vegetable-growing]]
 [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]

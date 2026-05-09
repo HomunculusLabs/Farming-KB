@@ -111,8 +111,6 @@ importance of root material to below-ground carbon storage.
 
 ## See Also
 
-- [[dighton-fungi-climate-change-feedback]]
 - [[dighton-fungal-responses-climate-change]]
-- [[dighton-mycorrhizal-networks-carbon-transfer]]
 - [[fungal-stoichiometry-ecology]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]

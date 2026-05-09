@@ -117,9 +117,7 @@ Lady's mantle is essentially maintenance-free once established. Cutting back spe
 
 ## Related
 
-- [[berberis-vulgaris]]
 - [[prunella-vulgaris]]
-- [[thymus-vulgaris-entity]]
 - [[pulsatilla-vulgaris]]
 - [[artemisia-vulgaris-entity]] Species and Allies
 

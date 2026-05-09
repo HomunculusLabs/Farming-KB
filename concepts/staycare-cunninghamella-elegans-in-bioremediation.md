@@ -13,16 +13,7 @@ type: concept
 Cunninghamella elegans is a non-ligninolytic zygomycete fungus that has
 emerged as one of the most important model organisms for studying fungal
 metabolism of polycyclic aromatic hydrocarbons (PAHs). Unlike white rot
-basidiomycetes that degrade PAHs primarily through extracellular [[ligninolytic-enzymes]], C. elegans employs an intracellular cytochrome P450 monooxygenase
-system, representing a fundamentally different metabolic strategy for
-xenobiotic transformation.
-
-## Taxonomic Position and Characteristics
-
-C. elegans belongs to the order Mucorales within the Zygomycota. It is a
-filamentous fungus commonly found in soil environments worldwide. The organism is
-non-ligninolytic, meaning it does not produce the characteristic peroxidase
-enzymes ([[lignin-peroxidase-mechanism]], [[singh-manganese-peroxidase-mnp-biodegradation]]) or laccases associated
+basidiomycetes that degrade PAHs primarily through extracellular [[lignin-peroxidase-mechanism]], [[singh-manganese-peroxidase-mnp-biodegradation]]) or laccases associated
 with white rot fungi. Despite this limitation, C. elegans demonstrates
 remarkable capacity to oxidize a wide range of aromatic hydrocarbons
 through its intracellular enzymatic machinery.
@@ -118,8 +109,7 @@ requires substrate uptake into fungal cells, which can be rate-limiting
 for highly hydrophobic PAHs. Additionally, C. elegans does not generally
 achieve complete mineralization of high-molecular-weight PAHs, often
 producing conjugated metabolites that may persist in the environment.
-See also: [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]],
-[[fungal-cytochrome-p450-biodegradation]],
+See also: [[fungal-cytochrome-p450-biodegradation]],
 and Fungal Degradation of Polycyclic Aromatic Hydrocarbons.
 
 ## See Also

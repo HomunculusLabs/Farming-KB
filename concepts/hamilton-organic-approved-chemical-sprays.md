@@ -129,10 +129,6 @@ chemicals could come into contact with each other on the plant.
 
 ## Related Concepts
 
-- [[hamilton-organic-pest-control]]
 - [[hamilton-pest-and-disease-control-organic]]
-- [[hamilton-beneficial-insects-and-biological-pest-control]]
-- hamilton general garden diseases and treatment
 - [[hamilton-slug-and-snail-control]]
-- [[hamilton-organic-weed-control]]
 - [[hamilton-kelp-and-seaweed-in-organic-gardening]]

@@ -15,22 +15,7 @@ type: concept
 
 Heavy metal contamination of soils arises from mining, smelting,
 industrial discharge, agricultural chemicals, and waste disposal.
-Singh's treatment of [[mycoremediation-pahs]] details the multiple mechanisms
-by which fungi interact with heavy metal contamination, including
-biosorption, bioaccumulation, volatilization, and transformation. Fungi
-exhibit remarkable tolerance to metals toxic to most organisms, making
-them valuable agents for metal remediation.
-
-## Major Heavy Metals in Contaminated Soils
-
-### Cadmium (Cd)
-
-- **Sources**: Phosphate fertilizers, zinc smelting, battery
-  manufacturing
-- **Toxicity**: Highly toxic at low concentrations; carcinogenic (Group
-  1 IARC); causes itai-itai disease
-- **Fungal interactions**: Bioaccumulated through ZIP transporters;
-  [[aspergillus-niger-in-fungal-bioleaching]] and penicillium entity show high Cd tolerance
+Singh's treatment of [[aspergillus-niger-in-fungal-bioleaching]] and penicillium entity show high Cd tolerance
 
 ### Lead (Pb)
 
@@ -89,29 +74,7 @@ physicochemical mechanisms:
 ### Biosorption Capacity
 
 Reported capacities range from 10-120 mg metal per gram dry biomass,
-depending on the metal, fungal species, and conditions. Aspergillus niger
-shows particularly high lead binding (34-120 mg/g), while Penicillium
-chrysogenum excels at copper adsorption (15-80 mg/g).
-
-## Bioaccumulation: Active Metal Uptake
-
-Bioaccumulation involves energy-dependent, intracellular uptake:
-
-- **Transporter-mediated uptake**: Metals enter through transporters for
-  essential elements (Ca channels for Cd2+, phosphate transporters for
-  arsenate)
-- **Compartmentalization**: Accumulated metals sequestered in vacuoles
-- **Metallothionein binding**: Cysteine-rich proteins bind metals through
-  thiol groups, reducing cytoplasmic free ion concentrations
-
-## Metallothioneins and Phytochelatins
-
-### Fungal Metallothioneins
-
-Low molecular weight, cysteine-rich proteins that bind heavy metals:
-
-- **Copper metallothioneins**: Best characterized; produced by
-  Cryptococcus, [[agaricus-species-guide]], and Saccharomyces
+depending on the metal, fungal species, and conditions. [[agaricus-species-guide]], and Saccharomyces
 - **Cadmium-binding MTs**: Induced under cadmium stress
 - **Regulation**: Transcriptionally regulated by metal-responsive
   transcription factors (e.g., ACE1)
@@ -138,13 +101,6 @@ metal ions and facilitate vacuolar sequestration.
 ## Soil Interactions and Mycoremediation
 
 Fungi influence metal mobility through multiple mechanisms:
-[[arbuscular-mycorrhizal-fungi]] can reduce metal transfer to plants by
-sequestering metals or immobilizing through glomalin production. Organic
-matter decomposition releases DOC that complexes metals, increasing
-mobility, while organic acid secretion acidifies the rhizosphere,
-increasing metal solubility. Applications include mycofiltration (fungal
-mats filtering contaminated water), phytomycoremediation (plants with
-mycorrhizal fungi for enhanced extraction), and in situ immobilization
+[[mycorrhizal-fungi]] for enhanced extraction), and in situ immobilization
 (fungal inoculation precipitating metals as insoluble forms).
-
 ## See Also

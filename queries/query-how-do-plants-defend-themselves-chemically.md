@@ -26,8 +26,7 @@ growth directly, but are critical to survival.
 
 ## What Are the Main Types of Chemical Defenses?
 
-- **Alkaloids** — Nitrogen-containing neurotoxins. Examples: nicotine (tobacco),
-  caffeine (coffee), solanine (nightshade leaves).
+- **Alkaloids** — Nitrogen-containing neurotoxins. Examples: [[caffeine]] (coffee), solanine (nightshade leaves).
 - **Terpenes** — Volatile oils behind strong aromas. Mint, lavender, and
   rosemary produce terpenes that repel insects. Pyrethrins from chrysanthemums
   are natural insecticides used commercially.
@@ -66,19 +65,7 @@ pathways, making future defenses stronger and faster — called *defense priming
 ## Examples of Well-Defended Plants
 
 - **Tobacco** — produces nicotine, a powerful insect neurotoxin
-- **Deadly nightshade** — loaded with atropine and scopolamine; toxic to mammals
-- **Wild cabbage** — high glucosinolates deter most generalist insects
-- **Neem** — produces azadirachtin, which disrupts insect hormone systems
-- **Chili peppers** — capsaicin deters mammals but not birds, who spread seeds
-
-## Why Are Our Vegetables So Mild?
-
-Domestication selected for reduced bitterness and toxicity. Wild lettuce has
-bitter lactucarium; wild tomatoes have high solanine; wild brassicas are
-intensely pungent. Breeders chose sweeter, milder varieties — but this reduced
-natural pest resistance, so modern crops often need more grower intervention.
-
-## How Does Companion Planting Relate to Chemical Defenses?
+- **Deadly nightshade** — loaded with atropine and [[companion-planting]] Relate to Chemical Defenses?
 
 Many companion planting effects are driven by chemistry:
 
@@ -98,24 +85,7 @@ Understanding the chemistry helps you choose companions intentionally.
 - **Apply silica (silicon)** — Silicon accumulates in cell walls, creating a
   physical barrier that complements chemical defenses and triggers phenolic
   production. Use potassium silicate sprays or diatomaceous earth amendments.
-- **Inoculate with mycorrhizae** — These fungi transmit early warning signals
-  about pest attacks through underground networks and improve nutrient uptake,
-  giving plants resources to synthesize defensive compounds.
-- **Interplant aromatic herbs** — Volatile terpenes from rosemary, thyme, oregano,
-  and mint create a protective chemical haze that confuses pest insects.
-- **Avoid excessive nitrogen** — High N produces soft growth attractive to pests
-  and lower in defensive compounds.
-
-## Why Do Healthy Plants Defend Better?
-
-A nutrient-stressed plant redirects resources from defense to basic survival.
-Well-fed plants with balanced nutrition can afford costly secondary metabolites.
-A strong root system supported by mycorrhizae and organic soil biology ensures
-steady access to the carbon and minerals that defense chemistry requires.
-
-## The Role of Mycorrhizae in Defense Signaling
-
-Mycorrhizal fungi form symbioses with over 80% of plant species. Beyond
+- **Inoculate with [[mycorrhizal-fungi]] form symbioses with over 80% of plant species. Beyond
 nutrient exchange, they serve as an underground communication network. When one
 plant is attacked, it sends chemical signals through the common mycorrhizal
 network, prompting neighbors to pre-activate defenses — a process called "plant
@@ -134,6 +104,5 @@ soil fungal populations.
 
 ## See Also
 
-- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
-- [[companion-planting]]
+- [[mycorrhiza]]
 - [[mycorrhiza]]

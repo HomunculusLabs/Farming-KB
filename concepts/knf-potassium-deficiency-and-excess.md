@@ -1,7 +1,7 @@
 ---
 title: "KNF Potassium Deficiency and Excess"
 created: 2026-04-28
-tags: [knf, natural-farming, potassium, deficiency, plant-health]
+tags: [knf, [[natural-farming]], potassium, deficiency, plant-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
@@ -14,8 +14,7 @@ Water-soluble potassium (WS-K) is extracted from tobacco stems and
 plays critical roles in enzyme activation, photosynthate translocation,
 stomatal regulation, and fruit quality. Understanding both deficiency
 and excess symptoms ensures proper application timing and dosage.
-This page complements [[knf-calcium-deficiency-symptoms]] and other
-nutrient deficiency guides in the [[natural-farming-fpj-preparation]] system.
+This page complements [[natural-farming-fpj-preparation]] system.
 
 ## Functions of Potassium in Plants
 
@@ -98,43 +97,4 @@ Applying too much WS-K can cause secondary problems:
 1. Magnesium deficiency occurs if the potassium level is excessive.
    High potassium competes with magnesium for uptake, causing the
    plant to suffer from magnesium shortage even when soil magnesium
-   levels are adequate. For more on magnesium in cannabis, see [[cervantes-secondary-nutrient-deficiency]].
-
-2. Symptoms resemble gas disorder and appear in the middle part of
-   leaves, presenting as interveinal chlorosis or necrosis.
-
-## Environmental Conditions for WS-K Application
-
-1. Optimum temperature range: 23 to 25 degrees C for both
-   preparation and application.
-
-2. Select a cool, shaded area with no direct sunlight when preparing
-   or storing WS-K solutions.
-
-## Critical Weather Precautions
-
-Weather conditions must be carefully considered when applying WS-K:
-
-- If WS-K is applied with nitrogen in hot and humid conditions, a
-  synergy effect occurs that helps plants absorb nitrogen, potentially
-  causing overgrowth.
-- WS-K applied on a rainy day enhances nitrogen absorption through
-  the synergy effect, which may lead to excessive vegetative growth
-  rather than balanced development.
-- In hot and humid weather, reduce WS-K application rates to prevent
-  overgrowth stimulation.
-
-## Preparation from Tobacco Stems
-
-WS-K is made by steeping dried tobacco stems in water:
-
-1. Dry tobacco stems and cut them into pieces. Do not grind too fine
-   to avoid making powder that is difficult to strain.
-2. Put 1 kg of tobacco stem pieces in a hemp or cotton cloth bag.
-3. Dip the bag in 5 liters of water to dissolve potassium.
-4. Allow approximately 7 days for extraction (crude liquid of
-   natural potassium).
-5. For application, dilute 0.7 liters of crude potassium liquid with
-   20 liters of water.
-
-For other [[knf-lab-culturing-and-uses]], see that page.
+   levels are adequate. For more on magnesium in cannabis, see [[knf-lab-culturing-and-uses]], see that page.

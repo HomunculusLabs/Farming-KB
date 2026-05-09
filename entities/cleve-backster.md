@@ -19,26 +19,20 @@ tags:
   - polygraph
   - plant-consciousness
   - biocommunication
-sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---
 
 # Cleve Backster
 
 Cleve Baxter Backster (February 27, 1924 – June 24, 2013) was an American
 polygraph examiner and interrogation specialist best known for his controversial
-claims about "[[tompkins-cleve-backster-primary-perception]]" — the theory that all living cells possess the
-ability to perceive and respond to human thoughts, intentions, and emotions.
-His 1966 experiments [[mycelium-running-partnerships-with-plants]], eggs, and human cells, conducted using
+claims about "[[mycelium-running-partnerships-with-plants]], eggs, and human cells, conducted using
 polygraph instrumentation, made him one of the most prominent figures in fringe
 science and parapsychology. His work was popularized through Peter Tompkins and
 Christopher Bird's bestselling *The Secret Life of Plants* (1973) and remains a
 cultural reference point in discussions about plant intelligence and the
-boundaries [[mckenna-food-gods-designer-states-of-consciousness]].
-
-## Early Life and Military Career
-
-Backster was born on February 27, 1924, in Lafayette, Colorado. During World
-War II he served in the [[psychedelic-research-legal-history-united-states]] Navy and was assigned to the Counter
+boundaries [[psychedelic-research-legal-history-united-states]] Navy and was assigned to the Counter
 Intelligence Corps, where he first encountered lie detection technology. His
 military training in interrogation and counterintelligence laid the groundwork
 for his career as one of America's foremost polygraph experts.
@@ -132,19 +126,7 @@ remains his only peer-reviewed publication on the subject. He was featured in
 Secret Life of Plants* (directed by Walon Green, soundtrack by Stevie Wonder).
 
 Backster's work introduced the concept of plant consciousness to a massive
-popular audience and influenced environmental and [[fukuoka-natural-farming-new-age]] movements. The
-Backster School of Lie Detection continues to operate as his most concrete
-professional legacy. Recent decades have seen a resurgence of legitimate
-research into plant signaling and intelligence — including the work of Stefano
-Mancuso, Charles Darwin's "root-brain" hypothesis, and Monica Gagliano's
-research on plant learning and memory — though these modern researchers
-carefully distance themselves from Backster's parapsychological claims.
-
-## Related Entities
-
-- [[jagadis-chandra-bose]] — Historical precursor who pioneered plant
+popular audience and influenced environmental and [[jagadis-chandra-bose]] — Historical precursor who pioneered plant
   electrophysiology research using sensitive instruments
-- [[marcel-vogel-plant-communication]] — IBM research scientist who claimed independent replication
-  of some of Backster's plant findings
 - [[mimosa-pudica]] — The sensitive plant, used as a model organism in plant
   perception research including Backster's experiments

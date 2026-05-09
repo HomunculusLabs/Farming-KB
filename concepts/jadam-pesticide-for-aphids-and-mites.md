@@ -88,4 +88,4 @@ Aphids and mites are the most common and earliest pests in organic farming. JADA
 - [[jadam-herb-solution-jhs]] -- how to make the herb extracts used here
 - [[jadam-wetting-agent-jwa]] -- essential surfactant, the core of all JNP
 - [[jadam-pesticide-for-sucking-insects]] -- stronger formulation for stinkbugs, thrips, whiteflies
-- cannabis pest management -- JADAM pesticides adapted for cannabis
+- [[cannabis-pest-management]] -- JADAM pesticides adapted for cannabis

@@ -128,9 +128,6 @@ and avoid accidental overconsumption.
 
 ## Related
 
-- [[lemon-cannabis-alchemy-translucent-honey-oil]]
-
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]
 - [[lemon-cannabis-alchemy-isomerization]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]

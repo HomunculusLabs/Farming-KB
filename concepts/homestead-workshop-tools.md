@@ -3,13 +3,13 @@ title: Homestead Workshop and Tools
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, equipment, construction, tools, workflow]
+tags: [homesteading, equipment, construction, tools, workflow]
 sources: []
 ---
 
 # Homestead Workshop and Tools
 
-a homestead workshop is where you build, repair, and maintain everything from fence posts to furniture to animal shelters. Unlike a specialist's shop, a homestead workshop must be versatile — covering carpentry, metalwork, plumbing, electrical, and mechanic work with a single set of tools.
+A homestead workshop is where you build, repair, and maintain everything from fence posts to furniture to animal shelters. Unlike a specialist's shop, a homestead workshop must be versatile — covering carpentry, metalwork, plumbing, electrical, and mechanic work with a single set of tools.
 
 ## Workshop Layout
 
@@ -22,7 +22,7 @@ Design the workshop around workflow zones similar to [[homestead-kitchen-design]
 - **Power tool station** — near outlets, ideally on a mobile cart for flexibility.
 - **Cleaning/solvent area** — near a door or ventilation. Parts washer if you do engine work.
 
-Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per [[square-foot-gardening]]. A dedicated 20-amp circuit for heavy tools.
+Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per square foot. A dedicated 20-amp circuit for heavy tools.
 
 ## Essential Hand Tools
 
@@ -92,3 +92,4 @@ Prioritize the workbench first — a solid, flat, stable surface makes every pro
 ## Related
 
 - [[homestead-tool-maintenance]]
+

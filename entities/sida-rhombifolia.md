@@ -90,12 +90,10 @@ properties and as a source of fiber.
 
 | Compound | Class | Notes |
 |----------|-------|-------|
-| Ephedrine | Alkaloid | Sympathomimetic amine, mild stimulant |
-| Pseudoephedrine | Alkaloid | Decongestant properties |
-| Sida alkaloids | Alkaloid | Including vasicine (peganine) |
+| [[vasicine]] (peganine) |
 | Vasicine (peganine) | Quinazoline alkaloid | Bronchodilator, uterotonic |
 | Vasicinone | Quinazoline alkaloid | Related to vasicine |
-| Flavonoids | Flavonoid | Quercetin, kaempferol derivatives |
+| Flavonoids | Flavonoid | [[kaempferol]] derivatives |
 | Phenolic acids | Phenolic | Chlorogenic, caffeic acids |
 
 The presence of ephedrine and pseudoephedrine in S. rhombifolia
@@ -141,10 +139,7 @@ areas.
 - **Uncontrolled worldwide** — not listed on any international drug convention
 - Widely available as a weed; sold in some herbal markets in Brazil, India, and Southeast Asia
 - Ephedrine content is minimal and does not trigger ephedrine-related regulations in most jurisdictions
-
 ## See Also
-
-- [[sida-cordifolia]]
 
 - [[leonurus-sibiricus]]
 - [[mimosa-tenuiflora]]

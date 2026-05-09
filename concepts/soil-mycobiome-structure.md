@@ -1,7 +1,7 @@
 ---
 title: Soil Mycobiome Structure
 created: 2026-04-28
-tags: [mycology, soil-ecology, microbial-ecology, biodiversity]
+tags: [[mycology, soil-ecology, microbial-ecology, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -106,8 +106,6 @@ for ITS amplification significantly affects community composition estimates.
 
 ## See Also
 
-- [[fungal-species-estimates]]
 - [[environmental-dna-fungal-survey]]
-- [[mycorrhizal-fungal-diversity]]
 - [[fungal-dark-taxa]]
 - [[fungal-functional-groups]]

@@ -68,43 +68,6 @@ North American cuisine.
   and Asia
 - Fruiting in late summer to autumn
 - Dried porcini have an intensified flavor and long shelf life
-- See [[mycorrhizal-edible-mushroom-species-overview]] for additional detail
-
-## Golden Chanterelle (Cantharellus cibarius)
-
-The Chanterelle is perhaps the most widely recognized and collected
-wild gourmet mushroom. Its golden color, fruity apricot-like aroma,
-and excellent flavor have made it a favorite across cultures.
-
-- Ectomycorrhizal with oaks, conifers, and various hardwoods
-- Cap 2-12 cm, funnel-shaped, egg-yolk yellow to deep golden
-- Distinguished by forked ridges (false gills) instead of true
-  gills, and solid (not hollow) stem
-- Spores pale yellow, elliptical, 7-10 x 4-6 microns
-- Common in mixed hardwood-conifer forests
-- Summer through autumn fruiting in temperate regions
-- Several lookalikes exist, including the toxic Jack O'Lantern
-  (Omphalotus olearius) which has true gills and glows in the dark
-
-## Truffles (Tuber spp.)
-
-Truffles are subterranean fungi that grow underground in association
-with tree roots. The most prized species include the Italian White
-Truffle (Tuber magnatum) and the French Black Perigord Truffle
-(Tuber melanosporum). These fungi have been harvested for centuries
-using specially trained dogs or pigs.
-
-- Ectomycorrhizal with oaks, hazelnuts, beeches, and pines
-- Fruiting bodies develop 5-30 cm underground
-- Located by scent using trained animals (traditionally pigs,
-  now more commonly dogs)
-- White truffles: strongest aroma, highest prices, cannot be
-  cultivated reliably
-- Black truffles: successfully cultivated in truffle orchards
-  (truffieres) in France, Spain, Italy, Australia, and North
-  America
-- Trees are inoculated at planting with truffle spore inoculum;
-  fruiting typically begins 5-10 years after planting
 - See [[mycorrhizal-mushrooms-forest-partnerships-stamets]] for details
 
 ## Satellite Planting Technique
@@ -134,8 +97,6 @@ Most mycorrhizal gourmet mushrooms require:
 
 ## Related Topics
 
-- [[mycorrhizal-edible-mushroom-species-overview]]
 - [[mycorrhizal-mushrooms-forest-partnerships-stamets]]
-- [[growing-gourmet-natural-culture-myco-landscaping]]
 - [[ectomycorrhizal-fungal-ecology]]
 - [[mycorrhizal-fungi-basics-lowenfels]]

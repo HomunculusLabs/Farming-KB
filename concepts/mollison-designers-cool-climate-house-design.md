@@ -1,19 +1,7 @@
 ---
 title: "Cool Climate House Design"
 created: 2026-04-26
-tags: [permaculture, passive-solar, building-design, thermal-mass, insulation]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
-type: concept
----
-
-# Cool Climate House Design
-
-In Permaculture: A Designers' Manual, Bill Mollison outlines principles
-for designing dwellings in cool and temperate climates where heating demand
-dominates energy consumption. The approach integrates [[passive-solar-design]]
+tags: [[passive-solar-design]]
 design, thermal mass management, wind protection, and frost avoidance into
 a holistic strategy that minimises energy input while maximising comfort.
 
@@ -138,8 +126,6 @@ are:
 
 ## Related Concepts
 
-- [[passive-solar-design]]
 - [[faires-thermal-mass-applications-in-building]]
-- [[mollison-windbreak-design]]
 - [[earth-sheltered-structures-permaculture]]
 - [[building-with-natural-materials]]

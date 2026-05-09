@@ -18,7 +18,6 @@ describes foliar feeding as a valuable technique for
 delivering a fast fix for nutrient deficiencies and
 supplementing regular root feeding programs.
 
-See also: [[cervantes-nutrient-management]]
 See also: [[cervantes-macronutrient-deficiency-toxicity]]
 
 ## How Foliar Feeding Works
@@ -78,72 +77,8 @@ with urea-based fertilizers and keep them diluted.
 Urea also carries other nutrients into the plant
 when used as a carrier.
 
-See also: [[cervantes-micronutrient-deficiency-chelation]]
-
-## Best Practices for Effective Spraying
-
-Cervantes provides detailed guidelines for maximizing
-foliar feeding effectiveness:
-
-1. **Spray the bottom of leaves.** The undersides
-   have more stomata and thinner cuticles. Use a
-   fine mist without creating large droplets on the
-   leaves. Fine mist is electrically attracted to
-   foliage. Even young marijuana plants have waxy
-   hairs that can impair liquid penetration.
-
-2. **Do not spray plants that are hot.** Spray in low
-   light, either before lights go off or just as
-   they come on. If spraying in hot conditions, first
-   spray everything with plain water to cool the room
-   and foliage before applying the nutrient spray.
-   Spraying when foliage is hot causes the solution
-   to crystallize on the surface, blocking
-   penetration.
-
-3. **Apply mobile nutrients sparingly.** Immobile
-   nutrients often require multiple applications.
-
-4. **Foliar spray of potassium** can help flowering
-   progress, especially if temperatures dip below
-   50 degrees F (10 degrees C) or above 80 degrees
-   F (25 degrees C).
-
-5. **Always spray new growth.** The thin, waxy layer
-   and fewer trichomes allow for better penetration.
-
-6. **Measure spray pH** and keep it between 7 and
-   8.5. Potassium phosphate becomes phytotoxic below
-   pH 4 and above pH 8.5. Stomata close within these
-   extreme pH ranges.
-
-7. **Use a surfactant** with all sprays to reduce
-   surface tension and improve coverage. Apply per
-   label instructions.
-
-8. **Add the proper amount of surfactant** so
-   droplets do not form on leaves. Once formed,
-   droplets roll off foliage, rendering the spray
-   ineffective.
-
-9. **Stop the application before droplets form.** Make
-   a test spray on a mirror to ensure the spray is
-   even and does not form rolling droplets.
-
-10. **Spray with as fine a mist as possible** to
-    minimize droplet size and maximize coverage.
-
-## Precautions
-
-- Do not spray with lights on in hot conditions
-- Do not spray buds during late flowering, as the
-  moisture can promote bud rot (Botrytis)
-- Avoid spraying during the last two to three weeks
-  of flowering to prevent residue on buds
-- Keep foliage clean and avoid sprays that leave
-  filmy residues that can clog stomata
-- Foliar feeding should not replace regular root
-  feeding; it is a supplement, not a primary
-  nutrient delivery method
-
 See also: [[bud-rot-cannabis]]
+
+## See Also
+
+- [[lowenfels-nutrients-foliar-feeding-sap-analysis]]

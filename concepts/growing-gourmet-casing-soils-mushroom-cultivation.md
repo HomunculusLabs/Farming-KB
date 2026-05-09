@@ -140,8 +140,6 @@ the microclimate necessary for this critical transition.
 
 ## Related Topics
 
-- [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-king-stropharia-cultivation]]
 - [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
 - [[growing-gourmet-reishi-cultivation]]

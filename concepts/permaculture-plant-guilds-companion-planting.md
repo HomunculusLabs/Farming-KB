@@ -7,7 +7,7 @@ sources:
 type: concept
 tags: [culture, permaculture, plant-systems, plants]
 ---
-# [[permaculture-plant-guilds]] and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+# [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 Plant guilds are functional groupings of species that work together
 cooperatively, each performing multiple roles that support the others. The
 concept is borrowed from ecology, where a guild describes the community of
@@ -90,54 +90,11 @@ Energies and materials always accumulate at the edges -- soil and debris are
 blown by wind against fences or walls. Increased edge creates more surface
 area, more microclimates, and more productive landscapes. When building garden
 beds or ponds, edge is taken into account by avoiding simple rectangles or
-circles in favor of more complex shapes like [[herb-spiral]]s, keyhole beds, and
-branching paths.
-
-## Diversity for Stability
-
-By growing many different kinds of things, food is available year-round. When
-onion season ends, leek season begins. When kale goes to seed, the first
-lettuce heads are ready. In a well-designed orchard, early, mid, and late
-season apple trees grow next to each other. With canning, drying, and
-freezing, preserved food is available all year.
-If this were an industrial monocrop farm, tons of food would need to be
-shipped in, or diets would become very limited. Diversity provides both
-stability and abundance -- the important stuff.
-
-## Useful Companion Plant Categories
-
-### Nitrogen Fixers
-
-Plants that fix atmospheric nitrogen through symbiotic bacteria in root
-nodules:
-- Trees: alder, black locust, [[tagasaste]], mesquite, [[acacia]], leucaena,
-  gliricidia, [[carob]], honey locust, autumn olive, russian olive, sesbania
+circles in favor of more complex shapes like [[tagasaste]], mesquite, [[carob]], honey locust, autumn olive, russian olive, sesbania
 - Shrubs: siberian pea shrub, tree medic, pigeon pea, lab-lab bean
 - Herbaceous: clover, lucerne/alfalfa, vetch, lupin, beans, peas, fenugreek
 
-### [[dynamic-accumulators]]
-
-Deep-rooted plants that mine minerals from subsoil and bring them to the
-surface through leaf drop:
-- Comfrey (potassium)
-- Chicory (minerals from deep taproot)
-- Yarrow (minerals, insectary)
-- Dandelion (minerals, early bee forage)
-- Buckwheat (phosphorus accumulator)
-
-### Insectary Plants
-
-Plants that attract beneficial insects for pollination and pest control:
-- Umbellifers: dill, fennel, parsley, caraway, coriander, queen anne's lace
-- Composites: yarrow, chamomile, tansy, sunflower, daisies
-- Others: borage, lavender, bergamot, clover
-
-### Pest Control Plants
-
-Plants with natural pest-deterrent properties:
-- Marigold (Tagetes spp.) -- nematodes
-- Pyrethrum daisy -- broad-spectrum insecticide
-- White cedar and [[neem]] -- insecticide
+### [[neem]] -- insecticide
 - Tobacco -- insecticide
 - Derris root (Derris elliptica) -- insecticide
 - Rhubarb -- insecticide

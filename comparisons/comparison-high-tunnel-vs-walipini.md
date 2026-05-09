@@ -1,7 +1,7 @@
 ---
 title: High Tunnel vs Walipini ([[underground-greenhouse-walipini]])
 created: 2026-04-28
-tags: [high-tunnel, walipini, greenhouse, [[solomon-row-covers-and-season-extension]], protected-culture, [[comparison-passive-solar-vs-earth-sheltered]], passive-solar, underground-greenhouse, hoophouse, polycarbonate]
+tags: [high-tunnel, walipini, greenhouse, [[comparison-passive-solar-vs-earth-sheltered]], passive-solar, underground-greenhouse, hoophouse, polycarbonate]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -17,13 +17,7 @@ type: comparison
 ## Overview
 
 A **high tunnel** (also called a hoophouse) is an unheated, polyethylene-covered hoop structure
-typically anchored directly into the soil.[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] r gain and passive ventilation to
-extend the growing season by 4–8 weeks on either end, and it is the most accessible
-season-extension tool for market gardeners and homesteaders. High tunnels have no permanent
-foundation or heating system, distinguishing them from traditional greenhouses.
-
-A **walipini** is an earth-sheltered (underground or partially buried) greenhouse that uses the
-earth's [[comparison-windbreak-vs-thermal-mass]] and stable subsurface temperature (~50–60 °F at 4–6 ft depth) to moderate
+typically anchored directly into the soil.[[comparison-windbreak-vs-thermal-mass]] and stable subsurface temperature (~50–60 °F at 4–6 ft depth) to moderate
 internal climate. Originating in the high-altitude Altiplano of South America through work by
 the Benson Institute, walipinis leverage passive solar design with a south-facing glazed wall
 (in the Northern Hemisphere) to capture heat while the surrounding earth insulates against
@@ -144,6 +138,5 @@ would fail outright in an unheated high tunnel.
 - Vulnerable to extreme wind events if not properly anchored and tensioned
 ## See Also
 
-- [[eliot-coleman]]
 - [[passive-solar-design]]
 - [[rammed-earth]]

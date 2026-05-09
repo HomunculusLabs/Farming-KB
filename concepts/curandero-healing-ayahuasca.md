@@ -20,17 +20,7 @@ The curandero (healer) in Amazonian vegetalismo diagnoses and treats
 illnesses that Western medicine cannot address -- conditions caused
 by sorcery, evil spirits, and spiritual imbalance. The healing
 practice integrates ayahuasca-preparation|ayahuasca visions,
-[[icaros-power-songs]] (power songs), plant medicines, and
-spiritual intervention. Pablo Amaringo's paintings document numerous
-healing methods across a wide range of conditions.
-
-## Types of Illness Treated
-
-Curanderos treat illnesses falling outside conventional medicine:
-
-- **Mal aire**: Illness produced by an evil breeze, either from the
-  land (mal aire) or from water (mal aire del agua)
-- **Sorcery-induced illness**: Caused by [[ayahuasca-sorcery-types]], marupa, or huani sorcery
+[[ayahuasca-sorcery-types]], marupa, or huani sorcery
 - **Manchari** (fright): Sudden fright that settles in the body
 - **Kapukiri**: A substance from rotten leaves that enters the body
 - **Saladera**: A condition of impurity or bad luck
@@ -57,93 +47,66 @@ The curandero employs several diagnostic techniques:
 ## Extraction of Illness
 
 A core healing technique involves extracting pathogenic agents from
-the patient's body. The vegetalista takes his [[mariri-phantom-sorcery]] out "in the shape of white vipers that extract the thorns."
-He sucks disease with the mann of his throat. Virotes embedded by
-sorcerers are extracted and stored in bottles for disposal. The healer
-blows smoke, perfume, or camphorated water on the patient while
-singing the appropriate icaro.
-
-## The Millaipa-Huarmi: Gatherers of Sickness
-
-Two women called Millaipa-huarmi (ugly woman) perform the essential
-task of gathering the sickness extracted by the curandero. The
-younger one, dressed in sky-blue, picks up the sickness and contains
-it in her hands. If the patient does not diet properly, she returns
-the sickness and the patient worsens. If the patient cooperates, she
-places the evil spell in the lap of the aged woman, dressed in
-lilac, who makes it disappear inside the whirlwind of her large
-dress. The sickness then returns no more.
-
-## Treatment of Specific Conditions
-
-**Kapukiri**: Treated with the icaro del kapukiri and leaves of
-catahua negra (Hura crepitans). Different trees produce different
-varieties -- from headache (puka-lupuna) to nervousness (ajosquiro)
-to rapid death within days (huairacaspi).
-
-**Boa chichuchishca**: When a menstruating woman leaves wet underwear
-in a canoe, a boa produces something living that grows in her. The
-healer sings icaros to extract it, using jagua prepared with arkanas,
-and calls upon precious stones for protection against larvae.
-
-**Cungatuya**: Caused when a sorcerer's bat drops its yachay (phlegm)
-into water. The healer cures by sucking the disease with the mann of
-his throat, while posting guards to prevent intrusion.
-
-**Mal aire**: Treated with the icaro of the yana-puma and leaves of
-achote (Bixa orellana). The patient is fanned while staring at the
-sunrise and sunset.
-
-## Incorporation Healing
-
-A specialised technique involves the healer entering the patient's
-body to cure from within. The healer gets into the patient, who
-feels as if dying, but the healer cures by blowing a strong perfume
-and singing the corresponding icaro. This is used for conditions
-like eye damage caused by a sorcerer casting light from a magic lamp.
-
-## Soul Retrieval
-
-When a patient's soul is stolen by sorcerers (leaving the body
-inert), the vegetalista summons his powers -- the nina-caballo
-(horse of fire), huaira-kuros (air worms), yachay cometas (phantom
-comets), and yura-chirapa (white rainbow) -- to paralyse the guards
-and return the soul. This is among the most dangerous healing
-operations.
-
-## Recovery of Kidnapped Persons
-
-The [[banco-sumiruna-muraya]] retrieves people kidnapped by
-[[yakuruna-water-spirits-of-the-amazon]] or Chullachaki. He raises a
-whirlwind with his animal genies to force the spirit to return the
-captive. If the kidnapped person's eyes, feet, and head are all
-twisted backwards, recovery is impossible.
-
-## The Role of Diet in Healing
-
-After healing, patients must maintain a strict diet for the cure
-to hold. If a patient who has been treated with icaros and blows
-eats hen's meat, the sickness returns with greater force and may
-be fatal. The curandero advises patients about food and other
-prescriptions. The punga tree (Bombax munguba) strengthens the
-mariri for continued healing work.
-
-## Medicinal Plants in Healing Practice
-
-Curanderos employ a vast pharmacopoeia: capirona bark for diabetes,
-muena (Endlicheria williamsii) for snake bites, pajaro bobo for
-diarrhoea and sexual potency, timareba ashes for polio baths, and
-shikshi huama (Dictyoloma Peruvianum) for calming sexual desire and
-cancerous ulcers. Other plants include michiquipanga (Renealmia
-alpina), Santa Maria (Pothomorpha peltata), una de gato (Uncaria
-tormentosa), and toe (Brugmansia sp.). Yaku-yarinilla poultices treat
-rheumatic pain and hemorrhoids. The spirits inside these plants
-explain to the vegetalistas how they are to be used.
-
-## See Also
-
-- [[shamanic-powers-ayahuasca]] -- Powers used in healing
-- [[ayahuasca-sorcery-types]] -- Sorcery that healers must counter
+the patient's body. The vegetalista takes his [[banco-sumiruna-muraya]] retrieves people kidnapped by
+[[shamanic-powers-ayahuasca]] -- Powers used in healing
 - [[mariri-phantom-sorcery]] -- The mariri in extraction healing
-- [[plant-teachers-ayahuasca]] -- Sources of healing knowledge
 - [[banco-sumiruna-muraya]] -- Hierarchy of healing practitioners
+## Practical Considerations
+
+When working with Curandero Healing Practice in Ayahuasca Shamanism, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

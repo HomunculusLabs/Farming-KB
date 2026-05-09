@@ -1,11 +1,3 @@
----
-title: "MME (2,4-DIMETHOXY-5-ETHOXYAMPHETAMINE) -- PIHKAL Entry #136"
-created: 2026-04-23
-updated: 2026-04-23
-type: entity
-tags: [phenethylamines, pihkal]
-sources: ["Shulgin - PIHKAL"]
----
 # MME
 
 PIHKAL entry #136. 2,4-DIMETHOXY-5-ETHOXYAMPHETAMINE.
@@ -87,43 +79,7 @@ But there are two very valuable things that have come out of this
 simple study with MME. One is, of course, that it is an active
 compound and as such warrants additional attention. And the other,
 and even more important, is that as one of the three possible ethoxy
-homologues of TMA-2, it is less active than MEM. The third possible
-ethoxy compound is EMM and, as will be found elsewhere in this book,
-it is even less active. Thus it is MEM, only, that maintains the
-potency of TMA-2, and this was the initial observation that really
-focused my attention on the importance of the 4-position.
-
-## Synthesis
-
-A solution was made of 166 g ethylvanillin
-(4-ethoxy-3-methoxybenzaldehyde) in 600 mL glacial acetic acid and
-arranged so that it can be stirred continuously, magnetically, and
-cooled as needed with an external ice bath. There was then added a
-total of 218 g of 40% peracetic acid in acetic acid, at a rate that
-permitted the temperature to stay at 25 deg C with the continuous
-application of the ice bath. The temperature should not drop below 23
-deg C (the reaction stops) but it absolutely cannot be allowed to exceed
-29 deg C (the reaction can no longer be controlled). The addition takes
-about 1.5 h. At the end of the reaction, there was added 3 volumes of
-H2O, and all acids were neutralized with solid K2CO3. The 3 or so L
-of black, gooey mess was extracted with 2x400 mL boiling Et2O which,
-on pooling and evaporation, provided 60 g of a black oil which was a
-mixture containing mainly the intermediate formate and the product
-phenol. This was treated with 300 mL 10% NaOH, and heated on the
-steam bath for 1 h. After cooling, this was washed with 2x150 mL
-CH2Cl2 (discarded), acidified with HCl, and extracted with 3x200 mL
-Et2O. The pooled extracts were washed with 2x200 mL saturated NaHCO3,
-and then the Et2O was removed under vacuum. The residual black oil,
-41.3 g, was distilled at 1.0 mm/Hg to give a fraction boiling at
-140-145 deg C as a pale amber oil that set up as crystals. The weight of
-the isolated 4-ethoxy-3-methoxyphenol was 29.1 g. An analytical
-sample had a mp of 45.5-46 deg C. This product can be used either for
-the synthesis of MME (see below) or for the synthesis of EME (see
-separate recipe). A solution of 0.5 g of this phenol, and 0.5 g
-methyl isocyanate in 10 mL hexane containing 1 mL CH2Cl2 was treated
-with three drops of triethylamine. In about 1 h, there was the
-spontaneous formation of white crystals of 4-ethoxy-3-methoxyphenyl
-N-methyl carbamate, with a mp of 104-105 deg C.
+homologues of [[n-methyl-pea-entity]] carbamate, with a mp of 104-105 deg C.
 
 A solution of 14 g of the distilled, solid 4-ethoxy-3-methoxyphenol in
 20 mL MeOH was treated with a solution of 5.3 g KOH in 100 mL hot
@@ -142,8 +98,6 @@ the ethylation of 2,4-dimethoxyphenol, which is described in the
 
 ## See Also
 
-- [[2-4-dma-entity-pihkal]]
-
-- [[tma-2-entity-pihkal]]
+- [[tma-2-entity]]-pihkal
 
 - [[p-entity]]

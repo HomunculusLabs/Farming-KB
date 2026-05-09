@@ -129,11 +129,11 @@ P. vulgaris offers multiple functions in permaculture design:
 
 ## See Also
 
-- [[calluna-vulgaris]]
-
 - [[rosmarinus-officinalis-entity]]
-- [[salvia-officinalis]]
-- rosmarinic acid
 - [[ursolic-acid]]
 - lamium album
 - stachys officinalis
+
+## See Also
+
+- [[permaculture-plants-food-forest-ground-covers-bamboos]]

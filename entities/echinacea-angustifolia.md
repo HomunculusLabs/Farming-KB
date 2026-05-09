@@ -111,11 +111,8 @@ Wild harvesting has been a significant conservation concern. Commercial demand p
 
 ## See Also
 
-- [[echinacea-purpurea]] — The most commercially cultivated Echinacea species
 - [[astragalus-membranaceus]] — Another deep-rooted immunomodulatory herb used in traditional medicine
-- [[hypericum-perforatum]] — St. John's wort, a co-administered herb for immune and mood support
 - [[spilanthes-acmella]] — Spilanthes, an immunostimulatory herb with a different mechanism
-- [[cannabidiol-cbd]] — CBD shares CB2 receptor modulation with Echinacea alkylamides
 - [[taraxacum-officinale]] — Dandelion, another deep-rooted Asteraceae with traditional medicinal use
 - goldenseal — Hydrastis canadensis, another overharvested native American medicinal plant
 - [[verbascum-thapsus]] — Mullein, a co-administered herb for respiratory conditions in traditional practice

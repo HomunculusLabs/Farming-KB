@@ -71,7 +71,6 @@ too early, a substantial loss in yield results.
 Not only is H. ulmarius's spore load substantially less than most
 Pleurotus species, but the quality of its fruitbody far exceeds
 P. ostreatus, P. pulmonarius, P. djamor, and P. cornucopiae. Only
-[[growing-gourmet-king-oyster-eryngii-cultivation]] and
 [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
 compare favorably in flavor and texture.
 
@@ -93,58 +92,8 @@ Polypropylene autoclavable bags, bottles, and/or trays. This
 mushroom grows well horizontally or vertically. For outdoor
 cultivation, partially buried logs or outdoor beds of 50:50
 hardwood sawdust and chips are recommended, similar to
-[[growing-gourmet-king-stropharia-cultivation]].
-
-## Growth Parameters
-
-### Spawn Run
-- Temperature: 70-80 degrees F (21-27 degrees C)
-- Humidity: 95-100%; Duration: 14-21 days + 7 day rest
-- CO2: >10,000 ppm; Fresh Air: 0-1 per hour; No light
-
-### Primordia Formation
-- Temperature: 50-55 degrees F (10-13 degrees C)
-- Humidity: 98-100%; Duration: 5-10 days
-- CO2: <1000 ppm; Fresh Air: 4-8 per hour
-- Light: 500-1000 lux
-
-### Fruitbody Development
-- Temperature: 55-65 degrees F (13-18 degrees C)
-- Humidity: (90)94-98%; Duration: 4-7 days
-- CO2: 600-1500 ppm; Fresh Air: 4-8 per hour
-- Light: 500-100 lux
-
-### Cropping Cycle
-Two crops, 7-10 days apart.
-
-## Yield and Harvest
-
-Consistently 1/2 to 1 lb. of fresh mushrooms from 5 lbs. of moist
-sawdust/chips/bran. Best harvested when fairly large but before
-maximum sporulation, with at least 2 inches of flesh thickness at
-the disc. Sold fresh, currently only in Japan and Taiwan.
-
-## Medicinal Properties
-
-No published studies are known. Anecdotal reports suggest this
-mushroom is highly anti-carcinogenic. From the viewpoint of
-traditional Chinese medicine, mushrooms in this group are
-recommended for treating stomach and intestinal diseases.
-
-## Cooking and Market
-
-Same preparation as most Oyster mushrooms. The texture and flavor
-of a fully developed H. ulmarius far surpasses even the youngest
-P. ostreatus or P. pulmonarius specimens. Oyster mushroom growers
-throughout the world would do well to experiment with this mushroom
-and popularize it as an esculent.
-## Related
-
-- [[hypsizygus-ulmarius]]
-
-- [[hypsizygus-marmoreus]] Topics
+[[hypsizygus-ulmarius]]
 
 - [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-king-stropharia-cultivation]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]

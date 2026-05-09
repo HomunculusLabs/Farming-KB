@@ -15,35 +15,7 @@ and aesthetic reasons. They are generally not difficult to grow and most
 are extremely decorative plants that help attract useful predators to
 the garden, as well as those insects — such as bees — which are needed
 for pollination in the fruit garden. They can be planted around shrubs
-as a ground cover to aid [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]], in
-mixed borders, or on their own in a traditional herb garden. Some of
-the attractive low-growing species such as thyme, rosemary, and parsley
-are suitable for growing in tubs, window boxes, and hanging baskets.
-
-## Planning an Herb Garden
-
-It is worth planning a planting scheme on paper before you begin
-choosing and planting your herbs. In traditional herb gardens, the
-plants are arranged in formal patterns, with each herb or group of
-herbs enclosed by a low hedgelike box (Buxus sempervirens) or lavender
-(Lavandula sp.). The main reason for these often intricate, traditional
-designs is that most herbs are annuals or perennials, which die down
-completely in the winter, so you need to make the area look interesting
-all year-round.
-
-### Location
-Locate the herb garden in the sunniest part of the garden. Most herbs
-originate from the Mediterranean, so they thrive in warm sunshine. The
-few that prefer a little shade can be planted in the shade of one of the
-large sun lovers. Good access is vital since herbs will be harvested
-more regularly than most other plants. Put in pathways or stepping
-stones so that each plant can be reached without stepping off the path.
-
-### Soil Preparation
-Ideally, the soil in which herbs are grown should be well drained and
-light, though with good preparation, they will grow well in heavier
-soils. Double dig the area, breaking up the subsoil and working in
-plenty of well-rotted manure or [[mollison-designers-composting-toilets-and-humanure]]. Since most herbs
+as a ground cover to aid [[mollison-designers-composting-toilets-and-humanure]]. Since most herbs
 like a soil pH of between 7.0 and 7.5, spent mushroom compost is ideal.
 
 The one thing most herbs cannot stand is bad drainage. If your soil is
@@ -122,29 +94,12 @@ grow unchecked.
 Perennial herbs can be dug up and divided in the fall and early winter,
 though it can also be done in early spring. Propagate the shrubby herbs,
 like rosemary, bay, and lavender, from softwood cuttings in early
-summer. See [[hamilton-layering-propagation-techniques]] for detailed methods.
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-
+summer. See [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for herbs as natural pest deterrents
-- [[mollison-designers-composting-toilets-and-humanure]] for soil preparation materials
 - [[hamilton-organic-pest-control]] for using herbs to attract beneficial insects
-- [[hamilton-layering-propagation-techniques]] for starting herbs from seed and cuttings
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-- [[composting]]
-
-## See Also
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]

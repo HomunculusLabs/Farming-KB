@@ -126,12 +126,8 @@ In artisanal contexts, tough dried brackets have been used as makeshift drawing 
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[trametes-hirsuta]]
-- [[trametes-trogii]]
 - [[trametes-ochracea]]
-- [[trametes-sanguinea]]
 - [[fomes-fomentarius]]
-- [[fomitopsis-pinicola]]
 - [[coriolopsis-trogii]]
 - [[mycoremediation]]

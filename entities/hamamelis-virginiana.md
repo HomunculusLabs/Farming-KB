@@ -128,8 +128,6 @@ New England and the Appalachian region.
 
 ## See Also
 
-- [[calendula-officinalis]] — Calendula, complementary topical herb
 - [[urtica-dioica]] — Nettle, traditional companion for skin conditions
-- [[aloe-vera]] — Aloe vera, widely used alongside witch hazel in skincare
 - [[salvia-officinalis]] — Sage, another astringent aromatic native
 - [[hypericum-perforatum]] — St. John's wort, herbal anti-inflammatory

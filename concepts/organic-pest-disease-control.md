@@ -82,47 +82,6 @@ Tiny beetles that make shot holes in seedling leaves,
 especially brassicas. Control with a grease-coated board
 passed along the row; the beetles jump up and stick.
 
-## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-Plants have specific likes and dislikes about their
-neighbors. French marigolds (Tagetes) planted near
-tomatoes or roses reduce aphid attacks by attracting
-hoverflies whose larvae devour greenfly. French marigolds
-grown among crops also help control eelworms through root
-secretions. Plant aromatic marigolds between cabbages to
-confuse the cabbage white butterfly.
-
-## Encouraging Natural Predators
-
-Ladybugs, lacewings, and several wasp species feed on
-aphids and caterpillars. Attract them by providing diverse
-plant life including native flowers, trees, and shrubs.
-Hoverflies need pollen from open-structured flowers such
-as marigolds, poppies, and nasturtiums. Birds eat
-caterpillars and should be welcomed with water sources
-and nesting habitats.
-
-## Resistant Varieties
-
-Choose pest- and disease-resistant varieties. Some
-potato varieties resist slug damage or eelworm. Eelworm-
-resistant phlox and rust-resistant snapdragons are
-available. Graft susceptible varieties onto resistant
-rootstocks where possible. Check current breeding programs
-before buying notoriously disease-prone plants.
-
-## Soil Pests
-
-Hoeing between plants regularly brings soil pests to the
-surface where birds find them. Ants carry aphids between
-plants and protect them from predators; control ants with
-equal parts powdered sugar and borax placed near activity.
-Cutworms live just below the surface, cutting plants at
-soil level; search the surrounding soil and destroy grubs.
-
-## See Also
-
-- [[composting-organic-garden]]
-- [[crop-rotation-vegetable-garden]]
+## [[composting-organic-garden]]
 - [[green-manures-organic-gardening]]
 - [[mulching-organic-garden]]

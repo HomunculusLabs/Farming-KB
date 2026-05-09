@@ -3,21 +3,7 @@ title: Crop Pollination
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-
-# Crop Pollination
-#permaculture #pollination #bees #insects #insectary
-
-Updated: 2026-04-18
-
-> From: Bill Mollison, *Permaculture: A Designers Manual* (1988), Chapters 3, 12.
-
-## Overview
-
-Pollination is an essential service in food production. In permaculture design, pollinator habitat is created through deliberate planting of insectary species, windbreak design, and integrated [[permaculture-designers-manual-rabbit-housing]]. Crops within a mile of hives will out-yield crops in bee-deficient areas by a factor of 3-10 times.
+tags: [[permaculture-designers-manual-rabbit-housing]]. Crops within a mile of hives will out-yield crops in bee-deficient areas by a factor of 3-10 times.
 
 ## Bee-Dependent Crops
 
@@ -99,23 +85,18 @@ Pest species in orchards can be reduced to 4-7% of monocrop orchard by a combina
 - Minimal pruning
 - Predation by birds, frogs, lizards, wasp and predatory insects attracted by insectary plants
 - Interplant of leguminous trees
-- Reducing crop stress with [[permaculture-designers-manual-windbreak-species]] and [[permaculture-designers-manual-mulch-systems]]
+- Reducing crop stress with [[permaculture-designers-manual-mulch-systems]]
 - Ground foraging by poultry
 
 ## Integration with Food Forests
 
-In [[permaculture-designers-manual-food-forest-guilds]], the herb layer provides critical pollinator habitat. Every orchard and food forest should include dedicated insectary plantings integrated into the [[mollison-designers-edge-effect-design]] and windbreaks.
+In [[mollison-designers-edge-effect-design]] and windbreaks.
 
 ## See Also
 
-- [[comparison-windbreak-design-vs-species-selection]]
-
 - [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
 
-- [[permaculture-designers-manual-rabbit-housing]]
 - [[permaculture-designers-manual-food-forest-guilds]]
-- [[permaculture-designers-manual-windbreak-species]]
 - [[mollison-designers-edge-effect-design]]
-- [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-pond-edge-planting]]
 - [[soil-erosion-control]]

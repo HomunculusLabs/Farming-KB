@@ -66,4 +66,23 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 - [[cannabis-therapeutic-index-overview]] — for evidence framework
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-for-chronic-pain]] — for pain management
-- [[mushroom-cultivation-fundamentals]] — for another complementary approach
+- [[turkey-tail-mushroom-cancer-research]] — for another complementary approach
+## Practical Considerations
+
+Successful implementation of Cannabis for Cancer Patients requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

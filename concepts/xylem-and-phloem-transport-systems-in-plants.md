@@ -82,11 +82,7 @@ The two systems are related: when sugars are actively loaded into phloem at a so
 
 ## Related Topics
 
-- [[water-pathways-through-plants]] -- the apoplastic, symplastic, and transmembrane pathways
 - [[root-anatomy-structure-and-nutrient-uptake]] -- where xylem and phloem originate
-- [[diffusion-osmosis-and-active-transport-in-plants]] -- the physics underlying transport
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] -- tissue context
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[plant-cell-membrane-transport-proteins]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[plant-cell-structure-and-organelles]]

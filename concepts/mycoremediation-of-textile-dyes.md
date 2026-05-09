@@ -46,18 +46,7 @@ In addition to enzymatic degradation, fungal biomass can physically adsorb dye m
 - Electrostatic attraction between positively charged fungal cell surfaces and anionic dye molecules
 - Van der Waals forces and hydrophobic interactions
 - Ion exchange at cell wall binding sites
-- Dead fungal biomass retains 60-80% of its dye biosorption capacity, enabling use of [[spent-mushroom-substrate]] as a low-cost biosorbent
-
-## Effective Fungal Species
-
-### Trametes versicolor (Turkey Tail)
-The most extensively studied white-rot fungus for dye decolorization. Produces high levels of both laccase and MnP. Effective against azo, anthraquinone, and triphenylmethane dyes. Tolerant of high dye concentrations and can decolorize real textile effluent without dilution.
-
-### Pleurotus ostreatus (Oyster Mushroom)
-Produces laccase in abundance, especially when grown on lignocellulosic substrates. Effective for anthraquinone and azo dyes. Spent substrate from commercial cultivation can be used directly as a biosorbent.
-
-### Phanerochaete chrysosporium
-A model white-rot fungus that produces lignin peroxidase (LiP) and MnP. Particularly effective for recalcitrant azo dyes. Requires nitrogen limitation to trigger [[ligninolytic-enzymes]] production.
+- Dead fungal biomass retains 60-80% of its dye biosorption capacity, enabling use of [[ligninolytic-enzymes]] production.
 
 ### Aspergillus niger
 While not a white-rot fungus, A. niger produces effective biosorption capacity through its melanized cell wall. Useful for initial dye concentration before enzymatic treatment.
@@ -82,7 +71,24 @@ Fungal treatment is most effective as part of a combined treatment train rather 
 
 ## See Also
 
-- [[mycoremediation-techniques]] — general mycoremediation approaches
 - [[fungal-bioreactor-types-for-pollutant-removal]] — bioreactor design for dye treatment
-- [[mycoremediation-bioreactor-design-considerations]] — engineering considerations
 - [[mycoremediation-pah-and-pcb-degradation]] — fungal degradation of other recalcitrant pollutants
+## Practical Considerations
+
+Successful implementation of Mycoremediation of Textile Dyes requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

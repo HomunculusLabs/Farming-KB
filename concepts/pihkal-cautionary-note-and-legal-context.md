@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-PiHKAL opens with a cautionary note that addresses both the legal and ethical dimensions of psychedelic research. Written by Alexander Shulgin, the note reflects the tension between scientific inquiry and the [[psychedelic-research-legal-history-united-states]] that had developed since the [[controlled-substances-act-and-psychedelic-research]].
+PiHKAL opens with a cautionary note that addresses both the legal and ethical dimensions of psychedelic research. Written by Alexander Shulgin, the note reflects the tension between scientific inquiry and the [[controlled-substances-act-and-psychedelic-research]].
 
 The cautionary note serves a dual function: it is both a legal disclaimer protecting the publisher and author from liability, and a genuine ethical statement reflecting Shulgin's deeply held beliefs about responsible research. These two dimensions — legal prudence and moral commitment — are woven throughout the text and are inseparable in Shulgin's approach.
 
@@ -25,15 +25,7 @@ The cautionary note serves a dual function: it is both a legal disclaimer protec
 
 Shulgin explicitly warned: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life."
 
-This warning was not abstract — Shulgin had witnessed colleagues face prosecution, and his own DEA license was subject to periodic review. The [[psychedelic-research-legal-history-united-states]] made it clear that even well-intentioned research could result in severe criminal penalties.
-
-## The Ethical Dimension
-
-The note goes beyond legal caution to address moral responsibility: "any person anywhere who experiments on himself, or on another human being, with any of the drugs described herein, without being familiar with that drug's action and aware of the physical and/or mental disturbance or harm it might cause, is acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
-
-This statement establishes a dual obligation: legal compliance AND pharmacological knowledge. Even if synthesis and self-experimentation were legal, they would be unethical without proper understanding of the compound.
-
-This ethical framework is closely related to the [[shulgin-safety-principles-self-experimentation]] Shulgin developed over decades of research. The cautionary note can be read as a compressed version of those principles, emphasizing that knowledge and caution must precede any experiment.
+This warning was not abstract — Shulgin had witnessed colleagues face prosecution, and his own DEA license was subject to periodic review. The [[shulgin-safety-principles-self-experimentation]] Shulgin developed over decades of research. The cautionary note can be read as a compressed version of those principles, emphasizing that knowledge and caution must precede any experiment.
 
 ## Historical Context
 
@@ -43,41 +35,21 @@ The cautionary note reflects the environment following decades of increasingly r
 
 - The 1965 Drug Abuse Control Amendments regulated amphetamines and hallucinogens
 
-- The [[controlled-substances-act-and-psychedelic-research]] placed most psychedelics in Schedule I
-
-- Shulgin's own [[psychedelic-research-legal-history-united-states]] was periodically reviewed and could be revoked
+- The [[psychedelic-research-legal-history-united-states]] was periodically reviewed and could be revoked
 
 Shulgin was one of the last researchers legally authorized to synthesize and test novel psychoactive compounds in humans. The cautionary note implicitly recognizes that this era of legitimate research was ending.
 
-The broader context of [[psychedelic-prohibition-and-the-war-on-consciousness]] shaped the tone of the warning. The gap between scientific knowledge about these compounds and public policy had widened dramatically since the open research era of the 1950s.
-
-## Copyright and Distribution
-
-Part 1 of PiHKAL (the autobiographical "Chemical Love Story") was fully copyrighted and could not be distributed. Part 2 (the compound entries with syntheses) could be "distributed for non-commercial reproduction provided that the introductory information, copyright notice, cautionary note and ordering information remain attached."
-
-This dual copyright structure was deliberate: Part 2 was made freely available to ensure that accurate chemical and pharmacological information remained accessible, even as legal restrictions made actual research increasingly difficult. The requirement that the cautionary note remain attached to any distribution of Part 2 underscores its centrality to Shulgin's philosophy — the information was only ethically useful when accompanied by its safety warnings.
-
-## Impact on Harm Reduction
-
-The cautionary note has had lasting influence on [[psychedelic-harm-reduction]] practice. Its core principles — know the compound, start low, never give to another without informed consent — have been incorporated into contemporary [[psychedelic-safety-guidelines-turner]] and community norms. Organizations like [[philosophical-implications-of-psychedelics]] and clinical research institutions at [[hofmann-lsd-psychiatric-research]] have implicitly adopted versions of these principles in their protocols.
-
-The note's emphasis on informed self-experimentation also prefigures the modern [[psychedelic-harm-reduction-philosophy]], which prioritizes accurate information and personal responsibility over prohibition.
+The broader context of [[psychedelic-harm-reduction]] practice. Its core principles — know the compound, start low, never give to another without informed consent — have been incorporated into contemporary [[philosophical-implications-of-psychedelics]] and clinical research institutions at [[psychedelic-harm-reduction-philosophy]], which prioritizes accurate information and personal responsibility over prohibition.
 
 ## Legacy
 
-The cautionary note has become one of the most widely cited statements on research ethics in psychopharmacology. It is frequently quoted in discussions of [[psychedelic-research-legal-history-united-states]], DIY chemistry ethics, and harm reduction.
-
-Its enduring relevance reflects the fact that the fundamental tension it describes — between the desire for knowledge and the constraints of law and safety — has not been resolved. As the [[psilocybin-and-mystical-experience]] progresses, the cautionary note remains a touchstone for responsible practice.
+The cautionary note has become one of the most widely cited statements on research ethics in psychopharmacology. It is frequently quoted in discussions of [[psilocybin-and-mystical-experience]] progresses, the cautionary note remains a touchstone for responsible practice.
 
 ## Related Concepts
 
-- [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-research-legal-history-united-states]]
-- [[controlled-substances-act-and-psychedelic-research]]
 - [[pihkal-introduction-and-methodology]]
-- [[phenethylamine-synthesis-safety]]
 - [[shulgin-dosage-guidelines]]
-- [[psychedelic-harm-reduction]]
 - [[psychedelic-safety-and-harm-reduction]]
 
 ## The Shulgin Scheduling Paradox

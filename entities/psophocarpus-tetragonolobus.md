@@ -104,13 +104,8 @@ Day-neutral varieties developed by breeding programs in Nigeria and Thailand hav
 
 ## See Also
 
-- [[glycine-max]]
 - [[l-theanine]]
-- [[ashwagandha]]
 - [[curcumin]]
-- [[psilocybin-compound]]
 - [[panax-ginseng]]
-- [[rhodiola-rosea]]
 - [[ocimum-sanctum]]
-- [[passiflora-incarnata]]
 - [[glycyrrhiza-glabra]]

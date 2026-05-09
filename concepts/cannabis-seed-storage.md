@@ -128,10 +128,7 @@ growth. Keep storage areas clean, dry, and monitored for pest activity.
 ## See Also
 
 - green cannabis grow bible seed germination methods
-- [[cannabis-seed-production]]
 - [[cannabis-seed-germination-viability-breeding-clarke]]
-- [[cannabis-seedling-care-guide]]
 - [[cannabis-germination-techniques]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-controlled-pollination-seed-production]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

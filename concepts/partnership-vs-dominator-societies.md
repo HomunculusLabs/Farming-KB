@@ -8,13 +8,13 @@ sources: ["raw/papers/mckenna_t-food_of_the_gods.md"]
 ---
 # Partnership vs Dominator Societies
 
-The [[partnership-and-dominator-models]] model, drawn from Riane Eisler's "The Chalice
-and the Blade" (1987) and extensively applied by [[terence-mckenna]] in
+The  model, drawn from Riane Eisler's "The Chalice
+and the Blade" (1987) and extensively applied by  in
 "Food of the Gods," provides a framework for understanding the transition
 from egalitarian, nature-revering cultures to hierarchical, patriarchal
 civilizations. McKenna used this framework to explain the historical
-suppression of [[kwashi-and-galanga-minor-psychoactive-plants]] and shamanic practices. See also
-[[shamanism-and-techniques-of-ecstasy]] and [[stoned-ape-hypothesis]].
+suppression of  and shamanic practices. See also
+ and .
 
 ## Eisler's Framework
 
@@ -25,11 +25,11 @@ human social evolution as a linear progression from primitive to
 advanced.
 
 **Partnership societies** are characterized by:
-- Egalitarian [[permaculture-designers-manual-legal-and-social-structures]] without rigid hierarchies
+- Egalitarian  without rigid hierarchies
 - Gender equality and balance between masculine and feminine principles
 - Reverence for nature and ecological sustainability
 - Emphasis on community, cooperation, and mutual aid
-- Openness to [[harner-shamanic-journey-and-altered-states]] nna-food-gods-designer-states-of-consciousness]] multiple-forms-of-consciousness]] and visionary experience
+- Openness to  nna-food-gods-designer-states-of-consciousness multiple-forms-of-consciousness and visionary experience
 - Goddess worship and earth-centered spirituality
 - Absence of warfare as a social organizing principle
 
@@ -124,3 +124,11 @@ forms of knowledge and experience have been systematically suppressed
 in Western civilization, and offers an alternative vision of human social
 organization that prioritizes cooperation over competition and ecological
 stewardship over exploitation.
+
+## See Also
+- [[mckenna-dominator-vs-partnership-society-model]]
+- [[mckenna-food-gods-partnership-dominator]]
+
+## See Also
+
+- [[partnership-vs-dominator-culture-mckenna]]

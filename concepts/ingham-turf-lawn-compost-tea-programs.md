@@ -11,8 +11,7 @@ type: concept
 
 # Turf and Lawn Compost Tea Programs
 
-Turf and lawn management with [[compost-tea-aact]] is one of the
-most practical applications of [[elaine-ingham]]'s soil foodweb
+Turf and lawn management with [[elaine-ingham]]'s soil foodweb
 approach. Lawns typically suffer from compacted soil, loss of
 fungal communities, and over-reliance on chemical inputs that
 destroy beneficial biology. Ingham's field guide provides specific
@@ -87,63 +86,8 @@ calcium vs. those without plant-available forms is quite noticeable
 -- dandelions no longer grow faster than the grass.
 
 Without adequate protozoa, nematodes, microarthropods, and/or
-[[mycorrhizal-fungi]], calcium may stay bound in fungal biomass
-instead of being utilized by plants.
+[[compost-tea-brewing-equipment-ingham]]
 
-## Golf Course Turf
-
-Golf courses present specific challenges:
-- High traffic compaction from golf carts and foot traffic
-- Pesticide and fertilizer applications that kill biology
-- Ponds with algal blooms (protozoa eliminated by chemicals)
-- Greens requiring specific fungal:bacterial ratios
-
-For golf course ponds, getting protozoa re-established is key.
-Pesticides and high inorganic fertilizers took out the protozoa
-that eat algae. The algae should add oxygen to water, but when the
-algal layer gets too thick, bottom algae die and feed bacteria that
-deplete oxygen.
-
-Turf may require soil cores punched into the ground to aerate and
-get VAM fungi established.
-
-## Recovery Program for Damaged Lawns
-
-When lawns have been severely damaged by chemicals or neglect:
-
-1. **Compost application**: Physical compost needed, not just tea.
-   Tea alone may not be enough if herbicide residues persist.
-2. **Compost tea**: Regular applications of fungal tea.
-3. **Calcium**: Add through compost, tea, and direct application
-   (eggshells, calcium carbonate, calcium hydroxide, oyster shell).
-4. **Corn gluten**: Apply in spring to tie up excess nitrate.
-5. **Gypsum**: Can improve flocculation short-term, but if biology
-   is lost, soil turns to bricks. Keep under 100 pounds per acre
-   per application.
-6. **Patience**: Full recovery takes multiple seasons of consistent
-   biological management.
-
-## The NPK Game
-
-Ingham warns against the conventional NPK approach to lawn care.
-Most nitrogen in soil is not present as nitrate, nitrite, or
-ammonium -- it is present as biology (bacteria, fungi, protozoa,
-nematodes, worms) or organic matter. Getting these non-plant-
-available forms converted to plant-available forms is the job of
-soil biology. Conventional high-N applications are needed because
-nutrients leach without microorganisms to hold them.
-
-## Soil Cores and VAM
-
-Turf systems may require soil cores punched into the ground to
-aerate and get VAM (vesicular-arbuscular mycorrhizal) fungi
-established. The cores create channels for air, water, and
-organism movement into compacted soil. Compost tea applied after
-aeration can rapidly colonize these channels.
-
-## Roundup and Bacterial Dominance
-
-Roundup (glyphosate) acts as a bacterial food -- data from
 ## See Also
 
-- [[compost-tea-brewing-equipment-ingham]]
+- [[ingham-thermal-worm-compost-comparison]]

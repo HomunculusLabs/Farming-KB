@@ -6,58 +6,7 @@ tags:
   - skincare
   - herbal-preparations
   - salve-making
-  - companion-planting
-  - beginner-friendly
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://www.pfaf.org/USER/Plant.aspx?LatinName=Calendula+officinalis
-  - https://www.ema.europa.eu/en/documents/herbal-monograph/calendulae-flos
-  - https://www.henriettes-herb.com/eclectic/king/calendula.html
----
-
-# How Do I Grow and Use Calendula for Medicine and Skincare?
-
-## Growing Calendula: Step by Step
-
-### What You Need
-
-- Calendula seeds (choose a resin-rich variety like 'Resina' or 'Erfurter Orangefüchsen' for maximum medicinal potency)
-- Well-drained garden bed, raised bed, or large container (minimum 30 cm / 12 inches deep)
-- Compost or aged manure
-- Full sun (6+ hours daily)
-
-### Planting
-
-1. **Prepare the bed**: Loosen soil to 15 cm depth and mix in 5–8 cm of compost. Calendula tolerates poor soil, but moderate fertility gives the best flower production.
-2. **Sow seeds** 6–12 mm (¼–½ inch) deep, spacing seeds 5–10 cm apart in rows 30 cm apart.
-3. **Thin** seedlings to 20–30 cm apart once they have 2–3 sets of true leaves.
-4. **Timing**: Sow 1–2 weeks before your last frost date in spring. In mild-winter areas (Zone 8+), sow in fall for winter/spring bloom.
-5. **Succession sow** every 2–3 weeks for continuous harvest from spring through fall.
-
-### Care
-
-- **Water**: Keep soil evenly moist until plants are established (3–4 weeks). After that, water deeply once per week during dry spells. Avoid overhead watering to prevent powdery mildew.
-- **Fertilize**: One application of compost at planting is usually enough. Excess nitrogen = more leaves, fewer flowers.
-- **Deadhead**: Remove spent flowers to encourage continued blooming. Or leave some to self-seed for next season.
-- **Heat management**: In hot summers (above 30°C / 86°F), calendula may stop flowering. Provide afternoon shade or pull plants and resow in late summer for fall bloom.
-
-### Harvesting for Medicine
-
-- **When**: Pick fully open flowers in the morning after dew dries.
-- **What**: For maximum potency, use only the **petals** (ray florets). Pinch or snip them from the green flower base.
-- **How often**: Every 2–3 days. Regular picking triggers more blooms.
-- **Yield**: A 3 m (10 ft) row can produce 500+ flowers over a season.
-
-### Drying
-
-Spread petals in a single layer on a screen or paper towel. Dry in a warm, dark, well-ventilated area (not in direct sunlight). Properly dried petals crumble easily and retain their color. Store in an airtight glass jar away from light. Use within 12–18 months.
-
-## Making Calendula Medicine
-
-### 1. Calendula-Infused Oil (Base for Everything)
-
-**You need**: 1 cup dried calendula petals, 2 cups carrier oil (olive, jojoba, or sweet almond)
+  - [[jojoba]], or sweet almond)
 
 **Methods**:
 
@@ -142,8 +91,6 @@ Spread petals in a single layer on a screen or paper towel. Dry in a warm, dark,
 - **Patch test** first: Apply a small amount to your inner wrist and wait 24 hours to check for allergic reaction, especially if you have Asteraceae (ragweed) allergies.
 ## See Also
 
-- [[calendula-officinalis]]
+- [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
+
 - [[calendula-salve-making]]
-- [[comparison-calendula-vs-chamomile]]
-- [[chamomile-growing-guide]]
-- [[herbal-medicine-safety]]

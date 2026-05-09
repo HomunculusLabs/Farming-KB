@@ -103,15 +103,9 @@ Research into integrated multi-trophic aquaculture (IMTA) combining *E. isiforme
 
 ## See Also
 
-- [[kappaphycus-alvarezii]]
 - [[eucheuma-denticulatum]]
-- [[gelidium-amansii]]
 - [[gracilaria-verrucosa]]
-- [[porphyra-umbilicalis]]
 - [[ulva-lactuca]]
-- [[saccharina-latissima]]
 - [[laminaria-digitata]]
-- [[palmaria-palmata]]
 - [[undaria-pinnatifida]]
-- [[sargassum-fusiforme]]
 - [[caulerpa-lentillifera]]

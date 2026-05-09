@@ -1,7 +1,7 @@
 ---
 title: "Multi-Kingdom Approach to Bioremediation"
 created: 2026-04-28
-tags: [mycology, bioremediation, ecology, mycorestoration]
+tags: [[mycology, bioremediation, ecology, mycorestoration]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
@@ -34,26 +34,7 @@ repeating hierarchy has been observed:
 
 This hierarchy is one cyclical sequence of many. Synergistic waves
 of organisms quickly enter a habitat once its toxic barriers are
-removed with specific [[saprophytic-mushrooms]], such as oysters, leading
-the charge. Since most insects are fungus-loving and are excited by
-spores, they appear as mushrooms ripen and overmature. Vertebrates
-from squirrels to bears to people seek mushrooms as food. Bacteria
-use rotting mushrooms as a rich base for growth, further freeing
-nutrients and releasing cascades of microbes.
-
-## Aged Mycelium Advantage
-
-After the mycelium passes its prime and declines in vigor, it hosts
-other organisms that may metabolize remaining toxins. In particular,
-oyster mycelium growing on straw is prone to host more and more
-microbes as it ages. In the process of defending itself from
-parasitization, it becomes fortified against microbial attack. Other
-groups of bacteria proliferate alongside the mycelium and produce
-their own toxin-digesting enzymes.
-
-This form of mycelium is far better equipped for handling toxic waste
-sites than mycelium not pre-exposed to wild microbes. For this reason,
-using pure culture spawn for [[mycoremediation]] may not be the best
+removed with specific [[mycoremediation]] may not be the best
 choice. This realization, that aged mycelium from a mushroom farm has
 better mycoremediation properties than pure culture spawn, marks a
 major advancement in the understanding of how to project mycelium
@@ -131,6 +112,5 @@ and adapting methods to each site's unique conditions.
 
 ## See Also
 
-- [[mycelium-running-white-rot-brown-rot-fungi]]
 - [[mycelium-running-farm-mycofiltration-buffers]]
 - [[mycelium-running-saprophytic-decomposers]]

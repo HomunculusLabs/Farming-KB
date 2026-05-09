@@ -32,21 +32,7 @@ LiP (EC 1.11.1.14) is a heme-containing glycoprotein with a redox potential
 of approximately 1.5V, one of the highest known for biological oxidases.
 It oxidizes non-phenolic aromatic substrates (which constitute ~90% of
 lignin) through long-range electron transfer mediated by veratryl alcohol.
-LiP was first purified from *[[phanerochaete-chrysosporium]]* in 1983 by
-Michael Gold and colleagues. The enzyme contains a heme active site with a
-tryptophan residue (Trp171 in P. chrysosporium) on the protein surface that
-serves as a long-range electron transfer hub, allowing oxidation of bulky
-lignin polymers that cannot physically access the buried heme. LiP isozyme
-families with up to 15 distinct gene copies have been identified in some
-white rot species, suggesting differential regulation in response to
-nutrient conditions. LiP expression is typically induced under nitrogen or
-carbon limitation, and the enzyme is sensitive to elevated H2O2
-concentrations, which can inactivate it through compound II formation.
-Manganese ions also suppress LiP production in favor of MnP expressiofungal-hyphaenese Peroxidase (MnP)
-MnP (EC 1.11.1.13) oxidizes Mn(II) to Mn(III), which forms soluble
-complexes with organic acids (oxalate, malonate). These Mn(III)-chelates
-diffuse away from the fungal hyphae and oxidize phenolic lignin
-substructures. MnP is more widely distributed among [[white-rot-fungi]] than
+LiP was first purified from *[[white-rot-fungi]] than
 LiP and is considered the more important peroxidase in nature. MnP possesses
 a unique manganese-binding site formed by three acidic amino acid residues
 (Glu35, Glu39, Asp179 in P. chrysosporium) that coordinate the Mn(II)
@@ -121,29 +107,7 @@ brown, crumbly residue.
 The most extensively studied lignin-degrading fungi belong to the white rot
 basidiomycetes. *Phanerochaete chrysosporium* served as the primary model
 organism for decades because it was the first white rot fungus shown to
-produce [[ligninolytic-enzymes]] in culture and its genome was among the first
-basidiomycete genomes sequenced (2004). *Trametes versicolor* (turkey tail)
-is one of the most aggressive and cosmopolitan white rot species, producing
-high levels of laccase and MnP. *Ceriporiopsis subvermispora* is unusual in
-that it selectively removes lignin while leaving cellulose intact, making it
-valuable for biopulping applications. *Pleurotus ostreatus* (oyster
-mushroom) and related species produce versatile peroxidase and have been
-engineered for bioremediation. *Bjerkandera adusta* produces both MnP and
-versatile peroxidase and has shown promise in dye decolorization. Among
-soft rot ascomycetes, species of Xylaria and Hypoxylon contribute to lignin
-degradation in tropical ecosystems, though they generally process lignin
-more slowly and incompletely than white rot basidiomycetes.
-
-## Applications
-
-Lignin-degrading enzymes have applications in:
-- **Biopulping**: Fungal pretreatment of wood chips with species like
-  C. subvermispora reduces chemical and energy inputs in paper production
-  by 20-30% and improves pulp quality by selectively removing lignin while
-  preserving cellulose fibers.
-- **Bioremediation**: Enzymes degrade polycyclic aromatic hydrocarbons,
-  polychlorinated biphenyls, dyes, and other xenobiotics. MnP and laccase
-- [[wood-decay-fungi]]
+produce [[wood-decay-fungi]]
 ## See Also
 
 - [[bjerkandera-adusta]]

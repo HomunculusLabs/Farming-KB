@@ -3,7 +3,7 @@ title: Earthmoving Tools and Machinery in Permaculture
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, soil]
+tags: [[permaculture, design, soil]
 sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
@@ -91,11 +91,7 @@ Whenever earth is moved, it seldom reveals a uniform composition. The supervisin
 
 ## See Also
 
-- [[chisel-plough-soil-conditioning-mollison]]
 - [[keyline-design-water-management]]
-- [[broadscale-permaculture-techniques-mollison]]
 - [[arid-landscape-permaculture]]
-- [[mollison-keyline-soil-conditioning-humid-water]]
 - [[mollison-earth-resources-from-excavation]]
-- [[permaculture-designers-manual-ponds-and-dams]]
 - [[permaculture-designers-manual-fuel-wood-systems]]

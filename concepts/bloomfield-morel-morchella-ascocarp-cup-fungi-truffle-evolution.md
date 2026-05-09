@@ -2,31 +2,7 @@
 title: Morels, Cup Fungi, and the Evolutionary Continuum to Truffles
 created: 2026-04-28
 tags:
-  - [[mycology]]
-  - evolution
-  - morel
-  - morchella
-  - truffle
-  - tuber
-  - cup-fungi
-  - apothecium
-  - ascocarp
-  - ascomycota
-  - fruiting-body
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
-type: concept
----
-
-# Morels, Cup Fungi, and the Evolutionary Continuum to Truffles
-
-## Overview
-
-The morel, Morchella, occupies an intermediate position in one of
-the most compelling evolutionary narratives in mycology: the
-transformation of cup-shaped ascomycete [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (apothecia)
+  - [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (apothecia)
 into the subterranean, aromatic truffles of the genus Tuber.
 Stalked like mushrooms, the head of the morel is an enormous cup
 covered with asci lining the gouges in its pitted surface. Truffles,
@@ -38,15 +14,7 @@ years.
 
 ## The Ascocarp Spectrum
 
-Mycologists recognize three categories of ascomycete [[fruiting-body-development]]:
-
-- **Cleistothecia:** Closed fruiting bodies (e.g., Eurotium). Asci
-  develop within an enclosed structure; eventually the wall breaks
-  open to free spores, but without explosive discharge
-- **Perithecia:** Flask-shaped fruiting bodies (e.g., Cordyceps).
-  Asci develop within a narrow-necked flask open at the top
-- **Apothecia:** Open cup-shaped fruiting bodies with asci exposed
-  at the surface for direct [[bullers-drop-spore-discharge]] into the air. This
+Mycologists recognize three categories of ascomycete [[bullers-drop-spore-discharge]] into the air. This
   is the category from which morels and truffles are derived
 
 ## Spore Discharge in Cup Fungi and Morels
@@ -69,11 +37,7 @@ asci lining the gouges in its surface. Asci shoot spores roughly
 horizontally, creating a spore cloud dissipated by wind gusts. The
 morel is essentially a greatly enlarged, contorted cup raised on a
 stalk, with fertile surface folded into ridges and pits that
-dramatically increase [[growing-gourmet-basidium-spore-production]] area.
-
-## Morels as Wild Edibles
-
-[[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]], including morels, reproduce after weight gain
+dramatically increase [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]], including morels, reproduce after weight gain
 followed by starvation. Although morels are ascomycetes, they are
 large enough to be called mushrooms. Morels are prized edibles,
 found in late April or early May in the eastern United States.
@@ -141,9 +105,6 @@ exchange for soil nutrients. In France and northern Italy, truffle
 development is encouraged by planting tree seedlings inoculated with
 truffle spores or mycelium. Seven to fifteen years pass before any
 tartufo appear. After 300 million years of evolution, the final
-scene unfolds in Cortona, Tuscany: a waiter shaves a white truffle
-over linguini.
-
 ## See Also
 
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]

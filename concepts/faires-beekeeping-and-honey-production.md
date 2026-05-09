@@ -3,7 +3,7 @@ title: Beekeeping and Honey Production
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [homesteading, honey, animals]
+tags: [[homesteading, honey, animals]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 # Beekeeping and Honey Production
@@ -104,11 +104,7 @@ Winter: Keep the hive very well ventilated and protect it from wind. Check the b
 
 ## Related Concepts
 
-- [[faires-rabbit-and-small-poultry-keeping]]
 - [[faires-orchard-design-and-intercropping]]
-- [[faires-zone-and-sector-planning]]
 - [[faires-sustainability-and-design-goals]]
-- [[faires-plant-communities-and-guilds]]
 - [[fukuoka-white-clover-ground-cover]]
-- [[what-natural-farming-method-should-i-use]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

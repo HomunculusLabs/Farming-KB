@@ -64,69 +64,25 @@ fruiting body house and opened according to mushroom type:
 - **Oyster mushrooms (Pleurotus ostreatus)** - Simply remove cotton plugs.
 - **Lentinus species (Hed Lom, Hed Khon Khao)** - Cut plastic bags at the
   shoulder using a knife or cutter.
-- **Ear mushrooms ([[auricularia-polytricha]])** - Cut the side of the
-  plastic bag with four cuts per vertical line on four lines around each
-  bag.
-
-Before opening bags, clean around and inside the fruiting body house
-using a broom. Transfer mature spawn bags using a trolley and place on
-shelves.
-
-## Daily Maintenance and Monitoring
-
-### Humidity Control
-
-Spray water to control humidity. Water often but not much each time. No
-water should enter the bags. Humidity should be maintained between 75 and
-90 percent. Surface water must evaporate from mushrooms several times per
-day.
-
-### Temperature Control
-
-Monitor temperature and adjust by opening or closing doors and windows.
-If temperature is too high, leave doors open during the night to change
-the air. A practical rule: when people feel comfortable, mushrooms are in
-a good environment.
-
-### Light and Ventilation
-
-Control light and ventilation by adjusting doors and windows. Inadequate
-light causes long stems with underdeveloped caps. Excessive carbon dioxide
-causes similar problems. Increase air exchange when stems appear
-elongated. Natural pest control should be allowed where possible.
-
-### Pest and Disease Monitoring
-
-Check for mites and other pests at least twice a week. Identify pest
-types and respond appropriately. Keep bags clean at all times. Manually
-remove garbage and contaminated bags. Use lemongrass plants around the
-mushroom house as a natural deterrent. Spread lime on shelves, poles, and
-ground. For ant control, mix detergent with water and place on their paths
-without putting it on mushrooms.
-
-## Harvesting
-
-Mushrooms are ready to be picked 2 to 3 days after they first appear.
-Harvesting should be done at least twice a day to collect young, healthy
-mushrooms. Pick gently by grasping the stalk and pulling slowly. Mushrooms
-harvested at the right time (not too big) keep longer and taste sweeter.
-
-After harvesting, trim mushrooms by cutting at the base of the stalk.
-Place in baskets of about 5 to 8 kg each. Weigh all mushrooms and record
-production data. A single substrate bag produces 250 to 350 grams of
-mushrooms over 4 to 5 flushes. Harvesting at least 2 to 3 hours after
-watering helps conserve mushrooms longer.
-
-## Shelf Systems
-
-Different shelving options suit different needs and disabilities:
-traditional bamboo shelves, suspended systems, and heavy-duty steel racks
-for commercial enterprises. Each person selects the system most
-appropriate for their disability and environment.
-
-## Related Concepts
-
-- [[buildings-tools-equipment-mushroom-cultivation]]
-- [[substrate-preparation-mushroom-growing]]
+- **Ear mushrooms ([[buildings-tools-equipment-mushroom-cultivation]]
 - [[mushroom-cultivation-troubleshooting]]
 - [[post-harvest-handling-marketing-mushrooms]]
+## Practical Considerations
+
+Successful implementation of Mushroom House Design and Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

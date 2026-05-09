@@ -140,9 +140,6 @@ rather than intervention, with trust rather than control.
 
 ## See Also
 
-- [[fukuoka-dharma-wheel-theory-evolution]]
-
 - [[fukuoka-textdoc-errors-of-human-intellect]]
-- [[fukuoka-textdoc-no-good-or-evil-in-nature]]
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]

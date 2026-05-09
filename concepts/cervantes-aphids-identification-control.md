@@ -98,10 +98,6 @@ Several effective biological controls are available:
 
 Homemade and insecticidal soap sprays are very effective against
 aphids. Apply two or three times at five to ten day intervals.
-[[cervantes-pyrethrum-pyrethroid-insecticides]] aerosol
-applied two to three times at five to ten day intervals also
-works well.
-
 [[cervantes-homemade-pest-disease-sprays]]
 containing garlic, hot pepper, and soap can provide effective
 control without introducing toxic chemicals to the garden.
@@ -110,22 +106,7 @@ control without introducing toxic chemicals to the garden.
 
 The best defense against aphids starts with garden hygiene:
 
-- Keep [[cervantes-mother-plants]] free of aphids
-  by regular inspection
-- Install yellow sticky traps as early warning monitors
-- Maintain healthy, unstressed plants that are less susceptible
-- Screen ventilation intakes to prevent winged aphid entry
-- Control ant populations that farm and protect aphids
-- Avoid bringing infested plant material into the garden
-
-## Related Topics
-
-- [[aphids-cannabis]] - general aphid management for cannabis
-- [[cervantes-biological-pest-control-predators]] - biological
-  predator overview
-- cervantes sooty mold honeydew management - secondary mold
-  from aphid honeydew
+- Keep [[aphids-cannabis]] - general aphid management for cannabis
 - [[cervantes-neem-oil-organic-pest-control]] - organic aphid
   control
-- [[cervantes-whitefly-pest-control]] - similar honeydew pest
 - [[cervantes-homemade-pest-disease-sprays]] - DIY spray recipes

@@ -137,13 +137,9 @@ respiratory ailments, though clinical evidence is limited.
 - **Forage integration:** Requires no nitrogen fertilizer and prevents bloat
 - **Soil improvement:** Deep taproot breaks compacted subsoil; leaf litter
   adds organic matter
-
 ## See Also
 
-[[trifolium-pratense]]
 [[trifolium-incarnatum]]
-[[alfalfa-medicago-sativa]]
-mesorhizobium loti
 [[biological-nitrogen-fixation-agriculture]]
 condensed tannin
 proanthocyanidin

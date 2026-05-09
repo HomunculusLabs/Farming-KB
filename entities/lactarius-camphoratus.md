@@ -131,9 +131,6 @@ The species has not been investigated for significant pharmacological activity.
 
 ## See Also
 
-- [[lactarius-deliciosus]]
 - [[lactarius-rufus]]
-- [[lactarius-quietus]]
 - [[lactarius-indigo]]
-- [[lactarius-volemus]]
 - [[russula-cyanoxantha]]

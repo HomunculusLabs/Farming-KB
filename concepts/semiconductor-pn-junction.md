@@ -5,7 +5,8 @@ tags: [electrical-engineering, semiconductors, electronics, solid-state-physics,
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
 ---
 
 ## Overview
@@ -18,11 +19,7 @@ This leaves behind fixed ionized dopants near the junction and creates a depleti
 The resulting built-in electric field opposes further diffusion and establishes equilibrium.
 This simple interface is the basis of diodes, bipolar transistors, solar cells, LEDs, photodiodes, and many integrated-circuit structures.
 Its importance comes from rectification: current flows much more easily under forward bias than under reverse bias.
-The p-n junction is therefore one of the core devices linking [[semiconductor-band-structure]] to practical electronics.
-
-## Doping and Carrier Populations
-
-Pure silicon has relatively few thermally generated carriers at room temperature compared with a doped device.
+The p-n junction is therefore one of the core devices linking [[silicon]] has relatively few thermally generated carriers at room temperature compared with a doped device.
 Doping with group V atoms such as phosphorus creates donor levels and increases the electron concentration.
 Doping with group III atoms such as boron creates acceptor levels and increases the hole concentration.
 The terms p type and n type describe majority carrier sign, not net electrical charge of the bulk material.
@@ -105,41 +102,7 @@ Light creates electron-hole pairs, and the built-in electric field helps collect
 A photodiode uses a similar principle but is optimized for detection speed, sensitivity, or wavelength range.
 An LED is a forward-biased junction in which electron-hole recombination emits photons.
 Efficient light emission requires a semiconductor with a suitable band gap and favorable radiative recombination pathways.
-Direct-bandgap materials such as [[gallium-arsenide]] and gallium nitride are therefore central in many LEDs and laser diodes.
-Silicon p-n junctions are excellent for electronics but inefficient light emitters because silicon has an indirect band gap.
-Device geometry controls collection efficiency, optical absorption, series resistance, and heat removal.
-Surface passivation reduces recombination at dangling bonds and defects.
-Optoelectronic junctions show how the same carrier physics can convert between electrical and radiant energy.
-
-## Fabrication and Device Context
-
-P-n junctions can be formed by diffusion, ion implantation, epitaxial growth, or alloying processes.
-Modern integrated circuits use tightly controlled doping profiles and thermal budgets to place junctions at nanometer to micrometer scales.
-A bipolar junction transistor combines two junctions so that injection across one junction controls current through another.
-A MOSFET source and drain often include p-n junctions to the body, even though the gate field controls the channel.
-Power diodes use large area, thick drift regions, guard rings, and termination structures to support high voltage.
-Integrated-circuit junctions must also manage latch-up, isolation, capacitance, leakage, and electrostatic-discharge robustness.
-Wide-bandgap semiconductors such as silicon carbide and gallium nitride extend junction concepts to higher voltage and temperature regimes.
-Material defects, metal contacts, oxide interfaces, and packaging stresses can all alter ideal junction behavior.
-The clean textbook p-n junction is therefore a foundation, not the whole device.
-Good engineering models add the parasitic and reliability mechanisms required by the application.
-
-## Common Pitfalls
-
-Do not describe the p region as positively charged or the n region as negatively charged in bulk equilibrium.
-The neutral regions are mostly charge neutral; the important charge separation occurs in the depletion region.
-Do not treat the common silicon forward voltage as an immutable material constant.
-It is a consequence of current density, temperature, and the exponential diode law.
-Do not assume reverse bias means exactly zero current.
-Leakage current is small in many signal diodes but important in sensors, memory, power electronics, and high-temperature circuits.
-Do not apply the ideal Shockley equation to breakdown, heavy current, or fast switching without additional terms.
-Do not ignore heat: junction temperature changes leakage, voltage drop, lifetime, and failure risk.
-Do not forget that surface states and edge fields can dominate leakage or breakdown in real fabricated devices.
-A useful diode model is selected for the question being asked, not because one equation is universally sufficient.
-
-## Related Concepts
-
-[[semiconductor-band-structure]] explains energy bands, band gaps, and carrier populations.
+Direct-bandgap materials such as [[semiconductor-band-structure]] explains energy bands, band gaps, and carrier populations.
 [[maxwell-equations-electromagnetism]] underlies the electrostatic field and potential in the depletion region.
 Future pages on depletion regions and the Shockley diode equation could expand the space-charge and exponential-current details.
 Related engineering pages include MOSFET, bipolar junction transistor, solar cell, LED, avalanche breakdown, and Schottky barrier.

@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (youngsang-cho, 2016)
+  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture ([[youngsang-cho]], 2016)
 type: concept
 tags: [jadam, plant-growth]
 ---
@@ -16,59 +16,10 @@ fungicides and chemical coatings to protect seeds from soil-borne
 pathogens. JADAM replaces these chemical treatments with natural methods
 that are equally effective, cost nothing, and can be performed by any
 farmer using locally available materials. Seed self-sufficiency is a
-pillar of [[jadam-ultra-low-cost-agriculture]].
-
-## The Problem with Chemical Seed Treatment
-
-Chemical seed treatments serve as a significant revenue stream for
-agrichemical companies. Seed coating chemicals are applied at seed
-processing facilities, and farmers rarely have visibility into what
-chemicals are being used or their concentrations. The cost is embedded
-in seed prices, contributing to overall input dependency.
-
-More critically, chemical seed treatments often fail to fully prevent
-seed-borne diseases. Farmers who treat seeds with chemicals still
-experience outbreaks of bakanae disease, damping-off, and other
-seed-borne pathogens. This failure creates a cycle where additional
-chemical interventions are required after germination.
-
-## JADAM Seed Disinfection Method
-
-JADAM's seed disinfection method uses simple immersion in hot water
-combined with natural antimicrobial agents. The process is designed to
-kill pathogens on the seed surface and within the seed coat without
-damaging the seed embryo.
-
-### Hot Water Treatment
-
-The foundation of JADAM seed treatment is controlled hot water
-immersion:
-
-- Heat water to the appropriate temperature for the specific crop
-  (typically 50-60 degrees Celsius for most grains)
-- Immerse seeds in the hot water for the specified duration (varies by
-  crop, typically 10-30 minutes)
-- Remove seeds and cool rapidly in cold water to prevent heat damage to
-  the embryo
-- Dry seeds thoroughly before storage or planting
-
-Temperature and time must be calibrated for each crop species. Too hot
-or too long damages germination; too cool or too short fails to kill
-pathogens. JADAM provides specific guidelines for rice and other staple
-crops.
-
-### Natural Antimicrobial Additives
-
-JADAM enhances the hot water treatment with natural antimicrobial
-additives drawn from the same [[jadam-local-material-collection-and-use]] philosophy used throughout JADAM farming:
+pillar of [[jadam-local-material-collection-and-use]] philosophy used throughout JADAM farming:
 
 - **Plant extracts**: Infusions of pesticidal herbs used in
-  [[jadam-herb-solution-jhs]] production can be added to the
-  treatment water to increase pathogen-killing effectiveness.
-- **Sea salt**: A small amount of sea salt in the treatment water
-  provides additional antimicrobial action while supplying trace
-  minerals that benefit seed vigor.
-- **JADAM sulfur** ([[jadam-sulfur-germicide-js]]): A diluted
+  [[jadam-sulfur-germicide-js]]): A diluted
   solution of JS in the treatment water provides powerful germicidal
   action against fungal pathogens.
 

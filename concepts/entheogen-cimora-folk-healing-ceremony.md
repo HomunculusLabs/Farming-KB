@@ -11,51 +11,13 @@ type: concept
 # Cimora Folk Healing Ceremony
 
 Cimora is the name given to the intoxicating beverage prepared from the
-San Pedro cactus ([[trichocereus-pachanoi]]) in the Andean regions of Peru,
-Ecuador, and Bolivia. The drink serves as the central sacrament in a
-folk healing ceremony that combines ancient indigenous ritual with
-imported Christian elements. Cimora represents one of the oldest
-continuous entheogenic traditions in the Americas, with roots that
-likely extend back to pre-Columbian Chavin culture.
-
-## Preparation of the Cimora Drink
-
-The preparation of cimora begins with short lengths of the Trichocereus
-pachanoi stem, which are often sold in native markets throughout the
-Andean highlands. These sections are sliced like loaves of bread and
-then boiled in water for several hours. The resulting beverage is intensely
-bitter and frequently nauseating, characteristics shared with many other
-entheogenic preparations including [[ayahuasca-botany-and-preparation]].
+San Pedro cactus ([[ayahuasca-botany-and-preparation]].
 
 What distinguishes cimora from a simple San Pedro decoction is the
 frequent addition of secondary plant ingredients. Only recently have
 researchers become aware of the importance of these "secondary" plant
 ingredients often employed by indigenous societies. The fact that
-[[mescaline-compound-profile]] occurs in the mescaline peyote san does not mean that the
-drink prepared from it may not be altered by the addition of other
-plants, although the significance of the additives in changing the
-hallucinogenic effects of the brew is still not fully understood.
-This represents an excellent example of the often appreciable
-difference between the effects of drugs taken as natural products and
-the effects of their purified guzman magic mushrooms.
-
-## Additive Plants in Cimora
-
-The following plants have been documented as occasional or regular
-additives to the cimora brew, representing a sophisticated
-pharmacological understanding on the part of Andean healers:
-
-- Neoraimondia macrostibas -- an Andean cactus species whose chemistry
-  has not yet been fully determined
-- Pedilanthus tithymaloides -- a shrub of the castor oil family
-  (Euphorbiaceae) with reported biodynamic constituents
-- Isotoma longiflora -- a campanulaceous plant added for its
-  psychoactive properties
-- Datura species -- added on occasion for their tropane alkaloids
-  including scopolamine and atropine, which may contribute to the
-  sensation of flight sometimes reported during cimora ceremonies
-
-The inclusion of [[datura-stramonium]]|Datura is particularly noteworthy, as it introduces
+[[datura-stramonium]]|Datura is particularly noteworthy, as it introduces
 the powerful deliriant alkaloids scopolamine and atropine into the
 preparation. These tropane alkaloids are absorbable even through intact
 skin and can produce profoundly disorienting effects including the
@@ -122,3 +84,7 @@ preparations for healing and divination. As with other traditional
 entheogenic practices, the cimora ceremony faces challenges from
 modernization and legal restrictions, yet continues to adapt and
 persist in contemporary Andean society.
+
+## See Also
+
+- [[shamanic-entheogenic-healing]]

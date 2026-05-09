@@ -14,22 +14,12 @@ sources:
 type: concept
 ---
 
-# Maitake Problem Solving and Cultivation [[cervantes-troubleshooting-guide]]
-
-## Overview
-
-Cultivation of [[grifola-frondosa]] (maitake) presents unique
+# Maitake Problem Solving and Cultivation [[grifola-frondosa]] (maitake) presents unique
 challenges due to its highly aerobic nature, large size, and narrow
 environmental parameter requirements. This guide addresses common
 problems encountered during synthetic-log cultivation and offers
 practical solutions based on established practices in China, Japan,
-and [[neurotropic-fungi-in-north-america]].
-
-## Selecting High-Yield, Fast-Growing Strains
-
-Strains with a spawn run of 30 days before primordia initiation are
-considered fast-growing. Many strains require 60 to 90 days or more
-of [[mycelial-growth-and-colonization]] and maturation. Critically, approximately 90% of
+and [[mycelial-growth-and-colonization]] and maturation. Critically, approximately 90% of
 strains from culture collections and wild isolates do not fruit well,
 if at all. Always verify that any strain you obtain has been tested
 and demonstrated to be a reliable fruiting strain.
@@ -138,5 +128,4 @@ Journal of Medicinal Mushrooms, Vol. 1, pp. 153-167.
 
 ## See Also
 
-- [[cannabis-grow-nutrient-deficiency-problem-solving]]
 - [[powell-psilocybin-solution-psychedelics-and-problem-solving]]

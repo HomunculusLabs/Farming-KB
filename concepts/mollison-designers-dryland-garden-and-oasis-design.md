@@ -21,16 +21,7 @@ systems: high temperatures, intense solar radiation, low and erratic rainfall,
 high evaporation rates, and often poor, alkaline soils. Bill Mollison's
 *Permaculture: A Designers' Manual* addresses these challenges through design
 strategies that work with arid conditions rather than against them. The oasis
-model, sunken bed systems, and careful integration of [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-form the foundation of productive dryland permaculture.
-
-## Desert and Dryland Garden Design Principles
-
-The fundamental principle of dryland design is water conservation. Every
-element of the design must either capture, store, direct, or conserve water.
-Evaporation is the primary enemy of productivity in arid zones, and the
-designer's task is to minimize exposed soil and water surfaces while maximizing
-soil water-holding capacity through [[mollison-designers-humus-building-and-soil-organic-matter]].
+model, sunken bed systems, and careful integration of [[mollison-designers-humus-building-and-soil-organic-matter]].
 
 Wind is a secondary but significant stress factor. Hot, desiccating winds
 accelerate transpiration and soil moisture loss. Windbreak design is therefore
@@ -70,7 +61,7 @@ Shade is essential for reducing plant stress and evapotranspiration in dryland
 gardens. Shade structures range from simple shade cloth on frames to
 sophisticated multi-layered tree canopies. Mollison recommends using living
 shade wherever possible, with deciduous trees providing summer shade and
-winter sun access. Date palms, mesquite, [[acacia]], and [[carob]] are exemplary
+winter sun access. Date palms, mesquite, [[carob]] are exemplary
 multi-use shade trees for arid environments.
 
 Shade cast by buildings, walls, and earth banks can also be exploited. North-

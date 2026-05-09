@@ -139,11 +139,7 @@ and antimicrobial properties of caulerpenyne and related compounds.
 
 ## See Also
 
-- [[ulva-lactuca]]
 - [[saccharina-latissima]]
-- [[undaria-pinnatifida]]
 - [[laminaria-digitata]]
-- [[chondrus-crispus]]
 - [[gracilaria]]
-- [[sargassum]]
 - [[arthrospira-platensis]]

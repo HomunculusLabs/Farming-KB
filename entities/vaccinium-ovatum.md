@@ -114,13 +114,9 @@ Like all *Vaccinium* species, it forms ericoid mycorrhizal associations essentia
 
 ## See Also
 
-- [[vaccinium-corymbosum-entity]]
-- vaccinium macrocarpon
 - [[vaccinium-myrtillus]]
 - vaccinium parvifolium
-- [[rubus-idaeus-entity]]
 - [[sambucus-nigra]]
-- [[aronia-melanocarpa]]
 - [[morus-alba]]
 - rubus occidentalis
 - [[amelanchier-alnifolia]]

@@ -12,52 +12,7 @@ type: concept
 # JADAM Indigenous Microorganism Solution and Soil Foundation
 
 JADAM indigenous microorganism solution (JMS) is a cornerstone input in the
-JADAM [[ultra-low-cost-farming-overview]] system. The philosophy behind JMS
-is simple: take microorganisms from local natural environments rather than
-purchasing commercial products. The secret is in the soil formed from leaf mold,
-abundant in hills and fields, where leaves have piled up for hundreds of years
-and decomposed into what JADAM calls "black gold."
-
-## The Philosophy of Local Microorganisms
-
-Indigenous microorganisms that have adapted in a local environment are the best
-workers for that environment. All microorganisms are beneficial; nature has what
-you need everywhere. A Japanese microorganism product made in a hot and humid
-region was found unsuitable for other Japanese regions, confirming that
-microorganisms effective for agriculture of a region can only come from that
-region.
-
-In leaf mold exist particular strains that can decompose particular proteins,
-particular fats and particular substances. If you need bean-decomposers, throw
-beans into the leaf mold. Give them barley and barley-eaters will begin
-responding. They are super-versatile workers.
-
-## Making Leaf Mold When Mountains Are Absent
-
-If you live in an area without mountains or cannot find leaf mold, make
-artificial "leaf mold." Find a clean, unpolluted space of soil; cover it thick
-with cut grass; apply water to keep it moist. After some time, the soil beneath
-the grass turns soft, which is a sign of indigenous microorganisms propagating.
-Use this soft soil as starter for microorganism culture.
-
-## JMS Soil Foundation Method
-
-The soil foundation method is the most important technology in JADAM. It
-involves applying JMS intensively before active root growth:
-
-- For fruit trees: after leaves fall until sprouts or flowers appear next year
-- For field crops: from after-harvest to before transplant
-
-In this period, you can give as much water as you want so microbes can swim
-deep and thoroughly into the soil. When crops are growing, unlimited water
-cannot be applied, limiting microbial penetration. Early root settlement
-determines the success of harvest.
-
-### Application Protocol
-
-"Soil foundation work" means applying JMS plus minerals plus JADAM liquid
-fertilizer (JLF) before transplanting or flowering. Use motored sprayer,
-sprinkler or [[cervantes-drip-irrigation-systems]] to apply a mixture of:
+JADAM [[cervantes-drip-irrigation-systems]] to apply a mixture of:
 - JMS (500 L / 132 gal per 1/4 acre to 8 acres)
 - Sea salt (500 g / 1.1 lb per 1/4 acre)
 - Phyllite solution (500 g / 1.1 lb per 1/4 acre)
@@ -138,8 +93,6 @@ tiller to break them down. This eliminates the labor-intensive turning process
 that makes organic farming difficult and costly.
 
 ## See Also
-
-- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]
 
 - [[jadam-microorganism-solution-culturing]]
 

@@ -22,35 +22,6 @@ the right approach determines the years of work ahead, the diversity of harvest,
 the level of ecological integration on a given site.
 
 ## Food Forest Design
-[[food-forest-design-guide]]
-
-Food forest design replicates the structure and function of a natural forest ecosystem
-to produce food, fiber, and medicine across seven distinct vertical layers: canopy
-trees such as chestnut and pecan, understory trees like pawpaw and mulberry, shrub
-layer including currants and elderberry, herbaceous layer with comfrey and sorrel,
-ground cover including strawberry and clover, root layer with Jerusalem artichoke, and
-vine layer with grapes and kiwi. The design philosophy holds that diverse plant
-communities self-regulate through predator-prey relationships, nutrient cycling via
-fungal networks and deep-rooted dynamic accumulators, and in-place mulch production.
-
-Guild design is central to food forest planning, arranging plants in mutually
-beneficial groupings around a central element such as a fruit tree. A typical apple
-guild might include nitrogen-fixing plants like eleagnus, dynamic accumulators like
-comfrey, insectary plants like yarrow, and root crops that occupy different soil
-horizons. Ecological succession stages guide the design from initial establishment
-with pioneer species through maturation to a stable productive canopy. The result is
-a food-producing ecosystem that requires decreasing human intervention over time,
-with the most demanding phase being the first three to five years of establishment.
-
-The primary trade-off is complexity. Food forests require significant design
-knowledge, a larger minimum space of roughly one-eighth acre, and patience during
-the five to ten year maturation period. Harvest management across fifty to one
-hundred or more species can be challenging, and dense plantings make access for
-pruning and harvesting more difficult. However, the long-term payoff is a resilient,
-self-fertilizing, pest-resistant food system that produces across all seasons and
-layers with minimal external inputs.
-
-## Backyard Orchard Design
 [[backyard-orchard-design]]
 
 Backyard orchard design prioritizes practical, manageable fruit production for
@@ -126,11 +97,7 @@ nutrient cycles emerging naturally from the increasing plant diversity.
 
 ## See Also
 
-- [[comparison-food-forest-vs-orchard]]
 - [[comparison-food-forest-vs-backyard-orchard]]
-- [[comparison-food-forest-vs-polyculture]]
 - [[food-forest-layers-and-species]]
-- [[fruit-tree-pruning]]
 - [[guild-design-methods]]
-- [[comparison-backyard-food-forest-vs-urban-permaculture]]
 - [[hemenway-guild-design-roles-and-assembly]]

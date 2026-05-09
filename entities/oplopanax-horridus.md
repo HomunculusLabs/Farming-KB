@@ -126,11 +126,8 @@ pressure on wild stands.
 
 ## See Also
 
-- [[panax-ginseng]]
 - [[eleutherococcus-senticosus]]
 - aralia nudicaulis
-- [[acorus-calamus]]
 - [[urtica-dioica]]
-- [[glycyrrhiza-uralensis]]
 - [[withania-somnifera]]
 - [[quercus-robur]]

@@ -3,13 +3,7 @@ title: Island Permaculture Design
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [permaculture, design]
-sources:
-  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
----
-# Island Permaculture Design
-
-Mollison treats islands as unique design challenges requiring specialized strategies. Islands are "temporary events" in geological time, with limited catchment, finite water storage, and extreme vulnerability to erosion. There are two fundamental classes: low islands (coral atolls and cays) and high islands (volcanic or granitic). Each presents distinct problems and opportunities for [[permaculture-design]].
+tags: [[permaculture-design]].
 
 ## Low Islands
 
@@ -102,15 +96,8 @@ This cross-application extends to design techniques: swales developed for tropic
 
 ## See Also
 
-- [[arid-landscape-permaculture]]
 - [[water-storage-techniques]]
-- [[aquaculture-in-permaculture]]
 - [[permaculture-zones-system]]
-- [[keyline-design]]
-
-## Related
-
 - [[ohana-watershed-system]]
-- [[arid-zone-permaculture-strategies-mollison]]
 - [[mollison-tropical-and-coastal-permaculture-design]] — for shoreline vegetation establishment techniques
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]] — for detailed windbreak species selection and layout

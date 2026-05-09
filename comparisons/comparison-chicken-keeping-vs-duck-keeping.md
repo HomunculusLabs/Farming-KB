@@ -3,11 +3,11 @@ title: "Comparison Chicken Keeping Vs Duck Keeping"
 created: 2026-05-02
 updated: 2026-05-02
 type: comparison
-tags: [homesteading, livestock]
+tags: [[homesteading, livestock]
 sources: []
 ---
 ---
-title: "[[chicken-keeping]] vs [[duck-keeping]]"
+title: "[[duck-keeping]]"
 tags: [comparison, poultry, livestock, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
@@ -27,34 +27,6 @@ significantly impacts daily management routines, housing design, and integration
 with the rest of the homestead system.
 
 ## Chicken Keeping
-
-[[chicken-keeping]]
-
-Chickens are the most widely kept backyard livestock in North America, prized
-for reliable egg production, efficient feed conversion, and ease of integration
-into permaculture systems. A well-managed flock of four to twelve hens produces
-250 to 320 eggs per bird per year from top layer breeds like Leghorns, Rhode
-Island Reds, and Australorps. Beyond eggs, chickens provide valuable manure for
-composting, insect control through scratching and foraging, and food waste
-recycling — they will consume most kitchen scraps and garden surplus.
-
-Housing for chickens is straightforward: secure, ventilated coops with nesting
-boxes, roosting bars, and predator protection. The deep litter method simplifies
-coop management by building a composting carbon bed that generates warmth and
-reduces cleaning frequency. Chicken tractors — mobile coops without floors —
-allow birds to fertilize and till specific garden areas while being protected
-from predators. Chickens fit naturally into permaculture Zone 2, cycling
-nutrients between garden, compost, and flock.
-
-The challenges are real. Chickens are vulnerable to a wide range of predators
-including raccoons, hawks, foxes, weasels, and dogs, requiring robust housing and
-vigilance. Egg production declines roughly 10 to 15 percent per year after the
-first laying season, and annual molts cause six to twelve week pauses. Health
-issues include mites, lice, respiratory diseases, and egg binding. Biosecurity —
-quarantine protocols, rodent-proof feed storage, and clean water — is essential
-for flock health.
-
-## Duck Keeping
 
 [[duck-keeping]]
 
@@ -136,11 +108,7 @@ dual-purpose breeds that compromise on either output.
 
 ## See Also
 
-- [[comparison-chicken-keeping-vs-beekeeping-basics]]
-
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]
 
-- [[comparison-chicken-tractor-vs-free-range]]
 - [[homesteading-livestock-comparison]]
-- [[chicken-integration-permaculture-guide]]
 - [[duck-rice-paddy]]

@@ -3,16 +3,7 @@ title: Neurotropic Fungi in Mexico
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
----
-
-# Neurotropic Fungi in Mexico
-
-Mexico possesses the highest diversity of neurotropic fungi in the world, with
-76 species reported (Guzman, Allen & Gartz, 1998). Of these, 44 belong to the
-genus [[psilocybe-subaeruginosa-australia]] (39% of the world's total neurotropic
+tags: [[psilocybe-subaeruginosa-australia]] (39% of the world's total neurotropic
 Psilocybe species). Mexico is the center of traditional use of sacred mushrooms,
 with numerous indigenous groups maintaining ceremonial practices involving these
 fungi.
@@ -22,13 +13,9 @@ fungi.
 Mexico's neurotropic mycota spans all four groups defined by Guzman et al. (1998):
 
 - **Group 1 (Psilocybin-containing):** 44 Psilocybe taxa plus species of
-  [[copelandia-genus-species-guide]],
   [[panaeolus-subbalteatus-profile]], Panaeolina, Conocybe,
   Gymnopilus, Inocybe, Pluteus, and Hypholoma
 - **Group 2 (Ibotenic acid-containing):**
-  [[amanita-muscaria-chemistry-and-pharmacology]],
-  A. pantherina
-- **Group 3 (Ergot alkaloids):**
   [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]], C. paspali
 - **Group 4 (Sacred fungi without chemical study):** Dictyophora indusiata,
   Lycoperdon spp., Vascellum spp.
@@ -39,8 +26,7 @@ Key Mexican Psilocybe species include:
 
 - **P. mexicana** — The type species for Section Mexicanae, among the most
   well-documented ceremonial species. First studied by
-  [[roger-heim-scientific-study-psilocybin]] and R. Gordon Wasson. See
-  [[psychedelic-mushrooms-species-and-identification]]
+  [[psychedelic-mushroom-set-and-setting]]
 - **P. caerulescens** — Known as "derrumbes" (landslides), found in cloud
   forests. Two varieties: var. caerulescens and var. ombrophila
 - **P. zapotecorum** — Named after the Zapotec people of Oaxaca, found in
@@ -66,25 +52,7 @@ Of the 42 neurotropic Psilocybe species documented in Guzman's 1983 monograph:
 
 Despite coniferous forests being more thoroughly mycologically surveyed,
 mesophytic forests harbor far greater diversity. This reflects the preference of
-most [[neurotropic-fungi-world-checklist]] for humid subtropical
-conditions.
-
-Mexico represents a biogeographic crossroads where northern hemisphere and
-southern hemisphere mycobiotas converge. Northern species such as P. caerulipes
-reach northeastern Mexico (Zacualtipan, Hidalgo) through deciduous forest
-corridors, while southern species like P. yungensis and P. subyungensis arrived
-via mesophytic forests with Alnus.
-
-## Traditional Use
-
-Mexico has the longest documented history of ceremonial neurotropic mushroom
-use. Key indigenous groups include the Mazatec, Mixtec, Zapotec, Nahuatl, and
-Chinantec peoples. The mushrooms are known by numerous common names in indigenous
-languages, including "teonanacatl" (divine mushroom), first recorded by
-Bernardino de Sahagun (1569–1582). Spanish-language names include "pajaritos"
-(little birds), "derrumbes" (landslides), and "san isidros."
-
-The [[wasson-mexico-expeditions]] of the 1950s brought international attention
+most [[wasson-mexico-expeditions]] of the 1950s brought international attention
 to Mexican mushroom ceremonies, leading to the identification of psilocybin by
 Albert Hofmann in 1958. Maria Sabina, a Mazatec curandera, became one of the
 most famous figures in the history of ethnobotany as a result
@@ -101,9 +69,25 @@ ceremonial traditions.
 
 ## Related Topics
 
-- [[neurotropic-fungi-world-checklist]] — Complete world species checklist
 - [[neurotropic-fungi-biogeographic-patterns]] — Global distribution analysis
-- [[neurotropic-fungi-in-south-america]] — Southern neighbor comparison
 - [[neurotropic-fungi-in-central-america]] — Regional neighbors
-- [[psilocybe-section-classification]] — Taxonomic sections
 - [[magic-mushroom-cultural-history]] — Cultural context
+## Practical Considerations
+
+Successful implementation of Neurotropic Fungi in Mexico requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

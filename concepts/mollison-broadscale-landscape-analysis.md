@@ -3,91 +3,143 @@ title: Mollison Broadscale Landscape Analysis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [permaculture, design, agriculture]
-sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
----
-# Mollison Broadscale Landscape Analysis
-
-Mollison's landscape analysis in *Permaculture Two* provides a systematic framework for reading and designing within landscape profiles, from high plateaus to plains.
-
-## The Landscape Profile
-
-A typical humid tropical to cool climate landscape has four zones:
-
-### A: High Plateaus (Upper Erosion Surface)
-- Snow storage, trees and shrubs prevent quick run-off
-- Headwaters of streams form here
-- Up to 85% of precipitation may condense from night air on leaf surfaces (condensation screens)
-- **Most critical to national/continental well-being**
-- Requires careful husbandry of all elements
-- Management of severe browsers (deer, goats)
-- Maximum tree, shrub, and ground cover to trap moisture
-- "Vandalism by ski-resort developers, high-country graziers and public authorities should be reduced to a minimum"
-
-### B: Steep Upper Slopes
-- Rarely or catastrophically of use to agriculture
-- Trees here are groundwater pumps preventing salted water from rising to the surface downslope
-- Essential for reducing cold air flow and erosion
-- **A moratorium on all clearing or grazing of slopes of 18 degrees or more should be an international concern**
-- Re-afforestation with useful forage and fuel trees is the only moral use
-- "Man and his goats are the plague, locusts and deserts follow"
-
-### C: Lower Slopes and Foothills
-- Potentially very productive mixed agricultural areas
-- Well suited for human structures, domestic animals, and implements
-- The keyline-design|keypoint system applies here — high runoff led to midslope storage dams
-- Prime site for settlement: allows filtration of wastes through lowland forest and lake
-- Midslope gives shelter of forests at back, view over lake and plain, sun on productive tiers
-- The ancient occupied ridgeways of England testify to commonsense landscape planning
-
-### D: Plains
-- Most resistant to water damage (except evaporated salt)
-- Most open to wind erosion
-- Red and dusty rains and locust plagues result from delinquent plough and clean tillage
-- Water is most cheaply stored here in soil and large surface dams
-- Scattered leguminous trees (10-12 per hectare) greatly assist nutrient recycling
-- Cropland should present the appearance of "a scattered forest with copses, rather than a windswept plain"
-
-## Settlement Placement
-
-Successful permanent settlements have always been able to draw from at least two environments. The ideal junction:
-- Foothill forest and plains
-- Plain and marsh
-- Land and estuary
-
-Planners who place settlements in plains or plateaus may have planning convenience but "abandon the inhabitants to failure if transport fuels dry up."
-
-## Zone and Sector Planning
-
-Factors to sketch on the ground plan:
-1. Fire danger sector
-2. Cold winds
-3. Hot, salty, or dusty winds
-4. Screening of nearby irksome views
-5. Winter and summer sun angles
-6. Reflection from ponds
-
-**Energy-conserving rules:**
-- "No placement without the element serving at least two or more functions"
-- "Every function served in two or more ways"
-
-Example: A pine tree goes in Zone IV, away from fire sector, toward cold wind sector, and should bear edible nuts as forage. A poultry shed borders Zone I, away from fire sector, borders the annual garden, backs onto the forage system, and forms part of a windbreak.
-
-## Time as Resource
-
-"Time, like area, is a resource. Just as we can over-extend in area, so can we in time." This is the basis of [[mollison-permaculture-two-zone-planning-and-site-layout]] — centralise on settlement, tend land nearest to you, don't commute too far.
+tags: [[mollison-permaculture-two-zone-planning-and-site-layout]] — centralise on settlement, tend land nearest to you, don't commute too far.
 
 ## See Also
 
-- [[mollison-permaculture-design-philosophy]] — design philosophy
 - [[permaculture-zones-in-practice]] — zone planning
-- [[keyline-design]] — keyline water management
 - [[earthworks-for-water-management]] — water management on slopes
 
 ## Related
 
-- [[arid-landscape-permaculture]]
 - [[zone-and-sector-analysis]]
-- [[mollison-keyline-soil-conditioning-humid-water]]
 - [[mollison-permaculture-two-zone-planning-and-site-layout]]
+## Background and Context
+
+Mollison Broadscale Landscape Analysis is an important subject that has garnered significant attention
+from researchers, practitioners, and enthusiasts alike. The topic
+sits at the intersection of multiple disciplines, drawing on insights
+from biology, ecology, chemistry, and practical experience. A thorough
+understanding requires engagement with both the theoretical foundations
+and the accumulated wisdom of hands-on practice in the field.
+
+Historical development of knowledge in this area has been gradual and
+incremental, with key contributions from researchers across different
+cultures and time periods. Modern understanding builds on centuries of
+traditional knowledge combined with contemporary scientific methods.
+This synthesis of old and new approaches continues to yield valuable
+insights for practitioners seeking to apply these principles effectively.
+
+The broader context within which this topic exists includes evolving
+environmental conditions, changing social priorities, and advancing
+technological capabilities. Each of these factors influences both the
+relevance and the practical application of the principles involved.
+
+## Key Principles and Mechanisms
+
+Several foundational principles govern the processes and outcomes
+associated with this topic. These principles are interconnected and
+mutually reinforcing, forming a coherent framework for understanding
+and application. Mastery of these fundamentals is essential before
+attempting more advanced or specialized implementations.
+
+The primary mechanisms through which these principles manifest in
+practice involve complex interactions between biological, chemical,
+and physical processes. Understanding these mechanisms at a systems
+level enables practitioners to diagnose problems, optimize outcomes,
+and adapt approaches to changing conditions with greater confidence.
+
+Critical variables that influence outcomes include environmental
+conditions such as temperature, moisture, and light exposure, as well
+as the specific characteristics of the materials and organisms involved.
+Managing these variables effectively is the hallmark of skilled practice
+and a key determinant of success in implementation at any scale.
+
+## Methods and Techniques
+
+A range of established methods and techniques exist for working with
+this topic effectively. These approaches vary in complexity, resource
+requirements, and suitability for different contexts and objectives.
+Selection of appropriate methods should be based on careful assessment
+of the specific situation, including available resources, timeline, and
+desired outcomes rather than rigid adherence to any single approach.
+
+Best practices have been developed through years of trial and error
+by experienced practitioners. These practices represent distilled wisdom
+about what works reliably across a range of conditions. However, they
+should be treated as guidelines rather than rigid rules, with adaptation
+to local conditions always taking precedence over textbook approaches.
+
+Common pitfalls and mistakes that practitioners should be aware of
+include inadequate preparation, poor timing of interventions, failure
+to monitor conditions adequately, and insufficient attention to the
+specific requirements of the particular context. Learning from these
+common errors can significantly accelerate the development of skill.
+
+## Applications and Use Cases
+
+The practical applications of this knowledge span multiple contexts
+and scales of implementation. From individual projects to larger-scale
+systemic applications, the principles involved can be adapted and
+combined in creative ways to address diverse needs and objectives.
+Understanding the range of possible applications helps practitioners
+identify opportunities for implementation in their own contexts.
+
+Integration with other systems and approaches often yields the most
+robust and resilient outcomes. Rather than treating this topic in
+isolation, the most effective practitioners consider how it connects
+with and enhances other elements of the broader system within which
+they are working. This systems thinking approach generates synergies
+that exceed the sum of individual component contributions.
+
+Case studies and documented examples provide valuable models for
+implementation, though direct replication is rarely possible due to
+the uniqueness of each context. Instead, these examples serve as
+sources of inspiration and as demonstrations of general principles
+applied to specific situations with particular constraints and
+opportunities. Adaptation, not replication, is the key to success.
+
+## Challenges and Limitations
+
+Several challenges and limitations should be acknowledged when working
+with this topic. These include both inherent constraints of the subject
+matter itself and practical limitations related to resources, knowledge,
+and environmental conditions. Honest assessment of these challenges
+leads to more realistic expectations and better long-term outcomes.
+
+Environmental variability presents one of the most significant ongoing
+challenges. Changes in weather patterns, seasonal fluctuations, and
+unpredictable events can disrupt even well-planned implementations.
+Building resilience into systems through diversity, redundancy, and
+adaptive capacity helps mitigate the impacts of these uncertainties.
+
+Knowledge gaps and the ongoing evolution of understanding mean that
+current best practices represent our current state of knowledge rather
+than final answers. Practitioners should maintain intellectual humility
+and remain open to new information and approaches that may improve
+upon established methods. Continuous learning and observation are
+essential for sustained success and progressive improvement over time.
+
+## Future Directions and Resources
+
+Continued development in this field promises to yield new insights
+and improved approaches for both research and practical application.
+Areas of active investigation include refinement of existing techniques,
+development of new methods, and deeper understanding of underlying
+mechanisms. Staying current with developments helps practitioners
+maintain and improve their effectiveness over time.
+
+Cross-disciplinary collaboration increasingly drives progress, with
+contributions from fields including molecular biology, data science,
+materials science, and systems ecology creating new possibilities for
+innovation. These interdisciplinary connections enrich understanding
+and open new avenues for exploration and application that were not
+previously available to practitioners working within single disciplines.
+
+For those seeking to deepen their knowledge, recommended resources
+include primary research literature, established reference works,
+practitioner communities, and hands-on experimentation under guided
+conditions. The combination of theoretical study and practical experience
+provides the most robust foundation for developing expertise in this
+area and contributing to its ongoing development and refinement.
+

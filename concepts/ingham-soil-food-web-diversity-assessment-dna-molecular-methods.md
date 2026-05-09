@@ -1,6 +1,6 @@
 ---
 title: "Soil Food Web Diversity Assessment: DNA and Molecular Methods"
-source: "[[elaine-ingham]] Ph.D. — The Field Guide I for [[actively-aerated-compost-tea]] (AACT)"
+source: "[[actively-aerated-compost-tea]] (AACT)"
 tags: [soil-food-web, microbiology, DNA-testing, diversity-assessment, molecular-methods, compost-tea, soil-health]
 created: 2026-05-08
 ---
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Assessing microbial diversity in soil, compost, and [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]] is critical for understanding [[soil-health-management]], [[ingham-aact-disease-suppression]], [[teaming-with-nutrients-composting-and-nutrient-cycling]]. Dr. [[elaine-ingham]]'s [[soil-foodweb-balancing-protocol-ingham]] Inc. (SFI) developed a multi-tiered approach progressing from morphological microscopy toward molecular DNA-based methods. Understanding both approaches and their limitations is essential for [[biological-soil-crusts]] leman-greenhouse-soil-management]].
+Assessing microbial diversity in soil, compost, and  is critical for understanding , , . Dr. 's  Inc. (SFI) developed a multi-tiered approach progressing from morphological microscopy toward molecular DNA-based methods. Understanding both approaches and their limitations is essential for  leman-greenhouse-soil-management.
 
 ## Why Diversity Matters
 
@@ -40,7 +40,7 @@ Bacteria are categorized by shape, size, color, motility, and structures like fl
 Fungi are assessed by hyphal diameter, branching patterns, septation, and color:
 
 - **Diameter**: Thin hyphae (2-4 µm) are typically saprophytic; thicker hyphae suggest established decomposers.
-- **Septation**: Septate fungi include many decomposers and [[mycorrhizal-types]].
+- **Septation**: Septate fungi include many decomposers and .
 - **Melanization**: Dark-pigmented hyphae indicate stress tolerance and competitive ability.
 
 ### Limitations of Morphological Assessment
@@ -119,3 +119,7 @@ Comprehensive approach using DNA chip arrays, PCR amplification, probe developme
 
 - Ingham, E.R. (2004). *The Field Guide I for Actively Aerated Compost Tea (AACT)*. Sustainable Studies Institute.
 - Soil Foodweb Inc. (SFI) testing protocols and assay development documentation.
+
+## See Also
+- [[fungal-species-estimation-methods-total-diversity]]
+- [[ingham-field-guide-soil-food-web-assessment]]

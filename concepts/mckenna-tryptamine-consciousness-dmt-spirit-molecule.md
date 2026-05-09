@@ -92,12 +92,8 @@ McKenna proposes that the alien quality of the DMT experience may be a function 
 
 ## See Also
 
-- [[mckenna-tryptamines-logos-consciousness]]
-
 - [[5-meo-dmt-reference]]
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
-- [[psychedelic-consciousness-models]]
 - [[information-paradigm-of-consciousness]]
 
 - mckenna-tryptamine-hallucinogens-and-consciousness -- parent topic overview

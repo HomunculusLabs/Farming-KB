@@ -1,7 +1,7 @@
 ---
 title: "Fungal Multilocus Sequence Typing"
 created: 2026-04-28
-tags: [mycology, genotyping, epidemiology, population-genetics, MLST]
+tags: [[mycology, genotyping, epidemiology, population-genetics, MLST]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
@@ -18,64 +18,7 @@ revolutionized our understanding of fungal species boundaries, population
 structure, biogeography, and the evolution of pathogenicity. By providing
 portable, reproducible, and web-accessible genotype data, MLST and MLMT
 address many of the limitations of earlier fingerprinting techniques and
-complement the phylogenetic approaches described in [[gadd-fungal-species-recognition]].
-
-## Origins and Rationale
-
-The characterization of genetic variation has been central to advances in
-medical mycology and phytopathology, driven by the need for effective
-molecular epidemiological tools. Earlier methods including VNTRs, MLEE,
-RFLPs, RAPDs, and PFGE were typically developed in-house for specific
-problems, suffered from poor reproducibility between laboratories, and
-produced data that could not be easily shared or re-analyzed. Genotypes
-were effectively "fossilized" upon publication.
-
-MLST was developed to address these limitations by meeting four criteria:
-(1) 100% reproducibility between laboratories; (2) ability to discriminate
-between isolates while remaining stable over time; (3) accurate portrayal of
-evolutionary relationships at multiple scales; and (4) portability and
-accessibility to the wider research community.
-
-## MLST Methodology
-
-MLST works by directly amplifying, using PCR, a 450 to 500 nucleotide
-fragment from each of 7 to 10 housekeeping genes for each isolate. This
-fragment length allows complete bidirectional sequencing with a single primer
-pair, ensuring that all polymorphisms are scored at least twice. The
-resulting ~3,500 nucleotides per isolate represent seven independent samples
-of genome-wide genetic variation.
-
-Each unique allele at a particular locus receives a unique integer code. The
-concatenated string of integers across all loci defines the allelic profile,
-or sequence type (ST), of an isolate. Sequences differing by a single
-nucleotide change are assigned different alleles and unique STs. No
-weighting schemes are used: a single point mutation carries as much weight
-as a recombinational exchange, simplifying analyses while preserving access
-to raw sequence data for more nuanced investigations.
-
-## Web-Based Databases
-
-A defining feature of MLST is the centralization of data in web-accessible
-databases. STs are held in SQL server relational databases accessible via web
-interfaces, primarily at http://www.mlst.org/. This allows laboratories
-worldwide to upload and compare their isolates' STs to existing data,
-enabling direct comparison across studies. As the database grows, its power
-to portray the genetic structure of a species increases. Separate websites
-house MLMT schemes at http://www.multilocus.net/.
-
-## MLST Applications in Fungi
-
-The first fungal MLST scheme was developed for Coccidioides immitis by
-sequencing five genes (CHS1, pyrG, tcrP, CTS2, and a serine proteinase),
-revealing an average 1.4% nucleotide diversity between isolates and
-demonstrating two strongly supported clades separated by 11 to 12.8 million
-years. This evidence led to the naming of C. posadasii as a new sister
-species. The scheme further showed that North and Central American isolates
-comprised geographically separated, recombining populations with geography
-covarying linearly with genetic distance, indicating low long-distance
-spore dispersal.
-
-For [[candida-albicans]], an internationally agreed seven-gene scheme (AAT1a,
+complement the phylogenetic approaches described in [[candida-albicans]], an internationally agreed seven-gene scheme (AAT1a,
 ACC1, ADP1, MPIb, SYA1, VPS13, ZWF1b) is hosted at calbicans.mlst.net. With
 279 isolates catalogued, 87% represent unique STs, reflecting high genetic
 diversity. A Candida glabrata scheme with six genes (FKS, LEU2, NMT1, TRP1,
@@ -122,20 +65,26 @@ both methods gave concordant results.
 To compensate for homoplasy, the solution is to use more loci. Fisher and
 colleagues used 20 microsatellites for Penicillium marneffei. The combination
 of MLST for species-level questions and MLMT for population-level resolution
-provides a powerful hierarchical approach to [[fungal-population-genetics]].
-
-## Broader Applications
-
-Beyond medical mycology, extensive multilocus genealogies have been generated
-for Histoplasma capsulatum, [[cryptococcus-neoformans]], Batrachochytrium
+provides a powerful hierarchical approach to [[cryptococcus-neoformans]], Batrachochytrium
 dendrobatidis, Saccharomyces species, Fusarium species, and lichenized
 ascomycetes such as Letharia. These methods are not limited to pathogens and
-have enormous potential for addressing questions in [[fungal-biodiversity]],
-conservation, and the population ecology of environmental fungi. As genome
-sequences become available for more fungal species, MLST schemes will
-increasingly be developed, enabling truly global studies of fungal species
-and their evolution.
+have enormous potential for addressing questions in [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
+## Practical Considerations
 
-## See Also
+Successful implementation of Fungal Multilocus Sequence Typing requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-- [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

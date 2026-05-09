@@ -16,7 +16,7 @@ Permaculture Two (1979) details intensive small-scale growing systems for home f
 
 A continuous rotation of small grains intercropped with white clover. Grain types: rye, barley, millet, wheat, oats. Each grain type occupies one plot per year in a five-plot rotation. Straw from each grain type moves to a different plot each year as mulch. White clover serves as the permanent leguminous intercrop, fixing nitrogen and providing poultry forage.
 
-Seeding rates are remarkably low: clover at 1 kg/ha, grains at 7-16 kg/ha. The system demonstrates that productive agriculture can be achieved with minimal seed inputs when soil health is maintained through continuous mulch. This connects to [[biointensive-gardening-overview]] and [[no-till-grain-growing]] methods.
+Seeding rates are remarkably low: clover at 1 kg/ha, grains at 7-16 kg/ha. The system demonstrates that productive agriculture can be achieved with minimal seed inputs when soil health is maintained through continuous mulch. This connects to [[no-till-grain-growing]] methods.
 
 Continuous mulch system: approximately 900 kg of mulch per 1000 m2 annually.
 
@@ -64,31 +64,17 @@ Tomato propagation: Axil shoots pinched out and reset as small plants all summer
 
 ## Seed Self-Reliance
 
-Allow 4-6% of crops to run to seed each season, eliminating the need to buy annual seed. This creates locally-adapted varieties and builds food sovereignty at the household level. See [[permaculture-seed-saving]] and [[home-garden-seed-saving]] for detailed seed saving techniques.
+Allow 4-6% of crops to run to seed each season, eliminating the need to buy annual seed. This creates locally-adapted varieties and builds food sovereignty at the household level. See [[home-garden-seed-saving]] for detailed seed saving techniques.
 
 ## Duck-Rice Integration
 
-100 ducks per hectare (40 per acre) introduced when rice crop reaches 150mm. Ducks control pests (insects, snails, weeds) and add manure to the system. This is an ancient Asian technique that Mollison documents and recommends for temperate adaptation. See [[duck-rice-paddy]] for more detail.
-
-## Fukuoka Influence
-
-Mollison explicitly references [[fukuoka-do-nothing-farming-philosophy]] as a key influence on the no-dig, natural farming approach. The rice paddy system described draws from Fukuoka's methods adapted for temperate climates. Fukuoka's system uses only poultry as manurial sources, with ducks as both pest controllers and recyclers. The [[fukuoka-rice-barley-dual-culture]] method demonstrates the viability of continuous grain cropping without tillage.
-
-## Integration with Zone 1 Design
-
-These intensive food systems are ideally suited to [[permaculture-zone-one-design]] where daily attention and harvesting occur. The combination of grains, vegetables, and small livestock in close proximity maximizes yield per square meter while minimizing external inputs.
+100 ducks per hectare (40 per acre) introduced when rice crop reaches 150mm. Ducks control pests (insects, snails, weeds) and add manure to the system. This is an ancient Asian technique that Mollison documents and recommends for temperate adaptation. See [[fukuoka-do-nothing-farming-philosophy]] as a key influence on the no-dig, natural farming approach. The rice paddy system described draws from Fukuoka's methods adapted for temperate climates. Fukuoka's system uses only poultry as manurial sources, with ducks as both pest controllers and recyclers. The [[permaculture-zone-one-design]] where daily attention and harvesting occur. The combination of grains, vegetables, and small livestock in close proximity maximizes yield per square meter while minimizing external inputs.
 
 ## See Also
 
-- [[duck-rice-paddy]]
-
 - [[fukuoka-do-nothing-farming-philosophy]]
 
-- [[fukuoka-rice-barley-dual-culture]]
-
 - [[biointensive-gardening-overview]]
-
-- [[permaculture-zone-one-design]]
 
 - [[no-till-grain-growing]]
 

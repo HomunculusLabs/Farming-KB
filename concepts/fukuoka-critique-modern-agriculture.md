@@ -10,7 +10,7 @@ sources:
 
 # Fukuoka Critique of Modern Agriculture
 
-Masanobu Fukuoka's critique of modern agriculture is one of the most thorough and penetrating in the literature of natural farming. Drawing on thirty to forty years of direct farming experience and a career as a plant pathologist, he systematically dismantles the assumptions underlying scientific agriculture. His approach is grounded in the [[fukuoka-natural-farming-philosophy-of-mu]] articulated in [[fukuoka-one-straw-revolution-impact]].
+Masanobu Fukuoka's critique of modern agriculture is one of the most thorough and penetrating in the literature of natural farming. Drawing on thirty to forty years of direct farming experience and a career as a plant pathologist, he systematically dismantles the assumptions underlying scientific agriculture. His approach is grounded in the [[fukuoka-one-straw-revolution-impact]].
 
 ## The Kochi Prefecture Lesson
 
@@ -47,11 +47,7 @@ Spraying pesticides with high residual toxicity and mutagenic chemicals onto eas
 
 ## Critique of Organic Farming
 
-Fukuoka explicitly states that organic farming is "just another type of scientific farming." It involves moving organic materials, processing and treating them, with only local and temporal gains. From a broader perspective, many efforts to protect the natural ecology through organic methods are actually destructive. For more on this distinction, see [[natural-farming-vs-organic-farming]].
-
-## Critique of Compost
-
-The belief that compost is essential is challenged. See [[fukuoka-compost-unnecessary-philosophy]] for a detailed treatment:
+Fukuoka explicitly states that organic farming is "just another type of scientific farming." It involves moving organic materials, processing and treating them, with only local and temporal gains. From a broader perspective, many efforts to protect the natural ecology through organic methods are actually destructive. For more on this distinction, see [[fukuoka-compost-unnecessary-philosophy]] for a detailed treatment:
 - Scattering fresh straw directly over fields is more effective than preparing compost
 - The decomposition of straw on the ground involves a vast natural succession of organisms
 - Human composting efforts "just disturb the rapid and perfect natural processes"
@@ -88,13 +84,8 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
-- [[fukuoka-textdoc-critique-mechanization-agriculture]]
-
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-one-straw-revolution-philosophy]]
-- [[fukuoka-critique-green-revolution]]
-- [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

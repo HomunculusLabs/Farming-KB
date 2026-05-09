@@ -127,7 +127,9 @@ Christian Rätsch died on **September 9, 2022**, at the age of 65. His death was
 
 ## See Also
 
-- [[terence-mckenna]] — A kindred spirit in ethnobotanical advocacy and psychedelic scholarship
 - [[paul-stamets]] — Mycologist who similarly bridges academic and popular audiences
-- [[richard-evans-schultes]] — The "father of modern ethnobotany" who preceded Rätsch
 - [[alexander-shulgin]] — Chemist who synthesized and documented hundreds of psychoactive compounds
+
+## See Also
+
+- [[shamanism-and-hallucinogenic-plants]]

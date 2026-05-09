@@ -121,7 +121,9 @@ garden."
 
 ## See Also
 
-- [[faires-zone-and-sector-planning]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-- [[gaias-garden-design-process]]
 - [[ozier-pdc-ecological-design]]
+
+## See Also
+
+- [[faires-garden-design-zone-1-layout]]

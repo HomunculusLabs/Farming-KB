@@ -47,74 +47,67 @@ The flooring is the heart of the KNF chicken house system:
 - Must be **soil-based**, not concrete
 - Carpeted with **rice straw chopped to 3 cm long**
 - General flour (bedding) thickness is **7 cm**; for broilers, **3 cm** thickness
-- [[master-cho-knf-imo-indigenous-microorganism-collection]] are added to the mixture for the soil floor, combined with enzymes from the straw carpet and chicken feces
-- During certain times of the year when the floor may dry easily, water should be sprayed at least 1 to 2 times per week
-
-It is vital to maintain a host of microorganisms on the floor in order to break down chicken feces. This contributes to the absence of smell in the chicken house. The feces do not need to be removed unless needed for compost. The chickens feed on the fermented products of their feces, so removing all the feces may affect the chickens negatively. The floor serves as **feed producer, fertilizer factory, and waste treatment plant** all in one.
-
-## Water Pipe System
-
-An innovative PVC pipe system provides fresh water:
-
-- Made of PVC pipe drilled with holes
-- One hole per chicken to prevent fighting
-- The size of the hole and pipe is increased as chickens grow
-- Holes are drilled at a slight backward tilt from the chicken's position
-- Designed to wipe the chicken's beak as it lifts its head, preventing water from dripping onto its chest (which can make chickens sick)
-- Water should always flow in the pipe to ensure freshness
-
-## Perches
-
-Chickens are provided with perches for resting:
-
-- Slightly arched in shape, sloping gently with the center higher
-- This design prevents chickens from bumping into each other
-
-## Feeders
-
-- Arranged in straight lines
-- Placed in the area between the perches and water supply
-- Designed to provide room for movement
-
-## Nesting Boxes
-
-- Placed inside the house so chicks get used to them at an early age
-- Initially provided with bright lighting, then gradually darkened so hens will not be frightened
-
-## Brooding Box Design
-
-Chicks are raised in brooding boxes that also serve as exercise and play areas. In front of the box is the chicks' playground, which is gradually enlarged as they grow.
-
-The brooding box is divided into three rooms:
-
-- **Room A** is hot, where chicks rest
-- **Room B** is warm and serves as the feeding area
-- **Room C** is where chicks drink water
-- The distance from Room A to Room C is approximately 710 cm for medium-sized chicks
-- This design compels chicks to **run back and forth 50 to 60 times per day**, providing essential exercise
-- A cloth curtain resembling a mother hen's feathers is draped between Rooms B and C to make chicks feel cared for
-
-## Heating Without Machines
-
-Artificial heating is not provided in Natural Farming, even if temperatures drop below zero. Chicks develop short, dense hair and resistance when exposed more often to cold. Under artificial heating, they grow long hair and weak resistance. When exposed to cold, these weaker chicks gather in a corner, increasing chances of being crushed to death. In colder regions, heat from fermenting compost is used. The compost is situated below the brooding box.
-
-## Integration and Benefits
-
-The KNF chicken house achieves three purposes:
-
-1. **Interdependence:** Poultry provides food for people and manure to condition soil for crops. In return, agricultural by-products are used as chicken feed. Humans, animals, and crops become inter-dependent.
-2. **Family harmony:** A family working together to care for chickens forms close relationships.
-3. **Environmental rehabilitation:** NF poultry enriches the land, puts healthier food on the table, and boosts the local economy.
-
-## See Also
-
 - [[knf-poultry-natural-farming]]
-- [[knf-livestock-odorless-piggery]]
 - [[knf-poultry-feed-preparation]]
-- [[knf-indigenous-microorganism-culture]]
-
-Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapter 8.
 - [[knf-livestock-chicken-house-natural-farming]]
-- [[natural-farming-livestock-integration]]
 - [[plant-micronutrients-and-their-essential-functions]]
 - [[farming-with-air-water-and-sunlight]]
+## Practical Considerations
+
+When working with KNF Chicken House Design, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

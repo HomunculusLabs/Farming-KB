@@ -57,51 +57,26 @@ The refreshing coolness of a shadehouse in the hot Australian summer has to be e
 
 ### Integration with Ventilation System
 
-The shadehouse forms part of the reactive house ventilation system (see [[reactive-house-design-permaculture]]):
-
-- Summer: Cool air drawn through the shadehouse into the house
-- Damp mulch and vine-covered, ferny shadehouse with fine spray or drip of water keep air cool
-- Winter: Vents closed to prevent cold air entry
-
-### School Design Application
-
-A school designed with Sweetnam and Godfrey (Victoria) uses the shade area to allow cool air to be drawn into all courtyard buildings, giving a refuge for teachers and children in extreme summer heat. Even the dripping of water helps, as does the sight of ferns in a droughted landscape.
-
-### Water Tank Integration
-
-Water tanks, often regarded as old-fashioned, can be vine-covered in the shadehouse as a cool air/water block.
-
-## Aspect and Microclimate
-
-By just rounding a corner, the climate alters from one suited to soft herbs (celery, parsley, chives, strawberries) to a dry, hot site suited to aromatic herbs, producing many more oils. Trellis can be backed up by permanent windbreak; as this grows, trees can evolve with their shelter growing to protect them.
-
-## Additive Features
-
-- Reflection or radiation from walls and ponds
-- Glasshouses constructed with reflective ponds to the north
-- Solar ponds as heaters
-
-## Biological Aids to Building Performance
-
-What can be added to architectural designs:
-
-- Turf roofs for insulation and thermal mass
-- Wall and roof creepers for external insulation
-- Glasshouses and shadehouses for food production and climate modification
-- Better integration of house and external environment
-
-## Sources
-
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Section 5.3.
-
-#permaculture #trellis #shadehouse #wind-protection #microclimate #vine-crop #building-integration
-
-## See Also
-
-- [[permaculture-chicken-tractors]]
-- [[coastal-permaculture-design-mollison]]
+The shadehouse forms part of the reactive house ventilation system (see [[permaculture-chicken-tractors]]
 - [[cool-climate-settlement-design-mollison]]
-- [[mollison-berry-production-cool-climates]]
 - [[mollison-permaculture-two-sod-roof-construction]]
-- [[parsley-celery-herbs-growing-guide]]
 - [[mollison-permaculture-two-sound-walls-noise-control]]
+## Practical Considerations
+
+Successful implementation of Trellis Shadehouse Design Mollison requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

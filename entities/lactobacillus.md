@@ -79,11 +79,8 @@ Beyond food and agriculture, *Lactobacillus* species have industrial application
 
 ## See Also
 
-- [[lactobacillus-casei]]
 - [[lactobacillus-brevis]]
-- [[lactobacillus-plantarum]]
 - [[query-how-to-make-lactobacillus-serum-for-plants]]
 
-- [[indigenous-microorganisms-imo]] — the KNF concept that utilizes *Lactobacillus* and other local microbes
 - [[lactic-acid-bacteria-serum-labs]] — concentrated *Lactobacillus* preparation in KNF
 - [[fermented-plant-juice-fpj]] — complementary KNF fermentation input

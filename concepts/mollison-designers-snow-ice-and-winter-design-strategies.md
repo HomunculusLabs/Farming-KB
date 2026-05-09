@@ -17,33 +17,7 @@ type: concept
 # Snow, Ice, and Winter Design Strategies in Cool Climates
 
 In the cool humid and cold climates described by Bill Mollison in
-[[mollison-designers-precipitation-types-and-design-effects]],
-snow and ice become major design factors. Far from being merely
-obstacles, these frozen forms of water can be used productively as
-insulators, reflectors, heat concentrators, and seasonal water
-storages. Understanding the physics and behaviour of snow and ice
-is essential for effective settlement and farm design in cold
-regions.
-
-## Snow as an Insulator
-
-Snow thicker than 15 cm acts as an effective insulator for soils,
-buildings, and permafrost. Thin snow cover, by contrast, chills
-soil to 35 degrees C below air temperature because snow is almost
-a "black body" for radiation, losing heat rapidly at night with
-radiation values of from 0.986 to 0.962 (dirty snow). Mollison
-notes that about 30% of outgoing radiation is as heat (long
-wavelength), but snow is completely non-transparent to incoming
-long-wave radiation, so melting more commonly occurs from below
-due to earth heat rather than from above.
-
-Snow is more durable in landscape than mist or rain, easier to
-store, and can be stored three-dimensionally. Compacted, it stores
-as a solid and endures more than one season. As a semi-solid, it
-can be caught and heaped on fences and plant barriers. These can
-be fences or hedgerows, or one replacing the other over time.
-Snow driving across landscape can be directed to heap in mounds
-for meltdown into storages such as [[mollison-designers-swale-spacing-and-contour-interval]] or cisterns in spring. See [[swale-design-construction]] for swale design and [[water-storage-techniques]] for water storage.
+[[mollison-designers-swale-spacing-and-contour-interval]] or cisterns in spring. See [[water-storage-techniques]] for water storage.
 
 ## Snow as a Reflector and Heat Concentrator
 
@@ -69,12 +43,11 @@ steam-heated earth, or heated salt solutions.
 
 Frost heave on bare, part-eroded or exposed soils leaves ideal
 seedbed conditions for clover and other covering seed during the
-thaw period. See [[white-clover-living-mulch]] and [[white-clover-ground-cover]] for clover uses. Only bare soils show this phenomenon, and these are
+thaw period. See [[white-clover-ground-cover]] for clover uses. Only bare soils show this phenomenon, and these are
 most in need of seed to stabilise soil erosion potential. Frosted
 and late snow areas present an ideal surface to spread manures in
 late winter, so that meltdown deposits seed and manure on the
-surface of the ground for spring growth. See [[animal-manure-guide]]
-and [[solomon-manure-types-and-nutrient-values]] for manure guidance. Sawdust in the mixture
+surface of the ground for spring growth. See [[solomon-manure-types-and-nutrient-values]] for manure guidance. Sawdust in the mixture
 gives a clear picture of seed or manure spread on snow.
 
 ## Snow Melt Indicators for Garden Placement
@@ -86,16 +59,14 @@ in front of the bare-leaf and white-stemmed stands of birch for
 about 4 m or so from their stems. Rock walls backed by birch give
 an early warm site to plant out vegetables. The Chinese use slanted
 bamboo and straw lean-tos to achieve this early growth of
-vegetables and to extend their growing season. See [[bamboo-growing-guide]]
-and [[bamboo-permaculture-design]] for bamboo applications.
+vegetables and to extend their growing season. See [[bamboo-permaculture-design]] for bamboo applications.
 
 Stone walls, when embayed, form very warm early sites, as do
 semicircles of tyres facing into the low sun. Such embayment can
 be plastic or glass-covered to assist heat retention, or piles of
 tyres can be topped with glass as miniature grow-holes, especially
 if the tyres are earth-filled or half-filled with water to retain
-day heat. See [[biomass-compost-greenhouse-heating-systems]] for
-greenhouse heating and [[underground-greenhouse-walipini]] for
+day heat. See [[underground-greenhouse-walipini]] for
 earth-sheltered growing structures.
 
 ## Ice as a Resource
@@ -144,6 +115,6 @@ Rock walls backed by birch, tyre embayments, bamboo lean-tos, and
 earth-formed reflectors all represent low-cost, high-effect
 strategies for extending the growing season and reducing energy
 inputs in cold climates. These strategies connect directly to
-[[mollison-frost-protection-and-thermal-belt-design]] and [[mollison-designers-cool-temperate-soils-and-landform-water-conservation]] design. See also [[zone-and-sector-analysis]] for zone and sector planning in cold climates.
+[[mollison-designers-cool-temperate-soils-and-landform-water-conservation]] design. See also [[zone-and-sector-analysis]] for zone and sector planning in cold climates.
 
 ## See Also

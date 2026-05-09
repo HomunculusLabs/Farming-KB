@@ -108,15 +108,10 @@ The rapid growth and broad leaf canopy provide effective weed suppression during
 
 ## See Also
 
-- [[daucus-carota]]
 - [[biochar]]
 - no till
-- [[companion-planting]]
 - [[dynamic-accumulators]]
-- [[chop-and-drop]]
 - [[hugelkultur]]
-- [[mycorrhiza]]
 - [[medicago-sativa]]
-- [[trifolium-repens]]
 - [[vicia-villosa]]
 - [[fagopyrum-esculentum]]

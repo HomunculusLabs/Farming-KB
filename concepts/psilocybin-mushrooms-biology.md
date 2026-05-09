@@ -1,7 +1,7 @@
 ---
 title: Psilocybin Mushrooms Biology
 created: 2026-04-28
-tags: [mycology, psychopharmacology, ethnobotany, chemistry]
+tags: [[mycology, psychopharmacology, ethnobotany, chemistry]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/mckenna_t-food_of_the_gods.md]
@@ -114,8 +114,6 @@ the legal landscape for home cultivation in recent years.
 
 ## See Also
 
-- [[psilocybin-pharmacology]]
 - [[entheogenic-fungi-history]]
-- [[mushroom-cultivation]]
 - [[psilocybin-therapy]]
 - [[psychedelic-fungi-taxonomy]]

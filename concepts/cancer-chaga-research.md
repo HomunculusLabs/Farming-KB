@@ -19,19 +19,7 @@ type: concept
 tags: [chaga]
 ---
 
-# Chaga ([[inonotus-obliquus]]) Cancer Research
-
-## Overview
-
-Inonotus obliquus, commonly known as Chaga (Russian: "czaga"), is a sterile
-conk or canker that forms on birch trees (Betula species) and other hardwoods
-across the northern hemisphere -- from Siberia and Russia through Scandinavia
-to Canada and the northern United States. It has been used in traditional
-medicine across Russia, Poland, and Baltic countries for centuries, primarily
-as a tea or decoction for gastrointestinal ailments, tuberculosis, and as a
-general health
-tonic.
-Chaga is not a true [[mushroom-fruiting-body-morphology]] but rather a sterile mass of
+# Chaga ([[mushroom-fruiting-body-morphology]] but rather a sterile mass of
 mycelium that slowly develops on living trees, eventually killing the host
 after many years of parasitic growth. The dark, cracked exterior resembles
 burnt charcoal, while the interior is a rusty orange-brown
@@ -40,50 +28,8 @@ colour.
 
 The use of birch polypores in medicine dates back millennia. The
 5,300-year-old "Iceman" discovered in the Italian Alps carried a string of
-birch polypore mushrooms ([[piptoporus-betulinus]]), which have been used
-historically as tinder for starting fires, medicine for treating wounds, and
-for producing an invigorating and immune-stimulating tea. This demonstrates
-the deep antiquity of polypore mushroom use in traditional European
-medicine.
-## Medicinal Properties
-
-According to the Wasser and Weis (1999) cross-index of medically active higher
-Basidiomycetes, Inonotus obliquus demonstrates the following
-properties:
-### Confirmed Medicinal Activities (X = commercially developed or extensively studied)
-- **Antitumour**: Demonstrated anticancer activity
-- **Immunomodulating**: [[blesching-cannabis-immune-system-modulation]] and stimulation
-- **Antiviral**: [[antiviral-properties-of-mushrooms]], including potential anti-HIV activity
-- **Anti-inflammatory**: Reduction of inflammatory responses
-
-### Additional Properties (+ = bioactive but not yet commercially developed)
-- **Antifungal**: Activity against pathogenic fungi
-
-## Known Active Constituents
-
-While the source document provides limited detail on Chaga's specific
-chemistry, the broader literature on Inonotus obliquus identifies several key
-compounds:- **Betulin and betulinic acid**: Derived from the birch host tree,
-these triterpenes have demonstrated antitumour activity through apoptosis
-induction
-- **Polysaccharides**: Beta-glucans with immunomodulating properties, similar to those found in other medicinal mushrooms
-- **Melanin**: The dark pigment gives Chaga its characteristic appearance and has antioxidant properties
-- **Inotodiol**: A triterpenoid specific to Inonotus species with reported antitumour effects
-- **Phenolic compounds**: Contributing to antioxidant and anti-inflammatory activity
-
-## Relationship to Other Medicinal Polypores
-
-Chaga belongs to the Hymenochaetaceae family and shares taxonomic and chemical
-characteristics with other medicinally important
-polypores:
-### Piptoporus betulinus (Birch Polypore)
-The birch polypore carried by the Iceman displayed high broad-spectrum
-antibiotic activity in modern screening of over 200 Basidiomycete species.
-Almost 50% of tested species showed significant direct antibiotic activity,
-with bracket polypores being particularly
-potent.
-### Comparison with Turkey Tail
-Like [[trametes-versicolor]] (turkey tail), Chaga is a non-edible polypore that is
+birch polypore mushrooms ([[blesching-cannabis-immune-system-modulation]] and stimulation
+- **Antiviral**: [[trametes-versicolor-entity]] (turkey tail), Chaga is a non-edible polypore that is
 used medicinally through hot water extraction. Both contain beta-glucans with
 immunomodulating and antitumour properties. However, while turkey tail has
 undergone decades of clinical trials with its PSK and PSP compounds, Chaga
@@ -143,7 +89,5 @@ vary widely in their extraction methods and resulting compound profiles, which
 complicates comparisons between studies and between products. Consumers should
 be aware that a product extracted only with water will contain minimal betulin
 ## See Also
-
-- [[cancer-agaricus-blazei]]
 
 - [[cancer-immune-modulation-mechanisms]] — immune modulation mechanisms relevant to Chaga's antitumour activity

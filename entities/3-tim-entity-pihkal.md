@@ -90,19 +90,10 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[2-tim-entity-pihkal]]
-
 - [[pe-entity-pihkal]]
-
-- [[p-entity]]
 
 - [[mme-entity-pihkal]]
 
-- [[j-entity-pihkal]]
-
 - [[mescaline-entity]]
 
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
 - [[3-meo-pcp]]

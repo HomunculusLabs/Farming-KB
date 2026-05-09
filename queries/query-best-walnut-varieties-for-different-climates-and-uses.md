@@ -28,47 +28,7 @@ The mild-winter, long-summer climates of USDA zones 8–10 are ideal for English
 
 Growing walnuts in cold climates requires careful variety selection, as most English walnuts suffer significant winter injury below −15°F.
 
-English walnuts ([[juglans-regia]]) are marginal below zone 7, but **Carpathian walnut** selections (Juglans regia var. carpathian) are the most cold-hardy Persian types available. Originating from the Carpathian Mountains of Eastern Europe, these selections reliably survive winter lows to −30°F and grow well in zones 5–6 with proper siting on north-facing slopes or sheltered locations. Named cultivars include **Somerset** and **Lake**, both from northern provenances and noted for exceptional winter hardiness and reliable nut production in cold climates.
-
-For reliable nut production in zones 5–6, **Heartnut** (Juglans ailantifolia var. cordiformis) is an outstanding alternative. Though technically a Japanese walnut species, it produces a distinctive heart-shaped nut that cracks easily and has a mild, sweet flavor comparable to English walnut. Heartnuts are hardy to at least −25°F and bloom late, avoiding most spring frosts that can devastate earlier-flowering Persian types. The trees are also relatively fast-growing and begin bearing at 4–6 years from planting.
-
-**Buartnuts** (butternut × heartnut hybrids) share this cold hardiness and are another viable option for northern growers, offering butternut-like flavor with heartnut hardiness. **Japanese walnut** (Juglans ailantifolia, non-heartnut forms) is also extremely cold-hardy but has a thicker, more difficult-to-crack shell, making it less desirable for home use.
-
-## 3. Best Varieties for Home Gardeners with Limited Space
-
-**Chandler** works well in home orchards because it is partially self-fruitful (though yields improve with a pollinator) and develops a moderately spreading, manageable canopy. Its late bloom reduces frost risk, and the nuts are easy to process at home. **Pedro** is a semi-dwarf variety reaching only 30–40 feet at maturity, making it well-suited to smaller suburban yards. It produces good-quality nuts and begins bearing at a relatively young age (4–5 years from planting).
-
-**Heartnuts** can be managed at compact sizes through summer pruning and are attractive ornamental trees in addition to being productive — their large, tropical-looking compound leaves provide excellent shade. For very limited spaces, consider **grafted heartnut on J. nigra rootstock**, which tends to stay more compact. Another option is to train walnuts as **espalier** against a south-facing wall, though this requires significant ongoing pruning commitment.
-
-Keep in mind that all walnuts produce **juglone**, a natural compound allelopathic to many common garden plants including tomatoes, potatoes, eggplants, rhododendrons, azaleas, and apple trees. Plan understory plantings carefully and maintain a juglone-free buffer zone of at least 50–60 feet from sensitive species. Juglone-tolerant companions include blackberries, raspberries, currants, and many native woodland plants.
-
-## 4. Best Black Walnut Varieties for Nut Production and Timber
-
-[[black-walnut-juglone-plant-toxicity]] ([[juglans-nigra]]) is native to eastern North America and valued both for its nuts and its exceptionally valuable timber.
-
-**Thomas**, **Emma K**, and **Sparrow** are the top grafted black walnut (Juglans nigra) cultivars selected for superior nut quality. These grafted varieties offer thinner shells, larger kernels, and easier cracking compared to wild seedling trees, which typically have very thick, deeply grooved shells. **Thomas** is the most widely available and consistently performs well across the black walnut's native range (zones 4–8). **Emma K** produces slightly larger nuts with good kernel percentage.
-
-For dual timber and nut production, **Pounds No. 2** and **Vandersloot** offer excellent straight trunk form with decent nut yield. Timber-focused plantings should prioritize provenance-matched sources; the University of Missouri Extension recommends sourcing black walnut seed from seed orchards within 200 miles of the planting site for optimal growth rate and form. Proper pruning during the first 8–10 years is critical for developing a straight, knot-free butt log. Black walnut timber is among the most valuable hardwoods in North America, so genetics and silvicultural management matter greatly for long-term return on investment.
-
-## 5. Varieties with the Thinnest Shells and Easiest Cracking
-
-Shell thickness and cracking ease are critical for both commercial processors and home growers, as they directly affect processing time, kernel recovery rate, and overall eating quality.
-
-**Chandler** kernels extract cleanly in halves or large pieces with minimal shell fragmentation — this ease of processing is one reason for its commercial dominance. **Howard** similarly produces paper-thin shells and plump, well-filled kernels. Both score highly on the "percent kernel" metric (the proportion of nut weight that is edible kernel), with Chandler typically achieving 48–50% kernel and Howard around 47–49%.
-
-Among black walnuts, **Thomas** has a notably thinner shell relative to wild selections, and kernels extract more readily with standard crackers. Expect around 30–35% kernel for improved black walnut cultivars versus ~20% for wild trees. **Heartnuts** are arguably the easiest of all Juglans species to crack — they split cleanly along their natural seam with a single tap from a hammer, yielding whole or half kernels with virtually no shell fragments. The older English walnut varieties **Eureka** and **Payne** also earned reputations for easy cracking, though they have been largely superseded by Chandler and Howard in modern plantings due to better disease resistance and yield.
-
-## 6. Disease-Resistant Varieties (Especially Walnut Blight)
-
-Disease resistance should be a primary consideration when selecting walnut varieties, particularly in regions with humid springs or known disease pressure.
-
-Walnut blight (*Xanthomonas arboricola* pv. *juglandis*) is the most serious foliar and nut disease of English walnuts, particularly in humid or rainy spring conditions. It causes black lesions on leaves and nuts, and severe infections can destroy an entire crop. **Chandler** and **Howard** show strong field resistance primarily due to their late-leafing habit, which allows them to escape peak spring infection periods when inoculum pressure is highest. **Tulare** has moderate resistance and is acceptable in areas with lower disease pressure.
-
-For high-blight-pressure regions (coastal valleys, areas with frequent spring rains), copper-based bactericide sprays are still recommended, but choosing late-leafing cultivars significantly reduces the number of applications needed — often from 6–8 sprays down to 2–3 per season. **Serr** and **Hartley** are notably susceptible and should be avoided in humid climates. Black walnuts are generally resistant to walnut blight but face their own disease challenges, particularly **thousand cankers disease** (*Geosmithia morbida*), vectored by the walnut twig beetle — this has caused significant mortality in black walnuts across the eastern and western U.S. since its identification in 2008.
-
-## 7. Best Varieties for Commercial Production
-
-Commercial walnut production demands varieties that combine high yield, consistent quality, disease resistance, and good [[post-harvest-handling-marketing-mushrooms]] characteristics. The choice of variety can make or fail an orchard investment.
+English walnuts ([[black-walnut-juglone-plant-toxicity]] ([[post-harvest-handling-marketing-mushrooms]] characteristics. The choice of variety can make or fail an orchard investment.
 
 **Chandler** accounts for the vast majority of new commercial walnut plantings in California and is increasingly adopted worldwide, including in Chile, Australia, and Eastern Europe. It is prized for its high yield potential (3,500–5,000 lbs/acre at maturity), late bloom date, thin shell, and excellent light kernel color that meets the highest industry "extra light" grade. **Howard** and **Tulare** complement Chandler in commercial orchards as pollinizers while also being strong producers in their own right.
 

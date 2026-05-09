@@ -3,10 +3,7 @@ title: Fungal Biodiversity Inventory Design
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-# [[fungal-biodiversity]] Inventory Design
+tags: [[fungal-biodiversity]] Inventory Design
 
 ## Overview
 
@@ -38,53 +35,15 @@ This page synthesizes principles from "Biodiversity of Fungi" (Mueller, Bills, a
 
 - Fungal inventory programs must be designed with temporal scale as a primary consideration
 - Fruiting phenology varies dramatically among groups
-- Some fungi are perennial ([[lichens]], many polypores); others ephemeral
-- Seasonal and interannual variation in fruiting must be accounted for
-- Climate factors (rainfall, temperature) drive fruiting patterns
-
-## Spatial Organization
-
-### Site Selection
-
-Sites should be selected to represent:
-
-- Major habitat types in the region of interest
-- Environmental gradients (elevation, moisture, substrate)
-- Representative vegetation communities
-- Both disturbed and undisturbed areas
-- Replication where possible for statistical comparison
-
-### Plot-Based Sampling
-
-Standardized plot designs are essential for comparability:
-
-- **Macrofungi**: Fixed-area plots with timed searches; or transect-based searches
-- **Microfungi**: Defined substrate samples (wood, litter, soil volumes)
-- **Mycorrhizae**: Root samples from defined plots or individual trees
-- **Aquatic fungi**: Water samples and substrate baits from defined points
-
-### Data Categories for Comparison
-
-1. **Within-site**: Presence list for all species; abundance measures
-2. **Within-site class**: Comparisons across habitat or vegetation types
-3. **All sites combined**: Average frequency and variation in occurrence
-
-## Operational Groups
-
-Fungal inventories are designed around operational groups based on habitat, substratum use, or ecological habits rather than strict taxonomy. Distinct protocols are necessary for each:
-
-- Single-celled aquatic species ([[zoosporic-fungi]])
+- Some fungi are perennial ([[zoosporic-fungi]])
 - Other aquatic fungi (Ingoldian, aero-aquatic)
 - Soil-associated saprobic fungi
 - Obligate root mutualists (arbuscular mycorrhizae, ectomycorrhizae)
-- [[endophytic-fungi]] (inside plant tissues)
-- Plant pathogens ([[biodiversity-powdery-mildews]], rusts, smuts)
+- [[biodiversity-powdery-mildews]], rusts, smuts)
 - Lichenized fungi
 - Wood-inhabiting macrofungi and microfungi
 - Terrestrial macrofungi (mushrooms, puffballs, etc.)
-- [[coprophilous-fungi]] (dung-inhabiting)
 - [[arthropod-associated-fungi]]
-- [[fungicolous-fungi]]
 - [[sequestrate-fungi]] (truffles, false truffles)
 
 ## Species Richness Estimation

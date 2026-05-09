@@ -132,7 +132,6 @@ Legal status is highly variable and rapidly evolving:
 
 ## See Also
 
-- [[psilocybin-compound]] — Another plant/fungi-derived psychoactive compound
-- [[ephedrine]] — Plant-derived compound with stimulant properties
+- [[psilocybin]] — Another plant/fungi-derived psychoactive compound
 - [[dmt-nn-dimethyltryptamine]] — Tryptamine alkaloid from plant sources
 - [[uncaria-tomentosa]]

@@ -67,69 +67,13 @@ Steam distillation has been the standard essential oil extraction method for ove
 ### Limitations
 
 - **Thermal degradation**: Temperatures of 80–100°C degrade or alter heat-sensitive compounds — alcohols oxidize, esters hydrolyze, and some sulfur compounds decompose
-- **Hydrolysis**: Water can hydrolyze esters (e.g., linalyl acetate → linalool + acetic acid), altering the chemical profile
-- **Inefficient for non-volatile compounds**: Heavier molecules (waxes, resins, chlorophyll, some diterpenes) are left behind; this is a disadvantage for resinous plants and roots
-- **Water waste**: Produces large volumes of hydrosol wastewater that must be managed
-- **Batch variability**: Distillation time, steam rate, plant freshness, and harvest timing significantly affect yield and composition
-
-## How CO₂ Extraction Works
-
-CO₂ extraction uses carbon dioxide in a supercritical state (above its critical point of 31.1°C and 73.8 bar) as a solvent. In this state, CO₂ has the density of a liquid and the diffusivity of a gas, allowing it to penetrate plant material and dissolve a wide range of compounds.
-
-### Process
-
-1. **Pressurization**: CO₂ gas is compressed to supercritical pressures (75–500 bar) using a high-pressure pump
-2. **Extraction**: Supercritical CO₂ passes through the plant material in an extraction vessel, dissolving target compounds
-3. **Separation**: The CO₂–extract mixture enters a separator vessel where pressure is reduced; CO₂ reverts to a gas and evaporates, leaving the pure extract behind
-4. **CO₂ recycling**: The CO₂ gas is recompressed and recirculated through the system (typically >95% recovery rate)
-5. **Collection**: The extract is collected; total extraction (supercritical) yields a thick, waxy "total extract," while selective extraction (subcritical) yields a thinner, more volatile product
-
-### Subcritical vs Supercritical CO₂
-
-| Parameter | Subcritical CO₂ | Supercritical CO₂ |
-|-----------|-----------------|-------------------|
-| Temperature | 10–25°C | 31–40°C |
-| Pressure | 50–80 bar | 75–500 bar |
-| Selectivity | High — primarily volatile terpenes | Low — broad-spectrum extraction |
-| Consistency | Thin, mobile liquid (like essential oil) | Thick paste, waxy, or semi-solid |
-| Captures | Monoterpenes, sesquiterpenes, some esters | Everything above plus waxes, resins, chlorophyll, fats, diterpenes, alkaloids |
-| Aroma | Close to steam-distilled but fuller | Very plant-true, raw, complex |
-
-### Advantages
-
-- **Low temperature**: Extraction occurs at 31–40°C (or lower in subcritical mode), preserving heat-sensitive compounds that steam distillation destroys
-- **No oxygen exposure**: The closed system prevents oxidation of sensitive constituents
-- **Broader spectrum**: Captures non-volatile compounds (waxes, resins, pigments, heavier terpenoids) that steam distillation cannot
-- **No solvent residue**: CO₂ is a gas at atmospheric pressure and temperature — it evaporates completely, leaving zero residue
-- **Tunable selectivity**: By adjusting pressure and temperature, the operator can selectively extract different compound classes
-- **Superior for delicate flowers**: Produces exceptional extracts from jasmine, rose, chamomile, and other flowers where steam distillation loses key aromatic compounds
-- **Environmentally clean**: CO₂ is non-toxic, non-flammable, recyclable, and produces no hazardous waste
-
-### Limitations
-
-- **High capital cost**: Commercial systems cost $50,000–$500,000+; even small lab-scale units start at $10,000–$20,000
-- **Limited scalability**: Extraction vessel size is constrained by pressure engineering; large-scale production requires very expensive multi-vessel systems
-- **Requires expertise**: Operating high-pressure equipment safely requires specialized training and maintenance
-- **Different product profile**: CO₂ extracts are chemically different from steam-distilled essential oils — they may not be interchangeable in formulations, safety data, or pharmacopoeial specifications
-- **Waxy consistency**: Supercritical extracts are often thick or semi-solid and may require winterization (chilling and filtering) to separate waxes from the desired aromatic fraction
-- **Not ideal for high-water-content plants**: Moisture in plant material can cause ice formation and equipment blockages
-
-## Chemical Profile Comparison
-
-The same plant extracted by both methods can yield noticeably different chemical compositions:
-
-### Example: German Chamomile (*Matricaria chamomilla*)
+- **Hydrolysis**: Water can hydrolyze esters (e.g., linalyl acetate → [[matricaria-chamomilla]]*)
 
 | Compound | Steam Distilled (%) | CO₂ Extract (%) |
 |----------|--------------------|-----------------| 
 | α-Bisabolol | 20–40 | 30–50 |
 | Chamazulene | 5–15 | 8–18 |
-| Bisabolol oxides | 15–30 | 10–20 |
-| Matricin | Trace (converted to chamazulene) | 5–15 (preserved) |
-| Farnesene | 5–10 | 8–12 |
-| Waxes/lipids | 0 | 10–25 |
-
-### Example: Ginger (*Zingiber officinale*)
+| [[zingiber-officinale]]*)
 
 | Compound | Steam Distilled (%) | CO₂ Extract (%) |
 |----------|--------------------|-----------------|
@@ -140,10 +84,6 @@ The same plant extracted by both methods can yield noticeably different chemical
 | Shogaols | 0 | 5–10 |
 | 6-Gingerol | 0 | 5–8 |
 ## See Also
-
-- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
-
-- [[comparison-alkaloids-vs-flavonoids-vs-terpenes]]
 
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 - [[comparison-pasteurization-vs-sterilization]]

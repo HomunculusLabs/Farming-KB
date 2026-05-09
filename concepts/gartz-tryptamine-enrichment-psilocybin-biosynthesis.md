@@ -3,15 +3,7 @@ title: Gartz Tryptamine Enrichment and Psilocybin Biosynthesis
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, psilocybin, biosynthesis, tryptamine, psilocybe-cubensis, potency]
-sources:
-  - "Gartz, J. (1989) Biotransformation of Tryptamine in Fruiting Mycelia of Psilocybe cubensis. Planta Medica 55:249-250"
-  - "Gartz, J. (1987) Beitrage zur Kenntnis der Pilze Mitteleuropas 3:275"
-  - "Bigwood, J., Beug, M.W. (1982) J. Ethnopharm. 5:287"
----
-# Gartz Tryptamine Enrichment and Psilocybin Biosynthesis
-
-[[jochen-gartz]]'s 1989 discovery that feeding tryptamine HCl to [[psilocybe-cubensis]] substrate causes the fungus to convert it to psilocin at levels up to 3.3% dry weight -- the highest psilocin concentrations ever reported in any mushroom. This finding demonstrated the hydroxylation and methylation capacity of P. cubensis enzyme systems and established tryptamine as a superior biosynthetic precursor to tryptophan. See also [[bigwood-beug-psilocybin-psilocin-variation-analysis]], [[psilocybin-biosynthesis-pathway]], [[psilocybin-mushroom-potency-comparison-by-species]], and [[psilocybin-mushroom-chemistry]].
+tags: [[jochen-gartz]]'s 1989 discovery that feeding tryptamine HCl to [[bigwood-beug-psilocybin-psilocin-variation-analysis]], [[psilocybin-mushroom-potency-comparison-by-species]], and [[psilocybin-mushroom-chemistry]].
 
 ## The Gartz Experiment
 

@@ -113,13 +113,8 @@ Some patients report appetite stimulation benefits, making Gelato 41 potentially
 
 ## See Also
 
-- [[gelato-cannabis]]
 - [[sunset-sherbet]]
-- [[thin-mint-cookies]]
 - [[girl-scout-cookies]]
-- [[og-kush]]
 - [[larry-og]]
-- [[sfv-og]]
-- [[jungle-cake]]
 - [[ice-cream-cake-cannabis]]
 - [[jealousy]]

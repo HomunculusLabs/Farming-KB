@@ -105,16 +105,10 @@ As a member of the Asteraceae, garland chrysanthemum contributes to garden biodi
 
 ## See Also
 
-- [[ocimum-basilicum]]
 - [[coriandrum-sativum]]
-- [[petroselinum-crispum]]
 - [[eryngium-foetidum]]
-- [[persicaria-odorata]]
 - [[allium-tuberosum]]
-- [[zingiber-officinale]]
 - [[daucus-carota]]
-- [[allium-sativum-entity]]
 - [[nasturtium-officinale]]
-- [[rumex-crispus]]
 - [[taraxacum-officinale]]
 - [[urtica-dioica]]

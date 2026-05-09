@@ -62,7 +62,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Chemistry and Psychoactivity
 
-- Contains [[psilocybin-compound]] and [[psilocin]]
+- Contains [[psilocin]]
 - Considered moderately active
 - The American variety, P. liniformans var. americana, is reported to have higher concentrations of psychoactive alkaloids
 - Bluing reaction is present but can be subtle compared to more potent Psilocybe species
@@ -86,7 +86,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Similar Species
 
-- [[psilocybe-semilanceata]] — similar grassland habitat but has a prominent papilla and different gill structure without gelatinous threads
 - [[panaeolus-subbalteatus]] — shares grassland habitat but belongs to a different genus with different spore morphology
 - [[psilocybe-fimetaria]] — found in similar habitats but larger and more robust
 - Conocybe species — some grassland Conocybe species can appear similar but lack bluing and have different microscopic features

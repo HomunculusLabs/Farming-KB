@@ -100,23 +100,13 @@ The species is not currently considered threatened, but wild populations in the 
 
 ## See Also
 
-- [[ashwagandha]]
 - [[withania-somnifera]]
-- [[panax-ginseng]]
 - [[eleutherococcus-senticosus]]
-- [[muira-puama]]
 - [[damiana]]
-- [[turnera-diffusa]]
 - [[bacopa-monnieri]]
-- [[rhodiola-rosea]]
 - [[schisandra-chinensis]]
-- [[astragalus-membranaceus]]
 - [[scutellaria-baicalensis]]
-- [[valeriana-officinalis]]
 - [[passiflora-incarnata]]
-- [[leonurus-cardiaca-entity]]
 - [[curcuma-longa]]
-- [[zingiber-officinale]]
 - [[piper-nigrum-entity]]
-- [[borago-officinalis]]
 - [[urtica-dioica]]

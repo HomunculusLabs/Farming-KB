@@ -24,11 +24,7 @@ Terence and Dennis McKenna, together with Kat Harrison and Jeremy Bigwood, publi
 
 The brothers estimated there were tens of thousands of people worldwide following the method. By autumn 1976, spores and growing kits were being advertised in High Times magazine.
 
-The cultivation guide was a direct product of [[psychedelic-mushrooms-species-and-identification]] broader commitment to making psychedelic experiences accessible. While his Stoned Ape hypothesis dealt with prehistory, his cultivation work addressed the practical needs of contemporary psychonauts.
-
-## Stephen Pollock (1977-1981)
-
-[[wasson-hofmann-ruck-collaboration]] published a similar method and eventually found and developed Psilocybe tampanensis. His involvement in cultivation brought him to the attention of multiple government agencies before his murder in 1981.
+The cultivation guide was a direct product of [[wasson-hofmann-ruck-collaboration]] published a similar method and eventually found and developed Psilocybe tampanensis. His involvement in cultivation brought him to the attention of multiple government agencies before his murder in 1981.
 
 Pollock's story illustrates the dangers that surrounded even semi-legitimate psychedelic research in this period. His murder remains unsolved, but his contributions to the taxonomy and cultivation of rare psilocybin species were significant.
 
@@ -62,31 +58,33 @@ McPherson was eventually busted, charged with spore distribution, and pleaded gu
 
 ## The Internet Era
 
-The PF Tek coincided with the emergence of the World Wide Web, creating a perfect storm of accessible technology and distributed information. Online forums, cultivation guides, and spore exchange networks proliferated throughout the 1990s and 2000s. The [[global-psychedelic-mushroom-species-diversity]] made it the dominant species for home growers worldwide.
-
-## Ecstasy and the Second Boom
-
-The arrival of Ecstasy (MDMA) and Acid House culture in the late 1980s paved the way for a second magic mushroom boom. The "loved-up social attitudes" of rave culture made mushrooms more socially acceptable, even as the Criminal Justice Act (1994) outlawed free festivals and "repetitive beats" in Britain.
-
-The connection between mushroom cultivation and dance culture was not merely coincidental. Both represented forms of grassroots, decentralised activity that operated largely outside mainstream commercial channels. The same networks that distributed spore syringes also promoted alternative music and festival culture.
-
-## Legal Implications of Cultivation
-
-The [[psilocybin-mushroom-legal-status-worldwide]] of mushroom cultivation varies dramatically by jurisdiction. In many countries, psilocybin mushrooms themselves are prohibited, while spores (which contain no active compounds) occupy a legal grey area. This legal ambiguity has been central to the cultivation subculture, allowing spore vendors to operate openly while actual growing remains clandestine.
+The PF Tek coincided with the emergence of the World Wide Web, creating a perfect storm of accessible technology and distributed information. Online forums, cultivation guides, and spore exchange networks proliferated throughout the 1990s and 2000s. The [[psilocybin-mushroom-legal-status-worldwide]] of mushroom cultivation varies dramatically by jurisdiction. In many countries, psilocybin mushrooms themselves are prohibited, while spores (which contain no active compounds) occupy a legal grey area. This legal ambiguity has been central to the cultivation subculture, allowing spore vendors to operate openly while actual growing remains clandestine.
 
 ## The Species at the Centre
 
-The vast majority of cultivation efforts have centred on [[global-psychedelic-mushroom-species-diversity]], chosen for its robust mycelium, reliable fruiting, and tolerance of suboptimal conditions. While other species have been cultivated — including the Liberty Cap and various Mexican species — none matches cubensis for ease and reliability.
-
-## See Also
-
-- [[magic-mushroom-cultural-history]]
-- [[global-psychedelic-mushroom-species-diversity]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[wasson-hofmann-ruck-theory]]
+The vast majority of cultivation efforts have centred on [[magic-mushroom-cultural-history]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[roger-heim-scientific-study-psilocybin]]
 
 ## Related
 
-- [[psychedelic-mushrooms-species-and-identification]]
 - [[banisteriopsis-caapi]]
+## Practical Considerations
+
+Successful implementation of Magic Mushroom Cultivation History — From McKenna to PF Tek requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

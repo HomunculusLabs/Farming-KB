@@ -1,7 +1,7 @@
 ---
 title: Forest Gardens and Food Forests
 created: 2026-04-28
-tags: [permaculture, agroforestry, food-forest, polyculture, layers]
+tags: [[permaculture, agroforestry, food-forest, polyculture, layers]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
@@ -16,10 +16,7 @@ agroforestry systems to develop the concept of a multi-layered perennial food
 production system modeled on the structure and function of natural forests.
 Food forests produce food, fuel, fiber, medicine, and habitat while requiring
 minimal external inputs once established. They represent the fullest expression
-of [[permaculture-design]] including accelerated succession,
-functional diversity, and biological resource use. Forest gardens integrate
-with [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]], [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]], and
-[[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] to create self-sustaining food systems.
+of [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]], [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] to create self-sustaining food systems.
 
 ## The Seven Layers of a Food Forest
 
@@ -50,25 +47,7 @@ The shrub layer includes woody plants typically under three meters tall such
 as currants, gooseberries, blueberries, hazelnuts, and many medicinal herbs.
 Shrubs provide berries, nitrogen fixation through species like Siberian pea
 shrub, wildlife habitat, and wind protection near ground level. Many shrubs
-also produce biomass for [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]] through coppicing and
-chopping for mulch.
-
-### Herbaceous Layer
-
-Herbaceous plants form the next layer and include perennial vegetables, herbs,
-and flowering plants. Comfrey, artichoke, asparagus, rhubarb, sorrel, and
-numerous medicinal herbs occupy this layer. Many herbaceous plants serve as
-dynamic nutrient accumulators, drawing minerals from deep soil layers and
-making them available through leaf drop and mulch. This layer provides the
-greatest diversity of edible and medicinal species per unit area.
-
-### Ground Cover Layer
-
-Ground covers are low-growing plants that protect the soil surface, suppress
-weeds, retain moisture, and prevent erosion. Strawberries, creeping thyme,
-clover, sweet potato, and nasturtium are common ground covers. Living ground
-covers replace the need for mulch in many areas and create a continuous
-protective layer over the soil that supports [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]].
+also produce biomass for [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]].
 
 ### Root Layer
 
@@ -78,25 +57,7 @@ garlic, onions, and carrots occupy this zone. Root crops can be interplanted
 among trees and shrubs, accessing nutrients at different soil depths than the
 woody plants above them. Some root crops like daikon radish serve as biological
 soil aerators, breaking compacted layers and improving water infiltration for
-[[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] efficiency.
-
-### Vine Layer
-
-The vertical or vine layer exploits the vertical space created by tree trunks
-and structures. Grapes, kiwifruit, passionfruit, beans, climbing peas, and
-chayote climb through the canopy layers. Vines maximize production per unit
-area by using space that would otherwise be empty. They also provide shade,
-wind filtration, and additional food sources at multiple heights.
-
-## Ecological Succession in Food Forests
-
-Mollison emphasized that food forest establishment follows the natural process
-of ecological succession. The designer accelerates this process by planting
-pioneer species that prepare the site for climax species. Fast-growing nitrogen
-fixers like alder, tagasaste, or acacia improve soil fertility and provide
-shade for tender fruit trees. As the system matures, these pioneers are
-reduced or removed as the productive climax species take over. This staged
-approach connects to [[permaculture-design]] of working with nature
+[[permaculture-design]] of working with nature
 rather than against it. The designer manages succession rather than fighting
 the natural tendency of landscapes to progress toward forest communities.
 
@@ -109,16 +70,7 @@ growing season is year-round and species diversity is naturally greater.
 Temperate food forests have a dormant season that reduces annual production
 but can still be highly productive when designed with species adapted to local
 conditions. Both systems follow the same structural principles of layered
-design and [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] but differ significantly in species
-selection and management intensity.
-
-## Integration with Animals
-
-Animals play important roles in food forest systems. Chickens forage for
-insects, control fallen fruit pests, and fertilize the soil. Ducks control
-snails and slugs. Pigs can be used for site preparation before planting,
-turning over sod and incorporating organic matter. Bees provide pollination
-services and honey. [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] are integrated into
+design and [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] are integrated into
 the food forest design to create mutually beneficial relationships between
 plants and animals that reduce maintenance requirements and increase total
 system yield.

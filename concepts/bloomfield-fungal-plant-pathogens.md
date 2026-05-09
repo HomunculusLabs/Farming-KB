@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fungi cause more plant diseases than all other enemies combined — bacteria, viruses, nematodes, and insects. Since the beginning of agriculture, billions of livelihoods and lives have been lost to rusts, smuts, bunts, mildews, potato blight, and rice blast. Annual losses to agriculture are incalculably high, and chemical fungicides represent a tremendous investment by farmers and consumers. Chapter 9 of "Mr. Bloomfield's Orchard" explores the most devastating fungal pathogens of crops and trees. For the beneficial side of singh gadd [[fungal-plant-pathogen-interactions]] pathogens singh fungal tompkins singh [[fungal-plant-defense]] growth promoting mechanisms regulators regulators production production relationships, see bloomfield mycorrhizal [[mckenna-symbiosis-and-human-plant-relationships]] [[fungal-ecology]].
+Fungi cause more plant diseases than all other enemies combined — bacteria, viruses, nematodes, and insects. Since the beginning of agriculture, billions of livelihoods and lives have been lost to rusts, smuts, bunts, mildews, potato blight, and rice blast. Annual losses to agriculture are incalculably high, and chemical fungicides represent a tremendous investment by farmers and consumers. Chapter 9 of "Mr. Bloomfield's Orchard" explores the most devastating fungal pathogens of crops and trees. For the beneficial side of singh gadd [[fungal-plant-defense]] growth promoting mechanisms regulators regulators production production relationships, see bloomfield mycorrhizal [[fungal-ecology]].
 
 ## Rust Fungi
 

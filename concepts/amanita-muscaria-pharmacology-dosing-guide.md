@@ -7,13 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# [[amanita-muscaria-pharmacology]] and Healing Properties
-
-The [[amanita-muscaria-drying-and-preparation]] mushroom possesses a uniamanita-muscariacal profile centered on two closely related isoxazole compounds -- ibotenic acid and muscimol -- along with several other bioactive constituents. Beyond its well-known psychoactive properties, [[amanita-muscaria]] exhibits documented antibiotic, antifungal, and potentially antiviral activity, supporting ancient claims of miraculous healing.
-
-## Active Compounds
-
-### Ibdecomposition- **Chemical name:** Pantherin, [[agar]]in; alpha-amino-3-hydroxy-5-isoxazoloacetic acid
+# [[amanita-muscaria-drying-and-preparation]] mushroom possesses a uniamanita-muscariacal profile centered on two closely related isoxazole compounds -- ibotenic acid and muscimol -- along with several other bioactive constituents. Beyond its well-known psychoactive properties, [[agar]]in; alpha-amino-3-hydroxy-5-isoxazoloacetic acid
 - **Formula:** C5H6N2O4
 - **Molecular weight:** 158.11
 - **Properties:** Colorless crystals, mp 150-152 C (decomposition), readily soluble in cold water
@@ -75,14 +69,9 @@ In the ancient world, epilepsy was considered proof of demonic possession. Any s
 
 1. **Structural similarity:** Both ibotenic acid and muscimol are closely related to known antibiotics (cycloserine)
 2. **Hydroxypyrrolidone derivative:** Found in Amanita muscaria; chemically related compound is a known antibiotic and antifungal
-3. **[[mycorrhiza]]l function:** As a symbiont with trees, Amanita muscaria manufactures antibiotics for its host tree, keeping it alive and healthy for thousands of years
-4. **Spoilage resistance:** Presence of the herb in milk retards spoilage for over 24 hours at room temperature (60-65 F)
-5. **Urine preservation:** The antibiotic property of being excreted unchanged (like penicillin) is a very useful property for a systemic antibiotic
-6. **Resurrection experiments:** Despite non-sterile conditions with massive spore and bacterial exposure, no contamination occurred in resurrected cultures
+3. **[[mycorrhiza]]l Antiviral Function
 
-### [[mycorrhiza]]l Antiviral Function
-
-Green plants have no immune system of their own. They cannot deal with bacterial or viral attack independently. [[mycorrhiza]] fungi supply their plant partners with antibiotic and antiviral compounds that keep the green plant healthy. In the search for effective antiviral compounds, [[mycorrhiza]] fungi would be the logical starting place.
+Green plants have no immune system of their own. They cannot deal with bacterial or viral attack independently. [[mycorrhiza]] fungi would be the logical starting place.
 
 ### The Antiviral Hypothesis
 

@@ -121,7 +121,5 @@ researchers including Thomas Galen Hieronymus and Dr. Ruth Drown.
 
 ## See Also
 
-- [[tompkins-radionic-agriculture-pesticides]] for agricultural radionics
 - [[tompkins-hieronymus-eloptic-energy]] for Hieronymus' extensions
-- [[tompkins-lakhovsky-multi-wave-oscillator]] for vibrational medicine
 - [[tompkins-plant-electrical-signals]] for [[plant-bioelectricity]]

@@ -129,13 +129,8 @@ sometimes contradictory regulatory landscape surrounding cannabis medicine.
 
 ## Related Concepts
 
-- [[blesching-cannabis-four-prime-cannabinoids]]
 - [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[blesching-cannabis-multiple-sclerosis]]
-- [[blesching-cannabis-forms-and-preparations]]
 - [[cannabis-and-asthma]]
-- [[cannabis-and-endometriosis]]
 - [[cannabis-and-insomnia]]
-- [[blesching-cannabis-belief-reprogramming]]
 - [[blesching-cannabis-vasopressin-aggression]]

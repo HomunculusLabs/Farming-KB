@@ -121,13 +121,8 @@ Modern herbal use of redbud is minimal, though the flowers remain popular as an 
 
 ## See Also
 
-- [[robinia-pseudoacacia]]
 - [[elaeagnus-umbellata]]
-- [[caragana-arborescens]]
 - [[gleditsia-triacanthos]]
-- [[corylus-avellana]]
 - [[castanea-mollissima]]
-- [[alnus-glutinosa]]
 - [[hugelkultur]]
-- [[companion-planting]]
 - [[agroforestry]]

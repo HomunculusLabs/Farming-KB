@@ -134,16 +134,12 @@ push invasive hyphae into the tissue. Human cases are most common in
 Thailand and other Asian countries.
 ## Related Topics
 
-- [[hyphal-biology-and-turgor-pressure]]
-- fungal melanism and stress resistance
 - [[aquatic-fungi-and-zoospore-biology]]
 - antifungal drugs and ergosterol targeting
 - fungal enzymes and substrate degradation
 
 ## See Also
 
-- [[16s-rrna-sequencing-microbiome-analysis]]
 - [[1799-liberty-cap-discovery]]
-- [[1960s-counterculture-and-magic-mushrooms]]
 - [[2-4-dma-entity-pihkal]]
 - [[2-5-dma-entity]]

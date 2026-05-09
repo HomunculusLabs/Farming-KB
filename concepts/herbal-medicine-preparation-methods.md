@@ -10,7 +10,7 @@ sources: []
 
 Herbal medicine preparation encompasses the various techniques used to extract, preserve, and deliver the active constituents of medicinal plants for therapeutic use. The choice of preparation method significantly affects which compounds are extracted, their concentration, bioavailability, shelf stability, and onset of action. Different preparations are suited to different herbs, conditions, and patient needs.
 
-Understanding preparation methods allows herbalists and home practitioners to select the most appropriate form for a given herb and therapeutic goal. See [[herbal-medicine-making-basics]] for introductory guidance and [[medicinal-plant-preparations-tinctures-salves-teas]] for practical preparation instructions.
+Understanding preparation methods allows herbalists and home practitioners to select the most appropriate form for a given herb and therapeutic goal. See [[medicinal-plant-preparations-tinctures-salves-teas]] for practical preparation instructions.
 
 ## Water-Based Preparations
 
@@ -54,7 +54,7 @@ Alcohol-based preparations extract a broader range of plant constituents than wa
 
 Tinctures are concentrated liquid extracts made by soaking herb material in a solution of alcohol and water. They are one of the most versatile and widely used forms of herbal medicine, offering good potency, long shelf life, and relatively fast absorption.
 
-See [[herbal-tinctures-guide]] and [[herbal-tincture-making]] for comprehensive coverage of tincture preparation methods, alcohol selection, and dosing guidelines.
+See [[herbal-tincture-making]] for comprehensive coverage of tincture preparation methods, alcohol selection, and dosing guidelines.
 
 ### Fluid Extracts
 
@@ -76,7 +76,7 @@ Calendula oil, St. John's wort oil, comfrey oil, and plantain oil are popular he
 
 Salves are semi-solid preparations made by combining herbal oils with beeswax (typically at a ratio of 4 to 5 parts oil to 1 part beeswax). They are applied topically for localized treatment of skin conditions, wounds, muscle pain, and inflammation.
 
-See [[herbal-salves-and-balms]] and [[calendula-salve-making]] for detailed salve preparation instructions and formulations.
+See [[calendula-salve-making]] for detailed salve preparation instructions and formulations.
 
 ## Vinegar-Based Preparations
 
@@ -104,21 +104,12 @@ Water-based preparations are best for daily tonics, gentle support, and when rap
 
 ## See Also
 
-- [[petiveria-alliacea]]
-
 - [[plectranthus-amboinicus]]
-
-- [[boswellia-serrata]]
 
 - [[withania-somnifera]]
 
-- [[leonurus-cardiaca-entity]]
 - [[passiflora-incarnata]]
-- [[herbal-medicine-making-basics]]
 - [[herbal-tinctures-guide]]
-- [[herbal-tincture-making]]
 - [[herbal-salves-and-balms]]
-- [[medicinal-plant-preparations-tinctures-salves-teas]]
 - [[calendula-salve-making]]
-- [[herbal-medicine]]
 - [[hyssopus-officinalis]]

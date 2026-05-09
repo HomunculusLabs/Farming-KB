@@ -78,7 +78,7 @@ The species is found in humid forest environments, including cloud forests, trop
 
 ## Chemistry
 
-psilocybe heterophyllia contains [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive alkaloids. Analytical data is limited but indicates detectable levels of these compounds consistent with other tropical Psilocybe species. The tryptamine content of forest-floor Psilocybe species tends to be more variable than that of dung-inhabiting or wood-chip species, reflecting the more complex and heterogeneous nutrient environment of forest litter.
+psilocybe heterophyllia contains [[psilocin]] as its primary psychoactive alkaloids. Analytical data is limited but indicates detectable levels of these compounds consistent with other tropical Psilocybe species. The tryptamine content of forest-floor Psilocybe species tends to be more variable than that of dung-inhabiting or wood-chip species, reflecting the more complex and heterogeneous nutrient environment of forest litter.
 
 Factors including the composition of the leaf litter, associated microbial communities, canopy cover affecting light and humidity, and microclimate conditions all influence alkaloid biosynthesis in psilocybe heterophyllia. Minor tryptamine alkaloids including baeocystin and norbaeocystin have been detected in related tropical forest species and are presumed present in P. heterophyllia as well.
 
@@ -86,9 +86,7 @@ Factors including the composition of the leaf litter, associated microbial commu
 
 psilocybe heterophyllia may be confused with several forest-inhabiting Psilocybe species that share its Neotropical distribution:
 
-- **[[psilocybe-yungensis]]** — Found in similar South American montane forest habitats; distinguished by differences in spore morphology (more consistently amygdaliform) and cheilocystidial structure (more consistently lageniform)
 - **[[psilocybe-hoogshagenii]]** — Larger overall with a more prominent annulus and distinctive apical rostrum on cheilocystidia; typically found in more open habitats
-- **[[psilocybe-samuiensis]]** — Southeast Asian distribution; similar forest-floor ecology but geographically disjunct; slightly different spore dimensions
 - **[[psilocybe-wassonii]]** — Mexican high-altitude pine forests; different habitat and elevation range
 
 Accurate identification requires microscopic examination, particularly of spore dimensions and cystidial morphology. DNA barcoding of the ITS region is recommended for definitive identification where facilities are available.
@@ -117,4 +115,4 @@ psilocybe heterophyllia has received minimal scientific attention since its orig
 
 ## Legal Status
 
-As a psilocybin-containing species, psilocybe heterophyllia is subject to drug control laws in most jurisdictions. Its status follows that of other Psilocybe species under international conventions controlling [[psilocybin-compound]] and [[psilocin]], including the UN Convention on Psychotropic Substances of 1971.
+As a psilocybin-containing species, psilocybe heterophyllia is subject to drug control laws in most jurisdictions. Its status follows that of other Psilocybe species under international conventions controlling [[psilocin]], including the UN Convention on Psychotropic Substances of 1971.

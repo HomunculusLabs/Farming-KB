@@ -120,7 +120,7 @@ unpredictable and the species has no commercial applications.
 
 ## See Also
 
-- [[clathrus-archeri]]
-- [[phallus-impudicus-entity]]
-- [[dictyophora-indusiata]]
+- [[phallus-impudicus]]
 - [[sphaerobolus-stellatus]]
+
+See also: [[dictyophora-indusiata]]

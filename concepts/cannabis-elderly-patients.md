@@ -122,11 +122,9 @@ Family and professional caregivers should:
 - Start with non-psychoactive options when possible
 - Monitor for falls, confusion, and excessive sedation
 
-See also: [[cannabis-dosing-guidelines-by-condition]], [[cannabis-drug-interactions-and-contraindications]], doi entity, [[cannabis-anti-inflammatory-applications]], [[cannabis-chronic-pain-management]]
+See also: [[cannabis-drug-interactions-and-contraindications]], doi entity, [[cannabis-chronic-pain-management]]
 
 ## Related
 
-- [[cannabis-drug-interactions-and-contraindications]]
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
-- [[cannabis-sleep-disorders-and-insomnia]]
 - [[cannabis-for-bone-cancer-pain]]

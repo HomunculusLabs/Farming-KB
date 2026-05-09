@@ -12,19 +12,9 @@ created: 2026-04-28
 # Clay Seed Pellet Production Method
 
 Clay seed pellets are a core technology in Masanobu Fukuoka's approach to
-[[desert-revegetation]] and [[natural-farming]]. Originally conceived for
+[[natural-farming]]. Originally conceived for
 direct seeding of rice, barley, and vegetables in conjunction with the
-[[no-tillage-grain-systems]] method, the pellets have since been adapted for aerial
-broadcasting over large areas of degraded land. The production method
-described by Fukuoka uses a modified concrete mixer for large-scale
-manufacturing, creating layered pellets that protect seeds from predation,
-desiccation, and physical damage during and after deployment. The technique
-represents a revival and systematization of seed ball practices that farmers
-around the world have used for generations.
-
-## Purpose and Applications
-
-The clay seed pellet was developed to enable [[fukuoka-no-tillage-direct-seeding-history]] without
+[[fukuoka-no-tillage-direct-seeding-history]] without
 plowing, tilling, or irrigation. In its original application on Fukuoka's farm
 in Japan, it solved the practical problem of getting rice, barley, and
 vegetable seeds to germinate reliably on untilled fields covered with living
@@ -32,20 +22,7 @@ mulch. The pellets could be scattered on the soil surface and left alone, with
 the clay shell protecting the seeds until conditions were right for
 germination.
 
-Fukuoka later recognized the pellet's potential for [[desert-revegetation]],
-where conditions for germination are extremely poor and conventional
-revegetation methods require extensive irrigation, soil preparation, and
-ongoing maintenance. The pellets can be broadcast from airplanes or scattered
-by hand to revegetate vast areas in a single operation. Successful results
-were documented in Africa, the United States, India, Greece, and the
-Philippines.
-
-The fundamental principle is that seeds enclosed in carefully constructed clay
-layers can achieve satisfactory germination without human intervention after
-sowing. The pellets protect seeds during the fall from aerial seeding, buffer
-them against fluctuations in moisture, and repel herbivores and insects
-through bitter coatings. This approach aligns with Fukuoka's broader
-[[do-nothing-farming]] philosophy of minimizing human intervention and
+Fukuoka later recognized the pellet's potential for [[do-nothing-farming]] philosophy of minimizing human intervention and
 allowing natural processes to govern plant establishment.
 
 ## Materials and Proportions
@@ -142,9 +119,7 @@ paste produces pellets that are stable, light, and hard. They withstand the
 impact of aerial seeding without breaking, and they adjust to changes in
 dampness and dryness related to rainfall by shrinking and becoming solid when
 dry and absorbing moisture when wet. This responsiveness means the pellets
-
 ## See Also
 
-- [[clay-seed-balls-tsuchi-dango]]
 - [[clay-pellet-desert-revegetation]]
 - [[fukuoka-green-belt-projects]]

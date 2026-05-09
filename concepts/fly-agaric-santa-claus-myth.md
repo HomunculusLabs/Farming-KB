@@ -121,10 +121,6 @@ the cultures we purport to describe.
 
 ## See Also
 
-- [[santa-claus-and-fly-agaric-shaman-myth]]
-
 - [[fly-agaric-victorian-fairy-paintings]]
-- [[soma-controversy-fly-agaric-as-divine-mushroom]]
 - [[fly-agaric-ethnobotany]]
-- [[fly-agaric-amanita-muscaria]]
 - [[fly-agaric-literary-history]]

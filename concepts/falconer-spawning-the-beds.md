@@ -1,17 +1,7 @@
 ---
 title: Falconer Spawning the Beds
 created: 2026-04-26
-tags: [mushroom-cultivation, spawn, mycelium, inoculation, victorian-gardening]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
-type: concept
----
-
-# Falconer Spawning the Beds
-
-Chapter XI of William Falconer's *Mushrooms: How to Grow Them* (1891)
+tags: [[william-falconer]]'s *Mushrooms: How to Grow Them* (1891)
 provides detailed guidance on the critical operation of inserting spawn
 into prepared mushroom beds. Correct spawning technique and timing
 directly determined whether a bed would produce a good crop, a poor one,
@@ -110,7 +100,5 @@ spawn transplanted from other beds.
 
 ## See Also
 
-- [[falconer-mushroom-spawn-preparation]]
 - [[falconer-making-up-mushroom-beds]]
-- [[falconer-earthing-over-the-beds]]
 - [[falconer-mushroom-cultivation-victorian-methods]]

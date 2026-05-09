@@ -3,7 +3,7 @@ title: Fungal Textile Dye Effluent Decolorization
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Degradation of Textile Dyes and Industrial Effluents
@@ -78,16 +78,11 @@ Resin acids are diterpenoid carboxylic acids from pine, spruce, and fir wood:
 - Selected dye-decolorizing enzymes are good candidates for immobilization and bioreactor applications
 - Much remains to be done in elucidating biochemistry of dye decolorization
 - Optimal organisms and culture conditions need identification
-- See [[ligninolytic-enzyme-systems-white-rot-fungi]] for enzyme details
 - See [[fungal-bioreactor-types]] for reactor configurations
 
 ## Related Concepts
 
-- [[fungal-degradation-of-textile-dyes]]
 - [[mycoremediation-of-textile-dyes]]
-- [[mycoremediation-textile-dye-degradation]]
 - [[white-rot-fungi-effluent-decolorization]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[ligninolytic-enzyme-production-bioremediation]]
-- [[ligninolytic-enzymes-bioremediation]]
 - [[fungal-enzymatic-diversity-decomposition]]

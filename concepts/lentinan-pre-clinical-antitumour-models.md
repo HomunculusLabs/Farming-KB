@@ -87,11 +87,7 @@ This is particularly significant as it demonstrates cancer prevention potential,
 
 ## See Also
 
-- [[sarcoma-180-antitumour-assay]]
 - [[lentinan-clinical-research]]
-- [[lentinan-gastric-cancer-combination-therapy]]
 - [[mushroom-polysaccharide-extraction-chemistry]]
-- [[medicinal-mushrooms-biological-response-modifiers]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[mushroom-polysaccharide-chemistry]]
 - [[medicinal-mushroom-cancer-chemoprevention]]

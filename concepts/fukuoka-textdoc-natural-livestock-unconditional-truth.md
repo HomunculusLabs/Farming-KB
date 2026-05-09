@@ -128,9 +128,10 @@ their own nature, free from human management.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
 - [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
 - [[fukuoka-textdoc-one-thing-is-all-things-holism]]
+
+## See Also
+
+- [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]

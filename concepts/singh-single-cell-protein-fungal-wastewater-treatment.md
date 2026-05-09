@@ -123,8 +123,6 @@ industries.
 
 ## See Also
 
-- [[singh-distillery-wastewater-fungal-treatment]]
 - [[singh-fungal-treatment-industrial-wastewaters-overview]]
-- [[singh-protein-pharmaceutical-wastewater-fungal-bioremediation]]
 - [[singh-mushroom-cultivation-on-agricultural-wastes]]
 - [[singh-fungal-bioreactor-types-configurations]]

@@ -1,50 +1,7 @@
 ---
 title: Brassinosteroid Effects on Fungal Growth
 created: 2026-04-28
-tags: [mycology, brassinosteroids, fungal-growth, psilocybe-cubensis, phytohormones, fruiting, mycelium, cultivation-enhancement]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
-type: concept
----
-
-# Brassinosteroid Effects on Fungal Growth
-
-## Overview
-
-Brassinosteroids are a class of steroidal plant-growth regulators recognized as a distinct group of phytohormones. First identified in pollen extracts of Brassica napus, approximately 30 members have been detected across higher plants including angiosperms, gymnosperms, and a green alga.
-
-Their growth-promoting activity involves complex physiological effects including increased cell elongation and cell division. A landmark 1990 study by Gartz, Adam, and Vorbrodt demonstrated for the first time that brassinosteroids also exert powerful growth-promoting effects on fungi.
-
-## Brassinosteroid Background
-
-Brassinosteroids were initially isolated from rapeseed (Brassica napus) pollen in 1979. They represent the sixth major class of plant hormones alongside auxins, gibberellins, cytokinins, ethylene, and abscisic acid.
-
-Their diverse effects on crop yields, stress resistance, and plant development had been documented prior to the fungal studies. Promising results in applying brassinosteroid compounds to improve crop yields and confer anti-stress effects had been reported.
-
-Synthetic brassinosteroids prepared from plant sterols such as stigmasterol have been developed for agricultural applications. Their effects include promotion of cell elongation and division, enhanced photosynthetic efficiency, and improved resistance to environmental stresses.
-
-## The Gartz Study: Experimental Design
-
-### Brassinosteroid Used
-
-The study employed synthetic 22S,23S-homobrassinolide, prepared from stigmasterol. This compound contains the characteristic brassinosteroid structural features: a 5alpha-cholestane skeleton with hydroxyl groups at C-2, C-3, and C-22, C-23, a ketone at C-6, and a lactone ring bridging C-22 and C-23.
-
-The 22S,23S stereochemistry was specifically selected for its known high biological activity in plant systems.
-
-### Cultivation Systems
-
-Two cultivation systems were tested, each with ten experimental runs:
-
-1. **Malt agar**: 6% malt agar medium supplemented with 5 g/L KH2PO4
-2. **Dung and grain substrate**: horse dung and rice grain mixture in water, also with 5 g/L KH2PO4
-
-In both systems, the brassinosteroid was applied at 0.01 ppm (10 parts per billion), consistent with the known high potency of brassinosteroids in biological systems.
-
-### Fungal Strain
-
-A strain of [[psilocybe-cubensis]] (Earle) Singer previously described by Gartz was used. This strain was selected for its characteristically high stability in growth and fruiting performance across various substrates.
+tags: [[psilocybe-cubensis]] (Earle) Singer previously described by Gartz was used. This strain was selected for its characteristically high stability in growth and fruiting performance across various substrates.
 
 ## Results
 
@@ -117,12 +74,8 @@ The application of brassinosteroids to mushroom cultivation could offer several 
 
 ## See Also
 
-- [[brassinosteroid-fungal-growth-promotion]]
 - [[brassinosteroid-effects-on-fungal-morphology]]
-- [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]]
 - [[fungal-roles-in-old-growth-forests]]
-
-- [[brassinosteroid]]
 
 - [[psilocybe-cubensis-cultivation]]
 - Fruiting Triggers and Environmental Parameters

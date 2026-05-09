@@ -55,7 +55,7 @@ remediation are those made from wheat gluten or finely powdered corncob
 debris, since wheat and corn clump and are easier to scoop.
 
 The most effective mushroom species for remediating feline feces are king
-stropharia ([[stropharia-rugoso-annulata-mycofiltration]]) and oyster mushrooms ([[pleurotus-species-guide]]
+stropharia ([[pleurotus-species-guide]]
 spp.). Pine-based litters are generally incompatible with most cultivated
 fungi, though newer isolates of Neolentinus Lepideus suitable for pine are
 under development.
@@ -136,8 +136,6 @@ through the wire.
 
 ## Related Concepts
 
-- [[staycare-fungal-metal-biosorption-reactor-systems]] for heavy metal
-  contamination approaches
 - [[staycare-bioavailability-pollutants-fungal-bioremediation]] for pollutant
   bioavailability principles
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] for

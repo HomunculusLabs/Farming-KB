@@ -12,25 +12,7 @@ sources:
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
-# [[foliar-feeding]] and Absorption
-
-Foliar feeding is the practice of spraying nutrient solutions directly onto plant leaves for absorption through the foliage rather than through roots. While popular among many gardeners, the scientific understanding of how nutrients enter and move within plants reveals significant limitations to this approach.
-
-## How Nutrients Enter Leaves
-
-Plant leaves have stomata -- pores in the epidermis primarily designed for gas exchange (CO2 intake and water/O2 release). Nutrient solutions sprayed on leaves can enter through stomata and also through the cuticle, the waxy outer layer of leaf surfaces. The cuticle is not completely impermeable; small molecules and ions can diffuse through it, though the process is much slower than root uptake.
-
-Once inside the leaf, nutrients face the same cellular barriers as elsewhere in the plant: they must cross the plasmalemma (plasma membrane) to enter cells. This requires nutrients to be in ionic form and relies on the same transport proteins, channels, and pumps that function in roots. With the exception of boron (which enters as uncharged boric acid), all mineral nutrients must be ions to cross cell membranes.
-
-## The Critical Limitation: Nutrient Mobility
-
-The fundamental constraint on foliar feeding is that many nutrients are immobile once inside plant tissue. This means that even if a nutrient is successfully absorbed through the leaf, it cannot be transported to where the plant actually needs it.
-
-Mobile nutrients (N, P, K, Mg, Cl) can be redistributed from older to newer tissue, so foliar application of these has some utility. However, immobile nutrients (Ca, B, S, Fe, Mn, Cu, Ni) stay where they are deposited. If you spray calcium on mature leaves, it cannot reach the growing tips or young leaves where calcium deficiency symptoms appear. Spraying iron on older leaves will not help the young leaves that show iron chlorosis.
-
-## Quantitative Limitations
-
-Plants require far more macronutrients than can realistically be absorbed through foliage. Roots are the primary organ designed for nutrient uptake, with vast surface area enhanced by root hairs and [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] (which extend root surfaces up to hundreds of times). A mature maize plant transpires about 4 gallons per week, and the mass flow of water through roots carries enormous quantities of dissolved nutrient ions. Foliar surfaces simply cannot process equivalent volumes.
+# [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] (which extend root surfaces up to hundreds of times). A mature maize plant transpires about 4 gallons per week, and the mass flow of water through roots carries enormous quantities of dissolved nutrient ions. Foliar surfaces simply cannot process equivalent volumes.
 
 For macronutrients in particular, foliar spraying cannot supply what a plant really needs to thrive. The quantities required for protein synthesis, chlorophyll production, ATP generation, and cell wall construction far exceed what leaves can absorb from surface applications.
 
@@ -62,19 +44,7 @@ Getting sugars into the phloem requires energy in a process called phloem loadin
 
 Foliar feeding has legitimate but narrow applications:
 
-- Quick fix for mobile [[teaming-with-nutrients-micronutrients-and-trace-elements]] deficiencies: Iron and zinc sprays can temporarily address deficiency symptoms since these nutrients can move to where needed
-- Supplemental micronutrient delivery: Liquid kelp sprays provide trace minerals needed in very small quantities
-- Starter solutions for transplants: Dilute fish emulsion or liquid kelp can give transplants a quick nutrient boost while root systems establish
-- Circumstances where root uptake is impaired: Compacted, waterlogged, or frozen soils may temporarily limit root function
-
-## Best Practices
-
-- Use only for mobile nutrients (N, P, K, Mg, Zn) or for temporary cosmetic relief of micronutrient chlorosis
-- Do not rely on foliar feeding as a primary fertilization method
-- Dilute solutions appropriately -- concentrated solutions can burn leaf tissue by osmotic water withdrawal
-- Apply when stomata are open (morning or evening, not during heat of day)
-- Ensure good coverage of both leaf surfaces (undersides have more stomata)
-- Follow soil-based [[teaming-with-nutrients-composting-and-nutrient-cycling]] as the primary delivery system
+- Quick fix for mobile [[teaming-with-nutrients-composting-and-nutrient-cycling]] as the primary delivery system
 
 ## Specific Foliar Recipes
 
@@ -82,33 +52,67 @@ Several well-tested foliar spray formulations are commonly used in organic garde
 
 - **Liquid kelp spray**: Dilute 1-2 tablespoons of liquid seaweed extract per gallon of water. Provides a broad spectrum of micronutrients including iron, manganese, zinc, and boron, plus natural growth hormones (cytokinins and auxins) that can stimulate plant growth. Safe for all plants and can be applied every 2-3 weeks during the growing season
 - **Fish emulsion spray**: Dilute 1-2 tablespoons of fish emulsion per gallon of water. Provides nitrogen (approximately 5% N), phosphorus, and trace minerals. The strong odor dissipates within 24-48 hours. Best used as a transplant starter or for nitrogen-deficient plants
-- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living microbial community can colonize leaf surfaces, potentially providing biological protection against foliar pathogens. This aligns with [[teaming-with-nutrients-composting-and-nutrient-cycling]] from Lowenfels' work
-- **Calcium chloride for blossom end rot**: 1 tablespoon calcium chloride per gallon of water, applied to tomato and pepper fruit during early development. Note that calcium is immobile in plant tissue, so this only protects the leaves and fruit it directly contacts -- it cannot reach interior tissues. Prevention through steady soil moisture is more effective
-- **Chelated iron for chlorosis**: 1 teaspoon of chelated iron (EDDHA or DTPA form) per gallon of water. Addresses iron chlorosis symptoms on new leaves. The chelated form remains available at higher pH than plain iron sulfate, making it more reliable in alkaline soils
-
-## Application Timing
-
-When applying foliar sprays, timing significantly affects absorption efficiency:
-
-- **Early morning (6-10 AM)**: Optimal timing. Stomata are open for gas exchange, humidity is high (reducing evaporation and extending contact time), and temperatures are cool enough to avoid thermal damage. Leaf surfaces retain spray droplets longer when ambient humidity is high
-- **Late evening (after 5 PM)**: Second-best timing. Stomata begin opening as temperatures drop. Avoid spraying too late, as prolonged leaf wetness overnight can promote fungal disease
-- **Avoid midday application**: High temperatures cause rapid evaporation, concentrating salts on leaf surfaces and increasing burn risk. Stomata close during heat stress, reducing absorption
-- **Growth stage**: Foliar feeding is most effective during periods of active vegetative growth when leaves are young and cuticles are thin. Older leaves have thicker cuticles and fewer functional stomata, reducing absorption
-- **Frequency**: Most foliar applications show diminishing returns after 3-4 consecutive applications. Allow 10-14 days between applications to prevent salt accumulation on leaf surfaces
-
-## Nutrient Compatibility
-
-Not all nutrients can be combined in the same foliar spray tank. Some combinations cause precipitation (nutrients fall out of solution as insoluble salts) or antagonism:
-
-- **Compatible combinations**: Nitrogen (as urea or ammonium) combines well with most micronutrients. Kelp extract is compatible with fish emulsion and most nutrient solutions
-- **Incompatible combinations**: Never mix calcium with phosphorus or sulfate -- calcium phosphate and calcium sulfate are highly insoluble and will precipitate, clogging spray equipment and coating leaves with white residue. Similarly, avoid mixing iron with phosphorus (iron phosphate precipitates) or bicarbonates
-- **pH sensitivity**: Most foliar sprays perform best at pH 5.5-6.5. At higher pH, many micronutrients precipitate out of solution. Test spray solution pH with a meter and adjust with a small amount of citric acid if needed. Diluted vinegar can be used but may cause salt buildup with repeated use
-- **Surfactants**: A small amount of non-ionic surfactant (1/4 teaspoon per gallon) can improve coverage by reducing surface tension, allowing the spray to spread evenly across waxy leaf surfaces. This is especially helpful on brassicas and other plants with thick cuticles. However, avoid dish soap, which can strip the waxy cuticle and damage leaf tissue
-
-## The Bottom Line
-
-Foliar feeding should not be relied upon for anything but the most mobile nutrients. For sustained plant health, soil-based nutrient delivery through a healthy [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
+- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living microbial community can colonize leaf surfaces, potentially providing biological protection against foliar pathogens. This aligns with [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
 
 ## See Also
 
 - [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
+## Practical Considerations
+
+When working with Foliar Feeding and Absorption, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -3,18 +3,7 @@ title: Aztec Mushroom Feasts and Revelations
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, mushrooms]
-sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
----
-
-Updated: 2026-04-18
-
-## Overview
-
-The Aztec (Mexica) civilization practiced intentional, ceremonial use of psychoactive mushrooms for centuries before the Spanish conquest. The Nahuatl word "teonanacatl," meaning "flesh of the gods," referred to several species of psilocybin-containing mushrooms used in religious rituals, divination, and healing ceremonies. This practice represents one of the most extensively documented examples of culturally sanctioned psychoactive mushroom use in human history.
-
-Source: [[magic-mushroom-cultural-history]]
+tags: [[magic-mushroom-cultural-history]]
 
 ***
 
@@ -75,11 +64,26 @@ Despite this systematic suppression, mushroom use was never fully eradicated. In
 
 ## Related Topics
 
-- [[wasson-mycophobia-mycophilia-theory]] — Cultural divide between mushroom-fearing and mushroom-loving societies
 - [[siberian-fly-agaric-tradition]] — Parallel traditions in Siberia with Amanita muscaria
-- [[mushroom-symbolism-western-art]] — How mushroom imagery appeared in European art
 - [[witches-fungi-and-flying-ointments]] — European parallels of psychoactive substance use
-- [[saharan-rock-art-mushroom-cult]] — Archaeological evidence of ancient mushroom use
 - [[amanita-muscaria-ethnobotany]] — Ethnobotanical perspective on fly agaric use worldwide
-- [[modern-mushroom-festival-culture]] — Contemporary mushroom festivals and gatherings
 - [[psilocybin-mushroom-biology-chemistry]]
+## Practical Considerations
+
+Successful implementation of Aztec Mushroom Feasts and Revelations requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -20,24 +20,6 @@ complementary purposes in fruit tree management.
 
 ### Pruning
 
-[[pruning-fruit-trees]] is the ongoing practice of removing dead, diseased,
-or unproductive wood and shaping the remaining scaffold for optimal light
-penetration, air circulation, and fruit production. Pruning is performed
-annually, primarily during the dormant season when branch structure is
-clearly visible and the tree's energy is conserved in roots and trunk.
-Summer pruning can also be used to control vigor and direct energy into
-fruiting wood.
-
-Proper pruning opens the canopy to sunlight, which drives fruit sugar
-production and ripening. Good air circulation reduces disease pressure by
-allowing foliage and fruit to dry quickly after rain. Structural pruning of
-young trees establishes the scaffold architecture that will support heavy
-crops for decades. Without regular pruning, fruit trees become overcrowded,
-produce small inferior fruit, and develop weak branch unions prone to
-breakage.
-
-### Grafting
-
 [[grafting-fruit-trees]] is a propagation technique that mechanically joins
 a scion (the desired variety) to a rootstock (the root system and lower
 trunk). The cambium layers of both partners must be aligned precisely so
@@ -121,8 +103,6 @@ those trees productive, healthy, and structurally sound for decades.
 
 ## See Also
 
-- [[pruning-techniques-organic]]
 - [[training-cannabis]]
-- [[fruit-tree-pruning]]
 - [[pruning-fruit-trees]]
 - [[grafting-fruit-trees]]

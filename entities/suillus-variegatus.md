@@ -90,33 +90,7 @@ A comprehensive study by Blaudez et al. (2000) tested 39
 fungal isolates representing five species for tolerance to
 cadmium, copper, nickel, and zinc at three concentrations
 each. The results demonstrated that Pisolithus tinctorius,
-[[suillus-luteus]], and Suillus variegatus were collectively
-more tolerant of copper, cadmium, and zinc than
-[[paxillus-involutus]]. However, [[paxillus-involutus]]
-exhibited greater resistance to nickel compared to the other
-species tested. This differential metal tolerance pattern
-reveals that metal resistance in ectomycorrhizal fungi is
-metal-specific rather than representing a generalized
-tolerance mechanism.
-
-The study identified significant differences in growth both
-between concentration levels of each metal and between the
-presence and absence of metal within each isolate.
-Furthermore, there were notable differences in the degree of
-variation between isolates of the same species, suggesting
-that intraspecific genetic diversity plays an important role
-in determining metal tolerance phenotypes. These findings have
-implications for understanding how ectomycorrhizal fungal
-communities may respond to soil contamination and for
-selecting fungal strains with desirable metal tolerance traits
-in restoration ecology and forest management on
-metal-contaminated sites.
-
-## See Also
-
-- [[pisolithus-tinctorius]]
-- [[suillus-luteus]]
+[[paxillus-involutus]]. However, [[pisolithus-tinctorius]]
 - [[paxillus-involutus]]
-- [[laccaria-laccata]]
 - [[suillus-granulatus]]
 - [[suillus-pungens]]

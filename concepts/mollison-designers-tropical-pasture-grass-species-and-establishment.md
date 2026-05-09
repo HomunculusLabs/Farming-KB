@@ -124,14 +124,8 @@ use.
 
 ## Related
 
-- [[mollison-designers-succession-and-system-establishment]] Topics
-
 - [[mollison-pasture-legumes-and-forage-legumes-of-the-tropics]]
   - Legume species for tropical pastures
-- [[mollison-tropical-pasture-grass-species-selection-and-management]]
-  - Additional grass species
 - [[mollison-forage-trees-in-livestock-systems]] - Tree fodder systems
-- [[mollison-designers-arid-area-grasses-and-forbs-for-range-management]]
-  - Arid area species
 - [[mollison-mixed-livestock-rotation-systems]] - Rotational grazing
   systems

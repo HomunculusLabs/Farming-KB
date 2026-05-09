@@ -35,16 +35,7 @@ controversial claim directed scientific attention to the riddle.
 The Mexican physician Dr. Blas Pablo Reko first openly disagreed with Safford
 and found evidence that mushrooms were still employed in remote districts of
 southern Mexico. In 1938, anthropologist Robert J. Weitlaner and botanist
-[[richard-evans-schultes]] of Harvard University found actual mushrooms used for
-ceremonial purposes. That same year, a group of young American anthropologists
-under Jean Bassett Johnson attended a secret nocturnal mushroom ceremony in
-Huautla de Jimenez, capital of the Mazatec country in the State of Oaxaca, but
-as spectators only -- they were not permitted to partake.
-
-## R. Gordon Wasson and the Mazatec
-
-The decisive role in the rediscovery of the sacred mushrooms was played by the
-American researchers [[valentina-pavlovna-wasson]] and her husband R. Gordon
+[[valentina-pavlovna-wasson]] and her husband R. Gordon
 Wasson. R. G. Wasson was a banker, vice-president of J. P. Morgan Co. in New
 York. His wife was a pediatrician. The Wassons began their work in 1953 in the
 Mazatec village Huautla de Jimenez, where Johnson had established the continued
@@ -143,7 +134,5 @@ hours after ingestion, the rush of interior pictures reached such an alarming
 degree that Hofmann feared he would be torn into the whirlpool of form and
 color. After about six hours the dream came to an end. He felt his return to
 
-- [[hofmann-mexican-mushroom-expedition-psilocybin]]
 - [[psilocybin-mushroom-species-identification]]
-- [[wasson-hofmann-schultes-research-network]]
 - [[gordon-wasson-mushroom-discovery]]

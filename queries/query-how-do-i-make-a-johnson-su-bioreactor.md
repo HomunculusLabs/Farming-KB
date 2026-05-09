@@ -23,34 +23,6 @@ carefully formulated mixture of organic materials and kept consistently moist th
 on passive aeration through the central pipe rather than mechanical turning, creating a stable environment where
 beneficial fungi can thrive alongside a diverse bacterial community.
 
-The [[aact-compost-quality-standards-ingham]] research demonstrates that fungal-dominated composts like those produced
-by the Johnson-Su system support more complex soil food webs and provide greater benefits to perennial plants, trees,
-and pastures compared to bacterially dominated thermal composts.
-
-Dr. Johnson's research at New Mexico State University showed that soils amended with Johnson-Su compost sequestered
-significantly more carbon than conventionally managed soils. The fungal hyphae in the compost produce glomalin, a sticky
-glycoprotein that binds soil particles into stable aggregates that resist wind and water erosion for decades.
-
-The bioreactor design is intentionally simple and inexpensive, requiring only commonly available materials. A single
-5-foot-tall bioreactor costs less than 50 dollars in materials to construct and produces enough finished compost to
-inoculate approximately one acre of agricultural land when applied as a top-dressing at standard rates.
-
-## Materials Needed
-
-The core structural component is a 5-gallon plastic bucket with the bottom cut out, or a section of 6-inch-diameter
-perforated PVC drainage pipe, approximately 5 feet long. This forms the central aeration chimney. A piece of hardware
-cloth or welded wire mesh with half-inch openings, approximately 10 to 12 feet long and 3 feet tall, forms the outer
-cylinder that contains the composting materials.
-
-Additional materials include a tarp or plastic sheet to cover the top and prevent excessive rain infiltration, drip
-irrigation tubing or a soaker hose connected to a water source, and a means of supporting the structure such as T-posts
-or wooden stakes. Some builders place the entire bioreactor on a pallet to improve drainage and air circulation beneath
-the pile.
-
-The organic feedstock mixture consists of roughly equal volumes by weight of carbon-rich browns and nitrogen-rich
-greens. Common browns include shredded leaves, straw, wood chips, sawdust, and shredded paper. Common greens include
-grass clippings, kitchen vegetable scraps, coffee grounds, and aged manure from herbivores.
-
 The [[biointensive-composting]] approach recommends a carbon-to-nitrogen ratio starting between 25:1 and 30:1. Achieving
 this balance is important because too much nitrogen creates anaerobic conditions and foul odors, while too little
 nitrogen slows decomposition dramatically and extends the already-long curing period beyond 12 months.
@@ -87,35 +59,7 @@ temperatures stabilize between 60 and 100 degrees Fahrenheit. This is when funga
 may see white mycelial threads spreading through the composting materials, which is a positive sign of healthy fungal
 development.
 
-The [[bacterial-vs-fungal-compost-teas]] comparison highlights that maintaining moisture is the most important
-management task throughout the 6 to 12 month composting period. The pile should remain consistently moist but never
-waterlogged, similar to a wrung-out sponge. Adjust irrigation rates seasonally, increasing during hot dry periods and
-reducing during cool wet periods.
-
-No turning is required or recommended with the Johnson-Su system. The passive aeration through the central chimney pipe
-provides sufficient oxygen for the slow aerobic decomposition process. Disturbing the pile by turning disrupts
-developing fungal networks and sets back the composting timeline by several weeks each time.
-
-## Harvesting and Application
-
-The compost is ready to harvest when the original feedstock materials are no longer recognizable and the entire mass has
-transformed into a dark, crumbly, earthy-smelling material. This typically takes 8 to 12 months depending on climate,
-feedstock composition, and moisture management. In cooler climates or when woody materials dominate the feedstock,
-curing may extend to 14 months.
-
-To harvest, simply dismantle the wire mesh cylinder and remove the central pipe. The compost should hold together when
-squeezed but break apart easily when disturbed. If significant woody fragments remain, screen the compost through a
-half-inch mesh to separate finished material from incompletely decomposed fragments that can be returned to the next
-bioreactor batch.
-
-Johnson-Su compost is most effective when applied as a thin top-dressing rather than incorporated into the soil. Apply
-one-quarter to one-half inch of finished compost across the soil surface and allow rainfall and soil organisms to
-incorporate it gradually. This approach preserves the delicate fungal hyphae and microbial communities that make this
-compost so valuable.
-
-For large-scale agricultural applications, Johnson-Su compost can be brewed into an aerated compost tea that extends the
-coverage area dramatically. A single cubic yard of finished compost can inoculate 10 or more acres when applied as a
-properly brewed extract. The [[aact-compost-organism-levels]] guidelines provide detailed protocols for brewing and
+The [[aact-compost-organism-levels]] guidelines provide detailed protocols for brewing and
 applying compost extracts at field scale.
 
 ## Benefits and Results
@@ -143,5 +87,4 @@ application builds soil carbon stocks while simultaneously improving crop produc
 - The compost improves soil aggregation, water retention, carbon sequestration, and crop yields
 
 ## Related Questions
-- [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]]
 - [[query-how-to-make-compost-tea-for-my-plants]]

@@ -33,11 +33,7 @@ GANESHA produces a long-lasting, tranquil psychedelic experience:
 
 ## Synthesis
 
-Synthesized from 2,5-dimethoxy-3,4-dimethylbenzaldehyde (see [[2c-g-entity]]) via nitropropene formation with nitroethane and ammonium acetate, followed by LAH reduction. The nitropropene intermediate had a mp of 82 degrees C. The hydrochloride salt of GANESHA had a mp of 168-169 degrees C.
-
-## Extensions and Commentary
-
-GANESHA was the seventh of the ten "Classic Ladies" -- the systematic replacement of each distinguishable hydrogen atom of DOM with a methyl group. The findings were "a total surprise." The extension of a hydrogen at the 3-position of [[dom-entity]] with a methyl group should have had minor steric influence, yet it caused a full order of magnitude decrease in potency.
+Synthesized from 2,5-dimethoxy-3,4-dimethylbenzaldehyde (see [[dom]] with a methyl group should have had minor steric influence, yet it caused a full order of magnitude decrease in potency.
 
 The remarkable point is that placement of a "dull methyl group at a dull position" of the DOM molecule actually inactivated its activity. It is not the presence of the methyl that decimated potency, but the removal of the hydrogen atom. This suggests the 3-position hydrogen may be involved in metabolism that promotes DOM-like compounds to active intermediates.
 
@@ -111,11 +107,7 @@ The compound's tranquil, peaceful character -- "completely at peace, in a beauti
 
 ## Related Compounds
 
-- [[dom-entity]] -- the parent compound from which GANESHA is derived
-
 - [[2c-g-entity]] -- the phenethylamine analogue (similar potency)
-
-- [[2c-g-5-entity]] -- the rigid benzonorbornane analogue (more potent)
 
 - [[aleph-1-entity]] -- ALEPH (PARA-DOT)
 

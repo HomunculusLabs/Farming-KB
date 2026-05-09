@@ -47,7 +47,7 @@ for water conservation and gravity-fed flow irrigation. It also involves
 patterning, tree planting, soil treatment, and fencing alignment, making
 it the first book on functional landscape design in modern times.
 
-Keyline design is covered in detail in [[mollison-keyline-water-conservation]] and [[mollison-keyline-soil-conditioning-humid-water]].
+Keyline design is covered in detail in [[mollison-keyline-soil-conditioning-humid-water]].
 
 ## Earthworks for Infiltration
 
@@ -105,11 +105,7 @@ alleviating droughts while recharging retention storages.
 
 ## Integration with Related Systems
 
-- [[mollison-dam-types-landscape-placement]] for dam placement in
-  drought-prone landscapes.
 - [[mollison-swale-design-details]] for swale construction specifications.
-- [[mollison-water-harvesting-management-permaculture]] for comprehensive
-  water harvesting strategies.
 - [[mollison-arid-lands-design-and-erosion-control]] for dryland-specific
   techniques.
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

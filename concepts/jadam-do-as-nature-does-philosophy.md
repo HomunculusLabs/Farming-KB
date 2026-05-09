@@ -65,15 +65,30 @@ Franklin Hiram King, chief of the US Division of Soil Management, visited China,
 
 ## See Also
 
-- [[jadam-nature-as-teacher-philosophy]] -- expanded nature-as-teacher concept
 - [[jadam-sese-philosophy]] -- the SESE framework
-- [[jadam-natural-farming-philosophy]] -- broader JADAM philosophy
 - [[jadam-monoculture-critique]] -- nature's answer to monoculture
-- [[jadam-salt-accumulation-in-soil]] -- nature's answer to salinity
 - [[jadam-compost-free-approach]] -- nature's approach to fertilization
-- [[jadam-customized-microorganism-medium]] -- learning from leaf mold
 - [[jadam-cover-crop-method]] -- working with natural vegetation cycles
 
 ## Related
 
 - [[jadam-crop-rotation-critique]]
+## Practical Considerations
+
+Successful implementation of JADAM Do As Nature Does Philosophy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

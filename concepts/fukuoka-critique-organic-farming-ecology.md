@@ -76,21 +76,8 @@ nature.
 Reviving the earth, halting the growth of deserts, and conserving the
 environment cannot be achieved by doing something, but by seizing an
 opportunity for reform that requires nothing to be done. This is the
-essence of the [[fukuoka-do-nothing-farming-philosophy-and-practice]].
-
-With its fixation on tourism and leisure, the public calls for more
-high-speed roads and bridges. The natural destruction of Japan will
-continue for some time to come. What is needed is not environmental
-management by experts but a fundamental shift in human consciousness
-and relationship with nature.
-
-## See Also
-
-- [[fukuoka-critique-organic-certification]]
-- [[fukuoka-natural-farming-philosophy]]
+essence of the [[fukuoka-critique-organic-certification]]
 - [[fukuoka-ecological-balance-principles]]
-- [[fukuoka-bogus-nature]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-european-civilization-standstill]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-natural-vs-scientific-farming]]

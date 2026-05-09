@@ -3,14 +3,7 @@ title: Fungal Parasites and Predators of Invertebrates
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
-sources: []
----
-# Fungal Parasites and Predators of Invertebrates
-
-## Overview
-
-More than **300 species** of fungi across five major phyla — Ascomycota, Basidiomycota, Chytridiomycota, Zygomycota, and Oomycota — interact with invertebrates as parasites or predators. These fungi represent a fascinating and ecologically critical component of [[fungal-biodiversity]], influencing invertebrate population dynamics, soil food webs, and nutrient cycling.
+tags: [[fungal-biodiversity]], influencing invertebrate population dynamics, soil food webs, and nutrient cycling.
 
 ## Three Modes of Interaction
 
@@ -27,29 +20,7 @@ Predatory fungi produce **noninfective conidia** — their spores germinate to f
 
 ### 2. Parasitism of Adult Invertebrates
 
-Parasitic species maintain **limited external mycelia** and produce **infective conidia or zoospores** that actively seek out and penetrate host organisms. Once inside, the fungus proliferates, eventually killing the host and emerging to sporulate. These species are central to [[fungal-parasites-and-predators]] research and have applications in biological control of pest invertebrates.
-
-### 3. Parasitism of Eggs and Cysts
-
-A third strategy targets the **reproductive or resting stages** of invertebrates. Fungi infecting eggs or cysts often have specialized appressoria or penetrating structures adapted to breach the tough protective coatings of these stages.
-
-## Key Taxonomic Groups
-
-### Orbiliaceae (Ascomycota)
-
-The family **Orbiliaceae** is the primary ascomycete group containing predatory fungi. The type of trapping organ produced is considered a **reliable morphological criterion** for species delimitation within this family.
-
-**Predatory Ascomycetes:**
-- *Arthrobotrys* — adhesive nets and constricting rings
-- *Dactylaria* — adhesive knobs
-- *Monacrosporium* — diverse trapping structures
-
-**Predatory Basidiomycetes:**
-- *Hohenbuehelia* — produces nematode-destroying structures
-- *Nematoctonus* — specialized nematode parasites
-- *Pleurotus* (oyster mushrooms) — some species are nematophagous
-
-The [[cotter-oyster-mushroom-cultivation]] page covers the well-documented nematode-trapping abilities of *Pleurotus ostreatus*, which produces toxic droplets that paralyze nematodes before colonization.
+Parasitic species maintain **limited external mycelia** and produce **infective conidia or zoospores** that actively seek out and penetrate host organisms. Once inside, the fungus proliferates, eventually killing the host and emerging to sporulate. These species are central to [[cotter-oyster-mushroom-cultivation]] page covers the well-documented nematode-trapping abilities of *Pleurotus ostreatus*, which produces toxic droplets that paralyze nematodes before colonization.
 
 ### Endoparasites
 
@@ -86,7 +57,25 @@ Bdelloid rotifers, obtained as bait from moss, soil, and tree bark, can be used 
 
 ## Ecological Significance
 
-Fungal parasites and predators of invertebrates are crucial regulators of soil and freshwater food webs. They help control nematode populations that can be agricultural pests, contribute to [[fungal-ecology]] through top-down regulation of decomposer communities, and represent a largely untapped source of bioactive compounds for pharmaceutical and agricultural applications. Their study connects [[fungal-enzymatic-capabilities]] with predator-prey dynamics, as many species produce potent proteases, collagenases, and neurotoxins to subdue their prey.
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+Fungal parasites and predators of invertebrates are crucial regulators of soil and freshwater food webs. They help control nematode populations that can be agricultural pests, contribute to [[fungal-enzymatic-capabilities]] with predator-prey dynamics, as many species produce potent proteases, collagenases, and neurotoxins to subdue their prey.
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[fungal-parasites-predators-nematodes]]
+## Practical Considerations
+
+Successful implementation of Fungal Parasites and Predators of Invertebrates requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -17,12 +17,8 @@ type: concept
 # 2C-B Family — Phenethylamine Psychedelics from PIHKAL
 
 The 2C family represents one of the most significant contributions of
-[[phenethylamine-chemistry-basics]] and [[phenethylamine-chemistry-basics]] to the science of
-[[phenethylamine-chemistry-basics]]. Named for the two carbon atoms between the benzene
-ring and the amino group, the 2C series (2,5-dimethoxy-4-substituted
-phenethylamines) encompasses dozens of compounds catalogued in PIHKAL.
-These are primarily serotonergic psychedelics acting as partial agonists
-at [[psilocybin-serotonin-5ht2a-receptor-pharmacology]], particularly the 5-HT2A subtype.
+[[phenethylamine-chemistry-basics]] to the science of
+[[psilocybin-serotonin-5ht2a-receptor-pharmacology]], particularly the 5-HT2A subtype.
 
 ## Shulgin's Rating System
 
@@ -134,17 +130,9 @@ Several important safety considerations apply across the 2C family:
 
 ## Relationship to Other Families
 
-The 2C compounds are closely related to the [[pihkal-mescaline-analogs]]
-and DOx derivatives. Adding an alpha-methyl group to any 2C compound
-yields the corresponding DOx compound with extended duration and
-increased potency. The shared phenethylamine core places the family
-within the broader context of [[phenethylamine-chemistry-basics]] research.
-
+The 2C compounds are closely related to the [[phenethylamine-chemistry-basics]] research.
 ## See Also
 
-- [[pihkal-mescaline-analogs]] — Mescaline-based analogs
 - [[pihkal-doa-family]] — DOx amphetamine derivatives
-- [[pihkal-mda-family]] — MDA, MDMA, and empathogenic compounds
 - [[phenethylamine-chemistry-basics]] — Biography of the chemist
-- [[phenethylamine-chemistry-basics]] — Co-author and research partner
 - [[phenethylamine-chemistry-basics]] — Overview of the broader class

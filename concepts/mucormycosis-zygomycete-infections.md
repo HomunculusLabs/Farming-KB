@@ -115,32 +115,12 @@ Diagnosis is notoriously difficult:
   deferoxamine
 - **Surgical debridement:** Essential — necrotic tissue must be removed; repeat surgeries often
   needed
-- **Liposomal amphotericin B:** Primary antifungal therapy ([[amphotericin-b-antifungal]])
-- **Posaconazole and isavuconazole:** Step-down or alternative therapies
-- **Combination therapy:** Uncertain benefit; some studies suggest amphotericin B plus
-  echinocandin
-- **Hyperbaric oxygen:** Investigational adjunctive therapy
-
-## Epidemiology
-
-- Increasing incidence globally, likely due to rising diabetes and immunosuppressed populations
-- Particularly common in India (where diabetes prevalence is high)
-- Outbreaks associated with contaminated medical supplies (linen, adhesive bandages)
-- Environmental exposure to spores is universal — disease reflects host vulnerability
-
-## Related Topics
-
-- [[amphotericin-b-antifungal]] - Primary treatment drug
-- [[ergosterol-fungal-drug-target]] - Drug target (note: Mucorales ergosterol differs from
-  other fungi, affecting drug sensitivity)
+- **Liposomal amphotericin B:** Primary antifungal therapy ([[amphotericin-b-antifungal]] - Primary treatment drug
 - [[melanized-fungal-pathogens]] - Overview of human fungal pathogens
-- [[dermatophyte-fungi-human-disease]] - Superficial fungal infections
 - [[cryptococcus-neoformans-pathogenesis]] - Another serious fungal pathogen
-- [[melanized-fungal-pathogens]] - Melanized fungal diseases
 - [[fungal-spore-biology]] - Cell wall differences from other fungi
 
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 4.
-- [[fungal-single-cell-protein-production]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 
 ## See Also

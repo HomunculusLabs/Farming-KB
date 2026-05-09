@@ -64,39 +64,9 @@ populations were geographically separated, genetically recombining
 groups where geography covaried linearly with distance, indicating low
 long-distance spore dispersal.
 
-For [[candida-albicans-molecular-epidemiology]], a
-seven-gene MLST scheme (AAT1a, ACC1, ADP1, MPIb, SYA1, VPS13, ZWF1b)
-has become the internationally agreed reference standard. The C.
-albicans database holds genotypes for over 279 isolates, of which 87%
-are unique STs. A parallel six-gene scheme for Candida glabrata
-identified five principal clusters with a geographical component to
-population genetics, though low resolution limits microevolutionary
-studies.
+For [[gadd-fungal-multilocus-sequence-typing]]
 
-## Multilocus Microsatellite Typing (MLMT)
-
-For genetically depauperate species where nucleotide diversity is too
-low for MLST, multilocus microsatellite typing (MLMT) provides higher
-resolution. Microsatellites are short DNA stretches of repeated motifs
-(di-, tri-, tetra-, or pentanucleotide) that accumulate length
-polymorphisms through strand slippage mispairing during meiosis. Mutation
-rates at microsatellite repeats are estimated at 10^-4 to 10^-5 per
-generation in yeast, compared with 10^-9 for point mutations.
-
-In Coccidioides immitis, MLST showed all South American isolates shared
-an identical ST, while a nine-locus MLMT system distinguished 10 of 14
-isolates as unique. For Penicillium marneffei in Thailand, only seven
-polymorphic nucleotides were found across 4955 nucleotides (0.141%
-diversity), making MLST impractical; a 21-locus MLMT scheme was
-developed instead.
-
-## See Also
-
-- [[gadd-fungal-multilocus-sequence-typing]]
-
-- [[fungal-species-concepts-estimates]]
 - [[coccidioides-species-complex-biogeography]]
-- [[fungal-molecular-community-analysis]]
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - [[cryptococcus-neoformans-pathogenesis]]
 

@@ -67,61 +67,29 @@ The aerial parts contain **pyrrolizidine alkaloids (PAs)**, primarily lycopsamin
 
 Flowers contain anthocyanins, primarily delphinidin and cyanidin glycosides, responsible for the blue pigmentation. The leaves contain mucilage (approximately 8%), tannins, flavonoids, and ascorbic acid.
 
-The roots contain small quantities of allantoin, a compound with wound-healing properties also found in **[[comfrey]]** (*Symphytum officinale*).
+The roots contain small quantities of allantoin, a compound with wound-healing properties also found in **[[euphrasia-officinalis]]
 
-## Traditional and Modern Uses
-
-In traditional European herbalism, borage was classified as a diaphoretic, diuretic, and antidepressant. The Latin phrase *ego borago gaudia semper ago* ("I, borage, always bring courage") reflects its reputation as a mood enhancer.
-
-Culpeper's *Complete Herbal* (1653) recommended borage for melancholy, fevers, and to promote sweating. The flowers and leaves were infused in wine or used as a tea to lift the spirits and restore vitality.
-
-In modern herbal practice, borage seed oil capsules are used as a dietary source of GLA for inflammatory conditions including rheumatoid arthritis, atopic dermatitis, and diabetic neuropathy. Clinical evidence supports modest benefits for atopic eczema.
-
-The edible flowers are used fresh as garnishes for salads, desserts, and cold drinks. The crystallized flowers are traditional decorations for cakes and confections. Young leaves have a mild cucumber flavor and are used in salads and soups, though the hairs require blanching or fine chopping.
-
-Borage is widely grown as a bee forage plant, producing abundant nectar and pollen over a long flowering period. The resulting honey is light-colored with a mild, pleasant flavor.
-
-## Companion Planting and Ecological Role
-
-Borage is valued in organic gardening and permaculture systems as a companion plant. It is reputed to improve the growth and flavor of tomatoes, strawberries, and squash, though controlled studies confirming these effects are limited.
-
-The deep taproot helps break compacted soil and bring up nutrients from subsoil layers. The flowers attract pollinators including bees, butterflies, and hoverflies, making borage a useful addition to pollinator-friendly planting schemes.
-
-Borage may serve as a trap crop for certain pest species, attracting aphids and whiteflies away from neighboring vegetable crops. The vigorous growth habit can provide light shade for heat-sensitive companion plants.
-
-The species has been investigated as a potential phytoremediation plant for soils contaminated with heavy metals, showing moderate uptake capacity for cadmium and zinc in greenhouse studies.
-
-## Cultivation
-
-Borage is easily grown from seed directly sown in the garden after the last frost. Seeds germinate in 5–10 days at soil temperatures above 15°C. Thin seedlings to 30–45 cm spacing.
-
-The plant is relatively pest-free and disease-resistant in most conditions. Root rot can occur in waterlogged soils. No major insect pests target borage specifically, making it a low-maintenance garden subject.
-
-Harvest of leaves can begin 6–8 weeks after sowing. Flowers are harvested as they open. Seeds are collected when the nutlets turn brown and dry on the plant, typically 12–16 weeks after sowing.
-
-For commercial seed oil production, borage is grown as an annual crop in temperate regions with harvesting performed by combine at maturity. Yields of 0.5–1.0 tonnes of seed per hectare are typical.
-
-## Safety and Precautions
-
-The pyrrolizidine alkaloid content of borage aerial parts is the primary safety concern. PAs are hepatotoxic, genotoxic, and potentially carcinogenic with chronic exposure. The German Commission E and other regulatory bodies have issued warnings against internal use of borage herb preparations.
-
-PA-free borage seed oil is considered safe at typical supplement doses of 1–3 grams per day. Reputable manufacturers use filtration processes to reduce PA content to below detectable limits in seed oil products.
-
-Pregnant and breastfeeding women should avoid borage supplements due to insufficient safety data and theoretical risks from PA exposure. The herb is traditionally considered an emmenagogue and uterine stimulant.
-
-Allergic reactions to borage are rare but have been reported, particularly in individuals sensitized to other Boraginaceae species. Contact dermatitis from the bristly hairs is possible during harvesting.
-
-## See Also
-
-- [[euphrasia-officinalis]]
-
-- [[comfrey]] — related Boraginaceae species with allantoin and medicinal applications
 - [[calendula-officinalis]] — companion plant with edible flowers and anti-inflammatory properties
-- [[echinacea-purpurea]] — medicinal herb for immune system support
 - [[ocimum-basilicum]] — culinary herb commonly companion-planted with borage
-- [[rosmarinus-officinalis-entity]] — rosemary, a Mediterranean medicinal and culinary herb
 - [[mentha-piperita]] — peppermint, a source of menthol with overlapping medicinal uses
-- [[taraxacum-officinale]] — dandelion, a deep-rooted perennial with medicinal and ecological value
 - [[stinging-nettle]] — nutrient-dense perennial with anti-inflammatory properties
-- [[nasturtium-officinale]] — watercress, an edible aquatic plant with peppery flavor
 - [[tropaeolum-majus]] — nasturtium, an edible flower companion plant
+## Practical Considerations
+
+Successful implementation of Borago officinalis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

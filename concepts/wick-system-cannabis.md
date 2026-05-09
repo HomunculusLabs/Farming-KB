@@ -25,33 +25,8 @@ Cloth wicks are placed so that one end sits in the nutrient solution reservoir a
 
 ### Medium-Based Wick Systems
 
-Some wick systems do not use separate wicks at all. Instead, the growing medium itself acts as the wick. Containers are filled with an absorbent soilless mix that draws nutrient solution upward from a reservoir below through direct contact. [[comparison-coco-coir-vs-peat]] (coco peat) is particularly effective as a wicking medium due to its high water retention and capillary properties.
-
-## Advantages of Wick Systems
-
-- **No moving parts**: Nothing breaks or malfunctions. There are no pumps, timers, or electrical components to fail.
-- **Low cost**: Initial setup costs are minimal. No pumps, timers, or electrical equipment required.
-- **Low maintenance**: Once set up, wick systems require very little ongoing maintenance.
-- **Silent operation**: No pump noise, making wick systems ideal for stealth grows.
-- **Reliability**: The simplicity of the design means fewer things can go wrong.
-- **Energy efficient**: No electricity consumption beyond lighting.
-
-## Disadvantages of Wick Systems
-
-- **Limited oxygen**: The growing medium can stay very wet in passive systems, and substrate selection is important. Soggy substrates hold less air and deprive roots of rapid nutrient uptake.
-- **Slower growth**: Not considered "high performance" compared to active systems like [[deep-water-culture]] or [[nutrient-film-technique]].
-- **Limited nutrient delivery**: Capillary action may not deliver nutrients fast enough for large, fast-growing plants.
-- **Salt buildup**: Slow drainage can lead to fertilizer salt accumulation in the growing medium.
-
-## Growing Mediums for Wick Systems
-
-The best growing mediums for wick systems are those with high water retention and strong capillary action:
-- [[vermiculite-cannabis]]: Holds and wicks moisture exceptionally well. Cervantes specifically notes its suitability for hydroponic wick systems.
-- [[coco-coir-cannabis]]: Heavy in coco peat, used to wick up nutrient solution effectively.
-- Cannabis Growing Mediums: Absorbent soilless blends that hold plenty of air while wicking moisture.
-- Peat moss: High water retention and good wicking properties.
-
-Avoid fast-draining mediums like [[perlite-cannabis]] alone, as they do not wick effectively. However, a blend of absorbent medium with a small amount of perlite can improve aeration while maintaining wicking ability.
+Some wick systems do not use separate wicks at all. Instead, the growing medium itself acts as the wick. Containers are filled with an absorbent soilless mix that draws nutrient solution upward from a reservoir below through direct contact. [[deep-water-culture]] or [[vermiculite-cannabis]]: Holds and wicks moisture exceptionally well. Cervantes specifically notes its suitability for hydroponic wick systems.
+- [[perlite-cannabis]] alone, as they do not wick effectively. However, a blend of absorbent medium with a small amount of perlite can improve aeration while maintaining wicking ability.
 
 ## The Dutch Flood Method
 
@@ -62,22 +37,13 @@ This method allows a grower to flood the garden on Monday and return on Friday t
 ## Suitable Plants
 
 Wick systems are best suited for:
-- Smaller plants and [[cannabis-seedling-care-guide]]
-- [[cannabis-clone-rooting-and-transplanting]] during rooting
+- Smaller plants and [[cannabis-clone-rooting-and-transplanting]] during rooting
 - Mother plants in vegetative maintenance
 - Low-stress, low-maintenance grows
 - Situations where electricity for pumps is unavailable or undesirable
 - Guerrilla grows where simplicity and reliability are paramount
 
-Large, fast-flowering plants may outpace the nutrient delivery capacity of a wick system and may perform better in active [[cervantes-passive-wick-hydroponic-systems]] like [[deep-water-culture]] or [[ebb-and-flow]].
-
-## Wick System Limitations
-
-Wick systems are not considered "high performance" compared to active hydroponic methods. The growing medium can stay very wet in passive systems, and substrate selection is important. Soggy substrates hold less air and deprive roots of the oxygen needed for rapid nutrient uptake. Despite this limitation, the Dutch have managed to perfect wick systems and achieve amazing results.
-
-## Nutrient Solution Management
-
-Use a mild, balanced nutrient solution at lower EC than active hydroponic systems. Because the solution is delivered slowly through capillary action, overly concentrated solutions can lead to [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] at the wick contact point. Maintain pH between 5.8 and 6.5 for hydroponic wick applications, or 6.0 to 7.0 for soil-based wick systems.
+Large, fast-flowering plants may outpace the nutrient delivery capacity of a wick system and may perform better in active [[deep-water-culture]] or [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] at the wick contact point. Maintain pH between 5.8 and 6.5 for hydroponic wick applications, or 6.0 to 7.0 for soil-based wick systems.
 
 ## Wick System Variations
 
@@ -119,12 +85,8 @@ Some commercial containers have built-in wicking chambers or water reservoirs in
 
 ## See Also
 
-- [[hydroponic-cannabis]]
 - [[vermiculite-cannabis]]
-- [[coco-coir-cannabis]]
 - [[deep-water-culture]]
-- [[ebb-and-flow]]
 - [[cannabis-growing-mediums]]
-- [[cannabis-watering-schedule-and-frequency]]
 - [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-seedling-care-guide]]

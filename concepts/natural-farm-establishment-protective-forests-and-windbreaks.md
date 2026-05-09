@@ -122,7 +122,9 @@ The protective forest establishment method is a practical expression of this phi
 
 ## See Also
 
-- [[clay-seed-pellet-composition-and-aerial-seeding-method]] for detailed pellet preparation
 - [[fukuoka-natural-farming-philosophy]] for the philosophical foundation
-- [[fukuoka-observation-based-farming]] for Fukuoka's vision of global revegetation
 - [[vegetable-growing-guide-solomon]] for companion techniques in food production
+
+## See Also
+
+- [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]

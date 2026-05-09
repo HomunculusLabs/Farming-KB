@@ -61,11 +61,7 @@ This scene represents an organic partnership between man, animal, and nature —
 
 ## Chickens in the Orchard
 
-On Fukuoka's own farm, chickens run free through the [[fukuoka-natural-orchard-development]] and semi-wild vegetables grow in the clover among the trees. If chicken droppings are available, they are scattered over the rice straw as a light amendment — but this is entirely optional in a healthy system.
-
-## The Natural Three-Dimensional Orchard
-
-A natural [[fukuoka-orchard-soil-building-without-fertilizers]] using full three-dimensional space can include:
+On Fukuoka's own farm, chickens run free through the [[fukuoka-orchard-soil-building-without-fertilizers]] using full three-dimensional space can include:
 - Forage crops and semi-wild vegetables grown in abundance
 - Poultry and livestock allowed grazing freely
 - Bees for pollination and honey
@@ -75,24 +71,25 @@ By making full three-dimensional use of the field, one can simultaneously produc
 
 ## The True Cost of Large Animals
 
-People once believed using horses and oxen would lighten human labor. But farmers would have been better off using pigs and goats to turn the soil. It takes over two acres of pasture to feed just one horse or cow — land that could feed fifty to one hundred people using [[fukuoka-five-principles-natural-farming]]. India's farmers became poor in part because they raised large numbers of cows and elephants that consumed all the grass and dried droppings as fuel, depleting soil fertility.
-
-## The Fishing Industry Parallel
-
-Modern fishing mirrors livestock problems. The industry raises expensive fish by feeding them several times their weight in smaller fish. Protecting seas where fish can still be caught by hand should take clear priority over developing superior catching methods. Research on breeding technology for shrimp, sea bream, and eels will not increase fish numbers — it merely accelerates decline.
-
-The land requirements by diet type reveal the ecological cost of animal protein. A person on grains needs about 200 square yards; on milk, 1,500; on pork, 4,000; on beef, 10,000. If the entire human population depended on beef alone, humanity would have already exceeded its growth limits. On a grain diet, the earth could theoretically support sixty times the current population.
-
-Fukuoka's vision of the natural farm — with chickens, rabbits, ducks, goats, bees, and pigs all integrated into a three-dimensional food-producing landscape — represents a model of polycultural livestock integration. Rather than specialising in a single animal species at maximum efficiency, this approach accepts slightly lower per-animal productivity in exchange for total system resilience and self-sufficiency.
-
----
-
-Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
-
-## See Also
-
-- [[natural-farming-livestock-integration]]
-- [[fukuoka-natural-livestock-farming]]
+People once believed using horses and oxen would lighten human labor. But farmers would have been better off using pigs and goats to turn the soil. It takes over two acres of pasture to feed just one horse or cow — land that could feed fifty to one hundred people using [[natural-farming-livestock-integration]]
 - [[fukuoka-natural-diet-food-philosophy]]
-- [[fukuoka-natural-food-philosophy]]
 - [[fukuoka-semi-wild-vegetable-growing-techniques]]
+## Practical Considerations
+
+Successful implementation of Natural Livestock Integration Philosophy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -97,9 +97,6 @@ Climate change is predicted to increase plant pathogen impacts:
 
 ## See Also
 
-- [[fungal-climate-change-responses]]
 - [[fungal-ecology]]
-- [[fungal-biodiversity]]
 - [[fungal-environmental-sensing]]
-- [[fungal-stress-responses]]
 - [[fungal-carbon-use-efficiency]]

@@ -112,11 +112,7 @@ Collection from wild habitats remains the only known method of acquisition, thou
 
 ## See Also
 
-- [[psilocybe-cubensis]] — The most widely known and cultivated psilocybian mushroom
 - [[psilocybe-semilanceata]] — Liberty cap, Europe's most common wild psilocybian species
-- [[gymnopilus-spectabilis-entity]] — Big laughing gym, another non-hymenogastraceous psilocybian
 - [[gymnopilus-luteofolius]] — A Gymnopilus species with notable bluing reactions
-- [[psilocybin-compound]] — The primary psychoactive indole alkaloid
 - [[psilocin]] — The active dephosphorylated metabolite
-- [[pluteus-americanus]] — North American relative with uncertain psychoactivity
-- [[panaeolus-cyanescens]] — Tropical psilocybian species with a dark spore print
+- [[panaeolus-cyanescens-entity]] — Tropical psilocybian species with a dark spore print

@@ -108,13 +108,8 @@ The astringent properties of the heartwood are attributed to its high tannin con
 
 ## See Also
 
-- [[cinchona-officinalis]]
 - [[cedrela-odorata]]
-- [[robinia-pseudoacacia]]
 - [[prosopis-juliflora]]
-- [[gleditsia-triacanthos]]
 - [[acacia]]
-- [[mimosa-pudica]]
 - [[senna-alexandrina]]
-- [[paullinia-cupana]]
 - [[curcuma-longa]]

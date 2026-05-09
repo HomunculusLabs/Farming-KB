@@ -44,107 +44,67 @@ determine which taxa can colonize roots.
 Soil type was the dominant factor at the OTU level, with 690 OTUs showing
 significant abundance differences and 657 showing significant
 presence/absence differences. This overwhelming soil effect underpins the
-first tier of the [[cultivar-cannabis-microbiome-two-tier-selection-model]]: the local soil microbiota serves as the source
-pool from which rhizosphere and endorhiza communities are drawn.
+first tier of the [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 
-The two soil types in the second experiment (Mo-Bio and Orange County)
-differed dramatically in edaphic properties including nitrogen (0.26% vs
-0.53%), carbon (3.02% vs 20.0%), salinity (5.12 vs 1.73), and water
-content (0.113 vs 0.371), explaining the massive OTU differentiation.
-
-## Sample Type Effects: The 51 Discriminating OTUs
-
-Fifty-one OTUs significantly differentiated between endorhiza, rhizosphere,
-and bulk soil compartments (weighted ANOVA). Of these, 17 OTUs increased
-in abundance within the Cannabis endorhiza relative to the rhizosphere,
-and these were predominantly Proteobacteria from the Rhizobiales order.
-
-### Acidobacteria iii1-15: The Strongest Sample Type Signal
-
-The single most significant OTU abundance difference between sample types
-was the dramatic decrease in Acidobacteria from the order iii1-15 in
-endorhiza samples (Bonferroni-corrected ANOVA: p = 1.12e-7). This
-This oligotrophic, acidophilic group dominates bulk soils but is largely
-excluded from the nutrient-rich root interior, consistent with the
-understanding that Acidobacteria are poor competitors in carbon-rich
-environments.
-
-### Enrichment Patterns in the Endorhiza
-
-The 17 OTUs enriched in the endorhiza were primarily fast-growing,
-copiotrophic bacteria adapted to the high-carbon root environment:
-
-- Multiple Proteobacteria from Rhizobiales (known root colonizers)
-- Members of Pseudomonadales (plant growth-promoting endophytes)
-- Members of Burkholderiales and Sphingomonadales
-- Actinobacteria (bioactive compound producers)
-
-This pattern supports the general ecological principle that root
-environments favor copiotrophic over oligotrophic strategies.
-
-## Strain Effects: 71 Abundance-Only Differences
-
-Seventy-one OTUs showed significant abundance differences between Cannabis
-strains (weighted ANOVA), but zero OTUs differed in presence/absence
-(unweighted G-test). This fundamental asymmetry reveals that cultivar
-genotype acts as a modulator of relative abundance rather than a gatekeeper
-of microbial presence.
-
-### Composition of Strain-Differentiating OTUs
-
-The 71 strain-differentiating OTUs were mostly Proteobacteria:
-
-- **Pseudomonadales**: Including Pseudomonas species, core endorhiza
-  members whose abundance varies by cultivar
-- **Burkholderiales**: Versatile bacteria with diverse metabolic
-  capabilities
-- **Sphingomonadales**: Including Sphingomonas wittichii, prevalent in
-  Maui Wowie
-- **Rhizobiales**: Nitrogen-fixing bacteria whose enrichment varies by
-  host genotype
-
-Beyond Proteobacteria, Bacteroidetes orders also contributed:
-
-- **Sphingobacteriales**: Root-associated bacteria in several plant systems
-- **Flavobacteriales**: Known for polysaccharide degradation
-
-### Key Biomarker OTUs
-
-Two OTUs emerged as particularly important strain-specific biomarkers:
-
-**Methylophilus** (Bookoo Kush marker): Comprising 13% of the Bookoo Kush
-endorhiza community, only 0.13% in Burmese, and entirely absent from Sour
-Diesel (FDR: p = 0.012). This methylotrophic bacterium likely responds to
-differences in root exudate profiles between cultivars.
-
-Sphingomonas wittichii (Maui Wowie marker): Prevalent in Maui Wowie
-in experiment 2. This species metabolizes phenazine-1-carboxylic acid and
-has been implicated in increased soil survival, suggesting a functional
-role in this cultivar's root microbiome.
-
-## OTU Sharing Between Endorhiza and Soil
-
-The soil origin of endorhiza microbes was tested through OTU sharing
-analysis. White Widow was grown in two soils, and roots shared
-significantly more OTUs with their own soil (n = 45, mean = 2934) than
-with the different soil (n = 45, mean = 2162; t = -10.05, p = 1.209e-15),
-confirming soil as the primary microbial source pool.
-
-## Implications for the Two-Tier Model
-
-The OTU-level analysis provides quantitative support for the two-tier
-selection model at the individual taxon level. The 657 presence/absence
-differences driven by soil versus zero for strain demonstrates that tier 1
-(soil filtering) determines community membership, while tier 2 (host
-selection) fine-tunes relative abundances. The 17 endorhiza-enriched OTUs
-represent the conserved core surviving both filtering steps, while the 71
-strain-specific shifts reflect genotype-dependent modulation.
-
-## See Also
-
-- [[beta-diversity-root-soil-compartments-cannabis]] for community-level
-  patterns
 - [[proteobacteria-dominance-cannabis-endorhiza]] for Proteobacteria
   details
-- [[rhizosphere-microbiome-selection-model]] for the assembly framework
 - [[cannabis-cultivar-microbiome-specificity]] for cultivar effects
+## Practical Considerations
+
+When working with OTU Differential Abundance in Cannabis Microbiome, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

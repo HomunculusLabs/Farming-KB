@@ -9,7 +9,7 @@ sources: []
 
 # Worm Farming for Profit
 
-[[vermicomposting]] -- raising earthworms to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest organic fertilizers available, and the worms themselves have multiple markets.
+Vermicomposting -- raising earthworms to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest organic fertilizers available, and the worms themselves have multiple markets.
 
 ## Getting Started
 

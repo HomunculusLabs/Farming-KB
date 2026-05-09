@@ -14,136 +14,129 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Harman, G.E. (2006). "Overview of mechanisms and uses of Trichoderma spp." Phytopathology, 96(2), 190-194.
-  - Vinale, F. et al. (2008). "Trichoderma-plant-pathogen interactions." Soil Biology and Biochemistry, 40(1), 1-10.
-  - Kloepper, J.W. et al. (2004). "Induced systemic resistance and promotion of plant growth by Bacillus spp." Phytopathology, 94(11), 1259-1266.
-  - Haas, D. & Défago, G. (2005). "Biological control of soil-borne pathogens by fluorescent pseudomonads." Nature Reviews Microbiology, 3(4), 307-319.
-  - Raaijmakers, J.M. et al. (2010). "Biological control of plant diseases by Pseudomonas spp." In Biocontrol and Plant Health (pp. 61-85).
-  - Bhattacharyya, P.N. & Jha, D.K. (2012). "Plant growth-promoting rhizobacteria (PGPR): Emergence in sustainable agriculture." Frontiers in Microbiology, 3, 342.
-  - Martínez-Viveros, O. et al. (2010). "Effect of Bacillus and Pseudomonas on plant growth promotion and disease suppression." Journal of Soil Science and Plant Nutrition, 10(1), 1-18.
-  - Woo, S.L. et al. (2014). "Biological control and plant growth-promoting activities of Trichoderma." Journal of Zhejiang University Science B, 15(7), 610-624.
-  - Sharma, P. et al. (2023). "Comparative efficacy of Trichoderma and Bacillus as biocontrol agents: A meta-analysis." Biological Control, 179, 105239.
-  - Olanrewaju, O.S. et al. (2017). "Plant growth-promoting rhizobacteria: application in biofertilizers and biocontrol of plant diseases." In PGPR Amelioration in Sustainable Agriculture (pp. 1-31).
-type: comparison
----
+## See Also
 
-# Trichoderma vs Bacillus vs Pseudomonas — Biocontrol Agents Compared
+- comparison trichoderma vs bacillus vs pseudomonas biocontrol
+- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
+- [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
+
+## Merged: "Trichoderma vs Bacillus — Biocontrol Agents Compared"
+
+# Trichoderma vs Bacillus — Biocontrol Agents Compared
 
 ## At a Glance
 
-| Feature | **Trichoderma** (fungus) | **Bacillus** (bacterium) | **Pseudomonas** (bacterium) |
-|---------|--------------------------|--------------------------|----------------------------|
-| **Domain** | Fungi (Ascomycota) | Bacteria (Firmicutes) | Bacteria (Proteobacteria, γ) |
-| **Key species** | *T. harzianum*, *T. viride*, *T. asperellum*, *T. virens* | *B. subtilis*, *B. amyloliquefaciens*, *B. velezensis*, *B. megaterium* | *P. fluorescens*, *P. putida*, *P. chlororaphis*, *P. aeruginosa* |
-| **Primary mechanisms** | Mycoparasitism, antibiosis, competition, ISR | Lipopeptide antibiosis, competition, ISR, ACC deaminase | Siderophore-mediated antibiosis, competition, ISR, VOC production |
-| **Speed of action** | Slow–moderate (days–weeks) | Fast (hours–days) | Fast (hours–days) |
-| **Survival form** | Conidia; chlamydospores (longer-lived) | Endospores (5–50+ years) | Vegetative cells only — no resting stage |
-| **Soil persistence** | Moderate (6–12 months) | Excellent (decades as spores) | Low–moderate (weeks–months) |
-| **Temperature range** | 15–35°C (opt. 25–30°C) | 10–45°C (opt. 25–37°C) | 4–37°C (opt. 25–30°C) |
-| **pH tolerance** | pH 3–9 (prefers acidic–neutral) | pH 5–9 (tolerates alkaline) | pH 5–8 (prefers neutral) |
-| **Moisture needs** | High — desiccation-sensitive | Low — tolerates drought (spore form) | Moderate–high — sensitive to drying |
-| **Target pathogens** | Fungal (Fusarium, Rhizoctonia, Sclerotinia) | Fungal + bacterial (Fusarium, Xanthomonas, Ralstonia) | Fungal + bacterial + oomycetes (Pythium, Fusarium, Ralstonia) |
-| **Cost** | Moderate | Low–moderate | Moderate (shorter shelf life raises cost) |
-| **Shelf life** | 6–18 months (refrigerated ideal) | 2–5 years (room temperature) | 3–12 months (refrigerated) |
-
+| Feature | **Trichoderma** (fungus) | **Bacillus** (bacterium) |
+|---------|--------------------------|--------------------------|
+| **Domain** | Fungi (Ascomycota) | Bacteria (Firmicutes) |
+| **Common species** | *T. harzianum*, *T. viride*, *T. asperellum*, *T. virens*, *T. atroviride* | *B. subtilis*, *B. amyloliquefaciens*, *B. megaterium*, *B. velezensis*, *B. pumilus* |
+| **Primary mechanisms** | Mycoparasitism, antibiosis, competition, ISR | Antibiosis (lipopeptides), competition, ISR, ACC deaminase |
+| **Speed of action** | Slow to moderate (days–weeks for colonization) | Fast (hours to days for metabolite production) |
+| **Survival form** | Conidia (spores) — survive 6–12 months in soil; chlamydospores longer | Endospores — survive 5–50+ years in soil, extreme heat, UV, desiccation |
+| **Soil persistence** | Moderate — requires organic matter, good soil structure | Excellent — endospores persist in soil for decades |
+| **Temperature range** | 15–35°C (optimal 25–30°C) | 10–45°C (optimal 25–37°C), extreme thermotolerant |
+| **pH tolerance** | pH 3–9 (most species prefer acidic to neutral) | pH 5–9 (many species tolerate alkaline conditions well) |
+| **Formulations** | Wettable powder, granules, talc-based, liquid, seed coating | Wettable powder, liquid, seed coating, encapsulated granules |
+| **Target pathogens** | Fungal pathogens (Fusarium, Rhizoctonia, Sclerotinia, Pythium, Phytophthora) | Fungal + bacterial pathogens (Fusarium, Rhizoctonia, Ralstonia, Xanthomonas, Pseudomonas) |
+| **Cost** | Moderate | Low to moderate |
+| **Regulatory status** | Generally regarded as safe (GRAS); widely registered | GRAS; extensively registered; many strains QPS (Qualified Presumption of Safety) |
 ---
 
 ## Mechanisms of Action
 
-### Trichoderma — The Fungal Predator
+### Trichoderma: The Fungal Generalist
 
-Trichoderma's defining trait is **mycoparasitism**: its hyphae coil around pathogen filaments, penetrate cell walls with chitinases and β-1,3-glucanases, and dissolve them from within. This direct attack is uniquely effective against chitinous fungal pathogens — *Fusarium*, *Rhizoctonia*, *Sclerotinia*, *Botrytis*. Secondary mechanisms include antibiosis (trichothecenes, gliotoxin, 6-pentyl-α-pyrone), nutrient competition (rapid root colonization, siderophores), and ISR via JA/ET signaling. Also promotes plant growth through IAA-like compounds and phosphate solubilization.
+**Mycoparasitism** — Trichoderma's signature mechanism:
+- Hyphae coil around, penetrate, and dissolve pathogen cell walls using a coordinated enzymatic arsenal: chitinases, β-1,3-glucanases, proteases, and cellulases.
+- The process involves chemotropic growth toward pathogen hyphae, attachment via lectins and hydrophobins, coiling, penetration peg formation, and enzymatic degradation.
+- This mechanism is especially effective against **fungal pathogens with chitinous cell walls** — *Fusarium*, *Rhizoctonia*, *Sclerotinia*, *Botrytis*.
 
-### Bacillus — The Resilient Generalist
+**Antibiosis**:
+- Produces secondary metabolites including trichothecenes, gliotoxin, viridin, peptaibols, and 6-pentyl-α-pyrone (6-PAP).
+- These compounds inhibit pathogen growth at a distance and can be volatile (trichodermin, harzianic acid).
+- 6-PAP also directly stimulates plant growth.
 
-Bacillus relies on **antibiosis through cyclic lipopeptides** (iturins, fengycins, surfactins) that form pores in pathogen membranes. Polyketides (difficidin, bacillaene) target bacterial pathogens. VOCs (2,3-butanediol, acetoin) suppress pathogens and trigger ISR at a distance. Forms robust biofilms on roots, produces siderophores (bacillibactin), and secretes ACC deaminase to reduce plant ethylene stress. Its endospore biology gives it unmatched environmental resilience — surviving heat, UV, desiccation, and decades in soil.
+**Competition**:
+- Extremely fast colonization of root surfaces and organic matter (hyphal extension rates of 1–2 mm/day).
+- Competes for space on root surfaces, iron (via siderophores), and carbon sources.
+- Forms dense hyphal networks that physically exclude pathogens.
 
-### Pseudomonas — The Precision Biocontroller
+**Induced Systemic Resistance (ISR)**:
+- Root colonization triggers jasmonic acid (JA) and ethylene (ET) signaling pathways in plants.
+- Activates PR (pathogenesis-related) genes, including chitinases and glucanases.
+- Provides protection against foliar pathogens the fungus never contacts — a true whole-plant effect.
 
-Pseudomonas excels through **siderophore-mediated competition**: fluorescent pseudomonads secrete high-affinity iron-chelating siderophores (pyoverdine, pyochelin) that starve pathogens of iron in iron-limited soils. Many strains produce antibiotics — phenazine-1-carboxylic acid (PCA), 2,4-diacetylphloroglucinol (DAPG), pyrrolnitrin, and pyoluteorin — each targeting specific pathogen groups. Triggers ISR via both SA and JA/ET pathways, and its VOCs (HCN, dimethyl disulfide) provide antifungal protection. Key growth-promoting traits include IAA production, phosphate solubilization, and ACC deaminase.
+**Plant growth promotion**:
+- Produces indole-3-acetic acid (IAA)-like compounds, solubilizes phosphate, and enhances nutrient uptake.
+- Increases root hair formation and lateral root density.
+- Some strains produce siderophores that improve iron nutrition.
 
----
+### Bacillus: The Bacterial Workhorse
 
-## Target Pathogen Efficacy
+**Antibiosis** — Bacillus's primary weapon:
+- Produces a remarkable diversity of **cyclic lipopeptides**: iturins (iturin A, mycosubtilin), fengycins (fengycin, plipastatin), and surfactins.
+- These amphiphilic compounds insert into pathogen cell membranes, forming pores and causing ion leakage and cell death.
+- Different lipopeptide families target different organisms:
+  - **Surfactins**: Broad-spectrum; antiviral, antibacterial, and antifungal; also function as biosurfactants.
+  - **Iturins**: Primarily antifungal; highly active against *Fusarium*, *Rhizoctonia*, *Botrytis*.
+  - **Fengycins**: Strong antifungal activity, especially against filamentous fungi; also antibacterial.
+- Produces polyketides (difficidin, macrolactin, bacillaene) with antibacterial activity against *Xanthomonas*, *Pseudomonas*, *Ralstonia*.
+- Produces volatile organic compounds (VOCs) — 2,3-butanediol and acetoin — that suppress pathogens and promote plant growth at a distance.
 
-| Pathogen | Trichoderma | Bacillus | Pseudomonas | Best Choice |
-|----------|:-----------:|:--------:|:-----------:|-------------|
-| *Fusarium* wilt/root rot | ★★★★★ | ★★★★ | ★★★★ | Trichoderma (mycoparasitism) |
-| *Rhizoctonia* damping-off | ★★★★★ | ★★★★ | ★★★★ | Trichoderma (direct parasitism) |
-| *Pythium* damping-off | ★★★ | ★★★★ | ★★★★★ | Pseudomonas (DAPG producers) |
-| *Phytophthora* root rot | ★★★ | ★★★ | ★★★ | Tie — all limited vs. oomycetes |
-| *Sclerotinia* stem rot | ★★★★★ | ★★★ | ★★★ | Trichoderma (sclerotia parasitism) |
-| *Botrytis* gray mold | ★★★★ | ★★★★ | ★★★★ | Tie — complementary modes |
-| *Ralstonia* bacterial wilt | ★ | ★★★★ | ★★★★★ | Pseudomonas (antibiotics + siderophores) |
-| *Xanthomonas* leaf spot | ★ | ★★★★ | ★★★★ | Tie — Bacillus or Pseudomonas |
-| Gaeumannomyces (take-all) | ★★★ | ★★★ | ★★★★★ | Pseudomonas (DAPG-specific) |
-| Root-knot nematodes | ★★ | ★★★ | ★★★ | Bacillus or Pseudomonas |
+**Competition**:
+- Rapid root colonization via chemotaxis toward root exudates (sugars, amino acids, organic acids).
+- Forms robust **biofilms** on root surfaces that physically exclude pathogens.
+- Exceptional nutrient-scavenging ability; siderophore production (bacillibactin) sequesters iron.
 
----
+**Induced Systemic Resistance (ISR)**:
+- Triggers both JA/ET and SA (salicylic acid) pathways, depending on strain and pathogen.
+- VOCs (2,3-butanediol) are particularly potent ISR elicitors — plants exposed to Bacillus VOCs show systemic protection within 24–48 hours.
+- ACC deaminase activity (in many strains) reduces ethylene stress in plants, improving growth under abiotic stress (drought, salinity, heavy metals).
 
-## Application Methods
+**Plant growth promotion**:
 
-| Method | Trichoderma | Bacillus | Pseudomonas | Notes |
-|--------|:-----------:|:--------:|:-----------:|-------|
-| **Seed treatment** | ★★★ | ★★★★★ | ★★★★ | Bacillus best (spore stability) |
-| **Soil drench** | ★★★★★ | ★★★★ | ★★★★★ | All effective; Pseudomonas prefers well-drained soils |
-| **Foliar spray** | ★★★★ | ★★★★ | ★★★ | Bacillus/Trichoderma tolerate UV better |
-| **Compost tea** | ★★★★★ | ★★★★★ | ★★★★ | Trichoderma in fungal teas; Bacillus in bacterial teas |
-| **In-furrow at planting** | ★★★★★ | ★★★★ | ★★★★★ | Trichoderma and Pseudomonas establish well in root zone |
+(Section truncated for length.)
 
----
+## Head-to-Head Comparison
 
-## Compatibility With Each Other and With Mycorrhizae
+### Pathogen Spectrum
 
-| Combination | Compatible? | Notes |
-|-------------|:-----------:|-------|
-| Trichoderma + Bacillus | ✅ Generally yes | Many strains synergize; Bacillus VOCs enhance Trichoderma gene expression. Test specific strains. |
-| Trichoderma + Pseudomonas | ✅ Generally yes | Strong synergy — Pseudomonas siderophores complement Trichoderma enzymatic attack. Superior vs. *Fusarium*. |
-| Bacillus + Pseudomonas | ⚠️ Variable | Compete for same niches; some Bacillus lipopeptides antagonize Pseudomonas. Sequential application recommended. |
-| All three together | ⚠️ Variable | Requires careful strain selection; sequential application safer than simultaneous. |
-| Any + AMF mycorrhizae | ✅ Yes | All three are compatible with arbuscular mycorrhizal fungi. Pseudomonas strains serve as "mycorrhiza helper bacteria." |
+| Pathogen | Trichoderma | Bacillus | Winner |
+|----------|-------------|----------|--------|
+| *Fusarium* wilt/root rot | ★★★★★ | ★★★★ | Trichoderma (mycoparasitism + antibiosis) |
+| *Rhizoctonia* damping-off | ★★★★★ | ★★★★ | Trichoderma (direct parasitism) |
+| *Pythium* damping-off | ★★★★ | ★★★★ | Tie — both effective |
+| *Phytophthora* root rot | ★★★ | ★★★ | Tie — both limited against oomycetes |
+| *Sclerotinia* stem rot | ★★★★★ | ★★★ | Trichoderma (sclerotia parasitism) |
+| *Botrytis* gray mold | ★★★★ | ★★★★ | Tie — complementary modes |
+| *Ralstonia* bacterial wilt | ★ | ★★★★ | Bacillus (antibacterial polyketides) |
+| *Xanthomonas* leaf spot | ★ | ★★★★ | Bacillus (antibacterial compounds) |
+| *Pseudomonas* spp. | ★★ | ★★★★ | Bacillus (competitive exclusion + antibiotics) |
+| Nematodes | ★★ (some strains) | ★★★ (some strains) | Slight edge to Bacillus |
 
----
+### Environmental Robustness
 
-## Ideal Soil and Environmental Conditions
+- **Survival**: Bacillus endospores are dramatically more resilient — they survive boiling (121°C for 15 min), UV radiation, desiccation for decades, extreme pH, and chemical disinfectants. Trichoderma conidia are viable for months to a year under favorable conditions but degrade with heat, UV, and desiccation.
+- **Shelf life**: Bacillus-based products typically last 2–5 years at room temperature. Trichoderma products last 6–18 months and often require refrigerated storage.
+- **Soil adaptability**: Bacillus tolerates a wider range of soil conditions (pH, temperature, moisture, salinity). Trichoderma performs best in warm, moist, organic-matter-rich soils.
+- **Compatibility with chemicals**: Bacillus is more compatible with chemical fertilizers and some fungicides. Trichoderma is sensitive to many fungicides and high rates of synthetic fertilizers.
 
-| Condition | Trichoderma | Bacillus | Pseudomonas |
-|-----------|:-----------:|:--------:|:-----------:|
-| **Soil pH** | 3–9 (opt. 5.5–6.5) | 5–9 (opt. 6.5–7.5) | 5–8 (opt. 6.5–7.0) |
-| **Temperature** | 15–35°C (opt. 25–30°C) | 10–45°C (opt. 25–37°C) | 4–37°C (opt. 25–30°C) |
-| **Soil moisture** | High — desiccation-sensitive | Low — endospores tolerate drought | Moderate–high — needs moisture |
-| **Soil texture** | Organic-rich, well-structured | Adaptable to all textures | Well-aerated, sandy-loam |
-| **Salinity tolerance** | Low–moderate | High (many halotolerant strains) | Low–moderate |
+### Application Scenarios
 
----
-
-## Persistence and Colonization
-
-**Bacillus** dominates in persistence. Endospores survive decades in soil, enabling single applications to provide long-term reservoirs. Rapid biofilm formation (24–48 hours) on the rhizoplane. **Trichoderma** persists moderately (6–12 months) through conidia and chlamydospores; hyphal colonization is slower but penetrates deeper into root tissues and surrounding soil, requiring organic matter and moisture. **Pseudomonas** is the least persistent — it lacks a resting stage, is sensitive to drying and UV, and populations may decline within weeks without repeated inoculation. However, under favorable conditions it colonizes roots aggressively, reaching 10⁶–10⁸ CFU/g root within days.
-
----
-
-## Commercial Products, Cost, and Limitations
-
-### Commercial Availability
-
-- **Bacillus** — largest market: Serenade (B. subtilis QST 713), Taegro (B. amyloliquefaciens FZB42), Double Nickel (D747). Low cost ($5–20/ha), 2–5 year shelf life, no cold chain needed.
-- **Trichoderma** — well-established: RootShield/T-22 (T. harzianum T-22), Binab-T, Supresivit. Moderate cost ($10–30/ha), 6–18 month shelf life.
-- **Pseudomonas** — fewer products, limited distribution: AtEze (P. fluorescens), Bio-Cure-B. Moderate cost ($10–25/ha) but frequent reapplication raises effective cost; cold chain required.
-
-### Key Limitations
-
-- **Trichoderma**: Sensitive to heat (>35°C), desiccation, UV; requires organic matter; not effective against bacterial pathogens; some strains are mushroom contaminants.
-- **Bacillus**: Not all strains are biocontrol-active — strain matters enormously; some antagonize beneficial fungi at high concentrations; formulation quality varies widely.
-- **Pseudomonas**: Poor persistence is the main constraint; some species (e.g., *P. aeruginosa*) are opportunistic human pathogens — strain selection is critical; sensitive to copper fungicides and pH extremes.
-
----
-
-## Best-Use Scenarios
+| Scenario | Better Choice | Reason |
+|----------|---------------|--------|
+| Seed treatment | Bacillus | Endospore stability, rapid colonization, ACC deaminase for transplant stress |
+| Soil drench for Fusarium wilt | Trichoderma | Superior mycoparasitism of Fusarium hyphae |
+| Foliar spray for powdery mildew | Trichoderma | Direct mycoparasitism of foliar fungi; some *T. harzianum* strains effective |
+| Long-term soil health building | Both (complementary) | Different niches, mechanisms, and nutrient cycling roles |
+| High-temperature environments | Bacillus | Thermotolerant endospores |
+| Acidic soils | Trichoderma | Many species prefer slightly acidic conditions |
+| Alkaline soils | Bacillus | Better alkaline tolerance |
+| Emergency disease suppression | Bacillus | Faster metabolite production; VOCs act within hours |
+| Compost tea inoculant | Both | Trichoderma in fungal-dominant teas; Bacillus in bacterial-dominant teas |
+| Post-chemical pesticide application | Bacillus | Greater fungicide tolerance |
+| Stored grain protection | Bacillus | Endospore stability, antifungal VOCs, long persistence |
 ## See Also
 
-- [[comparison-trichoderma-vs-bacillus]]
+- [[pseudomonas]]
 - [[trichoderma]]
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
-- [[mycorrhizal-biocontrol]]
-- [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]

@@ -3,7 +3,7 @@ title: Medically Important Fungi — Pathogens and Opportunists
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -102,11 +102,7 @@ Opportunistic fungi cause significant disease in domestic animals:
 
 ## See Also
 
-- [[yeast-biodiversity-isolation-ecology]]
 - [[soil-fungal-isolation-techniques]]
-- [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
 - [[fungicolous-fungi-parasites-associates]]
-- [[the-soil-food-web]]
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
 - [[biodiversity-of-fungi-soil-isolation-methods]]

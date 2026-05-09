@@ -15,12 +15,7 @@ type: concept
 
 Proteomic analysis of early arbuscular mycorrhizal (AM) symbiosis stages
 provides critical insights into the molecular events that accompany fungal
-recognition, [[mycorrhizal-plant-signaling]], and the initial colonisation
-of host roots. While transcriptomics has been widely applied to AM research,
-proteomics offers complementary information on actual protein abundance and
-post-translational modifications that cannot be predicted from gene expression
-data alone. This work falls within the broader scope of
-[[functional-genomics-arbuscular-mycorrhiza]].
+recognition, [[functional-genomics-arbuscular-mycorrhiza]].
 
 ## Key Stages for Proteomic Investigation
 
@@ -114,13 +109,6 @@ compartments offers promise:
     contact
   - Mitochondrial and vacuolar compartment studies may reveal metabolic
     adaptations
-  - [[mycorrhizal-proteomics-techniques]] continue to evolve toward higher
-    throughput and sensitivity
-
-## Related Topics
-
-- [[functional-genomics-arbuscular-mycorrhiza]]
-- [[mycorrhizal-proteomics]]
+  - [[functional-genomics-arbuscular-mycorrhiza]]
 - [[mycorrhizal-plant-signaling]]
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[fungal-mycorrhizal-pathogen-interactions]]

@@ -8,7 +8,7 @@ sources: []
 ---
 # Schizophyllan Research
 
-Schizophyllan (also known as Sonifilan, SPG, or Sizofiran) is a β-(1→3)-D-glucan with β-(1→6) branches produced by the fungus Schizophyllum commune. It was the third mushroom-derived polysaccharide approved for clinical use in Japan, following [[lentinan-pre-clinical-antitumour-models]] and [[psk-psp-polysaccharide-peptides]].
+Schizophyllan (also known as Sonifilan, SPG, or Sizofiran) is a β-(1→3)-D-glucan with β-(1→6) branches produced by the fungus Schizophyllum commune. It was the third mushroom-derived polysaccharide approved for clinical use in Japan, following [[psk-psp-polysaccharide-peptides]].
 
 ## Chemistry
 
@@ -116,10 +116,7 @@ Schizophyllan has a favorable safety profile compared to conventional cancer the
 
 ## See Also
 
-- [[mushroom-polysaccharide-chemistry]] — structural chemistry of schizophyllan
 - [[lentinan-clinical-research]] — comparison with shiitake-derived lentinan
-- [[mushroom-immunomodulation-mechanisms]] — shared immune mechanisms
 - [[mushroom-cancer-clinical-trials-overview]] — clinical trial landscape overview
-- [[mushroom-cytokine-production-immune-activation]]
 - [[lentinan-gastric-cancer-combination-therapy]]
 - [[mushroom-immune-cell-activation-mechanisms]]

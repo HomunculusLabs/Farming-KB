@@ -118,8 +118,6 @@ relationship between farmer and land does.
 
 ## See Also
 
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
-- [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-natural-soil-fertility]]

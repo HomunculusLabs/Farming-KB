@@ -12,17 +12,7 @@ type: comparison
 
 ## Overview
 
-Both 2-row and 6-row barley (*Hordeum vulgare*) are the primary cereal grains used in malting and brewing worldwide. The "row" designation refers to the number of fertile florets (seed heads) arranged on each node of the barley ear when viewed from above. This structural difference cascades into significant distinctions in enzyme content, protein levels, kernel size, flavor, and ideal brewing applications.
-
-## Kernel Structure and Morphology
-
-**2-Row Barley** produces two rows of symmetrical, plump kernels along the central stem. Each kernel is larger, more uniform, and contains a higher proportion of starch relative to husk and protein. The kernels are well-formed and sit neatly in the ear, making them visually distinct — wide, even, and predictable in size.
-
-**6-Row Barley** produces six rows of kernels (three on each side of the stem), but the kernels are smaller, thinner, and more irregular. The lateral kernels are often twisted or asymmetrical because they compete for space on the rachis. This denser arrangement means more kernels per ear but less starch per individual kernel.
-
-## Enzyme Content and Diastatic Power
-
-This is the single most important functional difference [[fermentation-microbiology-for-brewers]].
+Both 2-row and 6-row barley (*[[fermentation-microbiology-for-brewers]].
 
 | Parameter | 2-Row Barley | 6-Row Barley |
 |---|---|---|
@@ -91,6 +81,5 @@ The choice between 2-row and 6-row barley ultimately comes down to a trade-off b
 
 ## See Also
 
-- [[comparison-no-till-vs-living-soil-cannabis]]
 - [[comparison-trap-cropping-vs-beneficial-insects]]
 - [[comparison-bamboo-construction-vs-cob-building]]

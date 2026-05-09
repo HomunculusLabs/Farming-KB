@@ -10,7 +10,7 @@ type: concept
 
 # Clay Seed Pellet Composition and Aerial Seeding Method
 
-The clay seed pellet (sometimes called a "seed ball" or "tsuchi dango") is [[masanobu-fukuoka]]'s primary tool for large-scale revegetation and [[natural-farming]]. It is a deceptively simple technology — clay, seeds, and organic matter formed into spheres — that solves several problems simultaneously: seed predation, moisture retention, germination triggering, and distribution logistics.
+The clay seed pellet (sometimes called a "seed ball" or "tsuchi dango") is [[natural-farming]]. It is a deceptively simple technology — clay, seeds, and organic matter formed into spheres — that solves several problems simultaneously: seed predation, moisture retention, germination triggering, and distribution logistics.
 
 Appendix B of "Sowing Seeds in the Desert" provides the technical details of pellet preparation.
 
@@ -53,41 +53,7 @@ Organic matter serves as the nutrient source and microbial inoculant for the ger
 
 Fukuoka recommended including soil from the target site in the organic matter component. This local soil carries the native microbial community — bacteria, fungi, actinomycetes — that are adapted to the local conditions and can form symbiotic relationships with the germinating seedlings.
 
-This is particularly important for [[mycorrhizal-fungi]], which form associations with tree roots and dramatically improve the seedling's ability to absorb water and nutrients.
-
-## Pellet Formation Process
-
-The ingredients are combined in roughly equal volumes and mixed thoroughly with water to form a workable paste. The consistency should be similar to stiff dough — wet enough to hold together when squeezed but not so wet that the pellets deform or collapse under their own weight.
-
-The paste is formed into spheres, typically marble-sized (roughly 1–3 cm in diameter). For hand preparation, the paste is rolled between the palms. For larger-scale production, simple mechanical rollers or tumbling machines can produce pellets at much higher volume.
-
-The formed pellets are allowed to air-dry partially before use. They should be dry enough to handle without deforming but not so dry that the clay cracks or the seeds inside desiccate. The ideal moisture content leaves the pellet firm on the outside but still slightly pliable.
-
-Overdried pellets become too hard and may not absorb moisture effectively when they encounter rain.
-
-## Seeding Density and Distribution
-
-The number of pellets needed per unit area depends on the severity of degradation and the size of the seeds in the mix. For severely degraded land with no existing vegetation, a higher density is needed because a large proportion of seeds will fail.
-
-Fukuoka suggested that even if 99% of seeds fail, the 1% that succeed is sufficient to begin the revegetation process — nature is prolific, and a single surviving tree can eventually produce millions of seeds.
-
-For aerial distribution, pellets are loaded into a hopper or dispersal system on a light aircraft. The aircraft flies at low altitude (typically 50–150 meters) over the target area, releasing pellets in a pattern that achieves the desired coverage density. The dispersal rate can be adjusted by changing the aircraft speed, the hopper opening size, or the flight pattern spacing.
-
-## Timing and Environmental Conditions
-
-The optimal time for aerial seeding is immediately before the onset of the rainy season. This ensures that the pellets receive natural rainfall soon after distribution, triggering the moisture absorption and germination sequence.
-
-In regions with highly unpredictable rainfall, seeding should be timed to the most reliable rain period in the historical record. Seeding during windy conditions should be avoided, as pellets will be blown off target. Early morning is often the best time, as winds tend to be calmer and the cooler temperatures reduce stress on the pellets during handling and distribution.
-
-## Storage and Handling
-
-Seed pellets can be stored for extended periods if kept cool and dry. The clay coating protects the seeds from premature germination during storage. However, the viability of the enclosed seeds does decline over time, so pellets should ideally be used within one growing season of preparation.
-
-For large-scale operations, pellet production is typically scheduled to coincide with the pre-rainy-season window, minimizing storage time.
-
-## Advantages Over Conventional Methods
-
-Compared to conventional tree planting with nursery-grown saplings, [[clay-seed-pellets]] offer several decisive advantages:
+This is particularly important for [[clay-seed-pellets]] offer several decisive advantages:
 
 - **No nursery phase**: Seeds go directly from pellet preparation to field deployment, eliminating months of nursery care
 - **No irrigation**: Once distributed, pellets rely entirely on natural rainfall
@@ -125,6 +91,5 @@ The Japanese term "tsuchi dango" literally means "earth dumpling," reflecting th
 
 - [[clay-pellet-desert-revegetation]]
 
-- [[natural-farm-establishment-protective-forests-and-windbreaks]] for the broader revegetation methodology
 - [[fukuoka-natural-farming-philosophy]] for Fukuoka's global vision
 - fukuoka-natural-farming-philosophy for the philosophical foundation

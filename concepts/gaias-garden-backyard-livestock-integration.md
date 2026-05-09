@@ -1,41 +1,7 @@
 ---
 title: "Gaia's Garden - Backyard Livestock Integration"
 created: 2026-04-26
-tags: [permaculture, livestock, chickens, rabbits, garden-integration]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
-type: concept
----
-
-# Backyard Livestock Integration
-
-## The Return of Small Animals
-
-Before World War II, the sound of clucking chickens
-or the sight of rabbit cages was common in backyards
-even in cities. On apartment rooftops, flocks of
-pigeons cooed in specially built lofts and dovecotes.
-Small livestock provided meat, eggs, feathers, fur,
-and manure for gardens.
-
-In the postwar era, small animals disappeared from
-urban and suburban yards. It was easier to buy meat
-and eggs at the store. Many towns passed laws
-against keeping animals, especially roosters. But
-the past few years have seen a resurgence of small
-animals in backyards, as ecological gardeners
-rediscover the multiple benefits these creatures
-bring to the landscape.
-
-## The Ecological Role of Animals
-
-In the ecological garden, animals are not mere
-pets or production units -- they are integral
-components of the ecosystem. They perform critical
-functions that connect the producer plants and the
-decomposer [[soil-life]]:
+tags: [[soil-life]]:
 
 - **Consumers**: They eat surplus and unusable
   fruit and foliage, prepping it via their
@@ -64,12 +30,7 @@ from rain and sun. It allows chickens to graze on
 fresh ground each day while remaining protected
 from predators.
 
-### [[building-soil]] with Chickens
-
-You can use a chicken tractor to build soil in
-several ways:
-
-- **[[sheet-mulching]] with chickens**: Leave the
+### [[sheet-mulching]] with chickens**: Leave the
   tractor in one spot, add kitchen scraps and
   weeds daily, along with 1 inch of mulch. The
   chickens work the material into the soil. When
@@ -138,12 +99,6 @@ unlike most other animal manures.
 Hemenway describes integrating rabbits with wcomposting-systemstems, where rabbit manure feeds
 worms that in turn produce castings and serve as
 chicken feed. This kind of multi-species integration
-exemplifies the [[permaculture]] principle of each
-element performing multiple functions.
+exemplifies the [[live-resin-processing]]
 
-## See Also
-
-- [[live-resin-processing]]
-
-- [[backyard-livestock-integration-design]]
 - [[gaias-garden-backyard-biodiversity-pest-management]]

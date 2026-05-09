@@ -1,7 +1,7 @@
 ---
 title: Fungal Reproduction and Life Cycles
 created: 2026-04-28
-tags: [mycology, reproduction, life-cycles, spores, mating-types]
+tags: [[mycology, reproduction, life-cycles, spores, mating-types]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -141,8 +141,6 @@ during peak sporulation.
 
 ## See Also
 
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - [[fungal-life-cycles]]
-- [[fungal-life-history-strategies]]
 - [[gadd-fungal-reproduction-spores]]
 - [[fungal-sexual-reproduction]]

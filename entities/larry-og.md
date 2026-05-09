@@ -89,29 +89,7 @@ and has served as a parent in several notable crosses.
 - **Nutrient needs:** Moderate to heavy feeder during vegetative stage;
   reduce nitrogen in late flowering
 - **Training:** Responds well to LST (low-stress training), topping, and
-  ScrOG (screen of green) for canopy management
-- **Resin production:** Heavy trichome coverage throughout flowering,
-  especially in final 2–3 weeks
-
-## Terpene Profile
-
-| Terpene | Approximate Range | Primary Effect |
-|---------|-------------------|----------------|
-| Myrcene | 0.5–1.2% | Sedation, muscle relaxation |
-| Limonene | 0.4–1.0% | Mood elevation, stress relief |
-| β-Caryophyllene | 0.3–0.8% | Anti-inflammatory, analgesic |
-| α-Pinene | 0.2–0.6% | Mental clarity, bronchodilation |
-| Linalool | 0.1–0.4% | Calming, anxiolytic |
-| Humulene | 0.1–0.3% | Anti-inflammatory, appetite suppression |
-
-## Genetic Relatives and Crosses
-
-- **OG Kush:** Foundation of the Larry OG lineage — contributes the
-  signature fuel-lemon-pine terpene profile and potent indica effects
-- **SFV OG (possible second parent):** San Fernando Valley cut of OG Kush
-  with added earthy-sweet notes and slightly shorter flowering time
-- **Notable crosses derived from Larry OG:**
-  - **Larry Bird:** Larry OG × Thin Mint GSC
+  ScrOG ([[thin-mint]] GSC
   - **Larry's OG:** Various backcrosses to OG Kush lines
   - **Tahoe OG:** Related OG phenotype with similar profile
   - Used as a parent in numerous proprietary OG crosses by West Coast breeders
@@ -130,8 +108,6 @@ and has served as a parent in several notable crosses.
 
 ## See Also
 
-- [[og-kush]] — Foundational parent of the OG Kush family
 - [[sour-diesel]] — Chemdawg-lineage strain with complementary terpene profile
 - sfv og — San Fernando Valley OG, possible parent strain
-- [[granddaddy-purple]] — Another iconic California indica
 - [[myrcene]] — Dominant sedative terpene in Larry OG

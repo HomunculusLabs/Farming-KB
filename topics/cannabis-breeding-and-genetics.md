@@ -389,7 +389,7 @@ field selection represents the future of the discipline.
 - [[cannabis-breeding-selection-principles-clarke]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-breeding-traits-selection-criteria-clarke]]
-- [[cannabis-cannabinoid-biosynthesis-pathway]]
+- [[cannabinoid-biosynthesis-pathway]]
 - [[cannabis-terpene-and-aroma-chemistry-clarke]]
 - [[cannabis-terpene-entourage-effect]]
 - [[cannabis-terpene-entourage-effect-profiles]]

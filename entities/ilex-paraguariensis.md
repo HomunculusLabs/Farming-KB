@@ -120,11 +120,8 @@ Annual production exceeds 1 million tonnes, with Argentina producing ~60%, follo
 
 - [[camellia-sinensis-entity]]
 
-- [[paullinia-cupana]]
-
 - [[ilex-guayusa]]
 
-- [[caffeine]] — primary active xanthine alkaloid
 - [[theobromine]] — secondary stimulant in mate
 - Camellia sinensis — tea, comparative antioxidant profile
 - [[paullinia-cupana]] — guarana, another South American caffeine source

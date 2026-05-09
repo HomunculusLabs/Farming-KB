@@ -3,16 +3,12 @@ title: fungal-succession on Decomposing Wood
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Succession on Decomposing Wood
 ## Overview
-The [[fungal-decomposition-of-wood]] by fungi follows predictable successional patterns driven by changes in the chemical and physical properties of the substratum, interspecific interactions among fungal species, and environmental conditions. Wood decomposition is one of the most important ecosystem processes in forests, determining carbon storage, nutrient cycling, and habitat availability for countless organisms. For the role of decomposition in the broader [[soil-food-web]], see the [[composting-and-soil-biology]] overview.
-## Wood as a Substratum
-### Chemical Composition
-Wood is composed primarily of:
-- **Cellulose** (40-50%): Linear polymer of glucose; relatively accessible to [[enzymatic-degradation-in-mycoremediation]]
+The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
 - **Hemicellulose** (20-30%): Branched polymers of various sugars; more easily degraded than cellulose
 - **Lignin** (20-30%): Complex, irregular polymer of phenylpropanoid units; extremely resistant to degradation
 - **Extractives**: Resins, tannins, and other secondary compounds; vary among species and can inhibit fungal growth
@@ -40,20 +36,7 @@ Wood is composed primarily of:
 ### Soft Rot
 - Cellulose degraded from lumen of wood cells; creates cavities
 - Produced primarily by Ascomycota and some Deuteromycota
-- Important in [[biodiversity-fungi-aquatic-environments]] and in wood with high moisture content
-- Species: Chaetomium, Xylaria, Hypoxylon, various microfungi
-## Successional Patterns
-### Primary Colonizers (Early Stage)
-- Arrive as air-borne spores or by mycelial growth from adjacent wood
-- Species with broad ecological amplitude and rapid growth
-- Many are opportunistic Ascomycota and Deuteromycota
-- Often exploit simple sugars and easily accessible compounds
-- Some are latent invaders that colonized wood while the tree was alive (endophytes becoming saprobes)
-### Secondary Colonizers (Middle Stage)
-- Replace primary colonizers through competition
-- More specialized decomposers of complex polymers
-- Include both white-rot and brown-rot Basidiomycota
-- Competition mediated by: antagonism, priority effects, [[fungal-enzymatic-capabilities]]
+- Important in [[fungal-enzymatic-capabilities]]
 - Wood chemistry changes significantly (cellulose/lignin ratios shift)
 ### Late-Stage Decomposers
 - Specialized species on highly decayed wood
@@ -105,5 +88,4 @@ Wood is composed primarily of:
 - Nitrogen fixation by some wood-inhabiting fungi
 - Mycorrhizal connections through wood-decay networks
 ## See Also
-- [[fungal-wood-decay-types-white-rot-brown-rot]]
 - [[fungal-wood-decay-types]]

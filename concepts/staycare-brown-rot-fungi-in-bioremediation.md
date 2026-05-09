@@ -32,11 +32,7 @@ important implications for pollutant degradation strategies.
 ## Wood Decay Mechanisms
 
 Brown rot fungi probably coevolved with the conifers that dominate boreal
-forests. [[serpula-lacrymans]], the dry rot fungus, is the subject of many
-studies on brown rot decay. The mechanism by which brown rots access
-cellulose in wood is still not fully understood but involves a Fenton-type
-chemistry where Fe(III) reduction by fungal metabolites generates hydroxyl
-radicals that depolymerize cellulose. [[coniophora-puteana]] has been shown
+forests. [[coniophora-puteana]] has been shown
 to generate hydroxyl radicals through iron reduction. This non-enzymatic
 radical-based mechanism distinguishes brown rot from the enzymatic
 approach of white rot fungi.
@@ -46,20 +42,7 @@ approach of white rot fungi.
 Wheat straw cultures of the brown rot fungi Gloeophyllum striatum and G.
 trabeum degrade 2,4-dichlorophenol (2,4-DCP) and pentachlorophenol (PCP).
 Up to 54% and 27% of radiolabel was liberated as carbon dioxide from
-labelled substrates within 6 weeks. [[trametes-versicolor]], a white rot
-fungus grown under identical conditions, released comparable amounts (42%
-and 43%). Importantly, no ligninolytic enzyme activities (laccase, MnP, or
-manganese-independent peroxidase) were detected in the Gloeophyllum
-cultures, indicating that brown rot fungi use non-ligninolytic mechanisms
-for chlorophenol degradation.
-
-Notably, G. striatum degraded both chlorophenols most efficiently under
-conditions where co-metabolites were lacking, operating on a defined
-mineral medium without sources of carbon, nitrogen, or phosphate. This
-contrasts with white rot fungi that typically require co-substrates for
-optimal pollutant degradation.
-
-## TNT Transformation by [[gloeophyllum-trabeum]]
+labelled substrates within 6 weeks. [[gloeophyllum-trabeum]]
 
 G. trabeum has shown remarkable ability to transform TNT. Two-week-old
 cultures transformed 50 ppm TNT to below detection limits within 3 days.
@@ -124,7 +107,5 @@ rot fungi for environmental remediation at commercial scales.
 
 ## See Also
 
-- [[brown-rot-fungi-biodegradation]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
 - [[staycare-fungal-pesticide-pop-degradation]]

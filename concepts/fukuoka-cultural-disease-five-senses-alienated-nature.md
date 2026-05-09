@@ -115,8 +115,6 @@ The cultural disease is thus the root cause of both agricultural destruction and
 
 ## Connection to Other Concepts
 
-- [[fukuoka-farming-for-all-quarter-acre-vision|Farming for All: Quarter-Acre Vision]]
 - [[fukuoka-do-nothing-farming-philosophy|Do-Nothing Farming Philosophy]]
-- [[fukuoka-food-civilization-critique|Food and Civilization Critique]]
 - [[fukuoka-disappearance-natural-diet|Disappearance of a Natural Diet]]
 - [[fukuoka-view-of-nature-and-human-hubris|View of Nature and Human Hubris]]

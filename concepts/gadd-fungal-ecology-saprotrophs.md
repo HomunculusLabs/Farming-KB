@@ -75,17 +75,10 @@ Sampling studies have shown that species-substrata curves rarely reach an asympt
 
 ## See Also
 
-- [[biodiversity-fungi-wood-decay-succession]]
-- [[the-soil-food-web]]
 - [[soil-food-web-nutrient-cycling]]
-
 - [[fungal-cellulose-decomposition-fungal-enzymes]]
-- [[fungal-chitin-decomposition-nutrient-cycling]]
 - [[fungal-hemicellulose-pectin-decomposition]]
-- [[fungal-lignocellulose-degradation-mechanisms]]
 - [[biodiversity-fungi-wood-decay-succession]]
-- [[biodiversity-fungi-leaf-litter-decomposition]]
 - [[dighton-wood-decay-ecosystem-carbon]]
-- [[dighton-soil-fungal-biodiversity-assessment]]
 - [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-cell-structure]]

@@ -26,50 +26,8 @@ PAHs, making these fungi important contributors to PAH biotransformation.
 A wide taxonomic range of non-ligninolytic fungi can metabolize PAHs:
 
 - **Zygomycetes**: Cunninghamella blakesleeana, C. echinulata, C. elegans,
-  Mortierella ramanniana, Mucor racemosus, [[rhizopus-arrhizus]],
-  Syncephalastrum racemosum
-- **Ascomycetes**: Cryphonectria parasitica, Dichotomomyces cejpii,
-  Morchella spp., [[neurospora-crassa]], [[saccharomyces-cerevisiae]]
-- **Hyphomycetes**: [[aspergillus-niger]], A. ochraceus, A. terreus,
-  [[penicillium-chrysogenum]], P. janthinellum, P. simplicissimum,
-  Beauveria alba, Cladosporium herbarum, Fusarium subglutinans,
-  [[trichoderma-harzianum]], [[verticillium-lecanii]]
-- **Blastomycetes**: Candida krusei, C. maltosa, Rhodotorula glutinis,
-  Trichosporon penicillatum
-
-## Cytochrome P450 Monooxygenase Pathway
-
-The initial step in PAH metabolism by non-ligninolytic fungi is
-epoxidation of one of the aromatic rings in a cytochrome P450
-monooxygenase reaction to form a transient arene oxide. The arene oxide
-is immediately hydrated by an epoxide hydrolase to form a trans-
-dihydrodiol. Subsequent non-enzymic rearrangement may also produce a
-phenol. Cunninghamella elegans and C. echinulata possess genes for
-cytochrome P450 monooxygenase and oxidoreductase enzymes responsible
-for these initial transformations.
-
-## Conjugation Reactions
-
-Non-ligninolytic fungi further metabolize trans-dihydrodiols and phenols
-of PAHs by sulfation, methylation, or conjugation with glucose, xylose,
-or glucuronic acid. These conjugates are more water soluble than other
-typical PAH metabolites, facilitating potential excretion or further
-environmental processing. The production of water-soluble conjugates
-represents an important detoxification mechanism that reduces the
-bioavailability and toxicity of PAH metabolites.
-
-## Metabolism of Specific PAHs
-
-**Acenaphthene** is metabolized by C. elegans to 6-hydroxyacenaphthenone,
-1,2-acenaphthenedione, trans-1,2-dihydroxyacenaphthene, 1,5-
-dihydroxyacenaphthene, 1-acenaphthenol, 1-acenaphthenone, and cis-1,2-
-dihydroxyacenaphthene.
-
-**Fluorene** is metabolized by C. elegans to 9-fluorenol, 9-fluorenone,
-and 2-hydroxy-9-fluorenone. Various other fungi also oxidize fluorene.
-
-**Anthracene** is oxidized by C. elegans to an anthracene trans-1,2-
-dihydrodiol enantiomer and 1-anthryl sulfate. [[rhizoctonia-solani]]
+  Mortierella ramanniana, Mucor racemosus, [[neurospora-crassa]], [[aspergillus-niger]], A. ochraceus, A. terreus,
+  [[trichoderma-harzianum]], [[rhizoctonia-solani]]
 oxidizes it first to both enantiomers of the trans-1,2-dihydrodiol and
 then to three xyloside conjugates. Many other fungi, including A. niger,
 C. parasitica, R. arrhizus, and C. herbarum, also metabolize anthracene.
@@ -113,14 +71,25 @@ sequestering PAH metabolites.
 
 Ectomycorrhizal fungi including strains of Amanita, Leccinum, and
 Suillus are able to degrade phenanthrene, pyrene, chrysene, and
-benzo[a]pyrene. The arbuscular mycorrhizal fungus [[glomus-mosseae]]
-enhances survival and growth of ryegrass in PAH-contaminated soil.
-Ascomycetes growing on smooth cordgrass in polluted saltmarsh ecosystems
-show resistance to toxic compounds comparable to the plants themselves.
-
-## See Also
-
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[staycare-cytochrome-p450-in-fungal-biodegradation]]
+benzo[a]pyrene. The arbuscular mycorrhizal fungus [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
+## Practical Considerations
+
+Successful implementation of Non-Ligninolytic Fungi in PAH Biodegradation requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -140,10 +140,10 @@ is self-regulating. Bees are healthy, happy, and yields are high.
 
 ### Krameterhof Experiments
 
-Various hive materials have been tested at the [[krameterhof-holzer-model-farm]]:
-- Straw from Siberian grain has been particularly successful
-## See Also
-
-- [[natural-beekeeping-practices]]
+Various hive materials have been tested at the [[natural-beekeeping-practices]]
 
 - [[holzer-beekeeping-and-honey-production]]
+
+## See Also
+
+- [[comparison-permaculture-beekeeping-vs-natural-beekeeping]]

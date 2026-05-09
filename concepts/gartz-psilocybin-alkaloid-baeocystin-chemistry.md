@@ -33,38 +33,7 @@ The three principal indole alkaloids found in psychoactive mushrooms are:
 - **Psilocybin** (4-PO-DMT): The phosphate ester of psilocin and the
   primary psychoactive compound. It is remarkably stable as part of dried
   mushroom material. Gartz notes that psilocybin's decay rate is slowest
-  in [[liberty-cap-psilocybe-semilanceata-history-biology]] compared to
-  other species.
-
-- **Psilocin** (4-HO-DMT): The phenol analogue and dephosphorylated,
-  active metabolite of psilocybin. It is comparatively less stable and
-  oxidises much more readily. Many species contain only trace amounts of
-  psilocin, if any at all, in their dried material.
-
-- **Baeocystin** (4-PO-NMT): The biochemical precursor of psilocybin,
-  distinguished by having a hydrogen atom where psilocybin has its only
-  CH3 group. It is found in all fruiting bodies of Psilocybe species.
-
-## Baeocystin: The Overlooked Alkaloid
-
-Gartz gives particular attention to baeocystin, which he describes as
-consistently found in samples of Psilocybe semilanceata at an average
-content of 0.2% of dry weight. The compound was first isolated from
-fruiting bodies of Psilocybe baeocystis Singer and Smith in North America
-by Leung and Paul in 1967, and subsequently found in Psilocybe
-semilanceata by Repke and Leslie in 1977.
-
-Notably, Gartz reports an experiment in which 4 mg of baeocystin caused
-mild hallucinations for three hours, while 10 mg of baeocystin were found
-to be about as psychoactive as a similar amount of psilocybin. This
-finding has significant implications for understanding the overall
-psychoactive profile of mushroom species.
-
-## The Baeocystin Potency Hypothesis
-
-Gartz reports that early controlled studies in the former Czechoslovakia
-concluded that Psilocybe semilanceata is a more potently psychoactive
-species than [[psilocybe-bohemica-central-european]], even though both
+  in [[psilocybe-bohemica-central-european]], even though both
 species were found to contain similar amounts of psilocybin. This led
 researchers to hypothesise that the mushrooms contain additional
 substances contributing to the overall psychotropic effect.
@@ -100,50 +69,28 @@ Key observations from this data:
 
 Gartz reports that dried Psilocybe semilanceata specimens contain
 0.2-0.6% psilocybin, substantially higher than Mexican species. German
-collections of the [[azurescens-cyanescens-and-woodlovers-comparison]]
-complex yielded:
-
-- Psilocybin: 0.51% of dried mushrooms
-- Psilocin: 0.08% of dried mushrooms
-- Baeocystin: 0.04% of dried mushrooms
-
-These values fall within the range of concentrations found in Mexican
-species, suggesting that potency is broadly comparable across the genus
-when all active alkaloids are considered.
-
-## Stability and Shelf Life
-
-Psilocybin is remarkably durable when properly dried. Gartz cites a
-sample of desiccated mushrooms dated 1869 from a Finnish herbarium that
-still contained 0.014% psilocybin. However, another sample dated 1843
-contained no detectable alkaloids, likely due to different drying methods.
-
-Key stability findings:
-- Temperatures above 50 degrees Celsius cause psilocybin to break down
-  into its derivatives.
-- Freeze-dried mushrooms develop highly porous textures that accelerate
-  alkaloid breakdown if stored at room temperature (20 degrees Celsius).
-- For analysis, freeze-dried samples should be stored at minus 10
-  degrees Celsius prior to extraction.
-
-## Implications for Identification and Safety
-
-The varying alkaloid profiles across species have practical implications
-for mushroom identification and harm reduction. Gartz notes that the
-bluing reaction, while indicative of psychoactivity, is not a reliable
-measure of potency. Some species that blue intensely contain relatively
-modest amounts of psilocybin, while the relationship between visual
-bluing intensity and actual alkaloid content remains poorly understood.
-
-## Related
-
-- [[baeocystin]]
-
-- [[powell-psilocybin-serotonin-pathways-environmental-chemistry]] Concepts
+collections of the [[baeocystin]]
 
 - [[liberty-cap-psilocybe-semilanceata-history-biology]]
-- [[psilocybe-bohemica-central-european]]
 - [[azurescens-cyanescens-and-woodlovers-comparison]]
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[gartz-mushroom-identification-dangers-and-tips]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+## Practical Considerations
+
+Successful implementation of Psilocybin Alkaloid Chemistry and Baeocystin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -24,11 +24,8 @@ created: 2026-04-28
 
 ## Overview
 
-Bigwood and Beug (1982) employed reversed-phase high-performance liquid chromatography (HPLC) to quantify [[psilocybin-compound]] and [[psilocin]]
-levels in [[psilocybe-cubensis]] fruiting bodies across multiple flushes. Their analytical protocol, calibrated against National Institute
-on Drug Abuse (NIDA) reference standards and confirmed by thin-layer chromatography, established a robust method for detecting tryptamine
-alkaloids at microgram sensitivity with approximately 10% repeatability. This methodological rigor was essential for distinguishing genuine
-biological variation from analytical noise in their flush-by-flush study. See also [[hplc-analysis-of-tryptamine-alkaloids]] for broader
+Bigwood and Beug (1982) employed reversed-phase high-performance liquid chromatography (HPLC) to quantify [[psilocin]]
+levels in [[hplc-analysis-of-tryptamine-alkaloids]] for broader
 context on chromatographic analysis of fungal alkaloids.
 
 ## Instrumentation and Chromatographic Configuration
@@ -57,7 +54,7 @@ comparison of Bigwood and Beug's results with those of other researchers who mig
 ## Linear Dynamic Range
 
 The calibration curve demonstrated a linear relationship between analyte concentration and peak area over the range of 0.2 to 3 micrograms
-total [[psilocybin-compound]] or [[psilocin]]. Linearity across this range meant that the instrument response was directly proportional to the amount
+total [[psilocin]]. Linearity across this range meant that the instrument response was directly proportional to the amount
 of analyte present, allowing straightforward quantification by comparing sample peak areas to the calibration curve without the need for
 complex curve-fitting algorithms.
 
@@ -79,38 +76,7 @@ method.
 ## Detection Limits and Sensitivity
 
 The detection limit for both psilocybin and psilocin was approximately 0.01 micrograms. This sensitivity was critical for the study because
-many early-flush samples contained zero or near-zero levels of [[psilocin]]. The method needed to confidently distinguish true absence of
-psilocin from concentrations that were simply below the detection threshold. The detection limit of 0.01 micrograms, combined with typical
-sample preparation volumes and injection volumes, translated to an effective detection limit well below 0.1 mg/g in dried mushroom tissue.
-
-The ability to reliably detect and quantify low levels of psilocin was essential for documenting the accumulation pattern across flushes,
-where psilocin rose from undetectable levels in flushes 1 and 2 to 2.9 mg/g by flush 4 in miniculture 2. Without adequate detection
-sensitivity, the early-flush absence of psilocin could have been mischaracterized as a methodological failure rather than a genuine
-biological finding.
-
-## Thin-Layer Chromatography Confirmation
-
-All HPLC results were qualitatively confirmed by thin-layer chromatography (TLC) using butanol-acetic acid-water as the mobile phase at a
-ratio of 12:3:5. This butanol-acetic acid-water system is a classical solvent mixture for separating indole alkaloids on silica gel TLC
-plates, producing well-resolved spots with distinct retention factor (Rf) values for psilocybin and psilocin.
-
-The TLC confirmation was qualitative rather than quantitative. It verified compound identity through Rf comparison with authentic standards
-but did not provide the precision needed for concentration measurements. TLC served as a rapid screening tool to detect potential co-elution
-problems in the HPLC analysis and to confirm that the HPLC peaks of interest corresponded to the expected compounds. The combination of
-quantitative HPLC with qualitative TLC represented the analytical best practice of its era and provided two independent lines of evidence
-for compound identification.
-
-## Extraction Protocol
-
-The extraction procedure followed the methodology described in the companion paper by Beug and Bigwood (1982) on psilocybin and psilocin
-levels in twenty species of wild mushrooms from the Pacific Northwest. While the full extraction details reside in that reference, the
-general approach involved homogenizing dried mushroom tissue in a suitable solvent, filtering or centrifuging to remove particulates, and
-injecting an aliquot of the clarified extract onto the HPLC column for separation and quantification.
-
-## Sample Preservation and Storage
-
-Samples were freeze-dried (lyophilized) immediately upon harvest, sealed in plastic bags, and stored at minus 5 degrees Celsius until
-analysis. This preservation protocol was essential because [[psilocybin-psilocin-stability-degradation-volatility-fungi]] is a
+many early-flush samples contained zero or near-zero levels of [[psilocybin-psilocin-stability-degradation-volatility-fungi]] is a
 well-documented concern; psilocin in particular is prone to oxidation and degradation upon exposure to air, light, and elevated
 temperatures. Rapid freeze-drying removed water that could facilitate enzymatic or chemical degradation pathways, while cold storage further
 slowed any residual degradation processes. This ensured that measured concentrations reflected the in-vivo alkaloid levels at the time of
@@ -128,12 +94,6 @@ differences between flushes, strains, and sources without needing to account for
 The Bigwood and Beug analytical protocol represents one of the earliest systematic applications of reversed-phase HPLC to the study of
 flush-by-flush alkaloid variation in cultivated psilocybin mushrooms. The use of NIDA-calibrated standards, the documentation of linear
 range and detection limits, and the TLC confirmation step established methodological precedents that subsequent researchers in
-[[psilocybin-mushroom-chemistry]] would follow and refine with more modern instrumentation.
-
-## Related Concepts
-
-- [[hplc-analysis-of-tryptamine-alkaloids]]
-- [[psilocybin-and-psilocin-chemical-synthesis]]
-- [[psilocybin-and-psilocin-chemistry]]
-- [[psilocybin-psilocin-stability-degradation-volatility-fungi]]
+[[hplc-analysis-of-tryptamine-alkaloids]]
+- [[psilocybin-psilocin-chemistry]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]

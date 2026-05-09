@@ -24,7 +24,6 @@ should include significant areas of wild or semi-wild food systems alongside
 intensively managed gardens and orchards. These systems reduce labor inputs,
 increase overall food security, support biodiversity, and provide yields
 that complement cultivated crops. They integrate naturally with
-[[mollison-designers-temperate-zone-food-forest-design]] and
 [[mollison-designers-dryland-garden-and-oasis-design]].
 
 ## Philosophy of Wild Yield
@@ -57,10 +56,7 @@ forest -- and allowed to colonize over 6 to 18 months. Once colonized,
 mushrooms fruit naturally in response to seasonal temperature changes and
 rainfall, providing regular harvests with no further input.
 
-Log-grown mushrooms integrate seamlessly with [[mollison-designers-temperate-zone-food-forest-design]],
-using pruned branches and thinned trees as substrate. This creates a closed
-loop where tree management generates mushroom-growing material, and spent
-logs decompose into [[mollison-designers-humus-building-and-soil-organic-matter]].
+Log-grown mushrooms integrate seamlessly with [[mollison-designers-humus-building-and-soil-organic-matter]].
 
 ## Wild Greens Foraging Zones
 
@@ -92,37 +88,7 @@ agroforestry systems. Many nut species are long-lived and productive for
 decades or centuries with little more than occasional harvesting.
 
 Nut groves serve multiple functions beyond food production. They provide
-timber, wildlife habitat, wind protection, and [[mollison-designers-earthworks-for-erosion-control]]
-through their extensive root systems and canopy interception of rainfall.
-As nitrogen-fixing nurse trees are phased out, nut trees become the dominant
-canopy, creating a self-sustaining food-producing woodland.
-
-## Berry Hedgerows and Windbreaks
-
-Berry-producing hedgerows combine food production with wind protection, boundary
-definition, and wildlife habitat. Species such as blackberries, raspberries,
-elderberries, currants, gooseberries, and native berries can be planted in
-dense rows along property boundaries, fences, and windbreak lines. Once
-established, these hedgerows produce annual berry crops with minimal pruning
-or management.
-
-Hedgerow design should include a mix of species with different ripening times
-to extend the harvest season. Including some nitrogen-fixing species within
-the hedgerow supports the fertility of adjacent plantings. Thorny species
-provide security fencing functions alongside food production.
-
-## Aquatic Food Harvesting
-
-Ponds, dams, and waterways designed into the permaculture landscape provide
-significant wild yields. Fish, crustaceans, water plants, and waterfowl all
-contribute to the food system. Mollison recommends designing water bodies
-with varied depth profiles: shallow edges for aquatic plants and waterfowl,
-mid-depth zones for fish breeding, and deeper areas for overwintering.
-
-Edible aquatic plants include watercress, water chestnuts, lotus, taro, and
-water spinach. These plants can be highly productive in nutrient-rich pond
-water, simultaneously purifying the water through nutrient uptake. The
-integration of aquaculture with [[mollison-designers-water-purification-and-storage-principles]]
+timber, wildlife habitat, wind protection, and [[mollison-designers-water-purification-and-storage-principles]]
 creates multi-function water systems that produce food while managing water
 quality.
 
@@ -131,8 +97,7 @@ quality.
 Wild yield systems should be deliberately woven into the overall landscape
 design rather than relegated to marginal areas. Foraging zones can serve as
 buffer strips between different land uses, as understory components of food
-forests, as part of [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-plantings, or as dedicated zones within a [[mollison-designers-intensifying-small-farm-production]]
+forests, as part of [[mollison-designers-intensifying-small-farm-production]]
 plan. The key principle is that wild food production is a designed function,
 not an afterthought.
 

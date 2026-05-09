@@ -3,18 +3,12 @@ title: Fungal Respiratory Diseases
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Respiratory Diseases
 
-Fungal diseases of the respiratory system range from benign allergic reactions to life-threatening invasive infections. As documented in [[nicholas-money]]'s Mr. Bloomfield's Orchard, the lungs are particularly vulnerable to fungal pathogens because inhaled spores deposit directly in the delicate alveolar tissue. See also [[mycotoxins-and-human-health]] for ingestion-related fungal diseases and [[buller-ahr]] for lycoperdonosis.
-
-## Invasive Fungal Pneumonias
-
-### Aspergillosis
-
-Invasive pulmonary aspergillosis, caused by *[[aspergillus-fumigatus]]* and related species, is the most common invasive mold infection worldwide. *A. fumigatus* produces vast quantities of airborne conidia (2-10 billion per day from a single colony) that are small enough (2-3 micrometers) to reach the deep lung. In immunocompetent individuals, these spores are efficiently cleared by alveolar macrophages. In immunocompromised patients — particularly those with neutropenia from chemotherapy or organ transplant immunosuppression — the fungus can establish invasive disease with mortality rates exceeding 50%.
+Fungal diseases of the respiratory system range from benign allergic reactions to life-threatening invasive infections. As documented in [[mycotoxins-and-human-health]] for ingestion-related fungal diseases and [[aspergillus-fumigatus]]* and related species, is the most common invasive mold infection worldwide. *A. fumigatus* produces vast quantities of airborne conidia (2-10 billion per day from a single colony) that are small enough (2-3 micrometers) to reach the deep lung. In immunocompetent individuals, these spores are efficiently cleared by alveolar macrophages. In immunocompromised patients — particularly those with neutropenia from chemotherapy or organ transplant immunosuppression — the fungus can establish invasive disease with mortality rates exceeding 50%.
 
 The fungus grows as branching hyphae within lung tissue, invading blood vessels and causing hemorrhagic infarction. Treatment relies on azole antifungals (voriconazole, posaconazole) or amphotericin B.
 
@@ -46,11 +40,7 @@ A rare but dramatic condition caused by massive inhalation of puffball spores (s
 
 ## Fungal Spores and Air Quality
 
-Airborne fungal spores are major components of outdoor and indoor air. Outdoor spore concentrations vary seasonally, with peaks during warm, humid months. Indoor fungal contamination (from water damage, poor ventilation) is a significant health concern, with species like *Stachybotrys chartarum* (black mold) producing [[mycotoxins-and-human-health]] that may contribute to sick building syndrome. Indoor fungal exposure is associated with increased asthma severity and allergic rhinitis.
-
-## Pythiosis
-
-Though technically caused by an oomycete (see [[oomycetes-water-molds]]) rather than a true fungus, pythiosis is often grouped with fungal diseases. *Pytophthora insidiosum* causes invasive disease in humans and animals, acquired through exposure to warm freshwater. In humans, it most commonly presents as cutaneous or subcutaneous lesions, but vascular and ocular forms occur. The organism's resemblance to true fungi in tissue sections often leads to initial misidentification.
+Airborne fungal spores are major components of outdoor and indoor air. Outdoor spore concentrations vary seasonally, with peaks during warm, humid months. Indoor fungal contamination (from water damage, poor ventilation) is a significant health concern, with species like *Stachybotrys chartarum* (black mold) producing [[oomycetes-water-molds]]) rather than a true fungus, pythiosis is often grouped with fungal diseases. *Pytophthora insidiosum* causes invasive disease in humans and animals, acquired through exposure to warm freshwater. In humans, it most commonly presents as cutaneous or subcutaneous lesions, but vascular and ocular forms occur. The organism's resemblance to true fungi in tissue sections often leads to initial misidentification.
 
 ## Diagnosis and Laboratory Methods
 
@@ -98,8 +88,6 @@ Several trends are increasing the clinical importance of fungal respiratory dise
 - **COVID-19-associated pulmonary aspergillosis** — A newly recognized complication of severe COVID-19, particularly in critically ill patients
 
 ## See Also
-- [[mycotoxins-and-human-health]] — Ingestion-related fungal diseases
-- buller ahr — Lycoperdonosis from puffball spore inhalation
 - [[oomycetes-water-molds]] — Phytophthora and Pythium diseases
 - [[fungal-biology-fundamentals]] — Fungal cell biology and metabolism
 ## Merged: Lycoperdonosis -- Puffball Spore Inhalation

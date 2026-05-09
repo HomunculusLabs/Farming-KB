@@ -120,8 +120,6 @@ indications).
 
 ## See Also
 
-- [[claviceps-purpurea]] — the ergot fungus producing ergotamine
 - [[dmt]] — non-ergoline psychedelic for comparison
-- [[5-meo-dmt]] — tryptamine psychedelic
-- [[ibotenic-acid]] — glutamate-receptor agonist from Amanita species
-- [[psilocybin-compound]] — mushroom-derived psychedelic acting on serotonin receptors
+- [[ibotenic-acid-entity]] — glutamate-receptor agonist from Amanita species
+- [[psilocybin]] — mushroom-derived psychedelic acting on serotonin receptors

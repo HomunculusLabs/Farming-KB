@@ -3,7 +3,7 @@ title: Fungal Elicitors for Enhanced Secondary Metabolite Production
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -85,15 +85,12 @@ A breakthrough came with the discovery of Piriformospora indica (Varma and Frank
 
 ## Related Topics
 
-- [[piriformospora-indica]] - Piriformospora indica overview
 - [[endophytic-fungi-plant-interactions]] - Endophyte-plant relationships
 - induced systemic resistance mycorrhiza - Defense induction mechanisms
 
 ## See Also
 
-- [[fungal-secondary-metabolites-environment]]
 - [[fungal-oxalate-production-metal-transformation]]
 - fungal elicitors enhanced secondary metabolite production
-- [[piriformospora-indica-in-plant-fungal-co-culture]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[fungal-culture-media-formulas-applications]]

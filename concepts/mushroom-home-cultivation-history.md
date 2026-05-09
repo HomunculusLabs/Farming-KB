@@ -113,11 +113,7 @@ to tourists.
 
 ## See Also
 
-- [[magic-mushroom-prohibition-history]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
-- [[pf-tek-psilocybe-fanaticus]]
-- [[psychedelic-mushrooms-species-and-identification]]
-- [[paul-stamets]]
-- [[albert-hofmann]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[psilocybin-isolation-and-early-scientific-research]]
 - [[1960s-counterculture-and-magic-mushrooms]]

@@ -128,10 +128,7 @@ the outcome before applying to all plants.
 
 ## See Also
 
-- [[cervantes-pest-disease]] for comprehensive pest management
 - [[cervantes-pyrethrum-pyrethroid-insecticides]] for organic sprays
-- [[beneficial-insects-cannabis]] for biological controls
 - [[cervantes-bacillus-thuringiensis-bt-control]] for Bt applications
-- [[spider-mites-cannabis]], [[thrips-cannabis]], [[aphids-cannabis]],
-  [[whiteflies-cannabis]] for specific pest profiles
+- [[thrips-cannabis]], [[whiteflies-cannabis]] for specific pest profiles
 - [[diatomaceous-earth-cannabis]] for another physical pest control method

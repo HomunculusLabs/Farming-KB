@@ -10,41 +10,7 @@ sources:
 
 # The Machine Culture Is Doomed
 
-In *The Road Back to Nature*, [[natural-farming-fukuoka]] delivers a sweeping critique of what he calls "machine culture" — the modern civilization built on expansion, mechanization, and the subjugation of nature. He argues this culture has reached a terminal dead end.
-
-## Origins in Philosophy and Diet
-
-Fukuoka traces machine culture to deep roots:
-
-- It begins with "a pact by Western philosophy with God"
-- Americans are "a meat-eating people who have farmed for meat consumption"
-- This triggered a negative cycle that destroyed nature and laid the foundation for a machine-based culture
-
-## The Expansion Trap
-
-The logic of machine culture is inherently self-defeating:
-
-- "Up until now, Americans have moved toward enlargement and expansion, preferring large over small, rich over poor"
-- Politics and the economy have all raced toward expansion
-- "Yet all this has really been just a fall from grace into the inferno"
-- Such expansion has reached a dead end in urban cultures like New York City
-
-## New York as Symptom
-
-Fukuoka spent several days in New York and observed:
-
-- People in affluent lives all bore "a tragic, cornered look on their faces"
-- Even in Harlem, people seemed fundamentally decent and capable of genuine laughter
-- "The first place to go under the moment the oil stops flowing will be New York"
-- The city represents "civilization in despair"
-
-## The Way Out
-
-Fukuoka's prescription is radical simplicity:
-
-- "It is time to turn priorities around, to choose the small over the big, to decide not to develop rather than to develop"
-- "Isn't it enough just to be alive?"
-- His [[fukuoka-do-nothing-farming-philosophy-and-practice]] applied to civilization: "All I've done is to strive constantly to do less and less in order to eventually not have to do anything"
+In *The Road Back to Nature*, [[fukuoka-do-nothing-farming-philosophy-and-practice]] applied to civilization: "All I've done is to strive constantly to do less and less in order to eventually not have to do anything"
 - "The only road for man is to do nothing"
 
 ## The Amherst Declaration
@@ -55,7 +21,7 @@ At Amherst, Fukuoka articulated his vision:
 - "Doing nothing, living life without a goal, taking a quiet nap when it suits you — that is the door to the most pleasant of worlds"
 - "If everyone were to do nothing, the world would become a place of peace and plenty"
 
-See also: [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-view-of-nature-and-human-hubris]], [[fukuoka-critique-modern-agriculture]], [[fukuoka-nature-transcends-human-knowledge]]
+See also: [[fukuoka-view-of-nature-and-human-hubris]], [[fukuoka-nature-transcends-human-knowledge]]
 
 ## Key Points
 
@@ -67,7 +33,7 @@ See also: [[fukuoka-do-nothing-farming-philosophy]], [[fukuoka-view-of-nature-an
 
 ## See Also
 
-[[fukuoka-rice-barley-dual-culture]], [[fukuoka-culture-of-clothing-and-meat]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]]
+[[fukuoka-culture-of-clothing-and-meat]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-no-weeding-no-pesticides]]
 
 ## Practical Applications
 

@@ -17,8 +17,7 @@ sources:
 # 2C-I (2,5-Dimethoxy-4-iodophenethylamine)
 
 2C-I is a synthetic psychedelic phenethylamine and a member of the 2C family first synthesized and bioassayed by
-[[alexander-shulgin]]. In *PiHKAL*, Shulgin rated 2C-I as one of the most visually impressive and long-lasting members
-of the series, noting its exceptional potency relative to [[mescaline-entity]] and its distinctly colorful visual effects. It
+[[mescaline-entity]] and its distinctly colorful visual effects. It
 is one of the most widely encountered 2C compounds in both research and recreational contexts.
 
 ## Chemical Properties
@@ -26,17 +25,7 @@ is one of the most widely encountered 2C compounds in both research and recreati
 2C-I is 2,5-dimethoxy-4-iodophenethylamine, with the molecular formula C₁₀H₁₄INO₂ and a molecular weight of
 307.12 g/mol. The 4-position iodine atom is notably large and heavy (atomic weight 126.9), making 2C-I the heaviest of
 the commonly discussed 2C compounds. This large halogen substituent significantly affects the molecule's lipophilicity,
-[[beta-glucan-receptor-binding]] kinetics, and metabolic stability. The iodine atom is a key structural determinant of 2C-I's potency
-and duration. The compound is typically encountered as a white to off-white powder or as pressed tablets. The typical
-psychoactive dose ranges from 12–25 mg orally, placing it among the more potent members of the 2C series. The
-hydrochloride salt is freely soluble in water.
-
-## Pharmacology
-
-Like other 2C compounds, 2C-I acts primarily as an agonist at 5-HT₂A serotonin receptors, with the 4-position iodine
-atom conferring high binding affinity. It also interacts with 5-HT₂C receptors. The large iodine atom provides
-significant steric bulk that influences receptor conformation upon binding, potentially contributing to the compound's
-distinctive visual effects profile. Compared to [[2c-b]] (bromine), the heavier iodine atom results in slower metabolic
+[[2c-b]] (bromine), the heavier iodine atom results in slower metabolic
 clearance and longer duration. 2C-I has negligible affinity for monoamine transporters. Metabolism proceeds through
 oxidative deamination, though the C–I bond is relatively resistant to oxidative cleavage compared to C–Br bonds,
 contributing to the extended duration.
@@ -103,3 +92,7 @@ shorter-acting psychedelics. The compound's vasoconstrictive properties, while g
 can be concerning at high doses or in individuals with pre-existing cardiovascular conditions. As with all serotonergic
 psychedelics, there is a theoretical risk of serotonin syndrome when combined with MAOIs or certain serotonergic
 medications, though documented cases involving 2C-I specifically are rare.
+
+## See Also
+
+- [[optical-isomers-psychedelic-phenethylamines]]

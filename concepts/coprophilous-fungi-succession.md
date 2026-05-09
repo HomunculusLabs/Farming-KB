@@ -3,14 +3,14 @@ title: Coprophilous Fungi — Succession and Ecological Dynamics
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Coprophilous Fungi — Succession and Ecological Dynamics
 
 ## Overview
 
-Coprophilous (dung-inhabiting) fungi encompass species from multiple fungal groups, including **Myxomycetes, Zygomycetes, Ascomycetes, and Basidiomycetes**. Of the approximately 700 described myxomycete species, roughly **12 are exclusively coprophilous**. Dung represents a nutrient-rich, temporally dynamic substrate that supports a distinctive fungal community with well-documented successional patterns. The study of coprophilous fungi is central to [[coprophilous-fungi]] research and offers insights into [[fungal-succession-in-decomposition]].
+Coprophilous (dung-inhabiting) fungi encompass species from multiple fungal groups, including **Myxomycetes, Zygomycetes, Ascomycetes, and Basidiomycetes**. Of the approximately 700 described myxomycete species, roughly **12 are exclusively coprophilous**. Dung represents a nutrient-rich, temporally dynamic substrate that supports a distinctive fungal community with well-documented successional patterns. The study of coprophilous fungi is central to [[fungal-succession-in-decomposition]].
 
 ## Successional Sequence
 
@@ -80,11 +80,9 @@ Optimal dung for collection:
 
 ## Ecological Significance
 
-Coprophilous fungi are key agents of **nutrient recycling** in grassland and pastoral ecosystems. They accelerate the decomposition of herbivore dung, releasing nitrogen and phosphorus for plant uptake. Their successional dynamics serve as model systems for studying [[fungal-ecology]], community assembly, and competitive interactions. The chemical warfare among coprophilous species has yielded numerous bioactive compounds relevant to medicine and agriculture, connecting this field to [[fungal-pathogens-in-agriculture]] through shared mechanisms of antifungal secondary metabolism.
+Coprophilous fungi are key agents of **nutrient recycling** in grassland and pastoral ecosystems. They accelerate the decomposition of herbivore dung, releasing nitrogen and phosphorus for plant uptake. Their successional dynamics serve as model systems for studying [[fungal-pathogens-in-agriculture]] through shared mechanisms of antifungal secondary metabolism.
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
 - [[fungal-succession-woody-debris-ecology]]
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]

@@ -323,7 +323,7 @@ Fresh breadfruit is highly perishable. It ripens quickly at room temperature and
 
 ## Permaculture Integration
 
-Breadfruit is an exceptional [[permaculture-zone-and-sector-analysis|permaculture]] tree that fits naturally into [[food-forest-gardening-and-food-forests|food forest]] designs:
+Breadfruit is an exceptional [[permaculture-zone-and-sector-analysis|permaculture]] tree that fits naturally into [[forest-gardening-and-food-forests|food forest]] designs:
 
 ### Zone Placement
 
@@ -397,7 +397,7 @@ Breadfruit is increasingly recognized as a climate-resilient food crop:
 ## See Also
 
 - [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — Other tropical staple crops for comparison
-- [[food-forest-gardening-and-food-forests]] — Integrating breadfruit into food forest design
+- [[forest-gardening-and-food-forests]] — Integrating breadfruit into food forest design
 - [[agroforestry-and-alley-cropping]] — Breadfruit in agroforestry systems
 - [[permaculture-zone-and-sector-analysis]] — Zoning breadfruit in permaculture design
 - [[companion-planting-and-polycultures]] — Companion plants for breadfruit

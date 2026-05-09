@@ -139,8 +139,6 @@ within the overall permaculture design.
 
 ## See Also
 
-- [[mollison-pdc-swale-design-water-harvesting]]
 - [[mollison-pdc-dam-construction-water-systems]]
-- [[hamilton-organic-pest-control]]
 - [[permaculture-zone-one-design]]
 - [[mollison-salicornia-flats-and-estuarine-aquaculture]]

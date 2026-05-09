@@ -27,18 +27,7 @@ A keyhole bed is a circular or horseshoe-shaped raised bed, 8-12 feet in diamete
 ### Construction Methods
 
 1. **Shovel method:** Move fertile topsoil into a horseshoe shape
-2. **Lasagna method (preferred):** Build by layering leaves, newspaper, compost, and soil using [[permaculture-sheet-mulch-detailed-guide]] techniques
-
-### Dimensions
-
-- Overall diameter: 8-12 feet
-- Plantable zone width: 3-5 feet across (same as standard raised beds)
-- Access path: about 1 foot wide
-- Central circle: 18-24 inches in diameter (enough to turn around in)
-
-### Planting with the Zone System
-
-The [[zone-sector-analysis-guide]] applies within a single keyhole bed:
+2. **Lasagna method (preferred):** Build by layering leaves, newspaper, compost, and soil using [[zone-sector-analysis-guide]] applies within a single keyhole bed:
 
 - **Inner ring (central path edge):** Herbs, greens, daily-eaten veggies — most frequently picked
 - **Middle ring:** Tomatoes, peppers, bush peas and beans, eggplants — regularly picked over the season
@@ -81,22 +70,27 @@ A mandala garden is a set of four to eight keyhole beds arranged in a circle wit
 
 ## Edge Effects in Bed Design
 
-Keyhole and mandala beds demonstrate the [[urban-permaculture-edge-effect-and-design-principles]] in miniature. The curved edges:
+Keyhole and mandala beds demonstrate the [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
 
-- Increase the perimeter-to-area ratio compared to rectangular beds
-- Expose more plants to beneficial insects at the margins
-- Create varied microclimates around the curve
-- Reduce the "soybean field" monotony of straight rows
-
-Nature never takes the shortest distance between two points — it meanders in lazy undulations. Curves and circles give surprise and whimsy to a garden while being more efficient.
-
-## See Also
-
-- [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
-
-- [[keyhole-bed-design]] — general keyhole bed design principles
 - [[permaculture-designers-manual-keyhole-garden]] — alternative keyhole garden approaches
-- [[mandala-garden-design]] — mandala garden patterns
 - [[zone-sector-analysis-guide]] — zone system for garden layout
-- [[herb-spiral-design-guide]] — another spiral pattern for herb gardens
 - [[permaculture-edge-effect-design]] — edge effects in design
+## Practical Considerations
+
+Successful implementation of Gaia's Garden Keyhole Beds and Mandala Gardens requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

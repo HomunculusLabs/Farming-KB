@@ -105,16 +105,10 @@ The species provides habitat and food for diverse wildlife, including birds, ins
 
 ## See Also
 
-- [[acacia-senegal]]
 - [[prosopis-juliflora]]
-- [[prosopis-glandulosa]]
 - [[azadirachta-indica]]
-- [[dalbergia-sissoo]]
 - [[robinia-pseudoacacia]]
-- [[leucaena-leucocephala]]
 - [[moringa-oleifera]]
-- [[ceratonia-siliqua]]
 - [[pongamia-pinnata]]
-- [[gleditsia-triacanthos]]
 - [[nitrogen-fixing-trees]]
-- [[allelopathy]]
+- allelopathy

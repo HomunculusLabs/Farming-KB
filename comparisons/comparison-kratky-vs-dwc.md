@@ -107,8 +107,6 @@ As a rule of thumb, Kratky works best when the container holds enough nutrient s
 ## Bottom Line
 Kratky is the gateway drug to hydroponics: dirt-cheap, dead simple, and genuinely effective for what it does. DWC is the workhorse: more setup, more maintenance, but more versatile, faster, and higher-yielding. For a homesteader growing a salad garden on the porch, Kratky is hard to beat. For a serious grower producing significant food year-round, DWC is the more capable tool. Many hydroponic growers start with Kratky, learn the basics of nutrient management and plant needs, then graduate to DWC when they outgrow the passive method's limitations — a natural progression that makes both methods valuable at different stages of a grower's journey.
 ## See Also
-- [[aact-ph-water-quality-ingham]]
 - [[alliums-growing-guide]]
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 - [[comparison-nft-vs-dwc]]
 - [[comparison-dwc-vs-ebb-and-flow]]

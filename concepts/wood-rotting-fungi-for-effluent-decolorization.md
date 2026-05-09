@@ -3,7 +3,7 @@ title: Wood-Rotting Fungi for Effluent Decolorization
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -89,15 +89,9 @@ Mycelia can be reused over many cycles covering weeks to months, and can be stor
 
 ## See Also
 
-- [[mycoremediation-of-textile-dyes]]
-
 - [[peroxidase-catalyzed-decolorization-of-textile-dyes]]
-
-- [[laccase-catalyzed-degradation]]
 
 - [[enzymatic-degradation-in-mycoremediation]]
 
-- [[white-rot-fungi-bioremediation]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
-- [[lignin-degradation-mechanisms-wood-rot-fungi]]
 - [[fungal-ligninolytic-enzymes-in-industrial-applications]]

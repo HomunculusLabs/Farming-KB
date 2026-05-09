@@ -2,38 +2,12 @@
 title: "Typha latifolia"
 created: 2026-04-28
 type: species
-tags: [species, plant, wetland, [[permaculture]], edible, medicinal, typhaceae]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md"
----
-# Typha latifolia
-Typha latifolia, commonly known as broadleaf cattail or common cattail, is a
-perennial herbaceous aquatic plant in the family Typhaceae, found in wetlands,
-marshes, and shallow water bodies across much of the Northern Hemisphere. One
-of the most versatile and widely utilized [[faires-edible-and-useful-wild-plants]] in human history, nearly
+tags: [species, plant, wetland, [[faires-edible-and-useful-wild-plants]] in human history, nearly
 every part of T. latifolia is edible or otherwise useful, earning it
 descriptions such as "the supermarket of the swamp" and "the survival plant."
 It provides food (rhizobamboo-as-building-materialen, seeds), building material
 (thatching, insulation), and ecological sehemenway-backyard-wildlife-habitatltration, erosion
-control, wildlife habitat). In [[permaculture-design]], cattail is valued as a
-multi-functional water-edge element that simultaneously produces food, filters
-runoff, creates microclimates, and supports biodiversity. Its rapid growth and
-aggressive colonization also make it a potential invader in managed systems,
-requiring thoughtful placement and periodic harvesting to prevent unwanted
-spread.
-## Taxonomy and Naming
-- **Kingdom:** Plantae
-- **Order:** Poales
-- **Family:** Typhaceae
-- **Genus:** Typha
-- **Species:** T. latifolia
-- **Authority:** L.
-- **Synonyms:** Typha major, Typha pontica, Typha elatior
-- **Common names:** Broadleaf cattail, common cattail, cossack asparagus,
-  reed mace (British), cat-o'-nine-tails, punks (regional American)
-- **Related species:** Typha angustifolia (narrowleaf cattail), Typha
+control, wildlife habitat). In [[typha-angustifolia]] (narrowleaf cattail), Typha
   domingensis (southern cattail), Typha laxmannii (Laxmann's cattail).
   Hybrid Typha × glauca (T. latifolia × T. angustifolia) is common where
   ranges overlap.

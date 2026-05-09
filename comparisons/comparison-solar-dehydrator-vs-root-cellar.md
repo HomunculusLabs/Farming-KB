@@ -13,10 +13,7 @@ type: comparison
 ## Overview
 
 Solar dehydrators and root cellars represent two fundamentally different
-approaches to off-grid food preservation. A [[solar-dehydrator-plans]]
-removes moisture from food using solar energy and convection, extending
-shelf life by making food inhospitable to spoilage organisms. A
-[[root-cellar-design-and-construction]] maintains fresh food in its
+approaches to off-grid food preservation. A [[root-cellar-design-and-construction]] maintains fresh food in its
 natural state by leveraging earth's stable temperatures and high humidity.
 Choosing between them depends on what you grow, your climate, and
 whether you prefer preserved or fresh-stored food through winter.
@@ -111,28 +108,9 @@ vegetables and storage crops and want to maintain them in their fresh
 state through winter without electricity. Root cellars are essential
 for self-sufficient homesteads in cold climates where a large winter
 storage capacity is the difference between eating well and depending
-on grocery stores. The [[root-cellaring-and-no-energy-food-storage]]
-approach pairs naturally with gardens designed for fall harvest and
-winter meals, supporting a complete seasonal eating cycle.
-
-## Hybrid Approaches
-
-The most resilient food preservation systems use both methods together.
-A root cellar keeps root vegetables, apples, and squash fresh through
-the cold months, while a solar dehydrator processes the summer surplus
-of tomatoes, berries, herbs, and fruits into concentrated, shelf-stable
-stores. Many homesteaders also combine these with food preservation and storage methods
-like fermentation, canning, and [[root-cellaring-guide]] techniques for
+on grocery stores. The [[root-cellaring-guide]] techniques for
 comprehensive year-round food security. The clamp method and in-ground
-storage described in [[root-cellaring-and-no-energy-food-storage]] offer
-additional no-infrastructure alternatives when a full cellar is not
-feasible.
-
-## See Also
-
-- [[solar-dehydrator-plans]]
-- [[root-cellar-design-and-construction]]
+storage described in [[solar-dehydrator-plans]]
 - [[root-cellaring-and-no-energy-food-storage]]
-- [[root-cellaring-guide]]
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]

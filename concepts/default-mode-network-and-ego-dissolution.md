@@ -84,18 +84,10 @@ flexibility, creativity, and spiritual well-being.
 
 See Also:
 
-[[psilocybin-neuroscience]]
-
 [[psilocybin-psychological-mechanisms]]
-
-[[psychedelic-therapy-set-and-setting]]
 
 [[psychedelic-mushroom-set-and-setting]]
 
-[[psilocybin-and-mystical-experience]]
-
 [[psychedelic-consciousness-models]]
-
-[[psychedelic-crisis-response-protocol]]
 
 [[turner-cydelikspace-and-psychedelic-reality]]

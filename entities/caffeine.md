@@ -136,15 +136,11 @@ Caffeine withdrawal is recognized in DSM-5 as a psychiatric condition. Symptoms 
 ## Legal Status
 
 Unregulated worldwide. No scheduling under the UN Convention on Psychotropic Substances. Permitted in all jurisdictions as a food additive and pharmaceutical ingredient.
-
 ## Related
 
-- [[cola-nitida]] Compounds
-
-- **Theobromine** (3,7-dimethylxanthine) — primary alkaloid in cacao; milder stimulant
-- **Theophylline** (1,3-dimethylxanthine) — bronchodilator used therapeutically for respiratory conditions
-- **Paraxanthine** (1,7-dimethylxanthine) — primary caffeine metabolite; contributes to lipolysis
-- **Theacrine** (1,3,7,9-tetramethyluric acid) — purine alkaloid from Camellia assamica with stimulant properties and apparently no tolerance development
 - [[theobromine]]
-- [[ilex-guayusa]]
 - [[ethylone]]
+
+## See Also
+
+- [[caffeine-plants-and-stimulant-herb-cultivation]]

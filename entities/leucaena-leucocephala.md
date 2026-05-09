@@ -140,10 +140,7 @@ native vegetation. Management requires vigilant monitoring in non-native ranges.
 
 ## See Also
 
-- [[tamarindus-indica]]
-
 - [[gliricidia-sepium]] — Madre de cacao, complementary agroforestry legume
-- [[moringa-oleifera]] — Multipurpose tropical tree with overlapping applications
 - [[azadirachta-indica]] — Neem, another tropical permaculture tree
 - [[opuntia-ficus-indica]] — Prickly pear cactus, complementary arid-zone fodder
 - glycine max — Soybean, another major nitrogen-fixing crop

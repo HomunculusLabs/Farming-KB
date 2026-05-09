@@ -119,7 +119,9 @@ programs will have raw material to work with for generations to come.
 
 ## See Also
 
-- [[oner-sativa-renaissance-rise-of-the-second-child]]
 - [[oner-cannabis-breeding-fundamentals]]
-- [[oner-cannabis-phenotypes-genetic-expression]]
 - [[oner-cannabis-seed-production-storage]]
+
+## See Also
+
+- [[cannabis-colombian-gold-landrace-sativa]]

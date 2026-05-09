@@ -63,13 +63,9 @@ Repeated processing of the same flowers is possible but diminishing returns appl
 
 ## Related Topics
 
-- [[cannabis-solvent-reflux-extraction-methods]] for the extraction process
 - [[cannabis-oil-isomerization]] for oil refinement techniques
-- [[cannabis-winterization-filtration]] for oil purification
 - [[cannabis-hashish-from-extracted-oil-techniques]] for alternative use of extracted oil
-- [[cannabis-oil-capsules-preparation]] for another delivery method for refined oil
 - [[cannabis-decarboxylation-chemistry]] for the decarboxylation that occurs during heating
-- [[cannabis-potency-maximization]] for natural potency enhancement methods
 - [[cannabis-trichome-types-and-development]] for understanding trichome distribution on flowers
 
 ## Combination with Psilocybin

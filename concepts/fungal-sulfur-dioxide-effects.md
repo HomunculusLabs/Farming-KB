@@ -3,20 +3,7 @@ title: Fungal Sulfur Dioxide Effects on Decomposition
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
----
-# Fungal Sulfur Dioxide Effects on Decomposition
-
-## Overview
-
-Sulfur dioxide (SO2) is an atmospheric pollutant derived primarily from the combustion of
-fossil fuels that has significant effects on fungal communities and their capacity for
-decomposition. As a component of acid rain, SO2 influences fungal respiration, growth,
-spore germination, community structure, and decomposition processes. Understanding SO2
-effects on fungi is critical for assessing the
-[[dighton-fungal-responses-climate-change]] and
+tags: [[dighton-fungal-responses-climate-change]] and
 predicting ecosystem responses to air quality changes.
 
 ## Effects on Fungal Growth and Spore Germination
@@ -105,12 +92,6 @@ are at least partially reversible through management interventions.
 ## Broader Ecosystem Implications
 
 The effects of SO2 on fungal decomposition have cascading consequences for ecosystem
-function. Reduced fungal respiration and decomposition rates slow [[fungal-decomposition-nutrient-cycling]],
-potentially limiting nutrient availability for plant growth. Changes in mycorrhizal
-community structure affect plant nutrient uptake capacity and competitive relationships.
-These findings underscore the importance of maintaining air quality for the preservation
-of functional [[fungal-ecosystem-roles]] in forest ecosystems.
-- [[nutrient-movement-through-soil-to-plant-roots]]
+function. Reduced fungal respiration and decomposition rates slow [[fungal-ecosystem-roles]] in forest ecosystems.
 - [[fungal-enzyme-activity-nutrient-availability]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungal-role-in-phosphorus-cycling]]

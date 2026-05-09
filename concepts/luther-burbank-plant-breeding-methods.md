@@ -124,7 +124,9 @@ plant genetics and agricultural improvement worldwide.
 
 ## Related Concepts
 
-- [[george-washington-carver-plant-work]]
 - [[plant-perception]]
-- [[sound-and-music-effects-on-plants]]
 - [[biodynamic-agriculture-and-steiner]]
+
+## See Also
+
+- [[tompkins-luther-burbank-intuitive-breeding]]

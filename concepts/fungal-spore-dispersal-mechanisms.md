@@ -22,60 +22,7 @@ a remarkable diversity of dispersal mechanisms, from forcible
 ballistic discharge of spores into the air to passive transport by
 water, wind, or animals. The loss of one dispersal mechanism often
 drives the evolution of alternative strategies, as exemplified by
-the [[sequestrate-fungi]].
-
-## Ballistic (Forcible) Dispersal
-
-Many fungi, particularly Ascomycetes and Basidiomycetes, forcibly
-discharge spores into the air. In these fungi, the cap elevates
-spore-bearing tissues and the orderly hymenial palisade positions
-ascus or basidium tips for efficient release. Spore discharge is
-powered by turgor pressure within asci or by the explosive
-evaporation of water from basidia. This mechanism enables
-windborne dispersal over considerable distances and is the
-ancestral condition from which many specialized dispersal
-strategies have evolved.
-
-## Wind Dispersal
-
-Passive wind dispersal is employed by many fungi whose spores
-are released into air currents. Wind-dispersed spores vary
-enormously in size, shape, and ornamentation, features that
-affect aerodynamic properties and deposition patterns. Spores
-may be carried locally or over continental distances. The
-effectiveness of wind dispersal depends on spore morphology,
-release height, atmospheric conditions, and the availability
-of suitable landing substrata.
-
-## Animal Dispersal (Zoochory)
-
-Many fungi depend on animals for spore dispersal. This includes
-several distinct strategies:
-
-  - Mycophagy: Mammals eat fungal sporocarps and disperse
-    spores through their feces. Most mammals, including
-    carnivores, excavate and eat sequestrate fungi. All sterile
-    tissues are digested but spores pass unharmed through the
-    digestive tract.
-  - Bird dispersal: Birds are important vectors in regions
-    lacking mammals, such as New Zealand. Bright-colored
-    sequestrate fungi mimic fruits eaten by birds.
-  - Invertebrate dispersal: Arthropods including insects,
-    mites, and nematodes transport fungal spores. Earthworms
-    have been shown to be important vectors of dictyostelid
-    propagules. Ground-dwelling rodents and amphibians disperse
-    spores in temperate and tropical forests.
-  - Phoresy: Some fungi attach spores to the exterior of
-    arthropods for transport.
-
-## Water Dispersal
-
-Aquatic fungi and those inhabiting moist environments often
-disperse spores through water. Zoosporic fungi release motile
-zoospores that swim to new substrata. Rain splash disperses
-spores from fruiting bodies on leaves and stems to nearby
-surfaces. Spores of some fungi are transported by flowing
-water in streams and rivers. In some [[marine-estuarine-fungi]], water currents are the
+the [[marine-estuarine-fungi]], water currents are the
 primary dispersal vector.
 
 ## Adaptations in Sequestrate Fungi
@@ -135,10 +82,6 @@ change and for designing effective conservation strategies.
 
 ## See Also
 
-- [[spore-dispersal-mechanisms]]
-
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[sequestrate-fungi-ecology-evolution]]
 - [[fungal-biogeography-distribution-patterns]]
-- [[fungal-endemism-host-specificity]]
 - [[jadam-weed-control-strategies-natural]]

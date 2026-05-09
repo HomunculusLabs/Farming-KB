@@ -49,7 +49,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Spores
 - Large (50-500 micrometers), multi-nucleate
 - Thick walls — survive in soil for years to decades
-- Germinate in response to [[root-exudates]] from host plants
+- Germinate in response to root exudates from host plants
 - Form the primary dispersal and survival structure
 
 ## Host Range and Specificity
@@ -57,7 +57,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Broad but Not Universal
 - Most crops, vegetables, grasses, and many trees form AM associations
 - Notable non-hosts: Brassicaceae (cabbage, broccoli, mustard), Chenopodiaceae (spinach, beet), Amaranthaceae (amaranth)
-- AMF can associate with multiple plant species simultaneously — creating [[common-mycorrhizal-networks]]
+- AMF can associate with multiple plant species simultaneously — creating common mycorrhizal networks
 
 ### Crop Families and AMF
 - **Highly dependent**: Allium (onion, garlic), Solanaceae (tomato, pepper), Leguminosae (beans, peas), Poaceae (corn, wheat)
@@ -102,5 +102,3 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - [[mycorrhizal-networks-common-mycelial-network]] — for common networks
 - [[fungal-role-in-phosphorus-cycling]] — for P cycling role
 - [[soil-food-web-structure]] — for the broader soil biology context
-- [[rhizophagus-irregularis]]
-- [[ilex-guayusa]]

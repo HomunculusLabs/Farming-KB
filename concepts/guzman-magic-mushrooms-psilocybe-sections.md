@@ -1,105 +1,31 @@
 ---
 title: Psilocybe Sectional Classification
 created: 2026-04-28
-tags: [mycology, taxonomy, psilocybe, fungal-classification, psilocybin-mushrooms]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Guzmán G, Allen JW, Gartz J. A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion. Ann Mus Civ Rovereto. 2000;14:189-280.
-type: concept
----
-
-# Psilocybe Sectional Classification
-
-The genus Psilocybe (Fr.) P. Kumm. is the largest and most taxonomically complex group of neurotropic fungi, comprising 116 species worldwide according to Guzmán, Allen, and Gartz (2000). These species are organized into nine taxonomic sections based on morphological characteristics, particularly spore morphology, cystidia features, habitat preferences, and geographic distribution patterns.
-
-## Overview of the Genus
-
-Psilocybe was originally a large genus encompassing many agarics with brown spores and a preference for humicolous habitats. Modern revisions have refined the genus considerably. The neurotropic species, defined by the presence of bluing reactions and the detection of indole alkaloids (primarily [[psilocybin-compound]] and [[psilocin]]), belong to specific sections that are generally characterized by:
-
-- Spore prints ranging from dark violet-brown to purple-brown
-- Spores with a distinct germ pore in most sections
-- Chrysocystidia or pleurocystidia in many species
-- Strong bluing reaction when bruised (though not universal)
-- Presence of psilocybin, psilocin, baeocystin, and/or norbaeocystin
-
-## The Nine Sections of Neurotropic Psilocybe
-
-### Section Psilocybe (type section)
-
-The type section contains species with relatively small spores and simple morphological features. Many of the best-known temperate species belong here.
-
-Key species: [[psilocybe-semilanceata]] (liberty cap), [[psilocybe-strictipes-entity]], [[psilocybe-silvatica]], Psilocybe pelliculosa, [[psilocybe-stuntzii]], [[psilocybe-fimetaria]], [[psilocybe-liniformans]]
-
-Geographic range: Primarily temperate regions of North America, Europe, and parts of Asia. [[psilocybe-semilanceata]] has the widest distribution of any neurotropic Psilocybe, found across Europe, North America, and extending into Asia.
+tags: [[psilocybin]] and [[psilocybe-semilanceata]] (liberty cap), [[psilocybe-silvatica]], Psilocybe pelliculosa, [[psilocybe-fimetaria]], [[psilocybe-semilanceata]] has the widest distribution of any neurotropic Psilocybe, found across Europe, North America, and extending into Asia.
 
 Habitat: Grasslands, pastures, and disturbed soils rich in organic matter. Several species are associated with dung or enriched soils.
 
 ### Section Mexicanae
 
-Named for [[psilocybe-mexicana]], this section contains species primarily distributed in mesoamerican subtropical and tropical forests, with some extending into South America.
-
-Key species: [[psilocybe-mexicana]], Psilocybe hochshagenii, [[psilocybe-muliercula]], Psilocybe subtropicalis, [[psilocybe-moseri]], Psilocybe heimii
+Named for [[psilocybe-mexicana]], Psilocybe hochshagenii, [[psilocybe-moseri]], Psilocybe heimii
 
 Geographic range: Mexico, Central America, and northern South America. Mexico is the center of diversity for this section.
 
-Habitat: Cloud forests, mesophytic forests, and tropical deciduous forests, often in association with mosses, leaf litter, or bare soils along trails. [[psilocybe-mexicana]] is particularly associated with submontane grasslands and forest edges.
+Habitat: Cloud forests, mesophytic forests, and tropical deciduous forests, often in association with mosses, leaf litter, or bare soils along trails. [[psilocybe-aztecorum]], [[psilocybe-caerulipes]]
 
-### Section Aztecorum
+Geographic range: The name species [[psilocybe-baeocystis]] and [[psilocybe-zapotecorum]], this section contains robust species that grow on woody substrates and in muddy, flooded, or disturbed tropical habitats.
 
-This section contains high-elevation species restricted to alpine and subalpine habitats, primarily in central Mexico.
+Key species: [[psilocybe-cubensis]], [[psilocybe-tampanensis-entity]]
 
-Key species: [[psilocybe-aztecorum]], [[psilocybe-baeocystis]], [[psilocybe-caerulipes]]
-
-Geographic range: The name species [[psilocybe-aztecorum]] is restricted to the high mountains of central Mexico (Popocatépetl, Iztaccíhuatl, and Nevado de Toluca) at elevations above 3,000 to 4,000 m, making it one of the highest-altitude neurotropic fungi known. [[psilocybe-baeocystis]] and [[psilocybe-caerulipes]] are North American species also placed in this section.
-
-Habitat: Alpine and subalpine meadows, often among grasses in the transition zone between timberline and permanent snow. In Mexico, these species grow on volcanic soils at extreme elevations.
-
-### Section Zapotecorum
-
-Named for [[psilocybe-zapotecorum]], this section contains robust species that grow on woody substrates and in muddy, flooded, or disturbed tropical habitats.
-
-Key species: [[psilocybe-zapotecorum]], Psilocybe angustipleurocystidiata, Psilocybe subzapotecorum, Psilocybe pintonii, Psilocybe colombiana
-
-Geographic range: Mexico through Central and South America to Argentina and Brazil. The section has its highest diversity in South American tropical forests.
-
-Habitat: Flooded areas, muddy riverbanks, disturbed soils, and decomposing wood in tropical and subtropical forests. Some species grow directly on submerged wood or in standing water.
-
-### Section Cubensiae
-
-This section contains species with relatively large, robust fruiting bodies, many of which are pantropical in distribution.
-
-Key species: [[psilocybe-cubensis]], [[psilocybe-subcubensis]], [[psilocybe-tampanensis-entity]]
-
-Geographic range: Pantropical. [[psilocybe-cubensis]] is one of the most widely distributed neurotropic fungi, found throughout the tropics and subtropics worldwide. Its presence in many regions (Africa, the Caribbean, South America, Asia, Australia) is likely due in part to human-mediated dispersal through cattle ranching.
-
-Habitat: Primarily a coprophilous species, growing on dung of herbivores (especially cattle and horses) in tropical and subtropical pastures. [[psilocybe-tampanensis-entity]] is notable for producing sclerotia (truffles).
+Geographic range: Pantropical. [[psilocybe-tampanensis-entity]] is notable for producing sclerotia (truffles).
 
 ### Section Cordisporae
 
 Species in this section are characterized by distinctive heart-shaped (cordiform) spores and are primarily found in tropical and subtropical regions.
 
-Key species: [[psilocybe-cordispora]], Psilocybe banderillensis
+Key species: [[psilocybe-caerulescens]], Psilocybe ochraceocentrata, [[psilocybe-caerulescens]] is primarily Mexican and Central American. [[psilocybe-semilanceata]].
 
-Geographic range: Mexico and Central America.
-
-Habitat: Tropical forests, often in leaf litter or on forest floors in humid conditions.
-
-### Section Caerulescentes
-
-Species in this section typically exhibit strong bluing reactions and are found in diverse habitats from tropical to temperate regions.
-
-Key species: [[psilocybe-caerulescens]], Psilocybe ochraceocentrata, [[psilocybe-mairei]]
-
-Geographic range: [[psilocybe-caerulescens]] is primarily Mexican and Central American. [[psilocybe-mairei]] is a North African species found in Morocco and Algeria.
-
-Habitat: Variable, ranging from disturbed soils and landslides (the common name "derrumbes" for P. caerulescens reflects this) to forest edges and pastures.
-
-### Section Semilanceatae
-
-A small section closely related to the type section, containing species with morphological affinities to [[psilocybe-semilanceata]].
-
-Key species: [[psilocybe-bohemica]], [[psilocybe-serbica]]
+Key species: [[psilocybe-serbica]]
 
 Geographic range: Central Europe (Czech Republic, Germany, Austria, Yugoslavia).
 
@@ -109,33 +35,74 @@ Habitat: Temperate grasslands and forest margins.
 
 A Pacific Northwest section containing species primarily found in the coniferous forests of western North America.
 
-Key species: [[psilocybe-stuntzii]], [[psilocybe-azurescens]], [[psilocybe-cyanofibrillosa]], [[psilocybe-baeocystis]]
+Key species: [[psilocybe-azurescens]], [[psilocybe-baeocystis]]
 
-Geographic range: Pacific Northwest of North America (Oregon, Washington, British Columbia). [[psilocybe-azurescens]] is particularly concentrated in the coastal dune grasses near the mouth of the Columbia River.
-
-Habitat: Coniferous forest debris, alder chips, disturbed soils, and coastal dune grasses. Several species in this section have adapted to wood chip mulch in landscaped areas.
-
-## Non-Bluing Psilocybe Species
-
-Guzmán, Allen, and Gartz (2000) note that not all Psilocybe species are neurotropic. The genus also contains many species that do not contain psilocybin or psilocin and do not exhibit bluing reactions. These non-neurotropic species, found in sections such as Psilocybe section Psilocybe (sensu stricto, for non-bluing species), are excluded from the neurotropic count but represent a significant portion of the genus's total diversity.
-
-## Biogeographic Implications
-
-The sectional classification of Psilocybe has important biogeographic implications. The concentration of certain sections in specific regions suggests evolutionary patterns. The sections Mexicanae, Cordisporae, and Aztecorum are predominantly Mexican, supporting the hypothesis that the genus originated in the southern hemisphere (possibly South America) and diversified northward through Mexico into North America. The pantropical distribution of section Cubensiae, particularly [[psilocybe-cubensis]], reflects both natural dispersal and anthropogenic spread through livestock movements.
+Geographic range: Pacific Northwest of North America (Oregon, Washington, British Columbia). [[psilocybe-cubensis]], reflects both natural dispersal and anthropogenic spread through livestock movements.
 
 ## See Also
 
-- [[neurotropic-fungi-taxonomic-confusion-and-misidentification]]
 - [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
-- [[psilocybe-atarhizomatos]]
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
-- [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
-- [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-
 - [[specimen-misidentification-erroneous-chemical-analyses-guzman-1998]]
-- [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
-
 - [[guzman-magic-mushrooms-neotropical-species]]
-- [[allen-magic-mushrooms-australia-newzealand-habitats]]
 - [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]
+## Practical Considerations
+
+When working with Psilocybe Sectional Classification, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

@@ -42,52 +42,15 @@ cytoplasmic disruption of the second fungus.
 
 Electron microscopy studies have revealed vacuolation, or an abundance
 of lipid droplets and invaginations of the host plasmalemma at the
-point of contact. Similar vacuolation induced by [[fusarium-oxysporum]],
-[[trichoderma-viride]], and [[penicillium-expansum]] in hyphae of Aspergillus
-niger has been described. This very localized phenomenon usually has
-been observed only in dual culture in vitro.
-
-Examples include:
-- Arthrobotrys superba and A. oligospora, predaceous nematophagous
-  fungi that can also function as contact mycoparasites
-- Tilletiopsis species, which contact and kill cells of the powdery
-  mildew Sphaerotheca fuliginea
-
-### Type 2: Invasive Necrotrophic
-
-Hyphae of the parasite penetrate the cell wall and enter the host
-cell, showing considerable growth within the host hyphae. These are
-relatively unspecialized mycoparasites that tend to have a broader
-range of fungal hosts than biotrophic mycoparasites.
-
-Examples include:
-- [[talaromyces-flavus]]
-- [[schizophyllum-commune]]
-- Trichoderma species (among the most important biocontrol agents)
-- Many other unspecialized necrotrophic mycoparasites
-
-## Biotrophic Interfaces
-
-With biotrophic interfaces, the host cytoplasm remains healthy, at
-least initially. Biotrophs live in a balanced relationship with a
-living host, without causing it immediate, overt harm. They often form
-specialized infection structures and may have narrower host ranges than
-necrotrophs.
-
-### Type 3: Haustorial
-
-A short haustorial branch from the hypha of the parasite penetrates
-the hypha of a host. Haustoria are specialized absorbing organs that
-facilitate nutrient transfer from host to parasite while maintaining
-host viability. Around penetrating haustorial branches of Verticillium
-dahliae or [[fusarium-solani]] in the walls of sporangiophores of
+point of contact. Similar vacuolation induced by [[trichoderma-viride]], and [[talaromyces-flavus]]
+- [[fusarium-solani]] in the walls of sporangiophores of
 Mucorales and conidiophores of Aspergillus, callosities (wall
 thickenings) form, analogous to the defense reactions produced by
 plants against fungal infection.
 
 Examples include:
 - Mycoparasites among the Zygomycota and the Tremellales
-- [[sporidesmium-sclerotivorum]] parasitizing [[sclerotinia-sclerotiorum]]
+- [[sclerotinia-sclerotiorum]]
 - Various biotrophic mycoparasites that form specialized infection
   structures
 
@@ -109,38 +72,14 @@ Examples include:
 - Gonatobotrys simplex
 - Hansfordia parasitica
 - Melanospora zamiae and related fungi
-- Tetragoniomyces uliginosus on [[rhizoctonia-solani]]
-- Syzygospora pallida on Phanerochaete, which produce micropores in
-  their haustoria
-
-### Type 5: Intracellular
-
-The complete thallus of the mycoparasite enters a hypha of the host.
-This represents the most intimate form of fungal-fungal parasitism,
-where the entire body of the parasite exists within the host cell.
-
-Examples include:
-- Many species of Chytrids and some Oomycetes growing inside other
-  fungi
-- Intracellular endoparasitic chytrids and oomycetes
-
-## Intermediate and Variable Strategies
-
-Biotrophic and necrotrophic mycoparasites are not sharply delimited,
-and many intermediate forms exist. Rudakov (1978) assigned fungicolous
-species to six groups: biotrophs, facultative biotrophs, necrotrophs,
-facultative necrotrophs, semisaprophytic mycophiles, and saprophytic
-associates. Some mycoparasitic species change their behavior toward a
-host during the course of their development, and other species (e.g.,
-[[pythium-oligandrum]]) develop different types of contact structures on
+- Tetragoniomyces uliginosus on [[pythium-oligandrum]]) develop different types of contact structures on
 different hosts.
 
 Trophic relationships may also be host-dependent; many species grow
 as biotrophs on certain hosts but as necrotrophs on others. Hypomyces
 chrysospermus (anamorph Sepedonium chrysospermum), for example,
 always causes necrosis of mushroom host cells but can grow
-biotrophically inside the cells of fungi such as [[botrytis-cinerea]] and
-[[trichothecium-roseum]] when the latter colonize a mushroom it has
+biotrophically inside the cells of fungi such as [[trichothecium-roseum]] when the latter colonize a mushroom it has
 already parasitized.
 
 ## See Also

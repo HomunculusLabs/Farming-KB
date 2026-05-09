@@ -121,7 +121,5 @@ original Soma, preferring instead the unsatisfying Amanita muscaria.
 ## See Also
 
 - [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] - the Amanita case
-- [[mckenna-search-for-soma-vedic-enigma]] - the broader Soma mystery
 - [[mckenna-food-gods-peganum-harmala-soma]] - harmaline as Soma replacement
-- [[mckenna-vedic-soma-indo-european-mysteries]] - Indo-European migration context
 - [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]] - Wasson's Mexico work

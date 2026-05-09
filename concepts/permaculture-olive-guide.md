@@ -59,17 +59,65 @@ Method: Soak olives in fresh water, ensuring that they are fully immersed and ri
 
 ## Permaculture Integration
 
-- Extremely long-lived tree (2000+ years), making it a permanent [[permaculture-food-forest-design-principles]] element
-- Self-pollinating simplifies planting design
-- Drought tolerant and wind resistant -- ideal for [[permaculture-windbreak]] and [[permaculture-dryland-strategies]]
-- Oil production (18-25% of fruit weight) provides a valuable staple fat source
-- Salt tolerance allows planting near coastal sites
-- Very low fertiliser requirement reduces external inputs
-- Combine with [[carob]] and [[grape-growing-guide]] for a classic Mediterranean polyculture
-- Can be grafted with up to 5 varieties on one rootstock for extended harvest
-- Pair with [[permaculture-ground-cover-plants]] for soil protection
+- Extremely long-lived tree (2000+ years), making it a permanent [[permaculture-windbreak]] and [[carob]] and [[permaculture-ground-cover-plants]] for soil protection
 
+## Pruning and Training
+
+Olive trees require careful pruning during their early years to establish a
+strong framework, and regular maintenance pruning thereafter to maximise
+production. Young trees are typically trained to an open vase or modified
+central leader shape, removing competing leaders and encouraging 3-4 main
+scaffold branches well-spaced around the trunk.
+
+Mature olives are pruned annually after harvest, during late winter or early
+spring before new growth begins. The primary objectives are removing dead,
+diseased, or crossing branches; opening the canopy to improve light
+penetration and air circulation; and removing water shoots from the base.
+Olive trees fruit on one-year-old wood, so some annual regrowth is essential
+for continued production. Severe rejuvenation pruning can be used on neglected
+old trees, as olives readily sprout from dormant buds on old wood.
+
+## Harvesting Methods
+
+Olives are harvested at different stages depending on the intended product.
+Green olives for pickling are picked when they have reached full size but
+before any colour change begins, typically in early autumn. Turning olives
+(partially black) offer a balance of flavour and texture. Fully black, ripe
+olives produce the highest oil yield but lower-grade eating olives.
+
+Hand harvesting produces the highest quality fruit but is labour-intensive.
+Raking or beating branches with sticks causes fruit to fall onto nets spread
+beneath the tree, a common method for oil olives. Mechanical harvesters use
+vibrating clamps that grip the trunk or large branches, shaking fruit loose
+onto catching frames. For small-scale permaculture systems, hand picking is
+usually the most appropriate method given the typically modest number of trees.
+
+## Pest and Disease Management
+
+Olive trees are relatively pest-free compared to many fruit trees, but several
+issues require attention. Olive fruit fly (Bactrocera oleae) is the most
+significant pest worldwide, with larvae tunnelling through fruit and causing
+early drop and oil quality degradation. Monitoring with pheromone traps and
+bait sprays provides effective control in organic systems.
+
+Olive knot (Pseudomonas savastanoi) causes rough galls on branches and
+sometimes the trunk, entering through wounds from pruning or frost damage.
+Pruning during dry weather and applying copper-based sprays to pruning cuts
+helps prevent infection. Peacock spot (Cycloconium oleaginum) is a fungal leaf
+disease favoured by wet winters, causing circular dark spots on leaves and
+premature leaf drop. Adequate canopy airflow through proper pruning is the
+primary prevention strategy.
+
+Verticillium wilt is a serious soil-borne fungal disease that can kill olive
+trees, especially on former tomato or potato ground. Prevention through site
+selection and resistant rootstock is more effective than treatment once
+established. See [[permaculture-food-forest-design-principles]] adapted to Mediterranean
+climates.
+
+## Oil Grades and Quality Classification
+
+Olive oil quality is classified into several grades based on extraction method
+and chemical composition. Extra virgin olive oil is the highest grade, obtained
 ## Related
 
-- [[permaculture-pistachio-guide]]
 - [[holzer-fruit-tree-planting-method]]

@@ -1,7 +1,7 @@
 ---
 title: psilocybe-cyanescens Species Guide
 created: 2026-04-28
-tags: [mycology, psilocybe, species-guide, pacific-northwest]
+tags: [[mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
@@ -14,10 +14,7 @@ type: concept
 
 Wakefield, commonly known as "cyans," "blue
 halos," or the "wavy-capped Psilocybe," is a moderately to highly
-potent [[psilocybin-mushroom]] found throughout temperate regions of the
-world. Named for its distinctive wavy cap margin, this species is one
-of the most widely distributed active Psilocybes, ranging from the
-Pacific Northwest of North America across much of Europe. [[andrew-weil]]
+potent [[andrew-weil]]
 (1975, 1977) brought this mushroom to the forefront of awareness after
 collecting it in Oregon.
 
@@ -109,19 +106,7 @@ the lack of a distinct umbo. Other related species include,,,
 P. cyanescens is an important decomposer of woody debris in temperate
 coastal ecosystems. Its preference for wood chip mulch means it has
 expanded its range considerably alongside human landscaping practices.
-The species forms extensive [[mycelial-networks]] in enriched soils and can
-persist for years in established garden beds, fruiting prolifically
-each fall when temperatures drop and moisture increases.
-
-## Identification Tips for Foragers
-
-When identifying P. cyanescens in the field, the most reliable features
-are:
-- The characteristically wavy (undulating) cap margin in mature
- specimens
-- The caramel to chestnut brown cap coloration when moist
-- Strong bluing reaction upon handling or injury
-- Dark purplish brown [[spore-print]]
+The species forms extensive [[spore-print]]
 - Habitat in wood chips, sawdust, or woody garden debris
 
 Foragers should exercise extreme caution, as and
@@ -131,7 +116,6 @@ mushroom.
 
 ## See Also
 
-- [[stamets-psi-psilocybe-mexicana-species-guide]]
 - [[stamets-psi-psilocybe-cubensis-species-guide]]
 - [[stamets-psi-psilocybe-azurescens-species-guide]]
 

@@ -128,8 +128,6 @@ nourishing new growth at every point of contact.
 
 ## See also
 
-- [[bloomfield-history-of-mycology-pioneers]]
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
-- [[bloomfield-buller-experimental-mycology]]
 - [[bloomfields-orchard-history-of-mycology]]
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]

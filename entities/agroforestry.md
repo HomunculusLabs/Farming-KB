@@ -131,19 +131,11 @@ Agroforestry systems sequester **2–9 times more carbon** than equivalent conve
 - **Water infiltration:** Improved soil structure increases water infiltration by 2–10× compared to compacted agricultural soils
 ## See Also
 
-- [[silvopasture]] — Trees + livestock integration
 - [[food-forest]] — Edible perennial polyculture systems
-- [[hugelkultur]] — Raised-bed technique using woody debris
 - [[plant-guild]] — Functional plant groupings in permaculture
-- [[comfrey]] — Dynamic accumulator plant used in agroforestry
 - [[mycorrhizae]] — Symbiotic fungi critical to agroforestry tree-crop interactions
-- [[permaculture]] — Broader design framework incorporating agroforestry
 - [[epimedium-sagittatum]]
-- [[tabernaemontana-divaricata]]
 - [[rhizophagus-irregularis]]
-- [[punica-granatum]]
 - [[macrocybe-gigantea]]
-- [[coptis-chinensis]]
 - [[thuja-occidentalis]]
-- [[cistanche-tubulosa]]
 - [[ilex-guayusa]]

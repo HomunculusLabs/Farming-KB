@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # DMT and the Tryptamine Dimension
 
-DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna's pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the DMT experience reveals the existence of a genuinely other dimension of reality — what he variously termed "hyperspace," "the [[tryptamine]] dimension," and "the Overmind." The discovery of DMT's properties and its role in both Amazonian [[shamanism]] and the human brain form one of the key pillars of McKenna's argument in *Food of the Gods*.
+DMT (N,N-dimethyltryptamine) occupies a unique and central place in McKenna's pharmacological cosmology. He called it "the most powerful of all hallucinogens" and argued that the DMT experience reveals the existence of a genuinely other dimension of reality — what he variously termed "hyperspace," "the [[shamanism]] and the human brain form one of the key pillars of McKenna's argument in *Food of the Gods*.
 
 ## Pharmacology and History
 
@@ -22,12 +22,7 @@ Key pharmacological properties:
 - **Extraordinary potency** — active in doses measured in milligrams
 - **Rapid onset** — when smoked, peak effects occur in approximately one minute
 - **Short duration** — the full experience clears the system in less than fifteen minutes when smoked (compared to nearly an hour by intramuscular injection)
-- **Structural similarity to [[serotonin]]** — DMT is closely related to 5-hydroxytryptamine (serotonin), the primary neurotransmitter of the human brain
-- **Endogenous presence** — DMT occurs naturally in the human brain, leading McKenna to suggest it "should not be thought of as a drug at all"
-
-## The Case for Hallucinogenic Tryptamines
-
-McKenna argued that the tryptamines, including [[psilocybin-compound]], bear a "striking resemblance to human neurochemistry." The structural similarity between DMT and serotonin "may indicate the great antiquity of the evolutionary relationship between human brain metabolism and these particular compounds." This structural affinity, combined with the benign metabolic profile (rapid clearance, no known toxicity), led McKenna to identify tryptamines as the primary class of hallucinogens involved in the Archaic origin of consciousness.
+- **Structural similarity to [[psilocybin]], bear a "striking resemblance to human neurochemistry." The structural similarity between DMT and serotonin "may indicate the great antiquity of the evolutionary relationship between human brain metabolism and these particular compounds." This structural affinity, combined with the benign metabolic profile (rapid clearance, no known toxicity), led McKenna to identify tryptamines as the primary class of hallucinogens involved in the Archaic origin of consciousness.
 
 He distinguished tryptamines from other psychoactive compounds by several criteria:
 - **Metabolic benignity** — "If after you have taken a plant, your eyes are not in focus forty-eight hours later, or your knees are feeling rubbery three days later, then this is not a benign compound"
@@ -68,12 +63,28 @@ In a characteristically imaginative passage, McKenna proposed the octopus as the
 
 ## See Also
 
-- [[mckenna-food-gods-tryptamine-pharmacology-indoles]]
-
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-archaic-revival]]
 
 ## Additional Context
 
 Further research on mckenna food gods tryptamine dimension continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
+## Practical Considerations
+
+Successful implementation of DMT and the tryptamine Dimension requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

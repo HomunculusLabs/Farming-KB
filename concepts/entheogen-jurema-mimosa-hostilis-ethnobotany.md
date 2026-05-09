@@ -63,9 +63,8 @@ states of consciousness.
 
 Early chemical studies of Mimosa hostilis indicated the presence of
 an active alkaloid that was given the name nigerine, but this was
-later shown to be identical with N,N-dimethyltryptamine ([[dmt-and-ayahuasca-history]]).
-[[dmt-and-ayahuasca-history]] is a potent short-acting tryptamine hallucinogen that is also
-found in [[ayahuasca-botany-and-preparation]] admixture plants such as [[psychotria-viridis]]
+later shown to be identical with N,N-dimethyltryptamine ([[dmt-and-ayahuasca-history]] is a potent short-acting tryptamine hallucinogen that is also
+found in [[psychotria-viridis]]
 and in the resin of Virola species used as snuff.
 
 A significant pharmacological puzzle surrounds the jurema drink: since
@@ -84,7 +83,7 @@ by modern analytical methods.
 The mystery of how orally ingested jurema produces psychoactive effects
 remains unresolved. Several possibilities exist: the drink may have
 included admixture plants containing beta-carboline MAOIs similar to
-those found in [[banisteriopsis-caapi]] and [[peganum-harmala]]; the root
+those found in [[peganum-harmala]]; the root
 bark itself may contain as-yet-unidentified MAOI compounds; or the
 preparation method (possibly involving fermentation) may produce MAOI
 activity through chemical transformation of plant constituents.
@@ -124,11 +123,8 @@ ethnobotanists, chemists, and pharmacologists.
 
 ## See Also
 
-- [[jurema]]
-
 - [[mimosa-hostilis]]
 
-- [[voacanga-africana]]
 - [[kaempferia-galanga]]
 
 - [[schultes-mimosa-jurema-dmt-brazil]]

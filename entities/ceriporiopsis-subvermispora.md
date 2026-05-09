@@ -104,13 +104,8 @@ Strain improvement through mutagenesis and genetic engineering has been explored
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[phellinus-linteus]]
-- [[gloeophyllum-trabeum]]
 - [[irpex-lacteus]]
-- [[bjerkandera-adusta]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[fungal-ecology-mycoremediation]]
 - [[coriolopsis-polyzona]]
-- [[trametes-trogii]]
 - [[enzymatic-degradation-in-mycoremediation]]

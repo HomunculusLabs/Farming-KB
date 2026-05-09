@@ -19,18 +19,7 @@ Estimating the diversity of fungal parasites on living plants
 is one of the most challenging problems in mycology. Fungi
 that attack healthy, living plant tissues (as distinct from
 saprobes that colonize dead organic matter) represent a major
-component of [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], yet
-their true species richness remains poorly constrained.
-Estimates vary by orders of magnitude depending on the methods
-and assumptions used.
-
-## Categories of Fungal Plant Parasites
-
-Fungal parasites on living plants span a broad range of
-trophic strategies and taxonomic affiliations:
-- **Obligate biotrophs** -- require living host tissue;
-  include [[rust-fungi-biodiversity-life-cycles]], [[smut-fungi-grass-cereal-parasites]], and
-  [[biodiversity-powdery-mildews]]
+component of [[rust-fungi-biodiversity-life-cycles]], [[biodiversity-powdery-mildews]]
 - **Hemibiotrophs** -- initially biotrophic then switch to
   a necrotrophic phase; many species in this category
 - **Necrotrophs** -- kill host tissue before colonizing it
@@ -76,42 +65,8 @@ diversity:
   5,000 host species; one of the best-surveyed groups
 - **Smuts** -- approximately 1,500 described species with
   perhaps 4,000-5,000 total
-- [[biodiversity-powdery-mildews]] -- approximately
-  400 described species on 9,800+ host species
-- downy mildews -- approximately 300
-  described species in the Oomycota
-- **Anthracnose fungi** (Colletotrichum) -- numerous
-  species with wide host ranges
-- **Leaf-spotting fungi** -- thousands of species in genera
-  such as Cercospora, Phyllosticta, Septoria, and
-  Alternaria
-
-## Known Diversity of Foliar Fungi
-
-The foliage of living plants supports an extraordinarily
-diverse fungal community. [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]],
-[[sooty-molds-black-mildews-tropical-foliar-fungi]], and fly-speck fungi colonize
-leaf surfaces, while endophytic and pathogenic fungi inhabit
-internal leaf tissues. On living plant leaves, the common
-colonizers include species of Alternaria, Cladosporium,
-Botrytis, Epicoccum, and Stemphylium, many of which are
-pigmented and adapted to the leaf-surface environment.
-Leaf-colonizing fungi in temperate regions tend to be more
-numerous on lower leaves and on more peripheral leaves in
-the canopy. Fungal growth is often better on the abaxial
-(lower) than on the axial (upper) leaf surface because the
-former is more sheltered and has a higher number of stomata.
-
-## Host Range Patterns
-
-Host range varies dramatically among groups of fungal
-parasites:
-- **Highly specific** -- rusts and powdery mildews are often
-  restricted to one or a few closely related host species
-- **Moderately specific** -- many leaf-spotting fungi infect
-  species within a single plant family
-- **Broad host range** -- some necrotrophic pathogens and
-  [[nonsystemic-endophytic-fungi-nongrass-hosts]] infect hosts across multiple plant families
+- [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]],
+[[nonsystemic-endophytic-fungi-nongrass-hosts]] infect hosts across multiple plant families
 The degree of host specificity directly affects diversity
 estimates. If most species are host-specific, then each new
 host species surveyed will yield new fungal species. If most

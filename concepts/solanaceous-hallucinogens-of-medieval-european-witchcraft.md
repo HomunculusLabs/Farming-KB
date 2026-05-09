@@ -87,15 +87,7 @@ dry mouth, dilated pupils, blurred vision, tachycardia, amnesia, and
 characteristically vivid hallucinations. Users often report the
 sensation of flight, which may explain the widespread folklore of
 witches flying to sabbaths. The hallucinations under tropane influence
-are distinct from those of psilocybin or [[hofmann-lsd-pharmacology-and-effects]] in that they are often experienced as real rather than
-recognized as drug-induced, and they are frequently accompanied by
-complete amnesia of the experience.
-
-## Historical Significance
-
-The several solanaceous ingredients of medieval witches' brews greatly
-influenced the course of European history through the witch trials and
-persecutions. The [[european-witchcraft-hallucinogenic-plants]] of these plants, combined with their toxicity, created a
+are distinct from those of psilocybin or [[european-witchcraft-hallucinogenic-plants]] of these plants, combined with their toxicity, created a
 body of folklore and fear that persisted for centuries and resulted in
 the execution of thousands of accused witches.
 
@@ -126,8 +118,6 @@ on dosage and context.
 
 ## See Also
 
-- [[european-witchcraft-hallucinogenic-plants]]
 - [[hallucinogenic-plants-history-ethnobotany]]
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[datura-metel-old-world-ethnobotany]]
 - [[iboga-and-the-bwiti-cult-initiation]]

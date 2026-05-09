@@ -38,10 +38,7 @@ fungal identification and quantification.
 Monoclonal antibodies to Postia placenta using extracellular culture
 filtrates were first produced in 1986. Monoclonal antibodies have since
 been developed to detect fungal metabolites such as manganese peroxidase
-(MnP) in wood by [[phanerochaete-chrysosporium]] and polyclonal antibodies
-for laccase by Lentinula (Lentinula) edodes. Monoclonal antibodies to
-whole-cell mycelial extracts and extracellular antigen extracts of
-[[serpula-lacrymans]] have been produced for brown-rot detection.
+(MnP) in wood by [[serpula-lacrymans]] have been produced for brown-rot detection.
 
 ### Assay Techniques
 
@@ -105,7 +102,7 @@ and quantification of fungal DNA from soil substrates.
 New specific primers have been developed for amplifying rDNA from all
 major classes of fungi in soil. Detection and quantification of fungal
 DNA involve specific primers targeting fragments from the SSU rRNA gene
-region of [[glomus-intraradices]] and from the [[fusarium-solani]] translation
+region of [[fusarium-solani]] translation
 elongation factor 1 alpha gene. Primers AR1 and AR2 are used to amplify
 specific parts of the ITS region of Armillaria isolated from soil samples.
 
@@ -122,27 +119,6 @@ followed by agarose gel electrophoresis or microchip electrophoresis.
 
 Restriction fragment length polymorphism (RFLP) analysis of PCR-amplified
 rDNA has been used to characterize tropical wood-decaying fungi and to
-distinguish isolates of [[trametes-versicolor]] at the species and
-subspecies levels. A basidiomycete-specific primer system in conjunction
-with RFLP analysis is both selective and specific in detecting white-rot
-and brown-rot fungi, serving as a potential tool for studying fungal
-colonization and wood degradation.
+distinguish isolates of [[harbhajan-singh]]
 
-### In Situ Hybridization
-
-In situ hybridization can assist in the rapid and accurate identification
-of filamentous fungi in histologic tissue sections. DNA probes are
-directed against the 5S or 18S ribosomal RNA sequences, providing
-species-level identification capability for complex environmental samples.
-
-## Biosensor Applications
-
-Biosensors have potential applications in monitoring processes of
-wastewater treatment, measuring the status of habitats in situ, and
-studying microbial gene regulation. Enzyme-based biosensors involve
-## See Also
-
-- [[harbhajan-singh]]
-
-- [[artillery-fungus-and-built-environment-fungi]]
 - [[biodiversity-fungi-molecular-methods]]

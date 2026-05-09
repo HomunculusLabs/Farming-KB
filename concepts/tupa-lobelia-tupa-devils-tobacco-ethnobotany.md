@@ -139,11 +139,8 @@ European contact by many centuries.
 
 ## See Also
 
-- [[lobeline]]
+- lobeline
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[keule-gomortega-keule-chilean-entheogen]]
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
 - [[taique-desfontainia-hookeri-andean-shrub]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[golden-guide-datura-and-nightshade-deliriants]]

@@ -17,7 +17,7 @@ sources:
 Organic gardeners approach fertilization differently than conventional growers.
 Rather than applying concentrated chemical salts in exact NPK ratios, organic
 practice relies on natural materials that release nutrients slowly through
-biological [[decomposition]], feed the [[soil-food-web]], and build long-term soil
+biological [[soil-food-web]], and build long-term soil
 fertility. Understanding the nutrient profiles, release rates, and
 soil-building properties of different organic fertilizer sources allows
 gardeners to match materials to specific plant needs and soil conditions.

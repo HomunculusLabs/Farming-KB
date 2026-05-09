@@ -134,8 +134,6 @@ The key insight is that a diverse cover crop community performs functions that n
 
 ## Connection to Other Concepts
 
-- [[fukuoka-ladino-clover-ground-cover-management|Ladino Clover Ground Cover Management]]
 - [[fukuoka-natural-alfalfa-black-wattle-ground-cover|Natural Alfalfa and Black Wattle Ground Cover]]
-- [[fukuoka-citrus-orchard-ground-cover-cultivation|Citrus Orchard Ground Cover Cultivation]]
 - [[fukuoka-ground-cover-strategy|Ground Cover Strategy]]
 - [[fukuoka-three-dimensional-orchard-design|Three-Dimensional Orchard Design]]

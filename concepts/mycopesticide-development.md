@@ -71,19 +71,11 @@ Most mycopesticidal patents target an insect species using a fungus strain, with
 
 ## See Also
 
-[[mycofiltration-of-pathogens]]
-
 [[cordyceps-and-entomopathogenic-fungi]]
 
-[[mycopesticides-stamets]]
-
-[[mushroom-cultivation-fundamentals]]
-
-[[mycoforestry-practices]]
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 [[fungal-ecology]]
-
-[[bioremediation-fungal-vs-bacterial]]
 
 [[mycofiltration-of-pathogens]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

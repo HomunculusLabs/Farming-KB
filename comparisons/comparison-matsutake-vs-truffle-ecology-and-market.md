@@ -9,23 +9,7 @@ tags:
   - mycorrhizal
   - comparison
   - food-forest
-  - [[agroforestry]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - https://www.nature.com/articles/ncomms12003
-  - Tsing, A.L. (2015). The Mushroom at the End of the World. Princeton University Press.
-  - https://doi.org/10.1016/j.funeco.2019.100873
-  - Hall, I.R. et al. (2007). Edible Ectomycorrhizal Mushrooms. Springer.
-  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/tuber-melanosporum
-created: 2026-05-07
-type: comparison
----
-# Matsutake vs Truffle: Ecology and Market Comparison
-
-## At a Glance
-
-| Feature | Matsutake (*[[tricholoma-matsutake]]*) | Truffltuber-melanosporumorum*, *T. magnatum*) |
+  - [[tricholoma-matsutake]]*) | Truffltuber-melanosporumorum*, *T. magnatum*) |
 |---|---|---|
 | **Type** | Epigeous (abovefruiting-body-developmenting body) | Hypogeous (below-ground fruiting body) |
 | **Mycorrhizal type** | Ectomycorrhizal | Ectomycorrhizal |
@@ -45,7 +29,7 @@ type: comparison
 
 **Matsutake** associates almost exclusively with conifers — pines (*Pinus densiflora*, *P. sylvestris*, *P. ponderosa*), firs (*Abies* spp.), and Douglas-fir (*Pseudotsuga menziesii*). It prefers acidic, nutrient-poor soils and is strongly associated with forest disturbance — fire, drought, pest outbreaks, and declining forest vigor.
 
-**Truffles** associate primarily with broadleaf trees — oaks (*Quercus pubescenscorylus-avellanahazelnuts (*[[corylus-avellana]]*), and beech (*[[fagus-sylvatica]]*). They prefer calcareous (alkaline) soils with good drainage and moderate fertility. Truffles thrive in managed orchards (trufferies) where host trees are planted at controlled spacing.
+**Truffles** associate primarily with broadleaf trees — oaks (*Quercus pubescenscorylus-avellanahazelnuts (*[[fagus-sylvatica]]*). They prefer calcareous (alkaline) soils with good drainage and moderate fertility. Truffles thrive in managed orchards (trufferies) where host trees are planted at controlled spacing.
 
 **Key difference**: Matsutake is a creature of coniferous, acidic, disturbed forests; truffles are creatures of broadleaf, alkaline, managed landscapes.
 
@@ -132,16 +116,7 @@ Truffles benefit from established geographic indication systems — Périgord bl
 
 | Factor | Matsutake | Truffle |
 |--------|-----------|---------|
-| **Integrability** | Limited — requires specific forest conditions and conifer hosts | Moderate — can be integrated into [[food-forest]] s with oak/hazel plantings |
-| **Management intensity** | Low (mostly protection and sustainable harvest) | Moderate to high (soil management, irrigation, pruning) |
-| **Yield reliability** | Low and unpredictable | Moderate and improving with cultivation |
-| **Time to production** | Decades (natural establishment) | 5–10 years (cultivated orchards) |
-| **Revenue potential** | High per unit but unreliable | Moderate to high per unit, more reliable |
-| **Co-benefits** | Forest conservation, cultural preservation, NTFP income | Agroforestry diversification, soil health, carbon sequestration |
-
-## Summary: Which Is Right for Your System?
-
-- **Choose truffle cultivation** if you have calcareous soils, suitable climate zones (Mediterranean or temperate), space for long-term tree plantings, and patience for a 5–10 year establishment period. Truffle cultivation is the more practical option for intentional integration into [[permaculture]] or agroforestry systems.
+| **Integrability** | Limited — requires specific forest conditions and conifer hosts | Moderate — can be integrated into [[permaculture]] or agroforestry systems.
 
 - **Focus on matsutake stewardship** if you manage or have access to coniferous forest land in suitable climates. Rather than attempting cultivation, focus on maintaining habitat conditions — open canopy, acidic soils, periodic disturbance — that support natural matsutake populations. The economic opportunity comes from sustainable wild harvesting, not cultivation.
 

@@ -139,12 +139,8 @@ inflammatory skin conditions.
   (discard the water to remove bitterness).
 - **Soil building:** When slashed and used as mulch, the nutrient-rich
   foliage returns accumulated minerals to the soil surface.
-
 ## See Also
 
-- [[arctium-lappa]] — Greater burdock, the primary commercial species
 - [[symphytum-officinale]] — Comfrey, another dynamic accumulator
-- [[taraxacum-officinale]] — Dandelion, a complementary deep-rooted
-  medicinal weed
 - [[urtica-dioica]] — Nettle, shares habitat and medicinal uses
 - [[plantago-major]] — Plantain, common medicinal "weed"

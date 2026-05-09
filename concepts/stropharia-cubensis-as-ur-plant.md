@@ -116,10 +116,6 @@ higher cultural levels and individual self-awareness.
 
 ## See Also
 
-- [[stropharia-ambigua]]
-
 - [[psilocybin-in-human-evolution]]
-- [[shamanic-ecstasy-and-techniques]]
 - [[neurotropic-fungi-classification]]
-- [[exopheromones-and-cross-species-communication]]
 - [[psilocybin-chemistry-and-pharmacology]]

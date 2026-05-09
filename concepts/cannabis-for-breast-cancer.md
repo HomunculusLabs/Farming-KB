@@ -64,21 +64,11 @@ CBD has emerged as the most potent individual anti-breast cancer cannabinoid. CB
 
 ## Safety Considerations
 
-Breast cancer patients are often on multiple treatments including chemotherapy, radiation, and hormonal therapies. Cannabis may interact with these treatments. See [[cannabis-drug-interactions-and-contraindications]] for detailed interaction information. Cannabis should be used as a complementary approach alongside, not as a replacement for, conventional cancer treatment.
-
-## Related Topics
-
-- [[cannabis-for-cancer-patients]] for broader cancer applications
-
-- [[cannabis-cancer-symptom-management]] for symptom palliation
+Breast cancer patients are often on multiple treatments including chemotherapy, radiation, and hormonal therapies. Cannabis may interact with these treatments. See [[cannabis-for-cancer-patients]] for broader cancer applications
 
 - [[cannabis-for-chemotherapy-nausea]] for treatment side effects
 
-- [[cannabis-cbd-therapeutic-profile]] for CBD anti-cancer properties
-
 - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms
-
-- [[cannabis-womens-health]] for women's health context
 
 - [[cannabis-health-index]] for the CHI methodology
 

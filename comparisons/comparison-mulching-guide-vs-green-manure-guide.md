@@ -20,37 +20,6 @@ through different mechanisms, require different management, and suit different
 situations in the garden calendar.
 
 ## Mulching
-[[mulching-guide]]
-Mulch is any material spread over the soil surface: wood chips, straw,
-shredded leaves, grass clippings, cardboard, newspaper, or pine needles. It
-works primarily as a physical barrier that conserves moisture (reducing
-evaporation), moderates soil temperature (keeping roots cooler in summer and
-warmer in winter), suppresses weed germination (by blocking light), and slowly
-feeds soil biology as it decomposes from the top down.
-
-Different mulch materials serve different purposes. Wood chips are long-
-lasting (1 to 3 years), excellent for moisture retention, and feed fungal
-networks; they are best for perennial beds, pathways, and fruit trees. Straw
-is light, easy to spread, breaks down in one season, and is best for vegetable
-gardens and annual beds. Shredded leaves are free, nutrient-rich, and
-excellent for general garden use; run over leaves with a lawnmower to shred
-them and prevent matting. Grass clippings are high in nitrogen and break down
-fast, but must be applied in thin layers to prevent anaerobic conditions.
-Cardboard and newspaper provide excellent weed suppression for establishing
-new beds. Pine needles are slightly acidic and suit acid-loving plants like
-blueberries.
-
-Mulch is fundamentally a no-till practice: it is laid on top of soil and never
-mixed in. This preserves soil structure, protects earthworm burrows, and
-maintains fungal networks that tilling disrupts. The nitrogen tie-up concern
-with carbon-rich mulches is largely a surface phenomenon; when mulch is laid
-on top rather than tilled in, the nitrogen consumption by decomposing microbes
-is concentrated at the mulch-soil interface, not in the root zone. The
-seasonal mulching cycle involves pulling back winter mulch in spring to let
-soil warm, maintaining 3 to 4 inches during summer, applying heavy mulch in
-fall after cleanup, and leaving all mulch in place through winter.
-
-## Green Manure
 [[green-manure-guide]]
 Green manure is a crop grown specifically to be dug into the soil, adding
 organic matter and nutrients during fallow periods. The practice involves
@@ -126,7 +95,5 @@ without disturbance. This approach is central to many permaculture and no-till
 farming systems.
 
 ## See Also
-- [[cover-crops]] — broader cover crop reference beyond green manures
 - [[composting]] — converting mulch and green manure residues into finished compost
-- [[composting-and-soil-biology]] — mulch-based growing systems
 - [[crop-rotation-principles]] — integrating green manures into rotation plans

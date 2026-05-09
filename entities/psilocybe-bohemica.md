@@ -42,7 +42,7 @@ Successfully cultivated by [[jochen-gartz]] on damp rice substrate. Key findings
 - Cultivated specimens appeared **much hardier** than wild-collected fruiting bodies
 - Some cultivated specimens developed **two annular rings** — unusual for the species
 - Fruitng required exposure to **cold temperature shock** to trigger
-- Mycelial growth rate is faster than *[[psilocybe-semilanceata]]* but comparable to *[[gymnopilus-purpuratus]]*
+- Mycelial growth rate is faster than *Psilocybe semilanceata* but comparable to *Gymnopilus purpuratus*
 
 ## Psychoactive Properties
 
@@ -83,8 +83,6 @@ Controlled clinical trials in Prague documented the species' psychoactive effect
 - **1986 (November 11)**: [[jochen-gartz]] and Herink conducted joint mycological field research at the type locality, confirming extensive natural fruiting
 
 ## See Also
-
-- [[verpa-bohemica]]
 
 - [[european-psilocybin-species]] — Other European psychoactive mushroom species
 - [[psilocybin-bluing-reaction]] — Detailed biochemistry of the bluing phenomenon

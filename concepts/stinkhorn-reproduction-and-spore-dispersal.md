@@ -129,21 +129,5 @@ Flies are the usual vectors for spore dispersal, but ants and stingless bees hav
 
 ## The Gasteromycetes
 
-Along with the stinkhorns and cage fungi, other organisms within the gasteromycete section of the basidiospore-producing fungi have evolved a circus of mechanisms for dispersing their spores.
-
-Adapting an image from Richard Dawkins, baby stinkhorns use insect wings to fly, just as plant seeds use bird feathers for transport.
-
-Bird's nest fungi produce tiny cup-shaped fruiting bodies containing packets of spores called peridioles.
-
-Raindrops splash the peridioles from these cups onto surrounding blades of grass.
-
-Unsuccessful spores, those destined for a swift passage, wait, and wait longer, until a passing herbivore grazes the grass and carries them to a new location.
-
-Other gasteromycetes employ a trampoline mechanism — a spore ball launched from a cup-shaped structure by the impact of a falling raindrop.
-
-The spore balls stick to surrounding vegetation, where they may be eaten by herbivores.
-## See Also
-
-- [[agaricus-campestris-morphology-and-life-cycle]] — The more conventional gilled mushroom life cycle
-- [[cordyceps-insect-pathogenic-fungi]] — Another remarkable fungal-insect interaction
+Along with the [[agaricus-campestris-morphology-and-life-cycle]] — The more conventional gilled [[cordyceps-insect-pathogenic-fungi]] — Another remarkable fungal-insect interaction
 - [[fungal-melanin-and-pathogenicity]] — Fungal adaptations for survival

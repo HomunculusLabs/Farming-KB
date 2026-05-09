@@ -14,9 +14,7 @@ sources:
 type: concept
 ---
 
-# American Indian Peyote Rituals
-
-The peyote cactus ([[lophophora-williamsii]]), containing the psychoactive
+# American Indian [[lophophora-williamsii]]), containing the psychoactive
 alkaloid mescaline, has one of the most extensively documented histories
 of ceremonial use of any hallucinogenic plant. From its ancient roots in
 indigenous Mexican cultures to its adoption by the Native American Church
@@ -97,22 +95,8 @@ for witchcraft and love magic.
 
 The Mescalero case contrasts with the amiable, harmonious group sessions
 of peyote use in other North American tribes and with the similarly
-communal use of [[harner-ayahuasca-shamanism-amazon]] among
-the Amazonian Cashinahua and Sharanahua. The case illustrates the
-importance of personality and culture in affecting the impact of
-hallucinogenic experiences and of the experience itself in triggering
-social behavior already latently possible.
-
-## Broader Amazonian and Mesoamerican Context
-
-Beyond the Native American Church, hallucinogenic plant use is
-integrated into supernatural practices across the Americas. The
-common denominator in indigenous hallucinogen use is that it typically
-serves serious supernatural purposes rather than recreation. Shamans
-take these substances to perceive the supernatural world, contact
-particular entities, and affect their behavior. The alkaloids involved,
-including mescaline, psilocybin, and DMT, are structurally related
-indole or phenethylamine derivatives, all acting on serotonin
+communal use of [[psilocybin]], and DMT, are structurally related
+[[serotonin]]
 receptors in the brain to produce their characteristic effects.
 
 ## Legacy and Legal Status
@@ -129,5 +113,4 @@ authorities and native spiritual practices that date back centuries.
 
 ## See Also
 
-- [[harner-mescalero-peyote-shamanism]]
-- [[ethnomycology]]
+- [[ethnomycology-as-discipline]]

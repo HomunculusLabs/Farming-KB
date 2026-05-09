@@ -9,13 +9,7 @@ tags: [psilocybin, mushrooms]
 
 # Psilocybin Tolerance and Cross-Tolerance
 
-[[query-what-is-the-difference-between-psilocybin-and-psilocin]] develops tolerance rapidly -- one of the most clinically significant pharmacological properties of the compound and one that has important implications for both recreational use and clinical research. Gartz's research confirms and extends the earlier findings about tolerance development, including the critical observation that clinical trials must space administrations at least one week apart to avoid tolerance-related reduction of effects.
-
-## Mechanism of Tolerance
-
-### Serotonin Receptor Downregulation
-
-Psilocybin (through its active metabolite [[query-what-is-the-difference-between-psilocybin-and-psilocin]]) acts primarily as an agonist at the 5-HT2A serotonin receptor. With repeated administration, the brain responds by:
+[[query-what-is-the-difference-between-psilocybin-and-psilocin]]) acts primarily as an agonist at the 5-HT2A serotonin receptor. With repeated administration, the brain responds by:
 
 1. **Receptor downregulation** -- Reducing the number of available 5-HT2A receptors
 2. **Receptor desensitization** -- Making existing receptors less responsive
@@ -47,39 +41,7 @@ Gartz confirms that clinical trials using psilocybin must space administrations 
 
 ### European Psycholytic Therapy Practice
 
-In European [[swiss-psycholytic-therapy-1988-1993]], practitioners developed protocols that respected tolerance dynamics:
-
-- Low-dose sessions could be spaced closer together (but still showed diminished effects)
-- High-dose sessions required at minimum one week between administrations
-- Some protocols used increasingly spaced intervals (one week, two weeks, one month)
-- The progressive spacing allowed integration of each experience before the next
-
-## Cross-Tolerance
-
-### LSD Cross-Tolerance
-
-Psilocybin exhibits significant cross-tolerance with lsd-history|LSD and other classical psychedelics that act on the 5-HT2A receptor. This means that:
-
-- A person who has recently taken LSD will have reduced sensitivity to psilocybin
-- A person who has recently taken psilocybin will have reduced sensitivity to LSD
-- The cross-tolerance is bidirectional and roughly equivalent in magnitude
-
-The cross-tolerance between psilocybin and LSD was one of the key pieces of evidence that both compounds share a common mechanism of action at serotonin receptors.
-
-### Other Psychedelics
-
-Cross-tolerance extends to other 5-HT2A agonists:
-
-- **Mescaline** -- Partial cross-tolerance (mescaline also acts on other receptor systems)
-- **DMT** -- Partial cross-tolerance (shorter duration means faster recovery)
-- **DOB, DOI** -- Full cross-tolerance (these are also 5-HT2A agonists)
-- **MDA/MDMA** -- Minimal cross-tolerance (these act primarily on serotonin release rather than receptors)
-
-### What Does NOT Show Cross-Tolerance
-
-Importantly, psilocybin does NOT show significant cross-tolerance with:
-
-- [[amanita-muscaria-pharmacology-dosing-guide]] (muscimol acts on GABA receptors, not serotonin)
+In European [[amanita-muscaria-pharmacology-dosing-guide]] (muscimol acts on GABA receptors, not serotonin)
 - Dissociatives (ketamine, PCP -- act on NMDA receptors)
 - Cannabinoids (act on CB1/CB2 receptors)
 - Opioids (act on mu-opioid receptors)
@@ -123,11 +85,7 @@ Albert Hofmann noted the rapid development of tolerance in his earliest self-exp
 
 ### The Sandoz Research Program
 
-During the [[sandoz-psilocybin-distribution-program]], researchers at multiple institutions independently confirmed the tolerance profile. The consistency of these findings across different research groups helped establish the reliability of the observation.
-
-### Leary's Harvard Experiments
-
-At Harvard, [[timothy-leary-harvard-psilocybin-experiments]] initially used frequent dosing schedules before adjusting to account for tolerance. The Harvard group's experience with tolerance contributed to the development of more systematic dosing protocols.
+During the [[timothy-leary-harvard-psilocybin-experiments]] initially used frequent dosing schedules before adjusting to account for tolerance. The Harvard group's experience with tolerance contributed to the development of more systematic dosing protocols.
 
 ## Tolerance vs. Addiction
 

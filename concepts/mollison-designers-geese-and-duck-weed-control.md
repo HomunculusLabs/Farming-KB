@@ -70,38 +70,7 @@ waterways, and wetland areas:
   aquatic vegetation and insects
 
 **Pond integration:**
-- Ducks in [[mollison-designers-dam-construction-and-water-storage]]
-  provide multiple functions: weed control, insect control, manure for
-  pond fertility (feeding phytoplankton and fish), and egg production
-- Their dabbling action oxygenates surface water and disturbs sediment,
-  releasing nutrients into the water column
-- Duck manure increases pond productivity for fish and aquatic plants
-  without the eutrophication risk of chemical fertilisers
-
-**Rice paddy integration:**
-- Ducks have been used in Asian rice paddies for millennia as weeders,
-  insect controllers, and fertilisers
-- The traditional aigamo system (Japan) uses duck-rice integration to
-  eliminate the need for herbicides and pesticides
-- Mollison advocates adapting these techniques for small-scale rice and
-  taro production in permaculture systems
-
-**Species selection:**
-- Muscovy ducks (Cairina moschata): Best foragers, quiet, excellent
-  insect control, adaptable to diverse conditions
-- Khaki Campbell: Prolific egg layers, good foragers, hardy in cool
-  climates
-- Indian Runner: Active foragers, good at controlling slugs and snails
-  in garden areas
-
-## Housing and Management
-
-- Geese require minimal housing -- simple three-sided shelters suffice
-  in most climates
-- Ducks need access to water for foraging, mating, and feather maintenance
-- Both species can be herded between work areas using temporary fencing
-- Night housing protects against predators (foxes, owls, feral dogs)
-- Pair geese or ducks with [[mollison-designers-poultry-forage-design-pastured-systems]]
+- Ducks in [[mollison-designers-poultry-forage-design-pastured-systems]]
   for comprehensive vegetation management across the farm
 
 ## Integration with Farm Systems
@@ -111,6 +80,5 @@ grass competition; ducks manage aquatic vegetation. Together with chickens
 (who manage insects and weed seeds), they provide complete vegetation and
 pest management for the integrated farm.
 
-See also: [[mollison-designers-free-range-forage-design-principles]],
-[[mollison-designers-small-forest-farm-cool-humid-layout]],
+See also: [[mollison-designers-small-forest-farm-cool-humid-layout]],
 [[permaculture-aquaculture-design]]

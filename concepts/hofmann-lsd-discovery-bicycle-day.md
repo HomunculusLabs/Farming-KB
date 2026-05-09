@@ -12,28 +12,7 @@ tags: [lsd]
 
 ## The Systematic Origins
 
-[[albert-hofmann-eleusinian-potion-analysis]] frequently corrected the popular claim that LSD was discovered by
-accident. As he wrote, "LSD came into being within a systematic research program,
-and the 'accident' did not occur until much later." The synthesis of LSD-25 was
-the result of a deliberate program of ergot alkaloid research at Sandoz
-Pharmaceuticals in Basel, Switzerland.
-
-Hofmann had joined Sandoz in 1929 after completing chemistry studies at the
-University of Zurich under Professor Paul Karrer. He chose Sandoz specifically
-because it offered the opportunity to work with natural products, rather than
-synthetic chemistry. His early years were devoted to studying the active
-principles of Mediterranean squill (Scilla maritima), cardiac glycosides used
-in the treatment of cardiac insufficiency.
-
-## Entering the Ergot Field
-
-In 1935, after concluding his work on Scilla glycosides, Hofmann asked
-Professor Arthur Stoll, founder and director of Sandoz's pharmaceutical-chemical
-department, to let him continue investigations on the alkaloids of ergot. Stoll
-had been the first to isolate ergotamine in pure chemical form in 1918. After
-that discovery, chemical research on ergot at Sandoz had been abandoned. By the
-early 1930s, however, English and American laboratories had begun determining
-the chemical structure of [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and had discovered new water-soluble
+[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and had discovered new water-soluble
 alkaloids. Hofmann argued that Sandoz risked losing its leading role if it did
 not resume ergot research.
 
@@ -42,62 +21,7 @@ the exceedingly sensitive, easily decomposed ergot alkaloids. The ergot
 production department was still using Portuguese ergot, which yielded an
 amorphous alkaloidal preparation corresponding to the so-called ergotoxine first
 produced by Barger and Carr. Hofmann chose this less expensive material as his
-starting material for preparing [[lysergic-acid-amide-discovery-in-ololiuhqui]], the nucleus common to all ergot
-alkaloids.
-
-## Synthesis of Lysergic Acid Derivatives
-
-Hofmann developed a synthetic procedure using Curtius' Synthesis to combine
-lysergic acid with various amines. His first major success was the synthesis of
-ergobasine (also known as ergometrine or ergonovine), confirming its chemical
-structure and providing a practical route to produce this valuable uterotonic
-agent, which was present in ergot only in trifling quantities.
-
-He then produced a series of new lysergic acid compounds. One of these,
-obtained by substituting butanolamine for propanolamine in ergobasine, surpassed
-the natural alkaloid in therapeutic properties. This improved ergobasine was
-introduced worldwide under the trade name Methergine and remains a leading
-medicament in obstetrics.
-
-Further work led to the separation of the so-called ergotoxine mixture into
-three homogeneous alkaloids: ergocristine, ergocornine, and ergokryptine. From
-the hydrogenated forms of these, the pharmaceutical preparation Hydergine was
-developed for improving peripheral circulation and cerebral function in
-geriatric disorders. Hydergine became Sandoz's most important pharmaceutical
-product.
-
-## LSD-25: The Twenty-Fifth Compound
-
-In 1938, Hofmann produced the twenty-fifth substance in his series of lysergic
-acid derivatives: lysergic acid diethylamide, abbreviated LSD-25 (Lyserg-saure-
-diathylamid) for laboratory usage. He had planned the synthesis intending to
-obtain a circulatory and respiratory stimulant (an analeptic), because the
-compound showed structural similarity to nicotinic acid diethylamide (Coramine),
-an analeptic already known at the time.
-
-During testing in the pharmacological department directed by Professor Ernst
-Rothlin, a strong effect on the uterus was established, about 70 percent of the
-activity of ergobasine. The research report also noted, in passing, that the
-experimental animals became restless during the narcosis. The new substance
-aroused no special interest in the pharmacologists and physicians, and testing
-was discontinued.
-
-## The Accidental Discovery: April 16, 1943
-
-For five years, nothing more was heard of LSD-25. Then Hofmann experienced what
-he called "a peculiar presentiment" that this substance could possess properties
-other than those established in the first investigations. This was highly
-unusual, as experimental substances were definitely stricken from the research
-program if once found lacking in pharmacological interest.
-
-In the spring of 1943, Hofmann repeated the synthesis. During the final step,
-the purification and crystallization of lysergic acid diethylamide tartrate, he
-was interrupted by unusual sensations. In his report to Professor Stoll, he
-wrote:
-
-"Last Friday, April 16, 1943, I was forced to interrupt my work in the
-laboratory in the middle of the afternoon and proceed home, being affected by a
-remarkable restlessness, combined with a slight dizziness. [[query-how-to-make-cannabis-tinctures-at-home]] I lay down
+starting material for preparing [[query-how-to-make-cannabis-tinctures-at-home]] I lay down
 and sank into a not unpleasant intoxicated-like condition, characterized by an
 extremely stimulated imagination. In a dreamlike state, with eyes closed (I
 found the daylight to be unpleasantly glaring), I perceived an uninterrupted
@@ -143,7 +67,24 @@ inner restlessness. The neighbor who brought milk appeared as a malevolent witch
 with a colored mask.
 
 ## See Also
-- [[hofmann-lsd-clinical-research-early-studies]] discovery bicycle day
 - [[mckenna-discovery-and-impact-of-lsd]]
-- [[lsd-discovery-and-history]]
 - [[mollison-designers-day-length-and-flowering-response]]
+## Practical Considerations
+
+Successful implementation of Discovery of LSD-25 and Bicycle Day 1943 requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

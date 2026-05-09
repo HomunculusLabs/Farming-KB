@@ -5,15 +5,7 @@ updated: 2026-04-24
 sources: "James Arthur, Mushrooms and Mankind"
 wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-christmas-tree-amanita-muscaria arthur-phallic-symbolism-mushrooms arthur-mushroom-iconography-medieval-europe"
 type: concept
-tags: [mushroom-cultivation, mushrooms]
----
-
-# Mushroom Symbolism in Hinduism and Buddhism
-
-## Soma: The Hindu Plant God
-
-R. Gordon Wasson's insightful and inspired work identifying the ancient Vedic
-and Hindu plant God, SOMA, as the [[allegro-colour-and-consistency-of-the-amanita-muscaria]] was the pioneering work in
+tags: [[allegro-colour-and-consistency-of-the-amanita-muscaria]] was the pioneering work in
 the field of Ethnomycology. The mushroom has been anthropomorphically
 personified as a Man, a God, something of extraterrestrial origins, and a Plant
 God, SOMA, who was mediator between Mankind and the God/Gods/Goddesses in the
@@ -34,8 +26,7 @@ proposed individually. The Soma brew was obviously a mixture of several plants.
 The case presented for the Amanita muscaria by Wasson is very convincing, yet
 it is certainly not the end of the story. Arthur proposes that a five-plant
 mixture may produce the long-sought-after and mysterious experience: Amanita
-muscaria (the red quickening mushroom), a blue [[guzman-allen-gartz-neotropical-psilocybe-species]] (which opens
-the third eye), [[golden-guide-syrian-rue-and-maoi-plants]] containing Telepathine (an MAO inhibitor), Opium
+muscaria (the red quickening mushroom), a blue [[golden-guide-syrian-rue-and-maoi-plants]] containing Telepathine (an MAO inhibitor), Opium
 Poppy (euphoria enabling relaxation into the visionary state), and green plants
 including Cannabis (nausea prevention and neuro-pathway reactivation).
 
@@ -71,16 +62,7 @@ enlightenment.
 The most sacred of all things is the elixir of immortality, Soma/Amrta,
 produced from the mushroom, and the host trees themselves. At the base of the
 pine tree towers, inside the courtyard, is where the testing of the aspirants
-would occur -- as [[fukuoka-textdoc-no-cause-and-effect-in-nature]], where at the base of the pines the Soma can be
-found.
-
-## Hari Hari and Androgynous Deities
-
-Hari Hari is a Hindu deity that is Shiva and Vishnu combined. Many times Hari
-Hari is portrayed as androgynous (containing both male and female organs),
-which is another symbolic reference to the mushroom. Mushroom stem and cap,
-anthropomorphically, are the organs of male and female joined together in the
-act of creation. This androgynous quality of [[dionysus-vegetative-consort-and-mushroom-symbolism]] runs throughout
+would occur -- as [[dionysus-vegetative-consort-and-mushroom-symbolism]] runs throughout
 Hindu art and architecture.
 
 ## Hindu and Buddhist Spiritual Evolution
@@ -88,34 +70,13 @@ Hindu art and architecture.
 This suggests a spiritual evolutionary process at work, more apparent when
 looking into the Hindu and Buddhist texts pertaining to spiritual evolution.
 Through the process of reincarnation, advancement is made according to
-knowledge one gains and the discovery [[fermented-plant-juice-preparation-and-application]] of key tools for
-enlightenment found on different levels of the path. The eating of the tree of
-life, or the drinking of the living waters, precedes the threshold of potential
-achievement -- the spiritual journey to the next level or incarnation.
-
-## Buddhism and the Amanita Muscaria
-
-When Arthur first started studying Buddhism, he was extremely impressed with
-the iconography of the deities within the Bardo (Tibetan transition states
-between incarnations) because he had literally seen and become one with them.
-Meditation and visualization techniques are commonly represented as a complete
-form of practice, yet Arthur is certain they were actually developed in order
-to expedite the processes one goes through while in the Amanita realms [[mckenna-food-gods-designer-states-of-consciousness]].
+knowledge one gains and the discovery [[mckenna-food-gods-designer-states-of-consciousness]].
 
 Ancient Buddhist traditions still practiced today at the higher initiatory
 levels involve isolation in a cave in darkness. This level of initiation is
 known to produce quite the experience. When an aspirant goes into the cave and
 is isolated from light for an extended period, the pineal gland reactivates
-and produces natural [[ayahuasca-preparation]]|Ayahuasca-like chemicals -- Pinoline (an MAOI) and DMT
-(Dimethyltryptamine) -- and higher brain functioning results are achieved.
-
-## The Tibetan Book of the Dead as Entheogenic Manual
-
-"The Psychedelic Experience" by T. Leary, R. Metzner and R. Alpert (Ram Das)
-is a manual based upon the Tibetan Book of the Dead, exploring the concept that
-the book is not only for the dead and dying but is in fact a manual of the
-out-of-body realms experienced when taking psychedelics. Arthur argues it was
-not LSD but [[allegro-colour-and-consistency-of-the-amanita-muscaria]] that was the original entheogen used. Amanita
+and produces natural [[allegro-colour-and-consistency-of-the-amanita-muscaria]] that was the original entheogen used. Amanita
 muscaria is the Amrta and the wish-fulfilling jewel, symbolized by the torma
 cakes and the stupa, and is literally the Vajra in Vajrayana -- which is why
 it is considered the lightning-fast method to enlightenment.

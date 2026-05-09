@@ -111,35 +111,6 @@ Blue Dream is considered a **moderate-difficulty** strain suitable for growers w
 
 ### Growing Characteristics
 - **Stretch:** Moderate to high during the first 3 weeks of flowering (1.5–2× increase)
-- **Branching:** Strong lateral branching responds well to LST (low-stress training) and SCRoG (screen of green)
-- **Nutrient needs:** Moderate feeder; benefits from cal-mag supplementation
-- **Pest resistance:** Moderate; susceptible to spider mites and powdery mildew in high humidity
-- **Training:** Responds well to topping, FIM, and defoliation to improve light penetration
-
-### Appearance of Mature Buds
-- Medium to large, dense but not overly compact
-- Bright green with blue and purple hues (especially in cooler temperatures)
-- Abundant orange to amber pistils
-- Heavy trichome coverage giving a frosty, silvery appearance
-- Calyx-to-leaf ratio is favorable, making trimming relatively easy
-
-## History and Cultural Impact
-
-Blue Dream originated in the Northern California medical cannabis community around 2003–2005. It quickly became the **best-selling strain** in California dispensaries and maintained that position for over a decade. Its cultural significance includes:
-
-- Often cited as a "gateway strain" for new cannabis consumers due to its approachable, balanced effects
-- Featured prominently in cannabis media, music references, and pop culture
-- Served as a benchmark strain for breeders developing new hybrids
-- One of the most genetically studied cannabis strains, with multiple labs sequencing its genome
-- Played a significant role in destigmatizing daytime cannabis use
-
-## Market Data
-
-As of the mid-2020s, Blue Dream remains one of the top 10 bestselling strains in legal U.S. markets, though newer strains have begun to erode its market share. Average retail prices in licensed dispensaries range from $25–45 per eighth ounce (3.5 g), depending on quality and market.
-
-## See Also
-
-- [[blueberry-cannabis]] — The indica parent strain by DJ Short
-- [[haze-lineage-and-history]] — The legendary sativa parent
+- **Branching:** Strong lateral branching responds well to LST (low-stress training) and SCRoG ([[blueberry-cannabis]] — The indica parent strain by DJ Short
 - [[cannabis-terpene-profiles]] — Overview of terpene profiles and their effects
 - [[comparison-cannabis-sativa-vs-cannabis-indica]] — Understanding the hybrid spectrum

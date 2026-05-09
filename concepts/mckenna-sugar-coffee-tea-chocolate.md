@@ -55,26 +55,13 @@ A mixture of ground chocolate and psilocybin-containing mushrooms was served to 
 The opium trade was nothing less than British terrorism waged against the population of China. There is a pattern repeated in our own century: just as tea dealers turned to opium when their market suffered, so Western intelligence groups turned to cocaine after losing a near monopoly on heroin. The history of commercial drug synergies over the past five hundred years is not pleasant to contemplate.
 
 See also:
-- [[mckenna-sugar-slavery-and-dominance]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[dominator-culture-and-partnership-society]]
 - [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-cannabis-culture-history]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
+- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
 
 ## Significance in Psychedelic Thought
 
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[psychedelic-therapy-current-research]].
-
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
+McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
 
 ## The Triangular Trade and Sugar's Global Reach
 
@@ -107,12 +94,9 @@ McKenna's broader argument is that the modern era represents a fundamental shift
 The contrast between psilocybin mushrooms (which McKenna celebrates) and sugar, coffee, and tea (which he critiques) illustrates this shift. Psilocybin dissolves habitual patterns of thought, promotes ego-transcendence, and produces experiences that are inherently anti-materialist. Sugar, caffeine, and theobromine reinforce habitual behavior, enhance focus on routine tasks, and promote consumption. For McKenna, the historical suppression of visionary plants and the promotion of addictive stimulants is not coincidental but reflects the dominator culture's preference for substances that serve its values of control, productivity, and conformity.
 
 ## See Also
-- [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]
-- [[psychedelic-mushroom-history]]
 - [[psychedelic-consciousness-models]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushrooms-species-and-identification]]
+- [[psychedelic-mushroom-set-and-setting]]
 
 ## Contemporary Relevance
 

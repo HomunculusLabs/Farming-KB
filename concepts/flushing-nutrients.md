@@ -50,25 +50,6 @@ water just as you would apply nutrient solution.
 
 For recirculating hydroponic systems, change the reservoir water after the first 4-6
 days of flushing. Continue to top off the reservoir with clean water. Monitor
-[[ec-tds-cannabis]] readings -- the goal is to bring the nutrient concentration down to near
-zero (similar to plain water) before harvest.
-
-## Periodic Maintenance Flushing
-
-Even outside of the pre-harvest period, periodic flushing prevents salt accumulation:
-
-- **Container gardens:** Flush every 2-4 weeks, or more often with saline or soft water
-- **At 1260+ ppm:** A good monthly flush prevents salt lockout
-- **When toxicity symptoms appear:** Immediately flush with copious amounts of water
-
-Build carbohydrate levels before taking cannabis-cloning|clones by leaching the
-growing medium with copious quantities of water to flush out nutrients. The growing
-medium must drain very well to withstand heavy leaching without becoming waterlogged.
-
-## The Leaching Process
-
-Flushing works by dissolving accumulated fertilizer salts in the growing medium and
-washing them away in the drainage water. The process also helps restore proper
 [[ph-management-cannabis]] by removing acidic or alkaline salt deposits that can shift pH
 away from the optimal range.
 
@@ -112,32 +93,7 @@ provides a pH buffer that helps prevent the salt buildup that necessitates frequ
 flushing. One cup of fine dolomite lime per cubic foot of planting medium stabilizes
 pH and provides a slow-release source of calcium and magnesium. This single amendment
 at planting time prevents many pH-related problems throughout the grow. See
-[[cal-mag-supplementation]] for more on dolomite lime.
-
-## Flushing Different Growing Media
-
-- **Soil:** Flush with three times the volume of water as soil; slower to drain but
-  more forgiving
-- **Coco coir:** Flush frequently; coco tends to accumulate salts more than soil
-- **Rockwool:** Easy to flush due to excellent drainage; pre-soak to correct pH
-- **Hydroponic (recirculating):** Change reservoir water during flush; monitor EC to
-  track progress
-- **Hydroponic (drain-to-waste):** Run plain water through the system for several
-  irrigations before harvest
-
-## Flushing Frequency Guidelines
-
-A good rule of thumb for container gardens is to flush every 2-4 weeks with copious
-amounts of plain water. Growers using saline or soft water should flush more
-frequently. If nutrient solution EC exceeds 1260 ppm, a monthly flush prevents salt
-lockout. Always flush immediately when toxicity symptoms appear on foliage.
-
-## See Also
-
-- [[harvest-window-cannabis]] -- timing the pre-harvest flush
-- [[cannabis-nutrient-lockout-and-ph]] -- monitoring nutrient levels during flush
+[[harvest-window-cannabis]] -- timing the pre-harvest flush
 - [[ph-management-cannabis]] -- pH correction during flushing
-- [[drying-cannabis]] -- the step following harvest
-- Cannabis Growing Mediums -- medium-specific flushing considerations
 - [[cannabis-cloning]] -- flushing before taking cuttings
 - [[cal-mag-supplementation]] -- dolomite lime as a pH buffer

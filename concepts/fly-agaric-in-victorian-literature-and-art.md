@@ -10,7 +10,7 @@ tags: [agar]
 
 # Fly-Agaric in Victorian Literature and Art
 
-The [[amanita-muscaria-cultural-history]] (Amanita muscaria) exercised a profound influence on victorian-mycology|Victorian literature, art and popular imagination, despite — or perhaps because of — the fact that nobody in Britain was actually eating it. The mushroom's lurid appearance, its association with [[siberian-fly-agaric-shamanism-urine-recycling]], and its genuinely bizarre psychoactive effects made it a potent catalyst for creative and speculative minds throughout the nineteenth century.
+The [[siberian-fly-agaric-shamanism-urine-recycling]], and its genuinely bizarre psychoactive effects made it a potent catalyst for creative and speculative minds throughout the nineteenth century.
 
 ## The Siberian Travelogues
 
@@ -110,12 +110,8 @@ The Victorian ethnographic engagement with psychoactive fungi thus represents an
 
 ## See Also
 
-- [[fly-agaric-victorian-fairy-paintings]]
-
 - [[amanita-muscaria-cultural-history]]
-- [[ethnomycology]]
-- [[siberian-fly-agaric-tradition]]
+- ethnomycology
 - [[psychedelic-mushroom-art-and-iconography]]
-- [[christmas-mushroom-symbolism]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]

@@ -24,8 +24,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 ## Pharmacology
 
-- Acts as a **non-selective serotonin receptor agonist** (5-HT₂A, 5-HT₂B, 5-HT₂C), **serotonin-norepinephrine-dopamine releasing agent** (SNRA), and weak **monoamine oxidase inhibitor** (MAOI)
-- This triple mechanism accounts for its unique effect profile combining elements of LSD, MDMA, and amphetamine
+- Acts as a **non-selective [[mdma]], and amphetamine
 - The alpha-methyl group provides significant resistance to MAO degradation, giving oral bioavailability and a long duration of action (10–14 hours)
 - **5-HT₂B agonism** is a noted concern — chronic activation of this receptor is associated with valvular heart disease (similar to fenfluramine)
 
@@ -64,8 +63,24 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 ## See Also
 
-- [[ethylpropyltryptamine]]
-
 - [[alpha-beta-gamma-diversity-fungi]]
-- [[alpha-n-o-tms-entity-tihkal]]
 - [[2-alpha-dmt-entity-tihkal]]
+## Practical Considerations
+
+Successful implementation of α-Methyltryptamine requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

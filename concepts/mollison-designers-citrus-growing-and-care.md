@@ -18,30 +18,7 @@ type: concept
 Citrus trees are among the most valuable and widely planted fruit crops in
 permaculture systems across subtropical and warm temperate zones. In the
 Permaculture Designers Manual, Mollison treats citrus as a central element
-of the [[mollison-designers-food-forest-succession-design]], providing year-round
-interest, multiple harvests, and integration opportunities with understory
-crops, poultry, and nitrogen-fixing support species. Successful citrus
-culture requires attention to site selection, frost protection, integrated
-pest management, and pruning.
-
-## Species Selection and Climate Requirements
-
-The citrus genus encompasses a wide range of species and hybrids suited to
-different climatic conditions. Key groups include sweet oranges (Citrus
-sinensis), mandarins and tangerines (C. reticulata), lemons and limes
-(C. limon and C. aurantifolia), grapefruit (C. paradisi), and pummelos
-(C. maxima). Mollison advises selecting varieties adapted to local
-conditions rather than attempting to grow species at the limits of their
-climate range.
-
-Citrus generally requires warm summers and mild winters. Most species are
-damaged by temperatures below -2 degrees Celsius and killed by prolonged
-freezing. Limes and lemons are the most frost-sensitive, while kumquats
-and certain mandarin varieties are among the most cold-hardy. Rootstock
-selection is equally important: trifoliate orange (Poncirus trifoliata)
-provides cold hardiness and disease resistance, while rough lemon
-rootstock tolerates poorer soils and drought conditions. See
-[[mollison-designers-mixed-orchard-design-species-selection]] for broader orchard
+of the [[mollison-designers-mixed-orchard-design-species-selection]] for broader orchard
 planning principles.
 
 ## Site Selection and Planting
@@ -94,24 +71,7 @@ Portable covers, frost cloth, and temporary frame structures provide
 protection for young trees. Wind machines and helicopter over-flights are
 commercial options for large orchards. Mollison emphasises that the most
 effective long-term strategy is to plant citrus within sheltered
-microclimates created by [[mollison-designers-windbreak-configurations-for-crops-and-orchards]], buildings, or
-heat-absorbing structures.
-
-## Integrated Pest Management
-
-Citrus is susceptible to a range of pests and diseases that Mollison
-addresses through integrated management rather than chemical dependency.
-Key pests include scale insects, aphids, citrus leafminer, bronze orange
-bug, and fruit fly. Diseases include citrus scab, melanose, and root rot
-in poorly drained soils.
-
-Biological controls form the foundation of pest management. Ladybirds
-and lacewings prey on aphids and scale. Encouraging predatory wasps
-through flowering understory plantings helps control leafminer and scale
-populations. Poultry ranging beneath citrus trees consume fallen fruit
-(which harbours fruit fly larvae), scratch out pest pupae from litter,
-and deposit manure that feeds the trees. This integration connects citrus
-care directly to [[mollison-designers-poultry-forage-design-pastured-systems]].
+microclimates created by [[mollison-designers-poultry-forage-design-pastured-systems]].
 
 Cultural practices such as removing mummified fruit, maintaining clean
 skirt lines, and avoiding excessive nitrogen fertilisation (which
@@ -132,9 +92,7 @@ deficiencies during periods of active growth.
 
 ## Cross-References
 
-- [[mollison-designers-food-forest-succession-design]]: Citrus in multi-strata systems
 - [[mollison-designers-mixed-orchard-design-species-selection]]: Broader orchard planning
-- [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]: Microclimate creation
 - [[mollison-designers-poultry-forage-design-pastured-systems]]: Poultry integration
 - [[mollison-designers-integrated-pest-management-design]]: Pest management
 - mollison designers nutrient cycling: Fertiliser strategies

@@ -23,7 +23,7 @@ sunlight daily. Avoid heavy clays, sandy soils, and shady spots.
 
 If soil quality is poor, mix in two to three inches of topsoil, peat moss,
 strawy manure, compost, or leaves plus fertilizer. The more organic matter
-added, the more the soil improves. See [[composting-systems]] and [[soil-building-permaculture]] for detailed approaches to building soil health.
+added, the more the soil improves. See [[soil-building-permaculture]] for detailed approaches to building soil health.
 
 ## Site Hazards: Black Walnut Toxicity
 
@@ -54,7 +54,7 @@ like corn, plant several short rows rather than a single long row.
 To stretch out the harvest season, plan successive plantings at different
 times. For example, make multiple plantings of cabbage and beans rather than
 a single large planting. This extends the availability of fresh produce and
-prevents gluts. See [[succession-planting]] and [[seasonal-gardening-calendar]] for regional timing guidance.
+prevents gluts. See [[seasonal-gardening-calendar]] for regional timing guidance.
 
 ## Fertilization Program
 
@@ -72,30 +72,7 @@ Each year after the basic fertility level is established, apply a balanced
 fertilizer containing nitrogen (N), phosphorus (P), and potassium (K). A
 fertilizer bag is labeled with numbers like 8-24-8 or 12-12-12, indicating
 the percentage of each nutrient by weight. The maintenance application needs
-only to be worked into the upper three to five inches of soil. See [[vegetable-garden-fertilization]] and Fertilizer Npk Decoded for more detail.
-
-### Step 3: Starter Fertilizer for Transplants
-
-Water-soluble fertilizer high in phosphorus is used when watering in
-transplants. Phosphorus is critical for getting transplants off to a good
-start. Apply one to two cups of solution around the roots of each newly set
-transplant. Common formulations include 5-10-5, 10-52-17, and 15-30-15.
-
-### Step 4: Nitrogen Side-Dressing
-
-Most vegetable crops require their nitrogen after they have made considerable
-growth or begun to fruit. Too much nitrogen early delays maturity and reduces
-flowering. Side-dress by sprinkling ammonium nitrogen fertilizer (33-0-0) in
-row middles and watering in. Sweet corn needs side-dressing when eight to
-ten inches tall and again after tassels appear. Tomatoes need it two weeks
-after first fruit sets.
-
-## Soil pH Management
-
-Most vegetables perform best in slightly acidic soil, pH 6.0 to 6.8.
-Agricultural sulfur can be used to lower pH, making soil more acidic.
-Lime raises pH but is rarely needed in many regions and may adversely
-affect plant nutrition if over-applied. See [[soil-ph-management]] for
+only to be worked into the upper three to five inches of soil. See [[soil-ph-management]] for
 specific application rates and testing guidance.
 
 ## Maintaining Organic Matter
@@ -105,7 +82,7 @@ need four to five percent. Annual applications of organic matter are required
 to reach and maintain these levels. Peat moss provides excellent soil
 conditioning. Compost reuses plant materials and adds organic matter.
 Well-rotted animal manures are excellent but may introduce weed seeds.
-See [[composting-materials-alternative]] and [[cover-crops-green-manures]] for organic matter sources.
+See [[cover-crops-green-manures]] for organic matter sources.
 
 ### Green Manure Crops
 
@@ -115,7 +92,7 @@ vetch. Summer crops include Sudangrass, soybeans, and cowpeas. A practical
 rotation is to plant half the garden to a winter green manure in September
 or early October, put manure on the other half, and rotate these areas
 yearly. Wait about three weeks after turning under a green manure before
-planting. See [[cover-crop-guide-detailed]] and [[crop-rotation-benefits]].
+planting. See [[crop-rotation-benefits]].
 
 ## Seed and Plant Selection
 
@@ -125,7 +102,7 @@ hybrid plants, as hybrids may not come true the second season.
 
 Some vegetables, including tomatoes, broccoli, cabbage, cauliflower,
 eggplant, and peppers, are difficult to start from seed in the garden and
-are better purchased as transplants or started indoors. See [[home-garden-seed-saving]] and [[seed-starting-indoors]] for guidance on seed selection and indoor propagation.
+are better purchased as transplants or started indoors. See [[seed-starting-indoors]] for guidance on seed selection and indoor propagation.
 
 ## Planting the Garden
 
@@ -137,7 +114,7 @@ If it clings together, it is still too wet. Working wet soil causes hard,
 cloddy conditions that persist for weeks.
 
 Prepare soil about six inches deep, making sure all sod is turned under.
-Finish by leveling and smoothing with a rake. See [[garden-bed-preparation]] and [[intensive-gardening-critique-solomon]] for detailed techniques.
+Finish by leveling and smoothing with a rake. See [[intensive-gardening-critique-solomon]] for detailed techniques.
 
 ### Planting Seed
 

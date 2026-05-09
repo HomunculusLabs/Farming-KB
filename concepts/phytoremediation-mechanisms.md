@@ -70,7 +70,7 @@ The depth of root penetration determines the volume of contaminated soil that ca
 
 Phytoremediation rarely operates in isolation. The plant root zone creates a unique microhabitat that supports dense and diverse microbial communities. Ectomycorrhizal fungi including strains of Amanita, Leccinum, and Suillus can degrade phenanthrene, pyrene, chrysene, and benzo[a]pyrene. The arbuscular mycorrhizal fungus Glomus mosseae enhances survival and growth of ryegrass in PAH-contaminated soil.
 
-Mycorrhizal associations extend the effective volume of soil explored beyond the root zone itself, through the extensive extraradical mycelial network. See [[mycorrhizal-fungi-bioremediation]] and [[fungal-bioremediation]] for more on fungal contributions to remediation.
+Mycorrhizal associations extend the effective volume of soil explored beyond the root zone itself, through the extensive extraradical mycelial network. See [[fungal-bioremediation]] for more on fungal contributions to remediation.
 
 The synergy between plants and their associated microorganisms is the basis of rhizoremediation, which leverages both plant and microbial capabilities for more comprehensive contaminant removal than either could achieve alone.
 
@@ -84,11 +84,7 @@ Despite these limitations, phytoremediation offers significant advantages includ
 
 ## See Also
 
-- [[fungal-bioremediation]] — fungal approaches to contaminant degradation
-- [[bioremediation-fungal-vs-bacterial]] — comparison of remediation organisms
-- [[rhizofiltration]] — root-based water treatment
+- [[mycoremediation]] — comparison of remediation organisms
 - [[constructed-wetlands-wastewater-treatment]] — engineered phytoremediation systems
-- [[phytomining]] — metal recovery from hyperaccumulator biomass
 - [[mycorrhizal-fungi-bioremediation]] — mycorrhizal contributions to remediation
-- [[biochar-soil-remediation]] — biochar amendments for contaminated soil
 - [[white-rot-fungi-bioremediation]] — ligninolytic fungi for organic pollutant degradation

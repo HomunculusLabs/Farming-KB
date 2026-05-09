@@ -70,7 +70,6 @@ The healthful potato is the cornerstone of garden-based self-sufficiency.
 Producing cereal grains would require five to ten times as much land as
 growing an equivalent caloric value of potatoes. For serious calorie
 production, potatoes are the thing. See
-[[solomon-root-crops-growing]] and
 [[solomon-garden-planning-calorie-production]].
 
 ## The Ley System: Rotating with Grass
@@ -88,62 +87,7 @@ first two years after breaking the sod, vegetables on the new ground grow
 noticeably better than the ones on the old beds. By about the fourth year,
 the appearance of disease and slower overall growth signals that it is
 time to rotate again. See
-[[solomon-crop-rotation-and-garden-planning]].
-
-This practice effectively doubles the garden's size. Solomon's total
-enclosed area is about 6,500 square feet (600 sq m), with roughly half in
-active vegetable production and half in ley at any given time.
-
-## The Soil Freeze Requirement
-
-Solomon identifies a critical but often overlooked requirement: if the
-soil where you live does not freeze solid in winter to a depth of at
-least 18 inches for at least a few continuous months, it is probably not
-possible to grow a vegetable garden on the same land for more than three
-to five years before serious troubles arise with diseases and/or
-soil-dwelling insects.
-
-Many people in mild climates have grown the family garden in the same
-place for more than a generation and think "everything is fine." But they
-have forgotten that some kinds of vegetables that once were easy to
-produce on that plot now seem impossible to grow. The output has
-considerably declined from the first few years of gardening.
-
-In mild climates, the ley system becomes even more important as it
-provides the break from vegetable cultivation needed to suppress
-soil-borne pests and diseases.
-
-## Nutritional Quality and Self-Sufficiency
-
-True self-sufficiency is not just about calories -- it is about nutrition.
-Solomon emphasizes that the nutritional quality of home-grown vegetables
-depends on soil fertility. Modern vegetables, even organically grown ones,
-may be significantly less nutritious than those of earlier eras because
-soils have been depleted. See
 [[solomon-vegetable-nutritional-decline-trace-minerals]].
 
-His [[solomon-complete-organic-fertilizer-guide]]
-program is designed to maximize the nutritional content of garden produce,
-not just yield. The trace minerals in kelp meal, the calcium and magnesium
-in lime, and the balanced NPK from seed meals all contribute to vegetables
-that genuinely nourish.
-
-## Becoming a Vegetablerian
-
-Solomon describes his own journey toward a vegetable-centered diet. He
-does not insist on strict vegetarianism, but makes the case that a diet
-heavy in home-grown vegetables and potatoes, supplemented by small amounts
-of animal protein, is both healthful and achievable for most home
-gardeners. The key is growing enough of the right crops.
-
-## Practical Steps
-
-1. Secure adequate land: 2,700 sq ft minimum, up to 4,500 sq ft for
-   half-calorie self-sufficiency.
-2. Implement the ley rotation system for long-term soil health.
-3. Prioritize calorie-dense crops: potatoes, sweet potatoes, winter
-   squash, and [[solomon-growing-corn-guide]].
-4. Use [[solomon-complete-organic-fertilizer-guide]] to maximize
-   nutritional quality.
-5. Learn [[solomon-root-cellaring-food-preservation]] including
-   [[solomon-root-cellaring-food-preservation]].
+His [[solomon-growing-corn-guide]].
+4. Use [[solomon-self-sufficiency-calorie-production-economics]]

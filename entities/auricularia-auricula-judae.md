@@ -126,10 +126,7 @@ Generally recognized as safe (GRAS). Raw consumption may cause GI discomfort. Hi
 
 ## See Also
 
-- [[auricularia-auricula-judae-entity]]
 - [[auricularia-auricula]]
-- [[auricularia-polytricha]]
-
 - [[mushroom-cultivation]]
 - [[stamets-cultivator-log-cultivation-shiitake-hericium]]
 - gourmet mushrooms

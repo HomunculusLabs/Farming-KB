@@ -104,13 +104,9 @@ Chocolope represents an important chapter in cannabis breeding history, exemplif
 
 ## See Also
 
-- [[og-kush]]
 - [[sour-diesel]]
-- [[chemdawg]]
 - [[jack-herer]]
-- [[skunk-1]]
-- [[blue-dream-cannabis-strain]]
+- [[cannabis-blue-dream]]
 - haze
-- [[cannabis-indoor-growing-guide]]
 - [[lambsbread]]
 - [[thai-stick-entity]]

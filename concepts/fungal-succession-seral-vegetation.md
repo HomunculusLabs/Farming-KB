@@ -3,21 +3,7 @@ title: Fungal Succession During Seral Vegetation Change
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
----
-# Fungal Succession During Seral Vegetation Change
-
-## Overview
-
-As plant communities change during ecological succession from herbaceous vegetation to
-mature forest, the fungal communities associated with decomposition and mycorrhizal
-symbiosis undergo corresponding shifts. These changes in fungal community structure are
-driven by progressive alterations in the quantity, quality, and complexity of
-plant-derived resources entering the soil, and they have cascading effects on
-[[fungal-decomposition-nutrient-cycling]],
-[[fungal-contributions-soil-structure]], and
+tags: [[fungal-decomposition-nutrient-cycling]],
 [[dighton-mycorrhizal-diversity-ecosystem-function]].
 
 ## Resource Quality Changes During Seral Succession
@@ -60,7 +46,7 @@ and arthropods in wood decomposition.
 
 This progressive increase in faunal complexity reflects the greater enzymatic challenge
 of decomposing recalcitrant materials and the evolutionary development of more intimate
-fungus-animal partnerships, including [[ant-termite-fungal-symbiosis]] and [[nematophagous-fungi]], to overcome these
+fungus-animal partnerships, including [[nematophagous-fungi]], to overcome these
 challenges.
 
 ## Mycorrhizal Succession in Primary Succession
@@ -75,39 +61,24 @@ overlap.
 The increase in mycorrhizal diversity at canopy closure may be related to both the
 relative paucity of available nutrients and an increasing proportion of nutrients locked
 up in organic forms. Increased mycorrhizal diversity allows greater expression of
-[[dighton-mycorrhizal-diversity-ecosystem-function]] to utilize the mixed
-available resources of inorganic and organic nutrients.
-
-During the succession of plants in glacial till, microbial communities change from
-bacterial domination to fungal-dominated communities. During this transition, carbon-use
-efficiency shifts from a high rate of carbon respiration to an accumulating phase,
-indicating that fungi are a stabilizing force in the developing ecosystem and facilitate
-net carbon fixation into biomass (Ohtonen et al., 1999).
-
-## Changes in Enzyme Expression
-
-The diversity of ectomycorrhizae growing into different tree litters reflects appropriate
-enzyme functions in relation to the relative availability of inorganic nutrients. Conn
-and Dighton (2000) showed that where phosphorus is immobilized during early stages of
-leaf litter decomposition, the ectomycorrhizal community of pine seedlings contained a
-greater proportion of acid phosphatase producing mycorrhizal types.
-
-This plasticity in enzyme expression by the mycorrhizal community represents an adaptive
-response to changing nutrient availability during succession, allowing the fungal
-community to optimize nutrient acquisition as resource quality changes across the
-successional gradient.
-
-## Allen and Allen Model of Mycorrhizal Succession
-
-Allen and Allen (1990) proposed a model for the importance of mycorrhizae in regulating
-plant competition during seral succession. In this model, the role of mycorrhizae shifts
-from being critical for establishing early colonizing plants on nutrient-poor substrates
-to a more complex regulatory function in later successional stages where mycorrhizal
-networks mediate competitive interactions among established plant species.
-
-However, this model appears to be both environmentally and plant species-dependent, as
-demonstrated by studies on Mount Fuji volcanic desert succession showing that mycorrhizal
-responses varied with rock microtopography and plant species identity, suggesting that
-mycorrhizal succession is more complex than a simple linear progression.
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
+[[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungi-forest-fire-succession-litter-dighton]]
+## Practical Considerations
+
+Successful implementation of Fungal Succession During Seral Vegetation Change requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

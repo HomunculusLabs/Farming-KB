@@ -27,24 +27,7 @@ protocols for alcoholism, anxiety, and existential distress. These programs
 were curtailed in the early 1970s when psychedelics were scheduled as
 controlled substances, effectively ending clinical research for nearly three
 decades.
-Modern psilocybin research resumed in 1999 when [[roland-griffiths]] and
-colleagues at Johns Hopkins University received regulatory approval to study
-psilocybin in healthy volunteers. This landmark study demonstrated that
-psilocybin could produce mystical-type experiences with lasting positive
-effects on attitudes, mood, and behavior. Subsequent trials expanded into
-clinical populations, establishing the evidence base for therapeutic
-applications.
-## Therapeutic Framework
-The standard PAT protocol consists of three phases: preparation, the dosing
-session, and integration. During the preparation phase (typically one to three
-sessions), the therapist builds rapport with the client, establishes
-therapeutic goals, discusses expectations and concerns, and provides guidance
-on navigating the psychedelic experience. The client is encouraged to develop
-an intention forpsilocybe-cubensish provides a psychological anchor during
-the experience.
-The dosing session involves administration of a single high dose of psilocybin
-(usually 20 to 30 milligrams, equivalent to approximately 2.5 to 4 grams of
-dried [[psilocybe-cubensis]]) in a comfortable, controlled clinical environment.
+Modern psilocybin research resumed in 1999 when [[psilocybe-cubensis]]) in a comfortable, controlled clinical environment.
 The client reclines on a couch or bed, wears an eye mask, and listens to a
 carefully curated music playlist. One or two therapists are present throughout
 the session, which lasts approximately six to eight hours. Therapists provide
@@ -92,38 +75,23 @@ dopamine system interactions. These differences suggest that psilocybin
 may work through fundamentally different mechanisms than conventional
 antidepressants.
 ## End-of-Life Anxiety and Distress
-[[psilocybin-therapy]] for individuals facing life-threatening illness has produced
-robust results. A 2016 randomized controlled trial at Johns Hopkins found that
-a single dose of psilocybin produced significant and sustained reductions in
-depression and anxiety in patients with cancer diagnoses, with effects lasting
-at least six months. The therapeutic value appears to derive from the capacity
-of psilocybin to produce experiences of transcendence, connectedness, and
-acceptance. Many participants describe a shift from fear and avoidance of
-death toward a sense of meaning, peace, and acceptance.
-## Substance Use Disorders
-Psilocybin has demonstrated potential for treating alcohol use disorder and
-tobacco use disorder. A pilot study at Johns Hopkins found that fifteen
-smokers receiving psilocybin-assisted therapy achieved an eighty percent
-abstinence rate at six-month follow-up, dramatically exceeding typical quit
-rates for existing treatments. A study at NYU Langone Health showed
-significant reductions in heavy drinking days among participants with alcohol
-use disorder treated with psilocybin.
-The anti-addictive effects of psilocybin may relate to its capacity to
-produce transformative experiences that shift values, priorities, and
-self-concept. Many participants in addiction trials describe a fundamental
-reappraisal of their relationship with the substance, often accompanied by
-increased self-efficacy, social connectedness, and engagement with meaningful
-activities. Neuroplastic changes in brain circuits involved in reward
-processing and habit formation may also contribute.
-## Current Regulatory Landscape
-As of 2026, psilocybin therapy is available through regulated access programs
-in Oregon (where licensed facilitators guide sessions at approved centers)
-and Colorado. The FDA granted Breakthrough Therapy designation for psilocybin
-in treatment-resistant depression in 2019, with subsequent designations for
-additional indications. Multiple companies are conducting Phase II and Phase
-III clinical trials, with potential FDA approval anticipated in the late
-2020s. Australia's Therapeutic Goods Administration authorized psilocybin for
-prescribed therapeutic use by psychiatrists in 2023. Regulatory frameworks
-continue to evolve rapidly as clinical evidence accumulates.
-See also: [[psilocybin-mushrooms-overview]], [[psychedelic-harm-reduction]],
-[[psychedelic-integration]], neuroplasticity and psychedelics
+[[psilocybin-mushrooms-overview]], [[psychedelic-integration]], neuroplasticity and psychedelics
+## Practical Considerations
+
+Successful implementation of Psilocybin Assisted Therapy requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

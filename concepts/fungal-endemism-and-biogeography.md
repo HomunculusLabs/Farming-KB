@@ -1,7 +1,7 @@
 ---
 title: Fungal Endemism and Biogeography
 created: 2026-04-28
-tags: [mycology, biogeography, ecology, conservation]
+tags: [[mycology, biogeography, ecology, conservation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -115,8 +115,6 @@ designations as a matter of priority.
 
 ## See Also
 
-- [[fungal-biodiversity]]
 - [[cryptic-fungal-species]]
-- [[undescribed-fungal-taxa]]
 - [[fungal-habitat-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

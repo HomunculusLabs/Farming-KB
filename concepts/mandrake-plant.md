@@ -76,7 +76,7 @@ folklore persisted for centuries.
 ## Chemistry
 
 Mandrake contains tropane alkaloids similar to those found in
-[[belladonna-plant]] and [[datura-stramonium]], reflecting the chemical unity
+[[datura-stramonium]], reflecting the chemical unity
 of the Solanaceae (nightshade) family:
 
 - **Hyoscyamine**: The principal alkaloid, a parasympatholytic agent causing
@@ -97,8 +97,7 @@ elaborate mythology that developed around it over millennia.
 ## Role in Witches' Brews
 
 Mandrake was one of the main ingredients of the witches' brews of medieval
-Europe, alongside [[belladonna-plant]] (deadly nightshade), henbane, and
-[[datura-stramonium]]. These plants of the nightshade family were the major
+Europe, alongside [[datura-stramonium]]. These plants of the nightshade family were the major
 plants involved in European witchcraft and divination, long exerting a great
 cultural and historical influence.
 
@@ -125,14 +124,7 @@ was most powerfully exemplified by the mandrake.
 
 ## Related Topics
 
-- [[belladonna-plant]] - Deadly nightshade, another European solanaceous
-  entheogen
 - [[datura-stramonium]] - Jimsonweed, used in both hemispheres
-- [[brugmansia-entheogens]] - South American tree daturas with similar
-  chemistry
 - [[ergot-fungus]] - Another European plant complex with magical associations
-- [[eleusinian-mysteries]] - Ancient Greek ritual possibly involving
-  psychoactive plants
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
-- [[garden-myths-native-plants-and-invasive-species]]
 - [[mandrake-mandragora-officinarum-in-european-folklore]]

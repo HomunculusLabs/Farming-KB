@@ -102,19 +102,11 @@ In Japan and Korea, Fucus species are less commonly consumed than Laminariales b
 
 ## See Also
 
-- [[fucus-vesiculosus]]
 - [[fucus-serratus]]
-- [[sargassum-fusiforme]]
 - [[laminaria-digitata]]
-- [[saccharina-latissima]]
 - [[alaria-esculenta]]
-- [[himanthalia-elongata]]
 - [[chondrus-crispus]]
-- [[mastocarpus-stellatus]]
 - [[ulva-lactuca]]
-- [[ulva-intestinalis]]
 - [[grateloupia-turuturu]]
-- [[alaria-marginata]]
 - [[bangia-atropurpurea]]
-- [[ceramium-virgatum]]
 - [[caulerpa-racemosa]]

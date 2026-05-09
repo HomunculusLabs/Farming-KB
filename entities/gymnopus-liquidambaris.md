@@ -102,13 +102,8 @@ Its host specificity makes it potentially useful in forest health monitoring —
 
 ## See Also
 
-- [[mycology]]
 - [[lignin-degradation]]
-- [[amanita-muscaria]]
 - [[boletus-edulis-entity]]
-- [[cantharellus-cibarius-entity]]
 - [[coprinus-comatus-detailed]]
-- [[morchella-esculenta]]
 - [[agaricus-campestris]]
-- [[laccaria-bicolor]]
-- [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]

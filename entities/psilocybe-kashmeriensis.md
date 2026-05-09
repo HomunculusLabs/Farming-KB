@@ -74,9 +74,7 @@ reinforcing that bluing reaction alone is an unreliable indicator
 of psychoactive content.
 
 ## See Also
-- [[psilocybe-southeast-asia-pacific]]
 - [[psilocybe-semilanceata]]
 - psilocybe strictipes
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
 - [[psilocybe-atrobrunnea]]
 - [[psilocybe-pelliculosa-entity]]

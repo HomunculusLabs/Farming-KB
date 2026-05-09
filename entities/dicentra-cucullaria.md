@@ -108,13 +108,8 @@ Under garden conditions, Dutchman's breeches naturalizes readily and can form ex
 
 ## See Also
 
-- [[papaver-somniferum]]
 - [[eschscholzia-californica]]
-- [[chelidonium-majus]]
 - [[sanguinaria-canadensis]]
-- [[podophyllum-peltatum]]
 - [[datura-stramonium]]
-- [[atropa-belladonna]]
 - [[hydrastis-canadensis]]
-- [[panax-quinquefolius]]
 - [[actaea-racemosa]]

@@ -107,11 +107,7 @@ ensuring proper identification and product purity.
 Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
 properties and current medical usage with special emphasis on cancer
 treatments. University of Strathclyde.
-- [[grifron-d-maitake-beta-glucan]]
 - [[psk-breast-lung-cancer-clinical-trials]]
-- [[lentinan-gastric-cancer-combination-therapy]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - [[schizophyllan-cancer-clinical-trials]]
-- [[cannabis-and-liver-cancer-research]]
 - [[maitake-d-fraction-research]]

@@ -482,4 +482,16 @@ putrid ferment should be discarded.
   Kitchen*.
 - Sandor Ellix Katz (2003). *Wild Fermentation*.
 - USDA Complete Guide to Home Canning (2015 revision).
-- Stamets, P., & Chilton, J.S. (1983). *The Mushroom Cultivator*.
+- Stamets, P., & Chilton, J.S. (1983). *The Mushroom Cultivator*.## Merged: What Are the Best Fermented Beverages for Beginners to Make at Home?
+Fermented beverages are the easiest entry point into home fermentation — minimal equipment, forgiving of mistakes, and rewarding results within days to weeks. Here are the best beginner-friendly options ranked by ease, cost, and speed.
+| Rank | Beverage | Difficulty | Time to First Batch | Equipment | Cost |
+|------|----------|-----------|--------------------|-----------|------|
+| 1 | Water Kefir | ★☆☆☆☆ | 24–48 hours | Jar, cloth, strainer | $5–15 |
+| 2 | Ginger Bug & Ginger Beer | ★☆☆☆☆ | 3–7 days | Jar, cloth | $2–5 |
+
+## Merged: How Do I Start Making Kefir at Home?
+Kefir is a fermented, probiotic-rich beverage originating from the Caucasus Mountains. It is made by culturing milk (or sugar water) with **kefir grains** — small, gelatinous clusters of bacteria and yeast that look like tiny cauliflower florets. Kefir contains a much wider variety of probiotic strains than yogurt, making it one of the most potent fermented foods you can make at home.
+| Feature | Milk Kefir | Water Kefir |
+|---|---|---|
+| **Base liquid** | Dairy milk (cow, goat, coconut) | Sugar water, coconut water, fruit juice |
+| **Grain type** | Milky white, gelatinous | Translucent, crystal-like |

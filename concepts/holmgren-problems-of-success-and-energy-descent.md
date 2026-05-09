@@ -3,26 +3,7 @@ title: Holmgren Problems of Success and Energy Descent
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Problems of Success and Energy Descent
-
-One of Holmgren's most original contributions to sustainability thinking is his analysis of the "problems of success" — the structural dilemmas that arise when effective environmental action creates its own contradictions. This concept, developed primarily in Principle 3 (Obtain a Yield), reveals why well-intentioned sustainability efforts often fail to produce systemic change and points toward more effective strategies.
-
-## The Rebound Effect
-
-In systems modelling of sustainable transition, the phenomenon of "rebound" describes how design and behaviour changes that result in energy and resource savings tend to be immediately spent or invested in other sectors of the economy, which further stimulates demand for energy and resources.
-
-Holmgren's colleague observed this firsthand after decades of helping friends reduce energy consumption through efficient technology. His friends now drove their energy-efficient cars further, and his sister's savings on electricity and gas for her new passive solar house gave her the money for an airfare to Europe.
-
-This is not hypocrisy — it is a structural property of all self-organising systems. Maximum power is an energy law: systems that yield the most will continue to prevail. The pattern of successful systems must shift from dependence on high and opportunistic yields from non-renewable resources to using low and sustained yields from renewable resources.
-
-## The Structural Dilemma of Transition
-
-Obtaining a yield represents a structural dilemma for a transition to [[energy-descent-action-planning]]:
+tags: [[energy-descent-action-planning]]:
 
 - It is tricky to determine how we can obtain a yield and reproduce our successes without creating more demand than is sustainable
 - Systems under pressure to shift from high to low energy sources tend to do so by crashing and rebuilding
@@ -86,14 +67,28 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 
 ## See Also
 
-- [[holmgren-transport-speed-and-energy-descent]]
-
 - [[holmgren-wind-power-and-renewable-energy-debate]]
 
-- [[holmgren-energy-descent-culture-adaptation]]
 - [[holmgren-catch-and-store-energy-detailed]]
-- [[holmgren-built-environment-energy-store]]
-- [[permaculture-design-principles]]
-- [[permaculture-design-principles]]
+- [[permaculture-farm-design-principles]]
 - [[holmgren-household-economy-and-self-reliance]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
+## Practical Considerations
+
+Successful implementation of Holmgren Problems of Success and Energy Descent requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

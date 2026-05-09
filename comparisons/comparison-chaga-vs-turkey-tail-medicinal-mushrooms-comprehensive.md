@@ -141,9 +141,6 @@ Turkey tail has limited data on metabolic health, though some studies suggest li
 | Concern | **Chaga** | **Turkey Tail** |
 ## See Also
 
-- [[medicinal-mushroom-guide-turkey-tail]]
 - [[comparison-chaga-vs-reishi-medicinal]]
-- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[reishi-mushroom-medicinal-properties]]
-- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
 - [[medicinal-mushroom-guide-turkey-tail]]

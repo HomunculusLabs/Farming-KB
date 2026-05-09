@@ -125,11 +125,7 @@ The question was not whether humanity would return to natural food production bu
 
 ## See Also
 
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[fukuoka-textdoc-vegetable-factory-hydroponic-critique]]
-- [[fukuoka-textdoc-energy-efficiency-natural-farming]]
-- [[fukuoka-textdoc-food-quality-decline-petroleum]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
 - [[fukuoka-mu-nothingness-philosophy]]

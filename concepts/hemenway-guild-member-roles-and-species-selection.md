@@ -12,54 +12,7 @@ type: concept
 # Guild Member Roles and Species Selection
 
 Toby Hemenway defines seven key roles that should be filled in
-any well-designed [[hemenway-guild-design-roles-and-assembly]].
-Each role addresses a specific need of the central plant,
-usually a food-producing tree, and the guild members that fill
-these roles work together to create a self-maintaining plant
-community. Understanding these roles allows gardeners to design
-their own guilds for any climate, soil, or central species.
-
-## The Seven Guild Roles
-
-### 1. Grass Suppressors
-
-The first challenge beneath any fruit tree is keeping grass at
-bay. Grass is a heavy feeder that competes aggressively with
-tree roots for water and nutrients. Effective grass suppressors
-include bulbs, which store nutrients in their underground organs
-and emerge before grass begins growing in spring. Plants with
-dense foliage that shade the soil surface, such as comfrey and
-rhubarb, also suppress grass by denying it light.
-
-### 2. Mulch Plants
-
-Growing mulch under the tree eliminates the need to trudge
-around with a compost-filled wheelbarrow, since the guild builds
-its own soil. Mulch makers include soft-leafed plants such as
-comfrey, artichokes, cardoon, rhubarb, clovers, and
-nasturtiums, all of which can be slashed and left to compost in
-place. A ring of comfrey around the tree can be cut four or five
-times per summer. As the nutrient-rich greenery rots, it
-delivers minerals and organic matter to the soil.
-
-The resulting thick compost layer supports thriving populations
-of worms, fungi, bacteria, and other helpful soil organisms.
-This rich living soil suppresses diseases because the diverse
-soil life competes fiercely for food and habitat, preventing
-any single harmful species from dominating.
-
-### 3. Nutrient Accumulators
-
-Plants with deep taproots, such as chicory, dandelion, yarrow,
-and plantain, plunge far into mineral soil and dredge up
-potassium, magnesium, calcium, sulfur, and other nutrients. As
-the guild matures, nutrients recycle within the community and
-accumulator plants gradually become less necessary, eventually
-declining naturally.
-
-### 4. Nitrogen Fixers
-
-Adding [[gaias-garden-nitrogen-fixers-guild-design]] to
+any well-designed [[gaias-garden-nitrogen-fixers-guild-design]] to
 guilds keeps nutrients cycling and reduces fertilizer needs.
 Since nitrogen is freely available from the air, lugging bags
 of it into the garden seems wasteful. Perennial options include
@@ -74,7 +27,7 @@ the pods in spring and mulching the stalks in place.
 ### 5. Insectary Plants
 
 Flowers that attract pollinators and predatory insects are
-essential for fruit set and pest control. See [[gaias-garden-host-plants-beneficial-insects]] and [[gaias-garden-predatory-insects-attracting-beneficials]] for species lists. Borage and comfrey are among
+essential for fruit set and pest control. See [[gaias-garden-predatory-insects-attracting-beneficials]] for species lists. Borage and comfrey are among
 the most popular insectary plants for fruit tree guilds.
 
 ### 6. Pest Repellents
@@ -123,8 +76,6 @@ under dwarf trees.
 
 ## See Also
 
-- [[hemenway-guild-design-roles-and-assembly]]
 - [[gaias-garden-nitrogen-fixers-guild-design]]
-- [[gaias-garden-super-guild-design]]
 - [[gaias-garden-three-sisters-guild]]
 - [[gaias-garden-white-oak-hazelnut-guild-design]]

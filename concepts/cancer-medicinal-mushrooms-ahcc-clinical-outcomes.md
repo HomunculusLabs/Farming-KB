@@ -104,10 +104,6 @@ advantage for clinical application and patient compliance.
 
 ## Related
 
-- [[cold-shocking-mushrooms]] Topics
-
 - [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
 - [[mushroom-immune-cell-activation-mechanisms]]
-- [[medicinal-mushroom-cancer-chemoprevention]]
 - [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]

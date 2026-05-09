@@ -102,16 +102,9 @@ The neuroprotective properties of cannabinoids are supported by a growing body o
 
 ## Related Pages
 
-- [[cannabis-alzheimers-research]]
-
 - [[cannabis-and-exercise-recovery]]
-
-- [[cannabis-tbi-research]]
 
 - [[cannabis-and-epilepsy-research]]
 
-- [[blesching-cannabis-alzheimers-disease]]
-
 - [[cannabis-endocannabinoid-system]]
-- [[plant-micronutrients-and-their-essential-functions]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]

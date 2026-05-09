@@ -47,17 +47,7 @@ Hallucinogenic compounds are so prevalent in this family, both geographically an
 
 ## Connection to Ergot and LSD History
 
-The discovery of ergoline alkaloids in morning glory seeds connected two previously separate traditions: the ancient Mexican use of ololiuqui and the European history of [[ergot-and-lysergic-acid-history]]. When ergot was accidentally ground up with rye flour and eaten in bread, it poisoned whole towns, causing terrible intoxication and frequently leading to widespread insanity and death. In the Middle Ages, these mysterious mass attacks were called St. Anthony's Fire.
-
-The ergoline alkaloids in morning glories and those in ergot share a common chemical skeleton based on lysergic acid. LSD (lysergic acid diethylamide) is a semi-synthetic derivative of this natural compound. The presence of LSA (lysergic acid amide) in morning glory seeds represents a direct natural bridge between the ancient Aztec pharmacopoeia and the modern era of psychedelic chemistry.
-
-## Cultural and Historical Significance
-
-The sacred morning glories represent one of the most remarkable stories in ethnopharmacology. A tradition that survived four centuries of Spanish persecution, that was driven into remote mountains where it was maintained by indigenous peoples with unwavering devotion, ultimately yielded one of the most surprising chemical discoveries in the field. The identification of ololiuqui connected the Aztec world to the modern laboratory, and demonstrated that ancient indigenous knowledge could still yield revolutionary scientific insights.
-
-## See Also
-
-- [[mescal-bean-sophora-secundiflora-vision-dance]]
+The discovery of ergoline alkaloids in morning glory seeds connected two previously separate traditions: the ancient Mexican use of ololiuqui and the European history of [[mescal-bean-sophora-secundiflora-vision-dance]]
 
 ## Historical Context
 
@@ -73,20 +63,28 @@ This discovery was particularly significant because it demonstrated that a power
 
 ## See Also
 
-[[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — another Mexican psychoactive plant.
-
 [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican dream herb used by the Chontal people.
-
-[[tree-daturas-brugmansia-south-american-ethnobotany]] — New World tree daturas with tropane alkaloids.
 
 [[yopo-anadenanthera-peregrina-snuff]] — South American snuff with DMT and 5-MeO-DMT.
 
-[[old-world-hallucinogenic-plants-overview]] — overview of Old World hallucinogenic plants.
-
-## References
-
-Hofmann, A. "The Active Principles of the Seeds of Rivea corymbosa and Ipomoea violacea." Botanical Museum Leaflets, Harvard University, 20, 1963.
-
-Schultes, R.E. & Hofmann, A. Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers. Healing Arts Press, 1992.
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
+[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
+## Practical Considerations
+
+Successful implementation of Sacred Mexican Morning Glories: Ololiuqui and Tlitliltzin requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -32,8 +32,7 @@ Mollison's flood-resilient design strategies include:
 - **Site selection:** Avoid building in floodplains, natural drainage
   channels, and alluvial fans. Map historical flood levels and design
   above maximum recorded flood height plus a safety margin
-- **Water management:** Design [[rainwater-harvesting-systems]] and
-  [[gaias-garden-woody-soil-building-dead-wood-swale]] that slow, spread, and infiltrate water across the
+- **Water management:** Design [[gaias-garden-woody-soil-building-dead-wood-swale]] that slow, spread, and infiltrate water across the
   landscape rather than concentrating flow. Swales on contour prevent
   erosion and reduce peak runoff velocity
 - **Drainage infrastructure:** Construct diversion drains, spillways,
@@ -48,12 +47,7 @@ Mollison's flood-resilient design strategies include:
   critical infrastructure above flood level using earth berms,
   raised foundations, or stilt construction
 - **Emergency water supply:** Store drinking water in elevated
-  locations accessible during floods. Design [[aquaculture-in-permaculture]] ponds
-  with overflow systems that prevent contamination
-
-Mollison notes that forests and perennial vegetation systems absorb
-and slow water far more effectively than bare ground or annual
-cropping, making [[food-forest-design]] design inherently more flood-resilient
+  locations accessible during floods. Design [[food-forest-design]] design inherently more flood-resilient
 than conventional agriculture.
 
 ## Fire-Resistant Landscapes
@@ -72,7 +66,7 @@ describes fire-resistant landscape design:
 - **Water access:** Ensure reliable water sources with sufficient
   pressure for firefighting
 - **Building materials:** Use fire-resistant materials -- metal roofs,
-  earth walls ([[earth-building-permaculture]]), or [[mollison-designers-straw-bale-building-techniques]] with
+  earth walls ([[mollison-designers-straw-bale-building-techniques]] with
   non-combustible plaster. Avoid flammable cladding
 - **Access design:** Maintain wide access roads (minimum 4 meters) for
   firefighting vehicles
@@ -89,12 +83,7 @@ earthquake risks:
 - **Building design:** Use flexible, lightweight construction
   methods that absorb seismic energy rather than rigid structures
   that fracture. Timber frame, bamboo, and earthen construction with
-  reinforcement perform well in earthquakes. [[earth-building-permaculture]]
-  techniques can be strengthened with bamboo or timber reinforcement
-- **Foundation design:** Deep foundations on stable ground, avoiding
-  steep slopes, loose fill, and liquefaction-prone soils
-- **Non-structural hazards:** Secure water heaters, heavy shelving,
-  and equipment that could topple during shaking. Design [[rainwater-harvesting-systems]] tanks with flexible connections
+  reinforcement perform well in earthquakes. [[rainwater-harvesting-systems]] tanks with flexible connections
 - **Infrastructure redundancy:** Distribute water storage, food
   storage, and energy systems across multiple locations so that no
   single event destroys all resources
@@ -105,31 +94,14 @@ earthquake risks:
 
 Drought resilience is fundamental to permaculture design:
 
-- **Water storage:** Multiple systems -- [[rainwater-harvesting-systems]] tanks,
-  farm dams, swales, [[keyline-design]], and soil moisture conservation
+- **Water storage:** Multiple systems -- [[keyline-design]], and soil moisture conservation
 - **Drought-tolerant species:** Select plants adapted to low rainfall.
   Mollison's species lists include many drought-adapted perennials,
   nitrogen-fixers, and food-producing trees
 - **Soil development:** Build deep, organic-rich soils with high water
-  holding capacity through [[compost-building-guide]] and [[soil-building-permaculture]]
+  holding capacity through [[soil-building-permaculture]]
 - **Microclimate creation:** Shade, windbreaks, and mulch reduce
-  evapotranspiration. [[herb-spiral-microclimate-design]] reduces water demand
-
-## Storm and Wind Protection
-
-- **Windbreak design:** Multi-row windbreaks with mixed evergreen and
-  deciduous species protect buildings, gardens, and livestock
-- **Building aerodynamics:** Rounded roofs, secure anchoring, and
-  minimal overhangs on windward sides reduce wind damage
-- **Tree selection:** Avoid brittle, shallow-rooted species near
-  buildings. Deep-rooted, flexible trees withstand wind better
-
-## Community Preparedness
-
-Mollison extends disaster resilience to community-scale preparation:
-
-- **Local food systems:** Diversified production ensures supply
-  continuity when distribution networks are disrupted. [[food-forest-design]]
+  evapotranspiration. [[food-forest-design]]
   systems and community gardens build food security
 - **Skill sharing:** Community workshops in first aid, construction,
   water purification, and food preservation
@@ -147,4 +119,3 @@ multiple hazards simultaneously. A swale system designed for flood
 control also improves drought resilience through groundwater recharge.
 Fire-resistant vegetation provides windbreak protection. Earth-sheltered
 buildings resist fire, wind, and earthquake damage while improving
-thermal comfort. This integration of multiple functions aligns

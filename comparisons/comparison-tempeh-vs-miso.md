@@ -22,38 +22,6 @@ needs.
 
 ## Tempeh
 
-[[tempeh-making]]
-
-Tempeh is a traditional Indonesian fermented food made by inoculating cooked,
-dehulled soybeans with Rhizopus oligosporus spores, which bind the beans into a
-firm cake through aerobic mycelial growth over 24 to 48 hours at 85 to 90
-degrees Fahrenheit. The six-step process involves dehulling soybeans by cracking
-and winnowing, cooking for 30 to 45 minutes until tender, cooling to body
-temperature and inoculating with tempeh starter spores, packing into perforated
-bags or containers at approximately one inch thickness, incubating at the proper
-temperature, and harvesting when the beans are fully bound with white mycelium.
-
-The microbial process is aerobic, meaning the culture requires oxygen to grow.
-This is why tempeh is packed in perforated containers that allow air exchange
-while maintaining humidity. The Rhizopus mycelium partially digests the
-soybeans, reducing antinutritional factors including phytic acid and
-oligosaccharides that cause digestive discomfort, and producing vitamin B12
-through bacterial symbionts that ride along with the culture. Alternative
-substrates beyond soybeans include black beans, chickpeas, lentils, mung beans,
-peanuts, and even grains, making tempeh accessible to people with soy allergies.
-
-Tempeh offers complete protein with all essential amino acids, improved
-digestibility through fermentation, and rapid production that fits into weekly
-kitchen routines. The equipment needs are minimal: a pot for boiling, a colander
-for draining, inoculant, perforated bags, and some form of temperature-
-controlled incubation. Fresh tempeh stores refrigerated for approximately five
-days or frozen for six months. Limitations include the need for temperature-
-controlled incubation, tedious soybean dehulling unless buying pre-dehulled
-beans, short fresh shelf life, and susceptibility to contamination if hygiene is
-poor during the inoculation step.
-
-## Miso
-
 [[miso-making]]
 
 Miso is a traditional Japanese fermented soybean paste requiring months to years
@@ -140,10 +108,6 @@ dishes that combine tempeh's texture with miso's flavor depth.
 
 ## See Also
 
-- [[comparison-miso-vs-natto]]
-
 - [[comparison-lacto-fermentation-vs-canning]]
-- [[comparison-fermentation-vs-canning]]
 - [[comparison-sourdough-vs-wild-yeast]]
-- [[vinegar-making]]
 - [[beer-brewing-basics]]

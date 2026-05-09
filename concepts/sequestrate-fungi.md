@@ -3,16 +3,16 @@ title: Sequestrate Fungi — Ecology, Diversity, and Sampling
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Sequestrate Fungi — Ecology, Diversity, and Sampling
 
 ## Overview
 
-Sequestrate fungi represent a diverse guild of fungi that produce enclosed, hypogeous (underground) or semi-hypogeous fruiting bodies. These fungi do not actively discharge their spores; instead, they rely entirely on animal vectors for spore dispersal — a strategy known as mycophagy. Approximately **150 genera** and **~1,200 species** have been described across **38 families** and **11 orders**, spanning the [[ascomycete-phylum-guide]], [[basidiomycete-phylum-guide]], and Zygomycetes. Global species richness is estimated to be more than double the number currently described.
+Sequestrate fungi represent a diverse guild of fungi that produce enclosed, hypogeous (underground) or semi-hypogeous fruiting bodies. These fungi do not actively discharge their spores; instead, they rely entirely on animal vectors for spore dispersal — a strategy known as mycophagy. Approximately **150 genera** and **~1,200 species** have been described across **38 families** and **11 orders**, spanning the [[basidiomycete-phylum-guide]], and Zygomycetes. Global species richness is estimated to be more than double the number currently described.
 
-Surveys in Australia suggest that up to **90% of sequestrate fungi remain undescribed**, highlighting a massive gap in fungal biodiversity knowledge. These organisms are central to understanding [[molecular-methods-fungal-taxonomy-and-diversity]] patterns and [[fungal-earthworm-interactions]] in forest ecosystems.
+Surveys in Australia suggest that up to **90% of sequestrate fungi remain undescribed**, highlighting a massive gap in fungal biodiversity knowledge. These organisms are central to understanding [[fungal-earthworm-interactions]] in forest ecosystems.
 
 ## Ecology and Symbiosis
 
@@ -88,10 +88,9 @@ Several factors threaten sequestrate fungal diversity:
 
 ## Significance
 
-Sequestrate fungi are a critical yet underappreciated component of [[symbiotic-fungi-ectomycorrhizal-networks-overview]] and [[fungal-biodiversity-forest-floor]]. Their dependence on animal dispersal makes them vulnerable to disruptions in mammal and bird populations, and their high proportion of undescribed species underscores the urgency of systematic survey efforts worldwide.
+Sequestrate fungi are a critical yet underappreciated component of [[fungal-biodiversity-forest-floor]]. Their dependence on animal dispersal makes them vulnerable to disruptions in mammal and bird populations, and their high proportion of undescribed species underscores the urgency of systematic survey efforts worldwide.
 
 ## Related
 
-- [[fungal-chromogens-and-color-change]]
 - [[guild-design-methodology]]
 - [[sequestrate-fungi-ecology-evolution]]

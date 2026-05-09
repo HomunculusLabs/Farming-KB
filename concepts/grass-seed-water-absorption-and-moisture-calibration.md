@@ -18,33 +18,7 @@ type: concept
 
 # Grass Seed Water Absorption and Moisture Calibration
 
-Water content is the single most critical variable in grass seed substrate preparation.
-Different varieties and even individual batches of the same grass seed variety can differ
-greatly in their ability to absorb water, making moisture calibration an essential skill
-for successful mycological cultivation on grain substrates.
-
-The standard formula for 720 ml jars calls for 110 grams of grass seed combined with
-180 ml water, but this ratio serves as a starting point rather than a fixed recipe.
-
-## The Moisture Problem
-
-When preparing grass seed as a cultivation substrate, the goal is to achieve a moisture
-level that supports vigorous mycelial growth without creating anaerobic or waterlogged
-conditions. The ratio of water to grain determines whether the substrate will support
-healthy fungal colonisation or become a breeding ground for bacterial contamination.
-
-Too much water results in a slimy clump of seed that cannot be shaken after sterilisation.
-The kernels stick together in a compact mass, restricting gas exchange and creating
-pockets where anaerobic bacteria can thrive. Colonisation slows dramatically and
-contamination risk increases substantially in these waterlogged conditions.
-
-The mycelium may appear thin and stringy rather than the robust rhizomorphic growth
-pattern associated with healthy cultures. In extreme cases, the substrate becomes
-completely unshakeable and must be discarded.
-
-Too little water produces substrate that is too dry. Mycelium may colonise the visible
-surfaces but fails to penetrate deeply into the grain kernels. The result is little or
-no mushroom production, and sclerotia formation is particularly poor on dry substrates.
+Water content is the single most critical variable in [[sclerotia-formation]] is particularly poor on dry substrates.
 
 Dry grain may appear to colonise normally on the surface but harbours uncolonised kernels
 in the interior of the jar, creating latent contamination risks that emerge during later
@@ -143,7 +117,5 @@ the endosperm, making nutrients more accessible to colonising mycelium.
 The primary disadvantage is the additional preparation time required. The direct addition
 ## See Also
 
-- [[grass-seed-substrate-preparation-mycology]]
 - [[substrate-preparation-mushroom-growing]]
-- [[mushroom-grain-sterilization]]
 - [[oyster-mushroom-substrate-preparation]]

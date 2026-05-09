@@ -124,27 +124,6 @@ tuberculosis, colds), wound poultices, sore throat, and muscle aches.
 Leaves were chewed fresh, brewed as tea, or smoked. The Kawaiisu used
 a leaf decoction for stomach complaints and as a general tonic.
 
-In Western herbal medicine, yerba santa is used as an expectorant in
-respiratory formulas, often combined with grindelia (*Grindelia spp.*)
-and licorice root. It is available as tincture, tea, and dried leaf.
-The plant's resin was historically used to waterproof adobe bricks.
-
-## Cultivation and Ecological Role
-
-Yerba santa is propagated by seed (stratification at 4°C for 30 days
-improves germination) or softwood cuttings. It requires well-drained
-soil, minimal summer irrigation once established, and full sun to partial
-shade.
-
-The plant is a fire-adapted obligate resprouter, contributing to
-post-fire chaparral recovery. Its flowers provide nectar for native bees
-and hummingbirds. It is an important component of California coastal
-scrub and mixed chaparral plant communities.
-
-## See Also
-
-- grindelia — gumweed, traditional respiratory herb paired with yerba santa
-- [[glycyrrhiza-glabra]] — licorice root, synergistic respiratory expectorant
-- [[eschscholzia-californica]] — California poppy, native medicinal herb
+In Western [[glycyrrhiza-glabra]] — licorice root, synergistic respiratory expectorant
 - [[verbascum-thapsus]] — mullein, respiratory remedy from a different tradition
 - [[usnea-barbata]] — old man's beard lichen, respiratory remedy in traditional medicine

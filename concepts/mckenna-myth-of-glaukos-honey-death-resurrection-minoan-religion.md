@@ -19,13 +19,8 @@ type: concept
 
 created: 2026-05-07
 ---
-# The [[minoan-mushroom-cult-and-myth-of-glaukos]] - Honey, Death and Resurrection in Minoan Religion
-
-## Overview
-
-The myth of Glaukos, son of King Minos and the Moon Goddess Pasiphae, oterence-mckenna-[[tryptamine]]-hypothesise
-position in [[terence-mckenna]]'s argument for the psychoactive origins of Minoan religion. This
-curious and relatively neglected myth preserves what McKenna reads as a esacred-gasteromycetes-non-[[psilocybin]]-psychoactive-fungia sacred relationship between honey, psychoactive fungi, and the ritual of resurrection, a
+# The [[terence-mckenna]]'s argument for the psychoactive origins of Minoan religion. This
+curious and relatively neglected myth preserves what McKenna reads as a esacred-gasteromycetes-non-psychoactive-fungia sacred relationship between honey, psychoactive fungi, and the ritual of resurrection, a
 relationship allegro fertility philosophy of the ancient near eastects Minoan Crete to the broader partnership cultures of the ancient
 Mediterranean and Near East.,
 where the kykeon was prepared and consumed from sacred vessels.
@@ -66,7 +61,7 @@ of the transition from active mushroom use to a religion where the original psyc
 sacrament had been replaced by its fermented honey vehicle, and where the old knowledge of
 resurrection through plant ecstasy was preserved only in myth and ritual form.
 
-## Significance for the Eleusinian Mysteries
+## Significance for the [[eleusinian-mysteries]]
 
 The Glaukos myth provides a mythological bridge between Minoan religion and the later
 Eleusinian Mysteries of mainland Greece. Both involve:
@@ -110,3 +105,7 @@ the subjugation of nature, the Minoans understood their gods as "a kind of psych
 climate" — immanent, participatory, accessible through botanical means rather than
 requiring priestly intermediaries. The Glaukos myth, in this reading, is a fossil of
 that older, partnership-oriented worldview.
+
+## See Also
+
+- [[mckenna-food-gods-minoan-crete-mushroom-religion]]

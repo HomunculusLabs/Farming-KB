@@ -21,7 +21,7 @@ family Betulaceae. Although not legumes, alders have the remarkable
 ability to fix up to 300 kg of nitrogen per hectare per year through
 nodules on the roots formed by the bacteria Frankia (referred to in the
 source as Schinzia alni). The trees are mostly deciduous and many are
-notable softwood timber trees. In [[gaias-garden-urban-permaculture-design]], alders serve as essential [[permaculture-pioneer-species]] and soil builders.
+notable softwood timber trees. In [[permaculture-pioneer-species]] and soil builders.
 
 ## Nitrogen Fixation and Soil Building
 
@@ -85,11 +85,7 @@ range from gravel to sand and clay. The tree coppices well.
 A tall tree to 35 metres native to the northwestern Himalayas, where it
 is used for timber.
 
-### [[alnus-rubra]] (Oregon Alder / Red Alder)
-Native to low-elevation coastal northwestern North America. One of the
-most productive trees in North America at 10-11 cubic metres per hectare
-per year on a 20-30 year rotation. A very vigorous plant able to cope
-with grasses, making it an ideal [[tagasaste-nurse-crop-fodder-systems]]. The tree
+### [[tagasaste-nurse-crop-fodder-systems]]. The tree
 coppices well and makes good charcoal.
 
 ## Fodder Value
@@ -97,7 +93,7 @@ coppices well and makes good charcoal.
 The leaves of common alder are eaten by horses, goats, cows, and sheep.
 The ability of wide-spaced alder plantings to increase fodder production
 several fold through nitrogen fixation and shelter makes them valuable
-components of [[forage-and-fodder-trees-permaculture-systems]] and [[broadscale-permaculture-techniques-mollison]] designs.
+components of [[broadscale-permaculture-techniques-mollison]] designs.
 
 ## Dye and Medicinal Uses
 
@@ -129,11 +125,4 @@ bank restoration and flood-prone areas.
 
 ## Permaculture Integration
 
-In [[comparison-food-forest-design-vs-backyard-orchard-design]] designs, alders are typically placed as
-nurse trees and nitrogen providers on the edges of the system or along
-watercourses. Their rapid growth provides early shelter and soil
-improvement for establishing slower-growing, longer-term species.
-
-## See Also
-
-- [[permplant-leucaena-tropical-nitrogen-fixing-tree]]
+In [[permplant-leucaena-tropical-nitrogen-fixing-tree]]

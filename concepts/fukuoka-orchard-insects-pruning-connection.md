@@ -13,7 +13,7 @@ updated: 2026-04-18
 
 Masanobu Fukuoka identified a direct causal relationship between the
 pruning of fruit trees and the subsequent appearance of insect pests.
-This insight is fundamental to his [[fukuoka-argument-against-pruning]] and his broader understanding of [[fukuoka-pest-ecology]] in orchard systems.
+This insight is fundamental to his [[fukuoka-pest-ecology]] in orchard systems.
 
 ## The Original Orchard Experiment
 
@@ -81,15 +81,8 @@ human intervention that had disrupted the natural equilibrium.
 
 The insects are not enemies to be destroyed but messengers telling the
 farmer that something has gone wrong in his management. This is
-consistent with his broader philosophy that [[vegetable-insect-and-disease-control]].
-
-## See Also
-
-- [[fukuoka-argument-against-pruning]]
-- [[fukuoka-no-prune-fruit-tree-method]]
+consistent with his broader philosophy that [[fukuoka-argument-against-pruning]]
 - [[fukuoka-natural-tree-form-argument]]
-- [[fukuoka-pest-ecology]]
 - [[fukuoka-natural-fruit-tree-pest-control]]
-- [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]
 - [[fukuoka-morishima-acacia-orchard-integration]]

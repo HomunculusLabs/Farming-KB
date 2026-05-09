@@ -104,47 +104,7 @@ soil physicochemical variables.
 
 ## Edaphic Correlation with Cannabinoid Profile
 
-The [[soil-edaphic-factors-microbial-communities]]
-most strongly correlated with community structure were nitrogen, salinity,
-carbon, water content, and pH. These same factors likely influence
-cannabinoid biosynthesis through their effects on plant nutrition, stress
-physiology, and metabolic resource allocation. For example:
+The [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
 
-- Nitrogen availability directly affects the balance between growth and
-  secondary metabolite production
-- Carbon availability influences the carbon skeletons available for
-  cannabinoid biosynthesis
-- Water stress can upregulate cannabinoid production as a stress response
-
-## Implications for Future Research
-
-The cannabinoid-microbiome correlation, even if confounded, opens
-important avenues for investigation. Winston et al. specifically recommend:
-
-- **Increased cannabinoid testing**: More comprehensive cannabinoid
-  profiling across all cultivars and soil types to increase statistical
-  power
-- **Controlled experiments**: Growing the same cultivar in different
-  soils while measuring both cannabinoid profiles and microbiome
-  composition to separate soil from genotype effects
-- **Time-series sampling**: Tracking cannabinoid and microbiome changes
-  across the reproductive cycle to identify temporal correlations
-- **Decoupling approaches**: Using grafted plants or isogenic lines to
-  separate root genotype from shoot cannabinoid production
-
-Understanding whether cannabinoids actively shape the root microbiome
-could have significant practical implications. If specific cannabinoids
-recruit beneficial microbes, this could inform breeding programs and
-microbial inoculant development. Conversely, if the correlation is driven
-solely by shared soil and genotype factors, it would redirect research
-toward soil management as the primary lever for microbiome engineering.
-
-## See Also
-
-- [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
-
-- [[cannabis-cultivar-microbiome-specificity]] for cultivar community
-  differences
 - [[soil-edaphic-factors-microbial-communities]] for soil chemistry effects
-- [[endorhiza-bacterial-communities]] for endorhiza community details
 - [[cannabis-microbiome-research]] for future research directions

@@ -25,7 +25,7 @@ sources:
 
 2C-G-5 is remarkably potent and extraordinarily long-lasting:
 
-- At 14 mg: fully aware of effects at two hours, totally unwilling to drive. Reminded continuously of [[2c-b-entity]] with its erotic push and benign interplay of colors and visual effects, but "so much longer lived." Full +++, very stoned, with no believable sign of dropping for several hours. Good appetite. Sleep possible for a few hours, but still spacey the next day. Not baseline until two full days later, with "micro doze-offs" throughout
+- At 14 mg: fully aware of effects at two hours, totally unwilling to drive. Reminded continuously of [[2c-b]] with its erotic push and benign interplay of colors and visual effects, but "so much longer lived." Full +++, very stoned, with no believable sign of dropping for several hours. Good appetite. Sleep possible for a few hours, but still spacey the next day. Not baseline until two full days later, with "micro doze-offs" throughout
 
 - At 16 mg: first effects within one hour, full effects between 2.5 and 3 hours. "Tremendous clarity of thought, cosmic but grounded." Not like LSD, mellower than the 2C-T family. Delightful and fun, safe and good-humored. The first 16 hours were great, the second 16 hours "a bit of a drag"
 
@@ -119,11 +119,7 @@ The compound's existence in PIHKAL has inspired subsequent researchers to explor
 
 ## Related Compounds
 
-- [[2c-b-entity]] -- compared in subjective effects
-
 - [[2c-g-entity]] -- simpler 2C-G series member
-
-- [[2c-family-compounds-overview]] -- 2C family overview
 
 - [[phenethylamine-pharmacology]] -- general pharmacology
 - [[2c-g-3-entity]]

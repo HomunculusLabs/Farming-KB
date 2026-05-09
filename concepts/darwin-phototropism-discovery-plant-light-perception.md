@@ -41,7 +41,7 @@ One of the most important implications of Darwin's experiment is the demonstrati
 
 ### Implications for Plant Biology
 
-This separation of perception and response became a central organizing principle in plant physiology. It led to the eventual discovery of [[plant-hormones-and-chemical-signaling-systems|plant hormones]], particularly [[auxin-production-by-symbiotic-fungi|auxins]], that mediate the bending response. The concept that a plant can "see" in one location and "respond" in another fundamentally changed how scientists understood plant integration and coordination of growth.
+This separation of perception and response became a central organizing principle in plant physiology. It led to the eventual discovery of [[auxin-production-by-symbiotic-fungi|auxins]], that mediate the bending response. The concept that a plant can "see" in one location and "respond" in another fundamentally changed how scientists understood plant integration and coordination of growth.
 
 ## The Maryland Mammoth Tobacco
 
@@ -57,31 +57,7 @@ In 1918, Wightman W. Garner and Harry A. Allard, two scientists at the US Depart
 
 ### The Discovery of Photoperiodism
 
-Simply limiting the amount of light the plants saw was enough to cause Maryland Mammoth to stop growing and start flowering. If exposed to the long days of summer, it kept growing leaves, but if it experienced artificially shorter days, it flowered. This phenomenon, called [[photoperiod-cannabis|photoperiodism]], provided the first strong evidence that plants measure how much light they take in.
-
-### Short-Day and Long-Day Plants
-
-Many plants flower only if the day is short, referred to as "short-day" plants, including chrysanthemums and soybeans. Some plants need a long day to flower, such as irises and barley. This discovery meant that farmers could manipulate flowering to fit their schedules by controlling the light that a plant sees, a technique still used in commercial greenhouse operations today.
-
-## Measuring Night Length, Not Day Length
-
-Scientists discovered that they could manipulate when plants flowered simply by quickly turning lights on and off in the middle of the night. They could take a short-day plant like the soybean and keep it from flowering in short days by turning on lights for only a few minutes in the middle of the night. These experiments proved that what a plant measures is not the length of the day but the length of the continuous period of darkness.
-
-### The Night-Break Experiment
-
-A long-day plant like the iris could be made to flower in the middle of winter by shining lights for just a few moments in the middle of the night. Chrysanthemum farmers keep their plants from flowering by turning on lights for a few minutes at night throughout autumn and winter, then stopping two weeks before Mother's Day so all plants flower at once. The plant effectively counts the hours of uninterrupted darkness.
-
-## The Red and Far-Red Phytochrome Switch
-
-Scientists found that plants only responded to a flash of red during the night. Blue or green flashes had no influence on flowering, but only a few seconds of red light would do. Then in the early 1950s, Harry Borthwick and colleagues made the amazing discovery that far-red light, wavelengths a bit longer than bright red and most often seen at dusk, could cancel the effect of red light.
-
-### The Light-Activated Switch
-
-If you take irises that normally do not flower in long nights and give them a shot of red light in the middle of the night, they will make flowers. But if you shine far-red light on them right after the pulse of red, it is as if they never saw the red light. Hit them with red again after the far-red, and they will. This red-far-red reversibility works like a light-activated switch.
-
-## Warren Butler and the Discovery of Phytochrome
-
-By the time John F. Kennedy was elected president, Warren L. Butler and his colleagues had demonstrated that a single photoreceptor in plants was responsible for both the red and far-red effects. They called this receptor [[phytochrome-and-plant-light-perception|phytochrome]], meaning "plant colour." In its simplest model, phytochrome is the light-activated switch. Red light activates phytochrome, turning it into a form primed to receive far-red light, and vice versa.
+Simply limiting the amount of light the plants saw was enough to cause Maryland Mammoth to stop growing and start flowering. If exposed to the long days of summer, it kept growing leaves, but if it experienced artificially shorter days, it flowered. This phenomenon, called [[what-a-plant-knows-plant-vision-and-light-perception|phytochrome]], meaning "plant colour." In its simplest model, phytochrome is the light-activated switch. Red light activates phytochrome, turning it into a form primed to receive far-red light, and vice versa.
 
 ### The Molecular Mechanism
 
@@ -97,37 +73,8 @@ Surprisingly, the "eye" for photoperiodism is not in the tip of the plant as Dar
 
 ## The Legacy for Modern Plant Biology
 
-Darwin's phototropism experiments opened an entire field of inquiry into plant sensory biology. From Sachs's blue light discovery to Garner and Allard's photoperiodism, from Borthwick's red-far-red experiments to Butler's phytochrome, each finding built upon the last. Modern plant biology now recognizes multiple photoreceptor families including [[phototropism-photoperiodism-discovery-phytochrome|phototropins]], cryptochromes, and [[phytochrome-red-far-red-switch-and-photoperiodism|phytochromes]], each sensitive to different wavelengths.
+Darwin's phototropism experiments opened an entire field of inquiry into plant sensory biology. From Sachs's blue light discovery to Garner and Allard's photoperiodism, from Borthwick's red-far-red experiments to Butler's phytochrome, each finding built upon the last. Modern plant biology now recognizes multiple photoreceptor families including phototropins, cryptochromes, and [[julius-von-sachs-blue-light-phototropism-discovery]]
 
-### Agricultural Applications
-
-The practical applications of these discoveries have been enormous. Greenhouse operators use photoperiod manipulation to control flowering in ornamental and crop plants. Plant breeders select for specific photoperiod responses to adapt crops to different latitudes. Understanding light perception has enabled the development of indoor growing systems that optimize light quality and duration for maximum productivity.
-
-## Philosophical Implications for Plant Sentience
-
-The discoveries reviewed here challenge anthropocentric assumptions about perception and intelligence. Plants monitor their visible environment all the time. They see if you come near them, they know when you stand over them, and they even know if you are wearing a blue or a red shirt. Plants can tell when there is very little light or when it is the middle of the day, and they know if another plant has grown over them, blocking their light.
-
-### Redefining Vision
-
-While plants do not see in pictures as humans do, they possess photoreceptors that receive specific wavelengths of electromagnetic energy, just as our eyes do. The Darwinian tradition of plant research demonstrates that the boundary between "seeing" and "responding to light" is far more porous than commonly assumed. Plants may not have brains, but they have sophisticated systems for perceiving and responding to their optical environment.
-
-## Summary
-
-From Darwin's elegant five-seedling experiment through Sachs's blue light discovery, Garner and Allard's photoperiodism, and the phytochrome red-far-red switch of Borthwick and Butler, the study of plant light perception reveals organisms of remarkable sensory sophistication. Plants measure night length rather than day length, use different photoreceptors for different purposes, and integrate light information across their entire structure to coordinate growth and reproduction.
-
-## The Broader Significance of Darwin's Plant Work
-
-Darwin's experiments with plant phototropism are often overshadowed by his evolutionary theory, but they represent some of the most elegant experimental design in the history of biology. The five-seedling experiment demonstrated a principle that extends far beyond botany: the idea that perception and response can be spatially separated within a single organism.
-
-This insight anticipated modern concepts of signal transduction, hormone signaling, and intercellular communication that are central to contemporary molecular biology. Darwin's observation that the coleoptile tip could sense light and transmit that information to the responding tissue below laid the groundwork for the entire field of plant hormone research, culminating in the discovery of auxin half a century later.
-
-## See Also
-
-- [[julius-von-sachs-blue-light-phototropism-discovery]]
-
-- [[phytochrome-and-plant-light-perception]] -- phytochrome photoreception mechanisms
-- [[phototropism-photoperiodism-discovery-phytochrome]] -- phototropism and photoperiodism overview
 - [[phytochrome-red-far-red-switch-and-photoperiodism]] -- red/far-red molecular switch
-- [[phytochrome-mobile-signal-leaf-flowering-regulation]] -- leaf-based flowering signals
-- [[plant-hormones-and-chemical-signaling-systems]] -- plant hormone signaling
+- phytochrome mobile signal leaf flowering regulation -- leaf-based flowering signals
 - [[photoperiod-cannabis]] -- photoperiodism in cannabis cultivation

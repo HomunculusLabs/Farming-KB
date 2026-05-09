@@ -80,11 +80,7 @@ Genetically modified organisms combine enhanced degradative capabilities:
 
 ## See Also
 
-- [[mycoremediation-of-pahs]]
 - [[mycoremediation-of-petroleum-hydrocarbons]]
-- [[enzymatic-degradation-in-mycoremediation]]
 - [[mycoremediation-pcbs-and-dioxins]]
-- [[mycoremediation-heavy-metals-detailed]]
 - [[fungal-competition-survival-contaminated-soils]]
-- [[fungal-degradation-of-pcbs-by-white-rot-fungi]]
 - [[singh-ligninolytic-enzymes-fungal-bioremediation]]

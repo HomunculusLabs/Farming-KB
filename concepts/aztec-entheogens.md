@@ -26,8 +26,8 @@ flowers." Dr. Francisco Hernandez, physician to the King of Spain, documented
 three kinds of intoxicating mushrooms worshiped by the Aztecs, describing
 their varying effects from uncontrolled laughter to terrifying visions.
 
-See also: [[pre-columbian-mushroom-use]], [[teonanacatl-and-mesoamerican-mushroom-cults]],
-[[teonanacatl-history]], [[aztec-mushroom-feasts-and-revelations]]
+See also: [[teonanacatl-and-mesoamerican-mushroom-cults]],
+[[aztec-mushroom-feasts-and-revelations]]
 
 ## Ololiuqui -- Morning Glory Seeds
 
@@ -38,18 +38,7 @@ constituents (lysergic acid amides) are found only in an unrelated group of
 fungi containing ergot, which may have been hallucinogenically important in
 ancient Greece.
 
-See also: Ololiuqui, [[kykeon-elixir]]
-
-## Peyotl -- The Sacred Cactus
-
-Peyote ([[ethnomycology]]) was another major Aztec
-entheogen. Of great antiquity, its use has now spread from its original
-Mexican homeland to Texas, where it became the basis of a new Native American
-religion. Its main psychoactive alkaloid, mescaline, was later utilized in
-psychiatry.
-
-See also: [[mescaline-ethnobotany]], [[mescaline-peyote-san-pedro-cactus]],
-[[huichol-peyote-tradition]]
+See also: Ololiuqui, [[mescaline-ethnobotany]], [[huichol-peyote-tradition]]
 
 ## Pipiltzintzintli -- The Noble Prince
 
@@ -73,46 +62,25 @@ contained tropane alkaloids and were used for divination, healing, and ritual
 purposes. Their use extended both northward and southward from the Aztec
 heartland.
 
-See also: [[datura-stramonium]], [[brugmansia-entheogens]],
-[[nightshade-plants-entheogen]]
-
-## Salvia Divinorum -- The Diviner's Sage
-
-The diviner's sage, known to the ancient Aztecs, is still employed in
-southern Mexico by Mazatec shamans. Schultes and Hofmann note its importance
-in Aztec religion and its continuing use in contemporary indigenous practice.
-
-## The Xochipilli -- Prince of Inebriating Flowers
-
-A remarkable early-sixteenth-century Aztec statue of Xochipilli, the Aztec
-Prince of Flowers, was discovered on the slopes of Mt. Popocatepetl. His face
-shows ecstasy, as though seeing visions, with his head slightly tilted as if
-hearing voices. His body is engraved with stylized flowers identified as
-sacred and mostly inebriating plants. The pedestal features cross-sections of
-the caps of Psilocybe aztecorum, a hallucinogenic mushroom known only from
-this volcano. Xochipilli thus represents the Prince of Inebriating Flowers,
-including the mushrooms that in Nahuatl poetry were called "flowers that
-intoxicate."
-
-## Spanish Conquest and Suppression
-
-When the Spaniards conquered Mexico, they were aghast to find natives
-worshiping their deities with inebriating plants: Peyotl, Ololiuqui,
-Teonanacatl. The ecclesiastical authorities set out to eradicate their use
-in religious practices. Bernardino de Sahagun, a Franciscan friar who came to
-Mexico in 1529, made one of the earliest ethnobotanical studies of Aztec
-medicine, documenting the diverse pharmacopoeia even as the Church worked to
-suppress it.
-
-## Legacy
-
-The Aztec entheogenic tradition represents one of the richest
-pre-Columbian ethnomedical systems known. The novel psychoactive structures
-found in Teonanacatl (psilocybine and psilocine) are not known in any other
-plants, making the Aztec mushroom cult biochemically significant. The
-civilization's sophisticated integration of diverse psychoactive species into
-religious, medicinal, and divinatory practice remains a cornerstone of
-ethnobotanical study.
-
-See also: [[maya-entheogens]], richard evans schultes updated,
+See also: [[brugmansia-entheogens]],
+[[maya-entheogens]], richard evans schultes updated,
 albert hofmann, [[gordon-wasson-comparative-method-ethnomycology]]
+## Practical Considerations
+
+Successful implementation of Aztec Entheogens in Plants of the Gods requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

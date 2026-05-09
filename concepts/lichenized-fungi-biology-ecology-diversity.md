@@ -3,7 +3,7 @@ title: Lichenized Fungi — Biology, Ecology, and Diversity
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md]
 ---
 
@@ -109,14 +109,7 @@ Because lichen thalli are:
 
 ## See Also
 
-- [[fungal-phylogeny-kingdom-classification]]
 - [[macrofungal-sampling-design-plots-transects]]
-- [[macrofungi-seasonality-annual-variation]]
-
-## Related
-
 - [[lichen-symbiosis-mechanisms-photobiont-selection]]
-- [[fungal-biodiversity-forest-floor]]
 - [[lichen-biodiversity-sampling-protocols-data-analysis]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[old-growth-forest-fungi-conservation]]

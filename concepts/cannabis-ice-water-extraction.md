@@ -129,15 +129,9 @@ Important safety tips for water extraction:
 
 ## See Also
 
-- [[ice-cream-cake-cannabis]]
-
 - [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
 
-- [[cannabis-hashish-production]]
 - [[cannabis-kief-collection]]
-- [[cannabis-solvent-extraction]]
 - [[cannabis-quality-testing]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[cannabis-indoor-growing-guide]]
 - [[water-pathways-through-plants]]

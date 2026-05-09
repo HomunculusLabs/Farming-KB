@@ -12,37 +12,13 @@ sources:
 
 Updated: 2026-04-18
 
-Dr. Elaine Ingham emphasizes that the most critical missing component in most agricultural soils is beneficial fungal biomass. Conventional tillage and chemical applications destroy fungal hyphae, and restoring them requires deliberate sourcing of high-quality fungal inoculum from compost, forest soils, or commercial products. Understanding how to identify, source, and apply beneficial fungi is central to the [[ingham-aact-disease-suppression]] and soil-building goals of [[cervantes-compost-tea-organic-brewing]].
+Dr. Elaine Ingham emphasizes that the most critical missing component in most agricultural soils is beneficial fungal biomass. Conventional tillage and chemical applications destroy fungal hyphae, and restoring them requires deliberate sourcing of high-quality fungal inoculum from compost, forest soils, or commercial products. Understanding how to identify, source, and apply beneficial fungi is central to the [[cervantes-compost-tea-organic-brewing]].
 
 ## Why Fungi Are Lost
 
 Fungal hyphae are physically broken by tillage. Every pass with a plow, rototiller, or disc severs the filamentous networks that fungi have built through the soil. Chemical fertilizers and pesticides further reduce fungal populations by eliminating the organisms on which fungi depend or by directly killing sensitive species. Ingham notes that compost tea "provides the inoculum of fungi, since that is most often what is lost with conventional tillage and chemical applications."
 
-The result is that most agricultural soils are bacterial-dominated -- 75% of the time, according to Ingham. While annual vegetables and row crops can tolerate bacterial soils, perennials, trees, and shrubs require fungal-dominated soil food webs for optimal health. Even annual crops benefit from elevated fungal biomass for disease resistance and [[composting-and-soil-biology]].
-
-## Identifying Beneficial Fungi in Compost
-
-The visual appearance of fungi in compost tells you a great deal about quality. Ingham provides clear guidance on what to look for and what to avoid.
-
-### Desired: Thick White Strands
-
-The target is thick, white, yellow, pink, or tan strands of fungal hyphae growing through the compost material itself. These should be:
-
-- **In the compost**, not just on the surface -- true beneficial saprophytic fungi colonize the organic matter
-- **Thick strands**, not fuzzy or wispy -- wider hyphal diameter (2.5 micrometers or greater) correlates with beneficial species
-- **Continuous networks**, not isolated patches -- this indicates active growth rather than dormant spores
-
-### Undesired: Fuzzy Grey Growth
-
-Grey, fuzzy, aerial white growth on the compost surface is almost certainly not what you want. Ingham identifies these as likely Fusarium or other opportunistic species. The key distinction:
-
-- **Fuzzy grey** = typically undesirable, often a disease organism
-- **Thick white strands in the compost** = beneficial saprophytic fungi
-- **Small umbrella-like sporulating structures** = likely Phytophthora, a serious pathogen
-
-### Avoiding Spore-Only Fungi
-
-Spores appear as dust clouds when compost is disturbed. Ingham warns: "We don't want those dust clouds. Not good for you. Not the best fungi." Spores indicate that the fungi are not actively growing in vegetative form. Active hyphal growth is far more valuable than dormant spores for [[aact-compost-quality-standards-ingham]].
+The result is that most agricultural soils are bacterial-dominated -- 75% of the time, according to Ingham. While annual vegetables and row crops can tolerate bacterial soils, perennials, trees, and shrubs require fungal-dominated soil food webs for optimal health. Even annual crops benefit from elevated fungal biomass for disease resistance and [[aact-compost-quality-standards-ingham]].
 
 ## Sourcing Fungi from Forest Soils
 
@@ -67,8 +43,7 @@ Alaska humus is noted as generally high in fungal biomass and can serve as a rel
 
 The source matters enormously. Ingham distinguishes between:
 
-- **Healthy trees**: Deep roots going far into the soil, indicating adequate [[mycorrhizal-fungi-basics-lowenfels]] associations and aerobic soil conditions
-- **Unhealthy trees**: Surface-running roots, indicating [[aact-aeration-oxygen-management-ingham]] and anaerobic conditions that suppress beneficial fungi
+- **Healthy trees**: Deep roots going far into the soil, indicating adequate [[aact-aeration-oxygen-management-ingham]] and anaerobic conditions that suppress beneficial fungi
 
 Only collect from under healthy trees. Unhealthy sites may harbor opportunistic or pathogenic species rather than the desired beneficials.
 
@@ -78,19 +53,7 @@ AACT extracts the fungi present in the starting compost. This means the compost 
 
 ### Minimum Fungal Biomass
 
-Ingham's SFI compost standards require visible fungal hyphae in the compost. The [[aact-compost-organism-levels]] for compost specify that hyphal diameters should average 2.5 micrometers or greater. Tea brewed from compost meeting these standards will contain extracted fungal biomass adequate for foliar protection and soil inoculation.
-
-### Mycorrhizal Spores in Tea
-
-Ingham is clear that mycorrhizal spores will NOT survive the compost tea brewing process: "They are too delicate just after germination, and they are smashed in the tea brewing process." Mycorrhizal spores should be added to the tea just before spraying, not during the brew cycle. This is because mycorrhizal fungi require a living root to colonize -- they cannot complete their life cycle in liquid culture.
-
-## Saprophytic vs Pathogenic Fungi
-
-Understanding the ecological roles of different fungal groups helps with identification and management decisions.
-
-### Saprophytic Fungi
-
-Most fungi are saprophytic -- they use dead organic matter as their food source. The greatest number of fungal species fall in this category. Saprophytic fungi are essential for decomposition, nutrient cycling, and building [[ingham-glomalin-biological-soil-glues]]. Beneficial saprophytes tend to have wider-diameter hyphae and are more efficient at using litter resources than disease organisms.
+Ingham's SFI compost standards require visible fungal hyphae in the compost. The [[ingham-glomalin-biological-soil-glues]]. Beneficial saprophytes tend to have wider-diameter hyphae and are more efficient at using litter resources than disease organisms.
 
 ### Pathogenic Fungi
 

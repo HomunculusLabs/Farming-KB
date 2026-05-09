@@ -3,7 +3,7 @@ title: Fungal Trophic Modes and Nutritional Guilds
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -113,18 +113,11 @@ The relationship between fungal trophic diversity and ecosystem function highlig
 
 ## Related Concepts
 
-- [[fungal-ecosystem-processes-overview]]
 - [[fungal-decomposition-processes]]
-- [[fungal-saprotrophic-enzymatic-strategies]]
 - [[fungal-enzyme-systems-and-nutrient-cycling]]
-- [[fungal-communities-succession]]
 - [[fungal-resource-use-efficiency]]
-- [[fungal-carbon-substrate-utilization-efficiency]]
 - [[ectomycorrhizal-fungal-ecology]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]
-- [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-competition-antagonism-soil]]
-- [[fungal-decomposition-succession-resource-quality]]
 - [[fungal-ecosystem-roles]]
 - [[fungal-decomposition-resource-quality-determinants]]

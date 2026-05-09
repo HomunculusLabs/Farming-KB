@@ -138,13 +138,12 @@ mass spectrometry (IRMS), interfaced to a solid/liquid preparation
 module that measures 13C/12C ratios of combusted CO2.
 
 Specific bacterial PLFAs including i15:0, a15:0, i16:0, 10Me16:0,
-i17:0, a17:0, cy17:0, 10Me17:0, and cy19:0 serve as indicators of
 ## Related
-
-- [[mycorrhizal-deforestation-cascade]]
 
 - [[mycorrhizal-allelochemicals]]
 
-- [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] Topics
-
 - [[symbiotic-fungi-endophytic-fungi-in-plants]] for in vitro systems
+
+## See Also
+
+- [[symbiotic-fungi-mycorrhizal-carbon-trading]]

@@ -83,5 +83,4 @@ For high-altitude or marginal-climate sites, species and variety selection is cr
 - Hardy grape varieties: Select early-ripening varieties suited to short growing seasons
 - Isabella/Schuyler: Cold-hardy grape varieties suitable for marginal climates
 
-See also: [[holzer-grafting-fruit-forest]], [[holzer-microclimate-creation]], [[holzer-urban-farming]], [[holzer-balcony-garden]], [[holzer-terrace-systems]], [[holzer-fruit-growing-marginal-climates]], [[holzer-raised-bed-design-principles]]
-- [[holzer-stone-fruit-varieties-and-growing]]
+See also: [[holzer-microclimate-creation]], [[holzer-balcony-garden]], [[holzer-fruit-growing-marginal-climates]], [[holzer-stone-fruit-varieties-and-growing]]

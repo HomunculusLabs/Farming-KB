@@ -82,33 +82,7 @@ harvested biomass.
 Beyond heavy metals, mushrooms can absorb organochlorine
 pesticides, polychlorinated biphenyls (PCBs), polycyclic aromatic
 hydrocarbons (PAHs), and other persistent organic pollutants.
-[[white-rot-fungi]] are particularly effective at degrading many of
-these compounds through their ligninolytic enzyme systems. However,
-degradation is not always complete, and intermediate breakdown
-products may also be toxic.
-
-## Mycoremediation Site Safety Protocols
-
-Critical safety principles for mycoremediation projects include:
-
-- **Never eat mushrooms from contaminated sites**: Mushrooms used
-  for bioremediation must be treated as contaminated waste, not
-  food. This applies to both the fruiting bodies and the spent
-  substrate.
-- **Label all remediation materials clearly**: Ensure that
-  mycoremediation substrate and mushrooms are distinctly marked
-  to prevent accidental consumption.
-- **Control access to remediation areas**: Restrict access to
-  sites where mushrooms are deployed on contaminated substrates.
-- **Test before deploying**: Analyze substrate and soil for
-  contaminant profiles before beginning remediation work.
-- **Dispose of spent biomass properly**: After remediation,
-  fungal biomass containing concentrated contaminants must be
-  disposed of according to local hazardous waste regulations.
-
-## Spent Substrate Disposal
-
-After a mycoremediation cycle, the [[spent-mushroom-substrate]]
+[[spent-mushroom-substrate]]
 contains concentrated contaminants. This material should not be
 used as garden mulch, animal feed, or compost for food crops.
 Appropriate disposal methods depend on the specific contaminants
@@ -140,9 +114,6 @@ apply the precautionary principle: when in doubt about substrate
 safety, do not use the material for food production. The cost of
 testing is minimal compared to the potential health consequences
 of consuming contaminated mushrooms. This is especially important
-for mushrooms sold commercially, where food safety regulations
-may apply.
-
 ## See Also
 
 - [[cotter-mycoremediation-overview]] practices and safety

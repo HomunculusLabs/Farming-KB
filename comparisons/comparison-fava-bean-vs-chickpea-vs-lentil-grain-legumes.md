@@ -23,59 +23,10 @@ created: 2026-05-03
 
 # Fava Bean vs Chickpea vs Lentil: Grain Legume Comparison
 
-Fava beans (*Vicia faba*), chickpeas (*Cicer arietinum*), and lentils (*Lens culinaris*) are three of the world's most important cool-season grain legumes. Each plays a vital role in sustainable agriculture through nitrogen fixation, human nutrition, and [[crop-rotation-vegetable-garden]]. This page compares them across key agronomic and culinary dimensions.
-
-## Botanical Overview
-
-| Trait | Fava Bean | Chickpea | Lentil |
-|-------|-----------|----------|--------|
-| **Species** | *Vicia faba* | *Cicer arietinum* | *Lens culinaris* |
-| **Family** | Fabaceae | Fabaceae | Fabaceae |
-| **Growth habit** | Upright, 0.3–1.8 m | Erect or bushy, 0.2–0.7 m | Slender, semi-erect, 0.2–0.5 m |
-| **Seed type** | Large, flat, oval | Round to irregular (desi/kabuli) | Small, lens-shaped |
-| **Chromosome count** | 2n = 12 | 2n = 16 | 2n = 14 |
-| **Genome size** | ~13 Gb (largest legume) | ~738 Mb | ~4 Gb |
-| **Days to maturity** | 90–220 | 90–150 | 80–130 |
-
-Fava beans are the largest-seeded cool-season legume and have an unusually large genome. Chickpeas split into two main types — kabuli (larger, light-colored) and desi (smaller, darker). Lentils produce the smallest seeds of the three and are among the oldest domesticated crops, with evidence of cultivation dating back to 8000 BCE.
-
-## Growing Conditions
-
-### Climate
-
-| Factor | Fava Bean | Chickpea | Lentil |
-|--------|-----------|----------|--------|
-| **Temperature range** | 4–25 °C optimal | 15–30 °C optimal | 10–25 °C optimal |
-| **Frost tolerance** | High (survives to −10 °C) | Moderate (seedlings tolerate light frost) | Moderate (survives to −8 °C) |
-| **Heat sensitivity** | High — drops flowers above 25 °C | Moderate — tolerates heat if moisture adequate | Moderate — heat reduces seed fill |
-| **Photoperiod** | Long-day | Day-neutral to [[short-day-and-long-day-plant-classification]] | Day-neutral |
+Fava beans (*Vicia faba*), chickpeas (*Cicer arietinum*), and lentils (*Lens culinaris*) are three of the world's most important cool-season grain legumes. Each plays a vital role in sustainable agriculture through nitrogen fixation, human nutrition, and [[short-day-and-long-day-plant-classification]] | Day-neutral |
 | **Ideal rainfall** | 600–1000 mm | 400–600 mm | 300–500 mm |
 
-Fava beans thrive in cool, moist conditions and are well-suited to maritime and high-latitude temperate climates. Chickpeas and lentils are both adapted to drier conditions, with lentils being the most [[drought-tolerant-planting-design]] of the three — a key reason for their importance in Mediterranean and South Asian agriculture.
-
-### Soil Requirements
-
-| Factor | Fava Bean | Chickpea | Lentil |
-|--------|-----------|----------|--------|
-| **Soil pH** | 6.0–8.0 (tolerates alkaline) | 6.0–8.5 (tolerates alkaline) | 6.0–8.0 |
-| **Texture** | Loam to clay loam | Sandy loam to loam (needs good drainage) | Loam to sandy loam (needs good drainage) |
-| **Salinity tolerance** | Moderate | Moderate | Low to moderate |
-| **Waterlogging tolerance** | Moderate | Very low | Very low |
-
-Chickpeas and lentils are highly sensitive to waterlogging and require well-drained soils. Fava beans are the most forgiving on heavier soils and can tolerate temporary waterlogging better than the other two.
-
-## Nitrogen Fixation Capacity
-
-All three form symbiotic relationships with rhizobia, but their fixation capacity varies significantly:
-
-| Metric | Fava Bean | Chickpea | Lentil |
-|--------|-----------|----------|--------|
-| **Symbiont** | *Rhizobium leguminosarum* sv. *viceae* | *Mesorhizobium ciceri* | *Rhizobium leguminosarum* sv. *lenti* |
-| **N fixed (kg/ha)** | 100–350 | 40–150 | 40–120 |
-| **Residual N benefit** | High | Moderate | Low to moderate |
-| **%N from fixation** | 60–80% | 50–70% | 40–60% |
-
-Fava beans are the strongest nitrogen fixers of the three, capable of contributing 200–350 kg N/ha under ideal conditions. This makes them the best choice for [[building-soil-fertility-long-term]] nitrogen in rotations. Lentils fix less total nitrogen due to their smaller biomass, but their N contribution is still agronomically meaningful in low-input systems.
+Fava beans thrive in cool, moist conditions and are well-suited to maritime and high-latitude temperate climates. Chickpeas and lentils are both adapted to drier conditions, with lentils being the most [[building-soil-fertility-long-term]] nitrogen in rotations. Lentils fix less total nitrogen due to their smaller biomass, but their N contribution is still agronomically meaningful in low-input systems.
 
 ## Yields
 
@@ -144,6 +95,5 @@ Ascochyta blight is a shared threat across all three, though caused by different
 | **Residual N for following crop** | 50–100+ kg/ha | 30–60 kg/ha | 20–40 kg/ha |
 ## See Also
 
-- [[cover-crops-green-manures]]
 - [[query-how-do-legumes-add-nitrogen-to-soil]]
 - [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]

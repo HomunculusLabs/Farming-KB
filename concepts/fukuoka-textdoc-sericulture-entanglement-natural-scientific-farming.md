@@ -136,10 +136,6 @@ nature.
 
 ## See Also
 
-- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
-- fukuoka textdoc sericulture entanglement natural scientific farming
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
-- [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
-- [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]

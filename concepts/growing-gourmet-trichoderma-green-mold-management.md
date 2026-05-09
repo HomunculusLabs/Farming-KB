@@ -63,63 +63,7 @@ proliferation:
 - Sustained high humidity (above 95%) without adequate air exchange
 - Free water pooling on substrate surfaces or container bottoms
 - Substrate temperatures exceeding 100 degrees F during
-  [[growing-gourmet-substrate-preparation]]
-- Poorly sterilized or pasteurized substrates
-- Compromised filter patches on spawn bags or containers
-- Introduction through contaminated tools, hands, or equipment
-- Spent or exhausted substrate left too long in growing rooms
-- Condensation within spawn containers during cold storage
-
-## Thermogenesis and Contamination Risk
-
-Supplemented substrates undergo thermogenesis, a spontaneous
-temperature increase as mycelium grows. If this biological
-combustion is not held in check, a plethora of molds awaken as the
-substrate temperature approaches 100 degrees F. Below this
-threshold, these organisms remain dormant, soon being consumed by
-mushroom mycelium.
-
-Simply spacing spawn bags apart from one another and lowering spawn
-room temperatures as thermogenesis begins can stop this catalytic
-climb. For many gourmet wood decomposers, a temperature plateau of
-75-85 degrees F is ideal during colonization. If internal
-temperatures exceed 100 degrees F, latent contaminants, especially
-thermophilic bacteria and black pin molds, spring forth,
-contaminating each and every bag.
-
-## Identifying Green Mold Contamination
-
-Green mold is universally bad in mushroom culture. On the surface
-of substrates or agar media, Trichoderma appears as rapidly
-expanding colonies of forest green color. It often starts as white
-mycelium that quickly sporulates to green. The spores are easily
-aerosolized and can spread rapidly through a growing facility.
-
-On sawdust blocks, green mold typically appears at sites of
-physical damage, at the filter patch, or where free water has
-accumulated. On straw substrates, it appears as green patches
-amidst the white mycelium. Any green coloration on mycelium or
-substrate should be treated as a contamination event requiring
-immediate action.
-
-## Prevention Strategies
-
-Prevention is far more effective than treatment once Trichoderma
-is established. Key preventive measures include:
-
-1. Maintain strict hygiene in all growing areas
-2. Fluctuate humidity rather than maintaining constant high levels
-3. Monitor substrate temperatures during colonization
-4. Ensure thorough sterilization of supplemented substrates
-5. Remove spent or exhausted substrate promptly
-6. Clean and disinfect growing rooms between crops
-7. Inspect filter patches regularly for mold penetration
-8. Handle substrate blocks carefully to avoid surface damage
-
-## Integration with Broader Contamination Control
-
-Green mold management is one component of a comprehensive
-[[growing-gourmet-contamination-prevention]]
+  [[growing-gourmet-contamination-prevention]]
 strategy. The six vectors of contamination include the air, the
 person, the tools, the outside of the vessel, the inoculum, and
 mobile contamination units. Addressing all vectors simultaneously
@@ -133,10 +77,6 @@ the facility several times using a 10% household bleach solution.
 
 ## Related
 
-- [[trichoderma-reesei]] Topics
-
 - [[growing-gourmet-contamination-prevention]]
-- [[growing-gourmet-six-vectors-of-contamination]]
 - [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-indoor-growing-environment]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]

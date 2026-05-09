@@ -17,18 +17,7 @@ first reported from northern Georgia in the southeastern United States.
 Discovered after Hurricane Opal swept through the region in 1995, this
 relatively rare species is notable for its strong bluing reaction, its
 tendency to form clusters (cespitose growth), and its moderate to high
-potency. The name honors [[andrew-weil]] and his role in promoting the
-beneficial properties of mushrooms. It remains a provisional name (nom.
-prov.) pending formal publication in a mycological journal.
-
-## Taxonomic Status
-
-The species was described by Guzman, Tapia, and Stamets in 1996. The
-epithet "weilii" pays tribute to Dr. Andrew Weil for his contributions
-to mycological awareness. As a provisional name, it awaits formal
-validation through publication meeting the requirements of the
-International Code of Botanical Nomenclature. The species is compared
-with Psilocybe caerulescens, [[psilocybe-baeocystis]], Psilocybe
+potency. The name honors [[psilocybe-baeocystis]], Psilocybe
 aztecorum, and Psilocybe heliconia in terms of its morphological
 characteristics and ecological niche.
 
@@ -119,13 +108,10 @@ the cap surface to confirm viscidity.
 
 ## Related
 
-- [[psilocybe-weilii]]
-
 - [[psilocybe-ovoideocystidiata-species-profile]] Concepts
 
 - Psilocybe Aztecorum
-- [[psilocybe-subaeruginosa-australia]]
-- [[psilocybe-caerulescens-entity]]
+- [[psilocybe-caerulescens]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
 - lignicolous-psilocybe-species
 - southeastern us psilocybe

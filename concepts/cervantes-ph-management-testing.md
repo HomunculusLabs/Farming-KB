@@ -67,20 +67,7 @@ convenient, economical, and accurate. Key points:
 - Designed to work in moist soil; dry soil produces inaccurate readings
 - Can measure pH thousands of times, unlike chemical kits (about a dozen uses)
 - Perpetual pH-metering devices are available for monitoring
-  [[cervantes-passive-wick-hydroponic-systems]] nutrient solutions continuously
-
-For accurate electronic pH meter readings:
-- Clean probes after each test and wipe away corrosion
-- Pack soil around the probes for good contact
-- Water soil with distilled or neutral pH water before testing
-
-## Stabilizing Soil pH with Dolomite Lime
-
-The easiest way to stabilize soil pH is mixing one cup of fine dolomite lime
-per cubic foot (0.25 liters or one ounce per gallon) of potting soil. Mix
-dolomite lime thoroughly into dry soil before planting. This buffer helps
-maintain pH in the optimal 6.5 to 7.0 range while also providing calcium and
-magnesium. See [[cervantes-dolomite-lime-ph-buffering]] for detailed guidance.
+  [[cervantes-dolomite-lime-ph-buffering]] for detailed guidance.
 
 ## Irrigation Water pH
 
@@ -110,6 +97,5 @@ Commercial potting soil is rarely above pH 7.5; lower pH (even as low as
 5.5) is more common. Most potting soils tend toward acidic, which is why the
 preventive dolomite lime application is so important.
 
-See also: [[cervantes-dolomite-lime-ph-buffering]],
-[[cannabis-advanced-growing-techniques]],
-[[cervantes-nutrient-solution-reservoir-management]], [[cervantes-growing-medium]], [[cervantes-macronutrient-deficiency-toxicity]]
+See also: [[green-cannabis-grow-bible-sog-scrog-advanced-methods]],
+[[cervantes-growing-medium]], [[cervantes-macronutrient-deficiency-toxicity]]

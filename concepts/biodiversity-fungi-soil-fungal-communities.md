@@ -18,10 +18,7 @@ type: concept
 
 Soil fungal communities represent one of the most diverse and ecologically
 significant components of terrestrial ecosystems. They drive
-[[fungal-decomposition-resource-quality-determinants]], carbon and nitrogen cycling, soil stabilization, and
-biogeochemical processes, while serving as primary, secondary, and
-tertiary decomposers in the complex degradation of organic matter. Soil
-fungi are of fundamental importance to [[fukuoka-natural-farming-soil-ecology-principles]], interacting with
+[[fukuoka-natural-farming-soil-ecology-principles]], interacting with
 virtually all other soil organisms in intricate food webs.
 
 ## Structure and Composition
@@ -132,10 +129,7 @@ appear to be primarily tropical in distribution.
 
 - biodiversity fungi soil fungal communities
 
-- [[gadd-fungal-ecology-pathogens]]
 - [[fukuoka-natural-farming-soil-ecology-principles]]
-- [[fungal-biodiversity-tropical-forests]]
 - [[fungal-decomposition-resource-quality-determinants]]
-- [[mycorrhizal-networks-interplant-carbon-transfer]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[endophytic-fungi]]

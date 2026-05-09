@@ -122,12 +122,7 @@ Fallen leaves and fruit rinds contribute substantially to mulch and soil organic
 
 ## See Also
 
-- [[boesenbergia-rotunda]]
-
-[[theobroma-cacao]]
-[[moringa-oleifera]]
+- [[theobroma-cacao]]
 [[bertholletia-excelsa]]
-[[persea-americana-entity]]
-carica papaya
 [[glycine-max]]
 [[anacardium-occidentale]]

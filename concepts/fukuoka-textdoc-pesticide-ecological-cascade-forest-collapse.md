@@ -129,10 +129,7 @@ In each case, the initial intervention seems rational and beneficial. It is only
 
 ## See Also
 
-- [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-rodenticide-ecosystem-disruption-chain]]
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-no-good-or-evil-in-nature]]
-- [[fukuoka-pest-ecology]]
 - [[fukuoka-ecological-balance-principles]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]

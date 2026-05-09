@@ -53,98 +53,66 @@ efficient a fungal inoculant may be under laboratory conditions.
 
 ## Accessing Sorbed Pollutants
 
-A fundamental question in [[fungal-bioremediation]] is whether fungi can
-transform sorbed pollutants or require them to be in solution first.
-White rot fungi secrete ligninolytic enzymes including lignin peroxidase
-and manganese peroxidase, which act extracellularly and may access some
-sorbed fractions. However, pollutants sequestered within soil micropores
-remain largely inaccessible even to these enzymes.
-
-## Soil Amendments to Enhance Bioavailability
-
-### Organic Amendments
-Adding straw, compost, or other organic materials to contaminated soil
-improves fungal growth and can increase pollutant transformation rates.
-Straw amendments increase hyphal length of white rot fungi in soil and
-provide a carbon source that stimulates fungal colonization. Straw to
-soil ratios of 1:4 or ground corn cob to soil ratios of 4:1 have been
-used successfully. Amendments may also sorb excess pollutants,
-decreasing their toxicity and allowing fungi to establish.
-
-### Surfactants
-Surfactants such as Tween 80 have been used to increase the
-bioavailability of PAHs by solubilizing hydrophobic compounds and
-making them more accessible to fungal enzymes. Results with surfactants
-have been generally positive, with increased PAH transformation
-observed in both liquid culture and soil systems.
-
-### Manganese Addition
-Manganese is an essential cofactor for manganese peroxidase, a key
-ligninolytic enzyme produced by white rot fungi. Addition of manganese
-to contaminated soil can stimulate peroxidase production and enhance
-pollutant degradation rates.
-
-## Soil Physicochemical Factors
-
-Multiple soil parameters affect both fungal growth and pollutant
-bioavailability simultaneously:
-
-- **Moisture content**: Different fungi have different moisture optima.
-  [[lentinula-edodes]] was more effective at transforming PCP at lower soil
-  moisture, while [[phanerochaete-chrysosporium]] performed better at
-  higher moisture levels
-- **pH**: Acidic conditions (pH 4) have been found optimal for PCP
-  transformation by both L. edodes and P. chrysosporium
-- **Organic matter content**: Higher organic matter increases sorption
-  capacity but may also provide carbon for fungal growth
-- **Temperature**: P. chrysosporium has a high optimum temperature of
-  40 degrees Celsius, limiting its use in cooler climates
-
-## Competition with Indigenous Microorganisms
-
-Introduced fungi face competition from well-adapted indigenous soil
-microbial communities. Different fungi show varying competitive
-abilities: Pleurotus species are generally better soil competitors than
-other white rot fungi. However, some less competitive species such as
-Dichomitus squalens may be more effective at stimulating overall
-degradation by the indigenous microflora. The complex interactions
-between inoculant, soil type, and resident microbiota remain poorly
-understood.
-
-## Monitoring Fungal Activity in Soil
-
-Several techniques are available for monitoring fungal growth and
-remediation activity in soil:
-
-- Image analysis of hyphal networks
-- Determination of extracellular enzyme activities such as lignin
-  peroxidase and manganese peroxidase
-- In situ fungal gene expression via mRNA extraction and reverse
-  transcriptase polymerase chain reaction
-- Radiolabelled pollutant tracking to follow biodegradation pathways
-
-## Assessment Challenges
-
-Chemical analysis using gas chromatography or HPLC coupled with mass
-spectrometry is required to follow POP transformation rates. Both
-disappearance of parent compounds and appearance of breakdown products
-must be monitored. In non-sterile soils, transformation by indigenous
-microbes complicates interpretation. Sorption to soil and enzymatic
-bonding can decrease parent pollutant concentrations without actual
-degradation, leading to overestimation of remediation success.
-
-## Risk-Based Remediation Endpoints
-
-Complete breakdown of POPs may not always be necessary to reduce
-environmental and health risks. A combination of chemical and
-toxicological methods is accepted for assessing treated soils.
-Residual toxicity testing alongside chemical analysis provides a more
-realistic evaluation and may allow for cost-effective treatment
-endpoints.
-
-## Related Topics
-
-- [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
+A fundamental question in [[lentinula-edodes]] was more effective at transforming PCP at lower soil
+  moisture, while [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
   for inoculant delivery
-- [[mycorrhiza-soil-bioremediation]] for PAH-specific approaches
 - [[fungal-enzymes-degradation]] for enzymatic mechanisms
+## Practical Considerations
+
+When working with Bioavailability of Pollutants in Fungal Bioremediation, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

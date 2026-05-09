@@ -134,10 +134,6 @@ Traditional uses include wound healing, respiratory conditions, and digestive co
 
 ## See Also
 
-- [[rosmarinus-officinalis-entity]]
-- [[lavandula-angustifolia-entity]]
-- [[salvia-officinalis]]
+- [[lavandula-angustifolia]]
 - [[thymus-vulgaris-entity]]
-- [[cistus-incanus]]
-- myrtle
 - [[dynamic-accumulators]]

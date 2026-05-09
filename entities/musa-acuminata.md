@@ -108,11 +108,7 @@ Genome editing using CRISPR-Cas9 has been applied to develop TR4-resistant banan
 ## See Also
 
 - [[manihot-esculenta]]
-- [[colocasia-esculenta]]
 - [[zea-mays]]
-- [[oryza-sativa]]
 - [[saccharum-officinarum]]
-- [[carica-papaya]]
 - [[mangifera-indica]]
-- [[garcinia-mangostana]]
 - [[euterpe-oleracea]]

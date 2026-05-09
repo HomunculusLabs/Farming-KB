@@ -79,29 +79,8 @@ On inhalation, the flavor is smooth with dominant pine and earthy
 notes, accompanied by a peppery spice on the back of the palate. The
 exhale carries a woody, hashish-like quality with subtle floral hints.
 
-The terpene profile is led by [[myrcene]] (earthy, sedative), [[beta-caryophyllene]] (peppery, anti-inflammatory), and [[pinene]] (pine, bronchodilator).
-
-## Terpene Profile
-
-| Terpene | Approximate Range | Dominant Note |
-|---------|-------------------|---------------|
-| Myrcene | 0.5–1.2% | Earthy, musky |
-| β-Caryophyllene | 0.3–0.8% | Peppery, spicy |
-| α-Pinene | 0.2–0.6% | Pine, fresh |
-| [[limonene]] | 0.1–0.4% | Citrus, uplifting |
-| [[linalool]] | 0.05–0.2% | Floral, calming |
-
-The high myrcene-to-pinene ratio contributes to the strain's balanced
-effect profile: initial cerebral uplift followed by progressive body
-relaxation. Caryophyllene provides anti-inflammatory properties via CB2
-receptor activation.
-
-## Cannabinoid Profile
-
-White Widow typically tests in the following ranges:
-
-- **THC:** 15–22% (original genetics averaged 12–15%; modern cuts
-  consistently test higher due to selective breeding). See [[tetrahydrocannabinol-thc]] for cannabinoid chemistry.
+The terpene profile is led by [[beta-caryophyllene]] (peppery, anti-inflammatory), and [[limonene]] | 0.1–0.4% | Citrus, uplifting |
+| [[tetrahydrocannabinol-thc]] for cannabinoid chemistry.
 - **CBD:** 0.1–0.5% (negligible; not a CBD-rich strain)
 - **CBN:** Trace amounts in aged flower
 
@@ -143,8 +122,6 @@ White Widow performs best with moderate nutrient levels and benefits
 from a slight PK boost during mid-flowering to maximize resin
 production. Environmental temperature of 22–28°C during the day is
 optimal.
-
 ## See Also
 
-- [[jack-herer]] — Fellow Dutch coffeeshop classic; sativa-dominant comparison
 - [[northern-lights]] — Indica-dominant foundational strain from same era

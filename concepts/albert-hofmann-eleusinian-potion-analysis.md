@@ -9,8 +9,7 @@ tags: [reference]
 
 # Albert Hofmann and the Eleusinian Potion Analysis
 
-Albert Hofmann, the Swiss chemist renowned for his discovery of [[lsd-lysergic-acid-diethylamide-experience-guide]] in 1943, provided the chemical and pharmacological
-foundation for the ergot hypothesis of the [[plutarch-and-cicero-on-the-eleusinian-mysteries]]. His contribution to *The Road to Eleusis* (1978) is
+Albert Hofmann, the Swiss chemist renowned for his discovery of [[plutarch-and-cicero-on-the-eleusinian-mysteries]]. His contribution to *The Road to Eleusis* (1978) is
 the second of three chapters, titled "A Challenging Question and My Answer."
 It addresses directly whether ancient Greeks could have isolated an
 hallucinogen from ergot.
@@ -20,13 +19,7 @@ hallucinogen from ergot.
 In July 1975, R. Gordon Wasson visited Hofmann at his home in Danbury and
 posed the question: whether Early Man in ancient Greece could have hit on a
 method to isolate an hallucinogen from ergot that would have given him an
-experience comparable to LSD or [[psilocybin-neuroscience]]. Hofmann replied that this
-might well have been the case and promised a detailed answer after further
-reflection. Two years later he delivered his conclusions.
-
-## Ergot: Botany and Chemistry
-
-Ergot is the English name for the sclerotium of [[claviceps-purpurea]] (Fr.)
+experience comparable to LSD or [[claviceps-purpurea]] (Fr.)
 Tul., a parasitic fungus on rye, barley, wheat, and certain wild grasses.
 Other species include C. paspali, C. nigricans, and C. glabra, each
 parasitical to various grasses. Ergot is not of uniform chemical composition:
@@ -57,7 +50,7 @@ hallucinogenic principles, which he named psilocybin and psilocin.
 
 Inspired by this success, Hofmann turned to ololiuhqui, another
 psychotropic Mesoamerican plant. Analysis of the morning glory seeds
-([[turbina-corymbosa]] and [[ipomoea-violacea]]) yielded an unexpected result: the
+([[ipomoea-violacea]]) yielded an unexpected result: the
 active principles were familiar ergot alkaloids. The main components were
 lysergic acid amide and lysergic acid hydroxyethylamide, both water-soluble,
 closely related to LSD. Another constituent was ergonovine itself.
@@ -135,8 +128,6 @@ herbalists of pre-Conquest Mexico.
 
 ## See Also
 
-- [[claviceps-paspali-alkaloids]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-- [[ergot-and-lysergic-acid-history]]
 - [[kykeon-potion-and-ergot-theory]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

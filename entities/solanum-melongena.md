@@ -108,13 +108,10 @@ Traditional medicinal uses include application of mashed eggplant for skin infla
 
 ## See Also
 
-- [[solanum-lycopersicum]]
+- [[solanum-quitoense]]
+
 - [[capsicum-annuum]]
-- [[glycine-max]]
-- [[allium-sativum]]
-- [[zingiber-officinale]]
+- [[allium-sativum-entity]]
 - [[curcuma-longa]]
-- [[ipomoea-batatas]]
 - [[manihot-esculenta]]
-- [[piper-nigrum]]
 - [[beta-vulgaris]]

@@ -10,10 +10,8 @@ type: concept
 
 # KNF FAA Uses and Bone Recycling
 
-[[fish-amino-acid-faa]]) is a liquid made from fish that contains an
-abundant amount of nutrients and various types of [[cho-fish-amino-acid-preparation]]s. Beyond
-its primary role as a [[jadam-natural-nitrogen-fertilizer]], FAA has several specialized
-uses in [[korean-natural-farming]], including pest control applications
+[[cho-fish-amino-acid-preparation]]s. Beyond
+its primary role as a [[korean-natural-farming]], including pest control applications
 and an innovative bone recycling method for producing calcium phosphate.
 
 ## FAA Overview
@@ -82,50 +80,5 @@ valuable input from what would otherwise be waste.
 ### The Recycling Process
 1. After extracting the FAA liquid from fermented fish, the bones
    remain as a byproduct.
-2. Put the leftover bones into [[brown-rice-vinegar-brv]]) that has a
-   volume 10 times larger than the bones.
-3. The bones will decompose in the vinegar over approximately 7 days.
-4. The acetic acid in BRV dissolves calcium phosphate from the bones,
-   producing high-quality water-soluble calcium phosphate.
-5. Small bubbles will appear during the process; when bubbling stops,
-   the extraction is complete.
-
-### Why This Works
-- Calcium phosphate is insoluble in water but soluble in acids
-- The acetic acid in BRV acts as a weak solvent, extracting calcium
-  phosphate from the bone matrix
-- This process mirrors the commercial production of WS-CaPo but uses
-  waste bones from FAA production instead of fresh bones
-- The resulting product is applied at 1:500 to 1:1000 dilution
-
-### Integration with FMC
-The bone-recycling method integrates perfectly with FMC production:
-- Cow, pig, or fish bones from FAA production contain much calcium
-  phosphate
-- After burning at low temperature to remove remaining organic
-  substances, bones are placed in BRV for extraction
-- The resulting calcium phosphate can be added directly to FMC
-  mixtures during preparation
-- This creates a closed-loop system where fish waste becomes both
-  FAA (nitrogen source) and WS-CaPo (phosphorus and calcium source)
-
-## Storage Requirements
-
-- Optimum temperature: 23 to 25 degrees C
-- No direct sunlight; cool place recommended
-- Store in clay pot, plastic jar, or glass jar with secure cover
-- Properly sealed containers prevent odor release
-
-## Summary of FAA Applications
-
-FAA serves multiple functions beyond basic nitrogen fertilization:
-1. Vegetative growth promotion (soil and foliar)
-2. Continuous yield enhancement for leafy vegetables
-3. Microorganism activation in IMO and compost production
-4. Biological pest control (mites and whitefly)
-5. Bone recycling into calcium phosphate fertilizer
-
-## See Also
-
-- [[knf-lab-culturing-and-uses]]
+2. Put the leftover bones into [[knf-lab-culturing-and-uses]]
 - [[cannabis-and-bone-cancer]]

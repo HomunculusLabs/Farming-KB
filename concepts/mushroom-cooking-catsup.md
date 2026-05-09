@@ -80,13 +80,7 @@ Mushroom catsup (also spelled ketchup) was a significant
 commercial product in Victorian England. Cuthill noted that
 a cottager with a large crop would find that mushroom catsup
 always sold well in the market, making it a valuable
-supplementary income stream from [[oyster-mushroom-short-log-cultivation]].
-
-### Best Mushrooms for Catsup
-
-Cuthill stated that artificially-grown mushrooms were by far
-the best for catsup production. This was because cultivated
-mushrooms from pure horse manure and pure [[mushroom-spawn]]
+supplementary income stream from [[mushroom-spawn]]
 were guaranteed to be genuine edible mushrooms, free from
 the contamination with poisonous toadstools that could occur
 with wild-gathered specimens.
@@ -142,9 +136,7 @@ shillings in Covent Garden Market. His record specimen, grown
 in July 1856, had a circumference of three feet six inches
 and weighed four and a half pounds, worth at least twenty
 shillings at market values.
-
 ## See Also
 
-- [[palmer-mushroom-cooking-culinary-uses]]
 - [[falconer-mushroom-cooking-selection-and-preparation]]
 - [[falconer-victorian-mushroom-cooking-recipes]]

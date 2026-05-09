@@ -36,21 +36,7 @@ apple orchard belonging to a village milkman named Mr. Bloomfield
 bordered his home, its dying trees consumed by bitter rot, black rot,
 blossom end rot, canker, rust, powdery mildew, and scab.
 
-As an undergraduate, Money studied [[lichens]] on granite boulders in
-Snowdonia National Park in Wales. His doctoral and postdoctoral work
-included studies of fungal cell wall biomechanics. He conducted research
-with Terry Hill on the relationship between endoglucanase enzyme
-activity and cell wall strength in oomycete water molds, using a
-technique involving pressure injection of oil into individual hyphae
-to measure wall tensile strength.
-
-## Mr. Bloomfield's Orchard
-
-*Mr. Bloomfield's Orchard* (2002) is structured as a series of
-chapter-length essays, each exploring a different aspect of mycology
-through the lens of particular fungi, mycologists, or personal
-experiences. The book covers topics ranging from stinkhorn biology and
-fungal pathogens to [[spore-dispersal]], chemical signaling, and the
+As an undergraduate, Money studied [[spore-dispersal]], chemical signaling, and the
 history of mycology. Each chapter profiles notable figures in the field,
 including A. H. R. Buller, Curtis Gates Lloyd, Cecil Terence Ingold,
 and John Webster.
@@ -110,9 +96,7 @@ and the aerodynamics of spore liberation.
 
 ## See Also
 
-- [[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]
-
-- [[nicholas-money]]
+- [[ingold-cecil-t]]
 - [[terence-ingold-mycologist]]
 
 - [Terence Ingold (Mycologist)](terence-ingold-mycologistfungal-spore-biology Biology](fungal-spore-biofungal-chemical-signalingal Signaling](fungal-chemical-smycelium-networkMycelium Network]([[mycelium-network]].md)

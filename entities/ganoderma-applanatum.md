@@ -117,8 +117,6 @@ and the biology of fungicolous fungi.
 
 ## See Also
 
-- [[trichoderma-viride]]
 - [[botrytis-cinerea]]
-- [[suillus-granulatus]]
 - [[suillus-bovinus]]
 - [[claviceps-purpurea]]

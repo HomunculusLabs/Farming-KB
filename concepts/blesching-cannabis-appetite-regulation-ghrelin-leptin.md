@@ -12,36 +12,12 @@ type: concept
 # Cannabis, Appetite Regulation, Ghrelin, and Leptin
 
 One of cannabis's most well-known effects is appetite stimulation, commonly
-called "the munchies." In "The [[cannabis-health-index]]," [[uwe-blesching]] moves
+called "the munchies." In "The [[uwe-blesching]] moves
 Blesching moves beyond this colloquial understanding to provide a detailed neuroendocrine
-analysis of how the blesching [[cannabis-endocannabinoid-system]] (ECS)
-interacts with the hypothalamic appetite regulatory network. For the ECS overview, see [[blesching-endocannabinoid-system-overview]].
+analysis of how the blesching [[blesching-endocannabinoid-system-overview]].
 hunger hormone ghrelin and the satiety hormone leptin. This has profound
 clinical implications for cachexia, HIV/AIDS wasting, cancer-related
-anorexia, and eating disorders. See also [[blesching-cannabis-anorexia-cachexia]].
-
-## The Hypothalamic Appetite Control Center
-
-Appetite is regulated primarily by the hypothalamus, which integrates
-signals from the body to determine hunger and satiety states. The key
-hypothalamic nuclei involved are:
-
-- **Arcuate nucleus (ARC)**: Contains two opposing populations --
-  NPY/AgRP neurons (orexigenic, promoting hunger) and POMC/CART neurons
-  (anorexigenic, promoting satiety).
-- **Lateral hypothalamus (LH)**: The "feeding center" that drives food
-  seeking and consumption.
-- **Ventromedial hypothalamus (VMH)**: The "satiety center" that signals
-  fullness and stops eating.
-- **Paraventricular nucleus (PVN)**: Integrates multiple signals to
-  coordinate energy balance.
-
-CB1 receptors are densely expressed in all of these hypothalamic regions,
-positioning the ECS as a primary regulator of energy homeostasis.
-
-## THC's Orexigenic Mechanism
-
-THC stimulates appetite through multiple converging mechanisms (see [[blesching-cannabinoid-pharmacology]] for THC receptor pharmacology):
+anorexia, and eating disorders. See also [[blesching-cannabinoid-pharmacology]] for THC receptor pharmacology):
 
 1. **Hypothalamic CB1 activation**: THC binds CB1 receptors on POMC neurons
    in the arcuate nucleus, paradoxically causing them to release

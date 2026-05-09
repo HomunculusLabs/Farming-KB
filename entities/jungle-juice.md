@@ -100,13 +100,8 @@ The strain is not recommended for daytime use or tasks requiring sustained atten
 
 ## See Also
 
-- [[white-widow-entity]]
 - [[og-kush]]
-- [[cannabis-blue-dream]]
 - [[granddaddy-purple]]
-- [[northern-lights]]
 - [[gelato-cannabis]]
-- [[runtz-entity]]
 - [[wedding-cake-cannabis]]
-- [[chemdawg]]
 - [[girl-scout-cookies]]

@@ -3,13 +3,7 @@ title: Fungal Diversity and Mushroom Categories
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
-tags: [mycology, fungi]
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
----
-# Fungal Diversity and Mushroom Categories
-
-The fungal kingdom is staggeringly diverse — estimated at 1 to 2 million species, outnumbering plants at least 6 to 1. Only about 10% of mushroom species have been identified. From *Mycelium Running* by [[stamets-mycoremediation-principles]].
+tags: [[stamets-mycoremediation-principles]].
 
 ## Evolutionary Context
 
@@ -87,12 +81,7 @@ The branching network pattern of mycelium appears throughout nature — neurons 
 
 ## Related
 
-- [[mushroom-nutritional-categories-and-fungal-habitat-roles]] Concepts
-
 - [[fungal-ecology]] — fungal roles in ecosystems
-- [[the-soil-food-web]] — decomposition and nutrient cycling
 - [[fungal-species-concept]] — species-level fungal biology
-- [[fungal-biodiversity-tropical-ecosystems]] — tropical fungal diversity
 - [[saprotrophic-fungi]] — decomposer fungi in detail
-- [[ectomycorrhizal-ecology]] — ectomycorrhizal partnerships
 - [[arbuscular-mycorrhizal-fungi]] — endomycorrhizal partnerships

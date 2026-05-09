@@ -112,31 +112,19 @@ exposed to it repeatedly over multiple generations.
 ## Neem in Different Growth Stages
 
 - **Vegetative Phase**: Neem oil can be applied freely during
-  [[cervantes-vegetative-phase]] without concerns about residue on
-  consumable flower.
-
-- **Early Flowering**: Reduce application frequency as buds begin to
-  form. Spray early in the light cycle to allow foliage to dry before
-  dark, reducing mold risk.
-
-- **Late Flowering**: Discontinue use two to three weeks before harvest
-  to avoid any impact on flavor and aroma. See [[cervantes-harvest-timing-trichome-ripeness]] for pre-harvest guidelines.
+  [[cervantes-harvest-timing-trichome-ripeness]] for pre-harvest guidelines.
 
 ## Integration with IPM
 
 Neem oil works best as part of an integrated pest management approach.
 For light infestations, start with less aggressive controls and
-escalate to neem oil if problems persist. Combine with [[cervantes-biological-pest-control-predators]] for a comprehensive IPM strategy.
-See [[cervantes-pest-disease]] for full pest identification and
+escalate to neem oil if problems persist. Combine with [[cervantes-pest-disease]] for full pest identification and
 management guidance.
 
 ## Related
 
 - [[comparison-neem-oil-vs-diatomaceous-earth]] Concepts
 
-- [[cervantes-pest-disease]] - comprehensive pest and disease guide
 - [[cervantes-biological-pest-control-predators]] - beneficial insects
-- [[cervantes-pyrethrum-pyrethroid-insecticides]] - alternative
-  organic spray
 - [[cervantes-bacillus-thuringiensis-bt-control]] - biological control
 - [[cervantes-companion-planting-pest-deterrent]] - preventive measures

@@ -140,10 +140,6 @@ breaks down the starches into simpler sugars for metabolic use.
 
 The PF TEK specifically uses brown rice rather than white rice because the
 ## Related
-- [[pf-tek-secondary-flush-and-cake-exhaustion]] Concepts
-
 - [[pf-tek-substrate-jar-preparation-and-steam-sterilization]] for the complete jar preparation process
-- [[pf-tek-vermiculite-grading-and-water-retention]] for vermiculite selection and water management
 - [[pf-tek-maximum-fruiting-substrate-formula]] for the enhanced nutrition formula
-- [[brown-rice-flour-substrate]] for broader context on BRF as a cultivation substrate
 - [[pf-tek-substrate-moisture-diagnosis-and-correction]] for moisture troubleshooting

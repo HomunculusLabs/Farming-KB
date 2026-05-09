@@ -106,18 +106,11 @@ The species is also used in Western health food products, including kombu chips,
 ## See Also
 
 - [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
 - [[porphyra-umbilicalis]]
-- [[ulva-lactuca]]
 - [[agaricus-bisporus]]
-- [[pleurotus-ostreatus]]
 - [[eryngium-foetidum]]
-- [[mentha-spicata]]
 - [[ocimum-basilicum]]
-- [[coriandrum-sativum]]
 - [[zingiber-officinale]]
-- [[allium-sativum-entity]]
 - [[piper-nigrum-entity]]
-- [[daucus-carota]]
 - [[curcuma-longa]]
 - [[capsicum-annuum]]

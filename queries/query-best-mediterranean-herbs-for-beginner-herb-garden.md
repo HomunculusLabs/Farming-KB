@@ -33,14 +33,7 @@ type: query
 created: 2026-05-03
 ---
 
-# Best Mediterranean Herbs for a Beginner Herb Garden
-
-Mediterranean herbs thrive in sunny, well-drained conditions and are among the most forgiving plants for new gardeners. This guide covers everything you need to start your first herb garden.
-
-## Top 5 Beginner-Friendly Mediterranean Herbs
-
-### 1. Rosemary (*Salvia rosmarinus*)
-Tough, drought-tolerant, and pest-resistant. A single plant provides years of culinary use. Requires minimal watering once established and grows well in containers or garden beds. Choose a compact variety like 'Tuscan Blue' for smaller spaces.
+# Best Mediterranean Herbs for a Beginner [[natural-farming-guide-hugelkultur-mounded-garden-beds]]. Choose a compact variety like 'Tuscan Blue' for smaller spaces.
 
 ### 2. Thyme (*Thymus vulgaris*)
 Low-growing, spreads gently, and tolerates neglect. Excellent ground cover or container specimen. Common thyme is the most versatile for cooking. Handles poor soil and full sun with ease.
@@ -88,12 +81,7 @@ Beautiful, fragrant, and deer-resistant. English lavender varieties ('Hidcote', 
 |--------|-------|
 | **Spring** | Plant new herbs, prune dead wood, begin fertilizing (light, monthly), top-dress containers with compost |
 | **Summer** | Water deeply but infrequently (1–2× per week), harvest regularly, pinch basil flowers, mulch with gravel |
-| **Fall** | Reduce watering, stop fertilizing, harvest and dry surplus, bring basil indoors before frost |
-| **Winter** | Protect lavender and rosemary with mulch or row cover, let thyme and oregano go dormant, rosemary may need indoor shelter below 20°F |
-
-## Common Mistakes to Avoid
-
-- **Overwatering** — The #1 killer. Mediterranean herbs prefer dry conditions. Stick your finger 2" into soil; water only when dry.
+| **Fall** | Reduce watering, stop fertilizing, harvest and dry surplus [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] your finger 2" into soil; water only when dry.
 - **Poor drainage** — Standing water causes root rot within days. Always use pots with holes and well-draining soil.
 - **Not enough sun** — These herbs need 6–8 hours of direct sunlight daily. A south-facing window or patio is ideal.
 - **Over-fertilizing** — More fertilizer ≠ more flavor. Use a diluted balanced fertilizer once a month at most, or skip it entirely.
@@ -102,7 +90,7 @@ Beautiful, fragrant, and deer-resistant. English lavender varieties ('Hidcote', 
 
 ## Harvesting Timeline
 
-- **Basil:** Begin 3–4 weeks after transplanting. Harvest up to ⅓ of the plant at a time, every 2–3 weeks.
+- **Basil:** Begin 3–4 weeks after transplanting. Harvest up to ⅓ of th [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] a time, every 2–3 weeks.
 - **Thyme:** Snip stems anytime after the plant is 6" tall. Best flavor just before flowering.
 - **Oregano:** Harvest once stems reach 4–6". Flavor peaks when flower buds form but before they open.
 - **Rosemary:** Harvest sparingly in the first year; take sprigs as needed after establishment.
@@ -118,7 +106,7 @@ Beautiful, fragrant, and deer-resistant. English lavender varieties ('Hidcote', 
 - [ ] Water thoroughly at planting, then switch to a deep-but-infrequent schedule
 - [ ] Mulch with gravel or small stones to retain heat and suppress weeds
 - [ ] Begin harvesting basil at 3–4 weeks; other herbs once established (6–8 weeks)
-- [ ] Pinch basil flower buds regularly to extend the harvest season
+- [ ] Pi query-how-do-i-start-a-small-home-vineyard-for-table-grapes lower buds regularly to extend the harvest season
 - [ ] Dry or freeze surplus at end of season to enjoy year-round
 
 ## Final Notes
@@ -127,6 +115,5 @@ Start small — three to four herbs in containers is the perfect beginning. You 
 
 ## See Also
 
-- [[query-what-are-the-best-ferns-for-a-shade-garden-or-food-forest]]
-- [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
+- [[food-forest-understory-plants]]
 - [[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]]

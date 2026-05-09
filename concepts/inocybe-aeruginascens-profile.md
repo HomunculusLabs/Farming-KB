@@ -26,43 +26,12 @@ only in members of the families Strophariaceae (Psilocybe, Panaeolus, Conocybe)
 and Bolbitiaceae.
 
 The discovery of psilocybin in Inocybe aeruginascens, along with its later
-identification in [[gymnopilus-purpuratus]] (another
-Cortinariaceae member), forced the abandonment of the hypothesis that psilocybin
-served as an important chemo-taxonomical marker for specific fungal families.
-Psilocybin had been found across unrelated families — Psilocybe, Panaeolus,
-Conocybe, Inocybe, and Gymnopilus — none of which are closely related to each
-other, demonstrating independent evolution of psilocybin biosynthesis.
-
-## Distribution and Habitat
-
-Inocybe aeruginascens is notable for its rapid spread across Europe. According
-to Gartz's observations, the species migrated in concentric circles outward from
-Leipzig, eventually appearing in West Germany. The mycelium was observed jumping
-political borders, and Gartz quipped that when the mycelia reached West German
-soil, the Berlin Wall crumbled — speculating about possible connections between
-the evolution of magic mushrooms and the evolution of consciousness.
-
-The species is mycorrhizal, forming symbiotic relationships with trees. Unlike
-the saprophytic psychoactive species that grow on decaying plant matter, dung,
-or wood debris, Inocybe aeruginascens requires living tree roots to thrive.
-This makes cultivation extremely difficult, if not impossible, under artificial
-conditions.
-
-It is typically found in parks, gardens, and forest edges, particularly
-associated with deciduous trees. Fruiting occurs from late spring through autumn.
-
-## Chemistry and Alkaloid Content
-
-Chemical analyses of Inocybe aeruginascens revealed the presence of psilocybin
-and baeocystin. Among the psychoactive mushroom species discussed in Gartz's
-work, Inocybe aeruginascens and
-[[psilocybe-semilanceata]] appear to have the two
+identification in [[psilocybe-semilanceata]] appear to have the two
 lowest degrees of variability in psilocybin content across samples from different
 locations.
 
 The species contains only trace amounts of psilocin, which explains its
 relatively weak bluing reaction compared to species like
-[[psilocybe-bohemica-central-european]] or
 [[psilocybe-cubensis-potency-variation-by-flush]].
 
 ### Iron Chloride Test
@@ -71,15 +40,7 @@ G. Drewitz discovered that the application of iron chloride to fruiting bodies
 of Inocybe aeruginascens caused a deep blue discoloration, while muscarine-
 producing species of the same genus did not change color. Iron chloride reacts
 with phenoles to form intensely blue molecules. Since
-[[muscimol-and-amanita-muscaria]] also reacts as a phenole, this
-provided a potential identification tool, though the reaction is not specific to
-psilocybin-containing species alone.
-
-## Identification and Morphology
-
-Inocybe species are generally challenging to identify due to their small size,
-brown coloration, and the fact that many species within the genus are toxic.
-Unlike [[psilocybe-genus-diversity-and-taxonomy]] species with their distinctive
+[[psilocybe-genus-diversity-and-taxonomy]] species with their distinctive
 dark spore prints, Inocybe species have brown spore prints that can resemble
 those of many non-psychoactive species.
 
@@ -118,9 +79,6 @@ essential.
 
 ## See Also
 
-- [[inocybe-haemacta]]
-
 - [[psilocybe-semilanceata]] — Europe's most common psychoactive mushroom
-- [[gymnopilus-purpuratus]] — Another Cortinariaceae member containing psilocybin
 - [[panaeolus-subbalteatus-profile]] — European dung-inhabiting psychoactive species
 - [[psilocin-and-psilocybin-chemistry]] — The active compounds

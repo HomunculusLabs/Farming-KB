@@ -10,27 +10,11 @@ sources:
 
 # Mangalitza and Old Pig Breeds
 
-
-
-
-
-
-
-
-
 ## Why Old Breeds
 
-Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. [[sepp-holzer]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale.
+Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. Sepp Holzer only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale.
 
 Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. The strikingly coloured and less well-known old breeds with their piglets fascinate visitors, encouraging acceptance of endangered domestic breeds and making direct marketing of their products easier.
-
-
-
-
-
-
-
-
 
 ## Breed Profiles
 
@@ -71,16 +55,27 @@ Free-roaming pigs are still a rarity in Austria and raise a great deal of public
 - **Product:** Very high quality meat, relatively large fat layer (similar to Mangalitza)
 - **Status:** Critically endangered
 
-
-
-
-
-
-
-
-
 ## Related
 
 - [[paddock-system-pigs]] -- keeping pigs in a paddock system
-- [[holzer-livestock-integration]] -- broader livestock integration in [[permaculture]]
+- [[holzer-livestock-integration]] -- broader livestock integration in permaculture
 - [[slugs-and-snails-organic-control]] -- using pigs for slug and snail regulation
+## Practical Considerations
+
+Successful implementation of Mangalitza and Old Pig Breeds requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

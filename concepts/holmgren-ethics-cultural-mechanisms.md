@@ -3,22 +3,13 @@ title: Holmgren Ethics Cultural Mechanisms
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [permaculture, design, sustainability]
-sources:
-  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
----
-
-# Holmgren Ethics as Cultural Mechanisms
-
-Updated: 2026-04-19
-
-David Holmgren presents permaculture ethics not as abstract moral principles but as functional cultural mechanisms in *Permaculture: Principles and Pathways Beyond Sustainability* (2002), connecting them to evolutionary ecology and the [[holmgren-tripartite-altruism]] framework.
+tags: [[holmgren-tripartite-altruism]] framework.
 
 ## Ethics as System Feedback
 
 Holmgren frames ethics as feedback mechanisms that have evolved in cultures to regulate behaviour in ways that maintain the health of the larger system. In traditional societies, ethical rules and spiritual beliefs served as constraints on individual behaviour that prevented destruction of the resource base on which the community depended.
 
-This framing connects ethics to [[holmgren-self-regulation-feedback-detailed]] and [[permaculture-principle-apply-self-regulation]]. Ethics are not arbitrary rules imposed from above but functional adaptations that have evolved because they help maintain the health of the whole system, just as negative feedback loops in ecosystems prevent destructive overshoot.
+This framing connects ethics to [[permaculture-principle-apply-self-regulation]]. Ethics are not arbitrary rules imposed from above but functional adaptations that have evolved because they help maintain the health of the whole system, just as negative feedback loops in ecosystems prevent destructive overshoot.
 
 ## The Three Ethics as Functional
 
@@ -46,17 +37,7 @@ This institutional vacuum creates both danger and opportunity. Without functiona
 
 Many social and environmental good works can be seen as atonement for collective sins rather than necessarily providing what people or nature really need. Sometimes giving is a disguised form of self-interest that creates dependency. In both social and natural domains, how to give in ways that show true altruism has always been problematic.
 
-This insight connects to [[holmgren-tripartite-altruism]] and the argument that altruism must operate at all levels of the social hierarchy to be effective. Charitable giving that maintains dependency rather than building self-reliance fails the test of true altruism.
-
-## Spiritual Dimensions
-
-Although permaculture can be seen as essentially materialist and scientific, it depends on an ecological perspective. Spiritual beliefs about higher purpose in nature have been universal and defining features of all cultures before scientific rationalism. Holmgren notes that the more we understand the world through systems thinking and ecology, the more we see wisdom in spiritual perspectives and traditions.
-
-## Materialism-Spirituality Convergence
-
-Holmgren presents a model of emergent union between materialism and spirituality, with permaculture located at the intersection of ecological science and inclusive spirituality. The deliberate design of a new spirituality reflecting ecological realities may be unrealistic, but organic growth of spirituality from ecological foundations promises more hope than clashes between religious and scientific fundamentalism.
-
-This convergence model informs [[holmgren-ethical-philosophical-framework]] by suggesting that permaculture ethics emerge from the intersection of scientific understanding and spiritual awareness rather than belonging exclusively to either domain.
+This insight connects to [[holmgren-ethical-philosophical-framework]] by suggesting that permaculture ethics emerge from the intersection of scientific understanding and spiritual awareness rather than belonging exclusively to either domain.
 
 ## Care for People as Expanding Circles
 
@@ -76,22 +57,29 @@ The issue of population growth is a vexed one with many different perspectives. 
 
 ## See Also
 
-- [[holmgren-permaculture-ethics-foundations]]
-
 - [[holmgren-living-soil-ethic]]
 
 - [[holmgren-tripartite-altruism]]
 
-- [[holmgren-tripartite-altruism]]
-
-- [[permaculture-ethics]]
-
 - [[holmgren-ethical-philosophical-framework]]
 
-- [[holmgren-self-regulation-feedback-detailed]]
-
-Source: David Holmgren, *Permaculture: Principles and Pathways Beyond Sustainability* (2002), Ethics chapter, pp. 1-18
-
-## Related
-
 - [[holmgren-energy-descent-culture-adaptation]]
+## Practical Considerations
+
+Successful implementation of Holmgren Ethics Cultural Mechanisms requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

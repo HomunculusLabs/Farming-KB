@@ -12,46 +12,10 @@ type: concept
 # Liquid Inoculation and Spore Mass Fermentation
 
 Liquid inoculation techniques represent the frontier of
-efficient [[spawn-production]]. Drawing from the brewery
-industry's methods for cultivating yeasts, these approaches
-dramatically accelerate colonization rates and increase
-expansion ratios far beyond traditional grain-to-grain
-methods.
-
-## Advantages of Liquid Inoculation
-
-The advantages of liquid inoculation over traditional
-grain-to-grain transfer include:
-
-- **Speed of colonization**: Liquid inoculum distributes
-  more evenly throughout a substrate, establishing growth
-  points throughout the mass rather than from discrete
-  grain kernels
-- **Purity of spawn**: When properly executed, liquid
-  inoculation reduces the risk of contamination transfer
-  between generations
-- **Ease of handling**: Pouring or spraying liquid is
-  simpler and faster than manually transferring grain
-- **Expansion ratios**: Liquid methods allow a much greater
-  exponent of expansion than traditional grain-to-grain
-  methods
-
-## Spore Mass Inoculation
-
-The ultimate shortcut for culturing mushrooms is via spore
-mass/liquid inoculation directly into bulk substrates. This
-technique works well with many species but is limited to
-those which form mushrooms under totally sterile conditions.
-Species qualifying include all wood or straw saprophytes:
-
-- [[agrocybe-aegerita-detailed]] (Black Poplar Mushroom)
-- [[flammulina-velutipes]] (Enokiganoderma-lucidum-reishi-comprehensive-profileidum and allies (Reishi)
+efficient [[agrocybe-aegerita-detailed]] (Black Poplar Mushroom)
 - [[lentinula-edodes]] (Shiitake)
-- [[pholiota-nameko]] (Nameko)
 - [[pleurotus-citrinopileatus]] (Golden Oyster)
-- [[pleurotus-djamor]] (Pink Oyster)
 - [[pleurotus-eryngii]] (King Oyster)
-- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] (Oyster)
 - [[pleurotus-pulmonarius]] (Phoenix Oyster)
 
 Excluded are mushrooms requiring microflora such as the

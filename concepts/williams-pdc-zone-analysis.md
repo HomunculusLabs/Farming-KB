@@ -1,7 +1,7 @@
 ---
 title: "Permaculture Zone Analysis"
 created: 2026-04-28
-tags: [permaculture, zones, site-analysis, design-method]
+tags: [[permaculture, zones, site-analysis, design-method]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
@@ -128,8 +128,6 @@ rigid prescription. They should serve your design process,
 not constrain it.
 
 ## See Also
-- [[mollison-designers-community-garden-design-urban-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-- [[permaculture-house-placement-design]]
 - [[permaculture-designers-manual-paper-making]]
 - [[gaias-garden-many-gardens-garden-design-process]]

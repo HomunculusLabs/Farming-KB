@@ -96,8 +96,6 @@ reducing the need for synthetic inputs while improving nutrient cycling.
 
 ## See Also
 
-- [[glomus-mosseae]]
 - [[paxillus-involutus]]
-- [[cenococcum-geophilum]]
 - [[pisolithus-tinctorius]]
 - [[trichoderma-harzianum]]

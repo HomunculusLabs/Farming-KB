@@ -51,19 +51,7 @@ PIHKAL entry #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 > drug to the drugs of this class, to become familiar with the drug
 > state in as gentle a fashion as possible. This substance seems to
 > have a much gentler action than others of this class; perhaps more
-> like cannabis or [[psilocybin-compound]]. There is very little paranoia. I note
-> hallucinations of two types: those which are strictly retinal and more
-> minute and small and influenced by light and focused on the light
-> ahead on the retina or lids; and the other, those deep in the visual
-> tract and occiput which are larger and more global and dream-like and,
-> when solid, are quite dramatic and unforgettable as in meditation.
->
-> (with 210 mg) MMDA tastes awful. The bitter alkaloid taste is
-> followed by a distinctively chemical laboratory flavor as if from old
-> rubber tubing. Nothing seems to happen for about 45 minutes when
-> rather suddenly an anvil seems to lower itself over your head; you
-> feel disoriented, and tend to withdraw from social contact a little.
-> The drug gives less feeling of being ill than [[mescaline-entity]]. The effect
+> like cannabis or [[mescaline-entity]]. The effect
 > definitely reaches a climax with a pleasant afterglow following.
 > Apparently there are no profound motor coordination problems. MMDA
 > yields that 'Sunday afternoon' feeling of desiring to lie down and
@@ -143,7 +131,5 @@ DMSO there was added 29 g methylene iodide followed by 20.8 g
 anhydrous K2CO3. This was heated on the steam bath for 3 h, added to
 1 L H2O, made strongly basic with NaOH, then extracted with 3x100 mL
 ## See Also
-- [[psilocybin-mushroom-dosage-and-acute-effects]]
 - [[cannabis-harvest-timing-visual-cues]]
-- [[qualitative-comments-methodology-pihkal]]
 - [[4t-mmda-2-entity-pihkal]]

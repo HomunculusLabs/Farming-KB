@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 Mycoforestry is a newly emerging science, an offshoot of ecoforestry practices with an emphasis on the role of beneficial fungi. It represents the application of mycological knowledge to forest management, restoration, and sustainable timber production, recognizing that fungi are essential partners in maintaining forest health, soil fertility, and ecosystem resilience.
 
@@ -88,16 +89,10 @@ The current practice of burning or hauling wood debris robs biomass from the car
 
 ## See Also
 
-[[mycofiltration-of-pathogens]]
-
 [[mycofiltration-of-chemical-runoff]]
-
-[[mycofiltration-of-pathogens]]
 
 [[mycopesticide-development]]
 
-[[cotter-mycoremediation-overview]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-- [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
+[[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

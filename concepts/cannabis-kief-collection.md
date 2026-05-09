@@ -98,30 +98,11 @@ Specialized rolling trays equipped with screens (such as the Resin Heaven from P
 
 ## Finger Hash Collection
 
-During [[cannabis-manicuring-techniques]], significant kief accumulates on fingers and tools. This "finger hash" can be collected by:
-
-- Bathing rubber gloves in isopropyl alcohol and letting it evaporate overnight
-- Freezing rubber gloves for a few hours to make scraping easier
-- Scraping resin from scissors and tools with a small knife
-- Balling up scraped resin by rubbing it together between fingers
-
-A piece of finger hash scraped from fingers and trimming tools in a single day of trimming can be surprisingly substantial.
-
-## Kief Yield
-
-From 100 grams of leaf, dry sieving typically yields 4-6 grams of kief. Water extraction yields 6-10 grams from the same quantity. The quantity depends heavily on the quality and resin content of the starting material. Sieving low-quality leaves is about as much trouble as it is worth.
-
-## Storage
-
-Collected kief should be stored in a cool, dark place in an airtight container. It can be pressed into hash for easier handling using the methods described in [[cannabis-hashish-production]], or used loose as a smoking or vaporizing material.
+During [[cannabis-hashish-production]], or used loose as a smoking or vaporizing material.
 
 ## See Also
 
-- [[cannabis-hashish-production]]
 - [[cannabis-ice-water-extraction]]
-- [[cannabis-manicuring-techniques]]
 - [[cannabis-quality-testing]]
-- [[cannabis-hash-making-from-extracted-oil]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-hashish-making-methods]]
 - [[water-pathways-through-plants]]

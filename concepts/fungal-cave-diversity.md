@@ -3,14 +3,14 @@ title: Fungal Diversity in Caves
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 # Fungal Diversity in Cave and Subterranean Environments
 
 Caves and subterranean environments represent unique fungal habitats characterized by constant temperature, high humidity, darkness, and limited organic matter input. These conditions select for specialized fungal communities adapted to perpetual darkness and oligotrophic conditions.
 
-[[fungi-in-extreme-acidic-environments]] [[fungal-biodiversity]]
+[[fungal-biodiversity]]
 
 ## Cave Fungal Habitats
 
@@ -18,7 +18,7 @@ Caves provide stable environments with constant temperature approximating the me
 
 Different cave zones, from entrance areas with some light to deep zones in perpetual darkness, support distinct fungal communities. Air currents, water flow patterns, and mineralogy create additional habitat variation within caves.
 
-[[the-soil-food-web]] [[fungal-environmental-sensing]]
+[[fungal-environmental-sensing]]
 
 ## Oligotrophic Cave Fungi
 
@@ -28,7 +28,7 @@ The ability of fungi to grow on minimal nutrient inputs is a key adaptation for 
 
 Oligotrophic cave fungi have attracted interest from biotechnology researchers because their metabolic adaptations may produce novel enzymes and secondary metabolites. Extremotolerant fungi from cave environments have yielded compounds with antimicrobial, antioxidant, and anticancer properties in preliminary screening studies, suggesting that cave ecosystems may harbor untapped pharmacological resources.
 
-[[fungal-stress-responses]] [[fungal-functional-diversity]]
+[[fungal-functional-diversity]]
 
 ## Bat Guano Communities
 
@@ -36,7 +36,7 @@ Bat guano deposits in caves support some of the most diverse and abundant fungal
 
 Guano-derived fungi may include both resident cave species and surface species introduced with bat activity. The overlap between cave guano fungi and surface coprophilous fungi reflects the connection between surface and subterranean ecosystems.
 
-[[coprophilous-fungi]] [[fungal-decomposition]]
+[[fungal-decomposition]]
 
 ## Lampenflora and Human-Impacted Caves
 
@@ -46,7 +46,7 @@ These human-modified cave communities represent an intersection between natural 
 
 Management of lampenflora and its associated fungal communities is an active area of cave management. Methods include switching to LED lighting with spectra less favorable to photosynthetic growth, implementing light schedules that allow dark periods, and physical removal of lampenflora colonies before they become established. The fungal component complicates removal efforts because fungal biofilms protect the underlying photosynthetic organisms and can rapidly recolonize cleaned surfaces from airborne spores.
 
-[[fungal-roles-built-environments]] [[fungal-responses-climate-change]]
+[[fungal-responses-climate-change]]
 
 ## Subterranean Fungal Succession
 
@@ -56,7 +56,7 @@ The slow rates of organic matter processing in caves mean that successional sequ
 
 Flood events in caves provide particularly important successional dynamics. Seasonal flooding deposits fresh organic material and sediment throughout cave passages, resetting successional clocks in affected zones. The fungal communities that develop in flood-affected areas often differ markedly from those in undisturbed cave zones, creating a mosaic of successional stages within a single cave system. Studying these flood-driven successional patterns provides insights into how cave ecosystems respond to disturbance and how quickly they recover.
 
-[[coprophilous-fungi]] [[fungal-decomposition]]
+[[fungal-decomposition]]
 
 ## Sampling Challenges
 
@@ -66,7 +66,7 @@ Molecular methods are particularly valuable in cave environments, where many fun
 
 The physical challenges of cave sampling should not be underestimated. Access to deep cave zones often requires caving expertise and specialized equipment, limiting the number of researchers who can conduct in-situ sampling. Remote monitoring using sterile settle plates or passive air samplers left in place for weeks or months provides an alternative, but the risk of sample contamination or loss in the cave environment requires careful experimental design.
 
-[[fungal-sampling-methods]] [[culturing-culture-independent-fungi]]
+[[culturing-culture-independent-fungi]]
 
 ## Speleothem-Associated Fungi
 
@@ -74,7 +74,7 @@ Fungi growing on cave formations (speleothems) such as stalactites and stalagmit
 
 Geomycological research has identified several mechanisms by which fungi influence speleothem development. Fungal hyphae can serve as nucleation sites for calcite precipitation, with calcium carbonate crystals forming on and around filamentous structures. Certain cave fungi, particularly species of *Mucor*, *Penicillium*, and *Aspergillus*, actively precipitate calcium carbonate through metabolic processes that modify local pH and carbonate chemistry. Conversely, fungal organic acid production (oxalic, citric, and gluconic acids) can dissolve existing calcite formations, contributing to speleothem corrosion and cave enlargement over geological timescales.
 
-[[fungal-functional-diversity]] [[fungal-stress-responses]]
+[[fungal-stress-responses]]
 
 ## Notable Cave Fungal Genera
 
@@ -102,21 +102,7 @@ Cave management practices can directly affect fungal communities in several ways
 
 White-nose syndrome, caused by the fungus *Pseudogymnoascus destructans*, dramatically illustrates the vulnerability of cave ecosystems to fungal disturbance. While this pathogen primarily affects hibernating bats, its introduction to North American caves from Eurasia demonstrates how easily cave microbial communities can be disrupted by novel organisms introduced through human activity.
 
-[[ethnomycology]] [[mycorrhizal-fungi]]
+ethnomycology [[fungal-species-estimates-taxonomy]] [[fungal-kingdom-diversity]]
 
-## Research Needs
-
-Cave mycology remains one of the most understudied areas of fungal ecology. Systematic surveys using molecular methods are needed to document cave fungal diversity and understand the ecological roles of these organisms in subterranean ecosystems.
-
-Recent advances in high-throughput sequencing have begun to reveal the true extent of cave fungal diversity, with studies consistently showing that culture-based methods capture only a small fraction of the fungal taxa present. Metagenomic approaches applied to cave sediments, speleothem biofilms, and airborne spore samples are uncovering entirely novel lineages of fungi with no known close relatives among described species.
-
-Particularly promising research directions include the role of cave fungi in biogeochemical cycling (especially carbon, nitrogen, and calcium), the discovery of novel secondary metabolites from cave-adapted fungal strains, and the use of cave fungi as bioindicators of environmental change. Caves are among the most stable environments on Earth, making them valuable natural laboratories for studying long-term fungal adaptation and evolution. Understanding how cave fungi have adapted to extreme oligotrophy and perpetual darkness may also inform astrobiology and the search for fungal life in subterranean extraterrestrial environments.
-
-[[fungal-species-estimates-taxonomy]] [[fungal-biodiversity]]
-## Related
-
-- [[fungal-kingdom-diversity]]
-
-- [[fungal-biodiversity]]
 - [[fungal-communities-extreme-environments]]
 - [[fungal-biogeography]]

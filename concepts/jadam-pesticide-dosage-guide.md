@@ -118,11 +118,7 @@ Add 0.5 kg very fine red clay powder to any program to increase effectiveness. K
 
 ## See Also
 
-- [[jadam-natural-pesticide-jnp]] -- the complete JNP system overview
 - [[jadam-pest-control-recipes]] -- detailed program instructions
-- [[jadam-water-softener]] -- water quality directly affects all dosage requirements
 - [[jadam-wetting-agent-jwa]] -- JWA is the central ingredient; its quantity controls overall strength
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[jadam-rice-water-weevil-control]]
-- [[fukuoka-natural-fruit-tree-pest-control]]
 - [[jadam-canker-leaf-spot-pesticide]]

@@ -60,49 +60,17 @@ coprophilous fungi on kangaroo droppings etc."
 Several key species of psychoactive mushrooms are believed to have been
 introduced to Australia through the cattle dispersal mechanism:
 
-- [[psychedelic-mushrooms-species-and-identification]] (known locally as "gold caps" or "gold tops") -- the
-  most popular and widely recognized species, growing on cow dung in tropical
-  and subtropical regions
-
 - [[panaeolus-cyanescens-bali-omelette]] (known locally as "blue meanies") -- found in the
   dung of cattle, water buffalo, and sometimes horses
 
 - Panaeolus subbalteatus -- common in the dung of cattle and also fruiting
   abundantly in composting hay and stable shavings
 
-- [[psychedelic-mushrooms-species-and-identification]] -- grows in the manured soil of four-legged
-  ruminants but not directly from manure itself
-
-## Geographic Distribution in Australia
-
-More than half of Australia's beef cattle can be found in the coastal areas of
-Queensland and New South Wales, as well as the 20 to 30 inch (500-750mm)
-rainfall belt of Queensland, New South Wales, and northern Victoria. These
-regions generally provide adequate climatic environments for the growth of
-psilocybian mushrooms, especially after heavy rains.
-
-It has been suggested that [[psychedelic-mushrooms-species-and-identification]] was introduced into Australia
+- [[psychedelic-mushroom-set-and-setting]] was introduced into Australia
 accidentally by early settlers along with their livestock. This same spore
-dispersal mechanism probably applies to [[panaeolus-cyanescens-bali-omelette]],
-Panaeolus subbalteatus, and several additional species known to occur in or
-around the dung of other ruminants. While cattle are raised in all Australian
-states, as well as in the central lowlands, recreational users have been known
-to export these psychoactive species to various areas in Australia from
-locations where they were originally collected.
-
-## The New Zealand Situation
-
-In the case of New Zealand, cattle are the primary substrate source for
-[[panaeolus-cyanescens-bali-omelette]]. The species predominates in the New Plymouth region,
+dispersal mechanism probably applies to [[panaeolus-cyanescens-bali-omelette]]. The species predominates in the New Plymouth region,
 an area of intensive dairy farming. Mushrooms appear in autumn, most commonly
-under lupine bushes in coastal paddocks. The [[psychedelic-mushrooms-species-and-identification]]
-("liberty cap") only grows in the manured soil of four-legged ruminants and
-not directly from manure (Jansen, Pers. Comm., 1988).
-
-## Early Farmers and Accidental Ingestion
-
-Some mycologists who have studied the "magic mushrooms" in Australia and New
-Zealand claim that the "use of [[psychedelic-mushrooms-species-and-identification]] as a recreational drug
+under lupine bushes in coastal paddocks. The [[psychedelic-mushroom-set-and-setting]] as a recreational drug
 tends to confirm the belief that some farmers in early times may have added
 one or two basidiomes (gilled mushrooms) to a meal to liven it up, and still
 do" (Margot & Watling, 1981). This suggests that the introduction of
@@ -121,8 +89,5 @@ ideal conditions for these fungi to thrive and spread.
 
 ## See Also
 
-- [[psilocybe-subaeruginosa-australia]] -- a wood-inhabiting species likely endemic to
-  Australasia
 - [[mushroom-folklore-and-culture]] -- cultural context of mushroom use
-- [[mycophobia-in-western-culture]] -- attitudes toward fungi
 - [[gordon-wasson-mushroom-discovery]] -- the original 1957 Life Magazine report

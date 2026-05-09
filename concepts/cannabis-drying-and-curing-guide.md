@@ -135,14 +135,8 @@ After curing:
 
 ## Related
 
-- [[green-cannabis-curing-drying-buds]] Topics
-
 - [[cannabis-harvesting-techniques]] — harvest procedures
-- [[cannabis-harvest-timing-visual-cues]] — timing your harvest
 - [[cannabis-flushing-before-harvest]] — pre-harvest preparation
-- [[cannabis-trichome-guide]] — preserving trichomes during processing
 - [[cannabis-hashish-screening-and-pressing]] — processing trim
-- [[cannabis-concentrates-and-extracts]] — other preservation methods
-
 - [[cannabis-hashish-making-methods]]
 - [[cannabis-hash-making-from-extracted-oil]]

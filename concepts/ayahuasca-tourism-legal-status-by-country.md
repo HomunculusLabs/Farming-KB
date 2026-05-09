@@ -8,25 +8,9 @@ type: concept
 tags: [ayahuasca]
 ---
 
-# [[ayahuasca-tourism]] Legal Status by Country
+# [[ayahuasca-tourism-peru-retreat-landscape]], when the industry was expanding but regulatory frameworks remained largely undeveloped.
 
-The legal status of ayahuasca varies significantly across South American countries and internationally, creating a patchwork of regulation that directly shapes tourism patterns and industry development.
-
-The source material (R. Stuart, "Ayahuasca Tourism: A Cautionary Tale," 2002) provides a snapshot of the legal landscape during a formative period for [[ayahuasca-tourism-peru-retreat-landscape]], when the industry was expanding but regulatory frameworks remained largely undeveloped.
-
-The legal permissiveness in key source countries contrasts sharply with the prohibition that awaits returning tourists in their home countries. For broader context on [[ayahuasca-preparation-and-ceremony]], see that page.
-
-## Peru
-
-Peru represents the most permissive and commercially significant legal environment for ayahuasca tourism, serving as the primary destination for international ayahuasca seekers:
-
-### Legal Status
-
-Ayahuasca is regarded as an "herbal tonic" rather than an illegal drug.
-
-The brew and its raw materials are openly sold in markets with no legal restriction.
-
-This classification reflects deep cultural acceptance -- ayahuasca has been used in the Peruvian Amazon for centuries, and its legal status reflects this indigenous heritage rather than a regulatory decision about psychoactive substances. The [[entheogen-culture]]|entheogenic traditions surrounding ayahuasca are deeply rooted in Amazonian culture.
+The legal permissiveness in key source countries contrasts sharply with the prohibition that awaits returning tourists in their home countries. For broader context on [[entheogen-culture]]|entheogenic traditions surrounding ayahuasca are deeply rooted in Amazonian culture.
 
 The practical effect is that anyone can purchase ayahuasca ingredients, prepare the brew, and participate in ceremonies without legal interference.
 

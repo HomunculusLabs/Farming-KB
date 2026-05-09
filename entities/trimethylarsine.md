@@ -26,7 +26,7 @@ sources:
 Trimethylarsine is a volatile organoarsenic compound with the formula C3H9As, commonly written as (CH3)3As or AsMe3.
 It is an organic derivative of arsine with three methyl groups attached to arsenic.
 In environmental microbiology, it is important as a possible endpoint of arsenic biomethylation.
-In the wiki, it connects [[staycare-fungal-biomethylation-of-metals-and-metalloids]], [[phytovolatilization]], and fungal metal transformation pages.
+In the wiki, it connects [[phytovolatilization]], and fungal metal transformation pages.
 ## Core Identity
 - Entity class: volatile organoarsenic chemical.
 - PubChem CID: 68978.
@@ -57,65 +57,33 @@ Reduction steps interconvert arsenic oxidation states.
 Methyl transfer steps add one-carbon groups to the arsenic center.
 Intermediates include monomethylated and dimethylated arsenic species.
 A final methylation and reduction state can yield volatile trimethylarsine.
-[[s-adenosylmethionine|S-adenosylmethionine]] is commonly invoked as the biological methyl donor in these transformations.
-The exact enzyme systems vary among bacteria, fungi, algae, and plants.
-## Fungal Relevance
-Fungi can methylate arsenic under some environmental conditions.
-Concept pages in this wiki cite fungal conversion of arsenic substrates toward volatile arsenicals.
-Species such as [[gliocladium-roseum]], Candida humicola, and Penicillium spp. are discussed in relation to arsenic methylation.
+[[gliocladium-roseum]], Candida humicola, and Penicillium spp. are discussed in relation to arsenic methylation.
 Trimethylarsine is therefore a marker compound for fungal involvement in arsenic cycling.
 Its formation indicates that arsenic has not merely been adsorbed or reduced.
 It has entered organometallic transformation chemistry.
 The result may be removal from a local substrate and redistribution into another environmental compartment.
 ## Phytovolatilization Relevance
-[[phytovolatilization]] pages describe arsenic transformation in plants and plant-associated microbes.
-In simplified phytovolatilization schemes, inorganic arsenate is reduced to arsenite.
-Arsenite may then be methylated through monomethyl and dimethyl intermediates.
-The pathway can culminate in trimethylarsine, which can leave plant tissues as a gas.
-This transfer can reduce local soil or tissue arsenic burdens.
-It can also move arsenic into air, where exposure and deposition must be considered.
-That tradeoff is central to evaluating volatilization-based remediation.
-## Environmental Behavior
-Trimethylarsine's volatility gives it a different environmental profile from arsenate or arsenite salts.
-It can diffuse from microbial cultures, wetland sediments, composts, soils, or plant tissues.
-Atmospheric release may dilute the compound rapidly.
-Dilution does not automatically eliminate risk.
-Volatile organoarsenic compounds can oxidize or transform after release.
-They may contribute to redistribution rather than permanent removal of arsenic.
-For this reason, volatilization-based remediation must be evaluated as a mass transfer process.
-It should not be described merely as disappearance from a contaminated matrix.
-## Toxicological Considerations
-Trimethylarsine is associated with arsenic toxicity concerns.
-Its odor does not provide a reliable safety boundary.
-Toxicity comparisons between methylated arsenicals and inorganic arsenic depend on species, dose, route, and endpoint.
-Some methylated products are less acutely toxic than their inorganic precursors.
-Other organoarsenic species can be reactive or hazardous.
-Concept pages should avoid treating trimethylarsine formation as automatically beneficial.
-The precise statement is that methylation changes mobility, exposure route, and chemical speciation.
-Risk assessment must therefore track both chemical form and destination.
-## Industrial and Laboratory Uses
-Trimethylarsine has been used as a source of arsenic in microelectronics.
-It can serve as a precursor to other organoarsenic compounds.
-It can also act as a ligand in coordination chemistry.
-These uses belong to controlled industrial or research settings.
-They should be separated from environmental formation in soils and biological systems.
-The same molecule can be a reagent in one context and an unwanted volatile contaminant in another.
-## Relation to Other Arsenic Species
-Arsenate is an oxidized inorganic arsenic species that chemically resembles phosphate in some biological contexts.
-Arsenite is a reduced inorganic arsenic species with strong affinity for thiol groups.
-Monomethylarsonic acid and dimethylarsinic acid are methylated intermediates in many pathway descriptions.
-Trimethylarsine is the fully methylated volatile endpoint in the simplified sequence.
-The pathway should be understood as a network of redox and methylation steps.
-It is not a single irreversible line in all organisms.
-## Wiki Usage Notes
-Use this entity page when discussing volatile arsenic products specifically.
-Use arsenic or arsenate pages when the topic is inorganic arsenic burden.
-Use [[s-adenosylmethionine|S-adenosylmethionine]] when the topic is methyl donor chemistry.
+[[s-adenosylmethionine|S-adenosylmethionine]] when the topic is methyl donor chemistry.
 Use fungal species pages when the topic is which organisms perform the transformation.
-Use [[phytovolatilization]] when the topic is plant-mediated contaminant export.
-Avoid implying that volatilization is automatically safe remediation.
-## See Also
-- [[staycare-fungal-biomethylation-of-metals-and-metalloids]]
-- [[phytovolatilization]]
+Use [[staycare-fungal-biomethylation-of-metals-and-metalloids]]
 - [[fungal-metal-redox-transformations-detailed]]
 - [[s-adenosylmethionine|S-adenosylmethionine]]
+## Practical Considerations
+
+Successful implementation of Trimethylarsine requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

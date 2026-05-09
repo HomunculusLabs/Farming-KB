@@ -1,18 +1,8 @@
 ---
-title: [[psilocybin]] Distribution in Cap vs Stem
+title: Psilocybin Distribution Cap Vs Stem
 aliases: [mushroom cap stem potency, psilocybin cap stem distribution, cubensis
   anatomy alkaloids]
-tags: [psilocybin, psilocin, [[psilocybe-cubensis]], mushroom-anatomy,
-  alkaloid-distribution, mycology]
-sources:
-  - variation-of-psilocybin-and-psilocin-levels-[[bigwood]]-beug.md
-created: 2026-05-08
----
-
-# Psilocybin Distribution in Cap vs Stem
-
-The distribution of psychoactive alkaloids between the cap (pileus) and stem
-(stipe) of *[[psilocybe-cubensis]]* varies significantly depending on the strain
+tags: [psilocybin, psilocin, [[psilocybe-cubensis]]* varies significantly depending on the strain
 and the specific alkaloid being measured. Bigwood and Beug's 1982 study
 provided quantitative data on this distribution across three different
 strains, revealing patterns that challenge common assumptions about mushroom
@@ -21,8 +11,8 @@ potency.
 ## Overview of Findings
 
 Bigwood and Beug analyzed the caps and stems separately for three strains
-[[psilocybe-cubensis-distribution-and-ecology]] nsis* grown on [[psilocybe-cubensis-miniculture-on-rye-grain]] substrate. The results showed
-that [[cap-vs-stem-alkaloid-distribution]] is not uniform across the [[fruiting-body-development]] and that
+[[psilocybe-cubensis-miniculture-on-rye-grain]] substrate. The results showed
+that [[fruiting-body-development]] and that
 the pattern differs between psilocybin and psilocin, as well as between
 strains.
 
@@ -133,8 +123,6 @@ variation.
 
 ## See Also
 
-- [[psilocybin-psilocin-variation-across-flushes]] — Flush-to-flush
-  variation patterns
 - [[psilocybe-cubensis-street-sample-variability]] — Variability in
   uncontrolled samples
 

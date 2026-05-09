@@ -129,9 +129,6 @@ and return.
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]] for the philosophical framework
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]] for the directional metaphor
-- [[fukuoka-textdoc-scientific-farming-energy-paradox]] for energy inefficiency
 - [[fukuoka-textdoc-increased-production-not-increased-yields]] for the yield illusion
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]] for how the types become confused
 - [[fukuoka-textdoc-three-ways-farming-compared]] for another comparison framework

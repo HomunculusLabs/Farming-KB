@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-[[agaricus-blazei]] Murill (also known as [[agaricus-subrufescens]], Agaricus brasiliensis, and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
+Agaricus blazei Murill (also known as Agaricus subrufescens, Agaricus brasiliensis, and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
 
 The mushroom has a distinctive almond-like aroma when fresh, which is the origin of its common name "cogumelo do sol" (mushroom of the sun) in Brazil and "himematsutake" (princess matsutake) in Japan.
 

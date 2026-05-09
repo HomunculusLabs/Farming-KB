@@ -5,7 +5,8 @@ tags: [ethnobotany, chile, andes, desfontainiaceae, folk-medicine,
   narcotic-plants, schultes, south-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 type: concept
 ---
 
@@ -124,9 +125,6 @@ knowledge of its indigenous inhabitants.
 
 ## See Also
 
-- [[golden-guide-hallucinogenic-plants-overview]]
 - [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
-- [[keule-gomortega-keule-chilean-entheogen]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[chiric-caspi-brunfelsia-south-american-hallucinogen]]

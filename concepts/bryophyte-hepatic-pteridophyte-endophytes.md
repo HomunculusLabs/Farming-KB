@@ -16,9 +16,7 @@ type: concept
 
 # Endophytic Fungi of Bryophytes, Hepatics, and Pteridophytes
 
-The association of [[endophytic-fungi]] with nonvascular plants and
-primitive vascular plants is an intriguing but understudied aspect of
-[[fungal-biodiversity]]. Although comprehensive surveys of endophyte
+The association of [[fungal-biodiversity]]. Although comprehensive surveys of endophyte
 assemblages occurring on moss, hepatic, liverwort, and fern hosts are
 lacking, numerous reports document occurrences of individual fungal
 species on such hosts, revealing a rich and largely unexplored
@@ -34,47 +32,7 @@ recovery. Seventeen fruticose lichen samples yielded 506 fungal taxa,
 the majority of which (306) were isolated only once. A more intensive
 study of two lichen species from a common site revealed differences in
 their fungal assemblages but similar levels of biodiversity. Most
-isolates were not representative of [[lichenicolous-fungi]] but represent
-genera and species known from various other substrata. The high level of
-growing gourmet global may have been the result of the highly porous and
-heterogeneous nature of the lichen thalli.
-
-Selenospora guernisacii, an inconspicuous Discomycete, is associated
-with mosses in northwestern North America. Döbbler (1979) reported
-pyrenocarpous and pezizalean parasites of mosses in europe. These
-associations between endophytic fungi and nonvascular plants are
-apparently widespread.
-
-### Intracellular Associations
-
-Intracellular associations between achlorophyllous gametophytes of
-hepatics and Pteridophytes and various fungi are apparently widespread.
-Similar associations between endophytic fungi and nonvascular plants,
-such as the Anthocerote Phanoceros laevis, are known primarily from
-histological studies. Unidentified endophytic Ascomycetes,
-Basidiomycetes, and Zygomycetes have been reported to form associations
-with a variety of nonvascular hosts in a range of cytological
-specializations ranging from the simple to the complex.
-
-### Endomycothalli
-
-The term endomycothalli has been proposed as a general term for the
-fungal colonization of hepatics. This encompasses the diverse range of
-fungal-plant interactions observed in these primitive plants, from
-simple surface colonization to deep intracellular penetration with
-specialized structures.
-
-## Pteridophyte Endophytes
-
-### Root Colonization
-
-Colonization of roots of Pteridophyte sporophytes is well known. Most
-terrestrial Pteridophytes are considered to be endomycorrhizal,
-although reports of septate hyphae in Pteridophyte roots are also
-numerous. Few comprehensive surveys of fungi-colonizing Pteridophyte
-roots exist.
-
-Roots of Pteridium aquilinum (bracken fern) are colonized by a variety
+isolates were not representative of [[pteridium-aquilinum]] (bracken fern) are colonized by a variety
 of fungi, including:
 - **Zygomycetes**: Absidia cylidrospora, Mortierella species
 - **Anamorphic Ascomycetes**: Several genera
@@ -90,8 +48,7 @@ cortical cells.
 
 Schmid and Oberwinkler (1993) coined the term "lycopodioid
 mycothallus interaction" to recognize the distinct nature of the
-association between [[fungal-endophytes]] and the achlorophyllous
-gametophytes of Lycopodium clavatum. Symbioses between primitive
+association between [[lycopodium-clavatum]]. Symbioses between primitive
 vascular plants and fungi have been described as mycorrhizalike, but
 the unique cytological features of these associations justify their
 recognition as a distinct category of plant-fungus interaction.
@@ -146,3 +103,4 @@ Endophytic fungi are known from bryophytes, hepatics, and
 pteridophytes growing in tropical, temperate, and boreal forests; from
 herbaceous plants in extreme arctic, alpine, and xeric environments;
 and from mesic temperate and tropical forests. The ubiquity of these
+## See Also

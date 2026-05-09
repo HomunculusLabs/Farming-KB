@@ -96,13 +96,9 @@ Michaelmas daisy, ice plant (Sedum spectabile), cotoneaster, tienturier grape, r
 
 ## Related Concepts
 
-- [[hamilton-annual-flowers-organic]]
 - [[hamilton-rose-growing-organic]]
-- [[hamilton-climbing-plants-organic]]
 - [[geoff-hamilton-organic-techniques]]
 
 Source: Geoff Hamilton, The Organic Garden Book
-- [[hamilton-shade-garden-plants]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[growing-vegetables-with-less-fertilizer]]
 - [[seed-starting-indoors-solomon]]

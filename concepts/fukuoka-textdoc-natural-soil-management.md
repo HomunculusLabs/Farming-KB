@@ -124,8 +124,6 @@ living soil, left to its own processes, is self-regulating.
 
 ## See Also
 
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[natural-farming-soil-management]]
-- [[fukuoka-natural-weed-management]]
 - [[fukuoka-soil-management-observations]]
 - [[fukuoka-natural-orchard-management]]

@@ -104,19 +104,11 @@ Interactions with other wood-inhabiting fungi include both competitive and succe
 
 ## See Also
 
-- [[trametes-versicolor]]
 - [[trametes-hirsuta]]
-- [[trametes-trogii]]
 - [[trametes-ochracea]]
-- [[pycnoporus-cinnabarinus]]
 - [[coriolopsis-gallica]]
-- [[fomes-fomentarius]]
-- [[laetiporus-sulphureus-permaculture]]
-- [[bjerkandera-adusta]]
+- [[laetiporus-sulphureus]]
 - [[piptoporus-betulinus]]
-- [[polyporus-umbellatus]]
 - [[ganoderma-lucidum]]
-- [[schizophyllum-commune]]
 - [[laccase]]
-- [[pore-fungi-polyporaceae]]
 - [[mycoremediation]]

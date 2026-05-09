@@ -85,52 +85,7 @@ the marsh inlet. If using a composting toilet, liquid waste from that
 system can also be diverted to the graywater marsh, provided the
 toilet separates liquids from solids.
 
-## Rules for [[graywater-systems]]
+## Rules for [[phragmites-australis]]
 
-Several important rules must be followed for safe and effective
-graywater use:
-
-- Use only biodegradable soaps and avoid any detergent products
-- Do not wash anything with human waste on it (cloth diapers, etc.)
-  and send that water to the graywater system
-- The water level in the marsh should never flood over the top of
-  the mulch layer
-- If over capacity, install a tank with a valve to control flow, or
-  increase the system size
-- If using a storage tank, the liquid must cycle every 24 hours or
-  it becomes too toxic to use
-- Watch for clogs and prevent them by flushing the system with clean
-  water once a month
-- If a washing machine is used, consider installing a diverter valve
-  to send contaminated loads to municipal/septic systems instead
-
-## Integration with Other Systems
-
-A graywater wetland integrates beautifully with other Permaculture
-systems. The wetland plants can be harvested for craft materials or
-food. The filtered water can irrigate orchards, food forests, or
-pasture. The marsh creates habitat for amphibians, birds, and
-beneficial insects. Combined with a composting toilet, the system
-virtually eliminates the need for a septic system, saving thousands
-of dollars in installation and maintenance costs while conserving
-thousands of gallons of fresh water annually.
-
-## Seasonal Considerations
-
-In colder climates, the marsh may freeze in winter. Designing the
-system deeper and using insulated layers can help prevent complete
-freezing. In very dry climates, additional water may be needed to
-keep the wetland plants alive during drought periods. The system
-should be designed with overflow mechanisms for heavy rain periods
-and with the ability to accept additional water inputs during dry
-spells. Regular maintenance of the mulch layer and occasional
-harvesting of excess plant material keeps the system functioning at
-peak efficiency.
-
-## See Also
-
-- [[phragmites-australis]]
-
-- [[graywater-systems-for-homesteads]]
 - [[natfarm-graywater-recycling-systems]]
 - [[growing-gourmet-hepa-filtration-laboratory-air-systems]]

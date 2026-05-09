@@ -68,8 +68,6 @@ The most studied fungal laccases come from:
 |--------|------------------------|
 | Trametes (Coriolus) versicolor | Strong constitutive laccase producer; widely used in bioremediation studies |
 | Pycnoporus cinnabarinus | High laccase activity; mediators enhance dye decolorization |
-| [[pleurotus-ostreatus]] | Laccase induced by copper (Palmieri et al., 2000) |
-| Phlebia radiata | Produces laccase along with peroxidases |
 | [[agaricus-bisporus]] | One of the first fungal laccases characterized |
 | Coriolus hirsutus | Active laccase producer |
 | [[neurospora-crassa]] | Model organism for laccase genetics |
@@ -115,16 +113,14 @@ Laccase synthesis is regulated by multiple factors:
 
 ## See Also
 
-- [[staycare-fungal-treatment-of-textile-industry-wastewater]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
 - [[staycare-solid-state-fermentation-for-bioremediation]]
 
 ## References
 
 - Bourbonnais, R. & Paice, M.G. (1990). Oxidation of non-phenolic substrates. FEBS Letters.
 - Bourbonnais, R. et al. (1997). Laccase-mediated delignification with nitrogen-containing mediators.
-- Collins, P.J. & Dobson, A.D.W. (1997). Regulation of laccase gene transcription in [[trametes-versicolor]].
+- Collins, P.J. & Dobson, A.D.W. (1997). Regulation of laccase gene transcription in [[trametes-versicolor-entity]].
 - Hoff, T., Liu, S.Y. & Bollag, J.M. (1985). Polymerization of chloroanilines.
 - Johannes, C. & Majcherczyk, A. (2000). Natural mediators in the oxidation of PAHs by laccase.
 - McCarthy, D.L. et al. (1999). Decolorization of dyes by Pycnoporus cinnabarinus laccase.

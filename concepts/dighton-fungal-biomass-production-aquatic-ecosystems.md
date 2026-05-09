@@ -111,10 +111,6 @@ decomposition, utilizing more recalcitrant resources.
 
 ## See Also
 
-- [[dighton-fungal-dissolved-organic-carbon-production]]
-
 - [[freshwater-fungi-ingoldian-spores]]
-- [[aquatic-fungi-and-ingoldian-spores]]
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[the-soil-food-web]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

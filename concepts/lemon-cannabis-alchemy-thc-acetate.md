@@ -11,7 +11,7 @@ type: concept
 
 # THC Acetate Synthesis and Properties
 
-Chapter 3 of *[[cannabis-alchemy-overview]]* by [[ben-lemon]] describes the synthesis of
+Chapter 3 of *[[ben-lemon]] describes the synthesis of
 THC acetate, a derivative of THC with approximately twice the potency of
 the parent compound. This chapter details both the chemical properties of
 THC acetate and the elaborate safety precautions necessary for its
@@ -147,3 +147,7 @@ customary manners.
 ## Related
 
 - [[thc-o-acetate]]
+
+## See Also
+
+- [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]

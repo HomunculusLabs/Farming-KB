@@ -124,12 +124,8 @@ It is listed as an accepted species by the IUCN with no current conservation con
 
 ## See Also
 
-- [[aloe-vera]]
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[agaricus-bisporus]]
 - [[passiflora-incarnata]]
-- [[calendula-officinalis]]
 - [[silybum-marianum]]
-- [[hypericum-perforatum]]
 - [[echinacea-purpurea]]
 - [[sambucus-nigra]]

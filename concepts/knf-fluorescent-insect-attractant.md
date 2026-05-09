@@ -9,21 +9,7 @@ sources:
 ---
 # Fluorescent Insect Attractant (FIA)
 
-The Fluorescent Insect Attractant (FIA) is a passive pest-control device used in [[cho-han-kyu-life-and-philosophy]]'s Korean Natural Farming (KNF) system.
-
-## Overview
-
-Insects are naturally attracted to fluorescent lights.
-
-If used properly, the fluorescent insect attractant (FIA) is an effective tool in controlling agricultural pests without the need for chemical pesticides.
-
-FIA works by luring flying insects toward a light source positioned over a water trap.
-
-Once the insects approach the light, they strike the reflective zinc backing and fall into a basin of water treated with a thin layer of gasoline or kerosene.
-
-The fuel film prevents the insects from escaping, effectively drowning them.
-
-This method is part of the broader suite of [[knf-pest-control-methods]] that prioritize natural, non-toxic approaches to managing insect populations.
+The Fluorescent Insect Attractant (FIA) is a passive pest-control device used in [[knf-pest-control-methods]] that prioritize natural, non-toxic approaches to managing insect populations.
 
 FIA is often deployed alongside AIA (Attractive Insect Attractant) as a complementary physical pest-management strategy.
 
@@ -89,41 +75,17 @@ FIA should be installed during the egg-laying season of pestilent insects.
 
 This is the period when insect populations are most active and reproductive, making them most vulnerable to light-based traps.
 
-FIA units are especially necessary during the peak of the [[knf-reproductive-growth-stage]] of fruit-bearing plants.
-
-They are equally important during the height of the [[knf-vegetative-growth-stage]] of leafy vegetables.
+FIA units are especially necessary during the peak of the [[knf-vegetative-growth-stage]] of leafy vegetables.
 
 These are the growth phases when crops are most attractive to pests and most susceptible to damage.
 
-Consult the [[knf-input-application-timing]] guidelines for region-specific deployment schedules.
-
-## Maintenance and Effectiveness
-
-An FIA unit requires minimal maintenance but benefits from regular attention.
-
-The water basin should be checked daily and refilled as needed to keep the trap functional.
-
-Dead insects should be periodically removed from the water to prevent the basin from becoming clogged or excessively foul.
-
-The gasoline or kerosene layer must be replenished after heavy rain or evaporation.
-
-The fluorescent light bulb should be replaced when it begins to dim or flicker, as a weaker light is less attractive to insects.
-
-When properly maintained, FIA can significantly reduce pest populations in the field without introducing any harmful chemicals into the ecosystem.
-
-It is a sustainable, low-cost method that can be used year after year as part of an integrated pest management approach.
-
-For troubleshooting common issues with FIA deployment, see [[knf-troubleshooting]].
+Consult the [[knf-troubleshooting]].
 
 ## See Also
-
-- [[knf-pest-control-methods]] — broader overview of pest control in KNF
 
 - [[knf-preparations]] — KNF input preparations for crop health
 
 - Knf Vs Jadam Vs Em — comparison of KNF with other natural farming systems
-
-- [[fish-amino-acid-faa]] — supplementary KNF input for plant vigor
 
 - [[knf-soap-water-and-hot-pepper]] — another natural pest control method in KNF
 

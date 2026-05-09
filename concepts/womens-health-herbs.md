@@ -43,19 +43,7 @@ Vitex is the first-line herb for PMS, particularly for symptoms related to proge
 
 St. John's Wort (Hypericum perforatum) is specifically effective for the mood-related symptoms of PMS. Clinical trials have demonstrated its efficacy for premenstrual depression and irritability. St. John's Wort should not be combined with oral contraceptives or SSRIs due to interactions.
 
-Dandelion root supports liver function and hormone metabolism. The liver is responsible for breaking down and eliminating excess hormones, and sluggish liver function can contribute to PMS symptoms. Dandelion root as a decoction or tincture supports this process. See [[liver-and-detoxification-herbs]] for more on liver support for hormone balance.
-
-Evening primrose oil (Oenothera biennis) provides gamma-linolenic acid (GLA), an omega-6 fatty acid that may help with breast tenderness and PMS-related symptoms. While research results are mixed, many women report benefit from consistent use over several cycles.
-
-## Fertility and Pregnancy Support
-
-Herbs can support fertility and pregnancy when used appropriately, but caution is essential. Many herbs that are beneficial for menstrual regulation are contraindicated during pregnancy because of their emmenagogue (uterine-stimulating) properties.
-
-Red raspberry leaf (Rubus idaeus) is the primary herb for pregnancy support. It is a uterine tonic that strengthens the pelvic floor and uterus, potentially making labor more efficient. It is rich in iron, calcium, and magnesium. Red raspberry leaf tea is traditionally consumed throughout pregnancy, especially in the third trimester.
-
-Nettle (Urtica dioica) provides essential nutrients (iron, calcium, vitamin K, folic acid) that support a healthy pregnancy. Nettle tea is often combined with red raspberry leaf as a pregnancy tonic.
-
-Professional guidance is essential for herbal use during pregnancy. Herbs should generally be avoided in the first trimester unless specifically prescribed by a knowledgeable practitioner. The [[herbal-medicine-safety]] page provides general safety guidelines.
+Dandelion root supports liver function and hormone metabolism. The liver is responsible for breaking down and eliminating excess hormones, and sluggish liver function can contribute to PMS symptoms. Dandelion root as a decoction or tincture supports this process. See [[herbal-medicine-safety]] page provides general safety guidelines.
 
 ## Menopause Support Herbs
 
@@ -79,15 +67,27 @@ Modern herbal contraception research has focused on neem (Azadirachta indica), w
 
 Many women's health herbs affect hormone levels and uterine tone. Herbs with emmenagogue properties should be avoided during pregnancy unless prescribed by a qualified practitioner. Herbs with estrogenic activity should be used cautiously by individuals with estrogen-sensitive conditions or hormone-dependent cancers.
 
-Always consult the [[herb-drug-interactions]] page for potential interactions between women's health herbs and pharmaceutical medications, particularly oral contraceptives, hormone replacement therapy, and tamoxifen. See [[herbal-formulation-principles]] for dosing information and [[herbal-medicine-safety]] for comprehensive safety guidance.
-
-## Related Topics
-
-- [[herbal-materia-medica]] — Individual herb profiles for women's health
-- [[herb-drug-interactions]] — Interactions with hormonal medications
+Always consult the [[herbal-formulation-principles]] for dosing information and [[herbal-materia-medica]] — Individual herb profiles for women's health
 - [[herbal-medicine-safety]] — Safety principles for women's health herbs
-- [[liver-and-detoxification-herbs]] — Liver support for hormone metabolism
 - [[nervine-herbs-and-anxiety-relief]] — Nervine support for PMS and menopause
-- [[herbal-formulation-principles]] — Dosing for women's health conditions
 - [[cardiovascular-herbs]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+## Practical Considerations
+
+Successful implementation of Women's Health Herbs requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

@@ -16,68 +16,9 @@ type: concept
 
 # Rabbit Housing and Manure Management
 
-Bill Mollison's [[permaculture-designers-manual-bamboo]] includes rabbits
-among the most productive and space-efficient small livestock for
-permaculture systems. Rabbits convert forage to meat at a favorable
-ratio, produce high-quality manure for [[vermicomposting]] and garden
+Bill Mollison's [[vermicomposting]] and garden
 fertilization, breed rapidly, and require minimal space compared to
 larger livestock. Their integration into permaculture design follows
-[[permaculture-principles]] of cycling nutrients and producing
-multiple yields from every element.
-
-## Housing Systems
-
-Mollison compares two primary housing approaches:
-
-### Colony System
-
-The colony system allows rabbits to live in groups in enclosed
-spaces with access to ground or deep litter. Colonies may be
-housed in sheds, barns, or purpose-built structures with floor
-areas of 2-4 square meters per breeding group.
-
-Advantages of colony housing include:
-- Natural social behavior and reduced stress
-- Self-regulating breeding when managed properly
-- Lower labor requirement than individual cage management
-- Natural exercise and foraging opportunities
-- Reduced equipment cost
-
-Disadvantages include:
-- Difficulty identifying individual health problems
-- Potential for aggression, especially among does
-- Challenges in controlling breeding timing
-- Higher disease transmission risk in crowded conditions
-
-### Cage System
-
-Individual cages (hutches) house rabbits separately, typically in
-suspended wire cages with dropping boards or pits beneath. Each cage
-measures approximately 60-75cm wide by 60-75cm deep by 45-60cm tall.
-
-Advantages of cage housing include:
-- Individual health monitoring and record keeping
-- Controlled breeding and weaning
-- Clean, sanitary conditions with droppings falling away
-- Reduced cannibalism and fighting
-
-Disadvantages include:
-- Higher materials and labor cost
-- Behavioral restriction and potential welfare concerns
-- Requires separate feeding and watering per cage
-- Wire floor foot problems if not properly designed
-
-Mollison suggests a hybrid approach: colony housing for grow-out
-rabbits and breeding groups, with individual cages for does kindling
-and weaning litters.
-
-## Deep Litter Management
-
-In colony systems and some cage configurations, deep litter bedding
-provides multiple functions. A bedding layer of straw, hay, leaves,
-or wood chips 10-20cm deep absorbs moisture, captures manure, and
-supports microbial decomposition. The litter is managed by adding
-fresh material on top periodically and removing the entire depth for
 [[vermicomposting]] every 3-6 months.
 
 Deep litter systems produce compost directly in the rabbit housing,
@@ -102,16 +43,7 @@ use. Mollison provides these characteristics:
   burn plants. However, composting improves nutrient availability.
 
 - **Soil food web support:** Rabbit manure supports diverse
-  [[soil-food-web]] microbial populations and improves soil structure
-  through humus formation.
-
-- **Worm food:** Rabbit manure is an excellent feedstock for
-  vermicomposting systems. Worms process the manure rapidly,
-  producing castings that are among the finest soil amendments
-  available.
-
-Mollison recommends collecting manure from beneath cages or from
-deep litter cleanouts and incorporating it into [[zone-1-intensive-garden]]
+  [[zone-1-intensive-garden]]
 beds at a rate of 2-5 kg per square meter annually.
 
 ## Breeding Cycle Management
@@ -132,12 +64,7 @@ requiring only 1-2 kg of feed daily.
 
 ## Feeding Systems
 
-Mollison emphasizes that rabbits can be largely fed from [[permaculture-fig]]
-system outputs. Their diet consists of:
-
-- **Hay and dried forage:** The primary feed, providing fiber essential
-  for digestive health. Grass hay, clover hay, and dried herbaceous
-  material from [[mollison-designers-aquatic-edge-planted-wetland-design]] margins.
+Mollison emphasizes that rabbits can be largely fed from [[mollison-designers-aquatic-edge-planted-wetland-design]] margins.
 
 - **Green forage:** Fresh weeds, grass, comfrey, plantain, dandelion,
   tree leaves (willow, mulberry, apple), and vegetable trimmings.
@@ -147,4 +74,22 @@ system outputs. Their diet consists of:
   gestation and lactation.
 
 - **Mineral supplements:** Salt blocks and mineral licks should be
-  available, particularly in systems relying heavily on forage.
+## Practical Considerations
+
+Successful implementation of Rabbit Housing and Manure Management requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

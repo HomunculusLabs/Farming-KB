@@ -130,10 +130,7 @@ accessibility.
 
 ## See Also
 
-- [[savory-holistic-decision-making]] for the broader framework
 - [[savory-holistic-management-overview]] for model context
-- [[savory-ecosystem-foundation-blocks]] for what the guidelines
-  protect and enhance
 - [[savory-livestock-grazing-planning]] for time, stock density, and
   herd effect in practice
 - [[savory-ranch-financial-planning]] for financial weak link analysis

@@ -3,7 +3,7 @@ title: Fungicolous Fungi — Parasites and Associates of Other Fungi
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -77,11 +77,7 @@ Several fungicolous fungi are important in biological control of plant diseases:
 
 ## See Also
 
-- [[saprobic-soil-fungi-ecology-survey]]
 - [[soil-fungal-isolation-techniques]]
-- [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
-- [[microfungal-species-diversity-large-areas]]
 - [[endophytic-fungi-isolation-and-survey-methods]]

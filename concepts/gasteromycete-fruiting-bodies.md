@@ -134,16 +134,12 @@ blades. The peridioles are equipped with sticky threads (funiculi)
 that anchor them to vegetation.
 ## Related Topics
 
-- [[fungal-spore-discharge-mechanisms]]
-- mushroom fruiting body development
 - [[hyphal-biology-and-turgor-pressure]]
 - fungal evolution and fossil record
 - fungal animal interactions
 
 ## See Also
 
-- [[16s-rrna-sequencing-microbiome-analysis]]
 - [[1799-liberty-cap-discovery]]
-- [[1960s-counterculture-and-magic-mushrooms]]
 - [[2-4-dma-entity-pihkal]]
 - [[2-5-dma-entity]]

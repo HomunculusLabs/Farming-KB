@@ -66,44 +66,7 @@ with a silky sheen. It soon develops zones of tawny or rusty brown
 discoloration. On sterilized sawdust, this discoloration immediately precedes
 primordia formation, serving as a useful visual indicator for cultivators. The
 fragrance is pleasant and sweet, reminiscent of freshly rained-upon forest,
-similar to [[stropharia-rugoso-annulata]].
-
-## Cultivation
-
-Cultivation of *H. sublateritium* was pioneered at the Mon Mushroom Institute
-in Kiryu, Japan. The traditional method involves inoculating chestnut, oak, or
-similar logs with sawdust or plug spawn and partially burying them parallel in
-a shady, moist location.
-
-Indoor cultivation on supplemented sawdust is also successful. Oak sawdust is
-preferred. After 50-60 days from inoculation, fruiting is initiated by lowering
-the temperature. This species is a premier candidate for sustainable
-myco-permaculture. Indoor blocks can be buried outdoors for additional
-fruitings, or broken apart as sawdust spawn for inoculating stumps and logs.
-
-Cluster formation is encouraged during cultivation, and stem elongation is
-facilitated by elevated CO2 levels. Clusters should be grasped firmly and the
-base substrate trimmed. They are better presented as a "cluster bouquet" than
-as individual mushrooms.
-
-## Growth Parameters
-
-| Stage | Temperature | Humidity | Duration | CO2 | Light |
-|---|---|---|---|---|---|
-| Spawn Run | 70-75°F (21-24°C) | 95-100% RH | 20-28 days (+14-28 day rest) | >10,000 ppm | Not specified |
-| Primordia Formation | 50-60°F (10-16°C) | 98-100% RH | 8-12 days | 1,000-2,000 ppm | 100-200 lux |
-| Fruitbody Development | 50-60°F (10-16°C) | 90-95% RH | 7-14 days | 1,000-5,000 ppm | 100-200 lux |
-
-**Cropping Cycle:** 2 crops, approximately 2 weeks apart.
-
-**Yield:** 0.25-0.50 lbs fresh per 5 lbs moist supplemented sawdust.
-
-## Medicinal Properties
-
-Ying (1987) in *Icons of Medicinal Fungi* reports inhibition rates against
-sarcoma 180 and Ehrlich carcinoma at 60% and 70% respectively. The original
-reference is in Chinese and lacks further elaboration on methodology or
-compounds involved. [[paul-stamets]] has advocated for further investigation
+similar to [[paul-stamets]] has advocated for further investigation
 into the medicinal potential of this species.
 
 ## Flavor and Preparation
@@ -118,12 +81,5 @@ and sesame oil.
 
 - Smith, A.H. (1949). *Mushrooms in Their Natural Habitats*.
 - Ying, J. (1987). *Icons of Medicinal Fungi*.
-- Stamets, P. *Growing Gourmet and Medicinal Mushrooms*.
-- /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-
-*Last updated: 2026-04-28*
-
-## See Also
-
-- [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
+- Stamets, P. *Growing Gourmet and [[growing-gourmet-hypholoma-sublateritium-kuritake-cultivation]]
 - [[mushroom-cultivation-basics]]

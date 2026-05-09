@@ -1,7 +1,7 @@
 ---
 title: "Leucaena Alley Cropping and Tropical Forage Systems"
 created: 2026-04-28
-tags: [permaculture-plants, alley-cropping, tropical-forage, nitrogen-fixing]
+tags: [[permaculture-plants, alley-cropping, tropical-forage, nitrogen-fixing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -72,23 +72,7 @@ prolific in subtropical areas compared to tropical zones.
 
 ## Related
 
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Species and Hybrids
-
-Several related species extend the range of conditions where leucaena-
-type forage can be grown. Some species are more cold-tolerant, though
-slower growing and less prolific. Hybrids with leucaena show promise
-for combining desirable traits such as good form and aggressive
-growth with improved cold tolerance.
-
-## Establishment and Propagation
-
-Leucaena establishes readily from seed, which requires scarification
-for consistent germination. Direct seeding into prepared sites works
-well in tropical conditions. Seedlings transplant easily when young.
-For fodder systems, close spacing within rows and wider between-row
-spacing allows easy access for pruning and grazing management.
-
-## Leucaena in [[permaculture-design]]
+- [[permaculture-design]]
 
 In permaculture food forests of the tropics, leucaena serves as the
 nitrogen-fixing canopy component that enables productive understory
@@ -127,7 +111,5 @@ and fuel costs while building soil carbon and supporting biodiversity.
 
 ## See Also
 
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
 - [[mollison-designers-tropical-soils-and-cation-exchange-management]]
-- [[trap-cropping]]
 - [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]

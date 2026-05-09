@@ -65,19 +65,10 @@ potentials that native laccase alone cannot attack.
 
 White-rot basidiomycetes are the most prolific laccase producers:
 
-- [[staycare-trametes-versicolor-bioremediation-applications]]: One of the most studied laccase producers,
-  yielding high titers under optimized fermentation. T. versicolor
-  laccases have been extensively applied in dye decolorization and
-  phenol removal.
 - [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] and pleurotus eryngii: Oyster mushrooms
   that produce both laccase and versatile peroxidase, enabling
   synergistic degradation of complex pollutants.
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]: Produces thermostable laccase isoforms with
-  good activity across a range of pH and temperature conditions.
-- coriolopsis polyzona and pycnoporus cinnabarinus: Known for
-  producing laccases with unusually high redox potentials.
-
-Ascomycete fungi including [[aspergillus-niger-in-fungal-bioleaching]], neurospora crassa,
+- [[aspergillus-niger-in-fungal-bioleaching]], neurospora crassa,
 and botrytis cinerea also produce laccases, though generally at lower
 specific activities compared to basidiomycetes.
 
@@ -116,10 +107,6 @@ Laccase production and activity are influenced by:
 
 ## See Also
 
-- [[fungal-enzymes-in-environmental-bioremediation]]
-
 - [[singh-manganese-peroxidase-mnp-biodegradation]]
-- [[singh-lignin-peroxidase-lip-fungal-degradation]]
 - [[singh-versatile-peroxidase-vp-multifunctional]]
-- [[singh-textile-dye-decolorization-fungal]]
 - [[singh-fungal-immobilization-bioreactor-technology]]

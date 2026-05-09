@@ -111,11 +111,7 @@ Genomic selection and marker-assisted breeding are accelerating the development 
 
 ## See Also
 
-- [[zea-mays]]
 - [[oryza-sativa]]
-- [[glycine-max]]
 - [[allium-cepa]]
-- [[beta-vulgaris]]
-- [[solanum-lycopersicum]]
-- [[pennisetum-glaucum]]
+- [[solanum-tuberosum]]
 - [[sorghum-bicolor]]

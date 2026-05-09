@@ -19,28 +19,7 @@ cultivators from frustrated beginners.
 
 Contaminants enter through four primary vectors:
 
-**Airborne [[spore]]s** are everywhere. Molds such as *Trichoderma*, *Aspergillus*,
-and *Penicillium* release billions of spores into the air. Indoor environments
-typically contain hundreds to thousands of mold spores per cubic meter.
-
-**Unsterilized materials** introduce competitors directly. Grain that is
-under-sterilized, substrate with surviving thermophiles, or unclean tools all
-carry contamination risk.
-
-**The cultivator** is often the largest contamination vector. Skin, hair,
-clothing, and breath carry bacteria and mold spores. Simple movements generate
-enough air currents to pull contaminants into open jars or bags.
-
-**The culture itself** may carry hidden contaminants. A spore print from a wild
-mushroom almost certainly contains mold spores.
-
-## Common Contaminants
-
-### Trichoderma (Green Mold)
-
-*Trichoderma* is the most common and destructive contaminant. It appears as
-rapidly expanding white patches that quickly turn vivid green as spores mature.
-*Trichoderma harzianum* specifically parasitizes mushroom [[mycelium]], producing
+**Airborne [[mycelium]], producing
 enzymes that dissolve the cell walls of the target fungus. Over-supplemented
 substrate is especially vulnerable.
 
@@ -130,8 +109,6 @@ cultures.
 
 - [[contamination-mushroom-cultivation]]
 
-- [[oyster-mushroom-contamination-prevention]]
-
 - [[mushroom-substrate-preparation-sterilization]]
-- [mushroom-[[spawn-grain-preparation]]-and-inoculation]
+- [mushroom-and-inoculation]
 - [[mushroom-fruiting-chamber-designs]]-and-parameters]

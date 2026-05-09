@@ -116,12 +116,11 @@ which, after filtration and air drying, weighed 2.47 g.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[tryptamine]] research varies by jurisdiction.
-
-## See Also
-
-- [[2c-g-3-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
 - [[2c-g-5-entity-pihkal]]
 
 - PIHKAL (the source book)
+
+## See Also
+
+- [[tma-5-entity-pihkal]]

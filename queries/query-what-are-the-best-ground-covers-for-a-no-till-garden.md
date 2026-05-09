@@ -31,9 +31,7 @@ make, as it determines the trajectory of soil health for years to come.
 
 Living mulches are ground covers that grow simultaneously alongside crop
 plants, providing continuous soil coverage during the growing season. The
-[[living-mulch-systems-guide]] covers how to
-establish and manage these systems so they suppress weeds without competing
-excessively with crops. The [[white-clover-living-mulch]] is the gold standard for between-row coverage in vegetable gardens.
+[[white-clover-living-mulch]] is the gold standard for between-row coverage in vegetable gardens.
 It fixes nitrogen, tolerates foot traffic and mowing, stays low enough to
 avoid shading most crops, and attracts beneficial insects when allowed to
 flower.
@@ -42,37 +40,12 @@ The distinction between living mulches and cover crops is important but
 often blurred in practice. Living mulches are permanent or semi-permanent
 ground covers that coexist with crops, while cover crops are typically grown
 during fallow periods and terminated before the next crop. However, some
-species serve well in both roles. The [[cover-crop-guide-detailed]] provides comprehensive information on selecting species
-based on your goals, climate, and rotation schedule.
-
-Nitrogen-fixing ground covers are among the most valuable in a no-till
-system. Clover species, including white clover, crimson clover, and red
-clover, form symbiotic relationships with rhizobia bacteria that convert
-atmospheric nitrogen into plant-available forms. When these plants are
-terminated or naturally die back, the fixed nitrogen becomes available to
-subsequent crops. Fukuoka's [[fukuoka-white-clover-ground-cover]] demonstrates how clover can serve as a permanent
+species serve well in both roles. The [[fukuoka-white-clover-ground-cover]] demonstrates how clover can serve as a permanent
 living mulch in orchards and grain fields, reducing or eliminating the need
 for nitrogen fertilizer.
 
 Dynamic accumulator plants mine minerals from deep soil layers and bring them
 to the surface where they become available to shallow-rooted crops. The
-[[comfrey-plant-guide]] explains how comfrey's deep
-taproot draws up potassium, calcium, and other minerals, concentrating them
-in its leaves. When comfrey leaves are cut and used as mulch or added to
-compost, these minerals are recycled back into the surface soil. Comfrey is
-also an excellent bee plant and its dense growth effectively suppresses
-weeds without the need for mechanical cultivation.
-
-Soil-busting ground covers serve a specialized but critical role in no-till
-systems, which cannot rely on mechanical cultivation to alleviate compaction.
-Daikon radish, also called tillage radish, produces a thick taproot that
-penetrates compacted soil layers, creating channels for water infiltration
-and root growth. When the radish dies in winter, the channels remain open
-and the decomposing root adds organic matter. Other effective soil builders
-include field peas, oats, and certain deep-rooted brassicas that can be
-incorporated into fallow period rotations.
-
-Management strategies for ground covers in no-till systems include
 [[comparison-sheet-mulching-vs-chop-and-drop]], where mature plants are
 cut at the base and left in place as a mulch layer. This returns organic
 matter to the soil surface, smothers weeds, and feeds soil biology without
@@ -82,16 +55,9 @@ self-seeding, while cutting after flowering provides maximum pollinator
 benefit for the garden ecosystem.
 
 ## Key Points
-- [[white-clover-living-mulch]] is the most versatile living
-  mulch, providing nitrogen fixation, weed suppression, and pollinator
-  forage in a single plant
 - [[comfrey-multifunctional-guild-plant]] serves as a dynamic accumulator, mining
   deep minerals and producing abundant mulch material
-- Use the [[cover-crop-guide-detailed]] to select species
-  matched to your climate, soil conditions, and rotation needs
-- Combine nitrogen fixers, dynamic accumulators, and soil builders for a
-  multifunctional ground cover strategy
-- Practice [[comparison-sheet-mulching-vs-chop-and-drop]] to terminate ground
+- Use the [[comparison-sheet-mulching-vs-chop-and-drop]] to terminate ground
   covers and return organic matter without soil disturbance
 
 Seasonal timing is important when establishing ground covers. Warm-season
@@ -103,9 +69,25 @@ in every season without leaving soil bare.
 
 ## Related
 
-- [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
-
 - [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] Questions
-- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
+## Practical Considerations
+
+Successful implementation of What Are the Best Ground Covers for a No-Till Garden requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

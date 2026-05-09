@@ -133,8 +133,6 @@ In permaculture design, food web thinking replaces pyramid thinking:
 
 ## See Also
 
-- [[mollison-guild-design]]
 - [[mollison-animal-integration-permaculture-design]]
-- [[mollison-succession-planting]]
 - [[mollison-plant-stacking-and-interaction]]
 - [[soil-food-web]]

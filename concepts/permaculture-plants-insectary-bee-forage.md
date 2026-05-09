@@ -8,34 +8,7 @@ type: concept
 tags: [culture, permaculture, plants]
 ---
 
-# [[permaculture-insectary-plants]] and Bee Forage Systems
-
-Insectary plants attract pollinators, predatory insects, and parasitic wasps that provide natural pest control. A well-designed bee forage system provides year-round nectar and pollen flows, reducing the need for managed pollination services. This page details the comprehensive bee forage and beneficial insect systems from the source.
-
-## Designing a Year-Round Bee Forage System
-
-Commercial apiarists in Australia transport hives up to 1000 km to follow the honey flow. The expense is enormous. Alternatively, a year-round honey flow can be established for permanent hive sites.
-
-The bee forage system should be integrated within a whole property design. Where possible, nectar (N) and pollen (P) producing plants are preferred over other utility plants having no benefit to bees. Bees can effectively travel 2 miles (3.2 km) from the hive.
-
-## Hedgerow Bee Forage (Canopy Trees)
-
-Hedgerows provide food for bees AND wind-free flight paths so they can convert nectar to honey at greater efficiency. Species with combined bee forage, medicinal (to livestock), and fire-retardant properties are emphasised:
-
-| Plant | Nectar | Pollen | Season/Notes |
-|---|---|---|---|
-| Alder | Y | Y | |
-| Ash | Y | | |
-| Basswood | | | Early summer |
-| Citrus | Y | Y | |
-| Elm | Y | Y | |
-| Grevillea robusta | | | Spring-summer |
-| Hakea salicifolia | | | Spring |
-| Hawthorn | Y | | Spring -- pleach for fences |
-| Linden | | | |
-| Maple | Y | Y | Including box elder |
-| Poplars | Y | Y | Depending on sex of tree |
-| [[tagasaste]] | Y | Y | Most winter through spring; staggered cutting increases flowering duration |
+# [[tagasaste]] | Y | Y | Most winter through spring; staggered cutting increases flowering duration |
 
 ## Understorey Hedgerow Bee Forage (Shrubs and Herbs)
 
@@ -62,8 +35,6 @@ Hedgerows provide food for bees AND wind-free flight paths so they can convert n
 
 | Plant | Nectar | Pollen | Season/Notes |
 |---|---|---|---|
-| [[acacia]] spp | | Y | |
-| Black locust | Y | Y | 1600 kg/ha nectar yield estimated in Romania. Spring-summer |
 | [[carob]] | Y | Y | Pods can be fed to bees to help them winter |
 | Honey locust | Y | Y | Spring |
 | Oak | | Y | |
@@ -119,14 +90,7 @@ Supplement remnant forest with multipurpose species, emphasising those flowering
 - Hakea francisiana: Winter, spring
 - Eucryphia lucida (leatherwood): Extended nectar flow
 
-## Other [[bee-forage-plants]]
-
-- Blueberries (nectar)
-- Buddleja spp
-- Cape lilac
-- Castor
-- Chilean nut (Gevuina avellana)
-- [[chinese-tallow-tree]]
+## Other [[chinese-tallow-tree]]
 - Citrus: High honey producers
 - Grey mangrove: Autumn, winter; good light honey
 - Ivy

@@ -26,25 +26,7 @@ Fukuoka is sometimes asked why no other farmers nearby have thought to try farmi
 
 - More precisely, no one has even the slightest idea of what Fukuoka has been doing
 
-The local people have heard something about [[fukuoka-natural-farming]] from newspaper and television coverage. But they have their pride. They think, "There is no way someone can grow crops without plowing, fertilization, and pesticides. Look, we know. We have been growing crops now for decades, for centuries." When they see photos of daikon radishes growing beneath unsprayed mandarin trees, they do not think these grew by themselves. Not a single villager has visited Fukuoka's hilltop orchard and seen for himself the radishes growing there.
-
-## The Fear of Crop Failure
-
-Agricultural specialists all know that it takes a minimum of ten years to bring about a reform in even a minor farming technique. Although you might suggest to a farmer that he try a new method, normally the local agricultural research station has to try it out first. Then the prefecture recommends it and the technical staff who disseminate farming improvements make the rounds of local farms.
-
-- If a farmer sees one spot that is not doing well in Fukuoka's fields, he figures that natural farming is unstable and does not even give it a try
-
-- A farmer that has a bad crop one year suffers for two or three years after that
-
-- If he stumbles so much as once, a farmer may become unable to pay off his loans
-
-- This fear of crop failure has become ingrained after three or four hundred years
-
-- Farmers dislike nothing more than an irregular harvest
-
-- No one is as methodical and unbending as the farmer
-
-As for Fukuoka, he has done just the reverse by trying every possible type of irregular cropping under the sun. So it is no surprise if local farmers and he have gone their separate ways. See [[fukuoka-natural-farming-philosophy]].
+The local people have heard something about [[fukuoka-natural-farming-philosophy]].
 
 ## The Agricultural Cooperative Stranglehold
 
@@ -100,20 +82,11 @@ The Agricultural Ministry was pushing modern farming with large machines, and st
 
 - fukuoka why natural farming blocked in japan
 
-- [[fukuoka-natural-farming-philosophy]]
-
 - [[fukuoka-western-vs-japanese-attitudes]]
 
-- [[fukuoka-reflections-on-japanese-character]]
-
 - [[fukuoka-breakdown-japanese-agriculture]]
-
-- [[fukuoka-critique-modern-agriculture]]
 
 - [[fukuoka-natural-farming-today]]
 
 ## Merged: Fukuoka Why Natural Farming Does Not Catch On
-Fukuoka provides a detailed analysis of why natural farming has failed to spread in Japan, despite forty years of demonstration. The barriers are cultural, institutional, and psychological. 243-249 (why natural farming doesn't catch on in Japan) updated: 2026-04-18 - [[fukuoka-naming-problem-of-natural-farming]] - [[fukuoka-do-nothing-farming-philosophy]] - [[fukuoka-natural-farming-method]] "No one watches his neighbor so carefully yet guardedly as the farmer; no one does as much research as a farmer while appearing not to." Farmers "believe that going so much as one step ahead of the others is a prescription for failure." "A farmer hates nothing more than tests.
-## Merged: Fukuoka Why Natural Farming Does Not Spread
-In "The Road Back to Nature," Masanobu Fukuoka devotes an entire chapter to explaining why natural farming has been adopted more readily by Westerners than by Japanese farmers, despite natural farming originating in Japan. His analysis reveals deep structural and cultural barriers. If the method of agriculture is mistaken, this upsets the eating habits and culture, destroying a people." "The thousand fields must never die." This analysis connects to [[fukuoka-natural-farming-method]] (the technical methods farmers refuse to adopt) and [[fukuoka-critique-of-scientific-agriculture]] (the institutional system that enforces conformity). It also relates to [[fukuoka-food-and-health-philosophy]] (the cultural consequences of agricultural choices). 238-253 (natural farming today, Western vs Japanese adoption, thousand fields) updated: 2026-04-18 - [[fukuoka-village-self-sufficient-community]]
-- [[fukuoka-natural-why-no-fertilizer-tests]]
+Fukuoka provides a detailed analysis of why natural farming has failed to spread in Japan, despite forty years of demonstration. The barriers are cultural, institutional, and psychological. 243-249 (why natural farming doesn't catch on in Japan) updated: 2026-04-18 - [[fukuoka-do-nothing-farming-philosophy]] - [[fukuoka-natural-farming-method]] (the technical methods farmers refuse to adopt) and [[fukuoka-food-and-health-philosophy]] (the cultural consequences of agricultural choices). 238-253 (natural farming today, Western vs Japanese adoption, thousand fields) updated: 2026-04-18 - [[fukuoka-natural-why-no-fertilizer-tests]]

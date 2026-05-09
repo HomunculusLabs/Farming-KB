@@ -109,14 +109,9 @@ The strain produces strong lateral branching when trained, making it suitable fo
 
 ## See Also
 
-- [[afghan-kush]]
 - [[animal-cookies]]
-- [[chemdawg]]
 - [[gmo-garlic-cookies]]
-- [[girl-scout-cookies]]
 - [[gelato-cannabis]]
-- [[granddaddy-purple]]
 - [[kush-mints]]
-- [[northern-lights]]
 - [[og-kush]]
 - [[purple-punch]]

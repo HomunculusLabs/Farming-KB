@@ -27,30 +27,6 @@ Insectary plants and trap cropping are two biological pest management
     complementary components of integrated pest management programs.
 
 ## Insectary Plants
-[[insectary-plants-guide]]
-
-Insectary plants are species selected to provide nectar, pollen, and
-    habitat for beneficial insects including pollinators, predatory insects,
-    and parasitic wasps. A well-designed insectary system supports year-round
-    populations of these beneficial organisms by maintaining a continuous
-    bloom sequence across hedgerows, interplantings, and dedicated insectary
-    beds. Key plant categories include hedgerow trees and shrubs like alder,
-    maple, and tagasaste for early-season forage; understorey herbs like
-    borage, lavender, thyme, and dill for mid-season pollinator and parasitoid
-    support; and pasture forages like clovers and lucerne that serve dual
-    purposes as livestock feed and insect habitat.
-
-The approach builds beneficial insect populations over time, providing
-    indirect pest control as predator and parasitoid numbers increase.
-    Companion plants within the insectary toolkit include species with
-    additional pest-deterrent properties, such as marigolds for nematode
-    suppression, nasturtiums as aphid indicators, garlic for codling moth and
-    Japanese beetle deterrence, and rosemary for cabbage moth repulsion.
-    Insectary hedgerows provide multiple co-benefits including wind
-    protection, livestock forage, fire retardance, and wildlife habitat,
-    making them a multifunctional investment in overall farm ecology.
-
-## Trap Cropping
 [[trap-cropping]]
 
 Trap cropping uses sacrificial plants that are more attractive to
@@ -129,7 +105,5 @@ The most effective biological pest management combines both strategies
 
 ## See Also
 
-- [[comparison-trap-cropping-vs-beneficial-insects]]
 - [[companion-planting-reference]]
-- [[comparison-trap-cropping-vs-companion-planting]]
 - [[comparison-insectary-plants-vs-trap-crops]]

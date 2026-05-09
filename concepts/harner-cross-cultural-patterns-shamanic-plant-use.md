@@ -84,17 +84,13 @@ The open question is whether this residue reflects universal neurobiological str
 
 ## Related Topics
 
-- [[harner-shamanic-journey-and-altered-states]]
-- [[ethnomycology]]
 - [[harner-ayahuasca-shamanism-amazon]]
-- [[ethnomycology]]
+- ethnomycology
 
 ## Chapters Referenced
 
 - Ch.9: Harner, "Common Themes in South American Indian Yage Experiences"
 - Ch.10: Naranjo, "Psychological Aspects of the Yage Experience"
-- [[yage-common-themes-south-american-indians]]
 - [[harner-shamanic-journey-and-altered-states]]
-- [[ethnomycology]]
-- [[european-witchcraft-hallucinogenic-plants]]
+- ethnomycology
 - [[shamanic-trance-cross-cultural-patterns]]

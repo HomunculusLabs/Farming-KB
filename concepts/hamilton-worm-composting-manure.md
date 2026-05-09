@@ -103,32 +103,11 @@ soil. Sown primarily to be dug back into the soil, they add nutrients
 and improve soil structure. Mustard, for example, can be sown as a
 quick-maturing cover crop in vacant areas of the vegetable plot,
 particularly useful in winter on light soils. See
-[[hamilton-organic-soil-management]] for green manure varieties.
-
-## Using Worm Worked Material
-
-The finished worm compost is dark, crumbly, and odorless. It can be
-added to planting holes, used as a top dressing around established
-plants, or mixed into potting compost. Because the nutrients are
-released slowly, there is no risk of burning plant roots. A thin layer
-worked into the surface of beds provides an excellent boost to soil
-fertility and structure.
-
-## Types of Manure
-
-Farmyard manure from cattle, horses, or poultry is the traditional
-soil amendment. Horse manure is richest in organic matter but may
-contain weed seeds. Cow manure is cooler and more balanced. Poultry
-manure is very high in nitrogen and should be used sparingly or
-composted before application. All manure should be well rotted before
-digging in; fresh manure can scorch plants and may contain harmful
-pathogens. See [[hamilton-organic-fertilizers-and-plant-nutrition]] for
+[[hamilton-organic-fertilizers-and-plant-nutrition]] for
 nutrient content details of different manures.
 
 ## See Also
 
-- [[hamilton-composting-and-organic-matter-management]]
 - [[hamilton-organic-soil-management]]
-- [[sheet-composting]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[composting-science-solomon]]

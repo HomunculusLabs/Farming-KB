@@ -20,32 +20,6 @@ water patterns and placing retention spaces where the landscape indicates they b
 to rehydrate degraded land, but they differ in their precision, philosophy, and implementation.
 
 ## Swale
-[[swale-design]]
-A swale is a level or near-level channel excavated on contour, consisting of a ditch on the
-upslope side and a berm on the downslope side (built from excavated material). Contour is
-identified using A-frame levels, bunyip water levels, or laser levels. Water entering the swale
-spreads along its length, infiltrates into the soil, and overflows through designed spillways.
-Berms are planted with nitrogen-fixing trees, fruit trees, and ground covers. Dimensions range
-from 30-60 cm deep for garden-scale swales to 1-2 m deep for broadacre applications, with
-spacing determined by slope (5-50 m apart on 1-15% slopes).
-
-Swales provide a systematic, replicable approach to landscape hydration that can be designed from
-contour maps and implemented by machine or hand labor. They create predictable moist planting
-zones that enable tree crop establishment without irrigation, recharge groundwater, and prevent
-erosion by converting destructive surface runoff into gentle infiltration. Once established
-with tree cover on berms, swales become self-maintaining systems that require minimal ongoing
-care. They integrate well with keyline design, road systems, and dam construction for
-comprehensive water management planning.
-
-The limitations of swales include the risk of catastrophic erosion from improperly designed or
-undersized spillways during extreme rainfall events. On heavy clay soils, infiltration can be
-very slow, requiring larger or more numerous swales. They are unsuitable for very steep slopes
-(above 15%) without careful engineering, and incorrect placement can cause waterlogging of
-adjacent areas. Swales require regular maintenance, especially in the first years, to clear
-sediment from the ditch and repair spillways. The design process is formulaic, which can lead
-to misapplication on sites where natural water flow patterns are complex.
-
-## Contour Line Water Management
 [[contour-line-water-management]]
 Contour line water management, as developed by Sepp Holzer at his Krameterhof farm in Austria,
 is an observational approach that reads natural landscape patterns to identify where water
@@ -122,8 +96,6 @@ natural water flow patterns. Both approaches benefit from integrating livestock 
 berms and retention edges, which accelerates soil building and vegetation establishment.
 
 ## See Also
-- [[keyline-design]]
 - [[comparison-keyline-vs-swale]]
-- [[comparison-keyline-vs-contour]]
 - [[pond-design-and-construction]]
 - [[swale-design]]

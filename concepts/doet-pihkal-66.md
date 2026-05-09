@@ -72,20 +72,9 @@ DOET displays an unusual dose-dependent character shift:
 
 ## Comparisons
 
-- vs. [[dom-pihkal-68]]: DOET is the immediate ethyl homologue of DOM (methyl). DOET is longer-acting and at lower doses less overtly psychedelic than DOM. The clinical literature on DOET focused on low doses and described it as a cognitive enhancer rather than a hallucinogen.
 - vs. [[dob-pihkal-62]]: DOB (bromo) is more potent per milligram and more classically psychedelic. DOET requires higher doses and has a more variable character.
-- vs. [[doi-pihkal-67]]: DOI is more consistently psychedelic across its dose range. DOET's lower doses are distinctly non-psychedelic, functioning as a mood enhancer.
-- vs. doet pihkal 66: DOET was explicitly contrasted with LSD -- "none of the LSD or STP seriousness." The experience is generally gentler and more serene.
-
-## Harm Reduction
-
-- Duration of 14-20 hours requires planning for a full day and potentially the following morning
-- Considerable individual variation in sensitivity -- start with low doses
-- The broad effective dose range (2-7 mg) means that "one person's light dose may be another's strong dose"
-- At modest doses, DOET has a reputation for being free of sensory distortions, which may lead users to underestimate higher doses
-- The higher dose reports in PIHKAL were never published in the clinical literature
-- Consider [[psychedelic-set-and-setting]] carefully
-- See [[psychedelic-harm-reduction]] and [[harm-reduction-guide]] for general principles
+- vs. [[psychedelic-set-and-setting]] carefully
+- See [[harm-reduction-guide]] for general principles
 
 ## The HECATE Naming
 

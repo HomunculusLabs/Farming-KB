@@ -73,13 +73,6 @@ The Cannabis Health Index dedicates a full section to cannabis and
 hepatitis. Given the connection between hepatitis B and C infections and
 liver cancer, the anti-inflammatory and potential antiviral properties of
 cannabinoids may serve a dual protective purpose. See
-[[blesching-cannabis-hepatitis]] for detailed coverage.
-
-### HPV and Cervical Cancer
-
-Human papillomavirus is linked to cervical cancer development. The
-immune-modulating properties of cannabinoids may support the body's
-ability to clear HPV infections before they progress to malignancy. See
 [[blesching-cannabis-cervical-cancer]] for specific research.
 
 ### Kaposi's Sarcoma (HHV-8)
@@ -88,14 +81,7 @@ Kaposi's sarcoma is an abnormal connective tissue mass, commonly
 presenting as multiple lesions on the skin, caused by human herpes virus
 8. The synthetic cannabinoid WIN55,212-2 has shown the ability to reduce
 viability of human Kaposi's sarcoma cells in Italian laboratory studies.
-See [[blesching-cannabis-kaposi-sarcoma]] for detailed coverage.
-
-### Herpes and Cancer
-
-THC has demonstrated the ability to interfere with replication of the
-herpes virus even in instances related to the genesis of cancer,
-suggesting a potential role for cannabinoids in preventing virus-induced
-malignant transformations. See [[blesching-cannabis-herpes-hsv]] for
+See [[blesching-cannabis-herpes-hsv]] for
 detailed coverage.
 
 ## Cannabis and Bacterial-Induced Cancers
@@ -128,23 +114,13 @@ mutated cells before they develop into cancer is diminished.
 Cannabis, through its interactions with the endocannabinoid system's CB1
 and CB2 receptors, plays a role in immune modulation that may help
 maintain the body's natural cancer surveillance and defense mechanisms.
-
 ## Related
-
-- [[agent-orange]] Topics
 
 - [[blesching-cannabis-hepatitis]] - Hepatitis B/C and liver cancer
   prevention
-- [[blesching-cannabis-cervical-cancer]] - HPV-related cancer research
 - [[blesching-cannabis-kaposi-sarcoma]] - HHV-8 and Kaposi's sarcoma
-- [[blesching-cannabis-liver-cancer]] - Liver cancer comprehensive
-  coverage
 - [[blesching-cannabis-cancer-symptoms]] - General cancer symptom management
-- [[blesching-cannabis-immune-system-modulation]] - Immune function and
-  cancer surveillance
 - [[blesching-cannabis-viral-infections]] - Antiviral properties of
   cannabinoids
-- [[blesching-cannabis-bacterial-infections]] - Antibacterial properties
-  relevant to cancer prevention
 - [[blesching-cannabinoid-pharmacology]] - Mechanisms of cannabinoid
   action against cancer cells

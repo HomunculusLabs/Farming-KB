@@ -76,25 +76,15 @@ Fruiting occurs in late summer to autumn, typically from August through November
 
 ## Chemistry
 
-psilocybe natmansii contains [[psilocybin-compound]] and [[psilocin]] as its primary psychoactive compounds. Due to the rarity of collections, quantitative analytical data is limited. Available reports suggest moderate tryptamine alkaloid levels, generally lower than those of [[psilocybe-semilanceata]] but comparable to other grassland Psilocybe species.
-
-Baeocystin and norbaeocystin have been detected as minor constituents. The alkaloid content is subject to the same environmental variables that affect other Psilocybe species, including substrate nitrogen availability, moisture levels, and temperature during fruiting. Studies of European Psilocybe populations have documented significant inter-population variation in alkaloid profiles.
-
-## Similar Species
-
-psilocybe natmansii is morphologically similar to several other small grassland Psilocybe species, making field identification challenging:
-
-- **[[psilocybe-semilanceata]]** — More common and widespread; typically has a more pronounced and persistent papilla, a more viscid pellicle, and prefers richer pastures
-- **[[psilocybe-liniformans]]** — Has a distinctive gelatinous thread-like partial veil connecting the cap margin to the stipe; slightly different spore morphology
+psilocybe natmansii contains [[psilocin]] as its primary psychoactive compounds. Due to the rarity of collections, quantitative analytical data is limited. Available reports suggest moderate tryptamine alkaloid levels, generally lower than those of [[psilocybe-semilanceata]]** — More common and widespread; typically has a more pronounced and persistent papilla, a more viscid pellicle, and prefers richer pastures
 - **[[psilocybe-hispanica]]** — Restricted to the Iberian Peninsula; macroscopically very similar but distinct genetically and microscopically
-- **[[psilocybe-serbica]]** — Found in southeastern Europe; associated with woody debris rather than open grassland
 - **[[psilocybe-montana]]** — Generally considered non-psychoactive or very weakly active; does not bruise blue
 
 Accurate identification requires microscopic examination of spore morphology and cystidia, as well as knowledge of the geographic context. DNA barcoding using the ITS region provides definitive identification and has been used to confirm collections.
 
 ## Historical Context and Discovery
 
-psilocybe natmansii was first identified as a distinct taxon during systematic surveys of European psilocybin mushrooms conducted by Dutch mycologists in the late 20th century. These surveys, which also documented species such as [[psilocybe-liniformans]] and [[psilocybe-hispanica]], helped establish the diversity of psilocybin-containing species in European grasslands. The species has been confirmed by DNA barcoding in modern collections, validating its status as a genuine taxon rather than a morphological variant of more common species.
+psilocybe natmansii was first identified as a distinct taxon during systematic surveys of European psilocybin mushrooms conducted by Dutch mycologists in the late 20th century. These surveys, which also documented species such as [[psilocybe-hispanica]], helped establish the diversity of psilocybin-containing species in European grasslands. The species has been confirmed by DNA barcoding in modern collections, validating its status as a genuine taxon rather than a morphological variant of more common species.
 
 ## Life Cycle and Seasonality
 
@@ -104,18 +94,8 @@ The species typically fruits in scattered individuals or small groups rather tha
 
 ## Toxicology and Safety
 
-psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocybin-compound]] and [[psilocin]]. As with all wild mushrooms, accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[galerina-marginata]], which contains deadly amatoxins, though the two species have distinctly different spore colors and microscopic features.
-
-## Conservation Status
-
-psilocybe natmansii is considered rare throughout its known range. Habitat loss through agricultural intensification, grassland conversion to arable land, urbanization, and the use of chemical fertilizers and herbicides threatens remaining populations. The decline of traditional grazing practices has also reduced the availability of suitable habitat.
-
-Its conservation status has not been formally assessed by the IUCN, but it is considered potentially threatened in several European countries. The species' reliance on semi-natural grassland habitats makes it particularly vulnerable to modern agricultural practices. European grassland fungi in general have experienced significant declines due to habitat homogenization and the loss of traditional land management practices.
-
-## Psychoactive Effects
-
-The psychoactive effects of psilocybe natmansii are consistent with those of other psilocybin-containing mushrooms, though the lower alkaloid content relative to species like [[psilocybe-semilanceata]] may require larger doses for comparable effects. Typical effects include alterations in visual perception, changes in the perception of time and space, enhanced emotional sensitivity, and philosophical or spiritual insights. The onset of effects occurs 20 to 60 minutes after ingestion, with peak effects at 2 to 3 hours and a total duration of 4 to 6 hours.
+psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocin]]. As with all wild mushrooms, accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[psilocybe-semilanceata]] may require larger doses for comparable effects. Typical effects include alterations in visual perception, changes in the perception of time and space, enhanced emotional sensitivity, and philosophical or spiritual insights. The onset of effects occurs 20 to 60 minutes after ingestion, with peak effects at 2 to 3 hours and a total duration of 4 to 6 hours.
 
 ## Legal Status
 
-As a psilocybin-containing species, psilocybe natmansii is controlled in most jurisdictions. In the Netherlands, the sale of fresh psilocybin mushrooms was prohibited following legislation in 2008, though the legal status of naturally occurring specimens found in the wild remains ambiguous in some European countries. Under the UN Convention on Psychotropic Substances of 1971, [[psilocybin-compound]] and [[psilocin]] are Schedule I substances.
+As a psilocybin-containing species, psilocybe natmansii is controlled in most jurisdictions. In the Netherlands, the sale of fresh psilocybin mushrooms was prohibited following legislation in 2008, though the legal status of naturally occurring specimens found in the wild remains ambiguous in some European countries. Under the UN Convention on Psychotropic Substances of 1971, [[psilocin]] are Schedule I substances.

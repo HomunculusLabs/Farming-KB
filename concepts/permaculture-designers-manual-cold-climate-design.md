@@ -3,7 +3,7 @@ title: Cold Climate Design Strategies
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, climate, season-extension, earth-building]
+tags: [[permaculture, climate, season-extension, earth-building]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 
@@ -106,11 +106,7 @@ Chicken-heated greenhouses for short-season mountain areas use body heat from po
 
 ## Related Topics
 
-- [[permaculture-designers-manual-cold-climates]] - Cold climate overview
 - [[cold-climate-permaculture-guide]] - Cold climate guide
-- [[cold-climate-gardening]] - Cold climate gardening
 - [[permaculture-designers-manual-frost-protection]] - Frost protection methods
-- [[permaculture-designers-manual-greenhouse-design]] - Greenhouse design
 - [[permaculture-designers-manual-settlement-design]] - Settlement design
-- [[permaculture-designers-manual-temperate-climate-design]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]

@@ -10,11 +10,7 @@ type: query
 
 # How to Use Aquaponics to Grow Herbs and Vegetables
 
-Aquaponics combines aquaculture (raising fish) with hydroponics (growing plants in water) into a single recirculating system. Fish waste provides organic nutrients [[query-how-to-make-lactobacillus-serum-for-plants]], and plants filter the water for fish. It is a closed-loop ecosystem that uses roughly 90% less water than traditional soil gardening and eliminates the need for [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. For a broader introduction, see [[aquaponics-guide]].
-
-## How Does an Aquaponics System Work?
-
-The core cycle is straightforward. Fish are fed and produce ammonia-rich waste. Beneficial bacteria in the biofilter convert ammonia first into nitrite and then into nitrate through a process called nitrification. Plants absorb these nitrates through their roots [[query-how-to-use-kelp-meal-as-fertilizer]], and the cleaned water returns to the fish tank. The three living components, fish, bacteria, and plants, depend on each other in a symbiotic loop.
+Aquaponics combines aquaculture (raising fish) with hydroponics (growing plants in water) into a single recirculating system. Fish waste provides organic nutrients [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. For a broader introduction, see [[query-how-to-use-kelp-meal-as-fertilizer]], and the cleaned water returns to the fish tank. The three living components, fish, bacteria, and plants, depend on each other in a symbiotic loop.
 
 There is no soil involved. Plants grow in a grow bed filled with a media such as expanded clay pebbles (hydroton), gravel, or river rock. Water from the fish tank is pumped into the grow bed, where bacteria colonize the media surface and plant roots take up nutrients.
 
@@ -23,8 +19,6 @@ There is no soil involved. Plants grow in a grow bed filled with a media such as
 Several aquaponics configurations work well for herbs and vegetables, each with trade-offs in complexity, cost, and space.
 
 **Media Bed (Flood and Drain):** The most beginner-friendly design. A bell siphon alternately floods and drains the grow bed. This provides excellent oxygenation for plant roots and supports a large bacterial colony. Best for mixed greens, herbs, and fruiting vegetables.
-
-**[[deep-water-culture]] (DWC):** Plants float on rafts with roots submerged directly in nutrient-rich water. High productivity for leafy greens and fast-growing herbs. Requires separate mechanical filtration and a well-established biofilter.
 
 **[[nutrient-film-technique]] (NFT):** A thin film of water flows through narrow channels where plant roots dangle. Commonly used in commercial herb production. Lower water volume means less buffering against system shocks.
 
@@ -85,7 +79,7 @@ Test water at least twice weekly during the first three months. Once the system 
 
 Feed fish a high-quality pellet formulated for their species. A general rule is to feed what fish will consume in five minutes, two to three times daily. Uneaten food decomposes and fouls water. For a 100-gallon tilapia system, expect to feed roughly 1 to 2 ounces of pellets per day once fish reach fingerling size.
 
-Aquaponics systems can occasionally develop deficiencies in certain micronutrients, particularly iron, potassium, [[jadam-nutrient-management-wetting-agent-and-calcium]]. Symptoms include yellowing new growth (iron), brown leaf edges (potassium), and blossom end rot [[stamets-cultivator-light-spectrum-effects-on-fruiting]] plants (calcium). Supplement with chelated iron (DTPA), potassium hydroxide, or calcium carbonate as needed. Seaweed extracts added in small amounts can address multiple trace mineral gaps.
+Aquaponics systems can occasionally develop deficiencies in certain micronutrients, particularly iron, potassium, [[stamets-cultivator-light-spectrum-effects-on-fruiting]] plants (calcium). Supplement with chelated iron (DTPA), potassium hydroxide, or calcium carbonate as needed. Seaweed extracts added in small amounts can address multiple trace mineral gaps.
 
 ## Common Problems and Solutions
 

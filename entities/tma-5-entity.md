@@ -76,27 +76,19 @@ properties. The synthesis of 2,3,6-TMPEA proceeds from the same intermediate
 
 Among the six trimethoxyamphetamine isomers, TMA-5 (2,3,6-) occupies an
 intermediate position. The limited data suggest it may have moderate activity,
-somewhere between the complete inactivity of [[tma-3-entity]] and the high
-potency of [[tma-2-entity]]. However, without systematic dose-response studies,
+somewhere between the complete inactivity of [[tma-2-entity]]. However, without systematic dose-response studies,
 any conclusions about its relative potency remain speculative.
 
 The 2,3,6-trimethoxy pattern is of interest because it places two adjacent
 methoxy groups (2,3-) together with a meta-positioned third group (6-), a
 pattern not commonly found in naturally occurring compounds. This may explain
-why TMA-5 does not correspond to a known essential oil, unlike [[tma-entity]]
-(elemicin) and [[tma-2-entity]] (asarone).
+why TMA-5 does not correspond to a known essential oil, unlike [[tma-2-entity]] (asarone).
 
 ## Related Compounds
 
-- [[tma-entity]] -- 3,4,5-trimethoxyamphetamine
-
 - [[tma-2-entity]] -- 2,4,5-trimethoxyamphetamine
 
-- [[tma-3-entity]] -- 2,3,4-trimethoxyamphetamine (inactive)
-
 - [[tma-4-entity]] -- 2,3,5-trimethoxyamphetamine
-
-- [[tma-6-entity]] -- 2,4,6-trimethoxyamphetamine
 
 - [[mescaline-entity]] -- 3,4,5-trimethoxyphenethylamine
 

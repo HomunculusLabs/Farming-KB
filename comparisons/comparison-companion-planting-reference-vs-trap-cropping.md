@@ -21,35 +21,6 @@ synthetic chemicals but operate at different scales and with different
 mechanisms of action.
 
 ## Companion Planting
-[[companion-planting-reference]]
-
-Companion planting is the practice of placing plants near each other to
-create mutually beneficial relationships. The mechanisms include pest
-repulsion (basil repels tomato hornworms), nutrient sharing (beans fix
-nitrogen for corn and squash in the Three Sisters), physical support (corn
-provides a trellis for beans), attractants for beneficial insects (yarrow
-attracts predatory wasps), and spatial optimization (undersowing with clover
-provides living mulch and nitrogen fixation simultaneously).
-
-Classic combinations are well-documented: basil and tomato, marigolds and
-brassicas, chives and roses, dill and cucumbers. The companion planting
-reference covers pest-repelling partnerships (garlic repels aphids and
-cabbage loopers near roses and brassicas), incompatible pairings (beans and
-onions stunt each other, tomatoes and fennel are antagonistic), and trap crop
-relationships (nasturtiums attract aphids away from tomatoes). Some
-combinations also improve flavor or growth through mechanisms not fully
-understood by science but validated by generations of gardeners.
-
-Companion planting works through multiple mechanisms simultaneously: volatile
-compounds that mask crop scents from pests, physical barriers that deter
-insect approach, microclimate modification that benefits neighboring plants,
-and nutrient cycling through root exudate sharing. The approach requires
-understanding plant families and their interactions, since mistakes (planting
-beans near onions, or tomatoes near fennel) can actively harm crop
-performance. Companion planting is most effective as part of a diverse garden
-ecosystem rather than isolated pairings.
-
-## Trap Cropping
 [[trap-cropping]]
 
 Trap cropping is the practice of growing a sacrificial crop that attracts
@@ -115,8 +86,6 @@ crop (attracting aphids). This dual function is common in well-designed
 gardens where many plants serve multiple roles simultaneously.
 
 ## See Also
-- [[comparison-companion-planting-vs-polyculture]]
 - [[comparison-companion-planting-vs-intercropping]]
-- [[comparison-insectary-plants-vs-trap-crops]]
 - [[comparison-trap-cropping-vs-companion-planting]]
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]

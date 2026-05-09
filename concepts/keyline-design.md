@@ -16,7 +16,7 @@ Keyline design is a landscape management system developed by Australian farmer P
 
 Percival Alfred Yeomans (1904-1984) developed the Keyline System while managing "Nevallan" and "Yobarnie," two properties in New South Wales, Australia. Facing severe drought and erosion on degraded land, Yeomans observed that conventional contour plowing concentrated water in valleys, causing erosion and leaving ridges parched. His insight was to cultivate parallel to the "keyline" — a specific contour line that naturally redistributes water from wet areas to dry areas.
 
-Yeomans outlined his system in several books, most notably "Water for Every Farm" (1954). The system integrates water management, soil development, tree planting, and pasture improvement into a unified landscape approach. It remains one of the most influential frameworks in [[permaculture-design]] design and regenerative agriculture.
+Yeomans outlined his system in several books, most notably "Water for Every Farm" (1954). The system integrates water management, soil development, tree planting, and pasture improvement into a unified landscape approach. It remains one of the most influential frameworks in [[permaculture-design-methods]] design and regenerative agriculture.
 
 ## Understanding Keylines
 
@@ -65,7 +65,7 @@ Keyline cultivation is done with a chisel plow or subsoiler (Yeomans' original "
 - Subsequent passes can go deeper (up to 12-16 inches) as soil structure improves
 - The shanks fracture compacted subsoil, improving root penetration and water infiltration
 - Ground cover should always be maintained — never cultivate bare soil
-- See [[composting-and-soil-biology]] for minimizing soil disturbance
+- See [[no-till-gardening-method]] for minimizing soil disturbance
 
 ## Water Distribution Systems
 
@@ -114,7 +114,7 @@ Keyline-cultivated pastures recover faster and support higher stocking densities
 
 ### Keyline + No-Till
 
-After initial keyline cultivation to break compaction and establish water distribution patterns, the land can transition to [[composting-and-soil-biology]]. Keyline cultivation is a one-time or infrequent intervention, not an annual practice.
+After initial keyline cultivation to break compaction and establish water distribution patterns, the land can transition to [[no-till-gardening-method]]. Keyline cultivation is a one-time or infrequent intervention, not an annual practice.
 
 ## Application Scale
 
@@ -137,5 +137,5 @@ Keyline design works at multiple scales:
 - [[swale-design-construction]] for detailed swale building
 - [[earthworks-for-water-management]] for comprehensive water management
 - [[rainwater-harvesting-systems]] for collection and storage
-- [[permaculture-design]] for broader design framework
+- [[permaculture-design-methods]] for broader design framework
 - erosion for erosion control context

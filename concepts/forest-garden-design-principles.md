@@ -80,18 +80,7 @@ In the establishment phase, when working to restore abused land and heal broken 
 
 ## See Also
 
-- [[forest-garden-layers]]
 - [[forest-garden-seven-layers]]
-- [[permaculture-guild-design-method]]
 - [[faires-forest-garden-design]]
-- [[sheet-mulching]]
 - [[guild-design-methodology]]
-- [[backyard-livestock-integration-design]]
-
-## Sources
-
-- Hemenway, T. Gaia's Garden: A Guide to Home-Scale Permaculture, Chapters 9-10
-- Jacke, D. and Toensmeier, E. Edible Forest Gardens (Volumes 1 and 2)
-- Mollison, B. Permaculture: A Designer's Manual
-- Drake, J. and Pimm, S. Community assembly research
 - [[habitat-nooks-for-garden-wildlife]]

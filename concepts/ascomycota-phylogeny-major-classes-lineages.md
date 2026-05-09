@@ -16,52 +16,16 @@ type: concept
 
 # Ascomycota Phylogeny - Major Classes and Lineages
 
-The Ascomycota is the largest phylum of Kingdom [[fungal-phylogeny-kingdom-classification|Fungi]], with
-approximately 32,000 described species. It is characterized by the
-production of meiospores (ascospores) within sac-shaped cells
-(asci) and includes many of the most ecologically and economically
-important fungi. Molecular phylogenetic studies have dramatically
-restructured our understanding of relationships within this
-immensely diverse group, revealing widespread convergent evolution
-and non-monophyletic traditional taxa.
-
-## Three Recognized Classes
-
-Three major groups or classes of Ascomycota are generally
-recognized based on phylogenetic analyses of rDNA sequence data:
-- **Archiascomycetes**: a paraphyletic assemblage of basal taxa
-- **Saccharomycetes**: the true yeasts
-- **Euascomycetes**: the largest class, including most filamentous,
-  sporocarp-producing taxa and their diverse asexual relatives
-
-## Archiascomycetes (Basal Lineages)
-
-The Archiascomycetes includes yeastlike, filamentous, and possibly
-sporocarp-producing species. The largest order is Taphrinales,
-with approximately 100 species of plant-pathogenic fungi that lack
-both sporocarps and ascogenous hyphae. [[taphrinales-gall-forming-biotrophic-ascomycetes|Taphrinales]] are dimorphic,
+The Ascomycota is the largest phylum of Kingdom [[taphrinales-gall-forming-biotrophic-ascomycetes|Taphrinales]] are dimorphic,
 having a saprobic yeast phase and a filamentous pathogenic phase,
-a trait shared with certain [[basidiomycota-classification-major-clades]]
-such as rusts.
-
-Other notable members include:
-- **Pneumocystis jiroveci**: causal agent of pneumocystis
-  pneumonia, an [[keratinophilic-fungi|opportunistic pathogen]] of immunocompromised
+a trait shared with certain [[keratinophilic-fungi|opportunistic pathogen]] of immunocompromised
   patients
 - **Schizosaccharomyces** (fission yeasts): important model
   organisms in cell biology
 - **Saitoella complicata**: an asexual soil-dwelling yeast
 - **Neolecta**: an ascoma-producing genus that produces stipitate,
   tonguelike sporocarps with asci in a hymenial layer lacking
-  sterile cells (paraphyses), belonging to the [[fungal-phylogeny-systematics|fungal phylogenetic]] tree's basal branches
-
-The Archiascomycetes is probably not monophyletic but encompasses
-a series of basal lineages. Studies involving multiple independent
-loci are needed to test the validity of the grouping.
-
-## Saccharomycetes (True Yeasts)
-
-[[yeast-biology-guide|Yeast biology]] encompasses the remarkable diversity of the Saccharomycetes. Most fungi considered "true yeasts" are members of the
+  sterile cells (paraphyses), belonging to the [[yeast-biology-guide|Yeast biology]] encompasses the remarkable diversity of the Saccharomycetes. Most fungi considered "true yeasts" are members of the
 Saccharomycetes. They are found in virtually all environments and
 occupy a paramount position in food production (Saccharomyces
 cerevisiae), associate with mammals as pathogens (Candida
@@ -79,45 +43,18 @@ display filamentous growth or produce ascophores.
 The Euascomycetes is the largest class of Ascomycota and arguably
 the most successful group of fungi, including parasites, pathogens,
 and mutualists of plants, algae, and animals, as well as saprobes
-able to decompose virtually all known organic substrata. The [[soil-food-web|soil food web]]
-depends heavily on ascomycete decomposers for nutrient cycling. The [[fungal-decomposition|fungal decomposition]] pathways used by these saprobes are critical to global carbon cycling, alongside [[actinomycetes-soil-biology|actinomycetes]] and other groups.
-
-### Apothecial Lineages
-
-The primitive sporocarp morphology of the Euascomycetes appears
-to be the apothecium, characterized by an exposed fertile layer
-of asci. The most basal lineage of apothecial fungi includes the
-[[pezizales-discomycete-ascomycete-diversity]], with
+able to decompose virtually all known organic substrata. The [[fungal-decomposition|fungal decomposition]] pathways used by these saprobes are critical to global carbon cycling, alongside [[pezizales-discomycete-ascomycete-diversity]], with
 macroscopic forest species such as Morchella, Gyromitra, and
 Helvella.
 
 The other major group of apothecial ascomycetes includes the
 lichenized species of Lecanorales sensu lato (more than 7000
-species). These [[mycorrhizal-fungi|lichen-fungal symbioses]] are among the oldest and most widespread mutualisms on Earth. In rDNA analyses, two main groups of lichenized
-ascomycetes are resolved: one containing apothecial Lecanorales
-s.l., and another comprising the Arthoniales, possibly more
-closely related to Pleosporales and pyrenomycetes.
-
-### Perithecial Lineages
-
-Perithecial ascomycetes (pyrenomycetes) include numerous
-important groups. Their asci are contained within flask-shaped
-fruiting bodies (perithecia). Major orders include Sordariales,
-Xylariales, Diaporthales, and Hypocreales, though these
-traditional groupings are not all supported by molecular data.
-
-### Plectomycetes
-
-The plectomycete clade includes the Eurotiales and Onygenales,
-which contain many medically and industrially important fungi.
-The Eurotiales includes Penicillium and Aspergillus, genera central to both industrial fermentation and antibiotic discovery, while the
-Onygenales contains [[keratinophilic-fungi]]
-and systemic pathogens. [[bloomfield-aspergillus-biology-and-aflatoxins|Aspergillus biology]] and [[human-fungal-pathogens|fungal pathogenicity]] are active research areas within this group.
+species). These [[keratinophilic-fungi]]
+and systemic pathogens. [[human-fungal-pathogens|fungal pathogenicity]] are active research areas within this group.
 
 ## Convergent Evolution
 
-[[fungal-taxonomy|Molecular phylogenetics]] has shown that traditional morphological
-classifications are not natural. The [[fungal-diversity-and-mushroom-categories|diversity of fungi]] revealed by
+[[fungal-diversity-and-mushroom-categories|diversity of fungi]] revealed by
 modern methods continues to challenge traditional groupings. Morphological traits of ascomata
 have been repeatedly lost and gained during the evolutionary
 history of the group. Convergent evolution in ascus morphology
@@ -139,12 +76,8 @@ the goal of accurately reflecting monophyletic clades. The names
 used in current literature represent a composite of formal and
 informal designators. Resolution will require analyses of
 multiple independent loci.
-
 ## See Also
 
-- [[fungal-phylogeny-kingdom-classification]]
 - [[fungal-phylogeny-systematics]]
-- [[basidiomycota-classification-major-clades]]
 - [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
-- [[zygomycota-phylogeny-classification-non-monophyletic]]
 - [[ascomycete-phylum-guide]]

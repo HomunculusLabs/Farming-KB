@@ -117,8 +117,6 @@ Spraying the orchard floor and downed leaves in the fall is particularly importa
 
 ## Related Concepts
 
-- [[aact-disease-suppression-recipes|Disease suppression recipes]]
 - [[aact-fungal-dominant-tea|Fungal dominant compost tea]]
-- [[aact-applications-guide-ingham|AACT application guide]]
 - [[ingham-foliar-compost-tea-application|Foliar compost tea application]]
 - [[aact-compost-organism-levels|Compost organism levels for tea]]

@@ -118,22 +118,7 @@ Several mushroom genera are recognized for their enzyme production:
   systems capable of biodegrading nearly all types of waste.
 - **Fomes fomentarius**: Demonstrates activity against E. coli
   and other bacterial pathogens when stimulated.
-- **Shiitake ([[lentinula-edodes]])**: Laccase production increases
-  when exposed to heavy metals and dye-enriched effluents.
-
-## Primordial Hormone Extraction
-
-Mushrooms produce hormones concentrated in primordia that
-orchestrate fruiting cycles. These can be harvested as extracts
-to induce fruiting in cultivated biomass. Harvest primordia,
-surface-sterilize in ethanol, blend with water, vacuum-filter to
-remove particulates, centrifuge at 10,000 xg for five minutes,
-and collect the supernatant through a sterile syringe filter.
-
-## See Also
-
-- [[tabletop-mycofiltration-unit-construction]]
-- [[fungal-filter-barnyard-waste-remediation]]
+- **Shiitake ([[tabletop-mycofiltration-unit-construction]]
 - [[mycorrhizal-carbon-phosphorus-exchange]]
 - laccase and ligninolytic enzymes
 - [[fungal-biology-fundamentals]]

@@ -14,7 +14,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 ## Trees and Shrubs with Low Fire Potential
 
 ### Acacias
-- [[acacia]] baileyana* (Cootamundra Wattle)
+- Acacia baileyana* (Cootamundra Wattle)
 - Acacia cyanophylla (Western Wattle)
 - Acacia cyclops (Coastal Wattle)
 - Acacia howittii (Sticky Wattle)
@@ -50,7 +50,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 
 ### Fruit and Nut Trees
 - Carya illinoensis (Pecan)
-- [[ceratonia-siliqua]] (Carob) -- recovers
+- Ceratonia siliqua (Carob) -- recovers
 - Castanea sativa (Sweet Chestnut)
 - Fortunella japonica (Round Kumquat) -- recovers
 - Juglans regia (Persian Walnut)
@@ -59,7 +59,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Ginkgo biloba
 
 ### Other Notable Trees
-- [[robinia-pseudoacacia]] (Black Locust)
+- Robinia pseudoacacia (Black Locust)
 - Salix spp. (Willows)
 - Populus alba (White Poplar) -- recovers
 - Platanus acerifolia (London Plane)
@@ -93,6 +93,6 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 
 ## Related
 
-- [[permaculture-design]]
-- [[organic-vegetable-growing-and-market-gardening]]
+- [[permaculture-plant-selection-guide]]
+- [[difficult-site-planting]]
 - [[bee-forage-plant-system]]

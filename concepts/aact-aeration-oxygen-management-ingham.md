@@ -115,11 +115,10 @@ Results:
 
 This test is useful for calibrating your relationship between oxygen readings and smell — over time you learn to recognize the threshold.
 
-See also: [[aact-definitions-and-types-ingham]], [[aact-brewing-ingredients-ingham]], [[compost-tea-aact]], [[aact-troubleshooting-ingham]]
+See also: [[aact-brewing-ingredients-ingham]], [[aact-troubleshooting-ingham]]
 
 ## Related
 
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
-- [[ingham-fungal-inoculum-sourcing]]
 - [[ingham-weed-control-through-biology]]
 - [[fukuoka-weed-diversity-soil-nutrients]]

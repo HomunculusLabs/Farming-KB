@@ -1,7 +1,7 @@
 ---
 title: "Oss & Oeric: History and Impact of an Underground Classic"
 created: 2026-04-28
-tags: [mycology, cultivation-history, underground-literature, oss-oeric]
+tags: [[mycology, cultivation-history, underground-literature, oss-oeric]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
@@ -115,9 +115,6 @@ firmly within the commercial underground publishing world.
 
 ## Related Topics
 
-- [[oss-oeric-rice-cake-tek-methodology]] for cultivation methods
 - [[oss-oeric-growing-parameters-cubensis]] for species biology
-- [[oss-oeric-legal-disclaimer-and-context]] for legal framing
 - [[field-guide-psilocybin-mushroom-species-identification]]
-- [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
 - [[gartz-tryptamine-supplemented-cubensis-cultivation]]

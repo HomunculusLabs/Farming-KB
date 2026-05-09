@@ -8,46 +8,13 @@ type: concept
 tags: [culture, permaculture, plants, tree-crop]
 ---
 
-# [[permaculture]] Nitrogen-Fixing Legume Trees: [[acacia]], [[carob]], Locust, and [[tagasaste]]
+# [[acacia]], [[tagasaste]]
 
 Beyond the general nitrogen-fixing pioneer species, several specific legume trees deserve detailed attention for their exceptional contributions to permaculture systems. These species provide stock feed, human food, timber, bee forage, and soil improvement simultaneously. This page covers the most important genera and species: Acacia (wattles), Carob, Black Locust, Honey Locust, Tagasaste, Leucaena, and Albizia.
 
-## Tagasaste ([[chamaecytisus-palmensis]])
+## Tagasaste ([[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
-Family: FABACEAE/PAPILIONACEAE
-
-Tagasaste or tree lucerne is a nitrogen-fixing legume native to the Canary Islands and one of the most useful pioneer species. It is generally fairly short-lived, although regular cutting or browsing can considerably extend its life expectancy. It is a naturalised coloniser of Australian wastelands capable of surviving on a wide range of soils. In Western Australia 50,000 ha of mostly marginal farmland has been planted to tagasaste (by 1996). It is estimated that 1.5 million ha of Australian farms could benefit from tagasaste.
-
-It grows to a height of up to 7 m and is capable of productive growth in areas of low rainfall (300 mm). Drought tolerance is improved if phosphorous is readily available. The nitrogen-fixing bacteria does not generally need introduction as it is usually present in the soil from other species including Acacia spp, Albizia spp, Cassia spp.
-
-Tagasaste is a fast-growing, highly productive stock feed with high nutrition levels, low toxicity and a high degree of palatability.
-
-### Nutritional Comparison with Common Stock Feeds (% dry matter)
-
-| Constituent | Tagasaste | Lucerne | Rye Grass | Wheat Grain | Field Pea |
-|---|---|---|---|---|---|
-| Crude Protein | 17-31 | 21 | 16 | 11 | 26 |
-| Carbohydrate | 38-58 | 40 | 46 | 82 | 63 |
-| Crude Fat | 2-6 | 3 | 4 | 2 | 1 |
-| Crude Fibre | 14-30 | 26 | 24 | 3 | 7 |
-| Calcium | 0.48-1.62 | 2.2 | 1.0 | 0.04 | 0.24 |
-| Phosphorous | 0.12-0.41 | 0.33 | 0.26 | 0.24 | 0.24 |
-
-### Management
-
-To maximise stock feed potential, trees should be trimmed at a very early age so they tend to bush rather than become erect trees. This keeps the habit low so that stock can reach the foliage and ring-barking is virtually impossible. Ideally these trees are arranged into lock-up fodder systems to allow trees time to recover from grazing. Well-fenced hedge rows can be constantly grazed.
-
-At Martindale Research Project (Western Australia), on near-useless sandy soils capable of yielding only 700 kg of wheat, tagasaste yielded the feed equivalent of 1100 kg of wheat. Ewes on tagasaste over summer/autumn grew 30% more wool. One farmer claimed tagasaste can lift profit from $6/ha to $30/ha.
-
-### [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-Tagasaste is listed as a companion to nearly all fruit and nut trees: almond, apple, apricot, avocado, capulin cherry, cherry, citrus, carob, fig, jujube, lichee, [[macadamia]], mango, mulberry, olive, peach, plum, and walnut.
-
-## Wattles (Acacia spp)
-
-Family: MIMOSACEAE
-
-A large genus with species native primarily to Australia, occurring in virtually all climatic conditions. The seed is generally a traditional food of Australian Aboriginal people. Many species produce timber, fodder, tannin, gum, and are critical [[nurse-plants]] in revegetation.
+Tagasaste is listed as a companion to nearly all fruit and nut trees: almond, apple, apricot, avocado, capulin cherry, cherry, citrus, carob, fig, jujube, lichee, [[nurse-plants]] in revegetation.
 
 Key species covered in the source:
 
@@ -69,20 +36,7 @@ A moderately fast-growing, tall (to 30 m), spreading, deciduous tree native to t
 ### Albizia lophantha (Crested Wattle)
 A small, fast-growing, nitrogen-fixing, semi-deciduous tree or sprawling shrub (4-15 m). Short-lived, killed by fire. Native to coastal areas of south-western Western Australia, now naturalised in warm temperate and subtropical zones. Fast growth makes it excellent for rehabilitation of sand dunes and soil stabilisation, and for shelterbelts. Cattle browse the leaves. Roots have 10% saponin content, used in silk and wood factories. Propagation by scarified seed.
 
-## Black Locust ([[robinia-pseudoacacia]])
-
-Family: FABACEAE/PAPILIONACEAE
-
-A fast-growing, nitrogen-fixing legume to 25 m, living up to 200 years. Native to the Appalachian and Ozark mountains of the United States.
-
-- **Fodder**: Foliage readily eaten by livestock; seed suitable as poultry feed
-- **Bee forage**: Source of nectar producing honey regarded as one of the finest in the world. Estimated 1600 kg/ha nectar yield in Romania. Flowers spring to summer.
-- **Timber**: Hard, heavy, durable, strong, very rot-resistant. Used for mine timbers, fence posts, railway sleepers, stakes, and electrical insulator pegs.
-- **Firewood**: Very good, slow to ignite but burns like coal. Well suited to charcoal production.
-- **Erosion control**: Commonly planted for erosion control, shelterbelts, and wildlife habitat. Coppices well.
-- **Caution**: Can be a pest because of suckering habit and thorns. Should be confined by livestock. Non-suckering cultivars are available.
-
-## Honey Locust ([[gleditsia-triacanthos]])
+## Black Locust ([[gleditsia-triacanthos]])
 
 Family: CAESALPINIACEAE
 

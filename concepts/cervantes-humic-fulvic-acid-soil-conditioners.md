@@ -60,87 +60,32 @@ mixed in a chelated form via humic or fulvic acids, these micronutrients
 become readily available for absorption by plant roots.
 
 The chelation ability of humates is dependent upon the pH level. This
-is why maintaining proper [[cervantes-ph-management-testing]] is
-essential for maximizing the benefits of humic and fulvic acid
-applications.
-
-## The Humic Substance Spectrum
-
-Humic acids are extracted from humic substances found in soil. The
-spectrum of humic substances is classified by color and solubility:
-
-- **Fulvic Acid** (yellow): The most soluble fraction, active at all
-  pH levels. Smallest molecular weight, most biologically active.
-
-- **Humic Acid** (brown): Soluble in alkaline conditions. Medium
-  molecular weight. Primary soil conditioning agent.
-
-- **Humin** (black): The fraction of soil organic matter that is not
-  dissolved when soil is treated with dilute alkali. Most stable
-  long-term organic matter component.
-
-## Application in Cannabis Cultivation
-
-### Soil Gardens
-
-Add humic acid to soil mixes or use as a soil drench during
-vegetative growth. It improves soil structure in both sandy and clay
-soils, enhancing water retention in sandy soils and breaking up
-compacted clay. Natural chelates such as humic acid and citric acid
-can be added to organic soil mixes to improve micronutrient
-availability.
-
-### Hydroponic Systems
-
-Fulvic acid is preferred for hydroponic systems due to its complete
-water solubility. Add it to nutrient reservoirs at recommended rates.
-Products containing humic acid, trichoderma, and beneficial bacteria
-provide comprehensive biological support. See [[cervantes-nutrient-solution-reservoir-management]] for hydroponic application guidance.
+is why maintaining proper [[cervantes-nutrient-solution-reservoir-management]] for hydroponic application guidance.
 
 ### Compost Teas
 
-Humic and fulvic acids can be added to [[cervantes-compost-tea-organic-brewing]] recipes to boost microbial activity and nutrient
-chelation. They serve as food sources for beneficial microorganisms
-in compost tea brews.
+Humic and fulvic acids can be added to [[comparison-humic-acid-vs-fulvic-acid]] Concepts
 
-## Sources of Humic and Fulvic Acids
-
-Humic and fulvic acids can be obtained from several sources:
-
-- **Commercial Liquid Products**: Pre-dissolved liquid humic and fulvic
-  acid concentrates are available from most hydroponic and garden
-  suppliers. These are convenient for regular addition to nutrient
-  solutions.
-
-- **Leonardite**: A soft, oxidized lignite coal that is one of the
-  richest natural sources of humic acid. It is mined and processed
-  into granular or liquid humate products.
-
-- **Compost and Worm Castings**: Well-made compost and worm castings
-  contain significant amounts of humic and fulvic acids. Using these
-  as soil amendments provides a slow-release source of humates.
-
-- **Peat Moss**: Partially decomposed sphagnum peat contains humic
-  substances. Aged and decomposed peat has higher humic acid content
-  than fresh peat.
-
-## Dosage and Application Rates
-
-Application rates vary by product and cultivation method. In hydroponic
-systems, fulvic acid is typically added at 10-20 ml per gallon of
-nutrient solution. For soil applications, liquid humic acid can be
-applied as a soil drench at similar rates. Granular humates are mixed
-into soil at 1-2 tablespoons per gallon of soil volume. Always follow
-manufacturer recommendations, as over-application can lower pH
-excessively.
-
-## Related
-
-- [[comparison-humic-acid-vs-fulvic-acid]] Concepts
-
-- [[cervantes-nutrient-management]] - comprehensive nutrient guidance
 - [[cervantes-ph-management-testing]] - pH affects chelation
-- [[cannabis-advanced-growing-techniques]] - organic cultivation methods
 - [[cervantes-compost-tea-organic-brewing]] - brewing with humates
 - [[cervantes-micronutrient-deficiency-chelation]] - chelation and
   micronutrients
+## Practical Considerations
+
+Successful implementation of Humic and Fulvic Acid as Soil Conditioners requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

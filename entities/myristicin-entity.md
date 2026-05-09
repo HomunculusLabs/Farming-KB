@@ -129,11 +129,8 @@ the experience was unpleasant and not worth repeating.
 
 - myristicin entity
 
-- [[cpm-entity-pihkal]]
 - [[4-d-entity-pihkal]]
-- [[5-toet-entity-pihkal]]
 - [[lsd-entity-tihkal]]
-- [[4-ho-mipt-entity-tihkal]]
 - [[mescaline-entity]]
 - Safrole
 - Elemicin

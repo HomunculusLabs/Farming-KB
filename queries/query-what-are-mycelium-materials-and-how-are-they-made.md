@@ -115,13 +115,14 @@ Packaging is already mainstream — IKEA and Dell have shipped products in mycel
 
 ## See Also
 
-- [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
-- [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
-
 - [[comparison-mycelium-materials-vs-bioplastics-pla-pha]]
 
 - [Mycelium Materials and Fungal Biomanufacturing](../topics/mycelium-materials-and-fungal-biomanufacturing.md) — full technical deep-dive
 - [Mycelium Materials vs Synthetic Bioplastics](../comparisons/comparison-mycelium-materials-vs-bioplastics-pla-pha.md) — comparison with PLA and PHA
 - [Mycelium Networks and Fungal Ecology](../topics/mycelium-networks-and-fungal-ecology.md) — the biology behind the materials
 - [Oyster Mushroom Cultivation and Species Guide](../topics/oyster-mushroom-cultivation-and-species-guide.md) — growing the fungi used in materials
+
+## See Also
+
+- [[query-what-are-endophytic-fungi-and-why-do-they-matter]]

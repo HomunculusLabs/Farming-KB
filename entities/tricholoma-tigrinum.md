@@ -22,7 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 - **Genus:** Tricholoma
 - **Species:** T. tigrinum
 
-The specific epithet "tigrinum" refers to the tiger-like (tigrine) pattern on the cap surface, which is a distinctive macroscopic feature of this species. It is related to other medicinally important Tricholoma species including [[tricholoma-matsutake]] and [[tricholoma-mongolicum]].
+The specific epithet "tigrinum" refers to the tiger-like (tigrine) pattern on the cap surface, which is a distinctive macroscopic feature of this species. It is related to other medicinally important Tricholoma species including [[tricholoma-mongolicum]].
 
 ## Morphology
 
@@ -55,8 +55,7 @@ The species is typically found in coniferous or mixed forests, often in associat
 Chemical analysis of T. tigrinum has identified several bioactive constituents:
 
 - **Polysaccharides:** The most significant bioactive fraction consists of water-soluble heteropolysaccharides containing predominantly glucose with smaller amounts of galactose, mannose, and arabinose. The polysaccharides feature beta-(1→3) and beta-(1→6) glucosidic linkages characteristic of immunomodulatory mushroom beta-glucans.
-- **Proteins and glycoproteins:** Protein-bound polysaccharide complexes similar in nature to PSK from [[trametes-versicolor]] have been reported.
-- **Triterpenoids:** Small quantities of triterpenoid compounds have been isolated, though at lower concentrations than in species like [[ganoderma-lucidum]].
+- **Proteins and glycoproteins:** Protein-bound polysaccharide complexes similar in nature to PSK from [[ganoderma-lucidum]].
 - **Ergosterol and ergosterol peroxide:** These sterol compounds, common in basidiomycete fungi, have demonstrated anti-inflammatory and mild cytotoxic activities in vitro.
 - **Phenolic compounds:** Various phenolic acids contribute to the mushroom's antioxidant capacity.
 - **Organic acids:** Malic, fumaric, and other organic acids are present in the fruiting body.
@@ -73,7 +72,7 @@ The polysaccharide fractions of T. tigrinum have been the primary focus of medic
 - Enhancement of NK cell-mediated cytotoxicity against target cells
 - Activation of the complement system
 
-These immunomodulatory effects are mediated through binding of beta-glucans to specific receptors on immune cells, including Dectin-1, complement receptor 3 (CR3), and toll-like receptors (TLRs). This mechanism is shared with other well-characterized mushroom immunomodulators such as [[lentinan]] and [[schizophyllan]].
+These immunomodulatory effects are mediated through binding of beta-glucans to specific receptors on immune cells, including Dectin-1, complement receptor 3 (CR3), and toll-like receptors (TLRs). This mechanism is shared with other well-characterized mushroom immunomodulators such as [[schizophyllan]].
 
 ### Anti-Tumor Effects
 
@@ -136,7 +135,5 @@ T. tigrinum is considered safe for consumption based on traditional use and prel
 
 ## See Also
 
-- [[tricholoma-matsutake]] — the premier medicinal and culinary Tricholoma species
 - [[tricholoma-mongolicum]] — related Central Asian medicinal Tricholoma
-- [[lentinan]] — prototypical mushroom beta-glucan immunomodulator
-- [[trametes-versicolor]] — source of PSK, a protein-bound polysaccharide
+- [[trametes-versicolor-entity]] — source of PSK, a protein-bound polysaccharide

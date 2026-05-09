@@ -103,15 +103,9 @@ The species has been granted Thai Geographical Indication (GI) status in some pr
 
 ## See Also
 
-- [[kaempferia-galanga]]
 - [[zingiber-officinale]]
-- [[boesenbergia-rotunda]]
 - [[curcuma-longa]]
-- [[alpinia-galanga]]
 - [[alpinia-officinarum]]
-- [[elettaria-cardamomum]]
 - [[curcuma-zedoaria]]
-- [[curcuma-caesia]]
 - [[zingiber-cassumunar]]
-- [[zingiber-mioga]]
 - [[zingiber-zerumbet]]

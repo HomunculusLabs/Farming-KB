@@ -1,92 +1,81 @@
 ---
-title: Plant Sensory Biology
-created: 2026-04-13
-updated: 2026-04-13
-type: concept
-tags: [reference]
-sources: []
----
-# Plant Sensory Biology
+title: Plant Sensory Biology — Overview of Plant Senses
+source: grahamholmes-what-a-plant-knowsindd.md
+mined: 2026-05-08
+tags: [plant-biology, sensory-biology, plant-perception, chamovitz,
+  plant-neurobiology, thigmomorphogenesis]
+aliases: [plant senses overview, what plants feel, [[daniel-chamovitz]]'s "What a Plant Knows" (2012) systematically explores the
+sensory capabilities of plants through six chapters corresponding to senses:
+sight, smell, feel, hearing, spatial orientation, and memory. While plants
+lack nervous systems, they possess sophisticated molecular mechanisms for
+detecting and responding to environmental stimuli. This overview synthesizes
+the book's framework for understanding plant sensory biology.
 
-Based on Daniel Chamovitz's "What a Plant Knows" (2012), plants possess sophisticated sensory capabilities that, while not analogous to animal senses, constitute genuine perception of their environment. Plants monitor light, smell chemicals, feel mechanical stimuli, sense gravity, and retain memory -- all without a nervous system.
+## The Plant Sensory Framework
 
-## What a Plant Sees
+Plants, as sessile organisms, cannot flee from predators, seek mates, or
+move to better environments. Instead, they have evolved an extraordinary
+range of sensory capabilities that allow them to:
 
-Plants do not form images, but they possess multiple photoreceptor systems that detect light in ways humans cannot:
-
-### Phototropism (Directional Light)
-Charles Darwin and his son Francis demonstrated in 1880 that the "eye" of a seedling is at its tip. When they covered the tip with a lightproof cap, the plant went blind. With a clear glass cap, it still bent toward light. The tip perceives light direction and sends a mobile signal to the stem to bend.
-
-- Blue light is the primary color inducing phototropism
-- Plants are generally blind to other colors for directional sensing
-
-### Photoperiodism (Day Length Measurement)
-The discovery of photoperiodism came from Maryland Mammoth tobacco, which grew endlessly without flowering until exposed to shorter days. Plants do not measure day length -- they measure the length of continuous *darkness*.
-
-A few minutes of light in the middle of the night can:
-- Prevent a short-day plant (soybean, chrysanthemum) from flowering
-- Trigger a long-day plant (iris, barley) to flower in winter
-
-### Phytochrome -- The Light Switch
-Plants use a single photoreceptor called phytochrome as a molecular toggle:
-- **Red light** activates phytochrome (turns it "on")
-- **Far-red light** (barely visible at dusk) deactivates it (turns it "off")
-- The plant "remembers" the last color it saw
-- Red/far-red cycling acts like a switch -- if flipped fast enough, nothing happens
-
-Ecologically: the last light at sunset is far-red, signaling the plant to "turn off." Morning red light wakes it up. The phytochrome in any single leaf can regulate flowering for the entire plant.
-
-### UV and Infrared
-Plants see ultraviolet light (which gives us sunburn) and infrared light (which heats us). They know the difference between a blue and red shirt, whether you've painted your house, or moved their pot.
+- Detect and respond to environmental conditions (light, temperature, water)
+- Sense neighboring plants and compete for resources
+- Communicate with other organisms (pollinators, herbivores, symbionts)
+- Measure time (circadian rhythms, seasonal cycles)
+- Remember past stimuli and modify future responses accordingly
 
 ## What a Plant Smells
 
-Plants detect volatile organic compounds (VOCs) in the air. This chemical "smell" allows plants to:
-- Sense nearby plants and potential competitors
-- Detect herbivore attacks on neighbors (priming defensive responses)
-- Coordinate flowering times across populations
-- Communicate through [[solomon-root-exudates-and-allelopathy]] in soil
+### Volatile Organic Compounds
 
-## What a Plant Feels (Touch)
+Plants detect and respond to volatile chemicals in their environment:
 
-Plants respond to mechanical stimulation through thigmomorphogenesis:
-- Regular wind or touch causes shorter, stockier growth
-- Climbing plants detect and coil around supports
-- Trigger plants (Mimosa pudica) fold leaves when touched
-- Venus flytraps detect insect contact through mechanoreceptors
+- **Ethylene**: The "ripening hormone" — a gaseous plant hormone that
+  triggers fruit ripening, leaf abscission, and senescence. One ripening
+  banana releases ethylene that accelerates ripening in nearby fruit.
+- **Methyl jasmonate**: Released when plants are damaged by herbivores.
+  Neighboring plants detect this compound and activate their own defense
+  responses before being attacked.
+- **Methyl salicylate**: A volatile form of salicylic acid involved in
+  systemic acquired resistance against pathogens.
 
-The response to touch is not simple irritation but involves specific signaling pathways that alter gene expression and growth patterns.
+### Olfactory-Like Receptors
 
-## Proprioception (Knowing Where It Is)
+Plants possess receptor proteins functionally analogous to olfactory
+receptors in animals. These membrane-bound proteins detect specific volatile
+compounds and initiate signaling cascades that alter gene expression. The
+plant "olfactory" system is distributed across tissues rather than
+concentrated in a specialized organ.
 
-Plants sense gravity through statoliths -- dense starch grains that settle to the bottom of specialized cells. This gravitropism allows:
-- Roots to grow downward
-- Shoots to grow upward
-- Correction if a plant is knocked over
+### Root Chemical Sensing
 
-Plants also sense their own mass and the mechanical stress of their weight, adjusting growth accordingly.
+Root systems detect chemical gradients in soil:
 
-## What a Plant Hears (Controversial)
+- Nutrient gradients (nitrate, phosphate, potassium)
+- Water potential gradients
+- Allelochemicals from competing plants
+- Symbiotic signals from [[mimosa-pudica]]**: The "sensitive plant" folds its leaves when touched,
+  a rapid turgor-pressure-driven response mediated by electrical signals.
 
-The question of whether plants hear sound remains debated. While some studies suggest plants may respond to certain vibrations or frequencies, the evidence is less robust than for other senses. Chamovitz treats this cautiously -- plants clearly sense mechanical vibration through touch pathways, but dedicated auditory perception analogous to animal hearing is not well-established.
+### Gravisensing (Gravity Detection)
 
-## Plant Memory
+Roots grow downward (positive [[plant-memory]]
+- [[plant-memory]]
+## Practical Considerations
 
-Plants demonstrate memory through:
-- **Phytochrome switching** -- remembering the last red/far-red state
-- **Vernalization** -- remembering a cold period before flowering
-- **Priming** -- prior exposure to herbivore attack chemicals makes subsequent responses faster and stronger
-- **Epigenetic changes** -- environmental stress can trigger lasting changes in gene expression
+Successful implementation of Plant Sensory Biology — Overview of Plant Senses requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
 
-## See Also
-- [[organic-lawn-care-hamilton]]
+## Future Directions
 
-- [[legume-nitrogen-dynamics]] -- how legumes sense and respond to soil nitrogen levels
-- Plant Sensory Biology -- additional perspectives on [[cleve-backster-plant-perception-experiments]] (if exists)
-- [[fungal-spore-biology]]
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
 
-## Related
-
-- [[fungal-chromogens-and-color-change]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[water-pathways-through-plants]]

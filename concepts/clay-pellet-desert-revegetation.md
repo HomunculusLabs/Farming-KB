@@ -143,7 +143,9 @@ The method embodies the principle of non-causality: rather than attempting to
 understand why the desert formed and addressing specific causes, it simply
 ## See Also
 
-- [[no-till-direct-seeding-rice-barley]]
 - [[natural-ground-cover-and-straw-mulching]]
-- [[korean-natural-farming-and-jadam]]
 - [[non-causality-in-nature]]
+
+## See Also
+
+- [[fukuoka-desert-revegetation-clay-pellets]]

@@ -132,8 +132,6 @@ other life cycles.
 
 ## See Also
 
-- [[enriched-sawdust-cultivation]] for the initial substrate
 - [[agricultural-waste-substrates]] for alternative starting substrates
-- [[mushroom-permaculture]] for the broader ecological model
 - [[mushroom-casing-layers]] for King Stropharia fruiting requirements
 - [[mushroom-harvesting-storage-methods]] for post-harvest handling

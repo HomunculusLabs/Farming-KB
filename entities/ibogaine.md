@@ -101,7 +101,7 @@ as a rite-of-passage sacrament, healing ceremony, and divinatory tool.
   root bark; total alkaloid extracts ~15–20% ibogaine.
 - **Semi-synthetic:** Noribogaine via O-demethylation; total synthesis exists
   but is commercially impractical.
-- **Plant sources:** *Tabernanthe iboga* (primary), *Voacanga africana*
+- **Plant sources:** *[[voacanga-africana]]*
   (bark, 0.5–1%), *Tabernanthe laevis*.
 - **Underground production:** Extraction operations supply unregulated
   treatment clinics in Mexico, Costa Rica, and Europe.
@@ -141,6 +141,5 @@ Mexico, Costa Rica, Brazil, and the Netherlands, treating an estimated
 
 ## See Also
 
-- [[noribogaine-entity]]
-- [[psilocybin-compound]]
+- [[psilocybin]]
 - [[serotonin]]

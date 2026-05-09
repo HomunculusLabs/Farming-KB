@@ -110,16 +110,10 @@ combined total)
 
 ## Related Topics
 
-- [[blesching-cannabis-colds-and-flu]] - Cough as a symptom of colds
-  and influenza
 - [[cannabis-and-asthma]] - Bronchodilatory effects of cannabis
   on airways
-- [[blesching-cannabis-copd]] - Chronic obstructive pulmonary disease
-  and cannabis
 - [[blesching-cannabis-viral-infections]] - Viral causes of cough
 - respiratory conditions - Broader respiratory
   applications
-- [[blesching-cannabinoid-pharmacology]] - THC mechanisms of action
-  on CB1 receptors in airways
 - [[blesching-endocannabinoid-system-overview]] - Cannabinoid receptor
   distribution in the respiratory tract

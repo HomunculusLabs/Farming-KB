@@ -74,13 +74,8 @@ climates it is evergreen; in colder areas it becomes deciduous.
 
 ## Relevance
 Tipu is an excellent multi-purpose nitrogen-fixing tree for tropical
-and subtropical [[permaculture]] systems. Its primary value lies in its
-role as a shade-providing nurse crop for coffee, cacao, and other
-shade-loving species, combined with high-quality timber production. The
-tree's rapid growth and large canopy make it a cornerstone of tropical
-agroforestry designs.
+and subtropical [[agroforestry]] designs.
 
 ## See Also
-- [[robinia-pseudoacacia]]
 - [[inga-edulis]]
 - [[leucaena-entity]]

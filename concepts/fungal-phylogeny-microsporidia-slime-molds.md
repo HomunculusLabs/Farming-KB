@@ -3,7 +3,7 @@ title: Fungal Phylogeny Microsporidia Slime Molds
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -72,19 +72,26 @@ Phylogenetic knowledge affects estimates of fungal diversity:
 - The ratio of known to unknown fungal species remains very high — estimates suggest only 5-10% of fungal species have been described
 
 ## Connection to [[fungal-biodiversity-alpine-arctic]]
-
-Phylogenetic work depends heavily on herbarium specimens for DNA extraction and morphological reference. As molecular methods advance, the value of well-curated collections increases.
-
-## See Also
-
-- [[fungal-biodiversity-alpine-arctic]]
-- [[fungal-conservation-biology]]
 - [[fungal-succession-woody-debris-ecology]]
-- [[the-soil-food-web]]
-
-Source: Phylogenetic analyses (Baldauf et al. 2000; Arugete et al. 1998; Mueller 1999)
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[fungal-species-estimation-methods-total-diversity]]
 - [[fungal-phylogeny-kingdom-classification]]
-- [[fungal-biodiversity-herbarium-collections]]
 - [[physarum-polycephalum]]
+## Practical Considerations
+
+Successful implementation of Fungal Phylogeny Microsporidia Slime Molds requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

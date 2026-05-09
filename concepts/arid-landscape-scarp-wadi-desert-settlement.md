@@ -1,7 +1,7 @@
 ---
 title: "Arid Landscape Settlement Strategies and Desert Water Harvesting"
 created: 2026-04-28
-tags: [permaculture, arid-landscapes, desert-farming, water-harvesting]
+tags: [[permaculture, arid-landscapes, desert-farming, water-harvesting]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
@@ -119,20 +119,7 @@ against flood while trees tolerate seasonal inundation.
 
 ## Arid Climate Design Summary
 
-Desert [[permaculture-design]] follows a clear hierarchy: secure water
-first through multiple strategies, then place settlement within the
-thermal stability of cliffs and scarps, and finally arrange plantings
-in a gradient from most to least water-demanding. The extraordinary
-growth response of unexploited desert soils to water means that even
-modest water harvesting can produce remarkable abundance. All
-strategies should be implemented simultaneously: catch water high,
-store in soil and sand, protect with mulch and vegetation, and
-always design for the flood that will eventually come.
+Desert [[mollison-pdc-arid-landscape-settlement]]
 
-## See Also
-
-- [[mollison-pdc-arid-landscape-settlement]]
-
-- [[mollison-settlement-siting-on-slopes-and-landscape-profile]]
 - [[mollison-arid-settlement-home-garden-design]]
 - [[arid-landscape-permaculture]]

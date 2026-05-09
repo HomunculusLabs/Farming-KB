@@ -1,5 +1,5 @@
 ---
-title: "Endorhiza Bacterial Communities and Cannabis Cultivar Specificity"
+title: Cultivar Endorhiza Bacterial Communities Cannabis
 created: 2026-04-28
 tags: [cannabis-microbiome, endorhiza, endophytic-bacteria, plant-microbe, cultivar-specificity]
 date: 2026-04-25
@@ -27,18 +27,13 @@ crop plants, as has been demonstrated for wines.
 ## Cultivars Studied
 
 ### Experiment 1 Cultivars
-- **Sour Diesel:** [[cannabis-sativa]], high THC:CBD ratio
+- **[[cannabis-sativa]], high THC:CBD ratio
 - **BooKoo Kush:** Sativa-dominant hybrid (sativa x indica), moderately high
   THC:CBD ratio
 - **Burmese:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
 
 ### Experiment 2 Cultivars
-- **Maui Wowie:** and plant architecture, high THC:CBD ratio
-- **White Widow:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
-
-## Core Endorhiza Community
-
-Despite significant strain-level differences, all [[proteobacteria-dominance-cannabis-endorhiza]] samples
+- **[[proteobacteria-dominance-cannabis-endorhiza]] samples
 maintained a core bacterial community consisting of:
 
 - **Pseudomonas** -- well-known endophytic genus within Gammaproteobacteria
@@ -50,60 +45,7 @@ maintained a core bacterial community consisting of:
 
 With the exception of Cellvibrio, all prevalent core community members are
 well-known endophytic bacteria, primarily within Gammaproteobacteria and
-Alphaproteobacteria, consistent with observations from other [[mollison-aquatic-plant-systems]].
-
-## Strain-Specific Differentiation
-
-### Experiment 1: OTU Abundance Differences
-
-Significant OTU abundance differences between strains were composed mostly of
-Proteobacteria, notably from these orders:
-- Pseudomonadales
-- Burkholderiales
-- Sphingomonadales
-- Rhizobiales
-
-Bacteroidetes orders Sphingobacteriales and Flavobacteriales also contributed
-to several significant strain-level differences.
-
-### Key Strain-Specific OTU: Methylophilus
-
-Methylophilus was the most dramatic strain-specific differentiator:
-- 13% of BooKoo Kush endorhiza community
-- 0.13% of Burmese endorhiza community
-- Absent from Sour Diesel endorhiza
-- Statistical significance: FDR p = 0.012
-
-### Key Strain-Specific OTU: Sphingomonas wittichii
-
-Prevalent in the Maui Wowie strain in Experiment 2. This species can
-metabolize phenazine-1-carboxylic acid and has been implicated in increased
-survival in soil environments, suggesting it may confer competitive advantages
-to its host plant.
-
-## Statistical Evidence for Cultivar Specificity
-
-### Experiment 1
-- Endorhiza clustered significantly by strain (weighted: R2=0.59, p=0.004;
-  unweighted: R2=0.39, p=0.003)
-- Bulk soil and rhizosphere did NOT show significant strain clustering
-
-### Experiment 2
-- All comparisons highly significant (p=0.001) for soil, sample type, strain
-- Endorhiza showed strongest strain-specific clustering
-- 71 weighted OTUs significantly differed between strains
-
-### Pooled Analysis
-Strain showed highly significant effect (ADONIS R2=0.178 unweighted,
-R2=0.301 weighted, both p=0.001).
-
-## Why Strain Affects Abundance Not Presence
-
-The absence of unweighted (presence/absence) OTU differences (0 significant)
-versus 71 weighted (abundance-based) differences reveals that cultivars do not
-determine which species can colonize roots. Rather, the host genotype
-selectively promotes or suppresses relative abundance of specific taxa from
-the available soil-derived pool through [[root-exudates]], immune responses, and
+Alphaproteobacteria, consistent with observations from other [[root-exudates]], immune responses, and
 other genotype-dependent mechanisms.
 
 ## Proteobacteria Dominance in Endorhiza

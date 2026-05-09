@@ -108,14 +108,9 @@ Key principles for wild fermentation:
 
 ## See Also
 
-- [[comparison-sourdough-vs-wild-yeast]]
-
 - [[yeast-biology]] for the science of fermentation microorganisms
-- [[yeast-biology-guide]] for detailed yeast biology
 - [[knf-yeast-preparation-detailed]] for cultivating wild yeast using Korean Natural Farming methods
-- [[wild-yeast-bread-baking]] for wild fermentation in bread making
 - [[sourdough-bread-guide]] for maintaining a sourdough culture
-- [[beer-brewing-basics]] for fermentation in brewing
 - [[food-fermentation-guide]] for lacto-fermentation with wild bacteria
 - kombucha brewing for a mixed-culture fermentation
 - [[fermentation-microbiology-for-brewers]] for the microbial science behind brewing fermentation

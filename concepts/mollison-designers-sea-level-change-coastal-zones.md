@@ -14,11 +14,8 @@ sources:
 type: concept
 ---
 
-# Sea Level Change [[bill-mollison]]one Management
-
-Coastal zones represent some of the most productive yet fragile interfaces on
-Earth. In [[permaculture-design]], the transition between land and sea is treated
-as a distinct Mollison Designers Zone Planning edge with unique
+# Sea Level Change [[permaculture-design]], the transition between land and sea is treated
+as a distinct [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 opportunities and hazards. Bill Mollison devoted significant attention to
 coastal systems in the Designers Manual, recognizing that sea level has never
 been static and that human settlements must adapt to dynamic shorelines.
@@ -39,28 +36,7 @@ inherently unstable is the first step toward sensible design.
 
 ## Coastal Zone Classification
 
-Mollison identifies several distinct coastal zones, each requiring different
-design strategies:
-
-- **Offshore zone**: Beyond wave influence; suitable for aquaculture of kelp,
-  shellfish, and pelagic fish.
-- **Fore-shore zone**: The beach and intertidal area; shaped daily by waves
-  and tides.
-- **Back-shore zone**: Above normal tides but subject to storm surges and
-  occasional inundation.
-- **Coastal hinterland**: Influenced by salt spray and onshore winds but
-  rarely flooded.
-
-Each zone supports specific assemblages of plants and animals. Design must
-match species to their appropriate zone based on salt tolerance, flood
-frequency, and exposure to wind and wave energy.
-
-## Mangrove Systems
-
-Mangrove forests are the single most important coastal ecosystem for
-permaculture design in tropical and subtropical regions. These remarkable
-trees colonize the intertidal zone, stabilizing sediments with their dense
-root networks while providing nursery habitat for fish and crustaceans.
+Mollison identifies several distinct [[query-how-do-i-design-a-multi-species-pasture-mix]] y habitat for fish and crustaceans.
 
 Mollison describes mangroves as a multi-species zonation system. Red mangroves
 (Rhizophora) colonize the seaward edge, suspended on stilt roots above the
@@ -89,35 +65,7 @@ a broad palette of halophytic and salt-tolerant species. These include:
 
 For food production near coasts, raised beds with adequate drainage can allow
 conventional crops to be grown while salt-tolerant perennials protect the
-perimeter. See [[mollison-designers-windbreak-design-species]] for coastal
-windbreak species recommendations.
-
-## Coastal Erosion Control
-
-Erosion is the primary threat to coastal settlements. Hard engineering
-solutions such as seawalls often fail because they disrupt natural sediment
-transport. Mollison advocates biological and soft engineering approaches that
-work with natural processes:
-
-Key strategies include:
-
-- **Dune stabilization**: Planting grasses such as Spinifex, Ammophila, and
-  Vetiver to bind sand and build dune height, absorbing wave energy.
-- **Mangrove restoration**: Re-establishing mangrove forests to attenuate wave
-  energy and trap suspended sediment. A 100-metre belt reduces wave height
-  by over 60 percent.
-- **Offshore reef construction**: Building low rock or bamboo structures to
-  break wave energy before it reaches the shore, allowing sediment to
-  accumulate behind them.
-- **Beach nourishment**: Working with longshore drift by understanding current
-  directions and placing sediment where natural transport distributes it.
-
-## Sea Level Rise Adaptation
-
-As global sea levels continue to rise, permaculture designers must plan for
-gradual shoreline retreat:
-
-1. **Avoiding vulnerable zones**: Do not place permanent structures or
+perimeter. See [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] ng vulnerable zones**: Do not place permanent structures or
    long-lived tree crops within the projected 50 to 100-year flood zone.
 2. **Designing for migration**: Create buffer zones of salt-tolerant species
    that can migrate inland as the sea advances.
@@ -132,7 +80,7 @@ The coastal zone offers exceptional opportunities for integrated food
 production. Mollison Designers Aquaculture systems can combine fish
 farming, shellfish cultivation, seaweed harvesting, and mangrove silviculture
 in mutually beneficial arrangements. Wastewater from land-based systems
-(nutrient-rich but free of toxins) can fertilize seaweed and shellfish beds,
+[[permaculture-design-principles]] t free of toxins) can fertilize seaweed and shellfish beds,
 while mangrove roots provide habitat for juvenile fish.
 
 ## Design Principles for Coastal Settlements

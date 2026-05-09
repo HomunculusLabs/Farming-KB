@@ -103,18 +103,11 @@ Peanut skins, a byproduct of blanching, are rich in polyphenols and are being in
 
 ## See Also
 
-- [[glycine-max]]
 - [[vigna-radiata]]
-- [[pisum-sativum]]
 - [[cicer-arietinum]]
-- [[lens-culinaris]]
 - [[phaseolus-vulgaris]]
-- [[vicia-faba]]
 - [[aflatoxin]]
-- [[mycorrhizae]]
 - [[resveratrol]]
-- [[chondrus-crispus]]
 - [[porphyra-umbilicalis]]
-- [[pachyrhizus-erosus]]
 - [[psophocarpus-tetragonolobus]]
 - [[vigna-unguiculata]]

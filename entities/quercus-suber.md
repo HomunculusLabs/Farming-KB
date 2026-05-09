@@ -79,10 +79,7 @@ permaculture principle of designing for permanence.
 
 ## See Also
 
-- [[food-forest-design]]
 - [[quercus-robur]]
 - quercus ilex
-- [[castanea-sativa]]
-- fagus sylvatica
-- olea europaea
+- [[fagus-sylvatica]]
 - [[ceratonia-siliqua]]

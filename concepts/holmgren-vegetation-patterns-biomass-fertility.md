@@ -129,16 +129,7 @@ When comparing cattle and sheep with kangaroos on semi-arid rangeland, kangaroos
 are far more efficient. When available energy is rising, it is natural to search
 for higher-yielding solutions; when energy availability is falling, efficiency
 of energy conversion is more important -- a principle central to
-[[holmgren-energy-descent-planning]].
+[[permaculture-design]].
 
-## Landscape Reading for Design
-
-Understanding these general and often local patterns allows us to comprehend the
-mosaics of landscape diversity, their limitations, and their potential for
-broad-scale sustainable land uses, as well as their application to cultivated
-diversity in smaller, more intensive systems. These patterns form an essential
-component of the [[permaculture-design]].
-
-See also: [[holmgren-mineral-balance-soil-fertility]],
-[[holmgren-land-systems-catchment-planning]],
+See also: [[holmgren-land-systems-catchment-planning]],
 [[holmgren-food-forests-agroforestry]]

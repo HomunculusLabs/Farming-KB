@@ -10,20 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has a complex and paradoxical relationship with sexual function, capable of both enhancing and diminishing libido depending on dose, strain, individual psychology, and context. The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] assigns a CHI value of 2 from 1 study reviewed.
-
-## Historical Context
-
-Experiences from the past two centuries present a picture of cannabis producing both libido stimulation and depression. Scientific studies focus on this paradox of whether cannabis is a sexual stimulant or depressant. Researchers have gained insights by comparing accounts from modern users, historical records, the world's therapeutic prescription manuals, and scientific studies on cannabinoids.
-
-Cannabis has been used as an aphrodisiac in various cultures:
-- Ancient Indian Ayurvedic medicine prescribed cannabis for sexual vitality
-- Middle Eastern and North African traditions used cannabis to enhance sexual experience
-- Historical Materia Medicas include cannabis prescriptions for sexual dysfunction
-
-## Mechanism of Action
-
-The [[cannabis-endocannabinoid-system]] modulates sexual function through CB1 and CB2 receptors in:
+Cannabis has a complex and paradoxical relationship with sexual function, capable of both enhancing and diminishing libido depending on dose, strain, individual psychology, and context. The [[cannabis-endocannabinoid-system]] modulates sexual function through CB1 and CB2 receptors in:
 - Hypothalamus (regulating sexual behavior and hormone release)
 - Reproductive organs (modulating blood flow and sensation)
 - Peripheral nervous system (affecting tactile sensitivity)
@@ -91,9 +78,7 @@ Supporting approaches:
 
 - cannabis for libido and sexual function
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-dosing-guidelines]]
-- [[cannabis-sativa-vs-indica-guide]]
 - [[cannabis-for-mental-health]]
 
 ## Source
@@ -102,33 +87,7 @@ Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Libido Enhanceme
 
 ## Merged: Cannabis and Libido Enhancement
 
-**Source:** The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] (Uwe Blesching) | **Updated:** 2026-04-18
-
-## Overview
-
-Libido describes sexual virility, desire, biological drive, or psychic-emotional force. Low libido has many potential causes: emotional (anxieties, guilt, shame, stress, trauma), physical (hormone imbalances, circulatory disorders, medication side effects), and pharmacological (especially antidepressants).
-
-## Cannabis Research Evidence
-
-**CHI Value: 2** (1 study reviewed)
-
-Both sexual arousal and cannabis share neurochemistry: both dilate pupils, elevate heart rates, alter endocrine releases, shift respiratory patterns, relax muscles, and affect brain signaling.
-
-### Historical Context
-
-Hindu Tantric scriptures dating back over a thousand years describe cannabis use to enhance sexual pleasure and bring about enlightenment. Ancient cultures that deified sensuality used cannabis to achieve extraordinary states of consciousness.
-
-### Key Findings
-
-A properly dosed use may: stimulate heightened sensations, increase stamina, deepen orgasm intensity, produce more profound intimacy, ease performance anxiety (anti-anxiety properties), produce harder erections (males), and increase lubrication and clitoral swelling (females).
-
-**Critical caveat:** Effects depend on a very subjective therapeutic window. Too high a dose can deepen anxieties and reduce sensations. Begin with low to medium doses.
-
-- **University of Michigan (2007):** Anandamide (the body's own cannabinoid) enhances pleasure experience in rats.
-
-### Strain-Specific Considerations
-
-Anandamide activates [[cannabis-cannabinoid-receptor-pharmacology]] and [[cannabis-cannabinoid-receptor-pharmacology]] relatively equally. Sativa and sativa-heavy hybrids present higher THC:CBD ratios with similar activation patterns.
+**Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] and [[cannabis-cannabinoid-receptor-pharmacology]] relatively equally. Sativa and sativa-heavy hybrids present higher THC:CBD ratios with similar activation patterns.
 
 ## Complementary Herbs ("Let Food Be Thy Medicine")
 

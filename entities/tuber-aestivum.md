@@ -142,7 +142,9 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 
 ## See Also
 
-- [[tuber-melanosporum]]
 - [[fomes-fomentarius]]
-- [[quercus-robur]]
 - [[tricholoma-matsutake]]
+
+## See Also
+
+- [[permaculture-tuber-crops]]

@@ -122,14 +122,9 @@ principles of physics and timing.
 
 ## Related
 
-- [[bloomfield-gasteromycetes-puffballs-earthstars-false-truffles-evolution]] Topics
-
 - [[bloomfield-fungal-spore-discharge-and-dispersal]] for spore
   release mechanisms in gilled mushrooms
-- [[bloomfield-fungal-biology-and-hyphal-growth]] for the
-  underlying biology of [[fruiting-body-development]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
-  ecological roles of fungi in ecosystems
+- [[fruiting-body-development]]
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
   for fungal reproductive strategies
 

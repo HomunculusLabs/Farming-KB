@@ -3,7 +3,7 @@ title: Oyster Mushroom Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mycology, oyster-mushroom, pleurotus, cultivation]
+tags: [[mycology, oyster-mushroom, pleurotus, cultivation]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Oyster Mushroom Cultivation
@@ -139,11 +139,7 @@ Oyster mushrooms will grow on cotton clothing (jeans, shirts), hemp, and sisal r
 - Can be trained to degrade herbicides including atrazine at 3x labeled application rates
 ## See Also
 
-- [[oyster-mushroom-storage-processing]]
-
 - [[oyster-cultivation-kenya]]
 
-- [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-bulk-substrates]]
-- [[mushroom-cultivation-fruiting-chambers]]
 - [[shiitake-mushroom-cultivation]]

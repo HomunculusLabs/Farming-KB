@@ -9,9 +9,7 @@ sources: [papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.m
 
 ## The Succession Principle
 
-Soil ecosystems undergo predictable patterns of microbial succession, progressing from bacterial-dominated communities toward fungal-dominated communities over time. This succession mirrors the broader ecological succession from disturbed, early-succession plant communities (weeds, annuals) toward late-succession communities (perennials, shrubs, trees). Understanding this succession is fundamental to [[lowenfels-earthworms-soil-food-web]] management.
-
-The concept was developed largely through the work of [[mycorrhizal-fungi-basics-lowenfels]] and colleagues at Oregon State University, who observed consistent correlations between plant types, soil disturbance history, and the ratio of fungal to bacterial biomass in soils.
+Soil ecosystems undergo predictable patterns of microbial succession, progressing from bacterial-dominated communities toward fungal-dominated communities over time. This succession mirrors the broader ecological succession from disturbed, early-succession plant communities (weeds, annuals) toward late-succession communities (perennials, shrubs, trees). Understanding this succession is fundamental to [[mycorrhizal-fungi-basics-lowenfels]] and colleagues at Oregon State University, who observed consistent correlations between plant types, soil disturbance history, and the ratio of fungal to bacterial biomass in soils.
 
 ## The F:B Ratio
 
@@ -28,22 +26,9 @@ This ratio reflects the natural trajectory of ecosystem development. Disturbance
 
 Bacterial dominance in disturbed soils is driven by several factors:
 - Bacteria reproduce rapidly (doubling in 20-30 minutes under ideal conditions), allowing them to quickly colonize disturbed environments
-- They thrive on simple, readily available carbon sources -- the sugars, proteins, and starches found in fresh organic matter and [[solomon-root-exudates-and-allelopathy]]
-- Disturbance physically breaks up fungal hyphae while bacteria survive as individual cells or spores
-- Tilled soils tend to be more aerobic near the surface, favoring bacterial metabolism
-- Annual and weedy plants that colonize disturbed sites produce root exudates that specifically attract and support bacterial communities
-
-Bacterial-dominated soils are characterized by rapid nutrient cycling. Bacteria immobilize nutrients in their biomass and release them quickly when consumed by protozoa. This fast nutrient turnover supports the rapid growth rates of annual plants and early-succession species.
-
-## Why Fungi Dominate Late Succession
-
-As ecosystems mature, fungal biomass increases for several reasons:
-- Fungi are the primary decomposers of complex plant materials including lignin, cellulose, and waxy cuticles -- materials that accumulate as plant communities shift from herbaceous to woody
-- Fungal hyphae can transport nutrients over distances, connecting different soil volumes and plant roots -- this network capacity becomes more valuable as plant spacing increases in mature communities
-- Fungal hyphae are more resistant to physical disturbance once established, forming extensive networks
-- [[mycorrhizal-fungi]] associations become increasingly important for perennial and woody plants, which rely on fungal partners for nutrient and water acquisition
+- They thrive on simple, readily available carbon sources -- the sugars, proteins, and starches found in fresh organic matter and [[mycorrhizal-fungi]] associations become increasingly important for perennial and woody plants, which rely on fungal partners for nutrient and water acquisition
 - Fungi store nutrients in their biomass for longer periods, providing slow, steady nutrient release suited to the moderate growth rates of perennials and trees
-- [[glomalin-and-soil-carbon]] produced by [[arbuscular-mycorrhizal-fungi]] accumulates over time, building stable soil aggregates that further favor fungal habitat
+- [[arbuscular-mycorrhizal-fungi]] accumulates over time, building stable soil aggregates that further favor fungal habitat
 
 ## The Plant-Microbe Connection
 
@@ -68,31 +53,14 @@ The shift from bacterial to fungal dominance changes how nutrients cycle in soil
 **Fungal-dominated nutrient cycling:**
 - Slow turnover -- nutrients cycle through fungal biomass in weeks to months
 - Nitrogen is retained more in organic forms (ammonium, amino acids)
-- [[mycorrhizal-nutrient-transport]] delivers nutrients directly to plant roots
-- Nutrients are less prone to leaching because they are held in larger, longer-lived fungal biomass
-- Supports slower-growing, longer-lived plants
-
-## Managing Soil Succession
-
-Understanding bacterial-to-fungal succession allows gardeners and farmers to manage their soil food web for specific crop types:
-
-**For annual vegetables and lawns (bacterial preference):**
-- Use bacterial-dominated [[cervantes-compost-tea-organic-brewing]] (made with simple sugars, molasses, and bacterial food sources)
+- [[cervantes-compost-tea-organic-brewing]] (made with simple sugars, molasses, and bacterial food sources)
 - Apply compost made primarily from green materials
 - Maintain adequate but not excessive soil disturbance
-- Use [[mulch-types-and-effects]] materials that break down relatively quickly (grass clippings, young green manures)
-
-**For perennials, shrubs, and trees (fungal preference):**
-- Use fungal-dominated compost tea (made with fish hydrolysate, kelp, humic acids, and minimal sugars)
-- Apply compost containing woody materials, leaf mold, and fungal foods
-- Minimize soil disturbance -- avoid tillage that breaks hyphal networks
-- Use woody mulch materials (wood chips, bark, leaf litter) that favor fungal decomposition
-- [[permaculture-sheet-mulch-detailed-guide]] with woody layers promotes fungal dominance
+- Use [[permaculture-sheet-mulch-detailed-guide]] with woody layers promotes fungal dominance
 
 **For transitional management:**
 - When converting from conventional (bacterial-dominated) to perennial systems, gradually shift the F:B ratio over 2-3 years
-- [[jeavons-green-manures-cover-crops]] with diverse root systems can help bridge the transition
-- Combining bacterial and fungal inoculants in [[cervantes-compost-tea-organic-brewing]] provides both communities during transition
+- [[cervantes-compost-tea-organic-brewing]] provides both communities during transition
 - Reducing disturbance frequency allows fungal networks to establish progressively
 
 ## Disturbance and Succession Reset
@@ -117,8 +85,4 @@ Gardeners can estimate the F:B ratio through several methods:
 
 ## The Bigger Picture
 
-Bacterial-to-fungal succession is not about making one type of organism "better" than another. Both are essential components of healthy soil ecosystems. The goal is to match the soil microbial community to the needs of the plants being grown. A vegetable garden benefits from a more bacterial-dominated soil, while an orchard or forest garden benefits from fungal dominance. Understanding and working with natural succession patterns -- rather than against them -- is the foundation of effective [[soil-food-web-management-for-farmers]].
-
-## See Also
-
-- [[ingham-bacterial-fungal-succession]]
+Bacterial-to-fungal succession is not about making one type of organism "better" than another. Both are essential components of healthy soil ecosystems. The goal is to match the soil microbial community to the needs of the plants being grown. A vegetable garden benefits from a more bacterial-dominated soil, while an orchard or forest garden benefits from fungal dominance. Understanding and working with natural succession patterns -- rather than against them -- is the foundation of effective [[ingham-bacterial-fungal-succession]]

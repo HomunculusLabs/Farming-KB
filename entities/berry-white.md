@@ -114,13 +114,8 @@ Crosses using Berry White as a parent include several modern strains that combin
 
 ## See Also
 
-- [[white-widow-entity]]
 - [[granddaddy-purple]]
-- [[blueberry-cannabis]]
 - [[girl-scout-cookies]]
-- [[og-kush]]
 - [[wedding-cake-cannabis]]
-- [[runtz-entity]]
 - [[skunk-1]]
-- [[trainwreck]]
 - [[kali-mist]]

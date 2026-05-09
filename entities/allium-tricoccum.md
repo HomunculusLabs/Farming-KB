@@ -108,13 +108,8 @@ Seeds require a warm-cold stratification cycle and may take 6–18 months to ger
 
 ## See Also
 
-- [[allium-ursinum]]
 - [[allium-cepa]]
-- [[allium-tuberosum]]
 - [[allium-schoenoprasum]]
-- [[panax-quinquefolius]]
 - [[echinacea-purpurea]]
-- [[hydrastis-canadensis]]
 - [[podophyllum-peltatum]]
-- [[sanguinaria-canadensis]]
 - [[actaea-racemosa]]

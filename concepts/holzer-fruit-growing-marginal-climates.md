@@ -83,11 +83,7 @@ A homemade remedy painted or sprinkled on trees:
 
 ## See Also
 
-- [[organic-fruit-tree-care-calendar]]
 - [[sepp-holzer-method]]
-- [[climate-and-microclimate-management]]
 - [[seed-selection-breeding-holzer]]
-- [[holzer-bone-salve-rock-dust]]
 - [[sepp-holzer-fruit-tree-varieties]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[holzer-fruit-tree-planting-method]]

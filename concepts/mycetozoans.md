@@ -1,6 +1,6 @@
 ---
 created: 2026-04-12
-source:slime-moldsty-of-fungi (Hyde et al. Ch. 25, Spiegel/Stephenson/Landolt)
+source: biodiversity-of-fungi (Hyde et al. Ch. 25, Spiegel/Stephenson/Landolt)
 sources: []
 tags:
 - mycetozoans
@@ -15,13 +15,14 @@ type: concept
 updated: 2026-04-12
 ---
 
+
 # Mycetozoans
 
-Mycetozoans ([[teaming-with-microbes-algae-slime-molds]]) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
+Mycetozoans (slime molds) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
 
 ## Overview
 
-Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("animal-fungi"), they are protists, not true fungi. They share [[mycelium-running-filtering-water-with-fungi]] the production of fruiting bodies bearing spores, but their trophic (feeding) stages are amoeboid, ingesting food by phagocytosis rather than absorbing nutrients osmotrophically.
+Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("animal-fungi"), they are protists, not true fungi. They share with fungi the production of fruiting bodies bearing spores, but their trophic (feeding) stages are amoeboid, ingesting food by phagocytosis rather than absorbing nutrients osmotrophically.
 
 ## Major Groups
 
@@ -50,7 +51,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Microhabitat specificity**: Species assemblages differ more between microhabitats than between habitats. Litter assemblages from grasslands are similar to those from forests. In tropical rainforests (Puerto Rico), the distinction between litter and aerial microhabitats is less pronounced.
 
 **Sampling predictions**:
-- [[biodiversity-fungi-temperate-boreal-forests]]: 50,000-ha plot may contain most known species
+- Temperate/boreal forests: 50,000-ha plot may contain most known species
 - Hawaiian forest sites (few hectares each) have yielded 80%+ of described species in <40 collections
 - Temperate grasslands: most species except bark/rotting wood specialists
 - Arid/desert ecosystems: fewer species, mostly litter and bark inhabitants
@@ -61,7 +62,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Diversity**: ~800 described species; ~100 described in the last 25 years
 **Key orders**: Echinosteliales, Physarales, Stemonitales, Trichiales, Liceales
 
-**[[growing-gourmet-black-morel-sclerotia-life-cycle]]**:
+**Life cycle**:
 1. Spores germinate as amoeboflagellates
 2. Amoeboflagellates feed on bacteria, then develop into plasmodia
 3. Plasmodium (feeding stage) is a multinucleate, acellular mass of protoplasm
@@ -103,7 +104,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 5. Slug transforms into fruiting body with stalk and spore mass
 6. Sexual cycle: macrocyst formation from zygotes
 
-**Distribution**: Worldwide [[singh-fungal-interactions-with-heavy-metals-in-soil]], particularly surface humus layers. Also found in litter, dung, and canopy soil of tropical rainforests. Transported by arthropods, earthworms, rodents, amphibians, and ground-feeding birds.
+**Distribution**: Worldwide in soil, particularly surface humus layers. Also found in litter, dung, and canopy soil of tropical rainforests. Transported by arthropods, earthworms, rodents, amphibians, and ground-feeding birds.
 
 **Habitat patterns**:
 - More species in forest soils than agricultural soils, grasslands, or deserts
@@ -133,7 +134,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Distribution**:
 - Acrasis rosea: widespread, primarily on dead aerial plant parts; present wherever protostelids occur
 - Pocheina species: primarily on conifer bark
-- Guttulinopsis: commagarn herbivore dung; G. nivea also in soil at Tikal (Guatemala, possibly spread by monkeys)
+- Guttulinopsis: common on herbivore dung; G. nivea also in soil at Tikal (Guatemala, possibly spread by monkeys)
 - Copromyxa, Fonticula: coprophilous
 
 ## Sampling Methods
@@ -144,7 +145,51 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 - Incubated at ambient temperature; examined periodically over several weeks
 - Works for all groups, especially larger myxomycetes that won't fruit in harsh field conditions
 
-## See Also
-Related: [[leaf-litter-microfungal-diversity-tropical-temperate]], [[tropical-vs-temperate-fungal-diversity]]
+### Field Collection
+- Myxomycetes: collect fruiting bodies from natural substrata; store in boxes with glued substrata
+- Preserve as dried specimens or permanent slide mounts
+- Photograph in situ when possible
 
-- [[mycetozoans-slime-molds]]
+### Culture Methods
+- Protostelids and dictyostelids require culture for identification
+- Bait with bacteria (Escherichia coli) on weak nutrient agar
+- Soil/litter samples plated; emerging colonies documented over time
+- ATCC and specialized collections maintain living cultures
+
+### Substrata by Group
+
+| Group | Dead plant parts | Litter | Soil | Bark | Dung | Rotting wood |
+|-------|-----------------|--------|------|------|------|-------------|
+| Protostelids | +++ | +++ | + | +++ | + | ++ |
+| Myxomycetes | ++ | +++ | +++ | ++ | ++ | +++ |
+| Dictyostelids | * | ++ | +++ | * | +++ | * |
+| Acrasis | +++ | - | - | + | - | - |
+| Pocheina | - | - | - | +++ | - | * |
+| Copromyxa | - | - | - | - | ++ | - |
+
+(+ = occasional, ++ = common, +++ = abundant, * = very rare, - = absent)
+
+## Ecological Significance
+
+- Major bacterial predators in soil and litter ecosystems
+- Food source for specialized mycetophagous invertebrates
+- Contribute to nutrient cycling by regulating bacterial populations
+- Myxomycete plasmodia concentrate and redistribute nutrients
+- Dictyostelids are model organisms for studying cell differentiation and chemotaxis
+- Can be major components of agricultural soils (Feest 1987)
+
+## Conservation and Research Needs
+
+- Many species remain undescribed (especially protostelids in tropics)
+- Tropical mycetozoan fauna poorly documented
+- Long-term monitoring studies needed to assess seasonal and annual variation
+- Molecular phylogenetics reshaping understanding of relationships within and between groups
+- Climate change effects on mycetozoan communities unknown
+
+## Related Topics
+
+- [[fungal-biodiversity-biogeography]] — Global diversity patterns
+- [[fungal-ecology]] — Fungal ecology overview
+- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
+- [[fungal-ecosystem-roles]] — Fungal roles in ecosystems
+- [[coprophilous-fungi]] — Dung-inhabiting mycetozoans

@@ -16,8 +16,7 @@ type: concept
 # Cold Caves and Root Cellar Storage
 
 Bill Mollison treats earth-sheltered storage structures -- caves, cellars, and
-underground chambers -- as central to [[mollison-designers-cool-humid-climate-design-overview]]
-food systems and to [[mollison-designers-soil-water-storage-and-field-capacity]] in
+underground chambers -- as central to [[mollison-designers-soil-water-storage-and-field-capacity]] in
 general. The earth itself provides thermal mass and insulation, buffering
 temperature extremes with minimal energy input.
 
@@ -89,20 +88,11 @@ the diurnal temperature range is extreme.
 
 ## Integration with Permaculture Systems
 
-Caves and cellars connect directly to the [[mollison-designers-small-forest-farm-cool-humid-layout]]
-model as processing and storage nodes. Harvest flows from garden to cellar to
-kitchen with minimal handling. Mollison stresses that storage design is as
-important as production design -- the best crop is worthless if it rots
-before consumption.
-
-See also: [[mollison-designers-dam-construction-and-water-storage]],
-[[mollison-designers-winter-forest-foraging-wildlife-cooperation]],
+Caves and cellars connect directly to the [[mollison-designers-dam-construction-and-water-storage]],
 [[permaculture-designers-manual-earth-building-techniques]]
 
 ## See Also
 
-- [[mollison-designers-integrated-pest-management-design]]
 - [[mollison-designers-fuelwood-forestry-coppice-pollard]]
-- [[mollison-designers-grafting-fruit-tree-propagation]]
 - [[mollison-designers-food-processing-preservation-storage]]
 - [[mollison-designers-geodesic-and-dome-structures]]

@@ -115,13 +115,9 @@ The combination of a **pink spore print**, **free gills**, and **bluish bruising
 
 ## See Also
 
-- [[pluteus-salicinus]]
-- [[pluteus-nigroviridis]]
-- [[pluteus-cervinus]]
-- [[psilocybin-compound]]
+- [[archaeology-of-psychedelic-mushroom-use]]
+- [[psilocybin]]
 - Pluteaceae
-- [[stamets-psylo-minor-genera-inocybe-pluteus]]
 - [[pluteus-salicinus]]
-- [[pluteus-nigroviridis]]
 - [[pluteus-cervinus]]
 - [[pluteus-salicinus-profile]]

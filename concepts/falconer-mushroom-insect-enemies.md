@@ -5,11 +5,7 @@ updated: 2026-04-25
 sources:
   - William Falconer - Mushrooms: How to Grow Them (1891)
 type: concept
-tags: [mushroom-cultivation]
----
-# Falconer Mushroom Insect Enemies and Their Control
-Chapter XIX of Falconer's treatise catalogues the insect and animal
-[[cotter-mushroom-pests-diseases]]s that plagued mushroom growers in the 1890s. He noted that "a deal
+tags: [[cotter-mushroom-pests-diseases]]s that plagued mushroom growers in the 1890s. He noted that "a deal
 of mysterious trouble" existed underground that was poorly understood,
 and that while above-ground depredations were observable, "there is a
 good deal of mischief going on underground of which we know very little,
@@ -42,10 +38,7 @@ had proved invincible.
 ### Control Attempts -- All Failed
 
 - Salt, saltpeter, or ammonia solutions: no good as insecticides.
-- [[cervantes-pyrethrum-pyrethroid-insecticides]] powder diffused through the atmosphere: ineffectual.
-- Tobacco smoke: ineffectual.
-- Lamp traps (burning lamp in basin of water with kerosene): destroyed
-  many flies but they were harmless "[[falconer-manure-for-mushroom-beds]] flies," not the falconer mushroom insect enemies fly.
+- [[falconer-manure-for-mushroom-beds]] flies," not the falconer mushroom insect enemies fly.
   The lamp vitiating the atmosphere was actually harmful to the crop.
   Falconer tried these season after season with no apparent good effect.
 - Rigid cleanliness and keeping the house closed: helped lessen the
@@ -101,19 +94,7 @@ Little holes cut clear through mushroom caps, as if perforated by
 buckshot. Falconer initially suspected myriapods (Julus spp.) based on
 Prof. C.V. Riley's opinion. However, by leaving part of a bed uncared
 for and observing at night with a lantern, he discovered the holes were
-made by [[cervantes-slugs-snails]]s, which he found and watched in the act.
-
-### Control
-
-- **Night hunting**: Take a lantern and search at night; slugs' slimy
-  tracks glisten and reveal their presence.
-- **Bran traps**: Small bits of slate or half-rotten boards with a pinch
-  of bran; slugs gather to eat bran and hide beneath the wood.
-- **Lettuce traps**: Fresh lettuce leaves made capital traps, though
-  lettuce in January/February was scarce.
-- **Salt dressing**: Distasteful to slugs, not injurious to mushrooms.
-- **Strong fresh lime water**: Freely sprinkled over woodwork, pathways,
-  walls -- but NOT on [[falconer-mushroom-bed-construction]].
+made by [[falconer-mushroom-bed-construction]].
 - **Rigid cleanliness** and an ever-alert eye for slugs.
 
 ## Wood Lice

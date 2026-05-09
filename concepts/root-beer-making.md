@@ -1,5 +1,5 @@
 ---
-title: root beer making
+title: Root Beer Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,22 +9,22 @@ sources: []
 
 ## What Is Root Beer
 
-Root beer is a sweet, carbonated beverage traditionally made from the root bark of the sassafras tree (Sassafras albidum), sarsaparilla (Smilax spp.), and a blend of other herbs and spices. It originated [[neurotropic-fungi-in-north-america]] as a folk beverage brewed by Indigenous peoples and European settlers. Commercial root beer became popular in the 19th century, with Charles Hires introducing the first commercial brand at the 1876 Philadelphia Centennial Exposition.
+Root beer is a sweet, carbonated beverage traditionally made from the root bark of the sassafras tree (Sassafras albidum), sarsaparilla (Smilax spp.), and a blend of other herbs and spices. It originated in North America as a folk beverage brewed by Indigenous peoples and European settlers. Commercial root beer became popular in the 19th century, with Charles Hires introducing the first commercial brand at the 1876 Philadelphia Centennial Exposition.
 
 Traditional homemade root beer is a lightly fermented beverage with natural carbonation, distinct from modern commercial root beers which are typically carbonated with pressurized CO2 and may contain artificial flavors.
 
 ## Historical Context
 
-Root beer evolved from "small beer" — low-alcohol fermented beverages common in colonial America. These were brewed from locally available roots, barks, [[immune-modulating-mushrooms-and-herbs]] as a safer alternative to often-contaminated water. The primary flavoring, sassafras root, was widely used in Indigenous American medicine and cooking long before European contact.
+Root beer evolved from "small beer" — low-alcohol fermented beverages common in colonial America. These were brewed from locally available roots, barks, and herbs as a safer alternative to often-contaminated water. The primary flavoring, sassafras root, was widely used in Indigenous American medicine and cooking long before European contact.
 
-In 1960, the FDA banned sassafras root and oil as food additives after studies showed safrole (the primary aromatic compound) caused [[blesching-cannabis-liver-cancer]] in rats. Modern commercial root beers use artificial sassafras flavoring or safrole-free extracts. Home brewers can use safrole-free sassafras extract or alternative roots.
+In 1960, the FDA banned sassafras root and oil as food additives after studies showed safrole (the primary aromatic compound) caused liver cancer in rats. Modern commercial root beers use artificial sassafras flavoring or safrole-free extracts. Home brewers can use safrole-free sassafras extract or alternative roots.
 
 ## Key Ingredients
 
 ### Sassafras (Safrole-Free)
 
 - Traditional sassafras root bark provides the distinctive root beer flavor — creamy, vanilla-like, and slightly medicinal
-- Safrole-free sassafras extract is commercially available and legal for [[faires-hops-cultivation-and-home-brewing]]
+- Safrole-free sassafras extract is commercially available and legal for home brewing
 - Some home brewers use small amounts of traditional sassafras root bark, understanding the safrole risk — the FDA ban applies to commercial products, not home use
 - Sassafras leaves (file powder) do not contain significant safrole and are safe to use
 
@@ -130,7 +130,7 @@ Home-fermented root beer builds pressure in sealed bottles. Over-carbonated bott
 - Refrigerated: drink within 1-2 weeks for best flavor and carbonation
 - Room temperature: carbonation continues to build — dangerous in sealed bottles
 - Serve chilled over ice
-- Root beer floats with vanilla [[ice-cream-bean-entity]] are a classic serving method
+- Root beer floats with vanilla ice cream are a classic serving method
 - Unfermented root beer syrup (no yeast) can be stored refrigerated for months and mixed with carbonated water
 
 ## Flavor Variations
@@ -143,6 +143,6 @@ Home-fermented root beer builds pressure in sealed bottles. Over-carbonated bott
 
 ## See Also
 
-- kombucha brewing — another home-brewed fermented beverage
-- kefir making — fermented beverage with natural carbonation
+- [[kombucha-brewing]] — another home-brewed fermented beverage
+- [[kefir-making]] — fermented beverage with natural carbonation
 - [[vinegar-making]] — another traditional fermentation with sugar and yeast

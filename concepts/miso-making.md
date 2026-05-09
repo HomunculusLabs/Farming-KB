@@ -11,7 +11,7 @@ sources: []
 
 Miso is a traditional Japanese fermented soybean paste. It is one of the most complex and time-intensive ferments in the culinary world, requiring months to years of aging to develop its characteristic deep umami flavor. Miso serves as the base for soups, marinades, glazes, dressings, and pickling brines.
 
-The essential components are: cooked soybeans, koji (rice or barley inoculated with [[aspergillus-oryzae]]), salt, and time.
+The essential components are: cooked soybeans, koji (rice or barley inoculated with Aspergillus oryzae), salt, and time.
 
 ## Koji Preparation
 
@@ -32,7 +32,7 @@ Koji is the foundational ingredient in miso making. It is steamed rice or barley
 
 ### Buying Koji
 
-for beginners, purchasing prepared koji rice or koji starter (koji-kin) is recommended. Many Japanese grocery stores and online suppliers carry both. Making koji from scratch requires careful and humidity control.
+For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recommended. Many Japanese grocery stores and online suppliers carry both. Making koji from scratch requires careful temperature and humidity control.
 
 ## Soybean Preparation
 
@@ -119,7 +119,7 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 - Aged miso develops deeper flavor over years
 - Do not boil miso — add to soup after removing from heat to preserve probiotics and flavor compounds
 - Miso keeps refrigerated for a year or more
-- Freeze in small portions for [[mushroom-long-term-storage]]
+- Freeze in small portions for long-term storage
 
 ## See Also
 

@@ -14,22 +14,14 @@ sources:
 type: concept
 ---
 
-# Escovopsis and [[ingham-beauveria-parasitic-fungi]] of Attine Ant Gardens
-
-The fungus-growing ants (tribe Attini) maintain one of the
-most complex mutualisms in nature, cultivating specialized
-basidiomycete fungi as their primary food source in
-underground gardens. This mutualism, which originated
-approximately 50-60 million years ago, has attracted a
-suite of specialized [[fungal-parasites]] that exploit the
+# Escovopsis and [[fungal-parasites]] that exploit the
 ant-fungus partnership. The most significant of these is
 Escovopsis, a genus of ascomycete fungi that parasitizes
 the cultivated fungal gardens and represents a major
 threat to ant colonies. The evolutionary arms race between
 attine ants and Escovopsis, mediated by mutualistic
 actinobacteria, provides one of the clearest examples of
-coevolutionary dynamics in [[fungal-ecology]]. These fungi are
-related to the broader [[ant-termite-fungal-symbiosis]].
+coevolutionary dynamics in [[ant-termite-fungal-symbiosis]].
 
 ## The Attine Ant-Fungus Mutualism
 
@@ -44,7 +36,7 @@ in lower attines), maintain optimal growing conditions,
 and protect the garden from competitors and parasites.
 
 Higher attines, particularly Atta and Acromyrmex, cultivate
-a very low diversity of ant-[[arthropod-associated-fungi]], often a
+a very low diversity of ant, often a
 single clonal cultivar that is transmitted vertically from
 parent to daughter colonies. This monoculture is maintained
 in an environment where the ants actively weed out
@@ -71,42 +63,7 @@ leaf-cutter ant nests, produces specialized conidia and
 mycelial structures adapted for growth on the cultivar
 fungus.
 
-### [[fungal-endemism-host-specificity]]
-
-Different Escovopsis species and strains show varying
-degrees of specificity for different attine ant-cultivar
-combinations. This specificity suggests a long coevolutionary
-history, with Escovopsis lineages tracking the phylogenetic
-diversification of their attine hosts. Molecular studies
-have shown that Escovopsis phylogeny broadly parallels
-that of the attine ants, consistent with a history of
-co-speciation.
-
-## Other Parasitic Fungi in Ant Gardens
-
-In addition to Escovopsis, several other fungi exploit
-attine gardens:
-
-### Specialized Mycoparasites
-
-Certain fungi are parasites of the attine fungi themselves.
-Escovopsis is the best known, but other specialized parasites
-have been isolated from ant nests. These may produce
-spherules made up of masses of conidiophores on the garden
-surface, forming visible lesions on the cultivar mycelium.
-
-### Opportunistic Contaminants
-
-Various opportunistic fungi can colonize ant gardens when
-the ants' hygiene behaviors are disrupted. These include
-generalist saprotrophs such as Trichoderma, Fusarium, and
-Mucor species that are normally suppressed by the ants'
-weeding behavior and the actinobacterial mutualists.
-
-## Ant Defense Mechanisms
-
-Attine ants employ multiple defense strategies against
-[[fungal-parasites]] of their gardens:
+### [[fungal-parasites]] of their gardens:
 
 ### Physical Weeding
 
@@ -144,3 +101,11 @@ where termite-fungus agriculture has evolved independently.
 The diversity of Escovopsis and other garden parasites
 likely mirrors the phylogenetic diversity of the attine
 ants and their cultivars.
+
+## Merged: What Is the Difference Between Saprotrophic and Parasitic Fungi?
+
+# What Is the Difference Between Saprotrophic and Parasitic Fungi?
+
+## See Also
+
+- [[dematiaceous-fungi-melanin-fungal-ecology]]

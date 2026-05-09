@@ -87,15 +87,6 @@ Understanding C/N ratios is essential for building compost piles. A mix
 of high-carbon (brown) and low-carbon (green) materials, blended to
 approach an overall C/N of roughly 25-30:1, will decompose efficiently
 without excessive nitrogen loss or nutrient tie-up. See
-[[solomon-composting-methods]].
-
-### For Sheet Composting
-
-Sheet composting -- spreading nutrient-rich, decomposable organic matter
-atop the soil and shallowly digging it in -- works faster than surface
-mulching because materials decompose faster when mixed into
-well-oxygenated soil. It must be done far enough in advance that there
-is time for decomposition before planting. See
 [[solomon-sheet-composting-mulch-gardening]].
 
 ### For Mulching
@@ -104,15 +95,6 @@ Permanent mulching with high-carbon materials (straw, leaves) can
 gradually build soil humus but may temporarily tie up nitrogen near the
 surface. This is one reason Solomon cautions against relying solely on
 mulch gardening for nutrient supply. See
-[[solomon-mulching-and-cover-cropping]].
-
-### For the Complete Organic Fertilizer
-
-Solomon's COF recipe uses seed meals (low C/N, approximately 5-7:1) as
-the primary nitrogen source. Because these are mixed with high-C/N
-materials in the COF recipe and applied at moderate rates, the net effect
-is to provide readily available nutrients while the compost and organic
-matter in the soil maintain humus levels. See
 [[solomon-complete-organic-fertilizer-guide]].
 
 ## Soil Fertility Decline
@@ -133,8 +115,6 @@ food-producing garden.
 
 ## Related Topics
 
-- [[solomon-composting-methods]]
 - [[solomon-sheet-composting-mulch-gardening]]
-- [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-compost-organic-matter]]
 - [[solomon-soil-mineral-depletion]]

@@ -83,10 +83,7 @@ Parasitic wasps lay eggs inside or on leaf miner larvae. The wasp larvae then co
 
 ## Impact Assessment
 
-Leaf miners cause relatively few problems to indoor cannabis crops compared to other pests like [[spider-mites-cannabis]] or aphids-cannabis|aphids. However, their tunneling damage can:
-
-- Reduce photosynthetic capacity across affected leaves
-- Create entry points for [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and bacterial infections
+Leaf miners cause relatively few problems to indoor cannabis crops compared to other pests like [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and bacterial infections
 - Slow overall plant development and delay maturation
 - Prolong flowering time, potentially reducing yield
 - Affect plant aesthetics and harvest quality in severe cases
@@ -134,9 +131,6 @@ The key advantage in leaf miner management is that the protected nature of larva
 ## See Also
 
 - thrips-cannabis|Thrips — another leaf-damaging pest with similar feeding patterns
-- [[spider-mites-cannabis]] — most common indoor cannabis pest
-- aphids-cannabis|Aphids — common sap-sucking pest
 - [[cannabis-pest-management-guide]] — comprehensive IPM overview
-- [[gaias-garden-host-plants-beneficial-insects]] — parasitic wasp options
 - [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[hamilton-pest-and-disease-control-organic]]

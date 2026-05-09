@@ -52,36 +52,6 @@ in this genus before being transferred to Psilocybe.
 Pluteus contains 6 documented neurotropic species, making it one of the
 more significant minor genera:
 
-- **[[pluteus-salicinus]]**: A widespread species found in North America
-  and Europe, growing on dead wood of willow and other hardwoods. It
-  is one of the best-known neurotropic Pluteus species and has
-  confirmed psilocybin and psilocin content. It is recognized by its
-  grey to brown cap, free gills, and pink spore print.
-
-- **Pluteus glaucus**: Found in Europe and North America on dead wood.
-  It has confirmed neurotropic chemistry and may blue when bruised.
-
-- **Pluteus villosus**: Documented from Europe, growing on dead wood.
-  Less commonly encountered than P. salicinus.
-
-- **Pluteus atricapillus**: A European species with confirmed
-  neurotropic chemistry.
-
-- **Pluteus phaeocyanopus**: Described from Europe, this species is
-  notable for its blueing reaction and confirmed psilocybin content.
-
-- **Pluteus nigroviridis**: A less commonly documented species with
-  suspected neurotropic chemistry.
-
-Pluteus species are saprotrophic on dead wood and are characterized by
-their free gills (not attached to the stem) and pink spore prints. They
-are generally smaller and less conspicuous than Gymnopilus species.
-
-## Inocybe
-
-Inocybe contains 3 documented neurotropic species, all primarily European
-in distribution:
-
 - **[[inocybe-aeruginascens]]**: Discovered and described from Germany, this
   species is of particular chemical interest because it contains
   aeruginascin (4-phosphoryloxy-N,N,N-trimethyltryptamine), a compound
@@ -111,32 +81,10 @@ Conocybe contains 4 documented neurotropic species:
   is used in divination ceremonies alongside Psilocybe species. It is
   a small, fragile species found on disturbed ground and dung.
 
-- **[[conocybe-cyanopus]]**: Found in North America and Europe, this
-  species grows on dung and enriched soil. It has confirmed
-  psilocybin content.
-
-- **Conocybe kuehneriana**: A European species with documented
-  neurotropic chemistry, found on dung and manured soil.
-
-- **Conocybe smithii**: A North American species with confirmed
-  psilocybin content, growing on dung and disturbed ground.
-
-Conocybe species are small, delicate mushrooms that are easily
-overlooked. They are coprophilous or found on enriched soils. Accurate
-identification requires microscopic examination, and several non-
-neurotropic Conocybe species are toxic.
-
-## See Also
-
-- [[hypholoma-popperianum]]
-
-- [[pluteus-romellii]]
+- **[[hypholoma-popperianum]]
 
 - [[pluteus-villosus]]
 
-- [[conocybe-siligineoides]]
-
 - [[neurotropic-fungi-classification]]
-- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[gymnopilus-genus-neurotropic-species]]
 - [[copelandia-panaeolus-genera]]

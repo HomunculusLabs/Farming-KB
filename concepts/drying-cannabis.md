@@ -119,18 +119,8 @@ and drying workload.
 ## Transition to Curing
 
 Once buds pass the snap test and feel dry externally, they still contain internal
-moisture. They are ready for [[curing-cannabis]], which removes this remaining moisture
-and develops full flavor and aroma. Moving too quickly from drying to long-term storage
-without curing risks mold and suboptimal quality. A dry bud will weigh approximately
-75 percent less than its wet weight at harvest.
-
-## See Also
-
-- [[curing-cannabis]] -- the second post-harvest stage
-- [[harvest-window-cannabis]] -- determining when to harvest for drying
+moisture. They are ready for [[curing-cannabis]] -- the second post-harvest stage
 - [[flushing-nutrients]] -- pre-harvest preparation for better drying
-- [[carbon-filter-cannabis]] -- controlling odor during drying
 - [[cannabis-odor-control-and-carbon-filters]]
-- [[cannabis-flushing-before-harvest]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]
 - [[teaming-with-microbes-plant-control]]

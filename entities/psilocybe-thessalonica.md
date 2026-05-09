@@ -16,45 +16,9 @@ Greece is home to several Psilocybe species, reflecting the country's diverse cl
 ## Taxonomy and Etymology
 
 The species epithet *thessalonica* honors the city of Thessaloniki and the broader region of Macedonia in northern Greece, from which the type collection was made. Guzmán described the species based on macroscopic and microscopic morphology, placing it within Psilocybe section psilocybe-sect.-psilocybe.
-Molecular phylogenetic studies have since confirmed its placement among European and Mediterranean bluing Psilocybe species, with closest affinities to [[psilocybe-serbica]] and other Balkan taxa.
-The species represents the southernmost confirmed member of the European clade of section Psilocybe, adapted to the Mediterranean climate regime. Its phylogenetic position suggests that the Balkan Peninsula served as a refugium and diversification center for European Psilocybe during Pleistocene glacial cycles, allowing the persistence and subsequent speciation of lineages that were extirpated further north.
-
-## Description
-
-Basidiocarps are small. The pileus is hemispherical to convex, expanding to plano-convex with age, 8 to 25 mm in diameter. It is hygrophanous, dark brown to reddish brown when moist, fading to ochraceous tan or straw-colored upon drying.
-The margin is translucently striate when wet. The lamellae are adnate to sinuate, subdistant, narrow, initially grayish before darkening to dark purplish brown as spores mature.
-The stipe is 30 to 60 mm long, 1 to 2.5 mm thick, central, equal, pruinose above, whitish to pale brownish, and develops prominent blue bruising when handled or injured. A fibrillose partial veil may leave a faint annular zone on the stipe.
-Spore prints are dark purplish brown. Basidiospores are broadly ellipsoid to slightly rhomboid in face view, measuring approximately 9 to 12 µm by 6 to 8 µm, with a thickened wall and an apical germ pore.
-Cheilocystidia are abundant, lageniform to ventricose with elongated necks. Pleurocystidia are less common but of similar morphology.
-
-### Microscopic Features
-Basidiospores measure 8 to 11 µm long by 5 to 7 µm wide, ellipsoid in face view, with notably thick walls and a distinct apical germ pore. The spore ornamentation is smooth under light microscopy.
-Cheilocystidia are lageniform to mucronate, measuring 20 to 30 µm in total length, with a conspicuous narrow neck that may be flexuous or slightly capitate at the apex. They are abundant, forming a well-developed sterile band on the lamellar edges.
-Basidia are 4-spored, clavate, measuring 16 to 22 µm long, with sterigmata up to 4 µm. The pileipellis is a cutis to ixocutis, composed of hyaline, gelatinized hyphae 2 to 4 µm wide, giving the pileus surface a slight gelatinous quality when moist.
-Clamp connections are present at septa. The subhymenial layer is tightly compacted. The combination of thick-walled spores and prominent lageniform to mucronate cheilocystidia aids in distinguishing *P. thessalonica* from related Balkan species.
-
-## Distribution and Habitat
-
-### Geographic Range
-*Psilocybe thessalonica* is known from the Mediterranean region, with confirmed collections from the vicinity of Thessaloniki in northern Greece. Additional records from the broader Balkan Peninsula, including parts of Macedonia and possibly Albania, are suspected but require molecular confirmation.
-The species is considered endemic or near-endemic to the southern Balkans, reflecting the region's unique mycological diversity at the intersection of Mediterranean and temperate European fungal floras. The Balkan Peninsula is recognized as a biodiversity hotspot for fungi, and *P. thessalonica* is one of several Psilocybe species with restricted ranges in this area.
-
-### Ecology
-The species grows in Mediterranean grasslands, olive groves, and open oak woodlands, typically on calcareous soils derived from limestone substrates. It has been collected from well-drained, alkaline soils in areas with warm, dry summers and cool, moist winters characteristic of the Mediterranean climate.
-Fruiting occurs from October through December, typically triggered by the first significant autumn rains that soften the hard summer-baked soils. The species is found at low to moderate elevations, generally below 800 meters.
-This edaphic specialization may be a key factor limiting its distribution to the limestone-dominated landscapes of the southern Balkans. The species has not been reported from the more acidic soils of northern European grasslands, supporting the hypothesis that soil chemistry plays a significant role in its habitat selection.
-
-## Chemistry
-
-The species contains [[psilocybin-compound]] and [[psilocin]], as evidenced by both the characteristic blue bruising reaction and chemical analysis. Psilocybin has been confirmed by both thin-layer chromatography (TLC) and high-performance liquid chromatography (HPLC) analyses of dried fruiting body tissue.
-Psilocin is present in the fresh material, consistent with the strong bluing reaction observed on the stipe and lamellae. [[baeocystin]] is also likely present, as it commonly co-occurs with psilocybin in section Psilocybe species, though specific quantitative data are limited.
-Overall potency is considered comparable to [[psilocybe-serbica]] and other Balkan Psilocybe species, placing it in the moderate range. The psychoactive effects are consistent with those of other psilocybin-containing fungi, primarily mediated by agonist activity at serotonin 5-HT2A receptors.
-The onset of effects following ingestion typically occurs within 30 to 60 minutes, with a duration of 4 to 6 hours, consistent with the pharmacokinetic profile of orally administered psilocybin. These parameters align with those reported for other section Psilocybe species of similar alkaloid content.
-
-## Similar Species
-
-*Psilocybe thessalonica* is most easily confused with [[psilocybe-serbica]], which occurs in the broader Balkan region and shares a similar macroscopic appearance. Reliable separation requires microscopic examination, particularly of spore dimensions and cystidial shapes.
-It may also be confused with [[psilocybe-moravica]] and [[psilocybe-bohemica]], though these species have more northerly distributions and different ecological preferences. The calcareous soil association of *P. thessalonica* can serve as a supporting ecological character for identification in the field.
+Molecular phylogenetic studies have since confirmed its placement among European and Mediterranean bluing Psilocybe species, with closest affinities to [[psilocybin]] and [[baeocystin]] is also likely present, as it commonly co-occurs with psilocybin in section Psilocybe species, though specific quantitative data are limited.
+Overall potency is considered comparable to [[psilocybe-serbica]], which occurs in the broader Balkan region and shares a similar macroscopic appearance. Reliable separation requires microscopic examination, particularly of spore dimensions and cystidial shapes.
+It may also be confused with [[psilocybe-bohemica]], though these species have more northerly distributions and different ecological preferences. The calcareous soil association of *P. thessalonica* can serve as a supporting ecological character for identification in the field.
 Non-psychoactive lookalikes in Mediterranean grasslands include various species of Deconica and Agrocybe, none of which exhibit bluing reactions. The absence of blue bruising in these species provides a reliable field character for exclusion. Observers should note that some Deconica species may exhibit weak bluish discoloration on very old or damaged specimens, but this should not be confused with the strong, rapid blue bruising typical of Psilocybe section Psilocybe.
 
 Given the morphological overlap with other Balkan Psilocybe species, herbarium documentation and molecular sequencing are recommended for any collections that may represent range extensions of *P. thessalonica*.
@@ -74,9 +38,65 @@ The Mediterranean Basin biodiversity hotspot, in which *P. thessalonica* occurs,
 
 ## See Also
 
-- [[psilocybe-serbica]]: closely related Balkan species
 - [[psilocybe-bohemica]]: Central European congener
-- [[psilocybe-moravica]]: related species from the Czech Republic
-- [[psilocybin-compound]]: primary psychoactive alkaloid
-- [[baeocystin]]: minor tryptamine alkaloid likely present
+- [[psilocybin]]: primary psychoactive alkaloid
 - [[gartz-magic-mushrooms-global-distribution-patterns]]: source survey covering this species
+## Practical Considerations
+
+When working with Psilocybe thessalonica, several practical factors should be
+carefully considered to achieve optimal results. These include
+the specific conditions of the implementation context, available
+resources, timing requirements, and the interactions between this
+topic and other elements of the broader system. A holistic view
+that considers these interconnections produces better outcomes.
+
+Environmental conditions such as temperature, moisture, and
+seasonal patterns significantly influence results. Monitoring these
+variables and adapting practices accordingly is essential for success.
+The most effective practitioners develop keen observation skills and
+respond flexibly to changing conditions rather than following rigid
+protocols regardless of circumstances or local variation.
+
+Resource management encompasses not only material inputs but also
+knowledge, time, and ongoing attention. Realistic assessment of what
+can be sustainably maintained helps prevent overextension and ensures
+that implementations remain viable and productive over the long term.
+
+## Common Challenges and Solutions
+
+Several recurring challenges tend to arise in work related to this
+topic. These include variability in environmental conditions, the
+complexity of multi-variable interactions, and the difficulty of
+predicting outcomes with certainty in dynamic systems. Anticipating
+these challenges enables more proactive and effective management.
+
+Building resilience into implementations through diversity, redundancy,
+and adaptive capacity helps buffer against unpredictable events and
+conditions. This approach recognizes that some degree of uncertainty is
+inherent in working with natural systems and plans accordingly rather
+than assuming perfect predictability or control over outcomes.
+
+Documentation and record-keeping support continuous improvement by
+creating a reference base of observations, interventions, and results.
+This accumulated knowledge enables progressively better decision-making
+and helps identify patterns that might otherwise be overlooked in the
+complexity of day-to-day management and observation activities.
+
+## Future Directions
+
+Ongoing developments in research and practice continue to expand our
+understanding and improve available approaches. New techniques, tools,
+and analytical methods offer opportunities for refinement and innovation
+that can enhance both the effectiveness and efficiency of implementation.
+
+Integration with other disciplines and approaches creates synergies that
+advance the field as a whole. Cross-pollination of ideas from biology,
+ecology, data science, and traditional knowledge systems generates novel
+perspectives and solutions that may not emerge within any single domain.
+
+For continued learning, recommended resources include current research
+publications, established practitioner networks, hands-on experimentation,
+and systematic observation of outcomes across different conditions and
+approaches. The combination of study and practice provides the strongest
+foundation for developing deep expertise and contributing to the field.
+

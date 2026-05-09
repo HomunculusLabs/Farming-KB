@@ -115,13 +115,9 @@ To prevent unwanted crossing between varieties of the same species:
 
 ## Related Concepts
 
-- [[seed-saving-principles-solomon]]
 - [[seed-saving-techniques]]
-- [[permaculture-seed-saving]]
 - [[weed-management-strategies]]
 
 Sources: Steve Solomon, *Gardening When It Counts*, Chapter 5 (Seeds)
-- [[permaculture-design]]
 - [[solomon-gardening-when-it-counts-index]]
-- [[home-garden-seed-saving]]
 - [[permaculture-designers-manual-seed-saving-varieties]]

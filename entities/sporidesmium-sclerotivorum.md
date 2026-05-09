@@ -116,8 +116,6 @@ inoculum below economic thresholds over multiple growing seasons
 without repeated applications.
 
 ## See Also
-Related: [[savory-soil-organic-matter-and-decomposition-dynamics]], [[ingham-natural-growth-regulators-soil-microbes]], [[knf-imo-four-soil-foundation-and-field-application]]
-- [[sclerotinia-sclerotiorum]]
-- [[coniothyrium-minitans]]
+Related: [[ingham-natural-growth-regulators-soil-microbes]], [[sclerotinia-sclerotiorum]]
 - [[talaromyces-flavus]]
 - [[pythium-oligandrum]]

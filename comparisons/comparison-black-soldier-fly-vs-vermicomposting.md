@@ -7,7 +7,7 @@ tags: [composting, soil-science]
 sources: []
 ---
 ---
-title: [[black-soldier-fly-composting]] vs [[vermicomposting]]
+title: [[vermicomposting]]
 tags: [composting, soil, waste-management, insects]
 date: 2026-04-25
 updated: 2026-04-25
@@ -121,9 +121,6 @@ For growers considering both methods, the practical workflow is straightforward:
 
 ## See Also
 
-- [[black-soldier-fly-composting]]
 - [[vermicomposting]]
-- [[comparison-bokashi-vs-vermicomposting]]
 - [[composting-systems]]
-- [[black-soldier-fly-larvae-as-feed]]
 - [[compost-tea-brewing]]

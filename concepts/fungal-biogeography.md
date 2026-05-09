@@ -1,7 +1,7 @@
 ---
 title: Fungal Biogeography
 created: 2026-04-28
-tags: [mycology, biogeography, ecology, distribution]
+tags: [[mycology, biogeography, ecology, distribution]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -42,59 +42,7 @@ contrasting patterns:
 
 - **Ectomycorrhizal fungi** reach peak diversity in temperate and boreal
   forests where they associate with Pinaceae and Fagaceae.
-- **[[arbuscular-mycorrhizal-fungi]]** are most diverse in tropical and
-  subtropical soils.
-- **Saprotrophic fungi** broadly follow the latitudinal gradient but
-  with notable diversity in temperate forest leaf litter.
-- **Pathogenic fungi** show host-dependent distributions that may not
-  track latitude directly.
-
-## Dispersal Mechanisms
-
-Fungi employ diverse dispersal strategies that shape their geographic
-distributions:
-
-### Spore Dispersal
-
-Most fungi produce airborne spores that can travel long distances.
-Basidiospores and ascospores of many forest mushrooms are buoyant and
-may be transported hundreds of kilometers by wind. However, effective
-dispersal distance does not necessarily equal successful colonization,
-as establishment requires suitable environmental conditions.
-
-### Animal-Mediated Dispersal
-
-Animals serve as important fungal dispersal vectors. Mammals and birds
-consume fungal fruiting bodies and disperse spores through feces.
-Beetles, flies, and other insects carry spores on their bodies or in
-specialized structures. Some fungi have co-evolved with specific animal
-dispersers — truffles, for example, produce volatile compounds that
-attract mammalian foragers.
-
-### Water Dispersal
-
-Aquatic and riparian fungi exploit water currents for dispersal. Some
-terrestrial fungi produce splash-cup fruiting bodies that use raindrop
-impact to launch spores short distances.
-
-### Human-Mediated Dispersal
-
-Global trade and travel have inadvertently moved fungal species across
-continents, leading to biological invasions. The introduction of
-chestnut blight (Cryphonectria parasitica) to North America and Dutch
-elm disease (Ophiostoma novo-ulmi) to Europe are devastating examples
-of anthropogenic fungal dispersal.
-
-## Endemism and Cosmopolitanism
-
-A central debate in fungal biogeography concerns whether most fungal
-species are cosmopolitan (globally distributed) or endemic to
-particular regions. Early mycologists assumed that microscopic fungal
-spores enabled virtually unlimited dispersal, making most species
-cosmopolitan. Molecular evidence has challenged this view: many fungal
-taxa show strong geographic structure, with distinct genotypes or
-species restricted to particular continents or regions. However, some
-common mold species (e.g., [[aspergillus-niger]], Penicillium chrysogenum)
+- **[[aspergillus-niger]], Penicillium chrysogenum)
 do appear genuinely cosmopolitan, likely due to their association with
 human environments.
 
@@ -130,7 +78,5 @@ fungal communities may respond to environmental change.
 
 ## See Also
 
-- [[fungal-species-estimates]]
 - [[fungal-habitat-diversity]]
-- [[soil-mycobiome]]
 - [[endophytic-fungi]]

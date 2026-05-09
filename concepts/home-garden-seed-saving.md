@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Home Garden Seed Saving
 
-Saving seed from your own garden is one of the most rewarding aspects of [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]. It reduces costs, increases self-reliance, and allows you to develop strains adapted to your local conditions. Seed saving works with open-pollinated (non-hybrid) varieties, including most [[heirloom-vegetable-varieties]].
+Saving seed from your own garden is one of the most rewarding aspects of [[heirloom-vegetable-varieties]].
 
 ## Why Save Seed
 
@@ -78,7 +78,7 @@ Some crops cross-pollinate easily, meaning pollen from one variety can fertilize
 
 ## Seed Saving and Crop Rotation
 
-In the [[jadam-crop-rotation-critique]] system, seed saving integrates naturally. For example, broad beans used as a [[fukuoka-natural-cover-grass-green-manure]] crop can also be left to produce beans for eating and seed for the next season. The rotation helps maintain healthy conditions for seed-producing plants.
+In the [[fukuoka-natural-cover-grass-green-manure]] crop can also be left to produce beans for eating and seed for the next season. The rotation helps maintain healthy conditions for seed-producing plants.
 
 ## Legal Considerations
 
@@ -86,16 +86,7 @@ In many countries, older heritage varieties are not protected by plant breeders'
 
 ## Related
 
-- [[seed-saving-methods-home-garden]] Topics
-
 - [[heirloom-vegetable-varieties]] — choosing open-pollinated varieties for seed saving
-- [[crop-rotation-benefits]] — planning for seed production in rotation
 - [[green-manure-cover-crops]] — beans as dual-purpose seed and green manure
-- [[companion-planting-deterrents]] — biodiversity for healthy seed production
-
-## Source
-
-Based on *Organic Gardening* by Geoff Hamilton.
 - [[nursery-management]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[hamilton-crop-rotation-and-vegetable-planning]]

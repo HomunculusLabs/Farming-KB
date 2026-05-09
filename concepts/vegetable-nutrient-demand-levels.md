@@ -18,11 +18,7 @@ type: concept
 
 ## Overview
 
-Steve Solomon classifies vegetables into three tiers based on their soil fertility requirements: low-demand, medium-demand, and high-demand. This classification system is central to his approach in [[complete-organic-fertilizer-cof]] because it determines how much fertility input each crop needs and whether supplementary fertilization beyond basic soil building is required. Understanding these levels allows gardeners to allocate their limited compost, manure, and fertilizer resources efficiently rather than applying uniform fertility across the entire garden.
-
-## Low-Demand Vegetables
-
-Low-demand vegetables will grow to their maximum potential with only the basic soil-fertility-building program — modest amounts of compost or manure plus the standard annual application of [[complete-organic-fertilizer-cof]]. No additional side-dressing is necessary.
+Steve Solomon classifies vegetables into three tiers based on their soil fertility requirements: low-demand, medium-demand, and high-demand. This classification system is central to his approach in [[complete-organic-fertilizer-cof]]. No additional side-dressing is necessary.
 
 ### Root Crops
 - **Carrots**: Perform best in deeply dug, loose soil with moderate fertility. Excess nitrogen causes hairy, forked roots rather than large, clean ones. They are among the most space-efficient vegetables, producing well in closely spaced rows.
@@ -118,8 +114,6 @@ Solomon's own experience in Tasmania and Oregon's Willamette Valley informs this
 
 ## Related Concepts
 
-- [[complete-organic-fertilizer-cof]]
 - [[building-soil-fertility-long-term]]
-- [[compost-quality-grades]]
 - [[vegetable-seed-spacing-systems]]
 - [[crop-rotation-principles]]

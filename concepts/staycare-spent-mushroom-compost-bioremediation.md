@@ -12,30 +12,7 @@ type: concept
 
 Spent mushroom compost (SMC) and mushroom production wastes represent
 an abundant, low-cost resource that can serve as both inoculum carrier
-and growth substrate for [[fungal-bioremediation]] of contaminated soils.
-The use of SMC leverages the existing mushroom cultivation industry to
-provide economical sources of fungal biomass for environmental cleanup
-applications.
-
-## Sources and Characteristics
-
-Spent mushroom compost is the residual substrate remaining after
-commercial mushroom harvest. It typically contains residual mycelium of
-the cultivated mushroom species, partially decomposed lignocellulosic
-material, and a complex microbial community. Mushroom production wastes
-include substrate materials that have been fully colonized by fungal
-mycelium but may not have completed the fruiting cycle.
-
-Common mushroom cultivation substrates include wheat straw, sawdust,
-corn cobs, and various agricultural residues. These lignocellulosic
-materials provide both structural support and nutritional resources for
-fungal growth. After the mushroom crop is harvested, the spent substrate
-retains significant biological activity and can serve as an inoculum
-source for bioremediation applications.
-
-## Use as Fungal Inoculum
-
-### [[pleurotus-ostreatus]] Systems
+and growth substrate for [[pleurotus-ostreatus]] Systems
 
 Pleurotus ostreatus (oyster mushroom) is one of the most effective
 species for [[pah-bioremediation]] using spent mushroom compost approaches.
@@ -55,7 +32,7 @@ PAHs achieved.
 ### Comparison with Other Inoculum Methods
 
 P. ostreatus inoculated on straw was found superior to P. chrysosporium
-and [[trametes-versicolor]] in ability to colonize soils. Straw was also a
+and [[trametes-versicolor-entity]] in ability to colonize soils. Straw was also a
 successful carrier for introducing P. ostreatus in trials with unsterile
 soils contaminated with both PAHs and heavy metals. However, commercial
 mushroom-production wastes used as substrate for P. ostreatus with PAH-
@@ -127,7 +104,5 @@ enhanced treatment of complex contamination scenarios.
 
 ## See Also
 
-- [[staycare-composting-as-a-fungal-bioremediation-strategy]]
 - [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[staycare-bioaugmentation-versus-biostimulation-fungal-bioremediation]]

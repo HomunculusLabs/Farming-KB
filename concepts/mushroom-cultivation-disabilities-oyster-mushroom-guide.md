@@ -53,61 +53,29 @@ Moisture content must be 65-75%. In hot climates, additives should not exceed 7.
 
 ### Step 6-7: Pasteurization and Inoculation
 
-Bags are pasteurized at 90-100 degrees C for 3-4 hours (see [[mushroom-cultivation-disabilities-pasteurization-methods]]). After cooling, inoculation is performed in a clean room using sorghum spawn. Ten to twenty sorghum seeds are dropped into each bag near an alcohol lamp flame to prevent contamination.
+Bags are pasteurized at 90-100 degrees C for 3-4 hours (see [[exotic-mushroom-cultivation-guide]]
 
-### Step 8: Incubation
-
-Bags are placed in an incubation house with minimal ventilation and light for the first 10 days. After 10 days, ventilation regulates temperature. After 20-25 days, more light and ventilation are introduced. Oyster mushroom incubation takes approximately 4 weeks.
-
-### Step 9-10: Opening Bags and Maintenance
-
-After full mycelium colonization, bags are opened and transferred to the fruiting house. Key environmental controls:
-
-- Temperature: 25-35 degrees C (incubation), adjusted for fruiting
-- Humidity: 80-85%
-- Light: adequate but indirect
-- Ventilation: carbon dioxide below 5%
-
-Watering is done 2-3 times daily. Mushrooms are harvested at least twice daily to collect only young, strong specimens.
-
-### Production Timeline for Oyster Mushrooms
-
-| Flush | Production time (weeks from inoculation) |
-|---|---|
-| 1st flush | 5 |
-| 2nd flush | 8 |
-| 3rd flush | 11 |
-| 4th flush | 14 |
-| 5th flush | 17 |
-
-## Adaptations for People with Disabilities
-
-The manual emphasizes that each person is different, and two people with the same disability may not have the same abilities. Trainees develop their own personal methods. For example, people unable to use both hands can use their feet for each step of bag preparation: filling the bag, holding the bag, placing the plastic ring, and tying with rubber bands. Creative thinking and multiple options are encouraged for every task.
-
-## Mushroom House Design
-
-Low-cost mushroom houses can be built from readily available materials:
-
-- Rice straw, grass, leaves, bamboo, tree branches
-- Old rice and grain bags, shade mesh
-
-Capacity guidelines: 1,000 bags (2m x 3m), 2,000 bags (3m x 4m), up to 4,000 bags (5m x 6m). Internal systems include traditional bamboo shelves, suspended systems, or heavy-duty steel racks for commercial operations.
-
-## Yield Expectations
-
-Based on trainee experience in Ubon Ratchathani (2000): average yield of 250 grams per bag over 3 months of fruiting, with oyster mushrooms selling at approximately 25 Baht per kg.
-
-## See Also
-
-- [[exotic-mushroom-cultivation-guide]]
-
-- [[mushroom-cultivation-disabilities-training-manual-overview]]
 - [[mushroom-cultivation-disabilities-pasteurization-methods]]
-- [[mushroom-cultivation-disabilities-marketing-and-enterprise]]
 - [[oyster-mushroom-bag-cultivation]]
-- [[mushroom-cultivation-basics]]
 - [[holzer-mushroom-cultivation-methods]]
-- [[mushroom-spawn-making-detailed]]
 - [[mushroom-substrate-recipes]]
-- [[mushroom-cultivation-troubleshooting-guide]]
 - [[mushroom-house-construction-duggar]]
+## Practical Considerations
+
+Successful implementation of Mushroom Cultivation for Disabilities - Oyster Mushroom Guide requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

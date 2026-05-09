@@ -138,13 +138,9 @@ kills beneficial microorganisms in FPJ and OHN. Seeds should not remain
 in solution beyond 24 hours to avoid oxygen deprivation. After soaking,
 the paper towel should stay moist but not waterlogged, as excess
 moisture creates anaerobic conditions favorable to pathogens.
-
 ## See Also
 
-- [[knf-seed-treatment-and-soil-foundation]] for KNF soil preparation
-  and microbial activation
 - [[cannabis-seed-germination]] for general cannabis germination
   methods
-- [[knf-brown-rice-vinegar]] for BRV preparation
 - [[knf-oriental-herbal-nutrient]] for OHN preparation
 - [[knf-fermented-plant-juice]] for FPJ preparation

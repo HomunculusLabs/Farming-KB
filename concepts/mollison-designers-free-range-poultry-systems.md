@@ -1,33 +1,7 @@
 ---
 title: Free-Range Poultry Systems
 created: 2026-04-28
-tags: [permaculture, poultry, animal-integration, zone-1-2, forage-systems]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Free-Range Poultry Systems
-
-Free-range poultry systems integrate chickens, ducks, geese, and other fowl
-into the permaculture landscape as active contributors to soil fertility, pest
-control, and food production. In the Permaculture Designers Manual, Mollison
-emphasizes that poultry are not merely livestock to be housed and fed but are
-mobile processing units that convert forage, insects, and food waste into eggs,
-meat, and manure. When properly managed within a designed system, poultry
-reduce the need for external inputs, cycle nutrients through the landscape,
-and perform essential ecological functions such as weed suppression, insect
-control, and soil aeration.
-
-## Poultry Functions in Permaculture
-
-Every element in a permaculture system should perform multiple functions, and
-poultry exemplify this principle. Chickens scratch and aerate soil, consume
-insect pests and weed seeds, produce nitrogen-rich manure, and provide eggs
-and meat. Ducks control snails and aquatic weeds in wetland areas and around
-[[mollison-designers-sewage-aquaculture-systems]]. Geese graze on grassy weeds
+tags: [[mollison-designers-sewage-aquaculture-systems]]. Geese graze on grassy weeds
 in orchards and can serve as alarm animals. Guinea fowl are exceptional tick
 and insect controllers. By selecting appropriate species and breeds for each
 function, the designer creates a complementary poultry guild that services
@@ -52,16 +26,7 @@ Chicken tractors can be run over future garden beds before planting,
 incorporating manure and removing weed seeds and soil-dwelling pests. After
 the tractor has processed an area for 1 to 2 weeks, the bed is ready for
 planting with no additional fertilization required. This sequence integrates
-directly with [[mollison-designers-house-garden-integration]] by preparing
-Zone 1 beds efficiently. Tractors can also be moved through established
-orchards in Zone 2 to clean up fallen fruit and control codling moth and
-other pest populations.
-
-### Forage Systems for Poultry
-
-Mollison advocates designing dedicated forage systems that reduce or
-eliminate the need for purchased grain feed. Perennial forage plants such
-as comfrey (Symphytum spp.), [[tagasaste]] (Chamaecytisus proliferus), mulberry
+directly with [[tagasaste]] (Chamaecytisus proliferus), mulberry
 (Morus spp.), and chicory (Cichorium intybus) provide high-protein green
 fodder. Seed-producing annuals and perennials like amaranth, sunflower,
 millet, and quinoa supply grain. A well-designed poultry forage system can
@@ -117,13 +82,7 @@ produces approximately 30 to 40 kilograms of manure per year, rich in NPK
 and micronutrients. When distributed through chicken tractor rotations or
 deep litter systems in poultry houses, this manure becomes the primary
 fertility source for garden beds and orchards. The integration of poultry
-with [[mollison-designers-fuelwood-forestry-systems]] through poultry forage
-in alley cropping or silvopastoral systems creates additional nutrient
-cycling pathways across the property.
-
-## Summary
-
-Free-range [[poultry-systems-in-permaculture]] design integrate chickens, ducks,
+with [[poultry-systems-in-permaculture]] design integrate chickens, ducks,
 geese, and other fowl as multi-functional elements that provide eggs, meat,
 manure, pest control, and soil cultivation. Chicken tractors, designed
 forage systems, layered predator protection, and appropriate breed selection

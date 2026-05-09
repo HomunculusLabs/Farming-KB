@@ -8,7 +8,7 @@ sources: []
 ---
 # Stanislav Grof
 
-Stanislav Grof (born 1931) is a Czech-born American psychiatrist, one of the founding figures of transpersonal psychology, and a pioneer of psychedelic psychotherapy. Over more than six decades of research, he conducted thousands of psychedelic sessions and developed influential theoretical frameworks for understanding non-ordinary states of consciousness. See [[lsd-therapeutic-history]] for the clinical context of his early work and [[psychedelic-experience-stages]] for his experiential mapping.
+Stanislav Grof (born 1931) is a Czech-born American psychiatrist, one of the founding figures of transpersonal psychology, and a pioneer of psychedelic psychotherapy. Over more than six decades of research, he conducted thousands of psychedelic sessions and developed influential theoretical frameworks for understanding non-ordinary states of consciousness. See [[psychedelic-experience-stages]] for his experiential mapping.
 
 ## Biography
 
@@ -76,16 +76,10 @@ Grof proposed the concept of COEX (Condensed Experience) Systems — constellati
 
 ## Legacy
 
-Grof's extensive clinical research database and theoretical frameworks remain foundational to the modern psychedelic renaissance. His perinatal matrix model provides a map for understanding difficult experiences in [[psychedelic-experience-stages]], and his integration techniques inform contemporary [[philosophical-implications-of-psychedelics]].
+Grof's extensive clinical research database and theoretical frameworks remain foundational to the modern psychedelic renaissance. His perinatal matrix model provides a map for understanding difficult experiences in [[philosophical-implications-of-psychedelics]].
 
 ## See Also
 
-- [[lsd-therapeutic-history]] — Clinical context of Grof's research
 - [[psychedelic-experience-stages]] — Experiential mapping and difficult experiences
-- [[philosophical-implications-of-psychedelics]] — Post-session integration approaches
-
-## Related
-
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[ketamine-psychedelic-journey-guide]]
 - [[lsd-psychedelic-experience-guide]]

@@ -136,11 +136,8 @@ Nutritional highlights per 100 g fresh berries:
 
 ## See Also
 
-- [[hippophae-rhamnoides]]
 - [[elaeagnus-angustifolia]]
-- [[elaeagnus-umbellata]]
 - [[alnus-rubra]]
-- [[caragana-arborescens]]
 - [[black-locust-entity]]
 - rosa canina
 - [[crataegus-monogyna]]

@@ -109,10 +109,7 @@ Jeavons quotes Gandhi: "To forget how to dig the earth and tend the soil is to f
 
 ## See Also
 
-- [[jeavons-composting-methods]] — Traditional compost pile construction
 - [[jeavons-grow-biointensive-method-overview]] — The complete method
-- [[jeavons-double-digging-bed-preparation]] — Creating worm-friendly soil structure
 - [[jeavons-soil-fertility]] — Nutrient management and sustainability
-- [[jeavons-natural-pest-control]] — Protecting worms from pesticides
 - [[jeavons-flat-preparation-seedling-raising]] — Using vermicompost in flat soil mix
 - [[jeavons-master-planning-mini-farms]] — Integrating vermicomposting into farm design

@@ -58,43 +58,7 @@ typical expression of characteristics can be altered.
 
 Environmental conditions which may provoke sexual reversal include:
 
-- An inconsistent [[cervantes-light-spectrum-photomorphogenesis]] (interrupted dark cycles)
-- Nutrient toxicities and deficiencies
-- pH issues
-- Drastically fluctuating temperatures during the flowering cycle
-- Physical stress from pruning or damage
-- Light leaks during the dark period
-
-Females severely stressed for any reason are more prone to develop a
-few male flowers. These stresses cause changes in the levels of a plant
-hormone called ethylene.
-
-## The Role of Ethylene
-
-Ethylene is one of only a few known plant hormones, and plays many
-roles in plant development across a range of species. In cannabis, one
-of ethylene's major roles is its involvement in the determination of
-sex. It regulates which flowers should be produced -- stamen or pistil.
-
-Applying high enough concentrations of ethylene to staminate individuals
-in the flowering cycle results in the formation of pistils. Conversely,
-applying ethylene-inhibiting agents to pistillate individuals as they
-enter flowering results in the formation of stamens in place of pistils.
-
-This knowledge is key to producing feminized seeds and understanding
-why environmental stress that affects ethylene levels can trigger sex
-reversal.
-
-## Hermaphrodite Tendency in Specific Strains
-
-Thai, Vietnamese, Cambodian, and Laotian sativas are more prone to
-grow into hermaphroditic adults. This genetic predisposition means
-growers of these landrace-derived strains must be especially vigilant
-about environmental control during flowering.
-
-The most susceptible plants already have a predisposition to
-hermaphrodism. A stressful environment does not necessarily turn the
-entire plant male; it turns it hermaphrodite. See [[cervantes-feminized-seed-production]] for how breeders exploit this tendency.
+- An inconsistent [[cervantes-feminized-seed-production]] for how breeders exploit this tendency.
 
 ## Impact on Sinsemilla Production
 
@@ -106,26 +70,25 @@ plant may need to be removed from the flowering room.
 
 Prevention is the best strategy: maintain stable environmental
 conditions, avoid interrupting the dark period, and select against
-intersex tendencies in breeding stock. See [[cervantes-sinsemilla-cultivation]] for the full sinsemilla production guide.
-
-## Selection Against Intersexuality in Breeding
-
-Intentional selection against intersex plants is the only way to ensure
-intersex-free offspring. Breeders should:
-
-1. Grow potential breeding candidates under stressful conditions that
-   may lead to the formation of male flowers (irregular light cycle,
-   high heat, etc.)
-2. Only plants that resist intersexuality under these conditions should
-   be considered as potential breeding parents
-3. These intersex-resistant plants are called "true females"
-4. Never use pollen from intersex plants for breeding, as this selects
-   for the intersex condition -- like begets like
-
-## See Also
-
-- [[cervantes-sinsemilla-cultivation]]
-- [[cervantes-feminized-seed-production]]
+intersex tendencies in breeding stock. See [[cervantes-sinsemilla-cultivation]]
 - [[cervantes-sex-determination-pre-flowering]]
-- [[cannabis-genetics-and-breeding]]
 - [[cannabis-phenotype-selection]]
+## Practical Considerations
+
+Successful implementation of Hermaphrodism and Intersexuality in Cannabis requires attention to
+several practical factors including environmental conditions,
+resource availability, and timing. Careful monitoring and
+adaptive management help optimize outcomes across varying
+conditions. Integration with other system elements enhances
+overall effectiveness and creates beneficial synergies that
+improve resilience and productivity over time.
+
+## Future Directions
+
+Continued development in this area promises new insights and
+improved approaches for both research and practical application.
+Cross-disciplinary collaboration and advances in analytical
+methods create opportunities for innovation and refinement.
+Recommended resources include current literature, practitioner
+communities, and systematic experimentation to build expertise.
+

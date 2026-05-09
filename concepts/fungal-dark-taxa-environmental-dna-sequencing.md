@@ -1,7 +1,7 @@
 ---
 title: Fungal Dark Taxa and Environmental DNA Sequencing
 created: 2026-04-28
-tags: [mycology, biodiversity, environmental-dna, metagenomics, taxonomy]
+tags: [[mycology, biodiversity, environmental-dna, metagenomics, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -138,13 +138,8 @@ current conservation frameworks, which largely ignore microscopic and
 uncultured organisms. Until dark taxa are formally described and their
 ecological roles characterized, fungal conservation priorities remain
 incomplete at best.
-
 ## See Also
 
-- [[undescribed-fungal-taxa]]
-
 - [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[biodiversity-fungi-soil-ecosystems]]
 - [[fungal-biodiversity-measurement-methods]]
-- [[cryptic-species-fungal-biodiversity]]
 - [[biodiversity-fungal-genetic-diversity]]

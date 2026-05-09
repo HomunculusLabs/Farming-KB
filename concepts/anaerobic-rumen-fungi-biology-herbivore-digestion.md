@@ -3,7 +3,7 @@ title: Anaerobic Rumen Fungi: Biology, Taxonomy, and Herbivore Digestion
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
 # Anaerobic Rumen Fungi: Biology, Taxonomy, and Herbivore Digestion
@@ -101,9 +101,7 @@ Knowledge of the life cycle remains incomplete, which makes evaluation of cultiv
 
 ## See Also
 
-- [[freshwater-fungi-collection-and-culturing]]
 - [[fungal-enzyme-systems]]
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[aquatic-fungi-and-ingoldian-spores]]
 
 ## Sources
@@ -111,8 +109,6 @@ Knowledge of the life cycle remains incomplete, which makes evaluation of cultiv
 - Chapter 22 in Biodiversity of Fungi: Inventory and Monitoring Methods (Mueller et al., eds.)
 - Ho, Y.W. and Barr, D.J.S. 1995. Classification of anaerobic gut fungi
 - Wubah, D.A. and Kim, D.S. 1995. Isolation from pond environment
-- [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-- [[fungi-in-composting-and-agricultural-waste-conversion]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[neocallimastix-frontalis]]

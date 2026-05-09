@@ -132,14 +132,9 @@ The Ethiopian Biodiversity Institute maintains the world's largest enset germpla
 
 ## See Also
 
-- [[perennial-vegetables]]
 - [[gaias-garden-perennial-vegetables]]
-- [[mollison-designers-banana-circle-waste-recycling-system]]
-
 - [[gymnopilus-ventricosus]]
 
-- [[colocasia-esculenta|Colocasia esculenta]] — taro, complementary tropical root crop
 - [[food-forest-permaculture|Food Forest]] — agroforestry design principles
-- [[permaculture|Permaculture]] — design framework
 - [[terra-preta|Terra preta]] — Amazonian dark earth for soil improvement
 - [[biochar|Biochar]] — soil amendment for tropical agroforestry systems

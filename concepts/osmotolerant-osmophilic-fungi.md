@@ -3,7 +3,7 @@ title: Osmotolerant and Osmophilic Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology, fungi]
 sources: []
 ---
 
@@ -73,27 +73,7 @@ In a study of desert soil in Saudi Arabia, 100 species belonging to 38 genera we
 
 ## Spoilage of Low-Water-Activity Foods
 
-Foods with low aw subject to fungal spoilage include salted fish, jams, jellies, and candy. The fungal species responsible are predominantly ascomycetes or their anamorphs (Pitt and Hocking 1997). Xeromyces bisporus is the most xerophilic fungus known, with a minimum aw for growth of approximately 0.61, and is a critical spoilage organism for dried foods and confectionery. These spoilage dynamics intersect with broader decomposition processes described in [[compost-building-guide]], where osmotolerant fungi may persist during the curing of high-sugar compost feedstocks.
-
-## Relationships to Other Stress-Tolerance Categories
-
-Osmophilic fungi are part of a broader spectrum of stress-tolerant fungi that includes:
-
-- Xerophilic/xerotolerant fungi (tolerate low matrix potential, not osmotic stress)
-
-- Halophilic/halotolerant fungi (tolerate high ionic strength)
-
-- Thermophilic/thermotolerant fungi (tolerate high temperatures)
-
-- Acidophilic/alkaliphilic fungi (tolerate extreme pH)
-
-- Oligotrophic fungi (tolerate low nutrient availability)
-
-- Rock-inhabiting fungi (tolerate UV, desiccation, temperature extremes)
-
-- Phoenicoid/fire-associated fungi (fruit on heat-treated substrata)
-
-Cross-tolerance between stress types is common. Many osmophilic species also exhibit significant heat tolerance and UV resistance, reflecting the overlap between osmotic stress and other environmental challenges in arid and high-salt habitats. Stress responses in these fungi share regulatory pathways with those documented in [[fungal-biodiversity-forest-ecosystems]], where microclimatic fluctuations impose multiple simultaneous stresses on decomposer communities.
+Foods with low aw subject to fungal spoilage include salted fish, jams, jellies, and candy. The fungal species responsible are predominantly ascomycetes or their anamorphs (Pitt and Hocking 1997). Xeromyces bisporus is the most xerophilic fungus known, with a minimum aw for growth of approximately 0.61, and is a critical spoilage organism for dried foods and confectionery. These spoilage dynamics intersect with broader decomposition processes described in [[fungal-biodiversity-forest-ecosystems]], where microclimatic fluctuations impose multiple simultaneous stresses on decomposer communities.
 
 ## Sampling Considerations
 
@@ -101,10 +81,7 @@ Isolation of osmophilic fungi requires media with high sugar or salt concentrati
 
 ## Related Topics
 
-- [[xerophilic-xerotolerant-fungi]] — fungi tolerating low matrix potential
 - [[halophilic-fungi]] — salt-tolerant and salt-requiring fungi
-- [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]] — comprehensive review of stress-tolerant fungi
 - [[acidophilic-alkalophilic-fungi]] — pH-extremophilic fungi
-- [[rock-inhabiting-oligotrophic-extremophilic-fungi]] — rock-colonizing stress fungi
 - [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]] — fire-associated fungi
 - [[saprobic-soil-fungi]] — general soil fungal ecology

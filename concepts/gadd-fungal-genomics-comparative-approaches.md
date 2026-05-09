@@ -141,10 +141,11 @@ gene knockout systems for non-model fungi, and integrating genomic data
 with ecological and environmental information. The growing number of
 fungal genomes creates opportunities for pan-genomic analyses that
 capture the full genetic diversity within fungal species and genera.
-
 ## Related concepts
 
-- [[gadd-rice-blast-magnaporthe-grisea]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-arbuscular-mycorrhizal-genomics]]
 - [[gadd-fungal-multilocus-sequence-typing]]
+
+## See Also
+
+- [[fungal-metal-biosorption-comparative]]
